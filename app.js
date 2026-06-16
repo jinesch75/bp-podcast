@@ -16,6 +16,7 @@ let segTimes = [];
 let activeSeg = -1;
 let userScrolling = false;
 let userScrollTimer = null;
+let currentLang = 'en';
 
 // ── Helpers ──────────────────────────────────────────────
 function showScreen(id) {
@@ -91,7 +92,38 @@ function renderEpisodeDetail() {
   audio.src = ep.audio;
   audio.load();
 
-  // Transcript
+  // Transcript (reset to English each time an episode is opened)
+  currentLang = 'en';
+  updateLangButtons();
+  renderTranscript();
+
+  // Topics
+  var chips = document.getElementById('ep-topics');
+  chips.innerHTML = '';
+  ep.topics.forEach(function (t) {
+    var c = document.createElement('div');
+    c.className = 'topic-chip';
+    c.textContent = t;
+    chips.appendChild(c);
+  });
+}
+
+// ── Script language ──────────────────────────────────────
+function segmentsForLang(ep, lang) {
+  if (lang === 'fr' && ep.segments_fr) return ep.segments_fr;
+  if (lang === 'de' && ep.segments_de) return ep.segments_de;
+  return ep.segments;
+}
+function updateLangButtons() {
+  document.querySelectorAll('#lang-switch .lang-btn').forEach(function (b) {
+    b.classList.toggle('active', b.getAttribute('data-lang') === currentLang);
+  });
+  document.getElementById('lang-note').classList.toggle('hidden', currentLang === 'en');
+}
+function renderTranscript() {
+  var ep = selectedEpisode;
+  var audio = document.getElementById('ep-audio');
+  var segs = segmentsForLang(ep, currentLang);
   var tw = document.getElementById('transcript');
   tw.innerHTML = '';
   tw.scrollTop = 0;
@@ -99,7 +131,7 @@ function renderEpisodeDetail() {
   segTimes = [];
   activeSeg = -1;
   var lastSpeaker = null;
-  ep.segments.forEach(function (seg, i) {
+  segs.forEach(function (seg, i) {
     var line = document.createElement('button');
     line.className = 't-line';
     line.type = 'button';
@@ -119,16 +151,14 @@ function renderEpisodeDetail() {
     segEls.push(line);
     segTimes.push(seg.t);
   });
-
-  // Topics
-  var chips = document.getElementById('ep-topics');
-  chips.innerHTML = '';
-  ep.topics.forEach(function (t) {
-    var c = document.createElement('div');
-    c.className = 'topic-chip';
-    c.textContent = t;
-    chips.appendChild(c);
-  });
+  // Re-sync highlight to the current audio position.
+  setActiveSeg(findSegIndex(audio.currentTime), true);
+}
+function setLang(lang) {
+  if (lang === currentLang) return;
+  currentLang = lang;
+  updateLangButtons();
+  renderTranscript();
 }
 
 // ── Karaoke highlighting ─────────────────────────────────
@@ -321,6 +351,11 @@ document.addEventListener('DOMContentLoaded', function () {
     document.getElementById('ep-audio').pause(); showScreen('screen-episodes');
   });
   document.getElementById('btn-back-episodes-result').addEventListener('click', function () { showScreen('screen-episodes'); });
+
+  // Script language switcher
+  document.querySelectorAll('#lang-switch .lang-btn').forEach(function (b) {
+    b.addEventListener('click', function () { setLang(b.getAttribute('data-lang')); });
+  });
 
   // Audio sync
   var audio = document.getElementById('ep-audio');
