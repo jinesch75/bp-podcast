@@ -16,8 +16,9 @@ let segTimes = [];
 let activeSeg = -1;
 let userScrolling = false;
 let userScrollTimer = null;
-let currentLang = 'en';   // site language: UI, audio, quiz, content (en | fr | de)
-let scriptLang = 'en';    // transcript display language only (en | fr | de | lb)
+let currentLang = 'en';   // site language: UI, audio, quiz, content, AND transcript (en | fr | de)
+// The transcript always shows the chosen UI language. Other-language scripts (incl. Luxembourgish)
+// remain in the data (segments_lb etc.) but are not displayed.
 
 // ── i18n: interface strings ──────────────────────────────
 const I18N = {
@@ -268,7 +269,7 @@ function audioForLang(ep) { var l = audioLangFor(ep); return l === 'en' ? ep.aud
 //  - the audio is English and that script has no native track (its segments are aligned to the English audio).
 function isScriptSynced(ep) {
   var a = audioLangFor(ep);
-  return scriptLang === a || (a === 'en' && !ep['audio_' + scriptLang]);
+  return currentLang === a || (a === 'en' && !ep['audio_' + currentLang]);
 }
 
 // ── Apply current language to the whole page ─────────────
@@ -351,7 +352,6 @@ function renderEpisodeList() {
 // ── Select episode ───────────────────────────────────────
 function selectEpisode(id) {
   selectedEpisode = EPISODES.find(function (e) { return e.id === id; });
-  scriptLang = currentLang;   // script defaults to the site language; user can switch it independently
   renderEpisodeDetail();
   showScreen('screen-episode');
 }
@@ -388,30 +388,16 @@ function renderEpisodeDetail() {
   });
 }
 
-// ── Script language ──────────────────────────────────────
+// ── Transcript (always the chosen UI language) ───────────
 function segmentsForScript(ep) {
-  if (scriptLang === 'fr' && ep.segments_fr) return ep.segments_fr;
-  if (scriptLang === 'de' && ep.segments_de) return ep.segments_de;
-  if (scriptLang === 'lb' && ep.segments_lb) return ep.segments_lb;
+  if (currentLang === 'fr' && ep.segments_fr) return ep.segments_fr;
+  if (currentLang === 'de' && ep.segments_de) return ep.segments_de;
   return ep.segments;
 }
 function updateLangButtons() {
   document.querySelectorAll('#lang-switch-global .lang-btn').forEach(function (b) {
     b.classList.toggle('active', b.getAttribute('data-lang') === currentLang);
   });
-  document.querySelectorAll('#lang-switch .lang-btn').forEach(function (b) {
-    b.classList.toggle('active', b.getAttribute('data-lang') === scriptLang);
-  });
-  // Read-along note whenever the displayed script is not the language being spoken.
-  var note = document.getElementById('lang-note');
-  if (!selectedEpisode) { note.classList.add('hidden'); return; }
-  var aLang = audioLangFor(selectedEpisode);
-  if (scriptLang === aLang) {
-    note.classList.add('hidden');
-  } else {
-    note.textContent = t('lang_note_tmpl', { lang: langName(aLang) });
-    note.classList.remove('hidden');
-  }
 }
 function renderTranscript() {
   var ep = selectedEpisode;
@@ -453,19 +439,11 @@ function renderTranscript() {
   // Re-sync highlight to the current audio position (only when synced).
   if (synced) setActiveSeg(findSegIndex(audio.currentTime), true);
 }
-// Header switcher: site language (UI + audio + quiz + content). Script follows it.
+// Header switcher: site language drives UI, audio, quiz, content AND the transcript.
 function setSiteLang(lang) {
   if (lang === currentLang) return;
   currentLang = lang;
-  scriptLang = lang;
   applyLang();
-}
-// Transcript switcher: changes only the displayed script (audio/UI unchanged).
-function setScriptLang(lang) {
-  if (lang === scriptLang) return;
-  scriptLang = lang;
-  updateLangButtons();
-  renderTranscript();
 }
 
 // ── Karaoke highlighting ─────────────────────────────────
@@ -661,12 +639,9 @@ document.addEventListener('DOMContentLoaded', function () {
   });
   document.getElementById('btn-back-episodes-result').addEventListener('click', function () { showScreen('screen-episodes'); });
 
-  // Header switcher → site language; transcript switcher → script language only.
+  // Header switcher → site language (drives UI, audio, quiz, content and transcript).
   document.querySelectorAll('#lang-switch-global .lang-btn').forEach(function (b) {
     b.addEventListener('click', function () { setSiteLang(b.getAttribute('data-lang')); });
-  });
-  document.querySelectorAll('#lang-switch .lang-btn').forEach(function (b) {
-    b.addEventListener('click', function () { setScriptLang(b.getAttribute('data-lang')); });
   });
 
   // Audio sync
