@@ -242,6 +242,12 @@
     <div class="logo-sub">Biergerpakt &middot; Podcast</div>
   </a>
   <div class="header-gov">
+    <div class="lang-switch" id="lang-switch-global" role="group" aria-label="Site language">
+      <button type="button" class="lang-btn active" data-lang="en">EN</button>
+      <button type="button" class="lang-btn" data-lang="fr">FR</button>
+      <button type="button" class="lang-btn" data-lang="de">DE</button>
+      <button type="button" class="lang-btn" data-lang="lb">LB</button>
+    </div>
     <img src="gov-light.svg" alt="The Government of the Grand Duchy of Luxembourg" style="height:36px; width:auto;" onerror="this.style.display='none'">
   </div>
 </header>
@@ -249,30 +255,30 @@
 <!-- SCREEN 1 · REGISTRATION -->
 <div id="screen-register" class="screen active">
   <div class="reg-hero">
-    <div class="tag">Biergerpakt &middot; Podcast Programme</div>
-    <h1>The Biergerpakt Podcast</h1>
-    <p>Living together in Luxembourg &ndash; discover the country, listen to each episode, follow along with the script, and prove what you have learned. Complete a quiz to earn your personal certificate.</p>
+    <div class="tag" data-i18n="reg_tag">Biergerpakt &middot; Podcast Programme</div>
+    <h1 data-i18n="podcast_name">The Biergerpakt Podcast</h1>
+    <p data-i18n="reg_intro">Living together in Luxembourg &ndash; discover the country, listen to each episode, follow along with the script, and prove what you have learned. Complete a quiz to earn your personal certificate.</p>
   </div>
   <div class="reg-form-wrap">
     <div class="card">
-      <div class="card-title">Your details</div>
-      <div class="card-sub">Please tell us your name. It is used only to personalise your certificate &ndash; nothing is sent anywhere or stored online.</div>
+      <div class="card-title" data-i18n="reg_card_title">Your details</div>
+      <div class="card-sub" data-i18n="reg_card_sub">Please tell us your name. It is used only to personalise your certificate &ndash; nothing is sent anywhere or stored online.</div>
       <div class="form-group">
-        <label for="inp-first">First name *</label>
-        <input class="form-input" type="text" id="inp-first" placeholder="First name">
-        <div class="error-msg" id="err-first">Please enter your first name.</div>
+        <label for="inp-first" data-i18n="label_first">First name *</label>
+        <input class="form-input" type="text" id="inp-first" placeholder="First name" data-i18n-ph="ph_first">
+        <div class="error-msg" id="err-first" data-i18n="err_first">Please enter your first name.</div>
       </div>
       <div class="form-group">
-        <label for="inp-last">Last name *</label>
-        <input class="form-input" type="text" id="inp-last" placeholder="Last name">
-        <div class="error-msg" id="err-last">Please enter your last name.</div>
+        <label for="inp-last" data-i18n="label_last">Last name *</label>
+        <input class="form-input" type="text" id="inp-last" placeholder="Last name" data-i18n-ph="ph_last">
+        <div class="error-msg" id="err-last" data-i18n="err_last">Please enter your last name.</div>
       </div>
       <div class="form-group">
-        <label for="inp-email">Email address (optional)</label>
-        <input class="form-input" type="email" id="inp-email" placeholder="you@email.com">
-        <div class="form-hint">Optional. Used only if it appears on your certificate.</div>
+        <label for="inp-email" data-i18n="label_email">Email address (optional)</label>
+        <input class="form-input" type="email" id="inp-email" placeholder="you@email.com" data-i18n-ph="ph_email">
+        <div class="form-hint" data-i18n="hint_email">Optional. Used only if it appears on your certificate.</div>
       </div>
-      <button class="btn btn-full" id="btn-register">Browse the episodes &rarr;</button>
+      <button class="btn btn-full" id="btn-register" data-i18n="btn_browse">Browse the episodes &rarr;</button>
     </div>
   </div>
 </div>
@@ -280,9 +286,9 @@
 <!-- SCREEN 2 · EPISODE LIST -->
 <div id="screen-episodes" class="screen">
   <div class="episodes-hero">
-    <div class="ep-badge-main">Biergerpakt &middot; Podcast Programme</div>
-    <h1>The Biergerpakt Podcast &ndash; All Episodes</h1>
-    <p>Choose an episode, listen along with the full script, then take the quiz to earn your personal certificate.</p>
+    <div class="ep-badge-main" data-i18n="programme_badge">Biergerpakt &middot; Podcast Programme</div>
+    <h1 data-i18n="episodes_h1">The Biergerpakt Podcast &ndash; All Episodes</h1>
+    <p data-i18n="episodes_intro">Choose an episode, listen along with the full script, then take the quiz to earn your personal certificate.</p>
   </div>
   <div class="episode-grid-wrap">
     <div id="episode-grid"></div>
@@ -293,7 +299,7 @@
 <div id="screen-episode" class="screen">
   <div class="ep-hero">
     <div class="ep-hero-inner">
-      <button class="btn btn-ghost no-print" id="btn-back-episodes" style="margin-bottom:16px; color:rgba(255,255,255,0.7);">&larr; All episodes</button>
+      <button class="btn btn-ghost no-print" id="btn-back-episodes" style="margin-bottom:16px; color:rgba(255,255,255,0.7);" data-i18n="btn_all_episodes">&larr; All episodes</button>
       <div class="ep-badge" id="ep-badge">Episode 1</div>
       <h1 id="ep-title"></h1>
       <p id="ep-description"></p>
@@ -301,14 +307,14 @@
   </div>
   <div class="ep-content">
     <div class="ep-card">
-      <div class="ep-card-title">&#127911; Listen to this episode</div>
+      <div class="ep-card-title"><span data-i18n="listen_title">&#127911; Listen to this episode</span></div>
       <audio id="ep-audio" controls preload="metadata"></audio>
-      <p class="player-hint">Press play and the script below will highlight along with the audio. Click any line to jump to that point.</p>
+      <p class="player-hint" data-i18n="player_hint">Press play and the script below will highlight along with the audio. Click any line to jump to that point.</p>
     </div>
 
     <div class="ep-card">
       <div class="transcript-head">
-        <div class="ep-card-title" style="margin-bottom:0;">&#128221; Episode script</div>
+        <div class="ep-card-title" style="margin-bottom:0;"><span data-i18n="script_title">&#128221; Episode script</span></div>
         <div class="transcript-tools">
           <div class="lang-switch" id="lang-switch" role="group" aria-label="Script language">
             <button type="button" class="lang-btn active" data-lang="en">EN</button>
@@ -316,23 +322,23 @@
             <button type="button" class="lang-btn" data-lang="de">DE</button>
             <button type="button" class="lang-btn" data-lang="lb">LB</button>
           </div>
-          <label class="follow-toggle"><input type="checkbox" id="follow-chk" checked> Auto-scroll with audio</label>
+          <label class="follow-toggle"><input type="checkbox" id="follow-chk" checked> <span data-i18n="autoscroll">Auto-scroll with audio</span></label>
         </div>
       </div>
-      <p class="lang-note hidden" id="lang-note">The audio is in English. This is the translated script for reading along.</p>
+      <p class="lang-note hidden" id="lang-note" data-i18n="lang_note">The audio is in English. This is the translated script for reading along.</p>
       <div class="transcript" id="transcript"></div>
     </div>
 
     <div class="ep-card">
-      <div class="ep-card-title">&#128203; Topics in this episode</div>
+      <div class="ep-card-title"><span data-i18n="topics_title">&#128203; Topics in this episode</span></div>
       <div class="topics-grid" id="ep-topics"></div>
     </div>
 
     <div class="quiz-cta">
-      <h2>Ready for the quiz?</h2>
-      <p>Answer 5 questions about this episode. All answers must be correct<br>to earn your personal certificate of participation.</p>
-      <button class="btn btn-white" id="btn-start-quiz">Start the quiz &rarr;</button>
-      <div class="quiz-cta-meta">5 questions &middot; Multiple choice &middot; Wrong answers come back at the end until you get them right</div>
+      <h2 data-i18n="quiz_cta_h2">Ready for the quiz?</h2>
+      <p data-i18n="quiz_cta_p">Answer 5 questions about this episode. All answers must be correct to earn your personal certificate of participation.</p>
+      <button class="btn btn-white" id="btn-start-quiz" data-i18n="btn_start_quiz">Start the quiz &rarr;</button>
+      <div class="quiz-cta-meta" data-i18n="quiz_cta_meta">5 questions &middot; Multiple choice &middot; Wrong answers come back at the end until you get them right</div>
     </div>
   </div>
 </div>
@@ -367,17 +373,17 @@
       <p id="score-msg"></p>
     </div>
     <div class="retry-card hidden" id="retry-card">
-      <h3>&#9888;&#65039; Questions you answered incorrectly</h3>
-      <p>Listen again to the relevant parts of the episode and try these questions once more. You must answer all questions correctly to earn the certificate.</p>
+      <h3><span data-i18n="retry_h3">&#9888;&#65039; Questions you answered incorrectly</span></h3>
+      <p data-i18n="retry_p">Listen again to the relevant parts of the episode and try these questions once more. You must answer all questions correctly to earn the certificate.</p>
       <div id="wrong-list"></div>
-      <button class="btn" style="margin-top: 20px;" id="btn-retry">Try the incorrect questions again &rarr;</button>
+      <button class="btn" style="margin-top: 20px;" id="btn-retry" data-i18n="btn_retry">Try the incorrect questions again &rarr;</button>
     </div>
     <div class="success-banner hidden" id="success-banner">
-      <p>&#127881; Congratulations! You answered every question correctly.</p>
-      <button class="btn btn-green" id="btn-show-cert">Get my certificate &#127891;</button>
+      <p data-i18n="success_p">&#127881; Congratulations! You answered every question correctly.</p>
+      <button class="btn btn-green" id="btn-show-cert" data-i18n="btn_get_cert">Get my certificate &#127891;</button>
     </div>
     <div style="text-align:center;">
-      <button class="btn btn-outline" id="btn-back-episodes-result">&larr; Choose another episode</button>
+      <button class="btn btn-outline" id="btn-back-episodes-result" data-i18n="btn_choose_another">&larr; Choose another episode</button>
     </div>
   </div>
 </div>
@@ -390,22 +396,22 @@
       <div class="cert-logo-text">Zesumme<em>liewen</em></div>
       <div class="cert-logo-sub">Biergerpakt</div>
       <div class="cert-divider"></div>
-      <div class="cert-label">Certificate of Participation</div>
-      <div class="cert-big-title">The Biergerpakt Podcast</div>
-      <div class="cert-body-text">This is to certify that</div>
+      <div class="cert-label" data-i18n="cert_label">Certificate of Participation</div>
+      <div class="cert-big-title" data-i18n="podcast_name">The Biergerpakt Podcast</div>
+      <div class="cert-body-text" data-i18n="cert_body1">This is to certify that</div>
       <div class="cert-name" id="cert-name-out"></div>
-      <div class="cert-body-text">has listened to the following podcast episode and successfully completed the knowledge quiz:</div>
+      <div class="cert-body-text" data-i18n="cert_body2">has listened to the following podcast episode and successfully completed the knowledge quiz:</div>
       <div class="cert-episode-box" id="cert-episode-out"></div>
-      <div class="cert-seal"><span class="cert-seal-icon">&#10003;</span>Biergerpakt<br>Verified</div>
+      <div class="cert-seal"><span class="cert-seal-icon">&#10003;</span>Biergerpakt<br><span data-i18n="cert_verified">Verified</span></div>
       <div class="cert-footer">
         <span id="cert-email-line"></span>
-        <strong>Date of issue:</strong> <span id="cert-date-out"></span><br>
+        <strong data-i18n="cert_date_label">Date of issue:</strong> <span id="cert-date-out"></span><br>
         biergerpakt.lu
       </div>
     </div>
     <div class="cert-actions no-print">
-      <button class="btn" id="btn-print">&#128424;&#65039; Print / Save as PDF</button>
-      <button class="btn btn-outline" id="btn-back-episode">&larr; Back to the episode</button>
+      <button class="btn" id="btn-print" data-i18n="btn_print">&#128424;&#65039; Print / Save as PDF</button>
+      <button class="btn btn-outline" id="btn-back-episode" data-i18n="btn_back_episode">&larr; Back to the episode</button>
     </div>
   </div>
 </div>

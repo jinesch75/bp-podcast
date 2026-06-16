@@ -16,7 +16,264 @@ let segTimes = [];
 let activeSeg = -1;
 let userScrolling = false;
 let userScrollTimer = null;
-let currentLang = 'en';
+let currentLang = 'en';   // global site language (en | fr | de | lb)
+
+// ── i18n: interface strings ──────────────────────────────
+const I18N = {
+  en: {
+    podcast_name: 'The Biergerpakt Podcast',
+    reg_tag: 'Biergerpakt · Podcast Programme',
+    reg_intro: 'Living together in Luxembourg – discover the country, listen to each episode, follow along with the script, and prove what you have learned. Complete a quiz to earn your personal certificate.',
+    reg_card_title: 'Your details',
+    reg_card_sub: 'Please tell us your name. It is used only to personalise your certificate – nothing is sent anywhere or stored online.',
+    label_first: 'First name *', ph_first: 'First name', err_first: 'Please enter your first name.',
+    label_last: 'Last name *', ph_last: 'Last name', err_last: 'Please enter your last name.',
+    label_email: 'Email address (optional)', ph_email: 'you@email.com',
+    hint_email: 'Optional. Used only if it appears on your certificate.',
+    btn_browse: 'Browse the episodes →',
+    programme_badge: 'Biergerpakt · Podcast Programme',
+    episodes_h1: 'The Biergerpakt Podcast – All Episodes',
+    episodes_intro: 'Choose an episode, listen along with the full script, then take the quiz to earn your personal certificate.',
+    btn_listen_quiz: 'Listen & take the quiz →',
+    btn_all_episodes: '← All episodes',
+    listen_title: '🎧 Listen to this episode',
+    player_hint: 'Press play and the script below will highlight along with the audio. Click any line to jump to that point.',
+    script_title: '📝 Episode script',
+    autoscroll: 'Auto-scroll with audio',
+    lang_note: 'The audio is in English. This is the translated script for reading along.',
+    topics_title: '📋 Topics in this episode',
+    quiz_cta_h2: 'Ready for the quiz?',
+    quiz_cta_p: 'Answer 5 questions about this episode. All answers must be correct to earn your personal certificate of participation.',
+    btn_start_quiz: 'Start the quiz →',
+    quiz_cta_meta: '5 questions · Multiple choice · Wrong answers come back at the end until you get them right',
+    episode_word: 'Episode',
+    q_counter: 'Question {n} of {total}',
+    q_word: 'Question',
+    fb_ok: '✅ Correct!',
+    fb_fail_prefix: '❌ Not quite.',
+    fb_fail_mid: 'The correct answer is:',
+    btn_next: 'Next →',
+    of_word: 'of',
+    res_all_title: '🎉 Excellent – all correct!',
+    res_all_msg: 'You answered every question correctly. You can now download your certificate of participation.',
+    res_partial_title: '{n} of {total} questions correct',
+    res_partial_msg: 'To earn the certificate, every question must be correct. Listen again to the relevant parts of the episode, then retry the questions below.',
+    retry_h3: '⚠️ Questions you answered incorrectly',
+    retry_p: 'Listen again to the relevant parts of the episode and try these questions once more. You must answer all questions correctly to earn the certificate.',
+    btn_retry: 'Try the incorrect questions again →',
+    success_p: '🎉 Congratulations! You answered every question correctly.',
+    btn_get_cert: 'Get my certificate 🎓',
+    btn_choose_another: '← Choose another episode',
+    cert_label: 'Certificate of Participation',
+    cert_body1: 'This is to certify that',
+    cert_body2: 'has listened to the following podcast episode and successfully completed the knowledge quiz:',
+    cert_verified: 'Verified',
+    cert_email_label: 'Email:',
+    cert_date_label: 'Date of issue:',
+    btn_print: '🖨️ Print / Save as PDF',
+    btn_back_episode: '← Back to the episode'
+  },
+  fr: {
+    podcast_name: 'Le podcast Biergerpakt',
+    reg_tag: 'Programme Biergerpakt · Podcast',
+    reg_intro: 'Vivre ensemble au Luxembourg – découvrez le pays, écoutez chaque épisode, suivez le script et prouvez ce que vous avez appris. Réussissez un quiz pour obtenir votre certificat personnel.',
+    reg_card_title: 'Vos coordonnées',
+    reg_card_sub: 'Indiquez-nous votre nom. Il sert uniquement à personnaliser votre certificat – rien n’est envoyé ni stocké en ligne.',
+    label_first: 'Prénom *', ph_first: 'Prénom', err_first: 'Veuillez saisir votre prénom.',
+    label_last: 'Nom *', ph_last: 'Nom', err_last: 'Veuillez saisir votre nom.',
+    label_email: 'Adresse e-mail (facultatif)', ph_email: 'vous@email.com',
+    hint_email: 'Facultatif. Utilisé uniquement s’il figure sur votre certificat.',
+    btn_browse: 'Parcourir les épisodes →',
+    programme_badge: 'Programme Biergerpakt · Podcast',
+    episodes_h1: 'Le podcast Biergerpakt – tous les épisodes',
+    episodes_intro: 'Choisissez un épisode, écoutez-le en suivant le script complet, puis répondez au quiz pour obtenir votre certificat personnel.',
+    btn_listen_quiz: 'Écouter et faire le quiz →',
+    btn_all_episodes: '← Tous les épisodes',
+    listen_title: '🎧 Écouter cet épisode',
+    player_hint: 'Appuyez sur lecture et le script ci-dessous se surlignera au rythme de l’audio. Cliquez sur une ligne pour y accéder directement.',
+    script_title: '📝 Script de l’épisode',
+    autoscroll: 'Défilement automatique avec l’audio',
+    lang_note: 'L’audio est en anglais. Voici le script traduit pour suivre la lecture.',
+    topics_title: '📋 Sujets de cet épisode',
+    quiz_cta_h2: 'Prêt pour le quiz ?',
+    quiz_cta_p: 'Répondez à 5 questions sur cet épisode. Toutes les réponses doivent être correctes pour obtenir votre certificat de participation personnel.',
+    btn_start_quiz: 'Commencer le quiz →',
+    quiz_cta_meta: '5 questions · Choix multiple · Les mauvaises réponses reviennent à la fin jusqu’à ce qu’elles soient justes',
+    episode_word: 'Épisode',
+    q_counter: 'Question {n} sur {total}',
+    q_word: 'Question',
+    fb_ok: '✅ Correct !',
+    fb_fail_prefix: '❌ Pas tout à fait.',
+    fb_fail_mid: 'La bonne réponse est :',
+    btn_next: 'Suivant →',
+    of_word: 'sur',
+    res_all_title: '🎉 Excellent – tout est juste !',
+    res_all_msg: 'Vous avez répondu correctement à toutes les questions. Vous pouvez maintenant télécharger votre certificat de participation.',
+    res_partial_title: '{n} sur {total} questions correctes',
+    res_partial_msg: 'Pour obtenir le certificat, toutes les questions doivent être correctes. Réécoutez les passages concernés de l’épisode, puis recommencez les questions ci-dessous.',
+    retry_h3: '⚠️ Questions auxquelles vous avez mal répondu',
+    retry_p: 'Réécoutez les passages concernés de l’épisode et réessayez ces questions. Vous devez répondre correctement à toutes les questions pour obtenir le certificat.',
+    btn_retry: 'Réessayer les questions incorrectes →',
+    success_p: '🎉 Félicitations ! Vous avez répondu correctement à toutes les questions.',
+    btn_get_cert: 'Obtenir mon certificat 🎓',
+    btn_choose_another: '← Choisir un autre épisode',
+    cert_label: 'Certificat de participation',
+    cert_body1: 'Le présent document certifie que',
+    cert_body2: 'a écouté l’épisode de podcast suivant et réussi le quiz de connaissances :',
+    cert_verified: 'Vérifié',
+    cert_email_label: 'E-mail :',
+    cert_date_label: 'Date de délivrance :',
+    btn_print: '🖨️ Imprimer / Enregistrer en PDF',
+    btn_back_episode: '← Retour à l’épisode'
+  },
+  de: {
+    podcast_name: 'Der Biergerpakt-Podcast',
+    reg_tag: 'Biergerpakt · Podcast-Programm',
+    reg_intro: 'Zusammenleben in Luxemburg – entdecken Sie das Land, hören Sie jede Folge, lesen Sie das Skript mit und beweisen Sie, was Sie gelernt haben. Absolvieren Sie ein Quiz, um Ihr persönliches Zertifikat zu erhalten.',
+    reg_card_title: 'Ihre Angaben',
+    reg_card_sub: 'Bitte teilen Sie uns Ihren Namen mit. Er wird nur verwendet, um Ihr Zertifikat zu personalisieren – nichts wird irgendwohin gesendet oder online gespeichert.',
+    label_first: 'Vorname *', ph_first: 'Vorname', err_first: 'Bitte geben Sie Ihren Vornamen ein.',
+    label_last: 'Nachname *', ph_last: 'Nachname', err_last: 'Bitte geben Sie Ihren Nachnamen ein.',
+    label_email: 'E-Mail-Adresse (optional)', ph_email: 'sie@email.com',
+    hint_email: 'Optional. Wird nur verwendet, wenn sie auf Ihrem Zertifikat erscheint.',
+    btn_browse: 'Folgen durchsuchen →',
+    programme_badge: 'Biergerpakt · Podcast-Programm',
+    episodes_h1: 'Der Biergerpakt-Podcast – alle Folgen',
+    episodes_intro: 'Wählen Sie eine Folge, hören Sie mit dem vollständigen Skript mit und absolvieren Sie dann das Quiz, um Ihr persönliches Zertifikat zu erhalten.',
+    btn_listen_quiz: 'Anhören & Quiz machen →',
+    btn_all_episodes: '← Alle Folgen',
+    listen_title: '🎧 Diese Folge anhören',
+    player_hint: 'Drücken Sie auf Wiedergabe, und das Skript unten wird im Takt des Audios hervorgehoben. Klicken Sie auf eine Zeile, um direkt dorthin zu springen.',
+    script_title: '📝 Skript der Folge',
+    autoscroll: 'Automatisch mit dem Audio scrollen',
+    lang_note: 'Das Audio ist auf Englisch. Dies ist das übersetzte Skript zum Mitlesen.',
+    topics_title: '📋 Themen dieser Folge',
+    quiz_cta_h2: 'Bereit für das Quiz?',
+    quiz_cta_p: 'Beantworten Sie 5 Fragen zu dieser Folge. Alle Antworten müssen richtig sein, um Ihr persönliches Teilnahmezertifikat zu erhalten.',
+    btn_start_quiz: 'Quiz starten →',
+    quiz_cta_meta: '5 Fragen · Multiple Choice · Falsche Antworten kommen am Ende wieder, bis sie richtig sind',
+    episode_word: 'Folge',
+    q_counter: 'Frage {n} von {total}',
+    q_word: 'Frage',
+    fb_ok: '✅ Richtig!',
+    fb_fail_prefix: '❌ Nicht ganz.',
+    fb_fail_mid: 'Die richtige Antwort lautet:',
+    btn_next: 'Weiter →',
+    of_word: 'von',
+    res_all_title: '🎉 Ausgezeichnet – alles richtig!',
+    res_all_msg: 'Sie haben alle Fragen richtig beantwortet. Sie können jetzt Ihr Teilnahmezertifikat herunterladen.',
+    res_partial_title: '{n} von {total} Fragen richtig',
+    res_partial_msg: 'Um das Zertifikat zu erhalten, müssen alle Fragen richtig sein. Hören Sie sich die betreffenden Teile der Folge noch einmal an und versuchen Sie dann die folgenden Fragen erneut.',
+    retry_h3: '⚠️ Falsch beantwortete Fragen',
+    retry_p: 'Hören Sie sich die betreffenden Teile der Folge noch einmal an und versuchen Sie diese Fragen erneut. Sie müssen alle Fragen richtig beantworten, um das Zertifikat zu erhalten.',
+    btn_retry: 'Falsche Fragen erneut versuchen →',
+    success_p: '🎉 Glückwunsch! Sie haben alle Fragen richtig beantwortet.',
+    btn_get_cert: 'Mein Zertifikat erhalten 🎓',
+    btn_choose_another: '← Eine andere Folge wählen',
+    cert_label: 'Teilnahmezertifikat',
+    cert_body1: 'Hiermit wird bescheinigt, dass',
+    cert_body2: 'die folgende Podcast-Folge angehört und das Wissensquiz erfolgreich abgeschlossen hat:',
+    cert_verified: 'Verifiziert',
+    cert_email_label: 'E-Mail:',
+    cert_date_label: 'Ausstellungsdatum:',
+    btn_print: '🖨️ Drucken / Als PDF speichern',
+    btn_back_episode: '← Zurück zur Folge'
+  },
+  lb: {
+    podcast_name: 'De Biergerpakt-Podcast',
+    reg_tag: 'Biergerpakt · Podcast-Programm',
+    reg_intro: 'Zesummeliewen zu Lëtzebuerg – entdeckt d’Land, lauschtert all Episode, liest de Skript mat a beweist, wat Dir geléiert hutt. Maacht e Quiz fir Äre perséinleche Certificat ze kréien.',
+    reg_card_title: 'Är Donnéeën',
+    reg_card_sub: 'Sot eis w.e.g. Ären Numm. Hie gëtt nëmme benotzt fir Äre Certificat ze perséinaliséieren – näischt gëtt iergendwouhin geschéckt oder online gespäichert.',
+    label_first: 'Virnumm *', ph_first: 'Virnumm', err_first: 'Gitt w.e.g. Äre Virnumm an.',
+    label_last: 'Numm *', ph_last: 'Numm', err_last: 'Gitt w.e.g. Äre Numm an.',
+    label_email: 'E-Mail-Adress (fakultativ)', ph_email: 'iech@email.com',
+    hint_email: 'Fakultativ. Gëtt nëmme benotzt wann se op Ärem Certificat erschéngt.',
+    btn_browse: 'D’Episode kucken →',
+    programme_badge: 'Biergerpakt · Podcast-Programm',
+    episodes_h1: 'De Biergerpakt-Podcast – all Episoden',
+    episodes_intro: 'Wielt eng Episode, lauschtert se mam komplette Skript mat, a maacht dann de Quiz fir Äre perséinleche Certificat ze kréien.',
+    btn_listen_quiz: 'Lauschteren & Quiz maachen →',
+    btn_all_episodes: '← All Episoden',
+    listen_title: '🎧 Dës Episode lauschteren',
+    player_hint: 'Dréckt op Play an de Skript hei ënnen gëtt am Takt vum Audio ervirgehuewen. Klickt op eng Zeil fir direkt dohinner ze sprangen.',
+    script_title: '📝 Skript vun der Episode',
+    autoscroll: 'Automatesch mam Audio scrollen',
+    lang_note: 'Den Audio ass op Englesch. Dëst ass de iwwersaten Skript fir matzelauschteren.',
+    topics_title: '📋 Themen an dëser Episode',
+    quiz_cta_h2: 'Prett fir de Quiz?',
+    quiz_cta_p: 'Beäntwert 5 Froen zu dëser Episode. All Äntwerte musse richteg sinn fir Äre perséinleche Participatiouns-Certificat ze kréien.',
+    btn_start_quiz: 'De Quiz starten →',
+    quiz_cta_meta: '5 Froen · Multiple Choice · Falsch Äntwerte kommen um Enn erëm, bis se richteg sinn',
+    episode_word: 'Episode',
+    q_counter: 'Fro {n} vu(n) {total}',
+    q_word: 'Fro',
+    fb_ok: '✅ Richteg!',
+    fb_fail_prefix: '❌ Net ganz.',
+    fb_fail_mid: 'Déi richteg Äntwert ass:',
+    btn_next: 'Weider →',
+    of_word: 'vu(n)',
+    res_all_title: '🎉 Excellent – alles richteg!',
+    res_all_msg: 'Dir hutt all Froe richteg beäntwert. Dir kënnt elo Äre Participatiouns-Certificat eroflueden.',
+    res_partial_title: '{n} vu(n) {total} Froe richteg',
+    res_partial_msg: 'Fir de Certificat ze kréien, musse all Froe richteg sinn. Lauschtert déi betreffend Deeler vun der Episode nach eng Kéier, a probéiert dann déi ënnescht Froen erëm.',
+    retry_h3: '⚠️ Froen, déi Dir falsch beäntwert hutt',
+    retry_p: 'Lauschtert déi betreffend Deeler vun der Episode nach eng Kéier a probéiert dës Froen erëm. Dir musst all Froe richteg beäntwerte fir de Certificat ze kréien.',
+    btn_retry: 'Déi falsch Froen erëm probéieren →',
+    success_p: '🎉 Felicitatioun! Dir hutt all Froe richteg beäntwert.',
+    btn_get_cert: 'Mäi Certificat kréien 🎓',
+    btn_choose_another: '← Eng aner Episode wielen',
+    cert_label: 'Participatiouns-Certificat',
+    cert_body1: 'Hiermat gëtt bestätegt, datt',
+    cert_body2: 'déi folgend Podcast-Episode gelauschtert an de Wëssensquiz erfollegräich ofgeschloss huet:',
+    cert_verified: 'Verifizéiert',
+    cert_email_label: 'E-Mail:',
+    cert_date_label: 'Ausstellungsdatum:',
+    btn_print: '🖨️ Drécken / Als PDF späicheren',
+    btn_back_episode: '← Zréck zur Episode'
+  }
+};
+const DATE_LOCALE = { en: 'en-GB', fr: 'fr-FR', de: 'de-DE', lb: 'fr-LU' };
+
+function t(key, vars) {
+  var s = (I18N[currentLang] && I18N[currentLang][key]) || I18N.en[key] || key;
+  if (vars) Object.keys(vars).forEach(function (k) { s = s.replace('{' + k + '}', vars[k]); });
+  return s;
+}
+
+// ── Localised episode content (fallback to English) ──────
+function epField(ep, base) { return ep[base + '_' + currentLang] || ep[base]; }
+function epTopics(ep) { return ep['topics_' + currentLang] || ep.topics; }
+function epQuestions(ep) { return ep['questions_' + currentLang] || ep.questions; }
+function epNumber(ep) {
+  var n = String(ep.number).replace(/\D/g, '');
+  return t('episode_word') + ' ' + n;
+}
+function audioForLang(ep) { return ep['audio_' + currentLang] || ep.audio; }
+// True when the audio that will play matches the selected language (a native track exists).
+function hasNativeAudio(ep) { return currentLang === 'en' || !!ep['audio_' + currentLang]; }
+
+// ── Apply current language to the whole page ─────────────
+function applyLang() {
+  document.documentElement.setAttribute('lang', currentLang);
+  document.querySelectorAll('[data-i18n]').forEach(function (el) {
+    el.textContent = t(el.getAttribute('data-i18n'));
+  });
+  document.querySelectorAll('[data-i18n-ph]').forEach(function (el) {
+    el.setAttribute('placeholder', t(el.getAttribute('data-i18n-ph')));
+  });
+  document.querySelectorAll('.lang-btn').forEach(function (b) {
+    b.classList.toggle('active', b.getAttribute('data-lang') === currentLang);
+  });
+  // Re-render whichever dynamic screen is currently visible.
+  var active = document.querySelector('.screen.active');
+  var id = active ? active.id : '';
+  if (id === 'screen-episodes') renderEpisodeList();
+  else if (id === 'screen-episode') renderEpisodeDetail();
+  else if (id === 'screen-quiz') { setQuizLabel(); renderQuestion(curIndex); }
+  else if (id === 'screen-results') showResults();
+  else if (id === 'screen-certificate') showCertificate();
+}
 
 // ── Helpers ──────────────────────────────────────────────
 function showScreen(id) {
@@ -63,10 +320,10 @@ function renderEpisodeList() {
     var card = document.createElement('div');
     card.className = 'ep-list-card';
     card.innerHTML =
-      '<div class="ep-list-badge">' + esc(ep.number) + '</div>' +
-      '<div class="ep-list-title">' + esc(ep.title) + '</div>' +
-      '<div class="ep-list-desc">' + esc(ep.description) + '</div>' +
-      '<button class="btn ep-list-btn">Listen &amp; take the quiz &rarr;</button>';
+      '<div class="ep-list-badge">' + esc(epNumber(ep)) + '</div>' +
+      '<div class="ep-list-title">' + esc(epField(ep, 'title')) + '</div>' +
+      '<div class="ep-list-desc">' + esc(epField(ep, 'description')) + '</div>' +
+      '<button class="btn ep-list-btn">' + esc(t('btn_listen_quiz')) + '</button>';
     card.querySelector('button').addEventListener('click', function () { selectEpisode(ep.id); });
     grid.appendChild(card);
   });
@@ -82,28 +339,31 @@ function selectEpisode(id) {
 // ── Episode detail (player + transcript + topics) ────────
 function renderEpisodeDetail() {
   var ep = selectedEpisode;
-  document.getElementById('ep-badge').textContent = ep.number;
-  document.getElementById('ep-title').textContent = ep.title;
-  document.getElementById('ep-description').textContent = ep.description;
+  if (!ep) return;
+  document.getElementById('ep-badge').textContent = epNumber(ep);
+  document.getElementById('ep-title').textContent = epField(ep, 'title');
+  document.getElementById('ep-description').textContent = epField(ep, 'description');
 
-  // Audio
+  // Audio for the current language (falls back to English when no native track exists).
   var audio = document.getElementById('ep-audio');
-  audio.pause();
-  audio.src = ep.audio;
-  audio.load();
+  var newSrc = audioForLang(ep);
+  if (audio.getAttribute('data-src') !== newSrc) {
+    audio.pause();
+    audio.src = newSrc;
+    audio.setAttribute('data-src', newSrc);
+    audio.load();
+  }
 
-  // Transcript (reset to English each time an episode is opened)
-  currentLang = 'en';
   updateLangButtons();
   renderTranscript();
 
   // Topics
   var chips = document.getElementById('ep-topics');
   chips.innerHTML = '';
-  ep.topics.forEach(function (t) {
+  epTopics(ep).forEach(function (tp) {
     var c = document.createElement('div');
     c.className = 'topic-chip';
-    c.textContent = t;
+    c.textContent = tp;
     chips.appendChild(c);
   });
 }
@@ -116,10 +376,13 @@ function segmentsForLang(ep, lang) {
   return ep.segments;
 }
 function updateLangButtons() {
-  document.querySelectorAll('#lang-switch .lang-btn').forEach(function (b) {
+  document.querySelectorAll('.lang-btn').forEach(function (b) {
     b.classList.toggle('active', b.getAttribute('data-lang') === currentLang);
   });
-  document.getElementById('lang-note').classList.toggle('hidden', currentLang === 'en');
+  // Show the read-along note only when the playing audio is NOT in the selected language.
+  var note = document.getElementById('lang-note');
+  var showNote = selectedEpisode && !hasNativeAudio(selectedEpisode);
+  note.classList.toggle('hidden', !showNote);
 }
 function renderTranscript() {
   var ep = selectedEpisode;
@@ -158,13 +421,11 @@ function renderTranscript() {
 function setLang(lang) {
   if (lang === currentLang) return;
   currentLang = lang;
-  updateLangButtons();
-  renderTranscript();
+  applyLang();
 }
 
 // ── Karaoke highlighting ─────────────────────────────────
 function findSegIndex(time) {
-  // last segment whose start time <= current time (binary search)
   var lo = 0, hi = segTimes.length - 1, res = 0;
   if (hi < 0) return -1;
   while (lo <= hi) {
@@ -180,7 +441,6 @@ function setActiveSeg(i, forceScroll) {
     segEls[activeSeg].classList.remove('active');
     segEls[activeSeg].classList.add('spoken');
   }
-  // mark everything before i as spoken, after as not
   segEls.forEach(function (el, k) {
     if (k < i) el.classList.add('spoken'); else el.classList.remove('spoken');
   });
@@ -193,9 +453,6 @@ function setActiveSeg(i, forceScroll) {
     centerLine(segEls[i]);
   }
 }
-
-// Scroll a transcript line to the vertical centre of the script box.
-// Uses bounding rectangles so it is correct regardless of page layout.
 function centerLine(el) {
   var tw = document.getElementById('transcript');
   if (!tw || !el) return;
@@ -212,21 +469,25 @@ function onTimeUpdate() {
 }
 
 // ── Quiz ─────────────────────────────────────────────────
+function setQuizLabel() {
+  document.getElementById('q-label').textContent = epNumber(selectedEpisode) + ' – Biergerpakt Podcast';
+}
 function startQuiz() {
-  answers = new Array(selectedEpisode.questions.length).fill(-1);
+  answers = new Array(epQuestions(selectedEpisode).length).fill(-1);
   wrongIndices = [];
   curIndex = 0;
   isRetry = false;
-  document.getElementById('q-label').textContent = selectedEpisode.number + ' – Biergerpakt Podcast';
+  setQuizLabel();
   document.getElementById('ep-audio').pause();
   showScreen('screen-quiz');
   renderQuestion(0);
 }
 function renderQuestion(idx) {
-  var q = selectedEpisode.questions[idx];
-  var total = selectedEpisode.questions.length;
-  document.getElementById('q-counter').textContent = 'Question ' + (idx + 1) + ' of ' + total;
-  document.getElementById('q-eyebrow').textContent = 'Question ' + (idx + 1);
+  var qs = epQuestions(selectedEpisode);
+  var q = qs[idx];
+  var total = qs.length;
+  document.getElementById('q-counter').textContent = t('q_counter', { n: idx + 1, total: total });
+  document.getElementById('q-eyebrow').textContent = t('q_word') + ' ' + (idx + 1);
   document.getElementById('q-text').textContent = q.text;
   document.getElementById('q-progress').style.width = (((idx + 1) / total) * 100) + '%';
 
@@ -243,11 +504,13 @@ function renderQuestion(idx) {
   var fb = document.getElementById('q-feedback');
   fb.className = 'feedback';
   fb.textContent = '';
+  var nb = document.getElementById('btn-next');
+  nb.textContent = t('btn_next');
   hide('btn-next');
 }
 function selectAnswer(chosen) {
   if (!document.getElementById('btn-next').classList.contains('hidden')) return;
-  var q = selectedEpisode.questions[curIndex];
+  var q = epQuestions(selectedEpisode)[curIndex];
   answers[curIndex] = chosen;
 
   document.querySelectorAll('.option').forEach(function (el) {
@@ -262,10 +525,10 @@ function selectAnswer(chosen) {
   var fb = document.getElementById('q-feedback');
   if (chosen === q.correct) {
     fb.className = 'feedback show ok';
-    fb.innerHTML = '<strong>✅ Correct!</strong> ' + esc(q.explanation);
+    fb.innerHTML = '<strong>' + t('fb_ok') + '</strong> ' + esc(q.explanation);
   } else {
     fb.className = 'feedback show fail';
-    fb.innerHTML = '<strong>❌ Not quite.</strong> The correct answer is: <strong>' +
+    fb.innerHTML = '<strong>' + t('fb_fail_prefix') + '</strong> ' + t('fb_fail_mid') + ' <strong>' +
       esc(q.options[q.correct]) + '</strong>. ' + esc(q.explanation);
   }
   show('btn-next');
@@ -277,37 +540,38 @@ function nextQuestion() {
     else { showResults(); }
   } else {
     curIndex++;
-    if (curIndex < selectedEpisode.questions.length) { renderQuestion(curIndex); }
+    if (curIndex < epQuestions(selectedEpisode).length) { renderQuestion(curIndex); }
     else { showResults(); }
   }
 }
 
 // ── Results ──────────────────────────────────────────────
 function showResults() {
+  var qs = epQuestions(selectedEpisode);
   wrongIndices = [];
   answers.forEach(function (ans, i) {
-    if (ans !== selectedEpisode.questions[i].correct) wrongIndices.push(i);
+    if (ans !== qs[i].correct) wrongIndices.push(i);
   });
-  var total = selectedEpisode.questions.length;
+  var total = qs.length;
   var nCorrect = total - wrongIndices.length;
 
   document.getElementById('score-n').textContent = nCorrect;
-  document.getElementById('score-d').textContent = 'of ' + total;
+  document.getElementById('score-d').textContent = t('of_word') + ' ' + total;
   var ring = document.getElementById('score-ring');
 
   if (nCorrect === total) {
     ring.style.background = 'var(--green)';
-    document.getElementById('score-title').textContent = '🎉 Excellent – all correct!';
-    document.getElementById('score-msg').textContent = 'You answered every question correctly. You can now download your certificate of participation.';
+    document.getElementById('score-title').textContent = t('res_all_title');
+    document.getElementById('score-msg').textContent = t('res_all_msg');
     hide('retry-card');
     show('success-banner');
   } else {
     ring.style.background = 'var(--orange)';
-    document.getElementById('score-title').textContent = nCorrect + ' of ' + total + ' questions correct';
-    document.getElementById('score-msg').textContent = 'To earn the certificate, every question must be correct. Listen again to the relevant parts of the episode, then retry the questions below.';
+    document.getElementById('score-title').textContent = t('res_partial_title', { n: nCorrect, total: total });
+    document.getElementById('score-msg').textContent = t('res_partial_msg');
     var list = document.getElementById('wrong-list');
     list.innerHTML = wrongIndices.map(function (i) {
-      return '<div class="wrong-item"><strong>Question ' + (i + 1) + ':</strong> ' + esc(selectedEpisode.questions[i].text) + '</div>';
+      return '<div class="wrong-item"><strong>' + t('q_word') + ' ' + (i + 1) + ':</strong> ' + esc(qs[i].text) + '</div>';
     }).join('');
     show('retry-card');
     hide('success-banner');
@@ -327,10 +591,10 @@ function retryWrong() {
 // ── Certificate ──────────────────────────────────────────
 function showCertificate() {
   document.getElementById('cert-name-out').textContent = user.firstName + ' ' + user.lastName;
-  document.getElementById('cert-episode-out').textContent = selectedEpisode.number + ': ' + selectedEpisode.title;
+  document.getElementById('cert-episode-out').textContent = epNumber(selectedEpisode) + ': ' + epField(selectedEpisode, 'title');
   var emailLine = document.getElementById('cert-email-line');
-  emailLine.innerHTML = user.email ? ('<strong>Email:</strong> ' + esc(user.email) + '<br>') : '';
-  document.getElementById('cert-date-out').textContent = new Date().toLocaleDateString('en-GB', {
+  emailLine.innerHTML = user.email ? ('<strong>' + t('cert_email_label') + '</strong> ' + esc(user.email) + '<br>') : '';
+  document.getElementById('cert-date-out').textContent = new Date().toLocaleDateString(DATE_LOCALE[currentLang] || 'en-GB', {
     day: '2-digit', month: 'long', year: 'numeric'
   });
   showScreen('screen-certificate');
@@ -353,8 +617,8 @@ document.addEventListener('DOMContentLoaded', function () {
   });
   document.getElementById('btn-back-episodes-result').addEventListener('click', function () { showScreen('screen-episodes'); });
 
-  // Script language switcher
-  document.querySelectorAll('#lang-switch .lang-btn').forEach(function (b) {
+  // Language switchers (header + transcript) — both drive the global language.
+  document.querySelectorAll('.lang-btn').forEach(function (b) {
     b.addEventListener('click', function () { setLang(b.getAttribute('data-lang')); });
   });
 
@@ -363,7 +627,6 @@ document.addEventListener('DOMContentLoaded', function () {
   audio.addEventListener('timeupdate', onTimeUpdate);
   audio.addEventListener('seeked', onTimeUpdate);
 
-  // Re-enabling auto-scroll snaps straight back to the highlighted line.
   document.getElementById('follow-chk').addEventListener('change', function () {
     if (this.checked) {
       userScrolling = false;
@@ -371,8 +634,6 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   });
 
-  // Detect manual scrolling of the transcript -> pause auto-follow briefly,
-  // then resume and snap back to the highlighted line.
   var tw = document.getElementById('transcript');
   tw.addEventListener('wheel', markUserScroll, { passive: true });
   tw.addEventListener('touchmove', markUserScroll, { passive: true });
@@ -381,11 +642,12 @@ document.addEventListener('DOMContentLoaded', function () {
     clearTimeout(userScrollTimer);
     userScrollTimer = setTimeout(function () {
       userScrolling = false;
-      // Snap back to the current highlighted line as soon as auto-follow resumes,
-      // even if the active line has not changed.
       if (document.getElementById('follow-chk').checked && activeSeg >= 0 && segEls[activeSeg]) {
         centerLine(segEls[activeSeg]);
       }
     }, 4000);
   }
+
+  // Apply initial language (sets active states + static strings).
+  applyLang();
 });
