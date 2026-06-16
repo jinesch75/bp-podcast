@@ -112,6 +112,7 @@ function renderEpisodeDetail() {
 function segmentsForLang(ep, lang) {
   if (lang === 'fr' && ep.segments_fr) return ep.segments_fr;
   if (lang === 'de' && ep.segments_de) return ep.segments_de;
+  if (lang === 'lb' && ep.segments_lb) return ep.segments_lb;
   return ep.segments;
 }
 function updateLangButtons() {
