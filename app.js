@@ -154,11 +154,20 @@ function setActiveSeg(i, forceScroll) {
   segEls[i].classList.add('active');
   var follow = document.getElementById('follow-chk').checked;
   if (follow && (!userScrolling || forceScroll)) {
-    var tw = document.getElementById('transcript');
-    var el = segEls[i];
-    var target = el.offsetTop - tw.clientHeight / 2 + el.clientHeight / 2;
-    tw.scrollTo({ top: target, behavior: 'smooth' });
+    centerLine(segEls[i]);
   }
+}
+
+// Scroll a transcript line to the vertical centre of the script box.
+// Uses bounding rectangles so it is correct regardless of page layout.
+function centerLine(el) {
+  var tw = document.getElementById('transcript');
+  if (!tw || !el) return;
+  var cRect = tw.getBoundingClientRect();
+  var eRect = el.getBoundingClientRect();
+  var target = tw.scrollTop + (eRect.top - cRect.top) - (tw.clientHeight / 2 - el.clientHeight / 2);
+  if (target < 0) target = 0;
+  tw.scrollTo({ top: target, behavior: 'smooth' });
 }
 function onTimeUpdate() {
   var audio = document.getElementById('ep-audio');
@@ -313,13 +322,29 @@ document.addEventListener('DOMContentLoaded', function () {
   audio.addEventListener('timeupdate', onTimeUpdate);
   audio.addEventListener('seeked', onTimeUpdate);
 
-  // Detect manual scrolling of the transcript -> pause auto-follow briefly
+  // Re-enabling auto-scroll snaps straight back to the highlighted line.
+  document.getElementById('follow-chk').addEventListener('change', function () {
+    if (this.checked) {
+      userScrolling = false;
+      if (activeSeg >= 0 && segEls[activeSeg]) centerLine(segEls[activeSeg]);
+    }
+  });
+
+  // Detect manual scrolling of the transcript -> pause auto-follow briefly,
+  // then resume and snap back to the highlighted line.
   var tw = document.getElementById('transcript');
   tw.addEventListener('wheel', markUserScroll, { passive: true });
   tw.addEventListener('touchmove', markUserScroll, { passive: true });
   function markUserScroll() {
     userScrolling = true;
     clearTimeout(userScrollTimer);
-    userScrollTimer = setTimeout(function () { userScrolling = false; }, 6000);
+    userScrollTimer = setTimeout(function () {
+      userScrolling = false;
+      // Snap back to the current highlighted line as soon as auto-follow resumes,
+      // even if the active line has not changed.
+      if (document.getElementById('follow-chk').checked && activeSeg >= 0 && segEls[activeSeg]) {
+        centerLine(segEls[activeSeg]);
+      }
+    }, 4000);
   }
 });
