@@ -79,16 +79,20 @@
     .btn-ghost:hover { background: var(--border); color: var(--dark); box-shadow: none; transform: none; }
 
     /* ─── SCREEN 1 · REGISTRATION ────────────────────── */
-    .reg-hero { background: linear-gradient(135deg, #E84600 0%, #b83300 100%); color: white; padding: 70px 24px 60px; text-align: center; }
-    .reg-hero .tag { display: inline-block; background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.4); color: white; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; padding: 5px 14px; border-radius: 99px; margin-bottom: 20px; }
-    .reg-hero h1 { font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 900; line-height: 1.15; margin-bottom: 14px; }
-    .reg-hero p { font-size: 1rem; opacity: 0.92; max-width: 560px; margin: 0 auto; line-height: 1.6; }
-    .reg-form-wrap { max-width: 520px; margin: -30px auto 48px; padding: 0 16px; }
+    .reg-hero { background: linear-gradient(135deg, #E84600 0%, #b83300 100%); color: white; padding: 40px 24px 54px; text-align: center; }
+    .reg-hero .tag { display: inline-block; background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.4); color: white; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; padding: 5px 14px; border-radius: 99px; margin-bottom: 14px; }
+    .reg-hero h1 { font-size: clamp(1.6rem, 3.4vw, 2.4rem); font-weight: 900; line-height: 1.15; margin-bottom: 12px; }
+    .reg-hero p { font-size: 0.95rem; opacity: 0.92; max-width: 640px; margin: 0 auto; line-height: 1.55; }
+    .reg-form-wrap { max-width: 760px; margin: -32px auto 40px; padding: 0 16px; }
 
-    .card { background: var(--white); border-radius: 14px; padding: 36px; box-shadow: 0 4px 28px rgba(0,0,0,0.09); }
+    .card { background: var(--white); border-radius: 14px; padding: 32px 36px; box-shadow: 0 4px 28px rgba(0,0,0,0.09); }
     .card-title { font-size: 1.1rem; font-weight: 800; margin-bottom: 6px; }
-    .card-sub { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 28px; line-height: 1.5; }
+    .card-sub { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 22px; line-height: 1.5; }
     .form-group { margin-bottom: 18px; }
+    /* Registration form: two-column landscape layout (name fields side by side, email full width) */
+    .reg-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 4px 22px; margin-bottom: 22px; }
+    .reg-grid .form-group { margin-bottom: 0; }
+    .reg-grid .reg-span { grid-column: 1 / -1; }
     label { display: block; font-size: 0.8rem; font-weight: 700; color: #444; margin-bottom: 6px; letter-spacing: 0.3px; }
     .form-input { width: 100%; padding: 11px 14px; border: 2px solid var(--border); border-radius: 9px; font-size: 0.95rem; font-family: inherit; outline: none; transition: border-color 0.2s, box-shadow 0.2s; background: #FAFAFA; }
     .form-input:focus { border-color: var(--orange); background: white; box-shadow: 0 0 0 3px rgba(232,70,0,0.1); }
@@ -234,6 +238,8 @@
     @media (max-width: 600px) {
       header { padding: 12px 18px; }
       .card { padding: 24px 20px; }
+      .reg-grid { grid-template-columns: 1fr; gap: 0; }
+      .reg-grid .form-group { margin-bottom: 18px; }
       .q-card { padding: 24px 20px; }
       .certificate { padding: 36px 24px; }
       .cert-name { font-size: 1.4rem; }
@@ -262,7 +268,6 @@
       <button type="button" class="lang-btn" data-lang="fr">FR</button>
       <button type="button" class="lang-btn" data-lang="de">DE</button>
     </div>
-    <img src="gov-light.svg" alt="The Government of the Grand Duchy of Luxembourg" style="height:36px; width:auto;" onerror="this.style.display='none'">
   </div>
 </header>
 
@@ -277,20 +282,22 @@
     <div class="card">
       <div class="card-title" data-i18n="reg_card_title">Your details</div>
       <div class="card-sub" data-i18n="reg_card_sub">Please tell us your name. It is used only to personalise your certificate &ndash; nothing is sent anywhere or stored online.</div>
-      <div class="form-group">
-        <label for="inp-first" data-i18n="label_first">First name *</label>
-        <input class="form-input" type="text" id="inp-first" placeholder="First name" data-i18n-ph="ph_first">
-        <div class="error-msg" id="err-first" data-i18n="err_first">Please enter your first name.</div>
-      </div>
-      <div class="form-group">
-        <label for="inp-last" data-i18n="label_last">Last name *</label>
-        <input class="form-input" type="text" id="inp-last" placeholder="Last name" data-i18n-ph="ph_last">
-        <div class="error-msg" id="err-last" data-i18n="err_last">Please enter your last name.</div>
-      </div>
-      <div class="form-group">
-        <label for="inp-email" data-i18n="label_email">Email address (optional)</label>
-        <input class="form-input" type="email" id="inp-email" placeholder="you@email.com" data-i18n-ph="ph_email">
-        <div class="form-hint" data-i18n="hint_email">Optional. Used only if it appears on your certificate.</div>
+      <div class="reg-grid">
+        <div class="form-group">
+          <label for="inp-first" data-i18n="label_first">First name *</label>
+          <input class="form-input" type="text" id="inp-first" placeholder="First name" data-i18n-ph="ph_first">
+          <div class="error-msg" id="err-first" data-i18n="err_first">Please enter your first name.</div>
+        </div>
+        <div class="form-group">
+          <label for="inp-last" data-i18n="label_last">Last name *</label>
+          <input class="form-input" type="text" id="inp-last" placeholder="Last name" data-i18n-ph="ph_last">
+          <div class="error-msg" id="err-last" data-i18n="err_last">Please enter your last name.</div>
+        </div>
+        <div class="form-group reg-span">
+          <label for="inp-email" data-i18n="label_email">Email address (optional)</label>
+          <input class="form-input" type="email" id="inp-email" placeholder="you@email.com" data-i18n-ph="ph_email">
+          <div class="form-hint" data-i18n="hint_email">Optional. Used only if it appears on your certificate.</div>
+        </div>
       </div>
       <button class="btn btn-full" id="btn-register" data-i18n="btn_browse">Browse the episodes &rarr;</button>
     </div>
