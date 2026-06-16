@@ -19,6 +19,11 @@ let userScrollTimer = null;
 
 // ── Helpers ──────────────────────────────────────────────
 function showScreen(id) {
+  // Stop audio playback whenever we leave the episode page (logo, back buttons, quiz, etc.).
+  if (id !== 'screen-episode') {
+    var a = document.getElementById('ep-audio');
+    if (a) a.pause();
+  }
   document.querySelectorAll('.screen').forEach(function (s) { s.classList.remove('active'); });
   document.getElementById(id).classList.add('active');
   window.scrollTo({ top: 0, behavior: 'smooth' });
