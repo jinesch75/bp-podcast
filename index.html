@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biergerpakt Podcast &ndash; Listen, Learn &amp; Earn Your Certificate</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <script src="episodes_data.js" defer></script>
+  <script src="app.js" defer></script>
+  <style>
+    :root {
+      --orange: #E84600;
+      --orange-light: #FFF4EE;
+      --orange-dark: #c73a00;
+      --dark: #111111;
+      --navy: #1A3C5E;
+      --white: #FFFFFF;
+      --bg: #F6F6F4;
+      --border: #E2E2E0;
+      --green: #2A7A3B;
+      --green-light: #E8F5E9;
+      --red: #C0392B;
+      --red-light: #FDECEA;
+      --text-muted: #666;
+      --text-sub: #888;
+      --anna: #1A3C5E;
+      --tom: #b8430a;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+      background: var(--bg);
+      color: var(--dark);
+      min-height: 100vh;
+    }
+
+    /* ─── HEADER ─────────────────────────────────────── */
+    header {
+      background: var(--white);
+      border-bottom: 1px solid var(--border);
+      padding: 14px 36px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .logo-wrap { display: flex; flex-direction: column; line-height: 1; }
+    .logo-main { font-size: 20px; font-weight: 900; letter-spacing: -0.5px; color: var(--dark); }
+    .logo-main em { color: var(--orange); font-style: normal; }
+    .logo-sub { font-size: 9px; font-weight: 800; letter-spacing: 2.5px; color: var(--orange); text-transform: uppercase; margin-top: 2px; }
+    .header-gov { display: flex; align-items: center; gap: 10px; }
+
+    /* ─── SCREEN VISIBILITY ───────────────────────────── */
+    .screen { display: none; }
+    .screen.active { display: block; }
+
+    /* ─── BUTTONS ─────────────────────────────────────── */
+    .btn {
+      display: inline-flex; align-items: center; justify-content: center; gap: 8px;
+      padding: 13px 26px; background: var(--orange); color: white; border: none;
+      border-radius: 9px; font-size: 0.95rem; font-weight: 700; font-family: inherit;
+      cursor: pointer; transition: background 0.18s, transform 0.1s, box-shadow 0.2s; text-decoration: none;
+    }
+    .btn:hover { background: var(--orange-dark); transform: translateY(-1px); box-shadow: 0 4px 14px rgba(232,70,0,0.35); }
+    .btn:active { transform: translateY(0); box-shadow: none; }
+    .btn-full { width: 100%; }
+    .btn-white { background: white; color: var(--orange); }
+    .btn-white:hover { background: var(--orange-light); }
+    .btn-green { background: var(--green); }
+    .btn-green:hover { background: #1e5e2c; }
+    .btn-outline { background: transparent; border: 2px solid var(--orange); color: var(--orange); }
+    .btn-outline:hover { background: var(--orange); color: white; }
+    .btn-ghost { background: transparent; color: var(--text-muted); font-size: 0.85rem; padding: 8px 14px; }
+    .btn-ghost:hover { background: var(--border); color: var(--dark); box-shadow: none; transform: none; }
+
+    /* ─── SCREEN 1 · REGISTRATION ────────────────────── */
+    .reg-hero { background: linear-gradient(135deg, #E84600 0%, #b83300 100%); color: white; padding: 70px 24px 60px; text-align: center; }
+    .reg-hero .tag { display: inline-block; background: rgba(255,255,255,0.2); border: 1px solid rgba(255,255,255,0.4); color: white; font-size: 11px; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; padding: 5px 14px; border-radius: 99px; margin-bottom: 20px; }
+    .reg-hero h1 { font-size: clamp(1.8rem, 4vw, 2.8rem); font-weight: 900; line-height: 1.15; margin-bottom: 14px; }
+    .reg-hero p { font-size: 1rem; opacity: 0.92; max-width: 560px; margin: 0 auto; line-height: 1.6; }
+    .reg-form-wrap { max-width: 520px; margin: -30px auto 48px; padding: 0 16px; }
+
+    .card { background: var(--white); border-radius: 14px; padding: 36px; box-shadow: 0 4px 28px rgba(0,0,0,0.09); }
+    .card-title { font-size: 1.1rem; font-weight: 800; margin-bottom: 6px; }
+    .card-sub { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 28px; line-height: 1.5; }
+    .form-group { margin-bottom: 18px; }
+    label { display: block; font-size: 0.8rem; font-weight: 700; color: #444; margin-bottom: 6px; letter-spacing: 0.3px; }
+    .form-input { width: 100%; padding: 11px 14px; border: 2px solid var(--border); border-radius: 9px; font-size: 0.95rem; font-family: inherit; outline: none; transition: border-color 0.2s, box-shadow 0.2s; background: #FAFAFA; }
+    .form-input:focus { border-color: var(--orange); background: white; box-shadow: 0 0 0 3px rgba(232,70,0,0.1); }
+    .form-input.error { border-color: var(--red); }
+    .error-msg { font-size: 0.78rem; color: var(--red); margin-top: 5px; display: none; }
+    .form-hint { font-size: 0.77rem; color: var(--text-sub); margin-top: 5px; }
+
+    /* ─── SCREEN 2 · EPISODE LIST ────────────────────── */
+    .episodes-hero { background: var(--dark); color: white; padding: 52px 24px 44px; text-align: center; }
+    .episodes-hero .ep-badge-main { display: inline-block; background: var(--orange); color: white; font-size: 11px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase; padding: 5px 14px; border-radius: 99px; margin-bottom: 16px; }
+    .episodes-hero h1 { font-size: clamp(1.4rem, 3vw, 2rem); font-weight: 900; line-height: 1.2; margin-bottom: 10px; }
+    .episodes-hero p { font-size: 0.95rem; opacity: 0.78; max-width: 580px; margin: 0 auto; line-height: 1.6; }
+    .episode-grid-wrap { max-width: 920px; margin: 0 auto; padding: 36px 20px 56px; }
+    #episode-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 16px; }
+    .ep-list-card { background: white; border-radius: 12px; padding: 24px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); display: flex; flex-direction: column; gap: 10px; border: 2px solid transparent; transition: border-color 0.2s, box-shadow 0.2s; }
+    .ep-list-card:hover { border-color: var(--orange); box-shadow: 0 4px 20px rgba(232,70,0,0.12); }
+    .ep-list-badge { display: inline-block; background: var(--orange); color: white; font-size: 10px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase; padding: 4px 10px; border-radius: 99px; width: fit-content; }
+    .ep-list-title { font-size: 0.98rem; font-weight: 800; line-height: 1.3; color: var(--dark); }
+    .ep-list-desc { font-size: 0.82rem; color: var(--text-muted); line-height: 1.55; flex: 1; }
+    .ep-list-btn { margin-top: 6px; font-size: 0.85rem; padding: 10px 18px; }
+
+    /* ─── SCREEN 3 · EPISODE DETAIL ──────────────────── */
+    .ep-hero { background: var(--dark); color: white; padding: 48px 24px 44px; }
+    .ep-hero-inner { max-width: 880px; margin: 0 auto; }
+    .ep-badge { display: inline-block; background: var(--orange); color: white; font-size: 11px; font-weight: 800; letter-spacing: 1.5px; text-transform: uppercase; padding: 5px 14px; border-radius: 99px; margin-bottom: 16px; }
+    .ep-hero h1 { font-size: clamp(1.5rem, 3.5vw, 2.1rem); font-weight: 900; line-height: 1.2; margin-bottom: 14px; }
+    .ep-hero p { font-size: 1rem; opacity: 0.82; max-width: 700px; line-height: 1.6; }
+    .ep-content { max-width: 880px; margin: 32px auto 48px; padding: 0 20px; display: flex; flex-direction: column; gap: 20px; }
+    .ep-card { background: white; border-radius: 12px; padding: 28px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); }
+    .ep-card-title { font-size: 0.9rem; font-weight: 800; color: var(--orange); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 14px; display: flex; align-items: center; gap: 8px; }
+
+    /* Audio player */
+    audio { width: 100%; margin-top: 4px; }
+    .player-hint { font-size: 0.8rem; color: var(--text-sub); margin-top: 10px; line-height: 1.5; }
+
+    /* Transcript */
+    .transcript-head { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; }
+    .follow-toggle { display: flex; align-items: center; gap: 7px; font-size: 0.78rem; font-weight: 700; color: var(--text-muted); cursor: pointer; user-select: none; }
+    .follow-toggle input { accent-color: var(--orange); width: 15px; height: 15px; }
+    .transcript { max-height: 460px; overflow-y: auto; margin-top: 6px; padding: 4px 6px 4px 0; scroll-behavior: smooth; }
+    .t-line { display: block; width: 100%; text-align: left; background: transparent; border: none; border-radius: 8px; padding: 9px 12px; margin-bottom: 2px; font-family: inherit; font-size: 0.95rem; line-height: 1.55; color: #3a3a3a; cursor: pointer; transition: background 0.15s, color 0.15s; }
+    .t-line:hover { background: var(--orange-light); }
+    .t-speaker { font-weight: 800; font-size: 0.7rem; letter-spacing: 1px; text-transform: uppercase; display: inline-block; margin-right: 8px; padding: 1px 7px; border-radius: 5px; vertical-align: middle; }
+    .t-speaker.Anna { color: white; background: var(--anna); }
+    .t-speaker.Tom { color: white; background: var(--tom); }
+    .t-line.spoken { color: #9a9a9a; }
+    .t-line.active { background: var(--orange-light); color: var(--dark); font-weight: 600; box-shadow: inset 3px 0 0 var(--orange); }
+    .t-line.active .t-text { background: linear-gradient(transparent 62%, rgba(232,70,0,0.18) 0); }
+
+    .topics-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 8px; }
+    .topic-chip { background: var(--orange-light); color: #8c2b00; padding: 9px 13px; border-radius: 8px; font-size: 0.83rem; font-weight: 600; display: flex; align-items: center; gap: 6px; }
+    .topic-chip::before { content: '\2192'; color: var(--orange); font-weight: 900; }
+
+    .quiz-cta { background: linear-gradient(135deg, #E84600, #b83300); border-radius: 12px; padding: 36px; text-align: center; color: white; }
+    .quiz-cta h2 { font-size: 1.4rem; font-weight: 900; margin-bottom: 8px; }
+    .quiz-cta p { opacity: 0.9; margin-bottom: 22px; font-size: 0.95rem; line-height: 1.5; }
+    .quiz-cta-meta { font-size: 0.8rem; opacity: 0.72; margin-top: 12px; }
+
+    /* ─── SCREEN 4 · QUIZ ─────────────────────────────── */
+    .quiz-wrap { max-width: 720px; margin: 0 auto; padding: 32px 20px 56px; }
+    .quiz-topbar { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; font-size: 0.82rem; color: var(--text-muted); font-weight: 600; }
+    .progress-outer { height: 6px; background: var(--border); border-radius: 99px; margin-bottom: 28px; overflow: hidden; }
+    .progress-inner { height: 100%; background: var(--orange); border-radius: 99px; transition: width 0.35s ease; }
+    .q-card { background: white; border-radius: 14px; padding: 36px; box-shadow: 0 3px 18px rgba(0,0,0,0.08); }
+    .q-eyebrow { font-size: 0.75rem; font-weight: 800; color: var(--orange); text-transform: uppercase; letter-spacing: 1.5px; margin-bottom: 10px; }
+    .q-text { font-size: 1.15rem; font-weight: 800; line-height: 1.45; color: var(--dark); margin-bottom: 26px; }
+    .option { display: flex; align-items: flex-start; gap: 12px; padding: 14px 16px; border: 2px solid var(--border); border-radius: 10px; margin-bottom: 9px; cursor: pointer; transition: border-color 0.15s, background 0.15s; user-select: none; }
+    .option:hover { border-color: var(--orange); background: var(--orange-light); }
+    .option.selected { border-color: var(--orange); background: var(--orange-light); }
+    .option.correct { border-color: var(--green); background: var(--green-light); }
+    .option.wrong { border-color: var(--red); background: var(--red-light); }
+    .opt-letter { min-width: 30px; height: 30px; border-radius: 50%; background: var(--bg); border: 2px solid var(--border); display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 0.78rem; color: #555; flex-shrink: 0; margin-top: 1px; transition: background 0.15s, border-color 0.15s, color 0.15s; }
+    .option.selected .opt-letter { background: var(--orange); border-color: var(--orange); color: white; }
+    .option.correct .opt-letter { background: var(--green); border-color: var(--green); color: white; }
+    .option.wrong .opt-letter { background: var(--red); border-color: var(--red); color: white; }
+    .opt-text { font-size: 0.93rem; line-height: 1.45; padding-top: 4px; }
+    .feedback { margin-top: 18px; padding: 14px 16px; border-radius: 9px; font-size: 0.88rem; line-height: 1.55; display: none; }
+    .feedback.show { display: block; }
+    .feedback.ok { background: var(--green-light); color: #1a4d24; border-left: 4px solid var(--green); }
+    .feedback.fail { background: var(--red-light); color: #7a1e15; border-left: 4px solid var(--red); }
+    .q-footer { display: flex; justify-content: flex-end; margin-top: 22px; }
+
+    /* ─── SCREEN 5 · RESULTS ──────────────────────────── */
+    .results-wrap { max-width: 720px; margin: 0 auto; padding: 40px 20px 60px; display: flex; flex-direction: column; gap: 20px; }
+    .score-card { background: white; border-radius: 14px; padding: 44px 36px; text-align: center; box-shadow: 0 3px 18px rgba(0,0,0,0.08); }
+    .score-ring { width: 110px; height: 110px; border-radius: 50%; display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 0 auto 22px; font-weight: 900; color: white; }
+    .score-ring .score-n { font-size: 2.4rem; line-height: 1; }
+    .score-ring .score-d { font-size: 0.85rem; opacity: 0.88; }
+    .score-card h2 { font-size: 1.4rem; font-weight: 900; margin-bottom: 8px; }
+    .score-card p { color: var(--text-muted); font-size: 0.93rem; line-height: 1.5; }
+    .retry-card { background: white; border-radius: 14px; padding: 28px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); border-left: 5px solid var(--red); }
+    .retry-card h3 { font-size: 1rem; font-weight: 800; color: var(--red); margin-bottom: 8px; }
+    .retry-card p { font-size: 0.87rem; color: var(--text-muted); margin-bottom: 18px; line-height: 1.5; }
+    .wrong-item { padding: 10px 0; border-bottom: 1px solid var(--border); font-size: 0.88rem; color: #444; }
+    .wrong-item:last-child { border-bottom: none; }
+    .success-banner { background: var(--green-light); border: 1px solid #b2dfb5; border-radius: 12px; padding: 24px; text-align: center; }
+    .success-banner p { color: #1a4d24; font-weight: 700; font-size: 1rem; margin-bottom: 16px; }
+
+    /* ─── SCREEN 6 · CERTIFICATE ──────────────────────── */
+    .cert-wrap { max-width: 800px; margin: 0 auto; padding: 40px 20px 60px; }
+    .certificate { background: white; border: 4px solid var(--orange); border-radius: 6px; padding: 58px 64px; text-align: center; position: relative; box-shadow: 0 6px 30px rgba(0,0,0,0.1); margin-bottom: 24px; }
+    .cert-inner-border { position: absolute; inset: 10px; border: 1px solid #F5C4A0; border-radius: 2px; pointer-events: none; }
+    .cert-logo-text { font-size: 22px; font-weight: 900; letter-spacing: -0.5px; margin-bottom: 2px; }
+    .cert-logo-text em { color: var(--orange); font-style: normal; }
+    .cert-logo-sub { font-size: 9px; font-weight: 800; letter-spacing: 3px; color: var(--orange); text-transform: uppercase; margin-bottom: 30px; }
+    .cert-divider { width: 60px; height: 3px; background: var(--orange); margin: 0 auto 28px; border-radius: 99px; }
+    .cert-label { font-size: 0.75rem; font-weight: 700; letter-spacing: 3px; color: var(--text-sub); text-transform: uppercase; margin-bottom: 10px; }
+    .cert-big-title { font-size: 1.7rem; font-weight: 900; color: var(--orange); margin-bottom: 30px; line-height: 1.2; }
+    .cert-body-text { font-size: 0.95rem; color: #555; margin-bottom: 6px; }
+    .cert-name { font-size: 1.8rem; font-weight: 900; color: var(--dark); border-bottom: 3px solid var(--orange); display: inline-block; padding-bottom: 5px; margin: 14px 0 22px; }
+    .cert-episode-box { display: inline-block; background: var(--orange-light); color: #7a2b00; font-size: 0.95rem; font-weight: 700; padding: 12px 22px; border-radius: 8px; border: 1px solid #F5C4A0; margin-bottom: 28px; line-height: 1.4; max-width: 90%; }
+    .cert-seal { width: 78px; height: 78px; background: var(--orange); border-radius: 50%; display: flex; flex-direction: column; align-items: center; justify-content: center; color: white; font-size: 8px; font-weight: 800; letter-spacing: 0.5px; margin: 0 auto 28px; line-height: 1.6; text-align: center; text-transform: uppercase; }
+    .cert-seal-icon { font-size: 18px; display: block; margin-bottom: 2px; }
+    .cert-footer { font-size: 0.78rem; color: #aaa; line-height: 1.8; margin-top: 8px; }
+    .cert-footer strong { color: #888; }
+    .cert-actions { display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+
+    /* ─── UTILITY ─────────────────────────────────────── */
+    .hidden { display: none !important; }
+
+    @media (max-width: 600px) {
+      header { padding: 12px 18px; }
+      .card { padding: 24px 20px; }
+      .q-card { padding: 24px 20px; }
+      .certificate { padding: 36px 24px; }
+      .cert-name { font-size: 1.4rem; }
+      .cert-big-title { font-size: 1.35rem; }
+      #episode-grid { grid-template-columns: 1fr; }
+      .ep-card { padding: 22px 18px; }
+    }
+    @media print {
+      header, .cert-actions, .no-print { display: none !important; }
+      body { background: white; }
+      .cert-wrap { padding: 0; }
+      .certificate { box-shadow: none; border: 3px solid var(--orange); }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <a class="logo-wrap" href="#" onclick="showScreen('screen-register'); return false;" style="text-decoration:none; color:inherit; cursor:pointer;">
+    <div class="logo-main">Zesumme<em>liewen</em></div>
+    <div class="logo-sub">Biergerpakt &middot; Podcast</div>
+  </a>
+  <div class="header-gov">
+    <img src="gov-light.svg" alt="The Government of the Grand Duchy of Luxembourg" style="height:36px; width:auto;" onerror="this.style.display='none'">
+  </div>
+</header>
+
+<!-- SCREEN 1 · REGISTRATION -->
+<div id="screen-register" class="screen active">
+  <div class="reg-hero">
+    <div class="tag">Biergerpakt &middot; Podcast Programme</div>
+    <h1>The Biergerpakt Podcast</h1>
+    <p>Living together in Luxembourg &ndash; discover the country, listen to each episode, follow along with the script, and prove what you have learned. Complete a quiz to earn your personal certificate.</p>
+  </div>
+  <div class="reg-form-wrap">
+    <div class="card">
+      <div class="card-title">Your details</div>
+      <div class="card-sub">Please tell us your name. It is used only to personalise your certificate &ndash; nothing is sent anywhere or stored online.</div>
+      <div class="form-group">
+        <label for="inp-first">First name *</label>
+        <input class="form-input" type="text" id="inp-first" placeholder="First name">
+        <div class="error-msg" id="err-first">Please enter your first name.</div>
+      </div>
+      <div class="form-group">
+        <label for="inp-last">Last name *</label>
+        <input class="form-input" type="text" id="inp-last" placeholder="Last name">
+        <div class="error-msg" id="err-last">Please enter your last name.</div>
+      </div>
+      <div class="form-group">
+        <label for="inp-email">Email address (optional)</label>
+        <input class="form-input" type="email" id="inp-email" placeholder="you@email.com">
+        <div class="form-hint">Optional. Used only if it appears on your certificate.</div>
+      </div>
+      <button class="btn btn-full" id="btn-register">Browse the episodes &rarr;</button>
+    </div>
+  </div>
+</div>
+
+<!-- SCREEN 2 · EPISODE LIST -->
+<div id="screen-episodes" class="screen">
+  <div class="episodes-hero">
+    <div class="ep-badge-main">Biergerpakt &middot; Podcast Programme</div>
+    <h1>The Biergerpakt Podcast &ndash; All Episodes</h1>
+    <p>Choose an episode, listen along with the full script, then take the quiz to earn your personal certificate.</p>
+  </div>
+  <div class="episode-grid-wrap">
+    <div id="episode-grid"></div>
+  </div>
+</div>
+
+<!-- SCREEN 3 · EPISODE DETAIL -->
+<div id="screen-episode" class="screen">
+  <div class="ep-hero">
+    <div class="ep-hero-inner">
+      <button class="btn btn-ghost no-print" id="btn-back-episodes" style="margin-bottom:16px; color:rgba(255,255,255,0.7);">&larr; All episodes</button>
+      <div class="ep-badge" id="ep-badge">Episode 1</div>
+      <h1 id="ep-title"></h1>
+      <p id="ep-description"></p>
+    </div>
+  </div>
+  <div class="ep-content">
+    <div class="ep-card">
+      <div class="ep-card-title">&#127911; Listen to this episode</div>
+      <audio id="ep-audio" controls preload="metadata"></audio>
+      <p class="player-hint">Press play and the script below will highlight along with the audio. Click any line to jump to that point.</p>
+    </div>
+
+    <div class="ep-card">
+      <div class="transcript-head">
+        <div class="ep-card-title" style="margin-bottom:0;">&#128221; Episode script</div>
+        <label class="follow-toggle"><input type="checkbox" id="follow-chk" checked> Auto-scroll with audio</label>
+      </div>
+      <div class="transcript" id="transcript"></div>
+    </div>
+
+    <div class="ep-card">
+      <div class="ep-card-title">&#128203; Topics in this episode</div>
+      <div class="topics-grid" id="ep-topics"></div>
+    </div>
+
+    <div class="quiz-cta">
+      <h2>Ready for the quiz?</h2>
+      <p>Answer 5 questions about this episode. All answers must be correct<br>to earn your personal certificate of participation.</p>
+      <button class="btn btn-white" id="btn-start-quiz">Start the quiz &rarr;</button>
+      <div class="quiz-cta-meta">5 questions &middot; Multiple choice &middot; Wrong answers come back at the end until you get them right</div>
+    </div>
+  </div>
+</div>
+
+<!-- SCREEN 4 · QUIZ -->
+<div id="screen-quiz" class="screen">
+  <div class="quiz-wrap">
+    <div class="quiz-topbar">
+      <span id="q-counter">Question 1 of 5</span>
+      <span id="q-label"></span>
+    </div>
+    <div class="progress-outer"><div class="progress-inner" id="q-progress" style="width:20%"></div></div>
+    <div class="q-card">
+      <div class="q-eyebrow" id="q-eyebrow">Question 1</div>
+      <div class="q-text" id="q-text"></div>
+      <div id="q-options"></div>
+      <div class="feedback" id="q-feedback"></div>
+      <div class="q-footer"><button class="btn hidden" id="btn-next">Next &rarr;</button></div>
+    </div>
+  </div>
+</div>
+
+<!-- SCREEN 5 · RESULTS -->
+<div id="screen-results" class="screen">
+  <div class="results-wrap">
+    <div class="score-card">
+      <div class="score-ring" id="score-ring">
+        <span class="score-n" id="score-n">0</span>
+        <span class="score-d" id="score-d">of 5</span>
+      </div>
+      <h2 id="score-title"></h2>
+      <p id="score-msg"></p>
+    </div>
+    <div class="retry-card hidden" id="retry-card">
+      <h3>&#9888;&#65039; Questions you answered incorrectly</h3>
+      <p>Listen again to the relevant parts of the episode and try these questions once more. You must answer all questions correctly to earn the certificate.</p>
+      <div id="wrong-list"></div>
+      <button class="btn" style="margin-top: 20px;" id="btn-retry">Try the incorrect questions again &rarr;</button>
+    </div>
+    <div class="success-banner hidden" id="success-banner">
+      <p>&#127881; Congratulations! You answered every question correctly.</p>
+      <button class="btn btn-green" id="btn-show-cert">Get my certificate &#127891;</button>
+    </div>
+    <div style="text-align:center;">
+      <button class="btn btn-outline" id="btn-back-episodes-result">&larr; Choose another episode</button>
+    </div>
+  </div>
+</div>
+
+<!-- SCREEN 6 · CERTIFICATE -->
+<div id="screen-certificate" class="screen">
+  <div class="cert-wrap">
+    <div class="certificate" id="certificate">
+      <div class="cert-inner-border"></div>
+      <div class="cert-logo-text">Zesumme<em>liewen</em></div>
+      <div class="cert-logo-sub">Biergerpakt</div>
+      <div class="cert-divider"></div>
+      <div class="cert-label">Certificate of Participation</div>
+      <div class="cert-big-title">The Biergerpakt Podcast</div>
+      <div class="cert-body-text">This is to certify that</div>
+      <div class="cert-name" id="cert-name-out"></div>
+      <div class="cert-body-text">has listened to the following podcast episode and successfully completed the knowledge quiz:</div>
+      <div class="cert-episode-box" id="cert-episode-out"></div>
+      <div class="cert-seal"><span class="cert-seal-icon">&#10003;</span>Biergerpakt<br>Verified</div>
+      <div class="cert-footer">
+        <span id="cert-email-line"></span>
+        <strong>Date of issue:</strong> <span id="cert-date-out"></span><br>
+        biergerpakt.lu
+      </div>
+    </div>
+    <div class="cert-actions no-print">
+      <button class="btn" id="btn-print">&#128424;&#65039; Print / Save as PDF</button>
+      <button class="btn btn-outline" id="btn-back-episode">&larr; Back to the episode</button>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
