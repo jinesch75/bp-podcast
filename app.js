@@ -16,7 +16,8 @@ let segTimes = [];
 let activeSeg = -1;
 let userScrolling = false;
 let userScrollTimer = null;
-let currentLang = 'en';   // global site language (en | fr | de | lb)
+let currentLang = 'en';   // site language: UI, audio, quiz, content (en | fr | de)
+let scriptLang = 'en';    // transcript display language only (en | fr | de | lb)
 
 // ── i18n: interface strings ──────────────────────────────
 const I18N = {
@@ -40,7 +41,7 @@ const I18N = {
     player_hint: 'Press play and the script below will highlight along with the audio. Click any line to jump to that point.',
     script_title: '📝 Episode script',
     autoscroll: 'Auto-scroll with audio',
-    lang_note: 'The audio is in English. This is the translated script for reading along.',
+    lang_note_tmpl: 'The audio is in {lang}. This script is shown for reading along.',
     topics_title: '📋 Topics in this episode',
     quiz_cta_h2: 'Ready for the quiz?',
     quiz_cta_p: 'Answer 5 questions about this episode. All answers must be correct to earn your personal certificate of participation.',
@@ -93,7 +94,7 @@ const I18N = {
     player_hint: 'Appuyez sur lecture et le script ci-dessous se surlignera au rythme de l’audio. Cliquez sur une ligne pour y accéder directement.',
     script_title: '📝 Script de l’épisode',
     autoscroll: 'Défilement automatique avec l’audio',
-    lang_note: 'L’audio est en anglais. Voici le script traduit pour suivre la lecture.',
+    lang_note_tmpl: 'L’audio est en {lang}. Ce script est affiché pour suivre la lecture.',
     topics_title: '📋 Sujets de cet épisode',
     quiz_cta_h2: 'Prêt pour le quiz ?',
     quiz_cta_p: 'Répondez à 5 questions sur cet épisode. Toutes les réponses doivent être correctes pour obtenir votre certificat de participation personnel.',
@@ -146,7 +147,7 @@ const I18N = {
     player_hint: 'Drücken Sie auf Wiedergabe, und das Skript unten wird im Takt des Audios hervorgehoben. Klicken Sie auf eine Zeile, um direkt dorthin zu springen.',
     script_title: '📝 Skript der Folge',
     autoscroll: 'Automatisch mit dem Audio scrollen',
-    lang_note: 'Das Audio ist auf Englisch. Dies ist das übersetzte Skript zum Mitlesen.',
+    lang_note_tmpl: 'Das Audio ist auf {lang}. Dieses Skript dient zum Mitlesen.',
     topics_title: '📋 Themen dieser Folge',
     quiz_cta_h2: 'Bereit für das Quiz?',
     quiz_cta_p: 'Beantworten Sie 5 Fragen zu dieser Folge. Alle Antworten müssen richtig sein, um Ihr persönliches Teilnahmezertifikat zu erhalten.',
@@ -199,7 +200,7 @@ const I18N = {
     player_hint: 'Dréckt op Play an de Skript hei ënnen gëtt am Takt vum Audio ervirgehuewen. Klickt op eng Zeil fir direkt dohinner ze sprangen.',
     script_title: '📝 Skript vun der Episode',
     autoscroll: 'Automatesch mam Audio scrollen',
-    lang_note: 'Den Audio ass op Englesch. Dëst ass de iwwersaten Skript fir matzelauschteren.',
+    lang_note_tmpl: 'Den Audio ass op {lang}. Dëse Skript gëtt fir matzelauschteren ugewisen.',
     topics_title: '📋 Themen an dëser Episode',
     quiz_cta_h2: 'Prett fir de Quiz?',
     quiz_cta_p: 'Beäntwert 5 Froen zu dëser Episode. All Äntwerte musse richteg sinn fir Äre perséinleche Participatiouns-Certificat ze kréien.',
@@ -234,6 +235,16 @@ const I18N = {
   }
 };
 const DATE_LOCALE = { en: 'en-GB', fr: 'fr-FR', de: 'de-DE', lb: 'fr-LU' };
+// Language display names, keyed by [UI language][target language] — used in the read-along note.
+const LANG_NAMES = {
+  en: { en: 'English', fr: 'French', de: 'German', lb: 'Luxembourgish' },
+  fr: { en: 'anglais', fr: 'français', de: 'allemand', lb: 'luxembourgeois' },
+  de: { en: 'Englisch', fr: 'Französisch', de: 'Deutsch', lb: 'Luxemburgisch' },
+  lb: { en: 'Englesch', fr: 'Franséisch', de: 'Däitsch', lb: 'Lëtzebuergesch' }
+};
+function langName(target) {
+  return (LANG_NAMES[currentLang] && LANG_NAMES[currentLang][target]) || LANG_NAMES.en[target] || target;
+}
 
 function t(key, vars) {
   var s = (I18N[currentLang] && I18N[currentLang][key]) || I18N.en[key] || key;
@@ -249,9 +260,16 @@ function epNumber(ep) {
   var n = String(ep.number).replace(/\D/g, '');
   return t('episode_word') + ' ' + n;
 }
-function audioForLang(ep) { return ep['audio_' + currentLang] || ep.audio; }
-// True when the audio that will play matches the selected language (a native track exists).
-function hasNativeAudio(ep) { return currentLang === 'en' || !!ep['audio_' + currentLang]; }
+// Which language the playing audio is in (the site language if a native track exists, else English).
+function audioLangFor(ep) { return ep['audio_' + currentLang] ? currentLang : 'en'; }
+function audioForLang(ep) { var l = audioLangFor(ep); return l === 'en' ? ep.audio : ep['audio_' + l]; }
+// The displayed script can be karaoke-synced to the audio when its timestamps match that audio:
+//  - same language as the audio, or
+//  - the audio is English and that script has no native track (its segments are aligned to the English audio).
+function isScriptSynced(ep) {
+  var a = audioLangFor(ep);
+  return scriptLang === a || (a === 'en' && !ep['audio_' + scriptLang]);
+}
 
 // ── Apply current language to the whole page ─────────────
 function applyLang() {
@@ -262,7 +280,8 @@ function applyLang() {
   document.querySelectorAll('[data-i18n-ph]').forEach(function (el) {
     el.setAttribute('placeholder', t(el.getAttribute('data-i18n-ph')));
   });
-  document.querySelectorAll('.lang-btn').forEach(function (b) {
+  // Header switcher reflects the site language (EN/FR/DE).
+  document.querySelectorAll('#lang-switch-global .lang-btn').forEach(function (b) {
     b.classList.toggle('active', b.getAttribute('data-lang') === currentLang);
   });
   // Re-render whichever dynamic screen is currently visible.
@@ -332,6 +351,7 @@ function renderEpisodeList() {
 // ── Select episode ───────────────────────────────────────
 function selectEpisode(id) {
   selectedEpisode = EPISODES.find(function (e) { return e.id === id; });
+  scriptLang = currentLang;   // script defaults to the site language; user can switch it independently
   renderEpisodeDetail();
   showScreen('screen-episode');
 }
@@ -369,25 +389,35 @@ function renderEpisodeDetail() {
 }
 
 // ── Script language ──────────────────────────────────────
-function segmentsForLang(ep, lang) {
-  if (lang === 'fr' && ep.segments_fr) return ep.segments_fr;
-  if (lang === 'de' && ep.segments_de) return ep.segments_de;
-  if (lang === 'lb' && ep.segments_lb) return ep.segments_lb;
+function segmentsForScript(ep) {
+  if (scriptLang === 'fr' && ep.segments_fr) return ep.segments_fr;
+  if (scriptLang === 'de' && ep.segments_de) return ep.segments_de;
+  if (scriptLang === 'lb' && ep.segments_lb) return ep.segments_lb;
   return ep.segments;
 }
 function updateLangButtons() {
-  document.querySelectorAll('.lang-btn').forEach(function (b) {
+  document.querySelectorAll('#lang-switch-global .lang-btn').forEach(function (b) {
     b.classList.toggle('active', b.getAttribute('data-lang') === currentLang);
   });
-  // Show the read-along note only when the playing audio is NOT in the selected language.
+  document.querySelectorAll('#lang-switch .lang-btn').forEach(function (b) {
+    b.classList.toggle('active', b.getAttribute('data-lang') === scriptLang);
+  });
+  // Read-along note whenever the displayed script is not the language being spoken.
   var note = document.getElementById('lang-note');
-  var showNote = selectedEpisode && !hasNativeAudio(selectedEpisode);
-  note.classList.toggle('hidden', !showNote);
+  if (!selectedEpisode) { note.classList.add('hidden'); return; }
+  var aLang = audioLangFor(selectedEpisode);
+  if (scriptLang === aLang) {
+    note.classList.add('hidden');
+  } else {
+    note.textContent = t('lang_note_tmpl', { lang: langName(aLang) });
+    note.classList.remove('hidden');
+  }
 }
 function renderTranscript() {
   var ep = selectedEpisode;
   var audio = document.getElementById('ep-audio');
-  var segs = segmentsForLang(ep, currentLang);
+  var segs = segmentsForScript(ep);
+  var synced = isScriptSynced(ep);   // can we karaoke-highlight against the current audio?
   var tw = document.getElementById('transcript');
   tw.innerHTML = '';
   tw.scrollTop = 0;
@@ -405,23 +435,37 @@ function renderTranscript() {
       lastSpeaker = seg.speaker;
     }
     line.innerHTML = speakerTag + '<span class="t-text">' + esc(seg.text) + '</span>';
-    line.addEventListener('click', function () {
-      audio.currentTime = seg.t + 0.01;
-      audio.play();
-      userScrolling = false;
-      setActiveSeg(i, true);
-    });
+    if (synced) {
+      line.addEventListener('click', function () {
+        audio.currentTime = seg.t + 0.01;
+        audio.play();
+        userScrolling = false;
+        setActiveSeg(i, true);
+      });
+      segTimes.push(seg.t);
+    } else {
+      // Reading-only view (script differs from the spoken language): no seeking, no highlight.
+      line.style.cursor = 'default';
+    }
     tw.appendChild(line);
     segEls.push(line);
-    segTimes.push(seg.t);
   });
-  // Re-sync highlight to the current audio position.
-  setActiveSeg(findSegIndex(audio.currentTime), true);
+  // Re-sync highlight to the current audio position (only when synced).
+  if (synced) setActiveSeg(findSegIndex(audio.currentTime), true);
 }
-function setLang(lang) {
+// Header switcher: site language (UI + audio + quiz + content). Script follows it.
+function setSiteLang(lang) {
   if (lang === currentLang) return;
   currentLang = lang;
+  scriptLang = lang;
   applyLang();
+}
+// Transcript switcher: changes only the displayed script (audio/UI unchanged).
+function setScriptLang(lang) {
+  if (lang === scriptLang) return;
+  scriptLang = lang;
+  updateLangButtons();
+  renderTranscript();
 }
 
 // ── Karaoke highlighting ─────────────────────────────────
@@ -617,9 +661,12 @@ document.addEventListener('DOMContentLoaded', function () {
   });
   document.getElementById('btn-back-episodes-result').addEventListener('click', function () { showScreen('screen-episodes'); });
 
-  // Language switchers (header + transcript) — both drive the global language.
-  document.querySelectorAll('.lang-btn').forEach(function (b) {
-    b.addEventListener('click', function () { setLang(b.getAttribute('data-lang')); });
+  // Header switcher → site language; transcript switcher → script language only.
+  document.querySelectorAll('#lang-switch-global .lang-btn').forEach(function (b) {
+    b.addEventListener('click', function () { setSiteLang(b.getAttribute('data-lang')); });
+  });
+  document.querySelectorAll('#lang-switch .lang-btn').forEach(function (b) {
+    b.addEventListener('click', function () { setScriptLang(b.getAttribute('data-lang')); });
   });
 
   // Audio sync

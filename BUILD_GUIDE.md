@@ -99,7 +99,12 @@ edge-tts install (sandbox): `pip install edge-tts --break-system-packages`; bina
 
 ## Multilingual audio + full-site i18n (added 2026-06-16)
 
-The site is now navigable in **EN / FR / DE / LB** via one global toggle in the header (plus the transcript toggle — both call `setLang()`). Switching language swaps **everything together**: UI chrome, episode title/description/topics, audio track, transcript, quiz, and certificate.
+**Two independent toggles:**
+- **Header toggle = site language, EN / FR / DE only** (`setSiteLang()`). Switches UI chrome, audio track, episode title/description/topics, quiz, and certificate. Luxembourgish is intentionally NOT a site language.
+- **Transcript toggle = script language, EN / FR / DE / LB** (`setScriptLang()`). Changes only the displayed transcript; audio/UI are untouched. LB lives here as a read-along script available on the EN/FR/DE site.
+- Opening an episode sets `scriptLang = currentLang`; the user can then pick a different script independently.
+- **Sync rule** (`isScriptSynced`): the transcript karaoke-highlights (and lines are click-to-seek) only when its timestamps match the playing audio — i.e. script language == audio language, OR the audio is English and the chosen script has no native track (its segments are aligned to the English audio: true for LB always, and for FR/DE on episodes without native audio). When not synced (e.g. LB or EN script while FR audio plays), the script renders as a static read-along with a note and no highlight/seek.
+- The read-along note (`lang_note_tmpl` + `LANG_NAMES`) names the spoken language, e.g. "The audio is in French. This script is shown for reading along."
 
 - **Native FR/DE audio** (test episodes `myguichet`, `dsp_cns`): generated with `build/tts_lang.py <key> <fr|de>` (voices fr=Denise/Henri, de=Katja/Conrad, rate -6%), assembled with `build/rebuild.py` exactly like EN. Produces `podcast_<key>_<lang>.mp3` + sentence-level `segdata_fixed.json`.
 - **No Luxembourgish TTS voice exists** in edge-tts. LB stays **read-along**: LB selected → plays the English audio with the turn-level LB transcript and shows the read-along note. Same fallback applies to any language/episode with no native track (e.g. episodes 3–15 in FR/DE/LB).
