@@ -97,6 +97,14 @@ edge-tts install (sandbox): `pip install edge-tts --break-system-packages`; bina
 - Git auto-commits in this environment (commits named "update"); working tree is usually clean.
 - iCloud sync: bash `rm` may be blocked on this folder; use Read to pull cloud-only files.
 
+## Topic tags + filter (added 2026-06-16)
+
+Each episode has a `categories` array of tag ids. The episode-list screen shows a filter bar (multi-select OR; "All topics" resets) and every card shows its tags. Tags + filter labels + the "{n} of {total} episodes" count are localized.
+
+- **Where things live:** the taxonomy is `CATEGORIES` in `app.js` (id + en/fr/de label, ordered). Per-episode tags are `ep.categories` in `episodes_data.js`. Filter UI markup is the `#filter-bar` / `#filter-count` block in `index.html` (CSS: `.filter-chip`, `.cat-tag`). Logic: `renderFilterBar()`, `episodeMatchesFilter()`, `selectedCats` in `app.js`; `renderEpisodeList()` filters + renders tags + count.
+- **Current categories:** digital, social, work, family, health, seniors, inclusion, safety, civic, crossborder. A category chip only appears once ≥1 episode uses it.
+- **To re-tag or add an episode's tags:** edit `build/inject_tags.js` (the `TAGS` map) and run `node build/inject_tags.js`, or set `categories: [...]` directly in the episode dict. To add a NEW category, add an entry to `CATEGORIES` in `app.js` (with fr/de labels) and tag episodes with its id. When adding a new episode, give it a `categories` array too.
+
 ## Multilingual audio + full-site i18n (added 2026-06-16)
 
 **One toggle (header), EN / FR / DE** (`setSiteLang()`). It drives EVERYTHING together: UI chrome, audio track, episode title/description/topics, quiz, certificate, AND the transcript. The transcript always shows the chosen UI language only (`segmentsForScript` keys off `currentLang`). There is no separate script-language switcher.

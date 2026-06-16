@@ -3013,6 +3013,9 @@ const EPISODES = [
     "correct": 2,
     "explanation": "An Ärem eSpace kënnt Dir Är Dossieren verfollegen, déi offiziell Donnéeë kucken, déi de Staat iwwer Iech huet, offiziell Dokumenter elektronesch kréien, Dokumenter späicheren a Rendez-vouse bei gewësse Verwaltunge buchen."
    }
+  ],
+  "categories": [
+   "digital"
   ]
  },
  {
@@ -5923,6 +5926,10 @@ const EPISODES = [
     "correct": 0,
     "explanation": "Et ass viru kuerzem vill méi einfach ginn: Dir kënnt Äre eSanté-Kont direkt iwwer MyGuichet.lu mat Ärem LuxTrust-Login direkt aktivéieren, amplaz op e Code mat der Post ze waarden."
    }
+  ],
+  "categories": [
+   "health",
+   "digital"
   ]
  },
  {
@@ -9049,6 +9056,9 @@ const EPISODES = [
     "correct": 0,
     "explanation": "Das Elteremobil ist ein kleiner Kleinbus, der durch Luxemburg fährt, um Eltern dort zu treffen, wo sie sind – so wartet das Eltereforum nicht nur darauf, dass Sie kommen, manchmal kommt es zu Ihnen."
    }
+  ],
+  "categories": [
+   "family"
   ]
  },
  {
@@ -12355,6 +12365,9 @@ const EPISODES = [
     "correct": 1,
     "explanation": "Der Freiwilligendienst ist eine größere Verpflichtung in Vollzeit von etwa 3–12 Monaten für Menschen unter 30 (über den Service national de la jeunesse, volontaires.lu) – anders als das gewöhnliche Ehrenamt, das flexibel und für alle in jedem Alter offen ist."
    }
+  ],
+  "categories": [
+   "civic"
   ]
  },
  {
@@ -15851,6 +15864,10 @@ const EPISODES = [
     "correct": 2,
     "explanation": "Behörden fragen niemals nach persönlichen Daten, und Nachrichten enthalten normalerweise keinen anklickbaren Link. Wenn Sie unsicher sind, überprüfen Sie die Warnung auf lu-alert.lu – und geben Sie niemals persönliche Daten weiter."
    }
+  ],
+  "categories": [
+   "safety",
+   "digital"
   ]
  },
  {
@@ -19442,6 +19459,9 @@ const EPISODES = [
     "correct": 3,
     "explanation": "LuxTrust fragt niemals nach Ihren Codes oder Zugangsdaten, verlangt niemals Zugriff auf Ihren Computer oder Ihr Handy und kommt niemals zu Ihnen nach Hause. Behalten Sie Ihre Zugangsdaten für sich und prüfen Sie im Zweifelsfall die offizielle Webseite."
    }
+  ],
+  "categories": [
+   "digital"
   ]
  },
  {
@@ -23043,6 +23063,10 @@ const EPISODES = [
     "correct": 2,
     "explanation": "Über Schüler von 14 bis 22 Jahren hinaus hilft das Haus Erwachsenen, die sich neu orientieren oder zum Studium zurückkehren, sowie Neuankömmlingen, die Diplome anerkennen oder Erfahrung validieren lassen müssen, über Dienste wie die berufliche Orientierung der ADEM, das CePAS, das SIA, die ATVA und Euroguidance."
    }
+  ],
+  "categories": [
+   "work",
+   "family"
   ]
  },
  {
@@ -26529,6 +26553,10 @@ const EPISODES = [
     "correct": 3,
     "explanation": "Neben der Webseite und dem Register gibt es einen nationalen Informations- und Mediationsdienst für den Bereich der Dienste für ältere Menschen. Er kann Sie orientieren und helfen, eine Meinungsverschiedenheit mit einem Dienst zu lösen – so werden Sie nie allein gelassen."
    }
+  ],
+  "categories": [
+   "seniors",
+   "social"
   ]
  },
  {
@@ -30965,6 +30993,10 @@ const EPISODES = [
     "correct": 1,
     "explanation": "Luxemburg hat den Europäischen Rechtsakt zur Barrierefreiheit umgesetzt (Gesetz vom 8. März 2023), anwendbar seit dem 28. Juni 2025. Die Stelle OSAPS überwacht die Einhaltung, und jeder kann ein nicht barrierefreies Produkt oder eine nicht barrierefreie Dienstleistung online über MyGuichet.lu melden."
    }
+  ],
+  "categories": [
+   "inclusion",
+   "digital"
   ]
  },
  {
@@ -35206,6 +35238,10 @@ const EPISODES = [
     "correct": 1,
     "explanation": "Nach den europäischen Regeln können Kinder von Grenzgängern, die über die luxemburgische Sozialversicherung versichert sind, Anspruch auf das Kindergeld haben, auch wenn sie im Ausland leben. Wird im Wohnsitzland bereits eine ähnliche Leistung gezahlt, zahlt Luxemburg die Differenz, damit die Familie den höheren Betrag erhält."
    }
+  ],
+  "categories": [
+   "family",
+   "social"
   ]
  },
  {
@@ -39292,6 +39328,9 @@ const EPISODES = [
     "correct": 2,
     "explanation": "Der FNS verwaltet außerdem ein Einkommen für schwer behinderte Menschen (RPGH), einen Zuschlag, der älteren Menschen mit niedrigem Einkommen hilft, die Pflege zu bezahlen, und die Erziehungspension („Mammerent“) für Eltern, die beim Großziehen ihrer Kinder weniger Pension aufgebaut haben."
    }
+  ],
+  "categories": [
+   "social"
   ]
  },
  {
@@ -43353,6 +43392,9 @@ const EPISODES = [
     "correct": 1,
     "explanation": "Die Zusammenarbeit bringt echte Alltagsvorteile: In manchen Grenzgebieten können Bürger jenseits der Grenze Kranken- und Notfallversorgung ohne Mehrkosten erhalten, die Universität der Großregion verbindet sechs Universitäten in vier Ländern, und grenzüberschreitende Routenplaner sowie Ausbildungsprogramme unterstützen Arbeit und Mobilität."
    }
+  ],
+  "categories": [
+   "crossborder"
   ]
  },
  {
@@ -47419,6 +47461,10 @@ const EPISODES = [
     "correct": 1,
     "explanation": "Indem Digital Inclusion gespendete Laptops, Smartphones und Tablets sammelt, repariert und weitergibt, hält der Verein funktionierende Geräte vom Müll fern – eine einzige Handlung, die einem bedürftigen Menschen hilft und zugleich Elektroschrott verringert."
    }
+  ],
+  "categories": [
+   "digital",
+   "inclusion"
   ]
  },
  {
@@ -51450,6 +51496,10 @@ const EPISODES = [
     "correct": 1,
     "explanation": "Das Ziel ist zu begleiten, nicht im Stich zu lassen: Das REVIS verlangt Mitwirkung (die Kooperationserklärung), aber der Ansatz ist, jede Person in ihrem eigenen Tempo rund um ihre eigenen Hindernisse zu unterstützen, damit ein Mindesteinkommen zu einer Brücke zurück in die Gesellschaft wird statt zu einer Sackgasse."
    }
+  ],
+  "categories": [
+   "social",
+   "work"
   ]
  },
  {
@@ -55041,6 +55091,10 @@ const EPISODES = [
     "correct": 1,
     "explanation": "Luxemburg veröffentlicht eine Liste der „Mangelberufe“ – Berufe, in denen Arbeitskräfte am dringendsten gebraucht werden. Für Fachkräfte von außerhalb der EU, die in diesen Berufen arbeiten, können die Einwanderungsverfahren schneller und reibungsloser sein."
    }
+  ],
+  "categories": [
+   "work",
+   "crossborder"
   ]
  }
 ];

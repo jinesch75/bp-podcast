@@ -102,6 +102,21 @@
     .episodes-hero h1 { font-size: clamp(1.4rem, 3vw, 2rem); font-weight: 900; line-height: 1.2; margin-bottom: 10px; }
     .episodes-hero p { font-size: 0.95rem; opacity: 0.78; max-width: 580px; margin: 0 auto; line-height: 1.6; }
     .episode-grid-wrap { max-width: 920px; margin: 0 auto; padding: 36px 20px 56px; }
+
+    /* Topic filter */
+    .filter-head { font-size: 0.78rem; font-weight: 800; letter-spacing: 0.6px; text-transform: uppercase; color: var(--text-sub); margin-bottom: 12px; }
+    .filter-bar { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+    .filter-chip { display: inline-flex; align-items: center; gap: 6px; background: white; border: 1.5px solid var(--border); color: #444; padding: 7px 14px; border-radius: 99px; font-family: inherit; font-size: 0.82rem; font-weight: 700; cursor: pointer; transition: border-color 0.15s, background 0.15s, color 0.15s; }
+    .filter-chip:hover { border-color: var(--orange); color: var(--orange-dark); }
+    .filter-chip.active { background: var(--orange); border-color: var(--orange); color: white; }
+    .filter-chip .chip-count { font-size: 0.72rem; font-weight: 800; opacity: 0.7; }
+    .filter-chip.active .chip-count { opacity: 0.9; }
+    .filter-count { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 18px; }
+
+    /* Category tags on episode cards */
+    .cat-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+    .cat-tag { font-size: 0.68rem; font-weight: 800; letter-spacing: 0.4px; text-transform: uppercase; color: #8c2b00; background: var(--orange-light); border: 1px solid #f3d2bf; padding: 3px 9px; border-radius: 6px; }
+
     #episode-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 16px; }
     .ep-list-card { background: white; border-radius: 12px; padding: 24px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); display: flex; flex-direction: column; gap: 10px; border: 2px solid transparent; transition: border-color 0.2s, box-shadow 0.2s; }
     .ep-list-card:hover { border-color: var(--orange); box-shadow: 0 4px 20px rgba(232,70,0,0.12); }
@@ -290,6 +305,9 @@
     <p data-i18n="episodes_intro">Choose an episode, listen along with the full script, then take the quiz to earn your personal certificate.</p>
   </div>
   <div class="episode-grid-wrap">
+    <div class="filter-head" id="filter-heading" data-i18n="filter_heading">Browse by topic</div>
+    <div class="filter-bar" id="filter-bar"></div>
+    <div class="filter-count" id="filter-count"></div>
     <div id="episode-grid"></div>
   </div>
 </div>

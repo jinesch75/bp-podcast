@@ -37,6 +37,9 @@ const I18N = {
     episodes_h1: 'The Biergerpakt Podcast – All Episodes',
     episodes_intro: 'Choose an episode, listen along with the full script, then take the quiz to earn your personal certificate.',
     btn_listen_quiz: 'Listen & take the quiz →',
+    filter_heading: 'Browse by topic',
+    filter_all: 'All topics',
+    eps_count: '{n} of {total} episodes',
     btn_all_episodes: '← All episodes',
     listen_title: '🎧 Listen to this episode',
     player_hint: 'Press play and the script below will highlight along with the audio. Click any line to jump to that point.',
@@ -90,6 +93,9 @@ const I18N = {
     episodes_h1: 'Le podcast Biergerpakt – tous les épisodes',
     episodes_intro: 'Choisissez un épisode, écoutez-le en suivant le script complet, puis répondez au quiz pour obtenir votre certificat personnel.',
     btn_listen_quiz: 'Écouter et faire le quiz →',
+    filter_heading: 'Parcourir par sujet',
+    filter_all: 'Tous les sujets',
+    eps_count: '{n} sur {total} épisodes',
     btn_all_episodes: '← Tous les épisodes',
     listen_title: '🎧 Écouter cet épisode',
     player_hint: 'Appuyez sur lecture et le script ci-dessous se surlignera au rythme de l’audio. Cliquez sur une ligne pour y accéder directement.',
@@ -143,6 +149,9 @@ const I18N = {
     episodes_h1: 'Der Biergerpakt-Podcast – alle Folgen',
     episodes_intro: 'Wählen Sie eine Folge, hören Sie mit dem vollständigen Skript mit und absolvieren Sie dann das Quiz, um Ihr persönliches Zertifikat zu erhalten.',
     btn_listen_quiz: 'Anhören & Quiz machen →',
+    filter_heading: 'Nach Thema stöbern',
+    filter_all: 'Alle Themen',
+    eps_count: '{n} von {total} Folgen',
     btn_all_episodes: '← Alle Folgen',
     listen_title: '🎧 Diese Folge anhören',
     player_hint: 'Drücken Sie auf Wiedergabe, und das Skript unten wird im Takt des Audios hervorgehoben. Klicken Sie auf eine Zeile, um direkt dorthin zu springen.',
@@ -196,6 +205,9 @@ const I18N = {
     episodes_h1: 'De Biergerpakt-Podcast – all Episoden',
     episodes_intro: 'Wielt eng Episode, lauschtert se mam komplette Skript mat, a maacht dann de Quiz fir Äre perséinleche Certificat ze kréien.',
     btn_listen_quiz: 'Lauschteren & Quiz maachen →',
+    filter_heading: 'No Thema kucken',
+    filter_all: 'All Themen',
+    eps_count: '{n} vu(n) {total} Episoden',
     btn_all_episodes: '← All Episoden',
     listen_title: '🎧 Dës Episode lauschteren',
     player_hint: 'Dréckt op Play an de Skript hei ënnen gëtt am Takt vum Audio ervirgehuewen. Klickt op eng Zeil fir direkt dohinner ze sprangen.',
@@ -246,6 +258,26 @@ const LANG_NAMES = {
 function langName(target) {
   return (LANG_NAMES[currentLang] && LANG_NAMES[currentLang][target]) || LANG_NAMES.en[target] || target;
 }
+
+// ── Topic categories (tags) ──────────────────────────────
+// Ordered list; each episode's `categories` array holds these ids. Edit labels/order here.
+const CATEGORIES = [
+  { id: 'digital',     en: 'Digital services',          fr: 'Services en ligne',           de: 'Online-Dienste' },
+  { id: 'social',      en: 'Social support',            fr: 'Aides sociales',              de: 'Soziale Hilfen' },
+  { id: 'work',        en: 'Work & careers',            fr: 'Travail & carrière',          de: 'Arbeit & Beruf' },
+  { id: 'family',      en: 'Family & children',         fr: 'Famille & enfants',           de: 'Familie & Kinder' },
+  { id: 'health',      en: 'Health',                    fr: 'Santé',                       de: 'Gesundheit' },
+  { id: 'seniors',     en: 'Seniors',                   fr: 'Seniors',                     de: 'Senioren' },
+  { id: 'inclusion',   en: 'Inclusion & accessibility', fr: 'Inclusion & accessibilité',   de: 'Inklusion & Barrierefreiheit' },
+  { id: 'safety',      en: 'Safety & emergencies',      fr: 'Sécurité & urgences',         de: 'Sicherheit & Notfälle' },
+  { id: 'civic',       en: 'Civic engagement',          fr: 'Engagement citoyen',          de: 'Bürgerengagement' },
+  { id: 'crossborder', en: 'Cross-border',              fr: 'Transfrontalier',             de: 'Grenzüberschreitend' }
+];
+function catLabel(id) {
+  var c = CATEGORIES.find(function (x) { return x.id === id; });
+  return c ? (c[currentLang] || c.en) : id;
+}
+let selectedCats = [];   // active topic filters (OR); empty = show all
 
 function t(key, vars) {
   var s = (I18N[currentLang] && I18N[currentLang][key]) || I18N.en[key] || key;
@@ -333,20 +365,57 @@ function doRegister() {
 }
 
 // ── Episode list ─────────────────────────────────────────
+function episodeMatchesFilter(ep) {
+  if (!selectedCats.length) return true;
+  return (ep.categories || []).some(function (c) { return selectedCats.indexOf(c) >= 0; });
+}
+function renderFilterBar() {
+  var bar = document.getElementById('filter-bar');
+  if (!bar) return;
+  bar.innerHTML = '';
+  var all = document.createElement('button');
+  all.type = 'button';
+  all.className = 'filter-chip' + (selectedCats.length === 0 ? ' active' : '');
+  all.textContent = t('filter_all');
+  all.addEventListener('click', function () { selectedCats = []; renderEpisodeList(); });
+  bar.appendChild(all);
+  CATEGORIES.forEach(function (c) {
+    var count = EPISODES.filter(function (e) { return (e.categories || []).indexOf(c.id) >= 0; }).length;
+    if (!count) return;   // hide categories with no episodes yet
+    var chip = document.createElement('button');
+    chip.type = 'button';
+    chip.className = 'filter-chip' + (selectedCats.indexOf(c.id) >= 0 ? ' active' : '');
+    chip.innerHTML = esc(catLabel(c.id)) + ' <span class="chip-count">' + count + '</span>';
+    chip.addEventListener('click', function () {
+      var i = selectedCats.indexOf(c.id);
+      if (i >= 0) selectedCats.splice(i, 1); else selectedCats.push(c.id);
+      renderEpisodeList();
+    });
+    bar.appendChild(chip);
+  });
+}
 function renderEpisodeList() {
+  renderFilterBar();
   var grid = document.getElementById('episode-grid');
   grid.innerHTML = '';
-  EPISODES.forEach(function (ep) {
+  var shown = EPISODES.filter(episodeMatchesFilter);
+  shown.forEach(function (ep) {
+    var tags = (ep.categories || []).map(function (c) {
+      return '<span class="cat-tag">' + esc(catLabel(c)) + '</span>';
+    }).join('');
     var card = document.createElement('div');
     card.className = 'ep-list-card';
     card.innerHTML =
       '<div class="ep-list-badge">' + esc(epNumber(ep)) + '</div>' +
       '<div class="ep-list-title">' + esc(epField(ep, 'title')) + '</div>' +
       '<div class="ep-list-desc">' + esc(epField(ep, 'description')) + '</div>' +
+      '<div class="cat-tags">' + tags + '</div>' +
       '<button class="btn ep-list-btn">' + esc(t('btn_listen_quiz')) + '</button>';
     card.querySelector('button').addEventListener('click', function () { selectEpisode(ep.id); });
     grid.appendChild(card);
   });
+  var cnt = document.getElementById('filter-count');
+  if (cnt) cnt.textContent = t('eps_count', { n: shown.length, total: EPISODES.length });
 }
 
 // ── Select episode ───────────────────────────────────────
