@@ -73249,5 +73249,2445 @@ const EPISODES = [
     "t": 379.46
    }
   ]
+ },
+ {
+  "id": 24,
+  "key": "cgdis",
+  "number": "Episode 24",
+  "title": "CGDIS and 112 – Luxembourg's Fire and Rescue Service",
+  "description": "What the CGDIS (the Grand Ducal Fire and Rescue Corps) is, the emergency number 112 to know by heart, its missions (firefighting, rescue and emergency medical help), how to make a good 112 call, the thousands of volunteer firefighters, how to become a volunteer (including young people), and the first-aid courses and prevention advice it offers.",
+  "audio": "podcast_cgdis.mp3",
+  "duration": 516.91,
+  "topics": [
+   "What the CGDIS is",
+   "Call 112 in any emergency",
+   "Fire, rescue & medical help",
+   "The CSU-112 call centre",
+   "How to make a good 112 call",
+   "3,900+ volunteer firefighters",
+   "Becoming a volunteer (incl. youth)",
+   "First aid & prevention"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome back!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's good to have you with us today.",
+    "t": 2.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border workers too, to feel safe and at home here.",
+    "t": 14.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today's topic could, one day, save a life... including maybe your own.",
+    "t": 21.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "We are talking about emergencies.",
+    "t": 26.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "A fire.",
+    "t": 29.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "A car accident.",
+    "t": 31.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Someone who suddenly collapses.",
+    "t": 33.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "In those frightening moments, who comes to help?",
+    "t": 36.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "And how do you reach them?",
+    "t": 39.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "The answer is an organisation called the CGDIS, and a number you must never forget... 1-1-2.",
+    "t": 41.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's start with the number, because it is the most important thing in this whole episode.",
+    "t": 49.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "In Luxembourg, in any emergency, you call 1-1-2.",
+    "t": 54.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is free.",
+    "t": 59.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "It works from any phone, even without credit.",
+    "t": 61.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "And it works day and night, every day of the year.",
+    "t": 65.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "You call 1-1-2 for a fire, for a serious accident, or for a medical emergency... someone badly hurt, or whose life is in danger.",
+    "t": 68.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Anna, what exactly is the CGDIS?",
+    "t": 77.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "CGDIS stands for the Corps grand-ducal d'incendie et de secours.",
+    "t": 81.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "In English, the Grand Ducal Fire and Rescue Corps.",
+    "t": 85.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is Luxembourg's national fire and rescue service.",
+    "t": 90.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "It was created in 2018, bringing the country's fire brigades and civil-protection services together into one single national organisation.",
+    "t": 94.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Before that, rescue was organised more locally.",
+    "t": 103.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Now it is unified, which makes help faster and more coordinated.",
+    "t": 107.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it works under the Ministry of Home Affairs, alongside the communes.",
+    "t": 111.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's talk about what the CGDIS actually does.",
+    "t": 116.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "It has a few big missions.",
+    "t": 120.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "The first is firefighting... putting out fires and rescuing people from them.",
+    "t": 123.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "The second is rescue in a broad sense... road accidents, people trapped, floods, dangerous situations.",
+    "t": 128.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the third is emergency medical help... the ambulances that come when someone is seriously ill or injured.",
+    "t": 135.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "So fire, rescue, and medical emergencies all come together in one service.",
+    "t": 141.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now, let's go back to that call.",
+    "t": 147.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "When you dial 1-1-2, where does it go?",
+    "t": 150.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "It goes to the emergency call centre, the CSU-112.",
+    "t": 153.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Trained operators answer, day and night.",
+    "t": 158.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "They listen, they understand what is happening, and they send the right help to the right place.",
+    "t": 161.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "And here is something really useful... how to make that call well, because it matters.",
+    "t": 167.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "First, try to stay as calm as you can.",
+    "t": 172.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Take a breath.",
+    "t": 176.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "The operator is there to help you.",
+    "t": 178.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second, say where you are.",
+    "t": 180.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "The exact place... the address, the town, a landmark.",
+    "t": 183.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Location is everything.",
+    "t": 187.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third, say what has happened.",
+    "t": 190.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "A fire?",
+    "t": 193.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "An accident?",
+    "t": 194.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Someone not breathing?",
+    "t": 196.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fourth, say how many people are involved, and whether anyone is in danger.",
+    "t": 198.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fifth, answer the operator's questions, and do not hang up until they tell you to.",
+    "t": 203.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "The operator may even guide you on what to do while help is on the way.",
+    "t": 209.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "So stay on the line.",
+    "t": 214.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is also an important \"when not to call\".",
+    "t": 216.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Yes.",
+    "t": 219.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "1-1-2 is for real emergencies.",
+    "t": 221.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Please don't call it for information, or for a minor problem.",
+    "t": 224.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Every needless call can block the line for someone whose life truly depends on it.",
+    "t": 229.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "For non-urgent health questions, there are other options, like the on-call doctor service.",
+    "t": 234.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now let's talk about the people behind the CGDIS, because their story is remarkable.",
+    "t": 239.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "The CGDIS has professional firefighters, who do this as their full-time job.",
+    "t": 245.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "But here is the amazing part.",
+    "t": 251.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "It also relies on thousands of volunteers.",
+    "t": 253.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "More than three thousand nine hundred volunteer firefighters.",
+    "t": 257.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "That is about ninety percent of the operational force.",
+    "t": 261.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ninety percent!",
+    "t": 265.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "So most of the people who rush to help you are volunteers.",
+    "t": 267.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "They have ordinary jobs and families.",
+    "t": 271.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "But when the alarm sounds, they drop everything to help their neighbours.",
+    "t": 274.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's a beautiful kind of solidarity.",
+    "t": 278.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "People protecting people, freely.",
+    "t": 281.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's look briefly at how the CGDIS is organised across the country.",
+    "t": 285.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are fire and rescue stations, called CIS, spread all over Luxembourg, so help is never far away.",
+    "t": 289.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is a national centre, the CNIS, near Luxembourg City, which coordinates the whole system.",
+    "t": 297.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "And there are specialised groups for difficult rescues... water rescue, dangerous materials, rescues from great heights.",
+    "t": 303.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "The equipment is impressive too.",
+    "t": 311.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "For example, modern aerial platforms can lift rescuers to reach people more than thirty metres up.",
+    "t": 314.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "So a small country has a very modern, well-organised rescue service.",
+    "t": 320.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's reassuring.",
+    "t": 325.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Now, Anna, here's something many listeners might not have thought about.",
+    "t": 328.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "You can be part of this.",
+    "t": 332.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes!",
+    "t": 334.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "The CGDIS welcomes new volunteers.",
+    "t": 336.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "You don't have to be a hero already... they train you.",
+    "t": 340.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "And young people can join too, as junior firefighters, the Jeunes Pompiers, or in Luxembourgish, the Jugendpompjeeën.",
+    "t": 343.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are also professional careers... as a firefighter, an officer, or in technical and administrative roles.",
+    "t": 351.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "So if you want to serve your community in a very concrete way, this is one of the most meaningful ways to do it.",
+    "t": 358.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "It connects to something we said in our episode on volunteering... giving your time to help others.",
+    "t": 365.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's also talk about training and prevention, because the CGDIS does more than respond to emergencies.",
+    "t": 370.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "It has a national training institute, the INFS, which trains its rescuers to a high standard.",
+    "t": 377.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "And it offers first-aid courses to the public.",
+    "t": 384.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Learning first aid is one of the most valuable things you can do.",
+    "t": 387.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Because in the first minutes of an emergency, an ordinary person nearby can make all the difference.",
+    "t": 391.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "The CGDIS also gives fire-prevention advice... simple things that keep your home safer.",
+    "t": 398.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Like having working smoke detectors, knowing your exits, and being careful with candles and cooking.",
+    "t": 404.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "And if you organise a big public event, you may need to declare it, so the rescue services can plan medical cover.",
+    "t": 410.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "So the CGDIS is there before, during, and after an emergency.",
+    "t": 417.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Preventing, responding, and caring.",
+    "t": 422.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Tom... let's make this really practical.",
+    "t": 426.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "What should everyone take away?",
+    "t": 429.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "First, and most important... in any emergency in Luxembourg, call 1-1-2.",
+    "t": 432.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second, teach it to your children, and to anyone new to the country.",
+    "t": 438.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "One-one-two.",
+    "t": 443.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third, when you call, give your location clearly, say what happened, and stay on the line.",
+    "t": 445.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fourth, consider learning first aid... it is a gift you give to the people around you.",
+    "t": 451.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fifth, if it speaks to you, think about becoming a volunteer with the CGDIS.",
+    "t": 456.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's bring it all together.",
+    "t": 462.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "What should people remember?",
+    "t": 465.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "First... the CGDIS is Luxembourg's national fire and rescue service, created in 2018.",
+    "t": 467.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second... in any emergency, you call 1-1-2, free, any phone, day or night.",
+    "t": 475.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third... most of its firefighters are volunteers, and you could become one too.",
+    "t": 481.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fourth... it also trains the public and gives prevention advice, so we can all help keep each other safe.",
+    "t": 486.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Emergencies are frightening.",
+    "t": 493.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "But you are not alone.",
+    "t": 495.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Behind that number, people are ready to come.",
+    "t": 497.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "And knowing how to reach them, calmly and clearly, is something every one of us can learn today.",
+    "t": 501.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 506.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care, stay safe, and see you in the next episode.",
+    "t": 509.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 513.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 515.38
+   }
+  ],
+  "questions": [
+   {
+    "text": "What number do you call for any emergency in Luxembourg?",
+    "options": [
+     "113",
+     "112",
+     "911",
+     "0800"
+    ],
+    "correct": 1,
+    "explanation": "In Luxembourg, you call 112 for any emergency — a fire, a serious accident or a medical emergency. It is free, works from any phone day and night, and connects you to the CGDIS emergency call centre."
+   },
+   {
+    "text": "What is the CGDIS?",
+    "options": [
+     "A private insurance company",
+     "Luxembourg's national fire and rescue service",
+     "A hospital",
+     "A police unit"
+    ],
+    "correct": 1,
+    "explanation": "The CGDIS — Corps grand-ducal d'incendie et de secours — is Luxembourg's national fire and rescue service, created in 2018 by bringing together the country's fire brigades and civil-protection services."
+   },
+   {
+    "text": "Roughly what share of the CGDIS's operational firefighters are volunteers?",
+    "options": [
+     "About 10%",
+     "About half",
+     "About 90%",
+     "None — they are all professionals"
+    ],
+    "correct": 2,
+    "explanation": "More than 3,900 volunteer firefighters make up around 90% of the CGDIS's operational workforce. They have ordinary jobs but drop everything to help when the alarm sounds."
+   },
+   {
+    "text": "When you call 112, what should you do?",
+    "options": [
+     "Hang up quickly so others can call",
+     "Give your exact location, say what happened, and stay on the line",
+     "Only send a text message",
+     "Call several times in a row"
+    ],
+    "correct": 1,
+    "explanation": "Stay as calm as you can, give your exact location, say what has happened and how many people are involved, answer the operator's questions, and do not hang up until they tell you to — they may guide you while help is on the way."
+   },
+   {
+    "text": "Besides responding to emergencies, what else does the CGDIS offer the public?",
+    "options": [
+     "Nothing",
+     "First-aid courses and fire-prevention advice",
+     "Home loans",
+     "Holiday trips"
+    ],
+    "correct": 1,
+    "explanation": "Through its training institute (INFS), the CGDIS offers first-aid courses to the public and gives fire-prevention advice — and it welcomes new volunteers, including young people as Jeunes Pompiers."
+   }
+  ],
+  "categories": [
+   "safety",
+   "civic"
+  ],
+  "title_fr": "Le CGDIS et le 112 – le service d'incendie et de secours du Luxembourg",
+  "description_fr": "Ce qu'est le CGDIS (le Corps grand-ducal d'incendie et de secours), le numéro d'urgence 112 à connaître par cœur, ses missions (incendie, sauvetage et secours à personne), comment passer un bon appel au 112, les milliers de pompiers volontaires, comment devenir volontaire (y compris les jeunes), et les cours de premiers secours et conseils de prévention qu'il propose.",
+  "topics_fr": [
+   "Ce qu'est le CGDIS",
+   "Appelez le 112 en cas d'urgence",
+   "Incendie, sauvetage & secours à personne",
+   "Le central d'appels CSU-112",
+   "Bien appeler le 112",
+   "Plus de 3 900 pompiers volontaires",
+   "Devenir volontaire (et jeunes pompiers)",
+   "Premiers secours & prévention"
+  ],
+  "questions_fr": [
+   {
+    "text": "Quel numéro composez-vous pour toute urgence au Luxembourg ?",
+    "options": [
+     "Le 113",
+     "Le 112",
+     "Le 911",
+     "Le 0800"
+    ],
+    "correct": 1,
+    "explanation": "Au Luxembourg, vous appelez le 112 pour toute urgence — un incendie, un accident grave ou une urgence médicale. C'est gratuit, cela fonctionne depuis n'importe quel téléphone jour et nuit, et cela vous met en relation avec le central d'appels d'urgence du CGDIS."
+   },
+   {
+    "text": "Qu'est-ce que le CGDIS ?",
+    "options": [
+     "Une compagnie d'assurance privée",
+     "Le service national d'incendie et de secours du Luxembourg",
+     "Un hôpital",
+     "Une unité de police"
+    ],
+    "correct": 1,
+    "explanation": "Le CGDIS — Corps grand-ducal d'incendie et de secours — est le service national d'incendie et de secours du Luxembourg, créé en 2018 en réunissant les corps de pompiers du pays et les services de protection civile."
+   },
+   {
+    "text": "Environ quelle proportion des pompiers opérationnels du CGDIS sont des volontaires ?",
+    "options": [
+     "Environ 10 %",
+     "Environ la moitié",
+     "Environ 90 %",
+     "Aucun — ce sont tous des professionnels"
+    ],
+    "correct": 2,
+    "explanation": "Plus de 3 900 pompiers volontaires représentent environ 90 % de l'effectif opérationnel du CGDIS. Ils ont un travail ordinaire mais laissent tout tomber pour aider quand l'alarme retentit."
+   },
+   {
+    "text": "Lorsque vous appelez le 112, que devez-vous faire ?",
+    "options": [
+     "Raccrocher vite pour que d'autres puissent appeler",
+     "Indiquer votre localisation exacte, dire ce qui s'est passé et rester en ligne",
+     "Envoyer uniquement un SMS",
+     "Appeler plusieurs fois de suite"
+    ],
+    "correct": 1,
+    "explanation": "Restez aussi calme que possible, indiquez votre localisation exacte, dites ce qui s'est passé et combien de personnes sont concernées, répondez aux questions de l'opérateur, et ne raccrochez pas avant qu'il vous le dise — il peut vous guider en attendant les secours."
+   },
+   {
+    "text": "Outre répondre aux urgences, qu'offre encore le CGDIS au public ?",
+    "options": [
+     "Rien",
+     "Des cours de premiers secours et des conseils de prévention incendie",
+     "Des prêts immobiliers",
+     "Des voyages de vacances"
+    ],
+    "correct": 1,
+    "explanation": "Via son institut de formation (INFS), le CGDIS propose des cours de premiers secours au public et donne des conseils de prévention incendie — et il accueille de nouveaux volontaires, y compris des jeunes au sein des Jeunes Pompiers."
+   }
+  ],
+  "title_de": "Das CGDIS und die 112 – Luxemburgs Brand- und Rettungsdienst",
+  "description_de": "Was das CGDIS ist (das Corps grand-ducal d'incendie et de secours), die Notrufnummer 112, die man auswendig kennen sollte, seine Aufgaben (Brandbekämpfung, Rettung und medizinische Hilfe), wie man einen guten 112-Anruf führt, die Tausenden freiwilligen Feuerwehrleute, wie man Freiwilliger wird (auch als Jugendlicher) und die Erste-Hilfe-Kurse und Präventionstipps, die es anbietet.",
+  "topics_de": [
+   "Was das CGDIS ist",
+   "Im Notfall die 112 wählen",
+   "Brand, Rettung & medizinische Hilfe",
+   "Die Notrufzentrale CSU-112",
+   "Einen guten 112-Anruf führen",
+   "Über 3 900 freiwillige Feuerwehrleute",
+   "Freiwilliger werden (auch Jugendliche)",
+   "Erste Hilfe & Prävention"
+  ],
+  "questions_de": [
+   {
+    "text": "Welche Nummer wählen Sie bei jedem Notfall in Luxemburg?",
+    "options": [
+     "Die 113",
+     "Die 112",
+     "Die 911",
+     "Die 0800"
+    ],
+    "correct": 1,
+    "explanation": "In Luxemburg wählen Sie bei jedem Notfall die 112 — bei einem Brand, einem schweren Unfall oder einem medizinischen Notfall. Sie ist kostenlos, funktioniert von jedem Telefon Tag und Nacht und verbindet Sie mit der Notrufzentrale des CGDIS."
+   },
+   {
+    "text": "Was ist das CGDIS?",
+    "options": [
+     "Eine private Versicherungsgesellschaft",
+     "Der nationale Brand- und Rettungsdienst Luxemburgs",
+     "Ein Krankenhaus",
+     "Eine Polizeieinheit"
+    ],
+    "correct": 1,
+    "explanation": "Das CGDIS — Corps grand-ducal d'incendie et de secours — ist der nationale Brand- und Rettungsdienst Luxemburgs, 2018 durch die Zusammenführung der Feuerwehren des Landes und der Zivilschutzdienste gegründet."
+   },
+   {
+    "text": "Etwa welcher Anteil der einsatzfähigen Feuerwehrleute des CGDIS sind Freiwillige?",
+    "options": [
+     "Etwa 10 %",
+     "Etwa die Hälfte",
+     "Etwa 90 %",
+     "Keiner — sie sind alle Profis"
+    ],
+    "correct": 2,
+    "explanation": "Mehr als 3 900 freiwillige Feuerwehrleute machen rund 90 % der einsatzfähigen Belegschaft des CGDIS aus. Sie haben einen normalen Beruf, lassen aber alles stehen und liegen, um zu helfen, wenn der Alarm ertönt."
+   },
+   {
+    "text": "Was sollten Sie tun, wenn Sie die 112 anrufen?",
+    "options": [
+     "Schnell auflegen, damit andere anrufen können",
+     "Ihren genauen Standort angeben, sagen, was passiert ist, und in der Leitung bleiben",
+     "Nur eine SMS senden",
+     "Mehrmals hintereinander anrufen"
+    ],
+    "correct": 1,
+    "explanation": "Bleiben Sie so ruhig wie möglich, geben Sie Ihren genauen Standort an, sagen Sie, was passiert ist und wie viele Personen betroffen sind, beantworten Sie die Fragen des Disponenten und legen Sie nicht auf, bevor er es Ihnen sagt — er kann Sie anleiten, während Hilfe unterwegs ist."
+   },
+   {
+    "text": "Was bietet das CGDIS der Öffentlichkeit außer der Notfallhilfe noch?",
+    "options": [
+     "Nichts",
+     "Erste-Hilfe-Kurse und Brandschutztipps",
+     "Immobilienkredite",
+     "Urlaubsreisen"
+    ],
+    "correct": 1,
+    "explanation": "Über sein Ausbildungsinstitut (INFS) bietet das CGDIS der Öffentlichkeit Erste-Hilfe-Kurse an und gibt Tipps zum Brandschutz — und es nimmt neue Freiwillige auf, auch Jugendliche bei den Jeunes Pompiers."
+   }
+  ],
+  "audio_fr": "podcast_cgdis_fr.mp3",
+  "duration_fr": 550.68,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour, et bon retour parmi nous !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un plaisir de vous compter parmi nous aujourd'hui.",
+    "t": 3.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 6.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 9.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
+    "t": 12.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les frontaliers, à se sentir en sécurité et chez eux ici.",
+    "t": 16.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le sujet d'aujourd'hui pourrait, un jour, sauver une vie... y compris peut-être la vôtre.",
+    "t": 24.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous parlons des urgences.",
+    "t": 29.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un incendie.",
+    "t": 32.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un accident de voiture.",
+    "t": 34.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quelqu'un qui s'effondre soudainement.",
+    "t": 36.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dans ces moments effrayants, qui vient à votre secours ?",
+    "t": 39.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et comment les joindre ?",
+    "t": 43.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "La réponse est une organisation appelée le CGDIS, et un numéro que vous ne devez jamais oublier... 1-1-2.",
+    "t": 45.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Commençons par le numéro, car c'est la chose la plus importante de tout cet épisode.",
+    "t": 53.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Au Luxembourg, en cas d'urgence, vous appelez le 1-1-2.",
+    "t": 58.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est gratuit.",
+    "t": 63.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela fonctionne depuis n'importe quel téléphone, même sans crédit.",
+    "t": 65.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et cela fonctionne jour et nuit, tous les jours de l'année.",
+    "t": 69.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous appelez le 1-1-2 pour un incendie, pour un accident grave, ou pour une urgence médicale... une personne grièvement blessée, ou dont la vie est en danger.",
+    "t": 73.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Anna, qu'est-ce que le CGDIS exactement ?",
+    "t": 83.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "CGDIS signifie Corps grand-ducal d'incendie et de secours.",
+    "t": 86.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "En anglais, the Grand Ducal Fire and Rescue Corps.",
+    "t": 91.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est le service national d'incendie et de secours du Luxembourg.",
+    "t": 95.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il a été créé en 2018, réunissant les corps de pompiers et les services de protection civile du pays en une seule organisation nationale.",
+    "t": 100.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Avant cela, les secours étaient organisés de manière plus locale.",
+    "t": 108.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Maintenant, c'est unifié, ce qui rend l'aide plus rapide et mieux coordonnée.",
+    "t": 113.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il travaille sous l'autorité du ministère de l'Intérieur, aux côtés des communes.",
+    "t": 118.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parlons de ce que fait réellement le CGDIS.",
+    "t": 123.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il a quelques grandes missions.",
+    "t": 126.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "La première est la lutte contre les incendies... éteindre les feux et en secourir les personnes.",
+    "t": 129.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "La deuxième est le secours au sens large... accidents de la route, personnes coincées, inondations, situations dangereuses.",
+    "t": 134.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et la troisième est l'aide médicale d'urgence... les ambulances qui viennent lorsque quelqu'un est gravement malade ou blessé.",
+    "t": 142.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ainsi, l'incendie, le secours et les urgences médicales se rejoignent dans un seul service.",
+    "t": 149.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Maintenant, revenons à cet appel.",
+    "t": 155.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quand vous composez le 1-1-2, où aboutit-il ?",
+    "t": 158.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il aboutit au centre d'appels d'urgence, le CSU-112.",
+    "t": 162.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Des opérateurs formés répondent, jour et nuit.",
+    "t": 166.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils écoutent, ils comprennent ce qui se passe, et ils envoient la bonne aide au bon endroit.",
+    "t": 170.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et voici quelque chose de vraiment utile... comment bien passer cet appel, car cela compte.",
+    "t": 175.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'abord, essayez de rester aussi calme que possible.",
+    "t": 181.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Respirez.",
+    "t": 186.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'opérateur est là pour vous aider.",
+    "t": 187.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement, dites où vous êtes.",
+    "t": 190.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'endroit exact... l'adresse, la localité, un point de repère.",
+    "t": 193.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "La localisation est essentielle.",
+    "t": 198.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement, dites ce qui s'est passé.",
+    "t": 201.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un incendie ?",
+    "t": 204.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un accident ?",
+    "t": 206.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quelqu'un qui ne respire pas ?",
+    "t": 208.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quatrièmement, dites combien de personnes sont concernées, et si quelqu'un est en danger.",
+    "t": 210.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et cinquièmement, répondez aux questions de l'opérateur, et ne raccrochez pas avant qu'il vous le dise.",
+    "t": 216.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'opérateur peut même vous guider sur ce qu'il faut faire pendant que les secours arrivent.",
+    "t": 222.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors restez en ligne.",
+    "t": 227.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a aussi un important « quand ne pas appeler ».",
+    "t": 229.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oui.",
+    "t": 232.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le 1-1-2 est réservé aux vraies urgences.",
+    "t": 234.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ne l'appelez pas, s'il vous plaît, pour une information, ou pour un problème mineur.",
+    "t": 238.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Chaque appel inutile peut bloquer la ligne pour quelqu'un dont la vie en dépend vraiment.",
+    "t": 243.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pour les questions de santé non urgentes, il existe d'autres options, comme le service du médecin de garde.",
+    "t": 248.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons maintenant des personnes derrière le CGDIS, car leur histoire est remarquable.",
+    "t": 254.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le CGDIS compte des pompiers professionnels, qui en font leur métier à plein temps.",
+    "t": 260.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais voici la partie étonnante.",
+    "t": 265.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il s'appuie aussi sur des milliers de bénévoles.",
+    "t": 268.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Plus de trois mille neuf cents pompiers volontaires.",
+    "t": 271.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela représente environ quatre-vingt-dix pour cent de la force opérationnelle.",
+    "t": 274.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quatre-vingt-dix pour cent !",
+    "t": 279.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Donc la plupart des personnes qui se précipitent pour vous secourir sont des bénévoles.",
+    "t": 281.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils ont des emplois ordinaires et des familles.",
+    "t": 286.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mais quand l'alarme retentit, ils laissent tout tomber pour aider leurs voisins.",
+    "t": 289.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est une belle forme de solidarité.",
+    "t": 294.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Des gens qui protègent des gens, librement.",
+    "t": 297.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Regardons brièvement comment le CGDIS est organisé à travers le pays.",
+    "t": 300.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a des centres d'incendie et de secours, appelés CIS, répartis dans tout le Luxembourg, pour que l'aide ne soit jamais loin.",
+    "t": 305.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a un centre national, le CNIS, près de la Ville de Luxembourg, qui coordonne l'ensemble du système.",
+    "t": 313
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il y a des groupes spécialisés pour les sauvetages difficiles... sauvetage aquatique, matières dangereuses, sauvetages en grande hauteur.",
+    "t": 320.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'équipement est impressionnant aussi.",
+    "t": 328.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Par exemple, des plateformes aériennes modernes peuvent élever les sauveteurs pour atteindre des personnes à plus de trente mètres de hauteur.",
+    "t": 330.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ainsi, un petit pays possède un service de secours très moderne et bien organisé.",
+    "t": 337.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est rassurant.",
+    "t": 343.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Maintenant, Anna, voici quelque chose à quoi beaucoup d'auditeurs n'ont peut-être pas pensé.",
+    "t": 345.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous pouvez en faire partie.",
+    "t": 351.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui !",
+    "t": 353.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le CGDIS accueille de nouveaux bénévoles.",
+    "t": 354.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous n'avez pas besoin d'être déjà un héros... ils vous forment.",
+    "t": 358.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et les jeunes peuvent aussi rejoindre, comme jeunes pompiers, les « Jeunes Pompiers », ou en luxembourgeois, les « Jugendpompjeeën ».",
+    "t": 362.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a aussi des carrières professionnelles... comme pompier, officier, ou dans des fonctions techniques et administratives.",
+    "t": 370.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc si vous voulez servir votre communauté de manière très concrète, c'est l'une des façons les plus significatives de le faire.",
+    "t": 378.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela rejoint quelque chose que nous avons dit dans notre épisode sur le bénévolat... donner de son temps pour aider les autres.",
+    "t": 385.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parlons aussi de la formation et de la prévention, car le CGDIS fait plus que répondre aux urgences.",
+    "t": 392.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il a un institut national de formation, l'INFS, qui forme ses secouristes à un haut niveau.",
+    "t": 398.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et il propose des cours de premiers secours au public.",
+    "t": 404.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Apprendre les premiers secours est l'une des choses les plus précieuses que vous puissiez faire.",
+    "t": 408.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parce que dans les premières minutes d'une urgence, une personne ordinaire à proximité peut faire toute la différence.",
+    "t": 413.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le CGDIS donne aussi des conseils de prévention des incendies... des choses simples qui rendent votre maison plus sûre.",
+    "t": 420.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comme avoir des détecteurs de fumée qui fonctionnent, connaître ses issues, et faire attention avec les bougies et la cuisine.",
+    "t": 426.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et si vous organisez un grand événement public, vous devrez peut-être le déclarer, afin que les services de secours puissent prévoir une couverture médicale.",
+    "t": 434.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ainsi, le CGDIS est là avant, pendant et après une urgence.",
+    "t": 442.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Prévenir, intervenir, et prendre soin.",
+    "t": 447.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Tom... rendons cela vraiment concret.",
+    "t": 451.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que devrait retenir chacun ?",
+    "t": 454.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'abord, et le plus important... en cas d'urgence au Luxembourg, appelez le 1-1-2.",
+    "t": 457.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement, apprenez-le à vos enfants, et à toute personne nouvelle dans le pays.",
+    "t": 463.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Un-un-deux.",
+    "t": 468.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement, quand vous appelez, donnez clairement votre localisation, dites ce qui s'est passé, et restez en ligne.",
+    "t": 470.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quatrièmement, envisagez d'apprendre les premiers secours... c'est un cadeau que vous offrez aux personnes qui vous entourent.",
+    "t": 477.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et cinquièmement, si cela vous parle, pensez à devenir bénévole au CGDIS.",
+    "t": 484.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Rassemblons tout cela.",
+    "t": 489.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que doivent retenir les gens ?",
+    "t": 491.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Premièrement... le CGDIS est le service national d'incendie et de secours du Luxembourg, créé en 2018.",
+    "t": 494.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement... en cas d'urgence, vous appelez le 1-1-2, gratuit, depuis n'importe quel téléphone, jour et nuit.",
+    "t": 501.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement... la plupart de ses pompiers sont des bénévoles, et vous pourriez en devenir un aussi.",
+    "t": 509.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quatrièmement... il forme aussi le public et donne des conseils de prévention, pour que nous puissions tous nous aider à rester en sécurité.",
+    "t": 515.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les urgences font peur.",
+    "t": 523.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais vous n'êtes pas seul.",
+    "t": 526.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Derrière ce numéro, des gens sont prêts à venir.",
+    "t": 528.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et savoir comment les joindre, calmement et clairement, est quelque chose que chacun d'entre nous peut apprendre dès aujourd'hui.",
+    "t": 532.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci infiniment de nous avoir écoutés.",
+    "t": 538.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous, restez en sécurité, et à bientôt pour le prochain épisode.",
+    "t": 542.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi !",
+    "t": 547.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi !",
+    "t": 549.07
+   }
+  ],
+  "audio_de": "podcast_cgdis_de.mp3",
+  "duration_de": 607.87,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen zurück!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist schön, dass Sie heute bei uns sind.",
+    "t": 3.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 6.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 8.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 12.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, sich hier sicher und zu Hause zu fühlen.",
+    "t": 16.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und das heutige Thema könnte eines Tages ein Leben retten... vielleicht sogar Ihr eigenes.",
+    "t": 25.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wir sprechen über Notfälle.",
+    "t": 30.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein Brand.",
+    "t": 33.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein Autounfall.",
+    "t": 35.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jemand, der plötzlich zusammenbricht.",
+    "t": 37.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "In diesen beängstigenden Momenten, wer kommt zu Hilfe?",
+    "t": 41.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wie erreichen Sie ihn?",
+    "t": 45.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Antwort ist eine Organisation namens CGDIS, und eine Nummer, die Sie niemals vergessen dürfen... 1-1-2.",
+    "t": 47.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Beginnen wir mit der Nummer, denn sie ist das Wichtigste in dieser ganzen Folge.",
+    "t": 57.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "In Luxemburg rufen Sie bei jedem Notfall die 1-1-2 an.",
+    "t": 62.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie ist kostenlos.",
+    "t": 67.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie funktioniert von jedem Telefon aus, sogar ohne Guthaben.",
+    "t": 70.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und sie funktioniert Tag und Nacht, an jedem Tag des Jahres.",
+    "t": 74.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie rufen die 1-1-2 an bei einem Brand, bei einem schweren Unfall oder bei einem medizinischen Notfall... jemand, der schwer verletzt ist oder dessen Leben in Gefahr ist.",
+    "t": 79.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, was genau ist das CGDIS?",
+    "t": 90.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "CGDIS steht für Corps grand-ducal d'incendie et de secours.",
+    "t": 94.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Auf Englisch: the Grand Ducal Fire and Rescue Corps.",
+    "t": 99.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist der nationale Brand- und Rettungsdienst Luxemburgs.",
+    "t": 103.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es wurde 2018 gegründet und vereinte die Feuerwehren und die Zivilschutzdienste des Landes in einer einzigen nationalen Organisation.",
+    "t": 108.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Davor war die Rettung eher lokal organisiert.",
+    "t": 117.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jetzt ist sie vereinheitlicht, was die Hilfe schneller und besser koordiniert macht.",
+    "t": 121.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es arbeitet unter dem Innenministerium, gemeinsam mit den Gemeinden.",
+    "t": 126.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sprechen wir darüber, was das CGDIS tatsächlich tut.",
+    "t": 132.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es hat einige große Aufgaben.",
+    "t": 136.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die erste ist die Brandbekämpfung... Brände löschen und Menschen daraus retten.",
+    "t": 139.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die zweite ist die Rettung im weiteren Sinne... Verkehrsunfälle, eingeschlossene Personen, Überschwemmungen, gefährliche Situationen.",
+    "t": 146.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die dritte ist die medizinische Notfallhilfe... die Krankenwagen, die kommen, wenn jemand schwer krank oder verletzt ist.",
+    "t": 155.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "So kommen Brand, Rettung und medizinische Notfälle alle in einem Dienst zusammen.",
+    "t": 163.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nun gehen wir zurück zu diesem Anruf.",
+    "t": 169.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie die 1-1-2 wählen, wo landet er?",
+    "t": 172.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Er landet bei der Notrufzentrale, dem CSU-112.",
+    "t": 177.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Geschulte Mitarbeiter antworten, Tag und Nacht.",
+    "t": 182.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie hören zu, sie verstehen, was passiert, und sie schicken die richtige Hilfe an den richtigen Ort.",
+    "t": 185.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und hier ist etwas wirklich Nützliches... wie man diesen Anruf gut macht, denn das ist wichtig.",
+    "t": 192.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens: Versuchen Sie, so ruhig wie möglich zu bleiben.",
+    "t": 199.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Atmen Sie durch.",
+    "t": 203.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Mitarbeiter ist da, um Ihnen zu helfen.",
+    "t": 205.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens: Sagen Sie, wo Sie sind.",
+    "t": 209.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Den genauen Ort... die Adresse, die Ortschaft, einen Anhaltspunkt.",
+    "t": 213.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Standort ist entscheidend.",
+    "t": 218.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens: Sagen Sie, was passiert ist.",
+    "t": 220.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein Brand?",
+    "t": 224.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein Unfall?",
+    "t": 226.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jemand, der nicht atmet?",
+    "t": 228.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Viertens: Sagen Sie, wie viele Personen betroffen sind und ob jemand in Gefahr ist.",
+    "t": 231.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und fünftens: Beantworten Sie die Fragen des Mitarbeiters und legen Sie nicht auf, bis er es Ihnen sagt.",
+    "t": 237.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Mitarbeiter kann Sie sogar anleiten, was zu tun ist, während die Hilfe unterwegs ist.",
+    "t": 244.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bleiben Sie also in der Leitung.",
+    "t": 250.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt auch ein wichtiges „wann man nicht anrufen sollte\".",
+    "t": 253.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ja.",
+    "t": 257.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die 1-1-2 ist für echte Notfälle da.",
+    "t": 258.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bitte rufen Sie sie nicht für eine Auskunft oder für ein kleineres Problem an.",
+    "t": 262.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jeder unnötige Anruf kann die Leitung für jemanden blockieren, dessen Leben wirklich davon abhängt.",
+    "t": 267.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Für nicht dringende Gesundheitsfragen gibt es andere Möglichkeiten, wie den ärztlichen Bereitschaftsdienst.",
+    "t": 274.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir nun über die Menschen hinter dem CGDIS, denn ihre Geschichte ist bemerkenswert.",
+    "t": 280.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das CGDIS hat Berufsfeuerwehrleute, die dies als ihren Vollzeitberuf ausüben.",
+    "t": 287.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber hier ist der erstaunliche Teil.",
+    "t": 293.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es stützt sich auch auf Tausende von Freiwilligen.",
+    "t": 296.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mehr als dreitausendneunhundert freiwillige Feuerwehrleute.",
+    "t": 300.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das sind etwa neunzig Prozent der Einsatzkräfte.",
+    "t": 304.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Neunzig Prozent!",
+    "t": 308.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die meisten Menschen, die zu Ihrer Hilfe eilen, sind also Freiwillige.",
+    "t": 310.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie haben gewöhnliche Berufe und Familien.",
+    "t": 316.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aber wenn der Alarm ertönt, lassen sie alles stehen und liegen, um ihren Nachbarn zu helfen.",
+    "t": 319.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist eine schöne Form der Solidarität.",
+    "t": 325.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Menschen, die Menschen schützen, freiwillig.",
+    "t": 329.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Schauen wir kurz an, wie das CGDIS im ganzen Land organisiert ist.",
+    "t": 333.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt Brand- und Rettungszentren, genannt CIS, im ganzen Luxemburg verteilt, sodass die Hilfe nie weit entfernt ist.",
+    "t": 338.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt ein nationales Zentrum, das CNIS, nahe Luxemburg-Stadt, das das gesamte System koordiniert.",
+    "t": 347.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es gibt spezialisierte Gruppen für schwierige Rettungen... Wasserrettung, gefährliche Stoffe, Rettungen aus großer Höhe.",
+    "t": 354.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Ausrüstung ist ebenfalls beeindruckend.",
+    "t": 363.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zum Beispiel können moderne Hubrettungsbühnen Retter heben, um Menschen in mehr als dreißig Metern Höhe zu erreichen.",
+    "t": 367.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "So hat ein kleines Land einen sehr modernen, gut organisierten Rettungsdienst.",
+    "t": 374.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist beruhigend.",
+    "t": 379.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nun, Anna, hier ist etwas, woran viele Hörer vielleicht nicht gedacht haben.",
+    "t": 382.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie können ein Teil davon sein.",
+    "t": 387.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja!",
+    "t": 390.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das CGDIS heißt neue Freiwillige willkommen.",
+    "t": 392.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen noch kein Held sein... sie bilden Sie aus.",
+    "t": 396.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und auch junge Menschen können beitreten, als Jungfeuerwehrleute, die „Jeunes Pompiers\", oder auf Luxemburgisch die „Jugendpompjeeën\".",
+    "t": 400.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt auch berufliche Laufbahnen... als Feuerwehrmann, Offizier oder in technischen und administrativen Funktionen.",
+    "t": 408.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn Sie also Ihrer Gemeinschaft auf eine sehr konkrete Weise dienen möchten, ist dies eine der sinnvollsten Möglichkeiten dazu.",
+    "t": 416.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das knüpft an etwas an, das wir in unserer Folge über das Ehrenamt gesagt haben... seine Zeit zu geben, um anderen zu helfen.",
+    "t": 424.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sprechen wir auch über Ausbildung und Prävention, denn das CGDIS tut mehr, als nur auf Notfälle zu reagieren.",
+    "t": 433.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es hat ein nationales Ausbildungsinstitut, das INFS, das seine Retter auf hohem Niveau ausbildet.",
+    "t": 441.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und es bietet der Öffentlichkeit Erste-Hilfe-Kurse an.",
+    "t": 448.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erste Hilfe zu lernen ist eine der wertvollsten Dinge, die Sie tun können.",
+    "t": 452.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Denn in den ersten Minuten eines Notfalls kann ein gewöhnlicher Mensch in der Nähe den ganzen Unterschied machen.",
+    "t": 457.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das CGDIS gibt auch Ratschläge zur Brandverhütung... einfache Dinge, die Ihr Zuhause sicherer machen.",
+    "t": 464.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wie funktionierende Rauchmelder zu haben, seine Ausgänge zu kennen und vorsichtig mit Kerzen und beim Kochen zu sein.",
+    "t": 471.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wenn Sie eine große öffentliche Veranstaltung organisieren, müssen Sie diese möglicherweise anmelden, damit die Rettungsdienste eine medizinische Absicherung planen können.",
+    "t": 479.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "So ist das CGDIS vor, während und nach einem Notfall da.",
+    "t": 489.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vorbeugen, eingreifen und sich kümmern.",
+    "t": 494.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Tom... machen wir das ganz praktisch.",
+    "t": 498.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was sollte jeder mitnehmen?",
+    "t": 501.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens, und am wichtigsten... rufen Sie bei jedem Notfall in Luxemburg die 1-1-2 an.",
+    "t": 504.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens: Bringen Sie es Ihren Kindern bei, und jedem, der neu im Land ist.",
+    "t": 511.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eins-eins-zwei.",
+    "t": 517.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens: Wenn Sie anrufen, geben Sie Ihren Standort klar an, sagen Sie, was passiert ist, und bleiben Sie in der Leitung.",
+    "t": 519.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Viertens: Erwägen Sie, Erste Hilfe zu lernen... es ist ein Geschenk, das Sie den Menschen um Sie herum machen.",
+    "t": 528.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und fünftens: Wenn es Sie anspricht, denken Sie darüber nach, Freiwilliger beim CGDIS zu werden.",
+    "t": 535.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fassen wir alles zusammen.",
+    "t": 543.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Woran sollten sich die Menschen erinnern?",
+    "t": 545.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens... das CGDIS ist der nationale Brand- und Rettungsdienst Luxemburgs, gegründet 2018.",
+    "t": 548.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens... bei jedem Notfall rufen Sie die 1-1-2 an, kostenlos, von jedem Telefon, Tag und Nacht.",
+    "t": 557.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens... die meisten seiner Feuerwehrleute sind Freiwillige, und auch Sie könnten einer werden.",
+    "t": 565.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und viertens... es bildet auch die Öffentlichkeit aus und gibt Präventionsratschläge, damit wir alle einander sicher halten können.",
+    "t": 572.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Notfälle sind beängstigend.",
+    "t": 580.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber Sie sind nicht allein.",
+    "t": 582.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Hinter dieser Nummer sind Menschen bereit zu kommen.",
+    "t": 585.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und zu wissen, wie man sie erreicht, ruhig und klar, ist etwas, das jeder von uns heute lernen kann.",
+    "t": 589.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank, dass Sie zugehört haben.",
+    "t": 596.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf, bleiben Sie sicher, und bis zur nächsten Folge.",
+    "t": 599.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 604.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 606.41
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm zréck! Et ass flott, datt Dir haut bei eis sidd.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien zesummen!",
+    "t": 5.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner hëllefen, an och de Grenzgänger, fir sech hei sécher an doheem ze fillen.",
+    "t": 7.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "An den Thema vun haut kéint engdaags e Liewe retten... vläicht souguer Äert eegent.",
+    "t": 21.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mir schwätzen iwwer Noutfäll. E Brand. En Autosaccident. Een, deen op eemol zesummebrécht.",
+    "t": 26.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "An deene beängschtegende Momenter, wien kënnt hëllefen? A wéi erreecht Dir si?",
+    "t": 36.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Äntwert ass eng Organisatioun, déi de CGDIS heescht, an eng Nummer, déi Dir ni däerft vergiessen... 1-1-2.",
+    "t": 41.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer mat der Nummer ufänken, well dat ass dat Wichtegst an dëser ganzer Episod.",
+    "t": 49.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zu Lëtzebuerg, bei all Noutfall, rufft Dir d'1-1-2 un.",
+    "t": 54.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et ass gratis. Et funktionéiert vun all Telefon, souguer ouni Guthaben. An et funktionéiert Dag an Nuecht, all Dag am Joer.",
+    "t": 59.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dir rufft d'1-1-2 un bei engem Brand, bei engem schwéieren Accident, oder bei engem medizineschen Noutfall... een, dee schwéier blesséiert ass, oder deem säi Liewen a Gefor ass.",
+    "t": 68.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, wat ass de CGDIS genau?",
+    "t": 77.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "CGDIS steet fir Corps grand-ducal d'incendie et de secours. Op Englesch, the Grand Ducal Fire and Rescue Corps.",
+    "t": 81.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et ass den nationale Brand- a Rettungsdéngscht vu Lëtzebuerg.",
+    "t": 90.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Hie gouf 2018 gegrënnt an huet d'Pompjeeën an d'Déngschter vum Zivilschutz vum Land an eng eenzeg national Organisatioun zesummegefaasst.",
+    "t": 94.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Virdru war d'Rettung méi lokal organiséiert. Elo ass se vereenheetlecht, wat d'Hëllef méi séier a besser koordinéiert mécht.",
+    "t": 103.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "An hie schafft ënner dem Innenministère, zesumme mat de Gemengen.",
+    "t": 111.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer iwwer dat schwätzen, wat de CGDIS tatsächlech mécht. Hien huet e puer grouss Aufgaben.",
+    "t": 116.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Déi éischt ass d'Brandbekämpfung... Bränn läschen a Leit dorausser retten.",
+    "t": 123.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Déi zweet ass d'Rettung am breede Sënn... Verkéiersaccidenter, agespaarte Leit, Iwwerschwemmungen, geféierlech Situatiounen.",
+    "t": 128.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "An déi drëtt ass déi medizinesch Noutfallhëllef... d'Ambulanzen, déi kommen, wann een schwéier krank oder blesséiert ass.",
+    "t": 135.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also kommen de Brand, d'Rettung an déi medizinesch Noutfäll all an engem Déngscht zesummen.",
+    "t": 141.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elo, loosse mer zréck op deen Uruff goen. Wann Dir d'1-1-2 wielt, wou kënnt en un?",
+    "t": 147.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "En kënnt bei der Noutrufzentral un, dem CSU-112. Ausgebilten Operateuren äntweren, Dag an Nuecht.",
+    "t": 153.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si lauschteren, si verstinn, wat geschitt, a si schécken déi richteg Hëllef un déi richteg Plaz.",
+    "t": 161.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "An hei ass eppes wierklech nëtzlech... wéi een deen Uruff gutt mécht, well dat ass wichteg.",
+    "t": 167.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als éischt, probéiert sou roueg ze bleiwen, wéi Dir kënnt. Otemt déif. Den Operateur ass do, fir Iech ze hëllefen.",
+    "t": 172.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als zweet, sot, wou Dir sidd. Déi genee Plaz... d'Adress, d'Uertschaft, e Bezuchspunkt. D'Plaz ass entscheedend.",
+    "t": 180.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als drëtt, sot, wat geschitt ass. E Brand? En Accident? Een, dee net otemt?",
+    "t": 190.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als véiert, sot, wéi vill Leit betraff sinn, an ob een a Gefor ass.",
+    "t": 198.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "An als fënneft, äntwert op d'Froe vum Operateur, an hänkt net op, bis hien et Iech seet.",
+    "t": 203.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Den Operateur kann Iech souguer ulëschten, wat ze maachen ass, wärend d'Hëllef ënnerwee ass. Also bleift an der Leitung.",
+    "t": 209.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt och e wichtegt „wéini net unzeruffen\".",
+    "t": 216.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jo. D'1-1-2 ass fir richteg Noutfäll. W.e.g. rufft se net un fir eng Informatioun, oder fir e klenge Problem.",
+    "t": 219.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "All onnéidegen Uruff kann d'Leitung blockéieren fir een, deem säi Liewe wierklech dovun ofhänkt.",
+    "t": 229.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fir net dréngend Gesondheetsfroen gëtt et aner Méiglechkeeten, wéi den Déngscht vum Bereetschaftsdokter.",
+    "t": 234.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elo, loosse mer iwwer d'Leit hannert dem CGDIS schwätzen, well hir Geschicht ass bemierkenswäert.",
+    "t": 239.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "De CGDIS huet beruffleg Pompjeeën, déi dat als hire Vollzäitberuff maachen.",
+    "t": 245.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mä hei ass deen erstaunlechen Deel. Hie stëtzt sech och op Dausende vu Fräiwëllegen.",
+    "t": 251.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Méi wéi dräidausendnénghonnert fräiwëlleg Pompjeeën. Dat sinn ongeféier nonzeg Prozent vun den Asazkräften.",
+    "t": 257.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nonzeg Prozent! Also déi meeschte Leit, déi sech beeilen, fir Iech ze hëllefen, sinn Fräiwëlleger.",
+    "t": 265.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si hu gewéinlech Jobs a Famillen. Mä wann den Alarm ulaut, loosse se alles stoen, fir hiren Noperen ze hëllefen.",
+    "t": 271.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ass eng schéin Aart vu Solidaritéit. Leit, déi Leit schützen, fräiwëlleg.",
+    "t": 278.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer kuerz kucken, wéi de CGDIS am ganze Land organiséiert ass.",
+    "t": 285.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt Brand- a Rettungszentren, déi CIS heeschen, am ganze Lëtzebuerg verdeelt, sou datt d'Hëllef ni wäit ewech ass.",
+    "t": 289.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt en nationalt Zentrum, de CNIS, no bei der Stad Lëtzebuerg, dat dat ganzt System koordinéiert.",
+    "t": 297.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et gëtt spezialiséiert Gruppen fir schwiereg Rettungen... Waasserrettung, geféierlech Matières, Rettungen aus grousser Héicht.",
+    "t": 303.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Ausrüstung ass och beandrockend. Zum Beispill kënne modern Liftbühnen d'Retter eropliewen, fir Leit a méi wéi drësseg Meter Héicht ze erreechen.",
+    "t": 311.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also huet e klengt Land ee ganz modernen, gutt organiséierten Rettungsdéngscht. Dat ass berouegend.",
+    "t": 320.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elo, Anna, hei ass eppes, woru vill Nolauschterer vläicht net geduecht hunn. Dir kënnt Deel dovun sinn.",
+    "t": 328.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo! De CGDIS hëisst nei Fräiwëlleger wëllkomm. Dir musst net schonn en Held sinn... si bilden Iech aus.",
+    "t": 334.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "An och jonk Leit kënne bäitrieden, als Jongpompjeeën, d'„Jeunes Pompiers\", oder op Lëtzebuergesch d'„Jugendpompjeeën\".",
+    "t": 343.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt och beruffleg Karriären... als Pompjee, als Offizéier, oder an techneschen an administrative Funktiounen.",
+    "t": 351.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also, wann Dir Ärer Gemeinschaft op eng ganz konkret Aart wëllt déngen, ass dat eng vun de sënnvollste Manéieren, et ze maachen.",
+    "t": 358.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat knëppt un eppes un, wat mir an eiser Episod iwwer d'Benevolat gesot hunn... seng Zäit ze ginn, fir aneren ze hëllefen.",
+    "t": 365.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer och iwwer Ausbildung a Préventioun schwätzen, well de CGDIS mécht méi, wéi just op Noutfäll ze reagéieren.",
+    "t": 370.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Hien huet en nationalt Ausbildungsinstitut, den INFS, dat seng Retter op engem héijen Niveau ausbilt.",
+    "t": 377.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "An hie bitt der Ëffentlechkeet Éischt-Hëllef-Coursen un. Éischt Hëllef ze léieren ass eng vun de wäertvollste Saachen, déi Dir maache kënnt.",
+    "t": 384.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Well an den éischte Minutte vun engem Noutfall kann eng gewéinlech Persoun an der Noupesch den ganzen Ënnerscheed maachen.",
+    "t": 391.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "De CGDIS gëtt och Rotschléi fir d'Brandverhütung... einfach Saachen, déi Äert Doheem méi sécher maachen.",
+    "t": 398.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wéi funktionéierend Damschmelder ze hunn, seng Ausgäng ze kennen, a virsiichteg mat Käerzen a beim Kachen ze sinn.",
+    "t": 404.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wann Dir eng grouss ëffentlech Veranstaltung organiséiert, musst Dir se vläicht umellen, sou datt d'Rettungsdéngschter eng medizinesch Ofdeckung kënne plangen.",
+    "t": 410.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also ass de CGDIS do virun, wärend an no engem Noutfall. Virbeugen, agräifen, a sech këmmeren.",
+    "t": 417.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Tom... loosse mer dat ganz praktesch maachen. Wat soll jiddereen mathuelen?",
+    "t": 426.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als éischt, an dat Wichtegst... bei all Noutfall zu Lëtzebuerg, rufft d'1-1-2 un.",
+    "t": 432.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als zweet, léiert et Äre Kanner, an all Persoun, déi nei am Land ass. Eent-eent-zwee.",
+    "t": 438.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als drëtt, wann Dir uruft, gitt Är Plaz kloer un, sot, wat geschitt ass, a bleift an der Leitung.",
+    "t": 445.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als véiert, iwwerleet Iech, Éischt Hëllef ze léieren... et ass e Kaddo, deen Dir de Leit ëm Iech erëm gitt.",
+    "t": 451.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "An als fënneft, wann et Iech uschwätzt, denkt drun, Fräiwëlleger beim CGDIS ze ginn.",
+    "t": 456.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer alles zesummenhuelen. Wat solle sech d'Leit mierken?",
+    "t": 462.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als éischt... de CGDIS ass den nationale Brand- a Rettungsdéngscht vu Lëtzebuerg, gegrënnt 2018.",
+    "t": 467.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als zweet... bei all Noutfall, rufft Dir d'1-1-2 un, gratis, vun all Telefon, Dag an Nuecht.",
+    "t": 475.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als drëtt... déi meescht vu senge Pompjeeë sinn Fräiwëlleger, an Dir kënnt och een dovu ginn.",
+    "t": 481.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "An als véiert... hien ausbilt och d'Ëffentlechkeet a gëtt Préventiounsrotschléi, sou datt mir all eis géigesäiteg kënne sécher halen.",
+    "t": 486.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Noutfäll sinn beängschtegend. Mä Dir sidd net eleng. Hannert där Nummer sinn Leit bereet ze kommen.",
+    "t": 493.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "A ze wëssen, wéi een se erreecht, roueg a kloer, ass eppes, wat jiddereen vun eis haut léiere kann.",
+    "t": 501.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools merci, datt Dir nogelauschtert hutt.",
+    "t": 506.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passt op Iech op, bleift sécher, a bis bei der nächster Episod. Äddi!",
+    "t": 509.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 515.38
+   }
+  ]
  }
 ];
