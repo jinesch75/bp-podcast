@@ -1,0 +1,1874 @@
+{
+ "eltereforum": {
+  "fr": {
+   "title": "Eltereforum – Des parents forts, des enfants forts",
+   "description": "Un réseau accueillant de forums pour parents au Luxembourg : ce que propose l'Eltereforum, qui le coordonne, où en trouver un, et l'Elteremobil qui vient à vous.",
+   "topics": [
+    "Sens d'« Eltereforum »",
+    "Pour tous les parents",
+    "Ministère de l'Éducation nationale",
+    "« Des parents forts, des enfants forts »",
+    "Rencontres, cours & conférences",
+    "Le plus souvent gratuit",
+    "Forums régionaux",
+    "L'Elteremobil"
+   ],
+   "questions": [
+    {
+     "text": "Qu'est-ce que l'Eltereforum ?",
+     "options": [
+      "Une boutique en ligne de produits pour bébés",
+      "Une école pour les enfants",
+      "Un « forum des parents » – un lieu accueillant de discussion, d'information et de soutien pour tous les parents",
+      "Un parti politique pour les parents"
+     ],
+     "correct": 2,
+     "explanation": "« Elteren » veut dire parents et « Forum » un lieu pour se rencontrer ; l'Eltereforum est donc un forum des parents : un lieu convivial et généraliste où n'importe quel parent peut poser des questions, apprendre et rencontrer d'autres parents – sans avoir besoin d'une raison particulière."
+    },
+    {
+     "text": "Qui coordonne l'Eltereforum ?",
+     "options": [
+      "Une seule association locale de parents",
+      "Le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse – c'est un service public de l'État luxembourgeois",
+      "L'assurance maladie nationale (CNS)",
+      "Une entreprise privée"
+     ],
+     "correct": 1,
+     "explanation": "L'Eltereforum est coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse, avec l'idée directrice « Des parents forts, des enfants forts » – des parents soutenus et en confiance aident leurs enfants à mieux s'épanouir."
+    },
+    {
+     "text": "À partir de quand l'Eltereforum soutient-il les parents ?",
+     "options": [
+      "Uniquement pendant l'adolescence",
+      "Uniquement à partir de l'entrée à l'école",
+      "Uniquement de 0 à 3 ans",
+      "Dès le début du « projet parental » – même avant la naissance – et jusqu'à ce que l'enfant soit adulte"
+     ],
+     "correct": 3,
+     "explanation": "Il soutient les parents tout au long du parcours : depuis le moment où vous planifiez ou attendez un bébé, à travers chaque étape de l'enfance, jusqu'à ce que l'enfant devienne adulte."
+    },
+    {
+     "text": "L'Eltereforum coûte-t-il de l'argent ?",
+     "options": [
+      "Non – le soutien est, en très grande partie, gratuit",
+      "C'est gratuit uniquement pour les citoyens luxembourgeois",
+      "Oui, il y a un abonnement mensuel",
+      "C'est coûteux à chaque séance"
+     ],
+     "correct": 0,
+     "explanation": "La plupart de ce que propose l'Eltereforum – rencontres, cours, conférences et activités parent-enfant – est gratuit et adapté à votre situation de vie."
+    },
+    {
+     "text": "Qu'est-ce que l'« Elteremobil » ?",
+     "options": [
+      "Un minibus qui sillonne le pays pour rencontrer les parents directement, là où ils se trouvent",
+      "Un bus scolaire pour les enfants",
+      "Une application smartphone sur la parentalité",
+      "Une poussette pour bébé que l'on peut louer"
+     ],
+     "correct": 0,
+     "explanation": "L'Elteremobil est un petit minibus qui sillonne le Luxembourg pour rencontrer les parents là où ils se trouvent – ainsi l'Eltereforum n'attend pas seulement que vous veniez, parfois c'est lui qui vient à vous."
+    }
+   ]
+  },
+  "de": {
+   "title": "Eltereforum – Starke Eltern, starke Kinder",
+   "description": "Ein einladendes Netzwerk von Elternforen in Luxemburg: was das Eltereforum bietet, wer es koordiniert, wo Sie eines finden, und das Elteremobil, das zu Ihnen kommt.",
+   "topics": [
+    "Bedeutung von „Eltereforum“",
+    "Für alle Eltern",
+    "Bildungsministerium",
+    "„Starke Eltern, starke Kinder“",
+    "Treffen, Kurse & Vorträge",
+    "Meist kostenlos",
+    "Regionale Foren",
+    "Das Elteremobil"
+   ],
+   "questions": [
+    {
+     "text": "Was ist das Eltereforum?",
+     "options": [
+      "Ein Onlineshop für Babyprodukte",
+      "Eine Schule für Kinder",
+      "Ein „Elternforum“ – ein einladender Ort für Austausch, Information und Unterstützung für alle Eltern",
+      "Eine politische Partei für Eltern"
+     ],
+     "correct": 2,
+     "explanation": "„Elteren“ bedeutet Eltern und „Forum“ einen Ort, um sich zu treffen; das Eltereforum ist also ein Elternforum: ein freundlicher, generalistischer Ort, an dem jeder Elternteil Fragen stellen, etwas lernen und andere Eltern treffen kann – ganz ohne besonderen Grund."
+    },
+    {
+     "text": "Wer koordiniert das Eltereforum?",
+     "options": [
+      "Ein einzelner örtlicher Elternverein",
+      "Das Ministerium für Bildung, Kinder und Jugend – es ist ein öffentlicher Dienst des luxemburgischen Staates",
+      "Die nationale Krankenversicherung (CNS)",
+      "Ein privates Unternehmen"
+     ],
+     "correct": 1,
+     "explanation": "Das Eltereforum wird vom Ministerium für Bildung, Kinder und Jugend koordiniert, mit dem Leitgedanken „Starke Eltern, starke Kinder“ – unterstützte und sichere Eltern helfen ihren Kindern, sich besser zu entwickeln."
+    },
+    {
+     "text": "Ab wann unterstützt das Eltereforum die Eltern?",
+     "options": [
+      "Nur während der Jugendjahre",
+      "Erst wenn das Kind in die Schule kommt",
+      "Nur im Alter von 0 bis 3 Jahren",
+      "Ab dem Beginn des „Elternprojekts“ – sogar vor der Geburt – bis das Kind erwachsen ist"
+     ],
+     "correct": 3,
+     "explanation": "Es unterstützt die Eltern auf dem gesamten Weg: von dem Moment an, in dem Sie ein Baby planen oder erwarten, durch jede Phase der Kindheit hindurch, bis das Kind erwachsen wird."
+    },
+    {
+     "text": "Kostet die Nutzung des Eltereforums Geld?",
+     "options": [
+      "Nein – die Unterstützung ist zu einem sehr großen Teil kostenlos",
+      "Es ist nur für luxemburgische Staatsbürger kostenlos",
+      "Ja, es gibt ein monatliches Abonnement",
+      "Es ist pro Sitzung teuer"
+     ],
+     "correct": 0,
+     "explanation": "Das meiste, was das Eltereforum anbietet – Treffen, Kurse, Vorträge und Eltern-Kind-Aktivitäten – ist kostenlos und an Ihre Lebenssituation angepasst."
+    },
+    {
+     "text": "Was ist das „Elteremobil“?",
+     "options": [
+      "Ein Kleinbus, der durch das Land fährt, um Eltern direkt dort zu treffen, wo sie sind",
+      "Ein Schulbus für Kinder",
+      "Eine Smartphone-App rund um die Elternschaft",
+      "Ein Kinderwagen, den man mieten kann"
+     ],
+     "correct": 0,
+     "explanation": "Das Elteremobil ist ein kleiner Kleinbus, der durch Luxemburg fährt, um Eltern dort zu treffen, wo sie sind – so wartet das Eltereforum nicht nur darauf, dass Sie kommen, manchmal kommt es zu Ihnen."
+    }
+   ]
+  }
+ },
+ "benevolat": {
+  "fr": {
+   "title": "Le bénévolat au Luxembourg – Donnez le temps que vous voulez",
+   "description": "Une façon souple de rencontrer des gens et de donner en retour : ce qu'est le bénévolat, pourquoi il compte, l'Agence du Bénévolat et benevolat.lu, et comment commencer sans engagement de longue durée.",
+   "topics": [
+    "Définition d'un bénévole",
+    "Pourquoi le bénévolat compte",
+    "35 % de la population",
+    "Agence du Bénévolat",
+    "Plateforme benevolat.lu",
+    "Sans engagement de longue durée",
+    "Missions courtes et ponctuelles",
+    "Service volontaire (moins de 30 ans)"
+   ],
+   "questions": [
+    {
+     "text": "Comment un bénévole est-il défini dans l'épisode ?",
+     "options": [
+      "Un salarié à temps partiel payé par une association caritative",
+      "Une personne qui, de son plein gré et sans être payée, fait quelque chose au service des autres ou de la collectivité",
+      "Un employé de l'État",
+      "Une personne tenue d'aider sur décision de justice"
+     ],
+     "correct": 1,
+     "explanation": "Un bénévole donne le temps qu'il veut – un peu, beaucoup, ou passionnément – de son plein gré et sans être payé, au service des autres ou de la collectivité."
+    },
+    {
+     "text": "En 2022, quelle part environ de la population du Luxembourg a fait du bénévolat ?",
+     "options": [
+      "Environ 5 %",
+      "Environ 70 %",
+      "Environ 35 % – plus d'une personne sur trois, ce qui place le Luxembourg quatrième en Europe",
+      "Environ 10 %"
+     ],
+     "correct": 2,
+     "explanation": "En 2022, environ 35 % de la population a fait du bénévolat – plus d'une personne sur trois – ce qui a placé le Luxembourg quatrième dans toute l'Europe. Il y a même une Journée du bénévolat chaque 5 décembre."
+    },
+    {
+     "text": "Quelle est l'organisation et le site internet de référence pour le bénévolat au Luxembourg ?",
+     "options": [
+      "Uniquement la mairie de la commune",
+      "L'ADEM, sur adem.lu",
+      "L'Agence du Bénévolat, avec son site internet benevolat.lu",
+      "Le ministère des Finances"
+     ],
+     "correct": 2,
+     "explanation": "L'Agence du Bénévolat promeut le bénévolat depuis 2002. Son site internet benevolat.lu est un point de rencontre où les associations qui cherchent de l'aide et les personnes qui veulent donner de leur temps se retrouvent."
+    },
+    {
+     "text": "Faut-il un engagement de longue durée pour faire du bénévolat ?",
+     "options": [
+      "Uniquement des week-ends complets pendant toute une année",
+      "Oui, au moins un an",
+      "Oui, au moins trois mois",
+      "Non – vous donnez le temps que vous voulez, et de nombreuses missions sont ponctuelles ou courtes (une après-midi, une journée, un événement)"
+     ],
+     "correct": 3,
+     "explanation": "Vous n'avez pas besoin d'un engagement de longue durée. De nombreuses missions sur benevolat.lu portent sur un seul événement ou une seule journée – aider lors d'un gala, encadrer une course, tenir un barbecue – de sorte que toute personne à l'emploi du temps chargé peut y prendre part."
+    },
+    {
+     "text": "Qu'est-ce que le « service volontaire », et à qui s'adresse-t-il ?",
+     "options": [
+      "Un programme obligatoire pour tous les nouveaux résidents",
+      "Un engagement plus important, à temps plein (en général 3 à 12 mois) pour les personnes de moins de 30 ans, organisé par le Service national de la jeunesse",
+      "Un emploi rémunéré dans la fonction publique pour les retraités",
+      "Exactement la même chose que le bénévolat ordinaire"
+     ],
+     "correct": 1,
+     "explanation": "Le service volontaire est un engagement plus important, à temps plein, d'environ 3 à 12 mois pour les personnes de moins de 30 ans (via le Service national de la jeunesse, volontaires.lu) – différent du bénévolat ordinaire, qui est souple et ouvert à tous, à tout âge."
+    }
+   ]
+  },
+  "de": {
+   "title": "Ehrenamt in Luxemburg – Schenken Sie die Zeit, die Sie möchten",
+   "description": "Eine flexible Art, Menschen kennenzulernen und etwas zurückzugeben: was Ehrenamt ist, warum es wichtig ist, die Agence du Bénévolat und benevolat.lu, und wie Sie ohne langfristige Verpflichtung anfangen.",
+   "topics": [
+    "Definition eines Freiwilligen",
+    "Warum Ehrenamt wichtig ist",
+    "35 % der Bevölkerung",
+    "Agence du Bénévolat",
+    "Plattform benevolat.lu",
+    "Keine lange Verpflichtung nötig",
+    "Kurze, einmalige Einsätze",
+    "Freiwilligendienst (unter 30)"
+   ],
+   "questions": [
+    {
+     "text": "Wie wird ein Freiwilliger in der Folge definiert?",
+     "options": [
+      "Ein bezahlter Teilzeitbeschäftigter einer Wohltätigkeitsorganisation",
+      "Jemand, der aus freiem Willen und ohne bezahlt zu werden etwas im Dienst anderer oder der Gemeinschaft tut",
+      "Ein Staatsbediensteter",
+      "Jemand, der per Gerichtsbeschluss zur Hilfe verpflichtet ist"
+     ],
+     "correct": 1,
+     "explanation": "Ein Freiwilliger schenkt die Zeit, die er möchte – ein bisschen, viel oder mit Leidenschaft – aus freiem Willen und ohne bezahlt zu werden, im Dienst anderer oder der Gemeinschaft."
+    },
+    {
+     "text": "Welcher Anteil der luxemburgischen Bevölkerung hat sich 2022 ungefähr ehrenamtlich engagiert?",
+     "options": [
+      "Etwa 5 %",
+      "Etwa 70 %",
+      "Etwa 35 % – mehr als eine Person von drei, womit Luxemburg in Europa an vierter Stelle steht",
+      "Etwa 10 %"
+     ],
+     "correct": 2,
+     "explanation": "2022 haben sich etwa 35 % der Bevölkerung ehrenamtlich engagiert – mehr als eine von drei – womit Luxemburg in ganz Europa an vierter Stelle stand. Es gibt sogar jedes Jahr einen Tag des Ehrenamts, am 5. Dezember."
+    },
+    {
+     "text": "Welches ist die zentrale Organisation und Webseite für das Ehrenamt in Luxemburg?",
+     "options": [
+      "Nur das Rathaus der Gemeinde",
+      "Die ADEM, auf adem.lu",
+      "Die Agence du Bénévolat, mit ihrer Webseite benevolat.lu",
+      "Das Finanzministerium"
+     ],
+     "correct": 2,
+     "explanation": "Die Agence du Bénévolat fördert das Ehrenamt seit 2002. Ihre Webseite benevolat.lu ist ein Treffpunkt, an dem sich Vereine, die Hilfe suchen, und Menschen, die Zeit schenken möchten, finden."
+    },
+    {
+     "text": "Braucht man eine langfristige Verpflichtung, um sich ehrenamtlich zu engagieren?",
+     "options": [
+      "Nur ganze Wochenenden ein Jahr lang",
+      "Ja, mindestens ein Jahr",
+      "Ja, mindestens drei Monate",
+      "Nein – Sie schenken die Zeit, die Sie möchten, und viele Einsätze sind einmalig oder kurz (ein Nachmittag, ein Tag, eine Veranstaltung)"
+     ],
+     "correct": 3,
+     "explanation": "Sie brauchen keine lange Verpflichtung. Viele Einsätze auf benevolat.lu beziehen sich auf eine einzige Veranstaltung oder einen einzigen Tag – bei einer Gala helfen, ein Rennen absichern, einen Grillstand betreuen – sodass auch Menschen mit vollem Terminkalender mitmachen können."
+    },
+    {
+     "text": "Was ist der „Freiwilligendienst“ (service volontaire), und für wen ist er gedacht?",
+     "options": [
+      "Ein Pflichtprogramm für alle neuen Einwohner",
+      "Eine größere Verpflichtung in Vollzeit (meist 3–12 Monate) für Menschen unter 30, organisiert vom Service national de la jeunesse",
+      "Eine bezahlte Stelle im öffentlichen Dienst für Rentner",
+      "Genau dasselbe wie das normale Ehrenamt"
+     ],
+     "correct": 1,
+     "explanation": "Der Freiwilligendienst ist eine größere Verpflichtung in Vollzeit von etwa 3–12 Monaten für Menschen unter 30 (über den Service national de la jeunesse, volontaires.lu) – anders als das gewöhnliche Ehrenamt, das flexibel und für alle in jedem Alter offen ist."
+    }
+   ]
+  }
+ },
+ "lualert": {
+  "fr": {
+   "title": "LU-Alert – Comment le Luxembourg vous alerte en cas d'urgence",
+   "description": "Le système national d'alerte du Luxembourg : ce qu'est LU-Alert, comment les alertes parviennent à votre téléphone (Cell Broadcast, SMS géolocalisé, l'application), les niveaux et catégories d'alerte, les langues, et comment distinguer une vraie alerte d'une arnaque.",
+   "topics": [
+    "Ce que signifie « LU-Alert »",
+    "Cell Broadcast & SMS géolocalisé",
+    "Aucune inscription nécessaire",
+    "L'application mobile gratuite",
+    "Langues : DE / EN / FR",
+    "Niveaux et couleurs d'alerte",
+    "Les 12 catégories d'alerte",
+    "Repérer le phishing"
+   ],
+   "questions": [
+    {
+     "text": "Qu'est-ce que LU-Alert ?",
+     "options": [
+      "Une application météo privée à laquelle on s'abonne",
+      "Un compte de réseau social géré par la police",
+      "Le système national public d'alerte et d'information du Luxembourg, lancé à l'automne 2024",
+      "Une assurance contre les catastrophes naturelles"
+     ],
+     "correct": 2,
+     "explanation": "« LU-Alert » combine « LU » (le code du pays pour le Luxembourg) et « Alert ». C'est le système national d'alerte et d'information de la population, déployé à l'automne 2024 pour alerter les personnes en cas d'événement dangereux."
+    },
+    {
+     "text": "Faut-il s'inscrire pour recevoir les alertes par Cell Broadcast ou par SMS géolocalisé ?",
+     "options": [
+      "Non – il n'y a aucune inscription ; tout téléphone situé dans la zone visée est touché automatiquement",
+      "Oui, vous devez enregistrer votre numéro sur lu-alert.lu",
+      "Oui, mais seuls les frontaliers doivent s'inscrire",
+      "Non, mais uniquement si vous payez une petite cotisation annuelle"
+     ],
+     "correct": 0,
+     "explanation": "Pour le Cell Broadcast et le SMS géolocalisé, vous ne vous inscrivez pas – et vous ne pouvez pas vraiment vous désinscrire. Si votre téléphone est dans la zone au moment où les autorités envoient un message, il est ciblé automatiquement. (Pour l'application mobile, il vous suffit de la télécharger.)"
+    },
+    {
+     "text": "Dans quelles langues les messages LU-Alert sont-ils envoyés ?",
+     "options": [
+      "Uniquement en luxembourgeois",
+      "Uniquement en français",
+      "En anglais et en luxembourgeois",
+      "En allemand, en anglais et en français"
+     ],
+     "correct": 3,
+     "explanation": "Les messages d'alerte et d'information sont diffusés en allemand, en anglais et en français, de sorte que les anglophones sont couverts."
+    },
+    {
+     "text": "Quand les sirènes sont-elles utilisées dans le système LU-Alert ?",
+     "options": [
+      "Pour chaque alerte météo",
+      "Uniquement en cas d'alerte nucléaire",
+      "Chaque jour à midi, comme test",
+      "Chaque fois que le réseau mobile est en panne"
+     ],
+     "correct": 1,
+     "explanation": "Aujourd'hui, les sirènes ne sont utilisées que pour une alerte nucléaire. Tous les autres avertissements vous parviennent par le téléphone (Cell Broadcast et SMS), l'application, les sites internet et les médias."
+    },
+    {
+     "text": "Comment vérifier qu'un message d'alerte est authentique et non du phishing ?",
+     "options": [
+      "Répondre au SMS avec vos coordonnées pour confirmer votre identité",
+      "Cliquer sur le lien dans le message pour le vérifier",
+      "Se rappeler que les autorités ne demandent jamais de données personnelles, et vérifier si l'alerte figure sur lu-alert.lu",
+      "Appeler le numéro indiqué et communiquer vos coordonnées bancaires"
+     ],
+     "correct": 2,
+     "explanation": "Les autorités publiques ne demandent jamais de données personnelles, et les messages ne contiennent normalement aucun lien cliquable. En cas de doute, vérifiez l'alerte sur lu-alert.lu – et ne communiquez jamais de données personnelles."
+    }
+   ]
+  },
+  "de": {
+   "title": "LU-Alert – Wie Luxemburg Sie im Notfall warnt",
+   "description": "Das nationale Warnsystem Luxemburgs: was LU-Alert ist, wie Warnungen Ihr Handy erreichen (Cell Broadcast, standortbezogene SMS, die App), die Warnstufen und -kategorien, die Sprachen, und wie Sie eine echte Warnung von einem Betrug unterscheiden.",
+   "topics": [
+    "Was „LU-Alert“ bedeutet",
+    "Cell Broadcast & Standort-SMS",
+    "Keine Anmeldung nötig",
+    "Die kostenlose Handy-App",
+    "Sprachen: DE / EN / FR",
+    "Warnstufen & Farben",
+    "Die 12 Warnkategorien",
+    "Phishing erkennen"
+   ],
+   "questions": [
+    {
+     "text": "Was ist LU-Alert?",
+     "options": [
+      "Eine private Wetter-App mit Abo",
+      "Ein von der Polizei betriebener Social-Media-Account",
+      "Das nationale öffentliche Warn- und Informationssystem Luxemburgs, eingeführt im Herbst 2024",
+      "Eine Versicherung gegen Naturkatastrophen"
+     ],
+     "correct": 2,
+     "explanation": "„LU-Alert“ verbindet „LU“ (der Ländercode für Luxemburg) und „Alert“. Es ist das nationale Warn- und Informationssystem für die Bevölkerung, das im Herbst 2024 eingeführt wurde, um Menschen vor gefährlichen Ereignissen zu warnen."
+    },
+    {
+     "text": "Muss man sich anmelden, um Warnungen per Cell Broadcast oder standortbezogene SMS zu erhalten?",
+     "options": [
+      "Nein – es gibt keine Registrierung; jedes Handy im Zielgebiet wird automatisch erreicht",
+      "Ja, Sie müssen Ihre Nummer auf lu-alert.lu registrieren",
+      "Ja, aber nur Grenzgänger müssen sich registrieren",
+      "Nein, aber nur, wenn Sie einen kleinen Jahresbeitrag zahlen"
+     ],
+     "correct": 0,
+     "explanation": "Für Cell Broadcast und die standortbezogene SMS melden Sie sich nicht an – und Sie können sich auch nicht wirklich abmelden. Wenn Ihr Handy im Gebiet ist, wenn die Behörden eine Nachricht senden, wird es automatisch angesteuert. (Für die Handy-App laden Sie diese einfach herunter.)"
+    },
+    {
+     "text": "In welchen Sprachen werden LU-Alert-Nachrichten versendet?",
+     "options": [
+      "Nur auf Luxemburgisch",
+      "Nur auf Französisch",
+      "Auf Englisch und Luxemburgisch",
+      "Auf Deutsch, Englisch und Französisch"
+     ],
+     "correct": 3,
+     "explanation": "Warn- und Informationsnachrichten werden auf Deutsch, Englisch und Französisch ausgegeben, sodass auch Englischsprachige erreicht werden."
+    },
+    {
+     "text": "Wann werden im LU-Alert-System Sirenen eingesetzt?",
+     "options": [
+      "Bei jeder Wetterwarnung",
+      "Nur im Fall eines Nuklearalarms",
+      "Jeden Tag mittags als Test",
+      "Immer wenn das Mobilfunknetz ausfällt"
+     ],
+     "correct": 1,
+     "explanation": "Heute werden die Sirenen nur bei einem Nuklearalarm eingesetzt. Alle anderen Warnungen erreichen Sie über das Handy (Cell Broadcast und SMS), die App, Webseiten und die Medien."
+    },
+    {
+     "text": "Wie können Sie prüfen, ob eine Warnnachricht echt und kein Phishing ist?",
+     "options": [
+      "Auf die SMS mit Ihren Daten antworten, um Ihre Identität zu bestätigen",
+      "Auf den Link in der Nachricht klicken, um sie zu überprüfen",
+      "Daran denken, dass die Behörden niemals nach persönlichen Daten fragen, und prüfen, ob die Warnung auf lu-alert.lu aufgeführt ist",
+      "Die angezeigte Nummer anrufen und Ihre Bankdaten angeben"
+     ],
+     "correct": 2,
+     "explanation": "Behörden fragen niemals nach persönlichen Daten, und Nachrichten enthalten normalerweise keinen anklickbaren Link. Wenn Sie unsicher sind, überprüfen Sie die Warnung auf lu-alert.lu – und geben Sie niemals persönliche Daten weiter."
+    }
+   ]
+  }
+ },
+ "luxtrust": {
+  "fr": {
+   "title": "LuxTrust – Votre identité numérique au Luxembourg",
+   "description": "Votre identité numérique sécurisée pour la vie en ligne au Luxembourg : ce qu'est LuxTrust, à quoi elle sert pour les particuliers, les différents produits, et comment la commander, se faire identifier et l'activer. (Brièvement : les entreprises l'utilisent aussi.)",
+   "topics": [
+    "Ce qu'est une identité numérique",
+    "Connexion à la banque en ligne",
+    "MyGuichet & services publics",
+    "Signature électronique valable juridiquement",
+    "Confirmer les paiements en ligne",
+    "App, Scan & SmartCard",
+    "Commande & identification vidéo",
+    "Activation & rester en sécurité"
+   ],
+   "questions": [
+    {
+     "text": "Qu'est-ce que LuxTrust ?",
+     "options": [
+      "Un compte bancaire mobile",
+      "Une identité numérique sécurisée qui prouve qui vous êtes en ligne – comme une carte d'identité pour internet",
+      "Un antivirus pour votre téléphone",
+      "Un site internet des impôts de l'État"
+     ],
+     "correct": 1,
+     "explanation": "LuxTrust vous donne une identité numérique unique et sécurisée – l'équivalent en ligne de votre carte d'identité ou de votre passeport – fournie par une autorité de certification et un prestataire de services de confiance certifiés au niveau européen."
+    },
+    {
+     "text": "En tant que particulier au Luxembourg, que pouvez-vous faire avec LuxTrust ?",
+     "options": [
+      "Uniquement vous connecter aux réseaux sociaux",
+      "Uniquement faire votre déclaration d'impôts, rien d'autre",
+      "Rien tant que vous ne créez pas d'entreprise",
+      "Vous connecter à votre banque en ligne, accéder à MyGuichet, signer des documents électroniquement et confirmer des paiements en ligne"
+     ],
+     "correct": 3,
+     "explanation": "Les quatre principaux usages personnels sont la connexion sécurisée à la banque en ligne, l'accès aux services publics comme MyGuichet.lu, la signature électronique valable juridiquement, et la confirmation des paiements par carte en ligne (avec 3D Secure)."
+    },
+    {
+     "text": "Quelle valeur juridique a une signature électronique LuxTrust ?",
+     "options": [
+      "La même valeur juridique qu'une signature manuscrite",
+      "Aucune valeur juridique – c'est uniquement pour la commodité",
+      "Elle n'est valable que pour les e-mails",
+      "Elle n'est valable qu'à l'intérieur de votre banque"
+     ],
+     "correct": 0,
+     "explanation": "Une signature électronique LuxTrust a la même valeur juridique qu'une signature manuscrite ; vous pouvez donc signer des documents officiels depuis chez vous sans rien imprimer."
+    },
+    {
+     "text": "Lorsque vous obtenez une identité LuxTrust, comment votre identité est-elle vérifiée ?",
+     "options": [
+      "Elle n'est jamais vérifiée",
+      "Uniquement en envoyant une photo par e-mail",
+      "Vous devez être identifié – en personne avec un agent, ou à distance par identification vidéo",
+      "Uniquement en répondant à des questions de sécurité en ligne"
+     ],
+     "correct": 2,
+     "explanation": "Comme LuxTrust crée la preuve de votre identité, vous devez être identifié – en face à face avec un agent ou à distance par identification vidéo. Vous commandez en ligne ou par l'intermédiaire de votre banque, puis vous l'activez ; l'identité est valable 3 ans."
+    },
+    {
+     "text": "Quelle affirmation au sujet de LuxTrust et de la sécurité est correcte ?",
+     "options": [
+      "LuxTrust peut vous appeler pour vous demander votre mot de passe",
+      "Vous pouvez communiquer vos codes en toute sécurité à votre conseiller bancaire",
+      "Le personnel de LuxTrust peut se rendre à votre domicile pour vous aider",
+      "LuxTrust ne vous demandera jamais vos codes ou identifiants, ne demandera jamais à accéder à votre appareil, et ne se rendra jamais à votre domicile"
+     ],
+     "correct": 3,
+     "explanation": "LuxTrust ne demande jamais vos codes ou identifiants, ne demande jamais à accéder à votre ordinateur ou à votre téléphone, et ne se rend jamais à votre domicile. Gardez vos identifiants pour vous et, en cas de doute, consultez le site internet officiel."
+    }
+   ]
+  },
+  "de": {
+   "title": "LuxTrust – Ihre digitale Identität in Luxemburg",
+   "description": "Ihre sichere digitale Identität für das Leben online in Luxemburg: was LuxTrust ist, wofür Privatpersonen es nutzen, die verschiedenen Produkte, und wie Sie es bestellen, sich identifizieren lassen und aktivieren. (Kurz: auch Unternehmen nutzen es.)",
+   "topics": [
+    "Was eine digitale Identität ist",
+    "Anmeldung beim Online-Banking",
+    "MyGuichet & öffentliche Dienste",
+    "Rechtsgültige E-Signatur",
+    "Online-Zahlungen bestätigen",
+    "App, Scan & SmartCard",
+    "Bestellung & Video-Identifikation",
+    "Aktivierung & sicher bleiben"
+   ],
+   "questions": [
+    {
+     "text": "Was ist LuxTrust?",
+     "options": [
+      "Ein mobiles Bankkonto",
+      "Eine sichere digitale Identität, die online beweist, wer Sie sind – wie ein Personalausweis fürs Internet",
+      "Ein Antivirenprogramm für Ihr Handy",
+      "Eine staatliche Steuer-Webseite"
+     ],
+     "correct": 1,
+     "explanation": "LuxTrust gibt Ihnen eine einzige, sichere digitale Identität – das Online-Äquivalent zu Ihrem Personalausweis oder Reisepass – bereitgestellt von einer europäisch zertifizierten Zertifizierungsstelle und einem Vertrauensdiensteanbieter."
+    },
+    {
+     "text": "Was können Sie als Privatperson in Luxemburg mit LuxTrust tun?",
+     "options": [
+      "Sich nur bei sozialen Medien anmelden",
+      "Nur Ihre Steuererklärung machen, sonst nichts",
+      "Nichts, bis Sie ein Unternehmen gründen",
+      "Sich beim Online-Banking anmelden, auf MyGuichet zugreifen, Dokumente elektronisch unterschreiben und Online-Zahlungen bestätigen"
+     ],
+     "correct": 3,
+     "explanation": "Die vier wichtigsten persönlichen Anwendungen sind sicheres Online-Banking, der Zugang zu öffentlichen Diensten wie MyGuichet.lu, rechtsgültige elektronische Signaturen und das Bestätigen von Online-Kartenzahlungen (mit 3D Secure)."
+    },
+    {
+     "text": "Welchen rechtlichen Wert hat eine elektronische LuxTrust-Signatur?",
+     "options": [
+      "Den gleichen rechtlichen Wert wie eine handschriftliche Unterschrift",
+      "Keinen rechtlichen Wert – sie dient nur der Bequemlichkeit",
+      "Sie ist nur für E-Mails gültig",
+      "Sie ist nur innerhalb Ihrer Bank gültig"
+     ],
+     "correct": 0,
+     "explanation": "Eine elektronische LuxTrust-Signatur hat den gleichen rechtlichen Wert wie eine handschriftliche Unterschrift, sodass Sie offizielle Dokumente von zu Hause aus unterschreiben können, ohne etwas zu drucken."
+    },
+    {
+     "text": "Wie wird Ihre Identität überprüft, wenn Sie eine LuxTrust-Identität erhalten?",
+     "options": [
+      "Sie wird nie überprüft",
+      "Nur durch das Senden eines Fotos per E-Mail",
+      "Sie müssen identifiziert werden – persönlich bei einem Agenten oder aus der Ferne per Video-Identifikation",
+      "Nur durch das Beantworten von Sicherheitsfragen online"
+     ],
+     "correct": 2,
+     "explanation": "Da LuxTrust einen Nachweis Ihrer Identität erstellt, müssen Sie identifiziert werden – persönlich bei einem Agenten oder aus der Ferne per Video-Identifikation. Sie bestellen online oder über Ihre Bank und aktivieren es anschließend; die Identität ist 3 Jahre gültig."
+    },
+    {
+     "text": "Welche Aussage über LuxTrust und Sicherheit ist richtig?",
+     "options": [
+      "LuxTrust ruft Sie möglicherweise an, um nach Ihrem Passwort zu fragen",
+      "Sie können Ihre Codes bedenkenlos mit Ihrem Bankberater teilen",
+      "LuxTrust-Mitarbeiter können zu Ihnen nach Hause kommen, um zu helfen",
+      "LuxTrust fragt niemals nach Ihren Codes oder Zugangsdaten, verlangt niemals Zugriff auf Ihr Gerät und kommt niemals zu Ihnen nach Hause"
+     ],
+     "correct": 3,
+     "explanation": "LuxTrust fragt niemals nach Ihren Codes oder Zugangsdaten, verlangt niemals Zugriff auf Ihren Computer oder Ihr Handy und kommt niemals zu Ihnen nach Hause. Behalten Sie Ihre Zugangsdaten für sich und prüfen Sie im Zweifelsfall die offizielle Webseite."
+    }
+   ]
+  }
+ },
+ "maison_orientation": {
+  "fr": {
+   "title": "La Maison de l'orientation – un seul endroit pour vous aider à choisir votre voie",
+   "description": "La « maison qui guide » de l'État, à Luxembourg-Ville : comment elle rassemble sous un même toit de nombreux services d'orientation scolaire et professionnelle, l'espace de conseil gratuit et anonyme, le coaching avec test d'intérêts, la prise de rendez-vous via MyGuichet et l'aide qu'elle offre aux adultes et aux nouveaux arrivants.",
+   "topics": [
+    "Une maison qui guide",
+    "Un seul endroit, de nombreux services",
+    "Conseils gratuits et anonymes",
+    "De 14 à 22 ans (et adultes)",
+    "Rendez-vous via MyGuichet",
+    "Test d'intérêts & coaching",
+    "Études, travail & apprentissage",
+    "Reconnaissance des diplômes & de l'expérience"
+   ],
+   "questions": [
+    {
+     "text": "Qu'est-ce que la Maison de l'orientation ?",
+     "options": [
+      "Une entreprise privée de cours particuliers",
+      "Une université à Luxembourg-Ville",
+      "Un service de l'État qui rassemble en un seul endroit de nombreux services d'orientation scolaire et professionnelle",
+      "Une agence pour l'emploi réservée aux adultes"
+     ],
+     "correct": 2,
+     "explanation": "Il s'agit d'une administration publique qui réunit, sous un même toit à Luxembourg-Ville, de nombreux services publics œuvrant à l'orientation scolaire et professionnelle, pour tout citoyen qui souhaite être aidé à choisir sa voie."
+    },
+    {
+     "text": "Comment se présente l'espace d'accueil pour l'orientation (« Espace orientation ») ?",
+     "options": [
+      "Il est gratuit et anonyme, surtout pour les personnes de 14 à 22 ans, et vous pouvez venir sans rendez-vous",
+      "Il coûte 50 euros et exige toujours un rendez-vous",
+      "Il est réservé aux citoyens luxembourgeois de plus de 25 ans",
+      "Il n'est ouvert qu'un seul jour par an"
+     ],
+     "correct": 0,
+     "explanation": "L'espace d'orientation offre des conseils gratuits et anonymes, surtout pour les personnes d'environ 14 à 22 ans. Vous pouvez simplement vous y présenter (du lundi au vendredi, de 8h00 à 17h00) ou réserver à l'avance pour éviter d'attendre."
+    },
+    {
+     "text": "Comment prend-on rendez-vous à la Maison de l'orientation ?",
+     "options": [
+      "En envoyant une lettre par la poste",
+      "Uniquement en se présentant d'abord en personne",
+      "Par l'intermédiaire de votre banque",
+      "En ligne via MyGuichet.lu, en choisissant un rendez-vous en ligne ou en personne"
+     ],
+     "correct": 3,
+     "explanation": "Les rendez-vous se prennent en ligne via MyGuichet.lu, où vous choisissez un rendez-vous en ligne/vidéo ou en personne. La réservation est possible avec ou sans authentification."
+    },
+    {
+     "text": "Que comprend la séance de coaching d'orientation ?",
+     "options": [
+      "Un examen écrit que vous devez réussir",
+      "Une séance de coaching d'orientation avec un test d'intérêts – volontaire et sur rendez-vous",
+      "Un examen médical obligatoire",
+      "Un cours particulier payant"
+     ],
+     "correct": 1,
+     "explanation": "La séance de coaching s'accompagne d'un test d'intérêts qui vous aide à découvrir ce qui vous motive et quelles activités vous conviennent. Elle s'adresse aux élèves, est volontaire et nécessite un rendez-vous."
+    },
+    {
+     "text": "Outre les jeunes élèves, qui d'autre la Maison de l'orientation peut-elle aider ?",
+     "options": [
+      "Uniquement les enfants de l'école primaire",
+      "Uniquement les chefs d'entreprise",
+      "Les adultes en reconversion et aussi les nouveaux arrivants – y compris pour faire reconnaître des diplômes et valider une expérience, via des services tels que l'orientation de l'ADEM, le CePAS, le SIA et Euroguidance",
+      "Personne – elle ne fait que distribuer des dépliants"
+     ],
+     "correct": 2,
+     "explanation": "Au-delà des élèves de 14 à 22 ans, la maison aide les adultes en réorientation ou qui reprennent des études, ainsi que les nouveaux arrivants qui ont besoin de faire reconnaître des diplômes ou de valider une expérience, à travers des services tels que l'orientation professionnelle de l'ADEM, le CePAS, le SIA, l'ATVA et Euroguidance."
+    }
+   ]
+  },
+  "de": {
+   "title": "Die Maison de l'orientation – ein einziger Ort, der Ihnen hilft, Ihren Weg zu wählen",
+   "description": "Das „Haus der Orientierung“ des Staates in Luxemburg-Stadt: Wie es viele Dienste der schulischen und beruflichen Orientierung unter einem Dach zusammenbringt, der kostenlose und anonyme Beratungsbereich, das Coaching mit Interessentest, die Terminbuchung über MyGuichet und die Hilfe, die es Erwachsenen und Neuankömmlingen bietet.",
+   "topics": [
+    "Ein Haus der Orientierung",
+    "Ein Ort, viele Dienste",
+    "Kostenlose, anonyme Beratung",
+    "14 bis 22 Jahre (und Erwachsene)",
+    "Terminbuchung über MyGuichet",
+    "Interessentest & Coaching",
+    "Studium, Arbeit & Ausbildung",
+    "Anerkennung von Diplomen & Erfahrung"
+   ],
+   "questions": [
+    {
+     "text": "Was ist die Maison de l'orientation?",
+     "options": [
+      "Ein privates Nachhilfeunternehmen",
+      "Eine Universität in Luxemburg-Stadt",
+      "Ein staatlicher Dienst, der viele Dienste der schulischen und beruflichen Orientierung an einem Ort zusammenbringt",
+      "Eine Arbeitsagentur nur für Erwachsene"
+     ],
+     "correct": 2,
+     "explanation": "Es handelt sich um eine öffentliche Verwaltung, die in Luxemburg-Stadt unter einem Dach viele öffentliche Dienste zusammenbringt, die an der schulischen und beruflichen Orientierung arbeiten, für jeden Bürger, der bei der Wahl seines Weges Hilfe sucht."
+    },
+    {
+     "text": "Wie sieht der Empfangsbereich für die Orientierung („Espace orientation“) aus?",
+     "options": [
+      "Er ist kostenlos und anonym, vor allem für Menschen von 14 bis 22 Jahren, und Sie können ohne Termin kommen",
+      "Er kostet 50 Euro und erfordert immer einen Termin",
+      "Er ist nur für luxemburgische Bürger über 25 Jahre",
+      "Er ist nur an einem Tag im Jahr geöffnet"
+     ],
+     "correct": 0,
+     "explanation": "Der Orientierungsbereich bietet kostenlose, anonyme Beratung, vor allem für Menschen von etwa 14 bis 22 Jahren. Sie können einfach vorbeikommen (Montag bis Freitag, 8:00–17:00 Uhr) oder im Voraus buchen, um Wartezeiten zu vermeiden."
+    },
+    {
+     "text": "Wie bucht man einen Termin in der Maison de l'orientation?",
+     "options": [
+      "Durch das Versenden eines Briefes",
+      "Nur durch einen persönlichen Besuch zuerst",
+      "Über Ihre Bank",
+      "Online über MyGuichet.lu, indem Sie einen Online- oder einen persönlichen Termin wählen"
+     ],
+     "correct": 3,
+     "explanation": "Termine werden online über MyGuichet.lu gebucht, wo Sie ein Online-/Videogespräch oder ein persönliches Treffen wählen. Die Buchung ist mit oder ohne Authentifizierung möglich."
+    },
+    {
+     "text": "Was umfasst die Coaching-Sitzung zur Orientierung?",
+     "options": [
+      "Eine schriftliche Prüfung, die Sie bestehen müssen",
+      "Eine Coaching-Sitzung zur Orientierung mit einem Interessentest – freiwillig und nach Termin",
+      "Eine verpflichtende ärztliche Untersuchung",
+      "Eine bezahlte Privatstunde"
+     ],
+     "correct": 1,
+     "explanation": "Die Coaching-Sitzung beinhaltet einen Interessentest, der Ihnen hilft zu entdecken, was Sie motiviert und welche Tätigkeiten zu Ihnen passen. Sie richtet sich an Schüler, ist freiwillig und erfordert einen Termin."
+    },
+    {
+     "text": "Wem kann die Maison de l'orientation außer jungen Schülern noch helfen?",
+     "options": [
+      "Nur Grundschulkindern",
+      "Nur Unternehmern",
+      "Erwachsenen in einer beruflichen Neuorientierung und auch Neuankömmlingen – einschließlich der Anerkennung von Diplomen und der Validierung von Erfahrung, über Dienste wie die Orientierung der ADEM, das CePAS, das SIA und Euroguidance",
+      "Niemandem – sie verteilt nur Faltblätter"
+     ],
+     "correct": 2,
+     "explanation": "Über Schüler von 14 bis 22 Jahren hinaus hilft das Haus Erwachsenen, die sich neu orientieren oder zum Studium zurückkehren, sowie Neuankömmlingen, die Diplome anerkennen oder Erfahrung validieren lassen müssen, über Dienste wie die berufliche Orientierung der ADEM, das CePAS, das SIA, die ATVA und Euroguidance."
+    }
+   ]
+  }
+ },
+ "infosenior": {
+  "fr": {
+   "title": "Info-Seniors – trouver la bonne aide pour les personnes âgées",
+   "description": "Le portail d'information officiel de l'État pour les personnes âgées au Luxembourg (infosenior.lu) : son Registre public des services pour personnes âgées, agréés et contrôlés en qualité — maisons de soins, logement encadré, accueil de jour, aide à domicile, repas sur roues, télévigilance et activités — ainsi que les personnes qu'il aide et comment.",
+   "topics": [
+    "Le portail infosenior.lu",
+    "Géré par le ministère de la Famille",
+    "Registre public des services",
+    "Uniquement des services agréés",
+    "Soins, aide à domicile & repas",
+    "Télévigilance & accueil de jour",
+    "Clubs Aktiv Plus & activités",
+    "Démence, isolement & médiation"
+   ],
+   "questions": [
+    {
+     "text": "Qu'est-ce qu'Info-Seniors (infosenior.lu) ?",
+     "options": [
+      "Une chaîne privée de maisons de retraite",
+      "Le portail d'information officiel de l'État pour les personnes âgées au Luxembourg, géré par le ministère de la Famille",
+      "Un compte d'épargne-pension",
+      "Un réseau social pour retraités"
+     ],
+     "correct": 1,
+     "explanation": "Info-Seniors, sur infosenior.lu, est le portail d'information public officiel pour les personnes âgées, géré par le ministère de la Famille – et non une entreprise privée. Il s'adresse aux seniors, à leurs familles, aux professionnels et à toute personne intéressée."
+    },
+    {
+     "text": "Qu'y a-t-il de particulier dans les services figurant au Registre public des services pour personnes âgées ?",
+     "options": [
+      "N'importe qui peut ajouter son propre service à la liste",
+      "Ce sont uniquement des services situés à Luxembourg-Ville",
+      "Ils sont tous agréés par l'État et soumis à des contrôles de qualité réguliers",
+      "Ils sont classés uniquement selon le prix"
+     ],
+     "correct": 2,
+     "explanation": "Le registre ne liste que les services agréés par le ministère (avec un « agrément »). Pour être agréés, les prestataires doivent répondre à des exigences de qualité, et le ministère effectue des contrôles réguliers – ainsi, un service répertorié a été vérifié par l'État. Le registre repose sur la loi en vigueur depuis le 1er mars 2024 et est mis à jour régulièrement."
+    },
+    {
+     "text": "Pour chaque service, quelles informations le registre vous donne-t-il ?",
+     "options": [
+      "Ce qu'est le service, les conditions pour en bénéficier et les démarches à effectuer",
+      "Uniquement un numéro de téléphone",
+      "Uniquement des avis de clients",
+      "Rien – vous devez vous rendre sur place pour apprendre quoi que ce soit"
+     ],
+     "correct": 0,
+     "explanation": "Pour chaque service agréé, le registre explique ce qu'il est, les conditions pour y accéder et les démarches à effectuer – vous connaissez ainsi non seulement le nom, mais aussi la manière d'obtenir réellement l'aide."
+    },
+    {
+     "text": "Lequel de ces éléments est un exemple de service que vous pouvez trouver via Info-Seniors ?",
+     "options": [
+      "Des billets d'avion gratuits pour les retraités",
+      "Une carte d'achat hors taxes",
+      "La télévigilance (un bouton d'appel à l'aide) et les repas sur roues livrés à votre domicile",
+      "Une remise sur la location d'une voiture"
+     ],
+     "correct": 2,
+     "explanation": "Le registre couvre les maisons de soins, les logements encadrés, les centres d'accueil de jour, l'aide et les soins à domicile, les repas sur roues, la télévigilance (un bouton de téléalarme) et les activités pour seniors comme les Clubs Aktiv Plus – le tout visant à aider les personnes à rester autonomes chez elles le plus longtemps possible."
+    },
+    {
+     "text": "Si vous ne savez pas à qui vous adresser, ou si vous avez un désaccord avec un service, qu'est-ce qui peut vous aider ?",
+     "options": [
+      "Rien – vous êtes livré à vous-même",
+      "Uniquement un avocat privé",
+      "Vous devez d'abord emménager en maison de soins",
+      "Un service national d'information et de médiation qui peut vous orienter et vous aider à trouver une solution"
+     ],
+     "correct": 3,
+     "explanation": "Outre le site web et le registre, il existe un service national d'information et de médiation pour le domaine des services aux personnes âgées. Il peut vous orienter et vous aider à résoudre un désaccord avec un service – vous n'êtes donc jamais laissé seul."
+    }
+   ]
+  },
+  "de": {
+   "title": "Info-Seniors – die richtige Hilfe für ältere Menschen finden",
+   "description": "Das offizielle Informationsportal des Staates für ältere Menschen in Luxemburg (infosenior.lu): sein Öffentliches Register der Seniorendienste, die zugelassen und auf Qualität geprüft sind — Pflegeheime, betreutes Wohnen, Tagesbetreuung, Haushaltshilfe, Essen auf Rädern, Telealarm und Aktivitäten — sowie wem es hilft und wie.",
+   "topics": [
+    "Das Portal infosenior.lu",
+    "Vom Familienministerium betrieben",
+    "Öffentliches Register der Dienste",
+    "Nur zugelassene („agréé“) Dienste",
+    "Pflege, Haushaltshilfe & Essen",
+    "Telealarm & Tagesbetreuung",
+    "Clubs Aktiv Plus & Aktivitäten",
+    "Demenz, Isolation & Mediation"
+   ],
+   "questions": [
+    {
+     "text": "Was ist Info-Seniors (infosenior.lu)?",
+     "options": [
+      "Eine private Altenheimkette",
+      "Das offizielle Informationsportal des Staates für ältere Menschen in Luxemburg, betrieben vom Familienministerium",
+      "Ein Rentensparkonto",
+      "Ein soziales Netzwerk für Rentner"
+     ],
+     "correct": 1,
+     "explanation": "Info-Seniors, unter infosenior.lu, ist das offizielle öffentliche Informationsportal für ältere Menschen, betrieben vom Familienministerium – kein privates Unternehmen. Es ist für Senioren, ihre Familien, Fachkräfte und alle Interessierten."
+    },
+    {
+     "text": "Was ist das Besondere an den im Öffentlichen Register der Seniorendienste aufgeführten Diensten?",
+     "options": [
+      "Jeder kann seinen eigenen Dienst zur Liste hinzufügen",
+      "Es sind nur Dienste in Luxemburg-Stadt",
+      "Sie sind alle vom Staat zugelassen („agréé“) und unterliegen regelmäßigen Qualitätskontrollen",
+      "Sie sind nur nach dem Preis geordnet"
+     ],
+     "correct": 2,
+     "explanation": "Das Register führt nur Dienste auf, die vom Ministerium zugelassen sind (mit einem „agrément“). Um zugelassen zu werden, müssen die Anbieter Qualitätsanforderungen erfüllen, und das Ministerium führt regelmäßige Kontrollen durch – ein aufgeführter Dienst wurde also vom Staat geprüft. Das Register beruht auf dem seit dem 1. März 2024 geltenden Gesetz und wird regelmäßig aktualisiert."
+    },
+    {
+     "text": "Welche Informationen gibt Ihnen das Register zu jedem Dienst?",
+     "options": [
+      "Was der Dienst ist, die Bedingungen für seine Nutzung und die zu unternehmenden Schritte",
+      "Nur eine Telefonnummer",
+      "Nur Kundenbewertungen",
+      "Nichts – Sie müssen persönlich vorbeikommen, um irgendetwas zu erfahren"
+     ],
+     "correct": 0,
+     "explanation": "Für jeden zugelassenen Dienst erklärt das Register, was er ist, die Bedingungen für den Zugang und die zu unternehmenden Schritte – so kennen Sie nicht nur den Namen, sondern auch, wie Sie die Hilfe tatsächlich erhalten."
+    },
+    {
+     "text": "Welches dieser Beispiele ist ein Dienst, den Sie über Info-Seniors finden können?",
+     "options": [
+      "Kostenlose Flugtickets für Rentner",
+      "Eine Karte zum steuerfreien Einkaufen",
+      "Telealarm (ein Hilferuf-Knopf) und Essen auf Rädern, das zu Ihnen nach Hause geliefert wird",
+      "Ein Rabatt auf das Leasing eines Autos"
+     ],
+     "correct": 2,
+     "explanation": "Das Register umfasst Pflegeheime, betreutes Wohnen, Tagesbetreuungszentren, Haushaltshilfe und Pflege zu Hause, Essen auf Rädern, Telealarm (einen Telealarm-Knopf) und Seniorenaktivitäten wie die Clubs Aktiv Plus – alles mit dem Ziel, Menschen so lange wie möglich selbstständig zu Hause leben zu lassen."
+    },
+    {
+     "text": "Wenn Sie nicht wissen, an wen Sie sich wenden sollen, oder wenn Sie eine Meinungsverschiedenheit mit einem Dienst haben, was kann helfen?",
+     "options": [
+      "Nichts – Sie sind auf sich allein gestellt",
+      "Nur ein privater Anwalt",
+      "Sie müssen zuerst in ein Pflegeheim ziehen",
+      "Ein nationaler Informations- und Mediationsdienst, der Sie orientieren und bei der Suche nach einer Lösung helfen kann"
+     ],
+     "correct": 3,
+     "explanation": "Neben der Webseite und dem Register gibt es einen nationalen Informations- und Mediationsdienst für den Bereich der Dienste für ältere Menschen. Er kann Sie orientieren und helfen, eine Meinungsverschiedenheit mit einem Dienst zu lösen – so werden Sie nie allein gelassen."
+    }
+   ]
+  }
+ },
+ "accessibilite": {
+  "fr": {
+   "title": "L'accessibilité pour tous – les trois promesses du Luxembourg",
+   "description": "Ce qu'est accessibilite.lu et les trois domaines qu'il rassemble : l'accessibilité numérique des sites et applications publics (loi du 28 mai 2019), des bâtiments, rues et logements accessibles grâce au design universel (loi du 7 janvier 2022), et des produits et services accessibles dans le cadre de l'Acte européen sur l'accessibilité (applicable depuis le 28 juin 2025, surveillé par l'OSAPS).",
+   "topics": [
+    "Le portail accessibilite.lu",
+    "Accessibilité numérique (loi de 2019)",
+    "Perceptible, utilisable, compréhensible, robuste",
+    "Déclarations d'accessibilité & plaintes",
+    "Infrastructures & design universel",
+    "Échéance de 2032 pour les lieux existants",
+    "Produits & services (Acte européen sur l'accessibilité)",
+    "OSAPS & signalement via MyGuichet.lu"
+   ],
+   "questions": [
+    {
+     "text": "Qu'est-ce qu'accessibilite.lu ?",
+     "options": [
+      "Une entreprise privée qui vend du matériel d'accessibilité",
+      "Le portail officiel du Gouvernement du Luxembourg qui rassemble trois domaines de l'accessibilité : le numérique, les infrastructures, et les produits et services",
+      "Une demande d'allocation pour personnes handicapées",
+      "Une carte des restaurants accessibles en fauteuil roulant"
+     ],
+     "correct": 1,
+     "explanation": "accessibilite.lu est le portail officiel du Gouvernement du Luxembourg. Il ouvre sur trois portails : l'accessibilité numérique, l'accessibilité des infrastructures, et l'accessibilité des produits et services."
+    },
+    {
+     "text": "En vertu de la loi du 28 mai 2019 sur l'accessibilité numérique, qui doit rendre ses sites web et applications mobiles accessibles ?",
+     "options": [
+      "Tous les sites web privés du Luxembourg",
+      "Les organismes du secteur public – l'État, les communes et les organismes de droit public",
+      "Uniquement les boutiques en ligne",
+      "Uniquement les plateformes de réseaux sociaux"
+     ],
+     "correct": 1,
+     "explanation": "La loi du 28 mai 2019 exige que les sites web et applications mobiles du secteur public (l'État, les communes et les organismes de droit public) soient accessibles, selon la norme européenne EN 301 549."
+    },
+    {
+     "text": "Quels sont les quatre principes clés de l'accessibilité numérique ?",
+     "options": [
+      "Rapide, bon marché, moderne et coloré",
+      "Perceptible, utilisable, compréhensible et robuste",
+      "Privé, sécurisé, chiffré et sauvegardé",
+      "Mobile, ordinateur de bureau, tablette et montre"
+     ],
+     "correct": 1,
+     "explanation": "Un contenu numérique accessible doit être perceptible (par exemple, des descriptions textuelles pour les images), utilisable (par exemple, utilisable au clavier), compréhensible (clair et prévisible) et robuste (fonctionne avec les technologies d'assistance)."
+    },
+    {
+     "text": "Sur quelle idée repose la loi du 7 janvier 2022 sur les infrastructures, et quelle est l'échéance pour les lieux publics existants ?",
+     "options": [
+      "Des entrées séparées pour les personnes handicapées ; échéance 2025",
+      "Le design universel – des lieux utilisables par tous dès le départ ; les lieux publics existants accessibles d'ici le 1er janvier 2032",
+      "Démolir tous les anciens bâtiments ; échéance 2030",
+      "Des lignes directrices volontaires sans échéance"
+     ],
+     "correct": 1,
+     "explanation": "La loi (en vigueur depuis le 1er juillet 2023) repose sur le design universel – concevoir des lieux utilisables par tous dès le départ. Les nouvelles constructions et les gros travaux doivent désormais s'y conformer ; les lieux existants ouverts au public doivent être accessibles d'ici le 1er janvier 2032."
+    },
+    {
+     "text": "L'accessibilité des produits et services découle de l'Acte européen sur l'accessibilité. Depuis quand s'applique-t-il, et comment pouvez-vous signaler un produit ou un service qui n'est pas accessible ?",
+     "options": [
+      "Depuis 2019 ; en appelant la police",
+      "Depuis le 28 juin 2025 ; en ligne via MyGuichet.lu (auprès du bureau OSAPS)",
+      "Depuis 2030 ; uniquement par lettre",
+      "Il ne s'applique pas encore au Luxembourg"
+     ],
+     "correct": 1,
+     "explanation": "Le Luxembourg a transposé l'Acte européen sur l'accessibilité (loi du 8 mars 2023), applicable depuis le 28 juin 2025. Le bureau OSAPS surveille la conformité, et toute personne peut signaler un produit ou un service non accessible en ligne via MyGuichet.lu."
+    }
+   ]
+  },
+  "de": {
+   "title": "Barrierefreiheit für alle – Luxemburgs drei Versprechen",
+   "description": "Was accessibilite.lu ist und die drei Bereiche, die es zusammenbringt: die digitale Barrierefreiheit öffentlicher Websites und Apps (Gesetz vom 28. Mai 2019), barrierefreie Gebäude, Straßen und Wohnungen durch universelles Design (Gesetz vom 7. Januar 2022) und barrierefreie Produkte und Dienstleistungen im Rahmen des Europäischen Rechtsakts zur Barrierefreiheit (anwendbar seit dem 28. Juni 2025, überwacht von der OSAPS).",
+   "topics": [
+    "Das Portal accessibilite.lu",
+    "Digitale Barrierefreiheit (Gesetz von 2019)",
+    "Wahrnehmbar, bedienbar, verständlich, robust",
+    "Erklärungen zur Barrierefreiheit & Beschwerden",
+    "Infrastruktur & universelles Design",
+    "Frist 2032 für bestehende Orte",
+    "Produkte & Dienstleistungen (Europäischer Rechtsakt zur Barrierefreiheit)",
+    "OSAPS & Meldung über MyGuichet.lu"
+   ],
+   "questions": [
+    {
+     "text": "Was ist accessibilite.lu?",
+     "options": [
+      "Ein privates Unternehmen, das Hilfsmittel für Barrierefreiheit verkauft",
+      "Das offizielle Portal der Regierung von Luxemburg, das drei Bereiche der Barrierefreiheit zusammenbringt: das Digitale, die Infrastruktur und die Produkte und Dienstleistungen",
+      "Ein Antrag auf Leistungen für Menschen mit Behinderung",
+      "Eine Karte rollstuhlgerechter Restaurants"
+     ],
+     "correct": 1,
+     "explanation": "accessibilite.lu ist das offizielle Portal der Regierung von Luxemburg. Es öffnet sich auf drei Portale: die digitale Barrierefreiheit, die Barrierefreiheit der Infrastruktur und die Barrierefreiheit von Produkten und Dienstleistungen."
+    },
+    {
+     "text": "Wer muss nach dem Gesetz vom 28. Mai 2019 über die digitale Barrierefreiheit seine Websites und mobilen Apps barrierefrei machen?",
+     "options": [
+      "Jede private Website in Luxemburg",
+      "Stellen des öffentlichen Sektors – der Staat, die Gemeinden und öffentlich-rechtliche Einrichtungen",
+      "Nur Online-Shops",
+      "Nur Plattformen sozialer Medien"
+     ],
+     "correct": 1,
+     "explanation": "Das Gesetz vom 28. Mai 2019 verlangt, dass Websites und mobile Apps des öffentlichen Sektors (der Staat, die Gemeinden und öffentlich-rechtliche Einrichtungen) barrierefrei sind, gemäß der europäischen Norm EN 301 549."
+    },
+    {
+     "text": "Was sind die vier Grundprinzipien der digitalen Barrierefreiheit?",
+     "options": [
+      "Schnell, günstig, modern und bunt",
+      "Wahrnehmbar, bedienbar, verständlich und robust",
+      "Privat, sicher, verschlüsselt und gesichert",
+      "Handy, Desktop, Tablet und Uhr"
+     ],
+     "correct": 1,
+     "explanation": "Barrierefreie digitale Inhalte müssen wahrnehmbar sein (z. B. Textbeschreibungen für Bilder), bedienbar (z. B. mit der Tastatur nutzbar), verständlich (klar und vorhersehbar) und robust (funktioniert mit assistiven Technologien)."
+    },
+    {
+     "text": "Auf welcher Idee beruht das Infrastrukturgesetz vom 7. Januar 2022, und was ist die Frist für bestehende öffentliche Orte?",
+     "options": [
+      "Getrennte Eingänge für Menschen mit Behinderung; Frist 2025",
+      "Universelles Design – Orte, die von Anfang an von allen nutzbar sind; bestehende öffentliche Orte bis zum 1. Januar 2032 barrierefrei",
+      "Abriss aller alten Gebäude; Frist 2030",
+      "Freiwillige Leitlinien ohne Frist"
+     ],
+     "correct": 1,
+     "explanation": "Das Gesetz (in Kraft seit dem 1. Juli 2023) beruht auf dem universellen Design – Orte so zu gestalten, dass sie von Anfang an von allen nutzbar sind. Neubauten und größere Arbeiten müssen jetzt konform sein; bestehende, der Öffentlichkeit zugängliche Orte müssen bis zum 1. Januar 2032 barrierefrei sein."
+    },
+    {
+     "text": "Die Barrierefreiheit von Produkten und Dienstleistungen ergibt sich aus dem Europäischen Rechtsakt zur Barrierefreiheit. Seit wann gilt er, und wie können Sie ein Produkt oder eine Dienstleistung melden, das bzw. die nicht barrierefrei ist?",
+     "options": [
+      "Seit 2019; durch Anrufen der Polizei",
+      "Seit dem 28. Juni 2025; online über MyGuichet.lu (an die Stelle OSAPS)",
+      "Seit 2030; nur per Brief",
+      "Er gilt in Luxemburg noch nicht"
+     ],
+     "correct": 1,
+     "explanation": "Luxemburg hat den Europäischen Rechtsakt zur Barrierefreiheit umgesetzt (Gesetz vom 8. März 2023), anwendbar seit dem 28. Juni 2025. Die Stelle OSAPS überwacht die Einhaltung, und jeder kann ein nicht barrierefreies Produkt oder eine nicht barrierefreie Dienstleistung online über MyGuichet.lu melden."
+    }
+   ]
+  }
+ },
+ "zukunftskeess": {
+  "fr": {
+   "title": "La Zukunftskeess – argent et soutien pour vos enfants",
+   "description": "La Caisse pour l'avenir des enfants (Zukunftskeess, cae.lu) est la caisse de l'État pour les prestations familiales au Luxembourg : l'allocation de naissance (payée en trois parts liées aux examens médicaux), l'allocation familiale mensuelle qui augmente à 6 et 12 ans et peut durer jusqu'à 25 ans pour les étudiants, et l'allocation de rentrée scolaire automatique – ainsi que le revenu du congé parental, les chèques-service accueil et une aide supplémentaire pour les enfants en situation de handicap. Les demandes se font via MyGuichet.lu.",
+   "topics": [
+    "La Zukunftskeess (CAE)",
+    "Allocation de naissance en 3 parts",
+    "Liée aux examens médicaux",
+    "Allocation familiale mensuelle",
+    "Augmente à 6 et 12 ans, jusqu'à 25 ans",
+    "Allocation de rentrée scolaire (automatique)",
+    "Frontaliers & complément différentiel",
+    "Demande via MyGuichet.lu"
+   ],
+   "questions": [
+    {
+     "text": "Qu'est-ce que la Zukunftskeess (Caisse pour l'avenir des enfants / CAE) ?",
+     "options": [
+      "Un plan d'épargne privé pour enfants",
+      "La caisse officielle de l'État qui verse les prestations familiales au Luxembourg",
+      "Un compte bancaire pour enfants",
+      "Une chaîne de crèches"
+     ],
+     "correct": 1,
+     "explanation": "La Zukunftskeess – la Caisse pour l'avenir des enfants (cae.lu) – est la caisse officielle de l'État, qui fait partie de la sécurité sociale et verse les prestations familiales telles que l'allocation de naissance, l'allocation familiale mensuelle et l'allocation de rentrée scolaire."
+    },
+    {
+     "text": "Comment l'allocation de naissance (environ 1 740 €) est-elle payée, et à quoi est-elle liée ?",
+     "options": [
+      "En un seul versement, sans conditions",
+      "En trois parts égales d'environ 580 €, chacune liée aux examens médicaux de la mère et de l'enfant (prénatal, naissance, postnatal)",
+      "Uniquement si vous avez un deuxième enfant",
+      "Comme un complément mensuel pendant deux ans"
+     ],
+     "correct": 1,
+     "explanation": "L'allocation de naissance s'élève au total à environ 1 740,09 €, payée en trois tranches indépendantes de 580,03 € – prénatale, de naissance et postnatale – chacune liée à la réalisation des examens médicaux pour la mère et le bébé."
+    },
+    {
+     "text": "Jusqu'à quel âge l'allocation familiale mensuelle est-elle normalement payée, et comment le montant évolue-t-il à mesure que l'enfant grandit ?",
+     "options": [
+      "Jusqu'à 12 ans, et il ne change jamais",
+      "De la naissance jusqu'à 18 ans (jusqu'à 25 ans si l'enfant est encore dans l'enseignement secondaire ou en apprentissage) ; le montant augmente à 6 ans et de nouveau à 12 ans",
+      "Uniquement entre 6 et 16 ans",
+      "Jusqu'à 30 ans pour tout le monde"
+     ],
+     "correct": 1,
+     "explanation": "L'allocation familiale est payée par enfant depuis le mois de la naissance jusqu'à 18 ans – et jusqu'à 25 ans si le jeune est encore dans l'enseignement secondaire ou en apprentissage. Le montant augmente à 6 ans et de nouveau à 12 ans."
+    },
+    {
+     "text": "Comment obtient-on l'allocation de rentrée scolaire, et quand est-elle payée ?",
+     "options": [
+      "Vous devez en faire la demande séparément chaque mois de juillet",
+      "Elle est payée automatiquement aux enfants qui reçoivent déjà l'allocation familiale, au mois d'août chaque année",
+      "Seules les familles de trois enfants ou plus la reçoivent",
+      "Elle est payée en décembre"
+     ],
+     "correct": 1,
+     "explanation": "Les enfants qui reçoivent déjà l'allocation familiale obtiennent l'allocation de rentrée scolaire automatiquement, payée en août. Le montant dépend de l'âge (environ 115 € pour les 6-11 ans et 235 € pour les 12 ans et plus)."
+    },
+    {
+     "text": "Vous travaillez au Luxembourg mais vos enfants vivent en France, en Belgique ou en Allemagne. Quelle est la situation concernant l'allocation familiale ?",
+     "options": [
+      "Vous ne recevez rien parce que les enfants vivent à l'étranger",
+      "Si vous êtes couvert par la sécurité sociale luxembourgeoise, vos enfants peuvent y avoir droit ; si une prestation est déjà versée dans le pays de résidence, le Luxembourg verse un complément différentiel (un appoint)",
+      "Vous devez d'abord faire venir les enfants au Luxembourg",
+      "Vous recevez automatiquement le double du montant"
+     ],
+     "correct": 1,
+     "explanation": "En vertu des règles européennes, les enfants des frontaliers couverts par la sécurité sociale luxembourgeoise peuvent avoir droit à l'allocation familiale même s'ils vivent à l'étranger. Si une prestation similaire est déjà versée dans le pays de résidence, le Luxembourg verse la différence afin que la famille reçoive le montant le plus élevé."
+    }
+   ]
+  },
+  "de": {
+   "title": "Die Zukunftskeess – Geld und Unterstützung für Ihre Kinder",
+   "description": "Die Zukunftskeess (Caisse pour l'avenir des enfants, cae.lu) ist die staatliche Kasse für Familienleistungen in Luxemburg: die Geburtszulage (in drei Teilen gezahlt, gebunden an die ärztlichen Untersuchungen), das monatliche Kindergeld, das mit 6 und 12 Jahren steigt und für Studierende bis 25 dauern kann, und die automatische Schulanfangszulage – sowie das Einkommen während des Elternurlaubs, die Betreuungsgutscheine und zusätzliche Hilfe für Kinder mit einer Behinderung. Die Anträge laufen über MyGuichet.lu.",
+   "topics": [
+    "Die Zukunftskeess (CAE)",
+    "Geburtszulage in 3 Teilen",
+    "Gebunden an ärztliche Untersuchungen",
+    "Monatliches Kindergeld",
+    "Steigt mit 6 und 12 Jahren, bis 25",
+    "Schulanfangszulage (automatisch)",
+    "Grenzgänger & Differenzbetrag",
+    "Antrag über MyGuichet.lu"
+   ],
+   "questions": [
+    {
+     "text": "Was ist die Zukunftskeess (Caisse pour l'avenir des enfants / CAE)?",
+     "options": [
+      "Ein privater Sparplan für Kinder",
+      "Die offizielle staatliche Kasse, die in Luxemburg die Familienleistungen auszahlt",
+      "Ein Bankkonto für Kinder",
+      "Eine Kita-Kette"
+     ],
+     "correct": 1,
+     "explanation": "Die Zukunftskeess – die Caisse pour l'avenir des enfants (cae.lu) – ist die offizielle staatliche Kasse, Teil der Sozialversicherung, die Familienleistungen wie die Geburtszulage, das monatliche Kindergeld und die Schulanfangszulage auszahlt."
+    },
+    {
+     "text": "Wie wird die Geburtszulage (etwa 1.740 €) gezahlt, und woran ist sie gebunden?",
+     "options": [
+      "In einer Zahlung, ohne Bedingungen",
+      "In drei gleichen Teilen von etwa 580 €, jeder gebunden an die ärztlichen Untersuchungen für Mutter und Kind (vorgeburtlich, Geburt, nachgeburtlich)",
+      "Nur, wenn Sie ein zweites Kind haben",
+      "Als monatlicher Zuschlag über zwei Jahre"
+     ],
+     "correct": 1,
+     "explanation": "Die Geburtszulage beträgt insgesamt etwa 1.740,09 €, gezahlt in drei unabhängigen Raten von je 580,03 € – vorgeburtlich, Geburt und nachgeburtlich – jede gebunden an die Durchführung der ärztlichen Untersuchungen für Mutter und Baby."
+    },
+    {
+     "text": "Bis zu welchem Alter wird das monatliche Kindergeld normalerweise gezahlt, und wie verändert sich der Betrag, während das Kind aufwächst?",
+     "options": [
+      "Bis 12 Jahre, und er ändert sich nie",
+      "Von der Geburt bis 18 Jahre (bis 25, wenn das Kind noch in der Sekundarschule oder in einer Ausbildung ist); der Betrag steigt mit 6 Jahren und erneut mit 12 Jahren",
+      "Nur zwischen 6 und 16 Jahren",
+      "Bis 30 Jahre für alle"
+     ],
+     "correct": 1,
+     "explanation": "Das Kindergeld wird pro Kind ab dem Monat der Geburt bis 18 Jahre gezahlt – und bis 25 Jahre, wenn der junge Mensch noch in der Sekundarschulbildung oder in einer Ausbildung ist. Der Betrag steigt mit 6 Jahren und erneut mit 12 Jahren."
+    },
+    {
+     "text": "Wie erhält man die Schulanfangszulage, und wann wird sie gezahlt?",
+     "options": [
+      "Sie müssen sie jedes Jahr im Juli gesondert beantragen",
+      "Sie wird automatisch an Kinder gezahlt, die bereits das Kindergeld erhalten, jedes Jahr im August",
+      "Nur Familien mit drei oder mehr Kindern erhalten sie",
+      "Sie wird im Dezember gezahlt"
+     ],
+     "correct": 1,
+     "explanation": "Kinder, die bereits das Kindergeld erhalten, bekommen die Schulanfangszulage automatisch, gezahlt im August. Der Betrag hängt vom Alter ab (etwa 115 € für 6- bis 11-Jährige und 235 € für 12 Jahre und älter)."
+    },
+    {
+     "text": "Sie arbeiten in Luxemburg, aber Ihre Kinder leben in Frankreich, Belgien oder Deutschland. Wie ist die Lage beim Kindergeld?",
+     "options": [
+      "Sie erhalten nichts, weil die Kinder im Ausland leben",
+      "Wenn Sie über die luxemburgische Sozialversicherung versichert sind, können Ihre Kinder anspruchsberechtigt sein; wird im Wohnsitzland bereits eine Leistung gezahlt, zahlt Luxemburg einen Differenzbetrag (eine Aufstockung)",
+      "Sie müssen die Kinder zuerst nach Luxemburg holen",
+      "Sie erhalten automatisch den doppelten Betrag"
+     ],
+     "correct": 1,
+     "explanation": "Nach den europäischen Regeln können Kinder von Grenzgängern, die über die luxemburgische Sozialversicherung versichert sind, Anspruch auf das Kindergeld haben, auch wenn sie im Ausland leben. Wird im Wohnsitzland bereits eine ähnliche Leistung gezahlt, zahlt Luxemburg die Differenz, damit die Familie den höheren Betrag erhält."
+    }
+   ]
+  }
+ },
+ "fns": {
+  "fr": {
+   "title": "Le Fonds national de solidarité – le filet de sécurité du Luxembourg",
+   "description": "Le Fonds national de solidarité (FNS, fns.lu) est le filet de sécurité du Luxembourg contre la pauvreté. Il gère le revenu d'inclusion sociale (REVIS), l'allocation de vie chère avec la prime énergie et l'aide aux personnes âgées, un revenu pour personnes gravement handicapées, des avances sur pensions alimentaires impayées, un complément pour les personnes âgées en soins, et la pension pour l'éducation des enfants (« Mammerent »). Faites votre demande sur fns.lu ou MyGuichet.lu – et les bénéficiaires du REVIS reçoivent l'allocation de vie chère automatiquement.",
+   "topics": [
+    "Le FNS – le filet de sécurité de l'État",
+    "REVIS – revenu minimum garanti",
+    "Allocation de vie chère et prime énergie",
+    "Automatique pour les bénéficiaires du REVIS",
+    "Revenu pour personnes gravement handicapées",
+    "Avance sur pension alimentaire impayée",
+    "Complément pour personnes âgées en soins",
+    "Pension pour l'éducation des enfants (« Mammerent »)"
+   ],
+   "questions": [
+    {
+     "text": "Quel est le but principal du Fonds national de solidarité (FNS) ?",
+     "options": [
+      "Percevoir les impôts",
+      "Servir de filet de sécurité du Luxembourg contre la pauvreté, en gérant l'aide financière aux personnes en difficulté",
+      "Gérer uniquement la caisse de pension nationale",
+      "Accorder des prêts aux entreprises"
+     ],
+     "correct": 1,
+     "explanation": "Le FNS (fns.lu), placé sous le ministère de la Famille, est l'organisme de l'État dont la mission est la lutte contre la pauvreté. Il gère un ensemble de prestations sociales destinées aux personnes à faibles revenus ou en situation difficile."
+    },
+    {
+     "text": "Qu'est-ce que le REVIS (revenu d'inclusion sociale) ?",
+     "options": [
+      "Un remboursement d'impôts pour tout le monde",
+      "Un revenu minimum garanti qui complète les revenus d'un ménage jusqu'à un niveau de vie de base, plus un accompagnement pour le retour à l'emploi",
+      "Une prime unique pour les nouveaux parents",
+      "Une pension pour les fonctionnaires"
+     ],
+     "correct": 1,
+     "explanation": "Le REVIS est le revenu minimum garanti : si les revenus d'un ménage sont inférieurs à un niveau déterminé, le REVIS les complète. Il comporte aussi un volet « inclusion » – un accompagnement à l'activation pour aider les personnes à accéder à un emploi, à une formation ou à une activité utile."
+    },
+    {
+     "text": "Qui peut recevoir l'allocation de vie chère, et que se passe-t-il pour les bénéficiaires du REVIS ?",
+     "options": [
+      "Seulement les personnes totalement sans emploi ; les bénéficiaires du REVIS doivent quand même faire la demande",
+      "Tout ménage à revenu modeste sous un plafond de revenus – y compris les personnes qui travaillent ; les bénéficiaires du REVIS la reçoivent automatiquement",
+      "Seulement les retraités ; personne ne la reçoit automatiquement",
+      "Seulement les propriétaires de leur logement"
+     ],
+     "correct": 1,
+     "explanation": "L'allocation de vie chère annuelle (avec une prime énergie et une éventuelle aide aux personnes âgées) s'adresse aux ménages à revenu modeste sous un plafond de revenus – on peut travailler et y avoir droit. Les personnes qui touchent déjà le REVIS la reçoivent automatiquement, sans faire de demande."
+    },
+    {
+     "text": "Un parent séparé a droit à une pension alimentaire, mais l'autre parent refuse de payer. Comment le FNS peut-il aider ?",
+     "options": [
+      "Il ne peut pas aider dans les affaires privées",
+      "Il peut avancer la pension alimentaire impayée à la famille, puis récupérer l'argent auprès du parent qui n'a pas payé",
+      "Il envoie immédiatement le parent défaillant en prison",
+      "Il ne paie que si les deux parents sont d'accord"
+     ],
+     "correct": 1,
+     "explanation": "Dans certaines limites et sous certaines conditions, le FNS peut avancer les pensions alimentaires impayées pour que l'enfant et le parent ne se retrouvent pas sans rien, puis il poursuit le parent défaillant pour récupérer l'argent."
+    },
+    {
+     "text": "Outre le REVIS et l'allocation de vie chère, lequel de ces éléments le FNS gère-t-il également ?",
+     "options": [
+      "Les permis de conduire et l'immatriculation des véhicules",
+      "Les passeports et les cartes d'identité",
+      "Un revenu pour personnes gravement handicapées, un complément pour les personnes âgées en soins, et la pension pour l'éducation des enfants (« Mammerent »)",
+      "Les frais d'inscription à l'université"
+     ],
+     "correct": 2,
+     "explanation": "Le FNS gère aussi un revenu pour personnes gravement handicapées (RPGH), un complément pour aider les personnes âgées à faibles revenus à payer les soins, et la pension pour l'éducation des enfants (« Mammerent ») pour les parents qui ont accumulé moins de pension en élevant leurs enfants."
+    }
+   ]
+  },
+  "de": {
+   "title": "Der Nationale Solidaritätsfonds – Luxemburgs soziales Netz",
+   "description": "Der Nationale Solidaritätsfonds (Fonds national de solidarité, FNS, fns.lu) ist Luxemburgs soziales Netz gegen Armut. Er verwaltet das Eingliederungseinkommen (REVIS), die Teuerungszulage mit der Energieprämie und der Seniorenhilfe, ein Einkommen für schwer behinderte Menschen, Vorschüsse auf nicht gezahlte Unterhaltsleistungen, einen Zuschlag für ältere Menschen in Pflege und die Erziehungspension („Mammerent“). Stellen Sie Ihren Antrag auf fns.lu oder MyGuichet.lu – und REVIS-Empfänger erhalten die Teuerungszulage automatisch.",
+   "topics": [
+    "Der FNS – das soziale Netz des Staates",
+    "REVIS – garantiertes Mindesteinkommen",
+    "Teuerungszulage und Energieprämie",
+    "Automatisch für REVIS-Empfänger",
+    "Einkommen für schwer behinderte Menschen",
+    "Vorschuss auf nicht gezahlten Unterhalt",
+    "Zuschlag für Senioren in Pflege",
+    "Erziehungspension („Mammerent“)"
+   ],
+   "questions": [
+    {
+     "text": "Was ist der Hauptzweck des Nationalen Solidaritätsfonds (FNS)?",
+     "options": [
+      "Steuern einzuziehen",
+      "Als Luxemburgs soziales Netz gegen Armut zu dienen und finanzielle Hilfe für Menschen in Schwierigkeiten zu verwalten",
+      "Ausschließlich die nationale Pensionskasse zu verwalten",
+      "Krediten an Unternehmen zu vergeben"
+     ],
+     "correct": 1,
+     "explanation": "Der FNS (fns.lu), der dem Familienministerium untersteht, ist die staatliche Stelle, deren Aufgabe der Kampf gegen die Armut ist. Er verwaltet eine Reihe von Sozialleistungen für Menschen mit niedrigem Einkommen oder in schwierigen Lebenslagen."
+    },
+    {
+     "text": "Was ist das REVIS (revenu d'inclusion sociale, das Eingliederungseinkommen)?",
+     "options": [
+      "Eine Steuerrückerstattung für alle",
+      "Ein garantiertes Mindesteinkommen, das einen Haushalt auf ein grundlegendes Lebensniveau aufstockt, mit Unterstützung für den Wiedereinstieg in die Arbeit",
+      "Eine einmalige Prämie für frischgebackene Eltern",
+      "Eine Pension für Beamte"
+     ],
+     "correct": 1,
+     "explanation": "Das REVIS ist das garantierte Mindesteinkommen: Liegt das Einkommen eines Haushalts unter einem festgelegten Niveau, stockt das REVIS es auf. Es umfasst auch eine „Eingliederungsseite“ – eine Aktivierungsunterstützung, die Menschen den Weg in Arbeit, Ausbildung oder eine sinnvolle Tätigkeit erleichtert."
+    },
+    {
+     "text": "Wer kann die Teuerungszulage (allocation de vie chère) erhalten, und was geschieht bei REVIS-Empfängern?",
+     "options": [
+      "Nur Menschen ganz ohne Arbeit; REVIS-Empfänger müssen sie trotzdem beantragen",
+      "Jeder Haushalt mit bescheidenem Einkommen unterhalb einer Einkommensgrenze – auch berufstätige Menschen; REVIS-Empfänger erhalten sie automatisch",
+      "Nur Rentner; niemand erhält sie automatisch",
+      "Nur Wohnungseigentümer"
+     ],
+     "correct": 1,
+     "explanation": "Die jährliche Teuerungszulage (mit einer Energieprämie und einer möglichen Seniorenhilfe) ist für Haushalte mit bescheidenem Einkommen unterhalb einer Einkommensgrenze gedacht – man kann berufstätig sein und trotzdem Anspruch haben. Wer bereits REVIS bezieht, erhält sie automatisch, ohne Antrag."
+    },
+    {
+     "text": "Einem getrennt lebenden Elternteil steht Unterhalt zu, doch der andere Elternteil weigert sich zu zahlen. Wie kann der FNS helfen?",
+     "options": [
+      "Er kann bei privaten Angelegenheiten nicht helfen",
+      "Er kann der Familie den nicht gezahlten Unterhalt vorschießen und das Geld anschließend von dem Elternteil zurückfordern, der nicht gezahlt hat",
+      "Er schickt den säumigen Elternteil sofort ins Gefängnis",
+      "Er zahlt nur, wenn beide Elternteile einverstanden sind"
+     ],
+     "correct": 1,
+     "explanation": "Innerhalb bestimmter Grenzen und unter bestimmten Bedingungen kann der FNS nicht gezahlte Unterhaltsleistungen vorschießen, damit Kind und Elternteil nicht ohne Mittel dastehen, und fordert das Geld anschließend vom säumigen Elternteil zurück."
+    },
+    {
+     "text": "Welche dieser Leistungen verwaltet der FNS neben dem REVIS und der Teuerungszulage ebenfalls?",
+     "options": [
+      "Führerscheine und Fahrzeugzulassung",
+      "Reisepässe und Personalausweise",
+      "Ein Einkommen für schwer behinderte Menschen, einen Zuschlag für Senioren in Pflege und die Erziehungspension („Mammerent“)",
+      "Studiengebühren an der Universität"
+     ],
+     "correct": 2,
+     "explanation": "Der FNS verwaltet außerdem ein Einkommen für schwer behinderte Menschen (RPGH), einen Zuschlag, der älteren Menschen mit niedrigem Einkommen hilft, die Pflege zu bezahlen, und die Erziehungspension („Mammerent“) für Eltern, die beim Großziehen ihrer Kinder weniger Pension aufgebaut haben."
+    }
+   ]
+  }
+ },
+ "granderegion": {
+  "fr": {
+   "title": "La Maison de la Grande Région – quatre pays, un seul foyer",
+   "description": "La Grande Région réunit 5 régions dans 4 pays (le Luxembourg, ainsi que des parties de la France, de l'Allemagne et de la Belgique), 11,8 millions d'habitants et environ 270 000 travailleurs frontaliers chaque jour – le plus grand nombre en Europe. Elle est coordonnée depuis la Maison de la Grande Région (Maison de la Grande Région / Haus der Großregion) à Esch-sur-Alzette, ouverte en 2015, qui accueille le Secrétariat du Sommet et ses partenaires. Ensemble, ils facilitent la vie quotidienne de part et d'autre des frontières – dans le travail, les transports, la santé, les études et la culture. Plus d'informations sur granderegion.net.",
+   "topics": [
+    "5 régions, 4 pays, 3 langues",
+    "11,8 millions d'habitants",
+    "~270 000 travailleurs frontaliers par jour",
+    "La Maison de la Grande Région (Esch, 2015)",
+    "Le Sommet et la présidence tournante",
+    "Secrétariat du Sommet et organes consultatifs",
+    "Travail, transports et soins de santé transfrontaliers",
+    "Université de la Grande Région et culture"
+   ],
+   "questions": [
+    {
+     "text": "Qu'est-ce que la Grande Région ?",
+     "options": [
+      "Un pays unique d'Europe centrale",
+      "Un territoire transfrontalier de 5 régions dans 4 pays (le Luxembourg, ainsi que des parties de la France, de l'Allemagne et de la Belgique) avec 3 langues",
+      "Une région entièrement située à l'intérieur du Luxembourg",
+      "Un parti politique européen"
+     ],
+     "correct": 1,
+     "explanation": "La Grande Région est un espace de coopération transfrontalière de 5 régions réparties sur 4 pays – le Luxembourg, la Lorraine (France), la Sarre et la Rhénanie-Palatinat (Allemagne), ainsi que la Wallonie, la Fédération Wallonie-Bruxelles et la Communauté germanophone (Belgique) – couvrant environ 65 401 km² avec 11,8 millions d'habitants et 3 langues."
+    },
+    {
+     "text": "Qu'est-ce qui rend la Grande Région remarquable en matière de travailleurs frontaliers ?",
+     "options": [
+      "Elle n'a aucun travailleur frontalier",
+      "Elle compte environ 270 000 travailleurs frontaliers chaque jour – le plus grand nombre en Europe",
+      "Le travail frontalier y est interdit",
+      "Seules environ 1 000 personnes franchissent ses frontières chaque jour"
+     ],
+     "correct": 1,
+     "explanation": "Environ 270 000 personnes franchissent une frontière chaque jour pour aller travailler – le plus grand nombre de travailleurs frontaliers en Europe. La moitié environ vit en France et à peu près les trois quarts travaillent au Luxembourg."
+    },
+    {
+     "text": "Qu'est-ce que la Maison de la Grande Région (Maison de la Grande Région / Haus der Großregion) ?",
+     "options": [
+      "Un musée à Bruxelles",
+      "Un bâtiment partagé à Esch-sur-Alzette (ouvert en 2015) qui abrite le Secrétariat du Sommet et ses partenaires œuvrant à la coopération transfrontalière",
+      "La résidence privée du Premier ministre",
+      "Un poste-frontière"
+     ],
+     "correct": 1,
+     "explanation": "Ouverte en 2015 à Esch-sur-Alzette, la Maison de la Grande Région est un lieu de rencontre et d'échange qui accueille le Secrétariat du Sommet du GECT, le secrétariat du Comité économique et social, l'autorité de gestion Interreg, la représentation de la Rhénanie-Palatinat et l'Espace Culturel."
+    },
+    {
+     "text": "Comment le Sommet de la Grande Région est-il dirigé ?",
+     "options": [
+      "Par le Luxembourg en permanence",
+      "Par la Commission européenne",
+      "Chaque région membre en assure la présidence à tour de rôle, pendant 24 mois à chaque fois",
+      "Par un seul président élu à vie"
+     ],
+     "correct": 2,
+     "explanation": "Le Sommet réunit les exécutifs des régions membres pour définir la stratégie. Sa présidence est tournante : chaque région la préside à tour de rôle pendant 24 mois, afin que personne ne domine – un partenariat entre égaux."
+    },
+    {
+     "text": "Lequel de ces éléments est un avantage concret au quotidien de la coopération transfrontalière dans la Grande Région ?",
+     "options": [
+      "Des frontières fermées entre les membres",
+      "Dans certaines zones frontalières, pouvoir se faire soigner de l'autre côté de la frontière, parfois sans coût supplémentaire",
+      "Une interdiction d'étudier à l'étranger",
+      "Des coûts plus élevés pour les travailleurs frontaliers"
+     ],
+     "correct": 1,
+     "explanation": "La coopération apporte de vrais avantages au quotidien : dans certaines zones frontalières, les citoyens peuvent recevoir des soins hospitaliers et d'urgence de l'autre côté de la frontière sans coût supplémentaire, l'Université de la Grande Région relie six universités dans quatre pays, et des calculateurs d'itinéraires transfrontaliers ainsi que des programmes de formation soutiennent le travail et la mobilité."
+    }
+   ]
+  },
+  "de": {
+   "title": "Das Haus der Großregion – vier Länder, ein Zuhause",
+   "description": "Die Großregion vereint 5 Regionen in 4 Ländern (Luxemburg sowie Teile Frankreichs, Deutschlands und Belgiens), 11,8 Millionen Menschen und rund 270 000 Grenzgänger pro Tag – die höchste Zahl in Europa. Koordiniert wird sie vom Haus der Großregion (Maison de la Grande Région / Haus der Großregion) in Esch an der Alzette, das 2015 eröffnet wurde und das Gipfelsekretariat sowie Partner beherbergt. Gemeinsam erleichtern sie den Alltag über die Grenzen hinweg – in Arbeit, Verkehr, Gesundheit, Studium und Kultur. Mehr unter granderegion.net.",
+   "topics": [
+    "5 Regionen, 4 Länder, 3 Sprachen",
+    "11,8 Millionen Menschen",
+    "~270 000 Grenzgänger pro Tag",
+    "Das Haus der Großregion (Esch, 2015)",
+    "Der Gipfel und der rotierende Vorsitz",
+    "Gipfelsekretariat und beratende Gremien",
+    "Arbeit, Verkehr und grenzüberschreitende Gesundheitsversorgung",
+    "Universität der Großregion und Kultur"
+   ],
+   "questions": [
+    {
+     "text": "Was ist die Großregion?",
+     "options": [
+      "Ein einzelnes Land in Mitteleuropa",
+      "Ein grenzüberschreitendes Gebiet aus 5 Regionen in 4 Ländern (Luxemburg sowie Teile Frankreichs, Deutschlands und Belgiens) mit 3 Sprachen",
+      "Eine Region, die vollständig innerhalb Luxemburgs liegt",
+      "Eine europäische politische Partei"
+     ],
+     "correct": 1,
+     "explanation": "Die Großregion ist ein grenzüberschreitender Kooperationsraum aus 5 Regionen in 4 Ländern – Luxemburg, Lothringen (Frankreich), das Saarland und Rheinland-Pfalz (Deutschland) sowie die Wallonie, die Föderation Wallonie-Brüssel und die Deutschsprachige Gemeinschaft (Belgien) – mit einer Fläche von rund 65 401 km², 11,8 Millionen Einwohnern und 3 Sprachen."
+    },
+    {
+     "text": "Was macht die Großregion in Bezug auf Grenzgänger bemerkenswert?",
+     "options": [
+      "Sie hat keine Grenzgänger",
+      "Sie zählt täglich etwa 270 000 Grenzgänger – die höchste Zahl in Europa",
+      "Das Pendeln über ihre Grenzen ist verboten",
+      "Nur etwa 1 000 Menschen überqueren täglich ihre Grenzen"
+     ],
+     "correct": 1,
+     "explanation": "Etwa 270 000 Menschen überqueren jeden Tag eine Grenze, um zur Arbeit zu gelangen – die höchste Zahl an Grenzgängern in Europa. Rund die Hälfte lebt in Frankreich und etwa drei Viertel arbeiten in Luxemburg."
+    },
+    {
+     "text": "Was ist das Haus der Großregion (Maison de la Grande Région / Haus der Großregion)?",
+     "options": [
+      "Ein Museum in Brüssel",
+      "Ein gemeinsames Gebäude in Esch an der Alzette (2015 eröffnet), das das Gipfelsekretariat und Partner beherbergt, die an der grenzüberschreitenden Zusammenarbeit arbeiten",
+      "Das private Wohnhaus des Premierministers",
+      "Ein Grenzübergang"
+     ],
+     "correct": 1,
+     "explanation": "Das 2015 in Esch an der Alzette eröffnete Haus der Großregion ist ein Ort der Begegnung und des Austauschs, der das EVTZ-Gipfelsekretariat, das Sekretariat des Wirtschafts- und Sozialausschusses, die Interreg-Verwaltungsbehörde, die Vertretung von Rheinland-Pfalz und den Espace Culturel beherbergt."
+    },
+    {
+     "text": "Wie wird der Gipfel der Großregion geleitet?",
+     "options": [
+      "Dauerhaft von Luxemburg",
+      "Von der Europäischen Kommission",
+      "Jede Mitgliedsregion führt den Vorsitz abwechselnd, jeweils 24 Monate lang",
+      "Von einem einzigen auf Lebenszeit gewählten Präsidenten"
+     ],
+     "correct": 2,
+     "explanation": "Der Gipfel bringt die Regierungen der Mitgliedsregionen zusammen, um die Strategie festzulegen. Der Vorsitz wechselt: Jede Region führt ihn abwechselnd 24 Monate lang, damit niemand dominiert – eine Partnerschaft unter Gleichen."
+    },
+    {
+     "text": "Welcher dieser Punkte ist ein konkreter Alltagsvorteil der grenzüberschreitenden Zusammenarbeit in der Großregion?",
+     "options": [
+      "Geschlossene Grenzen zwischen den Mitgliedern",
+      "In bestimmten Grenzgebieten medizinische Versorgung jenseits der Grenze in Anspruch nehmen zu können, manchmal ohne Mehrkosten",
+      "Ein Verbot, im Ausland zu studieren",
+      "Höhere Kosten für Grenzgänger"
+     ],
+     "correct": 1,
+     "explanation": "Die Zusammenarbeit bringt echte Alltagsvorteile: In manchen Grenzgebieten können Bürger jenseits der Grenze Kranken- und Notfallversorgung ohne Mehrkosten erhalten, die Universität der Großregion verbindet sechs Universitäten in vier Ländern, und grenzüberschreitende Routenplaner sowie Ausbildungsprogramme unterstützen Arbeit und Mobilität."
+    }
+   ]
+  }
+ },
+ "digitalinclusion": {
+  "fr": {
+   "title": "Digital Inclusion – un ordinateur, et les compétences pour s'en servir",
+   "description": "Digital Inclusion a.s.b.l. est une association sans but lucratif luxembourgeoise (fondée en 2016) qui comble la fracture numérique de trois façons : elle offre des ordinateurs reconditionnés gratuits aux personnes à faibles revenus et aux réfugiés (plus de 10 000 distribués à ce jour), elle enseigne les compétences numériques avec des cours gratuits dans de nombreuses langues et un Open Classroom en accès libre tous les vendredis, et elle protège l'environnement en donnant une seconde vie aux appareils reçus en don. Tout est sur digital-inclusion.lu ; le bureau à Bonnevoie est ouvert tous les jours de la semaine.",
+   "topics": [
+    "Combler la fracture numérique",
+    "Ordinateurs reconditionnés gratuits",
+    "Qui peut en bénéficier (AVC, réfugiés…)",
+    "Moins d'environ 1 mois d'attente",
+    "Cours d'informatique gratuits en plusieurs langues",
+    "Open Classroom en accès libre (les vendredis)",
+    "Réemploi et réparation : bon pour la planète",
+    "Faire don d'appareils, d'argent ou de temps"
+   ],
+   "questions": [
+    {
+     "text": "Qu'est-ce que Digital Inclusion a.s.b.l. ?",
+     "options": [
+      "Un magasin d'informatique qui vend des ordinateurs portables",
+      "Une association sans but lucratif luxembourgeoise qui aide chacun à accéder aux technologies de l'information",
+      "Un bureau des impôts de l'État",
+      "Un fournisseur d'accès à internet"
+     ],
+     "correct": 1,
+     "explanation": "Digital Inclusion est une association sans but lucratif (asbl) luxembourgeoise, fondée en 2016, dont la mission est d'aider chacun dans le pays à accéder aux technologies de l'information – à travers des ordinateurs gratuits, des cours gratuits et le réemploi d'équipements reçus en don."
+    },
+    {
+     "text": "Quels sont les trois objectifs de Digital Inclusion ?",
+     "options": [
+      "Vendre des appareils, faire du profit et faire de la publicité",
+      "Rendre l'informatique accessible à tous, favoriser l'inclusion sociale par la technologie, et agir pour l'environnement",
+      "Construire de nouveaux ordinateurs, former des ingénieurs et exporter du matériel",
+      "Fournir internet, des lignes téléphoniques et la télévision"
+     ],
+     "correct": 1,
+     "explanation": "Ses trois objectifs sont : rendre les technologies de l'information accessibles à tous (appareils, connectivité, littératie numérique) ; favoriser l'inclusion sociale par la technologie ; et agir pour l'environnement en réemployant et en réparant les équipements reçus en don."
+    },
+    {
+     "text": "Qui peut demander un ordinateur d'occasion gratuit à Digital Inclusion ?",
+     "options": [
+      "N'importe qui en Europe, sans condition",
+      "Les personnes vivant au Luxembourg qui remplissent une condition, comme percevoir l'allocation de vie chère (AVC) ou être réfugié",
+      "Seulement les citoyens luxembourgeois de plus de 65 ans",
+      "Seulement les étudiants à l'université"
+     ],
+     "correct": 1,
+     "explanation": "Vous devez vivre au Luxembourg et remplir une condition – par exemple votre ménage perçoit l'allocation de vie chère (AVC), vous êtes réfugié (demandeur d'asile, protection temporaire, mineur non accompagné), vous détenez un titre de séjour « Vie Privée », ou vous êtes engagé dans une procédure de règlement collectif des dettes. Le délai d'attente moyen est actuellement de moins d'un mois."
+    },
+    {
+     "text": "Qu'est-ce que l'« Open Classroom » ?",
+     "options": [
+      "Un cours en ligne payant",
+      "Une permanence d'aide informatique en accès libre tous les vendredis matin, sans rendez-vous",
+      "Une salle de classe que l'on peut louer pour des fêtes",
+      "Une école pour ingénieurs informaticiens"
+     ],
+     "correct": 1,
+     "explanation": "L'Open Classroom est une permanence d'aide numérique gratuite et en accès libre, tenue tous les vendredis matin (9h30–13h30) chez Digital Inclusion, où chacun peut obtenir de l'aide pour un problème numérique sans rendez-vous."
+    },
+    {
+     "text": "Pourquoi le travail de Digital Inclusion est-il aussi bon pour l'environnement ?",
+     "options": [
+      "Elle plante un arbre pour chaque ordinateur vendu",
+      "Elle donne aux appareils d'occasion reçus en don une deuxième (voire une troisième) vie au lieu de les laisser devenir des déchets électroniques",
+      "Elle fonctionne entièrement à l'énergie solaire",
+      "Elle recycle le papier"
+     ],
+     "correct": 1,
+     "explanation": "En collectant, réparant et redistribuant les ordinateurs portables, smartphones et tablettes reçus en don, Digital Inclusion évite que des appareils encore fonctionnels finissent à la poubelle – un seul geste qui aide une personne dans le besoin et réduit en même temps les déchets électroniques."
+    }
+   ]
+  },
+  "de": {
+   "title": "Digital Inclusion – ein Computer, und das Können, ihn zu nutzen",
+   "description": "Digital Inclusion a.s.b.l. ist ein gemeinnütziger Verein in Luxemburg (2016 gegründet), der die digitale Kluft auf drei Arten schließt: Er gibt kostenlose, wiederaufbereitete Computer an Menschen mit niedrigem Einkommen und an Flüchtlinge (bisher über 10 000 verteilt), er vermittelt digitale Kenntnisse mit kostenlosen Kursen in vielen Sprachen und einem offenen Open Classroom an jedem Freitag, und er schützt die Umwelt, indem er gespendeten Geräten ein zweites Leben gibt. Alles steht auf digital-inclusion.lu; das Büro in Bonnevoie ist an jedem Wochentag geöffnet.",
+   "topics": [
+    "Die digitale Kluft schließen",
+    "Kostenlose, wiederaufbereitete Computer",
+    "Wer Anspruch hat (AVC, Flüchtlinge…)",
+    "Unter ~1 Monat Wartezeit",
+    "Kostenlose IT-Kurse in vielen Sprachen",
+    "Offener Open Classroom (freitags)",
+    "Wiederverwenden und reparieren: gut für den Planeten",
+    "Geräte, Geld oder Zeit spenden"
+   ],
+   "questions": [
+    {
+     "text": "Was ist Digital Inclusion a.s.b.l.?",
+     "options": [
+      "Ein Computergeschäft, das Laptops verkauft",
+      "Ein gemeinnütziger Verein in Luxemburg, der jedem den Zugang zur Informationstechnologie ermöglicht",
+      "Ein staatliches Finanzamt",
+      "Ein Internetanbieter"
+     ],
+     "correct": 1,
+     "explanation": "Digital Inclusion ist ein gemeinnütziger Verein (asbl) in Luxemburg, 2016 gegründet, dessen Aufgabe es ist, allen Menschen im Land den Zugang zur Informationstechnologie zu ermöglichen – durch kostenlose Computer, kostenlose Kurse und die Wiederverwendung gespendeter Geräte."
+    },
+    {
+     "text": "Was sind die drei Ziele von Digital Inclusion?",
+     "options": [
+      "Geräte verkaufen, Gewinn machen und Werbung schalten",
+      "IT für alle zugänglich machen, soziale Inklusion durch Technik fördern und für die Umwelt handeln",
+      "Neue Computer bauen, Ingenieure ausbilden und Hardware exportieren",
+      "Internet, Telefonleitungen und Fernsehen bereitstellen"
+     ],
+     "correct": 1,
+     "explanation": "Seine drei Ziele sind: Informationstechnologie für alle zugänglich machen (Geräte, Konnektivität, digitale Kompetenz); soziale Inklusion durch Technik fördern; und für die Umwelt handeln, indem gespendete Geräte wiederverwendet und repariert werden."
+    },
+    {
+     "text": "Wer kann bei Digital Inclusion einen kostenlosen gebrauchten Computer beantragen?",
+     "options": [
+      "Jeder in Europa, ohne Bedingungen",
+      "Menschen, die in Luxemburg leben und eine Bedingung erfüllen, etwa die Teuerungszulage (AVC) beziehen oder Flüchtling sind",
+      "Nur luxemburgische Staatsbürger über 65",
+      "Nur Studierende an der Universität"
+     ],
+     "correct": 1,
+     "explanation": "Sie müssen in Luxemburg leben und eine Bedingung erfüllen – zum Beispiel bezieht Ihr Haushalt die Teuerungszulage (allocation de vie chère), Sie sind Flüchtling (Asylsuchender, vorübergehender Schutz, unbegleiteter Minderjähriger), Sie besitzen einen Aufenthaltstitel „Vie Privée“ oder Sie befinden sich in einem Schuldenregulierungsverfahren. Die durchschnittliche Wartezeit beträgt derzeit unter einem Monat."
+    },
+    {
+     "text": "Was ist das „Open Classroom“?",
+     "options": [
+      "Ein kostenpflichtiger Online-Kurs",
+      "Eine offene IT-Sprechstunde an jedem Freitagvormittag, ohne Terminvereinbarung",
+      "Ein Klassenraum, den man für Feiern mieten kann",
+      "Eine Schule für IT-Ingenieure"
+     ],
+     "correct": 1,
+     "explanation": "Das Open Classroom ist eine kostenlose, offene digitale Sprechstunde, die jeden Freitagvormittag (9:30–13:30 Uhr) bei Digital Inclusion stattfindet, bei der jeder ohne Termin Hilfe bei einem digitalen Problem erhalten kann."
+    },
+    {
+     "text": "Warum ist die Arbeit von Digital Inclusion auch gut für die Umwelt?",
+     "options": [
+      "Für jeden verkauften Computer wird ein Baum gepflanzt",
+      "Sie gibt gespendeten, gebrauchten Geräten ein zweites (und sogar drittes) Leben, statt sie zu Elektroschrott werden zu lassen",
+      "Sie läuft vollständig mit Solarstrom",
+      "Sie recycelt Papier"
+     ],
+     "correct": 1,
+     "explanation": "Indem Digital Inclusion gespendete Laptops, Smartphones und Tablets sammelt, repariert und weitergibt, hält der Verein funktionierende Geräte vom Müll fern – eine einzige Handlung, die einem bedürftigen Menschen hilft und zugleich Elektroschrott verringert."
+    }
+   ]
+  }
+ },
+ "onis": {
+  "fr": {
+   "title": "L'Office national d'inclusion sociale – bien plus qu'un chèque",
+   "description": "L'Office national d'inclusion sociale (ONIS) est l'administration de l'État qui s'occupe du volet « inclusion » du REVIS, le revenu d'inclusion sociale du Luxembourg. Tandis que le Fonds national de solidarité (FNS) verse l'argent, l'ONIS aide les personnes les plus éloignées de l'emploi à avancer – d'abord par des mesures de stabilisation, puis par des mesures d'activation. Vous signez une déclaration de collaboration, vous êtes mis en relation avec un agent régional d'inclusion sociale (ARIS) près de chez vous, et ensemble vous construisez un plan d'activation personnel. Créé par la loi REVIS de 2018, il a commencé son travail en 2019. Plus d'informations sur onis.gouvernement.lu.",
+   "topics": [
+    "L'ONIS et le volet inclusion du REVIS",
+    "L'argent (FNS) vs l'inclusion (ONIS)",
+    "Aider les plus éloignés de l'emploi",
+    "Mesures de stabilisation puis d'activation",
+    "La déclaration de collaboration",
+    "Agents régionaux (ARIS) dans les offices sociaux",
+    "Construire un plan d'activation personnel",
+    "Accompagner, ne pas abandonner"
+   ],
+   "questions": [
+    {
+     "text": "Quel est le rôle de l'Office national d'inclusion sociale (ONIS) ?",
+     "options": [
+      "Il verse les pensions",
+      "Il s'occupe du volet « inclusion » du REVIS – aider les personnes les plus éloignées de l'emploi à avancer",
+      "Il gère les passeports et les cartes d'identité",
+      "Il perçoit les impôts"
+     ],
+     "correct": 1,
+     "explanation": "L'ONIS est l'administration de l'État responsable du volet « inclusion » du REVIS (le revenu d'inclusion sociale). Créé par la loi REVIS de 2018 et opérationnel depuis 2019, sa mission est de stabiliser et d'activer les personnes les plus éloignées du marché du travail."
+    },
+    {
+     "text": "Le REVIS a deux facettes. Qui fait quoi ?",
+     "options": [
+      "L'ONIS verse l'argent et le FNS trouve les emplois",
+      "Le Fonds national de solidarité (FNS) verse l'argent ; l'ONIS s'occupe de l'inclusion et de l'activation",
+      "Les deux sont financés par les communes",
+      "Le REVIS n'est qu'un chèque, sans autre facette"
+     ],
+     "correct": 1,
+     "explanation": "Le REVIS – le revenu d'inclusion sociale – a deux facettes : le Fonds national de solidarité (FNS) verse l'argent chaque mois, tandis que l'ONIS s'occupe du volet inclusion, en aidant la personne à se rapprocher à nouveau du travail et de la société."
+    },
+    {
+     "text": "Quelle est la différence entre les mesures de stabilisation et les mesures d'activation ?",
+     "options": [
+      "C'est la même chose",
+      "Les mesures de stabilisation aident une personne pas encore prête pour l'emploi (santé, difficultés personnelles) ; les mesures d'activation sont des étapes vers l'emploi (compétences, expérience)",
+      "La stabilisation est pour les entreprises ; l'activation est pour les écoles",
+      "L'activation vient d'abord, puis la stabilisation"
+     ],
+     "correct": 1,
+     "explanation": "L'ONIS travaille au rythme de la personne : les mesures de stabilisation viennent d'abord pour celles qui ne sont pas encore prêtes pour un emploi (régler des difficultés de santé, personnelles ou de la vie quotidienne), puis les mesures d'activation engagent des étapes vers le travail, comme développer des compétences et acquérir de l'expérience."
+    },
+    {
+     "text": "Lorsque vous percevez le REVIS, comment l'ONIS travaille-t-il avec vous ?",
+     "options": [
+      "Il envoie une lettre et rien de plus",
+      "Vous signez une déclaration de collaboration et vous êtes mis en relation avec un agent régional d'inclusion sociale (ARIS), avec qui vous construisez un plan d'activation personnel",
+      "Vous devez trouver un emploi par vous-même en une semaine, sinon vous perdez la prestation",
+      "Vous êtes affecté à un seul office central dans la capitale"
+     ],
+     "correct": 1,
+     "explanation": "Vous êtes invité à un entretien, vous signez une déclaration de collaboration (un engagement mutuel), et vous êtes mis en relation avec un agent régional d'inclusion sociale (ARIS) travaillant dans un office social local. Ensemble, vous construisez un plan d'activation personnel adapté à votre situation."
+    },
+    {
+     "text": "Quel est l'esprit qui sous-tend le travail de l'ONIS ?",
+     "options": [
+      "Punir les personnes qui n'ont pas d'emploi",
+      "Accompagner les personnes vers le travail et la société à leur propre rythme – « l'inclusion, pas l'abandon »",
+      "Réduire le nombre de bénéficiaires le plus vite possible",
+      "Remplacer le Fonds national de solidarité"
+     ],
+     "correct": 1,
+     "explanation": "L'objectif est d'accompagner, pas d'abandonner : le REVIS demande une participation (la déclaration de collaboration), mais l'idée est de soutenir chaque personne à son propre rythme, autour de ses propres obstacles, pour qu'un revenu minimum devienne un pont vers l'inclusion plutôt qu'une impasse."
+    }
+   ]
+  },
+  "de": {
+   "title": "Das Nationale Amt für soziale Eingliederung – mehr als ein Scheck",
+   "description": "Das Nationale Amt für soziale Eingliederung (Office national d'inclusion sociale, ONIS) ist die staatliche Behörde, die sich um die „Eingliederungsseite“ des REVIS kümmert, Luxemburgs Eingliederungseinkommen. Während der Nationale Solidaritätsfonds (FNS) das Geld auszahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen – zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen. Sie unterschreiben eine Kooperationserklärung, werden einem regionalen Eingliederungsagenten (ARIS) in Ihrer Nähe zugeordnet, und gemeinsam erstellen Sie einen persönlichen Aktivierungsplan. Durch das REVIS-Gesetz von 2018 geschaffen, nahm es 2019 seine Arbeit auf. Mehr unter onis.gouvernement.lu.",
+   "topics": [
+    "ONIS und die Eingliederungsseite des REVIS",
+    "Geld (FNS) vs. Eingliederung (ONIS)",
+    "Den am weitesten von Arbeit Entfernten helfen",
+    "Stabilisierung, dann Aktivierungsmaßnahmen",
+    "Die Kooperationserklärung",
+    "Regionale Agenten (ARIS) in Sozialämtern",
+    "Einen persönlichen Aktivierungsplan erstellen",
+    "Begleiten, nicht im Stich lassen"
+   ],
+   "questions": [
+    {
+     "text": "Welche Rolle hat das Nationale Amt für soziale Eingliederung (ONIS)?",
+     "options": [
+      "Es zahlt Pensionen aus",
+      "Es kümmert sich um die „Eingliederungsseite“ des REVIS – es hilft den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen",
+      "Es verwaltet Reisepässe und Personalausweise",
+      "Es zieht Steuern ein"
+     ],
+     "correct": 1,
+     "explanation": "ONIS ist die staatliche Verwaltung, die für die „Eingliederungsseite“ des REVIS (des Eingliederungseinkommens) zuständig ist. Durch das REVIS-Gesetz von 2018 geschaffen und seit 2019 tätig, ist ihre Aufgabe, Menschen, die dem Arbeitsmarkt am fernsten stehen, zu stabilisieren und zu aktivieren."
+    },
+    {
+     "text": "Das REVIS hat zwei Seiten. Wer macht was?",
+     "options": [
+      "ONIS zahlt das Geld und der FNS findet die Jobs",
+      "Der Nationale Solidaritätsfonds (FNS) zahlt das Geld; ONIS kümmert sich um Eingliederung und Aktivierung",
+      "Beides wird von den Gemeinden bezahlt",
+      "Das REVIS ist nur ein Scheck, ohne weitere Seite"
+     ],
+     "correct": 1,
+     "explanation": "Das REVIS – das Eingliederungseinkommen – hat zwei Seiten: Der Nationale Solidaritätsfonds (FNS) zahlt das Geld jeden Monat aus, während ONIS sich um die Eingliederungsseite kümmert und der Person hilft, sich wieder der Arbeit und der Gesellschaft anzunähern."
+    },
+    {
+     "text": "Was ist der Unterschied zwischen Stabilisierungs- und Aktivierungsmaßnahmen?",
+     "options": [
+      "Sie sind dasselbe",
+      "Stabilisierungsmaßnahmen helfen jemandem, der noch nicht bereit für eine Arbeit ist (Gesundheit, persönliche Schwierigkeiten); Aktivierungsmaßnahmen sind Schritte in Richtung Arbeit (Fähigkeiten, Erfahrung)",
+      "Stabilisierung ist für Unternehmen; Aktivierung ist für Schulen",
+      "Aktivierung kommt zuerst, dann Stabilisierung"
+     ],
+     "correct": 1,
+     "explanation": "ONIS arbeitet im Tempo der Person: Stabilisierungsmaßnahmen kommen zuerst für diejenigen, die noch nicht bereit für eine Arbeit sind (gesundheitliche, persönliche oder alltägliche Schwierigkeiten klären), dann setzen Aktivierungsmaßnahmen Schritte in Richtung Arbeit, etwa Fähigkeiten aufbauen und Erfahrung sammeln."
+    },
+    {
+     "text": "Wenn Sie REVIS beziehen, wie arbeitet ONIS mit Ihnen?",
+     "options": [
+      "Es schickt einen Brief und sonst nichts",
+      "Sie unterschreiben eine Kooperationserklärung und werden einem regionalen Eingliederungsagenten (ARIS) zugeordnet, mit dem Sie einen persönlichen Aktivierungsplan erstellen",
+      "Sie müssen innerhalb einer Woche selbst einen Job finden, sonst verlieren Sie die Leistung",
+      "Sie werden einem einzigen zentralen Amt in der Hauptstadt zugewiesen"
+     ],
+     "correct": 1,
+     "explanation": "Sie werden zu einem Gespräch eingeladen, unterschreiben eine Kooperationserklärung (eine gegenseitige Verpflichtung) und werden einem regionalen Eingliederungsagenten (ARIS) zugeordnet, der in einem örtlichen Sozialamt arbeitet. Gemeinsam erstellen Sie einen persönlichen Aktivierungsplan, der auf Ihre Situation zugeschnitten ist."
+    },
+    {
+     "text": "Was ist der zugrunde liegende Geist der Arbeit von ONIS?",
+     "options": [
+      "Menschen dafür zu bestrafen, dass sie keine Arbeit haben",
+      "Menschen in ihrem eigenen Tempo zurück zu Arbeit und Gesellschaft zu begleiten – „Eingliederung, nicht im Stich lassen“",
+      "Die Zahl der Leistungsempfänger so schnell wie möglich zu senken",
+      "Den Nationalen Solidaritätsfonds zu ersetzen"
+     ],
+     "correct": 1,
+     "explanation": "Das Ziel ist zu begleiten, nicht im Stich zu lassen: Das REVIS verlangt Mitwirkung (die Kooperationserklärung), aber der Ansatz ist, jede Person in ihrem eigenen Tempo rund um ihre eigenen Hindernisse zu unterstützen, damit ein Mindesteinkommen zu einer Brücke zurück in die Gesellschaft wird statt zu einer Sackgasse."
+    }
+   ]
+  }
+ },
+ "workinluxembourg": {
+  "fr": {
+   "title": "Work in Luxembourg – une seule porte d'entrée vers une nouvelle vie",
+   "description": "Work in Luxembourg (workinluxembourg.com) est un portail officiel, mis en place par l'État : une porte d'entrée unique pour les talents internationaux qui veulent travailler et vivre au Luxembourg. Il est organisé en trois sections – Work here, Live here et Get started – et soutenu par les principaux acteurs économiques et de l'emploi du pays, dont l'ADEM. Son Job Board vous met en relation avec de vraies offres d'emploi via l'ADEM (environ 11 000 candidats présélectionnés), et son Talent Desk offre un accompagnement personnalisé et humain ; pour les métiers en pénurie, les professionnels hors UE peuvent bénéficier de démarches d'immigration plus rapides.",
+   "topics": [
+    "Une « porte d'entrée unique » officielle",
+    "Mis en place par l'État, avec l'ADEM et ses partenaires",
+    "Work here / Live here / Get started",
+    "Job Board relié à l'ADEM (~11 000 candidats)",
+    "Métiers en pénurie et immigration plus rapide",
+    "Le Talent Desk : un accompagnement humain",
+    "Pour les talents et pour les employeurs",
+    "workinluxembourg.com"
+   ],
+   "questions": [
+    {
+     "text": "Qu'est-ce que le portail Work in Luxembourg ?",
+     "options": [
+      "Une agence de recrutement privée",
+      "Un site officiel, mis en place par l'État, qui est une porte d'entrée unique pour travailler et vivre au Luxembourg",
+      "Un réseau social pour touristes",
+      "Une banque pour travailleurs internationaux"
+     ],
+     "correct": 1,
+     "explanation": "Work in Luxembourg (workinluxembourg.com) est une initiative officielle, mise en place par l'État – un point d'entrée unique qui rassemble les informations sur le travail et la vie au Luxembourg, avec en plus un job board, principalement destiné aux talents internationaux et aux employeurs."
+    },
+    {
+     "text": "Quelles sont les trois sections principales du portail ?",
+     "options": [
+      "Acheter, Vendre, Louer",
+      "Work here, Live here et Get started",
+      "Actualités, Sport, Météo",
+      "Visa, Impôts, Pension"
+     ],
+     "correct": 1,
+     "explanation": "Le portail est organisé en « Work here » (le marché du travail, les secteurs, les carrières, les conditions de travail), « Live here » (logement, famille, éducation, santé, culture) et « Get started » (immigration/titres de séjour, recherche d'emploi, logement et un guide de relocation, ainsi qu'un Employer Toolkit)."
+    },
+    {
+     "text": "Comment fonctionne le Job Board du portail ?",
+     "options": [
+      "Il liste des offres provenant de sites au hasard",
+      "Il est relié à la plateforme de recrutement international de l'ADEM, avec des offres mises à jour chaque jour et environ 11 000 candidats présélectionnés",
+      "Il n'affiche que des emplois publics",
+      "Il faut payer pour voir les offres"
+     ],
+     "correct": 1,
+     "explanation": "Le Job Board est connecté directement à l'ADEM (le service public de l'emploi national) et à sa plateforme de recrutement international. Les offres sont mises à jour chaque jour, vous pouvez créer un profil et postuler, et le vivier compte déjà environ 11 000 candidats présélectionnés par l'ADEM."
+    },
+    {
+     "text": "Qu'est-ce que le Talent Desk ?",
+     "options": [
+      "Un comptoir où l'on achète du mobilier de bureau",
+      "Un service offrant un accompagnement personnalisé et humain pour guider les talents (et les entreprises) à travers les démarches administratives et d'intégration",
+      "Un quiz en ligne sur le Luxembourg",
+      "Une ligne d'assistance réservée aux touristes"
+     ],
+     "correct": 1,
+     "explanation": "Le Talent Desk complète le site par un accompagnement personnalisé et humain : il informe, conseille et guide les talents internationaux à travers les démarches administratives et d'intégration, les met en relation avec les bonnes institutions, et soutient aussi les entreprises dans leur recrutement international."
+    },
+    {
+     "text": "Pourquoi un professionnel venu de l'extérieur de l'UE peut-il avoir plus de facilité à s'installer pour certains emplois ?",
+     "options": [
+      "Parce que toute immigration est automatique",
+      "Parce que pour les emplois figurant sur la liste des « métiers en pénurie » du Luxembourg, les professionnels hors UE peuvent bénéficier de démarches d'immigration plus rapides",
+      "Parce qu'il n'y a aucune règle pour les travailleurs hors UE",
+      "Parce qu'ils ne paient pas d'impôts"
+     ],
+     "correct": 1,
+     "explanation": "Le Luxembourg publie une liste des « métiers en pénurie » – les métiers où les travailleurs sont le plus nécessaires. Pour les professionnels venus de l'extérieur de l'UE travaillant dans ces métiers, les démarches d'immigration peuvent être plus rapides et plus simples."
+    }
+   ]
+  },
+  "de": {
+   "title": "Work in Luxembourg – eine Tür zu einem neuen Leben",
+   "description": "Work in Luxembourg (workinluxembourg.com) ist ein offizielles, staatlich geführtes Portal: eine einzige Eingangstür für internationale Fachkräfte, die in Luxemburg arbeiten und leben möchten. Es ist in drei Bereiche gegliedert – Work here, Live here und Get started – und wird von den wichtigsten Wirtschafts- und Arbeitsmarktakteuren des Landes getragen, darunter ADEM. Das Job Board verbindet Sie über ADEM mit echten Stellenangeboten (rund 11 000 vorausgewählte Kandidaten), und der Talent Desk bietet eine persönliche, menschliche Begleitung; für Mangelberufe können Fachkräfte von außerhalb der EU von schnelleren Einwanderungsverfahren profitieren.",
+   "topics": [
+    "Eine offizielle „einzige Eingangstür“",
+    "Staatlich geführt, mit ADEM und Partnern",
+    "Work here / Live here / Get started",
+    "Job Board mit ADEM verbunden (~11 000 Kandidaten)",
+    "Mangelberufe und schnellere Einwanderung",
+    "Der Talent Desk: menschliche Begleitung",
+    "Für Fachkräfte und für Arbeitgeber",
+    "workinluxembourg.com"
+   ],
+   "questions": [
+    {
+     "text": "Was ist das Portal Work in Luxembourg?",
+     "options": [
+      "Eine private Personalvermittlung",
+      "Eine offizielle, staatlich geführte Website, die eine einzige Eingangstür zum Arbeiten und Leben in Luxemburg ist",
+      "Ein soziales Netzwerk für Touristen",
+      "Eine Bank für internationale Arbeitskräfte"
+     ],
+     "correct": 1,
+     "explanation": "Work in Luxembourg (workinluxembourg.com) ist eine offizielle, staatlich geführte Initiative – eine einzige Anlaufstelle, die Informationen zum Arbeiten und Leben in Luxemburg sowie ein Job Board bündelt und sich vor allem an internationale Fachkräfte und Arbeitgeber richtet."
+    },
+    {
+     "text": "Was sind die drei Hauptbereiche des Portals?",
+     "options": [
+      "Kaufen, Verkaufen, Mieten",
+      "Work here, Live here und Get started",
+      "Nachrichten, Sport, Wetter",
+      "Visum, Steuern, Pension"
+     ],
+     "correct": 1,
+     "explanation": "Das Portal ist in „Work here“ (Arbeitsmarkt, Branchen, Karrieren, Arbeitsbedingungen), „Live here“ (Wohnen, Familie, Bildung, Gesundheit, Kultur) und „Get started“ (Einwanderung/Aufenthaltstitel, Jobsuche, Wohnen und ein Umzugsleitfaden sowie ein Employer Toolkit) gegliedert."
+    },
+    {
+     "text": "Wie funktioniert das Job Board des Portals?",
+     "options": [
+      "Es listet Jobs von zufälligen Websites auf",
+      "Es ist mit der internationalen Rekrutierungsplattform von ADEM verbunden, mit täglich aktualisierten Stellen und rund 11 000 vorausgewählten Kandidaten",
+      "Es zeigt nur Stellen im öffentlichen Dienst",
+      "Man muss bezahlen, um die Jobs zu sehen"
+     ],
+     "correct": 1,
+     "explanation": "Das Job Board ist direkt mit ADEM (dem nationalen öffentlichen Arbeitsvermittlungsdienst) und seiner internationalen Rekrutierungsplattform verbunden. Die Stellen werden täglich aktualisiert, Sie können ein Profil erstellen und sich bewerben, und der Pool umfasst bereits rund 11 000 von ADEM vorausgewählte Kandidaten."
+    },
+    {
+     "text": "Was ist der Talent Desk?",
+     "options": [
+      "Ein Tresen, an dem man Büromöbel kauft",
+      "Ein Dienst, der persönliche, menschliche Unterstützung bietet, um Fachkräfte (und Unternehmen) durch die administrativen und integrativen Schritte zu begleiten",
+      "Ein Online-Quiz über Luxemburg",
+      "Eine Hotline nur für Touristen"
+     ],
+     "correct": 1,
+     "explanation": "Der Talent Desk ergänzt die Website durch persönliche, menschliche Unterstützung: Er informiert, berät und begleitet internationale Fachkräfte durch den administrativen und integrativen Prozess, vermittelt sie an die richtigen Institutionen und unterstützt auch Unternehmen bei der internationalen Rekrutierung."
+    },
+    {
+     "text": "Warum könnte es für eine Fachkraft von außerhalb der EU bei bestimmten Jobs leichter sein, umzuziehen?",
+     "options": [
+      "Weil jede Einwanderung automatisch erfolgt",
+      "Weil für Jobs auf Luxemburgs Liste der „Mangelberufe“ Fachkräfte von außerhalb der EU von schnelleren Einwanderungsverfahren profitieren können",
+      "Weil es für Arbeitskräfte von außerhalb der EU keine Regeln gibt",
+      "Weil sie keine Steuern zahlen"
+     ],
+     "correct": 1,
+     "explanation": "Luxemburg veröffentlicht eine Liste der „Mangelberufe“ – Berufe, in denen Arbeitskräfte am dringendsten gebraucht werden. Für Fachkräfte von außerhalb der EU, die in diesen Berufen arbeiten, können die Einwanderungsverfahren schneller und reibungsloser sein."
+    }
+   ]
+  }
+ }
+}
