@@ -58165,5 +58165,2704 @@ const EPISODES = [
     "t": 686.17
    }
   ]
+ },
+ {
+  "id": 17,
+  "key": "habitat",
+  "number": "Episode 17",
+  "title": "The Observatoire de l'Habitat – Understanding Luxembourg's Housing Market",
+  "description": "What the Observatoire de l'Habitat is, what it watches (sale prices, rents, land and affordability), where its reliable data comes from (notarial deeds), its partnership with the research institute LISER, and how anyone can explore housing prices by commune on data.public.lu.",
+  "audio": "podcast_habitat.mp3",
+  "duration": 589.37,
+  "topics": [
+   "What the Observatoire de l'Habitat is",
+   "Created in 2003, Ministry of Housing",
+   "Watching prices, rents & land",
+   "Reliable data from notarial deeds",
+   "Partnership with LISER",
+   "Why apartments, not houses",
+   "Explore data by commune (data.public.lu)",
+   "Affordability & the effort rate"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome back!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's a pleasure to have you with us today.",
+    "t": 2.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border workers too, to understand the country a little better.",
+    "t": 14.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today's topic is one that almost everyone in Luxembourg talks about... housing.",
+    "t": 22.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Where to live, how much it costs, whether to rent or buy... these are big questions, and big numbers.",
+    "t": 27.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "But here is something many people don't know.",
+    "t": 34.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Luxembourg has an official body whose job is to study all of this... carefully, and with real data.",
+    "t": 37.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is called the Observatoire de l'Habitat.",
+    "t": 43.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "In English, we could say the Housing Observatory.",
+    "t": 47.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "I like that word, \"observatory\".",
+    "t": 50.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "It sounds like a place where people watch the stars.",
+    "t": 53.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's a nice image!",
+    "t": 57.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "But instead of watching the stars, this observatory watches the housing market.",
+    "t": 59.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Anna, what exactly is the Observatoire de l'Habitat?",
+    "t": 64.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "It was created in 2003, inside the Ministry responsible for housing... today that is the Ministry of Housing and Spatial Planning.",
+    "t": 69.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "And its purpose is to produce reliable information about housing in Luxembourg.",
+    "t": 77.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Information that helps the government plan its housing policy, and that also informs the public... people like you and me.",
+    "t": 82.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "So it has really two jobs.",
+    "t": 90.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "First, to support decision-makers, and second, to inform citizens.",
+    "t": 92.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactly.",
+    "t": 98.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Its mission is to collect information, to analyse it, and then to share it openly.",
+    "t": 99.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Collect, analyse, share.",
+    "t": 105.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's a good way to remember it.",
+    "t": 108.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it does not work completely alone.",
+    "t": 111.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "It has a key partner... a research institute called LISER.",
+    "t": 114.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "LISER is the Luxembourg Institute of Socio-Economic Research.",
+    "t": 118.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is a public research centre.",
+    "t": 123.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "They bring scientific rigour... proper methods, careful analysis.",
+    "t": 125.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "So the numbers you get are solid, not guesses.",
+    "t": 130.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Good.",
+    "t": 134.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "So what does the Observatoire actually watch?",
+    "t": 136.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "What does it measure?",
+    "t": 139.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Several things.",
+    "t": 141.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "First, the sale prices of homes... how much it costs to buy.",
+    "t": 144.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second, rents... how much it costs to rent a home.",
+    "t": 148.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third, the price of land... building land, where new homes can go.",
+    "t": 152.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "And it goes further than just prices, doesn't it?",
+    "t": 157.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 161.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "It also studies how much building land is actually available, and who owns it.",
+    "t": 162.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's called land observation, or in French, the \"observation foncière\".",
+    "t": 168.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "They even do a kind of census of building land.",
+    "t": 173.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "It also follows how many new homes are being produced, year after year.",
+    "t": 176.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "And there is a more human side too... the social and economic side.",
+    "t": 181.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Right.",
+    "t": 186.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "The Observatoire studies housing affordability... whether people can actually afford to live where they need to.",
+    "t": 187.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "And it looks at how public policies affect the cost of housing.",
+    "t": 194.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "So it's not just numbers, it's about real life.",
+    "t": 198.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's talk about where these numbers come from, because that's important for trust.",
+    "t": 202.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Yes.",
+    "t": 207.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "If you give people figures, they want to know the figures are real.",
+    "t": 209.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "So, for sale prices, the data comes from notarial deeds.",
+    "t": 213.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Every time a property is sold, a notary records it officially.",
+    "t": 218.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Those official records are passed each month to the Observatoire, by the Registration and Domains Administration.",
+    "t": 222.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "And they are completed with information from the Land Registry and Cadastre, for example the surface area of each apartment.",
+    "t": 229.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "So these are not adverts or estimates.",
+    "t": 236.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "They are real, completed sales.",
+    "t": 240.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's about as reliable as it gets.",
+    "t": 243.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "For rents, it's a bit different.",
+    "t": 246.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Rent data comes mostly from property listings... homes advertised for rent.",
+    "t": 249.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "So rents reflect what is being asked on the market, while sale prices reflect deals that actually happened.",
+    "t": 254.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is one interesting limit, though.",
+    "t": 260.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "The Observatoire publishes detailed prices for apartments, but not for houses.",
+    "t": 263.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Why is that, Anna?",
+    "t": 269.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Because for apartments, there is good data on the surface area, so you can calculate a fair price per square metre.",
+    "t": 271.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "But for individual houses, that detailed surface information isn't available in the same way.",
+    "t": 278.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "So rather than publish numbers that could mislead people, they choose not to publish detailed house prices.",
+    "t": 284.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's honest.",
+    "t": 291.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "I respect that.",
+    "t": 293.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Better to say \"we don't have reliable data\" than to invent it.",
+    "t": 295.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now, let's give some real numbers, so this feels concrete.",
+    "t": 299.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Yes please.",
+    "t": 304
+   },
+   {
+    "speaker": "Tom",
+    "text": "What does an apartment actually cost?",
+    "t": 305.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "In the third quarter of 2025, an existing apartment cost on average about 7,600 euros per square metre.",
+    "t": 309.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "And a brand-new apartment, still under construction, was higher... around 10,000 euros per square metre.",
+    "t": 317.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "These are averages, of course.",
+    "t": 324.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "The price depends a lot on the commune, and on the quality of the home.",
+    "t": 327.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "And the numbers move every quarter.",
+    "t": 331.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "They go up, they go down.",
+    "t": 334.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's exactly why the Observatoire keeps watching.",
+    "t": 337.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "For example, in that same period, the price of existing apartments had actually fallen a little compared with the quarter before.",
+    "t": 340.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "So the market is not just one straight line going up.",
+    "t": 348.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "It breathes... it changes.",
+    "t": 352.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "And here is the part I love.",
+    "t": 355.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "All of this data is public, and you can explore it yourself.",
+    "t": 358.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "The statistics, broken down by commune, are published on the national open-data platform, data dot public dot lu.",
+    "t": 362.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "So you can look up your own commune, and see how prices have moved there.",
+    "t": 369.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is even a price simulator on the Observatoire's website, to help you get an idea.",
+    "t": 374.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Imagine you are thinking of buying or renting in a certain town.",
+    "t": 379.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can check the typical prices before you start.",
+    "t": 383.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's real power for ordinary people.",
+    "t": 387.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Information that used to be hard to find is now open to everyone.",
+    "t": 390.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "The Observatoire also publishes reports and notes, written in plain language, on specific questions.",
+    "t": 395.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "For example, there have been reports on how prices have changed over the very long term... going back to the 1970s.",
+    "t": 402.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "And reports on the rental market, and even on the regulation of rents... the rules that protect tenants.",
+    "t": 409.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "So if a topic is in the news, there's often a serious, neutral study you can read about it.",
+    "t": 415.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's come back to that word, affordability, because it matters so much here.",
+    "t": 421.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Affordability means... can people actually pay for their housing, without it taking over their whole budget?",
+    "t": 426.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "The Observatoire looks at the \"effort rate\"... the share of your income that goes to housing.",
+    "t": 433.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "And it compares Luxembourg with neighbouring countries, to put things in context.",
+    "t": 438.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "This kind of analysis helps everyone see the real situation clearly, instead of just guessing or worrying.",
+    "t": 443.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "And it helps the government design better policies, like support for tenants, or building more affordable homes.",
+    "t": 450.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's not forget the land side, because in a small country, land is precious.",
+    "t": 457.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "The Observatoire studies how much building land exists, and how much of it is actually being used.",
+    "t": 462.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sometimes land is available on paper, but it is not built on.",
+    "t": 468.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Understanding that helps plan for the future.",
+    "t": 473.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "So in a way, the Observatoire is like a health check for the whole housing system.",
+    "t": 476.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's a lovely way to put it.",
+    "t": 481.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "It measures the temperature, it spots the trends, and it shares the diagnosis with everyone.",
+    "t": 484.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Anna, let's make this practical.",
+    "t": 490.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "How can a normal person actually use all this?",
+    "t": 493.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "First, before you rent or buy, check the typical prices in the commune you are interested in.",
+    "t": 496.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second, if you want to understand a debate in the news, look for an Observatoire report on that topic.",
+    "t": 503.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third, remember that the numbers are official and neutral.",
+    "t": 509.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "They are not trying to sell you anything.",
+    "t": 513.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fourth... knowledge reduces stress.",
+    "t": 516.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Housing is emotional, but good information helps you make calmer decisions.",
+    "t": 519.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's bring it all together.",
+    "t": 524.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "What should people remember about the Observatoire de l'Habitat?",
+    "t": 526.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "First... it is Luxembourg's official housing observatory, created in 2003, within the Ministry of Housing.",
+    "t": 530.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second... it watches sale prices, rents, land, and how affordable housing really is, with help from the research institute LISER.",
+    "t": 538.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third... its data is reliable, because sale prices come from real, notarised transactions.",
+    "t": 547.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fourth... the data is public.",
+    "t": 553.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can explore prices by commune on data dot public dot lu, and read clear reports.",
+    "t": 556.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fifth... you can use it in your own life, to make better, calmer housing decisions.",
+    "t": 562.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Housing can feel overwhelming.",
+    "t": 567.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "But you are not powerless.",
+    "t": 570.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is solid, honest information out there for you.",
+    "t": 572.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "And knowing where to find it is half the battle.",
+    "t": 576.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening today.",
+    "t": 579.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care, and see you in the next episode.",
+    "t": 582.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 586.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 587.84
+   }
+  ],
+  "questions": [
+   {
+    "text": "What is the Observatoire de l'Habitat?",
+    "options": [
+     "A private real-estate agency that sells homes",
+     "Luxembourg's official body that collects, analyses and shares information about housing",
+     "A bank that gives out mortgages",
+     "A construction company"
+    ],
+    "correct": 1,
+    "explanation": "The Observatoire de l'Habitat is Luxembourg's official housing observatory, created in 2003 within the Ministry of Housing. Its job is to collect, analyse and share reliable information about housing, and to help plan housing policy."
+   },
+   {
+    "text": "Where do the Observatoire's sale-price figures mainly come from?",
+    "options": [
+     "Estimates from social media",
+     "Real, notarised property transactions (notarial deeds)",
+     "Asking prices in shop windows",
+     "A yearly opinion survey"
+    ],
+    "correct": 1,
+    "explanation": "Sale prices come from notarial deeds — official records of completed sales — passed each month to the Observatoire by the Registration and Domains Administration and completed with Land Registry data. That makes them very reliable."
+   },
+   {
+    "text": "Which research institute is a key partner of the Observatoire?",
+    "options": [
+     "STATEC only",
+     "LISER, the Luxembourg Institute of Socio-Economic Research",
+     "The European Central Bank",
+     "A private consultancy"
+    ],
+    "correct": 1,
+    "explanation": "LISER, the Luxembourg Institute of Socio-Economic Research, is a public research centre and a key partner that brings scientific methods to the Observatoire's analyses."
+   },
+   {
+    "text": "Why does the Observatoire publish detailed prices for apartments but not for individual houses?",
+    "options": [
+     "Because houses are not sold in Luxembourg",
+     "Because reliable surface-area data exists for apartments, but not in the same way for houses",
+     "Because houses are always cheaper",
+     "Because the law forbids it"
+    ],
+    "correct": 1,
+    "explanation": "For apartments, good data on surface area allows a fair price per square metre to be calculated. That detailed information isn't available in the same way for houses, so rather than publish misleading figures, the Observatoire does not publish detailed house prices."
+   },
+   {
+    "text": "Where can the public explore the Observatoire's housing data by commune?",
+    "options": [
+     "Only by visiting the Ministry in person",
+     "On the national open-data platform, data.public.lu",
+     "Only in a paid printed report",
+     "On private property websites"
+    ],
+    "correct": 1,
+    "explanation": "The Observatoire's statistics, broken down by commune, are published openly on data.public.lu, and the website also offers a price simulator — so anyone can look up typical prices in their area."
+   }
+  ],
+  "categories": [
+   "housing"
+  ],
+  "title_fr": "L'Observatoire de l'Habitat – comprendre le marché du logement au Luxembourg",
+  "description_fr": "Ce qu'est l'Observatoire de l'Habitat, ce qu'il observe (prix de vente, loyers, terrains et abordabilité), d'où viennent ses données fiables (actes notariés), son partenariat avec l'institut de recherche LISER, et comment chacun peut consulter les prix du logement par commune sur data.public.lu.",
+  "topics_fr": [
+   "Ce qu'est l'Observatoire de l'Habitat",
+   "Créé en 2003, Ministère du Logement",
+   "Suivre prix, loyers & terrains",
+   "Des données fiables issues des actes notariés",
+   "Le partenariat avec le LISER",
+   "Pourquoi les appartements, pas les maisons",
+   "Explorer les données par commune (data.public.lu)",
+   "Abordabilité & taux d'effort"
+  ],
+  "questions_fr": [
+   {
+    "text": "Qu'est-ce que l'Observatoire de l'Habitat ?",
+    "options": [
+     "Une agence immobilière privée qui vend des logements",
+     "L'organisme officiel du Luxembourg qui collecte, analyse et diffuse l'information sur le logement",
+     "Une banque qui accorde des prêts immobiliers",
+     "Une entreprise de construction"
+    ],
+    "correct": 1,
+    "explanation": "L'Observatoire de l'Habitat est l'observatoire officiel du logement au Luxembourg, créé en 2003 au sein du Ministère du Logement. Sa mission est de collecter, d'analyser et de diffuser une information fiable sur le logement, et d'aider à planifier la politique du logement."
+   },
+   {
+    "text": "D'où proviennent principalement les prix de vente de l'Observatoire ?",
+    "options": [
+     "D'estimations issues des réseaux sociaux",
+     "De transactions immobilières réelles et notariées (actes notariés)",
+     "Des prix affichés dans les vitrines",
+     "D'un sondage d'opinion annuel"
+    ],
+    "correct": 1,
+    "explanation": "Les prix de vente proviennent des actes notariés – des enregistrements officiels de ventes réalisées – transmis chaque mois à l'Observatoire par l'Administration de l'Enregistrement et des Domaines et complétés par les données du Cadastre. Cela les rend très fiables."
+   },
+   {
+    "text": "Quel institut de recherche est un partenaire clé de l'Observatoire ?",
+    "options": [
+     "Le STATEC uniquement",
+     "Le LISER, le Luxembourg Institute of Socio-Economic Research",
+     "La Banque centrale européenne",
+     "Un cabinet de conseil privé"
+    ],
+    "correct": 1,
+    "explanation": "Le LISER, le Luxembourg Institute of Socio-Economic Research, est un centre de recherche public et un partenaire clé qui apporte des méthodes scientifiques aux analyses de l'Observatoire."
+   },
+   {
+    "text": "Pourquoi l'Observatoire publie-t-il des prix détaillés pour les appartements mais pas pour les maisons individuelles ?",
+    "options": [
+     "Parce qu'on ne vend pas de maisons au Luxembourg",
+     "Parce qu'il existe des données fiables sur la surface des appartements, mais pas de la même manière pour les maisons",
+     "Parce que les maisons sont toujours moins chères",
+     "Parce que la loi l'interdit"
+    ],
+    "correct": 1,
+    "explanation": "Pour les appartements, de bonnes données sur la surface permettent de calculer un prix au mètre carré juste. Cette information détaillée n'est pas disponible de la même façon pour les maisons ; plutôt que de publier des chiffres trompeurs, l'Observatoire ne diffuse pas de prix détaillés des maisons."
+   },
+   {
+    "text": "Où le public peut-il consulter les données de l'Observatoire par commune ?",
+    "options": [
+     "Uniquement en se rendant au Ministère en personne",
+     "Sur la plateforme nationale de données ouvertes, data.public.lu",
+     "Uniquement dans un rapport imprimé payant",
+     "Sur des sites immobiliers privés"
+    ],
+    "correct": 1,
+    "explanation": "Les statistiques de l'Observatoire, ventilées par commune, sont publiées librement sur data.public.lu, et le site propose aussi un simulateur de prix – chacun peut donc consulter les prix typiques dans sa région."
+   }
+  ],
+  "title_de": "Das Observatoire de l'Habitat – den Wohnungsmarkt in Luxemburg verstehen",
+  "description_de": "Was das Observatoire de l'Habitat ist, was es beobachtet (Verkaufspreise, Mieten, Bauland und Erschwinglichkeit), woher seine verlässlichen Daten stammen (notarielle Urkunden), die Partnerschaft mit dem Forschungsinstitut LISER und wie jeder die Wohnungspreise nach Gemeinde auf data.public.lu einsehen kann.",
+  "topics_de": [
+   "Was das Observatoire de l'Habitat ist",
+   "2003 gegründet, Wohnungsbauministerium",
+   "Preise, Mieten & Bauland beobachten",
+   "Verlässliche Daten aus notariellen Urkunden",
+   "Partnerschaft mit dem LISER",
+   "Warum Wohnungen, nicht Häuser",
+   "Daten nach Gemeinde (data.public.lu)",
+   "Erschwinglichkeit & Wohnkostenbelastung"
+  ],
+  "questions_de": [
+   {
+    "text": "Was ist das Observatoire de l'Habitat?",
+    "options": [
+     "Eine private Immobilienagentur, die Wohnungen verkauft",
+     "Die offizielle Stelle Luxemburgs, die Informationen über das Wohnen sammelt, analysiert und verbreitet",
+     "Eine Bank, die Hypotheken vergibt",
+     "Ein Bauunternehmen"
+    ],
+    "correct": 1,
+    "explanation": "Das Observatoire de l'Habitat ist das offizielle Wohnungsobservatorium Luxemburgs, 2003 im Wohnungsbauministerium gegründet. Seine Aufgabe ist es, verlässliche Informationen über das Wohnen zu sammeln, zu analysieren und zu verbreiten und bei der Planung der Wohnungspolitik zu helfen."
+   },
+   {
+    "text": "Woher stammen die Verkaufspreise des Observatoire hauptsächlich?",
+    "options": [
+     "Aus Schätzungen aus den sozialen Medien",
+     "Aus echten, notariell beurkundeten Immobilientransaktionen (notarielle Urkunden)",
+     "Aus Preisen in Schaufenstern",
+     "Aus einer jährlichen Meinungsumfrage"
+    ],
+    "correct": 1,
+    "explanation": "Die Verkaufspreise stammen aus notariellen Urkunden – offiziellen Aufzeichnungen abgeschlossener Verkäufe –, die der Observatoire jeden Monat von der Einregistrierungs- und Domänenverwaltung erhält und mit Daten des Katasters ergänzt. Das macht sie sehr verlässlich."
+   },
+   {
+    "text": "Welches Forschungsinstitut ist ein wichtiger Partner des Observatoire?",
+    "options": [
+     "Nur STATEC",
+     "Das LISER, das Luxembourg Institute of Socio-Economic Research",
+     "Die Europäische Zentralbank",
+     "Eine private Beratungsfirma"
+    ],
+    "correct": 1,
+    "explanation": "Das LISER, das Luxembourg Institute of Socio-Economic Research, ist ein öffentliches Forschungszentrum und ein wichtiger Partner, der wissenschaftliche Methoden in die Analysen des Observatoire einbringt."
+   },
+   {
+    "text": "Warum veröffentlicht das Observatoire detaillierte Preise für Wohnungen, aber nicht für einzelne Häuser?",
+    "options": [
+     "Weil in Luxemburg keine Häuser verkauft werden",
+     "Weil für Wohnungen verlässliche Flächendaten vorliegen, für Häuser aber nicht auf dieselbe Weise",
+     "Weil Häuser immer billiger sind",
+     "Weil das Gesetz es verbietet"
+    ],
+    "correct": 1,
+    "explanation": "Für Wohnungen ermöglichen gute Flächendaten die Berechnung eines fairen Preises pro Quadratmeter. Diese detaillierten Informationen liegen für Häuser nicht in gleicher Weise vor; statt irreführende Zahlen zu veröffentlichen, gibt das Observatoire keine detaillierten Hauspreise heraus."
+   },
+   {
+    "text": "Wo kann die Öffentlichkeit die Wohnungsdaten des Observatoire nach Gemeinde einsehen?",
+    "options": [
+     "Nur durch einen persönlichen Besuch im Ministerium",
+     "Auf der nationalen Open-Data-Plattform data.public.lu",
+     "Nur in einem kostenpflichtigen gedruckten Bericht",
+     "Auf privaten Immobilien-Websites"
+    ],
+    "correct": 1,
+    "explanation": "Die Statistiken des Observatoire, aufgeschlüsselt nach Gemeinde, werden frei auf data.public.lu veröffentlicht, und die Website bietet auch einen Preissimulator – so kann jeder die typischen Preise in seiner Region nachschlagen."
+   }
+  ],
+  "audio_fr": "podcast_habitat_fr.mp3",
+  "duration_fr": 622.2,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour, et bienvenue à nouveau !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 3.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 6.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 9.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme qui parle du vivre-ensemble au Luxembourg.",
+    "t": 12.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, ainsi que les travailleurs frontaliers, à mieux comprendre le pays.",
+    "t": 16.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le sujet d'aujourd'hui est un thème dont presque tout le monde parle au Luxembourg... le logement.",
+    "t": 23.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Où habiter, combien ça coûte, faut-il louer ou acheter... ce sont de grandes questions, et de grands chiffres.",
+    "t": 29.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mais voici une chose que beaucoup de gens ignorent.",
+    "t": 36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le Luxembourg dispose d'un organisme officiel dont le rôle est d'étudier tout cela... avec soin, et avec de vraies données.",
+    "t": 39.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il s'appelle l'Observatoire de l'Habitat.",
+    "t": 46.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "J'aime bien ce mot, « observatoire ».",
+    "t": 49.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "On dirait un endroit d'où l'on observe les étoiles.",
+    "t": 52.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est une jolie image !",
+    "t": 55.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais au lieu d'observer les étoiles, cet observatoire observe le marché du logement.",
+    "t": 58.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Anna, qu'est-ce que l'Observatoire de l'Habitat, exactement ?",
+    "t": 63.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il a été créé en 2003, au sein du ministère responsable du logement... aujourd'hui le Ministère du Logement et de l'Aménagement du territoire.",
+    "t": 68.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et sa mission est de produire des informations fiables sur le logement au Luxembourg.",
+    "t": 76.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Des informations qui aident le gouvernement à planifier sa politique du logement, et qui informent aussi le public... des gens comme vous et moi.",
+    "t": 81.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il a donc vraiment deux rôles.",
+    "t": 89.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord, soutenir les décideurs, et ensuite, informer les citoyens.",
+    "t": 92.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactement.",
+    "t": 97.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sa mission est de collecter les informations, de les analyser, puis de les partager ouvertement.",
+    "t": 99.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Collecter, analyser, partager.",
+    "t": 105.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est une bonne façon de le retenir.",
+    "t": 108.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il ne travaille pas tout à fait seul.",
+    "t": 111.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il a un partenaire clé... un institut de recherche appelé LISER.",
+    "t": 114.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "LISER, c'est le Luxembourg Institute of Socio-Economic Research.",
+    "t": 119.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est un centre de recherche public.",
+    "t": 123.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils apportent une rigueur scientifique... des méthodes rigoureuses, une analyse soignée.",
+    "t": 126.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ainsi, les chiffres que vous obtenez sont solides, et non des estimations au hasard.",
+    "t": 132.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bien.",
+    "t": 138.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors, qu'est-ce que l'Observatoire observe concrètement ?",
+    "t": 139.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que mesure-t-il ?",
+    "t": 143.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Plusieurs choses.",
+    "t": 145.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'abord, les prix de vente des logements... combien il en coûte pour acheter.",
+    "t": 147.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ensuite, les loyers... combien il en coûte pour louer un logement.",
+    "t": 152.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement, le prix du terrain... les terrains à bâtir, où de nouveaux logements peuvent être construits.",
+    "t": 156.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et il va plus loin que les simples prix, n'est-ce pas ?",
+    "t": 163.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 166.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il étudie aussi quelle quantité de terrains à bâtir est réellement disponible, et à qui ils appartiennent.",
+    "t": 168.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est ce qu'on appelle l'observation foncière.",
+    "t": 174.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils réalisent même une sorte de recensement des terrains à bâtir.",
+    "t": 177.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il suit également le nombre de nouveaux logements produits, année après année.",
+    "t": 181.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et il y a aussi un aspect plus humain... le volet social et économique.",
+    "t": 186.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Tout à fait.",
+    "t": 190.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'Observatoire étudie l'accessibilité financière du logement... si les gens peuvent réellement se permettre de vivre là où ils en ont besoin.",
+    "t": 192.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et il examine comment les politiques publiques influencent le coût du logement.",
+    "t": 200.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce ne sont donc pas seulement des chiffres, c'est la vie réelle.",
+    "t": 204.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons de l'origine de ces chiffres, car c'est important pour la confiance.",
+    "t": 208.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oui.",
+    "t": 213.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si vous donnez des chiffres aux gens, ils veulent savoir que ces chiffres sont réels.",
+    "t": 214.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors, pour les prix de vente, les données proviennent des actes notariés.",
+    "t": 219.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Chaque fois qu'un bien est vendu, un notaire l'enregistre officiellement.",
+    "t": 224.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ces actes officiels sont transmis chaque mois à l'Observatoire, par l'Administration de l'Enregistrement et des Domaines.",
+    "t": 229.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ils sont complétés par des informations issues du Cadastre, par exemple la surface de chaque appartement.",
+    "t": 236.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce ne sont donc pas des annonces ou des estimations.",
+    "t": 242.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce sont de vraies ventes réalisées.",
+    "t": 245.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est à peu près ce qu'on peut avoir de plus fiable.",
+    "t": 248.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pour les loyers, c'est un peu différent.",
+    "t": 251.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les données sur les loyers proviennent surtout des annonces immobilières... des logements proposés à la location.",
+    "t": 255.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les loyers reflètent donc ce qui est demandé sur le marché, tandis que les prix de vente reflètent des transactions qui ont réellement eu lieu.",
+    "t": 261.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a toutefois une limite intéressante.",
+    "t": 268.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'Observatoire publie des prix détaillés pour les appartements, mais pas pour les maisons.",
+    "t": 271.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pourquoi cela, Anna ?",
+    "t": 276.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parce que pour les appartements, on dispose de bonnes données sur la surface, ce qui permet de calculer un prix au mètre carré juste.",
+    "t": 279.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mais pour les maisons individuelles, cette information détaillée sur la surface n'est pas disponible de la même manière.",
+    "t": 287.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors, plutôt que de publier des chiffres qui pourraient induire les gens en erreur, ils choisissent de ne pas publier de prix détaillés pour les maisons.",
+    "t": 293.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est honnête.",
+    "t": 302.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Je respecte cela.",
+    "t": 304.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mieux vaut dire « nous n'avons pas de données fiables » que de les inventer.",
+    "t": 306.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Maintenant, donnons quelques chiffres concrets, pour que cela devienne plus parlant.",
+    "t": 310.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oui, s'il vous plaît.",
+    "t": 315.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Combien coûte réellement un appartement ?",
+    "t": 318.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Au 3e trimestre 2025, un appartement existant coûtait en moyenne environ 7 600 euros le mètre carré.",
+    "t": 320.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et un appartement tout neuf, encore en construction, coûtait plus cher... autour de 10 000 euros le mètre carré.",
+    "t": 328.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce sont des moyennes, bien sûr.",
+    "t": 335.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le prix dépend beaucoup de la commune, et de la qualité du logement.",
+    "t": 338.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et les chiffres évoluent à chaque trimestre.",
+    "t": 342.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils montent, ils descendent.",
+    "t": 345.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est exactement pour cela que l'Observatoire continue de surveiller.",
+    "t": 348.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Par exemple, sur cette même période, le prix des appartements existants avait en fait légèrement baissé par rapport au trimestre précédent.",
+    "t": 352.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le marché n'est donc pas une simple ligne droite qui monte.",
+    "t": 360.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il respire... il change.",
+    "t": 364.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et voici la partie que j'adore.",
+    "t": 366.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Toutes ces données sont publiques, et vous pouvez les explorer vous-même.",
+    "t": 369.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les statistiques, détaillées par commune, sont publiées sur la plateforme nationale de données ouvertes, data point public point lu.",
+    "t": 374.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez donc consulter votre propre commune, et voir comment les prix y ont évolué.",
+    "t": 381.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a même un simulateur de prix sur le site de l'Observatoire, pour vous aider à vous faire une idée.",
+    "t": 387.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Imaginez que vous envisagez d'acheter ou de louer dans une certaine ville.",
+    "t": 393.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez vérifier les prix habituels avant de vous lancer.",
+    "t": 397.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est un vrai pouvoir pour les gens ordinaires.",
+    "t": 401.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Des informations qui étaient autrefois difficiles à trouver sont aujourd'hui accessibles à tous.",
+    "t": 404.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'Observatoire publie aussi des rapports et des notes, rédigés dans un langage clair, sur des questions précises.",
+    "t": 410.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Par exemple, il y a eu des rapports sur l'évolution des prix sur très longue période... en remontant jusqu'aux années 1970.",
+    "t": 417.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et des rapports sur le marché locatif, et même sur la régulation des loyers... les règles qui protègent les locataires.",
+    "t": 424.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc si un sujet est dans l'actualité, il existe souvent une étude sérieuse et neutre que vous pouvez lire à ce propos.",
+    "t": 431.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Revenons à ce mot, l'accessibilité financière, car il compte tellement ici.",
+    "t": 438.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'accessibilité financière, cela veut dire... les gens peuvent-ils réellement payer leur logement, sans que cela accapare tout leur budget ?",
+    "t": 443.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'Observatoire examine le « taux d'effort »... la part de vos revenus qui passe dans le logement.",
+    "t": 451.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et il compare le Luxembourg avec les pays voisins, pour replacer les choses dans leur contexte.",
+    "t": 457.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce type d'analyse aide tout le monde à voir clairement la situation réelle, au lieu de simplement supposer ou de s'inquiéter.",
+    "t": 462.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et cela aide le gouvernement à concevoir de meilleures politiques, comme des aides pour les locataires, ou la construction de logements plus abordables.",
+    "t": 470.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "N'oublions pas le volet foncier, car dans un petit pays, le terrain est précieux.",
+    "t": 477.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'Observatoire étudie quelle quantité de terrains à bâtir existe, et quelle part en est réellement utilisée.",
+    "t": 483.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parfois, un terrain est disponible sur le papier, mais il n'est pas construit.",
+    "t": 489.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le comprendre aide à préparer l'avenir.",
+    "t": 494.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'une certaine manière, l'Observatoire est donc comme un bilan de santé pour tout le système du logement.",
+    "t": 497.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est une très belle façon de le dire.",
+    "t": 503.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il prend la température, il repère les tendances, et il partage le diagnostic avec tout le monde.",
+    "t": 506.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Anna, rendons cela pratique.",
+    "t": 512.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Comment une personne ordinaire peut-elle réellement utiliser tout cela ?",
+    "t": 516.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'abord, avant de louer ou d'acheter, vérifiez les prix habituels dans la commune qui vous intéresse.",
+    "t": 520.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement, si vous voulez comprendre un débat dans l'actualité, cherchez un rapport de l'Observatoire sur ce sujet.",
+    "t": 526.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement, rappelez-vous que les chiffres sont officiels et neutres.",
+    "t": 533.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils ne cherchent pas à vous vendre quoi que ce soit.",
+    "t": 537.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quatrièmement... le savoir réduit le stress.",
+    "t": 540.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le logement est une question émotionnelle, mais une bonne information vous aide à prendre des décisions plus sereines.",
+    "t": 544.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Récapitulons tout cela.",
+    "t": 550.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Que faut-il retenir de l'Observatoire de l'Habitat ?",
+    "t": 553.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord... c'est l'observatoire officiel du logement au Luxembourg, créé en 2003, au sein du Ministère du Logement.",
+    "t": 556.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deuxièmement... il surveille les prix de vente, les loyers, le foncier, et le caractère réellement abordable du logement, avec l'aide de l'institut de recherche LISER.",
+    "t": 564
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement... ses données sont fiables, car les prix de vente proviennent de transactions réelles, passées devant notaire.",
+    "t": 574.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quatrièmement... les données sont publiques.",
+    "t": 580.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez explorer les prix par commune sur data point public point lu, et lire des rapports clairs.",
+    "t": 584.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et cinquièmement... vous pouvez l'utiliser dans votre propre vie, pour prendre de meilleures décisions, plus sereines, en matière de logement.",
+    "t": 590.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le logement peut sembler accablant.",
+    "t": 597.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais vous n'êtes pas démuni.",
+    "t": 600.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il existe une information solide et honnête, à votre disposition.",
+    "t": 603.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et savoir où la trouver, c'est déjà la moitié du chemin.",
+    "t": 607.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
+    "t": 611.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
+    "t": 615.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi !",
+    "t": 619.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi !",
+    "t": 620.6
+   }
+  ],
+  "audio_de": "podcast_habitat_de.mp3",
+  "duration_de": 709.2,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen zurück!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist uns eine Freude, dass Sie heute bei uns sind.",
+    "t": 3.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 7.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 9.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 12.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, das Land ein wenig besser zu verstehen.",
+    "t": 17.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und das heutige Thema ist eines, über das fast jeder in Luxemburg spricht... das Wohnen.",
+    "t": 25.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wo man wohnen soll, wie viel es kostet, ob man mieten oder kaufen soll... das sind große Fragen, und große Zahlen.",
+    "t": 31.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aber hier ist etwas, das viele Menschen nicht wissen.",
+    "t": 40.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Luxemburg hat eine offizielle Stelle, deren Aufgabe es ist, all das zu untersuchen... sorgfältig und mit echten Daten.",
+    "t": 44.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie heißt Observatoire de l'Habitat (Wohnungsobservatorium).",
+    "t": 52.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Auf Deutsch könnte man sagen: das Wohnungsobservatorium.",
+    "t": 57.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich mag dieses Wort, „Observatorium\".",
+    "t": 61.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es klingt wie ein Ort, an dem Menschen die Sterne beobachten.",
+    "t": 64.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein schönes Bild!",
+    "t": 69.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber statt die Sterne zu beobachten, beobachtet dieses Observatorium den Wohnungsmarkt.",
+    "t": 71.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, was genau ist das Observatoire de l'Habitat?",
+    "t": 78.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es wurde 2003 gegründet, innerhalb des für Wohnen zuständigen Ministeriums... heute ist das das Ministerium für Wohnungsbau und Raumordnung.",
+    "t": 83.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und sein Zweck ist es, verlässliche Informationen über das Wohnen in Luxemburg zu erstellen.",
+    "t": 93.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Informationen, die der Regierung helfen, ihre Wohnungspolitik zu planen, und die auch die Öffentlichkeit informieren... Menschen wie Sie und mich.",
+    "t": 99.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es hat also eigentlich zwei Aufgaben.",
+    "t": 110.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens, die Entscheidungsträger zu unterstützen, und zweitens, die Bürgerinnen und Bürger zu informieren.",
+    "t": 113.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau.",
+    "t": 120.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Seine Aufgabe ist es, Informationen zu sammeln, sie zu analysieren und sie dann offen zu teilen.",
+    "t": 121.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sammeln, analysieren, teilen.",
+    "t": 129.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist eine gute Art, es sich zu merken.",
+    "t": 132.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es arbeitet nicht völlig allein.",
+    "t": 135.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es hat einen wichtigen Partner... ein Forschungsinstitut namens LISER.",
+    "t": 138.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "LISER ist das Luxembourg Institute of Socio-Economic Research.",
+    "t": 144.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist ein öffentliches Forschungszentrum.",
+    "t": 148.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie bringen wissenschaftliche Genauigkeit ein... saubere Methoden, sorgfältige Analyse.",
+    "t": 151.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "So sind die Zahlen, die man bekommt, fundiert und nicht geraten.",
+    "t": 158.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gut.",
+    "t": 163.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was beobachtet das Observatoire also tatsächlich?",
+    "t": 164.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was misst es?",
+    "t": 169.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mehrere Dinge.",
+    "t": 171.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens die Verkaufspreise von Wohnungen... wie viel das Kaufen kostet.",
+    "t": 173.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens die Mieten... wie viel es kostet, eine Wohnung zu mieten.",
+    "t": 178.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens den Preis für Grundstücke... Bauland, auf dem neue Wohnungen entstehen können.",
+    "t": 183.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und es geht weiter als nur um die Preise, nicht wahr?",
+    "t": 190.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 194.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es untersucht auch, wie viel Bauland tatsächlich verfügbar ist und wem es gehört.",
+    "t": 195.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das nennt man Bodenbeobachtung, oder auf Französisch die „observation foncière\".",
+    "t": 201.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie führen sogar eine Art Zählung des Baulands durch.",
+    "t": 207.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es verfolgt auch, wie viele neue Wohnungen Jahr für Jahr entstehen.",
+    "t": 210.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und es gibt auch eine menschlichere Seite... die soziale und wirtschaftliche Seite.",
+    "t": 215.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Richtig.",
+    "t": 221.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Observatoire untersucht die Bezahlbarkeit von Wohnraum... ob die Menschen es sich tatsächlich leisten können, dort zu wohnen, wo sie es brauchen.",
+    "t": 223.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und es schaut sich an, wie sich die öffentliche Politik auf die Wohnkosten auswirkt.",
+    "t": 232.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es geht also nicht nur um Zahlen, sondern um das echte Leben.",
+    "t": 238.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Reden wir darüber, woher diese Zahlen kommen, denn das ist wichtig für das Vertrauen.",
+    "t": 242.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ja.",
+    "t": 248.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn man den Menschen Zahlen gibt, möchten sie wissen, dass die Zahlen echt sind.",
+    "t": 250.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also, bei den Verkaufspreisen stammen die Daten aus notariellen Urkunden.",
+    "t": 255.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jedes Mal, wenn eine Immobilie verkauft wird, hält ein Notar das offiziell fest.",
+    "t": 261.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Diese offiziellen Aufzeichnungen werden jeden Monat von der Einregistrierungs- und Domänenverwaltung an das Observatoire weitergegeben.",
+    "t": 267.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und sie werden mit Informationen aus dem Grundbuch und dem Cadastre ergänzt, zum Beispiel mit der Wohnfläche jeder Wohnung.",
+    "t": 275.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das sind also keine Anzeigen oder Schätzungen.",
+    "t": 283.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es sind echte, abgeschlossene Verkäufe.",
+    "t": 287.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Verlässlicher geht es kaum.",
+    "t": 290.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bei den Mieten ist es ein bisschen anders.",
+    "t": 293.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Mietdaten stammen größtenteils aus Immobilienanzeigen... Wohnungen, die zur Vermietung angeboten werden.",
+    "t": 296.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Mieten spiegeln also wider, was auf dem Markt verlangt wird, während die Verkaufspreise tatsächlich abgeschlossene Geschäfte widerspiegeln.",
+    "t": 304.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt allerdings eine interessante Einschränkung.",
+    "t": 313.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Observatoire veröffentlicht detaillierte Preise für Wohnungen, aber nicht für Häuser.",
+    "t": 317.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Warum ist das so, Anna?",
+    "t": 323.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Weil es für Wohnungen gute Daten zur Wohnfläche gibt, sodass man einen fairen Preis pro Quadratmeter berechnen kann.",
+    "t": 326.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aber für einzelne Häuser sind diese detaillierten Flächenangaben nicht auf die gleiche Weise verfügbar.",
+    "t": 334.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Anstatt also Zahlen zu veröffentlichen, die die Menschen in die Irre führen könnten, entscheiden sie sich dafür, keine detaillierten Hauspreise zu veröffentlichen.",
+    "t": 340.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ehrlich.",
+    "t": 350.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das respektiere ich.",
+    "t": 352.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Besser zu sagen „wir haben keine verlässlichen Daten\", als sie zu erfinden.",
+    "t": 355.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nun lassen Sie uns ein paar echte Zahlen nennen, damit es greifbar wird.",
+    "t": 360.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ja, bitte.",
+    "t": 365.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was kostet eine Wohnung tatsächlich?",
+    "t": 367.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Im 3.",
+    "t": 370.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quartal 2025 kostete eine bestehende Wohnung im Durchschnitt etwa 7 600 Euro pro Quadratmeter.",
+    "t": 372.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und eine brandneue Wohnung, noch im Bau, lag höher... bei etwa 10 000 Euro pro Quadratmeter.",
+    "t": 381.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das sind natürlich Durchschnittswerte.",
+    "t": 388.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Preis hängt stark von der Gemeinde ab, und von der Qualität der Wohnung.",
+    "t": 391.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und die Zahlen bewegen sich in jedem Quartal.",
+    "t": 396.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie gehen rauf, sie gehen runter.",
+    "t": 400.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Genau deshalb beobachtet das Observatoire ständig weiter.",
+    "t": 403.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zum Beispiel war im selben Zeitraum der Preis für bestehende Wohnungen im Vergleich zum Quartal davor sogar ein wenig gesunken.",
+    "t": 407.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Markt ist also nicht nur eine gerade Linie nach oben.",
+    "t": 415.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Er atmet... er verändert sich.",
+    "t": 419.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und hier kommt der Teil, den ich liebe.",
+    "t": 422.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "All diese Daten sind öffentlich, und Sie können sie selbst erkunden.",
+    "t": 425.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Statistiken, aufgeschlüsselt nach Gemeinde, werden auf der nationalen Open-Data-Plattform veröffentlicht, data Punkt public Punkt lu.",
+    "t": 431.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können also Ihre eigene Gemeinde nachschlagen und sehen, wie sich die Preise dort entwickelt haben.",
+    "t": 439.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt sogar einen Preissimulator auf der Website des Observatoire, der Ihnen hilft, sich einen Eindruck zu verschaffen.",
+    "t": 446.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Stellen Sie sich vor, Sie überlegen, in einer bestimmten Stadt zu kaufen oder zu mieten.",
+    "t": 454.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können die üblichen Preise prüfen, bevor Sie beginnen.",
+    "t": 460.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist echte Macht für ganz normale Menschen.",
+    "t": 465.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Informationen, die früher schwer zu finden waren, stehen jetzt allen offen.",
+    "t": 468.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Observatoire veröffentlicht auch Berichte und Notizen, in klarer Sprache geschrieben, zu bestimmten Fragen.",
+    "t": 473.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zum Beispiel gab es Berichte darüber, wie sich die Preise über sehr lange Zeit verändert haben... zurück bis in die 1970er Jahre.",
+    "t": 481.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und Berichte über den Mietmarkt, und sogar über die Regulierung der Mieten... die Regeln, die die Mieter schützen.",
+    "t": 490.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn also ein Thema in den Nachrichten ist, gibt es oft eine seriöse, neutrale Studie, die man dazu lesen kann.",
+    "t": 497.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Kommen wir auf dieses Wort zurück, Bezahlbarkeit, denn es ist hier so wichtig.",
+    "t": 505.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bezahlbarkeit bedeutet... können die Menschen ihr Wohnen tatsächlich bezahlen, ohne dass es ihr ganzes Budget verschlingt?",
+    "t": 511.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Observatoire betrachtet die „Wohnkostenbelastung / Effort-Rate\"... den Anteil Ihres Einkommens, der für das Wohnen draufgeht.",
+    "t": 518.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und es vergleicht Luxemburg mit den Nachbarländern, um die Dinge in einen Zusammenhang zu setzen.",
+    "t": 527.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Art von Analyse hilft allen, die wirkliche Lage klar zu sehen, statt nur zu raten oder sich Sorgen zu machen.",
+    "t": 533.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und sie hilft der Regierung, bessere Maßnahmen zu gestalten, wie Unterstützung für Mieter oder den Bau von mehr bezahlbaren Wohnungen.",
+    "t": 541.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vergessen wir die Bodenseite nicht, denn in einem kleinen Land ist Boden kostbar.",
+    "t": 549.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das Observatoire untersucht, wie viel Bauland es gibt und wie viel davon tatsächlich genutzt wird.",
+    "t": 555.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Manchmal ist Bauland auf dem Papier vorhanden, aber es ist nicht bebaut.",
+    "t": 561.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das zu verstehen hilft, für die Zukunft zu planen.",
+    "t": 567.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "In gewisser Weise ist das Observatoire also wie eine Gesundheitsuntersuchung für das gesamte Wohnungssystem.",
+    "t": 571.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist eine schöne Art, es auszudrücken.",
+    "t": 578.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es misst die Temperatur, es erkennt die Trends, und es teilt die Diagnose mit allen.",
+    "t": 582.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, lassen Sie uns das praktisch machen.",
+    "t": 588.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie kann ein ganz normaler Mensch all das tatsächlich nutzen?",
+    "t": 592.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens, bevor Sie mieten oder kaufen, prüfen Sie die üblichen Preise in der Gemeinde, die Sie interessiert.",
+    "t": 596.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens, wenn Sie eine Debatte in den Nachrichten verstehen möchten, suchen Sie nach einem Bericht des Observatoire zu diesem Thema.",
+    "t": 604.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens, denken Sie daran, dass die Zahlen offiziell und neutral sind.",
+    "t": 612.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie wollen Ihnen nichts verkaufen.",
+    "t": 617.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und viertens... Wissen reduziert Stress.",
+    "t": 620.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wohnen ist emotional, aber gute Informationen helfen Ihnen, ruhigere Entscheidungen zu treffen.",
+    "t": 624.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fassen wir alles zusammen.",
+    "t": 631.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was sollten sich die Menschen über das Observatoire de l'Habitat merken?",
+    "t": 634.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens... es ist Luxemburgs offizielles Wohnungsobservatorium, gegründet 2003, innerhalb des Wohnungsbauministeriums.",
+    "t": 639.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens... es beobachtet Verkaufspreise, Mieten, Bauland und wie bezahlbar Wohnen wirklich ist, mit Hilfe des Forschungsinstituts LISER.",
+    "t": 647.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens... seine Daten sind verlässlich, weil die Verkaufspreise aus echten, notariell beurkundeten Transaktionen stammen.",
+    "t": 657.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Viertens... die Daten sind öffentlich.",
+    "t": 665.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können die Preise nach Gemeinde auf data Punkt public Punkt lu erkunden und klare Berichte lesen.",
+    "t": 668.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und fünftens... Sie können sie in Ihrem eigenen Leben nutzen, um bessere, ruhigere Wohnentscheidungen zu treffen.",
+    "t": 675.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wohnen kann überwältigend wirken.",
+    "t": 683.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber Sie sind nicht machtlos.",
+    "t": 686.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt fundierte, ehrliche Informationen für Sie da draußen.",
+    "t": 689.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und zu wissen, wo man sie findet, ist die halbe Miete.",
+    "t": 694.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen herzlichen Dank, dass Sie heute zugehört haben.",
+    "t": 698.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
+    "t": 702.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 706.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 707.73
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm zréck! Et ass eng Freed, datt Dir haut bei eis sidd.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien zesummen!",
+    "t": 5.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger hëllefen, d'Land e bësse besser ze verstoen.",
+    "t": 7.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "An den Thema vun haut ass ee, iwwer dee bal jiddereen zu Lëtzebuerg schwätzt... d'Wunnen.",
+    "t": 22.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wou wunnen, wéi vill kascht et, ob ee mécht oder kaft... dat sinn déi grouss Froen, an déi grouss Zuelen.",
+    "t": 27.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mä hei ass eppes, wat vill Leit net wëssen. Lëtzebuerg huet en offiziellen Organ, deem seng Aufgab et ass, dat alles z'ënnersichen... suergfälteg, a mat richtegen Donnéeën.",
+    "t": 34.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et heescht den Observatoire de l'Habitat. Op Lëtzebuergesch kéinte mer soen d'Wunnengsobservatoire.",
+    "t": 43.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat Wuert gefält mer, \"Observatoire\". Et kléngt no enger Plaz, wou d'Leit d'Stäre kucken.",
+    "t": 50.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat ass e schéint Bild! Mä amplaz d'Stäre ze kucken, kuckt dëse Observatoire de Wunnengsmaart.",
+    "t": 57.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, wat ass den Observatoire de l'Habitat genau?",
+    "t": 64.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Hie gouf am Joer 2003 gegrënnt, am Ministère, deen fir d'Wunne responsabel ass... haut ass dat de Wunnengs- a Raumentwécklungsministère.",
+    "t": 69.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "A säin Zweck ass, zouverlässeg Informatiounen iwwer d'Wunne zu Lëtzebuerg ze produzéieren.",
+    "t": 77.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Informatiounen, déi der Regierung hëllefen, hir Wunnengspolitik ze plangen, an déi och d'Ëffentlechkeet informéieren... Leit wéi Dir an ech.",
+    "t": 82.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also huet en eigentlech zwou Aufgaben. Als éischt, d'Decisiounsträger z'ënnerstëtzen, an zweetens, d'Bierger z'informéieren.",
+    "t": 90.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau. Seng Missioun ass, Informatiounen ze sammelen, se z'analyséieren, an se dann oppen ze deelen.",
+    "t": 98.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sammelen, analyséieren, deelen. Dat ass eng gutt Manéier, fir et sech ze mierken.",
+    "t": 105.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "An en schafft net komplett eleng. En huet e wichtege Partner... en Fuerschungsinstitut mam Numm LISER.",
+    "t": 111.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "LISER ass de Luxembourg Institute of Socio-Economic Research. Dat ass en ëffentlecht Fuerschungszentrum.",
+    "t": 118.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si bréngen déi wëssenschaftlech Rigueur... richteg Methoden, suergfälteg Analyse. Esou sinn d'Zuelen, déi Dir kritt, solid, an net just gerode.",
+    "t": 125.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gutt. Also wat kuckt den Observatoire eigentlech? Wat mësst en?",
+    "t": 134.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Verschidde Saachen. Als éischt d'Verkafspräisser vu Wunnengen... wéi vill et kascht, fir ze kafen.",
+    "t": 141.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweetens d'Loyeren... wéi vill et kascht, fir eng Wunneng ze lounen.",
+    "t": 148.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drëttens de Präis vum Terrain... Bauland, wou nei Wunnenge kënne kommen.",
+    "t": 152.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "An et geet méi wäit wéi just d'Präisser, oder?",
+    "t": 157.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. En ënnersicht och, wéi vill Bauland tatsächlech disponibel ass, a wiem et gehéiert.",
+    "t": 161.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat heescht d'Terrainobservatioun, oder op Franséisch d'\"observation foncière\". Si maachen esouguer eng Aart Zielung vum Bauland.",
+    "t": 168.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "En follegt och, wéi vill nei Wunnenge produzéiert ginn, Joer fir Joer.",
+    "t": 176.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "An et gëtt och eng méi mënschlech Säit... déi sozial an ekonomesch Säit.",
+    "t": 181.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Richteg. Den Observatoire ënnersicht d'Bezuelbarkeet vum Wunnen... ob d'Leit sech tatsächlech leeschte kënnen, do ze wunnen, wou se musse wunnen.",
+    "t": 186.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "An en kuckt, wéi déi ëffentlech Politik d'Käschte vum Wunne beaflosst. Et sinn also net just Zuelen, et geet ëm dat richtegt Liewen.",
+    "t": 194.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosse mer iwwer schwätzen, wou dës Zuelen hierkommen, well dat ass wichteg fir d'Vertrauen.",
+    "t": 202.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jo. Wann een de Leit Chiffere gëtt, da wëlle si wëssen, datt d'Chiffere richteg sinn.",
+    "t": 207.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also, fir d'Verkafspräisser kommen d'Donnéeën aus den notariellen Akten. All Kéier wann eng Immobilie verkaaft gëtt, da reegistréiert e Notär dat offiziell.",
+    "t": 213.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dës offiziell Aufzeechnunge ginn all Mount un den Observatoire weiderginn, vun der Administration de l'Enregistrement et des Domaines.",
+    "t": 222.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "A si gi mat Informatiounen aus dem Kadaster komplettéiert, zum Beispill d'Fläch vun all Appartement.",
+    "t": 229.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat sinn also keng Annoncen oder Schätzungen. Dat sinn echt, ofgeschloss Verkeef. Méi zouverlässeg geet et bal net.",
+    "t": 236.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fir d'Loyeren ass et e bësse anescht. D'Loyer-Donnéeë kommen haaptsächlech aus den Immobilienannoncen... Wunnengen, déi zur Locatioun ugebuede ginn.",
+    "t": 246.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Loyeren reflektéieren also dat, wat um Maart gefrot gëtt, wärend d'Verkafspräisser Deals reflektéieren, déi tatsächlech stattfonnt hunn.",
+    "t": 254.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt awer eng interessant Grenz. Den Observatoire publizéiert detailléiert Präisser fir Appartementer, mä net fir Haiser.",
+    "t": 260.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Firwat ass dat, Anna?",
+    "t": 269.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Well fir Appartementer gëtt et gutt Donnéeën iwwer d'Fläch, esou datt ee e faire Präis pro Quadratmeter ka berechnen.",
+    "t": 271.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mä fir eenzel Haiser ass déi detailléiert Fläch-Informatioun net op déiselwecht Manéier disponibel.",
+    "t": 278.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also amplaz Zuelen ze publizéieren, déi d'Leit kéinten an d'Ier féieren, entscheede si sech, keng detailléiert Hauspräisser ze publizéieren. Dat ass éierlech.",
+    "t": 284.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat respektéieren ech. Besser ze soen \"mir hu keng zouverlässeg Donnéeën\", wéi se z'erfannen.",
+    "t": 293.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elo loosse mer e puer richteg Zuelen ginn, esou datt et sech konkret ufillt.",
+    "t": 299.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jo, gär. Wat kascht en Appartement tatsächlech?",
+    "t": 304
+   },
+   {
+    "speaker": "Anna",
+    "text": "Am drëtten Trimester 2025 huet en existéierend Appartement am Duerchschnëtt ongeféier 7 600 Euro pro Quadratmeter kascht.",
+    "t": 309.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "An en ganz neit Appartement, nach am Bau, war méi héich... ronderëm 10 000 Euro pro Quadratmeter.",
+    "t": 317.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat sinn natierlech Duerchschnëtter. De Präis hänkt vill vun der Gemeng of, a vun der Qualitéit vun der Wunneng.",
+    "t": 324.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "An d'Zuele beweegen sech all Trimester. Si ginn erop, si ginn erof. Dat ass genau, firwat den Observatoire weiderkuckt.",
+    "t": 331.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zum Beispill, an deeselwechten Zäitraum, war de Präis vun den existéierenden Appartementer tatsächlech e bësse gefall, am Verglach mam Trimester virdrun.",
+    "t": 340.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "De Maart ass also net just eng gerued Linn, déi erop geet. En otemt... en ännert sech.",
+    "t": 348.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "An hei ass den Deel, deen ech gär hunn. All dës Donnéeë sinn ëffentlech, an Dir kënnt se selwer entdecken.",
+    "t": 355.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Statistiken, opgedeelt no Gemeng, ginn op der nationaler Open-Data-Plattform publizéiert, data Punkt public Punkt lu.",
+    "t": 362.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Esou kënnt Dir Är eege Gemeng nokucken, a kucken, wéi sech d'Präisser do beweegt hunn.",
+    "t": 369.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt esouguer e Präissimulateur op der Internetsäit vum Observatoire, fir Iech ze hëllefen, eng Iddi ze kréien.",
+    "t": 374.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Stellt Iech vir, Dir denkt drun, an enger gewësser Uertschaft ze kafen oder ze lounen. Dir kënnt déi typesch Präisser nokucken, ier Dir ufänkt.",
+    "t": 379.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass richteg Muecht fir normal Leit. Informatiounen, déi fréier schwéier ze fanne waren, sinn elo fir jiddereen oppen.",
+    "t": 387.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Den Observatoire publizéiert och Rapporten an Notizen, an einfacher Sprooch geschriwwen, iwwer spezifesch Froen.",
+    "t": 395.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zum Beispill goufen et Rapporten doriwwer, wéi sech d'Präisser iwwer ganz laang Zäit verännert hunn... bis an d'1970er Joren zréck.",
+    "t": 402.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "A Rapporten iwwer de Locatiounsmaart, an esouguer iwwer d'Reglementéierung vun de Loyeren... d'Reegelen, déi d'Locatairen schützen.",
+    "t": 409.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wann en Thema also an den Noriichten ass, da gëtt et dacks eng eescht, neutral Etude, déi Dir doriwwer liese kënnt.",
+    "t": 415.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosse mer op dat Wuert zréckkommen, d'Bezuelbarkeet, well et ass hei esou wichteg.",
+    "t": 421.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bezuelbarkeet heescht... kënnen d'Leit hir Wunneng tatsächlech bezuelen, ouni datt et hire ganze Budget iwwerhëlt?",
+    "t": 426.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Den Observatoire kuckt den \"Effortstaux\"... den Deel vun Ärem Akommes, deen an d'Wunne geet.",
+    "t": 433.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "An en vergläicht Lëtzebuerg mat den Nopeschlänner, fir d'Saachen an de Kontext ze setzen.",
+    "t": 438.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Aart vun Analyse hëlleft jiddereem, déi richteg Situatioun kloer ze gesinn, amplaz just ze roden oder sech Suergen ze maachen.",
+    "t": 443.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "An et hëlleft der Regierung, besser Politik ze gestalten, wéi Ënnerstëtzung fir Locatairen, oder méi bezuelbar Wunnengen ze bauen.",
+    "t": 450.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosse mer d'Terrain-Säit net vergiessen, well an engem klenge Land ass Terrain wäertvoll.",
+    "t": 457.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Den Observatoire ënnersicht, wéi vill Bauland et gëtt, a wéi vill dovun tatsächlech genotzt gëtt.",
+    "t": 462.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Heiansdo ass Terrain um Pabeier disponibel, mä et gëtt net dropgebaut. Dat ze verstoen hëlleft, fir d'Zukunft ze plangen.",
+    "t": 468.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Op eng Aart ass den Observatoire also wéi e Gesondheetscheck fir dat ganzt Wunnengssystem.",
+    "t": 476.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat ass eng schéi Manéier, fir et auszedrécken. En mësst d'Temperatur, en erkennt d'Tendenzen, an en deelt d'Diagnos mat jidderengem.",
+    "t": 481.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, loosse mer dat praktesch maachen. Wéi kann eng normal Persoun dat alles tatsächlech notzen?",
+    "t": 490.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als éischt, ier Dir mécht oder kaaft, kuckt déi typesch Präisser an der Gemeng no, déi Iech interesséiert.",
+    "t": 496.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweetens, wann Dir eng Debatt an den Noriichte verstoe wëllt, da sicht en Observatoire-Rapport iwwer dat Thema.",
+    "t": 503.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drëttens, denkt drun, datt d'Zuelen offiziell an neutral sinn. Si probéieren net, Iech eppes ze verkafen.",
+    "t": 509.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "A véiertens... Wëssen reduzéiert de Stress. D'Wunnen ass emotional, mä gutt Informatioun hëlleft Iech, méi roueg Decisiounen ze huelen.",
+    "t": 516.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosse mer alles zesummebréngen. Wat sollen d'Leit iwwer den Observatoire de l'Habitat behalen?",
+    "t": 524.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als éischt... et ass de Lëtzebuerger offiziellen Wunnengsobservatoire, am Joer 2003 gegrënnt, am Wunnengsministère.",
+    "t": 530.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens... en kuckt d'Verkafspräisser, d'Loyeren, den Terrain, a wéi bezuelbar d'Wunne wierklech ass, mat der Hëllef vum Fuerschungsinstitut LISER.",
+    "t": 538.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens... seng Donnéeë sinn zouverlässeg, well d'Verkafspräisser aus echten, notariellen Transaktioune kommen.",
+    "t": 547.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Véiertens... d'Donnéeë sinn ëffentlech. Dir kënnt d'Präisser no Gemeng op data Punkt public Punkt lu entdecken, a kloer Rapporte liesen.",
+    "t": 553.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "A fënneftens... Dir kënnt et an Ärem eegene Liewe notzen, fir besser, méi roueg Wunnengsdecisiounen ze huelen.",
+    "t": 562.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Wunne kann iwwerwältegend wierken. Mä Dir sidd net hëlleflos. Et gëtt solid, éierlech Informatioun do baussen fir Iech.",
+    "t": 567.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wëssen, wou een se fënnt, ass schonn d'Halschent vun der Schluecht.",
+    "t": 576.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci villmools, datt Dir haut nogelauschtert hutt.",
+    "t": 579.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passt op iech op, a bis an der nächster Episod. Äddi!",
+    "t": 582.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 587.84
+   }
+  ]
  }
 ];

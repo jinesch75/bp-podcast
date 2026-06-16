@@ -19,9 +19,9 @@ Open `index.html` in a browser — it's a static site, no server needed.
 - `build/` — reusable build scripts (see "Tooling").
 - `episodes_data.*.js` (backup.js / prevsync.js / prelb.js) — old backups; harmless. iCloud blocks `rm` from bash; delete via Finder if wanted.
 
-## Episodes (16 so far)
+## Episodes (17 so far)
 
-id:key — 1:myguichet, 2:dsp_cns, 3:eltereforum, 4:benevolat, 5:lualert, 6:luxtrust, 7:maison_orientation, 8:infosenior, 9:accessibilite, 10:zukunftskeess, 11:fns, 12:granderegion, 13:digitalinclusion, 14:onis, 15:workinluxembourg, 16:adem.
+id:key — 1:myguichet, 2:dsp_cns, 3:eltereforum, 4:benevolat, 5:lualert, 6:luxtrust, 7:maison_orientation, 8:infosenior, 9:accessibilite, 10:zukunftskeess, 11:fns, 12:granderegion, 13:digitalinclusion, 14:onis, 15:workinluxembourg, 16:adem, 17:habitat (Observatoire de l'Habitat).
 
 Episodes 1–8 predate this workflow (timestamps were forced-aligned). Episodes 9–16 were built with the workflow below. ADEM (16) was the first episode built end-to-end with native EN/FR/DE audio + full content translation + topic tag from the start; see `build/inject_adem.js` and `build/adem_content.json` for the per-episode pattern (it also builds `segments_lb` via `lib_segments` for read-along data).
 
@@ -102,7 +102,7 @@ edge-tts install (sandbox): `pip install edge-tts --break-system-packages`; bina
 Each episode has a `categories` array of tag ids. The episode-list screen shows a filter bar (SINGLE-select: one topic at a time; clicking the active chip or "All topics" clears) and every card shows its tags. Tags + filter labels + the "{n} of {total} episodes" count are localized.
 
 - **Where things live:** the taxonomy is `CATEGORIES` in `app.js` (id + en/fr/de label, ordered). Per-episode tags are `ep.categories` in `episodes_data.js`. Filter UI markup is the `#filter-bar` / `#filter-count` block in `index.html` (CSS: `.filter-chip`, `.cat-tag`). Logic: `renderFilterBar()`, `episodeMatchesFilter()`, `selectedCat` (single id or null) in `app.js`; `renderEpisodeList()` filters + renders tags + count.
-- **Current categories:** digital, social, work, family, health, seniors, inclusion, safety, civic, crossborder. A category chip only appears once ≥1 episode uses it.
+- **Current categories:** digital, social, housing, work, family, health, seniors, inclusion, safety, civic, crossborder. A category chip only appears once ≥1 episode uses it. (`housing` was added with episode 17, the Observatoire de l'Habitat.)
 - **To re-tag or add an episode's tags:** edit `build/inject_tags.js` (the `TAGS` map) and run `node build/inject_tags.js`, or set `categories: [...]` directly in the episode dict. To add a NEW category, add an entry to `CATEGORIES` in `app.js` (with fr/de labels) and tag episodes with its id. When adding a new episode, give it a `categories` array too.
 
 ## Multilingual audio + full-site i18n (added 2026-06-16)

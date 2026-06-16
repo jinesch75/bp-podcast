@@ -264,6 +264,7 @@ function langName(target) {
 const CATEGORIES = [
   { id: 'digital',     en: 'Digital services',          fr: 'Services en ligne',           de: 'Online-Dienste' },
   { id: 'social',      en: 'Social support',            fr: 'Aides sociales',              de: 'Soziale Hilfen' },
+  { id: 'housing',     en: 'Housing',                   fr: 'Logement',                    de: 'Wohnen' },
   { id: 'work',        en: 'Work & careers',            fr: 'Travail & carrière',          de: 'Arbeit & Beruf' },
   { id: 'family',      en: 'Family & children',         fr: 'Famille & enfants',           de: 'Familie & Kinder' },
   { id: 'health',      en: 'Health',                    fr: 'Santé',                       de: 'Gesundheit' },
