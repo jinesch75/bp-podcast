@@ -277,7 +277,7 @@ function catLabel(id) {
   var c = CATEGORIES.find(function (x) { return x.id === id; });
   return c ? (c[currentLang] || c.en) : id;
 }
-let selectedCats = [];   // active topic filters (OR); empty = show all
+let selectedCat = null;   // single active topic filter; null = show all
 
 function t(key, vars) {
   var s = (I18N[currentLang] && I18N[currentLang][key]) || I18N.en[key] || key;
@@ -366,8 +366,8 @@ function doRegister() {
 
 // ── Episode list ─────────────────────────────────────────
 function episodeMatchesFilter(ep) {
-  if (!selectedCats.length) return true;
-  return (ep.categories || []).some(function (c) { return selectedCats.indexOf(c) >= 0; });
+  if (!selectedCat) return true;
+  return (ep.categories || []).indexOf(selectedCat) >= 0;
 }
 function renderFilterBar() {
   var bar = document.getElementById('filter-bar');
@@ -375,20 +375,20 @@ function renderFilterBar() {
   bar.innerHTML = '';
   var all = document.createElement('button');
   all.type = 'button';
-  all.className = 'filter-chip' + (selectedCats.length === 0 ? ' active' : '');
+  all.className = 'filter-chip' + (selectedCat === null ? ' active' : '');
   all.textContent = t('filter_all');
-  all.addEventListener('click', function () { selectedCats = []; renderEpisodeList(); });
+  all.addEventListener('click', function () { selectedCat = null; renderEpisodeList(); });
   bar.appendChild(all);
   CATEGORIES.forEach(function (c) {
     var count = EPISODES.filter(function (e) { return (e.categories || []).indexOf(c.id) >= 0; }).length;
     if (!count) return;   // hide categories with no episodes yet
     var chip = document.createElement('button');
     chip.type = 'button';
-    chip.className = 'filter-chip' + (selectedCats.indexOf(c.id) >= 0 ? ' active' : '');
+    chip.className = 'filter-chip' + (selectedCat === c.id ? ' active' : '');
     chip.innerHTML = esc(catLabel(c.id)) + ' <span class="chip-count">' + count + '</span>';
     chip.addEventListener('click', function () {
-      var i = selectedCats.indexOf(c.id);
-      if (i >= 0) selectedCats.splice(i, 1); else selectedCats.push(c.id);
+      // single-select: pick this topic, or click the active one again to clear back to "All"
+      selectedCat = (selectedCat === c.id) ? null : c.id;
       renderEpisodeList();
     });
     bar.appendChild(chip);
