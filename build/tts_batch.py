@@ -13,14 +13,19 @@ KEYS = ["eltereforum", "benevolat", "lualert", "luxtrust", "maison_orientation",
         "digitalinclusion", "onis", "workinluxembourg"]
 LANGS = ["fr", "de"]
 BUDGET = float(sys.argv[1]) if len(sys.argv) > 1 else 40.0
-if len(sys.argv) > 2:           # optional: restrict to comma-separated keys
+if len(sys.argv) > 2 and sys.argv[2]:   # optional: restrict to comma-separated keys
     KEYS = sys.argv[2].split(",")
+if len(sys.argv) > 3 and sys.argv[3]:   # optional: comma-separated langs (en/fr/de)
+    LANGS = sys.argv[3].split(",")
 
 SCRIPT_DIR = os.getcwd()
 VOICES = {
+    "en": {"Anna": "en-US-JennyNeural", "Tom": "en-US-GuyNeural"},
     "fr": {"Anna": "fr-FR-DeniseNeural", "Tom": "fr-FR-HenriNeural"},
     "de": {"Anna": "de-DE-KatjaNeural",  "Tom": "de-DE-ConradNeural"},
 }
+def workdir(key, lang):
+    return "/tmp/%s_seg" % key if lang == "en" else "/tmp/%s_%s_seg" % (key, lang)
 RATE = "-6%"
 env = os.environ.copy()
 env["PATH"] = env["PATH"] + ":" + os.path.expanduser("~/.local/bin") + ":/root/.local/bin"
@@ -44,7 +49,8 @@ def split_sentences(t):
 
 
 def segments_for(key, lang):
-    src = os.path.join(SCRIPT_DIR, "podcast_script_%s_%s.md" % (key, lang))
+    fname = "podcast_script_%s.md" % key if lang == "en" else "podcast_script_%s_%s.md" % (key, lang)
+    src = os.path.join(SCRIPT_DIR, fname)
     turns = []
     for line in open(src):
         m = re.match(r'\*\*(ANNA|TOM)\s*:\*\*\s*(.*)', line.strip())
@@ -67,7 +73,7 @@ pending = []
 for key in KEYS:
     for lang in LANGS:
         segs = segments_for(key, lang)
-        work = "/tmp/%s_%s_seg" % (key, lang)
+        work = workdir(key, lang)
         os.makedirs(work, exist_ok=True)
         have = sum(1 for i in range(len(segs))
                    if os.path.exists("%s/seg_%04d.mp3" % (work, i)) and os.path.getsize("%s/seg_%04d.mp3" % (work, i)) > 500)

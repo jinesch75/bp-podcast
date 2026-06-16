@@ -63364,5 +63364,9890 @@ const EPISODES = [
     "t": 544.73
    }
   ]
+ },
+ {
+  "id": 19,
+  "key": "snj",
+  "number": "Episode 19",
+  "title": "The Service National de la Jeunesse – Empowering Young People in Luxembourg",
+  "description": "What the SNJ (National Youth Service) is, its motto 'Jonker staark maachen', the youth sector it supports, its hands-on activity centres, the help it gives young people moving into working life (including the voluntary service), and how it listens to young people and promotes safe use of technology through BEE SECURE.",
+  "audio": "podcast_snj.mp3",
+  "duration": 464.35,
+  "topics": [
+   "What the SNJ is",
+   "Motto: Jonker staark maachen",
+   "Supporting the youth sector",
+   "Hands-on activity centres",
+   "Transition to working life",
+   "The voluntary service",
+   "Au Pair service",
+   "BEE SECURE & listening to youth"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome back!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's lovely to have you with us today.",
+    "t": 2.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border workers too, to understand the country and feel at home here.",
+    "t": 14.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today we are talking about young people, and the organisation that exists to support them.",
+    "t": 22.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is called the Service National de la Jeunesse.",
+    "t": 28.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "In English, the National Youth Service.",
+    "t": 31.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "People often shorten it to its initials... S, N, J.",
+    "t": 35.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "The SNJ has a lovely motto in Luxembourgish... \"Jonker staark maachen\".",
+    "t": 40.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "It means \"empowering youth\".",
+    "t": 46.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Anna, what exactly is the SNJ?",
+    "t": 49.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is a public service of the State, created back in 1964.",
+    "t": 52.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "So it has been supporting young people for sixty years.",
+    "t": 57.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "And it works under the Ministry of Education, Children and Youth.",
+    "t": 61.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Its big mission is to help create an environment where young people can develop in a positive way.",
+    "t": 66.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "To help them grow into responsible, active, and caring citizens.",
+    "t": 72.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it supports them through learning experiences, based on what is called non-formal education.",
+    "t": 76.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Non-formal education.",
+    "t": 82.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's an important idea.",
+    "t": 85.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "What does it mean, Anna?",
+    "t": 88.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "It means learning that happens outside the normal classroom... through activities, projects, and real experiences.",
+    "t": 90.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Learning by doing, by meeting others, by trying things out.",
+    "t": 98.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Not exams and grades.",
+    "t": 102.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactly.",
+    "t": 105.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "And participation is voluntary.",
+    "t": 106.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Young people take part because they want to.",
+    "t": 109.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's look at what the SNJ actually offers.",
+    "t": 113.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "I think it helps to see it in a few parts.",
+    "t": 116.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Good idea.",
+    "t": 119.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "The first part is supporting the whole youth sector.",
+    "t": 121.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "The youth sector means youth centres, youth services, and youth organisations across the country.",
+    "t": 125.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "The SNJ helps municipalities and these organisations with advice, with funding, and by connecting them together.",
+    "t": 131.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "So behind many local youth clubs and activities, there is quiet support from the SNJ.",
+    "t": 138.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "The second part is what they call experiences for youth.",
+    "t": 144.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "This is where it gets fun.",
+    "t": 148.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "The SNJ runs educational centres with themed activity programmes.",
+    "t": 151.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "They group them under the word \"Erliewen\", which means \"to experience\".",
+    "t": 156.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "For example, experiencing nature, at a centre in Hollenfels.",
+    "t": 160.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Or experiencing sport, at the centre in Lultzhausen.",
+    "t": 165.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is experiencing media, where young people learn how videos are made, and how to spot manipulation online.",
+    "t": 169.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is experiencing creativity, in a makerspace with new technologies.",
+    "t": 176.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is experiencing teamwork, which builds cooperation and values for living together.",
+    "t": 181.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "And experiencing human rights, at Cinqfontaines, a place of remembrance about the Holocaust.",
+    "t": 187.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "That one is powerful.",
+    "t": 193.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "It helps young people stand against antisemitism and racism.",
+    "t": 196.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is even experiencing languages... Luxembourgish, German, French, and English, in a fun, confidence-building way.",
+    "t": 200.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "So a young person can grow, have fun, and learn, all at the same time.",
+    "t": 209.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "The third part is support for young people moving into working life.",
+    "t": 214.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "This is really important, and it connects to other episodes we have done.",
+    "t": 218.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 223.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "The SNJ helps young people who are at risk of dropping out of school, or who have left school early.",
+    "t": 225.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "And young people who have been inactive for a long time, not in school and not in work.",
+    "t": 231.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "For them, the SNJ offers a personal, caring approach.",
+    "t": 236.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "They help each young person build what they call a \"life project\".",
+    "t": 241.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "A life project... a plan for the next steps, based on that person's own needs and abilities.",
+    "t": 245.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "They offer workshops, training, and practical alternatives to just sitting at home.",
+    "t": 251.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "One of the most special is the voluntary service.",
+    "t": 256.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Tell us about that, Anna.",
+    "t": 260.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "The voluntary service lets a young person commit to a real project of general interest, for a period of time.",
+    "t": 263.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is true learning by doing.",
+    "t": 270.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "You gain experience, you discover what you enjoy, and you build confidence.",
+    "t": 273.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "It can be a stepping stone... towards training, towards a job, towards finding your direction.",
+    "t": 278.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "You can find these opportunities on websites like volontaires dot lu.",
+    "t": 284.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are also discovery internships in companies, to get a real taste of the working world.",
+    "t": 289.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "The SNJ also runs something called the Au Pair service.",
+    "t": 294.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 298.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "If a young person comes to Luxembourg as an au pair, living with a host family, the SNJ supervises that.",
+    "t": 300.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "They make sure the law is respected, prepare the au pairs, and help if there is any conflict.",
+    "t": 307.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "So both the young person and the family are protected.",
+    "t": 313.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can learn more at au dash pair dot lu.",
+    "t": 317.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is also a fourth part... listening to young people.",
+    "t": 320.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "The SNJ studies the situation of young people, working with the University of Luxembourg.",
+    "t": 324.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "They run surveys, and publish a big national report on youth every five years.",
+    "t": 330.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "They also listen directly, through the youth council, the \"Jugendrot\", where young people speak up on public matters.",
+    "t": 335.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "So young people are not just helped... they are heard.",
+    "t": 342.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "And there is BEE SECURE, which many people know.",
+    "t": 346.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "BEE SECURE promotes the safe and responsible use of the internet and new technologies.",
+    "t": 350.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Tips to stay safe online, to avoid risks, and to use technology wisely.",
+    "t": 355.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's give a sense of the scale of all this.",
+    "t": 361.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "The SNJ has five educational centres, and local youth antennas across the country for individual support.",
+    "t": 364.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "And every year, tens of thousands of young people take part in its activities.",
+    "t": 371.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "So Tom, let's make this practical.",
+    "t": 376.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "How can a young person, or a parent, actually use the SNJ?",
+    "t": 379.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "First... if you know a young person who is unsure what to do after school, the SNJ can help them build a life project.",
+    "t": 384.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second... if a young person wants real experience, look into the voluntary service.",
+    "t": 391.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third... for fun, growth, and meeting others, explore the SNJ's activity centres and programmes.",
+    "t": 397.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fourth... for safety online, BEE SECURE has practical advice for young people and parents alike.",
+    "t": 403.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's bring it all together.",
+    "t": 410.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "What should people remember about the SNJ?",
+    "t": 412.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "First... it is Luxembourg's National Youth Service, here to empower young people, with the motto \"Jonker staark maachen\".",
+    "t": 416.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second... it supports the whole youth sector, and runs rich, hands-on learning experiences.",
+    "t": 423.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third... it helps young people move into working life, including through the voluntary service.",
+    "t": 430.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fourth... it listens to young people, and promotes safe use of technology through BEE SECURE.",
+    "t": 435.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Growing up is a journey, with ups and downs.",
+    "t": 441.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "No young person should have to walk it alone.",
+    "t": 445.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "And in Luxembourg, they don't have to.",
+    "t": 448.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "The SNJ is walking beside them.",
+    "t": 451.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening today.",
+    "t": 454.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care, and see you in the next episode.",
+    "t": 457.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 461.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 462.83
+   }
+  ],
+  "questions": [
+   {
+    "text": "What does the SNJ do?",
+    "options": [
+     "Runs Luxembourg's universities",
+     "It is Luxembourg's National Youth Service, supporting young people's development",
+     "It sells youth insurance",
+     "It organises only sports competitions"
+    ],
+    "correct": 1,
+    "explanation": "The Service National de la Jeunesse (SNJ) is Luxembourg's public National Youth Service, created in 1964. Its motto is “Jonker staark maachen” — empowering youth. It helps young people develop and become responsible, active citizens."
+   },
+   {
+    "text": "What kind of education is the SNJ's work based on?",
+    "options": [
+     "Formal exams and grades",
+     "Non-formal education — learning through activities and experiences",
+     "University degrees only",
+     "Distance learning only"
+    ],
+    "correct": 1,
+    "explanation": "The SNJ works through non-formal education: learning outside the classroom, through activities, projects and real experiences. Participation is voluntary."
+   },
+   {
+    "text": "What is the voluntary service offered by the SNJ?",
+    "options": [
+     "A paid full-time career",
+     "A chance for a young person to commit to a project of general interest and gain experience",
+     "Compulsory military service",
+     "A school exam"
+    ],
+    "correct": 1,
+    "explanation": "The voluntary service lets a young person take part in a real project of general interest for a period of time. It is learning by doing — a stepping stone towards training, a job, or finding direction."
+   },
+   {
+    "text": "Who can the SNJ help with the transition to working life?",
+    "options": [
+     "Only university graduates",
+     "Young people at risk of dropping out, early school leavers and inactive young people",
+     "Only people over fifty",
+     "Only foreign students"
+    ],
+    "correct": 1,
+    "explanation": "The SNJ supports young people who are at risk of dropping out, who left school early, or who have been inactive, helping each build a personal “life project” through workshops, training and practical alternatives."
+   },
+   {
+    "text": "What is BEE SECURE?",
+    "options": [
+     "A home alarm company",
+     "An SNJ initiative promoting safe, responsible use of the internet and technology",
+     "A banking app",
+     "A type of insurance"
+    ],
+    "correct": 1,
+    "explanation": "BEE SECURE promotes the safe and responsible use of the internet and new technologies, with practical advice for young people and parents to avoid online risks."
+   }
+  ],
+  "categories": [
+   "family",
+   "work"
+  ],
+  "title_fr": "Le Service national de la jeunesse – Donner les moyens d'agir aux jeunes au Luxembourg",
+  "description_fr": "Ce qu'est le SNJ (Service national de la jeunesse), sa devise « Jonker staark maachen », le secteur de la jeunesse qu'il soutient, ses centres d'activités pratiques, l'aide qu'il apporte aux jeunes entrant dans la vie active (y compris le service volontaire), et la manière dont il écoute les jeunes et promeut un usage sûr des technologies grâce à BEE SECURE.",
+  "topics_fr": [
+   "Ce qu'est le SNJ",
+   "Devise : Jonker staark maachen",
+   "Soutenir le secteur de la jeunesse",
+   "Centres d'activités pratiques",
+   "Transition vers la vie active",
+   "Le service volontaire",
+   "Service Au Pair",
+   "BEE SECURE & écoute des jeunes"
+  ],
+  "questions_fr": [
+   {
+    "text": "Que fait le SNJ ?",
+    "options": [
+     "Il gère les universités du Luxembourg",
+     "C'est le Service national de la jeunesse du Luxembourg, qui soutient le développement des jeunes",
+     "Il vend des assurances pour les jeunes",
+     "Il organise uniquement des compétitions sportives"
+    ],
+    "correct": 1,
+    "explanation": "Le Service national de la jeunesse (SNJ) est le service public national de la jeunesse du Luxembourg, créé en 1964. Sa devise est « Jonker staark maachen » — donner les moyens d'agir aux jeunes. Il aide les jeunes à se développer et à devenir des citoyens responsables et actifs."
+   },
+   {
+    "text": "Sur quel type d'éducation repose le travail du SNJ ?",
+    "options": [
+     "Des examens formels et des notes",
+     "L'éducation non formelle — apprendre par les activités et les expériences",
+     "Uniquement des diplômes universitaires",
+     "Uniquement l'enseignement à distance"
+    ],
+    "correct": 1,
+    "explanation": "Le SNJ travaille à travers l'éducation non formelle : apprendre en dehors de la salle de classe, par des activités, des projets et des expériences réelles. La participation est volontaire."
+   },
+   {
+    "text": "Qu'est-ce que le service volontaire proposé par le SNJ ?",
+    "options": [
+     "Une carrière rémunérée à temps plein",
+     "Une occasion pour un jeune de s'engager dans un projet d'intérêt général et d'acquérir de l'expérience",
+     "Un service militaire obligatoire",
+     "Un examen scolaire"
+    ],
+    "correct": 1,
+    "explanation": "Le service volontaire permet à un jeune de participer à un véritable projet d'intérêt général pendant une certaine période. C'est apprendre en faisant — un tremplin vers une formation, un emploi ou une orientation."
+   },
+   {
+    "text": "Qui le SNJ peut-il aider dans la transition vers la vie active ?",
+    "options": [
+     "Uniquement les diplômés universitaires",
+     "Les jeunes en risque de décrochage, ceux qui ont quitté l'école tôt et les jeunes inactifs",
+     "Uniquement les personnes de plus de cinquante ans",
+     "Uniquement les étudiants étrangers"
+    ],
+    "correct": 1,
+    "explanation": "Le SNJ soutient les jeunes en risque de décrochage, ceux qui ont quitté l'école tôt ou qui sont restés inactifs, en aidant chacun à construire un « projet de vie » personnel grâce à des ateliers, des formations et des alternatives concrètes."
+   },
+   {
+    "text": "Qu'est-ce que BEE SECURE ?",
+    "options": [
+     "Une entreprise d'alarmes domestiques",
+     "Une initiative du SNJ qui promeut un usage sûr et responsable d'Internet et des technologies",
+     "Une application bancaire",
+     "Un type d'assurance"
+    ],
+    "correct": 1,
+    "explanation": "BEE SECURE promeut un usage sûr et responsable d'Internet et des nouvelles technologies, avec des conseils pratiques pour les jeunes et les parents afin d'éviter les risques en ligne."
+   }
+  ],
+  "title_de": "Der Service National de la Jeunesse – junge Menschen in Luxemburg stärken",
+  "description_de": "Was der SNJ (Nationaler Jugenddienst) ist, sein Leitspruch „Jonker staark maachen“, der Jugendsektor, den er unterstützt, seine praxisnahen Aktivitätszentren, die Hilfe, die er jungen Menschen beim Übergang ins Berufsleben bietet (einschließlich des Freiwilligendienstes), und wie er jungen Menschen zuhört und über BEE SECURE einen sicheren Umgang mit Technik fördert.",
+  "topics_de": [
+   "Was der SNJ ist",
+   "Leitspruch: Jonker staark maachen",
+   "Unterstützung des Jugendsektors",
+   "Praxisnahe Aktivitätszentren",
+   "Übergang ins Berufsleben",
+   "Der Freiwilligendienst",
+   "Au-pair-Dienst",
+   "BEE SECURE & Jugend zuhören"
+  ],
+  "questions_de": [
+   {
+    "text": "Was macht der SNJ?",
+    "options": [
+     "Er betreibt Luxemburgs Universitäten",
+     "Er ist der Nationale Jugenddienst Luxemburgs und fördert die Entwicklung junger Menschen",
+     "Er verkauft Jugendversicherungen",
+     "Er organisiert ausschließlich Sportwettkämpfe"
+    ],
+    "correct": 1,
+    "explanation": "Der Service National de la Jeunesse (SNJ) ist der öffentliche Nationale Jugenddienst Luxemburgs, der 1964 gegründet wurde. Sein Leitspruch lautet „Jonker staark maachen“ – junge Menschen stärken. Er hilft jungen Menschen, sich zu entwickeln und zu verantwortungsbewussten, aktiven Bürgerinnen und Bürgern zu werden."
+   },
+   {
+    "text": "Auf welcher Art von Bildung beruht die Arbeit des SNJ?",
+    "options": [
+     "Auf formalen Prüfungen und Noten",
+     "Auf non-formaler Bildung – Lernen durch Aktivitäten und Erfahrungen",
+     "Ausschließlich auf Hochschulabschlüssen",
+     "Ausschließlich auf Fernunterricht"
+    ],
+    "correct": 1,
+    "explanation": "Der SNJ arbeitet mit non-formaler Bildung: Lernen außerhalb des Klassenzimmers, durch Aktivitäten, Projekte und reale Erfahrungen. Die Teilnahme ist freiwillig."
+   },
+   {
+    "text": "Was ist der Freiwilligendienst, den der SNJ anbietet?",
+    "options": [
+     "Eine bezahlte Vollzeitkarriere",
+     "Eine Gelegenheit für junge Menschen, sich für ein Projekt von allgemeinem Interesse zu engagieren und Erfahrung zu sammeln",
+     "Ein verpflichtender Militärdienst",
+     "Eine Schulprüfung"
+    ],
+    "correct": 1,
+    "explanation": "Der Freiwilligendienst ermöglicht es jungen Menschen, sich für eine bestimmte Zeit an einem echten Projekt von allgemeinem Interesse zu beteiligen. Es ist Lernen durch Handeln – ein Sprungbrett zu einer Ausbildung, einer Arbeit oder einer beruflichen Orientierung."
+   },
+   {
+    "text": "Wem kann der SNJ beim Übergang ins Berufsleben helfen?",
+    "options": [
+     "Nur Hochschulabsolventinnen und -absolventen",
+     "Jungen Menschen, die von Schulabbruch bedroht sind, Schulabbrechern und nicht erwerbstätigen jungen Menschen",
+     "Nur Personen über fünfzig",
+     "Nur ausländischen Studierenden"
+    ],
+    "correct": 1,
+    "explanation": "Der SNJ unterstützt junge Menschen, die von einem Schulabbruch bedroht sind, die die Schule frühzeitig verlassen haben oder die nicht erwerbstätig waren, und hilft jedem, durch Workshops, Schulungen und praktische Alternativen ein persönliches „Lebensprojekt“ aufzubauen."
+   },
+   {
+    "text": "Was ist BEE SECURE?",
+    "options": [
+     "Eine Firma für Hausalarmanlagen",
+     "Eine Initiative des SNJ zur Förderung eines sicheren und verantwortungsvollen Umgangs mit Internet und Technik",
+     "Eine Banking-App",
+     "Eine Art Versicherung"
+    ],
+    "correct": 1,
+    "explanation": "BEE SECURE fördert den sicheren und verantwortungsvollen Umgang mit dem Internet und den neuen Technologien und gibt jungen Menschen und Eltern praktische Ratschläge, um Online-Risiken zu vermeiden."
+   }
+  ],
+  "audio_fr": "podcast_snj_fr.mp3",
+  "duration_fr": 482.11,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour, et bienvenue à nouveau !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous sommes ravis de vous compter parmi nous aujourd'hui.",
+    "t": 3.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 6.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 9.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme qui parle du vivre-ensemble au Luxembourg.",
+    "t": 12.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les frontaliers, à comprendre le pays et à se sentir chez eux ici.",
+    "t": 16.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et aujourd'hui, nous parlons des jeunes, et de l'organisation qui existe pour les soutenir.",
+    "t": 24.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle s'appelle le Service National de la Jeunesse.",
+    "t": 30.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "En anglais, le National Youth Service.",
+    "t": 33.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les gens utilisent souvent ses initiales... S, N, J.",
+    "t": 37.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le SNJ a une belle devise en luxembourgeois... « Jonker staark maachen ».",
+    "t": 42.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela signifie « rendre les jeunes forts ».",
+    "t": 48.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Anna, qu'est-ce que le SNJ exactement ?",
+    "t": 51.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un service public de l'État, créé en 1964.",
+    "t": 55.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il soutient donc les jeunes depuis soixante ans.",
+    "t": 60.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et il travaille sous le Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse.",
+    "t": 63.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sa grande mission est d'aider à créer un environnement où les jeunes peuvent se développer de manière positive.",
+    "t": 68.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les aider à devenir des citoyens responsables, actifs et bienveillants.",
+    "t": 75.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il les accompagne à travers des expériences d'apprentissage, basées sur ce qu'on appelle l'éducation non formelle.",
+    "t": 79.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'éducation non formelle.",
+    "t": 86.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est une idée importante.",
+    "t": 88.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Qu'est-ce que cela veut dire, Anna ?",
+    "t": 91.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela veut dire l'apprentissage qui se fait en dehors de la salle de classe habituelle... à travers des activités, des projets et de vraies expériences.",
+    "t": 94.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Apprendre en faisant, en rencontrant les autres, en essayant des choses.",
+    "t": 102.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pas des examens et des notes.",
+    "t": 107.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactement.",
+    "t": 109.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et la participation est volontaire.",
+    "t": 111.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les jeunes participent parce qu'ils en ont envie.",
+    "t": 114.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Regardons ce que le SNJ propose réellement.",
+    "t": 118.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Je pense que c'est utile de le voir en plusieurs parties.",
+    "t": 121.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bonne idée.",
+    "t": 125.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "La première partie, c'est le soutien à tout le secteur de la jeunesse.",
+    "t": 126.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le secteur de la jeunesse, ce sont les maisons des jeunes, les services pour jeunes et les organisations de jeunesse dans tout le pays.",
+    "t": 131.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le SNJ aide les communes et ces organisations avec des conseils, avec des financements, et en les mettant en réseau.",
+    "t": 139.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc, derrière beaucoup de clubs de jeunes et d'activités locales, il y a un soutien discret du SNJ.",
+    "t": 146.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "La deuxième partie, c'est ce qu'ils appellent les expériences pour les jeunes.",
+    "t": 152.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est là que cela devient amusant.",
+    "t": 157.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le SNJ gère des centres éducatifs avec des programmes d'activités à thème.",
+    "t": 160.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils les regroupent sous le mot « Erliewen », qui signifie « vivre une expérience ».",
+    "t": 164.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Par exemple, vivre la nature, dans un centre à Hollenfels.",
+    "t": 170.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ou vivre le sport, au centre de Lultzhausen.",
+    "t": 174.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a vivre les médias, où les jeunes apprennent comment les vidéos sont faites, et comment repérer la manipulation en ligne.",
+    "t": 178.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a vivre la créativité, dans un makerspace avec de nouvelles technologies.",
+    "t": 185.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a vivre le travail d'équipe, qui développe la coopération et les valeurs du vivre-ensemble.",
+    "t": 190.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et vivre les droits humains, à Cinqfontaines, un lieu de mémoire sur la Shoah.",
+    "t": 196.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "Celui-là est puissant.",
+    "t": 201.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il aide les jeunes à s'opposer à l'antisémitisme et au racisme.",
+    "t": 203.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a même vivre les langues... le luxembourgeois, l'allemand, le français et l'anglais, d'une manière ludique qui donne confiance.",
+    "t": 207.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ainsi, un jeune peut grandir, s'amuser et apprendre, tout en même temps.",
+    "t": 215.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "La troisième partie, c'est le soutien aux jeunes qui entrent dans la vie active.",
+    "t": 220.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est vraiment important, et cela rejoint d'autres épisodes que nous avons faits.",
+    "t": 225.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 230.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le SNJ aide les jeunes qui risquent de décrocher de l'école, ou qui ont quitté l'école tôt.",
+    "t": 231.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et les jeunes qui sont restés inactifs longtemps, ni à l'école ni au travail.",
+    "t": 237.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pour eux, le SNJ propose une approche personnelle et bienveillante.",
+    "t": 242.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils aident chaque jeune à construire ce qu'ils appellent un « projet de vie ».",
+    "t": 246.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Un projet de vie... un plan pour les prochaines étapes, basé sur les besoins et les capacités propres de la personne.",
+    "t": 251.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils offrent des ateliers, des formations, et des alternatives concrètes au fait de rester simplement à la maison.",
+    "t": 258.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'une des plus spéciales, c'est le service volontaire.",
+    "t": 265.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parle-nous-en, Anna.",
+    "t": 269.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le service volontaire permet à un jeune de s'engager dans un vrai projet d'intérêt général, pendant une certaine période.",
+    "t": 271.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est vraiment apprendre en faisant.",
+    "t": 278.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "On acquiert de l'expérience, on découvre ce qu'on aime, et on prend confiance.",
+    "t": 281.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela peut être un tremplin... vers une formation, vers un emploi, vers la découverte de sa voie.",
+    "t": 286.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "On peut trouver ces opportunités sur des sites comme volontaires point lu.",
+    "t": 292.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a aussi des stages de découverte en entreprise, pour goûter vraiment au monde du travail.",
+    "t": 297.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le SNJ gère aussi quelque chose qu'on appelle le service Au Pair.",
+    "t": 302.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 307.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si un jeune vient au Luxembourg comme au pair, en vivant chez une famille d'accueil, le SNJ encadre cela.",
+    "t": 308.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils veillent à ce que la loi soit respectée, préparent les au pairs, et aident s'il y a un conflit.",
+    "t": 315.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ainsi, le jeune et la famille sont tous les deux protégés.",
+    "t": 321.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez en savoir plus sur au tiret pair point lu.",
+    "t": 325.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a aussi une quatrième partie... écouter les jeunes.",
+    "t": 328.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le SNJ étudie la situation des jeunes, en collaboration avec l'Université du Luxembourg.",
+    "t": 332.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils mènent des enquêtes, et publient un grand rapport national sur la jeunesse tous les cinq ans.",
+    "t": 338.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils écoutent aussi directement, à travers le conseil de la jeunesse, le « Jugendrot », où les jeunes s'expriment sur les sujets publics.",
+    "t": 344.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ainsi, les jeunes ne sont pas seulement aidés... ils sont entendus.",
+    "t": 352.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il y a BEE SECURE, que beaucoup de gens connaissent.",
+    "t": 357.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "BEE SECURE encourage l'utilisation sûre et responsable d'internet et des nouvelles technologies.",
+    "t": 360.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Des conseils pour rester en sécurité en ligne, pour éviter les risques, et pour utiliser la technologie de manière avisée.",
+    "t": 366.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donnons une idée de l'ampleur de tout cela.",
+    "t": 373.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le SNJ a cinq centres éducatifs, et des antennes locales pour la jeunesse dans tout le pays pour un accompagnement individuel.",
+    "t": 376.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et chaque année, des dizaines de milliers de jeunes participent à ses activités.",
+    "t": 384.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors Tom, rendons cela concret.",
+    "t": 389.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comment un jeune, ou un parent, peut-il vraiment utiliser le SNJ ?",
+    "t": 392.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Premièrement... si vous connaissez un jeune qui ne sait pas quoi faire après l'école, le SNJ peut l'aider à construire un projet de vie.",
+    "t": 397.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deuxièmement... si un jeune veut une vraie expérience, renseignez-vous sur le service volontaire.",
+    "t": 404.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement... pour s'amuser, grandir et rencontrer les autres, explorez les centres d'activités et les programmes du SNJ.",
+    "t": 410.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quatrièmement... pour la sécurité en ligne, BEE SECURE a des conseils pratiques pour les jeunes comme pour les parents.",
+    "t": 417.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Rassemblons tout cela.",
+    "t": 424.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que doit-on retenir du SNJ ?",
+    "t": 426.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Premièrement... c'est le Service National de la Jeunesse du Luxembourg, là pour donner du pouvoir aux jeunes, avec la devise « Jonker staark maachen ».",
+    "t": 429.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement... il soutient tout le secteur de la jeunesse, et propose des expériences d'apprentissage riches et concrètes.",
+    "t": 438.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement... il aide les jeunes à entrer dans la vie active, notamment à travers le service volontaire.",
+    "t": 445.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quatrièmement... il écoute les jeunes, et encourage l'utilisation sûre de la technologie à travers BEE SECURE.",
+    "t": 451.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Grandir est un voyage, avec des hauts et des bas.",
+    "t": 458.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aucun jeune ne devrait avoir à le faire seul.",
+    "t": 462.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et au Luxembourg, ils n'ont pas à le faire.",
+    "t": 465.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le SNJ marche à leurs côtés.",
+    "t": 468.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
+    "t": 471.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
+    "t": 474.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi !",
+    "t": 478.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi !",
+    "t": 480.49
+   }
+  ],
+  "audio_de": "podcast_snj_de.mp3",
+  "duration_de": 532.25,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen zurück!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schön, dass Sie heute bei uns sind.",
+    "t": 3.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 6.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 8.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 11.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, das Land zu verstehen und sich hier zu Hause zu fühlen.",
+    "t": 16.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und heute sprechen wir über junge Menschen und über die Organisation, die es gibt, um sie zu unterstützen.",
+    "t": 25.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie heißt Service National de la Jeunesse.",
+    "t": 32.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Auf Englisch: National Youth Service.",
+    "t": 35.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oft kürzt man den Namen mit den Initialen ab... S, N, J.",
+    "t": 39.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der SNJ hat ein schönes Motto auf Luxemburgisch... „Jonker staark maachen\".",
+    "t": 44.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das bedeutet „junge Menschen stärken\".",
+    "t": 50.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, was genau ist der SNJ?",
+    "t": 54.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist ein öffentlicher Dienst des Staates, gegründet im Jahr 1964.",
+    "t": 57.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er unterstützt junge Menschen also seit sechzig Jahren.",
+    "t": 64.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und er arbeitet unter dem Ministerium für Bildung, Kinder und Jugend.",
+    "t": 68.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Seine große Aufgabe ist es, ein Umfeld zu schaffen, in dem sich junge Menschen positiv entwickeln können.",
+    "t": 73.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ihnen zu helfen, zu verantwortungsbewussten, aktiven und fürsorglichen Bürgern heranzuwachsen.",
+    "t": 80.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und er begleitet sie durch Lernerfahrungen, die auf der sogenannten nicht-formalen Bildung beruhen.",
+    "t": 87.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nicht-formale Bildung.",
+    "t": 93.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist ein wichtiger Gedanke.",
+    "t": 96.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was bedeutet das, Anna?",
+    "t": 98.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es bedeutet Lernen, das außerhalb des normalen Klassenzimmers stattfindet... durch Aktivitäten, Projekte und echte Erfahrungen.",
+    "t": 101.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Lernen durch Tun, durch das Treffen anderer, durch das Ausprobieren von Dingen.",
+    "t": 110.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Keine Prüfungen und Noten.",
+    "t": 116.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau.",
+    "t": 119
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Teilnahme ist freiwillig.",
+    "t": 120.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Junge Menschen machen mit, weil sie es wollen.",
+    "t": 123.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Schauen wir uns an, was der SNJ tatsächlich anbietet.",
+    "t": 127.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich finde, es hilft, es in mehreren Teilen zu sehen.",
+    "t": 131.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Gute Idee.",
+    "t": 135.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der erste Teil ist die Unterstützung des gesamten Jugendsektors.",
+    "t": 137.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Jugendsektor, das sind Jugendhäuser, Jugenddienste und Jugendorganisationen im ganzen Land.",
+    "t": 142.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der SNJ hilft den Gemeinden und diesen Organisationen mit Beratung, mit Förderung und indem er sie miteinander vernetzt.",
+    "t": 149.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hinter vielen lokalen Jugendclubs und Aktivitäten steht also eine stille Unterstützung des SNJ.",
+    "t": 157.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der zweite Teil ist das, was sie Erfahrungen für junge Menschen nennen.",
+    "t": 164.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hier wird es spannend.",
+    "t": 169.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der SNJ betreibt Bildungszentren mit thematischen Aktivitätsprogrammen.",
+    "t": 171.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie fassen sie unter dem Wort „Erliewen\" zusammen, was „erleben\" bedeutet.",
+    "t": 176.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zum Beispiel die Natur erleben, in einem Zentrum in Hollenfels.",
+    "t": 182.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oder Sport erleben, im Zentrum in Lultzhausen.",
+    "t": 186.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt Medien erleben, wo junge Menschen lernen, wie Videos gemacht werden und wie man Manipulation im Internet erkennt.",
+    "t": 191.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt Kreativität erleben, in einem Makerspace mit neuen Technologien.",
+    "t": 198.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt Teamarbeit erleben, was die Zusammenarbeit und die Werte des Zusammenlebens fördert.",
+    "t": 204.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und Menschenrechte erleben, in Cinqfontaines, einem Ort der Erinnerung an den Holocaust.",
+    "t": 210.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist sehr eindrücklich.",
+    "t": 217.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es hilft jungen Menschen, sich gegen Antisemitismus und Rassismus zu stellen.",
+    "t": 219.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt sogar Sprachen erleben... Luxemburgisch, Deutsch, Französisch und Englisch, auf eine spielerische Weise, die Selbstvertrauen schafft.",
+    "t": 225.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "So kann ein junger Mensch wachsen, Spaß haben und lernen, alles gleichzeitig.",
+    "t": 235.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der dritte Teil ist die Unterstützung junger Menschen beim Eintritt ins Berufsleben.",
+    "t": 241.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist wirklich wichtig, und es hängt mit anderen Folgen zusammen, die wir gemacht haben.",
+    "t": 246.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 252.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der SNJ hilft jungen Menschen, die Gefahr laufen, die Schule abzubrechen, oder die die Schule früh verlassen haben.",
+    "t": 253.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und jungen Menschen, die lange inaktiv waren, weder in der Schule noch in der Arbeit.",
+    "t": 261.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Für sie bietet der SNJ einen persönlichen, fürsorglichen Ansatz.",
+    "t": 267.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie helfen jedem jungen Menschen, ein sogenanntes „Lebensprojekt\" aufzubauen.",
+    "t": 272.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ein Lebensprojekt... ein Plan für die nächsten Schritte, basierend auf den eigenen Bedürfnissen und Fähigkeiten der Person.",
+    "t": 278.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie bieten Workshops, Schulungen und konkrete Alternativen dazu, einfach nur zu Hause zu sitzen.",
+    "t": 286.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eine der besondersten ist der Freiwilligendienst.",
+    "t": 293.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erzähl uns davon, Anna.",
+    "t": 297.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Freiwilligendienst ermöglicht es einem jungen Menschen, sich für eine bestimmte Zeit für ein echtes Projekt von allgemeinem Interesse zu engagieren.",
+    "t": 299.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist echtes Lernen durch Tun.",
+    "t": 309.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Man sammelt Erfahrung, man entdeckt, was einem Freude macht, und man gewinnt Selbstvertrauen.",
+    "t": 312.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es kann ein Sprungbrett sein... zu einer Ausbildung, zu einem Job, zum Finden der eigenen Richtung.",
+    "t": 318.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Diese Möglichkeiten finden Sie auf Webseiten wie volontaires Punkt lu.",
+    "t": 325.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt auch Schnupperpraktika in Unternehmen, um einen echten Eindruck von der Arbeitswelt zu bekommen.",
+    "t": 330.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der SNJ betreibt auch etwas, das Au-Pair-Dienst heißt.",
+    "t": 337.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 341.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn ein junger Mensch als Au-pair nach Luxemburg kommt und bei einer Gastfamilie lebt, begleitet der SNJ das.",
+    "t": 342.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie sorgen dafür, dass das Gesetz eingehalten wird, bereiten die Au-pairs vor und helfen, wenn es einen Konflikt gibt.",
+    "t": 350.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "So sind sowohl der junge Mensch als auch die Familie geschützt.",
+    "t": 357.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mehr erfahren Sie unter au Bindestrich pair Punkt lu.",
+    "t": 362.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt auch einen vierten Teil... jungen Menschen zuhören.",
+    "t": 366.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der SNJ untersucht die Situation junger Menschen, in Zusammenarbeit mit der Universität Luxemburg.",
+    "t": 370.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie führen Umfragen durch und veröffentlichen alle fünf Jahre einen großen nationalen Jugendbericht.",
+    "t": 377.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie hören auch direkt zu, über den Jugendrat, den „Jugendrot\", wo junge Menschen sich zu öffentlichen Themen äußern.",
+    "t": 383.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "So wird jungen Menschen nicht nur geholfen... sie werden gehört.",
+    "t": 391.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es gibt BEE SECURE, das viele Menschen kennen.",
+    "t": 396.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "BEE SECURE fördert die sichere und verantwortungsvolle Nutzung des Internets und neuer Technologien.",
+    "t": 400.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Tipps, um online sicher zu bleiben, Risiken zu vermeiden und Technologie klug zu nutzen.",
+    "t": 406.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Geben wir einen Eindruck vom Umfang des Ganzen.",
+    "t": 413.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der SNJ hat fünf Bildungszentren und lokale Jugendantennen im ganzen Land für die individuelle Begleitung.",
+    "t": 416.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und jedes Jahr nehmen Zehntausende junger Menschen an seinen Aktivitäten teil.",
+    "t": 424.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, machen wir das praktisch.",
+    "t": 429.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wie kann ein junger Mensch oder ein Elternteil den SNJ tatsächlich nutzen?",
+    "t": 432.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens... wenn Sie einen jungen Menschen kennen, der unsicher ist, was er nach der Schule tun soll, kann der SNJ ihm helfen, ein Lebensprojekt aufzubauen.",
+    "t": 438.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens... wenn ein junger Mensch echte Erfahrung sammeln möchte, informieren Sie sich über den Freiwilligendienst.",
+    "t": 448.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens... für Spaß, Wachstum und das Treffen anderer, entdecken Sie die Aktivitätszentren und Programme des SNJ.",
+    "t": 455.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Viertens... für Sicherheit im Internet hat BEE SECURE praktische Ratschläge für junge Menschen und Eltern gleichermaßen.",
+    "t": 463.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fassen wir alles zusammen.",
+    "t": 471.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was sollte man sich über den SNJ merken?",
+    "t": 474.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens... es ist Luxemburgs Service National de la Jeunesse, da, um junge Menschen zu stärken, mit dem Motto „Jonker staark maachen\".",
+    "t": 477.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens... er unterstützt den gesamten Jugendsektor und bietet reiche, praxisnahe Lernerfahrungen.",
+    "t": 486.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens... er hilft jungen Menschen beim Eintritt ins Berufsleben, unter anderem durch den Freiwilligendienst.",
+    "t": 493.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und viertens... er hört jungen Menschen zu und fördert die sichere Nutzung von Technologie durch BEE SECURE.",
+    "t": 501.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erwachsenwerden ist eine Reise, mit Höhen und Tiefen.",
+    "t": 507.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Kein junger Mensch sollte sie allein gehen müssen.",
+    "t": 511.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und in Luxemburg muss er das nicht.",
+    "t": 515.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der SNJ geht an ihrer Seite.",
+    "t": 518.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank, dass Sie uns heute zugehört haben.",
+    "t": 521.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
+    "t": 525.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 529.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 530.76
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm zréck! Et ass wierklech flott, datt Dir haut bei eis sidd.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien zesummen!",
+    "t": 5.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner hëllefen, an och de Grenzgänger, fir d'Land ze verstoen a sech hei doheem ze fillen.",
+    "t": 7.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "An haut schwätze mir iwwer jonk Leit, an iwwer d'Organisatioun, déi et gëtt, fir si z'ënnerstëtzen.",
+    "t": 22.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si heescht de Service National de la Jeunesse. Op Englesch, den National Youth Service.",
+    "t": 28.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Leit kierzen den Numm dacks mat den Initiale of... S, N, J.",
+    "t": 35.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "De SNJ huet eng flott Devis op Lëtzebuergesch... „Jonker staark maachen\". Dat heescht, jonk Leit staark maachen.",
+    "t": 40.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, wat ass de SNJ genau?",
+    "t": 49.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ass en ëffentlechen Déngscht vum Staat, gegrënnt am Joer 1964. Hie stëtzt jonk Leit also zanter sechzeg Joer.",
+    "t": 52.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "An hie schafft ënner dem Ministère fir Educatioun, Kanner a Jugend.",
+    "t": 61.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Seng grouss Aufgab ass et, ze hëllefen en Ëmfeld ze schafen, an deem jonk Leit sech positiv entwéckele kënnen.",
+    "t": 66.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hinnen ze hëllefen, fir zu verantwortungsvollen, aktiven a fiersuergleche Bierger ze ginn.",
+    "t": 72.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "An hie begleet si duerch Léierfahrungen, déi op deem berouen, wat ee net-formal Bildung nennt.",
+    "t": 76.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Net-formal Bildung. Dat ass eng wichteg Iddi. Wat heescht dat, Anna?",
+    "t": 82.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et heescht Léieren, dat ausserhalb vun der normaler Klass geschitt... duerch Aktivitéiten, Projeten an echt Erfahrungen.",
+    "t": 90.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Léieren duerch Maachen, duerch d'Begéine vun anere Leit, duerch d'Ausprobéieren vu Saachen. Keng Examen a Punkten.",
+    "t": 98.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau. An d'Participatioun ass fräiwëlleg. Jonk Leit maache mat, well se et wëllen.",
+    "t": 105.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer kucken, wat de SNJ tatsächlech ubitt. Ech mengen, et hëlleft, et a verschidden Deeler ze gesinn.",
+    "t": 113.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Gutt Iddi. Den éischten Deel ass d'Ënnerstëtzung vum ganze Jugendsecteur.",
+    "t": 119.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "De Jugendsecteur, dat sinn d'Jugendhaiser, d'Jugenddéngschter an d'Jugendorganisatiounen am ganze Land.",
+    "t": 125.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "De SNJ hëlleft de Gemengen an dësen Organisatioune mat Berodung, mat Finanzéierung, an andeems hien se matenee verbënnt.",
+    "t": 131.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hannert villen lokale Jugendcluben an Aktivitéite stécht also eng roueg Ënnerstëtzung vum SNJ.",
+    "t": 138.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Den zweeten Deel ass dat, wat se Erfahrunge fir jonk Leit nennen.",
+    "t": 144.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hei gëtt et flott. De SNJ bedreift Bildungszentren mat themateschen Aktivitéitsprogrammer.",
+    "t": 148.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si fasse se ënner dem Wuert „Erliewen\" zesummen, wat „eppes erliewen\" heescht.",
+    "t": 156.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zum Beispill d'Natur erliewen, an engem Zenter zu Hollenfels.",
+    "t": 160.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oder de Sport erliewen, am Zenter zu Lultzhausen.",
+    "t": 165.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt d'Medien erliewen, wou jonk Leit léieren, wéi Videoe gemaach ginn, a wéi een Manipulatioun online erkennt.",
+    "t": 169.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt d'Kreativitéit erliewen, an engem Makerspace mat neien Technologien.",
+    "t": 176.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt d'Teamaarbecht erliewen, wat d'Zesummenaarbecht an d'Wäerter vum Zesummeliewe stäerkt.",
+    "t": 181.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "An d'Mënscherechter erliewen, zu Cinqfontaines, engem Erënnerungsuert iwwer den Holocaust.",
+    "t": 187.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deen ass ganz staark. Hie hëlleft jonke Leit, sech géint Antisemitismus a Rassismus ze stellen.",
+    "t": 193.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt souguer d'Sproochen erliewen... Lëtzebuergesch, Däitsch, Franséisch an Englesch, op eng flott Manéier, déi Selbstvertrauen gëtt.",
+    "t": 200.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Esou kann e jonke Mënsch wuessen, Spaass hunn a léieren, alles zur selwechter Zäit.",
+    "t": 209.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Den drëtten Deel ass d'Ënnerstëtzung fir jonk Leit, déi an d'Aarbechtsliewen erakommen.",
+    "t": 214.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass wierklech wichteg, an et hänkt mat anere Episoden zesummen, déi mir gemaach hunn.",
+    "t": 218.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. De SNJ hëlleft jonke Leit, déi a Gefor sinn, d'Schoul ofzebriechen, oder déi d'Schoul fréi verlooss hunn.",
+    "t": 223.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "A jonke Leit, déi laang inaktiv waren, weder an der Schoul nach an der Aarbecht.",
+    "t": 231.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fir si bitt de SNJ eng perséinlech, fiersuerglech Approche. Si hëllefen all jonke Mënsch, dat opzebauen, wat se e „Liewensprojet\" nennen.",
+    "t": 236.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "E Liewensprojet... e Plang fir déi nächst Schrëtt, baséiert op den eegene Besoinen a Fäegkeete vun där Persoun.",
+    "t": 245.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si bidde Workshoppen, Formatiounen, a konkret Alternativen dozou, einfach doheem ze sëtzen.",
+    "t": 251.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eng vun de speziellsten ass de fräiwëllegen Déngscht. Erziel eis dovun, Anna.",
+    "t": 256.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "De fräiwëllegen Déngscht erlaabt et engem jonke Mënsch, sech fir eng gewëss Zäit fir e richtege Projet vun allgemengem Interêt z'engagéieren.",
+    "t": 263.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass richtegt Léieren duerch Maachen. Een sammelt Erfahrung, een entdeckt, wat ee gär huet, an een gewënnt Selbstvertrauen.",
+    "t": 270.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et kann e Sprongbriet sinn... Richtung Formatioun, Richtung Aarbecht, Richtung d'Fanne vu senger Richtung.",
+    "t": 278.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dës Méiglechkeete fannt Dir op Websäite wéi volontaires Punkt lu.",
+    "t": 284.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt och Découverte-Stagen a Betriber, fir e richtege Goût vun der Aarbechtswelt ze kréien.",
+    "t": 289.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "De SNJ bedreift och eppes, wat den Au-Pair-Déngscht heescht.",
+    "t": 294.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. Wann e jonke Mënsch als Au-pair op Lëtzebuerg kënnt a bei enger Gaaschtfamill wunnt, da begleet de SNJ dat.",
+    "t": 298.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si suergen dofir, datt d'Gesetz respektéiert gëtt, bereeden d'Au-pairen vir, an hëllefen, wann et e Konflikt gëtt.",
+    "t": 307.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Esou sinn de jonke Mënsch an d'Famill allebéid geschützt. Méi erfaart Dir op au Strich pair Punkt lu.",
+    "t": 313.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt och e véierten Deel... jonke Leit nolauschteren.",
+    "t": 320.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "De SNJ studéiert d'Situatioun vun de jonke Leit, a Zesummenaarbecht mat der University of Luxembourg.",
+    "t": 324.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si maachen Ëmfroen, a publizéieren all fënnef Joer e grousse nationale Rapport iwwer d'Jugend.",
+    "t": 330.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si lauschteren och direkt no, iwwer de Jugendrot, de „Jugendrot\", wou jonk Leit sech zu ëffentleche Sujete melden.",
+    "t": 335.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Esou gëtt jonke Leit net nëmme gehollef... si gi gehéiert.",
+    "t": 342.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et gëtt BEE SECURE, dat vill Leit kennen.",
+    "t": 346.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "BEE SECURE förderert déi sécher a verantwortungsvoll Notzung vum Internet an den neien Technologien.",
+    "t": 350.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Tipps, fir online sécher ze bleiwen, fir Risiken ze vermeiden, a fir d'Technologie klug ze notzen.",
+    "t": 355.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer eng Iddi ginn vum Ëmfang vun all deem.",
+    "t": 361.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "De SNJ huet fënnef Bildungszentren, a lokal Jugendantennen am ganze Land fir déi individuell Begleedung.",
+    "t": 364.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "An all Joer huelen Zéngdausende vu jonke Leit un sengen Aktivitéiten deel.",
+    "t": 371.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, loosse mer dat konkret maachen. Wéi kann e jonke Mënsch, oder en Elterendeel, de SNJ tatsächlech notzen?",
+    "t": 376.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als éischt... wann Dir e jonke Mënsch kennt, deen onsécher ass, wat e no der Schoul maache soll, da kann de SNJ him hëllefen, e Liewensprojet opzebauen.",
+    "t": 384.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als zweeten... wann e jonke Mënsch richteg Erfahrung wëll, da kuckt Iech de fräiwëllegen Déngscht un.",
+    "t": 391.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als drëtten... fir Spaass, fir ze wuessen a fir aner Leit ze begéinen, entdeckt d'Aktivitéitszentren an d'Programme vum SNJ.",
+    "t": 397.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als véierten... fir Sécherheet online huet BEE SECURE praktesch Rotschléi fir jonk Leit an Eltere gläichermoossen.",
+    "t": 403.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer alles zesummebréngen. Wat soll ee sech iwwer de SNJ merken?",
+    "t": 410.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als éischt... et ass de Lëtzebuerger Service National de la Jeunesse, do fir jonk Leit staark ze maachen, mat der Devis „Jonker staark maachen\".",
+    "t": 416.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als zweeten... hien ënnerstëtzt de ganze Jugendsecteur, a bitt räich, praxisno Léierfahrungen.",
+    "t": 423.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als drëtten... hien hëlleft jonke Leit, an d'Aarbechtsliewen erakommen, ënner anerem duerch de fräiwëllegen Déngscht.",
+    "t": 430.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "An als véierten... hien lauschtert jonke Leit no, a förderert déi sécher Notzung vun der Technologie duerch BEE SECURE.",
+    "t": 435.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Grouss ze ginn ass eng Rees, mat Héichten an Déiften. Kee jonke Mënsch sollt se eleng goen mussen.",
+    "t": 441.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "An zu Lëtzebuerg mussen se dat net. De SNJ geet niewent hinnen.",
+    "t": 448.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools Merci, datt Dir eis haut nogelauschtert hutt.",
+    "t": 454.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passt op Iech op, a bis an der nächster Episod. Äddi!",
+    "t": 457.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 462.83
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "key": "enfance",
+  "number": "Episode 20",
+  "title": "The Office National de l'Enfance – Support and Protection for Children and Families",
+  "description": "What the Office National de l'Enfance (ONE) is, how it works with families voluntarily and step by step to protect children's wellbeing, its fourteen regional offices, the professionals and help measures it offers (from practical and psychological support to foster care), and how to ask for help.",
+  "audio": "podcast_enfance.mp3",
+  "duration": 422.38,
+  "topics": [
+   "What the ONE is",
+   "Working with families, voluntarily",
+   "Fourteen regional offices",
+   "Psychologists, social workers, educators",
+   "Socio-family & psychological support",
+   "Early intervention for young children",
+   "Care centres & foster families",
+   "How to ask for help"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome back!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's good to have you with us today.",
+    "t": 2.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border families too, to know what support exists here.",
+    "t": 14.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today's topic is a caring one... support and protection for children, young people, and families.",
+    "t": 21.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "We are talking about the Office National de l'Enfance.",
+    "t": 27.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "In English, the National Childhood Office.",
+    "t": 31.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Many people shorten it to its initials... O, N, E.",
+    "t": 35.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "So Tom, what is the ONE, and what does it do?",
+    "t": 40.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Its purpose is to protect the wellbeing of the child, and to support children, young people, and families who are going through difficult times.",
+    "t": 44.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "And here is something I really want people to understand.",
+    "t": 52.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "The ONE works with families, not against them.",
+    "t": 56.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's a key point.",
+    "t": 59.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "They aim for voluntary collaboration.",
+    "t": 61.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "They walk beside the family, step by step.",
+    "t": 65.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "The goal is to help the family find its own footing again, and to do what is best for the child.",
+    "t": 68.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "So this is not about blame.",
+    "t": 74.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is about support.",
+    "t": 77.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactly.",
+    "t": 79.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's talk about who the ONE is for.",
+    "t": 81.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is for all kinds of families... two-parent families, single-parent families, adoptive families, and foster families.",
+    "t": 84.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it is for children and young people, from the very youngest, up to young adults.",
+    "t": 91.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Now, how do you actually reach the ONE?",
+    "t": 96.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Where is it?",
+    "t": 100.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "The ONE is close to people.",
+    "t": 101.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "It has fourteen regional childhood offices spread across the whole country.",
+    "t": 104.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "So wherever you live in Luxembourg, there is an office not too far away.",
+    "t": 109.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "You meet them by appointment, at the office nearest your home.",
+    "t": 114.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's talk about the people you would actually meet there.",
+    "t": 118.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "At the heart of the ONE are professionals sometimes called intervention project coordinators.",
+    "t": 121.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "They are psychologists, social workers, and trained educators.",
+    "t": 127.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "When a family asks for support, one of them meets the family to understand the situation clearly.",
+    "t": 132.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "They might visit the family at home, or hold meetings at the regional office.",
+    "t": 138.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Then, together with the family, they set up the help measures that fit that family's real needs.",
+    "t": 143.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "And they keep checking... is this helping?",
+    "t": 149.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Do we need to try something else?",
+    "t": 152.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "So it is a living plan, made with the family, not handed down to them.",
+    "t": 155.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's go through some of the kinds of help the ONE can put in place.",
+    "t": 159.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "The first is what's called socio-family support.",
+    "t": 163.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "This is practical, everyday help.",
+    "t": 167.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Managing the household, organising daily life, even managing the family budget.",
+    "t": 170.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "It can be a lifeline at a hard moment... after a new baby arrives, after a separation, during an illness, or after a death.",
+    "t": 176.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Short-term help, to get through a difficult patch and find balance again.",
+    "t": 184.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "The second kind is psychological, social, or educational support within the family.",
+    "t": 189.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "This looks at the whole family together.",
+    "t": 195.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Setting good routines, agreeing on rules, expressing care, feeling safe.",
+    "t": 198.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "It helps everyone find their place in the family again.",
+    "t": 203.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it often happens at home.",
+    "t": 207.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "The third kind is support from a psychologist or psychotherapist for a child or young person.",
+    "t": 210.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "This is for personal, relational, or behavioural difficulties, for children and young people up to twenty-seven.",
+    "t": 215.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "And for very young children, there is early intervention.",
+    "t": 223.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 227.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "If a small child has difficulty with movement, speech, or development, specialists can help early.",
+    "t": 229.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Helping early can make a real difference, and can prevent bigger difficulties later.",
+    "t": 235.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is also care away from home, when that becomes necessary.",
+    "t": 240.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sometimes, for a while, a child cannot safely stay in the family home... for example during a serious family crisis.",
+    "t": 245.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "In those cases, the child can be welcomed and supported, either in a care centre, or in a foster family.",
+    "t": 252.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "And the aim, wherever possible, is to prepare the child to return home, when things are safe and ready.",
+    "t": 259.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Foster families deserve a special mention here.",
+    "t": 265.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "A foster family gives a child a stable, caring home when their own family cannot, for a time.",
+    "t": 268.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "It protects the child's wellbeing, while the birth parents work on their situation.",
+    "t": 274.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "The ONE supports and supervises these foster families too.",
+    "t": 279.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now, the big practical question.",
+    "t": 284.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "How does a family actually ask for help?",
+    "t": 287.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "You can contact the ONE directly, using the request-for-help form on their website.",
+    "t": 290.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "After that, someone from the regional office nearest you will get in touch.",
+    "t": 295.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "They will help you describe what you need, and set up the right steps.",
+    "t": 300.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "A professional already working with the family, like a social worker, can also help start the request.",
+    "t": 304.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "So whether you reach out yourself, or someone helps you, the door is open.",
+    "t": 311.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's say a gentle word here, because this topic can feel heavy.",
+    "t": 316.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Asking for help is not a sign of failure.",
+    "t": 320.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is a sign of strength, and of love for your child.",
+    "t": 324.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Every family struggles sometimes.",
+    "t": 328.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Reaching out early often makes things easier, not harder.",
+    "t": 330.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "And the ONE's whole approach is built on respect and collaboration.",
+    "t": 335.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "So Tom, let's make this practical.",
+    "t": 339.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "What should people take away?",
+    "t": 342.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "First... if your family is going through a hard time, you don't have to handle it all alone.",
+    "t": 345.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second... the ONE has fourteen regional offices, so there is support near where you live.",
+    "t": 350.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third... the help is built with you, around your real needs, from practical support to psychological care.",
+    "t": 356.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fourth... you can start simply, with a request-for-help form on the ONE's website.",
+    "t": 363.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's bring it together.",
+    "t": 368.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "What should people remember about the ONE?",
+    "t": 371.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "First... it protects the wellbeing of children, and supports children, young people, and families.",
+    "t": 374.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second... it works with families, voluntarily, step by step, with respect.",
+    "t": 381.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third... its help ranges from everyday practical support to psychological care and, when needed, foster care.",
+    "t": 386.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fourth... reaching it is simple, through fourteen regional offices and a request-for-help form.",
+    "t": 393.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Raising children is one of the hardest and most beautiful jobs there is.",
+    "t": 399.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "And no one should do it without support.",
+    "t": 404.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "In Luxembourg, that support has a name... the Office National de l'Enfance.",
+    "t": 407.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening today.",
+    "t": 412.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care, and see you in the next episode.",
+    "t": 415.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 419.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 420.85
+   }
+  ],
+  "questions": [
+   {
+    "text": "What is the main aim of the Office National de l'Enfance?",
+    "options": [
+     "To collect taxes from families",
+     "To protect children's wellbeing and support children, young people and families",
+     "To run schools",
+     "To organise holidays"
+    ],
+    "correct": 1,
+    "explanation": "The ONE's purpose is to protect the wellbeing of the child and to support children, young people and families going through difficult times, working voluntarily and collaboratively with them."
+   },
+   {
+    "text": "How does the ONE work with families?",
+    "options": [
+     "It takes decisions without the family",
+     "It works with families voluntarily, step by step, with respect",
+     "It only sends letters",
+     "It charges high fees"
+    ],
+    "correct": 1,
+    "explanation": "The ONE aims for voluntary collaboration. Its professionals build help measures together with the family, around the family's real needs, and keep evaluating what works."
+   },
+   {
+    "text": "How many regional offices does the ONE have across Luxembourg?",
+    "options": [
+     "One, in the capital only",
+     "Fourteen regional childhood offices across the country",
+     "None — it is only online",
+     "Fifty"
+    ],
+    "correct": 1,
+    "explanation": "The ONE has fourteen regional childhood offices spread across Luxembourg, which families visit by appointment, so support is available near where people live."
+   },
+   {
+    "text": "Which professionals work at the ONE to support families?",
+    "options": [
+     "Only lawyers",
+     "Psychologists, social workers and trained educators",
+     "Only doctors",
+     "Only police officers"
+    ],
+    "correct": 1,
+    "explanation": "The ONE's teams include psychologists, social workers and trained educators. They meet families, visit homes, set up help measures with the family, and coordinate with other services."
+   },
+   {
+    "text": "How can a family start asking the ONE for help?",
+    "options": [
+     "Only through a court",
+     "Using the request-for-help form on the ONE's website, or via a professional",
+     "By paying a registration fee",
+     "It is not possible to ask directly"
+    ],
+    "correct": 1,
+    "explanation": "A family can contact the ONE directly using the request-for-help form on its website; the nearest regional office then gets in touch. A professional working with the family can also help start the request."
+   }
+  ],
+  "categories": [
+   "family",
+   "social"
+  ],
+  "title_fr": "L'Office National de l'Enfance – Soutien et protection pour les enfants et les familles",
+  "description_fr": "Ce qu'est l'Office National de l'Enfance (ONE), comment il travaille avec les familles de manière volontaire et progressive pour protéger le bien-être des enfants, ses quatorze bureaux régionaux, les professionnels et les mesures d'aide qu'il propose (du soutien pratique et psychologique à l'accueil familial), et comment demander de l'aide.",
+  "topics_fr": [
+   "Ce qu'est l'ONE",
+   "Travailler avec les familles, volontairement",
+   "Quatorze bureaux régionaux",
+   "Psychologues, travailleurs sociaux, éducateurs",
+   "Soutien socio-familial & psychologique",
+   "Intervention précoce pour les jeunes enfants",
+   "Centres d'accueil & familles d'accueil",
+   "Comment demander de l'aide"
+  ],
+  "questions_fr": [
+   {
+    "text": "Quel est l'objectif principal de l'Office National de l'Enfance ?",
+    "options": [
+     "Percevoir des impôts auprès des familles",
+     "Protéger le bien-être des enfants et soutenir les enfants, les jeunes et les familles",
+     "Gérer des écoles",
+     "Organiser des vacances"
+    ],
+    "correct": 1,
+    "explanation": "L'objectif de l'ONE est de protéger le bien-être de l'enfant et de soutenir les enfants, les jeunes et les familles qui traversent des moments difficiles, en travaillant avec eux de manière volontaire et collaborative."
+   },
+   {
+    "text": "Comment l'ONE travaille-t-il avec les familles ?",
+    "options": [
+     "Il prend des décisions sans la famille",
+     "Il travaille avec les familles de manière volontaire, étape par étape, dans le respect",
+     "Il envoie uniquement des lettres",
+     "Il facture des frais élevés"
+    ],
+    "correct": 1,
+    "explanation": "L'ONE vise une collaboration volontaire. Ses professionnels construisent les mesures d'aide avec la famille, autour de ses besoins réels, et évaluent continuellement ce qui fonctionne."
+   },
+   {
+    "text": "Combien de bureaux régionaux l'ONE possède-t-il à travers le Luxembourg ?",
+    "options": [
+     "Un seul, dans la capitale",
+     "Quatorze bureaux régionaux de l'enfance à travers le pays",
+     "Aucun — il est uniquement en ligne",
+     "Cinquante"
+    ],
+    "correct": 1,
+    "explanation": "L'ONE dispose de quatorze bureaux régionaux de l'enfance répartis à travers le Luxembourg, que les familles visitent sur rendez-vous, afin que le soutien soit disponible près de leur lieu de vie."
+   },
+   {
+    "text": "Quels professionnels travaillent à l'ONE pour soutenir les familles ?",
+    "options": [
+     "Uniquement des avocats",
+     "Des psychologues, des travailleurs sociaux et des éducateurs formés",
+     "Uniquement des médecins",
+     "Uniquement des policiers"
+    ],
+    "correct": 1,
+    "explanation": "Les équipes de l'ONE comprennent des psychologues, des travailleurs sociaux et des éducateurs formés. Ils rencontrent les familles, visitent les domiciles, mettent en place des mesures d'aide avec la famille et se coordonnent avec d'autres services."
+   },
+   {
+    "text": "Comment une famille peut-elle commencer à demander de l'aide à l'ONE ?",
+    "options": [
+     "Uniquement par l'intermédiaire d'un tribunal",
+     "En utilisant le formulaire de demande d'aide sur le site de l'ONE, ou via un professionnel",
+     "En payant des frais d'inscription",
+     "Il n'est pas possible de demander directement"
+    ],
+    "correct": 1,
+    "explanation": "Une famille peut contacter l'ONE directement en utilisant le formulaire de demande d'aide sur son site ; le bureau régional le plus proche prend alors contact. Un professionnel travaillant avec la famille peut aussi aider à initier la demande."
+   }
+  ],
+  "title_de": "Das Office National de l'Enfance – Unterstützung und Schutz für Kinder und Familien",
+  "description_de": "Was das Office National de l'Enfance (ONE) ist, wie es freiwillig und Schritt für Schritt mit Familien zusammenarbeitet, um das Wohl der Kinder zu schützen, seine vierzehn Regionalstellen, die Fachkräfte und Hilfsmaßnahmen, die es anbietet (von praktischer und psychologischer Unterstützung bis zur Pflegeunterbringung), und wie man um Hilfe bitten kann.",
+  "topics_de": [
+   "Was das ONE ist",
+   "Zusammenarbeit mit Familien, freiwillig",
+   "Vierzehn Regionalstellen",
+   "Psychologen, Sozialarbeiter, Erzieher",
+   "Sozial-familiäre & psychologische Hilfe",
+   "Frühförderung für kleine Kinder",
+   "Betreuungszentren & Pflegefamilien",
+   "Wie man um Hilfe bittet"
+  ],
+  "questions_de": [
+   {
+    "text": "Was ist das Hauptziel des Office National de l'Enfance?",
+    "options": [
+     "Steuern von Familien einzutreiben",
+     "Das Wohl der Kinder zu schützen und Kinder, Jugendliche und Familien zu unterstützen",
+     "Schulen zu betreiben",
+     "Ferien zu organisieren"
+    ],
+    "correct": 1,
+    "explanation": "Das Ziel des ONE ist es, das Wohl des Kindes zu schützen und Kinder, Jugendliche und Familien in schwierigen Zeiten zu unterstützen, indem es freiwillig und partnerschaftlich mit ihnen zusammenarbeitet."
+   },
+   {
+    "text": "Wie arbeitet das ONE mit Familien zusammen?",
+    "options": [
+     "Es trifft Entscheidungen ohne die Familie",
+     "Es arbeitet freiwillig, Schritt für Schritt und respektvoll mit den Familien zusammen",
+     "Es verschickt nur Briefe",
+     "Es verlangt hohe Gebühren"
+    ],
+    "correct": 1,
+    "explanation": "Das ONE strebt eine freiwillige Zusammenarbeit an. Seine Fachkräfte erarbeiten Hilfsmaßnahmen gemeinsam mit der Familie, ausgerichtet an deren tatsächlichen Bedürfnissen, und überprüfen fortlaufend, was funktioniert."
+   },
+   {
+    "text": "Wie viele Regionalstellen hat das ONE in Luxemburg?",
+    "options": [
+     "Eine, nur in der Hauptstadt",
+     "Vierzehn regionale Kindheitsstellen im ganzen Land",
+     "Keine – es ist nur online",
+     "Fünfzig"
+    ],
+    "correct": 1,
+    "explanation": "Das ONE verfügt über vierzehn regionale Kindheitsstellen, die über ganz Luxemburg verteilt sind und die Familien nach Vereinbarung aufsuchen, sodass Unterstützung in der Nähe des Wohnorts verfügbar ist."
+   },
+   {
+    "text": "Welche Fachkräfte arbeiten beim ONE, um Familien zu unterstützen?",
+    "options": [
+     "Nur Juristen",
+     "Psychologen, Sozialarbeiter und ausgebildete Erzieher",
+     "Nur Ärzte",
+     "Nur Polizeibeamte"
+    ],
+    "correct": 1,
+    "explanation": "Die Teams des ONE umfassen Psychologen, Sozialarbeiter und ausgebildete Erzieher. Sie treffen sich mit Familien, machen Hausbesuche, richten gemeinsam mit der Familie Hilfsmaßnahmen ein und stimmen sich mit anderen Diensten ab."
+   },
+   {
+    "text": "Wie kann eine Familie damit beginnen, das ONE um Hilfe zu bitten?",
+    "options": [
+     "Nur über ein Gericht",
+     "Über das Hilfeantragsformular auf der Website des ONE oder über eine Fachkraft",
+     "Durch Zahlung einer Anmeldegebühr",
+     "Es ist nicht möglich, direkt um Hilfe zu bitten"
+    ],
+    "correct": 1,
+    "explanation": "Eine Familie kann das ONE direkt über das Hilfeantragsformular auf seiner Website kontaktieren; die nächstgelegene Regionalstelle meldet sich dann. Auch eine Fachkraft, die mit der Familie arbeitet, kann helfen, den Antrag zu starten."
+   }
+  ],
+  "audio_fr": "podcast_enfance_fr.mp3",
+  "duration_fr": 441.26,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour et bon retour parmi nous !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous sommes ravis de vous compter parmi nous aujourd'hui.",
+    "t": 2.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 6.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 8.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme qui parle du vivre-ensemble au Luxembourg.",
+    "t": 12.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, ainsi que les familles frontalières, à connaître les aides qui existent ici.",
+    "t": 16.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le sujet d'aujourd'hui est plein de bienveillance... le soutien et la protection des enfants, des jeunes et des familles.",
+    "t": 24.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous parlons de l'Office National de l'Enfance.",
+    "t": 30.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "En anglais, le National Childhood Office.",
+    "t": 33.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Beaucoup de gens utilisent simplement ses initiales... O, N, E.",
+    "t": 37.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors Tom, qu'est-ce que l'ONE et que fait-il ?",
+    "t": 42.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sa mission est de protéger le bien-être de l'enfant et de soutenir les enfants, les jeunes et les familles qui traversent des moments difficiles.",
+    "t": 46.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et voici une chose que je tiens vraiment à faire comprendre.",
+    "t": 53.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'ONE travaille avec les familles, pas contre elles.",
+    "t": 57.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est un point essentiel.",
+    "t": 60.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils visent une collaboration volontaire.",
+    "t": 63.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils avancent aux côtés de la famille, pas à pas.",
+    "t": 66.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'objectif est d'aider la famille à retrouver son équilibre et à faire ce qui est le mieux pour l'enfant.",
+    "t": 69.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il ne s'agit donc pas de juger.",
+    "t": 75.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il s'agit de soutenir.",
+    "t": 77.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactement.",
+    "t": 80.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons de ceux à qui l'ONE s'adresse.",
+    "t": 82.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il s'adresse à toutes sortes de familles... les familles biparentales, les familles monoparentales, les familles adoptives et les familles d'accueil.",
+    "t": 85.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il s'adresse aux enfants et aux jeunes, des tout-petits jusqu'aux jeunes adultes.",
+    "t": 93.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Maintenant, comment joindre concrètement l'ONE ?",
+    "t": 98.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Où se trouve-t-il ?",
+    "t": 101.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'ONE est proche des gens.",
+    "t": 103.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il dispose de quatorze offices régionaux de l'enfance répartis dans tout le pays.",
+    "t": 105.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ainsi, où que vous habitiez au Luxembourg, il y a un office pas trop loin.",
+    "t": 110.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous les rencontrez sur rendez-vous, à l'office le plus proche de votre domicile.",
+    "t": 115.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parlons des personnes que vous y rencontreriez réellement.",
+    "t": 121.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Au cœur de l'ONE se trouvent des professionnels parfois appelés coordinateurs de projet d'intervention.",
+    "t": 124.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce sont des psychologues, des travailleurs sociaux et des éducateurs qualifiés.",
+    "t": 130.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Lorsqu'une famille demande de l'aide, l'un d'eux rencontre la famille pour bien comprendre la situation.",
+    "t": 135.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils peuvent rendre visite à la famille à domicile, ou organiser des rencontres à l'office régional.",
+    "t": 141.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, avec la famille, ils mettent en place les mesures d'aide qui correspondent aux besoins réels de cette famille.",
+    "t": 147.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et ils vérifient régulièrement... est-ce que cela aide ?",
+    "t": 154.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Faut-il essayer autre chose ?",
+    "t": 157.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est donc un plan vivant, élaboré avec la famille, et non imposé.",
+    "t": 160.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passons en revue quelques types d'aide que l'ONE peut mettre en place.",
+    "t": 165.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le premier est ce qu'on appelle l'aide socio-familiale.",
+    "t": 169.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est une aide pratique, au quotidien.",
+    "t": 172.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gérer le ménage, organiser la vie de tous les jours, et même gérer le budget familial.",
+    "t": 175.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela peut être une bouée de sauvetage dans un moment difficile... après l'arrivée d'un bébé, après une séparation, pendant une maladie ou après un décès.",
+    "t": 181.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une aide de courte durée, pour traverser une période difficile et retrouver son équilibre.",
+    "t": 190.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le deuxième type est le soutien psychologique, social ou éducatif au sein de la famille.",
+    "t": 195.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela considère toute la famille ensemble.",
+    "t": 201.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Instaurer de bonnes habitudes, s'accorder sur des règles, exprimer de l'affection, se sentir en sécurité.",
+    "t": 204.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela aide chacun à retrouver sa place dans la famille.",
+    "t": 211.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et cela se passe souvent à domicile.",
+    "t": 215.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le troisième type est le soutien d'un psychologue ou d'un psychothérapeute pour un enfant ou un jeune.",
+    "t": 218.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est pour des difficultés personnelles, relationnelles ou comportementales, pour les enfants et les jeunes jusqu'à vingt-sept ans.",
+    "t": 223.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et pour les tout-petits, il y a l'intervention précoce.",
+    "t": 230.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 234.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si un petit enfant a des difficultés de mouvement, de langage ou de développement, des spécialistes peuvent l'aider tôt.",
+    "t": 236.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aider tôt peut faire une vraie différence et peut éviter de plus grandes difficultés plus tard.",
+    "t": 243.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a aussi la prise en charge hors du domicile, lorsque cela devient nécessaire.",
+    "t": 248.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parfois, pour un temps, un enfant ne peut pas rester en sécurité au domicile familial... par exemple lors d'une grave crise familiale.",
+    "t": 253.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dans ces cas, l'enfant peut être accueilli et soutenu, soit dans un centre d'accueil, soit dans une famille d'accueil.",
+    "t": 261.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le but, dans la mesure du possible, est de préparer le retour de l'enfant à la maison, lorsque tout est sûr et prêt.",
+    "t": 268.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les familles d'accueil méritent une mention particulière ici.",
+    "t": 275.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une famille d'accueil offre à un enfant un foyer stable et bienveillant lorsque sa propre famille ne le peut pas, pour un temps.",
+    "t": 279.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle protège le bien-être de l'enfant, pendant que les parents biologiques travaillent sur leur situation.",
+    "t": 285.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'ONE soutient et encadre également ces familles d'accueil.",
+    "t": 291.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Maintenant, la grande question pratique.",
+    "t": 295.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comment une famille demande-t-elle concrètement de l'aide ?",
+    "t": 298.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous pouvez contacter l'ONE directement, à l'aide du formulaire de demande d'aide sur leur site internet.",
+    "t": 302.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, quelqu'un de l'office régional le plus proche de chez vous prendra contact.",
+    "t": 308.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils vous aideront à décrire ce dont vous avez besoin et à mettre en place les bonnes étapes.",
+    "t": 313.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un professionnel qui travaille déjà avec la famille, comme un travailleur social, peut aussi aider à lancer la demande.",
+    "t": 318.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ainsi, que vous fassiez la démarche vous-même ou que quelqu'un vous aide, la porte est ouverte.",
+    "t": 325.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Disons un mot tout en douceur ici, car ce sujet peut sembler lourd.",
+    "t": 331.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Demander de l'aide n'est pas un signe d'échec.",
+    "t": 336.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est un signe de force et d'amour pour votre enfant.",
+    "t": 339.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Chaque famille traverse parfois des difficultés.",
+    "t": 342.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Demander de l'aide tôt rend souvent les choses plus faciles, et non plus difficiles.",
+    "t": 346.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et toute l'approche de l'ONE repose sur le respect et la collaboration.",
+    "t": 351.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors Tom, rendons cela concret.",
+    "t": 355.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Que faut-il retenir ?",
+    "t": 358.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord... si votre famille traverse une période difficile, vous n'avez pas à tout gérer seul.",
+    "t": 360.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite... l'ONE dispose de quatorze offices régionaux, il y a donc un soutien près de chez vous.",
+    "t": 366.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement... l'aide est construite avec vous, autour de vos besoins réels, du soutien pratique aux soins psychologiques.",
+    "t": 372.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quatrièmement... vous pouvez commencer simplement, avec un formulaire de demande d'aide sur le site de l'ONE.",
+    "t": 379.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Rassemblons tout cela.",
+    "t": 386.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que faut-il retenir au sujet de l'ONE ?",
+    "t": 388.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'abord... il protège le bien-être des enfants et soutient les enfants, les jeunes et les familles.",
+    "t": 391.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ensuite... il travaille avec les familles, de manière volontaire, pas à pas, dans le respect.",
+    "t": 397.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement... son aide va du soutien pratique au quotidien aux soins psychologiques et, si nécessaire, à l'accueil en famille d'accueil.",
+    "t": 403.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quatrièmement... le joindre est simple, grâce à quatorze offices régionaux et à un formulaire de demande d'aide.",
+    "t": 411.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Élever des enfants est l'un des métiers les plus difficiles et les plus beaux qui soient.",
+    "t": 418.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et personne ne devrait le faire sans soutien.",
+    "t": 422.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Au Luxembourg, ce soutien a un nom... l'Office National de l'Enfance.",
+    "t": 425.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
+    "t": 430.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
+    "t": 434.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi !",
+    "t": 438.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi !",
+    "t": 439.65
+   }
+  ],
+  "audio_de": "podcast_enfance_de.mp3",
+  "duration_de": 505.44,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen zurück!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schön, dass Sie heute dabei sind.",
+    "t": 3.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 6.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 8.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 11.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten Einwohnern und auch Grenzgängerfamilien helfen zu wissen, welche Unterstützung es hier gibt.",
+    "t": 16.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und das heutige Thema ist ein fürsorgliches... Unterstützung und Schutz für Kinder, Jugendliche und Familien.",
+    "t": 24.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wir sprechen über das Office National de l'Enfance.",
+    "t": 32.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Auf Deutsch das Nationale Kinderamt.",
+    "t": 36.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Viele Menschen kürzen es einfach mit seinen Anfangsbuchstaben ab... O, N, E.",
+    "t": 39.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, was ist das ONE und was macht es?",
+    "t": 46.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sein Ziel ist es, das Wohl des Kindes zu schützen und Kinder, Jugendliche und Familien zu unterstützen, die schwierige Zeiten durchmachen.",
+    "t": 50.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und hier ist etwas, das die Menschen wirklich verstehen sollen.",
+    "t": 58.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ONE arbeitet mit den Familien, nicht gegen sie.",
+    "t": 63.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist ein wichtiger Punkt.",
+    "t": 67.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie streben eine freiwillige Zusammenarbeit an.",
+    "t": 70.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie gehen Schritt für Schritt an der Seite der Familie.",
+    "t": 73.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Ziel ist, der Familie zu helfen, wieder festen Boden unter den Füßen zu finden, und das zu tun, was für das Kind am besten ist.",
+    "t": 77.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es geht also nicht um Schuldzuweisungen.",
+    "t": 87.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es geht um Unterstützung.",
+    "t": 90.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau.",
+    "t": 92.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir darüber, für wen das ONE da ist.",
+    "t": 94.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist für alle Arten von Familien da... Familien mit zwei Elternteilen, Alleinerziehende, Adoptivfamilien und Pflegefamilien.",
+    "t": 98.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es ist für Kinder und Jugendliche da, von den ganz Kleinen bis zu jungen Erwachsenen.",
+    "t": 107.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wie erreicht man das ONE eigentlich?",
+    "t": 113.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wo befindet es sich?",
+    "t": 116.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ONE ist nah bei den Menschen.",
+    "t": 118.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es hat vierzehn regionale Kinderbüros im ganzen Land verteilt.",
+    "t": 121.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Egal also, wo Sie in Luxemburg wohnen, es gibt ein Büro nicht allzu weit entfernt.",
+    "t": 126.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie treffen sie nach Terminvereinbarung, im Büro, das Ihrem Zuhause am nächsten ist.",
+    "t": 132.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sprechen wir über die Menschen, die Sie dort tatsächlich treffen würden.",
+    "t": 139.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Im Herzen des ONE stehen Fachkräfte, die manchmal Koordinatoren für Interventionsprojekte genannt werden.",
+    "t": 143.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es sind Psychologen, Sozialarbeiter und ausgebildete Erzieher.",
+    "t": 151.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn eine Familie um Unterstützung bittet, trifft sich eine von ihnen mit der Familie, um die Situation klar zu verstehen.",
+    "t": 155.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie könnten die Familie zu Hause besuchen oder Treffen im regionalen Büro abhalten.",
+    "t": 164.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dann legen sie gemeinsam mit der Familie die Hilfsmaßnahmen fest, die zu den tatsächlichen Bedürfnissen dieser Familie passen.",
+    "t": 170.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und sie überprüfen immer wieder... hilft das?",
+    "t": 178.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Müssen wir etwas anderes versuchen?",
+    "t": 181.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist also ein lebendiger Plan, der mit der Familie erstellt wird, und nicht ihr vorgegeben wird.",
+    "t": 184.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gehen wir einige der Hilfsarten durch, die das ONE einrichten kann.",
+    "t": 191.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die erste ist die sogenannte sozial-familiäre Unterstützung.",
+    "t": 196.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist praktische, alltägliche Hilfe.",
+    "t": 201.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Den Haushalt führen, das tägliche Leben organisieren, sogar das Familienbudget verwalten.",
+    "t": 204.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie kann ein Rettungsanker in einem schweren Moment sein... nach der Ankunft eines Babys, nach einer Trennung, während einer Krankheit oder nach einem Todesfall.",
+    "t": 210.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kurzfristige Hilfe, um eine schwierige Phase zu überstehen und wieder ins Gleichgewicht zu finden.",
+    "t": 220.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die zweite Art ist die psychologische, soziale oder erzieherische Unterstützung innerhalb der Familie.",
+    "t": 227.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dabei wird die ganze Familie gemeinsam betrachtet.",
+    "t": 234.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gute Abläufe schaffen, sich auf Regeln einigen, Zuneigung ausdrücken, sich sicher fühlen.",
+    "t": 238.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es hilft jedem, seinen Platz in der Familie wiederzufinden.",
+    "t": 244.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es geschieht oft zu Hause.",
+    "t": 249.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die dritte Art ist die Unterstützung durch einen Psychologen oder Psychotherapeuten für ein Kind oder einen Jugendlichen.",
+    "t": 251.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist für persönliche, beziehungsbezogene oder verhaltensbezogene Schwierigkeiten, für Kinder und Jugendliche bis siebenundzwanzig Jahre.",
+    "t": 258.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und für ganz kleine Kinder gibt es die Frühförderung.",
+    "t": 268.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 271.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn ein kleines Kind Schwierigkeiten mit der Bewegung, der Sprache oder der Entwicklung hat, können Fachleute frühzeitig helfen.",
+    "t": 273.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Frühzeitig zu helfen kann einen echten Unterschied machen und kann größere Schwierigkeiten später verhindern.",
+    "t": 282.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt auch die Betreuung außerhalb des Zuhauses, wenn das notwendig wird.",
+    "t": 288.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Manchmal kann ein Kind für eine Weile nicht sicher im Familienhaushalt bleiben... zum Beispiel während einer schweren Familienkrise.",
+    "t": 294.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "In diesen Fällen kann das Kind aufgenommen und unterstützt werden, entweder in einem Betreuungszentrum oder in einer Pflegefamilie.",
+    "t": 302.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und das Ziel ist, wo immer möglich, das Kind auf die Rückkehr nach Hause vorzubereiten, wenn alles sicher und bereit ist.",
+    "t": 311.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pflegefamilien verdienen hier eine besondere Erwähnung.",
+    "t": 318.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eine Pflegefamilie gibt einem Kind ein stabiles, liebevolles Zuhause, wenn die eigene Familie es für eine Zeit nicht kann.",
+    "t": 323.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie schützt das Wohl des Kindes, während die leiblichen Eltern an ihrer Situation arbeiten.",
+    "t": 331.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ONE unterstützt und begleitet auch diese Pflegefamilien.",
+    "t": 337.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nun die große praktische Frage.",
+    "t": 341.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wie bittet eine Familie eigentlich um Hilfe?",
+    "t": 344.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie können das ONE direkt kontaktieren, über das Hilfeantragsformular auf ihrer Website.",
+    "t": 348.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Danach wird sich jemand vom regionalen Büro in Ihrer Nähe melden.",
+    "t": 354.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie werden Ihnen helfen zu beschreiben, was Sie brauchen, und die richtigen Schritte einzurichten.",
+    "t": 359.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eine Fachkraft, die bereits mit der Familie arbeitet, wie ein Sozialarbeiter, kann ebenfalls helfen, den Antrag zu starten.",
+    "t": 365.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ob Sie sich also selbst melden oder jemand Ihnen hilft, die Tür steht offen.",
+    "t": 374.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Lassen Sie uns hier ein behutsames Wort sagen, denn dieses Thema kann sich schwer anfühlen.",
+    "t": 380.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Um Hilfe zu bitten ist kein Zeichen des Versagens.",
+    "t": 386.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist ein Zeichen von Stärke und von Liebe zu Ihrem Kind.",
+    "t": 389.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jede Familie hat manchmal Schwierigkeiten.",
+    "t": 394.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sich früh zu melden macht die Dinge oft einfacher, nicht schwerer.",
+    "t": 397.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und der ganze Ansatz des ONE beruht auf Respekt und Zusammenarbeit.",
+    "t": 402.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, machen wir das konkret.",
+    "t": 407.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was sollten die Menschen mitnehmen?",
+    "t": 410.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens... wenn Ihre Familie eine schwere Zeit durchmacht, müssen Sie nicht alles allein bewältigen.",
+    "t": 413.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens... das ONE hat vierzehn regionale Büros, es gibt also Unterstützung in Ihrer Nähe.",
+    "t": 419.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens... die Hilfe wird mit Ihnen aufgebaut, rund um Ihre tatsächlichen Bedürfnisse, von praktischer Unterstützung bis zur psychologischen Betreuung.",
+    "t": 426.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Viertens... Sie können einfach beginnen, mit einem Hilfeantragsformular auf der Website des ONE.",
+    "t": 435.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fassen wir es zusammen.",
+    "t": 443.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was sollten sich die Menschen über das ONE merken?",
+    "t": 445.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens... es schützt das Wohl der Kinder und unterstützt Kinder, Jugendliche und Familien.",
+    "t": 449.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens... es arbeitet mit den Familien, freiwillig, Schritt für Schritt, mit Respekt.",
+    "t": 455.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens... seine Hilfe reicht von alltäglicher praktischer Unterstützung bis zur psychologischen Betreuung und, wenn nötig, zur Pflege in einer Pflegefamilie.",
+    "t": 462.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und viertens... es zu erreichen ist einfach, über vierzehn regionale Büros und ein Hilfeantragsformular.",
+    "t": 472.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Kinder großzuziehen ist eine der schwersten und schönsten Aufgaben, die es gibt.",
+    "t": 479.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und niemand sollte das ohne Unterstützung tun.",
+    "t": 485.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "In Luxemburg hat diese Unterstützung einen Namen... das Office National de l'Enfance.",
+    "t": 489.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank, dass Sie heute zugehört haben.",
+    "t": 494.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
+    "t": 498.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 502.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 503.96
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien a wëllkomm zréck! Et freet eis, datt Dir haut dobäi sidd.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien zesummen!",
+    "t": 5.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgängerfamiljen, hëllefen ze wëssen, wéi eng Ënnerstëtzung et hei gëtt.",
+    "t": 7.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "An d'Thema vun haut ass e fürsorglecht... Ënnerstëtzung a Schutz fir Kanner, Jugendlecher a Familljen.",
+    "t": 21.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mir schwätzen iwwer den Office National de l'Enfance. Op Englesch den National Childhood Office.",
+    "t": 27.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vill Leit kierzen et einfach mat senge Ufanksbuschtawen of... O, N, E.",
+    "t": 35.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, wat ass den ONE a wat mécht en?",
+    "t": 40.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Säin Zil ass et, d'Wuelbefannen vum Kand ze schützen an d'Kanner, d'Jugendlecher an d'Familljen ze ënnerstëtzen, déi schwéier Zäiten duerchliewen.",
+    "t": 44.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "An hei ass eppes, wat ech wierklech wëll, datt d'Leit verstinn. Den ONE schafft mat de Familljen, net géint si.",
+    "t": 52.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass e wichtege Punkt. Si striewen no enger fräiwëlleger Zesummenaarbecht. Si ginn Schrëtt fir Schrëtt nieft der Famill.",
+    "t": 59.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Zil ass et, der Famill ze hëllefen, erëm festen Drëtt ze fannen, an dat ze maachen, wat fir d'Kand am beschten ass.",
+    "t": 68.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et geet also net ëm Schold. Et geet ëm Ënnerstëtzung.",
+    "t": 74.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genee. Loosst eis driwwer schwätzen, fir wien den ONE do ass.",
+    "t": 79.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "En ass fir all Zort vu Familljen do... Familljen mat zwee Elteren, alleinerzéiend Familljen, Adoptivfamiljen a Fleegfamiljen.",
+    "t": 84.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "An en ass fir Kanner a Jugendlecher do, vun de ganz Klengen bis bei jonk Erwuessener.",
+    "t": 91.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wéi erreecht een den ONE elo eigentlech? Wou ass en?",
+    "t": 96.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Den ONE ass no bei de Leit. En huet véierzéng regional Kannerbüroen am ganze Land verdeelt.",
+    "t": 101.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Egal also, wou Dir zu Lëtzebuerg wunnt, et gëtt e Büro net ze wäit ewech.",
+    "t": 109.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dir trefft se no Rendez-vous, am Büro, deen Ärem Doheem am nooste läit.",
+    "t": 114.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosst eis iwwer d'Leit schwätzen, déi Dir do tatsächlech géift treffen.",
+    "t": 118.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Am Häerz vum ONE stinn Fachleit, déi heiansdo Koordinateuren fir Interventiounsprojeten genannt ginn.",
+    "t": 121.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et sinn Psychologen, Sozialaarbechter an ausgebilte Erzéier.",
+    "t": 127.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wann eng Famill ëm Ënnerstëtzung freet, trëfft sech ee vun hinnen mat der Famill, fir d'Situatioun kloer ze verstoen.",
+    "t": 132.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si kéinten d'Famill doheem besichen, oder Treffen am regionale Büro halen.",
+    "t": 138.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Duerno leeën si zesumme mat der Famill d'Hëllefsmoossnamen fest, déi zu de richtege Besoinen vun dëser Famill passen.",
+    "t": 143.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "A si iwwerpréiwen ëmmer erëm... hëlleft dat? Musse mir eppes anescht probéieren?",
+    "t": 149.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ass also e liewege Plang, deen mat der Famill gemaach gëtt, an net hinnen virginn gëtt.",
+    "t": 155.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosst eis e puer vun den Zorten vun Hëllef duerchgoen, déi den ONE asetzen kann.",
+    "t": 159.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Déi éischt ass dat, wat sozial-familiär Ënnerstëtzung genannt gëtt.",
+    "t": 163.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass praktesch, alldeeglech Hëllef. De Stot féieren, dat deeglecht Liewen organiséieren, souguer de Familljebudget verwalten.",
+    "t": 167.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et kann e Rettungsanker an engem schwéiere Moment sinn... no der Arrivée vun engem Boby, no enger Trennung, wärend enger Krankheet, oder no engem Doudesfall.",
+    "t": 176.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kuerzfristeg Hëllef, fir eng schwéier Phas ze iwwerstoen an erëm an d'Gläichgewiicht ze fannen.",
+    "t": 184.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Déi zweet Zort ass déi psychologesch, sozial oder erzéieresch Ënnerstëtzung bannent der Famill.",
+    "t": 189.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dobäi gëtt déi ganz Famill zesumme betruecht. Gutt Ofleef schafen, sech op Reegelen eenegen, Zoléiwecht ausdrécken, sech sécher fillen.",
+    "t": 195.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et hëlleft jidderengem, säi Plaz an der Famill erëmzefannen. An et geschitt dacks doheem.",
+    "t": 203.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Déi drëtt Zort ass d'Ënnerstëtzung vun engem Psycholog oder Psychotherapeut fir e Kand oder e Jugendlechen.",
+    "t": 210.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat ass fir perséinlech, bezéiungsbezunne oder verhalensbezunne Schwieregkeeten, fir Kanner a Jugendlecher bis siwenanzwanzeg Joer.",
+    "t": 215.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "A fir ganz kleng Kanner gëtt et d'Frühförderung.",
+    "t": 223.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. Wann e klengt Kand Schwieregkeeten mat der Bewegung, der Sprooch oder der Entwécklung huet, kënne Fachleit fréi hëllefen.",
+    "t": 227.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fréi ze hëllefen kann e richtegen Ënnerscheed maachen a kann méi grouss Schwieregkeeten méi spéit verhënneren.",
+    "t": 235.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt och d'Betreiung ausserhalb vum Doheem, wann dat néideg gëtt.",
+    "t": 240.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Heiansdo kann e Kand fir eng Zäit net sécher am Familljestot bleiwen... zum Beispill wärend enger schwéierer Familljekris.",
+    "t": 245.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "An dëse Fäll kann d'Kand opgeholl an ënnerstëtzt ginn, entweder an engem Betreiungszentrum, oder an enger Fleegfamill.",
+    "t": 252.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "An d'Zil ass, wou ëmmer méiglech, d'Kand op d'Heemkéier virzebereeden, wann alles sécher a prett ass.",
+    "t": 259.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fleegfamiljen verdéngen hei eng besonnesch Erwähnung.",
+    "t": 265.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eng Fleegfamill gëtt engem Kand e stabilt, léiftvollt Doheem, wann seng eege Famill et fir eng Zäit net kann.",
+    "t": 268.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si schützt d'Wuelbefannen vum Kand, wärend déi leiblech Elteren un hirer Situatioun schaffen.",
+    "t": 274.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Den ONE ënnerstëtzt a begleet och dës Fleegfamiljen.",
+    "t": 279.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elo déi grouss praktesch Fro. Wéi freet eng Famill eigentlech ëm Hëllef?",
+    "t": 284.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dir kënnt den ONE direkt kontaktéieren, mat dem Hëllefsantragsformulaire op hirer Websäit.",
+    "t": 290.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Duerno mellt sech een vum regionale Büro a Ärer Géigend.",
+    "t": 295.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si hëllefen Iech ze beschreiwen, wat Dir braucht, an déi richteg Schrëtt anzeriichten.",
+    "t": 300.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eng Fachkraaft, déi scho mat der Famill schafft, wéi e Sozialaarbechter, kann och hëllefen, den Antrag unzefänken.",
+    "t": 304.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Egal also, ob Dir Iech selwer mellt oder ee Iech hëlleft, d'Dier steet op.",
+    "t": 311.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosst eis hei e behutsamt Wuert soen, well dëst Thema sech schwéier ufille kann.",
+    "t": 316.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ëm Hëllef ze froen ass kee Zeeche vu Versoen. Et ass e Zeeche vu Stäerkt a vu Léift fir Äert Kand.",
+    "t": 320.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "All Famill huet heiansdo Schwieregkeeten. Sech fréi ze mellen mécht d'Saachen dacks méi einfach, net méi schwéier.",
+    "t": 328.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "An déi ganz Approche vum ONE baséiert op Respekt a Zesummenaarbecht.",
+    "t": 335.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, maache mir dat konkret. Wat sollten d'Leit mathuelen?",
+    "t": 339.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als éischt... wann Är Famill eng schwéier Zäit duerchliewt, musst Dir net alles eleng meeschteren.",
+    "t": 345.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als zweet... den ONE huet véierzéng regional Büroen, et gëtt also Ënnerstëtzung a Ärer Géigend.",
+    "t": 350.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als drëtt... d'Hëllef gëtt mat Iech opgebaut, ronderëm Är richteg Besoinen, vu praktescher Ënnerstëtzung bis zu psychologescher Betreiung.",
+    "t": 356.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als véiert... Dir kënnt einfach ufänken, mat engem Hëllefsantragsformulaire op der Websäit vum ONE.",
+    "t": 363.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Faasse mir et zesummen. Wat sollten d'Leit sech iwwer den ONE merken?",
+    "t": 368.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als éischt... en schützt d'Wuelbefannen vun de Kanner an ënnerstëtzt Kanner, Jugendlecher a Familljen.",
+    "t": 374.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als zweet... en schafft mat de Familljen, fräiwëlleg, Schrëtt fir Schrëtt, mat Respekt.",
+    "t": 381.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als drëtt... seng Hëllef reecht vun alldeeglecher praktescher Ënnerstëtzung bis zu psychologescher Betreiung an, wann néideg, bis zur Betreiung an enger Fleegfamill.",
+    "t": 386.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "An als véiert... en ze erreechen ass einfach, iwwer véierzéng regional Büroen an en Hëllefsantragsformulaire.",
+    "t": 393.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Kanner grouszezéien ass eng vun de schwéiersten an de schéinsten Aufgaben, déi et gëtt. A keen sollt dat ouni Ënnerstëtzung maachen.",
+    "t": 399.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zu Lëtzebuerg huet dës Ënnerstëtzung en Numm... den Office National de l'Enfance.",
+    "t": 407.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools Merci, datt Dir haut nogelauschtert hutt.",
+    "t": 412.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passt op Iech op, a bis an déi nächst Episod. Äddi!",
+    "t": 415.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 420.85
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "key": "cepas",
+  "number": "Episode 21",
+  "title": "CePAS – Psychological and School Support for Young People",
+  "description": "What CePAS (the psycho-social and school support centre) is, its sixty-year history, the consultation centre for young people aged 12–30 and their families, the quick support available inside every secondary school, consultations now also in English, and how it connects with other services.",
+  "audio": "podcast_cepas.mp3",
+  "duration": 403.18,
+  "topics": [
+   "What CePAS is",
+   "Sixty years of youth support",
+   "Consultation centre (ages 12–30)",
+   "School, personal & relationship problems",
+   "Quick help inside every lycée",
+   "Consultations now in English",
+   "Working with parents & schools",
+   "Reaching out is okay"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome back!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's a pleasure to have you with us today.",
+    "t": 2.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border families too, to know what support is out there.",
+    "t": 14.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today we are talking about something close to many families' hearts... the wellbeing of young people, especially at school.",
+    "t": 21.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "School years can be wonderful.",
+    "t": 28.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "But they can also be stressful, confusing, and sometimes painful.",
+    "t": 31.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Worries about grades, about friendships, about the future, about what is happening at home.",
+    "t": 36.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "And that is exactly where today's organisation comes in.",
+    "t": 42.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is called CePAS.",
+    "t": 46.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "CePAS.",
+    "t": 48.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "The full name is the Centre psycho-social et d'accompagnement scolaires.",
+    "t": 50.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "In simple terms... it is a psycho-social and school support centre for young people.",
+    "t": 55.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Anna, what is the main idea behind CePAS?",
+    "t": 60.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Its goal is to support the personal, relational, and academic development and wellbeing of young people at school.",
+    "t": 64.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "So not only their marks, but the whole young person... their feelings, their relationships, their confidence.",
+    "t": 71.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it does this together with everyone around the young person... parents, teachers, and school staff.",
+    "t": 78.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "I love that it has quite a history, too.",
+    "t": 85
+   },
+   {
+    "speaker": "Anna",
+    "text": "It does.",
+    "t": 88.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "CePAS was born back in 1965, under an earlier name.",
+    "t": 90.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "So in 2025 it celebrated sixty years of supporting young people.",
+    "t": 95.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sixty years.",
+    "t": 100.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's generations of young people who have been helped.",
+    "t": 102.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's look at what CePAS actually offers.",
+    "t": 106.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are a few different parts.",
+    "t": 109.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "The first, and the one families most often turn to, is its consultation centre for young people and families.",
+    "t": 111.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "This centre is for adolescents and young adults, roughly from twelve to thirty years old, and for their parents and families.",
+    "t": 118.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what kind of help does it give?",
+    "t": 126.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Psychological and therapeutic support, for school problems, personal problems, or relationship problems.",
+    "t": 129.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "So if a young person is anxious, low, struggling with friends, or overwhelmed by school, they can find a professional to talk to.",
+    "t": 136.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "It also offers other forms of support, like psychomotor therapy, social support, and group activities.",
+    "t": 143.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "These consultations are by appointment.",
+    "t": 151.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "And here is a recent, welcome change.",
+    "t": 154.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 157.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Since early 2026, you can now have these consultations in English as well, not only in the country's other languages.",
+    "t": 159.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "That opens the door for many more families in Luxembourg's international community.",
+    "t": 167.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now, there is a second part of the support, and it lives right inside the schools.",
+    "t": 172.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "This is the school psycho-social service, present in every secondary school.",
+    "t": 178.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "So in each lycée, there are professionals a young person can talk to.",
+    "t": 183.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "And an important detail... there, you often don't need an appointment.",
+    "t": 187.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "A young person can be seen quickly, sometimes the same day.",
+    "t": 192.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "That speed really matters in a crisis.",
+    "t": 196.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "So think of it like two layers.",
+    "t": 200.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quick help inside the school, and deeper support at the consultation centre.",
+    "t": 202.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactly.",
+    "t": 207.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "And both are there to catch a young person before a small worry becomes a big one.",
+    "t": 209.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is also a third part, which works behind the scenes.",
+    "t": 214.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, a resource centre.",
+    "t": 218.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "It supports the staff who work in the schools' psycho-social services.",
+    "t": 221.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "It helps them develop their skills and their professional practice.",
+    "t": 225.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "So CePAS does not only help young people directly.",
+    "t": 230.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "It also strengthens the whole network of people who support them.",
+    "t": 233.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's say something about cost and confidence, because families worry about both.",
+    "t": 238.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "The support is there to help, not to judge.",
+    "t": 243.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is a safe, professional, and caring space.",
+    "t": 246.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "And a young person can speak openly, knowing they are being listened to with respect.",
+    "t": 250.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "CePAS also provides information on certain financial matters for pupils, when relevant.",
+    "t": 255.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Now Anna, this connects to another organisation we have talked about.",
+    "t": 261.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "It does.",
+    "t": 266.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "CePAS is also one of the partners that the Office National de l'Enfance can call on for psychological support.",
+    "t": 268.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "So these services are not separate islands.",
+    "t": 275.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "They work together around the young person.",
+    "t": 278.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's the beauty of it.",
+    "t": 281.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Many hands, one goal... a young person who feels supported.",
+    "t": 283.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's give a gentle, honest word about reaching out.",
+    "t": 288.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you are a young person listening, and things feel heavy, please know that asking for help is brave, not weak.",
+    "t": 291.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "And if you are a parent, noticing your child is struggling, you are not failing.",
+    "t": 298.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Support exists, and it works.",
+    "t": 304.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Talking to someone early can change the path of a whole school year, and sometimes much more.",
+    "t": 307.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Tom... let's make it practical.",
+    "t": 312.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "How does someone actually use CePAS?",
+    "t": 316.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "First... if your child needs quick support, the school's psycho-social service is right there, often without an appointment.",
+    "t": 319.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second... for deeper or longer support, the consultation centre welcomes young people from twelve to thirty, and their families, by appointment.",
+    "t": 326.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third... remember that since 2026, consultations are also available in English.",
+    "t": 335.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fourth... these services connect with others, like the ONE, so help can be coordinated.",
+    "t": 341.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's bring it all together.",
+    "t": 347.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "What should people remember about CePAS?",
+    "t": 349.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "First... it is a psycho-social and school support centre, helping young people's wellbeing at school for sixty years.",
+    "t": 352.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second... it offers psychological and therapeutic support for school, personal, and relationship problems.",
+    "t": 359.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third... there is quick help inside every secondary school, and deeper support at its consultation centre.",
+    "t": 366.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fourth... it works hand in hand with parents, schools, and other services.",
+    "t": 372.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Young people carry more than we sometimes see.",
+    "t": 378.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "A listening ear at the right moment can mean everything.",
+    "t": 382.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "And in Luxembourg, that listening ear has a name... CePAS.",
+    "t": 385.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you so much for listening today.",
+    "t": 391.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "And remember... if you or a young person you know is struggling, reaching out is always okay.",
+    "t": 394.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 399.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 401.5
+   }
+  ],
+  "questions": [
+   {
+    "text": "What is CePAS?",
+    "options": [
+     "A private tutoring company",
+     "A psycho-social and school support centre for young people",
+     "A sports club",
+     "A university"
+    ],
+    "correct": 1,
+    "explanation": "CePAS, the Centre psycho-social et d'accompagnement scolaires, supports the personal, relational and academic development and wellbeing of young people at school. It was founded in 1965 and marked sixty years in 2025."
+   },
+   {
+    "text": "Who can use CePAS's consultation centre?",
+    "options": [
+     "Only university professors",
+     "Adolescents and young adults aged about 12 to 30, and their families",
+     "Only children under five",
+     "Only teachers"
+    ],
+    "correct": 1,
+    "explanation": "The consultation centre is for adolescents and young adults aged roughly 12 to 30, and their parents and families, offering psychological and therapeutic support for school, personal or relationship problems."
+   },
+   {
+    "text": "Where can a young person get quick support, often without an appointment?",
+    "options": [
+     "Only at a hospital",
+     "At the psycho-social service present in every secondary school",
+     "Only abroad",
+     "Only by post"
+    ],
+    "correct": 1,
+    "explanation": "A psycho-social service is present in every secondary school (lycée), where a young person can often be seen quickly, sometimes the same day, without an appointment."
+   },
+   {
+    "text": "What changed at CePAS in early 2026?",
+    "options": [
+     "It closed",
+     "Consultations became available in English as well",
+     "It started charging high fees",
+     "It moved abroad"
+    ],
+    "correct": 1,
+    "explanation": "Since early 2026, consultations at CePAS's centre for young people and families are also available in English, opening the service to many more families in Luxembourg's international community."
+   },
+   {
+    "text": "How does CePAS work with the rest of the support system?",
+    "options": [
+     "Completely alone, separate from everyone",
+     "Together with parents, schools and services like the Office National de l'Enfance",
+     "Only with the police",
+     "Only with private companies"
+    ],
+    "correct": 1,
+    "explanation": "CePAS works hand in hand with parents, teachers and schools, and is one of the partners the Office National de l'Enfance can call on for psychological support — so help can be coordinated around the young person."
+   }
+  ],
+  "categories": [
+   "family",
+   "social"
+  ],
+  "title_fr": "CePAS – Soutien psychologique et scolaire pour les jeunes",
+  "description_fr": "Ce qu'est le CePAS (le centre psycho-social et d'accompagnement scolaires), son histoire de soixante ans, le centre de consultation pour les jeunes de 12 à 30 ans et leurs familles, le soutien rapide disponible dans chaque lycée, les consultations désormais aussi en anglais, et la manière dont il se coordonne avec d'autres services.",
+  "topics_fr": [
+   "Ce qu'est le CePAS",
+   "Soixante ans de soutien à la jeunesse",
+   "Centre de consultation (12 à 30 ans)",
+   "Problèmes scolaires, personnels & relationnels",
+   "Aide rapide dans chaque lycée",
+   "Consultations désormais en anglais",
+   "Travailler avec parents & écoles",
+   "Demander de l'aide, c'est normal"
+  ],
+  "questions_fr": [
+   {
+    "text": "Qu'est-ce que le CePAS ?",
+    "options": [
+     "Une entreprise privée de cours particuliers",
+     "Un centre psycho-social et d'accompagnement scolaires pour les jeunes",
+     "Un club de sport",
+     "Une université"
+    ],
+    "correct": 1,
+    "explanation": "Le CePAS, le Centre psycho-social et d'accompagnement scolaires, soutient le développement et le bien-être personnel, relationnel et scolaire des jeunes à l'école. Il a été fondé en 1965 et a célébré ses soixante ans en 2025."
+   },
+   {
+    "text": "Qui peut s'adresser au centre de consultation du CePAS ?",
+    "options": [
+     "Uniquement les professeurs d'université",
+     "Les adolescents et les jeunes adultes d'environ 12 à 30 ans, et leurs familles",
+     "Uniquement les enfants de moins de cinq ans",
+     "Uniquement les enseignants"
+    ],
+    "correct": 1,
+    "explanation": "Le centre de consultation s'adresse aux adolescents et jeunes adultes d'environ 12 à 30 ans, ainsi qu'à leurs parents et familles, offrant un soutien psychologique et thérapeutique pour des problèmes scolaires, personnels ou relationnels."
+   },
+   {
+    "text": "Où un jeune peut-il obtenir un soutien rapide, souvent sans rendez-vous ?",
+    "options": [
+     "Uniquement à l'hôpital",
+     "Auprès du service psycho-social présent dans chaque lycée",
+     "Uniquement à l'étranger",
+     "Uniquement par courrier"
+    ],
+    "correct": 1,
+    "explanation": "Un service psycho-social est présent dans chaque lycée, où un jeune peut souvent être reçu rapidement, parfois le jour même, sans rendez-vous."
+   },
+   {
+    "text": "Qu'est-ce qui a changé au CePAS début 2026 ?",
+    "options": [
+     "Il a fermé",
+     "Les consultations sont également devenues disponibles en anglais",
+     "Il a commencé à facturer des frais élevés",
+     "Il a déménagé à l'étranger"
+    ],
+    "correct": 1,
+    "explanation": "Depuis début 2026, les consultations au centre du CePAS pour les jeunes et les familles sont également disponibles en anglais, ouvrant le service à de nombreuses autres familles de la communauté internationale du Luxembourg."
+   },
+   {
+    "text": "Comment le CePAS travaille-t-il avec le reste du système de soutien ?",
+    "options": [
+     "Complètement seul, séparé de tous",
+     "Avec les parents, les écoles et des services comme l'Office National de l'Enfance",
+     "Uniquement avec la police",
+     "Uniquement avec des entreprises privées"
+    ],
+    "correct": 1,
+    "explanation": "Le CePAS travaille main dans la main avec les parents, les enseignants et les écoles, et fait partie des partenaires auxquels l'Office National de l'Enfance peut faire appel pour un soutien psychologique — afin que l'aide puisse être coordonnée autour du jeune."
+   }
+  ],
+  "title_de": "CePAS – psychologische und schulische Unterstützung für junge Menschen",
+  "description_de": "Was CePAS (das psycho-soziale und schulische Begleitzentrum) ist, seine sechzigjährige Geschichte, das Beratungszentrum für junge Menschen im Alter von 12–30 Jahren und ihre Familien, die schnelle Unterstützung in jeder Sekundarschule, Beratungen nun auch auf Englisch, und wie es mit anderen Diensten zusammenarbeitet.",
+  "topics_de": [
+   "Was CePAS ist",
+   "Sechzig Jahre Jugendarbeit",
+   "Beratungszentrum (12–30 Jahre)",
+   "Schulische, persönliche & Beziehungsprobleme",
+   "Schnelle Hilfe in jedem Lycée",
+   "Beratungen nun auf Englisch",
+   "Arbeit mit Eltern & Schulen",
+   "Sich Hilfe holen ist okay"
+  ],
+  "questions_de": [
+   {
+    "text": "Was ist CePAS?",
+    "options": [
+     "Ein privates Nachhilfeunternehmen",
+     "Ein psycho-soziales und schulisches Begleitzentrum für junge Menschen",
+     "Ein Sportverein",
+     "Eine Universität"
+    ],
+    "correct": 1,
+    "explanation": "CePAS, das Centre psycho-social et d'accompagnement scolaires, fördert die persönliche, beziehungsbezogene und schulische Entwicklung und das Wohlbefinden junger Menschen in der Schule. Es wurde 1965 gegründet und feierte 2025 sein sechzigjähriges Bestehen."
+   },
+   {
+    "text": "Wer kann das Beratungszentrum von CePAS nutzen?",
+    "options": [
+     "Nur Hochschulprofessoren",
+     "Jugendliche und junge Erwachsene im Alter von etwa 12 bis 30 Jahren sowie ihre Familien",
+     "Nur Kinder unter fünf Jahren",
+     "Nur Lehrkräfte"
+    ],
+    "correct": 1,
+    "explanation": "Das Beratungszentrum richtet sich an Jugendliche und junge Erwachsene im Alter von etwa 12 bis 30 Jahren sowie an ihre Eltern und Familien und bietet psychologische und therapeutische Unterstützung bei schulischen, persönlichen oder Beziehungsproblemen."
+   },
+   {
+    "text": "Wo kann ein junger Mensch schnelle Unterstützung erhalten, oft ohne Termin?",
+    "options": [
+     "Nur in einem Krankenhaus",
+     "Beim psycho-sozialen Dienst, der in jeder Sekundarschule vorhanden ist",
+     "Nur im Ausland",
+     "Nur per Post"
+    ],
+    "correct": 1,
+    "explanation": "In jeder Sekundarschule (Lycée) gibt es einen psycho-sozialen Dienst, bei dem ein junger Mensch oft schnell, manchmal noch am selben Tag und ohne Termin, gesehen werden kann."
+   },
+   {
+    "text": "Was hat sich Anfang 2026 bei CePAS geändert?",
+    "options": [
+     "Es wurde geschlossen",
+     "Beratungen sind nun auch auf Englisch verfügbar",
+     "Es begann, hohe Gebühren zu verlangen",
+     "Es zog ins Ausland um"
+    ],
+    "correct": 1,
+    "explanation": "Seit Anfang 2026 sind die Beratungen im Zentrum von CePAS für junge Menschen und Familien auch auf Englisch verfügbar, wodurch der Dienst vielen weiteren Familien in der internationalen Gemeinschaft Luxemburgs offensteht."
+   },
+   {
+    "text": "Wie arbeitet CePAS mit dem übrigen Unterstützungssystem zusammen?",
+    "options": [
+     "Völlig allein, getrennt von allen anderen",
+     "Gemeinsam mit Eltern, Schulen und Diensten wie dem Office National de l'Enfance",
+     "Nur mit der Polizei",
+     "Nur mit privaten Unternehmen"
+    ],
+    "correct": 1,
+    "explanation": "CePAS arbeitet Hand in Hand mit Eltern, Lehrkräften und Schulen und ist einer der Partner, auf den das Office National de l'Enfance für psychologische Unterstützung zurückgreifen kann – damit Hilfe rund um den jungen Menschen koordiniert werden kann."
+   }
+  ],
+  "audio_fr": "podcast_cepas_fr.mp3",
+  "duration_fr": 414.91,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour et bienvenue à nouveau !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un plaisir de vous avoir parmi nous aujourd'hui.",
+    "t": 2.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 6.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 8.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
+    "t": 12.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les familles frontalières, à connaître les aides qui existent.",
+    "t": 16.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et aujourd'hui, nous parlons d'un sujet qui touche le cœur de beaucoup de familles... le bien-être des jeunes, surtout à l'école.",
+    "t": 23.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les années d'école peuvent être merveilleuses.",
+    "t": 30.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais elles peuvent aussi être stressantes, déroutantes, et parfois douloureuses.",
+    "t": 33.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Des inquiétudes au sujet des notes, des amitiés, de l'avenir, de ce qui se passe à la maison.",
+    "t": 39.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et c'est exactement là qu'intervient l'organisation dont nous parlons aujourd'hui.",
+    "t": 45.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle s'appelle CePAS.",
+    "t": 49.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "CePAS.",
+    "t": 52.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le nom complet est le Centre psycho-social et d'accompagnement scolaires.",
+    "t": 54.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "En termes simples... c'est un centre de soutien psycho-social et scolaire pour les jeunes.",
+    "t": 58.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Anna, quelle est l'idée principale derrière le CePAS ?",
+    "t": 63.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Son but est de soutenir le développement et le bien-être personnel, relationnel et scolaire des jeunes à l'école.",
+    "t": 68.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc pas seulement leurs notes, mais le jeune dans son ensemble... ses émotions, ses relations, sa confiance.",
+    "t": 74.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il le fait avec toutes les personnes qui entourent le jeune... les parents, les enseignants et le personnel scolaire.",
+    "t": 81.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "J'aime aussi le fait qu'il ait toute une histoire.",
+    "t": 88.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "En effet.",
+    "t": 91.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le CePAS est né en 1965, sous un nom plus ancien.",
+    "t": 93.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ainsi, en 2025, il a célébré soixante ans de soutien aux jeunes.",
+    "t": 97.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Soixante ans.",
+    "t": 103.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce sont des générations de jeunes qui ont été aidés.",
+    "t": 105.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Voyons ce que le CePAS propose concrètement.",
+    "t": 108.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a plusieurs volets différents.",
+    "t": 112.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le premier, et celui vers lequel les familles se tournent le plus souvent, est son centre de consultation pour les jeunes et les familles.",
+    "t": 114.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce centre s'adresse aux adolescents et aux jeunes adultes, environ de douze à trente ans, ainsi qu'à leurs parents et à leurs familles.",
+    "t": 122.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quel type d'aide offre-t-il ?",
+    "t": 129.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un soutien psychologique et thérapeutique, pour des problèmes scolaires, des problèmes personnels ou des problèmes relationnels.",
+    "t": 131.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc si un jeune est anxieux, déprimé, en difficulté avec ses amis, ou submergé par l'école, il peut trouver un professionnel à qui parler.",
+    "t": 139.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il offre aussi d'autres formes de soutien, comme la thérapie psychomotrice, le soutien social et des activités de groupe.",
+    "t": 148
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ces consultations se font sur rendez-vous.",
+    "t": 155.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et voici un changement récent et bienvenu.",
+    "t": 158.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 161.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Depuis début 2026, vous pouvez désormais avoir ces consultations en anglais également, et pas seulement dans les autres langues du pays.",
+    "t": 163.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela ouvre la porte à beaucoup plus de familles au sein de la communauté internationale du Luxembourg.",
+    "t": 171.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il existe maintenant un deuxième volet du soutien, et il se trouve directement au sein des écoles.",
+    "t": 177.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il s'agit du service psycho-social scolaire, présent dans chaque lycée.",
+    "t": 183.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ainsi, dans chaque lycée, il y a des professionnels à qui un jeune peut parler.",
+    "t": 187.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et un détail important... là, il n'est souvent pas nécessaire de prendre rendez-vous.",
+    "t": 192.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un jeune peut être reçu rapidement, parfois le jour même.",
+    "t": 197.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cette rapidité compte vraiment en cas de crise.",
+    "t": 202.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Imaginez donc deux niveaux.",
+    "t": 205.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une aide rapide au sein de l'école, et un soutien plus approfondi au centre de consultation.",
+    "t": 207.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactement.",
+    "t": 213.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les deux sont là pour aider un jeune avant qu'une petite inquiétude ne devienne grande.",
+    "t": 215.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a aussi un troisième volet, qui travaille en coulisses.",
+    "t": 219.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, un centre de ressources.",
+    "t": 224.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il soutient le personnel qui travaille dans les services psycho-sociaux des écoles.",
+    "t": 226.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il les aide à développer leurs compétences et leur pratique professionnelle.",
+    "t": 231.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ainsi, le CePAS n'aide pas seulement les jeunes directement.",
+    "t": 235.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il renforce aussi tout le réseau de personnes qui les soutiennent.",
+    "t": 240.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Disons un mot sur le coût et la confiance, car les familles s'inquiètent des deux.",
+    "t": 244.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le soutien est là pour aider, pas pour juger.",
+    "t": 248.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un espace sûr, professionnel et bienveillant.",
+    "t": 252.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et un jeune peut s'exprimer ouvertement, en sachant qu'il est écouté avec respect.",
+    "t": 256.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le CePAS fournit aussi des informations sur certaines questions financières pour les élèves, lorsque cela est pertinent.",
+    "t": 260.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Anna, cela rejoint une autre organisation dont nous avons parlé.",
+    "t": 268.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "En effet.",
+    "t": 272.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le CePAS est aussi l'un des partenaires auxquels l'Office National de l'Enfance peut faire appel pour un soutien psychologique.",
+    "t": 274.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc ces services ne sont pas des îlots séparés.",
+    "t": 281.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils travaillent ensemble autour du jeune.",
+    "t": 284.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est toute la beauté de la chose.",
+    "t": 287.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Beaucoup de mains, un seul objectif... un jeune qui se sent soutenu.",
+    "t": 290.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Disons un mot doux et sincère sur le fait de demander de l'aide.",
+    "t": 294.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous êtes un jeune à l'écoute, et que les choses vous pèsent, sachez que demander de l'aide est courageux, et non un signe de faiblesse.",
+    "t": 298.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et si vous êtes un parent qui remarque que son enfant est en difficulté, vous n'avez pas échoué.",
+    "t": 306.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le soutien existe, et il fonctionne.",
+    "t": 311.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parler à quelqu'un tôt peut changer le cours de toute une année scolaire, et parfois bien plus.",
+    "t": 315.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Tom... rendons cela concret.",
+    "t": 320.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Comment fait-on concrètement appel au CePAS ?",
+    "t": 323.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'abord... si votre enfant a besoin d'un soutien rapide, le service psycho-social scolaire est juste là, souvent sans rendez-vous.",
+    "t": 326.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ensuite... pour un soutien plus approfondi ou plus long, le centre de consultation accueille les jeunes de douze à trente ans, et leurs familles, sur rendez-vous.",
+    "t": 335.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement... rappelez-vous que depuis 2026, les consultations sont aussi disponibles en anglais.",
+    "t": 343.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quatrièmement... ces services sont en lien avec d'autres, comme l'ONE, afin que l'aide puisse être coordonnée.",
+    "t": 350.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Rassemblons tout cela.",
+    "t": 356.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Que faut-il retenir du CePAS ?",
+    "t": 358.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Premièrement... c'est un centre de soutien psycho-social et scolaire, qui aide au bien-être des jeunes à l'école depuis soixante ans.",
+    "t": 361.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deuxièmement... il offre un soutien psychologique et thérapeutique pour des problèmes scolaires, personnels et relationnels.",
+    "t": 368.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement... il y a une aide rapide dans chaque lycée, et un soutien plus approfondi à son centre de consultation.",
+    "t": 375.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et quatrièmement... il travaille main dans la main avec les parents, les écoles et d'autres services.",
+    "t": 382.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les jeunes portent plus de choses que nous ne le voyons parfois.",
+    "t": 388.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une oreille attentive au bon moment peut tout changer.",
+    "t": 391.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et au Luxembourg, cette oreille attentive a un nom... CePAS.",
+    "t": 395
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
+    "t": 400.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et souvenez-vous... si vous, ou un jeune que vous connaissez, traversez une période difficile, demander de l'aide est toujours une bonne chose.",
+    "t": 403.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi !",
+    "t": 411.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi !",
+    "t": 413.39
+   }
+  ],
+  "audio_de": "podcast_cepas_de.mp3",
+  "duration_de": 491.95,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und willkommen zurück!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist uns eine Freude, Sie heute bei uns zu haben.",
+    "t": 2.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 6.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 8.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 12.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den grenzüberschreitenden Familien, dabei helfen, die vorhandenen Hilfsangebote kennenzulernen.",
+    "t": 16.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und heute sprechen wir über etwas, das vielen Familien sehr am Herzen liegt... das Wohlergehen junger Menschen, besonders in der Schule.",
+    "t": 27.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Schuljahre können wunderbar sein.",
+    "t": 35.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber sie können auch stressig, verwirrend und manchmal schmerzhaft sein.",
+    "t": 38.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sorgen wegen der Noten, wegen Freundschaften, wegen der Zukunft, wegen dem, was zu Hause passiert.",
+    "t": 43.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und genau hier kommt die Organisation ins Spiel, über die wir heute sprechen.",
+    "t": 50.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie heißt CePAS.",
+    "t": 56.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "CePAS.",
+    "t": 58.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der vollständige Name ist das Centre psycho-social et d'accompagnement scolaires.",
+    "t": 60.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Einfach gesagt... es ist ein psycho-soziales und schulisches Unterstützungszentrum für junge Menschen.",
+    "t": 66.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, was ist die Grundidee hinter CePAS?",
+    "t": 73.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sein Ziel ist es, die persönliche, zwischenmenschliche und schulische Entwicklung und das Wohlergehen junger Menschen in der Schule zu unterstützen.",
+    "t": 77.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also nicht nur ihre Noten, sondern den ganzen jungen Menschen... seine Gefühle, seine Beziehungen, sein Selbstvertrauen.",
+    "t": 86.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es tut dies gemeinsam mit allen Menschen rund um den jungen Menschen... Eltern, Lehrkräften und Schulpersonal.",
+    "t": 94.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mir gefällt auch, dass es eine lange Geschichte hat.",
+    "t": 102.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das stimmt.",
+    "t": 106.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "CePAS entstand bereits 1965, unter einem früheren Namen.",
+    "t": 108.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "So feierte es 2025 sechzig Jahre der Unterstützung junger Menschen.",
+    "t": 114.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sechzig Jahre.",
+    "t": 120.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das sind Generationen von jungen Menschen, denen geholfen wurde.",
+    "t": 122.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schauen wir uns an, was CePAS tatsächlich anbietet.",
+    "t": 127.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt mehrere verschiedene Bereiche.",
+    "t": 132.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der erste, und derjenige, an den sich Familien am häufigsten wenden, ist sein Beratungszentrum für junge Menschen und Familien.",
+    "t": 135.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieses Zentrum ist für Jugendliche und junge Erwachsene, etwa von zwölf bis dreißig Jahren, sowie für ihre Eltern und Familien.",
+    "t": 143.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und welche Art von Hilfe bietet es?",
+    "t": 152.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Psychologische und therapeutische Unterstützung bei schulischen Problemen, persönlichen Problemen oder Beziehungsproblemen.",
+    "t": 155.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn ein junger Mensch also ängstlich ist, niedergeschlagen, Schwierigkeiten mit Freunden hat oder von der Schule überfordert ist, kann er einen Fachmann finden, mit dem er sprechen kann.",
+    "t": 164.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es bietet auch andere Formen der Unterstützung an, wie psychomotorische Therapie, soziale Unterstützung und Gruppenaktivitäten.",
+    "t": 175.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Diese Beratungen finden nach Terminvereinbarung statt.",
+    "t": 184.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und hier ist eine kürzliche, willkommene Änderung.",
+    "t": 188.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 192.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Seit Anfang 2026 können Sie diese Beratungen nun auch auf Englisch haben, nicht nur in den anderen Sprachen des Landes.",
+    "t": 193.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das öffnet die Tür für viele weitere Familien innerhalb der internationalen Gemeinschaft Luxemburgs.",
+    "t": 202.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nun gibt es einen zweiten Bereich der Unterstützung, und der befindet sich direkt in den Schulen.",
+    "t": 208.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist der schulische psycho-soziale Dienst, der in jedem Lycée (Sekundarschule) vorhanden ist.",
+    "t": 215.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "So gibt es in jedem Lycée (Sekundarschule) Fachleute, mit denen ein junger Mensch sprechen kann.",
+    "t": 221.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und ein wichtiges Detail... dort braucht man oft keinen Termin.",
+    "t": 229.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein junger Mensch kann schnell empfangen werden, manchmal noch am selben Tag.",
+    "t": 233.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Schnelligkeit ist in einer Krise wirklich wichtig.",
+    "t": 238.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stellen Sie sich also zwei Ebenen vor.",
+    "t": 242.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Schnelle Hilfe innerhalb der Schule, und tiefergehende Unterstützung im Beratungszentrum.",
+    "t": 246.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau.",
+    "t": 251.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und beide sind da, um einen jungen Menschen aufzufangen, bevor aus einer kleinen Sorge eine große wird.",
+    "t": 253.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt auch einen dritten Bereich, der hinter den Kulissen arbeitet.",
+    "t": 260.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, ein Ressourcenzentrum.",
+    "t": 265.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es unterstützt das Personal, das in den psycho-sozialen Diensten der Schulen arbeitet.",
+    "t": 268.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es hilft ihnen, ihre Kompetenzen und ihre berufliche Praxis weiterzuentwickeln.",
+    "t": 274.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "CePAS hilft also nicht nur jungen Menschen direkt.",
+    "t": 280.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es stärkt auch das ganze Netzwerk von Menschen, die sie unterstützen.",
+    "t": 284.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sagen wir etwas über Kosten und Vertrauen, denn Familien sorgen sich um beides.",
+    "t": 289.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Unterstützung ist da, um zu helfen, nicht um zu urteilen.",
+    "t": 295.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist ein sicherer, professioneller und fürsorglicher Ort.",
+    "t": 300.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und ein junger Mensch kann offen sprechen, in dem Wissen, dass ihm mit Respekt zugehört wird.",
+    "t": 304.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "CePAS stellt auch Informationen zu bestimmten finanziellen Angelegenheiten für Schüler bereit, wenn es relevant ist.",
+    "t": 310.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nun Anna, das hängt mit einer anderen Organisation zusammen, über die wir gesprochen haben.",
+    "t": 318.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das stimmt.",
+    "t": 325.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "CePAS ist auch einer der Partner, auf die das Office National de l'Enfance für psychologische Unterstützung zurückgreifen kann.",
+    "t": 326.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Diese Dienste sind also keine getrennten Inseln.",
+    "t": 335.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie arbeiten gemeinsam rund um den jungen Menschen.",
+    "t": 339.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist das Schöne daran.",
+    "t": 343.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Viele Hände, ein Ziel... ein junger Mensch, der sich unterstützt fühlt.",
+    "t": 345.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sagen wir ein sanftes, ehrliches Wort über das Sich-Melden.",
+    "t": 351.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie ein junger Mensch sind, der zuhört, und die Dinge sich schwer anfühlen, dann wissen Sie bitte, dass um Hilfe zu bitten mutig ist, nicht schwach.",
+    "t": 355.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wenn Sie ein Elternteil sind und bemerken, dass Ihr Kind Schwierigkeiten hat, dann haben Sie nicht versagt.",
+    "t": 365.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Unterstützung gibt es, und sie wirkt.",
+    "t": 372.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Frühzeitig mit jemandem zu sprechen kann den Verlauf eines ganzen Schuljahres verändern, und manchmal noch viel mehr.",
+    "t": 375.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Tom... machen wir es praktisch.",
+    "t": 383.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie nutzt man CePAS eigentlich?",
+    "t": 386.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens... wenn Ihr Kind schnelle Unterstützung braucht, ist der schulische psycho-soziale Dienst direkt vor Ort, oft ohne Termin.",
+    "t": 389.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens... für tiefergehende oder längere Unterstützung empfängt das Beratungszentrum junge Menschen von zwölf bis dreißig Jahren, und ihre Familien, nach Terminvereinbarung.",
+    "t": 398.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens... denken Sie daran, dass seit 2026 die Beratungen auch auf Englisch verfügbar sind.",
+    "t": 409.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und viertens... diese Dienste sind mit anderen verbunden, wie dem ONE, damit die Hilfe koordiniert werden kann.",
+    "t": 417.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fassen wir alles zusammen.",
+    "t": 424.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was sollte man sich über CePAS merken?",
+    "t": 426.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens... es ist ein psycho-soziales und schulisches Unterstützungszentrum, das seit sechzig Jahren dem Wohlergehen junger Menschen in der Schule dient.",
+    "t": 430.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens... es bietet psychologische und therapeutische Unterstützung bei schulischen, persönlichen und Beziehungsproblemen.",
+    "t": 439.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens... es gibt schnelle Hilfe in jedem Lycée (Sekundarschule), und tiefergehende Unterstützung in seinem Beratungszentrum.",
+    "t": 447.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und viertens... es arbeitet Hand in Hand mit Eltern, Schulen und anderen Diensten.",
+    "t": 455.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Junge Menschen tragen mehr, als wir manchmal sehen.",
+    "t": 462.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ein offenes Ohr im richtigen Moment kann alles bedeuten.",
+    "t": 465.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und in Luxemburg hat dieses offene Ohr einen Namen... CePAS.",
+    "t": 470.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vielen Dank, dass Sie uns heute zugehört haben.",
+    "t": 475.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und denken Sie daran... wenn Sie oder ein junger Mensch, den Sie kennen, Schwierigkeiten haben, ist es immer in Ordnung, sich Hilfe zu holen.",
+    "t": 479.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 488.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 490.39
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm zréck! Et ass eis e Plëséier, Iech haut bei eis ze hunn.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien zesummen!",
+    "t": 5.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de grenziwwerschreidende Familljen, hëllefen, déi Hëllefen ze kennen, déi et gëtt.",
+    "t": 7.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "A vum haut schwätze mir iwwer eppes, dat ville Familljen um Häerz läit... d'Wuelbefannen vu jonke Leit, virun allem an der Schoul.",
+    "t": 21.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Schouljoeren kënne wonnerbar sinn. Mä si kënnen och stresseg, verwirrend, an heiansdo schmäerzhaft sinn.",
+    "t": 28.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Suergen iwwer d'Noten, iwwer Frëndschaften, iwwer d'Zukunft, iwwer dat, wat doheem geschitt.",
+    "t": 36.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "A genee do kënnt d'Organisatioun, vun där mir haut schwätzen, an d'Spill. Si heescht CePAS.",
+    "t": 42.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "CePAS. Den ganzen Numm ass de Centre psycho-social et d'accompagnement scolaires.",
+    "t": 48.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Einfach gesot... et ass e psycho-sozialt a schoulescht Ënnerstëtzungszentrum fir jonk Leit.",
+    "t": 55.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, wat ass d'Haaptiddi hannert dem CePAS?",
+    "t": 60.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Säi Zil ass et, déi perséinlech, bezéiungs- a schoulesch Entwécklung an d'Wuelbefannen vu jonke Leit an der Schoul z'ënnerstëtzen.",
+    "t": 64.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also net nëmmen hir Noten, mä dee ganze jonke Mënsch... seng Gefiller, seng Bezéiungen, säi Selbstvertrauen.",
+    "t": 71.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et mécht dat zesumme mat all de Leit ronderëm de jonke Mënsch... den Elteren, de Léierpersonal an dem Schoulpersonal.",
+    "t": 78.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mir gefält och, datt et eng laang Geschicht huet.",
+    "t": 85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat stëmmt. De CePAS ass schonn 1965 entstanen, ënner engem méi alen Numm. Esou huet en 2025 sechzeg Joer Ënnerstëtzung vu jonke Leit gefeiert.",
+    "t": 88.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sechzeg Joer. Dat si Generatioune vu jonke Leit, deenen gehollef gouf.",
+    "t": 100.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Kucke mir, wat de CePAS tatsächlech ubitt. Et ginn e puer verschidde Beräicher.",
+    "t": 106.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deen éischten, an deen, un deen sech d'Familljen am meeschten wenden, ass säi Beroodungszentrum fir jonk Leit a Familljen.",
+    "t": 111.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dëst Zentrum ass fir Jugendlecher a jonk Erwuessener, ongeféier vun zwielef bis drësseg Joer, an och fir hir Elteren a Familljen.",
+    "t": 118.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wéi eng Aart vun Hëllef gëtt et?",
+    "t": 126.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Psychologesch an therapeutesch Ënnerstëtzung, fir schoulesch Problemer, perséinlech Problemer oder Bezéiungsproblemer.",
+    "t": 129.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also wann e jonke Mënsch ängschtlech ass, gedréckt, Schwieregkeete mat Frënn huet, oder vun der Schoul iwwerfuerdert ass, da kann en e Fachmann fannen, mat deem en schwätze kann.",
+    "t": 136.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et bitt och aner Forme vun Ënnerstëtzung un, wéi psychomotoresch Therapie, sozial Ënnerstëtzung a Gruppenaktivitéiten.",
+    "t": 143.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dës Beroodunge geschéie no Rendez-vous. An hei ass eng rezent, wëllkomm Ännerung.",
+    "t": 151.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. Zanter Ufank 2026 kënnt Dir dës Beroodungen elo och op Englesch hunn, net nëmmen an deenen anere Sprooche vum Land.",
+    "t": 157.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat mécht d'Dier op fir vill méi Familljen an der internationaler Gemeinschaft vu Lëtzebuerg.",
+    "t": 167.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elo gëtt et en zweete Beräich vun der Ënnerstëtzung, an deen ass direkt an de Schoulen.",
+    "t": 172.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass de schoulesche psycho-sozialen Déngscht, deen an all Lycée present ass.",
+    "t": 178.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Esou ginn et an all Lycée Fachleit, mat deenen e jonke Mënsch schwätze kann.",
+    "t": 183.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "An en wichtegt Detail... do brauch een dacks kee Rendez-vous.",
+    "t": 187.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "E jonke Mënsch ka séier empfaange ginn, heiansdo nach deeselwechten Dag. Dës Séierheet zielt wierklech an enger Kris.",
+    "t": 192.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stellt Iech also zwou Schichten vir. Séier Hëllef an der Schoul, an déifer Ënnerstëtzung am Beroodungszentrum.",
+    "t": 200.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genee. A béid sinn do, fir e jonke Mënsch opzefänken, ier aus enger klenger Suerg eng grouss gëtt.",
+    "t": 207.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt och en drëtte Beräich, deen hannert de Kulisse schafft.",
+    "t": 214.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, e Ressourcëzentrum. Et ënnerstëtzt d'Personal, dat an de psycho-sozialen Déngschter vun de Schoule schafft.",
+    "t": 218.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et hëlleft hinnen, hir Kompetenzen an hir berufflech Praxis weiderzeentwéckelen.",
+    "t": 225.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Esou hëlleft de CePAS net nëmmen de jonke Leit direkt. Et stäerkt och dat ganzt Netzwierk vu Leit, déi si ënnerstëtzen.",
+    "t": 230.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Soe mir eppes iwwer d'Käschten an d'Vertrauen, well d'Familljen sech ëm béid Suerge maachen.",
+    "t": 238.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Ënnerstëtzung ass do, fir ze hëllefen, net fir ze uerteelen. Et ass e sécheren, professionellen a fiersuergleche Raum.",
+    "t": 243.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "An e jonke Mënsch kann oppe schwätzen, am Wëssen, datt him mat Respekt nogelauschtert gëtt.",
+    "t": 250.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "De CePAS stellt och Informatiounen iwwer bestëmmt finanziell Ugeleeënheete fir Schüler zur Verfügung, wann et relevant ass.",
+    "t": 255.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elo Anna, dat hänkt mat enger anerer Organisatioun zesummen, iwwer déi mir geschwat hunn.",
+    "t": 261.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat stëmmt. De CePAS ass och ee vun de Partner, op déi den Office National de l'Enfance fir psychologesch Ënnerstëtzung zréckgräife kann.",
+    "t": 266.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dës Déngschter sinn also keng getrennten Inselen. Si schaffe zesumme ronderëm de jonke Mënsch.",
+    "t": 275.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat ass dat Schéint dorun. Vill Hänn, ee Zil... e jonke Mënsch, deen sech ënnerstëtzt fillt.",
+    "t": 281.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Soe mir e sanft, éierlecht Wuert iwwer d'Sichen no Hëllef.",
+    "t": 288.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wann Dir e jonke Mënsch sidd, deen nolauschtert, an d'Saache schwéier wierken, da wësst w.e.g., datt no Hëllef ze froen couragéiert ass, net schwaach.",
+    "t": 291.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wann Dir en Elterendeel sidd, deen mierkt, datt säi Kand Schwieregkeeten huet, da hutt Dir net versot. Ënnerstëtzung gëtt et, a si wierkt.",
+    "t": 298.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fréizäiteg mat engem ze schwätze kann de Verlaf vun engem ganze Schouljoer änneren, an heiansdo nach vill méi.",
+    "t": 307.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Tom... maache mir et praktesch. Wéi notzt een de CePAS eigentlech?",
+    "t": 312.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als éischt... wann Äert Kand séier Ënnerstëtzung brauch, ass de schoulesche psycho-sozialen Déngscht direkt do, dacks ouni Rendez-vous.",
+    "t": 319.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweetens... fir méi déif oder méi laang Ënnerstëtzung empfänkt de Beroodungszentrum jonk Leit vun zwielef bis drësseg Joer, an hir Familljen, no Rendez-vous.",
+    "t": 326.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drëttens... denkt drun, datt zanter 2026 d'Beroodungen och op Englesch disponibel sinn.",
+    "t": 335.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "A véiertens... dës Déngschter sinn mat anere verbonnen, wéi dem ONE, esou datt d'Hëllef kann ofgestëmmt ginn.",
+    "t": 341.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosse mir alles zesummebréngen. Wat sollt een sech iwwer de CePAS mierken?",
+    "t": 347.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Éischtens... et ass e psycho-sozialt a schoulescht Ënnerstëtzungszentrum, dat zanter sechzeg Joer dem Wuelbefanne vu jonke Leit an der Schoul déngt.",
+    "t": 352.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens... et bitt psychologesch an therapeutesch Ënnerstëtzung fir schoulesch, perséinlech a Bezéiungsproblemer.",
+    "t": 359.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens... et gëtt séier Hëllef an all Lycée, an déifer Ënnerstëtzung a sengem Beroodungszentrum.",
+    "t": 366.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "A véiertens... et schafft Hand an Hand mat den Elteren, de Schoulen an aneren Déngschter.",
+    "t": 372.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jonk Leit droe méi, wéi mir heiansdo gesinn. En oppent Ouer am richtege Moment kann alles bedeiten.",
+    "t": 378.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "An zu Lëtzebuerg huet dëst oppent Ouer en Numm... CePAS.",
+    "t": 385.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Villmools merci, datt Dir eis haut nogelauschtert hutt.",
+    "t": 391.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "An denkt drun... wann Dir oder e jonke Mënsch, deen Dir kennt, Schwieregkeeten hutt, ass et ëmmer an der Rei, sech Hëllef ze sichen. Äddi!",
+    "t": 394.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 401.5
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "key": "fondseuropeens",
+  "number": "Episode 22",
+  "title": "European Funds in Luxembourg – How EU Money Supports Local Projects",
+  "description": "What the European Funds are, how the EU's cohesion policy invests in member countries, the main funds (regional development, the social fund, and asylum & migration), how managing authorities oversee them, what they pay for, and how organisations can take part.",
+  "audio": "podcast_fondseuropeens.mp3",
+  "duration": 398.81,
+  "topics": [
+   "EU cohesion policy explained",
+   "Regional Development Fund (FEDER)",
+   "European Social Fund Plus (FSE+)",
+   "Asylum, Migration & Integration Fund",
+   "Managing authorities & oversight",
+   "Co-financing local projects",
+   "Who can apply",
+   "Transparency for citizens"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome back!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's a pleasure to have you with us today.",
+    "t": 2.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border workers too, to understand how the country works.",
+    "t": 14.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today's topic might sound a little technical at first, but it touches real life... European funds.",
+    "t": 22.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 29.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "We hear a lot about the European Union.",
+    "t": 31.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "But what does it actually mean, in practice, here in Luxembourg?",
+    "t": 34.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Part of the answer is money.",
+    "t": 38.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "The EU helps pay for useful projects in its member countries.",
+    "t": 41.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "And in Luxembourg, there is an official website and team that manages this... the European Funds, or in French, the \"Fonds européens\".",
+    "t": 45.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Anna, where does this money come from, and what is the idea behind it?",
+    "t": 54.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "The European Union has something called cohesion policy.",
+    "t": 59.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is to help regions and people develop, fairly, across Europe.",
+    "t": 63.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "So richer and less rich regions, big challenges and small ones... the EU invests to help everyone move forward together.",
+    "t": 68.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "And each member country, including Luxembourg, receives a share to spend on agreed goals.",
+    "t": 76.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's talk about the main funds, because each one has its own focus.",
+    "t": 82.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "The first is the European Regional Development Fund.",
+    "t": 87.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "People often call it by its French initials, FEDER.",
+    "t": 90.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "This one supports things like research, innovation, the digital economy, and the move to cleaner, low-carbon energy.",
+    "t": 94.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "For Luxembourg, in the current period from 2021 to 2027, this fund is around twenty-one million euros.",
+    "t": 102.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "The second is the European Social Fund Plus.",
+    "t": 110.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "In French, the FSE Plus.",
+    "t": 113.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "The clue is in the name... social.",
+    "t": 117.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "This fund is about people.",
+    "t": 120
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jobs, skills, training, and including people who are left behind.",
+    "t": 122.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "It helps with employment and with fighting poverty and exclusion.",
+    "t": 127.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "And there is a third fund worth knowing... the Asylum, Migration and Integration Fund.",
+    "t": 131.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "That one supports welcoming and integrating people who come to Luxembourg, including those seeking asylum.",
+    "t": 137.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are also funds for internal security and for managing borders.",
+    "t": 144.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "So together, these funds cover the economy, people, inclusion, and safety.",
+    "t": 148.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now, an important question.",
+    "t": 154.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Who decides how this money is spent, and who keeps it honest?",
+    "t": 157.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "For each fund, there is what's called a managing authority.",
+    "t": 161.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "A managing authority is the official body responsible for running the programme properly.",
+    "t": 165.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "It chooses which projects get support, it manages the money carefully, and it checks the results.",
+    "t": 170.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "The rule that guides them is \"sound financial management\".",
+    "t": 176.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "In plain words... spend public money wisely and transparently.",
+    "t": 180.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Different ministries take on this role, depending on the fund.",
+    "t": 185.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "For example, the fund for asylum and migration is managed by the ministry responsible for family, solidarity and welcoming people.",
+    "t": 189.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "So the money is not just handed out.",
+    "t": 198.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is planned, managed, and accounted for.",
+    "t": 201.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's make this concrete.",
+    "t": 205.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "What does European money actually pay for, that a normal person might notice?",
+    "t": 207.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Think of a training programme that helps unemployed people gain new skills.",
+    "t": 212.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Or a project that helps a company innovate, and create good jobs.",
+    "t": 217.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Or support that helps newcomers learn the language and find their feet.",
+    "t": 222.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Or investment in cleaner energy and a greener economy.",
+    "t": 226.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "These projects are often run by local organisations... associations, companies, public bodies.",
+    "t": 230.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "And European funds help pay for them, alongside national money.",
+    "t": 237.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's called co-financing.",
+    "t": 241.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "So the EU rarely pays for everything.",
+    "t": 244.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "It joins forces with Luxembourg to make a project possible.",
+    "t": 247.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now, you might be wondering... could I, or an organisation I know, use these funds?",
+    "t": 251.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Possibly, yes.",
+    "t": 258
+   },
+   {
+    "speaker": "Tom",
+    "text": "The European Funds website explains the goals, the calls for projects, and how to apply.",
+    "t": 260.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you run an association, a company, or a public project that fits the goals, you can find out how to take part.",
+    "t": 266.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "The website also shows examples of projects that have already been funded, which is inspiring.",
+    "t": 273.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "So this is not a closed world for experts only.",
+    "t": 279.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open, and it is explained.",
+    "t": 283.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's also say why this matters for ordinary citizens, even those who never apply.",
+    "t": 286.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Because this is your money too, as a European, being invested back into your community.",
+    "t": 291.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "And because transparency matters.",
+    "t": 297.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "You can see where it goes, and what it achieves.",
+    "t": 300.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is a quiet but real example of European solidarity, landing in real projects, in real towns.",
+    "t": 303.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Tom... let's make it practical.",
+    "t": 310.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "What can someone do with this?",
+    "t": 314.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "First... if you run an organisation or project, check the European Funds website to see if your idea fits.",
+    "t": 316.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second... look at the funded projects, to understand what kinds of ideas get support.",
+    "t": 324.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third... remember the main funds... the regional development fund for the economy, and the social fund for people and jobs.",
+    "t": 329.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fourth... know that this money is managed carefully, by official authorities, with clear goals.",
+    "t": 337.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's bring it all together.",
+    "t": 343.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "What should people remember about the European Funds?",
+    "t": 346.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "First... the EU invests in member countries through its cohesion policy, and Luxembourg receives a share.",
+    "t": 349.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second... the main funds support the economy and innovation, people and jobs, and integration.",
+    "t": 356.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third... managing authorities choose and oversee projects, spending public money wisely.",
+    "t": 363.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fourth... organisations can apply, and everyone can see the projects on the European Funds website.",
+    "t": 369.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Europe can feel far away and abstract.",
+    "t": 376.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "But sometimes, it looks like a training course, or a new job, right next door.",
+    "t": 379.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "And understanding that helps us see the value behind the headlines.",
+    "t": 384.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you so much for listening today.",
+    "t": 389.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Take care, and see you in the next episode.",
+    "t": 392.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 395.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 397.14
+   }
+  ],
+  "questions": [
+   {
+    "text": "What is the idea behind the EU's cohesion policy?",
+    "options": [
+     "To collect money from member countries",
+     "To invest in regions and people so they can develop fairly across Europe",
+     "To replace national governments",
+     "To fund only large companies"
+    ],
+    "correct": 1,
+    "explanation": "The EU's cohesion policy invests in regions and people to help them develop fairly across Europe. Each member country, including Luxembourg, receives a share to spend on agreed goals."
+   },
+   {
+    "text": "What does the European Social Fund Plus (FSE+) mainly support?",
+    "options": [
+     "Building motorways",
+     "People — jobs, skills, training and social inclusion",
+     "Military equipment",
+     "Space exploration"
+    ],
+    "correct": 1,
+    "explanation": "The European Social Fund Plus (FSE+) is about people: employment, skills and training, and including people who are left behind, helping to fight poverty and exclusion."
+   },
+   {
+    "text": "What is a “managing authority”?",
+    "options": [
+     "A private bank",
+     "The official body responsible for running a fund's programme properly",
+     "A European court",
+     "A political party"
+    ],
+    "correct": 1,
+    "explanation": "For each fund there is a managing authority — the official body that selects projects, manages the money carefully and checks results, guided by the principle of sound financial management."
+   },
+   {
+    "text": "What does “co-financing” mean for these projects?",
+    "options": [
+     "The EU pays for everything alone",
+     "The EU funds join with national money to make a project possible",
+     "Citizens must pay back the money",
+     "Projects get no public money"
+    ],
+    "correct": 1,
+    "explanation": "European funds usually co-finance projects — they join forces with national money rather than paying for everything. Projects are often run by local associations, companies or public bodies."
+   },
+   {
+    "text": "Who can apply to use European funds in Luxembourg?",
+    "options": [
+     "Only the government",
+     "Organisations and projects that fit the goals — associations, companies, public bodies",
+     "Only people living abroad",
+     "Nobody — it is automatic"
+    ],
+    "correct": 1,
+    "explanation": "Organisations running projects that fit the funds' goals can find out how to take part on the European Funds website, which also explains the objectives and shows examples of funded projects."
+   }
+  ],
+  "categories": [
+   "social",
+   "work"
+  ],
+  "title_fr": "Les Fonds européens au Luxembourg – Comment l'argent de l'UE soutient les projets locaux",
+  "description_fr": "Ce que sont les Fonds européens, comment la politique de cohésion de l'UE investit dans les pays membres, les principaux fonds (développement régional, fonds social, et asile & migration), comment les autorités de gestion les supervisent, ce qu'ils financent, et comment les organisations peuvent y participer.",
+  "topics_fr": [
+   "La politique de cohésion de l'UE expliquée",
+   "Fonds de développement régional (FEDER)",
+   "Fonds social européen plus (FSE+)",
+   "Fonds Asile, Migration & Intégration",
+   "Autorités de gestion & supervision",
+   "Cofinancer des projets locaux",
+   "Qui peut postuler",
+   "Transparence pour les citoyens"
+  ],
+  "questions_fr": [
+   {
+    "text": "Quelle est l'idée derrière la politique de cohésion de l'UE ?",
+    "options": [
+     "Percevoir de l'argent auprès des pays membres",
+     "Investir dans les régions et les personnes pour qu'elles puissent se développer équitablement à travers l'Europe",
+     "Remplacer les gouvernements nationaux",
+     "Financer uniquement les grandes entreprises"
+    ],
+    "correct": 1,
+    "explanation": "La politique de cohésion de l'UE investit dans les régions et les personnes pour les aider à se développer équitablement à travers l'Europe. Chaque pays membre, y compris le Luxembourg, reçoit une part à dépenser pour des objectifs convenus."
+   },
+   {
+    "text": "Que soutient principalement le Fonds social européen plus (FSE+) ?",
+    "options": [
+     "La construction d'autoroutes",
+     "Les personnes — emplois, compétences, formation et inclusion sociale",
+     "Le matériel militaire",
+     "L'exploration spatiale"
+    ],
+    "correct": 1,
+    "explanation": "Le Fonds social européen plus (FSE+) concerne les personnes : l'emploi, les compétences et la formation, et l'inclusion des personnes laissées de côté, contribuant à lutter contre la pauvreté et l'exclusion."
+   },
+   {
+    "text": "Qu'est-ce qu'une « autorité de gestion » ?",
+    "options": [
+     "Une banque privée",
+     "L'organisme officiel chargé de gérer correctement le programme d'un fonds",
+     "Une cour européenne",
+     "Un parti politique"
+    ],
+    "correct": 1,
+    "explanation": "Pour chaque fonds, il existe une autorité de gestion — l'organisme officiel qui sélectionne les projets, gère l'argent avec soin et vérifie les résultats, guidé par le principe de bonne gestion financière."
+   },
+   {
+    "text": "Que signifie le « cofinancement » pour ces projets ?",
+    "options": [
+     "L'UE paie tout, seule",
+     "Les fonds de l'UE s'ajoutent à l'argent national pour rendre un projet possible",
+     "Les citoyens doivent rembourser l'argent",
+     "Les projets ne reçoivent aucun argent public"
+    ],
+    "correct": 1,
+    "explanation": "Les fonds européens cofinancent généralement les projets — ils s'associent à l'argent national plutôt que de tout payer. Les projets sont souvent menés par des associations locales, des entreprises ou des organismes publics."
+   },
+   {
+    "text": "Qui peut postuler pour utiliser les fonds européens au Luxembourg ?",
+    "options": [
+     "Uniquement le gouvernement",
+     "Les organisations et projets qui correspondent aux objectifs — associations, entreprises, organismes publics",
+     "Uniquement les personnes vivant à l'étranger",
+     "Personne — c'est automatique"
+    ],
+    "correct": 1,
+    "explanation": "Les organisations qui mènent des projets correspondant aux objectifs des fonds peuvent découvrir comment y participer sur le site des Fonds européens, qui explique aussi les objectifs et présente des exemples de projets financés."
+   }
+  ],
+  "title_de": "Europäische Fonds in Luxemburg – wie EU-Gelder lokale Projekte unterstützen",
+  "description_de": "Was die Europäischen Fonds sind, wie die Kohäsionspolitik der EU in die Mitgliedstaaten investiert, die wichtigsten Fonds (regionale Entwicklung, der Sozialfonds sowie Asyl & Migration), wie Verwaltungsbehörden sie beaufsichtigen, wofür sie verwendet werden und wie Organisationen sich beteiligen können.",
+  "topics_de": [
+   "EU-Kohäsionspolitik erklärt",
+   "Fonds für regionale Entwicklung (FEDER)",
+   "Europäischer Sozialfonds Plus (FSE+)",
+   "Asyl-, Migrations- & Integrationsfonds",
+   "Verwaltungsbehörden & Aufsicht",
+   "Kofinanzierung lokaler Projekte",
+   "Wer sich bewerben kann",
+   "Transparenz für die Bürger"
+  ],
+  "questions_de": [
+   {
+    "text": "Was ist die Idee hinter der Kohäsionspolitik der EU?",
+    "options": [
+     "Geld von den Mitgliedstaaten einzusammeln",
+     "In Regionen und Menschen zu investieren, damit sie sich europaweit gerecht entwickeln können",
+     "Die nationalen Regierungen zu ersetzen",
+     "Nur große Unternehmen zu finanzieren"
+    ],
+    "correct": 1,
+    "explanation": "Die Kohäsionspolitik der EU investiert in Regionen und Menschen, um ihnen zu helfen, sich europaweit gerecht zu entwickeln. Jeder Mitgliedstaat, einschließlich Luxemburg, erhält einen Anteil, den er für vereinbarte Ziele ausgeben kann."
+   },
+   {
+    "text": "Was unterstützt der Europäische Sozialfonds Plus (FSE+) hauptsächlich?",
+    "options": [
+     "Den Bau von Autobahnen",
+     "Menschen – Arbeitsplätze, Kompetenzen, Ausbildung und soziale Eingliederung",
+     "Militärausrüstung",
+     "Weltraumforschung"
+    ],
+    "correct": 1,
+    "explanation": "Beim Europäischen Sozialfonds Plus (FSE+) geht es um Menschen: Beschäftigung, Kompetenzen und Ausbildung sowie die Eingliederung benachteiligter Menschen, um Armut und Ausgrenzung zu bekämpfen."
+   },
+   {
+    "text": "Was ist eine „Verwaltungsbehörde“?",
+    "options": [
+     "Eine Privatbank",
+     "Die offizielle Stelle, die für die ordnungsgemäße Durchführung des Programms eines Fonds verantwortlich ist",
+     "Ein europäisches Gericht",
+     "Eine politische Partei"
+    ],
+    "correct": 1,
+    "explanation": "Für jeden Fonds gibt es eine Verwaltungsbehörde – die offizielle Stelle, die Projekte auswählt, die Mittel sorgfältig verwaltet und die Ergebnisse überprüft, geleitet vom Grundsatz der wirtschaftlichen Haushaltsführung."
+   },
+   {
+    "text": "Was bedeutet „Kofinanzierung“ für diese Projekte?",
+    "options": [
+     "Die EU bezahlt alles allein",
+     "Die EU-Mittel werden mit nationalen Geldern zusammengelegt, um ein Projekt zu ermöglichen",
+     "Die Bürger müssen das Geld zurückzahlen",
+     "Die Projekte erhalten keine öffentlichen Gelder"
+    ],
+    "correct": 1,
+    "explanation": "Europäische Fonds kofinanzieren Projekte in der Regel – sie schließen sich mit nationalen Geldern zusammen, statt alles allein zu bezahlen. Projekte werden oft von lokalen Vereinen, Unternehmen oder öffentlichen Stellen durchgeführt."
+   },
+   {
+    "text": "Wer kann sich um die Nutzung der Europäischen Fonds in Luxemburg bewerben?",
+    "options": [
+     "Nur die Regierung",
+     "Organisationen und Projekte, die zu den Zielen passen – Vereine, Unternehmen, öffentliche Stellen",
+     "Nur im Ausland lebende Personen",
+     "Niemand – es geschieht automatisch"
+    ],
+    "correct": 1,
+    "explanation": "Organisationen, die Projekte durchführen, die zu den Zielen der Fonds passen, können auf der Website der Europäischen Fonds erfahren, wie sie sich beteiligen können; dort werden auch die Ziele erläutert und Beispiele für geförderte Projekte gezeigt."
+   }
+  ],
+  "audio_fr": "podcast_fondseuropeens_fr.mp3",
+  "duration_fr": 420.46,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour, et bienvenue à nouveau !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un plaisir de vous compter parmi nous aujourd'hui.",
+    "t": 3.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 6.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 9.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
+    "t": 12.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, et les frontaliers aussi, à comprendre comment le pays fonctionne.",
+    "t": 16.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le sujet d'aujourd'hui peut sembler un peu technique au premier abord, mais il touche à la vie réelle... les Fonds européens.",
+    "t": 23.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 30.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous entendons beaucoup parler de l'Union européenne.",
+    "t": 31.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais qu'est-ce que cela signifie réellement, en pratique, ici au Luxembourg ?",
+    "t": 35.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une partie de la réponse, c'est l'argent.",
+    "t": 40.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'UE aide à financer des projets utiles dans ses pays membres.",
+    "t": 43.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et au Luxembourg, il y a un site officiel et une équipe qui gèrent cela... les Fonds européens.",
+    "t": 47.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Anna, d'où vient cet argent, et quelle est l'idée derrière tout cela ?",
+    "t": 53.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'Union européenne a ce que l'on appelle la politique de cohésion.",
+    "t": 58
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est d'aider les régions et les personnes à se développer, de manière équitable, à travers l'Europe.",
+    "t": 62.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc les régions plus riches et moins riches, les grands défis et les petits... l'UE investit pour aider tout le monde à avancer ensemble.",
+    "t": 68.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et chaque pays membre, y compris le Luxembourg, reçoit une part à dépenser pour des objectifs convenus.",
+    "t": 75.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parlons des principaux fonds, car chacun a sa propre orientation.",
+    "t": 81.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le premier est le Fonds européen de développement régional (FEDER).",
+    "t": 86.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "On l'appelle souvent par ses initiales françaises, FEDER.",
+    "t": 90.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Celui-ci soutient des choses comme la recherche, l'innovation, l'économie numérique, et la transition vers une énergie plus propre et à faibles émissions de carbone.",
+    "t": 95.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pour le Luxembourg, dans la période actuelle de 2021 à 2027, ce fonds représente environ vingt et un millions d'euros.",
+    "t": 104.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le deuxième est le Fonds social européen + (FSE+).",
+    "t": 112.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "En français, le FSE Plus.",
+    "t": 116.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'indice est dans le nom... social.",
+    "t": 119.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce fonds concerne les personnes.",
+    "t": 122.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les emplois, les compétences, la formation, et l'inclusion des personnes laissées de côté.",
+    "t": 125.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il aide à l'emploi et à la lutte contre la pauvreté et l'exclusion.",
+    "t": 131.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il y a un troisième fonds à connaître... le Fonds Asile, Migration et Intégration (AMIF).",
+    "t": 135.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Celui-là soutient l'accueil et l'intégration des personnes qui viennent au Luxembourg, y compris celles qui demandent l'asile.",
+    "t": 141.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il existe aussi des fonds pour la sécurité intérieure et pour la gestion des frontières.",
+    "t": 148.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc ensemble, ces fonds couvrent l'économie, les personnes, l'inclusion et la sécurité.",
+    "t": 153.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Maintenant, une question importante.",
+    "t": 159.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Qui décide de la façon dont cet argent est dépensé, et qui veille à ce que tout soit honnête ?",
+    "t": 162.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pour chaque fonds, il y a ce que l'on appelle une autorité de gestion.",
+    "t": 168.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Une autorité de gestion est l'organisme officiel chargé de gérer correctement le programme.",
+    "t": 172.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elle choisit quels projets reçoivent un soutien, elle gère l'argent avec soin, et elle vérifie les résultats.",
+    "t": 178.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "La règle qui les guide est la « bonne gestion financière ».",
+    "t": 184.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "En clair... dépenser l'argent public de manière avisée et transparente.",
+    "t": 188.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Différents ministères assument ce rôle, selon le fonds.",
+    "t": 193.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Par exemple, le fonds pour l'asile et la migration est géré par le ministère responsable de la famille, de la solidarité et de l'accueil.",
+    "t": 197.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc l'argent n'est pas simplement distribué.",
+    "t": 205.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il est planifié, géré, et il fait l'objet d'une reddition de comptes.",
+    "t": 208.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Rendons cela concret.",
+    "t": 213.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Qu'est-ce que l'argent européen finance réellement, qu'une personne ordinaire pourrait remarquer ?",
+    "t": 215.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pensez à un programme de formation qui aide les personnes au chômage à acquérir de nouvelles compétences.",
+    "t": 221.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ou à un projet qui aide une entreprise à innover, et à créer de bons emplois.",
+    "t": 226.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ou à un soutien qui aide les nouveaux arrivants à apprendre la langue et à trouver leurs repères.",
+    "t": 231.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ou à un investissement dans une énergie plus propre et une économie plus verte.",
+    "t": 236.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ces projets sont souvent menés par des organisations locales... associations, entreprises, organismes publics.",
+    "t": 241.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les Fonds européens aident à les financer, aux côtés de l'argent national.",
+    "t": 248.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "On appelle cela le cofinancement.",
+    "t": 253.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc l'UE finance rarement la totalité.",
+    "t": 255.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elle unit ses forces avec le Luxembourg pour rendre un projet possible.",
+    "t": 258.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Maintenant, vous vous demandez peut-être... pourrais-je, ou une organisation que je connais, utiliser ces fonds ?",
+    "t": 263.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Possiblement, oui.",
+    "t": 269.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le site des Fonds européens explique les objectifs, les appels à projets, et comment faire une demande.",
+    "t": 272.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous dirigez une association, une entreprise, ou un projet public qui correspond aux objectifs, vous pouvez découvrir comment y participer.",
+    "t": 278.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le site montre aussi des exemples de projets qui ont déjà été financés, ce qui est inspirant.",
+    "t": 287.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Donc ce n'est pas un monde fermé réservé aux seuls experts.",
+    "t": 292.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est ouvert, et c'est expliqué.",
+    "t": 297.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Disons aussi pourquoi cela compte pour les citoyens ordinaires, même ceux qui ne font jamais de demande.",
+    "t": 300.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parce que c'est aussi votre argent, en tant qu'Européen, qui est réinvesti dans votre communauté.",
+    "t": 306.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et parce que la transparence compte.",
+    "t": 312.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous pouvez voir où il va, et ce qu'il permet d'accomplir.",
+    "t": 314.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un exemple discret mais réel de solidarité européenne, qui se concrétise dans de vrais projets, dans de vraies villes.",
+    "t": 318.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Tom... rendons cela pratique.",
+    "t": 326.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que peut-on faire avec tout ça ?",
+    "t": 329.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'abord... si vous dirigez une organisation ou un projet, consultez le site des Fonds européens pour voir si votre idée correspond.",
+    "t": 331.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement... regardez les projets financés, pour comprendre quels types d'idées reçoivent un soutien.",
+    "t": 339.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement... souvenez-vous des principaux fonds... le fonds de développement régional pour l'économie, et le fonds social pour les personnes et les emplois.",
+    "t": 345.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quatrièmement... sachez que cet argent est géré avec soin, par des autorités officielles, avec des objectifs clairs.",
+    "t": 354.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Rassemblons tout cela.",
+    "t": 361.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Que devraient retenir les gens à propos des Fonds européens ?",
+    "t": 363.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Premièrement... l'UE investit dans les pays membres à travers sa politique de cohésion, et le Luxembourg reçoit une part.",
+    "t": 367.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deuxièmement... les principaux fonds soutiennent l'économie et l'innovation, les personnes et les emplois, et l'intégration.",
+    "t": 373.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement... les autorités de gestion choisissent et supervisent les projets, en dépensant l'argent public de manière avisée.",
+    "t": 381.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et quatrièmement... les organisations peuvent faire une demande, et tout le monde peut voir les projets sur le site des Fonds européens.",
+    "t": 388.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'Europe peut sembler lointaine et abstraite.",
+    "t": 395.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mais parfois, elle ressemble à un cours de formation, ou à un nouvel emploi, juste à côté de chez vous.",
+    "t": 398.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et comprendre cela nous aide à voir la valeur qui se cache derrière les gros titres.",
+    "t": 404.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
+    "t": 409.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
+    "t": 413.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi !",
+    "t": 417.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi !",
+    "t": 418.94
+   }
+  ],
+  "audio_de": "podcast_fondseuropeens_de.mp3",
+  "duration_de": 493.78,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen zurück!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist uns eine Freude, Sie heute bei uns zu haben.",
+    "t": 3.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 7.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 9.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 12.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten Einwohnern, und auch Grenzgängern, helfen zu verstehen, wie das Land funktioniert.",
+    "t": 17.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und das heutige Thema mag zunächst etwas technisch klingen, aber es betrifft das echte Leben... die Europäischen Fonds.",
+    "t": 25.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 32.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wir hören viel über die Europäische Union.",
+    "t": 33.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber was bedeutet das eigentlich, in der Praxis, hier in Luxemburg?",
+    "t": 37.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ein Teil der Antwort ist Geld.",
+    "t": 42.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die EU hilft, nützliche Projekte in ihren Mitgliedsländern zu finanzieren.",
+    "t": 45.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und in Luxemburg gibt es eine offizielle Website und ein Team, das dies verwaltet... die Europäischen Fonds, oder auf Französisch die „Fonds européens\".",
+    "t": 51.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, woher kommt dieses Geld, und was ist die Idee dahinter?",
+    "t": 61.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Europäische Union hat etwas, das man Kohäsionspolitik nennt.",
+    "t": 66.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist, Regionen und Menschen dabei zu helfen, sich gerecht in ganz Europa zu entwickeln.",
+    "t": 72.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also reichere und weniger reiche Regionen, große Herausforderungen und kleine... die EU investiert, um allen zu helfen, gemeinsam voranzukommen.",
+    "t": 79.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und jedes Mitgliedsland, einschließlich Luxemburg, erhält einen Anteil, den es für vereinbarte Ziele ausgeben kann.",
+    "t": 89.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sprechen wir über die wichtigsten Fonds, denn jeder hat seinen eigenen Schwerpunkt.",
+    "t": 97.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der erste ist der Europäische Fonds für regionale Entwicklung (EFRE/FEDER).",
+    "t": 102.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Man nennt ihn oft bei seinen französischen Initialen, FEDER.",
+    "t": 108.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dieser unterstützt Dinge wie Forschung, Innovation, die digitale Wirtschaft, und den Übergang zu saubererer, kohlenstoffarmer Energie.",
+    "t": 112.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Für Luxemburg beläuft sich dieser Fonds im aktuellen Zeitraum von 2021 bis 2027 auf etwa einundzwanzig Millionen Euro.",
+    "t": 121.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der zweite ist der Europäische Sozialfonds Plus (ESF+/FSE+).",
+    "t": 131.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Auf Französisch der FSE Plus.",
+    "t": 137.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Hinweis steckt im Namen... sozial.",
+    "t": 140.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bei diesem Fonds geht es um Menschen.",
+    "t": 144.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Arbeitsplätze, Kompetenzen, Ausbildung, und die Einbeziehung von Menschen, die zurückgelassen werden.",
+    "t": 147.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Er hilft bei der Beschäftigung und bei der Bekämpfung von Armut und Ausgrenzung.",
+    "t": 155.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es gibt einen dritten Fonds, den man kennen sollte... den Asyl-, Migrations- und Integrationsfonds (AMIF).",
+    "t": 160.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dieser unterstützt die Aufnahme und Integration von Menschen, die nach Luxemburg kommen, einschließlich derjenigen, die Asyl suchen.",
+    "t": 169.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt auch Fonds für die innere Sicherheit und für die Verwaltung der Grenzen.",
+    "t": 177.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zusammen decken diese Fonds also die Wirtschaft, die Menschen, die Inklusion und die Sicherheit ab.",
+    "t": 182.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nun eine wichtige Frage.",
+    "t": 188.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wer entscheidet, wie dieses Geld ausgegeben wird, und wer sorgt dafür, dass alles ehrlich zugeht?",
+    "t": 191.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Für jeden Fonds gibt es eine sogenannte Verwaltungsbehörde.",
+    "t": 198.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eine Verwaltungsbehörde ist die offizielle Stelle, die dafür verantwortlich ist, das Programm ordnungsgemäß durchzuführen.",
+    "t": 202.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie wählt aus, welche Projekte unterstützt werden, sie verwaltet das Geld sorgfältig, und sie überprüft die Ergebnisse.",
+    "t": 210.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Regel, die sie leitet, ist die „wirtschaftliche Haushaltsführung\".",
+    "t": 218.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mit einfachen Worten... öffentliche Gelder klug und transparent ausgeben.",
+    "t": 223.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Verschiedene Ministerien übernehmen diese Rolle, je nach Fonds.",
+    "t": 229.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zum Beispiel wird der Fonds für Asyl und Migration vom Ministerium verwaltet, das für Familie, Solidarität und die Aufnahme von Menschen zuständig ist.",
+    "t": 233.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das Geld wird also nicht einfach ausgeteilt.",
+    "t": 244.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es wird geplant, verwaltet und es wird Rechenschaft darüber abgelegt.",
+    "t": 247.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Machen wir das konkret.",
+    "t": 252.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was bezahlt das europäische Geld eigentlich, das eine normale Person bemerken könnte?",
+    "t": 254.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Denken Sie an ein Ausbildungsprogramm, das Arbeitslosen hilft, neue Kompetenzen zu erwerben.",
+    "t": 261.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oder an ein Projekt, das einem Unternehmen hilft, innovativ zu sein und gute Arbeitsplätze zu schaffen.",
+    "t": 267.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oder an eine Unterstützung, die Neuankömmlingen hilft, die Sprache zu lernen und sich zurechtzufinden.",
+    "t": 274.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oder an Investitionen in sauberere Energie und eine grünere Wirtschaft.",
+    "t": 281.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Diese Projekte werden oft von lokalen Organisationen durchgeführt... Vereinen, Unternehmen, öffentlichen Einrichtungen.",
+    "t": 287.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Europäischen Fonds helfen, sie zu finanzieren, zusammen mit nationalen Geldern.",
+    "t": 295.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das nennt man Kofinanzierung.",
+    "t": 302.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die EU bezahlt also selten alles.",
+    "t": 305.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie schließt sich mit Luxemburg zusammen, um ein Projekt möglich zu machen.",
+    "t": 308.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nun fragen Sie sich vielleicht... könnte ich, oder eine Organisation, die ich kenne, diese Fonds nutzen?",
+    "t": 313.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Möglicherweise, ja.",
+    "t": 321.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Website der Europäischen Fonds erklärt die Ziele, die Projektaufrufe, und wie man einen Antrag stellt.",
+    "t": 323.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie einen Verein, ein Unternehmen oder ein öffentliches Projekt leiten, das zu den Zielen passt, können Sie herausfinden, wie Sie teilnehmen können.",
+    "t": 330.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Website zeigt auch Beispiele von Projekten, die bereits finanziert wurden, was inspirierend ist.",
+    "t": 340.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist also keine geschlossene Welt nur für Experten.",
+    "t": 347.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie ist offen, und sie wird erklärt.",
+    "t": 351.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sagen wir auch, warum das für gewöhnliche Bürger wichtig ist, selbst für diejenigen, die nie einen Antrag stellen.",
+    "t": 354.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Weil dies auch Ihr Geld ist, als Europäer, das wieder in Ihre Gemeinschaft investiert wird.",
+    "t": 361.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und weil Transparenz wichtig ist.",
+    "t": 368.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie können sehen, wohin es geht, und was es bewirkt.",
+    "t": 371.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist ein stilles, aber echtes Beispiel europäischer Solidarität, das in echten Projekten, in echten Städten, ankommt.",
+    "t": 375.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Tom... machen wir es praktisch.",
+    "t": 384.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was kann jemand damit anfangen?",
+    "t": 387.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens... wenn Sie eine Organisation oder ein Projekt leiten, schauen Sie auf der Website der Europäischen Fonds nach, ob Ihre Idee passt.",
+    "t": 390.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens... sehen Sie sich die finanzierten Projekte an, um zu verstehen, welche Arten von Ideen unterstützt werden.",
+    "t": 400.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens... erinnern Sie sich an die wichtigsten Fonds... den Fonds für regionale Entwicklung für die Wirtschaft, und den Sozialfonds für die Menschen und die Arbeitsplätze.",
+    "t": 407.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und viertens... wissen Sie, dass dieses Geld sorgfältig verwaltet wird, von offiziellen Behörden, mit klaren Zielen.",
+    "t": 418.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fassen wir alles zusammen.",
+    "t": 425.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was sollten sich die Menschen über die Europäischen Fonds merken?",
+    "t": 428.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens... die EU investiert über ihre Kohäsionspolitik in die Mitgliedsländer, und Luxemburg erhält einen Anteil.",
+    "t": 432.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens... die wichtigsten Fonds unterstützen die Wirtschaft und Innovation, die Menschen und Arbeitsplätze, und die Integration.",
+    "t": 440.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens... die Verwaltungsbehörden wählen die Projekte aus und überwachen sie, indem sie öffentliche Gelder klug ausgeben.",
+    "t": 449.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und viertens... Organisationen können einen Antrag stellen, und jeder kann die Projekte auf der Website der Europäischen Fonds sehen.",
+    "t": 457.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Europa kann sich fern und abstrakt anfühlen.",
+    "t": 467.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aber manchmal sieht es aus wie ein Ausbildungskurs, oder ein neuer Arbeitsplatz, gleich nebenan.",
+    "t": 470.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und das zu verstehen, hilft uns, den Wert hinter den Schlagzeilen zu sehen.",
+    "t": 477.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vielen Dank, dass Sie heute zugehört haben.",
+    "t": 483.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
+    "t": 486.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 490.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 492.2
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Salut, a wëllkomm zréck! Et ass eis e Plëséier, Iech haut bei eis ze hunn.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Salut zesummen!",
+    "t": 5.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen ze verstoen, wéi d'Land funktionéiert.",
+    "t": 7.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "An d'Thema vun haut kléngt vläicht am Ufank e bësse technesch, mä et beréiert dat richtegt Liewen... d'Europäesch Fongen.",
+    "t": 22.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. Mir héieren vill iwwert d'Europäesch Unioun. Mä wat bedeit dat tatsächlech, an der Praxis, hei zu Lëtzebuerg?",
+    "t": 29.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "En Deel vun der Äntwert ass Suen. D'EU hëlleft, nëtzlech Projeten an hire Memberlänner ze finanzéieren.",
+    "t": 38.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "A zu Lëtzebuerg gëtt et eng offiziell Websäit an een Team, déi dat verwalten... d'Europäesch Fongen, oder op Franséisch d'„Fonds européens\".",
+    "t": 45.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, vu wou kënnt dës Suen, a wat ass d'Iddi dohannert?",
+    "t": 54.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Europäesch Unioun huet eppes, wat een d'Kohäsiounspolitik nennt. D'Iddi ass, de Regiounen an de Leit ze hëllefen, sech gerecht uechter Europa z'entwéckelen.",
+    "t": 59.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also méi räich a manner räich Regiounen, grouss Erausfuerderungen a kleng... d'EU investéiert, fir all Mënsch ze hëllefen, zesumme virunzekommen.",
+    "t": 68.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "An all Memberland, dorënner Lëtzebuerg, kritt en Deel, deen et fir ofgemaach Ziler ausginn kann.",
+    "t": 76.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosst eis iwwert déi wichtegst Fongen schwätzen, well all eenzelen huet säin eegene Schwéierpunkt.",
+    "t": 82.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deen éischten ass de FEDER. Een nennt e dacks bei senge franséischen Initialen, FEDER.",
+    "t": 87.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deen ënnerstëtzt Saachen ewéi Fuerschung, Innovatioun, déi digital Wirtschaft, an den Iwwergank zu méi propperer, kuelestoffaarmer Energie.",
+    "t": 94.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fir Lëtzebuerg beleeft sech dëse Fong an der aktueller Period vu 2021 bis 2027 op ongeféier eenanzwanzeg Milliounen Euro.",
+    "t": 102.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deen zweeten ass de FSE+. Op Franséisch de FSE Plus.",
+    "t": 110.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Den Hiweis stécht am Numm... sozial. Bei dësem Fong geet et ëm d'Leit. Aarbechtsplazen, Kompetenzen, Ausbildung, an d'Abezéie vu Leit, déi zréckgelooss ginn.",
+    "t": 117.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hie hëlleft bei der Beschäftegung a bei der Bekämpfung vun Aarmut an Ausgrenzung.",
+    "t": 127.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et gëtt en drëtte Fong, deen ee soll kennen... den Asyl-, Migratiouns- an Integratiounsfong (AMIF).",
+    "t": 131.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deen do ënnerstëtzt d'Opname an d'Integratioun vu Leit, déi op Lëtzebuerg kommen, dorënner déi, déi Asyl sichen.",
+    "t": 137.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt och Fongen fir déi bannenzeg Sécherheet a fir d'Verwaltung vun de Grenzen.",
+    "t": 144.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also zesummen decken dës Fongen d'Wirtschaft, d'Leit, d'Inklusioun an d'Sécherheet of.",
+    "t": 148.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elo eng wichteg Fro. Wien entscheet, wéi dës Suen ausgi gëtt, a wien suergt dofir, datt alles éierlech bleift?",
+    "t": 154.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fir all Fong gëtt et eng sougenannt Verwaltungsbehörd.",
+    "t": 161.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eng Verwaltungsbehörd ass déi offiziell Stell, déi dofir zoustänneg ass, de Programm uerdentlech ze féieren.",
+    "t": 165.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si wielt aus, wéi eng Projeten ënnerstëtzt ginn, si verwalt d'Suen suergfälteg, a si iwwerpréift d'Resultater.",
+    "t": 170.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Regel, déi se leet, ass déi „gesond Finanzgestioun\". Mat einfache Wierder... ëffentlech Suen klug an transparent ausginn.",
+    "t": 176.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Verschidde Ministèren iwwerhuelen dës Roll, jee no Fong.",
+    "t": 185.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zum Beispill gëtt de Fong fir Asyl a Migratioun vum Ministère verwalt, dee fir Famill, Solidaritéit an d'Opname vu Leit zoustänneg ass.",
+    "t": 189.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Suen gëtt also net einfach ausgedeelt. Si gëtt geplangt, verwalt, an et gëtt Rechenschaft doriwwer ofgeluecht.",
+    "t": 198.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosst eis dat konkret maachen. Wat bezilt déi europäesch Suen tatsächlech, wat eng normal Persoun kéint bemierken?",
+    "t": 205.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Denkt un en Ausbildungsprogramm, dee schaffslose Leit hëlleft, nei Kompetenzen ze kréien.",
+    "t": 212.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oder un e Projet, deen enger Firma hëlleft, innovativ ze sinn, a gutt Aarbechtsplazen ze schafen.",
+    "t": 217.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oder un eng Ënnerstëtzung, déi den Neiukomm hëlleft, d'Sprooch ze léieren a sech zerechtzefannen.",
+    "t": 222.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oder un Investitiounen an méi propper Energie an eng méi gréng Wirtschaft.",
+    "t": 226.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dës Projeten ginn dacks vu lokalen Organisatioune gefouert... Veräiner, Firmen, ëffentlech Ariichtungen.",
+    "t": 230.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "An d'Europäesch Fongen hëllefen, se ze finanzéieren, niewent den nationale Suen. Dat nennt een d'Kofinanzéierung.",
+    "t": 237.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'EU bezilt also seelen alles. Si schléisst sech mat Lëtzebuerg zesummen, fir e Projet méiglech ze maachen.",
+    "t": 244.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elo frot Dir Iech vläicht... kéint ech, oder eng Organisatioun, déi ech kennen, dës Fongen notzen?",
+    "t": 251.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Méiglecherweis, jo. D'Websäit vun den Europäesche Fongen erkläert d'Ziler, d'Projetsoprufer, a wéi een eng Demande mécht.",
+    "t": 258
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wann Dir e Veräin, eng Firma, oder en ëffentleche Projet féiert, deen zu den Ziler passt, kënnt Dir erausfannen, wéi Dir matmaache kënnt.",
+    "t": 266.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Websäit weist och Beispiller vu Projeten, déi schonn finanzéiert goufen, wat inspiréierend ass.",
+    "t": 273.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat ass also keng zougemaach Welt nëmme fir Experten. Si ass op, a si gëtt erkläert.",
+    "t": 279.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosst eis och soen, firwat dat fir gewéinlech Bierger wichteg ass, souguer fir déi, déi ni eng Demande maachen.",
+    "t": 286.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Well dat och Är Suen ass, als Europäer, déi zréck an Är Gemeinschaft investéiert gëtt.",
+    "t": 291.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "A well d'Transparenz wichteg ass. Dir kënnt gesinn, wou se higeet, a wat se bewierkt.",
+    "t": 297.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ass e roueg mä richtegt Beispill vun europäescher Solidaritéit, dat an echte Projeten, an echte Stied, ukomm.",
+    "t": 303.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Tom... loosst eis dat praktesch maachen. Wat kann een domat ufänken?",
+    "t": 310.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als éischt... wann Dir eng Organisatioun oder e Projet féiert, kuckt op der Websäit vun den Europäesche Fongen no, ob Är Iddi passt.",
+    "t": 316.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als zweet... kuckt Iech déi finanzéiert Projeten un, fir ze verstoen, wéi eng Aart vun Iddien ënnerstëtzt ginn.",
+    "t": 324.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als drëtt... erënnert Iech un déi wichtegst Fongen... de Fong fir regional Entwécklung fir d'Wirtschaft, an de Sozialfong fir d'Leit an d'Aarbechtsplazen.",
+    "t": 329.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "A véiertens... wësst, datt dës Suen suergfälteg verwalt gëtt, vun offizielle Behörden, mat kloren Ziler.",
+    "t": 337.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosst eis alles zesummefaassen. Wat sollten d'Leit sech iwwert d'Europäesch Fongen erënneren?",
+    "t": 343.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als éischt... d'EU investéiert iwwert hir Kohäsiounspolitik an d'Memberlänner, a Lëtzebuerg kritt en Deel.",
+    "t": 349.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als zweet... déi wichtegst Fongen ënnerstëtzen d'Wirtschaft an d'Innovatioun, d'Leit an d'Aarbechtsplazen, an d'Integratioun.",
+    "t": 356.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als drëtt... d'Verwaltungsbehörde wielen d'Projeten aus an iwwerwaachen se, andeems se ëffentlech Suen klug ausginn.",
+    "t": 363.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "A véiertens... Organisatioune kënnen eng Demande maachen, an all Mënsch kann d'Projeten op der Websäit vun den Europäesche Fongen gesinn.",
+    "t": 369.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Europa kann sech wäit ewech an abstrakt undauchen. Mä heiansdo gesäit et aus ewéi en Ausbildungscours, oder eng nei Aarbechtsplaz, direkt niewendrun.",
+    "t": 376.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "An dat ze verstoen, hëlleft eis, de Wäert hannert den Iwwerschrëften ze gesinn.",
+    "t": 384.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Villmools Merci, datt Dir haut nogelauschtert hutt.",
+    "t": 389.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Passt op Iech op, a bis zur nächster Episod. Äddi!",
+    "t": 392.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 397.14
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "key": "zesumme",
+  "number": "Episode 23",
+  "title": "Zesumme Vereinfachen – Helping to Simplify Public Services Together",
+  "description": "What the 'Zesumme Vereinfachen' platform is, how citizens and businesses can submit ideas to simplify the State's procedures, who runs it (the Ministry for Digitalisation), how you can take part in one or several phases in any of the four languages, and a real example: improving the MyGuichet app.",
+  "audio": "podcast_zesumme.mp3",
+  "duration": 380.98,
+  "topics": [
+   "What Zesumme Vereinfachen is",
+   "Simplifying procedures together",
+   "Run by the Ministry for Digitalisation",
+   "Submit your ideas",
+   "Join one phase or many",
+   "Available in four languages",
+   "Example: improving MyGuichet",
+   "Everyday democracy"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome back!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's lovely to have you with us today.",
+    "t": 2.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border workers too, to take part in the life of the country.",
+    "t": 14.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today we have a topic that, honestly, almost everyone has feelings about... paperwork.",
+    "t": 22.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes!",
+    "t": 28.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Forms, procedures, administrative steps.",
+    "t": 29.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sometimes they are simple.",
+    "t": 33.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "And sometimes... they are not.",
+    "t": 35.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "We have all had that moment.",
+    "t": 38.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "A form that asks the same thing twice.",
+    "t": 41.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "A step that makes you think... why is this so complicated?",
+    "t": 44.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Well, today's topic is a project that turns that frustration into something useful.",
+    "t": 48.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is called Zesumme Vereinfachen.",
+    "t": 54.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "The name is in Luxembourgish.",
+    "t": 57.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it means \"simplifying together\".",
+    "t": 60.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "I love that.",
+    "t": 63.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Together.",
+    "t": 65
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Anna, what exactly is Zesumme Vereinfachen?",
+    "t": 66.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is an online platform where citizens and businesses can help make the State's procedures simpler.",
+    "t": 70.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "So instead of just complaining about paperwork, you can actually do something about it.",
+    "t": 76.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactly.",
+    "t": 82.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Its slogan says it beautifully... public services that make your daily life easier.",
+    "t": 84.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "And who is behind it?",
+    "t": 89.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is run by the Ministry for Digitalisation, through a body called the Simplification Council.",
+    "t": 91.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "The platform was launched in 2022, and it is part of a bigger effort to simplify the administration.",
+    "t": 97.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "That bigger effort even has its own name... \"Einfach Lëtzebuerg\", which means \"Simply Luxembourg\".",
+    "t": 104.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's get to the heart of it.",
+    "t": 111.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "How does the platform actually work?",
+    "t": 113.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "The big idea is to put the real experience of citizens and businesses at the centre.",
+    "t": 116.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Because the people who use a procedure every day often understand its problems best.",
+    "t": 122.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "So citizens and businesses can take the initiative, and submit ideas to simplify the State's procedures.",
+    "t": 127.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "You have noticed something clumsy, something that could be easier?",
+    "t": 134.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "You can suggest how to fix it.",
+    "t": 138.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "And then the work happens in a participatory, co-creative way... together with the people who proposed it.",
+    "t": 141.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "I think it helps to picture it as a project that moves through phases.",
+    "t": 148.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 152.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is a phase for sharing ideas, and then phases for working on a solution and testing it.",
+    "t": 154.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "And here is a detail I really appreciate.",
+    "t": 160.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "You don't have to commit to the whole journey.",
+    "t": 163.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's right.",
+    "t": 166.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can take part in just one phase, or several, as much as you want.",
+    "t": 168.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "So you are free.",
+    "t": 173.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "You give what you can, when you can.",
+    "t": 175.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "No pressure.",
+    "t": 178.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the platform welcomes everyone, in all four of our languages... Luxembourgish, German, French, and English.",
+    "t": 180.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "That really matters in a country as multilingual as Luxembourg.",
+    "t": 189.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Everyone can join in their own language.",
+    "t": 193.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's make this concrete.",
+    "t": 196.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "What kind of thing could be simplified?",
+    "t": 198.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Imagine a form that asks for information the State already has.",
+    "t": 201.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Why fill it in again?",
+    "t": 206.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Or a procedure that involves three different offices, when one would do.",
+    "t": 208.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Or instructions that are hard to understand, that could be written in plain language.",
+    "t": 213.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "A good example is digital services.",
+    "t": 218.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "The platform has been used to help improve the MyGuichet app.",
+    "t": 222.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "And we have talked about MyGuichet in an earlier episode.",
+    "t": 225.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "It's the State's online counter.",
+    "t": 230.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "So real users gave feedback, and that feedback helped shape a tool that millions of procedures pass through.",
+    "t": 232.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's the magic.",
+    "t": 239.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "One person's small suggestion can improve life for thousands.",
+    "t": 241.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's talk about why this approach matters, beyond the paperwork itself.",
+    "t": 246.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "First, it saves time.",
+    "t": 251.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Simpler procedures mean less stress, for citizens and for staff.",
+    "t": 253.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second, it builds trust.",
+    "t": 258.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "When the State listens, people feel respected, and feel part of things.",
+    "t": 261.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "And third, it is democratic, in a quiet, everyday way.",
+    "t": 266.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 270.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Democracy is not only voting every few years.",
+    "t": 272.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is also helping to shape the services you use.",
+    "t": 276.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "And that fits the spirit of the Biergerpakt perfectly... citizens and the State, working together.",
+    "t": 279.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is also something hopeful here.",
+    "t": 286.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Frustration can be turned into improvement.",
+    "t": 288.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Instead of \"this is annoying\", it becomes \"here is how we could make it better\".",
+    "t": 292.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "So Tom, let's make it practical.",
+    "t": 296.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "How can someone actually take part?",
+    "t": 300.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "First... next time a procedure frustrates you, write the idea down instead of just sighing.",
+    "t": 302.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second... visit the Zesumme Vereinfachen platform and share your suggestion, in your own language.",
+    "t": 308.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third... if you like, follow it through one or more phases, and help co-create the solution.",
+    "t": 315.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fourth... remember, even a small idea can make a real difference for many people.",
+    "t": 320.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's bring it all together.",
+    "t": 326.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "What should people remember about Zesumme Vereinfachen?",
+    "t": 328.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "First... it is a platform where citizens and businesses help simplify the State's procedures.",
+    "t": 332.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second... it is run by the Ministry for Digitalisation, and launched in 2022, as part of \"Einfach Lëtzebuerg\".",
+    "t": 338.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third... you can submit ideas, join one phase or many, in any of the four languages.",
+    "t": 346.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fourth... it has already helped improve real services, like the MyGuichet app.",
+    "t": 352.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Paperwork may never be exciting.",
+    "t": 358.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "But the chance to make it simpler, together, is genuinely empowering.",
+    "t": 360.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "So the next time something feels too complicated, remember... your voice can help fix it.",
+    "t": 365.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening today.",
+    "t": 371.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care, and see you in the next episode.",
+    "t": 374.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 377.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 379.46
+   }
+  ],
+  "questions": [
+   {
+    "text": "What is “Zesumme Vereinfachen”?",
+    "options": [
+     "A shopping website",
+     "A platform where citizens and businesses help simplify the State's procedures",
+     "A social media app",
+     "A tax"
+    ],
+    "correct": 1,
+    "explanation": "“Zesumme Vereinfachen” (meaning “simplifying together”) is an online platform where citizens and businesses can submit ideas and help make the State's administrative procedures simpler."
+   },
+   {
+    "text": "Who runs the Zesumme Vereinfachen platform?",
+    "options": [
+     "A private company",
+     "The Ministry for Digitalisation, through the Simplification Council",
+     "A foreign government",
+     "A bank"
+    ],
+    "correct": 1,
+    "explanation": "The platform is run by the Ministry for Digitalisation through the Simplification Council. It launched in 2022, as part of the wider “Einfach Lëtzebuerg” simplification programme."
+   },
+   {
+    "text": "How much do you have to commit to take part?",
+    "options": [
+     "You must follow every project from start to finish",
+     "You can take part in just one phase, or several, as you wish",
+     "You must work full-time",
+     "You must be an elected official"
+    ],
+    "correct": 1,
+    "explanation": "Participants are free: you can get involved in just one project phase or in several, as much as you want. You are not committed to follow a project from start to finish."
+   },
+   {
+    "text": "In which languages can you contribute?",
+    "options": [
+     "French only",
+     "Luxembourgish, German, French or English",
+     "English only",
+     "None — only in writing by post"
+    ],
+    "correct": 1,
+    "explanation": "The platform welcomes contributions in all four languages — Luxembourgish, German, French and English — so everyone in multilingual Luxembourg can take part in their own language."
+   },
+   {
+    "text": "What is one real example of the platform's impact?",
+    "options": [
+     "It built a new road",
+     "Citizen feedback helped improve the MyGuichet app",
+     "It lowered taxes",
+     "It replaced the government"
+    ],
+    "correct": 1,
+    "explanation": "Citizen feedback through the platform has helped improve the MyGuichet app — the State's online counter — showing how one person's suggestion can improve a service used for millions of procedures."
+   }
+  ],
+  "categories": [
+   "digital",
+   "civic"
+  ],
+  "title_fr": "Zesumme Vereinfachen – Simplifier ensemble les services publics",
+  "description_fr": "Ce qu'est la plateforme « Zesumme Vereinfachen », comment les citoyens et les entreprises peuvent soumettre des idées pour simplifier les démarches de l'État, qui la gère (le Ministère de la Digitalisation), comment vous pouvez participer à une ou plusieurs phases dans l'une des quatre langues, et un exemple concret : améliorer l'application MyGuichet.",
+  "topics_fr": [
+   "Ce qu'est Zesumme Vereinfachen",
+   "Simplifier ensemble les démarches",
+   "Géré par le Ministère de la Digitalisation",
+   "Soumettez vos idées",
+   "Participez à une phase ou plusieurs",
+   "Disponible en quatre langues",
+   "Exemple : améliorer MyGuichet",
+   "La démocratie au quotidien"
+  ],
+  "questions_fr": [
+   {
+    "text": "Qu'est-ce que « Zesumme Vereinfachen » ?",
+    "options": [
+     "Un site de shopping",
+     "Une plateforme où les citoyens et les entreprises aident à simplifier les démarches de l'État",
+     "Une application de réseaux sociaux",
+     "Un impôt"
+    ],
+    "correct": 1,
+    "explanation": "« Zesumme Vereinfachen » (qui signifie « simplifier ensemble ») est une plateforme en ligne où les citoyens et les entreprises peuvent soumettre des idées et aider à rendre les démarches administratives de l'État plus simples."
+   },
+   {
+    "text": "Qui gère la plateforme Zesumme Vereinfachen ?",
+    "options": [
+     "Une entreprise privée",
+     "Le Ministère de la Digitalisation, via le Conseil de simplification",
+     "Un gouvernement étranger",
+     "Une banque"
+    ],
+    "correct": 1,
+    "explanation": "La plateforme est gérée par le Ministère de la Digitalisation via le Conseil de simplification. Elle a été lancée en 2022, dans le cadre du programme de simplification plus large « Einfach Lëtzebuerg »."
+   },
+   {
+    "text": "À quel point devez-vous vous engager pour participer ?",
+    "options": [
+     "Vous devez suivre chaque projet du début à la fin",
+     "Vous pouvez participer à une seule phase, ou à plusieurs, comme vous le souhaitez",
+     "Vous devez travailler à temps plein",
+     "Vous devez être un élu"
+    ],
+    "correct": 1,
+    "explanation": "Les participants sont libres : vous pouvez vous impliquer dans une seule phase d'un projet ou dans plusieurs, autant que vous le voulez. Vous n'êtes pas tenu de suivre un projet du début à la fin."
+   },
+   {
+    "text": "Dans quelles langues pouvez-vous contribuer ?",
+    "options": [
+     "En français uniquement",
+     "En luxembourgeois, allemand, français ou anglais",
+     "En anglais uniquement",
+     "Aucune — uniquement par écrit par courrier"
+    ],
+    "correct": 1,
+    "explanation": "La plateforme accueille les contributions dans les quatre langues — luxembourgeois, allemand, français et anglais — afin que chacun, dans le Luxembourg multilingue, puisse participer dans sa propre langue."
+   },
+   {
+    "text": "Quel est un exemple concret de l'impact de la plateforme ?",
+    "options": [
+     "Elle a construit une nouvelle route",
+     "Les retours des citoyens ont contribué à améliorer l'application MyGuichet",
+     "Elle a baissé les impôts",
+     "Elle a remplacé le gouvernement"
+    ],
+    "correct": 1,
+    "explanation": "Les retours des citoyens via la plateforme ont contribué à améliorer l'application MyGuichet — le guichet en ligne de l'État — montrant comment la suggestion d'une personne peut améliorer un service utilisé pour des millions de démarches."
+   }
+  ],
+  "title_de": "Zesumme Vereinfachen – gemeinsam öffentliche Dienste vereinfachen",
+  "description_de": "Was die Plattform „Zesumme Vereinfachen“ ist, wie Bürgerinnen, Bürger und Unternehmen Ideen zur Vereinfachung der Verfahren des Staates einreichen können, wer sie betreibt (das Ministerium für Digitalisierung), wie Sie sich an einer oder mehreren Phasen in einer der vier Sprachen beteiligen können, und ein konkretes Beispiel: die Verbesserung der MyGuichet-App.",
+  "topics_de": [
+   "Was Zesumme Vereinfachen ist",
+   "Verfahren gemeinsam vereinfachen",
+   "Betrieben vom Ministerium für Digitalisierung",
+   "Reichen Sie Ihre Ideen ein",
+   "An einer oder mehreren Phasen teilnehmen",
+   "Verfügbar in vier Sprachen",
+   "Beispiel: MyGuichet verbessern",
+   "Demokratie im Alltag"
+  ],
+  "questions_de": [
+   {
+    "text": "Was ist „Zesumme Vereinfachen“?",
+    "options": [
+     "Eine Shopping-Website",
+     "Eine Plattform, auf der Bürger und Unternehmen helfen, die Verfahren des Staates zu vereinfachen",
+     "Eine Social-Media-App",
+     "Eine Steuer"
+    ],
+    "correct": 1,
+    "explanation": "„Zesumme Vereinfachen“ (bedeutet „gemeinsam vereinfachen“) ist eine Online-Plattform, auf der Bürgerinnen, Bürger und Unternehmen Ideen einreichen und dazu beitragen können, die Verwaltungsverfahren des Staates einfacher zu gestalten."
+   },
+   {
+    "text": "Wer betreibt die Plattform Zesumme Vereinfachen?",
+    "options": [
+     "Ein privates Unternehmen",
+     "Das Ministerium für Digitalisierung über den Vereinfachungsrat",
+     "Eine ausländische Regierung",
+     "Eine Bank"
+    ],
+    "correct": 1,
+    "explanation": "Die Plattform wird vom Ministerium für Digitalisierung über den Vereinfachungsrat betrieben. Sie wurde 2022 im Rahmen des umfassenderen Vereinfachungsprogramms „Einfach Lëtzebuerg“ ins Leben gerufen."
+   },
+   {
+    "text": "Wie sehr müssen Sie sich verpflichten, um teilzunehmen?",
+    "options": [
+     "Sie müssen jedes Projekt von Anfang bis Ende begleiten",
+     "Sie können nach Belieben an nur einer Phase oder an mehreren teilnehmen",
+     "Sie müssen Vollzeit arbeiten",
+     "Sie müssen ein gewählter Amtsträger sein"
+    ],
+    "correct": 1,
+    "explanation": "Die Teilnehmenden sind frei: Sie können sich an nur einer Projektphase oder an mehreren beteiligen, so viel Sie möchten. Sie sind nicht verpflichtet, ein Projekt von Anfang bis Ende zu begleiten."
+   },
+   {
+    "text": "In welchen Sprachen können Sie Beiträge leisten?",
+    "options": [
+     "Nur auf Französisch",
+     "Auf Luxemburgisch, Deutsch, Französisch oder Englisch",
+     "Nur auf Englisch",
+     "In keiner – nur schriftlich per Post"
+    ],
+    "correct": 1,
+    "explanation": "Die Plattform begrüßt Beiträge in allen vier Sprachen – Luxemburgisch, Deutsch, Französisch und Englisch –, damit sich alle im mehrsprachigen Luxemburg in ihrer eigenen Sprache beteiligen können."
+   },
+   {
+    "text": "Was ist ein konkretes Beispiel für die Wirkung der Plattform?",
+    "options": [
+     "Sie hat eine neue Straße gebaut",
+     "Rückmeldungen von Bürgern haben geholfen, die MyGuichet-App zu verbessern",
+     "Sie hat die Steuern gesenkt",
+     "Sie hat die Regierung ersetzt"
+    ],
+    "correct": 1,
+    "explanation": "Rückmeldungen von Bürgerinnen und Bürgern über die Plattform haben geholfen, die MyGuichet-App – den Online-Schalter des Staates – zu verbessern und zeigen, wie der Vorschlag einer einzelnen Person einen Dienst verbessern kann, der für Millionen von Verfahren genutzt wird."
+   }
+  ],
+  "audio_fr": "podcast_zesumme_fr.mp3",
+  "duration_fr": 410.47,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour, et bienvenue à nouveau !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous sommes ravis de vous compter parmi nous aujourd'hui.",
+    "t": 3.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 6.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 9.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
+    "t": 12.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, ainsi que les travailleurs frontaliers, à prendre part à la vie du pays.",
+    "t": 16.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et aujourd'hui, nous avons un sujet qui, honnêtement, touche presque tout le monde... la paperasse.",
+    "t": 23.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui !",
+    "t": 30.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les formulaires, les procédures, les démarches administratives.",
+    "t": 31.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parfois, ils sont simples.",
+    "t": 36.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et parfois... ils ne le sont pas.",
+    "t": 39.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nous avons tous vécu ce moment.",
+    "t": 42.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Un formulaire qui demande deux fois la même chose.",
+    "t": 44.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une étape qui vous fait penser... pourquoi est-ce si compliqué ?",
+    "t": 48.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eh bien, le sujet d'aujourd'hui est un projet qui transforme cette frustration en quelque chose d'utile.",
+    "t": 52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il s'appelle Zesumme Vereinfachen.",
+    "t": 58.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le nom est en luxembourgeois.",
+    "t": 60.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et cela signifie « simplifier ensemble ».",
+    "t": 63.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "J'adore ça.",
+    "t": 67.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensemble.",
+    "t": 68.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Anna, qu'est-ce que Zesumme Vereinfachen exactement ?",
+    "t": 70.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est une plateforme en ligne où les citoyens et les entreprises peuvent aider à rendre les procédures de l'État plus simples.",
+    "t": 74.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc, au lieu de simplement se plaindre de la paperasse, on peut vraiment agir.",
+    "t": 81.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactement.",
+    "t": 86.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Son slogan le dit magnifiquement... des services publics qui vous facilitent la vie au quotidien.",
+    "t": 88.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et qui est derrière tout cela ?",
+    "t": 93.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est géré par le Ministère de la Digitalisation, à travers un organe appelé le Conseil de simplification.",
+    "t": 96.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "La plateforme a été lancée en 2022, et elle s'inscrit dans un effort plus large de simplification administrative.",
+    "t": 102.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet effort plus large a même son propre nom... « Einfach Lëtzebuerg », qui signifie « Le Luxembourg en toute simplicité ».",
+    "t": 110.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Allons au cœur du sujet.",
+    "t": 118.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Comment la plateforme fonctionne-t-elle concrètement ?",
+    "t": 120.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée maîtresse est de placer l'expérience réelle des citoyens et des entreprises au centre.",
+    "t": 123.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parce que les personnes qui utilisent une procédure tous les jours en comprennent souvent le mieux les problèmes.",
+    "t": 129.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ainsi, les citoyens et les entreprises peuvent prendre l'initiative et soumettre des idées pour simplifier les procédures de l'État.",
+    "t": 135.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous avez remarqué quelque chose de maladroit, quelque chose qui pourrait être plus simple ?",
+    "t": 142.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous pouvez proposer comment y remédier.",
+    "t": 147.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ensuite, le travail se déroule de manière participative et co-créative... avec les personnes qui l'ont proposé.",
+    "t": 150.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Je pense qu'il est utile de se le représenter comme un projet qui avance par étapes.",
+    "t": 157.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 162.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a une phase pour partager les idées, puis des phases pour élaborer une solution et la tester.",
+    "t": 163.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et voici un détail que j'apprécie vraiment.",
+    "t": 169.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous n'êtes pas obligé de vous engager pour tout le parcours.",
+    "t": 172.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est exact.",
+    "t": 176.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez participer à une seule phase, ou à plusieurs, autant que vous le souhaitez.",
+    "t": 178.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous êtes donc libre.",
+    "t": 184.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous donnez ce que vous pouvez, quand vous le pouvez.",
+    "t": 186.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sans pression.",
+    "t": 189.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et la plateforme accueille tout le monde, dans nos quatre langues... le luxembourgeois, l'allemand, le français et l'anglais.",
+    "t": 191.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela compte vraiment dans un pays aussi multilingue que le Luxembourg.",
+    "t": 198.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Chacun peut participer dans sa propre langue.",
+    "t": 203.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Rendons cela concret.",
+    "t": 206.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quel genre de chose pourrait être simplifié ?",
+    "t": 208.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Imaginez un formulaire qui demande une information que l'État possède déjà.",
+    "t": 212.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pourquoi la saisir à nouveau ?",
+    "t": 216.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ou une procédure qui implique trois bureaux différents, alors qu'un seul suffirait.",
+    "t": 219.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ou des instructions difficiles à comprendre, qui pourraient être rédigées dans un langage clair.",
+    "t": 224.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un bon exemple, ce sont les services numériques.",
+    "t": 229.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "La plateforme a été utilisée pour aider à améliorer l'application MyGuichet.",
+    "t": 233.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et nous avons parlé de MyGuichet dans un épisode précédent.",
+    "t": 238.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est le guichet en ligne de l'État.",
+    "t": 242.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ainsi, de vrais utilisateurs ont donné leur avis, et cet avis a aidé à façonner un outil par lequel passent des millions de démarches.",
+    "t": 244.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est ça, la magie.",
+    "t": 252.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "La petite suggestion d'une seule personne peut améliorer la vie de milliers d'autres.",
+    "t": 254.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons de la raison pour laquelle cette approche est importante, au-delà de la paperasse elle-même.",
+    "t": 259.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Premièrement, elle fait gagner du temps.",
+    "t": 265.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Des procédures plus simples signifient moins de stress, pour les citoyens comme pour le personnel.",
+    "t": 268.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deuxièmement, elle renforce la confiance.",
+    "t": 273.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quand l'État écoute, les gens se sentent respectés et se sentent partie prenante.",
+    "t": 277.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et troisièmement, c'est démocratique, d'une manière discrète et quotidienne.",
+    "t": 282.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 287.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "La démocratie, ce n'est pas seulement voter tous les quelques années.",
+    "t": 288.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est aussi aider à façonner les services que vous utilisez.",
+    "t": 293.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et cela correspond parfaitement à l'esprit du Biergerpakt... les citoyens et l'État, travaillant ensemble.",
+    "t": 297.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a aussi quelque chose de porteur d'espoir ici.",
+    "t": 303.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "La frustration peut être transformée en amélioration.",
+    "t": 307.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Au lieu de « c'est agaçant », cela devient « voici comment nous pourrions faire mieux ».",
+    "t": 311.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors Tom, rendons cela pratique.",
+    "t": 316.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comment peut-on concrètement participer ?",
+    "t": 319.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord... la prochaine fois qu'une procédure vous frustre, notez l'idée au lieu de simplement soupirer.",
+    "t": 322.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite... rendez-vous sur la plateforme Zesumme Vereinfachen et partagez votre suggestion, dans votre propre langue.",
+    "t": 328.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement... si vous le souhaitez, suivez-la à travers une ou plusieurs phases, et aidez à co-créer la solution.",
+    "t": 335.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et quatrièmement... rappelez-vous, même une petite idée peut faire une réelle différence pour de nombreuses personnes.",
+    "t": 342.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Récapitulons tout cela.",
+    "t": 349.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que faut-il retenir de Zesumme Vereinfachen ?",
+    "t": 351.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Premièrement... c'est une plateforme où les citoyens et les entreprises aident à simplifier les procédures de l'État.",
+    "t": 354.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement... elle est gérée par le Ministère de la Digitalisation, et lancée en 2022, dans le cadre d'« Einfach Lëtzebuerg ».",
+    "t": 361.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement... vous pouvez soumettre des idées, participer à une seule phase ou à plusieurs, dans n'importe laquelle des quatre langues.",
+    "t": 369.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quatrièmement... elle a déjà aidé à améliorer de vrais services, comme l'application MyGuichet.",
+    "t": 377.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "La paperasse ne sera peut-être jamais passionnante.",
+    "t": 383.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais la possibilité de la simplifier, ensemble, est véritablement émancipatrice.",
+    "t": 386.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors, la prochaine fois que quelque chose vous semble trop compliqué, rappelez-vous... votre voix peut aider à y remédier.",
+    "t": 392.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
+    "t": 399.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous, et à bientôt pour le prochain épisode.",
+    "t": 403.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 407.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 408.86
+   }
+  ],
+  "audio_de": "podcast_zesumme_de.mp3",
+  "duration_de": 447.46,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen zurück!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schön, dass Sie heute bei uns sind.",
+    "t": 3.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 6.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 8.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 11.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten den Einwohnern und auch den Grenzgängern helfen, am Leben des Landes teilzunehmen.",
+    "t": 16.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und heute haben wir ein Thema, zu dem ehrlich gesagt fast jeder etwas zu sagen hat... der Papierkram.",
+    "t": 24.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja!",
+    "t": 31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Formulare, Verfahren, behördliche Schritte.",
+    "t": 32.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Manchmal sind sie einfach.",
+    "t": 36.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und manchmal... sind sie es nicht.",
+    "t": 39.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wir alle kennen diesen Moment.",
+    "t": 42.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ein Formular, das dasselbe zweimal abfragt.",
+    "t": 44.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ein Schritt, bei dem man denkt... warum ist das so kompliziert?",
+    "t": 48.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nun, das heutige Thema ist ein Projekt, das diesen Frust in etwas Nützliches verwandelt.",
+    "t": 53.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es heißt Zesumme Vereinfachen.",
+    "t": 59.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Name ist auf Luxemburgisch.",
+    "t": 62.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es bedeutet „gemeinsam vereinfachen\".",
+    "t": 65.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das gefällt mir sehr.",
+    "t": 68.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Gemeinsam.",
+    "t": 70.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, was genau ist Zesumme Vereinfachen?",
+    "t": 72.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist eine Online-Plattform, auf der Bürger und Unternehmen dabei helfen können, die Verfahren des Staates einfacher zu gestalten.",
+    "t": 76.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Anstatt sich also nur über den Papierkram zu beschweren, kann man wirklich etwas dagegen tun.",
+    "t": 85.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau.",
+    "t": 91.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Slogan bringt es wunderbar auf den Punkt... öffentliche Dienste, die Ihren Alltag einfacher machen.",
+    "t": 93.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wer steckt dahinter?",
+    "t": 99.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie wird vom Ministerium für Digitalisierung betrieben, über ein Gremium namens Vereinfachungsrat.",
+    "t": 102.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Plattform wurde 2022 gestartet und ist Teil einer größeren Anstrengung zur Verwaltungsvereinfachung.",
+    "t": 109.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese größere Anstrengung hat sogar einen eigenen Namen... „Einfach Lëtzebuerg\", was „Einfach Luxemburg\" bedeutet.",
+    "t": 117.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kommen wir zum Kern der Sache.",
+    "t": 125.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie funktioniert die Plattform eigentlich?",
+    "t": 128.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die zentrale Idee ist, die tatsächliche Erfahrung der Bürger und Unternehmen in den Mittelpunkt zu stellen.",
+    "t": 131.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Denn die Menschen, die ein Verfahren täglich nutzen, verstehen dessen Probleme oft am besten.",
+    "t": 138.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "So können Bürger und Unternehmen die Initiative ergreifen und Ideen einreichen, um die Verfahren des Staates zu vereinfachen.",
+    "t": 144.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ist Ihnen etwas Umständliches aufgefallen, etwas, das einfacher sein könnte?",
+    "t": 153.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie können vorschlagen, wie man es verbessert.",
+    "t": 159.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und dann erfolgt die Arbeit auf partizipative, ko-kreative Weise... gemeinsam mit denen, die den Vorschlag gemacht haben.",
+    "t": 162.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich finde, es hilft, es sich als ein Projekt vorzustellen, das mehrere Phasen durchläuft.",
+    "t": 171.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 177.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt eine Phase zum Teilen von Ideen und dann Phasen, in denen an einer Lösung gearbeitet und diese getestet wird.",
+    "t": 178.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und hier ist ein Detail, das ich wirklich schätze.",
+    "t": 187.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie müssen sich nicht für den ganzen Weg verpflichten.",
+    "t": 190.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau.",
+    "t": 194.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können an nur einer Phase teilnehmen oder an mehreren, so viel Sie möchten.",
+    "t": 195.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie sind also frei.",
+    "t": 201.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie geben, was Sie können, wann Sie können.",
+    "t": 203.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ohne Druck.",
+    "t": 207.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Plattform heißt alle willkommen, in allen vier unserer Sprachen... Luxemburgisch, Deutsch, Französisch und Englisch.",
+    "t": 209.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist wirklich wichtig in einem so mehrsprachigen Land wie Luxemburg.",
+    "t": 218.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jeder kann in seiner eigenen Sprache mitmachen.",
+    "t": 222.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Machen wir es konkret.",
+    "t": 226.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was für eine Sache könnte vereinfacht werden?",
+    "t": 228.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stellen Sie sich ein Formular vor, das nach Informationen fragt, die der Staat bereits hat.",
+    "t": 232.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Warum sie noch einmal eingeben?",
+    "t": 238.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oder ein Verfahren, an dem drei verschiedene Ämter beteiligt sind, wo eines genügen würde.",
+    "t": 241.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oder Anweisungen, die schwer zu verstehen sind und die in klarer Sprache verfasst werden könnten.",
+    "t": 248.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein gutes Beispiel sind digitale Dienste.",
+    "t": 254.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Plattform wurde genutzt, um die MyGuichet-App zu verbessern.",
+    "t": 258.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wir haben in einer früheren Folge über MyGuichet gesprochen.",
+    "t": 263.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist der Online-Schalter des Staates.",
+    "t": 267.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Echte Nutzer gaben also Rückmeldungen, und diese Rückmeldungen halfen, ein Werkzeug zu gestalten, durch das Millionen von Verfahren laufen.",
+    "t": 270.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist das Magische daran.",
+    "t": 279.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der kleine Vorschlag einer Person kann das Leben für Tausende verbessern.",
+    "t": 282.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir darüber, warum dieser Ansatz wichtig ist, über den Papierkram selbst hinaus.",
+    "t": 287.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens spart er Zeit.",
+    "t": 293.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Einfachere Verfahren bedeuten weniger Stress, für Bürger und für Mitarbeiter.",
+    "t": 296.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens schafft er Vertrauen.",
+    "t": 301.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn der Staat zuhört, fühlen sich die Menschen respektiert und als Teil des Ganzen.",
+    "t": 304.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und drittens ist es demokratisch, auf eine stille, alltägliche Weise.",
+    "t": 310.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 315.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Demokratie ist nicht nur das Wählen alle paar Jahre.",
+    "t": 316.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist auch das Mitgestalten der Dienste, die Sie nutzen.",
+    "t": 320.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und das passt perfekt zum Geist des Biergerpakt... Bürger und Staat, die zusammenarbeiten.",
+    "t": 325.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt hier auch etwas Hoffnungsvolles.",
+    "t": 331.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Frust kann in Verbesserung verwandelt werden.",
+    "t": 335.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Statt „das ist ärgerlich\" wird daraus „so könnten wir es besser machen\".",
+    "t": 338.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, machen wir es praktisch.",
+    "t": 343.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wie kann man eigentlich teilnehmen?",
+    "t": 346.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens... wenn Sie das nächste Mal ein Verfahren frustriert, schreiben Sie die Idee auf, anstatt nur zu seufzen.",
+    "t": 349.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens... besuchen Sie die Plattform Zesumme Vereinfachen und teilen Sie Ihren Vorschlag, in Ihrer eigenen Sprache.",
+    "t": 356.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens... wenn Sie möchten, begleiten Sie sie durch eine oder mehrere Phasen und helfen Sie, die Lösung mitzugestalten.",
+    "t": 364.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und viertens... denken Sie daran, selbst eine kleine Idee kann für viele Menschen einen echten Unterschied machen.",
+    "t": 372.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fassen wir alles zusammen.",
+    "t": 379.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was sollten sich die Leute über Zesumme Vereinfachen merken?",
+    "t": 382.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens... es ist eine Plattform, auf der Bürger und Unternehmen helfen, die Verfahren des Staates zu vereinfachen.",
+    "t": 386.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens... sie wird vom Ministerium für Digitalisierung betrieben und wurde 2022 gestartet, als Teil von „Einfach Lëtzebuerg\".",
+    "t": 394.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens... Sie können Ideen einreichen, an einer oder mehreren Phasen teilnehmen, in jeder der vier Sprachen.",
+    "t": 404.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und viertens... sie hat bereits geholfen, echte Dienste zu verbessern, wie die MyGuichet-App.",
+    "t": 412.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Papierkram wird vielleicht nie aufregend sein.",
+    "t": 418.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber die Chance, ihn gemeinsam einfacher zu machen, ist wirklich ermutigend.",
+    "t": 422.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn sich also das nächste Mal etwas zu kompliziert anfühlt, denken Sie daran... Ihre Stimme kann helfen, es zu verbessern.",
+    "t": 428.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank, dass Sie heute zugehört haben.",
+    "t": 436.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
+    "t": 440.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 444.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 445.97
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm zréck! Et ass schéin, datt Dir haut bei eis sidd.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien zesummen!",
+    "t": 5.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, um Liewen am Land deelzehuelen.",
+    "t": 7.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "A haut hu mir en Thema, dat éierlech gesot bal jiddereen ugeet... de Pabeierkrom.",
+    "t": 22.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo! Formulairen, Prozeduren, administrativ Schrëtt. Heiansdo sinn se einfach. An heiansdo... sinn se et net.",
+    "t": 28.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mir hunn all dee Moment scho gehat. E Formulaire dee zweemol no derselwechter Saach freet. E Schrëtt deen Iech denke léisst... firwat ass dat esou komplizéiert?",
+    "t": 38.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nun, dat haitegt Thema ass e Projet deen dës Frustratioun an eppes Nëtzleches verwandelt.",
+    "t": 48.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et heescht Zesumme Vereinfachen. Den Numm ass op Lëtzebuergesch.",
+    "t": 54.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et bedeit „zesummen vereinfachen\". Dat gefält mer immens. Zesummen.",
+    "t": 60.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, wat genee ass Zesumme Vereinfachen?",
+    "t": 66.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ass eng Online-Plattform, wou Bierger an Entreprisen kënnen hëllefen, dem Staat seng Prozeduren méi einfach ze maachen.",
+    "t": 70.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Anstatt sech also nëmmen iwwert de Pabeierkrom ze beschwéieren, kann ee wierklech eppes dogéint maachen.",
+    "t": 76.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genee. Säi Slogan seet et wonnerbar... ëffentlech Servicer déi Iech den Alldag méi einfach maachen.",
+    "t": 82.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wien ass dohannert?",
+    "t": 89.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si gëtt vum Ministère fir Digitaliséierung gefouert, iwwert en Organ dat de Vereinfachungsrot heescht.",
+    "t": 91.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Plattform gouf 2022 lancéiert, an si ass Deel vun engem méi groussen Effort fir d'Verwaltungsvereinfachung.",
+    "t": 97.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dee méi groussen Effort huet souguer säin eegenen Numm... „Einfach Lëtzebuerg\", wat „Einfach Lëtzebuerg\" bedeit.",
+    "t": 104.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Komme mer zum Häerz vun der Saach. Wéi funktionéiert d'Plattform eigentlech?",
+    "t": 111.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Déi grouss Iddi ass, déi richteg Erfarung vun de Bierger an Entreprisen an de Mëttelpunkt ze setzen.",
+    "t": 116.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Well d'Leit déi eng Prozedur all Dag benotzen, verstinn dacks am beschten hir Problemer.",
+    "t": 122.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Esou kënnen d'Bierger an d'Entreprisen d'Initiativ ergräifen, an Iddien araichen, fir dem Staat seng Prozeduren ze vereinfachen.",
+    "t": 127.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dir hutt eppes Ëmständleches gemierkt, eppes dat méi einfach kéint sinn? Dir kënnt virschloen, wéi een et verbessert.",
+    "t": 134.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "An dann passéiert d'Aarbecht op eng participativ, ko-kreativ Manéier... zesummen mat de Leit déi et virgeschloen hunn.",
+    "t": 141.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ech mengen, et hëlleft, sech et als e Projet virzestellen deen duerch verschidde Phasen geet.",
+    "t": 148.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. Et gëtt eng Phas fir Iddien ze deelen, an dann Phasen fir un enger Léisung ze schaffen an se ze testen.",
+    "t": 152.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "An hei ass en Detail deen ech wierklech schätzen. Dir musst Iech net fir de ganze Wee verflichten.",
+    "t": 160.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat stëmmt. Dir kënnt un nëmmen enger Phas deelhuelen, oder un e puer, esou vill wéi Dir wëllt.",
+    "t": 166.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dir sidd also fräi. Dir gitt wat Dir kënnt, wann Dir kënnt. Ouni Drock.",
+    "t": 173.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "An d'Plattform begréisst jiddereen, an all eise véier Sproochen... Lëtzebuergesch, Däitsch, Franséisch an Englesch.",
+    "t": 180.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass wierklech wichteg an engem Land esou méisproochegt wéi Lëtzebuerg. Jiddereen kann a senger eegener Sprooch matmaachen.",
+    "t": 189.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosse mer dat konkret maachen. Wat fir eng Saach kéint vereinfacht ginn?",
+    "t": 196.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stellt Iech e Formulaire vir deen no Informatioune freet déi de Staat scho huet. Firwat se nach eng Kéier aginn?",
+    "t": 201.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oder eng Prozedur déi dräi verschidde Büroen abezitt, wou een géif duergoen.",
+    "t": 208.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oder Instruktiounen déi schwéier ze verstoe sinn, déi an enger kloerer Sprooch kéinte geschriwwe ginn.",
+    "t": 213.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "E gutt Beispill sinn déi digital Servicer. D'Plattform gouf benotzt fir d'MyGuichet-App ze verbesseren.",
+    "t": 218.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "A mir hunn an enger fréierer Episod iwwer MyGuichet geschwat. Et ass dem Staat säin Online-Schalter.",
+    "t": 225.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Esou hunn richteg Benotzer Réckmeldung ginn, an déi Réckmeldung huet gehollef en Outil ze gestalten, duerch deen Millioune Prozeduren goen.",
+    "t": 232.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass d'Magie. Dem klenge Virschlag vun enger Persoun kann d'Liewe fir Dausende verbesseren.",
+    "t": 239.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosse mer doriwwer schwätzen, firwat dëse Wee wichteg ass, iwwert de Pabeierkrom selwer eraus.",
+    "t": 246.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Éischtens spuert en Zäit. Méi einfach Prozeduren bedeite manner Stress, fir Bierger a fir d'Personal.",
+    "t": 251.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens schaaft en Vertrauen. Wann de Staat nolauschtert, fille sech d'Leit respektéiert, a fille sech als Deel vun de Saachen.",
+    "t": 258.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "An drëttens ass et demokratesch, op eng roueg, alldeeglech Manéier.",
+    "t": 266.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. Demokratie ass net nëmmen all puer Joer wielen. Et ass och hëllefen, déi Servicer ze gestalten déi Dir benotzt.",
+    "t": 270.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "An dat passt perfekt zum Geescht vum Biergerpakt... Bierger an de Staat, déi zesummeschaffen.",
+    "t": 279.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt och eppes Hoffnungsvolles hei. Frustratioun kann an Verbesserung verwandelt ginn.",
+    "t": 286.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Anstatt „dat ass nerveg\", gëtt et „hei ass wéi mir et besser kéinte maachen\".",
+    "t": 292.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, loosse mer dat praktesch maachen. Wéi kann ee wierklech deelhuelen?",
+    "t": 296.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Éischtens... d'nächst Kéier wann eng Prozedur Iech frustréiert, schreift d'Iddi op anstatt nëmmen ze sëfzen.",
+    "t": 302.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens... besicht d'Plattform Zesumme Vereinfachen an deelt Äre Virschlag, a senger eegener Sprooch.",
+    "t": 308.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens... wann Dir wëllt, verfollegt en duerch eng oder méi Phasen, an hëlleft d'Léisung mat ze gestalten.",
+    "t": 315.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "A véiertens... denkt drun, souguer eng kleng Iddi kann e richtegen Ënnerscheed fir vill Leit maachen.",
+    "t": 320.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer alles zesummebréngen. Wat sollten d'Leit sech iwwer Zesumme Vereinfachen mierken?",
+    "t": 326.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Éischtens... et ass eng Plattform wou Bierger an Entreprisen hëllefen, dem Staat seng Prozeduren ze vereinfachen.",
+    "t": 332.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweetens... si gëtt vum Ministère fir Digitaliséierung gefouert, a gouf 2022 lancéiert, als Deel vun „Einfach Lëtzebuerg\".",
+    "t": 338.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drëttens... Dir kënnt Iddien araichen, un enger Phas oder ville matmaachen, an all eenzel vun de véier Sproochen.",
+    "t": 346.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "A véiertens... si huet schonn gehollef richteg Servicer ze verbesseren, wéi d'MyGuichet-App.",
+    "t": 352.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "De Pabeierkrom gëtt vläicht ni spannend. Mä d'Chance fir en ze vereinfachen, zesummen, ass wierklech stäerkend.",
+    "t": 358.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also d'nächst Kéier wann eppes ze komplizéiert schéngt, denkt drun... Är Stëmm kann hëllefen, et ze verbesseren.",
+    "t": 365.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools Merci datt Dir haut nogelauschtert hutt.",
+    "t": 371.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passt op Iech op, a bis an der nächster Episod. Äddi!",
+    "t": 374.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 379.46
+   }
+  ]
  }
 ];

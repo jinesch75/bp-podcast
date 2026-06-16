@@ -19,9 +19,11 @@ Open `index.html` in a browser — it's a static site, no server needed.
 - `build/` — reusable build scripts (see "Tooling").
 - `episodes_data.*.js` (backup.js / prevsync.js / prelb.js) — old backups; harmless. iCloud blocks `rm` from bash; delete via Finder if wanted.
 
-## Episodes (18 so far)
+## Episodes (23 so far)
 
-id:key — 1:myguichet, 2:dsp_cns, 3:eltereforum, 4:benevolat, 5:lualert, 6:luxtrust, 7:maison_orientation, 8:infosenior, 9:accessibilite, 10:zukunftskeess, 11:fns, 12:granderegion, 13:digitalinclusion, 14:onis, 15:workinluxembourg, 16:adem, 17:habitat (Observatoire de l'Habitat), 18:klima (Klima-Agence).
+id:key — 1:myguichet, 2:dsp_cns, 3:eltereforum, 4:benevolat, 5:lualert, 6:luxtrust, 7:maison_orientation, 8:infosenior, 9:accessibilite, 10:zukunftskeess, 11:fns, 12:granderegion, 13:digitalinclusion, 14:onis, 15:workinluxembourg, 16:adem, 17:habitat (Observatoire de l'Habitat), 18:klima (Klima-Agence), 19:snj (Service National de la Jeunesse), 20:enfance (Office National de l'Enfance), 21:cepas (CePAS), 22:fondseuropeens (Fonds européens), 23:zesumme (Zesumme Vereinfachen).
+
+Batch tip: episodes 19-23 were built five at a time. `build/tts_batch.py` now also generates English (pass langs as 4th arg, e.g. `python3 build/tts_batch.py 40 snj,enfance,cepas en,fr,de`). Content for a batch: one `new_content_en.json` (with a `categories` field per episode) + two subagents → `tr_new_fr.json`/`tr_new_de.json`, then `build/inject_5.js`.
 
 Episodes 1–8 predate this workflow (timestamps were forced-aligned). Episodes 9–16 were built with the workflow below. ADEM (16) was the first episode built end-to-end with native EN/FR/DE audio + full content translation + topic tag from the start; see `build/inject_adem.js` and `build/adem_content.json` for the per-episode pattern (it also builds `segments_lb` via `lib_segments` for read-along data).
 
