@@ -60864,5 +60864,2505 @@ const EPISODES = [
     "t": 587.84
    }
   ]
+ },
+ {
+  "id": 18,
+  "key": "klima",
+  "number": "Episode 18",
+  "title": "Klima-Agence – Free Advice for Your Energy and Climate Projects",
+  "description": "What Klima-Agence is (Luxembourg's national energy and climate agency, formerly myenergy), its free and independent advice on insulation, sustainable building, renewable heating, solar power and eco-mobility, the help it gives to find grants like the Klimabonus, and a warning about fake adverts.",
+  "audio": "podcast_klima.mp3",
+  "duration": 546.26,
+  "topics": [
+   "What Klima-Agence is",
+   "Free, independent advice",
+   "Formerly myenergy (until 2022)",
+   "Insulation & sustainable building",
+   "Renewable heating & solar power",
+   "Eco-mobility & electric vehicles",
+   "Grants & the Klimabonus",
+   "Beware of fake adverts"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome back!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's wonderful to have you with us today.",
+    "t": 2.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border workers too, to feel more at home here, and to make the most of the country.",
+    "t": 14.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today we are looking at a topic that is on a lot of minds... energy, the climate, and our homes.",
+    "t": 23.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Think about it.",
+    "t": 29.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Heating bills, insulation, solar panels, electric cars, grants... it can feel like a lot to understand.",
+    "t": 31.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "And it often feels expensive, and complicated.",
+    "t": 39.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Where do you even start?",
+    "t": 42.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Well, that is exactly why today's organisation exists.",
+    "t": 45.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is called Klima-Agence.",
+    "t": 49.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Klima-Agence.",
+    "t": 52.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "The name already tells us part of the story... \"Klima\" means climate.",
+    "t": 54.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 59.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Klima-Agence is Luxembourg's national partner for energy and climate matters.",
+    "t": 61.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Anna, what exactly is it?",
+    "t": 66.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Is it a company?",
+    "t": 69.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Not a private company in the usual sense.",
+    "t": 71.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is a public-interest organisation, supported by the Luxembourg government.",
+    "t": 75.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Several ministries stand behind it... the Ministry of the Economy, the Ministry of the Environment and Climate, and the Ministry of Housing.",
+    "t": 80.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it works together with professional bodies, like the Chamber of Skilled Trades and Crafts, and the association of architects and consulting engineers.",
+    "t": 88.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Here's a detail some people remember.",
+    "t": 97.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Until 2022, Klima-Agence had a different name... it was called myenergy.",
+    "t": 100.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "So if you have heard of myenergy in the past, it is the same organisation, with a new name and a wider mission.",
+    "t": 106.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what is that mission, exactly?",
+    "t": 113.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "To support the whole of society in protecting the climate and in the energy transition.",
+    "t": 116.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "The energy transition... moving away from fossil fuels, towards cleaner, more efficient energy.",
+    "t": 121.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxembourg has set national targets for 2030... using more renewable energy, using energy more efficiently, and cutting greenhouse gas emissions.",
+    "t": 127.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "And Klima-Agence helps put those big national goals into practice, in real homes and real lives.",
+    "t": 137.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "But here is the part I really want people to hear.",
+    "t": 143.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "The advice they give to citizens is free.",
+    "t": 147.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Free, yes.",
+    "t": 150.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "And just as important... it is independent.",
+    "t": 152.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "That means they are not trying to sell you a boiler, or a particular brand of solar panel.",
+    "t": 156.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "They give you neutral, expert guidance, in your interest.",
+    "t": 162.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "The service is financed by Klima-Agence itself.",
+    "t": 166
+   },
+   {
+    "speaker": "Anna",
+    "text": "So you can ask your questions honestly, and get an honest answer.",
+    "t": 169.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is rare and valuable.",
+    "t": 174.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "So how does a normal person actually get this advice?",
+    "t": 176.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can make an appointment with an advisor.",
+    "t": 180.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Depending on your project, it can happen at your home, by video, or by phone.",
+    "t": 183.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Or you can simply call an advisor directly.",
+    "t": 189.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "The number is 8-0-0-2, 1-1, 9-0.",
+    "t": 193.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the advisors are available Monday to Friday, in the morning and in the afternoon.",
+    "t": 198.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's talk about what they can actually help you with.",
+    "t": 203.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "What kinds of projects?",
+    "t": 207.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quite a range.",
+    "t": 209.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "The first big one is insulating your home.",
+    "t": 211.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Good insulation means a warmer home in winter, a cooler home in summer, and lower heating bills.",
+    "t": 215.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "The second is building a new home in a sustainable way... a home that uses less energy from the start.",
+    "t": 221.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "The third is heating with renewable energy.",
+    "t": 227.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "For example, a heat pump that draws warmth from the air or the ground.",
+    "t": 230.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Instead of burning oil or gas, you use the sun and the earth.",
+    "t": 235.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's cleaner, and over time, often cheaper.",
+    "t": 239.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "The fourth is generating your own clean electricity, with solar panels on your roof.",
+    "t": 243.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Those photovoltaic panels turn sunlight into electricity, which you can use at home or feed into the grid.",
+    "t": 249.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "The fifth is eco-mobility... greener ways of getting around, like electric vehicles and charging stations.",
+    "t": 255.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the sixth is simpler than all the others... just using less energy in your daily habits.",
+    "t": 262.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Small changes, every day, that are good for the planet and good for your wallet.",
+    "t": 268.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "So whether your project is big or small, there is guidance for it.",
+    "t": 273.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Now Anna, let's talk about money, because these projects can be expensive.",
+    "t": 277.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "They can.",
+    "t": 282.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "But the good news is that there are many grants and subsidies available.",
+    "t": 284.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "And this is another place where Klima-Agence really helps.",
+    "t": 289.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "They guide you through the financial support.",
+    "t": 293.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are subsidies from the State, from your commune, and sometimes even from energy suppliers.",
+    "t": 296.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Keeping track of all of those would be a nightmare on your own.",
+    "t": 302.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's why Klima-Agence helps you understand which grants apply to your project.",
+    "t": 306.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is even an online subsidy simulator.",
+    "t": 311.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "You enter your project, and it shows you what support you could receive.",
+    "t": 315.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "A big part of this is the national grant scheme called the Klimabonus.",
+    "t": 319.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "The Klimabonus supports things like energy-efficient renovation, renewable heating, solar panels, electric vehicles, and charging stations.",
+    "t": 324.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "So it really covers most of the projects we just talked about.",
+    "t": 332.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Are there other tools on their website, beyond the subsidy simulator?",
+    "t": 336.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, some very practical ones.",
+    "t": 341.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is a solar simulator, to help you plan panels on your own roof.",
+    "t": 344.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "And a renovation planner, to help you think through the steps of a bigger project.",
+    "t": 349.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "These tools are free to use, and they help you get a clearer picture before you spend any money.",
+    "t": 354.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Here's a question many people have.",
+    "t": 360.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "How do I find a good, trustworthy professional to do the work?",
+    "t": 363.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Klima-Agence has a network of certified advisors and professionals you can look for.",
+    "t": 368.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "So you are not just left alone to guess who is reliable.",
+    "t": 373.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's talk about something I really admire about them... inclusion.",
+    "t": 377.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Yes.",
+    "t": 381.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Their advice is meant for everyone, whatever your language, your budget, or your background.",
+    "t": 383.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "And they pay special attention to people who need the most help.",
+    "t": 389.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "For example, if energy bills are becoming hard to pay, there is support available, including through social welfare offices.",
+    "t": 393.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "So this is not only for people building big new houses.",
+    "t": 400.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is for renters, for families on a tight budget, for everyone.",
+    "t": 404.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Now, there's an important warning we should pass on, about trust.",
+    "t": 409.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 413.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Klima-Agence never allows private companies to use its name or its logo to sell their products.",
+    "t": 415.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "So if you see an advert or a message using the Klima-Agence name to push a sale, be careful... it is not them.",
+    "t": 421.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "The real Klima-Agence gives free, neutral advice.",
+    "t": 428.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "It does not run sales campaigns through other companies.",
+    "t": 432.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "If in doubt, contact Klima-Agence directly, using the official phone number or website.",
+    "t": 435.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "So Tom, let's make this really practical.",
+    "t": 441.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "How should someone actually use Klima-Agence?",
+    "t": 445.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "First... before you start any energy project, get free advice.",
+    "t": 448.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ask your questions before you spend.",
+    "t": 453.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second... use the online simulators to understand the subsidies and plan your solar or renovation.",
+    "t": 456.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third... let them help you find the right grants, like the Klimabonus, so you don't miss any support.",
+    "t": 463.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fourth... look for a certified professional for the actual work.",
+    "t": 469.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fifth... remember it is free, independent, and on your side.",
+    "t": 473.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's bring it all together.",
+    "t": 478.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "What should people remember about Klima-Agence?",
+    "t": 480.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "First... it is Luxembourg's national agency for energy and climate, backed by the government.",
+    "t": 484.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "It used to be called myenergy.",
+    "t": 490.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second... it gives free, independent advice on insulation, building, heating, solar, and eco-mobility.",
+    "t": 493.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third... it helps you find grants and subsidies, including the national Klimabonus scheme.",
+    "t": 500.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fourth... you can reach an advisor by phone, by video, or at home, and use free online tools.",
+    "t": 506.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fifth... be careful of anyone misusing their name to sell you something.",
+    "t": 513.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "The real service is free.",
+    "t": 518.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Energy and climate can feel like huge, distant topics.",
+    "t": 520.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "But they start at home, with small, doable steps.",
+    "t": 525.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "And you don't have to figure it all out alone.",
+    "t": 529.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is free, friendly, expert help waiting for you.",
+    "t": 532.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening today.",
+    "t": 536.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care, and see you in the next episode.",
+    "t": 539.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 543.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 544.73
+   }
+  ],
+  "questions": [
+   {
+    "text": "What is Klima-Agence?",
+    "options": [
+     "A private company that sells solar panels",
+     "Luxembourg's national agency for energy and climate, giving free, independent advice",
+     "An electricity supplier",
+     "A bank"
+    ],
+    "correct": 1,
+    "explanation": "Klima-Agence is Luxembourg's national partner for energy and climate matters, supported by the government. It gives citizens free, independent advice on sustainable housing, energy and mobility. Until 2022 it was called myenergy."
+   },
+   {
+    "text": "How much does Klima-Agence's advice to citizens cost?",
+    "options": [
+     "A monthly subscription",
+     "It is free — the service is financed by Klima-Agence",
+     "A fee per appointment",
+     "Only the first appointment is free"
+    ],
+    "correct": 1,
+    "explanation": "The advice is free and independent. The service is financed by Klima-Agence, so advisors are not trying to sell you a product — they give neutral guidance in your interest."
+   },
+   {
+    "text": "Which of these can Klima-Agence advise you on?",
+    "options": [
+     "Only solar panels",
+     "Only electric cars",
+     "Insulation, sustainable building, renewable heating, solar power and eco-mobility",
+     "Only home loans"
+    ],
+    "correct": 2,
+    "explanation": "Klima-Agence advises on a wide range of projects: insulating your home, building sustainably, heating with renewable energy (such as heat pumps), generating solar electricity, switching to eco-mobility, and using less energy day to day."
+   },
+   {
+    "text": "What is the Klimabonus?",
+    "options": [
+     "A loyalty card for shops",
+     "Luxembourg's national grant scheme for energy-efficient renovation, renewable heating, solar and electric mobility",
+     "A tax on cars",
+     "A type of insulation"
+    ],
+    "correct": 1,
+    "explanation": "The Klimabonus is the national state grant scheme. It supports energy-efficient renovation, sustainable construction, renewable heating, photovoltaic panels, soft mobility, electric vehicles and charging stations. Klima-Agence helps you find which grants apply."
+   },
+   {
+    "text": "If you see an advert using the Klima-Agence name to sell you a product, what should you assume?",
+    "options": [
+     "It is an official Klima-Agence offer",
+     "Be careful — Klima-Agence does not authorise companies to use its name to sell, so it may be misleading",
+     "It means the product is government-approved",
+     "You must buy from that company"
+    ],
+    "correct": 1,
+    "explanation": "Klima-Agence never allows private companies to use its name or logo for commercial purposes. If you see such an advert, be cautious and contact Klima-Agence directly through the official phone number or website."
+   }
+  ],
+  "categories": [
+   "energy",
+   "housing"
+  ],
+  "title_fr": "Klima-Agence – des conseils gratuits pour vos projets d'énergie et de climat",
+  "description_fr": "Ce qu'est la Klima-Agence (l'agence nationale de l'énergie et du climat, anciennement myenergy), ses conseils gratuits et indépendants sur l'isolation, la construction durable, le chauffage renouvelable, le solaire et l'écomobilité, son aide pour trouver les subventions comme le Klimabonus, et une mise en garde contre les fausses publicités.",
+  "topics_fr": [
+   "Ce qu'est la Klima-Agence",
+   "Des conseils gratuits et indépendants",
+   "Anciennement myenergy (jusqu'en 2022)",
+   "Isolation & construction durable",
+   "Chauffage renouvelable & solaire",
+   "Écomobilité & véhicules électriques",
+   "Aides & le Klimabonus",
+   "Méfiez-vous des fausses publicités"
+  ],
+  "questions_fr": [
+   {
+    "text": "Qu'est-ce que la Klima-Agence ?",
+    "options": [
+     "Une entreprise privée qui vend des panneaux solaires",
+     "L'agence nationale de l'énergie et du climat du Luxembourg, qui donne des conseils gratuits et indépendants",
+     "Un fournisseur d'électricité",
+     "Une banque"
+    ],
+    "correct": 1,
+    "explanation": "La Klima-Agence est le partenaire national du Luxembourg en matière d'énergie et de climat, soutenue par le gouvernement. Elle donne aux citoyens des conseils gratuits et indépendants sur le logement durable, l'énergie et la mobilité. Jusqu'en 2022, elle s'appelait myenergy."
+   },
+   {
+    "text": "Combien coûtent les conseils de la Klima-Agence aux citoyens ?",
+    "options": [
+     "Un abonnement mensuel",
+     "Ils sont gratuits – le service est financé par la Klima-Agence",
+     "Des frais par rendez-vous",
+     "Seul le premier rendez-vous est gratuit"
+    ],
+    "correct": 1,
+    "explanation": "Les conseils sont gratuits et indépendants. Le service est financé par la Klima-Agence ; les conseillers ne cherchent donc pas à vous vendre un produit, mais à vous donner des conseils neutres dans votre intérêt."
+   },
+   {
+    "text": "Sur lesquels de ces sujets la Klima-Agence peut-elle vous conseiller ?",
+    "options": [
+     "Uniquement les panneaux solaires",
+     "Uniquement les voitures électriques",
+     "L'isolation, la construction durable, le chauffage renouvelable, le solaire et l'écomobilité",
+     "Uniquement les prêts immobiliers"
+    ],
+    "correct": 2,
+    "explanation": "La Klima-Agence conseille sur un large éventail de projets : isoler son logement, construire durablement, se chauffer aux énergies renouvelables (comme les pompes à chaleur), produire de l'électricité solaire, passer à l'écomobilité et consommer moins d'énergie au quotidien."
+   },
+   {
+    "text": "Qu'est-ce que le Klimabonus ?",
+    "options": [
+     "Une carte de fidélité pour les magasins",
+     "Le régime national d'aides du Luxembourg pour la rénovation énergétique, le chauffage renouvelable, le solaire et la mobilité électrique",
+     "Une taxe sur les voitures",
+     "Un type d'isolation"
+    ],
+    "correct": 1,
+    "explanation": "Le Klimabonus est le régime national d'aides de l'État. Il soutient la rénovation énergétique, la construction durable, le chauffage renouvelable, les panneaux photovoltaïques, la mobilité douce, les véhicules électriques et les bornes de recharge. La Klima-Agence vous aide à trouver les aides qui s'appliquent."
+   },
+   {
+    "text": "Si vous voyez une publicité utilisant le nom de la Klima-Agence pour vous vendre un produit, que devez-vous supposer ?",
+    "options": [
+     "Qu'il s'agit d'une offre officielle de la Klima-Agence",
+     "Soyez prudent – la Klima-Agence n'autorise pas les entreprises à utiliser son nom pour vendre, c'est donc peut-être trompeur",
+     "Que le produit est approuvé par le gouvernement",
+     "Que vous devez acheter auprès de cette entreprise"
+    ],
+    "correct": 1,
+    "explanation": "La Klima-Agence n'autorise jamais des entreprises privées à utiliser son nom ou son logo à des fins commerciales. Si vous voyez une telle publicité, soyez prudent et contactez directement la Klima-Agence via le numéro de téléphone ou le site officiels."
+   }
+  ],
+  "title_de": "Klima-Agence – kostenlose Beratung für Ihre Energie- und Klimaprojekte",
+  "description_de": "Was die Klima-Agence ist (die nationale Energie- und Klimaagentur, früher myenergy), ihre kostenlose, unabhängige Beratung zu Dämmung, nachhaltigem Bauen, erneuerbarem Heizen, Solarstrom und Ökomobilität, ihre Hilfe beim Finden von Fördermitteln wie dem Klimabonus, und eine Warnung vor gefälschter Werbung.",
+  "topics_de": [
+   "Was die Klima-Agence ist",
+   "Kostenlose, unabhängige Beratung",
+   "Früher myenergy (bis 2022)",
+   "Dämmung & nachhaltiges Bauen",
+   "Erneuerbares Heizen & Solarstrom",
+   "Ökomobilität & Elektrofahrzeuge",
+   "Fördermittel & der Klimabonus",
+   "Vorsicht vor gefälschter Werbung"
+  ],
+  "questions_de": [
+   {
+    "text": "Was ist die Klima-Agence?",
+    "options": [
+     "Ein privates Unternehmen, das Solarmodule verkauft",
+     "Die nationale Energie- und Klimaagentur Luxemburgs, die kostenlose, unabhängige Beratung bietet",
+     "Ein Stromanbieter",
+     "Eine Bank"
+    ],
+    "correct": 1,
+    "explanation": "Die Klima-Agence ist der nationale Partner Luxemburgs in Energie- und Klimafragen, unterstützt von der Regierung. Sie bietet Bürgern kostenlose, unabhängige Beratung zu nachhaltigem Wohnen, Energie und Mobilität. Bis 2022 hieß sie myenergy."
+   },
+   {
+    "text": "Wie viel kostet die Beratung der Klima-Agence für Bürger?",
+    "options": [
+     "Ein monatliches Abonnement",
+     "Sie ist kostenlos – der Dienst wird von der Klima-Agence finanziert",
+     "Eine Gebühr pro Termin",
+     "Nur der erste Termin ist kostenlos"
+    ],
+    "correct": 1,
+    "explanation": "Die Beratung ist kostenlos und unabhängig. Der Dienst wird von der Klima-Agence finanziert; die Berater wollen Ihnen also kein Produkt verkaufen, sondern geben neutrale Ratschläge in Ihrem Interesse."
+   },
+   {
+    "text": "Wozu kann die Klima-Agence Sie beraten?",
+    "options": [
+     "Nur zu Solarmodulen",
+     "Nur zu Elektroautos",
+     "Zu Dämmung, nachhaltigem Bauen, erneuerbarem Heizen, Solarstrom und Ökomobilität",
+     "Nur zu Immobilienkrediten"
+    ],
+    "correct": 2,
+    "explanation": "Die Klima-Agence berät zu einer breiten Palette von Projekten: das Eigenheim dämmen, nachhaltig bauen, mit erneuerbaren Energien heizen (z. B. Wärmepumpen), Solarstrom erzeugen, auf Ökomobilität umsteigen und im Alltag weniger Energie verbrauchen."
+   },
+   {
+    "text": "Was ist der Klimabonus?",
+    "options": [
+     "Eine Treuekarte für Geschäfte",
+     "Das nationale Förderprogramm Luxemburgs für energetische Sanierung, erneuerbares Heizen, Solar und Elektromobilität",
+     "Eine Steuer auf Autos",
+     "Eine Art Dämmung"
+    ],
+    "correct": 1,
+    "explanation": "Der Klimabonus ist das nationale staatliche Förderprogramm. Es unterstützt energetische Sanierung, nachhaltiges Bauen, erneuerbares Heizen, Photovoltaikanlagen, sanfte Mobilität, Elektrofahrzeuge und Ladestationen. Die Klima-Agence hilft Ihnen, die passenden Beihilfen zu finden."
+   },
+   {
+    "text": "Wenn Sie eine Werbung sehen, die den Namen Klima-Agence verwendet, um Ihnen ein Produkt zu verkaufen, wovon sollten Sie ausgehen?",
+    "options": [
+     "Dass es ein offizielles Angebot der Klima-Agence ist",
+     "Seien Sie vorsichtig – die Klima-Agence erlaubt Unternehmen nicht, ihren Namen zum Verkauf zu nutzen, es könnte also irreführend sein",
+     "Dass das Produkt von der Regierung genehmigt ist",
+     "Dass Sie bei diesem Unternehmen kaufen müssen"
+    ],
+    "correct": 1,
+    "explanation": "Die Klima-Agence erlaubt es privaten Unternehmen niemals, ihren Namen oder ihr Logo für kommerzielle Zwecke zu nutzen. Wenn Sie eine solche Werbung sehen, seien Sie vorsichtig und kontaktieren Sie die Klima-Agence direkt über die offizielle Telefonnummer oder Website."
+   }
+  ],
+  "audio_fr": "podcast_klima_fr.mp3",
+  "duration_fr": 589.27,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour, et bienvenue à nouveau !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un vrai plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 3.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 6.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 9.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
+    "t": 12.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les travailleurs frontaliers, à se sentir davantage chez eux ici, et à profiter pleinement du pays.",
+    "t": 16.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et aujourd'hui, nous abordons un sujet qui préoccupe beaucoup de monde... l'énergie, le climat, et nos logements.",
+    "t": 26.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pensez-y.",
+    "t": 32.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les factures de chauffage, l'isolation, les panneaux solaires, les voitures électriques, les aides... cela peut sembler beaucoup à comprendre.",
+    "t": 34.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et cela paraît souvent coûteux, et compliqué.",
+    "t": 43.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Par où commencer ?",
+    "t": 47.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eh bien, c'est exactement pour cela que l'organisation dont nous parlons aujourd'hui existe.",
+    "t": 49.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle s'appelle Klima-Agence.",
+    "t": 54.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Klima-Agence.",
+    "t": 57.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le nom nous en dit déjà une partie... « Klima » signifie climat.",
+    "t": 59.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 64.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Klima-Agence est le partenaire national du Luxembourg pour les questions d'énergie et de climat.",
+    "t": 66.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Anna, qu'est-ce que c'est exactement ?",
+    "t": 71.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Est-ce une entreprise ?",
+    "t": 74.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pas une entreprise privée au sens habituel.",
+    "t": 77.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est une organisation d'intérêt public, soutenue par le gouvernement luxembourgeois.",
+    "t": 80.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Plusieurs ministères se trouvent derrière elle... le Ministère de l'Économie, le Ministère de l'Environnement et du Climat, et le Ministère du Logement.",
+    "t": 85.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et elle travaille avec des organismes professionnels, comme la Chambre des Métiers, et l'association des architectes et ingénieurs-conseils.",
+    "t": 93.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Voici un détail dont certaines personnes se souviennent.",
+    "t": 101.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jusqu'en 2022, Klima-Agence portait un autre nom... elle s'appelait myenergy.",
+    "t": 105.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Donc si vous avez entendu parler de myenergy par le passé, c'est la même organisation, avec un nouveau nom et une mission plus large.",
+    "t": 110.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quelle est cette mission, exactement ?",
+    "t": 118.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Accompagner l'ensemble de la société dans la protection du climat et dans la transition énergétique.",
+    "t": 122.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "La transition énergétique... s'éloigner des énergies fossiles, vers une énergie plus propre et plus efficace.",
+    "t": 128.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le Luxembourg s'est fixé des objectifs nationaux pour 2030... utiliser davantage d'énergies renouvelables, utiliser l'énergie de manière plus efficace, et réduire les émissions de gaz à effet de serre.",
+    "t": 134.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et Klima-Agence aide à mettre en pratique ces grands objectifs nationaux, dans de vrais logements et de vraies vies.",
+    "t": 147.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais voici la partie que je veux vraiment que les gens entendent.",
+    "t": 153.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les conseils qu'ils donnent aux citoyens sont gratuits.",
+    "t": 157.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gratuits, oui.",
+    "t": 160.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et tout aussi important... ils sont indépendants.",
+    "t": 162.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela signifie qu'ils n'essaient pas de vous vendre une chaudière, ou une marque particulière de panneaux solaires.",
+    "t": 166.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils vous donnent des conseils neutres, d'experts, dans votre intérêt.",
+    "t": 172.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le service est financé par Klima-Agence elle-même.",
+    "t": 177.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez donc poser vos questions en toute honnêteté, et obtenir une réponse honnête.",
+    "t": 180.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est rare et précieux.",
+    "t": 186.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors, comment une personne ordinaire obtient-elle concrètement ces conseils ?",
+    "t": 188.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez prendre rendez-vous avec un conseiller.",
+    "t": 193.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Selon votre projet, cela peut se faire à votre domicile, par vidéo, ou par téléphone.",
+    "t": 196.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ou vous pouvez tout simplement appeler directement un conseiller.",
+    "t": 202.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le numéro est le 8-0-0-2, 1-1, 9-0.",
+    "t": 206.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les conseillers sont disponibles du lundi au vendredi, le matin et l'après-midi.",
+    "t": 211.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parlons de ce avec quoi ils peuvent réellement vous aider.",
+    "t": 216.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quels types de projets ?",
+    "t": 219.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Assez variés.",
+    "t": 221.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le premier grand sujet, c'est l'isolation de votre logement.",
+    "t": 223.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une bonne isolation, c'est un logement plus chaud en hiver, plus frais en été, et des factures de chauffage moins élevées.",
+    "t": 228
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le deuxième, c'est construire un nouveau logement de manière durable... un logement qui consomme moins d'énergie dès le départ.",
+    "t": 235.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le troisième, c'est se chauffer avec des énergies renouvelables.",
+    "t": 242.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Par exemple, une pompe à chaleur qui puise la chaleur de l'air ou du sol.",
+    "t": 246.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Au lieu de brûler du mazout ou du gaz, vous utilisez le soleil et la terre.",
+    "t": 251.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est plus propre, et avec le temps, souvent moins cher.",
+    "t": 256.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le quatrième, c'est produire votre propre électricité propre, avec des panneaux solaires sur votre toit.",
+    "t": 260.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ces panneaux photovoltaïques transforment la lumière du soleil en électricité, que vous pouvez utiliser chez vous ou injecter dans le réseau.",
+    "t": 266.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le cinquième, c'est l'écomobilité... des façons plus écologiques de se déplacer, comme les véhicules électriques et les bornes de recharge.",
+    "t": 274.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et le sixième est plus simple que tous les autres... tout simplement consommer moins d'énergie dans vos habitudes quotidiennes.",
+    "t": 282.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "De petits changements, chaque jour, qui sont bons pour la planète et bons pour votre portefeuille.",
+    "t": 289.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Donc que votre projet soit grand ou petit, il existe un accompagnement pour lui.",
+    "t": 294.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Maintenant Anna, parlons d'argent, car ces projets peuvent être coûteux.",
+    "t": 300.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "En effet.",
+    "t": 304.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais la bonne nouvelle, c'est qu'il existe de nombreuses aides et subventions disponibles.",
+    "t": 306.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et c'est un autre domaine où Klima-Agence aide vraiment.",
+    "t": 312.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils vous guident à travers les soutiens financiers.",
+    "t": 315.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a des subventions de l'État, de votre commune, et parfois même des fournisseurs d'énergie.",
+    "t": 318.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Garder une trace de tout cela serait un cauchemar tout seul.",
+    "t": 324.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est pourquoi Klima-Agence vous aide à comprendre quelles aides s'appliquent à votre projet.",
+    "t": 328.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il existe même un simulateur d'aides en ligne.",
+    "t": 333.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous saisissez votre projet, et il vous montre quel soutien vous pourriez recevoir.",
+    "t": 337.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Une grande partie de cela passe par le dispositif national d'aides appelé le Klimabonus.",
+    "t": 342.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le Klimabonus soutient des choses comme la rénovation énergétique, le chauffage renouvelable, les panneaux solaires, les véhicules électriques, et les bornes de recharge.",
+    "t": 347.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Donc il couvre vraiment la plupart des projets dont nous venons de parler.",
+    "t": 356.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Y a-t-il d'autres outils sur leur site, au-delà du simulateur d'aides ?",
+    "t": 361.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, certains très pratiques.",
+    "t": 365.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a un simulateur solaire, pour vous aider à planifier des panneaux sur votre propre toit.",
+    "t": 368.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et un planificateur de rénovation, pour vous aider à réfléchir aux étapes d'un projet plus important.",
+    "t": 374.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ces outils sont gratuits à utiliser, et ils vous aident à y voir plus clair avant de dépenser le moindre euro.",
+    "t": 379.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Voici une question que beaucoup de gens se posent.",
+    "t": 386.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "Comment trouver un bon professionnel, fiable, pour réaliser les travaux ?",
+    "t": 389.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Klima-Agence dispose d'un réseau de conseillers et de professionnels certifiés que vous pouvez rechercher.",
+    "t": 394.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous n'êtes donc pas laissé seul à deviner qui est fiable.",
+    "t": 400.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons de quelque chose que j'admire vraiment chez eux... l'inclusion.",
+    "t": 404.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oui.",
+    "t": 408.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Leurs conseils sont destinés à tout le monde, quelle que soit votre langue, votre budget, ou votre parcours.",
+    "t": 410.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ils accordent une attention particulière aux personnes qui ont le plus besoin d'aide.",
+    "t": 416.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Par exemple, si les factures d'énergie deviennent difficiles à payer, un soutien est disponible, notamment par l'intermédiaire des offices sociaux.",
+    "t": 421.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Donc ce n'est pas seulement pour les personnes qui construisent de grandes maisons neuves.",
+    "t": 429.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est pour les locataires, pour les familles au budget serré, pour tout le monde.",
+    "t": 434.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Maintenant, il y a un avertissement important que nous devrions transmettre, à propos de la confiance.",
+    "t": 439.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 445.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Klima-Agence n'autorise jamais des entreprises privées à utiliser son nom ou son logo pour vendre leurs produits.",
+    "t": 447.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc si vous voyez une publicité ou un message utilisant le nom Klima-Agence pour pousser une vente, soyez prudent... ce n'est pas eux.",
+    "t": 453.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "La véritable Klima-Agence donne des conseils gratuits et neutres.",
+    "t": 461.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle ne mène pas de campagnes de vente à travers d'autres entreprises.",
+    "t": 465.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "En cas de doute, contactez directement Klima-Agence, en utilisant le numéro de téléphone ou le site officiel.",
+    "t": 470.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors Tom, rendons cela très concret.",
+    "t": 476.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comment quelqu'un devrait-il réellement utiliser Klima-Agence ?",
+    "t": 480.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord... avant de commencer tout projet énergétique, obtenez des conseils gratuits.",
+    "t": 484.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Posez vos questions avant de dépenser.",
+    "t": 489.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deuxièmement... utilisez les simulateurs en ligne pour comprendre les aides et planifier votre projet solaire ou de rénovation.",
+    "t": 492.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement... laissez-les vous aider à trouver les bonnes aides, comme le Klimabonus, pour ne manquer aucun soutien.",
+    "t": 499.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quatrièmement... cherchez un professionnel certifié pour les travaux eux-mêmes.",
+    "t": 506.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et cinquièmement... rappelez-vous que c'est gratuit, indépendant, et de votre côté.",
+    "t": 511.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Rassemblons tout cela.",
+    "t": 516.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Que devraient retenir les gens à propos de Klima-Agence ?",
+    "t": 518.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Premièrement... c'est l'agence nationale du Luxembourg pour l'énergie et le climat, soutenue par le gouvernement.",
+    "t": 522.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elle s'appelait autrefois myenergy.",
+    "t": 528.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deuxièmement... elle donne des conseils gratuits et indépendants sur l'isolation, la construction, le chauffage, le solaire, et l'écomobilité.",
+    "t": 531.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement... elle vous aide à trouver des aides et des subventions, y compris le dispositif national Klimabonus.",
+    "t": 540.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quatrièmement... vous pouvez joindre un conseiller par téléphone, par vidéo, ou à domicile, et utiliser des outils en ligne gratuits.",
+    "t": 546.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et cinquièmement... méfiez-vous de quiconque utilise abusivement leur nom pour vous vendre quelque chose.",
+    "t": 555.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le vrai service est gratuit.",
+    "t": 560.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'énergie et le climat peuvent sembler des sujets immenses et lointains.",
+    "t": 563.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais ils commencent à la maison, par de petits pas réalisables.",
+    "t": 567.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et vous n'avez pas à tout comprendre seul.",
+    "t": 571.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une aide gratuite, bienveillante et experte vous attend.",
+    "t": 574.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
+    "t": 578.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
+    "t": 582.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi !",
+    "t": 586.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi !",
+    "t": 587.66
+   }
+  ],
+  "audio_de": "podcast_klima_de.mp3",
+  "duration_de": 671.18,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen zurück!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist wunderbar, dass Sie heute bei uns sind.",
+    "t": 3.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 7.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 9.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 12.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten den Einwohnerinnen und Einwohnern, und auch den Grenzgängern, helfen, sich hier mehr zu Hause zu fühlen und das Beste aus dem Land zu machen.",
+    "t": 16.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und heute schauen wir uns ein Thema an, das vielen am Herzen liegt... Energie, das Klima und unsere Wohnungen.",
+    "t": 28.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Denken Sie nur einmal nach.",
+    "t": 36.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Heizkosten, Dämmung, Solarmodule, Elektroautos, Beihilfen... das kann sich nach sehr viel anfühlen, das man verstehen muss.",
+    "t": 38.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und es wirkt oft teuer und kompliziert.",
+    "t": 48.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wo soll man überhaupt anfangen?",
+    "t": 51.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nun, genau deshalb gibt es die Organisation, um die es heute geht.",
+    "t": 54.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie heißt Klima-Agence.",
+    "t": 60.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Klima-Agence.",
+    "t": 62.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Name verrät uns schon einen Teil der Geschichte... „Klima\" bedeutet Klima.",
+    "t": 64.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 70.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Klima-Agence ist Luxemburgs nationaler Partner für Energie- und Klimafragen.",
+    "t": 72.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also, Anna, was genau ist das?",
+    "t": 78.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ist es ein Unternehmen?",
+    "t": 81.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Kein privates Unternehmen im üblichen Sinne.",
+    "t": 84.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist eine Organisation im öffentlichen Interesse, die von der luxemburgischen Regierung unterstützt wird.",
+    "t": 87.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mehrere Ministerien stehen dahinter... das Wirtschaftsministerium, das Ministerium für Umwelt, Klima und Biodiversität und das Ministerium für Wohnungsbau und Raumordnung.",
+    "t": 95.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und sie arbeitet mit Berufsverbänden zusammen, wie der Chambre des Métiers (Handwerkskammer) und dem Verband der Architekten und beratenden Ingenieure.",
+    "t": 106.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hier ist ein Detail, an das sich manche Menschen erinnern.",
+    "t": 116.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bis 2022 hatte die Klima-Agence einen anderen Namen... sie hieß myenergy.",
+    "t": 120.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie also früher schon einmal von myenergy gehört haben, dann ist das dieselbe Organisation, mit einem neuen Namen und einem breiteren Auftrag.",
+    "t": 127.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und was genau ist dieser Auftrag?",
+    "t": 136.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die gesamte Gesellschaft beim Klimaschutz und bei der Energiewende zu unterstützen.",
+    "t": 139.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Energiewende... weg von fossilen Brennstoffen, hin zu saubererer, effizienterer Energie.",
+    "t": 145.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxemburg hat sich nationale Ziele für 2030 gesetzt... mehr erneuerbare Energie zu nutzen, Energie effizienter zu nutzen und die Treibhausgasemissionen zu senken.",
+    "t": 151.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und die Klima-Agence hilft dabei, diese großen nationalen Ziele in die Praxis umzusetzen, in echten Wohnungen und im echten Leben.",
+    "t": 163.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber hier ist der Teil, den ich den Menschen wirklich ans Herz legen möchte.",
+    "t": 172.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Beratung, die sie den Bürgerinnen und Bürgern geben, ist kostenlos.",
+    "t": 177.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kostenlos, ja.",
+    "t": 183.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und genauso wichtig... sie ist unabhängig.",
+    "t": 185.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das bedeutet, sie versuchen nicht, Ihnen einen Heizkessel oder eine bestimmte Marke von Solarmodulen zu verkaufen.",
+    "t": 189.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie geben Ihnen neutrale, fachkundige Beratung, in Ihrem Interesse.",
+    "t": 197.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Dienst wird von der Klima-Agence selbst finanziert.",
+    "t": 202.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können Ihre Fragen also ehrlich stellen und bekommen eine ehrliche Antwort.",
+    "t": 206.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist selten und wertvoll.",
+    "t": 211.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie bekommt ein normaler Mensch diese Beratung denn nun konkret?",
+    "t": 214.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können einen Termin mit einer Beraterin oder einem Berater vereinbaren.",
+    "t": 219.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Je nach Ihrem Projekt kann das bei Ihnen zu Hause, per Video oder per Telefon stattfinden.",
+    "t": 224.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oder Sie können einfach direkt einen Berater anrufen.",
+    "t": 231.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Nummer lautet 8-0-0-2, 1-1, 9-0.",
+    "t": 235.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Beraterinnen und Berater sind von Montag bis Freitag erreichbar, vormittags und nachmittags.",
+    "t": 239.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Lassen Sie uns darüber sprechen, wobei sie Ihnen konkret helfen können.",
+    "t": 247.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bei welchen Arten von Projekten?",
+    "t": 251.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bei einer ganzen Reihe.",
+    "t": 254.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das erste große Thema ist die Dämmung Ihrer Wohnung.",
+    "t": 257.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gute Dämmung bedeutet eine wärmere Wohnung im Winter, eine kühlere Wohnung im Sommer und niedrigere Heizkosten.",
+    "t": 261.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das zweite ist der Bau eines neuen Hauses auf nachhaltige Weise... ein Haus, das von Anfang an weniger Energie verbraucht.",
+    "t": 268.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das dritte ist das Heizen mit erneuerbarer Energie.",
+    "t": 276.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zum Beispiel eine Wärmepumpe, die Wärme aus der Luft oder dem Boden gewinnt.",
+    "t": 280.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Statt Öl oder Gas zu verbrennen, nutzen Sie die Sonne und die Erde.",
+    "t": 285.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist sauberer und mit der Zeit oft günstiger.",
+    "t": 290.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das vierte ist, Ihren eigenen sauberen Strom zu erzeugen, mit Solarmodulen auf Ihrem Dach.",
+    "t": 294.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Photovoltaikanlage wandelt Sonnenlicht in Strom um, den Sie zu Hause nutzen oder ins Netz einspeisen können.",
+    "t": 300.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das fünfte ist die Ökomobilität... umweltfreundlichere Arten, sich fortzubewegen, wie Elektrofahrzeuge und Ladestationen.",
+    "t": 308.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und das sechste ist einfacher als alle anderen... einfach im Alltag weniger Energie zu verbrauchen.",
+    "t": 317.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kleine Veränderungen, jeden Tag, die gut für den Planeten und gut für den Geldbeutel sind.",
+    "t": 323.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ob Ihr Projekt also groß oder klein ist, es gibt dafür eine Beratung.",
+    "t": 330.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nun, Anna, lassen Sie uns über Geld sprechen, denn diese Projekte können teuer sein.",
+    "t": 335.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das können sie.",
+    "t": 341.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber die gute Nachricht ist, dass es viele Beihilfen und Fördermittel gibt.",
+    "t": 343.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und das ist eine weitere Stelle, an der die Klima-Agence wirklich hilft.",
+    "t": 349.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie führt Sie durch die finanzielle Unterstützung.",
+    "t": 353.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt Fördermittel vom Staat, von Ihrer Gemeinde und manchmal sogar von Energieversorgern.",
+    "t": 357.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "All das im Blick zu behalten, wäre allein ein Albtraum.",
+    "t": 363.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deshalb hilft Ihnen die Klima-Agence zu verstehen, welche Beihilfen für Ihr Projekt gelten.",
+    "t": 368.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt sogar einen Online-Förderrechner.",
+    "t": 374.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie geben Ihr Projekt ein, und er zeigt Ihnen, welche Unterstützung Sie erhalten könnten.",
+    "t": 377.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein großer Teil davon ist das nationale Förderprogramm namens Klimabonus.",
+    "t": 383.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Klimabonus unterstützt Dinge wie energieeffiziente Renovierung, erneuerbares Heizen, Solarmodule, Elektrofahrzeuge und Ladestationen.",
+    "t": 389.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er deckt also wirklich die meisten der Projekte ab, über die wir gerade gesprochen haben.",
+    "t": 398.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gibt es noch andere Werkzeuge auf ihrer Website, außer dem Förderrechner?",
+    "t": 404.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, einige sehr praktische.",
+    "t": 410.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt einen Solarrechner, der Ihnen hilft, Module auf Ihrem eigenen Dach zu planen.",
+    "t": 413.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und einen Renovierungsplaner, der Ihnen hilft, die Schritte eines größeren Projekts zu durchdenken.",
+    "t": 419.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Werkzeuge sind kostenlos nutzbar, und sie helfen Ihnen, ein klareres Bild zu bekommen, bevor Sie Geld ausgeben.",
+    "t": 426.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hier ist eine Frage, die viele Menschen haben.",
+    "t": 434.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie finde ich eine gute, vertrauenswürdige Fachkraft, die die Arbeit ausführt?",
+    "t": 438.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Klima-Agence hat ein Netzwerk von zertifizierten Beraterinnen, Beratern und Fachleuten, nach denen Sie suchen können.",
+    "t": 444.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie sind also nicht einfach allein gelassen und müssen raten, wer zuverlässig ist.",
+    "t": 452.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Lassen Sie uns über etwas sprechen, das ich an ihnen wirklich bewundere... die Inklusion.",
+    "t": 458.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ja.",
+    "t": 464.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ihre Beratung ist für alle gedacht, ganz gleich, welche Sprache, welches Budget oder welche Herkunft Sie haben.",
+    "t": 465.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und sie achten besonders auf die Menschen, die die meiste Hilfe brauchen.",
+    "t": 473.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn zum Beispiel die Energierechnungen schwer zu bezahlen werden, gibt es Unterstützung, auch über die Sozialämter.",
+    "t": 478.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist also nicht nur für Menschen, die große neue Häuser bauen.",
+    "t": 485.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist für Mieterinnen und Mieter, für Familien mit knappem Budget, für alle.",
+    "t": 490.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nun gibt es noch eine wichtige Warnung, die wir weitergeben sollten, zum Thema Vertrauen.",
+    "t": 496.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 502.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Klima-Agence erlaubt es privaten Unternehmen niemals, ihren Namen oder ihr Logo zu verwenden, um ihre Produkte zu verkaufen.",
+    "t": 503.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn Sie also eine Werbung oder eine Nachricht sehen, die den Namen Klima-Agence benutzt, um einen Verkauf anzukurbeln, seien Sie vorsichtig... das sind nicht sie.",
+    "t": 512.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die echte Klima-Agence gibt kostenlose, neutrale Beratung.",
+    "t": 522.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie führt keine Verkaufskampagnen über andere Unternehmen durch.",
+    "t": 528.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Im Zweifelsfall wenden Sie sich direkt an die Klima-Agence, über die offizielle Telefonnummer oder Website.",
+    "t": 532.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also, Tom, lassen Sie uns das wirklich praktisch machen.",
+    "t": 539.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wie sollte jemand die Klima-Agence konkret nutzen?",
+    "t": 544.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens... bevor Sie ein Energieprojekt beginnen, holen Sie sich kostenlose Beratung.",
+    "t": 548.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stellen Sie Ihre Fragen, bevor Sie Geld ausgeben.",
+    "t": 554.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens... nutzen Sie die Online-Rechner, um die Beihilfen zu verstehen und Ihre Solar- oder Renovierungsprojekte zu planen.",
+    "t": 558.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens... lassen Sie sich von ihnen helfen, die richtigen Beihilfen zu finden, wie den Klimabonus, damit Ihnen keine Unterstützung entgeht.",
+    "t": 566.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Viertens... suchen Sie eine zertifizierte Fachkraft für die eigentliche Arbeit.",
+    "t": 575.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und fünftens... denken Sie daran, es ist kostenlos, unabhängig und auf Ihrer Seite.",
+    "t": 581.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Lassen Sie uns alles zusammenführen.",
+    "t": 587.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was sollten sich die Menschen über die Klima-Agence merken?",
+    "t": 590.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens... sie ist Luxemburgs nationale Agentur für Energie und Klima, von der Regierung unterstützt.",
+    "t": 594.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Früher hieß sie myenergy.",
+    "t": 601.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens... sie gibt kostenlose, unabhängige Beratung zu Dämmung, Bauen, Heizen, Solar und Ökomobilität.",
+    "t": 604.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens... sie hilft Ihnen, Beihilfen und Fördermittel zu finden, einschließlich des nationalen Klimabonus-Programms.",
+    "t": 613.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Viertens... Sie können eine Beraterin oder einen Berater per Telefon, per Video oder zu Hause erreichen und kostenlose Online-Werkzeuge nutzen.",
+    "t": 620.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und fünftens... seien Sie vorsichtig bei jedem, der ihren Namen missbraucht, um Ihnen etwas zu verkaufen.",
+    "t": 631.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der echte Dienst ist kostenlos.",
+    "t": 638.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Energie und Klima können sich wie riesige, ferne Themen anfühlen.",
+    "t": 641.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber sie beginnen zu Hause, mit kleinen, machbaren Schritten.",
+    "t": 646.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und Sie müssen das nicht alles allein herausfinden.",
+    "t": 651.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es wartet kostenlose, freundliche, fachkundige Hilfe auf Sie.",
+    "t": 655.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen herzlichen Dank, dass Sie heute zugehört haben.",
+    "t": 660.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
+    "t": 664.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 668.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 669.71
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm zréck! Et ass eng Freed, datt Dir haut bei eis sidd.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien zesummen!",
+    "t": 5.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger hëllefen, sech hei méi doheem ze fillen, an d'Beschte vum Land erauszehuelen.",
+    "t": 7.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "An haut kucke mer op en Thema, dat ville Leit am Kapp ass... d'Energie, de Klima, an eis Heiser.",
+    "t": 23.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Denkt emol drun. Heizkäschten, Isolatioun, Solarpanneauen, elektresch Autoen, Aiden... dat kann no ganz vill ausgesinn, fir alles ze verstoen.",
+    "t": 29.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "An et fillt sech dacks deier u, a komplizéiert. Wou fänkt ee iwwerhaapt un?",
+    "t": 39.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genee dofir gëtt et d'Organisatioun vun haut. Si heescht Klima-Agence.",
+    "t": 45.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Klima-Agence. Den Numm seet eis schonn en Deel vun der Geschicht... \"Klima\" heescht Klima.",
+    "t": 52.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. D'Klima-Agence ass de Lëtzebuerger nationale Partner fir Energie- a Klimafroen.",
+    "t": 59.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, wat ass dat genau? Ass dat eng Firma?",
+    "t": 66.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Net eng privat Firma am gewéinleche Sënn. Et ass eng Organisatioun vun ëffentlechem Interêt, ënnerstëtzt vun der Lëtzebuerger Regierung.",
+    "t": 71.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Verschidde Ministèren stinn dohannert... de Wirtschaftsministère, de Ministère fir Ëmwelt a Klima, an de Wunnengsministère.",
+    "t": 80.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "An si schafft zesumme mat professionnelle Kammeren, wéi der Chambre des Métiers, an der Associatioun vun den Architekten an de Beroodungsingenieuren.",
+    "t": 88.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hei ass en Detail, un dee sech verschidde Leit erënneren. Bis 2022 hat d'Klima-Agence en aneren Numm... si hat myenergy geheescht.",
+    "t": 97.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wann Dir also fréier vu myenergy héieren hutt, ass et déiselwecht Organisatioun, mat engem neien Numm an enger méi breeder Missioun.",
+    "t": 106.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wat ass dës Missioun genau?",
+    "t": 113.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Déi ganz Gesellschaft z'ënnerstëtzen, fir de Klima ze schützen an an der Energiewende.",
+    "t": 116.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Energiewende... ewech vun de fossille Brennstoffer, hin zu méi propperer, méi effizienter Energie.",
+    "t": 121.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Lëtzebuerg huet sech national Ziler fir 2030 gesat... méi erneierbar Energie notzen, d'Energie méi effizient notzen, an d'Zäregasemissiounen reduzéieren.",
+    "t": 127.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "An d'Klima-Agence hëlleft, dës grouss national Ziler an d'Praxis ëmzesetzen, an echte Heiser an echtem Liewen.",
+    "t": 137.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mä hei ass den Deel, deen ech wierklech wëll, datt d'Leit héieren. D'Berodung, déi se de Bierger ginn, ass gratis.",
+    "t": 143.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gratis, jo. A genee esou wichteg... si ass onofhängeg.",
+    "t": 150.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat heescht, si probéieren net, Iech eng Heizung ze verkafen, oder eng bestëmmte Mark vu Solarpanneauen.",
+    "t": 156.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si ginn Iech neutral, fachlech Berodung, an Ärem Interêt. De Service gëtt vun der Klima-Agence selwer finanzéiert.",
+    "t": 162.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Esou kënnt Dir Är Froen éierlech stellen, an eng éierlech Äntwert kréien. Dat ass rar a wäertvoll.",
+    "t": 169.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also wéi kënnt eng normal Persoun dës Berodung tatsächlech kréien?",
+    "t": 176.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dir kënnt en Rendez-vous mat engem Beroder maachen. Jee no Ärem Projet kann et bei Iech doheem geschéien, per Video, oder per Telefon.",
+    "t": 180.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oder Dir kënnt einfach en Beroder direkt uruffen. D'Nummer ass 8-0-0-2, 1-1, 9-0.",
+    "t": 189.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "An d'Beroder si vu méindes bis freides do, moies an nomëttes.",
+    "t": 198.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer doriwwer schwätzen, bei wat se Iech tatsächlech kënnen hëllefen. Wat fir Zorte vu Projeten?",
+    "t": 203.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eng ganz Rëtsch. Déi éischt grouss ass d'Isolatioun vun Ärem Heem.",
+    "t": 209.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eng gutt Isolatioun heescht e méi waarmt Heem am Wanter, e méi killt Heem am Summer, a manner héich Heizkäschten.",
+    "t": 215.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Déi zweet ass, en neit Heem op eng nohalteg Manéier ze bauen... e Heem, dat vun Ufank un manner Energie verbraucht.",
+    "t": 221.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Déi drëtt ass, mat erneierbarer Energie ze heizen. Zum Beispill eng Wäermepompel, déi d'Wäermt aus der Loft oder aus dem Buedem zitt.",
+    "t": 227.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Amplaz Ueleg oder Gas ze verbrennen, notzt Dir d'Sonn an d'Äerd. Et ass méi propper, a mat der Zäit dacks méi bëlleg.",
+    "t": 235.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Déi véiert ass, Ären eegene propperen Stroum ze produzéieren, mat Solarpanneauen op Ärem Daach.",
+    "t": 243.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Photovoltaikpanneauen maachen aus dem Sonneliicht Stroum, deen Dir doheem notze kënnt oder an d'Netz aspeise kënnt.",
+    "t": 249.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Déi fënneft ass d'Ökomobilitéit... méi gréng Manéieren, fir sech ze beweegen, wéi elektresch Gefierer a Luetstatiounen.",
+    "t": 255.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "An déi sechst ass méi einfach wéi all déi aner... einfach manner Energie an Ären alldeegleche Gewunnechten ze verbrauchen.",
+    "t": 262.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kleng Verännerungen, all Dag, déi gutt fir de Planéit a gutt fir Äre Portmonni sinn.",
+    "t": 268.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Egal also ob Äre Projet grouss oder kleng ass, et gëtt eng Berodung dofir.",
+    "t": 273.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elo Anna, loosse mer iwwer Suen schwätzen, well dës Projete kënnen deier sinn.",
+    "t": 277.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat kënne se. Mä déi gutt Noriicht ass, datt et vill Aiden a Subventiounen gëtt.",
+    "t": 282.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "An dat ass eng aner Plaz, wou d'Klima-Agence wierklech hëlleft. Si féieren Iech duerch déi finanziell Ënnerstëtzung.",
+    "t": 289.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt Subventiounen vum Staat, vun Ärer Gemeng, an heiansdo esouguer vun den Energieliwweranten.",
+    "t": 296.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "All déi am Iwwerbléck ze behalen, wier eng eelend Aarbecht, wann Dir et eleng misst maachen.",
+    "t": 302.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dofir hëlleft d'Klima-Agence Iech ze verstoen, wéi eng Aiden op Äre Projet zoutreffen.",
+    "t": 306.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt esouguer en Online-Simulateur fir d'Subventiounen. Dir gitt Äre Projet an, an en weist Iech, wat fir eng Ënnerstëtzung Dir kéint kréien.",
+    "t": 311.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "E groussen Deel dovun ass dat national Aidenprogramm mam Numm Klimabonus.",
+    "t": 319.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "De Klimabonus ënnerstëtzt Saache wéi energieeffizient Renovatioun, erneierbar Heizung, Solarpanneauen, elektresch Gefierer, a Luetstatiounen.",
+    "t": 324.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et deckt also wierklech déi meescht vun de Projeten, iwwer déi mir just geschwat hunn.",
+    "t": 332.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gëtt et nach aner Tools op hirer Internetsäit, nieft dem Subventiounssimulateur?",
+    "t": 336.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, e puer ganz praktesch. Et gëtt e Solarsimulateur, fir Iech ze hëllefen, Panneauen op Ärem eegene Daach ze plangen.",
+    "t": 341.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "An e Renovatiounsplaner, fir Iech ze hëllefen, d'Schrëtt vun engem méi groussen Projet duerchzedenken.",
+    "t": 349.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Tools sinn gratis ze notzen, a si hëllefen Iech, e méi kloert Bild ze kréien, ier Dir Suen ausgitt.",
+    "t": 354.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hei ass eng Fro, déi vill Leit hunn. Wéi fannen ech e gudden, vertrauenswierdege Fachmann, deen d'Aarbecht mécht?",
+    "t": 360.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Klima-Agence huet en Netzwierk vu certifizéierte Beroder a Fachleit, no deenen Dir sicht kënnt.",
+    "t": 368.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dir sidd also net eleng gelooss, fir ze roden, wien zouverlässeg ass.",
+    "t": 373.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosse mer iwwer eppes schwätzen, wat ech wierklech un hinnen bewonneren... d'Inklusioun.",
+    "t": 377.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jo. Hir Berodung ass fir jiddereen geduecht, egal wat Är Sprooch, Äre Budget, oder Är Hierkonft ass.",
+    "t": 381.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "A si schenken eng besonnesch Opmierksamkeet de Leit, déi am meeschten Hëllef brauchen.",
+    "t": 389.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zum Beispill, wann d'Energierechnungen schwéier ze bezuele ginn, da gëtt et Ënnerstëtzung, och iwwer d'Sozialämter.",
+    "t": 393.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat ass also net just fir Leit, déi grouss nei Heiser bauen. Et ass fir Locatairen, fir Famille mat engem knappe Budget, fir jiddereen.",
+    "t": 400.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elo gëtt et eng wichteg Warnung, déi mer weiderginn sollten, iwwer d'Vertrauen.",
+    "t": 409.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. D'Klima-Agence léisst ni privat Firmen hiren Numm oder hiert Logo notzen, fir hir Produiten ze verkafen.",
+    "t": 413.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wann Dir also eng Reklamm oder eng Noriicht gesitt, déi den Numm Klima-Agence notzt, fir e Verkaf ze pushen, da passt op... dat sinn net si.",
+    "t": 421.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Déi richteg Klima-Agence gëtt gratis, neutral Berodung. Si féiert keng Verkafskampagnen duerch aner Firmen.",
+    "t": 428.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Am Zweiwelsfall kontaktéiert d'Klima-Agence direkt, iwwer déi offiziell Telefonsnummer oder Internetsäit.",
+    "t": 435.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, loosse mer dat richteg praktesch maachen. Wéi soll een d'Klima-Agence tatsächlech notzen?",
+    "t": 441.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als éischt... ier Dir en Energieprojet ufänkt, kritt gratis Berodung. Stellt Är Froen, ier Dir Suen ausgitt.",
+    "t": 448.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens... notzt déi Online-Simulateuren, fir d'Subventiounen ze verstoen an Är Solar- oder Renovatioun ze plangen.",
+    "t": 456.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens... loosst se Iech hëllefen, déi richteg Aiden ze fannen, wéi de Klimabonus, esou datt Dir keng Ënnerstëtzung verpasst.",
+    "t": 463.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Véiertens... sicht en certifizéierte Fachmann fir déi tatsächlech Aarbecht.",
+    "t": 469.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "A fënneftens... denkt drun, datt et gratis, onofhängeg, an op Ärer Säit ass.",
+    "t": 473.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosse mer alles zesummebréngen. Wat sollen d'Leit iwwer d'Klima-Agence behalen?",
+    "t": 478.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als éischt... et ass de Lëtzebuerger nationalen Agence fir Energie a Klima, ënnerstëtzt vun der Regierung. Si huet fréier myenergy geheescht.",
+    "t": 484.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens... si gëtt gratis, onofhängeg Berodung iwwer Isolatioun, Bauen, Heizen, Solar, an Ökomobilitéit.",
+    "t": 493.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens... si hëlleft Iech, Aiden a Subventiounen ze fannen, och dat national Klimabonus-Programm.",
+    "t": 500.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Véiertens... Dir kënnt en Beroder per Telefon, per Video, oder doheem erreechen, a gratis Online-Tools notzen.",
+    "t": 506.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "A fënneftens... passt op jiddereen op, deen hiren Numm mëssbraucht, fir Iech eppes ze verkafen. De richtege Service ass gratis.",
+    "t": 513.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Energie a Klima kënnen no risege, wäite Themen ausgesinn. Mä si fänken doheem un, mat klengen, machbare Schrëtt.",
+    "t": 520.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "An Dir musst dat net alles eleng erausfannen. Et gëtt gratis, frëndlech, fachlech Hëllef, déi op Iech waart.",
+    "t": 529.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci villmools, datt Dir haut nogelauschtert hutt.",
+    "t": 536.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passt op iech op, a bis an der nächster Episod. Äddi!",
+    "t": 539.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 544.73
+   }
+  ]
  }
 ];
