@@ -55096,5 +55096,3074 @@ const EPISODES = [
    "work",
    "crossborder"
   ]
+ },
+ {
+  "id": 16,
+  "key": "adem",
+  "number": "Episode 16",
+  "title": "ADEM – Luxembourg's Employment Agency, and How It Can Help You",
+  "description": "What ADEM is, how to register as a jobseeker (online via MyGuichet.lu or in person), and the support you get — a personal advisor, the JobBoard, training and unemployment benefit — plus help for young people, people with disabilities, and employers.",
+  "audio": "podcast_adem.mp3",
+  "duration": 690.24,
+  "topics": [
+   "What ADEM is",
+   "Registering as a jobseeker",
+   "Online via MyGuichet.lu or in person",
+   "Your personal advisor",
+   "JobBoard, training & Employment Club",
+   "Unemployment benefit (now online)",
+   "Youth Guarantee & disability support",
+   "Help for employers"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's lovely to have you with us again today.",
+    "t": 2.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border workers too, to discover the country, and to feel more at home here.",
+    "t": 14.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today we are talking about something that touches almost everyone at some point in their life... work.",
+    "t": 22.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "More precisely, we are talking about ADEM.",
+    "t": 28.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "ADEM.",
+    "t": 32.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "You may have seen the name, maybe on a letter, or near one of their offices.",
+    "t": 34.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "But what exactly is it?",
+    "t": 38.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "ADEM stands for the \"Agence pour le développement de l'emploi\".",
+    "t": 41.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "In English, that means the Employment Development Agency.",
+    "t": 45.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is Luxembourg's public employment service.",
+    "t": 49.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Think of it as the official agency of the State that helps people find work, and helps employers find staff.",
+    "t": 53.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Its motto is nice and clear... \"Facilitons l'emploi\".",
+    "t": 59.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's make employment easier.",
+    "t": 64.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "So ADEM sits in the middle, between people who are looking for a job, and companies that are looking for people.",
+    "t": 67.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactly.",
+    "t": 74.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it is a public service, which means it is free to use.",
+    "t": 75.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Good to know.",
+    "t": 80.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Anna, who is ADEM actually for?",
+    "t": 82.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mainly three groups.",
+    "t": 85.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "First, jobseekers... people who are looking for work, or who want to change jobs.",
+    "t": 87.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second, employees... people who already have a job but want advice or training.",
+    "t": 93.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "And third, employers... companies and organisations that want to hire.",
+    "t": 98.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "So it really is for a lot of people.",
+    "t": 104.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Even if you have a job right now, ADEM might still be relevant one day.",
+    "t": 107.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's the key message.",
+    "t": 111.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "You don't have to wait until you are in difficulty.",
+    "t": 114.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "ADEM is there before, during, and after a job search.",
+    "t": 117.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's talk about the heart of it... registering as a jobseeker.",
+    "t": 121.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Why would someone do that?",
+    "t": 126.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "When you register, you officially say... I am looking for work, and I am available for the job market.",
+    "t": 128.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "And being \"available for the job market\" has a real meaning, doesn't it?",
+    "t": 135.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "It does.",
+    "t": 140.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "It means you can be reached easily by ADEM and by employers, and that you are ready to work for the hours you have indicated.",
+    "t": 142.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "So you register, and then a door opens to all of ADEM's help.",
+    "t": 149.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 154.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Once you are registered, you get a personal advisor, access to job offers, training, and support with your search.",
+    "t": 155.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's slow down on the personal advisor, because I think that is really important.",
+    "t": 163.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is.",
+    "t": 168.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "After your registration is approved, you are invited to a first appointment with an ADEM counsellor.",
+    "t": 169.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "This counsellor becomes your main point of contact during your whole job search.",
+    "t": 176.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "They follow your situation personally.",
+    "t": 180.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "They help you plan your steps, and they stay with you along the way.",
+    "t": 183.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "So you are not alone in front of a website.",
+    "t": 188.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is a real person who knows your file.",
+    "t": 191.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactly.",
+    "t": 194.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now, how do you actually register?",
+    "t": 196.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are two ways.",
+    "t": 199.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "The first way is online, and this is the modern, easy route.",
+    "t": 202.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "You register on MyGuichet dot lu.",
+    "t": 206.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is the State's secure online platform that we talked about in an earlier episode.",
+    "t": 209.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "The platform guides you step by step.",
+    "t": 214.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "You give information about your profile, and the kind of job you are looking for.",
+    "t": 217.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can also upload your documents directly, so everything is in one place.",
+    "t": 223.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "And to log in, you need a secure authentication device, like a LuxTrust product.",
+    "t": 228.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is the same secure login you use for many official services in Luxembourg.",
+    "t": 233.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "What if someone prefers to meet a person, face to face?",
+    "t": 238.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Then there is the second way... registering in person at an ADEM agency.",
+    "t": 242.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "For that, you first call to make an appointment.",
+    "t": 248.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "The number is the ADEM Contact Centre, on 2-4-7, 8-8-8-8-8.",
+    "t": 251.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "And ADEM has three locations... in Luxembourg City, in Esch-Belval, and in Diekirch.",
+    "t": 257.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "You'll be offered the office closest to your home.",
+    "t": 264.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Good.",
+    "t": 267.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "So whether you are more comfortable online or in person, both doors are open.",
+    "t": 269.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now, Tom, what should someone bring or prepare before registering?",
+    "t": 273.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "A few simple things.",
+    "t": 278.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "First, your social security number, which is on your social security card.",
+    "t": 280.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Make sure your identity documents are valid... your ID card, passport, or residence permit.",
+    "t": 286.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "And bring your CV, up to date, with your experience, your skills, your training, and the languages you speak.",
+    "t": 292.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you have certificates from vocational training, those are a real plus too.",
+    "t": 299.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "And here is a detail many people don't know.",
+    "t": 304.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "You can register with ADEM even if you still have a job.",
+    "t": 307.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes!",
+    "t": 311.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "As long as you meet ADEM's requirements and you can attend the appointments, you don't have to wait until you are unemployed.",
+    "t": 313.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's talk about what you actually get once you are registered.",
+    "t": 320.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "You mentioned the JobBoard.",
+    "t": 324.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "The JobBoard is ADEM's platform of job offers.",
+    "t": 327.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "As a registered jobseeker, you get access to browse vacancies and send applications.",
+    "t": 330.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "You can also upload your CV there, so employers can find you.",
+    "t": 336.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Then there are training courses and employment measures, chosen according to your profile and your needs.",
+    "t": 341.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "And there is something called the Employment Club, right?",
+    "t": 347.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 351.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "There you can use computers and get help preparing your CV.",
+    "t": 352.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Practical, hands-on support.",
+    "t": 356.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "So registration is not just a formality.",
+    "t": 359.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "It unlocks real, concrete help.",
+    "t": 363.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactly.",
+    "t": 366.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "But of course, with help come some responsibilities too.",
+    "t": 368.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's fair.",
+    "t": 372.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "When you register, you are saying you will actively look for work.",
+    "t": 374.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "So you are expected to take steps on your own... reply to job adverts, send applications, search the JobBoard, keep your CV updated.",
+    "t": 378.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "You also follow the plan you build together with your advisor, and you attend your appointments.",
+    "t": 387.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "And you tell ADEM about changes that affect your availability... a move, a new phone number, the start of a job, an illness, and so on.",
+    "t": 392.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "It's a two-way relationship.",
+    "t": 401.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "ADEM supports you, and you stay active and in contact.",
+    "t": 404.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "And there is a nice detail... as a jobseeker you are entitled to a number of leave days each year, up to twenty-five working days.",
+    "t": 408.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "During that approved leave you are exempt from your obligations to ADEM, a bit like holidays.",
+    "t": 416.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "You just have to request it in advance.",
+    "t": 422.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now let's talk about money, because many people come to ADEM for this... unemployment benefit.",
+    "t": 425.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "In French, the \"indemnité de chômage\".",
+    "t": 431.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "This is financial support if you have lost your job.",
+    "t": 434.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "And here is the important rule.",
+    "t": 438.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "To apply for unemployment benefit, you must first be registered as a jobseeker with ADEM.",
+    "t": 440.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Once your jobseeker file is open, ADEM checks automatically whether you may be entitled to benefits, based on your situation.",
+    "t": 446.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "So registration comes first... then the benefit question follows.",
+    "t": 454.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "And there is good news on how you apply.",
+    "t": 459.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Recently, applying for unemployment benefit became fully online.",
+    "t": 462.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "That means less paperwork, and time saved.",
+    "t": 467.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can do more of it from home.",
+    "t": 470.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's give some attention to younger listeners now, because Luxembourg has a special promise for them.",
+    "t": 473.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's called the Youth Guarantee.",
+    "t": 479.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "The goal is that every young person, aged fifteen to thirty, is offered a concrete solution to enter working life.",
+    "t": 481.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "And there's a clear timeframe... within four months of registering with ADEM.",
+    "t": 489.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "That solution might be a job, but it could also be training, or another step that moves you forward.",
+    "t": 493.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "So if you are young and unsure what to do next, ADEM is a very good place to start.",
+    "t": 500.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "ADEM also has dedicated support for people with a disability, or with reduced work capacity.",
+    "t": 505.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "There are special measures, internships, financial benefits, and personal guidance, to help people find or return to work.",
+    "t": 511.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "The goal is inclusion... making sure that everyone has a fair chance in the job market.",
+    "t": 519.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's not forget the other side of ADEM... the employers.",
+    "t": 524.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Right.",
+    "t": 528.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "In Luxembourg, employers are actually required to declare their vacant positions to ADEM.",
+    "t": 530.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "And in return, they get help.",
+    "t": 536.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "ADEM connects them with candidates from its pool of jobseekers.",
+    "t": 539.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Employers can also receive financial aid when they hire certain people... for example a young jobseeker, someone who has been unemployed for a long time, or a person with a disability.",
+    "t": 543.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "So ADEM doesn't just help individuals.",
+    "t": 554.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "It helps the whole job market work better.",
+    "t": 558.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is also support for international recruitment, through a service called Work in Luxembourg.",
+    "t": 561.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "That helps companies here find talent, and helps people abroad discover opportunities in the country.",
+    "t": 567.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Tom, before we finish, there is one safety point we really should mention.",
+    "t": 573.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Yes, an important one.",
+    "t": 578.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sometimes scammers send fake emails pretending to be ADEM, and they ask for money for a job or a visa.",
+    "t": 581.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Please remember this clearly... ADEM never asks you to pay for a job or a visa.",
+    "t": 587.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "The service is free.",
+    "t": 593.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "If anyone asks you for payment in ADEM's name, it is a scam.",
+    "t": 595.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Don't pay, and don't share your details.",
+    "t": 600.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "One more practical thing... languages.",
+    "t": 603.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "To deal with ADEM, you should speak at least one of Luxembourg's administrative languages... Luxembourgish, French, or German, or else English.",
+    "t": 607.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "And if you don't, you can bring someone you trust who does, to help you during your appointments.",
+    "t": 616.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "So let's bring it all together.",
+    "t": 622.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "What should people remember about ADEM?",
+    "t": 625.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "First... ADEM is Luxembourg's free, public employment service, for jobseekers, employees, and employers.",
+    "t": 627.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second... registering as a jobseeker opens the door to a personal advisor, the JobBoard, training, and support.",
+    "t": 635.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third... you register online on MyGuichet dot lu with a secure login, or in person by appointment in Luxembourg, Esch-Belval, or Diekirch.",
+    "t": 643.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fourth... to claim unemployment benefit, you must register first, and applying is now fully online.",
+    "t": 652.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fifth... there is special help for young people, through the Youth Guarantee, and for people with disabilities.",
+    "t": 659.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "And remember the safety rule... ADEM never asks for payment.",
+    "t": 665.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "A job search can feel stressful.",
+    "t": 670.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "But the message of this episode is that you don't have to do it alone.",
+    "t": 673.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "ADEM is there to walk beside you.",
+    "t": 677.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "One step at a time.",
+    "t": 680.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you for listening, and take care.",
+    "t": 683.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "See you in the next episode.",
+    "t": 686.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 688.72
+   }
+  ],
+  "questions": [
+   {
+    "text": "What is ADEM?",
+    "options": [
+     "A private recruitment company you pay to find a job",
+     "Luxembourg's free, public employment service that helps jobseekers and employers",
+     "A bank that pays out salaries",
+     "A trade union"
+    ],
+    "correct": 1,
+    "explanation": "ADEM, the “Agence pour le développement de l’emploi”, is Luxembourg's public employment service. It is free and sits between people looking for work and employers looking for staff."
+   },
+   {
+    "text": "How can you register as a jobseeker with ADEM?",
+    "options": [
+     "Only by post",
+     "Online via MyGuichet.lu with a secure login, or in person by appointment",
+     "Only by turning up without an appointment",
+     "Through your bank"
+    ],
+    "correct": 1,
+    "explanation": "You can register online on MyGuichet.lu using a secure login such as LuxTrust, or in person at one of ADEM's offices (Luxembourg, Esch-Belval or Diekirch) after booking an appointment on 247-88888."
+   },
+   {
+    "text": "What do you get once you are registered with ADEM?",
+    "options": [
+     "Nothing until you find a job yourself",
+     "A personal advisor, access to the JobBoard, training and support",
+     "A guaranteed job within one week",
+     "A free car"
+    ],
+    "correct": 1,
+    "explanation": "Registration opens the door to ADEM's services: a personal referent advisor, access to the JobBoard of vacancies, training and employment measures, and practical help such as the Employment Club."
+   },
+   {
+    "text": "What must you do before you can apply for unemployment benefit?",
+    "options": [
+     "Pay a registration fee",
+     "First register as a jobseeker with ADEM",
+     "Already have a new job",
+     "Wait two years"
+    ],
+    "correct": 1,
+    "explanation": "To apply for unemployment benefit (“indemnité de chômage”), you must first be registered as a jobseeker. ADEM then checks automatically whether you may be entitled, and applications are now fully online."
+   },
+   {
+    "text": "What does the Youth Guarantee promise young people?",
+    "options": [
+     "A free university place",
+     "A tailored solution to enter working life within four months of registering with ADEM",
+     "A cash prize",
+     "A guaranteed civil-service job"
+    ],
+    "correct": 1,
+    "explanation": "The Youth Guarantee aims to offer every young person aged 15 to 30 a concrete solution – a job, training or another step – to enter working life within four months of registering with ADEM."
+   }
+  ],
+  "categories": [
+   "work"
+  ],
+  "title_fr": "ADEM – l’Agence pour le développement de l’emploi, et comment elle peut vous aider",
+  "description_fr": "Ce qu’est l’ADEM, comment s’inscrire comme demandeur d’emploi (en ligne via MyGuichet.lu ou en personne), et l’accompagnement dont vous bénéficiez – un conseiller personnel, le JobBoard, des formations et l’indemnité de chômage – ainsi que l’aide pour les jeunes, les personnes en situation de handicap et les employeurs.",
+  "topics_fr": [
+   "Ce qu’est l’ADEM",
+   "S’inscrire comme demandeur d’emploi",
+   "En ligne via MyGuichet.lu ou en personne",
+   "Votre conseiller personnel",
+   "JobBoard, formations & Club de l’emploi",
+   "Indemnité de chômage (désormais en ligne)",
+   "Garantie Jeunesse & aide au handicap",
+   "Aide pour les employeurs"
+  ],
+  "questions_fr": [
+   {
+    "text": "Qu’est-ce que l’ADEM ?",
+    "options": [
+     "Une agence de recrutement privée que l’on paie pour trouver un emploi",
+     "Le service public de l’emploi du Luxembourg, gratuit, qui aide demandeurs d’emploi et employeurs",
+     "Une banque qui verse les salaires",
+     "Un syndicat"
+    ],
+    "correct": 1,
+    "explanation": "L’ADEM, l’« Agence pour le développement de l’emploi », est le service public de l’emploi du Luxembourg. Elle est gratuite et fait le lien entre les personnes qui cherchent un emploi et les employeurs qui cherchent du personnel."
+   },
+   {
+    "text": "Comment pouvez-vous vous inscrire comme demandeur d’emploi auprès de l’ADEM ?",
+    "options": [
+     "Uniquement par courrier",
+     "En ligne via MyGuichet.lu avec une authentification sécurisée, ou en personne sur rendez-vous",
+     "Uniquement en venant sans rendez-vous",
+     "Par l’intermédiaire de votre banque"
+    ],
+    "correct": 1,
+    "explanation": "Vous pouvez vous inscrire en ligne sur MyGuichet.lu avec une authentification sécurisée comme LuxTrust, ou en personne dans l’une des agences de l’ADEM (Luxembourg, Esch-Belval ou Diekirch) après avoir pris rendez-vous au 247-88888."
+   },
+   {
+    "text": "Que recevez-vous une fois inscrit auprès de l’ADEM ?",
+    "options": [
+     "Rien tant que vous n’avez pas trouvé un emploi par vous-même",
+     "Un conseiller personnel, l’accès au JobBoard, des formations et un accompagnement",
+     "Un emploi garanti en une semaine",
+     "Une voiture gratuite"
+    ],
+    "correct": 1,
+    "explanation": "L’inscription ouvre l’accès aux services de l’ADEM : un conseiller référent personnel, l’accès au JobBoard des offres d’emploi, des formations et des mesures pour l’emploi, ainsi qu’une aide pratique comme le Club de l’emploi."
+   },
+   {
+    "text": "Que devez-vous faire avant de pouvoir demander l’indemnité de chômage ?",
+    "options": [
+     "Payer des frais d’inscription",
+     "Vous inscrire d’abord comme demandeur d’emploi auprès de l’ADEM",
+     "Avoir déjà un nouvel emploi",
+     "Attendre deux ans"
+    ],
+    "correct": 1,
+    "explanation": "Pour demander l’indemnité de chômage, vous devez d’abord être inscrit comme demandeur d’emploi. L’ADEM vérifie ensuite automatiquement si vous pouvez y prétendre, et la demande se fait désormais entièrement en ligne."
+   },
+   {
+    "text": "Que promet la Garantie Jeunesse aux jeunes ?",
+    "options": [
+     "Une place gratuite à l’université",
+     "Une solution sur mesure pour entrer dans la vie active dans les quatre mois suivant l’inscription à l’ADEM",
+     "Un prix en argent",
+     "Un emploi garanti dans la fonction publique"
+    ],
+    "correct": 1,
+    "explanation": "La Garantie Jeunesse vise à offrir à chaque jeune de 15 à 30 ans une solution concrète – un emploi, une formation ou une autre étape – pour entrer dans la vie active dans les quatre mois suivant son inscription à l’ADEM."
+   }
+  ],
+  "title_de": "ADEM – die Agentur für Arbeitsentwicklung, und wie sie Ihnen helfen kann",
+  "description_de": "Was die ADEM ist, wie man sich als Arbeitsuchender registriert (online über MyGuichet.lu oder persönlich), und welche Unterstützung Sie erhalten – einen persönlichen Berater, das JobBoard, Weiterbildungen und das Arbeitslosengeld – sowie Hilfe für junge Menschen, Menschen mit Behinderung und Arbeitgeber.",
+  "topics_de": [
+   "Was die ADEM ist",
+   "Sich als Arbeitsuchender registrieren",
+   "Online über MyGuichet.lu oder persönlich",
+   "Ihr persönlicher Berater",
+   "JobBoard, Weiterbildung & Beschäftigungsclub",
+   "Arbeitslosengeld (jetzt online)",
+   "Jugendgarantie & Hilfe bei Behinderung",
+   "Hilfe für Arbeitgeber"
+  ],
+  "questions_de": [
+   {
+    "text": "Was ist die ADEM?",
+    "options": [
+     "Eine private Personalvermittlung, die man für die Jobsuche bezahlt",
+     "Der kostenlose, öffentliche Arbeitsvermittlungsdienst Luxemburgs, der Arbeitsuchende und Arbeitgeber unterstützt",
+     "Eine Bank, die Gehälter auszahlt",
+     "Eine Gewerkschaft"
+    ],
+    "correct": 1,
+    "explanation": "Die ADEM, die „Agence pour le développement de l’emploi“, ist der öffentliche Arbeitsvermittlungsdienst Luxemburgs. Sie ist kostenlos und vermittelt zwischen Menschen, die Arbeit suchen, und Arbeitgebern, die Personal suchen."
+   },
+   {
+    "text": "Wie können Sie sich bei der ADEM als Arbeitsuchender registrieren?",
+    "options": [
+     "Nur per Post",
+     "Online über MyGuichet.lu mit einem sicheren Login, oder persönlich nach Terminvereinbarung",
+     "Nur durch Erscheinen ohne Termin",
+     "Über Ihre Bank"
+    ],
+    "correct": 1,
+    "explanation": "Sie können sich online auf MyGuichet.lu mit einem sicheren Login wie LuxTrust registrieren, oder persönlich in einer der ADEM-Agenturen (Luxemburg, Esch-Belval oder Diekirch) nach Terminvereinbarung unter 247-88888."
+   },
+   {
+    "text": "Was erhalten Sie, sobald Sie bei der ADEM registriert sind?",
+    "options": [
+     "Nichts, bis Sie selbst eine Stelle finden",
+     "Einen persönlichen Berater, Zugang zum JobBoard, Weiterbildungen und Unterstützung",
+     "Eine garantierte Stelle innerhalb einer Woche",
+     "Ein kostenloses Auto"
+    ],
+    "correct": 1,
+    "explanation": "Die Registrierung öffnet den Zugang zu den Leistungen der ADEM: einen persönlichen Referenzberater, Zugang zum JobBoard mit Stellenangeboten, Weiterbildungen und Beschäftigungsmaßnahmen sowie praktische Hilfe wie den Beschäftigungsclub."
+   },
+   {
+    "text": "Was müssen Sie tun, bevor Sie Arbeitslosengeld beantragen können?",
+    "options": [
+     "Eine Anmeldegebühr zahlen",
+     "Sich zuerst bei der ADEM als Arbeitsuchender registrieren",
+     "Bereits eine neue Stelle haben",
+     "Zwei Jahre warten"
+    ],
+    "correct": 1,
+    "explanation": "Um Arbeitslosengeld zu beantragen, müssen Sie zuerst als Arbeitsuchender registriert sein. Die ADEM prüft dann automatisch, ob Sie Anspruch haben könnten, und der Antrag erfolgt jetzt vollständig online."
+   },
+   {
+    "text": "Was verspricht die Jugendgarantie jungen Menschen?",
+    "options": [
+     "Einen kostenlosen Studienplatz",
+     "Eine maßgeschneiderte Lösung für den Einstieg ins Berufsleben innerhalb von vier Monaten nach der Registrierung bei der ADEM",
+     "Einen Geldpreis",
+     "Eine garantierte Stelle im öffentlichen Dienst"
+    ],
+    "correct": 1,
+    "explanation": "Die Jugendgarantie soll jedem jungen Menschen zwischen 15 und 30 Jahren eine konkrete Lösung bieten – eine Stelle, eine Weiterbildung oder einen anderen Schritt – um innerhalb von vier Monaten nach der Registrierung bei der ADEM ins Berufsleben einzusteigen."
+   }
+  ],
+  "audio_fr": "podcast_adem_fr.mp3",
+  "duration_fr": 745.75,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour, et bienvenue !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous sommes vraiment heureux de vous retrouver aujourd'hui.",
+    "t": 2.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 6.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 8.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme qui parle du vivre-ensemble au Luxembourg.",
+    "t": 12.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les travailleurs frontaliers, à découvrir le pays, et à se sentir plus chez eux ici.",
+    "t": 16.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et aujourd'hui, nous parlons de quelque chose qui touche presque tout le monde à un moment de sa vie... le travail.",
+    "t": 25.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Plus précisément, nous parlons de l'ADEM.",
+    "t": 31.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'ADEM.",
+    "t": 34.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous avez peut-être déjà vu ce nom, peut-être sur un courrier, ou près d'un de leurs bureaux.",
+    "t": 36.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mais qu'est-ce que c'est, exactement ?",
+    "t": 41.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "ADEM, cela veut dire « Agence pour le développement de l'emploi ».",
+    "t": 44.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est le service public de l'emploi du Luxembourg.",
+    "t": 49.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Voyez cela comme l'agence officielle de l'État qui aide les gens à trouver du travail, et qui aide les employeurs à trouver du personnel.",
+    "t": 52.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sa devise est claire et agréable... « Facilitons l'emploi ».",
+    "t": 60
+   },
+   {
+    "speaker": "Anna",
+    "text": "Rendons l'emploi plus facile.",
+    "t": 64.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc l'ADEM se trouve au milieu, entre les personnes qui cherchent un emploi, et les entreprises qui cherchent des personnes.",
+    "t": 67.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactement.",
+    "t": 74.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et c'est un service public, ce qui veut dire qu'il est gratuit.",
+    "t": 76.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bon à savoir.",
+    "t": 80.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors, Anna, à qui s'adresse l'ADEM, en réalité ?",
+    "t": 82.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Principalement à trois groupes.",
+    "t": 86.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'abord, les demandeurs d'emploi... les personnes qui cherchent du travail, ou qui veulent changer d'emploi.",
+    "t": 89.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ensuite, les salariés... les personnes qui ont déjà un emploi mais qui veulent un conseil ou une formation.",
+    "t": 95.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et troisièmement, les employeurs... les entreprises et les organisations qui veulent embaucher.",
+    "t": 101.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc cela concerne vraiment beaucoup de monde.",
+    "t": 107.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Même si vous avez un emploi en ce moment, l'ADEM peut quand même devenir utile un jour.",
+    "t": 111.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est le message clé.",
+    "t": 116.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous n'avez pas besoin d'attendre d'être en difficulté.",
+    "t": 118.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'ADEM est là avant, pendant, et après une recherche d'emploi.",
+    "t": 122.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parlons du cœur du sujet... s'inscrire comme demandeur d'emploi.",
+    "t": 127.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pourquoi quelqu'un ferait-il cela ?",
+    "t": 131.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quand vous vous inscrivez, vous dites officiellement... je cherche du travail, et je suis disponible pour le marché de l'emploi.",
+    "t": 133.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et être « disponible pour le marché de l'emploi » a un vrai sens, n'est-ce pas ?",
+    "t": 141.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 146.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela veut dire que vous pouvez être joint facilement par l'ADEM et par les employeurs, et que vous êtes prêt à travailler pour les heures que vous avez indiquées.",
+    "t": 147.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc vous vous inscrivez, et ensuite une porte s'ouvre vers toute l'aide de l'ADEM.",
+    "t": 156.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 160.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Une fois inscrit, vous obtenez un conseiller personnel, un accès aux offres d'emploi, à des formations, et un soutien dans votre recherche.",
+    "t": 162.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Arrêtons-nous un instant sur le conseiller personnel, parce que je pense que c'est vraiment important.",
+    "t": 171.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "En effet.",
+    "t": 176.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Une fois votre inscription validée, vous êtes invité à un premier rendez-vous avec un conseiller de l'ADEM.",
+    "t": 178.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce conseiller devient votre interlocuteur principal pendant toute votre recherche d'emploi.",
+    "t": 184.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il suit votre situation personnellement.",
+    "t": 189.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous aide à planifier vos démarches, et il vous accompagne tout au long du chemin.",
+    "t": 193
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc vous n'êtes pas seul devant un site internet.",
+    "t": 198.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a une vraie personne qui connaît votre dossier.",
+    "t": 201.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactement.",
+    "t": 205.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Maintenant, comment fait-on concrètement pour s'inscrire ?",
+    "t": 206.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a deux façons.",
+    "t": 210.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "La première façon, c'est en ligne, et c'est la voie moderne et facile.",
+    "t": 212.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous vous inscrivez sur MyGuichet point lu.",
+    "t": 217.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est la plateforme en ligne sécurisée de l'État, dont nous avons parlé dans un épisode précédent.",
+    "t": 220.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "La plateforme vous guide étape par étape.",
+    "t": 226.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous donnez des informations sur votre profil, et sur le type d'emploi que vous recherchez.",
+    "t": 229.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez aussi téléverser vos documents directement, comme ça tout est au même endroit.",
+    "t": 234.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et pour vous connecter, vous avez besoin d'un dispositif d'authentification sécurisé, comme un produit LuxTrust.",
+    "t": 240.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est le même identifiant sécurisé que vous utilisez pour de nombreux services officiels au Luxembourg.",
+    "t": 247.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et si quelqu'un préfère rencontrer une personne, en face à face ?",
+    "t": 253.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors il y a la deuxième façon... s'inscrire en personne dans une agence de l'ADEM.",
+    "t": 258.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pour cela, vous appelez d'abord pour prendre rendez-vous.",
+    "t": 263.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le numéro est celui du Contact Center de l'ADEM, le 2-4-7, 8-8-8-8-8.",
+    "t": 267.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et l'ADEM a trois sites... à Luxembourg-Ville, à Esch-Belval, et à Diekirch.",
+    "t": 273.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "On vous proposera le bureau le plus proche de chez vous.",
+    "t": 279.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Très bien.",
+    "t": 282.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc, que vous soyez plus à l'aise en ligne ou en personne, les deux portes sont ouvertes.",
+    "t": 284.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Maintenant, Tom, qu'est-ce qu'on devrait apporter ou préparer avant de s'inscrire ?",
+    "t": 289.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quelques choses simples.",
+    "t": 294.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord, votre numéro de sécurité sociale, qui se trouve sur votre carte de sécurité sociale.",
+    "t": 296.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Assurez-vous que vos documents d'identité sont valables... votre carte d'identité, votre passeport, ou votre titre de séjour.",
+    "t": 303.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et apportez votre CV, à jour, avec votre expérience, vos compétences, vos formations, et les langues que vous parlez.",
+    "t": 311.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous avez des certificats de formation professionnelle, c'est aussi un vrai plus.",
+    "t": 319.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et voici un détail que beaucoup de gens ignorent.",
+    "t": 324.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous pouvez vous inscrire à l'ADEM même si vous avez encore un emploi.",
+    "t": 328.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui !",
+    "t": 332.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Tant que vous remplissez les conditions de l'ADEM et que vous pouvez vous présenter aux rendez-vous, vous n'avez pas besoin d'attendre d'être au chômage.",
+    "t": 333.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parlons de ce que vous obtenez vraiment une fois inscrit.",
+    "t": 341.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous avez mentionné le JobBoard.",
+    "t": 344.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le JobBoard est la plateforme d'offres d'emploi de l'ADEM.",
+    "t": 347.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "En tant que demandeur d'emploi inscrit, vous y avez accès pour consulter les postes vacants et envoyer des candidatures.",
+    "t": 351.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous pouvez aussi y téléverser votre CV, pour que les employeurs puissent vous trouver.",
+    "t": 358.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, il y a des formations et des mesures pour l'emploi, choisies selon votre profil et vos besoins.",
+    "t": 363.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et il y a aussi ce qu'on appelle le Club de l'emploi, c'est bien ça ?",
+    "t": 370.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 374.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Là, vous pouvez utiliser des ordinateurs et recevoir de l'aide pour préparer votre CV.",
+    "t": 375.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un soutien pratique et concret.",
+    "t": 381.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc l'inscription n'est pas qu'une formalité.",
+    "t": 384.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elle donne accès à une aide réelle et concrète.",
+    "t": 387.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactement.",
+    "t": 390.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais bien sûr, avec l'aide viennent aussi quelques responsabilités.",
+    "t": 392.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est normal.",
+    "t": 397.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quand vous vous inscrivez, vous dites que vous allez chercher activement du travail.",
+    "t": 399.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Donc on attend de vous que vous fassiez des démarches par vous-même... répondre aux annonces d'emploi, envoyer des candidatures, consulter le JobBoard, tenir votre CV à jour.",
+    "t": 403.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous suivez aussi le plan que vous construisez avec votre conseiller, et vous vous présentez à vos rendez-vous.",
+    "t": 414.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et vous informez l'ADEM des changements qui touchent votre disponibilité... un déménagement, un nouveau numéro de téléphone, le début d'un emploi, une maladie, et ainsi de suite.",
+    "t": 420.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est une relation à double sens.",
+    "t": 431.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'ADEM vous soutient, et vous restez actif et en contact.",
+    "t": 434.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il y a un détail sympathique... en tant que demandeur d'emploi, vous avez droit à un certain nombre de jours de congé chaque année, jusqu'à vingt-cinq jours ouvrables.",
+    "t": 438
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pendant ce congé approuvé, vous êtes dispensé de vos obligations envers l'ADEM, un peu comme des vacances.",
+    "t": 447.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il faut juste en faire la demande à l'avance.",
+    "t": 453.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Maintenant, parlons d'argent, parce que beaucoup de gens viennent à l'ADEM pour cela... l'indemnité de chômage.",
+    "t": 456.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "En français, l'« indemnité de chômage ».",
+    "t": 463.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est un soutien financier si vous avez perdu votre emploi.",
+    "t": 467.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et voici la règle importante.",
+    "t": 471.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pour demander l'indemnité de chômage, vous devez d'abord être inscrit comme demandeur d'emploi auprès de l'ADEM.",
+    "t": 473.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une fois votre dossier de demandeur d'emploi ouvert, l'ADEM vérifie automatiquement si vous pouvez avoir droit à des indemnités, selon votre situation.",
+    "t": 480.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Donc l'inscription vient en premier... ensuite vient la question de l'indemnité.",
+    "t": 488.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et il y a une bonne nouvelle sur la façon de faire la demande.",
+    "t": 494.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Récemment, la demande d'indemnité de chômage est devenue entièrement en ligne.",
+    "t": 497.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela veut dire moins de paperasse, et du temps gagné.",
+    "t": 502.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez en faire une plus grande partie depuis chez vous.",
+    "t": 506.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Tournons-nous maintenant vers nos auditeurs plus jeunes, parce que le Luxembourg a une promesse spéciale pour eux.",
+    "t": 509.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela s'appelle la Garantie Jeunesse.",
+    "t": 515.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'objectif, c'est que chaque jeune, âgé de quinze à trente ans, se voie proposer une solution concrète pour entrer dans la vie active.",
+    "t": 518.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et il y a un délai clair... dans les quatre mois suivant l'inscription à l'ADEM.",
+    "t": 527.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cette solution peut être un emploi, mais cela peut aussi être une formation, ou une autre étape qui vous fait avancer.",
+    "t": 531.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc si vous êtes jeune et que vous ne savez pas trop quoi faire ensuite, l'ADEM est un très bon point de départ.",
+    "t": 538.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'ADEM propose aussi un accompagnement dédié aux personnes en situation de handicap, ou avec une capacité de travail réduite.",
+    "t": 544.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a des mesures spéciales, des stages, des aides financières, et un accompagnement personnel, pour aider les personnes à trouver ou à retrouver un emploi.",
+    "t": 552.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'objectif, c'est l'inclusion... faire en sorte que chacun ait une chance équitable sur le marché de l'emploi.",
+    "t": 561.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "N'oublions pas l'autre côté de l'ADEM... les employeurs.",
+    "t": 567.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "En effet.",
+    "t": 571.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Au Luxembourg, les employeurs sont en fait tenus de déclarer leurs postes vacants à l'ADEM.",
+    "t": 573.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et en retour, ils reçoivent de l'aide.",
+    "t": 579.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'ADEM les met en relation avec des candidats issus de son vivier de demandeurs d'emploi.",
+    "t": 582.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les employeurs peuvent aussi recevoir une aide financière lorsqu'ils embauchent certaines personnes... par exemple un jeune demandeur d'emploi, une personne au chômage depuis longtemps, ou une personne en situation de handicap.",
+    "t": 587.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc l'ADEM ne se contente pas d'aider les individus.",
+    "t": 599.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elle aide tout le marché de l'emploi à mieux fonctionner.",
+    "t": 603.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a aussi un soutien pour le recrutement international, à travers un service appelé Work in Luxembourg.",
+    "t": 606.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela aide les entreprises d'ici à trouver des talents, et aide les personnes à l'étranger à découvrir des opportunités dans le pays.",
+    "t": 613.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Tom, avant de terminer, il y a un point de sécurité que nous devrions vraiment mentionner.",
+    "t": 619.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oui, un point important.",
+    "t": 625.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parfois, des escrocs envoient de faux courriels en se faisant passer pour l'ADEM, et ils demandent de l'argent pour un emploi ou un visa.",
+    "t": 628.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Retenez bien ceci... l'ADEM ne vous demande jamais de payer pour un emploi ou un visa.",
+    "t": 635.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le service est gratuit.",
+    "t": 640.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si quelqu'un vous demande un paiement au nom de l'ADEM, c'est une arnaque.",
+    "t": 643.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ne payez pas, et ne communiquez pas vos données.",
+    "t": 647.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Encore une chose pratique... les langues.",
+    "t": 651.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pour traiter avec l'ADEM, vous devriez parler au moins une des langues administratives du Luxembourg... le luxembourgeois, le français, ou l'allemand, ou alors l'anglais.",
+    "t": 654.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et si ce n'est pas le cas, vous pouvez amener une personne de confiance qui les parle, pour vous aider pendant vos rendez-vous.",
+    "t": 664.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors, rassemblons tout cela.",
+    "t": 670.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Qu'est-ce que les gens devraient retenir sur l'ADEM ?",
+    "t": 673.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Premièrement... l'ADEM est le service public de l'emploi du Luxembourg, gratuit, pour les demandeurs d'emploi, les salariés, et les employeurs.",
+    "t": 676.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deuxièmement... s'inscrire comme demandeur d'emploi ouvre la porte à un conseiller personnel, au JobBoard, à des formations, et à un soutien.",
+    "t": 685.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement... vous vous inscrivez en ligne sur MyGuichet point lu avec un identifiant sécurisé, ou en personne sur rendez-vous à Luxembourg, Esch-Belval, ou Diekirch.",
+    "t": 694.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quatrièmement... pour demander l'indemnité de chômage, vous devez d'abord vous inscrire, et la demande se fait désormais entièrement en ligne.",
+    "t": 703.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et cinquièmement... il y a une aide spéciale pour les jeunes, à travers la Garantie Jeunesse, et pour les personnes en situation de handicap.",
+    "t": 712.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et n'oubliez pas la règle de sécurité... l'ADEM ne demande jamais de paiement.",
+    "t": 719.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une recherche d'emploi peut être stressante.",
+    "t": 724.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mais le message de cet épisode, c'est que vous n'avez pas à le faire seul.",
+    "t": 727.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'ADEM est là pour marcher à vos côtés.",
+    "t": 732.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Une étape à la fois.",
+    "t": 735.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci de nous avoir écoutés, et prenez soin de vous.",
+    "t": 737.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "À bientôt dans le prochain épisode.",
+    "t": 741.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 744.15
+   }
+  ],
+  "audio_de": "podcast_adem_de.mp3",
+  "duration_de": 828.46,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schön, dass Sie heute wieder bei uns sind.",
+    "t": 2.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 6.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 8.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 11.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, das Land zu entdecken und sich hier mehr zu Hause zu fühlen.",
+    "t": 16.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und heute sprechen wir über etwas, das fast jeden irgendwann im Leben betrifft... die Arbeit.",
+    "t": 25.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genauer gesagt sprechen wir über die ADEM.",
+    "t": 32.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "ADEM.",
+    "t": 35.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vielleicht haben Sie den Namen schon gesehen, etwa auf einem Brief oder in der Nähe eines ihrer Büros.",
+    "t": 37.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aber was genau ist das?",
+    "t": 43.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "ADEM steht für die „Agence pour le développement de l'emploi\".",
+    "t": 45.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Auf Deutsch bedeutet das die Agentur für die Entwicklung der Beschäftigung.",
+    "t": 50.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist der öffentliche Arbeitsdienst Luxemburgs.",
+    "t": 55.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stellen Sie es sich als die offizielle staatliche Agentur vor, die Menschen hilft, Arbeit zu finden, und Arbeitgebern hilft, Personal zu finden.",
+    "t": 58.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ihr Motto ist schön und klar... „Facilitons l'emploi\".",
+    "t": 67.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Machen wir die Beschäftigung einfacher.",
+    "t": 72.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die ADEM steht also in der Mitte, zwischen Menschen, die einen Job suchen, und Unternehmen, die Menschen suchen.",
+    "t": 75.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau.",
+    "t": 83.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es ist ein öffentlicher Dienst, was bedeutet, dass die Nutzung kostenlos ist.",
+    "t": 84.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gut zu wissen.",
+    "t": 90.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, für wen ist die ADEM eigentlich da?",
+    "t": 92.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Hauptsächlich für drei Gruppen.",
+    "t": 96.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens, Arbeitssuchende... Menschen, die Arbeit suchen oder den Job wechseln möchten.",
+    "t": 99.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens, Arbeitnehmer... Menschen, die bereits einen Job haben, aber Beratung oder Weiterbildung wünschen.",
+    "t": 106.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und drittens, Arbeitgeber... Unternehmen und Organisationen, die einstellen möchten.",
+    "t": 114.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist also wirklich für sehr viele Menschen da.",
+    "t": 122.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Selbst wenn Sie gerade einen Job haben, könnte die ADEM eines Tages trotzdem wichtig für Sie sein.",
+    "t": 125.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist die zentrale Botschaft.",
+    "t": 131.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nicht warten, bis Sie in Schwierigkeiten sind.",
+    "t": 134.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die ADEM ist davor, währenddessen und danach für Sie da.",
+    "t": 139.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sprechen wir über den Kern der Sache... die Anmeldung als Arbeitssuchender.",
+    "t": 143.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Warum sollte das jemand tun?",
+    "t": 148.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie sich anmelden, sagen Sie offiziell... ich suche Arbeit und ich stehe dem Arbeitsmarkt zur Verfügung.",
+    "t": 151.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und „dem Arbeitsmarkt zur Verfügung stehen\" hat eine echte Bedeutung, nicht wahr?",
+    "t": 158.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 163.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es bedeutet, dass Sie von der ADEM und von Arbeitgebern leicht erreicht werden können und dass Sie bereit sind, für die von Ihnen angegebenen Stunden zu arbeiten.",
+    "t": 165.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie melden sich also an, und dann öffnet sich eine Tür zu all der Hilfe der ADEM.",
+    "t": 175.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 180.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sobald Sie angemeldet sind, bekommen Sie einen persönlichen Berater, Zugang zu Stellenangeboten, Weiterbildung und Unterstützung bei Ihrer Suche.",
+    "t": 181.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Lassen Sie uns beim persönlichen Berater kurz innehalten, denn ich finde das wirklich wichtig.",
+    "t": 191.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist es.",
+    "t": 197.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nachdem Ihre Anmeldung genehmigt wurde, werden Sie zu einem ersten Termin mit einem ADEM-Berater eingeladen.",
+    "t": 199.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dieser Berater wird während Ihrer gesamten Jobsuche Ihr wichtigster Ansprechpartner.",
+    "t": 207.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er begleitet Ihre Situation persönlich.",
+    "t": 212.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er hilft Ihnen, Ihre Schritte zu planen, und bleibt auf dem Weg an Ihrer Seite.",
+    "t": 215.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie sind also nicht allein vor einer Webseite.",
+    "t": 221.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt eine echte Person, die Ihre Akte kennt.",
+    "t": 225.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau.",
+    "t": 229.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nun, wie melden Sie sich eigentlich an?",
+    "t": 230.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt zwei Wege.",
+    "t": 234.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der erste Weg ist online, und das ist der moderne, einfache Weg.",
+    "t": 236.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie melden sich auf MyGuichet Punkt lu an.",
+    "t": 241.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist die sichere Online-Plattform des Staates, über die wir in einer früheren Folge gesprochen haben.",
+    "t": 244.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Plattform führt Sie Schritt für Schritt.",
+    "t": 251.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie geben Informationen zu Ihrem Profil und zu der Art von Job, den Sie suchen.",
+    "t": 254.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können auch Ihre Dokumente direkt hochladen, sodass alles an einem Ort ist.",
+    "t": 260.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und um sich anzumelden, brauchen Sie ein sicheres Authentifizierungsmittel, wie ein LuxTrust-Produkt.",
+    "t": 266.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist derselbe sichere Login, den Sie für viele offizielle Dienste in Luxemburg verwenden.",
+    "t": 273.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was ist, wenn jemand lieber eine Person trifft, von Angesicht zu Angesicht?",
+    "t": 279.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dann gibt es den zweiten Weg... die Anmeldung persönlich in einer ADEM-Agentur.",
+    "t": 285.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dafür rufen Sie zuerst an, um einen Termin zu vereinbaren.",
+    "t": 290.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Nummer ist das ADEM Contact Centre, unter 2-4-7, 8-8-8-8-8.",
+    "t": 295.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die ADEM hat drei Standorte... in Luxemburg-Stadt, in Esch-Belval und in Diekirch.",
+    "t": 302.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Man wird Ihnen das Büro anbieten, das Ihrem Wohnort am nächsten liegt.",
+    "t": 308.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gut.",
+    "t": 314.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ob Sie sich also online oder persönlich wohler fühlen, beide Türen stehen offen.",
+    "t": 315.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nun, Tom, was sollte jemand mitbringen oder vorbereiten, bevor er sich anmeldet?",
+    "t": 321
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ein paar einfache Dinge.",
+    "t": 327.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens, Ihre Sozialversicherungsnummer, die auf Ihrer Sozialversicherungskarte steht.",
+    "t": 330.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Stellen Sie sicher, dass Ihre Ausweisdokumente gültig sind... Ihr Personalausweis, Reisepass oder Aufenthaltstitel.",
+    "t": 336.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und bringen Sie Ihren Lebenslauf mit, auf dem neuesten Stand, mit Ihrer Erfahrung, Ihren Fähigkeiten, Ihrer Ausbildung und den Sprachen, die Sie sprechen.",
+    "t": 345.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie Zeugnisse aus einer Berufsausbildung haben, sind die auch ein echtes Plus.",
+    "t": 355.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und hier ist ein Detail, das viele Menschen nicht wissen.",
+    "t": 361.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie können sich bei der ADEM anmelden, auch wenn Sie noch einen Job haben.",
+    "t": 364.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja!",
+    "t": 369.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Solange Sie die Anforderungen der ADEM erfüllen und Sie an den Terminen teilnehmen können, müssen Sie nicht warten, bis Sie arbeitslos sind.",
+    "t": 371.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sprechen wir darüber, was Sie tatsächlich bekommen, sobald Sie angemeldet sind.",
+    "t": 380.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie haben das JobBoard erwähnt.",
+    "t": 385.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das JobBoard ist die Stellenangebots-Plattform der ADEM.",
+    "t": 388.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als angemeldeter Arbeitssuchender bekommen Sie Zugang, um Stellen zu durchsuchen und Bewerbungen zu senden.",
+    "t": 392.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie können dort auch Ihren Lebenslauf hochladen, sodass Arbeitgeber Sie finden können.",
+    "t": 400.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dann gibt es Weiterbildungskurse und Beschäftigungsmaßnahmen, ausgewählt nach Ihrem Profil und Ihren Bedürfnissen.",
+    "t": 405.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und es gibt etwas, das Beschäftigungsclub heißt, richtig?",
+    "t": 413.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 418.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dort können Sie Computer nutzen und Hilfe bei der Erstellung Ihres Lebenslaufs bekommen.",
+    "t": 419.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Praktische, handfeste Unterstützung.",
+    "t": 425.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Anmeldung ist also nicht nur eine Formalität.",
+    "t": 428.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie schaltet echte, konkrete Hilfe frei.",
+    "t": 432.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau.",
+    "t": 436.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber mit der Hilfe kommen natürlich auch einige Pflichten.",
+    "t": 437.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist fair.",
+    "t": 441.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn Sie sich anmelden, sagen Sie, dass Sie aktiv nach Arbeit suchen werden.",
+    "t": 443.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es wird also von Ihnen erwartet, dass Sie selbst Schritte unternehmen... auf Stellenanzeigen antworten, Bewerbungen senden, das JobBoard durchsuchen, Ihren Lebenslauf aktuell halten.",
+    "t": 449.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie befolgen auch den Plan, den Sie gemeinsam mit Ihrem Berater erstellen, und Sie nehmen an Ihren Terminen teil.",
+    "t": 461.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und Sie teilen der ADEM Änderungen mit, die Ihre Verfügbarkeit betreffen... ein Umzug, eine neue Telefonnummer, der Beginn eines Jobs, eine Krankheit und so weiter.",
+    "t": 468.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist eine wechselseitige Beziehung.",
+    "t": 479.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die ADEM unterstützt Sie, und Sie bleiben aktiv und in Kontakt.",
+    "t": 482.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es gibt ein schönes Detail... als Arbeitssuchender haben Sie jedes Jahr Anspruch auf eine Anzahl von Urlaubstagen, bis zu fünfundzwanzig Arbeitstage.",
+    "t": 487.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Während dieses genehmigten Urlaubs sind Sie von Ihren Pflichten gegenüber der ADEM befreit, ein bisschen wie Ferien.",
+    "t": 497.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie müssen ihn nur im Voraus beantragen.",
+    "t": 503.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir nun über Geld, denn viele Menschen kommen deswegen zur ADEM... das Arbeitslosengeld.",
+    "t": 507.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Auf Französisch die „indemnité de chômage\".",
+    "t": 514.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist eine finanzielle Unterstützung, wenn Sie Ihren Job verloren haben.",
+    "t": 517.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und hier ist die wichtige Regel.",
+    "t": 522.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Um Arbeitslosengeld zu beantragen, müssen Sie zuerst als Arbeitssuchender bei der ADEM angemeldet sein.",
+    "t": 525.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sobald Ihre Akte als Arbeitssuchender eröffnet ist, prüft die ADEM automatisch, ob Sie aufgrund Ihrer Situation einen Anspruch auf Leistungen haben.",
+    "t": 532.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Anmeldung kommt also zuerst... dann folgt die Frage nach der Leistung.",
+    "t": 542.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und es gibt gute Nachrichten dazu, wie Sie den Antrag stellen.",
+    "t": 547.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Seit Kurzem ist der Antrag auf Arbeitslosengeld vollständig online.",
+    "t": 551.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das bedeutet weniger Papierkram und gesparte Zeit.",
+    "t": 556.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können mehr davon von zu Hause aus erledigen.",
+    "t": 561.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Schenken wir nun den jüngeren Zuhörern etwas Aufmerksamkeit, denn Luxemburg hat ein besonderes Versprechen für sie.",
+    "t": 564.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es heißt die Jugendgarantie.",
+    "t": 572.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Ziel ist, dass jedem jungen Menschen, im Alter von fünfzehn bis dreißig Jahren, eine konkrete Lösung angeboten wird, um ins Berufsleben einzutreten.",
+    "t": 574.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und es gibt einen klaren Zeitrahmen... innerhalb von vier Monaten nach der Anmeldung bei der ADEM.",
+    "t": 585.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Lösung könnte ein Job sein, aber es könnte auch eine Weiterbildung sein oder ein anderer Schritt, der Sie voranbringt.",
+    "t": 591.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn Sie also jung sind und sich nicht sicher sind, was Sie als Nächstes tun sollen, ist die ADEM ein sehr guter Ausgangspunkt.",
+    "t": 600.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die ADEM hat auch eine eigene Unterstützung für Menschen mit einer Behinderung oder mit einer verminderten Arbeitsfähigkeit.",
+    "t": 607.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt besondere Maßnahmen, Praktika, finanzielle Leistungen und persönliche Begleitung, um Menschen zu helfen, Arbeit zu finden oder zurückzukehren.",
+    "t": 615.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Ziel ist Inklusion... sicherzustellen, dass jeder eine faire Chance auf dem Arbeitsmarkt hat.",
+    "t": 625.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vergessen wir nicht die andere Seite der ADEM... die Arbeitgeber.",
+    "t": 632.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Richtig.",
+    "t": 636.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "In Luxemburg sind Arbeitgeber tatsächlich verpflichtet, ihre offenen Stellen der ADEM zu melden.",
+    "t": 637.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und im Gegenzug bekommen sie Hilfe.",
+    "t": 644.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die ADEM bringt sie mit Kandidaten aus ihrem Pool von Arbeitssuchenden zusammen.",
+    "t": 647.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Arbeitgeber können auch finanzielle Hilfe bekommen, wenn sie bestimmte Menschen einstellen... zum Beispiel einen jungen Arbeitssuchenden, jemanden, der lange arbeitslos war, oder eine Person mit einer Behinderung.",
+    "t": 652.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die ADEM hilft also nicht nur Einzelpersonen.",
+    "t": 666.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie hilft dem gesamten Arbeitsmarkt, besser zu funktionieren.",
+    "t": 669.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt auch Unterstützung bei der internationalen Rekrutierung, durch einen Dienst namens Work in Luxembourg.",
+    "t": 674.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das hilft Unternehmen hier, Talente zu finden, und hilft Menschen im Ausland, Chancen im Land zu entdecken.",
+    "t": 681.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Tom, bevor wir zum Schluss kommen, gibt es einen Sicherheitshinweis, den wir wirklich erwähnen sollten.",
+    "t": 688.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ja, einen wichtigen.",
+    "t": 696.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Manchmal senden Betrüger gefälschte E-Mails und geben vor, die ADEM zu sein, und sie verlangen Geld für einen Job oder ein Visum.",
+    "t": 698.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bitte merken Sie sich das ganz klar... die ADEM verlangt niemals, dass Sie für einen Job oder ein Visum bezahlen.",
+    "t": 706.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Dienst ist kostenlos.",
+    "t": 714.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn jemand Sie im Namen der ADEM um eine Zahlung bittet, ist das Betrug.",
+    "t": 716.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zahlen Sie nicht und geben Sie Ihre Daten nicht weiter.",
+    "t": 721.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Noch eine praktische Sache... Sprachen.",
+    "t": 725.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Um mit der ADEM zu verkehren, sollten Sie mindestens eine der Verwaltungssprachen Luxemburgs sprechen... Luxemburgisch, Französisch oder Deutsch, oder sonst Englisch.",
+    "t": 729.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wenn nicht, können Sie jemanden mitbringen, dem Sie vertrauen und der das kann, um Ihnen während Ihrer Termine zu helfen.",
+    "t": 741.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fassen wir also alles zusammen.",
+    "t": 748.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was sollten sich die Menschen über die ADEM merken?",
+    "t": 751.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens... die ADEM ist der kostenlose, öffentliche Arbeitsdienst Luxemburgs, für Arbeitssuchende, Arbeitnehmer und Arbeitgeber.",
+    "t": 755.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens... die Anmeldung als Arbeitssuchender öffnet die Tür zu einem persönlichen Berater, dem JobBoard, Weiterbildung und Unterstützung.",
+    "t": 763.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens... Sie melden sich online auf MyGuichet Punkt lu mit einem sicheren Login an, oder persönlich mit einem Termin in Luxemburg, Esch-Belval oder Diekirch.",
+    "t": 773.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Viertens... um Arbeitslosengeld zu beantragen, müssen Sie sich zuerst anmelden, und der Antrag ist jetzt vollständig online.",
+    "t": 784.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und fünftens... es gibt besondere Hilfe für junge Menschen, durch die Jugendgarantie, und für Menschen mit Behinderungen.",
+    "t": 793.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und denken Sie an die Sicherheitsregel... die ADEM verlangt niemals eine Zahlung.",
+    "t": 800.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eine Jobsuche kann sich stressig anfühlen.",
+    "t": 806.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aber die Botschaft dieser Folge ist, dass Sie es nicht allein tun müssen.",
+    "t": 809.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die ADEM ist da, um an Ihrer Seite zu gehen.",
+    "t": 814.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schritt für Schritt.",
+    "t": 818.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vielen Dank fürs Zuhören, und passen Sie auf sich auf.",
+    "t": 820.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bis zur nächsten Folge.",
+    "t": 824.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 826.99
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm! Et ass wierklech flott, datt Dir haut erëm bei eis sidd.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien zesummen!",
+    "t": 5.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger hëllefen, d'Land z'entdecken, a sech hei méi doheem ze fillen.",
+    "t": 7.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "An haut schwätze mer iwwer eppes, wat bal jiddereen iergendwann a sengem Liewe betrëfft... d'Schaffen.",
+    "t": 22.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Méi genau schwätze mer iwwer d'ADEM.",
+    "t": 28.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "ADEM. Dir hutt de Numm vläicht schonn eng Kéier gesinn, vläicht op engem Bréif, oder bei engem vun hire Büroen. Mä wat ass dat genau?",
+    "t": 32.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "ADEM steet fir d'\"Agence pour le développement de l'emploi\". Op Däitsch heescht dat d'Agentur fir d'Entwécklung vun der Beschäftegung.",
+    "t": 41.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et ass de Lëtzebuerger ëffentlechen Aarbechtsservice. Stell der et als déi offiziell Agence vum Staat vir, déi de Leit hëlleft, Aarbecht ze fannen, an de Patronen hëlleft, Personal ze fannen.",
+    "t": 49.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Säi Motto ass schéin a kloer... \"Facilitons l'emploi\". Loosse mer d'Beschäftegung méi einfach maachen.",
+    "t": 59.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also sëtzt d'ADEM an der Mëtt, tëscht de Leit, déi e Job sichen, an de Firmen, déi Leit sichen.",
+    "t": 67.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau. An et ass en ëffentleche Service, wat heescht, et ass gratis.",
+    "t": 74.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gutt ze wëssen. Also Anna, fir wie ass d'ADEM eigentlech do?",
+    "t": 80.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Haaptsächlech fir dräi Gruppen. Als éischt d'Aarbechtssichend... Leit, déi Aarbecht sichen, oder déi de Job wiessele wëllen.",
+    "t": 85.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweetens d'Salariéen... Leit, déi schonn e Job hunn, mä Berodung oder eng Formatioun wëllen.",
+    "t": 93.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "An drëttens d'Patronen... Firmen an Organisatiounen, déi astelle wëllen.",
+    "t": 98.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also ass et wierklech fir vill Leit do. Och wann s du elo e Job hues, kéint d'ADEM enges Daags trotzdem wichteg fir dech sinn.",
+    "t": 104.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat ass déi wichteg Botschaft. Du muss net waarden, bis s du a Schwieregkeete bass. D'ADEM ass do virum, wärend, an no enger Jobsich.",
+    "t": 111.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer iwwer den Häerzstéck schwätzen... sech als Aarbechtssichenden umellen. Firwat géif een dat maachen?",
+    "t": 121.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wann s du dech umells, seet s du offiziell... Ech sichen Aarbecht, an ech sti fir den Aarbechtsmaart zur Verfügung.",
+    "t": 128.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "A \"fir den Aarbechtsmaart zur Verfügung stoen\" huet eng richteg Bedeitung, oder?",
+    "t": 135.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat huet et. Et heescht, datt d'ADEM an d'Patronen dech einfach erreeche kënnen, an datt s du prett bass, fir d'Stonnen ze schaffen, déi s du uginn hues.",
+    "t": 140.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also mells du dech un, an dann ëffnet sech eng Dier zu der ganzer Hëllef vun der ADEM.",
+    "t": 149.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. Wann s du eemol ugemellt bass, kriss du e perséinleche Beroder, Zougang zu Jobubueten, Formatiounen, an Ënnerstëtzung bei denger Sich.",
+    "t": 154.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer beim perséinleche Beroder lues maachen, well ech mengen, dat ass wierklech wichteg.",
+    "t": 163.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat ass et. Nodeems deng Umeldung ugeholl ass, gëss du op e éischten Rendez-vous mat engem ADEM-Beroder invitéiert.",
+    "t": 168.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dëse Beroder gëtt däin Haaptkontakt wärend denger ganzer Jobsich.",
+    "t": 176.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Hie follegt denger Situatioun perséinlech. Hien hëlleft der, deng Schrëtt ze plangen, a bleift mat der laanscht de Wee.",
+    "t": 180.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also bass du net eleng virun engem Internetsite. Et gëtt eng richteg Persoun, déi däin Dossier kennt.",
+    "t": 188.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau. Elo, wéi mells du dech eigentlech un? Et ginn zwou Méiglechkeeten.",
+    "t": 194.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Déi éischt Méiglechkeet ass online, an dat ass de moderne, einfache Wee.",
+    "t": 202.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Du mells dech op MyGuichet Punkt lu un. Dat ass déi sécher Onlineplattform vum Staat, iwwer déi mer an enger fréierer Episod geschwat hunn.",
+    "t": 206.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Plattform féiert dech Schrëtt fir Schrëtt. Du gëss Informatiounen iwwer däi Profil, an iwwer d'Aart vu Job, déi s du sichs.",
+    "t": 214.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Du kanns och deng Dokumenter direkt eroplueden, esou datt alles op enger Plaz ass.",
+    "t": 223.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "A fir dech anzeloggen, brauchs du en sécheren Authentifikatiounsgerät, wéi e LuxTrust-Produkt.",
+    "t": 228.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat ass deeselwechte séchere Login, deen s du fir vill offiziell Servicer zu Lëtzebuerg benotzs.",
+    "t": 233.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wann een léiwer eng Persoun trëfft, vis-à-vis?",
+    "t": 238.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Da gëtt et déi zweet Méiglechkeet... sech perséinlech an enger ADEM-Agence umellen.",
+    "t": 242.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dofir rufs du als éischt un, fir e Rendez-vous ze huelen. D'Nummer ass de ADEM Contact Centre, op 2-4-7, 8-8-8-8-8.",
+    "t": 248.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "An d'ADEM huet dräi Standuerter... an der Stad Lëtzebuerg, zu Esch-Belval, an zu Diekirch. Dir kritt de Büro proposéiert, dee bei Iech doheem am nootste läit.",
+    "t": 257.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gutt. Also egal ob s du dech online oder perséinlech méi wuel fills, allebéid Diere stinn op.",
+    "t": 267.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elo, Tom, wat soll een matbréngen oder virbereeden, ier een sech umellt?",
+    "t": 273.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "E puer einfach Saachen. Als éischt deng Sozialversécherungsnummer, déi op denger Sozialversécherungskaart steet.",
+    "t": 278.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vergewësser dech, datt deng Identitéitsdokumenter gülteg sinn... deng Identitéitskaart, däi Pass, oder deng Openthaltserlaabnis.",
+    "t": 286.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "A bréng däi CV mat, op den neiste Stand bruecht, mat denger Erfahrung, dengen Kompetenzen, denger Formatioun, an de Sproochen, déi s du schwätz.",
+    "t": 292.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wann s du Certificate vun enger berufflecher Formatioun hues, sinn déi och e richtege Plus.",
+    "t": 299.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "An hei ass en Detail, dee vill Leit net wëssen. Du kanns dech bei der ADEM umellen, och wann s du nach e Job hues.",
+    "t": 304.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo! Soulaang s du d'Konditioune vun der ADEM erfëlls an op d'Rendez-vouse goe kanns, muss du net waarden, bis s du arbechtslos bass.",
+    "t": 311.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer iwwer dat schwätzen, wat s du eigentlech kriss, wann s du eemol ugemellt bass. Du hues de JobBoard erwäänt.",
+    "t": 320.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "De JobBoard ass d'Plattform vun de Jobubueten vun der ADEM. Als ugemellten Aarbechtssichenden kriss du Zougang, fir fräi Stellen ze duerchsichen an dech ze bewerben.",
+    "t": 327.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Du kanns och däi CV do eroplueden, esou datt d'Patronen dech fanne kënnen.",
+    "t": 336.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Da ginn et Formatiounen a Beschäftegungsmoossnamen, déi no dengem Profil an dengen Bedierfnesser erausgesicht ginn.",
+    "t": 341.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "An et gëtt eppes, wat den Employment Club heescht, oder?",
+    "t": 347.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. Do kanns du Computere benotzen an Hëllef kréien, fir däi CV virzebereeden. Praktesch, handfest Ënnerstëtzung.",
+    "t": 351.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also ass d'Umeldung net just eng Formalitéit. Si erschléisst richteg, konkret Hëllef.",
+    "t": 359.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau. Mä natierlech kommen mat der Hëllef och e puer Flichten.",
+    "t": 366.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass fair. Wann s du dech umells, seet s du, datt s du aktiv no Aarbecht siche wäerts.",
+    "t": 372.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also gëtt erwaart, datt s du selwer Schrëtt méchs... op Jobannoncen äntweren, dech bewerben, de JobBoard duerchsichen, däi CV aktuell halen.",
+    "t": 378.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Du folleegs och dem Plang, deen s du zesumme mat dengem Beroder opbaus, an du gees op deng Rendez-vouse.",
+    "t": 387.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "An du sees der ADEM iwwer Ännerunge Bescheed, déi deng Disponibilitéit betreffen... e Plënner, eng nei Telefonsnummer, den Ufank vun engem Job, eng Krankheet, an esou weider.",
+    "t": 392.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et ass eng Bezéiung op zwou Säiten. D'ADEM ënnerstëtzt dech, an du bleifs aktiv an a Kontakt.",
+    "t": 401.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et gëtt en schéinen Detail... als Aarbechtssichenden hues du e Recht op eng gewëssen Unzuel u Congésdeeg pro Joer, bis fënnefanzwanzeg Schaffdeeg.",
+    "t": 408.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wärend deem genehmegte Congé bass du vun dengen Flichten zur ADEM befreit, e bësse wéi Vakanz. Du muss et just am Viraus ufroen.",
+    "t": 416.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elo loosse mer iwwer Suen schwätzen, well vill Leit kommen dofir bei d'ADEM... d'Chômagegeld.",
+    "t": 425.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Op Franséisch d'\"indemnité de chômage\". Dat ass eng finanziell Ënnerstëtzung, wann s du däi Job verluer hues.",
+    "t": 431.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "An hei ass déi wichteg Reegel. Fir d'Aarbechtslosegeld ze froen, muss du dech als éischt als Aarbechtssichenden bei der ADEM umellen.",
+    "t": 438.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wann däin Dossier als Aarbechtssichenden eemol op ass, kuckt d'ADEM automatesch, ob s du e Recht op Leeschtunge kéings hunn, op Basis vun denger Situatioun.",
+    "t": 446.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also kënnt d'Umeldung als éischt... an da follegt d'Fro vum Geld.",
+    "t": 454.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "An et gëtt gutt Neiegkeeten, wéi s du d'Ufro méchs. Zënter kuerzem ass d'Ufro fir d'Aarbechtslosegeld komplett online.",
+    "t": 459.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat heescht manner Pabeier a gespuerten Zäit. Du kanns méi dovun vun doheem aus maachen.",
+    "t": 467.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer elo e bësse Opmierksamkeet op déi jonk Nolauschterer leeën, well Lëtzebuerg huet eng speziell Verspriechung fir si.",
+    "t": 473.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si heescht d'Jugendgarantie. D'Zil ass, datt all jonke Mënsch, am Alter vu fofzéng bis drësseg, eng konkret Léisung ugebuede kritt, fir an d'Aarbechtsliewen anzeklammen.",
+    "t": 479.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "An et gëtt e kloren Zäitkader... bannent véier Méint nodeems s du dech bei der ADEM ugemellt hues.",
+    "t": 489.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Déi Léisung kéint e Job sinn, mä et kéint och eng Formatioun sinn, oder en aneren Schrëtt, deen dech no vir bréngt.",
+    "t": 493.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also wann s du jonk bass an net sécher bass, wat s du als Nächst maache solls, ass d'ADEM eng ganz gutt Plaz, fir unzefänken.",
+    "t": 500.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'ADEM huet och eng spezialiséiert Ënnerstëtzung fir Leit mat enger Behënnerung, oder mat enger reduzéierter Aarbechtsfäegkeet.",
+    "t": 505.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gi speziell Moossnamen, Stagen, finanziell Leeschtungen, a perséinlech Begleedung, fir de Leit ze hëllefen, Aarbecht ze fannen oder erëm an d'Aarbecht zréckzekommen.",
+    "t": 511.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Zil ass d'Inklusioun... sécherzestellen, datt jiddereen eng fair Chance um Aarbechtsmaart huet.",
+    "t": 519.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mer déi aner Säit vun der ADEM net vergiessen... d'Patronen.",
+    "t": 524.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau. Zu Lëtzebuerg sinn d'Patronen tatsächlech verflicht, hir fräi Stellen bei der ADEM ze deklaréieren.",
+    "t": 528.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "A par Retour kréie si Hëllef. D'ADEM bréngt si mat Kandidaten aus hirem Pool vun Aarbechtssichenden zesummen.",
+    "t": 536.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Patrone kënnen och finanziell Hëllef kréien, wann si gewësse Leit astellen... zum Beispill e jonken Aarbechtssichenden, een, deen zënter laangem arbechtslos ass, oder eng Persoun mat enger Behënnerung.",
+    "t": 543.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also hëlleft d'ADEM net nëmmen Eenzelpersounen. Si hëlleft, datt de ganzen Aarbechtsmaart besser funktionéiert.",
+    "t": 554.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt och Ënnerstëtzung fir international Recrutement, iwwer e Service mam Numm Work in Luxembourg.",
+    "t": 561.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dee hëlleft de Firmen hei, Talenter ze fannen, an hëlleft de Leit am Ausland, Méiglechkeeten am Land z'entdecken.",
+    "t": 567.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Tom, ier mer ophalen, gëtt et e Sécherheetspunkt, deen mer wierklech erwäine sollten.",
+    "t": 573.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jo, e wichtegen. Heiansdo schécken Escroke falsch E-Maile, déi virgewen, d'ADEM ze sinn, a si froen no Suen fir e Job oder e Visa.",
+    "t": 578.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Denkt w.e.g. kloer drun... d'ADEM freet Iech ni, fir e Job oder e Visa ze bezuelen. De Service ass gratis.",
+    "t": 587.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wann iech iergendeen am Numm vun der ADEM no enger Bezuelung freet, ass et e Bedruch. Bezuelt net, an deelt Är Donnéeën net.",
+    "t": 595.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nach eng praktesch Saach... d'Sproochen. Fir mat der ADEM ëmzegoen, sollt Dir mindestens eng vun de Verwaltungssprooche vu Lëtzebuerg schwätzen... Lëtzebuergesch, Franséisch, oder Däitsch, oder soss Englesch.",
+    "t": 603.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wann Dir dat net maacht, kënnt Dir een, deem Dir vertraut a deen et schwätzt, matbréngen, fir Iech wärend Äre Rendez-vouse ze hëllefen.",
+    "t": 616.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also loosse mer alles zesummebréngen. Wat sollen d'Leit iwwer d'ADEM behalen?",
+    "t": 622.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als éischt... d'ADEM ass de gratis, ëffentlechen Aarbechtsservice vu Lëtzebuerg, fir Aarbechtssichend, Salariéen, a Patronen.",
+    "t": 627.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens... sech als Aarbechtssichenden umellen ëffnet d'Dier zu engem perséinleche Beroder, dem JobBoard, Formatiounen, an Ënnerstëtzung.",
+    "t": 635.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens... du mells dech online op MyGuichet Punkt lu mat engem séchere Login un, oder perséinlech mat engem Rendez-vous zu Lëtzebuerg, zu Esch-Belval, oder zu Diekirch.",
+    "t": 643.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Véiertens... fir d'Aarbechtslosegeld ze froen, muss du dech als éischt umellen, an d'Ufro ass elo komplett online.",
+    "t": 652.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "A fënneftens... et gëtt speziell Hëllef fir jonk Leit, iwwer d'Jugendgarantie, a fir Leit mat Behënnerungen.",
+    "t": 659.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "An denkt un d'Sécherheetsreegel... d'ADEM freet ni no enger Bezuelung.",
+    "t": 665.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eng Jobsich kann sech stresseg ufillen. Mä d'Botschaft vun dëser Episod ass, datt s du et net eleng maache muss.",
+    "t": 670.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'ADEM ass do, fir nieft der ze goen. Ee Schrëtt no deem aneren.",
+    "t": 677.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci fir d'Nolauschteren, a passt op iech op.",
+    "t": 683.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bis d'nächst Episod. Äddi!",
+    "t": 686.17
+   }
+  ]
  }
 ];

@@ -13,6 +13,8 @@ KEYS = ["eltereforum", "benevolat", "lualert", "luxtrust", "maison_orientation",
         "digitalinclusion", "onis", "workinluxembourg"]
 LANGS = ["fr", "de"]
 BUDGET = float(sys.argv[1]) if len(sys.argv) > 1 else 40.0
+if len(sys.argv) > 2:           # optional: restrict to comma-separated keys
+    KEYS = sys.argv[2].split(",")
 
 SCRIPT_DIR = os.getcwd()
 VOICES = {
