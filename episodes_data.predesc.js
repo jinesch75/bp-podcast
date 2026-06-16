@@ -5,7 +5,7 @@ const EPISODES = [
   "key": "myguichet",
   "number": "Episode 1",
   "title": "MyGuichet.lu – Your Online Door to Luxembourg’s Administration",
-  "description": "What MyGuichet.lu is and why it matters: the Luxembourg State's secure online counter, where you can carry out administrative procedures from home. How to register with your 13-digit matricule and a secure login such as LuxTrust, the Luxembourg eID card or a European eIDAS login, what you can do in your personal eSpace, the available languages, and the mobile app.",
+  "description": "What MyGuichet.lu is, what you can do with it, and how to register with your matricule and a secure login such as LuxTrust, the Luxembourg eID or a European eIDAS login.",
   "audio": "podcast_myguichet.mp3",
   "duration": 623.88,
   "topics": [
@@ -2808,7 +2808,7 @@ const EPISODES = [
   "audio_de": "podcast_myguichet_de.mp3",
   "duration_de": 667.44,
   "title_fr": "MyGuichet.lu – votre porte d'entrée en ligne vers l'administration luxembourgeoise",
-  "description_fr": "Ce qu'est MyGuichet.lu et pourquoi c'est utile : le guichet en ligne sécurisé de l'État luxembourgeois, où vous pouvez effectuer vos démarches administratives depuis chez vous. Comment vous inscrire avec votre matricule à 13 chiffres et une authentification sécurisée comme LuxTrust, la carte eID luxembourgeoise ou une identification européenne eIDAS, ce que vous pouvez faire dans votre eSpace personnel, les langues disponibles et l'application mobile.",
+  "description_fr": "Ce qu'est MyGuichet.lu, ce que vous pouvez y faire, et comment vous inscrire avec votre matricule et une authentification sécurisée comme LuxTrust, l'eID luxembourgeoise ou une identification européenne eIDAS.",
   "topics_fr": [
    "Ce qu'est MyGuichet.lu",
    "Votre eSpace personnel",
@@ -2877,7 +2877,7 @@ const EPISODES = [
    }
   ],
   "title_de": "MyGuichet.lu – Ihr Online-Zugang zur luxemburgischen Verwaltung",
-  "description_de": "Was MyGuichet.lu ist und warum es nützlich ist: der sichere Online-Schalter des luxemburgischen Staates, an dem Sie Ihre Verwaltungsverfahren von zu Hause aus erledigen können. Wie Sie sich mit Ihrer 13-stelligen Matrikelnummer und einem sicheren Login wie LuxTrust, der luxemburgischen eID-Karte oder einem europäischen eIDAS-Login registrieren, was Sie in Ihrem persönlichen eSpace tun können, die verfügbaren Sprachen und die mobile App.",
+  "description_de": "Was MyGuichet.lu ist, was Sie damit machen können und wie Sie sich mit Ihrer Matrikelnummer und einem sicheren Login wie LuxTrust, dem luxemburgischen eID oder einem europäischen eIDAS-Login registrieren.",
   "topics_de": [
    "Was MyGuichet.lu ist",
    "Ihr persönlicher eSpace",
@@ -3023,7 +3023,7 @@ const EPISODES = [
   "key": "dsp_cns",
   "number": "Episode 2",
   "title": "Your Health, Online – The DSP and How the CNS Pays You Back",
-  "description": "Two practical things that touch everybody. First, the Dossier de Soins Partagé — your free, secure online shared health file, run by the Agence eSanté, where you control who can see it. Second, how reimbursement works with the national health insurance, the CNS: paying first and getting most of it back, the tiers payant at the pharmacy, and how to activate your eSanté account through MyGuichet.",
+  "description": "Two practical things that touch everybody: your online shared health file (Dossier de Soins Partagé) and how reimbursement works with the national health insurance, the CNS.",
   "audio": "podcast_dsp_cns.mp3",
   "duration": 592.27,
   "topics": [
@@ -5721,7 +5721,7 @@ const EPISODES = [
   "audio_de": "podcast_dsp_cns_de.mp3",
   "duration_de": 688.92,
   "title_fr": "Votre santé en ligne – le DSP et comment la CNS vous rembourse",
-  "description_fr": "Deux choses pratiques qui concernent tout le monde. D'abord, le dossier de soins partagé (DSP) : votre dossier de santé en ligne gratuit et sécurisé, géré par l'Agence eSanté, dont vous contrôlez l'accès. Ensuite, le fonctionnement des remboursements avec l'assurance maladie nationale, la CNS : payer d'abord et être remboursé en grande partie, le tiers payant à la pharmacie, et comment activer votre compte eSanté via MyGuichet.",
+  "description_fr": "Deux choses pratiques qui concernent tout le monde : votre dossier de soins partagé (DSP) en ligne et le fonctionnement des remboursements avec l'assurance maladie nationale, la CNS.",
   "topics_fr": [
    "Dossier de soins partagé (DSP)",
    "Agence eSanté",
@@ -5790,7 +5790,7 @@ const EPISODES = [
    }
   ],
   "title_de": "Ihre Gesundheit online – das DSP und wie die CNS Sie erstattet",
-  "description_de": "Zwei praktische Dinge, die alle betreffen. Erstens das Dossier de Soins Partagé: Ihre kostenlose, sichere Online-Gesundheitsakte, verwaltet von der Agence eSanté, deren Zugriff Sie selbst steuern. Zweitens, wie die Erstattung bei der nationalen Krankenkasse CNS funktioniert: zuerst zahlen und den Großteil zurückbekommen, das Tiers payant in der Apotheke, und wie Sie Ihr eSanté-Konto über MyGuichet aktivieren.",
+  "description_de": "Zwei praktische Dinge, die alle betreffen: Ihre gemeinsame elektronische Gesundheitsakte (Dossier de Soins Partagé) und wie die Erstattung bei der nationalen Krankenkasse, der CNS, funktioniert.",
   "topics_de": [
    "Dossier de Soins Partagé (DSP)",
    "Agence eSanté",
@@ -5937,7 +5937,7 @@ const EPISODES = [
   "key": "eltereforum",
   "number": "Episode 3",
   "title": "Eltereforum – Strong Parents, Strong Children",
-  "description": "A warm, welcoming network of parent forums across Luxembourg, supported by the Ministry of Education, Children and Youth. What the Eltereforum offers — meetings, courses and talks built around the idea of 'strong parents, strong children' — who it is for (all parents), where to find your regional forum, why most activities are free, and the Elteremobil that comes right to your neighbourhood.",
+  "description": "A welcoming network of parent forums in Luxembourg: what the Eltereforum offers, who runs it, where to find one, and the Elteremobil that comes to you.",
   "audio": "podcast_eltereforum.mp3",
   "duration": 596.54,
   "topics": [
@@ -8918,7 +8918,7 @@ const EPISODES = [
   "audio_fr": "podcast_eltereforum_fr.mp3",
   "duration_fr": 640.75,
   "title_fr": "Eltereforum – Des parents forts, des enfants forts",
-  "description_fr": "Un réseau chaleureux et accueillant de forums pour parents partout au Luxembourg, soutenu par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse. Ce que propose l'Eltereforum — rencontres, cours et conférences autour de l'idée « des parents forts, des enfants forts » —, à qui il s'adresse (tous les parents), où trouver votre forum régional, pourquoi la plupart des activités sont gratuites, et l'Elteremobil qui vient jusque dans votre quartier.",
+  "description_fr": "Un réseau accueillant de forums pour parents au Luxembourg : ce que propose l'Eltereforum, qui le coordonne, où en trouver un, et l'Elteremobil qui vient à vous.",
   "topics_fr": [
    "Sens d'« Eltereforum »",
    "Pour tous les parents",
@@ -8989,7 +8989,7 @@ const EPISODES = [
   "audio_de": "podcast_eltereforum_de.mp3",
   "duration_de": 689.95,
   "title_de": "Eltereforum – Starke Eltern, starke Kinder",
-  "description_de": "Ein herzliches, einladendes Netzwerk von Elternforen in ganz Luxemburg, unterstützt vom Ministerium für Bildung, Kinder und Jugend. Was das Eltereforum bietet — Treffen, Kurse und Vorträge rund um die Idee „starke Eltern, starke Kinder“ —, für wen es gedacht ist (alle Eltern), wo Sie Ihr regionales Forum finden, warum die meisten Angebote kostenlos sind, und das Elteremobil, das direkt in Ihr Viertel kommt.",
+  "description_de": "Ein einladendes Netzwerk von Elternforen in Luxemburg: was das Eltereforum bietet, wer es koordiniert, wo Sie eines finden, und das Elteremobil, das zu Ihnen kommt.",
   "topics_de": [
    "Bedeutung von „Eltereforum“",
    "Für alle Eltern",
@@ -9066,7 +9066,7 @@ const EPISODES = [
   "key": "benevolat",
   "number": "Episode 4",
   "title": "Volunteering in Luxembourg – Give the Time You Want",
-  "description": "A flexible, rewarding way to meet people and give something back to your community. What volunteering really means and why it matters in Luxembourg, where around 35% of people take part. How the Agence du Bénévolat and the benevolat.lu platform connect you with organisations, how you can start with short, one-time missions and no long-term commitment, and the dedicated voluntary service for under-30s.",
+  "description": "A flexible way to meet people and give something back: what volunteering is, why it matters, the Agence du Bénévolat and benevolat.lu, and how to start with no long-term commitment.",
   "audio": "podcast_benevolat.mp3",
   "duration": 601.46,
   "topics": [
@@ -12227,7 +12227,7 @@ const EPISODES = [
   "audio_fr": "podcast_benevolat_fr.mp3",
   "duration_fr": 654.65,
   "title_fr": "Le bénévolat au Luxembourg – Donnez le temps que vous voulez",
-  "description_fr": "Une façon souple et gratifiante de rencontrer des gens et de donner en retour à votre communauté. Ce que signifie vraiment le bénévolat et pourquoi il compte au Luxembourg, où environ 35 % des personnes s'engagent. Comment l'Agence du Bénévolat et la plateforme benevolat.lu vous mettent en relation avec des organisations, comment commencer par des missions courtes et ponctuelles sans engagement de longue durée, et le service volontaire dédié aux moins de 30 ans.",
+  "description_fr": "Une façon souple de rencontrer des gens et de donner en retour : ce qu'est le bénévolat, pourquoi il compte, l'Agence du Bénévolat et benevolat.lu, et comment commencer sans engagement de longue durée.",
   "topics_fr": [
    "Définition d'un bénévole",
    "Pourquoi le bénévolat compte",
@@ -12298,7 +12298,7 @@ const EPISODES = [
   "audio_de": "podcast_benevolat_de.mp3",
   "duration_de": 718.01,
   "title_de": "Ehrenamt in Luxemburg – Schenken Sie die Zeit, die Sie möchten",
-  "description_de": "Eine flexible, bereichernde Art, Menschen kennenzulernen und der Gemeinschaft etwas zurückzugeben. Was Ehrenamt wirklich bedeutet und warum es in Luxemburg wichtig ist, wo sich rund 35 % der Menschen engagieren. Wie die Agence du Bénévolat und die Plattform benevolat.lu Sie mit Organisationen verbinden, wie Sie mit kurzen, einmaligen Einsätzen ohne langfristige Verpflichtung beginnen, und der eigene Freiwilligendienst für unter 30-Jährige.",
+  "description_de": "Eine flexible Art, Menschen kennenzulernen und etwas zurückzugeben: was Ehrenamt ist, warum es wichtig ist, die Agence du Bénévolat und benevolat.lu, und wie Sie ohne langfristige Verpflichtung anfangen.",
   "topics_de": [
    "Definition eines Freiwilligen",
    "Warum Ehrenamt wichtig ist",
@@ -12376,7 +12376,7 @@ const EPISODES = [
   "number": "Episode 5",
   "audio": "podcast_lualert.mp3",
   "title": "LU-Alert – How Luxembourg Warns You in an Emergency",
-  "description": "Luxembourg's national public warning and information system, launched in autumn 2024. What LU-Alert is and how alerts reach your phone through Cell Broadcast, location-based SMS and the free app — with no sign-up needed. The alert levels and colours, the twelve alert categories, the languages it uses, and a simple but vital skill: how to tell a real official alert from a phishing scam.",
+  "description": "Luxembourg's national warning system: what LU-Alert is, how alerts reach your phone (Cell Broadcast, location-based SMS, the app), the alert levels and categories, the languages, and how to tell a real alert from a scam.",
   "duration": 506.43,
   "topics": [
    "What “LU-Alert” means",
@@ -15726,7 +15726,7 @@ const EPISODES = [
   "audio_fr": "podcast_lualert_fr.mp3",
   "duration_fr": 752.4,
   "title_fr": "LU-Alert – Comment le Luxembourg vous alerte en cas d'urgence",
-  "description_fr": "Le système national public d'alerte et d'information du Luxembourg, lancé à l'automne 2024. Ce qu'est LU-Alert et comment les alertes parviennent à votre téléphone via le Cell Broadcast, le SMS géolocalisé et l'application gratuite — sans aucune inscription. Les niveaux et couleurs d'alerte, les douze catégories d'alerte, les langues utilisées, et une compétence simple mais essentielle : distinguer une vraie alerte officielle d'une tentative d'hameçonnage.",
+  "description_fr": "Le système national d'alerte du Luxembourg : ce qu'est LU-Alert, comment les alertes parviennent à votre téléphone (Cell Broadcast, SMS géolocalisé, l'application), les niveaux et catégories d'alerte, les langues, et comment distinguer une vraie alerte d'une arnaque.",
   "topics_fr": [
    "Ce que signifie « LU-Alert »",
    "Cell Broadcast & SMS géolocalisé",
@@ -15797,7 +15797,7 @@ const EPISODES = [
   "audio_de": "podcast_lualert_de.mp3",
   "duration_de": 800.47,
   "title_de": "LU-Alert – Wie Luxemburg Sie im Notfall warnt",
-  "description_de": "Das nationale öffentliche Warn- und Informationssystem Luxemburgs, gestartet im Herbst 2024. Was LU-Alert ist und wie Warnungen über Cell Broadcast, standortbezogene SMS und die kostenlose App Ihr Handy erreichen — ganz ohne Anmeldung. Die Warnstufen und -farben, die zwölf Warnkategorien, die verwendeten Sprachen, und eine einfache, aber wichtige Fähigkeit: eine echte offizielle Warnung von einem Phishing-Betrug zu unterscheiden.",
+  "description_de": "Das nationale Warnsystem Luxemburgs: was LU-Alert ist, wie Warnungen Ihr Handy erreichen (Cell Broadcast, standortbezogene SMS, die App), die Warnstufen und -kategorien, die Sprachen, und wie Sie eine echte Warnung von einem Betrug unterscheiden.",
   "topics_de": [
    "Was „LU-Alert“ bedeutet",
    "Cell Broadcast & Standort-SMS",
@@ -15876,7 +15876,7 @@ const EPISODES = [
   "number": "Episode 6",
   "audio": "podcast_luxtrust.mp3",
   "title": "LuxTrust – Your Digital Identity in Luxembourg",
-  "description": "Your secure digital identity for daily life online in Luxembourg. What LuxTrust is and why it matters, and what individuals use it for — logging into online banking, MyGuichet and public services, signing documents with a legally-valid electronic signature, and confirming online payments. The different products such as the app, Scan and SmartCard, and how to order it, get identified by video, activate it and stay safe. (Briefly: businesses use it too.)",
+  "description": "Your secure digital identity for life online in Luxembourg: what LuxTrust is, what individuals use it for, the different products, and how to order, get identified and activate it. (Briefly: businesses use it too.)",
   "duration": 537.76,
   "topics": [
    "What a digital identity is",
@@ -19321,7 +19321,7 @@ const EPISODES = [
   "audio_fr": "podcast_luxtrust_fr.mp3",
   "duration_fr": 793.03,
   "title_fr": "LuxTrust – Votre identité numérique au Luxembourg",
-  "description_fr": "Votre identité numérique sécurisée pour la vie quotidienne en ligne au Luxembourg. Ce qu'est LuxTrust et pourquoi c'est important, et à quoi cela sert pour les particuliers — se connecter à la banque en ligne, à MyGuichet et aux services publics, signer des documents avec une signature électronique juridiquement valable, et confirmer des paiements en ligne. Les différents produits comme l'application, Scan et la SmartCard, et comment la commander, se faire identifier par vidéo, l'activer et rester en sécurité. (Brièvement : les entreprises l'utilisent aussi.)",
+  "description_fr": "Votre identité numérique sécurisée pour la vie en ligne au Luxembourg : ce qu'est LuxTrust, à quoi elle sert pour les particuliers, les différents produits, et comment la commander, se faire identifier et l'activer. (Brièvement : les entreprises l'utilisent aussi.)",
   "topics_fr": [
    "Ce qu'est une identité numérique",
    "Connexion à la banque en ligne",
@@ -19392,7 +19392,7 @@ const EPISODES = [
   "audio_de": "podcast_luxtrust_de.mp3",
   "duration_de": 850.27,
   "title_de": "LuxTrust – Ihre digitale Identität in Luxemburg",
-  "description_de": "Ihre sichere digitale Identität für den Online-Alltag in Luxemburg. Was LuxTrust ist und warum es wichtig ist, und wofür Privatpersonen es nutzen — Anmeldung beim Online-Banking, bei MyGuichet und bei öffentlichen Diensten, das Unterschreiben von Dokumenten mit einer rechtsgültigen elektronischen Signatur und das Bestätigen von Online-Zahlungen. Die verschiedenen Produkte wie die App, Scan und SmartCard, und wie Sie es bestellen, sich per Video identifizieren lassen, aktivieren und sicher bleiben. (Kurz: auch Unternehmen nutzen es.)",
+  "description_de": "Ihre sichere digitale Identität für das Leben online in Luxemburg: was LuxTrust ist, wofür Privatpersonen es nutzen, die verschiedenen Produkte, und wie Sie es bestellen, sich identifizieren lassen und aktivieren. (Kurz: auch Unternehmen nutzen es.)",
   "topics_de": [
    "Was eine digitale Identität ist",
    "Anmeldung beim Online-Banking",
@@ -19470,7 +19470,7 @@ const EPISODES = [
   "number": "Episode 7",
   "audio": "podcast_maison_orientation.mp3",
   "title": "The Maison de l'Orientation – One Place to Help You Choose Your Path",
-  "description": "The State's 'house of guidance' in the heart of Luxembourg City, where many school- and career-guidance services come together under one roof. How it works, the free and anonymous advice space, the interests-test coaching, and how to book an appointment via MyGuichet. It is there for young people from 14 to 22, but also for adults, jobseekers and newcomers, with help on studies, work, apprenticeships and recognising diplomas and experience.",
+  "description": "The State “house of guidance” in Luxembourg City: how it brings many school- and career-guidance services under one roof, the free anonymous advice space, the interests-test coaching, how to book via MyGuichet, and the help it offers adults and newcomers.",
   "duration": 590.6,
   "topics": [
    "A house of guidance",
@@ -22925,7 +22925,7 @@ const EPISODES = [
   "audio_fr": "podcast_maison_orientation_fr.mp3",
   "duration_fr": 842.18,
   "title_fr": "La Maison de l'orientation – un seul endroit pour vous aider à choisir votre voie",
-  "description_fr": "La « maison qui guide » de l'État, au cœur de Luxembourg-Ville, où de nombreux services d'orientation scolaire et professionnelle se réunissent sous un même toit. Comment elle fonctionne, l'espace de conseil gratuit et anonyme, le coaching avec test d'intérêts, et comment prendre rendez-vous via MyGuichet. Elle s'adresse aux jeunes de 14 à 22 ans, mais aussi aux adultes, aux demandeurs d'emploi et aux nouveaux arrivants, avec une aide sur les études, le travail, l'apprentissage et la reconnaissance des diplômes et de l'expérience.",
+  "description_fr": "La « maison qui guide » de l'État, à Luxembourg-Ville : comment elle rassemble sous un même toit de nombreux services d'orientation scolaire et professionnelle, l'espace de conseil gratuit et anonyme, le coaching avec test d'intérêts, la prise de rendez-vous via MyGuichet et l'aide qu'elle offre aux adultes et aux nouveaux arrivants.",
   "topics_fr": [
    "Une maison qui guide",
    "Un seul endroit, de nombreux services",
@@ -22996,7 +22996,7 @@ const EPISODES = [
   "audio_de": "podcast_maison_orientation_de.mp3",
   "duration_de": 940.1,
   "title_de": "Die Maison de l'orientation – ein einziger Ort, der Ihnen hilft, Ihren Weg zu wählen",
-  "description_de": "Das „Haus der Orientierung“ des Staates im Herzen von Luxemburg-Stadt, in dem viele Dienste der schulischen und beruflichen Orientierung unter einem Dach zusammenkommen. Wie es funktioniert, der kostenlose und anonyme Beratungsbereich, das Coaching mit Interessentest und wie Sie über MyGuichet einen Termin buchen. Es ist für junge Menschen von 14 bis 22 Jahren da, aber auch für Erwachsene, Arbeitsuchende und Neuankömmlinge, mit Hilfe zu Studium, Arbeit, Ausbildung und der Anerkennung von Diplomen und Erfahrung.",
+  "description_de": "Das „Haus der Orientierung“ des Staates in Luxemburg-Stadt: Wie es viele Dienste der schulischen und beruflichen Orientierung unter einem Dach zusammenbringt, der kostenlose und anonyme Beratungsbereich, das Coaching mit Interessentest, die Terminbuchung über MyGuichet und die Hilfe, die es Erwachsenen und Neuankömmlingen bietet.",
   "topics_de": [
    "Ein Haus der Orientierung",
    "Ein Ort, viele Dienste",
@@ -23075,7 +23075,7 @@ const EPISODES = [
   "number": "Episode 8",
   "audio": "podcast_infosenior.mp3",
   "title": "Info-Seniors – Finding the Right Help for Older People",
-  "description": "The State's official information portal for older people in Luxembourg, infosenior.lu, run by the Ministry of Family. At its heart is the Public Register of senior services that are approved and quality-checked — care homes, assisted living, day care, home help, meals on wheels, telecare and activities. Who it helps and how, plus support around dementia, isolation and mediation, and where to turn to find the right help for a loved one.",
+  "description": "The State's official information portal for older people in Luxembourg (infosenior.lu): its Public Register of approved, quality-checked senior services — care homes, assisted living, day care, home help, meals on wheels, telecare and activities — and who it helps and how.",
   "duration": 554.68,
   "topics": [
    "The infosenior.lu portal",
@@ -26415,7 +26415,7 @@ const EPISODES = [
   "audio_fr": "podcast_infosenior_fr.mp3",
   "duration_fr": 800.42,
   "title_fr": "Info-Seniors – trouver la bonne aide pour les personnes âgées",
-  "description_fr": "Le portail d'information officiel de l'État pour les personnes âgées au Luxembourg, infosenior.lu, géré par le ministère de la Famille. En son cœur : le Registre public des services pour personnes âgées, agréés et contrôlés en qualité — maisons de soins, logement encadré, accueil de jour, aide à domicile, repas sur roues, télévigilance et activités. Qui il aide et comment, ainsi qu'un soutien autour de la démence, de l'isolement et de la médiation, et vers qui se tourner pour trouver la bonne aide pour un proche.",
+  "description_fr": "Le portail d'information officiel de l'État pour les personnes âgées au Luxembourg (infosenior.lu) : son Registre public des services pour personnes âgées, agréés et contrôlés en qualité — maisons de soins, logement encadré, accueil de jour, aide à domicile, repas sur roues, télévigilance et activités — ainsi que les personnes qu'il aide et comment.",
   "topics_fr": [
    "Le portail infosenior.lu",
    "Géré par le ministère de la Famille",
@@ -26486,7 +26486,7 @@ const EPISODES = [
   "audio_de": "podcast_infosenior_de.mp3",
   "duration_de": 879.43,
   "title_de": "Info-Seniors – die richtige Hilfe für ältere Menschen finden",
-  "description_de": "Das offizielle Informationsportal des Staates für ältere Menschen in Luxemburg, infosenior.lu, betrieben vom Familienministerium. Im Mittelpunkt steht das Öffentliche Register der Seniorendienste, die zugelassen und auf Qualität geprüft sind — Pflegeheime, betreutes Wohnen, Tagesbetreuung, Haushaltshilfe, Essen auf Rädern, Telealarm und Aktivitäten. Wem es hilft und wie, dazu Unterstützung rund um Demenz, Isolation und Mediation, und an wen Sie sich wenden, um die richtige Hilfe für einen Angehörigen zu finden.",
+  "description_de": "Das offizielle Informationsportal des Staates für ältere Menschen in Luxemburg (infosenior.lu): sein Öffentliches Register der Seniorendienste, die zugelassen und auf Qualität geprüft sind — Pflegeheime, betreutes Wohnen, Tagesbetreuung, Haushaltshilfe, Essen auf Rädern, Telealarm und Aktivitäten — sowie wem es hilft und wie.",
   "topics_de": [
    "Das Portal infosenior.lu",
    "Vom Familienministerium betrieben",
