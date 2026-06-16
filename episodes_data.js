@@ -75689,5 +75689,6716 @@ const EPISODES = [
     "t": 515.38
    }
   ]
+ },
+ {
+  "id": 25,
+  "key": "statec",
+  "number": "Episode 25",
+  "title": "STATEC and the Statistics Portal – Luxembourg in Numbers",
+  "description": "What STATEC, Luxembourg's national statistics institute, does, its motto 'we count because you count', how it measures inflation through the consumer price index (which feeds the indexation of salaries and pensions), the population, the economy and wellbeing, and how anyone can explore the official figures for free on statistiques.public.lu.",
+  "audio": "podcast_statec.mp3",
+  "duration": 373.46,
+  "topics": [
+   "What STATEC is",
+   "Independent, trustworthy figures",
+   "Inflation & the price index",
+   "The 'index' & wage indexation",
+   "Population, GDP & jobs",
+   "The free statistics portal",
+   "Wellbeing & sustainable development",
+   "Why official data matters"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome back!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's lovely to have you with us today.",
+    "t": 2.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border workers too, to understand the country.",
+    "t": 14.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today, we are going to understand the country through numbers.",
+    "t": 21.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes!",
+    "t": 25.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "How many people live here, how prices change, how the economy is doing.",
+    "t": 27.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Facts and figures about Luxembourg.",
+    "t": 32.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "And there is one official organisation whose whole job is to measure and share these numbers.",
+    "t": 35.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is called STATEC.",
+    "t": 41.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "STATEC is Luxembourg's national statistics institute.",
+    "t": 43.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "It has a lovely motto... \"We count because you count.\"",
+    "t": 47.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "I love that.",
+    "t": 52.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "The numbers are not just for experts.",
+    "t": 54.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "They are about people, and for people.",
+    "t": 57.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Anna, what exactly does STATEC do?",
+    "t": 60.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "STATEC collects, produces and shares official statistics about Luxembourg... the population, the economy, prices, jobs, and much more.",
+    "t": 64.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "It works under the Ministry of the Economy, but its statistical work is independent.",
+    "t": 74.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "That independence matters a lot.",
+    "t": 79.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "It means the figures are neutral and trustworthy, not bent to suit anyone.",
+    "t": 82.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "So when STATEC says something, you can rely on it being measured carefully and honestly.",
+    "t": 87.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's talk about the most famous number STATEC produces... inflation.",
+    "t": 93.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Inflation is how fast prices are rising.",
+    "t": 98.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "STATEC measures it every month.",
+    "t": 101.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "It does this through the consumer price index... the price of a typical basket of goods and services that households buy.",
+    "t": 104.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Food, rent, fuel, services.",
+    "t": 111.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "They track how that basket's price changes over time.",
+    "t": 114.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "And here is why it matters so much in Luxembourg.",
+    "t": 118.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "That index is linked to the famous \"index\" system.",
+    "t": 122.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Yes.",
+    "t": 125.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "In Luxembourg, when prices rise by a certain amount, salaries and pensions are automatically increased to keep up.",
+    "t": 127.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "That automatic adjustment is called indexation.",
+    "t": 134.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it is based on STATEC's measurements.",
+    "t": 138.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "So STATEC's work touches almost every wallet in the country.",
+    "t": 141.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's remarkable.",
+    "t": 145.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "It really is.",
+    "t": 147.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "But inflation is only one of many things STATEC measures.",
+    "t": 149.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "It also counts the population... how many of us there are, where we live, how the country is growing.",
+    "t": 154.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "It measures the economy, with figures like the gross domestic product, often shortened to GDP.",
+    "t": 160.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "GDP is a measure of all that the country produces.",
+    "t": 166.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "STATEC tracks how the economy grows or slows.",
+    "t": 170.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "It also looks at jobs and wages, at housing, at education, at the environment, and much more.",
+    "t": 174.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Now, here's the question many people have.",
+    "t": 181.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Where can I actually see all this?",
+    "t": 184.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "On the official statistics portal.",
+    "t": 187.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "The website is statistiques dot public dot lu.",
+    "t": 190.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "And the best part... it is free, and open to everyone.",
+    "t": 194.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can browse tables of figures by theme, read short news releases, and explore the data yourself.",
+    "t": 198.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "There are even simple tools and simulators on the portal.",
+    "t": 204.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "For example, tools about inflation and indexation, or to compare figures across the years.",
+    "t": 208.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "So you don't have to be an economist.",
+    "t": 215.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "The portal is built for curious citizens too.",
+    "t": 218.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "STATEC also looks beyond money, at things that matter for our quality of life.",
+    "t": 222.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Yes.",
+    "t": 227.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "It publishes indicators on wellbeing, and on sustainable development.",
+    "t": 229.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Because a good society is not only about how much we produce, but about how well we live.",
+    "t": 234.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's a healthy way to look at a country... with both the head and the heart.",
+    "t": 239.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's talk about why all this matters for ordinary people, even those who never open the website.",
+    "t": 244.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "First, because good decisions need good facts.",
+    "t": 250.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Governments use these numbers to plan.",
+    "t": 254.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schools, hospitals, housing, transport... planning all of it needs to know how many people there are, and what they need.",
+    "t": 257.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second, because it keeps the public conversation honest.",
+    "t": 265.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "When people argue about the economy or prices, neutral figures give everyone a shared, factual starting point.",
+    "t": 269.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "And third, because it is your right to know.",
+    "t": 276.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "These are public facts about your own country.",
+    "t": 280.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's make this practical.",
+    "t": 283.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "How can someone actually use STATEC?",
+    "t": 286
+   },
+   {
+    "speaker": "Tom",
+    "text": "First, if you hear a claim about Luxembourg in the news, you can check the real figures on the portal.",
+    "t": 289.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second, if you're curious about prices, population or the economy, explore the tables and tools for free.",
+    "t": 295.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third, if you're a student, a journalist, or just a curious mind, it's a goldmine of reliable information.",
+    "t": 302.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fourth, remember that behind the famous \"index\" on your payslip, there is STATEC, measuring carefully.",
+    "t": 309.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's bring it all together.",
+    "t": 316.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "What should people remember about STATEC?",
+    "t": 318.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "First... STATEC is Luxembourg's national statistics institute, independent and trustworthy, with the motto \"we count because you count\".",
+    "t": 322.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second... it measures inflation, which feeds the indexation of salaries and pensions, plus population, the economy, and much more.",
+    "t": 331.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third... all of it is free to explore on the portal, statistiques dot public dot lu.",
+    "t": 339.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fourth... it even measures wellbeing and sustainable development, not just money.",
+    "t": 345.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Numbers can feel cold.",
+    "t": 350.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "But behind every figure is a real story about real people in this country.",
+    "t": 353.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "And having honest, shared facts is one of the quiet foundations of a healthy democracy.",
+    "t": 358.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening today.",
+    "t": 363.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care, and see you in the next episode.",
+    "t": 366.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 370.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 371.94
+   }
+  ],
+  "questions": [
+   {
+    "text": "What is STATEC?",
+    "options": [
+     "A private market-research firm",
+     "Luxembourg's national statistics institute, producing official figures",
+     "A bank",
+     "A tax office"
+    ],
+    "correct": 1,
+    "explanation": "STATEC is Luxembourg's national statistics institute. It collects and shares official statistics — population, economy, prices and more — and its statistical work is independent, so the figures are neutral and trustworthy. Its motto is “we count because you count.”"
+   },
+   {
+    "text": "What does STATEC's consumer price index measure?",
+    "options": [
+     "The number of shops in the country",
+     "How fast prices rise — inflation — using a typical basket of goods and services",
+     "The population",
+     "The weather"
+    ],
+    "correct": 1,
+    "explanation": "The consumer price index tracks the price of a typical basket of goods and services households buy, measuring inflation. STATEC publishes it every month."
+   },
+   {
+    "text": "In Luxembourg, what is the price index used for that touches almost every payslip?",
+    "options": [
+     "Setting shop opening hours",
+     "The automatic indexation of salaries and pensions",
+     "Choosing the national football team",
+     "Fixing fuel prices"
+    ],
+    "correct": 1,
+    "explanation": "When prices rise by a set amount, Luxembourg automatically increases salaries and pensions to keep up — this is “indexation”, and it is based on STATEC's measurements."
+   },
+   {
+    "text": "Where can the public explore Luxembourg's official statistics?",
+    "options": [
+     "Only in a paid yearbook",
+     "Free on the statistics portal, statistiques.public.lu",
+     "Only at the Ministry in person",
+     "Nowhere — they are secret"
+    ],
+    "correct": 1,
+    "explanation": "All of STATEC's statistics are free to explore on the portal, statistiques.public.lu, with tables by theme, news releases and simple tools and simulators."
+   },
+   {
+    "text": "Besides money and the economy, what else does STATEC measure?",
+    "options": [
+     "Nothing",
+     "Wellbeing and sustainable development indicators",
+     "Private bank accounts",
+     "Personal medical records"
+    ],
+    "correct": 1,
+    "explanation": "STATEC also publishes indicators on wellbeing and sustainable development, because a good society is not only about how much it produces, but about how well people live."
+   }
+  ],
+  "categories": [
+   "digital"
+  ],
+  "title_fr": "Le STATEC et le portail des statistiques – le Luxembourg en chiffres",
+  "description_fr": "Ce que fait le STATEC, l'institut national de la statistique du Luxembourg, sa devise « Nous comptons parce que vous comptez », la façon dont il mesure l'inflation grâce à l'indice des prix à la consommation (qui alimente l'indexation des salaires et des pensions), la population, l'économie et le bien-être, et comment chacun peut explorer gratuitement les chiffres officiels sur statistiques.public.lu.",
+  "topics_fr": [
+   "Ce qu'est le STATEC",
+   "Des chiffres indépendants et fiables",
+   "L'inflation et l'indice des prix",
+   "L'« index » et l'indexation des salaires",
+   "Population, PIB et emploi",
+   "Le portail gratuit des statistiques",
+   "Bien-être et développement durable",
+   "Pourquoi les données officielles comptent"
+  ],
+  "questions_fr": [
+   {
+    "text": "Qu'est-ce que le STATEC ?",
+    "options": [
+     "Un cabinet privé d'études de marché",
+     "L'institut national de la statistique du Luxembourg, qui produit les chiffres officiels",
+     "Une banque",
+     "Un bureau des impôts"
+    ],
+    "correct": 1,
+    "explanation": "Le STATEC est l'institut national de la statistique du Luxembourg. Il collecte et diffuse des statistiques officielles — population, économie, prix et bien plus — et son travail statistique est indépendant, de sorte que les chiffres sont neutres et fiables. Sa devise est « Nous comptons parce que vous comptez »."
+   },
+   {
+    "text": "Que mesure l'indice des prix à la consommation du STATEC ?",
+    "options": [
+     "Le nombre de commerces dans le pays",
+     "La vitesse à laquelle les prix augmentent — l'inflation — à l'aide d'un panier type de biens et de services",
+     "La population",
+     "La météo"
+    ],
+    "correct": 1,
+    "explanation": "L'indice des prix à la consommation suit le prix d'un panier type de biens et de services que les ménages achètent, mesurant ainsi l'inflation. Le STATEC le publie chaque mois."
+   },
+   {
+    "text": "Au Luxembourg, à quoi sert l'indice des prix, qui touche presque chaque fiche de paie ?",
+    "options": [
+     "À fixer les heures d'ouverture des commerces",
+     "À l'indexation automatique des salaires et des pensions",
+     "À choisir l'équipe nationale de football",
+     "À fixer les prix des carburants"
+    ],
+    "correct": 1,
+    "explanation": "Lorsque les prix augmentent d'un certain montant, le Luxembourg relève automatiquement les salaires et les pensions pour suivre le rythme — c'est l'« indexation », et elle repose sur les mesures du STATEC."
+   },
+   {
+    "text": "Où le public peut-il explorer les statistiques officielles du Luxembourg ?",
+    "options": [
+     "Uniquement dans un annuaire payant",
+     "Gratuitement sur le portail des statistiques, statistiques.public.lu",
+     "Uniquement au ministère, en personne",
+     "Nulle part — elles sont secrètes"
+    ],
+    "correct": 1,
+    "explanation": "Toutes les statistiques du STATEC sont consultables gratuitement sur le portail, statistiques.public.lu, avec des tableaux par thème, des communiqués de presse et des outils et simulateurs simples."
+   },
+   {
+    "text": "Outre l'argent et l'économie, que mesure aussi le STATEC ?",
+    "options": [
+     "Rien",
+     "Des indicateurs de bien-être et de développement durable",
+     "Les comptes bancaires privés",
+     "Les dossiers médicaux personnels"
+    ],
+    "correct": 1,
+    "explanation": "Le STATEC publie également des indicateurs sur le bien-être et le développement durable, car une bonne société ne se résume pas à ce qu'elle produit, mais aussi à la qualité de vie de ses habitants."
+   }
+  ],
+  "title_de": "STATEC und das Statistikportal – Luxemburg in Zahlen",
+  "description_de": "Was STATEC, das nationale Statistikinstitut Luxemburgs, leistet, sein Motto „Wir zählen, weil Sie zählen“, wie es die Inflation über den Verbraucherpreisindex misst (der in die Indexierung von Löhnen und Renten einfließt), die Bevölkerung, die Wirtschaft und das Wohlergehen, und wie jeder die offiziellen Zahlen kostenlos auf statistiques.public.lu erkunden kann.",
+  "topics_de": [
+   "Was STATEC ist",
+   "Unabhängige, vertrauenswürdige Zahlen",
+   "Inflation & der Preisindex",
+   "Der „Index“ & die Lohnindexierung",
+   "Bevölkerung, BIP & Arbeitsplätze",
+   "Das kostenlose Statistikportal",
+   "Wohlergehen & nachhaltige Entwicklung",
+   "Warum offizielle Daten zählen"
+  ],
+  "questions_de": [
+   {
+    "text": "Was ist STATEC?",
+    "options": [
+     "Ein privates Marktforschungsunternehmen",
+     "Das nationale Statistikinstitut Luxemburgs, das offizielle Zahlen erstellt",
+     "Eine Bank",
+     "Ein Finanzamt"
+    ],
+    "correct": 1,
+    "explanation": "STATEC ist das nationale Statistikinstitut Luxemburgs. Es erhebt und veröffentlicht offizielle Statistiken – zu Bevölkerung, Wirtschaft, Preisen und mehr – und seine statistische Arbeit ist unabhängig, sodass die Zahlen neutral und vertrauenswürdig sind. Sein Motto lautet „Wir zählen, weil Sie zählen“."
+   },
+   {
+    "text": "Was misst der Verbraucherpreisindex von STATEC?",
+    "options": [
+     "Die Zahl der Geschäfte im Land",
+     "Wie schnell die Preise steigen – die Inflation – anhand eines typischen Warenkorbs aus Gütern und Dienstleistungen",
+     "Die Bevölkerung",
+     "Das Wetter"
+    ],
+    "correct": 1,
+    "explanation": "Der Verbraucherpreisindex verfolgt den Preis eines typischen Warenkorbs aus Gütern und Dienstleistungen, die Haushalte kaufen, und misst so die Inflation. STATEC veröffentlicht ihn jeden Monat."
+   },
+   {
+    "text": "Wofür wird der Preisindex in Luxemburg verwendet, das fast jede Gehaltsabrechnung betrifft?",
+    "options": [
+     "Zur Festlegung der Ladenöffnungszeiten",
+     "Für die automatische Indexierung von Löhnen und Renten",
+     "Zur Auswahl der Nationalmannschaft im Fußball",
+     "Zur Festsetzung der Kraftstoffpreise"
+    ],
+    "correct": 1,
+    "explanation": "Wenn die Preise um einen bestimmten Betrag steigen, erhöht Luxemburg Löhne und Renten automatisch, um Schritt zu halten – das ist die „Indexierung“, und sie beruht auf den Messungen von STATEC."
+   },
+   {
+    "text": "Wo kann die Öffentlichkeit die offiziellen Statistiken Luxemburgs erkunden?",
+    "options": [
+     "Nur in einem kostenpflichtigen Jahrbuch",
+     "Kostenlos auf dem Statistikportal statistiques.public.lu",
+     "Nur persönlich im Ministerium",
+     "Nirgends – sie sind geheim"
+    ],
+    "correct": 1,
+    "explanation": "Alle Statistiken von STATEC können kostenlos auf dem Portal statistiques.public.lu erkundet werden, mit Tabellen nach Themen, Pressemitteilungen sowie einfachen Werkzeugen und Simulatoren."
+   },
+   {
+    "text": "Was misst STATEC neben Geld und Wirtschaft noch?",
+    "options": [
+     "Nichts",
+     "Indikatoren zu Wohlergehen und nachhaltiger Entwicklung",
+     "Private Bankkonten",
+     "Persönliche Krankenakten"
+    ],
+    "correct": 1,
+    "explanation": "STATEC veröffentlicht auch Indikatoren zu Wohlergehen und nachhaltiger Entwicklung, denn eine gute Gesellschaft zeichnet sich nicht nur dadurch aus, wie viel sie produziert, sondern dadurch, wie gut die Menschen leben."
+   }
+  ],
+  "audio_fr": "podcast_statec_fr.mp3",
+  "duration_fr": 395.54,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour, et bienvenue à nouveau !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous sommes ravis de vous compter parmi nous aujourd'hui.",
+    "t": 3.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 6.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 9.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
+    "t": 12.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, et les travailleurs frontaliers aussi, à comprendre le pays.",
+    "t": 16.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et aujourd'hui, nous allons comprendre le pays à travers les chiffres.",
+    "t": 23.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui !",
+    "t": 27.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Combien de personnes vivent ici, comment les prix évoluent, comment se porte l'économie.",
+    "t": 29.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Des faits et des chiffres sur le Luxembourg.",
+    "t": 34.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et il existe un organisme officiel dont le seul métier est de mesurer et de partager ces chiffres.",
+    "t": 38.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il s'appelle STATEC.",
+    "t": 43.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le STATEC est l'institut national de la statistique du Luxembourg.",
+    "t": 46.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il a une jolie devise... « Nous comptons parce que vous comptez ».",
+    "t": 50.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "J'adore cela.",
+    "t": 55.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les chiffres ne sont pas réservés aux experts.",
+    "t": 57.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils parlent des gens, et ils sont pour les gens.",
+    "t": 60.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Anna, que fait exactement le STATEC ?",
+    "t": 63.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le STATEC collecte, produit et partage les statistiques officielles sur le Luxembourg... la population, l'économie, les prix, l'emploi, et bien plus encore.",
+    "t": 67.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il travaille sous l'autorité du ministère de l'Économie, mais son travail statistique est indépendant.",
+    "t": 77.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cette indépendance compte beaucoup.",
+    "t": 83.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela signifie que les chiffres sont neutres et dignes de confiance, et qu'ils ne sont pas faussés pour arranger qui que ce soit.",
+    "t": 86.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc, quand le STATEC affirme quelque chose, vous pouvez être sûr que cela a été mesuré avec soin et honnêteté.",
+    "t": 93.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons du chiffre le plus célèbre que produit le STATEC... l'inflation.",
+    "t": 99.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'inflation, c'est la vitesse à laquelle les prix augmentent.",
+    "t": 104.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le STATEC la mesure chaque mois.",
+    "t": 108.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il le fait grâce à l'indice des prix à la consommation... le prix d'un panier type de biens et de services que les ménages achètent.",
+    "t": 111.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'alimentation, le loyer, le carburant, les services.",
+    "t": 118.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils suivent l'évolution du prix de ce panier au fil du temps.",
+    "t": 123.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et voici pourquoi cela compte tellement au Luxembourg.",
+    "t": 126.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet indice est lié au fameux système de l'« index ».",
+    "t": 130.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oui.",
+    "t": 134.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Au Luxembourg, quand les prix augmentent d'un certain montant, les salaires et les pensions sont automatiquement relevés pour suivre le rythme.",
+    "t": 136.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet ajustement automatique s'appelle l'indexation.",
+    "t": 143.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il repose sur les mesures du STATEC.",
+    "t": 147.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc le travail du STATEC touche presque chaque portefeuille du pays.",
+    "t": 150.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est remarquable.",
+    "t": 155.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela l'est vraiment.",
+    "t": 157.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais l'inflation n'est qu'une chose parmi tant d'autres que mesure le STATEC.",
+    "t": 159.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il compte aussi la population... combien nous sommes, où nous vivons, comment le pays grandit.",
+    "t": 163.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il mesure l'économie, avec des chiffres comme le produit intérieur brut, souvent abrégé en PIB.",
+    "t": 169.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le PIB est une mesure de tout ce que le pays produit.",
+    "t": 175.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le STATEC suit la croissance ou le ralentissement de l'économie.",
+    "t": 179.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il s'intéresse aussi à l'emploi et aux salaires, au logement, à l'éducation, à l'environnement, et bien plus encore.",
+    "t": 183.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Maintenant, voici la question que beaucoup de gens se posent.",
+    "t": 191.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Où puis-je réellement voir tout cela ?",
+    "t": 195.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sur le portail officiel des statistiques.",
+    "t": 197.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le site internet est statistiques point public point lu.",
+    "t": 201.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le meilleur... c'est gratuit, et ouvert à tout le monde.",
+    "t": 204.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez parcourir des tableaux de chiffres par thème, lire de courts communiqués, et explorer les données par vous-même.",
+    "t": 208.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a même des outils simples et des simulateurs sur le portail.",
+    "t": 216.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Par exemple, des outils sur l'inflation et l'indexation, ou pour comparer les chiffres au fil des années.",
+    "t": 220.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc vous n'avez pas besoin d'être économiste.",
+    "t": 226.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le portail est conçu aussi pour les citoyens curieux.",
+    "t": 229.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le STATEC regarde également au-delà de l'argent, vers ce qui compte pour notre qualité de vie.",
+    "t": 233.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oui.",
+    "t": 239.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il publie des indicateurs sur le bien-être, et sur le développement durable.",
+    "t": 240.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parce qu'une bonne société, ce n'est pas seulement combien nous produisons, mais combien nous vivons bien.",
+    "t": 245.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est une façon saine de regarder un pays... avec la tête et avec le cœur.",
+    "t": 251.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons de la raison pour laquelle tout cela compte pour les gens ordinaires, même ceux qui n'ouvrent jamais le site.",
+    "t": 256.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord, parce que les bonnes décisions ont besoin de bons faits.",
+    "t": 262.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les gouvernements utilisent ces chiffres pour planifier.",
+    "t": 267.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les écoles, les hôpitaux, le logement, les transports... pour planifier tout cela, il faut savoir combien de personnes il y a, et de quoi elles ont besoin.",
+    "t": 270.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ensuite, parce que cela garde le débat public honnête.",
+    "t": 280.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quand les gens débattent de l'économie ou des prix, des chiffres neutres donnent à chacun un point de départ commun et factuel.",
+    "t": 284.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et enfin, parce que c'est votre droit de savoir.",
+    "t": 291.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce sont des faits publics sur votre propre pays.",
+    "t": 294.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Rendons cela concret.",
+    "t": 298.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comment quelqu'un peut-il réellement utiliser le STATEC ?",
+    "t": 300.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord, si vous entendez une affirmation sur le Luxembourg dans l'actualité, vous pouvez vérifier les vrais chiffres sur le portail.",
+    "t": 304.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, si vous êtes curieux au sujet des prix, de la population ou de l'économie, explorez les tableaux et les outils gratuitement.",
+    "t": 311.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ensuite, si vous êtes étudiant, journaliste, ou simplement un esprit curieux, c'est une mine d'or d'informations fiables.",
+    "t": 320.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et enfin, souvenez-vous que derrière le fameux « index » sur votre fiche de paie, il y a le STATEC, qui mesure avec soin.",
+    "t": 327.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Rassemblons tout cela.",
+    "t": 335.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que faut-il retenir au sujet du STATEC ?",
+    "t": 338.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'abord... le STATEC est l'institut national de la statistique du Luxembourg, indépendant et digne de confiance, avec la devise « nous comptons parce que vous comptez ».",
+    "t": 341.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ensuite... il mesure l'inflation, qui alimente l'indexation des salaires et des pensions, ainsi que la population, l'économie, et bien plus encore.",
+    "t": 351.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite... tout cela est gratuit à explorer sur le portail, statistiques point public point lu.",
+    "t": 360.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et enfin... il mesure même le bien-être et le développement durable, pas seulement l'argent.",
+    "t": 366.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les chiffres peuvent sembler froids.",
+    "t": 372.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais derrière chaque chiffre se cache une vraie histoire de vraies personnes dans ce pays.",
+    "t": 374.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et disposer de faits honnêtes et partagés est l'un des fondements discrets d'une démocratie en bonne santé.",
+    "t": 379.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup d'avoir écouté aujourd'hui.",
+    "t": 385.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
+    "t": 388.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi !",
+    "t": 392.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi !",
+    "t": 393.94
+   }
+  ],
+  "audio_de": "podcast_statec_de.mp3",
+  "duration_de": 433.06,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen zurück!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schön, dass Sie heute bei uns sind.",
+    "t": 3.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 6.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 8.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 11.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, das Land zu verstehen.",
+    "t": 16.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und heute werden wir das Land durch Zahlen verstehen.",
+    "t": 23.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja!",
+    "t": 27.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wie viele Menschen hier leben, wie sich die Preise verändern, wie es der Wirtschaft geht.",
+    "t": 28.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fakten und Zahlen über Luxemburg.",
+    "t": 34.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und es gibt eine offizielle Einrichtung, deren ganze Aufgabe es ist, diese Zahlen zu messen und zu teilen.",
+    "t": 38.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie heißt STATEC.",
+    "t": 45.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "STATEC ist das nationale Statistikinstitut Luxemburgs.",
+    "t": 47.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es hat ein schönes Motto... „Wir zählen, weil Sie zählen\".",
+    "t": 52.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das liebe ich.",
+    "t": 57.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Zahlen sind nicht nur für Experten.",
+    "t": 59.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es geht um Menschen, und sie sind für Menschen da.",
+    "t": 62.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, was macht STATEC genau?",
+    "t": 66.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "STATEC sammelt, erstellt und teilt offizielle Statistiken über Luxemburg... die Bevölkerung, die Wirtschaft, die Preise, die Arbeitsplätze und vieles mehr.",
+    "t": 69.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es arbeitet unter dem Wirtschaftsministerium, aber seine statistische Arbeit ist unabhängig.",
+    "t": 80.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Unabhängigkeit ist sehr wichtig.",
+    "t": 86.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie bedeutet, dass die Zahlen neutral und vertrauenswürdig sind und nicht zugunsten von irgendjemandem verfälscht werden.",
+    "t": 90.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn STATEC also etwas sagt, können Sie sich darauf verlassen, dass es sorgfältig und ehrlich gemessen wurde.",
+    "t": 98.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir über die berühmteste Zahl, die STATEC erstellt... die Inflation.",
+    "t": 105.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Inflation ist, wie schnell die Preise steigen.",
+    "t": 111.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "STATEC misst sie jeden Monat.",
+    "t": 115.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es tut dies über den Verbraucherpreisindex... den Preis eines typischen Korbs von Waren und Dienstleistungen, die die Haushalte kaufen.",
+    "t": 117.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Lebensmittel, Miete, Kraftstoff, Dienstleistungen.",
+    "t": 127.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie verfolgen, wie sich der Preis dieses Korbs im Laufe der Zeit verändert.",
+    "t": 131.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und hier ist, warum das in Luxemburg so sehr zählt.",
+    "t": 136.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Index ist mit dem berühmten „Index\"-System verbunden.",
+    "t": 141.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ja.",
+    "t": 146.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "In Luxemburg werden die Löhne und Renten automatisch erhöht, um Schritt zu halten, wenn die Preise um einen bestimmten Betrag steigen.",
+    "t": 147.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese automatische Anpassung nennt man Indexierung.",
+    "t": 155.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und sie beruht auf den Messungen von STATEC.",
+    "t": 160.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Arbeit von STATEC berührt also fast jeden Geldbeutel im Land.",
+    "t": 163.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist bemerkenswert.",
+    "t": 168.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist es wirklich.",
+    "t": 170.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber die Inflation ist nur eines von vielen Dingen, die STATEC misst.",
+    "t": 172.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es zählt auch die Bevölkerung... wie viele wir sind, wo wir leben, wie das Land wächst.",
+    "t": 177.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es misst die Wirtschaft, mit Zahlen wie dem Bruttoinlandsprodukt, oft als BIP abgekürzt.",
+    "t": 183.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das BIP ist ein Maß für alles, was das Land produziert.",
+    "t": 190.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "STATEC verfolgt, wie die Wirtschaft wächst oder sich verlangsamt.",
+    "t": 195.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es betrachtet auch Arbeitsplätze und Löhne, Wohnen, Bildung, die Umwelt und vieles mehr.",
+    "t": 199.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nun, hier ist die Frage, die viele Menschen haben.",
+    "t": 206.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wo kann ich das alles eigentlich sehen?",
+    "t": 210.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Auf dem offiziellen Statistikportal.",
+    "t": 213.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Webseite ist statistiques Punkt public Punkt lu.",
+    "t": 217.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und das Beste daran... es ist kostenlos und für alle offen.",
+    "t": 221.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können Zahlentabellen nach Thema durchstöbern, kurze Pressemitteilungen lesen und die Daten selbst erkunden.",
+    "t": 225.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt sogar einfache Werkzeuge und Simulatoren auf dem Portal.",
+    "t": 233.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zum Beispiel Werkzeuge über Inflation und Indexierung, oder um Zahlen über die Jahre hinweg zu vergleichen.",
+    "t": 238.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie müssen also kein Wirtschaftswissenschaftler sein.",
+    "t": 245.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das Portal ist auch für neugierige Bürger gebaut.",
+    "t": 249.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "STATEC schaut auch über das Geld hinaus, auf Dinge, die für unsere Lebensqualität wichtig sind.",
+    "t": 253.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ja.",
+    "t": 260.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es veröffentlicht Indikatoren zum Wohlergehen und zur nachhaltigen Entwicklung.",
+    "t": 261.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Denn eine gute Gesellschaft besteht nicht nur darin, wie viel wir produzieren, sondern darin, wie gut wir leben.",
+    "t": 266.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist eine gesunde Art, ein Land zu betrachten... mit dem Kopf und mit dem Herzen.",
+    "t": 274.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir darüber, warum das alles für ganz normale Menschen wichtig ist, sogar für diejenigen, die die Webseite nie öffnen.",
+    "t": 279.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens, weil gute Entscheidungen gute Fakten brauchen.",
+    "t": 288.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Regierungen nutzen diese Zahlen zur Planung.",
+    "t": 293.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schulen, Krankenhäuser, Wohnungen, Verkehr... um all das zu planen, muss man wissen, wie viele Menschen es gibt und was sie brauchen.",
+    "t": 296.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens, weil es das öffentliche Gespräch ehrlich hält.",
+    "t": 306.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Menschen über die Wirtschaft oder die Preise streiten, geben neutrale Zahlen allen einen gemeinsamen, faktischen Ausgangspunkt.",
+    "t": 310.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und drittens, weil es Ihr Recht ist, Bescheid zu wissen.",
+    "t": 318.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das sind öffentliche Fakten über Ihr eigenes Land.",
+    "t": 323.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Machen wir das praktisch.",
+    "t": 326.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wie kann jemand STATEC tatsächlich nutzen?",
+    "t": 329.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens, wenn Sie in den Nachrichten eine Behauptung über Luxemburg hören, können Sie die echten Zahlen auf dem Portal überprüfen.",
+    "t": 332.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens, wenn Sie neugierig auf Preise, Bevölkerung oder die Wirtschaft sind, erkunden Sie die Tabellen und Werkzeuge kostenlos.",
+    "t": 340.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens, wenn Sie Student, Journalist oder einfach ein neugieriger Geist sind, ist es eine Goldgrube an verlässlichen Informationen.",
+    "t": 349.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und viertens, denken Sie daran, dass hinter dem berühmten „Index\" auf Ihrer Gehaltsabrechnung STATEC steht, das sorgfältig misst.",
+    "t": 358.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fassen wir alles zusammen.",
+    "t": 367.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was sollten sich die Menschen über STATEC merken?",
+    "t": 369.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens... STATEC ist das nationale Statistikinstitut Luxemburgs, unabhängig und vertrauenswürdig, mit dem Motto „wir zählen, weil Sie zählen\".",
+    "t": 373.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens... es misst die Inflation, die in die Indexierung der Löhne und Renten einfließt, sowie die Bevölkerung, die Wirtschaft und vieles mehr.",
+    "t": 384.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens... all das kann man kostenlos auf dem Portal erkunden, statistiques Punkt public Punkt lu.",
+    "t": 393.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und viertens... es misst sogar das Wohlergehen und die nachhaltige Entwicklung, nicht nur das Geld.",
+    "t": 400.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zahlen können sich kalt anfühlen.",
+    "t": 406.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber hinter jeder Zahl steht eine echte Geschichte über echte Menschen in diesem Land.",
+    "t": 409.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und ehrliche, gemeinsame Fakten zu haben, ist eines der stillen Fundamente einer gesunden Demokratie.",
+    "t": 415.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank, dass Sie heute zugehört haben.",
+    "t": 422.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
+    "t": 426.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 430.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 431.58
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm zréck! Et ass flott, datt Dir haut bei eis sidd.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien zesummen!",
+    "t": 5.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, d'Land ze verstoen.",
+    "t": 7.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "An haut wäerte mir d'Land duerch Zuelen verstoen.",
+    "t": 21.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo! Wéi vill Leit hei wunnen, wéi d'Präisser sech änneren, wéi et der Wirtschaft geet. Fakten an Zuelen iwwer Lëtzebuerg.",
+    "t": 25.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "An et gëtt eng offiziell Organisatioun, deenen hir ganz Aufgab et ass, dës Zuelen ze moossen an ze deelen. Si heescht STATEC.",
+    "t": 35.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "STATEC ass dat national Statistikinstitut vu Lëtzebuerg.",
+    "t": 43.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et huet e schéint Motto... „Mir zielen, well Dir zielt\".",
+    "t": 47.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat hunn ech gär. D'Zuelen sinn net nëmme fir Experten. Et geet ëm d'Leit, a si sinn fir d'Leit do.",
+    "t": 52.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, wat mécht STATEC genau?",
+    "t": 60.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "STATEC sammelt, produzéiert an deelt offiziell Statistiken iwwer Lëtzebuerg... d'Bevëlkerung, d'Wirtschaft, d'Präisser, d'Aarbechtsplazen, a vill méi.",
+    "t": 64.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et schafft ënner dem Wirtschaftsministère, awer seng statistesch Aarbecht ass onofhängeg.",
+    "t": 74.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Onofhängegkeet ass ganz wichteg. Si bedeit, datt d'Zuelen neutral an zouverlässeg sinn, an net verfälscht ginn, fir iergendengem ze gefalen.",
+    "t": 79.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also wann STATEC eppes seet, kënnt Dir Iech drop verloossen, datt et suergfälteg an éierlech gemooss gouf.",
+    "t": 87.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schwätze mir iwwert déi bekanntst Zuel, déi STATEC produzéiert... d'Inflatioun.",
+    "t": 93.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Inflatioun ass, wéi séier d'Präisser klammen. STATEC mooss se all Mount.",
+    "t": 98.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et mécht dat duerch de Verbraucherpräisindex... de Präis vun engem typesche Kuerf vu Wueren an Déngschtleeschtungen, déi d'Stéit kafen.",
+    "t": 104.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Iessen, Loyer, Brennstoff, Déngschtleeschtungen. Si verfollegen, wéi de Präis vun deem Kuerf sech mat der Zäit ännert.",
+    "t": 111.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "An hei ass, firwat dat zu Lëtzebuerg esou vill zielt. Dësen Index ass mam berühmten „Index\"-System verbonnen.",
+    "t": 118.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jo. Zu Lëtzebuerg, wann d'Präisser ëm e bestëmmte Betrag klammen, ginn d'Léin an d'Pensioune automatesch eropgesat, fir Schrëtt ze halen.",
+    "t": 125.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës automatesch Upassung heescht Indexéierung. A si baséiert op de Moossunge vum STATEC.",
+    "t": 134.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also d'Aarbecht vum STATEC beréiert bal all Portmonni am Land. Dat ass bemierkenswäert.",
+    "t": 141.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat ass et wierklech. Mä d'Inflatioun ass nëmmen eng vu ville Saachen, déi STATEC mooss.",
+    "t": 147.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et zielt och d'Bevëlkerung... wéi vill mir sinn, wou mir wunnen, wéi d'Land wiisst.",
+    "t": 154.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et mooss d'Wirtschaft, mat Zuelen wéi dem Bruttoinlandsprodukt, dacks als BIP ofgekierzt.",
+    "t": 160.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'BIP ass e Mooss fir alles, wat d'Land produzéiert. STATEC verfollegt, wéi d'Wirtschaft wiisst oder lues gëtt.",
+    "t": 166.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et kuckt och op d'Aarbechtsplazen an d'Léin, op d'Wunnen, op d'Bildung, op d'Ëmwelt, a vill méi.",
+    "t": 174.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elo, hei ass d'Fro, déi vill Leit hunn. Wou kann ech dat alles tatsächlech gesinn?",
+    "t": 181.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Um offizielle Statistikportal. D'Websäit ass statistiques Punkt public Punkt lu.",
+    "t": 187.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "An dat Bescht... et ass gratis, a fir jiddereen op.",
+    "t": 194.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dir kënnt Zuelentabellen no Thema duerchsichen, kuerz Pressematdeelunge liesen, an d'Donnéeën selwer erfuerschen.",
+    "t": 198.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt souguer einfach Tools a Simulateuren um Portal.",
+    "t": 204.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zum Beispill Tools iwwer Inflatioun an Indexéierung, oder fir Zuelen iwwer d'Joren ze vergläichen.",
+    "t": 208.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Dir musst keen Economist sinn. De Portal ass och fir virwëtzeg Bierger gebaut.",
+    "t": 215.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "STATEC kuckt och iwwert d'Geld eraus, op Saachen, déi fir eis Liewensqualitéit wichteg sinn.",
+    "t": 222.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jo. Et publizéiert Indikateuren iwwert d'Wuelbefannen, an iwwert déi nohalteg Entwécklung.",
+    "t": 227.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Well eng gutt Gesellschaft ass net nëmmen, wéi vill mir produzéieren, mä wéi gutt mir liewen.",
+    "t": 234.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass eng gesond Manéier, e Land ze kucken... mam Kapp a mam Häerz.",
+    "t": 239.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schwätze mir iwwert, firwat dat alles fir ganz normal Leit wichteg ass, souguer fir déi, déi d'Websäit ni opmaachen.",
+    "t": 244.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Éischtens, well gutt Entscheedungen gutt Fakten brauchen. D'Regierunge benotzen dës Zuelen, fir ze plangen.",
+    "t": 250.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schoulen, Spideeler, Wunnengen, Transport... fir dat alles ze plangen, muss een wëssen, wéi vill Leit et gëtt, a wat si brauchen.",
+    "t": 257.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweetens, well et d'ëffentlecht Gespréich éierlech hält.",
+    "t": 265.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wann d'Leit iwwert d'Wirtschaft oder d'Präisser sträiden, ginn neutral Zuelen jidderengem e gemeinsamen, faktesche Startpunkt.",
+    "t": 269.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "An drëttens, well et Äert Recht ass, et ze wëssen. Dat sinn ëffentlech Fakten iwwert Äert eegent Land.",
+    "t": 276.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Maache mir dat praktesch. Wéi kann een STATEC tatsächlech benotzen?",
+    "t": 283.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Éischtens, wann Dir an den Noriichten eng Behaaptung iwwer Lëtzebuerg héiert, kënnt Dir déi richteg Zuelen um Portal iwwerpréiwen.",
+    "t": 289.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens, wann Dir virwëtzeg op Präisser, Bevëlkerung oder d'Wirtschaft sidd, erfuerscht d'Tabellen an d'Tools gratis.",
+    "t": 295.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens, wann Dir Student, Journalist, oder einfach e virwëtzege Geescht sidd, ass et eng Goldgrouf vun zouverlässegen Informatiounen.",
+    "t": 302.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "A véiertens, denkt drun, datt hannert dem berühmten „Index\" op Ärer Pai de STATEC steet, deen suergfälteg mooss.",
+    "t": 309.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bréngen mir alles zesummen. Wat sollen d'Leit sech iwwer STATEC merken?",
+    "t": 316.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Éischtens... STATEC ass dat national Statistikinstitut vu Lëtzebuerg, onofhängeg an zouverlässeg, mam Motto „mir zielen, well Dir zielt\".",
+    "t": 322.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweetens... et mooss d'Inflatioun, déi an d'Indexéierung vun de Léin a Pensioune afléisst, plus d'Bevëlkerung, d'Wirtschaft, a vill méi.",
+    "t": 331.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drëttens... dat alles ass gratis ze erfuerschen um Portal, statistiques Punkt public Punkt lu.",
+    "t": 339.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "A véiertens... et mooss souguer d'Wuelbefannen an déi nohalteg Entwécklung, net nëmmen d'Geld.",
+    "t": 345.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zuelen kënnen sech kal upëtschen. Mä hannert all Zuel ass eng richteg Geschicht iwwer richteg Leit an dësem Land.",
+    "t": 350.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "An éierlech, gemeinsam Fakten ze hunn, ass ee vun de roueg Fundamenter vun enger gesonder Demokratie.",
+    "t": 358.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools merci, datt Dir haut nogelauschtert hutt.",
+    "t": 363.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passt op Iech op, a bis an der nächster Episod. Äddi!",
+    "t": 366.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 371.94
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "key": "environnement",
+  "number": "Episode 26",
+  "title": "The Environment Portal – emwelt.lu and Caring for Nature in Luxembourg",
+  "description": "What the environment portal emwelt.lu is, run by the Ministry of the Environment, Climate and Biodiversity, the areas it covers (nature, water, air, climate, waste and more), its practical services like real-time air quality, bathing-water quality and the waste-sorting guide, and how everyone can take part in protecting nature.",
+  "audio": "podcast_environnement.mp3",
+  "duration": 361.75,
+  "topics": [
+   "The emwelt.lu portal",
+   "Ministry of the Environment",
+   "Nature, water & air",
+   "Climate & energy",
+   "Waste & 'Null Offall Lëtzebuerg'",
+   "Real-time air & bathing water",
+   "Nature trails & discovery",
+   "Permits, grants & taking part"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome back!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's good to have you with us today.",
+    "t": 2.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border workers too, to feel connected to the country and to its nature.",
+    "t": 14.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today's topic is one we all share, wherever we come from... the environment.",
+    "t": 22.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "The air we breathe, the water we drink, the forests we walk in, the waste we produce.",
+    "t": 27.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "These can feel like big, distant subjects.",
+    "t": 33.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "But there is a single place that brings them all together for citizens.",
+    "t": 37.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is the environment portal of Luxembourg.",
+    "t": 41.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Its friendly name is emwelt dot lu.",
+    "t": 45.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "\"Ëmwelt\" is the Luxembourgish word for environment.",
+    "t": 48.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "So this is, simply, the environment portal.",
+    "t": 51.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "So Tom, who is behind it, and what is it for?",
+    "t": 55.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is run by the Ministry of the Environment, Climate and Biodiversity.",
+    "t": 59.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "And its purpose is to inform the public about the environment and sustainable development, and to give access to environmental services.",
+    "t": 64.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Think of it as a single doorway into everything the State does to protect nature, and how you can take part.",
+    "t": 72.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's walk through the main areas it covers, because it is wonderfully broad.",
+    "t": 79.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "The first is nature... biodiversity, our forests, the soil, and the species that live here.",
+    "t": 83.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "The portal even has a whole section on the return of the wolf to Luxembourg, which is fascinating.",
+    "t": 90.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "The second area is water... drinking water, rivers, groundwater, and wastewater.",
+    "t": 95.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can even check the quality of bathing water before you go for a swim in summer.",
+    "t": 101.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "The third area is air and noise... the quality of the air we breathe, and noise pollution.",
+    "t": 106.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "And there is a real-time air-quality service, so you can see live measurements.",
+    "t": 112.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "The fourth area is climate and energy... protecting the climate and adapting to its changes.",
+    "t": 117.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxembourg has a national energy and climate plan, and a strategy to adapt to a warming world.",
+    "t": 122.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "The fifth area is waste and resources... and this is where each of us can really make a difference.",
+    "t": 129.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes!",
+    "t": 135.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "The portal explains how to sort your waste, and the country's zero-waste strategy, \"Null Offall Lëtzebuerg\".",
+    "t": 136.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "There's even an app to help you know what goes in which bin.",
+    "t": 143.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are more areas too... chemicals and safe products, fishing and hunting, and protecting the soil.",
+    "t": 147.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "So it really is a one-stop portal for the whole environment.",
+    "t": 154.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now, let's talk about the part I find most inviting... experiencing nature.",
+    "t": 158.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "The portal points you to nature and forest centres, and to nature trails across the country.",
+    "t": 164.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "So it's not only about rules and protection.",
+    "t": 169.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's also an invitation to go outside and enjoy the natural world.",
+    "t": 173.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "And enjoying nature is often the first step to wanting to protect it.",
+    "t": 177.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "The portal is also practical, with real services for citizens and professionals.",
+    "t": 182.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is a section on environmental procedures... permits, financial aids, and official forms.",
+    "t": 187.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "So if you need an environmental permit, or a grant for a green project, you can find the way in here.",
+    "t": 193.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "And there are useful alerts too... like reporting a pollution, or checking flood information.",
+    "t": 200.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's connect this to two earlier episodes, because the picture fits together.",
+    "t": 205.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Yes.",
+    "t": 211.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "For climate and energy advice at home, there's Klima-Agence, which we covered.",
+    "t": 212.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "And for housing and land, there's the Observatoire de l'Habitat.",
+    "t": 217.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "The environment portal sits alongside them.",
+    "t": 222.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Together, they show a country thinking carefully about its future.",
+    "t": 225.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's talk about why this matters for each of us, in daily life.",
+    "t": 230.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "First, because the environment is not somewhere else.",
+    "t": 234.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is the air on your street and the water in your tap.",
+    "t": 238.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second, because small actions add up.",
+    "t": 242.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sorting waste, saving water, protecting a green space... it all counts.",
+    "t": 245.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "And third, because being informed lets you take part... in consultations, in local projects, in everyday choices.",
+    "t": 251.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "The portal even highlights calls for projects to bring more nature into our towns and villages.",
+    "t": 258.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "So this is not a passive website.",
+    "t": 264.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "It's an invitation to act, together.",
+    "t": 267.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's make it practical.",
+    "t": 270.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "How can someone use emwelt dot lu?",
+    "t": 272.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "First, before a summer swim, check the bathing-water quality.",
+    "t": 275.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Before a high-pollution day, check the air.",
+    "t": 280.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second, when in doubt about waste, use the sorting guide or the app to recycle correctly.",
+    "t": 283.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third, if you have a green project, or need an environmental permit, look up the procedures and grants.",
+    "t": 289.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fourth, to reconnect with nature, find a nearby nature trail or forest centre and simply go.",
+    "t": 296.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's bring it all together.",
+    "t": 302.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "What should people remember about the environment portal?",
+    "t": 305.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "First... emwelt dot lu is Luxembourg's one-stop environment portal, from the Ministry of the Environment, Climate and Biodiversity.",
+    "t": 309.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second... it covers nature, water, air, climate, waste, and more, with real-time information and services.",
+    "t": 317.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third... it's both protective and inviting... rules and permits, but also nature trails and discovery.",
+    "t": 325.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fourth... it shows how each of us can take part, with simple daily actions and local projects.",
+    "t": 331.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nature gives us so much, quietly, every day.",
+    "t": 337.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Caring for it is a way of caring for each other.",
+    "t": 342.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "And it starts with knowing, and then with small, steady steps.",
+    "t": 345.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening today.",
+    "t": 349.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care of yourselves and of our shared home.",
+    "t": 352.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "See you in the next episode.",
+    "t": 355.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 358.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 360.23
+   }
+  ],
+  "questions": [
+   {
+    "text": "What is emwelt.lu?",
+    "options": [
+     "An online shop for garden tools",
+     "Luxembourg's official environment portal",
+     "A weather app only",
+     "A private nature club"
+    ],
+    "correct": 1,
+    "explanation": "emwelt.lu is Luxembourg's official environment portal, run by the Ministry of the Environment, Climate and Biodiversity. It informs the public about the environment and sustainable development and gives access to environmental services. (“Ëmwelt” is Luxembourgish for “environment”.)"
+   },
+   {
+    "text": "Which of these does the environment portal cover?",
+    "options": [
+     "Only forests",
+     "Nature, water, air, climate, waste and more",
+     "Only waste",
+     "Only the weather"
+    ],
+    "correct": 1,
+    "explanation": "The portal is a one-stop doorway covering nature and biodiversity, water, air and noise, climate and energy, waste and resources, chemicals, fishing and hunting, and more."
+   },
+   {
+    "text": "What is “Null Offall Lëtzebuerg”?",
+    "options": [
+     "A football tournament",
+     "Luxembourg's zero-waste strategy",
+     "A type of tax",
+     "A nature reserve"
+    ],
+    "correct": 1,
+    "explanation": "“Null Offall Lëtzebuerg” means “Zero Waste Luxembourg” — the country's zero-waste strategy. The portal also explains how to sort your waste, and even offers an app to help."
+   },
+   {
+    "text": "Which real-time service can you find via the portal?",
+    "options": [
+     "Live air-quality and bathing-water information",
+     "Live football scores",
+     "Stock-market prices",
+     "Television programmes"
+    ],
+    "correct": 0,
+    "explanation": "The portal offers practical services such as real-time air-quality measurements and bathing-water quality, plus flood and pollution information — useful before a summer swim or on a high-pollution day."
+   },
+   {
+    "text": "Beyond rules and permits, what else does the portal encourage?",
+    "options": [
+     "Nothing",
+     "Getting outside to enjoy nature, via nature trails and forest centres",
+     "Buying more single-use plastic",
+     "Avoiding the outdoors"
+    ],
+    "correct": 1,
+    "explanation": "The portal isn't only about rules. It points you to nature and forest centres and nature trails across the country — because enjoying nature is often the first step to protecting it."
+   }
+  ],
+  "categories": [
+   "energy"
+  ],
+  "title_fr": "Le portail de l'environnement – emwelt.lu et la protection de la nature au Luxembourg",
+  "description_fr": "Ce qu'est le portail de l'environnement emwelt.lu, géré par le ministère de l'Environnement, du Climat et de la Biodiversité, les domaines qu'il couvre (nature, eau, air, climat, déchets et plus encore), ses services pratiques comme la qualité de l'air en temps réel, la qualité des eaux de baignade et le guide du tri des déchets, et comment chacun peut participer à la protection de la nature.",
+  "topics_fr": [
+   "Le portail emwelt.lu",
+   "Ministère de l'Environnement",
+   "Nature, eau et air",
+   "Climat et énergie",
+   "Déchets et « Null Offall Lëtzebuerg »",
+   "Air et eaux de baignade en temps réel",
+   "Sentiers nature et découverte",
+   "Autorisations, aides et participation"
+  ],
+  "questions_fr": [
+   {
+    "text": "Qu'est-ce qu'emwelt.lu ?",
+    "options": [
+     "Une boutique en ligne d'outils de jardinage",
+     "Le portail officiel de l'environnement du Luxembourg",
+     "Une simple application météo",
+     "Un club privé de nature"
+    ],
+    "correct": 1,
+    "explanation": "emwelt.lu est le portail officiel de l'environnement du Luxembourg, géré par le ministère de l'Environnement, du Climat et de la Biodiversité. Il informe le public sur l'environnement et le développement durable et donne accès aux services environnementaux. (« Ëmwelt » signifie « environnement » en luxembourgeois.)"
+   },
+   {
+    "text": "Lequel de ces domaines le portail de l'environnement couvre-t-il ?",
+    "options": [
+     "Uniquement les forêts",
+     "La nature, l'eau, l'air, le climat, les déchets et plus encore",
+     "Uniquement les déchets",
+     "Uniquement la météo"
+    ],
+    "correct": 1,
+    "explanation": "Le portail est une porte d'entrée unique couvrant la nature et la biodiversité, l'eau, l'air et le bruit, le climat et l'énergie, les déchets et les ressources, les produits chimiques, la pêche et la chasse, et bien plus encore."
+   },
+   {
+    "text": "Qu'est-ce que « Null Offall Lëtzebuerg » ?",
+    "options": [
+     "Un tournoi de football",
+     "La stratégie zéro déchet du Luxembourg",
+     "Un type d'impôt",
+     "Une réserve naturelle"
+    ],
+    "correct": 1,
+    "explanation": "« Null Offall Lëtzebuerg » signifie « Zéro Déchet Luxembourg » — la stratégie zéro déchet du pays. Le portail explique aussi comment trier vos déchets, et propose même une application pour vous aider."
+   },
+   {
+    "text": "Quel service en temps réel pouvez-vous trouver via le portail ?",
+    "options": [
+     "Des informations en direct sur la qualité de l'air et des eaux de baignade",
+     "Les scores de football en direct",
+     "Les cours de la Bourse",
+     "Les programmes de télévision"
+    ],
+    "correct": 0,
+    "explanation": "Le portail propose des services pratiques tels que des mesures de la qualité de l'air en temps réel et la qualité des eaux de baignade, ainsi que des informations sur les inondations et la pollution — utiles avant une baignade estivale ou lors d'un jour de forte pollution."
+   },
+   {
+    "text": "Au-delà des règles et des autorisations, à quoi le portail encourage-t-il aussi ?",
+    "options": [
+     "À rien",
+     "À sortir pour profiter de la nature, grâce aux sentiers nature et aux centres forestiers",
+     "À acheter plus de plastique à usage unique",
+     "À éviter les activités de plein air"
+    ],
+    "correct": 1,
+    "explanation": "Le portail ne traite pas seulement des règles. Il vous oriente vers les centres nature et forestiers et les sentiers nature à travers le pays — car profiter de la nature est souvent le premier pas vers sa protection."
+   }
+  ],
+  "title_de": "Das Umweltportal – emwelt.lu und der Schutz der Natur in Luxemburg",
+  "description_de": "Was das Umweltportal emwelt.lu ist, das vom Ministerium für Umwelt, Klima und Biodiversität betrieben wird, welche Bereiche es abdeckt (Natur, Wasser, Luft, Klima, Abfall und mehr), seine praktischen Dienste wie Luftqualität in Echtzeit, Badegewässerqualität und den Leitfaden zur Abfalltrennung, und wie sich jeder am Naturschutz beteiligen kann.",
+  "topics_de": [
+   "Das Portal emwelt.lu",
+   "Ministerium für Umwelt",
+   "Natur, Wasser & Luft",
+   "Klima & Energie",
+   "Abfall & „Null Offall Lëtzebuerg“",
+   "Luft & Badegewässer in Echtzeit",
+   "Naturlehrpfade & Entdeckung",
+   "Genehmigungen, Beihilfen & Mitmachen"
+  ],
+  "questions_de": [
+   {
+    "text": "Was ist emwelt.lu?",
+    "options": [
+     "Ein Onlineshop für Gartengeräte",
+     "Das offizielle Umweltportal Luxemburgs",
+     "Nur eine Wetter-App",
+     "Ein privater Naturverein"
+    ],
+    "correct": 1,
+    "explanation": "emwelt.lu ist das offizielle Umweltportal Luxemburgs, das vom Ministerium für Umwelt, Klima und Biodiversität betrieben wird. Es informiert die Öffentlichkeit über Umwelt und nachhaltige Entwicklung und bietet Zugang zu Umweltdiensten. („Ëmwelt“ ist Luxemburgisch für „Umwelt“.)"
+   },
+   {
+    "text": "Welchen dieser Bereiche deckt das Umweltportal ab?",
+    "options": [
+     "Nur Wälder",
+     "Natur, Wasser, Luft, Klima, Abfall und mehr",
+     "Nur Abfall",
+     "Nur das Wetter"
+    ],
+    "correct": 1,
+    "explanation": "Das Portal ist eine zentrale Anlaufstelle, die Natur und Biodiversität, Wasser, Luft und Lärm, Klima und Energie, Abfall und Ressourcen, Chemikalien, Fischerei und Jagd und mehr abdeckt."
+   },
+   {
+    "text": "Was ist „Null Offall Lëtzebuerg“?",
+    "options": [
+     "Ein Fußballturnier",
+     "Die Null-Abfall-Strategie Luxemburgs",
+     "Eine Steuerart",
+     "Ein Naturschutzgebiet"
+    ],
+    "correct": 1,
+    "explanation": "„Null Offall Lëtzebuerg“ bedeutet „Null Abfall Luxemburg“ – die Null-Abfall-Strategie des Landes. Das Portal erklärt außerdem, wie man seinen Abfall trennt, und bietet sogar eine App als Hilfe an."
+   },
+   {
+    "text": "Welchen Echtzeit-Dienst finden Sie über das Portal?",
+    "options": [
+     "Informationen zur Luftqualität und zu Badegewässern in Echtzeit",
+     "Live-Fußballergebnisse",
+     "Börsenkurse",
+     "Fernsehprogramme"
+    ],
+    "correct": 0,
+    "explanation": "Das Portal bietet praktische Dienste wie Luftqualitätsmessungen in Echtzeit und die Badegewässerqualität sowie Informationen zu Hochwasser und Verschmutzung – nützlich vor einem Sommerbad oder an einem Tag mit hoher Belastung."
+   },
+   {
+    "text": "Wozu ermutigt das Portal über Regeln und Genehmigungen hinaus?",
+    "options": [
+     "Zu nichts",
+     "Hinaus in die Natur zu gehen und sie zu genießen – über Naturlehrpfade und Waldzentren",
+     "Mehr Einwegplastik zu kaufen",
+     "Den Aufenthalt im Freien zu meiden"
+    ],
+    "correct": 1,
+    "explanation": "Beim Portal geht es nicht nur um Regeln. Es weist auf Natur- und Waldzentren sowie Naturlehrpfade im ganzen Land hin – denn die Natur zu genießen ist oft der erste Schritt, sie zu schützen."
+   }
+  ],
+  "audio_fr": "podcast_environnement_fr.mp3",
+  "duration_fr": 387.62,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour et bienvenue de nouveau !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous sommes ravis de vous retrouver aujourd'hui.",
+    "t": 2.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 5.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 8.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme consacré au vivre-ensemble au Luxembourg.",
+    "t": 11.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, ainsi que les travailleurs frontaliers, à se sentir liés au pays et à sa nature.",
+    "t": 16.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le sujet d'aujourd'hui est un sujet que nous partageons tous, d'où que nous venions... l'environnement.",
+    "t": 24.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'air que nous respirons, l'eau que nous buvons, les forêts où nous nous promenons, les déchets que nous produisons.",
+    "t": 29.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ces sujets peuvent sembler vastes et lointains.",
+    "t": 36.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mais il existe un seul endroit qui les rassemble tous pour les citoyens.",
+    "t": 39.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est le portail de l'environnement du Luxembourg.",
+    "t": 43.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Son nom familier est emwelt point lu.",
+    "t": 47.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "« Ëmwelt » est le mot luxembourgeois pour environnement.",
+    "t": 50.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il s'agit donc, tout simplement, du portail de l'environnement.",
+    "t": 53.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors Tom, qui est derrière ce portail, et à quoi sert-il ?",
+    "t": 58.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il est géré par le ministère de l'Environnement, du Climat et de la Biodiversité.",
+    "t": 62.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et son but est d'informer le public sur l'environnement et le développement durable, et de donner accès à des services environnementaux.",
+    "t": 67.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Voyez-le comme une porte d'entrée unique vers tout ce que l'État fait pour protéger la nature, et la manière dont vous pouvez y participer.",
+    "t": 75.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parcourons les principaux domaines qu'il couvre, car il est merveilleusement large.",
+    "t": 82.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le premier est la nature... la biodiversité, nos forêts, le sol, et les espèces qui vivent ici.",
+    "t": 87.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le portail a même une section entière sur le retour du loup au Luxembourg, ce qui est fascinant.",
+    "t": 93.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le deuxième domaine est l'eau... l'eau potable, les rivières, les eaux souterraines et les eaux usées.",
+    "t": 99.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez même vérifier la qualité des eaux de baignade avant d'aller nager en été.",
+    "t": 105.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le troisième domaine est l'air et le bruit... la qualité de l'air que nous respirons, et la pollution sonore.",
+    "t": 110.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il existe un service de qualité de l'air en temps réel, qui vous permet de voir les mesures en direct.",
+    "t": 116.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le quatrième domaine est le climat et l'énergie... protéger le climat et s'adapter à ses changements.",
+    "t": 122.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le Luxembourg dispose d'un plan national énergie et climat, et d'une stratégie pour s'adapter à un monde qui se réchauffe.",
+    "t": 128.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le cinquième domaine est les déchets et les ressources... et c'est là que chacun d'entre nous peut vraiment faire la différence.",
+    "t": 135.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui !",
+    "t": 141.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le portail explique comment faire le tri des déchets, et présente la stratégie zéro déchet du pays, « Null Offall Lëtzebuerg ».",
+    "t": 143.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il existe même une application pour vous aider à savoir ce qui va dans quelle poubelle.",
+    "t": 151.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a encore d'autres domaines... les produits chimiques et les produits sûrs, la pêche et la chasse, et la protection du sol.",
+    "t": 155.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est donc vraiment un portail unique pour l'ensemble de l'environnement.",
+    "t": 163.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Maintenant, parlons de la partie que je trouve la plus invitante... découvrir la nature.",
+    "t": 167.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le portail vous oriente vers les centres nature et forêt, et vers les sentiers nature à travers le pays.",
+    "t": 173.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il ne s'agit donc pas seulement de règles et de protection.",
+    "t": 178.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est aussi une invitation à sortir et à profiter du monde naturel.",
+    "t": 182.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et profiter de la nature est souvent le premier pas vers l'envie de la protéger.",
+    "t": 187.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le portail est aussi pratique, avec de vrais services pour les citoyens et les professionnels.",
+    "t": 191.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a une section sur les démarches environnementales... les autorisations, les aides financières et les formulaires officiels.",
+    "t": 197.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Donc si vous avez besoin d'une autorisation environnementale, ou d'une aide pour un projet vert, vous pouvez trouver la marche à suivre ici.",
+    "t": 204.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et il y a aussi des alertes utiles... comme signaler une pollution, ou consulter les informations sur les inondations.",
+    "t": 212.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Relions cela à deux épisodes précédents, car le tableau s'assemble bien.",
+    "t": 219.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oui.",
+    "t": 224.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pour des conseils sur le climat et l'énergie à la maison, il y a Klima-Agence, dont nous avons parlé.",
+    "t": 226
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et pour le logement et le foncier, il y a l'Observatoire de l'Habitat.",
+    "t": 231.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le portail de l'environnement vient à leurs côtés.",
+    "t": 236.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ensemble, ils montrent un pays qui réfléchit soigneusement à son avenir.",
+    "t": 239.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons de la raison pour laquelle cela compte pour chacun d'entre nous, dans la vie de tous les jours.",
+    "t": 244.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord, parce que l'environnement n'est pas ailleurs.",
+    "t": 250.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est l'air dans votre rue et l'eau de votre robinet.",
+    "t": 253.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, parce que les petites actions s'additionnent.",
+    "t": 257.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Faire le tri des déchets, économiser l'eau, protéger un espace vert... tout cela compte.",
+    "t": 260.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et enfin, parce qu'être informé vous permet de participer... aux consultations, aux projets locaux, aux choix de tous les jours.",
+    "t": 266.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le portail met même en avant des appels à projets pour amener plus de nature dans nos villes et nos villages.",
+    "t": 274.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce n'est donc pas un site web passif.",
+    "t": 280.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est une invitation à agir, ensemble.",
+    "t": 283.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Rendons cela concret.",
+    "t": 286.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comment peut-on utiliser emwelt point lu ?",
+    "t": 289.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord, avant une baignade estivale, vérifiez la qualité des eaux de baignade.",
+    "t": 292.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Avant un jour de forte pollution, vérifiez l'air.",
+    "t": 297.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, en cas de doute sur les déchets, utilisez le guide de tri ou l'application pour recycler correctement.",
+    "t": 300.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement, si vous avez un projet vert, ou besoin d'une autorisation environnementale, consultez les démarches et les aides.",
+    "t": 307.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et quatrièmement, pour renouer avec la nature, trouvez un sentier nature ou un centre forêt à proximité et allez-y simplement.",
+    "t": 315.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Rassemblons le tout.",
+    "t": 323.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que faut-il retenir du portail de l'environnement ?",
+    "t": 325.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Premièrement... emwelt point lu est le portail unique de l'environnement du Luxembourg, du ministère de l'Environnement, du Climat et de la Biodiversité.",
+    "t": 328.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement... il couvre la nature, l'eau, l'air, le climat, les déchets, et plus encore, avec des informations et des services en temps réel.",
+    "t": 337.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement... il est à la fois protecteur et invitant... des règles et des autorisations, mais aussi des sentiers nature et de la découverte.",
+    "t": 346.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quatrièmement... il montre comment chacun d'entre nous peut participer, avec de simples actions quotidiennes et des projets locaux.",
+    "t": 355.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "La nature nous donne tant, discrètement, chaque jour.",
+    "t": 362.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "En prendre soin est une façon de prendre soin les uns des autres.",
+    "t": 366.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et cela commence par savoir, puis par de petits pas, réguliers.",
+    "t": 370.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
+    "t": 374.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous et de notre maison commune.",
+    "t": 378.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "À bientôt dans le prochain épisode.",
+    "t": 381.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi !",
+    "t": 384.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi !",
+    "t": 386.01
+   }
+  ],
+  "audio_de": "podcast_environnement_de.mp3",
+  "duration_de": 431.33,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen zurück!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schön, dass Sie heute bei uns sind.",
+    "t": 3.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 6.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 8.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 11.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, sich mit dem Land und seiner Natur verbunden zu fühlen.",
+    "t": 16.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und das heutige Thema ist eines, das wir alle teilen, woher wir auch kommen... die Umwelt.",
+    "t": 25.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Luft, die wir atmen, das Wasser, das wir trinken, die Wälder, in denen wir spazieren gehen, der Abfall, den wir erzeugen.",
+    "t": 31.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Diese Themen können groß und weit weg wirken.",
+    "t": 41.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aber es gibt einen einzigen Ort, der sie alle für die Bürgerinnen und Bürger zusammenbringt.",
+    "t": 45.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist das Umweltportal Luxemburgs.",
+    "t": 50.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sein vertrauter Name ist emwelt Punkt lu.",
+    "t": 54.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "„Ëmwelt\" ist das luxemburgische Wort für Umwelt.",
+    "t": 57.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dies ist also ganz einfach das Umweltportal.",
+    "t": 61.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, wer steckt dahinter, und wofür ist es da?",
+    "t": 65.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es wird vom Ministerium für Umwelt, Klima und Biodiversität betrieben.",
+    "t": 69.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und sein Zweck ist es, die Öffentlichkeit über die Umwelt und die nachhaltige Entwicklung zu informieren und Zugang zu Umweltdienstleistungen zu geben.",
+    "t": 75.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stellen Sie es sich als eine einzige Eingangstür zu allem vor, was der Staat zum Schutz der Natur tut, und wie Sie sich daran beteiligen können.",
+    "t": 84.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Gehen wir die wichtigsten Bereiche durch, die es abdeckt, denn es ist wunderbar breit gefächert.",
+    "t": 93.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der erste ist die Natur... die Biodiversität, unsere Wälder, der Boden und die Arten, die hier leben.",
+    "t": 99.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Portal hat sogar einen ganzen Bereich über die Rückkehr des Wolfs nach Luxemburg, was faszinierend ist.",
+    "t": 106.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der zweite Bereich ist das Wasser... Trinkwasser, Flüsse, Grundwasser und Abwasser.",
+    "t": 114.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können sogar die Qualität der Badegewässer überprüfen, bevor Sie im Sommer schwimmen gehen.",
+    "t": 120.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der dritte Bereich ist Luft und Lärm... die Qualität der Luft, die wir atmen, und die Lärmbelastung.",
+    "t": 127.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es gibt einen Echtzeit-Dienst zur Luftqualität, sodass Sie die Messungen live sehen können.",
+    "t": 133.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der vierte Bereich ist Klima und Energie... den Klimaschutz und die Anpassung an seine Veränderungen.",
+    "t": 140
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxemburg hat einen nationalen Energie- und Klimaplan und eine Strategie, um sich an eine wärmer werdende Welt anzupassen.",
+    "t": 146.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der fünfte Bereich ist Abfall und Ressourcen... und hier kann jeder von uns wirklich etwas bewirken.",
+    "t": 155.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja!",
+    "t": 161.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Portal erklärt, wie man die Mülltrennung vornimmt, und die Null-Abfall-Strategie des Landes, „Null Offall Lëtzebuerg\".",
+    "t": 162.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt sogar eine App, die Ihnen hilft zu wissen, was in welche Tonne gehört.",
+    "t": 171.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt noch weitere Bereiche... Chemikalien und sichere Produkte, Fischerei und Jagd, und der Schutz des Bodens.",
+    "t": 176.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist also wirklich ein zentrales Portal für die gesamte Umwelt.",
+    "t": 185.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir nun über den Teil, den ich am einladendsten finde... die Natur erleben.",
+    "t": 190.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das Portal verweist Sie auf Natur- und Waldzentren und auf Naturlehrpfade im ganzen Land.",
+    "t": 196.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es geht also nicht nur um Regeln und Schutz.",
+    "t": 202.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist auch eine Einladung, nach draußen zu gehen und die natürliche Welt zu genießen.",
+    "t": 205.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und die Natur zu genießen ist oft der erste Schritt, um sie schützen zu wollen.",
+    "t": 211.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Portal ist auch praktisch, mit echten Dienstleistungen für Bürgerinnen, Bürger und Fachleute.",
+    "t": 216.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt einen Bereich über Umweltverfahren... Genehmigungen, finanzielle Beihilfen und offizielle Formulare.",
+    "t": 224.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie also eine Umweltgenehmigung oder eine Beihilfe für ein grünes Projekt benötigen, finden Sie hier den Weg dorthin.",
+    "t": 231.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und es gibt auch nützliche Warnungen... wie das Melden einer Verschmutzung oder das Überprüfen von Hochwasserinformationen.",
+    "t": 240.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Verbinden wir dies mit zwei früheren Folgen, denn das Bild fügt sich zusammen.",
+    "t": 247.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ja.",
+    "t": 253.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Für Beratung zu Klima und Energie zu Hause gibt es Klima-Agence, über die wir gesprochen haben.",
+    "t": 254.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und für Wohnen und Boden gibt es das Observatoire de l'Habitat.",
+    "t": 261.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Umweltportal steht an ihrer Seite.",
+    "t": 266.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zusammen zeigen sie ein Land, das sorgfältig über seine Zukunft nachdenkt.",
+    "t": 269.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir darüber, warum dies für jeden von uns im täglichen Leben wichtig ist.",
+    "t": 274.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens, weil die Umwelt nicht woanders ist.",
+    "t": 280.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie ist die Luft in Ihrer Straße und das Wasser in Ihrem Wasserhahn.",
+    "t": 284.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens, weil sich kleine Handlungen summieren.",
+    "t": 289.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mülltrennung, Wasser sparen, eine Grünfläche schützen... all das zählt.",
+    "t": 293.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und drittens, weil Sie informiert sein teilnehmen lässt... an Konsultationen, an lokalen Projekten, an alltäglichen Entscheidungen.",
+    "t": 298.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Portal hebt sogar Projektaufrufe hervor, um mehr Natur in unsere Städte und Dörfer zu bringen.",
+    "t": 307.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dies ist also keine passive Website.",
+    "t": 314.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist eine Einladung, gemeinsam zu handeln.",
+    "t": 317.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Machen wir es konkret.",
+    "t": 321.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wie kann jemand emwelt Punkt lu nutzen?",
+    "t": 323.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens, vor einem Sommerbad, überprüfen Sie die Qualität der Badegewässer.",
+    "t": 327.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vor einem Tag mit hoher Verschmutzung, überprüfen Sie die Luft.",
+    "t": 332.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens, wenn Sie beim Abfall im Zweifel sind, nutzen Sie den Trennleitfaden oder die App, um richtig zu recyceln.",
+    "t": 336.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens, wenn Sie ein grünes Projekt haben oder eine Umweltgenehmigung benötigen, schauen Sie sich die Verfahren und Beihilfen an.",
+    "t": 345.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und viertens, um sich wieder mit der Natur zu verbinden, finden Sie einen nahegelegenen Naturlehrpfad oder ein Waldzentrum und gehen Sie einfach hin.",
+    "t": 352.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fassen wir alles zusammen.",
+    "t": 362.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was sollten sich die Menschen über das Umweltportal merken?",
+    "t": 364.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens... emwelt Punkt lu ist Luxemburgs zentrales Umweltportal, vom Ministerium für Umwelt, Klima und Biodiversität.",
+    "t": 369.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens... es deckt Natur, Wasser, Luft, Klima, Abfall und mehr ab, mit Echtzeitinformationen und Dienstleistungen.",
+    "t": 378.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens... es ist sowohl schützend als auch einladend... Regeln und Genehmigungen, aber auch Naturlehrpfade und Entdeckung.",
+    "t": 387.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und viertens... es zeigt, wie jeder von uns teilnehmen kann, mit einfachen täglichen Handlungen und lokalen Projekten.",
+    "t": 396.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Natur gibt uns so viel, still, jeden Tag.",
+    "t": 404.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sich um sie zu kümmern ist eine Art, sich umeinander zu kümmern.",
+    "t": 408.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und es beginnt mit dem Wissen, und dann mit kleinen, stetigen Schritten.",
+    "t": 413.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank, dass Sie heute zugehört haben.",
+    "t": 418.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich und auf unser gemeinsames Zuhause auf.",
+    "t": 421.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bis zur nächsten Folge.",
+    "t": 425.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 428.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 429.85
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien a wëllkomm zréck! Et ass schéin, datt Dir haut bei eis sidd.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien zesummen!",
+    "t": 5.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, sech mam Land a senger Natur verbonne ze fillen.",
+    "t": 7.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "An d'Thema vun haut ass ee, dat mir all deelen, egal vu wou mir kommen... d'Ëmwelt.",
+    "t": 22.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Loft, déi mir ootmen, d'Waasser, dat mir drénken, d'Bëscher, an deene mir spadséiere ginn, den Offall, deen mir produzéieren.",
+    "t": 27.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dës Themen kënne grouss a wäit ewech wierken. Mä et gëtt eng eenzeg Plaz, déi se all fir d'Bierger zesummebréngt.",
+    "t": 33.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ass d'Ëmweltportal vu Lëtzebuerg. Säi vertraute Numm ass emwelt Punkt lu.",
+    "t": 41.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "„Ëmwelt\" ass dat lëtzebuergescht Wuert fir Ëmwelt. Dat ass also, ganz einfach, d'Ëmweltportal.",
+    "t": 48.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, wien stécht dohannert, a wofir ass et do?",
+    "t": 55.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt vum Ministère fir Ëmwelt, Klima a Biodiversitéit bedriwwen.",
+    "t": 59.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "A säin Zweck ass et, d'Ëffentlechkeet iwwer d'Ëmwelt an déi nohalteg Entwécklung ze informéieren, an Zougang zu Ëmweltservicer ze ginn.",
+    "t": 64.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stellt Iech et als eng eenzeg Agangsdier zu allem vir, wat de Staat fir de Schutz vun der Natur mécht, a wéi Dir matmaache kënnt.",
+    "t": 72.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosst eis duerch déi wichtegst Beräicher goen, déi et ofdeckt, well et ass wonnerbar breet.",
+    "t": 79.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Den éischten ass d'Natur... d'Biodiversitéit, eis Bëscher, de Buedem, an d'Aarten, déi hei liewen.",
+    "t": 83.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Portal huet souguer e ganze Beräich iwwer d'Réckkéier vum Wollef zu Lëtzebuerg, wat faszinéierend ass.",
+    "t": 90.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Den zweete Beräich ass d'Waasser... Drénkwaasser, Flëss, Grondwaasser an Ofwaasser.",
+    "t": 95.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dir kënnt souguer d'Qualitéit vum Buedwaasser iwwerpréiwen, ier Dir am Summer schwamme gitt.",
+    "t": 101.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Den drëtte Beräich ass Loft a Kaméidi... d'Qualitéit vun der Loft, déi mir ootmen, an d'Kaméidiverschmotzung.",
+    "t": 106.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et gëtt e Service fir d'Loftqualitéit an Echtzäit, sou datt Dir d'Moossunge live gesi kënnt.",
+    "t": 112.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "De véierte Beräich ass Klima an Energie... de Klima schützen a sech u seng Verännerungen unzepassen.",
+    "t": 117.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Lëtzebuerg huet en nationalen Energie- a Klimaplang, an eng Strategie, fir sech un eng méi waarm Welt unzepassen.",
+    "t": 122.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "De fënnefte Beräich ass Offall a Ressourcen... an hei kann all eenzelne vun eis wierklech eppes beweegen.",
+    "t": 129.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo! D'Portal erkläert, wéi een den Offall trennt, an d'Null-Offall-Strategie vum Land, „Null Offall Lëtzebuerg\".",
+    "t": 135.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt souguer eng App, déi Iech hëlleft ze wëssen, wat an déi wéi eng Tonn gehéiert.",
+    "t": 143.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt nach méi Beräicher... Chemikalien a sécher Produkter, Fëscherei a Juegd, an de Schutz vum Buedem.",
+    "t": 147.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et ass also wierklech eng zentral Portal fir déi ganz Ëmwelt.",
+    "t": 154.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosst eis elo iwwer den Deel schwätzen, deen ech am meeschten alueeden fannen... d'Natur erliewen.",
+    "t": 158.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Portal weist Iech op Natur- a Bëschzentren, an op Naturlehrpäder am ganze Land.",
+    "t": 164.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et geet also net nëmmen ëm Reegelen a Schutz. Et ass och eng Alueedung, no baussen ze goen an déi natierlech Welt ze genéissen.",
+    "t": 169.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "An d'Natur ze genéissen ass dacks den éischte Schrëtt, fir se schütze ze wëllen.",
+    "t": 177.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Portal ass och praktesch, mat richtege Servicer fir d'Bierger an d'Fachleit.",
+    "t": 182.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt e Beräich iwwer Ëmweltprozeduren... Genehmegungen, finanziell Hëllefen an offiziell Formulairen.",
+    "t": 187.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wann Dir also eng Ëmweltgenehmegung braucht, oder eng Hëllef fir e gréngt Projet, kënnt Dir hei de Wee fannen.",
+    "t": 193.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "An et gëtt och nëtzlech Alarmer... wéi eng Verschmotzung ze mellen, oder Iwwerschwemmungsinformatiounen ze iwwerpréiwen.",
+    "t": 200.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosst eis dat mat zwou fréieren Episoden verbannen, well d'Bild passt zesummen.",
+    "t": 205.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jo. Fir Rotschléi zu Klima an Energie doheem gëtt et Klima-Agence, iwwer déi mir geschwat hunn.",
+    "t": 211.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "A fir Wunnen a Buedem gëtt et den Observatoire de l'Habitat. D'Ëmweltportal steet u senger Säit.",
+    "t": 217.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zesumme weisen se e Land, dat suergfälteg iwwer seng Zukunft nodenkt.",
+    "t": 225.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosst eis driwwer schwätzen, firwat dat fir all eenzelne vun eis am Alldag wichteg ass.",
+    "t": 230.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als éischt, well d'Ëmwelt net anzwousch anescht ass. Et ass d'Loft an Ärer Strooss an d'Waasser an Ärem Krunn.",
+    "t": 234.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens, well kleng Handlungen sech bäieneen addéieren. Offall trennen, Waasser spueren, eng gréng Plaz schützen... dat alles zielt.",
+    "t": 242.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "An drëttens, well informéiert ze sinn Iech matmaache léisst... un Konsultatiounen, u lokale Projeten, un alldeegleche Choixen.",
+    "t": 251.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Portal hieft souguer Projetsopruff ervir, fir méi Natur an eis Stied an Dierfer ze bréngen.",
+    "t": 258.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass also keng passiv Websäit. Et ass eng Alueedung, zesummen ze handelen.",
+    "t": 264.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosst eis et praktesch maachen. Wéi kann een emwelt Punkt lu benotzen?",
+    "t": 270.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als éischt, virun engem Summerbad, iwwerpréift d'Qualitéit vum Buedwaasser. Virun engem Dag mat héijer Verschmotzung, iwwerpréift d'Loft.",
+    "t": 275.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens, wann Dir beim Offall am Zweiwel sidd, benotzt de Trennguide oder d'App, fir richteg ze recycléieren.",
+    "t": 283.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens, wann Dir e gréngt Projet hutt, oder eng Ëmweltgenehmegung braucht, kuckt d'Prozeduren an d'Hëllefen no.",
+    "t": 289.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "A véiertens, fir Iech erëm mat der Natur ze verbannen, fannt e Naturlehrpad oder e Bëschzentrum an der Géigend an gitt einfach hin.",
+    "t": 296.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosst eis alles zesummebréngen. Wat sollen d'Leit sech iwwer d'Ëmweltportal mierken?",
+    "t": 302.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als éischt... emwelt Punkt lu ass Lëtzebuergs zentrual Ëmweltportal, vum Ministère fir Ëmwelt, Klima a Biodiversitéit.",
+    "t": 309.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweetens... et deckt Natur, Waasser, Loft, Klima, Offall a méi of, mat Echtzäitinformatiounen a Servicer.",
+    "t": 317.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drëttens... et ass souwuel schützend wéi och alueedend... Reegelen a Genehmegungen, mä och Naturlehrpäder an Entdeckung.",
+    "t": 325.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "A véiertens... et weist, wéi all eenzelne vun eis matmaache kann, mat einfachen alldeegleche Handlungen a lokale Projeten.",
+    "t": 331.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Natur gëtt eis sou vill, roueg, all Dag. Suerg ëm si ze droen ass eng Manéier, Suerg ëmenee ze droen.",
+    "t": 337.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "An et fänkt mam Wëssen un, an dann mat klengen, stännege Schrëtt.",
+    "t": 345.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools merci, datt Dir haut nogelauschtert hutt.",
+    "t": 349.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passt op Iech an op eist gemeinsamt Doheem op. Bis an déi nächst Episod. Äddi!",
+    "t": 352.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 360.23
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "key": "syvicol",
+  "number": "Episode 27",
+  "title": "SYVICOL – The Voice of Luxembourg's Towns and Communes",
+  "description": "What SYVICOL is, how it unites all 100 of Luxembourg's communes into one common voice, how it promotes and defends their shared interests, gives formal opinions on laws that affect them, helps communes share knowledge and supports local councillors, and why the local level matters for everyday life.",
+  "audio": "podcast_syvicol.mp3",
+  "duration": 328.8,
+  "topics": [
+   "What SYVICOL is",
+   "All 100 communes together",
+   "Defending communes' interests",
+   "The government's main partner",
+   "Opinions on draft laws",
+   "Sharing knowledge between communes",
+   "Support for local councillors",
+   "Why the local level matters"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome back!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's a pleasure to have you with us today.",
+    "t": 2.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border workers too, to understand how the country is run.",
+    "t": 14.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today we are looking at a level of government that is closest to your daily life... your commune.",
+    "t": 22.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Your commune is your town or village administration.",
+    "t": 27.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "It looks after so many everyday things.",
+    "t": 31.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Schools, local roads, water, waste collection, parks, sports halls, civil records... the list is long.",
+    "t": 34.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxembourg has one hundred communes, from the city of Luxembourg to small rural villages.",
+    "t": 41.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today's organisation speaks for all of them, together.",
+    "t": 47.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is called SYVICOL.",
+    "t": 51.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "SYVICOL stands for the Syndicat des Villes et Communes Luxembourgeoises.",
+    "t": 54.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "In English, that's roughly the Association of Luxembourg Towns and Communes.",
+    "t": 59.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "So Tom, what exactly is SYVICOL, and why does it exist?",
+    "t": 64.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is the organisation that brings together all of Luxembourg's communes into one common voice.",
+    "t": 68.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Its job is to promote, protect and defend the shared interests of the communes.",
+    "t": 74.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Think about it.",
+    "t": 79.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Each commune is fairly small.",
+    "t": 81.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "On its own, its voice might be quiet.",
+    "t": 84.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "But together, through SYVICOL, the hundred communes can speak clearly and with real weight.",
+    "t": 87.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "And who do they speak to, mainly?",
+    "t": 93.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Above all, to the national government.",
+    "t": 96.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "SYVICOL is the government's main partner for anything that affects the communes.",
+    "t": 100.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "So when the State plans a new law that touches local life, SYVICOL is there to represent the towns and villages.",
+    "t": 105.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's talk about one of its most important roles... giving its opinion on new laws.",
+    "t": 111.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "When a draft law concerns the communes, SYVICOL studies it and gives a formal opinion.",
+    "t": 117.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "For example, on rules about water, about schools, about local finances, or about how communes are organised.",
+    "t": 122.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "That opinion helps lawmakers understand the real, practical effects on the ground.",
+    "t": 130.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Because the people running a commune know what will actually work in a real town or village.",
+    "t": 135.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "So SYVICOL is a bridge... carrying local experience up to national decisions.",
+    "t": 141.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "It also works the other way.",
+    "t": 146.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "It helps communes share knowledge and good practice with each other.",
+    "t": 149.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "A small commune facing a new challenge doesn't have to invent everything alone.",
+    "t": 153.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Through SYVICOL, communes can consult each other, and learn from what others have tried.",
+    "t": 158.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "There's also support for the people who actually run the communes... the local councillors.",
+    "t": 163.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 169.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Being an elected local representative is a big responsibility, and SYVICOL helps with information and training.",
+    "t": 170.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "And SYVICOL represents Luxembourg's communes beyond the borders too.",
+    "t": 177.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "At the European level, towns and regions from across Europe work together, and Luxembourg's communes have a voice there as well.",
+    "t": 182.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "So local concerns can be heard not just nationally, but internationally.",
+    "t": 190.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's step back and ask... why does this matter for an ordinary resident?",
+    "t": 195.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Because the commune is where democracy is closest to you.",
+    "t": 200.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "It shapes your street, your school, your daily surroundings.",
+    "t": 204.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "And SYVICOL helps make sure that this local level is respected and well represented when big decisions are made.",
+    "t": 208.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "It's a quiet but important part of how the country stays balanced... between the national and the local.",
+    "t": 215.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "It also connects to something we care about in the Biergerpakt... taking part in local life.",
+    "t": 221.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Yes.",
+    "t": 227.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Your commune is one of the easiest places to get involved, to be heard, and to make a difference.",
+    "t": 229.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Voting in local elections, joining a commission, going to a public meeting... it all shapes your community.",
+    "t": 235.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "And behind the scenes, SYVICOL is working so that all those communes have the tools and the voice they need.",
+    "t": 242.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's make it practical.",
+    "t": 248.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "What can someone take from this?",
+    "t": 250.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "First, remember that your commune handles a huge part of your daily life... and you can engage with it directly.",
+    "t": 253.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second, know that all the communes act together, through SYVICOL, when national decisions affect local life.",
+    "t": 259.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third, if you're curious about how towns and villages are governed, SYVICOL is the place that represents them all.",
+    "t": 266.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's bring it together.",
+    "t": 273.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "What should people remember about SYVICOL?",
+    "t": 275.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "First... it is the association that unites all one hundred of Luxembourg's communes into one common voice.",
+    "t": 278.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second... it promotes and defends their shared interests, and is the government's main partner on communal matters.",
+    "t": 285.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third... it gives formal opinions on laws that affect the communes, carrying local experience into national decisions.",
+    "t": 292.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fourth... it helps communes share knowledge, supports local councillors, and represents them in Europe.",
+    "t": 299.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "The commune is where the country meets your front door.",
+    "t": 306.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "And SYVICOL helps keep that level strong.",
+    "t": 309.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Strong local communities are the building blocks of a country where people truly live together.",
+    "t": 313.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you so much for listening today.",
+    "t": 319.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Take care, and see you in the next episode.",
+    "t": 322.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 325.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 327.13
+   }
+  ],
+  "questions": [
+   {
+    "text": "What is SYVICOL?",
+    "options": [
+     "A national bank",
+     "The association uniting all of Luxembourg's communes",
+     "A political party",
+     "A supermarket chain"
+    ],
+    "correct": 1,
+    "explanation": "SYVICOL — the Syndicat des Villes et Communes Luxembourgeoises — is the association that brings together all 100 communes of Luxembourg to promote, safeguard and defend their shared interests."
+   },
+   {
+    "text": "How many communes does Luxembourg have, all represented by SYVICOL?",
+    "options": [
+     "10",
+     "100",
+     "1,000",
+     "Just 1"
+    ],
+    "correct": 1,
+    "explanation": "Luxembourg has 100 communes, from the city of Luxembourg to small villages, and SYVICOL gives them one common voice."
+   },
+   {
+    "text": "Who is SYVICOL's main partner when laws affect local life?",
+    "options": [
+     "A foreign government",
+     "The national government",
+     "A private company",
+     "The European Central Bank"
+    ],
+    "correct": 1,
+    "explanation": "SYVICOL is the government's privileged partner for everything concerning the communes. When the State plans something that affects local life, SYVICOL represents the towns and villages."
+   },
+   {
+    "text": "What important role does SYVICOL play in lawmaking?",
+    "options": [
+     "It writes all the laws itself",
+     "It gives formal opinions on draft laws that affect the communes",
+     "It votes in Parliament",
+     "It has no role"
+    ],
+    "correct": 1,
+    "explanation": "When a draft law concerns the communes, SYVICOL studies it and gives a formal opinion, carrying real, practical local experience into national decisions."
+   },
+   {
+    "text": "What else does SYVICOL do for the communes?",
+    "options": [
+     "Nothing else",
+     "Helps them share knowledge and supports local councillors",
+     "Collects their taxes",
+     "Runs their schools directly"
+    ],
+    "correct": 1,
+    "explanation": "SYVICOL also helps communes consult each other and share good practice, supports local elected representatives with information and training, and represents the communes in Europe."
+   }
+  ],
+  "categories": [
+   "civic"
+  ],
+  "title_fr": "SYVICOL – la voix des villes et des communes du Luxembourg",
+  "description_fr": "Ce qu'est le SYVICOL, comment il réunit les 100 communes du Luxembourg en une voix commune, comment il promeut et défend leurs intérêts partagés, donne des avis sur les lois qui les concernent, aide les communes à partager leurs connaissances et soutient les élus locaux, et pourquoi l'échelon local est important pour la vie quotidienne.",
+  "topics_fr": [
+   "Ce qu'est le SYVICOL",
+   "Les 100 communes réunies",
+   "Défendre les intérêts des communes",
+   "Le partenaire principal du gouvernement",
+   "Avis sur les projets de loi",
+   "Partage des connaissances entre communes",
+   "Soutien aux élus locaux",
+   "Pourquoi l'échelon local compte"
+  ],
+  "questions_fr": [
+   {
+    "text": "Qu'est-ce que le SYVICOL ?",
+    "options": [
+     "Une banque nationale",
+     "L'association qui réunit toutes les communes du Luxembourg",
+     "Un parti politique",
+     "Une chaîne de supermarchés"
+    ],
+    "correct": 1,
+    "explanation": "Le SYVICOL — le Syndicat des Villes et Communes Luxembourgeoises — est l'association qui rassemble les 100 communes du Luxembourg pour promouvoir, sauvegarder et défendre leurs intérêts communs."
+   },
+   {
+    "text": "Combien de communes compte le Luxembourg, toutes représentées par le SYVICOL ?",
+    "options": [
+     "10",
+     "100",
+     "1 000",
+     "Une seule"
+    ],
+    "correct": 1,
+    "explanation": "Le Luxembourg compte 100 communes, de la ville de Luxembourg aux petits villages, et le SYVICOL leur donne une voix commune."
+   },
+   {
+    "text": "Qui est le partenaire principal du SYVICOL lorsque des lois touchent la vie locale ?",
+    "options": [
+     "Un gouvernement étranger",
+     "Le gouvernement national",
+     "Une entreprise privée",
+     "La Banque centrale européenne"
+    ],
+    "correct": 1,
+    "explanation": "Le SYVICOL est le partenaire privilégié du gouvernement pour tout ce qui concerne les communes. Lorsque l'État prévoit quelque chose qui touche la vie locale, le SYVICOL représente les villes et les villages."
+   },
+   {
+    "text": "Quel rôle important le SYVICOL joue-t-il dans l'élaboration des lois ?",
+    "options": [
+     "Il rédige lui-même toutes les lois",
+     "Il donne des avis sur les projets de loi qui concernent les communes",
+     "Il vote au Parlement",
+     "Il n'a aucun rôle"
+    ],
+    "correct": 1,
+    "explanation": "Lorsqu'un projet de loi concerne les communes, le SYVICOL l'étudie et donne un avis, apportant une expérience locale réelle et concrète dans les décisions nationales."
+   },
+   {
+    "text": "Que fait encore le SYVICOL pour les communes ?",
+    "options": [
+     "Rien d'autre",
+     "Il les aide à partager leurs connaissances et soutient les élus locaux",
+     "Il perçoit leurs impôts",
+     "Il gère directement leurs écoles"
+    ],
+    "correct": 1,
+    "explanation": "Le SYVICOL aide aussi les communes à se concerter et à échanger leurs bonnes pratiques, soutient les élus locaux par l'information et la formation, et représente les communes en Europe."
+   }
+  ],
+  "title_de": "SYVICOL – Die Stimme der Städte und Gemeinden Luxemburgs",
+  "description_de": "Was SYVICOL ist, wie es alle 100 Gemeinden Luxemburgs zu einer gemeinsamen Stimme vereint, wie es ihre gemeinsamen Interessen fördert und verteidigt, Gutachten zu Gesetzen abgibt, die sie betreffen, den Gemeinden hilft, Wissen auszutauschen, und kommunale Mandatsträger unterstützt, und warum die kommunale Ebene für das tägliche Leben wichtig ist.",
+  "topics_de": [
+   "Was SYVICOL ist",
+   "Alle 100 Gemeinden gemeinsam",
+   "Verteidigung der Gemeindeinteressen",
+   "Der wichtigste Partner der Regierung",
+   "Stellungnahmen zu Gesetzentwürfen",
+   "Wissensaustausch zwischen Gemeinden",
+   "Unterstützung kommunaler Mandatsträger",
+   "Warum die kommunale Ebene zählt"
+  ],
+  "questions_de": [
+   {
+    "text": "Was ist SYVICOL?",
+    "options": [
+     "Eine Nationalbank",
+     "Der Verband, der alle Gemeinden Luxemburgs vereint",
+     "Eine politische Partei",
+     "Eine Supermarktkette"
+    ],
+    "correct": 1,
+    "explanation": "SYVICOL – der Syndicat des Villes et Communes Luxembourgeoises – ist der Verband, der alle 100 Gemeinden Luxemburgs zusammenführt, um ihre gemeinsamen Interessen zu fördern, zu wahren und zu verteidigen."
+   },
+   {
+    "text": "Wie viele Gemeinden hat Luxemburg, die alle von SYVICOL vertreten werden?",
+    "options": [
+     "10",
+     "100",
+     "1.000",
+     "Nur 1"
+    ],
+    "correct": 1,
+    "explanation": "Luxemburg hat 100 Gemeinden, von der Stadt Luxemburg bis zu kleinen Dörfern, und SYVICOL verleiht ihnen eine gemeinsame Stimme."
+   },
+   {
+    "text": "Wer ist der wichtigste Partner von SYVICOL, wenn Gesetze das kommunale Leben betreffen?",
+    "options": [
+     "Eine ausländische Regierung",
+     "Die nationale Regierung",
+     "Ein privates Unternehmen",
+     "Die Europäische Zentralbank"
+    ],
+    "correct": 1,
+    "explanation": "SYVICOL ist der bevorzugte Partner der Regierung für alles, was die Gemeinden betrifft. Wenn der Staat etwas plant, das das kommunale Leben betrifft, vertritt SYVICOL die Städte und Dörfer."
+   },
+   {
+    "text": "Welche wichtige Rolle spielt SYVICOL in der Gesetzgebung?",
+    "options": [
+     "Es verfasst alle Gesetze selbst",
+     "Es gibt Gutachten zu Gesetzentwürfen ab, die die Gemeinden betreffen",
+     "Es stimmt im Parlament ab",
+     "Es hat keine Rolle"
+    ],
+    "correct": 1,
+    "explanation": "Wenn ein Gesetzentwurf die Gemeinden betrifft, prüft SYVICOL ihn und gibt eine Stellungnahme ab und bringt so echte, praktische kommunale Erfahrung in nationale Entscheidungen ein."
+   },
+   {
+    "text": "Was tut SYVICOL noch für die Gemeinden?",
+    "options": [
+     "Nichts weiter",
+     "Es hilft ihnen, Wissen auszutauschen, und unterstützt kommunale Mandatsträger",
+     "Es zieht ihre Steuern ein",
+     "Es führt ihre Schulen direkt"
+    ],
+    "correct": 1,
+    "explanation": "SYVICOL hilft den Gemeinden auch, sich untereinander zu beraten und bewährte Praktiken auszutauschen, unterstützt kommunale Mandatsträger mit Informationen und Weiterbildung und vertritt die Gemeinden in Europa."
+   }
+  ],
+  "audio_fr": "podcast_syvicol_fr.mp3",
+  "duration_fr": 349.46,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour et bienvenue à nouveau !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 2.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 6.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 8.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme qui parle du vivre-ensemble au Luxembourg.",
+    "t": 12.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les travailleurs frontaliers, à comprendre comment le pays est dirigé.",
+    "t": 16.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et aujourd'hui, nous nous penchons sur un niveau de gouvernement qui est le plus proche de votre vie quotidienne... votre commune.",
+    "t": 24.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Votre commune est l'administration de votre ville ou de votre village.",
+    "t": 30.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle s'occupe de tellement de choses du quotidien.",
+    "t": 35.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les écoles, les routes locales, l'eau, la collecte des déchets, les parcs, les halls sportifs, l'état civil... la liste est longue.",
+    "t": 38.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le Luxembourg compte cent communes, de la ville de Luxembourg aux petits villages ruraux.",
+    "t": 47.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et l'organisation dont nous parlons aujourd'hui parle au nom de toutes, ensemble.",
+    "t": 52.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elle s'appelle SYVICOL.",
+    "t": 57.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "SYVICOL signifie le Syndicat des Villes et Communes Luxembourgeoises.",
+    "t": 59.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "En anglais, cela donne à peu près l'Association of Luxembourg Towns and Communes.",
+    "t": 64.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors Tom, qu'est-ce que le SYVICOL exactement, et pourquoi existe-t-il ?",
+    "t": 69.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est l'organisation qui réunit toutes les communes du Luxembourg en une seule voix commune.",
+    "t": 74.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Son rôle est de promouvoir, de protéger et de défendre les intérêts communs des communes.",
+    "t": 79.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Réfléchissez-y.",
+    "t": 85.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Chaque commune est plutôt petite.",
+    "t": 87.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Seule, sa voix pourrait être faible.",
+    "t": 90.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais ensemble, à travers le SYVICOL, les cent communes peuvent parler clairement et avec un véritable poids.",
+    "t": 93.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et à qui s'adressent-elles, principalement ?",
+    "t": 99.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Avant tout, au gouvernement national.",
+    "t": 102.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le SYVICOL est le principal partenaire du gouvernement pour tout ce qui concerne les communes.",
+    "t": 106.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc, lorsque l'État prévoit une nouvelle loi qui touche à la vie locale, le SYVICOL est là pour représenter les villes et les villages.",
+    "t": 111.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons de l'un de ses rôles les plus importants... donner son avis sur les nouvelles lois.",
+    "t": 119.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Lorsqu'un projet de loi concerne les communes, le SYVICOL l'étudie et rend un avis.",
+    "t": 124.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Par exemple, sur les règles relatives à l'eau, aux écoles, aux finances locales, ou à la manière dont les communes sont organisées.",
+    "t": 129.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cet avis aide les législateurs à comprendre les effets réels et concrets sur le terrain.",
+    "t": 137.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parce que les personnes qui dirigent une commune savent ce qui fonctionnera réellement dans une vraie ville ou un vrai village.",
+    "t": 142.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le SYVICOL est donc un pont... qui fait remonter l'expérience locale jusqu'aux décisions nationales.",
+    "t": 148.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela fonctionne aussi dans l'autre sens.",
+    "t": 154.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il aide les communes à partager leurs connaissances et leurs bonnes pratiques entre elles.",
+    "t": 157.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une petite commune confrontée à un nouveau défi n'a pas à tout inventer seule.",
+    "t": 162.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "À travers le SYVICOL, les communes peuvent se consulter et apprendre de ce que d'autres ont essayé.",
+    "t": 166.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a aussi un soutien pour les personnes qui dirigent réellement les communes... les conseillers communaux.",
+    "t": 173.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 178.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Être un élu local est une grande responsabilité, et le SYVICOL apporte son aide par l'information et la formation.",
+    "t": 180.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le SYVICOL représente aussi les communes du Luxembourg au-delà des frontières.",
+    "t": 187.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Au niveau européen, les villes et les régions de toute l'Europe travaillent ensemble, et les communes du Luxembourg y ont aussi une voix.",
+    "t": 192.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ainsi, les préoccupations locales peuvent être entendues non seulement à l'échelle nationale, mais aussi internationale.",
+    "t": 199.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Prenons un peu de recul et demandons-nous... pourquoi est-ce important pour un résident ordinaire ?",
+    "t": 206.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parce que la commune est l'endroit où la démocratie est la plus proche de vous.",
+    "t": 211.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elle façonne votre rue, votre école, votre cadre de vie quotidien.",
+    "t": 215.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et le SYVICOL contribue à faire en sorte que ce niveau local soit respecté et bien représenté lorsque de grandes décisions sont prises.",
+    "t": 220.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est une partie discrète mais importante de la façon dont le pays reste équilibré... entre le national et le local.",
+    "t": 228.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela rejoint aussi quelque chose qui nous tient à cœur dans le Biergerpakt... participer à la vie locale.",
+    "t": 234.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oui.",
+    "t": 241.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Votre commune est l'un des endroits les plus faciles pour s'impliquer, se faire entendre et faire la différence.",
+    "t": 242.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Voter aux élections communales, rejoindre une commission, assister à une réunion publique... tout cela façonne votre communauté.",
+    "t": 248.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et en coulisses, le SYVICOL travaille pour que toutes ces communes disposent des outils et de la voix dont elles ont besoin.",
+    "t": 256.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Rendons cela concret.",
+    "t": 263.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Que peut-on retenir de tout ceci ?",
+    "t": 265.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord, rappelez-vous que votre commune gère une grande partie de votre vie quotidienne... et que vous pouvez vous y impliquer directement.",
+    "t": 268.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, sachez que toutes les communes agissent ensemble, à travers le SYVICOL, lorsque des décisions nationales touchent à la vie locale.",
+    "t": 275.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement, si vous êtes curieux de savoir comment les villes et les villages sont gouvernés, le SYVICOL est l'organisation qui les représente toutes.",
+    "t": 283.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Faisons la synthèse.",
+    "t": 291.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Que faut-il retenir au sujet du SYVICOL ?",
+    "t": 293.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Premièrement... c'est l'association qui unit l'ensemble des cent communes du Luxembourg en une seule voix commune.",
+    "t": 297.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deuxièmement... il promeut et défend leurs intérêts communs, et il est le principal partenaire du gouvernement pour les affaires communales.",
+    "t": 303.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement... il rend des avis sur les lois qui concernent les communes, en portant l'expérience locale dans les décisions nationales.",
+    "t": 310.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et quatrièmement... il aide les communes à partager leurs connaissances, soutient les conseillers communaux et les représente en Europe.",
+    "t": 317.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "La commune, c'est là où le pays rencontre votre porte d'entrée.",
+    "t": 325.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le SYVICOL contribue à maintenir ce niveau solide.",
+    "t": 329.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Des communautés locales fortes sont les briques d'un pays où les gens vivent vraiment ensemble.",
+    "t": 333.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
+    "t": 338.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
+    "t": 342.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi !",
+    "t": 346.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi !",
+    "t": 347.95
+   }
+  ],
+  "audio_de": "podcast_syvicol_de.mp3",
+  "duration_de": 393.48,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen zurück!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist uns eine Freude, Sie heute bei uns zu haben.",
+    "t": 3.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 7.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 9.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 12.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten den Einwohnerinnen und Einwohnern, und auch den Grenzgängern, helfen zu verstehen, wie das Land geführt wird.",
+    "t": 17.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und heute betrachten wir eine Regierungsebene, die Ihrem Alltag am nächsten ist... Ihre Gemeinde.",
+    "t": 26.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ihre Gemeinde ist die Verwaltung Ihrer Stadt oder Ihres Dorfes.",
+    "t": 33.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie kümmert sich um so viele alltägliche Dinge.",
+    "t": 38.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Schulen, lokale Straßen, Wasser, Müllabfuhr, Parks, Sporthallen, das Personenstandswesen... die Liste ist lang.",
+    "t": 41.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxemburg hat hundert Gemeinden, von der Stadt Luxemburg bis zu kleinen ländlichen Dörfern.",
+    "t": 50.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und die heutige Organisation spricht für sie alle, gemeinsam.",
+    "t": 56.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie heißt SYVICOL.",
+    "t": 61.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "SYVICOL steht für den Syndicat des Villes et Communes Luxembourgeoises.",
+    "t": 63.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Auf Deutsch ist das ungefähr der Verband der Städte und Gemeinden Luxemburgs.",
+    "t": 69.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, was genau ist SYVICOL, und warum gibt es ihn?",
+    "t": 74.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist die Organisation, die alle Gemeinden Luxemburgs zu einer gemeinsamen Stimme zusammenführt.",
+    "t": 79.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Seine Aufgabe ist es, die gemeinsamen Interessen der Gemeinden zu fördern, zu schützen und zu verteidigen.",
+    "t": 85.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Denken Sie einmal darüber nach.",
+    "t": 92.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jede Gemeinde ist ziemlich klein.",
+    "t": 95.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Für sich allein ist ihre Stimme vielleicht leise.",
+    "t": 98.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber gemeinsam, durch SYVICOL, können die hundert Gemeinden klar und mit echtem Gewicht sprechen.",
+    "t": 102.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und an wen wenden sie sich hauptsächlich?",
+    "t": 109.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vor allem an die nationale Regierung.",
+    "t": 112.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "SYVICOL ist der wichtigste Partner der Regierung für alles, was die Gemeinden betrifft.",
+    "t": 115.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn der Staat also ein neues Gesetz plant, das das lokale Leben berührt, ist SYVICOL da, um die Städte und Dörfer zu vertreten.",
+    "t": 121.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir über eine seiner wichtigsten Aufgaben... seine Stellungnahme zu neuen Gesetzen abzugeben.",
+    "t": 130.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn ein Gesetzentwurf die Gemeinden betrifft, prüft SYVICOL ihn und gibt ein Gutachten ab.",
+    "t": 137.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zum Beispiel zu Regeln über Wasser, über Schulen, über kommunale Finanzen oder darüber, wie die Gemeinden organisiert sind.",
+    "t": 143.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dieses Gutachten hilft den Gesetzgebern, die tatsächlichen, praktischen Auswirkungen vor Ort zu verstehen.",
+    "t": 152.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Denn die Menschen, die eine Gemeinde führen, wissen, was in einer echten Stadt oder einem echten Dorf wirklich funktionieren wird.",
+    "t": 158.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "SYVICOL ist also eine Brücke... die lokale Erfahrung hinauf zu nationalen Entscheidungen trägt.",
+    "t": 167.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es funktioniert auch andersherum.",
+    "t": 173.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es hilft den Gemeinden, Wissen und bewährte Praktiken miteinander zu teilen.",
+    "t": 176.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eine kleine Gemeinde, die vor einer neuen Herausforderung steht, muss nicht alles allein erfinden.",
+    "t": 182.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Durch SYVICOL können sich die Gemeinden gegenseitig beraten und von dem lernen, was andere versucht haben.",
+    "t": 188.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt auch Unterstützung für die Menschen, die die Gemeinden tatsächlich führen... die Gemeinderäte.",
+    "t": 196.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 202.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein kommunaler Mandatsträger zu sein ist eine große Verantwortung, und SYVICOL hilft mit Information und Weiterbildung.",
+    "t": 203.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und SYVICOL vertritt die Gemeinden Luxemburgs auch über die Grenzen hinaus.",
+    "t": 211.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Auf europäischer Ebene arbeiten Städte und Regionen aus ganz Europa zusammen, und die Gemeinden Luxemburgs haben auch dort eine Stimme.",
+    "t": 216.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "So können lokale Anliegen nicht nur national, sondern auch international gehört werden.",
+    "t": 225.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Treten wir einen Schritt zurück und fragen wir uns... warum ist das für eine gewöhnliche Einwohnerin oder einen gewöhnlichen Einwohner wichtig?",
+    "t": 231.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Weil die Gemeinde der Ort ist, an dem die Demokratie Ihnen am nächsten ist.",
+    "t": 240.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie prägt Ihre Straße, Ihre Schule, Ihr tägliches Umfeld.",
+    "t": 245.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und SYVICOL trägt dazu bei, dass diese lokale Ebene respektiert und gut vertreten wird, wenn große Entscheidungen getroffen werden.",
+    "t": 249.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist ein stiller, aber wichtiger Teil davon, wie das Land im Gleichgewicht bleibt... zwischen dem Nationalen und dem Lokalen.",
+    "t": 259.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es knüpft auch an etwas an, das uns im Biergerpakt am Herzen liegt... am lokalen Leben teilzunehmen.",
+    "t": 266.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ja.",
+    "t": 274.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ihre Gemeinde ist einer der einfachsten Orte, um sich einzubringen, gehört zu werden und etwas zu bewirken.",
+    "t": 275.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bei Gemeindewahlen wählen, einer Kommission beitreten, zu einer öffentlichen Versammlung gehen... all das prägt Ihre Gemeinschaft.",
+    "t": 282.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und hinter den Kulissen arbeitet SYVICOL daran, dass all diese Gemeinden die Werkzeuge und die Stimme haben, die sie brauchen.",
+    "t": 291.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Machen wir es praktisch.",
+    "t": 298.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was kann man daraus mitnehmen?",
+    "t": 301.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens, denken Sie daran, dass Ihre Gemeinde einen großen Teil Ihres Alltags regelt... und dass Sie sich direkt einbringen können.",
+    "t": 304.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens, wissen Sie, dass alle Gemeinden gemeinsam handeln, durch SYVICOL, wenn nationale Entscheidungen das lokale Leben betreffen.",
+    "t": 312.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens, wenn Sie neugierig sind, wie Städte und Dörfer regiert werden, ist SYVICOL die Stelle, die sie alle vertritt.",
+    "t": 321.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fassen wir es zusammen.",
+    "t": 329.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was sollten sich die Menschen über SYVICOL merken?",
+    "t": 331.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens... es ist der Verband, der alle hundert Gemeinden Luxemburgs zu einer gemeinsamen Stimme vereint.",
+    "t": 335.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens... er fördert und verteidigt ihre gemeinsamen Interessen und ist der wichtigste Partner der Regierung in kommunalen Angelegenheiten.",
+    "t": 342.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens... er gibt Gutachten zu Gesetzen ab, die die Gemeinden betreffen, und trägt lokale Erfahrung in nationale Entscheidungen.",
+    "t": 351.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und viertens... er hilft den Gemeinden, Wissen zu teilen, unterstützt die Gemeinderäte und vertritt sie in Europa.",
+    "t": 359.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Gemeinde ist der Ort, an dem das Land auf Ihre Haustür trifft.",
+    "t": 367.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und SYVICOL hilft, diese Ebene stark zu halten.",
+    "t": 371.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Starke lokale Gemeinschaften sind die Bausteine eines Landes, in dem die Menschen wirklich zusammenleben.",
+    "t": 375.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vielen Dank, dass Sie heute zugehört haben.",
+    "t": 382.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
+    "t": 386.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 390.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 391.91
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm zréck! Et ass eis eng Freed, datt Dir haut bei eis sidd.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien alleguer!",
+    "t": 5.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen ze verstoen, wéi d'Land gefouert gëtt.",
+    "t": 7.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "A haut kucke mir eng Regierungsniveau, déi Ärem Alldag am nooste läit... Är Gemeng.",
+    "t": 22.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Är Gemeng ass d'Verwaltung vun Ärer Stad oder Ärem Duerf. Si këmmert sech ëm sou vill alldeeglech Saachen.",
+    "t": 27.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Schoulen, lokal Stroossen, Waasser, Müllofuer, Parken, Sporthalen, de Personestand... d'Lëscht ass laang.",
+    "t": 34.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Lëtzebuerg huet honnert Gemengen, vun der Stad Lëtzebuerg bis zu klenge ländlechen Dierfer.",
+    "t": 41.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "An d'Organisatioun vun haut schwätzt fir si all, zesummen. Si heescht SYVICOL.",
+    "t": 47.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "SYVICOL steet fir de Syndicat des Villes et Communes Luxembourgeoises.",
+    "t": 54.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Op Englesch ass dat ongeféier d'Association of Luxembourg Towns and Communes.",
+    "t": 59.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, wat ass de SYVICOL genau, a firwat existéiert en?",
+    "t": 64.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et ass d'Organisatioun, déi all d'Gemenge vu Lëtzebuerg zu enger gemeinsamer Stëmm zesummebréngt.",
+    "t": 68.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Seng Aufgab ass et, déi gemeinsam Interesse vun de Gemengen ze fërderen, ze schützen an ze verdeedegen.",
+    "t": 74.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Denkt emol doriwwer no. All Gemeng ass éischter kleng. Eleng ass hir Stëmm vläicht roueg.",
+    "t": 79.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mä zesummen, duerch de SYVICOL, kënnen déi honnert Gemenge kloer a mat richtegem Gewiicht schwätzen.",
+    "t": 87.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "A mat wiem schwätze si haaptsächlech?",
+    "t": 93.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Virun allem mat der nationaler Regierung. De SYVICOL ass den Haaptpartner vun der Regierung fir alles, wat d'Gemenge betrëfft.",
+    "t": 96.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also wann de Staat e neit Gesetz plangt, dat d'lokaalt Liewen beréiert, ass de SYVICOL do, fir d'Stied an d'Dierfer ze vertrieden.",
+    "t": 105.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosst eis iwwert eng vu senge wichtegsten Aufgabe schwätzen... säin Avis zu neie Gesetzer ze ginn.",
+    "t": 111.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wann en Entworf vun engem Gesetz d'Gemenge betrëfft, studéiert de SYVICOL en a gëtt en Avis.",
+    "t": 117.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zum Beispill iwwer Reegele iwwert d'Waasser, iwwert d'Schoulen, iwwert d'lokal Finanzen, oder iwwer wéi d'Gemengen organiséiert sinn.",
+    "t": 122.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dësen Avis hëlleft de Gesetzgeber, déi richteg, praktesch Auswierkungen um Terrain ze verstoen.",
+    "t": 130.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Well d'Leit, déi eng Gemeng féieren, wëssen, wat tatsächlech an enger richteger Stad oder engem richtegen Duerf funktionéiere wäert.",
+    "t": 135.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "De SYVICOL ass also eng Bréck... déi déi lokal Erfarung erop bis bei déi national Decisiounen dréit.",
+    "t": 141.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et funktionéiert och an déi aner Richtung. Et hëlleft de Gemengen, Wëssen a gutt Praktiken ënnerteneen ze deelen.",
+    "t": 146.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eng kleng Gemeng, déi virun enger neier Erausfuerderung steet, muss net alles eleng erfannen.",
+    "t": 153.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Duerch de SYVICOL kënnen d'Gemenge sech géigesäiteg berode an aus deem léieren, wat anerer probéiert hunn.",
+    "t": 158.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt och Ënnerstëtzung fir d'Leit, déi d'Gemenge wierklech féieren... d'Gemengeréit.",
+    "t": 163.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. E kommunale Mandatär ze sinn ass eng grouss Verantwortung, an de SYVICOL hëlleft mat Informatioun a Formatioun.",
+    "t": 169.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "An de SYVICOL vertrëtt d'Gemenge vu Lëtzebuerg och iwwert d'Grenzen eraus.",
+    "t": 177.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Um europäeschen Niveau schaffe Stied a Regioune vun iwwerall an Europa zesummen, an d'Gemenge vu Lëtzebuerg hunn och do eng Stëmm.",
+    "t": 182.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sou kënne lokal Suergen net nëmmen national, mä och international héieren ginn.",
+    "t": 190.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosst eis e Schrëtt zréckgoen an eis froen... firwat ass dat fir en normalen Awunner wichteg?",
+    "t": 195.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Well d'Gemeng den Ort ass, wou d'Demokratie Iech am nooste läit. Si formt Är Strooss, Är Schoul, Ärt deeglecht Ëmfeld.",
+    "t": 200.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "An de SYVICOL hëlleft sécherzestellen, datt dëse lokalen Niveau respektéiert a gutt vertruede gëtt, wann grouss Decisioune geholl ginn.",
+    "t": 208.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et ass e rouegen, mä wichtegen Deel dovun, wéi d'Land am Gläichgewiicht bleift... tëscht dem Nationalen an dem Lokalen.",
+    "t": 215.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et hänkt och mat eppes zesummen, wat eis am Biergerpakt um Häerz läit... um lokale Liewen deelzehuelen.",
+    "t": 221.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jo. Är Gemeng ass ee vun den einfachsten Plazen, fir sech anzebréngen, gehéiert ze ginn, an eppes ze beweegen.",
+    "t": 227.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bei de Gemengewahle wielen, enger Kommissioun bäitrieden, op eng ëffentlech Versammlung goen... dat alles formt Är Gemeinschaft.",
+    "t": 235.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "An hannert de Kulissen schafft de SYVICOL drun, datt all dës Gemengen d'Outilen an d'Stëmm hunn, déi se brauchen.",
+    "t": 242.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosst eis et praktesch maachen. Wat kann een dovunner mathuelen?",
+    "t": 248.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als éischt, denkt drun, datt Är Gemeng e groussen Deel vun Ärem Alldag regelt... an datt Dir Iech direkt abréngen kënnt.",
+    "t": 253.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als zweet, wësst, datt all d'Gemenge zesumme handelen, duerch de SYVICOL, wann national Decisiounen d'lokaalt Liewen betreffen.",
+    "t": 259.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als drëtt, wann Dir virwëtzeg sidd, wéi Stied an Dierfer regéiert ginn, ass de SYVICOL d'Plaz, déi se all vertrëtt.",
+    "t": 266.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosst eis et zesummebréngen. Wat sollen d'Leit iwwert de SYVICOL behalen?",
+    "t": 273.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als éischt... et ass den Verband, deen all déi honnert Gemenge vu Lëtzebuerg zu enger gemeinsamer Stëmm vereent.",
+    "t": 278.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als zweet... en fërdert a verdeedegt hir gemeinsam Interessen, an ass den Haaptpartner vun der Regierung an kommunalen Affären.",
+    "t": 285.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Als drëtt... en gëtt Avisen zu Gesetzer, déi d'Gemenge betreffen, an dréit déi lokal Erfarung an déi national Decisiounen.",
+    "t": 292.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "A véiertens... en hëlleft de Gemengen, Wëssen ze deelen, ënnerstëtzt d'Gemengeréit, a vertrëtt se an Europa.",
+    "t": 299.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Gemeng ass do, wou d'Land op Är Hausdier trëfft. An de SYVICOL hëlleft, dëse Niveau staark ze halen.",
+    "t": 306.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Staark lokal Gemeinschafte sinn d'Bausteng vun engem Land, wou d'Leit wierklech zesummeliewen.",
+    "t": 313.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Villmools merci, datt Dir haut nogelauschtert hutt.",
+    "t": 319.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Passt op Iech op, a bis an déi nächst Episod. Äddi!",
+    "t": 322.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 327.13
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "key": "research",
+  "number": "Episode 28",
+  "title": "Research Luxembourg – The Country's Public Research Institutions",
+  "description": "What Research Luxembourg is, the main public-research players it unites (the University of Luxembourg, the institutes LIST, LIH and LISER, the funder FNR and the innovation agency Luxinnovation), the Belval innovation campus, and why public research in health, science, technology and society matters for everyday life.",
+  "audio": "podcast_research.mp3",
+  "duration": 358.85,
+  "topics": [
+   "What Research Luxembourg is",
+   "University of Luxembourg",
+   "LIST, LIH & LISER",
+   "FNR: funding research",
+   "Luxinnovation",
+   "Belval innovation campus",
+   "Why research matters",
+   "Careers & PhDs"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome back!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's wonderful to have you with us today.",
+    "t": 2.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border workers too, to discover the country.",
+    "t": 14.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today we're discovering a side of Luxembourg that many people don't know about... research and science.",
+    "t": 21.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "When we think of Luxembourg, we often think of banks, or of being small.",
+    "t": 27.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "But there's a growing world of science here too.",
+    "t": 32.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "New medicines, clean technologies, studies of society, the digital future... all being explored by researchers in Luxembourg.",
+    "t": 35.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "And there's a shared name that brings these efforts together.",
+    "t": 43.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is called Research Luxembourg.",
+    "t": 47.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Anna, what is Research Luxembourg, exactly?",
+    "t": 50.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is a joint initiative of the country's main public research players, supported by the Ministry of Higher Education and Research.",
+    "t": 54.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "So instead of each institution working alone, they also act together, under one banner, to promote research in Luxembourg.",
+    "t": 62.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Its spirit is to learn, to explore, and to make a real impact for a better future.",
+    "t": 69.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's meet the main players, because each one has its own role.",
+    "t": 75.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "The first is the University of Luxembourg.",
+    "t": 79.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is the country's public university.",
+    "t": 82.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "It's quite young... it was created in 2003.",
+    "t": 85.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "But it has grown fast, and is very international.",
+    "t": 89.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is where students study and where a great deal of research happens, across many fields.",
+    "t": 93.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "The second is the Luxembourg Institute of Science and Technology, often called LIST.",
+    "t": 99.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "LIST works on applied science and technology... materials, the environment, and digital tools that industry can use.",
+    "t": 104.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "The third is the Luxembourg Institute of Health, or LIH.",
+    "t": 112.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "As the name says, it focuses on health... medical research to better understand, prevent and treat disease.",
+    "t": 116.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "The fourth is the Luxembourg Institute of Socio-Economic Research, or LISER.",
+    "t": 124.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "We've met LISER before, in our episode on the Observatoire de l'Habitat.",
+    "t": 129.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "It studies society and the economy.",
+    "t": 134.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Things like work, housing, education, inequality... research that helps us understand how people actually live.",
+    "t": 137.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "The fifth player is a little different.",
+    "t": 144.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is the National Research Fund, often called the FNR.",
+    "t": 147.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "The FNR doesn't mainly do research itself.",
+    "t": 151.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "It funds research, and supports researchers across the country.",
+    "t": 155.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "So it's a bit like the engine room... helping good ideas get the resources they need.",
+    "t": 159.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "And the sixth is Luxinnovation, the national innovation agency.",
+    "t": 165.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxinnovation helps connect research with businesses, so that good ideas become real products and jobs.",
+    "t": 169.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "So together you have universities, institutes, a funder, and an innovation agency, all pulling in the same direction.",
+    "t": 176.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "There's also a special place at the heart of all this... Belval.",
+    "t": 183.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Belval is a former steelworks site in the south of the country, in Esch-sur-Alzette.",
+    "t": 188.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Where furnaces once made steel, there is now a modern campus for research and learning.",
+    "t": 194.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "It's a beautiful symbol... a country moving from heavy industry towards knowledge and innovation.",
+    "t": 199.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's talk about why this matters, even for people who will never work in a laboratory.",
+    "t": 205.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "First, because research improves daily life.",
+    "t": 210.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Better health, cleaner energy, smarter services.",
+    "t": 214.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second, because it builds the future economy.",
+    "t": 218.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Good research attracts talent, companies, and good jobs.",
+    "t": 221.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third, because it helps us understand ourselves... our society, our challenges, and how to face them.",
+    "t": 226.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fourth, because it's a source of pride.",
+    "t": 232.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "A small country can do world-class science.",
+    "t": 236.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "There's also something here for young people, and for newcomers.",
+    "t": 239.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes.",
+    "t": 243.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Research Luxembourg supports research careers, and helps people start a PhD or find a science job.",
+    "t": 245.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "So if you, or your children, are drawn to science, this whole world is open and growing.",
+    "t": 252.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it's deeply international.",
+    "t": 257.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Researchers come from all over the world to work here, side by side.",
+    "t": 260.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Which fits Luxembourg perfectly... many languages, many backgrounds, one shared curiosity.",
+    "t": 264.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's make it practical.",
+    "t": 271.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "What can someone take from this?",
+    "t": 273.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "First, know that Luxembourg has real, serious public research... in health, science, technology and society.",
+    "t": 276.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second, if you're curious, you can follow Research Luxembourg's news and discoveries.",
+    "t": 283.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third, if you or someone you know loves science, there are studies, PhDs and careers to explore here.",
+    "t": 289.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fourth, remember that this research quietly shapes better medicines, greener tech, and wiser policies.",
+    "t": 296
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's bring it all together.",
+    "t": 303.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "What should people remember?",
+    "t": 305.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "First... Research Luxembourg unites the country's main public research players under one banner.",
+    "t": 308.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second... they include the University of Luxembourg, the institutes LIST, LIH and LISER, the funder FNR, and Luxinnovation.",
+    "t": 315.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third... much of it is gathered at Belval, a former steel site reborn as a campus of knowledge.",
+    "t": 323.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fourth... this research improves health, the economy, and our understanding of society, and it welcomes new talent.",
+    "t": 329.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "A country is not only its past.",
+    "t": 337.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is also what it chooses to discover, and to build.",
+    "t": 340.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "And Luxembourg is choosing, more and more, to build with knowledge.",
+    "t": 343.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening today.",
+    "t": 348.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care, stay curious, and see you in the next episode.",
+    "t": 351.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 355.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 357.33
+   }
+  ],
+  "questions": [
+   {
+    "text": "What is Research Luxembourg?",
+    "options": [
+     "A single private laboratory",
+     "A joint initiative uniting the country's main public-research players",
+     "A university abroad",
+     "A tech shop"
+    ],
+    "correct": 1,
+    "explanation": "Research Luxembourg is a joint initiative of the country's main public-research actors, supported by the Ministry of Higher Education and Research, working together to promote research and make an impact."
+   },
+   {
+    "text": "Which of these is part of Research Luxembourg?",
+    "options": [
+     "A football club",
+     "The University of Luxembourg and institutes like LIST, LIH and LISER",
+     "A supermarket",
+     "A bank"
+    ],
+    "correct": 1,
+    "explanation": "Its members include the University of Luxembourg, the Luxembourg Institute of Science and Technology (LIST), the Luxembourg Institute of Health (LIH), the Luxembourg Institute of Socio-Economic Research (LISER), the National Research Fund (FNR) and Luxinnovation."
+   },
+   {
+    "text": "What is the main role of the FNR?",
+    "options": [
+     "To build roads",
+     "To fund research and support researchers",
+     "To sell technology",
+     "To run hospitals"
+    ],
+    "correct": 1,
+    "explanation": "The Luxembourg National Research Fund (FNR) does not mainly do research itself — it funds research and supports researchers across the country, helping good ideas get the resources they need."
+   },
+   {
+    "text": "What is Belval?",
+    "options": [
+     "A shopping centre",
+     "A former steelworks site reborn as a research and innovation campus",
+     "A football stadium",
+     "An airport"
+    ],
+    "correct": 1,
+    "explanation": "Belval, in Esch-sur-Alzette, is a former steelworks site transformed into a modern campus for research and learning — a symbol of a country moving from heavy industry towards knowledge."
+   },
+   {
+    "text": "Why does public research matter for ordinary people?",
+    "options": [
+     "It doesn't",
+     "It improves health, the economy and our understanding of society",
+     "It only helps people abroad",
+     "It raises taxes"
+    ],
+    "correct": 1,
+    "explanation": "Research improves daily life — better health, cleaner energy, smarter services — builds the future economy, helps us understand our society, and attracts talent and good jobs."
+   }
+  ],
+  "categories": [
+   "research"
+  ],
+  "title_fr": "Research Luxembourg – les institutions de recherche publique du pays",
+  "description_fr": "Ce qu'est Research Luxembourg, les principaux acteurs de la recherche publique qu'il réunit (l'Université du Luxembourg, les instituts LIST, LIH et LISER, le bailleur de fonds FNR et l'agence d'innovation Luxinnovation), le campus d'innovation de Belval, et pourquoi la recherche publique dans les domaines de la santé, des sciences, des technologies et de la société est importante pour la vie quotidienne.",
+  "topics_fr": [
+   "Ce qu'est Research Luxembourg",
+   "Université du Luxembourg",
+   "LIST, LIH et LISER",
+   "Le FNR : financer la recherche",
+   "Luxinnovation",
+   "Le campus d'innovation de Belval",
+   "Pourquoi la recherche compte",
+   "Carrières et doctorats"
+  ],
+  "questions_fr": [
+   {
+    "text": "Qu'est-ce que Research Luxembourg ?",
+    "options": [
+     "Un unique laboratoire privé",
+     "Une initiative commune qui réunit les principaux acteurs de la recherche publique du pays",
+     "Une université à l'étranger",
+     "Un magasin de technologie"
+    ],
+    "correct": 1,
+    "explanation": "Research Luxembourg est une initiative commune des principaux acteurs de la recherche publique du pays, soutenue par le ministère de l'Enseignement supérieur et de la Recherche, qui travaillent ensemble pour promouvoir la recherche et avoir un impact."
+   },
+   {
+    "text": "Lequel de ces éléments fait partie de Research Luxembourg ?",
+    "options": [
+     "Un club de football",
+     "L'Université du Luxembourg et des instituts comme LIST, LIH et LISER",
+     "Un supermarché",
+     "Une banque"
+    ],
+    "correct": 1,
+    "explanation": "Ses membres comprennent l'Université du Luxembourg, le Luxembourg Institute of Science and Technology (LIST), le Luxembourg Institute of Health (LIH), le Luxembourg Institute of Socio-Economic Research (LISER), le Fonds national de la recherche (FNR) et Luxinnovation."
+   },
+   {
+    "text": "Quel est le rôle principal du FNR ?",
+    "options": [
+     "Construire des routes",
+     "Financer la recherche et soutenir les chercheurs",
+     "Vendre de la technologie",
+     "Gérer des hôpitaux"
+    ],
+    "correct": 1,
+    "explanation": "Le Fonds national de la recherche (FNR) ne fait pas lui-même de la recherche pour l'essentiel — il finance la recherche et soutient les chercheurs dans tout le pays, aidant les bonnes idées à obtenir les ressources dont elles ont besoin."
+   },
+   {
+    "text": "Qu'est-ce que Belval ?",
+    "options": [
+     "Un centre commercial",
+     "Un ancien site sidérurgique réhabilité en campus de recherche et d'innovation",
+     "Un stade de football",
+     "Un aéroport"
+    ],
+    "correct": 1,
+    "explanation": "Belval, à Esch-sur-Alzette, est un ancien site sidérurgique transformé en un campus moderne de recherche et d'apprentissage — symbole d'un pays passant de l'industrie lourde au savoir."
+   },
+   {
+    "text": "Pourquoi la recherche publique est-elle importante pour les citoyens ordinaires ?",
+    "options": [
+     "Elle ne l'est pas",
+     "Elle améliore la santé, l'économie et notre compréhension de la société",
+     "Elle n'aide que les gens à l'étranger",
+     "Elle augmente les impôts"
+    ],
+    "correct": 1,
+    "explanation": "La recherche améliore la vie quotidienne — une meilleure santé, une énergie plus propre, des services plus intelligents — construit l'économie de demain, nous aide à comprendre notre société, et attire les talents et les bons emplois."
+   }
+  ],
+  "title_de": "Research Luxembourg – Die öffentlichen Forschungseinrichtungen des Landes",
+  "description_de": "Was Research Luxembourg ist, die wichtigsten öffentlichen Forschungsakteure, die es vereint (die Universität Luxemburg, die Institute LIST, LIH und LISER, der Geldgeber FNR und die Innovationsagentur Luxinnovation), der Innovationscampus Belval und warum öffentliche Forschung in Gesundheit, Wissenschaft, Technologie und Gesellschaft für das tägliche Leben wichtig ist.",
+  "topics_de": [
+   "Was Research Luxembourg ist",
+   "Universität Luxemburg",
+   "LIST, LIH & LISER",
+   "FNR: Forschungsförderung",
+   "Luxinnovation",
+   "Innovationscampus Belval",
+   "Warum Forschung zählt",
+   "Karrieren & Doktortitel"
+  ],
+  "questions_de": [
+   {
+    "text": "Was ist Research Luxembourg?",
+    "options": [
+     "Ein einzelnes privates Labor",
+     "Eine gemeinsame Initiative, die die wichtigsten öffentlichen Forschungsakteure des Landes vereint",
+     "Eine Universität im Ausland",
+     "Ein Technikgeschäft"
+    ],
+    "correct": 1,
+    "explanation": "Research Luxembourg ist eine gemeinsame Initiative der wichtigsten öffentlichen Forschungsakteure des Landes, unterstützt vom Ministerium für Hochschulwesen und Forschung, die zusammenarbeiten, um die Forschung zu fördern und Wirkung zu erzielen."
+   },
+   {
+    "text": "Welches davon ist Teil von Research Luxembourg?",
+    "options": [
+     "Ein Fußballverein",
+     "Die Universität Luxemburg und Institute wie LIST, LIH und LISER",
+     "Ein Supermarkt",
+     "Eine Bank"
+    ],
+    "correct": 1,
+    "explanation": "Zu seinen Mitgliedern gehören die Universität Luxemburg, das Luxembourg Institute of Science and Technology (LIST), das Luxembourg Institute of Health (LIH), das Luxembourg Institute of Socio-Economic Research (LISER), der Nationale Forschungsfonds (FNR) und Luxinnovation."
+   },
+   {
+    "text": "Was ist die Hauptaufgabe des FNR?",
+    "options": [
+     "Straßen zu bauen",
+     "Forschung zu fördern und Forschende zu unterstützen",
+     "Technologie zu verkaufen",
+     "Krankenhäuser zu betreiben"
+    ],
+    "correct": 1,
+    "explanation": "Der Nationale Forschungsfonds (FNR) betreibt nicht hauptsächlich selbst Forschung – er fördert Forschung und unterstützt Forschende im ganzen Land und hilft guten Ideen, die nötigen Mittel zu erhalten."
+   },
+   {
+    "text": "Was ist Belval?",
+    "options": [
+     "Ein Einkaufszentrum",
+     "Ein ehemaliges Stahlwerksgelände, das als Forschungs- und Innovationscampus wiedergeboren wurde",
+     "Ein Fußballstadion",
+     "Ein Flughafen"
+    ],
+    "correct": 1,
+    "explanation": "Belval in Esch-sur-Alzette ist ein ehemaliges Stahlwerksgelände, das in einen modernen Campus für Forschung und Lehre umgewandelt wurde – ein Symbol für ein Land, das sich von der Schwerindustrie hin zum Wissen bewegt."
+   },
+   {
+    "text": "Warum ist öffentliche Forschung für die Menschen wichtig?",
+    "options": [
+     "Sie ist es nicht",
+     "Sie verbessert die Gesundheit, die Wirtschaft und unser Verständnis der Gesellschaft",
+     "Sie hilft nur Menschen im Ausland",
+     "Sie erhöht die Steuern"
+    ],
+    "correct": 1,
+    "explanation": "Forschung verbessert das tägliche Leben – bessere Gesundheit, sauberere Energie, intelligentere Dienste –, baut die Wirtschaft der Zukunft auf, hilft uns, unsere Gesellschaft zu verstehen, und zieht Talente und gute Arbeitsplätze an."
+   }
+  ],
+  "audio_fr": "podcast_research_fr.mp3",
+  "duration_fr": 395.86,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour et bienvenue à nouveau !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous sommes ravis de vous compter parmi nous aujourd'hui.",
+    "t": 2.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 6.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 8.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
+    "t": 12.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les travailleurs frontaliers, à découvrir le pays.",
+    "t": 16.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et aujourd'hui, nous découvrons une facette du Luxembourg que beaucoup de gens ne connaissent pas... la recherche et la science.",
+    "t": 23.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quand on pense au Luxembourg, on pense souvent aux banques, ou au fait qu'il est petit.",
+    "t": 30.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais il y a aussi ici un monde scientifique en pleine croissance.",
+    "t": 36.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "De nouveaux médicaments, des technologies propres, des études sur la société, l'avenir numérique... tout cela est exploré par des chercheurs au Luxembourg.",
+    "t": 40.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il existe un nom commun qui rassemble ces efforts.",
+    "t": 49.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il s'appelle Research Luxembourg.",
+    "t": 52.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Anna, qu'est-ce que Research Luxembourg, exactement ?",
+    "t": 55.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est une initiative conjointe des principaux acteurs de la recherche publique du pays, soutenue par le ministère de l'Enseignement supérieur et de la Recherche.",
+    "t": 60.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc, au lieu que chaque institution travaille seule, elles agissent aussi ensemble, sous une même bannière, pour promouvoir la recherche au Luxembourg.",
+    "t": 69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Son esprit est d'apprendre, d'explorer et d'avoir un véritable impact pour un avenir meilleur.",
+    "t": 77.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Faisons connaissance avec les principaux acteurs, car chacun a son propre rôle.",
+    "t": 83.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le premier est l'Université du Luxembourg.",
+    "t": 88.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est l'université publique du pays.",
+    "t": 92.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elle est assez jeune... elle a été créée en 2003.",
+    "t": 95.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mais elle a grandi vite, et elle est très internationale.",
+    "t": 99
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est là que les étudiants étudient et où une grande partie de la recherche se fait, dans de nombreux domaines.",
+    "t": 102.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le deuxième est le Luxembourg Institute of Science and Technology, souvent appelé LIST.",
+    "t": 108.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le LIST travaille sur la science et la technologie appliquées... les matériaux, l'environnement, et les outils numériques que l'industrie peut utiliser.",
+    "t": 114.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le troisième est le Luxembourg Institute of Health, ou LIH.",
+    "t": 123.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comme son nom l'indique, il se concentre sur la santé... la recherche médicale pour mieux comprendre, prévenir et traiter les maladies.",
+    "t": 127.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le quatrième est le Luxembourg Institute of Socio-Economic Research, ou LISER.",
+    "t": 135.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous avons déjà rencontré le LISER, dans notre épisode sur l'Observatoire de l'Habitat.",
+    "t": 140.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il étudie la société et l'économie.",
+    "t": 146.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Des thèmes comme le travail, le logement, l'éducation, les inégalités... une recherche qui nous aide à comprendre comment les gens vivent réellement.",
+    "t": 150.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le cinquième acteur est un peu différent.",
+    "t": 158.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est le Fonds National de la Recherche, souvent appelé le FNR.",
+    "t": 161.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le FNR ne fait pas principalement de la recherche lui-même.",
+    "t": 165.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il finance la recherche, et soutient les chercheurs dans tout le pays.",
+    "t": 169.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est donc un peu comme la salle des machines... il aide les bonnes idées à obtenir les ressources dont elles ont besoin.",
+    "t": 174.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le sixième est Luxinnovation, l'agence nationale de l'innovation.",
+    "t": 180.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxinnovation aide à relier la recherche aux entreprises, pour que les bonnes idées deviennent de vrais produits et de vrais emplois.",
+    "t": 185.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc, ensemble, vous avez des universités, des instituts, un financeur et une agence d'innovation, qui vont tous dans la même direction.",
+    "t": 192.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a aussi un lieu particulier au cœur de tout cela... Belval.",
+    "t": 200.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Belval est une ancienne friche sidérurgique dans le sud du pays, à Esch-sur-Alzette.",
+    "t": 205.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Là où des hauts fourneaux produisaient autrefois de l'acier, il y a maintenant un campus moderne dédié à la recherche et à l'apprentissage.",
+    "t": 211.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est un beau symbole... un pays qui passe de l'industrie lourde vers le savoir et l'innovation.",
+    "t": 218.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons de l'importance de tout cela, même pour les personnes qui ne travailleront jamais dans un laboratoire.",
+    "t": 223.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord, parce que la recherche améliore la vie quotidienne.",
+    "t": 230.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une meilleure santé, une énergie plus propre, des services plus intelligents.",
+    "t": 234.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, parce qu'elle construit l'économie de demain.",
+    "t": 239.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Une bonne recherche attire les talents, les entreprises et les bons emplois.",
+    "t": 242.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement, parce qu'elle nous aide à nous comprendre nous-mêmes... notre société, nos défis, et comment les affronter.",
+    "t": 247.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et quatrièmement, parce que c'est une source de fierté.",
+    "t": 254.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un petit pays peut faire de la science de niveau mondial.",
+    "t": 258.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a aussi quelque chose ici pour les jeunes, et pour les nouveaux arrivants.",
+    "t": 262.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui.",
+    "t": 267.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Research Luxembourg soutient les carrières dans la recherche, et aide les gens à commencer un doctorat ou à trouver un emploi scientifique.",
+    "t": 268.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc, si vous, ou vos enfants, êtes attirés par la science, tout ce monde est ouvert et en pleine croissance.",
+    "t": 276.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et c'est profondément international.",
+    "t": 283.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Des chercheurs viennent du monde entier pour travailler ici, côte à côte.",
+    "t": 286.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce qui correspond parfaitement au Luxembourg... beaucoup de langues, beaucoup d'origines, une même curiosité partagée.",
+    "t": 291.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Soyons concrets.",
+    "t": 298.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Que peut-on retenir de tout cela ?",
+    "t": 300.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord, sachez que le Luxembourg possède une recherche publique réelle et sérieuse... dans la santé, la science, la technologie et la société.",
+    "t": 303.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, si vous êtes curieux, vous pouvez suivre l'actualité et les découvertes de Research Luxembourg.",
+    "t": 311.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement, si vous, ou quelqu'un que vous connaissez, aimez la science, il y a des études, des doctorats et des carrières à explorer ici.",
+    "t": 318.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et quatrièmement, n'oubliez pas que cette recherche façonne discrètement de meilleurs médicaments, des technologies plus vertes et des politiques plus avisées.",
+    "t": 327
+   },
+   {
+    "speaker": "Tom",
+    "text": "Faisons la synthèse.",
+    "t": 335.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que faut-il retenir ?",
+    "t": 337.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Premièrement... Research Luxembourg réunit les principaux acteurs de la recherche publique du pays sous une même bannière.",
+    "t": 340.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement... on y trouve l'Université du Luxembourg, les instituts LIST, LIH et LISER, le financeur FNR, et Luxinnovation.",
+    "t": 347.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement... une grande partie est rassemblée à Belval, une ancienne friche sidérurgique renée en campus du savoir.",
+    "t": 356.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quatrièmement... cette recherche améliore la santé, l'économie et notre compréhension de la société, et elle accueille de nouveaux talents.",
+    "t": 363.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un pays n'est pas seulement son passé.",
+    "t": 371.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est aussi ce qu'il choisit de découvrir, et de construire.",
+    "t": 374.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le Luxembourg choisit, de plus en plus, de construire avec le savoir.",
+    "t": 378.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
+    "t": 384.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous, restez curieux, et à bientôt dans le prochain épisode.",
+    "t": 387.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi !",
+    "t": 392.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi !",
+    "t": 394.24
+   }
+  ],
+  "audio_de": "podcast_research_de.mp3",
+  "duration_de": 434.38,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen zurück!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist wunderbar, dass Sie heute bei uns sind.",
+    "t": 3.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 7.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 9.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 12.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, das Land zu entdecken.",
+    "t": 16.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und heute entdecken wir eine Seite Luxemburgs, die viele Menschen nicht kennen... die Forschung und die Wissenschaft.",
+    "t": 24.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn wir an Luxemburg denken, denken wir oft an Banken oder daran, dass es klein ist.",
+    "t": 31.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber es gibt hier auch eine wachsende Welt der Wissenschaft.",
+    "t": 37.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Neue Medikamente, saubere Technologien, Studien über die Gesellschaft, die digitale Zukunft... all das wird von Forschern in Luxemburg erforscht.",
+    "t": 41.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es gibt einen gemeinsamen Namen, der diese Bemühungen zusammenführt.",
+    "t": 51.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er heißt Research Luxembourg.",
+    "t": 56.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, was ist Research Luxembourg genau?",
+    "t": 59.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist eine gemeinsame Initiative der wichtigsten öffentlichen Forschungsakteure des Landes, unterstützt vom Ministerium für Hochschulwesen und Forschung.",
+    "t": 63.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Anstatt dass also jede Einrichtung allein arbeitet, handeln sie auch gemeinsam, unter einem Banner, um die Forschung in Luxemburg zu fördern.",
+    "t": 73.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sein Geist ist es, zu lernen, zu erforschen und eine echte Wirkung für eine bessere Zukunft zu erzielen.",
+    "t": 82.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Lernen wir die wichtigsten Akteure kennen, denn jeder hat seine eigene Rolle.",
+    "t": 89.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der erste ist die Universität Luxemburg.",
+    "t": 94.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie ist die öffentliche Universität des Landes.",
+    "t": 98.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie ist recht jung... sie wurde 2003 gegründet.",
+    "t": 102.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aber sie ist schnell gewachsen und ist sehr international.",
+    "t": 106.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dort studieren die Studierenden und dort findet ein großer Teil der Forschung statt, in vielen Bereichen.",
+    "t": 110.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der zweite ist das Luxembourg Institute of Science and Technology, oft LIST genannt.",
+    "t": 117.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das LIST arbeitet an angewandter Wissenschaft und Technologie... Materialien, Umwelt und digitale Werkzeuge, die die Industrie nutzen kann.",
+    "t": 123.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der dritte ist das Luxembourg Institute of Health, oder LIH.",
+    "t": 133.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wie der Name sagt, konzentriert es sich auf die Gesundheit... medizinische Forschung, um Krankheiten besser zu verstehen, vorzubeugen und zu behandeln.",
+    "t": 137.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der vierte ist das Luxembourg Institute of Socio-Economic Research, oder LISER.",
+    "t": 148.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wir sind dem LISER schon einmal begegnet, in unserer Folge über das Observatoire de l'Habitat.",
+    "t": 153.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es untersucht die Gesellschaft und die Wirtschaft.",
+    "t": 160.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dinge wie Arbeit, Wohnen, Bildung, Ungleichheit... Forschung, die uns hilft zu verstehen, wie die Menschen tatsächlich leben.",
+    "t": 164.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der fünfte Akteur ist ein wenig anders.",
+    "t": 173.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist der Fonds National de la Recherche, oft FNR genannt.",
+    "t": 176.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der FNR betreibt nicht hauptsächlich selbst Forschung.",
+    "t": 181.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Er finanziert die Forschung und unterstützt Forscher im ganzen Land.",
+    "t": 185.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er ist also ein bisschen wie der Maschinenraum... er hilft guten Ideen, die Ressourcen zu bekommen, die sie brauchen.",
+    "t": 190.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und der sechste ist Luxinnovation, die nationale Innovationsagentur.",
+    "t": 197.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxinnovation hilft dabei, die Forschung mit den Unternehmen zu verbinden, damit aus guten Ideen echte Produkte und Arbeitsplätze werden.",
+    "t": 203.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zusammen haben Sie also Universitäten, Institute, einen Geldgeber und eine Innovationsagentur, die alle in dieselbe Richtung ziehen.",
+    "t": 212.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt auch einen besonderen Ort im Herzen all dessen... Belval.",
+    "t": 221.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Belval ist ein ehemaliges Stahlwerk-Gelände im Süden des Landes, in Esch-sur-Alzette.",
+    "t": 227.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wo einst Hochöfen Stahl herstellten, gibt es jetzt einen modernen Campus für Forschung und Lehre.",
+    "t": 233.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist ein schönes Symbol... ein Land, das sich von der Schwerindustrie hin zu Wissen und Innovation bewegt.",
+    "t": 240.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir darüber, warum das wichtig ist, sogar für Menschen, die niemals in einem Labor arbeiten werden.",
+    "t": 247.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens, weil die Forschung das tägliche Leben verbessert.",
+    "t": 254.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bessere Gesundheit, sauberere Energie, klügere Dienstleistungen.",
+    "t": 259.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens, weil sie die Wirtschaft der Zukunft aufbaut.",
+    "t": 264.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Gute Forschung zieht Talente, Unternehmen und gute Arbeitsplätze an.",
+    "t": 268.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens, weil sie uns hilft, uns selbst zu verstehen... unsere Gesellschaft, unsere Herausforderungen und wie wir ihnen begegnen.",
+    "t": 273.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und viertens, weil sie eine Quelle des Stolzes ist.",
+    "t": 282.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein kleines Land kann Wissenschaft von Weltrang betreiben.",
+    "t": 286.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt hier auch etwas für junge Menschen und für Neuankömmlinge.",
+    "t": 290.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja.",
+    "t": 294.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Research Luxembourg unterstützt Forschungskarrieren und hilft Menschen, ein Doktorat zu beginnen oder eine Stelle in der Wissenschaft zu finden.",
+    "t": 296.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn Sie also, oder Ihre Kinder, sich für die Wissenschaft begeistern, steht diese ganze Welt offen und wächst.",
+    "t": 305.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und sie ist zutiefst international.",
+    "t": 312.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Forscher kommen aus der ganzen Welt, um hier Seite an Seite zu arbeiten.",
+    "t": 315.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was perfekt zu Luxemburg passt... viele Sprachen, viele Herkünfte, eine gemeinsame Neugier.",
+    "t": 320.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Werden wir konkret.",
+    "t": 327.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was kann man daraus mitnehmen?",
+    "t": 329.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens, wissen Sie, dass Luxemburg eine echte, ernsthafte öffentliche Forschung hat... in Gesundheit, Wissenschaft, Technologie und Gesellschaft.",
+    "t": 332.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens, wenn Sie neugierig sind, können Sie die Nachrichten und Entdeckungen von Research Luxembourg verfolgen.",
+    "t": 342.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens, wenn Sie oder jemand, den Sie kennen, die Wissenschaft liebt, gibt es hier Studiengänge, Doktorate und Karrieren zu erkunden.",
+    "t": 349.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und viertens, denken Sie daran, dass diese Forschung im Stillen bessere Medikamente, grünere Technologien und klügere Politiken formt.",
+    "t": 359.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fassen wir alles zusammen.",
+    "t": 368.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was sollte man sich merken?",
+    "t": 371.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens... Research Luxembourg vereint die wichtigsten öffentlichen Forschungsakteure des Landes unter einem Banner.",
+    "t": 373.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens... dazu gehören die Universität Luxemburg, die Institute LIST, LIH und LISER, der Geldgeber FNR und Luxinnovation.",
+    "t": 382.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens... vieles davon ist in Belval versammelt, einem ehemaligen Stahlwerk-Gelände, das als Campus des Wissens wiedergeboren wurde.",
+    "t": 391.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und viertens... diese Forschung verbessert die Gesundheit, die Wirtschaft und unser Verständnis der Gesellschaft, und sie heißt neue Talente willkommen.",
+    "t": 400.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein Land ist nicht nur seine Vergangenheit.",
+    "t": 410.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist auch das, was es zu entdecken und zu bauen wählt.",
+    "t": 413.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und Luxemburg wählt, mehr und mehr, mit dem Wissen zu bauen.",
+    "t": 417.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank, dass Sie uns heute zugehört haben.",
+    "t": 422.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf, bleiben Sie neugierig, und bis zur nächsten Folge.",
+    "t": 426.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 431.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 432.91
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien a wëllkomm zréck! Et ass wonnerbar, datt Dir haut bei eis sidd.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien alleguerten!",
+    "t": 5.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, d'Land z'entdecken.",
+    "t": 7.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "An haut entdecke mir eng Säit vu Lëtzebuerg, déi vill Leit net kennen... d'Fuerschung an d'Wëssenschaft.",
+    "t": 21.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wa mir u Lëtzebuerg denken, denke mir dacks u Banken, oder drun, datt et kleng ass. Mä et gëtt hei och eng wuessend Welt vun der Wëssenschaft.",
+    "t": 27.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nei Medikamenter, propper Technologien, Studien iwwert d'Gesellschaft, déi digital Zukunft... all dat gëtt vu Fuerscher zu Lëtzebuerg erfuerscht.",
+    "t": 35.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et gëtt e gemeinsamen Numm, deen dës Efforten zesummebréngt. Hien heescht Research Luxembourg.",
+    "t": 43.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, wat ass Research Luxembourg genau?",
+    "t": 50.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ass eng gemeinsam Initiativ vun den haaptsächlechen ëffentleche Fuerschungsakteure vum Land, ënnerstëtzt vum Ministère fir Héichschoulwiesen a Fuerschung.",
+    "t": 54.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Anstatt datt also all Institutioun eleng schafft, handele si och zesummen, ënner enger Fändel, fir d'Fuerschung zu Lëtzebuerg ze fërderen.",
+    "t": 62.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Säi Geescht ass et, ze léieren, z'entdecken an en echten Impakt fir eng besser Zukunft ze hunn.",
+    "t": 69.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mir déi haaptsächlech Akteure kenneléieren, well jiddwereen huet seng eege Roll.",
+    "t": 75.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deen éischten ass d'Universitéit Lëtzebuerg. Et ass déi ëffentlech Universitéit vum Land.",
+    "t": 79.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si ass zimlech jonk... si gouf 2003 gegrënnt. Mä si ass séier gewuess, an ass ganz international.",
+    "t": 85.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Do studéieren d'Studenten an do geschitt e groussen Deel vun der Fuerschung, a ville Beräicher.",
+    "t": 93.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deen zweeten ass de Luxembourg Institute of Science and Technology, dacks LIST genannt.",
+    "t": 99.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "De LIST schafft un ugewandter Wëssenschaft an Technologie... Materialien, d'Ëmwelt, an digital Tools, déi d'Industrie ka benotzen.",
+    "t": 104.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deen drëtten ass de Luxembourg Institute of Health, oder LIH.",
+    "t": 112.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wéi den Numm seet, konzentréiert hie sech op d'Gesondheet... medizinesch Fuerschung, fir Krankheeten besser ze verstoen, virzebeugen an ze behandelen.",
+    "t": 116.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deen véierten ass de Luxembourg Institute of Socio-Economic Research, oder LISER.",
+    "t": 124.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mir si dem LISER schonn eng Kéier begéint, an eiser Episod iwwert den Observatoire de l'Habitat. Hien ënnersicht d'Gesellschaft an d'Wirtschaft.",
+    "t": 129.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Saache wéi Aarbecht, Wunnen, Bildung, Ongläichheet... Fuerschung, déi eis hëlleft ze verstoen, wéi d'Leit wierklech liewen.",
+    "t": 137.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deen fënnefte Akteur ass e bësse anescht. Et ass de Fonds National de la Recherche, dacks FNR genannt.",
+    "t": 144.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "De FNR mécht net haaptsächlech selwer Fuerschung. Hie finanzéiert d'Fuerschung, an ënnerstëtzt d'Fuerscher am ganze Land.",
+    "t": 151.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Hien ass also e bësse wéi de Maschinnenraum... hien hëlleft gudden Iddien, d'Ressourcen ze kréien, déi se brauchen.",
+    "t": 159.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "An deen sechsten ass Luxinnovation, déi national Innovatiounsagence.",
+    "t": 165.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxinnovation hëlleft, d'Fuerschung mat de Betriber ze verbannen, sou datt aus gudden Iddien echt Produkter an Aarbechtsplazen ginn.",
+    "t": 169.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also zesummen hutt Dir Universitéiten, Instituter, e Finanzéierer an eng Innovatiounsagence, déi all an déiselwecht Richtung zéien.",
+    "t": 176.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt och e besonneschen Uert am Häerz vun all deem... Belval.",
+    "t": 183.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Belval ass en ehemoolegt Stahlwierk-Gelänn am Süde vum Land, zu Esch-sur-Alzette.",
+    "t": 188.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wou fréier Héichiewen Stahl gemaach hunn, gëtt et elo e modernen Campus fir Fuerschung an Léieren.",
+    "t": 194.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et ass e schéine Symbol... e Land, dat sech vun der Schwéierindustrie hin zum Wëssen an zur Innovatioun beweegt.",
+    "t": 199.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosse mir doriwwer schwätzen, firwat dat wichteg ass, esouguer fir Leit, déi ni an engem Labo schaffe wäerten.",
+    "t": 205.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Éischtens, well d'Fuerschung dat alldeeglecht Liewe verbessert. Eng besser Gesondheet, méi propper Energie, méi schlau Servicer.",
+    "t": 210.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens, well se d'Wirtschaft vun der Zukunft opbaut. Gutt Fuerschung zitt Talenter, Betriber a gutt Aarbechtsplazen un.",
+    "t": 218.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens, well se eis hëlleft, eis selwer ze verstoen... eis Gesellschaft, eis Erausfuerderungen, a wéi mir hinne begéinen.",
+    "t": 226.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "A véiertens, well et eng Quell vu Stolz ass. E klengt Land ka Wëssenschaft op Weltniveau maachen.",
+    "t": 232.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt hei och eppes fir jonk Leit, a fir Neiukënschtleng.",
+    "t": 239.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. Research Luxembourg ënnerstëtzt Fuerschungskarrièren, an hëlleft de Leit, en Doktorat unzefänken oder eng Wëssenschaftsplaz ze fannen.",
+    "t": 243.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also wann Dir, oder Är Kanner, vun der Wëssenschaft ugezunn sidd, ass dës ganz Welt op a wiisst.",
+    "t": 252.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et ass déif international. Fuerscher kommen aus der ganzer Welt, fir hei Säit u Säit ze schaffen.",
+    "t": 257.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wat perfekt zu Lëtzebuerg passt... vill Sproochen, vill Hierkonften, eng gemeinsam Virwëtz.",
+    "t": 264.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosse mir et konkret maachen. Wat kann een doraus mathuelen?",
+    "t": 271.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Éischtens, wësst, datt Lëtzebuerg eng echt, eescht ëffentlech Fuerschung huet... an der Gesondheet, der Wëssenschaft, der Technologie an der Gesellschaft.",
+    "t": 276.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens, wann Dir virwëtzeg sidd, kënnt Dir d'Neiegkeeten an Entdeckunge vu Research Luxembourg verfollegen.",
+    "t": 283.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens, wann Dir oder een, deen Dir kennt, d'Wëssenschaft gär huet, gëtt et hei Studien, Doktoraten a Karrièren z'entdecken.",
+    "t": 289.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "A véiertens, denkt drun, datt dës Fuerschung roueg besser Medikamenter, méi gréng Technologien a méi klug Politiken formt.",
+    "t": 296
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loosse mir alles zesummebréngen. Wat sollen d'Leit sech mierken?",
+    "t": 303.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Éischtens... Research Luxembourg vereent déi haaptsächlech ëffentlech Fuerschungsakteure vum Land ënner enger Fändel.",
+    "t": 308.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweetens... dozou gehéieren d'Universitéit Lëtzebuerg, d'Instituter LIST, LIH a LISER, de Finanzéierer FNR, a Luxinnovation.",
+    "t": 315.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drëttens... vill dovun ass zu Belval gesammelt, en ehemoolegt Stahlwierk-Gelänn, dat als Campus vum Wëssen erëmgebuer gouf.",
+    "t": 323.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "A véiertens... dës Fuerschung verbessert d'Gesondheet, d'Wirtschaft an eist Verständnis vun der Gesellschaft, a si begréisst nei Talenter.",
+    "t": 329.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "E Land ass net nëmme seng Vergaangenheet. Et ass och dat, wat et wielt z'entdecken an opzebauen.",
+    "t": 337.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "A Lëtzebuerg wielt, méi a méi, mam Wëssen ze bauen.",
+    "t": 343.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools merci, datt Dir eis haut nogelauschtert hutt.",
+    "t": 348.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passt op iech op, bleift virwëtzeg, a bis an déi nächst Episod. Äddi!",
+    "t": 351.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 357.33
+   }
+  ]
  }
 ];
