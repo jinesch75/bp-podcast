@@ -19,7 +19,9 @@ Open `index.html` in a browser — it's a static site, no server needed.
 - `build/` — reusable build scripts (see "Tooling").
 - `episodes_data.*.js` (backup.js / prevsync.js / prelb.js) — old backups; harmless. iCloud blocks `rm` from bash; delete via Finder if wanted.
 
-## Episodes (39 so far)
+## Episodes (40 so far)
+
+(+ 40:lll — lifelong-learning.lu, a longer ~10-min episode, tagged `work`.)
 
 id:key — 1:myguichet, 2:dsp_cns, 3:eltereforum, 4:benevolat, 5:lualert, 6:luxtrust, 7:maison_orientation, 8:infosenior, 9:accessibilite, 10:zukunftskeess, 11:fns, 12:granderegion, 13:digitalinclusion, 14:onis, 15:workinluxembourg, 16:adem, 17:habitat (Observatoire de l'Habitat), 18:klima (Klima-Agence), 19:snj (Service National de la Jeunesse), 20:enfance (Office National de l'Enfance), 21:cepas (CePAS), 22:fondseuropeens (Fonds européens), 23:zesumme (Zesumme Vereinfachen), 24:cgdis (CGDIS / 112), 25:statec (STATEC / statistics portal), 26:environnement (emwelt.lu), 27:syvicol (SYVICOL), 28:research (Research Luxembourg), 29:agriculture (agriculture portal), 30:amenagement (spatial planning), 31:aaa (accident insurance), 32:geoportail (national maps), 33:govcert (GOVCERT.LU cybersecurity), 34:culture (culture.lu), 35:demenz (Info-Zenter Demenz), 36:ess (social & solidarity economy), 37:luxinnovation (Luxinnovation), 38:logement (housing portal), 39:space (Luxembourg Space Agency).
 
