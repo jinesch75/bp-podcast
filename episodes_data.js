@@ -82400,5 +82400,1709 @@ const EPISODES = [
     "t": 357.33
    }
   ]
+ },
+ {
+  "id": 29,
+  "key": "agriculture",
+  "number": "Episode 29",
+  "title": "The Agriculture Portal – Food, Farming and Wine in Luxembourg",
+  "description": "What the agriculture portal (agriculture.public.lu) is, run by the Ministry of Agriculture, Food and Viticulture: farming, food and wine, the bodies that support them such as ASTA and the wine institute in Remich, organic farming (PAN-Bio), animal welfare and the law, the Moselle wines and Crémant, and why local and seasonal food matters.",
+  "audio": "podcast_agriculture.mp3",
+  "duration": 373.32,
+  "topics": [
+   "The agriculture portal",
+   "Farming, food & wine",
+   "Ministry of Agriculture, Food & Viticulture",
+   "ASTA: technical services",
+   "Organic farming (PAN-Bio)",
+   "Animal welfare & the law",
+   "Moselle wine & Crémant",
+   "Local & seasonal food"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome back!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's lovely to have you with us today.",
+    "t": 2.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 5.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "This episode is part of the Biergerpakt.",
+    "t": 7.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is a programme about living together in Luxembourg.",
+    "t": 10.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is simple... we want to help residents, and cross-border workers too, to feel connected to the country.",
+    "t": 14.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today's topic connects us all, three times a day... food.",
+    "t": 21.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "The bread on your table, the vegetables on your plate, the glass of wine on a Friday evening.",
+    "t": 26.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Behind all of that is farming, and the people who care for the land and the animals.",
+    "t": 31.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "And there is an official place that brings all of this together... the agriculture portal.",
+    "t": 37.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "The website is agriculture dot public dot lu.",
+    "t": 42.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is run by the Ministry of Agriculture, Food and Viticulture.",
+    "t": 46.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "\"Viticulture\" is a lovely word.",
+    "t": 50.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "It simply means the growing of grapes, for wine.",
+    "t": 53.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "So this portal covers three big things... farming, food, and wine.",
+    "t": 57.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Anna, who actually does the work behind this ministry?",
+    "t": 62.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "The ministry oversees several specialised administrations, each with its own role.",
+    "t": 66.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "One of the most important is known by its initials, ASTA.",
+    "t": 72.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "ASTA is the technical agricultural services administration.",
+    "t": 76.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Think of it as the science and support behind farming.",
+    "t": 81.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "It gives farmers advice, watches the weather, and warns about crop diseases and pests.",
+    "t": 84.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "It also supports more sustainable farming, with less chemical spraying and better use of natural fertiliser.",
+    "t": 90.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is also a dedicated wine institute, based in Remich, on the Moselle river.",
+    "t": 97.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxembourg has a real wine tradition along the Moselle... white wines, and the sparkling wine called Crémant.",
+    "t": 102.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "The wine institute supports the winegrowers, and helps keep the quality high.",
+    "t": 109.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "And there is an administration that looks after animal health and welfare, and the safety of our food.",
+    "t": 114.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "So from the field, to the animal, to the plate... each step has people watching over it.",
+    "t": 121.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's talk about a theme that's growing fast... organic farming.",
+    "t": 126.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Organic farming works with nature, in a closed cycle, without synthetic chemicals.",
+    "t": 131.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxembourg has a plan, called PAN-Bio, to grow the share of organic farming in the country.",
+    "t": 136.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "So when you see organic products in the shop, there is a national effort behind that choice.",
+    "t": 142.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now let's talk about something close to many hearts... animal welfare.",
+    "t": 148.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Luxembourg has an animal protection law that is quite advanced.",
+    "t": 153.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "It protects the dignity, the safety and the wellbeing of animals, throughout their whole life.",
+    "t": 157.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "And that's not only about farm animals.",
+    "t": 163.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "It matters for pet owners too.",
+    "t": 166.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you have a dog, a cat, or any animal, you have a duty to care for it properly.",
+    "t": 169.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "The portal has guidance on this.",
+    "t": 175.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's come back to wine for a moment, because it's part of Luxembourg's culture.",
+    "t": 178.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "The Moselle valley, in the east, is full of vineyards on sunny slopes.",
+    "t": 183.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "And in summer, there are vineyard walks and activities, where you can learn how wine is made.",
+    "t": 188.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "The portal even lists events... like nature and vineyard trails, open to everyone.",
+    "t": 193.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "So this isn't only for farmers.",
+    "t": 199.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "It's an invitation to discover where our food and drink come from.",
+    "t": 202.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's talk about local and seasonal food, which is good for everyone.",
+    "t": 206.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Buying local, seasonal products supports the farmers near you, and often tastes better and travels less.",
+    "t": 211.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "The ministry encourages this link between the people who produce food and the people who eat it.",
+    "t": 217.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "A short distance from field to fork is good for the land, the economy, and the community.",
+    "t": 223.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now, farming is not easy, and farmers don't do it alone.",
+    "t": 229.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "They receive support, including aids under the European Union's Common Agricultural Policy.",
+    "t": 233.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "We talked about European funds in another episode.",
+    "t": 239.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Farming is one of the big areas Europe supports.",
+    "t": 243.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "And the ministry offers advice and training, to help farms be modern, sustainable, and resilient.",
+    "t": 247.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's step back and ask... why does all this matter for someone who never sets foot on a farm?",
+    "t": 253.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "First, because everyone eats.",
+    "t": 259.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Good farming means safe, healthy, quality food on your plate.",
+    "t": 262
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second, because farmers shape the landscape... the fields, hedges and meadows we all enjoy.",
+    "t": 266.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third, because animal welfare reflects the kind of society we want to be.",
+    "t": 272.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fourth, because supporting local food keeps the countryside alive, and the community strong.",
+    "t": 277.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "So Tom, let's make it practical.",
+    "t": 284.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "What can someone do with all this?",
+    "t": 287.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "First, when you shop, look for local and seasonal products, and try organic ones.",
+    "t": 290.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second, if you keep animals, check the portal's guidance to care for them well and within the law.",
+    "t": 296.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third, in summer, visit the Moselle, take a vineyard walk, and taste a local wine or Crémant.",
+    "t": 302.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fourth, if you're curious about farming, food or wine, the portal has reliable information.",
+    "t": 308.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's bring it all together.",
+    "t": 315.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "What should people remember?",
+    "t": 317.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "First... the agriculture portal, agriculture dot public dot lu, covers farming, food and wine, from the Ministry of Agriculture, Food and Viticulture.",
+    "t": 319.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second... specialised bodies support it... ASTA for technical services, the wine institute in Remich, and a body for animal welfare and food safety.",
+    "t": 329.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third... Luxembourg is growing organic farming and protects animal welfare by law.",
+    "t": 340.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fourth... by choosing local and seasonal food, we all play a part in a healthy food system.",
+    "t": 346.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Food connects every one of us to the land, and to each other.",
+    "t": 353.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "And knowing the story behind our plate helps us value it, and the people who make it possible.",
+    "t": 357.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you so much for listening today.",
+    "t": 362.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Take care, eat well, and see you in the next episode.",
+    "t": 365.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 370.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 371.64
+   }
+  ],
+  "questions": [
+   {
+    "text": "What does the agriculture portal (agriculture.public.lu) cover?",
+    "options": [
+     "Only tractors for sale",
+     "Farming, food and wine in Luxembourg",
+     "Only the weather",
+     "Stock prices"
+    ],
+    "correct": 1,
+    "explanation": "The agriculture portal, run by the Ministry of Agriculture, Food and Viticulture, brings together information on farming, food, viticulture (wine) and agricultural products."
+   },
+   {
+    "text": "What does “viticulture” mean?",
+    "options": [
+     "Keeping bees",
+     "The growing of grapes, for wine",
+     "Raising cattle",
+     "Growing wheat"
+    ],
+    "correct": 1,
+    "explanation": "Viticulture is the growing of grapes for wine. Luxembourg has a real wine tradition along the Moselle river, including the sparkling wine called Crémant."
+   },
+   {
+    "text": "What is ASTA?",
+    "options": [
+     "A supermarket chain",
+     "The technical agricultural services administration that advises and supports farmers",
+     "A bank for farmers",
+     "A wine brand"
+    ],
+    "correct": 1,
+    "explanation": "ASTA, the Administration des services techniques de l'agriculture, is the science and support behind farming — giving advice, watching the weather, warning about crop diseases and pests, and supporting more sustainable farming."
+   },
+   {
+    "text": "What does Luxembourg's animal protection law protect?",
+    "options": [
+     "Only farm animals' prices",
+     "The dignity, safety and wellbeing of animals throughout their life",
+     "Only wild animals abroad",
+     "Nothing — it is only a guideline"
+    ],
+    "correct": 1,
+    "explanation": "Luxembourg's animal protection law protects the dignity, safety and wellbeing of animals throughout their whole life. It matters not only for farm animals but for pet owners too."
+   },
+   {
+    "text": "What is one simple way a citizen can support good farming?",
+    "options": [
+     "Never eat vegetables",
+     "Choose local and seasonal products, and try organic ones",
+     "Only buy imported food",
+     "Avoid all Luxembourg wine"
+    ],
+    "correct": 1,
+    "explanation": "Buying local and seasonal products supports nearby farmers, often tastes better and travels less. Luxembourg is also growing organic farming through its PAN-Bio action plan."
+   }
+  ],
+  "categories": [
+   "agriculture"
+  ],
+  "title_fr": "Le portail de l'agriculture – alimentation, agriculture et vin au Luxembourg",
+  "description_fr": "Ce qu'est le portail de l'agriculture (agriculture.public.lu), géré par le ministère de l'Agriculture, de l'Alimentation et de la Viticulture : l'agriculture, l'alimentation et le vin, les administrations qui les soutiennent comme l'ASTA et l'Institut viti-vinicole de Remich, l'agriculture biologique (PAN-Bio), le bien-être animal et la loi, les vins de la Moselle et le Crémant, et l'importance des produits locaux et de saison.",
+  "topics_fr": [
+   "Le portail de l'agriculture",
+   "Agriculture, alimentation & vin",
+   "Ministère de l'Agriculture",
+   "ASTA : services techniques",
+   "Agriculture biologique (PAN-Bio)",
+   "Bien-être animal & la loi",
+   "Vins de la Moselle & Crémant",
+   "Produits locaux & de saison"
+  ],
+  "questions_fr": [
+   {
+    "text": "Que couvre le portail de l'agriculture (agriculture.public.lu) ?",
+    "options": [
+     "Uniquement des tracteurs à vendre",
+     "L'agriculture, l'alimentation et le vin au Luxembourg",
+     "Uniquement la météo",
+     "Les cours de la bourse"
+    ],
+    "correct": 1,
+    "explanation": "Le portail de l'agriculture, géré par le ministère de l'Agriculture, de l'Alimentation et de la Viticulture, rassemble les informations sur l'agriculture, l'alimentation, la viticulture (le vin) et les produits agricoles."
+   },
+   {
+    "text": "Que signifie « viticulture » ?",
+    "options": [
+     "L'apiculture",
+     "La culture de la vigne, pour le vin",
+     "L'élevage de bovins",
+     "La culture du blé"
+    ],
+    "correct": 1,
+    "explanation": "La viticulture est la culture de la vigne pour produire du vin. Le Luxembourg a une véritable tradition viticole le long de la Moselle, dont le vin mousseux appelé Crémant."
+   },
+   {
+    "text": "Qu'est-ce que l'ASTA ?",
+    "options": [
+     "Une chaîne de supermarchés",
+     "L'administration des services techniques de l'agriculture, qui conseille et soutient les agriculteurs",
+     "Une banque pour agriculteurs",
+     "Une marque de vin"
+    ],
+    "correct": 1,
+    "explanation": "L'ASTA, l'Administration des services techniques de l'agriculture, est le soutien scientifique et technique de l'agriculture : conseils, surveillance de la météo, alertes sur les maladies et ravageurs des cultures, et soutien à une agriculture plus durable."
+   },
+   {
+    "text": "Que protège la loi luxembourgeoise sur la protection des animaux ?",
+    "options": [
+     "Uniquement le prix des animaux de ferme",
+     "La dignité, la sécurité et le bien-être des animaux tout au long de leur vie",
+     "Uniquement les animaux sauvages à l'étranger",
+     "Rien — ce n'est qu'une recommandation"
+    ],
+    "correct": 1,
+    "explanation": "La loi luxembourgeoise sur la protection des animaux protège la dignité, la sécurité et le bien-être des animaux tout au long de leur vie. Elle concerne non seulement les animaux de ferme, mais aussi les propriétaires d'animaux de compagnie."
+   },
+   {
+    "text": "Quelle est une façon simple, pour un citoyen, de soutenir une bonne agriculture ?",
+    "options": [
+     "Ne jamais manger de légumes",
+     "Choisir des produits locaux et de saison, et essayer le bio",
+     "N'acheter que des aliments importés",
+     "Éviter tout vin luxembourgeois"
+    ],
+    "correct": 1,
+    "explanation": "Acheter des produits locaux et de saison soutient les agriculteurs proches de chez vous, a souvent meilleur goût et voyage moins. Le Luxembourg développe aussi l'agriculture biologique grâce à son plan d'action PAN-Bio."
+   }
+  ],
+  "title_de": "Das Agrarportal – Ernährung, Landwirtschaft und Wein in Luxemburg",
+  "description_de": "Was das Agrarportal (agriculture.public.lu) ist, betrieben vom Ministerium für Landwirtschaft, Ernährung und Weinbau: Landwirtschaft, Ernährung und Wein, die unterstützenden Verwaltungen wie die ASTA und das Institut viti-vinicole in Remich, die biologische Landwirtschaft (PAN-Bio), das Tierwohl und das Gesetz, die Weine der Mosel und der Crémant, und warum lokale und saisonale Produkte wichtig sind.",
+  "topics_de": [
+   "Das Agrarportal",
+   "Landwirtschaft, Ernährung & Wein",
+   "Ministerium für Landwirtschaft",
+   "ASTA: technische Dienste",
+   "Biologische Landwirtschaft (PAN-Bio)",
+   "Tierwohl & das Gesetz",
+   "Moselweine & Crémant",
+   "Lokale & saisonale Produkte"
+  ],
+  "questions_de": [
+   {
+    "text": "Was deckt das Agrarportal (agriculture.public.lu) ab?",
+    "options": [
+     "Nur Traktoren zum Verkauf",
+     "Landwirtschaft, Ernährung und Wein in Luxemburg",
+     "Nur das Wetter",
+     "Börsenkurse"
+    ],
+    "correct": 1,
+    "explanation": "Das Agrarportal, betrieben vom Ministerium für Landwirtschaft, Ernährung und Weinbau, bündelt Informationen über Landwirtschaft, Ernährung, Weinbau (Wein) und landwirtschaftliche Produkte."
+   },
+   {
+    "text": "Was bedeutet „Weinbau“ (viticulture)?",
+    "options": [
+     "Imkerei",
+     "Der Anbau von Trauben, für Wein",
+     "Rinderzucht",
+     "Weizenanbau"
+    ],
+    "correct": 1,
+    "explanation": "Weinbau ist der Anbau von Trauben zur Weinherstellung. Luxemburg hat eine echte Weintradition entlang der Mosel, einschließlich des Schaumweins namens Crémant."
+   },
+   {
+    "text": "Was ist die ASTA?",
+    "options": [
+     "Eine Supermarktkette",
+     "Die Verwaltung der technischen Agrardienste, die Landwirte berät und unterstützt",
+     "Eine Bank für Landwirte",
+     "Eine Weinmarke"
+    ],
+    "correct": 1,
+    "explanation": "Die ASTA, die Administration des services techniques de l'agriculture, ist die wissenschaftliche und technische Unterstützung der Landwirtschaft: Beratung, Wetterüberwachung, Warnungen vor Pflanzenkrankheiten und Schädlingen sowie Unterstützung einer nachhaltigeren Landwirtschaft."
+   },
+   {
+    "text": "Was schützt das luxemburgische Tierschutzgesetz?",
+    "options": [
+     "Nur den Preis von Nutztieren",
+     "Die Würde, die Sicherheit und das Wohlergehen der Tiere ihr ganzes Leben lang",
+     "Nur Wildtiere im Ausland",
+     "Nichts — es ist nur eine Empfehlung"
+    ],
+    "correct": 1,
+    "explanation": "Das luxemburgische Tierschutzgesetz schützt die Würde, die Sicherheit und das Wohlergehen der Tiere ihr ganzes Leben lang. Es betrifft nicht nur Nutztiere, sondern auch Haustierhalter."
+   },
+   {
+    "text": "Was ist eine einfache Möglichkeit für Bürger, eine gute Landwirtschaft zu unterstützen?",
+    "options": [
+     "Nie Gemüse essen",
+     "Lokale und saisonale Produkte wählen und Bio ausprobieren",
+     "Nur importierte Lebensmittel kaufen",
+     "Jeden luxemburgischen Wein meiden"
+    ],
+    "correct": 1,
+    "explanation": "Der Kauf lokaler und saisonaler Produkte unterstützt die Landwirte in Ihrer Nähe, schmeckt oft besser und legt kürzere Wege zurück. Luxemburg baut die biologische Landwirtschaft auch über seinen Aktionsplan PAN-Bio aus."
+   }
+  ],
+  "audio_fr": "podcast_agriculture_fr.mp3",
+  "duration_fr": 412.68,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour, et bienvenue à nouveau !",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 3.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à toutes et à tous !",
+    "t": 6.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cet épisode fait partie du Biergerpakt.",
+    "t": 9.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
+    "t": 12.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les frontaliers, à se sentir liés au pays.",
+    "t": 16.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le sujet d'aujourd'hui nous concerne tous, trois fois par jour... l'alimentation.",
+    "t": 23.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le pain sur votre table, les légumes dans votre assiette, le verre de vin un vendredi soir.",
+    "t": 28.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Derrière tout cela, il y a l'agriculture, et les personnes qui prennent soin de la terre et des animaux.",
+    "t": 34.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il existe un endroit officiel qui rassemble tout cela... le portail de l'agriculture.",
+    "t": 40.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le site internet est agriculture point public point lu.",
+    "t": 45.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est géré par le ministère de l'Agriculture, de l'Alimentation et de la Viticulture.",
+    "t": 49.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "« Viticulture » est un joli mot.",
+    "t": 55.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela signifie simplement la culture du raisin, pour le vin.",
+    "t": 58.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Donc ce portail couvre trois grands domaines... l'agriculture, l'alimentation et le vin.",
+    "t": 62.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Anna, qui fait concrètement le travail derrière ce ministère ?",
+    "t": 68.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le ministère supervise plusieurs administrations spécialisées, chacune avec son propre rôle.",
+    "t": 73.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'une des plus importantes est connue par ses initiales, ASTA.",
+    "t": 79.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'ASTA est l'administration des services techniques de l'agriculture.",
+    "t": 83.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Voyez-la comme la science et le soutien derrière l'agriculture.",
+    "t": 88.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elle conseille les agriculteurs, surveille la météo, et alerte sur les maladies des cultures et les ravageurs.",
+    "t": 92.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle soutient aussi une agriculture plus durable, avec moins de pulvérisation chimique et un meilleur usage des engrais naturels.",
+    "t": 99.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il existe aussi un institut du vin dédié, basé à Remich, sur la Moselle.",
+    "t": 106.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le Luxembourg a une véritable tradition viticole le long de la Moselle... des vins blancs, et le vin pétillant appelé Crémant.",
+    "t": 112.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'institut viti-vinicole soutient les vignerons, et aide à maintenir une qualité élevée.",
+    "t": 119.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il y a une administration qui veille sur la santé et le bien-être des animaux, et sur la sécurité de notre alimentation.",
+    "t": 124.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc, du champ, à l'animal, à l'assiette... chaque étape a des personnes qui veillent sur elle.",
+    "t": 132.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons d'un thème qui se développe rapidement... l'agriculture biologique.",
+    "t": 137.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'agriculture biologique travaille avec la nature, dans un cycle fermé, sans produits chimiques de synthèse.",
+    "t": 142.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le Luxembourg a un plan, appelé PAN-Bio, pour augmenter la part de l'agriculture biologique dans le pays.",
+    "t": 149.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc quand vous voyez des produits biologiques en magasin, il y a un effort national derrière ce choix.",
+    "t": 156.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Maintenant, parlons de quelque chose qui tient à cœur à beaucoup de gens... le bien-être animal.",
+    "t": 161.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le Luxembourg a une loi sur la protection des animaux qui est assez avancée.",
+    "t": 167.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle protège la dignité, la sécurité et le bien-être des animaux, tout au long de leur vie.",
+    "t": 172.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et cela ne concerne pas seulement les animaux de ferme.",
+    "t": 178.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela compte aussi pour les propriétaires d'animaux de compagnie.",
+    "t": 182.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous avez un chien, un chat, ou n'importe quel animal, vous avez le devoir d'en prendre soin correctement.",
+    "t": 186.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le portail propose des conseils à ce sujet.",
+    "t": 193.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Revenons un instant au vin, car il fait partie de la culture du Luxembourg.",
+    "t": 196.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "La vallée de la Moselle, à l'est, est remplie de vignobles sur des coteaux ensoleillés.",
+    "t": 201.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et en été, il y a des promenades dans les vignes et des activités, où vous pouvez apprendre comment le vin est fabriqué.",
+    "t": 207.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le portail répertorie même des événements... comme des sentiers nature et viticoles, ouverts à tous.",
+    "t": 213.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc ce n'est pas seulement pour les agriculteurs.",
+    "t": 220.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est une invitation à découvrir d'où viennent notre nourriture et nos boissons.",
+    "t": 223.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons de l'alimentation locale et de saison, qui est bonne pour tout le monde.",
+    "t": 227.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Acheter des produits locaux et de saison soutient les agriculteurs près de chez vous, et cela a souvent meilleur goût et voyage moins.",
+    "t": 232.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le ministère encourage ce lien entre les personnes qui produisent la nourriture et celles qui la mangent.",
+    "t": 239.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une courte distance du champ à l'assiette est bonne pour la terre, l'économie et la communauté.",
+    "t": 245.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Maintenant, l'agriculture n'est pas facile, et les agriculteurs ne le font pas seuls.",
+    "t": 250.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils reçoivent un soutien, y compris des aides au titre de la Politique agricole commune (PAC) de l'Union européenne.",
+    "t": 256.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous avons parlé des fonds européens dans un autre épisode.",
+    "t": 263.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'agriculture est l'un des grands domaines que l'Europe soutient.",
+    "t": 267.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le ministère propose des conseils et des formations, pour aider les exploitations à être modernes, durables et résilientes.",
+    "t": 271.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Prenons du recul et demandons-nous... pourquoi tout cela compte-t-il pour quelqu'un qui ne met jamais les pieds dans une ferme ?",
+    "t": 278.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord, parce que tout le monde mange.",
+    "t": 284.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une bonne agriculture signifie une nourriture sûre, saine et de qualité dans votre assiette.",
+    "t": 287.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, parce que les agriculteurs façonnent le paysage... les champs, les haies et les prairies dont nous profitons tous.",
+    "t": 293.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement, parce que le bien-être animal reflète le genre de société que nous voulons être.",
+    "t": 300.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et quatrièmement, parce que soutenir l'alimentation locale maintient la campagne vivante, et la communauté forte.",
+    "t": 306.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors Tom, rendons cela concret.",
+    "t": 313.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que peut faire quelqu'un avec tout cela ?",
+    "t": 316.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'abord, quand vous faites vos courses, cherchez des produits locaux et de saison, et essayez les produits biologiques.",
+    "t": 319.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ensuite, si vous avez des animaux, consultez les conseils du portail pour bien en prendre soin et dans le respect de la loi.",
+    "t": 326.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement, en été, visitez la Moselle, faites une promenade dans les vignes, et goûtez un vin local ou un Crémant.",
+    "t": 333.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quatrièmement, si vous êtes curieux au sujet de l'agriculture, de l'alimentation ou du vin, le portail propose des informations fiables.",
+    "t": 340.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Rassemblons tout cela.",
+    "t": 348.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Que doivent retenir les gens ?",
+    "t": 351.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'abord... le portail de l'agriculture, agriculture point public point lu, couvre l'agriculture, l'alimentation et le vin, du ministère de l'Agriculture, de l'Alimentation et de la Viticulture.",
+    "t": 353.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite... des organismes spécialisés le soutiennent... l'ASTA pour les services techniques, l'institut du vin à Remich, et un organisme pour le bien-être animal et la sécurité alimentaire.",
+    "t": 365.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement... le Luxembourg développe l'agriculture biologique et protège le bien-être animal par la loi.",
+    "t": 376.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et quatrièmement... en choisissant une alimentation locale et de saison, nous jouons tous un rôle dans un système alimentaire sain.",
+    "t": 382.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'alimentation nous relie tous à la terre, et les uns aux autres.",
+    "t": 390.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et connaître l'histoire derrière notre assiette nous aide à la valoriser, ainsi que les personnes qui la rendent possible.",
+    "t": 394.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
+    "t": 401.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Prenez soin de vous, mangez bien, et à bientôt dans le prochain épisode.",
+    "t": 404.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi !",
+    "t": 409.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi !",
+    "t": 411.17
+   }
+  ],
+  "audio_de": "podcast_agriculture_de.mp3",
+  "duration_de": 451.22,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen zurück!",
+    "t": 0.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schön, dass Sie heute bei uns sind.",
+    "t": 3.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 6.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Folge ist Teil des Biergerpakt.",
+    "t": 8.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
+    "t": 11.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, sich mit dem Land verbunden zu fühlen.",
+    "t": 16.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und das heutige Thema verbindet uns alle, dreimal am Tag... das Essen.",
+    "t": 24.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Brot auf Ihrem Tisch, das Gemüse auf Ihrem Teller, das Glas Wein an einem Freitagabend.",
+    "t": 30.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hinter all dem steht die Landwirtschaft, und die Menschen, die sich um das Land und die Tiere kümmern.",
+    "t": 36.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es gibt einen offiziellen Ort, der all das zusammenbringt... das Agrarportal.",
+    "t": 42.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Webseite ist agriculture Punkt public Punkt lu.",
+    "t": 48.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es wird vom Ministerium für Landwirtschaft, Ernährung und Weinbau betrieben.",
+    "t": 52.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "„Weinbau\" ist ein schönes Wort.",
+    "t": 58.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es bedeutet einfach den Anbau von Trauben, für Wein.",
+    "t": 61.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieses Portal deckt also drei große Bereiche ab... Landwirtschaft, Ernährung und Wein.",
+    "t": 65.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, wer macht eigentlich die Arbeit hinter diesem Ministerium?",
+    "t": 72.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Ministerium beaufsichtigt mehrere spezialisierte Verwaltungen, jede mit ihrer eigenen Rolle.",
+    "t": 77.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eine der wichtigsten ist unter ihren Initialen bekannt, ASTA.",
+    "t": 84.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die ASTA ist die Verwaltung der technischen Dienste der Landwirtschaft.",
+    "t": 89.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Stellen Sie sie sich als die Wissenschaft und Unterstützung hinter der Landwirtschaft vor.",
+    "t": 94.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie berät die Landwirte, beobachtet das Wetter, und warnt vor Pflanzenkrankheiten und Schädlingen.",
+    "t": 99.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie unterstützt auch eine nachhaltigere Landwirtschaft, mit weniger chemischem Spritzen und besserem Einsatz von natürlichem Dünger.",
+    "t": 106.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt auch ein eigenes Weininstitut, mit Sitz in Remich, an der Mosel.",
+    "t": 114.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxemburg hat eine echte Weintradition entlang der Mosel... Weißweine, und den Schaumwein namens Crémant.",
+    "t": 120.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das Weininstitut unterstützt die Winzer, und hilft, die Qualität hoch zu halten.",
+    "t": 128.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es gibt eine Verwaltung, die über die Gesundheit und das Wohl der Tiere wacht, und über die Sicherheit unserer Lebensmittel.",
+    "t": 134.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also vom Feld, über das Tier, bis zum Teller... bei jedem Schritt wachen Menschen darüber.",
+    "t": 142.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir über ein Thema, das schnell wächst... die biologische Landwirtschaft.",
+    "t": 148.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die biologische Landwirtschaft arbeitet mit der Natur, in einem geschlossenen Kreislauf, ohne synthetische Chemikalien.",
+    "t": 154.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxemburg hat einen Plan, genannt PAN-Bio, um den Anteil der biologischen Landwirtschaft im Land zu erhöhen.",
+    "t": 161.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn Sie also Bio-Produkte im Geschäft sehen, steckt eine nationale Anstrengung hinter dieser Wahl.",
+    "t": 169.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir nun über etwas, das vielen am Herzen liegt... das Tierwohl.",
+    "t": 175.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Luxemburg hat ein Tierschutzgesetz, das recht fortschrittlich ist.",
+    "t": 181.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es schützt die Würde, die Sicherheit und das Wohlergehen der Tiere, ihr ganzes Leben lang.",
+    "t": 185.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und das betrifft nicht nur Nutztiere.",
+    "t": 192.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist auch für Haustierbesitzer wichtig.",
+    "t": 195.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie einen Hund, eine Katze oder ein beliebiges Tier haben, haben Sie die Pflicht, sich richtig darum zu kümmern.",
+    "t": 198.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Portal bietet dazu Hinweise.",
+    "t": 206.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kommen wir kurz zurück zum Wein, denn er gehört zur Kultur Luxemburgs.",
+    "t": 209.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Moseltal, im Osten, ist voller Weinberge an sonnigen Hängen.",
+    "t": 214.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und im Sommer gibt es Weinbergwanderungen und Aktivitäten, bei denen Sie lernen können, wie Wein gemacht wird.",
+    "t": 219.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Portal listet sogar Veranstaltungen auf... wie Natur- und Weinbergpfade, offen für alle.",
+    "t": 226.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist also nicht nur für Landwirte.",
+    "t": 234.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist eine Einladung, zu entdecken, woher unser Essen und unsere Getränke kommen.",
+    "t": 237
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir über lokale und saisonale Lebensmittel, die für alle gut sind.",
+    "t": 242.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Lokale, saisonale Produkte zu kaufen unterstützt die Landwirte in Ihrer Nähe, und schmeckt oft besser und reist weniger.",
+    "t": 248.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Ministerium fördert diese Verbindung zwischen den Menschen, die Lebensmittel produzieren, und den Menschen, die sie essen.",
+    "t": 256.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ein kurzer Weg vom Feld auf den Teller ist gut für das Land, die Wirtschaft und die Gemeinschaft.",
+    "t": 264.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nun, die Landwirtschaft ist nicht einfach, und die Landwirte machen es nicht allein.",
+    "t": 270.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie erhalten Unterstützung, einschließlich Beihilfen im Rahmen der Gemeinsamen Agrarpolitik (GAP) der Europäischen Union.",
+    "t": 276.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wir haben in einer anderen Folge über europäische Fonds gesprochen.",
+    "t": 284.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Landwirtschaft ist einer der großen Bereiche, die Europa unterstützt.",
+    "t": 289.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und das Ministerium bietet Beratung und Schulungen an, um den Betrieben zu helfen, modern, nachhaltig und widerstandsfähig zu sein.",
+    "t": 294.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Treten wir einen Schritt zurück und fragen uns... warum ist das alles wichtig für jemanden, der nie einen Fuß auf einen Bauernhof setzt?",
+    "t": 303.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens, weil jeder isst.",
+    "t": 312.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gute Landwirtschaft bedeutet sichere, gesunde, hochwertige Lebensmittel auf Ihrem Teller.",
+    "t": 315.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens, weil die Landwirte die Landschaft prägen... die Felder, Hecken und Wiesen, an denen wir uns alle erfreuen.",
+    "t": 321.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens, weil das Tierwohl die Art von Gesellschaft widerspiegelt, die wir sein wollen.",
+    "t": 329.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und viertens, weil die Unterstützung lokaler Lebensmittel das Land lebendig hält, und die Gemeinschaft stark.",
+    "t": 335.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Tom, machen wir es praktisch.",
+    "t": 342.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was kann jemand mit all dem anfangen?",
+    "t": 345.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens, wenn Sie einkaufen, achten Sie auf lokale und saisonale Produkte, und probieren Sie Bio-Produkte.",
+    "t": 349
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens, wenn Sie Tiere halten, schauen Sie sich die Hinweise des Portals an, um sich gut und im Rahmen des Gesetzes um sie zu kümmern.",
+    "t": 357
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens, besuchen Sie im Sommer die Mosel, machen Sie eine Weinbergwanderung, und probieren Sie einen lokalen Wein oder Crémant.",
+    "t": 365.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und viertens, wenn Sie neugierig auf Landwirtschaft, Lebensmittel oder Wein sind, bietet das Portal verlässliche Informationen.",
+    "t": 374.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bringen wir alles zusammen.",
+    "t": 382.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was sollten sich die Menschen merken?",
+    "t": 385.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens... das Agrarportal, agriculture Punkt public Punkt lu, deckt Landwirtschaft, Ernährung und Wein ab, vom Ministerium für Landwirtschaft, Ernährung und Weinbau.",
+    "t": 388.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens... spezialisierte Stellen unterstützen es... die ASTA für die technischen Dienste, das Weininstitut in Remich, und eine Stelle für das Tierwohl und die Lebensmittelsicherheit.",
+    "t": 399.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens... Luxemburg baut die biologische Landwirtschaft aus und schützt das Tierwohl per Gesetz.",
+    "t": 411.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und viertens... indem wir lokale und saisonale Lebensmittel wählen, tragen wir alle zu einem gesunden Ernährungssystem bei.",
+    "t": 418.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Lebensmittel verbinden jeden von uns mit dem Land, und miteinander.",
+    "t": 426.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Geschichte hinter unserem Teller zu kennen hilft uns, ihn zu schätzen, und die Menschen, die ihn möglich machen.",
+    "t": 431.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vielen Dank, dass Sie heute zugehört haben.",
+    "t": 439.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Passen Sie auf sich auf, essen Sie gut, und bis zur nächsten Folge.",
+    "t": 443.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Äddi!",
+    "t": 448.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 449.66
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm zréck! Et ass flott, datt Dir haut bei eis sidd.",
+    "t": 0.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien zesummen!",
+    "t": 5.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, sech mam Land verbonne ze fillen.",
+    "t": 7.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "An d'Thema vun haut verbënnt eis all, dräimol den Dag... d'Iessen.",
+    "t": 21.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Brout op Ärem Dësch, d'Geméis op Ärem Teller, d'Glas Wäin op engem Freideg owes.",
+    "t": 26.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hannert all deem stinn d'Landwirtschaft, an d'Leit, déi sech ëm d'Land an d'Déieren këmmeren.",
+    "t": 31.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et gëtt en offiziellen Ort, deen all dëst zesummebréngt... d'Agrarportal.",
+    "t": 37.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Websäit ass agriculture Punkt public Punkt lu.",
+    "t": 42.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt vum Ministère fir Landwirtschaft, Ernährung a Wäibau bedriwwen.",
+    "t": 46.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "„Wäibau\" ass e schéint Wuert. Et bedeit einfach den Ubau vun Drauwen, fir Wäin.",
+    "t": 50.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dëst Portal deckt also dräi grouss Beräicher of... d'Landwirtschaft, d'Ernährung an de Wäin.",
+    "t": 57.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, wien mécht eigentlech d'Aarbecht hannert dësem Ministère?",
+    "t": 62.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "De Ministère iwwerwaacht méi spezialiséiert Verwaltungen, all mat hirer eegener Roll.",
+    "t": 66.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eng vun de wichtegsten ass duerch hir Initialen bekannt, ASTA.",
+    "t": 72.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'ASTA ass d'Verwaltung vun den techneschen Déngschter vun der Landwirtschaft. Stellt Iech se als d'Wëssenschaft an d'Ënnerstëtzung hannert der Landwirtschaft vir.",
+    "t": 76.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si beréit d'Baueren, beobaucht d'Wieder, a warnt virun Planzekrankheeten a Schädlingen.",
+    "t": 84.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si ënnerstëtzt och eng méi nohalteg Landwirtschaft, mat manner chemeschem Spritzen an engem besseren Asaz vun natierlechem Dünger.",
+    "t": 90.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt och en eegene Wäininstitut, mat Sëtz zu Remich, op der Musel.",
+    "t": 97.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Lëtzebuerg huet eng richteg Wäintraditioun laanscht d'Musel... Wäisswäiner, an de Schaumwäin mam Numm Crémant.",
+    "t": 102.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "De Wäininstitut ënnerstëtzt d'Wënzer, an hëlleft, d'Qualitéit héich ze halen.",
+    "t": 109.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et gëtt eng Verwaltung, déi iwwer d'Gesondheet an d'Wuelbefannen vun den Déieren waacht, an iwwer d'Sécherheet vun eisem Iessen.",
+    "t": 114.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also vum Feld, iwwer d'Déier, bis op den Teller... bei all Schrëtt waachen Leit doriwwer.",
+    "t": 121.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schwätze mer iwwer en Thema, dat séier wiisst... d'Bio-Landwirtschaft.",
+    "t": 126.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Bio-Landwirtschaft schafft mat der Natur, an engem zouenen Zyklus, ouni syntheetesch Chemikalien.",
+    "t": 131.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Lëtzebuerg huet e Plang, genannt PAN-Bio, fir den Undeel vun der Bio-Landwirtschaft am Land ze erhéijen.",
+    "t": 136.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wann Dir also Bio-Produkter am Buttek gesitt, stécht eng national Ustrengung hannert dëser Wiel.",
+    "t": 142.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Lo schwätze mer iwwer eppes, dat villen um Häerz läit... den Déiereschutz.",
+    "t": 148.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Lëtzebuerg huet en Déiereschutzgesetz, dat zimlech fortschrëttlech ass.",
+    "t": 153.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et schützt d'Dignitéit, d'Sécherheet an d'Wuelbefannen vun den Déieren, hiert ganzt Liewen laang.",
+    "t": 157.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "An dat betrëfft net nëmmen Notzdéieren. Et ass och fir Hausdéierebesëtzer wichteg.",
+    "t": 163.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wann Dir en Hond, eng Kaz, oder iergendee Béischt hutt, hutt Dir d'Flicht, Iech richteg drëm ze këmmeren. D'Portal bitt dozou Hiweiser.",
+    "t": 169.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Komme mer kuerz zréck op de Wäin, well en zur Kultur vu Lëtzebuerg gehéiert.",
+    "t": 178.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Museldall, am Osten, ass voller Wéngerten op sonnegen Häng.",
+    "t": 183.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "An am Summer ginn et Wéngertwanderungen an Aktivitéiten, wou Dir léiere kënnt, wéi Wäin gemaach gëtt.",
+    "t": 188.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Portal lëscht souguer Eventer op... wéi Natur- a Wéngertweeër, op fir jiddereen.",
+    "t": 193.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass also net nëmmen fir d'Baueren. Et ass eng Aluedung, ze entdecken, vu wou eist Iessen an eis Gedrénks kommen.",
+    "t": 199.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schwätze mer iwwer lokal a saisonal Liewensmëttel, déi gutt fir jiddereen sinn.",
+    "t": 206.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Lokal, saisonal Produkter ze kafe ënnerstëtzt d'Baueren bei Iech an der Géigend, a schmaacht dacks besser a reest manner.",
+    "t": 211.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "De Ministère encouragéiert dës Verbindung tëscht de Leit, déi Liewensmëttel produzéieren, an de Leit, déi se iessen.",
+    "t": 217.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "E kuerze Wee vum Feld op den Teller ass gutt fir d'Land, d'Wirtschaft an d'Gemeinschaft.",
+    "t": 223.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Lo, d'Landwirtschaft ass net einfach, an d'Baueren maachen et net eleng.",
+    "t": 229.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si kréien Ënnerstëtzung, dorënner Hëllefen am Kader vun der Gemeinsamer Agrarpolitik vun der Europäescher Unioun.",
+    "t": 233.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mir hunn an enger anerer Episod iwwer europäesch Fongen geschwat. D'Landwirtschaft ass ee vun de grousse Beräicher, déi Europa ënnerstëtzt.",
+    "t": 239.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "An de Ministère bitt Berodung a Formatiounen un, fir de Betriber ze hëllefen, modern, nohalteg a widderstandsfäeg ze sinn.",
+    "t": 247.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Trete mer e Schrëtt zréck a froen eis... firwat ass dat alles wichteg fir een, deen ni e Fouss op e Bauerenhaff setzt?",
+    "t": 253.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Éischtens, well jiddereen ësst. Gutt Landwirtschaft bedeit sécher, gesond, héichwäerteg Liewensmëttel op Ärem Teller.",
+    "t": 259.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens, well d'Baueren d'Landschaft präegen... d'Felder, Hecken a Wisen, un deenen mir eis all freeën.",
+    "t": 266.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens, well den Déiereschutz d'Aart vu Gesellschaft widderspigelt, déi mir wëlle sinn.",
+    "t": 272.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "A véiertens, well d'Ënnerstëtzung vu lokale Liewensmëttel d'Land lieweg hält, an d'Gemeinschaft staark.",
+    "t": 277.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Tom, maache mer et praktesch. Wat kann een mat all deem ufänken?",
+    "t": 284.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Éischtens, wann Dir akafe gitt, kuckt no lokalen a saisonale Produkter, a probéiert Bio-Produkter.",
+    "t": 290.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweetens, wann Dir Déieren hutt, kuckt d'Hiweiser vun der Portal un, fir Iech gutt an am Kader vum Gesetz drëm ze këmmeren.",
+    "t": 296.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drëttens, besicht am Summer d'Musel, maacht eng Wéngertwanderung, a probéiert e lokale Wäin oder Crémant.",
+    "t": 302.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "A véiertens, wann Dir nei­géiereg sidd op d'Landwirtschaft, d'Liewensmëttel oder de Wäin, bitt d'Portal zouverlässeg Informatiounen.",
+    "t": 308.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bréngen mer alles zesummen. Wat sollen d'Leit sech merken?",
+    "t": 315.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Éischtens... d'Agrarportal, agriculture Punkt public Punkt lu, deckt d'Landwirtschaft, d'Ernährung an de Wäin of, vum Ministère fir Landwirtschaft, Ernährung a Wäibau.",
+    "t": 319.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens... spezialiséiert Stellen ënnerstëtzen et... d'ASTA fir déi technesch Déngschter, de Wäininstitut zu Remich, an eng Stell fir den Déiereschutz an d'Liewensmëttelsécherheet.",
+    "t": 329.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens... Lëtzebuerg baut d'Bio-Landwirtschaft aus a schützt den Déiereschutz per Gesetz.",
+    "t": 340.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "A véiertens... andeems mir lokal a saisonal Liewensmëttel wielen, droe mir all zu engem gesonden Ernährungssystem bäi.",
+    "t": 346.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Liewensmëttel verbannen all eenzelne vun eis mam Land, an enee mam aneren.",
+    "t": 353.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "An d'Geschicht hannert eisem Teller ze kennen hëlleft eis, e ze schätzen, an d'Leit, déi e méiglech maachen.",
+    "t": 357.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Villmools merci, datt Dir haut nogelauschtert hutt.",
+    "t": 362.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Passt op Iech op, iesst gutt, a bis an déi nächst Episod. Äddi!",
+    "t": 365.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Äddi!",
+    "t": 371.64
+   }
+  ]
  }
 ];
