@@ -268,6 +268,7 @@ const CATEGORIES = [
   { id: 'energy',      en: 'Environment & energy',      fr: 'Environnement & énergie',     de: 'Umwelt & Energie' },
   { id: 'research',    en: 'Research & innovation',     fr: 'Recherche & innovation',      de: 'Forschung & Innovation' },
   { id: 'agriculture', en: 'Agriculture & food',        fr: 'Agriculture & alimentation',  de: 'Landwirtschaft & Ernährung' },
+  { id: 'culture',     en: 'Culture & arts',            fr: 'Culture & arts',              de: 'Kultur & Kunst' },
   { id: 'work',        en: 'Work & careers',            fr: 'Travail & carrière',          de: 'Arbeit & Beruf' },
   { id: 'family',      en: 'Family & children',         fr: 'Famille & enfants',           de: 'Familie & Kinder' },
   { id: 'health',      en: 'Health',                    fr: 'Santé',                       de: 'Gesundheit' },
