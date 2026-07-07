@@ -1,0 +1,38 @@
+{
+ "en": {
+  "title": "The Pensiounskeess: How Your Pension Works in Luxembourg",
+  "description": "Meet the CNAP — the National Pension Insurance Office. When you can retire, how your pension is calculated, what happens to years worked abroad, and what the 2026 reform changes.",
+  "topics": ["Old-age pension at 65", "Early retirement at 57 or 60", "Your insurance record", "Baby years & study periods", "How pensions are calculated", "Careers across EU countries", "Invalidity & survival pensions", "The 2026 pension reform"],
+  "questions": [
+   {"text": "What is the legal retirement age in Luxembourg?", "options": ["60", "62", "65", "67"], "correct": 2, "explanation": "The old-age pension starts at 65 — and the 2026 reform keeps the legal age at 65."},
+   {"text": "How many years of insurance do you need, at minimum, for the old-age pension at 65?", "options": ["5 years", "10 years", "20 years", "40 years"], "correct": 1, "explanation": "You need a qualification period of 120 months — 10 years — and periods from other countries count too."},
+   {"text": "Who can take the early old-age pension at 57?", "options": ["Anyone who applies", "People with 40 years of compulsory insurance", "Only cross-border workers", "People with three children"], "correct": 1, "explanation": "At 57 you need 480 months — 40 years — of compulsory insurance, so a very long career."},
+   {"text": "What happens to years you worked in another EU country?", "options": ["They are lost", "Luxembourg pays for them", "They are added together, and each country pays its part", "They must be bought back"], "correct": 2, "explanation": "Insurance periods are aggregated to meet the conditions, and each country pays a partial pension for its own years."},
+   {"text": "Does the pension arrive automatically on your 65th birthday?", "options": ["Yes, always", "No — you must submit an application", "Only if you live in Luxembourg", "Only if you sign up online"], "correct": 1, "explanation": "The pension is never automatic. You must send a pension application to the CNAP, even if you meet all the conditions."}
+  ]
+ },
+ "fr": {
+  "title": "La Pensiounskeess : comment fonctionne votre pension au Luxembourg",
+  "description": "Découvrez la CNAP — la Caisse nationale d'assurance pension. Quand partir à la retraite, comment votre pension est calculée, que deviennent les années travaillées à l'étranger, et ce que change la réforme de 2026.",
+  "topics": ["Pension de vieillesse à 65 ans", "Retraite anticipée à 57 ou 60 ans", "Votre carrière d'assurance", "Années bébé et périodes d'études", "Le calcul de la pension", "Carrières dans plusieurs pays de l'UE", "Pensions d'invalidité et de survie", "La réforme des pensions 2026"],
+  "questions": [
+   {"text": "Quel est l'âge légal de la retraite au Luxembourg ?", "options": ["60 ans", "62 ans", "65 ans", "67 ans"], "correct": 2, "explanation": "La pension de vieillesse commence à 65 ans — et la réforme de 2026 maintient l'âge légal à 65 ans."},
+   {"text": "Combien d'années d'assurance faut-il, au minimum, pour la pension de vieillesse à 65 ans ?", "options": ["5 ans", "10 ans", "20 ans", "40 ans"], "correct": 1, "explanation": "Il faut un stage de 120 mois — 10 ans — et les périodes accomplies dans d'autres pays comptent aussi."},
+   {"text": "Qui peut prendre la pension de vieillesse anticipée à 57 ans ?", "options": ["Toute personne qui en fait la demande", "Les personnes avec 40 ans d'assurance obligatoire", "Uniquement les frontaliers", "Les personnes avec trois enfants"], "correct": 1, "explanation": "À 57 ans, il faut 480 mois — 40 ans — d'assurance obligatoire, donc une très longue carrière."},
+   {"text": "Que deviennent les années travaillées dans un autre pays de l'UE ?", "options": ["Elles sont perdues", "Le Luxembourg les paie", "Elles sont totalisées, et chaque pays paie sa part", "Il faut les racheter"], "correct": 2, "explanation": "Les périodes d'assurance sont additionnées pour remplir les conditions, et chaque pays paie une pension partielle pour ses propres années."},
+   {"text": "La pension arrive-t-elle automatiquement à votre 65e anniversaire ?", "options": ["Oui, toujours", "Non — il faut introduire une demande", "Seulement si vous habitez au Luxembourg", "Seulement si vous vous inscrivez en ligne"], "correct": 1, "explanation": "La pension n'est jamais automatique. Il faut envoyer une demande de pension à la CNAP, même si toutes les conditions sont remplies."}
+  ]
+ },
+ "de": {
+  "title": "Die Pensiounskeess: So funktioniert Ihre Pension in Luxemburg",
+  "description": "Lernen Sie die CNAP kennen — die nationale Pensionsversicherungskasse. Wann Sie in Rente gehen können, wie Ihre Pension berechnet wird, was mit Arbeitsjahren im Ausland passiert und was die Reform 2026 ändert.",
+  "topics": ["Alterspension mit 65", "Vorruhestand mit 57 oder 60", "Ihre Versicherungslaufbahn", "Babyjahre & Studienzeiten", "So wird die Pension berechnet", "Karrieren in mehreren EU-Ländern", "Invaliden- & Hinterbliebenenpension", "Die Pensionsreform 2026"],
+  "questions": [
+   {"text": "Wie hoch ist das gesetzliche Rentenalter in Luxemburg?", "options": ["60 Jahre", "62 Jahre", "65 Jahre", "67 Jahre"], "correct": 2, "explanation": "Die Alterspension beginnt mit 65 — und die Reform 2026 behält das gesetzliche Alter von 65 Jahren bei."},
+   {"text": "Wie viele Versicherungsjahre braucht man mindestens für die Alterspension mit 65?", "options": ["5 Jahre", "10 Jahre", "20 Jahre", "40 Jahre"], "correct": 1, "explanation": "Man braucht eine Wartezeit von 120 Monaten — 10 Jahre — und Zeiten aus anderen Ländern zählen mit."},
+   {"text": "Wer kann die vorgezogene Alterspension mit 57 nehmen?", "options": ["Jeder, der einen Antrag stellt", "Personen mit 40 Jahren Pflichtversicherung", "Nur Grenzgänger", "Personen mit drei Kindern"], "correct": 1, "explanation": "Mit 57 braucht man 480 Monate — 40 Jahre — Pflichtversicherung, also eine sehr lange Laufbahn."},
+   {"text": "Was passiert mit Jahren, die Sie in einem anderen EU-Land gearbeitet haben?", "options": ["Sie gehen verloren", "Luxemburg bezahlt sie", "Sie werden zusammengerechnet, und jedes Land zahlt seinen Teil", "Man muss sie zurückkaufen"], "correct": 2, "explanation": "Die Versicherungszeiten werden zusammengerechnet, um die Bedingungen zu erfüllen, und jedes Land zahlt eine Teilpension für seine eigenen Jahre."},
+   {"text": "Kommt die Pension automatisch an Ihrem 65. Geburtstag?", "options": ["Ja, immer", "Nein — man muss einen Antrag stellen", "Nur wenn man in Luxemburg wohnt", "Nur bei Online-Anmeldung"], "correct": 1, "explanation": "Die Pension kommt nie automatisch. Man muss einen Pensionsantrag bei der CNAP einreichen, auch wenn alle Bedingungen erfüllt sind."}
+  ]
+ }
+}
