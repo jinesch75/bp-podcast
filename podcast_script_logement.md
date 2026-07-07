@@ -8,7 +8,7 @@
 
 **ANNA:** Hello, and welcome back! It's good to have you with us today.
 **TOM:** Hello everyone!
-**ANNA:** This episode is part of the Biergerpakt. That is a programme about living together in Luxembourg. The idea is simple... we want to help residents, and cross-border workers too, to find their way in everyday life.
+**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. So that they can connect, exchange ideas and feel at home. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** And few subjects are as important, or as stressful, as today's... housing.
 **ANNA:** Finding a place to live, paying the rent, dreaming of buying, renovating an old home.
 **TOM:** It can feel overwhelming, and expensive. But there's more help out there than many people realise.
@@ -53,9 +53,12 @@
 **ANNA:** And fourth... there's a single counter for housing aids, and a national push for affordable housing.
 **TOM:** A home is more than four walls. It's security, dignity, and a place to build a life.
 **ANNA:** And knowing what help exists can bring that a little closer for many families.
-**TOM:** Thank you so much for listening today.
-**ANNA:** Take care, and see you in the next episode. Äddi!
-**TOM:** Äddi!
+
+**ANNA:** That was our episode about The Housing Portal. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.
+
+**TOM:** Thank you, everyone. Take care... and see you next time!
+
+**ANNA:** Thank you so much for listening.
 
 ---
 

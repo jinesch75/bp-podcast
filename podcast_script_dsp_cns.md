@@ -2,7 +2,7 @@
 
 **Part of the Biergerpakt programme**
 **Hosts:** Anna (woman) and Tom (man)
-**Length:** about 10 minutes — spoken slowly, in simple English
+**Length:** about 11 minutes — spoken slowly, in simple English
 
 ---
 
@@ -10,17 +10,13 @@
 
 **TOM:** Hello everyone!
 
-**ANNA:** This episode is part of the Biergerpakt. That's a programme of living together in Luxembourg. The idea is simple... we want to help residents, and also cross-border workers, to discover Luxembourg — or re-discover it — and to meet new people.
+**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. So that they can connect, exchange ideas and feel at home. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 
-**TOM:** Exactly. And today we talk about two things that touch everybody — your health, and your money. First, your online health file, the Dossier de Soins Partagé. And second, how you get your money back from the health insurance, the CNS.
+**TOM:** Exactly. And today's topic is about two things that touch everybody — your health, and your money. First, your online health file, the Dossier de Soins Partagé. And second, how you get your money back from the health insurance, the CNS.
 
 **ANNA:** Two very practical things. Okay, Tom — let's start with the health file. What is the Dossier de Soins Partagé?
 
-**TOM:** So... "Dossier de Soins Partagé" is French. "Dossier" means file. "Soins" means care. "Partagé" means shared. So — a "shared care file". People also call it the DSP.
-
-**ANNA:** A shared care file. So it's my medical file, but online?
-
-**TOM:** Exactly. The DSP is a free, personal, and secure electronic health file. It brings together your important health information in one place — your treatments, your test results, your medical reports, your allergies, and so on.
+**TOM:** The DSP is a free, personal, and secure electronic health file. It brings together your important health information in one place — your treatments, your test results, your medical reports, your allergies, and so on.
 
 **ANNA:** And who creates it?
 
@@ -36,7 +32,7 @@
 
 **ANNA:** Now... health data is very private. Is it safe?
 
-**TOM:** Very good question, and the answer is yes. The data is encrypted, and it's kept in a kind of digital safe — they call it the "coffre-fort", the safe — located here in Luxembourg. And the most important point — you are in control.
+**TOM:** Very good question, and the answer is yes. The data is encrypted, and it's kept in a kind of digital safe located here in Luxembourg. And the most important point — you are in control.
 
 **ANNA:** In control how?
 
@@ -44,13 +40,9 @@
 
 **ANNA:** I like that. It's mine, and I decide. So how do I actually open a DSP?
 
-**TOM:** Every person affiliated to the Luxembourg health insurance can have one. To use it yourself online, you activate your "eSanté account". And here's good news — it recently became much easier. You can now activate it directly through MyGuichet.lu.
+**TOM:** Every person affiliated to the Luxembourg health insurance can have one. To use it yourself online, you activate your "eSanté account". And here's good news: you can activate it directly through MyGuichet.lu.
 
-**ANNA:** Ah — MyGuichet again! We did a whole episode on that.
-
-**TOM:** *(laughs)* Yes! So if you already use MyGuichet with your LuxTrust login, you can activate your eSanté account online, right away. Before, you often had to wait for a code by post. Now it's immediate.
-
-**ANNA:** That's a nice link between the services. And once it's active, how do I look at it?
+**ANNA:** That's great. And once it's active, how do I look at it?
 
 **TOM:** You log in to your DSP online, through the eSanté portal. And there's also a mobile app — it's called MyDSP — so you can check your health file from your phone.
 
@@ -76,7 +68,7 @@
 
 **ANNA:** Into my bank account directly. How long does it take?
 
-**TOM:** Usually about three weeks. And you get a written statement explaining what was reimbursed. So — tip for our listeners — give the CNS your bank account number, your IBAN, so they can pay you directly. And keep your invoices.
+**TOM:** Usually less than three weeks. And you get a written statement explaining what was reimbursed. So — tip for our listeners — give the CNS your bank account number, your IBAN, so they can pay you directly.
 
 **ANNA:** Good tips. But wait — paying the full amount first... for a big bill, that could be hard for some people.
 
@@ -84,7 +76,7 @@
 
 **ANNA:** At the pharmacy?
 
-**TOM:** Yes. At the pharmacy, you usually don't pay the full price. You show your social security card and your prescription, and you only pay your own small share. The pharmacy settles the rest directly with the CNS. That's called third-party payment — in French, "tiers payant".
+**TOM:** Yes. At the pharmacy, you usually don't pay the full price. You show your social security card and your prescription, and you only pay your own small share. The pharmacy settles the rest directly with the CNS. That's called third-party payment.
 
 **ANNA:** So for medicine, I only pay my little part. The CNS handles the rest behind the scenes.
 
@@ -96,11 +88,11 @@
 
 **ANNA:** Tell me.
 
-**TOM:** It's called the social third-party payment — "tiers payant social". If someone is in a difficult financial situation, this system means they don't have to pay the medical costs up front at all. The CNS covers the eligible care directly, so money is not a barrier to seeing a doctor.
+**TOM:** It's called the social third-party payment. If someone is in a difficult financial situation, this system means they don't have to pay the medical costs up front at all. The CNS covers the eligible care directly, so money is not a barrier to seeing a doctor.
 
 **ANNA:** That's really important. So nobody should avoid the doctor just because they can't pay first.
 
-**TOM:** Exactly. If that's your situation, you can ask about the tiers payant social — often through your doctor or the social office.
+**TOM:** Exactly. If that's your situation, you can ask about the social third-party payment — often through your doctor or the social office.
 
 **ANNA:** Wonderful. Okay, Tom — let's bring it together. A short summary of everything?
 
@@ -118,11 +110,11 @@
 
 **TOM:** For the health file, the website is esante.lu. For the insurance and reimbursements, it's cns.lu. And the procedures are explained on Guichet.lu, in English too.
 
-**ANNA:** That was our episode about your online health file and the CNS, part of the Biergerpakt — living together in Luxembourg, discovering the country, and meeting new people. Thank you so much for listening.
+**ANNA:** That was our episode about your online health file and the CNS. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.
 
 **TOM:** Thank you, everyone. Take care... and see you next time!
 
-**ANNA:** Bye bye!
+**ANNA:** Thank you so much for listening.
 
 ---
 

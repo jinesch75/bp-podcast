@@ -8,7 +8,7 @@
 
 **ANNA:** Hello, and welcome back! It's a pleasure to have you with us today.
 **TOM:** Hello everyone!
-**ANNA:** This episode is part of the Biergerpakt. That is a programme about living together in Luxembourg. The idea is simple... we want to help residents, and cross-border workers too, to discover useful tools.
+**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. So that they can connect, exchange ideas and feel at home. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** And today's tool is one you can open right now, for free, and have a lot of fun with... maps.
 **ANNA:** We all use maps on our phones to find our way. But Luxembourg has its own official map service.
 **TOM:** It's called the Geoportal. The website is geoportail dot lu.
@@ -54,9 +54,12 @@
 **TOM:** And fourth... much of its data is open, fuelling new apps and services.
 **ANNA:** A map is more than directions. It's a way of seeing, and understanding, the place we share.
 **TOM:** And this one is right at your fingertips, for free, whenever curiosity strikes.
-**ANNA:** Thank you so much for listening today.
-**TOM:** Take care, go and explore, and see you in the next episode. Äddi!
-**ANNA:** Äddi!
+
+**ANNA:** That was our episode about The Geoportal. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.
+
+**TOM:** Thank you, everyone. Take care... and see you next time!
+
+**ANNA:** Thank you so much for listening.
 
 ---
 

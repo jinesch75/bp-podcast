@@ -1,0 +1,357 @@
+{
+ "myguichet": {
+  "title": "MyGuichet.lu – Är Online-Dier zu de Lëtzebuerger Administratiounen",
+  "description": "Wat MyGuichet.lu ass a firwat et wichteg ass: dee séchere Online-Guichet vum Lëtzebuerger Staat, wou Dir administrativ Prozedure vun doheem aus maache kënnt, all Dag op, zu all Stonn. Wéi Dir Iech mat Ärem Matricule mat dräizéng Zifferen an engem séchere Login wéi LuxTrust, der Lëtzebuerger eID-Kaart oder engem europäeschen eIDAS-Login aschreift, wat Dir an Ärem perséinlechen eSpace maache kënnt, déi verfügbar Sproochen, déi mobil App — a wéi och d'Betriber en benotze kënnen.",
+  "topics": [
+   "Wat MyGuichet.lu ass",
+   "Äre perséinlechen eSpace",
+   "Online-Prozeduren",
+   "Aschreiwung (Matricule)",
+   "LuxTrust an eID-Login",
+   "eIDAS, europäesche Login",
+   "Verfügbar Sproochen",
+   "Mobil App"
+  ],
+  "questions": [
+   {
+    "text": "Wat ass MyGuichet.lu?",
+    "options": [
+     "E bezuelten Abonnement fir juristesch Berodung",
+     "Déi offiziell, sécher Online-Plattform vun der Lëtzebuerger Regierung – Är eenzeg Kontaktplaz mat der ëffentlecher Administratioun",
+     "Eng privat Online-Banking-App",
+     "E sozialt Netzwierk fir d'Awunner vu Lëtzebuerg"
+    ],
+    "correct": 1,
+    "explanation": "MyGuichet.lu ass déi offiziell, sécher Online-Plattform vum Lëtzebuerger Staat. Si funktionéiert wéi en Online-Guichet, wou Dir administrativ Prozedure vun doheem aus maache kënnt, amplaz an e Büro ze goen."
+   },
+   {
+    "text": "Firwat gëtt MyGuichet.lu an der Episod als en \"Online-Guichet\" beschriwwen?",
+    "options": [
+     "Well et wéi de Guichet vun engem Administratiounsbüro ass — mä online, all Dag op, zu all Stonn, vun doheem aus",
+     "Well Dir do Är Dokumenter ziele kënnt",
+     "Well et nëmmen um Guichet vun engem Büro funktionéiert",
+     "Well et eng Banking-App ass"
+    ],
+    "correct": 0,
+    "explanation": "Amplaz wärend den Ëffnungszäiten un e Guichet an engem Büro ze goen, ass MyGuichet.lu Ären Online-Guichet mam Staat — op véieranzwanzeg Stonnen den Dag, siwen Deeg an der Woch."
+   },
+   {
+    "text": "Wat braucht Dir, fir Iech op MyGuichet.lu anzeschreiwen?",
+    "options": [
+     "Op d'mannst 16 Joer al sinn an Är national Identifikatiounsnummer mat 13 Zifferen (de \"Matricule\") hunn",
+     "Lëtzebuerger Nationalitéit hunn an eng Aschreiwungstax bezuelen",
+     "E Lëtzebuerger Pass an en Openthaltstitel",
+     "Nëmmen eng E-Mail-Adress"
+    ],
+    "correct": 0,
+    "explanation": "Fir Iech anzeschreiwen, musst Dir op d'mannst 16 Joer al sinn, Äre Matricule mat 13 Zifferen hunn (op Ärer Sozialversécherungskaart), eng E-Mail-Adress, en Apparat, an e séchere Wee, fir Är Identitéit online ze beweisen."
+   },
+   {
+    "text": "Wéi eng sécher Logine kënnt Dir fir MyGuichet.lu benotzen?",
+    "options": [
+     "Just e Benotzernumm an e Passwuert, déi Dir selwer wielt",
+     "En einfache Google- oder Facebook-Kont",
+     "Nëmmen e LuxTrust-Produkt",
+     "E LuxTrust-Produkt, déi Lëtzebuerger eID-Kaart, oder en eIDAS-Login aus Ärem eegenen europäesche Land"
+    ],
+    "correct": 3,
+    "explanation": "Dir braucht ee séchere Login, mä Dir hutt eng Wiel: e LuxTrust-Produkt (wéi LuxTrust Mobile), déi Lëtzebuerger elektronesch Identitéitskaart, oder en eIDAS-Login aus engem aneren europäesche Land."
+   },
+   {
+    "text": "Wat kënnt Dir an Ärem perséinlechen eSpace op MyGuichet.lu maachen?",
+    "options": [
+     "Näischt – Dir musst fir alles nach ëmmer an e Büro goen",
+     "Aktien a Kryptowärungen handelen",
+     "De Status vun Ären Ufroe verfollegen, Är offiziell Donnéeë gesinn, Dokumenter kréien a Rendez-vouse buchen",
+     "Nëmmen Är alljäerlech Steiererklärung maachen"
+    ],
+    "correct": 2,
+    "explanation": "An Ärem eSpace kënnt Dir Är Dossiere verfollegen, déi offiziell Donnéeë gesinn, déi de Staat iwwer Iech huet, offiziell Dokumenter elektronesch kréien, Dokumenter späicheren, a Rendez-vouse mat verschiddenen Administratioune buchen."
+   }
+  ]
+ },
+ "benevolat": {
+  "title": "Benevolat zu Lëtzebuerg – Gitt d'Zäit, déi Dir wëllt",
+  "description": "Eng flexibel, beräichernd Manéier, fir Leit kennenzeléieren an Ärer Communautéit eppes zeréckzeginn. Wat Benevolat wierklech heescht a firwat et zu Lëtzebuerg wichteg ass, wou ronn 35% vun de Leit matmaachen. Wéi d'Agence du Bénévolat an d'Plattform benevolat.lu Iech mat Organisatioune verbannen — mat engem intelligente Matching-System a Missiounen an all Regioun — wéi Dir mat kuerzen, eemolege Missiounen an ouni laangfristegt Engagement ufänke kënnt, an dräi einfach Schrëtt fir unzefänken.",
+  "topics": [
+   "Definitioun vun engem Benevole",
+   "Firwat Benevolat wichteg ass",
+   "35% vun der Bevëlkerung",
+   "Agence du Bénévolat",
+   "D'Plattform benevolat.lu",
+   "Kee laangt Engagement néideg",
+   "Kuerz, eemoleg Missiounen",
+   "Ufänken: 3 Schrëtt"
+  ],
+  "questions": [
+   {
+    "text": "Wéi gëtt e Benevole an der Episod definéiert?",
+    "options": [
+     "E bezuelten Deelzäit-Mataarbechter vun enger Charity",
+     "Een, deen aus fräie Stécker an ouni bezuelt ze ginn eppes am Déngscht vun aneren oder vun der Gemeinschaft mécht",
+     "E Staatsbeamten",
+     "Een, dee vun engem Geriicht verflicht gëtt ze hëllefen"
+    ],
+    "correct": 1,
+    "explanation": "E Benevole gëtt d'Zäit, déi e wëllt – e bëssen, vill, oder mat Passioun – aus fräie Stécker an ouni bezuelt ze ginn, am Déngscht vun aneren oder vun der Gemeinschaft."
+   },
+   {
+    "text": "Am Joer 2022, wéi e groussen Undeel vun der Lëtzebuerger Bevëlkerung huet ongeféier Benevolat gemaach?",
+    "options": [
+     "Ongeféier 5%",
+     "Ongeféier 70%",
+     "Ongeféier 35% – méi wéi eng Persoun op dräi, wat Lëtzebuerg op déi véiert Plaz an Europa setzt",
+     "Ongeféier 10%"
+    ],
+    "correct": 2,
+    "explanation": "Am Joer 2022 hunn ongeféier 35% vun der Bevëlkerung Benevolat gemaach – méi wéi eng Persoun op dräi – wat Lëtzebuerg op déi véiert Plaz a ganz Europa gesat huet. Et gëtt souguer all 5. Dezember en Dag vum Benevolat."
+   },
+   {
+    "text": "Wat ass déi zentral Organisatioun a Websäit fir de Benevolat zu Lëtzebuerg?",
+    "options": [
+     "Nëmmen d'Gemengenhaus vun der Gemeng",
+     "D'ADEM, op adem.lu",
+     "D'Agence du Bénévolat, mat hirer Websäit benevolat.lu",
+     "De Finanzministère"
+    ],
+    "correct": 2,
+    "explanation": "D'Agence du Bénévolat promouvéiert de Benevolat zanter 2002. Hir Websäit benevolat.lu ass eng Treffplaz, wou Associatiounen, déi Hëllef sichen, a Leit, déi Zäit gi wëllen, sech fannen."
+   },
+   {
+    "text": "Braucht Dir e laangfristegt Engagement, fir Benevolat ze maachen?",
+    "options": [
+     "Nëmme ganz Weekender, e ganzt Joer laang",
+     "Jo, op d'mannst ee Joer",
+     "Jo, op d'mannst dräi Méint",
+     "Nee – Dir gitt d'Zäit, déi Dir wëllt, a vill Missioune sinn eemoleg oder kuerz (een Nomëtteg, een Dag, een Evenement)"
+    ],
+    "correct": 3,
+    "explanation": "Dir braucht kee laangt Engagement. Vill Missiounen op benevolat.lu si fir een eenzegt Evenement oder een eenzegen Dag – bei engem Gala hëllefen, Commissaire bei engem Rennen sinn, de Grill bedéngen – sou datt jiddereen mat engem voller Alldag ka matmaachen."
+   },
+   {
+    "text": "Wéi eng einfach Method proposéiert d'Episod, fir als Benevole unzefänken?",
+    "options": [
+     "Fir d'éischt e Kontrakt vun engem Joer mat enger Associatioun ënnerschreiwen",
+     "Iwwerleeën, wat Iech Freed mécht, Iech gratis op benevolat.lu umellen, an Är Hëllef fir eng Missioun ubidden, déi Iech gefält",
+     "Waarden, bis eng Organisatioun Iech mat der Post kontaktéiert",
+     "Iech op eng bezuelte Plaz bei der Agence du Bénévolat mellen"
+    ],
+    "correct": 1,
+    "explanation": "D'Agence du Bénévolat proposéiert: iwwerleet fir d'éischt, wéi eng Saach, wéi eng Aktivitéit a wéi vill Zäit zu Iech passen; mellt Iech dann gratis op benevolat.lu un; kuckt duerch d'Missiounen a bitt Är Hëllef un. D'Organisatioun kontaktéiert Iech dann."
+   }
+  ]
+ },
+ "eltereforum": {
+  "title": "Eltereforum – Staark Elteren, staark Kanner",
+  "description": "E waarmt, wëllkommend Netz vun Elterefore ganz Lëtzebuerg, koordinéiert vum Ministère fir Educatioun, Kanner a Jugend. Wat den Eltereforum ubitt — Elterentreffen, Elterecoursen, Eltere-Kand-Aktivitéiten an Themenowender, opgebaut ronderëm d'Iddi 'Staark Elteren, staark Kanner' — fir wien et ass (all Elteren, vu virun der Gebuert bis d'Kand grouss ass), wéi déi regional Fore mat lokale Partner schaffen, a wéi d'Equipe Iech bei Bedarf zu spezialiséierte Servicer begleet.",
+  "topics": [
+   "Bedeitung vum \"Eltereforum\"",
+   "Fir all Elteren",
+   "Educatiounsministère",
+   "\"Staark Elteren, staark Kanner\"",
+   "Treffen, Coursen a Virträg",
+   "Begleedung zu Spezialisten",
+   "Regional Foren",
+   "Agenda op eltereforum.lu"
+  ],
+  "questions": [
+   {
+    "text": "Wat ass den Eltereforum?",
+    "options": [
+     "En Online-Buttek fir Bebeesartikelen",
+     "Eng Schoul fir Kanner",
+     "E \"Forum fir Elteren\" – eng wëllkommend Plaz fir Austausch, Informatioun an Ënnerstëtzung fir all Elteren",
+     "Eng politesch Partei fir Elteren"
+    ],
+    "correct": 2,
+    "explanation": "\"Elteren\" si Mamm a Papp, an e \"Forum\" ass eng Plaz fir sech ze treffen. Den Eltereforum ass also e Forum fir Elteren: eng frëndlech, generalistesch Plaz, wou all Elterendeel Froe stellen, léieren an aner Elteren treffe kann – ouni speziellen Grond."
+   },
+   {
+    "text": "Wie koordinéiert den Eltereforum?",
+    "options": [
+     "Eng eenzeg lokal Elterenassociatioun",
+     "De Ministère fir Educatioun, Kanner a Jugend – et ass en ëffentleche Service vum Lëtzebuerger Staat",
+     "Déi national Gesondheetskeess (CNS)",
+     "Eng privat Firma"
+    ],
+    "correct": 1,
+    "explanation": "Den Eltereforum gëtt vum Ministère fir Educatioun, Kanner a Jugend koordinéiert, mat der Leetiddi \"Staark Elteren, staark Kanner\" – ënnerstëtzten, séchere Elteren hëllefen hire Kanner, et besser ze hunn."
+   },
+   {
+    "text": "Vu wéini un ënnerstëtzt den Eltereforum d'Elteren?",
+    "options": [
+     "Nëmme wärend den Teenagerjoren",
+     "Nëmme wann d'Kand an d'Schoul kënnt",
+     "Nëmme vun 0 bis 3 Joer",
+     "Vum Ufank vum \"Projet als Elteren\" un – souguer virun der Gebuert – bis d'Kand grouss ass"
+    ],
+    "correct": 3,
+    "explanation": "En ënnerstëtzt d'Elteren op dem ganze Wee: vum Moment un, wou Dir e Bebee plangt oder waart, duerch all Etapp vun der Kandheet, bis d'Kand erwuesse gëtt."
+   },
+   {
+    "text": "Wat geschitt, wann en Elterendeel mat engem eeschten, spezifesche Problem kënnt, deen den Eltereforum net selwer behandele kann?",
+    "options": [
+     "E gëtt gebieden, méi spéit erëmzekommen",
+     "Den Eltereforum mécht medezinesch Therapie op der Plaz",
+     "D'Equipe lauschtert no a begleet en zum richtege spezialiséierte Service",
+     "Näischt — den Eltereforum organiséiert nëmme Fester"
+    ],
+    "correct": 2,
+    "explanation": "Den Eltereforum ass generalistesch — e gëtt keng spezialiséiert Behandlung. Mä d'Equipe lauschtert no a weist Iech de Wee zum richtege spezialiséierte Service, sou datt en och eng Dier ass, déi Iech an déi richteg Richtung schéckt."
+   },
+   {
+    "text": "Wat fannt Dir op der Websäit eltereforum.lu?",
+    "options": [
+     "En Online-Buttek fir Kannerkleeder",
+     "Eng Informatiounsplattform mat dem Agenda vun allen Aktivitéiten, Owender a Coursen an deene verschiddene Foren",
+     "Nëmmen d'Telefonsnummer vum Ministère",
+     "E sozialt Netzwierk nëmme fir Enseignanten"
+    ],
+    "correct": 1,
+    "explanation": "eltereforum.lu ass selwer eng Informatiounsplattform, an den Agenda weist de Kalenner vun allen Aktivitéiten, Owender a Coursen an deene verschiddene regionale Foren — sou gesitt Dir, wat bei Iech an der Géigend leeft."
+   }
+  ]
+ },
+ "dsp_cns": {
+  "title": "Är Gesondheet, online – Den Dossier de Soins Partagé a wéi d'CNS Iech zeréckbezilt",
+  "description": "Zwou praktesch Saachen, déi jiddereen beréieren. Fir d'éischt den Dossier de Soins Partagé — Äre gratis, séchere gedeelten Online-Gesondheetsdossier, gefouert vun der Agence eSanté, wou Dir kontrolléiert, wien en gesi kann, mat der mobiler App MyDSP. An dann, wéi de Remboursement mat der nationaler Gesondheetskeess, der CNS, funktionéiert: fir d'éischt bezuelen an dat meescht zeréckkréien, den Tiers payant an der Apdikt an am Spidol, den Tiers payant social fir Leit an enger schwiereger Situatioun, a wéi Dir Ären eSanté-Kont iwwer MyGuichet.lu aktivéiert.",
+  "topics": [
+   "Dossier de Soins Partagé (DSP)",
+   "Agence eSanté",
+   "De Patient kontrolléiert den Zougang",
+   "MyDSP-App a MyGuichet",
+   "CNS-Remboursement",
+   "Fir d'éischt bezuelen, dann zeréckkréien",
+   "Tiers payant (Apdikt)",
+   "Tiers payant social"
+  ],
+  "questions": [
+   {
+    "text": "Wat ass den DSP (Dossier de Soins Partagé)?",
+    "options": [
+     "E private Versécherungskontrakt",
+     "En Heftchen op Pabeier, dat Dir op all Rendez-vous matbréngt",
+     "E Steierdossier bei der Administratioun",
+     "E gratis, perséinlechen a sécheren elektronesche Gesondheetsdossier, deen Är Gesondheetsinformatiounen op enger Plaz zesummebréngt"
+    ],
+    "correct": 3,
+    "explanation": "Den DSP ass e gratis, perséinlechen a sécheren Online-Gesondheetsdossier, gefouert vun der Agence eSanté. E sammelt Är Behandlungen, Resultater, Rapporten an Allergien, sou datt jiddereen, deen Iech behandelt, mam selwechte Bild schafft."
+   },
+   {
+    "text": "Wien decidéiert, wien an Ären DSP kucke kann?",
+    "options": [
+     "Dir, de Patient – Dir gitt an huelt den Zougang, an Dir kënnt gesinn, wien Ären Dossier consultéiert huet",
+     "Nëmmen Ären Hausdokter",
+     "Ären Patron",
+     "De Gesondheetsministère"
+    ],
+    "correct": 0,
+    "explanation": "Dir hutt d'Kontroll: Dir decidéiert, wien Zougang zu Ärem DSP huet, Dir kënnt den Zougang zerécken, gesinn, wien en consultéiert huet, a souguer verschidde Dokumenter verstoppen. Et ass Ären Dossier, an Dir hutt d'Schlësselen."
+   },
+   {
+    "text": "Wéi funktionéiert d'Bezuele bei enger normaler Visite beim Dokter mat der CNS normalerweis?",
+    "options": [
+     "D'CNS bezilt Iech boer un der Receptioun",
+     "D'Visite ass ëmmer komplett gratis",
+     "Dir bezuelt ni eppes, zu kengem Moment",
+     "Dir bezuelt fir d'éischt de vollen Präis, dann rembourséiert d'CNS dat meescht dovun (ronn 80–100%) op Äre Bankkont"
+    ],
+    "correct": 3,
+    "explanation": "Lëtzebuerg funktionéiert traditionell mam Remboursement: Dir bezuelt den Dokter fir d'éischt, schéckt déi bezuelte Faktur un d'CNS, a si bezilt dat meescht dovun op Äre Bankkont zeréck, normalerweis a manner wéi dräi Wochen."
+   },
+   {
+    "text": "Wat ass den \"Tiers payant\", zum Beispill an der Apdikt?",
+    "options": [
+     "Dir bezuelt nëmmen Äre klengen Undeel, an d'Apdikt reegelt de Rescht direkt mat der CNS",
+     "De Staat bezilt näischt, an Dir bezuelt alles",
+     "Dir bezuelt ëmmer de vollen Präis a frot en duerno zeréck",
+     "Dir bezuelt duebel a gitt rembourséiert"
+    ],
+    "correct": 0,
+    "explanation": "Mam Tiers payant, deen an der Apdikt a bei Spidolsopenthalter benotzt gëtt, bezuelt Dir nëmmen Äre klengen Undeel, an d'Apdikt oder d'Spidol facturéiert de Rescht direkt un d'CNS."
+   },
+   {
+    "text": "Wéi kënnt Dir Ären eSanté-Kont aktivéieren, fir Ären DSP online ze benotzen?",
+    "options": [
+     "Direkt iwwer MyGuichet.lu — an duerno kuckt Dir Ären Dossier online oder mat der mobiler App MyDSP",
+     "Dir kënnt en net selwer aktivéieren",
+     "Nëmme perséinlech an engem Spidol",
+     "Nëmmen andeems Dir op e Code waart, dee mat der Post kënnt"
+    ],
+    "correct": 0,
+    "explanation": "Dir kënnt Ären eSanté-Kont direkt iwwer MyGuichet.lu aktivéieren. Wann en aktiv ass, loggt Dir Iech iwwer den eSanté-Portal an — oder Dir benotzt d'mobil App MyDSP op Ärem Handy."
+   }
+  ]
+ },
+ "lualert": {
+  "title": "LU-Alert – Wéi Lëtzebuerg Iech an engem Noutfall warnt",
+  "description": "Den nationale Warn- an Informatiounssystem vu Lëtzebuerg fir d'Bevëlkerung, lancéiert am Hierscht 2024. Wat LU-Alert ass a wéi d'Alarmer Ären Handy erreechen, iwwer Cell Broadcast, lokalisatiounsbaséiert SMS an déi gratis App — ouni Aschreiwung. D'Alarmniveauen an d'Faarwen, déi zwielef Alarmkategorien, d'Sproochen, déi e benotzt, an eng einfach, mä vital Kompetenz: wéi Dir en echten offiziellen Alarm vun enger Phishing-Arnaque ënnerscheet.",
+  "topics": [
+   "Wat \"LU-Alert\" heescht",
+   "Cell Broadcast an LB-SMS",
+   "Keng Aschreiwung néideg",
+   "Déi gratis mobil App",
+   "Sproochen: DE / EN / FR",
+   "Alarmniveauen a Faarwen",
+   "Déi 12 Alarmkategorien",
+   "Phishing erkennen"
+  ],
+  "questions": [
+   {
+    "text": "Wat ass LU-Alert?",
+    "options": [
+     "Eng privat Wieder-App, déi Dir abonnéiert",
+     "E Social-Media-Kont vun der Police",
+     "Den nationale Warn- an Informatiounssystem vu Lëtzebuerg fir d'Bevëlkerung, lancéiert am Hierscht 2024",
+     "Eng Versécherung fir Naturkatastrophen"
+    ],
+    "correct": 2,
+    "explanation": "\"LU-Alert\" kombinéiert \"LU\" (de Landescode vu Lëtzebuerg) an \"Alert\". Et ass den nationale Warn- an Informatiounssystem fir d'Bevëlkerung, agefouert am Hierscht 2024, fir d'Leit viru geféierlechen Evenementer ze warnen."
+   },
+   {
+    "text": "Musst Dir Iech aschreiwen, fir Alarmer iwwer Cell Broadcast oder lokalisatiounsbaséiert SMS ze kréien?",
+    "options": [
+     "Nee – et gëtt keng Aschreiwung; all Handy an der betraffener Zon gëtt automatesch erreecht",
+     "Jo, Dir musst Är Nummer op lu-alert.lu registréieren",
+     "Jo, mä nëmmen d'Grenzgänger musse sech registréieren",
+     "Nee, mä nëmme wann Dir eng kleng jäerlech Tax bezuelt"
+    ],
+    "correct": 0,
+    "explanation": "Fir Cell Broadcast a lokalisatiounsbaséiert SMS schreift Dir Iech net an – an Dir kënnt Iech och net wierklech ofmellen. Wann Ären Handy an der Zon ass, wann d'Autoritéiten e Message schécken, gëtt en automatesch erreecht. (D'App luet Dir einfach erof.)"
+   },
+   {
+    "text": "A wéi enge Sprooche ginn d'LU-Alert-Messagen verschéckt?",
+    "options": [
+     "Nëmmen op Lëtzebuergesch",
+     "Nëmmen op Franséisch",
+     "Op Englesch a Lëtzebuergesch",
+     "Op Däitsch, Englesch a Franséisch"
+    ],
+    "correct": 3,
+    "explanation": "D'Warn- an Informatiounsmessagen ginn op Däitsch, Englesch a Franséisch erausginn, sou datt och engleschsproocheg Leit ofgedeckt sinn."
+   },
+   {
+    "text": "Wéini ginn d'Sirenen am LU-Alert-System benotzt?",
+    "options": [
+     "Bei all Wiederwarnung",
+     "Nëmme bei engem Nuklearalarm",
+     "All Dag um Mëtteg als Test",
+     "Ëmmer wann den Handysnetz ausfält"
+    ],
+    "correct": 1,
+    "explanation": "Haut ginn d'Sirenen nëmme bei engem Nuklearalarm benotzt. All aner Warnungen erreechen Iech iwwer den Handy (Cell Broadcast an SMS), d'App, d'Websäiten an d'Medien."
+   },
+   {
+    "text": "Wéi kënnt Dir kontrolléieren, ob en Alarmmessage echt ass an net Phishing?",
+    "options": [
+     "Op d'SMS mat Ären Donnéeën äntweren, fir Är Identitéit ze confirméieren",
+     "Op de Link am Message klicken, fir en ze verifiéieren",
+     "Drun denken, datt d'Autoritéiten ni no perséinlechen Donnéeë froen, a kucken, ob den Alarm op lu-alert.lu steet",
+     "Déi ugewisen Nummer uruffen an Är Bankdate ginn"
+    ],
+    "correct": 2,
+    "explanation": "Déi ëffentlech Autoritéite froen ni no perséinlechen Donnéeën, an d'Messagen enthalen normalerweis kee klickbare Link. Wann Dir net sécher sidd, iwwerpréift den Alarm op lu-alert.lu – an deelt ni perséinlech Donnéeën."
+   }
+  ]
+ }
+}

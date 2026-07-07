@@ -2,7 +2,7 @@
 
 **Part of the Biergerpakt programme**
 **Hosts:** Anna (woman) and Tom (man)
-**Length:** about 10 minutes — spoken slowly, in simple English
+**Length:** about 11 minutes — spoken slowly, in simple English
 
 ---
 
@@ -10,17 +10,9 @@
 
 **TOM:** Hello everyone!
 
-**ANNA:** This episode is part of the Biergerpakt. That's a programme of living together in Luxembourg. The idea is simple... we want to help residents, and also cross-border workers, to discover Luxembourg — or re-discover it — and to meet new people.
+**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. So that they can connect, exchange ideas and feel at home. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 
-**TOM:** Exactly. And today we talk about something that protects everybody. It's the system that warns the population when there is an emergency. It's called LU-Alert.
-
-**ANNA:** LU-Alert. Okay, Tom, let's start at the very beginning. What does the name mean?
-
-**TOM:** So, the name has two parts. "LU" is the international two-letter code for Luxembourg. And "Alert" is simply the English word for "alerte". So, LU-Alert... the alert for Luxembourg.
-
-**ANNA:** Simple and clear. And what exactly is it?
-
-**TOM:** LU-Alert is the national warning and information system for the population. It was deployed in autumn 2024. It's the modern replacement for the older warning system.
+**TOM:** Exactly. And today's topic is about something that protects everybody. It's the system that warns the population when there is an emergency. It's called LU-Alert. It is the national warning and information system for the population. It was deployed in autumn 2024. It's the modern replacement for the older warning system.
 
 **ANNA:** And what is it for, really?
 
@@ -28,19 +20,7 @@
 
 **ANNA:** So it helps me act at the right moment. Okay, the big question for most people... how does the warning actually reach me? On my phone?
 
-**TOM:** Yes, mostly on your phone, and in several ways. LU-Alert is what we call "multi-channel". That means it uses many different channels at the same time, to reach as many people as possible.
-
-**ANNA:** Many channels. Can you list them?
-
-**TOM:** Of course. First, two ways that arrive directly on your mobile phone. One is Cell Broadcast. The other is location-based SMS.
-
-**ANNA:** Let's take them one by one. What is Cell Broadcast?
-
-**TOM:** Cell Broadcast sends a message to every compatible phone inside a chosen area. It uses a special, dedicated network. So it still works well even when the normal network is very busy.
-
-**ANNA:** And location-based SMS?
-
-**TOM:** That's a text message — an SMS — sent to the phones located in the targeted area. It works in a similar way, but it travels over the normal mobile network.
+**TOM:** Yes, mostly on your phone, and in several ways. LU-Alert is what we call "multi-channel". That means it uses many different channels at the same time, to reach as many people as possible. One is Cell Broadcast. The other is location-based SMS.
 
 **ANNA:** Okay. And here's the question everybody asks. Do I need to sign up, or register, to get these?
 
@@ -50,7 +30,7 @@
 
 **TOM:** Correct. That's by design — so that everybody in danger gets warned.
 
-**ANNA:** Good. You also mentioned other channels?
+**ANNA:** Good. Are there other channels?
 
 **TOM:** Yes. There is the LU-Alert mobile application, that you download for free. There are the official websites, like lu-alert dot l-u. There is the press — radio, television, their websites and apps. There is social media. And finally, sirens.
 
@@ -64,7 +44,7 @@
 
 **ANNA:** Now, a practical worry. Many of us don't speak Luxembourgish. In what language do these messages arrive?
 
-**TOM:** Good question. The messages are sent in three languages — German, English and French. In the app, you receive the language you chose in the settings. By location-based SMS, you get all three languages in one message. So, English speakers are covered.
+**TOM:** Good question. The messages are sent in three languages — German, English and French. In the app, you receive the language you chose in the settings. By location-based SMS, you get all three languages in one message.
 
 **ANNA:** That's reassuring. Okay, so a message arrives. What's inside it?
 
@@ -84,7 +64,7 @@
 
 **ANNA:** Ah, the test. So if I get a message that says it's a test...
 
-**TOM:** ...then you don't need to do anything. The message will say clearly that it is a test. Luxembourg runs national tests — for example, there was one in February 2026. It's normal, don't worry.
+**TOM:** ...then you don't need to do anything. The message will say clearly that it is a test. Luxembourg runs national tests. It's normal, don't worry.
 
 **ANNA:** Very good to know. So nobody panics on a test day. Now — what kind of events can trigger an alert?
 
@@ -138,11 +118,11 @@
 
 **TOM:** Really. A few minutes now... real peace of mind later.
 
-**ANNA:** That was our episode about LU-Alert, part of the Biergerpakt — living together in Luxembourg, discovering the country, and staying safe together. Thank you so much for listening.
+**ANNA:** That was our episode about LU-Alert. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.
 
 **TOM:** Thank you, everyone. Take care... and see you next time!
 
-**ANNA:** Bye bye!
+**ANNA:** Thank you so much for listening.
 
 ---
 

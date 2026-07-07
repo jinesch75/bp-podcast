@@ -1,62 +1,357 @@
 {
-  "snj": {
-    "title": "Le Service national de la jeunesse – Donner les moyens d'agir aux jeunes au Luxembourg",
-    "description": "Ce qu'est le SNJ (Service national de la jeunesse), sa devise « Jonker staark maachen », le secteur de la jeunesse qu'il soutient, ses centres d'activités pratiques, l'aide qu'il apporte aux jeunes entrant dans la vie active (y compris le service volontaire), et la manière dont il écoute les jeunes et promeut un usage sûr des technologies grâce à BEE SECURE.",
-    "topics": ["Ce qu'est le SNJ", "Devise : Jonker staark maachen", "Soutenir le secteur de la jeunesse", "Centres d'activités pratiques", "Transition vers la vie active", "Le service volontaire", "Service Au Pair", "BEE SECURE & écoute des jeunes"],
-    "questions": [
-      {"text": "Que fait le SNJ ?", "options": ["Il gère les universités du Luxembourg", "C'est le Service national de la jeunesse du Luxembourg, qui soutient le développement des jeunes", "Il vend des assurances pour les jeunes", "Il organise uniquement des compétitions sportives"], "correct": 1, "explanation": "Le Service national de la jeunesse (SNJ) est le service public national de la jeunesse du Luxembourg, créé en 1964. Sa devise est « Jonker staark maachen » — donner les moyens d'agir aux jeunes. Il aide les jeunes à se développer et à devenir des citoyens responsables et actifs."},
-      {"text": "Sur quel type d'éducation repose le travail du SNJ ?", "options": ["Des examens formels et des notes", "L'éducation non formelle — apprendre par les activités et les expériences", "Uniquement des diplômes universitaires", "Uniquement l'enseignement à distance"], "correct": 1, "explanation": "Le SNJ travaille à travers l'éducation non formelle : apprendre en dehors de la salle de classe, par des activités, des projets et des expériences réelles. La participation est volontaire."},
-      {"text": "Qu'est-ce que le service volontaire proposé par le SNJ ?", "options": ["Une carrière rémunérée à temps plein", "Une occasion pour un jeune de s'engager dans un projet d'intérêt général et d'acquérir de l'expérience", "Un service militaire obligatoire", "Un examen scolaire"], "correct": 1, "explanation": "Le service volontaire permet à un jeune de participer à un véritable projet d'intérêt général pendant une certaine période. C'est apprendre en faisant — un tremplin vers une formation, un emploi ou une orientation."},
-      {"text": "Qui le SNJ peut-il aider dans la transition vers la vie active ?", "options": ["Uniquement les diplômés universitaires", "Les jeunes en risque de décrochage, ceux qui ont quitté l'école tôt et les jeunes inactifs", "Uniquement les personnes de plus de cinquante ans", "Uniquement les étudiants étrangers"], "correct": 1, "explanation": "Le SNJ soutient les jeunes en risque de décrochage, ceux qui ont quitté l'école tôt ou qui sont restés inactifs, en aidant chacun à construire un « projet de vie » personnel grâce à des ateliers, des formations et des alternatives concrètes."},
-      {"text": "Qu'est-ce que BEE SECURE ?", "options": ["Une entreprise d'alarmes domestiques", "Une initiative du SNJ qui promeut un usage sûr et responsable d'Internet et des technologies", "Une application bancaire", "Un type d'assurance"], "correct": 1, "explanation": "BEE SECURE promeut un usage sûr et responsable d'Internet et des nouvelles technologies, avec des conseils pratiques pour les jeunes et les parents afin d'éviter les risques en ligne."}
-    ]
-  },
-  "enfance": {
-    "title": "L'Office National de l'Enfance – Soutien et protection pour les enfants et les familles",
-    "description": "Ce qu'est l'Office National de l'Enfance (ONE), comment il travaille avec les familles de manière volontaire et progressive pour protéger le bien-être des enfants, ses quatorze bureaux régionaux, les professionnels et les mesures d'aide qu'il propose (du soutien pratique et psychologique à l'accueil familial), et comment demander de l'aide.",
-    "topics": ["Ce qu'est l'ONE", "Travailler avec les familles, volontairement", "Quatorze bureaux régionaux", "Psychologues, travailleurs sociaux, éducateurs", "Soutien socio-familial & psychologique", "Intervention précoce pour les jeunes enfants", "Centres d'accueil & familles d'accueil", "Comment demander de l'aide"],
-    "questions": [
-      {"text": "Quel est l'objectif principal de l'Office National de l'Enfance ?", "options": ["Percevoir des impôts auprès des familles", "Protéger le bien-être des enfants et soutenir les enfants, les jeunes et les familles", "Gérer des écoles", "Organiser des vacances"], "correct": 1, "explanation": "L'objectif de l'ONE est de protéger le bien-être de l'enfant et de soutenir les enfants, les jeunes et les familles qui traversent des moments difficiles, en travaillant avec eux de manière volontaire et collaborative."},
-      {"text": "Comment l'ONE travaille-t-il avec les familles ?", "options": ["Il prend des décisions sans la famille", "Il travaille avec les familles de manière volontaire, étape par étape, dans le respect", "Il envoie uniquement des lettres", "Il facture des frais élevés"], "correct": 1, "explanation": "L'ONE vise une collaboration volontaire. Ses professionnels construisent les mesures d'aide avec la famille, autour de ses besoins réels, et évaluent continuellement ce qui fonctionne."},
-      {"text": "Combien de bureaux régionaux l'ONE possède-t-il à travers le Luxembourg ?", "options": ["Un seul, dans la capitale", "Quatorze bureaux régionaux de l'enfance à travers le pays", "Aucun — il est uniquement en ligne", "Cinquante"], "correct": 1, "explanation": "L'ONE dispose de quatorze bureaux régionaux de l'enfance répartis à travers le Luxembourg, que les familles visitent sur rendez-vous, afin que le soutien soit disponible près de leur lieu de vie."},
-      {"text": "Quels professionnels travaillent à l'ONE pour soutenir les familles ?", "options": ["Uniquement des avocats", "Des psychologues, des travailleurs sociaux et des éducateurs formés", "Uniquement des médecins", "Uniquement des policiers"], "correct": 1, "explanation": "Les équipes de l'ONE comprennent des psychologues, des travailleurs sociaux et des éducateurs formés. Ils rencontrent les familles, visitent les domiciles, mettent en place des mesures d'aide avec la famille et se coordonnent avec d'autres services."},
-      {"text": "Comment une famille peut-elle commencer à demander de l'aide à l'ONE ?", "options": ["Uniquement par l'intermédiaire d'un tribunal", "En utilisant le formulaire de demande d'aide sur le site de l'ONE, ou via un professionnel", "En payant des frais d'inscription", "Il n'est pas possible de demander directement"], "correct": 1, "explanation": "Une famille peut contacter l'ONE directement en utilisant le formulaire de demande d'aide sur son site ; le bureau régional le plus proche prend alors contact. Un professionnel travaillant avec la famille peut aussi aider à initier la demande."}
-    ]
-  },
-  "cepas": {
-    "title": "CePAS – Soutien psychologique et scolaire pour les jeunes",
-    "description": "Ce qu'est le CePAS (le centre psycho-social et d'accompagnement scolaires), son histoire de soixante ans, le centre de consultation pour les jeunes de 12 à 30 ans et leurs familles, le soutien rapide disponible dans chaque lycée, les consultations désormais aussi en anglais, et la manière dont il se coordonne avec d'autres services.",
-    "topics": ["Ce qu'est le CePAS", "Soixante ans de soutien à la jeunesse", "Centre de consultation (12 à 30 ans)", "Problèmes scolaires, personnels & relationnels", "Aide rapide dans chaque lycée", "Consultations désormais en anglais", "Travailler avec parents & écoles", "Demander de l'aide, c'est normal"],
-    "questions": [
-      {"text": "Qu'est-ce que le CePAS ?", "options": ["Une entreprise privée de cours particuliers", "Un centre psycho-social et d'accompagnement scolaires pour les jeunes", "Un club de sport", "Une université"], "correct": 1, "explanation": "Le CePAS, le Centre psycho-social et d'accompagnement scolaires, soutient le développement et le bien-être personnel, relationnel et scolaire des jeunes à l'école. Il a été fondé en 1965 et a célébré ses soixante ans en 2025."},
-      {"text": "Qui peut s'adresser au centre de consultation du CePAS ?", "options": ["Uniquement les professeurs d'université", "Les adolescents et les jeunes adultes d'environ 12 à 30 ans, et leurs familles", "Uniquement les enfants de moins de cinq ans", "Uniquement les enseignants"], "correct": 1, "explanation": "Le centre de consultation s'adresse aux adolescents et jeunes adultes d'environ 12 à 30 ans, ainsi qu'à leurs parents et familles, offrant un soutien psychologique et thérapeutique pour des problèmes scolaires, personnels ou relationnels."},
-      {"text": "Où un jeune peut-il obtenir un soutien rapide, souvent sans rendez-vous ?", "options": ["Uniquement à l'hôpital", "Auprès du service psycho-social présent dans chaque lycée", "Uniquement à l'étranger", "Uniquement par courrier"], "correct": 1, "explanation": "Un service psycho-social est présent dans chaque lycée, où un jeune peut souvent être reçu rapidement, parfois le jour même, sans rendez-vous."},
-      {"text": "Qu'est-ce qui a changé au CePAS début 2026 ?", "options": ["Il a fermé", "Les consultations sont également devenues disponibles en anglais", "Il a commencé à facturer des frais élevés", "Il a déménagé à l'étranger"], "correct": 1, "explanation": "Depuis début 2026, les consultations au centre du CePAS pour les jeunes et les familles sont également disponibles en anglais, ouvrant le service à de nombreuses autres familles de la communauté internationale du Luxembourg."},
-      {"text": "Comment le CePAS travaille-t-il avec le reste du système de soutien ?", "options": ["Complètement seul, séparé de tous", "Avec les parents, les écoles et des services comme l'Office National de l'Enfance", "Uniquement avec la police", "Uniquement avec des entreprises privées"], "correct": 1, "explanation": "Le CePAS travaille main dans la main avec les parents, les enseignants et les écoles, et fait partie des partenaires auxquels l'Office National de l'Enfance peut faire appel pour un soutien psychologique — afin que l'aide puisse être coordonnée autour du jeune."}
-    ]
-  },
-  "fondseuropeens": {
-    "title": "Les Fonds européens au Luxembourg – Comment l'argent de l'UE soutient les projets locaux",
-    "description": "Ce que sont les Fonds européens, comment la politique de cohésion de l'UE investit dans les pays membres, les principaux fonds (développement régional, fonds social, et asile & migration), comment les autorités de gestion les supervisent, ce qu'ils financent, et comment les organisations peuvent y participer.",
-    "topics": ["La politique de cohésion de l'UE expliquée", "Fonds de développement régional (FEDER)", "Fonds social européen plus (FSE+)", "Fonds Asile, Migration & Intégration", "Autorités de gestion & supervision", "Cofinancer des projets locaux", "Qui peut postuler", "Transparence pour les citoyens"],
-    "questions": [
-      {"text": "Quelle est l'idée derrière la politique de cohésion de l'UE ?", "options": ["Percevoir de l'argent auprès des pays membres", "Investir dans les régions et les personnes pour qu'elles puissent se développer équitablement à travers l'Europe", "Remplacer les gouvernements nationaux", "Financer uniquement les grandes entreprises"], "correct": 1, "explanation": "La politique de cohésion de l'UE investit dans les régions et les personnes pour les aider à se développer équitablement à travers l'Europe. Chaque pays membre, y compris le Luxembourg, reçoit une part à dépenser pour des objectifs convenus."},
-      {"text": "Que soutient principalement le Fonds social européen plus (FSE+) ?", "options": ["La construction d'autoroutes", "Les personnes — emplois, compétences, formation et inclusion sociale", "Le matériel militaire", "L'exploration spatiale"], "correct": 1, "explanation": "Le Fonds social européen plus (FSE+) concerne les personnes : l'emploi, les compétences et la formation, et l'inclusion des personnes laissées de côté, contribuant à lutter contre la pauvreté et l'exclusion."},
-      {"text": "Qu'est-ce qu'une « autorité de gestion » ?", "options": ["Une banque privée", "L'organisme officiel chargé de gérer correctement le programme d'un fonds", "Une cour européenne", "Un parti politique"], "correct": 1, "explanation": "Pour chaque fonds, il existe une autorité de gestion — l'organisme officiel qui sélectionne les projets, gère l'argent avec soin et vérifie les résultats, guidé par le principe de bonne gestion financière."},
-      {"text": "Que signifie le « cofinancement » pour ces projets ?", "options": ["L'UE paie tout, seule", "Les fonds de l'UE s'ajoutent à l'argent national pour rendre un projet possible", "Les citoyens doivent rembourser l'argent", "Les projets ne reçoivent aucun argent public"], "correct": 1, "explanation": "Les fonds européens cofinancent généralement les projets — ils s'associent à l'argent national plutôt que de tout payer. Les projets sont souvent menés par des associations locales, des entreprises ou des organismes publics."},
-      {"text": "Qui peut postuler pour utiliser les fonds européens au Luxembourg ?", "options": ["Uniquement le gouvernement", "Les organisations et projets qui correspondent aux objectifs — associations, entreprises, organismes publics", "Uniquement les personnes vivant à l'étranger", "Personne — c'est automatique"], "correct": 1, "explanation": "Les organisations qui mènent des projets correspondant aux objectifs des fonds peuvent découvrir comment y participer sur le site des Fonds européens, qui explique aussi les objectifs et présente des exemples de projets financés."}
-    ]
-  },
-  "zesumme": {
-    "title": "Zesumme Vereinfachen – Simplifier ensemble les services publics",
-    "description": "Ce qu'est la plateforme « Zesumme Vereinfachen », comment les citoyens et les entreprises peuvent soumettre des idées pour simplifier les démarches de l'État, qui la gère (le Ministère de la Digitalisation), comment vous pouvez participer à une ou plusieurs phases dans l'une des quatre langues, et un exemple concret : améliorer l'application MyGuichet.",
-    "topics": ["Ce qu'est Zesumme Vereinfachen", "Simplifier ensemble les démarches", "Géré par le Ministère de la Digitalisation", "Soumettez vos idées", "Participez à une phase ou plusieurs", "Disponible en quatre langues", "Exemple : améliorer MyGuichet", "La démocratie au quotidien"],
-    "questions": [
-      {"text": "Qu'est-ce que « Zesumme Vereinfachen » ?", "options": ["Un site de shopping", "Une plateforme où les citoyens et les entreprises aident à simplifier les démarches de l'État", "Une application de réseaux sociaux", "Un impôt"], "correct": 1, "explanation": "« Zesumme Vereinfachen » (qui signifie « simplifier ensemble ») est une plateforme en ligne où les citoyens et les entreprises peuvent soumettre des idées et aider à rendre les démarches administratives de l'État plus simples."},
-      {"text": "Qui gère la plateforme Zesumme Vereinfachen ?", "options": ["Une entreprise privée", "Le Ministère de la Digitalisation, via le Conseil de simplification", "Un gouvernement étranger", "Une banque"], "correct": 1, "explanation": "La plateforme est gérée par le Ministère de la Digitalisation via le Conseil de simplification. Elle a été lancée en 2022, dans le cadre du programme de simplification plus large « Einfach Lëtzebuerg »."},
-      {"text": "À quel point devez-vous vous engager pour participer ?", "options": ["Vous devez suivre chaque projet du début à la fin", "Vous pouvez participer à une seule phase, ou à plusieurs, comme vous le souhaitez", "Vous devez travailler à temps plein", "Vous devez être un élu"], "correct": 1, "explanation": "Les participants sont libres : vous pouvez vous impliquer dans une seule phase d'un projet ou dans plusieurs, autant que vous le voulez. Vous n'êtes pas tenu de suivre un projet du début à la fin."},
-      {"text": "Dans quelles langues pouvez-vous contribuer ?", "options": ["En français uniquement", "En luxembourgeois, allemand, français ou anglais", "En anglais uniquement", "Aucune — uniquement par écrit par courrier"], "correct": 1, "explanation": "La plateforme accueille les contributions dans les quatre langues — luxembourgeois, allemand, français et anglais — afin que chacun, dans le Luxembourg multilingue, puisse participer dans sa propre langue."},
-      {"text": "Quel est un exemple concret de l'impact de la plateforme ?", "options": ["Elle a construit une nouvelle route", "Les retours des citoyens ont contribué à améliorer l'application MyGuichet", "Elle a baissé les impôts", "Elle a remplacé le gouvernement"], "correct": 1, "explanation": "Les retours des citoyens via la plateforme ont contribué à améliorer l'application MyGuichet — le guichet en ligne de l'État — montrant comment la suggestion d'une personne peut améliorer un service utilisé pour des millions de démarches."}
-    ]
-  }
+ "myguichet": {
+  "title": "MyGuichet.lu – Votre porte en ligne vers les administrations luxembourgeoises",
+  "description": "Ce qu'est MyGuichet.lu et pourquoi c'est important : le guichet en ligne sécurisé de l'État luxembourgeois, où vous pouvez effectuer vos démarches administratives depuis chez vous, ouvert tous les jours à toute heure. Comment vous inscrire avec votre matricule à 13 chiffres et un moyen de connexion sécurisé comme LuxTrust, la carte d'identité électronique luxembourgeoise ou un identifiant européen eIDAS, ce que vous pouvez faire dans votre eSpace personnel, les langues disponibles, l'application mobile — et comment les entreprises peuvent l'utiliser aussi.",
+  "topics": [
+   "Ce qu'est MyGuichet.lu",
+   "Votre eSpace personnel",
+   "Démarches en ligne",
+   "Inscription (matricule)",
+   "Connexion LuxTrust & eID",
+   "Identifiant européen eIDAS",
+   "Langues disponibles",
+   "Application mobile"
+  ],
+  "questions": [
+   {
+    "text": "Qu'est-ce que MyGuichet.lu ?",
+    "options": [
+     "Un service payant par abonnement pour des conseils juridiques",
+     "La plateforme en ligne officielle et sécurisée du gouvernement luxembourgeois – votre point de contact unique avec l'administration publique",
+     "Une application privée de banque en ligne",
+     "Un réseau social pour les résidents du Luxembourg"
+    ],
+    "correct": 1,
+    "explanation": "MyGuichet.lu est la plateforme en ligne officielle et sécurisée de l'État luxembourgeois. Elle fonctionne comme un guichet en ligne où vous pouvez effectuer vos démarches administratives depuis chez vous, au lieu d'aller dans un bureau."
+   },
+   {
+    "text": "Pourquoi MyGuichet.lu est-il décrit dans l'épisode comme un « guichet en ligne » ?",
+    "options": [
+     "Parce que c'est comme le guichet d'un bureau administratif — mais en ligne, ouvert tous les jours, à toute heure, depuis chez vous",
+     "Parce qu'on peut y compter ses documents",
+     "Parce qu'il ne fonctionne qu'au guichet d'un bureau",
+     "Parce que c'est une application bancaire"
+    ],
+    "correct": 0,
+    "explanation": "Au lieu d'aller au guichet d'un bureau pendant les heures d'ouverture, MyGuichet.lu est votre guichet en ligne avec l'État — ouvert 24 heures sur 24, 7 jours sur 7."
+   },
+   {
+    "text": "De quoi avez-vous besoin pour vous inscrire sur MyGuichet.lu ?",
+    "options": [
+     "Avoir au moins 16 ans et posséder votre numéro d'identification national à 13 chiffres (le « matricule »)",
+     "Être citoyen luxembourgeois et payer des frais d'inscription",
+     "Un passeport luxembourgeois et un titre de séjour",
+     "Seulement une adresse e-mail"
+    ],
+    "correct": 0,
+    "explanation": "Pour vous inscrire, vous devez avoir au moins 16 ans, posséder votre matricule à 13 chiffres (sur votre carte de sécurité sociale), une adresse e-mail, un appareil, et un moyen sécurisé de prouver votre identité en ligne."
+   },
+   {
+    "text": "Quels moyens de connexion sécurisés pouvez-vous utiliser pour MyGuichet.lu ?",
+    "options": [
+     "Juste un nom d'utilisateur et un mot de passe que vous choisissez vous-même",
+     "Un simple compte Google ou Facebook",
+     "Uniquement un produit LuxTrust",
+     "Un produit LuxTrust, la carte d'identité électronique luxembourgeoise, ou un identifiant eIDAS de votre propre pays européen"
+    ],
+    "correct": 3,
+    "explanation": "Il vous faut un moyen de connexion sécurisé, mais vous avez le choix : un produit LuxTrust (comme LuxTrust Mobile), la carte d'identité électronique luxembourgeoise, ou un identifiant eIDAS d'un autre pays européen."
+   },
+   {
+    "text": "Que pouvez-vous faire dans votre eSpace personnel sur MyGuichet.lu ?",
+    "options": [
+     "Rien – vous devez quand même aller au bureau pour tout",
+     "Acheter des actions et des cryptomonnaies",
+     "Suivre l'état de vos demandes, consulter vos données officielles, recevoir des documents et prendre des rendez-vous",
+     "Uniquement faire votre déclaration d'impôts annuelle"
+    ],
+    "correct": 2,
+    "explanation": "Dans votre eSpace, vous pouvez suivre vos dossiers, consulter les données officielles que l'État possède sur vous, recevoir des documents officiels par voie électronique, conserver des documents, et prendre des rendez-vous avec certaines administrations."
+   }
+  ]
+ },
+ "benevolat": {
+  "title": "Le bénévolat au Luxembourg – Donnez le temps que vous voulez",
+  "description": "Une façon flexible et enrichissante de rencontrer des gens et de donner quelque chose à sa communauté. Ce que le bénévolat signifie vraiment et pourquoi il compte au Luxembourg, où environ 35 % des gens y participent. Comment l'Agence du Bénévolat et la plateforme benevolat.lu vous mettent en relation avec les organisations — avec un système de mise en relation intelligent et des missions dans toutes les régions — comment vous pouvez commencer par des missions courtes et ponctuelles, sans engagement à long terme, et trois étapes simples pour débuter.",
+  "topics": [
+   "Définition d'un bénévole",
+   "Pourquoi le bénévolat compte",
+   "35 % de la population",
+   "Agence du Bénévolat",
+   "Plateforme benevolat.lu",
+   "Pas d'engagement long requis",
+   "Missions courtes et ponctuelles",
+   "Comment commencer : 3 étapes"
+  ],
+  "questions": [
+   {
+    "text": "Comment un bénévole est-il défini dans l'épisode ?",
+    "options": [
+     "Un travailleur à temps partiel rémunéré par une association caritative",
+     "Une personne qui, de son plein gré et sans être payée, fait quelque chose au service des autres ou de la communauté",
+     "Un employé de l'État",
+     "Une personne obligée d'aider par décision de justice"
+    ],
+    "correct": 1,
+    "explanation": "Un bénévole donne le temps qu'il veut – un peu, beaucoup, ou passionnément – de son plein gré et sans être payé, au service des autres ou de la communauté."
+   },
+   {
+    "text": "En 2022, quelle part environ de la population luxembourgeoise a fait du bénévolat ?",
+    "options": [
+     "Environ 5 %",
+     "Environ 70 %",
+     "Environ 35 % – plus d'une personne sur trois, plaçant le Luxembourg au quatrième rang en Europe",
+     "Environ 10 %"
+    ],
+    "correct": 2,
+    "explanation": "En 2022, environ 35 % de la population a fait du bénévolat – plus d'une personne sur trois – ce qui place le Luxembourg au quatrième rang de toute l'Europe. Il existe même une Journée du bénévolat chaque 5 décembre."
+   },
+   {
+    "text": "Quels sont l'organisation centrale et le site internet du bénévolat au Luxembourg ?",
+    "options": [
+     "Uniquement la mairie de la commune",
+     "L'ADEM, sur adem.lu",
+     "L'Agence du Bénévolat, avec son site benevolat.lu",
+     "Le ministère des Finances"
+    ],
+    "correct": 2,
+    "explanation": "L'Agence du Bénévolat promeut le bénévolat depuis 2002. Son site benevolat.lu est un point de rencontre où les associations qui cherchent de l'aide et les personnes qui veulent donner du temps se trouvent."
+   },
+   {
+    "text": "Faut-il un engagement à long terme pour faire du bénévolat ?",
+    "options": [
+     "Uniquement des week-ends complets pendant toute une année",
+     "Oui, au moins un an",
+     "Oui, au moins trois mois",
+     "Non – vous donnez le temps que vous voulez, et beaucoup de missions sont ponctuelles ou courtes (un après-midi, une journée, un événement)"
+    ],
+    "correct": 3,
+    "explanation": "Vous n'avez pas besoin d'un engagement long. Beaucoup de missions sur benevolat.lu concernent un seul événement ou une seule journée – aider à un gala, être signaleur pour une course, tenir un barbecue – donc toute personne avec une vie bien remplie peut participer."
+   },
+   {
+    "text": "Quelle méthode simple l'épisode propose-t-il pour commencer le bénévolat ?",
+    "options": [
+     "Signer d'abord un contrat d'un an avec une association",
+     "Réfléchir à ce que vous aimez, vous inscrire gratuitement sur benevolat.lu, et proposer votre aide pour une mission qui vous plaît",
+     "Attendre qu'une organisation vous contacte par courrier",
+     "Postuler à un emploi rémunéré à l'Agence du Bénévolat"
+    ],
+    "correct": 1,
+    "explanation": "L'Agence du Bénévolat suggère : d'abord réfléchir à la cause, l'activité et le temps qui vous conviennent ; ensuite vous inscrire gratuitement sur benevolat.lu ; puis parcourir les missions et proposer votre aide. L'organisation vous contacte ensuite."
+   }
+  ]
+ },
+ "eltereforum": {
+  "title": "Eltereforum – Parents forts, enfants forts",
+  "description": "Un réseau chaleureux et accueillant de forums des parents à travers le Luxembourg, coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse. Ce que propose l'Eltereforum — rencontres de parents, cours pour parents, activités parents-enfants et soirées à thème, autour de l'idée « parents forts, enfants forts » — à qui il s'adresse (tous les parents, d'avant la naissance jusqu'à l'âge adulte de l'enfant), comment les forums régionaux travaillent avec les partenaires locaux, et comment l'équipe vous oriente vers des services spécialisés si nécessaire.",
+  "topics": [
+   "Sens du mot « Eltereforum »",
+   "Pour tous les parents",
+   "Ministère de l'Éducation",
+   "« Parents forts, enfants forts »",
+   "Rencontres, cours & conférences",
+   "Orientation vers des spécialistes",
+   "Forums régionaux",
+   "L'agenda sur eltereforum.lu"
+  ],
+  "questions": [
+   {
+    "text": "Qu'est-ce que l'Eltereforum ?",
+    "options": [
+     "Une boutique en ligne de produits pour bébés",
+     "Une école pour enfants",
+     "Un « forum des parents » – un lieu accueillant d'échange, d'information et de soutien pour tous les parents",
+     "Un parti politique pour les parents"
+    ],
+    "correct": 2,
+    "explanation": "« Elteren » signifie parents et « Forum » un lieu de rencontre, donc Eltereforum est un forum des parents : un lieu convivial et généraliste où chaque parent peut poser des questions, apprendre et rencontrer d'autres parents – sans avoir besoin d'une raison particulière."
+   },
+   {
+    "text": "Qui coordonne l'Eltereforum ?",
+    "options": [
+     "Une seule association locale de parents",
+     "Le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse – c'est un service public de l'État luxembourgeois",
+     "L'assurance maladie nationale (CNS)",
+     "Une entreprise privée"
+    ],
+    "correct": 1,
+    "explanation": "L'Eltereforum est coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse, avec l'idée directrice « Parents forts, enfants forts » – des parents soutenus et confiants aident leurs enfants à mieux s'épanouir."
+   },
+   {
+    "text": "À partir de quand l'Eltereforum soutient-il les parents ?",
+    "options": [
+     "Seulement pendant l'adolescence",
+     "Seulement à partir de l'entrée à l'école",
+     "Seulement de 0 à 3 ans",
+     "Dès le début du « projet parental » – même avant la naissance – et jusqu'à ce que l'enfant devienne adulte"
+    ],
+    "correct": 3,
+    "explanation": "Il soutient les parents tout au long du parcours : dès que vous planifiez ou attendez un bébé, à travers toutes les étapes de l'enfance, jusqu'à ce que l'enfant devienne adulte."
+   },
+   {
+    "text": "Que se passe-t-il si un parent vient avec un problème sérieux et spécifique que l'Eltereforum ne peut pas traiter lui-même ?",
+    "options": [
+     "On lui demande de revenir plus tard",
+     "L'Eltereforum propose une thérapie médicale sur place",
+     "L'équipe l'écoute et l'oriente vers le bon service spécialisé",
+     "Rien — l'Eltereforum n'organise que des fêtes"
+    ],
+    "correct": 2,
+    "explanation": "L'Eltereforum est généraliste — il ne propose pas de traitement spécialisé. Mais l'équipe vous écoute et vous indique le bon service spécialisé ; c'est donc aussi une porte qui vous envoie dans la bonne direction."
+   },
+   {
+    "text": "Que trouve-t-on sur le site eltereforum.lu ?",
+    "options": [
+     "Une boutique en ligne de vêtements pour enfants",
+     "Une plateforme d'information avec l'agenda de toutes les activités, soirées et cours des différents forums",
+     "Uniquement le numéro de téléphone du ministère",
+     "Un réseau social réservé aux enseignants"
+    ],
+    "correct": 1,
+    "explanation": "eltereforum.lu est une plateforme d'information en soi, et son agenda montre le calendrier de toutes les activités, soirées et cours des différents forums régionaux — vous pouvez donc voir ce qui se passe près de chez vous."
+   }
+  ]
+ },
+ "dsp_cns": {
+  "title": "Votre santé en ligne – Le Dossier de Soins Partagé et comment la CNS vous rembourse",
+  "description": "Deux choses pratiques qui touchent tout le monde. D'abord, le Dossier de Soins Partagé — votre dossier de santé partagé en ligne, gratuit et sécurisé, géré par l'Agence eSanté, où vous contrôlez qui peut le consulter, avec l'application mobile MyDSP. Ensuite, comment fonctionne le remboursement avec l'assurance maladie nationale, la CNS : payer d'abord et récupérer la plus grande partie, le tiers payant à la pharmacie et à l'hôpital, le tiers payant social pour les personnes en difficulté, et comment activer votre compte eSanté via MyGuichet.lu.",
+  "topics": [
+   "Dossier de Soins Partagé (DSP)",
+   "Agence eSanté",
+   "Le patient contrôle l'accès",
+   "Application MyDSP & MyGuichet",
+   "Remboursement CNS",
+   "Payer d'abord, être remboursé",
+   "Tiers payant (pharmacie)",
+   "Tiers payant social"
+  ],
+  "questions": [
+   {
+    "text": "Qu'est-ce que le DSP (Dossier de Soins Partagé) ?",
+    "options": [
+     "Un contrat d'assurance privé",
+     "Un carnet papier que vous apportez à chaque rendez-vous",
+     "Un dossier fiscal détenu par l'administration",
+     "Un dossier de santé électronique gratuit, personnel et sécurisé qui rassemble vos informations de santé en un seul endroit"
+    ],
+    "correct": 3,
+    "explanation": "Le DSP est un dossier de santé en ligne gratuit, personnel et sécurisé, géré par l'Agence eSanté. Il rassemble vos traitements, résultats, rapports et allergies pour que tous ceux qui vous soignent travaillent à partir de la même image."
+   },
+   {
+    "text": "Qui décide qui peut consulter votre DSP ?",
+    "options": [
+     "Vous, le patient – vous donnez et retirez l'accès et pouvez voir qui a consulté votre dossier",
+     "Uniquement votre médecin généraliste",
+     "Votre employeur",
+     "Le ministère de la Santé"
+    ],
+    "correct": 0,
+    "explanation": "C'est vous qui contrôlez : vous décidez qui peut accéder à votre DSP, vous pouvez retirer l'accès, voir qui l'a consulté, et même masquer certains documents. C'est votre dossier et c'est vous qui avez les clés."
+   },
+   {
+    "text": "Pour une visite normale chez le médecin, comment fonctionne généralement le paiement avec la CNS ?",
+    "options": [
+     "La CNS vous paie en espèces à l'accueil",
+     "La visite est toujours entièrement gratuite",
+     "Vous ne payez jamais rien à aucun moment",
+     "Vous payez d'abord le prix complet, puis la CNS vous rembourse la plus grande partie (environ 80 à 100 %) sur votre compte bancaire"
+    ],
+    "correct": 3,
+    "explanation": "Le Luxembourg fonctionne traditionnellement par remboursement : vous payez d'abord le médecin, vous envoyez la facture acquittée à la CNS, et elle vous rembourse la plus grande partie sur votre compte bancaire, en général en moins de trois semaines."
+   },
+   {
+    "text": "Qu'est-ce que le « tiers payant », par exemple à la pharmacie ?",
+    "options": [
+     "Vous ne payez que votre petite part, et la pharmacie règle le reste directement avec la CNS",
+     "L'État ne paie rien et vous payez tout",
+     "Vous payez toujours le prix complet et le réclamez plus tard",
+     "Vous payez le double et êtes remboursé"
+    ],
+    "correct": 0,
+    "explanation": "Avec le tiers payant, utilisé à la pharmacie et pour les séjours à l'hôpital, vous ne payez que votre petite part et le prestataire facture le reste directement à la CNS."
+   },
+   {
+    "text": "Comment pouvez-vous activer votre compte eSanté, pour utiliser votre DSP en ligne ?",
+    "options": [
+     "Directement via MyGuichet.lu — puis consulter votre dossier en ligne ou avec l'application mobile MyDSP",
+     "Vous ne pouvez pas l'activer vous-même",
+     "Uniquement en personne dans un hôpital",
+     "Uniquement en attendant un code envoyé par courrier"
+    ],
+    "correct": 0,
+    "explanation": "Vous pouvez activer votre compte eSanté directement via MyGuichet.lu. Une fois qu'il est actif, vous vous connectez via le portail eSanté — ou vous utilisez l'application mobile MyDSP sur votre téléphone."
+   }
+  ]
+ },
+ "lualert": {
+  "title": "LU-Alert – Comment le Luxembourg vous alerte en cas d'urgence",
+  "description": "Le système national d'alerte et d'information de la population du Luxembourg, lancé à l'automne 2024. Ce qu'est LU-Alert et comment les alertes arrivent sur votre téléphone via Cell Broadcast, SMS géolocalisé et l'application gratuite — sans aucune inscription nécessaire. Les niveaux d'alerte et leurs couleurs, les douze catégories d'alerte, les langues utilisées, et une compétence simple mais vitale : comment distinguer une vraie alerte officielle d'une tentative de phishing.",
+  "topics": [
+   "Ce que signifie « LU-Alert »",
+   "Cell Broadcast & SMS géolocalisé",
+   "Aucune inscription nécessaire",
+   "L'application mobile gratuite",
+   "Langues : DE / EN / FR",
+   "Niveaux d'alerte & couleurs",
+   "Les 12 catégories d'alerte",
+   "Repérer le phishing"
+  ],
+  "questions": [
+   {
+    "text": "Qu'est-ce que LU-Alert ?",
+    "options": [
+     "Une application météo privée à laquelle on s'abonne",
+     "Un compte de réseau social géré par la police",
+     "Le système national d'alerte et d'information de la population du Luxembourg, lancé à l'automne 2024",
+     "Un régime d'assurance contre les catastrophes naturelles"
+    ],
+    "correct": 2,
+    "explanation": "« LU-Alert » combine « LU » (le code pays du Luxembourg) et « Alert ». C'est le système national d'alerte et d'information de la population, déployé à l'automne 2024 pour avertir les gens des événements dangereux."
+   },
+   {
+    "text": "Faut-il s'inscrire pour recevoir les alertes par Cell Broadcast ou par SMS géolocalisé ?",
+    "options": [
+     "Non – il n'y a pas d'inscription ; tout téléphone présent dans la zone ciblée est atteint automatiquement",
+     "Oui, vous devez enregistrer votre numéro sur lu-alert.lu",
+     "Oui, mais seuls les frontaliers doivent s'inscrire",
+     "Non, mais seulement si vous payez une petite cotisation annuelle"
+    ],
+    "correct": 0,
+    "explanation": "Pour le Cell Broadcast et le SMS géolocalisé, vous ne vous inscrivez pas – et vous ne pouvez pas vraiment vous y soustraire. Si votre téléphone est dans la zone quand les autorités envoient un message, il est ciblé automatiquement. (Pour l'application mobile, il suffit de la télécharger.)"
+   },
+   {
+    "text": "Dans quelles langues les messages LU-Alert sont-ils envoyés ?",
+    "options": [
+     "Uniquement en luxembourgeois",
+     "Uniquement en français",
+     "En anglais et en luxembourgeois",
+     "En allemand, en anglais et en français"
+    ],
+    "correct": 3,
+    "explanation": "Les messages d'alerte et d'information sont émis en allemand, en anglais et en français, donc les francophones sont couverts."
+   },
+   {
+    "text": "Quand les sirènes sont-elles utilisées dans le système LU-Alert ?",
+    "options": [
+     "Pour chaque alerte météo",
+     "Uniquement en cas d'alerte nucléaire",
+     "Tous les jours à midi, en test",
+     "Chaque fois que le réseau mobile est en panne"
+    ],
+    "correct": 1,
+    "explanation": "Aujourd'hui, les sirènes ne sont utilisées que pour une alerte nucléaire. Toutes les autres alertes vous atteignent par téléphone (Cell Broadcast et SMS), l'application, les sites internet et les médias."
+   },
+   {
+    "text": "Comment pouvez-vous vérifier qu'un message d'alerte est authentique et non du phishing ?",
+    "options": [
+     "Répondre au SMS avec vos coordonnées pour confirmer votre identité",
+     "Cliquer sur le lien dans le message pour le vérifier",
+     "Retenir que les autorités ne demandent jamais de données personnelles, et vérifier si l'alerte figure sur lu-alert.lu",
+     "Appeler le numéro affiché et donner vos coordonnées bancaires"
+    ],
+    "correct": 2,
+    "explanation": "Les autorités publiques ne demandent jamais de données personnelles, et les messages ne contiennent normalement pas de lien cliquable. En cas de doute, vérifiez l'alerte sur lu-alert.lu – et ne partagez jamais de données personnelles."
+   }
+  ]
+ }
 }

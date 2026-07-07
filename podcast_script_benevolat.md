@@ -2,7 +2,7 @@
 
 **Part of the Biergerpakt programme**
 **Hosts:** Anna (woman) and Tom (man)
-**Length:** about 10 minutes — spoken slowly, in simple English
+**Length:** about 9 minutes — spoken slowly, in simple English
 
 ---
 
@@ -10,9 +10,9 @@
 
 **TOM:** Hello everyone!
 
-**ANNA:** This episode is part of the Biergerpakt. That's a programme of living together in Luxembourg. The idea is simple... we want to help residents, and also cross-border workers, to discover Luxembourg — or re-discover it — and to meet new people.
+**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. So that they can connect, exchange ideas and feel at home. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 
-**TOM:** Exactly. And today we talk about a beautiful way to do just that. To meet people, and to give something back. We're talking about volunteering. In French, "le bénévolat".
+**TOM:** Exactly. And today we talk about a beautiful way to meet people, and to give something back. We're talking about volunteering.
 
 **ANNA:** Volunteering. Okay, Tom... let's start simply. What is it, really?
 
@@ -24,15 +24,15 @@
 
 **ANNA:** I like that. It's not only duty. It's also pleasure. So tell me, Tom — why is volunteering so important?
 
-**TOM:** Well... volunteering plays a key role in our society. It holds people together. It's built on values — solidarity, citizenship, respect. When people give their time freely, the society becomes more connected. More inclusive. Nobody is left alone in the corner.
+**TOM:** Well... volunteering plays a key role in our society. It holds people together. It's built on values — solidarity, citizenship, respect. When people give their time freely, the society becomes more connected. More inclusive.
 
 **ANNA:** So it's like... the glue between people.
 
-**TOM:** That's a good way to say it. The glue. And here's a number that surprised me. In Luxembourg, in 2022, thirty-five percent of the population did some volunteering.
+**TOM:** Indeed, and here's a number that surprised me. In Luxembourg, in 2022, thirty-five percent of the population did some volunteering.
 
 **ANNA:** Thirty-five percent? More than one person in three?
 
-**TOM:** More than one in three. And that puts Luxembourg fourth in all of Europe. There's even a Volunteering Day every year, on the fifth of December.
+**TOM:** More than one in three. And that puts Luxembourg fourth in all of Europe. There's even an International Volunteering Day every year, on the fifth of December.
 
 **ANNA:** So it's really part of the culture here.
 
@@ -40,15 +40,11 @@
 
 **ANNA:** Beautiful. Okay — so how is volunteering organised here in Luxembourg?
 
-**TOM:** The central place to know is the Agence du Bénévolat. The Volunteering Agency. Since 2002, their job is to promote and develop volunteering in Luxembourg. And the most useful thing for a listener is their website — benevolat dot l-u.
+**TOM:** The central place to know is the Agence du Bénévolat. The Volunteering Agency. Since 2002, their job is to promote and develop volunteering in Luxembourg. And the most useful thing for a listener is their website — benevolat.lu.
 
-**ANNA:** benevolat.lu. And what do I find there?
+**ANNA:** benevolat.lu. Great! And what do I find on that webpage?
 
-**TOM:** It's a meeting point. On one side, the associations looking for help. On the other side, people like you and me who want to give some time. The platform brings the two together. They even added a smart matching system — it looks at your interests and skills, and suggests missions that fit you.
-
-**ANNA:** Oh — like when a website suggests things, but for good deeds.
-
-**TOM:** *(laughs)* Exactly. Matching, but for kindness.
+**TOM:** It's a meeting point. On one side, the organizations, municipalities or companies looking for help. On the other side, people like you and me who want to give some time. The platform brings the two together. They even added a smart matching system — it looks at your interests and skills, and suggests missions that could be of interest to you.
 
 **ANNA:** And is the choice big?
 
@@ -60,23 +56,15 @@
 
 **ANNA:** Okay Tom — this is the part I really want to underline. Because some people hear "volunteering" and they get scared. They think, "I don't have time. I can't commit for years."
 
-**TOM:** Yes — and this is so important. So let me be very clear. You do NOT need to commit for a long time.
-
-**ANNA:** Say that again, louder, for the people in the back!
-
-**TOM:** *(laughs)* You do not need a long commitment! Remember the definition — you give the time you want. A little, a lot, or passionately. It's your choice.
+**TOM:** Yes — and this is so important. So let me be very clear. You do NOT need to commit for a long time. Remember the definition — you give the time you want. A little, a lot, or passionately. It's your choice.
 
 **ANNA:** So there are short missions? One-time things?
 
-**TOM:** Yes — lots of them. On benevolat.lu, many missions are just for a single event, or a single day. Real examples on the site right now: helping at a gymnastics gala for one weekend. Being a marshal for one day at a cycling race. Manning the barbecue at a summer party. Making Christmas decorations. Transporting an animal from a drop-off point.
+**TOM:** Yes — lots of them. On benevolat.lu, many missions are just for a single event, or a single day. Real examples on the site right now: helping at a gymnastics gala for one weekend. Being a marshal for one day at a cycling race. Manning the barbecue at a summer party. Making Christmas decorations.
 
 **ANNA:** So small, concrete things. A few hours. A day. A weekend.
 
 **TOM:** Exactly. You can help for one afternoon, and that's already wonderful. You're not signing a contract for ten years. You give one moment of your time, and it really helps.
-
-**ANNA:** That changes everything. So anyone can do it — even with a busy life.
-
-**TOM:** Anyone. A student, a parent, someone working full-time, a retired person. You just choose a mission that fits your free time.
 
 **ANNA:** Okay. I'm convinced. How do I actually start? Step by step.
 
@@ -84,25 +72,13 @@
 
 **ANNA:** Ah, smart. So I first understand what suits me.
 
-**TOM:** Exactly. Because a happy volunteer is one who does something they enjoy. Step two — you go to benevolat.lu and register on the portal. It's free. Then you look through the directory of missions and associations, you filter by region or field, and when you find one you like, you offer your help directly. The association then contacts you.
+**TOM:** Exactly. Because a happy volunteer is one who does something they enjoy. Step two — you go to benevolat.lu and register on the portal. It's free. Then you look through the directory of missions, you filter by region or field, and when you find one you like, you offer your help directly. The organization, municipality or company then contacts you.
 
 **ANNA:** So three movements. Think about what I like. Register on benevolat.lu. Offer my help.
 
-**TOM:** That's it. And if you prefer to talk to a human, you can contact the Agence directly — they're on Avenue Guillaume in Luxembourg City, phone two-six, one-two, one-zero.
+**TOM:** That's it. And if you prefer to talk to a human, you can contact the Agence directly — they're on Avenue Guillaume in Luxembourg City and you can reach them by phone at 261210.
 
-**ANNA:** And if I'm young — is there something special?
-
-**TOM:** Yes, and don't confuse the two. For people under thirty, there's also "voluntary service" — in French, "service volontaire". That's a bigger commitment — full-time, on one project, usually three to twelve months, in Luxembourg or abroad. It's run by the National Youth Service, the website volontaires.lu. So — normal volunteering is flexible and for everybody, at any age. The voluntary service is the full-time programme for the under-thirties.
-
-**ANNA:** Useful difference. One last thing — does volunteering count for anything officially?
-
-**TOM:** It can. The skills you gain can be officially recognised. The association can give you a certificate of what you did. And there's even a system called Validation of Acquired Experience, through the Ministry of Education. So volunteering can help your career later, too.
-
-**ANNA:** So it's good for the heart... and good for the CV.
-
-**TOM:** *(laughs)* Both. And every year the Agence gives a prize — the Prix du Mérite du Bénévolat — to honour volunteers.
-
-**ANNA:** Lovely. Okay Tom, short summary?
+**ANNA:** Great. Okay Tom, short summary?
 
 **TOM:** Volunteering is giving the time you want, freely, to help others. It matters because it holds our society together — and in Luxembourg, more than one person in three does it. The central place is the Agence du Bénévolat, and their website benevolat.lu, where associations and volunteers meet, in every region.
 
@@ -114,11 +90,11 @@
 
 **TOM:** Really. Start small. One afternoon. You'll see.
 
-**ANNA:** That was our episode about volunteering in Luxembourg, part of the Biergerpakt — living together, discovering the country, and meeting new people. Thank you so much for listening.
+**ANNA:** That was our episode about volunteering in Luxembourg. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.
 
 **TOM:** Thank you, everyone. Take care... and see you next time!
 
-**ANNA:** Bye bye!
+**ANNA:** Thank you so much for listening.
 
 ---
 

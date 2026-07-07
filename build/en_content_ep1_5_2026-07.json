@@ -1,0 +1,357 @@
+{
+ "myguichet": {
+  "title": "MyGuichet.lu – Your Online Door to Luxembourg’s Administrations",
+  "description": "What MyGuichet.lu is and why it matters: the Luxembourg State's secure online counter, where you can carry out administrative procedures from home, open every day at any hour. How to register with your 13-digit matricule and a secure login such as LuxTrust, the Luxembourg eID card or a European eIDAS login, what you can do in your personal eSpace, the available languages, the mobile app — and how businesses can use it too.",
+  "topics": [
+   "What MyGuichet.lu is",
+   "Your personal eSpace",
+   "Online procedures",
+   "Registering (matricule)",
+   "LuxTrust & eID login",
+   "eIDAS European login",
+   "Available languages",
+   "Mobile app"
+  ],
+  "questions": [
+   {
+    "text": "What is MyGuichet.lu?",
+    "options": [
+     "A paid subscription service for legal advice",
+     "The official, secure online platform of the Luxembourg government – your single point of contact with the public administration",
+     "A private online banking application",
+     "A social network for residents of Luxembourg"
+    ],
+    "correct": 1,
+    "explanation": "MyGuichet.lu is the official, secure online platform of the Luxembourg State. It works like an online counter (“guichet”) where you can carry out administrative procedures from home instead of going to an office."
+   },
+   {
+    "text": "Why is MyGuichet.lu described in the episode as an “online counter”?",
+    "options": [
+     "Because it is like the counter of an administration office — but online, open every day, at any hour, from home",
+     "Because you can count your documents there",
+     "Because it only works at the counter of an office",
+     "Because it is a banking application"
+    ],
+    "correct": 0,
+    "explanation": "Instead of going to an office counter during opening hours, MyGuichet.lu is your online counter with the State — open 24 hours a day, 7 days a week."
+   },
+   {
+    "text": "What do you need in order to register on MyGuichet.lu?",
+    "options": [
+     "To be at least 16 years old and have your 13-digit national identification number (the “matricule”)",
+     "To be a Luxembourg citizen and pay a registration fee",
+     "A Luxembourg passport and a residence permit",
+     "Only an email address"
+    ],
+    "correct": 0,
+    "explanation": "To register you must be at least 16, have your 13-digit matricule (on your social security card), an email address, a device, and a secure way to prove your identity online."
+   },
+   {
+    "text": "Which secure logins can you use for MyGuichet.lu?",
+    "options": [
+     "Just a username and password you choose yourself",
+     "A simple Google or Facebook account",
+     "Only a LuxTrust product",
+     "A LuxTrust product, the Luxembourg eID card, or an eIDAS login from your own European country"
+    ],
+    "correct": 3,
+    "explanation": "You need one secure login, but you have a choice: a LuxTrust product (such as LuxTrust Mobile), the Luxembourg electronic ID card, or an eIDAS login from another European country."
+   },
+   {
+    "text": "What can you do in your personal eSpace on MyGuichet.lu?",
+    "options": [
+     "Nothing – you still have to visit an office for everything",
+     "Trade shares and cryptocurrencies",
+     "Follow the status of your requests, view your official data, receive documents and book appointments",
+     "Only file your annual tax return"
+    ],
+    "correct": 2,
+    "explanation": "In your eSpace you can follow your files, see the official data the State holds about you, receive official documents electronically, store documents, and book appointments with some administrations."
+   }
+  ]
+ },
+ "benevolat": {
+  "title": "Volunteering in Luxembourg – Give the Time You Want",
+  "description": "A flexible, rewarding way to meet people and give something back to your community. What volunteering really means and why it matters in Luxembourg, where around 35% of people take part. How the Agence du Bénévolat and the benevolat.lu platform connect you with organisations — with a smart matching system and missions in every region — how you can start with short, one-time missions and no long-term commitment, and three simple steps to begin.",
+  "topics": [
+   "Definition of a volunteer",
+   "Why volunteering matters",
+   "35% of the population",
+   "Agence du Bénévolat",
+   "benevolat.lu platform",
+   "No long commitment needed",
+   "Short, one-time missions",
+   "How to start: 3 steps"
+  ],
+  "questions": [
+   {
+    "text": "How is a volunteer defined in the episode?",
+    "options": [
+     "A paid part-time worker for a charity",
+     "Someone who, of their own free will and without being paid, does something in the service of others or of the community",
+     "A government employee",
+     "Someone required to help by a court order"
+    ],
+    "correct": 1,
+    "explanation": "A volunteer gives the time they want – a little, a lot, or passionately – of their own free will and without being paid, in the service of others or of the community."
+   },
+   {
+    "text": "In 2022, roughly what share of Luxembourg’s population did some volunteering?",
+    "options": [
+     "About 5%",
+     "About 70%",
+     "About 35% – more than one person in three, placing Luxembourg fourth in Europe",
+     "About 10%"
+    ],
+    "correct": 2,
+    "explanation": "In 2022 about 35% of the population volunteered – more than one in three – which put Luxembourg fourth in all of Europe. There is even a Volunteering Day every 5 December."
+   },
+   {
+    "text": "What is the central organisation and website for volunteering in Luxembourg?",
+    "options": [
+     "The commune’s town hall only",
+     "The ADEM, on adem.lu",
+     "The Agence du Bénévolat, with its website benevolat.lu",
+     "The Ministry of Finance"
+    ],
+    "correct": 2,
+    "explanation": "The Agence du Bénévolat promotes volunteering since 2002. Its website benevolat.lu is a meeting point where associations looking for help and people who want to give time find each other."
+   },
+   {
+    "text": "Do you need a long-term commitment to volunteer?",
+    "options": [
+     "Only full weekends for a whole year",
+     "Yes, at least one year",
+     "Yes, at least three months",
+     "No – you give the time you want, and many missions are one-time or short (an afternoon, a day, an event)"
+    ],
+    "correct": 3,
+    "explanation": "You do not need a long commitment. Many missions on benevolat.lu are for a single event or a single day – helping at a gala, marshalling a race, manning a barbecue – so anyone with a busy life can take part."
+   },
+   {
+    "text": "What simple method does the episode suggest for getting started as a volunteer?",
+    "options": [
+     "Sign a one-year contract with an association first",
+     "Think about what you enjoy, register for free on benevolat.lu, and offer your help for a mission you like",
+     "Wait until an organisation contacts you by post",
+     "Apply for a paid position at the Agence du Bénévolat"
+    ],
+    "correct": 1,
+    "explanation": "The Agence du Bénévolat suggests: first think about what cause, activity and time suit you; then register for free on benevolat.lu; then browse the missions and offer your help. The organisation then contacts you."
+   }
+  ]
+ },
+ "eltereforum": {
+  "title": "Eltereforum – Strong Parents, Strong Children",
+  "description": "A warm, welcoming network of parent forums across Luxembourg, coordinated by the Ministry of Education, Children and Youth. What the Eltereforum offers — parent meetings, parenting classes, parent-child activities and themed evenings, built around the idea of 'strong parents, strong children' — who it is for (all parents, from before birth until the child is grown), how the regional forums work with local partners, and how the team guides you to specialised services when needed.",
+  "topics": [
+   "Meaning of “Eltereforum”",
+   "For all parents",
+   "Ministry of Education",
+   "“Strong parents, strong children”",
+   "Meetings, courses & talks",
+   "Guidance to specialists",
+   "Regional forums",
+   "eltereforum.lu agenda"
+  ],
+  "questions": [
+   {
+    "text": "What is the Eltereforum?",
+    "options": [
+     "An online shop for baby products",
+     "A school for children",
+     "A “parents’ forum” – a welcoming place for discussion, information and support for all parents",
+     "A political party for parents"
+    ],
+    "correct": 2,
+    "explanation": "“Elteren” means parents and “Forum” a place to meet, so Eltereforum is a parents’ forum: a friendly, generalist place where any parent can ask questions, learn and meet other parents – no special reason needed."
+   },
+   {
+    "text": "Who coordinates the Eltereforum?",
+    "options": [
+     "A single local parents’ association",
+     "The Ministry of Education, Children and Youth – it is a public service of the Luxembourg State",
+     "The national health insurance (CNS)",
+     "A private company"
+    ],
+    "correct": 1,
+    "explanation": "The Eltereforum is coordinated by the Ministry of Education, Children and Youth, with the guiding idea “Strong parents, strong children” – supported, confident parents help their children do better."
+   },
+   {
+    "text": "From when does the Eltereforum support parents?",
+    "options": [
+     "Only during the teenage years",
+     "Only once the child starts school",
+     "Only from ages 0 to 3",
+     "From the start of the “parental project” – even before birth – all the way until the child is grown"
+    ],
+    "correct": 3,
+    "explanation": "It supports parents along the whole journey: from when you are planning or expecting a baby, through every stage of childhood, until the child becomes an adult."
+   },
+   {
+    "text": "What happens if a parent comes with a serious, specific problem that the Eltereforum cannot treat itself?",
+    "options": [
+     "They are asked to come back later",
+     "The Eltereforum provides medical therapy on site",
+     "The team listens and guides them to the right specialised service",
+     "Nothing — the Eltereforum only organises parties"
+    ],
+    "correct": 2,
+    "explanation": "The Eltereforum is generalist — it does not give specialised treatment. But the team listens and points you to the right specialised service, so it is also a door that sends you in the right direction."
+   },
+   {
+    "text": "What can you find on the website eltereforum.lu?",
+    "options": [
+     "An online shop for children's clothes",
+     "An information platform with the agenda of all activities, evenings and courses at the different forums",
+     "Only the phone number of the Ministry",
+     "A social network reserved for teachers"
+    ],
+    "correct": 1,
+    "explanation": "eltereforum.lu is an information platform in itself, and its agenda shows the calendar of all activities, evenings and courses at the different regional forums — so you can see what is happening near you."
+   }
+  ]
+ },
+ "dsp_cns": {
+  "title": "Your Health, Online – The Dossier de Soins Partagé and How the CNS Pays You Back",
+  "description": "Two practical things that touch everybody. First, the Dossier de Soins Partagé — your free, secure online shared health file, run by the Agence eSanté, where you control who can see it, with the MyDSP mobile app. Second, how reimbursement works with the national health insurance, the CNS: paying first and getting most of it back, third-party payment at the pharmacy and the hospital, the social third-party payment for people in difficulty, and how to activate your eSanté account through MyGuichet.lu.",
+  "topics": [
+   "Dossier de Soins Partagé (DSP)",
+   "Agence eSanté",
+   "Patient controls access",
+   "MyDSP app & MyGuichet",
+   "CNS reimbursement",
+   "Paying first, getting paid back",
+   "Tiers payant (pharmacy)",
+   "Tiers payant social"
+  ],
+  "questions": [
+   {
+    "text": "What is the DSP (Dossier de Soins Partagé)?",
+    "options": [
+     "A private insurance contract",
+     "A paper booklet you carry to every appointment",
+     "A tax file held by the administration",
+     "A free, personal and secure electronic health file that brings your health information together in one place"
+    ],
+    "correct": 3,
+    "explanation": "The DSP is a free, personal and secure online health file run by the Agence eSanté. It gathers your treatments, results, reports and allergies so everyone treating you works from the same picture."
+   },
+   {
+    "text": "Who decides who can look at your DSP?",
+    "options": [
+     "You, the patient – you give and remove access and can see who consulted your file",
+     "Only your general practitioner",
+     "Your employer",
+     "The Ministry of Health"
+    ],
+    "correct": 0,
+    "explanation": "You are in control: you decide who can access your DSP, you can withdraw access, see who consulted it, and even hide certain documents. It’s your file and you hold the keys."
+   },
+   {
+    "text": "For a normal visit to the doctor, how does payment usually work with the CNS?",
+    "options": [
+     "The CNS pays you in cash at the reception desk",
+     "The visit is always completely free",
+     "You never pay anything at any point",
+     "You pay the full price first, then the CNS reimburses most of it (around 80–100%) into your bank account"
+    ],
+    "correct": 3,
+    "explanation": "Luxembourg traditionally works by reimbursement: you pay the doctor first, send the paid invoice to the CNS, and they pay most of it back into your bank account, usually within about three weeks."
+   },
+   {
+    "text": "What is “tiers payant” (third-party payment), for example at the pharmacy?",
+    "options": [
+     "You pay only your small share, and the pharmacy settles the rest directly with the CNS",
+     "The State pays nothing and you pay everything",
+     "You always pay the full price and claim it later",
+     "You pay double and get refunded"
+    ],
+    "correct": 0,
+    "explanation": "With third-party payment (“tiers payant”), used at the pharmacy and for hospital stays, you only pay your small share and the provider bills the CNS directly for the rest."
+   },
+   {
+    "text": "How can you activate your eSanté account, to use your DSP online?",
+    "options": [
+     "Directly through MyGuichet.lu — and then check your file online or with the MyDSP mobile app",
+     "You cannot activate it yourself",
+     "Only in person at a hospital",
+     "Only by waiting for a code sent by post"
+    ],
+    "correct": 0,
+    "explanation": "You can activate your eSanté account directly through MyGuichet.lu. Once it is active, you log in through the eSanté portal — or use the MyDSP mobile app on your phone."
+   }
+  ]
+ },
+ "lualert": {
+  "title": "LU-Alert – How Luxembourg Warns You in an Emergency",
+  "description": "Luxembourg's national public warning and information system, launched in autumn 2024. What LU-Alert is and how alerts reach your phone through Cell Broadcast, location-based SMS and the free app — with no sign-up needed. The alert levels and colours, the twelve alert categories, the languages it uses, and a simple but vital skill: how to tell a real official alert from a phishing scam.",
+  "topics": [
+   "What “LU-Alert” means",
+   "Cell Broadcast & LB-SMS",
+   "No sign-up needed",
+   "The free mobile app",
+   "Languages: DE / EN / FR",
+   "Alert levels & colours",
+   "The 12 alert categories",
+   "Spotting phishing"
+  ],
+  "questions": [
+   {
+    "text": "What is LU-Alert?",
+    "options": [
+     "A private weather app you subscribe to",
+     "A social media account run by the police",
+     "Luxembourg’s national public warning and information system, launched in autumn 2024",
+     "An insurance scheme for natural disasters"
+    ],
+    "correct": 2,
+    "explanation": "“LU-Alert” combines “LU” (the country code for Luxembourg) and “Alert”. It is the national warning and information system for the population, deployed in autumn 2024 to warn people about dangerous events."
+   },
+   {
+    "text": "Do you need to sign up to receive alerts by Cell Broadcast or location-based SMS?",
+    "options": [
+     "No – there is no registration; any phone in the targeted area is reached automatically",
+     "Yes, you must register your number on lu-alert.lu",
+     "Yes, but only cross-border workers need to register",
+     "No, but only if you pay a small annual fee"
+    ],
+    "correct": 0,
+    "explanation": "For Cell Broadcast and location-based SMS you do not sign up – and cannot really opt out. If your phone is in the area when the authorities send a message, it is targeted automatically. (For the mobile app, you simply download it.)"
+   },
+   {
+    "text": "In which languages are LU-Alert messages sent?",
+    "options": [
+     "Only Luxembourgish",
+     "Only French",
+     "English and Luxembourgish",
+     "German, English and French"
+    ],
+    "correct": 3,
+    "explanation": "Warning and information messages are issued in German, English and French, so English speakers are covered."
+   },
+   {
+    "text": "When are sirens used in the LU-Alert system?",
+    "options": [
+     "For every weather warning",
+     "Only in the event of a nuclear alert",
+     "Every day at noon as a test",
+     "Whenever the mobile network is down"
+    ],
+    "correct": 1,
+    "explanation": "Today the sirens are used only for a nuclear alert. All other warnings reach you through phones (Cell Broadcast and SMS), the app, websites and the media."
+   },
+   {
+    "text": "How can you check that an alert message is genuine and not phishing?",
+    "options": [
+     "Reply to the SMS with your details to confirm your identity",
+     "Click the link in the message to verify it",
+     "Remember that the authorities never ask for personal data, and check whether the alert is listed on lu-alert.lu",
+     "Call the number shown and give your bank details"
+    ],
+    "correct": 2,
+    "explanation": "Public authorities never ask for personal data, and messages normally contain no clickable link. If you are unsure, verify the alert on lu-alert.lu – and never share personal data."
+   }
+  ]
+ }
+}

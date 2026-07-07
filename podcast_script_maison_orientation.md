@@ -10,7 +10,7 @@
 
 **TOM:** Hello everyone!
 
-**ANNA:** This episode is part of the Biergerpakt. That's a programme of living together in Luxembourg. The idea is simple... we want to help residents, and also cross-border workers, to discover Luxembourg — or re-discover it — and to meet new people.
+**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. So that they can connect, exchange ideas and feel at home. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 
 **TOM:** Exactly. And today we talk about a place that helps you with one of life's big questions — what should I study, or what work should I do? It's called the Maison de l'Orientation.
 
@@ -166,11 +166,11 @@
 
 **TOM:** Really. Just go once, with your questions. You'll leave with a clearer path.
 
-**ANNA:** That was our episode about the Maison de l'Orientation, part of the Biergerpakt — living together in Luxembourg, discovering the country, and finding your way. Thank you so much for listening.
+**ANNA:** That was our episode about the Maison de l'Orientation. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.
 
 **TOM:** Thank you, everyone. Take care... and see you next time!
 
-**ANNA:** Bye bye!
+**ANNA:** Thank you so much for listening.
 
 ---
 

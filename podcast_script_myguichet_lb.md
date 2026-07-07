@@ -1,106 +1,94 @@
-# Podcast-Skript — "MyGuichet.lu: Är Online-Dier zu der Lëtzebuerger Administratioun"
+# Podcast-Skript — "MyGuichet.lu: Är Online-Dier zu de Lëtzebuerger Administratiounen"
 
 **Deel vum Biergerpakt-Programm**
 **Moderatoren:** Anna (Fra) an Tom (Mann)
-**Längt:** ongeféier 10 Minutten — lues geschwat, an einfachem Lëtzebuergesch
+**Längt:** ongeféier 9 Minutten — lues geschwat, an einfachem Lëtzebuergesch
 
 ---
 
-**ANNA:** Moien, a wëllkomm! Et freet eis wierklech, datt Dir haut bei eis sidd.
+**ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 
 **TOM:** Moien alleguer!
 
-**ANNA:** Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren. Sou datt Dir Iech verbanne kënnt, an Iddien austausche kënnt.
+**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren. Sou datt si sech kënne verbannen, Iddien austauschen a sech doheem fillen. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
 
 **TOM:** Genee. An haut schwätze mir iwwer eppes ganz Nëtzlechs. Besonnesch wann Dir grad zu Lëtzebuerg ukomm sidd. Et heescht MyGuichet.lu.
 
-**ANNA:** Genee. Also, Tom... loosse mir um Ufank ufänken. Wat ass MyGuichet.lu?
+**ANNA:** Richteg. Also, Tom... loosse mer ganz vir ufänken. Wat ass MyGuichet.lu?
 
-**TOM:** Okay, also... MyGuichet.lu ass déi offiziell Online-Plattform vun der Lëtzebuerger Regierung. Et ass sécher, an et ass Är... soe mer, Är eenzeg Kontaktplaz mat der ëffentlecher Administratioun. Also amplaz an e Büro ze goen, kënnt Dir vill administrativ Saache vun doheem aus maachen. Op Ärem Computer, oder op Ärem Handy.
+**TOM:** Okay, also... MyGuichet.lu ass den Informatiounsportal, deen Är Kontakter mam Staat méi einfach mécht. E gëtt Iech e séieren an einfachen Zougang zu allen Informatiounen, Prozeduren a Servicer vun de Lëtzebuerger ëffentlechen Administratiounen an Organismen. En ass sécher, an en ass Är... soe mer, Är eenzeg Kontaktplaz mat den ëffentlechen Administratiounen. Also amplaz an e Büro ze goen, kënnt Dir vill administrativ Prozedure vun doheem aus maachen. Op Ärem Computer, oder op Ärem Handy.
 
 **ANNA:** Also et ass wéi... en Online-Guichet?
 
-**TOM:** Jo! Dat ass tatsächlech wat d'Wuert bedeit. "Guichet" ass e franséischt Wuert. Et heescht "Schalter" — Dir wësst, deen Tablett mat deem klenge Fënsterchen, wou Dir an engem Büro higitt fir eppes ze froen.
-
-**ANNA:** Ah, okay. Also MyGuichet ass... "mäi Guichet". Mäi perséinleche Guichet mam Staat.
-
-**TOM:** Genee. Mä online. All Dag op, zu all Stonn.
+**TOM:** Genee. All Dag op, zu all Stonn.
 
 **ANNA:** Schéin. An, hmm... wat kann ech eigentlech domat maachen?
 
-**TOM:** Zimmlech vill, wierklech. D'Haaptsaach ass... Dir kënnt administrativ Prozeduren online maachen. D'Websäit huet dës Schrëtt-fir-Schrëtt-Formulairen — si nennen se "Online-Assistenten". Si féieren Iech duerch d'Froen, eng no der anerer. Dir fëllt se aus, Dir setzt Är Dokumenter derbäi, an Dir schéckt alles direkt un déi richteg Administratioun.
+**TOM:** Zimmlech vill, wierklech. D'Haaptsaach ass... Dir kënnt administrativ Prozeduren online maachen.
 
 **ANNA:** Ouni eppes ze drécken?
 
-**TOM:** Fir vill Prozeduren, jo. Keng Dréckerei, kee Couvert, kee Timber. An et gëtt méi. Op MyGuichet hutt Dir Ären eegene perséinleche Raum. Si nennen et en "eSpace". An Ärem eSpace kënnt Dir de Status vun Ären Ufroe verfollegen... sou datt Dir gesitt, okay, mäin Dossier ass ukomm, e gëtt bearbecht, an esou weider.
+**TOM:** Fir vill Prozeduren, jo. Keng Dréckerei, keen Enveloppe, keen Timber. An et gëtt nach méi. Op MyGuichet hutt Dir Ären eegene perséinleche Beräich, wou Dir de Status vun Ären Ufroe verfollege kënnt... sou datt Dir gesitt, okay, mäin Dossier ass ukomm, e gëtt beaarbecht, an esou weider. An an Ärem eSpace kënnt Dir och déi perséinlech Donnéeë gesinn, déi de Staat iwwer Iech huet. Déi offiziell Donnéeën — zum Beispill aus dem nationale Regëster. Dir kënnt do och offiziell Messagen an Dokumenter kréien, elektronesch. An... nach eppes... Dir kënnt online Rendez-vouse mat verschiddenen Administratioune buchen.
 
-**ANNA:** Dat ass gutt. Well normalerweis schéckt Dir e Bréif an dann... Rou.
+**ANNA:** Okay, waart, loosst mech dat widderhuelen. Also ech kann... Prozeduren online maachen, meng Dossiere verfollegen, meng offiziell Donnéeë kucken, Dokumenter kréien, a Rendez-vouse buchen.
 
-**TOM:** *(laacht)* Jo, genee. An an Ärem eSpace kënnt Dir och déi perséinlech Donnéeë gesinn, déi de Staat iwwer Iech huet. Déi offiziell Donnéeën — zum Beispill aus dem nationale Register. Dir kënnt do och offiziell Messagen an Dokumenter kréien, elektronesch. An... nach eppes... Dir kënnt Rendez-vouse online mat e puer Administratioune buchen.
+**TOM:** Dat ass et. An Dir kënnt och wichteg Dokumenter an Ärem eSpace späicheren, sou datt se ëmmer bei Iech sinn. Oh — an et gëtt och eng mobil App, fir Äre Smartphone.
 
-**ANNA:** Okay, waart, loosse mech dat widderhuelen. Also ech kann... Prozeduren online maachen, meng Dossieren verfollegen, meng offiziell Donnéeë kontrolléieren, Dokumenter kréien, a Rendez-vouse buchen.
+**ANNA:** Ganz komplett. Elo... déi grouss Fro. Firwat soll ech et benotzen? Ech mengen, ech kann dach nach ëmmer an de Büro goen, oder?
 
-**TOM:** Dat ass et. An Dir kënnt och wichteg Dokumenter an Ärem eSpace späicheren, sou datt se ëmmer bei Iech sinn. Oh — an et gëtt och eng Handy-App. MyGuichet.lu, fir Äre Smartphone.
-
-**ANNA:** Ganz komplett. Elo... déi grouss Fro. Firwat soll ech et benotzen? Ech mengen, ech kann nach ëmmer an de Büro goen, oder?
-
-**TOM:** Natierlech kënnt Dir dat. Mä d'Büroe sinn iwwer den Dag op, wann der vill vun eis schaffen. MyGuichet ass véieranzwanzeg Stonnen op, siwen Deeg an der Woch. Dir gewënnt Zäit — keng Schlaang, kee Waarden. An alles bleift op enger Plaz.
+**TOM:** Natierlech kënnt Dir dat. Mä d'Büroe sinn am Dag op, wa vill vun eis schaffen. MyGuichet ass véieranzwanzeg Stonnen op, siwen Deeg an der Woch. Dir spuert Zäit — keng Schlaang, kee Waarden. An alles bleift op enger Plaz.
 
 **ANNA:** An et ass op Englesch?
 
-**TOM:** D'Websäit, jo — Guichet.lu gëtt et op Franséisch, Däitsch an Englesch. A vill Prozeduren och. Net all, mä vill. Also fir een, deen grad ukomm ass an nach kee Franséisch schwätzt... et hëlleft wierklech.
+**TOM:** D'Websäit, jo — Guichet.lu gëtt et op Franséisch, Däitsch an Englesch. A vill Prozeduren och. Net all, mä vill. Also fir een, dee grad ukomm ass an nach kee Franséisch schwätzt... et hëlleft wierklech.
 
 **ANNA:** Mmm, dat ass wichteg. Okay. Also elo, wéi fänken ech un? Wat brauch ech?
 
-**TOM:** Genee, also... fir Iech op MyGuichet.lu anzeschreiwen, braucht Dir e puer Saachen. Als éischt musst Dir mindestens siechzéng Joer al sinn. Dann braucht Dir Är Lëtzebuerger national Identifikatiounsnummer. Dat ass eng dräizéngstelleg Zuel — d'Leit hei nennen se de "matricule". Dir kritt se, wann Dir Iech zu Lëtzebuerg umellt, oder wann Dir hei ufänkt ze schaffen.
+**TOM:** Also... fir Iech op MyGuichet anzeschreiwen, braucht Dir e puer Saachen. Fir d'éischt musst Dir op d'mannst siechzéng Joer al sinn. Da braucht Dir Är Lëtzebuerger national Identifikatiounsnummer. Dat ass eng Nummer mat dräizéng Zifferen — d'Leit zu Lëtzebuerg nennen se de "Matricule". Dir kritt se, wann Dir Iech zu Lëtzebuerg umellt, oder wann Dir hei ufänkt ze schaffen.
 
-**ANNA:** De matricule, okay. Grenzgänger hunn och ee, oder?
+**ANNA:** De Matricule, okay. D'Grenzgänger hunn och een, oder?
 
-**TOM:** Jo, wann Dir zu Lëtzebuerg schafft, hutt Dir ee. En ass zum Beispill op Ärer Sozialversécherungskaart. Dann braucht Dir eng E-Mail-Adress, e Computer oder e Smartphone... an nach eppes. E Wee fir Är Identitéit online ze beweisen. Eng sécher Umeldung, soe mer.
+**TOM:** Jo, wann Dir zu Lëtzebuerg schafft, hutt Dir een. E steet zum Beispill op Ärer Sozialversécherungskaart. Da braucht Dir eng E-Mail-Adress, e Computer oder e Smartphone... an nach eppes. E Wee, fir Är Identitéit online ze beweisen.
 
 **ANNA:** Ah, an hei kënnt LuxTrust an d'Spill?
 
-**TOM:** Genee. Also... LuxTrust. Loosse mech dat erklären, well jiddereen zu Lëtzebuerg schwätzt iwwer LuxTrust.
+**TOM:** Genee. LuxTrust ass eng Firma, déi sécher digital Identitéit ubitt. Dat populäerst Produkt ass LuxTrust Mobile — eng App op Ärem Handy. Wann Dir Iech iergendwou aloggt, freet d'App Iech, ze bestätegen. Vill Leit benotzen se schonn fir hiren Online-Banking.
 
-**ANNA:** *(laacht)* Stëmmt!
+**ANNA:** Okay, also d'Fro, déi vill Nolauschterer hunn... brauch ech LuxTrust, fir MyGuichet ze benotzen?
 
-**TOM:** LuxTrust ass eng Firma, déi sécher digital Identitéit ubitt. Dat populärst Produkt ass LuxTrust Mobile — eng App op Ärem Handy. Wann Dir Iech iergendwou aloggt, freet d'App Iech ze bestätegen. Vill Leit benotzen et schonn fir hir Online-Banking hei.
+**TOM:** Gutt Fro. D'Äntwert ass... net onbedéngt. Dir braucht ee séchere Wee, fir Iech anzeloggen, mä Dir hutt eng Wiel. Et kann e LuxTrust-Produkt sinn, jo. Oder déi Lëtzebuerger elektronesch Identitéitskaart, wann Dir eng Lëtzebuerger Identitéitskaart mat aktivéierten Zertifikater hutt. Oder, an dat ass interessant fir Leit aus aneren europäesche Länner... en eIDAS-Login aus Ärem eegene Land.
 
-**ANNA:** Okay, also d'Fro déi vill Nolauschterer hunn... brauch ech LuxTrust fir MyGuichet ze benotzen?
+**ANNA:** eIDAS... dat ass deen europäesche System, oder? Also ech kéint zum Beispill meng belsch oder däitsch elektronesch Kaart benotzen?
 
-**TOM:** Gutt Fro. D'Äntwert ass... net onbedéngt. Dir braucht *ee* séchere Wee fir Iech anzeloggen, mä Dir hutt eng Wiel. Et kann e LuxTrust-Produkt sinn, jo. Oder déi Lëtzebuerger elektronesch Identitéitskaart — d'eID — wann Dir eng Lëtzebuerger Identitéitskaart hutt mat den aktivéierten Zertifikaten. Oder, an dat ass interessant fir Leit aus anere europäesche Länner... eng eIDAS-Umeldung aus Ärem eegene Land.
+**TOM:** Genee. Wann Äert Land ee vun dësen nationale Systemer huet, kënnt Dir en dacks benotzen, fir Iech op MyGuichet anzeloggen. An nach eppes — verschidden einfach Prozedure funktionéiere souguer ouni Iech iwwerhaapt anzeloggen. Mä da hutt Dir manner Méiglechkeeten. Dir kënnt de Formulaire net späicheren a méi spéit weidermaachen, an Dir kënnt de Status net verfollegen. Also... e richtege Kont ze hunn ass vill besser.
 
-**ANNA:** eIDAS... dat ass dat europäescht System, oder? Also ech kéint zum Beispill mäin belschen oder däitschen elektroneschen Ausweis benotzen?
+**TOM:** Mä éierlech gesot, wann Dir hei wunnt oder schafft, ass LuxTrust Mobile deen einfache Wee. Dir installéiert d'App eemol, an... dat war et. A wann Dir se schonn fir Är Bank benotzt, kënnt Dir déiselwecht benotzen.
 
-**TOM:** Genee. Wann Äert Land ee vun dëse nationale Systemer huet, kënnt Dir et dacks benotzen fir Iech op MyGuichet anzeloggen. An nach eppes — e puer einfach Prozeduren funktionéieren souguer *ouni* Iech iwwerhaapt anzeloggen. Mä da hutt Dir manner Méiglechkeeten. Dir kënnt de Formulaire net späicheren a méi spéit weidermaachen, an Dir kënnt de Status net verfollegen. Also... e richtege Kont ze hunn ass vill besser.
+**ANNA:** Gutt. Also, soe mer, ech hu mäi Matricule a mäi LuxTrust. Wat maachen ech?
 
-**TOM:** Mä éierlech, wann Dir hei wunnt oder schafft, ass LuxTrust Mobile deen einfachste Wee. Dir installéiert d'App eemol, an... dat ass et. A wann Dir et schonn fir Är Bank benotzt, kënnt Dir déiselwecht benotzen.
+**TOM:** Et ass zimmlech einfach. Dir gitt op Guichet.lu, Dir klickt op "Aloggen", an Dir follegt de Schrëtt mat Ärer E-Mail an Ärem Matricule. Da kreéiert Dir Äre perséinlechen eSpace. Et dauert e puer Minutten. An et gi Tutorialen op der Websäit, Schrëtt fir Schrëtt.
 
-**ANNA:** Gutt. Also, soe mer, ech hu mäi matricule a mäi LuxTrust. Wat maachen ech?
+**ANNA:** Perfekt. Elo... vu wéi enge Prozedure schwätze mer? Wéi eng Beräicher?
 
-**TOM:** Et ass zimmlech einfach. Dir gitt op Guichet.lu, Dir klickt op "Aloggen", an Dir follegt de Schrëtt mat Ärer E-Mail an Ärem matricule. Da kreéiert Dir Äre perséinlechen eSpace. Et brauch e puer Minutten. An et gëtt Tutorialen op der Websäit, Schrëtt fir Schrëtt.
+**TOM:** Bal alles am deegleche Liewen, wierklech. Loosse mer kucken... Citoyennetéit — also Identitéitskaart, Pass, Casier judiciaire. An hei ass eng flott Saach: als auslännesche Resident kënnt Dir Iech op d'Wielerlëschten aschreiwen — sou datt Dir bei de Gemengewalen, an och bei den Europawale wiele kënnt. Dann Immigratioun — Openthaltstitelen, zum Beispill. Ganz wichteg, wann Dir ukommt. Da Famill an Educatioun... Steieren — jo, Dir kënnt Är Steiererklärung online maachen. Transport — Äre Führerschäin, en Auto umellen. Gesondheet a Sozialversécherung. Wunnen. Finanziell Hëllefen. Aarbecht a Pensioun... a souguer Fräizäit, wéi d'Aschreiwung an der Nationalbibliothéik.
 
-**ANNA:** Perfekt. Elo... wéi eng Aart vu Prozedure schwätze mer? Wéi eng Beräicher?
+**ANNA:** Wow. Sou vill Beräicher sinn ofgedeckt, alles op enger Plaz.
 
-**TOM:** Bal alles am alldeegleche Liewen, wierklech. Loosse mer kucken... Bürgerschaft — also Identitéitskaart, Pass, Stroofregëster. An hei ass eng schéin: als auslännesche Resident kënnt Dir Iech umellen fir op d'Wielerlëschten anzeschreiwen — sou datt Dir bei de Gemengewalen, a bei den Europawalen wiele kënnt. Dann Immigratioun — Openthaltstitelen, zum Beispill. Ganz wichteg wann Dir ukommt. Da Famill an Educatioun... Steieren — jo, Dir kënnt Är Steiererklärung online maachen. Transport — Äre Führerschäin, en Auto umellen. Gesondheet a Sozialversécherung. Wunnen. Finanziell Hëllef. Aarbecht a Pensioun... a souguer Fräizäit, wéi Fëscherlaisen.
+**TOM:** Richteg. A vläicht ee Wuert fir d'Entrepreneuren, déi nolauschteren: d'Betriber kënne MyGuichet och benotzen, mat engem Betribs-eSpace, fir Saache wéi Steier- an TVA-Deklaratiounen, Sozialversécherungsdeklaratioune fir hir Mataarbechter, oder fir Autorisatiounen a Lizenzen ze froen.
 
-**ANNA:** Wow. Also wierklech... vum Pass bis zur Fëscherlais.
+**ANNA:** Gutt ze wëssen. Okay, Tom, loosse mer ofschléissen. Eng kuerz Zesummefaassung?
 
-**TOM:** Genee. A vläicht ee Saz fir d'Entrepreneuren déi nolauschteren: Betriber kënnen MyGuichet och benotzen, mat engem Betriebs-eSpace, fir Saache wéi Steier- an TVA-Deklaratiounen, Sozialversécherungsdeklaratioune fir hir Mataarbechter, oder Genehmegungen a Lizenzen ze beantragen.
+**TOM:** Jo, gären. MyGuichet.lu ass déi sécher Online-Plattform vum Lëtzebuerger Staat. Dir kënnt Är administrativ Prozedure vun doheem aus maachen, Är Dossiere verfollegen, offiziell Dokumenter kréien, a Rendez-vouse buchen. Fir se voll ze benotzen, schreift Dir Iech mat Ärem Matricule an engem séchere Login an.
 
-**ANNA:** Gutt ze wëssen. Okay, Tom, loosse mer ofschléissen. Kuerz Zesummefaassung?
-
-**TOM:** Jo gären. MyGuichet.lu ass déi sécher Online-Plattform vum Lëtzebuerger Staat. Dir kënnt Är administrativ Prozeduren vun doheem aus maachen, Är Dossieren verfollegen, offiziell Dokumenter kréien, a Rendez-vouse buchen. Fir et voll ze benotzen, schreift Dir Iech mat Ärem matricule an enger sécherer Umeldung an — LuxTrust, déi Lëtzebuerger eID, oder eng europäesch eIDAS-Umeldung aus Ärem Land.
-
-**ANNA:** A wann Dir Hëllef braucht, ginn et Tutorialen op Guichet.lu, an en Helpdesk — Dir kënnt souguer e Videocall buchen. Also... hutt keng Angscht et ze probéieren.
+**ANNA:** A wann Dir Hëllef braucht, gëtt et vill Tutorialen, an en Helpdesk.
 
 **TOM:** Wierklech, et mécht d'Liewen zu Lëtzebuerg méi einfach. Besonnesch an den éischte Méint.
 
-**ANNA:** Dat war eis Episod iwwer MyGuichet.lu, Deel vum Biergerpakt — Zesummeliewen zu Lëtzebuerg, d'Land entdecken, an nei Leit kennenléieren. Villmools Merci fir d'Nolauschteren.
+**ANNA:** Dat war eis Episod iwwer MyGuichet.lu. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt.
 
 **TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
 
-**ANNA:** Äddi!
+**ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---
 

@@ -1,129 +1,121 @@
-# Podcast-Skript — "Är Gesondheet, online: De Dossier de soins partagé an wéi d'CNS Iech zréckbezilt"
+# Podcast-Skript — "Är Gesondheet, online: Den Dossier de Soins Partagé a wéi d'CNS Iech zeréckbezilt"
 
 **Deel vum Biergerpakt-Programm**
 **Moderatoren:** Anna (Fra) an Tom (Mann)
-**Längt:** ongeféier 10 Minutten — lues geschwat, an einfachem Lëtzebuergesch
+**Längt:** ongeféier 11 Minutten — lues geschwat, an einfachem Lëtzebuergesch
 
 ---
 
-**ANNA:** Moien, a wëllkomm! Et ass wierklech flott, datt Dir haut bei eis sidd.
+**ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 
-**TOM:** Moien zesummen!
+**TOM:** Moien alleguer!
 
-**ANNA:** Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm fir d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger hëllefen, Lëtzebuerg z'entdecken — oder nei z'entdecken — an nei Leit kennenzeléieren.
+**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren. Sou datt si sech kënne verbannen, Iddien austauschen a sech doheem fillen. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
 
-**TOM:** Genau. An haut schwätze mir iwwer zwou Saachen, déi jiddereen ugoen — Är Gesondheet, an Äert Geld. Als éischt Äert Online-Gesondheetsdossier, de Dossier de soins partagé. An als zweet, wéi Dir Äert Geld vun der Gesondheetskeess, der CNS, zréckkritt.
+**TOM:** Genee. An dat haitegt Thema geet ëm zwou Saachen, déi jiddereen beréieren — Är Gesondheet, an Är Suen. Fir d'éischt, Ären Online-Gesondheetsdossier, den Dossier de Soins Partagé. An dann, wéi Dir Är Suen vun der Gesondheetskeess zeréckkritt, der CNS.
 
-**ANNA:** Zwou ganz praktesch Saachen. Gutt, Tom — fänke mer mam Gesondheetsdossier un. Wat ass de Dossier de soins partagé?
+**ANNA:** Zwou ganz praktesch Saachen. Okay, Tom — fänke mer mam Gesondheetsdossier un. Wat ass den Dossier de Soins Partagé?
 
-**TOM:** Also... "Dossier de soins partagé" ass Franséisch. "Dossier" heescht Dossier. "Soins" heescht Fleeg. "Partagé" heescht gedeelt. Also — e "gedeelte Fleegdossier". D'Leit nennen en och den DSP.
+**TOM:** Den DSP ass e gratis, perséinlechen a sécheren elektronesche Gesondheetsdossier. E bréngt Är wichteg Gesondheetsinformatiounen op enger Plaz zesummen — Är Behandlungen, Är Testresultater, Är medezinesch Rapporten, Är Allergien, an esou weider.
 
-**ANNA:** E gedeelte Fleegdossier. Also ass et mäi medizineschen Dossier, awer online?
+**ANNA:** A wien erstellt en?
 
-**TOM:** Genau. Den DSP ass e gratis, perséinlechen a séchere elektroneschen Gesondheetsdossier. En reegt Är wichteg Gesondheetsinformatiounen op enger Plaz zesummen — Är Behandlungen, Är Untersuchungsresultater, Är medizinesch Berichter, Är Allergien, an esou weider.
+**TOM:** Et ass den offiziellen nationale System, gefouert vun der Agence eSanté — der ëffentlecher Agence fir digital Gesondheet zu Lëtzebuerg. D'Informatioune ginn vun de Gesondheetsprofessioneller derbäigesat, déi Iech behandelen — Ärem Dokter, dem Spidol, dem Labo.
 
-**ANNA:** A wie leet en un?
+**ANNA:** Also firwat ass dat nëtzlech? Mäin Dokter kennt meng Geschicht jo schonn.
 
-**TOM:** Et ass dat offiziellt nationaalt System, gefouert vun der Agence eSanté — der ëffentlecher Agence fir digital Gesondheet zu Lëtzebuerg. D'Informatioune gi vun de Gesondheetsfachleit dobäigesat, déi Iech behandelen — Ären Dokter, d'Spidol, d'Laboratoire.
+**TOM:** Ären Dokter jo — mä aner Leit, déi Iech behandelen, vläicht net. Stellt Iech vir, Dir gitt nuets an d'Spidol, an Ären eegenen Dokter ass net do. Mam DSP kann den Dokter vu Garde Är wesentlech Informatioune gesinn. Är Allergien, Är aktuell Medikamenter... Dat ka ganz wichteg sinn, souguer liewensrettend. An et verhënnert, datt deeselwechten Examen zweemol gemaach gëtt, well d'Resultat schonn do ass.
 
-**ANNA:** A firwat ass dat nëtzlech? Mäin Dokter kennt jo schonn meng Geschicht.
+**ANNA:** Ah, dat ass déi zentral Iddi. All d'Leit, déi sech ëm mech këmmeren, gesinn deeselwechten Dossier.
 
-**TOM:** Ären Dokter jo — awer aner Leit, déi Iech behandelen, vläicht net. Stellt Iech vir, Dir gitt nuets an d'Spidol, an Ären eegene Dokter ass net do. Mam DSP kann den Dokter vum Déngscht Är wichteg Informatioune gesinn. Är Allergien, Är aktuell Medikamenter... Dat ka ganz wichteg sinn, jo souguer liewensrettend. An et verhënnert, datt déiselwecht Untersuchung zweemol gemaach gëtt, well d'Resultat scho do ass.
+**TOM:** Genee. Et geet ëm eng besser Koordinatioun — Kontinuitéit a Sécherheet vun de Soinen. Jiddereen, deen Iech behandelt, schafft mam selwechte, komplette Bild.
 
-**ANNA:** Ah, dat ass den Haaptpunkt. All d'Leit, déi sech ëm mech këmmeren, kënnen deeselwechten Dossier gesinn.
+**ANNA:** Elo... Gesondheetsdaten si ganz privat. Ass et sécher?
 
-**TOM:** Genau. De ganze Sënn ass eng besser Koordinatioun — Kontinuitéit a Sécherheet vun der Fleeg. Jiddereen, deen Iech behandelt, schafft mat deemselwechte, kompletten Iwwerbléck.
+**TOM:** Ganz gutt Fro, an d'Äntwert ass jo. D'Donnéeë si verschlësselt, a si leien an enger Zort digitalem Tresor hei zu Lëtzebuerg. An dee wichtegste Punkt — Dir hutt d'Kontroll.
 
-**ANNA:** Elo... Gesondheetsdaten si ganz privat. Ass dat sécher?
+**ANNA:** D'Kontroll, wéi dat?
 
-**TOM:** Ganz gutt Fro, an d'Äntwert ass jo. D'Daten si verschlësselt, a si ginn an enger Aart digitalem Tresor opbewaart — si nennen en de "coffre-fort", den Tresor — hei zu Lëtzebuerg. An de wichtegste Punkt — Dir hutt d'Kontroll.
+**TOM:** Et sidd Dir, de Patient, deen decidéiert, wien an Ären DSP kucke kann. Dir gitt den Zougang, an Dir kënnt en och erëm ewechhuelen. Dir kënnt gesinn, wien Ären Dossier consultéiert huet. Dir kënnt souguer verschidde Dokumenter verstoppen, wann Dir wëllt. Also ass et Ären Dossier, an Dir hutt d'Schlësselen an der Hand.
 
-**ANNA:** Wéi d'Kontroll?
+**ANNA:** Dat gefält mer. En ass mäin, an ech decidéieren. Wéi maachen ech dann elo en DSP op?
 
-**TOM:** Et sidd Dir, de Patient, deen entscheet, wie sech Ären DSP ukucke kann. Dir gitt den Zougang, an Dir kënnt en och ewechhuelen. Dir kënnt gesinn, wie Ären Dossier consultéiert huet. Dir kënnt souguer gewësse Dokumenter verstoppen, wann Dir wëllt. Also ass et Ären Dossier, an Dir hutt d'Schlësselen.
+**TOM:** All Persoun, déi bei der Lëtzebuerger Gesondheetskeess affiliéiert ass, kann een hunn. Fir en selwer online ze benotzen, aktivéiert Dir Ären "eSanté-Kont". An hei ass déi gutt Nouvelle: Dir kënnt en direkt iwwer MyGuichet.lu aktivéieren.
 
-**ANNA:** Dat gefält mer. Et ass mengen, an ech entscheeden. Wéi maachen ech dann tatsächlech en DSP op?
+**ANNA:** Dat ass super. A wann en aktiv ass, wéi kucken ech en?
 
-**TOM:** All Persoun, déi bei der Lëtzebuerger Gesondheetsversécherung affiliéiert ass, kann ee kréien. Fir en selwer online ze benotzen, aktivéiert Dir Äert "eSanté-Kont". An hei ass eng gutt Noriicht — et ass kierzlech vill méi einfach ginn. Dir kënnt en elo direkt iwwer MyGuichet.lu aktivéieren.
+**TOM:** Dir loggt Iech online an Ären DSP an, iwwer den eSanté-Portal. An et gëtt och eng mobil App — si heescht MyDSP — sou datt Dir Äre Gesondheetsdossier vum Handy aus kucke kënnt.
 
-**ANNA:** Ah — MyGuichet erëm! Mir hunn eng ganz Episod doriwwer gemaach.
+**ANNA:** Ganz praktesch. Also, fir déi éischt Hallschent zesummenzefaassen — den DSP ass mäi gratis, séchere Gesondheetsdossier online, gefouert vun der Agence eSanté, en hëlleft alle Leit, déi mech behandelen, zesummenzeschaffen, ech kontrolléieren, wien en gesäit, an ech aktivéieren en iwwer MyGuichet.
 
-**TOM:** *(laacht)* Jo! Also wann Dir MyGuichet schonn mat Ärem LuxTrust-Login benotzt, kënnt Dir Äert eSanté-Kont direkt online aktivéieren. Virdrun huet Dir dacks op e Code mat der Post musse waarden. Elo geet et direkt.
+**TOM:** Eng perfekt Zesummefaassung.
 
-**ANNA:** Dat ass eng flott Verbindung tëscht de Servicer. A wann en eemol aktiv ass, wéi kucken ech en un?
+**ANNA:** Okay. Elo dat zweet Thema — d'Suen. D'CNS. Tom, fir d'éischt... wat ass d'CNS?
 
-**TOM:** Dir loggt Iech an Ären DSP online an, iwwer den eSanté-Portal. An et gëtt och eng Handy-App — si heescht MyDSP — esou datt Dir Äre Gesondheetsdossier vun Ärem Handy aus kucke kënnt.
+**TOM:** CNS steet fir Caisse Nationale de Santé — d'national Gesondheetskeess. Et ass déi grouss ëffentlech Krankeversécherung zu Lëtzebuerg. Wann Dir hei schafft oder wunnt an affiliéiert sidd, sidd Dir couvréiert — d'Grenzgänger och. Dir kritt eng Sozialversécherungskaart mat Ärem Matricule, der Nummer mat den dräizéng Zifferen, an Dir weist se beim Dokter oder an der Apdikt.
 
-**ANNA:** Ganz praktesch. Also, fir déi éischt Hallschent zesummenzefaassen — den DSP ass mäi gratis, séchere, Online-Gesondheetsdossier, gefouert vun der Agence eSanté, en hëlleft all menge Fleeger zesummenzeschaffen, ech kontrolléieren, wie en gesäit, an ech aktivéieren en iwwer MyGuichet.
+**ANNA:** Gutt. Elo deen Deel, deen vill nei Leit duercherneebréngt. Wann ech hei bei den Dokter ginn... bezuelen ech, oder net?
 
-**TOM:** Perfekt Zesummefaassung.
+**TOM:** Genee, dat ass dee wichtegen Deel. De Lëtzebuerger System funktionéiert traditionell mam Remboursement. Dat heescht — bei enger normaler Visite beim Dokter bezuelt Dir fir d'éischt, an duerno bezilt d'CNS Iech dat meescht zeréck.
 
-**ANNA:** Gutt. Elo dat zweet Thema — d'Geld. D'CNS. Tom, als éischt... wat ass d'CNS?
+**ANNA:** Also bezuelen ech de vollen Präis beim Dokter, a kréien duerno Suen zeréck.
 
-**TOM:** CNS steet fir Caisse nationale de santé — d'national Gesondheetskeess. Et ass déi haaptsächlech ëffentlech Gesondheetsversécherung zu Lëtzebuerg. Wann Dir hei schafft oder wunnt an affiliéiert sidd, sidd Dir versécheert — d'Grenzgänger och. Dir kritt eng Sozialversécherungskaart mat Ärem Matricule, der dräizéngstelleger Zuel, an Dir weist se beim Dokter oder an der Apdikt.
+**TOM:** Genee. D'CNS rembourséiert e groussen Deel vun de Käschten — fir déi meescht Soinen sinn et ronn achtzeg bis honnert Prozent. Also drot Dir e klengen Deel selwer, an de Rescht kënnt bei Iech zeréck.
 
-**ANNA:** Gutt. Elo den Deel, deen vill Neiukomm duercherneebréngt. Wann ech hei bei den Dokter ginn... bezuelen ech, oder net?
+**ANNA:** A wéi kréien ech dës Suen zeréck? Wat maachen ech mat der Rechnung?
 
-**TOM:** Jo, dat ass de wichtegen Deel. Dat Lëtzebuerger System funktionéiert traditionell iwwer Réckerstattung. Dat heescht — fir e normale Besuch beim Dokter bezuelt Dir als éischt, an dann bezilt d'CNS Iech dat meescht dovunner zréck.
+**TOM:** Einfach. Den Dokter gëtt Iech eng Faktur — eng Rechnung op Pabeier — an Dir bezuelt se. Da schéckt Dir déi original, bezuelte Faktur un d'CNS. Dir kënnt se mat der Post schécken, oder an eng vun hire Boîten deposéieren. D'CNS iwwerweist de Remboursement dann direkt op Äre Bankkont.
 
-**ANNA:** Also bezuelen ech de ganze Präis beim Dokter, a kréien dann méi spéit Geld zréck.
+**ANNA:** Direkt op mäi Bankkont. Wéi laang dauert dat?
 
-**TOM:** Genau. D'CNS erstat e groussen Deel vun de Käschten — fir déi meescht Fleeg sinn et ronn aachtzeg bis honnert Prozent. Also droot Dir e klengen Deel selwer, an de Rescht kënnt op Iech zréck.
+**TOM:** Normalerweis manner wéi dräi Wochen. An Dir kritt e schrëftlechen Décompte, deen erkläert, wat rembourséiert gouf. Also — en Tipp fir eis Nolauschterer — gitt der CNS Är Bankkontosnummer, Ären IBAN, sou datt si Iech direkt bezuele kënnen.
 
-**ANNA:** A wéi kréien ech dat Geld zréck? Wat maachen ech mat der Rechnung?
+**ANNA:** Gutt Tippen. Mä waart — de ganze Betrag fir d'éischt bezuelen... bei enger grousser Rechnung kéint dat fir verschidde Leit schwéier sinn.
 
-**TOM:** Einfach. Den Dokter gëtt Iech eng Rechnung — eng Pabeierrechnung — an Dir bezilt se. Da schéckt Dir déi original, bezuelte Rechnung un d'CNS. Dir kënnt se mat der Post schécken, oder an eng vun hire Boîten erawerfen. D'CNS bezilt dann d'Réckerstattung direkt op Äre Bankkont.
-
-**ANNA:** Direkt op mäi Bankkont. Wéi laang dauert et?
-
-**TOM:** Normalerweis ongeféier dräi Wochen. An Dir kritt eng schrëftlech Ofrechnung, déi erkläert, wat erstat ginn ass. Also — Tipp fir eis Nolauschterer — gitt der CNS Är Bankkontosnummer, Ären IBAN, esou datt si Iech direkt bezuele kënnen. A behalt Är Rechnungen.
-
-**ANNA:** Gutt Tipps. Awer waart — fir d'éischt de ganze Betrag bezuelen... fir eng grouss Rechnung kéint dat fir munch Leit schwéier sinn.
-
-**TOM:** Stëmmt. An dofir huet d'System Ausnamen, wou Dir NET alles am Viraus bezuelt. Déi heefegst — d'Medikamenter.
+**TOM:** Richteg. An dofir huet de System Ausnamen, wou Dir NET alles fir d'éischt bezuelt. Déi heefegst — d'Medikamenter.
 
 **ANNA:** An der Apdikt?
 
-**TOM:** Jo. An der Apdikt bezuelt Dir normalerweis net de ganze Präis. Dir weist Är Sozialversécherungskaart an Är Verschreiwung, an Dir bezuelt nëmmen Ären eegene klengen Deel. D'Apdikt reegelt de Rescht direkt mat der CNS. Dat nennt een Drëttbezuelung — op Franséisch "tiers payant".
+**TOM:** Jo. An der Apdikt bezuelt Dir normalerweis net de vollen Präis. Dir weist Är Sozialversécherungskaart an Är Ordonnance, an Dir bezuelt nëmmen Ären eegene klengen Undeel. D'Apdikt reegelt de Rescht direkt mat der CNS. Dat nennt een Tiers payant.
 
-**ANNA:** Also fir Medikamenter bezuelen ech nëmme mäi klengen Deel. D'CNS këmmert sech ëm de Rescht am Hannergrond.
+**ANNA:** Also fir Medikamenter bezuelen ech nëmme mäi klengen Deel. D'CNS reegelt de Rescht am Hannergrond.
 
-**TOM:** Genau. An et ass déiselwecht Iddi fir en normale Spidolsopenthalt. D'Spidol stellt d'CNS d'Fleeg direkt a Rechnung. Dir bezuelt haaptsächlech e klengen deeglechen Bäitrag, an Är perséinlech Extraen.
+**TOM:** Genee. An et ass déiselwecht Iddi bei engem normale Spidolsopenthalt. D'Spidol facturéiert d'Soinen direkt un d'CNS. Dir bezuelt haaptsächlech eng kleng deeglech Participatioun, an Är perséinlech Extraen.
 
-**ANNA:** Dat mécht et vill méi einfach. Also... Medikamenter a Spidol — ech bezuelen nëmme mäin Deel. De normale Dokterbesuch — ech bezuelen als éischt a kréien Réckerstattung.
+**ANNA:** Dat mécht et vill méi einfach. Also... Medikamenter a Spidol — ech bezuelen nëmme mäin Undeel. Déi normal Visite beim Dokter — ech bezuele fir d'éischt a gi rembourséiert.
 
-**TOM:** Dat ass eng gutt Manéier, sech dat ze mierken. An et gëtt nach eng Saach, déi wierklech wichteg ass fir Leit mat klengem Akommes.
+**TOM:** Dat ass eng gutt Manéier, fir et sech ze mierken. An et gëtt nach eng Saach, déi wierklech wichteg ass fir Leit mat engem klengen Akommes.
 
-**ANNA:** Erzielt mer.
+**ANNA:** Sot mer.
 
-**TOM:** Et nennt een d'sozial Drëttbezuelung — "tiers payant social". Wann een an enger schwiereger finanzieller Situatioun ass, bedeit dës System, datt en d'medizinesch Käschten guer net am Viraus muss bezuelen. D'CNS deckt déi berechtegt Fleeg direkt, esou datt Geld keng Barrière ass, fir bei den Dokter ze goen.
+**TOM:** Et heescht den Tiers payant social. Wann een an enger schwiereger finanzieller Situatioun ass, heescht dëse System, datt en d'medezinesch Käschten guer net am Viraus bezuele muss. D'CNS iwwerhëlt déi berechtegt Soinen direkt, sou datt d'Suen keng Barrière sinn, fir bei den Dokter ze goen.
 
-**ANNA:** Dat ass wierklech wichteg. Also soll keen den Dokter vermeiden, just well en net als éischt bezuele kann.
+**ANNA:** Dat ass wierklech wichteg. Also soll keen den Dokter evitéieren, just well en net fir d'éischt bezuele kann.
 
-**TOM:** Genau. Wann dat Är Situatioun ass, kënnt Dir no der tiers payant social froen — dacks iwwer Ären Dokter oder d'Sozialbüro.
+**TOM:** Genee. Wann dat Är Situatioun ass, kënnt Dir nom Tiers payant social froen — dacks iwwer Ären Dokter oder den Office social.
 
-**ANNA:** Wonnerbar. Gutt, Tom — bréngen mer et zesummen. Eng kuerz Zesummefaassung vun allem?
+**ANNA:** Wonnerbar. Okay, Tom — loosse mer alles zesummebréngen. Eng kuerz Zesummefaassung vun allem?
 
-**TOM:** Gär. Deel eent — den DSP ass Äre gratis, séchere, Online-Gesondheetsdossier. En hëlleft jidderengem, deen Iech behandelt, mat deeselwechten Informatiounen ze schaffen, Dir kontrolléiert, wie en gesäit, an Dir aktivéiert en einfach iwwer MyGuichet.lu — oder kuckt en op der MyDSP-App.
+**TOM:** Jo, gären. Deel eent — den DSP ass Äre gratis, séchere Gesondheetsdossier online. En hëlleft, datt jiddereen, deen Iech behandelt, mat deneselwechten Informatioune schafft, Dir kontrolléiert, wien en gesi kann, an Dir aktivéiert en einfach iwwer MyGuichet.lu — oder kuckt en an der MyDSP-App.
 
 **ANNA:** An Deel zwee?
 
-**TOM:** Deel zwee — d'CNS, déi national Gesondheetsversécherung. Fir en normalen Dokterbesuch bezuelt Dir als éischt an d'CNS erstat dat meescht dovunner op Äre Bankkont, an ongeféier dräi Wochen. Fir Medikamenter a Spidol bezuelt Dir normalerweis nëmmen Ären klengen Deel. A wann d'Geld knapp ass, bedeit déi sozial Drëttbezuelung, datt Dir net am Viraus bezuelt.
+**TOM:** Deel zwee — d'CNS, déi national Krankeversécherung. Bei enger normaler Visite beim Dokter bezuelt Dir fir d'éischt, an d'CNS rembourséiert dat meescht dovun op Äre Bankkont, an ongeféier dräi Wochen. Fir Medikamenter an d'Spidol bezuelt Dir normalerweis nëmmen Äre klengen Undeel. A wann d'Suen knapp sinn, heescht den Tiers payant social, datt Dir net am Viraus bezuelt.
 
-**ANNA:** Also d'Message ass — aktivéiert Äre Gesondheetsdossier, behalt Är Rechnungen, gitt der CNS Är Bankdaten, an hutt keng Angscht, no Hëllef ze froen, wann Dir se braucht.
+**ANNA:** Also de Message ass — aktivéiert Äre Gesondheetsdossier, behaalt Är Fakturen, gitt der CNS Är Bankdaten, an hutt keng Angscht, no Hëllef ze froen, wann Dir se braucht.
 
-**TOM:** Genau. E bësse Verwaltung elo... erspuert Iech vill Suergen méi spéit.
+**TOM:** Genee. E bësse Administratioun elo... spuert Iech vill Suerge méi spéit.
 
 **ANNA:** A wou kënnen d'Leit méi gewuer ginn?
 
-**TOM:** Fir de Gesondheetsdossier ass d'Websäit esante.lu. Fir d'Versécherung an d'Réckerstattungen ass et cns.lu. An d'Demarchen ginn op Guichet.lu erkläert, och op Englesch.
+**TOM:** Fir de Gesondheetsdossier ass d'Websäit esante.lu. Fir d'Versécherung an d'Remboursementer ass et cns.lu. An d'Prozedure sinn op Guichet.lu erkläert, och op Englesch.
 
-**ANNA:** Dat war eis Episod iwwer Äre Online-Gesondheetsdossier an d'CNS, Deel vum Biergerpakt — d'Zesummeliewen zu Lëtzebuerg, d'Land entdecken, an nei Leit kennenléieren. Villmools Merci fir d'Nolauschteren.
+**ANNA:** Dat war eis Episod iwwer Ären Online-Gesondheetsdossier an d'CNS. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt.
 
-**TOM:** Merci, jidderengem. Passt op Iech op... a bis d'nächst Kéier!
+**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
 
-**ANNA:** Äddi äddi!
+**ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---
 
-*Quellen: esante.lu (Agence eSanté — Dossier de soins partagé / MyDSP), cns.public.lu (Caisse nationale de santé — Réckerstattungen, Drëttbezuelung, sozial Drëttbezuelung), a guichet.public.lu/en (Aktivéierung vum eSanté-Kont / DSP iwwer MyGuichet.lu). Allgemeng Informatiounen, keng medizinesch oder finanziell Berodung — kuckt déi offiziell Säiten fir Är perséinlech Situatioun.*
+*Quellen: esante.lu (Agence eSanté — Dossier de Soins Partagé / MyDSP), cns.public.lu (Caisse Nationale de Santé — Remboursementer, Tiers payant, Tiers payant social), a guichet.public.lu/en (Aktivatioun vum eSanté-Kont / DSP iwwer MyGuichet.lu). Allgemeng Informatiounen, kee medezineschen oder finanzielle Rot — kuckt déi offiziell Säite fir Är perséinlech Situatioun.*

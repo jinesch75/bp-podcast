@@ -10,7 +10,7 @@
 
 **TOM:** Hello everyone!
 
-**ANNA:** This episode is part of the Biergerpakt. That's a programme of living together in Luxembourg. The idea is simple... we want to help residents, and also cross-border workers, to discover Luxembourg — or re-discover it — and to meet new people.
+**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. So that they can connect, exchange ideas and feel at home. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 
 **TOM:** Exactly. And today we talk about something that concerns every single person who works in Luxembourg. Retirement — and the pension you receive when you stop working.
 
@@ -190,11 +190,11 @@
 
 **TOM:** And for everything — forms, the payment calendar, the reform news, the hotline — one address: c-n-a-p dot public dot l-u.
 
-**ANNA:** Wonderful. That's the end of our journey through the pension system. Thank you for listening — and remember, it's never too early to think about your pension.
+**ANNA:** That was our episode about The Pensiounskeess. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.
 
-**TOM:** Check that career statement! Take care, everyone — goodbye!
+**TOM:** Thank you, everyone. Take care... and see you next time!
 
-**ANNA:** Goodbye!
+**ANNA:** Thank you so much for listening.
 
 ---
 
