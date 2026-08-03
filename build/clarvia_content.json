@@ -1,0 +1,78 @@
+{
+ "clarvia": {
+  "title": "Clarvia – Guiding Families Through What Comes Next",
+  "description": "A gentle, practical episode about a new Luxembourg non-profit. Clarvia ASBL is building a free, multilingual bereavement service: a personalised, step-by-step checklist of the administrative steps after the loss of a loved one — first formalities, documents, institutions to notify, funeral administration, employer, pension, insurance and banking steps, and succession orientation. Every step is mapped to official sources, it works in English, French, German and Luxembourgish, it protects your privacy, and the first alpha version is already available on clarvia.org.",
+  "topics": [
+   "What Clarvia is",
+   "Why it matters (40,000+ affected)",
+   "24h to declare a death",
+   "Personalised checklist",
+   "Based on official sources",
+   "Free & privacy-friendly",
+   "Cross-border families",
+   "How to help"
+  ],
+  "categories": [
+   "social",
+   "family",
+   "crossborder"
+  ],
+  "questions": [
+   {
+    "text": "What is Clarvia?",
+    "options": [
+     "A funeral company",
+     "A Luxembourg non-profit building a free, multilingual service that guides families through the administrative steps after a loss",
+     "A private insurance for funerals",
+     "A government ministry"
+    ],
+    "correct": 1,
+    "explanation": "Clarvia is a Luxembourg non-profit association (ASBL) building a free, multilingual bereavement guidance service for families — explaining what needs to be done, what is urgent, and where to find qualified help."
+   },
+   {
+    "text": "Within what time must a death be declared to the commune in Luxembourg?",
+    "options": [
+     "Within one month",
+     "Within one week",
+     "Within twenty-four hours",
+     "There is no deadline"
+    ],
+    "correct": 2,
+    "explanation": "A death must be declared to the commune within 24 hours — one of the first formalities that families must handle very quickly, often while still in shock."
+   },
+   {
+    "text": "How does the Clarvia checklist work?",
+    "options": [
+     "You answer a few questions and get a personalised, step-by-step list of administrative steps, with the time-sensitive ones highlighted",
+     "It sends a lawyer to your home",
+     "It is the same printed list for everybody",
+     "You must register with your matricule"
+    ],
+    "correct": 0,
+    "explanation": "The digital checklist is personalised: based on your situation it lists the relevant administrative steps and helps you see which ones have deadlines. An early alpha version is already on clarvia.org."
+   },
+   {
+    "text": "Where does the information in the checklist come from?",
+    "options": [
+     "From social media",
+     "From anonymous forum posts",
+     "It is the personal opinion of the founders",
+     "Every step is mapped back to an official government source, kept in a public registry"
+    ],
+    "correct": 3,
+    "explanation": "Every administrative step is mapped to its official government source (such as Guichet.lu), and Clarvia maintains a public registry of these sources so anyone can verify the guidance."
+   },
+   {
+    "text": "What does Clarvia cost, and what happens to your data?",
+    "options": [
+     "It is free only for Luxembourg nationals",
+     "It is free for every family, with no ads — and the checklist does not collect, store or share personal data",
+     "It costs a monthly subscription",
+     "It is free, but your data is sold to insurers"
+    ],
+    "correct": 1,
+    "explanation": "Clarvia is free for every family — no fees, no advertising, no premium tiers — and the checklist is designed to protect privacy: it does not collect, store or share personal data."
+   }
+  ]
+ }
+}

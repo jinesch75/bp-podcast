@@ -1,0 +1,73 @@
+{
+ "clarvia": {
+  "title": "Clarvia – Famillje begleeden duerch dat, wat duerno kënnt",
+  "description": "Eng sensibel, praktesch Episod iwwer eng nei Lëtzebuerger Organisatioun ouni Gewënnzweck. D'Clarvia ASBL baut e gratis, méisproochegen Trauerservice op: eng personaliséiert Checklist, Schrëtt fir Schrëtt, mat den administrative Schrëtt nom Verloscht vun engem léiwe Mënsch — éischt Formalitéiten, Dokumenter, Institutiounen, déi ze informéiere sinn, Administratioun ronderëm d'Begriefnes, Schrëtt beim Patron, bei der Pensioun, de Versécherungen an der Bank, an eng éischt Orientatioun bei der Successioun. All Schrëtt ass op offiziell Quellen zréckgefouert, et funktionéiert op Englesch, Franséisch, Däitsch a Lëtzebuergesch, et schützt Är Privatsphär, an déi éischt Alpha-Versioun ass schonn op clarvia.org disponibel.",
+  "topics": [
+   "Wat Clarvia ass",
+   "Firwat et wichteg ass (méi wéi 40.000 Betraffener)",
+   "24 Stonnen, fir en Doudesfall ze deklaréieren",
+   "Personaliséiert Checklist",
+   "Baséiert op offizielle Quellen",
+   "Gratis a respektéiert d'Privatsphär",
+   "Grenziwwerschreidend Famillen",
+   "Wéi een hëllefe kann"
+  ],
+  "questions": [
+   {
+    "text": "Wat ass Clarvia?",
+    "options": [
+     "Eng Begriefnesentreprise",
+     "Eng Lëtzebuerger Organisatioun ouni Gewënnzweck, déi e gratis, méisproochege Service opbaut, deen d'Famillje bei den administrative Schrëtt no engem Verloscht begleet",
+     "Eng privat Versécherung fir Begriefnesser",
+     "E Ministère vun der Regierung"
+    ],
+    "correct": 1,
+    "explanation": "Clarvia ass eng Lëtzebuerger Associatioun ouni Gewënnzweck (ASBL), déi e gratis, méisproochegen Trauerbegleedungsservice fir Famillen opbaut — si erkläert, wat gemaach muss ginn, wat urgent ass, a wou ee qualifizéiert Hëllef fënnt."
+   },
+   {
+    "text": "Bannent wéi enger Zäit muss en Doudesfall zu Lëtzebuerg op der Gemeng deklaréiert ginn?",
+    "options": [
+     "Bannent engem Mount",
+     "Bannent enger Woch",
+     "Bannent véieranzwanzeg Stonnen",
+     "Et gëtt keen Delai"
+    ],
+    "correct": 2,
+    "explanation": "En Doudesfall muss bannent 24 Stonnen op der Gemeng deklaréiert ginn — eng vun den éischte Formalitéiten, ëm déi d'Famillje sech ganz séier musse këmmeren, dacks nach am Schock."
+   },
+   {
+    "text": "Wéi funktionéiert d'Checklist vu Clarvia?",
+    "options": [
+     "Dir äntwert op e puer Froen a kritt eng personaliséiert Lëscht, Schrëtt fir Schrëtt, mat den administrative Schrëtt, wou déi zäitkritesch ervirgehuewe sinn",
+     "Si schéckt en Affekot bei Iech heem",
+     "Et ass déiselwecht gedréckte Lëscht fir jiddereen",
+     "Dir musst Iech mat Ärem Matricule aschreiwen"
+    ],
+    "correct": 0,
+    "explanation": "Déi digital Checklist ass personaliséiert: op Basis vun Ärer Situatioun lëscht se déi relevant administrativ Schrëtt op an hëlleft Iech ze gesinn, wéi eng en Delai hunn. Eng éischt Alpha-Versioun ass schonn op clarvia.org."
+   },
+   {
+    "text": "Vu wou kënnt d'Informatioun an der Checklist?",
+    "options": [
+     "Vu soziale Medien",
+     "Vun anonyme Forumsbäiträg",
+     "Et ass déi perséinlech Meenung vun de Grënner",
+     "All Schrëtt ass op eng offiziell staatlech Quell zréckgefouert, déi an engem ëffentleche Regëster gehale gëtt"
+    ],
+    "correct": 3,
+    "explanation": "All administrative Schrëtt ass op seng offiziell staatlech Quell zréckgefouert (wéi zum Beispill Guichet.lu), a Clarvia hält en ëffentleche Regëster vun dëse Quellen, sou datt jidderee kann nokucken, vu wou d'Empfeelunge kommen."
+   },
+   {
+    "text": "Wat kascht Clarvia, a wat geschitt mat Ären Donnéeën?",
+    "options": [
+     "Et ass nëmme gratis fir Lëtzebuerger Staatsbierger",
+     "Et ass gratis fir all Famill, ouni Reklamm — an d'Checklist sammelt, späichert an deelt keng perséinlech Donnéeën",
+     "Et kascht e monatlechen Abonnement",
+     "Et ass gratis, mä Är Donnéeë gi u Versécherunge verkaaft"
+    ],
+    "correct": 1,
+    "explanation": "Clarvia ass gratis fir all Famill — keng Fraisen, keng Reklamm, keng Premium-Versioun — an d'Checklist ass sou gemaach, datt se d'Privatsphär schützt: si sammelt, späichert an deelt keng perséinlech Donnéeën."
+   }
+  ]
+ }
+}

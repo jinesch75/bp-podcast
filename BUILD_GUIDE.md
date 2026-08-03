@@ -25,7 +25,9 @@ Open `index.html` in a browser — it's a static site, no server needed.
 - EN `.md` scripts of ALL other episodes got the new intro/outro applied (scripts + Word doc only — their audio/segments/translations are NOT yet updated; do this per-episode later like eps 1–5).
 - **Review pages**: `node build/make_review.js key1,key2` generates fully isolated per-episode pages under `review/<key>-<token>/` (one-episode `episodes_data.js` slice; app.js/svg/audio referenced from root via `../../`; tokens persist in `build/review_tokens.json`). Live at `https://jinesch75.github.io/bp-podcast/review/<slug>/` after push.
 
-## Episodes (41 so far)
+## Episodes (42 so far)
+
+(+ 42:clarvia — Clarvia ASBL bereavement guidance service, ~9.5 min, tagged `social,family,crossborder`, native EN/FR/DE audio + LB read-along; built July 2026 with the new intro/outro from the start; see `build/clarvia_content.json`, `build/clarvia_tr_{fr,de,lb}.json`, `build/inject_clarvia.js`.)
 
 (+ 40:lll — lifelong-learning.lu, a longer ~10-min episode, tagged `work`. + 41:cnap — Pensiounskeess/CNAP pension system, ~16-min, tagged `seniors,social,crossborder`, native EN/FR/DE audio + LB read-along.)
 

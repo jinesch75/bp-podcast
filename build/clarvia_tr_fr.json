@@ -1,0 +1,73 @@
+{
+ "clarvia": {
+  "title": "Clarvia – Accompagner les familles dans les démarches après un décès",
+  "description": "Un épisode doux et pratique sur une nouvelle association luxembourgeoise. Clarvia ASBL construit un service d'accompagnement au deuil, gratuit et multilingue : une checklist personnalisée, étape par étape, des démarches administratives après la perte d'un proche — premières formalités, documents, institutions à prévenir, administration liée aux funérailles, démarches auprès de l'employeur, de la pension, des assurances et de la banque, et une première orientation sur la succession. Chaque étape est reliée à des sources officielles, le service existe en anglais, français, allemand et luxembourgeois, il protège votre vie privée, et la première version alpha est déjà disponible sur clarvia.org.",
+  "topics": [
+   "Qu'est-ce que Clarvia",
+   "Pourquoi c'est important (plus de 40 000 personnes touchées)",
+   "24 h pour déclarer un décès",
+   "Une checklist personnalisée",
+   "Basé sur des sources officielles",
+   "Gratuit et respectueux de la vie privée",
+   "Familles transfrontalières",
+   "Comment aider"
+  ],
+  "questions": [
+   {
+    "text": "Qu'est-ce que Clarvia ?",
+    "options": [
+     "Une entreprise de pompes funèbres",
+     "Une association luxembourgeoise sans but lucratif qui construit un service gratuit et multilingue pour guider les familles dans les démarches administratives après un décès",
+     "Une assurance privée pour les funérailles",
+     "Un ministère du gouvernement"
+    ],
+    "correct": 1,
+    "explanation": "Clarvia est une association sans but lucratif luxembourgeoise (ASBL) qui construit un service gratuit et multilingue d'accompagnement au deuil pour les familles — en expliquant ce qu'il faut faire, ce qui est urgent, et où trouver de l'aide qualifiée."
+   },
+   {
+    "text": "Dans quel délai un décès doit-il être déclaré à la commune au Luxembourg ?",
+    "options": [
+     "Dans un délai d'un mois",
+     "Dans un délai d'une semaine",
+     "Dans les vingt-quatre heures",
+     "Il n'y a pas de délai"
+    ],
+    "correct": 2,
+    "explanation": "Un décès doit être déclaré à la commune dans les 24 heures — l'une des premières formalités que les familles doivent accomplir très vite, souvent alors qu'elles sont encore sous le choc."
+   },
+   {
+    "text": "Comment fonctionne la checklist de Clarvia ?",
+    "options": [
+     "Vous répondez à quelques questions et vous recevez une liste personnalisée, étape par étape, des démarches administratives, avec les étapes urgentes mises en évidence",
+     "Elle envoie un avocat chez vous",
+     "C'est la même liste imprimée pour tout le monde",
+     "Vous devez vous inscrire avec votre matricule"
+    ],
+    "correct": 0,
+    "explanation": "La checklist numérique est personnalisée : selon votre situation, elle liste les démarches administratives pertinentes et vous aide à voir lesquelles ont un délai. Une première version alpha est déjà sur clarvia.org."
+   },
+   {
+    "text": "D'où vient l'information de la checklist ?",
+    "options": [
+     "Des réseaux sociaux",
+     "De messages anonymes sur des forums",
+     "C'est l'opinion personnelle des fondateurs",
+     "Chaque étape est reliée à une source officielle du gouvernement, conservée dans un registre public"
+    ],
+    "correct": 3,
+    "explanation": "Chaque démarche administrative est reliée à sa source officielle (comme Guichet.lu), et Clarvia tient un registre public de ces sources pour que chacun puisse vérifier les recommandations."
+   },
+   {
+    "text": "Combien coûte Clarvia, et que deviennent vos données ?",
+    "options": [
+     "C'est gratuit seulement pour les ressortissants luxembourgeois",
+     "C'est gratuit pour chaque famille, sans publicité — et la checklist ne collecte, ne stocke et ne partage pas de données personnelles",
+     "Cela coûte un abonnement mensuel",
+     "C'est gratuit, mais vos données sont vendues à des assureurs"
+    ],
+    "correct": 1,
+    "explanation": "Clarvia est gratuit pour chaque famille — pas de frais, pas de publicité, pas de version premium — et la checklist est conçue pour protéger la vie privée : elle ne collecte, ne stocke et ne partage pas de données personnelles."
+   }
+  ]
+ }
+}

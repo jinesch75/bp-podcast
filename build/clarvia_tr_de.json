@@ -1,0 +1,73 @@
+{
+ "clarvia": {
+  "title": "Clarvia – Familien begleiten durch die Zeit danach",
+  "description": "Eine behutsame, praktische Episode über eine neue luxemburgische Non-Profit-Organisation. Die Clarvia ASBL baut einen kostenlosen, mehrsprachigen Dienst für Menschen in Trauer auf: eine persönliche Checkliste, Schritt für Schritt, mit den administrativen Schritten nach dem Verlust eines geliebten Menschen — erste Formalitäten, Dokumente, zu informierende Institutionen, Verwaltung rund um die Beerdigung, Schritte zu Arbeitgeber, Rente, Versicherung und Bank, sowie eine erste Orientierung bei Erbschaftsfragen. Jeder Schritt ist mit offiziellen Quellen verknüpft, der Dienst funktioniert auf Englisch, Französisch, Deutsch und Luxemburgisch, er schützt Ihre Privatsphäre, und die erste Alpha-Version ist schon auf clarvia.org verfügbar.",
+  "topics": [
+   "Was Clarvia ist",
+   "Warum es wichtig ist (über 40.000 Betroffene)",
+   "24 Stunden für die Meldung eines Todesfalls",
+   "Persönliche Checkliste",
+   "Basierend auf offiziellen Quellen",
+   "Kostenlos & datenschutzfreundlich",
+   "Grenzüberschreitende Familien",
+   "Wie man helfen kann"
+  ],
+  "questions": [
+   {
+    "text": "Was ist Clarvia?",
+    "options": [
+     "Ein Bestattungsunternehmen",
+     "Eine luxemburgische Non-Profit-Organisation, die einen kostenlosen, mehrsprachigen Dienst aufbaut, der Familien durch die administrativen Schritte nach einem Verlust begleitet",
+     "Eine private Bestattungsversicherung",
+     "Ein Ministerium"
+    ],
+    "correct": 1,
+    "explanation": "Clarvia ist eine luxemburgische Non-Profit-Organisation (ASBL), die einen kostenlosen, mehrsprachigen Begleitdienst für trauernde Familien aufbaut — sie erklärt, was getan werden muss, was dringend ist und wo man qualifizierte Hilfe findet."
+   },
+   {
+    "text": "Innerhalb welcher Zeit muss ein Todesfall in Luxemburg bei der Gemeinde gemeldet werden?",
+    "options": [
+     "Innerhalb eines Monats",
+     "Innerhalb einer Woche",
+     "Innerhalb von vierundzwanzig Stunden",
+     "Es gibt keine Frist"
+    ],
+    "correct": 2,
+    "explanation": "Ein Todesfall muss innerhalb von 24 Stunden bei der Gemeinde gemeldet werden — eine der ersten Formalitäten, die Familien sehr schnell erledigen müssen, oft noch unter Schock."
+   },
+   {
+    "text": "Wie funktioniert die Clarvia-Checkliste?",
+    "options": [
+     "Sie beantworten ein paar Fragen und erhalten eine persönliche Liste der administrativen Schritte, Schritt für Schritt, mit hervorgehobenen zeitkritischen Schritten",
+     "Sie schickt einen Anwalt zu Ihnen nach Hause",
+     "Es ist die gleiche gedruckte Liste für alle",
+     "Sie müssen sich mit Ihrem Matricule registrieren"
+    ],
+    "correct": 0,
+    "explanation": "Die digitale Checkliste ist persönlich: Basierend auf Ihrer Situation listet sie die relevanten administrativen Schritte auf und hilft Ihnen zu sehen, welche eine Frist haben. Eine frühe Alpha-Version ist schon auf clarvia.org."
+   },
+   {
+    "text": "Woher kommen die Informationen in der Checkliste?",
+    "options": [
+     "Aus den sozialen Medien",
+     "Aus anonymen Forenbeiträgen",
+     "Es ist die persönliche Meinung der Gründer",
+     "Jeder Schritt ist mit einer offiziellen staatlichen Quelle verknüpft, die in einem öffentlichen Register geführt wird"
+    ],
+    "correct": 3,
+    "explanation": "Jeder administrative Schritt ist mit seiner offiziellen staatlichen Quelle verknüpft (zum Beispiel Guichet.lu), und Clarvia führt ein öffentliches Register dieser Quellen, damit jeder die Empfehlungen überprüfen kann."
+   },
+   {
+    "text": "Was kostet Clarvia, und was passiert mit Ihren Daten?",
+    "options": [
+     "Es ist nur für luxemburgische Staatsangehörige kostenlos",
+     "Es ist für jede Familie kostenlos, ohne Werbung — und die Checkliste sammelt, speichert und teilt keine persönlichen Daten",
+     "Es kostet ein monatliches Abonnement",
+     "Es ist kostenlos, aber Ihre Daten werden an Versicherungen verkauft"
+    ],
+    "correct": 1,
+    "explanation": "Clarvia ist für jede Familie kostenlos — keine Gebühren, keine Werbung, keine Premium-Version — und die Checkliste ist so gemacht, dass sie die Privatsphäre schützt: Sie sammelt, speichert und teilt keine persönlichen Daten."
+   }
+  ]
+ }
+}
