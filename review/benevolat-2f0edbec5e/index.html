@@ -259,7 +259,7 @@
 <div style="background:#b7791f;color:#fff;text-align:center;padding:6px 12px;font:600 13px/1.4 system-ui,sans-serif;">Preview for review — single episode. Please do not share this link.</div>
 
 <header>
-  <a class="logo-wrap" href="#" onclick="showScreen('screen-register'); return false;" style="text-decoration:none; color:inherit; cursor:pointer;">
+  <a class="logo-wrap" href="#" onclick="showScreen('screen-episodes'); return false;" style="text-decoration:none; color:inherit; cursor:pointer;">
     <div class="logo-main">Zesumme<em>liewen</em></div>
     <div class="logo-sub">Biergerpakt &middot; Podcast</div>
   </a>
@@ -273,7 +273,11 @@
 </header>
 
 <!-- SCREEN 1 · REGISTRATION -->
-<div id="screen-register" class="screen active">
+<!-- Registration screen disabled for now: visitors go straight to the catalogue.
+     To re-enable: put class="screen active" back here, class="screen" on screen-episodes,
+     restore the logo onclick to 'screen-register', and remove the auto-show of
+     screen-episodes in app.js (DOMContentLoaded). -->
+<div id="screen-register" class="screen">
   <div class="reg-hero">
     <div class="tag" data-i18n="reg_tag">Biergerpakt &middot; Podcast Programme</div>
     <h1 data-i18n="podcast_name">The Biergerpakt Podcast</h1>
@@ -306,7 +310,7 @@
 </div>
 
 <!-- SCREEN 2 · EPISODE LIST -->
-<div id="screen-episodes" class="screen">
+<div id="screen-episodes" class="screen active">
   <div class="episodes-hero">
     <div class="ep-badge-main" data-i18n="programme_badge">Biergerpakt &middot; Podcast Programme</div>
     <h1 data-i18n="episodes_h1">The Biergerpakt Podcast &ndash; All Episodes</h1>

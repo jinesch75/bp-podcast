@@ -70,6 +70,7 @@ const I18N = {
     btn_get_cert: 'Get my certificate 🎓',
     btn_choose_another: '← Choose another episode',
     cert_label: 'Certificate of Participation',
+    cert_generic_name: 'Biergerpakt Participant',
     cert_body1: 'This is to certify that',
     cert_body2: 'has listened to the following podcast episode and successfully completed the knowledge quiz:',
     cert_verified: 'Verified',
@@ -126,6 +127,7 @@ const I18N = {
     btn_get_cert: 'Obtenir mon certificat 🎓',
     btn_choose_another: '← Choisir un autre épisode',
     cert_label: 'Certificat de participation',
+    cert_generic_name: 'Participant(e) au Biergerpakt',
     cert_body1: 'Le présent document certifie que',
     cert_body2: 'a écouté l’épisode de podcast suivant et réussi le quiz de connaissances :',
     cert_verified: 'Vérifié',
@@ -182,6 +184,7 @@ const I18N = {
     btn_get_cert: 'Mein Zertifikat erhalten 🎓',
     btn_choose_another: '← Eine andere Folge wählen',
     cert_label: 'Teilnahmezertifikat',
+    cert_generic_name: 'Biergerpakt-Teilnehmer(in)',
     cert_body1: 'Hiermit wird bescheinigt, dass',
     cert_body2: 'die folgende Podcast-Folge angehört und das Wissensquiz erfolgreich abgeschlossen hat:',
     cert_verified: 'Verifiziert',
@@ -238,6 +241,7 @@ const I18N = {
     btn_get_cert: 'Mäi Certificat kréien 🎓',
     btn_choose_another: '← Eng aner Episode wielen',
     cert_label: 'Participatiouns-Certificat',
+    cert_generic_name: 'Biergerpakt-Participant(in)',
     cert_body1: 'Hiermat gëtt bestätegt, datt',
     cert_body2: 'déi folgend Podcast-Episode gelauschtert an de Wëssensquiz erfollegräich ofgeschloss huet:',
     cert_verified: 'Verifizéiert',
@@ -686,7 +690,9 @@ function retryWrong() {
 
 // ── Certificate ──────────────────────────────────────────
 function showCertificate() {
-  document.getElementById('cert-name-out').textContent = user.firstName + ' ' + user.lastName;
+  // Registration is disabled for now: fall back to a generic name on the certificate.
+  document.getElementById('cert-name-out').textContent =
+    (user.firstName ? user.firstName + ' ' + user.lastName : t('cert_generic_name'));
   document.getElementById('cert-episode-out').textContent = epNumber(selectedEpisode) + ': ' + epField(selectedEpisode, 'title');
   var emailLine = document.getElementById('cert-email-line');
   emailLine.innerHTML = user.email ? ('<strong>' + t('cert_email_label') + '</strong> ' + esc(user.email) + '<br>') : '';
@@ -698,6 +704,8 @@ function showCertificate() {
 
 // ── Wire up ──────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', function () {
+  // Registration screen is disabled for now - go straight to the catalogue.
+  showScreen('screen-episodes');
   document.getElementById('btn-register').addEventListener('click', doRegister);
   ['inp-first', 'inp-last', 'inp-email'].forEach(function (id) {
     document.getElementById(id).addEventListener('keydown', function (e) { if (e.key === 'Enter') doRegister(); });
