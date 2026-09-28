@@ -132,3 +132,17 @@ Each episode has a `categories` array of tag ids. The episode-list screen shows 
 - **index.html**: static strings carry `data-i18n` / `data-i18n-ph`; header has `#lang-switch-global`.
 - **Reproduce / extend translations**: `build/lang_translations.json` (content) + `build/inject_lang.js` (merges audio + segments + content into `episodes_data.js`). To localize more episodes: add their native audio (tts_lang.py), add their content block to `lang_translations.json`, extend the `TARGETS` array in `inject_lang.js`, and run `node build/inject_lang.js`.
 - **Validate**: `node --check app.js episodes_data.js`; a jsdom smoke test (register → switch langs → audio src per lang → quiz → certificate) is the recommended check.
+
+## ElevenLabs voices (added 2026-09-28)
+
+Jacques has an ElevenLabs Pro licence. `build/tts_elevenlabs.py` replaces edge-tts for new recordings and keeps the same pipeline (per-sentence mp3 + `meta.json` → `build/rebuild.py` PCM assembly → sample-accurate `segdata_fixed.json`).
+
+- **API key:** `ELEVENLABS_API_KEY=...` in `.env` at the project root. `.env` is git-ignored (the repo is PUBLIC) — never commit it, never paste the key in chat.
+- **Hosts:** Anna = **Elizabeth**, Tom = **Bill** (resolved by name from "My Voices"; library voices must be added to My Voices first). Override with `ANNA_VOICE` / `TOM_VOICE` or exact `ANNA_VOICE_ID` / `TOM_VOICE_ID` in `.env`. The SAME two voices speak every language.
+- **Model:** `eleven_multilingual_v2` for en/fr/de (with previous/next-sentence context for natural flow); `eleven_v3` for **lb** — Luxembourgish is supported, so LB can get native audio for the first time (have a native speaker check it).
+- **Commands (run from project root):**
+  - Test: `python3 build/tts_elevenlabs.py <key> <lang> --first 25` → `build/el_test/<key>_<lang>_first25.mp3` (≈1,400 credits).
+  - Full: `python3 build/tts_elevenlabs.py <key> <lang> --yes`, then `TEMPO=1.0 python3 build/rebuild.py /tmp/<key>[_<lang>]_el_seg /tmp/<key>[_<lang>]_el_seg/podcast_<key>[_<lang>].mp3`.
+- **TEMPO=1.0** for ElevenLabs (no atempo speed-up; edge-tts episodes used 1.08). `rebuild.py` now reads `TEMPO` and `GAP` from the environment; defaults unchanged.
+- **Cost:** ~1 credit per character; Pro = 600,000 credits/month. One episode ≈ 7–9k chars per language (MyGuichet EN+FR+DE ≈ 25k, +LB ≈ 33k). Full catalogue EN/FR/DE ≈ 1.2M. Runs above 3,000 credits need `--yes`.
+- **Cache:** every sentence is stored in `build/el_cache/<hash>.mp3` (hash of voice+model+settings+text), so re-runs only pay for changed sentences. `build/el_cache/` and `build/el_test/` are git-ignored.

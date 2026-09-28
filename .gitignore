@@ -2,3 +2,5 @@
 node_modules/
 _smoke_tmp.js
 .env
+build/el_cache/
+build/el_test/

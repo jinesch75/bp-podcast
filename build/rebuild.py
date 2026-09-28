@@ -1,5 +1,8 @@
 import os, subprocess, json, sys
-SR=24000; GAP=0.14; TEMPO=1.08; ENC_DELAY=0.05  # constant compensation for encoder delay + slight lag bias
+SR=24000; ENC_DELAY=0.05  # constant compensation for encoder delay + slight lag bias
+# GAP (silence between sentences) and TEMPO (speed-up) default to the edge-tts values.
+# ElevenLabs voices are already paced naturally: run with TEMPO=1.0 (tts_elevenlabs.py prints the command).
+GAP=float(os.environ.get("GAP", "0.14")); TEMPO=float(os.environ.get("TEMPO", "1.08"))
 def rebuild(WORK, out_mp3):
     segs=sorted(f for f in os.listdir(WORK) if f.startswith("seg_") and f.endswith(".mp3"))
     if os.path.exists(WORK+"/meta.json"):
@@ -19,7 +22,7 @@ def rebuild(WORK, out_mp3):
             out.write(gap_bytes); pos+=len(gap_bytes)
     # encode once with tempo
     subprocess.run(["ffmpeg","-y","-f","s16le","-ar",str(SR),"-ac","1","-i",pcm_path,
-                    "-filter:a",f"atempo={TEMPO}","-acodec","libmp3lame","-b:a","96k",out_mp3],capture_output=True)
+                    *([] if TEMPO == 1.0 else ["-filter:a", f"atempo={TEMPO}"]),"-acodec","libmp3lame","-b:a","96k",out_mp3],capture_output=True)
     def dur(f):
         r=subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",f],capture_output=True,text=True)
         return float(r.stdout.strip())
