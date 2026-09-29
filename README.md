@@ -17,6 +17,9 @@ a personal certificate.
 - Each quiz requires all five answers correct; wrong answers reappear at the end
   until answered correctly, then a printable certificate is shown.
 
+## Hosting
+Live at https://bp-podcast-production.up.railway.app/ (Railway, auto-deployed from `main`).
+
 ## Files
 - `index.html` – page structure and styling
 - `app.js` – application logic (player sync, quiz, certificate)
