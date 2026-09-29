@@ -4,3 +4,5 @@ _smoke_tmp.js
 .env
 build/el_cache/
 build/el_test/
+__pycache__/
+build/__pycache__/

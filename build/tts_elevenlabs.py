@@ -18,9 +18,14 @@ Examples
 Setup
   .env in the project root (NEVER committed; .env is in .gitignore):
       ELEVENLABS_API_KEY=sk_...
-  Optional overrides in .env:
-      ANNA_VOICE=Elizabeth      TOM_VOICE=Bill       (names as in "My Voices")
-      ANNA_VOICE_ID=...         TOM_VOICE_ID=...     (exact ids win over names)
+  Voices per language (defaults, names as in "My Voices"):
+      en  Anna = Elizabeth   Tom = James
+      fr  Anna = Lucie       Tom = Marcel
+      de  Anna = Lola        Tom = Felix
+      lb  uses the English pair unless overridden
+  Optional overrides in .env, per language:
+      ANNA_VOICE_FR=Lucie       TOM_VOICE_FR=Marcel      (names)
+      ANNA_VOICE_ID_FR=...      TOM_VOICE_ID_FR=...      (exact ids win over names)
       EL_MODEL=eleven_multilingual_v2               (lb always uses eleven_v3)
   A library voice must be added to "My Voices" in ElevenLabs before it can be found.
 
@@ -37,10 +42,30 @@ CACHE = os.path.join(ROOT, "build", "el_cache")
 TEST_DIR = os.path.join(ROOT, "build", "el_test")
 CONFIRM_ABOVE = 3000  # credits
 
-DEFAULT_VOICES = {"Anna": "Elizabeth", "Tom": "Bill"}
+# Hosts per language (names as they appear in "My Voices"). lb falls back to the English pair.
+DEFAULT_VOICES = {
+    "en": {"Anna": "Elizabeth", "Tom": "James"},
+    "fr": {"Anna": "Lucie",     "Tom": "Marcel"},
+    "de": {"Anna": "Lola",      "Tom": "Felix"},
+}
 VOICE_SETTINGS = {"stability": 0.5, "similarity_boost": 0.75, "style": 0.0,
                   "use_speaker_boost": True, "speed": 1.0}
 LANG_CODE = {"en": "en", "fr": "fr", "de": "de", "lb": "lb"}
+
+# Pronunciation fixes applied ONLY to the text sent to ElevenLabs (the transcript keeps the
+# written form). (regex, replacement) pairs per language. Editing these re-generates only the
+# sentences they touch (the cache key includes the spoken text).
+PRONUNCIATION = {
+    # MyGuichet.lu / Guichet.lu / biergerpakt.lu -> "... Punkt L-U" (Jacques, 2026-09-28)
+    "de": [(r"(\w)\.lu\b", r"\1 Punkt L-U")],
+}
+
+
+def spoken(text, lang):
+    text = text.replace("**", "")
+    for pat, rep in PRONUNCIATION.get(lang, []):
+        text = re.sub(pat, rep, text)
+    return text
 
 
 # ---------- config ----------
@@ -112,11 +137,13 @@ def request(method, path, api_key, body=None, query=""):
             die(f"network error: {e}")
 
 
-def resolve_voice(role, api_key, voices):
-    vid = os.environ.get(f"{role.upper()}_VOICE_ID")
+def resolve_voice(role, lang, voices):
+    R, L = role.upper(), lang.upper()
+    vid = os.environ.get(f"{R}_VOICE_ID_{L}")
     if vid:
         return vid, vid
-    want = os.environ.get(f"{role.upper()}_VOICE", DEFAULT_VOICES[role]).lower()
+    default = DEFAULT_VOICES.get(lang, DEFAULT_VOICES["en"])[role]
+    want = os.environ.get(f"{R}_VOICE_{L}", default).lower()
     hits = [v for v in voices if v["name"].lower() == want
             or v["name"].lower().split(" - ")[0].strip() == want]
     if not hits:
@@ -125,9 +152,9 @@ def resolve_voice(role, api_key, voices):
         return hits[0]["voice_id"], hits[0]["name"]
     listing = "\n".join(f"   {v['voice_id']}  {v['name']}" for v in (hits or voices))
     if not hits:
-        die(f"No voice named '{want}' for {role} in My Voices. Add it from the Voice Library "
-            f"(Add to My Voices) or set {role.upper()}_VOICE_ID in .env. Available:\n{listing}")
-    die(f"Several voices match '{want}' for {role}; set {role.upper()}_VOICE_ID in .env to one of:\n{listing}")
+        die(f"No voice named '{want}' for {role} ({lang}) in My Voices. Add it from the Voice Library "
+            f"(Add to My Voices) or set {R}_VOICE_ID_{L} in .env. Available:\n{listing}")
+    die(f"Several voices match '{want}' for {role} ({lang}); set {R}_VOICE_ID_{L} in .env to one of:\n{listing}")
 
 
 # ---------- main ----------
@@ -151,7 +178,7 @@ def main():
     voices = json.loads(request("GET", "/voices", api_key))["voices"]
     vids = {}
     for role in ("Anna", "Tom"):
-        vids[role], vname = resolve_voice(role, api_key, voices)
+        vids[role], vname = resolve_voice(role, lang, voices)
         print(f"{role}: {vname}  ({vids[role]})")
     print(f"model: {model}   language: {lang}")
 
@@ -168,13 +195,13 @@ def main():
 
     os.makedirs(CACHE, exist_ok=True)
     for s in segs:
-        body = {"text": s["text"].replace("**", ""), "model_id": model,
+        body = {"text": spoken(s["text"], lang), "model_id": model,
                 "voice_settings": VOICE_SETTINGS, "seed": 1234}
         if stitching:
             if s["prev"]:
-                body["previous_text"] = s["prev"]
+                body["previous_text"] = spoken(s["prev"], lang)
             if s["next"]:
-                body["next_text"] = s["next"]
+                body["next_text"] = spoken(s["next"], lang)
         if model in ("eleven_v3", "eleven_flash_v2_5", "eleven_turbo_v2_5"):
             body["language_code"] = LANG_CODE[lang]
         s["body"] = body
@@ -214,13 +241,13 @@ def main():
     if first:
         os.makedirs(TEST_DIR, exist_ok=True)
         out = os.path.join(TEST_DIR, f"{key}_{lang}_first{first}.mp3")
-        env = dict(os.environ, TEMPO="1.0")
+        env = dict(os.environ, TEMPO="1.0", LOUDNORM=os.environ.get("LOUDNORM", "-20"))
         subprocess.run([sys.executable, os.path.join(ROOT, "build", "rebuild.py"), work, out], env=env, check=True)
         print(f"\nTest file ready to listen to:\n  {out}")
     else:
         out = f"podcast_{key}{suffix}.mp3"
         print(f"\nNext: assemble the episode (no speed-up for ElevenLabs):\n"
-              f"  TEMPO=1.0 python3 build/rebuild.py {work} {work}/{out}")
+              f"  TEMPO=1.0 LOUDNORM=-20 python3 build/rebuild.py {work} {work}/{out}")
 
 
 if __name__ == "__main__":
