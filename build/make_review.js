@@ -7,7 +7,7 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 const PROJ = path.join(__dirname, '..');
-const BASE_URL = 'https://jinesch75.github.io/bp-podcast';
+const BASE_URL = 'https://bp-podcast-production.up.railway.app';
 
 const KEYS = (process.argv[2] || 'myguichet,benevolat,eltereforum,dsp_cns,lualert').split(',');
 

@@ -8,6 +8,10 @@ A static website for the **Biergerpakt Podcast**: short, friendly audio episodes
 
 Open `index.html` in a browser — it's a static site, no server needed.
 
+## Hosting
+
+The site is served by **Railway** (project "proactive-fulfillment", service `bp-podcast`), auto-deployed from the GitHub repo `jinesch75/bp-podcast` (branch `main`) on every push. Live URL: https://bp-podcast-production.up.railway.app/ — GitHub Pages is NOT used. If a push doesn't show up, check the Railway dashboard: when deploys are paused ("Limited Access"), the site stays online with the last successful deployment.
+
 ## Files
 
 - `index.html` — page structure + CSS (registration, episode list, player+transcript, quiz, results, certificate).
@@ -23,7 +27,7 @@ Open `index.html` in a browser — it's a static site, no server needed.
 
 - Episodes 1–5 rebuilt from the user's reworked EN scripts (`Biergerpakt_Podcast_Scripts_All_Episodes_EN_2026-07-07.docx`): new intro (long Biergerpakt paragraph naming the Ministry of Family Affairs...) and new outro (Biergerpakt activities promo). Order swapped to match the doc: **2 = benevolat, 4 = dsp_cns** (ids + numbers + array order swapped). FR/DE/LB retranslated, EN/FR/DE audio re-recorded, quizzes fixed (see `build/en_content_ep1_5_2026-07.json`, `build/tr_new_{fr,de,lb}.json`, `build/inject_ep1_5_2026-07.js`).
 - EN `.md` scripts of ALL other episodes got the new intro/outro applied (scripts + Word doc only — their audio/segments/translations are NOT yet updated; do this per-episode later like eps 1–5).
-- **Review pages**: `node build/make_review.js key1,key2` generates fully isolated per-episode pages under `review/<key>-<token>/` (one-episode `episodes_data.js` slice; app.js/svg/audio referenced from root via `../../`; tokens persist in `build/review_tokens.json`). Live at `https://jinesch75.github.io/bp-podcast/review/<slug>/` after push.
+- **Review pages**: `node build/make_review.js key1,key2` generates fully isolated per-episode pages under `review/<key>-<token>/` (one-episode `episodes_data.js` slice; app.js/svg/audio referenced from root via `../../`; tokens persist in `build/review_tokens.json`). Live at `https://bp-podcast-production.up.railway.app/review/<slug>/` after push.
 
 ## Episodes (42 so far)
 
