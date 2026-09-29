@@ -12,6 +12,12 @@ Open `index.html` in a browser — it's a static site, no server needed.
 
 The site is served by **Railway** (project "proactive-fulfillment", service `bp-podcast`), auto-deployed from the GitHub repo `jinesch75/bp-podcast` (branch `main`) on every push. Live URL: https://bp-podcast-production.up.railway.app/ — GitHub Pages is NOT used. If a push doesn't show up, check the Railway dashboard: when deploys are paused ("Limited Access"), the site stays online with the last successful deployment.
 
+## Browser caching (added 2026-09-29)
+
+File names never change, so browsers may keep playing/using an old cached copy after a deploy. Two safeguards:
+- **Audio:** `audioForLang()` in `app.js` requests `podcast_<key>[_<lang>].mp3?v=<duration>`. A re-recorded mp3 always gets a new duration, so no manual step is needed.
+- **Data + code:** `index.html` loads `episodes_data.js?v=…` and `app.js?v=…`. After changing either file, run `node build/bump_version.js` (update_audio_elevenlabs.js does it automatically), then `node build/make_review.js <key>` for review pages you share.
+
 ## Files
 
 - `index.html` — page structure + CSS (registration, episode list, player+transcript, quiz, results, certificate).

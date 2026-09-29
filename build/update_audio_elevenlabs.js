@@ -86,3 +86,5 @@ for (const p of plan) {
 }
 fs.writeFileSync(DATA, serialize(EPISODES));
 console.log('episodes_data.js updated (timings + durations only).');
+// new ?v= on the index.html script tags so browsers load the new episodes_data.js
+execFileSync(process.execPath, [path.join(__dirname, 'bump_version.js')], { stdio: 'inherit' });

@@ -304,7 +304,13 @@ function epNumber(ep) {
 }
 // Which language the playing audio is in (the site language if a native track exists, else English).
 function audioLangFor(ep) { return ep['audio_' + currentLang] ? currentLang : 'en'; }
-function audioForLang(ep) { var l = audioLangFor(ep); return l === 'en' ? ep.audio : ep['audio_' + l]; }
+// ?v=<duration> busts browser caches: a re-recorded mp3 keeps its file name but always gets a new duration.
+function audioForLang(ep) {
+  var l = audioLangFor(ep);
+  var src = l === 'en' ? ep.audio : ep['audio_' + l];
+  var dur = l === 'en' ? ep.duration : ep['duration_' + l];
+  return (src && dur) ? src + '?v=' + dur : src;
+}
 // The displayed script can be karaoke-synced to the audio when its timestamps match that audio:
 //  - same language as the audio, or
 //  - the audio is English and that script has no native track (its segments are aligned to the English audio).
