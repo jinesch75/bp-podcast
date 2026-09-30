@@ -6,3 +6,4 @@ build/el_cache/
 build/el_test/
 __pycache__/
 build/__pycache__/
+archive/**/*.mp3

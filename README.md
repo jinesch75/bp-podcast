@@ -46,7 +46,6 @@ a personal certificate.
 39. The Luxembourg Space Agency – A Small Country Reaching for the Stars
 40. Lifelong Learning – It's Never Too Late to Learn
 41. The Pensiounskeess: How Your Pension Works in Luxembourg
-42. Clarvia – Guiding Families Through What Comes Next
 
 ## How it works
 - Open `index.html` in a browser. It's a static site — no server needed.
