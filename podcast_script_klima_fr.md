@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Bonjour, et bienvenue à nouveau ! C'est un vrai plaisir de vous avoir avec nous aujourd'hui.
-**TOM:** Bonjour à toutes et à tous !
-**ANNA:** Cet épisode fait partie du Biergerpakt. C'est un programme sur le vivre-ensemble au Luxembourg. L'idée est simple... nous voulons aider les résidents, et aussi les travailleurs frontaliers, à se sentir davantage chez eux ici, et à profiter pleinement du pays.
+**ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
+**TOM:** Bonjour à tous !
+**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
 **TOM:** Et aujourd'hui, nous abordons un sujet qui préoccupe beaucoup de monde... l'énergie, le climat, et nos logements.
 **ANNA:** Pensez-y. Les factures de chauffage, l'isolation, les panneaux solaires, les voitures électriques, les aides... cela peut sembler beaucoup à comprendre.
 **TOM:** Et cela paraît souvent coûteux, et compliqué. Par où commencer ?
@@ -88,9 +88,9 @@
 **TOM:** Et cinquièmement... méfiez-vous de quiconque utilise abusivement leur nom pour vous vendre quelque chose. Le vrai service est gratuit.
 **ANNA:** L'énergie et le climat peuvent sembler des sujets immenses et lointains. Mais ils commencent à la maison, par de petits pas réalisables.
 **TOM:** Et vous n'avez pas à tout comprendre seul. Une aide gratuite, bienveillante et experte vous attend.
-**ANNA:** Merci beaucoup de nous avoir écoutés aujourd'hui.
-**TOM:** Prenez soin de vous, et à bientôt dans le prochain épisode. Äddi !
-**ANNA:** Äddi !
+**ANNA:** C'était notre épisode sur la Klima-Agence. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
+**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---
 

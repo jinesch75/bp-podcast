@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hello, and welcome back! It's lovely to have you with us today.
+**ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
-**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. So that they can connect, exchange ideas and feel at home. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
 **TOM:** And today, we are going to understand the country through numbers.
 **ANNA:** Yes! How many people live here, how prices change, how the economy is doing. Facts and figures about Luxembourg.
 **TOM:** And there is one official organisation whose whole job is to measure and share these numbers. It is called STATEC.
@@ -63,10 +63,8 @@
 **ANNA:** Numbers can feel cold. But behind every figure is a real story about real people in this country.
 **TOM:** And having honest, shared facts is one of the quiet foundations of a healthy democracy.
 
-**ANNA:** That was our episode about STATEC and the Statistics Portal. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.
-
+**ANNA:** That was our episode about STATEC and the statistics portal. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
-
 **ANNA:** Thank you so much for listening.
 
 ---

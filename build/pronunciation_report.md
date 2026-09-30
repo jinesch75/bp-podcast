@@ -8,18 +8,19 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 | Language | Sentences changed |
 |---|---|
 | EN | 561 |
-| FR | 531 |
-| DE | 456 |
+| FR | 562 |
+| DE | 534 |
 
 ## Most frequent changes
 
 | Lang | Written | Spoken | Count |
 |---|---|---|---|
 | EN | biergerpakt.lu | biergerpakt dot L-U | 84 |
-| FR | Äddi | Addi | 49 |
-| DE | ADEM | Adem | 47 |
+| FR | biergerpakt.lu | biergerpakt point L-U | 84 |
+| DE | biergerpakt.lu | biergerpakt Punkt L-U | 84 |
+| DE | ADEM | Adem | 48 |
 | EN | ADEM | Adem | 45 |
-| FR | l'ADEM | l'Adem | 39 |
+| FR | l'ADEM | l'Adem | 40 |
 | EN | REVIS | Revis | 28 |
 | FR | REVIS | Revis | 28 |
 | EN | l-u | L-U | 27 |
@@ -38,40 +39,38 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 | DE | ONIS | Onis | 19 |
 | EN | ONIS | Onis | 18 |
 | EN | SYVICOL | Syvicol | 18 |
+| FR | SYVICOL | Syvicol | 18 |
+| DE | SYVICOL | Syvicol | 18 |
 | EN | CNS | C-N-S | 17 |
 | FR | CNS | C-N-S | 17 |
 | FR | SNJ | S-N-J | 17 |
-| FR | SYVICOL | Syvicol | 17 |
+| FR | STATEC | Statec | 17 |
 | DE | CNS | C-N-S | 17 |
 | DE | SNJ | S-N-J | 17 |
-| DE | SYVICOL | Syvicol | 17 |
+| DE | STATEC | Statec | 17 |
 | EN | CNAP | C-N-A-P | 16 |
 | EN | SNJ | S-N-J | 16 |
 | EN | Zukunftskeess | Tsoo-koonfts-kayss | 16 |
 | FR | CNAP | C-N-A-P | 16 |
-| FR | STATEC | Statec | 16 |
 | FR | Zukunftskeess | Tsoukounftskéss | 16 |
 | DE | CNAP | C-N-A-P | 16 |
-| DE | STATEC | Statec | 16 |
 | EN | CGDIS | C-G-D-I-S | 15 |
 | EN | STATEC | Statec | 15 |
-| FR | CGDIS | C-G-D-I-S | 14 |
+| FR | CGDIS | C-G-D-I-S | 15 |
+| DE | CGDIS | C-G-D-I-S | 15 |
 | DE | ONE | O-N-E | 14 |
-| DE | CGDIS | C-G-D-I-S | 14 |
 | FR | l'ONIS | l'Onis | 13 |
 | EN | ONE | O-N-E | 12 |
-| FR | biergerpakt.lu | biergerpakt point L-U | 12 |
-| DE | biergerpakt.lu | biergerpakt Punkt L-U | 12 |
+| DE | AAA | A-A-A | 12 |
 | EN | AAA | A-A-A | 11 |
 | FR | l'ONE | l'O-N-E | 11 |
-| DE | AAA | A-A-A | 11 |
 | EN | ID | I-D | 10 |
 | EN | LU-Alert | L-U Alert | 9 |
 | EN | SMS | S-M-S | 9 |
+| FR | l'AAA | l'A-A-A | 9 |
 | FR | L'ADEM | L'Adem | 9 |
 | FR | SMS | S-M-S | 9 |
 | DE | SMS | S-M-S | 9 |
-| FR | l'AAA | l'A-A-A | 8 |
 | FR | LU-Alert | L-U Alert | 8 |
 | EN | benevolat.lu | benevolat dot L-U | 7 |
 | EN | 1-1-2 | one-one-two | 7 |
@@ -80,22 +79,23 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 | FR | benevolat.lu | benevolat point L-U | 7 |
 | FR | 1-1-2 | cent-douze | 7 |
 | FR | DSP | D-S-P | 7 |
+| FR | GOVCERT.LU | Gov-Cert point L-U | 7 |
 | DE | benevolat.lu | benevolat Punkt L-U | 7 |
 | DE | 1-1-2 | eins-eins-zwei | 7 |
 | DE | DSP | D-S-P | 7 |
+| DE | GOVCERT.LU | Gov-Cert Punkt L-U | 7 |
 | DE | LU-Alert | L-U Alert | 7 |
 | EN | CV | C-V | 6 |
 | EN | LISER | Liser | 6 |
 | FR | CV | C-V | 6 |
-| FR | GOVCERT.LU | Gov-Cert point L-U | 6 |
 | FR | LISER | Liser | 6 |
-| DE | GOVCERT.LU | Gov-Cert Punkt L-U | 6 |
 | DE | LISER | Liser | 6 |
 | EN | accessibilite.lu | accessibilite dot L-U | 5 |
 | EN | ADEM's | Adem's | 5 |
 | EN | lu-alert | L-U dash Alert | 5 |
 | FR | accessibilite.lu | accessibilite point L-U | 5 |
 | FR | lu-alert | L-U tiret Alert | 5 |
+| FR | Zesumme Vereinfachen | Tsézoumeu Fèraïnnfarènn | 5 |
 | DE | accessibilite.lu | accessibilite Punkt L-U | 5 |
 | DE | EU | E-U | 5 |
 | DE | lu-alert | L-U Bindestrich Alert | 5 |
@@ -109,7 +109,6 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 | FR | L'Eltereforum | L'Eltèreu-forum | 4 |
 | FR | fns.lu | fns point L-U | 4 |
 | FR | BEE SECURE | Bee Secure | 4 |
-| FR | Zesumme Vereinfachen | Tsézoumeu Fèraïnnfarènn | 4 |
 | FR | cae.lu | cae point L-U | 4 |
 | DE | Guichet.lu | Guichet Punkt L-U | 4 |
 | DE | fns.lu | fns Punkt L-U | 4 |
@@ -124,6 +123,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 | EN | luxtrust.com | luxtrust dot com | 3 |
 | EN | FNR | F-N-R | 3 |
 | FR | clarvia.org | clarvia point org | 3 |
+| FR | Pensiounskeess | Pènnsiounskéss | 3 |
 | FR | c-n-a-p | C-N-A-P | 3 |
 | FR | Eltereforum | Eltèreu-forum | 3 |
 | FR | L'ONE | L'O-N-E | 3 |
@@ -156,7 +156,6 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 | FR | L'AAA | L'A-A-A | 2 |
 | FR | OSAPS | Osaps | 2 |
 | FR | PAS | pas | 2 |
-| FR | Pensiounskeess | Pènnsiounskéss | 2 |
 | FR | digital-inclusion.lu | digital-inclusion point L-U | 2 |
 | FR | l'Eltereforum | l'Eltèreu-forum | 2 |
 | FR | eltereforum.lu | Eltèreu-forum point L-U | 2 |
@@ -233,6 +232,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 | FR | CIS | C-I-S | 1 |
 | FR | CNIS | C-N-I-S | 1 |
 | FR | l'INFS | l'I-N-F-S | 1 |
+| FR | 112 | cent-douze | 1 |
 | FR | ASBL | A-S-B-L | 1 |
 | FR | l'AVC | l'A-V-C | 1 |
 | FR | l'IA | l'I-A | 1 |
@@ -276,6 +276,7 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 | DE | CIS | C-I-S | 1 |
 | DE | CNIS | C-N-I-S | 1 |
 | DE | INFS | I-N-F-S | 1 |
+| DE | 112 | eins-eins-zwei | 1 |
 | DE | ASBL | A-S-B-L | 1 |
 | DE | IT-Kurse | I-T-Kurse | 1 |
 | DE | KI | K-I | 1 |
@@ -319,8 +320,6 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### aaa (13)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** People know it by its initials in French... AAA, the Association d'assurance accident.  
   → People know it by its initials in French... A-A-A, the Association d'assurance accident.
 - **Tom:** So Anna, what exactly is the AAA?  
@@ -341,15 +340,15 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → The A-A-A's advice can help keep your workplace safe.
 - **Anna:** What should people remember about the AAA?  
   → What should people remember about the A-A-A?
-- **Anna:** That was our episode about The Accident Insurance (AAA).  
-  → That was our episode about The Accident Insurance (A-A-A).
+- **Anna:** That was our episode about the accident insurance, the AAA.  
+  → That was our episode about the accident insurance, the A-A-A.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### accessibilite (14)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** And that's why Luxembourg has built an official place online to bring it all together — a website called accessibilite dot l-u.  
   → And that's why Luxembourg has built an official place online to bring it all together — a website called accessibilite dot L-U.
 - **Anna:** accessibilite.lu.  
@@ -376,11 +375,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → accessibilite dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### adem (47)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** More precisely, we are talking about ADEM.  
   → More precisely, we are talking about Adem.
 - **Tom:** ADEM.  
@@ -473,11 +472,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → That was our episode about Adem.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### agriculture (8)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** The website is agriculture dot public dot lu.  
   → The website is agriculture dot public dot L-U.
 - **Tom:** One of the most important is known by its initials, ASTA.  
@@ -492,18 +491,18 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Second... specialised bodies support it... Asta for technical services, the wine institute in Remich, and a body for animal welfare and food safety.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### amenagement (2)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### benevolat (11)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** And the most useful thing for a listener is their website — benevolat.lu.  
   → And the most useful thing for a listener is their website — benevolat dot L-U.
 - **Anna:** benevolat.lu.  
@@ -524,20 +523,20 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → To start: think about what you enjoy, register on benevolat dot L-U, and offer your help.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### cepas (3)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** And fourth... these services connect with others, like the ONE, so help can be coordinated.  
   → And fourth... these services connect with others, like the O-N-E, so help can be coordinated.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### cgdis (26)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** The answer is an organisation called the CGDIS, and a number you must never forget... 1-1-2.  
   → The answer is an organisation called the C-G-D-I-S, and a number you must never forget... one-one-two.
 - **Anna:** In Luxembourg, in any emergency, you call 1-1-2.  
@@ -584,15 +583,15 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → First... the C-G-D-I-S is Luxembourg's national fire and rescue service, created in 2018.
 - **Tom:** Second... in any emergency, you call 1-1-2, free, any phone, day or night.  
   → Second... in any emergency, you call one-one-two, free, any phone, day or night.
-- **Anna:** That was our episode about CGDIS and 112.  
-  → That was our episode about C-G-D-I-S and one-one-two.
+- **Anna:** That was our episode about the CGDIS and the emergency number 112.  
+  → That was our episode about the C-G-D-I-S and the emergency number one-one-two.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### clarvia (7)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** Clarvia is a Luxembourg non-profit — an ASBL — founded in 2026.  
   → Clarvia is a Luxembourg non-profit — an A-S-B-L — founded in 2026.
 - **Tom:** An early version — they call it an alpha version — is already available on their website, clarvia.org.  
@@ -605,11 +604,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → It's free, it protects your privacy, and the first version is already on clarvia dot org.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### cnap (25)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** In Luxembourgish, people call it the Pensiounskeess — the pension fund.  
   → In Luxembourgish, people call it the Pen-see-ouns-kayss — the pension fund.
 - **Anna:** The CNAP.  
@@ -654,33 +653,33 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → One application at the C-N-A-P is enough.
 - **Tom:** And for everything — forms, the payment calendar, the reform news, the hotline — one address: c-n-a-p dot public dot l-u.  
   → And for everything — forms, the payment calendar, the reform news, the hotline — one address: C-N-A-P dot public dot L-U.
-- **Anna:** That was our episode about The Pensiounskeess.  
-  → That was our episode about The Pen-see-ouns-kayss.
+- **Anna:** That was our episode about the Pensiounskeess.  
+  → That was our episode about the Pen-see-ouns-kayss.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### culture (4)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** That's exactly where today's tool comes in... the culture portal, at culture dot lu.  
   → That's exactly where today's tool comes in... the culture portal, at culture dot L-U.
 - **Anna:** First... culture dot lu gathers Luxembourg's cultural life in one place, supported by the Ministry of Culture.  
   → First... culture dot L-U gathers Luxembourg's cultural life in one place, supported by the Ministry of Culture.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### demenz (2)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### digitalinclusion (10)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** Free IT classes, to teach people the basics and beyond.  
   → Free I-T classes, to teach people the basics and beyond.
 - **Tom:** They even have a Language Lab, including one that uses AI, to help people practise.  
@@ -699,11 +698,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → digital-inclusion dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### dsp_cns (32)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** And second, how you get your money back from the health insurance, the CNS.  
   → And second, how you get your money back from the health insurance, the C-N-S.
 - **Tom:** The DSP is a free, personal, and secure electronic health file.  
@@ -766,22 +765,22 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → That was our episode about your online health file and the C-N-S.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### eltereforum (4)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** The website is eltereforum.lu.  
   → The website is eltereforum dot L-U.
 - **Tom:** First, go to the website, eltereforum.lu.  
   → First, go to the website, eltereforum dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### enfance (15)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** So Tom, what is the ONE, and what does it do?  
   → So Tom, what is the O-N-E, and what does it do?
 - **Anna:** The ONE works with families, not against them.  
@@ -810,11 +809,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → What should people remember about the O-N-E?
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### environnement (5)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** Its friendly name is emwelt dot lu.  
   → Its friendly name is emwelt dot L-U.
 - **Anna:** How can someone use emwelt dot lu?  
@@ -823,18 +822,18 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → First... emwelt dot L-U is Luxembourg's one-stop environment portal, from the Ministry of the Environment, Climate and Biodiversity.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### ess (2)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### fns (40)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** The FNS is a public office whose whole job is to help people who are struggling financially.  
   → The F-N-S is a public office whose whole job is to help people who are struggling financially.
 - **Tom:** When someone's income is too low to live with dignity — because of a job loss, an illness, old age, a separation, or simply low pay — the FNS is there.  
@@ -913,11 +912,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → fns dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### fondseuropeens (8)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** The EU helps pay for useful projects in its member countries.  
   → The E-U helps pay for useful projects in its member countries.
 - **Tom:** So richer and less rich regions, big challenges and small ones... the EU invests to help everyone move forward together.  
@@ -932,11 +931,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → First... the E-U invests in member countries through its cohesion policy, and Luxembourg receives a share.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### geoportail (5)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** The website is geoportail dot lu.  
   → The website is geoportail dot L-U.
 - **Tom:** First, just open geoportail dot lu and explore.  
@@ -945,11 +944,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → First... geoportail dot L-U is Luxembourg's official, free online map platform, from the cadastre and topography administration.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### govcert (11)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** In Luxembourg, one of the key defenders is a team called GOVCERT.LU.  
   → In Luxembourg, one of the key defenders is a team called Gov-Cert dot L-U.
 - **Tom:** So Anna, what is GOVCERT.LU?  
@@ -970,22 +969,22 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → That was our episode about Gov-Cert dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### granderegion (4)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** Culture, tourism, shared heritage, UNESCO world-heritage sites all across the Region.  
   → Culture, tourism, shared heritage, Unesco world-heritage sites all across the Region.
 - **Tom:** And you can find it all at granderegion.net.  
   → And you can find it all at granderegion dot net.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### habitat (7)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** It has a key partner... a research institute called LISER.  
   → It has a key partner... a research institute called Liser.
 - **Tom:** LISER is the Luxembourg Institute of Socio-Economic Research.  
@@ -998,11 +997,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → You can explore prices by commune on data dot public dot L-U, and read clear reports.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### infosenior (7)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** Its home on the internet is a website — infosenior dot l-u.  
   → Its home on the internet is a website — infosenior dot L-U.
 - **Anna:** infosenior.lu.  
@@ -1015,20 +1014,20 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → infosenior dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### klima (3)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** The number is 8-0-0-2, 1-1, 9-0.  
   → The number is eight zero zero two, one one, nine zero.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### lll (6)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** The website is lifelong dash learning dot lu.  
   → The website is lifelong dash learning dot L-U.
 - **Tom:** It's the national portal for continuing training, run by the institute for continuing vocational training, the INFPC.  
@@ -1039,22 +1038,22 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → First... lifelong dash learning dot L-U is Luxembourg's national portal for continuing training, run by the I-N-F-P-C.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### logement (4)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** The website is logement dot public dot lu.  
   → The website is logement dot public dot L-U.
 - **Tom:** First... logement dot public dot lu is the Ministry of Housing's one-stop portal, for tenants, owners and communes.  
   → First... logement dot public dot L-U is the Ministry of Housing's one-stop portal, for tenants, owners and communes.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### lualert (24)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** It's called LU-Alert.  
   → It's called L-U Alert.
 - **Tom:** LU-Alert is what we call "multi-channel".  
@@ -1101,18 +1100,18 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → That was our episode about L-U Alert.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### luxinnovation (2)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### luxtrust (18)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** Think of it as the digital version of your ID card or your passport.  
   → Think of it as the digital version of your I-D card or your passport.
 - **Tom:** In real life, you show your ID card to prove who you are.  
@@ -1147,11 +1146,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → You get it through your bank or on luxtrust dot com, you prove your identity in person or by video, and you activate it — most easily with the Mobile app.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### maison_orientation (15)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** You can book an appointment, and it's done online — through MyGuichet.lu.  
   → You can book an appointment, and it's done online — through MyGuichet dot L-U.
 - **Tom:** *(laughs)* Yes, it keeps coming back, because it's the door to so many services.  
@@ -1180,11 +1179,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Book through MyGuichet dot L-U, or walk in, Monday to Friday.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### myguichet (12)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** It's called MyGuichet.lu.  
   → It's called MyGuichet dot L-U.
 - **Anna:** What is MyGuichet.lu?  
@@ -1207,11 +1206,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → That was our episode about MyGuichet dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### onis (37)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** ONIS.  
   → Onis.
 - **Anna:** Now Tom, in an earlier episode we talked about the National Solidarity Fund, and a benefit called REVIS — the social inclusion income.  
@@ -1284,11 +1283,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Onis.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### research (10)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** The second is the Luxembourg Institute of Science and Technology, often called LIST.  
   → The second is the Luxembourg Institute of Science and Technology, often called List.
 - **Anna:** LIST works on applied science and technology... materials, the environment, and digital tools that industry can use.  
@@ -1307,11 +1306,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Second... they include the University of Luxembourg, the institutes List, L-I-H and Liser, the funder F-N-R, and Luxinnovation.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### snj (25)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** The SNJ has a lovely motto in Luxembourgish... "Jonker staark maachen".  
   → The S-N-J has a lovely motto in Luxembourgish... "Jonker staark maachen".
 - **Tom:** So Anna, what exactly is the SNJ?  
@@ -1360,22 +1359,22 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → The S-N-J is walking beside them.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### space (4)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** The story starts back in 1985, when Luxembourg helped create a satellite company called SES.  
   → The story starts back in 1985, when Luxembourg helped create a satellite company called S-E-S.
 - **Tom:** SES became a world leader in beaming television and communications from space.  
   → S-E-S became a world leader in beaming television and communications from space.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### statec (23)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** It is called STATEC.  
   → It is called Statec.
 - **Anna:** STATEC is Luxembourg's national statistics institute.  
@@ -1416,15 +1415,15 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → First... Statec is Luxembourg's national statistics institute, independent and trustworthy, with the motto "we count because you count".
 - **Anna:** Third... all of it is free to explore on the portal, statistiques dot public dot lu.  
   → Third... all of it is free to explore on the portal, statistiques dot public dot L-U.
-- **Anna:** That was our episode about STATEC and the Statistics Portal.  
-  → That was our episode about Statec and the Statistics Portal.
+- **Anna:** That was our episode about STATEC and the statistics portal.  
+  → That was our episode about Statec and the statistics portal.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### syvicol (20)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** It is called SYVICOL.  
   → It is called Syvicol.
 - **Anna:** SYVICOL stands for the Syndicat des Villes et Communes Luxembourgeoises.  
@@ -1463,11 +1462,11 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → That was our episode about Syvicol.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### workinluxembourg (17)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** It was built together by the Ministry of the Economy, the Ministry of Labour, ADEM — which is the national employment agency — the Chamber of Commerce, the Chamber of Skilled Trades, and an agency called Luxinnovation.  
   → It was built together by the Ministry of the Economy, the Ministry of Labour, Adem — which is the national employment agency — the Chamber of Commerce, the Chamber of Skilled Trades, and an agency called Luxinnovation.
 - **Tom:** And here's the clever part — it's connected directly to ADEM's international recruitment platform.  
@@ -1500,18 +1499,18 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → workinluxembourg dot com.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### zesumme (2)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 ### zukunftskeess (27)
 
-- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
-  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 - **Tom:** It's called the Zukunftskeess.  
   → It's called the Tsoo-koonfts-kayss.
 - **Anna:** Zukunftskeess.  
@@ -1564,11 +1563,13 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → That was our episode about the Tsoo-koonfts-kayss.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
+- **Anna:** You simply need to join the Biergerpakt for free at biergerpakt.lu.  
+  → You simply need to join the Biergerpakt for free at biergerpakt dot L-U.
 
 
 ## FR
 
-### aaa (12)
+### aaa (13)
 
 - **Anna:** Les gens la connaissent par ses initiales en français... l'AAA, l'Association d'assurance accident.  
   → Les gens la connaissent par ses initiales en français... l'A-A-A, l'Association d'assurance accident.
@@ -1590,12 +1591,14 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Les conseils de l'A-A-A peuvent aider à garder votre lieu de travail en sécurité.
 - **Anna:** Que devraient retenir les gens au sujet de l'AAA ?  
   → Que devraient retenir les gens au sujet de l'A-A-A ?
-- **Anna:** Äddi !  
-  → Addi !
-- **Tom:** Äddi !  
-  → Addi !
+- **Anna:** C'était notre épisode sur l'assurance accident, l'AAA.  
+  → C'était notre épisode sur l'assurance accident, l'A-A-A.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### accessibilite (11)
+### accessibilite (13)
 
 - **Tom:** Et c'est pour ça que le Luxembourg a créé un endroit officiel en ligne pour tout rassembler — un site internet qui s'appelle accessibilite point l-u.  
   → Et c'est pour ça que le Luxembourg a créé un endroit officiel en ligne pour tout rassembler — un site internet qui s'appelle accessibilite point L-U.
@@ -1619,8 +1622,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Et les produits et services, le plus récent, issu de l'Acte européen sur l'accessibilité, applicable depuis juin 2025, surveillé par l'office Osaps — avec les entreprises privées désormais impliquées aussi.
 - **Anna:** accessibilite.lu.  
   → accessibilite point L-U.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### adem (44)
+### adem (46)
 
 - **Anna:** Plus précisément, nous parlons de l'ADEM.  
   → Plus précisément, nous parlons de l'Adem.
@@ -1708,8 +1715,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Et n'oubliez pas la règle de sécurité... l'Adem ne demande jamais de paiement.
 - **Anna:** L'ADEM est là pour marcher à vos côtés.  
   → L'Adem est là pour marcher à vos côtés.
-- **Anna:** Äddi!  
-  → Addi!
+- **Anna:** C'était notre épisode sur l'ADEM.  
+  → C'était notre épisode sur l'Adem.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### agriculture (8)
 
@@ -1725,22 +1736,20 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → D'abord... le portail de l'agriculture, agriculture point public point L-U, couvre l'agriculture, l'alimentation et le vin, du ministère de l'Agriculture, de l'Alimentation et de la Viticulture.
 - **Anna:** Ensuite... des organismes spécialisés le soutiennent... l'ASTA pour les services techniques, l'institut du vin à Remich, et un organisme pour le bien-être animal et la sécurité alimentaire.  
   → Ensuite... des organismes spécialisés le soutiennent... l'Asta pour les services techniques, l'institut du vin à Remich, et un organisme pour le bien-être animal et la sécurité alimentaire.
-- **Anna:** Äddi !  
-  → Addi !
-- **Tom:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### amenagement (2)
 
-- **Tom:** Äddi !  
-  → Addi !
-- **Anna:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### benevolat (10)
 
-- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
-  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 - **Tom:** Et la chose la plus utile pour un auditeur, c'est son site internet — benevolat.lu.  
   → Et la chose la plus utile pour un auditeur, c'est son site internet — benevolat point L-U.
 - **Anna:** benevolat.lu.  
@@ -1759,17 +1768,19 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Pour commencer : réfléchissez à ce que vous aimez, inscrivez-vous sur benevolat point L-U, et proposez votre aide.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### cepas (3)
 
 - **Tom:** Et quatrièmement... ces services sont en lien avec d'autres, comme l'ONE, afin que l'aide puisse être coordonnée.  
   → Et quatrièmement... ces services sont en lien avec d'autres, comme l'O-N-E, afin que l'aide puisse être coordonnée.
-- **Anna:** Äddi !  
-  → Addi !
-- **Tom:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### cgdis (25)
+### cgdis (26)
 
 - **Anna:** La réponse est une organisation appelée le CGDIS, et un numéro que vous ne devez jamais oublier... 1-1-2.  
   → La réponse est une organisation appelée le C-G-D-I-S, et un numéro que vous ne devez jamais oublier... cent-douze.
@@ -1817,15 +1828,15 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Premièrement... le C-G-D-I-S est le service national d'incendie et de secours du Luxembourg, créé en 2018.
 - **Tom:** Deuxièmement... en cas d'urgence, vous appelez le 1-1-2, gratuit, depuis n'importe quel téléphone, jour et nuit.  
   → Deuxièmement... en cas d'urgence, vous appelez le cent-douze, gratuit, depuis n'importe quel téléphone, jour et nuit.
-- **Tom:** Äddi !  
-  → Addi !
-- **Anna:** Äddi !  
-  → Addi !
+- **Anna:** C'était notre épisode sur le CGDIS et le numéro d'urgence 112.  
+  → C'était notre épisode sur le C-G-D-I-S et le numéro d'urgence cent-douze.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### clarvia (7)
 
-- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
-  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 - **Tom:** Clarvia est une association sans but lucratif luxembourgeoise — une ASBL — fondée en 2026.  
   → Clarvia est une association sans but lucratif luxembourgeoise — une A-S-B-L — fondée en 2026.
 - **Tom:** Une première version — ils l'appellent une version alpha — est déjà disponible sur leur site, clarvia.org.  
@@ -1838,8 +1849,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → C'est gratuit, ça protège votre vie privée, et la première version est déjà sur clarvia point org.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### cnap (22)
+### cnap (25)
 
 - **Tom:** En luxembourgeois, les gens l'appellent la Pensiounskeess — la caisse de pension.  
   → En luxembourgeois, les gens l'appellent la Pènnsiounskéss — la caisse de pension.
@@ -1885,6 +1898,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Une seule demande à la C-N-A-P suffit.
 - **Tom:** Et pour tout — les formulaires, le calendrier des paiements, les actualités de la réforme, la ligne téléphonique — une seule adresse : c-n-a-p point public point l-u.  
   → Et pour tout — les formulaires, le calendrier des paiements, les actualités de la réforme, la ligne téléphonique — une seule adresse : C-N-A-P point public point L-U.
+- **Anna:** C'était notre épisode sur la Pensiounskeess.  
+  → C'était notre épisode sur la Pènnsiounskéss.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### culture (4)
 
@@ -1892,19 +1911,19 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → C'est exactement là qu'intervient l'outil d'aujourd'hui... le portail culturel, à l'adresse culture point L-U.
 - **Anna:** D'abord... culture point lu rassemble la vie culturelle du Luxembourg en un seul endroit, soutenu par le ministère de la Culture.  
   → D'abord... culture point L-U rassemble la vie culturelle du Luxembourg en un seul endroit, soutenu par le ministère de la Culture.
-- **Tom:** Äddi!  
-  → Addi!
-- **Anna:** Äddi!  
-  → Addi!
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### demenz (2)
 
-- **Tom:** Äddi !  
-  → Addi !
-- **Anna:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### digitalinclusion (7)
+### digitalinclusion (9)
 
 - **Tom:** Votre ménage reçoit l'allocation de vie chère — l'AVC.  
   → Votre ménage reçoit l'allocation de vie chère — l'A-V-C.
@@ -1920,11 +1939,13 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Tout est sur digital-inclusion point L-U, et leur porte à Bonnevoie est ouverte tous les jours de la semaine.
 - **Anna:** digital-inclusion.lu.  
   → digital-inclusion point L-U.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### dsp_cns (32)
 
-- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
-  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 - **Tom:** Et ensuite, comment vous récupérez votre argent auprès de l'assurance maladie, la CNS.  
   → Et ensuite, comment vous récupérez votre argent auprès de l'assurance maladie, la C-N-S.
 - **Tom:** Le DSP est un dossier de santé électronique gratuit, personnel et sécurisé.  
@@ -1987,27 +2008,27 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → C'était notre épisode sur votre dossier de santé en ligne et la C-N-S.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### eltereforum (13)
 
-- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
-  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 - **Tom:** C'est un service qui s'appelle l'Eltereforum.  
   → C'est un service qui s'appelle l'Eltèreu-forum.
 - **Anna:** Eltereforum.  
   → Eltèreu-forum.
 - **Tom:** Donc Eltereforum, c'est littéralement un « forum des parents ».  
   → Donc Eltèreu-forum, c'est littéralement un « forum des parents ».
-- **Tom:** L'Eltereforum est généraliste.  
-  → L'Eltèreu-forum est généraliste.
+- **Tom:** L'Eltereforum est ouvert à tous.  
+  → L'Eltèreu-forum est ouvert à tous.
 - **Tom:** L'Eltereforum est là pour tout ça.  
   → L'Eltèreu-forum est là pour tout ça.
 - **Tom:** L'Eltereforum est coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse.  
   → L'Eltèreu-forum est coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse.
 - **Anna:** Bon, alors concrètement — que se passe-t-il vraiment dans un Eltereforum ?  
   → Bon, alors concrètement — que se passe-t-il vraiment dans un Eltèreu-forum ?
-- **Tom:** L'Eltereforum est généraliste — il ne propose pas de traitement spécialisé.  
-  → L'Eltèreu-forum est généraliste — il ne propose pas de traitement spécialisé.
+- **Tom:** L'Eltereforum est comme un médecin généraliste — il ne propose pas de traitement spécialisé.  
+  → L'Eltèreu-forum est comme un médecin généraliste — il ne propose pas de traitement spécialisé.
 - **Tom:** Le site est eltereforum.lu.  
   → Le site est Eltèreu-forum point L-U.
 - **Tom:** D'abord, allez sur le site, eltereforum.lu.  
@@ -2016,6 +2037,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → C'était notre épisode sur l'Eltèreu-forum.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### enfance (15)
 
@@ -2045,10 +2068,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Quatrièmement... vous pouvez commencer simplement, avec un formulaire de demande d'aide sur le site de l'O-N-E.
 - **Tom:** Que faut-il retenir au sujet de l'ONE ?  
   → Que faut-il retenir au sujet de l'O-N-E ?
-- **Tom:** Äddi !  
-  → Addi !
-- **Anna:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### environnement (5)
 
@@ -2058,19 +2081,19 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Comment peut-on utiliser emwelt point L-U ?
 - **Anna:** Premièrement... emwelt point lu est le portail unique de l'environnement du Luxembourg, du ministère de l'Environnement, du Climat et de la Biodiversité.  
   → Premièrement... emwelt point L-U est le portail unique de l'environnement du Luxembourg, du ministère de l'Environnement, du Climat et de la Biodiversité.
-- **Tom:** Äddi !  
-  → Addi !
-- **Anna:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### ess (2)
 
-- **Anna:** Äddi !  
-  → Addi !
-- **Tom:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### fns (38)
+### fns (40)
 
 - **Tom:** Le FNS est un organisme public dont tout le travail est d'aider les personnes qui rencontrent des difficultés financières.  
   → Le F-N-S est un organisme public dont tout le travail est d'aider les personnes qui rencontrent des difficultés financières.
@@ -2148,6 +2171,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Vous faites votre demande sur fns point L-U ou MyGuichet point L-U — et les bénéficiaires du Revis reçoivent l'allocation de vie chère automatiquement.
 - **Anna:** fns.lu.  
   → fns point L-U.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### fondseuropeens (11)
 
@@ -2169,10 +2196,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Donc l'U-E finance rarement la totalité.
 - **Tom:** Premièrement... l'UE investit dans les pays membres à travers sa politique de cohésion, et le Luxembourg reçoit une part.  
   → Premièrement... l'U-E investit dans les pays membres à travers sa politique de cohésion, et le Luxembourg reçoit une part.
-- **Anna:** Äddi !  
-  → Addi !
-- **Tom:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### geoportail (5)
 
@@ -2182,12 +2209,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → D'abord, ouvrez simplement geoportail point L-U et explorez.
 - **Anna:** Premièrement... geoportail point lu est la plateforme cartographique officielle, gratuite et en ligne du Luxembourg, de l'administration du cadastre et de la topographie.  
   → Premièrement... geoportail point L-U est la plateforme cartographique officielle, gratuite et en ligne du Luxembourg, de l'administration du cadastre et de la topographie.
-- **Tom:** Äddi !  
-  → Addi !
-- **Anna:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### govcert (10)
+### govcert (11)
 
 - **Anna:** Au Luxembourg, l'un des principaux défenseurs est une équipe appelée GOVCERT.LU.  
   → Au Luxembourg, l'un des principaux défenseurs est une équipe appelée Gov-Cert point L-U.
@@ -2205,17 +2232,23 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Pourquoi une organisation comme Gov-Cert point L-U est-elle importante pour les gens ordinaires ?
 - **Anna:** Que faut-il retenir au sujet de GOVCERT.LU ?  
   → Que faut-il retenir au sujet de Gov-Cert point L-U ?
-- **Anna:** Äddi!  
-  → Addi!
-- **Tom:** Äddi!  
-  → Addi!
+- **Anna:** C'était notre épisode sur GOVCERT.LU.  
+  → C'était notre épisode sur Gov-Cert point L-U.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### granderegion (2)
+### granderegion (4)
 
 - **Tom:** De la culture, du tourisme, un patrimoine partagé, des sites du patrimoine mondial de l'UNESCO partout dans la Région.  
   → De la culture, du tourisme, un patrimoine partagé, des sites du patrimoine mondial de l'Unesco partout dans la Région.
 - **Tom:** Et vous pouvez tout trouver sur granderegion.net.  
   → Et vous pouvez tout trouver sur granderegion point net.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### habitat (7)
 
@@ -2229,12 +2262,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Deuxièmement... il surveille les prix de vente, les loyers, le foncier, et le caractère réellement abordable du logement, avec l'aide de l'institut de recherche Liser.
 - **Anna:** Vous pouvez explorer les prix par commune sur data point public point lu, et lire des rapports clairs.  
   → Vous pouvez explorer les prix par commune sur data point public point L-U, et lire des rapports clairs.
-- **Tom:** Äddi !  
-  → Addi !
-- **Anna:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### infosenior (5)
+### infosenior (7)
 
 - **Tom:** Sa maison sur Internet est un site web — infosenior point l-u.  
   → Sa maison sur Internet est un site web — infosenior point L-U.
@@ -2246,15 +2279,19 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Info-Seniors, sur infosenior point L-U, est le portail d'information de l'État pour les personnes âgées au Luxembourg.
 - **Anna:** infosenior.lu.  
   → infosenior point L-U.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### klima (3)
 
 - **Tom:** Le numéro est le 8-0-0-2, 1-1, 9-0.  
   → Le numéro est le huit zéro zéro deux, un un, neuf zéro.
-- **Tom:** Äddi !  
-  → Addi !
-- **Anna:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### lll (6)
 
@@ -2266,10 +2303,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → D'abord, parcourez le catalogue sur lifelong tiret learning point L-U... cherchez par thème, ou par le métier que vous voulez.
 - **Tom:** Premièrement... lifelong tiret learning point lu est le portail national luxembourgeois de la formation continue, géré par l'INFPC.  
   → Premièrement... lifelong tiret learning point L-U est le portail national luxembourgeois de la formation continue, géré par l'I-N-F-P-C.
-- **Anna:** Äddi !  
-  → Addi !
-- **Tom:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### logement (4)
 
@@ -2277,15 +2314,13 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Le site est logement point public point L-U.
 - **Tom:** D'abord... logement point public point lu est le portail unique du Ministère du Logement, pour les locataires, les propriétaires et les communes.  
   → D'abord... logement point public point L-U est le portail unique du Ministère du Logement, pour les locataires, les propriétaires et les communes.
-- **Anna:** Äddi !  
-  → Addi !
-- **Tom:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### lualert (24)
 
-- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
-  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 - **Tom:** Ça s'appelle LU-Alert.  
   → Ça s'appelle L-U Alert.
 - **Tom:** LU-Alert est ce qu'on appelle « multicanal ».  
@@ -2332,15 +2367,17 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → C'était notre épisode sur L-U Alert.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### luxinnovation (2)
 
-- **Tom:** Äddi !  
-  → Addi !
-- **Anna:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### luxtrust (10)
+### luxtrust (12)
 
 - **Tom:** Avec LuxTrust, vous vous connectez à MyGuichet.lu.  
   → Avec LuxTrust, vous vous connectez à MyGuichet point L-U.
@@ -2362,8 +2399,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Le plus simple : demandez à votre banque, ou allez sur luxtrust point com, choisissez l'appli, commandez-la, faites-vous identifier, et activez-la.
 - **Tom:** Vous l'obtenez par votre banque ou sur luxtrust.com, vous prouvez votre identité en personne ou par vidéo, et vous l'activez — le plus facilement avec l'appli Mobile.  
   → Vous l'obtenez par votre banque ou sur luxtrust point com, vous prouvez votre identité en personne ou par vidéo, et vous l'activez — le plus facilement avec l'appli Mobile.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### maison_orientation (13)
+### maison_orientation (15)
 
 - **Tom:** Vous pouvez prendre un rendez-vous, et ça se fait en ligne — par MyGuichet.lu.  
   → Vous pouvez prendre un rendez-vous, et ça se fait en ligne — par MyGuichet point L-U.
@@ -2391,11 +2432,13 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Et si vous avez une question rapide, appelez la ligne gratuite, huit zéro zéro deux, huit un huit un.
 - **Tom:** Réservez par MyGuichet.lu, ou entrez, du lundi au vendredi.  
   → Réservez par MyGuichet point L-U, ou entrez, du lundi au vendredi.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### myguichet (10)
 
-- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
-  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 - **Tom:** Ça s'appelle MyGuichet.lu.  
   → Ça s'appelle MyGuichet point L-U.
 - **Anna:** Qu'est-ce que MyGuichet.lu ?  
@@ -2414,8 +2457,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → C'était notre épisode sur MyGuichet point L-U.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### onis (35)
+### onis (37)
 
 - **Tom:** ONIS.  
   → Onis.
@@ -2487,6 +2532,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Alors... que ce soit pour toi, ou pour quelqu'un qui te tient à cœur — souviens-toi, derrière le chèque du Revis, il y a aussi une main tendue.
 - **Anna:** ONIS.  
   → Onis.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### research (10)
 
@@ -2506,10 +2555,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Le F-N-R ne fait pas principalement de la recherche lui-même.
 - **Tom:** Deuxièmement... on y trouve l'Université du Luxembourg, les instituts LIST, LIH et LISER, le financeur FNR, et Luxinnovation.  
   → Deuxièmement... on y trouve l'Université du Luxembourg, les instituts List, L-I-H et Liser, le financeur F-N-R, et Luxinnovation.
-- **Tom:** Äddi !  
-  → Addi !
-- **Anna:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### snj (25)
 
@@ -2559,10 +2608,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Et quatrièmement... il écoute les jeunes, et encourage l'utilisation sûre de la technologie à travers Bee Secure.
 - **Tom:** Le SNJ marche à leurs côtés.  
   → Le S-N-J marche à leurs côtés.
-- **Tom:** Äddi !  
-  → Addi !
-- **Anna:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 ### space (4)
 
@@ -2570,12 +2619,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → L'histoire commence en 1985, lorsque le Luxembourg a contribué à créer une société de satellites appelée S-E-S.
 - **Tom:** SES est devenue un leader mondial de la diffusion de la télévision et des communications depuis l'espace.  
   → S-E-S est devenue un leader mondial de la diffusion de la télévision et des communications depuis l'espace.
-- **Anna:** Äddi !  
-  → Addi !
-- **Tom:** Äddi !  
-  → Addi !
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### statec (22)
+### statec (23)
 
 - **Tom:** Il s'appelle STATEC.  
   → Il s'appelle Statec.
@@ -2617,12 +2666,14 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → D'abord... le Statec est l'institut national de la statistique du Luxembourg, indépendant et digne de confiance, avec la devise « nous comptons parce que vous comptez ».
 - **Anna:** Ensuite... tout cela est gratuit à explorer sur le portail, statistiques point public point lu.  
   → Ensuite... tout cela est gratuit à explorer sur le portail, statistiques point public point L-U.
-- **Tom:** Äddi !  
-  → Addi !
-- **Anna:** Äddi !  
-  → Addi !
+- **Anna:** C'était notre épisode sur le STATEC et le portail des statistiques.  
+  → C'était notre épisode sur le Statec et le portail des statistiques.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### syvicol (19)
+### syvicol (20)
 
 - **Tom:** Elle s'appelle SYVICOL.  
   → Elle s'appelle Syvicol.
@@ -2658,12 +2709,14 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Que faut-il retenir au sujet du Syvicol ?
 - **Tom:** Et le SYVICOL contribue à maintenir ce niveau solide.  
   → Et le Syvicol contribue à maintenir ce niveau solide.
-- **Anna:** Äddi !  
-  → Addi !
-- **Tom:** Äddi !  
-  → Addi !
+- **Anna:** C'était notre épisode sur le SYVICOL.  
+  → C'était notre épisode sur le Syvicol.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### workinluxembourg (11)
+### workinluxembourg (13)
 
 - **Tom:** Il a été construit ensemble par le ministère de l'Économie, le ministère du Travail, l'ADEM — qui est l'agence nationale pour l'emploi —, la Chambre de commerce, la Chambre des métiers, et une agence qui s'appelle Luxinnovation.  
   → Il a été construit ensemble par le ministère de l'Économie, le ministère du Travail, l'Adem — qui est l'agence nationale pour l'emploi —, la Chambre de commerce, la Chambre des métiers, et une agence qui s'appelle Luxinnovation.
@@ -2687,8 +2740,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Son Job Board vous connecte à de vraies offres via l'Adem, et son Talent Desk offre un accompagnement personnalisé et humain.
 - **Tom:** Pour les métiers en pénurie, les professionnels hors UE peuvent même obtenir une immigration plus rapide.  
   → Pour les métiers en pénurie, les professionnels hors U-E peuvent même obtenir une immigration plus rapide.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### zesumme (6)
+### zesumme (7)
 
 - **Tom:** Il s'appelle Zesumme Vereinfachen.  
   → Il s'appelle Tsézoumeu Fèraïnnfarènn.
@@ -2698,12 +2755,14 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Ensuite... rendez-vous sur la plateforme Tsézoumeu Fèraïnnfarènn et partagez votre suggestion, dans votre propre langue.
 - **Tom:** Que faut-il retenir de Zesumme Vereinfachen ?  
   → Que faut-il retenir de Tsézoumeu Fèraïnnfarènn ?
-- **Tom:** Äddi!  
-  → Addi!
-- **Anna:** Äddi!  
-  → Addi!
+- **Anna:** C'était notre épisode sur Zesumme Vereinfachen.  
+  → C'était notre épisode sur Tsézoumeu Fèraïnnfarènn.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
-### zukunftskeess (25)
+### zukunftskeess (27)
 
 - **Tom:** Elle s'appelle la Zukunftskeess.  
   → Elle s'appelle la Tsoukounftskéss.
@@ -2753,13 +2812,17 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → La Tsoukounftskéss.
 - **Anna:** cae.lu.  
   → cae point L-U.
-- **Anna:** C'était notre épisode sur la Zukunftskeess, dans le cadre du Biergerpakt — le vivre-ensemble au Luxembourg, la découverte du pays, et l'attention les uns aux autres.  
-  → C'était notre épisode sur la Tsoukounftskéss, dans le cadre du Biergerpakt — le vivre-ensemble au Luxembourg, la découverte du pays, et l'attention les uns aux autres.
+- **Anna:** C'était notre épisode sur la Zukunftskeess.  
+  → C'était notre épisode sur la Tsoukounftskéss.
+- **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
+  → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
+- **Anna:** Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.  
+  → Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt point L-U.
 
 
 ## DE
 
-### aaa (10)
+### aaa (13)
 
 - **Anna:** Man kennt sie unter ihrem französischen Kürzel... AAA, die Association d'assurance accident.  
   → Man kennt sie unter ihrem französischen Kürzel... A-A-A, die Association d'assurance accident.
@@ -2781,8 +2844,14 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Die Ratschläge der A-A-A können helfen, Ihren Arbeitsplatz sicher zu halten.
 - **Anna:** Woran sollten sich die Menschen bei der AAA erinnern?  
   → Woran sollten sich die Menschen bei der A-A-A erinnern?
+- **Anna:** Das war unsere Folge über die Unfallversicherung, die AAA.  
+  → Das war unsere Folge über die Unfallversicherung, die A-A-A.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### accessibilite (11)
+### accessibilite (13)
 
 - **Tom:** Und deshalb hat Luxemburg einen offiziellen Ort im Internet geschaffen, um alles zusammenzubringen — eine Website mit dem Namen accessibilite Punkt l-u.  
   → Und deshalb hat Luxemburg einen offiziellen Ort im Internet geschaffen, um alles zusammenzubringen — eine Website mit dem Namen accessibilite Punkt L-U.
@@ -2806,8 +2875,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Und Produkte und Dienstleistungen, das neueste, aus dem European Accessibility Act (Europäisches Barrierefreiheitsgesetz), gültig seit Juni 2025, überwacht vom Amt Osaps — mit nun auch privaten Unternehmen, die einbezogen sind.
 - **Anna:** accessibilite.lu.  
   → accessibilite Punkt L-U.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### adem (39)
+### adem (42)
 
 - **Anna:** Genauer gesagt sprechen wir über die ADEM.  
   → Genauer gesagt sprechen wir über die Adem.
@@ -2887,8 +2960,14 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Und denken Sie an die Sicherheitsregel... die Adem verlangt niemals eine Zahlung.
 - **Anna:** Die ADEM ist da, um an Ihrer Seite zu gehen.  
   → Die Adem ist da, um an Ihrer Seite zu gehen.
+- **Anna:** Das war unsere Folge über die ADEM.  
+  → Das war unsere Folge über die Adem.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### agriculture (7)
+### agriculture (9)
 
 - **Tom:** Die Webseite ist agriculture Punkt public Punkt lu.  
   → Die Webseite ist agriculture Punkt public Punkt L-U.
@@ -2904,11 +2983,20 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Erstens... das Agrarportal, agriculture Punkt public Punkt L-U, deckt Landwirtschaft, Ernährung und Wein ab, vom Ministerium für Landwirtschaft, Ernährung und Weinbau.
 - **Anna:** Zweitens... spezialisierte Stellen unterstützen es... die ASTA für die technischen Dienste, das Weininstitut in Remich, und eine Stelle für das Tierwohl und die Lebensmittelsicherheit.  
   → Zweitens... spezialisierte Stellen unterstützen es... die Asta für die technischen Dienste, das Weininstitut in Remich, und eine Stelle für das Tierwohl und die Lebensmittelsicherheit.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### amenagement (2)
+
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
 ### benevolat (11)
 
-- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
-  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 - **Tom:** Und das Nützlichste für unsere Hörer ist ihre Website — benevolat.lu.  
   → Und das Nützlichste für unsere Hörer ist ihre Website — benevolat Punkt L-U.
 - **Anna:** benevolat.lu.  
@@ -2929,13 +3017,19 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Um anzufangen: Überlegen Sie, was Ihnen Freude macht, registrieren Sie sich auf benevolat Punkt L-U, und bieten Sie Ihre Hilfe an.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### cepas (1)
+### cepas (3)
 
 - **Tom:** Und viertens... diese Dienste sind mit anderen verbunden, wie dem ONE, damit die Hilfe koordiniert werden kann.  
   → Und viertens... diese Dienste sind mit anderen verbunden, wie dem O-N-E, damit die Hilfe koordiniert werden kann.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### cgdis (23)
+### cgdis (26)
 
 - **Anna:** Die Antwort ist eine Organisation namens CGDIS, und eine Nummer, die Sie niemals vergessen dürfen... 1-1-2.  
   → Die Antwort ist eine Organisation namens C-G-D-I-S, und eine Nummer, die Sie niemals vergessen dürfen... eins-eins-zwei.
@@ -2983,11 +3077,15 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Erstens... das C-G-D-I-S ist der nationale Brand- und Rettungsdienst Luxemburgs, gegründet 2018.
 - **Tom:** Zweitens... bei jedem Notfall rufen Sie die 1-1-2 an, kostenlos, von jedem Telefon, Tag und Nacht.  
   → Zweitens... bei jedem Notfall rufen Sie die eins-eins-zwei an, kostenlos, von jedem Telefon, Tag und Nacht.
+- **Anna:** Das war unsere Folge über das CGDIS und die Notrufnummer 112.  
+  → Das war unsere Folge über das C-G-D-I-S und die Notrufnummer eins-eins-zwei.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
 ### clarvia (7)
 
-- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
-  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 - **Tom:** Clarvia ist eine luxemburgische Non-Profit-Organisation — eine ASBL — gegründet im Jahr 2026.  
   → Clarvia ist eine luxemburgische Non-Profit-Organisation — eine A-S-B-L — gegründet im Jahr 2026.
 - **Tom:** Eine frühe Version — sie nennen sie eine Alpha-Version — ist schon auf ihrer Website verfügbar, clarvia.org.  
@@ -3000,8 +3098,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Es ist kostenlos, es schützt Ihre Privatsphäre, und die erste Version ist schon auf clarvia Punkt org.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### cnap (21)
+### cnap (23)
 
 - **Anna:** Die CNAP.  
   → Die C-N-A-P.
@@ -3045,15 +3145,30 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Ein Antrag bei der C-N-A-P genügt.
 - **Tom:** Und für alles — Formulare, den Zahlungskalender, die Nachrichten zur Reform, die Hotline — eine Adresse: c-n-a-p Punkt public Punkt l-u.  
   → Und für alles — Formulare, den Zahlungskalender, die Nachrichten zur Reform, die Hotline — eine Adresse: C-N-A-P Punkt public Punkt L-U.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### culture (2)
+### culture (4)
 
 - **Tom:** Genau hier kommt das heutige Werkzeug ins Spiel... das Kulturportal, unter culture Punkt lu.  
   → Genau hier kommt das heutige Werkzeug ins Spiel... das Kulturportal, unter culture Punkt L-U.
 - **Anna:** Erstens... culture Punkt lu bündelt Luxemburgs kulturelles Leben an einem Ort, unterstützt vom Kulturministerium.  
   → Erstens... culture Punkt L-U bündelt Luxemburgs kulturelles Leben an einem Ort, unterstützt vom Kulturministerium.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### digitalinclusion (8)
+### demenz (2)
+
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### digitalinclusion (10)
 
 - **Tom:** Kostenlose IT-Kurse, um den Menschen die Grundlagen und mehr beizubringen.  
   → Kostenlose I-T-Kurse, um den Menschen die Grundlagen und mehr beizubringen.
@@ -3071,11 +3186,13 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Alles steht auf digital-inclusion Punkt L-U, und ihre Tür in Bonnevoie ist an jedem Wochentag offen.
 - **Anna:** digital-inclusion.lu.  
   → digital-inclusion Punkt L-U.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
 ### dsp_cns (32)
 
-- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
-  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 - **Tom:** Und zweitens, wie Sie Ihr Geld von der Krankenkasse zurückbekommen, der CNS.  
   → Und zweitens, wie Sie Ihr Geld von der Krankenkasse zurückbekommen, der C-N-S.
 - **Tom:** Das DSP ist eine kostenlose, persönliche und sichere elektronische Gesundheitsakte.  
@@ -3138,19 +3255,21 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Das war unsere Folge über Ihre Online-Gesundheitsakte und die C-N-S.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
 ### eltereforum (4)
 
-- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
-  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 - **Tom:** Die Website ist eltereforum.lu.  
   → Die Website ist eltereforum Punkt L-U.
 - **Tom:** Gehen Sie zuerst auf die Website, eltereforum.lu.  
   → Gehen Sie zuerst auf die Website, eltereforum Punkt L-U.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### enfance (13)
+### enfance (15)
 
 - **Anna:** Also Tom, was ist das ONE und was macht es?  
   → Also Tom, was ist das O-N-E und was macht es?
@@ -3178,8 +3297,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Viertens... Sie können einfach beginnen, mit einem Hilfeantragsformular auf der Website des O-N-E.
 - **Tom:** Was sollten sich die Menschen über das ONE merken?  
   → Was sollten sich die Menschen über das O-N-E merken?
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### environnement (3)
+### environnement (5)
 
 - **Anna:** Sein vertrauter Name ist emwelt Punkt lu.  
   → Sein vertrauter Name ist emwelt Punkt L-U.
@@ -3187,8 +3310,19 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Wie kann jemand emwelt Punkt L-U nutzen?
 - **Anna:** Erstens... emwelt Punkt lu ist Luxemburgs zentrales Umweltportal, vom Ministerium für Umwelt, Klima und Biodiversität.  
   → Erstens... emwelt Punkt L-U ist Luxemburgs zentrales Umweltportal, vom Ministerium für Umwelt, Klima und Biodiversität.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### fns (38)
+### ess (2)
+
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### fns (40)
 
 - **Tom:** Der FNS ist eine öffentliche Stelle, deren ganze Aufgabe es ist, Menschen zu helfen, die finanziell in Schwierigkeiten sind.  
   → Der F-N-S ist eine öffentliche Stelle, deren ganze Aufgabe es ist, Menschen zu helfen, die finanziell in Schwierigkeiten sind.
@@ -3266,8 +3400,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Sie stellen Ihren Antrag auf fns Punkt L-U oder MyGuichet Punkt L-U — und Revis-Bezieher bekommen die Teuerungszulage automatisch.
 - **Anna:** fns.lu.  
   → fns Punkt L-U.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### fondseuropeens (9)
+### fondseuropeens (11)
 
 - **Tom:** Die EU hilft, nützliche Projekte in ihren Mitgliedsländern zu finanzieren.  
   → Die E-U hilft, nützliche Projekte in ihren Mitgliedsländern zu finanzieren.
@@ -3287,8 +3425,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Die E-U bezahlt also selten alles.
 - **Tom:** Erstens... die EU investiert über ihre Kohäsionspolitik in die Mitgliedsländer, und Luxemburg erhält einen Anteil.  
   → Erstens... die E-U investiert über ihre Kohäsionspolitik in die Mitgliedsländer, und Luxemburg erhält einen Anteil.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### geoportail (3)
+### geoportail (5)
 
 - **Tom:** Die Webseite ist geoportail Punkt lu.  
   → Die Webseite ist geoportail Punkt L-U.
@@ -3296,8 +3438,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Erstens, öffnen Sie einfach geoportail Punkt L-U und erkunden Sie.
 - **Anna:** Erstens... geoportail Punkt lu ist Luxemburgs offizielle, kostenlose Online-Kartenplattform, von der Kataster- und Topografieverwaltung.  
   → Erstens... geoportail Punkt L-U ist Luxemburgs offizielle, kostenlose Online-Kartenplattform, von der Kataster- und Topografieverwaltung.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### govcert (8)
+### govcert (11)
 
 - **Anna:** In Luxemburg ist einer der wichtigsten Verteidiger ein Team namens GOVCERT.LU.  
   → In Luxemburg ist einer der wichtigsten Verteidiger ein Team namens Gov-Cert Punkt L-U.
@@ -3315,15 +3461,25 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Warum ist eine Organisation wie Gov-Cert Punkt L-U für ganz normale Menschen wichtig?
 - **Anna:** Was sollten sich die Menschen über GOVCERT.LU merken?  
   → Was sollten sich die Menschen über Gov-Cert Punkt L-U merken?
+- **Anna:** Das war unsere Folge über GOVCERT.LU.  
+  → Das war unsere Folge über Gov-Cert Punkt L-U.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### granderegion (2)
+### granderegion (4)
 
 - **Tom:** Kultur, Tourismus, gemeinsames Erbe, UNESCO-Welterbestätten überall in der Region.  
   → Kultur, Tourismus, gemeinsames Erbe, Unesco-Welterbestätten überall in der Region.
 - **Tom:** Und das alles findest du auf granderegion.net.  
   → Und das alles findest du auf granderegion Punkt net.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### habitat (6)
+### habitat (8)
 
 - **Anna:** Es hat einen wichtigen Partner... ein Forschungsinstitut namens LISER.  
   → Es hat einen wichtigen Partner... ein Forschungsinstitut namens Liser.
@@ -3337,8 +3493,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Zweitens... es beobachtet Verkaufspreise, Mieten, Bauland und wie bezahlbar Wohnen wirklich ist, mit Hilfe des Forschungsinstituts Liser.
 - **Anna:** Sie können die Preise nach Gemeinde auf data Punkt public Punkt lu erkunden und klare Berichte lesen.  
   → Sie können die Preise nach Gemeinde auf data Punkt public Punkt L-U erkunden und klare Berichte lesen.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### infosenior (5)
+### infosenior (7)
 
 - **Tom:** Sein Zuhause im Internet ist eine Webseite — infosenior Punkt l-u.  
   → Sein Zuhause im Internet ist eine Webseite — infosenior Punkt L-U.
@@ -3350,13 +3510,21 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Info-Seniors, auf infosenior Punkt L-U, ist das Informationsportal des Staates für ältere Menschen in Luxemburg.
 - **Anna:** infosenior.lu.  
   → infosenior Punkt L-U.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### klima (1)
+### klima (3)
 
 - **Tom:** Die Nummer lautet 8-0-0-2, 1-1, 9-0.  
   → Die Nummer lautet acht null null zwei, eins eins, neun null.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### lll (4)
+### lll (6)
 
 - **Anna:** Die Website ist lifelong Bindestrich learning Punkt lu.  
   → Die Website ist lifelong Bindestrich learning Punkt L-U.
@@ -3366,18 +3534,24 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Erstens, durchstöbern Sie den Katalog auf lifelong Bindestrich learning Punkt L-U... suchen Sie nach Thema oder nach dem gewünschten Beruf.
 - **Tom:** Erstens... lifelong Bindestrich learning Punkt lu ist Luxemburgs nationales Portal für Weiterbildung, betrieben vom INFPC.  
   → Erstens... lifelong Bindestrich learning Punkt L-U ist Luxemburgs nationales Portal für Weiterbildung, betrieben vom I-N-F-P-C.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### logement (2)
+### logement (4)
 
 - **Tom:** Die Webseite lautet logement Punkt public Punkt lu.  
   → Die Webseite lautet logement Punkt public Punkt L-U.
 - **Tom:** Erstens... logement Punkt public Punkt lu ist das zentrale Portal des Wohnungsbauministeriums, für Mieter, Eigentümer und Gemeinden.  
   → Erstens... logement Punkt public Punkt L-U ist das zentrale Portal des Wohnungsbauministeriums, für Mieter, Eigentümer und Gemeinden.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
 ### lualert (24)
 
-- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
-  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 - **Tom:** Es heißt LU-Alert.  
   → Es heißt L-U Alert.
 - **Tom:** LU-Alert ist das, was man „Multi-Kanal" nennt.  
@@ -3424,8 +3598,17 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Das war unsere Folge über L-U Alert.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### luxtrust (11)
+### luxinnovation (2)
+
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### luxtrust (13)
 
 - **Tom:** Mit LuxTrust melden Sie sich bei MyGuichet.lu an.  
   → Mit LuxTrust melden Sie sich bei MyGuichet Punkt L-U an.
@@ -3449,8 +3632,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Der einfachste Weg: Fragen Sie Ihre Bank, oder gehen Sie auf luxtrust Punkt com, wählen Sie die App, bestellen Sie sie, lassen Sie sich identifizieren, und aktivieren Sie sie.
 - **Tom:** Sie bekommen es über Ihre Bank oder auf luxtrust.com, Sie beweisen Ihre Identität persönlich oder per Video, und Sie aktivieren es — am einfachsten mit der Mobile-App.  
   → Sie bekommen es über Ihre Bank oder auf luxtrust Punkt com, Sie beweisen Ihre Identität persönlich oder per Video, und Sie aktivieren es — am einfachsten mit der Mobile-App.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### maison_orientation (12)
+### maison_orientation (14)
 
 - **Tom:** Sie können einen Termin buchen, und das geht online — über MyGuichet.lu.  
   → Sie können einen Termin buchen, und das geht online — über MyGuichet Punkt L-U.
@@ -3476,11 +3663,13 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Und wenn Sie eine kurze Frage haben, rufen Sie die kostenlose Leitung an, acht null null zwei, acht eins acht eins.
 - **Tom:** Buchen Sie über MyGuichet.lu, oder gehen Sie hinein, von Montag bis Freitag.  
   → Buchen Sie über MyGuichet Punkt L-U, oder gehen Sie hinein, von Montag bis Freitag.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
 ### myguichet (9)
 
-- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
-  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 - **Tom:** Es heißt MyGuichet.lu.  
   → Es heißt MyGuichet Punkt L-U.
 - **Anna:** Was ist MyGuichet.lu?  
@@ -3497,8 +3686,10 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Das war unsere Folge über MyGuichet Punkt L-U.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### onis (35)
+### onis (37)
 
 - **Tom:** ONIS.  
   → Onis.
@@ -3570,8 +3761,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Also... ob für dich, oder für jemanden, der dir am Herzen liegt — denk daran, hinter dem Revis-Scheck steht auch eine helfende Hand.
 - **Anna:** ONIS.  
   → Onis.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### research (8)
+### research (10)
 
 - **Tom:** Der zweite ist das Luxembourg Institute of Science and Technology, oft LIST genannt.  
   → Der zweite ist das Luxembourg Institute of Science and Technology, oft List genannt.
@@ -3589,8 +3784,12 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Der F-N-R betreibt nicht hauptsächlich selbst Forschung.
 - **Tom:** Zweitens... dazu gehören die Universität Luxemburg, die Institute LIST, LIH und LISER, der Geldgeber FNR und Luxinnovation.  
   → Zweitens... dazu gehören die Universität Luxemburg, die Institute List, L-I-H und Liser, der Geldgeber F-N-R und Luxinnovation.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### snj (23)
+### snj (25)
 
 - **Anna:** Der SNJ hat ein schönes Motto auf Luxemburgisch... „Jonker staark maachen".  
   → Der S-N-J hat ein schönes Motto auf Luxemburgisch... „Jonker staark maachen".
@@ -3638,15 +3837,23 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Und viertens... er hört jungen Menschen zu und fördert die sichere Nutzung von Technologie durch Bee Secure.
 - **Tom:** Der SNJ geht an ihrer Seite.  
   → Der S-N-J geht an ihrer Seite.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### space (2)
+### space (4)
 
 - **Anna:** Die Geschichte beginnt im Jahr 1985, als Luxemburg mithalf, ein Satellitenunternehmen namens SES zu gründen.  
   → Die Geschichte beginnt im Jahr 1985, als Luxemburg mithalf, ein Satellitenunternehmen namens S-E-S zu gründen.
 - **Tom:** SES wurde zu einem Weltmarktführer für die Übertragung von Fernsehen und Kommunikation aus dem Weltraum.  
   → S-E-S wurde zu einem Weltmarktführer für die Übertragung von Fernsehen und Kommunikation aus dem Weltraum.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### statec (20)
+### statec (23)
 
 - **Tom:** Sie heißt STATEC.  
   → Sie heißt Statec.
@@ -3688,8 +3895,14 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Erstens... Statec ist das nationale Statistikinstitut Luxemburgs, unabhängig und vertrauenswürdig, mit dem Motto „wir zählen, weil Sie zählen".
 - **Anna:** Drittens... all das kann man kostenlos auf dem Portal erkunden, statistiques Punkt public Punkt lu.  
   → Drittens... all das kann man kostenlos auf dem Portal erkunden, statistiques Punkt public Punkt L-U.
+- **Anna:** Das war unsere Folge über das STATEC und das Statistikportal.  
+  → Das war unsere Folge über das Statec und das Statistikportal.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### syvicol (17)
+### syvicol (20)
 
 - **Tom:** Sie heißt SYVICOL.  
   → Sie heißt Syvicol.
@@ -3725,8 +3938,14 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Was sollten sich die Menschen über Syvicol merken?
 - **Tom:** Und SYVICOL hilft, diese Ebene stark zu halten.  
   → Und Syvicol hilft, diese Ebene stark zu halten.
+- **Anna:** Das war unsere Folge über den SYVICOL.  
+  → Das war unsere Folge über den Syvicol.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### workinluxembourg (15)
+### workinluxembourg (17)
 
 - **Tom:** Aufgebaut wurde es gemeinsam vom Wirtschaftsministerium, vom Arbeitsministerium, von ADEM — das ist die nationale Arbeitsagentur —, von der Handelskammer, der Handwerkskammer und einer Agentur namens Luxinnovation.  
   → Aufgebaut wurde es gemeinsam vom Wirtschaftsministerium, vom Arbeitsministerium, von Adem — das ist die nationale Arbeitsagentur —, von der Handelskammer, der Handwerkskammer und einer Agentur namens Luxinnovation.
@@ -3758,8 +3977,19 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Bei Mangelberufen können Fachkräfte von außerhalb der E-U sogar eine schnellere Einwanderung bekommen.
 - **Anna:** workinluxembourg.com.  
   → workinluxembourg Punkt com.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 
-### zukunftskeess (10)
+### zesumme (2)
+
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
+
+### zukunftskeess (12)
 
 - **Tom:** Ihr Zuhause im Internet ist c-a-e Punkt l-u.  
   → Ihr Zuhause im Internet ist C-A-E Punkt L-U.
@@ -3781,4 +4011,8 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
   → Die Zukunftskeess — die Zukunftskasse (Caisse pour l'avenir des enfants), cae Punkt L-U — ist die staatliche Stelle für Familienleistungen in Luxemburg.
 - **Anna:** cae.lu.  
   → cae Punkt L-U.
+- **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
+  → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
+- **Anna:** Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.  
+  → Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt Punkt L-U.
 

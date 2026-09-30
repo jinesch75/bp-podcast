@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hello, and welcome back! It's good to have you with us today.
+**ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
-**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. So that they can connect, exchange ideas and feel at home. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
 **TOM:** And today's topic is reassuring to understand before you ever need it... what happens if you get hurt at work, or on the way there.
 **ANNA:** Or even if your child has an accident at school.
 **TOM:** For all of that, Luxembourg has a special part of its social security... the Accident Insurance Association.
@@ -62,10 +62,8 @@
 **TOM:** We hope you never need it. But it's good to know it's there, quietly protecting you.
 **ANNA:** That's what social security is... a safety net we weave together, for one another.
 
-**ANNA:** That was our episode about The Accident Insurance (AAA). This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.
-
+**ANNA:** That was our episode about the accident insurance, the AAA. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
-
 **ANNA:** Thank you so much for listening.
 
 ---

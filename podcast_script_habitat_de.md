@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hallo und herzlich willkommen zurück! Es ist uns eine Freude, dass Sie heute bei uns sind.
+**ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
-**ANNA:** Diese Folge ist Teil des Biergerpakt. Das ist ein Programm über das Zusammenleben in Luxemburg. Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, das Land ein wenig besser zu verstehen.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 **TOM:** Und das heutige Thema ist eines, über das fast jeder in Luxemburg spricht... das Wohnen.
 **ANNA:** Wo man wohnen soll, wie viel es kostet, ob man mieten oder kaufen soll... das sind große Fragen, und große Zahlen.
 **TOM:** Aber hier ist etwas, das viele Menschen nicht wissen. Luxemburg hat eine offizielle Stelle, deren Aufgabe es ist, all das zu untersuchen... sorgfältig und mit echten Daten.
@@ -92,9 +92,9 @@
 **TOM:** Und fünftens... Sie können sie in Ihrem eigenen Leben nutzen, um bessere, ruhigere Wohnentscheidungen zu treffen.
 **ANNA:** Wohnen kann überwältigend wirken. Aber Sie sind nicht machtlos. Es gibt fundierte, ehrliche Informationen für Sie da draußen.
 **TOM:** Und zu wissen, wo man sie findet, ist die halbe Miete.
-**ANNA:** Vielen herzlichen Dank, dass Sie heute zugehört haben.
-**TOM:** Passen Sie auf sich auf, und bis zur nächsten Folge. Äddi!
-**ANNA:** Äddi!
+**ANNA:** Das war unsere Folge über das Observatoire de l'Habitat. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**ANNA:** Vielen Dank fürs Zuhören.
 
 ---
 

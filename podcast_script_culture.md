@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hello, and welcome back! It's wonderful to have you with us today.
+**ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
-**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. So that they can connect, exchange ideas and feel at home. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
 **TOM:** And few things bring people together like today's topic... culture.
 **ANNA:** Concerts, theatre, museums, festivals, exhibitions, dance, films, heritage.
 **TOM:** For a small country, Luxembourg has an astonishingly rich cultural life.
@@ -57,10 +57,8 @@
 **ANNA:** Culture is the soul of a country... the songs it sings, the stories it tells, the beauty it shares.
 **TOM:** And it belongs to everyone. So go and enjoy your share of it.
 
-**ANNA:** That was our episode about The Culture Portal. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.
-
+**ANNA:** That was our episode about the culture portal. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
-
 **ANNA:** Thank you so much for listening.
 
 ---

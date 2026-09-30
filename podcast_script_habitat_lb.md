@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Moien, a wëllkomm zréck! Et ass eng Freed, datt Dir haut bei eis sidd.
-**TOM:** Moien zesummen!
-**ANNA:** Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger hëllefen, d'Land e bësse besser ze verstoen.
+**ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
+**TOM:** Moien alleguer!
+**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
 **TOM:** An den Thema vun haut ass ee, iwwer dee bal jiddereen zu Lëtzebuerg schwätzt... d'Wunnen.
 **ANNA:** Wou wunnen, wéi vill kascht et, ob ee mécht oder kaft... dat sinn déi grouss Froen, an déi grouss Zuelen.
 **TOM:** Mä hei ass eppes, wat vill Leit net wëssen. Lëtzebuerg huet en offiziellen Organ, deem seng Aufgab et ass, dat alles z'ënnersichen... suergfälteg, a mat richtegen Donnéeën.
@@ -92,9 +92,9 @@
 **TOM:** A fënneftens... Dir kënnt et an Ärem eegene Liewe notzen, fir besser, méi roueg Wunnengsdecisiounen ze huelen.
 **ANNA:** D'Wunne kann iwwerwältegend wierken. Mä Dir sidd net hëlleflos. Et gëtt solid, éierlech Informatioun do baussen fir Iech.
 **TOM:** A wëssen, wou een se fënnt, ass schonn d'Halschent vun der Schluecht.
-**ANNA:** Merci villmools, datt Dir haut nogelauschtert hutt.
-**TOM:** Passt op iech op, a bis an der nächster Episod. Äddi!
-**ANNA:** Äddi!
+**ANNA:** Dat war eis Episod iwwer den Observatoire de l'Habitat. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
+**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---
 

@@ -6,11 +6,11 @@
 
 ---
 
-**ANNA :** Bonjour, et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
+**ANNA :** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 
-**TOM :** Bonjour à toutes et à tous !
+**TOM :** Bonjour à tous !
 
-**ANNA :** Cet épisode fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg. L'idée est simple... nous voulons aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou à le redécouvrir — et à rencontrer de nouvelles personnes.
+**ANNA :** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
 
 **TOM :** Exactement. Et le sujet d'aujourd'hui est, je crois, l'un des plus importants de tous. Il parle de solidarité — de l'aide qui est là quand la vie devient difficile.
 
@@ -190,11 +190,11 @@
 
 **TOM :** Un seul fonds, qui soutient tous ceux qui en ont besoin. C'est ça, la solidarité.
 
-**ANNA :** C'était notre épisode sur le Fonds national de solidarité, dans le cadre du Biergerpakt — le vivre-ensemble au Luxembourg, la découverte du pays, et le fait de veiller les uns sur les autres. Merci beaucoup de nous avoir écoutés.
+**ANNA :** C'était notre épisode sur le Fonds national de solidarité. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
 
-**TOM :** Merci à toutes et à tous. Prenez soin de vous... et à la prochaine !
+**TOM :** Merci à tous. Prenez soin de vous... et à la prochaine !
 
-**ANNA :** Au revoir !
+**ANNA :** Merci beaucoup de nous avoir écoutés.
 
 ---
 

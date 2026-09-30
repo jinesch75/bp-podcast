@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hallo und herzlich willkommen zurück! Schön, dass Sie heute wieder dabei sind.
+**ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
-**ANNA:** Diese Folge ist Teil des Biergerpakt. Das ist ein Programm über das Zusammenleben in Luxemburg. Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, sich sicher zu fühlen, auch im Internet.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 **TOM:** Und das heutige Thema ist unsichtbar, aber es schützt fast alles, was wir tun... die Cybersicherheit.
 **ANNA:** Denken Sie nur daran, wie viel im Leben heute über Computer läuft. Banken, Krankenhäuser, Strom, öffentliche Dienste.
 **TOM:** Würden diese Systeme angegriffen, könnte der Schaden riesig sein. Also muss jemand sie verteidigen.
@@ -59,9 +59,9 @@
 **ANNA:** Und viertens... achten Sie auf Phishing und befolgen Sie einfache Gewohnheiten, um online sicher zu bleiben.
 **TOM:** Die digitale Welt bringt wunderbare Dinge. Aber wie jede Stadt braucht sie Wächter.
 **ANNA:** Und zu wissen, dass sie da sind, und unseren eigenen kleinen Teil zu leisten, macht uns alle ein wenig sicherer.
-**TOM:** Vielen Dank, dass Sie heute zugehört haben.
-**ANNA:** Passen Sie auf sich auf, bleiben Sie online sicher, und bis zur nächsten Folge. Äddi!
-**TOM:** Äddi!
+**ANNA:** Das war unsere Folge über GOVCERT.LU. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**ANNA:** Vielen Dank fürs Zuhören.
 
 ---
 

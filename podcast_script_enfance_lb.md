@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Moien a wëllkomm zréck! Et freet eis, datt Dir haut dobäi sidd.
-**TOM:** Moien zesummen!
-**ANNA:** Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgängerfamiljen, hëllefen ze wëssen, wéi eng Ënnerstëtzung et hei gëtt.
+**ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
+**TOM:** Moien alleguer!
+**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
 **TOM:** An d'Thema vun haut ass e fürsorglecht... Ënnerstëtzung a Schutz fir Kanner, Jugendlecher a Familljen.
 **ANNA:** Mir schwätzen iwwer den Office National de l'Enfance. Op Englesch den National Childhood Office.
 **TOM:** Vill Leit kierzen et einfach mat senge Ufanksbuschtawen of... O, N, E.
@@ -76,9 +76,9 @@
 **TOM:** An als véiert... en ze erreechen ass einfach, iwwer véierzéng regional Büroen an en Hëllefsantragsformulaire.
 **ANNA:** Kanner grouszezéien ass eng vun de schwéiersten an de schéinsten Aufgaben, déi et gëtt. A keen sollt dat ouni Ënnerstëtzung maachen.
 **TOM:** Zu Lëtzebuerg huet dës Ënnerstëtzung en Numm... den Office National de l'Enfance.
-**ANNA:** Villmools Merci, datt Dir haut nogelauschtert hutt.
-**TOM:** Passt op Iech op, a bis an déi nächst Episod. Äddi!
-**ANNA:** Äddi!
+**ANNA:** Dat war eis Episod iwwer den Office national de l'enfance. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
+**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---
 

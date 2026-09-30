@@ -6,11 +6,11 @@
 
 ---
 
-**ANNA:** Moien an häerzlech wëllkomm! Et freet eis, datt Dir haut mat dobäi sidd.
+**ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 
 **TOM:** Moien alleguer!
 
-**ANNA:** Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen de Bierger, an och de Frontalieren, hëllefen, fir Lëtzebuerg z'entdecken — oder nei z'entdecken — an nei Leit kennenzeléieren.
+**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
 
 **TOM:** Genau. An d'Thema vun haut ass, mengen ech, ee vun de wichtegsten iwwerhaapt. Et geet ëm Solidaritéit — ëm d'Hëllef, déi do ass, wann d'Liewen schwéier gëtt.
 
@@ -190,11 +190,11 @@
 
 **TOM:** Ee Fong, deen jiddwereen hält, deen et brauch. Dat heescht Solidaritéit.
 
-**ANNA:** Dat war eis Episod iwwert den Nationale Solidaritéitsfong, Deel vum Biergerpakt — d'Zesummeliewen zu Lëtzebuerg, d'Land entdecken, an openee oppassen. Villmools merci fir d'Nolauschteren.
+**ANNA:** Dat war eis Episod iwwer den Nationale Solidaritéitsfong. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
 
-**TOM:** Merci alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
 
-**ANNA:** Äddi äddi!
+**ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---
 

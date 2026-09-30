@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Bonjour et bienvenue à nouveau ! C'est un plaisir de vous retrouver aujourd'hui.
-**TOM:** Bonjour à toutes et à tous !
-**ANNA:** Cet épisode fait partie du Biergerpakt. C'est un programme qui parle du vivre-ensemble au Luxembourg. L'idée est simple... nous voulons aider les résidents, ainsi que les frontaliers, à se sentir partie prenante de la vie du pays.
+**ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
+**TOM:** Bonjour à tous !
+**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
 **TOM:** Et peu de choses rassemblent autant les gens que le sujet d'aujourd'hui... la culture.
 **ANNA:** Concerts, théâtre, musées, festivals, expositions, danse, films, patrimoine.
 **TOM:** Pour un petit pays, le Luxembourg a une vie culturelle étonnamment riche.
@@ -56,9 +56,9 @@
 **TOM:** Et quatrièmement... il soutient le secteur culturel et vise à rendre la culture accessible à tous.
 **ANNA:** La culture est l'âme d'un pays... les chansons qu'il chante, les histoires qu'il raconte, la beauté qu'il partage.
 **TOM:** Et elle appartient à tout le monde. Alors allez-y et profitez de votre part de culture.
-**ANNA:** Merci beaucoup de nous avoir écoutés aujourd'hui.
-**TOM:** Prenez soin de vous, allez découvrir quelque chose, et à bientôt pour le prochain épisode. Äddi!
-**ANNA:** Äddi!
+**ANNA:** C'était notre épisode sur le portail de la culture. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
+**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---
 

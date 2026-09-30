@@ -10,7 +10,7 @@
 
 **TOM:** Hallo zusammen!
 
-**ANNA:** Diese Folge ist Teil des Biergerpakt. Das ist ein Programm für das Zusammenleben in Luxemburg. Die Idee ist einfach... wir möchten Einwohnern, und auch Grenzgängern, helfen, Luxemburg zu entdecken — oder neu zu entdecken — und neue Menschen kennenzulernen.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 
 **TOM:** Genau. Und heute sprechen wir über etwas, das jeden einzelnen Menschen betrifft, der in Luxemburg arbeitet. Den Ruhestand — und die Pension, die Sie bekommen, wenn Sie aufhören zu arbeiten.
 
@@ -190,11 +190,11 @@
 
 **TOM:** Und für alles — Formulare, den Zahlungskalender, die Nachrichten zur Reform, die Hotline — eine Adresse: c-n-a-p Punkt public Punkt l-u.
 
-**ANNA:** Wunderbar. Das ist das Ende unserer Reise durch das Pensionssystem. Danke fürs Zuhören — und denken Sie daran: Es ist nie zu früh, an Ihre Pension zu denken.
+**ANNA:** Das war unsere Folge über die Pensiounskeess. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
 
-**TOM:** Prüfen Sie diesen Laufbahnauszug! Machen Sie es gut — auf Wiedersehen!
+**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
 
-**ANNA:** Auf Wiedersehen!
+**ANNA:** Vielen Dank fürs Zuhören.
 
 ---
 

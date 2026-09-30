@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hello, and welcome back! It's wonderful to have you with us today.
+**ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
-**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. So that they can connect, exchange ideas and feel at home. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
 **TOM:** And today's topic might surprise you. It's about Luxembourg... and space.
 **ANNA:** Yes, space! Satellites, rockets, the stars. It sounds like something for big countries only.
 **TOM:** And yet, little Luxembourg is genuinely one of the world's space pioneers.
@@ -56,10 +56,8 @@
 **TOM:** It's a beautiful thought. A tiny country, looking up, and helping shape humanity's future among the stars.
 **ANNA:** And bringing real jobs, services and inspiration back down to Earth.
 
-**ANNA:** That was our episode about The Luxembourg Space Agency. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.
-
+**ANNA:** That was our episode about the Luxembourg Space Agency. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
-
 **ANNA:** Thank you so much for listening.
 
 ---

@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Bonjour, et bienvenue à nouveau ! Nous sommes ravis de vous avoir avec nous aujourd'hui.
-**TOM:** Bonjour à toutes et à tous !
-**ANNA:** Cet épisode fait partie du Biergerpakt. C'est un programme sur le vivre-ensemble au Luxembourg. L'idée est simple... nous voulons aider les résidents, et aussi les frontaliers, à mieux comprendre le pays.
+**ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
+**TOM:** Bonjour à tous !
+**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
 **TOM:** Et aujourd'hui, nous nous penchons sur une autre manière de faire des affaires... une manière où le profit n'est pas le seul objectif.
 **ANNA:** Quand nous pensons à une entreprise, nous pensons généralement à gagner de l'argent. Et c'est normal et nécessaire.
 **TOM:** Mais que se passerait-il si une entreprise existait surtout pour faire le bien... pour aider les gens, ou la planète ?
@@ -53,9 +53,9 @@
 **ANNA:** Et quatrièmement... le portail explique tout et aide les gens à créer ce type d'entreprise.
 **TOM:** L'argent est un outil puissant. Et quand nous le dirigeons vers le bien commun, des choses merveilleuses peuvent arriver.
 **ANNA:** Une économie plus bienveillante n'est pas un rêve. Elle est déjà là, à l'œuvre discrètement, tout autour de nous.
-**TOM:** Merci beaucoup de nous avoir écoutés aujourd'hui.
-**ANNA:** Prenez soin de vous, et à bientôt dans le prochain épisode. Äddi !
-**TOM:** Äddi !
+**ANNA:** C'était notre épisode sur l'économie sociale et solidaire. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
+**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---
 

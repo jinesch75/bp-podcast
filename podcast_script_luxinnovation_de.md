@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hallo und herzlich willkommen zurück! Es ist uns eine Freude, dass Sie heute bei uns sind.
+**ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
-**ANNA:** Diese Folge ist Teil des Biergerpakt. Das ist ein Programm über das Zusammenleben in Luxemburg. Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, das Land zu verstehen.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 **TOM:** Und heute schauen wir uns an, wie Luxemburg seine Zukunft aufbaut... durch Innovation.
 **ANNA:** Innovation bedeutet einfach, bessere Wege zu finden, Dinge zu tun... neue Produkte, neue Dienstleistungen, neue Ideen.
 **TOM:** So bleibt ein kleines Land wohlhabend und schafft gute Arbeitsplätze für die nächste Generation.
@@ -54,9 +54,9 @@
 **TOM:** Und viertens... sie stärkt ganze strategische Branchen, indem sie Wirtschaft und Forschung verbindet.
 **ANNA:** Die Zukunft eines Landes wird von den Menschen aufgebaut, die es wagen, Neues zu versuchen.
 **TOM:** Und Luxinnovation ist da, um ihnen zu helfen, eine kühne Idee Wirklichkeit werden zu lassen.
-**ANNA:** Vielen Dank, dass Sie heute zugehört haben.
-**TOM:** Passen Sie auf sich auf, bleiben Sie neugierig, und bis zur nächsten Folge. Äddi!
-**ANNA:** Äddi!
+**ANNA:** Das war unsere Folge über Luxinnovation. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**ANNA:** Vielen Dank fürs Zuhören.
 
 ---
 

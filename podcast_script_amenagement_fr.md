@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Bonjour, et bienvenue à nouveau ! Nous sommes ravis de vous retrouver aujourd'hui.
-**TOM:** Bonjour à toutes et à tous !
-**ANNA:** Cet épisode fait partie du Biergerpakt. C'est un programme sur le vivre-ensemble au Luxembourg. L'idée est simple... nous voulons aider les résidents, ainsi que les frontaliers, à comprendre comment le pays fonctionne.
+**ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
+**TOM:** Bonjour à tous !
+**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
 **TOM:** Et le sujet d'aujourd'hui façonne le pays que vous voyez autour de vous chaque jour... le sol.
 **ANNA:** Là où l'on construit de nouveaux logements, où passent les routes et les trams, où la nature est protégée, où les entreprises peuvent s'installer.
 **TOM:** Le Luxembourg est un petit pays. Le sol est précieux, et il y en a une quantité limitée.
@@ -58,9 +58,9 @@
 **TOM:** Et quatrièmement... il façonne votre cadre de vie quotidien, alors il vaut la peine de le suivre et d'y participer.
 **ANNA:** Le pays que nous transmettons n'est pas le fruit du hasard. C'est la somme d'innombrables choix réfléchis sur le sol.
 **TOM:** Et une bonne planification, c'est la façon dont nous faisons ces choix avec sagesse, ensemble.
-**ANNA:** Merci beaucoup de nous avoir écoutés aujourd'hui.
-**TOM:** Prenez soin de vous, et à bientôt pour le prochain épisode. Äddi !
-**ANNA:** Äddi !
+**ANNA:** C'était notre épisode sur l'aménagement du territoire. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
+**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---
 

@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Bonjour, et bienvenue à nouveau ! C'est un plaisir de vous avoir avec nous aujourd'hui.
-**TOM:** Bonjour à toutes et à tous !
-**ANNA:** Cet épisode fait partie du Biergerpakt. C'est un programme qui parle du vivre-ensemble au Luxembourg. L'idée est simple... nous voulons aider les résidents, ainsi que les travailleurs frontaliers, à mieux comprendre le pays.
+**ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
+**TOM:** Bonjour à tous !
+**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
 **TOM:** Et le sujet d'aujourd'hui est un thème dont presque tout le monde parle au Luxembourg... le logement.
 **ANNA:** Où habiter, combien ça coûte, faut-il louer ou acheter... ce sont de grandes questions, et de grands chiffres.
 **TOM:** Mais voici une chose que beaucoup de gens ignorent. Le Luxembourg dispose d'un organisme officiel dont le rôle est d'étudier tout cela... avec soin, et avec de vraies données.
@@ -92,9 +92,9 @@
 **TOM:** Et cinquièmement... vous pouvez l'utiliser dans votre propre vie, pour prendre de meilleures décisions, plus sereines, en matière de logement.
 **ANNA:** Le logement peut sembler accablant. Mais vous n'êtes pas démuni. Il existe une information solide et honnête, à votre disposition.
 **TOM:** Et savoir où la trouver, c'est déjà la moitié du chemin.
-**ANNA:** Merci beaucoup de nous avoir écoutés aujourd'hui.
-**TOM:** Prenez soin de vous, et à bientôt dans le prochain épisode. Äddi !
-**ANNA:** Äddi !
+**ANNA:** C'était notre épisode sur l'Observatoire de l'Habitat. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
+**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---
 

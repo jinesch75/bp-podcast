@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Bonjour, et bienvenue à nouveau ! C'est un plaisir de vous avoir avec nous aujourd'hui.
-**TOM:** Bonjour à toutes et à tous !
-**ANNA:** Cet épisode fait partie du Biergerpakt. C'est un programme sur le vivre-ensemble au Luxembourg. L'idée est simple... nous voulons aider les résidents, et aussi les frontaliers, à se sentir liés au pays.
+**ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
+**TOM:** Bonjour à tous !
+**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
 **TOM:** Et le sujet d'aujourd'hui nous concerne tous, trois fois par jour... l'alimentation.
 **ANNA:** Le pain sur votre table, les légumes dans votre assiette, le verre de vin un vendredi soir.
 **TOM:** Derrière tout cela, il y a l'agriculture, et les personnes qui prennent soin de la terre et des animaux.
@@ -67,9 +67,9 @@
 **ANNA:** Et quatrièmement... en choisissant une alimentation locale et de saison, nous jouons tous un rôle dans un système alimentaire sain.
 **TOM:** L'alimentation nous relie tous à la terre, et les uns aux autres.
 **ANNA:** Et connaître l'histoire derrière notre assiette nous aide à la valoriser, ainsi que les personnes qui la rendent possible.
-**TOM:** Merci beaucoup de nous avoir écoutés aujourd'hui.
-**ANNA:** Prenez soin de vous, mangez bien, et à bientôt dans le prochain épisode. Äddi !
-**TOM:** Äddi !
+**ANNA:** C'était notre épisode sur le portail de l'agriculture. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
+**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---
 

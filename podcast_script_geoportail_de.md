@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hallo und herzlich willkommen zurück! Es ist uns eine Freude, dass Sie heute bei uns sind.
+**ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
-**ANNA:** Diese Folge ist Teil des Biergerpakt. Das ist ein Programm über das Zusammenleben in Luxemburg. Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, nützliche Werkzeuge zu entdecken.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 **TOM:** Und das heutige Werkzeug ist eines, das Sie sofort öffnen können, kostenlos, und mit dem Sie viel Spaß haben können... Karten.
 **ANNA:** Wir alle benutzen Karten auf unseren Handys, um uns zurechtzufinden. Aber Luxemburg hat seinen eigenen offiziellen Kartendienst.
 **TOM:** Er heißt Geoportal. Die Webseite ist geoportail Punkt lu.
@@ -54,9 +54,9 @@
 **TOM:** Und viertens... ein großer Teil seiner Daten ist offen und beflügelt neue Anwendungen und Dienste.
 **ANNA:** Eine Karte ist mehr als Wegbeschreibungen. Sie ist eine Art, den Ort, den wir teilen, zu sehen und zu verstehen.
 **TOM:** Und diese ist direkt zur Hand, kostenlos, wann immer die Neugier zuschlägt.
-**ANNA:** Vielen Dank, dass Sie heute zugehört haben.
-**TOM:** Passen Sie auf sich auf, gehen Sie und erkunden Sie, und bis zur nächsten Folge. Äddi!
-**ANNA:** Äddi!
+**ANNA:** Das war unsere Folge über das Geoportal. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**ANNA:** Vielen Dank fürs Zuhören.
 
 ---
 

@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hallo und herzlich willkommen zurück! Schön, dass Sie heute dabei sind.
+**ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
-**ANNA:** Diese Folge ist Teil des Biergerpakt. Das ist ein Programm über das Zusammenleben in Luxemburg. Die Idee ist einfach... wir möchten den Einwohnerinnen und Einwohnern, und auch den Grenzgängern, helfen, sich im Alltag zurechtzufinden.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 **TOM:** Und nur wenige Themen sind so wichtig, oder so belastend, wie das heutige... das Wohnen.
 **ANNA:** Eine Wohnung finden, die Miete zahlen, vom Kaufen träumen, ein altes Haus renovieren.
 **TOM:** Das kann überwältigend wirken, und teuer sein. Aber es gibt mehr Hilfe, als viele Menschen ahnen.
@@ -53,9 +53,9 @@
 **ANNA:** Und viertens... es gibt eine zentrale Anlaufstelle für Wohnungsbeihilfen, und einen nationalen Vorstoß für bezahlbaren Wohnraum.
 **TOM:** Ein Zuhause ist mehr als vier Wände. Es ist Sicherheit, Würde, und ein Ort, um ein Leben aufzubauen.
 **ANNA:** Und zu wissen, welche Hilfen es gibt, kann das für viele Familien ein Stück näher bringen.
-**TOM:** Vielen Dank, dass Sie heute zugehört haben.
-**ANNA:** Passen Sie auf sich auf, und bis zur nächsten Folge. Äddi!
-**TOM:** Äddi!
+**ANNA:** Das war unsere Folge über das Wohnungsportal. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**ANNA:** Vielen Dank fürs Zuhören.
 
 ---
 

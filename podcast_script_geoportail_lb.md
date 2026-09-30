@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Moien, a wëllkomm zréck! Et ass eis eng Freed, datt Dir haut bei eis sidd.
-**TOM:** Moien zesummen!
-**ANNA:** Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, nëtzlech Hëllefsmëttelen z'entdecken.
+**ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
+**TOM:** Moien alleguer!
+**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
 **TOM:** An d'Hëllefsmëttel vun haut ass eent, dat Dir direkt opmaache kënnt, gratis, a mat deem Dir vill Spaass huele kënnt... Kaarten.
 **ANNA:** Mir benotzen all Kaarten op eise Smartphonen, fir eise Wee ze fannen. Mä Lëtzebuerg huet säin eegene offizielle Kaartendéngscht.
 **TOM:** Et heescht de Geoportal. D'Websäit ass geoportail Punkt lu.
@@ -54,9 +54,9 @@
 **TOM:** A véiertens... e grousse Deel vu sengen Donnéeën ass oppen a befligelt nei Applikatiounen an Déngschter.
 **ANNA:** Eng Kaart ass méi wéi Weebeschreiwungen. Et ass eng Manéier, fir d'Plaz, déi mir deelen, ze gesinn an ze verstoen.
 **TOM:** An dës ass direkt zur Hand, gratis, ëmmer wann d'Neigéier zouschléit.
-**ANNA:** Villmools Merci, datt Dir haut nogelauschtert hutt.
-**TOM:** Passt op Iech op, gitt entdecken, a bis an déi nächst Episod. Äddi!
-**ANNA:** Äddi!
+**ANNA:** Dat war eis Episod iwwer de Geoportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
+**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---
 

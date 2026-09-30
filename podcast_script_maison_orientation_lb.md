@@ -6,11 +6,11 @@
 
 ---
 
-**ANNA:** Moien, an häerzlech wëllkomm! Et ass wierklech schéin, datt Dir haut bei eis sidd.
+**ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 
-**TOM:** Moien zesummen!
+**TOM:** Moien alleguer!
 
-**ANNA:** Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm fir d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, Lëtzebuerg z'entdecken — oder nei z'entdecken — an nei Leit kennenzeléieren.
+**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
 
 **TOM:** Genau. An haut schwätze mir iwwer eng Plaz, déi Iech bei enger vun de grousse Froen am Liewen hëlleft — wat soll ech studéieren, oder wat fir eng Aarbecht soll ech maachen? Si heescht d'Maison de l'orientation.
 
@@ -166,11 +166,11 @@
 
 **TOM:** Wierklech. Gitt just eemol hin, mat äre Froen. Dir gitt mat engem méi kloere Wee fort.
 
-**ANNA:** Dat war eis Episod iwwer d'Maison de l'orientation, Deel vum Biergerpakt — d'Zesummeliewen zu Lëtzebuerg, d'Land entdecken, a säi Wee fannen. Villmools merci fir d'Nolauschteren.
+**ANNA:** Dat war eis Episod iwwer d'Maison de l'orientation. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
 
-**TOM:** Merci, jiddwereen. Passt op Iech op... a bis d'nächst Kéier!
+**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
 
-**ANNA:** Äddi äddi!
+**ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---
 

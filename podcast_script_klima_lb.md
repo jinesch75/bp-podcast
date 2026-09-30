@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Moien, a wëllkomm zréck! Et ass eng Freed, datt Dir haut bei eis sidd.
-**TOM:** Moien zesummen!
-**ANNA:** Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger hëllefen, sech hei méi doheem ze fillen, an d'Beschte vum Land erauszehuelen.
+**ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
+**TOM:** Moien alleguer!
+**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
 **TOM:** An haut kucke mer op en Thema, dat ville Leit am Kapp ass... d'Energie, de Klima, an eis Heiser.
 **ANNA:** Denkt emol drun. Heizkäschten, Isolatioun, Solarpanneauen, elektresch Autoen, Aiden... dat kann no ganz vill ausgesinn, fir alles ze verstoen.
 **TOM:** An et fillt sech dacks deier u, a komplizéiert. Wou fänkt ee iwwerhaapt un?
@@ -88,9 +88,9 @@
 **TOM:** A fënneftens... passt op jiddereen op, deen hiren Numm mëssbraucht, fir Iech eppes ze verkafen. De richtege Service ass gratis.
 **ANNA:** Energie a Klima kënnen no risege, wäite Themen ausgesinn. Mä si fänken doheem un, mat klengen, machbare Schrëtt.
 **TOM:** An Dir musst dat net alles eleng erausfannen. Et gëtt gratis, frëndlech, fachlech Hëllef, déi op Iech waart.
-**ANNA:** Merci villmools, datt Dir haut nogelauschtert hutt.
-**TOM:** Passt op iech op, a bis an der nächster Episod. Äddi!
-**ANNA:** Äddi!
+**ANNA:** Dat war eis Episod iwwer d'Klima-Agence. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
+**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---
 

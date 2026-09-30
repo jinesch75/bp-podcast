@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hallo und herzlich willkommen zurück! Schön, dass Sie heute bei uns sind.
+**ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
-**ANNA:** Diese Folge ist Teil des Biergerpakt. Das ist ein Programm über das Zusammenleben in Luxemburg. Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen zu verstehen, wie das Land funktioniert.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 **TOM:** Und das heutige Thema prägt das Land, das Sie jeden Tag um sich herum sehen... den Boden.
 **ANNA:** Wo neue Wohnungen gebaut werden, wo Straßen und Straßenbahnen verlaufen, wo die Natur geschützt wird, wo sich Unternehmen ansiedeln können.
 **TOM:** Luxemburg ist ein kleines Land. Boden ist kostbar, und es gibt nur begrenzt davon.
@@ -58,9 +58,9 @@
 **TOM:** Und viertens... sie prägt Ihr tägliches Umfeld, deshalb lohnt es sich, sie zu verfolgen und sich daran zu beteiligen.
 **ANNA:** Das Land, das wir weitergeben, ist kein Zufall. Es ist die Summe unzähliger sorgfältiger Entscheidungen über den Boden.
 **TOM:** Und gute Planung ist die Art und Weise, wie wir diese Entscheidungen klug treffen, gemeinsam.
-**ANNA:** Vielen Dank, dass Sie heute zugehört haben.
-**TOM:** Passen Sie auf sich auf, und bis zur nächsten Folge. Äddi!
-**ANNA:** Äddi!
+**ANNA:** Das war unsere Folge über die Raumplanung. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**ANNA:** Vielen Dank fürs Zuhören.
 
 ---
 

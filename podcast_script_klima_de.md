@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hallo und herzlich willkommen zurück! Es ist wunderbar, dass Sie heute bei uns sind.
+**ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
-**ANNA:** Diese Folge ist Teil des Biergerpakt. Das ist ein Programm über das Zusammenleben in Luxemburg. Die Idee ist einfach... wir möchten den Einwohnerinnen und Einwohnern, und auch den Grenzgängern, helfen, sich hier mehr zu Hause zu fühlen und das Beste aus dem Land zu machen.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 **TOM:** Und heute schauen wir uns ein Thema an, das vielen am Herzen liegt... Energie, das Klima und unsere Wohnungen.
 **ANNA:** Denken Sie nur einmal nach. Heizkosten, Dämmung, Solarmodule, Elektroautos, Beihilfen... das kann sich nach sehr viel anfühlen, das man verstehen muss.
 **TOM:** Und es wirkt oft teuer und kompliziert. Wo soll man überhaupt anfangen?
@@ -88,9 +88,9 @@
 **TOM:** Und fünftens... seien Sie vorsichtig bei jedem, der ihren Namen missbraucht, um Ihnen etwas zu verkaufen. Der echte Dienst ist kostenlos.
 **ANNA:** Energie und Klima können sich wie riesige, ferne Themen anfühlen. Aber sie beginnen zu Hause, mit kleinen, machbaren Schritten.
 **TOM:** Und Sie müssen das nicht alles allein herausfinden. Es wartet kostenlose, freundliche, fachkundige Hilfe auf Sie.
-**ANNA:** Vielen herzlichen Dank, dass Sie heute zugehört haben.
-**TOM:** Passen Sie auf sich auf, und bis zur nächsten Folge. Äddi!
-**ANNA:** Äddi!
+**ANNA:** Das war unsere Folge über die Klima-Agence. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**ANNA:** Vielen Dank fürs Zuhören.
 
 ---
 

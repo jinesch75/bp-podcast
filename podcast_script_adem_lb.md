@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Moien, a wëllkomm! Et ass wierklech flott, datt Dir haut erëm bei eis sidd.
-**TOM:** Moien zesummen!
-**ANNA:** Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger hëllefen, d'Land z'entdecken, a sech hei méi doheem ze fillen.
+**ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
+**TOM:** Moien alleguer!
+**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
 **TOM:** An haut schwätze mer iwwer eppes, wat bal jiddereen iergendwann a sengem Liewe betrëfft... d'Schaffen.
 **ANNA:** Méi genau schwätze mer iwwer d'ADEM.
 **TOM:** ADEM. Dir hutt de Numm vläicht schonn eng Kéier gesinn, vläicht op engem Bréif, oder bei engem vun hire Büroen. Mä wat ass dat genau?
@@ -105,8 +105,9 @@
 **ANNA:** An denkt un d'Sécherheetsreegel... d'ADEM freet ni no enger Bezuelung.
 **TOM:** Eng Jobsich kann sech stresseg ufillen. Mä d'Botschaft vun dëser Episod ass, datt s du et net eleng maache muss.
 **ANNA:** D'ADEM ass do, fir nieft der ze goen. Ee Schrëtt no deem aneren.
-**TOM:** Merci fir d'Nolauschteren, a passt op iech op.
-**ANNA:** Bis d'nächst Episod. Äddi!
+**ANNA:** Dat war eis Episod iwwer d'ADEM. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
+**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---
 

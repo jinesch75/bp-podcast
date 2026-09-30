@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hallo und herzlich willkommen zurück! Schön, dass Sie heute bei uns sind.
+**ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
-**ANNA:** Diese Folge ist Teil des Biergerpakt. Das ist ein Programm über das Zusammenleben in Luxemburg. Die Idee ist einfach... wir möchten Einwohnerinnen und Einwohnern, und auch Grenzgängern, helfen, das Land besser zu verstehen.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 **TOM:** Und heute schauen wir uns eine andere Art des Wirtschaftens an... eine, bei der der Gewinn nicht das einzige Ziel ist.
 **ANNA:** Wenn wir an ein Unternehmen denken, denken wir meist daran, Geld zu verdienen. Und das ist normal und notwendig.
 **TOM:** Aber was wäre, wenn ein Unternehmen vor allem dafür da wäre, Gutes zu tun... Menschen zu helfen oder dem Planeten?
@@ -53,9 +53,9 @@
 **ANNA:** Und viertens... das Portal erklärt das alles und hilft den Menschen, ein solches Unternehmen zu gründen.
 **TOM:** Geld ist ein mächtiges Werkzeug. Und wenn wir es auf das Gemeinwohl ausrichten, können wunderbare Dinge geschehen.
 **ANNA:** Eine freundlichere Wirtschaft ist kein Traum. Sie ist bereits da, leise am Wirken, überall um uns herum.
-**TOM:** Vielen Dank, dass Sie heute zugehört haben.
-**ANNA:** Passen Sie auf sich auf, und bis zur nächsten Folge. Äddi!
-**TOM:** Äddi!
+**ANNA:** Das war unsere Folge über die Sozial- und Solidarwirtschaft. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**ANNA:** Vielen Dank fürs Zuhören.
 
 ---
 

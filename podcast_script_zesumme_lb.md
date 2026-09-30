@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Moien, a wëllkomm zréck! Et ass schéin, datt Dir haut bei eis sidd.
-**TOM:** Moien zesummen!
-**ANNA:** Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, um Liewen am Land deelzehuelen.
+**ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
+**TOM:** Moien alleguer!
+**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
 **TOM:** A haut hu mir en Thema, dat éierlech gesot bal jiddereen ugeet... de Pabeierkrom.
 **ANNA:** Jo! Formulairen, Prozeduren, administrativ Schrëtt. Heiansdo sinn se einfach. An heiansdo... sinn se et net.
 **TOM:** Mir hunn all dee Moment scho gehat. E Formulaire dee zweemol no derselwechter Saach freet. E Schrëtt deen Iech denke léisst... firwat ass dat esou komplizéiert?
@@ -64,9 +64,9 @@
 **TOM:** A véiertens... si huet schonn gehollef richteg Servicer ze verbesseren, wéi d'MyGuichet-App.
 **ANNA:** De Pabeierkrom gëtt vläicht ni spannend. Mä d'Chance fir en ze vereinfachen, zesummen, ass wierklech stäerkend.
 **TOM:** Also d'nächst Kéier wann eppes ze komplizéiert schéngt, denkt drun... Är Stëmm kann hëllefen, et ze verbesseren.
-**ANNA:** Villmools Merci datt Dir haut nogelauschtert hutt.
-**TOM:** Passt op Iech op, a bis an der nächster Episod. Äddi!
-**ANNA:** Äddi!
+**ANNA:** Dat war eis Episod iwwer Zesumme Vereinfachen. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
+**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---
 

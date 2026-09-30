@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hello, and welcome back! It's good to have you with us today.
+**ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
-**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. So that they can connect, exchange ideas and feel at home. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
 **TOM:** And today's topic could, one day, save a life... including maybe your own.
 **ANNA:** We are talking about emergencies. A fire. A car accident. Someone who suddenly collapses.
 **TOM:** In those frightening moments, who comes to help? And how do you reach them?
@@ -83,10 +83,8 @@
 **ANNA:** Emergencies are frightening. But you are not alone. Behind that number, people are ready to come.
 **TOM:** And knowing how to reach them, calmly and clearly, is something every one of us can learn today.
 
-**ANNA:** That was our episode about CGDIS and 112. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.
-
+**ANNA:** That was our episode about the CGDIS and the emergency number 112. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
-
 **ANNA:** Thank you so much for listening.
 
 ---

@@ -6,11 +6,11 @@
 
 ---
 
-**ANNA:** Moien, a wëllkomm! Et freet eis ganz, datt Dir haut bei eis sidd.
+**ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 
-**TOM:** Moien zesummen!
+**TOM:** Moien alleguer!
 
-**ANNA:** Dës Episod ass en Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, Lëtzebuerg z'entdecken — oder nei z'entdecken — an nei Leit kennenzeléieren.
+**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
 
 **TOM:** Genau. An haut schwätze mir iwwer eppes, wat Dir bal iwwerall zu Lëtzebuerg um Internet brauch. Et heescht LuxTrust.
 
@@ -142,11 +142,11 @@
 
 **TOM:** Wierklech. E klengen Effort, fir et anzeriichten... an dann alles, vun Ärem Canapé.
 
-**ANNA:** Dat war eis Episod iwwer LuxTrust, en Deel vum Biergerpakt — d'Zesummeliewen zu Lëtzebuerg, d'Land z'entdecken, an nei Leit kennenzeléieren. Villmools merci fir d'Nolauschteren.
+**ANNA:** Dat war eis Episod iwwer LuxTrust. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
 
-**TOM:** Merci, zesummen. Passt op Iech op... a bis d'nächst Kéier!
+**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
 
-**ANNA:** Äddi!
+**ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---
 

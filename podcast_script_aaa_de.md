@@ -6,9 +6,9 @@
 
 ---
 
-**ANNA:** Hallo und herzlich willkommen zurück! Schön, dass Sie heute dabei sind.
+**ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
-**ANNA:** Diese Folge ist Teil des Biergerpakt. Das ist ein Programm über das Zusammenleben in Luxemburg. Die Idee ist einfach... wir möchten den Einwohnerinnen und Einwohnern, und auch den Grenzgängern, helfen, ihre Rechte und ihren Schutz zu kennen.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 **TOM:** Und das heutige Thema ist beruhigend zu verstehen, noch bevor Sie es jemals brauchen... was passiert, wenn Sie sich bei der Arbeit oder auf dem Weg dorthin verletzen?
 **ANNA:** Oder sogar, wenn Ihr Kind in der Schule einen Unfall hat.
 **TOM:** Für all das hat Luxemburg einen besonderen Teil seiner Sozialversicherung... die Unfallversicherung.
@@ -61,9 +61,9 @@
 **ANNA:** Und viertens... Unfälle müssen gemeldet werden, zunehmend über MyGuichet.
 **TOM:** Wir hoffen, dass Sie sie nie brauchen. Aber es ist gut zu wissen, dass sie da ist und Sie still beschützt.
 **ANNA:** Genau das ist die Sozialversicherung... ein Sicherheitsnetz, das wir gemeinsam knüpfen, füreinander.
-**TOM:** Vielen Dank, dass Sie heute zugehört haben.
-**ANNA:** Passen Sie auf sich auf, bleiben Sie sicher, und bis zur nächsten Folge. Äddi!
-**TOM:** Äddi!
+**ANNA:** Das war unsere Folge über die Unfallversicherung, die AAA. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**ANNA:** Vielen Dank fürs Zuhören.
 
 ---
 

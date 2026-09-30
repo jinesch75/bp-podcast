@@ -10,7 +10,7 @@
 
 **TOM:** Hallo zusammen!
 
-**ANNA:** Diese Folge ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg. Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, Luxemburg zu entdecken — oder wiederzuentdecken — und neue Menschen kennenzulernen.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 
 **TOM:** Genau. Und das Thema von heute betrifft früher oder später fast jede Familie. Es geht ums Älterwerden — und um einen Dienst, der Ihnen hilft, die richtige Unterstützung zu finden. Er heißt Info-Seniors.
 
@@ -158,11 +158,11 @@
 
 **TOM:** Wirklich. Eine Webseite, und ein ganzes Netz an Unterstützung dahinter.
 
-**ANNA:** Das war unsere Folge über Info-Seniors, Teil des Biergerpakt — das Zusammenleben in Luxemburg, das Entdecken des Landes, und das Füreinander-Da-Sein. Vielen Dank fürs Zuhören.
+**ANNA:** Das war unsere Folge über Info-Seniors. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
 
 **TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
 
-**ANNA:** Tschüss!
+**ANNA:** Vielen Dank fürs Zuhören.
 
 ---
 
