@@ -55,27 +55,10 @@ LANG_CODE = {"en": "en", "fr": "fr", "de": "de", "lb": "lb"}
 # Pronunciation fixes applied ONLY to the text sent to ElevenLabs (the transcript keeps the
 # written form). (regex, replacement) pairs per language. Editing these re-generates only the
 # sentences they touch (the cache key includes the spoken text).
-# General rule (Jacques, 2026-09-30): a web address ending in .lu is always spoken
-# "... dot L-U" (letters), never "lu" like the French word. Covers written addresses
-# (biergerpakt.lu, MyGuichet.lu, guichet.public.lu/...) and spelled-out ones already in the
-# scripts ("cae dot lu", "fns point lu", "Punkt lu").
-def _dot_lu(word):
-    return [(r"(\w)\.lu\b", r"\1 " + word + " L-U"),
-            (r"\b(" + word + r") lu\b", r"\1 L-U")]
-
-PRONUNCIATION = {
-    "en": _dot_lu("dot"),
-    "fr": _dot_lu("point"),
-    "de": _dot_lu("Punkt"),
-    "lb": _dot_lu("Punkt"),
-}
-
-
-def spoken(text, lang):
-    text = text.replace("**", "")
-    for pat, rep in PRONUNCIATION.get(lang, []):
-        text = re.sub(pat, rep, text)
-    return text
+# Pronunciation rules (all languages) live in build/pronunciation.py:
+# .lu addresses -> "dot L-U", acronyms, phone numbers, 112, stage directions, symbols ...
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from pronunciation import PRONUNCIATION, spoken  # noqa: E402
 
 
 # ---------- config ----------
