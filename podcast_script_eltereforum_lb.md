@@ -10,7 +10,7 @@
 
 **TOM:** Moien alleguer!
 
-**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren. Sou datt si sech kënne verbannen, Iddien austauschen a sech doheem fillen. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
+**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
 
 **TOM:** Genee. An dat haitegt Thema ass fir jiddereen, dee Kanner huet, oder dee geschwënn Kanner kritt. Et ass e Service, deen Eltereforum heescht.
 
@@ -20,11 +20,11 @@
 
 **ANNA:** E Forum fir Elteren. Also eng Plaz fir Elteren.
 
-**TOM:** Genee. Déi offiziell Beschreiwung ass ganz waarm. D'Eltereforen si wëllkommend Plaze fir Austausch, Informatioun an Ënnerstëtzung — fir all Elteren.
+**TOM:** Genee. Déi offiziell Beschreiwung ass ganz einluedend. D'Eltereforen si wëllkommend Plaze fir Austausch, Informatioun an Ënnerstëtzung — fir all Elteren.
 
-**ANNA:** Fir all Elteren. Also net nëmme fir Elteren mat Problemer?
+**ANNA:** Fir all Elteren. Also net nëmme fir Elteren, déi Schwieregkeeten hunn?
 
-**TOM:** Nee, nee — an dat ass wichteg. Et ass fir jiddereen. Den Eltereforum ass generalistesch. Et ass eng normal, frëndlech Plaz, wou all Elterendeel ka kommen, Froe stellen, eppes léieren, an aner Elteren treffen. Dir braucht kee speziellen Grond. Dir braucht kee Problem ze hunn.
+**TOM:** Nee, nee — an dat ass wichteg. Et ass fir jiddereen. Den Eltereforum ass op fir all. Et ass eng normal, frëndlech Plaz, wou all Elterendeel ka kommen, Froe stellen, eppes léieren, an aner Elteren treffen. Dir braucht kee speziellen Grond. Dir braucht kee bestëmmten Uleies ze hunn.
 
 **ANNA:** Gutt. Well heiansdo denken d'Leit: "Ech froen nëmmen no Hëllef, wann eppes schifleeft."
 
@@ -44,9 +44,9 @@
 
 **ANNA:** Staark Elteren, staark Kanner. Dat gefält mer. Okay, also praktesch — wat geschitt eigentlech an engem Eltereforum? Wat kann ech do maachen?
 
-**TOM:** Vill Saachen. Loosst mech déi wichtegst opzielen. Et ginn Elterentreffen — also Momenter, fir zesummenzekommen a sech mat aneren Elteren auszetauschen. Et ginn Elterecoursen — wéi kleng Course iwwer d'Erzéiung. Et ginn Aktivitéite fir Elteren zesumme mat hire Kanner. An et ginn Themenowender, Virträg a Konferenzen — zum Beispill en Owend iwwer de Schlof, oder iwwer digital Geräter, oder iwwer d'Liesen.
+**TOM:** Vill Saachen. Loosst mech déi wichtegst opzielen. Et ginn Elterentreffen — also Momenter, fir zesummenzekommen a sech mat aneren Elteren auszetauschen. Et ginn och Coursen, déi konkret Orientéierung zu verschiddenen Aspekter vun der Erzéiung ubidden. Et ginn Aktivitéite fir Elteren zesumme mat hire Kanner. An et ginn Themenowender, Virträg a Konferenzen — zum Beispill en Owend iwwer de Schlof, oder iwwer digital Geräter, oder iwwer d'Liesen.
 
-**ANNA:** Also Coursen, Owender, Treffen, an Eltere-Kand-Aktivitéiten.
+**ANNA:** Also Coursen, Owender, Treffen, an Aktivitéite fir Elteren an hir Kanner.
 
 **TOM:** Genee. Dat Ganzt ass sou opgebaut, datt Dir gutt Informatioune kritt, a gläichzäiteg eng Plaz hutt, fir aner Elteren a Professioneller ze treffen.
 
@@ -56,9 +56,9 @@
 
 **ANNA:** Wat ass, wann ech en eeschten, spezifesche Problem hunn? Kënne si alles behandelen?
 
-**TOM:** Dat ass e wichtege Punkt. Den Eltereforum ass generalistesch — e gëtt keng spezialiséiert Behandlung. Et ass keng Klinik a keen Therapiezentrum. Mä wann Dir eppes méi Spezifesches braucht, lauschtert d'Equipe Iech no a begleet Iech. Si weisen Iech de Wee zum richtege spezialiséierte Service. Also ass et och eng Dier — eng éischt Plaz, wou Dir higoe kënnt, an déi Iech an déi richteg Richtung schéckt.
+**TOM:** Dat ass e wichtege Punkt. Den Eltereforum ass wéi en Hausdokter — e gëtt keng spezialiséiert Behandlung. Et ass keng Klinik a keen Therapiezentrum. Mä wann Dir eppes méi Spezifesches braucht, lauschtert d'Equipe Iech no a begleet Iech. Si weisen Iech de Wee zum richtege spezialiséierte Service. Also ass et och eng Dier — eng éischt Plaz, wou Dir higoe kënnt, an déi Iech an déi richteg Richtung schéckt.
 
-**ANNA:** Also och wann si net alles léise kënnen, hëllefe si mer ze fannen, wien et kann.
+**ANNA:** Also och wa si mer bei engem bestëmmten Uleies net selwer hëllefe kënnen, si si gutt genuch vernetzt, fir een ze fannen, deen et kann.
 
 **TOM:** Genee. E frëndlechen éischte Schrëtt.
 
@@ -86,7 +86,7 @@
 
 **TOM:** Genee. Denkt drun als eng frëndlech Plaz, déi op Ärer Säit ass. Staark Elteren, staark Kanner.
 
-**ANNA:** Dat war eis Episod iwwer den Eltereforum. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt.
+**ANNA:** Dat war eis Episod iwwer den Eltereforum. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
 
 **TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
 

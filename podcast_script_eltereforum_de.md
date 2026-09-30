@@ -10,7 +10,7 @@
 
 **TOM:** Hallo zusammen!
 
-**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen. Damit sie sich vernetzen, Ideen austauschen und sich zu Hause fühlen können. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 
 **TOM:** Genau. Und das heutige Thema ist für alle, die Kinder haben, oder bald Kinder bekommen. Es geht um einen Dienst, der Eltereforum heißt.
 
@@ -20,11 +20,11 @@
 
 **ANNA:** Ein Elternforum. Also ein Ort für Eltern.
 
-**TOM:** Genau. Die offizielle Beschreibung ist sehr warmherzig. Die Elternforen sind einladende Orte für Austausch, Information und Unterstützung — für alle Eltern.
+**TOM:** Genau. Die offizielle Beschreibung ist sehr ansprechend. Die Elternforen sind einladende Orte für Austausch, Information und Unterstützung — für alle Eltern.
 
-**ANNA:** Für alle Eltern. Also nicht nur für Eltern mit Problemen?
+**ANNA:** Für alle Eltern. Also nicht nur für Eltern, die Schwierigkeiten haben?
 
-**TOM:** Nein, nein — und das ist wichtig. Es ist für alle. Das Eltereforum ist generalistisch. Es ist ein ganz normaler, freundlicher Ort, an den alle Eltern kommen können, um Fragen zu stellen, etwas zu lernen und andere Eltern zu treffen. Sie brauchen keinen besonderen Grund. Sie müssen kein Problem haben.
+**TOM:** Nein, nein — und das ist wichtig. Es ist für alle. Das Eltereforum ist offen für alle. Es ist ein ganz normaler, freundlicher Ort, an den alle Eltern kommen können, um Fragen zu stellen, etwas zu lernen und andere Eltern zu treffen. Sie brauchen keinen besonderen Grund. Sie müssen kein bestimmtes Anliegen haben.
 
 **ANNA:** Gut. Denn manchmal denken die Leute: „Ich bitte nur um Hilfe, wenn etwas nicht stimmt."
 
@@ -44,9 +44,9 @@
 
 **ANNA:** Starke Eltern, starke Kinder. Das gefällt mir. Okay, ganz praktisch — was passiert eigentlich in einem Eltereforum? Was kann ich dort machen?
 
-**TOM:** Vieles. Lass mich die wichtigsten Dinge aufzählen. Es gibt Elterntreffen — also Momente, um zusammenzukommen und sich mit anderen Eltern auszutauschen. Es gibt Elternkurse — wie kleine Kurse über Kindererziehung. Es gibt Aktivitäten für Eltern zusammen mit ihren Kindern. Und es gibt Themenabende, Gespräche und Vorträge — zum Beispiel ein Abend über Schlaf, oder über digitale Geräte, oder über das Lesen.
+**TOM:** Vieles. Lass mich die wichtigsten Dinge aufzählen. Es gibt Elterntreffen — also Momente, um zusammenzukommen und sich mit anderen Eltern auszutauschen. Es gibt auch Kurse mit konkreten Hilfestellungen zu verschiedenen Aspekten der Elternschaft. Es gibt Aktivitäten für Eltern zusammen mit ihren Kindern. Und es gibt Themenabende, Gespräche und Vorträge — zum Beispiel ein Abend über Schlaf, oder über digitale Geräte, oder über das Lesen.
 
-**ANNA:** Also Kurse, Abende, Treffen, und Eltern-Kind-Aktivitäten.
+**ANNA:** Also Kurse, Abende, Treffen, und Aktivitäten für Eltern und ihre Kinder.
 
 **TOM:** Genau. Das Ganze ist so aufgebaut, dass Sie hochwertige Informationen bekommen, und gleichzeitig einen Ort, um andere Eltern und Fachleute zu treffen.
 
@@ -56,9 +56,9 @@
 
 **ANNA:** Was ist, wenn ich ein ernstes, spezielles Problem habe? Können sie alles behandeln?
 
-**TOM:** Das ist ein wichtiger Punkt. Das Eltereforum ist generalistisch — es bietet keine spezialisierte Behandlung an. Es ist keine Klinik und kein Therapiezentrum. Aber wenn Sie etwas Spezielleres brauchen, hört das Team Ihnen zu und begleitet Sie. Sie zeigen Ihnen den richtigen spezialisierten Dienst. Es ist also auch eine Tür — eine erste Anlaufstelle, die Sie in die richtige Richtung schickt.
+**TOM:** Das ist ein wichtiger Punkt. Das Eltereforum ist wie ein Hausarzt — es bietet keine spezialisierte Behandlung an. Es ist keine Klinik und kein Therapiezentrum. Aber wenn Sie etwas Spezielleres brauchen, hört das Team Ihnen zu und begleitet Sie. Sie zeigen Ihnen den richtigen spezialisierten Dienst. Es ist also auch eine Tür — eine erste Anlaufstelle, die Sie in die richtige Richtung schickt.
 
-**ANNA:** Auch wenn sie nicht alles lösen können, helfen sie mir also, jemanden zu finden, der es kann.
+**ANNA:** Auch wenn sie mir bei einem bestimmten Anliegen nicht selbst helfen können, sind sie also gut genug vernetzt, um jemanden zu finden, der es kann.
 
 **TOM:** Genau. Ein freundlicher erster Schritt.
 
@@ -86,7 +86,7 @@
 
 **TOM:** Genau. Sehen Sie es als einen freundlichen Ort, der auf Ihrer Seite ist. Starke Eltern, starke Kinder.
 
-**ANNA:** Das war unsere Folge über das Eltereforum. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.
+**ANNA:** Das war unsere Folge über das Eltereforum. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
 
 **TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
 

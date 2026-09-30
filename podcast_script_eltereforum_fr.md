@@ -10,7 +10,7 @@
 
 **TOM :** Bonjour à tous !
 
-**ANNA :** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes. Pour qu'ils puissent créer des liens, échanger des idées et se sentir chez eux. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
+**ANNA :** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
 
 **TOM :** Exactement. Et le sujet d'aujourd'hui s'adresse à tous ceux qui ont des enfants, ou qui vont bientôt en avoir. C'est un service qui s'appelle l'Eltereforum.
 
@@ -20,11 +20,11 @@
 
 **ANNA :** Un forum des parents. Donc c'est un lieu pour les parents.
 
-**TOM :** Exactement. La description officielle est très chaleureuse. Les forums des parents sont des lieux accueillants d'échange, d'information et de soutien — pour tous les parents.
+**TOM :** Exactement. La description officielle est très engageante. Les forums des parents sont des lieux accueillants d'échange, d'information et de soutien — pour tous les parents.
 
-**ANNA :** Pour tous les parents. Donc pas seulement pour les parents qui ont des problèmes ?
+**ANNA :** Pour tous les parents. Donc pas seulement pour les parents qui rencontrent des difficultés ?
 
-**TOM :** Non, non — et c'est important. C'est pour tout le monde. L'Eltereforum est généraliste. C'est un endroit normal et convivial où chaque parent peut venir, poser des questions, apprendre quelque chose, et rencontrer d'autres parents. Vous n'avez pas besoin d'une raison particulière. Vous n'avez pas besoin d'avoir un problème.
+**TOM :** Non, non — et c'est important. C'est pour tout le monde. L'Eltereforum est ouvert à tous. C'est un endroit normal et convivial où chaque parent peut venir, poser des questions, apprendre quelque chose, et rencontrer d'autres parents. Vous n'avez pas besoin d'une raison particulière. Vous n'avez pas besoin d'avoir une question particulière.
 
 **ANNA :** Tant mieux. Parce que parfois, les gens pensent : « Je demanderai de l'aide seulement si quelque chose ne va pas. »
 
@@ -44,9 +44,9 @@
 
 **ANNA :** Parents forts, enfants forts. J'aime bien. Bon, alors concrètement — que se passe-t-il vraiment dans un Eltereforum ? Qu'est-ce que je peux y faire ?
 
-**TOM :** Plein de choses. Laissez-moi citer les principales. Il y a des rencontres de parents — donc des moments pour se retrouver et échanger avec d'autres parents. Il y a des cours pour parents — comme des petites formations sur l'éducation des enfants. Il y a des activités pour les parents avec leurs enfants. Et il y a des soirées à thème, des conférences et des exposés — par exemple, une soirée sur le sommeil, ou sur les outils numériques, ou sur la lecture.
+**TOM :** Plein de choses. Laissez-moi citer les principales. Il y a des rencontres de parents — donc des moments pour se retrouver et échanger avec d'autres parents. Il y a aussi des cours qui offrent des conseils concrets sur différents aspects de la parentalité. Il y a des activités pour les parents avec leurs enfants. Et il y a des soirées à thème, des conférences et des exposés — par exemple, une soirée sur le sommeil, ou sur les outils numériques, ou sur la lecture.
 
-**ANNA :** Donc des cours, des soirées, des rencontres, et des activités parents-enfants.
+**ANNA :** Donc des cours, des soirées, des rencontres, et des activités pour les parents et leurs enfants.
 
 **TOM :** Exactement. Le tout est construit pour que vous receviez des informations de qualité, et en même temps un lieu pour rencontrer d'autres parents et des professionnels.
 
@@ -56,9 +56,9 @@
 
 **ANNA :** Et si j'ai un problème sérieux et spécifique ? Est-ce qu'ils peuvent tout gérer ?
 
-**TOM :** C'est un point important. L'Eltereforum est généraliste — il ne propose pas de traitement spécialisé. Ce n'est pas une clinique ni un centre de thérapie. Mais si vous avez besoin de quelque chose de plus spécifique, l'équipe vous écoute et vous oriente. Elle vous indique le bon service spécialisé. Donc c'est aussi une porte — un premier endroit où aller, qui vous envoie dans la bonne direction.
+**TOM :** C'est un point important. L'Eltereforum est comme un médecin généraliste — il ne propose pas de traitement spécialisé. Ce n'est pas une clinique ni un centre de thérapie. Mais si vous avez besoin de quelque chose de plus spécifique, l'équipe vous écoute et vous oriente. Elle vous indique le bon service spécialisé. Donc c'est aussi une porte — un premier endroit où aller, qui vous envoie dans la bonne direction.
 
-**ANNA :** Donc même s'ils ne peuvent pas tout résoudre, ils m'aident à trouver qui peut.
+**ANNA :** Donc même s'ils ne peuvent pas m'aider eux-mêmes avec une question précise, ils sont assez bien connectés pour trouver quelqu'un qui le peut.
 
 **TOM :** Exactement. Un premier pas convivial.
 
@@ -86,7 +86,7 @@
 
 **TOM :** Exactement. Voyez-le comme un lieu convivial qui est de votre côté. Parents forts, enfants forts.
 
-**ANNA :** C'était notre épisode sur l'Eltereforum. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.
+**ANNA :** C'était notre épisode sur l'Eltereforum. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
 
 **TOM :** Merci à tous. Prenez soin de vous... et à la prochaine !
 
