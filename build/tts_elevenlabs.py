@@ -55,9 +55,19 @@ LANG_CODE = {"en": "en", "fr": "fr", "de": "de", "lb": "lb"}
 # Pronunciation fixes applied ONLY to the text sent to ElevenLabs (the transcript keeps the
 # written form). (regex, replacement) pairs per language. Editing these re-generates only the
 # sentences they touch (the cache key includes the spoken text).
+# General rule (Jacques, 2026-09-30): a web address ending in .lu is always spoken
+# "... dot L-U" (letters), never "lu" like the French word. Covers written addresses
+# (biergerpakt.lu, MyGuichet.lu, guichet.public.lu/...) and spelled-out ones already in the
+# scripts ("cae dot lu", "fns point lu", "Punkt lu").
+def _dot_lu(word):
+    return [(r"(\w)\.lu\b", r"\1 " + word + " L-U"),
+            (r"\b(" + word + r") lu\b", r"\1 L-U")]
+
 PRONUNCIATION = {
-    # MyGuichet.lu / Guichet.lu / biergerpakt.lu -> "... Punkt L-U" (Jacques, 2026-09-28)
-    "de": [(r"(\w)\.lu\b", r"\1 Punkt L-U")],
+    "en": _dot_lu("dot"),
+    "fr": _dot_lu("point"),
+    "de": _dot_lu("Punkt"),
+    "lb": _dot_lu("Punkt"),
 }
 
 
