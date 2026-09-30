@@ -67,6 +67,7 @@
 **ANNA:** Et quatrièmement... il travaille main dans la main avec les parents, les écoles et d'autres services.
 **TOM:** Les jeunes portent plus de choses que nous ne le voyons parfois. Une oreille attentive au bon moment peut tout changer.
 **ANNA:** Et au Luxembourg, cette oreille attentive a un nom... CePAS.
+**TOM:** Et souvenez-vous... si vous, ou un jeune que vous connaissez, traversez une période difficile, demander de l'aide est toujours une bonne chose.
 **ANNA:** C'était notre épisode sur le CePAS. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
 **TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
 **ANNA:** Merci beaucoup de nous avoir écoutés.

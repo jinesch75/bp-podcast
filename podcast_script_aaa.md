@@ -60,9 +60,7 @@
 **TOM:** Third... it pays for care and compensation, and it works hard on prevention and workplace safety.
 **ANNA:** And fourth... accidents must be declared, increasingly through MyGuichet.
 **TOM:** We hope you never need it. But it's good to know it's there, quietly protecting you.
-**ANNA:** That's what social security is... a safety net we weave together, for one another.
-
-**ANNA:** That was our episode about the accident insurance, the AAA. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** That's what social security is... a safety net we weave together, for one another. That was our episode about the accident insurance, the AAA. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.
 

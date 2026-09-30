@@ -104,8 +104,7 @@
 **TOM:** Und fünftens... es gibt besondere Hilfe für junge Menschen, durch die Jugendgarantie, und für Menschen mit Behinderungen.
 **ANNA:** Und denken Sie an die Sicherheitsregel... die ADEM verlangt niemals eine Zahlung.
 **TOM:** Eine Jobsuche kann sich stressig anfühlen. Aber die Botschaft dieser Folge ist, dass Sie es nicht allein tun müssen.
-**ANNA:** Die ADEM ist da, um an Ihrer Seite zu gehen. Schritt für Schritt.
-**ANNA:** Das war unsere Folge über die ADEM. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**ANNA:** Die ADEM ist da, um an Ihrer Seite zu gehen. Schritt für Schritt. Das war unsere Folge über die ADEM. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
 **TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
 **ANNA:** Vielen Dank fürs Zuhören.
 

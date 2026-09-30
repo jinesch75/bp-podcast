@@ -92,7 +92,6 @@
 **TOM:** And fifth... you can use it in your own life, to make better, calmer housing decisions.
 **ANNA:** Housing can feel overwhelming. But you are not powerless. There is solid, honest information out there for you.
 **TOM:** And knowing where to find it is half the battle.
-
 **ANNA:** That was our episode about the Observatoire de l'Habitat. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.

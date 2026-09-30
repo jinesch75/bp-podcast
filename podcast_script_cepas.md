@@ -67,7 +67,7 @@
 **ANNA:** And fourth... it works hand in hand with parents, schools, and other services.
 **TOM:** Young people carry more than we sometimes see. A listening ear at the right moment can mean everything.
 **ANNA:** And in Luxembourg, that listening ear has a name... CePAS.
-
+**TOM:** And remember... if you or a young person you know is struggling, reaching out is always okay.
 **ANNA:** That was our episode about CePAS. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.

@@ -190,6 +190,10 @@
 
 **TOM:** A fir alles — d'Formulairen, de Bezuelkalenner, d'Neiegkeeten iwwer d'Reform, d'Hotline — eng eenzeg Adress: c-n-a-p Punkt public Punkt l-u.
 
+**ANNA:** Wonnerbar. Dat ass d'Enn vun eiser Rees duerch de Pensiounssystem. An denkt drun, et ass ni ze fréi, fir un Är Pensioun ze denken.
+
+**TOM:** Kontrolléiert dee Carrièresrelevé!
+
 **ANNA:** Dat war eis Episod iwwer d'Pensiounskeess. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
 
 **TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!

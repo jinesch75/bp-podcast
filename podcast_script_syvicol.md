@@ -56,9 +56,7 @@
 **TOM:** Third... it gives formal opinions on laws that affect the communes, carrying local experience into national decisions.
 **ANNA:** And fourth... it helps communes share knowledge, supports local councillors, and represents them in Europe.
 **TOM:** The commune is where the country meets your front door. And SYVICOL helps keep that level strong.
-**ANNA:** Strong local communities are the building blocks of a country where people truly live together.
-
-**ANNA:** That was our episode about SYVICOL. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** Strong local communities are the building blocks of a country where people truly live together. That was our episode about SYVICOL. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.
 

@@ -54,7 +54,8 @@
 **TOM:** And fourth... it promotes prevention, because a healthy life lowers the risk.
 **ANNA:** Dementia can feel like a frightening word. But knowledge, support and kindness change everything.
 **TOM:** And in Luxembourg, that support has a warm and open door.
-
+**ANNA:** This was a sensitive topic, so please be gentle with yourself.
+**TOM:** And if you or someone you love is affected, reaching out for help is always okay.
 **ANNA:** That was our episode about the Info-Zenter Demenz. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.

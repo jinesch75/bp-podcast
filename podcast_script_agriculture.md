@@ -66,9 +66,7 @@
 **TOM:** Third... Luxembourg is growing organic farming and protects animal welfare by law.
 **ANNA:** And fourth... by choosing local and seasonal food, we all play a part in a healthy food system.
 **TOM:** Food connects every one of us to the land, and to each other.
-**ANNA:** And knowing the story behind our plate helps us value it, and the people who make it possible.
-
-**ANNA:** That was our episode about the agriculture portal. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** And knowing the story behind our plate helps us value it, and the people who make it possible. That was our episode about the agriculture portal. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.
 

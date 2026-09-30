@@ -54,6 +54,8 @@
 **TOM:** Und viertens... es fördert die Vorbeugung, denn ein gesundes Leben senkt das Risiko.
 **ANNA:** Demenz kann sich wie ein beängstigendes Wort anfühlen. Aber Wissen, Unterstützung und Freundlichkeit verändern alles.
 **TOM:** Und in Luxemburg hat diese Unterstützung eine warme und offene Tür.
+**ANNA:** Das war ein sensibles Thema, also seien Sie sanft mit sich selbst.
+**TOM:** Und wenn Sie oder ein geliebter Mensch betroffen sind, ist es immer in Ordnung, um Hilfe zu bitten.
 **ANNA:** Das war unsere Folge über das Info-Zenter Demenz. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
 **TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
 **ANNA:** Vielen Dank fürs Zuhören.

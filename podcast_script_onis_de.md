@@ -10,171 +10,167 @@
 
 **TOM:** Hallo zusammen!
 
-**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen. Und heute sprechen wir über ein Amt mit einer sehr sanften, sehr menschlichen Aufgabe. Es heißt das Nationale Amt für soziale Inklusion.
 
-**TOM:** Genau. Und heute sprechen wir über ein Amt mit einer sehr sanften, sehr menschlichen Aufgabe. Es heißt das Nationale Amt für soziale Inklusion.
+**TOM:** Das Nationale Amt für soziale Inklusion. Auf Französisch das Office national d'inclusion sociale. Die Leute benutzen den Kurznamen — O-N-I-S.
 
-**ANNA:** Das Nationale Amt für soziale Inklusion. Auf Französisch das Office national d'inclusion sociale. Die Leute benutzen den Kurznamen — O-N-I-S.
+**ANNA:** ONIS. Genau.
 
-**TOM:** ONIS. Genau.
+**TOM:** Anna, in einer früheren Folge haben wir über den Nationalen Solidaritätsfonds gesprochen, und über eine Leistung namens REVIS — das Eingliederungseinkommen. Hängt das zusammen?
 
-**ANNA:** Tom, in einer früheren Folge haben wir über den Nationalen Solidaritätsfonds gesprochen, und über eine Leistung namens REVIS — das Eingliederungseinkommen. Hängt das zusammen?
+**ANNA:** Es hängt direkt zusammen — und das ist der Schlüssel, um ONIS zu verstehen. Erinnerst du dich, REVIS ist Luxemburgs garantiertes Mindesteinkommen. Wenn das Einkommen deines Haushalts zu niedrig ist, stockt REVIS dich auf ein Grundniveau auf.
 
-**TOM:** Es hängt direkt zusammen — und das ist der Schlüssel, um ONIS zu verstehen. Erinnerst du dich, REVIS ist Luxemburgs garantiertes Mindesteinkommen. Wenn das Einkommen deines Haushalts zu niedrig ist, stockt REVIS dich auf ein Grundniveau auf.
+**TOM:** Ja — die Untergrenze, unter die der Staat dich nicht fallen lässt.
 
-**ANNA:** Ja — die Untergrenze, unter die der Staat dich nicht fallen lässt.
+**ANNA:** Richtig. Aber jetzt kommt's. Der vollständige Name ist nicht einfach nur „Mindesteinkommen". Es ist das „Eingliederungseinkommen". Und dieses Wort — Eingliederung — ist der eigentliche Kern. REVIS hat zwei Seiten.
 
-**TOM:** Richtig. Aber jetzt kommt's. Der vollständige Name ist nicht einfach nur „Mindesteinkommen". Es ist das „Eingliederungseinkommen". Und dieses Wort — Eingliederung — ist der eigentliche Kern. REVIS hat zwei Seiten.
+**TOM:** Zwei Seiten. Erzähl mir.
 
-**ANNA:** Zwei Seiten. Erzähl mir.
+**ANNA:** Die eine Seite ist das Geld — der Scheck jeden Monat. Diesen Teil zahlt der Nationale Solidaritätsfonds, der FNS. Aber die zweite Seite ist genauso wichtig. Sie hilft der Person, ihren Weg zurückzufinden — zurück in Richtung Arbeit, in Richtung Aktivität, dahin, wieder Teil der Gesellschaft zu sein.
 
-**TOM:** Die eine Seite ist das Geld — der Scheck jeden Monat. Diesen Teil zahlt der Nationale Solidaritätsfonds, der FNS. Aber die zweite Seite ist genauso wichtig. Sie hilft der Person, ihren Weg zurückzufinden — zurück in Richtung Arbeit, in Richtung Aktivität, dahin, wieder Teil der Gesellschaft zu sein.
+**TOM:** Und diese zweite Seite — die Inklusionsseite — ist die Aufgabe von ONIS.
 
-**ANNA:** Und diese zweite Seite — die Inklusionsseite — ist die Aufgabe von ONIS.
+**ANNA:** Genau. Der FNS kümmert sich um das Geld. ONIS kümmert sich um die Menschen und ihren Weg nach vorn. REVIS ist nicht als Scheck gedacht, den du für immer bekommst, allein zu Hause. Es ist als Brücke gedacht.
 
-**TOM:** Genau. Der FNS kümmert sich um das Geld. ONIS kümmert sich um die Menschen und ihren Weg nach vorn. REVIS ist nicht als Scheck gedacht, den du für immer bekommst, allein zu Hause. Es ist als Brücke gedacht.
+**TOM:** Diese Unterscheidung gefällt mir. ONIS ist also das Amt, das mit dir über die Brücke geht.
 
-**ANNA:** Diese Unterscheidung gefällt mir. ONIS ist also das Amt, das mit dir über die Brücke geht.
+**ANNA:** Schön gesagt. Genau das tut es.
 
-**TOM:** Schön gesagt. Genau das tut es.
+**TOM:** Lass uns das Grundsätzliche klären. Was für ein Amt ist ONIS eigentlich, offiziell?
 
-**ANNA:** Lass uns das Grundsätzliche klären. Was für ein Amt ist ONIS eigentlich, offiziell?
+**ANNA:** Es ist eine staatliche Verwaltung, unter dem Familienministerium. Es wurde durch die große REVIS-Reform geschaffen — das Gesetz von zweitausendachtzehn — und es hat seine Arbeit Anfang zweitausendneunzehn aufgenommen. Es hat tatsächlich einen älteren Dienst ersetzt, der vorher ähnliche Arbeit gemacht hat.
 
-**TOM:** Es ist eine staatliche Verwaltung, unter dem Familienministerium. Es wurde durch die große REVIS-Reform geschaffen — das Gesetz von zweitausendachtzehn — und es hat seine Arbeit Anfang zweitausendneunzehn aufgenommen. Es hat tatsächlich einen älteren Dienst ersetzt, der vorher ähnliche Arbeit gemacht hat.
+**TOM:** Es ist also relativ jung, aber auf älteren Fundamenten gebaut.
 
-**ANNA:** Es ist also relativ jung, aber auf älteren Fundamenten gebaut.
+**ANNA:** Ja. Und seine Aufgabe ist, schlicht gesagt, den Menschen zu helfen, die am weitesten vom Arbeitsmarkt entfernt sind, Schritte dorthin zurück zu machen — in ihrem eigenen Tempo.
 
-**TOM:** Ja. Und seine Aufgabe ist, schlicht gesagt, den Menschen zu helfen, die am weitesten vom Arbeitsmarkt entfernt sind, Schritte dorthin zurück zu machen — in ihrem eigenen Tempo.
+**TOM:** Am weitesten vom Arbeitsmarkt entfernt. Wen meinst du damit?
 
-**ANNA:** Am weitesten vom Arbeitsmarkt entfernt. Wen meinst du damit?
+**ANNA:** Menschen, die aus ganz unterschiedlichen Gründen nicht einfach morgen eine Arbeit antreten können. Vielleicht ist jemand schon sehr lange ohne Arbeit. Vielleicht gibt es ein Gesundheitsproblem, oder eine schwierige Familiensituation, oder Probleme mit der Wohnung, oder einen Verlust an Selbstvertrauen. Das Leben kann Menschen auf viele Arten zu Boden werfen.
 
-**TOM:** Menschen, die aus ganz unterschiedlichen Gründen nicht einfach morgen eine Arbeit antreten können. Vielleicht ist jemand schon sehr lange ohne Arbeit. Vielleicht gibt es ein Gesundheitsproblem, oder eine schwierige Familiensituation, oder Probleme mit der Wohnung, oder einen Verlust an Selbstvertrauen. Das Leben kann Menschen auf viele Arten zu Boden werfen.
+**TOM:** Es geht also nicht nur darum, „geh und such dir eine Arbeit". Die Hindernisse können viel tiefer liegen.
 
-**ANNA:** Es geht also nicht nur darum, „geh und such dir eine Arbeit". Die Hindernisse können viel tiefer liegen.
+**ANNA:** Viel tiefer. Und genau darin liegt die Klugheit, wie ONIS arbeitet. Es behandelt nicht alle gleich. Es erkennt an, dass manche Menschen, bevor sie nach Arbeit suchen können, zuerst ihr Leben stabilisieren müssen.
 
-**TOM:** Viel tiefer. Und genau darin liegt die Klugheit, wie ONIS arbeitet. Es behandelt nicht alle gleich. Es erkennt an, dass manche Menschen, bevor sie nach Arbeit suchen können, zuerst ihr Leben stabilisieren müssen.
+**TOM:** Stabilisieren. Das ist ein interessantes Wort. Kannst du das erklären?
 
-**ANNA:** Stabilisieren. Das ist ein interessantes Wort. Kannst du das erklären?
+**ANNA:** Natürlich. ONIS arbeitet mit zwei Arten von Maßnahmen. Die erste Art nennt man Stabilisierungsmaßnahmen. Sie sind für jemanden, der noch nicht bereit für eine Arbeit ist — weil zuerst andere Dinge geklärt werden müssen. Gesundheit, persönliche Schwierigkeiten, den Alltag wieder in den Griff bekommen.
 
-**TOM:** Natürlich. ONIS arbeitet mit zwei Arten von Maßnahmen. Die erste Art nennt man Stabilisierungsmaßnahmen. Sie sind für jemanden, der noch nicht bereit für eine Arbeit ist — weil zuerst andere Dinge geklärt werden müssen. Gesundheit, persönliche Schwierigkeiten, den Alltag wieder in den Griff bekommen.
+**TOM:** Also zuerst: hilf mir, sicher auf die Beine zu kommen.
 
-**ANNA:** Also zuerst: hilf mir, sicher auf die Beine zu kommen.
+**ANNA:** Zuerst: hilf dir, zu stehen. Und dann, die zweite Art — Aktivierungsmaßnahmen. Das sind die Schritte in Richtung Arbeit und Aktivität. Fähigkeiten aufbauen, Erfahrung sammeln, wieder in einen Rhythmus kommen.
 
-**TOM:** Zuerst: hilf dir, zu stehen. Und dann, die zweite Art — Aktivierungsmaßnahmen. Das sind die Schritte in Richtung Arbeit und Aktivität. Fähigkeiten aufbauen, Erfahrung sammeln, wieder in einen Rhythmus kommen.
+**TOM:** Also zuerst Stabilisierung, dann Aktivierung. Es holt die Menschen dort ab, wo sie wirklich stehen.
 
-**ANNA:** Also zuerst Stabilisierung, dann Aktivierung. Es holt die Menschen dort ab, wo sie wirklich stehen.
+**ANNA:** Genau. Es ist kein Einheitsmodell für alle. Es ist ein Weg, der um jede einzelne Person herum gestaltet wird, und um ihre Entwicklung.
 
-**TOM:** Genau. Es ist kein Einheitsmodell für alle. Es ist ein Weg, der um jede einzelne Person herum gestaltet wird, und um ihre Entwicklung.
+**TOM:** Gut, machen wir es konkret. Wenn ich eine Person bin, die anfängt, REVIS zu bekommen, was passiert dann eigentlich mit ONIS? Führ mich Schritt für Schritt durch.
 
-**ANNA:** Gut, machen wir es konkret. Wenn ich eine Person bin, die anfängt, REVIS zu bekommen, was passiert dann eigentlich mit ONIS? Führ mich Schritt für Schritt durch.
+**ANNA:** Gern. Normalerweise beginnt es mit einer Einladung — du wirst zu einem Treffen eingeladen, einem Empfang, bei ONIS. Und dort unterschreibst du etwas, das Kooperationserklärung heißt.
 
-**TOM:** Gern. Normalerweise beginnt es mit einer Einladung — du wirst zu einem Treffen eingeladen, einem Empfang, bei ONIS. Und dort unterschreibst du etwas, das Kooperationserklärung heißt.
+**TOM:** Eine Kooperationserklärung. Das klingt formell. Was bedeutet das eigentlich, wirklich?
 
-**ANNA:** Eine Kooperationserklärung. Das klingt formell. Was bedeutet das eigentlich, wirklich?
+**ANNA:** Ganz einfach gesagt, ist es ein gegenseitiges Versprechen. Du erklärst dich bereit, mitzumachen — gemeinsam an deiner Situation zu arbeiten. Und der Staat erklärt sich bereit, dich zu unterstützen. Es geht in beide Richtungen. Du bekommst nicht nur; du beteiligst dich.
 
-**TOM:** Ganz einfach gesagt, ist es ein gegenseitiges Versprechen. Du erklärst dich bereit, mitzumachen — gemeinsam an deiner Situation zu arbeiten. Und der Staat erklärt sich bereit, dich zu unterstützen. Es geht in beide Richtungen. Du bekommst nicht nur; du beteiligst dich.
+**TOM:** Es ist also eine Partnerschaft, schriftlich festgehalten.
 
-**ANNA:** Es ist also eine Partnerschaft, schriftlich festgehalten.
+**ANNA:** Eine Partnerschaft. Und dann kommt der Teil, den ich wirklich durchdacht finde. Du wirst einer Person zur Seite gestellt — einem regionalen Sozialinklusionsagenten. Auf Französisch ein „agent régional d'inclusion sociale", ein ARIS.
 
-**TOM:** Eine Partnerschaft. Und dann kommt der Teil, den ich wirklich durchdacht finde. Du wirst einer Person zur Seite gestellt — einem regionalen Sozialinklusionsagenten. Auf Französisch ein „agent régional d'inclusion sociale", ein ARIS.
+**TOM:** Ein regionaler Agent. Also ein echter Mensch, der dir zugeteilt wird, um dir zu helfen.
 
-**ANNA:** Ein regionaler Agent. Also ein echter Mensch, der dir zugeteilt wird, um dir zu helfen.
+**ANNA:** Ein echter Mensch, der zu deinem Begleiter wird. Und „regional" ist wichtig — diese Agenten arbeiten in den lokalen Sozialämtern, überall im Land. Du wirst also nicht in ein großes Gebäude in der Hauptstadt geschickt. Dir wird in der Nähe deines Wohnorts geholfen.
 
-**TOM:** Ein echter Mensch, der zu deinem Begleiter wird. Und „regional" ist wichtig — diese Agenten arbeiten in den lokalen Sozialämtern, überall im Land. Du wirst also nicht in ein großes Gebäude in der Hauptstadt geschickt. Dir wird in der Nähe deines Wohnorts geholfen.
+**TOM:** Das ist wichtig. Hilfe, die örtlich ist, und persönlich.
 
-**ANNA:** Das ist wichtig. Hilfe, die örtlich ist, und persönlich.
+**ANNA:** Sehr. Und gemeinsam baut ihr, du und dein Agent, etwas auf, das Aktivierungsplan heißt. Es ist ein persönlicher Plan — deine Situation, deine Schwierigkeiten, deine Ziele, und die konkreten Schritte, um voranzukommen.
 
-**TOM:** Sehr. Und gemeinsam baut ihr, du und dein Agent, etwas auf, das Aktivierungsplan heißt. Es ist ein persönlicher Plan — deine Situation, deine Schwierigkeiten, deine Ziele, und die konkreten Schritte, um voranzukommen.
+**TOM:** Der Plan wird also mit dir aufgebaut, nicht dir überreicht.
 
-**ANNA:** Der Plan wird also mit dir aufgebaut, nicht dir überreicht.
+**ANNA:** Mit dir. Das ist der Kern davon. Es ist dein Plan. Der Agent bringt das Wissen und die Möglichkeiten ein; du bringst dein Leben und deine Hoffnungen ein. Gemeinsam zeichnet ihr den Weg.
 
-**TOM:** Mit dir. Das ist der Kern davon. Es ist dein Plan. Der Agent bringt das Wissen und die Möglichkeiten ein; du bringst dein Leben und deine Hoffnungen ein. Gemeinsam zeichnet ihr den Weg.
+**TOM:** Und welche Art von Schritten könnte in so einem Plan stehen? Gib mir ein paar Beispiele.
 
-**ANNA:** Und welche Art von Schritten könnte in so einem Plan stehen? Gib mir ein paar Beispiele.
+**ANNA:** Das hängt ganz von der Person ab. Für jemanden, der zuerst Stabilisierung braucht, könnte es um Gesundheit gehen, oder darum, praktische Probleme zu klären, oder eine tägliche Struktur wieder aufzubauen. Für jemanden, der näher an der Arbeit ist, könnte es um eine Ausbildung gehen, oder darum, Erfahrung zu sammeln.
 
-**TOM:** Das hängt ganz von der Person ab. Für jemanden, der zuerst Stabilisierung braucht, könnte es um Gesundheit gehen, oder darum, praktische Probleme zu klären, oder eine tägliche Struktur wieder aufzubauen. Für jemanden, der näher an der Arbeit ist, könnte es um eine Ausbildung gehen, oder darum, Erfahrung zu sammeln.
+**TOM:** Und die Arbeitserfahrung — wie geht das, wenn man noch keine Arbeit hat?
 
-**ANNA:** Und die Arbeitserfahrung — wie geht das, wenn man noch keine Arbeit hat?
+**ANNA:** Eines der Mittel ist ein zeitlich begrenzter Einsatz in einer nützlichen, gemeinnützigen Tätigkeit — oft in einer gemeinnützigen Organisation. Du trägst etwas bei, du bist aktiv, du sammelst Erfahrung und Selbstvertrauen — und das kann zu einem Sprungbrett in eine echte Arbeit werden.
 
-**TOM:** Eines der Mittel ist ein zeitlich begrenzter Einsatz in einer nützlichen, gemeinnützigen Tätigkeit — oft in einer gemeinnützigen Organisation. Du trägst etwas bei, du bist aktiv, du sammelst Erfahrung und Selbstvertrauen — und das kann zu einem Sprungbrett in eine echte Arbeit werden.
+**TOM:** Du tust also etwas Sinnvolles, und bereitest dich gleichzeitig vor.
 
-**ANNA:** Du tust also etwas Sinnvolles, und bereitest dich gleichzeitig vor.
+**ANNA:** Genau. Es ist Würde und Vorbereitung in einem. Du sitzt nicht zu Hause und fühlst dich nutzlos. Du trägst etwas bei und wächst.
 
-**TOM:** Genau. Es ist Würde und Vorbereitung in einem. Du sitzt nicht zu Hause und fühlst dich nutzlos. Du trägst etwas bei und wächst.
+**TOM:** Anna, ich möchte die ehrliche Frage stellen, die manche Zuhörer haben werden. Geht es darum, Menschen zu helfen — oder geht es darum, sie zu kontrollieren, sicherzustellen, dass sie nicht faul sind?
 
-**ANNA:** Tom, ich möchte die ehrliche Frage stellen, die manche Zuhörer haben werden. Geht es darum, Menschen zu helfen — oder geht es darum, sie zu kontrollieren, sicherzustellen, dass sie nicht faul sind?
+**ANNA:** Das ist eine berechtigte Frage, und eine wichtige. Die ehrliche Antwort ist — der Geist davon ist Hilfe, nicht Bestrafung. Der ganze Aufbau ist darauf ausgelegt, Menschen zu begleiten, in ihrem eigenen Tempo, um ihre eigenen Hindernisse herum. Es stimmt, dass REVIS Mitwirkung verlangt — das ist die Kooperationserklärung. Aber das Ziel ist nicht, Menschen zu ertappen. Das Ziel ist, sie nicht im Stich zu lassen.
 
-**TOM:** Das ist eine berechtigte Frage, und eine wichtige. Die ehrliche Antwort ist — der Geist davon ist Hilfe, nicht Bestrafung. Der ganze Aufbau ist darauf ausgelegt, Menschen zu begleiten, in ihrem eigenen Tempo, um ihre eigenen Hindernisse herum. Es stimmt, dass REVIS Mitwirkung verlangt — das ist die Kooperationserklärung. Aber das Ziel ist nicht, Menschen zu ertappen. Das Ziel ist, sie nicht im Stich zu lassen.
+**TOM:** Sie nicht im Stich zu lassen. Denn nur Geld zu schicken, und sonst nichts...
 
-**ANNA:** Sie nicht im Stich zu lassen. Denn nur Geld zu schicken, und sonst nichts...
+**ANNA:** ...kann eine Person über Jahre festgefahren und allein lassen. Und genau das ist die Falle, die REVIS und ONIS zu vermeiden versuchen. Geld hält dich über Wasser. Aber Inklusion — ein Begleiter, ein Plan, ein Weg — das ist es, was dir hilft, dich zu bewegen.
 
-**TOM:** ...kann eine Person über Jahre festgefahren und allein lassen. Und genau das ist die Falle, die REVIS und ONIS zu vermeiden versuchen. Geld hält dich über Wasser. Aber Inklusion — ein Begleiter, ein Plan, ein Weg — das ist es, was dir hilft, dich zu bewegen.
+**TOM:** Das rückt es wirklich in ein anderes Licht. Der Scheck ist der Boden; ONIS ist die Treppe.
 
-**ANNA:** Das rückt es wirklich in ein anderes Licht. Der Scheck ist der Boden; ONIS ist die Treppe.
+**ANNA:** Der Scheck ist der Boden; ONIS ist die Treppe. Das übernehme ich.
 
-**TOM:** Der Scheck ist der Boden; ONIS ist die Treppe. Das übernehme ich.
+**TOM:** Machen wir es konkret an einer Person. Dürfen wir?
 
-**ANNA:** Machen wir es konkret an einer Person. Dürfen wir?
+**ANNA:** Machen wir. Stell dir einen Mann vor — nennen wir ihn Paulo. Er ist seit mehreren Jahren ohne Arbeit. Er hat seine Arbeit verloren, dann sein Selbstvertrauen, und langsam ist er weit vom Arbeitsmarkt abgedriftet.
 
-**TOM:** Machen wir. Stell dir einen Mann vor — nennen wir ihn Paulo. Er ist seit mehreren Jahren ohne Arbeit. Er hat seine Arbeit verloren, dann sein Selbstvertrauen, und langsam ist er weit vom Arbeitsmarkt abgedriftet.
+**TOM:** Eine Geschichte, die häufiger ist, als die Leute denken.
 
-**ANNA:** Eine Geschichte, die häufiger ist, als die Leute denken.
+**ANNA:** Viel häufiger. Also beantragt Paulo REVIS. Der FNS regelt die Geldseite — er bekommt das Mindesteinkommen, damit er leben kann. Und dann tritt ONIS in sein Leben.
 
-**TOM:** Viel häufiger. Also beantragt Paulo REVIS. Der FNS regelt die Geldseite — er bekommt das Mindesteinkommen, damit er leben kann. Und dann tritt ONIS in sein Leben.
+**TOM:** Er wird zu einem Treffen eingeladen.
 
-**ANNA:** Er wird zu einem Treffen eingeladen.
+**ANNA:** Er wird eingeladen, er unterschreibt die Kooperationserklärung, und er wird einem regionalen Agenten in der Nähe seines Wohnorts zugeteilt. Sie setzen sich zusammen. Und am Anfang ist klar, dass Paulo nicht bereit ist, Arbeit zu suchen — er ist erschöpft, ein bisschen verloren. Also beginnt der Plan mit Stabilisierung.
 
-**TOM:** Er wird eingeladen, er unterschreibt die Kooperationserklärung, und er wird einem regionalen Agenten in der Nähe seines Wohnorts zugeteilt. Sie setzen sich zusammen. Und am Anfang ist klar, dass Paulo nicht bereit ist, Arbeit zu suchen — er ist erschöpft, ein bisschen verloren. Also beginnt der Plan mit Stabilisierung.
+**TOM:** Ihm zuerst helfen, auf die Beine zu kommen.
 
-**ANNA:** Ihm zuerst helfen, auf die Beine zu kommen.
+**ANNA:** Ihm helfen, zu stehen. Dann, Schritt für Schritt, während er sich stabilisiert, bewegt sich der Plan in Richtung Aktivierung. Vielleicht ein Einsatz in einer gemeinnützigen Organisation, um wieder in einen Rhythmus zu kommen und sein Selbstvertrauen wiederaufzubauen. Dann eine Ausbildung.
 
-**TOM:** Ihm helfen, zu stehen. Dann, Schritt für Schritt, während er sich stabilisiert, bewegt sich der Plan in Richtung Aktivierung. Vielleicht ein Einsatz in einer gemeinnützigen Organisation, um wieder in einen Rhythmus zu kommen und sein Selbstvertrauen wiederaufzubauen. Dann eine Ausbildung.
+**TOM:** Und eines Tages vielleicht eine echte Arbeit.
 
-**ANNA:** Und eines Tages vielleicht eine echte Arbeit.
+**ANNA:** Das ist das Ziel. Und selbst wenn es Zeit braucht, ist Paulo damit nicht mehr allein. Er hat einen Plan, und einen Menschen, der an seiner Seite geht. Das verändert alles.
 
-**TOM:** Das ist das Ziel. Und selbst wenn es Zeit braucht, ist Paulo damit nicht mehr allein. Er hat einen Plan, und einen Menschen, der an seiner Seite geht. Das verändert alles.
+**TOM:** Das tut es wirklich. Der Unterschied zwischen Abdriften und Begleitetwerden.
 
-**ANNA:** Das tut es wirklich. Der Unterschied zwischen Abdriften und Begleitetwerden.
+**ANNA:** Das ist der ganze Unterschied. Und genau das bedeutet „Inklusion" wirklich — niemanden draußen lassen.
 
-**TOM:** Das ist der ganze Unterschied. Und genau das bedeutet „Inklusion" wirklich — niemanden draußen lassen.
+**TOM:** Treten wir einen Moment einen Schritt zurück. Warum ist das wichtig für die Gesellschaft als Ganzes, nicht nur für den Einzelnen?
 
-**ANNA:** Treten wir einen Moment einen Schritt zurück. Warum ist das wichtig für die Gesellschaft als Ganzes, nicht nur für den Einzelnen?
+**ANNA:** Weil alle gewinnen, wenn jemand von festgefahren zu aktiv und eingebunden gelangt. Die Person gewinnt Würde und Einkommen zurück. Ihre Familie ist stabiler. Und die Gesellschaft behält ein Mitglied verbunden, beitragend, statt verloren. Inklusion ist gut für die Person, und gut für uns alle.
 
-**TOM:** Weil alle gewinnen, wenn jemand von festgefahren zu aktiv und eingebunden gelangt. Die Person gewinnt Würde und Einkommen zurück. Ihre Familie ist stabiler. Und die Gesellschaft behält ein Mitglied verbunden, beitragend, statt verloren. Inklusion ist gut für die Person, und gut für uns alle.
+**TOM:** Eine Gesellschaft ist stärker, wenn niemand abgeschrieben wird.
 
-**ANNA:** Eine Gesellschaft ist stärker, wenn niemand abgeschrieben wird.
+**ANNA:** Wenn niemand abgeschrieben wird. Das ist die stille Philosophie hinter ONIS.
 
-**TOM:** Wenn niemand abgeschrieben wird. Das ist die stille Philosophie hinter ONIS.
+**TOM:** Gut, Anna, bringen wir es auf den Punkt. Wenn ich zuhöre, und das betrifft mich, oder jemanden, den ich kenne — was sollte ich mitnehmen?
 
-**ANNA:** Gut, Tom, bringen wir es auf den Punkt. Wenn ich zuhöre, und das betrifft mich, oder jemanden, den ich kenne — was sollte ich mitnehmen?
+**ANNA:** Ein paar einfache Dinge. Erstens — wenn du REVIS bekommst, ist ONIS nicht dein Feind. Es ist der Teil von REVIS, der da ist, um dir zu helfen, voranzukommen, mit einem echten Menschen und einem persönlichen Plan.
 
-**TOM:** Ein paar einfache Dinge. Erstens — wenn du REVIS bekommst, ist ONIS nicht dein Feind. Es ist der Teil von REVIS, der da ist, um dir zu helfen, voranzukommen, mit einem echten Menschen und einem persönlichen Plan.
+**TOM:** Die Inklusionsseite, nicht nur die Geldseite.
 
-**ANNA:** Die Inklusionsseite, nicht nur die Geldseite.
+**ANNA:** Zweitens — es arbeitet in deinem Tempo. Wenn du dich zuerst stabilisieren musst, ist das erlaubt, das ist normal. Stabilisierung kommt vor Aktivierung. Niemand wird schneller gedrängt, als er gehen kann.
 
-**TOM:** Zweitens — es arbeitet in deinem Tempo. Wenn du dich zuerst stabilisieren musst, ist das erlaubt, das ist normal. Stabilisierung kommt vor Aktivierung. Niemand wird schneller gedrängt, als er gehen kann.
+**TOM:** Und drittens?
 
-**ANNA:** Und drittens?
+**ANNA:** Drittens — du bist nicht allein. Du bekommst einen regionalen Agenten, in der Nähe deines Wohnorts, der den Plan mit dir aufbaut. Wenn du dich jemals im System verloren fühlst, ist dieser Agent dein Ansprechpartner.
 
-**TOM:** Drittens — du bist nicht allein. Du bekommst einen regionalen Agenten, in der Nähe deines Wohnorts, der den Plan mit dir aufbaut. Wenn du dich jemals im System verloren fühlst, ist dieser Agent dein Ansprechpartner.
+**TOM:** Und wo können die Leute mehr erfahren?
 
-**ANNA:** Und wo können die Leute mehr erfahren?
+**ANNA:** Die offizielle Website ist onis — also o-n-i-s — Punkt gouvernement Punkt l-u. Und für die REVIS-Leistung selbst gibt es die Informationen auf guichet Punkt l-u, und die Geldseite ist der Nationale Solidaritätsfonds, den wir in einer anderen Folge behandelt haben.
 
-**TOM:** Die offizielle Website ist onis — also o-n-i-s — Punkt gouvernement Punkt l-u. Und für die REVIS-Leistung selbst gibt es die Informationen auf guichet Punkt l-u, und die Geldseite ist der Nationale Solidaritätsfonds, den wir in einer anderen Folge behandelt haben.
+**TOM:** Eine kurze Zusammenfassung zum Schluss?
 
-**ANNA:** Eine kurze Zusammenfassung zum Schluss?
+**ANNA:** Klar. ONIS, das Nationale Amt für soziale Inklusion, ist das staatliche Amt, das die „Inklusionsseite" von REVIS regelt, Luxemburgs Eingliederungseinkommen. Während der Nationale Solidaritätsfonds das Geld zahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen. Du unterschreibst eine Kooperationserklärung, du wirst einem regionalen Sozialinklusionsagenten in der Nähe deines Wohnorts zugeteilt, und gemeinsam baut ihr einen persönlichen Aktivierungsplan auf. Der Geist ist, zu begleiten, nicht im Stich zu lassen.
 
-**TOM:** Klar. ONIS, das Nationale Amt für soziale Inklusion, ist das staatliche Amt, das die „Inklusionsseite" von REVIS regelt, Luxemburgs Eingliederungseinkommen. Während der Nationale Solidaritätsfonds das Geld zahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen. Du unterschreibst eine Kooperationserklärung, du wirst einem regionalen Sozialinklusionsagenten in der Nähe deines Wohnorts zugeteilt, und gemeinsam baut ihr einen persönlichen Aktivierungsplan auf. Der Geist ist, zu begleiten, nicht im Stich zu lassen.
+**TOM:** Und die Botschaft für heute?
 
-**ANNA:** Und die Botschaft für heute?
+**ANNA:** Dass ein Mindesteinkommen nur die Hälfte der Solidarität ist. Die andere Hälfte ist Inklusion — eine Hand, ein Plan, und ein Weg zurück. Geld hält dich aufrecht; Inklusion hilft dir, zu gehen.
 
-**TOM:** Dass ein Mindesteinkommen nur die Hälfte der Solidarität ist. Die andere Hälfte ist Inklusion — eine Hand, ein Plan, und ein Weg zurück. Geld hält dich aufrecht; Inklusion hilft dir, zu gehen.
+**TOM:** Also... ob für dich, oder für jemanden, der dir am Herzen liegt — denk daran, hinter dem REVIS-Scheck steht auch eine helfende Hand. Das Nationale Amt für soziale Inklusion. ONIS.
 
-**ANNA:** Also... ob für dich, oder für jemanden, der dir am Herzen liegt — denk daran, hinter dem REVIS-Scheck steht auch eine helfende Hand. Das Nationale Amt für soziale Inklusion. ONIS.
-
-**TOM:** Die Hälfte der Hilfe ist das Geld. Die andere Hälfte ist, nicht allein gelassen zu werden. Das ist gut zu wissen.
-
-**ANNA:** Das war unsere Folge über das Nationale Amt für soziale Inklusion. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**ANNA:** Die Hälfte der Hilfe ist das Geld. Die andere Hälfte ist, nicht allein gelassen zu werden. Das ist gut zu wissen. Das war unsere Folge über das Nationale Amt für soziale Inklusion. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
 
 **TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
 

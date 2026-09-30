@@ -52,9 +52,7 @@
 **TOM:** Third... it sets out support for buying, building and renovating a home.
 **ANNA:** And fourth... there's a single counter for housing aids, and a national push for affordable housing.
 **TOM:** A home is more than four walls. It's security, dignity, and a place to build a life.
-**ANNA:** And knowing what help exists can bring that a little closer for many families.
-
-**ANNA:** That was our episode about the housing portal. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** And knowing what help exists can bring that a little closer for many families. That was our episode about the housing portal. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.
 

@@ -190,6 +190,10 @@
 
 **TOM :** Et pour tout — les formulaires, le calendrier des paiements, les actualités de la réforme, la ligne téléphonique — une seule adresse : c-n-a-p point public point l-u.
 
+**ANNA :** Merveilleux. C'est la fin de notre voyage à travers le système de pension. Et rappelez-vous, il n'est jamais trop tôt pour penser à votre pension.
+
+**TOM :** Vérifiez ce relevé de carrière !
+
 **ANNA :** C'était notre épisode sur la Pensiounskeess. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
 
 **TOM :** Merci à tous. Prenez soin de vous... et à la prochaine !

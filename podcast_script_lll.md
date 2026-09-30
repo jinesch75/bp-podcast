@@ -100,9 +100,7 @@
 **TOM:** Learning is one of the great joys, and one of the great equalisers, of life.
 **ANNA:** It can lift a career, rebuild confidence, and open a whole new chapter, at any age.
 **TOM:** And in Luxembourg, the door to it is open, for everyone, whenever you're ready to walk through.
-**ANNA:** So if there's something you've always wanted to learn... maybe today is the day to begin.
-
-**ANNA:** That was our episode about lifelong learning. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** So if there's something you've always wanted to learn... maybe today is the day to begin. That was our episode about lifelong learning. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.
 

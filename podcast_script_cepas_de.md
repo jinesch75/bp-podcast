@@ -67,6 +67,7 @@
 **ANNA:** Und viertens... es arbeitet Hand in Hand mit Eltern, Schulen und anderen Diensten.
 **TOM:** Junge Menschen tragen mehr, als wir manchmal sehen. Ein offenes Ohr im richtigen Moment kann alles bedeuten.
 **ANNA:** Und in Luxemburg hat dieses offene Ohr einen Namen... CePAS.
+**TOM:** Und denken Sie daran... wenn Sie oder ein junger Mensch, den Sie kennen, Schwierigkeiten haben, ist es immer in Ordnung, sich Hilfe zu holen.
 **ANNA:** Das war unsere Folge über das CePAS. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
 **TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
 **ANNA:** Vielen Dank fürs Zuhören.

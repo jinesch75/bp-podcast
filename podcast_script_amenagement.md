@@ -58,7 +58,6 @@
 **TOM:** And fourth... it shapes your daily surroundings, so it's worth following and taking part in.
 **ANNA:** The country we pass on is not an accident. It's the sum of countless careful choices about land.
 **TOM:** And good planning is how we make those choices wisely, together.
-
 **ANNA:** That was our episode about spatial planning. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.

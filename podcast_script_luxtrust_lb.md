@@ -10,139 +10,135 @@
 
 **TOM:** Moien alleguer!
 
-**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
+**ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren. An haut schwätze mir iwwer eppes, wat Dir bal iwwerall zu Lëtzebuerg um Internet brauch. Et heescht LuxTrust.
 
-**TOM:** Genau. An haut schwätze mir iwwer eppes, wat Dir bal iwwerall zu Lëtzebuerg um Internet brauch. Et heescht LuxTrust.
+**TOM:** LuxTrust. Mir hunn et schonn eemol ernimmt, an der Episod iwwer MyGuichet. Mä haut déi ganz Geschicht. Anna, fänke mer einfach un. Wat ass LuxTrust?
 
-**ANNA:** LuxTrust. Mir hunn et schonn eemol ernimmt, an der Episod iwwer MyGuichet. Mä haut déi ganz Geschicht. Tom, fänke mer einfach un. Wat ass LuxTrust?
+**ANNA:** Also, LuxTrust gëtt Iech eng Saach — eng digital Identitéit. Eng eenzeg, sécher digital Identitéit, déi Iech erlaabt ze beweisen, wien Dir wierklech sidd, um Internet.
 
-**TOM:** Also, LuxTrust gëtt Iech eng Saach — eng digital Identitéit. Eng eenzeg, sécher digital Identitéit, déi Iech erlaabt ze beweisen, wien Dir wierklech sidd, um Internet.
+**TOM:** Eng digital Identitéit. Kanns du dat e bësse méi erklären?
 
-**ANNA:** Eng digital Identitéit. Kanns du dat e bësse méi erklären?
+**ANNA:** Natierlech. Stell der et vir wéi déi digital Versioun vun Ärer Identitéitskaart oder Ärem Pass. Am richtege Liewen weist Dir Är Identitéitskaart, fir ze beweisen, wien Dir sidd. Mä um Internet kann Iech keen gesinn. Also braucht Dir eppes, wat Är Identitéit op eng sécher Manéier beweist. Dat ass déi digital Identitéit.
 
-**TOM:** Natierlech. Stell der et vir wéi déi digital Versioun vun Ärer Identitéitskaart oder Ärem Pass. Am richtege Liewen weist Dir Är Identitéitskaart, fir ze beweisen, wien Dir sidd. Mä um Internet kann Iech keen gesinn. Also braucht Dir eppes, wat Är Identitéit op eng sécher Manéier beweist. Dat ass déi digital Identitéit.
+**TOM:** Ah. Also ass et wéi eng Identitéitskaart, mä fir den Internet.
 
-**ANNA:** Ah. Also ass et wéi eng Identitéitskaart, mä fir den Internet.
+**ANNA:** Genau. A LuxTrust ass d'Firma, déi se ubitt. Si sinn dat, wat mer eng "Certificate Authority" an en "trust service provider" nennen. Si sinn vun der Europäescher Unioun zertifizéiert, a si maachen dat scho ronn zwanzeg Joer.
 
-**TOM:** Genau. A LuxTrust ass d'Firma, déi se ubitt. Si sinn dat, wat mer eng "Certificate Authority" an en "trust service provider" nennen. Si sinn vun der Europäescher Unioun zertifizéiert, a si maachen dat scho ronn zwanzeg Joer.
+**TOM:** Zwanzeg Joer. Also ass et gutt etabléiert. An sinn meng Donnéeën sécher bei hinnen?
 
-**ANNA:** Zwanzeg Joer. Also ass et gutt etabléiert. An sinn meng Donnéeën sécher bei hinnen?
+**ANNA:** Jo. Är Donnéeën sinn verschlësselt, a gespäichert an Datenzentren hei, zu Lëtzebuerg. D'Sécherheet ass wierklech de ganze Sënn vun der Firma.
 
-**TOM:** Jo. Är Donnéeën sinn verschlësselt, a gespäichert an Datenzentren hei, zu Lëtzebuerg. D'Sécherheet ass wierklech de ganze Sënn vun der Firma.
+**TOM:** Gutt. Elo déi wichtegst Fro fir déi meescht Leit. Wat kann ech eigentlech mat menger LuxTrust-Identitéit maachen?
 
-**ANNA:** Gutt. Elo déi wichtegst Fro fir déi meescht Leit. Wat kann ech eigentlech mat menger LuxTrust-Identitéit maachen?
+**ANNA:** Vill alldeeglech Saachen. Loosst mech déi véier Haaptnotzunge ginn. Déi éischt, an déi heefegst — Är Bank. Mat LuxTrust mellt Dir Iech sécher an Ärem Online-Banking un, an Dir bestätegt Är Transaktiounen. Eng Bezuelung, en Iwwerweisung... Dir validéiert se mat LuxTrust.
 
-**TOM:** Vill alldeeglech Saachen. Loosst mech déi véier Haaptnotzunge ginn. Déi éischt, an déi heefegst — Är Bank. Mat LuxTrust mellt Dir Iech sécher an Ärem Online-Banking un, an Dir bestätegt Är Transaktiounen. Eng Bezuelung, en Iwwerweisung... Dir validéiert se mat LuxTrust.
+**TOM:** Also déi meescht Leit zu Lëtzebuerg léieren LuxTrust als éischt iwwer hir Bank kennen.
 
-**ANNA:** Also déi meescht Leit zu Lëtzebuerg léieren LuxTrust als éischt iwwer hir Bank kennen.
+**ANNA:** Genau. Déi zweet Notzung — ëffentlech Servicer. Mat LuxTrust mellt Dir Iech op MyGuichet.lu un. Esou kënnt Dir Är administrativ Demarchen maachen, an, zum Beispill, Är Steiererklärung online ausfëllen an ënnerschreiwen.
 
-**TOM:** Genau. Déi zweet Notzung — ëffentlech Servicer. Mat LuxTrust mellt Dir Iech op MyGuichet.lu un. Esou kënnt Dir Är administrativ Demarchen maachen, an, zum Beispill, Är Steiererklärung online ausfëllen an ënnerschreiwen.
+**TOM:** Dat ass de Link mat eiser MyGuichet-Episod. Okay, déi drëtt?
 
-**ANNA:** Dat ass de Link mat eiser MyGuichet-Episod. Okay, déi drëtt?
+**ANNA:** Déi drëtt ass eng schéin — déi elektronesch Ënnerschrëft. Mat LuxTrust kënnt Dir en Dokument elektronesch ënnerschreiwen. An — dat ass de Schlësselpunkt — déi elektronesch Ënnerschrëft huet deeselwechte juristesche Wäert wéi eng handgeschriwwen Ënnerschrëft.
 
-**TOM:** Déi drëtt ass eng schéin — déi elektronesch Ënnerschrëft. Mat LuxTrust kënnt Dir en Dokument elektronesch ënnerschreiwen. An — dat ass de Schlësselpunkt — déi elektronesch Ënnerschrëft huet deeselwechte juristesche Wäert wéi eng handgeschriwwen Ënnerschrëft.
+**TOM:** Waart, wierklech? Deeselwechte juristesche Wäert wéi mat engem Bic z'ënnerschreiwen?
 
-**ANNA:** Waart, wierklech? Deeselwechte juristesche Wäert wéi mat engem Bic z'ënnerschreiwen?
+**ANNA:** Deeselwechten. Also kënnt Dir e Kontrakt ofschléissen, oder en offiziellt Dokument ënnerschreiwen, vun doheem, ouni eppes auszedrécken.
 
-**TOM:** Deeselwechten. Also kënnt Dir e Kontrakt ofschléissen, oder en offiziellt Dokument ënnerschreiwen, vun doheem, ouni eppes auszedrécken.
+**TOM:** Dat ass mächteg. An déi véiert Notzung?
 
-**ANNA:** Dat ass mächteg. An déi véiert Notzung?
+**ANNA:** Déi véiert — Är Online-Akeef. Wann Dir online akeeft, kann LuxTrust benotzt ginn, zesumme mam System, deen 3D Secure heescht, fir ze bestätegen, datt et wierklech Dir sidd, deen bezilt. Esou si Är Kaartebezuelunge méi sécher.
 
-**TOM:** Déi véiert — Är Online-Akeef. Wann Dir online akeeft, kann LuxTrust benotzt ginn, zesumme mam System, deen 3D Secure heescht, fir ze bestätegen, datt et wierklech Dir sidd, deen bezilt. Esou si Är Kaartebezuelunge méi sécher.
+**TOM:** Also, fir zesummenzefaassen — Banking, ëffentlech Servicer, elektronesch Ënnerschrëft, an Online-Bezuelungen.
 
-**ANNA:** Also, fir zesummenzefaassen — Banking, ëffentlech Servicer, elektronesch Ënnerschrëft, an Online-Bezuelungen.
+**ANNA:** Dat ass et. Eng Identitéit, fir all dat.
 
-**TOM:** Dat ass et. Eng Identitéit, fir all dat.
+**TOM:** A séier — ass et just fir Privatpersoune wéi eis? Oder och fir Betriber?
 
-**ANNA:** A séier — ass et just fir Privatpersoune wéi eis? Oder och fir Betriber?
+**ANNA:** Meeschtens schwätze mer haut iwwer Privatpersounen. Mä jo, Betriber benotzen LuxTrust och — fir hir Clienten z'identifizéieren, fir Dokumenter z'ënnerschreiwen an ze versigelen, a fir hir Prozesser ze sécheren. Mä fir Iech, als Awunner oder Grenzgänger, sinn déi perséinlech Notzunge dat, wat am wichtegsten ass.
 
-**TOM:** Meeschtens schwätze mer haut iwwer Privatpersounen. Mä jo, Betriber benotzen LuxTrust och — fir hir Clienten z'identifizéieren, fir Dokumenter z'ënnerschreiwen an ze versigelen, a fir hir Prozesser ze sécheren. Mä fir Iech, als Awunner oder Grenzgänger, sinn déi perséinlech Notzunge dat, wat am wichtegsten ass.
+**TOM:** Perfekt. Elo den praktneschen Deel. Wéi funktionéiert et eigentlech, wann ech et benotzen?
 
-**ANNA:** Perfekt. Elo den praktneschen Deel. Wéi funktionéiert et eigentlech, wann ech et benotzen?
+**ANNA:** Huele mer d'Beispill, sech an der Bank unzemellen. Schrëtt eent — Dir verbënnt Iech op d'Websäit oder d'App vun Ärer Bank. Schrëtt zwee — Dir wielt Är LuxTrust-Apparat. Schrëtt dräi — Dir gitt Är User ID an Äert Passwuert an. Oder, wann Dir eng kaartebaséiert Apparat hutt, Äre PIN-Code. A Schrëtt véier — Dir generéiert en eemolegt Passwuert, en OTP — e Code, deen nëmmen eemol funktionéiert — an dat gëtt Iech den Zougang.
 
-**TOM:** Huele mer d'Beispill, sech an der Bank unzemellen. Schrëtt eent — Dir verbënnt Iech op d'Websäit oder d'App vun Ärer Bank. Schrëtt zwee — Dir wielt Är LuxTrust-Apparat. Schrëtt dräi — Dir gitt Är User ID an Äert Passwuert an. Oder, wann Dir eng kaartebaséiert Apparat hutt, Äre PIN-Code. A Schrëtt véier — Dir generéiert en eemolegt Passwuert, en OTP — e Code, deen nëmmen eemol funktionéiert — an dat gëtt Iech den Zougang.
+**TOM:** En eemolegt Passwuert. Also all Kéier en neie Code.
 
-**ANNA:** En eemolegt Passwuert. Also all Kéier en neie Code.
+**ANNA:** All Kéier. Dat ass dat, wat et sécher mécht. Mat der LuxTrust-App geschitt dat alles a puer Tipp op Ärem Handy.
 
-**TOM:** All Kéier. Dat ass dat, wat et sécher mécht. Mat der LuxTrust-App geschitt dat alles a puer Tipp op Ärem Handy.
+**TOM:** Apropos — wat sinn déi verschidde LuxTrust-Produkter? Well ech mengen, et gëtt eng Wiel.
 
-**ANNA:** Apropos — wat sinn déi verschidde LuxTrust-Produkter? Well ech mengen, et gëtt eng Wiel.
+**ANNA:** Et gëtt. Fir eng Privatpersoun gëtt et dräi Haaptprodukter. Dat éischt, an haut dat populärst — d'LuxTrust Mobile App. Et ass eng honnertprozenteg mobil Léisung. Alles geschitt op Ärem Smartphone.
 
-**TOM:** Et gëtt. Fir eng Privatpersoun gëtt et dräi Haaptprodukter. Dat éischt, an haut dat populärst — d'LuxTrust Mobile App. Et ass eng honnertprozenteg mobil Léisung. Alles geschitt op Ärem Smartphone.
+**TOM:** Also keng extra Apparat ze droen. Just mäin Handy.
 
-**ANNA:** Also keng extra Apparat ze droen. Just mäin Handy.
+**ANNA:** Just Äert Handy. Dat zweet Produkt ass de Scan — eng kleng physesch Apparat, mat engem klengen Ecran an enger Kamera, déi Är Codes generéiert. An dat drëtt ass d'SmartCard — eng Chipkaart, wéi eng Bankkaart. Mä fir d'SmartCard ze benotzen, braucht Dir e Kaartelieser an eng Software op Ärem Computer.
 
-**TOM:** Just Äert Handy. Dat zweet Produkt ass de Scan — eng kleng physesch Apparat, mat engem klengen Ecran an enger Kamera, déi Är Codes generéiert. An dat drëtt ass d'SmartCard — eng Chipkaart, wéi eng Bankkaart. Mä fir d'SmartCard ze benotzen, braucht Dir e Kaartelieser an eng Software op Ärem Computer.
+**TOM:** A wéi eng soll déi meescht Leit wielen?
 
-**ANNA:** A wéi eng soll déi meescht Leit wielen?
+**ANNA:** Fir déi meescht Leit haut ass d'App déi einfachst. An hei eng wichteg Notiz — deen ale LuxTrust Token, déi kleng Apparat, déi vill Leit um Schlësselbond haten, gouf um Enn vun 2024 gestoppt. Also wann Dir nach en alen Token hutt, ass et Zäit, op d'App ze wiesselen.
 
-**TOM:** Fir déi meescht Leit haut ass d'App déi einfachst. An hei eng wichteg Notiz — deen ale LuxTrust Token, déi kleng Apparat, déi vill Leit um Schlësselbond haten, gouf um Enn vun 2024 gestoppt. Also wann Dir nach en alen Token hutt, ass et Zäit, op d'App ze wiesselen.
+**TOM:** Gutt ze wëssen. An — ongeféier — wat kascht et?
 
-**ANNA:** Gutt ze wëssen. An — ongeféier — wat kascht et?
+**ANNA:** Et ass e bezuelte Service, dräi Joer gülteg. Als groff Iddi, d'App fänkt bei ronn fofzeg Euro fir dräi Joer un, an déi physesch Apparater kaschten e bësse méi. Mä iwwerpréift w.e.g. déi genee Präisser op luxtrust.com, well se kënne sech änneren.
 
-**TOM:** Et ass e bezuelte Service, dräi Joer gülteg. Als groff Iddi, d'App fänkt bei ronn fofzeg Euro fir dräi Joer un, an déi physesch Apparater kaschten e bësse méi. Mä iwwerpréift w.e.g. déi genee Präisser op luxtrust.com, well se kënne sech änneren.
+**TOM:** Iwwerpréift ëmmer d'Websäit fir de genee Präis. Okay, Anna — elo déi grouss praktesch Fro. Ech sinn nei hei, ech hu nach näischt. Wéi kréien ech eng LuxTrust-Identitéit? Schrëtt fir Schrëtt.
 
-**ANNA:** Iwwerpréift ëmmer d'Websäit fir de genee Präis. Okay, Tom — elo déi grouss praktesch Fro. Ech sinn nei hei, ech hu nach näischt. Wéi kréien ech eng LuxTrust-Identitéit? Schrëtt fir Schrëtt.
+**ANNA:** Fënnef Schrëtt. Schrëtt eent — wielt dat richtegt Produkt fir Iech, zum Beispill d'App. Schrëtt zwee — gitt Är Bestellung op. Dir kënnt online bestellen, op der LuxTrust-Websäit, oder iwwer Är Bank.
 
-**TOM:** Fënnef Schrëtt. Schrëtt eent — wielt dat richtegt Produkt fir Iech, zum Beispill d'App. Schrëtt zwee — gitt Är Bestellung op. Dir kënnt online bestellen, op der LuxTrust-Websäit, oder iwwer Är Bank.
+**TOM:** Ah, also meng Bank kann et fir mech ariichten.
 
-**ANNA:** Ah, also meng Bank kann et fir mech ariichten.
+**ANNA:** Ganz dacks, jo — vill Leit kréien hire LuxTrust iwwer hir Bank. Schrëtt dräi, an deen ass wichteg — Dir musst Iech identifizéiere loossen. Well si e Beweis vun Ärer Identitéit erstellen, mussen si iwwerpréiwen, wien Dir sidd. Dir kënnt dat vis-à-vis maachen, mat engem vun hiren Agenten. Oder op Distanz, duerch eng Video-Identifikatioun.
 
-**TOM:** Ganz dacks, jo — vill Leit kréien hire LuxTrust iwwer hir Bank. Schrëtt dräi, an deen ass wichteg — Dir musst Iech identifizéiere loossen. Well si e Beweis vun Ärer Identitéit erstellen, mussen si iwwerpréiwen, wien Dir sidd. Dir kënnt dat vis-à-vis maachen, mat engem vun hiren Agenten. Oder op Distanz, duerch eng Video-Identifikatioun.
+**TOM:** Also, e bësse wéi e Bankkont opzemaachen. Si verifizéieren, datt et wierklech ech sinn.
 
-**ANNA:** Also, e bësse wéi e Bankkont opzemaachen. Si verifizéieren, datt et wierklech ech sinn.
+**ANNA:** Genau. Schrëtt véier — Dir kritt Är LuxTrust-Codes, an Är Apparat, wann Dir eng bestallt hutt. A Schrëtt fënnef — Dir aktivéiert Är Identitéit. Duerno ass Är digital Identitéit dräi Joer gülteg.
 
-**TOM:** Genau. Schrëtt véier — Dir kritt Är LuxTrust-Codes, an Är Apparat, wann Dir eng bestallt hutt. A Schrëtt fënnef — Dir aktivéiert Är Identitéit. Duerno ass Är digital Identitéit dräi Joer gülteg.
+**TOM:** Bleiwe mer bei deem leschte Schrëtt — d'Aktivéierung. Wat muss ech prett hunn?
 
-**ANNA:** Bleiwe mer bei deem leschte Schrëtt — d'Aktivéierung. Wat muss ech prett hunn?
+**ANNA:** Gutt Fro. Ier Dir ufänkt, hutt dës Saachen zur Hand. Är User ID — Dir kritt se per Bréif, oder per SMS. Äert ufänglecht Passwuert — och per Bréif oder SMS. Är Apparat, wann Dir eng hutt. An Äre Aktivéierungscode.
 
-**TOM:** Gutt Fro. Ier Dir ufänkt, hutt dës Saachen zur Hand. Är User ID — Dir kritt se per Bréif, oder per SMS. Äert ufänglecht Passwuert — och per Bréif oder SMS. Är Apparat, wann Dir eng hutt. An Äre Aktivéierungscode.
+**TOM:** Den Aktivéierungscode — wou kënnt deen hier?
 
-**ANNA:** Den Aktivéierungscode — wou kënnt deen hier?
+**ANNA:** Dir hutt en eigentlech selwer gewielt, wéi Dir bestallt hutt. Si roden Iech normalerweis, déi lescht fënnef Zeechen vun Ärer Identitéitskaart- oder Passnummer ze benotzen. An Dir fannt en och an der Bestellbestätegung, déi Iech per E-Mail geschéckt gëtt.
 
-**TOM:** Dir hutt en eigentlech selwer gewielt, wéi Dir bestallt hutt. Si roden Iech normalerweis, déi lescht fënnef Zeechen vun Ärer Identitéitskaart- oder Passnummer ze benotzen. An Dir fannt en och an der Bestellbestätegung, déi Iech per E-Mail geschéckt gëtt.
+**TOM:** Okay. A wéi geet d'Aktivéierung selwer?
 
-**ANNA:** Okay. A wéi geet d'Aktivéierung selwer?
+**ANNA:** Et hänkt vum Produkt of. Fir d'Mobile App aktivéiert Dir et direkt op Ärem Smartphone, andeem Dir dem Guide follegt. Fir de Scan dauert et ongeféier sechs Minutten — Dir follegt de Schrëtt, scannt e puer QR-Codes, a setzt en neit, staarkt Passwuert. Fir d'SmartCard ass et e bësse méi laang, ronn zwanzeg Minutten, well Dir als éischt d'Software, déi Middleware genannt gëtt, op Ärem Computer installéiert.
 
-**TOM:** Et hänkt vum Produkt of. Fir d'Mobile App aktivéiert Dir et direkt op Ärem Smartphone, andeem Dir dem Guide follegt. Fir de Scan dauert et ongeféier sechs Minutten — Dir follegt de Schrëtt, scannt e puer QR-Codes, a setzt en neit, staarkt Passwuert. Fir d'SmartCard ass et e bësse méi laang, ronn zwanzeg Minutten, well Dir als éischt d'Software, déi Middleware genannt gëtt, op Ärem Computer installéiert.
+**TOM:** A wann ech fäerdeg sinn ze aktivéieren — kann ech et direkt benotzen?
 
-**ANNA:** A wann ech fäerdeg sinn ze aktivéieren — kann ech et direkt benotzen?
+**ANNA:** Bal. Eng kleng Saach, fir ze behalen — no der Aktivéierung gëtt de Certificat no ongeféier véier Stonnen benotzbar. Also aktivéiert et net fënnef Minutten ier Dir et braucht. Maacht et e bësse am Viraus.
 
-**TOM:** Bal. Eng kleng Saach, fir ze behalen — no der Aktivéierung gëtt de Certificat no ongeféier véier Stonnen benotzbar. Also aktivéiert et net fënnef Minutten ier Dir et braucht. Maacht et e bësse am Viraus.
+**TOM:** Ganz praktneschen Tipp. Aktivéiert et den Owend virdrun, net an der leschter Minutt.
 
-**ANNA:** Ganz praktneschen Tipp. Aktivéiert et den Owend virdrun, net an der leschter Minutt.
+**ANNA:** Genau.
 
-**TOM:** Genau.
+**TOM:** Elo, Anna — dat ass digital Identitéit, et ass sensibel. Schwätze mer iwwer Sécherheet. Iwwer Bedruch.
 
-**ANNA:** Elo, Tom — dat ass digital Identitéit, et ass sensibel. Schwätze mer iwwer Sécherheet. Iwwer Bedruch.
+**ANNA:** Jo, dat ass wierklech wichteg. Et gëtt Phishing-Versich — falsch Messagen, falsch Telefonsuriff, déi virgi LuxTrust ze sinn. Also behalt e puer Reegelen. LuxTrust wäert Iech ni no Äre Codes oder Äre Login-Donnéeë froen. Ni.
 
-**TOM:** Jo, dat ass wierklech wichteg. Et gëtt Phishing-Versich — falsch Messagen, falsch Telefonsuriff, déi virgi LuxTrust ze sinn. Also behalt e puer Reegelen. LuxTrust wäert Iech ni no Äre Codes oder Äre Login-Donnéeë froen. Ni.
+**TOM:** Ni d'Codes ginn. Och wann et offiziell ausgesäit?
 
-**ANNA:** Ni d'Codes ginn. Och wann et offiziell ausgesäit?
+**ANNA:** Och dann. A méi — LuxTrust wäert Iech ni uruffen, fir no sensibelen Informatiounen ze froen. Si wäerten ni no Zougang zu Ärem Computer oder Ärem Handy froen. A si wäerten ni bei Iech doheem kommen.
 
-**TOM:** Och dann. A méi — LuxTrust wäert Iech ni uruffen, fir no sensibelen Informatiounen ze froen. Si wäerten ni no Zougang zu Ärem Computer oder Ärem Handy froen. A si wäerten ni bei Iech doheem kommen.
+**TOM:** Also wann iergendeen iergendeppes dovunner mécht, ass et e Bedruch.
 
-**ANNA:** Also wann iergendeen iergendeppes dovunner mécht, ass et e Bedruch.
+**ANNA:** Et ass e Bedruch. Är digital Identitéit ass Är, an nëmmen Är. Genau wéi Dir Är Bankkaart an Äre PIN net engem Kolleeg gitt, deelt Dir ni Är LuxTrust-Login-Donnéeën. Wann Dir am Zweiwel sidd, kontaktéiert LuxTrust direkt, mat der Nummer op hirer offizieller Websäit.
 
-**TOM:** Et ass e Bedruch. Är digital Identitéit ass Är, an nëmmen Är. Genau wéi Dir Är Bankkaart an Äre PIN net engem Kolleeg gitt, deelt Dir ni Är LuxTrust-Login-Donnéeën. Wann Dir am Zweiwel sidd, kontaktéiert LuxTrust direkt, mat der Nummer op hirer offizieller Websäit.
+**TOM:** Dat ass erëm déi gëlle Reegel — am Zweiwel net deelen, an direkt iwwerpréiwen. Okay, Anna, maache mer et richteg praktesch fir een, deen nolauschtert. Wat soll ech maachen?
 
-**ANNA:** Dat ass erëm déi gëlle Reegel — am Zweiwel net deelen, an direkt iwwerpréiwen. Okay, Tom, maache mer et richteg praktesch fir een, deen nolauschtert. Wat soll ech maachen?
+**ANNA:** Wann Dir zu Lëtzebuerg wunnt oder schafft an et nach net hutt — kritt eng LuxTrust-Identitéit. Den einfachste Wee: frot Är Bank, oder gitt op luxtrust.com, wielt d'App, bestellt se, loosst Iech identifizéieren, an aktivéiert se. Dann kënnt Dir se fir Är Bank benotzen, fir MyGuichet, fir Dokumenter z'ënnerschreiwen, a fir Är Online-Bezuelungen.
 
-**TOM:** Wann Dir zu Lëtzebuerg wunnt oder schafft an et nach net hutt — kritt eng LuxTrust-Identitéit. Den einfachste Wee: frot Är Bank, oder gitt op luxtrust.com, wielt d'App, bestellt se, loosst Iech identifizéieren, an aktivéiert se. Dann kënnt Dir se fir Är Bank benotzen, fir MyGuichet, fir Dokumenter z'ënnerschreiwen, a fir Är Online-Bezuelungen.
+**TOM:** Eng Identitéit, fir Äert ganzt digitaalt Liewen hei. E kuerze Resumé fir ofzeschléissen?
 
-**ANNA:** Eng Identitéit, fir Äert ganzt digitaalt Liewen hei. E kuerze Resumé fir ofzeschléissen?
+**ANNA:** Klar. LuxTrust ass Är sécher digital Identitéit zu Lëtzebuerg — wéi eng Identitéitskaart fir den Internet, vun engem europäesch zertifizéierte Provider. Dir benotzt se fir Online-Banking, fir ëffentlech Servicer wéi MyGuichet, fir juristesch gülteg elektronesch Ënnerschrëften, a fir Online-Bezuelungen. Dir kritt se iwwer Är Bank oder op luxtrust.com, Dir beweist Är Identitéit perséinlech oder per Video, an Dir aktivéiert se — am einfachste mat der Mobile App.
 
-**TOM:** Klar. LuxTrust ass Är sécher digital Identitéit zu Lëtzebuerg — wéi eng Identitéitskaart fir den Internet, vun engem europäesch zertifizéierte Provider. Dir benotzt se fir Online-Banking, fir ëffentlech Servicer wéi MyGuichet, fir juristesch gülteg elektronesch Ënnerschrëften, a fir Online-Bezuelungen. Dir kritt se iwwer Är Bank oder op luxtrust.com, Dir beweist Är Identitéit perséinlech oder per Video, an Dir aktivéiert se — am einfachste mat der Mobile App.
+**TOM:** An de Sécherheetsmessage?
 
-**ANNA:** An de Sécherheetsmessage?
+**ANNA:** LuxTrust freet ni no Äre Codes, rifft ni un fir sensibel Donnéeën, freet ni fir Zougang zu Ären Apparater. Behalt Är Login-Donnéeë fir Iech. Am Zweiwel, iwwerpréift déi offiziell Websäit.
 
-**TOM:** LuxTrust freet ni no Äre Codes, rifft ni un fir sensibel Donnéeën, freet ni fir Zougang zu Ären Apparater. Behalt Är Login-Donnéeë fir Iech. Am Zweiwel, iwwerpréift déi offiziell Websäit.
+**TOM:** Schéin. Also... Är digital Identitéit ass de Schlëssel zum alldeeglechen Liewen online zu Lëtzebuerg. Riicht et eemol an, a sou vill gëtt méi einfach.
 
-**ANNA:** Schéin. Also... Är digital Identitéit ass de Schlëssel zum alldeeglechen Liewen online zu Lëtzebuerg. Riicht et eemol an, a sou vill gëtt méi einfach.
-
-**TOM:** Wierklech. E klengen Effort, fir et anzeriichten... an dann alles, vun Ärem Canapé.
-
-**ANNA:** Dat war eis Episod iwwer LuxTrust. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
+**ANNA:** Wierklech. E klengen Effort, fir et anzeriichten... an dann alles, vun Ärem Canapé. Dat war eis Episod iwwer LuxTrust. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
 
 **TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
 

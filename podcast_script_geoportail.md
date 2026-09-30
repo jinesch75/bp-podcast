@@ -54,7 +54,6 @@
 **TOM:** And fourth... much of its data is open, fuelling new apps and services.
 **ANNA:** A map is more than directions. It's a way of seeing, and understanding, the place we share.
 **TOM:** And this one is right at your fingertips, for free, whenever curiosity strikes.
-
 **ANNA:** That was our episode about the Geoportal. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.

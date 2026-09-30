@@ -64,9 +64,7 @@
 **TOM:** Third... managing authorities choose and oversee projects, spending public money wisely.
 **ANNA:** And fourth... organisations can apply, and everyone can see the projects on the European Funds website.
 **TOM:** Europe can feel far away and abstract. But sometimes, it looks like a training course, or a new job, right next door.
-**ANNA:** And understanding that helps us see the value behind the headlines.
-
-**ANNA:** That was our episode about European funds in Luxembourg. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** And understanding that helps us see the value behind the headlines. That was our episode about European funds in Luxembourg. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.
 

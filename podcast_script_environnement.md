@@ -62,7 +62,6 @@
 **TOM:** And fourth... it shows how each of us can take part, with simple daily actions and local projects.
 **ANNA:** Nature gives us so much, quietly, every day. Caring for it is a way of caring for each other.
 **TOM:** And it starts with knowing, and then with small, steady steps.
-
 **ANNA:** That was our episode about the environment portal. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.

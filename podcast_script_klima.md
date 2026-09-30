@@ -88,7 +88,6 @@
 **TOM:** And fifth... be careful of anyone misusing their name to sell you something. The real service is free.
 **ANNA:** Energy and climate can feel like huge, distant topics. But they start at home, with small, doable steps.
 **TOM:** And you don't have to figure it all out alone. There is free, friendly, expert help waiting for you.
-
 **ANNA:** That was our episode about the Klima-Agence. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.

@@ -104,9 +104,7 @@
 **TOM:** And fifth... there is special help for young people, through the Youth Guarantee, and for people with disabilities.
 **ANNA:** And remember the safety rule... ADEM never asks for payment.
 **TOM:** A job search can feel stressful. But the message of this episode is that you don't have to do it alone.
-**ANNA:** ADEM is there to walk beside you. One step at a time.
-
-**ANNA:** That was our episode about ADEM. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** ADEM is there to walk beside you. One step at a time. That was our episode about ADEM. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.
 

@@ -503,23 +503,23 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### benevolat (11)
 
-- **Tom:** And the most useful thing for a listener is their website — benevolat.lu.  
+- **Anna:** And the most useful thing for a listener is their website — benevolat.lu.  
   → And the most useful thing for a listener is their website — benevolat dot L-U.
-- **Anna:** benevolat.lu.  
+- **Tom:** benevolat.lu.  
   → benevolat dot L-U.
-- **Tom:** You do NOT need to commit for a long time.  
+- **Anna:** You do NOT need to commit for a long time.  
   → You do not need to commit for a long time.
-- **Tom:** On benevolat.lu, many missions are just for a single event, or a single day.  
+- **Anna:** On benevolat.lu, many missions are just for a single event, or a single day.  
   → On benevolat dot L-U, many missions are just for a single event, or a single day.
-- **Tom:** Step two — you go to benevolat.lu and register on the portal.  
+- **Anna:** Step two — you go to benevolat.lu and register on the portal.  
   → Step two — you go to benevolat dot L-U and register on the portal.
-- **Anna:** Register on benevolat.lu.  
+- **Tom:** Register on benevolat.lu.  
   → Register on benevolat dot L-U.
-- **Tom:** And if you prefer to talk to a human, you can contact the Agence directly — they're on Avenue Guillaume in Luxembourg City and you can reach them by phone at 261210.  
+- **Anna:** And if you prefer to talk to a human, you can contact the Agence directly — they're on Avenue Guillaume in Luxembourg City and you can reach them by phone at 261210.  
   → And if you prefer to talk to a human, you can contact the Agence directly — they're on Avenue Guillaume in Luxembourg City and you can reach them by phone at two six one two one zero.
-- **Tom:** The central place is the Agence du Bénévolat, and their website benevolat.lu, where associations and volunteers meet, in every region.  
+- **Anna:** The central place is the Agence du Bénévolat, and their website benevolat.lu, where associations and volunteers meet, in every region.  
   → The central place is the Agence du Bénévolat, and their website benevolat dot L-U, where associations and volunteers meet, in every region.
-- **Tom:** To start: think about what you enjoy, register on benevolat.lu, and offer your help.  
+- **Anna:** To start: think about what you enjoy, register on benevolat.lu, and offer your help.  
   → To start: think about what you enjoy, register on benevolat dot L-U, and offer your help.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
@@ -592,15 +592,15 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### clarvia (7)
 
-- **Tom:** Clarvia is a Luxembourg non-profit — an ASBL — founded in 2026.  
+- **Anna:** Clarvia is a Luxembourg non-profit — an ASBL — founded in 2026.  
   → Clarvia is a Luxembourg non-profit — an A-S-B-L — founded in 2026.
-- **Tom:** An early version — they call it an alpha version — is already available on their website, clarvia.org.  
+- **Anna:** An early version — they call it an alpha version — is already available on their website, clarvia.org.  
   → An early version — they call it an alpha version — is already available on their website, clarvia dot org.
-- **Tom:** Every step in the checklist is mapped back to an official government source — for example Guichet.lu.  
+- **Anna:** Every step in the checklist is mapped back to an official government source — for example Guichet.lu.  
   → Every step in the checklist is mapped back to an official government source — for example Guichet dot L-U.
-- **Tom:** If you have already managed the practical steps after losing someone in Luxembourg, you can share your experience on clarvia.org — what was hardest, which documents were difficult, what would have helped.  
+- **Anna:** If you have already managed the practical steps after losing someone in Luxembourg, you can share your experience on clarvia.org — what was hardest, which documents were difficult, what would have helped.  
   → If you have already managed the practical steps after losing someone in Luxembourg, you can share your experience on clarvia dot org — what was hardest, which documents were difficult, what would have helped.
-- **Tom:** It's free, it protects your privacy, and the first version is already on clarvia.org.  
+- **Anna:** It's free, it protects your privacy, and the first version is already on clarvia.org.  
   → It's free, it protects your privacy, and the first version is already on clarvia dot org.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
@@ -703,63 +703,63 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### dsp_cns (32)
 
-- **Tom:** And second, how you get your money back from the health insurance, the CNS.  
+- **Anna:** And second, how you get your money back from the health insurance, the CNS.  
   → And second, how you get your money back from the health insurance, the C-N-S.
-- **Tom:** The DSP is a free, personal, and secure electronic health file.  
+- **Anna:** The DSP is a free, personal, and secure electronic health file.  
   → The D-S-P is a free, personal, and secure electronic health file.
-- **Tom:** With the DSP, the doctor on duty can see your essential information.  
+- **Anna:** With the DSP, the doctor on duty can see your essential information.  
   → With the D-S-P, the doctor on duty can see your essential information.
-- **Tom:** It's you, the patient, who decides who can look at your DSP.  
+- **Anna:** It's you, the patient, who decides who can look at your DSP.  
   → It's you, the patient, who decides who can look at your D-S-P.
-- **Anna:** So how do I actually open a DSP?  
+- **Tom:** So how do I actually open a DSP?  
   → So how do I actually open a D-S-P?
-- **Tom:** And here's good news: you can activate it directly through MyGuichet.lu.  
+- **Anna:** And here's good news: you can activate it directly through MyGuichet.lu.  
   → And here's good news: you can activate it directly through MyGuichet dot L-U.
-- **Tom:** You log in to your DSP online, through the eSanté portal.  
+- **Anna:** You log in to your DSP online, through the eSanté portal.  
   → You log in to your D-S-P online, through the eSanté portal.
-- **Anna:** So, to sum up the first half — the DSP is my free, secure, online health file, run by the Agence eSanté, it helps all my carers work together, I control who sees it, and I activate it through MyGuichet.  
+- **Tom:** So, to sum up the first half — the DSP is my free, secure, online health file, run by the Agence eSanté, it helps all my carers work together, I control who sees it, and I activate it through MyGuichet.  
   → So, to sum up the first half — the D-S-P is my free, secure, online health file, run by the Agence eSanté, it helps all my carers work together, I control who sees it, and I activate it through MyGuichet.
-- **Anna:** The CNS.  
+- **Tom:** The CNS.  
   → The C-N-S.
-- **Anna:** Tom, first... what is the CNS?  
-  → Tom, first... what is the C-N-S?
-- **Tom:** CNS stands for Caisse Nationale de Santé — the National Health Fund.  
+- **Tom:** Anna, first... what is the CNS?  
+  → Anna, first... what is the C-N-S?
+- **Anna:** CNS stands for Caisse Nationale de Santé — the National Health Fund.  
   → C-N-S stands for Caisse Nationale de Santé — the National Health Fund.
-- **Tom:** That means — for a normal visit to the doctor, you pay first, and then the CNS pays you back most of it.  
+- **Anna:** That means — for a normal visit to the doctor, you pay first, and then the CNS pays you back most of it.  
   → That means — for a normal visit to the doctor, you pay first, and then the C-N-S pays you back most of it.
-- **Tom:** The CNS reimburses a large part of the cost — for most care it's around eighty to one hundred percent.  
+- **Anna:** The CNS reimburses a large part of the cost — for most care it's around eighty to one hundred percent.  
   → The C-N-S reimburses a large part of the cost — for most care it's around eighty to one hundred percent.
-- **Tom:** Then you send that original, paid invoice to the CNS.  
+- **Anna:** Then you send that original, paid invoice to the CNS.  
   → Then you send that original, paid invoice to the C-N-S.
-- **Tom:** The CNS then pays the reimbursement straight into your bank account.  
+- **Anna:** The CNS then pays the reimbursement straight into your bank account.  
   → The C-N-S then pays the reimbursement straight into your bank account.
-- **Tom:** So — tip for our listeners — give the CNS your bank account number, your IBAN, so they can pay you directly.  
+- **Anna:** So — tip for our listeners — give the CNS your bank account number, your IBAN, so they can pay you directly.  
   → So — tip for our listeners — give the C-N-S your bank account number, your Iban, so they can pay you directly.
-- **Tom:** And that's why the system has exceptions, where you do NOT pay everything first.  
+- **Anna:** And that's why the system has exceptions, where you do NOT pay everything first.  
   → And that's why the system has exceptions, where you do not pay everything first.
-- **Tom:** The pharmacy settles the rest directly with the CNS.  
+- **Anna:** The pharmacy settles the rest directly with the CNS.  
   → The pharmacy settles the rest directly with the C-N-S.
-- **Anna:** The CNS handles the rest behind the scenes.  
+- **Tom:** The CNS handles the rest behind the scenes.  
   → The C-N-S handles the rest behind the scenes.
-- **Tom:** The hospital bills the CNS directly for the care.  
+- **Anna:** The hospital bills the CNS directly for the care.  
   → The hospital bills the C-N-S directly for the care.
-- **Tom:** The CNS covers the eligible care directly, so money is not a barrier to seeing a doctor.  
+- **Anna:** The CNS covers the eligible care directly, so money is not a barrier to seeing a doctor.  
   → The C-N-S covers the eligible care directly, so money is not a barrier to seeing a doctor.
-- **Tom:** Part one — the DSP is your free, secure, online health file.  
+- **Anna:** Part one — the DSP is your free, secure, online health file.  
   → Part one — the D-S-P is your free, secure, online health file.
-- **Tom:** It helps everyone who treats you work from the same information, you control who can see it, and you activate it easily through MyGuichet.lu — or check it on the MyDSP app.  
+- **Anna:** It helps everyone who treats you work from the same information, you control who can see it, and you activate it easily through MyGuichet.lu — or check it on the MyDSP app.  
   → It helps everyone who treats you work from the same information, you control who can see it, and you activate it easily through MyGuichet dot L-U — or check it on the MyDSP app.
-- **Tom:** Part two — the CNS, the national health insurance.  
+- **Anna:** Part two — the CNS, the national health insurance.  
   → Part two — the C-N-S, the national health insurance.
-- **Tom:** For a normal doctor visit, you pay first and the CNS reimburses most of it into your bank account, in about three weeks.  
+- **Anna:** For a normal doctor visit, you pay first and the CNS reimburses most of it into your bank account, in about three weeks.  
   → For a normal doctor visit, you pay first and the C-N-S reimburses most of it into your bank account, in about three weeks.
-- **Anna:** So the message is — get your health file active, keep your invoices, give the CNS your bank details, and don't be afraid to ask for help if you need it.  
+- **Tom:** So the message is — get your health file active, keep your invoices, give the CNS your bank details, and don't be afraid to ask for help if you need it.  
   → So the message is — get your health file active, keep your invoices, give the C-N-S your bank details, and don't be afraid to ask for help if you need it.
-- **Tom:** For the health file, the website is esante.lu.  
+- **Anna:** For the health file, the website is esante.lu.  
   → For the health file, the website is esante dot L-U.
-- **Tom:** For the insurance and reimbursements, it's cns.lu.  
+- **Anna:** For the insurance and reimbursements, it's cns.lu.  
   → For the insurance and reimbursements, it's cns dot L-U.
-- **Tom:** And the procedures are explained on Guichet.lu, in English too.  
+- **Anna:** And the procedures are explained on Guichet.lu, in English too.  
   → And the procedures are explained on Guichet dot L-U, in English too.
 - **Anna:** That was our episode about your online health file and the CNS.  
   → That was our episode about your online health file and the C-N-S.
@@ -974,9 +974,9 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### granderegion (4)
 
-- **Tom:** Culture, tourism, shared heritage, UNESCO world-heritage sites all across the Region.  
+- **Anna:** Culture, tourism, shared heritage, UNESCO world-heritage sites all across the Region.  
   → Culture, tourism, shared heritage, Unesco world-heritage sites all across the Region.
-- **Tom:** And you can find it all at granderegion.net.  
+- **Anna:** And you can find it all at granderegion.net.  
   → And you can find it all at granderegion dot net.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
@@ -1002,15 +1002,15 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### infosenior (7)
 
-- **Tom:** Its home on the internet is a website — infosenior dot l-u.  
+- **Anna:** Its home on the internet is a website — infosenior dot l-u.  
   → Its home on the internet is a website — infosenior dot L-U.
-- **Anna:** infosenior.lu.  
+- **Tom:** infosenior.lu.  
   → infosenior dot L-U.
-- **Tom:** Go to the website — infosenior dot l-u.  
+- **Anna:** Go to the website — infosenior dot l-u.  
   → Go to the website — infosenior dot L-U.
-- **Tom:** Info-Seniors, on infosenior dot l-u, is the State's information portal for older people in Luxembourg.  
+- **Anna:** Info-Seniors, on infosenior dot l-u, is the State's information portal for older people in Luxembourg.  
   → Info-Seniors, on infosenior dot L-U, is the State's information portal for older people in Luxembourg.
-- **Anna:** infosenior.lu.  
+- **Tom:** infosenior.lu.  
   → infosenior dot L-U.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
@@ -1112,37 +1112,37 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### luxtrust (18)
 
-- **Tom:** Think of it as the digital version of your ID card or your passport.  
+- **Anna:** Think of it as the digital version of your ID card or your passport.  
   → Think of it as the digital version of your I-D card or your passport.
-- **Tom:** In real life, you show your ID card to prove who you are.  
+- **Anna:** In real life, you show your ID card to prove who you are.  
   → In real life, you show your I-D card to prove who you are.
-- **Anna:** So it's like an ID card, but for the internet.  
+- **Tom:** So it's like an ID card, but for the internet.  
   → So it's like an I-D card, but for the internet.
-- **Tom:** With LuxTrust, you log in to MyGuichet.lu.  
+- **Anna:** With LuxTrust, you log in to MyGuichet.lu.  
   → With LuxTrust, you log in to MyGuichet dot L-U.
-- **Tom:** Step three — you enter your User ID and your password.  
+- **Anna:** Step three — you enter your User ID and your password.  
   → Step three — you enter your User I-D and your password.
-- **Tom:** Or, if you have a card-based device, your PIN code.  
+- **Anna:** Or, if you have a card-based device, your PIN code.  
   → Or, if you have a card-based device, your Pin code.
-- **Tom:** And step four — you generate a one-time password, an OTP — a code that works only once — and that gives you access.  
+- **Anna:** And step four — you generate a one-time password, an OTP — a code that works only once — and that gives you access.  
   → And step four — you generate a one-time password, an O-T-P — a code that works only once — and that gives you access.
-- **Tom:** But please check the exact prices on luxtrust.com, because they can change.  
+- **Anna:** But please check the exact prices on luxtrust.com, because they can change.  
   → But please check the exact prices on luxtrust dot com, because they can change.
-- **Tom:** Your User ID — you receive it by letter, or by SMS.  
+- **Anna:** Your User ID — you receive it by letter, or by SMS.  
   → Your User I-D — you receive it by letter, or by S-M-S.
-- **Tom:** Your initial password — also by letter or SMS.  
+- **Anna:** Your initial password — also by letter or SMS.  
   → Your initial password — also by letter or S-M-S.
-- **Tom:** They usually advise you to use the last five characters of your ID card or passport number.  
+- **Anna:** They usually advise you to use the last five characters of your ID card or passport number.  
   → They usually advise you to use the last five characters of your I-D card or passport number.
-- **Tom:** For the Scan, it takes about six minutes — you follow the steps, scan some QR codes, and set a new, strong password.  
+- **Anna:** For the Scan, it takes about six minutes — you follow the steps, scan some QR codes, and set a new, strong password.  
   → For the Scan, it takes about six minutes — you follow the steps, scan some Q-R codes, and set a new, strong password.
-- **Tom:** Just like you don't give your bank card and your PIN to a colleague, you never share your LuxTrust credentials.  
+- **Anna:** Just like you don't give your bank card and your PIN to a colleague, you never share your LuxTrust credentials.  
   → Just like you don't give your bank card and your Pin to a colleague, you never share your LuxTrust credentials.
-- **Tom:** The easiest way: ask your bank, or go to luxtrust.com, choose the app, order it, get identified, and activate it.  
+- **Anna:** The easiest way: ask your bank, or go to luxtrust.com, choose the app, order it, get identified, and activate it.  
   → The easiest way: ask your bank, or go to luxtrust dot com, choose the app, order it, get identified, and activate it.
-- **Tom:** LuxTrust is your secure digital identity in Luxembourg — like an ID card for the internet, from a European-certified provider.  
+- **Anna:** LuxTrust is your secure digital identity in Luxembourg — like an ID card for the internet, from a European-certified provider.  
   → LuxTrust is your secure digital identity in Luxembourg — like an I-D card for the internet, from a European-certified provider.
-- **Tom:** You get it through your bank or on luxtrust.com, you prove your identity in person or by video, and you activate it — most easily with the Mobile app.  
+- **Anna:** You get it through your bank or on luxtrust.com, you prove your identity in person or by video, and you activate it — most easily with the Mobile app.  
   → You get it through your bank or on luxtrust dot com, you prove your identity in person or by video, and you activate it — most easily with the Mobile app.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
@@ -1211,75 +1211,75 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### onis (37)
 
-- **Tom:** ONIS.  
+- **Anna:** ONIS.  
   → Onis.
-- **Anna:** Now Tom, in an earlier episode we talked about the National Solidarity Fund, and a benefit called REVIS — the social inclusion income.  
-  → Now Tom, in an earlier episode we talked about the National Solidarity Fund, and a benefit called Revis — the social inclusion income.
-- **Tom:** It's directly connected — and this is the key to understanding ONIS.  
+- **Tom:** Now Anna, in an earlier episode we talked about the National Solidarity Fund, and a benefit called REVIS — the social inclusion income.  
+  → Now Anna, in an earlier episode we talked about the National Solidarity Fund, and a benefit called Revis — the social inclusion income.
+- **Anna:** It's directly connected — and this is the key to understanding ONIS.  
   → It's directly connected — and this is the key to understanding Onis.
-- **Tom:** Do you remember, REVIS is Luxembourg's guaranteed minimum income.  
+- **Anna:** Do you remember, REVIS is Luxembourg's guaranteed minimum income.  
   → Do you remember, Revis is Luxembourg's guaranteed minimum income.
-- **Tom:** If your household income is too low, REVIS tops you up to a basic level.  
+- **Anna:** If your household income is too low, REVIS tops you up to a basic level.  
   → If your household income is too low, Revis tops you up to a basic level.
-- **Tom:** REVIS has two sides.  
+- **Anna:** REVIS has two sides.  
   → Revis has two sides.
-- **Tom:** That part is paid by the National Solidarity Fund, the FNS.  
+- **Anna:** That part is paid by the National Solidarity Fund, the FNS.  
   → That part is paid by the National Solidarity Fund, the F-N-S.
-- **Anna:** And that second side — the inclusion side — is the job of ONIS.  
+- **Tom:** And that second side — the inclusion side — is the job of ONIS.  
   → And that second side — the inclusion side — is the job of Onis.
-- **Tom:** The FNS handles the money.  
+- **Anna:** The FNS handles the money.  
   → The F-N-S handles the money.
-- **Tom:** ONIS handles the people, and their path forward.  
+- **Anna:** ONIS handles the people, and their path forward.  
   → Onis handles the people, and their path forward.
-- **Tom:** REVIS isn't meant to be a cheque you receive forever, alone at home.  
+- **Anna:** REVIS isn't meant to be a cheque you receive forever, alone at home.  
   → Revis isn't meant to be a cheque you receive forever, alone at home.
-- **Anna:** So ONIS is the office that walks beside you on the bridge.  
+- **Tom:** So ONIS is the office that walks beside you on the bridge.  
   → So Onis is the office that walks beside you on the bridge.
-- **Anna:** What kind of office is ONIS, officially?  
+- **Tom:** What kind of office is ONIS, officially?  
   → What kind of office is Onis, officially?
-- **Tom:** It was created by the big REVIS reform — the law of twenty eighteen — and it started its work at the beginning of twenty nineteen.  
+- **Anna:** It was created by the big REVIS reform — the law of twenty eighteen — and it started its work at the beginning of twenty nineteen.  
   → It was created by the big Revis reform — the law of twenty eighteen — and it started its work at the beginning of twenty nineteen.
-- **Tom:** And that's the wisdom of how ONIS works.  
+- **Anna:** And that's the wisdom of how ONIS works.  
   → And that's the wisdom of how Onis works.
-- **Tom:** ONIS works with two kinds of measures.  
+- **Anna:** ONIS works with two kinds of measures.  
   → Onis works with two kinds of measures.
-- **Anna:** If I'm a person who starts receiving REVIS, what actually happens with ONIS?  
+- **Tom:** If I'm a person who starts receiving REVIS, what actually happens with ONIS?  
   → If I'm a person who starts receiving Revis, what actually happens with Onis?
-- **Tom:** It usually begins with an invitation — you're invited to a meeting, a reception, with ONIS.  
+- **Anna:** It usually begins with an invitation — you're invited to a meeting, a reception, with ONIS.  
   → It usually begins with an invitation — you're invited to a meeting, a reception, with Onis.
-- **Tom:** In French, an "agent régional d'inclusion sociale", an ARIS.  
+- **Anna:** In French, an "agent régional d'inclusion sociale", an ARIS.  
   → In French, an "agent régional d'inclusion sociale", an Aris.
-- **Tom:** It's true that REVIS asks for participation — that's the collaboration declaration.  
+- **Anna:** It's true that REVIS asks for participation — that's the collaboration declaration.  
   → It's true that Revis asks for participation — that's the collaboration declaration.
-- **Tom:** And that's the trap REVIS and ONIS are trying to avoid.  
+- **Anna:** And that's the trap REVIS and ONIS are trying to avoid.  
   → And that's the trap Revis and Onis are trying to avoid.
-- **Anna:** The cheque is the floor; ONIS is the staircase.  
-  → The cheque is the floor; Onis is the staircase.
 - **Tom:** The cheque is the floor; ONIS is the staircase.  
   → The cheque is the floor; Onis is the staircase.
-- **Tom:** So Paulo applies for REVIS.  
+- **Anna:** The cheque is the floor; ONIS is the staircase.  
+  → The cheque is the floor; Onis is the staircase.
+- **Anna:** So Paulo applies for REVIS.  
   → So Paulo applies for Revis.
-- **Tom:** The FNS sorts out the money side — he gets the minimum income, so he can live.  
+- **Anna:** The FNS sorts out the money side — he gets the minimum income, so he can live.  
   → The F-N-S sorts out the money side — he gets the minimum income, so he can live.
-- **Tom:** And then ONIS enters his life.  
+- **Anna:** And then ONIS enters his life.  
   → And then Onis enters his life.
-- **Tom:** That's the quiet philosophy behind ONIS.  
+- **Anna:** That's the quiet philosophy behind ONIS.  
   → That's the quiet philosophy behind Onis.
-- **Tom:** First — if you receive REVIS, ONIS is not your enemy.  
+- **Anna:** First — if you receive REVIS, ONIS is not your enemy.  
   → First — if you receive Revis, Onis is not your enemy.
-- **Tom:** It's the part of REVIS that's there to help you move forward, with a real person and a personal plan.  
+- **Anna:** It's the part of REVIS that's there to help you move forward, with a real person and a personal plan.  
   → It's the part of Revis that's there to help you move forward, with a real person and a personal plan.
-- **Tom:** The official website is onis — that's o-n-i-s — dot gouvernement dot l-u.  
+- **Anna:** The official website is onis — that's o-n-i-s — dot gouvernement dot l-u.  
   → The official website is onis — that's O-N-I-S — dot gouvernement dot L-U.
-- **Tom:** And for the REVIS benefit itself, the information is on guichet dot l-u, and the money side is the National Solidarity Fund, which we covered in another episode.  
+- **Anna:** And for the REVIS benefit itself, the information is on guichet dot l-u, and the money side is the National Solidarity Fund, which we covered in another episode.  
   → And for the Revis benefit itself, the information is on guichet dot L-U, and the money side is the National Solidarity Fund, which we covered in another episode.
-- **Tom:** ONIS, the National Social Inclusion Office, is the government office that handles the "inclusion" side of REVIS, Luxembourg's social inclusion income.  
+- **Anna:** ONIS, the National Social Inclusion Office, is the government office that handles the "inclusion" side of REVIS, Luxembourg's social inclusion income.  
   → Onis, the National Social Inclusion Office, is the government office that handles the "inclusion" side of Revis, Luxembourg's social inclusion income.
-- **Tom:** While the National Solidarity Fund pays the money, ONIS helps the people furthest from work move forward — through stabilisation measures first, then activation measures.  
+- **Anna:** While the National Solidarity Fund pays the money, ONIS helps the people furthest from work move forward — through stabilisation measures first, then activation measures.  
   → While the National Solidarity Fund pays the money, Onis helps the people furthest from work move forward — through stabilisation measures first, then activation measures.
-- **Anna:** So... whether it's for you, or for someone you care about — remember, behind the REVIS cheque there's also a helping hand.  
+- **Tom:** So... whether it's for you, or for someone you care about — remember, behind the REVIS cheque there's also a helping hand.  
   → So... whether it's for you, or for someone you care about — remember, behind the Revis cheque there's also a helping hand.
-- **Anna:** ONIS.  
+- **Tom:** ONIS.  
   → Onis.
 - **Anna:** If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.  
   → If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt dot L-U where you will find detailed information.
@@ -1511,53 +1511,53 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### zukunftskeess (27)
 
-- **Tom:** It's called the Zukunftskeess.  
+- **Anna:** It's called the Zukunftskeess.  
   → It's called the Tsoo-koonfts-kayss.
-- **Anna:** Zukunftskeess.  
+- **Tom:** Zukunftskeess.  
   → Tsoo-koonfts-kayss.
-- **Tom:** The Zukunftskeess is the official State fund that pays family benefits in Luxembourg.  
+- **Anna:** The Zukunftskeess is the official State fund that pays family benefits in Luxembourg.  
   → The Tsoo-koonfts-kayss is the official State fund that pays family benefits in Luxembourg.
-- **Tom:** Its home on the internet is c-a-e dot l-u.  
+- **Anna:** Its home on the internet is c-a-e dot l-u.  
   → Its home on the internet is C-A-E dot L-U.
-- **Anna:** cae.lu.  
+- **Tom:** cae.lu.  
   → cae dot L-U.
-- **Tom:** The forms come from your doctor, the maternity hospital, or the commune — and you send them to the Zukunftskeess.  
+- **Anna:** The forms come from your doctor, the maternity hospital, or the commune — and you send them to the Zukunftskeess.  
   → The forms come from your doctor, the maternity hospital, or the commune — and you send them to the Tsoo-koonfts-kayss.
-- **Tom:** So for the exact figure today, you check the official page — it's the "social parameters" page on guichet dot l-u.  
+- **Anna:** So for the exact figure today, you check the official page — it's the "social parameters" page on guichet dot l-u.  
   → So for the exact figure today, you check the official page — it's the "social parameters" page on guichet dot L-U.
-- **Tom:** You only need to tell the Zukunftskeess if something changes.  
+- **Anna:** You only need to tell the Zukunftskeess if something changes.  
   → You only need to tell the Tsoo-koonfts-kayss if something changes.
-- **Anna:** Now — let's talk about how you actually deal with the Zukunftskeess.  
+- **Tom:** Now — let's talk about how you actually deal with the Zukunftskeess.  
   → Now — let's talk about how you actually deal with the Tsoo-koonfts-kayss.
-- **Tom:** Most things can be done online, through MyGuichet.lu — the State's digital platform.  
+- **Anna:** Most things can be done online, through MyGuichet.lu — the State's digital platform.  
   → Most things can be done online, through MyGuichet dot L-U — the State's digital platform.
-- **Anna:** Ah, MyGuichet.lu — we've talked about that in another episode.  
+- **Tom:** Ah, MyGuichet.lu — we've talked about that in another episode.  
   → Ah, MyGuichet dot L-U — we've talked about that in another episode.
-- **Tom:** And through it you can also send documents to the Zukunftskeess, change your bank details, or get a payment certificate.  
+- **Anna:** And through it you can also send documents to the Zukunftskeess, change your bank details, or get a payment certificate.  
   → And through it you can also send documents to the Tsoo-koonfts-kayss, change your bank details, or get a payment certificate.
-- **Tom:** And if you have questions, you can call the Zukunftskeess, or visit their offices — they're on the Boulevard Royal, in Luxembourg City.  
+- **Anna:** And if you have questions, you can call the Zukunftskeess, or visit their offices — they're on the Boulevard Royal, in Luxembourg City.  
   → And if you have questions, you can call the Tsoo-koonfts-kayss, or visit their offices — they're on the Boulevard Royal, in Luxembourg City.
-- **Anna:** Now Tom, are these three benefits everything the Zukunftskeess does?  
-  → Now Tom, are these three benefits everything the Tsoo-koonfts-kayss does?
-- **Tom:** First — for parents who take time off work to look after a young child, there's parental leave, and the Zukunftskeess pays the parental leave income during that time.  
+- **Tom:** Now Anna, are these three benefits everything the Zukunftskeess does?  
+  → Now Anna, are these three benefits everything the Tsoo-koonfts-kayss does?
+- **Anna:** First — for parents who take time off work to look after a young child, there's parental leave, and the Zukunftskeess pays the parental leave income during that time.  
   → First — for parents who take time off work to look after a young child, there's parental leave, and the Tsoo-koonfts-kayss pays the parental leave income during that time.
-- **Tom:** So the Zukunftskeess really sits at the centre of family life — from pregnancy, to the baby years, to school, to childcare, to time off work.  
+- **Anna:** So the Zukunftskeess really sits at the centre of family life — from pregnancy, to the baby years, to school, to childcare, to time off work.  
   → So the Tsoo-koonfts-kayss really sits at the centre of family life — from pregnancy, to the baby years, to school, to childcare, to time off work.
-- **Anna:** So where does the Zukunftskeess come in, from the very start?  
+- **Tom:** So where does the Zukunftskeess come in, from the very start?  
   → So where does the Tsoo-koonfts-kayss come in, from the very start?
-- **Tom:** And they make one application for the monthly family allowance — through MyGuichet.lu.  
+- **Anna:** And they make one application for the monthly family allowance — through MyGuichet.lu.  
   → And they make one application for the monthly family allowance — through MyGuichet dot L-U.
-- **Tom:** First — go to the website, c-a-e dot l-u, or to MyGuichet.lu.  
+- **Anna:** First — go to the website, c-a-e dot l-u, or to MyGuichet.lu.  
   → First — go to the website, C-A-E dot L-U, or to MyGuichet dot L-U.
-- **Anna:** cae.lu.  
+- **Tom:** cae.lu.  
   → cae dot L-U.
-- **Tom:** Check with the Zukunftskeess.  
+- **Anna:** Check with the Zukunftskeess.  
   → Check with the Tsoo-koonfts-kayss.
-- **Tom:** The Zukunftskeess — the Children's Future Fund, cae.lu — is the State office for family benefits in Luxembourg.  
+- **Anna:** The Zukunftskeess — the Children's Future Fund, cae.lu — is the State office for family benefits in Luxembourg.  
   → The Tsoo-koonfts-kayss — the Children's Future Fund, cae dot L-U — is the State office for family benefits in Luxembourg.
-- **Anna:** The Zukunftskeess.  
+- **Tom:** The Zukunftskeess.  
   → The Tsoo-koonfts-kayss.
-- **Anna:** cae.lu.  
+- **Tom:** cae.lu.  
   → cae dot L-U.
 - **Anna:** That was our episode about the Zukunftskeess.  
   → That was our episode about the Tsoo-koonfts-kayss.
@@ -1750,21 +1750,21 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### benevolat (10)
 
-- **Tom:** Et la chose la plus utile pour un auditeur, c'est son site internet — benevolat.lu.  
+- **Anna:** Et la chose la plus utile pour un auditeur, c'est son site internet — benevolat.lu.  
   → Et la chose la plus utile pour un auditeur, c'est son site internet — benevolat point L-U.
-- **Anna:** benevolat.lu.  
+- **Tom:** benevolat.lu.  
   → benevolat point L-U.
-- **Tom:** Vous n'avez PAS besoin de vous engager pour longtemps.  
+- **Anna:** Vous n'avez PAS besoin de vous engager pour longtemps.  
   → Vous n'avez pas besoin de vous engager pour longtemps.
-- **Tom:** Sur benevolat.lu, beaucoup de missions sont juste pour un seul événement, ou une seule journée.  
+- **Anna:** Sur benevolat.lu, beaucoup de missions sont juste pour un seul événement, ou une seule journée.  
   → Sur benevolat point L-U, beaucoup de missions sont juste pour un seul événement, ou une seule journée.
-- **Tom:** Deuxième étape — vous allez sur benevolat.lu et vous vous inscrivez sur le portail.  
+- **Anna:** Deuxième étape — vous allez sur benevolat.lu et vous vous inscrivez sur le portail.  
   → Deuxième étape — vous allez sur benevolat point L-U et vous vous inscrivez sur le portail.
-- **Anna:** M'inscrire sur benevolat.lu.  
+- **Tom:** M'inscrire sur benevolat.lu.  
   → M'inscrire sur benevolat point L-U.
-- **Tom:** L'endroit central, c'est l'Agence du Bénévolat, et son site benevolat.lu, où les associations et les bénévoles se rencontrent, dans toutes les régions.  
+- **Anna:** L'endroit central, c'est l'Agence du Bénévolat, et son site benevolat.lu, où les associations et les bénévoles se rencontrent, dans toutes les régions.  
   → L'endroit central, c'est l'Agence du Bénévolat, et son site benevolat point L-U, où les associations et les bénévoles se rencontrent, dans toutes les régions.
-- **Tom:** Pour commencer : réfléchissez à ce que vous aimez, inscrivez-vous sur benevolat.lu, et proposez votre aide.  
+- **Anna:** Pour commencer : réfléchissez à ce que vous aimez, inscrivez-vous sur benevolat.lu, et proposez votre aide.  
   → Pour commencer : réfléchissez à ce que vous aimez, inscrivez-vous sur benevolat point L-U, et proposez votre aide.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
@@ -1837,15 +1837,15 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### clarvia (7)
 
-- **Tom:** Clarvia est une association sans but lucratif luxembourgeoise — une ASBL — fondée en 2026.  
+- **Anna:** Clarvia est une association sans but lucratif luxembourgeoise — une ASBL — fondée en 2026.  
   → Clarvia est une association sans but lucratif luxembourgeoise — une A-S-B-L — fondée en 2026.
-- **Tom:** Une première version — ils l'appellent une version alpha — est déjà disponible sur leur site, clarvia.org.  
+- **Anna:** Une première version — ils l'appellent une version alpha — est déjà disponible sur leur site, clarvia.org.  
   → Une première version — ils l'appellent une version alpha — est déjà disponible sur leur site, clarvia point org.
-- **Tom:** Chaque étape de la checklist est reliée à une source officielle du gouvernement — par exemple Guichet.lu.  
+- **Anna:** Chaque étape de la checklist est reliée à une source officielle du gouvernement — par exemple Guichet.lu.  
   → Chaque étape de la checklist est reliée à une source officielle du gouvernement — par exemple Guichet point L-U.
-- **Tom:** Si vous avez déjà géré les démarches pratiques après la perte d'un proche au Luxembourg, vous pouvez partager votre expérience sur clarvia.org — ce qui a été le plus difficile, quels documents ont posé problème, ce qui vous aurait aidé.  
+- **Anna:** Si vous avez déjà géré les démarches pratiques après la perte d'un proche au Luxembourg, vous pouvez partager votre expérience sur clarvia.org — ce qui a été le plus difficile, quels documents ont posé problème, ce qui vous aurait aidé.  
   → Si vous avez déjà géré les démarches pratiques après la perte d'un proche au Luxembourg, vous pouvez partager votre expérience sur clarvia point org — ce qui a été le plus difficile, quels documents ont posé problème, ce qui vous aurait aidé.
-- **Tom:** C'est gratuit, ça protège votre vie privée, et la première version est déjà sur clarvia.org.  
+- **Anna:** C'est gratuit, ça protège votre vie privée, et la première version est déjà sur clarvia.org.  
   → C'est gratuit, ça protège votre vie privée, et la première version est déjà sur clarvia point org.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
@@ -1946,63 +1946,63 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### dsp_cns (32)
 
-- **Tom:** Et ensuite, comment vous récupérez votre argent auprès de l'assurance maladie, la CNS.  
+- **Anna:** Et ensuite, comment vous récupérez votre argent auprès de l'assurance maladie, la CNS.  
   → Et ensuite, comment vous récupérez votre argent auprès de l'assurance maladie, la C-N-S.
-- **Tom:** Le DSP est un dossier de santé électronique gratuit, personnel et sécurisé.  
+- **Anna:** Le DSP est un dossier de santé électronique gratuit, personnel et sécurisé.  
   → Le D-S-P est un dossier de santé électronique gratuit, personnel et sécurisé.
-- **Tom:** Avec le DSP, le médecin de garde peut voir vos informations essentielles.  
+- **Anna:** Avec le DSP, le médecin de garde peut voir vos informations essentielles.  
   → Avec le D-S-P, le médecin de garde peut voir vos informations essentielles.
-- **Tom:** C'est vous, le patient, qui décidez qui peut consulter votre DSP.  
+- **Anna:** C'est vous, le patient, qui décidez qui peut consulter votre DSP.  
   → C'est vous, le patient, qui décidez qui peut consulter votre D-S-P.
-- **Anna:** Alors comment j'ouvre concrètement un DSP ?  
+- **Tom:** Alors comment j'ouvre concrètement un DSP ?  
   → Alors comment j'ouvre concrètement un D-S-P ?
-- **Tom:** Et voici une bonne nouvelle : vous pouvez l'activer directement via MyGuichet.lu.  
+- **Anna:** Et voici une bonne nouvelle : vous pouvez l'activer directement via MyGuichet.lu.  
   → Et voici une bonne nouvelle : vous pouvez l'activer directement via MyGuichet point L-U.
-- **Tom:** Vous vous connectez à votre DSP en ligne, via le portail eSanté.  
+- **Anna:** Vous vous connectez à votre DSP en ligne, via le portail eSanté.  
   → Vous vous connectez à votre D-S-P en ligne, via le portail eSanté.
-- **Anna:** Alors, pour résumer la première moitié — le DSP est mon dossier de santé en ligne, gratuit et sécurisé, géré par l'Agence eSanté, il aide tous mes soignants à travailler ensemble, je contrôle qui le voit, et je l'active via MyGuichet.  
+- **Tom:** Alors, pour résumer la première moitié — le DSP est mon dossier de santé en ligne, gratuit et sécurisé, géré par l'Agence eSanté, il aide tous mes soignants à travailler ensemble, je contrôle qui le voit, et je l'active via MyGuichet.  
   → Alors, pour résumer la première moitié — le D-S-P est mon dossier de santé en ligne, gratuit et sécurisé, géré par l'Agence eSanté, il aide tous mes soignants à travailler ensemble, je contrôle qui le voit, et je l'active via MyGuichet.
-- **Anna:** La CNS.  
+- **Tom:** La CNS.  
   → La C-N-S.
-- **Anna:** Tom, d'abord... qu'est-ce que la CNS ?  
-  → Tom, d'abord... qu'est-ce que la C-N-S ?
-- **Tom:** CNS veut dire Caisse Nationale de Santé.  
+- **Tom:** Anna, d'abord... qu'est-ce que la CNS ?  
+  → Anna, d'abord... qu'est-ce que la C-N-S ?
+- **Anna:** CNS veut dire Caisse Nationale de Santé.  
   → C-N-S veut dire Caisse Nationale de Santé.
-- **Tom:** Ça veut dire — pour une visite normale chez le médecin, vous payez d'abord, et ensuite la CNS vous rembourse la plus grande partie.  
+- **Anna:** Ça veut dire — pour une visite normale chez le médecin, vous payez d'abord, et ensuite la CNS vous rembourse la plus grande partie.  
   → Ça veut dire — pour une visite normale chez le médecin, vous payez d'abord, et ensuite la C-N-S vous rembourse la plus grande partie.
-- **Tom:** La CNS rembourse une grande partie du coût — pour la plupart des soins, c'est environ quatre-vingts à cent pour cent.  
+- **Anna:** La CNS rembourse une grande partie du coût — pour la plupart des soins, c'est environ quatre-vingts à cent pour cent.  
   → La C-N-S rembourse une grande partie du coût — pour la plupart des soins, c'est environ quatre-vingts à cent pour cent.
-- **Tom:** Ensuite, vous envoyez cette facture originale, acquittée, à la CNS.  
+- **Anna:** Ensuite, vous envoyez cette facture originale, acquittée, à la CNS.  
   → Ensuite, vous envoyez cette facture originale, acquittée, à la C-N-S.
-- **Tom:** La CNS verse ensuite le remboursement directement sur votre compte bancaire.  
+- **Anna:** La CNS verse ensuite le remboursement directement sur votre compte bancaire.  
   → La C-N-S verse ensuite le remboursement directement sur votre compte bancaire.
-- **Tom:** Donc — petit conseil pour nos auditeurs — donnez à la CNS votre numéro de compte bancaire, votre IBAN, pour qu'elle puisse vous payer directement.  
+- **Anna:** Donc — petit conseil pour nos auditeurs — donnez à la CNS votre numéro de compte bancaire, votre IBAN, pour qu'elle puisse vous payer directement.  
   → Donc — petit conseil pour nos auditeurs — donnez à la C-N-S votre numéro de compte bancaire, votre Iban, pour qu'elle puisse vous payer directement.
-- **Tom:** Et c'est pourquoi le système a des exceptions, où vous ne payez PAS tout d'abord.  
+- **Anna:** Et c'est pourquoi le système a des exceptions, où vous ne payez PAS tout d'abord.  
   → Et c'est pourquoi le système a des exceptions, où vous ne payez pas tout d'abord.
-- **Tom:** La pharmacie règle le reste directement avec la CNS.  
+- **Anna:** La pharmacie règle le reste directement avec la CNS.  
   → La pharmacie règle le reste directement avec la C-N-S.
-- **Anna:** La CNS s'occupe du reste en coulisses.  
+- **Tom:** La CNS s'occupe du reste en coulisses.  
   → La C-N-S s'occupe du reste en coulisses.
-- **Tom:** L'hôpital facture les soins directement à la CNS.  
+- **Anna:** L'hôpital facture les soins directement à la CNS.  
   → L'hôpital facture les soins directement à la C-N-S.
-- **Tom:** La CNS prend en charge directement les soins éligibles, pour que l'argent ne soit pas un obstacle pour voir un médecin.  
+- **Anna:** La CNS prend en charge directement les soins éligibles, pour que l'argent ne soit pas un obstacle pour voir un médecin.  
   → La C-N-S prend en charge directement les soins éligibles, pour que l'argent ne soit pas un obstacle pour voir un médecin.
-- **Tom:** Première partie — le DSP est votre dossier de santé en ligne, gratuit et sécurisé.  
+- **Anna:** Première partie — le DSP est votre dossier de santé en ligne, gratuit et sécurisé.  
   → Première partie — le D-S-P est votre dossier de santé en ligne, gratuit et sécurisé.
-- **Tom:** Il aide tous ceux qui vous soignent à travailler avec les mêmes informations, vous contrôlez qui peut le voir, et vous l'activez facilement via MyGuichet.lu — ou vous le consultez sur l'application MyDSP.  
+- **Anna:** Il aide tous ceux qui vous soignent à travailler avec les mêmes informations, vous contrôlez qui peut le voir, et vous l'activez facilement via MyGuichet.lu — ou vous le consultez sur l'application MyDSP.  
   → Il aide tous ceux qui vous soignent à travailler avec les mêmes informations, vous contrôlez qui peut le voir, et vous l'activez facilement via MyGuichet point L-U — ou vous le consultez sur l'application MyDSP.
-- **Tom:** Deuxième partie — la CNS, l'assurance maladie nationale.  
+- **Anna:** Deuxième partie — la CNS, l'assurance maladie nationale.  
   → Deuxième partie — la C-N-S, l'assurance maladie nationale.
-- **Tom:** Pour une visite normale chez le médecin, vous payez d'abord et la CNS vous rembourse la plus grande partie sur votre compte bancaire, en environ trois semaines.  
+- **Anna:** Pour une visite normale chez le médecin, vous payez d'abord et la CNS vous rembourse la plus grande partie sur votre compte bancaire, en environ trois semaines.  
   → Pour une visite normale chez le médecin, vous payez d'abord et la C-N-S vous rembourse la plus grande partie sur votre compte bancaire, en environ trois semaines.
-- **Anna:** Donc le message est — activez votre dossier de santé, gardez vos factures, donnez vos coordonnées bancaires à la CNS, et n'ayez pas peur de demander de l'aide si vous en avez besoin.  
+- **Tom:** Donc le message est — activez votre dossier de santé, gardez vos factures, donnez vos coordonnées bancaires à la CNS, et n'ayez pas peur de demander de l'aide si vous en avez besoin.  
   → Donc le message est — activez votre dossier de santé, gardez vos factures, donnez vos coordonnées bancaires à la C-N-S, et n'ayez pas peur de demander de l'aide si vous en avez besoin.
-- **Tom:** Pour le dossier de santé, le site est esante.lu.  
+- **Anna:** Pour le dossier de santé, le site est esante.lu.  
   → Pour le dossier de santé, le site est esante point L-U.
-- **Tom:** Pour l'assurance et les remboursements, c'est cns.lu.  
+- **Anna:** Pour l'assurance et les remboursements, c'est cns.lu.  
   → Pour l'assurance et les remboursements, c'est cns point L-U.
-- **Tom:** Et les démarches sont expliquées sur Guichet.lu, en plusieurs langues.  
+- **Anna:** Et les démarches sont expliquées sur Guichet.lu, en plusieurs langues.  
   → Et les démarches sont expliquées sur Guichet point L-U, en plusieurs langues.
 - **Anna:** C'était notre épisode sur votre dossier de santé en ligne et la CNS.  
   → C'était notre épisode sur votre dossier de santé en ligne et la C-N-S.
@@ -2241,9 +2241,9 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### granderegion (4)
 
-- **Tom:** De la culture, du tourisme, un patrimoine partagé, des sites du patrimoine mondial de l'UNESCO partout dans la Région.  
+- **Anna:** De la culture, du tourisme, un patrimoine partagé, des sites du patrimoine mondial de l'UNESCO partout dans la Région.  
   → De la culture, du tourisme, un patrimoine partagé, des sites du patrimoine mondial de l'Unesco partout dans la Région.
-- **Tom:** Et vous pouvez tout trouver sur granderegion.net.  
+- **Anna:** Et vous pouvez tout trouver sur granderegion.net.  
   → Et vous pouvez tout trouver sur granderegion point net.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
@@ -2269,15 +2269,15 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### infosenior (7)
 
-- **Tom:** Sa maison sur Internet est un site web — infosenior point l-u.  
+- **Anna:** Sa maison sur Internet est un site web — infosenior point l-u.  
   → Sa maison sur Internet est un site web — infosenior point L-U.
-- **Anna:** infosenior.lu.  
+- **Tom:** infosenior.lu.  
   → infosenior point L-U.
-- **Tom:** Allez sur le site web — infosenior point l-u.  
+- **Anna:** Allez sur le site web — infosenior point l-u.  
   → Allez sur le site web — infosenior point L-U.
-- **Tom:** Info-Seniors, sur infosenior point l-u, est le portail d'information de l'État pour les personnes âgées au Luxembourg.  
+- **Anna:** Info-Seniors, sur infosenior point l-u, est le portail d'information de l'État pour les personnes âgées au Luxembourg.  
   → Info-Seniors, sur infosenior point L-U, est le portail d'information de l'État pour les personnes âgées au Luxembourg.
-- **Anna:** infosenior.lu.  
+- **Tom:** infosenior.lu.  
   → infosenior point L-U.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
@@ -2379,25 +2379,25 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### luxtrust (12)
 
-- **Tom:** Avec LuxTrust, vous vous connectez à MyGuichet.lu.  
+- **Anna:** Avec LuxTrust, vous vous connectez à MyGuichet.lu.  
   → Avec LuxTrust, vous vous connectez à MyGuichet point L-U.
-- **Tom:** Ou, si vous avez un dispositif à carte, votre code PIN.  
+- **Anna:** Ou, si vous avez un dispositif à carte, votre code PIN.  
   → Ou, si vous avez un dispositif à carte, votre code Pin.
-- **Tom:** Et étape quatre — vous générez un mot de passe à usage unique, un OTP — un code qui ne fonctionne qu'une seule fois — et ça vous donne accès.  
+- **Anna:** Et étape quatre — vous générez un mot de passe à usage unique, un OTP — un code qui ne fonctionne qu'une seule fois — et ça vous donne accès.  
   → Et étape quatre — vous générez un mot de passe à usage unique, un O-T-P — un code qui ne fonctionne qu'une seule fois — et ça vous donne accès.
-- **Tom:** Mais vérifiez les prix exacts sur luxtrust.com, car ils peuvent changer.  
+- **Anna:** Mais vérifiez les prix exacts sur luxtrust.com, car ils peuvent changer.  
   → Mais vérifiez les prix exacts sur luxtrust point com, car ils peuvent changer.
-- **Tom:** Votre identifiant utilisateur — vous le recevez par courrier, ou par SMS.  
+- **Anna:** Votre identifiant utilisateur — vous le recevez par courrier, ou par SMS.  
   → Votre identifiant utilisateur — vous le recevez par courrier, ou par S-M-S.
-- **Tom:** Votre mot de passe initial — aussi par courrier ou SMS.  
+- **Anna:** Votre mot de passe initial — aussi par courrier ou SMS.  
   → Votre mot de passe initial — aussi par courrier ou S-M-S.
-- **Tom:** Pour le Scan, ça prend environ six minutes — vous suivez les étapes, scannez quelques QR codes, et définissez un nouveau mot de passe robuste.  
+- **Anna:** Pour le Scan, ça prend environ six minutes — vous suivez les étapes, scannez quelques QR codes, et définissez un nouveau mot de passe robuste.  
   → Pour le Scan, ça prend environ six minutes — vous suivez les étapes, scannez quelques Q-R codes, et définissez un nouveau mot de passe robuste.
-- **Tom:** Tout comme vous ne donnez pas votre carte bancaire et votre code PIN à un collègue, vous ne partagez jamais vos identifiants LuxTrust.  
+- **Anna:** Tout comme vous ne donnez pas votre carte bancaire et votre code PIN à un collègue, vous ne partagez jamais vos identifiants LuxTrust.  
   → Tout comme vous ne donnez pas votre carte bancaire et votre code Pin à un collègue, vous ne partagez jamais vos identifiants LuxTrust.
-- **Tom:** Le plus simple : demandez à votre banque, ou allez sur luxtrust.com, choisissez l'appli, commandez-la, faites-vous identifier, et activez-la.  
+- **Anna:** Le plus simple : demandez à votre banque, ou allez sur luxtrust.com, choisissez l'appli, commandez-la, faites-vous identifier, et activez-la.  
   → Le plus simple : demandez à votre banque, ou allez sur luxtrust point com, choisissez l'appli, commandez-la, faites-vous identifier, et activez-la.
-- **Tom:** Vous l'obtenez par votre banque ou sur luxtrust.com, vous prouvez votre identité en personne ou par vidéo, et vous l'activez — le plus facilement avec l'appli Mobile.  
+- **Anna:** Vous l'obtenez par votre banque ou sur luxtrust.com, vous prouvez votre identité en personne ou par vidéo, et vous l'activez — le plus facilement avec l'appli Mobile.  
   → Vous l'obtenez par votre banque ou sur luxtrust point com, vous prouvez votre identité en personne ou par vidéo, et vous l'activez — le plus facilement avec l'appli Mobile.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
@@ -2462,75 +2462,75 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### onis (37)
 
-- **Tom:** ONIS.  
+- **Anna:** ONIS.  
   → Onis.
-- **Anna:** Alors Tom, dans un épisode précédent, nous avons parlé du Fonds national de solidarité, et d'une prestation qui s'appelle le REVIS — le revenu d'inclusion sociale.  
-  → Alors Tom, dans un épisode précédent, nous avons parlé du Fonds national de solidarité, et d'une prestation qui s'appelle le Revis — le revenu d'inclusion sociale.
-- **Tom:** Il y a un lien direct — et c'est la clé pour comprendre l'ONIS.  
+- **Tom:** Alors Anna, dans un épisode précédent, nous avons parlé du Fonds national de solidarité, et d'une prestation qui s'appelle le REVIS — le revenu d'inclusion sociale.  
+  → Alors Anna, dans un épisode précédent, nous avons parlé du Fonds national de solidarité, et d'une prestation qui s'appelle le Revis — le revenu d'inclusion sociale.
+- **Anna:** Il y a un lien direct — et c'est la clé pour comprendre l'ONIS.  
   → Il y a un lien direct — et c'est la clé pour comprendre l'Onis.
-- **Tom:** Tu te souviens, le REVIS, c'est le revenu minimum garanti du Luxembourg.  
+- **Anna:** Tu te souviens, le REVIS, c'est le revenu minimum garanti du Luxembourg.  
   → Tu te souviens, le Revis, c'est le revenu minimum garanti du Luxembourg.
-- **Tom:** Si les revenus de ton ménage sont trop faibles, le REVIS les complète jusqu'à un niveau de base.  
+- **Anna:** Si les revenus de ton ménage sont trop faibles, le REVIS les complète jusqu'à un niveau de base.  
   → Si les revenus de ton ménage sont trop faibles, le Revis les complète jusqu'à un niveau de base.
-- **Tom:** Le REVIS a deux facettes.  
+- **Anna:** Le REVIS a deux facettes.  
   → Le Revis a deux facettes.
-- **Tom:** Cette partie-là est versée par le Fonds national de solidarité, le FNS.  
+- **Anna:** Cette partie-là est versée par le Fonds national de solidarité, le FNS.  
   → Cette partie-là est versée par le Fonds national de solidarité, le F-N-S.
-- **Anna:** Et cette deuxième facette — celle de l'inclusion — c'est la mission de l'ONIS.  
+- **Tom:** Et cette deuxième facette — celle de l'inclusion — c'est la mission de l'ONIS.  
   → Et cette deuxième facette — celle de l'inclusion — c'est la mission de l'Onis.
-- **Tom:** Le FNS s'occupe de l'argent.  
+- **Anna:** Le FNS s'occupe de l'argent.  
   → Le F-N-S s'occupe de l'argent.
-- **Tom:** L'ONIS s'occupe des personnes, et de leur chemin vers l'avenir.  
+- **Anna:** L'ONIS s'occupe des personnes, et de leur chemin vers l'avenir.  
   → L'Onis s'occupe des personnes, et de leur chemin vers l'avenir.
-- **Tom:** Le REVIS n'est pas censé être un chèque que tu reçois pour toujours, seul chez toi.  
+- **Anna:** Le REVIS n'est pas censé être un chèque que tu reçois pour toujours, seul chez toi.  
   → Le Revis n'est pas censé être un chèque que tu reçois pour toujours, seul chez toi.
-- **Anna:** Donc l'ONIS, c'est l'office qui marche à tes côtés sur le pont.  
+- **Tom:** Donc l'ONIS, c'est l'office qui marche à tes côtés sur le pont.  
   → Donc l'Onis, c'est l'office qui marche à tes côtés sur le pont.
-- **Anna:** Quel genre d'office est l'ONIS, officiellement ?  
+- **Tom:** Quel genre d'office est l'ONIS, officiellement ?  
   → Quel genre d'office est l'Onis, officiellement ?
-- **Tom:** Il a été créé par la grande réforme du REVIS — la loi de deux mille dix-huit — et il a commencé son travail au début de deux mille dix-neuf.  
+- **Anna:** Il a été créé par la grande réforme du REVIS — la loi de deux mille dix-huit — et il a commencé son travail au début de deux mille dix-neuf.  
   → Il a été créé par la grande réforme du Revis — la loi de deux mille dix-huit — et il a commencé son travail au début de deux mille dix-neuf.
-- **Tom:** Et c'est là toute la sagesse de la manière dont l'ONIS travaille.  
+- **Anna:** Et c'est là toute la sagesse de la manière dont l'ONIS travaille.  
   → Et c'est là toute la sagesse de la manière dont l'Onis travaille.
-- **Tom:** L'ONIS travaille avec deux types de mesures.  
+- **Anna:** L'ONIS travaille avec deux types de mesures.  
   → L'Onis travaille avec deux types de mesures.
-- **Anna:** Si je suis une personne qui commence à toucher le REVIS, qu'est-ce qui se passe vraiment avec l'ONIS ?  
+- **Tom:** Si je suis une personne qui commence à toucher le REVIS, qu'est-ce qui se passe vraiment avec l'ONIS ?  
   → Si je suis une personne qui commence à toucher le Revis, qu'est-ce qui se passe vraiment avec l'Onis ?
-- **Tom:** Ça commence généralement par une invitation — on t'invite à un rendez-vous, à un accueil, avec l'ONIS.  
+- **Anna:** Ça commence généralement par une invitation — on t'invite à un rendez-vous, à un accueil, avec l'ONIS.  
   → Ça commence généralement par une invitation — on t'invite à un rendez-vous, à un accueil, avec l'Onis.
-- **Tom:** Un ARIS.  
+- **Anna:** Un ARIS.  
   → Un Aris.
-- **Tom:** C'est vrai que le REVIS demande une participation — c'est la déclaration de collaboration.  
+- **Anna:** C'est vrai que le REVIS demande une participation — c'est la déclaration de collaboration.  
   → C'est vrai que le Revis demande une participation — c'est la déclaration de collaboration.
-- **Tom:** Et c'est justement le piège que le REVIS et l'ONIS essaient d'éviter.  
+- **Anna:** Et c'est justement le piège que le REVIS et l'ONIS essaient d'éviter.  
   → Et c'est justement le piège que le Revis et l'Onis essaient d'éviter.
-- **Anna:** Le chèque, c'est le plancher ; l'ONIS, c'est l'escalier.  
-  → Le chèque, c'est le plancher ; l'Onis, c'est l'escalier.
 - **Tom:** Le chèque, c'est le plancher ; l'ONIS, c'est l'escalier.  
   → Le chèque, c'est le plancher ; l'Onis, c'est l'escalier.
-- **Tom:** Donc Paulo demande le REVIS.  
+- **Anna:** Le chèque, c'est le plancher ; l'ONIS, c'est l'escalier.  
+  → Le chèque, c'est le plancher ; l'Onis, c'est l'escalier.
+- **Anna:** Donc Paulo demande le REVIS.  
   → Donc Paulo demande le Revis.
-- **Tom:** Le FNS règle le côté argent — il reçoit le revenu minimum, et donc il peut vivre.  
+- **Anna:** Le FNS règle le côté argent — il reçoit le revenu minimum, et donc il peut vivre.  
   → Le F-N-S règle le côté argent — il reçoit le revenu minimum, et donc il peut vivre.
-- **Tom:** Et ensuite, l'ONIS entre dans sa vie.  
+- **Anna:** Et ensuite, l'ONIS entre dans sa vie.  
   → Et ensuite, l'Onis entre dans sa vie.
-- **Tom:** C'est la philosophie discrète qui se trouve derrière l'ONIS.  
+- **Anna:** C'est la philosophie discrète qui se trouve derrière l'ONIS.  
   → C'est la philosophie discrète qui se trouve derrière l'Onis.
-- **Tom:** D'abord — si tu touches le REVIS, l'ONIS n'est pas ton ennemi.  
+- **Anna:** D'abord — si tu touches le REVIS, l'ONIS n'est pas ton ennemi.  
   → D'abord — si tu touches le Revis, l'Onis n'est pas ton ennemi.
-- **Tom:** C'est la partie du REVIS qui est là pour t'aider à avancer, avec une vraie personne et un plan personnel.  
+- **Anna:** C'est la partie du REVIS qui est là pour t'aider à avancer, avec une vraie personne et un plan personnel.  
   → C'est la partie du Revis qui est là pour t'aider à avancer, avec une vraie personne et un plan personnel.
-- **Tom:** Le site officiel, c'est onis — c'est-à-dire o-n-i-s — point gouvernement point l-u.  
+- **Anna:** Le site officiel, c'est onis — c'est-à-dire o-n-i-s — point gouvernement point l-u.  
   → Le site officiel, c'est onis — c'est-à-dire O-N-I-S — point gouvernement point L-U.
-- **Tom:** Et pour la prestation REVIS elle-même, les informations sont sur guichet point l-u, et le côté argent, c'est le Fonds national de solidarité, dont nous avons parlé dans un autre épisode.  
+- **Anna:** Et pour la prestation REVIS elle-même, les informations sont sur guichet point l-u, et le côté argent, c'est le Fonds national de solidarité, dont nous avons parlé dans un autre épisode.  
   → Et pour la prestation Revis elle-même, les informations sont sur guichet point L-U, et le côté argent, c'est le Fonds national de solidarité, dont nous avons parlé dans un autre épisode.
-- **Tom:** L'ONIS, l'Office national d'inclusion sociale, c'est l'office de l'État qui s'occupe du côté « inclusion » du REVIS, le revenu d'inclusion sociale du Luxembourg.  
+- **Anna:** L'ONIS, l'Office national d'inclusion sociale, c'est l'office de l'État qui s'occupe du côté « inclusion » du REVIS, le revenu d'inclusion sociale du Luxembourg.  
   → L'Onis, l'Office national d'inclusion sociale, c'est l'office de l'État qui s'occupe du côté « inclusion » du Revis, le revenu d'inclusion sociale du Luxembourg.
-- **Tom:** Alors que le Fonds national de solidarité verse l'argent, l'ONIS aide les personnes les plus éloignées du travail à avancer — d'abord par des mesures de stabilisation, puis par des mesures d'activation.  
+- **Anna:** Alors que le Fonds national de solidarité verse l'argent, l'ONIS aide les personnes les plus éloignées du travail à avancer — d'abord par des mesures de stabilisation, puis par des mesures d'activation.  
   → Alors que le Fonds national de solidarité verse l'argent, l'Onis aide les personnes les plus éloignées du travail à avancer — d'abord par des mesures de stabilisation, puis par des mesures d'activation.
-- **Anna:** Alors... que ce soit pour toi, ou pour quelqu'un qui te tient à cœur — souviens-toi, derrière le chèque du REVIS, il y a aussi une main tendue.  
+- **Tom:** Alors... que ce soit pour toi, ou pour quelqu'un qui te tient à cœur — souviens-toi, derrière le chèque du REVIS, il y a aussi une main tendue.  
   → Alors... que ce soit pour toi, ou pour quelqu'un qui te tient à cœur — souviens-toi, derrière le chèque du Revis, il y a aussi une main tendue.
-- **Anna:** ONIS.  
+- **Tom:** ONIS.  
   → Onis.
 - **Anna:** Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.  
   → Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt point L-U où vous trouverez des informations détaillées.
@@ -2764,53 +2764,53 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### zukunftskeess (27)
 
-- **Tom:** Elle s'appelle la Zukunftskeess.  
+- **Anna:** Elle s'appelle la Zukunftskeess.  
   → Elle s'appelle la Tsoukounftskéss.
-- **Anna:** Zukunftskeess.  
+- **Tom:** Zukunftskeess.  
   → Tsoukounftskéss.
-- **Tom:** La Zukunftskeess est la caisse officielle de l'État qui verse les prestations familiales au Luxembourg.  
+- **Anna:** La Zukunftskeess est la caisse officielle de l'État qui verse les prestations familiales au Luxembourg.  
   → La Tsoukounftskéss est la caisse officielle de l'État qui verse les prestations familiales au Luxembourg.
-- **Tom:** Sa maison sur internet, c'est c-a-e point l-u.  
+- **Anna:** Sa maison sur internet, c'est c-a-e point l-u.  
   → Sa maison sur internet, c'est C-A-E point L-U.
-- **Anna:** cae.lu.  
+- **Tom:** cae.lu.  
   → cae point L-U.
-- **Tom:** Les formulaires viennent de ton médecin, de la maternité, ou de la commune — et tu les envoies à la Zukunftskeess.  
+- **Anna:** Les formulaires viennent de ton médecin, de la maternité, ou de la commune — et tu les envoies à la Zukunftskeess.  
   → Les formulaires viennent de ton médecin, de la maternité, ou de la commune — et tu les envoies à la Tsoukounftskéss.
-- **Tom:** Donc pour le chiffre exact d'aujourd'hui, tu consultes la page officielle — c'est la page « paramètres sociaux » sur guichet point l-u.  
+- **Anna:** Donc pour le chiffre exact d'aujourd'hui, tu consultes la page officielle — c'est la page « paramètres sociaux » sur guichet point l-u.  
   → Donc pour le chiffre exact d'aujourd'hui, tu consultes la page officielle — c'est la page « paramètres sociaux » sur guichet point L-U.
-- **Tom:** Tu dois seulement prévenir la Zukunftskeess si quelque chose change.  
+- **Anna:** Tu dois seulement prévenir la Zukunftskeess si quelque chose change.  
   → Tu dois seulement prévenir la Tsoukounftskéss si quelque chose change.
-- **Anna:** Maintenant — parlons de la manière dont on traite concrètement avec la Zukunftskeess.  
+- **Tom:** Maintenant — parlons de la manière dont on traite concrètement avec la Zukunftskeess.  
   → Maintenant — parlons de la manière dont on traite concrètement avec la Tsoukounftskéss.
-- **Tom:** La plupart des choses peuvent se faire en ligne, via MyGuichet.lu — la plateforme numérique de l'État.  
+- **Anna:** La plupart des choses peuvent se faire en ligne, via MyGuichet.lu — la plateforme numérique de l'État.  
   → La plupart des choses peuvent se faire en ligne, via MyGuichet point L-U — la plateforme numérique de l'État.
-- **Anna:** Ah, MyGuichet.lu — on en a parlé dans un autre épisode.  
+- **Tom:** Ah, MyGuichet.lu — on en a parlé dans un autre épisode.  
   → Ah, MyGuichet point L-U — on en a parlé dans un autre épisode.
-- **Tom:** Et par ce biais, tu peux aussi envoyer des documents à la Zukunftskeess, changer tes coordonnées bancaires, ou obtenir un certificat de paiement.  
+- **Anna:** Et par ce biais, tu peux aussi envoyer des documents à la Zukunftskeess, changer tes coordonnées bancaires, ou obtenir un certificat de paiement.  
   → Et par ce biais, tu peux aussi envoyer des documents à la Tsoukounftskéss, changer tes coordonnées bancaires, ou obtenir un certificat de paiement.
-- **Tom:** Et si tu as des questions, tu peux appeler la Zukunftskeess, ou te rendre dans ses bureaux — ils sont au Boulevard Royal, à Luxembourg-Ville.  
+- **Anna:** Et si tu as des questions, tu peux appeler la Zukunftskeess, ou te rendre dans ses bureaux — ils sont au Boulevard Royal, à Luxembourg-Ville.  
   → Et si tu as des questions, tu peux appeler la Tsoukounftskéss, ou te rendre dans ses bureaux — ils sont au Boulevard Royal, à Luxembourg-Ville.
-- **Anna:** Maintenant Tom, ces trois prestations sont-elles tout ce que fait la Zukunftskeess ?  
-  → Maintenant Tom, ces trois prestations sont-elles tout ce que fait la Tsoukounftskéss ?
-- **Tom:** D'abord — pour les parents qui prennent un congé pour s'occuper d'un jeune enfant, il y a le congé parental, et la Zukunftskeess verse le revenu du congé parental pendant cette période.  
+- **Tom:** Maintenant Anna, ces trois prestations sont-elles tout ce que fait la Zukunftskeess ?  
+  → Maintenant Anna, ces trois prestations sont-elles tout ce que fait la Tsoukounftskéss ?
+- **Anna:** D'abord — pour les parents qui prennent un congé pour s'occuper d'un jeune enfant, il y a le congé parental, et la Zukunftskeess verse le revenu du congé parental pendant cette période.  
   → D'abord — pour les parents qui prennent un congé pour s'occuper d'un jeune enfant, il y a le congé parental, et la Tsoukounftskéss verse le revenu du congé parental pendant cette période.
-- **Tom:** Donc la Zukunftskeess se trouve vraiment au cœur de la vie de famille — de la grossesse, aux années bébé, à l'école, à la garde d'enfants, au congé du travail.  
+- **Anna:** Donc la Zukunftskeess se trouve vraiment au cœur de la vie de famille — de la grossesse, aux années bébé, à l'école, à la garde d'enfants, au congé du travail.  
   → Donc la Tsoukounftskéss se trouve vraiment au cœur de la vie de famille — de la grossesse, aux années bébé, à l'école, à la garde d'enfants, au congé du travail.
-- **Anna:** Alors où intervient la Zukunftskeess, dès le tout début ?  
+- **Tom:** Alors où intervient la Zukunftskeess, dès le tout début ?  
   → Alors où intervient la Tsoukounftskéss, dès le tout début ?
-- **Tom:** Et ils font une demande pour l'allocation familiale mensuelle — via MyGuichet.lu.  
+- **Anna:** Et ils font une demande pour l'allocation familiale mensuelle — via MyGuichet.lu.  
   → Et ils font une demande pour l'allocation familiale mensuelle — via MyGuichet point L-U.
-- **Tom:** D'abord — va sur le site, c-a-e point l-u, ou sur MyGuichet.lu.  
+- **Anna:** D'abord — va sur le site, c-a-e point l-u, ou sur MyGuichet.lu.  
   → D'abord — va sur le site, C-A-E point L-U, ou sur MyGuichet point L-U.
-- **Anna:** cae.lu.  
+- **Tom:** cae.lu.  
   → cae point L-U.
-- **Tom:** Renseigne-toi auprès de la Zukunftskeess.  
+- **Anna:** Renseigne-toi auprès de la Zukunftskeess.  
   → Renseigne-toi auprès de la Tsoukounftskéss.
-- **Tom:** La Zukunftskeess — la Caisse pour l'avenir des enfants, cae.lu — est l'organisme de l'État pour les prestations familiales au Luxembourg.  
+- **Anna:** La Zukunftskeess — la Caisse pour l'avenir des enfants, cae.lu — est l'organisme de l'État pour les prestations familiales au Luxembourg.  
   → La Tsoukounftskéss — la Caisse pour l'avenir des enfants, cae point L-U — est l'organisme de l'État pour les prestations familiales au Luxembourg.
-- **Anna:** La Zukunftskeess.  
+- **Tom:** La Zukunftskeess.  
   → La Tsoukounftskéss.
-- **Anna:** cae.lu.  
+- **Tom:** cae.lu.  
   → cae point L-U.
 - **Anna:** C'était notre épisode sur la Zukunftskeess.  
   → C'était notre épisode sur la Tsoukounftskéss.
@@ -2997,23 +2997,23 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### benevolat (11)
 
-- **Tom:** Und das Nützlichste für unsere Hörer ist ihre Website — benevolat.lu.  
+- **Anna:** Und das Nützlichste für unsere Hörer ist ihre Website — benevolat.lu.  
   → Und das Nützlichste für unsere Hörer ist ihre Website — benevolat Punkt L-U.
-- **Anna:** benevolat.lu.  
+- **Tom:** benevolat.lu.  
   → benevolat Punkt L-U.
-- **Tom:** Sie müssen sich NICHT langfristig verpflichten.  
+- **Anna:** Sie müssen sich NICHT langfristig verpflichten.  
   → Sie müssen sich nicht langfristig verpflichten.
-- **Tom:** Auf benevolat.lu sind viele Einsätze nur für eine einzige Veranstaltung, oder einen einzigen Tag.  
+- **Anna:** Auf benevolat.lu sind viele Einsätze nur für eine einzige Veranstaltung, oder einen einzigen Tag.  
   → Auf benevolat Punkt L-U sind viele Einsätze nur für eine einzige Veranstaltung, oder einen einzigen Tag.
-- **Tom:** Schritt zwei — Sie gehen auf benevolat.lu und registrieren sich auf dem Portal.  
+- **Anna:** Schritt zwei — Sie gehen auf benevolat.lu und registrieren sich auf dem Portal.  
   → Schritt zwei — Sie gehen auf benevolat Punkt L-U und registrieren sich auf dem Portal.
-- **Anna:** Mich auf benevolat.lu registrieren.  
+- **Tom:** Mich auf benevolat.lu registrieren.  
   → Mich auf benevolat Punkt L-U registrieren.
-- **Tom:** Und wenn Sie lieber mit einem Menschen sprechen möchten, können Sie die Agence direkt kontaktieren — sie sind in der Avenue Guillaume in Luxemburg-Stadt, und Sie erreichen sie telefonisch unter 261210.  
+- **Anna:** Und wenn Sie lieber mit einem Menschen sprechen möchten, können Sie die Agence direkt kontaktieren — sie sind in der Avenue Guillaume in Luxemburg-Stadt, und Sie erreichen sie telefonisch unter 261210.  
   → Und wenn Sie lieber mit einem Menschen sprechen möchten, können Sie die Agence direkt kontaktieren — sie sind in der Avenue Guillaume in Luxemburg-Stadt, und Sie erreichen sie telefonisch unter zwei sechs eins zwei eins null.
-- **Tom:** Die zentrale Stelle ist die Agence du Bénévolat, und ihre Website benevolat.lu, wo sich Vereine und Freiwillige treffen, in jeder Region.  
+- **Anna:** Die zentrale Stelle ist die Agence du Bénévolat, und ihre Website benevolat.lu, wo sich Vereine und Freiwillige treffen, in jeder Region.  
   → Die zentrale Stelle ist die Agence du Bénévolat, und ihre Website benevolat Punkt L-U, wo sich Vereine und Freiwillige treffen, in jeder Region.
-- **Tom:** Um anzufangen: Überlegen Sie, was Ihnen Freude macht, registrieren Sie sich auf benevolat.lu, und bieten Sie Ihre Hilfe an.  
+- **Anna:** Um anzufangen: Überlegen Sie, was Ihnen Freude macht, registrieren Sie sich auf benevolat.lu, und bieten Sie Ihre Hilfe an.  
   → Um anzufangen: Überlegen Sie, was Ihnen Freude macht, registrieren Sie sich auf benevolat Punkt L-U, und bieten Sie Ihre Hilfe an.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
@@ -3086,15 +3086,15 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### clarvia (7)
 
-- **Tom:** Clarvia ist eine luxemburgische Non-Profit-Organisation — eine ASBL — gegründet im Jahr 2026.  
+- **Anna:** Clarvia ist eine luxemburgische Non-Profit-Organisation — eine ASBL — gegründet im Jahr 2026.  
   → Clarvia ist eine luxemburgische Non-Profit-Organisation — eine A-S-B-L — gegründet im Jahr 2026.
-- **Tom:** Eine frühe Version — sie nennen sie eine Alpha-Version — ist schon auf ihrer Website verfügbar, clarvia.org.  
+- **Anna:** Eine frühe Version — sie nennen sie eine Alpha-Version — ist schon auf ihrer Website verfügbar, clarvia.org.  
   → Eine frühe Version — sie nennen sie eine Alpha-Version — ist schon auf ihrer Website verfügbar, clarvia Punkt org.
-- **Tom:** Jeder Schritt in der Checkliste ist mit einer offiziellen staatlichen Quelle verknüpft — zum Beispiel Guichet.lu.  
+- **Anna:** Jeder Schritt in der Checkliste ist mit einer offiziellen staatlichen Quelle verknüpft — zum Beispiel Guichet.lu.  
   → Jeder Schritt in der Checkliste ist mit einer offiziellen staatlichen Quelle verknüpft — zum Beispiel Guichet Punkt L-U.
-- **Tom:** Wenn Sie die praktischen Schritte nach dem Verlust eines Menschen in Luxemburg schon einmal selbst erledigt haben, können Sie Ihre Erfahrung auf clarvia.org teilen — was am schwersten war, welche Dokumente schwierig waren, was geholfen hätte.  
+- **Anna:** Wenn Sie die praktischen Schritte nach dem Verlust eines Menschen in Luxemburg schon einmal selbst erledigt haben, können Sie Ihre Erfahrung auf clarvia.org teilen — was am schwersten war, welche Dokumente schwierig waren, was geholfen hätte.  
   → Wenn Sie die praktischen Schritte nach dem Verlust eines Menschen in Luxemburg schon einmal selbst erledigt haben, können Sie Ihre Erfahrung auf clarvia Punkt org teilen — was am schwersten war, welche Dokumente schwierig waren, was geholfen hätte.
-- **Tom:** Es ist kostenlos, es schützt Ihre Privatsphäre, und die erste Version ist schon auf clarvia.org.  
+- **Anna:** Es ist kostenlos, es schützt Ihre Privatsphäre, und die erste Version ist schon auf clarvia.org.  
   → Es ist kostenlos, es schützt Ihre Privatsphäre, und die erste Version ist schon auf clarvia Punkt org.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
@@ -3193,63 +3193,63 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### dsp_cns (32)
 
-- **Tom:** Und zweitens, wie Sie Ihr Geld von der Krankenkasse zurückbekommen, der CNS.  
+- **Anna:** Und zweitens, wie Sie Ihr Geld von der Krankenkasse zurückbekommen, der CNS.  
   → Und zweitens, wie Sie Ihr Geld von der Krankenkasse zurückbekommen, der C-N-S.
-- **Tom:** Das DSP ist eine kostenlose, persönliche und sichere elektronische Gesundheitsakte.  
+- **Anna:** Das DSP ist eine kostenlose, persönliche und sichere elektronische Gesundheitsakte.  
   → Das D-S-P ist eine kostenlose, persönliche und sichere elektronische Gesundheitsakte.
-- **Tom:** Mit dem DSP kann der diensthabende Arzt Ihre wichtigsten Informationen sehen.  
+- **Anna:** Mit dem DSP kann der diensthabende Arzt Ihre wichtigsten Informationen sehen.  
   → Mit dem D-S-P kann der diensthabende Arzt Ihre wichtigsten Informationen sehen.
-- **Tom:** Sie, der Patient, entscheiden, wer in Ihr DSP schauen darf.  
+- **Anna:** Sie, der Patient, entscheiden, wer in Ihr DSP schauen darf.  
   → Sie, der Patient, entscheiden, wer in Ihr D-S-P schauen darf.
-- **Anna:** Wie eröffne ich denn nun konkret ein DSP?  
+- **Tom:** Wie eröffne ich denn nun konkret ein DSP?  
   → Wie eröffne ich denn nun konkret ein D-S-P?
-- **Tom:** Und hier die gute Nachricht: Sie können es direkt über MyGuichet.lu aktivieren.  
+- **Anna:** Und hier die gute Nachricht: Sie können es direkt über MyGuichet.lu aktivieren.  
   → Und hier die gute Nachricht: Sie können es direkt über MyGuichet Punkt L-U aktivieren.
-- **Tom:** Sie melden sich online bei Ihrem DSP an, über das eSanté-Portal.  
+- **Anna:** Sie melden sich online bei Ihrem DSP an, über das eSanté-Portal.  
   → Sie melden sich online bei Ihrem D-S-P an, über das eSanté-Portal.
-- **Anna:** Also, um die erste Hälfte zusammenzufassen — das DSP ist meine kostenlose, sichere Online-Gesundheitsakte, betrieben von der Agence eSanté, sie hilft allen, die mich versorgen, zusammenzuarbeiten, ich kontrolliere, wer sie sieht, und ich aktiviere sie über MyGuichet.  
+- **Tom:** Also, um die erste Hälfte zusammenzufassen — das DSP ist meine kostenlose, sichere Online-Gesundheitsakte, betrieben von der Agence eSanté, sie hilft allen, die mich versorgen, zusammenzuarbeiten, ich kontrolliere, wer sie sieht, und ich aktiviere sie über MyGuichet.  
   → Also, um die erste Hälfte zusammenzufassen — das D-S-P ist meine kostenlose, sichere Online-Gesundheitsakte, betrieben von der Agence eSanté, sie hilft allen, die mich versorgen, zusammenzuarbeiten, ich kontrolliere, wer sie sieht, und ich aktiviere sie über MyGuichet.
-- **Anna:** Die CNS.  
+- **Tom:** Die CNS.  
   → Die C-N-S.
-- **Anna:** Tom, zuerst... was ist die CNS?  
-  → Tom, zuerst... was ist die C-N-S?
-- **Tom:** CNS steht für Caisse Nationale de Santé — die Nationale Gesundheitskasse.  
+- **Tom:** Anna, zuerst... was ist die CNS?  
+  → Anna, zuerst... was ist die C-N-S?
+- **Anna:** CNS steht für Caisse Nationale de Santé — die Nationale Gesundheitskasse.  
   → C-N-S steht für Caisse Nationale de Santé — die Nationale Gesundheitskasse.
-- **Tom:** Das heißt — bei einem normalen Arztbesuch zahlen Sie zuerst, und dann zahlt die CNS Ihnen das meiste davon zurück.  
+- **Anna:** Das heißt — bei einem normalen Arztbesuch zahlen Sie zuerst, und dann zahlt die CNS Ihnen das meiste davon zurück.  
   → Das heißt — bei einem normalen Arztbesuch zahlen Sie zuerst, und dann zahlt die C-N-S Ihnen das meiste davon zurück.
-- **Tom:** Die CNS erstattet einen großen Teil der Kosten — bei den meisten Leistungen sind es etwa achtzig bis hundert Prozent.  
+- **Anna:** Die CNS erstattet einen großen Teil der Kosten — bei den meisten Leistungen sind es etwa achtzig bis hundert Prozent.  
   → Die C-N-S erstattet einen großen Teil der Kosten — bei den meisten Leistungen sind es etwa achtzig bis hundert Prozent.
-- **Tom:** Dann schicken Sie diese bezahlte Originalrechnung an die CNS.  
+- **Anna:** Dann schicken Sie diese bezahlte Originalrechnung an die CNS.  
   → Dann schicken Sie diese bezahlte Originalrechnung an die C-N-S.
-- **Tom:** Die CNS überweist die Rückerstattung dann direkt auf Ihr Bankkonto.  
+- **Anna:** Die CNS überweist die Rückerstattung dann direkt auf Ihr Bankkonto.  
   → Die C-N-S überweist die Rückerstattung dann direkt auf Ihr Bankkonto.
-- **Tom:** Also — ein Tipp für unsere Hörer — geben Sie der CNS Ihre Bankkontonummer, Ihre IBAN, damit sie Sie direkt bezahlen kann.  
+- **Anna:** Also — ein Tipp für unsere Hörer — geben Sie der CNS Ihre Bankkontonummer, Ihre IBAN, damit sie Sie direkt bezahlen kann.  
   → Also — ein Tipp für unsere Hörer — geben Sie der C-N-S Ihre Bankkontonummer, Ihre Iban, damit sie Sie direkt bezahlen kann.
-- **Tom:** Und deshalb hat das System Ausnahmen, bei denen Sie NICHT alles zuerst bezahlen.  
+- **Anna:** Und deshalb hat das System Ausnahmen, bei denen Sie NICHT alles zuerst bezahlen.  
   → Und deshalb hat das System Ausnahmen, bei denen Sie nicht alles zuerst bezahlen.
-- **Tom:** Den Rest rechnet die Apotheke direkt mit der CNS ab.  
+- **Anna:** Den Rest rechnet die Apotheke direkt mit der CNS ab.  
   → Den Rest rechnet die Apotheke direkt mit der C-N-S ab.
-- **Anna:** Die CNS regelt den Rest im Hintergrund.  
+- **Tom:** Die CNS regelt den Rest im Hintergrund.  
   → Die C-N-S regelt den Rest im Hintergrund.
-- **Tom:** Das Krankenhaus rechnet die Versorgung direkt mit der CNS ab.  
+- **Anna:** Das Krankenhaus rechnet die Versorgung direkt mit der CNS ab.  
   → Das Krankenhaus rechnet die Versorgung direkt mit der C-N-S ab.
-- **Tom:** Die CNS übernimmt die berechtigten Leistungen direkt, damit Geld kein Hindernis ist, zum Arzt zu gehen.  
+- **Anna:** Die CNS übernimmt die berechtigten Leistungen direkt, damit Geld kein Hindernis ist, zum Arzt zu gehen.  
   → Die C-N-S übernimmt die berechtigten Leistungen direkt, damit Geld kein Hindernis ist, zum Arzt zu gehen.
-- **Tom:** Teil eins — das DSP ist Ihre kostenlose, sichere Online-Gesundheitsakte.  
+- **Anna:** Teil eins — das DSP ist Ihre kostenlose, sichere Online-Gesundheitsakte.  
   → Teil eins — das D-S-P ist Ihre kostenlose, sichere Online-Gesundheitsakte.
-- **Tom:** Sie hilft allen, die Sie behandeln, mit denselben Informationen zu arbeiten, Sie kontrollieren, wer sie sehen darf, und Sie aktivieren sie ganz einfach über MyGuichet.lu — oder schauen mit der MyDSP-App hinein.  
+- **Anna:** Sie hilft allen, die Sie behandeln, mit denselben Informationen zu arbeiten, Sie kontrollieren, wer sie sehen darf, und Sie aktivieren sie ganz einfach über MyGuichet.lu — oder schauen mit der MyDSP-App hinein.  
   → Sie hilft allen, die Sie behandeln, mit denselben Informationen zu arbeiten, Sie kontrollieren, wer sie sehen darf, und Sie aktivieren sie ganz einfach über MyGuichet Punkt L-U — oder schauen mit der MyDSP-App hinein.
-- **Tom:** Teil zwei — die CNS, die nationale Krankenversicherung.  
+- **Anna:** Teil zwei — die CNS, die nationale Krankenversicherung.  
   → Teil zwei — die C-N-S, die nationale Krankenversicherung.
-- **Tom:** Beim normalen Arztbesuch zahlen Sie zuerst, und die CNS erstattet das meiste davon auf Ihr Bankkonto, in etwa drei Wochen.  
+- **Anna:** Beim normalen Arztbesuch zahlen Sie zuerst, und die CNS erstattet das meiste davon auf Ihr Bankkonto, in etwa drei Wochen.  
   → Beim normalen Arztbesuch zahlen Sie zuerst, und die C-N-S erstattet das meiste davon auf Ihr Bankkonto, in etwa drei Wochen.
-- **Anna:** Die Botschaft ist also — aktivieren Sie Ihre Gesundheitsakte, bewahren Sie Ihre Rechnungen auf, geben Sie der CNS Ihre Bankdaten, und haben Sie keine Angst, um Hilfe zu bitten, wenn Sie sie brauchen.  
+- **Tom:** Die Botschaft ist also — aktivieren Sie Ihre Gesundheitsakte, bewahren Sie Ihre Rechnungen auf, geben Sie der CNS Ihre Bankdaten, und haben Sie keine Angst, um Hilfe zu bitten, wenn Sie sie brauchen.  
   → Die Botschaft ist also — aktivieren Sie Ihre Gesundheitsakte, bewahren Sie Ihre Rechnungen auf, geben Sie der C-N-S Ihre Bankdaten, und haben Sie keine Angst, um Hilfe zu bitten, wenn Sie sie brauchen.
-- **Tom:** Für die Gesundheitsakte ist die Website esante.lu.  
+- **Anna:** Für die Gesundheitsakte ist die Website esante.lu.  
   → Für die Gesundheitsakte ist die Website esante Punkt L-U.
-- **Tom:** Für die Versicherung und die Rückerstattungen ist es cns.lu.  
+- **Anna:** Für die Versicherung und die Rückerstattungen ist es cns.lu.  
   → Für die Versicherung und die Rückerstattungen ist es cns Punkt L-U.
-- **Tom:** Und die Verfahren werden auf Guichet.lu erklärt, auch auf Deutsch.  
+- **Anna:** Und die Verfahren werden auf Guichet.lu erklärt, auch auf Deutsch.  
   → Und die Verfahren werden auf Guichet Punkt L-U erklärt, auch auf Deutsch.
 - **Anna:** Das war unsere Folge über Ihre Online-Gesundheitsakte und die CNS.  
   → Das war unsere Folge über Ihre Online-Gesundheitsakte und die C-N-S.
@@ -3470,9 +3470,9 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### granderegion (4)
 
-- **Tom:** Kultur, Tourismus, gemeinsames Erbe, UNESCO-Welterbestätten überall in der Region.  
+- **Anna:** Kultur, Tourismus, gemeinsames Erbe, UNESCO-Welterbestätten überall in der Region.  
   → Kultur, Tourismus, gemeinsames Erbe, Unesco-Welterbestätten überall in der Region.
-- **Tom:** Und das alles findest du auf granderegion.net.  
+- **Anna:** Und das alles findest du auf granderegion.net.  
   → Und das alles findest du auf granderegion Punkt net.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
@@ -3500,15 +3500,15 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### infosenior (7)
 
-- **Tom:** Sein Zuhause im Internet ist eine Webseite — infosenior Punkt l-u.  
+- **Anna:** Sein Zuhause im Internet ist eine Webseite — infosenior Punkt l-u.  
   → Sein Zuhause im Internet ist eine Webseite — infosenior Punkt L-U.
-- **Anna:** infosenior.lu.  
+- **Tom:** infosenior.lu.  
   → infosenior Punkt L-U.
-- **Tom:** Gehen Sie auf die Webseite — infosenior Punkt l-u.  
+- **Anna:** Gehen Sie auf die Webseite — infosenior Punkt l-u.  
   → Gehen Sie auf die Webseite — infosenior Punkt L-U.
-- **Tom:** Info-Seniors, auf infosenior Punkt l-u, ist das Informationsportal des Staates für ältere Menschen in Luxemburg.  
+- **Anna:** Info-Seniors, auf infosenior Punkt l-u, ist das Informationsportal des Staates für ältere Menschen in Luxemburg.  
   → Info-Seniors, auf infosenior Punkt L-U, ist das Informationsportal des Staates für ältere Menschen in Luxemburg.
-- **Anna:** infosenior.lu.  
+- **Tom:** infosenior.lu.  
   → infosenior Punkt L-U.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
@@ -3610,27 +3610,27 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### luxtrust (13)
 
-- **Tom:** Mit LuxTrust melden Sie sich bei MyGuichet.lu an.  
+- **Anna:** Mit LuxTrust melden Sie sich bei MyGuichet.lu an.  
   → Mit LuxTrust melden Sie sich bei MyGuichet Punkt L-U an.
-- **Tom:** Schritt drei — Sie geben Ihre Benutzer-ID und Ihr Passwort ein.  
+- **Anna:** Schritt drei — Sie geben Ihre Benutzer-ID und Ihr Passwort ein.  
   → Schritt drei — Sie geben Ihre Benutzer-I-D und Ihr Passwort ein.
-- **Tom:** Oder, wenn Sie ein kartenbasiertes Gerät haben, Ihren PIN-Code.  
+- **Anna:** Oder, wenn Sie ein kartenbasiertes Gerät haben, Ihren PIN-Code.  
   → Oder, wenn Sie ein kartenbasiertes Gerät haben, Ihren Pin-Code.
-- **Tom:** Und Schritt vier — Sie erzeugen ein Einmalpasswort, ein OTP — einen Code, der nur einmal funktioniert — und das gibt Ihnen Zugang.  
+- **Anna:** Und Schritt vier — Sie erzeugen ein Einmalpasswort, ein OTP — einen Code, der nur einmal funktioniert — und das gibt Ihnen Zugang.  
   → Und Schritt vier — Sie erzeugen ein Einmalpasswort, ein O-T-P — einen Code, der nur einmal funktioniert — und das gibt Ihnen Zugang.
-- **Tom:** Aber bitte prüfen Sie die genauen Preise auf luxtrust.com, denn sie können sich ändern.  
+- **Anna:** Aber bitte prüfen Sie die genauen Preise auf luxtrust.com, denn sie können sich ändern.  
   → Aber bitte prüfen Sie die genauen Preise auf luxtrust Punkt com, denn sie können sich ändern.
-- **Tom:** Ihre Benutzer-ID — die erhalten Sie per Brief, oder per SMS.  
+- **Anna:** Ihre Benutzer-ID — die erhalten Sie per Brief, oder per SMS.  
   → Ihre Benutzer-I-D — die erhalten Sie per Brief, oder per S-M-S.
-- **Tom:** Ihr anfängliches Passwort — auch per Brief oder SMS.  
+- **Anna:** Ihr anfängliches Passwort — auch per Brief oder SMS.  
   → Ihr anfängliches Passwort — auch per Brief oder S-M-S.
-- **Tom:** Beim Scan dauert es etwa sechs Minuten — Sie folgen den Schritten, scannen ein paar QR-Codes, und legen ein neues, starkes Passwort fest.  
+- **Anna:** Beim Scan dauert es etwa sechs Minuten — Sie folgen den Schritten, scannen ein paar QR-Codes, und legen ein neues, starkes Passwort fest.  
   → Beim Scan dauert es etwa sechs Minuten — Sie folgen den Schritten, scannen ein paar Q-R-Codes, und legen ein neues, starkes Passwort fest.
-- **Tom:** Genau wie Sie Ihre Bankkarte und Ihren PIN nicht einem Kollegen geben, teilen Sie niemals Ihre LuxTrust-Zugangsdaten.  
+- **Anna:** Genau wie Sie Ihre Bankkarte und Ihren PIN nicht einem Kollegen geben, teilen Sie niemals Ihre LuxTrust-Zugangsdaten.  
   → Genau wie Sie Ihre Bankkarte und Ihren Pin nicht einem Kollegen geben, teilen Sie niemals Ihre LuxTrust-Zugangsdaten.
-- **Tom:** Der einfachste Weg: Fragen Sie Ihre Bank, oder gehen Sie auf luxtrust.com, wählen Sie die App, bestellen Sie sie, lassen Sie sich identifizieren, und aktivieren Sie sie.  
+- **Anna:** Der einfachste Weg: Fragen Sie Ihre Bank, oder gehen Sie auf luxtrust.com, wählen Sie die App, bestellen Sie sie, lassen Sie sich identifizieren, und aktivieren Sie sie.  
   → Der einfachste Weg: Fragen Sie Ihre Bank, oder gehen Sie auf luxtrust Punkt com, wählen Sie die App, bestellen Sie sie, lassen Sie sich identifizieren, und aktivieren Sie sie.
-- **Tom:** Sie bekommen es über Ihre Bank oder auf luxtrust.com, Sie beweisen Ihre Identität persönlich oder per Video, und Sie aktivieren es — am einfachsten mit der Mobile-App.  
+- **Anna:** Sie bekommen es über Ihre Bank oder auf luxtrust.com, Sie beweisen Ihre Identität persönlich oder per Video, und Sie aktivieren es — am einfachsten mit der Mobile-App.  
   → Sie bekommen es über Ihre Bank oder auf luxtrust Punkt com, Sie beweisen Ihre Identität persönlich oder per Video, und Sie aktivieren es — am einfachsten mit der Mobile-App.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
@@ -3691,75 +3691,75 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### onis (37)
 
-- **Tom:** ONIS.  
+- **Anna:** ONIS.  
   → Onis.
-- **Anna:** Tom, in einer früheren Folge haben wir über den Nationalen Solidaritätsfonds gesprochen, und über eine Leistung namens REVIS — das Eingliederungseinkommen.  
-  → Tom, in einer früheren Folge haben wir über den Nationalen Solidaritätsfonds gesprochen, und über eine Leistung namens Revis — das Eingliederungseinkommen.
-- **Tom:** Es hängt direkt zusammen — und das ist der Schlüssel, um ONIS zu verstehen.  
+- **Tom:** Anna, in einer früheren Folge haben wir über den Nationalen Solidaritätsfonds gesprochen, und über eine Leistung namens REVIS — das Eingliederungseinkommen.  
+  → Anna, in einer früheren Folge haben wir über den Nationalen Solidaritätsfonds gesprochen, und über eine Leistung namens Revis — das Eingliederungseinkommen.
+- **Anna:** Es hängt direkt zusammen — und das ist der Schlüssel, um ONIS zu verstehen.  
   → Es hängt direkt zusammen — und das ist der Schlüssel, um Onis zu verstehen.
-- **Tom:** Erinnerst du dich, REVIS ist Luxemburgs garantiertes Mindesteinkommen.  
+- **Anna:** Erinnerst du dich, REVIS ist Luxemburgs garantiertes Mindesteinkommen.  
   → Erinnerst du dich, Revis ist Luxemburgs garantiertes Mindesteinkommen.
-- **Tom:** Wenn das Einkommen deines Haushalts zu niedrig ist, stockt REVIS dich auf ein Grundniveau auf.  
+- **Anna:** Wenn das Einkommen deines Haushalts zu niedrig ist, stockt REVIS dich auf ein Grundniveau auf.  
   → Wenn das Einkommen deines Haushalts zu niedrig ist, stockt Revis dich auf ein Grundniveau auf.
-- **Tom:** REVIS hat zwei Seiten.  
+- **Anna:** REVIS hat zwei Seiten.  
   → Revis hat zwei Seiten.
-- **Tom:** Diesen Teil zahlt der Nationale Solidaritätsfonds, der FNS.  
+- **Anna:** Diesen Teil zahlt der Nationale Solidaritätsfonds, der FNS.  
   → Diesen Teil zahlt der Nationale Solidaritätsfonds, der F-N-S.
-- **Anna:** Und diese zweite Seite — die Inklusionsseite — ist die Aufgabe von ONIS.  
+- **Tom:** Und diese zweite Seite — die Inklusionsseite — ist die Aufgabe von ONIS.  
   → Und diese zweite Seite — die Inklusionsseite — ist die Aufgabe von Onis.
-- **Tom:** Der FNS kümmert sich um das Geld.  
+- **Anna:** Der FNS kümmert sich um das Geld.  
   → Der F-N-S kümmert sich um das Geld.
-- **Tom:** ONIS kümmert sich um die Menschen und ihren Weg nach vorn.  
+- **Anna:** ONIS kümmert sich um die Menschen und ihren Weg nach vorn.  
   → Onis kümmert sich um die Menschen und ihren Weg nach vorn.
-- **Tom:** REVIS ist nicht als Scheck gedacht, den du für immer bekommst, allein zu Hause.  
+- **Anna:** REVIS ist nicht als Scheck gedacht, den du für immer bekommst, allein zu Hause.  
   → Revis ist nicht als Scheck gedacht, den du für immer bekommst, allein zu Hause.
-- **Anna:** ONIS ist also das Amt, das mit dir über die Brücke geht.  
+- **Tom:** ONIS ist also das Amt, das mit dir über die Brücke geht.  
   → Onis ist also das Amt, das mit dir über die Brücke geht.
-- **Anna:** Was für ein Amt ist ONIS eigentlich, offiziell?  
+- **Tom:** Was für ein Amt ist ONIS eigentlich, offiziell?  
   → Was für ein Amt ist Onis eigentlich, offiziell?
-- **Tom:** Es wurde durch die große REVIS-Reform geschaffen — das Gesetz von zweitausendachtzehn — und es hat seine Arbeit Anfang zweitausendneunzehn aufgenommen.  
+- **Anna:** Es wurde durch die große REVIS-Reform geschaffen — das Gesetz von zweitausendachtzehn — und es hat seine Arbeit Anfang zweitausendneunzehn aufgenommen.  
   → Es wurde durch die große Revis-Reform geschaffen — das Gesetz von zweitausendachtzehn — und es hat seine Arbeit Anfang zweitausendneunzehn aufgenommen.
-- **Tom:** Und genau darin liegt die Klugheit, wie ONIS arbeitet.  
+- **Anna:** Und genau darin liegt die Klugheit, wie ONIS arbeitet.  
   → Und genau darin liegt die Klugheit, wie Onis arbeitet.
-- **Tom:** ONIS arbeitet mit zwei Arten von Maßnahmen.  
+- **Anna:** ONIS arbeitet mit zwei Arten von Maßnahmen.  
   → Onis arbeitet mit zwei Arten von Maßnahmen.
-- **Anna:** Wenn ich eine Person bin, die anfängt, REVIS zu bekommen, was passiert dann eigentlich mit ONIS?  
+- **Tom:** Wenn ich eine Person bin, die anfängt, REVIS zu bekommen, was passiert dann eigentlich mit ONIS?  
   → Wenn ich eine Person bin, die anfängt, Revis zu bekommen, was passiert dann eigentlich mit Onis?
-- **Tom:** Normalerweise beginnt es mit einer Einladung — du wirst zu einem Treffen eingeladen, einem Empfang, bei ONIS.  
+- **Anna:** Normalerweise beginnt es mit einer Einladung — du wirst zu einem Treffen eingeladen, einem Empfang, bei ONIS.  
   → Normalerweise beginnt es mit einer Einladung — du wirst zu einem Treffen eingeladen, einem Empfang, bei Onis.
-- **Tom:** Auf Französisch ein „agent régional d'inclusion sociale", ein ARIS.  
+- **Anna:** Auf Französisch ein „agent régional d'inclusion sociale", ein ARIS.  
   → Auf Französisch ein „agent régional d'inclusion sociale", ein Aris.
-- **Tom:** Es stimmt, dass REVIS Mitwirkung verlangt — das ist die Kooperationserklärung.  
+- **Anna:** Es stimmt, dass REVIS Mitwirkung verlangt — das ist die Kooperationserklärung.  
   → Es stimmt, dass Revis Mitwirkung verlangt — das ist die Kooperationserklärung.
-- **Tom:** Und genau das ist die Falle, die REVIS und ONIS zu vermeiden versuchen.  
+- **Anna:** Und genau das ist die Falle, die REVIS und ONIS zu vermeiden versuchen.  
   → Und genau das ist die Falle, die Revis und Onis zu vermeiden versuchen.
-- **Anna:** Der Scheck ist der Boden; ONIS ist die Treppe.  
-  → Der Scheck ist der Boden; Onis ist die Treppe.
 - **Tom:** Der Scheck ist der Boden; ONIS ist die Treppe.  
   → Der Scheck ist der Boden; Onis ist die Treppe.
-- **Tom:** Also beantragt Paulo REVIS.  
+- **Anna:** Der Scheck ist der Boden; ONIS ist die Treppe.  
+  → Der Scheck ist der Boden; Onis ist die Treppe.
+- **Anna:** Also beantragt Paulo REVIS.  
   → Also beantragt Paulo Revis.
-- **Tom:** Der FNS regelt die Geldseite — er bekommt das Mindesteinkommen, damit er leben kann.  
+- **Anna:** Der FNS regelt die Geldseite — er bekommt das Mindesteinkommen, damit er leben kann.  
   → Der F-N-S regelt die Geldseite — er bekommt das Mindesteinkommen, damit er leben kann.
-- **Tom:** Und dann tritt ONIS in sein Leben.  
+- **Anna:** Und dann tritt ONIS in sein Leben.  
   → Und dann tritt Onis in sein Leben.
-- **Tom:** Das ist die stille Philosophie hinter ONIS.  
+- **Anna:** Das ist die stille Philosophie hinter ONIS.  
   → Das ist die stille Philosophie hinter Onis.
-- **Tom:** Erstens — wenn du REVIS bekommst, ist ONIS nicht dein Feind.  
+- **Anna:** Erstens — wenn du REVIS bekommst, ist ONIS nicht dein Feind.  
   → Erstens — wenn du Revis bekommst, ist Onis nicht dein Feind.
-- **Tom:** Es ist der Teil von REVIS, der da ist, um dir zu helfen, voranzukommen, mit einem echten Menschen und einem persönlichen Plan.  
+- **Anna:** Es ist der Teil von REVIS, der da ist, um dir zu helfen, voranzukommen, mit einem echten Menschen und einem persönlichen Plan.  
   → Es ist der Teil von Revis, der da ist, um dir zu helfen, voranzukommen, mit einem echten Menschen und einem persönlichen Plan.
-- **Tom:** Die offizielle Website ist onis — also o-n-i-s — Punkt gouvernement Punkt l-u.  
+- **Anna:** Die offizielle Website ist onis — also o-n-i-s — Punkt gouvernement Punkt l-u.  
   → Die offizielle Website ist onis — also O-N-I-S — Punkt gouvernement Punkt L-U.
-- **Tom:** Und für die REVIS-Leistung selbst gibt es die Informationen auf guichet Punkt l-u, und die Geldseite ist der Nationale Solidaritätsfonds, den wir in einer anderen Folge behandelt haben.  
+- **Anna:** Und für die REVIS-Leistung selbst gibt es die Informationen auf guichet Punkt l-u, und die Geldseite ist der Nationale Solidaritätsfonds, den wir in einer anderen Folge behandelt haben.  
   → Und für die Revis-Leistung selbst gibt es die Informationen auf guichet Punkt L-U, und die Geldseite ist der Nationale Solidaritätsfonds, den wir in einer anderen Folge behandelt haben.
-- **Tom:** ONIS, das Nationale Amt für soziale Inklusion, ist das staatliche Amt, das die „Inklusionsseite" von REVIS regelt, Luxemburgs Eingliederungseinkommen.  
+- **Anna:** ONIS, das Nationale Amt für soziale Inklusion, ist das staatliche Amt, das die „Inklusionsseite" von REVIS regelt, Luxemburgs Eingliederungseinkommen.  
   → Onis, das Nationale Amt für soziale Inklusion, ist das staatliche Amt, das die „Inklusionsseite" von Revis regelt, Luxemburgs Eingliederungseinkommen.
-- **Tom:** Während der Nationale Solidaritätsfonds das Geld zahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen.  
+- **Anna:** Während der Nationale Solidaritätsfonds das Geld zahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen.  
   → Während der Nationale Solidaritätsfonds das Geld zahlt, hilft Onis den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen.
-- **Anna:** Also... ob für dich, oder für jemanden, der dir am Herzen liegt — denk daran, hinter dem REVIS-Scheck steht auch eine helfende Hand.  
+- **Tom:** Also... ob für dich, oder für jemanden, der dir am Herzen liegt — denk daran, hinter dem REVIS-Scheck steht auch eine helfende Hand.  
   → Also... ob für dich, oder für jemanden, der dir am Herzen liegt — denk daran, hinter dem Revis-Scheck steht auch eine helfende Hand.
-- **Anna:** ONIS.  
+- **Tom:** ONIS.  
   → Onis.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.
@@ -3991,25 +3991,25 @@ Only the text sent to ElevenLabs changes; transcripts on the site keep the writt
 
 ### zukunftskeess (12)
 
-- **Tom:** Ihr Zuhause im Internet ist c-a-e Punkt l-u.  
+- **Anna:** Ihr Zuhause im Internet ist c-a-e Punkt l-u.  
   → Ihr Zuhause im Internet ist C-A-E Punkt L-U.
-- **Anna:** cae.lu.  
+- **Tom:** cae.lu.  
   → cae Punkt L-U.
-- **Tom:** Für die genaue Zahl von heute schaust du also auf die offizielle Seite — das ist die Seite „soziale Parameter" auf guichet Punkt l-u.  
+- **Anna:** Für die genaue Zahl von heute schaust du also auf die offizielle Seite — das ist die Seite „soziale Parameter" auf guichet Punkt l-u.  
   → Für die genaue Zahl von heute schaust du also auf die offizielle Seite — das ist die Seite „soziale Parameter" auf guichet Punkt L-U.
-- **Tom:** Die meisten Dinge kann man online erledigen, über MyGuichet.lu — die digitale Plattform des Staates.  
+- **Anna:** Die meisten Dinge kann man online erledigen, über MyGuichet.lu — die digitale Plattform des Staates.  
   → Die meisten Dinge kann man online erledigen, über MyGuichet Punkt L-U — die digitale Plattform des Staates.
-- **Anna:** Ah, MyGuichet.lu — darüber haben wir in einer anderen Folge gesprochen.  
+- **Tom:** Ah, MyGuichet.lu — darüber haben wir in einer anderen Folge gesprochen.  
   → Ah, MyGuichet Punkt L-U — darüber haben wir in einer anderen Folge gesprochen.
-- **Tom:** Und sie stellen einen Antrag auf das monatliche Kindergeld — über MyGuichet.lu.  
+- **Anna:** Und sie stellen einen Antrag auf das monatliche Kindergeld — über MyGuichet.lu.  
   → Und sie stellen einen Antrag auf das monatliche Kindergeld — über MyGuichet Punkt L-U.
-- **Tom:** Erstens — geh auf die Website, c-a-e Punkt l-u, oder auf MyGuichet.lu.  
+- **Anna:** Erstens — geh auf die Website, c-a-e Punkt l-u, oder auf MyGuichet.lu.  
   → Erstens — geh auf die Website, C-A-E Punkt L-U, oder auf MyGuichet Punkt L-U.
-- **Anna:** cae.lu.  
+- **Tom:** cae.lu.  
   → cae Punkt L-U.
-- **Tom:** Die Zukunftskeess — die Zukunftskasse (Caisse pour l'avenir des enfants), cae.lu — ist die staatliche Stelle für Familienleistungen in Luxemburg.  
+- **Anna:** Die Zukunftskeess — die Zukunftskasse (Caisse pour l'avenir des enfants), cae.lu — ist die staatliche Stelle für Familienleistungen in Luxemburg.  
   → Die Zukunftskeess — die Zukunftskasse (Caisse pour l'avenir des enfants), cae Punkt L-U — ist die staatliche Stelle für Familienleistungen in Luxemburg.
-- **Anna:** cae.lu.  
+- **Tom:** cae.lu.  
   → cae Punkt L-U.
 - **Anna:** Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.  
   → Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt Punkt L-U — dort finden Sie ausführliche Informationen.

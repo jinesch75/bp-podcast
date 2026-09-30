@@ -64,7 +64,6 @@
 **TOM:** And fourth... it has already helped improve real services, like the MyGuichet app.
 **ANNA:** Paperwork may never be exciting. But the chance to make it simpler, together, is genuinely empowering.
 **TOM:** So the next time something feels too complicated, remember... your voice can help fix it.
-
 **ANNA:** That was our episode about Zesumme Vereinfachen. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.
