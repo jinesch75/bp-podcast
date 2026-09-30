@@ -27,13 +27,17 @@ def rebuild(WORK, out_mp3):
     gap_bytes=b"\x00\x00"*int(SR*GAP)
     pcm_path=WORK+"/full.pcm"
     offsets=[]
+    def decode(f):  # gain + decode one sentence (independent, so it can run in parallel)
+        g=seg_gain(WORK+"/"+f)
+        return subprocess.run(["ffmpeg","-v","error","-i",WORK+"/"+f,*([] if g==0.0 else ["-af",f"volume={g:.2f}dB"]),"-f","s16le","-ac","1","-ar",str(SR),"-"],capture_output=True).stdout
+    from concurrent.futures import ThreadPoolExecutor
+    with ThreadPoolExecutor(max_workers=int(os.environ.get("REBUILD_JOBS","4"))) as pool:
+        pcms=list(pool.map(decode, segs))  # results come back in sentence order
     with open(pcm_path,"wb") as out:
         pos=0
-        for f in segs:
+        for pcm in pcms:
             offsets.append(pos/2/SR)  # pre-tempo start seconds
-            g=seg_gain(WORK+"/"+f)
-            p=subprocess.run(["ffmpeg","-v","error","-i",WORK+"/"+f,*([] if g==0.0 else ["-af",f"volume={g:.2f}dB"]),"-f","s16le","-ac","1","-ar",str(SR),"-"],capture_output=True)
-            out.write(p.stdout); pos+=len(p.stdout)
+            out.write(pcm); pos+=len(pcm)
             out.write(gap_bytes); pos+=len(gap_bytes)
     # encode once with tempo
     subprocess.run(["ffmpeg","-y","-f","s16le","-ar",str(SR),"-ac","1","-i",pcm_path,

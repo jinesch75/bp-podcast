@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "Eltereforum – Strong Parents, Strong Children",
   "description": "A warm, welcoming network of parent forums across Luxembourg, coordinated by the Ministry of Education, Children and Youth. What the Eltereforum offers — parent meetings, parenting classes, parent-child activities and themed evenings, built around the idea of 'strong parents, strong children' — who it is for (all parents, from before birth until the child is grown), how the regional forums work with local partners, and how the team guides you to specialised services when needed.",
   "audio": "../../podcast_eltereforum.mp3",
-  "duration": 490.87,
+  "duration": 402.79,
   "topics": [
    "Meaning of “Eltereforum”",
    "For all parents",
@@ -26,647 +26,642 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "It's really nice to have you with us today.",
-    "t": 2.54
+    "t": 1.49
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.58
+    "t": 3.72
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt.",
-    "t": 7.62
+    "t": 4.88
    },
    {
     "speaker": "Anna",
     "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
-    "t": 10.84
+    "t": 7.39
    },
    {
     "speaker": "Anna",
     "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
-    "t": 20.63
-   },
-   {
-    "speaker": "Anna",
-    "text": "So that they can connect, exchange ideas and feel at home.",
-    "t": 29.98
-   },
-   {
-    "speaker": "Anna",
-    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 34.25
-   },
-   {
-    "speaker": "Anna",
-    "text": "And the activities are free of charge.",
-    "t": 40.8
-   },
-   {
-    "speaker": "Anna",
-    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 43.86
+    "t": 17.24
    },
    {
     "speaker": "Tom",
     "text": "Exactly.",
-    "t": 49.44
+    "t": 27.13
    },
    {
     "speaker": "Tom",
     "text": "And today's topic is for anyone who has children, or who is about to have children.",
-    "t": 51.36
+    "t": 28.1
    },
    {
     "speaker": "Tom",
     "text": "It's a service called the Eltereforum.",
-    "t": 56.63
+    "t": 32.84
    },
    {
     "speaker": "Anna",
     "text": "Eltereforum.",
-    "t": 59.65
+    "t": 35.12
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom — that's a Luxembourgish word.",
-    "t": 61.53
+    "t": 36.33
    },
    {
     "speaker": "Anna",
     "text": "Let's start there.",
-    "t": 65.24
+    "t": 39.02
    },
    {
     "speaker": "Anna",
     "text": "What does it mean?",
-    "t": 67.28
+    "t": 40
    },
    {
     "speaker": "Tom",
     "text": "So... \"Elteren\" means \"parents\", and \"Forum\" means a place to meet and talk.",
-    "t": 69.21
+    "t": 41.25
    },
    {
     "speaker": "Tom",
     "text": "So Eltereforum is, literally, a \"parents' forum\".",
-    "t": 75.01
+    "t": 46.78
    },
    {
     "speaker": "Anna",
     "text": "A parents' forum.",
-    "t": 79.09
+    "t": 50.4
    },
    {
     "speaker": "Anna",
     "text": "So it's a place for parents.",
-    "t": 81.22
+    "t": 51.61
    },
    {
     "speaker": "Tom",
     "text": "Exactly.",
-    "t": 83.86
+    "t": 53.42
    },
    {
     "speaker": "Tom",
-    "text": "The official description is very warm.",
-    "t": 85.79
+    "text": "The official description is very inviting.",
+    "t": 54.44
    },
    {
     "speaker": "Tom",
     "text": "The parent forums are welcoming places for discussion, information and support — for all parents.",
-    "t": 88.96
+    "t": 56.63
    },
    {
     "speaker": "Anna",
     "text": "For all parents.",
-    "t": 95.03
+    "t": 62.06
    },
    {
     "speaker": "Anna",
-    "text": "So not only for parents with problems?",
-    "t": 97.18
+    "text": "So not only for parents facing difficulties?",
+    "t": 63.32
    },
    {
     "speaker": "Tom",
     "text": "No, no — and this is important.",
-    "t": 100.24
+    "t": 65.82
    },
    {
     "speaker": "Tom",
     "text": "It's for everyone.",
-    "t": 103.44
+    "t": 67.64
    },
    {
     "speaker": "Tom",
-    "text": "The Eltereforum is generalist.",
-    "t": 105.55
+    "text": "The Eltereforum is open to all.",
+    "t": 68.94
    },
    {
     "speaker": "Tom",
     "text": "It's a normal, friendly place where any parent can come, ask questions, learn something, and meet other parents.",
-    "t": 108.43
+    "t": 71.17
    },
    {
     "speaker": "Tom",
     "text": "You don't need a special reason.",
-    "t": 115.27
+    "t": 77.07
    },
    {
     "speaker": "Tom",
-    "text": "You don't need to have a problem.",
-    "t": 117.98
+    "text": "You don't need to have a specific issue.",
+    "t": 79.16
    },
    {
     "speaker": "Anna",
     "text": "Good.",
-    "t": 120.6
+    "t": 81.48
    },
    {
     "speaker": "Anna",
     "text": "Because sometimes people think, \"I'll ask for help only if something is wrong.\"",
-    "t": 122.37
+    "t": 82.22
    },
    {
     "speaker": "Tom",
     "text": "Right.",
-    "t": 127.15
+    "t": 86.36
    },
    {
     "speaker": "Tom",
     "text": "But raising a child is a big job for everybody.",
-    "t": 128.92
+    "t": 86.87
    },
    {
     "speaker": "Tom",
     "text": "So the idea is to support parents from the very beginning, and along the whole way.",
-    "t": 132.63
+    "t": 89.28
    },
    {
     "speaker": "Anna",
     "text": "From the very beginning — what does that mean exactly?",
-    "t": 137.94
+    "t": 93.88
    },
    {
     "speaker": "Tom",
     "text": "It means from the moment you start your \"parental project\" — so, even before the baby is born, when you are planning or expecting — all the way through every stage of the child's life, until they become an adult.",
-    "t": 141.71
+    "t": 96.85
    },
    {
     "speaker": "Anna",
     "text": "Wow.",
-    "t": 152.64
+    "t": 110.14
    },
    {
     "speaker": "Anna",
     "text": "So from pregnancy until the child is eighteen.",
-    "t": 154.17
+    "t": 110.69
    },
    {
     "speaker": "Tom",
     "text": "Yes.",
-    "t": 157.7
+    "t": 113.53
    },
    {
     "speaker": "Tom",
     "text": "The whole journey.",
-    "t": 159.36
+    "t": 114.04
    },
    {
     "speaker": "Tom",
     "text": "Every age has its questions.",
-    "t": 161.42
+    "t": 115.2
    },
    {
     "speaker": "Tom",
     "text": "A baby who doesn't sleep.",
-    "t": 164.2
+    "t": 116.87
    },
    {
     "speaker": "Tom",
     "text": "A small child and the use of digital tools.",
-    "t": 166.73
+    "t": 118.55
    },
    {
     "speaker": "Tom",
     "text": "School.",
-    "t": 170.08
+    "t": 121.29
    },
    {
     "speaker": "Tom",
     "text": "Teenagers.",
-    "t": 171.85
+    "t": 122.03
    },
    {
     "speaker": "Tom",
     "text": "The Eltereforum is there for all of it.",
-    "t": 173.76
+    "t": 123.24
    },
    {
     "speaker": "Anna",
     "text": "That's reassuring.",
-    "t": 176.82
+    "t": 125.1
    },
    {
     "speaker": "Anna",
     "text": "Now tell me — who is behind this?",
-    "t": 178.95
+    "t": 126.26
    },
    {
     "speaker": "Anna",
     "text": "Is it official?",
-    "t": 181.99
+    "t": 128.26
    },
    {
     "speaker": "Tom",
     "text": "It is fully official.",
-    "t": 183.92
+    "t": 129.46
    },
    {
     "speaker": "Tom",
     "text": "The Eltereforum is coordinated by the Ministry of Education, Children and Youth.",
-    "t": 186.3
+    "t": 130.77
    },
    {
     "speaker": "Tom",
     "text": "So it's a public service of the Luxembourg State.",
-    "t": 191.63
+    "t": 135.22
    },
    {
     "speaker": "Tom",
     "text": "And there's a nice slogan behind it — \"Strong parents, strong children\".",
-    "t": 195.27
+    "t": 138.66
    },
    {
     "speaker": "Tom",
     "text": "The idea being: when parents feel supported and confident, the children do better too.",
-    "t": 199.84
+    "t": 143.86
    },
    {
     "speaker": "Anna",
     "text": "Strong parents, strong children.",
-    "t": 205.31
+    "t": 148.97
    },
    {
     "speaker": "Anna",
     "text": "I like that.",
-    "t": 208.3
+    "t": 150.65
    },
    {
     "speaker": "Anna",
     "text": "Okay, so practically — what actually happens at an Eltereforum?",
-    "t": 210.3
+    "t": 151.85
    },
    {
     "speaker": "Anna",
     "text": "What can I do there?",
-    "t": 214.98
+    "t": 155.71
    },
    {
     "speaker": "Tom",
     "text": "Lots of things.",
-    "t": 217.07
+    "t": 157.06
    },
    {
     "speaker": "Tom",
     "text": "Let me list the main ones.",
-    "t": 219.18
+    "t": 158.08
    },
    {
     "speaker": "Tom",
     "text": "There are parent meetings — so, moments to get together and exchange with other parents.",
-    "t": 221.79
+    "t": 159.7
    },
    {
     "speaker": "Tom",
-    "text": "There are parenting classes — like little courses on raising children.",
-    "t": 227.1
+    "text": "There are also courses that offer specific guidance on different aspects of parenting.",
+    "t": 165.05
    },
    {
     "speaker": "Tom",
     "text": "There are activities for parents together with their children.",
-    "t": 231.48
+    "t": 170.29
    },
    {
     "speaker": "Tom",
     "text": "And there are themed evenings, talks and lectures — for example, an evening about sleep, or about digital tools, or about reading.",
-    "t": 235.43
+    "t": 173.78
    },
    {
     "speaker": "Anna",
-    "text": "So courses, evenings, meetings, and parent-child activities.",
-    "t": 242.87
+    "text": "So courses, evenings, meetings, and activities for parents and their kids.",
+    "t": 182.23
    },
    {
     "speaker": "Tom",
     "text": "Exactly.",
-    "t": 247.78
+    "t": 186.97
    },
    {
     "speaker": "Tom",
     "text": "The whole thing is built so that you get good-quality information, and at the same time a place to meet other parents and professionals.",
-    "t": 249.71
+    "t": 188.04
    },
    {
     "speaker": "Anna",
     "text": "That second part is great — meeting other parents.",
-    "t": 256.88
+    "t": 194.96
    },
    {
     "speaker": "Anna",
     "text": "Because parenting can feel lonely sometimes.",
-    "t": 260.85
+    "t": 197.98
    },
    {
     "speaker": "Tom",
     "text": "It really can.",
-    "t": 264.34
+    "t": 200.81
    },
    {
     "speaker": "Tom",
     "text": "And here you realise — okay, other parents have the same questions as me.",
-    "t": 266.45
+    "t": 202.02
    },
    {
     "speaker": "Tom",
     "text": "I'm not alone.",
-    "t": 271.38
+    "t": 206.34
    },
    {
     "speaker": "Tom",
     "text": "That alone helps a lot.",
-    "t": 273.53
+    "t": 207.41
    },
    {
     "speaker": "Anna",
     "text": "What if I have a serious, specific problem?",
-    "t": 276.04
+    "t": 208.89
    },
    {
     "speaker": "Anna",
     "text": "Can they handle everything?",
-    "t": 279.43
+    "t": 211.59
    },
    {
     "speaker": "Tom",
     "text": "That's an important point.",
-    "t": 281.72
+    "t": 213.21
    },
    {
     "speaker": "Tom",
-    "text": "The Eltereforum is generalist — it does not give specialised treatment.",
-    "t": 284.25
+    "text": "The Eltereforum is like a general practitioner — it does not give specialised treatment.",
+    "t": 214.56
    },
    {
     "speaker": "Tom",
     "text": "It's not a clinic or a therapy centre.",
-    "t": 288.98
+    "t": 219.48
    },
    {
     "speaker": "Tom",
     "text": "But if you need something more specific, the team listens to you and guides you.",
-    "t": 292.19
+    "t": 221.85
    },
    {
     "speaker": "Tom",
     "text": "They point you to the right specialised service.",
-    "t": 297.17
+    "t": 226.08
    },
    {
     "speaker": "Tom",
     "text": "So it's also a door — a first place to go, that sends you in the right direction.",
-    "t": 300.54
+    "t": 228.87
    },
    {
     "speaker": "Anna",
-    "text": "So even if they can't solve everything, they help me find who can.",
-    "t": 305.61
+    "text": "So even if they can't help me with a specific issue, they are connected well enough to find someone who can.",
+    "t": 233.47
    },
    {
     "speaker": "Tom",
     "text": "Exactly.",
-    "t": 310.11
+    "t": 239.5
    },
    {
     "speaker": "Tom",
     "text": "A friendly first step.",
-    "t": 312.04
+    "t": 240.43
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom — where are these forums?",
-    "t": 314.44
+    "t": 241.83
    },
    {
     "speaker": "Anna",
     "text": "Are they all in the capital?",
-    "t": 317.84
+    "t": 244.29
    },
    {
     "speaker": "Tom",
     "text": "No, and that's the nice part.",
-    "t": 320.16
+    "t": 246.01
    },
    {
     "speaker": "Tom",
     "text": "They are regional.",
-    "t": 323.05
+    "t": 247.45
    },
    {
     "speaker": "Tom",
     "text": "They're being opened all across the country, step by step.",
-    "t": 325.22
+    "t": 248.7
    },
    {
     "speaker": "Tom",
     "text": "The first one opened in Niederanven, in February 2023.",
-    "t": 329.22
+    "t": 252.14
    },
    {
     "speaker": "Tom",
     "text": "Then came Bettembourg, Marnach, Bertrange, Esch-Belval, Ettelbruck, Hesperange, Lorentzweiler, Wiltz and Differdange.",
-    "t": 334.08
+    "t": 256.04
    },
    {
     "speaker": "Anna",
     "text": "So many forums already, across the regions.",
-    "t": 341.97
+    "t": 264.82
    },
    {
     "speaker": "Anna",
     "text": "So there's probably one not too far from home.",
-    "t": 345.76
+    "t": 267.7
    },
    {
     "speaker": "Tom",
     "text": "That's the goal — that every region has one nearby.",
-    "t": 349.23
+    "t": 270.35
    },
    {
     "speaker": "Tom",
     "text": "Each regional forum works together with the local players — the municipalities, the schools, the day-care centres, the local associations.",
-    "t": 352.98
+    "t": 273.88
    },
    {
     "speaker": "Tom",
     "text": "So it's really rooted in the community.",
-    "t": 361.4
+    "t": 282.24
    },
    {
     "speaker": "Anna",
     "text": "And there's also a website, right?",
-    "t": 364.57
+    "t": 284.33
    },
    {
     "speaker": "Tom",
     "text": "Yes.",
-    "t": 367.64
+    "t": 286.56
    },
    {
     "speaker": "Tom",
     "text": "The website is eltereforum.lu.",
-    "t": 369.3
+    "t": 287.02
    },
    {
     "speaker": "Tom",
     "text": "It's an information platform in itself.",
-    "t": 372.65
+    "t": 289.07
    },
    {
     "speaker": "Tom",
     "text": "On the website you also find the agenda — the calendar of all the activities, evenings and courses at the different forums.",
-    "t": 376.02
+    "t": 291.81
    },
    {
     "speaker": "Tom",
     "text": "So you can see what's happening near you, and when.",
-    "t": 383.18
+    "t": 299.05
    },
    {
     "speaker": "Anna",
     "text": "Perfect.",
-    "t": 386.84
+    "t": 301.93
    },
    {
     "speaker": "Anna",
     "text": "So let's make it really practical.",
-    "t": 388.57
+    "t": 302.72
    },
    {
     "speaker": "Anna",
     "text": "If I'm a parent listening right now, and I want to get started — what do I do?",
-    "t": 391.45
+    "t": 304.81
    },
    {
     "speaker": "Tom",
     "text": "Very simple.",
-    "t": 396.52
+    "t": 309.46
    },
    {
     "speaker": "Tom",
     "text": "First, go to the website, eltereforum.lu.",
-    "t": 398.56
+    "t": 310.34
    },
    {
     "speaker": "Tom",
     "text": "Look at the agenda, and find the forum closest to you.",
-    "t": 402.64
+    "t": 313.64
    },
    {
     "speaker": "Tom",
     "text": "Then just look at what's on offer — a talk, a course, a parent-child activity — and come along.",
-    "t": 406.75
+    "t": 317.03
    },
    {
     "speaker": "Tom",
     "text": "You don't need a big reason.",
-    "t": 412.7
+    "t": 322.56
    },
    {
     "speaker": "Tom",
     "text": "You're a parent, and that's enough.",
-    "t": 415.28
+    "t": 324.23
    },
    {
     "speaker": "Anna",
     "text": "And it doesn't matter what age my child is?",
-    "t": 418.16
+    "t": 326.23
    },
    {
     "speaker": "Tom",
     "text": "Doesn't matter at all.",
-    "t": 421.45
+    "t": 328.69
    },
    {
     "speaker": "Tom",
     "text": "Expecting a baby, a toddler, a school child, a teenager — there's something for every stage.",
-    "t": 423.84
+    "t": 329.94
    },
    {
     "speaker": "Tom",
     "text": "And remember, it's for all parents and there's no problem too small to bring.",
-    "t": 430.04
+    "t": 335.75
    },
    {
     "speaker": "Anna",
     "text": "That's the message I'd love people to take away.",
-    "t": 434.75
+    "t": 339.88
    },
    {
     "speaker": "Anna",
     "text": "You don't have to wait for things to go wrong.",
-    "t": 438.1
+    "t": 342.72
    },
    {
     "speaker": "Anna",
     "text": "You can just go, to learn, and to meet other parents.",
-    "t": 441.29
+    "t": 344.81
    },
    {
     "speaker": "Tom",
     "text": "Exactly.",
-    "t": 445.49
+    "t": 348.06
    },
    {
     "speaker": "Tom",
     "text": "Think of it as a friendly place that's on your side.",
-    "t": 447.42
+    "t": 349.08
    },
    {
     "speaker": "Tom",
     "text": "Strong parents, strong children.",
-    "t": 451.02
+    "t": 351.64
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Eltereforum.",
-    "t": 454.04
+    "t": 353.54
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 457.19
+    "t": 356.1
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 465.92
+    "t": 365.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 383.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 390.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 393.06
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 482.89
+    "t": 397.71
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 485.26
+    "t": 398.92
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 488.24
+    "t": 401.01
    }
   ],
   "questions": [
@@ -735,647 +730,642 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
-    "t": 2.27
+    "t": 1.26
    },
    {
     "speaker": "Tom",
     "text": "Bonjour à tous !",
-    "t": 6.22
+    "t": 4
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 8.33
+    "t": 5.11
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
-    "t": 11.77
+    "t": 7.02
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 21.34
-   },
-   {
-    "speaker": "Anna",
-    "text": "Pour qu'ils puissent créer des liens, échanger des idées et se sentir chez eux.",
-    "t": 30.27
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 35.02
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et les activités sont gratuites.",
-    "t": 41.29
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 44.06
+    "t": 15.33
    },
    {
     "speaker": "Tom",
     "text": "Exactement.",
-    "t": 49.21
+    "t": 23.09
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui s'adresse à tous ceux qui ont des enfants, ou qui vont bientôt en avoir.",
-    "t": 51.05
+    "t": 24.16
    },
    {
     "speaker": "Tom",
     "text": "C'est un service qui s'appelle l'Eltereforum.",
-    "t": 56.56
+    "t": 28.62
    },
    {
     "speaker": "Anna",
     "text": "Eltereforum.",
-    "t": 59.76
+    "t": 31.22
    },
    {
     "speaker": "Anna",
     "text": "D'accord, Tom — c'est un mot luxembourgeois.",
-    "t": 61.75
+    "t": 32.29
    },
    {
     "speaker": "Anna",
     "text": "Commençons par là.",
-    "t": 65.39
+    "t": 34.52
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que ça veut dire ?",
-    "t": 67.46
+    "t": 35.68
    },
    {
     "speaker": "Tom",
     "text": "Alors... « Elteren » veut dire « parents », et « Forum » désigne un lieu pour se rencontrer et discuter.",
-    "t": 69.59
+    "t": 37.07
    },
    {
     "speaker": "Tom",
     "text": "Donc Eltereforum, c'est littéralement un « forum des parents ».",
-    "t": 77.12
+    "t": 43.43
    },
    {
     "speaker": "Anna",
     "text": "Un forum des parents.",
-    "t": 81.34
+    "t": 46.78
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est un lieu pour les parents.",
-    "t": 83.55
+    "t": 47.99
    },
    {
     "speaker": "Tom",
     "text": "Exactement.",
-    "t": 86.26
+    "t": 49.71
    },
    {
     "speaker": "Tom",
-    "text": "La description officielle est très chaleureuse.",
-    "t": 88.1
+    "text": "La description officielle est très engageante.",
+    "t": 50.77
    },
    {
     "speaker": "Tom",
     "text": "Les forums des parents sont des lieux accueillants d'échange, d'information et de soutien — pour tous les parents.",
-    "t": 91.34
+    "t": 53.14
    },
    {
     "speaker": "Anna",
     "text": "Pour tous les parents.",
-    "t": 97.27
+    "t": 58.76
    },
    {
     "speaker": "Anna",
-    "text": "Donc pas seulement pour les parents qui ont des problèmes ?",
-    "t": 99.27
+    "text": "Donc pas seulement pour les parents qui rencontrent des difficultés ?",
+    "t": 59.83
    },
    {
     "speaker": "Tom",
     "text": "Non, non — et c'est important.",
-    "t": 102.82
+    "t": 62.71
    },
    {
     "speaker": "Tom",
     "text": "C'est pour tout le monde.",
-    "t": 105.53
+    "t": 64.52
    },
    {
     "speaker": "Tom",
-    "text": "L'Eltereforum est généraliste.",
-    "t": 107.68
+    "text": "L'Eltereforum est ouvert à tous.",
+    "t": 65.78
    },
    {
     "speaker": "Tom",
     "text": "C'est un endroit normal et convivial où chaque parent peut venir, poser des questions, apprendre quelque chose, et rencontrer d'autres parents.",
-    "t": 110.36
+    "t": 68.01
    },
    {
     "speaker": "Tom",
     "text": "Vous n'avez pas besoin d'une raison particulière.",
-    "t": 118.34
+    "t": 75.63
    },
    {
     "speaker": "Tom",
-    "text": "Vous n'avez pas besoin d'avoir un problème.",
-    "t": 121.65
+    "text": "Vous n'avez pas besoin d'avoir une question particulière.",
+    "t": 77.99
    },
    {
     "speaker": "Anna",
     "text": "Tant mieux.",
-    "t": 124.62
+    "t": 80.6
    },
    {
     "speaker": "Anna",
     "text": "Parce que parfois, les gens pensent : « Je demanderai de l'aide seulement si quelque chose ne va pas. »",
-    "t": 126.24
+    "t": 81.9
    },
    {
     "speaker": "Tom",
     "text": "Voilà.",
-    "t": 132.21
+    "t": 86.12
    },
    {
     "speaker": "Tom",
     "text": "Mais élever un enfant, c'est un grand travail pour tout le monde.",
-    "t": 133.85
+    "t": 87.05
    },
    {
     "speaker": "Tom",
     "text": "Donc l'idée est de soutenir les parents dès le tout début, et tout au long du chemin.",
-    "t": 137.96
+    "t": 90.03
    },
    {
     "speaker": "Anna",
     "text": "Dès le tout début — qu'est-ce que ça veut dire exactement ?",
-    "t": 142.71
+    "t": 94.21
    },
    {
     "speaker": "Tom",
     "text": "Ça veut dire dès le moment où vous commencez votre « projet parental » — donc, même avant la naissance du bébé, quand vous le planifiez ou l'attendez — et à travers toutes les étapes de la vie de l'enfant, jusqu'à ce qu'il devienne adulte.",
-    "t": 146.22
+    "t": 97.5
    },
    {
     "speaker": "Anna",
     "text": "Waouh.",
-    "t": 158.13
+    "t": 109.3
    },
    {
     "speaker": "Anna",
     "text": "Donc de la grossesse jusqu'aux dix-huit ans de l'enfant.",
-    "t": 159.66
+    "t": 110.09
    },
    {
     "speaker": "Tom",
     "text": "Oui.",
-    "t": 163.34
+    "t": 112.83
    },
    {
     "speaker": "Tom",
     "text": "Tout le parcours.",
-    "t": 164.81
+    "t": 113.34
    },
    {
     "speaker": "Tom",
     "text": "Chaque âge a ses questions.",
-    "t": 166.82
+    "t": 114.55
    },
    {
     "speaker": "Tom",
     "text": "Un bébé qui ne dort pas.",
-    "t": 169.11
+    "t": 116.04
    },
    {
     "speaker": "Tom",
     "text": "Un petit enfant et l'usage des outils numériques.",
-    "t": 171.42
+    "t": 117.57
    },
    {
     "speaker": "Tom",
     "text": "L'école.",
-    "t": 174.79
+    "t": 120.13
    },
    {
     "speaker": "Tom",
     "text": "Les adolescents.",
-    "t": 176.56
+    "t": 121.06
    },
    {
     "speaker": "Tom",
     "text": "L'Eltereforum est là pour tout ça.",
-    "t": 178.52
+    "t": 122.22
    },
    {
     "speaker": "Anna",
     "text": "C'est rassurant.",
-    "t": 181.16
+    "t": 124.4
    },
    {
     "speaker": "Anna",
     "text": "Maintenant dites-moi — qui est derrière tout ça ?",
-    "t": 183.06
+    "t": 125.42
    },
    {
     "speaker": "Anna",
     "text": "C'est officiel ?",
-    "t": 186.15
+    "t": 128.02
    },
    {
     "speaker": "Tom",
     "text": "C'est tout à fait officiel.",
-    "t": 188.26
+    "t": 129.19
    },
    {
     "speaker": "Tom",
     "text": "L'Eltereforum est coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse.",
-    "t": 190.68
+    "t": 130.72
    },
    {
     "speaker": "Tom",
     "text": "C'est donc un service public de l'État luxembourgeois.",
-    "t": 196.81
+    "t": 136.25
    },
    {
     "speaker": "Tom",
     "text": "Et il y a un joli slogan derrière — « Parents forts, enfants forts ».",
-    "t": 200.47
+    "t": 139.08
    },
    {
     "speaker": "Tom",
     "text": "L'idée étant : quand les parents se sentent soutenus et confiants, les enfants vont mieux aussi.",
-    "t": 205.04
+    "t": 143.17
    },
    {
     "speaker": "Anna",
     "text": "Parents forts, enfants forts.",
-    "t": 210.44
+    "t": 148.14
    },
    {
     "speaker": "Anna",
     "text": "J'aime bien.",
-    "t": 213.26
+    "t": 149.86
    },
    {
     "speaker": "Anna",
     "text": "Bon, alors concrètement — que se passe-t-il vraiment dans un Eltereforum ?",
-    "t": 215.08
+    "t": 150.74
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que je peux y faire ?",
-    "t": 219.96
+    "t": 154.73
    },
    {
     "speaker": "Tom",
     "text": "Plein de choses.",
-    "t": 222.22
+    "t": 156.27
    },
    {
     "speaker": "Tom",
     "text": "Laissez-moi citer les principales.",
-    "t": 224.15
+    "t": 157.38
    },
    {
     "speaker": "Tom",
     "text": "Il y a des rencontres de parents — donc des moments pour se retrouver et échanger avec d'autres parents.",
-    "t": 226.91
+    "t": 159.29
    },
    {
     "speaker": "Tom",
-    "text": "Il y a des cours pour parents — comme des petites formations sur l'éducation des enfants.",
-    "t": 232.12
+    "text": "Il y a aussi des cours qui offrent des conseils concrets sur différents aspects de la parentalité.",
+    "t": 164.35
    },
    {
     "speaker": "Tom",
     "text": "Il y a des activités pour les parents avec leurs enfants.",
-    "t": 236.94
+    "t": 169.32
    },
    {
     "speaker": "Tom",
     "text": "Et il y a des soirées à thème, des conférences et des exposés — par exemple, une soirée sur le sommeil, ou sur les outils numériques, ou sur la lecture.",
-    "t": 240.41
+    "t": 172.15
    },
    {
     "speaker": "Anna",
-    "text": "Donc des cours, des soirées, des rencontres, et des activités parents-enfants.",
-    "t": 249.05
+    "text": "Donc des cours, des soirées, des rencontres, et des activités pour les parents et leurs enfants.",
+    "t": 180.05
    },
    {
     "speaker": "Tom",
     "text": "Exactement.",
-    "t": 254.66
+    "t": 184.55
    },
    {
     "speaker": "Tom",
     "text": "Le tout est construit pour que vous receviez des informations de qualité, et en même temps un lieu pour rencontrer d'autres parents et des professionnels.",
-    "t": 256.51
+    "t": 185.62
    },
    {
     "speaker": "Anna",
     "text": "Cette deuxième partie est formidable — rencontrer d'autres parents.",
-    "t": 264.1
+    "t": 192.59
    },
    {
     "speaker": "Anna",
     "text": "Parce qu'être parent, ça peut parfois sembler solitaire.",
-    "t": 268.21
+    "t": 195.65
    },
    {
     "speaker": "Tom",
     "text": "Vraiment.",
-    "t": 272.29
+    "t": 198.35
    },
    {
     "speaker": "Tom",
     "text": "Et là, vous réalisez — d'accord, d'autres parents ont les mêmes questions que moi.",
-    "t": 273.94
+    "t": 199.28
    },
    {
     "speaker": "Tom",
     "text": "Je ne suis pas seul.",
-    "t": 278.91
+    "t": 203.78
    },
    {
     "speaker": "Tom",
     "text": "Rien que ça, ça aide beaucoup.",
-    "t": 281.06
+    "t": 204.99
    },
    {
     "speaker": "Anna",
     "text": "Et si j'ai un problème sérieux et spécifique ?",
-    "t": 283.79
+    "t": 206.48
    },
    {
     "speaker": "Anna",
     "text": "Est-ce qu'ils peuvent tout gérer ?",
-    "t": 287.19
+    "t": 208.89
    },
    {
     "speaker": "Tom",
     "text": "C'est un point important.",
-    "t": 289.56
+    "t": 210.71
    },
    {
     "speaker": "Tom",
-    "text": "L'Eltereforum est généraliste — il ne propose pas de traitement spécialisé.",
-    "t": 291.8
+    "text": "L'Eltereforum est comme un médecin généraliste — il ne propose pas de traitement spécialisé.",
+    "t": 212.24
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas une clinique ni un centre de thérapie.",
-    "t": 296.4
+    "t": 217.21
    },
    {
     "speaker": "Tom",
     "text": "Mais si vous avez besoin de quelque chose de plus spécifique, l'équipe vous écoute et vous oriente.",
-    "t": 299.79
+    "t": 219.81
    },
    {
     "speaker": "Tom",
     "text": "Elle vous indique le bon service spécialisé.",
-    "t": 305.52
+    "t": 225.01
    },
    {
     "speaker": "Tom",
     "text": "Donc c'est aussi une porte — un premier endroit où aller, qui vous envoie dans la bonne direction.",
-    "t": 308.72
+    "t": 227.47
    },
    {
     "speaker": "Anna",
-    "text": "Donc même s'ils ne peuvent pas tout résoudre, ils m'aident à trouver qui peut.",
-    "t": 313.94
+    "text": "Donc même s'ils ne peuvent pas m'aider eux-mêmes avec une question précise, ils sont assez bien connectés pour trouver quelqu'un qui le peut.",
+    "t": 232.4
    },
    {
     "speaker": "Tom",
     "text": "Exactement.",
-    "t": 318.42
+    "t": 238.25
    },
    {
     "speaker": "Tom",
     "text": "Un premier pas convivial.",
-    "t": 320.26
+    "t": 239.32
    },
    {
     "speaker": "Anna",
     "text": "Bon, Tom — où se trouvent ces forums ?",
-    "t": 322.68
+    "t": 240.9
    },
    {
     "speaker": "Anna",
     "text": "Ils sont tous dans la capitale ?",
-    "t": 325.86
+    "t": 242.94
    },
    {
     "speaker": "Tom",
     "text": "Non, et c'est ça qui est bien.",
-    "t": 328.54
+    "t": 244.66
    },
    {
     "speaker": "Tom",
     "text": "Ils sont régionaux.",
-    "t": 331.18
+    "t": 246.15
    },
    {
     "speaker": "Tom",
     "text": "Ils ouvrent partout dans le pays, étape par étape.",
-    "t": 333.2
+    "t": 247.4
    },
    {
     "speaker": "Tom",
     "text": "Le premier a ouvert à Niederanven, en février 2023.",
-    "t": 336.89
+    "t": 250.51
    },
    {
     "speaker": "Tom",
     "text": "Puis sont venus Bettembourg, Marnach, Bertrange, Esch-Belval, Ettelbruck, Hesperange, Lorentzweiler, Wiltz et Differdange.",
-    "t": 341.22
+    "t": 254.14
    },
    {
     "speaker": "Anna",
     "text": "Donc déjà beaucoup de forums, dans toutes les régions.",
-    "t": 350.08
+    "t": 262.5
    },
    {
     "speaker": "Anna",
     "text": "Il y en a donc probablement un pas trop loin de chez soi.",
-    "t": 353.96
+    "t": 264.77
    },
    {
     "speaker": "Tom",
     "text": "C'est le but — que chaque région en ait un à proximité.",
-    "t": 357.81
+    "t": 267.56
    },
    {
     "speaker": "Tom",
     "text": "Chaque forum régional travaille avec les acteurs locaux — les communes, les écoles, les structures d'accueil, les associations locales.",
-    "t": 361.45
+    "t": 270.67
    },
    {
     "speaker": "Tom",
     "text": "Donc il est vraiment ancré dans la communauté.",
-    "t": 369.33
+    "t": 278.43
    },
    {
     "speaker": "Anna",
     "text": "Et il y a aussi un site internet, n'est-ce pas ?",
-    "t": 372.48
+    "t": 280.89
    },
    {
     "speaker": "Tom",
     "text": "Oui.",
-    "t": 375.9
+    "t": 283.21
    },
    {
     "speaker": "Tom",
     "text": "Le site est eltereforum.lu.",
-    "t": 377.36
+    "t": 283.77
    },
    {
     "speaker": "Tom",
     "text": "C'est une plateforme d'information en soi.",
-    "t": 380.18
+    "t": 286.51
    },
    {
     "speaker": "Tom",
     "text": "Sur le site, vous trouvez aussi l'agenda — le calendrier de toutes les activités, soirées et cours des différents forums.",
-    "t": 383.25
+    "t": 288.7
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez donc voir ce qui se passe près de chez vous, et quand.",
-    "t": 390.15
+    "t": 295.48
    },
    {
     "speaker": "Anna",
     "text": "Parfait.",
-    "t": 394.15
+    "t": 298.68
    },
    {
     "speaker": "Anna",
     "text": "Alors rendons ça vraiment pratique.",
-    "t": 395.75
+    "t": 299.38
    },
    {
     "speaker": "Anna",
     "text": "Si je suis un parent qui écoute en ce moment, et que je veux me lancer — qu'est-ce que je fais ?",
-    "t": 398.63
+    "t": 301.14
    },
    {
     "speaker": "Tom",
     "text": "Très simple.",
-    "t": 403.83
+    "t": 305.37
    },
    {
     "speaker": "Tom",
     "text": "D'abord, allez sur le site, eltereforum.lu.",
-    "t": 405.6
+    "t": 306.44
    },
    {
     "speaker": "Tom",
     "text": "Regardez l'agenda, et trouvez le forum le plus proche de chez vous.",
-    "t": 409.69
+    "t": 309.74
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, regardez simplement ce qui est proposé — une conférence, un cours, une activité parent-enfant — et venez.",
-    "t": 414.02
+    "t": 313.22
    },
    {
     "speaker": "Tom",
     "text": "Vous n'avez pas besoin d'une grande raison.",
-    "t": 421.21
+    "t": 320.05
    },
    {
     "speaker": "Tom",
     "text": "Vous êtes parent, et ça suffit.",
-    "t": 423.96
+    "t": 321.86
    },
    {
     "speaker": "Anna",
     "text": "Et peu importe l'âge de mon enfant ?",
-    "t": 426.69
+    "t": 323.67
    },
    {
     "speaker": "Tom",
     "text": "Aucune importance.",
-    "t": 429.51
+    "t": 325.58
    },
    {
     "speaker": "Tom",
     "text": "Que vous attendiez un bébé, que vous ayez un tout-petit, un enfant à l'école, un adolescent — il y a quelque chose pour chaque étape.",
-    "t": 431.78
+    "t": 327.02
    },
    {
     "speaker": "Tom",
     "text": "Et rappelez-vous, c'est pour tous les parents, et aucune question n'est trop petite pour être posée.",
-    "t": 439.17
+    "t": 333.71
    },
    {
     "speaker": "Anna",
     "text": "C'est le message que j'aimerais que les gens retiennent.",
-    "t": 444.72
+    "t": 338.3
    },
    {
     "speaker": "Anna",
     "text": "Vous n'avez pas à attendre que ça aille mal.",
-    "t": 448.12
+    "t": 340.44
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez simplement y aller, pour apprendre, et pour rencontrer d'autres parents.",
-    "t": 451.25
+    "t": 342.58
    },
    {
     "speaker": "Tom",
     "text": "Exactement.",
-    "t": 456.51
+    "t": 346.34
    },
    {
     "speaker": "Tom",
     "text": "Voyez-le comme un lieu convivial qui est de votre côté.",
-    "t": 458.35
+    "t": 347.46
    },
    {
     "speaker": "Tom",
     "text": "Parents forts, enfants forts.",
-    "t": 462.02
+    "t": 350.38
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'Eltereforum.",
-    "t": 464.79
+    "t": 352.24
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 468.21
+    "t": 354.7
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 477.98
+    "t": 363.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 379.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 384.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 385.96
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 495.54
+    "t": 390.23
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 497.69
+    "t": 391.35
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 500.66
+    "t": 393.72
    }
   ],
   "segments_de": [
@@ -1387,647 +1377,642 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
-    "t": 2.98
+    "t": 1.91
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.89
+    "t": 4.65
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 8.95
+    "t": 5.9
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
-    "t": 12.61
+    "t": 8.41
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 23.65
-   },
-   {
-    "speaker": "Anna",
-    "text": "Damit sie sich vernetzen, Ideen austauschen und sich zu Hause fühlen können.",
-    "t": 34.25
-   },
-   {
-    "speaker": "Anna",
-    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 39.8
-   },
-   {
-    "speaker": "Anna",
-    "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 46.71
-   },
-   {
-    "speaker": "Anna",
-    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 49.97
+    "t": 18.77
    },
    {
     "speaker": "Tom",
     "text": "Genau.",
-    "t": 55.55
+    "t": 28.15
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema ist für alle, die Kinder haben, oder bald Kinder bekommen.",
-    "t": 57.12
+    "t": 29.17
    },
    {
     "speaker": "Tom",
     "text": "Es geht um einen Dienst, der Eltereforum heißt.",
-    "t": 62.81
+    "t": 34.05
    },
    {
     "speaker": "Anna",
     "text": "Eltereforum.",
-    "t": 66.62
+    "t": 37.21
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom — das ist ein luxemburgisches Wort.",
-    "t": 68.69
+    "t": 38.83
    },
    {
     "speaker": "Anna",
     "text": "Fangen wir dort an.",
-    "t": 72.68
+    "t": 41.76
    },
    {
     "speaker": "Anna",
     "text": "Was bedeutet es?",
-    "t": 74.86
+    "t": 43.02
    },
    {
     "speaker": "Tom",
     "text": "Also... „Elteren\" bedeutet „Eltern\", und „Forum\" ist ein Ort, um sich zu treffen und zu reden.",
-    "t": 77.1
+    "t": 44.36
    },
    {
     "speaker": "Tom",
     "text": "Eltereforum ist also, wörtlich, ein „Elternforum\".",
-    "t": 84.61
+    "t": 52.72
    },
    {
     "speaker": "Anna",
     "text": "Ein Elternforum.",
-    "t": 89.22
+    "t": 56.16
    },
    {
     "speaker": "Anna",
     "text": "Also ein Ort für Eltern.",
-    "t": 91.44
+    "t": 57.65
    },
    {
     "speaker": "Tom",
     "text": "Genau.",
-    "t": 94.04
+    "t": 59.37
    },
    {
     "speaker": "Tom",
-    "text": "Die offizielle Beschreibung ist sehr warmherzig.",
-    "t": 95.61
+    "text": "Die offizielle Beschreibung ist sehr ansprechend.",
+    "t": 60.25
    },
    {
     "speaker": "Tom",
     "text": "Die Elternforen sind einladende Orte für Austausch, Information und Unterstützung — für alle Eltern.",
-    "t": 99.21
+    "t": 63.08
    },
    {
     "speaker": "Anna",
     "text": "Für alle Eltern.",
-    "t": 105.92
+    "t": 69.45
    },
    {
     "speaker": "Anna",
-    "text": "Also nicht nur für Eltern mit Problemen?",
-    "t": 108.02
+    "text": "Also nicht nur für Eltern, die Schwierigkeiten haben?",
+    "t": 70.93
    },
    {
     "speaker": "Tom",
     "text": "Nein, nein — und das ist wichtig.",
-    "t": 111.22
+    "t": 73.77
    },
    {
     "speaker": "Tom",
     "text": "Es ist für alle.",
-    "t": 114.28
+    "t": 75.81
    },
    {
     "speaker": "Tom",
-    "text": "Das Eltereforum ist generalistisch.",
-    "t": 116.24
+    "text": "Das Eltereforum ist offen für alle.",
+    "t": 77.3
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein ganz normaler, freundlicher Ort, an den alle Eltern kommen können, um Fragen zu stellen, etwas zu lernen und andere Eltern zu treffen.",
-    "t": 119.43
+    "t": 79.99
    },
    {
     "speaker": "Tom",
     "text": "Sie brauchen keinen besonderen Grund.",
-    "t": 128.81
+    "t": 89.84
    },
    {
     "speaker": "Tom",
-    "text": "Sie müssen kein Problem haben.",
-    "t": 131.8
+    "text": "Sie müssen kein bestimmtes Anliegen haben.",
+    "t": 91.83
    },
    {
     "speaker": "Anna",
     "text": "Gut.",
-    "t": 134.6
+    "t": 94.11
    },
    {
     "speaker": "Anna",
     "text": "Denn manchmal denken die Leute: „Ich bitte nur um Hilfe, wenn etwas nicht stimmt.\"",
-    "t": 136.13
+    "t": 95.04
    },
    {
     "speaker": "Tom",
     "text": "Richtig.",
-    "t": 141.86
+    "t": 99.45
    },
    {
     "speaker": "Tom",
     "text": "Aber ein Kind großzuziehen ist für alle eine große Aufgabe.",
-    "t": 143.5
+    "t": 100.61
    },
    {
     "speaker": "Tom",
     "text": "Die Idee ist also, Eltern von Anfang an zu unterstützen, und auf dem ganzen Weg.",
-    "t": 147.94
+    "t": 104.47
    },
    {
     "speaker": "Anna",
     "text": "Von Anfang an — was heißt das genau?",
-    "t": 153.76
+    "t": 109.25
    },
    {
     "speaker": "Tom",
     "text": "Das heißt: ab dem Moment, in dem Ihr „Elternprojekt\" beginnt — also schon bevor das Baby geboren ist, wenn Sie planen oder ein Kind erwarten — durch alle Lebensphasen des Kindes hindurch, bis es erwachsen ist.",
-    "t": 156.75
+    "t": 111.85
    },
    {
     "speaker": "Anna",
     "text": "Wow.",
-    "t": 169.28
+    "t": 124.21
    },
    {
     "speaker": "Anna",
     "text": "Also von der Schwangerschaft, bis das Kind achtzehn ist.",
-    "t": 170.7
+    "t": 125.32
    },
    {
     "speaker": "Tom",
     "text": "Ja.",
-    "t": 175.1
+    "t": 128.34
    },
    {
     "speaker": "Tom",
     "text": "Die ganze Reise.",
-    "t": 176.58
+    "t": 128.95
    },
    {
     "speaker": "Tom",
     "text": "Jedes Alter hat seine Fragen.",
-    "t": 178.65
+    "t": 130.25
    },
    {
     "speaker": "Tom",
     "text": "Ein Baby, das nicht schläft.",
-    "t": 181.53
+    "t": 131.97
    },
    {
     "speaker": "Tom",
     "text": "Ein kleines Kind und der Umgang mit digitalen Geräten.",
-    "t": 184.39
+    "t": 134.24
    },
    {
     "speaker": "Tom",
     "text": "Die Schule.",
-    "t": 188.48
+    "t": 137.36
    },
    {
     "speaker": "Tom",
     "text": "Teenager.",
-    "t": 190.21
+    "t": 138.28
    },
    {
     "speaker": "Tom",
     "text": "Das Eltereforum ist für all das da.",
-    "t": 191.89
+    "t": 139.77
    },
    {
     "speaker": "Anna",
     "text": "Das ist beruhigend.",
-    "t": 195.09
+    "t": 141.91
    },
    {
     "speaker": "Anna",
     "text": "Jetzt sag mir — wer steht dahinter?",
-    "t": 197.51
+    "t": 143.53
    },
    {
     "speaker": "Anna",
     "text": "Ist es offiziell?",
-    "t": 200.39
+    "t": 146.09
    },
    {
     "speaker": "Tom",
     "text": "Es ist vollkommen offiziell.",
-    "t": 202.48
+    "t": 147.48
    },
    {
     "speaker": "Tom",
     "text": "Das Eltereforum wird vom Ministerium für Bildung, Kinder und Jugend koordiniert.",
-    "t": 205.05
+    "t": 149.39
    },
    {
     "speaker": "Tom",
     "text": "Es ist also ein öffentlicher Dienst des luxemburgischen Staates.",
-    "t": 210.67
+    "t": 154.92
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt einen schönen Slogan dahinter — „Starke Eltern, starke Kinder\".",
-    "t": 214.94
+    "t": 158.86
    },
    {
     "speaker": "Tom",
     "text": "Die Idee dabei: Wenn Eltern sich unterstützt und sicher fühlen, geht es auch den Kindern besser.",
-    "t": 220.04
+    "t": 163.79
    },
    {
     "speaker": "Anna",
     "text": "Starke Eltern, starke Kinder.",
-    "t": 226.19
+    "t": 169.64
    },
    {
     "speaker": "Anna",
     "text": "Das gefällt mir.",
-    "t": 229.55
+    "t": 171.87
    },
    {
     "speaker": "Anna",
     "text": "Okay, ganz praktisch — was passiert eigentlich in einem Eltereforum?",
-    "t": 231.65
+    "t": 173.45
    },
    {
     "speaker": "Anna",
     "text": "Was kann ich dort machen?",
-    "t": 236.92
+    "t": 178.42
    },
    {
     "speaker": "Tom",
     "text": "Vieles.",
-    "t": 239.38
+    "t": 180
    },
    {
     "speaker": "Tom",
     "text": "Lass mich die wichtigsten Dinge aufzählen.",
-    "t": 241.15
+    "t": 181.34
    },
    {
     "speaker": "Tom",
     "text": "Es gibt Elterntreffen — also Momente, um zusammenzukommen und sich mit anderen Eltern auszutauschen.",
-    "t": 244.31
+    "t": 183.81
    },
    {
     "speaker": "Tom",
-    "text": "Es gibt Elternkurse — wie kleine Kurse über Kindererziehung.",
-    "t": 250.95
+    "text": "Es gibt auch Kurse mit konkreten Hilfestellungen zu verschiedenen Aspekten der Elternschaft.",
+    "t": 191.1
    },
    {
     "speaker": "Tom",
     "text": "Es gibt Aktivitäten für Eltern zusammen mit ihren Kindern.",
-    "t": 255.36
+    "t": 196.63
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt Themenabende, Gespräche und Vorträge — zum Beispiel ein Abend über Schlaf, oder über digitale Geräte, oder über das Lesen.",
-    "t": 259.43
+    "t": 200.25
    },
    {
     "speaker": "Anna",
-    "text": "Also Kurse, Abende, Treffen, und Eltern-Kind-Aktivitäten.",
-    "t": 268.65
+    "text": "Also Kurse, Abende, Treffen, und Aktivitäten für Eltern und ihre Kinder.",
+    "t": 208.93
    },
    {
     "speaker": "Tom",
     "text": "Genau.",
-    "t": 274.2
+    "t": 214.18
    },
    {
     "speaker": "Tom",
     "text": "Das Ganze ist so aufgebaut, dass Sie hochwertige Informationen bekommen, und gleichzeitig einen Ort, um andere Eltern und Fachleute zu treffen.",
-    "t": 275.77
+    "t": 215.07
    },
    {
     "speaker": "Anna",
     "text": "Dieser zweite Teil ist großartig — andere Eltern treffen.",
-    "t": 285.04
+    "t": 223.29
    },
    {
     "speaker": "Anna",
     "text": "Denn Elternsein kann sich manchmal einsam anfühlen.",
-    "t": 289.54
+    "t": 227.65
    },
    {
     "speaker": "Tom",
     "text": "Das kann es wirklich.",
-    "t": 293.61
+    "t": 230.62
    },
    {
     "speaker": "Tom",
     "text": "Und hier merken Sie — okay, andere Eltern haben die gleichen Fragen wie ich.",
-    "t": 295.82
+    "t": 231.93
    },
    {
     "speaker": "Tom",
     "text": "Ich bin nicht allein.",
-    "t": 300.98
+    "t": 236.66
    },
    {
     "speaker": "Tom",
     "text": "Das allein hilft schon sehr.",
-    "t": 303.13
+    "t": 238.34
    },
    {
     "speaker": "Anna",
     "text": "Was ist, wenn ich ein ernstes, spezielles Problem habe?",
-    "t": 305.72
+    "t": 240.15
    },
    {
     "speaker": "Anna",
     "text": "Können sie alles behandeln?",
-    "t": 310.48
+    "t": 243.49
    },
    {
     "speaker": "Tom",
     "text": "Das ist ein wichtiger Punkt.",
-    "t": 313.03
+    "t": 245.26
    },
    {
     "speaker": "Tom",
-    "text": "Das Eltereforum ist generalistisch — es bietet keine spezialisierte Behandlung an.",
-    "t": 315.49
+    "text": "Das Eltereforum ist wie ein Hausarzt — es bietet keine spezialisierte Behandlung an.",
+    "t": 247.07
    },
    {
     "speaker": "Tom",
     "text": "Es ist keine Klinik und kein Therapiezentrum.",
-    "t": 321.18
+    "t": 252.69
    },
    {
     "speaker": "Tom",
     "text": "Aber wenn Sie etwas Spezielleres brauchen, hört das Team Ihnen zu und begleitet Sie.",
-    "t": 324.77
+    "t": 255.94
    },
    {
     "speaker": "Tom",
     "text": "Sie zeigen Ihnen den richtigen spezialisierten Dienst.",
-    "t": 330.41
+    "t": 261.19
    },
    {
     "speaker": "Tom",
     "text": "Es ist also auch eine Tür — eine erste Anlaufstelle, die Sie in die richtige Richtung schickt.",
-    "t": 334.3
+    "t": 264.25
    },
    {
     "speaker": "Anna",
-    "text": "Auch wenn sie nicht alles lösen können, helfen sie mir also, jemanden zu finden, der es kann.",
-    "t": 340.21
+    "text": "Auch wenn sie mir bei einem bestimmten Anliegen nicht selbst helfen können, sind sie also gut genug vernetzt, um jemanden zu finden, der es kann.",
+    "t": 269.13
    },
    {
     "speaker": "Tom",
     "text": "Genau.",
-    "t": 346.62
+    "t": 276.56
    },
    {
     "speaker": "Tom",
     "text": "Ein freundlicher erster Schritt.",
-    "t": 348.4
+    "t": 277.54
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom — wo sind diese Foren?",
-    "t": 351.02
+    "t": 279.3
    },
    {
     "speaker": "Anna",
     "text": "Sind sie alle in der Hauptstadt?",
-    "t": 354.37
+    "t": 282.14
    },
    {
     "speaker": "Tom",
     "text": "Nein, und das ist das Schöne daran.",
-    "t": 357.28
+    "t": 283.9
    },
    {
     "speaker": "Tom",
     "text": "Sie sind regional.",
-    "t": 360.38
+    "t": 285.9
    },
    {
     "speaker": "Tom",
     "text": "Sie werden nach und nach im ganzen Land eröffnet.",
-    "t": 362.56
+    "t": 287.34
    },
    {
     "speaker": "Tom",
     "text": "Das erste öffnete in Niederanven, im Februar 2023.",
-    "t": 366.13
+    "t": 290.73
    },
    {
     "speaker": "Tom",
     "text": "Dann kamen Bettemburg, Marnach, Bartringen, Esch-Belval, Ettelbrück, Hesperingen, Lorentzweiler, Wiltz und Differdingen.",
-    "t": 371.57
+    "t": 295.93
    },
    {
     "speaker": "Anna",
     "text": "So viele Foren schon, über die Regionen verteilt.",
-    "t": 380.12
+    "t": 304.48
    },
    {
     "speaker": "Anna",
     "text": "Es gibt also wahrscheinlich eines nicht weit von zu Hause.",
-    "t": 384.56
+    "t": 307.92
    },
    {
     "speaker": "Tom",
     "text": "Das ist das Ziel — dass jede Region eines in der Nähe hat.",
-    "t": 388.56
+    "t": 311.21
    },
    {
     "speaker": "Tom",
     "text": "Jedes regionale Forum arbeitet mit den lokalen Akteuren zusammen — den Gemeinden, den Schulen, den Kindertagesstätten, den lokalen Vereinen.",
-    "t": 392.58
+    "t": 314.98
    },
    {
     "speaker": "Tom",
     "text": "Es ist also wirklich in der Gemeinschaft verwurzelt.",
-    "t": 401.78
+    "t": 324.4
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt auch eine Website, richtig?",
-    "t": 405.48
+    "t": 327.28
    },
    {
     "speaker": "Tom",
     "text": "Ja.",
-    "t": 408.95
+    "t": 329.84
    },
    {
     "speaker": "Tom",
     "text": "Die Website ist eltereforum.lu.",
-    "t": 410.43
+    "t": 330.44
    },
    {
     "speaker": "Tom",
     "text": "Sie ist selbst eine Informationsplattform.",
-    "t": 413.52
+    "t": 333.28
    },
    {
     "speaker": "Tom",
     "text": "Auf der Website finden Sie auch die Agenda — den Kalender mit allen Aktivitäten, Abenden und Kursen in den verschiedenen Foren.",
-    "t": 417.09
+    "t": 336.34
    },
    {
     "speaker": "Tom",
     "text": "Sie können also sehen, was in Ihrer Nähe passiert, und wann.",
-    "t": 425.11
+    "t": 344.42
    },
    {
     "speaker": "Anna",
     "text": "Perfekt.",
-    "t": 429.77
+    "t": 348
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es also ganz praktisch.",
-    "t": 431.55
+    "t": 349.12
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich als Elternteil gerade zuhöre und anfangen möchte — was mache ich?",
-    "t": 434.52
+    "t": 351.3
    },
    {
     "speaker": "Tom",
     "text": "Ganz einfach.",
-    "t": 439.69
+    "t": 356.22
    },
    {
     "speaker": "Tom",
     "text": "Gehen Sie zuerst auf die Website, eltereforum.lu.",
-    "t": 441.65
+    "t": 357.62
    },
    {
     "speaker": "Tom",
     "text": "Schauen Sie in die Agenda, und finden Sie das Forum, das Ihnen am nächsten liegt.",
-    "t": 445.8
+    "t": 361.94
    },
    {
     "speaker": "Tom",
     "text": "Dann schauen Sie einfach, was angeboten wird — ein Vortrag, ein Kurs, eine Eltern-Kind-Aktivität — und kommen Sie vorbei.",
-    "t": 451.17
+    "t": 366.44
    },
    {
     "speaker": "Tom",
     "text": "Sie brauchen keinen großen Grund.",
-    "t": 459.39
+    "t": 374.52
    },
    {
     "speaker": "Tom",
     "text": "Sie sind Eltern, und das genügt.",
-    "t": 462.23
+    "t": 376.29
    },
    {
     "speaker": "Anna",
     "text": "Und es spielt keine Rolle, wie alt mein Kind ist?",
-    "t": 465.29
+    "t": 378.19
    },
    {
     "speaker": "Tom",
     "text": "Überhaupt keine Rolle.",
-    "t": 469.45
+    "t": 381.03
    },
    {
     "speaker": "Tom",
     "text": "Ob Sie ein Baby erwarten, ein Kleinkind, ein Schulkind, ein Teenager — für jede Phase gibt es etwas.",
-    "t": 471.84
+    "t": 382.65
    },
    {
     "speaker": "Tom",
     "text": "Und denken Sie daran: Es ist für alle Eltern, und kein Anliegen ist zu klein.",
-    "t": 479.28
+    "t": 390.41
    },
    {
     "speaker": "Anna",
     "text": "Das ist die Botschaft, die ich den Menschen gerne mitgeben möchte.",
-    "t": 484.72
+    "t": 395.15
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nicht warten, bis etwas schiefgeht.",
-    "t": 489.3
+    "t": 399.09
    },
    {
     "speaker": "Anna",
     "text": "Sie können einfach hingehen, um zu lernen, und um andere Eltern zu treffen.",
-    "t": 493.03
+    "t": 401.84
    },
    {
     "speaker": "Tom",
     "text": "Genau.",
-    "t": 498.78
+    "t": 405.97
    },
    {
     "speaker": "Tom",
     "text": "Sehen Sie es als einen freundlichen Ort, der auf Ihrer Seite ist.",
-    "t": 500.35
+    "t": 407.18
    },
    {
     "speaker": "Tom",
     "text": "Starke Eltern, starke Kinder.",
-    "t": 505.06
+    "t": 410.85
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Eltereforum.",
-    "t": 508.19
+    "t": 412.94
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 511.9
+    "t": 415.86
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 522.61
+    "t": 425.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 443.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 449.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 452.32
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 540.91
+    "t": 457.2
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 542.95
+    "t": 458.64
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 546.66
+    "t": 461.8
    }
   ],
   "segments_lb": [
@@ -2039,216 +2024,216 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Moien alleguer!",
-    "t": 5.58
+    "t": 3.72
    },
    {
     "speaker": "Anna",
-    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren. Sou datt si sech kënne verbannen, Iddien austauschen a sech doheem fillen. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 7.62
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 4.88
    },
    {
     "speaker": "Tom",
     "text": "Genee. An dat haitegt Thema ass fir jiddereen, dee Kanner huet, oder dee geschwënn Kanner kritt. Et ass e Service, deen Eltereforum heescht.",
-    "t": 49.44
+    "t": 27.13
    },
    {
     "speaker": "Anna",
     "text": "Eltereforum. Okay, Tom — dat ass e lëtzebuergescht Wuert. Loosse mer do ufänken. Wat heescht et?",
-    "t": 59.65
+    "t": 35.12
    },
    {
     "speaker": "Tom",
     "text": "Also... \"Elteren\", dat si Mamm a Papp, an e \"Forum\" ass eng Plaz, fir sech ze treffen an ze schwätzen. Also ass den Eltereforum, wuertwiertlech, e \"Forum fir Elteren\".",
-    "t": 69.21
+    "t": 41.25
    },
    {
     "speaker": "Anna",
     "text": "E Forum fir Elteren. Also eng Plaz fir Elteren.",
-    "t": 79.09
+    "t": 50.4
    },
    {
     "speaker": "Tom",
-    "text": "Genee. Déi offiziell Beschreiwung ass ganz waarm. D'Eltereforen si wëllkommend Plaze fir Austausch, Informatioun an Ënnerstëtzung — fir all Elteren.",
-    "t": 83.86
+    "text": "Genee. Déi offiziell Beschreiwung ass ganz einluedend. D'Eltereforen si wëllkommend Plaze fir Austausch, Informatioun an Ënnerstëtzung — fir all Elteren.",
+    "t": 53.42
    },
    {
     "speaker": "Anna",
-    "text": "Fir all Elteren. Also net nëmme fir Elteren mat Problemer?",
-    "t": 95.03
+    "text": "Fir all Elteren. Also net nëmme fir Elteren, déi Schwieregkeeten hunn?",
+    "t": 62.06
    },
    {
     "speaker": "Tom",
-    "text": "Nee, nee — an dat ass wichteg. Et ass fir jiddereen. Den Eltereforum ass generalistesch. Et ass eng normal, frëndlech Plaz, wou all Elterendeel ka kommen, Froe stellen, eppes léieren, an aner Elteren treffen. Dir braucht kee speziellen Grond. Dir braucht kee Problem ze hunn.",
-    "t": 100.24
+    "text": "Nee, nee — an dat ass wichteg. Et ass fir jiddereen. Den Eltereforum ass op fir all. Et ass eng normal, frëndlech Plaz, wou all Elterendeel ka kommen, Froe stellen, eppes léieren, an aner Elteren treffen. Dir braucht kee speziellen Grond. Dir braucht kee bestëmmten Uleies ze hunn.",
+    "t": 65.82
    },
    {
     "speaker": "Anna",
     "text": "Gutt. Well heiansdo denken d'Leit: \"Ech froen nëmmen no Hëllef, wann eppes schifleeft.\"",
-    "t": 120.6
+    "t": 81.48
    },
    {
     "speaker": "Tom",
     "text": "Richteg. Mä e Kand grousszezéien ass eng grouss Aufgab fir jiddereen. Also ass d'Iddi, d'Elteren vun Ufank un z'ënnerstëtzen, an de ganze Wee laanscht.",
-    "t": 127.15
+    "t": 86.36
    },
    {
     "speaker": "Anna",
     "text": "Vun Ufank un — wat heescht dat genee?",
-    "t": 137.94
+    "t": 93.88
    },
    {
     "speaker": "Tom",
     "text": "Dat heescht vum Moment un, wou Dir Äre \"Projet als Elteren\" ufänkt — also souguer ier d'Bebee op d'Welt kënnt, wann Dir plangt oder waart — bis duerch all Etapp vum Liewe vum Kand, bis et erwuesse gëtt.",
-    "t": 141.71
+    "t": 96.85
    },
    {
     "speaker": "Anna",
     "text": "Wow. Also vun der Schwangerschaft, bis d'Kand uechtzéng ass.",
-    "t": 152.64
+    "t": 110.14
    },
    {
     "speaker": "Tom",
     "text": "Jo. De ganze Wee. All Alter huet seng Froen. E Bebee, deen net schléift. E klengt Kand an d'digital Geräter. D'Schoul. D'Teenageren. Den Eltereforum ass fir alles do.",
-    "t": 157.7
+    "t": 113.53
    },
    {
     "speaker": "Anna",
     "text": "Dat berouegt. Elo sot mer — wie steet dohannert? Ass et offiziell?",
-    "t": 176.82
+    "t": 125.1
    },
    {
     "speaker": "Tom",
     "text": "Et ass ganz offiziell. Den Eltereforum gëtt vum Ministère fir Educatioun, Kanner a Jugend koordinéiert. Also ass et en ëffentleche Service vum Lëtzebuerger Staat. An et gëtt e schéine Sproch dohannert — \"Staark Elteren, staark Kanner\". D'Iddi ass: wann d'Elteren sech ënnerstëtzt a sécher fillen, geet et de Kanner och besser.",
-    "t": 183.92
+    "t": 129.46
    },
    {
     "speaker": "Anna",
     "text": "Staark Elteren, staark Kanner. Dat gefält mer. Okay, also praktesch — wat geschitt eigentlech an engem Eltereforum? Wat kann ech do maachen?",
-    "t": 205.31
+    "t": 148.97
    },
    {
     "speaker": "Tom",
-    "text": "Vill Saachen. Loosst mech déi wichtegst opzielen. Et ginn Elterentreffen — also Momenter, fir zesummenzekommen a sech mat aneren Elteren auszetauschen. Et ginn Elterecoursen — wéi kleng Course iwwer d'Erzéiung. Et ginn Aktivitéite fir Elteren zesumme mat hire Kanner. An et ginn Themenowender, Virträg a Konferenzen — zum Beispill en Owend iwwer de Schlof, oder iwwer digital Geräter, oder iwwer d'Liesen.",
-    "t": 217.07
+    "text": "Vill Saachen. Loosst mech déi wichtegst opzielen. Et ginn Elterentreffen — also Momenter, fir zesummenzekommen a sech mat aneren Elteren auszetauschen. Et ginn och Coursen, déi konkret Orientéierung zu verschiddenen Aspekter vun der Erzéiung ubidden. Et ginn Aktivitéite fir Elteren zesumme mat hire Kanner. An et ginn Themenowender, Virträg a Konferenzen — zum Beispill en Owend iwwer de Schlof, oder iwwer digital Geräter, oder iwwer d'Liesen.",
+    "t": 157.06
    },
    {
     "speaker": "Anna",
-    "text": "Also Coursen, Owender, Treffen, an Eltere-Kand-Aktivitéiten.",
-    "t": 242.87
+    "text": "Also Coursen, Owender, Treffen, an Aktivitéite fir Elteren an hir Kanner.",
+    "t": 182.23
    },
    {
     "speaker": "Tom",
     "text": "Genee. Dat Ganzt ass sou opgebaut, datt Dir gutt Informatioune kritt, a gläichzäiteg eng Plaz hutt, fir aner Elteren a Professioneller ze treffen.",
-    "t": 247.78
+    "t": 186.97
    },
    {
     "speaker": "Anna",
     "text": "Deen zweeten Deel ass super — aner Elteren treffen. Well als Elterendeel kann ee sech heiansdo eleng fillen.",
-    "t": 256.88
+    "t": 194.96
    },
    {
     "speaker": "Tom",
     "text": "Dat kann ee wierklech. An hei mierkt Dir — okay, aner Elteren hunn déiselwecht Froe wéi ech. Ech sinn net eleng. Dat eleng hëlleft schonn immens.",
-    "t": 264.34
+    "t": 200.81
    },
    {
     "speaker": "Anna",
     "text": "Wat ass, wann ech en eeschten, spezifesche Problem hunn? Kënne si alles behandelen?",
-    "t": 276.04
+    "t": 208.89
    },
    {
     "speaker": "Tom",
-    "text": "Dat ass e wichtege Punkt. Den Eltereforum ass generalistesch — e gëtt keng spezialiséiert Behandlung. Et ass keng Klinik a keen Therapiezentrum. Mä wann Dir eppes méi Spezifesches braucht, lauschtert d'Equipe Iech no a begleet Iech. Si weisen Iech de Wee zum richtege spezialiséierte Service. Also ass et och eng Dier — eng éischt Plaz, wou Dir higoe kënnt, an déi Iech an déi richteg Richtung schéckt.",
-    "t": 281.72
+    "text": "Dat ass e wichtege Punkt. Den Eltereforum ass wéi en Hausdokter — e gëtt keng spezialiséiert Behandlung. Et ass keng Klinik a keen Therapiezentrum. Mä wann Dir eppes méi Spezifesches braucht, lauschtert d'Equipe Iech no a begleet Iech. Si weisen Iech de Wee zum richtege spezialiséierte Service. Also ass et och eng Dier — eng éischt Plaz, wou Dir higoe kënnt, an déi Iech an déi richteg Richtung schéckt.",
+    "t": 213.21
    },
    {
     "speaker": "Anna",
-    "text": "Also och wann si net alles léise kënnen, hëllefe si mer ze fannen, wien et kann.",
-    "t": 305.61
+    "text": "Also och wa si mer bei engem bestëmmten Uleies net selwer hëllefe kënnen, si si gutt genuch vernetzt, fir een ze fannen, deen et kann.",
+    "t": 233.47
    },
    {
     "speaker": "Tom",
     "text": "Genee. E frëndlechen éischte Schrëtt.",
-    "t": 310.11
+    "t": 239.5
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom — wou sinn dës Foren? Sinn se all an der Haaptstad?",
-    "t": 314.44
+    "t": 241.83
    },
    {
     "speaker": "Tom",
     "text": "Nee, an dat ass dat Schéint. Si si regional. Si ginn no an no am ganze Land opgemaach. Deen éischten huet zu Nidderaanwen opgemaach, am Februar 2023. Duerno koumen Beetebuerg, Maarnech, Bartreng, Esch-Belval, Ettelbréck, Hesper, Luerenzweiler, Wolz an Déifferdeng.",
-    "t": 320.16
+    "t": 246.01
    },
    {
     "speaker": "Anna",
     "text": "Also schonn esou vill Foren, iwwer d'Regiounen. Da gëtt et wuel een net wäit vun doheem.",
-    "t": 341.97
+    "t": 264.82
    },
    {
     "speaker": "Tom",
     "text": "Dat ass d'Zil — datt all Regioun ee nobäi huet. All regionale Forum schafft mat de lokalen Acteuren zesummen — de Gemengen, de Schoulen, de Crèchen a Maison-relaisen, de lokalen Associatiounen. Also ass e wierklech an der Communautéit verwuerzelt.",
-    "t": 349.23
+    "t": 270.35
    },
    {
     "speaker": "Anna",
     "text": "An et gëtt och eng Websäit, oder?",
-    "t": 364.57
+    "t": 284.33
    },
    {
     "speaker": "Tom",
     "text": "Jo. D'Websäit ass eltereforum.lu. Si ass selwer eng Informatiounsplattform. Op der Websäit fannt Dir och den Agenda — de Kalenner vun allen Aktivitéiten, Owender a Coursen an deene verschiddene Foren. Sou kënnt Dir gesinn, wat bei Iech an der Géigend leeft, a wéini.",
-    "t": 367.64
+    "t": 286.56
    },
    {
     "speaker": "Anna",
     "text": "Perfekt. Also loosse mer et richteg praktesch maachen. Wann ech elo als Elterendeel nolauschteren, an ech wëll ufänken — wat maachen ech?",
-    "t": 386.84
+    "t": 301.93
    },
    {
     "speaker": "Tom",
     "text": "Ganz einfach. Fir d'éischt, gitt op d'Websäit, eltereforum.lu. Kuckt an den Agenda, a fannt de Forum, deen am noosten bei Iech ass. Da kuckt einfach, wat ugebuede gëtt — e Virtrag, e Cours, eng Eltere-Kand-Aktivitéit — a kommt laanscht. Dir braucht kee grousse Grond. Dir sidd Elterendeel, an dat geet duer.",
-    "t": 396.52
+    "t": 309.46
    },
    {
     "speaker": "Anna",
     "text": "An et ass egal, wéi al mäi Kand ass?",
-    "t": 418.16
+    "t": 326.23
    },
    {
     "speaker": "Tom",
     "text": "Dat ass ganz egal. E Bebee ënnerwee, e Bebee, e Schoulkand, en Teenager — et gëtt eppes fir all Etapp. An denkt drun: et ass fir all Elteren, an et gëtt kee Problem, deen ze kleng ass, fir e matzebréngen.",
-    "t": 421.45
+    "t": 328.69
    },
    {
     "speaker": "Anna",
     "text": "Dat ass de Message, deen ech de Leit gär matginn. Dir musst net waarden, bis eppes schifleeft. Dir kënnt einfach higoen, fir ze léieren, a fir aner Elteren ze treffen.",
-    "t": 434.75
+    "t": 339.88
    },
    {
     "speaker": "Tom",
     "text": "Genee. Denkt drun als eng frëndlech Plaz, déi op Ärer Säit ass. Staark Elteren, staark Kanner.",
-    "t": 445.49
+    "t": 348.06
    },
    {
     "speaker": "Anna",
-    "text": "Dat war eis Episod iwwer den Eltereforum. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt.",
-    "t": 454.04
+    "text": "Dat war eis Episod iwwer den Eltereforum. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 353.54
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 482.89
+    "t": 397.71
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 488.24
+    "t": 401.01
    }
   ],
   "audio_fr": "../../podcast_eltereforum_fr.mp3",
-  "duration_fr": 503.66,
+  "duration_fr": 395.64,
   "title_fr": "Eltereforum – Parents forts, enfants forts",
   "description_fr": "Un réseau chaleureux et accueillant de forums des parents à travers le Luxembourg, coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse. Ce que propose l'Eltereforum — rencontres de parents, cours pour parents, activités parents-enfants et soirées à thème, autour de l'idée « parents forts, enfants forts » — à qui il s'adresse (tous les parents, d'avant la naissance jusqu'à l'âge adulte de l'enfant), comment les forums régionaux travaillent avec les partenaires locaux, et comment l'équipe vous oriente vers des services spécialisés si nécessaire.",
   "topics_fr": [
@@ -2319,7 +2304,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "../../podcast_eltereforum_de.mp3",
-  "duration_de": 549.48,
+  "duration_de": 463.39,
   "title_de": "Eltereforum – Starke Eltern, starke Kinder",
   "description_de": "Ein warmherziges, einladendes Netzwerk von Elternforen in ganz Luxemburg, koordiniert vom Ministerium für Bildung, Kinder und Jugend. Was das Eltereforum bietet — Elterntreffen, Elternkurse, Eltern-Kind-Aktivitäten und Themenabende, rund um die Idee „Starke Eltern, starke Kinder“ — für wen es ist (alle Eltern, von vor der Geburt bis das Kind erwachsen ist), wie die regionalen Foren mit lokalen Partnern zusammenarbeiten, und wie das Team Sie bei Bedarf zu spezialisierten Diensten begleitet.",
   "topics_de": [

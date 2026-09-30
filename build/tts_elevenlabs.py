@@ -10,6 +10,8 @@ Usage
       lang = en | fr | de | lb
       --first N   only the first N sentences (cheap listening test)
       --yes       required when the run would spend more than 3,000 credits
+      --estimate  only print how many sentences/credits a run would need, then stop
+  Env: EL_CONCURRENCY=N  generate N sentences in parallel (default 1; Pro plan allows more)
 
 Examples
   python3 build/tts_elevenlabs.py myguichet en --first 25           # ~2-min test
@@ -115,6 +117,9 @@ def request(method, path, api_key, body=None, query=""):
                 return r.read()
         except urllib.error.HTTPError as e:
             detail = e.read().decode("utf-8", "replace")[:400]
+            if "quota_exceeded" in detail:
+                die("ElevenLabs credit limit reached for this API key (raise the key's credit limit in "
+                    "ElevenLabs > Developers > API keys, or wait for the monthly reset).\n" + detail)
             if e.code == 401:
                 die("API key rejected (401). Check ELEVENLABS_API_KEY in .env and the key's permissions.\n" + detail)
             if e.code in (429, 500, 502, 503, 504) and attempt < 5:
@@ -159,6 +164,7 @@ def main():
     key, lang = args[0], args[1]
     first = int(args[args.index("--first") + 1]) if "--first" in args else None
     confirmed = "--yes" in args
+    estimate = "--estimate" in args
 
     load_env()
     api_key = os.environ.get("ELEVENLABS_API_KEY", "").strip()
@@ -204,20 +210,43 @@ def main():
     todo = [s for s in segs if not (os.path.exists(s["cache"]) and os.path.getsize(s["cache"]) > 500)]
     cost = sum(len(s["body"]["text"]) for s in todo)
     print(f"sentences: {len(segs)}   to generate: {len(todo)}   ≈ {cost:,} credits")
+    try:  # best effort: needs the key's "user read" permission
+        req = urllib.request.Request(f"{API}/user/subscription", headers={"xi-api-key": api_key})
+        sub = json.loads(urllib.request.urlopen(req, timeout=30).read())
+        left = sub.get("character_limit", 0) - sub.get("character_count", 0)
+        print(f"credits left this period: {left:,}")
+    except Exception:
+        pass
+    if estimate:
+        sys.exit(0)
     if cost > CONFIRM_ABOVE and not confirmed:
         print(f"This run would use more than {CONFIRM_ABOVE:,} credits. Re-run with --yes to proceed.")
         sys.exit(0)
 
-    for n, s in enumerate(todo, 1):
+    def gen(s):
         audio = request("POST", f"/text-to-speech/{vids[s['speaker']]}", api_key, s["body"],
                         query="?output_format=mp3_44100_128")
         if len(audio) < 500:
-            die(f"empty audio for: {s['text'][:60]}")
+            raise RuntimeError(f"empty audio for: {s['text'][:60]}")
         tmp = s["cache"] + ".part"
         open(tmp, "wb").write(audio)
         os.replace(tmp, s["cache"])
-        if n % 10 == 0 or n == len(todo):
-            print(f"  generated {n}/{len(todo)}")
+
+    jobs = max(1, int(os.environ.get("EL_CONCURRENCY", "1")))
+    from concurrent.futures import ThreadPoolExecutor, as_completed
+    with ThreadPoolExecutor(max_workers=jobs) as pool:
+        futs = [pool.submit(gen, s) for s in todo]
+        for n, f in enumerate(as_completed(futs), 1):
+            try:
+                f.result()
+            except SystemExit:
+                pool.shutdown(wait=False, cancel_futures=True)
+                raise
+            except Exception as e:
+                pool.shutdown(wait=False, cancel_futures=True)
+                die(str(e))
+            if n % 10 == 0 or n == len(todo):
+                print(f"  generated {n}/{len(todo)}", flush=True)
 
     # assemble the rebuild.py work folder
     suffix = "" if lang == "en" else f"_{lang}"

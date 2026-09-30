@@ -3231,6 +3231,7 @@ const EPISODES = [
     "correct": 3,
     "explanation": "Déi ëffentlech Autoritéite froen ni no perséinlechen Donnéeën, an d'Messagen enthalen normalerweis kee klickbare Link. Wann Dir net sécher sidd, iwwerpréift den Alarm op lu-alert.lu – an deelt ni perséinlech Donnéeën."
    }
-  ]
+  ],
+  "status": "in_progress"
  }
 ];

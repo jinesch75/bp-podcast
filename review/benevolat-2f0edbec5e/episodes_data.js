@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "Volunteering in Luxembourg – Give the Time You Want",
   "description": "A flexible, rewarding way to meet people and give something back to your community. What volunteering really means and why it matters in Luxembourg, where around 35% of people take part. How the Agence du Bénévolat and the benevolat.lu platform connect you with organisations — with a smart matching system and missions in every region — how you can start with short, one-time missions and no long-term commitment, and three simple steps to begin.",
   "audio": "../../podcast_benevolat.mp3",
-  "duration": 563.66,
+  "duration": 460.8,
   "topics": [
    "Definition of a volunteer",
    "Why volunteering matters",
@@ -26,787 +26,777 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "It's really nice to have you with us today.",
-    "t": 2.54
+    "t": 1.49
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.58
+    "t": 3.72
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt.",
-    "t": 7.62
+    "t": 4.88
    },
    {
     "speaker": "Anna",
     "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
-    "t": 10.84
+    "t": 7.39
    },
    {
     "speaker": "Anna",
     "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
-    "t": 20.63
+    "t": 17.24
    },
    {
     "speaker": "Anna",
-    "text": "So that they can connect, exchange ideas and feel at home.",
-    "t": 29.98
-   },
-   {
-    "speaker": "Anna",
-    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 34.25
-   },
-   {
-    "speaker": "Anna",
-    "text": "And the activities are free of charge.",
-    "t": 40.8
-   },
-   {
-    "speaker": "Anna",
-    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 43.86
-   },
-   {
-    "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 49.44
-   },
-   {
-    "speaker": "Tom",
     "text": "And today we talk about a beautiful way to meet people, and to give something back.",
-    "t": 51.36
+    "t": 27.69
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "We're talking about volunteering.",
-    "t": 56.45
+    "t": 32.79
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Volunteering.",
-    "t": 59.18
+    "t": 34.84
    },
    {
-    "speaker": "Anna",
-    "text": "Okay, Tom... let's start simply.",
-    "t": 61.13
+    "speaker": "Tom",
+    "text": "Okay, Anna... let's start simply.",
+    "t": 35.95
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "What is it, really?",
-    "t": 64.46
+    "t": 38.23
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "So... volunteering is giving the time you want — a little, a lot, or passionately — to support a cause and help others.",
-    "t": 66.77
+    "t": 39.44
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The official definition is: a volunteer is someone who, of their own free will, and without being paid, does something in the service of others, or of the community.",
-    "t": 73.88
+    "t": 48.03
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Of their own free will, and without being paid.",
-    "t": 83.05
+    "t": 58.67
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So it's a gift.",
-    "t": 86.67
+    "t": 61.08
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "A gift of time.",
-    "t": 88.73
+    "t": 62.24
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Exactly.",
-    "t": 90.79
+    "t": 63.64
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And here's the key part — \"the time you want\".",
-    "t": 92.72
+    "t": 64.75
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You don't give your whole life.",
-    "t": 95.92
+    "t": 67.73
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You give what you can.",
-    "t": 98.52
+    "t": 69.58
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And it's also about having fun, meeting people who share your values, and doing something you enjoy.",
-    "t": 100.82
+    "t": 71.35
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "I like that.",
-    "t": 106.75
+    "t": 77.53
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "It's not only duty.",
-    "t": 108.75
+    "t": 78.5
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "It's also pleasure.",
-    "t": 110.97
-   },
-   {
-    "speaker": "Anna",
-    "text": "So tell me, Tom — why is volunteering so important?",
-    "t": 113.16
+    "t": 79.9
    },
    {
     "speaker": "Tom",
+    "text": "So tell me, Anna — why is volunteering so important?",
+    "t": 81.71
+   },
+   {
+    "speaker": "Anna",
     "text": "Well... volunteering plays a key role in our society.",
-    "t": 117.54
+    "t": 84.54
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It holds people together.",
-    "t": 121.58
+    "t": 88.21
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's built on values — solidarity, citizenship, respect.",
-    "t": 124.2
+    "t": 90.07
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "When people give their time freely, the society becomes more connected.",
-    "t": 128.86
+    "t": 95.64
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "More inclusive.",
-    "t": 133.59
+    "t": 100.38
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So it's like... the glue between people.",
-    "t": 135.68
+    "t": 101.73
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Indeed, and here's a number that surprised me.",
-    "t": 138.94
+    "t": 104.42
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "In Luxembourg, in 2022, thirty-five percent of the population did some volunteering.",
-    "t": 142.45
+    "t": 107.26
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Thirty-five percent?",
-    "t": 148.71
+    "t": 113.01
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "More than one person in three?",
-    "t": 150.93
+    "t": 114.5
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "More than one in three.",
-    "t": 153.48
+    "t": 116.17
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And that puts Luxembourg fourth in all of Europe.",
-    "t": 155.9
+    "t": 117.75
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "There's even an International Volunteering Day every year, on the fifth of December.",
-    "t": 159.52
+    "t": 120.59
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So it's really part of the culture here.",
-    "t": 164.74
+    "t": 125.23
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It really is.",
-    "t": 167.66
+    "t": 127.37
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And there's something nice — when you volunteer, you also gain for yourself.",
-    "t": 169.79
+    "t": 128.53
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You learn new skills, you get more confident, more independent.",
-    "t": 174.46
+    "t": 132.85
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You learn to work in a team.",
-    "t": 178.99
+    "t": 136.47
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "So you give your time, but you also grow.",
-    "t": 181.58
+    "t": 138.38
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Beautiful.",
-    "t": 184.96
+    "t": 140.93
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Okay — so how is volunteering organised here in Luxembourg?",
-    "t": 186.71
+    "t": 142.05
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The central place to know is the Agence du Bénévolat.",
-    "t": 191.06
+    "t": 145.49
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The Volunteering Agency.",
-    "t": 194.86
+    "t": 148.55
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Since 2002, their job is to promote and develop volunteering in Luxembourg.",
-    "t": 197.48
+    "t": 150.59
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And the most useful thing for a listener is their website — benevolat.lu.",
-    "t": 202.89
+    "t": 155.61
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "benevolat.lu.",
-    "t": 207.89
+    "t": 160.95
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Great!",
-    "t": 210.44
+    "t": 162.21
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "And what do I find on that webpage?",
-    "t": 212.08
+    "t": 162.72
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's a meeting point.",
-    "t": 215.04
+    "t": 164.58
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "On one side, the organizations, municipalities or companies looking for help.",
-    "t": 217.23
+    "t": 165.97
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "On the other side, people like you and me who want to give some time.",
-    "t": 222.81
+    "t": 171.31
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The platform brings the two together.",
-    "t": 227.14
+    "t": 175.26
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "They even added a smart matching system — it looks at your interests and skills, and suggests missions that could be of interest to you.",
-    "t": 230.18
+    "t": 177.58
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "And is the choice big?",
-    "t": 237.73
+    "t": 184.78
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Very big.",
-    "t": 239.9
+    "t": 186.27
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Health.",
-    "t": 241.81
+    "t": 187.24
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Humanitarian help.",
-    "t": 243.45
+    "t": 187.89
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The environment.",
-    "t": 245.87
+    "t": 189.24
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Living together — solidarity and inclusion.",
-    "t": 248.11
+    "t": 190.4
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Culture.",
-    "t": 251.75
+    "t": 193.38
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Education.",
-    "t": 253.55
+    "t": 194.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Social and relational work.",
-    "t": 255.52
+    "t": 195.05
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Leisure.",
-    "t": 258.38
+    "t": 196.77
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sports.",
-    "t": 260.11
+    "t": 197.42
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Animals.",
-    "t": 261.91
+    "t": 198.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Emergency relief.",
-    "t": 263.75
+    "t": 198.81
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "For example, behind every sports club in Luxembourg, there are volunteers who keep it running.",
-    "t": 266.1
+    "t": 200.21
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And in some hospitals, volunteers are simply there, close to the patients.",
-    "t": 272.14
+    "t": 205.64
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "To talk.",
-    "t": 277.14
+    "t": 210.06
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "To keep company.",
-    "t": 278.91
+    "t": 211.03
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "That's lovely.",
-    "t": 281.02
+    "t": 212.38
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Just being there for someone.",
-    "t": 283.02
+    "t": 213.4
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And it's everywhere in the country.",
-    "t": 285.52
+    "t": 214.93
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The platform covers all regions — from Luxembourg City, to Esch, to Diekirch, to Wiltz.",
-    "t": 288.3
+    "t": 216.98
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "There's even a map, so you can find something close to home.",
-    "t": 294.18
+    "t": 223.11
    },
    {
-    "speaker": "Anna",
-    "text": "Okay Tom — this is the part I really want to underline.",
-    "t": 298.18
+    "speaker": "Tom",
+    "text": "Okay Anna — this is the part I really want to underline.",
+    "t": 226.13
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Because some people hear \"volunteering\" and they get scared.",
-    "t": 302.4
+    "t": 229.61
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "They think, \"I don't have time.",
-    "t": 306.19
+    "t": 233.19
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "I can't commit for years.\"",
-    "t": 309.01
+    "t": 234.81
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Yes — and this is so important.",
-    "t": 311.52
+    "t": 236.35
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "So let me be very clear.",
-    "t": 314.52
+    "t": 238.35
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You do NOT need to commit for a long time.",
-    "t": 317.16
+    "t": 240.2
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Remember the definition — you give the time you want.",
-    "t": 320.4
+    "t": 243.55
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "A little, a lot, or passionately.",
-    "t": 324.19
+    "t": 247.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's your choice.",
-    "t": 327.44
+    "t": 249.82
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So there are short missions?",
-    "t": 329.52
+    "t": 251.17
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "One-time things?",
-    "t": 331.94
+    "t": 252.47
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Yes — lots of them.",
-    "t": 334.07
+    "t": 253.68
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "On benevolat.lu, many missions are just for a single event, or a single day.",
-    "t": 336.33
+    "t": 255.21
    },
    {
-    "speaker": "Tom",
-    "text": "Real examples on the site right now: helping at a gymnastics gala for one weekend.",
-    "t": 342.02
+    "speaker": "Anna",
+    "text": "For example: helping at a sports gala for one weekend.",
+    "t": 260.22
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Being a marshal for one day at a cycling race.",
-    "t": 347.59
-   },
-   {
-    "speaker": "Tom",
-    "text": "Manning the barbecue at a summer party.",
-    "t": 351.14
-   },
-   {
-    "speaker": "Tom",
-    "text": "Making Christmas decorations.",
-    "t": 354.47
+    "t": 263.94
    },
    {
     "speaker": "Anna",
+    "text": "Helping at a summer party.",
+    "t": 266.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Or making Christmas decorations.",
+    "t": 268.86
+   },
+   {
+    "speaker": "Tom",
     "text": "So small, concrete things.",
-    "t": 357.34
+    "t": 271.05
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "A few hours.",
-    "t": 360.4
+    "t": 272.49
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "A day.",
-    "t": 362.44
+    "t": 273.32
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "A weekend.",
-    "t": 364.21
+    "t": 273.93
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Exactly.",
-    "t": 366.03
+    "t": 274.95
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You can help for one afternoon, and that's already wonderful.",
-    "t": 367.96
+    "t": 275.97
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You're not signing a contract for ten years.",
-    "t": 372.18
+    "t": 279.46
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You give one moment of your time, and it really helps.",
-    "t": 375.53
+    "t": 282.01
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Okay.",
-    "t": 379.39
+    "t": 285.36
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "I'm convinced.",
-    "t": 381.01
+    "t": 285.91
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "How do I actually start?",
-    "t": 382.99
+    "t": 286.75
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Step by step.",
-    "t": 385.47
+    "t": 288.1
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The Agence suggests a simple method.",
-    "t": 387.62
+    "t": 289.35
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Step one — first, think about what you like.",
-    "t": 390.84
+    "t": 291.72
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Make a little list.",
-    "t": 394.42
+    "t": 294.93
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "What cause touches you?",
-    "t": 396.64
+    "t": 296.46
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Animals, helping children with school, the environment?",
-    "t": 398.94
+    "t": 298.37
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "What type of activity — welcoming people, something manual or creative?",
-    "t": 403.07
+    "t": 302.27
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Which group would you like to help — children, older people, people with a disability?",
-    "t": 408.14
+    "t": 307.93
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And finally, where, and how much time you want to give.",
-    "t": 413.35
+    "t": 313.41
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ah, smart.",
-    "t": 417.22
+    "t": 316.67
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So I first understand what suits me.",
-    "t": 419.35
+    "t": 317.69
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Exactly.",
-    "t": 422.36
+    "t": 319.55
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Because a happy volunteer is one who does something they enjoy.",
-    "t": 424.29
+    "t": 320.52
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Step two — you go to benevolat.lu and register on the portal.",
-    "t": 428.42
+    "t": 324.38
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's free.",
-    "t": 433.06
+    "t": 328.79
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Then you look through the directory of missions, you filter by region or field, and when you find one you like, you offer your help directly.",
-    "t": 434.91
+    "t": 329.86
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The organization, municipality or company then contacts you.",
-    "t": 442.75
+    "t": 338.5
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So three movements.",
-    "t": 447.45
+    "t": 342.58
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Think about what I like.",
-    "t": 449.74
+    "t": 343.61
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Register on benevolat.lu.",
-    "t": 452.14
+    "t": 345
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Offer my help.",
-    "t": 455.29
+    "t": 347.14
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "That's it.",
-    "t": 457.22
+    "t": 348.25
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And if you prefer to talk to a human, you can contact the Agence directly — they're on Avenue Guillaume in Luxembourg City and you can reach them by phone at 261210.",
-    "t": 458.97
+    "t": 349.18
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Great.",
-    "t": 468.52
-   },
-   {
-    "speaker": "Anna",
-    "text": "Okay Tom, short summary?",
-    "t": 470.16
+    "t": 359.4
    },
    {
     "speaker": "Tom",
+    "text": "Okay Anna, short summary?",
+    "t": 359.96
+   },
+   {
+    "speaker": "Anna",
     "text": "Volunteering is giving the time you want, freely, to help others.",
-    "t": 473
+    "t": 361.63
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It matters because it holds our society together — and in Luxembourg, more than one person in three does it.",
-    "t": 477.53
+    "t": 366.32
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The central place is the Agence du Bénévolat, and their website benevolat.lu, where associations and volunteers meet, in every region.",
-    "t": 483.93
+    "t": 373.66
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "And the most important message of today?",
-    "t": 492.32
+    "t": 382.95
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You do not need a long commitment.",
-    "t": 495.19
+    "t": 384.9
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "There are short missions — one afternoon, one day, one event.",
-    "t": 498.14
+    "t": 387.08
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "To start: think about what you enjoy, register on benevolat.lu, and offer your help.",
-    "t": 502.54
+    "t": 391.91
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So... don't be afraid to try.",
-    "t": 508.78
+    "t": 397.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Even a small action makes a difference — and it's a wonderful way to meet people and feel part of Luxembourg.",
+    "t": 400.37
    },
    {
     "speaker": "Anna",
-    "text": "Even a small action makes a difference — and it's a wonderful way to meet people and feel part of Luxembourg.",
-    "t": 511.68
-   },
-   {
-    "speaker": "Tom",
     "text": "Really.",
-    "t": 518.32
+    "t": 406.4
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Start small.",
-    "t": 520.01
+    "t": 407.19
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "One afternoon.",
-    "t": 522.14
+    "t": 408.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You'll see.",
-    "t": 524.22
+    "t": 409.01
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about volunteering in Luxembourg.",
-    "t": 526.2
+    "t": 409.98
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 529.97
+    "t": 413.19
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 538.7
+    "t": 423.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 441.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 448.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 451.09
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 555.68
+    "t": 455.73
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 558.05
+    "t": 456.94
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 561.02
+    "t": 459.03
    }
   ],
   "questions": [
@@ -875,782 +865,772 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
-    "t": 2.27
+    "t": 1.26
    },
    {
     "speaker": "Tom",
     "text": "Bonjour à tous !",
-    "t": 6.22
+    "t": 4
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 8.33
+    "t": 5.11
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
-    "t": 11.77
+    "t": 7.02
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 21.34
+    "t": 15.33
    },
    {
     "speaker": "Anna",
-    "text": "Pour qu'ils puissent créer des liens, échanger des idées et se sentir chez eux.",
-    "t": 30.27
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 35.02
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et les activités sont gratuites.",
-    "t": 41.29
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 44.06
-   },
-   {
-    "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 49.21
-   },
-   {
-    "speaker": "Tom",
     "text": "Et aujourd'hui, nous parlons d'une belle façon de rencontrer des gens, et de donner quelque chose en retour.",
+    "t": 23.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous parlons du bénévolat.",
+    "t": 29.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le bénévolat.",
+    "t": 30.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'accord, Anna... commençons simplement.",
+    "t": 31.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Qu'est-ce que c'est, au fond ?",
+    "t": 34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors... le bénévolat, c'est donner le temps que vous voulez — un peu, beaucoup, ou passionnément — pour soutenir une cause et aider les autres.",
+    "t": 35.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "La définition officielle est : un bénévole est une personne qui, de son plein gré et sans être payée, fait quelque chose au service des autres, ou de la communauté.",
+    "t": 42.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "De son plein gré, et sans être payée.",
     "t": 51.05
    },
    {
     "speaker": "Tom",
-    "text": "Nous parlons du bénévolat.",
-    "t": 57.25
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le bénévolat.",
-    "t": 59.62
-   },
-   {
-    "speaker": "Anna",
-    "text": "D'accord, Tom... commençons simplement.",
-    "t": 61.51
-   },
-   {
-    "speaker": "Anna",
-    "text": "Qu'est-ce que c'est, au fond ?",
-    "t": 65.13
-   },
-   {
-    "speaker": "Tom",
-    "text": "Alors... le bénévolat, c'est donner le temps que vous voulez — un peu, beaucoup, ou passionnément — pour soutenir une cause et aider les autres.",
-    "t": 67.57
-   },
-   {
-    "speaker": "Tom",
-    "text": "La définition officielle est : un bénévole est une personne qui, de son plein gré et sans être payée, fait quelque chose au service des autres, ou de la communauté.",
-    "t": 75.32
-   },
-   {
-    "speaker": "Anna",
-    "text": "De son plein gré, et sans être payée.",
-    "t": 84.47
-   },
-   {
-    "speaker": "Anna",
     "text": "Donc c'est un don.",
-    "t": 87.78
+    "t": 53.28
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Un don de temps.",
-    "t": 89.93
+    "t": 54.39
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Exactement.",
-    "t": 91.79
+    "t": 55.51
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et voici le point essentiel — « le temps que vous voulez ».",
-    "t": 93.64
+    "t": 56.35
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous ne donnez pas toute votre vie.",
-    "t": 97.28
+    "t": 59.74
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous donnez ce que vous pouvez.",
-    "t": 99.83
+    "t": 61.74
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et c'est aussi une question de plaisir, de rencontrer des gens qui partagent vos valeurs, et de faire quelque chose que vous aimez.",
-    "t": 102.22
+    "t": 63.64
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "J'aime bien ça.",
-    "t": 109.2
+    "t": 69.63
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ce n'est pas seulement un devoir.",
-    "t": 111.19
+    "t": 70.84
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "C'est aussi un plaisir.",
-    "t": 113.77
-   },
-   {
-    "speaker": "Anna",
-    "text": "Alors dites-moi, Tom — pourquoi le bénévolat est-il si important ?",
-    "t": 116.14
+    "t": 72.65
    },
    {
     "speaker": "Tom",
+    "text": "Alors dites-moi, Anna — pourquoi le bénévolat est-il si important ?",
+    "t": 74.18
+   },
+   {
+    "speaker": "Anna",
     "text": "Eh bien... le bénévolat joue un rôle clé dans notre société.",
-    "t": 120.63
+    "t": 77.76
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il tient les gens ensemble.",
-    "t": 124.71
+    "t": 80.78
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il repose sur des valeurs — la solidarité, la citoyenneté, le respect.",
-    "t": 127
+    "t": 82.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Quand les gens donnent leur temps librement, la société devient plus soudée.",
-    "t": 132.22
+    "t": 87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Plus inclusive.",
-    "t": 136.5
+    "t": 90.26
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc c'est comme... le ciment entre les gens.",
-    "t": 138.56
+    "t": 91.46
    },
    {
-    "speaker": "Tom",
-    "text": "En effet, et voici un chiffre qui m'a surpris.",
-    "t": 141.92
+    "speaker": "Anna",
+    "text": "En effet, et voici un chiffre qui m'a surprise.",
+    "t": 93.88
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Au Luxembourg, en 2022, trente-cinq pour cent de la population a fait du bénévolat.",
-    "t": 145.56
+    "t": 96.06
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Trente-cinq pour cent ?",
-    "t": 151.33
+    "t": 100.48
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Plus d'une personne sur trois ?",
-    "t": 153.51
+    "t": 101.78
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Plus d'une sur trois.",
-    "t": 156.01
+    "t": 103.31
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et cela place le Luxembourg au quatrième rang de toute l'Europe.",
-    "t": 158.05
+    "t": 104.47
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il existe même une Journée internationale du bénévolat chaque année, le cinq décembre.",
-    "t": 161.96
+    "t": 107.58
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc ça fait vraiment partie de la culture ici.",
-    "t": 167.4
+    "t": 111.95
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vraiment.",
-    "t": 170.95
+    "t": 114.37
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et il y a quelque chose de beau — quand vous faites du bénévolat, vous gagnez aussi pour vous-même.",
-    "t": 172.59
+    "t": 115.25
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous apprenez de nouvelles compétences, vous devenez plus confiant, plus autonome.",
-    "t": 177.9
+    "t": 120.31
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous apprenez à travailler en équipe.",
-    "t": 183.19
+    "t": 124.96
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Donc vous donnez votre temps, mais vous grandissez aussi.",
-    "t": 185.89
+    "t": 126.91
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Magnifique.",
-    "t": 189.67
+    "t": 129.74
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Bon — alors comment le bénévolat est-il organisé ici au Luxembourg ?",
-    "t": 191.51
+    "t": 130.95
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'endroit central à connaître, c'est l'Agence du Bénévolat.",
-    "t": 196.19
+    "t": 134.57
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Depuis 2002, sa mission est de promouvoir et de développer le bénévolat au Luxembourg.",
-    "t": 199.99
+    "t": 137.17
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et la chose la plus utile pour un auditeur, c'est son site internet — benevolat.lu.",
-    "t": 205.68
+    "t": 141.68
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "benevolat.lu.",
-    "t": 211.07
+    "t": 146.56
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Super !",
-    "t": 213.38
+    "t": 147.86
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Et qu'est-ce que je trouve sur ce site ?",
-    "t": 215.18
+    "t": 148.83
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est un point de rencontre.",
-    "t": 217.97
+    "t": 150.64
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "D'un côté, les organisations, les communes ou les entreprises qui cherchent de l'aide.",
-    "t": 220.37
+    "t": 152.08
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "De l'autre, des gens comme vous et moi qui veulent donner un peu de temps.",
-    "t": 225.94
+    "t": 156.31
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "La plateforme met les deux en relation.",
-    "t": 230.05
+    "t": 159.28
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ils ont même ajouté un système de mise en relation intelligent — il regarde vos centres d'intérêt et vos compétences, et vous propose des missions qui pourraient vous intéresser.",
-    "t": 232.85
+    "t": 161.1
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Et le choix est grand ?",
-    "t": 241.6
+    "t": 169.08
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Très grand.",
-    "t": 243.68
+    "t": 170.38
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "La santé.",
-    "t": 245.3
+    "t": 171.27
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'aide humanitaire.",
-    "t": 247.1
+    "t": 172.1
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'environnement.",
-    "t": 249.23
+    "t": 173.08
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Le vivre-ensemble — la solidarité et l'inclusion.",
-    "t": 251.14
+    "t": 174.06
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "La culture.",
-    "t": 254.55
+    "t": 176.84
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'éducation.",
-    "t": 256.48
+    "t": 177.73
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Le travail social et relationnel.",
-    "t": 258.39
+    "t": 178.7
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Les loisirs.",
-    "t": 261.23
+    "t": 180.37
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Le sport.",
-    "t": 263.14
+    "t": 181.26
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Les animaux.",
-    "t": 264.98
+    "t": 182.19
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Les secours d'urgence.",
-    "t": 266.82
+    "t": 182.98
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Par exemple, derrière chaque club sportif au Luxembourg, il y a des bénévoles qui le font tourner.",
-    "t": 269.19
+    "t": 184.19
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et dans certains hôpitaux, des bénévoles sont simplement là, auprès des patients.",
-    "t": 275.19
+    "t": 188.6
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Pour parler.",
-    "t": 280.19
+    "t": 192.64
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Pour tenir compagnie.",
-    "t": 281.89
+    "t": 193.8
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "C'est touchant.",
-    "t": 284.05
+    "t": 195.15
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Simplement être là pour quelqu'un.",
-    "t": 285.84
+    "t": 196.26
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et c'est partout dans le pays.",
-    "t": 288.57
+    "t": 198.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "La plateforme couvre toutes les régions — de Luxembourg-Ville à Esch, de Diekirch à Wiltz.",
-    "t": 290.95
+    "t": 200.17
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il y a même une carte, pour trouver quelque chose près de chez vous.",
-    "t": 296.43
+    "t": 205.6
    },
    {
-    "speaker": "Anna",
-    "text": "Bon, Tom — voici la partie que je veux vraiment souligner.",
-    "t": 300.56
+    "speaker": "Tom",
+    "text": "Bon, Anna — voici la partie que je veux vraiment souligner.",
+    "t": 208.57
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Parce que certaines personnes entendent « bénévolat » et prennent peur.",
-    "t": 304.67
+    "t": 211.69
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Elles se disent : « Je n'ai pas le temps.",
-    "t": 309.29
+    "t": 215.45
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Je ne peux pas m'engager pour des années. »",
-    "t": 312.22
+    "t": 217.68
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Oui — et c'est tellement important.",
-    "t": 315.19
+    "t": 219.63
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Alors laissez-moi être très clair.",
-    "t": 317.72
+    "t": 221.25
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous n'avez PAS besoin de vous engager pour longtemps.",
-    "t": 320.54
+    "t": 223.11
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Rappelez-vous la définition — vous donnez le temps que vous voulez.",
-    "t": 323.82
+    "t": 225.48
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Un peu, beaucoup, ou passionnément.",
-    "t": 327.55
+    "t": 228.55
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est votre choix.",
-    "t": 330.73
+    "t": 230.45
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc il y a des missions courtes ?",
-    "t": 332.7
+    "t": 231.66
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Des missions ponctuelles ?",
-    "t": 335.41
+    "t": 233.43
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Oui — plein.",
-    "t": 337.72
+    "t": 234.82
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sur benevolat.lu, beaucoup de missions sont juste pour un seul événement, ou une seule journée.",
-    "t": 339.45
+    "t": 235.84
    },
    {
-    "speaker": "Tom",
-    "text": "Des exemples réels sur le site en ce moment : aider à un gala de gymnastique pendant un week-end.",
-    "t": 345.29
+    "speaker": "Anna",
+    "text": "Par exemple : aider à un gala sportif pendant un week-end.",
+    "t": 240.49
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Être signaleur pour une journée lors d'une course cycliste.",
-    "t": 350.95
-   },
-   {
-    "speaker": "Tom",
-    "text": "Tenir le barbecue à une fête d'été.",
-    "t": 354.72
-   },
-   {
-    "speaker": "Tom",
-    "text": "Fabriquer des décorations de Noël.",
-    "t": 357.65
+    "t": 243.78
    },
    {
     "speaker": "Anna",
+    "text": "Donner un coup de main à une fête d'été.",
+    "t": 247.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ou fabriquer des décorations de Noël.",
+    "t": 249.87
+   },
+   {
+    "speaker": "Tom",
     "text": "Donc des petites choses concrètes.",
-    "t": 360.52
+    "t": 252.01
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Quelques heures.",
-    "t": 363.51
+    "t": 253.86
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Une journée.",
-    "t": 365.4
+    "t": 254.98
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Un week-end.",
-    "t": 367.17
+    "t": 255.91
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Exactement.",
-    "t": 369.1
+    "t": 256.84
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous pouvez aider pendant un après-midi, et c'est déjà merveilleux.",
-    "t": 370.94
+    "t": 257.82
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous ne signez pas un contrat de dix ans.",
-    "t": 375.05
+    "t": 261.11
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous donnez un moment de votre temps, et ça aide vraiment.",
-    "t": 377.89
+    "t": 263.2
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "D'accord.",
-    "t": 381.51
+    "t": 266.13
    },
    {
-    "speaker": "Anna",
-    "text": "Je suis convaincue.",
-    "t": 383.24
+    "speaker": "Tom",
+    "text": "Je suis convaincu.",
+    "t": 266.97
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Comment je commence concrètement ?",
-    "t": 385.44
+    "t": 268.17
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Étape par étape.",
-    "t": 388.08
+    "t": 269.94
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'Agence propose une méthode simple.",
-    "t": 390.14
+    "t": 271.33
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Première étape — réfléchissez d'abord à ce que vous aimez.",
-    "t": 392.96
+    "t": 273.61
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Faites une petite liste.",
-    "t": 396.58
+    "t": 276.49
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Quelle cause vous touche ?",
-    "t": 398.91
+    "t": 277.79
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Les animaux, l'aide aux devoirs pour les enfants, l'environnement ?",
-    "t": 401.06
+    "t": 280.11
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Quel type d'activité — accueillir des gens, quelque chose de manuel ou de créatif ?",
-    "t": 405.34
+    "t": 283.88
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Quel groupe aimeriez-vous aider — les enfants, les personnes âgées, les personnes en situation de handicap ?",
-    "t": 410.45
+    "t": 289.08
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et enfin, où, et combien de temps vous voulez donner.",
-    "t": 416.6
+    "t": 295.39
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ah, malin.",
-    "t": 420.44
+    "t": 298.18
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc je comprends d'abord ce qui me convient.",
-    "t": 422.46
+    "t": 299.16
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Exactement.",
-    "t": 425.77
+    "t": 301.2
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Parce qu'un bénévole heureux, c'est quelqu'un qui fait quelque chose qu'il aime.",
-    "t": 427.61
+    "t": 302.18
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Deuxième étape — vous allez sur benevolat.lu et vous vous inscrivez sur le portail.",
-    "t": 432.01
+    "t": 306.36
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est gratuit.",
-    "t": 437.02
+    "t": 310.82
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ensuite, vous parcourez le répertoire des missions, vous filtrez par région ou par domaine, et quand vous en trouvez une qui vous plaît, vous proposez directement votre aide.",
-    "t": 438.89
+    "t": 311.75
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'organisation, la commune ou l'entreprise vous contacte ensuite.",
-    "t": 448.15
+    "t": 319.55
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc trois mouvements.",
-    "t": 452.75
+    "t": 322.85
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Réfléchir à ce que j'aime.",
-    "t": 455.01
+    "t": 324.19
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "M'inscrire sur benevolat.lu.",
-    "t": 457.54
+    "t": 325.73
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Proposer mon aide.",
-    "t": 460.54
+    "t": 328.19
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est ça.",
-    "t": 462.75
+    "t": 329.49
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et si vous préférez parler à un être humain, vous pouvez contacter l'Agence directement — elle se trouve avenue Guillaume à Luxembourg-Ville, et vous pouvez la joindre par téléphone au 26 12 10.",
-    "t": 464.44
+    "t": 330.51
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Super.",
-    "t": 474.44
-   },
-   {
-    "speaker": "Anna",
-    "text": "Bon, Tom, un petit résumé ?",
-    "t": 476.23
+    "t": 339.29
    },
    {
     "speaker": "Tom",
+    "text": "Bon, Anna, un petit résumé ?",
+    "t": 340.13
+   },
+   {
+    "speaker": "Anna",
     "text": "Le bénévolat, c'est donner le temps que vous voulez, librement, pour aider les autres.",
-    "t": 479.38
+    "t": 341.99
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est important parce que ça tient notre société ensemble — et au Luxembourg, plus d'une personne sur trois en fait.",
-    "t": 484.67
+    "t": 346.49
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'endroit central, c'est l'Agence du Bénévolat, et son site benevolat.lu, où les associations et les bénévoles se rencontrent, dans toutes les régions.",
-    "t": 491.24
+    "t": 352.62
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Et le message le plus important d'aujourd'hui ?",
-    "t": 499.84
+    "t": 360.47
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous n'avez pas besoin d'un engagement long.",
-    "t": 503.12
+    "t": 362.65
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il y a des missions courtes — un après-midi, une journée, un événement.",
-    "t": 505.96
+    "t": 365.02
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Pour commencer : réfléchissez à ce que vous aimez, inscrivez-vous sur benevolat.lu, et proposez votre aide.",
-    "t": 510.65
+    "t": 368.88
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Alors... n'ayez pas peur d'essayer.",
-    "t": 517.49
+    "t": 375.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Même une petite action fait la différence — et c'est une merveilleuse façon de rencontrer des gens et de se sentir chez soi au Luxembourg.",
+    "t": 377.52
    },
    {
     "speaker": "Anna",
-    "text": "Même une petite action fait la différence — et c'est une merveilleuse façon de rencontrer des gens et de se sentir chez soi au Luxembourg.",
-    "t": 520.58
-   },
-   {
-    "speaker": "Tom",
     "text": "Vraiment.",
-    "t": 527.97
+    "t": 384.25
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Commencez petit.",
-    "t": 529.61
+    "t": 385
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Un après-midi.",
-    "t": 531.59
+    "t": 386.02
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous verrez.",
-    "t": 533.52
+    "t": 386.99
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le bénévolat au Luxembourg.",
-    "t": 535.18
+    "t": 388.3
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 539.29
+    "t": 391.27
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 549.06
+    "t": 399.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 415.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 420.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 422.15
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 566.61
+    "t": 426.43
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 568.76
+    "t": 427.54
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 571.74
+    "t": 429.91
    }
   ],
   "segments_de": [
@@ -1662,792 +1642,782 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
-    "t": 2.98
+    "t": 1.91
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.89
+    "t": 4.65
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 8.95
+    "t": 5.9
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
-    "t": 12.61
+    "t": 8.41
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 23.65
+    "t": 18.77
    },
    {
     "speaker": "Anna",
-    "text": "Damit sie sich vernetzen, Ideen austauschen und sich zu Hause fühlen können.",
-    "t": 34.25
-   },
-   {
-    "speaker": "Anna",
-    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 39.8
-   },
-   {
-    "speaker": "Anna",
-    "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 46.71
-   },
-   {
-    "speaker": "Anna",
-    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 49.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "Genau.",
-    "t": 55.55
-   },
-   {
-    "speaker": "Tom",
     "text": "Und heute sprechen wir über eine schöne Möglichkeit, Menschen kennenzulernen und etwas zurückzugeben.",
-    "t": 57.12
+    "t": 28.1
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Wir sprechen über die Freiwilligenarbeit.",
-    "t": 63.65
+    "t": 33.68
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Freiwilligenarbeit.",
-    "t": 66.89
+    "t": 36.09
    },
    {
-    "speaker": "Anna",
-    "text": "Okay, Tom... fangen wir ganz einfach an.",
-    "t": 69.29
+    "speaker": "Tom",
+    "text": "Okay, Anna... fangen wir ganz einfach an.",
+    "t": 37.95
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Was ist das eigentlich?",
-    "t": 73.08
+    "t": 40.78
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Also... Freiwilligenarbeit heißt, die Zeit zu geben, die man möchte — ein wenig, viel, oder mit Leidenschaft — um eine gute Sache zu unterstützen und anderen zu helfen.",
-    "t": 75.5
+    "t": 42.23
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die offizielle Definition lautet: Ein Freiwilliger ist jemand, der aus freiem Willen, und ohne bezahlt zu werden, etwas im Dienst anderer oder der Gemeinschaft tut.",
-    "t": 87.21
+    "t": 54.72
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Aus freiem Willen, und ohne bezahlt zu werden.",
-    "t": 97.56
+    "t": 64.75
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Es ist also ein Geschenk.",
-    "t": 101.47
+    "t": 67.63
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ein Geschenk aus Zeit.",
-    "t": 103.95
+    "t": 69.58
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genau.",
-    "t": 106.31
+    "t": 71.16
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und hier ist der wichtigste Punkt — „die Zeit, die Sie möchten\".",
-    "t": 108.08
+    "t": 72.32
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie geben nicht Ihr ganzes Leben.",
-    "t": 112.43
+    "t": 76.97
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie geben, was Sie können.",
-    "t": 115.29
+    "t": 79.24
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und es geht auch darum, Spaß zu haben, Menschen zu treffen, die Ihre Werte teilen, und etwas zu tun, das Ihnen Freude macht.",
-    "t": 118
+    "t": 81.43
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Das gefällt mir.",
-    "t": 126.44
+    "t": 88.81
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Es ist nicht nur Pflicht.",
-    "t": 128.55
+    "t": 89.97
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Es ist auch Vergnügen.",
-    "t": 130.99
-   },
-   {
-    "speaker": "Anna",
-    "text": "Also sag mir, Tom — warum ist Freiwilligenarbeit so wichtig?",
-    "t": 133.43
+    "t": 91.46
    },
    {
     "speaker": "Tom",
+    "text": "Also sag mir, Anna — warum ist Freiwilligenarbeit so wichtig?",
+    "t": 93.46
+   },
+   {
+    "speaker": "Anna",
     "text": "Nun... die Freiwilligenarbeit spielt eine Schlüsselrolle in unserer Gesellschaft.",
-    "t": 138.27
+    "t": 97.13
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie hält die Menschen zusammen.",
-    "t": 143.6
+    "t": 101.96
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie baut auf Werten auf — Solidarität, Bürgersinn, Respekt.",
-    "t": 146.22
+    "t": 104.19
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Wenn Menschen ihre Zeit freiwillig geben, wird die Gesellschaft verbundener.",
-    "t": 150.99
+    "t": 109.67
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Inklusiver.",
-    "t": 156.01
+    "t": 113.71
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Sie ist also wie... der Kitt zwischen den Menschen.",
-    "t": 157.9
+    "t": 114.96
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "In der Tat.",
-    "t": 161.78
+    "t": 117.94
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und hier ist eine Zahl, die mich überrascht hat.",
-    "t": 163.54
+    "t": 119.47
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "In Luxemburg haben im Jahr 2022 fünfunddreißig Prozent der Bevölkerung Freiwilligenarbeit geleistet.",
-    "t": 167.2
+    "t": 122.02
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Fünfunddreißig Prozent?",
-    "t": 174.73
+    "t": 128.85
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Mehr als jeder Dritte?",
-    "t": 177.28
+    "t": 130.43
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Mehr als jeder Dritte.",
-    "t": 179.65
+    "t": 131.92
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und das bringt Luxemburg auf Platz vier in ganz Europa.",
-    "t": 182.05
+    "t": 133.64
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es gibt sogar jedes Jahr einen Internationalen Tag des Ehrenamts, am fünften Dezember.",
-    "t": 186.31
+    "t": 136.89
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Es gehört hier also wirklich zur Kultur.",
-    "t": 192.2
+    "t": 142.04
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das tut es wirklich.",
-    "t": 195.62
+    "t": 144.41
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und es gibt etwas Schönes — wenn Sie sich freiwillig engagieren, gewinnen Sie auch selbst.",
-    "t": 197.88
+    "t": 146.18
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie lernen neue Fähigkeiten, Sie werden selbstbewusster, unabhängiger.",
-    "t": 203.45
+    "t": 151.29
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie lernen, im Team zu arbeiten.",
-    "t": 208.69
+    "t": 156.49
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie geben also Ihre Zeit, aber Sie wachsen auch.",
-    "t": 211.87
+    "t": 158.86
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Wunderbar.",
-    "t": 215.78
+    "t": 161.83
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Okay — wie ist die Freiwilligenarbeit hier in Luxemburg organisiert?",
-    "t": 217.71
+    "t": 162.85
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die zentrale Stelle, die man kennen sollte, ist die Agence du Bénévolat.",
-    "t": 222.66
+    "t": 167.13
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die Agentur für Freiwilligenarbeit.",
-    "t": 227.92
+    "t": 171.45
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Seit 2002 ist es ihre Aufgabe, die Freiwilligenarbeit in Luxemburg zu fördern und weiterzuentwickeln.",
-    "t": 230.98
+    "t": 173.91
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und das Nützlichste für unsere Hörer ist ihre Website — benevolat.lu.",
-    "t": 238.45
+    "t": 180.83
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "benevolat.lu.",
-    "t": 243.58
+    "t": 186.17
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Super!",
-    "t": 245.84
+    "t": 187.84
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Und was finde ich auf dieser Webseite?",
-    "t": 247.48
+    "t": 188.77
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie ist ein Treffpunkt.",
-    "t": 250.59
+    "t": 190.86
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Auf der einen Seite die Organisationen, Gemeinden oder Unternehmen, die Hilfe suchen.",
-    "t": 252.89
+    "t": 192.49
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Auf der anderen Seite Menschen wie Sie und ich, die etwas Zeit geben möchten.",
-    "t": 258.62
+    "t": 197.69
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die Plattform bringt beide zusammen.",
-    "t": 263.58
+    "t": 202.1
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es gibt sogar ein intelligentes Matching-System — es schaut auf Ihre Interessen und Fähigkeiten und schlägt Ihnen Einsätze vor, die Sie interessieren könnten.",
-    "t": 266.53
+    "t": 204.33
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Und ist die Auswahl groß?",
-    "t": 275.92
+    "t": 213.11
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sehr groß.",
-    "t": 278.45
+    "t": 214.69
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Gesundheit.",
-    "t": 280.27
+    "t": 215.85
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Humanitäre Hilfe.",
-    "t": 282.09
+    "t": 216.97
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Umwelt.",
-    "t": 284.4
+    "t": 218.78
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Zusammenleben — Solidarität und Inklusion.",
-    "t": 286.11
+    "t": 220.03
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Kultur.",
-    "t": 289.88
+    "t": 223.42
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Bildung.",
-    "t": 291.59
+    "t": 224.68
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Soziale und zwischenmenschliche Arbeit.",
-    "t": 293.36
+    "t": 225.7
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Freizeit.",
-    "t": 296.54
+    "t": 228.4
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sport.",
-    "t": 298.38
+    "t": 229.46
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Tiere.",
-    "t": 300.02
+    "t": 230.3
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Nothilfe.",
-    "t": 301.66
+    "t": 231.09
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Zum Beispiel: Hinter jedem Sportverein in Luxemburg stehen Freiwillige, die ihn am Laufen halten.",
-    "t": 303.56
+    "t": 232.35
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und in manchen Krankenhäusern sind Freiwillige einfach da, nah bei den Patienten.",
-    "t": 310.18
+    "t": 238.1
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Um zu reden.",
-    "t": 315.67
+    "t": 242.66
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Um Gesellschaft zu leisten.",
-    "t": 317.6
+    "t": 244.1
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Das ist schön.",
-    "t": 320.22
+    "t": 245.86
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Einfach für jemanden da sein.",
-    "t": 322.19
+    "t": 247.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und es gibt sie überall im Land.",
-    "t": 324.94
+    "t": 248.93
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die Plattform deckt alle Regionen ab — von Luxemburg-Stadt über Esch und Diekirch bis Wiltz.",
-    "t": 327.61
+    "t": 251.48
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es gibt sogar eine Karte, damit Sie etwas in der Nähe Ihres Zuhauses finden.",
-    "t": 333.38
+    "t": 258.31
    },
    {
-    "speaker": "Anna",
-    "text": "Okay, Tom — das ist der Teil, den ich wirklich unterstreichen möchte.",
-    "t": 338.84
+    "speaker": "Tom",
+    "text": "Okay, Anna — das ist der Teil, den ich wirklich unterstreichen möchte.",
+    "t": 262.49
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Denn manche Leute hören „Freiwilligenarbeit\" und bekommen Angst.",
-    "t": 343.99
+    "t": 266.63
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Sie denken: „Ich habe keine Zeit.",
-    "t": 348.75
+    "t": 271.08
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ich kann mich nicht für Jahre verpflichten.\"",
-    "t": 352.12
+    "t": 273.55
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ja — und das ist so wichtig.",
-    "t": 355.23
+    "t": 275.82
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Also lassen Sie es mich ganz klar sagen.",
-    "t": 357.91
+    "t": 278.47
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie müssen sich NICHT langfristig verpflichten.",
-    "t": 361.31
+    "t": 280.89
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Denken Sie an die Definition — Sie geben die Zeit, die Sie möchten.",
-    "t": 364.64
+    "t": 283.39
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ein wenig, viel, oder mit Leidenschaft.",
-    "t": 369.35
+    "t": 288.04
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es ist Ihre Entscheidung.",
-    "t": 373.03
+    "t": 291.15
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Es gibt also kurze Einsätze?",
-    "t": 375.36
+    "t": 292.92
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Einmalige Sachen?",
-    "t": 378.42
+    "t": 294.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ja — sehr viele.",
-    "t": 380.64
+    "t": 296.17
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Auf benevolat.lu sind viele Einsätze nur für eine einzige Veranstaltung, oder einen einzigen Tag.",
-    "t": 382.95
+    "t": 297.98
    },
    {
-    "speaker": "Tom",
-    "text": "Echte Beispiele, die gerade auf der Seite stehen: bei einer Turngala ein Wochenende lang helfen.",
-    "t": 389.75
+    "speaker": "Anna",
+    "text": "Zum Beispiel: bei einer Sportgala ein Wochenende lang helfen.",
+    "t": 304.67
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Einen Tag lang Streckenposten bei einem Radrennen sein.",
-    "t": 396.16
-   },
-   {
-    "speaker": "Tom",
-    "text": "Beim Sommerfest den Grill übernehmen.",
-    "t": 400.18
-   },
-   {
-    "speaker": "Tom",
-    "text": "Weihnachtsdekoration basteln.",
-    "t": 403.22
+    "t": 308.9
    },
    {
     "speaker": "Anna",
+    "text": "Bei einem Sommerfest mithelfen.",
+    "t": 312.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oder Weihnachtsdekoration basteln.",
+    "t": 314.89
+   },
+   {
+    "speaker": "Tom",
     "text": "Also kleine, konkrete Dinge.",
-    "t": 406.09
+    "t": 317.16
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ein paar Stunden.",
-    "t": 409.26
+    "t": 319.07
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ein Tag.",
-    "t": 411.41
+    "t": 320.28
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ein Wochenende.",
-    "t": 413.1
+    "t": 321.21
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genau.",
-    "t": 415.09
+    "t": 322.41
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie können einen Nachmittag lang helfen, und das ist schon wunderbar.",
-    "t": 416.67
+    "t": 323.67
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie unterschreiben keinen Vertrag für zehn Jahre.",
-    "t": 421.42
+    "t": 327.76
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie geben einen Moment Ihrer Zeit, und das hilft wirklich.",
-    "t": 425.15
+    "t": 330.91
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Okay.",
-    "t": 429.41
+    "t": 334.54
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ich bin überzeugt.",
-    "t": 430.99
+    "t": 335.23
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Wie fange ich konkret an?",
-    "t": 433.25
+    "t": 336.58
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Schritt für Schritt.",
-    "t": 435.8
+    "t": 338.25
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die Agence schlägt eine einfache Methode vor.",
-    "t": 437.95
+    "t": 339.46
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Schritt eins — überlegen Sie zuerst, was Sie mögen.",
-    "t": 441.57
+    "t": 342.44
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Machen Sie eine kleine Liste.",
-    "t": 445.57
+    "t": 346.34
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Welche Sache berührt Sie?",
-    "t": 448.28
+    "t": 348.33
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Tiere, Kindern bei der Schule helfen, die Umwelt?",
-    "t": 450.85
+    "t": 350.47
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Welche Art von Aktivität — Menschen empfangen, etwas Handwerkliches oder Kreatives?",
-    "t": 455.16
+    "t": 355.07
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Welcher Gruppe möchten Sie helfen — Kindern, älteren Menschen, Menschen mit einer Behinderung?",
-    "t": 461.18
+    "t": 361.25
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und schließlich: wo, und wie viel Zeit Sie geben möchten.",
-    "t": 467.24
+    "t": 367.8
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ah, clever.",
-    "t": 471.46
+    "t": 371.05
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ich verstehe also zuerst, was zu mir passt.",
-    "t": 473.59
+    "t": 372.35
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genau.",
-    "t": 477.38
+    "t": 374.72
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Denn ein glücklicher Freiwilliger ist einer, der etwas tut, das ihm Freude macht.",
-    "t": 478.96
+    "t": 375.79
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Schritt zwei — Sie gehen auf benevolat.lu und registrieren sich auf dem Portal.",
-    "t": 484.58
+    "t": 380.94
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das ist kostenlos.",
-    "t": 490.04
+    "t": 387.4
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Dann schauen Sie das Verzeichnis der Einsätze durch, Sie filtern nach Region oder Bereich, und wenn Sie einen finden, der Ihnen gefällt, bieten Sie direkt Ihre Hilfe an.",
-    "t": 492.26
+    "t": 389.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die Organisation, Gemeinde oder das Unternehmen meldet sich dann bei Ihnen.",
-    "t": 502.5
+    "t": 398.92
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also drei Bewegungen.",
-    "t": 507.65
+    "t": 403.33
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Überlegen, was mir gefällt.",
-    "t": 510.09
+    "t": 404.91
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Mich auf benevolat.lu registrieren.",
-    "t": 512.98
+    "t": 406.81
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Meine Hilfe anbieten.",
-    "t": 516.42
+    "t": 409.88
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genau so ist es.",
-    "t": 518.95
+    "t": 411.32
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und wenn Sie lieber mit einem Menschen sprechen möchten, können Sie die Agence direkt kontaktieren — sie sind in der Avenue Guillaume in Luxemburg-Stadt, und Sie erreichen sie telefonisch unter 261210.",
-    "t": 521.08
+    "t": 412.9
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Super.",
-    "t": 534.41
-   },
-   {
-    "speaker": "Anna",
-    "text": "Okay, Tom, eine kurze Zusammenfassung?",
-    "t": 536.05
+    "t": 425.07
    },
    {
     "speaker": "Tom",
+    "text": "Okay, Anna, eine kurze Zusammenfassung?",
+    "t": 426.14
+   },
+   {
+    "speaker": "Anna",
     "text": "Freiwilligenarbeit heißt, die Zeit zu geben, die man möchte, freiwillig, um anderen zu helfen.",
-    "t": 540.13
+    "t": 428.6
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie ist wichtig, weil sie unsere Gesellschaft zusammenhält — und in Luxemburg macht mehr als jeder Dritte mit.",
-    "t": 546.88
+    "t": 434.45
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die zentrale Stelle ist die Agence du Bénévolat, und ihre Website benevolat.lu, wo sich Vereine und Freiwillige treffen, in jeder Region.",
-    "t": 553.81
+    "t": 440.95
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Und die wichtigste Botschaft von heute?",
-    "t": 563.03
+    "t": 449.96
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie brauchen keine langfristige Verpflichtung.",
-    "t": 566.21
+    "t": 452.1
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es gibt kurze Einsätze — ein Nachmittag, ein Tag, eine Veranstaltung.",
-    "t": 569.6
+    "t": 454.84
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Um anzufangen: Überlegen Sie, was Ihnen Freude macht, registrieren Sie sich auf benevolat.lu, und bieten Sie Ihre Hilfe an.",
-    "t": 574.98
+    "t": 460.13
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also... haben Sie keine Angst, es auszuprobieren.",
-    "t": 583.39
+    "t": 469.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Schon eine kleine Aktion macht einen Unterschied — und es ist eine wunderbare Möglichkeit, Menschen kennenzulernen und sich in Luxemburg zugehörig zu fühlen.",
+    "t": 472.35
    },
    {
     "speaker": "Anna",
-    "text": "Schon eine kleine Aktion macht einen Unterschied — und es ist eine wunderbare Möglichkeit, Menschen kennenzulernen und sich in Luxemburg zugehörig zu fühlen.",
-    "t": 587.79
-   },
-   {
-    "speaker": "Tom",
     "text": "Wirklich.",
-    "t": 597.79
+    "t": 480.99
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Fangen Sie klein an.",
-    "t": 599.54
+    "t": 482.24
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ein Nachmittag.",
-    "t": 601.85
+    "t": 483.68
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie werden sehen.",
-    "t": 603.86
+    "t": 485.03
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die Freiwilligenarbeit in Luxemburg.",
-    "t": 605.91
+    "t": 486.42
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 610.7
+    "t": 490.37
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 621.41
+    "t": 500.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 518.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 524.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 527.11
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 639.72
+    "t": 531.99
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 641.76
+    "t": 533.43
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 645.46
+    "t": 536.58
    }
   ],
   "segments_lb": [
@@ -2459,226 +2429,216 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Moien alleguer!",
-    "t": 5.58
+    "t": 3.72
    },
    {
     "speaker": "Anna",
-    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren. Sou datt si sech kënne verbannen, Iddien austauschen a sech doheem fillen. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 7.62
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren. An haut schwätze mir iwwer eng schéi Manéier, fir Leit kennenzeléieren an eppes zeréckzeginn. Mir schwätzen iwwer de Benevolat.",
+    "t": 4.88
    },
    {
     "speaker": "Tom",
-    "text": "Genee. An haut schwätze mir iwwer eng schéi Manéier, fir Leit kennenzeléieren an eppes zeréckzeginn. Mir schwätzen iwwer de Benevolat.",
-    "t": 49.44
+    "text": "De Benevolat. Okay, Anna... loosse mer einfach ufänken. Wat ass dat eigentlech?",
+    "t": 34.84
    },
    {
     "speaker": "Anna",
-    "text": "De Benevolat. Okay, Tom... loosse mer einfach ufänken. Wat ass dat eigentlech?",
-    "t": 59.18
-   },
-   {
-    "speaker": "Tom",
     "text": "Also... Benevolat heescht, d'Zäit ze ginn, déi Dir wëllt — e bëssen, vill, oder mat Passioun — fir eng Saach z'ënnerstëtzen an anere Leit ze hëllefen. Déi offiziell Definitioun ass: e Benevole ass een, deen aus fräie Stécker, an ouni bezuelt ze ginn, eppes am Déngscht vun aneren, oder vun der Gemeinschaft mécht.",
-    "t": 66.77
+    "t": 39.44
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Aus fräie Stécker, an ouni bezuelt ze ginn. Also ass et e Cadeau. E Cadeau vun Zäit.",
-    "t": 83.05
+    "t": 58.67
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genee. An hei ass dat Wichtegst — \"d'Zäit, déi Dir wëllt\". Dir gitt net Äert ganzt Liewen. Dir gitt, wat Dir kënnt. An et geet och drëm, Spaass ze hunn, Leit kennenzeléieren, déi Är Wäerter deelen, an eppes ze maachen, wat Iech Freed mécht.",
-    "t": 90.79
-   },
-   {
-    "speaker": "Anna",
-    "text": "Dat gefält mer. Et ass net nëmme Flicht. Et ass och Plëséier. Also so mer, Tom — firwat ass de Benevolat sou wichteg?",
-    "t": 106.75
+    "t": 63.64
    },
    {
     "speaker": "Tom",
+    "text": "Dat gefält mer. Et ass net nëmme Flicht. Et ass och Plëséier. Also so mer, Anna — firwat ass de Benevolat sou wichteg?",
+    "t": 77.53
+   },
+   {
+    "speaker": "Anna",
     "text": "Gutt... de Benevolat spillt eng zentral Roll an eiser Gesellschaft. En hält d'Leit zesummen. E baséiert op Wäerter — Solidaritéit, Citoyennetéit, Respekt. Wann d'Leit hir Zäit fräi ginn, gëtt d'Gesellschaft méi verbonnen. Méi inklusiv.",
-    "t": 117.54
+    "t": 84.54
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also ass et wéi... d'Colle tëscht de Leit.",
-    "t": 135.68
+    "t": 101.73
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genee, an hei ass eng Zuel, déi mech iwwerrascht huet. Zu Lëtzebuerg, am Joer 2022, hu fënnefandrësseg Prozent vun der Bevëlkerung Benevolat gemaach.",
-    "t": 138.94
+    "t": 104.42
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Fënnefandrësseg Prozent? Méi wéi eng Persoun op dräi?",
-    "t": 148.71
+    "t": 113.01
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Méi wéi eng op dräi. An dat setzt Lëtzebuerg op déi véiert Plaz a ganz Europa. Et gëtt souguer all Joer en internationalen Dag vum Benevolat, de fënnefte Dezember.",
-    "t": 153.48
+    "t": 116.17
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also ass et wierklech en Deel vun der Kultur hei.",
-    "t": 164.74
+    "t": 125.23
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Dat ass et wierklech. An et gëtt eppes Schéines — wann Dir Benevolat maacht, gewannt Dir och eppes fir Iech selwer. Dir léiert nei Kompetenzen, Dir gitt méi sécher, méi onofhängeg. Dir léiert, an engem Team ze schaffen. Also gitt Dir Är Zäit, mä Dir wuesst och.",
-    "t": 167.66
+    "t": 127.37
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Wonnerschéin. Okay — wéi ass de Benevolat hei zu Lëtzebuerg organiséiert?",
-    "t": 184.96
+    "t": 140.93
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Déi zentral Plaz, déi Dir kenne musst, ass d'Agence du Bénévolat. Zanter 2002 ass et hir Aufgab, de Benevolat zu Lëtzebuerg ze promouvéieren an z'entwéckelen. An dat Nëtzlechst fir en Nolauschterer ass hir Websäit — benevolat.lu.",
-    "t": 191.06
+    "t": 145.49
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "benevolat.lu. Super! A wat fannen ech op där Säit?",
-    "t": 207.89
+    "t": 160.95
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et ass eng Treffplaz. Op der enger Säit d'Organisatiounen, d'Gemengen oder d'Firmen, déi Hëllef sichen. Op der anerer Säit Leit wéi Dir an ech, déi e bësse Zäit gi wëllen. D'Plattform bréngt déi zwou Säiten zesummen. Si hu souguer en intelligente Matching-System derbäigesat — e kuckt Är Interessen an Är Kompetenzen, a proposéiert Iech Missiounen, déi Iech kéinten interesséieren.",
-    "t": 215.04
+    "t": 164.58
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "An ass d'Auswiel grouss?",
-    "t": 237.73
+    "t": 184.78
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ganz grouss. Gesondheet. Humanitär Hëllef. Ëmwelt. Zesummeliewen — Solidaritéit an Inklusioun. Kultur. Educatioun. Sozial a relational Aarbecht. Fräizäit. Sport. Déieren. Noutfallhëllef. Zum Beispill: hannert all Sportsveräin zu Lëtzebuerg stinn Benevollen, déi en um Lafen halen. An an e puer Spideeler sinn d'Benevollen einfach do, no bei de Patienten. Fir ze schwätzen. Fir Gesellschaft ze leeschten.",
-    "t": 239.9
+    "t": 186.27
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Dat ass léif. Einfach fir een do sinn.",
-    "t": 281.02
+    "t": 212.38
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "An et ass iwwerall am Land. D'Plattform deckt all Regiounen of — vun der Stad Lëtzebuerg, iwwer Esch, bis Dikrech a Wolz. Et gëtt souguer eng Kaart, sou datt Dir eppes no bei doheem fanne kënnt.",
-    "t": 285.52
-   },
-   {
-    "speaker": "Anna",
-    "text": "Okay Tom — dat hei ass den Deel, deen ech wierklech ënnersträiche wëll. Well verschidde Leit héieren \"Benevolat\" a kréien Angscht. Si denken: \"Ech hu keng Zäit. Ech kann mech net fir Joren engagéieren.\"",
-    "t": 298.18
+    "t": 214.93
    },
    {
     "speaker": "Tom",
+    "text": "Okay Anna — dat hei ass den Deel, deen ech wierklech ënnersträiche wëll. Well verschidde Leit héieren \"Benevolat\" a kréien Angscht. Si denken: \"Ech hu keng Zäit. Ech kann mech net fir Joren engagéieren.\"",
+    "t": 226.13
+   },
+   {
+    "speaker": "Anna",
     "text": "Jo — an dat ass sou wichteg. Also loosst mech ganz kloer sinn. Dir musst Iech NET fir laang engagéieren. Denkt un d'Definitioun — Dir gitt d'Zäit, déi Dir wëllt. E bëssen, vill, oder mat Passioun. Et ass Är Wiel.",
-    "t": 311.52
+    "t": 236.35
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also gëtt et kuerz Missiounen? Eemoleg Saachen?",
-    "t": 329.52
-   },
-   {
-    "speaker": "Tom",
-    "text": "Jo — ganz vill. Op benevolat.lu si vill Missiounen just fir een eenzegt Evenement, oder een eenzegen Dag. Richteg Beispiller, déi elo grad um Site stinn: e Weekend bei engem Turngala hëllefen. Een Dag Commissaire bei engem Vëlosrennen sinn. De Grill op engem Summerfest bedéngen. Chrëschtdekoratioune bastelen.",
-    "t": 334.07
+    "t": 251.17
    },
    {
     "speaker": "Anna",
+    "text": "Jo — ganz vill. Op benevolat.lu si vill Missiounen just fir een eenzegt Evenement, oder een eenzegen Dag. Zum Beispill: e Weekend bei engem Sportsgala hëllefen. Een Dag Commissaire bei engem Vëlosrennen sinn. Bei engem Summerfest mat upaken. Oder Chrëschtdekoratioune bastelen.",
+    "t": 253.68
+   },
+   {
+    "speaker": "Tom",
     "text": "Also kleng, konkret Saachen. E puer Stonnen. Een Dag. E Weekend.",
-    "t": 357.34
+    "t": 271.05
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genee. Dir kënnt een Nomëtteg hëllefen, an dat ass schonn immens. Dir ënnerschreift kee Kontrakt fir zéng Joer. Dir gitt ee Moment vun Ärer Zäit, an et hëlleft wierklech.",
-    "t": 366.03
+    "t": 274.95
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Okay. Ech si iwwerzeegt. Wéi fänken ech elo konkret un? Schrëtt fir Schrëtt.",
-    "t": 379.39
+    "t": 285.36
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "D'Agence proposéiert eng einfach Method. Schrëtt eent — denkt fir d'éischt driwwer no, wat Iech gefält. Maacht eng kleng Lëscht. Wéi eng Saach beréiert Iech? Déieren, Kanner bei der Schoul hëllefen, d'Ëmwelt? Wéi eng Zort Aktivitéit — Leit empfänken, eppes Manuelles oder Kreatives? Wéi engem Grupp wëllt Dir hëllefen — Kanner, eeler Leit, Leit mat enger Behënnerung? A schlussendlech: wou, a wéi vill Zäit Dir gi wëllt.",
-    "t": 387.62
+    "t": 289.35
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ah, clever. Also verstinn ech fir d'éischt, wat zu mir passt.",
-    "t": 417.22
+    "t": 316.67
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genee. Well e glécklechen Benevole ass een, deen eppes mécht, wat him Freed mécht. Schrëtt zwee — Dir gitt op benevolat.lu an Dir mellt Iech um Portal un. Et ass gratis. Da kuckt Dir duerch de Répertoire vun de Missiounen, Dir filtert no Regioun oder Beräich, a wann Dir eng fannt, déi Iech gefält, bitt Dir Är Hëllef direkt un. D'Organisatioun, d'Gemeng oder d'Firma kontaktéiert Iech dann.",
-    "t": 422.36
+    "t": 319.55
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also dräi Beweegungen. Iwwerleeën, wat mir gefält. Mech op benevolat.lu umellen. Meng Hëllef ubidden.",
-    "t": 447.45
+    "t": 342.58
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Dat ass et. A wann Dir léiwer mat engem Mënsch schwätzt, kënnt Dir d'Agence direkt kontaktéieren — si sinn op der Avenue Guillaume an der Stad Lëtzebuerg, an Dir erreecht se um Telefon op der Nummer 26 12 10.",
-    "t": 457.22
-   },
-   {
-    "speaker": "Anna",
-    "text": "Super. Okay Tom, eng kuerz Zesummefaassung?",
-    "t": 468.52
+    "t": 348.25
    },
    {
     "speaker": "Tom",
+    "text": "Super. Okay Anna, eng kuerz Zesummefaassung?",
+    "t": 359.4
+   },
+   {
+    "speaker": "Anna",
     "text": "Benevolat heescht, d'Zäit ze ginn, déi Dir wëllt, fräi, fir anere Leit ze hëllefen. Et ass wichteg, well et eis Gesellschaft zesummenhält — an zu Lëtzebuerg mécht méi wéi eng Persoun op dräi et. Déi zentral Plaz ass d'Agence du Bénévolat, an hir Websäit benevolat.lu, wou Associatiounen a Benevollen sech treffen, an all Regioun.",
-    "t": 473
+    "t": 361.63
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "An dee wichtegste Message vun haut?",
-    "t": 492.32
+    "t": 382.95
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Dir braucht keen laangt Engagement. Et gi kuerz Missiounen — een Nomëtteg, een Dag, een Evenement. Fir unzefänken: iwwerleet, wat Iech Freed mécht, mellt Iech op benevolat.lu un, a bitt Är Hëllef un.",
-    "t": 495.19
-   },
-   {
-    "speaker": "Anna",
-    "text": "Also... hutt keng Angscht, et ze probéieren. Souguer eng kleng Aktioun mécht en Ënnerscheed — an et ass eng wonnerbar Manéier, fir Leit kennenzeléieren an Iech als Deel vu Lëtzebuerg ze fillen.",
-    "t": 508.78
+    "t": 384.9
    },
    {
     "speaker": "Tom",
-    "text": "Wierklech. Fänkt kleng un. Een Nomëtteg. Dir wäert gesinn.",
-    "t": 518.32
+    "text": "Also... hutt keng Angscht, et ze probéieren. Souguer eng kleng Aktioun mécht en Ënnerscheed — an et ass eng wonnerbar Manéier, fir Leit kennenzeléieren an Iech als Deel vu Lëtzebuerg ze fillen.",
+    "t": 397.81
    },
    {
     "speaker": "Anna",
-    "text": "Dat war eis Episod iwwer de Benevolat zu Lëtzebuerg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt.",
-    "t": 526.2
+    "text": "Wierklech. Fänkt kleng un. Een Nomëtteg. Dir wäert gesinn. Dat war eis Episod iwwer de Benevolat zu Lëtzebuerg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 406.4
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 555.68
+    "t": 455.73
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 561.02
+    "t": 459.03
    }
   ],
   "audio_fr": "../../podcast_benevolat_fr.mp3",
-  "duration_fr": 574.75,
+  "duration_fr": 431.83,
   "title_fr": "Le bénévolat au Luxembourg – Donnez le temps que vous voulez",
   "description_fr": "Une façon flexible et enrichissante de rencontrer des gens et de donner quelque chose à sa communauté. Ce que le bénévolat signifie vraiment et pourquoi il compte au Luxembourg, où environ 35 % des gens y participent. Comment l'Agence du Bénévolat et la plateforme benevolat.lu vous mettent en relation avec les organisations — avec un système de mise en relation intelligent et des missions dans toutes les régions — comment vous pouvez commencer par des missions courtes et ponctuelles, sans engagement à long terme, et trois étapes simples pour débuter.",
   "topics_fr": [
@@ -2749,7 +2709,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "../../podcast_benevolat_de.mp3",
-  "duration_de": 648.26,
+  "duration_de": 538.18,
   "title_de": "Freiwilligenarbeit in Luxemburg – Schenken Sie die Zeit, die Sie möchten",
   "description_de": "Eine flexible, bereichernde Möglichkeit, Menschen kennenzulernen und der Gemeinschaft etwas zurückzugeben. Was Freiwilligenarbeit wirklich bedeutet und warum sie in Luxemburg wichtig ist, wo rund 35 % der Menschen mitmachen. Wie die Agence du Bénévolat und die Plattform benevolat.lu Sie mit Organisationen verbinden — mit einem intelligenten Matching-System und Einsätzen in jeder Region — wie Sie mit kurzen, einmaligen Einsätzen und ohne langfristige Verpflichtung anfangen können, und drei einfache Schritte für den Start.",
   "topics_de": [

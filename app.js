@@ -46,6 +46,8 @@ const I18N = {
     script_title: '📝 Episode script',
     autoscroll: 'Auto-scroll with audio',
     lang_note_tmpl: 'The audio is in {lang}. This script is shown for reading along.',
+    status_in_progress: 'In progress',
+    in_progress_note: 'This episode is still in progress: the audio and the script are not final yet and may still change.',
     topics_title: '📋 Topics in this episode',
     quiz_cta_h2: 'Ready for the quiz?',
     quiz_cta_p: 'Answer 5 questions about this episode. All answers must be correct to earn your personal certificate of participation.',
@@ -103,6 +105,8 @@ const I18N = {
     script_title: '📝 Script de l’épisode',
     autoscroll: 'Défilement automatique avec l’audio',
     lang_note_tmpl: 'L’audio est en {lang}. Ce script est affiché pour suivre la lecture.',
+    status_in_progress: 'En cours',
+    in_progress_note: 'Cet épisode est encore en cours de préparation : l’audio et le script ne sont pas encore définitifs et peuvent encore changer.',
     topics_title: '📋 Sujets de cet épisode',
     quiz_cta_h2: 'Prêt pour le quiz ?',
     quiz_cta_p: 'Répondez à 5 questions sur cet épisode. Toutes les réponses doivent être correctes pour obtenir votre certificat de participation personnel.',
@@ -160,6 +164,8 @@ const I18N = {
     script_title: '📝 Skript der Folge',
     autoscroll: 'Automatisch mit dem Audio scrollen',
     lang_note_tmpl: 'Das Audio ist auf {lang}. Dieses Skript dient zum Mitlesen.',
+    status_in_progress: 'In Bearbeitung',
+    in_progress_note: 'Diese Folge ist noch in Bearbeitung: Audio und Skript sind noch nicht endgültig und können sich noch ändern.',
     topics_title: '📋 Themen dieser Folge',
     quiz_cta_h2: 'Bereit für das Quiz?',
     quiz_cta_p: 'Beantworten Sie 5 Fragen zu dieser Folge. Alle Antworten müssen richtig sein, um Ihr persönliches Teilnahmezertifikat zu erhalten.',
@@ -217,6 +223,8 @@ const I18N = {
     script_title: '📝 Skript vun der Episode',
     autoscroll: 'Automatesch mam Audio scrollen',
     lang_note_tmpl: 'Den Audio ass op {lang}. Dëse Skript gëtt fir matzelauschteren ugewisen.',
+    status_in_progress: 'Am Gaang',
+    in_progress_note: 'Dës Episod ass nach a Bearbechtung: den Audio an de Skript sinn nach net definitiv a kënne sech nach änneren.',
     topics_title: '📋 Themen an dëser Episode',
     quiz_cta_h2: 'Prett fir de Quiz?',
     quiz_cta_p: 'Beäntwert 5 Froen zu dëser Episode. All Äntwerte musse richteg sinn fir Äre perséinleche Participatiouns-Certificat ze kréien.',
@@ -419,9 +427,11 @@ function renderEpisodeList() {
       return '<span class="cat-tag">' + esc(catLabel(c)) + '</span>';
     }).join('');
     var card = document.createElement('div');
-    card.className = 'ep-list-card';
+    var inProgress = ep.status === 'in_progress';
+    card.className = 'ep-list-card' + (inProgress ? ' in-progress' : '');
     card.innerHTML =
-      '<div class="ep-list-badge">' + esc(epNumber(ep)) + '</div>' +
+      '<div class="ep-list-badges"><span class="ep-list-badge">' + esc(epNumber(ep)) + '</span>' +
+      (inProgress ? '<span class="ep-status-badge">' + esc(t('status_in_progress')) + '</span>' : '') + '</div>' +
       '<div class="ep-list-title">' + esc(epField(ep, 'title')) + '</div>' +
       '<div class="ep-list-desc">' + esc(epField(ep, 'description')) + '</div>' +
       '<div class="cat-tags">' + tags + '</div>' +
@@ -447,6 +457,12 @@ function renderEpisodeDetail() {
   document.getElementById('ep-badge').textContent = epNumber(ep);
   document.getElementById('ep-title').textContent = epField(ep, 'title');
   document.getElementById('ep-description').textContent = epField(ep, 'description');
+  // Episodes not finalised yet (status: 'in_progress') show a notice for reviewers/listeners.
+  var note = document.getElementById('ep-status-note');
+  if (note) {
+    note.hidden = ep.status !== 'in_progress';
+    note.textContent = ep.status === 'in_progress' ? '⏳ ' + t('in_progress_note') : '';
+  }
 
   // Audio for the current language (falls back to English when no native track exists).
   var audio = document.getElementById('ep-audio');

@@ -2701,6 +2701,7 @@ const EPISODES = [
   "categories": [
    "health",
    "digital"
-  ]
+  ],
+  "status": "in_progress"
  }
 ];
