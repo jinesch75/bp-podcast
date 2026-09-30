@@ -21,7 +21,7 @@ Setup
   Voices per language (defaults, names as in "My Voices"):
       en  Anna = Elizabeth   Tom = James
       fr  Anna = Lucie       Tom = Marcel
-      de  Anna = Lola        Tom = Felix
+      de  Anna = Lola        Tom = Benjamin
       lb  uses the English pair unless overridden
   Optional overrides in .env, per language:
       ANNA_VOICE_FR=Lucie       TOM_VOICE_FR=Marcel      (names)
@@ -46,7 +46,7 @@ CONFIRM_ABOVE = 3000  # credits
 DEFAULT_VOICES = {
     "en": {"Anna": "Elizabeth", "Tom": "James"},
     "fr": {"Anna": "Lucie",     "Tom": "Marcel"},
-    "de": {"Anna": "Lola",      "Tom": "Felix"},
+    "de": {"Anna": "Lola",      "Tom": "Benjamin"},  # Benjamin chosen over Felix 2026-09-30
 }
 VOICE_SETTINGS = {"stability": 0.5, "similarity_boost": 0.75, "style": 0.0,
                   "use_speaker_boost": True, "speed": 1.0}

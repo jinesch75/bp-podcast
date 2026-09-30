@@ -148,7 +148,7 @@ Each episode has a `categories` array of tag ids. The episode-list screen shows 
 Jacques has an ElevenLabs Pro licence. `build/tts_elevenlabs.py` replaces edge-tts for new recordings and keeps the same pipeline (per-sentence mp3 + `meta.json` → `build/rebuild.py` PCM assembly → sample-accurate `segdata_fixed.json`).
 
 - **API key:** `ELEVENLABS_API_KEY=...` in `.env` at the project root. `.env` is git-ignored (the repo is PUBLIC) — never commit it, never paste the key in chat.
-- **Hosts (native voice per language, chosen by Jacques 2026-09-29):** EN Anna = **Elizabeth**, Tom = **James** · FR Anna = **Lucie**, Tom = **Marcel** · DE Anna = **Lola**, Tom = **Felix** · LB falls back to the English pair. Resolved by name from "My Voices" (library voices must be added to My Voices first). Per-language overrides in `.env`: `ANNA_VOICE_FR=…` / `TOM_VOICE_ID_DE=…` etc.
+- **Hosts (native voice per language, chosen by Jacques 2026-09-29):** EN Anna = **Elizabeth**, Tom = **James** · FR Anna = **Lucie**, Tom = **Marcel** · DE Anna = **Lola**, Tom = **Benjamin** ("Efficient & Intelligent Agent"; replaced Felix 2026-09-30, used for all German episodes) · LB falls back to the English pair. Resolved by name from "My Voices" (library voices must be added to My Voices first). Per-language overrides in `.env`: `ANNA_VOICE_FR=…` / `TOM_VOICE_ID_DE=…` etc.
 - **Model:** `eleven_multilingual_v2` for en/fr/de (with previous/next-sentence context for natural flow); `eleven_v3` for **lb** — Luxembourgish is supported, so LB can get native audio for the first time (have a native speaker check it).
 - **Commands (run from project root):**
   - Test: `python3 build/tts_elevenlabs.py <key> <lang> --first 25` → `build/el_test/<key>_<lang>_first25.mp3` (≈1,400 credits).
