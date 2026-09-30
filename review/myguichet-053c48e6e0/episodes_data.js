@@ -741,7 +741,7 @@ const EPISODES = [
      "Only an email address and a mobile phone number – no identification number or secure login is needed"
     ],
     "correct": 0,
-    "explanation": "To register you must be at least 16, have your 13-digit matricule (on your social security card), an email address, a device, and a secure way to prove your identity online."
+    "explanation": "To register you must be at least 16, have your 13-digit matricule (on your social security card), an email address, a computer (a laptop or desktop for the first registration), and a secure way to prove your identity online."
    },
    {
     "text": "Which secure logins can you use for MyGuichet.lu?",
@@ -2410,7 +2410,7 @@ const EPISODES = [
      "Seulement une adresse e-mail et un numéro de portable – aucun numéro d'identification ni connexion sécurisée n'est nécessaire"
     ],
     "correct": 0,
-    "explanation": "Pour vous inscrire, vous devez avoir au moins 16 ans, posséder votre matricule à 13 chiffres (sur votre carte de sécurité sociale), une adresse e-mail, un appareil, et un moyen sécurisé de prouver votre identité en ligne."
+    "explanation": "Pour vous inscrire, vous devez avoir au moins 16 ans, posséder votre matricule à 13 chiffres (sur votre carte de sécurité sociale), une adresse e-mail, un ordinateur (portable ou fixe pour la première inscription), et un moyen sécurisé de prouver votre identité en ligne."
    },
    {
     "text": "Quels moyens de connexion sécurisés pouvez-vous utiliser pour MyGuichet.lu ?",
@@ -2479,7 +2479,7 @@ const EPISODES = [
      "Nur eine E-Mail-Adresse und eine Handynummer – eine Identifikationsnummer oder ein sicherer Login ist nicht nötig"
     ],
     "correct": 0,
-    "explanation": "Um sich zu registrieren, müssen Sie mindestens 16 Jahre alt sein und Ihr 13-stelliges Matricule (auf Ihrer Sozialversicherungskarte), eine E-Mail-Adresse, ein Gerät und eine sichere Möglichkeit haben, Ihre Identität online nachzuweisen."
+    "explanation": "Um sich zu registrieren, müssen Sie mindestens 16 Jahre alt sein und Ihr 13-stelliges Matricule (auf Ihrer Sozialversicherungskarte), eine E-Mail-Adresse, einen Computer (für die erste Registrierung einen Laptop oder Desktop-PC) und eine sichere Möglichkeit haben, Ihre Identität online nachzuweisen."
    },
    {
     "text": "Welche sicheren Anmeldemöglichkeiten können Sie für MyGuichet.lu nutzen?",
@@ -2548,7 +2548,7 @@ const EPISODES = [
      "Just eng E-Mail-Adress an eng Handysnummer – keng Identifikatiounsnummer a kee séchere Login ass néideg"
     ],
     "correct": 0,
-    "explanation": "Fir Iech anzeschreiwen, musst Dir op d'mannst 16 Joer al sinn, Äre Matricule mat 13 Zifferen hunn (op Ärer Sozialversécherungskaart), eng E-Mail-Adress, en Apparat, an e séchere Wee, fir Är Identitéit online ze beweisen."
+    "explanation": "Fir Iech anzeschreiwen, musst Dir op d'mannst 16 Joer al sinn, Äre Matricule mat 13 Zifferen hunn (op Ärer Sozialversécherungskaart), eng E-Mail-Adress, e Computer (fir déi éischt Aschreiwung e Laptop oder en Desktop), an e séchere Wee, fir Är Identitéit online ze beweisen."
    },
    {
     "text": "Wéi eng sécher Logine kënnt Dir fir MyGuichet.lu benotzen?",

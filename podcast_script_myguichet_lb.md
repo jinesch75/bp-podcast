@@ -16,7 +16,7 @@
 
 **ANNA:** Richteg. Also, Tom... loosse mer ganz vir ufänken. Wat ass MyGuichet.lu?
 
-**TOM:** Okay, also... MyGuichet.lu ass den Informatiounsportal, deen Är Kontakter mam Staat méi einfach mécht. E gëtt Iech e séieren an einfachen Zougang zu allen Informatiounen, Prozeduren a Servicer vun de Lëtzebuerger ëffentlechen Administratiounen an Organismen. En ass sécher, an en ass Är... soe mer, Är eenzeg Kontaktplaz mat den ëffentlechen Administratiounen. Also amplaz an e Büro ze goen, kënnt Dir vill administrativ Prozedure vun doheem aus maachen. Op Ärem Computer, oder op Ärem Handy.
+**TOM:** Okay, also... Guichet.lu ass d'Informatiounssäit vum Staat, a MyGuichet.lu ass säi séchere Beräich online. Zesumme ginn se Iech e séieren an einfachen Zougang zu allen Informatiounen, Prozeduren a Servicer vun de Lëtzebuerger ëffentlechen Administratiounen an Organismen. MyGuichet.lu ass sécher, an en ass Är... soe mer, Är eenzeg Kontaktplaz mat den ëffentlechen Administratiounen. Also amplaz an e Büro ze goen, kënnt Dir vill administrativ Prozedure vun doheem aus maachen. Op Ärem Computer, oder op Ärem Handy.
 
 **ANNA:** Also et ass wéi... en Online-Guichet?
 
@@ -48,7 +48,7 @@
 
 **ANNA:** De Matricule, okay. D'Grenzgänger hunn och een, oder?
 
-**TOM:** Jo, wann Dir zu Lëtzebuerg schafft, hutt Dir een. E steet zum Beispill op Ärer Sozialversécherungskaart. Da braucht Dir eng E-Mail-Adress, e Computer oder e Smartphone... an nach eppes. E Wee, fir Är Identitéit online ze beweisen.
+**TOM:** Jo, wann Dir zu Lëtzebuerg schafft, hutt Dir een. E steet zum Beispill op Ärer Sozialversécherungskaart. Da braucht Dir eng E-Mail-Adress an e Computer — fir déi éischt Aschreiwung e Laptop oder en Desktop, net Ären Handy. An nach eppes: e Wee, fir Är Identitéit online ze beweisen.
 
 **ANNA:** Ah, an hei kënnt LuxTrust an d'Spill?
 
@@ -60,7 +60,7 @@
 
 **ANNA:** eIDAS... dat ass deen europäesche System, oder? Also ech kéint zum Beispill meng belsch oder däitsch elektronesch Kaart benotzen?
 
-**TOM:** Genee. Wann Äert Land ee vun dësen nationale Systemer huet, kënnt Dir en dacks benotzen, fir Iech op MyGuichet anzeloggen. An nach eppes — verschidden einfach Prozedure funktionéiere souguer ouni Iech iwwerhaapt anzeloggen. Mä da hutt Dir manner Méiglechkeeten. Dir kënnt de Formulaire net späicheren a méi spéit weidermaachen, an Dir kënnt de Status net verfollegen. Also... e richtege Kont ze hunn ass vill besser.
+**TOM:** Genee. Wann Äert Land ee vun dësen nationale Systemer huet, kënnt Dir en dacks benotzen, fir Iech op MyGuichet anzeloggen — Äre Matricule braucht Dir awer ëmmer. Mä mat engem auslännesche Login kënnt Dir verschidde Formulairen net ënnerschreiwen, wéi Är Steiererklärung. An nach eppes — verschidden einfach Prozedure funktionéiere souguer ouni Iech iwwerhaapt anzeloggen. Mä da hutt Dir manner Méiglechkeeten. Dir kënnt de Formulaire net späicheren a méi spéit weidermaachen, an Dir kënnt de Status net verfollegen. Also... e richtege Kont ze hunn ass vill besser.
 
 **TOM:** Mä éierlech gesot, wann Dir hei wunnt oder schafft, ass LuxTrust Mobile deen einfache Wee. Dir installéiert d'App eemol, an... dat war et. A wann Dir se schonn fir Är Bank benotzt, kënnt Dir déiselwecht benotzen.
 
@@ -70,7 +70,7 @@
 
 **ANNA:** Perfekt. Elo... vu wéi enge Prozedure schwätze mer? Wéi eng Beräicher?
 
-**TOM:** Bal alles am deegleche Liewen, wierklech. Loosse mer kucken... Citoyennetéit — also Identitéitskaart, Pass, Casier judiciaire. An hei ass eng flott Saach: als auslännesche Resident kënnt Dir Iech op d'Wielerlëschten aschreiwen — sou datt Dir bei de Gemengewalen, an och bei den Europawale wiele kënnt. Dann Immigratioun — Openthaltstitelen, zum Beispill. Ganz wichteg, wann Dir ukommt. Da Famill an Educatioun... Steieren — jo, Dir kënnt Är Steiererklärung online maachen. Transport — Äre Führerschäin, en Auto umellen. Gesondheet a Sozialversécherung. Wunnen. Finanziell Hëllefen. Aarbecht a Pensioun... a souguer Fräizäit, wéi d'Aschreiwung an der Nationalbibliothéik.
+**TOM:** Bal alles am deegleche Liewen, wierklech. Loosse mer kucken... Citoyennetéit — also Identitéitskaart, Pass, Casier judiciaire. An hei ass eng flott Saach: als auslännesche Resident kënnt Dir Iech op d'Wielerlëschten aschreiwen — sou datt Dir bei de Gemengewale wiele kënnt. A wann Dir Bierger vun engem anere Land vun der EU sidd, och bei den Europawalen. Dann Immigratioun — Openthaltstitelen, zum Beispill. Ganz wichteg, wann Dir ukommt. Da Famill an Educatioun... Steieren — jo, Dir kënnt Är Steiererklärung online maachen. Transport — Äre Führerschäin, en Auto umellen. Gesondheet a Sozialversécherung. Wunnen. Finanziell Hëllefen. Aarbecht a Pensioun... a souguer Fräizäit, wéi d'Aschreiwung an der Nationalbibliothéik.
 
 **ANNA:** Wow. Sou vill Beräicher sinn ofgedeckt, alles op enger Plaz.
 

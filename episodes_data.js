@@ -742,7 +742,7 @@ const EPISODES = [
      "Only an email address and a mobile phone number – no identification number or secure login is needed"
     ],
     "correct": 0,
-    "explanation": "To register you must be at least 16, have your 13-digit matricule (on your social security card), an email address, a device, and a secure way to prove your identity online."
+    "explanation": "To register you must be at least 16, have your 13-digit matricule (on your social security card), an email address, a computer (a laptop or desktop for the first registration), and a secure way to prove your identity online."
    },
    {
     "text": "Which secure logins can you use for MyGuichet.lu?",
@@ -2411,7 +2411,7 @@ const EPISODES = [
      "Seulement une adresse e-mail et un numéro de portable – aucun numéro d'identification ni connexion sécurisée n'est nécessaire"
     ],
     "correct": 0,
-    "explanation": "Pour vous inscrire, vous devez avoir au moins 16 ans, posséder votre matricule à 13 chiffres (sur votre carte de sécurité sociale), une adresse e-mail, un appareil, et un moyen sécurisé de prouver votre identité en ligne."
+    "explanation": "Pour vous inscrire, vous devez avoir au moins 16 ans, posséder votre matricule à 13 chiffres (sur votre carte de sécurité sociale), une adresse e-mail, un ordinateur (portable ou fixe pour la première inscription), et un moyen sécurisé de prouver votre identité en ligne."
    },
    {
     "text": "Quels moyens de connexion sécurisés pouvez-vous utiliser pour MyGuichet.lu ?",
@@ -2480,7 +2480,7 @@ const EPISODES = [
      "Nur eine E-Mail-Adresse und eine Handynummer – eine Identifikationsnummer oder ein sicherer Login ist nicht nötig"
     ],
     "correct": 0,
-    "explanation": "Um sich zu registrieren, müssen Sie mindestens 16 Jahre alt sein und Ihr 13-stelliges Matricule (auf Ihrer Sozialversicherungskarte), eine E-Mail-Adresse, ein Gerät und eine sichere Möglichkeit haben, Ihre Identität online nachzuweisen."
+    "explanation": "Um sich zu registrieren, müssen Sie mindestens 16 Jahre alt sein und Ihr 13-stelliges Matricule (auf Ihrer Sozialversicherungskarte), eine E-Mail-Adresse, einen Computer (für die erste Registrierung einen Laptop oder Desktop-PC) und eine sichere Möglichkeit haben, Ihre Identität online nachzuweisen."
    },
    {
     "text": "Welche sicheren Anmeldemöglichkeiten können Sie für MyGuichet.lu nutzen?",
@@ -2549,7 +2549,7 @@ const EPISODES = [
      "Just eng E-Mail-Adress an eng Handysnummer – keng Identifikatiounsnummer a kee séchere Login ass néideg"
     ],
     "correct": 0,
-    "explanation": "Fir Iech anzeschreiwen, musst Dir op d'mannst 16 Joer al sinn, Äre Matricule mat 13 Zifferen hunn (op Ärer Sozialversécherungskaart), eng E-Mail-Adress, en Apparat, an e séchere Wee, fir Är Identitéit online ze beweisen."
+    "explanation": "Fir Iech anzeschreiwen, musst Dir op d'mannst 16 Joer al sinn, Äre Matricule mat 13 Zifferen hunn (op Ärer Sozialversécherungskaart), eng E-Mail-Adress, e Computer (fir déi éischt Aschreiwung e Laptop oder en Desktop), an e séchere Wee, fir Är Identitéit online ze beweisen."
    },
    {
     "text": "Wéi eng sécher Logine kënnt Dir fir MyGuichet.lu benotzen?",
@@ -3667,12 +3667,12 @@ const EPISODES = [
     "text": "Which statement about LuxTrust and security is correct?",
     "options": [
      "LuxTrust may call you on the phone to ask for your password, to check that your account is still secure",
-     "LuxTrust will never ask for your codes or credentials, never ask to access your device, and never visit your home",
+     "LuxTrust will never ask for your codes or credentials, never call you for sensitive data, and never visit your home",
      "You can safely share your codes with your bank adviser or a family member, as long as they are helping you set things up",
      "LuxTrust staff may visit your home to help you install the app, and ask to use your device for a moment"
     ],
     "correct": 1,
-    "explanation": "LuxTrust never asks for your codes or credentials, never requests access to your computer or phone, and never visits your home. Keep your credentials to yourself and, if in doubt, check the official website."
+    "explanation": "LuxTrust never asks for your codes or credentials, never calls you to ask for sensitive information, never asks you to confirm a payment or banking operation, and never visits your home. Keep your credentials to yourself and, if in doubt, check the official website."
    }
   ],
   "segments_fr": [
@@ -6089,12 +6089,12 @@ const EPISODES = [
     "text": "Quelle affirmation au sujet de LuxTrust et de la sécurité est correcte ?",
     "options": [
      "LuxTrust peut vous appeler pour vous demander votre mot de passe, afin de vérifier que votre compte est toujours sûr",
-     "LuxTrust ne vous demandera jamais vos codes ou identifiants, ne demandera jamais à accéder à votre appareil, et ne se rendra jamais à votre domicile",
+     "LuxTrust ne vous demandera jamais vos codes, ne vous appellera jamais pour des données sensibles et ne viendra jamais chez vous",
      "Vous pouvez partager sans risque vos codes avec votre conseiller bancaire ou un proche, tant qu'ils vous aident à tout installer sur votre téléphone",
      "Des employés de LuxTrust peuvent venir chez vous pour installer l'application et utiliser votre appareil un moment"
     ],
     "correct": 1,
-    "explanation": "LuxTrust ne demande jamais vos codes ou identifiants, ne demande jamais à accéder à votre ordinateur ou à votre téléphone, et ne se rend jamais à votre domicile. Gardez vos identifiants pour vous et, en cas de doute, consultez le site internet officiel."
+    "explanation": "LuxTrust ne demande jamais vos codes ou identifiants, ne vous appelle jamais pour demander des informations sensibles, ne vous demande jamais de confirmer un paiement ou une opération bancaire, et ne se rend jamais à votre domicile. Gardez vos identifiants pour vous et, en cas de doute, consultez le site internet officiel."
    }
   ],
   "audio_de": "podcast_luxtrust_de.mp3",
@@ -6160,12 +6160,12 @@ const EPISODES = [
     "text": "Welche Aussage über LuxTrust und Sicherheit ist richtig?",
     "options": [
      "LuxTrust ruft Sie eventuell an, um Ihr Passwort abzufragen und zu prüfen, ob Ihr Konto noch sicher ist",
-     "LuxTrust fragt niemals nach Ihren Codes oder Zugangsdaten, verlangt niemals Zugriff auf Ihr Gerät und kommt niemals zu Ihnen nach Hause",
+     "LuxTrust fragt niemals nach Ihren Codes, ruft Sie niemals wegen sensibler Daten an und kommt niemals zu Ihnen nach Hause",
      "Sie können Ihre Codes bedenkenlos an Ihren Bankberater oder ein Familienmitglied weitergeben, solange diese Ihnen beim Einrichten helfen",
      "LuxTrust-Mitarbeiter können zu Ihnen nach Hause kommen, um die App zu installieren, und kurz Ihr Gerät benutzen"
     ],
     "correct": 1,
-    "explanation": "LuxTrust fragt niemals nach Ihren Codes oder Zugangsdaten, verlangt niemals Zugriff auf Ihren Computer oder Ihr Handy und kommt niemals zu Ihnen nach Hause. Behalten Sie Ihre Zugangsdaten für sich und prüfen Sie im Zweifelsfall die offizielle Webseite."
+    "explanation": "LuxTrust fragt niemals nach Ihren Codes oder Zugangsdaten, ruft Sie niemals an, um nach sensiblen Informationen zu fragen, bittet Sie niemals, eine Zahlung oder Bankoperation zu bestätigen, und kommt niemals zu Ihnen nach Hause. Behalten Sie Ihre Zugangsdaten für sich und prüfen Sie im Zweifelsfall die offizielle Webseite."
    }
   ],
   "categories": [
@@ -7025,7 +7025,7 @@ const EPISODES = [
      "Yes, at least three months, with a signed contract and a fixed number of hours every single week"
     ],
     "correct": 1,
-    "explanation": "You do not need a long commitment. Many missions on benevolat.lu are for a single event or a single day – helping at a gala, marshalling a race, manning a barbecue – so anyone with a busy life can take part."
+    "explanation": "You do not need a long commitment. Many missions on benevolat.lu are for a single event or a single day – helping at a gala, marshalling a race, helping at a summer party – so anyone with a busy life can take part."
    },
    {
     "text": "What simple method does the episode suggest for getting started as a volunteer?",
@@ -8907,7 +8907,7 @@ const EPISODES = [
      "Oui, au moins trois mois, avec un contrat signé et un nombre d'heures fixe chaque semaine"
     ],
     "correct": 1,
-    "explanation": "Vous n'avez pas besoin d'un engagement long. Beaucoup de missions sur benevolat.lu concernent un seul événement ou une seule journée – aider à un gala, être signaleur pour une course, tenir un barbecue – donc toute personne avec une vie bien remplie peut participer."
+    "explanation": "Vous n'avez pas besoin d'un engagement long. Beaucoup de missions sur benevolat.lu concernent un seul événement ou une seule journée – aider à un gala, être signaleur pour une course, donner un coup de main à une fête d'été – donc toute personne avec une vie bien remplie peut participer."
    },
    {
     "text": "Quelle méthode simple l'épisode propose-t-il pour commencer le bénévolat ?",
@@ -8978,7 +8978,7 @@ const EPISODES = [
      "Ja, mindestens drei Monate, mit einem unterschriebenen Vertrag und einer festen Stundenzahl jede Woche"
     ],
     "correct": 1,
-    "explanation": "Sie brauchen keine langfristige Verpflichtung. Viele Einsätze auf benevolat.lu gelten für eine einzige Veranstaltung oder einen einzigen Tag – bei einer Gala helfen, Streckenposten bei einem Rennen sein, den Grill übernehmen – so kann jeder mit einem vollen Alltag mitmachen."
+    "explanation": "Sie brauchen keine langfristige Verpflichtung. Viele Einsätze auf benevolat.lu gelten für eine einzige Veranstaltung oder einen einzigen Tag – bei einer Gala helfen, Streckenposten bei einem Rennen sein, bei einem Sommerfest mithelfen – so kann jeder mit einem vollen Alltag mitmachen."
    },
    {
     "text": "Welche einfache Methode schlägt die Folge vor, um als Freiwilliger anzufangen?",
@@ -9050,7 +9050,7 @@ const EPISODES = [
      "Jo, op d'mannst dräi Méint, mat engem ënnerschriwwene Kontrakt an enger fixer Zuel u Stonnen all Woch"
     ],
     "correct": 1,
-    "explanation": "Dir braucht kee laangt Engagement. Vill Missiounen op benevolat.lu si fir een eenzegt Evenement oder een eenzegen Dag – bei engem Gala hëllefen, Commissaire bei engem Rennen sinn, de Grill bedéngen – sou datt jiddereen mat engem voller Alldag ka matmaachen."
+    "explanation": "Dir braucht kee laangt Engagement. Vill Missiounen op benevolat.lu si fir een eenzegt Evenement oder een eenzegen Dag – bei engem Gala hëllefen, Commissaire bei engem Rennen sinn, bei engem Summerfest mat upaken – sou datt jiddereen mat engem voller Alldag ka matmaachen."
    },
    {
     "text": "Wéi eng einfach Method proposéiert d'Episod, fir als Benevole unzefänken?",
@@ -14989,7 +14989,7 @@ const EPISODES = [
      "Only university students in Luxembourg who show their student card and a letter from their professor"
     ],
     "correct": 1,
-    "explanation": "You must live in Luxembourg and meet one condition – for example your household receives the cost-of-living allowance (allocation de vie chère), you are a refugee (asylum seeker, temporary protection, unaccompanied minor), you hold a 'Vie Privée' residence permit, or you are in a debt-settlement procedure. The average waiting time is currently under a month."
+    "explanation": "You must live in Luxembourg and meet one condition – for example your household receives the cost-of-living allowance (allocation de vie chère), or you are an asylum seeker or under temporary protection. See digital-inclusion.lu for the full, current conditions and waiting times."
    },
    {
     "text": "What is the 'Open Classroom'?",
@@ -15497,7 +15497,7 @@ const EPISODES = [
      "Seulement les étudiants inscrits au Luxembourg, qui doivent présenter leur carte d'étudiant et une lettre de recommandation de leur professeur"
     ],
     "correct": 1,
-    "explanation": "Vous devez vivre au Luxembourg et remplir une condition – par exemple votre ménage perçoit l'allocation de vie chère (AVC), vous êtes réfugié (demandeur d'asile, protection temporaire, mineur non accompagné), vous détenez un titre de séjour « Vie Privée », ou vous êtes engagé dans une procédure de règlement collectif des dettes. Le délai d'attente moyen est actuellement de moins d'un mois."
+    "explanation": "Vous devez vivre au Luxembourg et remplir une condition – par exemple votre ménage perçoit l'allocation de vie chère (AVC), ou vous êtes demandeur d'asile ou sous protection temporaire. Consultez digital-inclusion.lu pour les conditions complètes et actuelles et les délais d'attente."
    },
    {
     "text": "Qu'est-ce que l'« Open Classroom » ?",
@@ -15568,7 +15568,7 @@ const EPISODES = [
      "Nur Studierende an Hochschulen in Luxemburg, die ihren Studentenausweis und einen Empfehlungsbrief ihres Professors vorlegen"
     ],
     "correct": 1,
-    "explanation": "Sie müssen in Luxemburg leben und eine Bedingung erfüllen – zum Beispiel bezieht Ihr Haushalt die Teuerungszulage (allocation de vie chère), Sie sind Flüchtling (Asylsuchender, vorübergehender Schutz, unbegleiteter Minderjähriger), Sie besitzen einen Aufenthaltstitel „Vie Privée“ oder Sie befinden sich in einem Schuldenregulierungsverfahren. Die durchschnittliche Wartezeit beträgt derzeit unter einem Monat."
+    "explanation": "Sie müssen in Luxemburg leben und eine Bedingung erfüllen – zum Beispiel bezieht Ihr Haushalt die Teuerungszulage (allocation de vie chère), oder Sie sind Asylsuchender oder stehen unter vorübergehendem Schutz. Die vollständigen, aktuellen Bedingungen und Wartezeiten finden Sie auf digital-inclusion.lu."
    },
    {
     "text": "Was ist das „Open Classroom“?",
@@ -19950,12 +19950,12 @@ const EPISODES = [
     "text": "For a normal visit to the doctor, how does payment usually work with the CNS?",
     "options": [
      "The CNS pays you in cash at the reception desk, and the doctor then sends the bill to your employer",
-     "You pay the full price first, then the CNS reimburses most of it (around 80–100%) into your bank account",
+     "Either you pay only your share (immediate direct payment), or you pay first and the CNS reimburses most of it",
      "The visit is always completely free, because the CNS pays the doctor directly for every consultation",
      "You pay nothing at the doctor's, and the CNS later deducts the whole cost of the visit from your monthly salary"
     ],
     "correct": 1,
-    "explanation": "Luxembourg traditionally works by reimbursement: you pay the doctor first, send the paid invoice to the CNS, and they pay most of it back into your bank account, usually within about three weeks."
+    "explanation": "About half of doctors now use immediate direct payment: you pay only your own share and the CNS pays the doctor the rest. Otherwise you pay first, send the invoice to the CNS, and it reimburses most of it (around 80–100%) – usually within a few weeks for a paper bill, or a few days for a digital one."
    },
    {
     "text": "What is “tiers payant” (third-party payment), for example at the pharmacy?",
@@ -21724,12 +21724,12 @@ const EPISODES = [
     "text": "Pour une visite normale chez le médecin, comment fonctionne généralement le paiement avec la CNS ?",
     "options": [
      "La CNS vous paie en espèces à l'accueil, puis le médecin envoie la facture à votre employeur",
-     "Vous payez d'abord le prix complet, puis la CNS vous rembourse la plus grande partie (environ 80 à 100 %) sur votre compte bancaire",
+     "Soit vous ne payez que votre part (paiement immédiat direct), soit vous payez d'abord et la CNS vous rembourse la plus grande partie",
      "La visite est toujours entièrement gratuite, car la CNS paie directement le médecin pour chaque consultation",
      "Vous ne payez rien chez le médecin, et la CNS retient ensuite la totalité du coût de la visite directement sur votre salaire du mois suivant"
     ],
     "correct": 1,
-    "explanation": "Le Luxembourg fonctionne traditionnellement par remboursement : vous payez d'abord le médecin, vous envoyez la facture acquittée à la CNS, et elle vous rembourse la plus grande partie sur votre compte bancaire, en général en moins de trois semaines."
+    "explanation": "Environ la moitié des médecins utilisent désormais le paiement immédiat direct : vous ne payez que votre part et la CNS paie le reste au médecin. Sinon, vous payez d'abord, vous envoyez la facture à la CNS, et elle vous rembourse la plus grande partie (environ 80 à 100 %) – en général en quelques semaines pour une facture papier, ou en quelques jours pour une facture digitale."
    },
    {
     "text": "Qu'est-ce que le « tiers payant », par exemple à la pharmacie ?",
@@ -21793,12 +21793,12 @@ const EPISODES = [
     "text": "Wie funktioniert die Bezahlung bei einem normalen Arztbesuch üblicherweise mit der CNS?",
     "options": [
      "Die CNS zahlt Ihnen am Empfang Bargeld aus, und der Arzt schickt die Rechnung dann an Ihren Arbeitgeber",
-     "Sie zahlen zuerst den vollen Preis, dann erstattet die CNS das meiste davon (etwa 80–100 %) auf Ihr Bankkonto",
+     "Entweder zahlen Sie nur Ihren Anteil (Direktzahlung), oder Sie zahlen zuerst und die CNS erstattet das meiste",
      "Der Besuch ist immer völlig kostenlos, weil die CNS den Arzt für jede Konsultation direkt bezahlt",
      "Sie zahlen beim Arzt nichts, und die CNS zieht die gesamten Kosten des Besuchs später von Ihrem Monatsgehalt ab"
     ],
     "correct": 1,
-    "explanation": "Luxemburg funktioniert traditionell über die Rückerstattung: Sie zahlen den Arzt zuerst, schicken die bezahlte Rechnung an die CNS, und diese zahlt das meiste davon auf Ihr Bankkonto zurück, normalerweise innerhalb von etwa drei Wochen."
+    "explanation": "Etwa die Hälfte der Ärzte nutzt inzwischen die sofortige Direktzahlung: Sie zahlen nur Ihren Anteil, und die CNS zahlt dem Arzt den Rest. Sonst zahlen Sie zuerst, schicken die Rechnung an die CNS, und diese erstattet das meiste (etwa 80–100 %) – meist innerhalb weniger Wochen bei einer Papierrechnung oder weniger Tage bei einer digitalen Rechnung."
    },
    {
     "text": "Was ist das „tiers payant“ (Drittzahlersystem), zum Beispiel in der Apotheke?",
@@ -21862,12 +21862,12 @@ const EPISODES = [
     "text": "Wéi funktionéiert d'Bezuele bei enger normaler Visite beim Dokter mat der CNS normalerweis?",
     "options": [
      "D'CNS bezilt Iech op der Receptioun cash, an den Dokter schéckt d'Rechnung duerno un Ären Employeur",
-     "Dir bezuelt fir d'éischt de vollen Präis, dann rembourséiert d'CNS dat meescht dovun (ronn 80–100%) op Äre Bankkont",
+     "Entweder just Ären Undeel (direkte Paiement), oder fir d'éischt bezuelen an d'CNS rembourséiert dat meescht",
      "De Besuch ass ëmmer ganz gratis, well d'CNS den Dokter fir all Konsultatioun direkt bezilt",
      "Dir bezuelt beim Dokter näischt, an d'CNS zitt spéider déi ganz Käschte vum Besuch direkt vun Ärem Méintsloun of"
     ],
     "correct": 1,
-    "explanation": "Lëtzebuerg funktionéiert traditionell mam Remboursement: Dir bezuelt den Dokter fir d'éischt, schéckt déi bezuelte Faktur un d'CNS, a si bezilt dat meescht dovun op Äre Bankkont zeréck, normalerweis a manner wéi dräi Wochen."
+    "explanation": "Ongeféier d'Hallschent vun den Dokteren benotzt elo den direkte Paiement: Dir bezuelt just Ären Undeel, an d'CNS bezilt dem Dokter de Rescht. Soss bezuelt Dir fir d'éischt, schéckt d'Rechnung un d'CNS, a si rembourséiert dat meescht (ronn 80–100%) – meeschtens bannent e puer Wochen fir eng Rechnung op Pabeier, oder e puer Deeg fir eng digital Rechnung."
    },
    {
     "text": "Wat ass den \"Tiers payant\", zum Beispill an der Apdikt?",
@@ -22840,7 +22840,7 @@ const EPISODES = [
      "Whenever the mobile network is down"
     ],
     "correct": 2,
-    "explanation": "Today the sirens are used only for a nuclear alert. All other warnings reach you through phones (Cell Broadcast and SMS), the app, websites and the media."
+    "explanation": "Today the sirens are used only for a nuclear alert. All other warnings reach you through phones (Cell Broadcast and SMS), the app, websites and the media. The sirens are tested on the first Monday of each month, around noon."
    },
    {
     "text": "How can you check that an alert message is genuine and not phishing?",
@@ -24972,7 +24972,7 @@ const EPISODES = [
      "Chaque fois que le réseau mobile est en panne"
     ],
     "correct": 2,
-    "explanation": "Aujourd'hui, les sirènes ne sont utilisées que pour une alerte nucléaire. Toutes les autres alertes vous atteignent par téléphone (Cell Broadcast et SMS), l'application, les sites internet et les médias."
+    "explanation": "Aujourd'hui, les sirènes ne sont utilisées que pour une alerte nucléaire. Toutes les autres alertes vous atteignent par téléphone (Cell Broadcast et SMS), l'application, les sites internet et les médias. Les sirènes sont testées le premier lundi de chaque mois, vers midi."
    },
    {
     "text": "Comment pouvez-vous vérifier qu'un message d'alerte est authentique et non du phishing ?",
@@ -25043,7 +25043,7 @@ const EPISODES = [
      "Immer wenn das Mobilfunknetz ausfällt"
     ],
     "correct": 2,
-    "explanation": "Heute werden die Sirenen nur bei einem Nuklearalarm eingesetzt. Alle anderen Warnungen erreichen Sie über das Telefon (Cell Broadcast und SMS), die App, Websites und die Medien."
+    "explanation": "Heute werden die Sirenen nur bei einem Nuklearalarm eingesetzt. Alle anderen Warnungen erreichen Sie über das Telefon (Cell Broadcast und SMS), die App, Websites und die Medien. Die Sirenen werden am ersten Montag jedes Monats gegen Mittag getestet."
    },
    {
     "text": "Wie können Sie prüfen, ob eine Warnnachricht echt ist und kein Phishing?",
@@ -25116,7 +25116,7 @@ const EPISODES = [
      "All Kéier, wann d'Handysnetz ausfält"
     ],
     "correct": 2,
-    "explanation": "Haut ginn d'Sirenen nëmme bei engem Nuklearalarm benotzt. All aner Warnungen erreechen Iech iwwer den Handy (Cell Broadcast an SMS), d'App, d'Websäiten an d'Medien."
+    "explanation": "Haut ginn d'Sirenen nëmme bei engem Nuklearalarm benotzt. All aner Warnungen erreechen Iech iwwer den Handy (Cell Broadcast an SMS), d'App, d'Websäiten an d'Medien. D'Sirene ginn den éischte Méindeg vun all Mount géint Mëtteg getest."
    },
    {
     "text": "Wéi kënnt Dir kontrolléieren, ob en Alarmmessage echt ass an net Phishing?",
@@ -29742,7 +29742,7 @@ const EPISODES = [
      "They are all approved (“agréé”) by the State and subject to regular quality checks"
     ],
     "correct": 3,
-    "explanation": "The register lists only services approved by the Ministry (with an “agrément”). To be approved, providers must meet quality requirements, and the Ministry carries out regular checks – so a listed service has been vetted by the State. The register is based on the law in force since 1 March 2024 and is updated regularly."
+    "explanation": "The register lists only services approved by the Ministry (with an “agrément”). To be approved, providers must meet quality requirements, and the Ministry carries out regular checks – so a listed service has been vetted by the State. The register is based on the law of 23 August 2023, has been online since 1 March 2024 and is updated regularly."
    },
    {
     "text": "For each service, what information does the register give you?",
@@ -29775,7 +29775,7 @@ const EPISODES = [
      "You must first move to a care home, where the staff will handle all questions for you"
     ],
     "correct": 1,
-    "explanation": "Besides the website and the register, there is a national information and mediation service for the field of services for older people. It can guide you and help resolve a disagreement with a service – so you are never left on your own."
+    "explanation": "Besides the website and the register, you can call the Senioren-Telefon (247-86000) for information and advice, and SIMPA, the national information and mediation service for older people, can guide you and help resolve a disagreement with a service – so you are never left on your own."
    }
   ],
   "segments_fr": [
@@ -32114,7 +32114,7 @@ const EPISODES = [
      "Ils sont tous agréés par l'État et soumis à des contrôles de qualité réguliers"
     ],
     "correct": 3,
-    "explanation": "Le registre ne liste que les services agréés par le ministère (avec un « agrément »). Pour être agréés, les prestataires doivent répondre à des exigences de qualité, et le ministère effectue des contrôles réguliers – ainsi, un service répertorié a été vérifié par l'État. Le registre repose sur la loi en vigueur depuis le 1er mars 2024 et est mis à jour régulièrement."
+    "explanation": "Le registre ne liste que les services agréés par le ministère (avec un « agrément »). Pour être agréés, les prestataires doivent répondre à des exigences de qualité, et le ministère effectue des contrôles réguliers – ainsi, un service répertorié a été vérifié par l'État. Le registre repose sur la loi du 23 août 2023, est en ligne depuis le 1er mars 2024 et est mis à jour régulièrement."
    },
    {
     "text": "Pour chaque service, quelles informations le registre vous donne-t-il ?",
@@ -32147,7 +32147,7 @@ const EPISODES = [
      "Vous devez d'abord emménager dans une maison de soins, où le personnel gérera ensuite toutes les questions à votre place"
     ],
     "correct": 1,
-    "explanation": "Outre le site web et le registre, il existe un service national d'information et de médiation pour le domaine des services aux personnes âgées. Il peut vous orienter et vous aider à résoudre un désaccord avec un service – vous n'êtes donc jamais laissé seul."
+    "explanation": "Outre le site web et le registre, vous pouvez appeler le Senioren-Telefon (247-86000) pour vous informer et vous faire conseiller, et le SIMPA, le service national d'information et de médiation pour personnes âgées, peut vous orienter et vous aider à résoudre un désaccord avec un service – vous n'êtes donc jamais laissé seul."
    }
   ],
   "audio_de": "podcast_infosenior_de.mp3",
@@ -32185,7 +32185,7 @@ const EPISODES = [
      "Sie sind alle vom Staat zugelassen („agréé“) und unterliegen regelmäßigen Qualitätskontrollen"
     ],
     "correct": 3,
-    "explanation": "Das Register führt nur Dienste auf, die vom Ministerium zugelassen sind (mit einem „agrément“). Um zugelassen zu werden, müssen die Anbieter Qualitätsanforderungen erfüllen, und das Ministerium führt regelmäßige Kontrollen durch – ein aufgeführter Dienst wurde also vom Staat geprüft. Das Register beruht auf dem seit dem 1. März 2024 geltenden Gesetz und wird regelmäßig aktualisiert."
+    "explanation": "Das Register führt nur Dienste auf, die vom Ministerium zugelassen sind (mit einem „agrément“). Um zugelassen zu werden, müssen die Anbieter Qualitätsanforderungen erfüllen, und das Ministerium führt regelmäßige Kontrollen durch – ein aufgeführter Dienst wurde also vom Staat geprüft. Das Register beruht auf dem Gesetz vom 23. August 2023, ist seit dem 1. März 2024 online und wird regelmäßig aktualisiert."
    },
    {
     "text": "Welche Informationen gibt Ihnen das Register zu jedem Dienst?",
@@ -32218,7 +32218,7 @@ const EPISODES = [
      "Sie müssen zuerst in ein Pflegeheim ziehen, wo das Personal alle Fragen für Sie regelt"
     ],
     "correct": 1,
-    "explanation": "Neben der Webseite und dem Register gibt es einen nationalen Informations- und Mediationsdienst für den Bereich der Dienste für ältere Menschen. Er kann Sie orientieren und helfen, eine Meinungsverschiedenheit mit einem Dienst zu lösen – so werden Sie nie allein gelassen."
+    "explanation": "Neben der Webseite und dem Register können Sie das Senioren-Telefon (247-86000) für Information und Beratung anrufen, und SIMPA, der nationale Informations- und Mediationsdienst für ältere Menschen, kann Sie orientieren und helfen, eine Meinungsverschiedenheit mit einem Dienst zu lösen – so werden Sie nie allein gelassen."
    }
   ],
   "categories": [
@@ -40092,7 +40092,7 @@ const EPISODES = [
      "A former border checkpoint near Schengen that is now used as a customs office for goods crossing between the countries"
     ],
     "correct": 2,
-    "explanation": "Opened in 2015 in Esch-sur-Alzette, the House of the Greater Region is a place for meeting and exchange that hosts the EGTC Summit Secretariat, the Economic and Social Committee secretariat, the Interreg managing authority, the representation of Rhineland-Palatinate and the Espace Culturel."
+    "explanation": "Opened in 2015 in Esch-sur-Alzette, the House of the Greater Region is a place for meeting and exchange that hosts the EGTC Summit Secretariat, the Economic and Social Committee secretariat, the Interreg managing authority, the representation of Rhineland-Palatinate, EuRegio SaarLorLux+, QuattroPole and the Institut de la Grande Région."
    },
    {
     "text": "How is the Summit of the Greater Region led?",
@@ -40114,7 +40114,7 @@ const EPISODES = [
      "Higher costs and extra taxes for cross-border workers, to fund the roads and trains they use every day"
     ],
     "correct": 1,
-    "explanation": "Cooperation brings real daily benefits: in some border areas citizens can receive hospital and emergency care across the border without extra cost, the University of the Greater Region links six universities in four countries, and cross-border journey planners and training programmes support work and mobility."
+    "explanation": "Cooperation brings real daily benefits: in some border areas citizens can receive hospital and emergency care across the border without extra cost, the University of the Greater Region links seven universities in four countries, and cross-border journey planners and training programmes support work and mobility."
    }
   ],
   "segments_lb": [
@@ -40630,7 +40630,7 @@ const EPISODES = [
      "Un ancien poste-frontière près de Schengen, aujourd'hui utilisé comme bureau de douane pour contrôler les marchandises qui passent entre les pays"
     ],
     "correct": 2,
-    "explanation": "Ouverte en 2015 à Esch-sur-Alzette, la Maison de la Grande Région est un lieu de rencontre et d'échange qui accueille le Secrétariat du Sommet du GECT, le secrétariat du Comité économique et social, l'autorité de gestion Interreg, la représentation de la Rhénanie-Palatinat et l'Espace Culturel."
+    "explanation": "Ouverte en 2015 à Esch-sur-Alzette, la Maison de la Grande Région est un lieu de rencontre et d'échange qui accueille le Secrétariat du Sommet du GECT, le secrétariat du Comité économique et social, l'autorité de gestion Interreg, la représentation de la Rhénanie-Palatinat, EuRegio SaarLorLux+, QuattroPole et l'Institut de la Grande Région."
    },
    {
     "text": "Comment le Sommet de la Grande Région est-il dirigé ?",
@@ -40652,7 +40652,7 @@ const EPISODES = [
      "Des frais et des taxes supplémentaires pour les frontaliers, afin de financer les routes et les trains qu'ils utilisent chaque jour"
     ],
     "correct": 1,
-    "explanation": "La coopération apporte de vrais avantages au quotidien : dans certaines zones frontalières, les citoyens peuvent recevoir des soins hospitaliers et d'urgence de l'autre côté de la frontière sans coût supplémentaire, l'Université de la Grande Région relie six universités dans quatre pays, et des calculateurs d'itinéraires transfrontaliers ainsi que des programmes de formation soutiennent le travail et la mobilité."
+    "explanation": "La coopération apporte de vrais avantages au quotidien : dans certaines zones frontalières, les citoyens peuvent recevoir des soins hospitaliers et d'urgence de l'autre côté de la frontière sans coût supplémentaire, l'Université de la Grande Région relie sept universités dans quatre pays, et des calculateurs d'itinéraires transfrontaliers ainsi que des programmes de formation soutiennent le travail et la mobilité."
    }
   ],
   "audio_de": "podcast_granderegion_de.mp3",
@@ -40701,7 +40701,7 @@ const EPISODES = [
      "Ein ehemaliger Grenzposten bei Schengen, der heute als Zollamt für Waren zwischen den Ländern dient"
     ],
     "correct": 2,
-    "explanation": "Das 2015 in Esch an der Alzette eröffnete Haus der Großregion ist ein Ort der Begegnung und des Austauschs, der das EVTZ-Gipfelsekretariat, das Sekretariat des Wirtschafts- und Sozialausschusses, die Interreg-Verwaltungsbehörde, die Vertretung von Rheinland-Pfalz und den Espace Culturel beherbergt."
+    "explanation": "Das 2015 in Esch an der Alzette eröffnete Haus der Großregion ist ein Ort der Begegnung und des Austauschs, der das EVTZ-Gipfelsekretariat, das Sekretariat des Wirtschafts- und Sozialausschusses, die Interreg-Verwaltungsbehörde, die Vertretung von Rheinland-Pfalz, EuRegio SaarLorLux+, QuattroPole und das Institut der Großregion beherbergt."
    },
    {
     "text": "Wie wird der Gipfel der Großregion geleitet?",
@@ -40723,7 +40723,7 @@ const EPISODES = [
      "Höhere Kosten und Zusatzsteuern für Grenzgänger, um die Straßen und Züge zu finanzieren, die sie täglich nutzen"
     ],
     "correct": 1,
-    "explanation": "Die Zusammenarbeit bringt echte Alltagsvorteile: In manchen Grenzgebieten können Bürger jenseits der Grenze Kranken- und Notfallversorgung ohne Mehrkosten erhalten, die Universität der Großregion verbindet sechs Universitäten in vier Ländern, und grenzüberschreitende Routenplaner sowie Ausbildungsprogramme unterstützen Arbeit und Mobilität."
+    "explanation": "Die Zusammenarbeit bringt echte Alltagsvorteile: In manchen Grenzgebieten können Bürger jenseits der Grenze Kranken- und Notfallversorgung ohne Mehrkosten erhalten, die Universität der Großregion verbindet sieben Universitäten in vier Ländern, und grenzüberschreitende Routenplaner sowie Ausbildungsprogramme unterstützen Arbeit und Mobilität."
    }
   ],
   "categories": [
@@ -41584,7 +41584,7 @@ const EPISODES = [
      "A guaranteed permanent job in the civil service, for life, after a short training course"
     ],
     "correct": 1,
-    "explanation": "The Youth Guarantee aims to offer every young person aged 15 to 30 a concrete solution – a job, training or another step – to enter working life within four months of registering with ADEM."
+    "explanation": "The Youth Guarantee aims to offer every young person aged 16 to 30 a concrete solution – a job, training or another step – to enter working life within four months of registering with ADEM."
    }
   ],
   "categories": [
@@ -41656,7 +41656,7 @@ const EPISODES = [
      "Un emploi garanti à vie dans la fonction publique, après une courte formation"
     ],
     "correct": 1,
-    "explanation": "La Garantie Jeunesse vise à offrir à chaque jeune de 15 à 30 ans une solution concrète – un emploi, une formation ou une autre étape – pour entrer dans la vie active dans les quatre mois suivant son inscription à l’ADEM."
+    "explanation": "La Garantie Jeunesse vise à offrir à chaque jeune de 16 à 30 ans une solution concrète – un emploi, une formation ou une autre étape – pour entrer dans la vie active dans les quatre mois suivant son inscription à l’ADEM."
    }
   ],
   "title_de": "ADEM – die Agentur für Arbeitsentwicklung, und wie sie Ihnen helfen kann",
@@ -41725,7 +41725,7 @@ const EPISODES = [
      "Eine garantierte Stelle auf Lebenszeit im öffentlichen Dienst, nach einer kurzen Schulung"
     ],
     "correct": 1,
-    "explanation": "Die Jugendgarantie soll jedem jungen Menschen zwischen 15 und 30 Jahren eine konkrete Lösung bieten – eine Stelle, eine Weiterbildung oder einen anderen Schritt – um innerhalb von vier Monaten nach der Registrierung bei der ADEM ins Berufsleben einzusteigen."
+    "explanation": "Die Jugendgarantie soll jedem jungen Menschen zwischen 16 und 30 Jahren eine konkrete Lösung bieten – eine Stelle, eine Weiterbildung oder einen anderen Schritt – um innerhalb von vier Monaten nach der Registrierung bei der ADEM ins Berufsleben einzusteigen."
    }
   ],
   "audio_fr": "podcast_adem_fr.mp3",

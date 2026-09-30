@@ -44,7 +44,7 @@
 **TOM:** What if someone prefers to meet a person, face to face?
 **ANNA:** Then there is the second way... registering in person at an ADEM agency.
 **TOM:** For that, you first call to make an appointment. The number is the ADEM Contact Centre, on 2-4-7, 8-8-8-8-8.
-**ANNA:** And ADEM has three locations... in Luxembourg City, in Esch-Belval, and in Diekirch. You'll be offered the office closest to your home.
+**ANNA:** And you can register in person at three ADEM agencies... in Luxembourg City, in Esch-Belval, and in Diekirch. You'll be offered the one closest to your home.
 **TOM:** Good. So whether you are more comfortable online or in person, both doors are open.
 **ANNA:** Now, Tom, what should someone bring or prepare before registering?
 **TOM:** A few simple things. First, your social security number, which is on your social security card.
@@ -76,7 +76,7 @@
 **TOM:** And there is good news on how you apply. Recently, applying for unemployment benefit became fully online.
 **ANNA:** That means less paperwork, and time saved. You can do more of it from home.
 **TOM:** Let's give some attention to younger listeners now, because Luxembourg has a special promise for them.
-**ANNA:** It's called the Youth Guarantee. The goal is that every young person, aged fifteen to thirty, is offered a concrete solution to enter working life.
+**ANNA:** It's called the Youth Guarantee. The goal is that every young person, aged sixteen to thirty, is offered a concrete solution to enter working life.
 **TOM:** And there's a clear timeframe... within four months of registering with ADEM.
 **ANNA:** That solution might be a job, but it could also be training, or another step that moves you forward.
 **TOM:** So if you are young and unsure what to do next, ADEM is a very good place to start.
@@ -89,7 +89,7 @@
 **ANNA:** Employers can also receive financial aid when they hire certain people... for example a young jobseeker, someone who has been unemployed for a long time, or a person with a disability.
 **TOM:** So ADEM doesn't just help individuals. It helps the whole job market work better.
 **ANNA:** There is also support for international recruitment, through a service called Work in Luxembourg.
-**TOM:** That helps companies here find talent, and helps people abroad discover opportunities in the country.
+**TOM:** And since 2026 there's even a national website, workinluxembourg.com. It helps companies here find talent, and helps people abroad discover opportunities in the country.
 **ANNA:** Tom, before we finish, there is one safety point we really should mention.
 **TOM:** Yes, an important one. Sometimes scammers send fake emails pretending to be ADEM, and they ask for money for a job or a visa.
 **ANNA:** Please remember this clearly... ADEM never asks you to pay for a job or a visa. The service is free.

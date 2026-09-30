@@ -54,7 +54,7 @@
 
 **TOM:** Das ist eine wichtige Sache, besonders bei etwas so Sensiblem wie der Pflege eines Elternteils. Und wie aktuell ist dieses Register?
 
-**ANNA:** Es beruht auf einem Gesetz, das seit dem ersten März 2024 in Kraft ist. Und es wird regelmäßig aktualisiert, damit die Informationen verlässlich und auf dem neuesten Stand bleiben.
+**ANNA:** Es beruht auf einem Gesetz von 2023, und das Register ist seit dem ersten März 2024 online. Und es wird regelmäßig aktualisiert, damit die Informationen verlässlich und auf dem neuesten Stand bleiben.
 
 **TOM:** Perfekt. Gut, Anna — werden wir konkret. Welche Art von Diensten kann ich dort finden?
 
@@ -98,7 +98,7 @@
 
 **TOM:** Das ist ein fürsorglicher Ansatz. Und gibt es einen Ort, der am Wissen selbst arbeitet — Forschung, Ausbildung für die Menschen, die pflegen?
 
-**ANNA:** Ja. Es gibt ein Kompetenzzentrum für das Altern, das seit etwa dreißig Jahren besteht. Es macht drei Dinge — Aktivitäten und Lernen für Senioren, Weiterbildung für Pflegefachkräfte, und Forschung über das Altern. So verbessert sich die Qualität im Laufe der Zeit immer weiter.
+**ANNA:** Ja. Es gibt ein Kompetenzzentrum für das Altern, GERO, das seit mehr als fünfunddreißig Jahren besteht. Es macht drei Dinge — Aktivitäten und Lernen für Senioren, Weiterbildung für Pflegefachkräfte, und Forschung über das Altern. So verbessert sich die Qualität im Laufe der Zeit immer weiter.
 
 **TOM:** Es bleibt also nicht stehen. Gut. Anna, machen wir das ganz greifbar. Können wir ein Beispiel nehmen?
 
@@ -122,7 +122,7 @@
 
 **TOM:** Nun, Anna — eine praktische Sorge. Was, wenn ich ein Problem mit einem Dienst habe? Oder ich einfach nicht weiß, wen ich fragen soll?
 
-**ANNA:** Gute Frage. Es gibt einen nationalen Dienst für Information und Vermittlung in diesem Bereich. Wenn Sie also Orientierung brauchen, oder wenn es eine Meinungsverschiedenheit mit einem Dienst gibt, gibt es einen neutralen Ort, der Ihnen helfen kann, eine Lösung zu finden.
+**ANNA:** Gute Frage. Sie können einfach das Senioren-Telefon anrufen, 247-86000, für Information und Beratung. Und wenn es eine Meinungsverschiedenheit mit einem Dienst gibt, gibt es SIMPA, den nationalen Informations- und Vermittlungsdienst — einen neutralen Ort, der Ihnen hilft, eine Lösung zu finden.
 
 **TOM:** Man ist damit also nie ganz allein.
 
@@ -134,7 +134,7 @@
 
 **TOM:** Die Generationen verbinden — Jung und Alt zusammen.
 
-**ANNA:** Ja. Beim Altern geht es nicht nur um Pflege. Es geht auch darum, aktiv, nützlich und verbunden zu bleiben. Und es gibt auch finanzielle Unterstützung — für Menschen, die nicht genug Geld haben, um die Pflegekosten zu decken, hilft der Staat.
+**ANNA:** Ja. Beim Altern geht es nicht nur um Pflege. Es geht auch darum, aktiv, nützlich und verbunden zu bleiben. Und es gibt auch finanzielle Unterstützung. Seit 2026 hilft ein Programm namens COMPA Menschen, die nicht genug Geld haben, um ein Pflegeheim oder betreutes Wohnen zu bezahlen.
 
 **TOM:** Das ist wichtig — dass Geld nicht das Hindernis sein sollte, um Pflege zu bekommen. Gut, Anna, machen wir es ganz praktisch. Wenn ich zuhöre, und ich — oder mein Elternteil — vielleicht Hilfe brauche, was mache ich?
 
@@ -162,4 +162,4 @@
 
 ---
 
-*Quelle: infosenior.public.lu (Info-Seniors — Öffentliches Register der Seniorendienste) und mfsva.gouvernement.lu, Familienministerium, Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Flüchtlingen — Seiten „Ältere Menschen" und „Aktivitäten für Senioren". Das Öffentliche Register beruht auf dem seit dem 1. März 2024 geltenden Gesetz. Nur allgemeine Informationen — prüfen Sie infosenior.lu für die aktuellen Details und Bedingungen jedes Dienstes.*
+*Quelle: infosenior.public.lu (Info-Seniors — Öffentliches Register der Seniorendienste) und mfsva.gouvernement.lu, Familienministerium, Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Flüchtlingen — Seiten „Ältere Menschen" und „Aktivitäten für Senioren". Das Öffentliche Register beruht auf dem geänderten Gesetz vom 23. August 2023 über die Qualität der Dienstleistungen für ältere Menschen und ist seit dem 1. März 2024 online. Seit dem 1. Januar 2026 hilft der COMPA (Complément pour personnes âgées, Nationaler Solidaritätsfonds) Menschen mit geringen Mitteln, ein Pflegeheim oder betreutes Wohnen zu bezahlen. Information und Beratung: Senioren-Telefon 247-86000; Vermittlung: SIMPA (simpa.public.lu). Nur allgemeine Informationen — prüfen Sie infosenior.lu für die aktuellen Details und Bedingungen jedes Dienstes.*

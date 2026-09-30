@@ -54,7 +54,7 @@
 
 **TOM :** C'est important, surtout pour quelque chose d'aussi sensible que de s'occuper d'un parent. Et il date de quand, ce registre ?
 
-**ANNA :** Il repose sur une loi en vigueur depuis le premier mars 2024. Et il est mis à jour régulièrement, pour que les informations restent fiables et à jour.
+**ANNA :** Il repose sur une loi de 2023, et le registre est en ligne depuis le premier mars 2024. Et il est mis à jour régulièrement, pour que les informations restent fiables et à jour.
 
 **TOM :** Parfait. D'accord, Anna — soyons concrets. Quel genre de services je peux y trouver ?
 
@@ -98,7 +98,7 @@
 
 **TOM :** C'est une approche bienveillante. Et y a-t-il un endroit qui travaille sur le savoir lui-même — la recherche, la formation des personnes qui s'occupent des autres ?
 
-**ANNA :** Oui. Il y a un centre de compétences sur le vieillissement qui existe depuis une trentaine d'années. Il fait trois choses — des activités et de l'apprentissage pour les seniors, la formation continue des professionnels de soins, et la recherche sur le vieillissement. Donc la qualité continue de s'améliorer au fil du temps.
+**ANNA :** Oui. Il y a un centre de compétences sur le vieillissement, appelé GERO, qui existe depuis plus de trente-cinq ans. Il fait trois choses — des activités et de l'apprentissage pour les seniors, la formation continue des professionnels de soins, et la recherche sur le vieillissement. Donc la qualité continue de s'améliorer au fil du temps.
 
 **TOM :** Donc, ça n'est pas figé. Bien. Anna, rendons ça très concret. Peut-on prendre un exemple ?
 
@@ -122,7 +122,7 @@
 
 **TOM :** Maintenant, Anna — une inquiétude pratique. Et si j'ai un problème avec un service ? Ou si je ne sais tout simplement pas à qui m'adresser ?
 
-**ANNA :** Bonne question. Il existe un service national d'information et de médiation dans ce domaine. Donc, si vous avez besoin d'être orienté, ou s'il y a un désaccord avec un service, il y a un endroit neutre qui peut vous aider à trouver une solution.
+**ANNA :** Bonne question. Vous pouvez tout simplement appeler le Senioren-Telefon, au 247-86000, pour vous informer et vous faire conseiller. Et s'il y a un désaccord avec un service, il y a le SIMPA, le service national d'information et de médiation — un endroit neutre qui vous aide à trouver une solution.
 
 **TOM :** Donc, on n'est jamais complètement seul avec ça.
 
@@ -134,7 +134,7 @@
 
 **TOM :** Relier les générations — les jeunes et les moins jeunes ensemble.
 
-**ANNA :** Oui. Vieillir, ce n'est pas seulement une question de soins. C'est aussi rester actif, utile, et connecté. Et il y a aussi un soutien financier — pour les personnes qui n'ont pas assez d'argent pour couvrir le coût des soins, l'État aide.
+**ANNA :** Oui. Vieillir, ce n'est pas seulement une question de soins. C'est aussi rester actif, utile, et connecté. Et il y a aussi un soutien financier. Depuis 2026, un dispositif appelé COMPA aide les personnes qui n'ont pas assez d'argent pour payer une maison de soins ou un logement encadré.
 
 **TOM :** C'est important — que l'argent ne soit pas l'obstacle à recevoir des soins. D'accord, Anna, rendons ça vraiment pratique. Si j'écoute, et que moi — ou mon parent — pourrait avoir besoin d'aide, qu'est-ce que je fais ?
 
@@ -162,4 +162,4 @@
 
 ---
 
-*Source : infosenior.public.lu (Info-Seniors — Registre public des services pour personnes âgées) et mfsva.gouvernement.lu, ministère de la Famille, de la Solidarité, du Vivre ensemble et de l'Accueil des réfugiés — pages « Personnes âgées » et « Activités pour seniors ». Le Registre public repose sur la loi en vigueur depuis le 1er mars 2024. Informations générales uniquement — consultez infosenior.lu pour les détails et les conditions actuels de chaque service.*
+*Source : infosenior.public.lu (Info-Seniors — Registre public des services pour personnes âgées) et mfsva.gouvernement.lu, ministère de la Famille, de la Solidarité, du Vivre ensemble et de l'Accueil des réfugiés — pages « Personnes âgées » et « Activités pour seniors ». Le Registre public repose sur la loi modifiée du 23 août 2023 sur la qualité des services pour personnes âgées et est en ligne depuis le 1er mars 2024. Depuis le 1er janvier 2026, le dispositif COMPA (Complément pour personnes âgées, Fonds national de solidarité) aide les personnes aux ressources limitées à payer une maison de soins ou un logement encadré. Information et conseil : Senioren-Telefon 247-86000 ; médiation : SIMPA (simpa.public.lu). Informations générales uniquement — consultez infosenior.lu pour les détails et les conditions actuels de chaque service.*

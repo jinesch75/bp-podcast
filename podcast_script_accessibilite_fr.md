@@ -96,7 +96,7 @@
 
 **ANNA :** Donc il y a du temps, mais il y a aussi un objectif clair. Bien. Et qui peut aider avec tout ça — pour quelqu'un qui construit ou qui rénove ?
 
-**TOM :** Le portail infrastructure sur accessibilite.lu contient les règles, les procédures et une boîte à outils. Comme ça, un architecte, une commune ou un propriétaire peut trouver ce qu'il faut faire pour bien s'y prendre.
+**TOM :** Le portail infrastructure sur accessibilite.lu contient les règles, les procédures et une boîte à outils. Comme ça, un architecte, une commune ou un propriétaire peut trouver ce qu'il faut faire pour bien s'y prendre. Et il y a une aide financière : l'État peut payer la moitié du coût des travaux, jusqu'à vingt-quatre mille euros par lieu — si vous faites la demande avant juillet 2028.
 
 **ANNA :** Super. D'accord, Tom — on a fait le numérique et l'infrastructure. Quel est le troisième domaine ?
 
@@ -116,7 +116,7 @@
 
 **ANNA :** Ah, donc les entreprises doivent maintenant penser à l'accessibilité.
 
-**TOM :** Oui. Si vous fabriquez ou vendez certains produits et services, ils doivent être accessibles. Maintenant — il y a une exception pour les toutes petites entreprises. En gros, les règles visent les entreprises de plus de dix salariés et d'une certaine taille de chiffre d'affaires. Donc la petite boutique du coin n'est pas traitée comme une grande banque.
+**TOM :** Oui. Si vous fabriquez ou vendez certains produits et services, ils doivent être accessibles. Maintenant — il y a une exception pour les toutes petites entreprises. Si une entreprise a moins de dix salariés et un chiffre d'affaires de moins de deux millions d'euros, les règles sur les services ne s'appliquent pas à elle. Donc la petite boutique du coin n'est pas traitée comme une grande banque.
 
 **ANNA :** Ça paraît juste. Et qui surveille tout ça ?
 

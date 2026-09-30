@@ -38,7 +38,7 @@
 
 **TOM:** Das gefällt mir. Sie gehört mir, und ich entscheide. Wie eröffne ich denn nun konkret ein DSP?
 
-**ANNA:** Jede Person, die bei der luxemburgischen Krankenversicherung angemeldet ist, kann eines haben. Um es selbst online zu nutzen, aktivieren Sie Ihr „eSanté-Konto". Und hier die gute Nachricht: Sie können es direkt über MyGuichet.lu aktivieren.
+**ANNA:** Gute Nachricht — Sie müssen es nicht eröffnen. Wenn Sie bei der luxemburgischen Krankenversicherung angemeldet sind, wird Ihr DSP automatisch angelegt. Um es selbst online zu nutzen, aktivieren Sie Ihr „eSanté-Konto“. Und das können Sie direkt über MyGuichet.lu machen.
 
 **TOM:** Das ist super. Und wenn es aktiv ist, wie schaue ich hinein?
 
@@ -54,19 +54,19 @@
 
 **TOM:** Gut. Jetzt der Teil, der viele Neuankömmlinge verwirrt. Wenn ich hier zum Arzt gehe... zahle ich, oder nicht?
 
-**ANNA:** Richtig, das ist der wichtige Teil. Das luxemburgische System funktioniert traditionell über die Rückerstattung. Das heißt — bei einem normalen Arztbesuch zahlen Sie zuerst, und dann zahlt die CNS Ihnen das meiste davon zurück.
+**ANNA:** Richtig, das ist der wichtige Teil. Traditionell zahlen Sie zuerst beim Arzt, und dann zahlt die CNS Ihnen das meiste davon zurück. Aber heute nutzt etwa die Hälfte der Ärzte die „sofortige Direktzahlung“. Dann zahlen Sie nur Ihren eigenen kleinen Anteil, und die CNS zahlt dem Arzt den Rest sofort.
 
-**TOM:** Ich zahle also beim Arzt den vollen Preis, und bekomme später Geld zurück.
+**TOM:** Ich zahle also entweder den vollen Preis und bekomme später Geld zurück — oder, mit der Direktzahlung, nur meinen Anteil.
 
 **ANNA:** Genau. Die CNS erstattet einen großen Teil der Kosten — bei den meisten Leistungen sind es etwa achtzig bis hundert Prozent. Sie tragen also einen kleinen Teil selbst, und der Rest kommt zu Ihnen zurück.
 
 **TOM:** Und wie bekomme ich das Geld zurück? Was mache ich mit der Rechnung?
 
-**ANNA:** Ganz einfach. Der Arzt gibt Ihnen eine Rechnung — auf Papier — und Sie bezahlen sie. Dann schicken Sie diese bezahlte Originalrechnung an die CNS. Sie können sie per Post schicken, oder in einen ihrer Briefkästen werfen. Die CNS überweist die Rückerstattung dann direkt auf Ihr Bankkonto.
+**ANNA:** Ganz einfach. Der Arzt gibt Ihnen eine Rechnung — auf Papier — und Sie bezahlen sie. Dann schicken Sie diese bezahlte Originalrechnung an die CNS. Sie können sie per Post schicken, oder in einen ihrer Briefkästen werfen. Und wenn Ihr Arzt Ihnen eine digitale Rechnung gibt, können Sie sie mit ein paar Klicks einreichen — in der App der CNS, der GesondheetsApp, oder auf MyGuichet.lu. Die CNS überweist die Rückerstattung dann direkt auf Ihr Bankkonto.
 
 **TOM:** Direkt auf mein Bankkonto. Wie lange dauert das?
 
-**ANNA:** Normalerweise weniger als drei Wochen. Und Sie bekommen eine schriftliche Abrechnung, die erklärt, was erstattet wurde. Also — ein Tipp für unsere Hörer — geben Sie der CNS Ihre Bankkontonummer, Ihre IBAN, damit sie Sie direkt bezahlen kann.
+**ANNA:** Bei einer Papierrechnung meist zwei bis vier Wochen. Bei einer digitalen Rechnung können es nur ein paar Tage sein. Und Sie bekommen eine schriftliche Abrechnung, die erklärt, was erstattet wurde. Also — ein Tipp für unsere Hörer — geben Sie der CNS Ihre Bankkontonummer, Ihre IBAN, damit sie Sie direkt bezahlen kann.
 
 **TOM:** Gute Tipps. Aber warte — zuerst den vollen Betrag zahlen... bei einer großen Rechnung könnte das für manche Menschen schwierig sein.
 
@@ -80,7 +80,7 @@
 
 **ANNA:** Genau. Und dieselbe Idee gilt für einen normalen Krankenhausaufenthalt. Das Krankenhaus rechnet die Versorgung direkt mit der CNS ab. Sie zahlen hauptsächlich einen kleinen Tagesbeitrag, und Ihre persönlichen Extras.
 
-**TOM:** Das macht es viel einfacher. Also... Medikamente und Krankenhaus — ich zahle nur meinen Anteil. Der normale Arztbesuch — ich zahle zuerst und werde erstattet.
+**TOM:** Das macht es viel einfacher. Also... Medikamente und Krankenhaus — ich zahle nur meinen Anteil. Der normale Arztbesuch — ich zahle zuerst und werde erstattet, außer mein Arzt nutzt die Direktzahlung.
 
 **ANNA:** So kann man es sich gut merken. Und es gibt noch eine Sache, die für Menschen mit geringem Einkommen wirklich wichtig ist.
 
@@ -90,7 +90,7 @@
 
 **TOM:** Das ist wirklich wichtig. Niemand sollte also den Arztbesuch vermeiden, nur weil er nicht zuerst zahlen kann.
 
-**ANNA:** Genau. Wenn das Ihre Situation ist, können Sie nach dem sozialen Drittzahlersystem fragen — oft über Ihren Arzt oder das Sozialamt.
+**ANNA:** Genau. Wenn das Ihre Situation ist, können Sie das soziale Drittzahlersystem beim Sozialamt — dem Office social — Ihrer Gemeinde beantragen.
 
 **TOM:** Wunderbar. Okay, Anna — bringen wir alles zusammen. Eine kurze Zusammenfassung von allem?
 
@@ -98,7 +98,7 @@
 
 **TOM:** Und Teil zwei?
 
-**ANNA:** Teil zwei — die CNS, die nationale Krankenversicherung. Beim normalen Arztbesuch zahlen Sie zuerst, und die CNS erstattet das meiste davon auf Ihr Bankkonto, in etwa drei Wochen. Bei Medikamenten und im Krankenhaus zahlen Sie normalerweise nur Ihren kleinen Anteil. Und wenn das Geld knapp ist, bedeutet das soziale Drittzahlersystem, dass Sie nichts vorstrecken müssen.
+**ANNA:** Teil zwei — die CNS, die nationale Krankenversicherung. Beim normalen Arztbesuch nutzt Ihr Arzt entweder die sofortige Direktzahlung, und Sie zahlen nur Ihren Anteil — oder Sie zahlen zuerst, und die CNS erstattet das meiste davon auf Ihr Bankkonto, innerhalb weniger Wochen, oder weniger Tage bei einer digitalen Rechnung. Bei Medikamenten und im Krankenhaus zahlen Sie normalerweise nur Ihren kleinen Anteil. Und wenn das Geld knapp ist, bedeutet das soziale Drittzahlersystem, dass Sie nichts vorstrecken müssen.
 
 **TOM:** Die Botschaft ist also — aktivieren Sie Ihre Gesundheitsakte, bewahren Sie Ihre Rechnungen auf, geben Sie der CNS Ihre Bankdaten, und haben Sie keine Angst, um Hilfe zu bitten, wenn Sie sie brauchen.
 

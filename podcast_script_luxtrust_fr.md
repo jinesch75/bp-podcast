@@ -106,7 +106,7 @@
 
 **TOM :** Et une fois l'activation terminée — je peux l'utiliser tout de suite ?
 
-**ANNA :** Presque. Une petite chose à retenir — après l'activation, le certificat devient utilisable au bout d'environ quatre heures. Donc ne l'activez pas cinq minutes avant d'en avoir besoin. Faites-le un peu à l'avance.
+**ANNA :** Presque. Une petite chose à retenir — si vous avez la SmartCard, le certificat ne devient utilisable qu'environ quatre heures après l'activation. Donc ne l'activez pas cinq minutes avant d'en avoir besoin. Faites-le un peu à l'avance.
 
 **TOM :** Conseil très pratique. Activez-le la veille au soir, pas à la dernière minute.
 
@@ -118,7 +118,7 @@
 
 **TOM :** Ne jamais donner les codes. Même si ça a l'air officiel ?
 
-**ANNA :** Même là. Et encore plus — LuxTrust ne vous appellera jamais pour demander des informations sensibles. Ils ne demanderont jamais l'accès à votre ordinateur ou à votre téléphone. Et ils ne viendront jamais chez vous.
+**ANNA :** Même là. Et encore plus — LuxTrust ne vous appellera jamais pour demander des informations sensibles. Ils ne vous demanderont jamais de confirmer un paiement ou une opération bancaire. Et ils ne viendront jamais chez vous.
 
 **TOM :** Donc si quelqu'un fait l'une de ces choses, c'est une arnaque.
 

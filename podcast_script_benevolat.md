@@ -58,7 +58,7 @@
 
 **TOM:** So there are short missions? One-time things?
 
-**ANNA:** Yes — lots of them. On benevolat.lu, many missions are just for a single event, or a single day. Real examples on the site right now: helping at a gymnastics gala for one weekend. Being a marshal for one day at a cycling race. Manning the barbecue at a summer party. Making Christmas decorations.
+**ANNA:** Yes — lots of them. On benevolat.lu, many missions are just for a single event, or a single day. For example: helping at a sports gala for one weekend. Being a marshal for one day at a cycling race. Helping at a summer party. Or making Christmas decorations.
 
 **TOM:** So small, concrete things. A few hours. A day. A weekend.
 

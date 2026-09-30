@@ -16,7 +16,7 @@
 
 **ANNA:** Richtig. Also, Tom... fangen wir am Anfang an. Was ist MyGuichet.lu?
 
-**TOM:** Okay, also... MyGuichet.lu ist das Informationsportal, das Ihre Interaktionen mit dem Staat vereinfacht. Es bietet Ihnen schnellen, benutzerfreundlichen Zugang zu allen Informationen, Verfahren und Diensten der öffentlichen Verwaltungen und Einrichtungen Luxemburgs. Es ist sicher, und es ist Ihre... sagen wir, Ihre zentrale Anlaufstelle bei den öffentlichen Verwaltungen. Anstatt also zu einem Amt zu gehen, können Sie viele Verwaltungsverfahren von zu Hause aus erledigen. Auf Ihrem Computer, oder auf Ihrem Telefon.
+**TOM:** Okay, also... Guichet.lu ist die Informationsseite des Staates, und MyGuichet.lu ist der dazugehörige sichere Online-Bereich. Zusammen bieten sie Ihnen schnellen, benutzerfreundlichen Zugang zu allen Informationen, Verfahren und Diensten der öffentlichen Verwaltungen und Einrichtungen Luxemburgs. MyGuichet.lu ist sicher, und es ist Ihre... sagen wir, Ihre zentrale Anlaufstelle bei den öffentlichen Verwaltungen. Anstatt also zu einem Amt zu gehen, können Sie viele Verwaltungsverfahren von zu Hause aus erledigen. Auf Ihrem Computer, oder auf Ihrem Telefon.
 
 **ANNA:** Also ist es wie... ein Online-Schalter?
 
@@ -48,7 +48,7 @@
 
 **ANNA:** Das Matricule, okay. Grenzgänger haben auch eines, richtig?
 
-**TOM:** Ja, wenn Sie in Luxemburg arbeiten, haben Sie eines. Es steht zum Beispiel auf Ihrer Sozialversicherungskarte. Dann brauchen Sie eine E-Mail-Adresse, einen Computer oder ein Smartphone... und noch eine Sache. Eine Möglichkeit, Ihre Identität online nachzuweisen.
+**TOM:** Ja, wenn Sie in Luxemburg arbeiten, haben Sie eines. Es steht zum Beispiel auf Ihrer Sozialversicherungskarte. Dann brauchen Sie eine E-Mail-Adresse und einen Computer — für die erste Registrierung einen Laptop oder Desktop-PC, nicht Ihr Handy. Und noch eine Sache: eine Möglichkeit, Ihre Identität online nachzuweisen.
 
 **ANNA:** Ah, und hier kommt LuxTrust ins Spiel?
 
@@ -60,7 +60,7 @@
 
 **ANNA:** eIDAS... das ist das europäische System, oder? Ich könnte also zum Beispiel meinen belgischen oder deutschen elektronischen Personalausweis verwenden?
 
-**TOM:** Genau. Wenn Ihr Land eines dieser nationalen Systeme hat, können Sie es oft nutzen, um sich bei MyGuichet anzumelden. Und noch eine Sache — einige einfache Verfahren funktionieren sogar ganz ohne Anmeldung. Aber dann haben Sie weniger Möglichkeiten. Sie können das Formular nicht speichern und später weitermachen, und Sie können den Status nicht verfolgen. Also... ein richtiges Konto zu haben, ist viel besser.
+**TOM:** Genau. Wenn Ihr Land eines dieser nationalen Systeme hat, können Sie es oft nutzen, um sich bei MyGuichet anzumelden — Ihre Matricule-Nummer brauchen Sie trotzdem. Aber mit einem ausländischen Zugang können Sie manche Formulare nicht unterschreiben, zum Beispiel Ihre Steuererklärung. Und noch eine Sache — einige einfache Verfahren funktionieren sogar ganz ohne Anmeldung. Aber dann haben Sie weniger Möglichkeiten. Sie können das Formular nicht speichern und später weitermachen, und Sie können den Status nicht verfolgen. Also... ein richtiges Konto zu haben, ist viel besser.
 
 **TOM:** Aber ehrlich gesagt, wenn Sie hier leben oder arbeiten, ist LuxTrust Mobile der einfache Weg. Sie installieren die App einmal, und... das war's. Und wenn Sie sie bereits für Ihre Bank nutzen, können Sie dieselbe verwenden.
 
@@ -70,7 +70,7 @@
 
 **ANNA:** Perfekt. Nun... über welche Art von Verfahren reden wir? Welche Bereiche?
 
-**TOM:** Fast alles im täglichen Leben, wirklich. Mal sehen... Staatsbürgerschaft — also Personalausweis, Reisepass, Führungszeugnis. Und hier ist etwas Schönes: Als ausländischer Einwohner können Sie beantragen, sich in die Wählerlisten einzutragen — damit Sie bei den Gemeindewahlen und bei den Europawahlen wählen können. Dann Einwanderung — Aufenthaltstitel, zum Beispiel. Sehr wichtig, wenn Sie ankommen. Dann Familie und Bildung... Steuern — ja, Sie können Ihre Steuererklärung online machen. Verkehr — Ihr Führerschein, das Anmelden eines Autos. Gesundheit und Sozialversicherung. Wohnen. Finanzielle Beihilfen. Arbeit und Rente... und sogar Freizeit, wie die Anmeldung bei der Nationalbibliothek.
+**TOM:** Fast alles im täglichen Leben, wirklich. Mal sehen... Staatsbürgerschaft — also Personalausweis, Reisepass, Führungszeugnis. Und hier ist etwas Schönes: Als ausländischer Einwohner können Sie beantragen, sich in die Wählerlisten einzutragen — damit Sie bei den Gemeindewahlen wählen können. Und wenn Sie Bürger eines anderen EU-Landes sind, auch bei den Europawahlen. Dann Einwanderung — Aufenthaltstitel, zum Beispiel. Sehr wichtig, wenn Sie ankommen. Dann Familie und Bildung... Steuern — ja, Sie können Ihre Steuererklärung online machen. Verkehr — Ihr Führerschein, das Anmelden eines Autos. Gesundheit und Sozialversicherung. Wohnen. Finanzielle Beihilfen. Arbeit und Rente... und sogar Freizeit, wie die Anmeldung bei der Nationalbibliothek.
 
 **ANNA:** Wow. So viele Bereiche werden abgedeckt, alles an einem Ort.
 

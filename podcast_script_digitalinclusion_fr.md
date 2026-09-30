@@ -52,19 +52,19 @@
 
 **ANNA :** Lesquelles ?
 
-**TOM :** Les principales sont les suivantes. Votre ménage reçoit l'allocation de vie chère — l'AVC. Ou vous êtes réfugié — demandeur d'asile, personne sous protection temporaire, ou mineur non accompagné. Ou vous détenez un titre de séjour de type « Vie Privée ». Ou vous êtes engagé dans une procédure officielle de règlement collectif des dettes pour surendettement.
+**TOM :** Les principales sont les suivantes. Votre ménage reçoit l'allocation de vie chère — l'AVC. Ou vous êtes réfugié — demandeur d'asile, personne sous protection temporaire, ou mineur non accompagné. Il existe aussi quelques autres cas, alors vérifiez sur le site si vous y avez droit.
 
 **ANNA :** Donc c'est vraiment destiné aux personnes à faibles revenus, et aux réfugiés et nouveaux arrivants.
 
-**TOM :** Exactement — les personnes pour qui acheter un ordinateur serait une vraie difficulté. Et voici une bonne nouvelle récente. Avant, c'était un ordinateur par ménage. Mais depuis fin deux mille vingt-cinq, parce qu'ils ont reçu tellement de dons, chaque membre du ménage âgé de douze ans ou plus peut obtenir son propre ordinateur.
+**TOM :** Exactement — les personnes pour qui acheter un ordinateur serait une vraie difficulté. En général, c'est un ordinateur portable par ménage. Mais les autres membres de la famille peuvent souvent demander un ordinateur en plus.
 
-**ANNA :** Donc maintenant, l'adolescent qui fait ses devoirs, et le parent qui cherche du travail, peuvent chacun avoir leur propre machine.
+**ANNA :** Donc l'adolescent qui fait ses devoirs, et le parent qui cherche du travail, peuvent peut-être avoir chacun une machine ?
 
-**TOM :** Chacun la sienne. Les adultes font la demande pour eux-mêmes, et un adulte peut faire la demande pour les enfants, de douze à dix-huit ans, qui vivent chez lui. Et le délai d'attente, en ce moment, est généralement de moins d'un mois.
+**TOM :** Souvent, oui. Les règles changent de temps en temps, donc le site explique les plus récentes — et combien de temps vous devrez peut-être attendre.
 
-**ANNA :** Moins d'un mois — c'est rapide. Et quel genre d'ordinateur reçoit-on, en fait ? Un vieux truc cassé ?
+**ANNA :** Bon à savoir. Et quel genre d'ordinateur reçoit-on, en fait ? Un vieux truc cassé ?
 
-**TOM :** Non, c'est ça le plus beau. Ils arrivent prêts à l'emploi, avec le système d'exploitation déjà installé — Windows, ou un Mac, ou parfois Linux. Un processeur correct. Et ils viennent même avec une garantie de réparation gratuite — sauf la batterie, qui sur un vieil ordinateur portable peut être faible ou manquante.
+**TOM :** Non, c'est ça le plus beau. Ils arrivent prêts à l'emploi, avec le système d'exploitation déjà installé — généralement Windows, ou un Mac. Un processeur correct. Et ils viennent même avec une garantie de réparation gratuite — sauf la batterie, qui sur un vieil ordinateur portable peut être faible ou manquante.
 
 **ANNA :** Un ordinateur gratuit, qui fonctionne, avec une garantie. C'est vraiment généreux. Bon — ça, c'est l'ordinateur. Passons à la deuxième partie. Les compétences.
 
@@ -112,7 +112,7 @@
 
 **ANNA :** Une situation très réelle. Comment Digital Inclusion change-t-il son histoire ?
 
-**TOM :** Étape par étape. D'abord, parce qu'elle est réfugiée et qu'elle vit au Luxembourg, elle est éligible. Elle fait une demande — et en un mois environ, elle reçoit un ordinateur portable qui fonctionne. Et grâce à la nouvelle règle, ses deux adolescents peuvent aussi obtenir des ordinateurs pour leurs devoirs.
+**TOM :** Étape par étape. D'abord, parce qu'elle est réfugiée et qu'elle vit au Luxembourg, elle est éligible. Elle fait une demande — et quelque temps plus tard, elle reçoit un ordinateur portable qui fonctionne. Et elle peut demander si ses deux adolescents peuvent aussi obtenir un ordinateur pour leurs devoirs.
 
 **ANNA :** Donc, d'un coup, toute la famille est connectée.
 
@@ -152,7 +152,7 @@
 
 **ANNA :** Concluons, Tom. Si je suis en train d'écouter, qu'est-ce que je dois retenir ?
 
-**TOM :** Trois choses. D'abord — si vous, ou quelqu'un que vous connaissez, avez besoin d'un ordinateur et ne pouvez pas vous le payer, et que vous vivez au Luxembourg avec de faibles revenus ou comme réfugié — il existe de l'aide. Un ordinateur gratuit, qui fonctionne, généralement en moins d'un mois.
+**TOM :** Trois choses. D'abord — si vous, ou quelqu'un que vous connaissez, avez besoin d'un ordinateur et ne pouvez pas vous le payer, et que vous vivez au Luxembourg avec de faibles revenus ou comme réfugié — il existe de l'aide. Un ordinateur gratuit, qui fonctionne.
 
 **ANNA :** Un ordinateur gratuit.
 
@@ -182,4 +182,4 @@
 
 ---
 
-*Sources : digital-inclusion.lu (Digital Inclusion a.s.b.l.), notamment les pages « Nos objectifs » et « Comment demander un ordinateur d'occasion gratuit ». Digital Inclusion est une association sans but lucratif luxembourgeoise fondée en 2016, soutenue depuis 2022 par le ministère de la Famille. Ses trois objectifs : rendre l'informatique accessible à tous, promouvoir l'inclusion sociale par la technologie, et agir pour l'environnement en réutilisant et en réparant le matériel donné. Chiffres depuis 2016 (tels que publiés sur le site, mis à jour le 03.03.2026) : 10 507 ordinateurs et 1 466 smartphones distribués, 5 822 participants aux cours. Les ordinateurs d'occasion gratuits sont destinés aux personnes vivant au Luxembourg qui reçoivent l'allocation de vie chère (AVC), aux réfugiés (demandeurs d'asile, bénéficiaires de la protection temporaire, mineurs non accompagnés), aux détenteurs d'un titre de séjour « Vie Privée », ou aux personnes engagées dans une procédure de règlement collectif des dettes ; délai d'attente moyen actuel inférieur à un mois ; depuis le 22 septembre 2025, chaque membre du ménage âgé de 12 ans ou plus peut recevoir son propre ordinateur. Bureau : 1, Dernier Sol, Bonnevoie, L-2543 Luxembourg ; ouvert en semaine de 9h30 à 17h30 ; « Open Classroom » en accès libre tous les vendredis de 9h30 à 13h30. Informations générales uniquement — consultez digital-inclusion.lu pour les détails et conditions actuels.*
+*Sources : digital-inclusion.lu (Digital Inclusion a.s.b.l.), notamment les pages « Nos objectifs » et « Comment demander un ordinateur d'occasion gratuit ». Digital Inclusion est une association sans but lucratif luxembourgeoise fondée en 2016, soutenue depuis 2022 par le ministère de la Famille. Ses trois objectifs : rendre l'informatique accessible à tous, promouvoir l'inclusion sociale par la technologie, et agir pour l'environnement en réutilisant et en réparant le matériel donné. Chiffres depuis 2016 (tels que publiés sur le site, mis à jour le 03.03.2026) : 10 507 ordinateurs et 1 466 smartphones distribués, 5 822 participants aux cours. Les ordinateurs d'occasion gratuits sont destinés aux personnes vivant au Luxembourg qui remplissent une des conditions — par exemple les ménages qui perçoivent l'allocation de vie chère (AVC), les demandeurs d'asile et les bénéficiaires de la protection temporaire ; les mineurs non accompagnés font la demande via leur assistant social. Lors de la vérification du 30.09.2026, les pages du site divergeaient sur les autres cas, le nombre d'ordinateurs par ménage et les délais d'attente — renseignez-vous auprès de Digital Inclusion pour les conditions actuelles. Bureau : 1, Dernier Sol, Bonnevoie, L-2543 Luxembourg ; ouvert en semaine de 9h30 à 17h30 ; « Open Classroom » en accès libre tous les vendredis de 9h30 à 13h30. Informations générales uniquement — consultez digital-inclusion.lu pour les détails et conditions actuels.*

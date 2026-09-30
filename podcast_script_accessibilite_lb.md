@@ -96,7 +96,7 @@
 
 **ANNA:** Et gëtt also Zäit, mä et gëtt och e kloert Zil. Gutt. A wien ka mat all deem hëllefen — fir een deen e Gebai baut oder renovéiert?
 
-**TOM:** De Portal fir d'Infrastruktur op accessibilite.lu huet d'Reegelen, d'Prozeduren, an eng Boîte à outils. Sou kann en Architekt, eng Gemeng, oder e Besëtzer fannen, wat se brauchen, fir et richteg ze maachen.
+**TOM:** De Portal fir d'Infrastruktur op accessibilite.lu huet d'Reegelen, d'Prozeduren, an eng Boîte à outils. Sou kann en Architekt, eng Gemeng, oder e Besëtzer fannen, wat se brauchen, fir et richteg ze maachen. An et gëtt finanziell Hëllef: de Staat ka d'Hallschent vun de Käschte vun den Aarbechten iwwerhuelen, bis zu véieranzwanzegdausend Euro pro Plaz — wann s du den Demande virum Juli 2028 mëss.
 
 **ANNA:** Wonnerbar. Gutt, Tom — dat ass digital an Infrastruktur. Wat ass deen drëtte Beräich?
 
@@ -116,7 +116,7 @@
 
 **ANNA:** Ah, Betriber mussen elo also un d'Accessibilitéit denken.
 
-**TOM:** Jo. Wann s du gewësse Produiten an Déngschtleeschtunge méchs oder verkeefs, da mussen se accessibel sinn. Elo — et gëtt eng Ausnam fir déi ganz kleng Betriber. Gréif gesot, d'Reegele konzentréiere sech op Entreprise mat méi wéi zéng Mataarbechter an enger gewësser Gréisst u Chiffre d'affaires. Sou gëtt de klenge Buttek op der Eck net déiselwecht behandelt wéi eng grouss Bank.
+**TOM:** Jo. Wann s du gewësse Produiten an Déngschtleeschtunge méchs oder verkeefs, da mussen se accessibel sinn. Elo — et gëtt eng Ausnam fir déi ganz kleng Betriber. Wann eng Entreprise manner wéi zéng Mataarbechter an e Chiffre d'affaires ënner zwou Milliounen Euro huet, da gëllen d'Reegele fir Déngschtleeschtungen do net. Sou gëtt de klenge Buttek op der Eck net déiselwecht behandelt wéi eng grouss Bank.
 
 **ANNA:** Dat schéngt fair. A wien hält op all dat en A?
 

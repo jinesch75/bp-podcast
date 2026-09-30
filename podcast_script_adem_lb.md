@@ -44,7 +44,7 @@
 **TOM:** A wann een léiwer eng Persoun trëfft, vis-à-vis?
 **ANNA:** Da gëtt et déi zweet Méiglechkeet... sech perséinlech an enger ADEM-Agence umellen.
 **TOM:** Dofir rufs du als éischt un, fir e Rendez-vous ze huelen. D'Nummer ass de ADEM Contact Centre, op 2-4-7, 8-8-8-8-8.
-**ANNA:** An d'ADEM huet dräi Standuerter... an der Stad Lëtzebuerg, zu Esch-Belval, an zu Diekirch. Dir kritt de Büro proposéiert, dee bei Iech doheem am nootste läit.
+**ANNA:** An Dir kënnt Iech perséinlech an dräi Agencë vun der ADEM aschreiwen... an der Stad Lëtzebuerg, zu Esch-Belval, an zu Diekirch. Dir kritt déi proposéiert, déi bei Iech doheem am nootste läit.
 **TOM:** Gutt. Also egal ob s du dech online oder perséinlech méi wuel fills, allebéid Diere stinn op.
 **ANNA:** Elo, Tom, wat soll een matbréngen oder virbereeden, ier een sech umellt?
 **TOM:** E puer einfach Saachen. Als éischt deng Sozialversécherungsnummer, déi op denger Sozialversécherungskaart steet.
@@ -76,7 +76,7 @@
 **TOM:** An et gëtt gutt Neiegkeeten, wéi s du d'Ufro méchs. Zënter kuerzem ass d'Ufro fir d'Aarbechtslosegeld komplett online.
 **ANNA:** Dat heescht manner Pabeier a gespuerten Zäit. Du kanns méi dovun vun doheem aus maachen.
 **TOM:** Loosse mer elo e bësse Opmierksamkeet op déi jonk Nolauschterer leeën, well Lëtzebuerg huet eng speziell Verspriechung fir si.
-**ANNA:** Si heescht d'Jugendgarantie. D'Zil ass, datt all jonke Mënsch, am Alter vu fofzéng bis drësseg, eng konkret Léisung ugebuede kritt, fir an d'Aarbechtsliewen anzeklammen.
+**ANNA:** Si heescht d'Jugendgarantie. D'Zil ass, datt all jonke Mënsch, am Alter vu siechzéng bis drësseg, eng konkret Léisung ugebuede kritt, fir an d'Aarbechtsliewen anzeklammen.
 **TOM:** An et gëtt e kloren Zäitkader... bannent véier Méint nodeems s du dech bei der ADEM ugemellt hues.
 **ANNA:** Déi Léisung kéint e Job sinn, mä et kéint och eng Formatioun sinn, oder en aneren Schrëtt, deen dech no vir bréngt.
 **TOM:** Also wann s du jonk bass an net sécher bass, wat s du als Nächst maache solls, ass d'ADEM eng ganz gutt Plaz, fir unzefänken.
@@ -89,7 +89,7 @@
 **ANNA:** D'Patrone kënnen och finanziell Hëllef kréien, wann si gewësse Leit astellen... zum Beispill e jonken Aarbechtssichenden, een, deen zënter laangem arbechtslos ass, oder eng Persoun mat enger Behënnerung.
 **TOM:** Also hëlleft d'ADEM net nëmmen Eenzelpersounen. Si hëlleft, datt de ganzen Aarbechtsmaart besser funktionéiert.
 **ANNA:** Et gëtt och Ënnerstëtzung fir international Recrutement, iwwer e Service mam Numm Work in Luxembourg.
-**TOM:** Dee hëlleft de Firmen hei, Talenter ze fannen, an hëlleft de Leit am Ausland, Méiglechkeeten am Land z'entdecken.
+**TOM:** An zënter 2026 gëtt et souguer eng national Websäit, workinluxembourg.com. Si hëlleft de Firmen hei, Talenter ze fannen, an hëlleft de Leit am Ausland, Méiglechkeeten am Land z'entdecken.
 **ANNA:** Tom, ier mer ophalen, gëtt et e Sécherheetspunkt, deen mer wierklech erwäine sollten.
 **TOM:** Jo, e wichtegen. Heiansdo schécken Escroke falsch E-Maile, déi virgewen, d'ADEM ze sinn, a si froen no Suen fir e Job oder e Visa.
 **ANNA:** Denkt w.e.g. kloer drun... d'ADEM freet Iech ni, fir e Job oder e Visa ze bezuelen. De Service ass gratis.

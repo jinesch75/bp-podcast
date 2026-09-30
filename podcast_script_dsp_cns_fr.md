@@ -38,7 +38,7 @@
 
 **TOM :** J'aime bien. C'est à moi, et c'est moi qui décide. Alors comment j'ouvre concrètement un DSP ?
 
-**ANNA :** Toute personne affiliée à l'assurance maladie luxembourgeoise peut en avoir un. Pour l'utiliser vous-même en ligne, vous activez votre « compte eSanté ». Et voici une bonne nouvelle : vous pouvez l'activer directement via MyGuichet.lu.
+**ANNA :** Bonne nouvelle — vous n'avez pas besoin de l'ouvrir. Si vous êtes affilié à l'assurance maladie luxembourgeoise, votre DSP est créé automatiquement. Pour l'utiliser vous-même en ligne, vous activez votre « compte eSanté ». Et vous pouvez le faire directement via MyGuichet.lu.
 
 **TOM :** C'est super. Et une fois qu'il est actif, comment je le consulte ?
 
@@ -54,19 +54,19 @@
 
 **TOM :** Bien. Maintenant, la partie qui déroute beaucoup de nouveaux arrivants. Quand je vais chez le médecin ici... je paie, ou pas ?
 
-**ANNA :** Voilà, c'est la partie importante. Le système luxembourgeois fonctionne traditionnellement par remboursement. Ça veut dire — pour une visite normale chez le médecin, vous payez d'abord, et ensuite la CNS vous rembourse la plus grande partie.
+**ANNA :** Voilà, c'est la partie importante. Traditionnellement, vous payez d'abord le médecin, et ensuite la CNS vous rembourse la plus grande partie. Mais aujourd'hui, environ la moitié des médecins utilisent le « paiement immédiat direct ». Dans ce cas, vous ne payez que votre petite part, et la CNS paie le reste au médecin tout de suite.
 
-**TOM :** Donc je paie le prix complet chez le médecin, et je récupère l'argent plus tard.
+**TOM :** Donc soit je paie le prix complet et je récupère l'argent plus tard — soit, avec le paiement direct, je ne paie que ma part.
 
 **ANNA :** Exactement. La CNS rembourse une grande partie du coût — pour la plupart des soins, c'est environ quatre-vingts à cent pour cent. Donc vous supportez une petite partie vous-même, et le reste vous revient.
 
 **TOM :** Et comment je récupère cet argent ? Qu'est-ce que je fais de la facture ?
 
-**ANNA :** Simple. Le médecin vous donne une facture — une facture papier — et vous la payez. Ensuite, vous envoyez cette facture originale, acquittée, à la CNS. Vous pouvez l'envoyer par la poste, ou la déposer dans une de leurs boîtes. La CNS verse ensuite le remboursement directement sur votre compte bancaire.
+**ANNA :** Simple. Le médecin vous donne une facture — une facture papier — et vous la payez. Ensuite, vous envoyez cette facture originale, acquittée, à la CNS. Vous pouvez l'envoyer par la poste, ou la déposer dans une de leurs boîtes. Et si votre médecin vous donne une facture digitale, vous pouvez l'envoyer en quelques clics — dans l'application de la CNS, la GesondheetsApp, ou sur MyGuichet.lu. La CNS verse ensuite le remboursement directement sur votre compte bancaire.
 
 **TOM :** Directement sur mon compte bancaire. Combien de temps ça prend ?
 
-**ANNA :** En général, moins de trois semaines. Et vous recevez un décompte écrit qui explique ce qui a été remboursé. Donc — petit conseil pour nos auditeurs — donnez à la CNS votre numéro de compte bancaire, votre IBAN, pour qu'elle puisse vous payer directement.
+**ANNA :** Pour une facture papier, en général deux à quatre semaines. Avec une facture digitale, ça peut être quelques jours seulement. Et vous recevez un décompte écrit qui explique ce qui a été remboursé. Donc — petit conseil pour nos auditeurs — donnez à la CNS votre numéro de compte bancaire, votre IBAN, pour qu'elle puisse vous payer directement.
 
 **TOM :** Bons conseils. Mais attendez — avancer le montant complet... pour une grosse facture, ça pourrait être difficile pour certaines personnes.
 
@@ -80,7 +80,7 @@
 
 **ANNA :** Exactement. Et c'est la même idée pour un séjour normal à l'hôpital. L'hôpital facture les soins directement à la CNS. Vous payez surtout une petite contribution journalière, et vos extras personnels.
 
-**TOM :** Ça rend les choses beaucoup plus faciles. Donc... les médicaments et l'hôpital — je ne paie que ma part. La visite normale chez le médecin — je paie d'abord et je suis remboursé.
+**TOM :** Ça rend les choses beaucoup plus faciles. Donc... les médicaments et l'hôpital — je ne paie que ma part. La visite normale chez le médecin — je paie d'abord et je suis remboursé, sauf si mon médecin utilise le paiement direct.
 
 **ANNA :** C'est une bonne façon de le retenir. Et il y a encore une chose vraiment importante pour les personnes à faible revenu.
 
@@ -90,7 +90,7 @@
 
 **TOM :** C'est vraiment important. Donc personne ne devrait éviter le médecin simplement parce qu'il ne peut pas payer d'abord.
 
-**ANNA :** Exactement. Si c'est votre situation, vous pouvez vous renseigner sur le tiers payant social — souvent via votre médecin ou l'office social.
+**ANNA :** Exactement. Si c'est votre situation, vous pouvez demander le tiers payant social à l'office social de votre commune.
 
 **TOM :** Formidable. Bon, Anna — rassemblons tout ça. Un petit résumé de l'ensemble ?
 
@@ -98,7 +98,7 @@
 
 **TOM :** Et la deuxième partie ?
 
-**ANNA :** Deuxième partie — la CNS, l'assurance maladie nationale. Pour une visite normale chez le médecin, vous payez d'abord et la CNS vous rembourse la plus grande partie sur votre compte bancaire, en environ trois semaines. Pour les médicaments et l'hôpital, vous ne payez généralement que votre petite part. Et si l'argent est un problème, le tiers payant social fait que vous n'avancez pas les frais.
+**ANNA :** Deuxième partie — la CNS, l'assurance maladie nationale. Pour une visite normale chez le médecin, soit votre médecin utilise le paiement immédiat direct et vous ne payez que votre part — soit vous payez d'abord, et la CNS vous rembourse la plus grande partie sur votre compte bancaire, en quelques semaines, ou en quelques jours pour une facture digitale. Pour les médicaments et l'hôpital, vous ne payez généralement que votre petite part. Et si l'argent est un problème, le tiers payant social fait que vous n'avancez pas les frais.
 
 **TOM :** Donc le message est — activez votre dossier de santé, gardez vos factures, donnez vos coordonnées bancaires à la CNS, et n'ayez pas peur de demander de l'aide si vous en avez besoin.
 

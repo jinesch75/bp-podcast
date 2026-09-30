@@ -64,7 +64,7 @@
 
 **ANNA :** Ah, le test. Donc si je reçois un message qui dit que c'est un test...
 
-**TOM :** ...alors vous n'avez rien à faire. Le message dira clairement que c'est un test. Le Luxembourg organise des tests nationaux. C'est normal, pas d'inquiétude.
+**TOM :** ...alors vous n'avez rien à faire. Le message dira clairement que c'est un test. Le Luxembourg teste le système chaque mois — et les sirènes sont testées le premier lundi du mois, vers midi. C'est normal, pas d'inquiétude.
 
 **ANNA :** Très bon à savoir. Comme ça, personne ne panique un jour de test. Maintenant — quels types d'événements peuvent déclencher une alerte ?
 

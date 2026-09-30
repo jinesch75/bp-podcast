@@ -50,7 +50,7 @@
 
 **TOM:** So instead of everyone scattered across four countries, they have one shared house.
 
-**ANNA:** That's the idea. Under that one roof, you find several teams. The main one is the Summit Secretariat of the Greater Region. There's also the secretariat of the Economic and Social Committee. There's the team that manages the European funding programme, called Interreg. There's a representation of one of the German regions, Rhineland-Palatinate. And there's the cultural association, the Espace Culturel.
+**ANNA:** That's the idea. Under that one roof, you find several teams. The main one is the Summit Secretariat of the Greater Region. There's also the secretariat of the Economic and Social Committee. There's the team that manages the European funding programme, called Interreg. There's a representation of one of the German regions, Rhineland-Palatinate. And there are networks of towns and communes, like QuattroPole and EuRegio.
 
 **TOM:** So it really is a house full of different neighbours, all working toward the same thing.
 
@@ -110,11 +110,11 @@
 
 **TOM:** That's such a human way to think about a border. Okay — what about education?
 
-**ANNA:** Education is a real jewel. There's the University of the Greater Region. It links six universities, in four countries, and lets students move between them.
+**ANNA:** Education is a real jewel. There's the University of the Greater Region. It links seven universities, in four countries, and lets students move between them.
 
-**TOM:** Six universities working as one network.
+**TOM:** Seven universities working as one network.
 
-**ANNA:** As one network. More than a hundred and thirty thousand students, with cross-border courses, double diplomas, joint degrees. So a young person can study in several countries and come out with qualifications recognised across the Region.
+**ANNA:** As one network. More than a hundred and forty thousand students, with cross-border courses, double diplomas, joint degrees. So a young person can study in several countries and come out with qualifications recognised across the Region.
 
 **TOM:** And the languages?
 
@@ -122,9 +122,9 @@
 
 **TOM:** And there's culture too, I imagine.
 
-**ANNA:** A lot of culture. Remember, back in two thousand and seven, Luxembourg and the Greater Region were together the European Capital of Culture for a whole year. That left behind a cultural association — the Espace Culturel — which is actually one of the neighbours in the House.
+**ANNA:** A lot of culture. Remember, back in two thousand and seven, Luxembourg and the Greater Region were together the European Capital of Culture for a whole year. That year left a real cross-border cultural spirit behind — and you can still feel it all over the Region.
 
-**TOM:** So the House isn't only about politics and paperwork — there's culture living inside it too.
+**TOM:** So the Greater Region isn't only about politics and paperwork — there's real culture living in it too.
 
 **ANNA:** Culture, tourism, shared heritage, UNESCO world-heritage sites all across the Region. It's a place with a deep common history — and a lot to discover.
 
@@ -190,4 +190,4 @@
 
 ---
 
-*Sources: granderegion.net (official website of the Greater Region / Summit Secretariat). The Greater Region: 5 regions, 4 countries, 3 languages — Luxembourg, Lorraine (Grand Est, France), Saarland and Rhineland-Palatinate (Germany), Wallonia, the Wallonia-Brussels Federation and the German-speaking Community of Belgium; 65,401 km²; 11.8 million inhabitants; about 270,000 daily cross-border commuters (the most in Europe). Origins in a 1969 Franco-German commission; Luxembourg joined in 1971; first Summit in Mondorf-les-Bains in 1995; Summit Secretariat created in 2013 (EGTC/GECT under Luxembourg law). The House of the Greater Region (Maison de la Grande Région / Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, opened in 2015 and hosts the EGTC Summit Secretariat, the Economic and Social Committee secretariat, the Interreg managing authority, the representation of Rhineland-Palatinate and the Espace Culturel. General information only — see granderegion.net for current details.*
+*Sources: granderegion.net (official website of the Greater Region / Summit Secretariat). The Greater Region: 5 regions, 4 countries, 3 languages — Luxembourg, Lorraine (Grand Est, France), Saarland and Rhineland-Palatinate (Germany), Wallonia, the Wallonia-Brussels Federation and the German-speaking Community of Belgium; 65,401 km²; 11.8 million inhabitants; about 270,000 daily cross-border commuters (the most in Europe). Origins in a 1969 Franco-German commission; Luxembourg joined in 1971; first Summit in Mondorf-les-Bains in 1995; Summit Secretariat created in 2013 (EGTC/GECT under Luxembourg law). The House of the Greater Region (Maison de la Grande Région / Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, opened in 2015 and hosts the EGTC Summit Secretariat, the Economic and Social Committee secretariat, the Interreg managing authority, the representation of Rhineland-Palatinate, EuRegio SaarLorLux+, QuattroPole and the Institut de la Grande Région. The University of the Greater Region (UniGR) links 7 universities (including one associated partner) with more than 141,000 students. General information only — see granderegion.net for current details.*

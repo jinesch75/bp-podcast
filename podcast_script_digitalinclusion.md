@@ -52,19 +52,19 @@
 
 **ANNA:** What are they?
 
-**TOM:** The main ones are these. Your household receives the cost-of-living allowance — the allocation de vie chère. Or you're a refugee — an asylum seeker, a person under temporary protection, or an unaccompanied minor. Or you hold a residence permit of the "private life" type. Or you're going through an official debt-settlement procedure for over-indebtedness.
+**TOM:** The main ones are these. Your household receives the cost-of-living allowance — the allocation de vie chère. Or you're a refugee — an asylum seeker, a person under temporary protection, or an unaccompanied minor. There are a few other cases too, so check the website to see if you qualify.
 
 **ANNA:** So it's really aimed at people on a low income, and at refugees and newcomers.
 
-**TOM:** Exactly — the people for whom buying a computer would be a real struggle. And here's some good recent news. In the past, it was one computer per household. But since late twenty twenty-five, because they've received so many donations, each member of the household aged twelve or older can get their own computer.
+**TOM:** Exactly — the people for whom buying a computer would be a real struggle. Usually, it's one laptop per household. But other members of the family can often ask for an extra computer too.
 
-**ANNA:** So now the teenager doing homework, and the parent looking for work, can each have their own machine.
+**ANNA:** So the teenager doing homework, and the parent looking for work, may each get a machine?
 
-**TOM:** Each their own. Adults apply for themselves, and an adult can apply for the children, aged twelve to eighteen, in their home. And the waiting time, right now, is usually under a month.
+**TOM:** Often, yes. The rules change from time to time, so the website explains the latest ones — and how long you might have to wait.
 
-**ANNA:** Under a month — that's fast. And what kind of computer do you actually get? Some old, broken thing?
+**ANNA:** Good to know. And what kind of computer do you actually get? Some old, broken thing?
 
-**TOM:** No, that's the lovely part. They come ready to use, with the operating system already installed — Windows, or a Mac, or sometimes Linux. A decent processor. And they even come with a free repair warranty — apart from the battery, which on an old laptop might be weak or missing.
+**TOM:** No, that's the lovely part. They come ready to use, with the operating system already installed — usually Windows, or a Mac. A decent processor. And they even come with a free repair warranty — apart from the battery, which on an old laptop might be weak or missing.
 
 **ANNA:** A free computer, that works, with a warranty. That's genuinely generous. Okay — that's the computer. Now the second part. The skills.
 
@@ -112,7 +112,7 @@
 
 **ANNA:** A very real situation. How does Digital Inclusion change her story?
 
-**TOM:** Step by step. First, because she's a refugee living in Luxembourg, she's eligible. She applies — and within about a month, she receives a working laptop. And because of the new rule, her two teenagers can get computers for their schoolwork too.
+**TOM:** Step by step. First, because she's a refugee living in Luxembourg, she's eligible. She applies — and some time later, she receives a working laptop. And she can ask whether her two teenagers can get a computer for their schoolwork too.
 
 **ANNA:** So suddenly the whole family is online.
 
@@ -152,7 +152,7 @@
 
 **ANNA:** Let's bring it home, Tom. If I'm listening, what should I take away?
 
-**TOM:** Three things. First — if you, or someone you know, needs a computer and can't afford one, and you live in Luxembourg on a low income or as a refugee — help exists. A free, working computer, usually within a month.
+**TOM:** Three things. First — if you, or someone you know, needs a computer and can't afford one, and you live in Luxembourg on a low income or as a refugee — help exists. A free, working computer.
 
 **ANNA:** A free computer.
 
@@ -182,4 +182,4 @@
 
 ---
 
-*Sources: digital-inclusion.lu (Digital Inclusion a.s.b.l.), including the "Our goals" and "How to apply for a free second-hand computer" pages. Digital Inclusion is a Luxembourg non-profit founded in 2016, supported since 2022 by the Ministry of Family. Its three goals: make IT accessible to all, promote social inclusion through technology, and act for the environment by re-using and repairing donated equipment. Figures since 2016 (as published on the site, updated 03.03.2026): 10,507 computers and 1,466 smartphones distributed, 5,822 class participants. Free second-hand computers go to people living in Luxembourg who receive the cost-of-living allowance (allocation de vie chère), refugees (asylum seekers, beneficiaries of temporary protection, unaccompanied minors), holders of a "Vie Privée" residence permit, or persons in a collective debt-settlement procedure; current average waiting time under one month; since 22 September 2025 each household member aged 12+ may receive their own computer. Office: 1, Dernier Sol, Bonnevoie, L-2543 Luxembourg; open weekdays 9:30–17:30; walk-in "Open Classroom" every Friday 9:30–13:30. General information only — see digital-inclusion.lu for current details and conditions.*
+*Sources: digital-inclusion.lu (Digital Inclusion a.s.b.l.), including the "Our goals" and "How to apply for a free second-hand computer" pages. Digital Inclusion is a Luxembourg non-profit founded in 2016, supported since 2022 by the Ministry of Family. Its three goals: make IT accessible to all, promote social inclusion through technology, and act for the environment by re-using and repairing donated equipment. Figures since 2016 (as published on the site, updated 03.03.2026): 10,507 computers and 1,466 smartphones distributed, 5,822 class participants. Free second-hand computers go to people living in Luxembourg who meet one of the conditions — for example households receiving the cost-of-living allowance (allocation de vie chère), asylum seekers and beneficiaries of temporary protection; unaccompanied minors apply through their social worker. When checked on 30.09.2026, the site's pages differed on further cases, the number of computers per household and waiting times — check with Digital Inclusion for the current conditions. Office: 1, Dernier Sol, Bonnevoie, L-2543 Luxembourg; open weekdays 9:30–17:30; walk-in "Open Classroom" every Friday 9:30–13:30. General information only — see digital-inclusion.lu for current details and conditions.*

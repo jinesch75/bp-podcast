@@ -942,7 +942,7 @@ const EPISODES = [
      "Whenever the mobile network is down"
     ],
     "correct": 2,
-    "explanation": "Today the sirens are used only for a nuclear alert. All other warnings reach you through phones (Cell Broadcast and SMS), the app, websites and the media."
+    "explanation": "Today the sirens are used only for a nuclear alert. All other warnings reach you through phones (Cell Broadcast and SMS), the app, websites and the media. The sirens are tested on the first Monday of each month, around noon."
    },
    {
     "text": "How can you check that an alert message is genuine and not phishing?",
@@ -3074,7 +3074,7 @@ const EPISODES = [
      "Chaque fois que le réseau mobile est en panne"
     ],
     "correct": 2,
-    "explanation": "Aujourd'hui, les sirènes ne sont utilisées que pour une alerte nucléaire. Toutes les autres alertes vous atteignent par téléphone (Cell Broadcast et SMS), l'application, les sites internet et les médias."
+    "explanation": "Aujourd'hui, les sirènes ne sont utilisées que pour une alerte nucléaire. Toutes les autres alertes vous atteignent par téléphone (Cell Broadcast et SMS), l'application, les sites internet et les médias. Les sirènes sont testées le premier lundi de chaque mois, vers midi."
    },
    {
     "text": "Comment pouvez-vous vérifier qu'un message d'alerte est authentique et non du phishing ?",
@@ -3145,7 +3145,7 @@ const EPISODES = [
      "Immer wenn das Mobilfunknetz ausfällt"
     ],
     "correct": 2,
-    "explanation": "Heute werden die Sirenen nur bei einem Nuklearalarm eingesetzt. Alle anderen Warnungen erreichen Sie über das Telefon (Cell Broadcast und SMS), die App, Websites und die Medien."
+    "explanation": "Heute werden die Sirenen nur bei einem Nuklearalarm eingesetzt. Alle anderen Warnungen erreichen Sie über das Telefon (Cell Broadcast und SMS), die App, Websites und die Medien. Die Sirenen werden am ersten Montag jedes Monats gegen Mittag getestet."
    },
    {
     "text": "Wie können Sie prüfen, ob eine Warnnachricht echt ist und kein Phishing?",
@@ -3218,7 +3218,7 @@ const EPISODES = [
      "All Kéier, wann d'Handysnetz ausfält"
     ],
     "correct": 2,
-    "explanation": "Haut ginn d'Sirenen nëmme bei engem Nuklearalarm benotzt. All aner Warnungen erreechen Iech iwwer den Handy (Cell Broadcast an SMS), d'App, d'Websäiten an d'Medien."
+    "explanation": "Haut ginn d'Sirenen nëmme bei engem Nuklearalarm benotzt. All aner Warnungen erreechen Iech iwwer den Handy (Cell Broadcast an SMS), d'App, d'Websäiten an d'Medien. D'Sirene ginn den éischte Méindeg vun all Mount géint Mëtteg getest."
    },
    {
     "text": "Wéi kënnt Dir kontrolléieren, ob en Alarmmessage echt ass an net Phishing?",

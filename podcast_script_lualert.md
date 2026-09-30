@@ -64,7 +64,7 @@
 
 **ANNA:** Ah, the test. So if I get a message that says it's a test...
 
-**TOM:** ...then you don't need to do anything. The message will say clearly that it is a test. Luxembourg runs national tests. It's normal, don't worry.
+**TOM:** ...then you don't need to do anything. The message will say clearly that it is a test. Luxembourg tests the system every month — and the sirens are tested on the first Monday of the month, around noon. It's normal, don't worry.
 
 **ANNA:** Very good to know. So nobody panics on a test day. Now — what kind of events can trigger an alert?
 

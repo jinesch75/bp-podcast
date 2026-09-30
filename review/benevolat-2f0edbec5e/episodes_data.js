@@ -852,7 +852,7 @@ const EPISODES = [
      "Yes, at least three months, with a signed contract and a fixed number of hours every single week"
     ],
     "correct": 1,
-    "explanation": "You do not need a long commitment. Many missions on benevolat.lu are for a single event or a single day – helping at a gala, marshalling a race, manning a barbecue – so anyone with a busy life can take part."
+    "explanation": "You do not need a long commitment. Many missions on benevolat.lu are for a single event or a single day – helping at a gala, marshalling a race, helping at a summer party – so anyone with a busy life can take part."
    },
    {
     "text": "What simple method does the episode suggest for getting started as a volunteer?",
@@ -2734,7 +2734,7 @@ const EPISODES = [
      "Oui, au moins trois mois, avec un contrat signé et un nombre d'heures fixe chaque semaine"
     ],
     "correct": 1,
-    "explanation": "Vous n'avez pas besoin d'un engagement long. Beaucoup de missions sur benevolat.lu concernent un seul événement ou une seule journée – aider à un gala, être signaleur pour une course, tenir un barbecue – donc toute personne avec une vie bien remplie peut participer."
+    "explanation": "Vous n'avez pas besoin d'un engagement long. Beaucoup de missions sur benevolat.lu concernent un seul événement ou une seule journée – aider à un gala, être signaleur pour une course, donner un coup de main à une fête d'été – donc toute personne avec une vie bien remplie peut participer."
    },
    {
     "text": "Quelle méthode simple l'épisode propose-t-il pour commencer le bénévolat ?",
@@ -2805,7 +2805,7 @@ const EPISODES = [
      "Ja, mindestens drei Monate, mit einem unterschriebenen Vertrag und einer festen Stundenzahl jede Woche"
     ],
     "correct": 1,
-    "explanation": "Sie brauchen keine langfristige Verpflichtung. Viele Einsätze auf benevolat.lu gelten für eine einzige Veranstaltung oder einen einzigen Tag – bei einer Gala helfen, Streckenposten bei einem Rennen sein, den Grill übernehmen – so kann jeder mit einem vollen Alltag mitmachen."
+    "explanation": "Sie brauchen keine langfristige Verpflichtung. Viele Einsätze auf benevolat.lu gelten für eine einzige Veranstaltung oder einen einzigen Tag – bei einer Gala helfen, Streckenposten bei einem Rennen sein, bei einem Sommerfest mithelfen – so kann jeder mit einem vollen Alltag mitmachen."
    },
    {
     "text": "Welche einfache Methode schlägt die Folge vor, um als Freiwilliger anzufangen?",
@@ -2877,7 +2877,7 @@ const EPISODES = [
      "Jo, op d'mannst dräi Méint, mat engem ënnerschriwwene Kontrakt an enger fixer Zuel u Stonnen all Woch"
     ],
     "correct": 1,
-    "explanation": "Dir braucht kee laangt Engagement. Vill Missiounen op benevolat.lu si fir een eenzegt Evenement oder een eenzegen Dag – bei engem Gala hëllefen, Commissaire bei engem Rennen sinn, de Grill bedéngen – sou datt jiddereen mat engem voller Alldag ka matmaachen."
+    "explanation": "Dir braucht kee laangt Engagement. Vill Missiounen op benevolat.lu si fir een eenzegt Evenement oder een eenzegen Dag – bei engem Gala hëllefen, Commissaire bei engem Rennen sinn, bei engem Summerfest mat upaken – sou datt jiddereen mat engem voller Alldag ka matmaachen."
    },
    {
     "text": "Wéi eng einfach Method proposéiert d'Episod, fir als Benevole unzefänken?",

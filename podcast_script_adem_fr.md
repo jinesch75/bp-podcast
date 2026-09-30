@@ -44,7 +44,7 @@
 **TOM:** Et si quelqu'un préfère rencontrer une personne, en face à face ?
 **ANNA:** Alors il y a la deuxième façon... s'inscrire en personne dans une agence de l'ADEM.
 **TOM:** Pour cela, vous appelez d'abord pour prendre rendez-vous. Le numéro est celui du Contact Center de l'ADEM, le 2-4-7, 8-8-8-8-8.
-**ANNA:** Et l'ADEM a trois sites... à Luxembourg-Ville, à Esch-Belval, et à Diekirch. On vous proposera le bureau le plus proche de chez vous.
+**ANNA:** Et vous pouvez vous inscrire sur place dans trois agences de l'ADEM... à Luxembourg-Ville, à Esch-Belval, et à Diekirch. On vous proposera celle qui est la plus proche de chez vous.
 **TOM:** Très bien. Donc, que vous soyez plus à l'aise en ligne ou en personne, les deux portes sont ouvertes.
 **ANNA:** Maintenant, Tom, qu'est-ce qu'on devrait apporter ou préparer avant de s'inscrire ?
 **TOM:** Quelques choses simples. D'abord, votre numéro de sécurité sociale, qui se trouve sur votre carte de sécurité sociale.
@@ -76,7 +76,7 @@
 **TOM:** Et il y a une bonne nouvelle sur la façon de faire la demande. Récemment, la demande d'indemnité de chômage est devenue entièrement en ligne.
 **ANNA:** Cela veut dire moins de paperasse, et du temps gagné. Vous pouvez en faire une plus grande partie depuis chez vous.
 **TOM:** Tournons-nous maintenant vers nos auditeurs plus jeunes, parce que le Luxembourg a une promesse spéciale pour eux.
-**ANNA:** Cela s'appelle la Garantie Jeunesse. L'objectif, c'est que chaque jeune, âgé de quinze à trente ans, se voie proposer une solution concrète pour entrer dans la vie active.
+**ANNA:** Cela s'appelle la Garantie Jeunesse. L'objectif, c'est que chaque jeune, âgé de seize à trente ans, se voie proposer une solution concrète pour entrer dans la vie active.
 **TOM:** Et il y a un délai clair... dans les quatre mois suivant l'inscription à l'ADEM.
 **ANNA:** Cette solution peut être un emploi, mais cela peut aussi être une formation, ou une autre étape qui vous fait avancer.
 **TOM:** Donc si vous êtes jeune et que vous ne savez pas trop quoi faire ensuite, l'ADEM est un très bon point de départ.
@@ -89,7 +89,7 @@
 **ANNA:** Les employeurs peuvent aussi recevoir une aide financière lorsqu'ils embauchent certaines personnes... par exemple un jeune demandeur d'emploi, une personne au chômage depuis longtemps, ou une personne en situation de handicap.
 **TOM:** Donc l'ADEM ne se contente pas d'aider les individus. Elle aide tout le marché de l'emploi à mieux fonctionner.
 **ANNA:** Il y a aussi un soutien pour le recrutement international, à travers un service appelé Work in Luxembourg.
-**TOM:** Cela aide les entreprises d'ici à trouver des talents, et aide les personnes à l'étranger à découvrir des opportunités dans le pays.
+**TOM:** Et depuis 2026, il y a même un site national, workinluxembourg.com. Il aide les entreprises d'ici à trouver des talents, et aide les personnes à l'étranger à découvrir des opportunités dans le pays.
 **ANNA:** Tom, avant de terminer, il y a un point de sécurité que nous devrions vraiment mentionner.
 **TOM:** Oui, un point important. Parfois, des escrocs envoient de faux courriels en se faisant passer pour l'ADEM, et ils demandent de l'argent pour un emploi ou un visa.
 **ANNA:** Retenez bien ceci... l'ADEM ne vous demande jamais de payer pour un emploi ou un visa. Le service est gratuit.

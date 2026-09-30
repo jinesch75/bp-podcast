@@ -64,7 +64,7 @@
 
 **ANNA:** Ah, den Test. Also wann ech e Message kréien, deen seet, et ass en Test...
 
-**TOM:** ...da braucht Dir näischt ze maachen. De Message seet kloer, datt et en Test ass. Lëtzebuerg mécht national Tester. Dat ass normal, keng Suerg.
+**TOM:** ...da braucht Dir näischt ze maachen. De Message seet kloer, datt et en Test ass. Lëtzebuerg test de System all Mount — an d'Sirene gi den éischte Méindeg vum Mount géint Mëtteg getest. Dat ass normal, keng Suerg.
 
 **ANNA:** Ganz gutt ze wëssen. Sou panikéiert keen op engem Testdag. Elo — wéi eng Evenementer kënnen en Alarm ausléisen?
 

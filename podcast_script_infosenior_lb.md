@@ -54,7 +54,7 @@
 
 **TOM:** Dat ass eng grouss Saach, virun allem fir eppes esou Sensibles, wéi sech ëm en Elterendeel ze këmmeren. A wéi rezent ass dëse Register?
 
-**ANNA:** Hien baséiert op engem Gesetz, dat zënter dem éischte Mäerz 2024 a Kraaft ass. An e gëtt reegelméisseg aktualiséiert, sou datt d'Informatioune zouverlässeg an aktuell bleiwen.
+**ANNA:** Hie baséiert op engem Gesetz vun 2023, an de Register ass zënter dem éischte Mäerz 2024 online. An e gëtt reegelméisseg aktualiséiert, sou datt d'Informatioune zouverlässeg an aktuell bleiwen.
 
 **TOM:** Perfekt. Gutt, Anna — loosse mer konkret ginn. Wéi eng Servicer fannen ech do?
 
@@ -98,7 +98,7 @@
 
 **TOM:** Dat ass eng fürsuerglech Approche. A gëtt et eng Plaz, déi um Wëssen selwer schafft — Fuerschung, Ausbildung fir d'Leit, déi pfleegen?
 
-**ANNA:** Jo. Et gëtt e Kompetenzzenter fir d'Eelerwerden, dee säit ongeféier drësseg Joer existéiert. Et mécht dräi Saachen — Aktivitéiten a Léieren fir Senioren, Weiderbildung fir d'Fleegefachleit, a Fuerschung iwwer d'Eelerwerden. Sou verbessert sech d'Qualitéit ëmmer weider mat der Zäit.
+**ANNA:** Jo. Et gëtt e Kompetenzzenter fir d'Eelerwerden, de GERO, dee säit méi wéi fënnefandrësseg Joer existéiert. Et mécht dräi Saachen — Aktivitéiten a Léieren fir Senioren, Weiderbildung fir d'Fleegefachleit, a Fuerschung iwwer d'Eelerwerden. Sou verbessert sech d'Qualitéit ëmmer weider mat der Zäit.
 
 **TOM:** Also bleift et net stoen. Gutt. Anna, loosse mer dat ganz konkret maachen. Kënne mer e Beispill huelen?
 
@@ -122,7 +122,7 @@
 
 **TOM:** Elo, Anna — eng praktesch Suerg. Wat ass, wann ech e Problem mat engem Service hunn? Oder ech weess einfach net, wie froen?
 
-**ANNA:** Gutt Fro. Et gëtt en nationale Service fir Informatioun a Mediatioun an dësem Beräich. Wann Dir also musst gefouert ginn, oder wann et eng Meenungsverschiddenheet mat engem Service gëtt, dann gëtt et eng neutral Plaz, déi Iech hëllefe kann, eng Léisung ze fannen.
+**ANNA:** Gutt Fro. Dir kënnt einfach d'Senioren-Telefon uruffen, op 247-86000, fir Informatioun a Berodung. A wann et eng Meenungsverschiddenheet mat engem Service gëtt, da gëtt et de SIMPA, den nationale Service fir Informatioun a Mediatioun — eng neutral Plaz, déi Iech hëlleft, eng Léisung ze fannen.
 
 **TOM:** Also ass een ni komplett eleng domat.
 
@@ -134,7 +134,7 @@
 
 **TOM:** D'Generatioune verbannen — jonk an al zesummen.
 
-**ANNA:** Jo. D'Eelerwerden ass net just iwwer Fleeg. Et ass och iwwer aktiv, nëtzlech a verbonne bleiwen. An et gëtt och finanziell Ënnerstëtzung — fir Leit, déi net genuch Geld hunn, fir d'Käschte vun der Fleeg ze decken, hëlleft de Staat.
+**ANNA:** Jo. D'Eelerwerden ass net just iwwer Fleeg. Et ass och iwwer aktiv, nëtzlech a verbonne bleiwen. An et gëtt och finanziell Ënnerstëtzung. Zënter 2026 hëlleft e System mam Numm COMPA de Leit, déi net genuch Geld hunn, fir e Fleegeheem oder e betreit Wunnen ze bezuelen.
 
 **TOM:** Dat ass wichteg — datt d'Geld net d'Barrière sollt sinn, fir Fleeg ze kréien. Gutt, Anna, loosse mer et wierklech praktesch maachen. Wann ech nolauschteren, an ech — oder meng Elteren — kéinten e bësse Hëllef brauchen, wat maachen ech?
 
@@ -162,4 +162,4 @@
 
 ---
 
-*Quell: infosenior.public.lu (Info-Seniors — Ëffentlecht Register vun de Servicer fir Senioren) a mfsva.gouvernement.lu, Ministère vun der Famill, der Solidaritéit, dem Zesummeliewen an dem Empfang vu Flüchtlingen — Säiten "Eeler Leit" a "Senioren-Aktivitéiten". D'Ëffentlecht Register baséiert op dem Gesetz, dat zënter dem 1. Mäerz 2024 a Kraaft ass. Nëmmen allgemeng Informatiounen — kuckt op infosenior.lu fir déi aktuell Detailer a Konditioune vun all Service.*
+*Quell: infosenior.public.lu (Info-Seniors — Ëffentlecht Register vun de Servicer fir Senioren) a mfsva.gouvernement.lu, Ministère vun der Famill, der Solidaritéit, dem Zesummeliewen an dem Empfang vu Flüchtlingen — Säiten "Eeler Leit" a "Senioren-Aktivitéiten". D'Ëffentlecht Register baséiert op dem geännerte Gesetz vum 23. August 2023 iwwer d'Qualitéit vun de Servicer fir eeler Leit an ass zënter dem 1. Mäerz 2024 online. Zënter dem 1. Januar 2026 hëlleft de COMPA (Complément pour personnes âgées, Fonds national de solidarité) Leit mat wéineg Mëttelen, e Fleegeheem oder e betreit Wunnen ze bezuelen. Informatioun a Berodung: Senioren-Telefon 247-86000; Mediatioun: SIMPA (simpa.public.lu). Nëmmen allgemeng Informatiounen — kuckt op infosenior.lu fir déi aktuell Detailer a Konditioune vun all Service.*

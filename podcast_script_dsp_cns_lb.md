@@ -38,7 +38,7 @@
 
 **TOM:** Dat gefält mer. En ass mäin, an ech decidéieren. Wéi maachen ech dann elo en DSP op?
 
-**ANNA:** All Persoun, déi bei der Lëtzebuerger Gesondheetskeess affiliéiert ass, kann een hunn. Fir en selwer online ze benotzen, aktivéiert Dir Ären "eSanté-Kont". An hei ass déi gutt Nouvelle: Dir kënnt en direkt iwwer MyGuichet.lu aktivéieren.
+**ANNA:** Gutt Nouvelle — Dir musst en net opmaachen. Wann Dir bei der Lëtzebuerger Gesondheetskeess affiliéiert sidd, gëtt Ären DSP automatesch ugeluecht. Fir en selwer online ze benotzen, aktivéiert Dir Ären "eSanté-Kont". An dat kënnt Dir direkt iwwer MyGuichet.lu maachen.
 
 **TOM:** Dat ass super. A wann en aktiv ass, wéi kucken ech en?
 
@@ -54,19 +54,19 @@
 
 **TOM:** Gutt. Elo deen Deel, deen vill nei Leit duercherneebréngt. Wann ech hei bei den Dokter ginn... bezuelen ech, oder net?
 
-**ANNA:** Genee, dat ass dee wichtegen Deel. De Lëtzebuerger System funktionéiert traditionell mam Remboursement. Dat heescht — bei enger normaler Visite beim Dokter bezuelt Dir fir d'éischt, an duerno bezilt d'CNS Iech dat meescht zeréck.
+**ANNA:** Genee, dat ass dee wichtegen Deel. Traditionell bezuelt Dir fir d'éischt den Dokter, an duerno bezilt d'CNS Iech dat meescht zeréck. Mä haut benotzt ongeféier d'Hallschent vun den Dokteren den "direkte Sofortpaiement", de Paiement immédiat direct. Da bezuelt Dir just Ären eegene klengen Undeel, an d'CNS bezilt dem Dokter de Rescht direkt.
 
-**TOM:** Also bezuelen ech de vollen Präis beim Dokter, a kréien duerno Suen zeréck.
+**TOM:** Also entweder bezuelen ech de vollen Präis a kréie méi spéit Suen zeréck — oder, mam direkte Paiement, bezuelen ech just mäin Undeel.
 
 **ANNA:** Genee. D'CNS rembourséiert e groussen Deel vun de Käschten — fir déi meescht Soinen sinn et ronn achtzeg bis honnert Prozent. Also drot Dir e klengen Deel selwer, an de Rescht kënnt bei Iech zeréck.
 
 **TOM:** A wéi kréien ech dës Suen zeréck? Wat maachen ech mat der Rechnung?
 
-**ANNA:** Einfach. Den Dokter gëtt Iech eng Faktur — eng Rechnung op Pabeier — an Dir bezuelt se. Da schéckt Dir déi original, bezuelte Faktur un d'CNS. Dir kënnt se mat der Post schécken, oder an eng vun hire Boîten deposéieren. D'CNS iwwerweist de Remboursement dann direkt op Äre Bankkont.
+**ANNA:** Einfach. Den Dokter gëtt Iech eng Faktur — eng Rechnung op Pabeier — an Dir bezuelt se. Da schéckt Dir déi original, bezuelte Faktur un d'CNS. Dir kënnt se mat der Post schécken, oder an eng vun hire Boîten deposéieren. A wann Ären Dokter Iech eng digital Rechnung gëtt, kënnt Dir se mat e puer Klicken eraschécken — an der App vun der CNS, der GesondheetsApp, oder op MyGuichet.lu. D'CNS iwwerweist de Remboursement dann direkt op Äre Bankkont.
 
 **TOM:** Direkt op mäi Bankkont. Wéi laang dauert dat?
 
-**ANNA:** Normalerweis manner wéi dräi Wochen. An Dir kritt e schrëftlechen Décompte, deen erkläert, wat rembourséiert gouf. Also — en Tipp fir eis Nolauschterer — gitt der CNS Är Bankkontosnummer, Ären IBAN, sou datt si Iech direkt bezuele kënnen.
+**ANNA:** Fir eng Rechnung op Pabeier normalerweis zwou bis véier Wochen. Mat enger digitaler Rechnung kënnen et just e puer Deeg sinn. An Dir kritt e schrëftlechen Décompte, deen erkläert, wat rembourséiert gouf. Also — en Tipp fir eis Nolauschterer — gitt der CNS Är Bankkontosnummer, Ären IBAN, sou datt si Iech direkt bezuele kënnen.
 
 **TOM:** Gutt Tippen. Mä waart — de ganze Betrag fir d'éischt bezuelen... bei enger grousser Rechnung kéint dat fir verschidde Leit schwéier sinn.
 
@@ -80,7 +80,7 @@
 
 **ANNA:** Genee. An et ass déiselwecht Iddi bei engem normale Spidolsopenthalt. D'Spidol facturéiert d'Soinen direkt un d'CNS. Dir bezuelt haaptsächlech eng kleng deeglech Participatioun, an Är perséinlech Extraen.
 
-**TOM:** Dat mécht et vill méi einfach. Also... Medikamenter a Spidol — ech bezuelen nëmme mäin Undeel. Déi normal Visite beim Dokter — ech bezuele fir d'éischt a gi rembourséiert.
+**TOM:** Dat mécht et vill méi einfach. Also... Medikamenter a Spidol — ech bezuelen nëmme mäin Undeel. Déi normal Visite beim Dokter — ech bezuele fir d'éischt a gi rembourséiert, ausser mäin Dokter benotzt den direkte Paiement.
 
 **ANNA:** Dat ass eng gutt Manéier, fir et sech ze mierken. An et gëtt nach eng Saach, déi wierklech wichteg ass fir Leit mat engem klengen Akommes.
 
@@ -90,7 +90,7 @@
 
 **TOM:** Dat ass wierklech wichteg. Also soll keen den Dokter evitéieren, just well en net fir d'éischt bezuele kann.
 
-**ANNA:** Genee. Wann dat Är Situatioun ass, kënnt Dir nom Tiers payant social froen — dacks iwwer Ären Dokter oder den Office social.
+**ANNA:** Genee. Wann dat Är Situatioun ass, kënnt Dir den Tiers payant social beim Office social vun Ärer Gemeng ufroen.
 
 **TOM:** Wonnerbar. Okay, Anna — loosse mer alles zesummebréngen. Eng kuerz Zesummefaassung vun allem?
 
@@ -98,7 +98,7 @@
 
 **TOM:** An Deel zwee?
 
-**ANNA:** Deel zwee — d'CNS, déi national Krankeversécherung. Bei enger normaler Visite beim Dokter bezuelt Dir fir d'éischt, an d'CNS rembourséiert dat meescht dovun op Äre Bankkont, an ongeféier dräi Wochen. Fir Medikamenter an d'Spidol bezuelt Dir normalerweis nëmmen Äre klengen Undeel. A wann d'Suen knapp sinn, heescht den Tiers payant social, datt Dir net am Viraus bezuelt.
+**ANNA:** Deel zwee — d'CNS, déi national Krankeversécherung. Bei enger normaler Visite beim Dokter benotzt Ären Dokter entweder den direkte Paiement, an Dir bezuelt just Ären Undeel — oder Dir bezuelt fir d'éischt, an d'CNS rembourséiert dat meescht dovun op Äre Bankkont, bannent e puer Wochen, oder e puer Deeg bei enger digitaler Rechnung. Fir Medikamenter an d'Spidol bezuelt Dir normalerweis nëmmen Äre klengen Undeel. A wann d'Suen knapp sinn, heescht den Tiers payant social, datt Dir net am Viraus bezuelt.
 
 **TOM:** Also de Message ass — aktivéiert Äre Gesondheetsdossier, behaalt Är Fakturen, gitt der CNS Är Bankdaten, an hutt keng Angscht, no Hëllef ze froen, wann Dir se braucht.
 

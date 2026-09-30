@@ -50,7 +50,7 @@
 
 **TOM:** Statt dass alle über vier Länder verstreut sind, haben sie also ein gemeinsames Haus.
 
-**ANNA:** Das ist die Idee. Unter diesem einen Dach finden Sie mehrere Teams. Das wichtigste ist das Gipfelsekretariat der Großregion. Dann gibt es das Sekretariat des Wirtschafts- und Sozialausschusses. Es gibt das Team, das das europäische Förderprogramm namens Interreg verwaltet. Es gibt eine Vertretung einer der deutschen Regionen, Rheinland-Pfalz. Und es gibt den Kulturverein, den Espace Culturel.
+**ANNA:** Das ist die Idee. Unter diesem einen Dach finden Sie mehrere Teams. Das wichtigste ist das Gipfelsekretariat der Großregion. Dann gibt es das Sekretariat des Wirtschafts- und Sozialausschusses. Es gibt das Team, das das europäische Förderprogramm namens Interreg verwaltet. Es gibt eine Vertretung einer der deutschen Regionen, Rheinland-Pfalz. Und es gibt Netzwerke von Städten und Gemeinden, wie QuattroPole und EuRegio.
 
 **TOM:** Es ist also wirklich ein Haus voller verschiedener Nachbarn, die alle auf dasselbe Ziel hinarbeiten.
 
@@ -110,11 +110,11 @@
 
 **TOM:** Das ist so eine menschliche Art, über eine Grenze nachzudenken. Okay — was ist mit der Bildung?
 
-**ANNA:** Bildung ist ein echtes Schmuckstück. Es gibt die Universität der Großregion. Sie verbindet sechs Universitäten, in vier Ländern, und lässt Studierende zwischen ihnen wechseln.
+**ANNA:** Bildung ist ein echtes Schmuckstück. Es gibt die Universität der Großregion. Sie verbindet sieben Universitäten, in vier Ländern, und lässt Studierende zwischen ihnen wechseln.
 
-**TOM:** Sechs Universitäten, die als ein Netzwerk arbeiten.
+**TOM:** Sieben Universitäten, die als ein Netzwerk arbeiten.
 
-**ANNA:** Als ein Netzwerk. Mehr als hundertdreißigtausend Studierende, mit grenzüberschreitenden Studiengängen, Doppeldiplomen, gemeinsamen Abschlüssen. Ein junger Mensch kann also in mehreren Ländern studieren und mit Qualifikationen herauskommen, die in der ganzen Region anerkannt sind.
+**ANNA:** Als ein Netzwerk. Mehr als hundertvierzigtausend Studierende, mit grenzüberschreitenden Studiengängen, Doppeldiplomen, gemeinsamen Abschlüssen. Ein junger Mensch kann also in mehreren Ländern studieren und mit Qualifikationen herauskommen, die in der ganzen Region anerkannt sind.
 
 **TOM:** Und die Sprachen?
 
@@ -122,9 +122,9 @@
 
 **TOM:** Und es gibt sicher auch Kultur, nehme ich an.
 
-**ANNA:** Eine Menge Kultur. Denk daran, im Jahr zweitausendsieben waren Luxemburg und die Großregion gemeinsam ein ganzes Jahr lang Europäische Kulturhauptstadt. Daraus ist ein Kulturverein hervorgegangen — der Espace Culturel — der tatsächlich einer der Nachbarn im Haus ist.
+**ANNA:** Eine Menge Kultur. Denk daran, im Jahr zweitausendsieben waren Luxemburg und die Großregion gemeinsam ein ganzes Jahr lang Europäische Kulturhauptstadt. Dieses Jahr hat einen echten grenzüberschreitenden Kulturgeist hinterlassen — und man spürt ihn noch überall in der Region.
 
-**TOM:** Im Haus geht es also nicht nur um Politik und Papierkram — es lebt auch Kultur darin.
+**TOM:** In der Großregion geht es also nicht nur um Politik und Papierkram — es lebt auch echte Kultur darin.
 
 **ANNA:** Kultur, Tourismus, gemeinsames Erbe, UNESCO-Welterbestätten überall in der Region. Es ist ein Ort mit einer tiefen gemeinsamen Geschichte — und mit viel zu entdecken.
 
@@ -190,4 +190,4 @@
 
 ---
 
-*Quellen: granderegion.net (offizielle Website der Großregion / Gipfelsekretariat). Die Großregion: 5 Regionen, 4 Länder, 3 Sprachen — Luxemburg, Lothringen (Grand Est, Frankreich), Saarland und Rheinland-Pfalz (Deutschland), Wallonie, die Föderation Wallonie-Brüssel und die Deutschsprachige Gemeinschaft Belgiens; 65.401 km²; 11,8 Millionen Einwohner; etwa 270.000 tägliche Grenzgänger (die meisten in Europa). Ursprünge in einer deutsch-französischen Kommission von 1969; Luxemburg trat 1971 bei; erster Gipfel in Mondorf-les-Bains 1995; Gipfelsekretariat 2013 gegründet (EVTZ/GECT nach luxemburgischem Recht). Das Haus der Großregion (Maison de la Grande Région / Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, wurde 2015 eröffnet und beherbergt das EVTZ-Gipfelsekretariat, das Sekretariat des Wirtschafts- und Sozialausschusses, die Interreg-Verwaltungsbehörde, die Vertretung von Rheinland-Pfalz und den Espace Culturel. Nur allgemeine Informationen — aktuelle Details siehe granderegion.net.*
+*Quellen: granderegion.net (offizielle Website der Großregion / Gipfelsekretariat). Die Großregion: 5 Regionen, 4 Länder, 3 Sprachen — Luxemburg, Lothringen (Grand Est, Frankreich), Saarland und Rheinland-Pfalz (Deutschland), Wallonie, die Föderation Wallonie-Brüssel und die Deutschsprachige Gemeinschaft Belgiens; 65.401 km²; 11,8 Millionen Einwohner; etwa 270.000 tägliche Grenzgänger (die meisten in Europa). Ursprünge in einer deutsch-französischen Kommission von 1969; Luxemburg trat 1971 bei; erster Gipfel in Mondorf-les-Bains 1995; Gipfelsekretariat 2013 gegründet (EVTZ/GECT nach luxemburgischem Recht). Das Haus der Großregion (Maison de la Grande Région / Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, wurde 2015 eröffnet und beherbergt das EVTZ-Gipfelsekretariat, das Sekretariat des Wirtschafts- und Sozialausschusses, die Interreg-Verwaltungsbehörde, die Vertretung von Rheinland-Pfalz, EuRegio SaarLorLux+, QuattroPole und das Institut der Großregion. Die Universität der Großregion (UniGR) verbindet 7 Universitäten (davon ein assoziierter Partner) mit mehr als 141.000 Studierenden. Nur allgemeine Informationen — aktuelle Details siehe granderegion.net.*

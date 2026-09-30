@@ -96,7 +96,7 @@
 
 **ANNA :** Le Talent Desk. Qu'est-ce que c'est ?
 
-**TOM :** C'est un service qui offre un accompagnement personnalisé et humain. Il vous informe, vous conseille, et vous guide à travers les démarches administratives et le parcours d'intégration. Et si vous avez besoin d'une institution précise, il vous met en contact avec la bonne.
+**TOM :** C'est un service qui offre un accompagnement personnalisé et humain. Il vous informe, vous conseille, et vous guide à travers les démarches administratives et le parcours d'intégration. Et si vous avez besoin d'une institution précise, il vous met en contact avec la bonne. Vous pouvez joindre le Talent Desk par e-mail, à contact@talentdesk.lu, ou lui rendre visite au Kirchberg, sur rendez-vous.
 
 **ANNA :** Donc une vraie personne, qui vous aide à vous repérer dans les démarches et l'installation.
 

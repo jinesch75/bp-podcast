@@ -16,7 +16,7 @@
 
 **ANNA :** Voilà. Alors, Tom... commençons par le début. Qu'est-ce que MyGuichet.lu ?
 
-**TOM :** D'accord, alors... MyGuichet.lu est le portail d'information qui simplifie vos échanges avec l'État. Il vous donne un accès rapide et convivial à toutes les informations, démarches et services proposés par les administrations et organismes publics luxembourgeois. C'est sécurisé, et c'est votre... disons, votre point de contact unique avec les administrations publiques. Donc, au lieu d'aller dans un bureau, vous pouvez faire beaucoup de démarches administratives depuis chez vous. Sur votre ordinateur, ou sur votre téléphone.
+**TOM :** D'accord, alors... Guichet.lu est le site d'information de l'État, et MyGuichet.lu est son espace sécurisé en ligne. Ensemble, ils vous donnent un accès rapide et convivial à toutes les informations, démarches et services proposés par les administrations et organismes publics luxembourgeois. MyGuichet.lu est sécurisé, et c'est votre... disons, votre point de contact unique avec les administrations publiques. Donc, au lieu d'aller dans un bureau, vous pouvez faire beaucoup de démarches administratives depuis chez vous. Sur votre ordinateur, ou sur votre téléphone.
 
 **ANNA :** Donc c'est comme... un guichet en ligne ?
 
@@ -48,7 +48,7 @@
 
 **ANNA :** Le matricule, d'accord. Les frontaliers en ont un aussi, n'est-ce pas ?
 
-**TOM :** Oui, si vous travaillez au Luxembourg, vous en avez un. Il figure par exemple sur votre carte de sécurité sociale. Ensuite, il vous faut une adresse e-mail, un ordinateur ou un smartphone... et encore une chose. Un moyen de prouver votre identité en ligne.
+**TOM :** Oui, si vous travaillez au Luxembourg, vous en avez un. Il figure par exemple sur votre carte de sécurité sociale. Ensuite, il vous faut une adresse e-mail et un ordinateur — pour la première inscription, un ordinateur portable ou fixe, pas votre téléphone. Et encore une chose : un moyen de prouver votre identité en ligne.
 
 **ANNA :** Ah, et c'est là que LuxTrust entre en jeu ?
 
@@ -60,7 +60,7 @@
 
 **ANNA :** eIDAS... c'est le système européen, n'est-ce pas ? Donc je pourrais utiliser, par exemple, ma carte d'identité électronique belge ou allemande ?
 
-**TOM :** Exactement. Si votre pays dispose d'un de ces systèmes nationaux, vous pouvez souvent l'utiliser pour vous connecter à MyGuichet. Et encore une chose — certaines démarches simples fonctionnent même sans se connecter du tout. Mais dans ce cas, vous avez moins d'options. Vous ne pouvez pas enregistrer le formulaire et continuer plus tard, et vous ne pouvez pas suivre l'état de la demande. Donc... avoir un vrai compte, c'est beaucoup mieux.
+**TOM :** Exactement. Si votre pays dispose d'un de ces systèmes nationaux, vous pouvez souvent l'utiliser pour vous connecter à MyGuichet — il vous faut quand même votre matricule. Mais avec un accès étranger, vous ne pouvez pas signer certains formulaires, comme votre déclaration d'impôts. Et encore une chose — certaines démarches simples fonctionnent même sans se connecter du tout. Mais dans ce cas, vous avez moins d'options. Vous ne pouvez pas enregistrer le formulaire et continuer plus tard, et vous ne pouvez pas suivre l'état de la demande. Donc... avoir un vrai compte, c'est beaucoup mieux.
 
 **TOM :** Mais honnêtement, si vous vivez ou travaillez ici, LuxTrust Mobile est la solution facile. Vous installez l'application une fois, et... c'est tout. Et si vous l'utilisez déjà pour votre banque, vous pouvez utiliser la même.
 
@@ -70,7 +70,7 @@
 
 **ANNA :** Parfait. Maintenant... de quels types de démarches parle-t-on ? Quels domaines ?
 
-**TOM :** Presque tout dans la vie quotidienne, vraiment. Voyons... la citoyenneté — donc la carte d'identité, le passeport, le casier judiciaire. Et en voilà une belle : en tant que résident étranger, vous pouvez demander votre inscription sur les listes électorales — pour pouvoir voter aux élections communales, et aux élections européennes. Ensuite l'immigration — les titres de séjour, par exemple. Très important quand vous arrivez. Puis la famille et l'éducation... la fiscalité — oui, vous pouvez faire votre déclaration d'impôts en ligne. Les transports — votre permis de conduire, l'immatriculation d'une voiture. La santé et la sécurité sociale. Le logement. Les aides financières. Le travail et la pension... et même les loisirs, comme l'inscription à la Bibliothèque nationale.
+**TOM :** Presque tout dans la vie quotidienne, vraiment. Voyons... la citoyenneté — donc la carte d'identité, le passeport, le casier judiciaire. Et en voilà une belle : en tant que résident étranger, vous pouvez demander votre inscription sur les listes électorales — pour pouvoir voter aux élections communales. Et si vous êtes citoyen d'un autre pays de l'UE, aussi aux élections européennes. Ensuite l'immigration — les titres de séjour, par exemple. Très important quand vous arrivez. Puis la famille et l'éducation... la fiscalité — oui, vous pouvez faire votre déclaration d'impôts en ligne. Les transports — votre permis de conduire, l'immatriculation d'une voiture. La santé et la sécurité sociale. Le logement. Les aides financières. Le travail et la pension... et même les loisirs, comme l'inscription à la Bibliothèque nationale.
 
 **ANNA :** Waouh. Tant de domaines sont couverts, tout au même endroit.
 

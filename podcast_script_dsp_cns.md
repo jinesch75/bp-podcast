@@ -38,7 +38,7 @@
 
 **TOM:** I like that. It's mine, and I decide. So how do I actually open a DSP?
 
-**ANNA:** Every person affiliated to the Luxembourg health insurance can have one. To use it yourself online, you activate your "eSanté account". And here's good news: you can activate it directly through MyGuichet.lu.
+**ANNA:** Good news — you don't need to open it. If you're affiliated to the Luxembourg health insurance, your DSP is created automatically. To use it yourself online, you activate your "eSanté account". And you can do that directly through MyGuichet.lu.
 
 **TOM:** That's great. And once it's active, how do I look at it?
 
@@ -54,19 +54,19 @@
 
 **TOM:** Good. Now, the part that confuses a lot of newcomers. When I go to the doctor here... do I pay, or not?
 
-**ANNA:** Right, this is the important part. The Luxembourg system traditionally works by reimbursement. That means — for a normal visit to the doctor, you pay first, and then the CNS pays you back most of it.
+**ANNA:** Right, this is the important part. Traditionally, you pay the doctor first, and then the CNS pays you back most of it. But today, about half of doctors use "immediate direct payment". Then you only pay your own small share, and the CNS pays the doctor the rest straight away.
 
-**TOM:** So I pay the full price at the doctor, and then get money back later.
+**TOM:** So either I pay the full price and get money back later — or, with direct payment, I only pay my share.
 
 **ANNA:** Exactly. The CNS reimburses a large part of the cost — for most care it's around eighty to one hundred percent. So you carry a small part yourself, and the rest comes back to you.
 
 **TOM:** And how do I get that money back? What do I do with the bill?
 
-**ANNA:** Simple. The doctor gives you an invoice — a paper bill — and you pay it. Then you send that original, paid invoice to the CNS. You can send it by post, or drop it in one of their boxes. The CNS then pays the reimbursement straight into your bank account.
+**ANNA:** Simple. The doctor gives you an invoice — a paper bill — and you pay it. Then you send that original, paid invoice to the CNS. You can send it by post, or drop it in one of their boxes. And if your doctor gives you a digital invoice, you can send it with a few clicks — in the CNS app, the GesondheetsApp, or on MyGuichet.lu. The CNS then pays the reimbursement straight into your bank account.
 
 **TOM:** Into my bank account directly. How long does it take?
 
-**ANNA:** Usually less than three weeks. And you get a written statement explaining what was reimbursed. So — tip for our listeners — give the CNS your bank account number, your IBAN, so they can pay you directly.
+**ANNA:** For a paper bill, usually two to four weeks. With a digital bill, it can be just a few days. And you get a written statement explaining what was reimbursed. So — tip for our listeners — give the CNS your bank account number, your IBAN, so they can pay you directly.
 
 **TOM:** Good tips. But wait — paying the full amount first... for a big bill, that could be hard for some people.
 
@@ -80,7 +80,7 @@
 
 **ANNA:** Exactly. And it's the same idea for a normal hospital stay. The hospital bills the CNS directly for the care. You mainly pay a small daily contribution, and your personal extras.
 
-**TOM:** That makes it much easier. So... medicines and hospital — I pay only my share. The normal doctor visit — I pay first and get reimbursed.
+**TOM:** That makes it much easier. So... medicines and hospital — I pay only my share. The normal doctor visit — I pay first and get reimbursed, unless my doctor uses direct payment.
 
 **ANNA:** That's a good way to remember it. And there's one more thing that's really important for people with low income.
 
@@ -90,7 +90,7 @@
 
 **TOM:** That's really important. So nobody should avoid the doctor just because they can't pay first.
 
-**ANNA:** Exactly. If that's your situation, you can ask about the social third-party payment — often through your doctor or the social office.
+**ANNA:** Exactly. If that's your situation, you can ask for the social third-party payment at the social office — the office social — of your municipality.
 
 **TOM:** Wonderful. Okay, Anna — let's bring it together. A short summary of everything?
 
@@ -98,7 +98,7 @@
 
 **TOM:** And part two?
 
-**ANNA:** Part two — the CNS, the national health insurance. For a normal doctor visit, you pay first and the CNS reimburses most of it into your bank account, in about three weeks. For medicines and hospital, you usually pay only your small share. And if money is tight, the social third-party payment means you don't pay up front.
+**ANNA:** Part two — the CNS, the national health insurance. For a normal doctor visit, either your doctor uses immediate direct payment and you only pay your share — or you pay first, and the CNS reimburses most of it into your bank account, within a few weeks, or a few days for a digital bill. For medicines and hospital, you usually pay only your small share. And if money is tight, the social third-party payment means you don't pay up front.
 
 **TOM:** So the message is — get your health file active, keep your invoices, give the CNS your bank details, and don't be afraid to ask for help if you need it.
 

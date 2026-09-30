@@ -52,19 +52,19 @@
 
 **ANNA:** Welche sind das?
 
-**TOM:** Die wichtigsten sind diese. Ihr Haushalt bezieht die Teuerungszulage (allocation de vie chère). Oder Sie sind ein Flüchtling — ein Asylsuchender, eine Person unter vorübergehendem Schutz oder ein unbegleiteter Minderjähriger. Oder Sie haben einen Aufenthaltstitel vom Typ "Vie Privée". Oder Sie befinden sich in einem offiziellen Schuldenregulierungsverfahren wegen Überschuldung.
+**TOM:** Die wichtigsten sind diese. Ihr Haushalt bezieht die Teuerungszulage (allocation de vie chère). Oder Sie sind ein Flüchtling — ein Asylsuchender, eine Person unter vorübergehendem Schutz oder ein unbegleiteter Minderjähriger. Es gibt auch noch einige andere Fälle, schauen Sie also auf der Website nach, ob Sie berechtigt sind.
 
 **ANNA:** Es richtet sich also wirklich an Menschen mit geringem Einkommen und an Flüchtlinge und Neuankömmlinge.
 
-**TOM:** Genau — an die Menschen, für die der Kauf eines Computers eine echte Herausforderung wäre. Und hier eine gute Neuigkeit aus jüngster Zeit. Früher gab es einen Computer pro Haushalt. Aber seit Ende zweitausendfünfundzwanzig kann, weil sie so viele Spenden erhalten haben, jedes Haushaltsmitglied ab zwölf Jahren seinen eigenen Computer bekommen.
+**TOM:** Genau — an die Menschen, für die der Kauf eines Computers eine echte Herausforderung wäre. Meistens gibt es einen Laptop pro Haushalt. Aber die anderen Familienmitglieder können oft auch einen zusätzlichen Computer beantragen.
 
-**ANNA:** Jetzt können also der Jugendliche, der seine Hausaufgaben macht, und der Elternteil, der Arbeit sucht, jeweils ihr eigenes Gerät haben.
+**ANNA:** Dann können also der Jugendliche, der seine Hausaufgaben macht, und der Elternteil, der Arbeit sucht, vielleicht jeweils ein Gerät bekommen?
 
-**TOM:** Jeder sein eigenes. Erwachsene beantragen einen für sich selbst, und ein Erwachsener kann für die Kinder im Haushalt, von zwölf bis achtzehn Jahren, einen beantragen. Und die Wartezeit liegt derzeit meist unter einem Monat.
+**TOM:** Oft, ja. Die Regeln ändern sich von Zeit zu Zeit, deshalb erklärt die Website die aktuellen — und wie lange Sie vielleicht warten müssen.
 
-**ANNA:** Unter einem Monat — das ist schnell. Und was für einen Computer bekommt man eigentlich? Irgendein altes, kaputtes Ding?
+**ANNA:** Gut zu wissen. Und was für einen Computer bekommt man eigentlich? Irgendein altes, kaputtes Ding?
 
-**TOM:** Nein, das ist das Schöne daran. Sie kommen einsatzbereit, mit bereits installiertem Betriebssystem — Windows, oder ein Mac, oder manchmal Linux. Ein anständiger Prozessor. Und sie kommen sogar mit einer kostenlosen Reparaturgarantie — außer für den Akku, der bei einem alten Laptop vielleicht schwach oder gar nicht mehr da ist.
+**TOM:** Nein, das ist das Schöne daran. Sie kommen einsatzbereit, mit bereits installiertem Betriebssystem — meistens Windows, oder ein Mac. Ein anständiger Prozessor. Und sie kommen sogar mit einer kostenlosen Reparaturgarantie — außer für den Akku, der bei einem alten Laptop vielleicht schwach oder gar nicht mehr da ist.
 
 **ANNA:** Ein kostenloser Computer, der funktioniert, mit Garantie. Das ist wirklich großzügig. Gut — das war der Computer. Jetzt der zweite Teil. Das Können.
 
@@ -112,7 +112,7 @@
 
 **ANNA:** Eine sehr reale Situation. Wie verändert Digital Inclusion ihre Geschichte?
 
-**TOM:** Schritt für Schritt. Erstens, weil sie als Flüchtling in Luxemburg lebt, ist sie berechtigt. Sie stellt einen Antrag — und innerhalb von etwa einem Monat erhält sie einen funktionierenden Laptop. Und wegen der neuen Regel können auch ihre beiden Teenager Computer für ihre Schularbeiten bekommen.
+**TOM:** Schritt für Schritt. Erstens, weil sie als Flüchtling in Luxemburg lebt, ist sie berechtigt. Sie stellt einen Antrag — und einige Zeit später erhält sie einen funktionierenden Laptop. Und sie kann fragen, ob auch ihre beiden Teenager einen Computer für ihre Schularbeiten bekommen können.
 
 **ANNA:** Plötzlich ist also die ganze Familie online.
 
@@ -152,7 +152,7 @@
 
 **ANNA:** Bringen wir es auf den Punkt, Tom. Wenn ich zuhöre, was soll ich mitnehmen?
 
-**TOM:** Drei Dinge. Erstens — wenn Sie oder jemand, den Sie kennen, einen Computer braucht und ihn sich nicht leisten kann, und Sie in Luxemburg mit geringem Einkommen oder als Flüchtling leben — es gibt Hilfe. Ein kostenloser, funktionierender Computer, meist innerhalb eines Monats.
+**TOM:** Drei Dinge. Erstens — wenn Sie oder jemand, den Sie kennen, einen Computer braucht und ihn sich nicht leisten kann, und Sie in Luxemburg mit geringem Einkommen oder als Flüchtling leben — es gibt Hilfe. Ein kostenloser, funktionierender Computer.
 
 **ANNA:** Ein kostenloser Computer.
 
@@ -182,4 +182,4 @@
 
 ---
 
-*Quellen: digital-inclusion.lu (Digital Inclusion a.s.b.l.), darunter die Seiten "Our goals" und "How to apply for a free second-hand computer". Digital Inclusion ist ein gemeinnütziger Verein in Luxemburg, gegründet 2016, seit 2022 vom Familienministerium unterstützt. Seine drei Ziele: Informationstechnologie für alle zugänglich machen, soziale Inklusion durch Technologie fördern und sich für die Umwelt einsetzen, indem gespendete Geräte wiederverwendet und repariert werden. Zahlen seit 2016 (wie auf der Website veröffentlicht, Stand 03.03.2026): 10.507 verteilte Computer und 1.466 Smartphones, 5.822 Kursteilnehmer. Kostenlose gebrauchte Computer gehen an Menschen mit Wohnsitz in Luxemburg, die die Teuerungszulage (allocation de vie chère) beziehen, an Flüchtlinge (Asylsuchende, Begünstigte vorübergehenden Schutzes, unbegleitete Minderjährige), an Inhaber eines Aufenthaltstitels "Vie Privée" oder an Personen in einem kollektiven Schuldenregulierungsverfahren; aktuelle durchschnittliche Wartezeit unter einem Monat; seit dem 22. September 2025 kann jedes Haushaltsmitglied ab 12 Jahren seinen eigenen Computer erhalten. Büro: 1, Dernier Sol, Bonnevoie, L-2543 Luxembourg; geöffnet werktags 9:30–17:30 Uhr; offener "Open Classroom" jeden Freitag 9:30–13:30 Uhr. Nur allgemeine Informationen — aktuelle Einzelheiten und Bedingungen siehe digital-inclusion.lu.*
+*Quellen: digital-inclusion.lu (Digital Inclusion a.s.b.l.), darunter die Seiten "Our goals" und "How to apply for a free second-hand computer". Digital Inclusion ist ein gemeinnütziger Verein in Luxemburg, gegründet 2016, seit 2022 vom Familienministerium unterstützt. Seine drei Ziele: Informationstechnologie für alle zugänglich machen, soziale Inklusion durch Technologie fördern und sich für die Umwelt einsetzen, indem gespendete Geräte wiederverwendet und repariert werden. Zahlen seit 2016 (wie auf der Website veröffentlicht, Stand 03.03.2026): 10.507 verteilte Computer und 1.466 Smartphones, 5.822 Kursteilnehmer. Kostenlose gebrauchte Computer gehen an Menschen mit Wohnsitz in Luxemburg, die eine der Bedingungen erfüllen — zum Beispiel Haushalte, die die Teuerungszulage (allocation de vie chère) beziehen, Asylsuchende und Begünstigte vorübergehenden Schutzes; unbegleitete Minderjährige stellen den Antrag über ihren Sozialarbeiter. Bei der Prüfung am 30.09.2026 widersprachen sich die Seiten der Website zu weiteren Fällen, zur Zahl der Computer pro Haushalt und zu den Wartezeiten — die aktuellen Bedingungen bitte bei Digital Inclusion erfragen. Büro: 1, Dernier Sol, Bonnevoie, L-2543 Luxembourg; geöffnet werktags 9:30–17:30 Uhr; offener "Open Classroom" jeden Freitag 9:30–13:30 Uhr. Nur allgemeine Informationen — aktuelle Einzelheiten und Bedingungen siehe digital-inclusion.lu.*

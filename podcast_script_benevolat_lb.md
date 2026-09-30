@@ -58,7 +58,7 @@
 
 **TOM:** Also gëtt et kuerz Missiounen? Eemoleg Saachen?
 
-**ANNA:** Jo — ganz vill. Op benevolat.lu si vill Missiounen just fir een eenzegt Evenement, oder een eenzegen Dag. Richteg Beispiller, déi elo grad um Site stinn: e Weekend bei engem Turngala hëllefen. Een Dag Commissaire bei engem Vëlosrennen sinn. De Grill op engem Summerfest bedéngen. Chrëschtdekoratioune bastelen.
+**ANNA:** Jo — ganz vill. Op benevolat.lu si vill Missiounen just fir een eenzegt Evenement, oder een eenzegen Dag. Zum Beispill: e Weekend bei engem Sportsgala hëllefen. Een Dag Commissaire bei engem Vëlosrennen sinn. Bei engem Summerfest mat upaken. Oder Chrëschtdekoratioune bastelen.
 
 **TOM:** Also kleng, konkret Saachen. E puer Stonnen. Een Dag. E Weekend.
 

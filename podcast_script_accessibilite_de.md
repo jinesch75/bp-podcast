@@ -96,7 +96,7 @@
 
 **ANNA:** Es gibt also Zeit, aber auch ein klares Ziel. Gut. Und wer kann bei all dem helfen — für jemanden, der baut oder renoviert?
 
-**TOM:** Das Infrastrukturportal auf accessibilite.lu enthält die Regeln, die Verfahren und einen Werkzeugkasten. So kann ein Architekt, eine Gemeinde oder ein Eigentümer finden, was zu tun ist, um es richtig zu machen.
+**TOM:** Das Infrastrukturportal auf accessibilite.lu enthält die Regeln, die Verfahren und einen Werkzeugkasten. So kann ein Architekt, eine Gemeinde oder ein Eigentümer finden, was zu tun ist, um es richtig zu machen. Und es gibt finanzielle Hilfe: Der Staat kann die Hälfte der Kosten für die Arbeiten übernehmen, bis zu vierundzwanzigtausend Euro pro Ort — wenn Sie den Antrag vor Juli 2028 stellen.
 
 **ANNA:** Wunderbar. Gut, Tom — das war Digitales und Infrastruktur. Was ist der dritte Bereich?
 
@@ -116,7 +116,7 @@
 
 **ANNA:** Ah, Unternehmen müssen also jetzt an Barrierefreiheit denken.
 
-**TOM:** Ja. Wenn Sie bestimmte Produkte und Dienstleistungen herstellen oder verkaufen, müssen sie barrierefrei sein. Nun — es gibt eine Ausnahme für die ganz kleinen Unternehmen. Grob gesagt, konzentrieren sich die Regeln auf Unternehmen mit mehr als zehn Mitarbeitern und einer bestimmten Umsatzgröße. Der kleine Laden an der Ecke wird also nicht wie eine große Bank behandelt.
+**TOM:** Ja. Wenn Sie bestimmte Produkte und Dienstleistungen herstellen oder verkaufen, müssen sie barrierefrei sein. Nun — es gibt eine Ausnahme für die ganz kleinen Unternehmen. Wenn ein Unternehmen weniger als zehn Mitarbeiter und weniger als zwei Millionen Euro Umsatz hat, gelten die Regeln für Dienstleistungen dort nicht. Der kleine Laden an der Ecke wird also nicht wie eine große Bank behandelt.
 
 **ANNA:** Das scheint fair. Und wer behält das alles im Auge?
 

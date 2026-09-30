@@ -756,12 +756,12 @@ const EPISODES = [
     "text": "For a normal visit to the doctor, how does payment usually work with the CNS?",
     "options": [
      "The CNS pays you in cash at the reception desk, and the doctor then sends the bill to your employer",
-     "You pay the full price first, then the CNS reimburses most of it (around 80–100%) into your bank account",
+     "Either you pay only your share (immediate direct payment), or you pay first and the CNS reimburses most of it",
      "The visit is always completely free, because the CNS pays the doctor directly for every consultation",
      "You pay nothing at the doctor's, and the CNS later deducts the whole cost of the visit from your monthly salary"
     ],
     "correct": 1,
-    "explanation": "Luxembourg traditionally works by reimbursement: you pay the doctor first, send the paid invoice to the CNS, and they pay most of it back into your bank account, usually within about three weeks."
+    "explanation": "About half of doctors now use immediate direct payment: you pay only your own share and the CNS pays the doctor the rest. Otherwise you pay first, send the invoice to the CNS, and it reimburses most of it (around 80–100%) – usually within a few weeks for a paper bill, or a few days for a digital one."
    },
    {
     "text": "What is “tiers payant” (third-party payment), for example at the pharmacy?",
@@ -2530,12 +2530,12 @@ const EPISODES = [
     "text": "Pour une visite normale chez le médecin, comment fonctionne généralement le paiement avec la CNS ?",
     "options": [
      "La CNS vous paie en espèces à l'accueil, puis le médecin envoie la facture à votre employeur",
-     "Vous payez d'abord le prix complet, puis la CNS vous rembourse la plus grande partie (environ 80 à 100 %) sur votre compte bancaire",
+     "Soit vous ne payez que votre part (paiement immédiat direct), soit vous payez d'abord et la CNS vous rembourse la plus grande partie",
      "La visite est toujours entièrement gratuite, car la CNS paie directement le médecin pour chaque consultation",
      "Vous ne payez rien chez le médecin, et la CNS retient ensuite la totalité du coût de la visite directement sur votre salaire du mois suivant"
     ],
     "correct": 1,
-    "explanation": "Le Luxembourg fonctionne traditionnellement par remboursement : vous payez d'abord le médecin, vous envoyez la facture acquittée à la CNS, et elle vous rembourse la plus grande partie sur votre compte bancaire, en général en moins de trois semaines."
+    "explanation": "Environ la moitié des médecins utilisent désormais le paiement immédiat direct : vous ne payez que votre part et la CNS paie le reste au médecin. Sinon, vous payez d'abord, vous envoyez la facture à la CNS, et elle vous rembourse la plus grande partie (environ 80 à 100 %) – en général en quelques semaines pour une facture papier, ou en quelques jours pour une facture digitale."
    },
    {
     "text": "Qu'est-ce que le « tiers payant », par exemple à la pharmacie ?",
@@ -2599,12 +2599,12 @@ const EPISODES = [
     "text": "Wie funktioniert die Bezahlung bei einem normalen Arztbesuch üblicherweise mit der CNS?",
     "options": [
      "Die CNS zahlt Ihnen am Empfang Bargeld aus, und der Arzt schickt die Rechnung dann an Ihren Arbeitgeber",
-     "Sie zahlen zuerst den vollen Preis, dann erstattet die CNS das meiste davon (etwa 80–100 %) auf Ihr Bankkonto",
+     "Entweder zahlen Sie nur Ihren Anteil (Direktzahlung), oder Sie zahlen zuerst und die CNS erstattet das meiste",
      "Der Besuch ist immer völlig kostenlos, weil die CNS den Arzt für jede Konsultation direkt bezahlt",
      "Sie zahlen beim Arzt nichts, und die CNS zieht die gesamten Kosten des Besuchs später von Ihrem Monatsgehalt ab"
     ],
     "correct": 1,
-    "explanation": "Luxemburg funktioniert traditionell über die Rückerstattung: Sie zahlen den Arzt zuerst, schicken die bezahlte Rechnung an die CNS, und diese zahlt das meiste davon auf Ihr Bankkonto zurück, normalerweise innerhalb von etwa drei Wochen."
+    "explanation": "Etwa die Hälfte der Ärzte nutzt inzwischen die sofortige Direktzahlung: Sie zahlen nur Ihren Anteil, und die CNS zahlt dem Arzt den Rest. Sonst zahlen Sie zuerst, schicken die Rechnung an die CNS, und diese erstattet das meiste (etwa 80–100 %) – meist innerhalb weniger Wochen bei einer Papierrechnung oder weniger Tage bei einer digitalen Rechnung."
    },
    {
     "text": "Was ist das „tiers payant“ (Drittzahlersystem), zum Beispiel in der Apotheke?",
@@ -2668,12 +2668,12 @@ const EPISODES = [
     "text": "Wéi funktionéiert d'Bezuele bei enger normaler Visite beim Dokter mat der CNS normalerweis?",
     "options": [
      "D'CNS bezilt Iech op der Receptioun cash, an den Dokter schéckt d'Rechnung duerno un Ären Employeur",
-     "Dir bezuelt fir d'éischt de vollen Präis, dann rembourséiert d'CNS dat meescht dovun (ronn 80–100%) op Äre Bankkont",
+     "Entweder just Ären Undeel (direkte Paiement), oder fir d'éischt bezuelen an d'CNS rembourséiert dat meescht",
      "De Besuch ass ëmmer ganz gratis, well d'CNS den Dokter fir all Konsultatioun direkt bezilt",
      "Dir bezuelt beim Dokter näischt, an d'CNS zitt spéider déi ganz Käschte vum Besuch direkt vun Ärem Méintsloun of"
     ],
     "correct": 1,
-    "explanation": "Lëtzebuerg funktionéiert traditionell mam Remboursement: Dir bezuelt den Dokter fir d'éischt, schéckt déi bezuelte Faktur un d'CNS, a si bezilt dat meescht dovun op Äre Bankkont zeréck, normalerweis a manner wéi dräi Wochen."
+    "explanation": "Ongeféier d'Hallschent vun den Dokteren benotzt elo den direkte Paiement: Dir bezuelt just Ären Undeel, an d'CNS bezilt dem Dokter de Rescht. Soss bezuelt Dir fir d'éischt, schéckt d'Rechnung un d'CNS, a si rembourséiert dat meescht (ronn 80–100%) – meeschtens bannent e puer Wochen fir eng Rechnung op Pabeier, oder e puer Deeg fir eng digital Rechnung."
    },
    {
     "text": "Wat ass den \"Tiers payant\", zum Beispill an der Apdikt?",

@@ -96,7 +96,7 @@
 
 **ANNA:** Den Talent Desk. Wat ass dat?
 
-**TOM:** Et ass e Service, deen eng perséinlech, mënschlech Ënnerstëtzung gëtt. Hie informéiert dech, beréit dech, a féiert dech duerch déi administrativ Schrëtt an de Prozess vun der Integratioun. A wann s du eng bestëmmten Institutioun brauchs, bréngt hien dech mat der richteger a Kontakt.
+**TOM:** Et ass e Service, deen eng perséinlech, mënschlech Ënnerstëtzung gëtt. Hie informéiert dech, beréit dech, a féiert dech duerch déi administrativ Schrëtt an de Prozess vun der Integratioun. A wann s du eng bestëmmten Institutioun brauchs, bréngt hien dech mat der richteger a Kontakt. Du erreechs den Talent Desk per E-Mail op contact@talentdesk.lu, oder du besichs en um Kierchbierg, op Rendez-vous.
 
 **ANNA:** Also eng richteg Persoun, déi der hëlleft, däi Wee duerch d'Pabeieren an d'Aliewen ze fannen.
 

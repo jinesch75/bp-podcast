@@ -52,19 +52,19 @@
 
 **ANNA:** Wat sinn déi?
 
-**TOM:** Déi haaptsächlech sinn dës. Däin Haushalt kritt d'allocation de vie chère (AVC). Oder du bass e Flüchtling — en Asylsicher, eng Persoun ënner temporärem Schutz, oder e mannerjäregen Onbegleeten. Oder du hues eng Openthaltserlaabnis vum Typ "Privatliewen". Oder du bass an enger offizieller Procedure fir Scholden ze regele wéinst Iwwerschëldung.
+**TOM:** Déi haaptsächlech sinn dës. Däin Haushalt kritt d'allocation de vie chère (AVC). Oder du bass e Flüchtling — en Asylsicher, eng Persoun ënner temporärem Schutz, oder e mannerjäregen Onbegleeten. Et ginn nach e puer aner Fäll, also kuck um Site, ob s du berechtegt bass.
 
 **ANNA:** Also riicht et sech wierklech un d'Leit mat engem nidderegen Akommes, an un d'Flüchtlingen an d'Neiukömmlingen.
 
-**TOM:** Genau — d'Leit, fir déi e Computer ze kafen e richtege Kampf wier. An hei ass e puer gutt rezent Neiegkeet. Fréier war et ee Computer pro Haushalt. Mä zanter Enn 2025, well se esou vill Spenden krut hunn, kann all Member vum Haushalt am Alter vun zwielef Joer oder méi säin eegene Computer kréien.
+**TOM:** Genau — d'Leit, fir déi e Computer ze kafen e richtege Kampf wier. Meeschtens ass et e Laptop pro Haushalt. Mä déi aner Membere vun der Famill kënnen dacks och en zousätzleche Computer froen.
 
-**ANNA:** Also kënnen elo den Teenager, deen Hausaufgaben mécht, an den Elterendeel, deen Aarbecht sicht, all säi eegene Computer hunn.
+**ANNA:** Also kéinten den Teenager, deen Hausaufgaben mécht, an den Elterendeel, deen Aarbecht sicht, all een e Computer kréien?
 
-**TOM:** All säin eegenen. Erwuessen bewerbe sech fir sech selwer, an en Erwuessene ka sech fir d'Kanner bewerben, am Alter vun zwielef bis uechtzéng Joer, an hirem Heem. An d'Waardezäit, elo grad, ass meeschtens ënner engem Mount.
+**TOM:** Dacks, jo. D'Reegelen änneren sech vun Zäit zu Zäit, dofir erkläert de Site déi aktuell — a wéi laang s du eventuell muss waarden.
 
-**ANNA:** Ënner engem Mount — dat ass séier. A wéi eng Zort Computer kriss de tatsächlech? Eppes Aalt, Futttes?
+**ANNA:** Gutt ze wëssen. A wéi eng Zort Computer kriss de tatsächlech? Eppes Aalt, Futttes?
 
-**TOM:** Nee, dat ass dee schéinen Deel. Si komme prett fir ze benotzen, mam Betribssystem schonn installéiert — Windows, oder e Mac, oder heiansdo Linux. En anstännege Prozesser. A si komme souguer mat enger gratis Reparaturgarantie — ausser der Batterie, déi op engem alen Laptop schwaach oder feelend ka sinn.
+**TOM:** Nee, dat ass dee schéinen Deel. Si komme prett fir ze benotzen, mam Betribssystem schonn installéiert — meeschtens Windows, oder e Mac. En anstännege Prozesser. A si komme souguer mat enger gratis Reparaturgarantie — ausser der Batterie, déi op engem alen Laptop schwaach oder feelend ka sinn.
 
 **ANNA:** E gratis Computer, deen funktionéiert, mat enger Garantie. Dat ass wierklech generéis. Gutt — dat war de Computer. Elo deen zweeten Deel. D'Fäegkeeten.
 
@@ -112,7 +112,7 @@
 
 **ANNA:** Eng ganz reell Situatioun. Wéi ännert Digital Inclusion hir Geschicht?
 
-**TOM:** Schrëtt fir Schrëtt. Als éischt, well si e Flüchtling ass, dee zu Lëtzebuerg wunnt, ass si berechtegt. Si bewerbt sech — an no ongeféier engem Mount kritt si e funktionéierende Laptop. A wéinst der neier Reegel kënnen hir zwee Teenager och Computere fir hir Schoulaarbecht kréien.
+**TOM:** Schrëtt fir Schrëtt. Als éischt, well si e Flüchtling ass, dee zu Lëtzebuerg wunnt, ass si berechtegt. Si bewerbt sech — an e bësse méi spéit kritt si e funktionéierende Laptop. A si ka froen, ob hir zwee Teenager och e Computer fir hir Schoulaarbecht kréie kënnen.
 
 **ANNA:** Also ass op eemol déi ganz Famill online.
 
@@ -152,7 +152,7 @@
 
 **ANNA:** Loosse mer et zesummefaassen, Tom. Wann ech nolauschteren, wat soll ech mathuelen?
 
-**TOM:** Dräi Saachen. Als éischt — wann s du, oder een, dee s du kenns, e Computer brauch a sech en net leeschte kann, an s du zu Lëtzebuerg mat engem nidderegen Akommes oder als Flüchtling wunns — et gëtt Hëllef. E gratis, funktionéierende Computer, meeschtens bannent engem Mount.
+**TOM:** Dräi Saachen. Als éischt — wann s du, oder een, dee s du kenns, e Computer brauch a sech en net leeschte kann, an s du zu Lëtzebuerg mat engem nidderegen Akommes oder als Flüchtling wunns — et gëtt Hëllef. E gratis, funktionéierende Computer.
 
 **ANNA:** E gratis Computer.
 
@@ -182,4 +182,4 @@
 
 ---
 
-*Quellen: digital-inclusion.lu (Digital Inclusion a.s.b.l.), dorënner d'Säiten "Our goals" an "How to apply for a free second-hand computer". Digital Inclusion ass eng Lëtzebuerger asbl, gegrënnt am Joer 2016, ënnerstëtzt zanter 2022 vum Familljeministère. Hir dräi Ziler: d'Informatik fir all zougänglech maachen, sozial Inklusioun duerch Technologie fërderen, a fir d'Ëmwelt handelen andeems gespent Material erëmbenotzt a reparéiert gëtt. Zuele zanter 2016 (wéi op der Säit publizéiert, aktualiséiert den 03.03.2026): 10.507 Computeren an 1.466 Smartphonen verdeelt, 5.822 Coursdeelhueler. Gratis Occasiouns-Computere ginn un d'Leit, déi zu Lëtzebuerg wunnen an d'allocation de vie chère (AVC) kréien, un d'Flüchtlingen (Asylsicher, Beneficiairë vun temporärem Schutz, mannerjäreg Onbegleeten), un d'Inhaber vun enger "Vie Privée"-Openthaltserlaabnis, oder un d'Persounen an enger kollektiver Procedure fir Scholden ze regelen; aktuell duerchschnëttlech Waardezäit ënner engem Mount; zanter dem 22. September 2025 kann all Haushaltsmember am Alter vun 12+ säin eegene Computer kréien. Büro: 1, Dernier Sol, Bonnevoie, L-2543 Luxembourg; op wärend de Wochendeeg 9.30–17.30 Auer; "Open Classroom" fir erakommen all Freideg 9.30–13.30 Auer. Nëmme allgemeng Informatioun — kuckt op digital-inclusion.lu fir aktuell Detailer a Konditiounen.*
+*Quellen: digital-inclusion.lu (Digital Inclusion a.s.b.l.), dorënner d'Säiten "Our goals" an "How to apply for a free second-hand computer". Digital Inclusion ass eng Lëtzebuerger asbl, gegrënnt am Joer 2016, ënnerstëtzt zanter 2022 vum Familljeministère. Hir dräi Ziler: d'Informatik fir all zougänglech maachen, sozial Inklusioun duerch Technologie fërderen, a fir d'Ëmwelt handelen andeems gespent Material erëmbenotzt a reparéiert gëtt. Zuele zanter 2016 (wéi op der Säit publizéiert, aktualiséiert den 03.03.2026): 10.507 Computeren an 1.466 Smartphonen verdeelt, 5.822 Coursdeelhueler. Gratis Occasiouns-Computere ginn un d'Leit, déi zu Lëtzebuerg wunnen an eng vun de Konditiounen erfëllen — zum Beispill Haushalter, déi d'allocation de vie chère (AVC) kréien, Asylsicher a Beneficiairë vun temporärem Schutz; mannerjäreg Onbegleete stellen hiren Demande iwwer hire Sozialaarbechter. Bei der Kontroll den 30.09.2026 waren d'Säite vum Site sech net eens iwwer aner Fäll, d'Zuel vu Computeren pro Haushalt an d'Waardezäiten — frot bei Digital Inclusion no den aktuelle Konditiounen. Büro: 1, Dernier Sol, Bonnevoie, L-2543 Luxembourg; op wärend de Wochendeeg 9.30–17.30 Auer; "Open Classroom" fir erakommen all Freideg 9.30–13.30 Auer. Nëmme allgemeng Informatioun — kuckt op digital-inclusion.lu fir aktuell Detailer a Konditiounen.*

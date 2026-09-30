@@ -44,7 +44,7 @@
 **TOM:** Was ist, wenn jemand lieber eine Person trifft, von Angesicht zu Angesicht?
 **ANNA:** Dann gibt es den zweiten Weg... die Anmeldung persönlich in einer ADEM-Agentur.
 **TOM:** Dafür rufen Sie zuerst an, um einen Termin zu vereinbaren. Die Nummer ist das ADEM Contact Centre, unter 2-4-7, 8-8-8-8-8.
-**ANNA:** Und die ADEM hat drei Standorte... in Luxemburg-Stadt, in Esch-Belval und in Diekirch. Man wird Ihnen das Büro anbieten, das Ihrem Wohnort am nächsten liegt.
+**ANNA:** Und persönlich anmelden können Sie sich in drei Agenturen der ADEM... in Luxemburg-Stadt, in Esch-Belval und in Diekirch. Man wird Ihnen die Agentur anbieten, die Ihrem Wohnort am nächsten liegt.
 **TOM:** Gut. Ob Sie sich also online oder persönlich wohler fühlen, beide Türen stehen offen.
 **ANNA:** Nun, Tom, was sollte jemand mitbringen oder vorbereiten, bevor er sich anmeldet?
 **TOM:** Ein paar einfache Dinge. Erstens, Ihre Sozialversicherungsnummer, die auf Ihrer Sozialversicherungskarte steht.
@@ -76,7 +76,7 @@
 **TOM:** Und es gibt gute Nachrichten dazu, wie Sie den Antrag stellen. Seit Kurzem ist der Antrag auf Arbeitslosengeld vollständig online.
 **ANNA:** Das bedeutet weniger Papierkram und gesparte Zeit. Sie können mehr davon von zu Hause aus erledigen.
 **TOM:** Schenken wir nun den jüngeren Zuhörern etwas Aufmerksamkeit, denn Luxemburg hat ein besonderes Versprechen für sie.
-**ANNA:** Es heißt die Jugendgarantie. Das Ziel ist, dass jedem jungen Menschen, im Alter von fünfzehn bis dreißig Jahren, eine konkrete Lösung angeboten wird, um ins Berufsleben einzutreten.
+**ANNA:** Es heißt die Jugendgarantie. Das Ziel ist, dass jedem jungen Menschen, im Alter von sechzehn bis dreißig Jahren, eine konkrete Lösung angeboten wird, um ins Berufsleben einzutreten.
 **TOM:** Und es gibt einen klaren Zeitrahmen... innerhalb von vier Monaten nach der Anmeldung bei der ADEM.
 **ANNA:** Diese Lösung könnte ein Job sein, aber es könnte auch eine Weiterbildung sein oder ein anderer Schritt, der Sie voranbringt.
 **TOM:** Wenn Sie also jung sind und sich nicht sicher sind, was Sie als Nächstes tun sollen, ist die ADEM ein sehr guter Ausgangspunkt.
@@ -89,7 +89,7 @@
 **ANNA:** Arbeitgeber können auch finanzielle Hilfe bekommen, wenn sie bestimmte Menschen einstellen... zum Beispiel einen jungen Arbeitssuchenden, jemanden, der lange arbeitslos war, oder eine Person mit einer Behinderung.
 **TOM:** Die ADEM hilft also nicht nur Einzelpersonen. Sie hilft dem gesamten Arbeitsmarkt, besser zu funktionieren.
 **ANNA:** Es gibt auch Unterstützung bei der internationalen Rekrutierung, durch einen Dienst namens Work in Luxembourg.
-**TOM:** Das hilft Unternehmen hier, Talente zu finden, und hilft Menschen im Ausland, Chancen im Land zu entdecken.
+**TOM:** Und seit 2026 gibt es sogar eine nationale Website, workinluxembourg.com. Sie hilft Unternehmen hier, Talente zu finden, und hilft Menschen im Ausland, Chancen im Land zu entdecken.
 **ANNA:** Tom, bevor wir zum Schluss kommen, gibt es einen Sicherheitshinweis, den wir wirklich erwähnen sollten.
 **TOM:** Ja, einen wichtigen. Manchmal senden Betrüger gefälschte E-Mails und geben vor, die ADEM zu sein, und sie verlangen Geld für einen Job oder ein Visum.
 **ANNA:** Bitte merken Sie sich das ganz klar... die ADEM verlangt niemals, dass Sie für einen Job oder ein Visum bezahlen. Der Dienst ist kostenlos.

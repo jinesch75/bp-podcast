@@ -25,7 +25,8 @@ LETTERS_LANG = {"en": ["IT", "AI"], "fr": ["IA"], "de": ["IT", "KI"]}
 WORDS = {"ADEM": "Adem", "REVIS": "Revis", "ONIS": "Onis", "SYVICOL": "Syvicol", "STATEC": "Statec",
          "LISER": "Liser", "LIST": "List", "ASTA": "Asta", "OSAPS": "Osaps", "ARIS": "Aris", "AMIF": "Amif",
          "BOOST": "Boost", "BEE SECURE": "Bee Secure", "UNESCO": "Unesco", "IBAN": "Iban",
-         "PIN": "Pin", "CSIRT": "C-Sirt", "PAN-Bio": "Pan-Bio"}
+         "PIN": "Pin", "CSIRT": "C-Sirt", "PAN-Bio": "Pan-Bio",
+         "SIMPA": "Simpa", "COMPA": "Compa"}
 WORDS_LANG = {"en": {"FEDER": "Feder"}, "fr": {"FEDER": "Féder"}, "de": {"FEDER": "Feder"}}
 # Capitals used only for emphasis ("you do NOT need") -> normal words.
 EMPHASIS = {"en": ["NOT", "AND"], "fr": ["PAS", "ET"], "de": ["NICHT", "UND"]}
@@ -43,7 +44,9 @@ NAMES = {
            (r"\bZesumme\b", "Tsézoumeu"), (r"\bVereinfachen\b", "Fèraïnnfarènn")],  # FR 5B
 }
 # Phone numbers written as plain numbers in the scripts -> read digit by digit.
-PHONE_NUMBERS = ["8002", "8181", "261210"]
+PHONE_NUMBERS = ["8002", "8181", "261210", "247-86000"]
+# e-mail addresses (fact-check update 2026-09-30: contact@talentdesk.lu)
+AT = {"en": "at", "fr": "arobase", "de": "at", "lb": "at"}
 
 
 def _digits(lang):
@@ -67,6 +70,8 @@ def rules(lang):
         (r"\bJ\.\s?F\.?(?=\s)", "J-F"),
         # spelled-out addresses in the scripts: "c-n-a-p", "m-o", "l-u" -> capital letters
         (r"(?<![\w-])[a-z](?:-[a-z])+(?![\w-])", lambda m: m.group(0).upper()),
+        # e-mail: "name@site.lu" -> "name at site dot L-U"
+        (r"(\w)@(\w)", r"\1 " + AT[lang] + r" \2"),
         # general .lu rule (Jacques, 2026-09-30): always "dot L-U", never "lu"
         (r"(\w)\.lu\b", r"\1 " + dot + " L-U"),
         (r"\b(" + dot + r") lu\b", r"\1 L-U"),

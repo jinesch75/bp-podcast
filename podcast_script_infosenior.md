@@ -54,7 +54,7 @@
 
 **TOM:** That's a big deal, especially for something as sensitive as caring for a parent. And how recent is this register?
 
-**ANNA:** It's built on a law that's in force since the first of March, 2024. And it's updated regularly, so the information stays reliable and up to date.
+**ANNA:** It's based on a law from 2023, and the register has been online since the first of March, 2024. And it's updated regularly, so the information stays reliable and up to date.
 
 **TOM:** Perfect. Okay, Anna — let's get concrete. What kind of services can I find there?
 
@@ -98,7 +98,7 @@
 
 **TOM:** That's a caring approach. And is there a place that works on the knowledge itself — research, training for the people who care?
 
-**ANNA:** Yes. There's a competence centre for ageing that has existed for about thirty years. It does three things — activities and learning for seniors, continuing education for care professionals, and research on ageing. So the quality keeps improving over time.
+**ANNA:** Yes. There's a competence centre for ageing, called GERO, that has existed for more than thirty-five years. It does three things — activities and learning for seniors, continuing education for care professionals, and research on ageing. So the quality keeps improving over time.
 
 **TOM:** So it's not standing still. Good. Anna, let's make this very real. Can we take an example?
 
@@ -122,7 +122,7 @@
 
 **TOM:** Now, Anna — a practical worry. What if I have a problem with a service? Or I just don't know who to ask?
 
-**ANNA:** Good question. There is a national service for information and mediation in this field. So if you need to be guided, or if there's a disagreement with a service, there's a neutral place that can help you find a solution.
+**ANNA:** Good question. You can simply call the Senioren-Telefon, 247-86000, for information and advice. And if there's a disagreement with a service, there's SIMPA, the national information and mediation service — a neutral place that helps you find a solution.
 
 **TOM:** So you're never completely on your own with it.
 
@@ -134,7 +134,7 @@
 
 **TOM:** Connecting the generations — young and old together.
 
-**ANNA:** Yes. Ageing isn't only about care. It's also about staying active, useful, and connected. And there's also financial support — for people who don't have enough money to cover the cost of care, the State helps.
+**ANNA:** Yes. Ageing isn't only about care. It's also about staying active, useful, and connected. And there's also financial support. Since 2026, a scheme called COMPA helps people who don't have enough money to pay for a care home or supervised housing.
 
 **TOM:** That's important — that money shouldn't be the barrier to getting care. Okay, Anna, let's make it really practical. If I'm listening, and I — or my parent — might need some help, what do I do?
 
@@ -162,4 +162,4 @@
 
 ---
 
-*Source: infosenior.public.lu (Info-Seniors — Public Register of Services for Seniors) and mfsva.gouvernement.lu, Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees — "Elderly People" and "Senior Activities" pages. The Public Register is based on the law in force since 1 March 2024. General information only — check infosenior.lu for the current details and conditions of each service.*
+*Source: infosenior.public.lu (Info-Seniors — Public Register of Services for Seniors) and mfsva.gouvernement.lu, Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees — "Elderly People" and "Senior Activities" pages. The Public Register is based on the amended law of 23 August 2023 on the quality of services for older people and has been online since 1 March 2024. Since 1 January 2026, the COMPA scheme (Complément pour personnes âgées, Fonds national de solidarité) helps people with limited resources pay for a care home or supervised housing. Information and advice: Senioren-Telefon 247-86000; mediation: SIMPA (simpa.public.lu). General information only — check infosenior.lu for the current details and conditions of each service.*

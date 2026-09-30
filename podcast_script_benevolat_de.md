@@ -58,7 +58,7 @@
 
 **TOM:** Es gibt also kurze Einsätze? Einmalige Sachen?
 
-**ANNA:** Ja — sehr viele. Auf benevolat.lu sind viele Einsätze nur für eine einzige Veranstaltung, oder einen einzigen Tag. Echte Beispiele, die gerade auf der Seite stehen: bei einer Turngala ein Wochenende lang helfen. Einen Tag lang Streckenposten bei einem Radrennen sein. Beim Sommerfest den Grill übernehmen. Weihnachtsdekoration basteln.
+**ANNA:** Ja — sehr viele. Auf benevolat.lu sind viele Einsätze nur für eine einzige Veranstaltung, oder einen einzigen Tag. Zum Beispiel: bei einer Sportgala ein Wochenende lang helfen. Einen Tag lang Streckenposten bei einem Radrennen sein. Bei einem Sommerfest mithelfen. Oder Weihnachtsdekoration basteln.
 
 **TOM:** Also kleine, konkrete Dinge. Ein paar Stunden. Ein Tag. Ein Wochenende.
 

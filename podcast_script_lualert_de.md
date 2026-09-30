@@ -64,7 +64,7 @@
 
 **ANNA:** Ah, der Test. Wenn ich also eine Nachricht bekomme, die sagt, dass es ein Test ist...
 
-**TOM:** ...dann müssen Sie nichts tun. Die Nachricht sagt klar, dass es ein Test ist. Luxemburg führt nationale Tests durch. Das ist normal, keine Sorge.
+**TOM:** ...dann müssen Sie nichts tun. Die Nachricht sagt klar, dass es ein Test ist. Luxemburg testet das System jeden Monat — und die Sirenen werden am ersten Montag im Monat gegen Mittag getestet. Das ist normal, keine Sorge.
 
 **ANNA:** Sehr gut zu wissen. So gerät an einem Testtag niemand in Panik. Nun — welche Art von Ereignissen kann eine Warnung auslösen?
 

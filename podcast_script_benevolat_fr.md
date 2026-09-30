@@ -58,7 +58,7 @@
 
 **TOM :** Donc il y a des missions courtes ? Des missions ponctuelles ?
 
-**ANNA :** Oui — plein. Sur benevolat.lu, beaucoup de missions sont juste pour un seul événement, ou une seule journée. Des exemples réels sur le site en ce moment : aider à un gala de gymnastique pendant un week-end. Être signaleur pour une journée lors d'une course cycliste. Tenir le barbecue à une fête d'été. Fabriquer des décorations de Noël.
+**ANNA :** Oui — plein. Sur benevolat.lu, beaucoup de missions sont juste pour un seul événement, ou une seule journée. Par exemple : aider à un gala sportif pendant un week-end. Être signaleur pour une journée lors d'une course cycliste. Donner un coup de main à une fête d'été. Ou fabriquer des décorations de Noël.
 
 **TOM :** Donc des petites choses concrètes. Quelques heures. Une journée. Un week-end.
 

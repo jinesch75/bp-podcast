@@ -106,7 +106,7 @@
 
 **TOM:** A wann ech fäerdeg sinn ze aktivéieren — kann ech et direkt benotzen?
 
-**ANNA:** Bal. Eng kleng Saach, fir ze behalen — no der Aktivéierung gëtt de Certificat no ongeféier véier Stonnen benotzbar. Also aktivéiert et net fënnef Minutten ier Dir et braucht. Maacht et e bësse am Viraus.
+**ANNA:** Bal. Eng kleng Saach, fir ze behalen — wann Dir d'SmartCard hutt, gëtt de Certificat eréischt ongeféier véier Stonnen no der Aktivéierung benotzbar. Also aktivéiert et net fënnef Minutten ier Dir et braucht. Maacht et e bësse am Viraus.
 
 **TOM:** Ganz praktneschen Tipp. Aktivéiert et den Owend virdrun, net an der leschter Minutt.
 
@@ -118,7 +118,7 @@
 
 **TOM:** Ni d'Codes ginn. Och wann et offiziell ausgesäit?
 
-**ANNA:** Och dann. A méi — LuxTrust wäert Iech ni uruffen, fir no sensibelen Informatiounen ze froen. Si wäerten ni no Zougang zu Ärem Computer oder Ärem Handy froen. A si wäerten ni bei Iech doheem kommen.
+**ANNA:** Och dann. A méi — LuxTrust wäert Iech ni uruffen, fir no sensibelen Informatiounen ze froen. Si wäerten Iech ni froen, e Paiement oder eng Bankoperatioun ze confirméieren. A si wäerten ni bei Iech doheem kommen.
 
 **TOM:** Also wann iergendeen iergendeppes dovunner mécht, ass et e Bedruch.
 

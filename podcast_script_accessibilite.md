@@ -96,7 +96,7 @@
 
 **ANNA:** So there's time, but there's also a clear target. Good. And who can help with all this — for someone building or renovating?
 
-**TOM:** The infrastructure portal on accessibilite.lu has the rules, the procedures, and a toolbox. So an architect, a commune, or an owner can find what they need to do it right.
+**TOM:** The infrastructure portal on accessibilite.lu has the rules, the procedures, and a toolbox. So an architect, a commune, or an owner can find what they need to do it right. And there's money to help: the State can pay half the cost of the works, up to twenty-four thousand euros per place — if you apply before July 2028.
 
 **ANNA:** Lovely. Okay, Tom — that's digital, and infrastructure. What's the third area?
 
@@ -116,7 +116,7 @@
 
 **ANNA:** Ah, so businesses now have to think about accessibility.
 
-**TOM:** Yes. If you make or sell certain products and services, they have to be accessible. Now — there's an exception for the very small businesses. Roughly speaking, the rules focus on companies with more than ten employees and a certain size of turnover. So the tiny shop on the corner isn't treated the same as a big bank.
+**TOM:** Yes. If you make or sell certain products and services, they have to be accessible. Now — there's an exception for the very small businesses. If a company has fewer than ten employees and a turnover under two million euros, the rules for services don't apply to it. So the tiny shop on the corner isn't treated the same as a big bank.
 
 **ANNA:** That seems fair. And who keeps an eye on all this?
 

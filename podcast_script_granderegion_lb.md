@@ -50,7 +50,7 @@
 
 **TOM:** Also amplaz datt all een iwwer véier Länner verstreet ass, hu si ee gemeinsamt Haus.
 
-**ANNA:** Dat ass d'Iddi. Ënner dësem engen Dach fënns du verschidde Equipen. Déi Haaptequipe ass de Sekretariat vum Sommet vun der Groussregioun. Et gëtt och de Sekretariat vum Wirtschafts- a Sozialcomité. Et gëtt d'Equipe, déi dat europäescht Finanzéierungsprogramm geréiert, dat Interreg heescht. Et gëtt eng Vertriedung vun enger vun den däitsche Regiounen, der Rheinland-Pfalz. An et gëtt déi kulturell Associatioun, den Espace Culturel.
+**ANNA:** Dat ass d'Iddi. Ënner dësem engen Dach fënns du verschidde Equipen. Déi Haaptequipe ass de Sekretariat vum Sommet vun der Groussregioun. Et gëtt och de Sekretariat vum Wirtschafts- a Sozialcomité. Et gëtt d'Equipe, déi dat europäescht Finanzéierungsprogramm geréiert, dat Interreg heescht. Et gëtt eng Vertriedung vun enger vun den däitsche Regiounen, der Rheinland-Pfalz. An et ginn Netzwierker vu Stied a Gemengen, wéi QuattroPole an EuRegio.
 
 **TOM:** Also ass et wierklech e Haus voller verschidde Noperen, déi all op datselwecht Zil hischaffen.
 
@@ -110,11 +110,11 @@
 
 **TOM:** Dat ass esou eng mënschlech Aart, fir iwwer eng Grenz ze denken. Gutt — wat ass mat der Bildung?
 
-**ANNA:** D'Bildung ass e richtegt Bijou. Et gëtt d'Universitéit vun der Groussregioun. Si verbënnt sechs Universitéiten, a véier Länner, a léisst d'Studente sech tëscht hinne beweegen.
+**ANNA:** D'Bildung ass e richtegt Bijou. Et gëtt d'Universitéit vun der Groussregioun. Si verbënnt siwen Universitéiten, a véier Länner, a léisst d'Studente sech tëscht hinne beweegen.
 
-**TOM:** Sechs Universitéiten, déi als ee Reseau schaffen.
+**TOM:** Siwen Universitéiten, déi als ee Reseau schaffen.
 
-**ANNA:** Als ee Reseau. Méi wéi honnertdräissegdausend Studenten, mat grenziwwerschreidende Coursen, Duebeldiplomen, gemeinsamen Ofschlëss. Esou kann e jonke Mënsch a verschiddene Länner studéieren an erauskommen mat Qualifikatiounen, déi an der ganzer Regioun unerkannt sinn.
+**ANNA:** Als ee Reseau. Méi wéi honnertvéierzegdausend Studenten, mat grenziwwerschreidende Coursen, Duebeldiplomen, gemeinsamen Ofschlëss. Esou kann e jonke Mënsch a verschiddene Länner studéieren an erauskommen mat Qualifikatiounen, déi an der ganzer Regioun unerkannt sinn.
 
 **TOM:** An d'Sproochen?
 
@@ -122,9 +122,9 @@
 
 **TOM:** An et gëtt och Kultur, stellen ech mer vir.
 
-**ANNA:** Vill Kultur. Erënner dech, deemools am Joer zweedausendsiwen, waren Lëtzebuerg an d'Groussregioun zesummen d'Europäesch Kulturhaaptstad fir e ganzt Joer. Dat huet eng kulturell Associatioun hannerlooss — den Espace Culturel — deen tatsächlech ee vun den Noperen am Haus ass.
+**ANNA:** Vill Kultur. Erënner dech, deemools am Joer zweedausendsiwen, waren Lëtzebuerg an d'Groussregioun zesummen d'Europäesch Kulturhaaptstad fir e ganzt Joer. Dat Joer huet e richtege grenziwwerschreidende kulturelle Geescht hannerlooss — an dee spiert een nach ëmmer an der ganzer Regioun.
 
-**TOM:** Also geet et am Haus net nëmmen ëm Politik a Pabeierkrom — et lieft och Kultur dobannen.
+**TOM:** Also geet et an der Groussregioun net nëmmen ëm Politik a Pabeierkrom — et lieft och richteg Kultur dran.
 
 **ANNA:** Kultur, Tourismus, gemeinsamt Patrimoine, UNESCO-Weltkulturierfschaftsplazen quer duerch déi ganz Regioun. Et ass eng Plaz mat enger déiwer gemeinsamer Geschicht — a vill z'entdecken.
 
@@ -190,4 +190,4 @@
 
 ---
 
-*Quellen: granderegion.net (offiziellen Internetsite vun der Groussregioun / Sekretariat vum Sommet). D'Groussregioun: 5 Regiounen, 4 Länner, 3 Sproochen — Lëtzebuerg, d'Lothréngen (Grand Est, Frankräich), d'Saarland an d'Rheinland-Pfalz (Däitschland), d'Wallonie, d'Fédération Wallonie-Bruxelles an déi däitschsproocheg Gemeinschaft vu Belgien; 65.401 km²; 11,8 Milliounen Awunner; ongeféier 270.000 alldeeglech Frontalieren (déi meescht an Europa). Urspréng an enger franséisch-däitscher Kommissioun vun 1969; Lëtzebuerg ass 1971 derbäikomm; éischte Sommet zu Mondorf-les-Bains 1995; Sekretariat vum Sommet 2013 geschaf (EGTC/GECT no Lëtzebuerger Recht). D'Haus vun der Groussregioun (Maison de la Grande Région / Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, huet 2015 opgemaach an ënnerbréngt de Sekretariat vum EGTC-Sommet, de Sekretariat vum Wirtschafts- a Sozialcomité, d'Verwaltungsautoritéit vun Interreg, d'Vertriedung vun der Rheinland-Pfalz an den Espace Culturel. Nëmmen allgemeng Informatioun — kuck granderegion.net fir aktuell Detailer.*
+*Quellen: granderegion.net (offiziellen Internetsite vun der Groussregioun / Sekretariat vum Sommet). D'Groussregioun: 5 Regiounen, 4 Länner, 3 Sproochen — Lëtzebuerg, d'Lothréngen (Grand Est, Frankräich), d'Saarland an d'Rheinland-Pfalz (Däitschland), d'Wallonie, d'Fédération Wallonie-Bruxelles an déi däitschsproocheg Gemeinschaft vu Belgien; 65.401 km²; 11,8 Milliounen Awunner; ongeféier 270.000 alldeeglech Frontalieren (déi meescht an Europa). Urspréng an enger franséisch-däitscher Kommissioun vun 1969; Lëtzebuerg ass 1971 derbäikomm; éischte Sommet zu Mondorf-les-Bains 1995; Sekretariat vum Sommet 2013 geschaf (EGTC/GECT no Lëtzebuerger Recht). D'Haus vun der Groussregioun (Maison de la Grande Région / Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, huet 2015 opgemaach an ënnerbréngt de Sekretariat vum EGTC-Sommet, de Sekretariat vum Wirtschafts- a Sozialcomité, d'Verwaltungsautoritéit vun Interreg, d'Vertriedung vun der Rheinland-Pfalz, EuRegio SaarLorLux+, QuattroPole an den Institut vun der Groussregioun. D'Universitéit vun der Groussregioun (UniGR) verbënnt 7 Universitéiten (dovun ee associéierte Partner) mat méi wéi 141.000 Studenten. Nëmmen allgemeng Informatioun — kuck granderegion.net fir aktuell Detailer.*

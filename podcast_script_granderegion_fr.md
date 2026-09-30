@@ -50,7 +50,7 @@
 
 **TOM :** Donc au lieu d'avoir tout le monde dispersé dans quatre pays, ils ont une maison commune.
 
-**ANNA :** C'est l'idée. Sous ce même toit, on trouve plusieurs équipes. La principale, c'est le Secrétariat du Sommet de la Grande Région. Il y a aussi le secrétariat du Comité économique et social. Il y a l'équipe qui gère le programme de financement européen, qu'on appelle Interreg. Il y a une représentation d'une des régions allemandes, la Rhénanie-Palatinat. Et il y a l'association culturelle, l'Espace Culturel.
+**ANNA :** C'est l'idée. Sous ce même toit, on trouve plusieurs équipes. La principale, c'est le Secrétariat du Sommet de la Grande Région. Il y a aussi le secrétariat du Comité économique et social. Il y a l'équipe qui gère le programme de financement européen, qu'on appelle Interreg. Il y a une représentation d'une des régions allemandes, la Rhénanie-Palatinat. Et il y a des réseaux de villes et de communes, comme QuattroPole et EuRegio.
 
 **TOM :** Donc c'est vraiment une maison pleine de voisins différents, qui travaillent tous vers le même but.
 
@@ -110,11 +110,11 @@
 
 **TOM :** C'est une façon tellement humaine de penser une frontière. D'accord — et l'éducation ?
 
-**ANNA :** L'éducation, c'est un vrai joyau. Il y a l'Université de la Grande Région. Elle relie six universités, dans quatre pays, et permet aux étudiants de passer de l'une à l'autre.
+**ANNA :** L'éducation, c'est un vrai joyau. Il y a l'Université de la Grande Région. Elle relie sept universités, dans quatre pays, et permet aux étudiants de passer de l'une à l'autre.
 
-**TOM :** Six universités qui fonctionnent comme un seul réseau.
+**TOM :** Sept universités qui fonctionnent comme un seul réseau.
 
-**ANNA :** Comme un seul réseau. Plus de cent trente mille étudiants, avec des cursus transfrontaliers, des doubles diplômes, des diplômes communs. Donc un jeune peut étudier dans plusieurs pays et en ressortir avec des qualifications reconnues dans toute la Région.
+**ANNA :** Comme un seul réseau. Plus de cent quarante mille étudiants, avec des cursus transfrontaliers, des doubles diplômes, des diplômes communs. Donc un jeune peut étudier dans plusieurs pays et en ressortir avec des qualifications reconnues dans toute la Région.
 
 **TOM :** Et les langues ?
 
@@ -122,9 +122,9 @@
 
 **TOM :** Et il y a aussi la culture, j'imagine.
 
-**ANNA :** Beaucoup de culture. Souviens-toi, en deux mille sept, le Luxembourg et la Grande Région ont été ensemble Capitale européenne de la culture pendant toute une année. Ça a laissé derrière une association culturelle — l'Espace Culturel — qui est justement l'un des voisins dans la Maison.
+**ANNA :** Beaucoup de culture. Souviens-toi, en deux mille sept, le Luxembourg et la Grande Région ont été ensemble Capitale européenne de la culture pendant toute une année. Cette année a laissé un vrai esprit culturel transfrontalier — et on le sent encore partout dans la Région.
 
-**TOM :** Donc la Maison, ce n'est pas seulement de la politique et de la paperasse — il y a aussi de la culture qui vit à l'intérieur.
+**TOM :** Donc la Grande Région, ce n'est pas seulement de la politique et de la paperasse — il y a aussi une vraie culture qui y vit.
 
 **ANNA :** De la culture, du tourisme, un patrimoine partagé, des sites du patrimoine mondial de l'UNESCO partout dans la Région. C'est un endroit avec une histoire commune profonde — et beaucoup de choses à découvrir.
 
@@ -190,4 +190,4 @@
 
 ---
 
-*Sources : granderegion.net (site officiel de la Grande Région / Secrétariat du Sommet). La Grande Région : 5 régions, 4 pays, 3 langues — le Luxembourg, la Lorraine (Grand Est, France), la Sarre et la Rhénanie-Palatinat (Allemagne), la Wallonie, la Fédération Wallonie-Bruxelles et la Communauté germanophone de Belgique ; 65 401 km² ; 11,8 millions d'habitants ; environ 270 000 travailleurs frontaliers quotidiens (le plus grand nombre d'Europe). Origines dans une commission franco-allemande de 1969 ; le Luxembourg a rejoint en 1971 ; premier Sommet à Mondorf-les-Bains en 1995 ; Secrétariat du Sommet créé en 2013 (GECT de droit luxembourgeois). La Maison de la Grande Région (Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, a ouvert en 2015 et accueille le Secrétariat du Sommet du GECT, le secrétariat du Comité économique et social, l'autorité de gestion Interreg, la représentation de la Rhénanie-Palatinat et l'Espace Culturel. Informations générales uniquement — voir granderegion.net pour les détails actuels.*
+*Sources : granderegion.net (site officiel de la Grande Région / Secrétariat du Sommet). La Grande Région : 5 régions, 4 pays, 3 langues — le Luxembourg, la Lorraine (Grand Est, France), la Sarre et la Rhénanie-Palatinat (Allemagne), la Wallonie, la Fédération Wallonie-Bruxelles et la Communauté germanophone de Belgique ; 65 401 km² ; 11,8 millions d'habitants ; environ 270 000 travailleurs frontaliers quotidiens (le plus grand nombre d'Europe). Origines dans une commission franco-allemande de 1969 ; le Luxembourg a rejoint en 1971 ; premier Sommet à Mondorf-les-Bains en 1995 ; Secrétariat du Sommet créé en 2013 (GECT de droit luxembourgeois). La Maison de la Grande Région (Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, a ouvert en 2015 et accueille le Secrétariat du Sommet du GECT, le secrétariat du Comité économique et social, l'autorité de gestion Interreg, la représentation de la Rhénanie-Palatinat, EuRegio SaarLorLux+, QuattroPole et l'Institut de la Grande Région. L'Université de la Grande Région (UniGR) relie 7 universités (dont un partenaire associé) et plus de 141 000 étudiants. Informations générales uniquement — voir granderegion.net pour les détails actuels.*
