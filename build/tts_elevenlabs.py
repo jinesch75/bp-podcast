@@ -84,8 +84,11 @@ def split_sentences(t):
     t = t.replace("...", "<ELL>")
     parts = [p.replace("<ELL>", "...").strip() for p in re.split(r'(?<=[.!?])\s+', t) if p.strip()]
     merged = []
+    months = r"(Januar|Jänner|Februar|März|April|Mai|Juni|Juli|August|September|Oktober|November|Dezember)\b"
     for p in parts:  # glue punctuation-only fragments (a lone ») onto the previous sentence
-        if re.search(r'[0-9A-Za-zÀ-ÿ]', p) or not merged:
+        if merged and re.search(r"\b\d{1,2}\.$", merged[-1]) and re.match(months, p):
+            merged[-1] += " " + p   # German dates "am 28. Mai 2019" are one sentence
+        elif re.search(r'[0-9A-Za-zÀ-ÿ]', p) or not merged:
             merged.append(p)
         else:
             merged[-1] += " " + p
@@ -103,6 +106,127 @@ def read_turns(key, lang):
         if m and m.group(2).strip():
             turns.append(("Anna" if m.group(1) == "ANNA" else "Tom", m.group(2).strip()))
     return turns
+
+
+def merge_short(sents):
+    """Very short sentences ("Exactly.", "Ah.", "Oui.") sound odd when generated on their own:
+    glue each one to the next sentence of the same turn so the voice reads them together."""
+    out = []
+    for p in sents:
+        if out and len(re.findall(r"[\wÀ-ÿ'’-]+", out[-1])) <= 2:
+            out[-1] = out[-1] + " " + p
+        else:
+            out.append(p)
+    return out
+
+
+_CUT = {}
+
+
+def is_cut(path):
+    """Cached wrapper (results are stored in el_cache/cut.json)."""
+    cpath = os.path.join(CACHE, "cut.json")
+    if not _CUT:
+        _CUT.update(json.load(open(cpath)) if os.path.exists(cpath) else {"_": 0})
+    k = os.path.basename(path)
+    if k not in _CUT:
+        _CUT[k] = _is_cut(path)
+        if len(_CUT) % 25 == 0:
+            json.dump(_CUT, open(cpath, "w"))
+    return _CUT[k]
+
+
+def save_cut_cache():
+    if _CUT:
+        json.dump(_CUT, open(os.path.join(CACHE, "cut.json"), "w"))
+
+
+def _is_cut(path):
+    """True when the speech runs right to the last sample (ElevenLabs cut the last sound off).
+    A short stray sound after a pause is not a cut (rebuild.py CLEAN=1 removes it)."""
+    try:
+        import numpy as np
+    except ImportError:
+        return False
+    raw = subprocess.run(["ffmpeg", "-v", "error", "-i", path, "-f", "s16le", "-ac", "1", "-ar", "24000", "-"],
+                         capture_output=True).stdout
+    x = np.frombuffer(raw, np.int16).astype(np.float32) / 32768
+    w = 240; n = len(x) // w
+    if n < 10:
+        return False
+    env = 20 * np.log10(np.sqrt((x[:n * w].reshape(n, w) ** 2).mean(1)) + 1e-9)
+    on = env > -42
+    if not on[-2:].any() or env[-1] <= -38:
+        return False
+    j = n - 1                          # length of the final sound, and the pause before it
+    while j >= 0 and on[j]:
+        j -= 1
+    k = j
+    while k >= 0 and not on[k]:
+        k -= 1
+    stray = (n - 1 - j) < 25 and (j - k) >= 12 and k >= 0
+    return not stray
+
+
+# ---------- listening check (speech recognition) ----------
+# ElevenLabs occasionally adds a word that is not in the text (e.g. "Jamais !" after a question) or
+# garbles one. Every generated sentence is transcribed with faster-whisper ("base", then "small" to
+# confirm) and compared with the text; failures are re-generated with another seed.
+NUMBER_WORDS = set("""zero one two three four five six seven eight nine ten eleven twelve twenty thirty forty fifty
+hundred thousand million zéro un une deux trois quatre cinq six sept huit neuf dix onze douze vingt trente quarante
+cinquante soixante cent cents mille null eins zwei drei vier fünf sechs sieben acht neun zehn elf zwölf zwanzig
+dreißig vierzig hundert tausend percent prozent pour thirteen fourteen fifteen sixteen seventeen eighteen
+nineteen sixty seventy eighty ninety treize quatorze quinze seize dix-sept septante octante nonante quatre-vingt
+quatre-vingts dreizehn vierzehn fünfzehn sechzehn siebzehn achtzehn neunzehn fünfzig sechzig siebzig achtzig
+neunzig first second third premier première""".split())
+_ASR = {}
+_NUM = re.compile("^(?:" + "|".join(sorted({w.replace("ß", "ss").replace("ü", "u").replace("é", "e").replace("è", "e")
+                                              for w in NUMBER_WORDS} | {"und", "and", "et", "zig", "ssig"},
+                                             key=len, reverse=True)) + ")+$")
+
+
+def _words(t):
+    import unicodedata
+    t = unicodedata.normalize("NFKD", t.lower().replace("’", "'").replace("ß", "ss"))
+    t = "".join(c for c in t if not unicodedata.combining(c))
+    t = re.sub(r"\b(dot|point|punkt)\b", " ", t)   # "MyGuichet dot L-U" is written "MyGuichet.lu"
+    t = re.sub(r"\b([a-z])-(?=[a-z]\b)", r"\1", t)   # spelled letters "C-N-S" -> "cns"
+    return [w for w in re.split(r"[^a-z0-9]+", t)
+            if len(w) > 1 and not re.search(r"\d", w) and not _NUM.match(w) and w != "lu"]
+
+
+def asr_problem(expected, heard):
+    """Return a short reason when the recording does not match the text, else None."""
+    import difflib
+    e, h = _words(expected), _words(heard)
+    if len(e) <= 2:   # very short lines ("Trente-cinq pour cent ?"): only flag clearly added words
+        return ("extra words: " + " ".join(h)) if len(h) - len(e) >= 3 else None
+    # same letters with different word breaks ("wiederzuentdecken" / "wieder zu entdecken",
+    # "MyGuichet dot L-U" / "MyGuichet.lu") is fine
+    ej, hj = "".join(e), "".join(h)
+    if abs(len(ej) - len(hj)) <= 3 and difflib.SequenceMatcher(None, ej, hj, autojunk=False).ratio() >= 0.85:
+        return None
+    sm = difflib.SequenceMatcher(None, e, h, autojunk=False)
+    for op, i1, i2, j1, j2 in sm.get_opcodes():
+        if op == "insert" and (j1 == 0 or j2 == len(h)) and any(len(w) >= 3 for w in h[j1:j2]):
+            return "extra words: " + " ".join(h[j1:j2])
+        if op == "insert" and j2 - j1 >= 2:
+            return "extra words: " + " ".join(h[j1:j2])
+        if op == "delete" and i2 - i1 >= 2:
+            return "missing words: " + " ".join(e[i1:i2])
+        if op == "replace" and (j2 - j1) - (i2 - i1) >= 2:
+            return "extra words: " + " ".join(h[j1:j2])
+    if sm.ratio() < 0.6:
+        return "does not match the text"
+    return None
+
+
+def transcribe(path, lang, size):
+    from faster_whisper import WhisperModel
+    if size not in _ASR:
+        _ASR[size] = WhisperModel(size, device="cpu", compute_type="int8", cpu_threads=os.cpu_count() or 4)
+    segs, _ = _ASR[size].transcribe(path, language=lang, beam_size=1 if size == "base" else 3)
+    return " ".join(x.text.strip() for x in segs)
 
 
 # ---------- API ----------
@@ -185,6 +309,8 @@ def main():
     segs = []
     for spk, txt in read_turns(key, lang):
         sents = split_sentences(txt)
+        if os.environ.get("EL_MERGE_SHORT", "1") == "1":
+            sents = merge_short(sents)
         for j, s in enumerate(sents):
             segs.append({"speaker": spk, "text": s,
                          "prev": " ".join(sents[max(0, j - 2):j]),
@@ -247,6 +373,82 @@ def main():
                 die(str(e))
             if n % 10 == 0 or n == len(todo):
                 print(f"  generated {n}/{len(todo)}", flush=True)
+
+    # re-generate sentences whose ending was cut off, with another seed (up to 3 tries)
+    if os.environ.get("EL_FIX_CUTS", "1") == "1":
+        rpath = os.path.join(CACHE, "reseed.json")
+        reseed = json.load(open(rpath)) if os.path.exists(rpath) else {}
+        fixed = still = 0
+        for s in segs:
+            base = os.path.basename(s["cache"])
+            if base in reseed and os.path.exists(os.path.join(CACHE, reseed[base])):
+                s["cache"] = os.path.join(CACHE, reseed[base]); continue
+            if not is_cut(s["cache"]):
+                continue
+            for seed in (1235, 1236, 1237):
+                body = dict(s["body"], seed=seed)
+                h = hashlib.sha1(json.dumps([vids[s["speaker"]], body], sort_keys=True).encode()).hexdigest()[:20]
+                alt = os.path.join(CACHE, h + ".mp3")
+                if not (os.path.exists(alt) and os.path.getsize(alt) > 500):
+                    gen(dict(s, body=body, cache=alt))
+                if not is_cut(alt):
+                    reseed[base] = h + ".mp3"; s["cache"] = alt; fixed += 1
+                    break
+            else:
+                still += 1
+                print(f"  still cut after 3 tries: {s['text'][:70]}")
+            json.dump(reseed, open(rpath, "w"))
+        save_cut_cache()
+        print(f"cut-off endings re-generated: {fixed}" + (f", still cut: {still}" if still else ""))
+
+    # listening check: re-generate sentences where the voice added, dropped or garbled words
+    asr_on = os.environ.get("EL_ASR", "1") == "1" and lang in ("en", "fr", "de")
+    if asr_on:
+        try:
+            import faster_whisper  # noqa: F401
+        except ImportError:
+            print("listening check skipped (pip install faster-whisper to enable it)")
+            asr_on = False
+    if asr_on:
+        apath = os.path.join(CACHE, "asr.json")
+        rpath = os.path.join(CACHE, "reseed.json")
+        asr = json.load(open(apath)) if os.path.exists(apath) else {}
+        reseed = json.load(open(rpath)) if os.path.exists(rpath) else {}
+        def heard(path, size):
+            k = os.path.basename(path) + ":" + size
+            if k not in asr:
+                asr[k] = transcribe(path, lang, size)
+            return asr[k]
+        def verdict(path, s):
+            exp = s["body"]["text"]
+            if not asr_problem(exp, heard(path, "base")):
+                return None
+            return asr_problem(exp, heard(path, "small"))   # confirm with the better model
+        fixed = kept = 0; n = 0
+        for s in segs:
+            n += 1
+            if n % 20 == 0:
+                json.dump(asr, open(apath, "w"), ensure_ascii=False)
+            why = verdict(s["cache"], s)
+            if not why:
+                continue
+            base = os.path.basename(s["cache"])
+            ok = False
+            for seed in (1238, 1239, 1240):
+                body = dict(s["body"], seed=seed)
+                h = hashlib.sha1(json.dumps([vids[s["speaker"]], body], sort_keys=True).encode()).hexdigest()[:20]
+                alt = os.path.join(CACHE, h + ".mp3")
+                if not (os.path.exists(alt) and os.path.getsize(alt) > 500):
+                    gen(dict(s, body=body, cache=alt))
+                if not is_cut(alt) and not verdict(alt, s):
+                    reseed[base] = h + ".mp3"; s["cache"] = alt; ok = True; fixed += 1
+                    json.dump(reseed, open(rpath, "w"))
+                    break
+            if not ok:
+                kept += 1
+                print(f"  check manually ({why}): {s['text'][:80]}")
+        json.dump(asr, open(apath, "w"), ensure_ascii=False)
+        print(f"listening check: {len(segs)} sentences, re-generated {fixed}" + (f", {kept} to check by ear" if kept else ""))
 
     # assemble the rebuild.py work folder
     suffix = "" if lang == "en" else f"_{lang}"

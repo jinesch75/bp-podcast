@@ -38,11 +38,16 @@ for key in keys:
                 print(f"{tag}: FAILED\n{out[-1500:]}"); sys.exit(1)
             state[tag] = "generated"; json.dump(state, open(STATE, "w"))
             print(f"{tag}: generated ({[l for l in out.splitlines() if l.startswith('sentences:')][0]})")
-        if left() < 60:
+            for l in out.splitlines():
+                if "listening check" in l or "check manually" in l or "still cut" in l:
+                    print("   " + l.strip())
+                    if "check manually" in l:
+                        open("/tmp/el_check_by_ear.txt", "a").write(f"{tag}  {l.strip()}\n")
+        if left() < 40:
             print("budget used — run again to continue"); sys.exit(0)
         try:
             r = subprocess.run([sys.executable, "build/rebuild.py", work, f"{work}/podcast_{key}{sfx}.mp3"],
-                               env=dict(env, TEMPO="1.0", LOUDNORM="-20"), capture_output=True, text=True,
+                               env=dict(env, TEMPO="1.0", LOUDNORM="-20", CLEAN="1", OUT_SR="44100"), capture_output=True, text=True,
                                timeout=left() - 3)
         except subprocess.TimeoutExpired:
             print(f"{tag}: assembling… — run again"); sys.exit(0)
