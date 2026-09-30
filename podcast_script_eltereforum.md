@@ -10,7 +10,7 @@
 
 **TOM:** Hello everyone!
 
-**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. So that they can connect, exchange ideas and feel at home. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
 
 **TOM:** Exactly. And today's topic is for anyone who has children, or who is about to have children. It's a service called the Eltereforum.
 
@@ -20,11 +20,11 @@
 
 **ANNA:** A parents' forum. So it's a place for parents.
 
-**TOM:** Exactly. The official description is very warm. The parent forums are welcoming places for discussion, information and support — for all parents.
+**TOM:** Exactly. The official description is very inviting. The parent forums are welcoming places for discussion, information and support — for all parents.
 
-**ANNA:** For all parents. So not only for parents with problems?
+**ANNA:** For all parents. So not only for parents facing difficulties?
 
-**TOM:** No, no — and this is important. It's for everyone. The Eltereforum is generalist. It's a normal, friendly place where any parent can come, ask questions, learn something, and meet other parents. You don't need a special reason. You don't need to have a problem.
+**TOM:** No, no — and this is important. It's for everyone. The Eltereforum is open to all. It's a normal, friendly place where any parent can come, ask questions, learn something, and meet other parents. You don't need a special reason. You don't need to have a specific issue.
 
 **ANNA:** Good. Because sometimes people think, "I'll ask for help only if something is wrong."
 
@@ -44,9 +44,9 @@
 
 **ANNA:** Strong parents, strong children. I like that. Okay, so practically — what actually happens at an Eltereforum? What can I do there?
 
-**TOM:** Lots of things. Let me list the main ones. There are parent meetings — so, moments to get together and exchange with other parents. There are parenting classes — like little courses on raising children. There are activities for parents together with their children. And there are themed evenings, talks and lectures — for example, an evening about sleep, or about digital tools, or about reading.
+**TOM:** Lots of things. Let me list the main ones. There are parent meetings — so, moments to get together and exchange with other parents. There are also courses that offer specific guidance on different aspects of parenting. There are activities for parents together with their children. And there are themed evenings, talks and lectures — for example, an evening about sleep, or about digital tools, or about reading.
 
-**ANNA:** So courses, evenings, meetings, and parent-child activities.
+**ANNA:** So courses, evenings, meetings, and activities for parents and their kids.
 
 **TOM:** Exactly. The whole thing is built so that you get good-quality information, and at the same time a place to meet other parents and professionals.
 
@@ -56,9 +56,9 @@
 
 **ANNA:** What if I have a serious, specific problem? Can they handle everything?
 
-**TOM:** That's an important point. The Eltereforum is generalist — it does not give specialised treatment. It's not a clinic or a therapy centre. But if you need something more specific, the team listens to you and guides you. They point you to the right specialised service. So it's also a door — a first place to go, that sends you in the right direction.
+**TOM:** That's an important point. The Eltereforum is like a general practitioner — it does not give specialised treatment. It's not a clinic or a therapy centre. But if you need something more specific, the team listens to you and guides you. They point you to the right specialised service. So it's also a door — a first place to go, that sends you in the right direction.
 
-**ANNA:** So even if they can't solve everything, they help me find who can.
+**ANNA:** So even if they can't help me with a specific issue, they are connected well enough to find someone who can.
 
 **TOM:** Exactly. A friendly first step.
 
@@ -86,7 +86,7 @@
 
 **TOM:** Exactly. Think of it as a friendly place that's on your side. Strong parents, strong children.
 
-**ANNA:** That was our episode about the Eltereforum. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.
+**ANNA:** That was our episode about the Eltereforum. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 
 **TOM:** Thank you, everyone. Take care... and see you next time!
 
