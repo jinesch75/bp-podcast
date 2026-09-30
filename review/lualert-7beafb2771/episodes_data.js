@@ -879,768 +879,768 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et le sujet d'aujourd'hui concerne quelque chose qui protège tout le monde.",
-    "t": 23.73
+    "t": 23.07
    },
    {
     "speaker": "Tom",
     "text": "C'est le système qui avertit la population quand il y a une urgence.",
-    "t": 28.16
+    "t": 27.5
    },
    {
     "speaker": "Tom",
     "text": "Ça s'appelle LU-Alert.",
-    "t": 31.52
+    "t": 30.86
    },
    {
     "speaker": "Tom",
     "text": "C'est le système national d'alerte et d'information de la population.",
-    "t": 33.34
+    "t": 32.68
    },
    {
     "speaker": "Tom",
     "text": "Il a été déployé à l'automne 2024.",
-    "t": 36.8
+    "t": 36.14
    },
    {
     "speaker": "Tom",
     "text": "C'est le remplaçant moderne de l'ancien système d'alerte.",
-    "t": 39.32
+    "t": 38.66
    },
    {
     "speaker": "Anna",
     "text": "Et à quoi ça sert, concrètement ?",
-    "t": 42.4
+    "t": 41.74
    },
    {
     "speaker": "Tom",
     "text": "L'objectif est d'avertir et d'informer les personnes qui pourraient être touchées par un événement dangereux.",
-    "t": 44.21
+    "t": 43.55
    },
    {
     "speaker": "Tom",
     "text": "Pour que vous puissiez vous préparer, et prendre les bonnes précautions pour vous protéger, vous et vos biens.",
-    "t": 49.19
+    "t": 48.53
    },
    {
     "speaker": "Tom",
     "text": "Et ce n'est pas seulement pendant l'urgence.",
-    "t": 54.55
+    "t": 53.89
    },
    {
     "speaker": "Tom",
     "text": "C'est aussi avant — pour construire ce qu'on appelle la résilience et la prévention.",
-    "t": 56.6
+    "t": 55.94
    },
    {
     "speaker": "Anna",
     "text": "Donc ça m'aide à agir au bon moment.",
-    "t": 61.41
+    "t": 60.75
    },
    {
     "speaker": "Anna",
     "text": "Bon, la grande question pour la plupart des gens... comment l'alerte m'arrive-t-elle, concrètement ?",
-    "t": 63.15
+    "t": 62.49
    },
    {
     "speaker": "Anna",
     "text": "Sur mon téléphone ?",
-    "t": 67.69
+    "t": 67.03
    },
    {
     "speaker": "Tom",
     "text": "Oui, surtout sur votre téléphone, et de plusieurs façons.",
-    "t": 69.02
+    "t": 68.36
    },
    {
     "speaker": "Tom",
     "text": "LU-Alert est ce qu'on appelle « multicanal ».",
-    "t": 72.17
+    "t": 71.51
    },
    {
     "speaker": "Tom",
     "text": "Ça veut dire qu'il utilise plusieurs canaux différents en même temps, pour atteindre le plus de personnes possible.",
-    "t": 75.19
+    "t": 74.53
    },
    {
     "speaker": "Tom",
     "text": "L'un est le Cell Broadcast.",
-    "t": 80.59
+    "t": 79.93
    },
    {
     "speaker": "Tom",
     "text": "L'autre est le SMS géolocalisé.",
-    "t": 82.44
+    "t": 81.78
    },
    {
     "speaker": "Anna",
     "text": "D'accord. Et voici la question que tout le monde se pose.",
-    "t": 84.92
+    "t": 84.26
    },
    {
     "speaker": "Anna",
     "text": "Est-ce que je dois m'inscrire, ou m'enregistrer, pour les recevoir ?",
-    "t": 87.31
+    "t": 86.65
    },
    {
     "speaker": "Tom",
     "text": "Non. Et c'est vraiment important.",
-    "t": 90.43
+    "t": 89.77
    },
    {
     "speaker": "Tom",
     "text": "Pour le Cell Broadcast et pour le SMS géolocalisé, vous n'avez pas besoin de vous inscrire.",
-    "t": 92.41
+    "t": 91.75
    },
    {
     "speaker": "Tom",
     "text": "Vous ne donnez votre numéro à personne.",
-    "t": 97.34
+    "t": 96.68
    },
    {
     "speaker": "Tom",
     "text": "Si votre téléphone se trouve dans la zone quand les autorités envoient un message, votre téléphone est ciblé automatiquement.",
-    "t": 99.51
+    "t": 98.85
    },
    {
     "speaker": "Anna",
     "text": "Donc je n'ai rien à faire, et je ne peux pas vraiment m'y soustraire non plus.",
-    "t": 105.96
+    "t": 105.3
    },
    {
     "speaker": "Tom",
     "text": "Correct. C'est voulu — pour que toutes les personnes en danger soient averties.",
-    "t": 109.26
+    "t": 108.6
    },
    {
     "speaker": "Anna",
     "text": "Bien. Il y a d'autres canaux ?",
-    "t": 113.66
+    "t": 113
    },
    {
     "speaker": "Tom",
     "text": "Oui. Il y a l'application mobile LU-Alert, que vous téléchargez gratuitement.",
-    "t": 115.39
+    "t": 114.73
    },
    {
     "speaker": "Tom",
     "text": "Il y a les sites officiels, comme lu-alert point l-u.",
-    "t": 119.82
+    "t": 119.16
    },
    {
     "speaker": "Tom",
     "text": "Il y a la presse — la radio, la télévision, leurs sites et leurs applications.",
-    "t": 123.37
+    "t": 122.71
    },
    {
     "speaker": "Tom",
     "text": "Il y a les réseaux sociaux.",
-    "t": 127.77
+    "t": 127.11
    },
    {
     "speaker": "Tom",
     "text": "Et enfin, les sirènes.",
-    "t": 129.29
+    "t": 128.63
    },
    {
     "speaker": "Anna",
     "text": "Les sirènes ? Comme les vieilles sirènes d'alerte aérienne ?",
-    "t": 130.84
+    "t": 130.18
    },
    {
     "speaker": "Tom",
     "text": "Oui, mais aujourd'hui les sirènes ne sont utilisées que dans un seul cas précis — une alerte nucléaire.",
-    "t": 133.87
+    "t": 133.21
    },
    {
     "speaker": "Tom",
     "text": "Pour tout le reste, c'est le téléphone et les autres canaux.",
-    "t": 139.24
+    "t": 138.58
    },
    {
     "speaker": "Anna",
     "text": "Compris. Et l'application mobile — qu'est-ce qu'elle apporte de plus, si je reçois déjà les SMS ?",
-    "t": 142.31
+    "t": 141.65
    },
    {
     "speaker": "Tom",
     "text": "L'application vous permet de suivre toutes les alertes et informations en un seul endroit, émises par les autorités publiques.",
-    "t": 147.88
+    "t": 147.22
    },
    {
     "speaker": "Tom",
     "text": "Vous la téléchargez gratuitement, sur l'App Store d'Apple ou le Google Play Store.",
-    "t": 154.38
+    "t": 153.72
    },
    {
     "speaker": "Tom",
     "text": "C'est une bonne idée de l'installer.",
-    "t": 158.74
+    "t": 158.08
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, une inquiétude pratique.",
-    "t": 160.7
+    "t": 160.04
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup d'entre nous ne parlent pas luxembourgeois.",
-    "t": 162.76
+    "t": 162.1
    },
    {
     "speaker": "Anna",
     "text": "Dans quelle langue arrivent ces messages ?",
-    "t": 164.99
+    "t": 164.33
    },
    {
     "speaker": "Tom",
     "text": "Bonne question. Les messages sont envoyés en trois langues — allemand, anglais et français.",
-    "t": 167.06
+    "t": 166.4
    },
    {
     "speaker": "Tom",
     "text": "Dans l'application, vous recevez la langue que vous avez choisie dans les paramètres.",
-    "t": 171.95
+    "t": 171.29
    },
    {
     "speaker": "Tom",
     "text": "Par SMS géolocalisé, vous recevez les trois langues dans un seul message.",
-    "t": 175.7
+    "t": 175.04
    },
    {
     "speaker": "Anna",
     "text": "C'est rassurant. Bon, alors un message arrive.",
-    "t": 180.3
+    "t": 179.64
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce qu'il y a dedans ?",
-    "t": 183.11
+    "t": 182.45
    },
    {
     "speaker": "Tom",
     "text": "Normalement, trois choses.",
-    "t": 184.5
+    "t": 183.84
    },
    {
     "speaker": "Tom",
     "text": "Premièrement, ce qui s'est passé, ou ce qui risque de se passer.",
-    "t": 186.18
+    "t": 185.52
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement, une recommandation — comment vous comporter, ou ce que vous devez faire.",
-    "t": 189.73
+    "t": 189.07
    },
    {
     "speaker": "Tom",
     "text": "Et troisièmement, un site internet où trouver plus d'informations.",
-    "t": 193.85
+    "t": 193.19
    },
    {
     "speaker": "Anna",
     "text": "Et si le message est très court ?",
-    "t": 197.34
+    "t": 196.68
    },
    {
     "speaker": "Tom",
     "text": "Ça peut arriver, surtout par SMS, parce qu'il y a une limite de caractères.",
-    "t": 198.96
+    "t": 198.3
    },
    {
     "speaker": "Tom",
     "text": "Donc si le message est court, le conseil est toujours le même — allez sur le site, lu-alert point l-u, pour lire tous les détails de l'alerte.",
-    "t": 203.26
+    "t": 202.6
    },
    {
     "speaker": "Anna",
     "text": "lu-alert.lu pour l'histoire complète.",
-    "t": 212.5
+    "t": 211.84
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, les messages ont aussi des niveaux, n'est-ce pas ?",
-    "t": 215.72
+    "t": 215.06
    },
    {
     "speaker": "Anna",
     "text": "Pour montrer la gravité ?",
-    "t": 218.18
+    "t": 217.52
    },
    {
     "speaker": "Tom",
     "text": "Oui. LU-Alert utilise différents niveaux d'alerte.",
-    "t": 219.68
+    "t": 219.02
    },
    {
     "speaker": "Tom",
     "text": "Laissez-moi les passer en revue.",
-    "t": 222.28
+    "t": 221.62
    },
    {
     "speaker": "Tom",
     "text": "Le plus fort est « D », pour danger imminent — ça veut dire agir immédiatement.",
-    "t": 223.97
+    "t": 223.31
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, il y a trois niveaux de vigilance, comme les couleurs de la météo.",
-    "t": 228.48
+    "t": 227.82
    },
    {
     "speaker": "Tom",
     "text": "Le rouge est N1 — vigilance absolue, le plus élevé.",
-    "t": 232.01
+    "t": 231.35
    },
    {
     "speaker": "Tom",
     "text": "L'orange est N2 — soyez prudent, risque moyen.",
-    "t": 235.87
+    "t": 235.21
    },
    {
     "speaker": "Tom",
     "text": "Le jaune est N3 — soyez attentif, risque faible.",
-    "t": 239.48
+    "t": 238.82
    },
    {
     "speaker": "Anna",
     "text": "Donc rouge, orange, jaune — presque comme un feu de signalisation.",
-    "t": 243.36
+    "t": 242.7
    },
    {
     "speaker": "Tom",
     "text": "Exactement, c'est une façon facile de le retenir.",
-    "t": 247.61
+    "t": 246.95
    },
    {
     "speaker": "Tom",
     "text": "Et il y en a trois autres.",
-    "t": 250.46
+    "t": 249.8
    },
    {
     "speaker": "Tom",
     "text": "« A », c'est pour une personne disparue ou une alerte enlèvement.",
-    "t": 251.82
+    "t": 251.16
    },
    {
     "speaker": "Tom",
     "text": "« I », c'est juste une information — pas de danger.",
-    "t": 255.14
+    "t": 254.48
    },
    {
     "speaker": "Tom",
     "text": "Et « T », c'est un message de test.",
-    "t": 258.1
+    "t": 257.44
    },
    {
     "speaker": "Anna",
     "text": "Ah, le test.",
-    "t": 260.52
+    "t": 259.86
    },
    {
     "speaker": "Anna",
     "text": "Donc si je reçois un message qui dit que c'est un test...",
-    "t": 261.64
+    "t": 260.98
    },
    {
     "speaker": "Tom",
     "text": "...alors vous n'avez rien à faire.",
-    "t": 264.33
+    "t": 263.67
    },
    {
     "speaker": "Tom",
     "text": "Le message dira clairement que c'est un test.",
-    "t": 265.89
+    "t": 265.23
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg teste le système chaque mois — et les sirènes sont testées le premier lundi du mois, vers midi.",
-    "t": 268.2
+    "t": 267.54
    },
    {
     "speaker": "Tom",
     "text": "C'est normal, pas d'inquiétude.",
-    "t": 273.76
+    "t": 273.1
    },
    {
     "speaker": "Anna",
     "text": "Très bon à savoir.",
-    "t": 275.65
+    "t": 274.99
    },
    {
     "speaker": "Anna",
     "text": "Comme ça, personne ne panique un jour de test.",
-    "t": 276.83
+    "t": 276.17
    },
    {
     "speaker": "Anna",
     "text": "Maintenant — quels types d'événements peuvent déclencher une alerte ?",
-    "t": 278.94
+    "t": 278.28
    },
    {
     "speaker": "Tom",
     "text": "Un éventail assez large.",
-    "t": 282.04
+    "t": 281.38
    },
    {
     "speaker": "Tom",
     "text": "Le système a douze catégories d'événements.",
-    "t": 283.73
+    "t": 283.07
    },
    {
     "speaker": "Tom",
     "text": "Des choses comme la météo — tempêtes, fortes pluies, neige, froid, chaleur.",
-    "t": 286.05
+    "t": 285.39
    },
    {
     "speaker": "Tom",
     "text": "L'environnement — par exemple les inondations, ou la pollution de l'air.",
-    "t": 291.49
+    "t": 290.83
    },
    {
     "speaker": "Tom",
     "text": "La santé — comme un rappel de produit alimentaire ou une alerte allergène.",
-    "t": 295.33
+    "t": 294.67
    },
    {
     "speaker": "Tom",
     "text": "Et puis l'incendie, le sauvetage, la sécurité, la sûreté, les problèmes de transport, les infrastructures défaillantes, et quelques autres.",
-    "t": 299.71
+    "t": 299.05
    },
    {
     "speaker": "Anna",
     "text": "Donc d'une grosse tempête, à une inondation, à un rappel alimentaire.",
-    "t": 307.76
+    "t": 307.1
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Un large éventail, tout dans un seul système.",
-    "t": 311.21
+    "t": 310.55
    },
    {
     "speaker": "Tom",
     "text": "Et ces catégories suivent une norme internationale, donc elles sont compatibles avec les autres pays aussi.",
-    "t": 314.85
+    "t": 314.19
    },
    {
     "speaker": "Anna",
     "text": "Et qui envoie réellement ces messages ?",
-    "t": 320.7
+    "t": 320.04
    },
    {
     "speaker": "Anna",
     "text": "Qui décide ?",
-    "t": 322.55
+    "t": 321.89
    },
    {
     "speaker": "Tom",
     "text": "Uniquement les autorités publiques.",
-    "t": 323.7
+    "t": 323.04
    },
    {
     "speaker": "Tom",
     "text": "Plusieurs d'entre elles sont connectées au système.",
-    "t": 325.7
+    "t": 325.04
    },
    {
     "speaker": "Tom",
     "text": "Par exemple — la Police, le Corps grand-ducal d'incendie et de secours, c'est-à-dire le CGDIS, le service météorologique MeteoLux, l'administration de la gestion de l'eau, l'administration de l'alimentation, et le Haut-Commissariat à la protection nationale.",
-    "t": 328.07
+    "t": 327.41
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est toujours une source officielle.",
-    "t": 343.04
+    "t": 342.38
    },
    {
     "speaker": "Anna",
     "text": "Jamais une entreprise privée.",
-    "t": 344.88
+    "t": 344.22
    },
    {
     "speaker": "Tom",
     "text": "Jamais. Et encore une chose — il n'y a pas de publicité sur LU-Alert.",
-    "t": 346.66
+    "t": 346
    },
    {
     "speaker": "Tom",
     "text": "Il est utilisé uniquement par les autorités publiques, uniquement pour l'alerte et l'information.",
-    "t": 350.84
+    "t": 350.18
    },
    {
     "speaker": "Tom",
     "text": "Jamais pour de la pub.",
-    "t": 355.82
+    "t": 355.16
    },
    {
     "speaker": "Anna",
     "text": "C'est le lien parfait avec ma prochaine inquiétude.",
-    "t": 357.41
+    "t": 356.75
    },
    {
     "speaker": "Anna",
     "text": "Les arnaques. Comment savoir si un message est vrai, et pas du phishing ?",
-    "t": 359.86
+    "t": 359.2
    },
    {
     "speaker": "Tom",
     "text": "Sujet très important.",
-    "t": 364.09
+    "t": 363.43
    },
    {
     "speaker": "Tom",
     "text": "Comme tout message, une alerte pourrait être imitée par des criminels.",
-    "t": 365.63
+    "t": 364.97
    },
    {
     "speaker": "Tom",
     "text": "Alors, quelques vérifications simples.",
-    "t": 369.27
+    "t": 368.61
    },
    {
     "speaker": "Tom",
     "text": "Premièrement — les autorités publiques ne vous demanderont jamais de données personnelles.",
-    "t": 371.5
+    "t": 370.84
    },
    {
     "speaker": "Tom",
     "text": "Jamais.",
-    "t": 375.93
+    "t": 375.27
    },
    {
     "speaker": "Anna",
     "text": "Ne jamais partager de données personnelles.",
-    "t": 376.9
+    "t": 376.24
    },
    {
     "speaker": "Anna",
     "text": "D'accord.",
-    "t": 379.03
+    "t": 378.37
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement — normalement, le message ne contiendra pas de lien cliquable.",
-    "t": 379.88
+    "t": 379.22
    },
    {
     "speaker": "Tom",
     "text": "Si jamais il y a un lien, soyez prudent, et vérifiez qu'il pointe vraiment vers un site officiel du gouvernement.",
-    "t": 383.65
+    "t": 382.99
    },
    {
     "speaker": "Tom",
     "text": "Et troisièmement, la vérification la plus facile de toutes — allez sur lu-alert point l-u et regardez si la même alerte y figure.",
-    "t": 389.54
+    "t": 388.88
    },
    {
     "speaker": "Tom",
     "text": "Si elle est vraie, elle sera sur le site.",
-    "t": 397.78
+    "t": 397.12
    },
    {
     "speaker": "Anna",
     "text": "Donc en cas de doute, vérifiez sur le site.",
-    "t": 399.93
+    "t": 399.27
    },
    {
     "speaker": "Anna",
     "text": "Ne cliquez pas, ne partagez pas, vérifiez simplement.",
-    "t": 402.09
+    "t": 401.43
    },
    {
     "speaker": "Tom",
     "text": "C'est la règle d'or.",
-    "t": 404.8
+    "t": 404.14
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, deux questions sur les personnes qui pourraient être laissées de côté.",
-    "t": 406.31
+    "t": 405.65
    },
    {
     "speaker": "Anna",
     "text": "D'abord — et si je n'ai pas de smartphone ?",
-    "t": 409.52
+    "t": 408.86
    },
    {
     "speaker": "Tom",
     "text": "Alors vous ne recevrez pas les messages de l'application, ni le Cell Broadcast.",
-    "t": 412.08
+    "t": 411.42
    },
    {
     "speaker": "Tom",
     "text": "Mais vous pouvez quand même recevoir un SMS géolocalisé sur un téléphone classique.",
-    "t": 416.06
+    "t": 415.4
    },
    {
     "speaker": "Tom",
     "text": "Et vous avez toujours les autres canaux — le site, les autres sites du gouvernement, la radio et la télévision.",
-    "t": 420.7
+    "t": 420.04
    },
    {
     "speaker": "Anna",
     "text": "Et une personne avec une déficience visuelle ?",
-    "t": 426.64
+    "t": 425.98
    },
    {
     "speaker": "Tom",
     "text": "La plupart des téléphones ont des paramètres d'accessibilité.",
-    "t": 428.9
+    "t": 428.24
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez faire lire le message à voix haute par le téléphone, ou agrandir le texte.",
-    "t": 432.05
+    "t": 431.39
    },
    {
     "speaker": "Tom",
     "text": "Le message peut donc être entendu, pas seulement vu.",
-    "t": 436.32
+    "t": 435.66
    },
    {
     "speaker": "Anna",
     "text": "C'est bien pensé.",
-    "t": 439.4
+    "t": 438.74
    },
    {
     "speaker": "Anna",
     "text": "Bon, Tom — rendons ça vraiment pratique.",
-    "t": 440.56
+    "t": 439.9
    },
    {
     "speaker": "Anna",
     "text": "Si j'écoute maintenant, qu'est-ce que je devrais faire aujourd'hui, pour être prête ?",
-    "t": 442.72
+    "t": 442.06
    },
    {
     "speaker": "Tom",
     "text": "Trois choses simples.",
-    "t": 446.41
+    "t": 445.75
    },
    {
     "speaker": "Tom",
     "text": "Un — téléchargez l'application LU-Alert, depuis votre magasin d'applications, et choisissez votre langue.",
-    "t": 447.89
+    "t": 447.23
    },
    {
     "speaker": "Tom",
     "text": "Deux — vérifiez que votre téléphone peut recevoir ces alertes ; vous pouvez regarder dans les paramètres de votre téléphone, sous alertes d'urgence ou alertes gouvernementales.",
-    "t": 453.47
+    "t": 452.81
    },
    {
     "speaker": "Tom",
     "text": "Et trois — retenez le site, lu-alert point l-u, et retenez la règle d'or : vérifiez là-bas, ne partagez jamais de données personnelles.",
-    "t": 462.43
+    "t": 461.77
    },
    {
     "speaker": "Anna",
     "text": "Télécharger l'application, vérifier ses paramètres, retenir le site.",
-    "t": 472
+    "t": 471.34
    },
    {
     "speaker": "Anna",
     "text": "Facile. Bon, un petit résumé pour finir ?",
-    "t": 475.6
+    "t": 474.94
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. LU-Alert est le système national d'alerte et d'information du Luxembourg, lancé à l'automne 2024.",
-    "t": 478.2
+    "t": 477.54
    },
    {
     "speaker": "Tom",
     "text": "Il vous atteint sur votre téléphone — par Cell Broadcast et SMS géolocalisé, sans inscription nécessaire — et aussi via l'application, les sites internet, les médias et, pour les alertes nucléaires, les sirènes.",
-    "t": 485.25
+    "t": 484.59
    },
    {
     "speaker": "Tom",
     "text": "Les messages arrivent en allemand, en anglais et en français, avec un niveau allant du jaune jusqu'au danger imminent, et ils vous disent ce qui s'est passé et quoi faire.",
-    "t": 498
+    "t": 497.34
    },
    {
     "speaker": "Anna",
     "text": "Et le message de sécurité ?",
-    "t": 507.22
+    "t": 506.56
    },
    {
     "speaker": "Tom",
     "text": "Les autorités ne demandent jamais de données personnelles, et il n'y a pas de publicité.",
-    "t": 508.92
+    "t": 508.26
    },
    {
     "speaker": "Tom",
     "text": "Si vous n'êtes pas sûr, vérifiez sur lu-alert point l-u.",
-    "t": 513.37
+    "t": 512.71
    },
    {
     "speaker": "Anna",
     "text": "Magnifique. Alors... une urgence, c'est rare, mais être prêt ne coûte rien.",
-    "t": 517.1
+    "t": 516.44
    },
    {
     "speaker": "Anna",
     "text": "Téléchargez l'application aujourd'hui, et vous êtes préparé.",
-    "t": 521.51
+    "t": 520.85
    },
    {
     "speaker": "Tom",
     "text": "Vraiment. Quelques minutes maintenant... une vraie tranquillité d'esprit plus tard.",
-    "t": 524.62
+    "t": 523.96
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur LU-Alert.",
-    "t": 528.97
+    "t": 528.31
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 530.99
+    "t": 530.33
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 539.01
+    "t": 538.35
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 554.88
+    "t": 554.22
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 559.53
+    "t": 558.87
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 561.31
+    "t": 560.65
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 565.69
+    "t": 565.03
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 566.92
+    "t": 566.26
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 569.38
+    "t": 568.72
    }
   ],
   "segments_de": [
@@ -1666,773 +1666,773 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und das heutige Thema handelt von etwas, das alle schützt.",
-    "t": 28.46
+    "t": 27.86
    },
    {
     "speaker": "Tom",
     "text": "Es ist das System, das die Bevölkerung warnt, wenn es einen Notfall gibt.",
-    "t": 33.17
+    "t": 32.57
    },
    {
     "speaker": "Tom",
     "text": "Es heißt LU-Alert.",
-    "t": 37.16
+    "t": 36.56
    },
    {
     "speaker": "Tom",
     "text": "Es ist das nationale Warn- und Informationssystem für die Bevölkerung.",
-    "t": 39.01
+    "t": 38.41
    },
    {
     "speaker": "Tom",
     "text": "Es wurde im Herbst 2024 eingeführt.",
-    "t": 43.16
+    "t": 42.56
    },
    {
     "speaker": "Tom",
     "text": "Es ist der moderne Ersatz für das ältere Warnsystem.",
-    "t": 46.44
+    "t": 45.84
    },
    {
     "speaker": "Anna",
     "text": "Und wofür ist es da, genau?",
-    "t": 49.56
+    "t": 48.96
    },
    {
     "speaker": "Tom",
     "text": "Das Ziel ist, Menschen zu warnen und zu informieren, die von einem gefährlichen Ereignis betroffen sein könnten.",
-    "t": 51.56
+    "t": 50.96
    },
    {
     "speaker": "Tom",
     "text": "Damit Sie sich vorbereiten können, und die richtigen Vorkehrungen treffen, um sich und Ihr Eigentum zu schützen.",
-    "t": 57.51
+    "t": 56.91
    },
    {
     "speaker": "Tom",
     "text": "Und das gilt nicht nur während des Notfalls.",
-    "t": 63.41
+    "t": 62.81
    },
    {
     "speaker": "Tom",
     "text": "Auch davor — um das aufzubauen, was man Resilienz und Prävention nennt.",
-    "t": 65.76
+    "t": 65.16
    },
    {
     "speaker": "Anna",
     "text": "Es hilft mir also, im richtigen Moment zu handeln.",
-    "t": 70.46
+    "t": 69.86
    },
    {
     "speaker": "Anna",
     "text": "Okay, die große Frage für die meisten Menschen... wie erreicht mich die Warnung eigentlich?",
-    "t": 73.26
+    "t": 72.66
    },
    {
     "speaker": "Anna",
     "text": "Auf meinem Telefon?",
-    "t": 78.56
+    "t": 77.96
    },
    {
     "speaker": "Tom",
     "text": "Ja, hauptsächlich auf Ihrem Telefon, und auf mehreren Wegen.",
-    "t": 80.09
+    "t": 79.49
    },
    {
     "speaker": "Tom",
     "text": "LU-Alert ist das, was man „Multi-Kanal\" nennt.",
-    "t": 83.83
+    "t": 83.23
    },
    {
     "speaker": "Tom",
     "text": "Das heißt, es nutzt viele verschiedene Kanäle gleichzeitig, um so viele Menschen wie möglich zu erreichen.",
-    "t": 87.34
+    "t": 86.74
    },
    {
     "speaker": "Tom",
     "text": "Einer ist Cell Broadcast.",
-    "t": 92.93
+    "t": 92.33
    },
    {
     "speaker": "Tom",
     "text": "Der andere ist die standortbasierte SMS.",
-    "t": 94.75
+    "t": 94.15
    },
    {
     "speaker": "Anna",
     "text": "Okay. Und hier ist die Frage, die alle stellen.",
-    "t": 97.74
+    "t": 97.14
    },
    {
     "speaker": "Anna",
     "text": "Muss ich mich anmelden oder registrieren, um diese zu bekommen?",
-    "t": 100.69
+    "t": 100.09
    },
    {
     "speaker": "Tom",
     "text": "Nein. Und das ist wirklich wichtig.",
-    "t": 104.25
+    "t": 103.65
    },
    {
     "speaker": "Tom",
     "text": "Für Cell Broadcast und für die standortbasierte SMS müssen Sie sich nicht anmelden.",
-    "t": 106.82
+    "t": 106.22
    },
    {
     "speaker": "Tom",
     "text": "Sie geben niemandem Ihre Nummer.",
-    "t": 112.12
+    "t": 111.52
    },
    {
     "speaker": "Tom",
     "text": "Wenn Ihr Telefon in dem Gebiet ist, wenn die Behörden eine Nachricht senden, wird Ihr Telefon automatisch erreicht.",
-    "t": 113.84
+    "t": 113.24
    },
    {
     "speaker": "Anna",
     "text": "Ich muss also nichts tun, und ich kann mich auch nicht wirklich abmelden.",
-    "t": 120.08
+    "t": 119.48
    },
    {
     "speaker": "Tom",
     "text": "Richtig. Das ist Absicht — damit alle, die in Gefahr sind, gewarnt werden.",
-    "t": 123.9
+    "t": 123.3
    },
    {
     "speaker": "Anna",
     "text": "Gut. Gibt es noch andere Kanäle?",
-    "t": 128.45
+    "t": 127.85
    },
    {
     "speaker": "Tom",
     "text": "Ja. Es gibt die mobile LU-Alert-App, die Sie kostenlos herunterladen.",
-    "t": 130.92
+    "t": 130.32
    },
    {
     "speaker": "Tom",
     "text": "Es gibt die offiziellen Websites, wie lu-alert Punkt l-u.",
-    "t": 135.74
+    "t": 135.14
    },
    {
     "speaker": "Tom",
     "text": "Es gibt die Presse — Radio, Fernsehen, ihre Websites und Apps.",
-    "t": 141.12
+    "t": 140.52
    },
    {
     "speaker": "Tom",
     "text": "Es gibt die sozialen Medien.",
-    "t": 145.76
+    "t": 145.16
    },
    {
     "speaker": "Tom",
     "text": "Und schließlich Sirenen.",
-    "t": 147.46
+    "t": 146.86
    },
    {
     "speaker": "Anna",
     "text": "Sirenen? Wie die alten Luftschutzsirenen?",
-    "t": 149.06
+    "t": 148.46
    },
    {
     "speaker": "Tom",
     "text": "Ja, aber heute werden die Sirenen nur noch in einem bestimmten Fall benutzt — bei einem Nuklearalarm.",
-    "t": 152.11
+    "t": 151.51
    },
    {
     "speaker": "Tom",
     "text": "Für alles andere sind es das Telefon und die anderen Kanäle.",
-    "t": 157.76
+    "t": 157.16
    },
    {
     "speaker": "Anna",
     "text": "Verstanden. Und die mobile App — was bringt sie zusätzlich, wenn ich schon die SMS bekomme?",
-    "t": 161.19
+    "t": 160.59
    },
    {
     "speaker": "Tom",
     "text": "Mit der App können Sie alle Warnungen und Informationen an einem Ort verfolgen, herausgegeben von den öffentlichen Behörden.",
-    "t": 167.34
+    "t": 166.74
    },
    {
     "speaker": "Tom",
     "text": "Sie laden sie kostenlos herunter, im Apple App Store oder im Google Play Store.",
-    "t": 173.94
+    "t": 173.34
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine gute Idee, sie zu installieren.",
-    "t": 178.75
+    "t": 178.15
    },
    {
     "speaker": "Anna",
     "text": "Nun eine praktische Sorge.",
-    "t": 181.33
+    "t": 180.73
    },
    {
     "speaker": "Anna",
     "text": "Viele von uns sprechen kein Luxemburgisch.",
-    "t": 183.11
+    "t": 182.51
    },
    {
     "speaker": "Anna",
     "text": "In welcher Sprache kommen diese Nachrichten an?",
-    "t": 185.45
+    "t": 184.85
    },
    {
     "speaker": "Tom",
     "text": "Gute Frage. Die Nachrichten werden in drei Sprachen gesendet — Deutsch, Englisch und Französisch.",
-    "t": 188.16
+    "t": 187.56
    },
    {
     "speaker": "Tom",
     "text": "In der App erhalten Sie die Sprache, die Sie in den Einstellungen gewählt haben.",
-    "t": 194.51
+    "t": 193.91
    },
    {
     "speaker": "Tom",
     "text": "Per standortbasierter SMS bekommen Sie alle drei Sprachen in einer Nachricht.",
-    "t": 198.44
+    "t": 197.84
    },
    {
     "speaker": "Anna",
     "text": "Das ist beruhigend.",
-    "t": 203.64
+    "t": 203.04
    },
    {
     "speaker": "Anna",
     "text": "Okay, eine Nachricht kommt also an.",
-    "t": 204.9
+    "t": 204.3
    },
    {
     "speaker": "Anna",
     "text": "Was steht drin?",
-    "t": 207.03
+    "t": 206.43
    },
    {
     "speaker": "Tom",
     "text": "Normalerweise drei Dinge.",
-    "t": 208.43
+    "t": 207.83
    },
    {
     "speaker": "Tom",
     "text": "Erstens, was passiert ist, oder was wahrscheinlich passieren wird.",
-    "t": 210.1
+    "t": 209.5
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, eine Empfehlung — wie Sie sich verhalten sollten, oder was Sie tun sollten.",
-    "t": 213.89
+    "t": 213.29
    },
    {
     "speaker": "Tom",
     "text": "Und drittens, eine Website, auf der Sie mehr Informationen finden.",
-    "t": 218.92
+    "t": 218.32
    },
    {
     "speaker": "Anna",
     "text": "Und wenn die Nachricht sehr kurz ist?",
-    "t": 222.79
+    "t": 222.19
    },
    {
     "speaker": "Tom",
     "text": "Das kann passieren, besonders bei SMS, weil es eine Zeichenbegrenzung gibt.",
-    "t": 225.16
+    "t": 224.56
    },
    {
     "speaker": "Tom",
     "text": "Wenn die Nachricht also kurz ist, lautet der Rat immer gleich — gehen Sie auf die Website, lu-alert Punkt l-u, um alle Details der Warnung zu lesen.",
-    "t": 230.07
+    "t": 229.47
    },
    {
     "speaker": "Anna",
     "text": "lu-alert.lu für die ganze Geschichte.",
-    "t": 241.21
+    "t": 240.61
    },
    {
     "speaker": "Anna",
     "text": "Nun, die Nachrichten haben auch Stufen, richtig?",
-    "t": 245.77
+    "t": 245.17
    },
    {
     "speaker": "Anna",
     "text": "Um zu zeigen, wie ernst es ist?",
-    "t": 248.65
+    "t": 248.05
    },
    {
     "speaker": "Tom",
     "text": "Ja. LU-Alert nutzt verschiedene Warnstufen.",
-    "t": 250.81
+    "t": 250.21
    },
    {
     "speaker": "Tom",
     "text": "Lass sie mich durchgehen.",
-    "t": 254.07
+    "t": 253.47
    },
    {
     "speaker": "Tom",
     "text": "Die stärkste ist „D\", für unmittelbare Gefahr — das heißt: sofort handeln.",
-    "t": 255.45
+    "t": 254.85
    },
    {
     "speaker": "Tom",
     "text": "Dann gibt es drei Aufmerksamkeitsstufen, wie die Wetterfarben.",
-    "t": 260.57
+    "t": 259.97
    },
    {
     "speaker": "Tom",
     "text": "Rot ist N1 — höchste Wachsamkeit, die höchste Stufe.",
-    "t": 264.08
+    "t": 263.48
    },
    {
     "speaker": "Tom",
     "text": "Orange ist N2 — Vorsicht, mittleres Risiko.",
-    "t": 267.9
+    "t": 267.3
    },
    {
     "speaker": "Tom",
     "text": "Gelb ist N3 — aufmerksam sein, geringes Risiko.",
-    "t": 271.53
+    "t": 270.93
    },
    {
     "speaker": "Anna",
     "text": "Also Rot, Orange, Gelb — fast wie eine Ampel.",
-    "t": 275.05
+    "t": 274.45
    },
    {
     "speaker": "Tom",
     "text": "Genau, so kann man es sich leicht merken.",
-    "t": 279
+    "t": 278.4
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt noch drei weitere.",
-    "t": 281.81
+    "t": 281.21
    },
    {
     "speaker": "Tom",
     "text": "„A\" steht für eine vermisste Person oder einen Entführungsalarm.",
-    "t": 283.46
+    "t": 282.86
    },
    {
     "speaker": "Tom",
     "text": "„I\" ist nur Information — keine Gefahr.",
-    "t": 287.4
+    "t": 286.8
    },
    {
     "speaker": "Tom",
     "text": "Und „T\" ist eine Testnachricht.",
-    "t": 290.09
+    "t": 289.49
    },
    {
     "speaker": "Anna",
     "text": "Ah, der Test.",
-    "t": 292.31
+    "t": 291.71
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich also eine Nachricht bekomme, die sagt, dass es ein Test ist...",
-    "t": 293.73
+    "t": 293.13
    },
    {
     "speaker": "Tom",
     "text": "...dann müssen Sie nichts tun.",
-    "t": 297.51
+    "t": 296.91
    },
    {
     "speaker": "Tom",
     "text": "Die Nachricht sagt klar, dass es ein Test ist.",
-    "t": 298.99
+    "t": 298.39
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg testet das System jeden Monat — und die Sirenen werden am ersten Montag im Monat gegen Mittag getestet.",
-    "t": 301.48
+    "t": 300.88
    },
    {
     "speaker": "Tom",
     "text": "Das ist normal, keine Sorge.",
-    "t": 307.98
+    "t": 307.38
    },
    {
     "speaker": "Anna",
     "text": "Sehr gut zu wissen.",
-    "t": 309.99
+    "t": 309.39
    },
    {
     "speaker": "Anna",
     "text": "So gerät an einem Testtag niemand in Panik.",
-    "t": 311.25
+    "t": 310.65
    },
    {
     "speaker": "Anna",
     "text": "Nun — welche Art von Ereignissen kann eine Warnung auslösen?",
-    "t": 313.97
+    "t": 313.37
    },
    {
     "speaker": "Tom",
     "text": "Eine ziemlich große Bandbreite.",
-    "t": 318.18
+    "t": 317.58
    },
    {
     "speaker": "Tom",
     "text": "Das System hat zwölf Ereigniskategorien.",
-    "t": 320.29
+    "t": 319.69
    },
    {
     "speaker": "Tom",
     "text": "Dinge wie Wetter — Stürme, Starkregen, Schnee, Kälte, Hitze.",
-    "t": 322.98
+    "t": 322.38
    },
    {
     "speaker": "Tom",
     "text": "Die Umwelt — zum Beispiel Hochwasser, oder Luftverschmutzung.",
-    "t": 327.88
+    "t": 327.28
    },
    {
     "speaker": "Tom",
     "text": "Gesundheit — wie ein Lebensmittelrückruf oder eine Allergenwarnung.",
-    "t": 331.73
+    "t": 331.13
    },
    {
     "speaker": "Tom",
     "text": "Und dann Feuer, Rettung, Sicherheit, Schutz, Verkehrsprobleme, ausfallende Infrastruktur, und ein paar mehr.",
-    "t": 336.08
+    "t": 335.48
    },
    {
     "speaker": "Anna",
     "text": "Also von einem großen Sturm, über ein Hochwasser, bis zu einem Lebensmittelrückruf.",
-    "t": 344.39
+    "t": 343.79
    },
    {
     "speaker": "Tom",
     "text": "Genau. Eine große Bandbreite, alles in einem System.",
-    "t": 349.53
+    "t": 348.93
    },
    {
     "speaker": "Tom",
     "text": "Und diese Kategorien folgen einem internationalen Standard, damit sie auch zu anderen Ländern passen.",
-    "t": 353.08
+    "t": 352.48
    },
    {
     "speaker": "Anna",
     "text": "Und wer sendet diese Nachrichten eigentlich?",
-    "t": 358.37
+    "t": 357.77
    },
    {
     "speaker": "Anna",
     "text": "Wer entscheidet?",
-    "t": 360.69
+    "t": 360.09
    },
    {
     "speaker": "Tom",
     "text": "Nur öffentliche Behörden.",
-    "t": 362.03
+    "t": 361.43
    },
    {
     "speaker": "Tom",
     "text": "Mehrere von ihnen sind an das System angeschlossen.",
-    "t": 363.52
+    "t": 362.92
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel — die Polizei, das Feuerwehr- und Rettungskorps, also der CGDIS, der Wetterdienst MeteoLux, das Wasserwirtschaftsamt, die Lebensmittelbehörde, und das Hochkommissariat für nationalen Schutz.",
-    "t": 366.39
+    "t": 365.79
    },
    {
     "speaker": "Anna",
     "text": "Es ist also immer eine offizielle Quelle.",
-    "t": 380.7
+    "t": 380.1
    },
    {
     "speaker": "Anna",
     "text": "Nie ein privates Unternehmen.",
-    "t": 383.18
+    "t": 382.58
    },
    {
     "speaker": "Tom",
     "text": "Niemals. Und noch etwas — es gibt keine Werbung auf LU-Alert.",
-    "t": 385.23
+    "t": 384.63
    },
    {
     "speaker": "Tom",
     "text": "Es wird nur von öffentlichen Behörden genutzt, nur zur Warnung und Information.",
-    "t": 390.04
+    "t": 389.44
    },
    {
     "speaker": "Tom",
     "text": "Nie für Werbung.",
-    "t": 394.68
+    "t": 394.08
    },
    {
     "speaker": "Anna",
     "text": "Das ist der perfekte Übergang zu meiner nächsten Sorge.",
-    "t": 395.91
+    "t": 395.31
    },
    {
     "speaker": "Anna",
     "text": "Betrug. Woher weiß ich, dass eine Nachricht echt ist, und kein Phishing?",
-    "t": 399.06
+    "t": 398.46
    },
    {
     "speaker": "Tom",
     "text": "Sehr wichtiges Thema.",
-    "t": 403.91
+    "t": 403.31
    },
    {
     "speaker": "Tom",
     "text": "Wie jede Nachricht könnte auch eine Warnung von Kriminellen nachgeahmt werden.",
-    "t": 405.36
+    "t": 404.76
    },
    {
     "speaker": "Tom",
     "text": "Also, ein paar einfache Prüfungen.",
-    "t": 409.23
+    "t": 408.63
    },
    {
     "speaker": "Tom",
     "text": "Erstens — die öffentlichen Behörden werden Sie niemals nach persönlichen Daten fragen.",
-    "t": 411.38
+    "t": 410.78
    },
    {
     "speaker": "Tom",
     "text": "Niemals.",
-    "t": 416.12
+    "t": 415.52
    },
    {
     "speaker": "Anna",
     "text": "Niemals persönliche Daten weitergeben.",
-    "t": 417.19
+    "t": 416.59
    },
    {
     "speaker": "Anna",
     "text": "Okay.",
-    "t": 419.53
+    "t": 418.93
    },
    {
     "speaker": "Tom",
     "text": "Zweitens — normalerweise enthält die Nachricht keinen anklickbaren Link.",
-    "t": 420.36
+    "t": 419.76
    },
    {
     "speaker": "Tom",
     "text": "Falls doch ein Link darin ist, seien Sie vorsichtig, und prüfen Sie, ob er wirklich auf eine offizielle Regierungswebsite führt.",
-    "t": 424.98
+    "t": 424.38
    },
    {
     "speaker": "Tom",
     "text": "Und drittens, die einfachste Prüfung von allen — gehen Sie auf lu-alert Punkt l-u und schauen Sie, ob dieselbe Warnung dort aufgeführt ist.",
-    "t": 432.03
+    "t": 431.43
    },
    {
     "speaker": "Tom",
     "text": "Wenn sie echt ist, steht sie auf der Website.",
-    "t": 443
+    "t": 442.4
    },
    {
     "speaker": "Anna",
     "text": "Im Zweifel also die Website prüfen.",
-    "t": 445.65
+    "t": 445.05
    },
    {
     "speaker": "Anna",
     "text": "Nicht klicken, nichts weitergeben, einfach überprüfen.",
-    "t": 447.88
+    "t": 447.28
    },
    {
     "speaker": "Tom",
     "text": "Das ist die goldene Regel.",
-    "t": 451.3
+    "t": 450.7
    },
    {
     "speaker": "Anna",
     "text": "Nun zwei Fragen zu Menschen, die vielleicht außen vor bleiben.",
-    "t": 453.03
+    "t": 452.43
    },
    {
     "speaker": "Anna",
     "text": "Erstens — was ist, wenn ich kein Smartphone habe?",
-    "t": 456.27
+    "t": 455.67
    },
    {
     "speaker": "Tom",
     "text": "Dann bekommen Sie die App-Nachrichten nicht, und auch kein Cell Broadcast.",
-    "t": 459.58
+    "t": 458.98
    },
    {
     "speaker": "Tom",
     "text": "Aber Sie können trotzdem eine standortbasierte SMS auf einem normalen Telefon empfangen.",
-    "t": 463.71
+    "t": 463.11
    },
    {
     "speaker": "Tom",
     "text": "Und Sie haben immer die anderen Kanäle — die Website, andere Regierungswebsites, Radio und Fernsehen.",
-    "t": 469.09
+    "t": 468.49
    },
    {
     "speaker": "Anna",
     "text": "Und jemand mit einer Sehbehinderung?",
-    "t": 475.67
+    "t": 475.07
    },
    {
     "speaker": "Tom",
     "text": "Die meisten Telefone haben Einstellungen zur Barrierefreiheit.",
-    "t": 477.95
+    "t": 477.35
    },
    {
     "speaker": "Tom",
     "text": "Sie können das Telefon die Nachricht laut vorlesen lassen, oder den Text größer machen.",
-    "t": 481.55
+    "t": 480.95
    },
    {
     "speaker": "Tom",
     "text": "Die Nachricht kann also gehört werden, nicht nur gesehen.",
-    "t": 486.31
+    "t": 485.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist gut durchdacht.",
-    "t": 489.42
+    "t": 488.82
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom — machen wir es ganz praktisch.",
-    "t": 490.84
+    "t": 490.24
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich jetzt zuhöre, was sollte ich heute tun, um bereit zu sein?",
-    "t": 493.41
+    "t": 492.81
    },
    {
     "speaker": "Tom",
     "text": "Drei einfache Dinge.",
-    "t": 497.48
+    "t": 496.88
    },
    {
     "speaker": "Tom",
     "text": "Eins — laden Sie die LU-Alert-App herunter, aus Ihrem App-Store, und wählen Sie Ihre Sprache.",
-    "t": 498.78
+    "t": 498.18
    },
    {
     "speaker": "Tom",
     "text": "Zwei — prüfen Sie, ob Ihr Telefon diese Warnungen empfangen kann; schauen Sie in Ihren Telefoneinstellungen nach, unter Notfall- oder Behördenwarnungen.",
-    "t": 505.06
+    "t": 504.46
    },
    {
     "speaker": "Tom",
     "text": "Und drei — merken Sie sich die Website, lu-alert Punkt l-u, und merken Sie sich die goldene Regel: Dort überprüfen, niemals persönliche Daten weitergeben.",
-    "t": 514.09
+    "t": 513.49
    },
    {
     "speaker": "Anna",
     "text": "Die App herunterladen, die Einstellungen prüfen, die Website merken.",
-    "t": 526.38
+    "t": 525.78
    },
    {
     "speaker": "Anna",
     "text": "Einfach. Okay, eine kurze Zusammenfassung zum Schluss?",
-    "t": 530.3
+    "t": 529.7
    },
    {
     "speaker": "Tom",
     "text": "Klar. LU-Alert ist Luxemburgs nationales Warn- und Informationssystem, gestartet im Herbst 2024.",
-    "t": 534.32
+    "t": 533.72
    },
    {
     "speaker": "Tom",
     "text": "Es erreicht Sie auf Ihrem Telefon — per Cell Broadcast und standortbasierter SMS, ohne Anmeldung — und auch über die App, Websites, die Medien und, bei Nuklearalarm, Sirenen.",
-    "t": 542.56
+    "t": 541.96
    },
    {
     "speaker": "Tom",
     "text": "Die Nachrichten kommen auf Deutsch, Englisch und Französisch, mit einer Stufe von Gelb bis zur unmittelbaren Gefahr, und sie sagen Ihnen, was passiert ist und was zu tun ist.",
-    "t": 555.45
+    "t": 554.85
    },
    {
     "speaker": "Anna",
     "text": "Und die Sicherheitsbotschaft?",
-    "t": 566.42
+    "t": 565.82
    },
    {
     "speaker": "Tom",
     "text": "Die Behörden fragen nie nach persönlichen Daten, und es gibt keine Werbung.",
-    "t": 568.21
+    "t": 567.61
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie nicht sicher sind, prüfen Sie lu-alert Punkt l-u.",
-    "t": 572.23
+    "t": 571.63
    },
    {
     "speaker": "Anna",
     "text": "Wunderbar. Also... ein Notfall ist selten, aber bereit zu sein kostet nichts.",
-    "t": 577.33
+    "t": 576.73
    },
    {
     "speaker": "Anna",
     "text": "Laden Sie die App noch heute herunter, und Sie sind vorbereitet.",
-    "t": 583.43
+    "t": 582.83
    },
    {
     "speaker": "Tom",
     "text": "Wirklich. Ein paar Minuten jetzt... und später sind Sie ganz beruhigt.",
-    "t": 587.05
+    "t": 586.45
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über LU-Alert.",
-    "t": 592
+    "t": 591.4
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 594.5
+    "t": 593.9
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 603.2
+    "t": 602.6
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 621.05
+    "t": 620.45
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 626.75
+    "t": 626.15
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 629
+    "t": 628.4
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 633.89
+    "t": 633.29
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 635.04
+    "t": 634.44
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 638.25
+    "t": 637.65
    }
   ],
   "segments_lb": [
@@ -2733,7 +2733,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "../../podcast_lualert_fr.mp3",
-  "duration_fr": 571.14,
+  "duration_fr": 570.49,
   "title_fr": "LU-Alert – Comment le Luxembourg vous alerte en cas d'urgence",
   "description_fr": "Le système national d'alerte et d'information de la population du Luxembourg, lancé à l'automne 2024. Ce qu'est LU-Alert et comment les alertes arrivent sur votre téléphone via Cell Broadcast, SMS géolocalisé et l'application gratuite — sans aucune inscription nécessaire. Les niveaux d'alerte et leurs couleurs, les douze catégories d'alerte, les langues utilisées, et une compétence simple mais vitale : comment distinguer une vraie alerte officielle d'une tentative de phishing.",
   "topics_fr": [
@@ -2804,7 +2804,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "../../podcast_lualert_de.mp3",
-  "duration_de": 639.79,
+  "duration_de": 639.19,
   "title_de": "LU-Alert – Wie Luxemburg Sie im Notfall warnt",
   "description_de": "Luxemburgs nationales Warn- und Informationssystem für die Bevölkerung, gestartet im Herbst 2024. Was LU-Alert ist und wie Warnungen Ihr Telefon erreichen — per Cell Broadcast, standortbasierter SMS und der kostenlosen App, ganz ohne Anmeldung. Die Warnstufen und Farben, die zwölf Warnkategorien, die verwendeten Sprachen, und eine einfache, aber wichtige Fähigkeit: wie man eine echte offizielle Warnung von einem Phishing-Betrug unterscheidet.",
   "topics_de": [

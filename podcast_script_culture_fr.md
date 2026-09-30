@@ -8,7 +8,7 @@
 
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
-**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
+**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
 **TOM:** Et peu de choses rassemblent autant les gens que le sujet d'aujourd'hui... la culture.
 **ANNA:** Concerts, théâtre, musées, festivals, expositions, danse, films, patrimoine.
 **TOM:** Pour un petit pays, le Luxembourg a une vie culturelle étonnamment riche.

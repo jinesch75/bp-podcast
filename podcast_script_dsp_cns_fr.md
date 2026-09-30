@@ -10,7 +10,7 @@
 
 **TOM :** Bonjour à tous !
 
-**ANNA :** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes. Et le sujet d'aujourd'hui concerne deux choses qui touchent tout le monde — votre santé, et votre argent. D'abord, votre dossier de santé en ligne, le Dossier de Soins Partagé. Et ensuite, comment vous récupérez votre argent auprès de l'assurance maladie, la CNS.
+**ANNA :** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes. Et le sujet d'aujourd'hui concerne deux choses qui touchent tout le monde — votre santé, et votre argent. D'abord, votre dossier de santé en ligne, le Dossier de Soins Partagé. Et ensuite, comment vous récupérez votre argent auprès de l'assurance maladie, la CNS.
 
 **TOM :** Deux choses très pratiques. Bon, Anna — commençons par le dossier de santé. Qu'est-ce que le Dossier de Soins Partagé ?
 

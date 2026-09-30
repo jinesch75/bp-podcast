@@ -8,7 +8,7 @@
 
 **ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
-**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 **TOM:** Und das heutige Thema ist eines, über das fast jeder in Luxemburg spricht... das Wohnen.
 **ANNA:** Wo man wohnen soll, wie viel es kostet, ob man mieten oder kaufen soll... das sind große Fragen, und große Zahlen.
 **TOM:** Aber hier ist etwas, das viele Menschen nicht wissen. Luxemburg hat eine offizielle Stelle, deren Aufgabe es ist, all das zu untersuchen... sorgfältig und mit echten Daten.

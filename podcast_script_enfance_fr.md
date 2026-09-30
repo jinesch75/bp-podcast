@@ -8,7 +8,7 @@
 
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
-**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
+**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
 **TOM:** Et le sujet d'aujourd'hui est plein de bienveillance... le soutien et la protection des enfants, des jeunes et des familles.
 **ANNA:** Nous parlons de l'Office National de l'Enfance. En anglais, le National Childhood Office.
 **TOM:** Beaucoup de gens utilisent simplement ses initiales... O, N, E.

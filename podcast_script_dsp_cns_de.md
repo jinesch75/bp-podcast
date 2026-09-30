@@ -10,7 +10,7 @@
 
 **TOM:** Hallo zusammen!
 
-**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen. Und das heutige Thema betrifft zwei Dinge, die jeden angehen — Ihre Gesundheit, und Ihr Geld. Erstens Ihre Online-Gesundheitsakte, das Dossier de Soins Partagé. Und zweitens, wie Sie Ihr Geld von der Krankenkasse zurückbekommen, der CNS.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen. Und das heutige Thema betrifft zwei Dinge, die jeden angehen — Ihre Gesundheit, und Ihr Geld. Erstens Ihre Online-Gesundheitsakte, das Dossier de Soins Partagé. Und zweitens, wie Sie Ihr Geld von der Krankenkasse zurückbekommen, der CNS.
 
 **TOM:** Zwei sehr praktische Dinge. Okay, Anna — fangen wir mit der Gesundheitsakte an. Was ist das Dossier de Soins Partagé?
 

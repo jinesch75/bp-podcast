@@ -8,7 +8,7 @@
 
 **ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
-**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 **TOM:** Und heute entdecken wir eine Seite Luxemburgs, die viele Menschen nicht kennen... die Forschung und die Wissenschaft.
 **ANNA:** Wenn wir an Luxemburg denken, denken wir oft an Banken oder daran, dass es klein ist. Aber es gibt hier auch eine wachsende Welt der Wissenschaft.
 **TOM:** Neue Medikamente, saubere Technologien, Studien über die Gesellschaft, die digitale Zukunft... all das wird von Forschern in Luxemburg erforscht.

@@ -184,3 +184,7 @@ Jacques heard a "fade-in" at the start, slightly cut sentence transitions (mostl
 - `tts_elevenlabs.py`: very short sentences ("Exactly.", "Ah.", "Oui.", "Genau.") are recorded together with the next sentence of the same turn (`EL_MERGE_SHORT`); German dates ("am 28. Mai 2019") are no longer split after the day; sentences whose ending is cut off are re-recorded with another seed (`EL_FIX_CUTS`, cached in `el_cache/cut.json`, choices in `el_cache/reseed.json`).
 - Listening check (`EL_ASR`, needs `pip install faster-whisper`): every sentence is transcribed (whisper "base", confirmed with "small") and compared with the text; added/dropped/garbled words are re-recorded (up to 3 seeds). It caught e.g. an invented "Jamais !" in French LuxTrust. Transcripts are cached in `el_cache/asr.json`. Sentences it still doubts are listed in `/tmp/el_check_by_ear.txt` — so far all were recognition mistakes (e.g. "Parents forts" heard as "Par en fort", place names), not audio errors.
 - Episodes 1–13 were re-recorded with all of this (EN/FR/DE). Episodes 14–41 remain "in progress".
+
+## Ministry name (30 Sept 2026, set by Jacques)
+
+FR: "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil" · DE: "Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen" · EN: "Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees". Applied to all FR/DE scripts (EN already matched); French and German audio of episodes 1–13 re-recorded. LB scripts keep their Luxembourgish wording.

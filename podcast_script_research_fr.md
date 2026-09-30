@@ -8,7 +8,7 @@
 
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
-**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
+**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
 **TOM:** Et aujourd'hui, nous découvrons une facette du Luxembourg que beaucoup de gens ne connaissent pas... la recherche et la science.
 **ANNA:** Quand on pense au Luxembourg, on pense souvent aux banques, ou au fait qu'il est petit. Mais il y a aussi ici un monde scientifique en pleine croissance.
 **TOM:** De nouveaux médicaments, des technologies propres, des études sur la société, l'avenir numérique... tout cela est exploré par des chercheurs au Luxembourg.

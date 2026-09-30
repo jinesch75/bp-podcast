@@ -10,7 +10,7 @@
 
 **TOM:** Hallo zusammen!
 
-**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen. Und heute sprechen wir über etwas, das Sie fast überall in Luxemburg brauchen, online. Es heißt LuxTrust.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen. Und heute sprechen wir über etwas, das Sie fast überall in Luxemburg brauchen, online. Es heißt LuxTrust.
 
 **TOM:** LuxTrust. Wir haben es schon einmal erwähnt, in der Folge über MyGuichet. Aber heute die ganze Geschichte. Anna, fangen wir einfach an. Was ist LuxTrust?
 

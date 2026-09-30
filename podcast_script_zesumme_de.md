@@ -8,7 +8,7 @@
 
 **ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
-**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 **TOM:** Und heute haben wir ein Thema, zu dem ehrlich gesagt fast jeder etwas zu sagen hat... der Papierkram.
 **ANNA:** Ja! Formulare, Verfahren, behördliche Schritte. Manchmal sind sie einfach. Und manchmal... sind sie es nicht.
 **TOM:** Wir alle kennen diesen Moment. Ein Formular, das dasselbe zweimal abfragt. Ein Schritt, bei dem man denkt... warum ist das so kompliziert?

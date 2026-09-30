@@ -8,7 +8,7 @@
 
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
-**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
+**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
 **TOM:** Et le sujet d'aujourd'hui est invisible, mais il protège presque tout ce que nous faisons... la cybersécurité.
 **ANNA:** Pensez à tout ce qui repose aujourd'hui sur les ordinateurs. Les banques, les hôpitaux, l'électricité, les services publics.
 **TOM:** Si ces systèmes étaient attaqués, les dégâts pourraient être énormes. Il faut donc que quelqu'un les défende.

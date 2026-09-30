@@ -10,7 +10,7 @@
 
 **TOM:** Hallo zusammen!
 
-**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen. Und das Thema von heute betrifft früher oder später fast jede Familie. Es geht ums Älterwerden — und um einen Dienst, der Ihnen hilft, die richtige Unterstützung zu finden. Er heißt Info-Seniors.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen. Und das Thema von heute betrifft früher oder später fast jede Familie. Es geht ums Älterwerden — und um einen Dienst, der Ihnen hilft, die richtige Unterstützung zu finden. Er heißt Info-Seniors.
 
 **TOM:** Info-Seniors. Gut, Anna, fangen wir ganz einfach an. Was ist das?
 
@@ -162,4 +162,4 @@
 
 ---
 
-*Quelle: infosenior.public.lu (Info-Seniors — Öffentliches Register der Seniorendienste) und mfsva.gouvernement.lu, Familienministerium, Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Flüchtlingen — Seiten „Ältere Menschen" und „Aktivitäten für Senioren". Das Öffentliche Register beruht auf dem geänderten Gesetz vom 23. August 2023 über die Qualität der Dienstleistungen für ältere Menschen und ist seit dem 1. März 2024 online. Seit dem 1. Januar 2026 hilft der COMPA (Complément pour personnes âgées, Nationaler Solidaritätsfonds) Menschen mit geringen Mitteln, ein Pflegeheim oder betreutes Wohnen zu bezahlen. Information und Beratung: Senioren-Telefon 247-86000; Vermittlung: SIMPA (simpa.public.lu). Nur allgemeine Informationen — prüfen Sie infosenior.lu für die aktuellen Details und Bedingungen jedes Dienstes.*
+*Quelle: infosenior.public.lu (Info-Seniors — Öffentliches Register der Seniorendienste) und mfsva.gouvernement.lu, Familienministerium, Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen — Seiten „Ältere Menschen" und „Aktivitäten für Senioren". Das Öffentliche Register beruht auf dem geänderten Gesetz vom 23. August 2023 über die Qualität der Dienstleistungen für ältere Menschen und ist seit dem 1. März 2024 online. Seit dem 1. Januar 2026 hilft der COMPA (Complément pour personnes âgées, Nationaler Solidaritätsfonds) Menschen mit geringen Mitteln, ein Pflegeheim oder betreutes Wohnen zu bezahlen. Information und Beratung: Senioren-Telefon 247-86000; Vermittlung: SIMPA (simpa.public.lu). Nur allgemeine Informationen — prüfen Sie infosenior.lu für die aktuellen Details und Bedingungen jedes Dienstes.*

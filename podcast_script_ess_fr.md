@@ -8,7 +8,7 @@
 
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
-**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
+**ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
 **TOM:** Et aujourd'hui, nous nous penchons sur une autre manière de faire des affaires... une manière où le profit n'est pas le seul objectif.
 **ANNA:** Quand nous pensons à une entreprise, nous pensons généralement à gagner de l'argent. Et c'est normal et nécessaire.
 **TOM:** Mais que se passerait-il si une entreprise existait surtout pour faire le bien... pour aider les gens, ou la planète ?

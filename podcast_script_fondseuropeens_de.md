@@ -8,7 +8,7 @@
 
 **ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
-**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
 **TOM:** Und das heutige Thema mag zunächst etwas technisch klingen, aber es betrifft das echte Leben... die Europäischen Fonds.
 **ANNA:** Ja. Wir hören viel über die Europäische Union. Aber was bedeutet das eigentlich, in der Praxis, hier in Luxemburg?
 **TOM:** Ein Teil der Antwort ist Geld. Die EU hilft, nützliche Projekte in ihren Mitgliedsländern zu finanzieren.

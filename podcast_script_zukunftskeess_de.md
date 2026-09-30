@@ -10,7 +10,7 @@
 
 **TOM:** Hallo zusammen!
 
-**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen. Und das heutige Thema bringt viel Freude, und auch viele Fragen. Es geht um Kinder — und um das Geld und die Unterstützung, die der Staat den Familien gibt.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen. Und das heutige Thema bringt viel Freude, und auch viele Fragen. Es geht um Kinder — und um das Geld und die Unterstützung, die der Staat den Familien gibt.
 
 **TOM:** Und es gibt eine Stelle, die im Zentrum von all dem steht. Anna, sag uns ihren Namen.
 

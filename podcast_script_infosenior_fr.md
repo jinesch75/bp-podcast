@@ -10,7 +10,7 @@
 
 **TOM :** Bonjour à tous !
 
-**ANNA :** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes. Et le sujet d'aujourd'hui touche presque chaque famille, tôt ou tard. Il s'agit de vieillir — et d'un service qui vous aide à trouver le bon soutien. Il s'appelle Info-Seniors.
+**ANNA :** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes. Et le sujet d'aujourd'hui touche presque chaque famille, tôt ou tard. Il s'agit de vieillir — et d'un service qui vous aide à trouver le bon soutien. Il s'appelle Info-Seniors.
 
 **TOM :** Info-Seniors. D'accord, Anna, commençons simplement. Qu'est-ce que c'est ?
 
@@ -162,4 +162,4 @@
 
 ---
 
-*Source : infosenior.public.lu (Info-Seniors — Registre public des services pour personnes âgées) et mfsva.gouvernement.lu, ministère de la Famille, de la Solidarité, du Vivre ensemble et de l'Accueil des réfugiés — pages « Personnes âgées » et « Activités pour seniors ». Le Registre public repose sur la loi modifiée du 23 août 2023 sur la qualité des services pour personnes âgées et est en ligne depuis le 1er mars 2024. Depuis le 1er janvier 2026, le dispositif COMPA (Complément pour personnes âgées, Fonds national de solidarité) aide les personnes aux ressources limitées à payer une maison de soins ou un logement encadré. Information et conseil : Senioren-Telefon 247-86000 ; médiation : SIMPA (simpa.public.lu). Informations générales uniquement — consultez infosenior.lu pour les détails et les conditions actuels de chaque service.*
+*Source : infosenior.public.lu (Info-Seniors — Registre public des services pour personnes âgées) et mfsva.gouvernement.lu, Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil — pages « Personnes âgées » et « Activités pour seniors ». Le Registre public repose sur la loi modifiée du 23 août 2023 sur la qualité des services pour personnes âgées et est en ligne depuis le 1er mars 2024. Depuis le 1er janvier 2026, le dispositif COMPA (Complément pour personnes âgées, Fonds national de solidarité) aide les personnes aux ressources limitées à payer une maison de soins ou un logement encadré. Information et conseil : Senioren-Telefon 247-86000 ; médiation : SIMPA (simpa.public.lu). Informations générales uniquement — consultez infosenior.lu pour les détails et les conditions actuels de chaque service.*

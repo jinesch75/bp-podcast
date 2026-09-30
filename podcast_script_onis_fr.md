@@ -10,7 +10,7 @@
 
 **TOM :** Bonjour à tous !
 
-**ANNA :** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes. Et aujourd'hui, nous parlons d'un office qui a une mission très douce, très humaine. Il s'appelle l'Office national d'inclusion sociale.
+**ANNA :** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes. Et aujourd'hui, nous parlons d'un office qui a une mission très douce, très humaine. Il s'appelle l'Office national d'inclusion sociale.
 
 **TOM :** L'Office national d'inclusion sociale. On utilise le nom court — O-N-I-S.
 

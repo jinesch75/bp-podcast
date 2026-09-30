@@ -714,593 +714,593 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et aujourd'hui, nous parlons de quelque chose de très utile.",
-    "t": 23.73
+    "t": 23.07
    },
    {
     "speaker": "Tom",
     "text": "Surtout si vous venez d'arriver au Luxembourg.",
-    "t": 27.4
+    "t": 26.74
    },
    {
     "speaker": "Tom",
     "text": "Ça s'appelle MyGuichet.lu.",
-    "t": 29.65
+    "t": 28.99
    },
    {
     "speaker": "Anna",
     "text": "Voilà. Alors, Tom... commençons par le début.",
-    "t": 31.93
+    "t": 31.44
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que MyGuichet.lu ?",
-    "t": 34.27
+    "t": 33.78
    },
    {
     "speaker": "Tom",
     "text": "D'accord, alors... Guichet.lu est le site d'information de l'État, et MyGuichet.lu est son espace sécurisé en ligne.",
-    "t": 36.41
+    "t": 35.92
    },
    {
     "speaker": "Tom",
     "text": "Ensemble, ils vous donnent un accès rapide et convivial à toutes les informations, démarches et services proposés par les administrations et organismes publics luxembourgeois.",
-    "t": 44.58
+    "t": 44.09
    },
    {
     "speaker": "Tom",
     "text": "MyGuichet.lu est sécurisé, et c'est votre... disons, votre point de contact unique avec les administrations publiques.",
-    "t": 54.06
+    "t": 53.57
    },
    {
     "speaker": "Tom",
     "text": "Donc, au lieu d'aller dans un bureau, vous pouvez faire beaucoup de démarches administratives depuis chez vous.",
-    "t": 60.89
+    "t": 60.4
    },
    {
     "speaker": "Tom",
     "text": "Sur votre ordinateur, ou sur votre téléphone.",
-    "t": 65.61
+    "t": 65.12
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est comme... un guichet en ligne ?",
-    "t": 68.53
+    "t": 68.04
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Ouvert tous les jours, à toute heure.",
-    "t": 70.9
+    "t": 70.41
    },
    {
     "speaker": "Anna",
     "text": "Super. Et, hmm... qu'est-ce que je peux faire concrètement avec ?",
-    "t": 73.97
+    "t": 73.48
    },
    {
     "speaker": "Tom",
     "text": "Beaucoup de choses, vraiment.",
-    "t": 77.77
+    "t": 77.28
    },
    {
     "speaker": "Tom",
     "text": "Le plus important, c'est que... vous pouvez faire vos démarches administratives en ligne.",
-    "t": 79.56
+    "t": 79.07
    },
    {
     "speaker": "Anna",
     "text": "Sans rien imprimer ?",
-    "t": 84.06
+    "t": 83.57
    },
    {
     "speaker": "Tom",
     "text": "Pour beaucoup de démarches, oui.",
-    "t": 85.49
+    "t": 85
    },
    {
     "speaker": "Tom",
     "text": "Pas d'impression, pas d'enveloppe, pas de timbre.",
-    "t": 87.15
+    "t": 86.66
    },
    {
     "speaker": "Tom",
     "text": "Et ce n'est pas tout.",
-    "t": 89.73
+    "t": 89.24
    },
    {
     "speaker": "Tom",
     "text": "Sur MyGuichet, vous avez votre propre espace personnel où vous pouvez suivre l'état de vos demandes... vous pouvez donc voir, d'accord, mon dossier est arrivé, il est en cours de traitement, et ainsi de suite.",
-    "t": 90.87
+    "t": 90.38
    },
    {
     "speaker": "Tom",
     "text": "Et dans votre eSpace, vous pouvez aussi consulter les données personnelles que l'État possède sur vous.",
-    "t": 101.69
+    "t": 101.2
    },
    {
     "speaker": "Tom",
     "text": "Les données officielles — par exemple celles du registre national.",
-    "t": 106.65
+    "t": 106.16
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez aussi y recevoir des messages et des documents officiels, par voie électronique.",
-    "t": 110.32
+    "t": 109.83
    },
    {
     "speaker": "Tom",
     "text": "Et... encore une chose... vous pouvez prendre des rendez-vous en ligne avec certaines administrations.",
-    "t": 115.15
+    "t": 114.66
    },
    {
     "speaker": "Anna",
     "text": "D'accord, attendez, je répète.",
-    "t": 120.43
+    "t": 119.94
    },
    {
     "speaker": "Anna",
     "text": "Donc je peux... faire des démarches en ligne, suivre mes dossiers, consulter mes données officielles, recevoir des documents, et prendre des rendez-vous.",
-    "t": 122.01
+    "t": 121.52
    },
    {
     "speaker": "Tom",
     "text": "C'est ça. Et vous pouvez aussi conserver des documents importants dans votre eSpace, comme ça ils sont toujours avec vous.",
-    "t": 128.88
+    "t": 128.39
    },
    {
     "speaker": "Tom",
     "text": "Ah — et il y a aussi une application mobile, pour votre smartphone.",
-    "t": 134.62
+    "t": 134.13
    },
    {
     "speaker": "Anna",
     "text": "Très complet. Maintenant... la grande question.",
-    "t": 138.03
+    "t": 137.54
    },
    {
     "speaker": "Anna",
     "text": "Pourquoi l'utiliser ? Je veux dire, je peux toujours aller au bureau, non ?",
-    "t": 140.66
+    "t": 140.17
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr que vous pouvez.",
-    "t": 144.84
+    "t": 144.35
    },
    {
     "speaker": "Tom",
     "text": "Mais les bureaux sont ouverts en journée, quand beaucoup d'entre nous sont au travail.",
-    "t": 146.26
+    "t": 145.77
    },
    {
     "speaker": "Tom",
     "text": "MyGuichet est ouvert vingt-quatre heures sur vingt-quatre, sept jours sur sept.",
-    "t": 149.96
+    "t": 149.47
    },
    {
     "speaker": "Tom",
     "text": "Vous gagnez du temps — pas de file, pas d'attente.",
-    "t": 153.77
+    "t": 153.28
    },
    {
     "speaker": "Tom",
     "text": "Et tout reste au même endroit.",
-    "t": 156.58
+    "t": 156.09
    },
    {
     "speaker": "Anna",
     "text": "Et c'est en anglais ?",
-    "t": 158.36
+    "t": 157.87
    },
    {
     "speaker": "Tom",
     "text": "Le site, oui — Guichet.lu existe en français, en allemand et en anglais.",
-    "t": 159.63
+    "t": 159.14
    },
    {
     "speaker": "Tom",
     "text": "Et beaucoup de démarches aussi.",
-    "t": 164.63
+    "t": 164.14
    },
    {
     "speaker": "Tom",
     "text": "Pas toutes, mais beaucoup.",
-    "t": 166.33
+    "t": 165.84
    },
    {
     "speaker": "Tom",
     "text": "Donc pour quelqu'un qui vient d'arriver et qui ne parle pas encore français... ça aide vraiment.",
-    "t": 167.77
+    "t": 167.28
    },
    {
     "speaker": "Anna",
     "text": "Mmm, c'est important.",
-    "t": 172.26
+    "t": 171.77
    },
    {
     "speaker": "Anna",
     "text": "D'accord. Alors maintenant, comment je commence ?",
-    "t": 173.56
+    "t": 173.07
    },
    {
     "speaker": "Anna",
     "text": "De quoi j'ai besoin ?",
-    "t": 175.74
+    "t": 175.25
    },
    {
     "speaker": "Tom",
     "text": "Alors... pour vous inscrire sur MyGuichet, il vous faut quelques petites choses.",
-    "t": 177.02
+    "t": 176.53
    },
    {
     "speaker": "Tom",
     "text": "D'abord, vous devez avoir au moins seize ans.",
-    "t": 181.17
+    "t": 180.68
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, il vous faut votre numéro d'identification national luxembourgeois.",
-    "t": 183.49
+    "t": 183
    },
    {
     "speaker": "Tom",
     "text": "C'est un numéro à treize chiffres — au Luxembourg, on l'appelle le « matricule ».",
-    "t": 187.48
+    "t": 186.99
    },
    {
     "speaker": "Tom",
     "text": "Vous le recevez quand vous vous enregistrez au Luxembourg, ou quand vous commencez à travailler ici.",
-    "t": 191.86
+    "t": 191.37
    },
    {
     "speaker": "Anna",
     "text": "Le matricule, d'accord.",
-    "t": 196.77
+    "t": 196.28
    },
    {
     "speaker": "Anna",
     "text": "Les frontaliers en ont un aussi, n'est-ce pas ?",
-    "t": 198.18
+    "t": 197.69
    },
    {
     "speaker": "Tom",
     "text": "Oui, si vous travaillez au Luxembourg, vous en avez un.",
-    "t": 200.43
+    "t": 199.94
    },
    {
     "speaker": "Tom",
     "text": "Il figure par exemple sur votre carte de sécurité sociale.",
-    "t": 203.11
+    "t": 202.62
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, il vous faut une adresse e-mail et un ordinateur — pour la première inscription, un ordinateur portable ou fixe, pas votre téléphone.",
-    "t": 206.11
+    "t": 205.62
    },
    {
     "speaker": "Tom",
     "text": "Et encore une chose : un moyen de prouver votre identité en ligne.",
-    "t": 213.55
+    "t": 213.06
    },
    {
     "speaker": "Anna",
     "text": "Ah, et c'est là que LuxTrust entre en jeu ?",
-    "t": 217.19
+    "t": 216.7
    },
    {
     "speaker": "Tom",
     "text": "Exactement. LuxTrust est une société qui fournit une identité numérique sécurisée.",
-    "t": 219.47
+    "t": 218.85
    },
    {
     "speaker": "Tom",
     "text": "Le produit le plus populaire est LuxTrust Mobile — une application sur votre téléphone.",
-    "t": 224.33
+    "t": 223.71
    },
    {
     "speaker": "Tom",
     "text": "Quand vous vous connectez quelque part, l'application vous demande de confirmer.",
-    "t": 229.38
+    "t": 228.76
    },
    {
     "speaker": "Tom",
     "text": "Beaucoup de gens l'utilisent déjà pour leur banque en ligne.",
-    "t": 232.96
+    "t": 232.34
    },
    {
     "speaker": "Anna",
     "text": "D'accord, alors la question que beaucoup d'auditeurs vont se poser... est-ce que j'ai besoin de LuxTrust pour utiliser MyGuichet ?",
-    "t": 236.18
+    "t": 235.56
    },
    {
     "speaker": "Tom",
     "text": "Bonne question. La réponse est... pas nécessairement.",
-    "t": 242.24
+    "t": 241.62
    },
    {
     "speaker": "Tom",
     "text": "Il vous faut un moyen sécurisé pour vous connecter, mais vous avez le choix.",
-    "t": 245.37
+    "t": 244.75
    },
    {
     "speaker": "Tom",
     "text": "Ça peut être un produit LuxTrust, oui.",
-    "t": 249.04
+    "t": 248.42
    },
    {
     "speaker": "Tom",
     "text": "Ou la carte d'identité électronique luxembourgeoise, si vous avez une carte d'identité luxembourgeoise avec les certificats activés.",
-    "t": 251.32
+    "t": 250.7
    },
    {
     "speaker": "Tom",
     "text": "Ou alors, et c'est intéressant pour les personnes venant d'autres pays européens... un identifiant eIDAS de votre propre pays.",
-    "t": 258.02
+    "t": 257.4
    },
    {
     "speaker": "Anna",
     "text": "eIDAS... c'est le système européen, n'est-ce pas ?",
-    "t": 264.81
+    "t": 264.19
    },
    {
     "speaker": "Anna",
     "text": "Donc je pourrais utiliser, par exemple, ma carte d'identité électronique belge ou allemande ?",
-    "t": 267.86
+    "t": 267.24
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Si votre pays dispose d'un de ces systèmes nationaux, vous pouvez souvent l'utiliser pour vous connecter à MyGuichet — il vous faut quand même votre matricule.",
-    "t": 271.97
+    "t": 271.35
    },
    {
     "speaker": "Tom",
     "text": "Mais avec un accès étranger, vous ne pouvez pas signer certains formulaires, comme votre déclaration d'impôts.",
-    "t": 280.58
+    "t": 279.96
    },
    {
     "speaker": "Tom",
     "text": "Et encore une chose — certaines démarches simples fonctionnent même sans se connecter du tout.",
-    "t": 286.12
+    "t": 285.5
    },
    {
     "speaker": "Tom",
     "text": "Mais dans ce cas, vous avez moins d'options.",
-    "t": 290.91
+    "t": 290.29
    },
    {
     "speaker": "Tom",
     "text": "Vous ne pouvez pas enregistrer le formulaire et continuer plus tard, et vous ne pouvez pas suivre l'état de la demande.",
-    "t": 292.86
+    "t": 292.24
    },
    {
     "speaker": "Tom",
     "text": "Donc... avoir un vrai compte, c'est beaucoup mieux.",
-    "t": 298.16
+    "t": 297.54
    },
    {
     "speaker": "Tom",
     "text": "Mais honnêtement, si vous vivez ou travaillez ici, LuxTrust Mobile est la solution facile.",
-    "t": 300.92
+    "t": 300.3
    },
    {
     "speaker": "Tom",
     "text": "Vous installez l'application une fois, et... c'est tout.",
-    "t": 306.23
+    "t": 305.61
    },
    {
     "speaker": "Tom",
     "text": "Et si vous l'utilisez déjà pour votre banque, vous pouvez utiliser la même.",
-    "t": 309.29
+    "t": 308.67
    },
    {
     "speaker": "Anna",
     "text": "Bien. Alors, disons que j'ai mon matricule et mon LuxTrust.",
-    "t": 312.99
+    "t": 312.37
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que je fais ?",
-    "t": 316.01
+    "t": 315.39
    },
    {
     "speaker": "Tom",
     "text": "C'est assez simple.",
-    "t": 317.14
+    "t": 316.52
    },
    {
     "speaker": "Tom",
     "text": "Vous allez sur Guichet.lu, vous cliquez sur « Se connecter », et vous suivez les étapes avec votre e-mail et votre matricule.",
-    "t": 318.46
+    "t": 317.84
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, vous créez votre eSpace personnel.",
-    "t": 325.08
+    "t": 324.46
    },
    {
     "speaker": "Tom",
     "text": "Ça prend quelques minutes.",
-    "t": 327.48
+    "t": 326.86
    },
    {
     "speaker": "Tom",
     "text": "Et il y a des tutoriels sur le site, étape par étape.",
-    "t": 328.9
+    "t": 328.28
    },
    {
     "speaker": "Anna",
     "text": "Parfait. Maintenant... de quels types de démarches parle-t-on ?",
-    "t": 332.18
+    "t": 331.56
    },
    {
     "speaker": "Anna",
     "text": "Quels domaines ?",
-    "t": 335.64
+    "t": 335.02
    },
    {
     "speaker": "Tom",
     "text": "Presque tout dans la vie quotidienne, vraiment.",
-    "t": 336.76
+    "t": 336.14
    },
    {
     "speaker": "Tom",
     "text": "Voyons... la citoyenneté — donc la carte d'identité, le passeport, le casier judiciaire.",
-    "t": 339.06
+    "t": 338.44
    },
    {
     "speaker": "Tom",
     "text": "Et en voilà une belle : en tant que résident étranger, vous pouvez demander votre inscription sur les listes électorales — pour pouvoir voter aux élections communales.",
-    "t": 344.7
+    "t": 344.08
    },
    {
     "speaker": "Tom",
     "text": "Et si vous êtes citoyen d'un autre pays de l'UE, aussi aux élections européennes.",
-    "t": 352.86
+    "t": 352.24
    },
    {
     "speaker": "Tom",
     "text": "Ensuite l'immigration — les titres de séjour, par exemple.",
-    "t": 357.41
+    "t": 356.79
    },
    {
     "speaker": "Tom",
     "text": "Très important quand vous arrivez.",
-    "t": 360.74
+    "t": 360.12
    },
    {
     "speaker": "Tom",
     "text": "Puis la famille et l'éducation... la fiscalité — oui, vous pouvez faire votre déclaration d'impôts en ligne.",
-    "t": 362.46
+    "t": 361.84
    },
    {
     "speaker": "Tom",
     "text": "Les transports — votre permis de conduire, l'immatriculation d'une voiture.",
-    "t": 368.34
+    "t": 367.72
    },
    {
     "speaker": "Tom",
     "text": "La santé et la sécurité sociale.",
-    "t": 372.58
+    "t": 371.96
    },
    {
     "speaker": "Tom",
     "text": "Le logement. Les aides financières.",
-    "t": 374.73
+    "t": 374.11
    },
    {
     "speaker": "Tom",
     "text": "Le travail et la pension... et même les loisirs, comme l'inscription à la Bibliothèque nationale.",
-    "t": 376.87
+    "t": 376.25
    },
    {
     "speaker": "Anna",
     "text": "Waouh. Tant de domaines sont couverts, tout au même endroit.",
-    "t": 382.06
+    "t": 381.44
    },
    {
     "speaker": "Tom",
     "text": "C'est ça. Et peut-être un mot pour les entrepreneurs qui nous écoutent : les entreprises aussi peuvent utiliser MyGuichet, avec un eSpace professionnel, pour des choses comme les déclarations d'impôts et de TVA, les déclarations de sécurité sociale pour leur personnel, ou les demandes de permis et d'autorisations.",
-    "t": 385.19
+    "t": 384.57
    },
    {
     "speaker": "Anna",
     "text": "Bon à savoir.",
-    "t": 401.6
+    "t": 400.98
    },
    {
     "speaker": "Anna",
     "text": "D'accord, Tom, on conclut ?",
-    "t": 402.65
+    "t": 402.03
    },
    {
     "speaker": "Anna",
     "text": "Un petit résumé ?",
-    "t": 404.13
+    "t": 403.51
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. MyGuichet.lu est la plateforme en ligne sécurisée de l'État luxembourgeois.",
-    "t": 405.34
+    "t": 404.72
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez faire vos démarches administratives depuis chez vous, suivre vos dossiers, recevoir des documents officiels, et prendre des rendez-vous.",
-    "t": 410.88
+    "t": 410.26
    },
    {
     "speaker": "Tom",
     "text": "Pour l'utiliser pleinement, vous vous inscrivez avec votre matricule et un moyen de connexion sécurisé.",
-    "t": 418.52
+    "t": 417.9
    },
    {
     "speaker": "Anna",
     "text": "Et si vous avez besoin d'aide, de nombreux tutoriels sont disponibles, ainsi qu'un service d'assistance.",
-    "t": 424.06
+    "t": 423.44
    },
    {
     "speaker": "Tom",
     "text": "Vraiment, ça rend la vie au Luxembourg plus facile.",
-    "t": 428.94
+    "t": 428.32
    },
    {
     "speaker": "Tom",
     "text": "Surtout les premiers mois.",
-    "t": 431.59
+    "t": 430.97
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur MyGuichet.lu.",
-    "t": 433.09
+    "t": 432.47
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 435.59
+    "t": 434.97
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 444.02
+    "t": 443.4
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 459.87
+    "t": 459.25
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 464.52
+    "t": 463.9
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 466.3
+    "t": 465.68
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 470.68
+    "t": 470.06
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 471.91
+    "t": 471.29
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 474.37
+    "t": 473.75
    }
   ],
   "segments_de": [
@@ -1326,608 +1326,608 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und heute sprechen wir über etwas sehr Nützliches.",
-    "t": 28.46
+    "t": 27.86
    },
    {
     "speaker": "Tom",
     "text": "Besonders, wenn Sie gerade erst in Luxemburg angekommen sind.",
-    "t": 32.61
+    "t": 32.01
    },
    {
     "speaker": "Tom",
     "text": "Es heißt MyGuichet.lu.",
-    "t": 35.88
+    "t": 35.28
    },
    {
     "speaker": "Anna",
     "text": "Richtig. Also, Tom... fangen wir am Anfang an.",
-    "t": 38.32
+    "t": 37.72
    },
    {
     "speaker": "Anna",
     "text": "Was ist MyGuichet.lu?",
-    "t": 42.98
+    "t": 42.38
    },
    {
     "speaker": "Tom",
     "text": "Okay, also... Guichet.lu ist die Informationsseite des Staates, und MyGuichet.lu ist der dazugehörige sichere Online-Bereich.",
-    "t": 44.88
+    "t": 44.28
    },
    {
     "speaker": "Tom",
     "text": "Zusammen bieten sie Ihnen schnellen, benutzerfreundlichen Zugang zu allen Informationen, Verfahren und Diensten der öffentlichen Verwaltungen und Einrichtungen Luxemburgs.",
-    "t": 54.62
+    "t": 54.02
    },
    {
     "speaker": "Tom",
     "text": "MyGuichet.lu ist sicher, und es ist Ihre... sagen wir, Ihre zentrale Anlaufstelle bei den öffentlichen Verwaltungen.",
-    "t": 64.35
+    "t": 63.75
    },
    {
     "speaker": "Tom",
     "text": "Anstatt also zu einem Amt zu gehen, können Sie viele Verwaltungsverfahren von zu Hause aus erledigen.",
-    "t": 71.99
+    "t": 71.39
    },
    {
     "speaker": "Tom",
     "text": "Auf Ihrem Computer, oder auf Ihrem Telefon.",
-    "t": 77.64
+    "t": 77.04
    },
    {
     "speaker": "Anna",
     "text": "Also ist es wie... ein Online-Schalter?",
-    "t": 80.57
+    "t": 79.97
    },
    {
     "speaker": "Tom",
     "text": "Genau. Jeden Tag geöffnet, zu jeder Stunde.",
-    "t": 83.7
+    "t": 83.1
    },
    {
     "speaker": "Anna",
     "text": "Schön. Und, hmm... was kann ich eigentlich damit machen?",
-    "t": 86.55
+    "t": 85.95
    },
    {
     "speaker": "Tom",
     "text": "Ziemlich viel, wirklich.",
-    "t": 91.86
+    "t": 91.26
    },
    {
     "speaker": "Tom",
     "text": "Das Wichtigste ist... Sie können Verwaltungsverfahren online erledigen.",
-    "t": 93.52
+    "t": 92.92
    },
    {
     "speaker": "Anna",
     "text": "Ohne etwas auszudrucken?",
-    "t": 97.82
+    "t": 97.22
    },
    {
     "speaker": "Tom",
     "text": "Bei vielen Verfahren, ja.",
-    "t": 99.58
+    "t": 98.98
    },
    {
     "speaker": "Tom",
     "text": "Kein Ausdrucken, kein Umschlag, keine Briefmarke.",
-    "t": 101.44
+    "t": 100.84
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt noch mehr.",
-    "t": 104.44
+    "t": 103.84
    },
    {
     "speaker": "Tom",
     "text": "Auf MyGuichet haben Sie Ihren eigenen persönlichen Bereich, in dem Sie den Status Ihrer Anträge verfolgen können... Sie können also sehen, okay, mein Dossier ist angekommen, es wird bearbeitet, und so weiter.",
-    "t": 105.74
+    "t": 105.14
    },
    {
     "speaker": "Tom",
     "text": "Und in Ihrem eSpace können Sie auch die persönlichen Daten sehen, die der Staat über Sie hat.",
-    "t": 118.37
+    "t": 117.77
    },
    {
     "speaker": "Tom",
     "text": "Die offiziellen Daten — zum Beispiel aus dem nationalen Register.",
-    "t": 123.2
+    "t": 122.6
    },
    {
     "speaker": "Tom",
     "text": "Sie können dort auch offizielle Nachrichten und Dokumente elektronisch empfangen.",
-    "t": 127.26
+    "t": 126.66
    },
    {
     "speaker": "Tom",
     "text": "Und... noch eine Sache... Sie können bei einigen Verwaltungen online Termine buchen.",
-    "t": 131.4
+    "t": 130.8
    },
    {
     "speaker": "Anna",
     "text": "Okay, warte, ich wiederhole das.",
-    "t": 136.74
+    "t": 136.14
    },
    {
     "speaker": "Anna",
     "text": "Also ich kann... Verfahren online erledigen, meine Dossiers verfolgen, meine offiziellen Daten einsehen, Dokumente empfangen, und Termine buchen.",
-    "t": 138.83
+    "t": 138.23
    },
    {
     "speaker": "Tom",
     "text": "Genau so ist es.",
-    "t": 147.8
+    "t": 147.2
    },
    {
     "speaker": "Tom",
     "text": "Und Sie können auch wichtige Dokumente in Ihrem eSpace speichern, damit sie immer bei Ihnen sind.",
-    "t": 149.04
+    "t": 148.44
    },
    {
     "speaker": "Tom",
     "text": "Ach — und es gibt auch eine mobile App, für Ihr Smartphone.",
-    "t": 154.61
+    "t": 154.01
    },
    {
     "speaker": "Anna",
     "text": "Sehr umfassend. Nun... die große Frage.",
-    "t": 158.2
+    "t": 157.6
    },
    {
     "speaker": "Anna",
     "text": "Warum sollte ich es nutzen?",
-    "t": 162.1
+    "t": 161.5
    },
    {
     "speaker": "Anna",
     "text": "Ich meine, ich kann ja immer noch zum Amt gehen, oder?",
-    "t": 163.81
+    "t": 163.21
    },
    {
     "speaker": "Tom",
     "text": "Natürlich können Sie das.",
-    "t": 166.44
+    "t": 165.84
    },
    {
     "speaker": "Tom",
     "text": "Aber die Ämter sind tagsüber geöffnet, wenn viele von uns bei der Arbeit sind.",
-    "t": 168.26
+    "t": 167.66
    },
    {
     "speaker": "Tom",
     "text": "MyGuichet ist vierundzwanzig Stunden geöffnet, sieben Tage die Woche.",
-    "t": 172.58
+    "t": 171.98
    },
    {
     "speaker": "Tom",
     "text": "Sie sparen Zeit — keine Warteschlange, kein Warten.",
-    "t": 176.38
+    "t": 175.78
    },
    {
     "speaker": "Tom",
     "text": "Und alles bleibt an einem Ort.",
-    "t": 179.72
+    "t": 179.12
    },
    {
     "speaker": "Anna",
     "text": "Und gibt es das auf Deutsch?",
-    "t": 181.54
+    "t": 180.94
    },
    {
     "speaker": "Tom",
     "text": "Die Website, ja — Guichet.lu gibt es auf Französisch, Deutsch und Englisch.",
-    "t": 183.28
+    "t": 182.68
    },
    {
     "speaker": "Tom",
     "text": "Und viele Verfahren auch.",
-    "t": 188.94
+    "t": 188.34
    },
    {
     "speaker": "Tom",
     "text": "Nicht alle, aber viele.",
-    "t": 190.54
+    "t": 189.94
    },
    {
     "speaker": "Tom",
     "text": "Also für jemanden, der gerade angekommen ist und noch kein Französisch spricht... das hilft wirklich.",
-    "t": 192.38
+    "t": 191.78
    },
    {
     "speaker": "Anna",
     "text": "Mmm, das ist wichtig.",
-    "t": 197.7
+    "t": 197.1
    },
    {
     "speaker": "Anna",
     "text": "Okay. Also, wie fange ich jetzt an?",
-    "t": 199.4
+    "t": 198.8
    },
    {
     "speaker": "Anna",
     "text": "Was brauche ich?",
-    "t": 202.02
+    "t": 201.42
    },
    {
     "speaker": "Tom",
     "text": "Also... um sich bei MyGuichet zu registrieren, brauchen Sie ein paar Dinge.",
-    "t": 203.33
+    "t": 202.73
    },
    {
     "speaker": "Tom",
     "text": "Erstens müssen Sie mindestens sechzehn Jahre alt sein.",
-    "t": 207.8
+    "t": 207.2
    },
    {
     "speaker": "Tom",
     "text": "Dann brauchen Sie Ihre luxemburgische nationale Identifikationsnummer.",
-    "t": 210.73
+    "t": 210.13
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine dreizehnstellige Nummer — die Leute in Luxemburg nennen sie das „Matricule\".",
-    "t": 214.77
+    "t": 214.17
    },
    {
     "speaker": "Tom",
     "text": "Sie bekommen sie, wenn Sie sich in Luxemburg anmelden, oder wenn Sie anfangen, hier zu arbeiten.",
-    "t": 220.18
+    "t": 219.58
    },
    {
     "speaker": "Anna",
     "text": "Das Matricule, okay.",
-    "t": 225.05
+    "t": 224.45
    },
    {
     "speaker": "Anna",
     "text": "Grenzgänger haben auch eines, richtig?",
-    "t": 226.83
+    "t": 226.23
    },
    {
     "speaker": "Tom",
     "text": "Ja, wenn Sie in Luxemburg arbeiten, haben Sie eines.",
-    "t": 229.07
+    "t": 228.47
    },
    {
     "speaker": "Tom",
     "text": "Es steht zum Beispiel auf Ihrer Sozialversicherungskarte.",
-    "t": 232.46
+    "t": 231.86
    },
    {
     "speaker": "Tom",
     "text": "Dann brauchen Sie eine E-Mail-Adresse und einen Computer — für die erste Registrierung einen Laptop oder Desktop-PC, nicht Ihr Handy.",
-    "t": 235.43
+    "t": 234.83
    },
    {
     "speaker": "Tom",
     "text": "Und noch eine Sache: eine Möglichkeit, Ihre Identität online nachzuweisen.",
-    "t": 243.34
+    "t": 242.74
    },
    {
     "speaker": "Anna",
     "text": "Ah, und hier kommt LuxTrust ins Spiel?",
-    "t": 248.18
+    "t": 247.58
    },
    {
     "speaker": "Tom",
     "text": "Genau. LuxTrust ist ein Unternehmen, das eine sichere digitale Identität bereitstellt.",
-    "t": 250.74
+    "t": 250.14
    },
    {
     "speaker": "Tom",
     "text": "Das beliebteste Produkt ist LuxTrust Mobile — eine App auf Ihrem Telefon.",
-    "t": 256.9
+    "t": 256.3
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie sich irgendwo anmelden, bittet die App Sie um eine Bestätigung.",
-    "t": 261.83
+    "t": 261.23
    },
    {
     "speaker": "Tom",
     "text": "Viele Menschen nutzen sie bereits für ihr Online-Banking.",
-    "t": 265.55
+    "t": 264.95
    },
    {
     "speaker": "Anna",
     "text": "Okay, also die Frage, die viele Hörer haben werden... brauche ich LuxTrust, um MyGuichet zu nutzen?",
-    "t": 268.63
+    "t": 268.03
    },
    {
     "speaker": "Tom",
     "text": "Gute Frage. Die Antwort ist... nicht unbedingt.",
-    "t": 274.66
+    "t": 274.06
    },
    {
     "speaker": "Tom",
     "text": "Sie brauchen eine sichere Anmeldemöglichkeit, aber Sie haben die Wahl.",
-    "t": 278.45
+    "t": 277.85
    },
    {
     "speaker": "Tom",
     "text": "Es kann ein LuxTrust-Produkt sein, ja.",
-    "t": 282.05
+    "t": 281.45
    },
    {
     "speaker": "Tom",
     "text": "Oder der luxemburgische elektronische Personalausweis, wenn Sie einen luxemburgischen Ausweis mit aktivierten Zertifikaten haben.",
-    "t": 284.74
+    "t": 284.14
    },
    {
     "speaker": "Tom",
     "text": "Oder, und das ist interessant für Menschen aus anderen europäischen Ländern... eine eIDAS-Anmeldung aus Ihrem eigenen Land.",
-    "t": 291.38
+    "t": 290.78
    },
    {
     "speaker": "Anna",
     "text": "eIDAS... das ist das europäische System, oder?",
-    "t": 298.51
+    "t": 297.91
    },
    {
     "speaker": "Anna",
     "text": "Ich könnte also zum Beispiel meinen belgischen oder deutschen elektronischen Personalausweis verwenden?",
-    "t": 302.16
+    "t": 301.56
    },
    {
     "speaker": "Tom",
     "text": "Genau. Wenn Ihr Land eines dieser nationalen Systeme hat, können Sie es oft nutzen, um sich bei MyGuichet anzumelden — Ihre Matricule-Nummer brauchen Sie trotzdem.",
-    "t": 307.54
+    "t": 306.94
    },
    {
     "speaker": "Tom",
     "text": "Aber mit einem ausländischen Zugang können Sie manche Formulare nicht unterschreiben, zum Beispiel Ihre Steuererklärung.",
-    "t": 317.57
+    "t": 316.97
    },
    {
     "speaker": "Tom",
     "text": "Und noch eine Sache — einige einfache Verfahren funktionieren sogar ganz ohne Anmeldung.",
-    "t": 323.92
+    "t": 323.32
    },
    {
     "speaker": "Tom",
     "text": "Aber dann haben Sie weniger Möglichkeiten.",
-    "t": 329.67
+    "t": 329.07
    },
    {
     "speaker": "Tom",
     "text": "Sie können das Formular nicht speichern und später weitermachen, und Sie können den Status nicht verfolgen.",
-    "t": 331.83
+    "t": 331.23
    },
    {
     "speaker": "Tom",
     "text": "Also... ein richtiges Konto zu haben, ist viel besser.",
-    "t": 337.28
+    "t": 336.68
    },
    {
     "speaker": "Tom",
     "text": "Aber ehrlich gesagt, wenn Sie hier leben oder arbeiten, ist LuxTrust Mobile der einfache Weg.",
-    "t": 340.46
+    "t": 339.86
    },
    {
     "speaker": "Tom",
     "text": "Sie installieren die App einmal, und... das war's.",
-    "t": 346.61
+    "t": 346.01
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie sie bereits für Ihre Bank nutzen, können Sie dieselbe verwenden.",
-    "t": 350.03
+    "t": 349.43
    },
    {
     "speaker": "Anna",
     "text": "Gut. Also, sagen wir, ich habe mein Matricule und mein LuxTrust.",
-    "t": 353.91
+    "t": 353.31
    },
    {
     "speaker": "Anna",
     "text": "Was mache ich?",
-    "t": 358.17
+    "t": 357.57
    },
    {
     "speaker": "Tom",
     "text": "Es ist ganz einfach.",
-    "t": 359.46
+    "t": 358.86
    },
    {
     "speaker": "Tom",
     "text": "Sie gehen auf Guichet.lu, Sie klicken auf „Anmelden\", und Sie folgen den Schritten mit Ihrer E-Mail und Ihrem Matricule.",
-    "t": 360.93
+    "t": 360.33
    },
    {
     "speaker": "Tom",
     "text": "Dann erstellen Sie Ihren persönlichen eSpace.",
-    "t": 368.43
+    "t": 367.83
    },
    {
     "speaker": "Tom",
     "text": "Das dauert ein paar Minuten.",
-    "t": 370.99
+    "t": 370.39
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt Tutorials auf der Website, Schritt für Schritt.",
-    "t": 372.55
+    "t": 371.95
    },
    {
     "speaker": "Anna",
     "text": "Perfekt. Nun... über welche Art von Verfahren reden wir?",
-    "t": 375.84
+    "t": 375.24
    },
    {
     "speaker": "Anna",
     "text": "Welche Bereiche?",
-    "t": 380.48
+    "t": 379.88
    },
    {
     "speaker": "Tom",
     "text": "Fast alles im täglichen Leben, wirklich.",
-    "t": 381.85
+    "t": 381.25
    },
    {
     "speaker": "Tom",
     "text": "Mal sehen... Staatsbürgerschaft — also Personalausweis, Reisepass, Führungszeugnis.",
-    "t": 384.19
+    "t": 383.59
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist etwas Schönes: Als ausländischer Einwohner können Sie beantragen, sich in die Wählerlisten einzutragen — damit Sie bei den Gemeindewahlen wählen können.",
-    "t": 391.16
+    "t": 390.56
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie Bürger eines anderen EU-Landes sind, auch bei den Europawahlen.",
-    "t": 401.27
+    "t": 400.67
    },
    {
     "speaker": "Tom",
     "text": "Dann Einwanderung — Aufenthaltstitel, zum Beispiel.",
-    "t": 405.75
+    "t": 405.15
    },
    {
     "speaker": "Tom",
     "text": "Sehr wichtig, wenn Sie ankommen.",
-    "t": 408.78
+    "t": 408.18
    },
    {
     "speaker": "Tom",
     "text": "Dann Familie und Bildung... Steuern — ja, Sie können Ihre Steuererklärung online machen.",
-    "t": 410.52
+    "t": 409.92
    },
    {
     "speaker": "Tom",
     "text": "Verkehr — Ihr Führerschein, das Anmelden eines Autos.",
-    "t": 416.69
+    "t": 416.09
    },
    {
     "speaker": "Tom",
     "text": "Gesundheit und Sozialversicherung.",
-    "t": 420.56
+    "t": 419.96
    },
    {
     "speaker": "Tom",
     "text": "Wohnen. Finanzielle Beihilfen.",
-    "t": 422.65
+    "t": 422.05
    },
    {
     "speaker": "Tom",
     "text": "Arbeit und Rente... und sogar Freizeit, wie die Anmeldung bei der Nationalbibliothek.",
-    "t": 424.83
+    "t": 424.23
    },
    {
     "speaker": "Anna",
     "text": "Wow. So viele Bereiche werden abgedeckt, alles an einem Ort.",
-    "t": 430.04
+    "t": 429.44
    },
    {
     "speaker": "Tom",
     "text": "Genau so ist es.",
-    "t": 434.3
+    "t": 433.7
    },
    {
     "speaker": "Tom",
     "text": "Und vielleicht noch ein Wort für die Unternehmer, die zuhören: Auch Unternehmen können MyGuichet nutzen, mit einem geschäftlichen eSpace, für Dinge wie Steuer- und Mehrwertsteuererklärungen, Sozialversicherungserklärungen für ihr Personal, oder die Beantragung von Genehmigungen und Lizenzen.",
-    "t": 435.56
+    "t": 434.96
    },
    {
     "speaker": "Anna",
     "text": "Gut zu wissen.",
-    "t": 453.2
+    "t": 452.6
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom, lass uns abschließen.",
-    "t": 454.28
+    "t": 453.68
    },
    {
     "speaker": "Anna",
     "text": "Eine kurze Zusammenfassung?",
-    "t": 456.26
+    "t": 455.66
    },
    {
     "speaker": "Tom",
     "text": "Klar. MyGuichet.lu ist die sichere Online-Plattform des luxemburgischen Staates.",
-    "t": 458.15
+    "t": 457.55
    },
    {
     "speaker": "Tom",
     "text": "Sie können Ihre Verwaltungsverfahren von zu Hause aus erledigen, Ihre Dossiers verfolgen, offizielle Dokumente empfangen, und Termine buchen.",
-    "t": 464.08
+    "t": 463.48
    },
    {
     "speaker": "Tom",
     "text": "Um es voll zu nutzen, registrieren Sie sich mit Ihrem Matricule und einer sicheren Anmeldung.",
-    "t": 472.62
+    "t": 472.02
    },
    {
     "speaker": "Anna",
     "text": "Und wenn Sie Hilfe brauchen, gibt es viele Tutorials, und einen Helpdesk.",
-    "t": 478.18
+    "t": 477.58
    },
    {
     "speaker": "Tom",
     "text": "Wirklich, es macht das Leben in Luxemburg einfacher.",
-    "t": 482.51
+    "t": 481.91
    },
    {
     "speaker": "Tom",
     "text": "Besonders in den ersten Monaten.",
-    "t": 485.5
+    "t": 484.9
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über MyGuichet.lu.",
-    "t": 487.55
+    "t": 486.95
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 490.57
+    "t": 489.97
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 499.42
+    "t": 498.82
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 517.27
+    "t": 516.67
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 522.97
+    "t": 522.37
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 525.22
+    "t": 524.62
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 530.11
+    "t": 529.51
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 531.26
+    "t": 530.66
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 534.47
+    "t": 533.87
    }
   ],
   "segments_lb": [
@@ -2143,9 +2143,9 @@ const EPISODES = [
    }
   ],
   "audio_fr": "../../podcast_myguichet_fr.mp3",
-  "duration_fr": 476.13,
+  "duration_fr": 475.51,
   "audio_de": "../../podcast_myguichet_de.mp3",
-  "duration_de": 536.01,
+  "duration_de": 535.41,
   "title_fr": "MyGuichet.lu – Votre porte en ligne vers les administrations luxembourgeoises",
   "description_fr": "Ce qu'est MyGuichet.lu et pourquoi c'est important : le guichet en ligne sécurisé de l'État luxembourgeois, où vous pouvez effectuer vos démarches administratives depuis chez vous, ouvert tous les jours à toute heure. Comment vous inscrire avec votre matricule à 13 chiffres et un moyen de connexion sécurisé comme LuxTrust, la carte d'identité électronique luxembourgeoise ou un identifiant européen eIDAS, ce que vous pouvez faire dans votre eSpace personnel, les langues disponibles, l'application mobile — et comment les entreprises peuvent l'utiliser aussi.",
   "topics_fr": [

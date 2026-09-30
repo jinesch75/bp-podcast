@@ -715,593 +715,593 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et aujourd'hui, nous parlons de quelque chose de très utile.",
-    "t": 23.73
+    "t": 23.07
    },
    {
     "speaker": "Tom",
     "text": "Surtout si vous venez d'arriver au Luxembourg.",
-    "t": 27.4
+    "t": 26.74
    },
    {
     "speaker": "Tom",
     "text": "Ça s'appelle MyGuichet.lu.",
-    "t": 29.65
+    "t": 28.99
    },
    {
     "speaker": "Anna",
     "text": "Voilà. Alors, Tom... commençons par le début.",
-    "t": 31.93
+    "t": 31.44
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que MyGuichet.lu ?",
-    "t": 34.27
+    "t": 33.78
    },
    {
     "speaker": "Tom",
     "text": "D'accord, alors... Guichet.lu est le site d'information de l'État, et MyGuichet.lu est son espace sécurisé en ligne.",
-    "t": 36.41
+    "t": 35.92
    },
    {
     "speaker": "Tom",
     "text": "Ensemble, ils vous donnent un accès rapide et convivial à toutes les informations, démarches et services proposés par les administrations et organismes publics luxembourgeois.",
-    "t": 44.58
+    "t": 44.09
    },
    {
     "speaker": "Tom",
     "text": "MyGuichet.lu est sécurisé, et c'est votre... disons, votre point de contact unique avec les administrations publiques.",
-    "t": 54.06
+    "t": 53.57
    },
    {
     "speaker": "Tom",
     "text": "Donc, au lieu d'aller dans un bureau, vous pouvez faire beaucoup de démarches administratives depuis chez vous.",
-    "t": 60.89
+    "t": 60.4
    },
    {
     "speaker": "Tom",
     "text": "Sur votre ordinateur, ou sur votre téléphone.",
-    "t": 65.61
+    "t": 65.12
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est comme... un guichet en ligne ?",
-    "t": 68.53
+    "t": 68.04
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Ouvert tous les jours, à toute heure.",
-    "t": 70.9
+    "t": 70.41
    },
    {
     "speaker": "Anna",
     "text": "Super. Et, hmm... qu'est-ce que je peux faire concrètement avec ?",
-    "t": 73.97
+    "t": 73.48
    },
    {
     "speaker": "Tom",
     "text": "Beaucoup de choses, vraiment.",
-    "t": 77.77
+    "t": 77.28
    },
    {
     "speaker": "Tom",
     "text": "Le plus important, c'est que... vous pouvez faire vos démarches administratives en ligne.",
-    "t": 79.56
+    "t": 79.07
    },
    {
     "speaker": "Anna",
     "text": "Sans rien imprimer ?",
-    "t": 84.06
+    "t": 83.57
    },
    {
     "speaker": "Tom",
     "text": "Pour beaucoup de démarches, oui.",
-    "t": 85.49
+    "t": 85
    },
    {
     "speaker": "Tom",
     "text": "Pas d'impression, pas d'enveloppe, pas de timbre.",
-    "t": 87.15
+    "t": 86.66
    },
    {
     "speaker": "Tom",
     "text": "Et ce n'est pas tout.",
-    "t": 89.73
+    "t": 89.24
    },
    {
     "speaker": "Tom",
     "text": "Sur MyGuichet, vous avez votre propre espace personnel où vous pouvez suivre l'état de vos demandes... vous pouvez donc voir, d'accord, mon dossier est arrivé, il est en cours de traitement, et ainsi de suite.",
-    "t": 90.87
+    "t": 90.38
    },
    {
     "speaker": "Tom",
     "text": "Et dans votre eSpace, vous pouvez aussi consulter les données personnelles que l'État possède sur vous.",
-    "t": 101.69
+    "t": 101.2
    },
    {
     "speaker": "Tom",
     "text": "Les données officielles — par exemple celles du registre national.",
-    "t": 106.65
+    "t": 106.16
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez aussi y recevoir des messages et des documents officiels, par voie électronique.",
-    "t": 110.32
+    "t": 109.83
    },
    {
     "speaker": "Tom",
     "text": "Et... encore une chose... vous pouvez prendre des rendez-vous en ligne avec certaines administrations.",
-    "t": 115.15
+    "t": 114.66
    },
    {
     "speaker": "Anna",
     "text": "D'accord, attendez, je répète.",
-    "t": 120.43
+    "t": 119.94
    },
    {
     "speaker": "Anna",
     "text": "Donc je peux... faire des démarches en ligne, suivre mes dossiers, consulter mes données officielles, recevoir des documents, et prendre des rendez-vous.",
-    "t": 122.01
+    "t": 121.52
    },
    {
     "speaker": "Tom",
     "text": "C'est ça. Et vous pouvez aussi conserver des documents importants dans votre eSpace, comme ça ils sont toujours avec vous.",
-    "t": 128.88
+    "t": 128.39
    },
    {
     "speaker": "Tom",
     "text": "Ah — et il y a aussi une application mobile, pour votre smartphone.",
-    "t": 134.62
+    "t": 134.13
    },
    {
     "speaker": "Anna",
     "text": "Très complet. Maintenant... la grande question.",
-    "t": 138.03
+    "t": 137.54
    },
    {
     "speaker": "Anna",
     "text": "Pourquoi l'utiliser ? Je veux dire, je peux toujours aller au bureau, non ?",
-    "t": 140.66
+    "t": 140.17
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr que vous pouvez.",
-    "t": 144.84
+    "t": 144.35
    },
    {
     "speaker": "Tom",
     "text": "Mais les bureaux sont ouverts en journée, quand beaucoup d'entre nous sont au travail.",
-    "t": 146.26
+    "t": 145.77
    },
    {
     "speaker": "Tom",
     "text": "MyGuichet est ouvert vingt-quatre heures sur vingt-quatre, sept jours sur sept.",
-    "t": 149.96
+    "t": 149.47
    },
    {
     "speaker": "Tom",
     "text": "Vous gagnez du temps — pas de file, pas d'attente.",
-    "t": 153.77
+    "t": 153.28
    },
    {
     "speaker": "Tom",
     "text": "Et tout reste au même endroit.",
-    "t": 156.58
+    "t": 156.09
    },
    {
     "speaker": "Anna",
     "text": "Et c'est en anglais ?",
-    "t": 158.36
+    "t": 157.87
    },
    {
     "speaker": "Tom",
     "text": "Le site, oui — Guichet.lu existe en français, en allemand et en anglais.",
-    "t": 159.63
+    "t": 159.14
    },
    {
     "speaker": "Tom",
     "text": "Et beaucoup de démarches aussi.",
-    "t": 164.63
+    "t": 164.14
    },
    {
     "speaker": "Tom",
     "text": "Pas toutes, mais beaucoup.",
-    "t": 166.33
+    "t": 165.84
    },
    {
     "speaker": "Tom",
     "text": "Donc pour quelqu'un qui vient d'arriver et qui ne parle pas encore français... ça aide vraiment.",
-    "t": 167.77
+    "t": 167.28
    },
    {
     "speaker": "Anna",
     "text": "Mmm, c'est important.",
-    "t": 172.26
+    "t": 171.77
    },
    {
     "speaker": "Anna",
     "text": "D'accord. Alors maintenant, comment je commence ?",
-    "t": 173.56
+    "t": 173.07
    },
    {
     "speaker": "Anna",
     "text": "De quoi j'ai besoin ?",
-    "t": 175.74
+    "t": 175.25
    },
    {
     "speaker": "Tom",
     "text": "Alors... pour vous inscrire sur MyGuichet, il vous faut quelques petites choses.",
-    "t": 177.02
+    "t": 176.53
    },
    {
     "speaker": "Tom",
     "text": "D'abord, vous devez avoir au moins seize ans.",
-    "t": 181.17
+    "t": 180.68
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, il vous faut votre numéro d'identification national luxembourgeois.",
-    "t": 183.49
+    "t": 183
    },
    {
     "speaker": "Tom",
     "text": "C'est un numéro à treize chiffres — au Luxembourg, on l'appelle le « matricule ».",
-    "t": 187.48
+    "t": 186.99
    },
    {
     "speaker": "Tom",
     "text": "Vous le recevez quand vous vous enregistrez au Luxembourg, ou quand vous commencez à travailler ici.",
-    "t": 191.86
+    "t": 191.37
    },
    {
     "speaker": "Anna",
     "text": "Le matricule, d'accord.",
-    "t": 196.77
+    "t": 196.28
    },
    {
     "speaker": "Anna",
     "text": "Les frontaliers en ont un aussi, n'est-ce pas ?",
-    "t": 198.18
+    "t": 197.69
    },
    {
     "speaker": "Tom",
     "text": "Oui, si vous travaillez au Luxembourg, vous en avez un.",
-    "t": 200.43
+    "t": 199.94
    },
    {
     "speaker": "Tom",
     "text": "Il figure par exemple sur votre carte de sécurité sociale.",
-    "t": 203.11
+    "t": 202.62
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, il vous faut une adresse e-mail et un ordinateur — pour la première inscription, un ordinateur portable ou fixe, pas votre téléphone.",
-    "t": 206.11
+    "t": 205.62
    },
    {
     "speaker": "Tom",
     "text": "Et encore une chose : un moyen de prouver votre identité en ligne.",
-    "t": 213.55
+    "t": 213.06
    },
    {
     "speaker": "Anna",
     "text": "Ah, et c'est là que LuxTrust entre en jeu ?",
-    "t": 217.19
+    "t": 216.7
    },
    {
     "speaker": "Tom",
     "text": "Exactement. LuxTrust est une société qui fournit une identité numérique sécurisée.",
-    "t": 219.47
+    "t": 218.85
    },
    {
     "speaker": "Tom",
     "text": "Le produit le plus populaire est LuxTrust Mobile — une application sur votre téléphone.",
-    "t": 224.33
+    "t": 223.71
    },
    {
     "speaker": "Tom",
     "text": "Quand vous vous connectez quelque part, l'application vous demande de confirmer.",
-    "t": 229.38
+    "t": 228.76
    },
    {
     "speaker": "Tom",
     "text": "Beaucoup de gens l'utilisent déjà pour leur banque en ligne.",
-    "t": 232.96
+    "t": 232.34
    },
    {
     "speaker": "Anna",
     "text": "D'accord, alors la question que beaucoup d'auditeurs vont se poser... est-ce que j'ai besoin de LuxTrust pour utiliser MyGuichet ?",
-    "t": 236.18
+    "t": 235.56
    },
    {
     "speaker": "Tom",
     "text": "Bonne question. La réponse est... pas nécessairement.",
-    "t": 242.24
+    "t": 241.62
    },
    {
     "speaker": "Tom",
     "text": "Il vous faut un moyen sécurisé pour vous connecter, mais vous avez le choix.",
-    "t": 245.37
+    "t": 244.75
    },
    {
     "speaker": "Tom",
     "text": "Ça peut être un produit LuxTrust, oui.",
-    "t": 249.04
+    "t": 248.42
    },
    {
     "speaker": "Tom",
     "text": "Ou la carte d'identité électronique luxembourgeoise, si vous avez une carte d'identité luxembourgeoise avec les certificats activés.",
-    "t": 251.32
+    "t": 250.7
    },
    {
     "speaker": "Tom",
     "text": "Ou alors, et c'est intéressant pour les personnes venant d'autres pays européens... un identifiant eIDAS de votre propre pays.",
-    "t": 258.02
+    "t": 257.4
    },
    {
     "speaker": "Anna",
     "text": "eIDAS... c'est le système européen, n'est-ce pas ?",
-    "t": 264.81
+    "t": 264.19
    },
    {
     "speaker": "Anna",
     "text": "Donc je pourrais utiliser, par exemple, ma carte d'identité électronique belge ou allemande ?",
-    "t": 267.86
+    "t": 267.24
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Si votre pays dispose d'un de ces systèmes nationaux, vous pouvez souvent l'utiliser pour vous connecter à MyGuichet — il vous faut quand même votre matricule.",
-    "t": 271.97
+    "t": 271.35
    },
    {
     "speaker": "Tom",
     "text": "Mais avec un accès étranger, vous ne pouvez pas signer certains formulaires, comme votre déclaration d'impôts.",
-    "t": 280.58
+    "t": 279.96
    },
    {
     "speaker": "Tom",
     "text": "Et encore une chose — certaines démarches simples fonctionnent même sans se connecter du tout.",
-    "t": 286.12
+    "t": 285.5
    },
    {
     "speaker": "Tom",
     "text": "Mais dans ce cas, vous avez moins d'options.",
-    "t": 290.91
+    "t": 290.29
    },
    {
     "speaker": "Tom",
     "text": "Vous ne pouvez pas enregistrer le formulaire et continuer plus tard, et vous ne pouvez pas suivre l'état de la demande.",
-    "t": 292.86
+    "t": 292.24
    },
    {
     "speaker": "Tom",
     "text": "Donc... avoir un vrai compte, c'est beaucoup mieux.",
-    "t": 298.16
+    "t": 297.54
    },
    {
     "speaker": "Tom",
     "text": "Mais honnêtement, si vous vivez ou travaillez ici, LuxTrust Mobile est la solution facile.",
-    "t": 300.92
+    "t": 300.3
    },
    {
     "speaker": "Tom",
     "text": "Vous installez l'application une fois, et... c'est tout.",
-    "t": 306.23
+    "t": 305.61
    },
    {
     "speaker": "Tom",
     "text": "Et si vous l'utilisez déjà pour votre banque, vous pouvez utiliser la même.",
-    "t": 309.29
+    "t": 308.67
    },
    {
     "speaker": "Anna",
     "text": "Bien. Alors, disons que j'ai mon matricule et mon LuxTrust.",
-    "t": 312.99
+    "t": 312.37
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que je fais ?",
-    "t": 316.01
+    "t": 315.39
    },
    {
     "speaker": "Tom",
     "text": "C'est assez simple.",
-    "t": 317.14
+    "t": 316.52
    },
    {
     "speaker": "Tom",
     "text": "Vous allez sur Guichet.lu, vous cliquez sur « Se connecter », et vous suivez les étapes avec votre e-mail et votre matricule.",
-    "t": 318.46
+    "t": 317.84
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, vous créez votre eSpace personnel.",
-    "t": 325.08
+    "t": 324.46
    },
    {
     "speaker": "Tom",
     "text": "Ça prend quelques minutes.",
-    "t": 327.48
+    "t": 326.86
    },
    {
     "speaker": "Tom",
     "text": "Et il y a des tutoriels sur le site, étape par étape.",
-    "t": 328.9
+    "t": 328.28
    },
    {
     "speaker": "Anna",
     "text": "Parfait. Maintenant... de quels types de démarches parle-t-on ?",
-    "t": 332.18
+    "t": 331.56
    },
    {
     "speaker": "Anna",
     "text": "Quels domaines ?",
-    "t": 335.64
+    "t": 335.02
    },
    {
     "speaker": "Tom",
     "text": "Presque tout dans la vie quotidienne, vraiment.",
-    "t": 336.76
+    "t": 336.14
    },
    {
     "speaker": "Tom",
     "text": "Voyons... la citoyenneté — donc la carte d'identité, le passeport, le casier judiciaire.",
-    "t": 339.06
+    "t": 338.44
    },
    {
     "speaker": "Tom",
     "text": "Et en voilà une belle : en tant que résident étranger, vous pouvez demander votre inscription sur les listes électorales — pour pouvoir voter aux élections communales.",
-    "t": 344.7
+    "t": 344.08
    },
    {
     "speaker": "Tom",
     "text": "Et si vous êtes citoyen d'un autre pays de l'UE, aussi aux élections européennes.",
-    "t": 352.86
+    "t": 352.24
    },
    {
     "speaker": "Tom",
     "text": "Ensuite l'immigration — les titres de séjour, par exemple.",
-    "t": 357.41
+    "t": 356.79
    },
    {
     "speaker": "Tom",
     "text": "Très important quand vous arrivez.",
-    "t": 360.74
+    "t": 360.12
    },
    {
     "speaker": "Tom",
     "text": "Puis la famille et l'éducation... la fiscalité — oui, vous pouvez faire votre déclaration d'impôts en ligne.",
-    "t": 362.46
+    "t": 361.84
    },
    {
     "speaker": "Tom",
     "text": "Les transports — votre permis de conduire, l'immatriculation d'une voiture.",
-    "t": 368.34
+    "t": 367.72
    },
    {
     "speaker": "Tom",
     "text": "La santé et la sécurité sociale.",
-    "t": 372.58
+    "t": 371.96
    },
    {
     "speaker": "Tom",
     "text": "Le logement. Les aides financières.",
-    "t": 374.73
+    "t": 374.11
    },
    {
     "speaker": "Tom",
     "text": "Le travail et la pension... et même les loisirs, comme l'inscription à la Bibliothèque nationale.",
-    "t": 376.87
+    "t": 376.25
    },
    {
     "speaker": "Anna",
     "text": "Waouh. Tant de domaines sont couverts, tout au même endroit.",
-    "t": 382.06
+    "t": 381.44
    },
    {
     "speaker": "Tom",
     "text": "C'est ça. Et peut-être un mot pour les entrepreneurs qui nous écoutent : les entreprises aussi peuvent utiliser MyGuichet, avec un eSpace professionnel, pour des choses comme les déclarations d'impôts et de TVA, les déclarations de sécurité sociale pour leur personnel, ou les demandes de permis et d'autorisations.",
-    "t": 385.19
+    "t": 384.57
    },
    {
     "speaker": "Anna",
     "text": "Bon à savoir.",
-    "t": 401.6
+    "t": 400.98
    },
    {
     "speaker": "Anna",
     "text": "D'accord, Tom, on conclut ?",
-    "t": 402.65
+    "t": 402.03
    },
    {
     "speaker": "Anna",
     "text": "Un petit résumé ?",
-    "t": 404.13
+    "t": 403.51
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. MyGuichet.lu est la plateforme en ligne sécurisée de l'État luxembourgeois.",
-    "t": 405.34
+    "t": 404.72
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez faire vos démarches administratives depuis chez vous, suivre vos dossiers, recevoir des documents officiels, et prendre des rendez-vous.",
-    "t": 410.88
+    "t": 410.26
    },
    {
     "speaker": "Tom",
     "text": "Pour l'utiliser pleinement, vous vous inscrivez avec votre matricule et un moyen de connexion sécurisé.",
-    "t": 418.52
+    "t": 417.9
    },
    {
     "speaker": "Anna",
     "text": "Et si vous avez besoin d'aide, de nombreux tutoriels sont disponibles, ainsi qu'un service d'assistance.",
-    "t": 424.06
+    "t": 423.44
    },
    {
     "speaker": "Tom",
     "text": "Vraiment, ça rend la vie au Luxembourg plus facile.",
-    "t": 428.94
+    "t": 428.32
    },
    {
     "speaker": "Tom",
     "text": "Surtout les premiers mois.",
-    "t": 431.59
+    "t": 430.97
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur MyGuichet.lu.",
-    "t": 433.09
+    "t": 432.47
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 435.59
+    "t": 434.97
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 444.02
+    "t": 443.4
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 459.87
+    "t": 459.25
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 464.52
+    "t": 463.9
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 466.3
+    "t": 465.68
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 470.68
+    "t": 470.06
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 471.91
+    "t": 471.29
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 474.37
+    "t": 473.75
    }
   ],
   "segments_de": [
@@ -1327,608 +1327,608 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und heute sprechen wir über etwas sehr Nützliches.",
-    "t": 28.46
+    "t": 27.86
    },
    {
     "speaker": "Tom",
     "text": "Besonders, wenn Sie gerade erst in Luxemburg angekommen sind.",
-    "t": 32.61
+    "t": 32.01
    },
    {
     "speaker": "Tom",
     "text": "Es heißt MyGuichet.lu.",
-    "t": 35.88
+    "t": 35.28
    },
    {
     "speaker": "Anna",
     "text": "Richtig. Also, Tom... fangen wir am Anfang an.",
-    "t": 38.32
+    "t": 37.72
    },
    {
     "speaker": "Anna",
     "text": "Was ist MyGuichet.lu?",
-    "t": 42.98
+    "t": 42.38
    },
    {
     "speaker": "Tom",
     "text": "Okay, also... Guichet.lu ist die Informationsseite des Staates, und MyGuichet.lu ist der dazugehörige sichere Online-Bereich.",
-    "t": 44.88
+    "t": 44.28
    },
    {
     "speaker": "Tom",
     "text": "Zusammen bieten sie Ihnen schnellen, benutzerfreundlichen Zugang zu allen Informationen, Verfahren und Diensten der öffentlichen Verwaltungen und Einrichtungen Luxemburgs.",
-    "t": 54.62
+    "t": 54.02
    },
    {
     "speaker": "Tom",
     "text": "MyGuichet.lu ist sicher, und es ist Ihre... sagen wir, Ihre zentrale Anlaufstelle bei den öffentlichen Verwaltungen.",
-    "t": 64.35
+    "t": 63.75
    },
    {
     "speaker": "Tom",
     "text": "Anstatt also zu einem Amt zu gehen, können Sie viele Verwaltungsverfahren von zu Hause aus erledigen.",
-    "t": 71.99
+    "t": 71.39
    },
    {
     "speaker": "Tom",
     "text": "Auf Ihrem Computer, oder auf Ihrem Telefon.",
-    "t": 77.64
+    "t": 77.04
    },
    {
     "speaker": "Anna",
     "text": "Also ist es wie... ein Online-Schalter?",
-    "t": 80.57
+    "t": 79.97
    },
    {
     "speaker": "Tom",
     "text": "Genau. Jeden Tag geöffnet, zu jeder Stunde.",
-    "t": 83.7
+    "t": 83.1
    },
    {
     "speaker": "Anna",
     "text": "Schön. Und, hmm... was kann ich eigentlich damit machen?",
-    "t": 86.55
+    "t": 85.95
    },
    {
     "speaker": "Tom",
     "text": "Ziemlich viel, wirklich.",
-    "t": 91.86
+    "t": 91.26
    },
    {
     "speaker": "Tom",
     "text": "Das Wichtigste ist... Sie können Verwaltungsverfahren online erledigen.",
-    "t": 93.52
+    "t": 92.92
    },
    {
     "speaker": "Anna",
     "text": "Ohne etwas auszudrucken?",
-    "t": 97.82
+    "t": 97.22
    },
    {
     "speaker": "Tom",
     "text": "Bei vielen Verfahren, ja.",
-    "t": 99.58
+    "t": 98.98
    },
    {
     "speaker": "Tom",
     "text": "Kein Ausdrucken, kein Umschlag, keine Briefmarke.",
-    "t": 101.44
+    "t": 100.84
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt noch mehr.",
-    "t": 104.44
+    "t": 103.84
    },
    {
     "speaker": "Tom",
     "text": "Auf MyGuichet haben Sie Ihren eigenen persönlichen Bereich, in dem Sie den Status Ihrer Anträge verfolgen können... Sie können also sehen, okay, mein Dossier ist angekommen, es wird bearbeitet, und so weiter.",
-    "t": 105.74
+    "t": 105.14
    },
    {
     "speaker": "Tom",
     "text": "Und in Ihrem eSpace können Sie auch die persönlichen Daten sehen, die der Staat über Sie hat.",
-    "t": 118.37
+    "t": 117.77
    },
    {
     "speaker": "Tom",
     "text": "Die offiziellen Daten — zum Beispiel aus dem nationalen Register.",
-    "t": 123.2
+    "t": 122.6
    },
    {
     "speaker": "Tom",
     "text": "Sie können dort auch offizielle Nachrichten und Dokumente elektronisch empfangen.",
-    "t": 127.26
+    "t": 126.66
    },
    {
     "speaker": "Tom",
     "text": "Und... noch eine Sache... Sie können bei einigen Verwaltungen online Termine buchen.",
-    "t": 131.4
+    "t": 130.8
    },
    {
     "speaker": "Anna",
     "text": "Okay, warte, ich wiederhole das.",
-    "t": 136.74
+    "t": 136.14
    },
    {
     "speaker": "Anna",
     "text": "Also ich kann... Verfahren online erledigen, meine Dossiers verfolgen, meine offiziellen Daten einsehen, Dokumente empfangen, und Termine buchen.",
-    "t": 138.83
+    "t": 138.23
    },
    {
     "speaker": "Tom",
     "text": "Genau so ist es.",
-    "t": 147.8
+    "t": 147.2
    },
    {
     "speaker": "Tom",
     "text": "Und Sie können auch wichtige Dokumente in Ihrem eSpace speichern, damit sie immer bei Ihnen sind.",
-    "t": 149.04
+    "t": 148.44
    },
    {
     "speaker": "Tom",
     "text": "Ach — und es gibt auch eine mobile App, für Ihr Smartphone.",
-    "t": 154.61
+    "t": 154.01
    },
    {
     "speaker": "Anna",
     "text": "Sehr umfassend. Nun... die große Frage.",
-    "t": 158.2
+    "t": 157.6
    },
    {
     "speaker": "Anna",
     "text": "Warum sollte ich es nutzen?",
-    "t": 162.1
+    "t": 161.5
    },
    {
     "speaker": "Anna",
     "text": "Ich meine, ich kann ja immer noch zum Amt gehen, oder?",
-    "t": 163.81
+    "t": 163.21
    },
    {
     "speaker": "Tom",
     "text": "Natürlich können Sie das.",
-    "t": 166.44
+    "t": 165.84
    },
    {
     "speaker": "Tom",
     "text": "Aber die Ämter sind tagsüber geöffnet, wenn viele von uns bei der Arbeit sind.",
-    "t": 168.26
+    "t": 167.66
    },
    {
     "speaker": "Tom",
     "text": "MyGuichet ist vierundzwanzig Stunden geöffnet, sieben Tage die Woche.",
-    "t": 172.58
+    "t": 171.98
    },
    {
     "speaker": "Tom",
     "text": "Sie sparen Zeit — keine Warteschlange, kein Warten.",
-    "t": 176.38
+    "t": 175.78
    },
    {
     "speaker": "Tom",
     "text": "Und alles bleibt an einem Ort.",
-    "t": 179.72
+    "t": 179.12
    },
    {
     "speaker": "Anna",
     "text": "Und gibt es das auf Deutsch?",
-    "t": 181.54
+    "t": 180.94
    },
    {
     "speaker": "Tom",
     "text": "Die Website, ja — Guichet.lu gibt es auf Französisch, Deutsch und Englisch.",
-    "t": 183.28
+    "t": 182.68
    },
    {
     "speaker": "Tom",
     "text": "Und viele Verfahren auch.",
-    "t": 188.94
+    "t": 188.34
    },
    {
     "speaker": "Tom",
     "text": "Nicht alle, aber viele.",
-    "t": 190.54
+    "t": 189.94
    },
    {
     "speaker": "Tom",
     "text": "Also für jemanden, der gerade angekommen ist und noch kein Französisch spricht... das hilft wirklich.",
-    "t": 192.38
+    "t": 191.78
    },
    {
     "speaker": "Anna",
     "text": "Mmm, das ist wichtig.",
-    "t": 197.7
+    "t": 197.1
    },
    {
     "speaker": "Anna",
     "text": "Okay. Also, wie fange ich jetzt an?",
-    "t": 199.4
+    "t": 198.8
    },
    {
     "speaker": "Anna",
     "text": "Was brauche ich?",
-    "t": 202.02
+    "t": 201.42
    },
    {
     "speaker": "Tom",
     "text": "Also... um sich bei MyGuichet zu registrieren, brauchen Sie ein paar Dinge.",
-    "t": 203.33
+    "t": 202.73
    },
    {
     "speaker": "Tom",
     "text": "Erstens müssen Sie mindestens sechzehn Jahre alt sein.",
-    "t": 207.8
+    "t": 207.2
    },
    {
     "speaker": "Tom",
     "text": "Dann brauchen Sie Ihre luxemburgische nationale Identifikationsnummer.",
-    "t": 210.73
+    "t": 210.13
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine dreizehnstellige Nummer — die Leute in Luxemburg nennen sie das „Matricule\".",
-    "t": 214.77
+    "t": 214.17
    },
    {
     "speaker": "Tom",
     "text": "Sie bekommen sie, wenn Sie sich in Luxemburg anmelden, oder wenn Sie anfangen, hier zu arbeiten.",
-    "t": 220.18
+    "t": 219.58
    },
    {
     "speaker": "Anna",
     "text": "Das Matricule, okay.",
-    "t": 225.05
+    "t": 224.45
    },
    {
     "speaker": "Anna",
     "text": "Grenzgänger haben auch eines, richtig?",
-    "t": 226.83
+    "t": 226.23
    },
    {
     "speaker": "Tom",
     "text": "Ja, wenn Sie in Luxemburg arbeiten, haben Sie eines.",
-    "t": 229.07
+    "t": 228.47
    },
    {
     "speaker": "Tom",
     "text": "Es steht zum Beispiel auf Ihrer Sozialversicherungskarte.",
-    "t": 232.46
+    "t": 231.86
    },
    {
     "speaker": "Tom",
     "text": "Dann brauchen Sie eine E-Mail-Adresse und einen Computer — für die erste Registrierung einen Laptop oder Desktop-PC, nicht Ihr Handy.",
-    "t": 235.43
+    "t": 234.83
    },
    {
     "speaker": "Tom",
     "text": "Und noch eine Sache: eine Möglichkeit, Ihre Identität online nachzuweisen.",
-    "t": 243.34
+    "t": 242.74
    },
    {
     "speaker": "Anna",
     "text": "Ah, und hier kommt LuxTrust ins Spiel?",
-    "t": 248.18
+    "t": 247.58
    },
    {
     "speaker": "Tom",
     "text": "Genau. LuxTrust ist ein Unternehmen, das eine sichere digitale Identität bereitstellt.",
-    "t": 250.74
+    "t": 250.14
    },
    {
     "speaker": "Tom",
     "text": "Das beliebteste Produkt ist LuxTrust Mobile — eine App auf Ihrem Telefon.",
-    "t": 256.9
+    "t": 256.3
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie sich irgendwo anmelden, bittet die App Sie um eine Bestätigung.",
-    "t": 261.83
+    "t": 261.23
    },
    {
     "speaker": "Tom",
     "text": "Viele Menschen nutzen sie bereits für ihr Online-Banking.",
-    "t": 265.55
+    "t": 264.95
    },
    {
     "speaker": "Anna",
     "text": "Okay, also die Frage, die viele Hörer haben werden... brauche ich LuxTrust, um MyGuichet zu nutzen?",
-    "t": 268.63
+    "t": 268.03
    },
    {
     "speaker": "Tom",
     "text": "Gute Frage. Die Antwort ist... nicht unbedingt.",
-    "t": 274.66
+    "t": 274.06
    },
    {
     "speaker": "Tom",
     "text": "Sie brauchen eine sichere Anmeldemöglichkeit, aber Sie haben die Wahl.",
-    "t": 278.45
+    "t": 277.85
    },
    {
     "speaker": "Tom",
     "text": "Es kann ein LuxTrust-Produkt sein, ja.",
-    "t": 282.05
+    "t": 281.45
    },
    {
     "speaker": "Tom",
     "text": "Oder der luxemburgische elektronische Personalausweis, wenn Sie einen luxemburgischen Ausweis mit aktivierten Zertifikaten haben.",
-    "t": 284.74
+    "t": 284.14
    },
    {
     "speaker": "Tom",
     "text": "Oder, und das ist interessant für Menschen aus anderen europäischen Ländern... eine eIDAS-Anmeldung aus Ihrem eigenen Land.",
-    "t": 291.38
+    "t": 290.78
    },
    {
     "speaker": "Anna",
     "text": "eIDAS... das ist das europäische System, oder?",
-    "t": 298.51
+    "t": 297.91
    },
    {
     "speaker": "Anna",
     "text": "Ich könnte also zum Beispiel meinen belgischen oder deutschen elektronischen Personalausweis verwenden?",
-    "t": 302.16
+    "t": 301.56
    },
    {
     "speaker": "Tom",
     "text": "Genau. Wenn Ihr Land eines dieser nationalen Systeme hat, können Sie es oft nutzen, um sich bei MyGuichet anzumelden — Ihre Matricule-Nummer brauchen Sie trotzdem.",
-    "t": 307.54
+    "t": 306.94
    },
    {
     "speaker": "Tom",
     "text": "Aber mit einem ausländischen Zugang können Sie manche Formulare nicht unterschreiben, zum Beispiel Ihre Steuererklärung.",
-    "t": 317.57
+    "t": 316.97
    },
    {
     "speaker": "Tom",
     "text": "Und noch eine Sache — einige einfache Verfahren funktionieren sogar ganz ohne Anmeldung.",
-    "t": 323.92
+    "t": 323.32
    },
    {
     "speaker": "Tom",
     "text": "Aber dann haben Sie weniger Möglichkeiten.",
-    "t": 329.67
+    "t": 329.07
    },
    {
     "speaker": "Tom",
     "text": "Sie können das Formular nicht speichern und später weitermachen, und Sie können den Status nicht verfolgen.",
-    "t": 331.83
+    "t": 331.23
    },
    {
     "speaker": "Tom",
     "text": "Also... ein richtiges Konto zu haben, ist viel besser.",
-    "t": 337.28
+    "t": 336.68
    },
    {
     "speaker": "Tom",
     "text": "Aber ehrlich gesagt, wenn Sie hier leben oder arbeiten, ist LuxTrust Mobile der einfache Weg.",
-    "t": 340.46
+    "t": 339.86
    },
    {
     "speaker": "Tom",
     "text": "Sie installieren die App einmal, und... das war's.",
-    "t": 346.61
+    "t": 346.01
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie sie bereits für Ihre Bank nutzen, können Sie dieselbe verwenden.",
-    "t": 350.03
+    "t": 349.43
    },
    {
     "speaker": "Anna",
     "text": "Gut. Also, sagen wir, ich habe mein Matricule und mein LuxTrust.",
-    "t": 353.91
+    "t": 353.31
    },
    {
     "speaker": "Anna",
     "text": "Was mache ich?",
-    "t": 358.17
+    "t": 357.57
    },
    {
     "speaker": "Tom",
     "text": "Es ist ganz einfach.",
-    "t": 359.46
+    "t": 358.86
    },
    {
     "speaker": "Tom",
     "text": "Sie gehen auf Guichet.lu, Sie klicken auf „Anmelden\", und Sie folgen den Schritten mit Ihrer E-Mail und Ihrem Matricule.",
-    "t": 360.93
+    "t": 360.33
    },
    {
     "speaker": "Tom",
     "text": "Dann erstellen Sie Ihren persönlichen eSpace.",
-    "t": 368.43
+    "t": 367.83
    },
    {
     "speaker": "Tom",
     "text": "Das dauert ein paar Minuten.",
-    "t": 370.99
+    "t": 370.39
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt Tutorials auf der Website, Schritt für Schritt.",
-    "t": 372.55
+    "t": 371.95
    },
    {
     "speaker": "Anna",
     "text": "Perfekt. Nun... über welche Art von Verfahren reden wir?",
-    "t": 375.84
+    "t": 375.24
    },
    {
     "speaker": "Anna",
     "text": "Welche Bereiche?",
-    "t": 380.48
+    "t": 379.88
    },
    {
     "speaker": "Tom",
     "text": "Fast alles im täglichen Leben, wirklich.",
-    "t": 381.85
+    "t": 381.25
    },
    {
     "speaker": "Tom",
     "text": "Mal sehen... Staatsbürgerschaft — also Personalausweis, Reisepass, Führungszeugnis.",
-    "t": 384.19
+    "t": 383.59
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist etwas Schönes: Als ausländischer Einwohner können Sie beantragen, sich in die Wählerlisten einzutragen — damit Sie bei den Gemeindewahlen wählen können.",
-    "t": 391.16
+    "t": 390.56
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie Bürger eines anderen EU-Landes sind, auch bei den Europawahlen.",
-    "t": 401.27
+    "t": 400.67
    },
    {
     "speaker": "Tom",
     "text": "Dann Einwanderung — Aufenthaltstitel, zum Beispiel.",
-    "t": 405.75
+    "t": 405.15
    },
    {
     "speaker": "Tom",
     "text": "Sehr wichtig, wenn Sie ankommen.",
-    "t": 408.78
+    "t": 408.18
    },
    {
     "speaker": "Tom",
     "text": "Dann Familie und Bildung... Steuern — ja, Sie können Ihre Steuererklärung online machen.",
-    "t": 410.52
+    "t": 409.92
    },
    {
     "speaker": "Tom",
     "text": "Verkehr — Ihr Führerschein, das Anmelden eines Autos.",
-    "t": 416.69
+    "t": 416.09
    },
    {
     "speaker": "Tom",
     "text": "Gesundheit und Sozialversicherung.",
-    "t": 420.56
+    "t": 419.96
    },
    {
     "speaker": "Tom",
     "text": "Wohnen. Finanzielle Beihilfen.",
-    "t": 422.65
+    "t": 422.05
    },
    {
     "speaker": "Tom",
     "text": "Arbeit und Rente... und sogar Freizeit, wie die Anmeldung bei der Nationalbibliothek.",
-    "t": 424.83
+    "t": 424.23
    },
    {
     "speaker": "Anna",
     "text": "Wow. So viele Bereiche werden abgedeckt, alles an einem Ort.",
-    "t": 430.04
+    "t": 429.44
    },
    {
     "speaker": "Tom",
     "text": "Genau so ist es.",
-    "t": 434.3
+    "t": 433.7
    },
    {
     "speaker": "Tom",
     "text": "Und vielleicht noch ein Wort für die Unternehmer, die zuhören: Auch Unternehmen können MyGuichet nutzen, mit einem geschäftlichen eSpace, für Dinge wie Steuer- und Mehrwertsteuererklärungen, Sozialversicherungserklärungen für ihr Personal, oder die Beantragung von Genehmigungen und Lizenzen.",
-    "t": 435.56
+    "t": 434.96
    },
    {
     "speaker": "Anna",
     "text": "Gut zu wissen.",
-    "t": 453.2
+    "t": 452.6
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom, lass uns abschließen.",
-    "t": 454.28
+    "t": 453.68
    },
    {
     "speaker": "Anna",
     "text": "Eine kurze Zusammenfassung?",
-    "t": 456.26
+    "t": 455.66
    },
    {
     "speaker": "Tom",
     "text": "Klar. MyGuichet.lu ist die sichere Online-Plattform des luxemburgischen Staates.",
-    "t": 458.15
+    "t": 457.55
    },
    {
     "speaker": "Tom",
     "text": "Sie können Ihre Verwaltungsverfahren von zu Hause aus erledigen, Ihre Dossiers verfolgen, offizielle Dokumente empfangen, und Termine buchen.",
-    "t": 464.08
+    "t": 463.48
    },
    {
     "speaker": "Tom",
     "text": "Um es voll zu nutzen, registrieren Sie sich mit Ihrem Matricule und einer sicheren Anmeldung.",
-    "t": 472.62
+    "t": 472.02
    },
    {
     "speaker": "Anna",
     "text": "Und wenn Sie Hilfe brauchen, gibt es viele Tutorials, und einen Helpdesk.",
-    "t": 478.18
+    "t": 477.58
    },
    {
     "speaker": "Tom",
     "text": "Wirklich, es macht das Leben in Luxemburg einfacher.",
-    "t": 482.51
+    "t": 481.91
    },
    {
     "speaker": "Tom",
     "text": "Besonders in den ersten Monaten.",
-    "t": 485.5
+    "t": 484.9
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über MyGuichet.lu.",
-    "t": 487.55
+    "t": 486.95
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 490.57
+    "t": 489.97
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 499.42
+    "t": 498.82
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 517.27
+    "t": 516.67
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 522.97
+    "t": 522.37
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 525.22
+    "t": 524.62
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 530.11
+    "t": 529.51
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 531.26
+    "t": 530.66
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 534.47
+    "t": 533.87
    }
   ],
   "segments_lb": [
@@ -2144,9 +2144,9 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_myguichet_fr.mp3",
-  "duration_fr": 476.13,
+  "duration_fr": 475.51,
   "audio_de": "podcast_myguichet_de.mp3",
-  "duration_de": 536.01,
+  "duration_de": 535.41,
   "title_fr": "MyGuichet.lu – Votre porte en ligne vers les administrations luxembourgeoises",
   "description_fr": "Ce qu'est MyGuichet.lu et pourquoi c'est important : le guichet en ligne sécurisé de l'État luxembourgeois, où vous pouvez effectuer vos démarches administratives depuis chez vous, ouvert tous les jours à toute heure. Comment vous inscrire avec votre matricule à 13 chiffres et un moyen de connexion sécurisé comme LuxTrust, la carte d'identité électronique luxembourgeoise ou un identifiant européen eIDAS, ce que vous pouvez faire dans votre eSpace personnel, les langues disponibles, l'application mobile — et comment les entreprises peuvent l'utiliser aussi.",
   "topics_fr": [
@@ -3348,878 +3348,878 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Anna",
     "text": "Et aujourd'hui, nous parlons de quelque chose dont vous aurez besoin presque partout au Luxembourg, en ligne.",
-    "t": 23.59
+    "t": 23.2
    },
    {
     "speaker": "Anna",
     "text": "Ça s'appelle LuxTrust.",
-    "t": 27.97
+    "t": 27.58
    },
    {
     "speaker": "Tom",
     "text": "LuxTrust. Nous l'avons déjà mentionné, dans l'épisode sur MyGuichet.",
-    "t": 29.6
+    "t": 29.21
    },
    {
     "speaker": "Tom",
     "text": "Mais aujourd'hui, on raconte toute l'histoire.",
-    "t": 33.36
+    "t": 32.97
    },
    {
     "speaker": "Tom",
     "text": "Anna, commençons simplement.",
-    "t": 35.52
+    "t": 35.13
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que LuxTrust ?",
-    "t": 37.29
+    "t": 36.9
    },
    {
     "speaker": "Anna",
     "text": "Alors, LuxTrust vous donne une chose — une identité numérique.",
-    "t": 38.82
+    "t": 38.43
    },
    {
     "speaker": "Anna",
     "text": "Une identité numérique unique et sécurisée, qui vous permet de prouver qui vous êtes vraiment, en ligne.",
-    "t": 41.7
+    "t": 41.31
    },
    {
     "speaker": "Tom",
     "text": "Une identité numérique.",
-    "t": 47.05
+    "t": 46.66
    },
    {
     "speaker": "Tom",
     "text": "Tu peux expliquer ça un peu plus ?",
-    "t": 48.74
+    "t": 48.35
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. Imaginez-la comme la version numérique de votre carte d'identité ou de votre passeport.",
-    "t": 50.6
+    "t": 50.21
    },
    {
     "speaker": "Anna",
     "text": "Dans la vraie vie, vous montrez votre carte d'identité pour prouver qui vous êtes.",
-    "t": 55.42
+    "t": 55.03
    },
    {
     "speaker": "Anna",
     "text": "Mais en ligne, personne ne peut vous voir.",
-    "t": 58.82
+    "t": 58.43
    },
    {
     "speaker": "Anna",
     "text": "Il vous faut donc quelque chose qui prouve votre identité de manière sécurisée.",
-    "t": 60.62
+    "t": 60.23
    },
    {
     "speaker": "Anna",
     "text": "C'est ça, l'identité numérique.",
-    "t": 64.06
+    "t": 63.67
    },
    {
     "speaker": "Tom",
     "text": "Ah. Donc c'est comme une carte d'identité, mais pour internet.",
-    "t": 65.91
+    "t": 65.52
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Et LuxTrust est l'entreprise qui la fournit.",
-    "t": 68.96
+    "t": 68.57
    },
    {
     "speaker": "Anna",
     "text": "C'est ce qu'on appelle une « autorité de certification » et un « prestataire de services de confiance ».",
-    "t": 71.73
+    "t": 71.34
    },
    {
     "speaker": "Anna",
     "text": "Ils sont certifiés par l'Union européenne, et ils font ça depuis une vingtaine d'années.",
-    "t": 76.49
+    "t": 76.1
    },
    {
     "speaker": "Tom",
     "text": "Vingt ans. Donc c'est bien établi.",
-    "t": 80.52
+    "t": 80.13
    },
    {
     "speaker": "Tom",
     "text": "Et mes données sont-elles en sécurité chez eux ?",
-    "t": 82.76
+    "t": 82.37
    },
    {
     "speaker": "Anna",
     "text": "Oui. Vos données sont chiffrées, et stockées dans des centres de données ici, au Luxembourg.",
-    "t": 85.2
+    "t": 84.81
    },
    {
     "speaker": "Anna",
     "text": "La sécurité, c'est vraiment toute la raison d'être de l'entreprise.",
-    "t": 89.28
+    "t": 88.89
    },
    {
     "speaker": "Tom",
     "text": "Bien. Maintenant, la question la plus importante pour la plupart des gens.",
-    "t": 92.66
+    "t": 92.27
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que je peux réellement faire avec mon identité LuxTrust ?",
-    "t": 96.13
+    "t": 95.74
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup de choses du quotidien.",
-    "t": 99.52
+    "t": 99.13
    },
    {
     "speaker": "Anna",
     "text": "Laisse-moi te donner les quatre principaux usages.",
-    "t": 101.13
+    "t": 100.74
    },
    {
     "speaker": "Anna",
     "text": "Le premier, et le plus courant — votre banque.",
-    "t": 103.45
+    "t": 103.06
    },
    {
     "speaker": "Anna",
     "text": "Avec LuxTrust, vous vous connectez à votre banque en ligne en toute sécurité, et vous confirmez vos opérations.",
-    "t": 106.02
+    "t": 105.63
    },
    {
     "speaker": "Anna",
     "text": "Un paiement, un virement... vous le validez avec LuxTrust.",
-    "t": 111.3
+    "t": 110.91
    },
    {
     "speaker": "Tom",
     "text": "Donc la plupart des gens au Luxembourg découvrent d'abord LuxTrust à travers leur banque.",
-    "t": 114.63
+    "t": 114.24
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Le deuxième usage — les services publics.",
-    "t": 119.29
+    "t": 118.9
    },
    {
     "speaker": "Anna",
     "text": "Avec LuxTrust, vous vous connectez à MyGuichet.lu.",
-    "t": 122.16
+    "t": 121.77
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez donc faire vos démarches administratives, et, par exemple, remplir et signer votre déclaration d'impôts en ligne.",
-    "t": 125.49
+    "t": 125.1
    },
    {
     "speaker": "Tom",
     "text": "C'est le lien avec notre épisode sur MyGuichet.",
-    "t": 131.28
+    "t": 130.89
    },
    {
     "speaker": "Tom",
     "text": "D'accord, et le troisième ?",
-    "t": 133.8
+    "t": 133.41
    },
    {
     "speaker": "Anna",
     "text": "Le troisième est magnifique — la signature électronique.",
-    "t": 135.47
+    "t": 135.08
    },
    {
     "speaker": "Anna",
     "text": "Avec LuxTrust, vous pouvez signer un document de manière électronique.",
-    "t": 138.24
+    "t": 137.85
    },
    {
     "speaker": "Anna",
     "text": "Et — c'est le point essentiel — cette signature électronique a la même valeur juridique qu'une signature manuscrite.",
-    "t": 141.66
+    "t": 141.27
    },
    {
     "speaker": "Tom",
     "text": "Attends, vraiment ? La même valeur juridique qu'une signature au stylo ?",
-    "t": 147.22
+    "t": 146.83
    },
    {
     "speaker": "Anna",
     "text": "La même. Vous pouvez donc conclure un contrat, ou signer un document officiel, depuis chez vous, sans rien imprimer.",
-    "t": 151.27
+    "t": 150.88
    },
    {
     "speaker": "Tom",
     "text": "C'est puissant. Et le quatrième usage ?",
-    "t": 157.76
+    "t": 157.37
    },
    {
     "speaker": "Anna",
     "text": "Le quatrième — vos achats en ligne.",
-    "t": 160.24
+    "t": 159.85
    },
    {
     "speaker": "Anna",
     "text": "Quand vous faites des achats en ligne, LuxTrust peut être utilisé, avec le système appelé 3D Secure, pour confirmer que c'est bien vous qui payez.",
-    "t": 162.53
+    "t": 162.14
    },
    {
     "speaker": "Anna",
     "text": "Vos paiements par carte sont donc plus sécurisés.",
-    "t": 169.82
+    "t": 169.43
    },
    {
     "speaker": "Tom",
     "text": "Donc, pour résumer — la banque, les services publics, la signature électronique, et les paiements en ligne.",
-    "t": 172.28
+    "t": 171.89
    },
    {
     "speaker": "Anna",
     "text": "C'est ça. Une seule identité, pour tout ça.",
-    "t": 178.2
+    "t": 177.81
    },
    {
     "speaker": "Tom",
     "text": "Et rapidement — est-ce uniquement pour les particuliers comme nous ?",
-    "t": 181
+    "t": 180.61
    },
    {
     "speaker": "Tom",
     "text": "Ou aussi pour les entreprises ?",
-    "t": 184.13
+    "t": 183.74
    },
    {
     "speaker": "Anna",
     "text": "Aujourd'hui, on parle surtout des particuliers.",
-    "t": 186.06
+    "t": 185.67
    },
    {
     "speaker": "Anna",
     "text": "Mais oui, les entreprises utilisent LuxTrust aussi — pour identifier leurs clients, pour signer et cacheter des documents, et pour sécuriser leurs processus.",
-    "t": 188.19
+    "t": 187.8
    },
    {
     "speaker": "Anna",
     "text": "Mais pour vous, en tant que résident ou frontalier, ce sont les usages personnels qui comptent le plus.",
-    "t": 195.73
+    "t": 195.34
    },
    {
     "speaker": "Tom",
     "text": "Parfait. Maintenant, la partie pratique.",
-    "t": 200.64
+    "t": 200.25
    },
    {
     "speaker": "Tom",
     "text": "Comment ça fonctionne concrètement, quand je l'utilise ?",
-    "t": 202.99
+    "t": 202.6
    },
    {
     "speaker": "Anna",
     "text": "Prenons l'exemple de la connexion à votre banque.",
-    "t": 205.78
+    "t": 205.39
    },
    {
     "speaker": "Anna",
     "text": "Étape un — vous vous connectez au site ou à l'appli de votre banque.",
-    "t": 208.28
+    "t": 207.89
    },
    {
     "speaker": "Anna",
     "text": "Étape deux — vous choisissez votre dispositif LuxTrust.",
-    "t": 211.76
+    "t": 211.37
    },
    {
     "speaker": "Anna",
     "text": "Étape trois — vous saisissez votre identifiant utilisateur et votre mot de passe.",
-    "t": 215.01
+    "t": 214.62
    },
    {
     "speaker": "Anna",
     "text": "Ou, si vous avez un dispositif à carte, votre code PIN.",
-    "t": 219.23
+    "t": 218.84
    },
    {
     "speaker": "Anna",
     "text": "Et étape quatre — vous générez un mot de passe à usage unique, un OTP — un code qui ne fonctionne qu'une seule fois — et ça vous donne accès.",
-    "t": 222.4
+    "t": 222.01
    },
    {
     "speaker": "Tom",
     "text": "Un mot de passe à usage unique.",
-    "t": 229.65
+    "t": 229.26
    },
    {
     "speaker": "Tom",
     "text": "Donc un nouveau code à chaque fois.",
-    "t": 231.57
+    "t": 231.18
    },
    {
     "speaker": "Anna",
     "text": "À chaque fois.",
-    "t": 233.48
+    "t": 233.09
    },
    {
     "speaker": "Anna",
     "text": "C'est ce qui le rend sécurisé.",
-    "t": 234.38
+    "t": 233.99
    },
    {
     "speaker": "Anna",
     "text": "Avec l'appli LuxTrust, tout ça se passe en quelques touches sur votre téléphone.",
-    "t": 236.36
+    "t": 235.97
    },
    {
     "speaker": "Tom",
     "text": "À ce propos — quels sont les différents produits LuxTrust ?",
-    "t": 240.35
+    "t": 239.96
    },
    {
     "speaker": "Tom",
     "text": "Parce que je crois qu'il y a un choix.",
-    "t": 243.55
+    "t": 243.16
    },
    {
     "speaker": "Anna",
     "text": "En effet. Pour un particulier, il y a trois produits principaux.",
-    "t": 245.46
+    "t": 245.07
    },
    {
     "speaker": "Anna",
     "text": "Le premier, et aujourd'hui le plus populaire — l'appli LuxTrust Mobile.",
-    "t": 248.71
+    "t": 248.32
    },
    {
     "speaker": "Anna",
     "text": "C'est une solution cent pour cent mobile.",
-    "t": 252.55
+    "t": 252.16
    },
    {
     "speaker": "Anna",
     "text": "Tout se passe sur votre smartphone.",
-    "t": 254.64
+    "t": 254.25
    },
    {
     "speaker": "Tom",
     "text": "Donc pas de dispositif supplémentaire à transporter.",
-    "t": 256.68
+    "t": 256.29
    },
    {
     "speaker": "Tom",
     "text": "Juste mon téléphone.",
-    "t": 259.53
+    "t": 259.14
    },
    {
     "speaker": "Anna",
     "text": "Juste votre téléphone.",
-    "t": 260.9
+    "t": 260.51
    },
    {
     "speaker": "Anna",
     "text": "Le deuxième produit, c'est le Scan — un petit dispositif physique, avec un petit écran et une caméra, qui génère vos codes.",
-    "t": 262.4
+    "t": 262.01
    },
    {
     "speaker": "Anna",
     "text": "Et le troisième, c'est la SmartCard — une carte à puce, comme une carte bancaire.",
-    "t": 268.41
+    "t": 268.02
    },
    {
     "speaker": "Anna",
     "text": "Mais pour utiliser la SmartCard, il vous faut un lecteur de cartes et un logiciel sur votre ordinateur.",
-    "t": 272.74
+    "t": 272.35
    },
    {
     "speaker": "Tom",
     "text": "Et lequel la plupart des gens devraient-ils choisir ?",
-    "t": 277.79
+    "t": 277.4
    },
    {
     "speaker": "Anna",
     "text": "Pour la plupart des gens aujourd'hui, l'appli est la plus simple.",
-    "t": 280.39
+    "t": 280
    },
    {
     "speaker": "Anna",
     "text": "Et voici une remarque importante — l'ancien LuxTrust Token, le petit dispositif que beaucoup de gens avaient sur leur porte-clés, a été arrêté fin 2024.",
-    "t": 283.12
+    "t": 282.73
    },
    {
     "speaker": "Anna",
     "text": "Donc si vous avez encore un ancien Token, il est temps de passer à l'appli.",
-    "t": 291.28
+    "t": 290.89
    },
    {
     "speaker": "Tom",
     "text": "Bon à savoir.",
-    "t": 294.65
+    "t": 294.26
    },
    {
     "speaker": "Tom",
     "text": "Et — à peu près — combien ça coûte ?",
-    "t": 295.86
+    "t": 295.47
    },
    {
     "speaker": "Anna",
     "text": "C'est un service payant, valable trois ans.",
-    "t": 297.73
+    "t": 297.34
    },
    {
     "speaker": "Anna",
     "text": "Pour donner une idée, l'appli commence autour de cinquante euros pour trois ans, et les dispositifs physiques coûtent un peu plus.",
-    "t": 300.03
+    "t": 299.64
    },
    {
     "speaker": "Anna",
     "text": "Mais vérifiez les prix exacts sur luxtrust.com, car ils peuvent changer.",
-    "t": 306.76
+    "t": 306.37
    },
    {
     "speaker": "Tom",
     "text": "Toujours vérifier le site web pour le prix exact.",
-    "t": 310.74
+    "t": 310.35
    },
    {
     "speaker": "Tom",
     "text": "D'accord, Anna — maintenant la grande question pratique.",
-    "t": 313.25
+    "t": 312.86
    },
    {
     "speaker": "Tom",
     "text": "Je suis nouveau ici, je n'ai rien encore.",
-    "t": 316.13
+    "t": 315.74
    },
    {
     "speaker": "Tom",
     "text": "Comment est-ce que j'obtiens une identité LuxTrust ?",
-    "t": 318.39
+    "t": 318
    },
    {
     "speaker": "Tom",
     "text": "Étape par étape.",
-    "t": 321.04
+    "t": 320.65
    },
    {
     "speaker": "Anna",
     "text": "Cinq étapes. Étape un — choisissez le bon produit pour vous, par exemple l'appli.",
-    "t": 322.63
+    "t": 322.24
    },
    {
     "speaker": "Anna",
     "text": "Étape deux — passez votre commande.",
-    "t": 327.31
+    "t": 326.92
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez commander en ligne, sur le site de LuxTrust, ou via votre banque.",
-    "t": 329.22
+    "t": 328.83
    },
    {
     "speaker": "Tom",
     "text": "Ah, donc ma banque peut me la mettre en place.",
-    "t": 332.72
+    "t": 332.33
    },
    {
     "speaker": "Anna",
     "text": "Très souvent, oui — beaucoup de gens obtiennent leur LuxTrust par leur banque.",
-    "t": 335.08
+    "t": 334.69
    },
    {
     "speaker": "Anna",
     "text": "Étape trois, et celle-ci est importante — vous devez être identifié.",
-    "t": 338.83
+    "t": 338.44
    },
    {
     "speaker": "Anna",
     "text": "Comme ils créent une preuve de votre identité, ils doivent vérifier qui vous êtes.",
-    "t": 342.44
+    "t": 342.05
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez le faire en personne, avec un de leurs agents.",
-    "t": 346.12
+    "t": 345.73
    },
    {
     "speaker": "Anna",
     "text": "Ou à distance, par une identification vidéo.",
-    "t": 348.74
+    "t": 348.35
    },
    {
     "speaker": "Tom",
     "text": "Donc, un peu comme ouvrir un compte bancaire.",
-    "t": 351.34
+    "t": 350.95
    },
    {
     "speaker": "Tom",
     "text": "Ils vérifient que c'est bien moi.",
-    "t": 353.85
+    "t": 353.46
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Étape quatre — vous recevez vos codes LuxTrust, et votre dispositif si vous en avez commandé un.",
-    "t": 355.74
+    "t": 355.35
    },
    {
     "speaker": "Anna",
     "text": "Et étape cinq — vous activez votre identité.",
-    "t": 360.98
+    "t": 360.59
    },
    {
     "speaker": "Anna",
     "text": "Après ça, votre identité numérique est valable trois ans.",
-    "t": 363.42
+    "t": 363.03
    },
    {
     "speaker": "Tom",
     "text": "Restons sur cette dernière étape — l'activation.",
-    "t": 366.33
+    "t": 365.94
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que je dois avoir prêt ?",
-    "t": 369.34
+    "t": 368.95
    },
    {
     "speaker": "Anna",
     "text": "Bonne question. Avant de commencer, ayez ces éléments sous la main.",
-    "t": 371.04
+    "t": 370.65
    },
    {
     "speaker": "Anna",
     "text": "Votre identifiant utilisateur — vous le recevez par courrier, ou par SMS.",
-    "t": 374.55
+    "t": 374.16
    },
    {
     "speaker": "Anna",
     "text": "Votre mot de passe initial — aussi par courrier ou SMS.",
-    "t": 379.25
+    "t": 378.86
    },
    {
     "speaker": "Anna",
     "text": "Votre dispositif, si vous en avez un.",
-    "t": 382.96
+    "t": 382.57
    },
    {
     "speaker": "Anna",
     "text": "Et votre code d'activation.",
-    "t": 385.02
+    "t": 384.63
    },
    {
     "speaker": "Tom",
     "text": "Le code d'activation — d'où vient-il ?",
-    "t": 386.75
+    "t": 386.36
    },
    {
     "speaker": "Anna",
     "text": "En fait, vous l'avez choisi vous-même, au moment de commander.",
-    "t": 389.07
+    "t": 388.68
    },
    {
     "speaker": "Anna",
     "text": "On vous conseille généralement d'utiliser les cinq derniers caractères du numéro de votre carte d'identité ou de votre passeport.",
-    "t": 391.68
+    "t": 391.29
    },
    {
     "speaker": "Anna",
     "text": "Et vous le retrouvez aussi dans la confirmation de commande, qui vous est envoyée par e-mail.",
-    "t": 397.98
+    "t": 397.59
    },
    {
     "speaker": "Tom",
     "text": "D'accord. Et comment se déroule l'activation elle-même ?",
-    "t": 402.05
+    "t": 401.66
    },
    {
     "speaker": "Anna",
     "text": "Ça dépend du produit.",
-    "t": 405.23
+    "t": 404.84
    },
    {
     "speaker": "Anna",
     "text": "Pour l'appli Mobile, vous l'activez directement sur votre smartphone, en suivant le guide.",
-    "t": 406.55
+    "t": 406.16
    },
    {
     "speaker": "Anna",
     "text": "Pour le Scan, ça prend environ six minutes — vous suivez les étapes, scannez quelques QR codes, et définissez un nouveau mot de passe robuste.",
-    "t": 410.48
+    "t": 410.09
    },
    {
     "speaker": "Anna",
     "text": "Pour la SmartCard, c'est un peu plus long, autour de vingt minutes, car vous installez d'abord le logiciel, appelé middleware, sur votre ordinateur.",
-    "t": 418.34
+    "t": 417.95
    },
    {
     "speaker": "Tom",
     "text": "Et une fois l'activation terminée — je peux l'utiliser tout de suite ?",
-    "t": 425.13
+    "t": 424.74
    },
    {
     "speaker": "Anna",
     "text": "Presque. Une petite chose à retenir — si vous avez la SmartCard, le certificat ne devient utilisable qu'environ quatre heures après l'activation.",
-    "t": 428.64
+    "t": 428.25
    },
    {
     "speaker": "Anna",
     "text": "Donc ne l'activez pas cinq minutes avant d'en avoir besoin.",
-    "t": 436.46
+    "t": 436.07
    },
    {
     "speaker": "Anna",
     "text": "Faites-le un peu à l'avance.",
-    "t": 439.37
+    "t": 438.98
    },
    {
     "speaker": "Tom",
     "text": "Conseil très pratique.",
-    "t": 440.9
+    "t": 440.51
    },
    {
     "speaker": "Tom",
     "text": "Activez-le la veille au soir, pas à la dernière minute.",
-    "t": 442.34
+    "t": 441.95
    },
    {
     "speaker": "Anna",
     "text": "Exactement.",
-    "t": 445.46
+    "t": 445.07
    },
    {
     "speaker": "Tom",
     "text": "Maintenant, Anna — c'est une identité numérique, c'est sensible.",
-    "t": 446.59
+    "t": 446.2
    },
    {
     "speaker": "Tom",
     "text": "Parlons de sécurité.",
-    "t": 450.33
+    "t": 449.94
    },
    {
     "speaker": "Tom",
     "text": "Des arnaques.",
-    "t": 451.77
+    "t": 451.38
    },
    {
     "speaker": "Anna",
     "text": "Oui, c'est vraiment important.",
-    "t": 453.02
+    "t": 452.63
    },
    {
     "speaker": "Anna",
     "text": "Il y a des tentatives d'hameçonnage — de faux messages, de faux appels téléphoniques, qui font semblant d'être LuxTrust.",
-    "t": 454.51
+    "t": 454.12
    },
    {
     "speaker": "Anna",
     "text": "Alors retenez quelques règles.",
-    "t": 460.25
+    "t": 459.86
    },
    {
     "speaker": "Anna",
     "text": "LuxTrust ne vous demandera jamais vos codes ou vos identifiants.",
-    "t": 461.7
+    "t": 461.31
    },
    {
     "speaker": "Anna",
     "text": "Jamais.",
-    "t": 464.88
+    "t": 464.49
    },
    {
     "speaker": "Tom",
     "text": "Ne jamais donner les codes.",
-    "t": 465.78
+    "t": 465.39
    },
    {
     "speaker": "Tom",
     "text": "Même si ça a l'air officiel ?",
-    "t": 467.42
+    "t": 467.03
    },
    {
     "speaker": "Anna",
     "text": "Même là. Et encore plus — LuxTrust ne vous appellera jamais pour demander des informations sensibles.",
-    "t": 469.26
+    "t": 468.87
    },
    {
     "speaker": "Anna",
     "text": "Ils ne vous demanderont jamais de confirmer un paiement ou une opération bancaire.",
-    "t": 474.53
+    "t": 474.14
    },
    {
     "speaker": "Anna",
     "text": "Et ils ne viendront jamais chez vous.",
-    "t": 478.26
+    "t": 477.87
    },
    {
     "speaker": "Tom",
     "text": "Donc si quelqu'un fait l'une de ces choses, c'est une arnaque.",
-    "t": 480.07
+    "t": 479.68
    },
    {
     "speaker": "Anna",
     "text": "C'est une arnaque.",
-    "t": 483.28
+    "t": 482.89
    },
    {
     "speaker": "Anna",
     "text": "Votre identité numérique est la vôtre, et rien qu'à vous.",
-    "t": 484.43
+    "t": 484.04
    },
    {
     "speaker": "Anna",
     "text": "Tout comme vous ne donnez pas votre carte bancaire et votre code PIN à un collègue, vous ne partagez jamais vos identifiants LuxTrust.",
-    "t": 487.19
+    "t": 486.8
    },
    {
     "speaker": "Anna",
     "text": "En cas de doute, contactez LuxTrust directement, avec le numéro figurant sur leur site officiel.",
-    "t": 493.6
+    "t": 493.21
    },
    {
     "speaker": "Tom",
     "text": "Voilà encore la règle d'or — en cas de doute, ne partagez pas, et vérifiez directement.",
-    "t": 498.59
+    "t": 498.2
    },
    {
     "speaker": "Tom",
     "text": "D'accord, Anna, rendons ça vraiment concret pour quelqu'un qui nous écoute.",
-    "t": 503.17
+    "t": 502.78
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que je devrais faire ?",
-    "t": 506.54
+    "t": 506.15
    },
    {
     "speaker": "Anna",
     "text": "Si vous vivez ou travaillez au Luxembourg et que vous ne l'avez pas encore — obtenez une identité LuxTrust.",
-    "t": 508.07
+    "t": 507.68
    },
    {
     "speaker": "Anna",
     "text": "Le plus simple : demandez à votre banque, ou allez sur luxtrust.com, choisissez l'appli, commandez-la, faites-vous identifier, et activez-la.",
-    "t": 513.6
+    "t": 513.21
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, vous pouvez l'utiliser pour votre banque, pour MyGuichet, pour signer des documents, et pour vos paiements en ligne.",
-    "t": 520.83
+    "t": 520.44
    },
    {
     "speaker": "Tom",
     "text": "Une seule identité, pour toute votre vie numérique ici.",
-    "t": 526.55
+    "t": 526.16
    },
    {
     "speaker": "Tom",
     "text": "Un petit résumé pour finir ?",
-    "t": 529.62
+    "t": 529.23
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. LuxTrust, c'est votre identité numérique sécurisée au Luxembourg — comme une carte d'identité pour internet, d'un prestataire certifié au niveau européen.",
-    "t": 531.29
+    "t": 530.9
    },
    {
     "speaker": "Anna",
     "text": "Vous l'utilisez pour la banque en ligne, pour les services publics comme MyGuichet, pour des signatures électroniques juridiquement valables, et pour les paiements en ligne.",
-    "t": 539.33
+    "t": 538.94
    },
    {
     "speaker": "Anna",
     "text": "Vous l'obtenez par votre banque ou sur luxtrust.com, vous prouvez votre identité en personne ou par vidéo, et vous l'activez — le plus facilement avec l'appli Mobile.",
-    "t": 547.15
+    "t": 546.76
    },
    {
     "speaker": "Tom",
     "text": "Et le message de sécurité ?",
-    "t": 555.69
+    "t": 555.3
    },
    {
     "speaker": "Anna",
     "text": "LuxTrust ne demande jamais vos codes, n'appelle jamais pour des données sensibles, ne demande jamais à accéder à vos appareils.",
-    "t": 557.43
+    "t": 557.04
    },
    {
     "speaker": "Anna",
     "text": "Gardez vos identifiants pour vous.",
-    "t": 563.45
+    "t": 563.06
    },
    {
     "speaker": "Anna",
     "text": "En cas de doute, vérifiez sur le site officiel.",
-    "t": 565.27
+    "t": 564.88
    },
    {
     "speaker": "Tom",
     "text": "Magnifique. Donc... votre identité numérique est la clé de la vie quotidienne en ligne au Luxembourg.",
-    "t": 567.89
+    "t": 567.5
    },
    {
     "speaker": "Tom",
     "text": "Configurez-la une fois, et tant de choses deviennent plus faciles.",
-    "t": 573.3
+    "t": 572.91
    },
    {
     "speaker": "Anna",
     "text": "Vraiment. Un petit effort pour la mettre en place... et ensuite tout, depuis votre canapé.",
-    "t": 576.94
+    "t": 576.55
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur LuxTrust.",
-    "t": 581.86
+    "t": 581.47
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 583.84
+    "t": 583.45
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 591.53
+    "t": 591.14
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 607.4
+    "t": 607.01
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 612.05
+    "t": 611.66
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 613.83
+    "t": 613.44
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 618.21
+    "t": 617.82
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 619.44
+    "t": 619.05
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 621.9
+    "t": 621.51
    }
   ],
   "segments_de": [
@@ -4245,878 +4245,878 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Anna",
     "text": "Und heute sprechen wir über etwas, das Sie fast überall in Luxemburg brauchen, online.",
-    "t": 28.26
+    "t": 27.76
    },
    {
     "speaker": "Anna",
     "text": "Es heißt LuxTrust.",
-    "t": 33.17
+    "t": 32.67
    },
    {
     "speaker": "Tom",
     "text": "LuxTrust. Wir haben es schon einmal erwähnt, in der Folge über MyGuichet.",
-    "t": 34.77
+    "t": 34.27
    },
    {
     "speaker": "Tom",
     "text": "Aber heute die ganze Geschichte.",
-    "t": 39.68
+    "t": 39.18
    },
    {
     "speaker": "Tom",
     "text": "Anna, fangen wir einfach an.",
-    "t": 41.42
+    "t": 40.92
    },
    {
     "speaker": "Tom",
     "text": "Was ist LuxTrust?",
-    "t": 43.31
+    "t": 42.81
    },
    {
     "speaker": "Anna",
     "text": "Also, LuxTrust gibt Ihnen eine Sache — eine digitale Identität.",
-    "t": 44.75
+    "t": 44.25
    },
    {
     "speaker": "Anna",
     "text": "Eine einzige, sichere digitale Identität, mit der Sie beweisen können, wer Sie wirklich sind, online.",
-    "t": 49.94
+    "t": 49.44
    },
    {
     "speaker": "Tom",
     "text": "Eine digitale Identität.",
-    "t": 56.98
+    "t": 56.48
    },
    {
     "speaker": "Tom",
     "text": "Kannst du das ein bisschen genauer erklären?",
-    "t": 58.97
+    "t": 58.47
    },
    {
     "speaker": "Anna",
     "text": "Natürlich. Stellen Sie sich das wie die digitale Version Ihres Personalausweises oder Ihres Reisepasses vor.",
-    "t": 61.37
+    "t": 60.87
    },
    {
     "speaker": "Anna",
     "text": "Im echten Leben zeigen Sie Ihren Personalausweis, um zu beweisen, wer Sie sind.",
-    "t": 68.32
+    "t": 67.82
    },
    {
     "speaker": "Anna",
     "text": "Aber online kann niemand Sie sehen.",
-    "t": 72.94
+    "t": 72.44
    },
    {
     "speaker": "Anna",
     "text": "Sie brauchen also etwas, das Ihre Identität auf sichere Weise beweist.",
-    "t": 74.98
+    "t": 74.48
    },
    {
     "speaker": "Anna",
     "text": "Das ist die digitale Identität.",
-    "t": 79.17
+    "t": 78.67
    },
    {
     "speaker": "Tom",
     "text": "Ah. Also ist es wie ein Personalausweis, aber fürs Internet.",
-    "t": 81.75
+    "t": 81.25
    },
    {
     "speaker": "Anna",
     "text": "Genau. Und LuxTrust ist das Unternehmen, das sie bereitstellt.",
-    "t": 85.45
+    "t": 84.95
    },
    {
     "speaker": "Anna",
     "text": "Sie sind das, was man eine „Zertifizierungsstelle\" und einen „Vertrauensdiensteanbieter\" nennt.",
-    "t": 89.55
+    "t": 89.05
    },
    {
     "speaker": "Anna",
     "text": "Sie sind von der Europäischen Union zertifiziert, und sie machen das seit etwa zwanzig Jahren.",
-    "t": 95.17
+    "t": 94.67
    },
    {
     "speaker": "Tom",
     "text": "Zwanzig Jahre. Also ist es gut etabliert.",
-    "t": 100.28
+    "t": 99.78
    },
    {
     "speaker": "Tom",
     "text": "Und sind meine Daten dort sicher?",
-    "t": 103.26
+    "t": 102.76
    },
    {
     "speaker": "Anna",
     "text": "Ja. Ihre Daten sind verschlüsselt und in Rechenzentren hier in Luxemburg gespeichert.",
-    "t": 105.13
+    "t": 104.63
    },
    {
     "speaker": "Anna",
     "text": "Sicherheit ist wirklich der ganze Sinn des Unternehmens.",
-    "t": 110.25
+    "t": 109.75
    },
    {
     "speaker": "Tom",
     "text": "Gut. Jetzt die wichtigste Frage für die meisten Menschen.",
-    "t": 113.56
+    "t": 113.06
    },
    {
     "speaker": "Tom",
     "text": "Was kann ich eigentlich mit meiner LuxTrust-Identität machen?",
-    "t": 116.82
+    "t": 116.32
    },
    {
     "speaker": "Anna",
     "text": "Viele alltägliche Dinge.",
-    "t": 120.27
+    "t": 119.77
    },
    {
     "speaker": "Anna",
     "text": "Lass mich die vier wichtigsten Anwendungen nennen.",
-    "t": 122.05
+    "t": 121.55
    },
    {
     "speaker": "Anna",
     "text": "Die erste, und die häufigste — Ihre Bank.",
-    "t": 124.69
+    "t": 124.19
    },
    {
     "speaker": "Anna",
     "text": "Mit LuxTrust melden Sie sich sicher bei Ihrem Online-Banking an, und Sie bestätigen Ihre Transaktionen.",
-    "t": 128.23
+    "t": 127.73
    },
    {
     "speaker": "Anna",
     "text": "Eine Zahlung, eine Überweisung... Sie bestätigen sie mit LuxTrust.",
-    "t": 133.84
+    "t": 133.34
    },
    {
     "speaker": "Tom",
     "text": "Also lernen die meisten Menschen in Luxemburg LuxTrust zuerst über ihre Bank kennen.",
-    "t": 138.69
+    "t": 138.19
    },
    {
     "speaker": "Anna",
     "text": "Genau. Die zweite Anwendung — öffentliche Dienste.",
-    "t": 143.59
+    "t": 143.09
    },
    {
     "speaker": "Anna",
     "text": "Mit LuxTrust melden Sie sich bei MyGuichet.lu an.",
-    "t": 147.34
+    "t": 146.84
    },
    {
     "speaker": "Anna",
     "text": "So können Sie Ihre Verwaltungsverfahren erledigen und zum Beispiel Ihre Steuererklärung online ausfüllen und unterschreiben.",
-    "t": 151.06
+    "t": 150.56
    },
    {
     "speaker": "Tom",
     "text": "Das ist die Verbindung zu unserer MyGuichet-Folge.",
-    "t": 157.71
+    "t": 157.21
    },
    {
     "speaker": "Tom",
     "text": "Okay, die dritte?",
-    "t": 160.56
+    "t": 160.06
    },
    {
     "speaker": "Anna",
     "text": "Die dritte ist eine schöne — die elektronische Signatur.",
-    "t": 162.17
+    "t": 161.67
    },
    {
     "speaker": "Anna",
     "text": "Mit LuxTrust können Sie ein Dokument elektronisch unterschreiben.",
-    "t": 165.91
+    "t": 165.41
    },
    {
     "speaker": "Anna",
     "text": "Und — das ist der entscheidende Punkt — diese elektronische Signatur hat den gleichen rechtlichen Wert wie eine handschriftliche Unterschrift.",
-    "t": 169.57
+    "t": 169.07
    },
    {
     "speaker": "Tom",
     "text": "Moment, wirklich? Den gleichen rechtlichen Wert wie eine Unterschrift mit dem Stift?",
-    "t": 178.05
+    "t": 177.55
    },
    {
     "speaker": "Anna",
     "text": "Den gleichen. Sie können also einen Vertrag abschließen oder ein offizielles Dokument unterschreiben, von zu Hause aus, ohne irgendetwas zu drucken.",
-    "t": 183.37
+    "t": 182.87
    },
    {
     "speaker": "Tom",
     "text": "Das ist mächtig.",
-    "t": 191.67
+    "t": 191.17
    },
    {
     "speaker": "Tom",
     "text": "Und die vierte Anwendung?",
-    "t": 192.91
+    "t": 192.41
    },
    {
     "speaker": "Anna",
     "text": "Die vierte — Ihre Online-Einkäufe.",
-    "t": 194.44
+    "t": 193.94
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie online einkaufen, kann LuxTrust zusammen mit dem System namens 3D Secure verwendet werden, um zu bestätigen, dass wirklich Sie es sind, der bezahlt.",
-    "t": 196.99
+    "t": 196.49
    },
    {
     "speaker": "Anna",
     "text": "So sind Ihre Kartenzahlungen sicherer.",
-    "t": 206.33
+    "t": 205.83
    },
    {
     "speaker": "Tom",
     "text": "Also, um es zusammenzufassen — Bankgeschäfte, öffentliche Dienste, elektronische Signatur und Online-Zahlungen.",
-    "t": 208.81
+    "t": 208.31
    },
    {
     "speaker": "Anna",
     "text": "Genau das. Eine Identität, für all das.",
-    "t": 216.21
+    "t": 215.71
    },
    {
     "speaker": "Tom",
     "text": "Und kurz — ist es nur für Privatpersonen wie uns?",
-    "t": 219.64
+    "t": 219.14
    },
    {
     "speaker": "Tom",
     "text": "Oder auch für Unternehmen?",
-    "t": 223.08
+    "t": 222.58
    },
    {
     "speaker": "Anna",
     "text": "Heute sprechen wir hauptsächlich über Privatpersonen.",
-    "t": 224.62
+    "t": 224.12
    },
    {
     "speaker": "Anna",
     "text": "Aber ja, Unternehmen nutzen LuxTrust auch — um ihre Kunden zu identifizieren, um Dokumente zu unterschreiben und zu siegeln, und um ihre Abläufe zu sichern.",
-    "t": 227.53
+    "t": 227.03
    },
    {
     "speaker": "Anna",
     "text": "Aber für Sie, als Einwohner oder Grenzgänger, sind die persönlichen Anwendungen am wichtigsten.",
-    "t": 237.33
+    "t": 236.83
    },
    {
     "speaker": "Tom",
     "text": "Perfekt. Jetzt der praktische Teil.",
-    "t": 242.45
+    "t": 241.95
    },
    {
     "speaker": "Tom",
     "text": "Wie funktioniert es eigentlich, wenn ich es benutze?",
-    "t": 244.96
+    "t": 244.46
    },
    {
     "speaker": "Anna",
     "text": "Nehmen wir das Beispiel der Anmeldung bei Ihrer Bank.",
-    "t": 247.77
+    "t": 247.27
    },
    {
     "speaker": "Anna",
     "text": "Schritt eins — Sie verbinden sich mit der Website oder der App Ihrer Bank.",
-    "t": 250.6
+    "t": 250.1
    },
    {
     "speaker": "Anna",
     "text": "Schritt zwei — Sie wählen Ihr LuxTrust-Gerät.",
-    "t": 255.04
+    "t": 254.54
    },
    {
     "speaker": "Anna",
     "text": "Schritt drei — Sie geben Ihre Benutzer-ID und Ihr Passwort ein.",
-    "t": 258.5
+    "t": 258
    },
    {
     "speaker": "Anna",
     "text": "Oder, wenn Sie ein kartenbasiertes Gerät haben, Ihren PIN-Code.",
-    "t": 262.93
+    "t": 262.43
    },
    {
     "speaker": "Anna",
     "text": "Und Schritt vier — Sie erzeugen ein Einmalpasswort, ein OTP — einen Code, der nur einmal funktioniert — und das gibt Ihnen Zugang.",
-    "t": 266.77
+    "t": 266.27
    },
    {
     "speaker": "Tom",
     "text": "Ein Einmalpasswort. Also jedes Mal ein neuer Code.",
-    "t": 275.72
+    "t": 275.22
    },
    {
     "speaker": "Anna",
     "text": "Jedes Mal. Das macht es sicher.",
-    "t": 279.14
+    "t": 278.64
    },
    {
     "speaker": "Anna",
     "text": "Mit der LuxTrust-App passiert das alles mit ein paar Berührungen auf Ihrem Telefon.",
-    "t": 281.77
+    "t": 281.27
    },
    {
     "speaker": "Tom",
     "text": "Apropos — was sind die verschiedenen LuxTrust-Produkte?",
-    "t": 286.51
+    "t": 286.01
    },
    {
     "speaker": "Tom",
     "text": "Denn ich glaube, es gibt eine Auswahl.",
-    "t": 289.8
+    "t": 289.3
    },
    {
     "speaker": "Anna",
     "text": "Die gibt es.",
-    "t": 291.87
+    "t": 291.37
    },
    {
     "speaker": "Anna",
     "text": "Für eine Privatperson gibt es drei Hauptprodukte.",
-    "t": 292.91
+    "t": 292.41
    },
    {
     "speaker": "Anna",
     "text": "Das erste, und heute das beliebteste — die LuxTrust-Mobile-App.",
-    "t": 295.77
+    "t": 295.27
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine hundertprozentig mobile Lösung.",
-    "t": 300.23
+    "t": 299.73
    },
    {
     "speaker": "Anna",
     "text": "Alles passiert auf Ihrem Smartphone.",
-    "t": 302.88
+    "t": 302.38
    },
    {
     "speaker": "Tom",
     "text": "Also kein zusätzliches Gerät zum Mitnehmen.",
-    "t": 305.16
+    "t": 304.66
    },
    {
     "speaker": "Tom",
     "text": "Nur mein Telefon.",
-    "t": 307.77
+    "t": 307.27
    },
    {
     "speaker": "Anna",
     "text": "Nur Ihr Telefon.",
-    "t": 309.05
+    "t": 308.55
    },
    {
     "speaker": "Anna",
     "text": "Das zweite Produkt ist der Scan — ein kleines physisches Gerät, mit einem kleinen Bildschirm und einer Kamera, das Ihre Codes erzeugt.",
-    "t": 310.36
+    "t": 309.86
    },
    {
     "speaker": "Anna",
     "text": "Und das dritte ist die SmartCard — eine Chipkarte, wie eine Bankkarte.",
-    "t": 317.94
+    "t": 317.44
    },
    {
     "speaker": "Anna",
     "text": "Aber um die SmartCard zu nutzen, brauchen Sie ein Kartenlesegerät und eine Software auf Ihrem Computer.",
-    "t": 322.72
+    "t": 322.22
    },
    {
     "speaker": "Tom",
     "text": "Und welches sollten die meisten Menschen wählen?",
-    "t": 328.32
+    "t": 327.82
    },
    {
     "speaker": "Anna",
     "text": "Für die meisten Menschen ist heute die App am einfachsten.",
-    "t": 330.74
+    "t": 330.24
    },
    {
     "speaker": "Anna",
     "text": "Und hier ein wichtiger Hinweis — der alte LuxTrust Token, das kleine Gerät, das viele Menschen an ihrem Schlüsselbund hatten, wurde Ende 2024 eingestellt.",
-    "t": 333.7
+    "t": 333.2
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie also noch einen alten Token haben, ist es Zeit, auf die App umzusteigen.",
-    "t": 343.63
+    "t": 343.13
    },
    {
     "speaker": "Tom",
     "text": "Gut zu wissen.",
-    "t": 348.07
+    "t": 347.57
    },
    {
     "speaker": "Tom",
     "text": "Und — ungefähr — was kostet es?",
-    "t": 349.14
+    "t": 348.64
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein kostenpflichtiger Dienst, drei Jahre gültig.",
-    "t": 351.56
+    "t": 351.06
    },
    {
     "speaker": "Anna",
     "text": "Als grobe Vorstellung: Die App beginnt bei etwa fünfzig Euro für drei Jahre, und die physischen Geräte kosten ein bisschen mehr.",
-    "t": 355.09
+    "t": 354.59
    },
    {
     "speaker": "Anna",
     "text": "Aber bitte prüfen Sie die genauen Preise auf luxtrust.com, denn sie können sich ändern.",
-    "t": 362.64
+    "t": 362.14
    },
    {
     "speaker": "Tom",
     "text": "Immer die Website für den genauen Preis prüfen.",
-    "t": 368.05
+    "t": 367.55
    },
    {
     "speaker": "Tom",
     "text": "Okay, Anna — jetzt die große praktische Frage.",
-    "t": 370.55
+    "t": 370.05
    },
    {
     "speaker": "Tom",
     "text": "Ich bin neu hier, ich habe noch nichts.",
-    "t": 373.71
+    "t": 373.21
    },
    {
     "speaker": "Tom",
     "text": "Wie bekomme ich eine LuxTrust-Identität?",
-    "t": 375.89
+    "t": 375.39
    },
    {
     "speaker": "Tom",
     "text": "Schritt für Schritt.",
-    "t": 378.65
+    "t": 378.15
    },
    {
     "speaker": "Anna",
     "text": "Fünf Schritte. Schritt eins — wählen Sie das richtige Produkt für sich, zum Beispiel die App.",
-    "t": 379.88
+    "t": 379.38
    },
    {
     "speaker": "Anna",
     "text": "Schritt zwei — geben Sie Ihre Bestellung auf.",
-    "t": 386.22
+    "t": 385.72
    },
    {
     "speaker": "Anna",
     "text": "Sie können online bestellen, auf der LuxTrust-Website, oder über Ihre Bank.",
-    "t": 389.28
+    "t": 388.78
    },
    {
     "speaker": "Tom",
     "text": "Ah, also kann meine Bank es für mich einrichten.",
-    "t": 393.63
+    "t": 393.13
    },
    {
     "speaker": "Anna",
     "text": "Sehr oft, ja — viele Menschen bekommen ihr LuxTrust über ihre Bank.",
-    "t": 396.47
+    "t": 395.97
    },
    {
     "speaker": "Anna",
     "text": "Schritt drei, und dieser ist wichtig — Sie müssen sich identifizieren lassen.",
-    "t": 401.48
+    "t": 400.98
    },
    {
     "speaker": "Anna",
     "text": "Da sie einen Nachweis Ihrer Identität erstellen, müssen sie prüfen, wer Sie sind.",
-    "t": 406.47
+    "t": 405.97
    },
    {
     "speaker": "Anna",
     "text": "Das können Sie persönlich machen, mit einem ihrer Mitarbeiter.",
-    "t": 411.29
+    "t": 410.79
    },
    {
     "speaker": "Anna",
     "text": "Oder aus der Ferne, durch eine Video-Identifizierung.",
-    "t": 414.47
+    "t": 413.97
    },
    {
     "speaker": "Tom",
     "text": "Also ein bisschen wie das Eröffnen eines Bankkontos.",
-    "t": 417.91
+    "t": 417.41
    },
    {
     "speaker": "Tom",
     "text": "Sie überprüfen, dass ich es wirklich bin.",
-    "t": 420.89
+    "t": 420.39
    },
    {
     "speaker": "Anna",
     "text": "Genau. Schritt vier — Sie erhalten Ihre LuxTrust-Codes, und Ihr Gerät, falls Sie eines bestellt haben.",
-    "t": 423.18
+    "t": 422.68
    },
    {
     "speaker": "Anna",
     "text": "Und Schritt fünf — Sie aktivieren Ihre Identität.",
-    "t": 430.06
+    "t": 429.56
    },
    {
     "speaker": "Anna",
     "text": "Danach ist Ihre digitale Identität drei Jahre gültig.",
-    "t": 433.87
+    "t": 433.37
    },
    {
     "speaker": "Tom",
     "text": "Bleiben wir bei diesem letzten Schritt — der Aktivierung.",
-    "t": 437.7
+    "t": 437.2
    },
    {
     "speaker": "Tom",
     "text": "Was muss ich bereithalten?",
-    "t": 440.87
+    "t": 440.37
    },
    {
     "speaker": "Anna",
     "text": "Gute Frage. Bevor Sie anfangen, halten Sie diese Dinge bereit.",
-    "t": 442.48
+    "t": 441.98
    },
    {
     "speaker": "Anna",
     "text": "Ihre Benutzer-ID — die erhalten Sie per Brief, oder per SMS.",
-    "t": 446.66
+    "t": 446.16
    },
    {
     "speaker": "Anna",
     "text": "Ihr anfängliches Passwort — auch per Brief oder SMS.",
-    "t": 452.14
+    "t": 451.64
    },
    {
     "speaker": "Anna",
     "text": "Ihr Gerät, falls Sie eines haben.",
-    "t": 456.43
+    "t": 455.93
    },
    {
     "speaker": "Anna",
     "text": "Und Ihren Aktivierungscode.",
-    "t": 458.83
+    "t": 458.33
    },
    {
     "speaker": "Tom",
     "text": "Der Aktivierungscode — woher kommt der?",
-    "t": 460.96
+    "t": 460.46
    },
    {
     "speaker": "Anna",
     "text": "Den haben Sie eigentlich selbst gewählt, bei der Bestellung.",
-    "t": 463.58
+    "t": 463.08
    },
    {
     "speaker": "Anna",
     "text": "Man rät Ihnen normalerweise, die letzten fünf Zeichen Ihrer Personalausweis- oder Reisepassnummer zu verwenden.",
-    "t": 466.51
+    "t": 466.01
    },
    {
     "speaker": "Anna",
     "text": "Und Sie finden ihn auch in der Bestellbestätigung, die Ihnen per E-Mail geschickt wird.",
-    "t": 472.8
+    "t": 472.3
    },
    {
     "speaker": "Tom",
     "text": "Okay. Und wie läuft die Aktivierung selbst ab?",
-    "t": 477.07
+    "t": 476.57
    },
    {
     "speaker": "Anna",
     "text": "Das hängt vom Produkt ab.",
-    "t": 479.99
+    "t": 479.49
    },
    {
     "speaker": "Anna",
     "text": "Bei der Mobile-App aktivieren Sie sie direkt auf Ihrem Smartphone, indem Sie der Anleitung folgen.",
-    "t": 481.51
+    "t": 481.01
    },
    {
     "speaker": "Anna",
     "text": "Beim Scan dauert es etwa sechs Minuten — Sie folgen den Schritten, scannen ein paar QR-Codes, und legen ein neues, starkes Passwort fest.",
-    "t": 486.6
+    "t": 486.1
    },
    {
     "speaker": "Anna",
     "text": "Bei der SmartCard ist es etwas länger, etwa zwanzig Minuten, weil Sie zuerst die Software, die sogenannte Middleware, auf Ihrem Computer installieren.",
-    "t": 495.37
+    "t": 494.87
    },
    {
     "speaker": "Tom",
     "text": "Und sobald ich die Aktivierung abgeschlossen habe — kann ich es sofort benutzen?",
-    "t": 504.19
+    "t": 503.69
    },
    {
     "speaker": "Anna",
     "text": "Fast. Eine kleine Sache zum Merken — wenn Sie die SmartCard haben, ist das Zertifikat erst etwa vier Stunden nach der Aktivierung nutzbar.",
-    "t": 508.52
+    "t": 508.02
    },
    {
     "speaker": "Anna",
     "text": "Aktivieren Sie es also nicht fünf Minuten, bevor Sie es brauchen.",
-    "t": 516.92
+    "t": 516.42
    },
    {
     "speaker": "Anna",
     "text": "Machen Sie es ein bisschen im Voraus.",
-    "t": 520.53
+    "t": 520.03
    },
    {
     "speaker": "Tom",
     "text": "Sehr praktischer Tipp.",
-    "t": 522.84
+    "t": 522.34
    },
    {
     "speaker": "Tom",
     "text": "Aktivieren Sie es am Abend davor, nicht in letzter Minute.",
-    "t": 524.35
+    "t": 523.85
    },
    {
     "speaker": "Anna",
     "text": "Genau.",
-    "t": 527.86
+    "t": 527.36
    },
    {
     "speaker": "Tom",
     "text": "Jetzt, Anna — das ist eine digitale Identität, das ist sensibel.",
-    "t": 528.77
+    "t": 528.27
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir über Sicherheit.",
-    "t": 533.16
+    "t": 532.66
    },
    {
     "speaker": "Tom",
     "text": "Über Betrug.",
-    "t": 534.84
+    "t": 534.34
    },
    {
     "speaker": "Anna",
     "text": "Ja, das ist wirklich wichtig.",
-    "t": 536.04
+    "t": 535.54
    },
    {
     "speaker": "Anna",
     "text": "Es gibt Phishing-Versuche — gefälschte Nachrichten, gefälschte Anrufe, die vorgeben, LuxTrust zu sein.",
-    "t": 538.1
+    "t": 537.6
    },
    {
     "speaker": "Anna",
     "text": "Merken Sie sich also ein paar Regeln.",
-    "t": 544.44
+    "t": 543.94
    },
    {
     "speaker": "Anna",
     "text": "LuxTrust wird Sie niemals nach Ihren Codes oder Ihren Zugangsdaten fragen.",
-    "t": 546.57
+    "t": 546.07
    },
    {
     "speaker": "Anna",
     "text": "Niemals.",
-    "t": 550.83
+    "t": 550.33
    },
    {
     "speaker": "Tom",
     "text": "Niemals die Codes herausgeben.",
-    "t": 552.03
+    "t": 551.53
    },
    {
     "speaker": "Tom",
     "text": "Selbst wenn es offiziell aussieht?",
-    "t": 553.91
+    "t": 553.41
    },
    {
     "speaker": "Anna",
     "text": "Selbst dann. Und noch mehr — LuxTrust wird Sie niemals anrufen, um nach sensiblen Informationen zu fragen.",
-    "t": 555.91
+    "t": 555.41
    },
    {
     "speaker": "Anna",
     "text": "Sie werden Sie niemals bitten, eine Zahlung oder eine Bankoperation zu bestätigen.",
-    "t": 563.14
+    "t": 562.64
    },
    {
     "speaker": "Anna",
     "text": "Und sie werden niemals zu Ihnen nach Hause kommen.",
-    "t": 567.68
+    "t": 567.18
    },
    {
     "speaker": "Tom",
     "text": "Also wenn jemand eines dieser Dinge tut, ist es Betrug.",
-    "t": 570.47
+    "t": 569.97
    },
    {
     "speaker": "Anna",
     "text": "Es ist Betrug.",
-    "t": 573.79
+    "t": 573.29
    },
    {
     "speaker": "Anna",
     "text": "Ihre digitale Identität gehört Ihnen, und nur Ihnen.",
-    "t": 575.16
+    "t": 574.66
    },
    {
     "speaker": "Anna",
     "text": "Genau wie Sie Ihre Bankkarte und Ihren PIN nicht einem Kollegen geben, teilen Sie niemals Ihre LuxTrust-Zugangsdaten.",
-    "t": 578.92
+    "t": 578.42
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie im Zweifel sind, kontaktieren Sie LuxTrust direkt, mit der Nummer auf ihrer offiziellen Website.",
-    "t": 585.8
+    "t": 585.3
    },
    {
     "speaker": "Tom",
     "text": "Das ist wieder die goldene Regel — im Zweifel nichts teilen, und direkt nachprüfen.",
-    "t": 591.7
+    "t": 591.2
    },
    {
     "speaker": "Tom",
     "text": "Okay, Anna, machen wir es ganz praktisch für jemanden, der zuhört.",
-    "t": 596.29
+    "t": 595.79
    },
    {
     "speaker": "Tom",
     "text": "Was sollte ich tun?",
-    "t": 600.46
+    "t": 599.96
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie in Luxemburg leben oder arbeiten und es noch nicht haben — holen Sie sich eine LuxTrust-Identität.",
-    "t": 601.78
+    "t": 601.28
    },
    {
     "speaker": "Anna",
     "text": "Der einfachste Weg: Fragen Sie Ihre Bank, oder gehen Sie auf luxtrust.com, wählen Sie die App, bestellen Sie sie, lassen Sie sich identifizieren, und aktivieren Sie sie.",
-    "t": 608.23
+    "t": 607.73
    },
    {
     "speaker": "Anna",
     "text": "Dann können Sie es für Ihre Bank nutzen, für MyGuichet, zum Unterschreiben von Dokumenten, und für Ihre Online-Zahlungen.",
-    "t": 619.67
+    "t": 619.17
    },
    {
     "speaker": "Tom",
     "text": "Eine Identität, für Ihr ganzes digitales Leben hier.",
-    "t": 626.83
+    "t": 626.33
    },
    {
     "speaker": "Tom",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 630.16
+    "t": 629.66
    },
    {
     "speaker": "Anna",
     "text": "Klar. LuxTrust ist Ihre sichere digitale Identität in Luxemburg — wie ein Personalausweis fürs Internet, von einem europäisch zertifizierten Anbieter.",
-    "t": 632.44
+    "t": 631.94
    },
    {
     "speaker": "Anna",
     "text": "Sie nutzen es fürs Online-Banking, für öffentliche Dienste wie MyGuichet, für rechtsgültige elektronische Signaturen, und für Online-Zahlungen.",
-    "t": 642.33
+    "t": 641.83
    },
    {
     "speaker": "Anna",
     "text": "Sie bekommen es über Ihre Bank oder auf luxtrust.com, Sie beweisen Ihre Identität persönlich oder per Video, und Sie aktivieren es — am einfachsten mit der Mobile-App.",
-    "t": 651.02
+    "t": 650.52
    },
    {
     "speaker": "Tom",
     "text": "Und die Sicherheitsbotschaft?",
-    "t": 662.43
+    "t": 661.93
    },
    {
     "speaker": "Anna",
     "text": "LuxTrust fragt niemals nach Ihren Codes, ruft niemals wegen sensibler Daten an, fragt niemals nach Zugang zu Ihren Geräten.",
-    "t": 664.17
+    "t": 663.67
    },
    {
     "speaker": "Anna",
     "text": "Behalten Sie Ihre Zugangsdaten für sich.",
-    "t": 671.62
+    "t": 671.12
    },
    {
     "speaker": "Anna",
     "text": "Im Zweifel auf der offiziellen Website nachprüfen.",
-    "t": 674.23
+    "t": 673.73
    },
    {
     "speaker": "Tom",
     "text": "Wunderbar. Also... Ihre digitale Identität ist der Schlüssel zum täglichen Leben online in Luxemburg.",
-    "t": 677.33
+    "t": 676.83
    },
    {
     "speaker": "Tom",
     "text": "Richten Sie sie einmal ein, und so vieles wird einfacher.",
-    "t": 684.89
+    "t": 684.39
    },
    {
     "speaker": "Anna",
     "text": "Wirklich. Ein kleiner Aufwand zum Einrichten... und dann alles, vom Sofa aus.",
-    "t": 687.92
+    "t": 687.42
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über LuxTrust.",
-    "t": 693.81
+    "t": 693.31
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 696.1
+    "t": 695.6
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 704.7
+    "t": 704.2
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 722.55
+    "t": 722.05
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 728.25
+    "t": 727.75
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 730.5
+    "t": 730
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 735.39
+    "t": 734.89
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 736.54
+    "t": 736.04
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 739.75
+    "t": 739.25
    }
   ],
   "segments_lb": [
@@ -5467,7 +5467,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_luxtrust_fr.mp3",
-  "duration_fr": 623.67,
+  "duration_fr": 623.28,
   "title_fr": "LuxTrust – Votre identité numérique au Luxembourg",
   "description_fr": "Votre identité numérique sécurisée pour la vie quotidienne en ligne au Luxembourg. Ce qu'est LuxTrust et pourquoi c'est important, et à quoi cela sert pour les particuliers — se connecter à la banque en ligne, à MyGuichet et aux services publics, signer des documents avec une signature électronique juridiquement valable, et confirmer des paiements en ligne. Les différents produits comme l'application, Scan et la SmartCard, et comment la commander, se faire identifier par vidéo, l'activer et rester en sécurité. (Brièvement : les entreprises l'utilisent aussi.)",
   "topics_fr": [
@@ -5538,7 +5538,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_luxtrust_de.mp3",
-  "duration_de": 741.28,
+  "duration_de": 740.78,
   "title_de": "LuxTrust – Ihre digitale Identität in Luxemburg",
   "description_de": "Ihre sichere digitale Identität für den Online-Alltag in Luxemburg. Was LuxTrust ist und warum es wichtig ist, und wofür Privatpersonen es nutzen — Anmeldung beim Online-Banking, bei MyGuichet und bei öffentlichen Diensten, das Unterschreiben von Dokumenten mit einer rechtsgültigen elektronischen Signatur und das Bestätigen von Online-Zahlungen. Die verschiedenen Produkte wie die App, Scan und SmartCard, und wie Sie es bestellen, sich per Video identifizieren lassen, aktivieren und sicher bleiben. (Kurz: auch Unternehmen nutzen es.)",
   "topics_de": [
@@ -6372,643 +6372,643 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Anna",
     "text": "Et aujourd'hui, nous parlons d'une belle façon de rencontrer des gens, et de donner quelque chose en retour.",
-    "t": 23.52
+    "t": 23.05
    },
    {
     "speaker": "Anna",
     "text": "Nous parlons du bénévolat.",
-    "t": 28
+    "t": 27.53
    },
    {
     "speaker": "Tom",
     "text": "Le bénévolat. D'accord, Anna... commençons simplement.",
-    "t": 29.6
+    "t": 29.13
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que c'est, au fond ?",
-    "t": 32.85
+    "t": 32.38
    },
    {
     "speaker": "Anna",
     "text": "Alors... le bénévolat, c'est donner le temps que vous voulez — un peu, beaucoup, ou passionnément — pour soutenir une cause et aider les autres.",
-    "t": 34.36
+    "t": 33.89
    },
    {
     "speaker": "Anna",
     "text": "La définition officielle est : un bénévole est une personne qui, de son plein gré et sans être payée, fait quelque chose au service des autres, ou de la communauté.",
-    "t": 40.21
+    "t": 39.74
    },
    {
     "speaker": "Tom",
     "text": "De son plein gré, et sans être payée.",
-    "t": 48.49
+    "t": 48.02
    },
    {
     "speaker": "Tom",
     "text": "Donc c'est un don.",
-    "t": 50.68
+    "t": 50.21
    },
    {
     "speaker": "Tom",
     "text": "Un don de temps.",
-    "t": 51.77
+    "t": 51.3
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Et voici le point essentiel — « le temps que vous voulez ».",
-    "t": 53.05
+    "t": 52.58
    },
    {
     "speaker": "Anna",
     "text": "Vous ne donnez pas toute votre vie.",
-    "t": 56.72
+    "t": 56.25
    },
    {
     "speaker": "Anna",
     "text": "Vous donnez ce que vous pouvez.",
-    "t": 58.36
+    "t": 57.89
    },
    {
     "speaker": "Anna",
     "text": "Et c'est aussi une question de plaisir, de rencontrer des gens qui partagent vos valeurs, et de faire quelque chose que vous aimez.",
-    "t": 59.84
+    "t": 59.37
    },
    {
     "speaker": "Tom",
     "text": "J'aime bien ça.",
-    "t": 65.81
+    "t": 65.34
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas seulement un devoir.",
-    "t": 66.96
+    "t": 66.49
    },
    {
     "speaker": "Tom",
     "text": "C'est aussi un plaisir.",
-    "t": 68.77
+    "t": 68.3
    },
    {
     "speaker": "Tom",
     "text": "Alors dites-moi, Anna — pourquoi le bénévolat est-il si important ?",
-    "t": 70.27
+    "t": 69.8
    },
    {
     "speaker": "Anna",
     "text": "Eh bien... le bénévolat joue un rôle clé dans notre société.",
-    "t": 73.96
+    "t": 73.49
    },
    {
     "speaker": "Anna",
     "text": "Il tient les gens ensemble.",
-    "t": 76.5
+    "t": 76.03
    },
    {
     "speaker": "Anna",
     "text": "Il repose sur des valeurs — la solidarité, la citoyenneté, le respect.",
-    "t": 77.85
+    "t": 77.38
    },
    {
     "speaker": "Anna",
     "text": "Quand les gens donnent leur temps librement, la société devient plus soudée.",
-    "t": 82.08
+    "t": 81.61
    },
    {
     "speaker": "Anna",
     "text": "Plus inclusive.",
-    "t": 85.27
+    "t": 84.8
    },
    {
     "speaker": "Tom",
     "text": "Donc c'est comme... le ciment entre les gens.",
-    "t": 86.52
+    "t": 86.05
    },
    {
     "speaker": "Anna",
     "text": "En effet, et voici un chiffre qui m'a surprise.",
-    "t": 89.03
+    "t": 88.56
    },
    {
     "speaker": "Anna",
     "text": "Au Luxembourg, en 2022, trente-cinq pour cent de la population a fait du bénévolat.",
-    "t": 91.35
+    "t": 90.88
    },
    {
     "speaker": "Tom",
     "text": "Trente-cinq pour cent ?",
-    "t": 95.71
+    "t": 95.24
    },
    {
     "speaker": "Tom",
     "text": "Plus d'une personne sur trois ?",
-    "t": 97.02
+    "t": 96.55
    },
    {
     "speaker": "Anna",
     "text": "Plus d'une sur trois.",
-    "t": 98.65
+    "t": 98.18
    },
    {
     "speaker": "Anna",
     "text": "Et cela place le Luxembourg au quatrième rang de toute l'Europe.",
-    "t": 99.84
+    "t": 99.37
    },
    {
     "speaker": "Anna",
     "text": "Il existe même une Journée internationale du bénévolat chaque année, le cinq décembre.",
-    "t": 102.8
+    "t": 102.33
    },
    {
     "speaker": "Tom",
     "text": "Donc ça fait vraiment partie de la culture ici.",
-    "t": 107.06
+    "t": 106.59
    },
    {
     "speaker": "Anna",
     "text": "Vraiment. Et il y a quelque chose de beau — quand vous faites du bénévolat, vous gagnez aussi pour vous-même.",
-    "t": 109.65
+    "t": 109.18
    },
    {
     "speaker": "Anna",
     "text": "Vous apprenez de nouvelles compétences, vous devenez plus confiant, plus autonome.",
-    "t": 115.1
+    "t": 114.63
    },
    {
     "speaker": "Anna",
     "text": "Vous apprenez à travailler en équipe.",
-    "t": 119.14
+    "t": 118.67
    },
    {
     "speaker": "Anna",
     "text": "Donc vous donnez votre temps, mais vous grandissez aussi.",
-    "t": 120.96
+    "t": 120.49
    },
    {
     "speaker": "Tom",
     "text": "Magnifique. Bon — alors comment le bénévolat est-il organisé ici au Luxembourg ?",
-    "t": 123.79
+    "t": 123.32
    },
    {
     "speaker": "Anna",
     "text": "L'endroit central à connaître, c'est l'Agence du Bénévolat.",
-    "t": 128.66
+    "t": 128.19
    },
    {
     "speaker": "Anna",
     "text": "Depuis 2002, sa mission est de promouvoir et de développer le bénévolat au Luxembourg.",
-    "t": 131.25
+    "t": 130.78
    },
    {
     "speaker": "Anna",
     "text": "Et la chose la plus utile pour un auditeur, c'est son site internet — benevolat.lu.",
-    "t": 135.51
+    "t": 135.04
    },
    {
     "speaker": "Tom",
     "text": "benevolat.lu. Super !",
-    "t": 140.34
+    "t": 139.87
    },
    {
     "speaker": "Tom",
     "text": "Et qu'est-ce que je trouve sur ce site ?",
-    "t": 143.25
+    "t": 142.78
    },
    {
     "speaker": "Anna",
     "text": "C'est un point de rencontre.",
-    "t": 145.17
+    "t": 144.7
    },
    {
     "speaker": "Anna",
     "text": "D'un côté, les organisations, les communes ou les entreprises qui cherchent de l'aide.",
-    "t": 146.64
+    "t": 146.17
    },
    {
     "speaker": "Anna",
     "text": "De l'autre, des gens comme vous et moi qui veulent donner un peu de temps.",
-    "t": 150.39
+    "t": 149.92
    },
    {
     "speaker": "Anna",
     "text": "La plateforme met les deux en relation.",
-    "t": 153.29
+    "t": 152.82
    },
    {
     "speaker": "Anna",
     "text": "Ils ont même ajouté un système de mise en relation intelligent — il regarde vos centres d'intérêt et vos compétences, et vous propose des missions qui pourraient vous intéresser.",
-    "t": 155.22
+    "t": 154.75
    },
    {
     "speaker": "Tom",
     "text": "Et le choix est grand ?",
-    "t": 163.25
+    "t": 162.78
    },
    {
     "speaker": "Anna",
     "text": "Très grand. La santé.",
-    "t": 164.64
+    "t": 164.17
    },
    {
     "speaker": "Anna",
     "text": "L'aide humanitaire. L'environnement.",
-    "t": 166.11
+    "t": 165.64
    },
    {
     "speaker": "Anna",
     "text": "Le vivre-ensemble — la solidarité et l'inclusion.",
-    "t": 168.1
+    "t": 167.63
    },
    {
     "speaker": "Anna",
     "text": "La culture. L'éducation.",
-    "t": 170.88
+    "t": 170.41
    },
    {
     "speaker": "Anna",
     "text": "Le travail social et relationnel.",
-    "t": 172.76
+    "t": 172.29
    },
    {
     "speaker": "Anna",
     "text": "Les loisirs. Le sport.",
-    "t": 174.62
+    "t": 174.15
    },
    {
     "speaker": "Anna",
     "text": "Les animaux. Les secours d'urgence.",
-    "t": 176.34
+    "t": 175.87
    },
    {
     "speaker": "Anna",
     "text": "Par exemple, derrière chaque club sportif au Luxembourg, il y a des bénévoles qui le font tourner.",
-    "t": 178.42
+    "t": 177.95
    },
    {
     "speaker": "Anna",
     "text": "Et dans certains hôpitaux, des bénévoles sont simplement là, auprès des patients.",
-    "t": 182.71
+    "t": 182.24
    },
    {
     "speaker": "Anna",
     "text": "Pour parler. Pour tenir compagnie.",
-    "t": 186.34
+    "t": 185.87
    },
    {
     "speaker": "Tom",
     "text": "C'est touchant. Simplement être là pour quelqu'un.",
-    "t": 188.75
+    "t": 188.28
    },
    {
     "speaker": "Anna",
     "text": "Et c'est partout dans le pays.",
-    "t": 191.68
+    "t": 191.21
    },
    {
     "speaker": "Anna",
     "text": "La plateforme couvre toutes les régions — de Luxembourg-Ville à Esch, de Diekirch à Wiltz.",
-    "t": 193.11
+    "t": 192.64
    },
    {
     "speaker": "Anna",
     "text": "Il y a même une carte, pour trouver quelque chose près de chez vous.",
-    "t": 198.23
+    "t": 197.76
    },
    {
     "speaker": "Tom",
     "text": "Bon, Anna — voici la partie que je veux vraiment souligner.",
-    "t": 201.18
+    "t": 200.71
    },
    {
     "speaker": "Tom",
     "text": "Parce que certaines personnes entendent « bénévolat » et prennent peur.",
-    "t": 204.4
+    "t": 203.93
    },
    {
     "speaker": "Tom",
     "text": "Elles se disent : « Je n'ai pas le temps.",
-    "t": 208.11
+    "t": 207.64
    },
    {
     "speaker": "Tom",
     "text": "Je ne peux pas m'engager pour des années. »",
-    "t": 210.28
+    "t": 209.81
    },
    {
     "speaker": "Anna",
     "text": "Oui — et c'est tellement important.",
-    "t": 212.37
+    "t": 211.9
    },
    {
     "speaker": "Anna",
     "text": "Alors laissez-moi être très clair.",
-    "t": 214.36
+    "t": 213.89
    },
    {
     "speaker": "Anna",
     "text": "Vous n'avez PAS besoin de vous engager pour longtemps.",
-    "t": 216.36
+    "t": 215.89
    },
    {
     "speaker": "Anna",
     "text": "Rappelez-vous la définition — vous donnez le temps que vous voulez.",
-    "t": 218.7
+    "t": 218.23
    },
    {
     "speaker": "Anna",
     "text": "Un peu, beaucoup, ou passionnément.",
-    "t": 221.63
+    "t": 221.16
    },
    {
     "speaker": "Anna",
     "text": "C'est votre choix.",
-    "t": 223.63
+    "t": 223.16
    },
    {
     "speaker": "Tom",
     "text": "Donc il y a des missions courtes ?",
-    "t": 224.81
+    "t": 224.34
    },
    {
     "speaker": "Tom",
     "text": "Des missions ponctuelles ?",
-    "t": 226.55
+    "t": 226.08
    },
    {
     "speaker": "Anna",
     "text": "Oui — plein. Sur benevolat.lu, beaucoup de missions sont juste pour un seul événement, ou une seule journée.",
-    "t": 228.09
+    "t": 227.62
    },
    {
     "speaker": "Anna",
     "text": "Par exemple : aider à un gala sportif pendant un week-end.",
-    "t": 233.37
+    "t": 232.9
    },
    {
     "speaker": "Anna",
     "text": "Être signaleur pour une journée lors d'une course cycliste.",
-    "t": 236.61
+    "t": 236.14
    },
    {
     "speaker": "Anna",
     "text": "Donner un coup de main à une fête d'été.",
-    "t": 239.42
+    "t": 238.95
    },
    {
     "speaker": "Anna",
     "text": "Ou fabriquer des décorations de Noël.",
-    "t": 241.39
+    "t": 240.92
    },
    {
     "speaker": "Tom",
     "text": "Donc des petites choses concrètes.",
-    "t": 243.52
+    "t": 243.05
    },
    {
     "speaker": "Tom",
     "text": "Quelques heures. Une journée.",
-    "t": 245.39
+    "t": 244.92
    },
    {
     "speaker": "Tom",
     "text": "Un week-end.",
-    "t": 247.29
+    "t": 246.82
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Vous pouvez aider pendant un après-midi, et c'est déjà merveilleux.",
-    "t": 248.45
+    "t": 247.98
    },
    {
     "speaker": "Anna",
     "text": "Vous ne signez pas un contrat de dix ans.",
-    "t": 252.47
+    "t": 252
    },
    {
     "speaker": "Anna",
     "text": "Vous donnez un moment de votre temps, et ça aide vraiment.",
-    "t": 254.37
+    "t": 253.9
    },
    {
     "speaker": "Tom",
     "text": "D'accord. Je suis convaincu.",
-    "t": 257.3
+    "t": 256.83
    },
    {
     "speaker": "Tom",
     "text": "Comment je commence concrètement ?",
-    "t": 259.29
+    "t": 258.82
    },
    {
     "speaker": "Tom",
     "text": "Étape par étape.",
-    "t": 260.89
+    "t": 260.42
    },
    {
     "speaker": "Anna",
     "text": "L'Agence propose une méthode simple.",
-    "t": 262.43
+    "t": 261.96
    },
    {
     "speaker": "Anna",
     "text": "Première étape — réfléchissez d'abord à ce que vous aimez.",
-    "t": 264.35
+    "t": 263.88
    },
    {
     "speaker": "Anna",
     "text": "Faites une petite liste.",
-    "t": 267.15
+    "t": 266.68
    },
    {
     "speaker": "Anna",
     "text": "Quelle cause vous touche ?",
-    "t": 268.51
+    "t": 268.04
    },
    {
     "speaker": "Anna",
     "text": "Les animaux, l'aide aux devoirs pour les enfants, l'environnement ?",
-    "t": 269.74
+    "t": 269.27
    },
    {
     "speaker": "Anna",
     "text": "Quel type d'activité — accueillir des gens, quelque chose de manuel ou de créatif ?",
-    "t": 273.02
+    "t": 272.55
    },
    {
     "speaker": "Anna",
     "text": "Quel groupe aimeriez-vous aider — les enfants, les personnes âgées, les personnes en situation de handicap ?",
-    "t": 277.41
+    "t": 276.94
    },
    {
     "speaker": "Anna",
     "text": "Et enfin, où, et combien de temps vous voulez donner.",
-    "t": 283.19
+    "t": 282.72
    },
    {
     "speaker": "Tom",
     "text": "Ah, malin. Donc je comprends d'abord ce qui me convient.",
-    "t": 285.97
+    "t": 285.5
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Parce qu'un bénévole heureux, c'est quelqu'un qui fait quelque chose qu'il aime.",
-    "t": 289.02
+    "t": 288.55
    },
    {
     "speaker": "Anna",
     "text": "Deuxième étape — vous allez sur benevolat.lu et vous vous inscrivez sur le portail.",
-    "t": 293.12
+    "t": 292.65
    },
    {
     "speaker": "Anna",
     "text": "C'est gratuit. Ensuite, vous parcourez le répertoire des missions, vous filtrez par région ou par domaine, et quand vous en trouvez une qui vous plaît, vous proposez directement votre aide.",
-    "t": 297.6
+    "t": 297.13
    },
    {
     "speaker": "Anna",
     "text": "L'organisation, la commune ou l'entreprise vous contacte ensuite.",
-    "t": 306.27
+    "t": 305.8
    },
    {
     "speaker": "Tom",
     "text": "Donc trois mouvements.",
-    "t": 309.56
+    "t": 309.09
    },
    {
     "speaker": "Tom",
     "text": "Réfléchir à ce que j'aime.",
-    "t": 310.85
+    "t": 310.38
    },
    {
     "speaker": "Tom",
     "text": "M'inscrire sur benevolat.lu.",
-    "t": 312.38
+    "t": 311.91
    },
    {
     "speaker": "Tom",
     "text": "Proposer mon aide.",
-    "t": 314.74
+    "t": 314.27
    },
    {
     "speaker": "Anna",
     "text": "C'est ça. Et si vous préférez parler à un être humain, vous pouvez contacter l'Agence directement — elle se trouve avenue Guillaume à Luxembourg-Ville, et vous pouvez la joindre par téléphone au 26 12 10.",
-    "t": 316.13
+    "t": 315.66
    },
    {
     "speaker": "Tom",
     "text": "Super. Bon, Anna, un petit résumé ?",
-    "t": 325.83
+    "t": 325.36
    },
    {
     "speaker": "Anna",
     "text": "Le bénévolat, c'est donner le temps que vous voulez, librement, pour aider les autres.",
-    "t": 328.49
+    "t": 328.02
    },
    {
     "speaker": "Anna",
     "text": "C'est important parce que ça tient notre société ensemble — et au Luxembourg, plus d'une personne sur trois en fait.",
-    "t": 332.24
+    "t": 331.77
    },
    {
     "speaker": "Anna",
     "text": "L'endroit central, c'est l'Agence du Bénévolat, et son site benevolat.lu, où les associations et les bénévoles se rencontrent, dans toutes les régions.",
-    "t": 337.32
+    "t": 336.85
    },
    {
     "speaker": "Tom",
     "text": "Et le message le plus important d'aujourd'hui ?",
-    "t": 345.2
+    "t": 344.73
    },
    {
     "speaker": "Anna",
     "text": "Vous n'avez pas besoin d'un engagement long.",
-    "t": 347.45
+    "t": 346.98
    },
    {
     "speaker": "Anna",
     "text": "Il y a des missions courtes — un après-midi, une journée, un événement.",
-    "t": 349.41
+    "t": 348.94
    },
    {
     "speaker": "Anna",
     "text": "Pour commencer : réfléchissez à ce que vous aimez, inscrivez-vous sur benevolat.lu, et proposez votre aide.",
-    "t": 353.19
+    "t": 352.72
    },
    {
     "speaker": "Tom",
     "text": "Alors... n'ayez pas peur d'essayer.",
-    "t": 359.38
+    "t": 358.91
    },
    {
     "speaker": "Tom",
     "text": "Même une petite action fait la différence — et c'est une merveilleuse façon de rencontrer des gens et de se sentir chez soi au Luxembourg.",
-    "t": 361.71
+    "t": 361.24
    },
    {
     "speaker": "Anna",
     "text": "Vraiment. Commencez petit.",
-    "t": 368.52
+    "t": 368.05
    },
    {
     "speaker": "Anna",
     "text": "Un après-midi. Vous verrez.",
-    "t": 370.58
+    "t": 370.11
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le bénévolat au Luxembourg.",
-    "t": 372.57
+    "t": 372.1
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 375.12
+    "t": 374.65
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 382.71
+    "t": 382.24
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 398.56
+    "t": 398.09
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 403.21
+    "t": 402.74
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 404.99
+    "t": 404.52
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 409.37
+    "t": 408.9
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 410.6
+    "t": 410.13
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 413.06
+    "t": 412.59
    }
   ],
   "segments_de": [
@@ -7034,668 +7034,668 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Anna",
     "text": "Und heute sprechen wir über eine schöne Möglichkeit, Menschen kennenzulernen und etwas zurückzugeben.",
-    "t": 28.28
+    "t": 27.75
    },
    {
     "speaker": "Anna",
     "text": "Wir sprechen über die Freiwilligenarbeit.",
-    "t": 33.52
+    "t": 32.99
    },
    {
     "speaker": "Tom",
     "text": "Freiwilligenarbeit. Okay, Anna... fangen wir ganz einfach an.",
-    "t": 35.99
+    "t": 35.46
    },
    {
     "speaker": "Tom",
     "text": "Was ist das eigentlich?",
-    "t": 40.67
+    "t": 40.14
    },
    {
     "speaker": "Anna",
     "text": "Also... Freiwilligenarbeit heißt, die Zeit zu geben, die man möchte — ein wenig, viel, oder mit Leidenschaft — um eine gute Sache zu unterstützen und anderen zu helfen.",
-    "t": 42.08
+    "t": 41.55
    },
    {
     "speaker": "Anna",
     "text": "Die offizielle Definition lautet: Ein Freiwilliger ist jemand, der aus freiem Willen, und ohne bezahlt zu werden, etwas im Dienst anderer oder der Gemeinschaft tut.",
-    "t": 53.95
+    "t": 53.42
    },
    {
     "speaker": "Tom",
     "text": "Aus freiem Willen, und ohne bezahlt zu werden.",
-    "t": 63.71
+    "t": 63.18
    },
    {
     "speaker": "Tom",
     "text": "Es ist also ein Geschenk.",
-    "t": 66.55
+    "t": 66.02
    },
    {
     "speaker": "Tom",
     "text": "Ein Geschenk aus Zeit.",
-    "t": 68.12
+    "t": 67.59
    },
    {
     "speaker": "Anna",
     "text": "Genau. Und hier ist der wichtigste Punkt — „die Zeit, die Sie möchten\".",
-    "t": 69.81
+    "t": 69.28
    },
    {
     "speaker": "Anna",
     "text": "Sie geben nicht Ihr ganzes Leben.",
-    "t": 74.95
+    "t": 74.42
    },
    {
     "speaker": "Anna",
     "text": "Sie geben, was Sie können.",
-    "t": 76.93
+    "t": 76.4
    },
    {
     "speaker": "Anna",
     "text": "Und es geht auch darum, Spaß zu haben, Menschen zu treffen, die Ihre Werte teilen, und etwas zu tun, das Ihnen Freude macht.",
-    "t": 78.54
+    "t": 78.01
    },
    {
     "speaker": "Tom",
     "text": "Das gefällt mir.",
-    "t": 85.96
+    "t": 85.43
    },
    {
     "speaker": "Tom",
     "text": "Es ist nicht nur Pflicht.",
-    "t": 87.16
+    "t": 86.63
    },
    {
     "speaker": "Tom",
     "text": "Es ist auch Vergnügen.",
-    "t": 88.71
+    "t": 88.18
    },
    {
     "speaker": "Tom",
     "text": "Also sag mir, Anna — warum ist Freiwilligenarbeit so wichtig?",
-    "t": 90.1
+    "t": 89.57
    },
    {
     "speaker": "Anna",
     "text": "Nun... die Freiwilligenarbeit spielt eine Schlüsselrolle in unserer Gesellschaft.",
-    "t": 93.82
+    "t": 93.29
    },
    {
     "speaker": "Anna",
     "text": "Sie hält die Menschen zusammen.",
-    "t": 98.51
+    "t": 97.98
    },
    {
     "speaker": "Anna",
     "text": "Sie baut auf Werten auf — Solidarität, Bürgersinn, Respekt.",
-    "t": 100.27
+    "t": 99.74
    },
    {
     "speaker": "Anna",
     "text": "Wenn Menschen ihre Zeit freiwillig geben, wird die Gesellschaft verbundener.",
-    "t": 105.12
+    "t": 104.59
    },
    {
     "speaker": "Anna",
     "text": "Inklusiver.",
-    "t": 108.92
+    "t": 108.39
    },
    {
     "speaker": "Tom",
     "text": "Sie ist also wie... der Kitt zwischen den Menschen.",
-    "t": 110.21
+    "t": 109.68
    },
    {
     "speaker": "Anna",
     "text": "In der Tat.",
-    "t": 113.19
+    "t": 112.66
    },
    {
     "speaker": "Anna",
     "text": "Und hier ist eine Zahl, die mich überrascht hat.",
-    "t": 114.36
+    "t": 113.83
    },
    {
     "speaker": "Anna",
     "text": "In Luxemburg haben im Jahr 2022 fünfunddreißig Prozent der Bevölkerung Freiwilligenarbeit geleistet.",
-    "t": 116.84
+    "t": 116.31
    },
    {
     "speaker": "Tom",
     "text": "Fünfunddreißig Prozent? Mehr als jeder Dritte?",
-    "t": 123.69
+    "t": 123.16
    },
    {
     "speaker": "Anna",
     "text": "Mehr als jeder Dritte.",
-    "t": 126.6
+    "t": 126.07
    },
    {
     "speaker": "Anna",
     "text": "Und das bringt Luxemburg auf Platz vier in ganz Europa.",
-    "t": 128.24
+    "t": 127.71
    },
    {
     "speaker": "Anna",
     "text": "Es gibt sogar jedes Jahr einen Internationalen Tag des Ehrenamts, am fünften Dezember.",
-    "t": 131.34
+    "t": 130.81
    },
    {
     "speaker": "Tom",
     "text": "Es gehört hier also wirklich zur Kultur.",
-    "t": 136.5
+    "t": 135.97
    },
    {
     "speaker": "Anna",
     "text": "Das tut es wirklich.",
-    "t": 138.91
+    "t": 138.38
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt etwas Schönes — wenn Sie sich freiwillig engagieren, gewinnen Sie auch selbst.",
-    "t": 140.33
+    "t": 139.8
    },
    {
     "speaker": "Anna",
     "text": "Sie lernen neue Fähigkeiten, Sie werden selbstbewusster, unabhängiger.",
-    "t": 145.07
+    "t": 144.54
    },
    {
     "speaker": "Anna",
     "text": "Sie lernen, im Team zu arbeiten.",
-    "t": 149.79
+    "t": 149.26
    },
    {
     "speaker": "Anna",
     "text": "Sie geben also Ihre Zeit, aber Sie wachsen auch.",
-    "t": 151.9
+    "t": 151.37
    },
    {
     "speaker": "Tom",
     "text": "Wunderbar. Okay — wie ist die Freiwilligenarbeit hier in Luxemburg organisiert?",
-    "t": 154.93
+    "t": 154.4
    },
    {
     "speaker": "Anna",
     "text": "Die zentrale Stelle, die man kennen sollte, ist die Agence du Bénévolat.",
-    "t": 160.25
+    "t": 159.72
    },
    {
     "speaker": "Anna",
     "text": "Die Agentur für Freiwilligenarbeit.",
-    "t": 164.1
+    "t": 163.57
    },
    {
     "speaker": "Anna",
     "text": "Seit 2002 ist es ihre Aufgabe, die Freiwilligenarbeit in Luxemburg zu fördern und weiterzuentwickeln.",
-    "t": 166.27
+    "t": 165.74
    },
    {
     "speaker": "Anna",
     "text": "Und das Nützlichste für unsere Hörer ist ihre Website — benevolat.lu.",
-    "t": 172.79
+    "t": 172.26
    },
    {
     "speaker": "Tom",
     "text": "benevolat.lu. Super!",
-    "t": 178.09
+    "t": 177.56
    },
    {
     "speaker": "Tom",
     "text": "Und was finde ich auf dieser Webseite?",
-    "t": 180.69
+    "t": 180.16
    },
    {
     "speaker": "Anna",
     "text": "Sie ist ein Treffpunkt.",
-    "t": 182.77
+    "t": 182.24
    },
    {
     "speaker": "Anna",
     "text": "Auf der einen Seite die Organisationen, Gemeinden oder Unternehmen, die Hilfe suchen.",
-    "t": 184.27
+    "t": 183.74
    },
    {
     "speaker": "Anna",
     "text": "Auf der anderen Seite Menschen wie Sie und ich, die etwas Zeit geben möchten.",
-    "t": 189.21
+    "t": 188.68
    },
    {
     "speaker": "Anna",
     "text": "Die Plattform bringt beide zusammen.",
-    "t": 193.3
+    "t": 192.77
    },
    {
     "speaker": "Anna",
     "text": "Es gibt sogar ein intelligentes Matching-System — es schaut auf Ihre Interessen und Fähigkeiten und schlägt Ihnen Einsätze vor, die Sie interessieren könnten.",
-    "t": 195.31
+    "t": 194.78
    },
    {
     "speaker": "Tom",
     "text": "Und ist die Auswahl groß?",
-    "t": 204.11
+    "t": 203.58
    },
    {
     "speaker": "Anna",
     "text": "Sehr groß. Gesundheit.",
-    "t": 205.77
+    "t": 205.24
    },
    {
     "speaker": "Anna",
     "text": "Humanitäre Hilfe. Umwelt.",
-    "t": 208
+    "t": 207.47
    },
    {
     "speaker": "Anna",
     "text": "Zusammenleben — Solidarität und Inklusion.",
-    "t": 210.7
+    "t": 210.17
    },
    {
     "speaker": "Anna",
     "text": "Kultur. Bildung. Soziale und zwischenmenschliche Arbeit.",
-    "t": 214.88
+    "t": 214.35
    },
    {
     "speaker": "Anna",
     "text": "Freizeit. Sport. Tiere.",
-    "t": 219.9
+    "t": 219.37
    },
    {
     "speaker": "Anna",
     "text": "Nothilfe. Zum Beispiel: Hinter jedem Sportverein in Luxemburg stehen Freiwillige, die ihn am Laufen halten.",
-    "t": 222.6
+    "t": 222.07
    },
    {
     "speaker": "Anna",
     "text": "Und in manchen Krankenhäusern sind Freiwillige einfach da, nah bei den Patienten.",
-    "t": 229.58
+    "t": 229.05
    },
    {
     "speaker": "Anna",
     "text": "Um zu reden.",
-    "t": 233.94
+    "t": 233.41
    },
    {
     "speaker": "Anna",
     "text": "Um Gesellschaft zu leisten.",
-    "t": 235.08
+    "t": 234.55
    },
    {
     "speaker": "Tom",
     "text": "Das ist schön.",
-    "t": 236.87
+    "t": 236.34
    },
    {
     "speaker": "Tom",
     "text": "Einfach für jemanden da sein.",
-    "t": 237.93
+    "t": 237.4
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt sie überall im Land.",
-    "t": 239.79
+    "t": 239.26
    },
    {
     "speaker": "Anna",
     "text": "Die Plattform deckt alle Regionen ab — von Luxemburg-Stadt über Esch und Diekirch bis Wiltz.",
-    "t": 242
+    "t": 241.47
    },
    {
     "speaker": "Anna",
     "text": "Es gibt sogar eine Karte, damit Sie etwas in der Nähe Ihres Zuhauses finden.",
-    "t": 248.37
+    "t": 247.84
    },
    {
     "speaker": "Tom",
     "text": "Okay, Anna — das ist der Teil, den ich wirklich unterstreichen möchte.",
-    "t": 252.53
+    "t": 252
    },
    {
     "speaker": "Tom",
     "text": "Denn manche Leute hören „Freiwilligenarbeit\" und bekommen Angst.",
-    "t": 256.31
+    "t": 255.78
    },
    {
     "speaker": "Tom",
     "text": "Sie denken: „Ich habe keine Zeit.",
-    "t": 260.23
+    "t": 259.7
    },
    {
     "speaker": "Tom",
     "text": "Ich kann mich nicht für Jahre verpflichten.\"",
-    "t": 262.61
+    "t": 262.08
    },
    {
     "speaker": "Anna",
     "text": "Ja — und das ist so wichtig.",
-    "t": 264.83
+    "t": 264.3
    },
    {
     "speaker": "Anna",
     "text": "Also lassen Sie es mich ganz klar sagen.",
-    "t": 267.11
+    "t": 266.58
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen sich NICHT langfristig verpflichten.",
-    "t": 269.28
+    "t": 268.75
    },
    {
     "speaker": "Anna",
     "text": "Denken Sie an die Definition — Sie geben die Zeit, die Sie möchten.",
-    "t": 271.71
+    "t": 271.18
    },
    {
     "speaker": "Anna",
     "text": "Ein wenig, viel, oder mit Leidenschaft.",
-    "t": 275.84
+    "t": 275.31
    },
    {
     "speaker": "Anna",
     "text": "Es ist Ihre Entscheidung.",
-    "t": 278.79
+    "t": 278.26
    },
    {
     "speaker": "Tom",
     "text": "Es gibt also kurze Einsätze?",
-    "t": 280.55
+    "t": 280.02
    },
    {
     "speaker": "Tom",
     "text": "Einmalige Sachen?",
-    "t": 282.46
+    "t": 281.93
    },
    {
     "speaker": "Anna",
     "text": "Ja — sehr viele.",
-    "t": 283.79
+    "t": 283.26
    },
    {
     "speaker": "Anna",
     "text": "Auf benevolat.lu sind viele Einsätze nur für eine einzige Veranstaltung, oder einen einzigen Tag.",
-    "t": 285.37
+    "t": 284.84
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispiel: bei einer Sportgala ein Wochenende lang helfen.",
-    "t": 291.48
+    "t": 290.95
    },
    {
     "speaker": "Anna",
     "text": "Einen Tag lang Streckenposten bei einem Radrennen sein.",
-    "t": 295.25
+    "t": 294.72
    },
    {
     "speaker": "Anna",
     "text": "Bei einem Sommerfest mithelfen.",
-    "t": 298.66
+    "t": 298.13
    },
    {
     "speaker": "Anna",
     "text": "Oder Weihnachtsdekoration basteln.",
-    "t": 300.54
+    "t": 300.01
    },
    {
     "speaker": "Tom",
     "text": "Also kleine, konkrete Dinge.",
-    "t": 302.83
+    "t": 302.3
    },
    {
     "speaker": "Tom",
     "text": "Ein paar Stunden.",
-    "t": 304.86
+    "t": 304.33
    },
    {
     "speaker": "Tom",
     "text": "Ein Tag. Ein Wochenende.",
-    "t": 306.1
+    "t": 305.57
    },
    {
     "speaker": "Anna",
     "text": "Genau. Sie können einen Nachmittag lang helfen, und das ist schon wunderbar.",
-    "t": 308.09
+    "t": 307.56
    },
    {
     "speaker": "Anna",
     "text": "Sie unterschreiben keinen Vertrag für zehn Jahre.",
-    "t": 312.82
+    "t": 312.29
    },
    {
     "speaker": "Anna",
     "text": "Sie geben einen Moment Ihrer Zeit, und das hilft wirklich.",
-    "t": 315.75
+    "t": 315.22
    },
    {
     "speaker": "Tom",
     "text": "Okay. Ich bin überzeugt.",
-    "t": 319.44
+    "t": 318.91
    },
    {
     "speaker": "Tom",
     "text": "Wie fange ich konkret an?",
-    "t": 321.61
+    "t": 321.08
    },
    {
     "speaker": "Tom",
     "text": "Schritt für Schritt.",
-    "t": 323.17
+    "t": 322.64
    },
    {
     "speaker": "Anna",
     "text": "Die Agence schlägt eine einfache Methode vor.",
-    "t": 324.43
+    "t": 323.9
    },
    {
     "speaker": "Anna",
     "text": "Schritt eins — überlegen Sie zuerst, was Sie mögen.",
-    "t": 327.01
+    "t": 326.48
    },
    {
     "speaker": "Anna",
     "text": "Machen Sie eine kleine Liste.",
-    "t": 330.5
+    "t": 329.97
    },
    {
     "speaker": "Anna",
     "text": "Welche Sache berührt Sie?",
-    "t": 332.26
+    "t": 331.73
    },
    {
     "speaker": "Anna",
     "text": "Tiere, Kindern bei der Schule helfen, die Umwelt?",
-    "t": 333.88
+    "t": 333.35
    },
    {
     "speaker": "Anna",
     "text": "Welche Art von Aktivität — Menschen empfangen, etwas Handwerkliches oder Kreatives?",
-    "t": 337.6
+    "t": 337.07
    },
    {
     "speaker": "Anna",
     "text": "Welcher Gruppe möchten Sie helfen — Kindern, älteren Menschen, Menschen mit einer Behinderung?",
-    "t": 343.28
+    "t": 342.75
    },
    {
     "speaker": "Anna",
     "text": "Und schließlich: wo, und wie viel Zeit Sie geben möchten.",
-    "t": 349.41
+    "t": 348.88
    },
    {
     "speaker": "Tom",
     "text": "Ah, clever. Ich verstehe also zuerst, was zu mir passt.",
-    "t": 352.66
+    "t": 352.13
    },
    {
     "speaker": "Anna",
     "text": "Genau. Denn ein glücklicher Freiwilliger ist einer, der etwas tut, das ihm Freude macht.",
-    "t": 356.21
+    "t": 355.68
    },
    {
     "speaker": "Anna",
     "text": "Schritt zwei — Sie gehen auf benevolat.lu und registrieren sich auf dem Portal.",
-    "t": 362.03
+    "t": 361.5
    },
    {
     "speaker": "Anna",
     "text": "Das ist kostenlos.",
-    "t": 367.99
+    "t": 367.46
    },
    {
     "speaker": "Anna",
     "text": "Dann schauen Sie das Verzeichnis der Einsätze durch, Sie filtern nach Region oder Bereich, und wenn Sie einen finden, der Ihnen gefällt, bieten Sie direkt Ihre Hilfe an.",
-    "t": 369.56
+    "t": 369.03
    },
    {
     "speaker": "Anna",
     "text": "Die Organisation, Gemeinde oder das Unternehmen meldet sich dann bei Ihnen.",
-    "t": 379.01
+    "t": 378.48
    },
    {
     "speaker": "Tom",
     "text": "Also drei Bewegungen.",
-    "t": 383.46
+    "t": 382.93
    },
    {
     "speaker": "Tom",
     "text": "Überlegen, was mir gefällt.",
-    "t": 385.02
+    "t": 384.49
    },
    {
     "speaker": "Tom",
     "text": "Mich auf benevolat.lu registrieren.",
-    "t": 386.65
+    "t": 386.12
    },
    {
     "speaker": "Tom",
     "text": "Meine Hilfe anbieten.",
-    "t": 389.66
+    "t": 389.13
    },
    {
     "speaker": "Anna",
     "text": "Genau so ist es.",
-    "t": 391.12
+    "t": 390.59
    },
    {
     "speaker": "Anna",
     "text": "Und wenn Sie lieber mit einem Menschen sprechen möchten, können Sie die Agence direkt kontaktieren — sie sind in der Avenue Guillaume in Luxemburg-Stadt, und Sie erreichen sie telefonisch unter 261210.",
-    "t": 392.47
+    "t": 391.94
    },
    {
     "speaker": "Tom",
     "text": "Super. Okay, Anna, eine kurze Zusammenfassung?",
-    "t": 404.59
+    "t": 404.06
    },
    {
     "speaker": "Anna",
     "text": "Freiwilligenarbeit heißt, die Zeit zu geben, die man möchte, freiwillig, um anderen zu helfen.",
-    "t": 408
+    "t": 407.47
    },
    {
     "speaker": "Anna",
     "text": "Sie ist wichtig, weil sie unsere Gesellschaft zusammenhält — und in Luxemburg macht mehr als jeder Dritte mit.",
-    "t": 413.31
+    "t": 412.78
    },
    {
     "speaker": "Anna",
     "text": "Die zentrale Stelle ist die Agence du Bénévolat, und ihre Website benevolat.lu, wo sich Vereine und Freiwillige treffen, in jeder Region.",
-    "t": 419.28
+    "t": 418.75
    },
    {
     "speaker": "Tom",
     "text": "Und die wichtigste Botschaft von heute?",
-    "t": 428.28
+    "t": 427.75
    },
    {
     "speaker": "Anna",
     "text": "Sie brauchen keine langfristige Verpflichtung.",
-    "t": 430.48
+    "t": 429.95
    },
    {
     "speaker": "Anna",
     "text": "Es gibt kurze Einsätze — ein Nachmittag, ein Tag, eine Veranstaltung.",
-    "t": 432.91
+    "t": 432.38
    },
    {
     "speaker": "Anna",
     "text": "Um anzufangen: Überlegen Sie, was Ihnen Freude macht, registrieren Sie sich auf benevolat.lu, und bieten Sie Ihre Hilfe an.",
-    "t": 437.72
+    "t": 437.19
    },
    {
     "speaker": "Tom",
     "text": "Also... haben Sie keine Angst, es auszuprobieren.",
-    "t": 446.99
+    "t": 446.46
    },
    {
     "speaker": "Tom",
     "text": "Schon eine kleine Aktion macht einen Unterschied — und es ist eine wunderbare Möglichkeit, Menschen kennenzulernen und sich in Luxemburg zugehörig zu fühlen.",
-    "t": 449.98
+    "t": 449.45
    },
    {
     "speaker": "Anna",
     "text": "Wirklich. Fangen Sie klein an.",
-    "t": 458.66
+    "t": 458.13
    },
    {
     "speaker": "Anna",
     "text": "Ein Nachmittag. Sie werden sehen.",
-    "t": 461.16
+    "t": 460.63
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die Freiwilligenarbeit in Luxemburg.",
-    "t": 463.45
+    "t": 462.92
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 466.92
+    "t": 466.39
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 475.88
+    "t": 475.35
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 493.73
+    "t": 493.2
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 499.43
+    "t": 498.9
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 501.68
+    "t": 501.15
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 506.57
+    "t": 506.04
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 507.72
+    "t": 507.19
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 510.93
+    "t": 510.4
    }
   ],
   "segments_lb": [
@@ -7916,7 +7916,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_benevolat_fr.mp3",
-  "duration_fr": 414.82,
+  "duration_fr": 414.35,
   "title_fr": "Le bénévolat au Luxembourg – Donnez le temps que vous voulez",
   "description_fr": "Une façon flexible et enrichissante de rencontrer des gens et de donner quelque chose à sa communauté. Ce que le bénévolat signifie vraiment et pourquoi il compte au Luxembourg, où environ 35 % des gens y participent. Comment l'Agence du Bénévolat et la plateforme benevolat.lu vous mettent en relation avec les organisations — avec un système de mise en relation intelligent et des missions dans toutes les régions — comment vous pouvez commencer par des missions courtes et ponctuelles, sans engagement à long terme, et trois étapes simples pour débuter.",
   "topics_fr": [
@@ -7987,7 +7987,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_benevolat_de.mp3",
-  "duration_de": 512.47,
+  "duration_de": 511.95,
   "title_de": "Freiwilligenarbeit in Luxemburg – Schenken Sie die Zeit, die Sie möchten",
   "description_de": "Eine flexible, bereichernde Möglichkeit, Menschen kennenzulernen und der Gemeinschaft etwas zurückzugeben. Was Freiwilligenarbeit wirklich bedeutet und warum sie in Luxemburg wichtig ist, wo rund 35 % der Menschen mitmachen. Wie die Agence du Bénévolat und die Plattform benevolat.lu Sie mit Organisationen verbinden — mit einem intelligenten Matching-System und Einsätzen in jeder Region — wie Sie mit kurzen, einmaligen Einsätzen und ohne langfristige Verpflichtung anfangen können, und drei einfache Schritte für den Start.",
   "topics_de": [
@@ -8795,538 +8795,538 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et le sujet d'aujourd'hui s'adresse à tous ceux qui ont des enfants, ou qui vont bientôt en avoir.",
-    "t": 23.73
+    "t": 23.07
    },
    {
     "speaker": "Tom",
     "text": "C'est un service qui s'appelle l'Eltereforum.",
-    "t": 29.17
+    "t": 28.51
    },
    {
     "speaker": "Anna",
     "text": "Eltereforum. D'accord, Tom — c'est un mot luxembourgeois.",
-    "t": 31.97
+    "t": 31.31
    },
    {
     "speaker": "Anna",
     "text": "Commençons par là.",
-    "t": 35.29
+    "t": 34.63
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que ça veut dire ?",
-    "t": 36.36
+    "t": 35.7
    },
    {
     "speaker": "Tom",
     "text": "Alors... « Elteren » veut dire « parents », et « Forum » désigne un lieu pour se rencontrer et discuter.",
-    "t": 37.74
+    "t": 37.08
    },
    {
     "speaker": "Tom",
     "text": "Donc Eltereforum, c'est littéralement un « forum des parents ».",
-    "t": 43.85
+    "t": 43.19
    },
    {
     "speaker": "Anna",
     "text": "Un forum des parents.",
-    "t": 47.34
+    "t": 46.68
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est un lieu pour les parents.",
-    "t": 48.54
+    "t": 47.88
    },
    {
     "speaker": "Tom",
     "text": "Exactement. La description officielle est très engageante.",
-    "t": 50.3
+    "t": 49.64
    },
    {
     "speaker": "Tom",
     "text": "Les forums des parents sont des lieux accueillants d'échange, d'information et de soutien — pour tous les parents.",
-    "t": 53.63
+    "t": 52.97
    },
    {
     "speaker": "Anna",
     "text": "Pour tous les parents.",
-    "t": 59.29
+    "t": 58.63
    },
    {
     "speaker": "Anna",
     "text": "Donc pas seulement pour les parents qui rencontrent des difficultés ?",
-    "t": 60.35
+    "t": 59.69
    },
    {
     "speaker": "Tom",
     "text": "Non, non — et c'est important.",
-    "t": 63.23
+    "t": 62.57
    },
    {
     "speaker": "Tom",
     "text": "C'est pour tout le monde.",
-    "t": 65.18
+    "t": 64.52
    },
    {
     "speaker": "Tom",
     "text": "L'Eltereforum est ouvert à tous.",
-    "t": 66.46
+    "t": 65.8
    },
    {
     "speaker": "Tom",
     "text": "C'est un endroit normal et convivial où chaque parent peut venir, poser des questions, apprendre quelque chose, et rencontrer d'autres parents.",
-    "t": 68.69
+    "t": 68.03
    },
    {
     "speaker": "Tom",
     "text": "Vous n'avez pas besoin d'une raison particulière.",
-    "t": 76.24
+    "t": 75.58
    },
    {
     "speaker": "Tom",
     "text": "Vous n'avez pas besoin d'avoir une question particulière.",
-    "t": 78.56
+    "t": 77.9
    },
    {
     "speaker": "Anna",
     "text": "Tant mieux. Parce que parfois, les gens pensent : « Je demanderai de l'aide seulement si quelque chose ne va pas. »",
-    "t": 81.27
+    "t": 80.61
    },
    {
     "speaker": "Tom",
     "text": "Voilà. Mais élever un enfant, c'est un grand travail pour tout le monde.",
-    "t": 86.95
+    "t": 86.29
    },
    {
     "speaker": "Tom",
     "text": "Donc l'idée est de soutenir les parents dès le tout début, et tout au long du chemin.",
-    "t": 90.57
+    "t": 89.91
    },
    {
     "speaker": "Anna",
     "text": "Dès le tout début — qu'est-ce que ça veut dire exactement ?",
-    "t": 94.8
+    "t": 94.14
    },
    {
     "speaker": "Tom",
     "text": "Ça veut dire dès le moment où vous commencez votre « projet parental » — donc, même avant la naissance du bébé, quand vous le planifiez ou l'attendez — et à travers toutes les étapes de la vie de l'enfant, jusqu'à ce qu'il devienne adulte.",
-    "t": 98.17
+    "t": 97.51
    },
    {
     "speaker": "Anna",
     "text": "Waouh. Donc de la grossesse jusqu'aux dix-huit ans de l'enfant.",
-    "t": 110.05
+    "t": 109.39
    },
    {
     "speaker": "Tom",
     "text": "Oui. Tout le parcours.",
-    "t": 113.43
+    "t": 112.77
    },
    {
     "speaker": "Tom",
     "text": "Chaque âge a ses questions.",
-    "t": 114.5
+    "t": 113.84
    },
    {
     "speaker": "Tom",
     "text": "Un bébé qui ne dort pas.",
-    "t": 116.01
+    "t": 115.35
    },
    {
     "speaker": "Tom",
     "text": "Un petit enfant et l'usage des outils numériques.",
-    "t": 117.51
+    "t": 116.85
    },
    {
     "speaker": "Tom",
     "text": "L'école. Les adolescents.",
-    "t": 120.12
+    "t": 119.46
    },
    {
     "speaker": "Tom",
     "text": "L'Eltereforum est là pour tout ça.",
-    "t": 122.03
+    "t": 121.37
    },
    {
     "speaker": "Anna",
     "text": "C'est rassurant. Maintenant dites-moi — qui est derrière tout ça ?",
-    "t": 124.33
+    "t": 123.67
    },
    {
     "speaker": "Anna",
     "text": "C'est officiel ?",
-    "t": 127.57
+    "t": 126.91
    },
    {
     "speaker": "Tom",
     "text": "C'est tout à fait officiel.",
-    "t": 128.77
+    "t": 128.11
    },
    {
     "speaker": "Tom",
     "text": "L'Eltereforum est coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse.",
-    "t": 130.36
+    "t": 129.7
    },
    {
     "speaker": "Tom",
     "text": "C'est donc un service public de l'État luxembourgeois.",
-    "t": 135.77
+    "t": 135.11
    },
    {
     "speaker": "Tom",
     "text": "Et il y a un joli slogan derrière — « Parents forts, enfants forts ».",
-    "t": 138.55
+    "t": 137.89
    },
    {
     "speaker": "Tom",
     "text": "L'idée étant : quand les parents se sentent soutenus et confiants, les enfants vont mieux aussi.",
-    "t": 142.38
+    "t": 141.72
    },
    {
     "speaker": "Anna",
     "text": "Parents forts, enfants forts.",
-    "t": 147.46
+    "t": 146.8
    },
    {
     "speaker": "Anna",
     "text": "J'aime bien. Bon, alors concrètement — que se passe-t-il vraiment dans un Eltereforum ?",
-    "t": 149.24
+    "t": 148.58
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que je peux y faire ?",
-    "t": 154.38
+    "t": 153.72
    },
    {
     "speaker": "Tom",
     "text": "Plein de choses.",
-    "t": 155.88
+    "t": 155.22
    },
    {
     "speaker": "Tom",
     "text": "Laissez-moi citer les principales.",
-    "t": 156.92
+    "t": 156.26
    },
    {
     "speaker": "Tom",
     "text": "Il y a des rencontres de parents — donc des moments pour se retrouver et échanger avec d'autres parents.",
-    "t": 158.81
+    "t": 158.15
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi des cours qui offrent des conseils concrets sur différents aspects de la parentalité.",
-    "t": 163.77
+    "t": 163.11
    },
    {
     "speaker": "Tom",
     "text": "Il y a des activités pour les parents avec leurs enfants.",
-    "t": 168.63
+    "t": 167.97
    },
    {
     "speaker": "Tom",
     "text": "Et il y a des soirées à thème, des conférences et des exposés — par exemple, une soirée sur le sommeil, ou sur les outils numériques, ou sur la lecture.",
-    "t": 171.39
+    "t": 170.73
    },
    {
     "speaker": "Anna",
     "text": "Donc des cours, des soirées, des rencontres, et des activités pour les parents et leurs enfants.",
-    "t": 179.35
+    "t": 178.69
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Le tout est construit pour que vous receviez des informations de qualité, et en même temps un lieu pour rencontrer d'autres parents et des professionnels.",
-    "t": 183.88
+    "t": 183.22
    },
    {
     "speaker": "Anna",
     "text": "Cette deuxième partie est formidable — rencontrer d'autres parents.",
-    "t": 191.97
+    "t": 191.31
    },
    {
     "speaker": "Anna",
     "text": "Parce qu'être parent, ça peut parfois sembler solitaire.",
-    "t": 195.12
+    "t": 194.46
    },
    {
     "speaker": "Tom",
     "text": "Vraiment. Et là, vous réalisez — d'accord, d'autres parents ont les mêmes questions que moi.",
-    "t": 197.77
+    "t": 197.11
    },
    {
     "speaker": "Tom",
     "text": "Je ne suis pas seul.",
-    "t": 202.88
+    "t": 202.22
    },
    {
     "speaker": "Tom",
     "text": "Rien que ça, ça aide beaucoup.",
-    "t": 204.11
+    "t": 203.45
    },
    {
     "speaker": "Anna",
     "text": "Et si j'ai un problème sérieux et spécifique ?",
-    "t": 205.7
+    "t": 205.04
    },
    {
     "speaker": "Anna",
     "text": "Est-ce qu'ils peuvent tout gérer ?",
-    "t": 208.15
+    "t": 207.49
    },
    {
     "speaker": "Tom",
     "text": "C'est un point important.",
-    "t": 209.92
+    "t": 209.26
    },
    {
     "speaker": "Tom",
     "text": "L'Eltereforum est comme un médecin généraliste — il ne propose pas de traitement spécialisé.",
-    "t": 211.45
+    "t": 210.79
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas une clinique ni un centre de thérapie.",
-    "t": 216.43
+    "t": 215.77
    },
    {
     "speaker": "Tom",
     "text": "Mais si vous avez besoin de quelque chose de plus spécifique, l'équipe vous écoute et vous oriente.",
-    "t": 218.97
+    "t": 218.31
    },
    {
     "speaker": "Tom",
     "text": "Elle vous indique le bon service spécialisé.",
-    "t": 224.14
+    "t": 223.48
    },
    {
     "speaker": "Tom",
     "text": "Donc c'est aussi une porte — un premier endroit où aller, qui vous envoie dans la bonne direction.",
-    "t": 226.53
+    "t": 225.87
    },
    {
     "speaker": "Anna",
     "text": "Donc même s'ils ne peuvent pas m'aider eux-mêmes avec une question précise, ils sont assez bien connectés pour trouver quelqu'un qui le peut.",
-    "t": 231.5
+    "t": 230.84
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Un premier pas convivial.",
-    "t": 237.47
+    "t": 236.81
    },
    {
     "speaker": "Anna",
     "text": "Bon, Tom — où se trouvent ces forums ?",
-    "t": 240
+    "t": 239.34
    },
    {
     "speaker": "Anna",
     "text": "Ils sont tous dans la capitale ?",
-    "t": 242.09
+    "t": 241.43
    },
    {
     "speaker": "Tom",
     "text": "Non, et c'est ça qui est bien.",
-    "t": 243.8
+    "t": 243.14
    },
    {
     "speaker": "Tom",
     "text": "Ils sont régionaux.",
-    "t": 245.41
+    "t": 244.75
    },
    {
     "speaker": "Tom",
     "text": "Ils ouvrent partout dans le pays, étape par étape.",
-    "t": 246.67
+    "t": 246.01
    },
    {
     "speaker": "Tom",
     "text": "Le premier a ouvert à Niederanven, en février 2023.",
-    "t": 249.67
+    "t": 249.01
    },
    {
     "speaker": "Tom",
     "text": "Puis sont venus Bettembourg, Marnach, Bertrange, Esch-Belval, Ettelbruck, Hesperange, Lorentzweiler, Wiltz et Differdange.",
-    "t": 253.21
+    "t": 252.55
    },
    {
     "speaker": "Anna",
     "text": "Donc déjà beaucoup de forums, dans toutes les régions.",
-    "t": 261.63
+    "t": 260.97
    },
    {
     "speaker": "Anna",
     "text": "Il y en a donc probablement un pas trop loin de chez soi.",
-    "t": 264.03
+    "t": 263.37
    },
    {
     "speaker": "Tom",
     "text": "C'est le but — que chaque région en ait un à proximité.",
-    "t": 266.81
+    "t": 266.15
    },
    {
     "speaker": "Tom",
     "text": "Chaque forum régional travaille avec les acteurs locaux — les communes, les écoles, les structures d'accueil, les associations locales.",
-    "t": 269.93
+    "t": 269.27
    },
    {
     "speaker": "Tom",
     "text": "Donc il est vraiment ancré dans la communauté.",
-    "t": 277.54
+    "t": 276.88
    },
    {
     "speaker": "Anna",
     "text": "Et il y a aussi un site internet, n'est-ce pas ?",
-    "t": 280.19
+    "t": 279.53
    },
    {
     "speaker": "Tom",
     "text": "Oui. Le site est eltereforum.lu.",
-    "t": 282.49
+    "t": 281.83
    },
    {
     "speaker": "Tom",
     "text": "C'est une plateforme d'information en soi.",
-    "t": 285.27
+    "t": 284.61
    },
    {
     "speaker": "Tom",
     "text": "Sur le site, vous trouvez aussi l'agenda — le calendrier de toutes les activités, soirées et cours des différents forums.",
-    "t": 287.42
+    "t": 286.76
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez donc voir ce qui se passe près de chez vous, et quand.",
-    "t": 294.14
+    "t": 293.48
    },
    {
     "speaker": "Anna",
     "text": "Parfait. Alors rendons ça vraiment pratique.",
-    "t": 297.39
+    "t": 296.73
    },
    {
     "speaker": "Anna",
     "text": "Si je suis un parent qui écoute en ce moment, et que je veux me lancer — qu'est-ce que je fais ?",
-    "t": 299.81
+    "t": 299.15
    },
    {
     "speaker": "Tom",
     "text": "Très simple. D'abord, allez sur le site, eltereforum.lu.",
-    "t": 304
+    "t": 303.34
    },
    {
     "speaker": "Tom",
     "text": "Regardez l'agenda, et trouvez le forum le plus proche de chez vous.",
-    "t": 307.94
+    "t": 307.28
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, regardez simplement ce qui est proposé — une conférence, un cours, une activité parent-enfant — et venez.",
-    "t": 311.34
+    "t": 310.68
    },
    {
     "speaker": "Tom",
     "text": "Vous n'avez pas besoin d'une grande raison.",
-    "t": 318.06
+    "t": 317.4
    },
    {
     "speaker": "Tom",
     "text": "Vous êtes parent, et ça suffit.",
-    "t": 319.94
+    "t": 319.28
    },
    {
     "speaker": "Anna",
     "text": "Et peu importe l'âge de mon enfant ?",
-    "t": 321.81
+    "t": 321.15
    },
    {
     "speaker": "Tom",
     "text": "Aucune importance. Que vous attendiez un bébé, que vous ayez un tout-petit, un enfant à l'école, un adolescent — il y a quelque chose pour chaque étape.",
-    "t": 323.68
+    "t": 323.02
    },
    {
     "speaker": "Tom",
     "text": "Et rappelez-vous, c'est pour tous les parents, et aucune question n'est trop petite pour être posée.",
-    "t": 331.56
+    "t": 330.9
    },
    {
     "speaker": "Anna",
     "text": "C'est le message que j'aimerais que les gens retiennent.",
-    "t": 336.29
+    "t": 335.63
    },
    {
     "speaker": "Anna",
     "text": "Vous n'avez pas à attendre que ça aille mal.",
-    "t": 338.55
+    "t": 337.89
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez simplement y aller, pour apprendre, et pour rencontrer d'autres parents.",
-    "t": 340.68
+    "t": 340.02
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Voyez-le comme un lieu convivial qui est de votre côté.",
-    "t": 344.47
+    "t": 343.81
    },
    {
     "speaker": "Tom",
     "text": "Parents forts, enfants forts.",
-    "t": 348.38
+    "t": 347.72
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'Eltereforum.",
-    "t": 350.33
+    "t": 349.67
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 352.62
+    "t": 351.96
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 360.55
+    "t": 359.89
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 376.42
+    "t": 375.76
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 381.07
+    "t": 380.41
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 382.85
+    "t": 382.19
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 387.23
+    "t": 386.57
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 388.46
+    "t": 387.8
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 390.92
+    "t": 390.26
    }
   ],
   "segments_de": [
@@ -9352,548 +9352,548 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und das heutige Thema ist für alle, die Kinder haben, oder bald Kinder bekommen.",
-    "t": 28.46
+    "t": 27.86
    },
    {
     "speaker": "Tom",
     "text": "Es geht um einen Dienst, der Eltereforum heißt.",
-    "t": 34.44
+    "t": 33.84
    },
    {
     "speaker": "Anna",
     "text": "Eltereforum. Okay, Tom — das ist ein luxemburgisches Wort.",
-    "t": 37.58
+    "t": 36.98
    },
    {
     "speaker": "Anna",
     "text": "Fangen wir dort an.",
-    "t": 42
+    "t": 41.4
    },
    {
     "speaker": "Anna",
     "text": "Was bedeutet es?",
-    "t": 43.2
+    "t": 42.6
    },
    {
     "speaker": "Tom",
     "text": "Also... „Elteren\" bedeutet „Eltern\", und „Forum\" ist ein Ort, um sich zu treffen und zu reden.",
-    "t": 44.68
+    "t": 44.08
    },
    {
     "speaker": "Tom",
     "text": "Eltereforum ist also, wörtlich, ein „Elternforum\".",
-    "t": 52.16
+    "t": 51.56
    },
    {
     "speaker": "Anna",
     "text": "Ein Elternforum. Also ein Ort für Eltern.",
-    "t": 55.6
+    "t": 55
    },
    {
     "speaker": "Tom",
     "text": "Genau. Die offizielle Beschreibung ist sehr ansprechend.",
-    "t": 58.63
+    "t": 58.03
    },
    {
     "speaker": "Tom",
     "text": "Die Elternforen sind einladende Orte für Austausch, Information und Unterstützung — für alle Eltern.",
-    "t": 62.28
+    "t": 61.68
    },
    {
     "speaker": "Anna",
     "text": "Für alle Eltern.",
-    "t": 68.68
+    "t": 68.08
    },
    {
     "speaker": "Anna",
     "text": "Also nicht nur für Eltern, die Schwierigkeiten haben?",
-    "t": 70.03
+    "t": 69.43
    },
    {
     "speaker": "Tom",
     "text": "Nein, nein — und das ist wichtig.",
-    "t": 72.86
+    "t": 72.26
    },
    {
     "speaker": "Tom",
     "text": "Es ist für alle.",
-    "t": 74.95
+    "t": 74.35
    },
    {
     "speaker": "Tom",
     "text": "Das Eltereforum ist offen für alle.",
-    "t": 76.05
+    "t": 75.45
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein ganz normaler, freundlicher Ort, an den alle Eltern kommen können, um Fragen zu stellen, etwas zu lernen und andere Eltern zu treffen.",
-    "t": 78.35
+    "t": 77.75
    },
    {
     "speaker": "Tom",
     "text": "Sie brauchen keinen besonderen Grund.",
-    "t": 87.36
+    "t": 86.76
    },
    {
     "speaker": "Tom",
     "text": "Sie müssen kein bestimmtes Anliegen haben.",
-    "t": 89.4
+    "t": 88.8
    },
    {
     "speaker": "Anna",
     "text": "Gut. Denn manchmal denken die Leute: „Ich bitte nur um Hilfe, wenn etwas nicht stimmt.\"",
-    "t": 91.7
+    "t": 91.1
    },
    {
     "speaker": "Tom",
     "text": "Richtig. Aber ein Kind großzuziehen ist für alle eine große Aufgabe.",
-    "t": 96.68
+    "t": 96.08
    },
    {
     "speaker": "Tom",
     "text": "Die Idee ist also, Eltern von Anfang an zu unterstützen, und auf dem ganzen Weg.",
-    "t": 101.34
+    "t": 100.74
    },
    {
     "speaker": "Anna",
     "text": "Von Anfang an — was heißt das genau?",
-    "t": 106.23
+    "t": 105.63
    },
    {
     "speaker": "Tom",
     "text": "Das heißt: ab dem Moment, in dem Ihr „Elternprojekt\" beginnt — also schon bevor das Baby geboren ist, wenn Sie planen oder ein Kind erwarten — durch alle Lebensphasen des Kindes hindurch, bis es erwachsen ist.",
-    "t": 108.86
+    "t": 108.26
    },
    {
     "speaker": "Anna",
     "text": "Wow. Also von der Schwangerschaft, bis das Kind achtzehn ist.",
-    "t": 121.26
+    "t": 120.66
    },
    {
     "speaker": "Tom",
     "text": "Ja. Die ganze Reise.",
-    "t": 125.23
+    "t": 124.63
    },
    {
     "speaker": "Tom",
     "text": "Jedes Alter hat seine Fragen.",
-    "t": 126.95
+    "t": 126.35
    },
    {
     "speaker": "Tom",
     "text": "Ein Baby, das nicht schläft.",
-    "t": 128.77
+    "t": 128.17
    },
    {
     "speaker": "Tom",
     "text": "Ein kleines Kind und der Umgang mit digitalen Geräten.",
-    "t": 130.51
+    "t": 129.91
    },
    {
     "speaker": "Tom",
     "text": "Die Schule. Teenager.",
-    "t": 133.62
+    "t": 133.02
    },
    {
     "speaker": "Tom",
     "text": "Das Eltereforum ist für all das da.",
-    "t": 135.44
+    "t": 134.84
    },
    {
     "speaker": "Anna",
     "text": "Das ist beruhigend.",
-    "t": 137.73
+    "t": 137.13
    },
    {
     "speaker": "Anna",
     "text": "Jetzt sag mir — wer steht dahinter?",
-    "t": 138.99
+    "t": 138.39
    },
    {
     "speaker": "Anna",
     "text": "Ist es offiziell?",
-    "t": 141.39
+    "t": 140.79
    },
    {
     "speaker": "Tom",
     "text": "Es ist vollkommen offiziell.",
-    "t": 142.82
+    "t": 142.22
    },
    {
     "speaker": "Tom",
     "text": "Das Eltereforum wird vom Ministerium für Bildung, Kinder und Jugend koordiniert.",
-    "t": 144.63
+    "t": 144.03
    },
    {
     "speaker": "Tom",
     "text": "Es ist also ein öffentlicher Dienst des luxemburgischen Staates.",
-    "t": 149.74
+    "t": 149.14
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt einen schönen Slogan dahinter — „Starke Eltern, starke Kinder\".",
-    "t": 153.18
+    "t": 152.58
    },
    {
     "speaker": "Tom",
     "text": "Die Idee dabei: Wenn Eltern sich unterstützt und sicher fühlen, geht es auch den Kindern besser.",
-    "t": 157.59
+    "t": 156.99
    },
    {
     "speaker": "Anna",
     "text": "Starke Eltern, starke Kinder.",
-    "t": 163.17
+    "t": 162.57
    },
    {
     "speaker": "Anna",
     "text": "Das gefällt mir.",
-    "t": 165.35
+    "t": 164.75
    },
    {
     "speaker": "Anna",
     "text": "Okay, ganz praktisch — was passiert eigentlich in einem Eltereforum?",
-    "t": 166.53
+    "t": 165.93
    },
    {
     "speaker": "Anna",
     "text": "Was kann ich dort machen?",
-    "t": 171.19
+    "t": 170.59
    },
    {
     "speaker": "Tom",
     "text": "Vieles. Lass mich die wichtigsten Dinge aufzählen.",
-    "t": 172.77
+    "t": 172.17
    },
    {
     "speaker": "Tom",
     "text": "Es gibt Elterntreffen — also Momente, um zusammenzukommen und sich mit anderen Eltern auszutauschen.",
-    "t": 176.11
+    "t": 175.51
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch Kurse mit konkreten Hilfestellungen zu verschiedenen Aspekten der Elternschaft.",
-    "t": 182.29
+    "t": 181.69
    },
    {
     "speaker": "Tom",
     "text": "Es gibt Aktivitäten für Eltern zusammen mit ihren Kindern.",
-    "t": 187.21
+    "t": 186.61
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt Themenabende, Gespräche und Vorträge — zum Beispiel ein Abend über Schlaf, oder über digitale Geräte, oder über das Lesen.",
-    "t": 190.39
+    "t": 189.79
    },
    {
     "speaker": "Anna",
     "text": "Also Kurse, Abende, Treffen, und Aktivitäten für Eltern und ihre Kinder.",
-    "t": 199.07
+    "t": 198.47
    },
    {
     "speaker": "Tom",
     "text": "Genau. Das Ganze ist so aufgebaut, dass Sie hochwertige Informationen bekommen, und gleichzeitig einen Ort, um andere Eltern und Fachleute zu treffen.",
-    "t": 204.35
+    "t": 203.75
    },
    {
     "speaker": "Anna",
     "text": "Dieser zweite Teil ist großartig — andere Eltern treffen.",
-    "t": 214.32
+    "t": 213.72
    },
    {
     "speaker": "Anna",
     "text": "Denn Elternsein kann sich manchmal einsam anfühlen.",
-    "t": 218.28
+    "t": 217.68
    },
    {
     "speaker": "Tom",
     "text": "Das kann es wirklich.",
-    "t": 221.34
+    "t": 220.74
    },
    {
     "speaker": "Tom",
     "text": "Und hier merken Sie — okay, andere Eltern haben die gleichen Fragen wie ich.",
-    "t": 222.7
+    "t": 222.1
    },
    {
     "speaker": "Tom",
     "text": "Ich bin nicht allein.",
-    "t": 227.23
+    "t": 226.63
    },
    {
     "speaker": "Tom",
     "text": "Das allein hilft schon sehr.",
-    "t": 228.57
+    "t": 227.97
    },
    {
     "speaker": "Anna",
     "text": "Was ist, wenn ich ein ernstes, spezielles Problem habe?",
-    "t": 230.38
+    "t": 229.78
    },
    {
     "speaker": "Anna",
     "text": "Können sie alles behandeln?",
-    "t": 233.55
+    "t": 232.95
    },
    {
     "speaker": "Tom",
     "text": "Das ist ein wichtiger Punkt.",
-    "t": 235.35
+    "t": 234.75
    },
    {
     "speaker": "Tom",
     "text": "Das Eltereforum ist wie ein Hausarzt — es bietet keine spezialisierte Behandlung an.",
-    "t": 237.12
+    "t": 236.52
    },
    {
     "speaker": "Tom",
     "text": "Es ist keine Klinik und kein Therapiezentrum.",
-    "t": 242.33
+    "t": 241.73
    },
    {
     "speaker": "Tom",
     "text": "Aber wenn Sie etwas Spezielleres brauchen, hört das Team Ihnen zu und begleitet Sie.",
-    "t": 245.2
+    "t": 244.6
    },
    {
     "speaker": "Tom",
     "text": "Sie zeigen Ihnen den richtigen spezialisierten Dienst.",
-    "t": 249.8
+    "t": 249.2
    },
    {
     "speaker": "Tom",
     "text": "Es ist also auch eine Tür — eine erste Anlaufstelle, die Sie in die richtige Richtung schickt.",
-    "t": 252.83
+    "t": 252.23
    },
    {
     "speaker": "Anna",
     "text": "Auch wenn sie mir bei einem bestimmten Anliegen nicht selbst helfen können, sind sie also gut genug vernetzt, um jemanden zu finden, der es kann.",
-    "t": 257.72
+    "t": 257.12
    },
    {
     "speaker": "Tom",
     "text": "Genau. Ein freundlicher erster Schritt.",
-    "t": 265.21
+    "t": 264.61
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom — wo sind diese Foren?",
-    "t": 267.75
+    "t": 267.15
    },
    {
     "speaker": "Anna",
     "text": "Sind sie alle in der Hauptstadt?",
-    "t": 270.32
+    "t": 269.72
    },
    {
     "speaker": "Tom",
     "text": "Nein, und das ist das Schöne daran.",
-    "t": 272.17
+    "t": 271.57
    },
    {
     "speaker": "Tom",
     "text": "Sie sind regional.",
-    "t": 274.27
+    "t": 273.67
    },
    {
     "speaker": "Tom",
     "text": "Sie werden nach und nach im ganzen Land eröffnet.",
-    "t": 275.82
+    "t": 275.22
    },
    {
     "speaker": "Tom",
     "text": "Das erste öffnete in Niederanven, im Februar 2023.",
-    "t": 278.59
+    "t": 277.99
    },
    {
     "speaker": "Tom",
     "text": "Dann kamen Bettemburg, Marnach, Bartringen, Esch-Belval, Ettelbrück, Hesperingen, Lorentzweiler, Wiltz und Differdingen.",
-    "t": 283.25
+    "t": 282.65
    },
    {
     "speaker": "Anna",
     "text": "So viele Foren schon, über die Regionen verteilt.",
-    "t": 291.84
+    "t": 291.24
    },
    {
     "speaker": "Anna",
     "text": "Es gibt also wahrscheinlich eines nicht weit von zu Hause.",
-    "t": 295.15
+    "t": 294.55
    },
    {
     "speaker": "Tom",
     "text": "Das ist das Ziel — dass jede Region eines in der Nähe hat.",
-    "t": 298.46
+    "t": 297.86
    },
    {
     "speaker": "Tom",
     "text": "Jedes regionale Forum arbeitet mit den lokalen Akteuren zusammen — den Gemeinden, den Schulen, den Kindertagesstätten, den lokalen Vereinen.",
-    "t": 302.1
+    "t": 301.5
    },
    {
     "speaker": "Tom",
     "text": "Es ist also wirklich in der Gemeinschaft verwurzelt.",
-    "t": 311.12
+    "t": 310.52
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt auch eine Website, richtig?",
-    "t": 314.07
+    "t": 313.47
    },
    {
     "speaker": "Tom",
     "text": "Ja. Die Website ist eltereforum.lu.",
-    "t": 316.72
+    "t": 316.12
    },
    {
     "speaker": "Tom",
     "text": "Sie ist selbst eine Informationsplattform.",
-    "t": 320.03
+    "t": 319.43
    },
    {
     "speaker": "Tom",
     "text": "Auf der Website finden Sie auch die Agenda — den Kalender mit allen Aktivitäten, Abenden und Kursen in den verschiedenen Foren.",
-    "t": 322.36
+    "t": 321.76
    },
    {
     "speaker": "Tom",
     "text": "Sie können also sehen, was in Ihrer Nähe passiert, und wann.",
-    "t": 329.81
+    "t": 329.21
    },
    {
     "speaker": "Anna",
     "text": "Perfekt. Machen wir es also ganz praktisch.",
-    "t": 333.42
+    "t": 332.82
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich als Elternteil gerade zuhöre und anfangen möchte — was mache ich?",
-    "t": 336.32
+    "t": 335.72
    },
    {
     "speaker": "Tom",
     "text": "Ganz einfach. Gehen Sie zuerst auf die Website, eltereforum.lu.",
-    "t": 341.3
+    "t": 340.7
    },
    {
     "speaker": "Tom",
     "text": "Schauen Sie in die Agenda, und finden Sie das Forum, das Ihnen am nächsten liegt.",
-    "t": 346.38
+    "t": 345.78
    },
    {
     "speaker": "Tom",
     "text": "Dann schauen Sie einfach, was angeboten wird — ein Vortrag, ein Kurs, eine Eltern-Kind-Aktivität — und kommen Sie vorbei.",
-    "t": 350.74
+    "t": 350.14
    },
    {
     "speaker": "Tom",
     "text": "Sie brauchen keinen großen Grund.",
-    "t": 358.39
+    "t": 357.79
    },
    {
     "speaker": "Tom",
     "text": "Sie sind Eltern, und das genügt.",
-    "t": 360.21
+    "t": 359.61
    },
    {
     "speaker": "Anna",
     "text": "Und es spielt keine Rolle, wie alt mein Kind ist?",
-    "t": 362.19
+    "t": 361.59
    },
    {
     "speaker": "Tom",
     "text": "Überhaupt keine Rolle.",
-    "t": 365.09
+    "t": 364.49
    },
    {
     "speaker": "Tom",
     "text": "Ob Sie ein Baby erwarten, ein Kleinkind, ein Schulkind, ein Teenager — für jede Phase gibt es etwas.",
-    "t": 366.38
+    "t": 365.78
    },
    {
     "speaker": "Tom",
     "text": "Und denken Sie daran: Es ist für alle Eltern, und kein Anliegen ist zu klein.",
-    "t": 373.64
+    "t": 373.04
    },
    {
     "speaker": "Anna",
     "text": "Das ist die Botschaft, die ich den Menschen gerne mitgeben möchte.",
-    "t": 378.23
+    "t": 377.63
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nicht warten, bis etwas schiefgeht.",
-    "t": 381.75
+    "t": 381.15
    },
    {
     "speaker": "Anna",
     "text": "Sie können einfach hingehen, um zu lernen, und um andere Eltern zu treffen.",
-    "t": 384.29
+    "t": 383.69
    },
    {
     "speaker": "Tom",
     "text": "Genau. Sehen Sie es als einen freundlichen Ort, der auf Ihrer Seite ist.",
-    "t": 388.35
+    "t": 387.75
    },
    {
     "speaker": "Tom",
     "text": "Starke Eltern, starke Kinder.",
-    "t": 393.53
+    "t": 392.93
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Eltereforum.",
-    "t": 395.66
+    "t": 395.06
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 398.34
+    "t": 397.74
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 407.27
+    "t": 406.67
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 425.12
+    "t": 424.52
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 430.82
+    "t": 430.22
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 433.07
+    "t": 432.47
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 437.96
+    "t": 437.36
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 439.11
+    "t": 438.51
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 442.32
+    "t": 441.72
    }
   ],
   "segments_lb": [
@@ -10114,7 +10114,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_eltereforum_fr.mp3",
-  "duration_fr": 392.7,
+  "duration_fr": 392.02,
   "title_fr": "Eltereforum – Parents forts, enfants forts",
   "description_fr": "Un réseau chaleureux et accueillant de forums des parents à travers le Luxembourg, coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse. Ce que propose l'Eltereforum — rencontres de parents, cours pour parents, activités parents-enfants et soirées à thème, autour de l'idée « parents forts, enfants forts » — à qui il s'adresse (tous les parents, d'avant la naissance jusqu'à l'âge adulte de l'enfant), comment les forums régionaux travaillent avec les partenaires locaux, et comment l'équipe vous oriente vers des services spécialisés si nécessaire.",
   "topics_fr": [
@@ -10185,7 +10185,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_eltereforum_de.mp3",
-  "duration_de": 443.85,
+  "duration_de": 443.25,
   "title_de": "Eltereforum – Starke Eltern, starke Kinder",
   "description_de": "Ein warmherziges, einladendes Netzwerk von Elternforen in ganz Luxemburg, koordiniert vom Ministerium für Bildung, Kinder und Jugend. Was das Eltereforum bietet — Elterntreffen, Elternkurse, Eltern-Kind-Aktivitäten und Themenabende, rund um die Idee „Starke Eltern, starke Kinder“ — für wen es ist (alle Eltern, von vor der Geburt bis das Kind erwachsen ist), wie die regionalen Foren mit lokalen Partnern zusammenarbeiten, und wie das Team Sie bei Bedarf zu spezialisierten Diensten begleitet.",
   "topics_de": [
@@ -11416,1023 +11416,1023 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et le sujet d'aujourd'hui, je l'adore vraiment, parce qu'il parle de justice dans le monde moderne.",
-    "t": 23.73
+    "t": 23.07
    },
    {
     "speaker": "Tom",
     "text": "Il s'agit d'une association sans but lucratif qui s'appelle Digital Inclusion.",
-    "t": 29.17
+    "t": 28.51
    },
    {
     "speaker": "Anna",
     "text": "Digital Inclusion. Tom, commençons d'abord par le problème.",
-    "t": 33.73
+    "t": 33.07
    },
    {
     "speaker": "Anna",
     "text": "Pourquoi a-t-on besoin de quelque chose comme ça ?",
-    "t": 37.07
+    "t": 36.41
    },
    {
     "speaker": "Tom",
     "text": "Pense à quel point la vie passe aujourd'hui par un écran.",
-    "t": 39.57
+    "t": 38.91
    },
    {
     "speaker": "Tom",
     "text": "On postule à un emploi en ligne.",
-    "t": 42.36
+    "t": 41.7
    },
    {
     "speaker": "Tom",
     "text": "On prend rendez-vous chez le médecin.",
-    "t": 44.23
+    "t": 43.57
    },
    {
     "speaker": "Tom",
     "text": "On gère sa banque.",
-    "t": 45.98
+    "t": 45.32
    },
    {
     "speaker": "Tom",
     "text": "On remplit des formulaires officiels.",
-    "t": 47.17
+    "t": 46.51
    },
    {
     "speaker": "Tom",
     "text": "On aide ses enfants pour l'école.",
-    "t": 49.21
+    "t": 48.55
    },
    {
     "speaker": "Tom",
     "text": "Presque tout demande un ordinateur, et les compétences pour s'en servir.",
-    "t": 51
+    "t": 50.34
    },
    {
     "speaker": "Anna",
     "text": "Et si on n'a pas d'ordinateur, ou qu'on n'a jamais appris à s'en servir...",
-    "t": 54.73
+    "t": 54.07
    },
    {
     "speaker": "Tom",
     "text": "...alors on est mis à l'écart.",
-    "t": 58.23
+    "t": 57.57
    },
    {
     "speaker": "Tom",
     "text": "Pas juste un peu gêné — vraiment mis à l'écart, du travail, des services, de la vie de tous les jours.",
-    "t": 59.83
+    "t": 59.17
    },
    {
     "speaker": "Tom",
     "text": "On appelle ça la « fracture numérique ».",
-    "t": 65.22
+    "t": 64.56
    },
    {
     "speaker": "Tom",
     "text": "D'un côté, les personnes connectées.",
-    "t": 67.29
+    "t": 66.63
    },
    {
     "speaker": "Tom",
     "text": "De l'autre, les personnes laissées de côté.",
-    "t": 69.31
+    "t": 68.65
    },
    {
     "speaker": "Anna",
     "text": "Et cet écart peut être une question d'argent, d'âge, ou simplement de ne jamais avoir eu la chance d'apprendre.",
-    "t": 71.55
+    "t": 70.89
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et c'est précisément cet écart que Digital Inclusion existe pour combler.",
-    "t": 76.6
+    "t": 75.94
    },
    {
     "speaker": "Tom",
     "text": "C'est une association sans but lucratif — une « asbl » — ici au Luxembourg.",
-    "t": 81.57
+    "t": 80.91
    },
    {
     "speaker": "Tom",
     "text": "Et toute sa mission, c'est d'aider tout le monde dans le pays à avoir accès aux technologies de l'information.",
-    "t": 86.16
+    "t": 85.5
    },
    {
     "speaker": "Anna",
     "text": "Alors qui aident-ils, et comment ?",
-    "t": 91.83
+    "t": 91.17
    },
    {
     "speaker": "Anna",
     "text": "Donne-nous la vue d'ensemble.",
-    "t": 93.48
+    "t": 92.82
    },
    {
     "speaker": "Tom",
     "text": "La vue d'ensemble est merveilleusement simple.",
-    "t": 95.04
+    "t": 94.38
    },
    {
     "speaker": "Tom",
     "text": "Ils font trois choses.",
-    "t": 97.56
+    "t": 96.9
    },
    {
     "speaker": "Tom",
     "text": "D'abord — ils donnent un ordinateur aux gens.",
-    "t": 98.86
+    "t": 98.2
    },
    {
     "speaker": "Tom",
     "text": "Ensuite — ils leur apprennent à s'en servir.",
-    "t": 101.29
+    "t": 100.63
    },
    {
     "speaker": "Tom",
     "text": "Et enfin — ils font tout cela d'une façon qui est bonne pour la planète.",
-    "t": 103.57
+    "t": 102.91
    },
    {
     "speaker": "Anna",
     "text": "Un ordinateur, les compétences, et bon pour la planète.",
-    "t": 107.4
+    "t": 106.74
    },
    {
     "speaker": "Anna",
     "text": "J'aime bien. Prenons-les un par un.",
-    "t": 110.19
+    "t": 109.53
    },
    {
     "speaker": "Anna",
     "text": "Commençons par l'ordinateur.",
-    "t": 112.46
+    "t": 111.8
    },
    {
     "speaker": "Tom",
     "text": "Alors, Digital Inclusion offre gratuitement des ordinateurs d'occasion aux personnes qui en ont besoin, ici au Luxembourg.",
-    "t": 114.11
+    "t": 113.45
    },
    {
     "speaker": "Anna",
     "text": "Des ordinateurs gratuits.",
-    "t": 120.92
+    "t": 120.26
    },
    {
     "speaker": "Anna",
     "text": "D'où viennent-ils ?",
-    "t": 122.36
+    "t": 121.7
    },
    {
     "speaker": "Tom",
     "text": "Ils sont donnés.",
-    "t": 123.53
+    "t": 122.87
    },
    {
     "speaker": "Tom",
     "text": "Des entreprises et des particuliers donnent leurs anciens ordinateurs portables, ordinateurs fixes, smartphones et tablettes.",
-    "t": 124.68
+    "t": 124.02
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, une équipe de bénévoles les nettoie, les répare, efface les anciennes données et installe de nouveaux logiciels.",
-    "t": 131.59
+    "t": 130.93
    },
    {
     "speaker": "Tom",
     "text": "Un vieil ordinateur portable fatigué redevient une bonne machine qui fonctionne.",
-    "t": 138.77
+    "t": 138.11
    },
    {
     "speaker": "Anna",
     "text": "Donc un ordinateur dont une personne ne veut plus devient une bouée de sauvetage pour quelqu'un d'autre.",
-    "t": 143.3
+    "t": 142.64
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et les chiffres sont remarquables.",
-    "t": 147.58
+    "t": 146.92
    },
    {
     "speaker": "Tom",
     "text": "Depuis leurs débuts en deux mille seize, ils ont distribué plus de dix mille ordinateurs.",
-    "t": 150.29
+    "t": 149.63
    },
    {
     "speaker": "Tom",
     "text": "Et plus de mille smartphones.",
-    "t": 154.77
+    "t": 154.11
    },
    {
     "speaker": "Anna",
     "text": "Dix mille ordinateurs !",
-    "t": 156.49
+    "t": 155.83
    },
    {
     "speaker": "Anna",
     "text": "Ça fait dix mille personnes, ou familles, connectées.",
-    "t": 157.84
+    "t": 157.18
    },
    {
     "speaker": "Tom",
     "text": "Et ça ne cesse de grandir.",
-    "t": 160.73
+    "t": 160.07
    },
    {
     "speaker": "Tom",
     "text": "En une seule année récente, les bénévoles ont reconditionné plus de deux mille machines.",
-    "t": 162.23
+    "t": 161.57
    },
    {
     "speaker": "Tom",
     "text": "Cette année, deux mille vingt-six, l'organisation fête même son dixième anniversaire.",
-    "t": 166.89
+    "t": 166.23
    },
    {
     "speaker": "Anna",
     "text": "Dix ans de ce travail.",
-    "t": 171.58
+    "t": 170.92
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, la question pratique que tout le monde se pose — qui peut réellement obtenir un de ces ordinateurs ?",
-    "t": 173.05
+    "t": 172.39
    },
    {
     "speaker": "Tom",
     "text": "Bien — soyons clairs et concrets.",
-    "t": 178.18
+    "t": 177.52
    },
    {
     "speaker": "Tom",
     "text": "Pour faire une demande, d'abord, il faut habiter au Luxembourg.",
-    "t": 180.27
+    "t": 179.61
    },
    {
     "speaker": "Tom",
     "text": "Et ensuite, il faut remplir l'une de quelques conditions.",
-    "t": 183.52
+    "t": 182.86
    },
    {
     "speaker": "Anna",
     "text": "Lesquelles ?",
-    "t": 186.6
+    "t": 185.94
    },
    {
     "speaker": "Tom",
     "text": "Les principales sont les suivantes.",
-    "t": 187.62
+    "t": 186.96
    },
    {
     "speaker": "Tom",
     "text": "Votre ménage reçoit l'allocation de vie chère — l'AVC.",
-    "t": 189.61
+    "t": 188.95
    },
    {
     "speaker": "Tom",
     "text": "Ou vous êtes réfugié — demandeur d'asile, personne sous protection temporaire, ou mineur non accompagné.",
-    "t": 193.13
+    "t": 192.47
    },
    {
     "speaker": "Tom",
     "text": "Il existe aussi quelques autres cas, alors vérifiez sur le site si vous y avez droit.",
-    "t": 198.96
+    "t": 198.3
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est vraiment destiné aux personnes à faibles revenus, et aux réfugiés et nouveaux arrivants.",
-    "t": 203.42
+    "t": 202.76
    },
    {
     "speaker": "Tom",
     "text": "Exactement — les personnes pour qui acheter un ordinateur serait une vraie difficulté.",
-    "t": 207.86
+    "t": 207.2
    },
    {
     "speaker": "Tom",
     "text": "En général, c'est un ordinateur portable par ménage.",
-    "t": 212.32
+    "t": 211.66
    },
    {
     "speaker": "Tom",
     "text": "Mais les autres membres de la famille peuvent souvent demander un ordinateur en plus.",
-    "t": 215.15
+    "t": 214.49
    },
    {
     "speaker": "Anna",
     "text": "Donc l'adolescent qui fait ses devoirs, et le parent qui cherche du travail, peuvent peut-être avoir chacun une machine ?",
-    "t": 219.55
+    "t": 218.89
    },
    {
     "speaker": "Tom",
     "text": "Souvent, oui. Les règles changent de temps en temps, donc le site explique les plus récentes — et combien de temps vous devrez peut-être attendre.",
-    "t": 224.71
+    "t": 224.05
    },
    {
     "speaker": "Anna",
     "text": "Bon à savoir.",
-    "t": 231.89
+    "t": 231.23
    },
    {
     "speaker": "Anna",
     "text": "Et quel genre d'ordinateur reçoit-on, en fait ?",
-    "t": 232.94
+    "t": 232.28
    },
    {
     "speaker": "Anna",
     "text": "Un vieux truc cassé ?",
-    "t": 235.12
+    "t": 234.46
    },
    {
     "speaker": "Tom",
     "text": "Non, c'est ça le plus beau.",
-    "t": 236.5
+    "t": 235.84
    },
    {
     "speaker": "Tom",
     "text": "Ils arrivent prêts à l'emploi, avec le système d'exploitation déjà installé — généralement Windows, ou un Mac.",
-    "t": 237.94
+    "t": 237.28
    },
    {
     "speaker": "Tom",
     "text": "Un processeur correct.",
-    "t": 244.09
+    "t": 243.43
    },
    {
     "speaker": "Tom",
     "text": "Et ils viennent même avec une garantie de réparation gratuite — sauf la batterie, qui sur un vieil ordinateur portable peut être faible ou manquante.",
-    "t": 245.52
+    "t": 244.86
    },
    {
     "speaker": "Anna",
     "text": "Un ordinateur gratuit, qui fonctionne, avec une garantie.",
-    "t": 253.36
+    "t": 252.7
    },
    {
     "speaker": "Anna",
     "text": "C'est vraiment généreux.",
-    "t": 256.85
+    "t": 256.19
    },
    {
     "speaker": "Anna",
     "text": "Bon — ça, c'est l'ordinateur.",
-    "t": 258.15
+    "t": 257.49
    },
    {
     "speaker": "Anna",
     "text": "Passons à la deuxième partie.",
-    "t": 259.5
+    "t": 258.84
    },
    {
     "speaker": "Anna",
     "text": "Les compétences.",
-    "t": 261.03
+    "t": 260.37
    },
    {
     "speaker": "Tom",
     "text": "Oui — parce qu'un ordinateur ne sert à rien si on ne sait pas s'en servir.",
-    "t": 262.33
+    "t": 261.67
    },
    {
     "speaker": "Tom",
     "text": "Alors Digital Inclusion organise aussi des cours.",
-    "t": 265.42
+    "t": 264.76
    },
    {
     "speaker": "Tom",
     "text": "Des cours d'informatique gratuits, pour apprendre aux gens les bases, et même au-delà.",
-    "t": 268.19
+    "t": 267.53
    },
    {
     "speaker": "Anna",
     "text": "Et dans quelles langues ?",
-    "t": 272.72
+    "t": 272.06
    },
    {
     "speaker": "Anna",
     "text": "Parce que le Luxembourg est tellement multilingue.",
-    "t": 273.8
+    "t": 273.14
    },
    {
     "speaker": "Tom",
     "text": "Dans de nombreuses langues.",
-    "t": 276.28
+    "t": 275.62
    },
    {
     "speaker": "Tom",
     "text": "C'est voulu — ils enseignent en plusieurs langues pour que les nouveaux arrivants puissent apprendre dans une langue qu'ils comprennent.",
-    "t": 277.71
+    "t": 277.05
    },
    {
     "speaker": "Tom",
     "text": "Ils ont même un Laboratoire de langues, dont un qui utilise l'IA, pour aider les gens à s'exercer.",
-    "t": 283.87
+    "t": 283.21
    },
    {
     "speaker": "Anna",
     "text": "Donc on peut apprendre l'informatique et les langues en même temps.",
-    "t": 289.26
+    "t": 288.6
    },
    {
     "speaker": "Tom",
     "text": "Les deux à la fois.",
-    "t": 292.16
+    "t": 291.5
    },
    {
     "speaker": "Tom",
     "text": "Et il y a autre chose que j'aime vraiment — l'Open Classroom (salle ouverte).",
-    "t": 293.37
+    "t": 292.71
    },
    {
     "speaker": "Tom",
     "text": "Chaque vendredi matin, on peut simplement venir, sans rendez-vous, et obtenir de l'aide pour un problème numérique.",
-    "t": 297.25
+    "t": 296.59
    },
    {
     "speaker": "Anna",
     "text": "On peut simplement venir ?",
-    "t": 303.09
+    "t": 302.43
    },
    {
     "speaker": "Anna",
     "text": "Donc si je suis bloquée — je n'arrive pas à me connecter quelque part, je ne comprends pas un e-mail, un formulaire ne marche pas...",
-    "t": 304.49
+    "t": 303.83
    },
    {
     "speaker": "Tom",
     "text": "...vous l'apportez un vendredi matin, et quelqu'un s'assoit avec vous et vous aide.",
-    "t": 309.9
+    "t": 309.24
    },
    {
     "speaker": "Tom",
     "text": "Sans rendez-vous, gratuitement.",
-    "t": 313.56
+    "t": 312.9
    },
    {
     "speaker": "Tom",
     "text": "C'est ouvert de neuf heures et demie à une heure et demie.",
-    "t": 315.3
+    "t": 314.64
    },
    {
     "speaker": "Anna",
     "text": "C'est merveilleux. Tant de personnes ont juste besoin de quelqu'un de patient assis à côté d'elles pendant dix minutes.",
-    "t": 317.91
+    "t": 317.25
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et ce n'est pas seulement pour les particuliers.",
-    "t": 324.26
+    "t": 323.6
    },
    {
     "speaker": "Tom",
     "text": "Ils soutiennent aussi des organisations sociales, et ils proposent des réparations d'appareils — celles-là sur rendez-vous, par e-mail.",
-    "t": 327.23
+    "t": 326.57
    },
    {
     "speaker": "Anna",
     "text": "D'accord. L'ordinateur, les compétences... maintenant la troisième partie.",
-    "t": 334.63
+    "t": 333.97
    },
    {
     "speaker": "Anna",
     "text": "Tu as dit bon pour la planète.",
-    "t": 339.5
+    "t": 338.84
    },
    {
     "speaker": "Anna",
     "text": "Parle-moi de ça.",
-    "t": 340.94
+    "t": 340.28
    },
    {
     "speaker": "Tom",
     "text": "C'est la partie qui rend tout cela si malin.",
-    "t": 342.02
+    "t": 341.36
    },
    {
     "speaker": "Tom",
     "text": "Réfléchis — chaque ordinateur qu'ils offrent est un ordinateur qui allait être jeté.",
-    "t": 344.33
+    "t": 343.67
    },
    {
     "speaker": "Tom",
     "text": "Les déchets électroniques sont un énorme problème pour l'environnement.",
-    "t": 348.88
+    "t": 348.22
    },
    {
     "speaker": "Anna",
     "text": "Tous ces vieux ordinateurs portables dans des tiroirs, ou à la poubelle.",
-    "t": 352.7
+    "t": 352.04
    },
    {
     "speaker": "Tom",
     "text": "Voilà. En les collectant, en les réparant, et en leur donnant une deuxième vie — et même une troisième vie — Digital Inclusion les empêche de finir aux ordures.",
-    "t": 356.15
+    "t": 355.49
    },
    {
     "speaker": "Tom",
     "text": "Donc un seul geste aide une personne ET aide l'environnement.",
-    "t": 364.22
+    "t": 363.56
    },
    {
     "speaker": "Anna",
     "text": "C'est un cercle.",
-    "t": 367.72
+    "t": 367.06
    },
    {
     "speaker": "Anna",
     "text": "Le déchet de l'un devient l'outil de l'autre.",
-    "t": 368.95
+    "t": 368.29
    },
    {
     "speaker": "Tom",
     "text": "Un beau cercle.",
-    "t": 371.16
+    "t": 370.5
    },
    {
     "speaker": "Tom",
     "text": "Le bien social et le bien environnemental, dans le même geste.",
-    "t": 372.39
+    "t": 371.73
    },
    {
     "speaker": "Tom",
     "text": "Et voici un détail que je trouve très touchant — beaucoup des bénévoles qui réparent les ordinateurs sont eux-mêmes des réfugiés.",
-    "t": 375.67
+    "t": 375.01
    },
    {
     "speaker": "Anna",
     "text": "Oh — raconte-moi ça.",
-    "t": 382.19
+    "t": 381.53
    },
    {
     "speaker": "Tom",
     "text": "Alors, pendant qu'ils réparent les machines, ces bénévoles reçoivent une formation, ils développent des compétences en informatique, et ils rencontrent des personnes du monde local de la technologie.",
-    "t": 383.76
+    "t": 383.1
    },
    {
     "speaker": "Tom",
     "text": "Ils apprennent, ils contribuent, et ils créent des liens — tout cela en même temps.",
-    "t": 393.71
+    "t": 393.05
    },
    {
     "speaker": "Anna",
     "text": "Donc l'atelier ne répare pas seulement des ordinateurs.",
-    "t": 398.24
+    "t": 397.58
    },
    {
     "speaker": "Anna",
     "text": "Il aide des gens à prendre leurs marques dans un nouveau pays.",
-    "t": 400.79
+    "t": 400.13
    },
    {
     "speaker": "Tom",
     "text": "Exactement. C'est réparer des machines et reconstruire des vies en même temps.",
-    "t": 403.64
+    "t": 402.98
    },
    {
     "speaker": "Tom",
     "text": "C'est pour ça que c'est une histoire d'inclusion, pas seulement de technologie.",
-    "t": 407.81
+    "t": 407.15
    },
    {
     "speaker": "Anna",
     "text": "C'est vraiment particulier.",
-    "t": 411.63
+    "t": 410.97
    },
    {
     "speaker": "Anna",
     "text": "Tom, rendons ça concret.",
-    "t": 413.1
+    "t": 412.44
    },
    {
     "speaker": "Anna",
     "text": "Peut-on suivre une personne ?",
-    "t": 414.48
+    "t": 413.82
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Imaginons une femme — appelons-la Amina.",
-    "t": 415.97
+    "t": 415.31
    },
    {
     "speaker": "Tom",
     "text": "Elle est arrivée récemment au Luxembourg comme réfugiée.",
-    "t": 419.62
+    "t": 418.96
    },
    {
     "speaker": "Tom",
     "text": "Elle a deux enfants adolescents.",
-    "t": 422.4
+    "t": 421.74
    },
    {
     "speaker": "Tom",
     "text": "Elle n'a presque rien, et pas d'ordinateur.",
-    "t": 424.18
+    "t": 423.52
    },
    {
     "speaker": "Anna",
     "text": "Une situation très réelle.",
-    "t": 426.75
+    "t": 426.09
    },
    {
     "speaker": "Anna",
     "text": "Comment Digital Inclusion change-t-il son histoire ?",
-    "t": 428.35
+    "t": 427.69
    },
    {
     "speaker": "Tom",
     "text": "Étape par étape.",
-    "t": 430.99
+    "t": 430.33
    },
    {
     "speaker": "Tom",
     "text": "D'abord, parce qu'elle est réfugiée et qu'elle vit au Luxembourg, elle est éligible.",
-    "t": 432.47
+    "t": 431.81
    },
    {
     "speaker": "Tom",
     "text": "Elle fait une demande — et quelque temps plus tard, elle reçoit un ordinateur portable qui fonctionne.",
-    "t": 437
+    "t": 436.34
    },
    {
     "speaker": "Tom",
     "text": "Et elle peut demander si ses deux adolescents peuvent aussi obtenir un ordinateur pour leurs devoirs.",
-    "t": 441.88
+    "t": 441.22
    },
    {
     "speaker": "Anna",
     "text": "Donc, d'un coup, toute la famille est connectée.",
-    "t": 446.71
+    "t": 446.05
    },
    {
     "speaker": "Tom",
     "text": "Toute la famille.",
-    "t": 449.09
+    "t": 448.43
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, Amina ne se sent pas à l'aise pour s'en servir.",
-    "t": 450.22
+    "t": 449.56
    },
    {
     "speaker": "Tom",
     "text": "Alors elle va à un cours gratuit, dans une langue qu'elle comprend, et elle apprend les bases.",
-    "t": 452.96
+    "t": 452.3
    },
    {
     "speaker": "Tom",
     "text": "Quand elle se retrouve bloquée une semaine, elle passe à l'Open Classroom le vendredi, et quelqu'un l'aide à configurer son e-mail et un compte officiel.",
-    "t": 457.55
+    "t": 456.89
    },
    {
     "speaker": "Anna",
     "text": "Et maintenant elle peut faire les choses que le reste d'entre nous trouve normales.",
-    "t": 465.41
+    "t": 464.75
    },
    {
     "speaker": "Tom",
     "text": "Maintenant elle peut postuler à des emplois, remplir ses formulaires, écrire à l'école de ses enfants, gérer sa banque — toute seule.",
-    "t": 468.84
+    "t": 468.18
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas qu'un ordinateur.",
-    "t": 475.92
+    "t": 475.26
    },
    {
     "speaker": "Tom",
     "text": "C'est de la dignité, et de l'indépendance.",
-    "t": 477.56
+    "t": 476.9
    },
    {
     "speaker": "Anna",
     "text": "Et peut-être qu'un jour, elle devient elle-même bénévole dans l'atelier.",
-    "t": 480.29
+    "t": 479.63
    },
    {
     "speaker": "Tom",
     "text": "Peut-être bien. Et alors le cercle est complet — la personne qui a été aidée devient la personne qui aide.",
-    "t": 483.62
+    "t": 482.96
    },
    {
     "speaker": "Tom",
     "text": "Ça arrive là-bas, tout le temps.",
-    "t": 488.98
+    "t": 488.32
    },
    {
     "speaker": "Anna",
     "text": "J'adore ça. Maintenant, Tom, retournons la question.",
-    "t": 491
+    "t": 490.34
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup de nos auditeurs ont déjà ce dont ils ont besoin.",
-    "t": 493.94
+    "t": 493.28
    },
    {
     "speaker": "Anna",
     "text": "Comment peuvent-ils aider ?",
-    "t": 496.71
+    "t": 496.05
    },
    {
     "speaker": "Tom",
     "text": "De tant de façons, et c'est important.",
-    "t": 498.15
+    "t": 497.49
    },
    {
     "speaker": "Tom",
     "text": "La plus simple — si vous avez un vieil ordinateur portable, un smartphone ou une tablette qui traîne dans un tiroir, sans rien faire — donnez-le.",
-    "t": 500.18
+    "t": 499.52
    },
    {
     "speaker": "Tom",
     "text": "Ne le laissez pas pourrir.",
-    "t": 507.73
+    "t": 507.07
    },
    {
     "speaker": "Tom",
     "text": "Donnez-lui une deuxième vie.",
-    "t": 509.24
+    "t": 508.58
    },
    {
     "speaker": "Anna",
     "text": "Donc ce vieil ordinateur portable dans le placard pourrait devenir la bouée de sauvetage de quelqu'un.",
-    "t": 510.84
+    "t": 510.18
    },
    {
     "speaker": "Tom",
     "text": "Littéralement. Oubliez vos inquiétudes — ils s'occupent de l'effacement des données en toute sécurité.",
-    "t": 515.16
+    "t": 514.5
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez aussi donner de l'argent, pour aider à couvrir les frais.",
-    "t": 520.47
+    "t": 519.81
    },
    {
     "speaker": "Tom",
     "text": "Et vous pouvez devenir bénévole — dans l'atelier de réparation, ou pour aider à enseigner.",
-    "t": 523.67
+    "t": 523.01
    },
    {
     "speaker": "Anna",
     "text": "Et les entreprises ?",
-    "t": 528.41
+    "t": 527.75
    },
    {
     "speaker": "Anna",
     "text": "Elles doivent avoir beaucoup de vieux matériel quand elles renouvellent leur équipement.",
-    "t": 529.59
+    "t": 528.93
    },
    {
     "speaker": "Tom",
     "text": "Les entreprises, c'est important.",
-    "t": 533.08
+    "t": 532.42
    },
    {
     "speaker": "Tom",
     "text": "Quand une société renouvelle ses ordinateurs, au lieu de mettre les anciens au rebut, elle peut les donner à Digital Inclusion.",
-    "t": 535.01
+    "t": 534.35
    },
    {
     "speaker": "Tom",
     "text": "C'est bon pour la communauté, et bon pour la planète — et c'est une belle chose à laquelle une entreprise peut participer.",
-    "t": 541.19
+    "t": 540.53
    },
    {
     "speaker": "Anna",
     "text": "Où les gens trouvent-ils tout ça ?",
-    "t": 547.27
+    "t": 546.61
    },
    {
     "speaker": "Anna",
     "text": "L'adresse, les formulaires, les cours ?",
-    "t": 548.9
+    "t": 548.24
    },
    {
     "speaker": "Tom",
     "text": "Tout est sur leur site internet — digital tiret inclusion point l-u.",
-    "t": 551.25
+    "t": 550.59
    },
    {
     "speaker": "Tom",
     "text": "C'est-à-dire digital, ensuite un tiret, ensuite inclusion, point l-u.",
-    "t": 555.24
+    "t": 554.58
    },
    {
     "speaker": "Tom",
     "text": "Vous y trouverez comment faire une demande, comment faire un don, le calendrier des cours, et les coordonnées.",
-    "t": 559.79
+    "t": 559.13
    },
    {
     "speaker": "Anna",
     "text": "Et ils ont un vrai endroit qu'on peut visiter ?",
-    "t": 565.35
+    "t": 564.69
    },
    {
     "speaker": "Tom",
     "text": "Oui. Depuis deux mille vingt-quatre, ils sont à Bonnevoie, à Luxembourg-Ville, près de la gare principale — la Gare.",
-    "t": 567.61
+    "t": 566.95
    },
    {
     "speaker": "Tom",
     "text": "Ils sont ouverts tous les jours de la semaine, de neuf heures et demie le matin à cinq heures et demie de l'après-midi.",
-    "t": 573.6
+    "t": 572.94
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est une vraie porte ouverte, pas juste un site internet.",
-    "t": 579
+    "t": 578.34
    },
    {
     "speaker": "Tom",
     "text": "Une vraie porte ouverte.",
-    "t": 582.02
+    "t": 581.36
    },
    {
     "speaker": "Tom",
     "text": "Avec de vraies personnes qui veulent aider.",
-    "t": 583.44
+    "t": 582.78
    },
    {
     "speaker": "Anna",
     "text": "Concluons, Tom. Si je suis en train d'écouter, qu'est-ce que je dois retenir ?",
-    "t": 585.73
+    "t": 585.07
    },
    {
     "speaker": "Tom",
     "text": "Trois choses. D'abord — si vous, ou quelqu'un que vous connaissez, avez besoin d'un ordinateur et ne pouvez pas vous le payer, et que vous vivez au Luxembourg avec de faibles revenus ou comme réfugié — il existe de l'aide.",
-    "t": 589.6
+    "t": 588.94
    },
    {
     "speaker": "Tom",
     "text": "Un ordinateur gratuit, qui fonctionne.",
-    "t": 601.66
+    "t": 601
    },
    {
     "speaker": "Anna",
     "text": "Un ordinateur gratuit.",
-    "t": 604.05
+    "t": 603.39
    },
    {
     "speaker": "Tom",
     "text": "Ensuite — si vous avez l'ordinateur mais pas la confiance, il y a des cours gratuits, et un Open Classroom en accès libre tous les vendredis.",
-    "t": 605.68
+    "t": 605.02
    },
    {
     "speaker": "Tom",
     "text": "On n'est jamais trop âgé, ni trop nouveau, pour apprendre.",
-    "t": 612.77
+    "t": 612.11
    },
    {
     "speaker": "Anna",
     "text": "Et la troisième ?",
-    "t": 615.75
+    "t": 615.09
    },
    {
     "speaker": "Tom",
     "text": "Troisième — si vous faites partie des chanceux qui ont tout ce dont ils ont besoin, vous pouvez participer à tout ça.",
-    "t": 617.03
+    "t": 616.37
    },
    {
     "speaker": "Tom",
     "text": "Donnez ce vieil appareil.",
-    "t": 622.84
+    "t": 622.18
    },
    {
     "speaker": "Tom",
     "text": "Donnez un peu d'argent.",
-    "t": 624.41
+    "t": 623.75
    },
    {
     "speaker": "Tom",
     "text": "Ou donnez de votre temps.",
-    "t": 625.66
+    "t": 625
    },
    {
     "speaker": "Tom",
     "text": "Transformez votre technologie inutilisée en une opportunité pour quelqu'un d'autre.",
-    "t": 627.02
+    "t": 626.36
    },
    {
     "speaker": "Anna",
     "text": "Un petit résumé pour finir ?",
-    "t": 631.79
+    "t": 631.13
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Digital Inclusion est une association sans but lucratif luxembourgeoise qui comble la fracture numérique de trois façons.",
-    "t": 633.45
+    "t": 632.79
    },
    {
     "speaker": "Tom",
     "text": "Elle offre des ordinateurs reconditionnés gratuits aux personnes à faibles revenus et aux réfugiés — plus de dix mille jusqu'à présent.",
-    "t": 641.31
+    "t": 640.65
    },
    {
     "speaker": "Tom",
     "text": "Elle enseigne les compétences numériques, avec des cours gratuits dans de nombreuses langues et un Open Classroom en accès libre tous les vendredis.",
-    "t": 648.06
+    "t": 647.4
    },
    {
     "speaker": "Tom",
     "text": "Et elle protège l'environnement, en donnant une deuxième vie aux anciens appareils.",
-    "t": 655.41
+    "t": 654.75
    },
    {
     "speaker": "Tom",
     "text": "Tout est sur digital-inclusion.lu, et leur porte à Bonnevoie est ouverte tous les jours de la semaine.",
-    "t": 659.34
+    "t": 658.68
    },
    {
     "speaker": "Anna",
     "text": "Et le message du jour ?",
-    "t": 665.17
+    "t": 664.51
    },
    {
     "speaker": "Tom",
     "text": "Que dans un monde qui fonctionne avec des écrans, personne ne devrait être laissé de côté faute d'un ordinateur ou d'un peu d'aide pour s'en servir.",
-    "t": 666.6
+    "t": 665.94
    },
    {
     "speaker": "Tom",
     "text": "Un ordinateur portable donné, un enseignant patient, un atelier accueillant — de petites choses qui changent des vies.",
-    "t": 673.5
+    "t": 672.84
    },
    {
     "speaker": "Anna",
     "text": "Alors... que vous ayez besoin d'aide, ou que vous souhaitiez en donner — retenez le nom.",
-    "t": 679.75
+    "t": 679.09
    },
    {
     "speaker": "Anna",
     "text": "Digital Inclusion. digital-inclusion.lu.",
-    "t": 683.51
+    "t": 682.85
    },
    {
     "speaker": "Tom",
     "text": "Un ordinateur, et les compétences pour s'en servir.",
-    "t": 687.74
+    "t": 687.08
    },
    {
     "speaker": "Tom",
     "text": "C'est une porte vers le monde moderne — ouverte à tout le monde.",
-    "t": 690.36
+    "t": 689.7
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur Digital Inclusion.",
-    "t": 693.77
+    "t": 693.11
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 696.11
+    "t": 695.45
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 704.24
+    "t": 703.58
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 720.09
+    "t": 719.43
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 724.74
+    "t": 724.08
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 726.52
+    "t": 725.86
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 730.9
+    "t": 730.24
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 732.13
+    "t": 731.47
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 734.59
+    "t": 733.93
    }
   ],
   "segments_de": [
@@ -12458,1038 +12458,1038 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und das heutige Thema mag ich besonders, weil es um Fairness in der modernen Welt geht.",
-    "t": 28.46
+    "t": 27.86
    },
    {
     "speaker": "Tom",
     "text": "Es geht um einen gemeinnützigen Verein namens Digital Inclusion.",
-    "t": 34.65
+    "t": 34.05
    },
    {
     "speaker": "Anna",
     "text": "Digital Inclusion. Tom, lass uns mit dem Problem anfangen.",
-    "t": 38.49
+    "t": 37.89
    },
    {
     "speaker": "Anna",
     "text": "Warum brauchen wir so etwas überhaupt?",
-    "t": 43.2
+    "t": 42.6
    },
    {
     "speaker": "Tom",
     "text": "Denk daran, wie viel im Leben heute über einen Bildschirm läuft.",
-    "t": 45.46
+    "t": 44.86
    },
    {
     "speaker": "Tom",
     "text": "Man bewirbt sich online um eine Stelle.",
-    "t": 48.97
+    "t": 48.37
    },
    {
     "speaker": "Tom",
     "text": "Man macht einen Arzttermin.",
-    "t": 51.33
+    "t": 50.73
    },
    {
     "speaker": "Tom",
     "text": "Man erledigt seine Bankgeschäfte.",
-    "t": 53.08
+    "t": 52.48
    },
    {
     "speaker": "Tom",
     "text": "Man füllt amtliche Formulare aus.",
-    "t": 54.97
+    "t": 54.37
    },
    {
     "speaker": "Tom",
     "text": "Man hilft seinen Kindern bei der Schule.",
-    "t": 57.24
+    "t": 56.64
    },
    {
     "speaker": "Tom",
     "text": "Fast alles braucht einen Computer und das Können, einen zu bedienen.",
-    "t": 59.31
+    "t": 58.71
    },
    {
     "speaker": "Anna",
     "text": "Und wenn man keinen Computer hat oder nie gelernt hat, einen zu benutzen...",
-    "t": 63.52
+    "t": 62.92
    },
    {
     "speaker": "Tom",
     "text": "...dann ist man ausgeschlossen.",
-    "t": 67.61
+    "t": 67.01
    },
    {
     "speaker": "Tom",
     "text": "Nicht nur ein bisschen unbequem dran — wirklich ausgeschlossen, von der Arbeit, von Dienstleistungen, vom Alltag.",
-    "t": 69.12
+    "t": 68.52
    },
    {
     "speaker": "Tom",
     "text": "Man nennt das die \"digitale Kluft\".",
-    "t": 75.72
+    "t": 75.12
    },
    {
     "speaker": "Tom",
     "text": "Auf der einen Seite die Menschen, die verbunden sind.",
-    "t": 77.86
+    "t": 77.26
    },
    {
     "speaker": "Tom",
     "text": "Auf der anderen Seite die, die zurückbleiben.",
-    "t": 80.44
+    "t": 79.84
    },
    {
     "speaker": "Anna",
     "text": "Und diese Kluft kann mit Geld zu tun haben, mit dem Alter, oder einfach damit, dass man nie die Chance hatte, es zu lernen.",
-    "t": 83.04
+    "t": 82.44
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und genau diese Kluft will Digital Inclusion schließen.",
-    "t": 90.08
+    "t": 89.48
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein gemeinnütziger Verein (asbl) hier in Luxemburg.",
-    "t": 94.56
+    "t": 93.96
    },
    {
     "speaker": "Tom",
     "text": "Und die ganze Aufgabe besteht darin, jedem im Land den Zugang zur Informationstechnologie zu ermöglichen.",
-    "t": 98.66
+    "t": 98.06
    },
    {
     "speaker": "Anna",
     "text": "Wem helfen sie also, und wie?",
-    "t": 104.85
+    "t": 104.25
    },
    {
     "speaker": "Anna",
     "text": "Gib uns den großen Überblick.",
-    "t": 106.88
+    "t": 106.28
    },
    {
     "speaker": "Tom",
     "text": "Der große Überblick ist wunderbar einfach.",
-    "t": 108.88
+    "t": 108.28
    },
    {
     "speaker": "Tom",
     "text": "Sie tun drei Dinge.",
-    "t": 111.33
+    "t": 110.73
    },
    {
     "speaker": "Tom",
     "text": "Erstens — sie geben den Menschen einen Computer.",
-    "t": 112.67
+    "t": 112.07
    },
    {
     "speaker": "Tom",
     "text": "Zweitens — sie bringen den Menschen bei, wie man ihn benutzt.",
-    "t": 115.76
+    "t": 115.16
    },
    {
     "speaker": "Tom",
     "text": "Und drittens — sie machen das alles auf eine Weise, die gut für den Planeten ist.",
-    "t": 119.07
+    "t": 118.47
    },
    {
     "speaker": "Anna",
     "text": "Ein Computer, das Können, und gut für den Planeten.",
-    "t": 123.87
+    "t": 123.27
    },
    {
     "speaker": "Anna",
     "text": "Das gefällt mir.",
-    "t": 127.05
+    "t": 126.45
    },
    {
     "speaker": "Anna",
     "text": "Nehmen wir die Punkte einzeln.",
-    "t": 128.28
+    "t": 127.68
    },
    {
     "speaker": "Anna",
     "text": "Fang mit dem Computer an.",
-    "t": 130.02
+    "t": 129.42
    },
    {
     "speaker": "Tom",
     "text": "Also, Digital Inclusion verschenkt kostenlose gebrauchte Computer an Menschen, die sie brauchen, hier in Luxemburg.",
-    "t": 131.78
+    "t": 131.18
    },
    {
     "speaker": "Anna",
     "text": "Kostenlose Computer. Woher kommen die?",
-    "t": 138.42
+    "t": 137.82
    },
    {
     "speaker": "Tom",
     "text": "Sie werden gespendet.",
-    "t": 141.32
+    "t": 140.72
    },
    {
     "speaker": "Tom",
     "text": "Firmen und Privatpersonen geben ihre alten Laptops, Desktop-Rechner, Smartphones und Tablets ab.",
-    "t": 142.81
+    "t": 142.21
    },
    {
     "speaker": "Tom",
     "text": "Dann reinigt ein Team von Freiwilligen sie, repariert sie, löscht die alten Daten und installiert neue Software.",
-    "t": 149.32
+    "t": 148.72
    },
    {
     "speaker": "Tom",
     "text": "Aus einem müden alten Laptop wird wieder ein gutes, funktionierendes Gerät.",
-    "t": 155.86
+    "t": 155.26
    },
    {
     "speaker": "Anna",
     "text": "Ein Computer also, den eine Person nicht mehr möchte, wird zur Lebensader für eine andere.",
-    "t": 160.34
+    "t": 159.74
    },
    {
     "speaker": "Tom",
     "text": "Ganz genau. Und die Zahlen sind beeindruckend.",
-    "t": 165.49
+    "t": 164.89
    },
    {
     "speaker": "Tom",
     "text": "Seit dem Start im Jahr zweitausendsechzehn haben sie mehr als zehntausend Computer ausgegeben.",
-    "t": 168.44
+    "t": 167.84
    },
    {
     "speaker": "Tom",
     "text": "Und über tausend Smartphones.",
-    "t": 173.69
+    "t": 173.09
    },
    {
     "speaker": "Anna",
     "text": "Zehntausend Computer! Das sind zehntausend Menschen oder Familien, die online gebracht wurden.",
-    "t": 175.65
+    "t": 175.05
    },
    {
     "speaker": "Tom",
     "text": "Und es wächst weiter.",
-    "t": 181.09
+    "t": 180.49
    },
    {
     "speaker": "Tom",
     "text": "In einem einzigen jüngeren Jahr haben Freiwillige über zweitausend Geräte wiederaufbereitet.",
-    "t": 182.4
+    "t": 181.8
    },
    {
     "speaker": "Tom",
     "text": "Dieses Jahr, zweitausendsechsundzwanzig, feiert die Organisation sogar ihr zehnjähriges Bestehen.",
-    "t": 187.93
+    "t": 187.33
    },
    {
     "speaker": "Anna",
     "text": "Zehn Jahre dieser Arbeit.",
-    "t": 193.8
+    "t": 193.2
    },
    {
     "speaker": "Anna",
     "text": "Jetzt die praktische Frage, die sich alle stellen — wer kann denn so einen Computer tatsächlich bekommen?",
-    "t": 195.6
+    "t": 195
    },
    {
     "speaker": "Tom",
     "text": "Gut — sagen wir es klar und konkret.",
-    "t": 201.99
+    "t": 201.39
    },
    {
     "speaker": "Tom",
     "text": "Um einen Antrag zu stellen, muss man erstens in Luxemburg wohnen.",
-    "t": 204.59
+    "t": 203.99
    },
    {
     "speaker": "Tom",
     "text": "Und dann muss man eine von einigen Bedingungen erfüllen.",
-    "t": 208.07
+    "t": 207.47
    },
    {
     "speaker": "Anna",
     "text": "Welche sind das?",
-    "t": 211.05
+    "t": 210.45
    },
    {
     "speaker": "Tom",
     "text": "Die wichtigsten sind diese.",
-    "t": 212.42
+    "t": 211.82
    },
    {
     "speaker": "Tom",
     "text": "Ihr Haushalt bezieht die Teuerungszulage (allocation de vie chère).",
-    "t": 214.05
+    "t": 213.45
    },
    {
     "speaker": "Tom",
     "text": "Oder Sie sind ein Flüchtling — ein Asylsuchender, eine Person unter vorübergehendem Schutz oder ein unbegleiteter Minderjähriger.",
-    "t": 218.31
+    "t": 217.71
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch noch einige andere Fälle, schauen Sie also auf der Website nach, ob Sie berechtigt sind.",
-    "t": 226.21
+    "t": 225.61
    },
    {
     "speaker": "Anna",
     "text": "Es richtet sich also wirklich an Menschen mit geringem Einkommen und an Flüchtlinge und Neuankömmlinge.",
-    "t": 231.68
+    "t": 231.08
    },
    {
     "speaker": "Tom",
     "text": "Genau — an die Menschen, für die der Kauf eines Computers eine echte Herausforderung wäre.",
-    "t": 237.2
+    "t": 236.6
    },
    {
     "speaker": "Tom",
     "text": "Meistens gibt es einen Laptop pro Haushalt.",
-    "t": 242.87
+    "t": 242.27
    },
    {
     "speaker": "Tom",
     "text": "Aber die anderen Familienmitglieder können oft auch einen zusätzlichen Computer beantragen.",
-    "t": 245.3
+    "t": 244.7
    },
    {
     "speaker": "Anna",
     "text": "Dann können also der Jugendliche, der seine Hausaufgaben macht, und der Elternteil, der Arbeit sucht, vielleicht jeweils ein Gerät bekommen?",
-    "t": 249.97
+    "t": 249.37
    },
    {
     "speaker": "Tom",
     "text": "Oft, ja. Die Regeln ändern sich von Zeit zu Zeit, deshalb erklärt die Website die aktuellen — und wie lange Sie vielleicht warten müssen.",
-    "t": 257.12
+    "t": 256.52
    },
    {
     "speaker": "Anna",
     "text": "Gut zu wissen.",
-    "t": 265.1
+    "t": 264.5
    },
    {
     "speaker": "Anna",
     "text": "Und was für einen Computer bekommt man eigentlich?",
-    "t": 266.27
+    "t": 265.67
    },
    {
     "speaker": "Anna",
     "text": "Irgendein altes, kaputtes Ding?",
-    "t": 268.75
+    "t": 268.15
    },
    {
     "speaker": "Tom",
     "text": "Nein, das ist das Schöne daran.",
-    "t": 270.91
+    "t": 270.31
    },
    {
     "speaker": "Tom",
     "text": "Sie kommen einsatzbereit, mit bereits installiertem Betriebssystem — meistens Windows, oder ein Mac.",
-    "t": 272.98
+    "t": 272.38
    },
    {
     "speaker": "Tom",
     "text": "Ein anständiger Prozessor.",
-    "t": 278.98
+    "t": 278.38
    },
    {
     "speaker": "Tom",
     "text": "Und sie kommen sogar mit einer kostenlosen Reparaturgarantie — außer für den Akku, der bei einem alten Laptop vielleicht schwach oder gar nicht mehr da ist.",
-    "t": 280.72
+    "t": 280.12
    },
    {
     "speaker": "Anna",
     "text": "Ein kostenloser Computer, der funktioniert, mit Garantie.",
-    "t": 289.21
+    "t": 288.61
    },
    {
     "speaker": "Anna",
     "text": "Das ist wirklich großzügig.",
-    "t": 292.6
+    "t": 292
    },
    {
     "speaker": "Anna",
     "text": "Gut — das war der Computer.",
-    "t": 294.49
+    "t": 293.89
    },
    {
     "speaker": "Anna",
     "text": "Jetzt der zweite Teil.",
-    "t": 296.79
+    "t": 296.19
    },
    {
     "speaker": "Anna",
     "text": "Das Können.",
-    "t": 298.31
+    "t": 297.71
    },
    {
     "speaker": "Tom",
     "text": "Ja — denn ein Computer nützt nichts, wenn man nicht weiß, wie man ihn benutzt.",
-    "t": 299.41
+    "t": 298.81
    },
    {
     "speaker": "Tom",
     "text": "Deshalb bietet Digital Inclusion auch Kurse an.",
-    "t": 303.65
+    "t": 303.05
    },
    {
     "speaker": "Tom",
     "text": "Kostenlose IT-Kurse, um den Menschen die Grundlagen und mehr beizubringen.",
-    "t": 306.53
+    "t": 305.93
    },
    {
     "speaker": "Anna",
     "text": "Und in welchen Sprachen?",
-    "t": 311.14
+    "t": 310.54
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg ist ja so mehrsprachig.",
-    "t": 312.6
+    "t": 312
    },
    {
     "speaker": "Tom",
     "text": "In vielen Sprachen.",
-    "t": 314.88
+    "t": 314.28
    },
    {
     "speaker": "Tom",
     "text": "Das ist Absicht — sie unterrichten in mehreren Sprachen, damit Neuankömmlinge in einer Sprache lernen können, die sie verstehen.",
-    "t": 316.18
+    "t": 315.58
    },
    {
     "speaker": "Tom",
     "text": "Sie haben sogar ein Sprachlabor, darunter eines, das KI nutzt, um den Menschen beim Üben zu helfen.",
-    "t": 323.79
+    "t": 323.19
    },
    {
     "speaker": "Anna",
     "text": "Man kann also Computerkenntnisse und Sprachkenntnisse gleichzeitig lernen.",
-    "t": 329.69
+    "t": 329.09
    },
    {
     "speaker": "Tom",
     "text": "Beides auf einmal.",
-    "t": 333.8
+    "t": 333.2
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt noch etwas, das mir wirklich gefällt — das Open Classroom (offene Sprechstunde).",
-    "t": 335.1
+    "t": 334.5
    },
    {
     "speaker": "Tom",
     "text": "Jeden Freitagvormittag kann man einfach hereinkommen, ohne Termin, und Hilfe bei einem digitalen Problem bekommen.",
-    "t": 340.63
+    "t": 340.03
    },
    {
     "speaker": "Anna",
     "text": "Einfach hereinkommen? Wenn ich also nicht weiterweiß — ich kann mich irgendwo nicht anmelden, ich verstehe eine E-Mail nicht, ein Formular funktioniert nicht...",
-    "t": 347.07
+    "t": 346.47
    },
    {
     "speaker": "Tom",
     "text": "...dann bringen Sie es an einem Freitagvormittag mit, und jemand setzt sich mit Ihnen hin und hilft.",
-    "t": 356.17
+    "t": 355.57
    },
    {
     "speaker": "Tom",
     "text": "Ohne Termin, kostenlos.",
-    "t": 361.11
+    "t": 360.51
    },
    {
     "speaker": "Tom",
     "text": "Geöffnet ist von halb zehn bis halb zwei.",
-    "t": 362.94
+    "t": 362.34
    },
    {
     "speaker": "Anna",
     "text": "Das ist wunderbar.",
-    "t": 365.58
+    "t": 364.98
    },
    {
     "speaker": "Anna",
     "text": "So viele Menschen brauchen einfach jemand Geduldigen, der sich zehn Minuten neben sie setzt.",
-    "t": 366.81
+    "t": 366.21
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und es sind nicht nur Einzelpersonen.",
-    "t": 371.59
+    "t": 370.99
    },
    {
     "speaker": "Tom",
     "text": "Sie unterstützen auch soziale Organisationen, und sie bieten Gerätereparaturen an — die nach Termin, per E-Mail.",
-    "t": 374.76
+    "t": 374.16
    },
    {
     "speaker": "Anna",
     "text": "Gut. Der Computer, das Können... jetzt der dritte Teil.",
-    "t": 381.7
+    "t": 381.1
    },
    {
     "speaker": "Anna",
     "text": "Du hast gesagt, gut für den Planeten.",
-    "t": 386.3
+    "t": 385.7
    },
    {
     "speaker": "Anna",
     "text": "Erzähl mir davon.",
-    "t": 388.83
+    "t": 388.23
    },
    {
     "speaker": "Tom",
     "text": "Das ist der Teil, der das Ganze so klug macht.",
-    "t": 390.18
+    "t": 389.58
    },
    {
     "speaker": "Tom",
     "text": "Denk mal nach — jeder Computer, den sie verschenken, ist ein Computer, der weggeworfen worden wäre.",
-    "t": 392.71
+    "t": 392.11
    },
    {
     "speaker": "Tom",
     "text": "Elektroschrott ist ein riesiges Umweltproblem.",
-    "t": 398.28
+    "t": 397.68
    },
    {
     "speaker": "Anna",
     "text": "All die alten Laptops in Schubladen oder im Müll.",
-    "t": 401.23
+    "t": 400.63
    },
    {
     "speaker": "Tom",
     "text": "Richtig. Indem sie sie sammeln, reparieren und ihnen ein zweites Leben geben — und sogar ein drittes Leben — hält Digital Inclusion sie aus dem Müll heraus.",
-    "t": 404.19
+    "t": 403.59
    },
    {
     "speaker": "Tom",
     "text": "So hilft eine einzige Handlung einem Menschen UND der Umwelt.",
-    "t": 414.32
+    "t": 413.72
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein Kreis.",
-    "t": 417.88
+    "t": 417.28
    },
    {
     "speaker": "Anna",
     "text": "Der Abfall des einen wird zum Werkzeug des anderen.",
-    "t": 419.2
+    "t": 418.6
    },
    {
     "speaker": "Tom",
     "text": "Ein schöner Kreis.",
-    "t": 422.2
+    "t": 421.6
    },
    {
     "speaker": "Tom",
     "text": "Soziales Gutes und ökologisches Gutes, in ein und derselben Geste.",
-    "t": 423.51
+    "t": 422.91
    },
    {
     "speaker": "Tom",
     "text": "Und hier ein Detail, das ich sehr berührend finde — viele der Freiwilligen, die die Computer reparieren, sind selbst Flüchtlinge.",
-    "t": 428.6
+    "t": 428
    },
    {
     "speaker": "Anna",
     "text": "Oh — erzähl mir mehr darüber.",
-    "t": 435.88
+    "t": 435.28
    },
    {
     "speaker": "Tom",
     "text": "Also, während sie die Geräte reparieren, werden diese Freiwilligen geschult, sie bauen IT-Kenntnisse auf, und sie lernen Menschen aus der lokalen Technologiewelt kennen.",
-    "t": 438.07
+    "t": 437.47
    },
    {
     "speaker": "Tom",
     "text": "Sie lernen, sie tragen etwas bei, und sie knüpfen Kontakte — alles auf einmal.",
-    "t": 447.79
+    "t": 447.19
    },
    {
     "speaker": "Anna",
     "text": "Die Werkstatt repariert also nicht nur Computer.",
-    "t": 452.83
+    "t": 452.23
    },
    {
     "speaker": "Anna",
     "text": "Sie hilft Menschen, in einem neuen Land Fuß zu fassen.",
-    "t": 455.36
+    "t": 454.76
    },
    {
     "speaker": "Tom",
     "text": "Genau. Es werden Geräte repariert und gleichzeitig Lebenswege aufgebaut.",
-    "t": 458.4
+    "t": 457.8
    },
    {
     "speaker": "Tom",
     "text": "Deshalb ist das eine Geschichte über Inklusion, nicht nur über Technik.",
-    "t": 463.22
+    "t": 462.62
    },
    {
     "speaker": "Anna",
     "text": "Das ist wirklich etwas Besonderes.",
-    "t": 467.38
+    "t": 466.78
    },
    {
     "speaker": "Anna",
     "text": "Tom, machen wir es konkret.",
-    "t": 469.34
+    "t": 468.74
    },
    {
     "speaker": "Anna",
     "text": "Können wir einer einzelnen Person folgen?",
-    "t": 471.16
+    "t": 470.56
    },
    {
     "speaker": "Tom",
     "text": "Natürlich. Stellen wir uns eine Frau vor — nennen wir sie Amina.",
-    "t": 473.6
+    "t": 473
    },
    {
     "speaker": "Tom",
     "text": "Sie ist erst kürzlich als Flüchtling nach Luxemburg gekommen.",
-    "t": 478.23
+    "t": 477.63
    },
    {
     "speaker": "Tom",
     "text": "Sie hat zwei Kinder im Teenageralter.",
-    "t": 481.43
+    "t": 480.83
    },
    {
     "speaker": "Tom",
     "text": "Sie hat fast nichts und keinen Computer.",
-    "t": 483.7
+    "t": 483.1
    },
    {
     "speaker": "Anna",
     "text": "Eine sehr reale Situation.",
-    "t": 486.14
+    "t": 485.54
    },
    {
     "speaker": "Anna",
     "text": "Wie verändert Digital Inclusion ihre Geschichte?",
-    "t": 488.08
+    "t": 487.48
    },
    {
     "speaker": "Tom",
     "text": "Schritt für Schritt.",
-    "t": 491.21
+    "t": 490.61
    },
    {
     "speaker": "Tom",
     "text": "Erstens, weil sie als Flüchtling in Luxemburg lebt, ist sie berechtigt.",
-    "t": 492.39
+    "t": 491.79
    },
    {
     "speaker": "Tom",
     "text": "Sie stellt einen Antrag — und einige Zeit später erhält sie einen funktionierenden Laptop.",
-    "t": 496.69
+    "t": 496.09
    },
    {
     "speaker": "Tom",
     "text": "Und sie kann fragen, ob auch ihre beiden Teenager einen Computer für ihre Schularbeiten bekommen können.",
-    "t": 502.41
+    "t": 501.81
    },
    {
     "speaker": "Anna",
     "text": "Plötzlich ist also die ganze Familie online.",
-    "t": 507.9
+    "t": 507.3
    },
    {
     "speaker": "Tom",
     "text": "Die ganze Familie.",
-    "t": 510.67
+    "t": 510.07
    },
    {
     "speaker": "Tom",
     "text": "Dann fühlt sich Amina aber unsicher beim Benutzen.",
-    "t": 512.09
+    "t": 511.49
    },
    {
     "speaker": "Tom",
     "text": "Also geht sie zu einem kostenlosen Kurs, in einer Sprache, die sie versteht, und lernt die Grundlagen.",
-    "t": 514.82
+    "t": 514.22
    },
    {
     "speaker": "Tom",
     "text": "Als sie eine Woche nicht weiterkommt, schaut sie am Freitag im Open Classroom vorbei, und jemand hilft ihr, ihre E-Mail und ein amtliches Konto einzurichten.",
-    "t": 520.61
+    "t": 520.01
    },
    {
     "speaker": "Anna",
     "text": "Und jetzt kann sie die Dinge tun, die für uns andere selbstverständlich sind.",
-    "t": 529.65
+    "t": 529.05
    },
    {
     "speaker": "Tom",
     "text": "Jetzt kann sie sich um Stellen bewerben, ihre Formulare ausfüllen, der Schule ihrer Kinder schreiben, ihre Bankgeschäfte erledigen — ganz allein.",
-    "t": 533.91
+    "t": 533.31
    },
    {
     "speaker": "Tom",
     "text": "Das ist nicht nur ein Computer.",
-    "t": 542.64
+    "t": 542.04
    },
    {
     "speaker": "Tom",
     "text": "Das ist Würde und Unabhängigkeit.",
-    "t": 544.38
+    "t": 543.78
    },
    {
     "speaker": "Anna",
     "text": "Und vielleicht arbeitet sie eines Tages selbst freiwillig in der Werkstatt mit.",
-    "t": 546.56
+    "t": 545.96
    },
    {
     "speaker": "Tom",
     "text": "Vielleicht tut sie das.",
-    "t": 550.64
+    "t": 550.04
    },
    {
     "speaker": "Tom",
     "text": "Und dann schließt sich der Kreis — aus dem Menschen, dem geholfen wurde, wird der Mensch, der hilft.",
-    "t": 551.99
+    "t": 551.39
    },
    {
     "speaker": "Tom",
     "text": "Das passiert dort ständig.",
-    "t": 557.83
+    "t": 557.23
    },
    {
     "speaker": "Anna",
     "text": "Das gefällt mir.",
-    "t": 559.55
+    "t": 558.95
    },
    {
     "speaker": "Anna",
     "text": "Jetzt, Tom, drehen wir es um.",
-    "t": 560.74
+    "t": 560.14
    },
    {
     "speaker": "Anna",
     "text": "Viele unserer Hörer haben schon, was sie brauchen.",
-    "t": 562.71
+    "t": 562.11
    },
    {
     "speaker": "Anna",
     "text": "Wie können sie helfen?",
-    "t": 565.24
+    "t": 564.64
    },
    {
     "speaker": "Tom",
     "text": "Auf so viele Arten, und das ist wichtig.",
-    "t": 566.8
+    "t": 566.2
    },
    {
     "speaker": "Tom",
     "text": "Am einfachsten — wenn Sie einen alten Laptop, ein Smartphone oder ein Tablet in einer Schublade liegen haben, das nichts tut — spenden Sie es.",
-    "t": 569.32
+    "t": 568.72
    },
    {
     "speaker": "Tom",
     "text": "Lassen Sie es nicht verrotten.",
-    "t": 578.12
+    "t": 577.52
    },
    {
     "speaker": "Tom",
     "text": "Geben Sie ihm ein zweites Leben.",
-    "t": 579.64
+    "t": 579.04
    },
    {
     "speaker": "Anna",
     "text": "Dieser alte Laptop im Schrank könnte also zur Lebensader für jemanden werden.",
-    "t": 581.57
+    "t": 580.97
    },
    {
     "speaker": "Tom",
     "text": "Im wahrsten Sinne.",
-    "t": 585.87
+    "t": 585.27
    },
    {
     "speaker": "Tom",
     "text": "Machen Sie sich keine Sorgen — sie kümmern sich sicher um die Datenlöschung.",
-    "t": 587.02
+    "t": 586.42
    },
    {
     "speaker": "Tom",
     "text": "Sie können auch Geld geben, um die Kosten mitzudecken.",
-    "t": 590.89
+    "t": 590.29
    },
    {
     "speaker": "Tom",
     "text": "Und Sie können sich freiwillig engagieren — in der Reparaturwerkstatt oder beim Unterrichten.",
-    "t": 593.68
+    "t": 593.08
    },
    {
     "speaker": "Anna",
     "text": "Und Firmen? Die haben bestimmt viele alte Geräte, wenn sie aufrüsten.",
-    "t": 598.83
+    "t": 598.23
    },
    {
     "speaker": "Tom",
     "text": "Firmen sind ein großer Punkt.",
-    "t": 603.15
+    "t": 602.55
    },
    {
     "speaker": "Tom",
     "text": "Wenn ein Unternehmen seine Computer erneuert, kann es die alten, statt sie zu verschrotten, an Digital Inclusion geben.",
-    "t": 605.03
+    "t": 604.43
    },
    {
     "speaker": "Tom",
     "text": "Das ist gut für die Gemeinschaft und gut für den Planeten — und eine schöne Sache, an der ein Unternehmen teilhaben kann.",
-    "t": 611.52
+    "t": 610.92
    },
    {
     "speaker": "Anna",
     "text": "Wo finden die Leute das alles?",
-    "t": 618.06
+    "t": 617.46
    },
    {
     "speaker": "Anna",
     "text": "Die Adresse, die Formulare, die Kurse?",
-    "t": 619.9
+    "t": 619.3
    },
    {
     "speaker": "Tom",
     "text": "Alles steht auf ihrer Website — digital Bindestrich inclusion Punkt l-u.",
-    "t": 622.91
+    "t": 622.31
    },
    {
     "speaker": "Tom",
     "text": "Also digital, dann ein Bindestrich, dann inclusion, Punkt l-u.",
-    "t": 627.94
+    "t": 627.34
    },
    {
     "speaker": "Tom",
     "text": "Dort finden Sie, wie man einen Antrag stellt, wie man spendet, den Kursplan und die Kontaktdaten.",
-    "t": 632.63
+    "t": 632.03
    },
    {
     "speaker": "Anna",
     "text": "Und gibt es einen echten Ort, den man besuchen kann?",
-    "t": 638.6
+    "t": 638
    },
    {
     "speaker": "Tom",
     "text": "Den gibt es.",
-    "t": 641.66
+    "t": 641.06
    },
    {
     "speaker": "Tom",
     "text": "Seit zweitausendvierundzwanzig sind sie in Bonnevoie, in Luxemburg-Stadt, in der Nähe des Hauptbahnhofs — des Bahnhofs (Gare).",
-    "t": 642.74
+    "t": 642.14
    },
    {
     "speaker": "Tom",
     "text": "Sie haben an jedem Wochentag geöffnet, von halb zehn Uhr morgens bis halb sechs Uhr nachmittags.",
-    "t": 650.9
+    "t": 650.3
    },
    {
     "speaker": "Anna",
     "text": "Es ist also eine echte, offene Tür, nicht nur eine Website.",
-    "t": 656.65
+    "t": 656.05
    },
    {
     "speaker": "Tom",
     "text": "Eine echte, offene Tür.",
-    "t": 660.4
+    "t": 659.8
    },
    {
     "speaker": "Tom",
     "text": "Mit echten Menschen, die helfen wollen.",
-    "t": 662.16
+    "t": 661.56
    },
    {
     "speaker": "Anna",
     "text": "Bringen wir es auf den Punkt, Tom.",
-    "t": 664.34
+    "t": 663.74
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich zuhöre, was soll ich mitnehmen?",
-    "t": 666.16
+    "t": 665.56
    },
    {
     "speaker": "Tom",
     "text": "Drei Dinge. Erstens — wenn Sie oder jemand, den Sie kennen, einen Computer braucht und ihn sich nicht leisten kann, und Sie in Luxemburg mit geringem Einkommen oder als Flüchtling leben — es gibt Hilfe.",
-    "t": 668.82
+    "t": 668.22
    },
    {
     "speaker": "Tom",
     "text": "Ein kostenloser, funktionierender Computer.",
-    "t": 681.16
+    "t": 680.56
    },
    {
     "speaker": "Anna",
     "text": "Ein kostenloser Computer.",
-    "t": 683.98
+    "t": 683.38
    },
    {
     "speaker": "Tom",
     "text": "Zweitens — wenn Sie den Computer haben, aber nicht das Selbstvertrauen, gibt es kostenlose Kurse und einen offenen Open Classroom an jedem Freitag.",
-    "t": 685.87
+    "t": 685.27
    },
    {
     "speaker": "Tom",
     "text": "Man ist nie zu alt oder zu neu, um zu lernen.",
-    "t": 695.19
+    "t": 694.59
    },
    {
     "speaker": "Anna",
     "text": "Und drittens?",
-    "t": 698
+    "t": 697.4
    },
    {
     "speaker": "Tom",
     "text": "Drittens — wenn Sie zu den Glücklichen gehören, die alles haben, was sie brauchen, können Sie ein Teil davon sein.",
-    "t": 699.23
+    "t": 698.63
    },
    {
     "speaker": "Tom",
     "text": "Spenden Sie dieses alte Gerät.",
-    "t": 705.23
+    "t": 704.63
    },
    {
     "speaker": "Tom",
     "text": "Geben Sie ein wenig Geld.",
-    "t": 707.24
+    "t": 706.64
    },
    {
     "speaker": "Tom",
     "text": "Oder schenken Sie Ihre Zeit.",
-    "t": 708.78
+    "t": 708.18
    },
    {
     "speaker": "Tom",
     "text": "Verwandeln Sie Ihre übrige Technik in die Chance eines anderen.",
-    "t": 710.51
+    "t": 709.91
    },
    {
     "speaker": "Anna",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 714.22
+    "t": 713.62
    },
    {
     "speaker": "Tom",
     "text": "Gern. Digital Inclusion ist ein gemeinnütziger Verein in Luxemburg, der die digitale Kluft auf drei Arten schließt.",
-    "t": 716.48
+    "t": 715.88
    },
    {
     "speaker": "Tom",
     "text": "Er gibt kostenlose, wiederaufbereitete Computer an Menschen mit geringem Einkommen und an Flüchtlinge — bisher mehr als zehntausend.",
-    "t": 724.18
+    "t": 723.58
    },
    {
     "speaker": "Tom",
     "text": "Er vermittelt digitale Kenntnisse, mit kostenlosen Kursen in vielen Sprachen und einem offenen Open Classroom an jedem Freitag.",
-    "t": 732.4
+    "t": 731.8
    },
    {
     "speaker": "Tom",
     "text": "Und er schützt die Umwelt, indem er alten Geräten ein zweites Leben gibt.",
-    "t": 740.18
+    "t": 739.58
    },
    {
     "speaker": "Tom",
     "text": "Alles steht auf digital-inclusion.lu, und ihre Tür in Bonnevoie ist an jedem Wochentag offen.",
-    "t": 744.39
+    "t": 743.79
    },
    {
     "speaker": "Anna",
     "text": "Und die Botschaft für heute?",
-    "t": 751.02
+    "t": 750.42
    },
    {
     "speaker": "Tom",
     "text": "Dass in einer Welt, die über Bildschirme läuft, niemand zurückgelassen werden sollte, weil ihm ein Computer fehlt oder ein wenig Hilfe, ihn zu nutzen.",
-    "t": 752.82
+    "t": 752.22
    },
    {
     "speaker": "Tom",
     "text": "Ein gespendeter Laptop, ein geduldiger Lehrer, eine einladende Werkstatt — kleine Dinge, die Leben verändern.",
-    "t": 761.16
+    "t": 760.56
    },
    {
     "speaker": "Anna",
     "text": "Also... ob Sie Hilfe brauchen oder Hilfe geben möchten — merken Sie sich den Namen.",
-    "t": 768.18
+    "t": 767.58
    },
    {
     "speaker": "Anna",
     "text": "Digital Inclusion. digital-inclusion.lu.",
-    "t": 774.28
+    "t": 773.68
    },
    {
     "speaker": "Tom",
     "text": "Ein Computer und das Können, ihn zu nutzen.",
-    "t": 779.62
+    "t": 779.02
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine Tür in die moderne Welt — offen für alle.",
-    "t": 782.26
+    "t": 781.66
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über Digital Inclusion.",
-    "t": 785.55
+    "t": 784.95
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 788.34
+    "t": 787.74
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 797.48
+    "t": 796.88
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 815.33
+    "t": 814.73
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 821.03
+    "t": 820.43
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 823.28
+    "t": 822.68
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 828.17
+    "t": 827.57
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 829.32
+    "t": 828.72
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 832.53
+    "t": 831.93
    }
   ],
   "questions": [
@@ -13987,7 +13987,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_digitalinclusion_fr.mp3",
-  "duration_fr": 736.37,
+  "duration_fr": 735.69,
   "title_fr": "Digital Inclusion – un ordinateur, et les compétences pour s'en servir",
   "description_fr": "Digital Inclusion a.s.b.l. est une association sans but lucratif luxembourgeoise (fondée en 2016) qui comble la fracture numérique de trois façons : elle offre des ordinateurs reconditionnés gratuits aux personnes à faibles revenus et aux réfugiés (plus de 10 000 distribués à ce jour), elle enseigne les compétences numériques avec des cours gratuits dans de nombreuses langues et un Open Classroom en accès libre tous les vendredis, et elle protège l'environnement en donnant une seconde vie aux appareils reçus en don. Tout est sur digital-inclusion.lu ; le bureau à Bonnevoie est ouvert tous les jours de la semaine.",
   "topics_fr": [
@@ -14058,7 +14058,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_digitalinclusion_de.mp3",
-  "duration_de": 834.06,
+  "duration_de": 833.46,
   "title_de": "Digital Inclusion – ein Computer, und das Können, ihn zu nutzen",
   "description_de": "Digital Inclusion a.s.b.l. ist ein gemeinnütziger Verein in Luxemburg (2016 gegründet), der die digitale Kluft auf drei Arten schließt: Er gibt kostenlose, wiederaufbereitete Computer an Menschen mit niedrigem Einkommen und an Flüchtlinge (bisher über 10 000 verteilt), er vermittelt digitale Kenntnisse mit kostenlosen Kursen in vielen Sprachen und einem offenen Open Classroom an jedem Freitag, und er schützt die Umwelt, indem er gespendeten Geräten ein zweites Leben gibt. Alles steht auf digital-inclusion.lu; das Büro in Bonnevoie ist an jedem Wochentag geöffnet.",
   "topics_de": [
@@ -15096,933 +15096,933 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et le sujet d'aujourd'hui parle justement de ce parcours — comment les gens viennent travailler et vivre au Luxembourg, au tout début.",
-    "t": 23.73
+    "t": 23.07
    },
    {
     "speaker": "Tom",
     "text": "On va parler d'un portail officiel qui s'appelle Work in Luxembourg.",
-    "t": 31.4
+    "t": 30.74
    },
    {
     "speaker": "Anna",
     "text": "Work in Luxembourg.",
-    "t": 34.82
+    "t": 34.16
    },
    {
     "speaker": "Anna",
     "text": "Tom, commençons par le début.",
-    "t": 36.13
+    "t": 35.47
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que c'est ?",
-    "t": 37.72
+    "t": 37.06
    },
    {
     "speaker": "Tom",
     "text": "Work in Luxembourg est un site officiel, mis en place par l'État.",
-    "t": 38.84
+    "t": 38.18
    },
    {
     "speaker": "Tom",
     "text": "Son rôle, c'est d'être une porte d'entrée unique — un seul endroit qui rassemble tout ce qu'il faut savoir pour travailler et vivre au Luxembourg.",
-    "t": 42.68
+    "t": 42.02
    },
    {
     "speaker": "Anna",
     "text": "Une porte d'entrée unique.",
-    "t": 50.09
+    "t": 49.43
    },
    {
     "speaker": "Anna",
     "text": "Parce que normalement, ces informations sont éparpillées partout.",
-    "t": 51.56
+    "t": 50.9
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Pensez à quelqu'un à l'étranger qui se demande s'il pourrait s'installer ici.",
-    "t": 54.58
+    "t": 53.92
    },
    {
     "speaker": "Tom",
     "text": "Par où commencer ?",
-    "t": 59.03
+    "t": 58.37
    },
    {
     "speaker": "Tom",
     "text": "Les offres d'emploi sont sur un site, les visas sur un autre, le logement encore ailleurs, les écoles encore ailleurs.",
-    "t": 60.2
+    "t": 59.54
    },
    {
     "speaker": "Tom",
     "text": "C'est décourageant.",
-    "t": 66.5
+    "t": 65.84
    },
    {
     "speaker": "Anna",
     "text": "Donc Work in Luxembourg rassemble tout cela en un seul endroit.",
-    "t": 67.78
+    "t": 67.12
    },
    {
     "speaker": "Tom",
     "text": "Un seul endroit, avec une information claire et cohérente.",
-    "t": 70.79
+    "t": 70.13
    },
    {
     "speaker": "Tom",
     "text": "L'adresse est simple — workinluxembourg point com.",
-    "t": 73.99
+    "t": 73.33
    },
    {
     "speaker": "Anna",
     "text": "Et à qui s'adresse-t-il vraiment ?",
-    "t": 77.33
+    "t": 76.67
    },
    {
     "speaker": "Anna",
     "text": "Uniquement aux gens qui vivent à l'étranger ?",
-    "t": 78.97
+    "t": 78.31
    },
    {
     "speaker": "Tom",
     "text": "Principalement, oui — il vise les talents internationaux.",
-    "t": 81.24
+    "t": 80.58
    },
    {
     "speaker": "Tom",
     "text": "Des personnes partout dans le monde, avec des compétences, qui pourraient vouloir construire une carrière et une vie ici.",
-    "t": 84.36
+    "t": 83.7
    },
    {
     "speaker": "Tom",
     "text": "Mais il est aussi vraiment utile pour toute personne curieuse du pays — et pour les employeurs qui veulent recruter à l'étranger.",
-    "t": 90.49
+    "t": 89.83
    },
    {
     "speaker": "Anna",
     "text": "Tu as dit « mis en place par l'État ».",
-    "t": 96.78
+    "t": 96.12
    },
    {
     "speaker": "Anna",
     "text": "Qui se trouve exactement derrière ce portail ?",
-    "t": 98.76
+    "t": 98.1
    },
    {
     "speaker": "Tom",
     "text": "C'est vraiment un effort collectif du pays.",
-    "t": 101.13
+    "t": 100.47
    },
    {
     "speaker": "Tom",
     "text": "Il a été construit ensemble par le ministère de l'Économie, le ministère du Travail, l'ADEM — qui est l'agence nationale pour l'emploi —, la Chambre de commerce, la Chambre des métiers, et une agence qui s'appelle Luxinnovation.",
-    "t": 103.44
+    "t": 102.78
    },
    {
     "speaker": "Anna",
     "text": "Donc ça fait beaucoup de partenaires officiels qui tirent dans le même sens.",
-    "t": 115.47
+    "t": 114.81
    },
    {
     "speaker": "Tom",
     "text": "Tous qui rament dans la même direction.",
-    "t": 119.09
+    "t": 118.43
    },
    {
     "speaker": "Tom",
     "text": "Et il y a une raison très claire derrière tout ça.",
-    "t": 121.14
+    "t": 120.48
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg, comme beaucoup d'endroits, manque de personnes qualifiées dans certains métiers.",
-    "t": 123.43
+    "t": 122.77
    },
    {
     "speaker": "Tom",
     "text": "Le pays veut donc attirer les talents — et bien les accueillir.",
-    "t": 127.56
+    "t": 126.9
    },
    {
     "speaker": "Anna",
     "text": "Passons au concret.",
-    "t": 131.08
+    "t": 130.42
    },
    {
     "speaker": "Anna",
     "text": "Si j'ouvre le site, qu'est-ce que je trouve vraiment ?",
-    "t": 132.21
+    "t": 131.55
    },
    {
     "speaker": "Anna",
     "text": "Comment est-il organisé ?",
-    "t": 134.53
+    "t": 133.87
    },
    {
     "speaker": "Tom",
     "text": "Très simplement. Il y a trois grandes sections.",
-    "t": 136.09
+    "t": 135.43
    },
    {
     "speaker": "Tom",
     "text": "Elles s'appellent « Work here » (travailler ici), « Live here » (vivre ici) et « Get started » (se lancer).",
-    "t": 138.7
+    "t": 138.04
    },
    {
     "speaker": "Anna",
     "text": "Work here, Live here, Get started.",
-    "t": 145.52
+    "t": 144.86
    },
    {
     "speaker": "Anna",
     "text": "Prenons-les une par une.",
-    "t": 147.41
+    "t": 146.75
    },
    {
     "speaker": "Anna",
     "text": "Commençons par « Work here ».",
-    "t": 148.88
+    "t": 148.22
    },
    {
     "speaker": "Tom",
     "text": "« Work here » concerne le côté professionnel.",
-    "t": 150.62
+    "t": 149.96
    },
    {
     "speaker": "Tom",
     "text": "Il explique le marché de l'emploi luxembourgeois, les principaux secteurs économiques, les types de carrières disponibles, et les conditions de travail.",
-    "t": 153.47
+    "t": 152.81
    },
    {
     "speaker": "Tom",
     "text": "Comme ça, on peut comprendre à quoi pourrait ressembler concrètement notre vie professionnelle.",
-    "t": 161.12
+    "t": 160.46
    },
    {
     "speaker": "Anna",
     "text": "Donc avant même de faire ses valises, on comprend le monde du travail dans lequel on entrerait.",
-    "t": 165.63
+    "t": 164.97
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Quels secteurs sont solides, quels sont vos droits en tant que travailleur, à quoi pourrait ressembler un parcours de carrière.",
-    "t": 169.71
+    "t": 169.05
    },
    {
     "speaker": "Anna",
     "text": "D'accord — « Live here ».",
-    "t": 176.53
+    "t": 175.87
    },
    {
     "speaker": "Anna",
     "text": "Je devine que ça parle de la vie de tous les jours ?",
-    "t": 178.58
+    "t": 177.92
    },
    {
     "speaker": "Tom",
     "text": "Tout à fait.",
-    "t": 180.79
+    "t": 180.13
    },
    {
     "speaker": "Tom",
     "text": "« Live here » concerne la qualité de vie.",
-    "t": 181.66
+    "t": 181
    },
    {
     "speaker": "Tom",
     "text": "Le logement, la famille, l'éducation, la santé, la culture, les loisirs — et l'environnement multiculturel et multilingue.",
-    "t": 183.76
+    "t": 183.1
    },
    {
     "speaker": "Tom",
     "text": "Parce qu'un emploi, ce n'est que la moitié d'une vie.",
-    "t": 191.55
+    "t": 190.89
    },
    {
     "speaker": "Tom",
     "text": "L'autre moitié, c'est — est-ce que ma famille sera heureuse ici ?",
-    "t": 193.97
+    "t": 193.31
    },
    {
     "speaker": "Anna",
     "text": "C'est tellement important.",
-    "t": 197.6
+    "t": 196.94
    },
    {
     "speaker": "Anna",
     "text": "Les gens ne déménagent pas seulement pour un emploi.",
-    "t": 198.95
+    "t": 198.29
    },
    {
     "speaker": "Anna",
     "text": "Ils déménagent pour une vie.",
-    "t": 201.23
+    "t": 200.57
    },
    {
     "speaker": "Tom",
     "text": "Ils déménagent pour une vie.",
-    "t": 202.85
+    "t": 202.19
    },
    {
     "speaker": "Tom",
     "text": "Et cette section aide à se la représenter — les écoles pour les enfants, le système de santé, les choses à faire le week-end.",
-    "t": 204.51
+    "t": 203.85
    },
    {
     "speaker": "Anna",
     "text": "Et la troisième — « Get started ».",
-    "t": 211.17
+    "t": 210.51
    },
    {
     "speaker": "Tom",
     "text": "« Get started » est la section pratique, celle où on retrousse ses manches.",
-    "t": 213.34
+    "t": 212.68
    },
    {
     "speaker": "Tom",
     "text": "Elle couvre l'immigration — les titres de séjour et de travail — ainsi que la recherche d'emploi, le logement, et un guide complet d'installation.",
-    "t": 217.45
+    "t": 216.79
    },
    {
     "speaker": "Tom",
     "text": "C'est la partie « comment je fais concrètement ».",
-    "t": 225.2
+    "t": 224.54
    },
    {
     "speaker": "Anna",
     "text": "Donc les deux premières sections vous inspirent, et la troisième vous aide à passer à l'action.",
-    "t": 227.69
+    "t": 227.03
    },
    {
     "speaker": "Tom",
     "text": "C'est la parfaite façon de le dire.",
-    "t": 231.77
+    "t": 231.11
    },
    {
     "speaker": "Tom",
     "text": "On en rêve dans « Work here » et « Live here », puis on le réalise dans « Get started ».",
-    "t": 233.68
+    "t": 233.02
    },
    {
     "speaker": "Tom",
     "text": "Et pour les entreprises, il y a même un Employer Toolkit (une boîte à outils pour les employeurs), pour les aider à recruter à l'étranger.",
-    "t": 238.45
+    "t": 237.79
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, Tom — le point essentiel pour la plupart des gens.",
-    "t": 245.72
+    "t": 245.06
    },
    {
     "speaker": "Anna",
     "text": "L'emploi. Est-ce qu'on peut vraiment trouver un emploi grâce à ce portail ?",
-    "t": 248.58
+    "t": 247.92
    },
    {
     "speaker": "Tom",
     "text": "Oui, on peut.",
-    "t": 252.12
+    "t": 251.46
    },
    {
     "speaker": "Tom",
     "text": "Il y a un Job Board — un espace pour chercher des postes ouverts.",
-    "t": 253.12
+    "t": 252.46
    },
    {
     "speaker": "Tom",
     "text": "Et voici le côté malin — il est connecté directement à la plateforme de recrutement international de l'ADEM.",
-    "t": 256.43
+    "t": 255.77
    },
    {
     "speaker": "Anna",
     "text": "L'ADEM — c'est l'agence nationale pour l'emploi dont tu parlais.",
-    "t": 262.19
+    "t": 261.53
    },
    {
     "speaker": "Tom",
     "text": "Exactement. L'ADEM est le service public de l'emploi du Luxembourg.",
-    "t": 265.13
+    "t": 264.47
    },
    {
     "speaker": "Tom",
     "text": "Donc les offres ne sont pas prises au hasard — elles passent par l'agence officielle.",
-    "t": 268.76
+    "t": 268.1
    },
    {
     "speaker": "Tom",
     "text": "Les annonces sont mises à jour chaque jour, et on peut créer un profil et postuler directement aux offres.",
-    "t": 273.05
+    "t": 272.39
    },
    {
     "speaker": "Anna",
     "text": "Et est-ce que quelqu'un regarde vraiment ces profils ?",
-    "t": 278.64
+    "t": 277.98
    },
    {
     "speaker": "Anna",
     "text": "Ou est-ce qu'ils disparaissent simplement dans une base de données ?",
-    "t": 281.12
+    "t": 280.46
    },
    {
     "speaker": "Tom",
     "text": "Ils sont bien réels.",
-    "t": 284.64
+    "t": 283.98
    },
    {
     "speaker": "Tom",
     "text": "En fait, la plateforme compte déjà environ onze mille candidats venus du monde entier, présélectionnés par l'ADEM.",
-    "t": 286.04
+    "t": 285.38
    },
    {
     "speaker": "Tom",
     "text": "C'est donc un vivier actif que les employeurs utilisent vraiment pour trouver des personnes.",
-    "t": 291.87
+    "t": 291.21
    },
    {
     "speaker": "Anna",
     "text": "Onze mille. Donc c'est un marché vivant, pas un tableau d'affichage vide.",
-    "t": 297.04
+    "t": 296.38
    },
    {
     "speaker": "Tom",
     "text": "Un marché vivant.",
-    "t": 301.01
+    "t": 300.35
    },
    {
     "speaker": "Tom",
     "text": "Des employeurs qui cherchent des compétences, et des personnes qualifiées qui cherchent un avenir — qui se rencontrent au même endroit.",
-    "t": 302.24
+    "t": 301.58
    },
    {
     "speaker": "Anna",
     "text": "Tu as mentionné que le Luxembourg manque de monde dans certains métiers.",
-    "t": 308.78
+    "t": 308.12
    },
    {
     "speaker": "Anna",
     "text": "Est-ce que le portail aide pour cela en particulier ?",
-    "t": 311.82
+    "t": 311.16
    },
    {
     "speaker": "Tom",
     "text": "Oui — et c'est vraiment utile à savoir.",
-    "t": 314.24
+    "t": 313.58
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg publie une liste des « métiers en pénurie » — les métiers où le pays a le plus besoin de personnes.",
-    "t": 316.1
+    "t": 315.44
    },
    {
     "speaker": "Tom",
     "text": "Et pour les professionnels venus de l'extérieur de l'Union européenne, travailler dans l'un de ces métiers en tension peut vouloir dire des démarches d'immigration plus rapides.",
-    "t": 322
+    "t": 321.34
    },
    {
     "speaker": "Anna",
     "text": "Donc si votre compétence fait partie de celles dont le pays a un besoin urgent, la porte s'ouvre plus vite.",
-    "t": 330.35
+    "t": 329.69
    },
    {
     "speaker": "Tom",
     "text": "Plus vite et plus facilement.",
-    "t": 335.42
+    "t": 334.76
    },
    {
     "speaker": "Tom",
     "text": "C'est une manière de dire — nous avons vraiment besoin de vous, alors rendons les choses plus simples.",
-    "t": 337.06
+    "t": 336.4
    },
    {
     "speaker": "Anna",
     "text": "Alors, toutes ces informations en ligne, c'est formidable.",
-    "t": 342.18
+    "t": 341.52
    },
    {
     "speaker": "Anna",
     "text": "Mais changer de pays, c'est stressant.",
-    "t": 344.53
+    "t": 343.87
    },
    {
     "speaker": "Anna",
     "text": "Est-ce qu'il y a un être humain à qui on peut vraiment parler ?",
-    "t": 346.45
+    "t": 345.79
    },
    {
     "speaker": "Tom",
     "text": "Oui — et j'adore cette partie.",
-    "t": 349.24
+    "t": 348.58
    },
    {
     "speaker": "Tom",
     "text": "À côté du site, il y a quelque chose qui s'appelle le Talent Desk.",
-    "t": 351.22
+    "t": 350.56
    },
    {
     "speaker": "Anna",
     "text": "Le Talent Desk.",
-    "t": 354.83
+    "t": 354.17
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que c'est ?",
-    "t": 355.97
+    "t": 355.31
    },
    {
     "speaker": "Tom",
     "text": "C'est un service qui offre un accompagnement personnalisé et humain.",
-    "t": 357.14
+    "t": 356.48
    },
    {
     "speaker": "Tom",
     "text": "Il vous informe, vous conseille, et vous guide à travers les démarches administratives et le parcours d'intégration.",
-    "t": 360.65
+    "t": 359.99
    },
    {
     "speaker": "Tom",
     "text": "Et si vous avez besoin d'une institution précise, il vous met en contact avec la bonne.",
-    "t": 366.44
+    "t": 365.78
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez joindre le Talent Desk par e-mail, à contact@talentdesk.lu, ou lui rendre visite au Kirchberg, sur rendez-vous.",
-    "t": 370.89
+    "t": 370.23
    },
    {
     "speaker": "Anna",
     "text": "Donc une vraie personne, qui vous aide à vous repérer dans les démarches et l'installation.",
-    "t": 379.03
+    "t": 378.37
    },
    {
     "speaker": "Tom",
     "text": "Une vraie personne.",
-    "t": 382.97
+    "t": 382.31
    },
    {
     "speaker": "Tom",
     "text": "Le site vous donne l'information ; le Talent Desk vous donne l'accompagnement.",
-    "t": 384.29
+    "t": 383.63
    },
    {
     "speaker": "Tom",
     "text": "Et il n'aide pas seulement les individus — il soutient aussi les entreprises dans leur recrutement international.",
-    "t": 387.9
+    "t": 387.24
    },
    {
     "speaker": "Anna",
     "text": "Donc des deux côtés — le talent et l'employeur — chacun reçoit un coup de main.",
-    "t": 393.47
+    "t": 392.81
    },
    {
     "speaker": "Tom",
     "text": "Des deux côtés.",
-    "t": 397.42
+    "t": 396.76
    },
    {
     "speaker": "Tom",
     "text": "Ça rend tout le processus plus fluide, et plus chaleureux.",
-    "t": 398.53
+    "t": 397.87
    },
    {
     "speaker": "Anna",
     "text": "Tom, parlons de l'image que le portail donne du Luxembourg.",
-    "t": 401.85
+    "t": 401.19
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce qui, selon lui, rend le pays attractif ?",
-    "t": 404.56
+    "t": 403.9
    },
    {
     "speaker": "Anna",
     "text": "Et soyons honnêtes, c'est un site promotionnel.",
-    "t": 406.97
+    "t": 406.31
    },
    {
     "speaker": "Tom",
     "text": "C'est juste — c'est une vitrine, alors prenons-le comme tel, avec les sources attribuées.",
-    "t": 409.4
+    "t": 408.74
    },
    {
     "speaker": "Tom",
     "text": "Il met en avant des choses comme la sécurité et la stabilité, une population diverse et multiculturelle, une économie dynamique, et un environnement favorable aux familles, avec de bonnes écoles et les transports publics gratuits.",
-    "t": 413.99
+    "t": 413.33
    },
    {
     "speaker": "Anna",
     "text": "Et il appuie tout cela avec des classements, n'est-ce pas ?",
-    "t": 426.63
+    "t": 425.97
    },
    {
     "speaker": "Tom",
     "text": "Oui, et il cite les sources.",
-    "t": 429.26
+    "t": 428.6
    },
    {
     "speaker": "Tom",
     "text": "Par exemple — selon le Legatum Prosperity Index, le Luxembourg est classé pays le plus sûr au monde pour les expatriés.",
-    "t": 431.16
+    "t": 430.5
    },
    {
     "speaker": "Tom",
     "text": "Selon l'IMD World Talent Ranking, il est deuxième au monde pour attirer les talents.",
-    "t": 437.95
+    "t": 437.29
    },
    {
     "speaker": "Tom",
     "text": "Et il souligne un fait frappant à propos de la population active.",
-    "t": 442.63
+    "t": 441.97
    },
    {
     "speaker": "Anna",
     "text": "Lequel ?",
-    "t": 446.26
+    "t": 445.6
    },
    {
     "speaker": "Tom",
     "text": "Qu'environ soixante-quatorze pour cent de la population active du Luxembourg sont soit des ressortissants étrangers, soit des travailleurs frontaliers.",
-    "t": 447.35
+    "t": 446.69
    },
    {
     "speaker": "Tom",
     "text": "Et plus de deux cent vingt-huit mille personnes franchissent une frontière chaque jour pour venir travailler ici.",
-    "t": 454.69
+    "t": 454.03
    },
    {
     "speaker": "Anna",
     "text": "Soixante-quatorze pour cent.",
-    "t": 460.08
+    "t": 459.42
    },
    {
     "speaker": "Anna",
     "text": "Donc travailler dans une équipe internationale n'est pas l'exception ici — c'est tout à fait normal.",
-    "t": 461.63
+    "t": 460.97
    },
    {
     "speaker": "Tom",
     "text": "C'est la réalité quotidienne.",
-    "t": 466.47
+    "t": 465.81
    },
    {
     "speaker": "Tom",
     "text": "Les gens au Luxembourg parlent, en moyenne, plusieurs langues — le luxembourgeois, le français, l'allemand, et beaucoup d'anglais au travail.",
-    "t": 468.3
+    "t": 467.64
    },
    {
     "speaker": "Tom",
     "text": "Pour un nouvel arrivant international, c'est rassurant.",
-    "t": 476.1
+    "t": 475.44
    },
    {
     "speaker": "Tom",
     "text": "Vous n'êtes pas celui qui détonne.",
-    "t": 479.05
+    "t": 478.39
    },
    {
     "speaker": "Tom",
     "text": "Tout le monde vient de quelque part.",
-    "t": 480.88
+    "t": 480.22
    },
    {
     "speaker": "Anna",
     "text": "C'est une belle pensée.",
-    "t": 482.73
+    "t": 482.07
    },
    {
     "speaker": "Anna",
     "text": "Rendons-la concrète. Est-ce qu'on peut suivre une personne ?",
-    "t": 484.18
+    "t": 483.52
    },
    {
     "speaker": "Tom",
     "text": "Allons-y. Imaginons une ingénieure en informatique — appelons-la Priya.",
-    "t": 487.04
+    "t": 486.38
    },
    {
     "speaker": "Tom",
     "text": "Elle vit très loin, et elle a entendu dire que le Luxembourg pourrait être un bon endroit pour ses compétences.",
-    "t": 491.29
+    "t": 490.63
    },
    {
     "speaker": "Tom",
     "text": "Mais elle n'a aucune idée de par où commencer.",
-    "t": 496.45
+    "t": 495.79
    },
    {
     "speaker": "Anna",
     "text": "La situation classique.",
-    "t": 498.96
+    "t": 498.3
    },
    {
     "speaker": "Anna",
     "text": "Tellement de questions, et aucune carte.",
-    "t": 500.5
+    "t": 499.84
    },
    {
     "speaker": "Tom",
     "text": "Alors elle trouve le portail — workinluxembourg point com.",
-    "t": 502.55
+    "t": 501.89
    },
    {
     "speaker": "Tom",
     "text": "D'abord, elle lit « Work here », et voit que la technologie est un secteur solide et en pleine croissance.",
-    "t": 505.96
+    "t": 505.3
    },
    {
     "speaker": "Tom",
     "text": "Puis elle ouvre « Live here », et regarde les écoles et le logement pour sa famille.",
-    "t": 511.77
+    "t": 511.11
    },
    {
     "speaker": "Anna",
     "text": "Donc pour l'instant elle explore juste, elle se fait une idée.",
-    "t": 516.16
+    "t": 515.5
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Ensuite elle va sur le Job Board, crée un profil, et postule à quelques offres — de vrais emplois, via l'ADEM.",
-    "t": 518.96
+    "t": 518.3
    },
    {
     "speaker": "Tom",
     "text": "Peut-être que son domaine figure même sur la liste des métiers en pénurie, ce qui veut dire un parcours d'immigration plus fluide.",
-    "t": 525.93
+    "t": 525.27
    },
    {
     "speaker": "Anna",
     "text": "Et quand les démarches deviennent écrasantes ?",
-    "t": 532.38
+    "t": 531.72
    },
    {
     "speaker": "Tom",
     "text": "Elle se tourne vers le Talent Desk, et une vraie personne l'aide à comprendre les permis et les étapes.",
-    "t": 534.55
+    "t": 533.89
    },
    {
     "speaker": "Tom",
     "text": "Et dans « Get started », elle suit le guide d'installation — le logement, l'inscription, tout cela.",
-    "t": 539.48
+    "t": 538.82
    },
    {
     "speaker": "Anna",
     "text": "Donc à partir d'un seul site, elle passe de « je n'ai aucune idée » à « j'ai une offre d'emploi et un plan ».",
-    "t": 544.81
+    "t": 544.15
    },
    {
     "speaker": "Tom",
     "text": "D'un rêve flou à un déménagement concret.",
-    "t": 549.76
+    "t": 549.1
    },
    {
     "speaker": "Tom",
     "text": "C'est tout le but du portail — transformer la confusion en un chemin clair.",
-    "t": 552.24
+    "t": 551.58
    },
    {
     "speaker": "Anna",
     "text": "Et honnêtement, c'est utile même pour les gens qui sont déjà ici, non ?",
-    "t": 556.8
+    "t": 556.14
    },
    {
     "speaker": "Tom",
     "text": "Tout à fait.",
-    "t": 560
+    "t": 559.34
    },
    {
     "speaker": "Tom",
     "text": "Si vous avez un ami ou un membre de votre famille à l'étranger qui pense à vous rejoindre au Luxembourg, c'est exactement là qu'il faut l'envoyer.",
-    "t": 560.88
+    "t": 560.22
    },
    {
     "speaker": "Tom",
     "text": "Et si vous êtes un employeur qui peine à trouver des compétences, c'est là qu'il faut chercher, et à qui demander de l'aide.",
-    "t": 567.79
+    "t": 567.13
    },
    {
     "speaker": "Anna",
     "text": "D'accord Tom, concluons.",
-    "t": 574.01
+    "t": 573.35
    },
    {
     "speaker": "Anna",
     "text": "Si je vous écoute, qu'est-ce que je dois retenir ?",
-    "t": 575.55
+    "t": 574.89
    },
    {
     "speaker": "Tom",
     "text": "Quelques choses simples.",
-    "t": 577.88
+    "t": 577.22
    },
    {
     "speaker": "Tom",
     "text": "D'abord — si vous, ou quelqu'un que vous connaissez, pensez à travailler au Luxembourg, il y a désormais une seule porte d'entrée officielle.",
-    "t": 579.29
+    "t": 578.63
    },
    {
     "speaker": "Tom",
     "text": "workinluxembourg point com.",
-    "t": 586.35
+    "t": 585.69
    },
    {
     "speaker": "Tom",
     "text": "Commencez là, au lieu de vous perdre.",
-    "t": 588.19
+    "t": 587.53
    },
    {
     "speaker": "Anna",
     "text": "Une seule porte d'entrée.",
-    "t": 590.36
+    "t": 589.7
    },
    {
     "speaker": "Tom",
     "text": "Ensuite — il est construit autour de trois sections claires.",
-    "t": 591.83
+    "t": 591.17
    },
    {
     "speaker": "Tom",
     "text": "« Work here » pour la carrière, « Live here » pour la vie, et « Get started » pour les démarches pratiques et les permis.",
-    "t": 595.13
+    "t": 594.47
    },
    {
     "speaker": "Anna",
     "text": "Et troisièmement ?",
-    "t": 601.78
+    "t": 601.12
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement — vous n'avez pas à le faire seul.",
-    "t": 603.06
+    "t": 602.4
    },
    {
     "speaker": "Tom",
     "text": "Le Job Board vous connecte à de vrais emplois via l'ADEM, et le Talent Desk vous offre une vraie personne pour vous guider.",
-    "t": 605.59
+    "t": 604.93
    },
    {
     "speaker": "Tom",
     "text": "De l'information, plus un coup de main.",
-    "t": 611.64
+    "t": 610.98
    },
    {
     "speaker": "Anna",
     "text": "Un petit résumé pour finir ?",
-    "t": 613.81
+    "t": 613.15
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Work in Luxembourg, sur workinluxembourg point com, est un portail officiel mis en place par l'État — une porte d'entrée unique pour les talents internationaux qui veulent travailler et vivre au Luxembourg.",
-    "t": 615.47
+    "t": 614.81
    },
    {
     "speaker": "Tom",
     "text": "Il est organisé en trois sections — Work here, Live here, et Get started — et il est porté par les principaux acteurs économiques et de l'emploi du pays, dont l'ADEM.",
-    "t": 627.15
+    "t": 626.49
    },
    {
     "speaker": "Tom",
     "text": "Son Job Board vous connecte à de vraies offres via l'ADEM, et son Talent Desk offre un accompagnement personnalisé et humain.",
-    "t": 636.76
+    "t": 636.1
    },
    {
     "speaker": "Tom",
     "text": "Pour les métiers en pénurie, les professionnels hors UE peuvent même obtenir une immigration plus rapide.",
-    "t": 643.42
+    "t": 642.76
    },
    {
     "speaker": "Anna",
     "text": "Et le message du jour ?",
-    "t": 649.53
+    "t": 648.87
    },
    {
     "speaker": "Tom",
     "text": "Qu'un pays qui dépend des talents internationaux a enfin créé une porte claire et accueillante pour eux.",
-    "t": 650.96
+    "t": 650.3
    },
    {
     "speaker": "Tom",
     "text": "Si votre avenir, ou celui de quelqu'un que vous aimez, se trouve peut-être au Luxembourg — le chemin vient de devenir beaucoup plus simple.",
-    "t": 656.13
+    "t": 655.47
    },
    {
     "speaker": "Anna",
     "text": "Alors... que ce soit pour vous, un ami à l'étranger, ou votre propre entreprise — retenez l'adresse.",
-    "t": 663.22
+    "t": 662.56
    },
    {
     "speaker": "Anna",
     "text": "Work in Luxembourg.",
-    "t": 667.52
+    "t": 666.86
    },
    {
     "speaker": "Anna",
     "text": "workinluxembourg point com.",
-    "t": 668.71
+    "t": 668.05
    },
    {
     "speaker": "Tom",
     "text": "Une seule porte d'entrée, vers une nouvelle vie.",
-    "t": 670.8
+    "t": 670.14
    },
    {
     "speaker": "Tom",
     "text": "C'est une bonne chose à connaître.",
-    "t": 673.16
+    "t": 672.5
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le portail Work in Luxembourg.",
-    "t": 674.97
+    "t": 674.31
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 677.66
+    "t": 677
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 685.57
+    "t": 684.91
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 701.42
+    "t": 700.76
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 706.07
+    "t": 705.41
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 707.85
+    "t": 707.19
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 712.23
+    "t": 711.57
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 713.46
+    "t": 712.8
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 715.92
+    "t": 715.26
    }
   ],
   "segments_de": [
@@ -16048,913 +16048,913 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und unser heutiges Thema dreht sich genau um diese Reise — wie Menschen überhaupt nach Luxemburg kommen, um hier zu arbeiten und zu leben.",
-    "t": 28.46
+    "t": 27.86
    },
    {
     "speaker": "Tom",
     "text": "Es geht um ein offizielles Portal namens Work in Luxembourg.",
-    "t": 37.92
+    "t": 37.32
    },
    {
     "speaker": "Anna",
     "text": "Work in Luxembourg.",
-    "t": 41.57
+    "t": 40.97
    },
    {
     "speaker": "Anna",
     "text": "Tom, lass uns ganz am Anfang beginnen.",
-    "t": 42.98
+    "t": 42.38
    },
    {
     "speaker": "Anna",
     "text": "Was ist das?",
-    "t": 45.33
+    "t": 44.73
    },
    {
     "speaker": "Tom",
     "text": "Work in Luxembourg ist eine offizielle, staatlich geführte Website.",
-    "t": 46.53
+    "t": 45.93
    },
    {
     "speaker": "Tom",
     "text": "Ihre Aufgabe ist es, eine einzige Eingangstür zu sein — ein Ort, der alles zusammenbringt, was man über das Arbeiten und Leben in Luxemburg wissen muss.",
-    "t": 50.66
+    "t": 50.06
    },
    {
     "speaker": "Anna",
     "text": "Eine einzige Eingangstür.",
-    "t": 59.58
+    "t": 58.98
    },
    {
     "speaker": "Anna",
     "text": "Denn normalerweise sind diese Informationen überall verstreut.",
-    "t": 61.48
+    "t": 60.88
    },
    {
     "speaker": "Tom",
     "text": "Genau. Stell dir jemanden im Ausland vor, der neugierig ist, hierher zu ziehen.",
-    "t": 65.25
+    "t": 64.65
    },
    {
     "speaker": "Tom",
     "text": "Wo soll man da überhaupt anfangen?",
-    "t": 70.44
+    "t": 69.84
    },
    {
     "speaker": "Tom",
     "text": "Die Jobs sind auf der einen Seite, die Visa auf einer anderen, das Wohnen woanders, die Schulen wieder woanders.",
-    "t": 72.26
+    "t": 71.66
    },
    {
     "speaker": "Tom",
     "text": "Das ist überwältigend.",
-    "t": 78.87
+    "t": 78.27
    },
    {
     "speaker": "Anna",
     "text": "Work in Luxembourg sammelt also all das an einem Ort.",
-    "t": 80.4
+    "t": 79.8
    },
    {
     "speaker": "Tom",
     "text": "An einem Ort, mit klaren, einheitlichen Informationen.",
-    "t": 83.77
+    "t": 83.17
    },
    {
     "speaker": "Tom",
     "text": "Die Adresse ist ganz einfach — workinluxembourg Punkt com.",
-    "t": 87.15
+    "t": 86.55
    },
    {
     "speaker": "Anna",
     "text": "Und für wen ist es eigentlich gedacht?",
-    "t": 91.44
+    "t": 90.84
    },
    {
     "speaker": "Anna",
     "text": "Nur für Menschen, die im Ausland leben?",
-    "t": 93.46
+    "t": 92.86
    },
    {
     "speaker": "Tom",
     "text": "Hauptsächlich, ja — es richtet sich an internationale Talente.",
-    "t": 95.7
+    "t": 95.1
    },
    {
     "speaker": "Tom",
     "text": "Menschen aus aller Welt mit besonderen Fähigkeiten, die hier vielleicht eine Karriere und ein Leben aufbauen möchten.",
-    "t": 99.68
+    "t": 99.08
    },
    {
     "speaker": "Tom",
     "text": "Aber es ist auch wirklich nützlich für alle, die neugierig auf das Land sind — und für Arbeitgeber, die aus dem Ausland einstellen wollen.",
-    "t": 106.11
+    "t": 105.51
    },
    {
     "speaker": "Anna",
     "text": "Du hast eben „staatlich geführt\" gesagt.",
-    "t": 113.32
+    "t": 112.72
    },
    {
     "speaker": "Anna",
     "text": "Wer genau steckt dahinter?",
-    "t": 115.81
+    "t": 115.21
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine echte Gemeinschaftsleistung des Landes.",
-    "t": 117.67
+    "t": 117.07
    },
    {
     "speaker": "Tom",
     "text": "Aufgebaut wurde es gemeinsam vom Wirtschaftsministerium, vom Arbeitsministerium, von ADEM — das ist die nationale Arbeitsagentur —, von der Handelskammer, der Handwerkskammer und einer Agentur namens Luxinnovation.",
-    "t": 120.49
+    "t": 119.89
    },
    {
     "speaker": "Anna",
     "text": "Das sind also viele offizielle Partner, die an einem Strang ziehen.",
-    "t": 134.9
+    "t": 134.3
    },
    {
     "speaker": "Tom",
     "text": "Alle rudern in dieselbe Richtung.",
-    "t": 138.62
+    "t": 138.02
    },
    {
     "speaker": "Tom",
     "text": "Und dahinter steckt ein klarer Grund.",
-    "t": 140.49
+    "t": 139.89
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg hat, wie viele andere Orte auch, in bestimmten Berufen einen Mangel an qualifizierten Menschen.",
-    "t": 142.66
+    "t": 142.06
    },
    {
     "speaker": "Tom",
     "text": "Deshalb möchte das Land Talente anziehen — und sie auch gut willkommen heißen.",
-    "t": 148.96
+    "t": 148.36
    },
    {
     "speaker": "Anna",
     "text": "Lass uns konkret werden.",
-    "t": 153.42
+    "t": 152.82
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich die Website öffne, was finde ich da eigentlich?",
-    "t": 155.02
+    "t": 154.42
    },
    {
     "speaker": "Anna",
     "text": "Wie ist sie aufgebaut?",
-    "t": 157.98
+    "t": 157.38
    },
    {
     "speaker": "Tom",
     "text": "Wunderbar einfach. Es gibt drei Hauptbereiche.",
-    "t": 159.67
+    "t": 159.07
    },
    {
     "speaker": "Tom",
     "text": "Sie heißen „Work here\", „Live here\" und „Get started\".",
-    "t": 163.23
+    "t": 162.63
    },
    {
     "speaker": "Anna",
     "text": "Work here, Live here, Get started.",
-    "t": 167.51
+    "t": 166.91
    },
    {
     "speaker": "Anna",
     "text": "Nehmen wir sie uns einen nach dem anderen vor.",
-    "t": 170.6
+    "t": 170
    },
    {
     "speaker": "Anna",
     "text": "Fang mit „Work here\" an.",
-    "t": 173.11
+    "t": 172.51
    },
    {
     "speaker": "Tom",
     "text": "„Work here\" dreht sich um die berufliche Seite.",
-    "t": 174.8
+    "t": 174.2
    },
    {
     "speaker": "Tom",
     "text": "Es erklärt den luxemburgischen Arbeitsmarkt, die wichtigsten Wirtschaftssektoren, die möglichen Berufswege und die Arbeitsbedingungen.",
-    "t": 177.42
+    "t": 176.82
    },
    {
     "speaker": "Tom",
     "text": "So kann man verstehen, wie das eigene Berufsleben tatsächlich aussehen könnte.",
-    "t": 184.79
+    "t": 184.19
    },
    {
     "speaker": "Anna",
     "text": "Also noch bevor man überhaupt einen Koffer packt, versteht man die Arbeitswelt, in die man einsteigen würde.",
-    "t": 189.27
+    "t": 188.67
    },
    {
     "speaker": "Tom",
     "text": "Genau. Welche Branchen stark sind, welche Rechte man als Arbeitnehmer hat, wie ein Karriereweg aussehen könnte.",
-    "t": 194.73
+    "t": 194.13
    },
    {
     "speaker": "Anna",
     "text": "Gut — „Live here\".",
-    "t": 202.29
+    "t": 201.69
    },
    {
     "speaker": "Anna",
     "text": "Ich vermute, da geht es um das Alltagsleben?",
-    "t": 204.53
+    "t": 203.93
    },
    {
     "speaker": "Tom",
     "text": "Ganz genau. „Live here\" dreht sich um die Lebensqualität.",
-    "t": 207.07
+    "t": 206.47
    },
    {
     "speaker": "Tom",
     "text": "Wohnen, Familie, Bildung, Gesundheitsversorgung, Kultur, Freizeit — und das multikulturelle, mehrsprachige Umfeld.",
-    "t": 210.86
+    "t": 210.26
    },
    {
     "speaker": "Tom",
     "text": "Denn ein Job ist nur die Hälfte eines Lebens.",
-    "t": 219.57
+    "t": 218.97
    },
    {
     "speaker": "Tom",
     "text": "Die andere Hälfte ist — wird meine Familie hier glücklich sein?",
-    "t": 221.94
+    "t": 221.34
    },
    {
     "speaker": "Anna",
     "text": "Das ist so wichtig.",
-    "t": 225.7
+    "t": 225.1
    },
    {
     "speaker": "Anna",
     "text": "Menschen ziehen nicht nur wegen eines Jobs um.",
-    "t": 227.09
+    "t": 226.49
    },
    {
     "speaker": "Anna",
     "text": "Sie ziehen um für ein Leben.",
-    "t": 229.58
+    "t": 228.98
    },
    {
     "speaker": "Tom",
     "text": "Sie ziehen um für ein Leben.",
-    "t": 231.5
+    "t": 230.9
    },
    {
     "speaker": "Tom",
     "text": "Und dieser Bereich hilft dir, es dir vorzustellen — Schulen für die Kinder, das Gesundheitssystem, Dinge, die man am Wochenende unternehmen kann.",
-    "t": 233.26
+    "t": 232.66
    },
    {
     "speaker": "Anna",
     "text": "Und der dritte Bereich — „Get started\".",
-    "t": 241.28
+    "t": 240.68
    },
    {
     "speaker": "Tom",
     "text": "„Get started\" ist der praktische Bereich, wo man die Ärmel hochkrempelt.",
-    "t": 244.1
+    "t": 243.5
    },
    {
     "speaker": "Tom",
     "text": "Er behandelt das Thema Einwanderung — Aufenthalts- und Arbeitserlaubnisse — sowie die Jobsuche, das Wohnen und einen vollständigen Umzugsleitfaden.",
-    "t": 247.94
+    "t": 247.34
    },
    {
     "speaker": "Tom",
     "text": "Es ist der Teil „Wie mache ich das eigentlich\".",
-    "t": 256.84
+    "t": 256.24
    },
    {
     "speaker": "Anna",
     "text": "Die ersten beiden Bereiche inspirieren dich also, und der dritte hilft dir, echte Schritte zu gehen.",
-    "t": 259.52
+    "t": 258.92
    },
    {
     "speaker": "Tom",
     "text": "Das ist die perfekte Art, es zu sagen.",
-    "t": 265.31
+    "t": 264.71
    },
    {
     "speaker": "Tom",
     "text": "Träume davon in „Work here\" und „Live here\", und setze es dann um in „Get started\".",
-    "t": 267.51
+    "t": 266.91
    },
    {
     "speaker": "Tom",
     "text": "Und für Unternehmen gibt es sogar einen Employer Toolkit, der ihnen hilft, aus dem Ausland zu rekrutieren.",
-    "t": 273.87
+    "t": 273.27
    },
    {
     "speaker": "Anna",
     "text": "Und jetzt, Tom — das Wichtigste für die meisten Menschen.",
-    "t": 279.82
+    "t": 279.22
    },
    {
     "speaker": "Anna",
     "text": "Jobs. Kann man über dieses Portal wirklich einen Job finden?",
-    "t": 284.37
+    "t": 283.77
    },
    {
     "speaker": "Tom",
     "text": "Kann man. Es gibt ein Job Board — einen Ort, um nach offenen Stellen zu suchen.",
-    "t": 288.7
+    "t": 288.1
    },
    {
     "speaker": "Tom",
     "text": "Und hier kommt das Clevere — es ist direkt mit der internationalen Rekrutierungsplattform von ADEM verbunden.",
-    "t": 294.1
+    "t": 293.5
    },
    {
     "speaker": "Anna",
     "text": "ADEM — das ist die nationale Arbeitsagentur, die du erwähnt hast.",
-    "t": 300.32
+    "t": 299.72
    },
    {
     "speaker": "Tom",
     "text": "Richtig. ADEM ist Luxemburgs öffentlicher Arbeitsvermittlungsdienst.",
-    "t": 304.73
+    "t": 304.13
    },
    {
     "speaker": "Tom",
     "text": "Die Jobs sind also nicht zufällig — sie kommen über die offizielle Agentur.",
-    "t": 309.19
+    "t": 308.59
    },
    {
     "speaker": "Tom",
     "text": "Die Anzeigen werden täglich aktualisiert, und man kann ein Profil erstellen und sich direkt auf offene Stellen bewerben.",
-    "t": 313.4
+    "t": 312.8
    },
    {
     "speaker": "Anna",
     "text": "Und schaut sich tatsächlich jemand diese Profile an?",
-    "t": 319.88
+    "t": 319.28
    },
    {
     "speaker": "Anna",
     "text": "Oder verschwinden sie einfach in einer Datenbank?",
-    "t": 322.74
+    "t": 322.14
    },
    {
     "speaker": "Tom",
     "text": "Sie sind echt.",
-    "t": 325.47
+    "t": 324.87
    },
    {
     "speaker": "Tom",
     "text": "Tatsächlich hat die Plattform bereits rund elftausend Kandidatinnen und Kandidaten aus aller Welt, die von ADEM vorausgewählt wurden.",
-    "t": 326.64
+    "t": 326.04
    },
    {
     "speaker": "Tom",
     "text": "Es ist also ein aktiver Pool, den Arbeitgeber wirklich nutzen, um Menschen zu finden.",
-    "t": 334.31
+    "t": 333.71
    },
    {
     "speaker": "Anna",
     "text": "Elftausend. Es ist also ein lebendiger Marktplatz, kein leeres schwarzes Brett.",
-    "t": 339.19
+    "t": 338.59
    },
    {
     "speaker": "Tom",
     "text": "Ein lebendiger Marktplatz.",
-    "t": 344.59
+    "t": 343.99
    },
    {
     "speaker": "Tom",
     "text": "Arbeitgeber, die Fähigkeiten suchen, und qualifizierte Menschen, die eine Zukunft suchen — die sich an einem Ort treffen.",
-    "t": 346.42
+    "t": 345.82
    },
    {
     "speaker": "Anna",
     "text": "Du hast erwähnt, dass Luxemburg in bestimmten Berufen einen Mangel hat.",
-    "t": 353.55
+    "t": 352.95
    },
    {
     "speaker": "Anna",
     "text": "Hilft das Portal dabei ganz konkret?",
-    "t": 357.46
+    "t": 356.86
    },
    {
     "speaker": "Tom",
     "text": "Ja — und das ist wirklich gut zu wissen.",
-    "t": 359.98
+    "t": 359.38
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg veröffentlicht eine Liste der „Mangelberufe\" — also der Berufe, in denen das Land am dringendsten Menschen braucht.",
-    "t": 362.32
+    "t": 361.72
    },
    {
     "speaker": "Tom",
     "text": "Und für Fachkräfte von außerhalb der Europäischen Union kann die Arbeit in einem dieser Mangelberufe schnellere Einwanderungsverfahren bedeuten.",
-    "t": 369.77
+    "t": 369.17
    },
    {
     "speaker": "Anna",
     "text": "Wenn deine Fähigkeit also eine ist, die das Land dringend braucht, öffnet sich die Tür schneller.",
-    "t": 378.03
+    "t": 377.43
    },
    {
     "speaker": "Tom",
     "text": "Schneller und reibungsloser.",
-    "t": 383.43
+    "t": 382.83
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine Art zu sagen — wir brauchen dich wirklich, also machen wir es dir einfacher.",
-    "t": 385.61
+    "t": 385.01
    },
    {
     "speaker": "Anna",
     "text": "All diese Online-Informationen sind ja wunderbar.",
-    "t": 390.27
+    "t": 389.67
    },
    {
     "speaker": "Anna",
     "text": "Aber ein Umzug ins Ausland ist stressig.",
-    "t": 393.12
+    "t": 392.52
    },
    {
     "speaker": "Anna",
     "text": "Gibt es einen Menschen, mit dem man tatsächlich sprechen kann?",
-    "t": 395.56
+    "t": 394.96
    },
    {
     "speaker": "Tom",
     "text": "Den gibt es — und diesen Teil liebe ich.",
-    "t": 398.85
+    "t": 398.25
    },
    {
     "speaker": "Tom",
     "text": "Neben der Website gibt es etwas, das sich Talent Desk nennt.",
-    "t": 401.48
+    "t": 400.88
    },
    {
     "speaker": "Anna",
     "text": "Der Talent Desk.",
-    "t": 405.11
+    "t": 404.51
    },
    {
     "speaker": "Anna",
     "text": "Was ist das?",
-    "t": 406.34
+    "t": 405.74
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein Service, der persönliche, menschliche Unterstützung bietet.",
-    "t": 407.53
+    "t": 406.93
    },
    {
     "speaker": "Tom",
     "text": "Er informiert dich, berät dich und begleitet dich durch die behördlichen Schritte und den Integrationsprozess.",
-    "t": 411.39
+    "t": 410.79
    },
    {
     "speaker": "Tom",
     "text": "Und wenn du eine bestimmte Einrichtung brauchst, stellt er den Kontakt zur richtigen her.",
-    "t": 417.49
+    "t": 416.89
    },
    {
     "speaker": "Tom",
     "text": "Du erreichst den Talent Desk per E-Mail unter contact@talentdesk.lu, oder du besuchst ihn nach Terminvereinbarung auf Kirchberg.",
-    "t": 422.05
+    "t": 421.45
    },
    {
     "speaker": "Anna",
     "text": "Also ein echter Mensch, der dir hilft, dich durch den Papierkram und das Einleben zurechtzufinden.",
-    "t": 431.1
+    "t": 430.5
    },
    {
     "speaker": "Tom",
     "text": "Ein echter Mensch.",
-    "t": 436.49
+    "t": 435.89
    },
    {
     "speaker": "Tom",
     "text": "Die Website gibt dir die Informationen; der Talent Desk gibt dir die Begleitung.",
-    "t": 437.67
+    "t": 437.07
    },
    {
     "speaker": "Tom",
     "text": "Und er hilft nicht nur Einzelpersonen — er unterstützt auch Unternehmen bei ihrer internationalen Rekrutierung.",
-    "t": 442.01
+    "t": 441.41
    },
    {
     "speaker": "Anna",
     "text": "Beide Seiten also — die Talente und die Arbeitgeber — bekommen Unterstützung.",
-    "t": 448.15
+    "t": 447.55
    },
    {
     "speaker": "Tom",
     "text": "Beide Seiten. Das macht das Ganze reibungsloser und herzlicher.",
-    "t": 452.92
+    "t": 452.32
    },
    {
     "speaker": "Anna",
     "text": "Tom, lass uns über das Bild sprechen, das das Portal von Luxemburg zeichnet.",
-    "t": 456.71
+    "t": 456.11
    },
    {
     "speaker": "Anna",
     "text": "Was macht das Land laut dem Portal attraktiv?",
-    "t": 461.24
+    "t": 460.64
    },
    {
     "speaker": "Anna",
     "text": "Und seien wir ehrlich: Das ist eine Werbeseite.",
-    "t": 464.28
+    "t": 463.68
    },
    {
     "speaker": "Tom",
     "text": "Fair — es ist ein Schaufenster, also nehmen wir es als solches, mit den Fakten und ihren Quellen.",
-    "t": 467.43
+    "t": 466.83
    },
    {
     "speaker": "Tom",
     "text": "Es hebt Dinge hervor wie Sicherheit und Stabilität, eine vielfältige, multikulturelle Bevölkerung, eine dynamische Wirtschaft und ein familienfreundliches Umfeld mit guten Schulen und kostenlosem öffentlichem Nahverkehr.",
-    "t": 474.22
+    "t": 473.62
    },
    {
     "speaker": "Anna",
     "text": "Und es untermauert das mit Rankings, oder?",
-    "t": 488.67
+    "t": 488.07
    },
    {
     "speaker": "Tom",
     "text": "Das tut es, und es nennt die Quellen.",
-    "t": 491.12
+    "t": 490.52
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel — laut dem Legatum Prosperity Index ist Luxemburg das sicherste Land für Expats, auf Platz eins.",
-    "t": 493.55
+    "t": 492.95
    },
    {
     "speaker": "Tom",
     "text": "Laut dem IMD World Talent Ranking ist es weltweit das zweitbeste Land, wenn es darum geht, Talente anzuziehen.",
-    "t": 501.02
+    "t": 500.42
    },
    {
     "speaker": "Tom",
     "text": "Und es weist auf eine bemerkenswerte Tatsache über die Erwerbsbevölkerung hin.",
-    "t": 507.7
+    "t": 507.1
    },
    {
     "speaker": "Anna",
     "text": "Und die wäre?",
-    "t": 512.22
+    "t": 511.62
    },
    {
     "speaker": "Tom",
     "text": "Dass rund vierundsiebzig Prozent der luxemburgischen Erwerbsbevölkerung entweder ausländische Staatsangehörige oder Grenzgänger sind.",
-    "t": 513.52
+    "t": 512.92
    },
    {
     "speaker": "Tom",
     "text": "Und mehr als zweihundertachtundzwanzigtausend Menschen überqueren jeden Tag eine Grenze, um hier zu arbeiten.",
-    "t": 521.51
+    "t": 520.91
    },
    {
     "speaker": "Anna",
     "text": "Vierundsiebzig Prozent. In einem internationalen Team zu arbeiten, ist hier also nicht die Ausnahme — es ist völlig normal.",
-    "t": 527.78
+    "t": 527.18
    },
    {
     "speaker": "Tom",
     "text": "Es ist die alltägliche Realität.",
-    "t": 535.41
+    "t": 534.81
    },
    {
     "speaker": "Tom",
     "text": "Die Menschen in Luxemburg sprechen im Durchschnitt mehrere Sprachen — Luxemburgisch, Französisch, Deutsch und viel Englisch bei der Arbeit.",
-    "t": 537.62
+    "t": 537.02
    },
    {
     "speaker": "Tom",
     "text": "Für einen internationalen Neuankömmling ist das beruhigend.",
-    "t": 545.67
+    "t": 545.07
    },
    {
     "speaker": "Tom",
     "text": "Du bist nicht der Außenseiter.",
-    "t": 549.01
+    "t": 548.41
    },
    {
     "speaker": "Tom",
     "text": "Jeder ist von irgendwoher gekommen.",
-    "t": 550.68
+    "t": 550.08
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein schöner Gedanke.",
-    "t": 552.79
+    "t": 552.19
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es konkret.",
-    "t": 554.46
+    "t": 553.86
    },
    {
     "speaker": "Anna",
     "text": "Können wir einer einzelnen Person folgen?",
-    "t": 556
+    "t": 555.4
    },
    {
     "speaker": "Tom",
     "text": "Tun wir das.",
-    "t": 558.56
+    "t": 557.96
    },
    {
     "speaker": "Tom",
     "text": "Stell dir eine Softwareentwicklerin vor — nennen wir sie Priya.",
-    "t": 559.59
+    "t": 558.99
    },
    {
     "speaker": "Tom",
     "text": "Sie lebt weit weg und hat gehört, dass Luxemburg ein guter Ort für ihre Fähigkeiten sein könnte.",
-    "t": 563.33
+    "t": 562.73
    },
    {
     "speaker": "Tom",
     "text": "Aber sie hat keine Ahnung, wo sie anfangen soll.",
-    "t": 568.17
+    "t": 567.57
    },
    {
     "speaker": "Anna",
     "text": "Die klassische Situation.",
-    "t": 570.65
+    "t": 570.05
    },
    {
     "speaker": "Anna",
     "text": "So viele Fragen und keine Landkarte.",
-    "t": 572.41
+    "t": 571.81
    },
    {
     "speaker": "Tom",
     "text": "Also findet sie das Portal — workinluxembourg.com.",
-    "t": 574.83
+    "t": 574.23
    },
    {
     "speaker": "Tom",
     "text": "Zuerst liest sie „Work here\" und sieht, dass die Technologiebranche ein starker, wachsender Sektor ist.",
-    "t": 578.61
+    "t": 578.01
    },
    {
     "speaker": "Tom",
     "text": "Dann öffnet sie „Live here\" und schaut sich Schulen und Wohnungen für ihre Familie an.",
-    "t": 584.69
+    "t": 584.09
    },
    {
     "speaker": "Anna",
     "text": "Bis hierhin erkundet sie also einfach, bekommt ein Gefühl dafür.",
-    "t": 589.69
+    "t": 589.09
    },
    {
     "speaker": "Tom",
     "text": "Genau. Dann geht sie zum Job Board, erstellt ein Profil und bewirbt sich auf ein paar offene Stellen — echte Jobs, über ADEM.",
-    "t": 593.41
+    "t": 592.81
    },
    {
     "speaker": "Tom",
     "text": "Vielleicht steht ihr Fachgebiet sogar auf der Liste der Mangelberufe, was einen reibungsloseren Einwanderungsweg bedeutet.",
-    "t": 602.01
+    "t": 601.41
    },
    {
     "speaker": "Anna",
     "text": "Und wenn der Papierkram überwältigend wird?",
-    "t": 609.14
+    "t": 608.54
    },
    {
     "speaker": "Tom",
     "text": "Dann wendet sie sich an den Talent Desk, und ein echter Mensch hilft ihr, die Erlaubnisse und die Schritte zu verstehen.",
-    "t": 611.71
+    "t": 611.11
    },
    {
     "speaker": "Tom",
     "text": "Und in „Get started\" folgt sie dem Umzugsleitfaden — Wohnen, Anmeldung, alles davon.",
-    "t": 617.86
+    "t": 617.26
    },
    {
     "speaker": "Anna",
     "text": "Von einer einzigen Website aus geht sie also von „Ich habe keine Ahnung\" zu „Ich habe ein Jobangebot und einen Plan\".",
-    "t": 624
+    "t": 623.4
    },
    {
     "speaker": "Tom",
     "text": "Von einem vagen Traum zu einem konkreten Umzug.",
-    "t": 631.77
+    "t": 631.17
    },
    {
     "speaker": "Tom",
     "text": "Genau das ist der ganze Sinn des Portals — Verwirrung in einen klaren Weg zu verwandeln.",
-    "t": 634.87
+    "t": 634.27
    },
    {
     "speaker": "Anna",
     "text": "Und ehrlich gesagt ist das sogar für Menschen nützlich, die schon hier sind, oder?",
-    "t": 640.48
+    "t": 639.88
    },
    {
     "speaker": "Tom",
     "text": "Sehr sogar. Wenn du einen Freund oder ein Familienmitglied im Ausland hast, das überlegt, zu dir nach Luxemburg zu kommen, dann ist das genau die Adresse, die du ihnen gibst.",
-    "t": 645
+    "t": 644.4
    },
    {
     "speaker": "Tom",
     "text": "Und wenn du ein Arbeitgeber bist, der Mühe hat, Fachkräfte zu finden, dann ist das die Adresse, wo du suchst und wo du um Hilfe bittest.",
-    "t": 655.08
+    "t": 654.48
    },
    {
     "speaker": "Anna",
     "text": "Gut, Tom, bringen wir es auf den Punkt.",
-    "t": 662.66
+    "t": 662.06
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich zuhöre, was sollte ich mitnehmen?",
-    "t": 665.26
+    "t": 664.66
    },
    {
     "speaker": "Tom",
     "text": "Ein paar einfache Dinge.",
-    "t": 667.82
+    "t": 667.22
    },
    {
     "speaker": "Tom",
     "text": "Erstens — wenn du oder jemand, den du kennst, darüber nachdenkt, in Luxemburg zu arbeiten, dann gibt es jetzt eine offizielle Eingangstür.",
-    "t": 669.32
+    "t": 668.72
    },
    {
     "speaker": "Tom",
     "text": "workinluxembourg.com. Fang dort an, statt dich zu verlieren.",
-    "t": 677.21
+    "t": 676.61
    },
    {
     "speaker": "Anna",
     "text": "Eine Eingangstür.",
-    "t": 681.88
+    "t": 681.28
    },
    {
     "speaker": "Tom",
     "text": "Zweitens — es ist um drei klare Bereiche herum aufgebaut.",
-    "t": 683.3
+    "t": 682.7
    },
    {
     "speaker": "Tom",
     "text": "„Work here\" für die Karriere, „Live here\" für das Leben und „Get started\" für die praktischen Schritte und Erlaubnisse.",
-    "t": 687.72
+    "t": 687.12
    },
    {
     "speaker": "Anna",
     "text": "Und drittens?",
-    "t": 695.46
+    "t": 694.86
    },
    {
     "speaker": "Tom",
     "text": "Drittens — du musst es nicht allein machen.",
-    "t": 696.69
+    "t": 696.09
    },
    {
     "speaker": "Tom",
     "text": "Das Job Board verbindet dich über ADEM mit echten Jobs, und der Talent Desk gibt dir einen echten Menschen, der dich begleitet.",
-    "t": 699.39
+    "t": 698.79
    },
    {
     "speaker": "Tom",
     "text": "Informationen, plus eine helfende Hand.",
-    "t": 706.15
+    "t": 705.55
    },
    {
     "speaker": "Anna",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 708.79
+    "t": 708.19
    },
    {
     "speaker": "Tom",
     "text": "Klar. Work in Luxembourg, unter workinluxembourg.com, ist ein offizielles, staatlich geführtes Portal — ein einziges Tor für internationale Talente, die in Luxemburg arbeiten und leben möchten.",
-    "t": 711.05
+    "t": 710.45
    },
    {
     "speaker": "Tom",
     "text": "Es ist in drei Bereiche gegliedert — Work here, Live here und Get started — und es wird von den wichtigsten Wirtschafts- und Beschäftigungsakteuren des Landes getragen, einschließlich ADEM.",
-    "t": 724.38
+    "t": 723.78
    },
    {
     "speaker": "Tom",
     "text": "Sein Job Board verbindet dich über ADEM mit echten offenen Stellen, und sein Talent Desk bietet persönliche, menschliche Begleitung.",
-    "t": 736.45
+    "t": 735.85
    },
    {
     "speaker": "Tom",
     "text": "Bei Mangelberufen können Fachkräfte von außerhalb der EU sogar eine schnellere Einwanderung bekommen.",
-    "t": 743.75
+    "t": 743.15
    },
    {
     "speaker": "Anna",
     "text": "Und die Botschaft für heute?",
-    "t": 749.92
+    "t": 749.32
    },
    {
     "speaker": "Tom",
     "text": "Dass ein Land, das auf internationale Talente angewiesen ist, endlich eine klare, einladende Tür dafür geschaffen hat.",
-    "t": 751.72
+    "t": 751.12
    },
    {
     "speaker": "Tom",
     "text": "Wenn deine Zukunft, oder die eines Menschen, den du liebst, in Luxemburg liegen könnte — der Weg ist gerade viel einfacher geworden.",
-    "t": 759
+    "t": 758.4
    },
    {
     "speaker": "Anna",
     "text": "Also... ob für dich, einen Freund im Ausland oder dein eigenes Unternehmen — merk dir die Adresse.",
-    "t": 766.65
+    "t": 766.05
    },
    {
     "speaker": "Anna",
     "text": "Work in Luxembourg.",
-    "t": 773.61
+    "t": 773.01
    },
    {
     "speaker": "Anna",
     "text": "workinluxembourg.com.",
-    "t": 775.09
+    "t": 774.49
    },
    {
     "speaker": "Tom",
     "text": "Eine Tür zu einem neuen Leben.",
-    "t": 777.23
+    "t": 776.63
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine gute Sache, die man kennen sollte.",
-    "t": 779.17
+    "t": 778.57
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Portal Work in Luxembourg.",
-    "t": 781.68
+    "t": 781.08
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 784.96
+    "t": 784.36
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 793.79
+    "t": 793.19
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 811.64
+    "t": 811.04
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 817.34
+    "t": 816.74
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 819.59
+    "t": 818.99
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 824.48
+    "t": 823.88
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 825.63
+    "t": 825.03
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 828.84
+    "t": 828.24
    }
   ],
   "questions": [
@@ -17442,7 +17442,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_workinluxembourg_fr.mp3",
-  "duration_fr": 717.69,
+  "duration_fr": 717.04,
   "title_fr": "Work in Luxembourg – une seule porte d'entrée vers une nouvelle vie",
   "description_fr": "Work in Luxembourg (workinluxembourg.com) est un portail officiel, mis en place par l'État : une porte d'entrée unique pour les talents internationaux qui veulent travailler et vivre au Luxembourg. Il est organisé en trois sections – Work here, Live here et Get started – et soutenu par les principaux acteurs économiques et de l'emploi du pays, dont l'ADEM. Son Job Board vous met en relation avec de vraies offres d'emploi via l'ADEM (environ 11 000 candidats présélectionnés), et son Talent Desk offre un accompagnement personnalisé et humain ; pour les métiers en pénurie, les professionnels hors UE peuvent bénéficier de démarches d'immigration plus rapides.",
   "topics_fr": [
@@ -17513,7 +17513,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_workinluxembourg_de.mp3",
-  "duration_de": 830.38,
+  "duration_de": 829.78,
   "title_de": "Work in Luxembourg – eine Tür zu einem neuen Leben",
   "description_de": "Work in Luxembourg (workinluxembourg.com) ist ein offizielles, staatlich geführtes Portal: eine einzige Eingangstür für internationale Fachkräfte, die in Luxemburg arbeiten und leben möchten. Es ist in drei Bereiche gegliedert – Work here, Live here und Get started – und wird von den wichtigsten Wirtschafts- und Arbeitsmarktakteuren des Landes getragen, darunter ADEM. Das Job Board verbindet Sie über ADEM mit echten Stellenangeboten (rund 11 000 vorausgewählte Kandidaten), und der Talent Desk bietet eine persönliche, menschliche Begleitung; für Mangelberufe können Fachkräfte von außerhalb der EU von schnelleren Einwanderungsverfahren profitieren.",
   "topics_de": [
@@ -18328,618 +18328,618 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Anna",
     "text": "Et le sujet d'aujourd'hui concerne deux choses qui touchent tout le monde — votre santé, et votre argent.",
-    "t": 23.61
+    "t": 23.43
    },
    {
     "speaker": "Anna",
     "text": "D'abord, votre dossier de santé en ligne, le Dossier de Soins Partagé.",
-    "t": 28.41
+    "t": 28.23
    },
    {
     "speaker": "Anna",
     "text": "Et ensuite, comment vous récupérez votre argent auprès de l'assurance maladie, la CNS.",
-    "t": 31.91
+    "t": 31.73
    },
    {
     "speaker": "Tom",
     "text": "Deux choses très pratiques.",
-    "t": 36.74
+    "t": 36.56
    },
    {
     "speaker": "Tom",
     "text": "Bon, Anna — commençons par le dossier de santé.",
-    "t": 38.34
+    "t": 38.16
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que le Dossier de Soins Partagé ?",
-    "t": 41.29
+    "t": 41.11
    },
    {
     "speaker": "Anna",
     "text": "Le DSP est un dossier de santé électronique gratuit, personnel et sécurisé.",
-    "t": 43.44
+    "t": 43.26
    },
    {
     "speaker": "Anna",
     "text": "Il rassemble vos informations de santé importantes en un seul endroit — vos traitements, vos résultats d'analyses, vos rapports médicaux, vos allergies, et ainsi de suite.",
-    "t": 47.91
+    "t": 47.73
    },
    {
     "speaker": "Tom",
     "text": "Et qui le crée ?",
-    "t": 56.28
+    "t": 56.1
    },
    {
     "speaker": "Anna",
     "text": "C'est le système national officiel, géré par l'Agence eSanté — l'agence publique pour la santé numérique au Luxembourg.",
-    "t": 57.47
+    "t": 57.29
    },
    {
     "speaker": "Anna",
     "text": "Les informations sont ajoutées par les professionnels de santé qui vous soignent — votre médecin, l'hôpital, le laboratoire.",
-    "t": 63.04
+    "t": 62.86
    },
    {
     "speaker": "Tom",
     "text": "Alors, pourquoi c'est utile ?",
-    "t": 69.32
+    "t": 69.14
    },
    {
     "speaker": "Tom",
     "text": "Mon médecin connaît déjà mon historique.",
-    "t": 71.23
+    "t": 71.05
    },
    {
     "speaker": "Anna",
     "text": "Votre médecin, oui — mais les autres personnes qui vous soignent, peut-être pas.",
-    "t": 73.45
+    "t": 73.27
    },
    {
     "speaker": "Anna",
     "text": "Imaginez que vous alliez à l'hôpital la nuit, et que votre propre médecin ne soit pas là.",
-    "t": 77.3
+    "t": 77.12
    },
    {
     "speaker": "Anna",
     "text": "Avec le DSP, le médecin de garde peut voir vos informations essentielles.",
-    "t": 81.29
+    "t": 81.11
    },
    {
     "speaker": "Anna",
     "text": "Vos allergies, vos médicaments actuels... Ça peut être très important, même vital.",
-    "t": 85
+    "t": 84.82
    },
    {
     "speaker": "Anna",
     "text": "Et ça évite de refaire deux fois le même examen, parce que le résultat est déjà là.",
-    "t": 90.21
+    "t": 90.03
    },
    {
     "speaker": "Tom",
     "text": "Ah, c'est l'idée clé.",
-    "t": 93.95
+    "t": 93.77
    },
    {
     "speaker": "Tom",
     "text": "Toutes les personnes qui s'occupent de moi peuvent voir le même dossier.",
-    "t": 95.4
+    "t": 95.22
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Tout l'intérêt, c'est une meilleure coordination — la continuité et la sécurité des soins.",
-    "t": 98.83
+    "t": 98.65
    },
    {
     "speaker": "Anna",
     "text": "Tous ceux qui vous soignent travaillent à partir de la même image complète.",
-    "t": 103.94
+    "t": 103.76
    },
    {
     "speaker": "Tom",
     "text": "Maintenant... les données de santé, c'est très privé.",
-    "t": 107.14
+    "t": 106.96
    },
    {
     "speaker": "Tom",
     "text": "Est-ce que c'est sûr ?",
-    "t": 110.21
+    "t": 110.03
    },
    {
     "speaker": "Anna",
     "text": "Très bonne question, et la réponse est oui.",
-    "t": 111.58
+    "t": 111.4
    },
    {
     "speaker": "Anna",
     "text": "Les données sont chiffrées, et elles sont conservées dans une sorte de coffre-fort numérique situé ici, au Luxembourg.",
-    "t": 113.85
+    "t": 113.67
    },
    {
     "speaker": "Anna",
     "text": "Et le point le plus important — c'est vous qui contrôlez.",
-    "t": 119.35
+    "t": 119.17
    },
    {
     "speaker": "Tom",
     "text": "Je contrôle comment ?",
-    "t": 122.17
+    "t": 121.99
    },
    {
     "speaker": "Anna",
     "text": "C'est vous, le patient, qui décidez qui peut consulter votre DSP.",
-    "t": 123.63
+    "t": 123.45
    },
    {
     "speaker": "Anna",
     "text": "Vous donnez l'accès, et vous pouvez le retirer.",
-    "t": 127.63
+    "t": 127.45
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez voir qui a consulté votre dossier.",
-    "t": 129.92
+    "t": 129.74
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez même masquer certains documents si vous le souhaitez.",
-    "t": 132.22
+    "t": 132.04
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est votre dossier, et c'est vous qui avez les clés.",
-    "t": 134.87
+    "t": 134.69
    },
    {
     "speaker": "Tom",
     "text": "J'aime bien. C'est à moi, et c'est moi qui décide.",
-    "t": 137.55
+    "t": 137.37
    },
    {
     "speaker": "Tom",
     "text": "Alors comment j'ouvre concrètement un DSP ?",
-    "t": 140.47
+    "t": 140.29
    },
    {
     "speaker": "Anna",
     "text": "Bonne nouvelle — vous n'avez pas besoin de l'ouvrir.",
-    "t": 143.11
+    "t": 142.93
    },
    {
     "speaker": "Anna",
     "text": "Si vous êtes affilié à l'assurance maladie luxembourgeoise, votre DSP est créé automatiquement.",
-    "t": 145.93
+    "t": 145.75
    },
    {
     "speaker": "Anna",
     "text": "Pour l'utiliser vous-même en ligne, vous activez votre « compte eSanté ».",
-    "t": 151.09
+    "t": 150.91
    },
    {
     "speaker": "Anna",
     "text": "Et vous pouvez le faire directement via MyGuichet.lu.",
-    "t": 154.56
+    "t": 154.38
    },
    {
     "speaker": "Tom",
     "text": "C'est super. Et une fois qu'il est actif, comment je le consulte ?",
-    "t": 157.62
+    "t": 157.44
    },
    {
     "speaker": "Anna",
     "text": "Vous vous connectez à votre DSP en ligne, via le portail eSanté.",
-    "t": 161.12
+    "t": 160.94
    },
    {
     "speaker": "Anna",
     "text": "Et il y a aussi une application mobile — elle s'appelle MyDSP — pour consulter votre dossier de santé depuis votre téléphone.",
-    "t": 164.62
+    "t": 164.44
    },
    {
     "speaker": "Tom",
     "text": "Très pratique. Alors, pour résumer la première moitié — le DSP est mon dossier de santé en ligne, gratuit et sécurisé, géré par l'Agence eSanté, il aide tous mes soignants à travailler ensemble, je contrôle qui le voit, et je l'active via MyGuichet.",
-    "t": 170.97
+    "t": 170.79
    },
    {
     "speaker": "Anna",
     "text": "Résumé parfait.",
-    "t": 185.22
+    "t": 185.04
    },
    {
     "speaker": "Tom",
     "text": "Bon. Maintenant le deuxième sujet — l'argent.",
-    "t": 186.54
+    "t": 186.36
    },
    {
     "speaker": "Tom",
     "text": "La CNS. Anna, d'abord... qu'est-ce que la CNS ?",
-    "t": 189.34
+    "t": 189.16
    },
    {
     "speaker": "Anna",
     "text": "CNS veut dire Caisse Nationale de Santé.",
-    "t": 193.31
+    "t": 193.13
    },
    {
     "speaker": "Anna",
     "text": "C'est la principale assurance maladie publique au Luxembourg.",
-    "t": 195.74
+    "t": 195.56
    },
    {
     "speaker": "Anna",
     "text": "Si vous travaillez ou vivez ici et que vous êtes affilié, vous êtes couvert — les frontaliers aussi.",
-    "t": 198.55
+    "t": 198.37
    },
    {
     "speaker": "Anna",
     "text": "Vous recevez une carte de sécurité sociale avec votre matricule, le numéro à treize chiffres, et vous la présentez chez le médecin ou à la pharmacie.",
-    "t": 203.77
+    "t": 203.59
    },
    {
     "speaker": "Tom",
     "text": "Bien. Maintenant, la partie qui déroute beaucoup de nouveaux arrivants.",
-    "t": 211.51
+    "t": 211.33
    },
    {
     "speaker": "Tom",
     "text": "Quand je vais chez le médecin ici... je paie, ou pas ?",
-    "t": 214.81
+    "t": 214.63
    },
    {
     "speaker": "Anna",
     "text": "Voilà, c'est la partie importante.",
-    "t": 218.07
+    "t": 217.89
    },
    {
     "speaker": "Anna",
     "text": "Traditionnellement, vous payez d'abord le médecin, et ensuite la CNS vous rembourse la plus grande partie.",
-    "t": 219.69
+    "t": 219.51
    },
    {
     "speaker": "Anna",
     "text": "Mais aujourd'hui, environ la moitié des médecins utilisent le « paiement immédiat direct ».",
-    "t": 224.6
+    "t": 224.42
    },
    {
     "speaker": "Anna",
     "text": "Dans ce cas, vous ne payez que votre petite part, et la CNS paie le reste au médecin tout de suite.",
-    "t": 229.35
+    "t": 229.17
    },
    {
     "speaker": "Tom",
     "text": "Donc soit je paie le prix complet et je récupère l'argent plus tard — soit, avec le paiement direct, je ne paie que ma part.",
-    "t": 234.45
+    "t": 234.27
    },
    {
     "speaker": "Anna",
     "text": "Exactement. La CNS rembourse une grande partie du coût — pour la plupart des soins, c'est environ quatre-vingts à cent pour cent.",
-    "t": 240.88
+    "t": 240.7
    },
    {
     "speaker": "Anna",
     "text": "Donc vous supportez une petite partie vous-même, et le reste vous revient.",
-    "t": 247.12
+    "t": 246.94
    },
    {
     "speaker": "Tom",
     "text": "Et comment je récupère cet argent ?",
-    "t": 250.34
+    "t": 250.16
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que je fais de la facture ?",
-    "t": 252.18
+    "t": 252
    },
    {
     "speaker": "Anna",
     "text": "Simple. Le médecin vous donne une facture — une facture papier — et vous la payez.",
-    "t": 253.99
+    "t": 253.81
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, vous envoyez cette facture originale, acquittée, à la CNS.",
-    "t": 258.66
+    "t": 258.48
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez l'envoyer par la poste, ou la déposer dans une de leurs boîtes.",
-    "t": 262.44
+    "t": 262.26
    },
    {
     "speaker": "Anna",
     "text": "Et si votre médecin vous donne une facture digitale, vous pouvez l'envoyer en quelques clics — dans l'application de la CNS, la GesondheetsApp, ou sur MyGuichet.lu.",
-    "t": 265.78
+    "t": 265.6
    },
    {
     "speaker": "Anna",
     "text": "La CNS verse ensuite le remboursement directement sur votre compte bancaire.",
-    "t": 274.78
+    "t": 274.6
    },
    {
     "speaker": "Tom",
     "text": "Directement sur mon compte bancaire.",
-    "t": 278.82
+    "t": 278.64
    },
    {
     "speaker": "Tom",
     "text": "Combien de temps ça prend ?",
-    "t": 280.71
+    "t": 280.53
    },
    {
     "speaker": "Anna",
     "text": "Pour une facture papier, en général deux à quatre semaines.",
-    "t": 282.19
+    "t": 282.01
    },
    {
     "speaker": "Anna",
     "text": "Avec une facture digitale, ça peut être quelques jours seulement.",
-    "t": 284.89
+    "t": 284.71
    },
    {
     "speaker": "Anna",
     "text": "Et vous recevez un décompte écrit qui explique ce qui a été remboursé.",
-    "t": 287.69
+    "t": 287.51
    },
    {
     "speaker": "Anna",
     "text": "Donc — petit conseil pour nos auditeurs — donnez à la CNS votre numéro de compte bancaire, votre IBAN, pour qu'elle puisse vous payer directement.",
-    "t": 291.18
+    "t": 291
    },
    {
     "speaker": "Tom",
     "text": "Bons conseils. Mais attendez — avancer le montant complet... pour une grosse facture, ça pourrait être difficile pour certaines personnes.",
-    "t": 298.42
+    "t": 298.24
    },
    {
     "speaker": "Anna",
     "text": "C'est vrai. Et c'est pourquoi le système a des exceptions, où vous ne payez PAS tout d'abord.",
-    "t": 305.86
+    "t": 305.68
    },
    {
     "speaker": "Anna",
     "text": "La plus courante — les médicaments.",
-    "t": 310.63
+    "t": 310.45
    },
    {
     "speaker": "Tom",
     "text": "À la pharmacie ?",
-    "t": 312.75
+    "t": 312.57
    },
    {
     "speaker": "Anna",
     "text": "Oui. À la pharmacie, vous ne payez généralement pas le prix complet.",
-    "t": 314.03
+    "t": 313.85
    },
    {
     "speaker": "Anna",
     "text": "Vous montrez votre carte de sécurité sociale et votre ordonnance, et vous ne payez que votre petite part.",
-    "t": 316.78
+    "t": 316.6
    },
    {
     "speaker": "Anna",
     "text": "La pharmacie règle le reste directement avec la CNS.",
-    "t": 321.67
+    "t": 321.49
    },
    {
     "speaker": "Anna",
     "text": "C'est ce qu'on appelle le tiers payant.",
-    "t": 324.81
+    "t": 324.63
    },
    {
     "speaker": "Tom",
     "text": "Donc pour les médicaments, je ne paie que ma petite part.",
-    "t": 326.79
+    "t": 326.61
    },
    {
     "speaker": "Tom",
     "text": "La CNS s'occupe du reste en coulisses.",
-    "t": 329.6
+    "t": 329.42
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Et c'est la même idée pour un séjour normal à l'hôpital.",
-    "t": 332.08
+    "t": 331.9
    },
    {
     "speaker": "Anna",
     "text": "L'hôpital facture les soins directement à la CNS.",
-    "t": 335.28
+    "t": 335.1
    },
    {
     "speaker": "Anna",
     "text": "Vous payez surtout une petite contribution journalière, et vos extras personnels.",
-    "t": 338.15
+    "t": 337.97
    },
    {
     "speaker": "Tom",
     "text": "Ça rend les choses beaucoup plus faciles.",
-    "t": 341.97
+    "t": 341.79
    },
    {
     "speaker": "Tom",
     "text": "Donc... les médicaments et l'hôpital — je ne paie que ma part.",
-    "t": 344
+    "t": 343.82
    },
    {
     "speaker": "Tom",
     "text": "La visite normale chez le médecin — je paie d'abord et je suis remboursé, sauf si mon médecin utilise le paiement direct.",
-    "t": 347.45
+    "t": 347.27
    },
    {
     "speaker": "Anna",
     "text": "C'est une bonne façon de le retenir.",
-    "t": 353.47
+    "t": 353.29
    },
    {
     "speaker": "Anna",
     "text": "Et il y a encore une chose vraiment importante pour les personnes à faible revenu.",
-    "t": 355.46
+    "t": 355.28
    },
    {
     "speaker": "Tom",
     "text": "Dites-moi.",
-    "t": 359.22
+    "t": 359.04
    },
    {
     "speaker": "Anna",
     "text": "Ça s'appelle le tiers payant social.",
-    "t": 360.29
+    "t": 360.11
    },
    {
     "speaker": "Anna",
     "text": "Si quelqu'un est dans une situation financière difficile, ce système fait qu'il n'a pas du tout à avancer les frais médicaux.",
-    "t": 362.22
+    "t": 362.04
    },
    {
     "speaker": "Anna",
     "text": "La CNS prend en charge directement les soins éligibles, pour que l'argent ne soit pas un obstacle pour voir un médecin.",
-    "t": 367.33
+    "t": 367.15
    },
    {
     "speaker": "Tom",
     "text": "C'est vraiment important.",
-    "t": 372.91
+    "t": 372.73
    },
    {
     "speaker": "Tom",
     "text": "Donc personne ne devrait éviter le médecin simplement parce qu'il ne peut pas payer d'abord.",
-    "t": 374.35
+    "t": 374.17
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Si c'est votre situation, vous pouvez demander le tiers payant social à l'office social de votre commune.",
-    "t": 378.73
+    "t": 378.55
    },
    {
     "speaker": "Tom",
     "text": "Formidable. Bon, Anna — rassemblons tout ça.",
-    "t": 384.5
+    "t": 384.32
    },
    {
     "speaker": "Tom",
     "text": "Un petit résumé de l'ensemble ?",
-    "t": 387.56
+    "t": 387.38
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. Première partie — le DSP est votre dossier de santé en ligne, gratuit et sécurisé.",
-    "t": 389.38
+    "t": 389.2
    },
    {
     "speaker": "Anna",
     "text": "Il aide tous ceux qui vous soignent à travailler avec les mêmes informations, vous contrôlez qui peut le voir, et vous l'activez facilement via MyGuichet.lu — ou vous le consultez sur l'application MyDSP.",
-    "t": 394.65
+    "t": 394.47
    },
    {
     "speaker": "Tom",
     "text": "Et la deuxième partie ?",
-    "t": 405.1
+    "t": 404.92
    },
    {
     "speaker": "Anna",
     "text": "Deuxième partie — la CNS, l'assurance maladie nationale.",
-    "t": 406.56
+    "t": 406.38
    },
    {
     "speaker": "Anna",
     "text": "Pour une visite normale chez le médecin, soit votre médecin utilise le paiement immédiat direct et vous ne payez que votre part — soit vous payez d'abord, et la CNS vous rembourse la plus grande partie sur votre compte bancaire, en quelques semaines, ou en quelques jours pour une facture digitale.",
-    "t": 410.49
+    "t": 410.31
    },
    {
     "speaker": "Anna",
     "text": "Pour les médicaments et l'hôpital, vous ne payez généralement que votre petite part.",
-    "t": 424.23
+    "t": 424.05
    },
    {
     "speaker": "Anna",
     "text": "Et si l'argent est un problème, le tiers payant social fait que vous n'avancez pas les frais.",
-    "t": 427.91
+    "t": 427.73
    },
    {
     "speaker": "Tom",
     "text": "Donc le message est — activez votre dossier de santé, gardez vos factures, donnez vos coordonnées bancaires à la CNS, et n'ayez pas peur de demander de l'aide si vous en avez besoin.",
-    "t": 432.22
+    "t": 432.04
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Un peu d'administratif maintenant... vous épargne beaucoup de soucis plus tard.",
-    "t": 442.08
+    "t": 441.9
    },
    {
     "speaker": "Tom",
     "text": "Et où peut-on en savoir plus ?",
-    "t": 446.55
+    "t": 446.37
    },
    {
     "speaker": "Anna",
     "text": "Pour le dossier de santé, le site est esante.lu.",
-    "t": 448.26
+    "t": 448.08
    },
    {
     "speaker": "Anna",
     "text": "Pour l'assurance et les remboursements, c'est cns.lu.",
-    "t": 451.21
+    "t": 451.03
    },
    {
     "speaker": "Anna",
     "text": "Et les démarches sont expliquées sur Guichet.lu, en plusieurs langues.",
-    "t": 454.36
+    "t": 454.18
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur votre dossier de santé en ligne et la CNS.",
-    "t": 457.93
+    "t": 457.75
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 461.79
+    "t": 461.61
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 469.69
+    "t": 469.51
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 485.56
+    "t": 485.38
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 490.21
+    "t": 490.03
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 491.99
+    "t": 491.81
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 496.37
+    "t": 496.19
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 497.6
+    "t": 497.42
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 500.06
+    "t": 499.88
    }
   ],
   "segments_de": [
@@ -18965,628 +18965,628 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Anna",
     "text": "Und das heutige Thema betrifft zwei Dinge, die jeden angehen — Ihre Gesundheit, und Ihr Geld.",
-    "t": 28.2
+    "t": 27.41
    },
    {
     "speaker": "Anna",
     "text": "Erstens Ihre Online-Gesundheitsakte, das Dossier de Soins Partagé.",
-    "t": 34.19
+    "t": 33.4
    },
    {
     "speaker": "Anna",
     "text": "Und zweitens, wie Sie Ihr Geld von der Krankenkasse zurückbekommen, der CNS.",
-    "t": 39.21
+    "t": 38.42
    },
    {
     "speaker": "Tom",
     "text": "Zwei sehr praktische Dinge.",
-    "t": 44.34
+    "t": 43.55
    },
    {
     "speaker": "Tom",
     "text": "Okay, Anna — fangen wir mit der Gesundheitsakte an.",
-    "t": 46.06
+    "t": 45.27
    },
    {
     "speaker": "Tom",
     "text": "Was ist das Dossier de Soins Partagé?",
-    "t": 49.38
+    "t": 48.59
    },
    {
     "speaker": "Anna",
     "text": "Das DSP ist eine kostenlose, persönliche und sichere elektronische Gesundheitsakte.",
-    "t": 51.71
+    "t": 50.92
    },
    {
     "speaker": "Anna",
     "text": "Sie bringt Ihre wichtigen Gesundheitsinformationen an einem Ort zusammen — Ihre Behandlungen, Ihre Untersuchungsergebnisse, Ihre Arztberichte, Ihre Allergien, und so weiter.",
-    "t": 57.23
+    "t": 56.44
    },
    {
     "speaker": "Tom",
     "text": "Und wer erstellt sie?",
-    "t": 68.66
+    "t": 67.87
    },
    {
     "speaker": "Anna",
     "text": "Es ist das offizielle nationale System, betrieben von der Agence eSanté — der öffentlichen Agentur für digitale Gesundheit in Luxemburg.",
-    "t": 70.12
+    "t": 69.33
    },
    {
     "speaker": "Anna",
     "text": "Die Informationen werden von den Gesundheitsfachleuten eingetragen, die Sie behandeln — Ihr Arzt, das Krankenhaus, das Labor.",
-    "t": 78.79
+    "t": 78
    },
    {
     "speaker": "Tom",
     "text": "Warum ist das nützlich?",
-    "t": 86.87
+    "t": 86.08
    },
    {
     "speaker": "Tom",
     "text": "Mein Arzt kennt meine Krankengeschichte doch schon.",
-    "t": 88.28
+    "t": 87.49
    },
    {
     "speaker": "Anna",
     "text": "Ihr Arzt schon — aber andere, die Sie behandeln, vielleicht nicht.",
-    "t": 91.08
+    "t": 90.29
    },
    {
     "speaker": "Anna",
     "text": "Stellen Sie sich vor, Sie kommen nachts ins Krankenhaus, und Ihr eigener Arzt ist nicht da.",
-    "t": 95.65
+    "t": 94.86
    },
    {
     "speaker": "Anna",
     "text": "Mit dem DSP kann der diensthabende Arzt Ihre wichtigsten Informationen sehen.",
-    "t": 100.46
+    "t": 99.67
    },
    {
     "speaker": "Anna",
     "text": "Ihre Allergien, Ihre aktuellen Medikamente... Das kann sehr wichtig sein, sogar lebensrettend.",
-    "t": 105.26
+    "t": 104.47
    },
    {
     "speaker": "Anna",
     "text": "Und es vermeidet, dieselbe Untersuchung zweimal zu machen, weil das Ergebnis schon da ist.",
-    "t": 111.53
+    "t": 110.74
    },
    {
     "speaker": "Tom",
     "text": "Ah, das ist die Kernidee.",
-    "t": 116.59
+    "t": 115.8
    },
    {
     "speaker": "Tom",
     "text": "Alle, die mich versorgen, sehen dieselbe Akte.",
-    "t": 118.53
+    "t": 117.74
    },
    {
     "speaker": "Anna",
     "text": "Genau. Der ganze Sinn ist eine bessere Koordination — Kontinuität und Sicherheit der Versorgung.",
-    "t": 121.02
+    "t": 120.23
    },
    {
     "speaker": "Anna",
     "text": "Alle, die Sie behandeln, arbeiten mit demselben, vollständigen Bild.",
-    "t": 127.8
+    "t": 127.01
    },
    {
     "speaker": "Tom",
     "text": "Nun... Gesundheitsdaten sind sehr privat.",
-    "t": 131.89
+    "t": 131.1
    },
    {
     "speaker": "Tom",
     "text": "Ist das sicher?",
-    "t": 134.77
+    "t": 133.98
    },
    {
     "speaker": "Anna",
     "text": "Sehr gute Frage, und die Antwort ist ja.",
-    "t": 135.89
+    "t": 135.1
    },
    {
     "speaker": "Anna",
     "text": "Die Daten sind verschlüsselt, und sie werden in einer Art digitalem Tresor aufbewahrt, hier in Luxemburg.",
-    "t": 138.55
+    "t": 137.76
    },
    {
     "speaker": "Anna",
     "text": "Und der wichtigste Punkt — Sie haben die Kontrolle.",
-    "t": 144.35
+    "t": 143.56
    },
    {
     "speaker": "Tom",
     "text": "Die Kontrolle — wie?",
-    "t": 147.6
+    "t": 146.81
    },
    {
     "speaker": "Anna",
     "text": "Sie, der Patient, entscheiden, wer in Ihr DSP schauen darf.",
-    "t": 149.2
+    "t": 148.41
    },
    {
     "speaker": "Anna",
     "text": "Sie geben den Zugang, und Sie können ihn wieder entziehen.",
-    "t": 153.41
+    "t": 152.62
    },
    {
     "speaker": "Anna",
     "text": "Sie können sehen, wer Ihre Akte eingesehen hat.",
-    "t": 156.73
+    "t": 155.94
    },
    {
     "speaker": "Anna",
     "text": "Sie können sogar bestimmte Dokumente verbergen, wenn Sie möchten.",
-    "t": 159.35
+    "t": 158.56
    },
    {
     "speaker": "Anna",
     "text": "Es ist also Ihre Akte, und Sie halten die Schlüssel in der Hand.",
-    "t": 162.73
+    "t": 161.94
    },
    {
     "speaker": "Tom",
     "text": "Das gefällt mir.",
-    "t": 166.16
+    "t": 165.37
    },
    {
     "speaker": "Tom",
     "text": "Sie gehört mir, und ich entscheide.",
-    "t": 167.38
+    "t": 166.59
    },
    {
     "speaker": "Tom",
     "text": "Wie eröffne ich denn nun konkret ein DSP?",
-    "t": 169.34
+    "t": 168.55
    },
    {
     "speaker": "Anna",
     "text": "Gute Nachricht — Sie müssen es nicht eröffnen.",
-    "t": 172.31
+    "t": 171.52
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie bei der luxemburgischen Krankenversicherung angemeldet sind, wird Ihr DSP automatisch angelegt.",
-    "t": 175.45
+    "t": 174.66
    },
    {
     "speaker": "Anna",
     "text": "Um es selbst online zu nutzen, aktivieren Sie Ihr „eSanté-Konto“.",
-    "t": 181.33
+    "t": 180.54
    },
    {
     "speaker": "Anna",
     "text": "Und das können Sie direkt über MyGuichet.lu machen.",
-    "t": 185.55
+    "t": 184.76
    },
    {
     "speaker": "Tom",
     "text": "Das ist super.",
-    "t": 189.18
+    "t": 188.39
    },
    {
     "speaker": "Tom",
     "text": "Und wenn es aktiv ist, wie schaue ich hinein?",
-    "t": 190.28
+    "t": 189.49
    },
    {
     "speaker": "Anna",
     "text": "Sie melden sich online bei Ihrem DSP an, über das eSanté-Portal.",
-    "t": 192.86
+    "t": 192.07
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt auch eine mobile App — sie heißt MyDSP — damit Sie Ihre Gesundheitsakte vom Telefon aus prüfen können.",
-    "t": 197.12
+    "t": 196.33
    },
    {
     "speaker": "Tom",
     "text": "Sehr praktisch. Also, um die erste Hälfte zusammenzufassen — das DSP ist meine kostenlose, sichere Online-Gesundheitsakte, betrieben von der Agence eSanté, sie hilft allen, die mich versorgen, zusammenzuarbeiten, ich kontrolliere, wer sie sieht, und ich aktiviere sie über MyGuichet.",
-    "t": 204.37
+    "t": 203.58
    },
    {
     "speaker": "Anna",
     "text": "Perfekte Zusammenfassung.",
-    "t": 224.16
+    "t": 223.37
    },
    {
     "speaker": "Tom",
     "text": "Okay. Jetzt das zweite Thema — Geld.",
-    "t": 225.93
+    "t": 225.14
    },
    {
     "speaker": "Tom",
     "text": "Die CNS. Anna, zuerst... was ist die CNS?",
-    "t": 228.89
+    "t": 228.1
    },
    {
     "speaker": "Anna",
     "text": "CNS steht für Caisse Nationale de Santé — die Nationale Gesundheitskasse.",
-    "t": 233.27
+    "t": 232.48
    },
    {
     "speaker": "Anna",
     "text": "Sie ist die wichtigste öffentliche Krankenversicherung in Luxemburg.",
-    "t": 238.53
+    "t": 237.74
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie hier arbeiten oder leben und angemeldet sind, sind Sie versichert — Grenzgänger auch.",
-    "t": 242.31
+    "t": 241.52
    },
    {
     "speaker": "Anna",
     "text": "Sie bekommen eine Sozialversicherungskarte mit Ihrem Matricule, der dreizehnstelligen Nummer, und Sie zeigen sie beim Arzt oder in der Apotheke vor.",
-    "t": 247.59
+    "t": 246.8
    },
    {
     "speaker": "Tom",
     "text": "Gut. Jetzt der Teil, der viele Neuankömmlinge verwirrt.",
-    "t": 255.75
+    "t": 254.96
    },
    {
     "speaker": "Tom",
     "text": "Wenn ich hier zum Arzt gehe... zahle ich, oder nicht?",
-    "t": 259.3
+    "t": 258.51
    },
    {
     "speaker": "Anna",
     "text": "Richtig, das ist der wichtige Teil.",
-    "t": 262.61
+    "t": 261.82
    },
    {
     "speaker": "Anna",
     "text": "Traditionell zahlen Sie zuerst beim Arzt, und dann zahlt die CNS Ihnen das meiste davon zurück.",
-    "t": 265.06
+    "t": 264.27
    },
    {
     "speaker": "Anna",
     "text": "Aber heute nutzt etwa die Hälfte der Ärzte die „sofortige Direktzahlung“.",
-    "t": 270.71
+    "t": 269.92
    },
    {
     "speaker": "Anna",
     "text": "Dann zahlen Sie nur Ihren eigenen kleinen Anteil, und die CNS zahlt dem Arzt den Rest sofort.",
-    "t": 275.3
+    "t": 274.51
    },
    {
     "speaker": "Tom",
     "text": "Ich zahle also entweder den vollen Preis und bekomme später Geld zurück — oder, mit der Direktzahlung, nur meinen Anteil.",
-    "t": 281.06
+    "t": 280.27
    },
    {
     "speaker": "Anna",
     "text": "Genau. Die CNS erstattet einen großen Teil der Kosten — bei den meisten Leistungen sind es etwa achtzig bis hundert Prozent.",
-    "t": 288.17
+    "t": 287.38
    },
    {
     "speaker": "Anna",
     "text": "Sie tragen also einen kleinen Teil selbst, und der Rest kommt zu Ihnen zurück.",
-    "t": 296.14
+    "t": 295.35
    },
    {
     "speaker": "Tom",
     "text": "Und wie bekomme ich das Geld zurück?",
-    "t": 300.39
+    "t": 299.6
    },
    {
     "speaker": "Tom",
     "text": "Was mache ich mit der Rechnung?",
-    "t": 302.29
+    "t": 301.5
    },
    {
     "speaker": "Anna",
     "text": "Ganz einfach. Der Arzt gibt Ihnen eine Rechnung — auf Papier — und Sie bezahlen sie.",
-    "t": 304.03
+    "t": 303.24
    },
    {
     "speaker": "Anna",
     "text": "Dann schicken Sie diese bezahlte Originalrechnung an die CNS.",
-    "t": 309.72
+    "t": 308.93
    },
    {
     "speaker": "Anna",
     "text": "Sie können sie per Post schicken, oder in einen ihrer Briefkästen werfen.",
-    "t": 313.47
+    "t": 312.68
    },
    {
     "speaker": "Anna",
     "text": "Und wenn Ihr Arzt Ihnen eine digitale Rechnung gibt, können Sie sie mit ein paar Klicks einreichen — in der App der CNS, der GesondheetsApp, oder auf MyGuichet.lu.",
-    "t": 317.57
+    "t": 316.78
    },
    {
     "speaker": "Anna",
     "text": "Die CNS überweist die Rückerstattung dann direkt auf Ihr Bankkonto.",
-    "t": 327.59
+    "t": 326.8
    },
    {
     "speaker": "Tom",
     "text": "Direkt auf mein Bankkonto.",
-    "t": 331.64
+    "t": 330.85
    },
    {
     "speaker": "Tom",
     "text": "Wie lange dauert das?",
-    "t": 333.33
+    "t": 332.54
    },
    {
     "speaker": "Anna",
     "text": "Bei einer Papierrechnung meist zwei bis vier Wochen.",
-    "t": 334.69
+    "t": 333.9
    },
    {
     "speaker": "Anna",
     "text": "Bei einer digitalen Rechnung können es nur ein paar Tage sein.",
-    "t": 337.38
+    "t": 336.59
    },
    {
     "speaker": "Anna",
     "text": "Und Sie bekommen eine schriftliche Abrechnung, die erklärt, was erstattet wurde.",
-    "t": 340.8
+    "t": 340.01
    },
    {
     "speaker": "Anna",
     "text": "Also — ein Tipp für unsere Hörer — geben Sie der CNS Ihre Bankkontonummer, Ihre IBAN, damit sie Sie direkt bezahlen kann.",
-    "t": 345.01
+    "t": 344.22
    },
    {
     "speaker": "Tom",
     "text": "Gute Tipps. Aber warte — zuerst den vollen Betrag zahlen... bei einer großen Rechnung könnte das für manche Menschen schwierig sein.",
-    "t": 353.89
+    "t": 353.1
    },
    {
     "speaker": "Anna",
     "text": "Stimmt. Und deshalb hat das System Ausnahmen, bei denen Sie NICHT alles zuerst bezahlen.",
-    "t": 361.89
+    "t": 361.1
    },
    {
     "speaker": "Anna",
     "text": "Die häufigste — Medikamente.",
-    "t": 367.39
+    "t": 366.6
    },
    {
     "speaker": "Tom",
     "text": "In der Apotheke?",
-    "t": 369.81
+    "t": 369.02
    },
    {
     "speaker": "Anna",
     "text": "Ja. In der Apotheke zahlen Sie normalerweise nicht den vollen Preis.",
-    "t": 371.14
+    "t": 370.35
    },
    {
     "speaker": "Anna",
     "text": "Sie zeigen Ihre Sozialversicherungskarte und Ihr Rezept vor, und Sie zahlen nur Ihren eigenen kleinen Anteil.",
-    "t": 375.49
+    "t": 374.7
    },
    {
     "speaker": "Anna",
     "text": "Den Rest rechnet die Apotheke direkt mit der CNS ab.",
-    "t": 381.86
+    "t": 381.07
    },
    {
     "speaker": "Anna",
     "text": "Das nennt man Drittzahlersystem.",
-    "t": 385.46
+    "t": 384.67
    },
    {
     "speaker": "Tom",
     "text": "Bei Medikamenten zahle ich also nur meinen kleinen Teil.",
-    "t": 387.55
+    "t": 386.76
    },
    {
     "speaker": "Tom",
     "text": "Die CNS regelt den Rest im Hintergrund.",
-    "t": 391.08
+    "t": 390.29
    },
    {
     "speaker": "Anna",
     "text": "Genau. Und dieselbe Idee gilt für einen normalen Krankenhausaufenthalt.",
-    "t": 394.15
+    "t": 393.36
    },
    {
     "speaker": "Anna",
     "text": "Das Krankenhaus rechnet die Versorgung direkt mit der CNS ab.",
-    "t": 398.69
+    "t": 397.9
    },
    {
     "speaker": "Anna",
     "text": "Sie zahlen hauptsächlich einen kleinen Tagesbeitrag, und Ihre persönlichen Extras.",
-    "t": 402.51
+    "t": 401.72
    },
    {
     "speaker": "Tom",
     "text": "Das macht es viel einfacher.",
-    "t": 407.15
+    "t": 406.36
    },
    {
     "speaker": "Tom",
     "text": "Also... Medikamente und Krankenhaus — ich zahle nur meinen Anteil.",
-    "t": 408.8
+    "t": 408.01
    },
    {
     "speaker": "Tom",
     "text": "Der normale Arztbesuch — ich zahle zuerst und werde erstattet, außer mein Arzt nutzt die Direktzahlung.",
-    "t": 413.57
+    "t": 412.78
    },
    {
     "speaker": "Anna",
     "text": "So kann man es sich gut merken.",
-    "t": 420.53
+    "t": 419.74
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt noch eine Sache, die für Menschen mit geringem Einkommen wirklich wichtig ist.",
-    "t": 422.3
+    "t": 421.51
    },
    {
     "speaker": "Tom",
     "text": "Erzähl.",
-    "t": 426.85
+    "t": 426.06
    },
    {
     "speaker": "Anna",
     "text": "Es heißt das soziale Drittzahlersystem.",
-    "t": 427.88
+    "t": 427.09
    },
    {
     "speaker": "Anna",
     "text": "Wenn jemand in einer schwierigen finanziellen Lage ist, bedeutet dieses System, dass er die Arztkosten gar nicht vorstrecken muss.",
-    "t": 430.58
+    "t": 429.79
    },
    {
     "speaker": "Anna",
     "text": "Die CNS übernimmt die berechtigten Leistungen direkt, damit Geld kein Hindernis ist, zum Arzt zu gehen.",
-    "t": 437.35
+    "t": 436.56
    },
    {
     "speaker": "Tom",
     "text": "Das ist wirklich wichtig.",
-    "t": 443.35
+    "t": 442.56
    },
    {
     "speaker": "Tom",
     "text": "Niemand sollte also den Arztbesuch vermeiden, nur weil er nicht zuerst zahlen kann.",
-    "t": 444.83
+    "t": 444.04
    },
    {
     "speaker": "Anna",
     "text": "Genau. Wenn das Ihre Situation ist, können Sie das soziale Drittzahlersystem beim Sozialamt — dem Office social — Ihrer Gemeinde beantragen.",
-    "t": 449.64
+    "t": 448.85
    },
    {
     "speaker": "Tom",
     "text": "Wunderbar. Okay, Anna — bringen wir alles zusammen.",
-    "t": 459.14
+    "t": 458.35
    },
    {
     "speaker": "Tom",
     "text": "Eine kurze Zusammenfassung von allem?",
-    "t": 462.89
+    "t": 462.1
    },
    {
     "speaker": "Anna",
     "text": "Klar. Teil eins — das DSP ist Ihre kostenlose, sichere Online-Gesundheitsakte.",
-    "t": 465.15
+    "t": 464.36
    },
    {
     "speaker": "Anna",
     "text": "Sie hilft allen, die Sie behandeln, mit denselben Informationen zu arbeiten, Sie kontrollieren, wer sie sehen darf, und Sie aktivieren sie ganz einfach über MyGuichet.lu — oder schauen mit der MyDSP-App hinein.",
-    "t": 471.95
+    "t": 471.16
    },
    {
     "speaker": "Tom",
     "text": "Und Teil zwei?",
-    "t": 485.75
+    "t": 484.96
    },
    {
     "speaker": "Anna",
     "text": "Teil zwei — die CNS, die nationale Krankenversicherung.",
-    "t": 487.1
+    "t": 486.31
    },
    {
     "speaker": "Anna",
     "text": "Beim normalen Arztbesuch nutzt Ihr Arzt entweder die sofortige Direktzahlung, und Sie zahlen nur Ihren Anteil — oder Sie zahlen zuerst, und die CNS erstattet das meiste davon auf Ihr Bankkonto, innerhalb weniger Wochen, oder weniger Tage bei einer digitalen Rechnung.",
-    "t": 491.95
+    "t": 491.16
    },
    {
     "speaker": "Anna",
     "text": "Bei Medikamenten und im Krankenhaus zahlen Sie normalerweise nur Ihren kleinen Anteil.",
-    "t": 507.96
+    "t": 507.17
    },
    {
     "speaker": "Anna",
     "text": "Und wenn das Geld knapp ist, bedeutet das soziale Drittzahlersystem, dass Sie nichts vorstrecken müssen.",
-    "t": 512.98
+    "t": 512.19
    },
    {
     "speaker": "Tom",
     "text": "Die Botschaft ist also — aktivieren Sie Ihre Gesundheitsakte, bewahren Sie Ihre Rechnungen auf, geben Sie der CNS Ihre Bankdaten, und haben Sie keine Angst, um Hilfe zu bitten, wenn Sie sie brauchen.",
-    "t": 518.78
+    "t": 517.99
    },
    {
     "speaker": "Anna",
     "text": "Genau. Ein bisschen Verwaltung jetzt... erspart Ihnen später viele Sorgen.",
-    "t": 530.07
+    "t": 529.28
    },
    {
     "speaker": "Tom",
     "text": "Und wo können die Menschen mehr erfahren?",
-    "t": 535.04
+    "t": 534.25
    },
    {
     "speaker": "Anna",
     "text": "Für die Gesundheitsakte ist die Website esante.lu.",
-    "t": 537.26
+    "t": 536.47
    },
    {
     "speaker": "Anna",
     "text": "Für die Versicherung und die Rückerstattungen ist es cns.lu.",
-    "t": 540.87
+    "t": 540.08
    },
    {
     "speaker": "Anna",
     "text": "Und die Verfahren werden auf Guichet.lu erklärt, auch auf Deutsch.",
-    "t": 545.06
+    "t": 544.27
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über Ihre Online-Gesundheitsakte und die CNS.",
-    "t": 549.35
+    "t": 548.56
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 553.77
+    "t": 552.98
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 562.42
+    "t": 561.63
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 580.27
+    "t": 579.48
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 585.97
+    "t": 585.18
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 588.22
+    "t": 587.43
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 593.11
+    "t": 592.32
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 594.26
+    "t": 593.47
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 597.47
+    "t": 596.68
    }
   ],
   "segments_lb": [
@@ -19857,9 +19857,9 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_dsp_cns_fr.mp3",
-  "duration_fr": 501.84,
+  "duration_fr": 501.66,
   "audio_de": "podcast_dsp_cns_de.mp3",
-  "duration_de": 599.01,
+  "duration_de": 598.23,
   "title_fr": "Votre santé en ligne – Le Dossier de Soins Partagé et comment la CNS vous rembourse",
   "description_fr": "Deux choses pratiques qui touchent tout le monde. D'abord, le Dossier de Soins Partagé — votre dossier de santé partagé en ligne, gratuit et sécurisé, géré par l'Agence eSanté, où vous contrôlez qui peut le consulter, avec l'application mobile MyDSP. Ensuite, comment fonctionne le remboursement avec l'assurance maladie nationale, la CNS : payer d'abord et récupérer la plus grande partie, le tiers payant à la pharmacie et à l'hôpital, le tiers payant social pour les personnes en difficulté, et comment activer votre compte eSanté via MyGuichet.lu.",
   "topics_fr": [
@@ -20952,768 +20952,768 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et le sujet d'aujourd'hui concerne quelque chose qui protège tout le monde.",
-    "t": 23.73
+    "t": 23.07
    },
    {
     "speaker": "Tom",
     "text": "C'est le système qui avertit la population quand il y a une urgence.",
-    "t": 28.16
+    "t": 27.5
    },
    {
     "speaker": "Tom",
     "text": "Ça s'appelle LU-Alert.",
-    "t": 31.52
+    "t": 30.86
    },
    {
     "speaker": "Tom",
     "text": "C'est le système national d'alerte et d'information de la population.",
-    "t": 33.34
+    "t": 32.68
    },
    {
     "speaker": "Tom",
     "text": "Il a été déployé à l'automne 2024.",
-    "t": 36.8
+    "t": 36.14
    },
    {
     "speaker": "Tom",
     "text": "C'est le remplaçant moderne de l'ancien système d'alerte.",
-    "t": 39.32
+    "t": 38.66
    },
    {
     "speaker": "Anna",
     "text": "Et à quoi ça sert, concrètement ?",
-    "t": 42.4
+    "t": 41.74
    },
    {
     "speaker": "Tom",
     "text": "L'objectif est d'avertir et d'informer les personnes qui pourraient être touchées par un événement dangereux.",
-    "t": 44.21
+    "t": 43.55
    },
    {
     "speaker": "Tom",
     "text": "Pour que vous puissiez vous préparer, et prendre les bonnes précautions pour vous protéger, vous et vos biens.",
-    "t": 49.19
+    "t": 48.53
    },
    {
     "speaker": "Tom",
     "text": "Et ce n'est pas seulement pendant l'urgence.",
-    "t": 54.55
+    "t": 53.89
    },
    {
     "speaker": "Tom",
     "text": "C'est aussi avant — pour construire ce qu'on appelle la résilience et la prévention.",
-    "t": 56.6
+    "t": 55.94
    },
    {
     "speaker": "Anna",
     "text": "Donc ça m'aide à agir au bon moment.",
-    "t": 61.41
+    "t": 60.75
    },
    {
     "speaker": "Anna",
     "text": "Bon, la grande question pour la plupart des gens... comment l'alerte m'arrive-t-elle, concrètement ?",
-    "t": 63.15
+    "t": 62.49
    },
    {
     "speaker": "Anna",
     "text": "Sur mon téléphone ?",
-    "t": 67.69
+    "t": 67.03
    },
    {
     "speaker": "Tom",
     "text": "Oui, surtout sur votre téléphone, et de plusieurs façons.",
-    "t": 69.02
+    "t": 68.36
    },
    {
     "speaker": "Tom",
     "text": "LU-Alert est ce qu'on appelle « multicanal ».",
-    "t": 72.17
+    "t": 71.51
    },
    {
     "speaker": "Tom",
     "text": "Ça veut dire qu'il utilise plusieurs canaux différents en même temps, pour atteindre le plus de personnes possible.",
-    "t": 75.19
+    "t": 74.53
    },
    {
     "speaker": "Tom",
     "text": "L'un est le Cell Broadcast.",
-    "t": 80.59
+    "t": 79.93
    },
    {
     "speaker": "Tom",
     "text": "L'autre est le SMS géolocalisé.",
-    "t": 82.44
+    "t": 81.78
    },
    {
     "speaker": "Anna",
     "text": "D'accord. Et voici la question que tout le monde se pose.",
-    "t": 84.92
+    "t": 84.26
    },
    {
     "speaker": "Anna",
     "text": "Est-ce que je dois m'inscrire, ou m'enregistrer, pour les recevoir ?",
-    "t": 87.31
+    "t": 86.65
    },
    {
     "speaker": "Tom",
     "text": "Non. Et c'est vraiment important.",
-    "t": 90.43
+    "t": 89.77
    },
    {
     "speaker": "Tom",
     "text": "Pour le Cell Broadcast et pour le SMS géolocalisé, vous n'avez pas besoin de vous inscrire.",
-    "t": 92.41
+    "t": 91.75
    },
    {
     "speaker": "Tom",
     "text": "Vous ne donnez votre numéro à personne.",
-    "t": 97.34
+    "t": 96.68
    },
    {
     "speaker": "Tom",
     "text": "Si votre téléphone se trouve dans la zone quand les autorités envoient un message, votre téléphone est ciblé automatiquement.",
-    "t": 99.51
+    "t": 98.85
    },
    {
     "speaker": "Anna",
     "text": "Donc je n'ai rien à faire, et je ne peux pas vraiment m'y soustraire non plus.",
-    "t": 105.96
+    "t": 105.3
    },
    {
     "speaker": "Tom",
     "text": "Correct. C'est voulu — pour que toutes les personnes en danger soient averties.",
-    "t": 109.26
+    "t": 108.6
    },
    {
     "speaker": "Anna",
     "text": "Bien. Il y a d'autres canaux ?",
-    "t": 113.66
+    "t": 113
    },
    {
     "speaker": "Tom",
     "text": "Oui. Il y a l'application mobile LU-Alert, que vous téléchargez gratuitement.",
-    "t": 115.39
+    "t": 114.73
    },
    {
     "speaker": "Tom",
     "text": "Il y a les sites officiels, comme lu-alert point l-u.",
-    "t": 119.82
+    "t": 119.16
    },
    {
     "speaker": "Tom",
     "text": "Il y a la presse — la radio, la télévision, leurs sites et leurs applications.",
-    "t": 123.37
+    "t": 122.71
    },
    {
     "speaker": "Tom",
     "text": "Il y a les réseaux sociaux.",
-    "t": 127.77
+    "t": 127.11
    },
    {
     "speaker": "Tom",
     "text": "Et enfin, les sirènes.",
-    "t": 129.29
+    "t": 128.63
    },
    {
     "speaker": "Anna",
     "text": "Les sirènes ? Comme les vieilles sirènes d'alerte aérienne ?",
-    "t": 130.84
+    "t": 130.18
    },
    {
     "speaker": "Tom",
     "text": "Oui, mais aujourd'hui les sirènes ne sont utilisées que dans un seul cas précis — une alerte nucléaire.",
-    "t": 133.87
+    "t": 133.21
    },
    {
     "speaker": "Tom",
     "text": "Pour tout le reste, c'est le téléphone et les autres canaux.",
-    "t": 139.24
+    "t": 138.58
    },
    {
     "speaker": "Anna",
     "text": "Compris. Et l'application mobile — qu'est-ce qu'elle apporte de plus, si je reçois déjà les SMS ?",
-    "t": 142.31
+    "t": 141.65
    },
    {
     "speaker": "Tom",
     "text": "L'application vous permet de suivre toutes les alertes et informations en un seul endroit, émises par les autorités publiques.",
-    "t": 147.88
+    "t": 147.22
    },
    {
     "speaker": "Tom",
     "text": "Vous la téléchargez gratuitement, sur l'App Store d'Apple ou le Google Play Store.",
-    "t": 154.38
+    "t": 153.72
    },
    {
     "speaker": "Tom",
     "text": "C'est une bonne idée de l'installer.",
-    "t": 158.74
+    "t": 158.08
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, une inquiétude pratique.",
-    "t": 160.7
+    "t": 160.04
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup d'entre nous ne parlent pas luxembourgeois.",
-    "t": 162.76
+    "t": 162.1
    },
    {
     "speaker": "Anna",
     "text": "Dans quelle langue arrivent ces messages ?",
-    "t": 164.99
+    "t": 164.33
    },
    {
     "speaker": "Tom",
     "text": "Bonne question. Les messages sont envoyés en trois langues — allemand, anglais et français.",
-    "t": 167.06
+    "t": 166.4
    },
    {
     "speaker": "Tom",
     "text": "Dans l'application, vous recevez la langue que vous avez choisie dans les paramètres.",
-    "t": 171.95
+    "t": 171.29
    },
    {
     "speaker": "Tom",
     "text": "Par SMS géolocalisé, vous recevez les trois langues dans un seul message.",
-    "t": 175.7
+    "t": 175.04
    },
    {
     "speaker": "Anna",
     "text": "C'est rassurant. Bon, alors un message arrive.",
-    "t": 180.3
+    "t": 179.64
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce qu'il y a dedans ?",
-    "t": 183.11
+    "t": 182.45
    },
    {
     "speaker": "Tom",
     "text": "Normalement, trois choses.",
-    "t": 184.5
+    "t": 183.84
    },
    {
     "speaker": "Tom",
     "text": "Premièrement, ce qui s'est passé, ou ce qui risque de se passer.",
-    "t": 186.18
+    "t": 185.52
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement, une recommandation — comment vous comporter, ou ce que vous devez faire.",
-    "t": 189.73
+    "t": 189.07
    },
    {
     "speaker": "Tom",
     "text": "Et troisièmement, un site internet où trouver plus d'informations.",
-    "t": 193.85
+    "t": 193.19
    },
    {
     "speaker": "Anna",
     "text": "Et si le message est très court ?",
-    "t": 197.34
+    "t": 196.68
    },
    {
     "speaker": "Tom",
     "text": "Ça peut arriver, surtout par SMS, parce qu'il y a une limite de caractères.",
-    "t": 198.96
+    "t": 198.3
    },
    {
     "speaker": "Tom",
     "text": "Donc si le message est court, le conseil est toujours le même — allez sur le site, lu-alert point l-u, pour lire tous les détails de l'alerte.",
-    "t": 203.26
+    "t": 202.6
    },
    {
     "speaker": "Anna",
     "text": "lu-alert.lu pour l'histoire complète.",
-    "t": 212.5
+    "t": 211.84
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, les messages ont aussi des niveaux, n'est-ce pas ?",
-    "t": 215.72
+    "t": 215.06
    },
    {
     "speaker": "Anna",
     "text": "Pour montrer la gravité ?",
-    "t": 218.18
+    "t": 217.52
    },
    {
     "speaker": "Tom",
     "text": "Oui. LU-Alert utilise différents niveaux d'alerte.",
-    "t": 219.68
+    "t": 219.02
    },
    {
     "speaker": "Tom",
     "text": "Laissez-moi les passer en revue.",
-    "t": 222.28
+    "t": 221.62
    },
    {
     "speaker": "Tom",
     "text": "Le plus fort est « D », pour danger imminent — ça veut dire agir immédiatement.",
-    "t": 223.97
+    "t": 223.31
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, il y a trois niveaux de vigilance, comme les couleurs de la météo.",
-    "t": 228.48
+    "t": 227.82
    },
    {
     "speaker": "Tom",
     "text": "Le rouge est N1 — vigilance absolue, le plus élevé.",
-    "t": 232.01
+    "t": 231.35
    },
    {
     "speaker": "Tom",
     "text": "L'orange est N2 — soyez prudent, risque moyen.",
-    "t": 235.87
+    "t": 235.21
    },
    {
     "speaker": "Tom",
     "text": "Le jaune est N3 — soyez attentif, risque faible.",
-    "t": 239.48
+    "t": 238.82
    },
    {
     "speaker": "Anna",
     "text": "Donc rouge, orange, jaune — presque comme un feu de signalisation.",
-    "t": 243.36
+    "t": 242.7
    },
    {
     "speaker": "Tom",
     "text": "Exactement, c'est une façon facile de le retenir.",
-    "t": 247.61
+    "t": 246.95
    },
    {
     "speaker": "Tom",
     "text": "Et il y en a trois autres.",
-    "t": 250.46
+    "t": 249.8
    },
    {
     "speaker": "Tom",
     "text": "« A », c'est pour une personne disparue ou une alerte enlèvement.",
-    "t": 251.82
+    "t": 251.16
    },
    {
     "speaker": "Tom",
     "text": "« I », c'est juste une information — pas de danger.",
-    "t": 255.14
+    "t": 254.48
    },
    {
     "speaker": "Tom",
     "text": "Et « T », c'est un message de test.",
-    "t": 258.1
+    "t": 257.44
    },
    {
     "speaker": "Anna",
     "text": "Ah, le test.",
-    "t": 260.52
+    "t": 259.86
    },
    {
     "speaker": "Anna",
     "text": "Donc si je reçois un message qui dit que c'est un test...",
-    "t": 261.64
+    "t": 260.98
    },
    {
     "speaker": "Tom",
     "text": "...alors vous n'avez rien à faire.",
-    "t": 264.33
+    "t": 263.67
    },
    {
     "speaker": "Tom",
     "text": "Le message dira clairement que c'est un test.",
-    "t": 265.89
+    "t": 265.23
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg teste le système chaque mois — et les sirènes sont testées le premier lundi du mois, vers midi.",
-    "t": 268.2
+    "t": 267.54
    },
    {
     "speaker": "Tom",
     "text": "C'est normal, pas d'inquiétude.",
-    "t": 273.76
+    "t": 273.1
    },
    {
     "speaker": "Anna",
     "text": "Très bon à savoir.",
-    "t": 275.65
+    "t": 274.99
    },
    {
     "speaker": "Anna",
     "text": "Comme ça, personne ne panique un jour de test.",
-    "t": 276.83
+    "t": 276.17
    },
    {
     "speaker": "Anna",
     "text": "Maintenant — quels types d'événements peuvent déclencher une alerte ?",
-    "t": 278.94
+    "t": 278.28
    },
    {
     "speaker": "Tom",
     "text": "Un éventail assez large.",
-    "t": 282.04
+    "t": 281.38
    },
    {
     "speaker": "Tom",
     "text": "Le système a douze catégories d'événements.",
-    "t": 283.73
+    "t": 283.07
    },
    {
     "speaker": "Tom",
     "text": "Des choses comme la météo — tempêtes, fortes pluies, neige, froid, chaleur.",
-    "t": 286.05
+    "t": 285.39
    },
    {
     "speaker": "Tom",
     "text": "L'environnement — par exemple les inondations, ou la pollution de l'air.",
-    "t": 291.49
+    "t": 290.83
    },
    {
     "speaker": "Tom",
     "text": "La santé — comme un rappel de produit alimentaire ou une alerte allergène.",
-    "t": 295.33
+    "t": 294.67
    },
    {
     "speaker": "Tom",
     "text": "Et puis l'incendie, le sauvetage, la sécurité, la sûreté, les problèmes de transport, les infrastructures défaillantes, et quelques autres.",
-    "t": 299.71
+    "t": 299.05
    },
    {
     "speaker": "Anna",
     "text": "Donc d'une grosse tempête, à une inondation, à un rappel alimentaire.",
-    "t": 307.76
+    "t": 307.1
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Un large éventail, tout dans un seul système.",
-    "t": 311.21
+    "t": 310.55
    },
    {
     "speaker": "Tom",
     "text": "Et ces catégories suivent une norme internationale, donc elles sont compatibles avec les autres pays aussi.",
-    "t": 314.85
+    "t": 314.19
    },
    {
     "speaker": "Anna",
     "text": "Et qui envoie réellement ces messages ?",
-    "t": 320.7
+    "t": 320.04
    },
    {
     "speaker": "Anna",
     "text": "Qui décide ?",
-    "t": 322.55
+    "t": 321.89
    },
    {
     "speaker": "Tom",
     "text": "Uniquement les autorités publiques.",
-    "t": 323.7
+    "t": 323.04
    },
    {
     "speaker": "Tom",
     "text": "Plusieurs d'entre elles sont connectées au système.",
-    "t": 325.7
+    "t": 325.04
    },
    {
     "speaker": "Tom",
     "text": "Par exemple — la Police, le Corps grand-ducal d'incendie et de secours, c'est-à-dire le CGDIS, le service météorologique MeteoLux, l'administration de la gestion de l'eau, l'administration de l'alimentation, et le Haut-Commissariat à la protection nationale.",
-    "t": 328.07
+    "t": 327.41
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est toujours une source officielle.",
-    "t": 343.04
+    "t": 342.38
    },
    {
     "speaker": "Anna",
     "text": "Jamais une entreprise privée.",
-    "t": 344.88
+    "t": 344.22
    },
    {
     "speaker": "Tom",
     "text": "Jamais. Et encore une chose — il n'y a pas de publicité sur LU-Alert.",
-    "t": 346.66
+    "t": 346
    },
    {
     "speaker": "Tom",
     "text": "Il est utilisé uniquement par les autorités publiques, uniquement pour l'alerte et l'information.",
-    "t": 350.84
+    "t": 350.18
    },
    {
     "speaker": "Tom",
     "text": "Jamais pour de la pub.",
-    "t": 355.82
+    "t": 355.16
    },
    {
     "speaker": "Anna",
     "text": "C'est le lien parfait avec ma prochaine inquiétude.",
-    "t": 357.41
+    "t": 356.75
    },
    {
     "speaker": "Anna",
     "text": "Les arnaques. Comment savoir si un message est vrai, et pas du phishing ?",
-    "t": 359.86
+    "t": 359.2
    },
    {
     "speaker": "Tom",
     "text": "Sujet très important.",
-    "t": 364.09
+    "t": 363.43
    },
    {
     "speaker": "Tom",
     "text": "Comme tout message, une alerte pourrait être imitée par des criminels.",
-    "t": 365.63
+    "t": 364.97
    },
    {
     "speaker": "Tom",
     "text": "Alors, quelques vérifications simples.",
-    "t": 369.27
+    "t": 368.61
    },
    {
     "speaker": "Tom",
     "text": "Premièrement — les autorités publiques ne vous demanderont jamais de données personnelles.",
-    "t": 371.5
+    "t": 370.84
    },
    {
     "speaker": "Tom",
     "text": "Jamais.",
-    "t": 375.93
+    "t": 375.27
    },
    {
     "speaker": "Anna",
     "text": "Ne jamais partager de données personnelles.",
-    "t": 376.9
+    "t": 376.24
    },
    {
     "speaker": "Anna",
     "text": "D'accord.",
-    "t": 379.03
+    "t": 378.37
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement — normalement, le message ne contiendra pas de lien cliquable.",
-    "t": 379.88
+    "t": 379.22
    },
    {
     "speaker": "Tom",
     "text": "Si jamais il y a un lien, soyez prudent, et vérifiez qu'il pointe vraiment vers un site officiel du gouvernement.",
-    "t": 383.65
+    "t": 382.99
    },
    {
     "speaker": "Tom",
     "text": "Et troisièmement, la vérification la plus facile de toutes — allez sur lu-alert point l-u et regardez si la même alerte y figure.",
-    "t": 389.54
+    "t": 388.88
    },
    {
     "speaker": "Tom",
     "text": "Si elle est vraie, elle sera sur le site.",
-    "t": 397.78
+    "t": 397.12
    },
    {
     "speaker": "Anna",
     "text": "Donc en cas de doute, vérifiez sur le site.",
-    "t": 399.93
+    "t": 399.27
    },
    {
     "speaker": "Anna",
     "text": "Ne cliquez pas, ne partagez pas, vérifiez simplement.",
-    "t": 402.09
+    "t": 401.43
    },
    {
     "speaker": "Tom",
     "text": "C'est la règle d'or.",
-    "t": 404.8
+    "t": 404.14
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, deux questions sur les personnes qui pourraient être laissées de côté.",
-    "t": 406.31
+    "t": 405.65
    },
    {
     "speaker": "Anna",
     "text": "D'abord — et si je n'ai pas de smartphone ?",
-    "t": 409.52
+    "t": 408.86
    },
    {
     "speaker": "Tom",
     "text": "Alors vous ne recevrez pas les messages de l'application, ni le Cell Broadcast.",
-    "t": 412.08
+    "t": 411.42
    },
    {
     "speaker": "Tom",
     "text": "Mais vous pouvez quand même recevoir un SMS géolocalisé sur un téléphone classique.",
-    "t": 416.06
+    "t": 415.4
    },
    {
     "speaker": "Tom",
     "text": "Et vous avez toujours les autres canaux — le site, les autres sites du gouvernement, la radio et la télévision.",
-    "t": 420.7
+    "t": 420.04
    },
    {
     "speaker": "Anna",
     "text": "Et une personne avec une déficience visuelle ?",
-    "t": 426.64
+    "t": 425.98
    },
    {
     "speaker": "Tom",
     "text": "La plupart des téléphones ont des paramètres d'accessibilité.",
-    "t": 428.9
+    "t": 428.24
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez faire lire le message à voix haute par le téléphone, ou agrandir le texte.",
-    "t": 432.05
+    "t": 431.39
    },
    {
     "speaker": "Tom",
     "text": "Le message peut donc être entendu, pas seulement vu.",
-    "t": 436.32
+    "t": 435.66
    },
    {
     "speaker": "Anna",
     "text": "C'est bien pensé.",
-    "t": 439.4
+    "t": 438.74
    },
    {
     "speaker": "Anna",
     "text": "Bon, Tom — rendons ça vraiment pratique.",
-    "t": 440.56
+    "t": 439.9
    },
    {
     "speaker": "Anna",
     "text": "Si j'écoute maintenant, qu'est-ce que je devrais faire aujourd'hui, pour être prête ?",
-    "t": 442.72
+    "t": 442.06
    },
    {
     "speaker": "Tom",
     "text": "Trois choses simples.",
-    "t": 446.41
+    "t": 445.75
    },
    {
     "speaker": "Tom",
     "text": "Un — téléchargez l'application LU-Alert, depuis votre magasin d'applications, et choisissez votre langue.",
-    "t": 447.89
+    "t": 447.23
    },
    {
     "speaker": "Tom",
     "text": "Deux — vérifiez que votre téléphone peut recevoir ces alertes ; vous pouvez regarder dans les paramètres de votre téléphone, sous alertes d'urgence ou alertes gouvernementales.",
-    "t": 453.47
+    "t": 452.81
    },
    {
     "speaker": "Tom",
     "text": "Et trois — retenez le site, lu-alert point l-u, et retenez la règle d'or : vérifiez là-bas, ne partagez jamais de données personnelles.",
-    "t": 462.43
+    "t": 461.77
    },
    {
     "speaker": "Anna",
     "text": "Télécharger l'application, vérifier ses paramètres, retenir le site.",
-    "t": 472
+    "t": 471.34
    },
    {
     "speaker": "Anna",
     "text": "Facile. Bon, un petit résumé pour finir ?",
-    "t": 475.6
+    "t": 474.94
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. LU-Alert est le système national d'alerte et d'information du Luxembourg, lancé à l'automne 2024.",
-    "t": 478.2
+    "t": 477.54
    },
    {
     "speaker": "Tom",
     "text": "Il vous atteint sur votre téléphone — par Cell Broadcast et SMS géolocalisé, sans inscription nécessaire — et aussi via l'application, les sites internet, les médias et, pour les alertes nucléaires, les sirènes.",
-    "t": 485.25
+    "t": 484.59
    },
    {
     "speaker": "Tom",
     "text": "Les messages arrivent en allemand, en anglais et en français, avec un niveau allant du jaune jusqu'au danger imminent, et ils vous disent ce qui s'est passé et quoi faire.",
-    "t": 498
+    "t": 497.34
    },
    {
     "speaker": "Anna",
     "text": "Et le message de sécurité ?",
-    "t": 507.22
+    "t": 506.56
    },
    {
     "speaker": "Tom",
     "text": "Les autorités ne demandent jamais de données personnelles, et il n'y a pas de publicité.",
-    "t": 508.92
+    "t": 508.26
    },
    {
     "speaker": "Tom",
     "text": "Si vous n'êtes pas sûr, vérifiez sur lu-alert point l-u.",
-    "t": 513.37
+    "t": 512.71
    },
    {
     "speaker": "Anna",
     "text": "Magnifique. Alors... une urgence, c'est rare, mais être prêt ne coûte rien.",
-    "t": 517.1
+    "t": 516.44
    },
    {
     "speaker": "Anna",
     "text": "Téléchargez l'application aujourd'hui, et vous êtes préparé.",
-    "t": 521.51
+    "t": 520.85
    },
    {
     "speaker": "Tom",
     "text": "Vraiment. Quelques minutes maintenant... une vraie tranquillité d'esprit plus tard.",
-    "t": 524.62
+    "t": 523.96
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur LU-Alert.",
-    "t": 528.97
+    "t": 528.31
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 530.99
+    "t": 530.33
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 539.01
+    "t": 538.35
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 554.88
+    "t": 554.22
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 559.53
+    "t": 558.87
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 561.31
+    "t": 560.65
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 565.69
+    "t": 565.03
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 566.92
+    "t": 566.26
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 569.38
+    "t": 568.72
    }
   ],
   "segments_de": [
@@ -21739,773 +21739,773 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und das heutige Thema handelt von etwas, das alle schützt.",
-    "t": 28.46
+    "t": 27.86
    },
    {
     "speaker": "Tom",
     "text": "Es ist das System, das die Bevölkerung warnt, wenn es einen Notfall gibt.",
-    "t": 33.17
+    "t": 32.57
    },
    {
     "speaker": "Tom",
     "text": "Es heißt LU-Alert.",
-    "t": 37.16
+    "t": 36.56
    },
    {
     "speaker": "Tom",
     "text": "Es ist das nationale Warn- und Informationssystem für die Bevölkerung.",
-    "t": 39.01
+    "t": 38.41
    },
    {
     "speaker": "Tom",
     "text": "Es wurde im Herbst 2024 eingeführt.",
-    "t": 43.16
+    "t": 42.56
    },
    {
     "speaker": "Tom",
     "text": "Es ist der moderne Ersatz für das ältere Warnsystem.",
-    "t": 46.44
+    "t": 45.84
    },
    {
     "speaker": "Anna",
     "text": "Und wofür ist es da, genau?",
-    "t": 49.56
+    "t": 48.96
    },
    {
     "speaker": "Tom",
     "text": "Das Ziel ist, Menschen zu warnen und zu informieren, die von einem gefährlichen Ereignis betroffen sein könnten.",
-    "t": 51.56
+    "t": 50.96
    },
    {
     "speaker": "Tom",
     "text": "Damit Sie sich vorbereiten können, und die richtigen Vorkehrungen treffen, um sich und Ihr Eigentum zu schützen.",
-    "t": 57.51
+    "t": 56.91
    },
    {
     "speaker": "Tom",
     "text": "Und das gilt nicht nur während des Notfalls.",
-    "t": 63.41
+    "t": 62.81
    },
    {
     "speaker": "Tom",
     "text": "Auch davor — um das aufzubauen, was man Resilienz und Prävention nennt.",
-    "t": 65.76
+    "t": 65.16
    },
    {
     "speaker": "Anna",
     "text": "Es hilft mir also, im richtigen Moment zu handeln.",
-    "t": 70.46
+    "t": 69.86
    },
    {
     "speaker": "Anna",
     "text": "Okay, die große Frage für die meisten Menschen... wie erreicht mich die Warnung eigentlich?",
-    "t": 73.26
+    "t": 72.66
    },
    {
     "speaker": "Anna",
     "text": "Auf meinem Telefon?",
-    "t": 78.56
+    "t": 77.96
    },
    {
     "speaker": "Tom",
     "text": "Ja, hauptsächlich auf Ihrem Telefon, und auf mehreren Wegen.",
-    "t": 80.09
+    "t": 79.49
    },
    {
     "speaker": "Tom",
     "text": "LU-Alert ist das, was man „Multi-Kanal\" nennt.",
-    "t": 83.83
+    "t": 83.23
    },
    {
     "speaker": "Tom",
     "text": "Das heißt, es nutzt viele verschiedene Kanäle gleichzeitig, um so viele Menschen wie möglich zu erreichen.",
-    "t": 87.34
+    "t": 86.74
    },
    {
     "speaker": "Tom",
     "text": "Einer ist Cell Broadcast.",
-    "t": 92.93
+    "t": 92.33
    },
    {
     "speaker": "Tom",
     "text": "Der andere ist die standortbasierte SMS.",
-    "t": 94.75
+    "t": 94.15
    },
    {
     "speaker": "Anna",
     "text": "Okay. Und hier ist die Frage, die alle stellen.",
-    "t": 97.74
+    "t": 97.14
    },
    {
     "speaker": "Anna",
     "text": "Muss ich mich anmelden oder registrieren, um diese zu bekommen?",
-    "t": 100.69
+    "t": 100.09
    },
    {
     "speaker": "Tom",
     "text": "Nein. Und das ist wirklich wichtig.",
-    "t": 104.25
+    "t": 103.65
    },
    {
     "speaker": "Tom",
     "text": "Für Cell Broadcast und für die standortbasierte SMS müssen Sie sich nicht anmelden.",
-    "t": 106.82
+    "t": 106.22
    },
    {
     "speaker": "Tom",
     "text": "Sie geben niemandem Ihre Nummer.",
-    "t": 112.12
+    "t": 111.52
    },
    {
     "speaker": "Tom",
     "text": "Wenn Ihr Telefon in dem Gebiet ist, wenn die Behörden eine Nachricht senden, wird Ihr Telefon automatisch erreicht.",
-    "t": 113.84
+    "t": 113.24
    },
    {
     "speaker": "Anna",
     "text": "Ich muss also nichts tun, und ich kann mich auch nicht wirklich abmelden.",
-    "t": 120.08
+    "t": 119.48
    },
    {
     "speaker": "Tom",
     "text": "Richtig. Das ist Absicht — damit alle, die in Gefahr sind, gewarnt werden.",
-    "t": 123.9
+    "t": 123.3
    },
    {
     "speaker": "Anna",
     "text": "Gut. Gibt es noch andere Kanäle?",
-    "t": 128.45
+    "t": 127.85
    },
    {
     "speaker": "Tom",
     "text": "Ja. Es gibt die mobile LU-Alert-App, die Sie kostenlos herunterladen.",
-    "t": 130.92
+    "t": 130.32
    },
    {
     "speaker": "Tom",
     "text": "Es gibt die offiziellen Websites, wie lu-alert Punkt l-u.",
-    "t": 135.74
+    "t": 135.14
    },
    {
     "speaker": "Tom",
     "text": "Es gibt die Presse — Radio, Fernsehen, ihre Websites und Apps.",
-    "t": 141.12
+    "t": 140.52
    },
    {
     "speaker": "Tom",
     "text": "Es gibt die sozialen Medien.",
-    "t": 145.76
+    "t": 145.16
    },
    {
     "speaker": "Tom",
     "text": "Und schließlich Sirenen.",
-    "t": 147.46
+    "t": 146.86
    },
    {
     "speaker": "Anna",
     "text": "Sirenen? Wie die alten Luftschutzsirenen?",
-    "t": 149.06
+    "t": 148.46
    },
    {
     "speaker": "Tom",
     "text": "Ja, aber heute werden die Sirenen nur noch in einem bestimmten Fall benutzt — bei einem Nuklearalarm.",
-    "t": 152.11
+    "t": 151.51
    },
    {
     "speaker": "Tom",
     "text": "Für alles andere sind es das Telefon und die anderen Kanäle.",
-    "t": 157.76
+    "t": 157.16
    },
    {
     "speaker": "Anna",
     "text": "Verstanden. Und die mobile App — was bringt sie zusätzlich, wenn ich schon die SMS bekomme?",
-    "t": 161.19
+    "t": 160.59
    },
    {
     "speaker": "Tom",
     "text": "Mit der App können Sie alle Warnungen und Informationen an einem Ort verfolgen, herausgegeben von den öffentlichen Behörden.",
-    "t": 167.34
+    "t": 166.74
    },
    {
     "speaker": "Tom",
     "text": "Sie laden sie kostenlos herunter, im Apple App Store oder im Google Play Store.",
-    "t": 173.94
+    "t": 173.34
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine gute Idee, sie zu installieren.",
-    "t": 178.75
+    "t": 178.15
    },
    {
     "speaker": "Anna",
     "text": "Nun eine praktische Sorge.",
-    "t": 181.33
+    "t": 180.73
    },
    {
     "speaker": "Anna",
     "text": "Viele von uns sprechen kein Luxemburgisch.",
-    "t": 183.11
+    "t": 182.51
    },
    {
     "speaker": "Anna",
     "text": "In welcher Sprache kommen diese Nachrichten an?",
-    "t": 185.45
+    "t": 184.85
    },
    {
     "speaker": "Tom",
     "text": "Gute Frage. Die Nachrichten werden in drei Sprachen gesendet — Deutsch, Englisch und Französisch.",
-    "t": 188.16
+    "t": 187.56
    },
    {
     "speaker": "Tom",
     "text": "In der App erhalten Sie die Sprache, die Sie in den Einstellungen gewählt haben.",
-    "t": 194.51
+    "t": 193.91
    },
    {
     "speaker": "Tom",
     "text": "Per standortbasierter SMS bekommen Sie alle drei Sprachen in einer Nachricht.",
-    "t": 198.44
+    "t": 197.84
    },
    {
     "speaker": "Anna",
     "text": "Das ist beruhigend.",
-    "t": 203.64
+    "t": 203.04
    },
    {
     "speaker": "Anna",
     "text": "Okay, eine Nachricht kommt also an.",
-    "t": 204.9
+    "t": 204.3
    },
    {
     "speaker": "Anna",
     "text": "Was steht drin?",
-    "t": 207.03
+    "t": 206.43
    },
    {
     "speaker": "Tom",
     "text": "Normalerweise drei Dinge.",
-    "t": 208.43
+    "t": 207.83
    },
    {
     "speaker": "Tom",
     "text": "Erstens, was passiert ist, oder was wahrscheinlich passieren wird.",
-    "t": 210.1
+    "t": 209.5
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, eine Empfehlung — wie Sie sich verhalten sollten, oder was Sie tun sollten.",
-    "t": 213.89
+    "t": 213.29
    },
    {
     "speaker": "Tom",
     "text": "Und drittens, eine Website, auf der Sie mehr Informationen finden.",
-    "t": 218.92
+    "t": 218.32
    },
    {
     "speaker": "Anna",
     "text": "Und wenn die Nachricht sehr kurz ist?",
-    "t": 222.79
+    "t": 222.19
    },
    {
     "speaker": "Tom",
     "text": "Das kann passieren, besonders bei SMS, weil es eine Zeichenbegrenzung gibt.",
-    "t": 225.16
+    "t": 224.56
    },
    {
     "speaker": "Tom",
     "text": "Wenn die Nachricht also kurz ist, lautet der Rat immer gleich — gehen Sie auf die Website, lu-alert Punkt l-u, um alle Details der Warnung zu lesen.",
-    "t": 230.07
+    "t": 229.47
    },
    {
     "speaker": "Anna",
     "text": "lu-alert.lu für die ganze Geschichte.",
-    "t": 241.21
+    "t": 240.61
    },
    {
     "speaker": "Anna",
     "text": "Nun, die Nachrichten haben auch Stufen, richtig?",
-    "t": 245.77
+    "t": 245.17
    },
    {
     "speaker": "Anna",
     "text": "Um zu zeigen, wie ernst es ist?",
-    "t": 248.65
+    "t": 248.05
    },
    {
     "speaker": "Tom",
     "text": "Ja. LU-Alert nutzt verschiedene Warnstufen.",
-    "t": 250.81
+    "t": 250.21
    },
    {
     "speaker": "Tom",
     "text": "Lass sie mich durchgehen.",
-    "t": 254.07
+    "t": 253.47
    },
    {
     "speaker": "Tom",
     "text": "Die stärkste ist „D\", für unmittelbare Gefahr — das heißt: sofort handeln.",
-    "t": 255.45
+    "t": 254.85
    },
    {
     "speaker": "Tom",
     "text": "Dann gibt es drei Aufmerksamkeitsstufen, wie die Wetterfarben.",
-    "t": 260.57
+    "t": 259.97
    },
    {
     "speaker": "Tom",
     "text": "Rot ist N1 — höchste Wachsamkeit, die höchste Stufe.",
-    "t": 264.08
+    "t": 263.48
    },
    {
     "speaker": "Tom",
     "text": "Orange ist N2 — Vorsicht, mittleres Risiko.",
-    "t": 267.9
+    "t": 267.3
    },
    {
     "speaker": "Tom",
     "text": "Gelb ist N3 — aufmerksam sein, geringes Risiko.",
-    "t": 271.53
+    "t": 270.93
    },
    {
     "speaker": "Anna",
     "text": "Also Rot, Orange, Gelb — fast wie eine Ampel.",
-    "t": 275.05
+    "t": 274.45
    },
    {
     "speaker": "Tom",
     "text": "Genau, so kann man es sich leicht merken.",
-    "t": 279
+    "t": 278.4
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt noch drei weitere.",
-    "t": 281.81
+    "t": 281.21
    },
    {
     "speaker": "Tom",
     "text": "„A\" steht für eine vermisste Person oder einen Entführungsalarm.",
-    "t": 283.46
+    "t": 282.86
    },
    {
     "speaker": "Tom",
     "text": "„I\" ist nur Information — keine Gefahr.",
-    "t": 287.4
+    "t": 286.8
    },
    {
     "speaker": "Tom",
     "text": "Und „T\" ist eine Testnachricht.",
-    "t": 290.09
+    "t": 289.49
    },
    {
     "speaker": "Anna",
     "text": "Ah, der Test.",
-    "t": 292.31
+    "t": 291.71
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich also eine Nachricht bekomme, die sagt, dass es ein Test ist...",
-    "t": 293.73
+    "t": 293.13
    },
    {
     "speaker": "Tom",
     "text": "...dann müssen Sie nichts tun.",
-    "t": 297.51
+    "t": 296.91
    },
    {
     "speaker": "Tom",
     "text": "Die Nachricht sagt klar, dass es ein Test ist.",
-    "t": 298.99
+    "t": 298.39
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg testet das System jeden Monat — und die Sirenen werden am ersten Montag im Monat gegen Mittag getestet.",
-    "t": 301.48
+    "t": 300.88
    },
    {
     "speaker": "Tom",
     "text": "Das ist normal, keine Sorge.",
-    "t": 307.98
+    "t": 307.38
    },
    {
     "speaker": "Anna",
     "text": "Sehr gut zu wissen.",
-    "t": 309.99
+    "t": 309.39
    },
    {
     "speaker": "Anna",
     "text": "So gerät an einem Testtag niemand in Panik.",
-    "t": 311.25
+    "t": 310.65
    },
    {
     "speaker": "Anna",
     "text": "Nun — welche Art von Ereignissen kann eine Warnung auslösen?",
-    "t": 313.97
+    "t": 313.37
    },
    {
     "speaker": "Tom",
     "text": "Eine ziemlich große Bandbreite.",
-    "t": 318.18
+    "t": 317.58
    },
    {
     "speaker": "Tom",
     "text": "Das System hat zwölf Ereigniskategorien.",
-    "t": 320.29
+    "t": 319.69
    },
    {
     "speaker": "Tom",
     "text": "Dinge wie Wetter — Stürme, Starkregen, Schnee, Kälte, Hitze.",
-    "t": 322.98
+    "t": 322.38
    },
    {
     "speaker": "Tom",
     "text": "Die Umwelt — zum Beispiel Hochwasser, oder Luftverschmutzung.",
-    "t": 327.88
+    "t": 327.28
    },
    {
     "speaker": "Tom",
     "text": "Gesundheit — wie ein Lebensmittelrückruf oder eine Allergenwarnung.",
-    "t": 331.73
+    "t": 331.13
    },
    {
     "speaker": "Tom",
     "text": "Und dann Feuer, Rettung, Sicherheit, Schutz, Verkehrsprobleme, ausfallende Infrastruktur, und ein paar mehr.",
-    "t": 336.08
+    "t": 335.48
    },
    {
     "speaker": "Anna",
     "text": "Also von einem großen Sturm, über ein Hochwasser, bis zu einem Lebensmittelrückruf.",
-    "t": 344.39
+    "t": 343.79
    },
    {
     "speaker": "Tom",
     "text": "Genau. Eine große Bandbreite, alles in einem System.",
-    "t": 349.53
+    "t": 348.93
    },
    {
     "speaker": "Tom",
     "text": "Und diese Kategorien folgen einem internationalen Standard, damit sie auch zu anderen Ländern passen.",
-    "t": 353.08
+    "t": 352.48
    },
    {
     "speaker": "Anna",
     "text": "Und wer sendet diese Nachrichten eigentlich?",
-    "t": 358.37
+    "t": 357.77
    },
    {
     "speaker": "Anna",
     "text": "Wer entscheidet?",
-    "t": 360.69
+    "t": 360.09
    },
    {
     "speaker": "Tom",
     "text": "Nur öffentliche Behörden.",
-    "t": 362.03
+    "t": 361.43
    },
    {
     "speaker": "Tom",
     "text": "Mehrere von ihnen sind an das System angeschlossen.",
-    "t": 363.52
+    "t": 362.92
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel — die Polizei, das Feuerwehr- und Rettungskorps, also der CGDIS, der Wetterdienst MeteoLux, das Wasserwirtschaftsamt, die Lebensmittelbehörde, und das Hochkommissariat für nationalen Schutz.",
-    "t": 366.39
+    "t": 365.79
    },
    {
     "speaker": "Anna",
     "text": "Es ist also immer eine offizielle Quelle.",
-    "t": 380.7
+    "t": 380.1
    },
    {
     "speaker": "Anna",
     "text": "Nie ein privates Unternehmen.",
-    "t": 383.18
+    "t": 382.58
    },
    {
     "speaker": "Tom",
     "text": "Niemals. Und noch etwas — es gibt keine Werbung auf LU-Alert.",
-    "t": 385.23
+    "t": 384.63
    },
    {
     "speaker": "Tom",
     "text": "Es wird nur von öffentlichen Behörden genutzt, nur zur Warnung und Information.",
-    "t": 390.04
+    "t": 389.44
    },
    {
     "speaker": "Tom",
     "text": "Nie für Werbung.",
-    "t": 394.68
+    "t": 394.08
    },
    {
     "speaker": "Anna",
     "text": "Das ist der perfekte Übergang zu meiner nächsten Sorge.",
-    "t": 395.91
+    "t": 395.31
    },
    {
     "speaker": "Anna",
     "text": "Betrug. Woher weiß ich, dass eine Nachricht echt ist, und kein Phishing?",
-    "t": 399.06
+    "t": 398.46
    },
    {
     "speaker": "Tom",
     "text": "Sehr wichtiges Thema.",
-    "t": 403.91
+    "t": 403.31
    },
    {
     "speaker": "Tom",
     "text": "Wie jede Nachricht könnte auch eine Warnung von Kriminellen nachgeahmt werden.",
-    "t": 405.36
+    "t": 404.76
    },
    {
     "speaker": "Tom",
     "text": "Also, ein paar einfache Prüfungen.",
-    "t": 409.23
+    "t": 408.63
    },
    {
     "speaker": "Tom",
     "text": "Erstens — die öffentlichen Behörden werden Sie niemals nach persönlichen Daten fragen.",
-    "t": 411.38
+    "t": 410.78
    },
    {
     "speaker": "Tom",
     "text": "Niemals.",
-    "t": 416.12
+    "t": 415.52
    },
    {
     "speaker": "Anna",
     "text": "Niemals persönliche Daten weitergeben.",
-    "t": 417.19
+    "t": 416.59
    },
    {
     "speaker": "Anna",
     "text": "Okay.",
-    "t": 419.53
+    "t": 418.93
    },
    {
     "speaker": "Tom",
     "text": "Zweitens — normalerweise enthält die Nachricht keinen anklickbaren Link.",
-    "t": 420.36
+    "t": 419.76
    },
    {
     "speaker": "Tom",
     "text": "Falls doch ein Link darin ist, seien Sie vorsichtig, und prüfen Sie, ob er wirklich auf eine offizielle Regierungswebsite führt.",
-    "t": 424.98
+    "t": 424.38
    },
    {
     "speaker": "Tom",
     "text": "Und drittens, die einfachste Prüfung von allen — gehen Sie auf lu-alert Punkt l-u und schauen Sie, ob dieselbe Warnung dort aufgeführt ist.",
-    "t": 432.03
+    "t": 431.43
    },
    {
     "speaker": "Tom",
     "text": "Wenn sie echt ist, steht sie auf der Website.",
-    "t": 443
+    "t": 442.4
    },
    {
     "speaker": "Anna",
     "text": "Im Zweifel also die Website prüfen.",
-    "t": 445.65
+    "t": 445.05
    },
    {
     "speaker": "Anna",
     "text": "Nicht klicken, nichts weitergeben, einfach überprüfen.",
-    "t": 447.88
+    "t": 447.28
    },
    {
     "speaker": "Tom",
     "text": "Das ist die goldene Regel.",
-    "t": 451.3
+    "t": 450.7
    },
    {
     "speaker": "Anna",
     "text": "Nun zwei Fragen zu Menschen, die vielleicht außen vor bleiben.",
-    "t": 453.03
+    "t": 452.43
    },
    {
     "speaker": "Anna",
     "text": "Erstens — was ist, wenn ich kein Smartphone habe?",
-    "t": 456.27
+    "t": 455.67
    },
    {
     "speaker": "Tom",
     "text": "Dann bekommen Sie die App-Nachrichten nicht, und auch kein Cell Broadcast.",
-    "t": 459.58
+    "t": 458.98
    },
    {
     "speaker": "Tom",
     "text": "Aber Sie können trotzdem eine standortbasierte SMS auf einem normalen Telefon empfangen.",
-    "t": 463.71
+    "t": 463.11
    },
    {
     "speaker": "Tom",
     "text": "Und Sie haben immer die anderen Kanäle — die Website, andere Regierungswebsites, Radio und Fernsehen.",
-    "t": 469.09
+    "t": 468.49
    },
    {
     "speaker": "Anna",
     "text": "Und jemand mit einer Sehbehinderung?",
-    "t": 475.67
+    "t": 475.07
    },
    {
     "speaker": "Tom",
     "text": "Die meisten Telefone haben Einstellungen zur Barrierefreiheit.",
-    "t": 477.95
+    "t": 477.35
    },
    {
     "speaker": "Tom",
     "text": "Sie können das Telefon die Nachricht laut vorlesen lassen, oder den Text größer machen.",
-    "t": 481.55
+    "t": 480.95
    },
    {
     "speaker": "Tom",
     "text": "Die Nachricht kann also gehört werden, nicht nur gesehen.",
-    "t": 486.31
+    "t": 485.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist gut durchdacht.",
-    "t": 489.42
+    "t": 488.82
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom — machen wir es ganz praktisch.",
-    "t": 490.84
+    "t": 490.24
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich jetzt zuhöre, was sollte ich heute tun, um bereit zu sein?",
-    "t": 493.41
+    "t": 492.81
    },
    {
     "speaker": "Tom",
     "text": "Drei einfache Dinge.",
-    "t": 497.48
+    "t": 496.88
    },
    {
     "speaker": "Tom",
     "text": "Eins — laden Sie die LU-Alert-App herunter, aus Ihrem App-Store, und wählen Sie Ihre Sprache.",
-    "t": 498.78
+    "t": 498.18
    },
    {
     "speaker": "Tom",
     "text": "Zwei — prüfen Sie, ob Ihr Telefon diese Warnungen empfangen kann; schauen Sie in Ihren Telefoneinstellungen nach, unter Notfall- oder Behördenwarnungen.",
-    "t": 505.06
+    "t": 504.46
    },
    {
     "speaker": "Tom",
     "text": "Und drei — merken Sie sich die Website, lu-alert Punkt l-u, und merken Sie sich die goldene Regel: Dort überprüfen, niemals persönliche Daten weitergeben.",
-    "t": 514.09
+    "t": 513.49
    },
    {
     "speaker": "Anna",
     "text": "Die App herunterladen, die Einstellungen prüfen, die Website merken.",
-    "t": 526.38
+    "t": 525.78
    },
    {
     "speaker": "Anna",
     "text": "Einfach. Okay, eine kurze Zusammenfassung zum Schluss?",
-    "t": 530.3
+    "t": 529.7
    },
    {
     "speaker": "Tom",
     "text": "Klar. LU-Alert ist Luxemburgs nationales Warn- und Informationssystem, gestartet im Herbst 2024.",
-    "t": 534.32
+    "t": 533.72
    },
    {
     "speaker": "Tom",
     "text": "Es erreicht Sie auf Ihrem Telefon — per Cell Broadcast und standortbasierter SMS, ohne Anmeldung — und auch über die App, Websites, die Medien und, bei Nuklearalarm, Sirenen.",
-    "t": 542.56
+    "t": 541.96
    },
    {
     "speaker": "Tom",
     "text": "Die Nachrichten kommen auf Deutsch, Englisch und Französisch, mit einer Stufe von Gelb bis zur unmittelbaren Gefahr, und sie sagen Ihnen, was passiert ist und was zu tun ist.",
-    "t": 555.45
+    "t": 554.85
    },
    {
     "speaker": "Anna",
     "text": "Und die Sicherheitsbotschaft?",
-    "t": 566.42
+    "t": 565.82
    },
    {
     "speaker": "Tom",
     "text": "Die Behörden fragen nie nach persönlichen Daten, und es gibt keine Werbung.",
-    "t": 568.21
+    "t": 567.61
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie nicht sicher sind, prüfen Sie lu-alert Punkt l-u.",
-    "t": 572.23
+    "t": 571.63
    },
    {
     "speaker": "Anna",
     "text": "Wunderbar. Also... ein Notfall ist selten, aber bereit zu sein kostet nichts.",
-    "t": 577.33
+    "t": 576.73
    },
    {
     "speaker": "Anna",
     "text": "Laden Sie die App noch heute herunter, und Sie sind vorbereitet.",
-    "t": 583.43
+    "t": 582.83
    },
    {
     "speaker": "Tom",
     "text": "Wirklich. Ein paar Minuten jetzt... und später sind Sie ganz beruhigt.",
-    "t": 587.05
+    "t": 586.45
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über LU-Alert.",
-    "t": 592
+    "t": 591.4
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 594.5
+    "t": 593.9
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 603.2
+    "t": 602.6
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 621.05
+    "t": 620.45
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 626.75
+    "t": 626.15
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 629
+    "t": 628.4
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 633.89
+    "t": 633.29
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 635.04
+    "t": 634.44
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 638.25
+    "t": 637.65
    }
   ],
   "segments_lb": [
@@ -22806,7 +22806,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_lualert_fr.mp3",
-  "duration_fr": 571.14,
+  "duration_fr": 570.49,
   "title_fr": "LU-Alert – Comment le Luxembourg vous alerte en cas d'urgence",
   "description_fr": "Le système national d'alerte et d'information de la population du Luxembourg, lancé à l'automne 2024. Ce qu'est LU-Alert et comment les alertes arrivent sur votre téléphone via Cell Broadcast, SMS géolocalisé et l'application gratuite — sans aucune inscription nécessaire. Les niveaux d'alerte et leurs couleurs, les douze catégories d'alerte, les langues utilisées, et une compétence simple mais vitale : comment distinguer une vraie alerte officielle d'une tentative de phishing.",
   "topics_fr": [
@@ -22877,7 +22877,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_lualert_de.mp3",
-  "duration_de": 639.79,
+  "duration_de": 639.19,
   "title_de": "LU-Alert – Wie Luxemburg Sie im Notfall warnt",
   "description_de": "Luxemburgs nationales Warn- und Informationssystem für die Bevölkerung, gestartet im Herbst 2024. Was LU-Alert ist und wie Warnungen Ihr Telefon erreichen — per Cell Broadcast, standortbasierter SMS und der kostenlosen App, ganz ohne Anmeldung. Die Warnstufen und Farben, die zwölf Warnkategorien, die verwendeten Sprachen, und eine einfache, aber wichtige Fähigkeit: wie man eine echte offizielle Warnung von einem Phishing-Betrug unterscheidet.",
   "topics_de": [
@@ -23981,843 +23981,843 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et aujourd'hui, nous parlons d'un endroit qui vous aide face à l'une des grandes questions de la vie — qu'est-ce que je devrais étudier, ou quel métier devrais-je faire ?",
-    "t": 23.73
+    "t": 23.07
    },
    {
     "speaker": "Tom",
     "text": "Cet endroit s'appelle la Maison de l'orientation.",
-    "t": 31.91
+    "t": 31.25
    },
    {
     "speaker": "Anna",
     "text": "La Maison de l'orientation.",
-    "t": 34.68
+    "t": 34.02
    },
    {
     "speaker": "Anna",
     "text": "Expliquons d'abord ce nom, Tom.",
-    "t": 36.23
+    "t": 35.57
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce qu'il veut dire ?",
-    "t": 38.01
+    "t": 37.35
    },
    {
     "speaker": "Tom",
     "text": "Alors, « maison », c'est une maison.",
-    "t": 39.33
+    "t": 38.67
    },
    {
     "speaker": "Tom",
     "text": "Et « orientation », ici, ça veut dire être guidé — trouver sa direction, à l'école et dans le travail.",
-    "t": 41.65
+    "t": 40.99
    },
    {
     "speaker": "Tom",
     "text": "On pourrait donc l'appeler « la maison qui guide ».",
-    "t": 47.24
+    "t": 46.58
    },
    {
     "speaker": "Tom",
     "text": "Une maison où l'on va pour se faire aider à choisir sa voie.",
-    "t": 49.75
+    "t": 49.09
    },
    {
     "speaker": "Anna",
     "text": "J'aime bien ça.",
-    "t": 52.94
+    "t": 52.28
    },
    {
     "speaker": "Anna",
     "text": "Une maison qui guide.",
-    "t": 54.09
+    "t": 53.43
    },
    {
     "speaker": "Anna",
     "text": "Alors, qu'est-ce que c'est exactement ?",
-    "t": 55.29
+    "t": 54.63
    },
    {
     "speaker": "Tom",
     "text": "C'est une administration de l'État — un service public officiel.",
-    "t": 56.91
+    "t": 56.25
    },
    {
     "speaker": "Tom",
     "text": "Et son idée particulière, la voici : elle rassemble, en un seul endroit, de nombreux services publics qui s'occupent tous de l'orientation scolaire et professionnelle.",
-    "t": 60.38
+    "t": 59.72
    },
    {
     "speaker": "Anna",
     "text": "Ah, donc au lieu de courir vers dix bureaux différents...",
-    "t": 69.17
+    "t": 68.51
    },
    {
     "speaker": "Tom",
     "text": "...vous allez à une seule adresse, et vous les trouvez tous sous le même toit.",
-    "t": 71.98
+    "t": 71.32
    },
    {
     "speaker": "Tom",
     "text": "C'est vraiment toute l'idée.",
-    "t": 75.46
+    "t": 74.8
    },
    {
     "speaker": "Tom",
     "text": "Un seul endroit, plein d'experts.",
-    "t": 76.99
+    "t": 76.33
    },
    {
     "speaker": "Anna",
     "text": "Et c'est pour qui ?",
-    "t": 79.03
+    "t": 78.37
    },
    {
     "speaker": "Anna",
     "text": "Seulement pour les élèves ?",
-    "t": 80.08
+    "t": 79.42
    },
    {
     "speaker": "Tom",
     "text": "Pas seulement. C'est pour tout citoyen qui cherche des conseils sur son parcours scolaire ou sur sa carrière.",
-    "t": 81.54
+    "t": 80.88
    },
    {
     "speaker": "Tom",
     "text": "Le but, c'est de vous aider à identifier vos capacités, vos compétences et vos intérêts — et ensuite à prendre de bonnes décisions, bien informées, sur vos études, votre formation et vos projets de travail.",
-    "t": 86.77
+    "t": 86.11
    },
    {
     "speaker": "Anna",
     "text": "Donc il s'agit d'abord de se comprendre soi-même, et ensuite de choisir.",
-    "t": 98.47
+    "t": 97.81
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Savoir ce dans quoi on est bon, savoir ce qu'on aime, et ensuite choisir avec confiance.",
-    "t": 101.93
+    "t": 101.27
    },
    {
     "speaker": "Anna",
     "text": "D'accord. Soyons concrets.",
-    "t": 107.82
+    "t": 107.16
    },
    {
     "speaker": "Anna",
     "text": "Si je pousse simplement la porte, qu'est-ce que je trouve ?",
-    "t": 110.15
+    "t": 109.49
    },
    {
     "speaker": "Tom",
     "text": "Le cœur de la maison, c'est l'« Espace orientation » — l'espace qui guide.",
-    "t": 112.68
+    "t": 112.02
    },
    {
     "speaker": "Tom",
     "text": "C'est un espace d'accueil où vous pouvez venir avec vos questions sur l'école ou sur la formation professionnelle.",
-    "t": 116.78
+    "t": 116.12
    },
    {
     "speaker": "Anna",
     "text": "Et y a-t-il un âge pour cette partie-là ?",
-    "t": 122.36
+    "t": 121.7
    },
    {
     "speaker": "Tom",
     "text": "L'espace orientation accueille surtout les personnes âgées de 14 à 22 ans.",
-    "t": 124.39
+    "t": 123.73
    },
    {
     "speaker": "Tom",
     "text": "Donc — les adolescents et les jeunes adultes.",
-    "t": 128.57
+    "t": 127.91
    },
    {
     "speaker": "Tom",
     "text": "Mais, comme nous allons le voir, la maison a aussi des services pour les adultes.",
-    "t": 131
+    "t": 130.34
    },
    {
     "speaker": "Anna",
     "text": "Bien. Et est-ce que j'ai besoin d'un rendez-vous pour utiliser cet espace orientation ?",
-    "t": 134.91
+    "t": 134.25
    },
    {
     "speaker": "Tom",
     "text": "Non, ce n'est pas obligatoire.",
-    "t": 138.99
+    "t": 138.33
    },
    {
     "speaker": "Tom",
     "text": "Et c'est une belle chose — vous pouvez tout simplement entrer, sans rendez-vous, et recevoir des conseils gratuits et anonymes.",
-    "t": 140.67
+    "t": 140.01
    },
    {
     "speaker": "Anna",
     "text": "Gratuits et anonymes.",
-    "t": 147.06
+    "t": 146.4
    },
    {
     "speaker": "Anna",
     "text": "Donc personne ne note mon nom, et ça ne coûte rien.",
-    "t": 148.39
+    "t": 147.73
    },
    {
     "speaker": "Tom",
     "text": "Rien du tout.",
-    "t": 150.77
+    "t": 150.11
    },
    {
     "speaker": "Tom",
     "text": "La seule chose — si vous entrez sans rendez-vous, vous devrez peut-être attendre un peu, parce que les personnes qui ont un rendez-vous passent en premier.",
-    "t": 151.78
+    "t": 151.12
    },
    {
     "speaker": "Anna",
     "text": "C'est logique. Donc je peux réserver, pour éviter l'attente ?",
-    "t": 158.72
+    "t": 158.06
    },
    {
     "speaker": "Tom",
     "text": "Oui. Vous pouvez prendre un rendez-vous, et ça se fait en ligne — par MyGuichet.lu.",
-    "t": 161.61
+    "t": 160.95
    },
    {
     "speaker": "Anna",
     "text": "Encore MyGuichet ! Nous lui avons consacré tout un épisode.",
-    "t": 165.88
+    "t": 165.22
    },
    {
     "speaker": "Tom",
     "text": "*(rires)* Oui, ça revient sans cesse, parce que c'est la porte d'entrée vers tant de services.",
-    "t": 169.49
+    "t": 168.83
    },
    {
     "speaker": "Tom",
     "text": "Sur MyGuichet, vous choisissez le format qui vous convient — un rendez-vous en ligne, par vidéo, ou un rendez-vous en personne, à la Maison de l'orientation.",
-    "t": 173.29
+    "t": 172.63
    },
    {
     "speaker": "Tom",
     "text": "Et vous pouvez réserver avec ou sans connexion.",
-    "t": 181.19
+    "t": 180.53
    },
    {
     "speaker": "Anna",
     "text": "Très souple. Et où se trouve la maison, exactement ?",
-    "t": 183.96
+    "t": 183.3
    },
    {
     "speaker": "Tom",
     "text": "Elle est à Luxembourg-Ville — au 29, rue Aldringen.",
-    "t": 186.69
+    "t": 186.03
    },
    {
     "speaker": "Tom",
     "text": "L'espace orientation est ouvert du lundi au vendredi, de 8 heures du matin à 5 heures de l'après-midi.",
-    "t": 190.2
+    "t": 189.54
    },
    {
     "speaker": "Tom",
     "text": "Et il y a une ligne téléphonique gratuite — 8002, 8181 — et une adresse e-mail, info arobase m-o point l-u.",
-    "t": 195.72
+    "t": 195.06
    },
    {
     "speaker": "Anna",
     "text": "Bien. Maintenant, tu as dit qu'on y donne des conseils.",
-    "t": 205.95
+    "t": 205.29
    },
    {
     "speaker": "Anna",
     "text": "Sur quels sujets, concrètement ?",
-    "t": 208.69
+    "t": 208.03
    },
    {
     "speaker": "Tom",
     "text": "Deux grandes familles de sujets.",
-    "t": 210.5
+    "t": 209.84
    },
    {
     "speaker": "Tom",
     "text": "La première, c'est votre parcours scolaire.",
-    "t": 212.24
+    "t": 211.58
    },
    {
     "speaker": "Tom",
     "text": "Donc — des conseils sur l'enseignement secondaire, sur ce que proposent les différents lycées, sur le choix des sections, ou sur comment réintégrer un lycée.",
-    "t": 214.3
+    "t": 213.64
    },
    {
     "speaker": "Tom",
     "text": "La deuxième, c'est la formation et les métiers.",
-    "t": 222.2
+    "t": 221.54
    },
    {
     "speaker": "Tom",
     "text": "Donc — des informations sur les emplois et les professions, sur les premières expériences de travail, sur les cours, et sur l'apprentissage.",
-    "t": 224.51
+    "t": 223.85
    },
    {
     "speaker": "Anna",
     "text": "Donc de « quelle section scolaire devrais-je choisir » à « comment je commence un apprentissage ».",
-    "t": 231.45
+    "t": 230.79
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Tout le chemin, de l'école jusqu'au monde du travail.",
-    "t": 235.91
+    "t": 235.25
    },
    {
     "speaker": "Anna",
     "text": "Tu as mentionné une séance particulière — du coaching ?",
-    "t": 239.74
+    "t": 239.08
    },
    {
     "speaker": "Tom",
     "text": "Oui. Ils proposent une séance de coaching d'orientation, avec un test des intérêts.",
-    "t": 242.56
+    "t": 241.9
    },
    {
     "speaker": "Tom",
     "text": "Le test vous aide à découvrir ce qui vous motive vraiment, quel genre d'activités vous convient.",
-    "t": 246.44
+    "t": 245.78
    },
    {
     "speaker": "Tom",
     "text": "Celui-ci est pour les élèves, c'est volontaire, et là, il faut un rendez-vous.",
-    "t": 251.4
+    "t": 250.74
    },
    {
     "speaker": "Anna",
     "text": "Un test des intérêts — ça a l'air vraiment utile quand on n'a aucune idée de ce qu'on veut faire.",
-    "t": 255.55
+    "t": 254.89
    },
    {
     "speaker": "Tom",
     "text": "Ça aide beaucoup.",
-    "t": 260.16
+    "t": 259.5
    },
    {
     "speaker": "Tom",
     "text": "Beaucoup de jeunes ne savent pas par où commencer, et un test comme celui-ci donne une première direction à explorer.",
-    "t": 261.31
+    "t": 260.65
    },
    {
     "speaker": "Anna",
     "text": "D'accord, Tom. Tu as dit que de nombreux services sont sous le même toit.",
-    "t": 267.11
+    "t": 266.45
    },
    {
     "speaker": "Anna",
     "text": "Peux-tu nous dire lesquels ?",
-    "t": 270.26
+    "t": 269.6
    },
    {
     "speaker": "Tom",
     "text": "Oui, et c'est la force de la maison.",
-    "t": 271.73
+    "t": 271.07
    },
    {
     "speaker": "Tom",
     "text": "Plusieurs services publics y sont installés, et vous pouvez prendre rendez-vous avec eux toute l'année — même pendant les vacances scolaires — du lundi au vendredi.",
-    "t": 273.6
+    "t": 272.94
    },
    {
     "speaker": "Tom",
     "text": "Laisse-moi citer les principaux.",
-    "t": 281.52
+    "t": 280.86
    },
    {
     "speaker": "Anna",
     "text": "Je t'en prie.",
-    "t": 283.27
+    "t": 282.61
    },
    {
     "speaker": "Tom",
     "text": "D'abord, le CePAS — le centre psycho-social et d'accompagnement scolaires.",
-    "t": 284.47
+    "t": 283.81
    },
    {
     "speaker": "Tom",
     "text": "Ils aident les élèves qui ont des difficultés personnelles, sociales ou scolaires.",
-    "t": 288.7
+    "t": 288.04
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement, le SIA — le service de l'intégration et de l'accueil scolaires.",
-    "t": 292.95
+    "t": 292.29
    },
    {
     "speaker": "Tom",
     "text": "Celui-ci est très important pour les nouveaux arrivants : il aide les élèves étrangers à trouver leur place dans le système scolaire luxembourgeois.",
-    "t": 297.47
+    "t": 296.81
    },
    {
     "speaker": "Anna",
     "text": "C'est directement utile pour les familles qui arrivent de l'étranger.",
-    "t": 304.85
+    "t": 304.19
    },
    {
     "speaker": "Tom",
     "text": "Tout à fait.",
-    "t": 308.12
+    "t": 307.46
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, troisièmement — le service d'orientation professionnelle de l'ADEM, et le placement en apprentissage.",
-    "t": 309.01
+    "t": 308.35
    },
    {
     "speaker": "Tom",
     "text": "L'ADEM, c'est l'agence pour l'emploi, et là, ils aident pour l'orientation professionnelle et pour trouver un apprentissage.",
-    "t": 314.36
+    "t": 313.7
    },
    {
     "speaker": "Tom",
     "text": "Quatrièmement — l'ATVA, l'agence pour la transition vers une vie autonome.",
-    "t": 320.52
+    "t": 319.86
    },
    {
     "speaker": "Tom",
     "text": "Ils accompagnent les jeunes ayant des besoins spécifiques, vers l'autonomie.",
-    "t": 325.04
+    "t": 324.38
    },
    {
     "speaker": "Anna",
     "text": "Donc il y a même quelque chose pour les personnes qui ont besoin d'un soutien supplémentaire.",
-    "t": 329.26
+    "t": 328.6
    },
    {
     "speaker": "Tom",
     "text": "Oui. Et puis, cinquièmement — Euroguidance.",
-    "t": 333.29
+    "t": 332.63
    },
    {
     "speaker": "Tom",
     "text": "C'est un réseau européen, pour celles et ceux qui rêvent d'étudier ou de travailler à l'étranger.",
-    "t": 335.96
+    "t": 335.3
    },
    {
     "speaker": "Tom",
     "text": "Et enfin — l'orientation pour les adultes.",
-    "t": 340.77
+    "t": 340.11
    },
    {
     "speaker": "Tom",
     "text": "Parce que, comme je l'ai promis, ce n'est pas seulement pour les jeunes.",
-    "t": 343.01
+    "t": 342.35
    },
    {
     "speaker": "Anna",
     "text": "Restons là-dessus — les adultes.",
-    "t": 346.32
+    "t": 345.66
    },
    {
     "speaker": "Anna",
     "text": "Parce que beaucoup de nos auditeurs sont des grandes personnes, qui pensent peut-être à changer de métier.",
-    "t": 348.63
+    "t": 347.97
    },
    {
     "speaker": "Tom",
     "text": "Voilà. Donc la Maison de l'orientation aide aussi à changer de parcours professionnel.",
-    "t": 353.13
+    "t": 352.47
    },
    {
     "speaker": "Tom",
     "text": "Si vous voulez vous réorienter, ou retrouver un emploi, ils peuvent vous guider.",
-    "t": 357.48
+    "t": 356.82
    },
    {
     "speaker": "Tom",
     "text": "Si vous voulez reprendre des études, ou suivre une formation, ils vous aident.",
-    "t": 361.34
+    "t": 360.68
    },
    {
     "speaker": "Tom",
     "text": "Et si vous êtes arrivé d'un autre pays, ils vous aident sur deux points essentiels — faire reconnaître vos diplômes, et faire valider l'expérience que vous avez déjà.",
-    "t": 365.43
+    "t": 364.77
    },
    {
     "speaker": "Anna",
     "text": "Ce dernier point est tellement important pour les nouveaux arrivants.",
-    "t": 373.34
+    "t": 372.68
    },
    {
     "speaker": "Anna",
     "text": "On peut avoir des années d'expérience de son pays d'origine.",
-    "t": 376.29
+    "t": 375.63
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et il existe une démarche officielle pour transformer cette expérience en une qualification reconnue ici.",
-    "t": 379.17
+    "t": 378.51
    },
    {
     "speaker": "Tom",
     "text": "La maison peut vous orienter vers elle.",
-    "t": 385.95
+    "t": 385.29
    },
    {
     "speaker": "Anna",
     "text": "C'est magnifique. Donc, vraiment, ça couvre toute la vie — un adolescent qui choisit une section scolaire, un jeune adulte qui cherche un apprentissage, et un adulte qui change de carrière ou qui arrive de l'étranger.",
-    "t": 388.17
+    "t": 387.51
    },
    {
     "speaker": "Tom",
     "text": "C'est l'idée. De l'orientation, pour chaque étape.",
-    "t": 398.31
+    "t": 397.65
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, Tom — il y a aussi un site internet, n'est-ce pas ?",
-    "t": 401.29
+    "t": 400.63
    },
    {
     "speaker": "Anna",
     "text": "Pour les gens qui veulent d'abord regarder, depuis chez eux.",
-    "t": 404.08
+    "t": 403.42
    },
    {
     "speaker": "Tom",
     "text": "Oui, et c'est une vraie ressource à lui tout seul.",
-    "t": 406.77
+    "t": 406.11
    },
    {
     "speaker": "Tom",
     "text": "Le site, c'est maison-orientation, tout en un seul mot, point public point l-u.",
-    "t": 409.47
+    "t": 408.81
    },
    {
     "speaker": "Tom",
     "text": "Et il est organisé autour de quelques grands thèmes.",
-    "t": 414.21
+    "t": 413.55
    },
    {
     "speaker": "Tom",
     "text": "Laisse-moi te les présenter.",
-    "t": 416.73
+    "t": 416.07
    },
    {
     "speaker": "Anna",
     "text": "Vas-y.",
-    "t": 418.37
+    "t": 417.71
    },
    {
     "speaker": "Tom",
     "text": "Le premier thème, c'est « Mes études ».",
-    "t": 419.26
+    "t": 418.6
    },
    {
     "speaker": "Tom",
     "text": "Là, vous trouvez des informations sur l'école fondamentale et secondaire, et une chose très pratique — le calendrier des journées portes ouvertes des lycées et des universités.",
-    "t": 421.4
+    "t": 420.74
    },
    {
     "speaker": "Anna",
     "text": "Ah, les journées portes ouvertes — quand on peut visiter une école et la voir par soi-même.",
-    "t": 430.77
+    "t": 430.11
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Vous y allez, vous regardez autour de vous, vous posez des questions, vous vous faites une idée de l'endroit.",
-    "t": 435.32
+    "t": 434.66
    },
    {
     "speaker": "Tom",
     "text": "Et il y a aussi une partie qui s'appelle « Que faire après le bac ?",
-    "t": 441.1
+    "t": 440.44
    },
    {
     "speaker": "Tom",
     "text": "» — le bac étant le diplôme de fin du secondaire.",
-    "t": 444.46
+    "t": 443.8
    },
    {
     "speaker": "Tom",
     "text": "Donc, ce qui vient ensuite — l'université, un brevet de technicien supérieur, et ainsi de suite.",
-    "t": 446.95
+    "t": 446.29
    },
    {
     "speaker": "Anna",
     "text": "Utile. Quel est le deuxième thème ?",
-    "t": 452.69
+    "t": 452.03
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième, c'est « Le monde du travail ».",
-    "t": 454.82
+    "t": 454.16
    },
    {
     "speaker": "Tom",
     "text": "C'est pour découvrir les emplois et les métiers, et faire vos premiers pas dans la vie active.",
-    "t": 457.11
+    "t": 456.45
    },
    {
     "speaker": "Tom",
     "text": "Il y a une partie spéciale pour les jeunes — sur les stages, les jobs de vacances, les jobs étudiants, et même des choses comme une année de césure ou le « work and travel ».",
-    "t": 461.86
+    "t": 461.2
    },
    {
     "speaker": "Anna",
     "text": "Oh, donc pour un adolescent qui veut un job d'été, ou une première expérience...",
-    "t": 470.86
+    "t": 470.2
    },
    {
     "speaker": "Tom",
     "text": "...il y a des informations faites juste pour eux.",
-    "t": 475.13
+    "t": 474.47
    },
    {
     "speaker": "Tom",
     "text": "Ils ont même une série de brochures, qui s'appelle BOOST, avec exactement ce genre de conseils.",
-    "t": 477.54
+    "t": 476.88
    },
    {
     "speaker": "Tom",
     "text": "Et ce thème couvre aussi l'apprentissage, et le chemin « vers l'emploi » — donc, chercher un travail.",
-    "t": 482.75
+    "t": 482.09
    },
    {
     "speaker": "Anna",
     "text": "Bien. Et le troisième thème ?",
-    "t": 488.49
+    "t": 487.83
    },
    {
     "speaker": "Tom",
     "text": "Le troisième, c'est « Changer de parcours professionnel ».",
-    "t": 490.25
+    "t": 489.59
    },
    {
     "speaker": "Tom",
     "text": "C'est celui pour les adultes dont nous avons parlé — de l'aide pour se réorienter ou retrouver un emploi, reprendre des études ou suivre une formation, et faire reconnaître ses diplômes et valider son expérience.",
-    "t": 493.19
+    "t": 492.53
    },
    {
     "speaker": "Anna",
     "text": "Et le quatrième ?",
-    "t": 505.23
+    "t": 504.57
    },
    {
     "speaker": "Tom",
     "text": "Le quatrième, c'est « Aide et soutien ».",
-    "t": 506.52
+    "t": 505.86
    },
    {
     "speaker": "Tom",
     "text": "Il rassemble le soutien pour les situations plus difficiles — que faire quand on a des difficultés, les aides financières et en nature qui existent, le soutien pour les élèves étrangers qui rejoignent l'école, et le soutien pour les personnes ayant des besoins spécifiques.",
-    "t": 508.8
+    "t": 508.14
    },
    {
     "speaker": "Anna",
     "text": "Donc le site reflète presque la maison — chaque type de question a sa place.",
-    "t": 522.86
+    "t": 522.2
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et une autre belle chose — la Maison de l'orientation organise des événements et des ateliers toute l'année.",
-    "t": 527.31
+    "t": 526.65
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, des ateliers sur comment rédiger un CV — ils en ont même un sur la réalisation d'un CV vidéo.",
-    "t": 533.53
+    "t": 532.87
    },
    {
     "speaker": "Tom",
     "text": "Des soirées d'information sur les études et le travail à l'étranger.",
-    "t": 539.25
+    "t": 538.59
    },
    {
     "speaker": "Tom",
     "text": "Et des séances pour les parents des futurs apprentis.",
-    "t": 542.87
+    "t": 542.21
    },
    {
     "speaker": "Anna",
     "text": "Donc il y a aussi un agenda d'événements.",
-    "t": 545.6
+    "t": 544.94
    },
    {
     "speaker": "Anna",
     "text": "Ça vaut la peine de le consulter avant d'y aller.",
-    "t": 547.59
+    "t": 546.93
    },
    {
     "speaker": "Tom",
     "text": "Absolument. L'agenda est sur le site, avec toutes les dates et tous les lieux.",
-    "t": 549.92
+    "t": 549.26
    },
    {
     "speaker": "Anna",
     "text": "Y a-t-il quelque chose pour les personnes qui sont vraiment bloquées, ou en difficulté ?",
-    "t": 554.28
+    "t": 553.62
    },
    {
     "speaker": "Tom",
     "text": "Oui. Le site a toute une rubrique pour le soutien et l'aide — y compris que faire quand on a des difficultés, les aides financières et en nature qui existent, le soutien pour les élèves étrangers, et le soutien pour les personnes ayant des besoins spécifiques.",
-    "t": 558.26
+    "t": 557.6
    },
    {
     "speaker": "Tom",
     "text": "Donc vous n'êtes jamais seul face à la question.",
-    "t": 570.82
+    "t": 570.16
    },
    {
     "speaker": "Anna",
     "text": "Et tout ça — toujours gratuit ?",
-    "t": 573.43
+    "t": 572.77
    },
    {
     "speaker": "Tom",
     "text": "Le service d'orientation et d'information est gratuit.",
-    "t": 575.37
+    "t": 574.71
    },
    {
     "speaker": "Tom",
     "text": "C'est l'esprit d'un service public comme celui-ci.",
-    "t": 578.22
+    "t": 577.56
    },
    {
     "speaker": "Anna",
     "text": "D'accord, Tom. Rendons ça vraiment concret.",
-    "t": 580.9
+    "t": 580.24
    },
    {
     "speaker": "Anna",
     "text": "Si je vous écoute, et que moi — ou mon enfant — j'ai l'une de ces questions, qu'est-ce que je fais ?",
-    "t": 583.03
+    "t": 582.37
    },
    {
     "speaker": "Tom",
     "text": "Très simple. Si vous voulez, prenez un rendez-vous par MyGuichet.lu — choisissez en ligne ou en personne.",
-    "t": 587.54
+    "t": 586.88
    },
    {
     "speaker": "Tom",
     "text": "Ou, si vous préférez, entrez tout simplement à la Maison de l'orientation, 29 rue Aldringen à Luxembourg-Ville, du lundi au vendredi, entre 8 et 5 heures, pour des conseils gratuits et anonymes.",
-    "t": 593.59
+    "t": 592.93
    },
    {
     "speaker": "Tom",
     "text": "Et si vous avez une question rapide, appelez la ligne gratuite, 8002, 8181.",
-    "t": 605.09
+    "t": 604.43
    },
    {
     "speaker": "Anna",
     "text": "Réserver sur MyGuichet, ou simplement entrer.",
-    "t": 611.06
+    "t": 610.4
    },
    {
     "speaker": "Anna",
     "text": "Facile. Un petit résumé pour finir ?",
-    "t": 613.58
+    "t": 612.92
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. La Maison de l'orientation est une maison de l'État qui rassemble de nombreux services d'orientation en un seul endroit, à Luxembourg-Ville.",
-    "t": 616.14
+    "t": 615.48
    },
    {
     "speaker": "Tom",
     "text": "Elle vous aide à choisir votre parcours scolaire ou votre carrière — en comprenant vos capacités et vos intérêts.",
-    "t": 623.99
+    "t": 623.33
    },
    {
     "speaker": "Tom",
     "text": "L'espace orientation est gratuit, et anonyme, surtout pour les personnes âgées de 14 à 22 ans, mais la maison aide aussi les adultes et les personnes qui changent de carrière, et les nouveaux arrivants qui ont besoin de faire reconnaître leurs diplômes ou leur expérience.",
-    "t": 629.46
+    "t": 628.8
    },
    {
     "speaker": "Anna",
     "text": "Et comment commencer ?",
-    "t": 643.56
+    "t": 642.9
    },
    {
     "speaker": "Tom",
     "text": "Réservez par MyGuichet.lu, ou entrez, du lundi au vendredi.",
-    "t": 644.96
+    "t": 644.3
    },
    {
     "speaker": "Tom",
     "text": "Des conseils gratuits, et plein d'experts sous le même toit.",
-    "t": 649.32
+    "t": 648.66
    },
    {
     "speaker": "Anna",
     "text": "Alors... si vous n'êtes pas sûr de ce que vous voulez étudier, ou de quoi faire ensuite — vous n'avez pas à le découvrir tout seul.",
-    "t": 652.7
+    "t": 652.04
    },
    {
     "speaker": "Anna",
     "text": "Il y a toute une maison prête à vous aider.",
-    "t": 657.74
+    "t": 657.08
    },
    {
     "speaker": "Tom",
     "text": "Vraiment. Allez-y juste une fois, avec vos questions.",
-    "t": 659.87
+    "t": 659.21
    },
    {
     "speaker": "Tom",
     "text": "Vous repartirez avec une voie plus claire.",
-    "t": 663.11
+    "t": 662.45
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur la Maison de l'orientation.",
-    "t": 665.65
+    "t": 664.99
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 668.11
+    "t": 667.45
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 675.9
+    "t": 675.24
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 691.75
+    "t": 691.09
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 696.4
+    "t": 695.74
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 698.18
+    "t": 697.52
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 702.56
+    "t": 701.9
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 703.79
+    "t": 703.13
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 706.25
+    "t": 705.59
    }
   ],
   "segments_de": [
@@ -24843,848 +24843,848 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und heute sprechen wir über einen Ort, der Ihnen bei einer der großen Fragen des Lebens hilft — was soll ich studieren, oder welchen Beruf soll ich ausüben?",
-    "t": 28.46
+    "t": 27.86
    },
    {
     "speaker": "Tom",
     "text": "Dieser Ort heißt die Maison de l'orientation.",
-    "t": 38.71
+    "t": 38.11
    },
    {
     "speaker": "Anna",
     "text": "Die Maison de l'orientation.",
-    "t": 41.55
+    "t": 40.95
    },
    {
     "speaker": "Anna",
     "text": "Übersetzen wir den Namen erst einmal, Tom.",
-    "t": 43.35
+    "t": 42.75
    },
    {
     "speaker": "Anna",
     "text": "Was bedeutet er?",
-    "t": 45.7
+    "t": 45.1
    },
    {
     "speaker": "Tom",
     "text": "Also, „Maison\" heißt „Haus\".",
-    "t": 47.13
+    "t": 46.53
    },
    {
     "speaker": "Tom",
     "text": "Und „Orientation\" bedeutet hier so viel wie Begleitung — die eigene Richtung finden, in der Schule und im Beruf.",
-    "t": 49.66
+    "t": 49.06
    },
    {
     "speaker": "Tom",
     "text": "Man könnte es also „das Haus der Orientierung\" nennen.",
-    "t": 56.41
+    "t": 55.81
    },
    {
     "speaker": "Tom",
     "text": "Ein Haus, in das man geht, um Hilfe bei der Wahl seines Weges zu bekommen.",
-    "t": 59.61
+    "t": 59.01
    },
    {
     "speaker": "Anna",
     "text": "Das gefällt mir.",
-    "t": 63.82
+    "t": 63.22
    },
    {
     "speaker": "Anna",
     "text": "Ein Haus der Orientierung.",
-    "t": 65
+    "t": 64.4
    },
    {
     "speaker": "Anna",
     "text": "Was genau ist es also?",
-    "t": 66.68
+    "t": 66.08
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine staatliche Verwaltung — ein offizieller öffentlicher Dienst.",
-    "t": 68.42
+    "t": 67.82
    },
    {
     "speaker": "Tom",
     "text": "Und seine besondere Idee ist diese: Es bringt an einem einzigen Ort viele öffentliche Dienste zusammen, die alle an der schulischen und beruflichen Orientierung arbeiten.",
-    "t": 72.54
+    "t": 71.94
    },
    {
     "speaker": "Anna",
     "text": "Ah, also statt zu zehn verschiedenen Büros zu rennen...",
-    "t": 82.64
+    "t": 82.04
    },
    {
     "speaker": "Tom",
     "text": "...gehen Sie zu einer einzigen Adresse und finden sie alle unter einem Dach.",
-    "t": 85.91
+    "t": 85.31
    },
    {
     "speaker": "Tom",
     "text": "Das ist wirklich der ganze Sinn der Sache.",
-    "t": 89.62
+    "t": 89.02
    },
    {
     "speaker": "Tom",
     "text": "Ein Ort, viele Fachleute.",
-    "t": 91.85
+    "t": 91.25
    },
    {
     "speaker": "Anna",
     "text": "Und für wen ist es?",
-    "t": 93.91
+    "t": 93.31
    },
    {
     "speaker": "Anna",
     "text": "Nur für Schüler?",
-    "t": 95.3
+    "t": 94.7
    },
    {
     "speaker": "Tom",
     "text": "Nicht nur. Es ist für jeden Bürger, der Rat zu seinem schulischen Weg oder zu seiner Laufbahn sucht.",
-    "t": 96.58
+    "t": 95.98
    },
    {
     "speaker": "Tom",
     "text": "Das Ziel ist, Ihnen zu helfen, Ihre Fähigkeiten, Ihre Kompetenzen und Ihre Interessen zu erkennen — und dann gute, gut informierte Entscheidungen über Ihr Studium, Ihre Ausbildung und Ihre beruflichen Pläne zu treffen.",
-    "t": 102.75
+    "t": 102.15
    },
    {
     "speaker": "Anna",
     "text": "Es geht also darum, sich zuerst selbst zu verstehen und dann zu wählen.",
-    "t": 116.3
+    "t": 115.7
    },
    {
     "speaker": "Tom",
     "text": "Genau. Wissen, worin man gut ist, wissen, was man mag, und dann mit Zuversicht wählen.",
-    "t": 120.53
+    "t": 119.93
    },
    {
     "speaker": "Anna",
     "text": "Gut. Werden wir praktisch.",
-    "t": 126.11
+    "t": 125.51
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich einfach hineingehe, was finde ich da?",
-    "t": 128.4
+    "t": 127.8
    },
    {
     "speaker": "Tom",
     "text": "Das Herzstück ist der „Espace Orientation\" — der Orientierungsraum.",
-    "t": 131.18
+    "t": 130.58
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein Empfangsbereich, in den Sie mit Ihren Fragen zur Schule oder zur Berufsausbildung kommen können.",
-    "t": 135.76
+    "t": 135.16
    },
    {
     "speaker": "Anna",
     "text": "Und gibt es ein Alter für diesen Teil?",
-    "t": 141.66
+    "t": 141.06
    },
    {
     "speaker": "Tom",
     "text": "Der Orientierungsraum richtet sich besonders an Menschen im Alter von 14 bis 22 Jahren.",
-    "t": 144.02
+    "t": 143.42
    },
    {
     "speaker": "Tom",
     "text": "Also — Jugendliche und junge Erwachsene.",
-    "t": 149.79
+    "t": 149.19
    },
    {
     "speaker": "Tom",
     "text": "Aber, wie wir noch sehen werden, hat das Haus auch Dienste für Erwachsene.",
-    "t": 152.28
+    "t": 151.68
    },
    {
     "speaker": "Anna",
     "text": "Gut. Und brauche ich einen Termin, um diesen Orientierungsraum zu nutzen?",
-    "t": 156.18
+    "t": 155.58
    },
    {
     "speaker": "Tom",
     "text": "Nein, das müssen Sie nicht.",
-    "t": 160.7
+    "t": 160.1
    },
    {
     "speaker": "Tom",
     "text": "Und das ist ein schöner Teil — Sie können einfach hineingehen, ohne Termin, und Rat bekommen, der kostenlos und anonym ist.",
-    "t": 162.52
+    "t": 161.92
    },
    {
     "speaker": "Anna",
     "text": "Kostenlos und anonym.",
-    "t": 170.17
+    "t": 169.57
    },
    {
     "speaker": "Anna",
     "text": "Also schreibt niemand meinen Namen auf, und es kostet nichts.",
-    "t": 172.09
+    "t": 171.49
    },
    {
     "speaker": "Tom",
     "text": "Überhaupt nichts. Nur eine Sache — wenn Sie ohne Termin hineingehen, müssen Sie vielleicht ein bisschen warten, weil die Menschen mit Termin zuerst drankommen.",
-    "t": 175.42
+    "t": 174.82
    },
    {
     "speaker": "Anna",
     "text": "Das ergibt Sinn.",
-    "t": 184.79
+    "t": 184.19
    },
    {
     "speaker": "Anna",
     "text": "Ich kann also einen Termin buchen, um die Wartezeit zu vermeiden?",
-    "t": 185.94
+    "t": 185.34
    },
    {
     "speaker": "Tom",
     "text": "Ja. Sie können einen Termin buchen, und das geht online — über MyGuichet.lu.",
-    "t": 189.55
+    "t": 188.95
    },
    {
     "speaker": "Anna",
     "text": "Schon wieder MyGuichet!",
-    "t": 194.84
+    "t": 194.24
    },
    {
     "speaker": "Anna",
     "text": "Wir haben dem eine ganze Folge gewidmet.",
-    "t": 196.33
+    "t": 195.73
    },
    {
     "speaker": "Tom",
     "text": "*(lacht)* Ja, das kommt immer wieder, weil es das Tor zu so vielen Diensten ist.",
-    "t": 198.82
+    "t": 198.22
    },
    {
     "speaker": "Tom",
     "text": "Auf MyGuichet wählen Sie das Format, das Ihnen passt — einen Termin online, per Video, oder einen Termin vor Ort, in der Maison de l'orientation.",
-    "t": 202.52
+    "t": 201.92
    },
    {
     "speaker": "Tom",
     "text": "Und Sie können mit oder ohne Anmeldung buchen.",
-    "t": 211.74
+    "t": 211.14
    },
    {
     "speaker": "Anna",
     "text": "Sehr flexibel. Und wo befindet sich das Haus genau?",
-    "t": 214.26
+    "t": 213.66
    },
    {
     "speaker": "Tom",
     "text": "Es ist in Luxemburg-Stadt — 29, rue Aldringen.",
-    "t": 217.84
+    "t": 217.24
    },
    {
     "speaker": "Tom",
     "text": "Der Orientierungsraum ist von Montag bis Freitag geöffnet, von 8 Uhr morgens bis 5 Uhr nachmittags.",
-    "t": 221.98
+    "t": 221.38
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt eine kostenlose Telefonleitung — 8002, 8181 — und eine E-Mail-Adresse, info at m-o Punkt l-u.",
-    "t": 228.22
+    "t": 227.62
    },
    {
     "speaker": "Anna",
     "text": "Gut. Du hast gesagt, dass sie Rat geben.",
-    "t": 239.09
+    "t": 238.49
    },
    {
     "speaker": "Anna",
     "text": "Zu welchen Themen, ganz konkret?",
-    "t": 242.08
+    "t": 241.48
    },
    {
     "speaker": "Tom",
     "text": "Zwei große Themenbereiche.",
-    "t": 244.19
+    "t": 243.59
    },
    {
     "speaker": "Tom",
     "text": "Der erste ist Ihr schulischer Weg.",
-    "t": 246.13
+    "t": 245.53
    },
    {
     "speaker": "Tom",
     "text": "Also — Rat zur Sekundarschule, dazu, was die verschiedenen Lycées anbieten, zur Wahl der Sektionen, oder dazu, wie man wieder in ein Lycée hineinkommt.",
-    "t": 248.21
+    "t": 247.61
    },
    {
     "speaker": "Tom",
     "text": "Der zweite ist Ausbildung und Berufe.",
-    "t": 257.68
+    "t": 257.08
    },
    {
     "speaker": "Tom",
     "text": "Also — Informationen über Jobs und Berufe, über erste Arbeitserfahrungen, über Kurse und über die Lehre.",
-    "t": 259.92
+    "t": 259.32
    },
    {
     "speaker": "Anna",
     "text": "Also von „welche Schulsektion soll ich wählen\" bis „wie beginne ich eine Lehre\".",
-    "t": 267.62
+    "t": 267.02
    },
    {
     "speaker": "Tom",
     "text": "Genau. Der ganze Weg, von der Schule in die Arbeitswelt.",
-    "t": 272.6
+    "t": 272
    },
    {
     "speaker": "Anna",
     "text": "Du hast eine besondere Sitzung erwähnt — Coaching?",
-    "t": 276.22
+    "t": 275.62
    },
    {
     "speaker": "Tom",
     "text": "Ja. Sie bieten eine Orientierungs-Coaching-Sitzung an, zusammen mit einem Interessentest.",
-    "t": 279.45
+    "t": 278.85
    },
    {
     "speaker": "Tom",
     "text": "Der Test hilft Ihnen herauszufinden, was Sie wirklich motiviert, welche Art von Tätigkeiten zu Ihnen passt.",
-    "t": 284.78
+    "t": 284.18
    },
    {
     "speaker": "Tom",
     "text": "Diese ist für Schüler, sie ist freiwillig, und dafür brauchen Sie tatsächlich einen Termin.",
-    "t": 290.85
+    "t": 290.25
    },
    {
     "speaker": "Anna",
     "text": "Ein Interessentest — das klingt wirklich nützlich, wenn man keine Ahnung hat, was man tun soll.",
-    "t": 296.01
+    "t": 295.41
    },
    {
     "speaker": "Tom",
     "text": "Das hilft wirklich.",
-    "t": 301.45
+    "t": 300.85
    },
    {
     "speaker": "Tom",
     "text": "Viele junge Menschen wissen nicht, wo sie anfangen sollen, und ein Test wie dieser gibt eine erste Richtung zum Erkunden.",
-    "t": 302.78
+    "t": 302.18
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom. Du hast gesagt, dass viele Dienste unter einem Dach sind.",
-    "t": 309.16
+    "t": 308.56
    },
    {
     "speaker": "Anna",
     "text": "Kannst du uns sagen, welche das sind?",
-    "t": 313.43
+    "t": 312.83
    },
    {
     "speaker": "Tom",
     "text": "Ja, und das ist die Stärke des Hauses.",
-    "t": 315.76
+    "t": 315.16
    },
    {
     "speaker": "Tom",
     "text": "Mehrere öffentliche Dienste sitzen dort, und Sie können das ganze Jahr über einen Termin mit ihnen vereinbaren — sogar während der Schulferien — von Montag bis Freitag.",
-    "t": 318.27
+    "t": 317.67
    },
    {
     "speaker": "Tom",
     "text": "Lass mich die wichtigsten nennen.",
-    "t": 327.29
+    "t": 326.69
    },
    {
     "speaker": "Anna",
     "text": "Bitte.",
-    "t": 329.17
+    "t": 328.57
    },
    {
     "speaker": "Tom",
     "text": "Zuerst das CePAS — das psychosoziale und schulische Begleitungszentrum.",
-    "t": 330.01
+    "t": 329.41
    },
    {
     "speaker": "Tom",
     "text": "Sie helfen Schülern mit persönlichen, sozialen oder schulischen Schwierigkeiten.",
-    "t": 334.64
+    "t": 334.04
    },
    {
     "speaker": "Tom",
     "text": "Zweitens das SIA — der Dienst für die Integration und Aufnahme von Schülern in der Schule.",
-    "t": 339.08
+    "t": 338.48
    },
    {
     "speaker": "Tom",
     "text": "Dieser ist sehr wichtig für Neuankömmlinge: Er hilft ausländischen Schülern, ihren Platz im luxemburgischen Schulsystem zu finden.",
-    "t": 344.8
+    "t": 344.2
    },
    {
     "speaker": "Anna",
     "text": "Das ist direkt nützlich für Familien, die aus dem Ausland kommen.",
-    "t": 352.05
+    "t": 351.45
    },
    {
     "speaker": "Tom",
     "text": "Sehr. Dann, drittens — der Dienst für Berufsorientierung der ADEM, und die Vermittlung von Lehrstellen.",
-    "t": 355.38
+    "t": 354.78
    },
    {
     "speaker": "Tom",
     "text": "Die ADEM ist die Arbeitsagentur, und hier helfen sie bei der beruflichen Orientierung und bei der Suche nach einer Lehrstelle.",
-    "t": 362.8
+    "t": 362.2
    },
    {
     "speaker": "Tom",
     "text": "Viertens — die ATVA, die Agentur für den Übergang in ein eigenständiges Leben.",
-    "t": 369.64
+    "t": 369.04
    },
    {
     "speaker": "Tom",
     "text": "Sie begleitet junge Menschen mit besonderen Bedürfnissen auf dem Weg zur Selbstständigkeit.",
-    "t": 375.19
+    "t": 374.59
    },
    {
     "speaker": "Anna",
     "text": "Es gibt also sogar etwas für Menschen, die zusätzliche Unterstützung brauchen.",
-    "t": 380.36
+    "t": 379.76
    },
    {
     "speaker": "Tom",
     "text": "Ja. Und dann, fünftens — Euroguidance.",
-    "t": 384.53
+    "t": 383.93
    },
    {
     "speaker": "Tom",
     "text": "Das ist ein europäisches Netzwerk, für all jene, die davon träumen, im Ausland zu studieren oder zu arbeiten.",
-    "t": 387.21
+    "t": 386.61
    },
    {
     "speaker": "Tom",
     "text": "Und schließlich — die Orientierung für Erwachsene.",
-    "t": 393.4
+    "t": 392.8
    },
    {
     "speaker": "Tom",
     "text": "Denn, wie ich versprochen habe, es ist nicht nur für die Jungen.",
-    "t": 396.2
+    "t": 395.6
    },
    {
     "speaker": "Anna",
     "text": "Bleiben wir dabei — die Erwachsenen.",
-    "t": 399.71
+    "t": 399.11
    },
    {
     "speaker": "Anna",
     "text": "Denn viele unserer Zuhörer sind erwachsene Menschen, die vielleicht über einen Berufswechsel nachdenken.",
-    "t": 402.22
+    "t": 401.62
    },
    {
     "speaker": "Tom",
     "text": "Richtig. Die Maison de l'orientation hilft also auch beim Wechsel des beruflichen Weges.",
-    "t": 407.45
+    "t": 406.85
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie sich neu orientieren oder wieder in den Beruf einsteigen möchten, können sie Sie begleiten.",
-    "t": 413.04
+    "t": 412.44
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie wieder studieren oder eine Weiterbildung machen möchten, helfen sie Ihnen.",
-    "t": 418.48
+    "t": 417.88
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie aus einem anderen Land gekommen sind, helfen sie Ihnen bei zwei wichtigen Dingen — Ihre Diplome anerkennen zu lassen, und die Erfahrung, die Sie bereits haben, validieren zu lassen.",
-    "t": 422.52
+    "t": 421.92
    },
    {
     "speaker": "Anna",
     "text": "Dieser letzte Punkt ist so wichtig für Neuankömmlinge.",
-    "t": 432.79
+    "t": 432.19
    },
    {
     "speaker": "Anna",
     "text": "Man kann jahrelange Erfahrung aus seinem Heimatland mitbringen.",
-    "t": 435.63
+    "t": 435.03
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und es gibt ein offizielles Verfahren, um diese Erfahrung in eine hier anerkannte Qualifikation umzuwandeln.",
-    "t": 439.07
+    "t": 438.47
    },
    {
     "speaker": "Tom",
     "text": "Das Haus kann Ihnen den Weg dorthin zeigen.",
-    "t": 446.62
+    "t": 446.02
    },
    {
     "speaker": "Anna",
     "text": "Wunderbar. Es deckt also wirklich das ganze Leben ab — einen Jugendlichen, der eine Schulsektion wählt, einen jungen Erwachsenen, der eine Lehrstelle sucht, und einen Erwachsenen, der seine Laufbahn wechselt oder aus dem Ausland kommt.",
-    "t": 449.15
+    "t": 448.55
    },
    {
     "speaker": "Tom",
     "text": "Das ist die Idee.",
-    "t": 462.2
+    "t": 461.6
    },
    {
     "speaker": "Tom",
     "text": "Orientierung, für jede Lebensphase.",
-    "t": 463.44
+    "t": 462.84
    },
    {
     "speaker": "Anna",
     "text": "Nun, Tom — es gibt auch eine Website, nicht wahr?",
-    "t": 465.88
+    "t": 465.28
    },
    {
     "speaker": "Anna",
     "text": "Für Menschen, die sich erst einmal von zu Hause aus umsehen möchten.",
-    "t": 469.48
+    "t": 468.88
    },
    {
     "speaker": "Tom",
     "text": "Ja, und sie ist für sich genommen eine echte Ressource.",
-    "t": 473.26
+    "t": 472.66
    },
    {
     "speaker": "Tom",
     "text": "Die Website ist maison-orientation, alles in einem Wort, Punkt public Punkt l-u.",
-    "t": 476.44
+    "t": 475.84
    },
    {
     "speaker": "Tom",
     "text": "Und sie ist um ein paar große Themen herum aufgebaut.",
-    "t": 482.36
+    "t": 481.76
    },
    {
     "speaker": "Tom",
     "text": "Lass mich sie durchgehen.",
-    "t": 485.34
+    "t": 484.74
    },
    {
     "speaker": "Anna",
     "text": "Bitte, tu das.",
-    "t": 486.89
+    "t": 486.29
    },
    {
     "speaker": "Tom",
     "text": "Das erste Thema ist „Mein Studium\".",
-    "t": 488.38
+    "t": 487.78
    },
    {
     "speaker": "Tom",
     "text": "Dort finden Sie Informationen über die Grund- und Sekundarschule, und etwas sehr Praktisches — den Kalender der Tage der offenen Tür der Lycées und der Universitäten.",
-    "t": 490.8
+    "t": 490.2
    },
    {
     "speaker": "Anna",
     "text": "Ah, die Tage der offenen Tür — wenn man eine Schule besuchen und sie selbst ansehen kann.",
-    "t": 500.7
+    "t": 500.1
    },
    {
     "speaker": "Tom",
     "text": "Genau. Sie gehen hin, Sie sehen sich um, Sie stellen Fragen, Sie bekommen ein Gefühl für den Ort.",
-    "t": 506.2
+    "t": 505.6
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt auch einen Teil mit dem Titel „Was tun nach dem Abitur?\" — das Abitur ist der Abschluss am Ende der Sekundarschule.",
-    "t": 512.68
+    "t": 512.08
    },
    {
     "speaker": "Tom",
     "text": "Also, was danach kommt — die Universität, ein höheres technisches Diplom, und so weiter.",
-    "t": 520.51
+    "t": 519.91
    },
    {
     "speaker": "Anna",
     "text": "Nützlich. Was ist das zweite Thema?",
-    "t": 526.56
+    "t": 525.96
    },
    {
     "speaker": "Tom",
     "text": "Das zweite ist „Die Arbeitswelt\".",
-    "t": 529.62
+    "t": 529.02
    },
    {
     "speaker": "Tom",
     "text": "Hier geht es darum, Jobs und Berufe zu entdecken, und um Ihre ersten Schritte ins Berufsleben.",
-    "t": 532.04
+    "t": 531.44
    },
    {
     "speaker": "Tom",
     "text": "Es gibt einen besonderen Teil für junge Menschen — über Praktika, Ferienjobs, Studentenjobs, sogar Dinge wie ein Zwischenjahr oder „Work and Travel\".",
-    "t": 537.22
+    "t": 536.62
    },
    {
     "speaker": "Anna",
     "text": "Oh, also für einen Jugendlichen, der einen Sommerjob will, oder eine erste Erfahrung...",
-    "t": 547.2
+    "t": 546.6
    },
    {
     "speaker": "Tom",
     "text": "...gibt es Informationen, die genau für sie gemacht sind.",
-    "t": 552.09
+    "t": 551.49
    },
    {
     "speaker": "Tom",
     "text": "Sie haben sogar eine Broschürenreihe, die BOOST heißt, mit genau dieser Art von Ratschlägen.",
-    "t": 555.23
+    "t": 554.63
    },
    {
     "speaker": "Tom",
     "text": "Und dieses Thema deckt auch die Lehre ab, und den Weg „in Richtung Beschäftigung\" — also die Jobsuche.",
-    "t": 560.6
+    "t": 560
    },
    {
     "speaker": "Anna",
     "text": "Gut. Und das dritte Thema?",
-    "t": 566.76
+    "t": 566.16
    },
    {
     "speaker": "Tom",
     "text": "Das dritte ist „Den beruflichen Weg wechseln\".",
-    "t": 568.7
+    "t": 568.1
    },
    {
     "speaker": "Tom",
     "text": "Das ist jenes für die Erwachsenen, über die wir gesprochen haben — Hilfe, um sich neu zu orientieren oder wieder in den Beruf einzusteigen, wieder zu studieren oder eine Weiterbildung zu machen, und seine Diplome anerkennen und seine Erfahrung validieren zu lassen.",
-    "t": 571.62
+    "t": 571.02
    },
    {
     "speaker": "Anna",
     "text": "Und das vierte?",
-    "t": 586.91
+    "t": 586.31
    },
    {
     "speaker": "Tom",
     "text": "Das vierte ist „Hilfe und Unterstützung\".",
-    "t": 588.23
+    "t": 587.63
    },
    {
     "speaker": "Tom",
     "text": "Es versammelt die Unterstützung für schwierigere Situationen — was zu tun ist, wenn man Schwierigkeiten hat, die finanziellen und sachlichen Hilfen, die es gibt, die Unterstützung für ausländische Schüler, die in die Schule kommen, und die Unterstützung für Menschen mit besonderen Bedürfnissen.",
-    "t": 590.78
+    "t": 590.18
    },
    {
     "speaker": "Anna",
     "text": "Die Website spiegelt also fast das Haus wider — jede Art von Frage hat ihren Platz.",
-    "t": 606.93
+    "t": 606.33
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und noch etwas Schönes — die Maison de l'orientation organisiert das ganze Jahr über Veranstaltungen und Workshops.",
-    "t": 612.48
+    "t": 611.88
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel Workshops dazu, wie man einen Lebenslauf schreibt — sie haben sogar einen über das Erstellen eines Video-Lebenslaufs.",
-    "t": 620.95
+    "t": 620.35
    },
    {
     "speaker": "Tom",
     "text": "Informationsabende über das Studieren und Arbeiten im Ausland.",
-    "t": 628.38
+    "t": 627.78
    },
    {
     "speaker": "Tom",
     "text": "Und Sitzungen für die Eltern künftiger Auszubildender.",
-    "t": 632.22
+    "t": 631.62
    },
    {
     "speaker": "Anna",
     "text": "Es gibt also auch einen Veranstaltungskalender.",
-    "t": 635.31
+    "t": 634.71
    },
    {
     "speaker": "Anna",
     "text": "Den lohnt es sich anzuschauen, bevor man hingeht.",
-    "t": 637.85
+    "t": 637.25
    },
    {
     "speaker": "Tom",
     "text": "Auf jeden Fall.",
-    "t": 640.71
+    "t": 640.11
    },
    {
     "speaker": "Tom",
     "text": "Der Kalender ist auf der Website, mit allen Daten und Orten.",
-    "t": 641.87
+    "t": 641.27
    },
    {
     "speaker": "Anna",
     "text": "Gibt es etwas für Menschen, die wirklich feststecken oder in Schwierigkeiten sind?",
-    "t": 645.57
+    "t": 644.97
    },
    {
     "speaker": "Tom",
     "text": "Ja. Die Website hat einen ganzen Bereich für Unterstützung und Hilfe — darunter, was zu tun ist, wenn man Schwierigkeiten hat, die finanziellen und sachlichen Hilfen, die es gibt, die Unterstützung für ausländische Schüler, und die Unterstützung für Menschen mit besonderen Bedürfnissen.",
-    "t": 649.96
+    "t": 649.36
    },
    {
     "speaker": "Tom",
     "text": "Sie sind also mit der Frage niemals allein.",
-    "t": 665.44
+    "t": 664.84
    },
    {
     "speaker": "Anna",
     "text": "Und das alles — immer noch kostenlos?",
-    "t": 668.12
+    "t": 667.52
    },
    {
     "speaker": "Tom",
     "text": "Der Orientierungs- und Informationsdienst ist kostenlos.",
-    "t": 671.01
+    "t": 670.41
    },
    {
     "speaker": "Tom",
     "text": "Das ist der Geist eines öffentlichen Dienstes wie diesem.",
-    "t": 674.75
+    "t": 674.15
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom. Machen wir es ganz praktisch.",
-    "t": 677.85
+    "t": 677.25
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich zuhöre, und ich — oder mein Kind — eine dieser Fragen habe, was tue ich?",
-    "t": 680.61
+    "t": 680.01
    },
    {
     "speaker": "Tom",
     "text": "Ganz einfach. Wenn Sie möchten, buchen Sie einen Termin über MyGuichet.lu — wählen Sie online oder vor Ort.",
-    "t": 686.83
+    "t": 686.23
    },
    {
     "speaker": "Tom",
     "text": "Oder, wenn Sie es lieber mögen, gehen Sie einfach in die Maison de l'orientation, 29 rue Aldringen in Luxemburg-Stadt, von Montag bis Freitag, zwischen 8 und 5 Uhr, für kostenlosen und anonymen Rat.",
-    "t": 694.84
+    "t": 694.24
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie eine kurze Frage haben, rufen Sie die kostenlose Leitung an, 8002, 8181.",
-    "t": 708.73
+    "t": 708.13
    },
    {
     "speaker": "Anna",
     "text": "Auf MyGuichet buchen, oder einfach hineingehen.",
-    "t": 716.04
+    "t": 715.44
    },
    {
     "speaker": "Anna",
     "text": "Einfach. Eine kurze Zusammenfassung zum Schluss?",
-    "t": 718.93
+    "t": 718.33
    },
    {
     "speaker": "Tom",
     "text": "Klar. Die Maison de l'orientation ist ein staatliches Haus, das viele Orientierungsdienste an einem einzigen Ort zusammenbringt, in Luxemburg-Stadt.",
-    "t": 722.34
+    "t": 721.74
    },
    {
     "speaker": "Tom",
     "text": "Es hilft Ihnen, Ihren schulischen Weg oder Ihre Laufbahn zu wählen — indem Sie Ihre Fähigkeiten und Interessen verstehen.",
-    "t": 731.61
+    "t": 731.01
    },
    {
     "speaker": "Tom",
     "text": "Der Orientierungsraum ist kostenlos und anonym, vor allem für Menschen im Alter von 14 bis 22 Jahren, aber das Haus hilft auch Erwachsenen und Menschen, die ihre Laufbahn wechseln, und Neuankömmlingen, die ihre Diplome oder ihre Erfahrung anerkennen lassen müssen.",
-    "t": 738.38
+    "t": 737.78
    },
    {
     "speaker": "Anna",
     "text": "Und wie fängt man an?",
-    "t": 754.67
+    "t": 754.07
    },
    {
     "speaker": "Tom",
     "text": "Buchen Sie über MyGuichet.lu, oder gehen Sie hinein, von Montag bis Freitag.",
-    "t": 756.23
+    "t": 755.63
    },
    {
     "speaker": "Tom",
     "text": "Kostenloser Rat, und viele Fachleute unter einem Dach.",
-    "t": 761.46
+    "t": 760.86
    },
    {
     "speaker": "Anna",
     "text": "Also... wenn Sie nicht sicher sind, was Sie studieren oder als Nächstes tun sollen — Sie müssen es nicht allein herausfinden.",
-    "t": 764.89
+    "t": 764.29
    },
    {
     "speaker": "Anna",
     "text": "Es gibt ein ganzes Haus, das bereit ist, Ihnen zu helfen.",
-    "t": 772.98
+    "t": 772.38
    },
    {
     "speaker": "Tom",
     "text": "Wirklich. Gehen Sie einfach einmal hin, mit Ihren Fragen.",
-    "t": 776.16
+    "t": 775.56
    },
    {
     "speaker": "Tom",
     "text": "Sie gehen mit einem klareren Weg wieder.",
-    "t": 780.52
+    "t": 779.92
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die Maison de l'orientation.",
-    "t": 783.03
+    "t": 782.43
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 786.09
+    "t": 785.49
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 794.73
+    "t": 794.13
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 812.58
+    "t": 811.98
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 818.28
+    "t": 817.68
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 820.53
+    "t": 819.93
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 825.42
+    "t": 824.82
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 826.57
+    "t": 825.97
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 829.78
+    "t": 829.18
    }
   ],
   "segments_lb": [
@@ -26105,7 +26105,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_maison_orientation_fr.mp3",
-  "duration_fr": 708.02,
+  "duration_fr": 707.37,
   "title_fr": "La Maison de l'orientation – un seul endroit pour vous aider à choisir votre voie",
   "description_fr": "La « maison qui guide » de l'État, au cœur de Luxembourg-Ville, où de nombreux services d'orientation scolaire et professionnelle se réunissent sous un même toit. Comment elle fonctionne, l'espace de conseil gratuit et anonyme, le coaching avec test d'intérêts, et comment prendre rendez-vous via MyGuichet. Elle s'adresse aux jeunes de 14 à 22 ans, mais aussi aux adultes, aux demandeurs d'emploi et aux nouveaux arrivants, avec une aide sur les études, le travail, l'apprentissage et la reconnaissance des diplômes et de l'expérience.",
   "topics_fr": [
@@ -26176,7 +26176,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_maison_orientation_de.mp3",
-  "duration_de": 831.32,
+  "duration_de": 830.72,
   "title_de": "Die Maison de l'orientation – ein einziger Ort, der Ihnen hilft, Ihren Weg zu wählen",
   "description_de": "Das „Haus der Orientierung“ des Staates im Herzen von Luxemburg-Stadt, in dem viele Dienste der schulischen und beruflichen Orientierung unter einem Dach zusammenkommen. Wie es funktioniert, der kostenlose und anonyme Beratungsbereich, das Coaching mit Interessentest und wie Sie über MyGuichet einen Termin buchen. Es ist für junge Menschen von 14 bis 22 Jahren da, aber auch für Erwachsene, Arbeitsuchende und Neuankömmlinge, mit Hilfe zu Studium, Arbeit, Ausbildung und der Anerkennung von Diplomen und Erfahrung.",
   "topics_de": [
@@ -27191,818 +27191,818 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Anna",
     "text": "Et le sujet d'aujourd'hui touche presque chaque famille, tôt ou tard.",
-    "t": 23.6
+    "t": 22.97
    },
    {
     "speaker": "Anna",
     "text": "Il s'agit de vieillir — et d'un service qui vous aide à trouver le bon soutien.",
-    "t": 26.69
+    "t": 26.06
    },
    {
     "speaker": "Anna",
     "text": "Il s'appelle Info-Seniors.",
-    "t": 30.35
+    "t": 29.72
    },
    {
     "speaker": "Tom",
     "text": "Info-Seniors. D'accord, Anna, commençons simplement.",
-    "t": 32.2
+    "t": 31.57
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que c'est ?",
-    "t": 35.33
+    "t": 34.7
    },
    {
     "speaker": "Anna",
     "text": "Alors, Info-Seniors est le service d'information officiel pour les personnes âgées au Luxembourg.",
-    "t": 36.46
+    "t": 35.83
    },
    {
     "speaker": "Anna",
     "text": "Sa maison sur Internet est un site web — infosenior point l-u.",
-    "t": 40.8
+    "t": 40.17
    },
    {
     "speaker": "Tom",
     "text": "infosenior.lu. Et qui est derrière tout ça ?",
-    "t": 44.68
+    "t": 44.05
    },
    {
     "speaker": "Anna",
     "text": "C'est géré par l'État — par le ministère de la Famille.",
-    "t": 47.93
+    "t": 47.3
    },
    {
     "speaker": "Anna",
     "text": "C'est donc une source officielle et publique.",
-    "t": 50.52
+    "t": 49.89
    },
    {
     "speaker": "Anna",
     "text": "Pas une entreprise privée qui essaie de vous vendre quelque chose.",
-    "t": 52.63
+    "t": 52
    },
    {
     "speaker": "Tom",
     "text": "Bon à savoir.",
-    "t": 55.54
+    "t": 54.91
    },
    {
     "speaker": "Tom",
     "text": "Et à qui ça s'adresse ?",
-    "t": 56.68
+    "t": 56.05
    },
    {
     "speaker": "Tom",
     "text": "Seulement aux personnes âgées elles-mêmes ?",
-    "t": 58.08
+    "t": 57.45
    },
    {
     "speaker": "Anna",
     "text": "Non, et c'est important.",
-    "t": 60.43
+    "t": 59.8
    },
    {
     "speaker": "Anna",
     "text": "C'est pour les seniors, oui — mais aussi pour leurs familles, pour les professionnels qui travaillent avec eux, et vraiment, pour toute personne intéressée.",
-    "t": 61.81
+    "t": 61.18
    },
    {
     "speaker": "Anna",
     "text": "Donc, si vous vous inquiétez pour un parent qui vieillit, ou pour un voisin, c'est aussi pour vous.",
-    "t": 68.59
+    "t": 67.96
    },
    {
     "speaker": "Tom",
     "text": "C'est rassurant. Parce que souvent, ce sont les enfants, ou la famille, qui partent à la recherche d'aide.",
-    "t": 72.73
+    "t": 72.1
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Surtout pour les frontaliers — peut-être que vos parents vivent dans un autre pays, et vous voulez comprendre ce qui existe ici.",
-    "t": 78.28
+    "t": 77.65
    },
    {
     "speaker": "Anna",
     "text": "Ou l'inverse — vous travaillez ici, et vous organisez de l'aide pour un parent au Luxembourg.",
-    "t": 84.6
+    "t": 83.97
    },
    {
     "speaker": "Tom",
     "text": "Alors, qu'est-ce qu'on trouve réellement sur le site web ?",
-    "t": 88.98
+    "t": 88.35
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce qui en est le cœur ?",
-    "t": 91.98
+    "t": 91.35
    },
    {
     "speaker": "Anna",
     "text": "Le cœur, c'est ce qu'on appelle le Registre public des services pour personnes âgées.",
-    "t": 93.59
+    "t": 92.96
    },
    {
     "speaker": "Tom",
     "text": "Un registre. Ça a l'air officiel.",
-    "t": 97.57
+    "t": 96.94
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce qu'il y a dedans ?",
-    "t": 99.8
+    "t": 99.17
    },
    {
     "speaker": "Anna",
     "text": "C'est une liste complète et fiable des services et des structures pour les personnes âgées au Luxembourg.",
-    "t": 101.15
+    "t": 100.52
    },
    {
     "speaker": "Anna",
     "text": "Pour chacun, vous trouvez des informations détaillées — ce qu'est le service, les conditions pour en bénéficier, et les démarches à effectuer.",
-    "t": 105.84
+    "t": 105.21
    },
    {
     "speaker": "Tom",
     "text": "Donc, pas seulement un nom et un numéro de téléphone.",
-    "t": 112.63
+    "t": 112
    },
    {
     "speaker": "Tom",
     "text": "Ça me dit comment obtenir l'aide concrètement.",
-    "t": 115.42
+    "t": 114.79
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Ce que c'est, qui peut en bénéficier, et comment commencer.",
-    "t": 117.95
+    "t": 117.32
    },
    {
     "speaker": "Anna",
     "text": "C'est ça, la partie utile.",
-    "t": 121.55
+    "t": 120.92
    },
    {
     "speaker": "Tom",
     "text": "Tu as dit « registre » et « officiel ».",
-    "t": 123.26
+    "t": 122.63
    },
    {
     "speaker": "Tom",
     "text": "Y a-t-il quelque chose de particulier concernant les services qui y sont inscrits ?",
-    "t": 125.91
+    "t": 125.28
    },
    {
     "speaker": "Anna",
     "text": "Oui — et c'est vraiment le point clé.",
-    "t": 129.94
+    "t": 129.31
    },
    {
     "speaker": "Anna",
     "text": "Le registre ne liste que les services qui sont agréés par l'État.",
-    "t": 131.37
+    "t": 130.74
    },
    {
     "speaker": "Anna",
     "text": "En français, on dit qu'ils ont un « agrément ».",
-    "t": 134.61
+    "t": 133.98
    },
    {
     "speaker": "Tom",
     "text": "Un agrément. Donc, une autorisation officielle.",
-    "t": 136.97
+    "t": 136.34
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Au Luxembourg, toute personne qui propose des soins, un hébergement, de l'aide ou un accompagnement aux personnes âgées doit avoir cet agrément du ministère.",
-    "t": 140.23
+    "t": 139.6
    },
    {
     "speaker": "Anna",
     "text": "Pour l'obtenir, elle doit répondre à des exigences de qualité.",
-    "t": 148.69
+    "t": 148.06
    },
    {
     "speaker": "Anna",
     "text": "Et le ministère effectue des contrôles réguliers.",
-    "t": 151.69
+    "t": 151.06
    },
    {
     "speaker": "Tom",
     "text": "Donc, si un service est dans le registre...",
-    "t": 154.1
+    "t": 153.47
    },
    {
     "speaker": "Anna",
     "text": "...c'est qu'il a été contrôlé et agréé par l'État.",
-    "t": 156.37
+    "t": 155.74
    },
    {
     "speaker": "Anna",
     "text": "C'est une vraie garantie de qualité.",
-    "t": 158.99
+    "t": 158.36
    },
    {
     "speaker": "Anna",
     "text": "Vous ne choisissez pas un nom au hasard sur Internet.",
-    "t": 160.91
+    "t": 160.28
    },
    {
     "speaker": "Tom",
     "text": "C'est important, surtout pour quelque chose d'aussi sensible que de s'occuper d'un parent.",
-    "t": 163.57
+    "t": 162.94
    },
    {
     "speaker": "Tom",
     "text": "Et il date de quand, ce registre ?",
-    "t": 167.88
+    "t": 167.25
    },
    {
     "speaker": "Anna",
     "text": "Il repose sur une loi de 2023, et le registre est en ligne depuis le premier mars 2024.",
-    "t": 169.93
+    "t": 169.3
    },
    {
     "speaker": "Anna",
     "text": "Et il est mis à jour régulièrement, pour que les informations restent fiables et à jour.",
-    "t": 174.41
+    "t": 173.78
    },
    {
     "speaker": "Tom",
     "text": "Parfait. D'accord, Anna — soyons concrets.",
-    "t": 178.47
+    "t": 177.84
    },
    {
     "speaker": "Tom",
     "text": "Quel genre de services je peux y trouver ?",
-    "t": 181.25
+    "t": 180.62
    },
    {
     "speaker": "Anna",
     "text": "Toute une gamme, pour chaque niveau de besoin.",
-    "t": 183.52
+    "t": 182.89
    },
    {
     "speaker": "Anna",
     "text": "Laisse-moi passer en revue les principaux.",
-    "t": 185.78
+    "t": 185.15
    },
    {
     "speaker": "Anna",
     "text": "D'abord — les maisons de soins, les structures d'hébergement, pour les personnes qui ne peuvent plus vivre chez elles.",
-    "t": 187.76
+    "t": 187.13
    },
    {
     "speaker": "Tom",
     "text": "D'accord, la maison de retraite ou de soins classique.",
-    "t": 192.69
+    "t": 192.06
    },
    {
     "speaker": "Anna",
     "text": "Oui. Ensuite — le logement encadré, où vous avez votre propre logement mais avec un soutien et une sécurité à proximité.",
-    "t": 195.46
+    "t": 194.83
    },
    {
     "speaker": "Anna",
     "text": "Ensuite — les centres de jour, où un senior peut passer la journée, avec des activités et de la compagnie, et rentrer chez lui le soir.",
-    "t": 200.9
+    "t": 200.27
    },
    {
     "speaker": "Tom",
     "text": "Ah, c'est bien pour quelqu'un qui est encore chez lui mais qui ne devrait pas rester seul toute la journée.",
-    "t": 207.38
+    "t": 206.75
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Et ça donne aussi un répit à la famille.",
-    "t": 212.04
+    "t": 211.41
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, il y a l'aide à domicile — l'aide ménagère, et les soins infirmiers qui viennent chez vous.",
-    "t": 214.71
+    "t": 214.08
    },
    {
     "speaker": "Anna",
     "text": "Il y a les « repas sur roues » — des repas chauds livrés à votre porte.",
-    "t": 219.43
+    "t": 218.8
    },
    {
     "speaker": "Tom",
     "text": "Les repas sur roues.",
-    "t": 223.33
+    "t": 222.7
    },
    {
     "speaker": "Tom",
     "text": "C'est une belle idée, très pratique.",
-    "t": 224.61
+    "t": 223.98
    },
    {
     "speaker": "Anna",
     "text": "Et il y a la téléassistance — qu'on appelle parfois télé-alarme.",
-    "t": 226.66
+    "t": 226.03
    },
    {
     "speaker": "Anna",
     "text": "C'est un petit appareil, souvent un bouton que vous portez sur vous, qui vous permet d'appeler à l'aide immédiatement si vous tombez ou si vous ne vous sentez pas bien.",
-    "t": 229.81
+    "t": 229.18
    },
    {
     "speaker": "Tom",
     "text": "Donc, vous pouvez rester chez vous, mais avec un filet de sécurité.",
-    "t": 236.75
+    "t": 236.12
    },
    {
     "speaker": "Tom",
     "text": "Ça apporte une vraie tranquillité d'esprit.",
-    "t": 240.13
+    "t": 239.5
    },
    {
     "speaker": "Anna",
     "text": "C'est l'idée. Le but de tout ça — et c'est le but de toute la politique nationale — c'est de permettre aux gens de rester autonomes, chez eux, le plus longtemps possible.",
-    "t": 242.63
+    "t": 242
    },
    {
     "speaker": "Tom",
     "text": "Et tu as aussi parlé d'activités ?",
-    "t": 251.06
+    "t": 250.43
    },
    {
     "speaker": "Anna",
     "text": "Oui. Au-delà des soins, il y a des activités pour seniors — pour rester actif, apprendre, et rencontrer du monde.",
-    "t": 253
+    "t": 252.37
    },
    {
     "speaker": "Anna",
     "text": "Par exemple, il y a les Clubs Aktiv Plus, les clubs seniors dans tout le pays, où les personnes âgées se retrouvent, font des activités, et gardent le contact.",
-    "t": 258.78
+    "t": 258.15
    },
    {
     "speaker": "Tom",
     "text": "Parce que rester actif et entouré fait partie du fait de rester en bonne santé.",
-    "t": 267.01
+    "t": 266.38
    },
    {
     "speaker": "Anna",
     "text": "Tout à fait.",
-    "t": 271.3
+    "t": 270.67
    },
    {
     "speaker": "Anna",
     "text": "La solitude est un vrai risque en vieillissant.",
-    "t": 272.15
+    "t": 271.52
    },
    {
     "speaker": "Anna",
     "text": "Et c'est l'une des choses que le système essaie vraiment d'éviter.",
-    "t": 274.42
+    "t": 273.79
    },
    {
     "speaker": "Tom",
     "text": "À ce propos — y a-t-il des services pour des situations plus particulières ?",
-    "t": 277.34
+    "t": 276.71
    },
    {
     "speaker": "Tom",
     "text": "Tout le monde n'a pas les mêmes besoins.",
-    "t": 281.19
+    "t": 280.56
    },
    {
     "speaker": "Anna",
     "text": "Oui, et le site web vous oriente aussi vers des services spécialisés.",
-    "t": 283.34
+    "t": 282.71
    },
    {
     "speaker": "Anna",
     "text": "Laisse-moi donner quelques exemples.",
-    "t": 286.6
+    "t": 285.97
    },
    {
     "speaker": "Anna",
     "text": "Pour les problèmes de mémoire et la démence, il y a un centre d'information national — l'Info-Zenter Demenz.",
-    "t": 288.32
+    "t": 287.69
    },
    {
     "speaker": "Anna",
     "text": "Et il y a l'association Alzheimer, qui gère même une ligne d'aide, disponible jour et nuit, pour les situations urgentes.",
-    "t": 294.02
+    "t": 293.39
    },
    {
     "speaker": "Tom",
     "text": "Une ligne 24 heures sur 24 pour Alzheimer — c'est tellement important pour les familles en détresse.",
-    "t": 299.88
+    "t": 299.25
    },
    {
     "speaker": "Anna",
     "text": "Ça l'est vraiment.",
-    "t": 305.21
+    "t": 304.58
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, pour le monde numérique — il y a une organisation qui aide les seniors à apprendre à utiliser les ordinateurs et les smartphones, pour qu'ils ne soient pas laissés de côté.",
-    "t": 306.21
+    "t": 305.58
    },
    {
     "speaker": "Anna",
     "text": "Pour la solitude, il y a un service de la Croix-Rouge, où des bénévoles formés rendent régulièrement visite aux personnes isolées.",
-    "t": 314.4
+    "t": 313.77
    },
    {
     "speaker": "Tom",
     "text": "Juste pour leur tenir compagnie.",
-    "t": 320.34
+    "t": 319.71
    },
    {
     "speaker": "Tom",
     "text": "C'est magnifique.",
-    "t": 322.27
+    "t": 321.64
    },
    {
     "speaker": "Anna",
     "text": "Ça l'est. Et pour les moments très difficiles — il y a les soins palliatifs et l'accompagnement en fin de vie, et il y a des informations sur vos droits et vos volontés pour la fin de vie.",
-    "t": 323.53
+    "t": 322.9
    },
    {
     "speaker": "Anna",
     "text": "Donc, le système couvre tout le parcours, avec respect.",
-    "t": 332.74
+    "t": 332.11
    },
    {
     "speaker": "Tom",
     "text": "C'est une approche bienveillante.",
-    "t": 335.64
+    "t": 335.01
    },
    {
     "speaker": "Tom",
     "text": "Et y a-t-il un endroit qui travaille sur le savoir lui-même — la recherche, la formation des personnes qui s'occupent des autres ?",
-    "t": 337.43
+    "t": 336.8
    },
    {
     "speaker": "Anna",
     "text": "Oui. Il y a un centre de compétences sur le vieillissement, appelé GERO, qui existe depuis plus de trente-cinq ans.",
-    "t": 343.97
+    "t": 343.34
    },
    {
     "speaker": "Anna",
     "text": "Il fait trois choses — des activités et de l'apprentissage pour les seniors, la formation continue des professionnels de soins, et la recherche sur le vieillissement.",
-    "t": 348.84
+    "t": 348.21
    },
    {
     "speaker": "Anna",
     "text": "Donc la qualité continue de s'améliorer au fil du temps.",
-    "t": 355.85
+    "t": 355.22
    },
    {
     "speaker": "Tom",
     "text": "Donc, ça n'est pas figé.",
-    "t": 358.61
+    "t": 357.98
    },
    {
     "speaker": "Tom",
     "text": "Bien. Anna, rendons ça très concret.",
-    "t": 360.11
+    "t": 359.48
    },
    {
     "speaker": "Tom",
     "text": "Peut-on prendre un exemple ?",
-    "t": 362.42
+    "t": 361.79
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. Imaginons que ta mère a quatre-vingts ans, qu'elle vit seule, et qu'elle est encore assez autonome — mais que tu commences à t'inquiéter un peu.",
-    "t": 364
+    "t": 363.37
    },
    {
     "speaker": "Tom",
     "text": "Une situation très courante.",
-    "t": 371.07
+    "t": 370.44
    },
    {
     "speaker": "Tom",
     "text": "Alors, qu'est-ce qu'Info-Seniors fait pour moi ?",
-    "t": 372.8
+    "t": 372.17
    },
    {
     "speaker": "Anna",
     "text": "Tu vas sur le site web, et tu regardes ce qui convient.",
-    "t": 375.32
+    "t": 374.69
    },
    {
     "speaker": "Anna",
     "text": "Peut-être, d'abord, juste les repas sur roues, pour qu'elle mange bien tous les jours.",
-    "t": 377.82
+    "t": 377.19
    },
    {
     "speaker": "Anna",
     "text": "Peut-être un bouton de téléassistance, pour la sécurité, au cas où elle tomberait.",
-    "t": 381.46
+    "t": 380.83
    },
    {
     "speaker": "Anna",
     "text": "Peut-être un Club Aktiv Plus à proximité, pour qu'elle voie du monde chaque semaine.",
-    "t": 385.4
+    "t": 384.77
    },
    {
     "speaker": "Tom",
     "text": "Donc, je peux construire une sorte de package — un peu d'aide ici, un peu là — pour la garder chez elle en sécurité.",
-    "t": 389.47
+    "t": 388.84
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Et plus tard, si elle a besoin de plus, tu sais déjà où chercher — un centre de jour quelques jours par semaine, puis plus de soins infirmiers à domicile, et seulement bien plus tard, si nécessaire, une maison de soins.",
-    "t": 395.56
+    "t": 394.93
    },
    {
     "speaker": "Anna",
     "text": "Étape par étape, à son rythme.",
-    "t": 406.15
+    "t": 405.52
    },
    {
     "speaker": "Tom",
     "text": "Et pour chacun, le registre me dit les conditions et les démarches.",
-    "t": 408.2
+    "t": 407.57
    },
    {
     "speaker": "Anna",
     "text": "Pour chacun. Donc, au lieu de paniquer, tu as une carte claire et apaisante.",
-    "t": 411.51
+    "t": 410.88
    },
    {
     "speaker": "Tom",
     "text": "J'aime vraiment ça — une carte claire et apaisante.",
-    "t": 415.1
+    "t": 414.47
    },
    {
     "speaker": "Tom",
     "text": "Et si ma mère ne parle pas beaucoup, ou qu'elle a peur de la technologie ?",
-    "t": 418.03
+    "t": 417.4
    },
    {
     "speaker": "Anna",
     "text": "Alors, le service de compétences numériques peut l'aider à apprendre, en douceur.",
-    "t": 421.42
+    "t": 420.79
    },
    {
     "speaker": "Anna",
     "text": "Ou un bénévole peut lui rendre visite.",
-    "t": 425.3
+    "t": 424.67
    },
    {
     "speaker": "Anna",
     "text": "Le fait est qu'il y a presque toujours quelque chose — il faut juste savoir que ça existe.",
-    "t": 427.25
+    "t": 426.62
    },
    {
     "speaker": "Anna",
     "text": "Et c'est exactement à ça que sert le portail — pour que vous sachiez que ça existe.",
-    "t": 431.32
+    "t": 430.69
    },
    {
     "speaker": "Tom",
     "text": "Maintenant, Anna — une inquiétude pratique.",
-    "t": 435.7
+    "t": 435.07
    },
    {
     "speaker": "Tom",
     "text": "Et si j'ai un problème avec un service ?",
-    "t": 438.26
+    "t": 437.63
    },
    {
     "speaker": "Tom",
     "text": "Ou si je ne sais tout simplement pas à qui m'adresser ?",
-    "t": 440.24
+    "t": 439.61
    },
    {
     "speaker": "Anna",
     "text": "Bonne question. Vous pouvez tout simplement appeler le Senioren-Telefon, au 247-86000, pour vous informer et vous faire conseiller.",
-    "t": 443.03
+    "t": 442.4
    },
    {
     "speaker": "Anna",
     "text": "Et s'il y a un désaccord avec un service, il y a le SIMPA, le service national d'information et de médiation — un endroit neutre qui vous aide à trouver une solution.",
-    "t": 450.51
+    "t": 449.88
    },
    {
     "speaker": "Tom",
     "text": "Donc, on n'est jamais complètement seul avec ça.",
-    "t": 458.6
+    "t": 457.97
    },
    {
     "speaker": "Anna",
     "text": "Jamais. Entre le site web, le registre, et ce service d'information et de médiation, il y a toujours une porte à laquelle frapper.",
-    "t": 461.31
+    "t": 460.68
    },
    {
     "speaker": "Tom",
     "text": "Prenons un peu de recul.",
-    "t": 468.2
+    "t": 467.57
    },
    {
     "speaker": "Tom",
     "text": "Tu as dit que ça fait partie d'une politique plus large.",
-    "t": 469.7
+    "t": 469.07
    },
    {
     "speaker": "Tom",
     "text": "Quelle est la grande idée ?",
-    "t": 472.4
+    "t": 471.77
    },
    {
     "speaker": "Anna",
     "text": "La grande idée, c'est ce qu'on appelle « bien vieillir ».",
-    "t": 473.89
+    "t": 473.26
    },
    {
     "speaker": "Anna",
     "text": "L'État veut que les personnes âgées vivent de la manière la plus autonome possible, le plus longtemps possible — et qu'elles restent une partie de la société, sans être mises de côté.",
-    "t": 476.41
+    "t": 475.78
    },
    {
     "speaker": "Anna",
     "text": "Donc, le travail couvre beaucoup de choses — la préparation à la retraite, l'apprentissage tout au long de la vie, le bénévolat, la lutte contre l'isolement, le monde numérique, et le lien entre les générations.",
-    "t": 485
+    "t": 484.37
    },
    {
     "speaker": "Tom",
     "text": "Relier les générations — les jeunes et les moins jeunes ensemble.",
-    "t": 494.79
+    "t": 494.16
    },
    {
     "speaker": "Anna",
     "text": "Oui. Vieillir, ce n'est pas seulement une question de soins.",
-    "t": 498.69
+    "t": 498.06
    },
    {
     "speaker": "Anna",
     "text": "C'est aussi rester actif, utile, et connecté.",
-    "t": 501.47
+    "t": 500.84
    },
    {
     "speaker": "Anna",
     "text": "Et il y a aussi un soutien financier.",
-    "t": 504.42
+    "t": 503.79
    },
    {
     "speaker": "Anna",
     "text": "Depuis 2026, un dispositif appelé COMPA aide les personnes qui n'ont pas assez d'argent pour payer une maison de soins ou un logement encadré.",
-    "t": 506.34
+    "t": 505.71
    },
    {
     "speaker": "Tom",
     "text": "C'est important — que l'argent ne soit pas l'obstacle à recevoir des soins.",
-    "t": 513.05
+    "t": 512.42
    },
    {
     "speaker": "Tom",
     "text": "D'accord, Anna, rendons ça vraiment pratique.",
-    "t": 516.69
+    "t": 516.06
    },
    {
     "speaker": "Tom",
     "text": "Si j'écoute, et que moi — ou mon parent — pourrait avoir besoin d'aide, qu'est-ce que je fais ?",
-    "t": 518.96
+    "t": 518.33
    },
    {
     "speaker": "Anna",
     "text": "Très simple. Allez sur le site web — infosenior point l-u.",
-    "t": 523.69
+    "t": 523.06
    },
    {
     "speaker": "Anna",
     "text": "Parcourez le Registre public pour trouver des services agréés — une maison de soins, un centre de jour, de l'aide à domicile, des repas, la téléassistance — ce qui correspond au besoin.",
-    "t": 527.01
+    "t": 526.38
    },
    {
     "speaker": "Anna",
     "text": "Pour chacun, vous verrez ce que c'est, les conditions, et les démarches à effectuer.",
-    "t": 536.6
+    "t": 535.97
    },
    {
     "speaker": "Anna",
     "text": "Et si vous n'êtes pas sûr, utilisez le service d'information et de médiation pour être orienté.",
-    "t": 540.45
+    "t": 539.82
    },
    {
     "speaker": "Tom",
     "text": "Et comme c'est officiel, je peux faire confiance à ce que j'y trouve.",
-    "t": 545.16
+    "t": 544.53
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Officiel, gratuit, et contrôlé sur le plan de la qualité.",
-    "t": 548.48
+    "t": 547.85
    },
    {
     "speaker": "Anna",
     "text": "C'est tout l'intérêt.",
-    "t": 552.21
+    "t": 551.58
    },
    {
     "speaker": "Tom",
     "text": "Un petit résumé pour finir ?",
-    "t": 553.52
+    "t": 552.89
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. Info-Seniors, sur infosenior point l-u, est le portail d'information de l'État pour les personnes âgées au Luxembourg.",
-    "t": 555.31
+    "t": 554.68
    },
    {
     "speaker": "Anna",
     "text": "Son cœur, c'est le Registre public des services pour personnes âgées — une liste fiable, mise à jour régulièrement, de services agréés et contrôlés par le ministère.",
-    "t": 561.91
+    "t": 561.28
    },
    {
     "speaker": "Anna",
     "text": "Vous y trouverez des maisons de soins, du logement encadré, des centres de jour, de l'aide et des soins à domicile, des repas sur roues, de la téléassistance, et des activités pour seniors — avec les conditions et les démarches pour chacun.",
-    "t": 570.26
+    "t": 569.63
    },
    {
     "speaker": "Tom",
     "text": "Et le message pour aujourd'hui ?",
-    "t": 582.9
+    "t": 582.27
    },
    {
     "speaker": "Anna",
     "text": "Quand il s'agit de vieillir — pour vous, ou pour un proche — vous n'avez pas à chercher à l'aveugle.",
-    "t": 584.58
+    "t": 583.95
    },
    {
     "speaker": "Anna",
     "text": "Il existe un seul endroit officiel et fiable pour commencer, et il y a de l'aide pour vous guider.",
-    "t": 589.05
+    "t": 588.42
    },
    {
     "speaker": "Tom",
     "text": "Donc... que ce soit pour vous-même, vos parents, ou un voisin — retenez le nom.",
-    "t": 593.42
+    "t": 592.79
    },
    {
     "speaker": "Tom",
     "text": "Info-Seniors. infosenior.lu.",
-    "t": 597.51
+    "t": 596.88
    },
    {
     "speaker": "Anna",
     "text": "Vraiment. Un seul site web, et tout un réseau de soutien derrière.",
-    "t": 600.58
+    "t": 599.95
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur Info-Seniors.",
-    "t": 604.23
+    "t": 603.6
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 606.22
+    "t": 605.59
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 614.1
+    "t": 613.47
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 629.97
+    "t": 629.34
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 634.62
+    "t": 633.99
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 636.4
+    "t": 635.77
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 640.78
+    "t": 640.15
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 642.01
+    "t": 641.38
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 644.47
+    "t": 643.84
    }
   ],
   "segments_de": [
@@ -28028,833 +28028,833 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Anna",
     "text": "Und das Thema von heute betrifft früher oder später fast jede Familie.",
-    "t": 28.21
+    "t": 27.65
    },
    {
     "speaker": "Anna",
     "text": "Es geht ums Älterwerden — und um einen Dienst, der Ihnen hilft, die richtige Unterstützung zu finden.",
-    "t": 32.21
+    "t": 31.65
    },
    {
     "speaker": "Anna",
     "text": "Er heißt Info-Seniors.",
-    "t": 37.95
+    "t": 37.39
    },
    {
     "speaker": "Tom",
     "text": "Info-Seniors. Gut, Anna, fangen wir ganz einfach an.",
-    "t": 39.87
+    "t": 39.31
    },
    {
     "speaker": "Tom",
     "text": "Was ist das?",
-    "t": 43.06
+    "t": 42.5
    },
    {
     "speaker": "Anna",
     "text": "Also, Info-Seniors ist der offizielle Informationsdienst für ältere Menschen in Luxemburg.",
-    "t": 44.16
+    "t": 43.6
    },
    {
     "speaker": "Anna",
     "text": "Sein Zuhause im Internet ist eine Webseite — infosenior Punkt l-u.",
-    "t": 49.87
+    "t": 49.31
    },
    {
     "speaker": "Tom",
     "text": "infosenior.lu. Und wer steckt dahinter?",
-    "t": 55.26
+    "t": 54.7
    },
    {
     "speaker": "Anna",
     "text": "Er wird vom Staat betrieben — vom Familienministerium.",
-    "t": 58.3
+    "t": 57.74
    },
    {
     "speaker": "Anna",
     "text": "Es ist also eine offizielle, öffentliche Quelle.",
-    "t": 62.16
+    "t": 61.6
    },
    {
     "speaker": "Anna",
     "text": "Kein privates Unternehmen, das Ihnen etwas verkaufen will.",
-    "t": 64.99
+    "t": 64.43
    },
    {
     "speaker": "Tom",
     "text": "Gut zu wissen.",
-    "t": 68.41
+    "t": 67.85
    },
    {
     "speaker": "Tom",
     "text": "Und für wen ist das?",
-    "t": 69.5
+    "t": 68.94
    },
    {
     "speaker": "Tom",
     "text": "Nur für die älteren Menschen selbst?",
-    "t": 70.82
+    "t": 70.26
    },
    {
     "speaker": "Anna",
     "text": "Nein, und das ist wichtig.",
-    "t": 72.87
+    "t": 72.31
    },
    {
     "speaker": "Anna",
     "text": "Es ist für Senioren, ja — aber auch für ihre Familien, für die Fachkräfte, die mit ihnen arbeiten, und wirklich für alle Interessierten.",
-    "t": 74.75
+    "t": 74.19
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie sich also um einen älter werdenden Elternteil oder einen Nachbarn sorgen, ist das auch für Sie.",
-    "t": 82.44
+    "t": 81.88
    },
    {
     "speaker": "Tom",
     "text": "Das ist beruhigend.",
-    "t": 88.04
+    "t": 87.48
    },
    {
     "speaker": "Tom",
     "text": "Denn oft sind es die Kinder oder die Familie, die nach Hilfe suchen.",
-    "t": 89.31
+    "t": 88.75
    },
    {
     "speaker": "Anna",
     "text": "Genau. Besonders für Grenzgänger — vielleicht leben Ihre Eltern in einem anderen Land, und Sie möchten verstehen, was es hier gibt.",
-    "t": 92.86
+    "t": 92.3
    },
    {
     "speaker": "Anna",
     "text": "Oder umgekehrt — Sie arbeiten hier und organisieren Hilfe für einen Elternteil in Luxemburg.",
-    "t": 100.48
+    "t": 99.92
    },
    {
     "speaker": "Tom",
     "text": "Also, was findet man eigentlich auf der Webseite?",
-    "t": 106.43
+    "t": 105.87
    },
    {
     "speaker": "Tom",
     "text": "Was ist das Herzstück davon?",
-    "t": 109.31
+    "t": 108.75
    },
    {
     "speaker": "Anna",
     "text": "Das Herzstück ist etwas, das man das Öffentliche Register der Seniorendienste nennt.",
-    "t": 111.16
+    "t": 110.6
    },
    {
     "speaker": "Tom",
     "text": "Ein Register. Das klingt offiziell.",
-    "t": 115.81
+    "t": 115.25
    },
    {
     "speaker": "Tom",
     "text": "Was ist da drin?",
-    "t": 118.23
+    "t": 117.67
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine vollständige, verlässliche Liste der Dienste und Einrichtungen für ältere Menschen in Luxemburg.",
-    "t": 119.49
+    "t": 118.93
    },
    {
     "speaker": "Anna",
     "text": "Für jeden finden Sie ausführliche Informationen — was der Dienst ist, die Bedingungen für die Nutzung, und die Schritte, die Sie unternehmen müssen.",
-    "t": 125.25
+    "t": 124.69
    },
    {
     "speaker": "Tom",
     "text": "Also nicht nur ein Name und eine Telefonnummer.",
-    "t": 133.61
+    "t": 133.05
    },
    {
     "speaker": "Tom",
     "text": "Es sagt mir, wie ich die Hilfe tatsächlich bekomme.",
-    "t": 136.18
+    "t": 135.62
    },
    {
     "speaker": "Anna",
     "text": "Genau. Was es ist, wer es nutzen kann, und wie man anfängt.",
-    "t": 139.06
+    "t": 138.5
    },
    {
     "speaker": "Anna",
     "text": "Das ist der nützliche Teil.",
-    "t": 142.98
+    "t": 142.42
    },
    {
     "speaker": "Tom",
     "text": "Du hast nun „Register\" und „offiziell\" gesagt.",
-    "t": 144.95
+    "t": 144.39
    },
    {
     "speaker": "Tom",
     "text": "Gibt es etwas Besonderes daran, welche Dienste aufgeführt werden?",
-    "t": 148.26
+    "t": 147.7
    },
    {
     "speaker": "Anna",
     "text": "Ja — und das ist wirklich der entscheidende Punkt.",
-    "t": 151.9
+    "t": 151.34
    },
    {
     "speaker": "Anna",
     "text": "Das Register führt nur Dienste auf, die vom Staat anerkannt sind.",
-    "t": 155.01
+    "t": 154.45
    },
    {
     "speaker": "Anna",
     "text": "Auf Französisch sagt man, sie haben einen „agrément\".",
-    "t": 158.61
+    "t": 158.05
    },
    {
     "speaker": "Tom",
     "text": "Einen agrément. Also eine offizielle Zulassung.",
-    "t": 161.83
+    "t": 161.27
    },
    {
     "speaker": "Anna",
     "text": "Richtig. In Luxemburg muss jeder, der älteren Menschen Pflege, Unterkunft, Hilfe oder Begleitung anbietet, diese Anerkennung des Ministeriums haben.",
-    "t": 165.02
+    "t": 164.46
    },
    {
     "speaker": "Anna",
     "text": "Um sie zu bekommen, muss er Qualitätsanforderungen erfüllen.",
-    "t": 174.12
+    "t": 173.56
    },
    {
     "speaker": "Anna",
     "text": "Und das Ministerium führt regelmäßige Kontrollen durch.",
-    "t": 177.63
+    "t": 177.07
    },
    {
     "speaker": "Tom",
     "text": "Wenn also ein Dienst im Register steht...",
-    "t": 180.95
+    "t": 180.39
    },
    {
     "speaker": "Anna",
     "text": "...dann wurde er vom Staat geprüft und anerkannt.",
-    "t": 183.3
+    "t": 182.74
    },
    {
     "speaker": "Anna",
     "text": "Das ist eine echte Qualitätsgarantie.",
-    "t": 186.03
+    "t": 185.47
    },
    {
     "speaker": "Anna",
     "text": "Sie wählen nicht einfach einen Namen zufällig aus dem Internet.",
-    "t": 188.5
+    "t": 187.94
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine wichtige Sache, besonders bei etwas so Sensiblem wie der Pflege eines Elternteils.",
-    "t": 191.98
+    "t": 191.42
    },
    {
     "speaker": "Tom",
     "text": "Und wie aktuell ist dieses Register?",
-    "t": 197.28
+    "t": 196.72
    },
    {
     "speaker": "Anna",
     "text": "Es beruht auf einem Gesetz von 2023, und das Register ist seit dem ersten März 2024 online.",
-    "t": 199.41
+    "t": 198.85
    },
    {
     "speaker": "Anna",
     "text": "Und es wird regelmäßig aktualisiert, damit die Informationen verlässlich und auf dem neuesten Stand bleiben.",
-    "t": 206.56
+    "t": 206
    },
    {
     "speaker": "Tom",
     "text": "Perfekt. Gut, Anna — werden wir konkret.",
-    "t": 212.38
+    "t": 211.82
    },
    {
     "speaker": "Tom",
     "text": "Welche Art von Diensten kann ich dort finden?",
-    "t": 215.72
+    "t": 215.16
    },
    {
     "speaker": "Anna",
     "text": "Eine ganze Bandbreite, für jede Bedarfsstufe.",
-    "t": 218.13
+    "t": 217.57
    },
    {
     "speaker": "Anna",
     "text": "Lass mich die wichtigsten durchgehen.",
-    "t": 221.08
+    "t": 220.52
    },
    {
     "speaker": "Anna",
     "text": "Zuerst — die Pflegeheime, die Wohneinrichtungen, für Menschen, die nicht mehr zu Hause leben können.",
-    "t": 223.13
+    "t": 222.57
    },
    {
     "speaker": "Tom",
     "text": "Gut, das klassische Alters- oder Pflegeheim.",
-    "t": 229.21
+    "t": 228.65
    },
    {
     "speaker": "Anna",
     "text": "Ja. Dann — das betreute Wohnen, wo Sie Ihre eigene Wohnung haben, aber mit Unterstützung und Sicherheit in der Nähe.",
-    "t": 232.07
+    "t": 231.51
    },
    {
     "speaker": "Anna",
     "text": "Dann — die Tagesstätten, wo ein Senior den Tag verbringen kann, mit Aktivitäten und Gesellschaft, und abends nach Hause geht.",
-    "t": 239.92
+    "t": 239.36
    },
    {
     "speaker": "Tom",
     "text": "Ah, das ist schön für jemanden, der noch zu Hause ist, aber nicht den ganzen Tag allein sein sollte.",
-    "t": 247.94
+    "t": 247.38
    },
    {
     "speaker": "Anna",
     "text": "Genau. Und es verschafft auch der Familie eine Verschnaufpause.",
-    "t": 253.31
+    "t": 252.75
    },
    {
     "speaker": "Anna",
     "text": "Dann gibt es die Hilfe zu Hause — Haushaltshilfe, und Pflege, die zu Ihnen kommt.",
-    "t": 257.12
+    "t": 256.56
    },
    {
     "speaker": "Anna",
     "text": "Es gibt „Essen auf Rädern\" — warme Mahlzeiten, die an Ihre Tür geliefert werden.",
-    "t": 262.19
+    "t": 261.63
    },
    {
     "speaker": "Tom",
     "text": "Essen auf Rädern.",
-    "t": 267.29
+    "t": 266.73
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine schöne, praktische Sache.",
-    "t": 268.68
+    "t": 268.12
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt die Notrufhilfe — manchmal Telealarm genannt.",
-    "t": 270.92
+    "t": 270.36
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein kleines Gerät, oft ein Knopf, den Sie tragen, mit dem Sie sofort um Hilfe rufen können, wenn Sie stürzen oder sich unwohl fühlen.",
-    "t": 274.95
+    "t": 274.39
    },
    {
     "speaker": "Tom",
     "text": "Sie können also zu Hause bleiben, aber mit einem Sicherheitsnetz.",
-    "t": 282.89
+    "t": 282.33
    },
    {
     "speaker": "Tom",
     "text": "Das gibt echte Sicherheit und Ruhe.",
-    "t": 286.53
+    "t": 285.97
    },
    {
     "speaker": "Anna",
     "text": "Das ist die Idee.",
-    "t": 288.65
+    "t": 288.09
    },
    {
     "speaker": "Anna",
     "text": "Das Ziel von all dem — und das ist das Ziel der gesamten nationalen Politik — ist es, den Menschen zu ermöglichen, so lange wie möglich selbstständig zu Hause zu bleiben.",
-    "t": 289.92
+    "t": 289.36
    },
    {
     "speaker": "Tom",
     "text": "Und du hast auch Aktivitäten erwähnt?",
-    "t": 300.21
+    "t": 299.65
    },
    {
     "speaker": "Anna",
     "text": "Ja. Über die Pflege hinaus gibt es Aktivitäten für Senioren — um aktiv zu bleiben, zu lernen, und Menschen zu treffen.",
-    "t": 302.55
+    "t": 301.99
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispiel gibt es die Clubs Aktiv Plus, die Seniorenclubs im ganzen Land, wo ältere Menschen sich treffen, Aktivitäten machen, und in Verbindung bleiben.",
-    "t": 310.03
+    "t": 309.47
    },
    {
     "speaker": "Tom",
     "text": "Weil aktiv und gesellig zu bleiben ein Teil davon ist, gesund zu bleiben.",
-    "t": 319.74
+    "t": 319.18
    },
    {
     "speaker": "Anna",
     "text": "Völlig richtig. Einsamkeit ist ein echtes Risiko, wenn wir älter werden.",
-    "t": 323.97
+    "t": 323.41
    },
    {
     "speaker": "Anna",
     "text": "Und das ist eine der Sachen, die das System mit aller Kraft zu verhindern versucht.",
-    "t": 328.49
+    "t": 327.93
    },
    {
     "speaker": "Tom",
     "text": "Apropos — gibt es Dienste für speziellere Situationen?",
-    "t": 332.81
+    "t": 332.25
    },
    {
     "speaker": "Tom",
     "text": "Nicht jeder hat die gleichen Bedürfnisse.",
-    "t": 336.36
+    "t": 335.8
    },
    {
     "speaker": "Anna",
     "text": "Ja, und die Webseite verweist Sie auch auf spezialisierte Dienste.",
-    "t": 338.54
+    "t": 337.98
    },
    {
     "speaker": "Anna",
     "text": "Lass mich ein paar Beispiele geben.",
-    "t": 342.36
+    "t": 341.8
    },
    {
     "speaker": "Anna",
     "text": "Für Gedächtnisprobleme und Demenz gibt es ein nationales Informationszentrum — das Info-Zenter Demenz.",
-    "t": 344.24
+    "t": 343.68
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt den Alzheimer-Verein, der sogar eine Hilfeleitung betreibt, rund um die Uhr verfügbar, für dringende Situationen.",
-    "t": 350.98
+    "t": 350.42
    },
    {
     "speaker": "Tom",
     "text": "Eine 24-Stunden-Leitung für Alzheimer — das ist so wichtig für Familien in Not.",
-    "t": 357.57
+    "t": 357.01
    },
    {
     "speaker": "Anna",
     "text": "Das ist es wirklich.",
-    "t": 362.71
+    "t": 362.15
    },
    {
     "speaker": "Anna",
     "text": "Dann, für die digitale Welt — es gibt eine Organisation, die Senioren hilft, den Umgang mit Computern und Smartphones zu lernen, damit sie nicht abgehängt werden.",
-    "t": 364.04
+    "t": 363.48
    },
    {
     "speaker": "Anna",
     "text": "Gegen die Einsamkeit gibt es einen Dienst des Roten Kreuzes, bei dem geschulte Freiwillige regelmäßig isolierte Menschen besuchen.",
-    "t": 373.45
+    "t": 372.89
    },
    {
     "speaker": "Tom",
     "text": "Einfach, um ihnen Gesellschaft zu leisten.",
-    "t": 380.69
+    "t": 380.13
    },
    {
     "speaker": "Tom",
     "text": "Das ist wunderschön.",
-    "t": 382.94
+    "t": 382.38
    },
    {
     "speaker": "Anna",
     "text": "Das ist es.",
-    "t": 384.36
+    "t": 383.8
    },
    {
     "speaker": "Anna",
     "text": "Und für sehr schwierige Momente — es gibt die Palliativpflege und die Begleitung am Lebensende, und es gibt Informationen über Ihre Rechte und Wünsche für das Lebensende.",
-    "t": 385.44
+    "t": 384.88
    },
    {
     "speaker": "Anna",
     "text": "Das System deckt also den ganzen Weg ab, mit Respekt.",
-    "t": 396.25
+    "t": 395.69
    },
    {
     "speaker": "Tom",
     "text": "Das ist ein fürsorglicher Ansatz.",
-    "t": 399.91
+    "t": 399.35
    },
    {
     "speaker": "Tom",
     "text": "Und gibt es einen Ort, der am Wissen selbst arbeitet — Forschung, Ausbildung für die Menschen, die pflegen?",
-    "t": 402.03
+    "t": 401.47
    },
    {
     "speaker": "Anna",
     "text": "Ja. Es gibt ein Kompetenzzentrum für das Altern, GERO, das seit mehr als fünfunddreißig Jahren besteht.",
-    "t": 408.04
+    "t": 407.48
    },
    {
     "speaker": "Anna",
     "text": "Es macht drei Dinge — Aktivitäten und Lernen für Senioren, Weiterbildung für Pflegefachkräfte, und Forschung über das Altern.",
-    "t": 415
+    "t": 414.44
    },
    {
     "speaker": "Anna",
     "text": "So verbessert sich die Qualität im Laufe der Zeit immer weiter.",
-    "t": 423.15
+    "t": 422.59
    },
    {
     "speaker": "Tom",
     "text": "Es bleibt also nicht stehen.",
-    "t": 426.75
+    "t": 426.19
    },
    {
     "speaker": "Tom",
     "text": "Gut. Anna, machen wir das ganz greifbar.",
-    "t": 428.37
+    "t": 427.81
    },
    {
     "speaker": "Tom",
     "text": "Können wir ein Beispiel nehmen?",
-    "t": 431.53
+    "t": 430.97
    },
    {
     "speaker": "Anna",
     "text": "Natürlich. Stellen wir uns vor, deine Mutter ist achtzig, sie lebt allein, und sie ist noch ziemlich selbstständig — aber du fängst an, dir ein wenig Sorgen zu machen.",
-    "t": 433.16
+    "t": 432.6
    },
    {
     "speaker": "Tom",
     "text": "Eine sehr häufige Situation.",
-    "t": 442.47
+    "t": 441.91
    },
    {
     "speaker": "Tom",
     "text": "Was macht Info-Seniors also für mich?",
-    "t": 444.43
+    "t": 443.87
    },
    {
     "speaker": "Anna",
     "text": "Du gehst auf die Webseite, und du schaust dir an, was passt.",
-    "t": 446.66
+    "t": 446.1
    },
    {
     "speaker": "Anna",
     "text": "Vielleicht, zuerst, einfach Essen auf Rädern, damit sie jeden Tag gut isst.",
-    "t": 449.55
+    "t": 448.99
    },
    {
     "speaker": "Anna",
     "text": "Vielleicht einen Notrufknopf, zur Sicherheit, falls sie stürzt.",
-    "t": 454.76
+    "t": 454.2
    },
    {
     "speaker": "Anna",
     "text": "Vielleicht einen Club Aktiv Plus in der Nähe, damit sie jede Woche Menschen sieht.",
-    "t": 458.39
+    "t": 457.83
    },
    {
     "speaker": "Tom",
     "text": "Ich kann also eine Art Paket zusammenstellen — ein bisschen Hilfe hier, ein bisschen dort — um sie sicher zu Hause zu halten.",
-    "t": 462.65
+    "t": 462.09
    },
    {
     "speaker": "Anna",
     "text": "Genau. Und später, wenn sie mehr braucht, weißt du schon, wo du suchen musst — eine Tagesstätte ein paar Tage pro Woche, dann mehr häusliche Pflege, und erst viel später, falls nötig, ein Pflegeheim.",
-    "t": 470.1
+    "t": 469.54
    },
    {
     "speaker": "Anna",
     "text": "Schritt für Schritt, in ihrem Tempo.",
-    "t": 481.71
+    "t": 481.15
    },
    {
     "speaker": "Tom",
     "text": "Und für jeden davon sagt mir das Register die Bedingungen und die Schritte.",
-    "t": 484.03
+    "t": 483.47
    },
    {
     "speaker": "Anna",
     "text": "Für jeden einzelnen.",
-    "t": 488.02
+    "t": 487.46
    },
    {
     "speaker": "Anna",
     "text": "Statt in Panik zu geraten, hast du also eine ruhige, klare Landkarte.",
-    "t": 489.47
+    "t": 488.91
    },
    {
     "speaker": "Tom",
     "text": "Das gefällt mir wirklich — eine ruhige, klare Landkarte.",
-    "t": 493.78
+    "t": 493.22
    },
    {
     "speaker": "Tom",
     "text": "Und wenn meine Mutter nicht viel spricht, oder Angst vor der Technik hat?",
-    "t": 497.53
+    "t": 496.97
    },
    {
     "speaker": "Anna",
     "text": "Dann kann der Dienst für digitale Kompetenzen ihr helfen, sanft zu lernen.",
-    "t": 501.13
+    "t": 500.57
    },
    {
     "speaker": "Anna",
     "text": "Oder ein Freiwilliger kann sie besuchen.",
-    "t": 505.63
+    "t": 505.07
    },
    {
     "speaker": "Anna",
     "text": "Der Punkt ist, es gibt fast immer etwas — man muss nur wissen, dass es existiert.",
-    "t": 507.92
+    "t": 507.36
    },
    {
     "speaker": "Anna",
     "text": "Und genau dafür ist das Portal da — damit Sie wissen, dass es existiert.",
-    "t": 512.92
+    "t": 512.36
    },
    {
     "speaker": "Tom",
     "text": "Nun, Anna — eine praktische Sorge.",
-    "t": 517.75
+    "t": 517.19
    },
    {
     "speaker": "Tom",
     "text": "Was, wenn ich ein Problem mit einem Dienst habe?",
-    "t": 520.23
+    "t": 519.67
    },
    {
     "speaker": "Tom",
     "text": "Oder ich einfach nicht weiß, wen ich fragen soll?",
-    "t": 522.57
+    "t": 522.01
    },
    {
     "speaker": "Anna",
     "text": "Gute Frage. Sie können einfach das Senioren-Telefon anrufen, 247-86000, für Information und Beratung.",
-    "t": 525.02
+    "t": 524.46
    },
    {
     "speaker": "Anna",
     "text": "Und wenn es eine Meinungsverschiedenheit mit einem Dienst gibt, gibt es SIMPA, den nationalen Informations- und Vermittlungsdienst — einen neutralen Ort, der Ihnen hilft, eine Lösung zu finden.",
-    "t": 533.73
+    "t": 533.17
    },
    {
     "speaker": "Tom",
     "text": "Man ist damit also nie ganz allein.",
-    "t": 544.58
+    "t": 544.02
    },
    {
     "speaker": "Anna",
     "text": "Nie. Zwischen der Webseite, dem Register, und diesem Informations- und Vermittlungsdienst gibt es immer eine Tür, an die man klopfen kann.",
-    "t": 546.81
+    "t": 546.25
    },
    {
     "speaker": "Tom",
     "text": "Treten wir einen Moment einen Schritt zurück.",
-    "t": 554.98
+    "t": 554.42
    },
    {
     "speaker": "Tom",
     "text": "Du hast gesagt, das ist Teil einer größeren Politik.",
-    "t": 557.31
+    "t": 556.75
    },
    {
     "speaker": "Tom",
     "text": "Was ist die große Idee?",
-    "t": 560.52
+    "t": 559.96
    },
    {
     "speaker": "Anna",
     "text": "Die große Idee ist das, was man „gutes Altern\" nennt.",
-    "t": 562.08
+    "t": 561.52
    },
    {
     "speaker": "Anna",
     "text": "Der Staat möchte, dass ältere Menschen so selbstständig wie möglich leben, so lange wie möglich — und ein Teil der Gesellschaft bleiben, nicht an den Rand gedrängt werden.",
-    "t": 565.6
+    "t": 565.04
    },
    {
     "speaker": "Anna",
     "text": "Die Arbeit deckt also viele Dinge ab — die Vorbereitung auf den Ruhestand, das lebenslange Lernen, das Ehrenamt, den Kampf gegen die Vereinsamung, die digitale Welt, und die Verbindung der Generationen.",
-    "t": 574.41
+    "t": 573.85
    },
    {
     "speaker": "Tom",
     "text": "Die Generationen verbinden — Jung und Alt zusammen.",
-    "t": 586.36
+    "t": 585.8
    },
    {
     "speaker": "Anna",
     "text": "Ja. Beim Altern geht es nicht nur um Pflege.",
-    "t": 589.74
+    "t": 589.18
    },
    {
     "speaker": "Anna",
     "text": "Es geht auch darum, aktiv, nützlich und verbunden zu bleiben.",
-    "t": 592.74
+    "t": 592.18
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt auch finanzielle Unterstützung.",
-    "t": 596.5
+    "t": 595.94
    },
    {
     "speaker": "Anna",
     "text": "Seit 2026 hilft ein Programm namens COMPA Menschen, die nicht genug Geld haben, um ein Pflegeheim oder betreutes Wohnen zu bezahlen.",
-    "t": 598.81
+    "t": 598.25
    },
    {
     "speaker": "Tom",
     "text": "Das ist wichtig — dass Geld nicht das Hindernis sein sollte, um Pflege zu bekommen.",
-    "t": 607.26
+    "t": 606.7
    },
    {
     "speaker": "Tom",
     "text": "Gut, Anna, machen wir es ganz praktisch.",
-    "t": 611.75
+    "t": 611.19
    },
    {
     "speaker": "Tom",
     "text": "Wenn ich zuhöre, und ich — oder mein Elternteil — vielleicht Hilfe brauche, was mache ich?",
-    "t": 614.28
+    "t": 613.72
    },
    {
     "speaker": "Anna",
     "text": "Ganz einfach. Gehen Sie auf die Webseite — infosenior Punkt l-u.",
-    "t": 620.18
+    "t": 619.62
    },
    {
     "speaker": "Anna",
     "text": "Durchsuchen Sie das Öffentliche Register, um anerkannte Dienste zu finden — ein Pflegeheim, eine Tagesstätte, Hilfe zu Hause, Mahlzeiten, Notrufhilfe — was auch immer zum Bedarf passt.",
-    "t": 625.22
+    "t": 624.66
    },
    {
     "speaker": "Anna",
     "text": "Für jeden sehen Sie, was es ist, die Bedingungen, und die Schritte, die zu unternehmen sind.",
-    "t": 637.58
+    "t": 637.02
    },
    {
     "speaker": "Anna",
     "text": "Und wenn Sie sich nicht sicher sind, nutzen Sie den Informations- und Vermittlungsdienst, um sich orientieren zu lassen.",
-    "t": 642.41
+    "t": 641.85
    },
    {
     "speaker": "Tom",
     "text": "Und weil es offiziell ist, kann ich dem, was ich dort finde, vertrauen.",
-    "t": 648.72
+    "t": 648.16
    },
    {
     "speaker": "Anna",
     "text": "Genau. Offiziell, kostenlos, und qualitätsgeprüft.",
-    "t": 652.5
+    "t": 651.94
    },
    {
     "speaker": "Anna",
     "text": "Darum geht es im Kern.",
-    "t": 656.54
+    "t": 655.98
    },
    {
     "speaker": "Tom",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 658.18
+    "t": 657.62
    },
    {
     "speaker": "Anna",
     "text": "Klar. Info-Seniors, auf infosenior Punkt l-u, ist das Informationsportal des Staates für ältere Menschen in Luxemburg.",
-    "t": 660.43
+    "t": 659.87
    },
    {
     "speaker": "Anna",
     "text": "Sein Herzstück ist das Öffentliche Register der Seniorendienste — eine verlässliche, regelmäßig aktualisierte Liste von Diensten, die vom Ministerium anerkannt und geprüft sind.",
-    "t": 668.59
+    "t": 668.03
    },
    {
     "speaker": "Anna",
     "text": "Sie finden Pflegeheime, betreutes Wohnen, Tagesstätten, häusliche Hilfe und Pflege, Essen auf Rädern, Notrufhilfe, und Aktivitäten für Senioren — mit den Bedingungen und den Schritten für jeden einzelnen.",
-    "t": 678.9
+    "t": 678.34
    },
    {
     "speaker": "Tom",
     "text": "Und die Botschaft für heute?",
-    "t": 692.59
+    "t": 692.03
    },
    {
     "speaker": "Anna",
     "text": "Wenn es ums Älterwerden geht — Ihres oder das eines geliebten Menschen — müssen Sie nicht blind suchen.",
-    "t": 694.21
+    "t": 693.65
    },
    {
     "speaker": "Anna",
     "text": "Es gibt einen einzigen offiziellen, vertrauenswürdigen Ort, um anzufangen, und es gibt Hilfe, die Sie begleitet.",
-    "t": 700.24
+    "t": 699.68
    },
    {
     "speaker": "Tom",
     "text": "Also... ob für Sie selbst, Ihre Eltern, oder einen Nachbarn — merken Sie sich den Namen.",
-    "t": 706.28
+    "t": 705.72
    },
    {
     "speaker": "Tom",
     "text": "Info-Seniors. infosenior.lu.",
-    "t": 712.08
+    "t": 711.52
    },
    {
     "speaker": "Anna",
     "text": "Wirklich. Eine Webseite, und ein ganzes Netz an Unterstützung dahinter.",
-    "t": 715.73
+    "t": 715.17
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über Info-Seniors.",
-    "t": 720.37
+    "t": 719.81
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 722.9
+    "t": 722.34
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 731.66
+    "t": 731.1
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 749.51
+    "t": 748.95
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 755.21
+    "t": 754.65
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 757.46
+    "t": 756.9
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 762.35
+    "t": 761.79
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 763.5
+    "t": 762.94
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 766.71
+    "t": 766.15
    }
   ],
   "segments_lb": [
@@ -29245,7 +29245,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_infosenior_fr.mp3",
-  "duration_fr": 646.24,
+  "duration_fr": 645.62,
   "title_fr": "Info-Seniors – trouver la bonne aide pour les personnes âgées",
   "description_fr": "Le portail d'information officiel de l'État pour les personnes âgées au Luxembourg, infosenior.lu, géré par le ministère de la Famille. En son cœur : le Registre public des services pour personnes âgées, agréés et contrôlés en qualité — maisons de soins, logement encadré, accueil de jour, aide à domicile, repas sur roues, télévigilance et activités. Qui il aide et comment, ainsi qu'un soutien autour de la démence, de l'isolement et de la médiation, et vers qui se tourner pour trouver la bonne aide pour un proche.",
   "topics_fr": [
@@ -29316,7 +29316,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_infosenior_de.mp3",
-  "duration_de": 768.26,
+  "duration_de": 767.69,
   "title_de": "Info-Seniors – die richtige Hilfe für ältere Menschen finden",
   "description_de": "Das offizielle Informationsportal des Staates für ältere Menschen in Luxemburg, infosenior.lu, betrieben vom Familienministerium. Im Mittelpunkt steht das Öffentliche Register der Seniorendienste, die zugelassen und auf Qualität geprüft sind — Pflegeheime, betreutes Wohnen, Tagesbetreuung, Haushaltshilfe, Essen auf Rädern, Telealarm und Aktivitäten. Wem es hilft und wie, dazu Unterstützung rund um Demenz, Isolation und Mediation, und an wen Sie sich wenden, um die richtige Hilfe für einen Angehörigen zu finden.",
   "topics_de": [
@@ -30581,1098 +30581,1098 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et le sujet d'aujourd'hui en touche un qui nous concerne tous, tôt ou tard.",
-    "t": 23.73
+    "t": 23.07
    },
    {
     "speaker": "Tom",
     "text": "Il s'agit de l'accessibilité.",
-    "t": 28.31
+    "t": 27.65
    },
    {
     "speaker": "Anna",
     "text": "L'accessibilité. D'accord, Tom — c'est un grand mot.",
-    "t": 30.36
+    "t": 29.7
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que ça veut dire, au juste ?",
-    "t": 33.8
+    "t": 33.14
    },
    {
     "speaker": "Tom",
     "text": "Bonne question. L'accessibilité, c'est rendre le monde utilisable par tout le monde — y compris les personnes en situation de handicap.",
-    "t": 35.71
+    "t": 35.05
    },
    {
     "speaker": "Tom",
     "text": "Une personne en fauteuil roulant, une personne qui voit mal, une personne qui entend mal, une personne âgée un peu plus lente qu'avant.",
-    "t": 42.8
+    "t": 42.14
    },
    {
     "speaker": "Anna",
     "text": "Donc il s'agit de supprimer les obstacles.",
-    "t": 49.64
+    "t": 48.98
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et voici l'idée clé — et elle vient de l'Organisation mondiale de la santé.",
-    "t": 51.87
+    "t": 51.21
    },
    {
     "speaker": "Tom",
     "text": "Le handicap n'est pas seulement un problème de santé.",
-    "t": 56.61
+    "t": 55.95
    },
    {
     "speaker": "Tom",
     "text": "Il naît de la rencontre entre une personne et le monde qui l'entoure.",
-    "t": 59.33
+    "t": 58.67
    },
    {
     "speaker": "Tom",
     "text": "Si le monde est mal construit, c'est lui qui rend la personne handicapée.",
-    "t": 62.48
+    "t": 61.82
    },
    {
     "speaker": "Tom",
     "text": "Si le monde est bien construit, l'obstacle disparaît.",
-    "t": 66.35
+    "t": 65.69
    },
    {
     "speaker": "Anna",
     "text": "Ah, j'aime bien ça.",
-    "t": 69.48
+    "t": 68.82
    },
    {
     "speaker": "Anna",
     "text": "Donc le problème n'est pas toujours la personne — c'est souvent le bâtiment, ou le site internet, ou la machine.",
-    "t": 70.81
+    "t": 70.15
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et c'est pour ça que le Luxembourg a créé un endroit officiel en ligne pour tout rassembler — un site internet qui s'appelle accessibilite point l-u.",
-    "t": 75.54
+    "t": 74.88
    },
    {
     "speaker": "Anna",
     "text": "accessibilite.lu. Et qui est derrière ce site ?",
-    "t": 84.5
+    "t": 83.84
    },
    {
     "speaker": "Tom",
     "text": "C'est l'État — le Gouvernement du Luxembourg.",
-    "t": 87.85
+    "t": 87.19
    },
    {
     "speaker": "Tom",
     "text": "Donc ce sont des informations officielles et publiques.",
-    "t": 90.4
+    "t": 89.74
    },
    {
     "speaker": "Tom",
     "text": "Et le site est une sorte de porte d'entrée, qui ouvre sur trois grands domaines.",
-    "t": 93.29
+    "t": 92.63
    },
    {
     "speaker": "Anna",
     "text": "Trois domaines. D'accord, prenons-les un par un.",
-    "t": 97.41
+    "t": 96.75
    },
    {
     "speaker": "Anna",
     "text": "Quel est le premier ?",
-    "t": 99.78
+    "t": 99.12
    },
    {
     "speaker": "Tom",
     "text": "Le premier, c'est l'accessibilité numérique.",
-    "t": 100.98
+    "t": 100.32
    },
    {
     "speaker": "Tom",
     "text": "Ça concerne les sites internet et les applications mobiles.",
-    "t": 103.61
+    "t": 102.95
    },
    {
     "speaker": "Tom",
     "text": "Les rendre utilisables pour les personnes en situation de handicap.",
-    "t": 106.9
+    "t": 106.24
    },
    {
     "speaker": "Anna",
     "text": "Donc, le monde en ligne.",
-    "t": 110.8
+    "t": 110.14
    },
    {
     "speaker": "Tom",
     "text": "Oui. Pensez-y — aujourd'hui, on fait tellement de choses en ligne.",
-    "t": 112.31
+    "t": 111.65
    },
    {
     "speaker": "Tom",
     "text": "On vérifie ses impôts, on prend un rendez-vous, on lit les actualités.",
-    "t": 115.75
+    "t": 115.09
    },
    {
     "speaker": "Tom",
     "text": "Maintenant, imaginez que vous êtes aveugle, et que vous utilisez un lecteur d'écran — un programme qui lit la page à voix haute.",
-    "t": 119.34
+    "t": 118.68
    },
    {
     "speaker": "Tom",
     "text": "Si le site est mal construit, le lecteur d'écran se perd, et vous êtes bloqué.",
-    "t": 125.79
+    "t": 125.13
    },
    {
     "speaker": "Anna",
     "text": "Et vous ne pouvez pas faire la chose simple que tous les autres font facilement.",
-    "t": 130.11
+    "t": 129.45
    },
    {
     "speaker": "Tom",
     "text": "C'est ça. Alors le Luxembourg a adopté une loi — celle du 28 mai 2019.",
-    "t": 133.67
+    "t": 133.01
    },
    {
     "speaker": "Tom",
     "text": "Et elle dit que les sites internet et les applications du secteur public — l'État, les communes, les organismes publics — doivent être accessibles.",
-    "t": 138.51
+    "t": 137.85
    },
    {
     "speaker": "Anna",
     "text": "Donc les sites officiels et publics ont le devoir d'être utilisables par tout le monde.",
-    "t": 146.74
+    "t": 146.08
    },
    {
     "speaker": "Tom",
     "text": "Ils ont un devoir légal.",
-    "t": 150.64
+    "t": 149.98
    },
    {
     "speaker": "Tom",
     "text": "Et il y a une façon simple de retenir ce que veut dire « accessible » ici.",
-    "t": 152.25
+    "t": 151.59
    },
    {
     "speaker": "Tom",
     "text": "Quatre mots. Le contenu doit être perceptible, utilisable, compréhensible et robuste.",
-    "t": 156.29
+    "t": 155.63
    },
    {
     "speaker": "Anna",
     "text": "Décortiquons-les, lentement.",
-    "t": 162.11
+    "t": 161.45
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Perceptible — vous pouvez le percevoir.",
-    "t": 163.94
+    "t": 163.28
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, chaque image a une description textuelle, pour qu'un lecteur d'écran puisse la décrire.",
-    "t": 167.12
+    "t": 166.46
    },
    {
     "speaker": "Tom",
     "text": "Utilisable — vous pouvez vous en servir.",
-    "t": 171.98
+    "t": 171.32
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, vous pouvez parcourir tout le site avec juste un clavier, et pas seulement une souris.",
-    "t": 174.38
+    "t": 173.72
    },
    {
     "speaker": "Anna",
     "text": "Parce que certaines personnes ne peuvent pas utiliser de souris.",
-    "t": 179.32
+    "t": 178.66
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Compréhensible — la page se comporte de façon claire et prévisible, et vous aide à corriger vos erreurs.",
-    "t": 182.22
+    "t": 181.56
    },
    {
     "speaker": "Tom",
     "text": "Et robuste — elle fonctionne avec les technologies d'assistance, aujourd'hui et demain.",
-    "t": 188.6
+    "t": 187.94
    },
    {
     "speaker": "Anna",
     "text": "Perceptible, utilisable, compréhensible, robuste.",
-    "t": 193.24
+    "t": 192.58
    },
    {
     "speaker": "Anna",
     "text": "C'est une belle liste à cocher.",
-    "t": 196.78
+    "t": 196.12
    },
    {
     "speaker": "Anna",
     "text": "Et comment savoir si un site respecte vraiment les règles ?",
-    "t": 198.44
+    "t": 197.78
    },
    {
     "speaker": "Tom",
     "text": "Chaque site public doit publier ce qu'on appelle une déclaration d'accessibilité.",
-    "t": 201.21
+    "t": 200.55
    },
    {
     "speaker": "Tom",
     "text": "C'est une déclaration honnête qui dit — nous sommes pleinement conformes, partiellement conformes, ou non conformes.",
-    "t": 205.25
+    "t": 204.59
    },
    {
     "speaker": "Tom",
     "text": "Et elle énumère les problèmes qui existent encore.",
-    "t": 211.47
+    "t": 210.81
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est transparent.",
-    "t": 214.19
+    "t": 213.53
    },
    {
     "speaker": "Anna",
     "text": "Ils doivent reconnaître ce qui n'est pas encore parfait.",
-    "t": 215.34
+    "t": 214.68
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et — c'est important — si vous trouvez un problème, vous pouvez vous plaindre.",
-    "t": 217.79
+    "t": 217.13
    },
    {
     "speaker": "Tom",
     "text": "Chaque site doit vous donner un moyen de signaler un obstacle.",
-    "t": 222.67
+    "t": 222.01
    },
    {
     "speaker": "Tom",
     "text": "Ils doivent vous répondre, normalement dans un délai d'un mois.",
-    "t": 225.71
+    "t": 225.05
    },
    {
     "speaker": "Tom",
     "text": "Et si vous n'êtes pas satisfait, vous pouvez vous tourner vers le service information de l'État, ou même vers l'ombudsman — le médiateur.",
-    "t": 228.75
+    "t": 228.09
    },
    {
     "speaker": "Anna",
     "text": "Donc vous n'êtes pas impuissant.",
-    "t": 235.28
+    "t": 234.62
    },
    {
     "speaker": "Anna",
     "text": "Si un site public vous bloque, il y a une porte à laquelle frapper.",
-    "t": 236.74
+    "t": 236.08
    },
    {
     "speaker": "Tom",
     "text": "Toujours. C'est tout l'intérêt.",
-    "t": 239.75
+    "t": 239.09
    },
    {
     "speaker": "Tom",
     "text": "Bon — on passe au deuxième domaine ?",
-    "t": 241.67
+    "t": 241.01
    },
    {
     "speaker": "Anna",
     "text": "Oui, s'il te plaît.",
-    "t": 243.35
+    "t": 242.69
    },
    {
     "speaker": "Anna",
     "text": "On a fait le monde numérique.",
-    "t": 244.51
+    "t": 243.85
    },
    {
     "speaker": "Anna",
     "text": "C'est quoi la suite ?",
-    "t": 245.98
+    "t": 245.32
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième domaine, c'est l'infrastructure.",
-    "t": 247.25
+    "t": 246.59
    },
    {
     "speaker": "Tom",
     "text": "Ça concerne le monde physique — les bâtiments, les espaces publics et les rues.",
-    "t": 249.44
+    "t": 248.78
    },
    {
     "speaker": "Anna",
     "text": "Ah, le monde en béton.",
-    "t": 253.56
+    "t": 252.9
    },
    {
     "speaker": "Anna",
     "text": "Les rampes, les portes, les ascenseurs.",
-    "t": 255
+    "t": 254.34
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Pouvez-vous entrer dans le bâtiment ?",
-    "t": 257.46
+    "t": 256.8
    },
    {
     "speaker": "Tom",
     "text": "Y a-t-il une rampe en plus des marches ?",
-    "t": 260.06
+    "t": 259.4
    },
    {
     "speaker": "Tom",
     "text": "La porte est-elle assez large pour un fauteuil roulant ?",
-    "t": 262
+    "t": 261.34
    },
    {
     "speaker": "Tom",
     "text": "Y a-t-il un ascenseur ?",
-    "t": 264.51
+    "t": 263.85
    },
    {
     "speaker": "Tom",
     "text": "Y a-t-il des choses pour aider une personne aveugle à trouver son chemin ?",
-    "t": 265.94
+    "t": 265.28
    },
    {
     "speaker": "Anna",
     "text": "Et y a-t-il une loi pour ça aussi ?",
-    "t": 269.41
+    "t": 268.75
    },
    {
     "speaker": "Tom",
     "text": "Il y en a une.",
-    "t": 271.38
+    "t": 270.72
    },
    {
     "speaker": "Tom",
     "text": "C'est la loi du 7 janvier 2022, et elle est entrée en vigueur le 1er juillet 2023.",
-    "t": 272.53
+    "t": 271.87
    },
    {
     "speaker": "Tom",
     "text": "Et elle repose sur une belle idée appelée la conception universelle.",
-    "t": 277.78
+    "t": 277.12
    },
    {
     "speaker": "Anna",
     "text": "La conception universelle.",
-    "t": 281.45
+    "t": 280.79
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que ça veut dire ?",
-    "t": 283.11
+    "t": 282.45
    },
    {
     "speaker": "Tom",
     "text": "Ça veut dire concevoir un lieu, dès le tout début, pour que tout le monde puisse l'utiliser.",
-    "t": 284.49
+    "t": 283.83
    },
    {
     "speaker": "Tom",
     "text": "Pas une entrée latérale spéciale pour certains, et l'entrée principale pour les autres.",
-    "t": 289.11
+    "t": 288.45
    },
    {
     "speaker": "Tom",
     "text": "Un seul lieu, qui fonctionne pour tous.",
-    "t": 293.43
+    "t": 292.77
    },
    {
     "speaker": "Anna",
     "text": "Donc au lieu de construire un obstacle et de le corriger plus tard...",
-    "t": 295.82
+    "t": 295.16
    },
    {
     "speaker": "Tom",
     "text": "...on le construit bien du premier coup.",
-    "t": 298.79
+    "t": 298.13
    },
    {
     "speaker": "Tom",
     "text": "Et voici l'astuce — en réalité, ça coûte moins cher.",
-    "t": 300.67
+    "t": 300.01
    },
    {
     "speaker": "Tom",
     "text": "Les Nations Unies le disent : si vous concevez pour tout le monde dès le départ, ça coûte bien moins cher que de retirer des obstacles d'un bâtiment déjà terminé.",
-    "t": 303.67
+    "t": 303.01
    },
    {
     "speaker": "Anna",
     "text": "C'est tout à fait logique.",
-    "t": 312.17
+    "t": 311.51
    },
    {
     "speaker": "Anna",
     "text": "C'est plus difficile et plus cher d'ajouter un ascenseur à un vieux bâtiment que de le prévoir dès le premier jour.",
-    "t": 313.52
+    "t": 312.86
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et la nouvelle loi va plus loin que l'ancienne.",
-    "t": 318.23
+    "t": 317.57
    },
    {
     "speaker": "Tom",
     "text": "Elle ne concerne pas seulement les bâtiments publics.",
-    "t": 321.46
+    "t": 320.8
    },
    {
     "speaker": "Tom",
     "text": "Elle couvre aussi la voirie publique, et le logement collectif — les immeubles avec beaucoup d'habitations à l'intérieur.",
-    "t": 323.98
+    "t": 323.32
    },
    {
     "speaker": "Anna",
     "text": "Et pour les bâtiments qui existent déjà ?",
-    "t": 330.13
+    "t": 329.47
    },
    {
     "speaker": "Anna",
     "text": "On ne peut pas tout reconstruire du jour au lendemain.",
-    "t": 332.16
+    "t": 331.5
    },
    {
     "speaker": "Tom",
     "text": "Non, et la loi est réaliste.",
-    "t": 334.46
+    "t": 333.8
    },
    {
     "speaker": "Tom",
     "text": "Les nouveaux bâtiments et les grandes rénovations doivent respecter les règles dès maintenant.",
-    "t": 336.51
+    "t": 335.85
    },
    {
     "speaker": "Tom",
     "text": "Mais pour les lieux qui existent déjà et qui sont ouverts au public, il y a une échéance pour devenir accessibles — le 1er janvier 2032.",
-    "t": 340.61
+    "t": 339.95
    },
    {
     "speaker": "Anna",
     "text": "Donc il y a du temps, mais il y a aussi un objectif clair.",
-    "t": 348.47
+    "t": 347.81
    },
    {
     "speaker": "Anna",
     "text": "Bien. Et qui peut aider avec tout ça — pour quelqu'un qui construit ou qui rénove ?",
-    "t": 351.35
+    "t": 350.69
    },
    {
     "speaker": "Tom",
     "text": "Le portail infrastructure sur accessibilite.lu contient les règles, les procédures et une boîte à outils.",
-    "t": 355.33
+    "t": 354.67
    },
    {
     "speaker": "Tom",
     "text": "Comme ça, un architecte, une commune ou un propriétaire peut trouver ce qu'il faut faire pour bien s'y prendre.",
-    "t": 361.53
+    "t": 360.87
    },
    {
     "speaker": "Tom",
     "text": "Et il y a une aide financière : l'État peut payer la moitié du coût des travaux, jusqu'à vingt-quatre mille euros par lieu — si vous faites la demande avant juillet 2028.",
-    "t": 367.33
+    "t": 366.67
    },
    {
     "speaker": "Anna",
     "text": "Super. D'accord, Tom — on a fait le numérique et l'infrastructure.",
-    "t": 376.46
+    "t": 375.8
    },
    {
     "speaker": "Anna",
     "text": "Quel est le troisième domaine ?",
-    "t": 379.72
+    "t": 379.06
    },
    {
     "speaker": "Tom",
     "text": "Le troisième est le plus récent, et peut-être le plus surprenant.",
-    "t": 381.33
+    "t": 380.67
    },
    {
     "speaker": "Tom",
     "text": "C'est l'accessibilité des produits et des services.",
-    "t": 384.62
+    "t": 383.96
    },
    {
     "speaker": "Anna",
     "text": "Les produits et les services.",
-    "t": 387.61
+    "t": 386.95
    },
    {
     "speaker": "Anna",
     "text": "Là, ça paraît très large.",
-    "t": 389.24
+    "t": 388.58
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que ça comprend ?",
-    "t": 390.62
+    "t": 389.96
    },
    {
     "speaker": "Tom",
     "text": "Beaucoup de choses du quotidien.",
-    "t": 391.99
+    "t": 391.33
    },
    {
     "speaker": "Tom",
     "text": "Pensez à un distributeur de billets — un guichet automatique.",
-    "t": 393.72
+    "t": 393.06
    },
    {
     "speaker": "Tom",
     "text": "Une borne de tickets à la gare.",
-    "t": 397.08
+    "t": 396.42
    },
    {
     "speaker": "Tom",
     "text": "Une boutique en ligne.",
-    "t": 398.97
+    "t": 398.31
    },
    {
     "speaker": "Tom",
     "text": "Une application bancaire.",
-    "t": 400.26
+    "t": 399.6
    },
    {
     "speaker": "Tom",
     "text": "Un livre numérique.",
-    "t": 401.85
+    "t": 401.19
    },
    {
     "speaker": "Tom",
     "text": "Les smartphones et les ordinateurs.",
-    "t": 403.15
+    "t": 402.49
    },
    {
     "speaker": "Tom",
     "text": "Ce sont les produits et services qu'on utilise tous, tout le temps.",
-    "t": 405.2
+    "t": 404.54
    },
    {
     "speaker": "Anna",
     "text": "Et l'idée, c'est qu'ils devraient aussi fonctionner pour les personnes en situation de handicap.",
-    "t": 408.7
+    "t": 408.04
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Ça vient d'une loi européenne — on l'appelle l'Acte européen sur l'accessibilité.",
-    "t": 412.97
+    "t": 412.31
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg l'a transposé en droit national avec la loi du 8 mars 2023.",
-    "t": 418.37
+    "t": 417.71
    },
    {
     "speaker": "Tom",
     "text": "Et elle a commencé à s'appliquer le 28 juin 2025.",
-    "t": 422.78
+    "t": 422.12
    },
    {
     "speaker": "Anna",
     "text": "Donc celle-là est très récente — elle vient pratiquement de commencer.",
-    "t": 426.04
+    "t": 425.38
    },
    {
     "speaker": "Tom",
     "text": "Elle vient de commencer.",
-    "t": 429.42
+    "t": 428.76
    },
    {
     "speaker": "Tom",
     "text": "Et c'est un vrai changement.",
-    "t": 430.9
+    "t": 430.24
    },
    {
     "speaker": "Tom",
     "text": "Pour la première fois, ce n'est pas seulement l'État qui a des obligations — ce sont aussi les entreprises privées.",
-    "t": 432.39
+    "t": 431.73
    },
    {
     "speaker": "Anna",
     "text": "Ah, donc les entreprises doivent maintenant penser à l'accessibilité.",
-    "t": 437.96
+    "t": 437.3
    },
    {
     "speaker": "Tom",
     "text": "Oui. Si vous fabriquez ou vendez certains produits et services, ils doivent être accessibles.",
-    "t": 441.39
+    "t": 440.73
    },
    {
     "speaker": "Tom",
     "text": "Maintenant — il y a une exception pour les toutes petites entreprises.",
-    "t": 445.72
+    "t": 445.06
    },
    {
     "speaker": "Tom",
     "text": "Si une entreprise a moins de dix salariés et un chiffre d'affaires de moins de deux millions d'euros, les règles sur les services ne s'appliquent pas à elle.",
-    "t": 449.23
+    "t": 448.57
    },
    {
     "speaker": "Tom",
     "text": "Donc la petite boutique du coin n'est pas traitée comme une grande banque.",
-    "t": 457.03
+    "t": 456.37
    },
    {
     "speaker": "Anna",
     "text": "Ça paraît juste.",
-    "t": 460.77
+    "t": 460.11
    },
    {
     "speaker": "Anna",
     "text": "Et qui surveille tout ça ?",
-    "t": 461.96
+    "t": 461.3
    },
    {
     "speaker": "Tom",
     "text": "Il y a un nouvel office précisément pour ça.",
-    "t": 463.42
+    "t": 462.76
    },
    {
     "speaker": "Tom",
     "text": "En bref, on l'appelle OSAPS — l'office qui veille sur l'accessibilité des produits et des services.",
-    "t": 465.84
+    "t": 465.18
    },
    {
     "speaker": "Tom",
     "text": "Il fait deux choses.",
-    "t": 471.09
+    "t": 470.43
    },
    {
     "speaker": "Tom",
     "text": "Il vérifie que les produits et services sur le marché respectent les règles.",
-    "t": 472.35
+    "t": 471.69
    },
    {
     "speaker": "Tom",
     "text": "Et il aide les entreprises — avec des guides, des outils et des conseils — à bien faire.",
-    "t": 476.03
+    "t": 475.37
    },
    {
     "speaker": "Anna",
     "text": "Donc ce n'est pas seulement un policier.",
-    "t": 481.27
+    "t": 480.61
    },
    {
     "speaker": "Anna",
     "text": "C'est aussi un aide.",
-    "t": 483.06
+    "t": 482.4
    },
    {
     "speaker": "Tom",
     "text": "Les deux. La carotte et le bâton.",
-    "t": 484.42
+    "t": 483.76
    },
    {
     "speaker": "Tom",
     "text": "Et voici la partie qui nous concerne, nous les citoyens — si vous trouvez un produit ou un service qui n'est pas accessible, vous pouvez le signaler.",
-    "t": 486.64
+    "t": 485.98
    },
    {
     "speaker": "Anna",
     "text": "Comment je fais ça ?",
-    "t": 494.32
+    "t": 493.66
    },
    {
     "speaker": "Tom",
     "text": "En ligne, via MyGuichet.lu — la plateforme numérique de l'État.",
-    "t": 495.6
+    "t": 494.94
    },
    {
     "speaker": "Tom",
     "text": "Et vous pouvez même le faire sans vous connecter, si vous préférez.",
-    "t": 500.08
+    "t": 499.42
    },
    {
     "speaker": "Tom",
     "text": "Donc c'est facile de lever la main et de dire — cette machine, ce service, ne fonctionne pas pour moi.",
-    "t": 503.01
+    "t": 502.35
    },
    {
     "speaker": "Anna",
     "text": "J'adore que les trois domaines se relient comme ça.",
-    "t": 508.32
+    "t": 507.66
    },
    {
     "speaker": "Anna",
     "text": "On signale un produit défectueux via un site public... qui doit lui-même être accessible... dans un bâtiment qui devrait aussi être accessible.",
-    "t": 510.56
+    "t": 509.9
    },
    {
     "speaker": "Tom",
     "text": "Exactement. C'est un grand cercle.",
-    "t": 518.33
+    "t": 517.67
    },
    {
     "speaker": "Tom",
     "text": "Le numérique, l'infrastructure, les produits et services.",
-    "t": 520.63
+    "t": 519.97
    },
    {
     "speaker": "Tom",
     "text": "Trois promesses, un seul but.",
-    "t": 524.01
+    "t": 523.35
    },
    {
     "speaker": "Anna",
     "text": "Rendons ça vraiment concret, Tom.",
-    "t": 525.91
+    "t": 525.25
    },
    {
     "speaker": "Anna",
     "text": "Peut-on suivre une personne tout au long d'une journée normale ?",
-    "t": 527.62
+    "t": 526.96
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Imaginons quelqu'un — appelons-la Maria.",
-    "t": 530.34
+    "t": 529.68
    },
    {
     "speaker": "Tom",
     "text": "Maria a une basse vision.",
-    "t": 533.8
+    "t": 533.14
    },
    {
     "speaker": "Tom",
     "text": "Elle voit mal.",
-    "t": 535.47
+    "t": 534.81
    },
    {
     "speaker": "Anna",
     "text": "D'accord. Maria se réveille.",
-    "t": 536.7
+    "t": 536.04
    },
    {
     "speaker": "Anna",
     "text": "À quoi ressemble sa journée, dans un Luxembourg pleinement accessible ?",
-    "t": 539.31
+    "t": 538.65
    },
    {
     "speaker": "Tom",
     "text": "Elle prend son téléphone pour consulter un document officiel.",
-    "t": 542.71
+    "t": 542.05
    },
    {
     "speaker": "Tom",
     "text": "Le site public est bien construit — donc son lecteur d'écran le lit clairement.",
-    "t": 545.69
+    "t": 545.03
    },
    {
     "speaker": "Tom",
     "text": "C'est la partie numérique.",
-    "t": 549.67
+    "t": 549.01
    },
    {
     "speaker": "Anna",
     "text": "Bien. Ensuite elle sort.",
-    "t": 551.22
+    "t": 550.56
    },
    {
     "speaker": "Tom",
     "text": "Elle marche jusqu'au bureau de la commune.",
-    "t": 552.53
+    "t": 551.87
    },
    {
     "speaker": "Tom",
     "text": "La rue a un guidage qu'elle peut sentir sous ses pieds, le bâtiment a une entrée claire, et un ascenseur à l'intérieur.",
-    "t": 554.73
+    "t": 554.07
    },
    {
     "speaker": "Tom",
     "text": "C'est la partie infrastructure.",
-    "t": 560.93
+    "t": 560.27
    },
    {
     "speaker": "Anna",
     "text": "Et ensuite ?",
-    "t": 562.8
+    "t": 562.14
    },
    {
     "speaker": "Tom",
     "text": "Sur le chemin du retour, elle s'arrête à une borne de tickets.",
-    "t": 563.88
+    "t": 563.22
    },
    {
     "speaker": "Tom",
     "text": "Elle dit les instructions à voix haute, et les boutons sont faciles à sentir.",
-    "t": 567.09
+    "t": 566.43
    },
    {
     "speaker": "Tom",
     "text": "C'est la partie produits et services.",
-    "t": 570.8
+    "t": 570.14
    },
    {
     "speaker": "Tom",
     "text": "Maria traverse toute sa journée — seule, avec dignité.",
-    "t": 573.05
+    "t": 572.39
    },
    {
     "speaker": "Anna",
     "text": "Sans avoir besoin de demander de l'aide à un inconnu à chaque étape.",
-    "t": 576.99
+    "t": 576.33
    },
    {
     "speaker": "Tom",
     "text": "C'est ça le rêve.",
-    "t": 580.24
+    "t": 579.58
    },
    {
     "speaker": "Tom",
     "text": "L'indépendance et la dignité.",
-    "t": 581.44
+    "t": 580.78
    },
    {
     "speaker": "Tom",
     "text": "Et c'est ce que ces trois lois construisent peu à peu.",
-    "t": 583.68
+    "t": 583.02
    },
    {
     "speaker": "Anna",
     "text": "Et honnêtement — ça aide bien plus de gens qu'on ne le pense.",
-    "t": 586.51
+    "t": 585.85
    },
    {
     "speaker": "Anna",
     "text": "Pas seulement les personnes avec un handicap permanent.",
-    "t": 589.54
+    "t": 588.88
    },
    {
     "speaker": "Tom",
     "text": "Tellement vrai. Pensez à un parent qui pousse une poussette — il adore une rampe lui aussi.",
-    "t": 592.15
+    "t": 591.49
    },
    {
     "speaker": "Tom",
     "text": "Pensez à quelqu'un avec une lourde valise, ou un bras cassé.",
-    "t": 597.37
+    "t": 596.71
    },
    {
     "speaker": "Tom",
     "text": "Pensez à une personne âgée dont les yeux et les oreilles se fatiguent.",
-    "t": 600.48
+    "t": 599.82
    },
    {
     "speaker": "Tom",
     "text": "L'accessibilité aide tout le monde, à un moment de la vie.",
-    "t": 604.07
+    "t": 603.41
    },
    {
     "speaker": "Anna",
     "text": "C'est l'idée classique — concevez pour les personnes qui en ont le plus besoin, et vous rendez la vie meilleure pour absolument tout le monde.",
-    "t": 607.63
+    "t": 606.97
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Une bordure abaissée a été pensée pour les fauteuils roulants — mais toute la ville l'utilise.",
-    "t": 613.71
+    "t": 613.05
    },
    {
     "speaker": "Anna",
     "text": "D'accord, Tom — concluons.",
-    "t": 619.38
+    "t": 618.72
    },
    {
     "speaker": "Anna",
     "text": "Si je suis à l'écoute, que devrais-je retenir, et que puis-je faire ?",
-    "t": 621.27
+    "t": 620.61
    },
    {
     "speaker": "Tom",
     "text": "Trois choses simples.",
-    "t": 624.66
+    "t": 624
    },
    {
     "speaker": "Tom",
     "text": "D'abord — souvenez-vous du site.",
-    "t": 626.18
+    "t": 625.52
    },
    {
     "speaker": "Tom",
     "text": "accessibilite point l-u.",
-    "t": 628.14
+    "t": 627.48
    },
    {
     "speaker": "Tom",
     "text": "C'est la porte d'entrée officielle vers les trois domaines.",
-    "t": 630.32
+    "t": 629.66
    },
    {
     "speaker": "Anna",
     "text": "accessibilite.lu. Compris.",
-    "t": 633.32
+    "t": 632.66
    },
    {
     "speaker": "Tom",
     "text": "Ensuite — si un site public vous bloque, vous avez le droit de vous plaindre, et d'obtenir une réponse.",
-    "t": 635.52
+    "t": 634.86
    },
    {
     "speaker": "Tom",
     "text": "N'abandonnez pas — signalez-le.",
-    "t": 640.86
+    "t": 640.2
    },
    {
     "speaker": "Anna",
     "text": "Et troisièmement ?",
-    "t": 643.23
+    "t": 642.57
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement — si un produit ou un service n'est pas accessible, vous pouvez aussi le signaler, via MyGuichet.lu.",
-    "t": 644.51
+    "t": 643.85
    },
    {
     "speaker": "Tom",
     "text": "Votre voix aide à améliorer les choses, pour vous et pour la personne suivante.",
-    "t": 651.14
+    "t": 650.48
    },
    {
     "speaker": "Anna",
     "text": "Et si vous êtes un professionnel — un architecte, un chef d'entreprise, un gestionnaire de site internet ?",
-    "t": 655.62
+    "t": 654.96
    },
    {
     "speaker": "Tom",
     "text": "Alors le site est fait pour vous d'une autre manière.",
-    "t": 660.89
+    "t": 660.23
    },
    {
     "speaker": "Tom",
     "text": "Il contient les lois, les normes, les boîtes à outils — tout ce qu'il vous faut pour jouer votre rôle.",
-    "t": 663.52
+    "t": 662.86
    },
    {
     "speaker": "Tom",
     "text": "Parce que l'accessibilité n'est pas une faveur.",
-    "t": 669.17
+    "t": 668.51
    },
    {
     "speaker": "Tom",
     "text": "C'est en train de devenir la façon normale de faire les choses.",
-    "t": 671.58
+    "t": 670.92
    },
    {
     "speaker": "Anna",
     "text": "Un petit résumé pour finir ?",
-    "t": 674.83
+    "t": 674.17
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Le Luxembourg a un seul portail officiel — accessibilite.lu — pour trois domaines de l'accessibilité.",
-    "t": 676.49
+    "t": 675.83
    },
    {
     "speaker": "Tom",
     "text": "Le numérique, avec la loi de 2019, pour les sites et applications publics.",
-    "t": 683.55
+    "t": 682.89
    },
    {
     "speaker": "Tom",
     "text": "L'infrastructure, avec la loi de 2022, pour des bâtiments, des rues et des logements accessibles, fondée sur la conception universelle, avec une échéance en 2032 pour les lieux publics existants.",
-    "t": 688.14
+    "t": 687.48
    },
    {
     "speaker": "Tom",
     "text": "Et les produits et services, le plus récent, issu de l'Acte européen sur l'accessibilité, applicable depuis juin 2025, surveillé par l'office OSAPS — avec les entreprises privées désormais impliquées aussi.",
-    "t": 699.96
+    "t": 699.3
    },
    {
     "speaker": "Anna",
     "text": "Et le message d'aujourd'hui ?",
-    "t": 711.96
+    "t": 711.3
    },
    {
     "speaker": "Tom",
     "text": "L'accessibilité, ce n'est pas seulement pour « les autres ».",
-    "t": 713.47
+    "t": 712.81
    },
    {
     "speaker": "Tom",
     "text": "C'est pour nous tous — aujourd'hui, ou demain.",
-    "t": 716.39
+    "t": 715.73
    },
    {
     "speaker": "Tom",
     "text": "Un monde construit pour tout le monde est tout simplement un monde meilleur à vivre.",
-    "t": 718.94
+    "t": 718.28
    },
    {
     "speaker": "Anna",
     "text": "Alors... que vous soyez un citoyen qui rencontre un obstacle, ou un professionnel qui construit des choses — souvenez-vous de la porte d'entrée.",
-    "t": 723.22
+    "t": 722.56
    },
    {
     "speaker": "Anna",
     "text": "accessibilite.lu.",
-    "t": 729
+    "t": 728.34
    },
    {
     "speaker": "Tom",
     "text": "Un seul site, trois promesses, et un pays qui ouvre peu à peu chaque porte.",
-    "t": 730.97
+    "t": 730.31
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'accessibilité.",
-    "t": 735.64
+    "t": 734.98
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 737.79
+    "t": 737.13
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 745.86
+    "t": 745.2
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 761.71
+    "t": 761.05
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 766.36
+    "t": 765.7
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 768.14
+    "t": 767.48
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 772.52
+    "t": 771.86
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 773.75
+    "t": 773.09
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 776.21
+    "t": 775.55
    }
   ],
   "segments_de": [
@@ -31698,1078 +31698,1078 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und das heutige Thema betrifft jeden Einzelnen von uns, früher oder später.",
-    "t": 28.46
+    "t": 27.86
    },
    {
     "speaker": "Tom",
     "text": "Es geht um Barrierefreiheit.",
-    "t": 33.92
+    "t": 33.32
    },
    {
     "speaker": "Anna",
     "text": "Barrierefreiheit. Also gut, Tom — das ist ein großes Wort.",
-    "t": 35.88
+    "t": 35.28
    },
    {
     "speaker": "Anna",
     "text": "Was meinen wir eigentlich damit?",
-    "t": 40.45
+    "t": 39.85
    },
    {
     "speaker": "Tom",
     "text": "Gute Frage. Barrierefreiheit bedeutet, die Welt für alle nutzbar zu machen — auch für Menschen mit Behinderung.",
-    "t": 42.38
+    "t": 41.78
    },
    {
     "speaker": "Tom",
     "text": "Eine Person im Rollstuhl, eine Person, die schlecht sieht, eine Person, die schlecht hört, ein älterer Mensch, der etwas langsamer ist als früher.",
-    "t": 49.49
+    "t": 48.89
    },
    {
     "speaker": "Anna",
     "text": "Es geht also darum, Hindernisse zu beseitigen.",
-    "t": 57.94
+    "t": 57.34
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und hier ist der Kerngedanke — und er kommt von der Weltgesundheitsorganisation.",
-    "t": 60.95
+    "t": 60.35
    },
    {
     "speaker": "Tom",
     "text": "Behinderung ist nicht nur ein Gesundheitsproblem.",
-    "t": 66.8
+    "t": 66.2
    },
    {
     "speaker": "Tom",
     "text": "Sie entsteht aus der Begegnung zwischen einem Menschen und der Welt um ihn herum.",
-    "t": 69.33
+    "t": 68.73
    },
    {
     "speaker": "Tom",
     "text": "Wenn die Welt schlecht gebaut ist, wird der Mensch durch sie behindert.",
-    "t": 73.46
+    "t": 72.86
    },
    {
     "speaker": "Tom",
     "text": "Wenn die Welt gut gebaut ist, verschwindet das Hindernis.",
-    "t": 77.08
+    "t": 76.48
    },
    {
     "speaker": "Anna",
     "text": "Ah, das gefällt mir.",
-    "t": 80.48
+    "t": 79.88
    },
    {
     "speaker": "Anna",
     "text": "Das Problem ist also nicht immer der Mensch — oft ist es das Gebäude, oder die Website, oder die Maschine.",
-    "t": 82.12
+    "t": 81.52
    },
    {
     "speaker": "Tom",
     "text": "Ganz genau. Und deshalb hat Luxemburg einen offiziellen Ort im Internet geschaffen, um alles zusammenzubringen — eine Website mit dem Namen accessibilite Punkt l-u.",
-    "t": 88.87
+    "t": 88.27
    },
    {
     "speaker": "Anna",
     "text": "accessibilite.lu. Und wer steckt dahinter?",
-    "t": 100.4
+    "t": 99.8
    },
    {
     "speaker": "Tom",
     "text": "Es ist der Staat — die Regierung von Luxemburg.",
-    "t": 103.95
+    "t": 103.35
    },
    {
     "speaker": "Tom",
     "text": "Also sind es offizielle, öffentliche Informationen.",
-    "t": 106.93
+    "t": 106.33
    },
    {
     "speaker": "Tom",
     "text": "Und die Website ist eine Art Eingangstür, die sich auf drei große Bereiche öffnet.",
-    "t": 110.06
+    "t": 109.46
    },
    {
     "speaker": "Anna",
     "text": "Drei Bereiche. Gut, nehmen wir sie einen nach dem anderen.",
-    "t": 114.89
+    "t": 114.29
    },
    {
     "speaker": "Anna",
     "text": "Was ist der erste?",
-    "t": 119.24
+    "t": 118.64
    },
    {
     "speaker": "Tom",
     "text": "Der erste ist die digitale Barrierefreiheit.",
-    "t": 120.66
+    "t": 120.06
    },
    {
     "speaker": "Tom",
     "text": "Das betrifft Websites und mobile Apps.",
-    "t": 123.37
+    "t": 122.77
    },
    {
     "speaker": "Tom",
     "text": "Sie für Menschen mit Behinderung nutzbar zu machen.",
-    "t": 125.99
+    "t": 125.39
    },
    {
     "speaker": "Anna",
     "text": "Also die Online-Welt.",
-    "t": 128.7
+    "t": 128.1
    },
    {
     "speaker": "Tom",
     "text": "Ja. Denken Sie darüber nach — heute macht man so vieles online.",
-    "t": 130.44
+    "t": 129.84
    },
    {
     "speaker": "Tom",
     "text": "Man prüft seine Steuern, man bucht einen Termin, man liest die Nachrichten.",
-    "t": 134.25
+    "t": 133.65
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie sich nun vor, Sie sind blind und benutzen einen Screenreader — ein Programm, das die Seite laut vorliest.",
-    "t": 138.5
+    "t": 137.9
    },
    {
     "speaker": "Tom",
     "text": "Wenn die Website schlecht gebaut ist, verliert sich der Screenreader, und Sie stecken fest.",
-    "t": 145.17
+    "t": 144.57
    },
    {
     "speaker": "Anna",
     "text": "Und Sie können das Einfache nicht tun, das alle anderen mühelos tun.",
-    "t": 149.8
+    "t": 149.2
    },
    {
     "speaker": "Tom",
     "text": "Richtig. Also hat Luxemburg ein Gesetz erlassen — es ist vom 28. Mai 2019.",
-    "t": 153.99
+    "t": 153.39
    },
    {
     "speaker": "Tom",
     "text": "Und es besagt, dass Websites und Apps des öffentlichen Sektors — der Staat, die Gemeinden, öffentliche Einrichtungen — barrierefrei sein müssen.",
-    "t": 160.87
+    "t": 160.27
    },
    {
     "speaker": "Anna",
     "text": "Die offiziellen, öffentlichen Websites haben also die Pflicht, für alle nutzbar zu sein.",
-    "t": 169.71
+    "t": 169.11
    },
    {
     "speaker": "Tom",
     "text": "Sie haben eine gesetzliche Pflicht.",
-    "t": 174.4
+    "t": 173.8
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt eine einfache Art, sich zu merken, was „barrierefrei\" hier bedeutet.",
-    "t": 176.39
+    "t": 175.79
    },
    {
     "speaker": "Tom",
     "text": "Vier Wörter. Der Inhalt muss wahrnehmbar, bedienbar, verständlich und robust sein.",
-    "t": 180.93
+    "t": 180.33
    },
    {
     "speaker": "Anna",
     "text": "Schauen wir uns die langsam an.",
-    "t": 187.39
+    "t": 186.79
    },
    {
     "speaker": "Tom",
     "text": "Gerne. Wahrnehmbar — man kann es wahrnehmen.",
-    "t": 189.31
+    "t": 188.71
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel hat jedes Bild eine Textbeschreibung, damit ein Screenreader es beschreiben kann.",
-    "t": 192.45
+    "t": 191.85
    },
    {
     "speaker": "Tom",
     "text": "Bedienbar — man kann es bedienen.",
-    "t": 197.31
+    "t": 196.71
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel kann man die ganze Seite nur mit einer Tastatur benutzen, nicht nur mit einer Maus.",
-    "t": 199.54
+    "t": 198.94
    },
    {
     "speaker": "Anna",
     "text": "Weil manche Menschen keine Maus benutzen können.",
-    "t": 204.74
+    "t": 204.14
    },
    {
     "speaker": "Tom",
     "text": "Genau. Verständlich — die Seite verhält sich auf klare, vorhersehbare Weise und hilft Ihnen, Fehler zu beheben.",
-    "t": 207.42
+    "t": 206.82
    },
    {
     "speaker": "Tom",
     "text": "Und robust — sie funktioniert mit assistiven Technologien, heute und in Zukunft.",
-    "t": 215.28
+    "t": 214.68
    },
    {
     "speaker": "Anna",
     "text": "Wahrnehmbar, bedienbar, verständlich, robust.",
-    "t": 220.61
+    "t": 220.01
    },
    {
     "speaker": "Anna",
     "text": "Das ist eine schöne Checkliste.",
-    "t": 223.96
+    "t": 223.36
    },
    {
     "speaker": "Anna",
     "text": "Und woher wissen wir, ob eine Website die Regeln wirklich befolgt?",
-    "t": 225.76
+    "t": 225.16
    },
    {
     "speaker": "Tom",
     "text": "Jede öffentliche Website muss eine sogenannte Barrierefreiheitserklärung veröffentlichen.",
-    "t": 229.48
+    "t": 228.88
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine ehrliche Aussage, die sagt — wir sind vollständig konform, teilweise konform, oder nicht konform.",
-    "t": 234.27
+    "t": 233.67
    },
    {
     "speaker": "Tom",
     "text": "Und sie listet die Probleme auf, die noch bestehen.",
-    "t": 241.39
+    "t": 240.79
    },
    {
     "speaker": "Anna",
     "text": "Also ist es transparent.",
-    "t": 244.18
+    "t": 243.58
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen zugeben, was noch nicht perfekt ist.",
-    "t": 245.92
+    "t": 245.32
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und — das ist wichtig — wenn Sie ein Problem finden, können Sie sich beschweren.",
-    "t": 248.77
+    "t": 248.17
    },
    {
     "speaker": "Tom",
     "text": "Jede Seite muss Ihnen eine Möglichkeit geben, ein Hindernis zu melden.",
-    "t": 254.74
+    "t": 254.14
    },
    {
     "speaker": "Tom",
     "text": "Sie müssen Ihnen antworten, normalerweise innerhalb eines Monats.",
-    "t": 258.5
+    "t": 257.9
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie nicht zufrieden sind, können Sie sich an den Informationsdienst des Staates wenden, oder sogar an den Ombudsmann — den Mediateur.",
-    "t": 262.25
+    "t": 261.65
    },
    {
     "speaker": "Anna",
     "text": "Sie sind also nicht machtlos.",
-    "t": 270.25
+    "t": 269.65
    },
    {
     "speaker": "Anna",
     "text": "Wenn eine öffentliche Website Sie blockiert, gibt es eine Tür, an die Sie klopfen können.",
-    "t": 272.05
+    "t": 271.45
    },
    {
     "speaker": "Tom",
     "text": "Immer. Genau darum geht es.",
-    "t": 276.52
+    "t": 275.92
    },
    {
     "speaker": "Tom",
     "text": "Also — gehen wir zum zweiten Bereich?",
-    "t": 277.91
+    "t": 277.31
    },
    {
     "speaker": "Anna",
     "text": "Ja, bitte. Die digitale Welt haben wir geschafft.",
-    "t": 280.41
+    "t": 279.81
    },
    {
     "speaker": "Anna",
     "text": "Was kommt als Nächstes?",
-    "t": 283.82
+    "t": 283.22
    },
    {
     "speaker": "Tom",
     "text": "Der zweite Bereich ist die Infrastruktur.",
-    "t": 285.52
+    "t": 284.92
    },
    {
     "speaker": "Tom",
     "text": "Das betrifft die physische Welt — Gebäude, öffentliche Räume und Straßen.",
-    "t": 288.12
+    "t": 287.52
    },
    {
     "speaker": "Anna",
     "text": "Ah, die Welt aus Beton.",
-    "t": 292.63
+    "t": 292.03
    },
    {
     "speaker": "Anna",
     "text": "Rampen, Türen, Aufzüge.",
-    "t": 294.36
+    "t": 293.76
    },
    {
     "speaker": "Tom",
     "text": "Genau. Kommen Sie in das Gebäude hinein?",
-    "t": 296.44
+    "t": 295.84
    },
    {
     "speaker": "Tom",
     "text": "Gibt es eine Rampe zusätzlich zu den Stufen?",
-    "t": 299.53
+    "t": 298.93
    },
    {
     "speaker": "Tom",
     "text": "Ist die Tür breit genug für einen Rollstuhl?",
-    "t": 302.11
+    "t": 301.51
    },
    {
     "speaker": "Tom",
     "text": "Gibt es einen Aufzug?",
-    "t": 304.44
+    "t": 303.84
    },
    {
     "speaker": "Tom",
     "text": "Gibt es Dinge, die einer blinden Person helfen, ihren Weg zu finden?",
-    "t": 305.9
+    "t": 305.3
    },
    {
     "speaker": "Anna",
     "text": "Und gibt es auch dafür ein Gesetz?",
-    "t": 309.81
+    "t": 309.21
    },
    {
     "speaker": "Tom",
     "text": "Das gibt es.",
-    "t": 311.98
+    "t": 311.38
    },
    {
     "speaker": "Tom",
     "text": "Es ist das Gesetz vom 7. Januar 2022, und es ist am 1. Juli 2023 in Kraft getreten.",
-    "t": 313.05
+    "t": 312.45
    },
    {
     "speaker": "Tom",
     "text": "Und es beruht auf einer schönen Idee namens universelles Design.",
-    "t": 321.08
+    "t": 320.48
    },
    {
     "speaker": "Anna",
     "text": "Universelles Design. Was bedeutet das?",
-    "t": 324.98
+    "t": 324.38
    },
    {
     "speaker": "Tom",
     "text": "Es bedeutet, einen Ort von Anfang an so zu gestalten, dass ihn jeder benutzen kann.",
-    "t": 328.16
+    "t": 327.56
    },
    {
     "speaker": "Tom",
     "text": "Kein spezieller Seiteneingang für manche Menschen, und der Haupteingang für die anderen.",
-    "t": 332.78
+    "t": 332.18
    },
    {
     "speaker": "Tom",
     "text": "Ein Ort, der für alle funktioniert.",
-    "t": 337.61
+    "t": 337.01
    },
    {
     "speaker": "Anna",
     "text": "Also statt ein Hindernis zu bauen und es später zu beheben...",
-    "t": 339.7
+    "t": 339.1
    },
    {
     "speaker": "Tom",
     "text": "...baut man es gleich beim ersten Mal richtig.",
-    "t": 343.09
+    "t": 342.49
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist das Clevere daran — es ist sogar günstiger.",
-    "t": 345.42
+    "t": 344.82
    },
    {
     "speaker": "Tom",
     "text": "Die Vereinten Nationen sagen es: Wenn man von Anfang an für alle gestaltet, kostet es viel weniger, als Hindernisse aus einem bereits fertigen Gebäude zu entfernen.",
-    "t": 348.89
+    "t": 348.29
    },
    {
     "speaker": "Anna",
     "text": "Das ergibt absolut Sinn.",
-    "t": 358.1
+    "t": 357.5
    },
    {
     "speaker": "Anna",
     "text": "Es ist schwieriger und teurer, einen Aufzug in ein altes Gebäude einzubauen, als ihn vom ersten Tag an einzuplanen.",
-    "t": 359.84
+    "t": 359.24
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und das neue Gesetz geht weiter als das alte.",
-    "t": 366.62
+    "t": 366.02
    },
    {
     "speaker": "Tom",
     "text": "Es geht nicht nur um öffentliche Gebäude.",
-    "t": 370.45
+    "t": 369.85
    },
    {
     "speaker": "Tom",
     "text": "Es deckt auch öffentliche Straßen ab, und kollektiven Wohnraum — Gebäude mit vielen Wohnungen darin.",
-    "t": 372.59
+    "t": 371.99
    },
    {
     "speaker": "Anna",
     "text": "Und für Gebäude, die bereits existieren?",
-    "t": 378.63
+    "t": 378.03
    },
    {
     "speaker": "Anna",
     "text": "Man kann nicht alles über Nacht neu bauen.",
-    "t": 380.96
+    "t": 380.36
    },
    {
     "speaker": "Tom",
     "text": "Nein, und das Gesetz ist realistisch.",
-    "t": 383.36
+    "t": 382.76
    },
    {
     "speaker": "Tom",
     "text": "Neue Gebäude und große Renovierungen müssen die Regeln ab sofort befolgen.",
-    "t": 385.8
+    "t": 385.2
    },
    {
     "speaker": "Tom",
     "text": "Aber für Orte, die bereits existieren und öffentlich zugänglich sind, gibt es eine Frist, um barrierefrei zu werden — den 1. Januar 2032.",
-    "t": 390.08
+    "t": 389.48
    },
    {
     "speaker": "Anna",
     "text": "Es gibt also Zeit, aber auch ein klares Ziel.",
-    "t": 399.3
+    "t": 398.7
    },
    {
     "speaker": "Anna",
     "text": "Gut. Und wer kann bei all dem helfen — für jemanden, der baut oder renoviert?",
-    "t": 402.55
+    "t": 401.95
    },
    {
     "speaker": "Tom",
     "text": "Das Infrastrukturportal auf accessibilite.lu enthält die Regeln, die Verfahren und einen Werkzeugkasten.",
-    "t": 408.18
+    "t": 407.58
    },
    {
     "speaker": "Tom",
     "text": "So kann ein Architekt, eine Gemeinde oder ein Eigentümer finden, was zu tun ist, um es richtig zu machen.",
-    "t": 416.02
+    "t": 415.42
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt finanzielle Hilfe: Der Staat kann die Hälfte der Kosten für die Arbeiten übernehmen, bis zu vierundzwanzigtausend Euro pro Ort — wenn Sie den Antrag vor Juli 2028 stellen.",
-    "t": 422.44
+    "t": 421.84
    },
    {
     "speaker": "Anna",
     "text": "Wunderbar. Gut, Tom — das war Digitales und Infrastruktur.",
-    "t": 433.5
+    "t": 432.9
    },
    {
     "speaker": "Anna",
     "text": "Was ist der dritte Bereich?",
-    "t": 438.22
+    "t": 437.62
    },
    {
     "speaker": "Tom",
     "text": "Der dritte ist der neueste, und vielleicht der überraschendste.",
-    "t": 439.97
+    "t": 439.37
    },
    {
     "speaker": "Tom",
     "text": "Es ist die Barrierefreiheit von Produkten und Dienstleistungen.",
-    "t": 443.37
+    "t": 442.77
    },
    {
     "speaker": "Anna",
     "text": "Produkte und Dienstleistungen.",
-    "t": 447.14
+    "t": 446.54
    },
    {
     "speaker": "Anna",
     "text": "Das klingt jetzt sehr weit gefasst.",
-    "t": 449.07
+    "t": 448.47
    },
    {
     "speaker": "Anna",
     "text": "Was umfasst das?",
-    "t": 451.11
+    "t": 450.51
    },
    {
     "speaker": "Tom",
     "text": "Viele alltägliche Dinge.",
-    "t": 452.67
+    "t": 452.07
    },
    {
     "speaker": "Tom",
     "text": "Denken Sie an einen Bankautomaten — einen Geldautomaten.",
-    "t": 454.23
+    "t": 453.63
    },
    {
     "speaker": "Tom",
     "text": "Einen Fahrkartenautomaten am Bahnhof.",
-    "t": 457.99
+    "t": 457.39
    },
    {
     "speaker": "Tom",
     "text": "Einen Online-Shop. Eine Banking-App.",
-    "t": 460.4
+    "t": 459.8
    },
    {
     "speaker": "Tom",
     "text": "Ein E-Book. Smartphones und Computer.",
-    "t": 462.83
+    "t": 462.23
    },
    {
     "speaker": "Tom",
     "text": "Das sind die Produkte und Dienstleistungen, die wir alle ständig benutzen.",
-    "t": 465.75
+    "t": 465.15
    },
    {
     "speaker": "Anna",
     "text": "Und die Idee ist, dass sie auch für Menschen mit Behinderung funktionieren sollen.",
-    "t": 469.57
+    "t": 468.97
    },
    {
     "speaker": "Tom",
     "text": "Genau. Das kommt von einem europäischen Gesetz — man nennt es den European Accessibility Act (Europäisches Barrierefreiheitsgesetz).",
-    "t": 473.57
+    "t": 472.97
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg hat es mit dem Gesetz vom 8. März 2023 in nationales Recht umgesetzt.",
-    "t": 483.46
+    "t": 482.86
    },
    {
     "speaker": "Tom",
     "text": "Und es gilt seit dem 28. Juni 2025.",
-    "t": 489.67
+    "t": 489.07
    },
    {
     "speaker": "Anna",
     "text": "Dieses ist also sehr neu — es hat im Grunde gerade erst begonnen.",
-    "t": 493.43
+    "t": 492.83
    },
    {
     "speaker": "Tom",
     "text": "Gerade erst begonnen.",
-    "t": 497.43
+    "t": 496.83
    },
    {
     "speaker": "Tom",
     "text": "Und es ist eine echte Veränderung.",
-    "t": 498.75
+    "t": 498.15
    },
    {
     "speaker": "Tom",
     "text": "Zum ersten Mal hat nicht nur der Staat Pflichten — auch private Unternehmen.",
-    "t": 500.81
+    "t": 500.21
    },
    {
     "speaker": "Anna",
     "text": "Ah, Unternehmen müssen also jetzt an Barrierefreiheit denken.",
-    "t": 505.23
+    "t": 504.63
    },
    {
     "speaker": "Tom",
     "text": "Ja. Wenn Sie bestimmte Produkte und Dienstleistungen herstellen oder verkaufen, müssen sie barrierefrei sein.",
-    "t": 508.9
+    "t": 508.3
    },
    {
     "speaker": "Tom",
     "text": "Nun — es gibt eine Ausnahme für die ganz kleinen Unternehmen.",
-    "t": 515.11
+    "t": 514.51
    },
    {
     "speaker": "Tom",
     "text": "Wenn ein Unternehmen weniger als zehn Mitarbeiter und weniger als zwei Millionen Euro Umsatz hat, gelten die Regeln für Dienstleistungen dort nicht.",
-    "t": 518.75
+    "t": 518.15
    },
    {
     "speaker": "Tom",
     "text": "Der kleine Laden an der Ecke wird also nicht wie eine große Bank behandelt.",
-    "t": 527.31
+    "t": 526.71
    },
    {
     "speaker": "Anna",
     "text": "Das scheint fair.",
-    "t": 531.46
+    "t": 530.86
    },
    {
     "speaker": "Anna",
     "text": "Und wer behält das alles im Auge?",
-    "t": 532.6
+    "t": 532
    },
    {
     "speaker": "Tom",
     "text": "Es gibt ein neues Amt genau dafür.",
-    "t": 534.65
+    "t": 534.05
    },
    {
     "speaker": "Tom",
     "text": "Kurz heißt es OSAPS — das Amt, das über die Barrierefreiheit von Produkten und Dienstleistungen wacht.",
-    "t": 536.92
+    "t": 536.32
    },
    {
     "speaker": "Tom",
     "text": "Es macht zwei Dinge.",
-    "t": 543.03
+    "t": 542.43
    },
    {
     "speaker": "Tom",
     "text": "Es prüft, ob Produkte und Dienstleistungen auf dem Markt die Regeln befolgen.",
-    "t": 544.28
+    "t": 543.68
    },
    {
     "speaker": "Tom",
     "text": "Und es hilft Unternehmen — mit Leitfäden, Werkzeugen und Beratung — es richtig zu machen.",
-    "t": 548.39
+    "t": 547.79
    },
    {
     "speaker": "Anna",
     "text": "Es ist also nicht nur ein Polizist.",
-    "t": 554.38
+    "t": 553.78
    },
    {
     "speaker": "Anna",
     "text": "Es ist auch ein Helfer.",
-    "t": 556.48
+    "t": 555.88
    },
    {
     "speaker": "Tom",
     "text": "Beides. Zuckerbrot und Peitsche.",
-    "t": 558.07
+    "t": 557.47
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist der Teil für uns, die Bürger — wenn Sie ein Produkt oder eine Dienstleistung finden, die nicht barrierefrei ist, können Sie das melden.",
-    "t": 560.8
+    "t": 560.2
    },
    {
     "speaker": "Anna",
     "text": "Wie mache ich das?",
-    "t": 569.04
+    "t": 568.44
    },
    {
     "speaker": "Tom",
     "text": "Online, über MyGuichet.lu — die digitale Plattform des Staates.",
-    "t": 570.43
+    "t": 569.83
    },
    {
     "speaker": "Tom",
     "text": "Und Sie können es sogar ohne Anmeldung tun, wenn Sie möchten.",
-    "t": 575.48
+    "t": 574.88
    },
    {
     "speaker": "Tom",
     "text": "So ist es leicht, die Hand zu heben und zu sagen — diese Maschine, diese Dienstleistung, funktioniert nicht für mich.",
-    "t": 578.44
+    "t": 577.84
    },
    {
     "speaker": "Anna",
     "text": "Ich finde es toll, dass sich die drei Bereiche so verbinden.",
-    "t": 585.18
+    "t": 584.58
    },
    {
     "speaker": "Anna",
     "text": "Man meldet ein fehlerhaftes Produkt über eine öffentliche Website... die selbst barrierefrei sein muss... in einem Gebäude, das ebenfalls barrierefrei sein sollte.",
-    "t": 588.32
+    "t": 587.72
    },
    {
     "speaker": "Tom",
     "text": "Genau. Es ist ein großer Kreis.",
-    "t": 597.91
+    "t": 597.31
    },
    {
     "speaker": "Tom",
     "text": "Digitales, Infrastruktur, Produkte und Dienstleistungen.",
-    "t": 600.48
+    "t": 599.88
    },
    {
     "speaker": "Tom",
     "text": "Drei Versprechen, ein Ziel.",
-    "t": 604.44
+    "t": 603.84
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es ganz konkret, Tom.",
-    "t": 606.41
+    "t": 605.81
    },
    {
     "speaker": "Anna",
     "text": "Können wir eine Person durch einen normalen Tag begleiten?",
-    "t": 608.28
+    "t": 607.68
    },
    {
     "speaker": "Tom",
     "text": "Natürlich. Stellen wir uns jemanden vor — nennen wir sie Maria.",
-    "t": 611.49
+    "t": 610.89
    },
    {
     "speaker": "Tom",
     "text": "Maria hat eine Sehschwäche.",
-    "t": 615.8
+    "t": 615.2
    },
    {
     "speaker": "Tom",
     "text": "Sie sieht schlecht.",
-    "t": 617.57
+    "t": 616.97
    },
    {
     "speaker": "Anna",
     "text": "Gut. Maria wacht auf.",
-    "t": 618.9
+    "t": 618.3
    },
    {
     "speaker": "Anna",
     "text": "Wie sieht ihr Tag aus, in einem vollständig barrierefreien Luxemburg?",
-    "t": 621.09
+    "t": 620.49
    },
    {
     "speaker": "Tom",
     "text": "Sie nimmt ihr Handy, um ein offizielles Dokument zu prüfen.",
-    "t": 625.18
+    "t": 624.58
    },
    {
     "speaker": "Tom",
     "text": "Die öffentliche Website ist gut gebaut — also liest ihr Screenreader sie klar vor.",
-    "t": 628.42
+    "t": 627.82
    },
    {
     "speaker": "Tom",
     "text": "Das ist der digitale Teil.",
-    "t": 633.28
+    "t": 632.68
    },
    {
     "speaker": "Anna",
     "text": "Gut. Dann geht sie hinaus.",
-    "t": 635.14
+    "t": 634.54
    },
    {
     "speaker": "Tom",
     "text": "Sie geht zum Gemeindeamt.",
-    "t": 637.22
+    "t": 636.62
    },
    {
     "speaker": "Tom",
     "text": "Die Straße hat eine Führung, die sie unter ihren Füßen spüren kann, das Gebäude hat einen klaren Eingang, und einen Aufzug im Inneren.",
-    "t": 639.06
+    "t": 638.46
    },
    {
     "speaker": "Tom",
     "text": "Das ist der Infrastruktur-Teil.",
-    "t": 647.05
+    "t": 646.45
    },
    {
     "speaker": "Anna",
     "text": "Und dann?",
-    "t": 649.24
+    "t": 648.64
    },
    {
     "speaker": "Tom",
     "text": "Auf dem Heimweg hält sie an einem Fahrkartenautomaten.",
-    "t": 650.26
+    "t": 649.66
    },
    {
     "speaker": "Tom",
     "text": "Er spricht die Anweisungen laut aus, und die Tasten sind leicht zu ertasten.",
-    "t": 653.43
+    "t": 652.83
    },
    {
     "speaker": "Tom",
     "text": "Das ist der Teil mit den Produkten und Dienstleistungen.",
-    "t": 657.6
+    "t": 657
    },
    {
     "speaker": "Tom",
     "text": "Maria kommt durch ihren ganzen Tag — allein, mit Würde.",
-    "t": 660.44
+    "t": 659.84
    },
    {
     "speaker": "Anna",
     "text": "Ohne bei jedem Schritt einen Fremden um Hilfe bitten zu müssen.",
-    "t": 664.31
+    "t": 663.71
    },
    {
     "speaker": "Tom",
     "text": "Das ist der Traum.",
-    "t": 667.66
+    "t": 667.06
    },
    {
     "speaker": "Tom",
     "text": "Unabhängigkeit und Würde.",
-    "t": 668.97
+    "t": 668.37
    },
    {
     "speaker": "Tom",
     "text": "Und genau das bauen diese drei Gesetze langsam auf.",
-    "t": 670.52
+    "t": 669.92
    },
    {
     "speaker": "Anna",
     "text": "Und ehrlich gesagt — das hilft weit mehr Menschen, als wir denken.",
-    "t": 673.39
+    "t": 672.79
    },
    {
     "speaker": "Anna",
     "text": "Nicht nur Menschen mit einer dauerhaften Behinderung.",
-    "t": 677.43
+    "t": 676.83
    },
    {
     "speaker": "Tom",
     "text": "So wahr. Denken Sie an einen Elternteil, der einen Kinderwagen schiebt — auch er freut sich über eine Rampe.",
-    "t": 680.18
+    "t": 679.58
    },
    {
     "speaker": "Tom",
     "text": "Denken Sie an jemanden mit einem schweren Koffer, oder einem gebrochenen Arm.",
-    "t": 687.7
+    "t": 687.1
    },
    {
     "speaker": "Tom",
     "text": "Denken Sie an einen älteren Menschen, dessen Augen und Ohren müder werden.",
-    "t": 692.01
+    "t": 691.41
    },
    {
     "speaker": "Tom",
     "text": "Barrierefreiheit hilft jedem, irgendwann im Leben.",
-    "t": 696.12
+    "t": 695.52
    },
    {
     "speaker": "Anna",
     "text": "Es ist die klassische Idee — gestalte für die Menschen, die es am meisten brauchen, und du machst das Leben für absolut alle besser.",
-    "t": 699.22
+    "t": 698.62
    },
    {
     "speaker": "Tom",
     "text": "Genau. Eine abgesenkte Bordsteinkante wurde für Rollstühle gemacht — aber die ganze Stadt nutzt sie.",
-    "t": 706.74
+    "t": 706.14
    },
    {
     "speaker": "Anna",
     "text": "Gut, Tom — bringen wir es zum Abschluss.",
-    "t": 713.99
+    "t": 713.39
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich zuhöre, was sollte ich mir merken, und was kann ich tun?",
-    "t": 716.75
+    "t": 716.15
    },
    {
     "speaker": "Tom",
     "text": "Drei einfache Dinge.",
-    "t": 720.38
+    "t": 719.78
    },
    {
     "speaker": "Tom",
     "text": "Erstens — merken Sie sich die Website.",
-    "t": 721.76
+    "t": 721.16
    },
    {
     "speaker": "Tom",
     "text": "accessibilite Punkt l-u.",
-    "t": 724.42
+    "t": 723.82
    },
    {
     "speaker": "Tom",
     "text": "Sie ist die offizielle Eingangstür zu allen drei Bereichen.",
-    "t": 726.88
+    "t": 726.28
    },
    {
     "speaker": "Anna",
     "text": "accessibilite.lu. Verstanden.",
-    "t": 730.27
+    "t": 729.67
    },
    {
     "speaker": "Tom",
     "text": "Zweitens — wenn eine öffentliche Website Sie blockiert, haben Sie das Recht, sich zu beschweren und eine Antwort zu bekommen.",
-    "t": 733.24
+    "t": 732.64
    },
    {
     "speaker": "Tom",
     "text": "Geben Sie nicht einfach auf — melden Sie es.",
-    "t": 740.02
+    "t": 739.42
    },
    {
     "speaker": "Anna",
     "text": "Und drittens?",
-    "t": 742.85
+    "t": 742.25
    },
    {
     "speaker": "Tom",
     "text": "Drittens — wenn ein Produkt oder eine Dienstleistung nicht barrierefrei ist, können Sie das ebenfalls melden, über MyGuichet.lu.",
-    "t": 744.08
+    "t": 743.48
    },
    {
     "speaker": "Tom",
     "text": "Ihre Stimme hilft, die Dinge zu verbessern, für Sie und für den nächsten Menschen.",
-    "t": 752.35
+    "t": 751.75
    },
    {
     "speaker": "Anna",
     "text": "Und wenn Sie ein Fachmann sind — ein Architekt, ein Unternehmer, ein Website-Betreiber?",
-    "t": 756.83
+    "t": 756.23
    },
    {
     "speaker": "Tom",
     "text": "Dann ist die Website auf andere Weise für Sie da.",
-    "t": 762.39
+    "t": 761.79
    },
    {
     "speaker": "Tom",
     "text": "Sie enthält die Gesetze, die Normen, die Werkzeugkästen — alles, was Sie brauchen, um Ihren Teil zu tun.",
-    "t": 765.3
+    "t": 764.7
    },
    {
     "speaker": "Tom",
     "text": "Denn Barrierefreiheit ist kein Gefallen.",
-    "t": 771.85
+    "t": 771.25
    },
    {
     "speaker": "Tom",
     "text": "Sie wird zur normalen Art, Dinge zu tun.",
-    "t": 774.45
+    "t": 773.85
    },
    {
     "speaker": "Anna",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 777.07
+    "t": 776.47
    },
    {
     "speaker": "Tom",
     "text": "Gerne. Luxemburg hat einen offiziellen Knotenpunkt — accessibilite.lu — für drei Bereiche der Barrierefreiheit.",
-    "t": 779.33
+    "t": 778.73
    },
    {
     "speaker": "Tom",
     "text": "Digitales, mit dem Gesetz von 2019, für öffentliche Websites und Apps.",
-    "t": 787.35
+    "t": 786.75
    },
    {
     "speaker": "Tom",
     "text": "Infrastruktur, mit dem Gesetz von 2022, für barrierefreie Gebäude, Straßen und Wohnungen, gegründet auf universelles Design, mit einer Frist im Jahr 2032 für bestehende öffentliche Orte.",
-    "t": 792.82
+    "t": 792.22
    },
    {
     "speaker": "Tom",
     "text": "Und Produkte und Dienstleistungen, das neueste, aus dem European Accessibility Act (Europäisches Barrierefreiheitsgesetz), gültig seit Juni 2025, überwacht vom Amt OSAPS — mit nun auch privaten Unternehmen, die einbezogen sind.",
-    "t": 806.65
+    "t": 806.05
    },
    {
     "speaker": "Anna",
     "text": "Und die Botschaft für heute?",
-    "t": 822.47
+    "t": 821.87
    },
    {
     "speaker": "Tom",
     "text": "Barrierefreiheit ist nicht nur für „andere Leute\".",
-    "t": 824.27
+    "t": 823.67
    },
    {
     "speaker": "Tom",
     "text": "Sie ist für uns alle — heute, oder morgen.",
-    "t": 827.39
+    "t": 826.79
    },
    {
     "speaker": "Tom",
     "text": "Eine Welt, die für alle gebaut ist, ist ganz einfach eine bessere Welt zum Leben.",
-    "t": 830.29
+    "t": 829.69
    },
    {
     "speaker": "Anna",
     "text": "Also... ob Sie ein Bürger sind, der auf ein Hindernis stößt, oder ein Fachmann, der Dinge baut — denken Sie an die Eingangstür.",
-    "t": 834.88
+    "t": 834.28
    },
    {
     "speaker": "Anna",
     "text": "accessibilite.lu.",
-    "t": 842.87
+    "t": 842.27
    },
    {
     "speaker": "Tom",
     "text": "Eine Website, drei Versprechen, und ein Land, das langsam jede Tür öffnet.",
-    "t": 845.09
+    "t": 844.49
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über Barrierefreiheit.",
-    "t": 849.86
+    "t": 849.26
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 852.46
+    "t": 851.86
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 861.01
+    "t": 860.41
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 878.86
+    "t": 878.26
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 884.56
+    "t": 883.96
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 886.81
+    "t": 886.21
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 891.7
+    "t": 891.1
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 892.85
+    "t": 892.25
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 896.06
+    "t": 895.46
    }
   ],
   "segments_lb": [
@@ -33250,7 +33250,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_accessibilite_fr.mp3",
-  "duration_fr": 777.98,
+  "duration_fr": 777.33,
   "title_fr": "L'accessibilité pour tous – les trois promesses du Luxembourg",
   "description_fr": "Ce qu'est accessibilite.lu et les trois domaines qu'il rassemble : l'accessibilité numérique des sites et applications publics (loi du 28 mai 2019), des bâtiments, rues et logements accessibles grâce au design universel (loi du 7 janvier 2022), et des produits et services accessibles dans le cadre de l'Acte européen sur l'accessibilité (applicable depuis le 28 juin 2025, surveillé par l'OSAPS).",
   "topics_fr": [
@@ -33321,7 +33321,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_accessibilite_de.mp3",
-  "duration_de": 897.59,
+  "duration_de": 896.99,
   "title_de": "Barrierefreiheit für alle – Luxemburgs drei Versprechen",
   "description_de": "Was accessibilite.lu ist und die drei Bereiche, die es zusammenbringt: die digitale Barrierefreiheit öffentlicher Websites und Apps (Gesetz vom 28. Mai 2019), barrierefreie Gebäude, Straßen und Wohnungen durch universelles Design (Gesetz vom 7. Januar 2022) und barrierefreie Produkte und Dienstleistungen im Rahmen des Europäischen Rechtsakts zur Barrierefreiheit (anwendbar seit dem 28. Juni 2025, überwacht von der OSAPS).",
   "topics_de": [
@@ -34499,1023 +34499,1023 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Anna",
     "text": "Et le sujet d'aujourd'hui est parfait pour ça, parce qu'il est question de franchir des frontières.",
-    "t": 23.57
+    "t": 23.12
    },
    {
     "speaker": "Anna",
     "text": "On va parler de quelque chose qu'on appelle la Grande Région — et de son foyer, la Maison de la Grande Région.",
-    "t": 27.85
+    "t": 27.4
    },
    {
     "speaker": "Tom",
     "text": "La Grande Région.",
-    "t": 32.99
+    "t": 32.54
    },
    {
     "speaker": "Tom",
     "text": "Anna, beaucoup de gens ont déjà entendu ces mots, mais ne savent pas trop ce que ça veut dire.",
-    "t": 34.28
+    "t": 33.83
    },
    {
     "speaker": "Tom",
     "text": "Commençons par là.",
-    "t": 38.73
+    "t": 38.28
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que la Grande Région ?",
-    "t": 39.91
+    "t": 39.46
    },
    {
     "speaker": "Anna",
     "text": "Alors, la Grande Région est un grand territoire transfrontalier, en plein cœur de l'Europe.",
-    "t": 41.61
+    "t": 41.16
    },
    {
     "speaker": "Anna",
     "text": "Imaginez la carte.",
-    "t": 45.85
+    "t": 45.4
    },
    {
     "speaker": "Anna",
     "text": "Elle réunit cinq régions, dans quatre pays, avec trois langues.",
-    "t": 47.13
+    "t": 46.68
    },
    {
     "speaker": "Tom",
     "text": "Quatre pays ! Lesquels ?",
-    "t": 50.6
+    "t": 50.15
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg, au milieu.",
-    "t": 52.4
+    "t": 51.95
    },
    {
     "speaker": "Anna",
     "text": "Ensuite un morceau de la France — la Lorraine, dans la région Grand Est.",
-    "t": 53.94
+    "t": 53.49
    },
    {
     "speaker": "Anna",
     "text": "Deux parties de l'Allemagne — la Sarre et la Rhénanie-Palatinat.",
-    "t": 57.25
+    "t": 56.8
    },
    {
     "speaker": "Anna",
     "text": "Et des parties de la Belgique — la Wallonie, la Fédération Wallonie-Bruxelles, et la Communauté germanophone.",
-    "t": 60.59
+    "t": 60.14
    },
    {
     "speaker": "Tom",
     "text": "Donc le Luxembourg se trouve juste au centre de tout ça.",
-    "t": 66.23
+    "t": 65.78
    },
    {
     "speaker": "Anna",
     "text": "En plein cœur.",
-    "t": 69.31
+    "t": 68.86
    },
    {
     "speaker": "Anna",
     "text": "Et c'est grand.",
-    "t": 70.25
+    "t": 69.8
    },
    {
     "speaker": "Anna",
     "text": "On parle de plus de soixante-cinq mille kilomètres carrés, et de plus de onze virgule huit millions de personnes qui y vivent.",
-    "t": 71.1
+    "t": 70.65
    },
    {
     "speaker": "Tom",
     "text": "Onze virgule huit millions.",
-    "t": 77.25
+    "t": 76.8
    },
    {
     "speaker": "Tom",
     "text": "Ça fait beaucoup de monde.",
-    "t": 78.83
+    "t": 78.38
    },
    {
     "speaker": "Tom",
     "text": "Et ces gens franchissent ces frontières tout le temps, n'est-ce pas ?",
-    "t": 80.21
+    "t": 79.76
    },
    {
     "speaker": "Anna",
     "text": "Tout le temps.",
-    "t": 83.2
+    "t": 82.75
    },
    {
     "speaker": "Anna",
     "text": "Et voici le chiffre qui compte vraiment pour le Luxembourg — environ deux cent soixante-dix mille personnes franchissent une frontière chaque jour pour aller travailler.",
-    "t": 84.08
+    "t": 83.63
    },
    {
     "speaker": "Tom",
     "text": "Deux cent soixante-dix mille, chaque jour.",
-    "t": 91.22
+    "t": 90.77
    },
    {
     "speaker": "Anna",
     "text": "Chaque jour. C'est le plus grand nombre de travailleurs frontaliers de toute l'Europe.",
-    "t": 93.45
+    "t": 93
    },
    {
     "speaker": "Anna",
     "text": "Et voici un détail frappant — environ la moitié de ces frontaliers vivent en France, et à peu près les trois quarts d'entre eux viennent travailler au Luxembourg.",
-    "t": 97.31
+    "t": 96.86
    },
    {
     "speaker": "Tom",
     "text": "Donc pour le Luxembourg, ce n'est pas une idée abstraite.",
-    "t": 104.56
+    "t": 104.11
    },
    {
     "speaker": "Tom",
     "text": "La Grande Région, c'est littéralement celles et ceux qui viennent travailler ici chaque matin.",
-    "t": 107.43
+    "t": 106.98
    },
    {
     "speaker": "Anna",
     "text": "Exactement. L'infirmière, le maçon, le banquier, l'enseignante — beaucoup d'entre eux franchissent une frontière pour arriver ici.",
-    "t": 112.13
+    "t": 111.68
    },
    {
     "speaker": "Anna",
     "text": "La Grande Région, c'est la vie de tous les jours.",
-    "t": 118.39
+    "t": 117.94
    },
    {
     "speaker": "Tom",
     "text": "D'accord. Ça, c'est le « quoi ».",
-    "t": 120.61
+    "t": 120.16
    },
    {
     "speaker": "Tom",
     "text": "Maintenant parle-moi du foyer — la Maison de la Grande Région.",
-    "t": 122.63
+    "t": 122.18
    },
    {
     "speaker": "Anna",
     "text": "Oui. Alors, toute cette coopération entre quatre pays a besoin d'un endroit où vivre.",
-    "t": 125.91
+    "t": 125.46
    },
    {
     "speaker": "Anna",
     "text": "Et cet endroit est un vrai bâtiment — la Maison de la Grande Région.",
-    "t": 129.66
+    "t": 129.21
    },
    {
     "speaker": "Anna",
     "text": "En allemand, le Haus der Großregion.",
-    "t": 132.92
+    "t": 132.47
    },
    {
     "speaker": "Tom",
     "text": "Et où se trouve-t-elle ?",
-    "t": 135.17
+    "t": 134.72
    },
    {
     "speaker": "Anna",
     "text": "Elle est ici au Luxembourg — à Esch-sur-Alzette, dans le sud.",
-    "t": 136.59
+    "t": 136.14
    },
    {
     "speaker": "Anna",
     "text": "Sur le boulevard J.F.",
-    "t": 139.69
+    "t": 139.24
    },
    {
     "speaker": "Anna",
     "text": "Kennedy. Elle a ouvert en deux mille quinze.",
-    "t": 141.04
+    "t": 140.59
    },
    {
     "speaker": "Tom",
     "text": "Donc elle est assez jeune — environ dix ans.",
-    "t": 143.98
+    "t": 143.53
    },
    {
     "speaker": "Anna",
     "text": "Jeune, oui. Elle a été créée comme un lieu de rencontre, d'échange et de communication — un seul toit pour toutes les personnes qui travaillent sur la coopération transfrontalière.",
-    "t": 146.36
+    "t": 145.91
    },
    {
     "speaker": "Tom",
     "text": "Donc au lieu d'avoir tout le monde dispersé dans quatre pays, ils ont une maison commune.",
-    "t": 155.09
+    "t": 154.64
    },
    {
     "speaker": "Anna",
     "text": "C'est l'idée. Sous ce même toit, on trouve plusieurs équipes.",
-    "t": 159.55
+    "t": 159.1
    },
    {
     "speaker": "Anna",
     "text": "La principale, c'est le Secrétariat du Sommet de la Grande Région.",
-    "t": 162.76
+    "t": 162.31
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi le secrétariat du Comité économique et social.",
-    "t": 165.83
+    "t": 165.38
    },
    {
     "speaker": "Anna",
     "text": "Il y a l'équipe qui gère le programme de financement européen, qu'on appelle Interreg.",
-    "t": 169.02
+    "t": 168.57
    },
    {
     "speaker": "Anna",
     "text": "Il y a une représentation d'une des régions allemandes, la Rhénanie-Palatinat.",
-    "t": 172.77
+    "t": 172.32
    },
    {
     "speaker": "Anna",
     "text": "Et il y a des réseaux de villes et de communes, comme QuattroPole et EuRegio.",
-    "t": 176.15
+    "t": 175.7
    },
    {
     "speaker": "Tom",
     "text": "Donc c'est vraiment une maison pleine de voisins différents, qui travaillent tous vers le même but.",
-    "t": 179.95
+    "t": 179.5
    },
    {
     "speaker": "Anna",
     "text": "Joliment dit. Quatre pays, plusieurs équipes, un seul foyer.",
-    "t": 184.5
+    "t": 184.05
    },
    {
     "speaker": "Tom",
     "text": "Maintenant Anna, tu as dit « Sommet ».",
-    "t": 188.28
+    "t": 187.83
    },
    {
     "speaker": "Tom",
     "text": "Ça a l'air important.",
-    "t": 190.41
+    "t": 189.96
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que le Sommet de la Grande Région ?",
-    "t": 191.67
+    "t": 191.22
    },
    {
     "speaker": "Anna",
     "text": "Le Sommet, c'est la table politique au plus haut niveau.",
-    "t": 193.84
+    "t": 193.39
    },
    {
     "speaker": "Anna",
     "text": "C'est là que les dirigeants de toutes ces régions s'assoient ensemble pour fixer le cap.",
-    "t": 196.44
+    "t": 195.99
    },
    {
     "speaker": "Anna",
     "text": "Donc — le Premier ministre du Luxembourg, les Ministres-présidents des régions allemandes, de la Wallonie, les dirigeants du côté français, et ainsi de suite.",
-    "t": 200.33
+    "t": 199.88
    },
    {
     "speaker": "Anna",
     "text": "Ils se réunissent en tant que Sommet.",
-    "t": 208.18
+    "t": 207.73
    },
    {
     "speaker": "Tom",
     "text": "Donc les véritables chefs de gouvernement, autour d'une même table.",
-    "t": 210.02
+    "t": 209.57
    },
    {
     "speaker": "Anna",
     "text": "Autour d'une même table.",
-    "t": 213.62
+    "t": 213.17
    },
    {
     "speaker": "Anna",
     "text": "Ils fixent la stratégie pour travailler ensemble.",
-    "t": 214.94
+    "t": 214.49
    },
    {
     "speaker": "Anna",
     "text": "Et la présidence tourne — chaque région prend son tour à la tête du Sommet, pour vingt-quatre mois, deux ans à la fois.",
-    "t": 217.16
+    "t": 216.71
    },
    {
     "speaker": "Tom",
     "text": "Donc chacun a son tour de diriger.",
-    "t": 222.57
+    "t": 222.12
    },
    {
     "speaker": "Tom",
     "text": "Ça paraît juste.",
-    "t": 224.47
+    "t": 224.02
    },
    {
     "speaker": "Anna",
     "text": "C'est très voulu.",
-    "t": 225.83
+    "t": 225.38
    },
    {
     "speaker": "Anna",
     "text": "Personne ne domine.",
-    "t": 226.93
+    "t": 226.48
    },
    {
     "speaker": "Anna",
     "text": "C'est un partenariat entre égaux.",
-    "t": 228.12
+    "t": 227.67
    },
    {
     "speaker": "Anna",
     "text": "Et en dessous du Sommet, il y a la machine du quotidien — un comité de représentants personnels, et le Secrétariat dans la Maison, qui fait vraiment avancer le travail entre les grandes réunions.",
-    "t": 229.88
+    "t": 229.43
    },
    {
     "speaker": "Tom",
     "text": "Et le Secrétariat — c'est l'équipe dans la Maison à Esch.",
-    "t": 238.66
+    "t": 238.21
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Créé en deux mille treize, il coordonne et soutient toute la coopération, et ses groupes de travail.",
-    "t": 241.74
+    "t": 241.29
    },
    {
     "speaker": "Anna",
     "text": "C'est un point de contact essentiel, et une source majeure d'information sur la Grande Région.",
-    "t": 247.67
+    "t": 247.22
    },
    {
     "speaker": "Tom",
     "text": "Est-ce qu'il y a d'autres instances aussi ?",
-    "t": 251.98
+    "t": 251.53
    },
    {
     "speaker": "Anna",
     "text": "Deux autres qui valent la peine d'être connues.",
-    "t": 254.36
+    "t": 253.91
    },
    {
     "speaker": "Anna",
     "text": "Il y a un Conseil parlementaire interrégional — ce sont les parlements des régions, qui donnent des avis et des recommandations.",
-    "t": 256.54
+    "t": 256.09
    },
    {
     "speaker": "Anna",
     "text": "Et il y a le Comité économique et social — qui réunit les employeurs et les salariés, les organisations professionnelles, de part et d'autre de la frontière.",
-    "t": 262.35
+    "t": 261.9
    },
    {
     "speaker": "Anna",
     "text": "C'est d'ailleurs la seule instance transfrontalière de ce genre en Europe.",
-    "t": 269.87
+    "t": 269.42
    },
    {
     "speaker": "Tom",
     "text": "Donc ce ne sont pas seulement les gouvernements.",
-    "t": 273.2
+    "t": 272.75
    },
    {
     "speaker": "Tom",
     "text": "Ce sont les parlements, et aussi les travailleurs et les employeurs.",
-    "t": 275.34
+    "t": 274.89
    },
    {
     "speaker": "Anna",
     "text": "Toute la société, autour de la même table.",
-    "t": 278.92
+    "t": 278.47
    },
    {
     "speaker": "Anna",
     "text": "C'est ça qui la rend spéciale.",
-    "t": 281.08
+    "t": 280.63
    },
    {
     "speaker": "Tom",
     "text": "Laisse-moi poser la question que beaucoup d'auditeurs se posent.",
-    "t": 282.84
+    "t": 282.39
    },
    {
     "speaker": "Tom",
     "text": "Tout ça est très bien — mais qu'est-ce que ça m'apporte concrètement, dans ma vie de tous les jours ?",
-    "t": 285.86
+    "t": 285.41
    },
    {
     "speaker": "Anna",
     "text": "Excellente question. Et la réponse, c'est — bien plus que les gens ne l'imaginent.",
-    "t": 290.18
+    "t": 289.73
    },
    {
     "speaker": "Anna",
     "text": "Laisse-moi donner quelques exemples concrets.",
-    "t": 294.13
+    "t": 293.68
    },
    {
     "speaker": "Anna",
     "text": "Commençons par le travail.",
-    "t": 296.22
+    "t": 295.77
    },
    {
     "speaker": "Tom",
     "text": "Oui — parce qu'ici, tant de gens franchissent une frontière pour leur emploi.",
-    "t": 297.84
+    "t": 297.39
    },
    {
     "speaker": "Anna",
     "text": "Exactement. La Grande Région œuvre pour rendre ça plus facile — des frontières ouvertes, la libre circulation des travailleurs, et des programmes de formation transfrontaliers, pour qu'un jeune puisse apprendre un métier d'un côté et travailler de l'autre.",
-    "t": 301.31
+    "t": 300.86
    },
    {
     "speaker": "Anna",
     "text": "Il existe même un accord-cadre spécial pour la formation professionnelle transfrontalière.",
-    "t": 312.62
+    "t": 312.17
    },
    {
     "speaker": "Tom",
     "text": "Donc ton apprentissage dans un pays peut compter dans un autre.",
-    "t": 317.16
+    "t": 316.71
    },
    {
     "speaker": "Anna",
     "text": "C'est l'objectif. Et il y a un observatoire du marché de l'emploi qui étudie le marché du travail transfrontalier, pour que les décisions reposent sur des données réelles.",
-    "t": 320.28
+    "t": 319.83
    },
    {
     "speaker": "Tom",
     "text": "D'accord, ça c'est le travail.",
-    "t": 328.03
+    "t": 327.58
    },
    {
     "speaker": "Tom",
     "text": "Et pour les déplacements — la mobilité ?",
-    "t": 329.73
+    "t": 329.28
    },
    {
     "speaker": "Anna",
     "text": "La mobilité est une grande priorité, parce que si tu franchis une frontière chaque jour, le trafic et les transports sont ta réalité quotidienne.",
-    "t": 332.07
+    "t": 331.62
    },
    {
     "speaker": "Anna",
     "text": "La Grande Région soutient des projets qui combinent les transports en commun avec des façons de voyager plus écologiques.",
-    "t": 338.72
+    "t": 338.27
    },
    {
     "speaker": "Anna",
     "text": "Et sur son site internet, il y a des calculateurs d'itinéraires — des outils qui aident à planifier un trajet à travers les frontières, avec des informations en temps réel.",
-    "t": 344.16
+    "t": 343.71
    },
    {
     "speaker": "Tom",
     "text": "Donc un seul outil peut planifier un trajet qui passe d'un pays à l'autre.",
-    "t": 352.28
+    "t": 351.83
    },
    {
     "speaker": "Anna",
     "text": "Exactement — parce que ton trajet se moque de la frontière, et l'horaire devrait faire pareil.",
-    "t": 356.11
+    "t": 355.66
    },
    {
     "speaker": "Tom",
     "text": "Voici un point qui me fascine.",
-    "t": 360.44
+    "t": 359.99
    },
    {
     "speaker": "Tom",
     "text": "Les soins de santé au-delà des frontières.",
-    "t": 362.35
+    "t": 361.9
    },
    {
     "speaker": "Tom",
     "text": "Parle-moi de ça.",
-    "t": 364.64
+    "t": 364.19
    },
    {
     "speaker": "Anna",
     "text": "Ça, ça peut vraiment sauver des vies.",
-    "t": 365.82
+    "t": 365.37
    },
    {
     "speaker": "Anna",
     "text": "Les régions ont construit des partenariats entre les hôpitaux et les services d'urgence.",
-    "t": 367.68
+    "t": 367.23
    },
    {
     "speaker": "Anna",
     "text": "Donc dans certaines zones frontalières, une personne peut recevoir des soins médicaux de l'autre côté de la frontière — parfois sans coût supplémentaire ni souci d'assurance.",
-    "t": 371.58
+    "t": 371.13
    },
    {
     "speaker": "Tom",
     "text": "Donc l'hôpital le plus proche, même s'il est dans un autre pays, peut être ton hôpital.",
-    "t": 379.98
+    "t": 379.53
    },
    {
     "speaker": "Anna",
     "text": "Dans ces zones, oui.",
-    "t": 384.54
+    "t": 384.09
    },
    {
     "speaker": "Anna",
     "text": "Si tu as un accident, c'est l'ambulance la plus proche qui vient — pas l'ambulance la plus proche dans ton propre pays.",
-    "t": 385.88
+    "t": 385.43
    },
    {
     "speaker": "Anna",
     "text": "Quand chaque minute compte, ça change tout.",
-    "t": 391.18
+    "t": 390.73
    },
    {
     "speaker": "Tom",
     "text": "C'est une façon tellement humaine de penser une frontière.",
-    "t": 393.34
+    "t": 392.89
    },
    {
     "speaker": "Tom",
     "text": "D'accord — et l'éducation ?",
-    "t": 396.03
+    "t": 395.58
    },
    {
     "speaker": "Anna",
     "text": "L'éducation, c'est un vrai joyau.",
-    "t": 397.86
+    "t": 397.41
    },
    {
     "speaker": "Anna",
     "text": "Il y a l'Université de la Grande Région.",
-    "t": 399.75
+    "t": 399.3
    },
    {
     "speaker": "Anna",
     "text": "Elle relie sept universités, dans quatre pays, et permet aux étudiants de passer de l'une à l'autre.",
-    "t": 401.7
+    "t": 401.25
    },
    {
     "speaker": "Tom",
     "text": "Sept universités qui fonctionnent comme un seul réseau.",
-    "t": 406.65
+    "t": 406.2
    },
    {
     "speaker": "Anna",
     "text": "Comme un seul réseau.",
-    "t": 409.74
+    "t": 409.29
    },
    {
     "speaker": "Anna",
     "text": "Plus de cent quarante mille étudiants, avec des cursus transfrontaliers, des doubles diplômes, des diplômes communs.",
-    "t": 410.96
+    "t": 410.51
    },
    {
     "speaker": "Anna",
     "text": "Donc un jeune peut étudier dans plusieurs pays et en ressortir avec des qualifications reconnues dans toute la Région.",
-    "t": 416.64
+    "t": 416.19
    },
    {
     "speaker": "Tom",
     "text": "Et les langues ?",
-    "t": 421.95
+    "t": 421.5
    },
    {
     "speaker": "Anna",
     "text": "C'est la magie du quotidien de cet endroit.",
-    "t": 423.05
+    "t": 422.6
    },
    {
     "speaker": "Anna",
     "text": "Trois langues — le français, l'allemand, et le luxembourgeois qui se mêle à tout ça.",
-    "t": 425.17
+    "t": 424.72
    },
    {
     "speaker": "Anna",
     "text": "En grandissant ici, ou en travaillant ici, on vit dans un monde multilingue.",
-    "t": 429.04
+    "t": 428.59
    },
    {
     "speaker": "Anna",
     "text": "Et la Région investit dans l'apprentissage des langues et dans des partenariats entre écoles, justement pour que les gens puissent se déplacer et travailler au-delà des frontières.",
-    "t": 432.75
+    "t": 432.3
    },
    {
     "speaker": "Tom",
     "text": "Et il y a aussi la culture, j'imagine.",
-    "t": 440.82
+    "t": 440.37
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup de culture.",
-    "t": 443.15
+    "t": 442.7
    },
    {
     "speaker": "Anna",
     "text": "Souviens-toi, en deux mille sept, le Luxembourg et la Grande Région ont été ensemble Capitale européenne de la culture pendant toute une année.",
-    "t": 444.39
+    "t": 443.94
    },
    {
     "speaker": "Anna",
     "text": "Cette année a laissé un vrai esprit culturel transfrontalier — et on le sent encore partout dans la Région.",
-    "t": 450.64
+    "t": 450.19
    },
    {
     "speaker": "Tom",
     "text": "Donc la Grande Région, ce n'est pas seulement de la politique et de la paperasse — il y a aussi une vraie culture qui y vit.",
-    "t": 455.71
+    "t": 455.26
    },
    {
     "speaker": "Anna",
     "text": "De la culture, du tourisme, un patrimoine partagé, des sites du patrimoine mondial de l'UNESCO partout dans la Région.",
-    "t": 461.68
+    "t": 461.23
    },
    {
     "speaker": "Anna",
     "text": "C'est un endroit avec une histoire commune profonde — et beaucoup de choses à découvrir.",
-    "t": 467.65
+    "t": 467.2
    },
    {
     "speaker": "Tom",
     "text": "Revenons un instant en arrière.",
-    "t": 471.68
+    "t": 471.23
    },
    {
     "speaker": "Tom",
     "text": "Comment tout ça a-t-il commencé ?",
-    "t": 473.34
+    "t": 472.89
    },
    {
     "speaker": "Tom",
     "text": "Ça ne s'est pas fait du jour au lendemain.",
-    "t": 475.08
+    "t": 474.63
    },
    {
     "speaker": "Anna",
     "text": "Non, ça s'est construit lentement, sur des décennies.",
-    "t": 477.08
+    "t": 476.63
    },
    {
     "speaker": "Anna",
     "text": "La première graine remonte à mille neuf cent soixante-neuf — une commission mise en place entre l'Allemagne et la France.",
-    "t": 479.87
+    "t": 479.42
    },
    {
     "speaker": "Anna",
     "text": "Deux ans plus tard, en soixante et onze, le Luxembourg a rejoint.",
-    "t": 485.27
+    "t": 484.82
    },
    {
     "speaker": "Anna",
     "text": "Puis les régions allemandes, le côté français, les partenaires belges sont venus au fil des années.",
-    "t": 488.34
+    "t": 487.89
    },
    {
     "speaker": "Tom",
     "text": "Donc ça s'est construit pièce par pièce.",
-    "t": 492.94
+    "t": 492.49
    },
    {
     "speaker": "Anna",
     "text": "Pièce par pièce.",
-    "t": 495.13
+    "t": 494.68
    },
    {
     "speaker": "Anna",
     "text": "Et une grande étape a été mille neuf cent quatre-vingt-quinze — le tout premier Sommet des dirigeants, tenu ici au Luxembourg, à Mondorf-les-Bains.",
-    "t": 496.36
+    "t": 495.91
    },
    {
     "speaker": "Anna",
     "text": "C'est là que c'est vraiment devenu un véritable partenariat.",
-    "t": 502.93
+    "t": 502.48
    },
    {
     "speaker": "Anna",
     "text": "Et puis, en deux mille quinze, il a obtenu son foyer physique — la Maison à Esch.",
-    "t": 505.67
+    "t": 505.22
    },
    {
     "speaker": "Tom",
     "text": "D'une idée entre deux pays, à quatre pays avec une maison commune.",
-    "t": 509.77
+    "t": 509.32
    },
    {
     "speaker": "Tom",
     "text": "C'est tout un parcours.",
-    "t": 513.3
+    "t": 512.85
    },
    {
     "speaker": "Anna",
     "text": "Vraiment. Et ça vaut la peine de s'arrêter sur pourquoi c'est important.",
-    "t": 514.8
+    "t": 514.35
    },
    {
     "speaker": "Anna",
     "text": "C'est une partie de l'Europe qui, par le passé, a connu la guerre et des frontières dures.",
-    "t": 518.04
+    "t": 517.59
    },
    {
     "speaker": "Anna",
     "text": "Et aujourd'hui, ces mêmes frontières sont des endroits où une ambulance traverse pour sauver une vie, où un étudiant étudie dans trois pays, où deux cent soixante-dix mille personnes traversent chaque jour juste pour aller travailler — en paix.",
-    "t": 521.95
+    "t": 521.5
    },
    {
     "speaker": "Tom",
     "text": "Quand tu le présentes comme ça, c'est vraiment émouvant.",
-    "t": 534.44
+    "t": 533.99
    },
    {
     "speaker": "Tom",
     "text": "La frontière est passée d'un mur à une porte.",
-    "t": 536.87
+    "t": 536.42
    },
    {
     "speaker": "Anna",
     "text": "D'un mur à une porte.",
-    "t": 539.49
+    "t": 539.04
    },
    {
     "speaker": "Anna",
     "text": "C'est exactement l'esprit de la Grande Région.",
-    "t": 540.86
+    "t": 540.41
    },
    {
     "speaker": "Tom",
     "text": "Rendons ça vraiment concret, Anna.",
-    "t": 543.2
+    "t": 542.75
    },
    {
     "speaker": "Tom",
     "text": "Est-ce qu'on peut suivre une seule personne ?",
-    "t": 545.16
+    "t": 544.71
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. Imaginons une jeune femme — appelons-la Léa.",
-    "t": 547.37
+    "t": 546.92
    },
    {
     "speaker": "Anna",
     "text": "Elle grandit en Lorraine, en France, juste de l'autre côté de la frontière.",
-    "t": 550.17
+    "t": 549.72
    },
    {
     "speaker": "Tom",
     "text": "Une histoire très courante par ici.",
-    "t": 553.8
+    "t": 553.35
    },
    {
     "speaker": "Anna",
     "text": "Très. Alors, Léa étudie à travers l'Université de la Grande Région — certains cours en France, certains au Luxembourg, certains en Allemagne.",
-    "t": 556
+    "t": 555.55
    },
    {
     "speaker": "Anna",
     "text": "Elle apprend ses langues en chemin.",
-    "t": 562.8
+    "t": 562.35
    },
    {
     "speaker": "Anna",
     "text": "Puis elle trouve un emploi au Luxembourg, et devient l'une des frontalières du quotidien.",
-    "t": 564.45
+    "t": 564
    },
    {
     "speaker": "Tom",
     "text": "L'une des deux cent soixante-dix mille.",
-    "t": 568.49
+    "t": 568.04
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Elle utilise un calculateur d'itinéraire transfrontalier pour organiser ses trajets.",
-    "t": 570.56
+    "t": 570.11
    },
    {
     "speaker": "Anna",
     "text": "Si jamais elle tombe malade près de la frontière, elle peut être soignée à l'hôpital le plus proche, même de l'autre côté de la ligne.",
-    "t": 575.67
+    "t": 575.22
    },
    {
     "speaker": "Anna",
     "text": "Et le week-end, elle profite de la culture et du patrimoine dans toute la Région.",
-    "t": 581.59
+    "t": 581.14
    },
    {
     "speaker": "Tom",
     "text": "Et derrière tout ça, discrètement, il y a le travail coordonné depuis la Maison à Esch.",
-    "t": 585.23
+    "t": 584.78
    },
    {
     "speaker": "Anna",
     "text": "Discrètement, en coulisses — oui.",
-    "t": 589.8
+    "t": 589.35
    },
    {
     "speaker": "Anna",
     "text": "Léa ne mettra peut-être jamais les pieds dans ce bâtiment.",
-    "t": 591.96
+    "t": 591.51
    },
    {
     "speaker": "Anna",
     "text": "Mais les accords qui y sont conclus sont ce qui permet à sa vie de couler si facilement au-delà des frontières.",
-    "t": 594.44
+    "t": 593.99
    },
    {
     "speaker": "Tom",
     "text": "J'adore ça. La Maison travaille pour des gens qui ne l'ont même jamais vue.",
-    "t": 599.4
+    "t": 598.95
    },
    {
     "speaker": "Tom",
     "text": "D'accord Anna — concluons.",
-    "t": 603.17
+    "t": 602.72
    },
    {
     "speaker": "Tom",
     "text": "Si je suis en train d'écouter, qu'est-ce que je dois retenir, et où est-ce que je dois aller ?",
-    "t": 604.83
+    "t": 604.38
    },
    {
     "speaker": "Anna",
     "text": "Trois choses simples.",
-    "t": 609.51
+    "t": 609.06
    },
    {
     "speaker": "Anna",
     "text": "D'abord — la Grande Région est réelle, et elle est à vous.",
-    "t": 610.74
+    "t": 610.29
    },
    {
     "speaker": "Anna",
     "text": "Si vous vivez ou travaillez ici, vous en faites déjà partie.",
-    "t": 613.79
+    "t": 613.34
    },
    {
     "speaker": "Anna",
     "text": "Cinq régions, quatre pays, trois langues — un seul espace partagé.",
-    "t": 616.93
+    "t": 616.48
    },
    {
     "speaker": "Tom",
     "text": "Un seul espace partagé.",
-    "t": 620.71
+    "t": 620.26
    },
    {
     "speaker": "Anna",
     "text": "Ensuite — elle touche votre vie de tous les jours.",
-    "t": 622.46
+    "t": 622.01
    },
    {
     "speaker": "Anna",
     "text": "Le travail, la formation, les transports, la santé, les études, la culture.",
-    "t": 624.86
+    "t": 624.41
    },
    {
     "speaker": "Anna",
     "text": "Si vous franchissez une frontière, ou si vous travaillez avec des gens qui le font, cette coopération vous aide discrètement.",
-    "t": 628.98
+    "t": 628.53
    },
    {
     "speaker": "Tom",
     "text": "Et troisièmement ?",
-    "t": 634.51
+    "t": 634.06
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement — si vous voulez en savoir plus, il y a un seul endroit où regarder.",
-    "t": 635.79
+    "t": 635.34
    },
    {
     "speaker": "Anna",
     "text": "Le site officiel — granderegion point net.",
-    "t": 639.45
+    "t": 639
    },
    {
     "speaker": "Anna",
     "text": "Vous y trouverez les calculateurs d'itinéraires, les outils de formation, les informations, et le contact de la Maison elle-même, à Esch-sur-Alzette.",
-    "t": 641.86
+    "t": 641.41
    },
    {
     "speaker": "Tom",
     "text": "Un petit résumé pour finir ?",
-    "t": 649.24
+    "t": 648.79
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. La Grande Région réunit cinq régions dans quatre pays — le Luxembourg, plus des parties de la France, de l'Allemagne et de la Belgique — plus de onze millions de personnes, et le plus grand flux de travailleurs frontaliers d'Europe.",
-    "t": 651.03
+    "t": 650.58
    },
    {
     "speaker": "Anna",
     "text": "Elle est coordonnée depuis la Maison de la Grande Région, à Esch-sur-Alzette, qui a ouvert en deux mille quinze et accueille le Secrétariat du Sommet ainsi que plusieurs partenaires.",
-    "t": 663.61
+    "t": 663.16
    },
    {
     "speaker": "Anna",
     "text": "Ensemble, ils rendent la vie quotidienne au-delà des frontières plus facile — dans le travail, les transports, la santé, les études et la culture.",
-    "t": 671.84
+    "t": 671.39
    },
    {
     "speaker": "Anna",
     "text": "Et vous pouvez tout trouver sur granderegion.net.",
-    "t": 679.35
+    "t": 678.9
    },
    {
     "speaker": "Tom",
     "text": "Et le message du jour ?",
-    "t": 682.06
+    "t": 681.61
    },
    {
     "speaker": "Anna",
     "text": "Que la frontière autour du Luxembourg n'est pas vraiment un bord — c'est un point de rencontre.",
-    "t": 683.59
+    "t": 683.14
    },
    {
     "speaker": "Anna",
     "text": "Quatre pays ont choisi de construire un foyer ensemble, plutôt que des murs.",
-    "t": 687.96
+    "t": 687.51
    },
    {
     "speaker": "Anna",
     "text": "Et nous vivons tous un peu mieux grâce à ça.",
-    "t": 691.56
+    "t": 691.11
    },
    {
     "speaker": "Tom",
     "text": "Alors... que vous soyez résident ou frontalier — souvenez-vous, vous faites partie de quelque chose de plus grand.",
-    "t": 693.7
+    "t": 693.25
    },
    {
     "speaker": "Tom",
     "text": "La Grande Région.",
-    "t": 699.48
+    "t": 699.03
    },
    {
     "speaker": "Tom",
     "text": "Et son foyer, la Maison de la Grande Région.",
-    "t": 700.78
+    "t": 700.33
    },
    {
     "speaker": "Anna",
     "text": "Quatre pays, un seul foyer, des millions de vies reliées.",
-    "t": 703.58
+    "t": 703.13
    },
    {
     "speaker": "Anna",
     "text": "Ça vaut la peine de le savoir.",
-    "t": 706.66
+    "t": 706.21
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur la Maison de la Grande Région.",
-    "t": 708.15
+    "t": 707.7
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 710.6
+    "t": 710.15
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 718.51
+    "t": 718.06
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 734.38
+    "t": 733.93
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 739.03
+    "t": 738.58
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 740.81
+    "t": 740.36
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 745.19
+    "t": 744.74
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 746.42
+    "t": 745.97
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 748.88
+    "t": 748.43
    }
   ],
   "segments_de": [
@@ -35541,1028 +35541,1028 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Anna",
     "text": "Und unser heutiges Thema passt perfekt dazu, denn es geht ums Grenzüberschreiten.",
-    "t": 28.23
+    "t": 27.73
    },
    {
     "speaker": "Anna",
     "text": "Es geht um etwas, das man die Großregion nennt — und um ihr Zuhause, das Haus der Großregion.",
-    "t": 32.88
+    "t": 32.38
    },
    {
     "speaker": "Tom",
     "text": "Die Großregion. Anna, viele Menschen haben den Begriff schon gehört, sind sich aber nicht ganz sicher, was er bedeutet.",
-    "t": 39.9
+    "t": 39.4
    },
    {
     "speaker": "Tom",
     "text": "Fangen wir damit an.",
-    "t": 46.92
+    "t": 46.42
    },
    {
     "speaker": "Tom",
     "text": "Was ist die Großregion?",
-    "t": 48.21
+    "t": 47.71
    },
    {
     "speaker": "Anna",
     "text": "Also, die Großregion ist ein großes grenzüberschreitendes Gebiet, mitten im Herzen Europas.",
-    "t": 49.79
+    "t": 49.29
    },
    {
     "speaker": "Anna",
     "text": "Stellen Sie sich die Landkarte vor.",
-    "t": 55.99
+    "t": 55.49
    },
    {
     "speaker": "Anna",
     "text": "Sie bringt fünf Regionen zusammen, in vier Ländern, mit drei Sprachen.",
-    "t": 57.98
+    "t": 57.48
    },
    {
     "speaker": "Tom",
     "text": "Vier Länder! Welche denn?",
-    "t": 62.05
+    "t": 61.55
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg, in der Mitte.",
-    "t": 63.82
+    "t": 63.32
    },
    {
     "speaker": "Anna",
     "text": "Dann ein Stück Frankreich — die Region Lothringen, im Grand Est.",
-    "t": 65.77
+    "t": 65.27
    },
    {
     "speaker": "Anna",
     "text": "Zwei Teile Deutschlands — das Saarland und Rheinland-Pfalz.",
-    "t": 70.58
+    "t": 70.08
    },
    {
     "speaker": "Anna",
     "text": "Und Teile Belgiens — die Wallonie, die Föderation Wallonie-Brüssel und die Deutschsprachige Gemeinschaft.",
-    "t": 73.96
+    "t": 73.46
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg liegt also genau im Zentrum von allem.",
-    "t": 80.97
+    "t": 80.47
    },
    {
     "speaker": "Anna",
     "text": "Genau im Herzen.",
-    "t": 83.94
+    "t": 83.44
    },
    {
     "speaker": "Anna",
     "text": "Und sie ist groß.",
-    "t": 85.22
+    "t": 84.72
    },
    {
     "speaker": "Anna",
     "text": "Wir sprechen von mehr als fünfundsechzigtausend Quadratkilometern und über elf Komma acht Millionen Menschen, die dort leben.",
-    "t": 86.62
+    "t": 86.12
    },
    {
     "speaker": "Tom",
     "text": "Elf Komma acht Millionen.",
-    "t": 93.59
+    "t": 93.09
    },
    {
     "speaker": "Tom",
     "text": "Das sind viele Menschen.",
-    "t": 95.36
+    "t": 94.86
    },
    {
     "speaker": "Tom",
     "text": "Und die überqueren ständig diese Grenzen, oder?",
-    "t": 96.78
+    "t": 96.28
    },
    {
     "speaker": "Anna",
     "text": "Ständig. Und hier ist die Zahl, die für Luxemburg wirklich zählt — etwa zweihundertsiebzigtausend Menschen überqueren jeden einzelnen Tag eine Grenze, um zur Arbeit zu fahren.",
-    "t": 99.37
+    "t": 98.87
    },
    {
     "speaker": "Tom",
     "text": "Zweihundertsiebzigtausend, jeden Tag.",
-    "t": 110.48
+    "t": 109.98
    },
    {
     "speaker": "Anna",
     "text": "Jeden Tag. Das ist die höchste Zahl an Grenzgängern in ganz Europa.",
-    "t": 113.05
+    "t": 112.55
    },
    {
     "speaker": "Anna",
     "text": "Und hier noch ein bemerkenswertes Detail — etwa die Hälfte dieser Grenzgänger lebt in Frankreich, und ungefähr drei Viertel von ihnen kommen zum Arbeiten nach Luxemburg.",
-    "t": 117.65
+    "t": 117.15
    },
    {
     "speaker": "Tom",
     "text": "Für Luxemburg ist das also keine abstrakte Idee.",
-    "t": 127.17
+    "t": 126.67
    },
    {
     "speaker": "Tom",
     "text": "Die Großregion ist, ganz buchstäblich, wer hier jeden Morgen zur Arbeit kommt.",
-    "t": 129.99
+    "t": 129.49
    },
    {
     "speaker": "Anna",
     "text": "Genau. Die Krankenschwester, der Bauarbeiter, die Bankangestellte, der Lehrer — viele von ihnen überqueren eine Grenze, um hierherzukommen.",
-    "t": 134.56
+    "t": 134.06
    },
    {
     "speaker": "Anna",
     "text": "Die Großregion ist Alltag.",
-    "t": 143.19
+    "t": 142.69
    },
    {
     "speaker": "Tom",
     "text": "Okay. Das war also das „Was\".",
-    "t": 145.3
+    "t": 144.8
    },
    {
     "speaker": "Tom",
     "text": "Jetzt erzähl mir vom Zuhause — vom Haus der Großregion.",
-    "t": 147.79
+    "t": 147.29
    },
    {
     "speaker": "Anna",
     "text": "Ja. Also, all diese Zusammenarbeit zwischen vier Ländern braucht einen Ort zum Leben.",
-    "t": 151.46
+    "t": 150.96
    },
    {
     "speaker": "Anna",
     "text": "Und dieser Ort ist ein echtes Gebäude — das Haus der Großregion.",
-    "t": 156.76
+    "t": 156.26
    },
    {
     "speaker": "Anna",
     "text": "Auf Französisch die Maison de la Grande Région.",
-    "t": 161.26
+    "t": 160.76
    },
    {
     "speaker": "Anna",
     "text": "Auf Deutsch das Haus der Großregion.",
-    "t": 164.28
+    "t": 163.78
    },
    {
     "speaker": "Tom",
     "text": "Und wo ist es?",
-    "t": 166.63
+    "t": 166.13
    },
    {
     "speaker": "Anna",
     "text": "Es ist hier in Luxemburg — in Esch-sur-Alzette, im Süden.",
-    "t": 167.92
+    "t": 167.42
    },
    {
     "speaker": "Anna",
     "text": "Am Boulevard J.F.",
-    "t": 171.73
+    "t": 171.23
    },
    {
     "speaker": "Anna",
     "text": "Kennedy. Es wurde zweitausendfünfzehn eröffnet.",
-    "t": 173.07
+    "t": 172.57
    },
    {
     "speaker": "Tom",
     "text": "Es ist also ziemlich jung — etwa zehn Jahre alt.",
-    "t": 176.69
+    "t": 176.19
    },
    {
     "speaker": "Anna",
     "text": "Jung, ja. Es wurde als ein Ort der Begegnung, des Austauschs und der Kommunikation geschaffen — ein gemeinsames Dach für all die Menschen, die an der grenzüberschreitenden Zusammenarbeit arbeiten.",
-    "t": 179.88
+    "t": 179.38
    },
    {
     "speaker": "Tom",
     "text": "Statt dass alle über vier Länder verstreut sind, haben sie also ein gemeinsames Haus.",
-    "t": 191.99
+    "t": 191.49
    },
    {
     "speaker": "Anna",
     "text": "Das ist die Idee.",
-    "t": 196.72
+    "t": 196.22
    },
    {
     "speaker": "Anna",
     "text": "Unter diesem einen Dach finden Sie mehrere Teams.",
-    "t": 197.99
+    "t": 197.49
    },
    {
     "speaker": "Anna",
     "text": "Das wichtigste ist das Gipfelsekretariat der Großregion.",
-    "t": 200.86
+    "t": 200.36
    },
    {
     "speaker": "Anna",
     "text": "Dann gibt es das Sekretariat des Wirtschafts- und Sozialausschusses.",
-    "t": 204.28
+    "t": 203.78
    },
    {
     "speaker": "Anna",
     "text": "Es gibt das Team, das das europäische Förderprogramm namens Interreg verwaltet.",
-    "t": 208.07
+    "t": 207.57
    },
    {
     "speaker": "Anna",
     "text": "Es gibt eine Vertretung einer der deutschen Regionen, Rheinland-Pfalz.",
-    "t": 212.55
+    "t": 212.05
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt Netzwerke von Städten und Gemeinden, wie QuattroPole und EuRegio.",
-    "t": 216.57
+    "t": 216.07
    },
    {
     "speaker": "Tom",
     "text": "Es ist also wirklich ein Haus voller verschiedener Nachbarn, die alle auf dasselbe Ziel hinarbeiten.",
-    "t": 221.45
+    "t": 220.95
    },
    {
     "speaker": "Anna",
     "text": "Schön gesagt. Vier Länder, viele Teams, ein Zuhause.",
-    "t": 227.08
+    "t": 226.58
    },
    {
     "speaker": "Tom",
     "text": "Anna, du hast „Gipfel\" gesagt.",
-    "t": 231.07
+    "t": 230.57
    },
    {
     "speaker": "Tom",
     "text": "Das klingt wichtig.",
-    "t": 233.28
+    "t": 232.78
    },
    {
     "speaker": "Tom",
     "text": "Was ist der Gipfel der Großregion?",
-    "t": 234.52
+    "t": 234.02
    },
    {
     "speaker": "Anna",
     "text": "Der Gipfel ist der oberste politische Tisch.",
-    "t": 236.6
+    "t": 236.1
    },
    {
     "speaker": "Anna",
     "text": "Dort setzen sich die Spitzen all dieser Regionen zusammen, um die Richtung vorzugeben.",
-    "t": 239.07
+    "t": 238.57
    },
    {
     "speaker": "Anna",
     "text": "Also — der Premierminister von Luxemburg, die Ministerpräsidenten der deutschen Regionen, der Wallonie, die Spitzen von der französischen Seite und so weiter.",
-    "t": 243.66
+    "t": 243.16
    },
    {
     "speaker": "Anna",
     "text": "Sie treffen sich als der Gipfel.",
-    "t": 253.14
+    "t": 252.64
    },
    {
     "speaker": "Tom",
     "text": "Also die tatsächlichen Regierungschefs, an einem Tisch.",
-    "t": 255.19
+    "t": 254.69
    },
    {
     "speaker": "Anna",
     "text": "An einem Tisch.",
-    "t": 258.42
+    "t": 257.92
    },
    {
     "speaker": "Anna",
     "text": "Sie legen die Strategie für die Zusammenarbeit fest.",
-    "t": 259.75
+    "t": 259.25
    },
    {
     "speaker": "Anna",
     "text": "Und der Vorsitz wechselt — jede Region übernimmt abwechselnd den Vorsitz des Gipfels, für vierundzwanzig Monate, jeweils zwei Jahre lang.",
-    "t": 262.63
+    "t": 262.13
    },
    {
     "speaker": "Tom",
     "text": "Jeder kommt also an die Reihe, die Führung zu übernehmen.",
-    "t": 271.71
+    "t": 271.21
    },
    {
     "speaker": "Tom",
     "text": "Das wirkt fair.",
-    "t": 274.67
+    "t": 274.17
    },
    {
     "speaker": "Anna",
     "text": "Das ist sehr bewusst so.",
-    "t": 275.87
+    "t": 275.37
    },
    {
     "speaker": "Anna",
     "text": "Niemand dominiert. Es ist eine Partnerschaft unter Gleichen.",
-    "t": 277.38
+    "t": 276.88
    },
    {
     "speaker": "Anna",
     "text": "Und unterhalb des Gipfels gibt es die tägliche Maschinerie — einen Ausschuss persönlicher Beauftragter und das Sekretariat im Haus, das die Arbeit zwischen den großen Treffen eigentlich am Laufen hält.",
-    "t": 281.15
+    "t": 280.65
    },
    {
     "speaker": "Tom",
     "text": "Und das Sekretariat — das ist das Team im Haus in Esch.",
-    "t": 292.39
+    "t": 291.89
    },
    {
     "speaker": "Anna",
     "text": "Genau. Es wurde zweitausenddreizehn gegründet, koordiniert und unterstützt die gesamte Zusammenarbeit und ihre Arbeitsgruppen.",
-    "t": 295.8
+    "t": 295.3
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine zentrale Anlaufstelle und eine wichtige Informationsquelle über die Großregion.",
-    "t": 303.05
+    "t": 302.55
    },
    {
     "speaker": "Tom",
     "text": "Gibt es noch weitere Gremien?",
-    "t": 308.39
+    "t": 307.89
    },
    {
     "speaker": "Anna",
     "text": "Zwei weitere, die man kennen sollte.",
-    "t": 310.23
+    "t": 309.73
    },
    {
     "speaker": "Anna",
     "text": "Es gibt einen Interregionalen Parlamentarierrat — das sind die Parlamente der Regionen, die Ratschläge und Empfehlungen geben.",
-    "t": 312.31
+    "t": 311.81
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt den Wirtschafts- und Sozialausschuss — der bringt Arbeitgeber und Arbeitnehmer, die Wirtschafts- und Berufsverbände, über die Grenze hinweg zusammen.",
-    "t": 319.79
+    "t": 319.29
    },
    {
     "speaker": "Anna",
     "text": "Es ist tatsächlich das einzige grenzüberschreitende Gremium dieser Art in Europa.",
-    "t": 328.54
+    "t": 328.04
    },
    {
     "speaker": "Tom",
     "text": "Es geht also nicht nur um Regierungen.",
-    "t": 333.51
+    "t": 333.01
    },
    {
     "speaker": "Tom",
     "text": "Es geht auch um Parlamente, um Arbeitnehmer und Arbeitgeber.",
-    "t": 335.67
+    "t": 335.17
    },
    {
     "speaker": "Anna",
     "text": "Die ganze Gesellschaft, an einem Tisch.",
-    "t": 339.6
+    "t": 339.1
    },
    {
     "speaker": "Anna",
     "text": "Das macht es so besonders.",
-    "t": 342.06
+    "t": 341.56
    },
    {
     "speaker": "Tom",
     "text": "Lass mich die Frage stellen, die sich viele Zuhörerinnen und Zuhörer denken.",
-    "t": 343.98
+    "t": 343.48
    },
    {
     "speaker": "Tom",
     "text": "Das ist alles sehr schön — aber was bringt es mir eigentlich, in meinem Alltag?",
-    "t": 348.15
+    "t": 347.65
    },
    {
     "speaker": "Anna",
     "text": "Gute Frage. Und die Antwort lautet — viel mehr, als die Leute glauben.",
-    "t": 352.78
+    "t": 352.28
    },
    {
     "speaker": "Anna",
     "text": "Lass mich ein paar konkrete Beispiele nennen.",
-    "t": 357.84
+    "t": 357.34
    },
    {
     "speaker": "Anna",
     "text": "Fangen wir mit der Arbeit an.",
-    "t": 360.24
+    "t": 359.74
    },
    {
     "speaker": "Tom",
     "text": "Ja — weil hier so viele Menschen für ihren Job eine Grenze überqueren.",
-    "t": 362.01
+    "t": 361.51
    },
    {
     "speaker": "Anna",
     "text": "Genau. Die Großregion arbeitet daran, das einfacher zu machen — offene Grenzen, freier Personenverkehr der Arbeitnehmer und grenzüberschreitende Ausbildungsprogramme, damit ein junger Mensch auf der einen Seite ein Handwerk erlernen und auf der anderen Seite arbeiten kann.",
-    "t": 366.01
+    "t": 365.51
    },
    {
     "speaker": "Anna",
     "text": "Es gibt sogar ein besonderes Rahmenabkommen für die grenzüberschreitende Berufsausbildung.",
-    "t": 381.32
+    "t": 380.82
    },
    {
     "speaker": "Tom",
     "text": "Deine Ausbildung in einem Land kann also in einem anderen anerkannt werden.",
-    "t": 386.44
+    "t": 385.94
    },
    {
     "speaker": "Anna",
     "text": "Das ist das Ziel.",
-    "t": 390.62
+    "t": 390.12
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt eine Arbeitsmarktbeobachtungsstelle, die den grenzüberschreitenden Arbeitsmarkt untersucht, damit Entscheidungen auf echten Daten beruhen.",
-    "t": 391.93
+    "t": 391.43
    },
    {
     "speaker": "Tom",
     "text": "Okay, das ist die Arbeit.",
-    "t": 399.61
+    "t": 399.11
    },
    {
     "speaker": "Tom",
     "text": "Und was ist mit dem Vorankommen — der Mobilität?",
-    "t": 401.57
+    "t": 401.07
    },
    {
     "speaker": "Anna",
     "text": "Mobilität ist eine große Priorität, denn wenn man jeden Tag eine Grenze überquert, sind Verkehr und Transport die tägliche Realität.",
-    "t": 404.57
+    "t": 404.07
    },
    {
     "speaker": "Anna",
     "text": "Die Großregion unterstützt Projekte, die öffentlichen Verkehr mit umweltfreundlicheren Wegen des Reisens verbinden.",
-    "t": 412.69
+    "t": 412.19
    },
    {
     "speaker": "Anna",
     "text": "Und auf ihrer Website gibt es Reiseplaner — Werkzeuge, die helfen, eine Fahrt über die Grenzen hinweg zu planen, mit Echtzeit-Informationen.",
-    "t": 418.98
+    "t": 418.48
    },
    {
     "speaker": "Tom",
     "text": "Ein einziges Werkzeug kann also eine Fahrt planen, die von einem Land ins andere führt.",
-    "t": 426.96
+    "t": 426.46
    },
    {
     "speaker": "Anna",
     "text": "Genau — denn deine Fahrt kümmert sich nicht um die Grenze, und der Fahrplan sollte das auch nicht tun.",
-    "t": 432.13
+    "t": 431.63
    },
    {
     "speaker": "Tom",
     "text": "Jetzt kommt etwas, das ich erstaunlich finde.",
-    "t": 437.7
+    "t": 437.2
    },
    {
     "speaker": "Tom",
     "text": "Gesundheitsversorgung über Grenzen hinweg.",
-    "t": 440.25
+    "t": 439.75
    },
    {
     "speaker": "Tom",
     "text": "Erzähl mir davon.",
-    "t": 442.79
+    "t": 442.29
    },
    {
     "speaker": "Anna",
     "text": "Das kann wirklich Leben retten.",
-    "t": 444.19
+    "t": 443.69
    },
    {
     "speaker": "Anna",
     "text": "Die Regionen haben Partnerschaften zwischen Krankenhäusern und Rettungsdiensten aufgebaut.",
-    "t": 445.93
+    "t": 445.43
    },
    {
     "speaker": "Anna",
     "text": "In bestimmten Grenzgebieten kann eine Person also medizinische Versorgung auf der anderen Seite der Grenze bekommen — manchmal ohne Mehrkosten oder Versicherungsprobleme.",
-    "t": 450.6
+    "t": 450.1
    },
    {
     "speaker": "Tom",
     "text": "Das nächstgelegene Krankenhaus, selbst wenn es in einem anderen Land liegt, kann also dein Krankenhaus sein.",
-    "t": 460.24
+    "t": 459.74
    },
    {
     "speaker": "Anna",
     "text": "In diesen Gebieten, ja.",
-    "t": 466.17
+    "t": 465.67
    },
    {
     "speaker": "Anna",
     "text": "Wenn du einen Unfall hast, kommt der nächste Krankenwagen — nicht der nächste Krankenwagen in deinem eigenen Land.",
-    "t": 468.11
+    "t": 467.61
    },
    {
     "speaker": "Anna",
     "text": "Wenn Minuten zählen, ist das alles.",
-    "t": 474.05
+    "t": 473.55
    },
    {
     "speaker": "Tom",
     "text": "Das ist so eine menschliche Art, über eine Grenze nachzudenken.",
-    "t": 476.58
+    "t": 476.08
    },
    {
     "speaker": "Tom",
     "text": "Okay — was ist mit der Bildung?",
-    "t": 479.97
+    "t": 479.47
    },
    {
     "speaker": "Anna",
     "text": "Bildung ist ein echtes Schmuckstück.",
-    "t": 482.26
+    "t": 481.76
    },
    {
     "speaker": "Anna",
     "text": "Es gibt die Universität der Großregion.",
-    "t": 484.25
+    "t": 483.75
    },
    {
     "speaker": "Anna",
     "text": "Sie verbindet sieben Universitäten, in vier Ländern, und lässt Studierende zwischen ihnen wechseln.",
-    "t": 486.73
+    "t": 486.23
    },
    {
     "speaker": "Tom",
     "text": "Sieben Universitäten, die als ein Netzwerk arbeiten.",
-    "t": 492.56
+    "t": 492.06
    },
    {
     "speaker": "Anna",
     "text": "Als ein Netzwerk.",
-    "t": 495.71
+    "t": 495.21
    },
    {
     "speaker": "Anna",
     "text": "Mehr als hundertvierzigtausend Studierende, mit grenzüberschreitenden Studiengängen, Doppeldiplomen, gemeinsamen Abschlüssen.",
-    "t": 497.07
+    "t": 496.57
    },
    {
     "speaker": "Anna",
     "text": "Ein junger Mensch kann also in mehreren Ländern studieren und mit Qualifikationen herauskommen, die in der ganzen Region anerkannt sind.",
-    "t": 504.05
+    "t": 503.55
    },
    {
     "speaker": "Tom",
     "text": "Und die Sprachen?",
-    "t": 511.31
+    "t": 510.81
    },
    {
     "speaker": "Anna",
     "text": "Das ist der alltägliche Zauber dieses Ortes.",
-    "t": 512.56
+    "t": 512.06
    },
    {
     "speaker": "Anna",
     "text": "Drei Sprachen — Französisch, Deutsch, und Luxemburgisch zieht sich hindurch.",
-    "t": 515.51
+    "t": 515.01
    },
    {
     "speaker": "Anna",
     "text": "Wer hier aufwächst oder hier arbeitet, lebt in einer mehrsprachigen Welt.",
-    "t": 521.18
+    "t": 520.68
    },
    {
     "speaker": "Anna",
     "text": "Und die Region investiert in das Sprachenlernen und in Partnerschaften zwischen Schulen, genau damit Menschen sich über die Grenzen bewegen und arbeiten können.",
-    "t": 525.24
+    "t": 524.74
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt sicher auch Kultur, nehme ich an.",
-    "t": 533.77
+    "t": 533.27
    },
    {
     "speaker": "Anna",
     "text": "Eine Menge Kultur.",
-    "t": 536.27
+    "t": 535.77
    },
    {
     "speaker": "Anna",
     "text": "Denk daran, im Jahr zweitausendsieben waren Luxemburg und die Großregion gemeinsam ein ganzes Jahr lang Europäische Kulturhauptstadt.",
-    "t": 537.59
+    "t": 537.09
    },
    {
     "speaker": "Anna",
     "text": "Dieses Jahr hat einen echten grenzüberschreitenden Kulturgeist hinterlassen — und man spürt ihn noch überall in der Region.",
-    "t": 545.45
+    "t": 544.95
    },
    {
     "speaker": "Tom",
     "text": "In der Großregion geht es also nicht nur um Politik und Papierkram — es lebt auch echte Kultur darin.",
-    "t": 552.49
+    "t": 551.99
    },
    {
     "speaker": "Anna",
     "text": "Kultur, Tourismus, gemeinsames Erbe, UNESCO-Welterbestätten überall in der Region.",
-    "t": 558.58
+    "t": 558.08
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein Ort mit einer tiefen gemeinsamen Geschichte — und mit viel zu entdecken.",
-    "t": 565.52
+    "t": 565.02
    },
    {
     "speaker": "Tom",
     "text": "Gehen wir einen Moment in der Zeit zurück.",
-    "t": 570.71
+    "t": 570.21
    },
    {
     "speaker": "Tom",
     "text": "Wie hat das alles angefangen?",
-    "t": 573.37
+    "t": 572.87
    },
    {
     "speaker": "Tom",
     "text": "Das kann ja nicht über Nacht passiert sein.",
-    "t": 575.09
+    "t": 574.59
    },
    {
     "speaker": "Anna",
     "text": "Nein, es ist langsam gewachsen, über Jahrzehnte.",
-    "t": 577.47
+    "t": 576.97
    },
    {
     "speaker": "Anna",
     "text": "Der erste Same war im Jahr neunzehnhundertneunundsechzig — eine Kommission, die zwischen Deutschland und Frankreich eingerichtet wurde.",
-    "t": 580.62
+    "t": 580.12
    },
    {
     "speaker": "Anna",
     "text": "Zwei Jahre später, einundsiebzig, kam Luxemburg dazu.",
-    "t": 587.56
+    "t": 587.06
    },
    {
     "speaker": "Anna",
     "text": "Dann kamen die deutschen Regionen, die französische Seite und die belgischen Partner im Laufe der Jahre hinzu.",
-    "t": 591.21
+    "t": 590.71
    },
    {
     "speaker": "Tom",
     "text": "Es ist also Stück für Stück gewachsen.",
-    "t": 597.47
+    "t": 596.97
    },
    {
     "speaker": "Anna",
     "text": "Stück für Stück.",
-    "t": 599.76
+    "t": 599.26
    },
    {
     "speaker": "Anna",
     "text": "Und ein großer Meilenstein war neunzehnhundertfünfundneunzig — der allererste Gipfel der Spitzen, der hier in Luxemburg stattfand, in Mondorf-les-Bains.",
-    "t": 601.04
+    "t": 600.54
    },
    {
     "speaker": "Anna",
     "text": "Da wurde es wirklich zu einer richtigen Partnerschaft.",
-    "t": 610.19
+    "t": 609.69
    },
    {
     "speaker": "Anna",
     "text": "Und dann, zweitausendfünfzehn, bekam es sein physisches Zuhause — das Haus in Esch.",
-    "t": 612.91
+    "t": 612.41
    },
    {
     "speaker": "Tom",
     "text": "Von einer Idee zwischen zwei Ländern zu vier Ländern mit einem gemeinsamen Haus.",
-    "t": 619.15
+    "t": 618.65
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine ziemliche Reise.",
-    "t": 623.78
+    "t": 623.28
    },
    {
     "speaker": "Anna",
     "text": "Das ist es wirklich.",
-    "t": 625.64
+    "t": 625.14
    },
    {
     "speaker": "Anna",
     "text": "Und es lohnt sich, kurz innezuhalten und zu fragen, warum es wichtig ist.",
-    "t": 626.96
+    "t": 626.46
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Teil Europas, der in der Vergangenheit Krieg und harte Grenzen erlebt hat.",
-    "t": 631.01
+    "t": 630.51
    },
    {
     "speaker": "Anna",
     "text": "Und heute sind dieselben Grenzen Orte, an denen ein Krankenwagen hinüberfährt, um ein Leben zu retten, an denen ein Studierender in drei Ländern studiert, an denen zweihundertsiebzigtausend Menschen jeden Tag überqueren, nur um zur Arbeit zu fahren — in Frieden.",
-    "t": 635.68
+    "t": 635.18
    },
    {
     "speaker": "Tom",
     "text": "Wenn man es so sagt, ist es wirklich bewegend.",
-    "t": 652.67
+    "t": 652.17
    },
    {
     "speaker": "Tom",
     "text": "Die Grenze wurde von einer Mauer zu einer Tür.",
-    "t": 655.45
+    "t": 654.95
    },
    {
     "speaker": "Anna",
     "text": "Von einer Mauer zu einer Tür.",
-    "t": 658.26
+    "t": 657.76
    },
    {
     "speaker": "Anna",
     "text": "Das ist genau der Geist der Großregion.",
-    "t": 660.16
+    "t": 659.66
    },
    {
     "speaker": "Tom",
     "text": "Machen wir es ganz konkret, Anna.",
-    "t": 662.73
+    "t": 662.23
    },
    {
     "speaker": "Tom",
     "text": "Können wir einer einzelnen Person folgen?",
-    "t": 664.61
+    "t": 664.11
    },
    {
     "speaker": "Anna",
     "text": "Natürlich. Stellen wir uns eine junge Frau vor — nennen wir sie Léa.",
-    "t": 666.87
+    "t": 666.37
    },
    {
     "speaker": "Anna",
     "text": "Sie wächst in Lothringen auf, in Frankreich, gleich jenseits der Grenze.",
-    "t": 671.33
+    "t": 670.83
    },
    {
     "speaker": "Tom",
     "text": "Eine sehr verbreitete Geschichte hier bei uns.",
-    "t": 676.17
+    "t": 675.67
    },
    {
     "speaker": "Anna",
     "text": "Sehr. Also, Léa studiert über die Universität der Großregion — einige Kurse in Frankreich, einige in Luxemburg, einige in Deutschland.",
-    "t": 678.76
+    "t": 678.26
    },
    {
     "speaker": "Anna",
     "text": "Unterwegs lernt sie ihre Sprachen.",
-    "t": 688.2
+    "t": 687.7
    },
    {
     "speaker": "Anna",
     "text": "Dann findet sie einen Job in Luxemburg und wird eine der täglichen Grenzgängerinnen.",
-    "t": 690.19
+    "t": 689.69
    },
    {
     "speaker": "Tom",
     "text": "Eine der zweihundertsiebzigtausend.",
-    "t": 694.76
+    "t": 694.26
    },
    {
     "speaker": "Anna",
     "text": "Genau. Sie nutzt einen grenzüberschreitenden Reiseplaner, um ihren Arbeitsweg zu organisieren.",
-    "t": 697.12
+    "t": 696.62
    },
    {
     "speaker": "Anna",
     "text": "Wenn sie jemals in Grenznähe krank wird, wird sie vielleicht im nächstgelegenen Krankenhaus behandelt, sogar jenseits der Grenze.",
-    "t": 702.83
+    "t": 702.33
    },
    {
     "speaker": "Anna",
     "text": "Und an den Wochenenden genießt sie die Kultur und das Erbe überall in der Region.",
-    "t": 709.69
+    "t": 709.19
    },
    {
     "speaker": "Tom",
     "text": "Und hinter all dem steckt, ganz leise, die Arbeit, die vom Haus in Esch aus koordiniert wird.",
-    "t": 714.33
+    "t": 713.83
    },
    {
     "speaker": "Anna",
     "text": "Leise, hinter den Kulissen — ja.",
-    "t": 719.96
+    "t": 719.46
    },
    {
     "speaker": "Anna",
     "text": "Léa setzt vielleicht nie einen Fuß in dieses Gebäude.",
-    "t": 722.8
+    "t": 722.3
    },
    {
     "speaker": "Anna",
     "text": "Aber die Vereinbarungen, die dort getroffen werden, sind das, was ihr Leben so reibungslos über die Grenzen hinweg fließen lässt.",
-    "t": 725.77
+    "t": 725.27
    },
    {
     "speaker": "Tom",
     "text": "Das gefällt mir.",
-    "t": 732.47
+    "t": 731.97
    },
    {
     "speaker": "Tom",
     "text": "Das Haus arbeitet für Menschen, die es nie gesehen haben.",
-    "t": 733.8
+    "t": 733.3
    },
    {
     "speaker": "Tom",
     "text": "Okay Anna — bringen wir es auf den Punkt.",
-    "t": 736.89
+    "t": 736.39
    },
    {
     "speaker": "Tom",
     "text": "Wenn ich zuhöre, was sollte ich mitnehmen, und wohin gehe ich?",
-    "t": 739.4
+    "t": 738.9
    },
    {
     "speaker": "Anna",
     "text": "Drei einfache Dinge.",
-    "t": 743.32
+    "t": 742.82
    },
    {
     "speaker": "Anna",
     "text": "Erstens — die Großregion ist real, und sie gehört dir.",
-    "t": 744.7
+    "t": 744.2
    },
    {
     "speaker": "Anna",
     "text": "Wenn du hier lebst oder arbeitest, bist du schon ein Teil von ihr.",
-    "t": 748.77
+    "t": 748.27
    },
    {
     "speaker": "Anna",
     "text": "Fünf Regionen, vier Länder, drei Sprachen — ein gemeinsamer Raum.",
-    "t": 752.3
+    "t": 751.8
    },
    {
     "speaker": "Tom",
     "text": "Ein gemeinsamer Raum.",
-    "t": 757.05
+    "t": 756.55
    },
    {
     "speaker": "Anna",
     "text": "Zweitens — sie berührt deinen Alltag.",
-    "t": 758.64
+    "t": 758.14
    },
    {
     "speaker": "Anna",
     "text": "Arbeit, Ausbildung, Verkehr, Gesundheit, Studium, Kultur.",
-    "t": 761.71
+    "t": 761.21
    },
    {
     "speaker": "Anna",
     "text": "Wenn du eine Grenze überquerst, oder mit Menschen arbeitest, die das tun, hilft dir diese Zusammenarbeit ganz leise.",
-    "t": 767.46
+    "t": 766.96
    },
    {
     "speaker": "Tom",
     "text": "Und drittens?",
-    "t": 774.04
+    "t": 773.54
    },
    {
     "speaker": "Anna",
     "text": "Drittens — wenn du mehr erfahren möchtest, gibt es einen Ort, an dem du nachschauen kannst.",
-    "t": 775.22
+    "t": 774.72
    },
    {
     "speaker": "Anna",
     "text": "Die offizielle Website — granderegion Punkt net.",
-    "t": 780.49
+    "t": 779.99
    },
    {
     "speaker": "Anna",
     "text": "Dort findest du die Reiseplaner, die Ausbildungswerkzeuge, die Informationen und den Kontakt zum Haus selbst, in Esch-sur-Alzette.",
-    "t": 784.54
+    "t": 784.04
    },
    {
     "speaker": "Tom",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 792.37
+    "t": 791.87
    },
    {
     "speaker": "Anna",
     "text": "Klar. Die Großregion bringt fünf Regionen in vier Ländern zusammen — Luxemburg, dazu Teile von Frankreich, Deutschland und Belgien — über elf Millionen Menschen und den größten Strom an Grenzgängern in Europa.",
-    "t": 794.62
+    "t": 794.12
    },
    {
     "speaker": "Anna",
     "text": "Sie wird vom Haus der Großregion aus koordiniert, in Esch-sur-Alzette, das zweitausendfünfzehn eröffnet wurde und das Gipfelsekretariat sowie mehrere Partner beherbergt.",
-    "t": 807.32
+    "t": 806.82
    },
    {
     "speaker": "Anna",
     "text": "Gemeinsam machen sie den Alltag über die Grenzen hinweg einfacher — bei der Arbeit, im Verkehr, in der Gesundheit, im Studium und in der Kultur.",
-    "t": 817.48
+    "t": 816.98
    },
    {
     "speaker": "Anna",
     "text": "Und das alles findest du auf granderegion.net.",
-    "t": 825.67
+    "t": 825.17
    },
    {
     "speaker": "Tom",
     "text": "Und die Botschaft für heute?",
-    "t": 828.69
+    "t": 828.19
    },
    {
     "speaker": "Anna",
     "text": "Dass die Grenze rund um Luxemburg eigentlich kein Rand ist — sie ist ein Treffpunkt.",
-    "t": 830.31
+    "t": 829.81
    },
    {
     "speaker": "Anna",
     "text": "Vier Länder haben sich entschieden, gemeinsam ein Zuhause zu bauen, statt Mauern.",
-    "t": 835.14
+    "t": 834.64
    },
    {
     "speaker": "Anna",
     "text": "Und wir alle leben ein bisschen besser dadurch.",
-    "t": 839.35
+    "t": 838.85
    },
    {
     "speaker": "Tom",
     "text": "Also... egal ob Sie hier wohnen oder Grenzgängerin oder Grenzgänger sind — denken Sie daran, Sie sind Teil von etwas Größerem.",
-    "t": 841.96
+    "t": 841.46
    },
    {
     "speaker": "Tom",
     "text": "Der Großregion. Und ihrem Zuhause, dem Haus der Großregion.",
-    "t": 850.11
+    "t": 849.61
    },
    {
     "speaker": "Anna",
     "text": "Vier Länder, ein Zuhause, Millionen von Leben miteinander verbunden.",
-    "t": 854.63
+    "t": 854.13
    },
    {
     "speaker": "Anna",
     "text": "Das ist es wert, darüber Bescheid zu wissen.",
-    "t": 859.32
+    "t": 858.82
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Haus der Großregion.",
-    "t": 861.79
+    "t": 861.29
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 864.88
+    "t": 864.38
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 873.88
+    "t": 873.38
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 891.73
+    "t": 891.23
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 897.43
+    "t": 896.93
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 899.68
+    "t": 899.18
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 904.57
+    "t": 904.07
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 905.72
+    "t": 905.22
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 908.93
+    "t": 908.43
    }
   ],
   "questions": [
@@ -37080,7 +37080,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_granderegion_fr.mp3",
-  "duration_fr": 750.65,
+  "duration_fr": 750.21,
   "title_fr": "La Maison de la Grande Région – quatre pays, un seul foyer",
   "description_fr": "La Grande Région réunit 5 régions dans 4 pays (le Luxembourg, ainsi que des parties de la France, de l'Allemagne et de la Belgique), 11,8 millions d'habitants et environ 270 000 travailleurs frontaliers chaque jour – le plus grand nombre en Europe. Elle est coordonnée depuis la Maison de la Grande Région (Maison de la Grande Région / Haus der Großregion) à Esch-sur-Alzette, ouverte en 2015, qui accueille le Secrétariat du Sommet et ses partenaires. Ensemble, ils facilitent la vie quotidienne de part et d'autre des frontières – dans le travail, les transports, la santé, les études et la culture. Plus d'informations sur granderegion.net.",
   "topics_fr": [
@@ -37151,7 +37151,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_granderegion_de.mp3",
-  "duration_de": 910.47,
+  "duration_de": 909.98,
   "title_de": "Das Haus der Großregion – vier Länder, ein Zuhause",
   "description_de": "Die Großregion vereint 5 Regionen in 4 Ländern (Luxemburg sowie Teile Frankreichs, Deutschlands und Belgiens), 11,8 Millionen Menschen und rund 270 000 Grenzgänger pro Tag – die höchste Zahl in Europa. Koordiniert wird sie vom Haus der Großregion (Maison de la Grande Région / Haus der Großregion) in Esch an der Alzette, das 2015 eröffnet wurde und das Gipfelsekretariat sowie Partner beherbergt. Gemeinsam erleichtern sie den Alltag über die Grenzen hinweg – in Arbeit, Verkehr, Gesundheit, Studium und Kultur. Mehr unter granderegion.net.",
   "topics_de": [
@@ -38199,7 +38199,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_adem_fr.mp3",
-  "duration_fr": 631.77,
+  "duration_fr": 631.09,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -38223,737 +38223,737 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
     "t": 8.05
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.97
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et aujourd'hui, nous parlons de quelque chose qui touche presque tout le monde à un moment de sa vie... le travail.",
-    "t": 23.73
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "Plus précisément, nous parlons de l'ADEM.",
-    "t": 29.12
+    "t": 28.46
    },
    {
     "speaker": "Tom",
     "text": "L'ADEM. Vous avez peut-être déjà vu ce nom, peut-être sur un courrier, ou près d'un de leurs bureaux.",
-    "t": 31.32
+    "t": 30.66
    },
    {
     "speaker": "Tom",
     "text": "Mais qu'est-ce que c'est, exactement ?",
-    "t": 36.57
+    "t": 35.91
    },
    {
     "speaker": "Anna",
     "text": "ADEM, cela veut dire « Agence pour le développement de l'emploi ».",
-    "t": 38.59
+    "t": 37.93
    },
    {
     "speaker": "Tom",
     "text": "C'est le service public de l'emploi du Luxembourg.",
-    "t": 41.73
+    "t": 41.07
    },
    {
     "speaker": "Tom",
     "text": "Voyez cela comme l'agence officielle de l'État qui aide les gens à trouver du travail, et qui aide les employeurs à trouver du personnel.",
-    "t": 44.19
+    "t": 43.53
    },
    {
     "speaker": "Anna",
     "text": "Sa devise est claire et agréable... « Facilitons l'emploi ».",
-    "t": 51.25
+    "t": 50.59
    },
    {
     "speaker": "Anna",
     "text": "Rendons l'emploi plus facile.",
-    "t": 54.69
+    "t": 54.03
    },
    {
     "speaker": "Tom",
     "text": "Donc l'ADEM se trouve au milieu, entre les personnes qui cherchent un emploi, et les entreprises qui cherchent des personnes.",
-    "t": 56.45
+    "t": 55.79
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Et c'est un service public, ce qui veut dire qu'il est gratuit.",
-    "t": 62.65
+    "t": 61.99
    },
    {
     "speaker": "Tom",
     "text": "Bon à savoir.",
-    "t": 66.16
+    "t": 65.5
    },
    {
     "speaker": "Tom",
     "text": "Alors, Anna, à qui s'adresse l'ADEM, en réalité ?",
-    "t": 67.38
+    "t": 66.72
    },
    {
     "speaker": "Anna",
     "text": "Principalement à trois groupes.",
-    "t": 70.24
+    "t": 69.58
    },
    {
     "speaker": "Anna",
     "text": "D'abord, les demandeurs d'emploi... les personnes qui cherchent du travail, ou qui veulent changer d'emploi.",
-    "t": 71.78
+    "t": 71.12
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, les salariés... les personnes qui ont déjà un emploi mais qui veulent un conseil ou une formation.",
-    "t": 76.81
+    "t": 76.15
    },
    {
     "speaker": "Anna",
     "text": "Et troisièmement, les employeurs... les entreprises et les organisations qui veulent embaucher.",
-    "t": 82.01
+    "t": 81.35
    },
    {
     "speaker": "Tom",
     "text": "Donc cela concerne vraiment beaucoup de monde.",
-    "t": 86.9
+    "t": 86.24
    },
    {
     "speaker": "Tom",
     "text": "Même si vous avez un emploi en ce moment, l'ADEM peut quand même devenir utile un jour.",
-    "t": 89.31
+    "t": 88.65
    },
    {
     "speaker": "Anna",
     "text": "C'est le message clé.",
-    "t": 93.69
+    "t": 93.03
    },
    {
     "speaker": "Anna",
     "text": "Vous n'avez pas besoin d'attendre d'être en difficulté.",
-    "t": 95.01
+    "t": 94.35
    },
    {
     "speaker": "Anna",
     "text": "L'ADEM est là avant, pendant, et après une recherche d'emploi.",
-    "t": 97.48
+    "t": 96.82
    },
    {
     "speaker": "Tom",
     "text": "Parlons du cœur du sujet... s'inscrire comme demandeur d'emploi.",
-    "t": 100.79
+    "t": 100.13
    },
    {
     "speaker": "Tom",
     "text": "Pourquoi quelqu'un ferait-il cela ?",
-    "t": 104.24
+    "t": 103.58
    },
    {
     "speaker": "Anna",
     "text": "Quand vous vous inscrivez, vous dites officiellement... je cherche du travail, et je suis disponible pour le marché de l'emploi.",
-    "t": 106.21
+    "t": 105.55
    },
    {
     "speaker": "Tom",
     "text": "Et être « disponible pour le marché de l'emploi » a un vrai sens, n'est-ce pas ?",
-    "t": 111.73
+    "t": 111.07
    },
    {
     "speaker": "Anna",
     "text": "Oui. Cela veut dire que vous pouvez être joint facilement par l'ADEM et par les employeurs, et que vous êtes prêt à travailler pour les heures que vous avez indiquées.",
-    "t": 116.09
+    "t": 115.43
    },
    {
     "speaker": "Tom",
     "text": "Donc vous vous inscrivez, et ensuite une porte s'ouvre vers toute l'aide de l'ADEM.",
-    "t": 123.23
+    "t": 122.57
    },
    {
     "speaker": "Anna",
     "text": "Oui. Une fois inscrit, vous obtenez un conseiller personnel, un accès aux offres d'emploi, à des formations, et un soutien dans votre recherche.",
-    "t": 127.49
+    "t": 126.83
    },
    {
     "speaker": "Tom",
     "text": "Arrêtons-nous un instant sur le conseiller personnel, parce que je pense que c'est vraiment important.",
-    "t": 134.17
+    "t": 133.51
    },
    {
     "speaker": "Anna",
     "text": "En effet. Une fois votre inscription validée, vous êtes invité à un premier rendez-vous avec un conseiller de l'ADEM.",
-    "t": 138.72
+    "t": 138.06
    },
    {
     "speaker": "Tom",
     "text": "Ce conseiller devient votre interlocuteur principal pendant toute votre recherche d'emploi.",
-    "t": 144.41
+    "t": 143.75
    },
    {
     "speaker": "Anna",
     "text": "Il suit votre situation personnellement.",
-    "t": 149.03
+    "t": 148.37
    },
    {
     "speaker": "Anna",
     "text": "Il vous aide à planifier vos démarches, et il vous accompagne tout au long du chemin.",
-    "t": 151.14
+    "t": 150.48
    },
    {
     "speaker": "Tom",
     "text": "Donc vous n'êtes pas seul devant un site internet.",
-    "t": 154.99
+    "t": 154.33
    },
    {
     "speaker": "Tom",
     "text": "Il y a une vraie personne qui connaît votre dossier.",
-    "t": 157.62
+    "t": 156.96
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Maintenant, comment fait-on concrètement pour s'inscrire ?",
-    "t": 160.26
+    "t": 159.6
    },
    {
     "speaker": "Anna",
     "text": "Il y a deux façons.",
-    "t": 163.39
+    "t": 162.73
    },
    {
     "speaker": "Tom",
     "text": "La première façon, c'est en ligne, et c'est la voie moderne et facile.",
-    "t": 164.77
+    "t": 164.11
    },
    {
     "speaker": "Anna",
     "text": "Vous vous inscrivez sur MyGuichet point lu.",
-    "t": 168.5
+    "t": 167.84
    },
    {
     "speaker": "Anna",
     "text": "C'est la plateforme en ligne sécurisée de l'État, dont nous avons parlé dans un épisode précédent.",
-    "t": 170.92
+    "t": 170.26
    },
    {
     "speaker": "Tom",
     "text": "La plateforme vous guide étape par étape.",
-    "t": 175.32
+    "t": 174.66
    },
    {
     "speaker": "Tom",
     "text": "Vous donnez des informations sur votre profil, et sur le type d'emploi que vous recherchez.",
-    "t": 177.72
+    "t": 177.06
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez aussi téléverser vos documents directement, comme ça tout est au même endroit.",
-    "t": 182.4
+    "t": 181.74
    },
    {
     "speaker": "Tom",
     "text": "Et pour vous connecter, vous avez besoin d'un dispositif d'authentification sécurisé, comme un produit LuxTrust.",
-    "t": 186.57
+    "t": 185.91
    },
    {
     "speaker": "Anna",
     "text": "C'est le même identifiant sécurisé que vous utilisez pour de nombreux services officiels au Luxembourg.",
-    "t": 192.5
+    "t": 191.84
    },
    {
     "speaker": "Tom",
     "text": "Et si quelqu'un préfère rencontrer une personne, en face à face ?",
-    "t": 197.38
+    "t": 196.72
    },
    {
     "speaker": "Anna",
     "text": "Alors il y a la deuxième façon... s'inscrire en personne dans une agence de l'ADEM.",
-    "t": 200.77
+    "t": 200.11
    },
    {
     "speaker": "Tom",
     "text": "Pour cela, vous appelez d'abord pour prendre rendez-vous.",
-    "t": 204.89
+    "t": 204.23
    },
    {
     "speaker": "Tom",
     "text": "Le numéro est celui du Contact Center de l'ADEM, le 2-4-7, 8-8-8-8-8.",
-    "t": 207.4
+    "t": 206.74
    },
    {
     "speaker": "Anna",
     "text": "Et vous pouvez vous inscrire sur place dans trois agences de l'ADEM... à Luxembourg-Ville, à Esch-Belval, et à Diekirch.",
-    "t": 212.79
+    "t": 212.13
    },
    {
     "speaker": "Anna",
     "text": "On vous proposera celle qui est la plus proche de chez vous.",
-    "t": 218.58
+    "t": 217.92
    },
    {
     "speaker": "Tom",
     "text": "Très bien. Donc, que vous soyez plus à l'aise en ligne ou en personne, les deux portes sont ouvertes.",
-    "t": 221.16
+    "t": 220.5
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, Tom, qu'est-ce qu'on devrait apporter ou préparer avant de s'inscrire ?",
-    "t": 226.32
+    "t": 225.66
    },
    {
     "speaker": "Tom",
     "text": "Quelques choses simples.",
-    "t": 229.94
+    "t": 229.28
    },
    {
     "speaker": "Tom",
     "text": "D'abord, votre numéro de sécurité sociale, qui se trouve sur votre carte de sécurité sociale.",
-    "t": 231.38
+    "t": 230.72
    },
    {
     "speaker": "Anna",
     "text": "Assurez-vous que vos documents d'identité sont valables... votre carte d'identité, votre passeport, ou votre titre de séjour.",
-    "t": 236.59
+    "t": 235.93
    },
    {
     "speaker": "Tom",
     "text": "Et apportez votre CV, à jour, avec votre expérience, vos compétences, vos formations, et les langues que vous parlez.",
-    "t": 242.98
+    "t": 242.32
    },
    {
     "speaker": "Anna",
     "text": "Si vous avez des certificats de formation professionnelle, c'est aussi un vrai plus.",
-    "t": 250.13
+    "t": 249.47
    },
    {
     "speaker": "Tom",
     "text": "Et voici un détail que beaucoup de gens ignorent.",
-    "t": 254.23
+    "t": 253.57
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez vous inscrire à l'ADEM même si vous avez encore un emploi.",
-    "t": 256.66
+    "t": 256
    },
    {
     "speaker": "Anna",
     "text": "Oui ! Tant que vous remplissez les conditions de l'ADEM et que vous pouvez vous présenter aux rendez-vous, vous n'avez pas besoin d'attendre d'être au chômage.",
-    "t": 260.48
+    "t": 259.82
    },
    {
     "speaker": "Tom",
     "text": "Parlons de ce que vous obtenez vraiment une fois inscrit.",
-    "t": 267.2
+    "t": 266.54
    },
    {
     "speaker": "Tom",
     "text": "Vous avez mentionné le JobBoard.",
-    "t": 270.04
+    "t": 269.38
    },
    {
     "speaker": "Anna",
     "text": "Le JobBoard est la plateforme d'offres d'emploi de l'ADEM.",
-    "t": 271.99
+    "t": 271.33
    },
    {
     "speaker": "Anna",
     "text": "En tant que demandeur d'emploi inscrit, vous y avez accès pour consulter les postes vacants et envoyer des candidatures.",
-    "t": 274.7
+    "t": 274.04
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez aussi y téléverser votre CV, pour que les employeurs puissent vous trouver.",
-    "t": 280.22
+    "t": 279.56
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, il y a des formations et des mesures pour l'emploi, choisies selon votre profil et vos besoins.",
-    "t": 285.39
+    "t": 284.73
    },
    {
     "speaker": "Tom",
     "text": "Et il y a aussi ce qu'on appelle le Club de l'emploi, c'est bien ça ?",
-    "t": 290.06
+    "t": 289.4
    },
    {
     "speaker": "Anna",
     "text": "Oui. Là, vous pouvez utiliser des ordinateurs et recevoir de l'aide pour préparer votre CV.",
-    "t": 293.37
+    "t": 292.71
    },
    {
     "speaker": "Anna",
     "text": "Un soutien pratique et concret.",
-    "t": 297.2
+    "t": 296.54
    },
    {
     "speaker": "Tom",
     "text": "Donc l'inscription n'est pas qu'une formalité.",
-    "t": 299.06
+    "t": 298.4
    },
    {
     "speaker": "Tom",
     "text": "Elle donne accès à une aide réelle et concrète.",
-    "t": 301.38
+    "t": 300.72
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Mais bien sûr, avec l'aide viennent aussi quelques responsabilités.",
-    "t": 304.24
+    "t": 303.58
    },
    {
     "speaker": "Tom",
     "text": "C'est normal. Quand vous vous inscrivez, vous dites que vous allez chercher activement du travail.",
-    "t": 308.01
+    "t": 307.35
    },
    {
     "speaker": "Anna",
     "text": "Donc on attend de vous que vous fassiez des démarches par vous-même... répondre aux annonces d'emploi, envoyer des candidatures, consulter le JobBoard, tenir votre CV à jour.",
-    "t": 312.81
+    "t": 312.15
    },
    {
     "speaker": "Tom",
     "text": "Vous suivez aussi le plan que vous construisez avec votre conseiller, et vous vous présentez à vos rendez-vous.",
-    "t": 321.44
+    "t": 320.78
    },
    {
     "speaker": "Anna",
     "text": "Et vous informez l'ADEM des changements qui touchent votre disponibilité... un déménagement, un nouveau numéro de téléphone, le début d'un emploi, une maladie, et ainsi de suite.",
-    "t": 326.76
+    "t": 326.1
    },
    {
     "speaker": "Tom",
     "text": "C'est une relation à double sens.",
-    "t": 335.57
+    "t": 334.91
    },
    {
     "speaker": "Tom",
     "text": "L'ADEM vous soutient, et vous restez actif et en contact.",
-    "t": 337.66
+    "t": 337
    },
    {
     "speaker": "Anna",
     "text": "Et il y a un détail sympathique... en tant que demandeur d'emploi, vous avez droit à un certain nombre de jours de congé chaque année, jusqu'à vingt-cinq jours ouvrables.",
-    "t": 341.47
+    "t": 340.81
    },
    {
     "speaker": "Tom",
     "text": "Pendant ce congé approuvé, vous êtes dispensé de vos obligations envers l'ADEM, un peu comme des vacances.",
-    "t": 348.33
+    "t": 347.67
    },
    {
     "speaker": "Tom",
     "text": "Il faut juste en faire la demande à l'avance.",
-    "t": 353.62
+    "t": 352.96
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, parlons d'argent, parce que beaucoup de gens viennent à l'ADEM pour cela... l'indemnité de chômage.",
-    "t": 355.95
+    "t": 355.29
    },
    {
     "speaker": "Tom",
     "text": "En français, l'« indemnité de chômage ».",
-    "t": 360.99
+    "t": 360.33
    },
    {
     "speaker": "Tom",
     "text": "C'est un soutien financier si vous avez perdu votre emploi.",
-    "t": 363.54
+    "t": 362.88
    },
    {
     "speaker": "Anna",
     "text": "Et voici la règle importante.",
-    "t": 366.6
+    "t": 365.94
    },
    {
     "speaker": "Anna",
     "text": "Pour demander l'indemnité de chômage, vous devez d'abord être inscrit comme demandeur d'emploi auprès de l'ADEM.",
-    "t": 368.21
+    "t": 367.55
    },
    {
     "speaker": "Tom",
     "text": "Une fois votre dossier de demandeur d'emploi ouvert, l'ADEM vérifie automatiquement si vous pouvez avoir droit à des indemnités, selon votre situation.",
-    "t": 373.37
+    "t": 372.71
    },
    {
     "speaker": "Anna",
     "text": "Donc l'inscription vient en premier... ensuite vient la question de l'indemnité.",
-    "t": 381.87
+    "t": 381.21
    },
    {
     "speaker": "Tom",
     "text": "Et il y a une bonne nouvelle sur la façon de faire la demande.",
-    "t": 385.51
+    "t": 384.85
    },
    {
     "speaker": "Tom",
     "text": "Récemment, la demande d'indemnité de chômage est devenue entièrement en ligne.",
-    "t": 388.33
+    "t": 387.67
    },
    {
     "speaker": "Anna",
     "text": "Cela veut dire moins de paperasse, et du temps gagné.",
-    "t": 392.6
+    "t": 391.94
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez en faire une plus grande partie depuis chez vous.",
-    "t": 395.05
+    "t": 394.39
    },
    {
     "speaker": "Tom",
     "text": "Tournons-nous maintenant vers nos auditeurs plus jeunes, parce que le Luxembourg a une promesse spéciale pour eux.",
-    "t": 397.6
+    "t": 396.94
    },
    {
     "speaker": "Anna",
     "text": "Cela s'appelle la Garantie Jeunesse.",
-    "t": 402.92
+    "t": 402.26
    },
    {
     "speaker": "Anna",
     "text": "L'objectif, c'est que chaque jeune, âgé de seize à trente ans, se voie proposer une solution concrète pour entrer dans la vie active.",
-    "t": 404.79
+    "t": 404.13
    },
    {
     "speaker": "Tom",
     "text": "Et il y a un délai clair... dans les quatre mois suivant l'inscription à l'ADEM.",
-    "t": 410.98
+    "t": 410.32
    },
    {
     "speaker": "Anna",
     "text": "Cette solution peut être un emploi, mais cela peut aussi être une formation, ou une autre étape qui vous fait avancer.",
-    "t": 415.12
+    "t": 414.46
    },
    {
     "speaker": "Tom",
     "text": "Donc si vous êtes jeune et que vous ne savez pas trop quoi faire ensuite, l'ADEM est un très bon point de départ.",
-    "t": 420.28
+    "t": 419.62
    },
    {
     "speaker": "Anna",
     "text": "L'ADEM propose aussi un accompagnement dédié aux personnes en situation de handicap, ou avec une capacité de travail réduite.",
-    "t": 425.91
+    "t": 425.25
    },
    {
     "speaker": "Tom",
     "text": "Il y a des mesures spéciales, des stages, des aides financières, et un accompagnement personnel, pour aider les personnes à trouver ou à retrouver un emploi.",
-    "t": 431.97
+    "t": 431.31
    },
    {
     "speaker": "Anna",
     "text": "L'objectif, c'est l'inclusion... faire en sorte que chacun ait une chance équitable sur le marché de l'emploi.",
-    "t": 440.76
+    "t": 440.1
    },
    {
     "speaker": "Tom",
     "text": "N'oublions pas l'autre côté de l'ADEM... les employeurs.",
-    "t": 446.2
+    "t": 445.54
    },
    {
     "speaker": "Anna",
     "text": "En effet. Au Luxembourg, les employeurs sont en fait tenus de déclarer leurs postes vacants à l'ADEM.",
-    "t": 449.43
+    "t": 448.77
    },
    {
     "speaker": "Tom",
     "text": "Et en retour, ils reçoivent de l'aide.",
-    "t": 454.75
+    "t": 454.09
    },
    {
     "speaker": "Tom",
     "text": "L'ADEM les met en relation avec des candidats issus de son vivier de demandeurs d'emploi.",
-    "t": 456.99
+    "t": 456.33
    },
    {
     "speaker": "Anna",
     "text": "Les employeurs peuvent aussi recevoir une aide financière lorsqu'ils embauchent certaines personnes... par exemple un jeune demandeur d'emploi, une personne au chômage depuis longtemps, ou une personne en situation de handicap.",
-    "t": 461.67
+    "t": 461.01
    },
    {
     "speaker": "Tom",
     "text": "Donc l'ADEM ne se contente pas d'aider les individus.",
-    "t": 471.86
+    "t": 471.2
    },
    {
     "speaker": "Tom",
     "text": "Elle aide tout le marché de l'emploi à mieux fonctionner.",
-    "t": 474.68
+    "t": 474.02
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi un soutien pour le recrutement international, à travers un service appelé Work in Luxembourg.",
-    "t": 477.47
+    "t": 476.81
    },
    {
     "speaker": "Tom",
     "text": "Et depuis 2026, il y a même un site national, workinluxembourg.com.",
-    "t": 482.36
+    "t": 481.7
    },
    {
     "speaker": "Tom",
     "text": "Il aide les entreprises d'ici à trouver des talents, et aide les personnes à l'étranger à découvrir des opportunités dans le pays.",
-    "t": 487.24
+    "t": 486.58
    },
    {
     "speaker": "Anna",
     "text": "Tom, avant de terminer, il y a un point de sécurité que nous devrions vraiment mentionner.",
-    "t": 493.96
+    "t": 493.3
    },
    {
     "speaker": "Tom",
     "text": "Oui, un point important.",
-    "t": 498.22
+    "t": 497.56
    },
    {
     "speaker": "Tom",
     "text": "Parfois, des escrocs envoient de faux courriels en se faisant passer pour l'ADEM, et ils demandent de l'argent pour un emploi ou un visa.",
-    "t": 499.71
+    "t": 499.05
    },
    {
     "speaker": "Anna",
     "text": "Retenez bien ceci... l'ADEM ne vous demande jamais de payer pour un emploi ou un visa.",
-    "t": 506.42
+    "t": 505.76
    },
    {
     "speaker": "Anna",
     "text": "Le service est gratuit.",
-    "t": 510.94
+    "t": 510.28
    },
    {
     "speaker": "Tom",
     "text": "Si quelqu'un vous demande un paiement au nom de l'ADEM, c'est une arnaque.",
-    "t": 512.46
+    "t": 511.8
    },
    {
     "speaker": "Tom",
     "text": "Ne payez pas, et ne communiquez pas vos données.",
-    "t": 515.97
+    "t": 515.31
    },
    {
     "speaker": "Anna",
     "text": "Encore une chose pratique... les langues.",
-    "t": 518.77
+    "t": 518.11
    },
    {
     "speaker": "Anna",
     "text": "Pour traiter avec l'ADEM, vous devriez parler au moins une des langues administratives du Luxembourg... le luxembourgeois, le français, ou l'allemand, ou alors l'anglais.",
-    "t": 520.95
+    "t": 520.29
    },
    {
     "speaker": "Tom",
     "text": "Et si ce n'est pas le cas, vous pouvez amener une personne de confiance qui les parle, pour vous aider pendant vos rendez-vous.",
-    "t": 529.37
+    "t": 528.71
    },
    {
     "speaker": "Anna",
     "text": "Alors, rassemblons tout cela.",
-    "t": 534.87
+    "t": 534.21
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que les gens devraient retenir sur l'ADEM ?",
-    "t": 536.19
+    "t": 535.53
    },
    {
     "speaker": "Tom",
     "text": "Premièrement... l'ADEM est le service public de l'emploi du Luxembourg, gratuit, pour les demandeurs d'emploi, les salariés, et les employeurs.",
-    "t": 538.52
+    "t": 537.86
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... s'inscrire comme demandeur d'emploi ouvre la porte à un conseiller personnel, au JobBoard, à des formations, et à un soutien.",
-    "t": 546.59
+    "t": 545.93
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... vous vous inscrivez en ligne sur MyGuichet point lu avec un identifiant sécurisé, ou en personne sur rendez-vous à Luxembourg, Esch-Belval, ou Diekirch.",
-    "t": 553.39
+    "t": 552.73
    },
    {
     "speaker": "Anna",
     "text": "Quatrièmement... pour demander l'indemnité de chômage, vous devez d'abord vous inscrire, et la demande se fait désormais entièrement en ligne.",
-    "t": 563.15
+    "t": 562.49
    },
    {
     "speaker": "Tom",
     "text": "Et cinquièmement... il y a une aide spéciale pour les jeunes, à travers la Garantie Jeunesse, et pour les personnes en situation de handicap.",
-    "t": 569.42
+    "t": 568.76
    },
    {
     "speaker": "Anna",
     "text": "Et n'oubliez pas la règle de sécurité... l'ADEM ne demande jamais de paiement.",
-    "t": 576.89
+    "t": 576.23
    },
    {
     "speaker": "Tom",
     "text": "Une recherche d'emploi peut être stressante.",
-    "t": 581.01
+    "t": 580.35
    },
    {
     "speaker": "Tom",
     "text": "Mais le message de cet épisode, c'est que vous n'avez pas à le faire seul.",
-    "t": 583.22
+    "t": 582.56
    },
    {
     "speaker": "Anna",
     "text": "L'ADEM est là pour marcher à vos côtés.",
-    "t": 587.2
+    "t": 586.54
    },
    {
     "speaker": "Anna",
     "text": "Une étape à la fois.",
-    "t": 589.14
+    "t": 588.48
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'ADEM.",
-    "t": 590.32
+    "t": 589.66
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 592.06
+    "t": 591.4
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 599.63
+    "t": 598.97
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 615.5
+    "t": 614.84
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 620.15
+    "t": 619.49
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 621.93
+    "t": 621.27
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 626.31
+    "t": 625.65
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 627.54
+    "t": 626.88
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 630
+    "t": 629.34
    }
   ],
   "audio_de": "podcast_adem_de.mp3",
-  "duration_de": 734.41,
+  "duration_de": 733.81,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -38977,748 +38977,748 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
     "t": 9.16
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 19.08
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und heute sprechen wir über etwas, das fast jeden irgendwann im Leben betrifft... die Arbeit.",
-    "t": 28.46
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Genauer gesagt sprechen wir über die ADEM.",
-    "t": 34.01
+    "t": 33.41
    },
    {
     "speaker": "Tom",
     "text": "ADEM. Vielleicht haben Sie den Namen schon gesehen, etwa auf einem Brief oder in der Nähe eines ihrer Büros.",
-    "t": 36.6
+    "t": 36
    },
    {
     "speaker": "Tom",
     "text": "Aber was genau ist das?",
-    "t": 43.07
+    "t": 42.47
    },
    {
     "speaker": "Anna",
     "text": "ADEM steht für die „Agence pour le développement de l'emploi\".",
-    "t": 44.58
+    "t": 43.98
    },
    {
     "speaker": "Anna",
     "text": "Auf Deutsch bedeutet das die Agentur für die Entwicklung der Beschäftigung.",
-    "t": 47.8
+    "t": 47.2
    },
    {
     "speaker": "Tom",
     "text": "Es ist der öffentliche Arbeitsdienst Luxemburgs.",
-    "t": 51.66
+    "t": 51.06
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie es sich als die offizielle staatliche Agentur vor, die Menschen hilft, Arbeit zu finden, und Arbeitgebern hilft, Personal zu finden.",
-    "t": 54.5
+    "t": 53.9
    },
    {
     "speaker": "Anna",
     "text": "Ihr Motto ist schön und klar... „Facilitons l'emploi\".",
-    "t": 63.12
+    "t": 62.52
    },
    {
     "speaker": "Anna",
     "text": "Machen wir die Beschäftigung einfacher.",
-    "t": 67.34
+    "t": 66.74
    },
    {
     "speaker": "Tom",
     "text": "Die ADEM steht also in der Mitte, zwischen Menschen, die einen Job suchen, und Unternehmen, die Menschen suchen.",
-    "t": 69.52
+    "t": 68.92
    },
    {
     "speaker": "Anna",
     "text": "Genau. Und es ist ein öffentlicher Dienst, was bedeutet, dass die Nutzung kostenlos ist.",
-    "t": 75.6
+    "t": 75
    },
    {
     "speaker": "Tom",
     "text": "Gut zu wissen.",
-    "t": 80.85
+    "t": 80.25
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, für wen ist die ADEM eigentlich da?",
-    "t": 81.93
+    "t": 81.33
    },
    {
     "speaker": "Anna",
     "text": "Hauptsächlich für drei Gruppen.",
-    "t": 84.34
+    "t": 83.74
    },
    {
     "speaker": "Anna",
     "text": "Erstens, Arbeitssuchende... Menschen, die Arbeit suchen oder den Job wechseln möchten.",
-    "t": 86.12
+    "t": 85.52
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, Arbeitnehmer... Menschen, die bereits einen Job haben, aber Beratung oder Weiterbildung wünschen.",
-    "t": 91.63
+    "t": 91.03
    },
    {
     "speaker": "Anna",
     "text": "Und drittens, Arbeitgeber... Unternehmen und Organisationen, die einstellen möchten.",
-    "t": 98.38
+    "t": 97.78
    },
    {
     "speaker": "Tom",
     "text": "Es ist also wirklich für sehr viele Menschen da.",
-    "t": 104.26
+    "t": 103.66
    },
    {
     "speaker": "Tom",
     "text": "Selbst wenn Sie gerade einen Job haben, könnte die ADEM eines Tages trotzdem wichtig für Sie sein.",
-    "t": 106.87
+    "t": 106.27
    },
    {
     "speaker": "Anna",
     "text": "Das ist die zentrale Botschaft.",
-    "t": 112.03
+    "t": 111.43
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nicht warten, bis Sie in Schwierigkeiten sind.",
-    "t": 114.12
+    "t": 113.52
    },
    {
     "speaker": "Anna",
     "text": "Die ADEM ist davor, währenddessen und danach für Sie da.",
-    "t": 117.09
+    "t": 116.49
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir über den Kern der Sache... die Anmeldung als Arbeitssuchender.",
-    "t": 120.91
+    "t": 120.31
    },
    {
     "speaker": "Tom",
     "text": "Warum sollte das jemand tun?",
-    "t": 125.19
+    "t": 124.59
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie sich anmelden, sagen Sie offiziell... ich suche Arbeit und ich stehe dem Arbeitsmarkt zur Verfügung.",
-    "t": 127.01
+    "t": 126.41
    },
    {
     "speaker": "Tom",
     "text": "Und „dem Arbeitsmarkt zur Verfügung stehen\" hat eine echte Bedeutung, nicht wahr?",
-    "t": 132.69
+    "t": 132.09
    },
    {
     "speaker": "Anna",
     "text": "Ja. Es bedeutet, dass Sie von der ADEM und von Arbeitgebern leicht erreicht werden können und dass Sie bereit sind, für die von Ihnen angegebenen Stunden zu arbeiten.",
-    "t": 137.19
+    "t": 136.59
    },
    {
     "speaker": "Tom",
     "text": "Sie melden sich also an, und dann öffnet sich eine Tür zu all der Hilfe der ADEM.",
-    "t": 146.8
+    "t": 146.2
    },
    {
     "speaker": "Anna",
     "text": "Ja. Sobald Sie angemeldet sind, bekommen Sie einen persönlichen Berater, Zugang zu Stellenangeboten, Weiterbildung und Unterstützung bei Ihrer Suche.",
-    "t": 151.38
+    "t": 150.78
    },
    {
     "speaker": "Tom",
     "text": "Lassen Sie uns beim persönlichen Berater kurz innehalten, denn ich finde das wirklich wichtig.",
-    "t": 160.45
+    "t": 159.85
    },
    {
     "speaker": "Anna",
     "text": "Das ist es.",
-    "t": 165.35
+    "t": 164.75
    },
    {
     "speaker": "Anna",
     "text": "Nachdem Ihre Anmeldung genehmigt wurde, werden Sie zu einem ersten Termin mit einem ADEM-Berater eingeladen.",
-    "t": 166.4
+    "t": 165.8
    },
    {
     "speaker": "Tom",
     "text": "Dieser Berater wird während Ihrer gesamten Jobsuche Ihr wichtigster Ansprechpartner.",
-    "t": 171.94
+    "t": 171.34
    },
    {
     "speaker": "Anna",
     "text": "Er begleitet Ihre Situation persönlich.",
-    "t": 176.55
+    "t": 175.95
    },
    {
     "speaker": "Anna",
     "text": "Er hilft Ihnen, Ihre Schritte zu planen, und bleibt auf dem Weg an Ihrer Seite.",
-    "t": 179.06
+    "t": 178.46
    },
    {
     "speaker": "Tom",
     "text": "Sie sind also nicht allein vor einer Webseite.",
-    "t": 183.59
+    "t": 182.99
    },
    {
     "speaker": "Tom",
     "text": "Es gibt eine echte Person, die Ihre Akte kennt.",
-    "t": 186.15
+    "t": 185.55
    },
    {
     "speaker": "Anna",
     "text": "Genau. Nun, wie melden Sie sich eigentlich an?",
-    "t": 188.98
+    "t": 188.38
    },
    {
     "speaker": "Anna",
     "text": "Es gibt zwei Wege.",
-    "t": 192.65
+    "t": 192.05
    },
    {
     "speaker": "Tom",
     "text": "Der erste Weg ist online, und das ist der moderne, einfache Weg.",
-    "t": 194.14
+    "t": 193.54
    },
    {
     "speaker": "Anna",
     "text": "Sie melden sich auf MyGuichet Punkt lu an.",
-    "t": 198.13
+    "t": 197.53
    },
    {
     "speaker": "Anna",
     "text": "Das ist die sichere Online-Plattform des Staates, über die wir in einer früheren Folge gesprochen haben.",
-    "t": 200.79
+    "t": 200.19
    },
    {
     "speaker": "Tom",
     "text": "Die Plattform führt Sie Schritt für Schritt.",
-    "t": 206.28
+    "t": 205.68
    },
    {
     "speaker": "Tom",
     "text": "Sie geben Informationen zu Ihrem Profil und zu der Art von Job, den Sie suchen.",
-    "t": 208.54
+    "t": 207.94
    },
    {
     "speaker": "Anna",
     "text": "Sie können auch Ihre Dokumente direkt hochladen, sodass alles an einem Ort ist.",
-    "t": 213.28
+    "t": 212.68
    },
    {
     "speaker": "Tom",
     "text": "Und um sich anzumelden, brauchen Sie ein sicheres Authentifizierungsmittel, wie ein LuxTrust-Produkt.",
-    "t": 217.91
+    "t": 217.31
    },
    {
     "speaker": "Anna",
     "text": "Das ist derselbe sichere Login, den Sie für viele offizielle Dienste in Luxemburg verwenden.",
-    "t": 223.91
+    "t": 223.31
    },
    {
     "speaker": "Tom",
     "text": "Was ist, wenn jemand lieber eine Person trifft, von Angesicht zu Angesicht?",
-    "t": 229.1
+    "t": 228.5
    },
    {
     "speaker": "Anna",
     "text": "Dann gibt es den zweiten Weg... die Anmeldung persönlich in einer ADEM-Agentur.",
-    "t": 233.25
+    "t": 232.65
    },
    {
     "speaker": "Tom",
     "text": "Dafür rufen Sie zuerst an, um einen Termin zu vereinbaren.",
-    "t": 238.07
+    "t": 237.47
    },
    {
     "speaker": "Tom",
     "text": "Die Nummer ist das ADEM Contact Centre, unter 2-4-7, 8-8-8-8-8.",
-    "t": 241.46
+    "t": 240.86
    },
    {
     "speaker": "Anna",
     "text": "Und persönlich anmelden können Sie sich in drei Agenturen der ADEM... in Luxemburg-Stadt, in Esch-Belval und in Diekirch.",
-    "t": 247.39
+    "t": 246.79
    },
    {
     "speaker": "Anna",
     "text": "Man wird Ihnen die Agentur anbieten, die Ihrem Wohnort am nächsten liegt.",
-    "t": 255.48
+    "t": 254.88
    },
    {
     "speaker": "Tom",
     "text": "Gut. Ob Sie sich also online oder persönlich wohler fühlen, beide Türen stehen offen.",
-    "t": 259.57
+    "t": 258.97
    },
    {
     "speaker": "Anna",
     "text": "Nun, Tom, was sollte jemand mitbringen oder vorbereiten, bevor er sich anmeldet?",
-    "t": 264.68
+    "t": 264.08
    },
    {
     "speaker": "Tom",
     "text": "Ein paar einfache Dinge.",
-    "t": 269.62
+    "t": 269.02
    },
    {
     "speaker": "Tom",
     "text": "Erstens, Ihre Sozialversicherungsnummer, die auf Ihrer Sozialversicherungskarte steht.",
-    "t": 271.01
+    "t": 270.41
    },
    {
     "speaker": "Anna",
     "text": "Stellen Sie sicher, dass Ihre Ausweisdokumente gültig sind... Ihr Personalausweis, Reisepass oder Aufenthaltstitel.",
-    "t": 276.08
+    "t": 275.48
    },
    {
     "speaker": "Tom",
     "text": "Und bringen Sie Ihren Lebenslauf mit, auf dem neuesten Stand, mit Ihrer Erfahrung, Ihren Fähigkeiten, Ihrer Ausbildung und den Sprachen, die Sie sprechen.",
-    "t": 283.14
+    "t": 282.54
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie Zeugnisse aus einer Berufsausbildung haben, sind die auch ein echtes Plus.",
-    "t": 292.22
+    "t": 291.62
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist ein Detail, das viele Menschen nicht wissen.",
-    "t": 296.83
+    "t": 296.23
    },
    {
     "speaker": "Tom",
     "text": "Sie können sich bei der ADEM anmelden, auch wenn Sie noch einen Job haben.",
-    "t": 299.6
+    "t": 299
    },
    {
     "speaker": "Anna",
     "text": "Ja! Solange Sie die Anforderungen der ADEM erfüllen und Sie an den Terminen teilnehmen können, müssen Sie nicht warten, bis Sie arbeitslos sind.",
-    "t": 303.3
+    "t": 302.7
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir darüber, was Sie tatsächlich bekommen, sobald Sie angemeldet sind.",
-    "t": 311.35
+    "t": 310.75
    },
    {
     "speaker": "Tom",
     "text": "Sie haben das JobBoard erwähnt.",
-    "t": 315.47
+    "t": 314.87
    },
    {
     "speaker": "Anna",
     "text": "Das JobBoard ist die Stellenangebots-Plattform der ADEM.",
-    "t": 317.36
+    "t": 316.76
    },
    {
     "speaker": "Anna",
     "text": "Als angemeldeter Arbeitssuchender bekommen Sie Zugang, um Stellen zu durchsuchen und Bewerbungen zu senden.",
-    "t": 320.48
+    "t": 319.88
    },
    {
     "speaker": "Tom",
     "text": "Sie können dort auch Ihren Lebenslauf hochladen, sodass Arbeitgeber Sie finden können.",
-    "t": 326.62
+    "t": 326.02
    },
    {
     "speaker": "Anna",
     "text": "Dann gibt es Weiterbildungskurse und Beschäftigungsmaßnahmen, ausgewählt nach Ihrem Profil und Ihren Bedürfnissen.",
-    "t": 331.34
+    "t": 330.74
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt etwas, das Beschäftigungsclub heißt, richtig?",
-    "t": 338.01
+    "t": 337.41
    },
    {
     "speaker": "Anna",
     "text": "Ja. Dort können Sie Computer nutzen und Hilfe bei der Erstellung Ihres Lebenslaufs bekommen.",
-    "t": 341.44
+    "t": 340.84
    },
    {
     "speaker": "Anna",
     "text": "Praktische, handfeste Unterstützung.",
-    "t": 346.94
+    "t": 346.34
    },
    {
     "speaker": "Tom",
     "text": "Die Anmeldung ist also nicht nur eine Formalität.",
-    "t": 349.68
+    "t": 349.08
    },
    {
     "speaker": "Tom",
     "text": "Sie schaltet echte, konkrete Hilfe frei.",
-    "t": 352.45
+    "t": 351.85
    },
    {
     "speaker": "Anna",
     "text": "Genau. Aber mit der Hilfe kommen natürlich auch einige Pflichten.",
-    "t": 355.15
+    "t": 354.55
    },
    {
     "speaker": "Tom",
     "text": "Das ist fair.",
-    "t": 359.28
+    "t": 358.68
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie sich anmelden, sagen Sie, dass Sie aktiv nach Arbeit suchen werden.",
-    "t": 360.4
+    "t": 359.8
    },
    {
     "speaker": "Anna",
     "text": "Es wird also von Ihnen erwartet, dass Sie selbst Schritte unternehmen... auf Stellenanzeigen antworten, Bewerbungen senden, das JobBoard durchsuchen, Ihren Lebenslauf aktuell halten.",
-    "t": 364.27
+    "t": 363.67
    },
    {
     "speaker": "Tom",
     "text": "Sie befolgen auch den Plan, den Sie gemeinsam mit Ihrem Berater erstellen, und Sie nehmen an Ihren Terminen teil.",
-    "t": 374.82
+    "t": 374.22
    },
    {
     "speaker": "Anna",
     "text": "Und Sie teilen der ADEM Änderungen mit, die Ihre Verfügbarkeit betreffen... ein Umzug, eine neue Telefonnummer, der Beginn eines Jobs, eine Krankheit und so weiter.",
-    "t": 380.92
+    "t": 380.32
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine wechselseitige Beziehung.",
-    "t": 391.72
+    "t": 391.12
    },
    {
     "speaker": "Tom",
     "text": "Die ADEM unterstützt Sie, und Sie bleiben aktiv und in Kontakt.",
-    "t": 393.91
+    "t": 393.31
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt ein schönes Detail... als Arbeitssuchender haben Sie jedes Jahr Anspruch auf eine Anzahl von Urlaubstagen, bis zu fünfundzwanzig Arbeitstage.",
-    "t": 398.1
+    "t": 397.5
    },
    {
     "speaker": "Tom",
     "text": "Während dieses genehmigten Urlaubs sind Sie von Ihren Pflichten gegenüber der ADEM befreit, ein bisschen wie Ferien.",
-    "t": 407.33
+    "t": 406.73
    },
    {
     "speaker": "Tom",
     "text": "Sie müssen ihn nur im Voraus beantragen.",
-    "t": 413.76
+    "t": 413.16
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir nun über Geld, denn viele Menschen kommen deswegen zur ADEM... das Arbeitslosengeld.",
-    "t": 416.13
+    "t": 415.53
    },
    {
     "speaker": "Tom",
     "text": "Auf Französisch die „indemnité de chômage\".",
-    "t": 422.5
+    "t": 421.9
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine finanzielle Unterstützung, wenn Sie Ihren Job verloren haben.",
-    "t": 425.57
+    "t": 424.97
    },
    {
     "speaker": "Anna",
     "text": "Und hier ist die wichtige Regel.",
-    "t": 429.26
+    "t": 428.66
    },
    {
     "speaker": "Anna",
     "text": "Um Arbeitslosengeld zu beantragen, müssen Sie zuerst als Arbeitssuchender bei der ADEM angemeldet sein.",
-    "t": 431.13
+    "t": 430.53
    },
    {
     "speaker": "Tom",
     "text": "Sobald Ihre Akte als Arbeitssuchender eröffnet ist, prüft die ADEM automatisch, ob Sie aufgrund Ihrer Situation einen Anspruch auf Leistungen haben.",
-    "t": 436.89
+    "t": 436.29
    },
    {
     "speaker": "Anna",
     "text": "Die Anmeldung kommt also zuerst... dann folgt die Frage nach der Leistung.",
-    "t": 445.36
+    "t": 444.76
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt gute Nachrichten dazu, wie Sie den Antrag stellen.",
-    "t": 449.66
+    "t": 449.06
    },
    {
     "speaker": "Tom",
     "text": "Seit Kurzem ist der Antrag auf Arbeitslosengeld vollständig online.",
-    "t": 452.9
+    "t": 452.3
    },
    {
     "speaker": "Anna",
     "text": "Das bedeutet weniger Papierkram und gesparte Zeit.",
-    "t": 457.23
+    "t": 456.63
    },
    {
     "speaker": "Anna",
     "text": "Sie können mehr davon von zu Hause aus erledigen.",
-    "t": 460.35
+    "t": 459.75
    },
    {
     "speaker": "Tom",
     "text": "Schenken wir nun den jüngeren Zuhörern etwas Aufmerksamkeit, denn Luxemburg hat ein besonderes Versprechen für sie.",
-    "t": 463.28
+    "t": 462.68
    },
    {
     "speaker": "Anna",
     "text": "Es heißt die Jugendgarantie.",
-    "t": 469.58
+    "t": 468.98
    },
    {
     "speaker": "Anna",
     "text": "Das Ziel ist, dass jedem jungen Menschen, im Alter von sechzehn bis dreißig Jahren, eine konkrete Lösung angeboten wird, um ins Berufsleben einzutreten.",
-    "t": 471.45
+    "t": 470.85
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt einen klaren Zeitrahmen... innerhalb von vier Monaten nach der Anmeldung bei der ADEM.",
-    "t": 480.38
+    "t": 479.78
    },
    {
     "speaker": "Anna",
     "text": "Diese Lösung könnte ein Job sein, aber es könnte auch eine Weiterbildung sein oder ein anderer Schritt, der Sie voranbringt.",
-    "t": 485.82
+    "t": 485.22
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie also jung sind und sich nicht sicher sind, was Sie als Nächstes tun sollen, ist die ADEM ein sehr guter Ausgangspunkt.",
-    "t": 492.48
+    "t": 491.88
    },
    {
     "speaker": "Anna",
     "text": "Die ADEM hat auch eine eigene Unterstützung für Menschen mit einer Behinderung oder mit einer verminderten Arbeitsfähigkeit.",
-    "t": 499.57
+    "t": 498.97
    },
    {
     "speaker": "Tom",
     "text": "Es gibt besondere Maßnahmen, Praktika, finanzielle Leistungen und persönliche Begleitung, um Menschen zu helfen, Arbeit zu finden oder zurückzukehren.",
-    "t": 505.95
+    "t": 505.35
    },
    {
     "speaker": "Anna",
     "text": "Das Ziel ist Inklusion... sicherzustellen, dass jeder eine faire Chance auf dem Arbeitsmarkt hat.",
-    "t": 515.4
+    "t": 514.8
    },
    {
     "speaker": "Tom",
     "text": "Vergessen wir nicht die andere Seite der ADEM... die Arbeitgeber.",
-    "t": 520.94
+    "t": 520.34
    },
    {
     "speaker": "Anna",
     "text": "Richtig. In Luxemburg sind Arbeitgeber tatsächlich verpflichtet, ihre offenen Stellen der ADEM zu melden.",
-    "t": 524.66
+    "t": 524.06
    },
    {
     "speaker": "Tom",
     "text": "Und im Gegenzug bekommen sie Hilfe.",
-    "t": 530.88
+    "t": 530.28
    },
    {
     "speaker": "Tom",
     "text": "Die ADEM bringt sie mit Kandidaten aus ihrem Pool von Arbeitssuchenden zusammen.",
-    "t": 532.89
+    "t": 532.29
    },
    {
     "speaker": "Anna",
     "text": "Arbeitgeber können auch finanzielle Hilfe bekommen, wenn sie bestimmte Menschen einstellen... zum Beispiel einen jungen Arbeitssuchenden, jemanden, der lange arbeitslos war, oder eine Person mit einer Behinderung.",
-    "t": 537.47
+    "t": 536.87
    },
    {
     "speaker": "Tom",
     "text": "Die ADEM hilft also nicht nur Einzelpersonen.",
-    "t": 549.28
+    "t": 548.68
    },
    {
     "speaker": "Tom",
     "text": "Sie hilft dem gesamten Arbeitsmarkt, besser zu funktionieren.",
-    "t": 551.95
+    "t": 551.35
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch Unterstützung bei der internationalen Rekrutierung, durch einen Dienst namens Work in Luxembourg.",
-    "t": 555.41
+    "t": 554.81
    },
    {
     "speaker": "Tom",
     "text": "Und seit 2026 gibt es sogar eine nationale Website, workinluxembourg.com.",
-    "t": 561.18
+    "t": 560.58
    },
    {
     "speaker": "Tom",
     "text": "Sie hilft Unternehmen hier, Talente zu finden, und hilft Menschen im Ausland, Chancen im Land zu entdecken.",
-    "t": 567.22
+    "t": 566.62
    },
    {
     "speaker": "Anna",
     "text": "Tom, bevor wir zum Schluss kommen, gibt es einen Sicherheitshinweis, den wir wirklich erwähnen sollten.",
-    "t": 573.29
+    "t": 572.69
    },
    {
     "speaker": "Tom",
     "text": "Ja, einen wichtigen.",
-    "t": 578.54
+    "t": 577.94
    },
    {
     "speaker": "Tom",
     "text": "Manchmal senden Betrüger gefälschte E-Mails und geben vor, die ADEM zu sein, und sie verlangen Geld für einen Job oder ein Visum.",
-    "t": 580.14
+    "t": 579.54
    },
    {
     "speaker": "Anna",
     "text": "Bitte merken Sie sich das ganz klar... die ADEM verlangt niemals, dass Sie für einen Job oder ein Visum bezahlen.",
-    "t": 587.92
+    "t": 587.32
    },
    {
     "speaker": "Anna",
     "text": "Der Dienst ist kostenlos.",
-    "t": 594.31
+    "t": 593.71
    },
    {
     "speaker": "Tom",
     "text": "Wenn jemand Sie im Namen der ADEM um eine Zahlung bittet, ist das Betrug.",
-    "t": 596.23
+    "t": 595.63
    },
    {
     "speaker": "Tom",
     "text": "Zahlen Sie nicht und geben Sie Ihre Daten nicht weiter.",
-    "t": 600.52
+    "t": 599.92
    },
    {
     "speaker": "Anna",
     "text": "Noch eine praktische Sache... Sprachen.",
-    "t": 603.47
+    "t": 602.87
    },
    {
     "speaker": "Anna",
     "text": "Um mit der ADEM zu verkehren, sollten Sie mindestens eine der Verwaltungssprachen Luxemburgs sprechen... Luxemburgisch, Französisch oder Deutsch, oder sonst Englisch.",
-    "t": 606.5
+    "t": 605.9
    },
    {
     "speaker": "Tom",
     "text": "Und wenn nicht, können Sie jemanden mitbringen, dem Sie vertrauen und der das kann, um Ihnen während Ihrer Termine zu helfen.",
-    "t": 616.76
+    "t": 616.16
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir also alles zusammen.",
-    "t": 623.29
+    "t": 622.69
    },
    {
     "speaker": "Anna",
     "text": "Was sollten sich die Menschen über die ADEM merken?",
-    "t": 625.24
+    "t": 624.64
    },
    {
     "speaker": "Tom",
     "text": "Erstens... die ADEM ist der kostenlose, öffentliche Arbeitsdienst Luxemburgs, für Arbeitssuchende, Arbeitnehmer und Arbeitgeber.",
-    "t": 628.14
+    "t": 627.54
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... die Anmeldung als Arbeitssuchender öffnet die Tür zu einem persönlichen Berater, dem JobBoard, Weiterbildung und Unterstützung.",
-    "t": 636.47
+    "t": 635.87
    },
    {
     "speaker": "Tom",
     "text": "Drittens... Sie melden sich online auf MyGuichet Punkt lu mit einem sicheren Login an, oder persönlich mit einem Termin in Luxemburg, Esch-Belval oder Diekirch.",
-    "t": 645.1
+    "t": 644.5
    },
    {
     "speaker": "Anna",
     "text": "Viertens... um Arbeitslosengeld zu beantragen, müssen Sie sich zuerst anmelden, und der Antrag ist jetzt vollständig online.",
-    "t": 656.29
+    "t": 655.69
    },
    {
     "speaker": "Tom",
     "text": "Und fünftens... es gibt besondere Hilfe für junge Menschen, durch die Jugendgarantie, und für Menschen mit Behinderungen.",
-    "t": 663.86
+    "t": 663.26
    },
    {
     "speaker": "Anna",
     "text": "Und denken Sie an die Sicherheitsregel... die ADEM verlangt niemals eine Zahlung.",
-    "t": 671.29
+    "t": 670.69
    },
    {
     "speaker": "Tom",
     "text": "Eine Jobsuche kann sich stressig anfühlen.",
-    "t": 676.05
+    "t": 675.45
    },
    {
     "speaker": "Tom",
     "text": "Aber die Botschaft dieser Folge ist, dass Sie es nicht allein tun müssen.",
-    "t": 678.48
+    "t": 677.88
    },
    {
     "speaker": "Anna",
     "text": "Die ADEM ist da, um an Ihrer Seite zu gehen.",
-    "t": 682.34
+    "t": 681.74
    },
    {
     "speaker": "Anna",
     "text": "Schritt für Schritt.",
-    "t": 685.13
+    "t": 684.53
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die ADEM.",
-    "t": 686.66
+    "t": 686.06
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 688.95
+    "t": 688.35
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 697.81
+    "t": 697.21
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 715.66
+    "t": 715.06
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 721.36
+    "t": 720.76
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 723.61
+    "t": 723.01
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 728.5
+    "t": 727.9
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 729.65
+    "t": 729.05
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 732.86
+    "t": 732.26
    }
   ],
   "segments_lb": [

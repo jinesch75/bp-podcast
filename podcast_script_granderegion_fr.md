@@ -10,7 +10,7 @@
 
 **TOM :** Bonjour à tous !
 
-**ANNA :** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes. Et le sujet d'aujourd'hui est parfait pour ça, parce qu'il est question de franchir des frontières. On va parler de quelque chose qu'on appelle la Grande Région — et de son foyer, la Maison de la Grande Région.
+**ANNA :** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes. Et le sujet d'aujourd'hui est parfait pour ça, parce qu'il est question de franchir des frontières. On va parler de quelque chose qu'on appelle la Grande Région — et de son foyer, la Maison de la Grande Région.
 
 **TOM :** La Grande Région. Anna, beaucoup de gens ont déjà entendu ces mots, mais ne savent pas trop ce que ça veut dire. Commençons par là. Qu'est-ce que la Grande Région ?
 

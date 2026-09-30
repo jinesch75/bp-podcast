@@ -10,7 +10,7 @@
 
 **TOM :** Bonjour à tous !
 
-**ANNA :** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes. Et aujourd'hui, nous parlons d'une belle façon de rencontrer des gens, et de donner quelque chose en retour. Nous parlons du bénévolat.
+**ANNA :** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes. Et aujourd'hui, nous parlons d'une belle façon de rencontrer des gens, et de donner quelque chose en retour. Nous parlons du bénévolat.
 
 **TOM :** Le bénévolat. D'accord, Anna... commençons simplement. Qu'est-ce que c'est, au fond ?
 

@@ -10,7 +10,7 @@
 
 **TOM:** Hallo zusammen!
 
-**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen. Und heute sprechen wir über ein Amt mit einer sehr sanften, sehr menschlichen Aufgabe. Es heißt das Nationale Amt für soziale Inklusion.
+**ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen. Und heute sprechen wir über ein Amt mit einer sehr sanften, sehr menschlichen Aufgabe. Es heißt das Nationale Amt für soziale Inklusion.
 
 **TOM:** Das Nationale Amt für soziale Inklusion. Auf Französisch das Office national d'inclusion sociale. Die Leute benutzen den Kurznamen — O-N-I-S.
 
