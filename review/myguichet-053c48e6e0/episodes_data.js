@@ -713,23 +713,23 @@ const EPISODES = [
    {
     "text": "What is MyGuichet.lu?",
     "options": [
-     "A paid subscription service for legal advice",
      "The official, secure online platform of the Luxembourg government – your single point of contact with the public administration",
+     "A paid subscription service for legal advice",
      "A private online banking application",
      "A social network for residents of Luxembourg"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "MyGuichet.lu is the official, secure online platform of the Luxembourg State. It works like an online counter (“guichet”) where you can carry out administrative procedures from home instead of going to an office."
    },
    {
     "text": "Why is MyGuichet.lu described in the episode as an “online counter”?",
     "options": [
-     "Because it is like the counter of an administration office — but online, open every day, at any hour, from home",
      "Because you can count your documents there",
      "Because it only works at the counter of an office",
-     "Because it is a banking application"
+     "Because it is a banking application",
+     "Because it is like the counter of an administration office — but online, open every day, at any hour, from home"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Instead of going to an office counter during opening hours, MyGuichet.lu is your online counter with the State — open 24 hours a day, 7 days a week."
    },
    {
@@ -748,21 +748,21 @@ const EPISODES = [
     "options": [
      "Just a username and password you choose yourself",
      "A simple Google or Facebook account",
-     "Only a LuxTrust product",
-     "A LuxTrust product, the Luxembourg eID card, or an eIDAS login from your own European country"
+     "A LuxTrust product, the Luxembourg eID card, or an eIDAS login from your own European country",
+     "Only a LuxTrust product"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "You need one secure login, but you have a choice: a LuxTrust product (such as LuxTrust Mobile), the Luxembourg electronic ID card, or an eIDAS login from another European country."
    },
    {
     "text": "What can you do in your personal eSpace on MyGuichet.lu?",
     "options": [
      "Nothing – you still have to visit an office for everything",
-     "Trade shares and cryptocurrencies",
      "Follow the status of your requests, view your official data, receive documents and book appointments",
+     "Trade shares and cryptocurrencies",
      "Only file your annual tax return"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "In your eSpace you can follow your files, see the official data the State holds about you, receive official documents electronically, store documents, and book appointments with some administrations."
    }
   ],
@@ -2382,23 +2382,23 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que MyGuichet.lu ?",
     "options": [
-     "Un service payant par abonnement pour des conseils juridiques",
      "La plateforme en ligne officielle et sécurisée du gouvernement luxembourgeois – votre point de contact unique avec l'administration publique",
+     "Un service payant par abonnement pour des conseils juridiques",
      "Une application privée de banque en ligne",
      "Un réseau social pour les résidents du Luxembourg"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "MyGuichet.lu est la plateforme en ligne officielle et sécurisée de l'État luxembourgeois. Elle fonctionne comme un guichet en ligne où vous pouvez effectuer vos démarches administratives depuis chez vous, au lieu d'aller dans un bureau."
    },
    {
     "text": "Pourquoi MyGuichet.lu est-il décrit dans l'épisode comme un « guichet en ligne » ?",
     "options": [
-     "Parce que c'est comme le guichet d'un bureau administratif — mais en ligne, ouvert tous les jours, à toute heure, depuis chez vous",
      "Parce qu'on peut y compter ses documents",
      "Parce qu'il ne fonctionne qu'au guichet d'un bureau",
-     "Parce que c'est une application bancaire"
+     "Parce que c'est une application bancaire",
+     "Parce que c'est comme le guichet d'un bureau administratif — mais en ligne, ouvert tous les jours, à toute heure, depuis chez vous"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Au lieu d'aller au guichet d'un bureau pendant les heures d'ouverture, MyGuichet.lu est votre guichet en ligne avec l'État — ouvert 24 heures sur 24, 7 jours sur 7."
    },
    {
@@ -2417,21 +2417,21 @@ const EPISODES = [
     "options": [
      "Juste un nom d'utilisateur et un mot de passe que vous choisissez vous-même",
      "Un simple compte Google ou Facebook",
-     "Uniquement un produit LuxTrust",
-     "Un produit LuxTrust, la carte d'identité électronique luxembourgeoise, ou un identifiant eIDAS de votre propre pays européen"
+     "Un produit LuxTrust, la carte d'identité électronique luxembourgeoise, ou un identifiant eIDAS de votre propre pays européen",
+     "Uniquement un produit LuxTrust"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Il vous faut un moyen de connexion sécurisé, mais vous avez le choix : un produit LuxTrust (comme LuxTrust Mobile), la carte d'identité électronique luxembourgeoise, ou un identifiant eIDAS d'un autre pays européen."
    },
    {
     "text": "Que pouvez-vous faire dans votre eSpace personnel sur MyGuichet.lu ?",
     "options": [
      "Rien – vous devez quand même aller au bureau pour tout",
-     "Acheter des actions et des cryptomonnaies",
      "Suivre l'état de vos demandes, consulter vos données officielles, recevoir des documents et prendre des rendez-vous",
+     "Acheter des actions et des cryptomonnaies",
      "Uniquement faire votre déclaration d'impôts annuelle"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Dans votre eSpace, vous pouvez suivre vos dossiers, consulter les données officielles que l'État possède sur vous, recevoir des documents officiels par voie électronique, conserver des documents, et prendre des rendez-vous avec certaines administrations."
    }
   ],
@@ -2451,23 +2451,23 @@ const EPISODES = [
    {
     "text": "Was ist MyGuichet.lu?",
     "options": [
-     "Ein kostenpflichtiger Abo-Dienst für Rechtsberatung",
      "Die offizielle, sichere Online-Plattform der luxemburgischen Regierung – Ihre zentrale Anlaufstelle bei der öffentlichen Verwaltung",
+     "Ein kostenpflichtiger Abo-Dienst für Rechtsberatung",
      "Eine private Online-Banking-Anwendung",
      "Ein soziales Netzwerk für Einwohner Luxemburgs"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "MyGuichet.lu ist die offizielle, sichere Online-Plattform des luxemburgischen Staates. Sie funktioniert wie ein Online-Schalter („guichet“), an dem Sie Verwaltungsverfahren von zu Hause aus erledigen können, anstatt zu einem Amt zu gehen."
    },
    {
     "text": "Warum wird MyGuichet.lu in der Folge als „Online-Schalter“ beschrieben?",
     "options": [
-     "Weil es wie der Schalter eines Amtes ist — aber online, jeden Tag geöffnet, zu jeder Stunde, von zu Hause aus",
      "Weil man dort seine Dokumente zählen kann",
      "Weil es nur am Schalter eines Amtes funktioniert",
-     "Weil es eine Banking-Anwendung ist"
+     "Weil es eine Banking-Anwendung ist",
+     "Weil es wie der Schalter eines Amtes ist — aber online, jeden Tag geöffnet, zu jeder Stunde, von zu Hause aus"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Anstatt während der Öffnungszeiten zu einem Amtsschalter zu gehen, ist MyGuichet.lu Ihr Online-Schalter beim Staat — geöffnet 24 Stunden am Tag, 7 Tage die Woche."
    },
    {
@@ -2486,21 +2486,21 @@ const EPISODES = [
     "options": [
      "Nur einen selbst gewählten Benutzernamen und ein Passwort",
      "Ein einfaches Google- oder Facebook-Konto",
-     "Nur ein LuxTrust-Produkt",
-     "Ein LuxTrust-Produkt, den luxemburgischen eID-Ausweis, oder eine eIDAS-Anmeldung aus Ihrem eigenen europäischen Land"
+     "Ein LuxTrust-Produkt, den luxemburgischen eID-Ausweis, oder eine eIDAS-Anmeldung aus Ihrem eigenen europäischen Land",
+     "Nur ein LuxTrust-Produkt"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Sie brauchen eine sichere Anmeldung, aber Sie haben die Wahl: ein LuxTrust-Produkt (wie LuxTrust Mobile), den luxemburgischen elektronischen Personalausweis, oder eine eIDAS-Anmeldung aus einem anderen europäischen Land."
    },
    {
     "text": "Was können Sie in Ihrem persönlichen eSpace auf MyGuichet.lu tun?",
     "options": [
      "Nichts – Sie müssen für alles weiterhin ein Amt aufsuchen",
-     "Aktien und Kryptowährungen handeln",
      "Den Status Ihrer Anträge verfolgen, Ihre offiziellen Daten einsehen, Dokumente empfangen und Termine buchen",
+     "Aktien und Kryptowährungen handeln",
      "Nur Ihre jährliche Steuererklärung einreichen"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "In Ihrem eSpace können Sie Ihre Dossiers verfolgen, die offiziellen Daten sehen, die der Staat über Sie hat, offizielle Dokumente elektronisch empfangen, Dokumente speichern und bei einigen Verwaltungen Termine buchen."
    }
   ],
@@ -2520,23 +2520,23 @@ const EPISODES = [
    {
     "text": "Wat ass MyGuichet.lu?",
     "options": [
-     "E bezuelten Abonnement fir juristesch Berodung",
      "Déi offiziell, sécher Online-Plattform vun der Lëtzebuerger Regierung – Är eenzeg Kontaktplaz mat der ëffentlecher Administratioun",
+     "E bezuelten Abonnement fir juristesch Berodung",
      "Eng privat Online-Banking-App",
      "E sozialt Netzwierk fir d'Awunner vu Lëtzebuerg"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "MyGuichet.lu ass déi offiziell, sécher Online-Plattform vum Lëtzebuerger Staat. Si funktionéiert wéi en Online-Guichet, wou Dir administrativ Prozedure vun doheem aus maache kënnt, amplaz an e Büro ze goen."
    },
    {
     "text": "Firwat gëtt MyGuichet.lu an der Episod als en \"Online-Guichet\" beschriwwen?",
     "options": [
-     "Well et wéi de Guichet vun engem Administratiounsbüro ass — mä online, all Dag op, zu all Stonn, vun doheem aus",
      "Well Dir do Är Dokumenter ziele kënnt",
      "Well et nëmmen um Guichet vun engem Büro funktionéiert",
-     "Well et eng Banking-App ass"
+     "Well et eng Banking-App ass",
+     "Well et wéi de Guichet vun engem Administratiounsbüro ass — mä online, all Dag op, zu all Stonn, vun doheem aus"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Amplaz wärend den Ëffnungszäiten un e Guichet an engem Büro ze goen, ass MyGuichet.lu Ären Online-Guichet mam Staat — op véieranzwanzeg Stonnen den Dag, siwen Deeg an der Woch."
    },
    {
@@ -2555,21 +2555,21 @@ const EPISODES = [
     "options": [
      "Just e Benotzernumm an e Passwuert, déi Dir selwer wielt",
      "En einfache Google- oder Facebook-Kont",
-     "Nëmmen e LuxTrust-Produkt",
-     "E LuxTrust-Produkt, déi Lëtzebuerger eID-Kaart, oder en eIDAS-Login aus Ärem eegenen europäesche Land"
+     "E LuxTrust-Produkt, déi Lëtzebuerger eID-Kaart, oder en eIDAS-Login aus Ärem eegenen europäesche Land",
+     "Nëmmen e LuxTrust-Produkt"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Dir braucht ee séchere Login, mä Dir hutt eng Wiel: e LuxTrust-Produkt (wéi LuxTrust Mobile), déi Lëtzebuerger elektronesch Identitéitskaart, oder en eIDAS-Login aus engem aneren europäesche Land."
    },
    {
     "text": "Wat kënnt Dir an Ärem perséinlechen eSpace op MyGuichet.lu maachen?",
     "options": [
      "Näischt – Dir musst fir alles nach ëmmer an e Büro goen",
-     "Aktien a Kryptowärungen handelen",
      "De Status vun Ären Ufroe verfollegen, Är offiziell Donnéeë gesinn, Dokumenter kréien a Rendez-vouse buchen",
+     "Aktien a Kryptowärungen handelen",
      "Nëmmen Är alljäerlech Steiererklärung maachen"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "An Ärem eSpace kënnt Dir Är Dossiere verfollegen, déi offiziell Donnéeë gesinn, déi de Staat iwwer Iech huet, offiziell Dokumenter elektronesch kréien, Dokumenter späicheren, a Rendez-vouse mat verschiddenen Administratioune buchen."
    }
   ],

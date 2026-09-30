@@ -704,45 +704,45 @@ const EPISODES = [
    {
     "text": "Within what time must a death be declared to the commune in Luxembourg?",
     "options": [
+     "Within twenty-four hours",
      "Within one month",
      "Within one week",
-     "Within twenty-four hours",
      "There is no deadline"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "A death must be declared to the commune within 24 hours — one of the first formalities that families must handle very quickly, often while still in shock."
    },
    {
     "text": "How does the Clarvia checklist work?",
     "options": [
-     "You answer a few questions and get a personalised, step-by-step list of administrative steps, with the time-sensitive ones highlighted",
      "It sends a lawyer to your home",
      "It is the same printed list for everybody",
+     "You answer a few questions and get a personalised, step-by-step list of administrative steps, with the time-sensitive ones highlighted",
      "You must register with your matricule"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The digital checklist is personalised: based on your situation it lists the relevant administrative steps and helps you see which ones have deadlines. An early alpha version is already on clarvia.org."
    },
    {
     "text": "Where does the information in the checklist come from?",
     "options": [
      "From social media",
+     "Every step is mapped back to an official government source, kept in a public registry",
      "From anonymous forum posts",
-     "It is the personal opinion of the founders",
-     "Every step is mapped back to an official government source, kept in a public registry"
+     "It is the personal opinion of the founders"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Every administrative step is mapped to its official government source (such as Guichet.lu), and Clarvia maintains a public registry of these sources so anyone can verify the guidance."
    },
    {
     "text": "What does Clarvia cost, and what happens to your data?",
     "options": [
      "It is free only for Luxembourg nationals",
-     "It is free for every family, with no ads — and the checklist does not collect, store or share personal data",
      "It costs a monthly subscription",
-     "It is free, but your data is sold to insurers"
+     "It is free, but your data is sold to insurers",
+     "It is free for every family, with no ads — and the checklist does not collect, store or share personal data"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Clarvia is free for every family — no fees, no advertising, no premium tiers — and the checklist is designed to protect privacy: it does not collect, store or share personal data."
    }
   ],
@@ -778,45 +778,45 @@ const EPISODES = [
    {
     "text": "Dans quel délai un décès doit-il être déclaré à la commune au Luxembourg ?",
     "options": [
+     "Dans les vingt-quatre heures",
      "Dans un délai d'un mois",
      "Dans un délai d'une semaine",
-     "Dans les vingt-quatre heures",
      "Il n'y a pas de délai"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Un décès doit être déclaré à la commune dans les 24 heures — l'une des premières formalités que les familles doivent accomplir très vite, souvent alors qu'elles sont encore sous le choc."
    },
    {
     "text": "Comment fonctionne la checklist de Clarvia ?",
     "options": [
-     "Vous répondez à quelques questions et vous recevez une liste personnalisée, étape par étape, des démarches administratives, avec les étapes urgentes mises en évidence",
      "Elle envoie un avocat chez vous",
      "C'est la même liste imprimée pour tout le monde",
+     "Vous répondez à quelques questions et vous recevez une liste personnalisée, étape par étape, des démarches administratives, avec les étapes urgentes mises en évidence",
      "Vous devez vous inscrire avec votre matricule"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "La checklist numérique est personnalisée : selon votre situation, elle liste les démarches administratives pertinentes et vous aide à voir lesquelles ont un délai. Une première version alpha est déjà sur clarvia.org."
    },
    {
     "text": "D'où vient l'information de la checklist ?",
     "options": [
      "Des réseaux sociaux",
+     "Chaque étape est reliée à une source officielle du gouvernement, conservée dans un registre public",
      "De messages anonymes sur des forums",
-     "C'est l'opinion personnelle des fondateurs",
-     "Chaque étape est reliée à une source officielle du gouvernement, conservée dans un registre public"
+     "C'est l'opinion personnelle des fondateurs"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Chaque démarche administrative est reliée à sa source officielle (comme Guichet.lu), et Clarvia tient un registre public de ces sources pour que chacun puisse vérifier les recommandations."
    },
    {
     "text": "Combien coûte Clarvia, et que deviennent vos données ?",
     "options": [
      "C'est gratuit seulement pour les ressortissants luxembourgeois",
-     "C'est gratuit pour chaque famille, sans publicité — et la checklist ne collecte, ne stocke et ne partage pas de données personnelles",
      "Cela coûte un abonnement mensuel",
-     "C'est gratuit, mais vos données sont vendues à des assureurs"
+     "C'est gratuit, mais vos données sont vendues à des assureurs",
+     "C'est gratuit pour chaque famille, sans publicité — et la checklist ne collecte, ne stocke et ne partage pas de données personnelles"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Clarvia est gratuit pour chaque famille — pas de frais, pas de publicité, pas de version premium — et la checklist est conçue pour protéger la vie privée : elle ne collecte, ne stocke et ne partage pas de données personnelles."
    }
   ],
@@ -847,45 +847,45 @@ const EPISODES = [
    {
     "text": "Innerhalb welcher Zeit muss ein Todesfall in Luxemburg bei der Gemeinde gemeldet werden?",
     "options": [
+     "Innerhalb von vierundzwanzig Stunden",
      "Innerhalb eines Monats",
      "Innerhalb einer Woche",
-     "Innerhalb von vierundzwanzig Stunden",
      "Es gibt keine Frist"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Ein Todesfall muss innerhalb von 24 Stunden bei der Gemeinde gemeldet werden — eine der ersten Formalitäten, die Familien sehr schnell erledigen müssen, oft noch unter Schock."
    },
    {
     "text": "Wie funktioniert die Clarvia-Checkliste?",
     "options": [
-     "Sie beantworten ein paar Fragen und erhalten eine persönliche Liste der administrativen Schritte, Schritt für Schritt, mit hervorgehobenen zeitkritischen Schritten",
      "Sie schickt einen Anwalt zu Ihnen nach Hause",
      "Es ist die gleiche gedruckte Liste für alle",
+     "Sie beantworten ein paar Fragen und erhalten eine persönliche Liste der administrativen Schritte, Schritt für Schritt, mit hervorgehobenen zeitkritischen Schritten",
      "Sie müssen sich mit Ihrem Matricule registrieren"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Die digitale Checkliste ist persönlich: Basierend auf Ihrer Situation listet sie die relevanten administrativen Schritte auf und hilft Ihnen zu sehen, welche eine Frist haben. Eine frühe Alpha-Version ist schon auf clarvia.org."
    },
    {
     "text": "Woher kommen die Informationen in der Checkliste?",
     "options": [
      "Aus den sozialen Medien",
+     "Jeder Schritt ist mit einer offiziellen staatlichen Quelle verknüpft, die in einem öffentlichen Register geführt wird",
      "Aus anonymen Forenbeiträgen",
-     "Es ist die persönliche Meinung der Gründer",
-     "Jeder Schritt ist mit einer offiziellen staatlichen Quelle verknüpft, die in einem öffentlichen Register geführt wird"
+     "Es ist die persönliche Meinung der Gründer"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Jeder administrative Schritt ist mit seiner offiziellen staatlichen Quelle verknüpft (zum Beispiel Guichet.lu), und Clarvia führt ein öffentliches Register dieser Quellen, damit jeder die Empfehlungen überprüfen kann."
    },
    {
     "text": "Was kostet Clarvia, und was passiert mit Ihren Daten?",
     "options": [
      "Es ist nur für luxemburgische Staatsangehörige kostenlos",
-     "Es ist für jede Familie kostenlos, ohne Werbung — und die Checkliste sammelt, speichert und teilt keine persönlichen Daten",
      "Es kostet ein monatliches Abonnement",
-     "Es ist kostenlos, aber Ihre Daten werden an Versicherungen verkauft"
+     "Es ist kostenlos, aber Ihre Daten werden an Versicherungen verkauft",
+     "Es ist für jede Familie kostenlos, ohne Werbung — und die Checkliste sammelt, speichert und teilt keine persönlichen Daten"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Clarvia ist für jede Familie kostenlos — keine Gebühren, keine Werbung, keine Premium-Version — und die Checkliste ist so gemacht, dass sie die Privatsphäre schützt: Sie sammelt, speichert und teilt keine persönlichen Daten."
    }
   ],
@@ -916,45 +916,45 @@ const EPISODES = [
    {
     "text": "Bannent wéi enger Zäit muss en Doudesfall zu Lëtzebuerg op der Gemeng deklaréiert ginn?",
     "options": [
+     "Bannent véieranzwanzeg Stonnen",
      "Bannent engem Mount",
      "Bannent enger Woch",
-     "Bannent véieranzwanzeg Stonnen",
      "Et gëtt keen Delai"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "En Doudesfall muss bannent 24 Stonnen op der Gemeng deklaréiert ginn — eng vun den éischte Formalitéiten, ëm déi d'Famillje sech ganz séier musse këmmeren, dacks nach am Schock."
    },
    {
     "text": "Wéi funktionéiert d'Checklist vu Clarvia?",
     "options": [
-     "Dir äntwert op e puer Froen a kritt eng personaliséiert Lëscht, Schrëtt fir Schrëtt, mat den administrative Schrëtt, wou déi zäitkritesch ervirgehuewe sinn",
      "Si schéckt en Affekot bei Iech heem",
      "Et ass déiselwecht gedréckte Lëscht fir jiddereen",
+     "Dir äntwert op e puer Froen a kritt eng personaliséiert Lëscht, Schrëtt fir Schrëtt, mat den administrative Schrëtt, wou déi zäitkritesch ervirgehuewe sinn",
      "Dir musst Iech mat Ärem Matricule aschreiwen"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Déi digital Checklist ass personaliséiert: op Basis vun Ärer Situatioun lëscht se déi relevant administrativ Schrëtt op an hëlleft Iech ze gesinn, wéi eng en Delai hunn. Eng éischt Alpha-Versioun ass schonn op clarvia.org."
    },
    {
     "text": "Vu wou kënnt d'Informatioun an der Checklist?",
     "options": [
      "Vu soziale Medien",
+     "All Schrëtt ass op eng offiziell staatlech Quell zréckgefouert, déi an engem ëffentleche Regëster gehale gëtt",
      "Vun anonyme Forumsbäiträg",
-     "Et ass déi perséinlech Meenung vun de Grënner",
-     "All Schrëtt ass op eng offiziell staatlech Quell zréckgefouert, déi an engem ëffentleche Regëster gehale gëtt"
+     "Et ass déi perséinlech Meenung vun de Grënner"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "All administrative Schrëtt ass op seng offiziell staatlech Quell zréckgefouert (wéi zum Beispill Guichet.lu), a Clarvia hält en ëffentleche Regëster vun dëse Quellen, sou datt jidderee kann nokucken, vu wou d'Empfeelunge kommen."
    },
    {
     "text": "Wat kascht Clarvia, a wat geschitt mat Ären Donnéeën?",
     "options": [
      "Et ass nëmme gratis fir Lëtzebuerger Staatsbierger",
-     "Et ass gratis fir all Famill, ouni Reklamm — an d'Checklist sammelt, späichert an deelt keng perséinlech Donnéeën",
      "Et kascht e monatlechen Abonnement",
-     "Et ass gratis, mä Är Donnéeë gi u Versécherunge verkaaft"
+     "Et ass gratis, mä Är Donnéeë gi u Versécherunge verkaaft",
+     "Et ass gratis fir all Famill, ouni Reklamm — an d'Checklist sammelt, späichert an deelt keng perséinlech Donnéeën"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Clarvia ass gratis fir all Famill — keng Fraisen, keng Reklamm, keng Premium-Versioun — an d'Checklist ass sou gemaach, datt se d'Privatsphär schützt: si sammelt, späichert an deelt keng perséinlech Donnéeën."
    }
   ],

@@ -706,23 +706,23 @@ const EPISODES = [
    {
     "text": "What happens if a parent comes with a serious, specific problem that the Eltereforum cannot treat itself?",
     "options": [
+     "The team listens and guides them to the right specialised service",
      "They are asked to come back later",
      "The Eltereforum provides medical therapy on site",
-     "The team listens and guides them to the right specialised service",
      "Nothing — the Eltereforum only organises parties"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The Eltereforum is generalist — it does not give specialised treatment. But the team listens and points you to the right specialised service, so it is also a door that sends you in the right direction."
    },
    {
     "text": "What can you find on the website eltereforum.lu?",
     "options": [
      "An online shop for children's clothes",
-     "An information platform with the agenda of all activities, evenings and courses at the different forums",
      "Only the phone number of the Ministry",
+     "An information platform with the agenda of all activities, evenings and courses at the different forums",
      "A social network reserved for teachers"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "eltereforum.lu is an information platform in itself, and its agenda shows the calendar of all activities, evenings and courses at the different regional forums — so you can see what is happening near you."
    }
   ],
@@ -2298,23 +2298,23 @@ const EPISODES = [
    {
     "text": "Que se passe-t-il si un parent vient avec un problème sérieux et spécifique que l'Eltereforum ne peut pas traiter lui-même ?",
     "options": [
+     "L'équipe l'écoute et l'oriente vers le bon service spécialisé",
      "On lui demande de revenir plus tard",
      "L'Eltereforum propose une thérapie médicale sur place",
-     "L'équipe l'écoute et l'oriente vers le bon service spécialisé",
      "Rien — l'Eltereforum n'organise que des fêtes"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "L'Eltereforum est généraliste — il ne propose pas de traitement spécialisé. Mais l'équipe vous écoute et vous indique le bon service spécialisé ; c'est donc aussi une porte qui vous envoie dans la bonne direction."
    },
    {
     "text": "Que trouve-t-on sur le site eltereforum.lu ?",
     "options": [
      "Une boutique en ligne de vêtements pour enfants",
-     "Une plateforme d'information avec l'agenda de toutes les activités, soirées et cours des différents forums",
      "Uniquement le numéro de téléphone du ministère",
+     "Une plateforme d'information avec l'agenda de toutes les activités, soirées et cours des différents forums",
      "Un réseau social réservé aux enseignants"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "eltereforum.lu est une plateforme d'information en soi, et son agenda montre le calendrier de toutes les activités, soirées et cours des différents forums régionaux — vous pouvez donc voir ce qui se passe près de chez vous."
    }
   ],
@@ -2369,23 +2369,23 @@ const EPISODES = [
    {
     "text": "Was passiert, wenn Eltern mit einem ernsten, speziellen Problem kommen, das das Eltereforum selbst nicht behandeln kann?",
     "options": [
+     "Das Team hört zu und begleitet sie zum richtigen spezialisierten Dienst",
      "Sie werden gebeten, später wiederzukommen",
      "Das Eltereforum bietet vor Ort medizinische Therapie an",
-     "Das Team hört zu und begleitet sie zum richtigen spezialisierten Dienst",
      "Nichts — das Eltereforum organisiert nur Feste"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Das Eltereforum ist generalistisch — es bietet keine spezialisierte Behandlung an. Aber das Team hört zu und zeigt Ihnen den richtigen spezialisierten Dienst, es ist also auch eine Tür, die Sie in die richtige Richtung schickt."
    },
    {
     "text": "Was finden Sie auf der Website eltereforum.lu?",
     "options": [
      "Einen Online-Shop für Kinderkleidung",
-     "Eine Informationsplattform mit der Agenda aller Aktivitäten, Abende und Kurse in den verschiedenen Foren",
      "Nur die Telefonnummer des Ministeriums",
+     "Eine Informationsplattform mit der Agenda aller Aktivitäten, Abende und Kurse in den verschiedenen Foren",
      "Ein soziales Netzwerk nur für Lehrer"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "eltereforum.lu ist selbst eine Informationsplattform, und die Agenda zeigt den Kalender aller Aktivitäten, Abende und Kurse in den verschiedenen regionalen Foren — so sehen Sie, was in Ihrer Nähe passiert."
    }
   ],
@@ -2441,23 +2441,23 @@ const EPISODES = [
    {
     "text": "Wat geschitt, wann en Elterendeel mat engem eeschten, spezifesche Problem kënnt, deen den Eltereforum net selwer behandele kann?",
     "options": [
+     "D'Equipe lauschtert no a begleet en zum richtege spezialiséierte Service",
      "E gëtt gebieden, méi spéit erëmzekommen",
      "Den Eltereforum mécht medezinesch Therapie op der Plaz",
-     "D'Equipe lauschtert no a begleet en zum richtege spezialiséierte Service",
      "Näischt — den Eltereforum organiséiert nëmme Fester"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Den Eltereforum ass generalistesch — e gëtt keng spezialiséiert Behandlung. Mä d'Equipe lauschtert no a weist Iech de Wee zum richtege spezialiséierte Service, sou datt en och eng Dier ass, déi Iech an déi richteg Richtung schéckt."
    },
    {
     "text": "Wat fannt Dir op der Websäit eltereforum.lu?",
     "options": [
      "En Online-Buttek fir Kannerkleeder",
-     "Eng Informatiounsplattform mat dem Agenda vun allen Aktivitéiten, Owender a Coursen an deene verschiddene Foren",
      "Nëmmen d'Telefonsnummer vum Ministère",
+     "Eng Informatiounsplattform mat dem Agenda vun allen Aktivitéiten, Owender a Coursen an deene verschiddene Foren",
      "E sozialt Netzwierk nëmme fir Enseignanten"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "eltereforum.lu ass selwer eng Informatiounsplattform, an den Agenda weist de Kalenner vun allen Aktivitéiten, Owender a Coursen an deene verschiddene regionale Foren — sou gesitt Dir, wat bei Iech an der Géigend leeft."
    }
   ]

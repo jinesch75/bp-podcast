@@ -744,34 +744,34 @@ const EPISODES = [
    {
     "text": "Who decides who can look at your DSP?",
     "options": [
-     "You, the patient – you give and remove access and can see who consulted your file",
      "Only your general practitioner",
      "Your employer",
+     "You, the patient – you give and remove access and can see who consulted your file",
      "The Ministry of Health"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "You are in control: you decide who can access your DSP, you can withdraw access, see who consulted it, and even hide certain documents. It’s your file and you hold the keys."
    },
    {
     "text": "For a normal visit to the doctor, how does payment usually work with the CNS?",
     "options": [
      "The CNS pays you in cash at the reception desk",
+     "You pay the full price first, then the CNS reimburses most of it (around 80–100%) into your bank account",
      "The visit is always completely free",
-     "You never pay anything at any point",
-     "You pay the full price first, then the CNS reimburses most of it (around 80–100%) into your bank account"
+     "You never pay anything at any point"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Luxembourg traditionally works by reimbursement: you pay the doctor first, send the paid invoice to the CNS, and they pay most of it back into your bank account, usually within about three weeks."
    },
    {
     "text": "What is “tiers payant” (third-party payment), for example at the pharmacy?",
     "options": [
-     "You pay only your small share, and the pharmacy settles the rest directly with the CNS",
      "The State pays nothing and you pay everything",
      "You always pay the full price and claim it later",
-     "You pay double and get refunded"
+     "You pay double and get refunded",
+     "You pay only your small share, and the pharmacy settles the rest directly with the CNS"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "With third-party payment (“tiers payant”), used at the pharmacy and for hospital stays, you only pay your small share and the provider bills the CNS directly for the rest."
    },
    {
@@ -2518,34 +2518,34 @@ const EPISODES = [
    {
     "text": "Qui décide qui peut consulter votre DSP ?",
     "options": [
-     "Vous, le patient – vous donnez et retirez l'accès et pouvez voir qui a consulté votre dossier",
      "Uniquement votre médecin généraliste",
      "Votre employeur",
+     "Vous, le patient – vous donnez et retirez l'accès et pouvez voir qui a consulté votre dossier",
      "Le ministère de la Santé"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "C'est vous qui contrôlez : vous décidez qui peut accéder à votre DSP, vous pouvez retirer l'accès, voir qui l'a consulté, et même masquer certains documents. C'est votre dossier et c'est vous qui avez les clés."
    },
    {
     "text": "Pour une visite normale chez le médecin, comment fonctionne généralement le paiement avec la CNS ?",
     "options": [
      "La CNS vous paie en espèces à l'accueil",
+     "Vous payez d'abord le prix complet, puis la CNS vous rembourse la plus grande partie (environ 80 à 100 %) sur votre compte bancaire",
      "La visite est toujours entièrement gratuite",
-     "Vous ne payez jamais rien à aucun moment",
-     "Vous payez d'abord le prix complet, puis la CNS vous rembourse la plus grande partie (environ 80 à 100 %) sur votre compte bancaire"
+     "Vous ne payez jamais rien à aucun moment"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Le Luxembourg fonctionne traditionnellement par remboursement : vous payez d'abord le médecin, vous envoyez la facture acquittée à la CNS, et elle vous rembourse la plus grande partie sur votre compte bancaire, en général en moins de trois semaines."
    },
    {
     "text": "Qu'est-ce que le « tiers payant », par exemple à la pharmacie ?",
     "options": [
-     "Vous ne payez que votre petite part, et la pharmacie règle le reste directement avec la CNS",
      "L'État ne paie rien et vous payez tout",
      "Vous payez toujours le prix complet et le réclamez plus tard",
-     "Vous payez le double et êtes remboursé"
+     "Vous payez le double et êtes remboursé",
+     "Vous ne payez que votre petite part, et la pharmacie règle le reste directement avec la CNS"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Avec le tiers payant, utilisé à la pharmacie et pour les séjours à l'hôpital, vous ne payez que votre petite part et le prestataire facture le reste directement à la CNS."
    },
    {
@@ -2587,34 +2587,34 @@ const EPISODES = [
    {
     "text": "Wer entscheidet, wer in Ihr DSP schauen darf?",
     "options": [
-     "Sie, der Patient – Sie geben und entziehen den Zugang und können sehen, wer Ihre Akte eingesehen hat",
      "Nur Ihr Hausarzt",
      "Ihr Arbeitgeber",
+     "Sie, der Patient – Sie geben und entziehen den Zugang und können sehen, wer Ihre Akte eingesehen hat",
      "Das Gesundheitsministerium"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Sie haben die Kontrolle: Sie entscheiden, wer auf Ihr DSP zugreifen darf, Sie können den Zugang entziehen, sehen, wer die Akte eingesehen hat, und sogar bestimmte Dokumente verbergen. Es ist Ihre Akte, und Sie halten die Schlüssel."
    },
    {
     "text": "Wie funktioniert die Bezahlung bei einem normalen Arztbesuch üblicherweise mit der CNS?",
     "options": [
      "Die CNS zahlt Ihnen an der Rezeption bar",
+     "Sie zahlen zuerst den vollen Preis, dann erstattet die CNS das meiste davon (etwa 80–100 %) auf Ihr Bankkonto",
      "Der Besuch ist immer völlig kostenlos",
-     "Sie zahlen zu keinem Zeitpunkt etwas",
-     "Sie zahlen zuerst den vollen Preis, dann erstattet die CNS das meiste davon (etwa 80–100 %) auf Ihr Bankkonto"
+     "Sie zahlen zu keinem Zeitpunkt etwas"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Luxemburg funktioniert traditionell über die Rückerstattung: Sie zahlen den Arzt zuerst, schicken die bezahlte Rechnung an die CNS, und diese zahlt das meiste davon auf Ihr Bankkonto zurück, normalerweise innerhalb von etwa drei Wochen."
    },
    {
     "text": "Was ist das „tiers payant“ (Drittzahlersystem), zum Beispiel in der Apotheke?",
     "options": [
-     "Sie zahlen nur Ihren kleinen Anteil, und die Apotheke rechnet den Rest direkt mit der CNS ab",
      "Der Staat zahlt nichts und Sie zahlen alles",
      "Sie zahlen immer den vollen Preis und fordern ihn später zurück",
-     "Sie zahlen das Doppelte und werden erstattet"
+     "Sie zahlen das Doppelte und werden erstattet",
+     "Sie zahlen nur Ihren kleinen Anteil, und die Apotheke rechnet den Rest direkt mit der CNS ab"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Beim Drittzahlersystem („tiers payant“), das in der Apotheke und bei Krankenhausaufenthalten gilt, zahlen Sie nur Ihren kleinen Anteil, und der Anbieter rechnet den Rest direkt mit der CNS ab."
    },
    {
@@ -2656,34 +2656,34 @@ const EPISODES = [
    {
     "text": "Wien decidéiert, wien an Ären DSP kucke kann?",
     "options": [
-     "Dir, de Patient – Dir gitt an huelt den Zougang, an Dir kënnt gesinn, wien Ären Dossier consultéiert huet",
      "Nëmmen Ären Hausdokter",
      "Ären Patron",
+     "Dir, de Patient – Dir gitt an huelt den Zougang, an Dir kënnt gesinn, wien Ären Dossier consultéiert huet",
      "De Gesondheetsministère"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Dir hutt d'Kontroll: Dir decidéiert, wien Zougang zu Ärem DSP huet, Dir kënnt den Zougang zerécken, gesinn, wien en consultéiert huet, a souguer verschidde Dokumenter verstoppen. Et ass Ären Dossier, an Dir hutt d'Schlësselen."
    },
    {
     "text": "Wéi funktionéiert d'Bezuele bei enger normaler Visite beim Dokter mat der CNS normalerweis?",
     "options": [
      "D'CNS bezilt Iech boer un der Receptioun",
+     "Dir bezuelt fir d'éischt de vollen Präis, dann rembourséiert d'CNS dat meescht dovun (ronn 80–100%) op Äre Bankkont",
      "D'Visite ass ëmmer komplett gratis",
-     "Dir bezuelt ni eppes, zu kengem Moment",
-     "Dir bezuelt fir d'éischt de vollen Präis, dann rembourséiert d'CNS dat meescht dovun (ronn 80–100%) op Äre Bankkont"
+     "Dir bezuelt ni eppes, zu kengem Moment"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Lëtzebuerg funktionéiert traditionell mam Remboursement: Dir bezuelt den Dokter fir d'éischt, schéckt déi bezuelte Faktur un d'CNS, a si bezilt dat meescht dovun op Äre Bankkont zeréck, normalerweis a manner wéi dräi Wochen."
    },
    {
     "text": "Wat ass den \"Tiers payant\", zum Beispill an der Apdikt?",
     "options": [
-     "Dir bezuelt nëmmen Äre klengen Undeel, an d'Apdikt reegelt de Rescht direkt mat der CNS",
      "De Staat bezilt näischt, an Dir bezuelt alles",
      "Dir bezuelt ëmmer de vollen Präis a frot en duerno zeréck",
-     "Dir bezuelt duebel a gitt rembourséiert"
+     "Dir bezuelt duebel a gitt rembourséiert",
+     "Dir bezuelt nëmmen Äre klengen Undeel, an d'Apdikt reegelt de Rescht direkt mat der CNS"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Mam Tiers payant, deen an der Apdikt a bei Spidolsopenthalter benotzt gëtt, bezuelt Dir nëmmen Äre klengen Undeel, an d'Apdikt oder d'Spidol facturéiert de Rescht direkt un d'CNS."
    },
    {

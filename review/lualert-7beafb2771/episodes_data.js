@@ -903,45 +903,45 @@ const EPISODES = [
    {
     "text": "What is LU-Alert?",
     "options": [
+     "Luxembourg’s national public warning and information system, launched in autumn 2024",
      "A private weather app you subscribe to",
      "A social media account run by the police",
-     "Luxembourg’s national public warning and information system, launched in autumn 2024",
      "An insurance scheme for natural disasters"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "“LU-Alert” combines “LU” (the country code for Luxembourg) and “Alert”. It is the national warning and information system for the population, deployed in autumn 2024 to warn people about dangerous events."
    },
    {
     "text": "Do you need to sign up to receive alerts by Cell Broadcast or location-based SMS?",
     "options": [
-     "No – there is no registration; any phone in the targeted area is reached automatically",
      "Yes, you must register your number on lu-alert.lu",
+     "No – there is no registration; any phone in the targeted area is reached automatically",
      "Yes, but only cross-border workers need to register",
      "No, but only if you pay a small annual fee"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "For Cell Broadcast and location-based SMS you do not sign up – and cannot really opt out. If your phone is in the area when the authorities send a message, it is targeted automatically. (For the mobile app, you simply download it.)"
    },
    {
     "text": "In which languages are LU-Alert messages sent?",
     "options": [
+     "German, English and French",
      "Only Luxembourgish",
      "Only French",
-     "English and Luxembourgish",
-     "German, English and French"
+     "English and Luxembourgish"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "Warning and information messages are issued in German, English and French, so English speakers are covered."
    },
    {
     "text": "When are sirens used in the LU-Alert system?",
     "options": [
      "For every weather warning",
-     "Only in the event of a nuclear alert",
      "Every day at noon as a test",
+     "Only in the event of a nuclear alert",
      "Whenever the mobile network is down"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Today the sirens are used only for a nuclear alert. All other warnings reach you through phones (Cell Broadcast and SMS), the app, websites and the media."
    },
    {
@@ -949,10 +949,10 @@ const EPISODES = [
     "options": [
      "Reply to the SMS with your details to confirm your identity",
      "Click the link in the message to verify it",
-     "Remember that the authorities never ask for personal data, and check whether the alert is listed on lu-alert.lu",
-     "Call the number shown and give your bank details"
+     "Call the number shown and give your bank details",
+     "Remember that the authorities never ask for personal data, and check whether the alert is listed on lu-alert.lu"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Public authorities never ask for personal data, and messages normally contain no clickable link. If you are unsure, verify the alert on lu-alert.lu – and never share personal data."
    }
   ],
@@ -3035,45 +3035,45 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que LU-Alert ?",
     "options": [
+     "Le système national d'alerte et d'information de la population du Luxembourg, lancé à l'automne 2024",
      "Une application météo privée à laquelle on s'abonne",
      "Un compte de réseau social géré par la police",
-     "Le système national d'alerte et d'information de la population du Luxembourg, lancé à l'automne 2024",
      "Un régime d'assurance contre les catastrophes naturelles"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "« LU-Alert » combine « LU » (le code pays du Luxembourg) et « Alert ». C'est le système national d'alerte et d'information de la population, déployé à l'automne 2024 pour avertir les gens des événements dangereux."
    },
    {
     "text": "Faut-il s'inscrire pour recevoir les alertes par Cell Broadcast ou par SMS géolocalisé ?",
     "options": [
-     "Non – il n'y a pas d'inscription ; tout téléphone présent dans la zone ciblée est atteint automatiquement",
      "Oui, vous devez enregistrer votre numéro sur lu-alert.lu",
+     "Non – il n'y a pas d'inscription ; tout téléphone présent dans la zone ciblée est atteint automatiquement",
      "Oui, mais seuls les frontaliers doivent s'inscrire",
      "Non, mais seulement si vous payez une petite cotisation annuelle"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Pour le Cell Broadcast et le SMS géolocalisé, vous ne vous inscrivez pas – et vous ne pouvez pas vraiment vous y soustraire. Si votre téléphone est dans la zone quand les autorités envoient un message, il est ciblé automatiquement. (Pour l'application mobile, il suffit de la télécharger.)"
    },
    {
     "text": "Dans quelles langues les messages LU-Alert sont-ils envoyés ?",
     "options": [
+     "En allemand, en anglais et en français",
      "Uniquement en luxembourgeois",
      "Uniquement en français",
-     "En anglais et en luxembourgeois",
-     "En allemand, en anglais et en français"
+     "En anglais et en luxembourgeois"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "Les messages d'alerte et d'information sont émis en allemand, en anglais et en français, donc les francophones sont couverts."
    },
    {
     "text": "Quand les sirènes sont-elles utilisées dans le système LU-Alert ?",
     "options": [
      "Pour chaque alerte météo",
-     "Uniquement en cas d'alerte nucléaire",
      "Tous les jours à midi, en test",
+     "Uniquement en cas d'alerte nucléaire",
      "Chaque fois que le réseau mobile est en panne"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Aujourd'hui, les sirènes ne sont utilisées que pour une alerte nucléaire. Toutes les autres alertes vous atteignent par téléphone (Cell Broadcast et SMS), l'application, les sites internet et les médias."
    },
    {
@@ -3081,10 +3081,10 @@ const EPISODES = [
     "options": [
      "Répondre au SMS avec vos coordonnées pour confirmer votre identité",
      "Cliquer sur le lien dans le message pour le vérifier",
-     "Retenir que les autorités ne demandent jamais de données personnelles, et vérifier si l'alerte figure sur lu-alert.lu",
-     "Appeler le numéro affiché et donner vos coordonnées bancaires"
+     "Appeler le numéro affiché et donner vos coordonnées bancaires",
+     "Retenir que les autorités ne demandent jamais de données personnelles, et vérifier si l'alerte figure sur lu-alert.lu"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Les autorités publiques ne demandent jamais de données personnelles, et les messages ne contiennent normalement pas de lien cliquable. En cas de doute, vérifiez l'alerte sur lu-alert.lu – et ne partagez jamais de données personnelles."
    }
   ],
@@ -3106,45 +3106,45 @@ const EPISODES = [
    {
     "text": "Was ist LU-Alert?",
     "options": [
+     "Luxemburgs nationales Warn- und Informationssystem für die Bevölkerung, gestartet im Herbst 2024",
      "Eine private Wetter-App, die man abonniert",
      "Ein Social-Media-Konto der Polizei",
-     "Luxemburgs nationales Warn- und Informationssystem für die Bevölkerung, gestartet im Herbst 2024",
      "Eine Versicherung für Naturkatastrophen"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "„LU-Alert“ verbindet „LU“ (den Ländercode für Luxemburg) und „Alert“. Es ist das nationale Warn- und Informationssystem für die Bevölkerung, eingeführt im Herbst 2024, um Menschen vor gefährlichen Ereignissen zu warnen."
    },
    {
     "text": "Müssen Sie sich anmelden, um Warnungen per Cell Broadcast oder standortbasierter SMS zu erhalten?",
     "options": [
-     "Nein – es gibt keine Registrierung; jedes Telefon im Zielgebiet wird automatisch erreicht",
      "Ja, Sie müssen Ihre Nummer auf lu-alert.lu registrieren",
+     "Nein – es gibt keine Registrierung; jedes Telefon im Zielgebiet wird automatisch erreicht",
      "Ja, aber nur Grenzgänger müssen sich registrieren",
      "Nein, aber nur, wenn Sie eine kleine Jahresgebühr zahlen"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Für Cell Broadcast und standortbasierte SMS melden Sie sich nicht an – und können sich auch nicht wirklich abmelden. Wenn Ihr Telefon im Gebiet ist, wenn die Behörden eine Nachricht senden, wird es automatisch erreicht. (Die mobile App laden Sie einfach herunter.)"
    },
    {
     "text": "In welchen Sprachen werden die LU-Alert-Nachrichten gesendet?",
     "options": [
+     "Deutsch, Englisch und Französisch",
      "Nur Luxemburgisch",
      "Nur Französisch",
-     "Englisch und Luxemburgisch",
-     "Deutsch, Englisch und Französisch"
+     "Englisch und Luxemburgisch"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "Warn- und Informationsnachrichten werden auf Deutsch, Englisch und Französisch herausgegeben, sodass auch Deutschsprachige abgedeckt sind."
    },
    {
     "text": "Wann werden im LU-Alert-System Sirenen eingesetzt?",
     "options": [
      "Bei jeder Wetterwarnung",
-     "Nur im Fall eines Nuklearalarms",
      "Jeden Tag um zwölf Uhr als Test",
+     "Nur im Fall eines Nuklearalarms",
      "Immer, wenn das Mobilfunknetz ausfällt"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Heute werden die Sirenen nur bei einem Nuklearalarm eingesetzt. Alle anderen Warnungen erreichen Sie über das Telefon (Cell Broadcast und SMS), die App, Websites und die Medien."
    },
    {
@@ -3152,10 +3152,10 @@ const EPISODES = [
     "options": [
      "Auf die SMS mit Ihren Daten antworten, um Ihre Identität zu bestätigen",
      "Auf den Link in der Nachricht klicken, um sie zu überprüfen",
-     "Daran denken, dass die Behörden nie nach persönlichen Daten fragen, und prüfen, ob die Warnung auf lu-alert.lu aufgeführt ist",
-     "Die angezeigte Nummer anrufen und Ihre Bankdaten angeben"
+     "Die angezeigte Nummer anrufen und Ihre Bankdaten angeben",
+     "Daran denken, dass die Behörden nie nach persönlichen Daten fragen, und prüfen, ob die Warnung auf lu-alert.lu aufgeführt ist"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Öffentliche Behörden fragen nie nach persönlichen Daten, und die Nachrichten enthalten normalerweise keinen anklickbaren Link. Wenn Sie unsicher sind, überprüfen Sie die Warnung auf lu-alert.lu – und geben Sie niemals persönliche Daten weiter."
    }
   ],
@@ -3179,45 +3179,45 @@ const EPISODES = [
    {
     "text": "Wat ass LU-Alert?",
     "options": [
+     "Den nationale Warn- an Informatiounssystem vu Lëtzebuerg fir d'Bevëlkerung, lancéiert am Hierscht 2024",
      "Eng privat Wieder-App, déi Dir abonnéiert",
      "E Social-Media-Kont vun der Police",
-     "Den nationale Warn- an Informatiounssystem vu Lëtzebuerg fir d'Bevëlkerung, lancéiert am Hierscht 2024",
      "Eng Versécherung fir Naturkatastrophen"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "\"LU-Alert\" kombinéiert \"LU\" (de Landescode vu Lëtzebuerg) an \"Alert\". Et ass den nationale Warn- an Informatiounssystem fir d'Bevëlkerung, agefouert am Hierscht 2024, fir d'Leit viru geféierlechen Evenementer ze warnen."
    },
    {
     "text": "Musst Dir Iech aschreiwen, fir Alarmer iwwer Cell Broadcast oder lokalisatiounsbaséiert SMS ze kréien?",
     "options": [
-     "Nee – et gëtt keng Aschreiwung; all Handy an der betraffener Zon gëtt automatesch erreecht",
      "Jo, Dir musst Är Nummer op lu-alert.lu registréieren",
+     "Nee – et gëtt keng Aschreiwung; all Handy an der betraffener Zon gëtt automatesch erreecht",
      "Jo, mä nëmmen d'Grenzgänger musse sech registréieren",
      "Nee, mä nëmme wann Dir eng kleng jäerlech Tax bezuelt"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Fir Cell Broadcast a lokalisatiounsbaséiert SMS schreift Dir Iech net an – an Dir kënnt Iech och net wierklech ofmellen. Wann Ären Handy an der Zon ass, wann d'Autoritéiten e Message schécken, gëtt en automatesch erreecht. (D'App luet Dir einfach erof.)"
    },
    {
     "text": "A wéi enge Sprooche ginn d'LU-Alert-Messagen verschéckt?",
     "options": [
+     "Op Däitsch, Englesch a Franséisch",
      "Nëmmen op Lëtzebuergesch",
      "Nëmmen op Franséisch",
-     "Op Englesch a Lëtzebuergesch",
-     "Op Däitsch, Englesch a Franséisch"
+     "Op Englesch a Lëtzebuergesch"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "D'Warn- an Informatiounsmessagen ginn op Däitsch, Englesch a Franséisch erausginn, sou datt och engleschsproocheg Leit ofgedeckt sinn."
    },
    {
     "text": "Wéini ginn d'Sirenen am LU-Alert-System benotzt?",
     "options": [
      "Bei all Wiederwarnung",
-     "Nëmme bei engem Nuklearalarm",
      "All Dag um Mëtteg als Test",
+     "Nëmme bei engem Nuklearalarm",
      "Ëmmer wann den Handysnetz ausfält"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Haut ginn d'Sirenen nëmme bei engem Nuklearalarm benotzt. All aner Warnungen erreechen Iech iwwer den Handy (Cell Broadcast an SMS), d'App, d'Websäiten an d'Medien."
    },
    {
@@ -3225,10 +3225,10 @@ const EPISODES = [
     "options": [
      "Op d'SMS mat Ären Donnéeën äntweren, fir Är Identitéit ze confirméieren",
      "Op de Link am Message klicken, fir en ze verifiéieren",
-     "Drun denken, datt d'Autoritéiten ni no perséinlechen Donnéeë froen, a kucken, ob den Alarm op lu-alert.lu steet",
-     "Déi ugewisen Nummer uruffen an Är Bankdate ginn"
+     "Déi ugewisen Nummer uruffen an Är Bankdate ginn",
+     "Drun denken, datt d'Autoritéiten ni no perséinlechen Donnéeë froen, a kucken, ob den Alarm op lu-alert.lu steet"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Déi ëffentlech Autoritéite froen ni no perséinlechen Donnéeën, an d'Messagen enthalen normalerweis kee klickbare Link. Wann Dir net sécher sidd, iwwerpréift den Alarm op lu-alert.lu – an deelt ni perséinlech Donnéeën."
    }
   ]

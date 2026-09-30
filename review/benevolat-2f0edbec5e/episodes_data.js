@@ -835,34 +835,34 @@ const EPISODES = [
    {
     "text": "What is the central organisation and website for volunteering in Luxembourg?",
     "options": [
+     "The Agence du Bénévolat, with its website benevolat.lu",
      "The commune’s town hall only",
      "The ADEM, on adem.lu",
-     "The Agence du Bénévolat, with its website benevolat.lu",
      "The Ministry of Finance"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The Agence du Bénévolat promotes volunteering since 2002. Its website benevolat.lu is a meeting point where associations looking for help and people who want to give time find each other."
    },
    {
     "text": "Do you need a long-term commitment to volunteer?",
     "options": [
      "Only full weekends for a whole year",
+     "No – you give the time you want, and many missions are one-time or short (an afternoon, a day, an event)",
      "Yes, at least one year",
-     "Yes, at least three months",
-     "No – you give the time you want, and many missions are one-time or short (an afternoon, a day, an event)"
+     "Yes, at least three months"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "You do not need a long commitment. Many missions on benevolat.lu are for a single event or a single day – helping at a gala, marshalling a race, manning a barbecue – so anyone with a busy life can take part."
    },
    {
     "text": "What simple method does the episode suggest for getting started as a volunteer?",
     "options": [
      "Sign a one-year contract with an association first",
-     "Think about what you enjoy, register for free on benevolat.lu, and offer your help for a mission you like",
      "Wait until an organisation contacts you by post",
-     "Apply for a paid position at the Agence du Bénévolat"
+     "Apply for a paid position at the Agence du Bénévolat",
+     "Think about what you enjoy, register for free on benevolat.lu, and offer your help for a mission you like"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The Agence du Bénévolat suggests: first think about what cause, activity and time suit you; then register for free on benevolat.lu; then browse the missions and offer your help. The organisation then contacts you."
    }
   ],
@@ -2717,34 +2717,34 @@ const EPISODES = [
    {
     "text": "Quels sont l'organisation centrale et le site internet du bénévolat au Luxembourg ?",
     "options": [
+     "L'Agence du Bénévolat, avec son site benevolat.lu",
      "Uniquement la mairie de la commune",
      "L'ADEM, sur adem.lu",
-     "L'Agence du Bénévolat, avec son site benevolat.lu",
      "Le ministère des Finances"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "L'Agence du Bénévolat promeut le bénévolat depuis 2002. Son site benevolat.lu est un point de rencontre où les associations qui cherchent de l'aide et les personnes qui veulent donner du temps se trouvent."
    },
    {
     "text": "Faut-il un engagement à long terme pour faire du bénévolat ?",
     "options": [
      "Uniquement des week-ends complets pendant toute une année",
+     "Non – vous donnez le temps que vous voulez, et beaucoup de missions sont ponctuelles ou courtes (un après-midi, une journée, un événement)",
      "Oui, au moins un an",
-     "Oui, au moins trois mois",
-     "Non – vous donnez le temps que vous voulez, et beaucoup de missions sont ponctuelles ou courtes (un après-midi, une journée, un événement)"
+     "Oui, au moins trois mois"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Vous n'avez pas besoin d'un engagement long. Beaucoup de missions sur benevolat.lu concernent un seul événement ou une seule journée – aider à un gala, être signaleur pour une course, tenir un barbecue – donc toute personne avec une vie bien remplie peut participer."
    },
    {
     "text": "Quelle méthode simple l'épisode propose-t-il pour commencer le bénévolat ?",
     "options": [
      "Signer d'abord un contrat d'un an avec une association",
-     "Réfléchir à ce que vous aimez, vous inscrire gratuitement sur benevolat.lu, et proposer votre aide pour une mission qui vous plaît",
      "Attendre qu'une organisation vous contacte par courrier",
-     "Postuler à un emploi rémunéré à l'Agence du Bénévolat"
+     "Postuler à un emploi rémunéré à l'Agence du Bénévolat",
+     "Réfléchir à ce que vous aimez, vous inscrire gratuitement sur benevolat.lu, et proposer votre aide pour une mission qui vous plaît"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "L'Agence du Bénévolat suggère : d'abord réfléchir à la cause, l'activité et le temps qui vous conviennent ; ensuite vous inscrire gratuitement sur benevolat.lu ; puis parcourir les missions et proposer votre aide. L'organisation vous contacte ensuite."
    }
   ],
@@ -2788,34 +2788,34 @@ const EPISODES = [
    {
     "text": "Was ist die zentrale Organisation und Website für Freiwilligenarbeit in Luxemburg?",
     "options": [
+     "Die Agence du Bénévolat, mit ihrer Website benevolat.lu",
      "Nur das Rathaus der Gemeinde",
      "Die ADEM, auf adem.lu",
-     "Die Agence du Bénévolat, mit ihrer Website benevolat.lu",
      "Das Finanzministerium"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Die Agence du Bénévolat fördert die Freiwilligenarbeit seit 2002. Ihre Website benevolat.lu ist ein Treffpunkt, an dem Vereine, die Hilfe suchen, und Menschen, die Zeit geben möchten, zueinanderfinden."
    },
    {
     "text": "Brauchen Sie eine langfristige Verpflichtung, um sich freiwillig zu engagieren?",
     "options": [
      "Nur ganze Wochenenden, ein ganzes Jahr lang",
+     "Nein – Sie geben die Zeit, die Sie möchten, und viele Einsätze sind einmalig oder kurz (ein Nachmittag, ein Tag, eine Veranstaltung)",
      "Ja, mindestens ein Jahr",
-     "Ja, mindestens drei Monate",
-     "Nein – Sie geben die Zeit, die Sie möchten, und viele Einsätze sind einmalig oder kurz (ein Nachmittag, ein Tag, eine Veranstaltung)"
+     "Ja, mindestens drei Monate"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Sie brauchen keine langfristige Verpflichtung. Viele Einsätze auf benevolat.lu gelten für eine einzige Veranstaltung oder einen einzigen Tag – bei einer Gala helfen, Streckenposten bei einem Rennen sein, den Grill übernehmen – so kann jeder mit einem vollen Alltag mitmachen."
    },
    {
     "text": "Welche einfache Methode schlägt die Folge vor, um als Freiwilliger anzufangen?",
     "options": [
      "Zuerst einen Einjahresvertrag mit einem Verein unterschreiben",
-     "Überlegen, was Ihnen Freude macht, sich kostenlos auf benevolat.lu registrieren, und Ihre Hilfe für einen Einsatz anbieten, der Ihnen gefällt",
      "Warten, bis eine Organisation Sie per Post kontaktiert",
-     "Sich auf eine bezahlte Stelle bei der Agence du Bénévolat bewerben"
+     "Sich auf eine bezahlte Stelle bei der Agence du Bénévolat bewerben",
+     "Überlegen, was Ihnen Freude macht, sich kostenlos auf benevolat.lu registrieren, und Ihre Hilfe für einen Einsatz anbieten, der Ihnen gefällt"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Die Agence du Bénévolat schlägt vor: Überlegen Sie zuerst, welche Sache, Aktivität und Zeit zu Ihnen passen; registrieren Sie sich dann kostenlos auf benevolat.lu; schauen Sie die Einsätze durch und bieten Sie Ihre Hilfe an. Die Organisation meldet sich dann bei Ihnen."
    }
   ],
@@ -2860,34 +2860,34 @@ const EPISODES = [
    {
     "text": "Wat ass déi zentral Organisatioun a Websäit fir de Benevolat zu Lëtzebuerg?",
     "options": [
+     "D'Agence du Bénévolat, mat hirer Websäit benevolat.lu",
      "Nëmmen d'Gemengenhaus vun der Gemeng",
      "D'ADEM, op adem.lu",
-     "D'Agence du Bénévolat, mat hirer Websäit benevolat.lu",
      "De Finanzministère"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "D'Agence du Bénévolat promouvéiert de Benevolat zanter 2002. Hir Websäit benevolat.lu ass eng Treffplaz, wou Associatiounen, déi Hëllef sichen, a Leit, déi Zäit gi wëllen, sech fannen."
    },
    {
     "text": "Braucht Dir e laangfristegt Engagement, fir Benevolat ze maachen?",
     "options": [
      "Nëmme ganz Weekender, e ganzt Joer laang",
+     "Nee – Dir gitt d'Zäit, déi Dir wëllt, a vill Missioune sinn eemoleg oder kuerz (een Nomëtteg, een Dag, een Evenement)",
      "Jo, op d'mannst ee Joer",
-     "Jo, op d'mannst dräi Méint",
-     "Nee – Dir gitt d'Zäit, déi Dir wëllt, a vill Missioune sinn eemoleg oder kuerz (een Nomëtteg, een Dag, een Evenement)"
+     "Jo, op d'mannst dräi Méint"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Dir braucht kee laangt Engagement. Vill Missiounen op benevolat.lu si fir een eenzegt Evenement oder een eenzegen Dag – bei engem Gala hëllefen, Commissaire bei engem Rennen sinn, de Grill bedéngen – sou datt jiddereen mat engem voller Alldag ka matmaachen."
    },
    {
     "text": "Wéi eng einfach Method proposéiert d'Episod, fir als Benevole unzefänken?",
     "options": [
      "Fir d'éischt e Kontrakt vun engem Joer mat enger Associatioun ënnerschreiwen",
-     "Iwwerleeën, wat Iech Freed mécht, Iech gratis op benevolat.lu umellen, an Är Hëllef fir eng Missioun ubidden, déi Iech gefält",
      "Waarden, bis eng Organisatioun Iech mat der Post kontaktéiert",
-     "Iech op eng bezuelte Plaz bei der Agence du Bénévolat mellen"
+     "Iech op eng bezuelte Plaz bei der Agence du Bénévolat mellen",
+     "Iwwerleeën, wat Iech Freed mécht, Iech gratis op benevolat.lu umellen, an Är Hëllef fir eng Missioun ubidden, déi Iech gefält"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "D'Agence du Bénévolat proposéiert: iwwerleet fir d'éischt, wéi eng Saach, wéi eng Aktivitéit a wéi vill Zäit zu Iech passen; mellt Iech dann gratis op benevolat.lu un; kuckt duerch d'Missiounen a bitt Är Hëllef un. D'Organisatioun kontaktéiert Iech dann."
    }
   ]
