@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "Your Health, Online – The Dossier de Soins Partagé and How the CNS Pays You Back",
   "description": "Two practical things that touch everybody. First, the Dossier de Soins Partagé — your free, secure online shared health file, run by the Agence eSanté, where you control who can see it, with the MyDSP mobile app. Second, how reimbursement works with the national health insurance, the CNS: paying first and getting most of it back, third-party payment at the pharmacy and the hospital, the social third-party payment for people in difficulty, and how to activate your eSanté account through MyGuichet.lu.",
   "audio": "../../podcast_dsp_cns.mp3",
-  "duration": 588.98,
+  "duration": 543.05,
   "topics": [
    "Dossier de Soins Partagé (DSP)",
    "Agence eSanté",
@@ -26,707 +26,717 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "It's really nice to have you with us today.",
-    "t": 2.54
+    "t": 1.49
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.58
+    "t": 3.72
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt.",
-    "t": 7.62
+    "t": 4.88
    },
    {
     "speaker": "Anna",
     "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
-    "t": 10.84
+    "t": 7.39
    },
    {
     "speaker": "Anna",
     "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
-    "t": 20.63
+    "t": 17.24
    },
    {
     "speaker": "Anna",
-    "text": "So that they can connect, exchange ideas and feel at home.",
-    "t": 29.98
-   },
-   {
-    "speaker": "Anna",
-    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 34.25
-   },
-   {
-    "speaker": "Anna",
-    "text": "And the activities are free of charge.",
-    "t": 40.8
-   },
-   {
-    "speaker": "Anna",
-    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 43.86
-   },
-   {
-    "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 49.44
-   },
-   {
-    "speaker": "Tom",
     "text": "And today's topic is about two things that touch everybody — your health, and your money.",
-    "t": 51.36
+    "t": 27.83
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "First, your online health file, the Dossier de Soins Partagé.",
-    "t": 56.41
+    "t": 33.82
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And second, how you get your money back from the health insurance, the CNS.",
-    "t": 60.96
+    "t": 37.95
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Two very practical things.",
-    "t": 66
+    "t": 42.5
    },
    {
-    "speaker": "Anna",
-    "text": "Okay, Tom — let's start with the health file.",
-    "t": 68.73
+    "speaker": "Tom",
+    "text": "Okay, Anna — let's start with the health file.",
+    "t": 44.36
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "What is the Dossier de Soins Partagé?",
-    "t": 72.37
+    "t": 47.19
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The DSP is a free, personal, and secure electronic health file.",
-    "t": 75.41
+    "t": 49.28
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It brings together your important health information in one place — your treatments, your test results, your medical reports, your allergies, and so on.",
-    "t": 80.23
+    "t": 54.44
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "And who creates it?",
-    "t": 88.74
+    "t": 63.54
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's the official national system, run by the Agence eSanté — the public agency for digital health in Luxembourg.",
-    "t": 90.89
+    "t": 64.84
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The information is added by the health professionals who treat you — your doctor, the hospital, the laboratory.",
-    "t": 97.88
+    "t": 72.41
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So why is this useful?",
-    "t": 104.39
+    "t": 79.38
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "My doctor already knows my history.",
-    "t": 106.83
+    "t": 80.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Your doctor does — but other people who treat you may not.",
-    "t": 109.89
+    "t": 82.73
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Imagine you go to the hospital at night, and your own doctor is not there.",
-    "t": 113.78
+    "t": 86.21
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "With the DSP, the doctor on duty can see your essential information.",
-    "t": 118.55
+    "t": 90.67
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Your allergies, your current medication... That can be very important, even life-saving.",
-    "t": 123.46
+    "t": 95.03
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And it avoids repeating the same exam twice, because the result is already there.",
-    "t": 130.3
+    "t": 100.98
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ah, that's the key idea.",
-    "t": 135.63
+    "t": 105.67
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "All the people caring for me can see the same file.",
-    "t": 138.38
+    "t": 107.34
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Exactly.",
-    "t": 142.02
+    "t": 110.13
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The whole point is better coordination — continuity and safety of care.",
-    "t": 143.95
+    "t": 111.11
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Everyone treating you works from the same, complete picture.",
-    "t": 148.73
+    "t": 116.03
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Now... health data is very private.",
-    "t": 152.86
+    "t": 119.42
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Is it safe?",
-    "t": 156.16
+    "t": 121.46
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Very good question, and the answer is yes.",
-    "t": 158.07
+    "t": 122.53
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The data is encrypted, and it's kept in a kind of digital safe located here in Luxembourg.",
-    "t": 161.54
+    "t": 125.09
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And the most important point — you are in control.",
-    "t": 167.24
+    "t": 131.17
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "In control how?",
-    "t": 170.91
+    "t": 135.17
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's you, the patient, who decides who can look at your DSP.",
-    "t": 172.95
+    "t": 136.38
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You give access, and you can take it away.",
-    "t": 177.5
+    "t": 140.88
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You can see who consulted your file.",
-    "t": 180.89
+    "t": 143.53
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You can even hide certain documents if you want.",
-    "t": 184.02
+    "t": 145.85
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "So it's your file, and you hold the keys.",
-    "t": 187.71
+    "t": 148.55
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "I like that.",
-    "t": 191.04
+    "t": 150.87
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "It's mine, and I decide.",
-    "t": 193.04
+    "t": 151.61
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So how do I actually open a DSP?",
-    "t": 195.74
+    "t": 153.52
    },
    {
-    "speaker": "Tom",
-    "text": "Every person affiliated to the Luxembourg health insurance can have one.",
-    "t": 198.92
+    "speaker": "Anna",
+    "text": "Good news — you don't need to open it.",
+    "t": 155.89
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
+    "text": "If you're affiliated to the Luxembourg health insurance, your DSP is created automatically.",
+    "t": 158.44
+   },
+   {
+    "speaker": "Anna",
     "text": "To use it yourself online, you activate your \"eSanté account\".",
-    "t": 203.69
-   },
-   {
-    "speaker": "Tom",
-    "text": "And here's good news: you can activate it directly through MyGuichet.lu.",
-    "t": 208.11
+    "t": 164.43
    },
    {
     "speaker": "Anna",
+    "text": "And you can do that directly through MyGuichet.lu.",
+    "t": 168.24
+   },
+   {
+    "speaker": "Tom",
     "text": "That's great.",
-    "t": 213.08
+    "t": 172
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "And once it's active, how do I look at it?",
-    "t": 215.04
+    "t": 172.98
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You log in to your DSP online, through the eSanté portal.",
-    "t": 218.32
+    "t": 175.16
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And there's also a mobile app — it's called MyDSP — so you can check your health file from your phone.",
-    "t": 222.76
+    "t": 178.83
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Very practical.",
-    "t": 228.62
+    "t": 185.15
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So, to sum up the first half — the DSP is my free, secure, online health file, run by the Agence eSanté, it helps all my carers work together, I control who sees it, and I activate it through MyGuichet.",
-    "t": 230.73
+    "t": 186.59
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Perfect summary.",
-    "t": 244.28
+    "t": 200.29
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Okay.",
-    "t": 246.5
+    "t": 201.59
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Now the second topic — money.",
-    "t": 248.12
+    "t": 202.19
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "The CNS.",
-    "t": 250.98
-   },
-   {
-    "speaker": "Anna",
-    "text": "Tom, first... what is the CNS?",
-    "t": 253
+    "t": 203.77
    },
    {
     "speaker": "Tom",
+    "text": "Anna, first... what is the CNS?",
+    "t": 204.84
+   },
+   {
+    "speaker": "Anna",
     "text": "CNS stands for Caisse Nationale de Santé — the National Health Fund.",
-    "t": 256.4
+    "t": 206.93
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's the main public health insurance in Luxembourg.",
-    "t": 261.26
+    "t": 211.72
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "If you work or live here and are affiliated, you're covered — cross-border workers too.",
-    "t": 265.01
+    "t": 214.55
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You get a social security card with your matricule, the thirteen-digit number, and you show it at the doctor or the pharmacy.",
-    "t": 270.48
+    "t": 219.89
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Good.",
-    "t": 278.01
+    "t": 227.42
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Now, the part that confuses a lot of newcomers.",
-    "t": 279.54
+    "t": 228.07
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "When I go to the doctor here... do I pay, or not?",
-    "t": 283.44
+    "t": 231.13
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Right, this is the important part.",
-    "t": 287.42
-   },
-   {
-    "speaker": "Tom",
-    "text": "The Luxembourg system traditionally works by reimbursement.",
-    "t": 290.48
-   },
-   {
-    "speaker": "Tom",
-    "text": "That means — for a normal visit to the doctor, you pay first, and then the CNS pays you back most of it.",
-    "t": 294.83
+    "t": 234.15
    },
    {
     "speaker": "Anna",
-    "text": "So I pay the full price at the doctor, and then get money back later.",
-    "t": 301.12
+    "text": "Traditionally, you pay the doctor first, and then the CNS pays you back most of it.",
+    "t": 236.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "But today, about half of doctors use \"immediate direct payment\".",
+    "t": 241.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Then you only pay your own small share, and the CNS pays the doctor the rest straight away.",
+    "t": 245.9
    },
    {
     "speaker": "Tom",
+    "text": "So either I pay the full price and get money back later — or, with direct payment, I only pay my share.",
+    "t": 251.11
+   },
+   {
+    "speaker": "Anna",
     "text": "Exactly.",
-    "t": 305.78
+    "t": 257.33
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The CNS reimburses a large part of the cost — for most care it's around eighty to one hundred percent.",
-    "t": 307.71
+    "t": 258.3
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "So you carry a small part yourself, and the rest comes back to you.",
-    "t": 314.08
+    "t": 264.95
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "And how do I get that money back?",
-    "t": 318.64
+    "t": 268.62
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "What do I do with the bill?",
-    "t": 321.25
+    "t": 270.33
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Simple.",
-    "t": 323.61
+    "t": 271.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The doctor gives you an invoice — a paper bill — and you pay it.",
-    "t": 325.34
+    "t": 272.89
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Then you send that original, paid invoice to the CNS.",
-    "t": 329.46
+    "t": 276.61
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You can send it by post, or drop it in one of their boxes.",
-    "t": 333.55
+    "t": 280.55
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
+    "text": "And if your doctor gives you a digital invoice, you can send it with a few clicks — in the CNS app, the GesondheetsApp, or on MyGuichet.lu.",
+    "t": 284.22
+   },
+   {
+    "speaker": "Anna",
     "text": "The CNS then pays the reimbursement straight into your bank account.",
-    "t": 337.81
+    "t": 294.77
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Into my bank account directly.",
-    "t": 342.34
+    "t": 298.76
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "How long does it take?",
-    "t": 345.09
+    "t": 300.71
    },
    {
-    "speaker": "Tom",
-    "text": "Usually less than three weeks.",
-    "t": 347.4
+    "speaker": "Anna",
+    "text": "For a paper bill, usually two to four weeks.",
+    "t": 302.01
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
+    "text": "With a digital bill, it can be just a few days.",
+    "t": 304.8
+   },
+   {
+    "speaker": "Anna",
     "text": "And you get a written statement explaining what was reimbursed.",
-    "t": 350.2
+    "t": 307.96
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "So — tip for our listeners — give the CNS your bank account number, your IBAN, so they can pay you directly.",
-    "t": 354.44
+    "t": 311.58
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Good tips.",
-    "t": 360.84
+    "t": 319.01
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "But wait — paying the full amount first... for a big bill, that could be hard for some people.",
-    "t": 362.65
+    "t": 320.03
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "True.",
-    "t": 368.83
+    "t": 325
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And that's why the system has exceptions, where you do NOT pay everything first.",
-    "t": 370.4
+    "t": 325.89
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The most common one — medicines.",
-    "t": 375.33
+    "t": 330.35
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "At the pharmacy?",
-    "t": 378.17
+    "t": 332.81
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Yes.",
-    "t": 380.15
+    "t": 334.11
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "At the pharmacy, you usually don't pay the full price.",
-    "t": 381.81
+    "t": 334.67
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You show your social security card and your prescription, and you only pay your own small share.",
-    "t": 385.94
+    "t": 337.59
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The pharmacy settles the rest directly with the CNS.",
-    "t": 391.78
+    "t": 343.49
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "That's called third-party payment.",
-    "t": 395.82
+    "t": 347.02
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So for medicine, I only pay my little part.",
-    "t": 398.62
+    "t": 349.21
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "The CNS handles the rest behind the scenes.",
-    "t": 402.21
+    "t": 351.81
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Exactly.",
-    "t": 405.81
+    "t": 354.36
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And it's the same idea for a normal hospital stay.",
-    "t": 407.74
+    "t": 355.29
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The hospital bills the CNS directly for the care.",
-    "t": 411.6
+    "t": 358.36
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You mainly pay a small daily contribution, and your personal extras.",
-    "t": 415.62
+    "t": 362.03
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "That makes it much easier.",
-    "t": 420.33
+    "t": 366.11
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So... medicines and hospital — I pay only my share.",
-    "t": 422.81
-   },
-   {
-    "speaker": "Anna",
-    "text": "The normal doctor visit — I pay first and get reimbursed.",
-    "t": 427.14
+    "t": 367.6
    },
    {
     "speaker": "Tom",
+    "text": "The normal doctor visit — I pay first and get reimbursed, unless my doctor uses direct payment.",
+    "t": 371.36
+   },
+   {
+    "speaker": "Anna",
     "text": "That's a good way to remember it.",
-    "t": 431.43
+    "t": 376.61
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And there's one more thing that's really important for people with low income.",
-    "t": 434.2
+    "t": 378.61
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Tell me.",
-    "t": 438.75
+    "t": 382.37
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's called the social third-party payment.",
-    "t": 440.42
+    "t": 383.25
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "If someone is in a difficult financial situation, this system means they don't have to pay the medical costs up front at all.",
-    "t": 443.72
+    "t": 385.95
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The CNS covers the eligible care directly, so money is not a barrier to seeing a doctor.",
-    "t": 450.92
+    "t": 393.43
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "That's really important.",
-    "t": 457.05
+    "t": 399.33
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So nobody should avoid the doctor just because they can't pay first.",
-    "t": 459.36
-   },
-   {
-    "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 463.89
-   },
-   {
-    "speaker": "Tom",
-    "text": "If that's your situation, you can ask about the social third-party payment — often through your doctor or the social office.",
-    "t": 465.82
+    "t": 400.72
    },
    {
     "speaker": "Anna",
+    "text": "Exactly.",
+    "t": 404.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "If that's your situation, you can ask for the social third-party payment at the social office — the office social — of your municipality.",
+    "t": 405.04
+   },
+   {
+    "speaker": "Tom",
     "text": "Wonderful.",
-    "t": 472.84
+    "t": 414
    },
    {
-    "speaker": "Anna",
-    "text": "Okay, Tom — let's bring it together.",
-    "t": 474.68
+    "speaker": "Tom",
+    "text": "Okay, Anna — let's bring it together.",
+    "t": 414.98
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "A short summary of everything?",
-    "t": 478.07
+    "t": 416.98
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sure.",
-    "t": 480.62
+    "t": 418.6
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Part one — the DSP is your free, secure, online health file.",
-    "t": 482.26
+    "t": 419.25
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It helps everyone who treats you work from the same information, you control who can see it, and you activate it easily through MyGuichet.lu — or check it on the MyDSP app.",
-    "t": 486.99
+    "t": 424.36
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "And part two?",
-    "t": 496.44
+    "t": 435.37
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Part two — the CNS, the national health insurance.",
-    "t": 498.34
+    "t": 436.53
    },
    {
-    "speaker": "Tom",
-    "text": "For a normal doctor visit, you pay first and the CNS reimburses most of it into your bank account, in about three weeks.",
-    "t": 502.43
+    "speaker": "Anna",
+    "text": "For a normal doctor visit, either your doctor uses immediate direct payment and you only pay your share — or you pay first, and the CNS reimburses most of it into your bank account, within a few weeks, or a few days for a digital bill.",
+    "t": 440.57
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "For medicines and hospital, you usually pay only your small share.",
-    "t": 509.91
+    "t": 455.02
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And if money is tight, the social third-party payment means you don't pay up front.",
-    "t": 514.58
+    "t": 459.2
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So the message is — get your health file active, keep your invoices, give the CNS your bank details, and don't be afraid to ask for help if you need it.",
-    "t": 519.73
-   },
-   {
-    "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 528.92
-   },
-   {
-    "speaker": "Tom",
-    "text": "A little bit of admin now... saves you a lot of worry later.",
-    "t": 530.85
+    "t": 464.07
    },
    {
     "speaker": "Anna",
+    "text": "Exactly.",
+    "t": 473.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "A little bit of admin now... saves you a lot of worry later.",
+    "t": 474.34
+   },
+   {
+    "speaker": "Tom",
     "text": "And where can people learn more?",
-    "t": 534.98
+    "t": 478.29
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "For the health file, the website is esante.lu.",
-    "t": 537.51
+    "t": 480.05
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "For the insurance and reimbursements, it's cns.lu.",
-    "t": 541.58
+    "t": 483.91
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And the procedures are explained on Guichet.lu, in English too.",
-    "t": 546.11
+    "t": 487.58
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about your online health file and the CNS.",
-    "t": 550.92
+    "t": 491.8
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 555.3
+    "t": 496.08
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 564.03
+    "t": 505.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 524.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 530.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 533.32
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 581
+    "t": 537.97
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 583.38
+    "t": 539.18
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 586.35
+    "t": 541.27
    }
   ],
   "questions": [
@@ -795,707 +805,717 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
-    "t": 2.27
+    "t": 1.26
    },
    {
     "speaker": "Tom",
     "text": "Bonjour à tous !",
-    "t": 6.22
+    "t": 4
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 8.33
+    "t": 5.11
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil des réfugiés.",
-    "t": 11.77
+    "t": 7.02
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 21.34
+    "t": 15.33
    },
    {
     "speaker": "Anna",
-    "text": "Pour qu'ils puissent créer des liens, échanger des idées et se sentir chez eux.",
-    "t": 30.27
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 35.02
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et les activités sont gratuites.",
-    "t": 41.29
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 44.06
-   },
-   {
-    "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 49.21
-   },
-   {
-    "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui concerne deux choses qui touchent tout le monde — votre santé, et votre argent.",
-    "t": 51.05
+    "t": 23.41
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "D'abord, votre dossier de santé en ligne, le Dossier de Soins Partagé.",
-    "t": 56.72
+    "t": 28.34
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et ensuite, comment vous récupérez votre argent auprès de l'assurance maladie, la CNS.",
-    "t": 61.78
+    "t": 31.77
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Deux choses très pratiques.",
-    "t": 67.64
+    "t": 36.51
    },
    {
-    "speaker": "Anna",
-    "text": "Bon, Tom — commençons par le dossier de santé.",
-    "t": 70.04
+    "speaker": "Tom",
+    "text": "Bon, Anna — commençons par le dossier de santé.",
+    "t": 38.09
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Qu'est-ce que le Dossier de Soins Partagé ?",
-    "t": 73.7
+    "t": 41.06
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Le DSP est un dossier de santé électronique gratuit, personnel et sécurisé.",
-    "t": 76.52
+    "t": 43.15
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il rassemble vos informations de santé importantes en un seul endroit — vos traitements, vos résultats d'analyses, vos rapports médicaux, vos allergies, et ainsi de suite.",
-    "t": 81.76
+    "t": 48.08
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Et qui le crée ?",
-    "t": 91.34
+    "t": 56.44
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est le système national officiel, géré par l'Agence eSanté — l'agence publique pour la santé numérique au Luxembourg.",
-    "t": 93.24
+    "t": 57.6
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Les informations sont ajoutées par les professionnels de santé qui vous soignent — votre médecin, l'hôpital, le laboratoire.",
-    "t": 100.31
+    "t": 63.27
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Alors, pourquoi c'est utile ?",
-    "t": 107.59
+    "t": 69.58
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Mon médecin connaît déjà mon historique.",
-    "t": 110.32
+    "t": 71.53
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Votre médecin, oui — mais les autres personnes qui vous soignent, peut-être pas.",
-    "t": 113.45
+    "t": 73.62
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Imaginez que vous alliez à l'hôpital la nuit, et que votre propre médecin ne soit pas là.",
-    "t": 118.49
+    "t": 77.94
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Avec le DSP, le médecin de garde peut voir vos informations essentielles.",
-    "t": 123.71
+    "t": 82.03
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vos allergies, vos médicaments actuels... Ça peut être très important, même vital.",
-    "t": 128.71
+    "t": 86.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et ça évite de refaire deux fois le même examen, parce que le résultat est déjà là.",
-    "t": 135.39
+    "t": 91.32
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ah, c'est l'idée clé.",
-    "t": 140.5
+    "t": 95.08
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Toutes les personnes qui s'occupent de moi peuvent voir le même dossier.",
-    "t": 142.83
+    "t": 96.48
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Exactement.",
-    "t": 146.82
+    "t": 99.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Tout l'intérêt, c'est une meilleure coordination — la continuité et la sécurité des soins.",
-    "t": 148.66
+    "t": 100.8
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Tous ceux qui vous soignent travaillent à partir de la même image complète.",
-    "t": 154.02
+    "t": 105.26
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Maintenant... les données de santé, c'est très privé.",
-    "t": 158.15
+    "t": 108.46
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Est-ce que c'est sûr ?",
-    "t": 162.12
+    "t": 111.53
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Très bonne question, et la réponse est oui.",
-    "t": 164.18
+    "t": 112.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Les données sont chiffrées, et elles sont conservées dans une sorte de coffre-fort numérique situé ici, au Luxembourg.",
-    "t": 167.31
+    "t": 115.29
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et le point le plus important — c'est vous qui contrôlez.",
-    "t": 174.15
+    "t": 121.33
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Je contrôle comment ?",
-    "t": 177.57
+    "t": 124.16
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est vous, le patient, qui décidez qui peut consulter votre DSP.",
-    "t": 179.79
+    "t": 125.42
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous donnez l'accès, et vous pouvez le retirer.",
-    "t": 184.68
+    "t": 129.55
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous pouvez voir qui a consulté votre dossier.",
-    "t": 188.03
+    "t": 132.48
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous pouvez même masquer certains documents si vous le souhaitez.",
-    "t": 191.34
+    "t": 134.94
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Donc c'est votre dossier, et c'est vous qui avez les clés.",
-    "t": 195.11
+    "t": 138.79
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "J'aime bien.",
-    "t": 198.82
+    "t": 141.49
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "C'est à moi, et c'est moi qui décide.",
-    "t": 200.64
+    "t": 142.42
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Alors comment j'ouvre concrètement un DSP ?",
-    "t": 203.85
+    "t": 144.6
    },
    {
-    "speaker": "Tom",
-    "text": "Toute personne affiliée à l'assurance maladie luxembourgeoise peut en avoir un.",
-    "t": 207.25
+    "speaker": "Anna",
+    "text": "Bonne nouvelle — vous n'avez pas besoin de l'ouvrir.",
+    "t": 147.2
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
+    "text": "Si vous êtes affilié à l'assurance maladie luxembourgeoise, votre DSP est créé automatiquement.",
+    "t": 151.06
+   },
+   {
+    "speaker": "Anna",
     "text": "Pour l'utiliser vous-même en ligne, vous activez votre « compte eSanté ».",
-    "t": 211.78
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et voici une bonne nouvelle : vous pouvez l'activer directement via MyGuichet.lu.",
-    "t": 216.31
+    "t": 156.26
    },
    {
     "speaker": "Anna",
+    "text": "Et vous pouvez le faire directement via MyGuichet.lu.",
+    "t": 160.25
+   },
+   {
+    "speaker": "Tom",
     "text": "C'est super.",
-    "t": 221.39
+    "t": 163.27
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Et une fois qu'il est actif, comment je le consulte ?",
-    "t": 223.32
+    "t": 164.39
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous vous connectez à votre DSP en ligne, via le portail eSanté.",
-    "t": 227.01
+    "t": 166.8
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et il y a aussi une application mobile — elle s'appelle MyDSP — pour consulter votre dossier de santé depuis votre téléphone.",
-    "t": 231.47
+    "t": 170.57
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Très pratique.",
-    "t": 238.38
+    "t": 176.97
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Alors, pour résumer la première moitié — le DSP est mon dossier de santé en ligne, gratuit et sécurisé, géré par l'Agence eSanté, il aide tous mes soignants à travailler ensemble, je contrôle qui le voit, et je l'active via MyGuichet.",
-    "t": 240.29
+    "t": 178.14
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Résumé parfait.",
-    "t": 254.35
+    "t": 191.23
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Bon.",
-    "t": 256.39
+    "t": 192.53
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Maintenant le deuxième sujet — l'argent.",
-    "t": 257.81
+    "t": 193.09
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "La CNS.",
-    "t": 260.81
-   },
-   {
-    "speaker": "Anna",
-    "text": "Tom, d'abord... qu'est-ce que la CNS ?",
-    "t": 262.8
+    "t": 195.32
    },
    {
     "speaker": "Tom",
+    "text": "Anna, d'abord... qu'est-ce que la CNS ?",
+    "t": 196.81
+   },
+   {
+    "speaker": "Anna",
     "text": "CNS veut dire Caisse Nationale de Santé.",
-    "t": 266.26
+    "t": 199.36
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est la principale assurance maladie publique au Luxembourg.",
-    "t": 269.51
+    "t": 201.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Si vous travaillez ou vivez ici et que vous êtes affilié, vous êtes couvert — les frontaliers aussi.",
-    "t": 273.57
+    "t": 204.8
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous recevez une carte de sécurité sociale avec votre matricule, le numéro à treize chiffres, et vous la présentez chez le médecin ou à la pharmacie.",
-    "t": 279.05
+    "t": 210.46
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Bien.",
-    "t": 287.32
+    "t": 218.27
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Maintenant, la partie qui déroute beaucoup de nouveaux arrivants.",
-    "t": 288.82
+    "t": 218.92
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Quand je vais chez le médecin ici... je paie, ou pas ?",
-    "t": 293
+    "t": 221.84
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Voilà, c'est la partie importante.",
-    "t": 296.71
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le système luxembourgeois fonctionne traditionnellement par remboursement.",
-    "t": 299.81
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ça veut dire — pour une visite normale chez le médecin, vous payez d'abord, et ensuite la CNS vous rembourse la plus grande partie.",
-    "t": 304.32
+    "t": 225.05
    },
    {
     "speaker": "Anna",
-    "text": "Donc je paie le prix complet chez le médecin, et je récupère l'argent plus tard.",
-    "t": 311.69
+    "text": "Traditionnellement, vous payez d'abord le médecin, et ensuite la CNS vous rembourse la plus grande partie.",
+    "t": 226.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais aujourd'hui, environ la moitié des médecins utilisent le « paiement immédiat direct ».",
+    "t": 231.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dans ce cas, vous ne payez que votre petite part, et la CNS paie le reste au médecin tout de suite.",
+    "t": 236.01
    },
    {
     "speaker": "Tom",
+    "text": "Donc soit je paie le prix complet et je récupère l'argent plus tard — soit, avec le paiement direct, je ne paie que ma part.",
+    "t": 241.12
+   },
+   {
+    "speaker": "Anna",
     "text": "Exactement.",
-    "t": 316.87
+    "t": 247.48
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "La CNS rembourse une grande partie du coût — pour la plupart des soins, c'est environ quatre-vingts à cent pour cent.",
-    "t": 318.71
+    "t": 248.41
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Donc vous supportez une petite partie vous-même, et le reste vous revient.",
-    "t": 325.06
+    "t": 253.94
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Et comment je récupère cet argent ?",
-    "t": 329.55
+    "t": 257.19
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Qu'est-ce que je fais de la facture ?",
-    "t": 332.41
+    "t": 259.05
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Simple.",
-    "t": 334.92
+    "t": 260.77
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Le médecin vous donne une facture — une facture papier — et vous la payez.",
-    "t": 336.56
+    "t": 261.88
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ensuite, vous envoyez cette facture originale, acquittée, à la CNS.",
-    "t": 340.75
+    "t": 266.16
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous pouvez l'envoyer par la poste, ou la déposer dans une de leurs boîtes.",
-    "t": 346.17
+    "t": 270.48
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
+    "text": "Et si votre médecin vous donne une facture digitale, vous pouvez l'envoyer en quelques clics — dans l'application de la CNS, la GesondheetsApp, ou sur MyGuichet.lu.",
+    "t": 273.73
+   },
+   {
+    "speaker": "Anna",
     "text": "La CNS verse ensuite le remboursement directement sur votre compte bancaire.",
-    "t": 350.64
+    "t": 283.44
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Directement sur mon compte bancaire.",
-    "t": 355.52
+    "t": 287.48
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Combien de temps ça prend ?",
-    "t": 358.56
+    "t": 289.38
    },
    {
-    "speaker": "Tom",
-    "text": "En général, moins de trois semaines.",
-    "t": 360.74
+    "speaker": "Anna",
+    "text": "Pour une facture papier, en général deux à quatre semaines.",
+    "t": 290.77
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
+    "text": "Avec une facture digitale, ça peut être quelques jours seulement.",
+    "t": 293.42
+   },
+   {
+    "speaker": "Anna",
     "text": "Et vous recevez un décompte écrit qui explique ce qui a été remboursé.",
-    "t": 363.84
+    "t": 296.16
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Donc — petit conseil pour nos auditeurs — donnez à la CNS votre numéro de compte bancaire, votre IBAN, pour qu'elle puisse vous payer directement.",
-    "t": 368.13
+    "t": 299.55
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Bons conseils.",
-    "t": 376.24
+    "t": 306.8
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Mais attendez — avancer le montant complet... pour une grosse facture, ça pourrait être difficile pour certaines personnes.",
-    "t": 378.25
+    "t": 307.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est vrai.",
-    "t": 385.54
+    "t": 314.23
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et c'est pourquoi le système a des exceptions, où vous ne payez PAS tout d'abord.",
-    "t": 387.22
+    "t": 315.44
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "La plus courante — les médicaments.",
-    "t": 392.04
+    "t": 320.08
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "À la pharmacie ?",
-    "t": 394.75
+    "t": 322.17
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Oui.",
-    "t": 396.79
+    "t": 323.38
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "À la pharmacie, vous ne payez généralement pas le prix complet.",
-    "t": 398.25
+    "t": 323.89
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous montrez votre carte de sécurité sociale et votre ordonnance, et vous ne payez que votre petite part.",
-    "t": 402.49
+    "t": 326.63
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "La pharmacie règle le reste directement avec la CNS.",
-    "t": 408.65
+    "t": 332.02
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est ce qu'on appelle le tiers payant.",
-    "t": 412.75
+    "t": 335.78
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc pour les médicaments, je ne paie que ma petite part.",
-    "t": 415.42
+    "t": 337.78
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "La CNS s'occupe du reste en coulisses.",
-    "t": 419.61
+    "t": 340.62
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Exactement.",
-    "t": 422.94
+    "t": 342.98
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et c'est la même idée pour un séjour normal à l'hôpital.",
-    "t": 424.78
+    "t": 343.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'hôpital facture les soins directement à la CNS.",
-    "t": 428.38
+    "t": 346.28
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vous payez surtout une petite contribution journalière, et vos extras personnels.",
-    "t": 432.24
+    "t": 349.35
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ça rend les choses beaucoup plus faciles.",
-    "t": 437.35
+    "t": 353.25
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc... les médicaments et l'hôpital — je ne paie que ma part.",
-    "t": 440.3
-   },
-   {
-    "speaker": "Anna",
-    "text": "La visite normale chez le médecin — je paie d'abord et je suis remboursée.",
-    "t": 444.81
+    "t": 355.34
    },
    {
     "speaker": "Tom",
+    "text": "La visite normale chez le médecin — je paie d'abord et je suis remboursé, sauf si mon médecin utilise le paiement direct.",
+    "t": 358.87
+   },
+   {
+    "speaker": "Anna",
     "text": "C'est une bonne façon de le retenir.",
-    "t": 449.56
+    "t": 364.86
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et il y a encore une chose vraiment importante pour les personnes à faible revenu.",
-    "t": 452.42
+    "t": 366.72
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Dites-moi.",
-    "t": 456.8
+    "t": 370.44
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ça s'appelle le tiers payant social.",
-    "t": 458.48
+    "t": 371.37
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Si quelqu'un est dans une situation financière difficile, ce système fait qu'il n'a pas du tout à avancer les frais médicaux.",
-    "t": 461.41
+    "t": 373.22
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "La CNS prend en charge directement les soins éligibles, pour que l'argent ne soit pas un obstacle pour voir un médecin.",
-    "t": 468.23
+    "t": 379.45
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "C'est vraiment important.",
-    "t": 474.87
+    "t": 385.02
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc personne ne devrait éviter le médecin simplement parce qu'il ne peut pas payer d'abord.",
-    "t": 477.14
-   },
-   {
-    "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 482.58
-   },
-   {
-    "speaker": "Tom",
-    "text": "Si c'est votre situation, vous pouvez vous renseigner sur le tiers payant social — souvent via votre médecin ou l'office social.",
-    "t": 484.42
+    "t": 386.42
    },
    {
     "speaker": "Anna",
+    "text": "Exactement.",
+    "t": 390.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si c'est votre situation, vous pouvez demander le tiers payant social à l'office social de votre commune.",
+    "t": 391.71
+   },
+   {
+    "speaker": "Tom",
     "text": "Formidable.",
-    "t": 491.46
+    "t": 396.59
    },
    {
-    "speaker": "Anna",
-    "text": "Bon, Tom — rassemblons tout ça.",
-    "t": 493.41
+    "speaker": "Tom",
+    "text": "Bon, Anna — rassemblons tout ça.",
+    "t": 397.7
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Un petit résumé de l'ensemble ?",
-    "t": 496.29
+    "t": 399.61
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Bien sûr.",
-    "t": 499.11
+    "t": 401.33
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Première partie — le DSP est votre dossier de santé en ligne, gratuit et sécurisé.",
-    "t": 500.91
+    "t": 402.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il aide tous ceux qui vous soignent à travailler avec les mêmes informations, vous contrôlez qui peut le voir, et vous l'activez facilement via MyGuichet.lu — ou vous le consultez sur l'application MyDSP.",
-    "t": 506.26
+    "t": 406.67
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Et la deuxième partie ?",
-    "t": 516.64
+    "t": 417.17
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Deuxième partie — la CNS, l'assurance maladie nationale.",
-    "t": 518.85
+    "t": 418.51
    },
    {
-    "speaker": "Tom",
-    "text": "Pour une visite normale chez le médecin, vous payez d'abord et la CNS vous rembourse la plus grande partie sur votre compte bancaire, en environ trois semaines.",
-    "t": 523.43
+    "speaker": "Anna",
+    "text": "Pour une visite normale chez le médecin, soit votre médecin utilise le paiement immédiat direct et vous ne payez que votre part — soit vous payez d'abord, et la CNS vous rembourse la plus grande partie sur votre compte bancaire, en quelques semaines, ou en quelques jours pour une facture digitale.",
+    "t": 422.51
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Pour les médicaments et l'hôpital, vous ne payez généralement que votre petite part.",
-    "t": 531.78
+    "t": 436.21
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et si l'argent est un problème, le tiers payant social fait que vous n'avancez pas les frais.",
-    "t": 536.8
+    "t": 440.53
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc le message est — activez votre dossier de santé, gardez vos factures, donnez vos coordonnées bancaires à la CNS, et n'ayez pas peur de demander de l'aide si vous en avez besoin.",
-    "t": 541.93
-   },
-   {
-    "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 552.79
-   },
-   {
-    "speaker": "Tom",
-    "text": "Un peu d'administratif maintenant... vous épargne beaucoup de soucis plus tard.",
-    "t": 554.63
+    "t": 444.85
    },
    {
     "speaker": "Anna",
+    "text": "Exactement.",
+    "t": 454.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un peu d'administratif maintenant... vous épargne beaucoup de soucis plus tard.",
+    "t": 455.58
+   },
+   {
+    "speaker": "Tom",
     "text": "Et où peut-on en savoir plus ?",
-    "t": 559.45
+    "t": 459.29
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Pour le dossier de santé, le site est esante.lu.",
-    "t": 562
+    "t": 460.92
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Pour l'assurance et les remboursements, c'est cns.lu.",
-    "t": 565.82
+    "t": 464.03
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et les démarches sont expliquées sur Guichet.lu, en plusieurs langues.",
-    "t": 569.79
+    "t": 467.23
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur votre dossier de santé en ligne et la CNS.",
-    "t": 574.28
+    "t": 471
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 579.1
+    "t": 474.85
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 588.87
+    "t": 483.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 499.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 504.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 505.97
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 606.42
+    "t": 510.24
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 608.58
+    "t": 511.36
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 611.55
+    "t": 513.73
    }
   ],
   "segments_de": [
@@ -1507,707 +1527,717 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
-    "t": 2.98
+    "t": 1.91
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.89
+    "t": 4.65
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 8.95
+    "t": 5.9
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Aufnahme von Geflüchteten.",
-    "t": 12.61
+    "t": 8.41
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 23.65
+    "t": 18.77
    },
    {
     "speaker": "Anna",
-    "text": "Damit sie sich vernetzen, Ideen austauschen und sich zu Hause fühlen können.",
-    "t": 34.25
-   },
-   {
-    "speaker": "Anna",
-    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 39.8
-   },
-   {
-    "speaker": "Anna",
-    "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 46.71
-   },
-   {
-    "speaker": "Anna",
-    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 49.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "Genau.",
-    "t": 55.55
-   },
-   {
-    "speaker": "Tom",
     "text": "Und das heutige Thema betrifft zwei Dinge, die jeden angehen — Ihre Gesundheit, und Ihr Geld.",
-    "t": 57.12
+    "t": 28.2
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Erstens Ihre Online-Gesundheitsakte, das Dossier de Soins Partagé.",
-    "t": 63.32
+    "t": 34.84
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und zweitens, wie Sie Ihr Geld von der Krankenkasse zurückbekommen, der CNS.",
-    "t": 68.36
+    "t": 40.37
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Zwei sehr praktische Dinge.",
-    "t": 74.02
+    "t": 45.38
    },
    {
-    "speaker": "Anna",
-    "text": "Okay, Tom — fangen wir mit der Gesundheitsakte an.",
-    "t": 76.66
+    "speaker": "Tom",
+    "text": "Okay, Anna — fangen wir mit der Gesundheitsakte an.",
+    "t": 47.24
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Was ist das Dossier de Soins Partagé?",
-    "t": 80.75
+    "t": 50.96
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das DSP ist eine kostenlose, persönliche und sichere elektronische Gesundheitsakte.",
-    "t": 84.03
+    "t": 53.28
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie bringt Ihre wichtigen Gesundheitsinformationen an einem Ort zusammen — Ihre Behandlungen, Ihre Untersuchungsergebnisse, Ihre Arztberichte, Ihre Allergien, und so weiter.",
-    "t": 90.18
+    "t": 59.08
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Und wer erstellt sie?",
-    "t": 101.14
+    "t": 70.51
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es ist das offizielle nationale System, betrieben von der Agence eSanté — der öffentlichen Agentur für digitale Gesundheit in Luxemburg.",
-    "t": 103.35
+    "t": 71.95
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die Informationen werden von den Gesundheitsfachleuten eingetragen, die Sie behandeln — Ihr Arzt, das Krankenhaus, das Labor.",
-    "t": 112.04
+    "t": 81.19
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Warum ist das nützlich?",
-    "t": 120.48
+    "t": 89.23
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Mein Arzt kennt meine Krankengeschichte doch schon.",
-    "t": 122.99
+    "t": 90.95
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ihr Arzt schon — aber andere, die Sie behandeln, vielleicht nicht.",
-    "t": 126.61
+    "t": 93.73
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Stellen Sie sich vor, Sie kommen nachts ins Krankenhaus, und Ihr eigener Arzt ist nicht da.",
-    "t": 131.29
+    "t": 98.66
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Mit dem DSP kann der diensthabende Arzt Ihre wichtigsten Informationen sehen.",
-    "t": 137.22
+    "t": 103.9
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ihre Allergien, Ihre aktuellen Medikamente... Das kann sehr wichtig sein, sogar lebensrettend.",
-    "t": 142.59
+    "t": 108.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und es vermeidet, dieselbe Untersuchung zweimal zu machen, weil das Ergebnis schon da ist.",
-    "t": 149.84
+    "t": 115.52
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ah, das ist die Kernidee.",
-    "t": 155.79
+    "t": 120.49
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Alle, die mich versorgen, sehen dieselbe Akte.",
-    "t": 158.56
+    "t": 122.3
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genau.",
-    "t": 162.67
+    "t": 124.81
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Der ganze Sinn ist eine bessere Koordination — Kontinuität und Sicherheit der Versorgung.",
-    "t": 164.24
+    "t": 125.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Alle, die Sie behandeln, arbeiten mit demselben, vollständigen Bild.",
-    "t": 170.11
+    "t": 131.96
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Nun... Gesundheitsdaten sind sehr privat.",
-    "t": 175.28
+    "t": 136
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ist das sicher?",
-    "t": 179.79
+    "t": 138.93
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sehr gute Frage, und die Antwort ist ja.",
-    "t": 181.74
+    "t": 140.04
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die Daten sind verschlüsselt, und sie werden in einer Art digitalem Tresor aufbewahrt, hier in Luxemburg.",
-    "t": 185.27
+    "t": 142.92
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und der wichtigste Punkt — Sie haben die Kontrolle.",
-    "t": 192
+    "t": 149.1
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Die Kontrolle — wie?",
-    "t": 195.55
+    "t": 152.3
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie, der Patient, entscheiden, wer in Ihr DSP schauen darf.",
-    "t": 197.68
+    "t": 153.93
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie geben den Zugang, und Sie können ihn wieder entziehen.",
-    "t": 202.7
+    "t": 158.3
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie können sehen, wer Ihre Akte eingesehen hat.",
-    "t": 206.74
+    "t": 162.06
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie können sogar bestimmte Dokumente verbergen, wenn Sie möchten.",
-    "t": 210.54
+    "t": 165.08
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es ist also Ihre Akte, und Sie halten die Schlüssel in der Hand.",
-    "t": 214.93
+    "t": 168.7
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Das gefällt mir.",
-    "t": 219.28
+    "t": 172.09
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Sie gehört mir, und ich entscheide.",
-    "t": 221.39
+    "t": 173.35
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Wie eröffne ich denn nun konkret ein DSP?",
-    "t": 224.68
-   },
-   {
-    "speaker": "Tom",
-    "text": "Jede Person, die bei der luxemburgischen Krankenversicherung angemeldet ist, kann eines haben.",
-    "t": 228.41
-   },
-   {
-    "speaker": "Tom",
-    "text": "Um es selbst online zu nutzen, aktivieren Sie Ihr „eSanté-Konto\".",
-    "t": 234.6
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und hier die gute Nachricht: Sie können es direkt über MyGuichet.lu aktivieren.",
-    "t": 239.29
+    "t": 175.71
    },
    {
     "speaker": "Anna",
+    "text": "Gute Nachricht — Sie müssen es nicht eröffnen.",
+    "t": 178.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie bei der luxemburgischen Krankenversicherung angemeldet sind, wird Ihr DSP automatisch angelegt.",
+    "t": 181.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Um es selbst online zu nutzen, aktivieren Sie Ihr „eSanté-Konto“.",
+    "t": 188.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und das können Sie direkt über MyGuichet.lu machen.",
+    "t": 192.85
+   },
+   {
+    "speaker": "Tom",
     "text": "Das ist super.",
-    "t": 244.64
+    "t": 196.48
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Und wenn es aktiv ist, wie schaue ich hinein?",
-    "t": 246.7
+    "t": 197.78
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie melden sich online bei Ihrem DSP an, über das eSanté-Portal.",
-    "t": 250.45
+    "t": 200.33
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und es gibt auch eine mobile App — sie heißt MyDSP — damit Sie Ihre Gesundheitsakte vom Telefon aus prüfen können.",
-    "t": 255.45
+    "t": 204.88
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Sehr praktisch.",
-    "t": 262.87
+    "t": 212.18
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also, um die erste Hälfte zusammenzufassen — das DSP ist meine kostenlose, sichere Online-Gesundheitsakte, betrieben von der Agence eSanté, sie hilft allen, die mich versorgen, zusammenzuarbeiten, ich kontrolliere, wer sie sieht, und ich aktiviere sie über MyGuichet.",
-    "t": 264.93
+    "t": 213.29
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Perfekte Zusammenfassung.",
-    "t": 283.35
+    "t": 231.22
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Okay.",
-    "t": 285.88
+    "t": 232.98
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Jetzt das zweite Thema — Geld.",
-    "t": 287.45
+    "t": 233.77
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Die CNS.",
-    "t": 290.43
-   },
-   {
-    "speaker": "Anna",
-    "text": "Tom, zuerst... was ist die CNS?",
-    "t": 292.51
+    "t": 235.96
    },
    {
     "speaker": "Tom",
+    "text": "Anna, zuerst... was ist die CNS?",
+    "t": 237.91
+   },
+   {
+    "speaker": "Anna",
     "text": "CNS steht für Caisse Nationale de Santé — die Nationale Gesundheitskasse.",
-    "t": 296.42
+    "t": 240.65
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie ist die wichtigste öffentliche Krankenversicherung in Luxemburg.",
-    "t": 301.82
+    "t": 246.22
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Wenn Sie hier arbeiten oder leben und angemeldet sind, sind Sie versichert — Grenzgänger auch.",
-    "t": 306.15
+    "t": 250.36
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie bekommen eine Sozialversicherungskarte mit Ihrem Matricule, der dreizehnstelligen Nummer, und Sie zeigen sie beim Arzt oder in der Apotheke vor.",
-    "t": 312.23
+    "t": 256.16
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Gut.",
-    "t": 321.45
+    "t": 264.34
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Jetzt der Teil, der viele Neuankömmlinge verwirrt.",
-    "t": 322.98
+    "t": 265.08
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Wenn ich hier zum Arzt gehe... zahle ich, oder nicht?",
-    "t": 327.18
+    "t": 268.38
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Richtig, das ist der wichtige Teil.",
-    "t": 331.48
-   },
-   {
-    "speaker": "Tom",
-    "text": "Das luxemburgische System funktioniert traditionell über die Rückerstattung.",
-    "t": 334.66
-   },
-   {
-    "speaker": "Tom",
-    "text": "Das heißt — bei einem normalen Arztbesuch zahlen Sie zuerst, und dann zahlt die CNS Ihnen das meiste davon zurück.",
-    "t": 339.56
+    "t": 271.68
    },
    {
     "speaker": "Anna",
-    "text": "Ich zahle also beim Arzt den vollen Preis, und bekomme später Geld zurück.",
-    "t": 346.89
+    "text": "Traditionell zahlen Sie zuerst beim Arzt, und dann zahlt die CNS Ihnen das meiste davon zurück.",
+    "t": 274.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber heute nutzt etwa die Hälfte der Ärzte die „sofortige Direktzahlung“.",
+    "t": 280.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dann zahlen Sie nur Ihren eigenen kleinen Anteil, und die CNS zahlt dem Arzt den Rest sofort.",
+    "t": 285.42
    },
    {
     "speaker": "Tom",
+    "text": "Ich zahle also entweder den vollen Preis und bekomme später Geld zurück — oder, mit der Direktzahlung, nur meinen Anteil.",
+    "t": 291.23
+   },
+   {
+    "speaker": "Anna",
     "text": "Genau.",
-    "t": 352.27
+    "t": 298.34
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die CNS erstattet einen großen Teil der Kosten — bei den meisten Leistungen sind es etwa achtzig bis hundert Prozent.",
-    "t": 353.84
+    "t": 299.5
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie tragen also einen kleinen Teil selbst, und der Rest kommt zu Ihnen zurück.",
-    "t": 361.15
+    "t": 306.6
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Und wie bekomme ich das Geld zurück?",
-    "t": 366.19
+    "t": 310.78
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Was mache ich mit der Rechnung?",
-    "t": 369.03
+    "t": 312.69
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ganz einfach.",
-    "t": 371.67
+    "t": 314.41
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Der Arzt gibt Ihnen eine Rechnung — auf Papier — und Sie bezahlen sie.",
-    "t": 373.62
+    "t": 315.89
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Dann schicken Sie diese bezahlte Originalrechnung an die CNS.",
-    "t": 378.33
+    "t": 320.63
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie können sie per Post schicken, oder in einen ihrer Briefkästen werfen.",
-    "t": 382.93
+    "t": 324.72
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
+    "text": "Und wenn Ihr Arzt Ihnen eine digitale Rechnung gibt, können Sie sie mit ein paar Klicks einreichen — in der App der CNS, der GesondheetsApp, oder auf MyGuichet.lu.",
+    "t": 329.18
+   },
+   {
+    "speaker": "Anna",
     "text": "Die CNS überweist die Rückerstattung dann direkt auf Ihr Bankkonto.",
-    "t": 387.92
+    "t": 339.63
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Direkt auf mein Bankkonto.",
-    "t": 392.79
+    "t": 343.67
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Wie lange dauert das?",
-    "t": 395.43
+    "t": 345.34
    },
    {
-    "speaker": "Tom",
-    "text": "Normalerweise weniger als drei Wochen.",
-    "t": 397.74
+    "speaker": "Anna",
+    "text": "Bei einer Papierrechnung meist zwei bis vier Wochen.",
+    "t": 346.64
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
+    "text": "Bei einer digitalen Rechnung können es nur ein paar Tage sein.",
+    "t": 349.75
+   },
+   {
+    "speaker": "Anna",
     "text": "Und Sie bekommen eine schriftliche Abrechnung, die erklärt, was erstattet wurde.",
-    "t": 401
+    "t": 353.66
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Also — ein Tipp für unsere Hörer — geben Sie der CNS Ihre Bankkontonummer, Ihre IBAN, damit sie Sie direkt bezahlen kann.",
-    "t": 406.44
+    "t": 358.44
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Gute Tipps.",
-    "t": 414.86
+    "t": 367.26
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Aber warte — zuerst den vollen Betrag zahlen... bei einer großen Rechnung könnte das für manche Menschen schwierig sein.",
-    "t": 416.76
+    "t": 368.43
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Stimmt.",
-    "t": 424.07
+    "t": 375.07
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und deshalb hat das System Ausnahmen, bei denen Sie NICHT alles zuerst bezahlen.",
-    "t": 425.85
+    "t": 376.32
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die häufigste — Medikamente.",
-    "t": 431.24
+    "t": 380.87
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "In der Apotheke?",
-    "t": 433.91
+    "t": 383.34
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ja.",
-    "t": 436.17
+    "t": 384.64
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "In der Apotheke zahlen Sie normalerweise nicht den vollen Preis.",
-    "t": 437.65
+    "t": 385.52
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie zeigen Ihre Sozialversicherungskarte und Ihr Rezept vor, und Sie zahlen nur Ihren eigenen kleinen Anteil.",
-    "t": 442.03
+    "t": 389.14
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Den Rest rechnet die Apotheke direkt mit der CNS ab.",
-    "t": 449.2
+    "t": 396.06
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das nennt man Drittzahlersystem.",
-    "t": 453.33
+    "t": 399.87
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Bei Medikamenten zahle ich also nur meinen kleinen Teil.",
-    "t": 456.15
+    "t": 402.01
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Die CNS regelt den Rest im Hintergrund.",
-    "t": 460.41
+    "t": 405.63
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genau.",
-    "t": 464.23
+    "t": 408.65
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und dieselbe Idee gilt für einen normalen Krankenhausaufenthalt.",
-    "t": 465.81
+    "t": 409.77
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das Krankenhaus rechnet die Versorgung direkt mit der CNS ab.",
-    "t": 470.27
+    "t": 413.57
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie zahlen hauptsächlich einen kleinen Tagesbeitrag, und Ihre persönlichen Extras.",
-    "t": 474.69
+    "t": 417.75
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Das macht es viel einfacher.",
-    "t": 480.39
+    "t": 422.35
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also... Medikamente und Krankenhaus — ich zahle nur meinen Anteil.",
-    "t": 482.99
-   },
-   {
-    "speaker": "Anna",
-    "text": "Der normale Arztbesuch — ich zahle zuerst und werde erstattet.",
-    "t": 488.7
+    "t": 424.3
    },
    {
     "speaker": "Tom",
+    "text": "Der normale Arztbesuch — ich zahle zuerst und werde erstattet, außer mein Arzt nutzt die Direktzahlung.",
+    "t": 429.41
+   },
+   {
+    "speaker": "Anna",
     "text": "So kann man es sich gut merken.",
-    "t": 493.49
+    "t": 436.33
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und es gibt noch eine Sache, die für Menschen mit geringem Einkommen wirklich wichtig ist.",
-    "t": 496.22
+    "t": 438.15
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Erzähl.",
-    "t": 501.6
+    "t": 442.65
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es heißt das soziale Drittzahlersystem.",
-    "t": 503.19
+    "t": 443.63
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Wenn jemand in einer schwierigen finanziellen Lage ist, bedeutet dieses System, dass er die Arztkosten gar nicht vorstrecken muss.",
-    "t": 506.39
+    "t": 446.6
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die CNS übernimmt die berechtigten Leistungen direkt, damit Geld kein Hindernis ist, zum Arzt zu gehen.",
-    "t": 514.45
+    "t": 453.84
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Das ist wirklich wichtig.",
-    "t": 521.45
+    "t": 459.79
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Niemand sollte also den Arztbesuch vermeiden, nur weil er nicht zuerst zahlen kann.",
-    "t": 523.94
-   },
-   {
-    "speaker": "Tom",
-    "text": "Genau.",
-    "t": 529.78
-   },
-   {
-    "speaker": "Tom",
-    "text": "Wenn das Ihre Situation ist, können Sie nach dem sozialen Drittzahlersystem fragen — oft über Ihren Arzt oder das Sozialamt.",
-    "t": 531.35
+    "t": 461.28
    },
    {
     "speaker": "Anna",
+    "text": "Genau.",
+    "t": 466.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn das Ihre Situation ist, können Sie das soziale Drittzahlersystem beim Sozialamt — dem Office social — Ihrer Gemeinde beantragen.",
+    "t": 467.32
+   },
+   {
+    "speaker": "Tom",
     "text": "Wunderbar.",
-    "t": 539.57
+    "t": 475.81
    },
    {
-    "speaker": "Anna",
-    "text": "Okay, Tom — bringen wir alles zusammen.",
-    "t": 541.5
+    "speaker": "Tom",
+    "text": "Okay, Anna — bringen wir alles zusammen.",
+    "t": 476.88
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Eine kurze Zusammenfassung von allem?",
-    "t": 545.01
+    "t": 479.86
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Klar.",
-    "t": 548.31
+    "t": 482.09
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Teil eins — das DSP ist Ihre kostenlose, sichere Online-Gesundheitsakte.",
-    "t": 549.91
+    "t": 483.06
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie hilft allen, die Sie behandeln, mit denselben Informationen zu arbeiten, Sie kontrollieren, wer sie sehen darf, und Sie aktivieren sie ganz einfach über MyGuichet.lu — oder schauen mit der MyDSP-App hinein.",
-    "t": 555.64
+    "t": 489.15
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Und Teil zwei?",
-    "t": 568.48
+    "t": 502.94
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Teil zwei — die CNS, die nationale Krankenversicherung.",
-    "t": 570.5
+    "t": 504.19
    },
    {
-    "speaker": "Tom",
-    "text": "Beim normalen Arztbesuch zahlen Sie zuerst, und die CNS erstattet das meiste davon auf Ihr Bankkonto, in etwa drei Wochen.",
-    "t": 575.25
+    "speaker": "Anna",
+    "text": "Beim normalen Arztbesuch nutzt Ihr Arzt entweder die sofortige Direktzahlung, und Sie zahlen nur Ihren Anteil — oder Sie zahlen zuerst, und die CNS erstattet das meiste davon auf Ihr Bankkonto, innerhalb weniger Wochen, oder weniger Tage bei einer digitalen Rechnung.",
+    "t": 509.44
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Bei Medikamenten und im Krankenhaus zahlen Sie normalerweise nur Ihren kleinen Anteil.",
-    "t": 583.58
+    "t": 525.74
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und wenn das Geld knapp ist, bedeutet das soziale Drittzahlersystem, dass Sie nichts vorstrecken müssen.",
-    "t": 589.49
+    "t": 531.22
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Die Botschaft ist also — aktivieren Sie Ihre Gesundheitsakte, bewahren Sie Ihre Rechnungen auf, geben Sie der CNS Ihre Bankdaten, und haben Sie keine Angst, um Hilfe zu bitten, wenn Sie sie brauchen.",
-    "t": 596.06
-   },
-   {
-    "speaker": "Tom",
-    "text": "Genau.",
-    "t": 609.01
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ein bisschen Verwaltung jetzt... erspart Ihnen später viele Sorgen.",
-    "t": 610.59
+    "t": 537.08
    },
    {
     "speaker": "Anna",
+    "text": "Genau.",
+    "t": 548.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein bisschen Verwaltung jetzt... erspart Ihnen später viele Sorgen.",
+    "t": 549.38
+   },
+   {
+    "speaker": "Tom",
     "text": "Und wo können die Menschen mehr erfahren?",
-    "t": 615.25
+    "t": 553.29
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Für die Gesundheitsakte ist die Website esante.lu.",
-    "t": 618.54
+    "t": 555.47
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Für die Versicherung und die Rückerstattungen ist es cns.lu.",
-    "t": 622.38
+    "t": 559.42
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und die Verfahren werden auf Guichet.lu erklärt, auch auf Deutsch.",
-    "t": 626.93
+    "t": 564.06
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über Ihre Online-Gesundheitsakte und die CNS.",
-    "t": 631.52
+    "t": 568.57
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 636.96
+    "t": 573.35
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 647.67
+    "t": 582.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 600.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 607.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 609.53
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 665.98
+    "t": 614.41
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 668.02
+    "t": 615.85
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 671.73
+    "t": 619.01
    }
   ],
   "segments_lb": [
@@ -2219,278 +2249,268 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Moien alleguer!",
-    "t": 5.58
+    "t": 3.72
    },
    {
     "speaker": "Anna",
-    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren. Sou datt si sech kënne verbannen, Iddien austauschen a sech doheem fillen. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 7.62
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren. An dat haitegt Thema geet ëm zwou Saachen, déi jiddereen beréieren — Är Gesondheet, an Är Suen. Fir d'éischt, Ären Online-Gesondheetsdossier, den Dossier de Soins Partagé. An dann, wéi Dir Är Suen vun der Gesondheetskeess zeréckkritt, der CNS.",
+    "t": 4.88
    },
    {
     "speaker": "Tom",
-    "text": "Genee. An dat haitegt Thema geet ëm zwou Saachen, déi jiddereen beréieren — Är Gesondheet, an Är Suen. Fir d'éischt, Ären Online-Gesondheetsdossier, den Dossier de Soins Partagé. An dann, wéi Dir Är Suen vun der Gesondheetskeess zeréckkritt, der CNS.",
-    "t": 49.44
+    "text": "Zwou ganz praktesch Saachen. Okay, Anna — fänke mer mam Gesondheetsdossier un. Wat ass den Dossier de Soins Partagé?",
+    "t": 42.5
    },
    {
     "speaker": "Anna",
-    "text": "Zwou ganz praktesch Saachen. Okay, Tom — fänke mer mam Gesondheetsdossier un. Wat ass den Dossier de Soins Partagé?",
-    "t": 66
-   },
-   {
-    "speaker": "Tom",
     "text": "Den DSP ass e gratis, perséinlechen a sécheren elektronesche Gesondheetsdossier. E bréngt Är wichteg Gesondheetsinformatiounen op enger Plaz zesummen — Är Behandlungen, Är Testresultater, Är medezinesch Rapporten, Är Allergien, an esou weider.",
-    "t": 75.41
+    "t": 49.28
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "A wien erstellt en?",
-    "t": 88.74
+    "t": 63.54
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et ass den offiziellen nationale System, gefouert vun der Agence eSanté — der ëffentlecher Agence fir digital Gesondheet zu Lëtzebuerg. D'Informatioune ginn vun de Gesondheetsprofessioneller derbäigesat, déi Iech behandelen — Ärem Dokter, dem Spidol, dem Labo.",
-    "t": 90.89
+    "t": 64.84
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also firwat ass dat nëtzlech? Mäin Dokter kennt meng Geschicht jo schonn.",
-    "t": 104.39
+    "t": 79.38
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ären Dokter jo — mä aner Leit, déi Iech behandelen, vläicht net. Stellt Iech vir, Dir gitt nuets an d'Spidol, an Ären eegenen Dokter ass net do. Mam DSP kann den Dokter vu Garde Är wesentlech Informatioune gesinn. Är Allergien, Är aktuell Medikamenter... Dat ka ganz wichteg sinn, souguer liewensrettend. An et verhënnert, datt deeselwechten Examen zweemol gemaach gëtt, well d'Resultat schonn do ass.",
-    "t": 109.89
+    "t": 82.73
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ah, dat ass déi zentral Iddi. All d'Leit, déi sech ëm mech këmmeren, gesinn deeselwechten Dossier.",
-    "t": 135.63
+    "t": 105.67
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genee. Et geet ëm eng besser Koordinatioun — Kontinuitéit a Sécherheet vun de Soinen. Jiddereen, deen Iech behandelt, schafft mam selwechte, komplette Bild.",
-    "t": 142.02
+    "t": 110.13
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Elo... Gesondheetsdaten si ganz privat. Ass et sécher?",
-    "t": 152.86
+    "t": 119.42
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ganz gutt Fro, an d'Äntwert ass jo. D'Donnéeë si verschlësselt, a si leien an enger Zort digitalem Tresor hei zu Lëtzebuerg. An dee wichtegste Punkt — Dir hutt d'Kontroll.",
-    "t": 158.07
+    "t": 122.53
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "D'Kontroll, wéi dat?",
-    "t": 170.91
+    "t": 135.17
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et sidd Dir, de Patient, deen decidéiert, wien an Ären DSP kucke kann. Dir gitt den Zougang, an Dir kënnt en och erëm ewechhuelen. Dir kënnt gesinn, wien Ären Dossier consultéiert huet. Dir kënnt souguer verschidde Dokumenter verstoppen, wann Dir wëllt. Also ass et Ären Dossier, an Dir hutt d'Schlësselen an der Hand.",
-    "t": 172.95
+    "t": 136.38
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Dat gefält mer. En ass mäin, an ech decidéieren. Wéi maachen ech dann elo en DSP op?",
-    "t": 191.04
-   },
-   {
-    "speaker": "Tom",
-    "text": "All Persoun, déi bei der Lëtzebuerger Gesondheetskeess affiliéiert ass, kann een hunn. Fir en selwer online ze benotzen, aktivéiert Dir Ären \"eSanté-Kont\". An hei ass déi gutt Nouvelle: Dir kënnt en direkt iwwer MyGuichet.lu aktivéieren.",
-    "t": 198.92
+    "t": 150.87
    },
    {
     "speaker": "Anna",
+    "text": "Gutt Nouvelle — Dir musst en net opmaachen. Wann Dir bei der Lëtzebuerger Gesondheetskeess affiliéiert sidd, gëtt Ären DSP automatesch ugeluecht. Fir en selwer online ze benotzen, aktivéiert Dir Ären \"eSanté-Kont\". An dat kënnt Dir direkt iwwer MyGuichet.lu maachen.",
+    "t": 155.89
+   },
+   {
+    "speaker": "Tom",
     "text": "Dat ass super. A wann en aktiv ass, wéi kucken ech en?",
-    "t": 213.08
+    "t": 172
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Dir loggt Iech online an Ären DSP an, iwwer den eSanté-Portal. An et gëtt och eng mobil App — si heescht MyDSP — sou datt Dir Äre Gesondheetsdossier vum Handy aus kucke kënnt.",
-    "t": 218.32
+    "t": 175.16
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ganz praktesch. Also, fir déi éischt Hallschent zesummenzefaassen — den DSP ass mäi gratis, séchere Gesondheetsdossier online, gefouert vun der Agence eSanté, en hëlleft alle Leit, déi mech behandelen, zesummenzeschaffen, ech kontrolléieren, wien en gesäit, an ech aktivéieren en iwwer MyGuichet.",
-    "t": 228.62
+    "t": 185.15
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Eng perfekt Zesummefaassung.",
-    "t": 244.28
-   },
-   {
-    "speaker": "Anna",
-    "text": "Okay. Elo dat zweet Thema — d'Suen. D'CNS. Tom, fir d'éischt... wat ass d'CNS?",
-    "t": 246.5
+    "t": 200.29
    },
    {
     "speaker": "Tom",
+    "text": "Okay. Elo dat zweet Thema — d'Suen. D'CNS. Anna, fir d'éischt... wat ass d'CNS?",
+    "t": 201.59
+   },
+   {
+    "speaker": "Anna",
     "text": "CNS steet fir Caisse Nationale de Santé — d'national Gesondheetskeess. Et ass déi grouss ëffentlech Krankeversécherung zu Lëtzebuerg. Wann Dir hei schafft oder wunnt an affiliéiert sidd, sidd Dir couvréiert — d'Grenzgänger och. Dir kritt eng Sozialversécherungskaart mat Ärem Matricule, der Nummer mat den dräizéng Zifferen, an Dir weist se beim Dokter oder an der Apdikt.",
-    "t": 256.4
+    "t": 206.93
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Gutt. Elo deen Deel, deen vill nei Leit duercherneebréngt. Wann ech hei bei den Dokter ginn... bezuelen ech, oder net?",
-    "t": 278.01
-   },
-   {
-    "speaker": "Tom",
-    "text": "Genee, dat ass dee wichtegen Deel. De Lëtzebuerger System funktionéiert traditionell mam Remboursement. Dat heescht — bei enger normaler Visite beim Dokter bezuelt Dir fir d'éischt, an duerno bezilt d'CNS Iech dat meescht zeréck.",
-    "t": 287.42
+    "t": 227.42
    },
    {
     "speaker": "Anna",
-    "text": "Also bezuelen ech de vollen Präis beim Dokter, a kréien duerno Suen zeréck.",
-    "t": 301.12
+    "text": "Genee, dat ass dee wichtegen Deel. Traditionell bezuelt Dir fir d'éischt den Dokter, an duerno bezilt d'CNS Iech dat meescht zeréck. Mä haut benotzt ongeféier d'Hallschent vun den Dokteren den \"direkte Sofortpaiement\", de Paiement immédiat direct. Da bezuelt Dir just Ären eegene klengen Undeel, an d'CNS bezilt dem Dokter de Rescht direkt.",
+    "t": 234.15
    },
    {
     "speaker": "Tom",
+    "text": "Also entweder bezuelen ech de vollen Präis a kréie méi spéit Suen zeréck — oder, mam direkte Paiement, bezuelen ech just mäin Undeel.",
+    "t": 251.11
+   },
+   {
+    "speaker": "Anna",
     "text": "Genee. D'CNS rembourséiert e groussen Deel vun de Käschten — fir déi meescht Soinen sinn et ronn achtzeg bis honnert Prozent. Also drot Dir e klengen Deel selwer, an de Rescht kënnt bei Iech zeréck.",
-    "t": 305.78
+    "t": 257.33
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "A wéi kréien ech dës Suen zeréck? Wat maachen ech mat der Rechnung?",
-    "t": 318.64
-   },
-   {
-    "speaker": "Tom",
-    "text": "Einfach. Den Dokter gëtt Iech eng Faktur — eng Rechnung op Pabeier — an Dir bezuelt se. Da schéckt Dir déi original, bezuelte Faktur un d'CNS. Dir kënnt se mat der Post schécken, oder an eng vun hire Boîten deposéieren. D'CNS iwwerweist de Remboursement dann direkt op Äre Bankkont.",
-    "t": 323.61
+    "t": 268.62
    },
    {
     "speaker": "Anna",
+    "text": "Einfach. Den Dokter gëtt Iech eng Faktur — eng Rechnung op Pabeier — an Dir bezuelt se. Da schéckt Dir déi original, bezuelte Faktur un d'CNS. Dir kënnt se mat der Post schécken, oder an eng vun hire Boîten deposéieren. A wann Ären Dokter Iech eng digital Rechnung gëtt, kënnt Dir se mat e puer Klicken eraschécken — an der App vun der CNS, der GesondheetsApp, oder op MyGuichet.lu. D'CNS iwwerweist de Remboursement dann direkt op Äre Bankkont.",
+    "t": 271.87
+   },
+   {
+    "speaker": "Tom",
     "text": "Direkt op mäi Bankkont. Wéi laang dauert dat?",
-    "t": 342.34
-   },
-   {
-    "speaker": "Tom",
-    "text": "Normalerweis manner wéi dräi Wochen. An Dir kritt e schrëftlechen Décompte, deen erkläert, wat rembourséiert gouf. Also — en Tipp fir eis Nolauschterer — gitt der CNS Är Bankkontosnummer, Ären IBAN, sou datt si Iech direkt bezuele kënnen.",
-    "t": 347.4
+    "t": 298.76
    },
    {
     "speaker": "Anna",
+    "text": "Fir eng Rechnung op Pabeier normalerweis zwou bis véier Wochen. Mat enger digitaler Rechnung kënnen et just e puer Deeg sinn. An Dir kritt e schrëftlechen Décompte, deen erkläert, wat rembourséiert gouf. Also — en Tipp fir eis Nolauschterer — gitt der CNS Är Bankkontosnummer, Ären IBAN, sou datt si Iech direkt bezuele kënnen.",
+    "t": 302.01
+   },
+   {
+    "speaker": "Tom",
     "text": "Gutt Tippen. Mä waart — de ganze Betrag fir d'éischt bezuelen... bei enger grousser Rechnung kéint dat fir verschidde Leit schwéier sinn.",
-    "t": 360.84
+    "t": 319.01
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Richteg. An dofir huet de System Ausnamen, wou Dir NET alles fir d'éischt bezuelt. Déi heefegst — d'Medikamenter.",
-    "t": 368.83
+    "t": 325
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "An der Apdikt?",
-    "t": 378.17
+    "t": 332.81
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Jo. An der Apdikt bezuelt Dir normalerweis net de vollen Präis. Dir weist Är Sozialversécherungskaart an Är Ordonnance, an Dir bezuelt nëmmen Ären eegene klengen Undeel. D'Apdikt reegelt de Rescht direkt mat der CNS. Dat nennt een Tiers payant.",
-    "t": 380.15
+    "t": 334.11
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also fir Medikamenter bezuelen ech nëmme mäi klengen Deel. D'CNS reegelt de Rescht am Hannergrond.",
-    "t": 398.62
+    "t": 349.21
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genee. An et ass déiselwecht Iddi bei engem normale Spidolsopenthalt. D'Spidol facturéiert d'Soinen direkt un d'CNS. Dir bezuelt haaptsächlech eng kleng deeglech Participatioun, an Är perséinlech Extraen.",
-    "t": 405.81
-   },
-   {
-    "speaker": "Anna",
-    "text": "Dat mécht et vill méi einfach. Also... Medikamenter a Spidol — ech bezuelen nëmme mäin Undeel. Déi normal Visite beim Dokter — ech bezuele fir d'éischt a gi rembourséiert.",
-    "t": 420.33
+    "t": 354.36
    },
    {
     "speaker": "Tom",
+    "text": "Dat mécht et vill méi einfach. Also... Medikamenter a Spidol — ech bezuelen nëmme mäin Undeel. Déi normal Visite beim Dokter — ech bezuele fir d'éischt a gi rembourséiert, ausser mäin Dokter benotzt den direkte Paiement.",
+    "t": 366.11
+   },
+   {
+    "speaker": "Anna",
     "text": "Dat ass eng gutt Manéier, fir et sech ze mierken. An et gëtt nach eng Saach, déi wierklech wichteg ass fir Leit mat engem klengen Akommes.",
-    "t": 431.43
+    "t": 376.61
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Sot mer.",
-    "t": 438.75
+    "t": 382.37
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et heescht den Tiers payant social. Wann een an enger schwiereger finanzieller Situatioun ass, heescht dëse System, datt en d'medezinesch Käschten guer net am Viraus bezuele muss. D'CNS iwwerhëlt déi berechtegt Soinen direkt, sou datt d'Suen keng Barrière sinn, fir bei den Dokter ze goen.",
-    "t": 440.42
+    "t": 383.25
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Dat ass wierklech wichteg. Also soll keen den Dokter evitéieren, just well en net fir d'éischt bezuele kann.",
-    "t": 457.05
-   },
-   {
-    "speaker": "Tom",
-    "text": "Genee. Wann dat Är Situatioun ass, kënnt Dir nom Tiers payant social froen — dacks iwwer Ären Dokter oder den Office social.",
-    "t": 463.89
+    "t": 399.33
    },
    {
     "speaker": "Anna",
-    "text": "Wonnerbar. Okay, Tom — loosse mer alles zesummebréngen. Eng kuerz Zesummefaassung vun allem?",
-    "t": 472.84
+    "text": "Genee. Wann dat Är Situatioun ass, kënnt Dir den Tiers payant social beim Office social vun Ärer Gemeng ufroen.",
+    "t": 404.11
    },
    {
     "speaker": "Tom",
+    "text": "Wonnerbar. Okay, Anna — loosse mer alles zesummebréngen. Eng kuerz Zesummefaassung vun allem?",
+    "t": 414
+   },
+   {
+    "speaker": "Anna",
     "text": "Jo, gären. Deel eent — den DSP ass Äre gratis, séchere Gesondheetsdossier online. En hëlleft, datt jiddereen, deen Iech behandelt, mat deneselwechten Informatioune schafft, Dir kontrolléiert, wien en gesi kann, an Dir aktivéiert en einfach iwwer MyGuichet.lu — oder kuckt en an der MyDSP-App.",
-    "t": 480.62
+    "t": 418.6
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "An Deel zwee?",
-    "t": 496.44
-   },
-   {
-    "speaker": "Tom",
-    "text": "Deel zwee — d'CNS, déi national Krankeversécherung. Bei enger normaler Visite beim Dokter bezuelt Dir fir d'éischt, an d'CNS rembourséiert dat meescht dovun op Äre Bankkont, an ongeféier dräi Wochen. Fir Medikamenter an d'Spidol bezuelt Dir normalerweis nëmmen Äre klengen Undeel. A wann d'Suen knapp sinn, heescht den Tiers payant social, datt Dir net am Viraus bezuelt.",
-    "t": 498.34
+    "t": 435.37
    },
    {
     "speaker": "Anna",
+    "text": "Deel zwee — d'CNS, déi national Krankeversécherung. Bei enger normaler Visite beim Dokter benotzt Ären Dokter entweder den direkte Paiement, an Dir bezuelt just Ären Undeel — oder Dir bezuelt fir d'éischt, an d'CNS rembourséiert dat meescht dovun op Äre Bankkont, bannent e puer Wochen, oder e puer Deeg bei enger digitaler Rechnung. Fir Medikamenter an d'Spidol bezuelt Dir normalerweis nëmmen Äre klengen Undeel. A wann d'Suen knapp sinn, heescht den Tiers payant social, datt Dir net am Viraus bezuelt.",
+    "t": 436.53
+   },
+   {
+    "speaker": "Tom",
     "text": "Also de Message ass — aktivéiert Äre Gesondheetsdossier, behaalt Är Fakturen, gitt der CNS Är Bankdaten, an hutt keng Angscht, no Hëllef ze froen, wann Dir se braucht.",
-    "t": 519.73
+    "t": 464.07
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genee. E bësse Administratioun elo... spuert Iech vill Suerge méi spéit.",
-    "t": 528.92
-   },
-   {
-    "speaker": "Anna",
-    "text": "A wou kënnen d'Leit méi gewuer ginn?",
-    "t": 534.98
+    "t": 473.08
    },
    {
     "speaker": "Tom",
-    "text": "Fir de Gesondheetsdossier ass d'Websäit esante.lu. Fir d'Versécherung an d'Remboursementer ass et cns.lu. An d'Prozedure sinn op Guichet.lu erkläert, och op Englesch.",
-    "t": 537.51
+    "text": "A wou kënnen d'Leit méi gewuer ginn?",
+    "t": 478.29
    },
    {
     "speaker": "Anna",
-    "text": "Dat war eis Episod iwwer Ären Online-Gesondheetsdossier an d'CNS. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt.",
-    "t": 550.92
+    "text": "Fir de Gesondheetsdossier ass d'Websäit esante.lu. Fir d'Versécherung an d'Remboursementer ass et cns.lu. An d'Prozedure sinn op Guichet.lu erkläert, och op Englesch. Dat war eis Episod iwwer Ären Online-Gesondheetsdossier an d'CNS. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 480.05
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 581
+    "t": 537.97
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 586.35
+    "t": 541.27
    }
   ],
   "audio_fr": "../../podcast_dsp_cns_fr.mp3",
-  "duration_fr": 614.57,
+  "duration_fr": 515.64,
   "audio_de": "../../podcast_dsp_cns_de.mp3",
-  "duration_de": 674.54,
+  "duration_de": 620.59,
   "title_fr": "Votre santé en ligne – Le Dossier de Soins Partagé et comment la CNS vous rembourse",
   "description_fr": "Deux choses pratiques qui touchent tout le monde. D'abord, le Dossier de Soins Partagé — votre dossier de santé partagé en ligne, gratuit et sécurisé, géré par l'Agence eSanté, où vous contrôlez qui peut le consulter, avec l'application mobile MyDSP. Ensuite, comment fonctionne le remboursement avec l'assurance maladie nationale, la CNS : payer d'abord et récupérer la plus grande partie, le tiers payant à la pharmacie et à l'hôpital, le tiers payant social pour les personnes en difficulté, et comment activer votre compte eSanté via MyGuichet.lu.",
   "topics_fr": [
@@ -2701,7 +2721,6 @@ const EPISODES = [
   "categories": [
    "health",
    "digital"
-  ],
-  "status": "in_progress"
+  ]
  }
 ];
