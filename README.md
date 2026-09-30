@@ -5,10 +5,48 @@ script as it highlights along with the audio, and take a 5-question quiz to earn
 a personal certificate.
 
 ## Episodes
-1. MyGuichet.lu – Your Online Door to Luxembourg's Administration
-2. Your Health, Online – The DSP and How the CNS Pays You Back
-3. Eltereforum – Strong Parents, Strong Children
-4. Volunteering in Luxembourg – Give the Time You Want
+1. MyGuichet.lu – Your Online Door to Luxembourg’s Administrations
+2. LuxTrust – Your Digital Identity in Luxembourg
+3. Volunteering in Luxembourg – Give the Time You Want
+4. Eltereforum – Strong Parents, Strong Children
+5. Digital Inclusion – A Computer, and the Skills to Use It
+6. Work in Luxembourg – One Front Door to a New Life
+7. Your Health, Online – The Dossier de Soins Partagé and How the CNS Pays You Back
+8. LU-Alert – How Luxembourg Warns You in an Emergency
+9. The Maison de l'Orientation – One Place to Help You Choose Your Path
+10. Info-Seniors – Finding the Right Help for Older People
+11. Accessibility for Everyone – Luxembourg’s Three Promises
+12. The House of the Greater Region – Four Countries, One Home
+13. ADEM – Luxembourg's Employment Agency, and How It Can Help You
+14. The Zukunftskeess – Money and Support for Your Children
+15. The National Solidarity Fund – Luxembourg’s Safety Net
+16. The National Social Inclusion Office – More Than a Cheque
+17. The Observatoire de l'Habitat – Understanding Luxembourg's Housing Market
+18. Klima-Agence – Free Advice for Your Energy and Climate Projects
+19. The Service National de la Jeunesse – Empowering Young People in Luxembourg
+20. The Office National de l'Enfance – Support and Protection for Children and Families
+21. CePAS – Psychological and School Support for Young People
+22. European Funds in Luxembourg – How EU Money Supports Local Projects
+23. Zesumme Vereinfachen – Helping to Simplify Public Services Together
+24. CGDIS and 112 – Luxembourg's Fire and Rescue Service
+25. STATEC and the Statistics Portal – Luxembourg in Numbers
+26. The Environment Portal – emwelt.lu and Caring for Nature in Luxembourg
+27. SYVICOL – The Voice of Luxembourg's Towns and Communes
+28. Research Luxembourg – The Country's Public Research Institutions
+29. The Agriculture Portal – Food, Farming and Wine in Luxembourg
+30. Spatial Planning – How Luxembourg Plans the Use of Its Land
+31. The Accident Insurance (AAA) – Cover If You Are Hurt at Work or School
+32. The Geoportal – Luxembourg's Official Maps, Online and Free
+33. GOVCERT.LU – Defending Luxembourg Against Cyberattacks
+34. The Culture Portal – Discovering Cultural Life in Luxembourg
+35. Info-Zenter Demenz – Help and Hope Around Dementia
+36. The Social and Solidarity Economy – Business with a Purpose
+37. Luxinnovation – Helping Businesses Innovate and Grow
+38. The Housing Portal – Help to Rent, Buy and Renovate in Luxembourg
+39. The Luxembourg Space Agency – A Small Country Reaching for the Stars
+40. Lifelong Learning – It's Never Too Late to Learn
+41. The Pensiounskeess: How Your Pension Works in Luxembourg
+42. Clarvia – Guiding Families Through What Comes Next
 
 ## How it works
 - Open `index.html` in a browser. It's a static site — no server needed.

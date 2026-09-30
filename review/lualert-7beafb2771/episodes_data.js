@@ -1,8 +1,8 @@
 const EPISODES = [
  {
-  "id": 5,
+  "id": 8,
   "key": "lualert",
-  "number": "Episode 5",
+  "number": "Episode 8",
   "audio": "../../podcast_lualert.mp3",
   "title": "LU-Alert – How Luxembourg Warns You in an Emergency",
   "description": "Luxembourg's national public warning and information system, launched in autumn 2024. What LU-Alert is and how alerts reach your phone through Cell Broadcast, location-based SMS and the free app — with no sign-up needed. The alert levels and colours, the twelve alert categories, the languages it uses, and a simple but vital skill: how to tell a real official alert from a phishing scam.",
