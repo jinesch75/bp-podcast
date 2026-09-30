@@ -1,0 +1,611 @@
+{
+ "zukunftskeess": [
+  {
+   "en": [
+    "A private savings plan in which parents put money aside for their children's studies",
+    "A children's bank account opened by the State at birth, which pays interest until age 18",
+    "A national chain of day-care centres for children under four years old"
+   ],
+   "fr": [
+    "Un plan d'épargne privé dans lequel les parents mettent de l'argent de côté pour les études de leurs enfants",
+    "Un compte bancaire pour enfants ouvert par l'État à la naissance, qui rapporte des intérêts jusqu'à 18 ans",
+    "Un réseau national de crèches pour les enfants de moins de quatre ans"
+   ],
+   "de": [
+    "Ein privater Sparplan, in dem Eltern Geld für das Studium ihrer Kinder zurücklegen",
+    "Ein vom Staat bei der Geburt eröffnetes Kinderkonto, das bis zum 18. Lebensjahr Zinsen bringt",
+    "Eine landesweite Kette von Kindertagesstätten für Kinder unter vier Jahren"
+   ]
+  },
+  {
+   "en": [
+    "In one single payment right after the birth, with no conditions and no link to any medical check-up",
+    "Only if you already have a child, as a bonus for the second and each further child, paid in two parts",
+    "As a monthly top-up to your salary for two years, linked to the parents' working hours, not to medical check-ups"
+   ],
+   "fr": [
+    "En un seul versement juste après la naissance, sans condition et sans lien avec un examen médical",
+    "Seulement si vous avez déjà un enfant, comme prime pour le deuxième enfant et les suivants, versée en deux fois",
+    "Comme complément mensuel au salaire pendant deux ans, calculé selon le temps de travail des parents et sans aucun lien avec les examens médicaux"
+   ],
+   "de": [
+    "In einer einzigen Zahlung direkt nach der Geburt, ohne Bedingungen und ohne Bezug zu einer Vorsorgeuntersuchung",
+    "Nur wenn Sie schon ein Kind haben, als Prämie für das zweite und jedes weitere Kind, in zwei Teilen gezahlt",
+    "Als monatlicher Gehaltszuschuss für zwei Jahre, berechnet nach der Arbeitszeit der Eltern und ohne jeden Bezug zu Vorsorgeuntersuchungen"
+   ]
+  },
+  {
+   "en": [
+    "Until age 12 for everyone; the amount stays exactly the same from birth, whatever the child's age or schooling",
+    "Only between ages 6 and 16, during compulsory schooling; the amount goes down once the child starts secondary school",
+    "Until age 30 for everyone, whether they study or work; the amount is highest for babies and then decreases every year"
+   ],
+   "fr": [
+    "Jusqu'à 12 ans pour tous ; le montant reste exactement le même depuis la naissance, quel que soit l'âge ou la scolarité",
+    "Seulement entre 6 et 16 ans, pendant la scolarité obligatoire ; le montant baisse quand l'enfant entre au secondaire",
+    "Jusqu'à 30 ans pour tous, qu'ils étudient, travaillent ou non ; le montant est le plus élevé pour les bébés, puis il diminue un peu chaque année jusqu'à la fin"
+   ],
+   "de": [
+    "Bis 12 Jahre für alle; der Betrag bleibt ab der Geburt genau gleich, unabhängig von Alter oder Schulbesuch",
+    "Nur zwischen 6 und 16 Jahren, also während der Schulpflicht; der Betrag sinkt deutlich, sobald das Kind in die Sekundarschule oder in eine Ausbildung wechselt",
+    "Bis 30 Jahre für alle, ob sie studieren oder arbeiten; der Betrag ist bei Babys am höchsten und sinkt dann jedes Jahr"
+   ]
+  },
+  {
+   "en": [
+    "You must apply separately every July, with the school's enrolment certificate, and it is paid in October",
+    "Only families with three or more children receive it, and only after sending in their school bills",
+    "It is paid in December, as a Christmas bonus, to every family that asks for it on MyGuichet.lu"
+   ],
+   "fr": [
+    "Il faut en faire la demande séparément chaque mois de juillet, avec le certificat d'inscription scolaire, et elle est versée en octobre",
+    "Seules les familles de trois enfants ou plus la reçoivent, et seulement après avoir envoyé leurs factures scolaires",
+    "Elle est versée en décembre, comme prime de Noël, à chaque famille qui la demande sur MyGuichet.lu"
+   ],
+   "de": [
+    "Sie müssen sie jedes Jahr im Juli gesondert beantragen, mit der Einschreibebescheinigung der Schule, und sie wird im Oktober gezahlt",
+    "Nur Familien mit drei oder mehr Kindern erhalten sie, und erst nachdem sie ihre Schulrechnungen eingereicht haben",
+    "Sie wird im Dezember als Weihnachtsprämie an jede Familie gezahlt, die sie auf MyGuichet.lu beantragt"
+   ]
+  },
+  {
+   "en": [
+    "You get nothing, because family allowance is only paid for children who live in Luxembourg, even if you work and pay social security here",
+    "You must first move the children to Luxembourg and register them at a commune; until then, only the country of residence can pay anything",
+    "You automatically receive the full Luxembourg amount on top of any benefit from the country of residence, so cross-border families get double"
+   ],
+   "fr": [
+    "Vous ne touchez rien, car les allocations familiales luxembourgeoises ne sont versées que pour les enfants qui vivent au Luxembourg, même si vous y travaillez et y cotisez depuis des années à la sécurité sociale",
+    "Vous devez d'abord faire venir les enfants au Luxembourg et les inscrire dans une commune ; d'ici là, seul le pays de résidence peut payer",
+    "Vous recevez automatiquement le montant luxembourgeois complet en plus de l'aide du pays de résidence, donc les familles frontalières touchent le double"
+   ],
+   "de": [
+    "Sie bekommen nichts, weil Familienleistungen nur für Kinder gezahlt werden, die in Luxemburg leben, auch wenn Sie hier arbeiten und Beiträge zahlen",
+    "Sie müssen die Kinder zuerst nach Luxemburg holen und in einer Gemeinde anmelden; bis dahin kann nur das Wohnsitzland zahlen",
+    "Sie erhalten automatisch den vollen luxemburgischen Betrag zusätzlich zur Leistung des Wohnsitzlandes, ganz ohne Anrechnung; Grenzgängerfamilien bekommen also einfach das Doppelte ausgezahlt"
+   ]
+  }
+ ],
+ "fns": [
+  {
+   "en": [
+    "To collect taxes from high earners and redistribute part of them to the communes for local projects",
+    "To manage the national pension fund only, and to pay out the old-age pensions of all former employees",
+    "To give low-interest loans to small businesses and start-ups that are in financial difficulty"
+   ],
+   "fr": [
+    "Percevoir des impôts supplémentaires auprès des hauts revenus et en redistribuer une partie aux communes pour financer des projets locaux",
+    "Gérer uniquement le fonds national de pension, et verser les pensions de vieillesse de tous les anciens salariés",
+    "Accorder des prêts à taux réduit aux petites entreprises et aux start-up en difficulté financière"
+   ],
+   "de": [
+    "Zusätzliche Steuern bei Spitzenverdienern einziehen und einen Teil davon für lokale Projekte an die Gemeinden verteilen",
+    "Nur den nationalen Rentenfonds verwalten und die Altersrenten aller ehemaligen Arbeitnehmer auszahlen",
+    "Zinsgünstige Kredite an kleine Unternehmen und Start-ups vergeben, die in finanziellen Schwierigkeiten sind"
+   ]
+  },
+  {
+   "en": [
+    "A tax refund paid once a year to every household, whatever its income, to compensate for rising prices",
+    "A one-off bonus for new parents, paid at the birth of a child together with the birth allowance",
+    "A pension for former civil servants, paid monthly in addition to their normal old-age pension"
+   ],
+   "fr": [
+    "Un remboursement d'impôt versé une fois par an à tous les ménages, quel que soit leur revenu, pour compenser la hausse des prix de l'énergie",
+    "Une prime unique pour les jeunes parents, versée à la naissance d'un enfant avec l'allocation de naissance",
+    "Une pension pour les anciens fonctionnaires, versée chaque mois en plus de leur pension de vieillesse normale"
+   ],
+   "de": [
+    "Eine Steuerrückerstattung, die einmal im Jahr jedem Haushalt unabhängig vom Einkommen gezahlt wird, als Ausgleich für steigende Energiepreise",
+    "Eine einmalige Prämie für junge Eltern, die bei der Geburt eines Kindes zusammen mit der Geburtszulage gezahlt wird",
+    "Eine Pension für ehemalige Beamte, die monatlich zusätzlich zu ihrer normalen Altersrente gezahlt wird"
+   ]
+  },
+  {
+   "en": [
+    "Only people with no job at all can get it; REVIS recipients must still apply separately every single year",
+    "Only pensioners over 65 can receive it, and nobody gets it automatically – everyone must send in a form each year",
+    "Only homeowners with a mortgage can get it; tenants and REVIS recipients are not eligible for this allowance"
+   ],
+   "fr": [
+    "Seules les personnes sans aucun emploi peuvent la recevoir ; les bénéficiaires du REVIS doivent quand même la demander chaque année",
+    "Seuls les retraités de plus de 65 ans peuvent la recevoir, et personne ne la touche automatiquement – chacun doit renvoyer un formulaire papier chaque année",
+    "Seuls les propriétaires ayant un prêt immobilier peuvent la recevoir ; les locataires et les bénéficiaires du REVIS n'y ont pas droit"
+   ],
+   "de": [
+    "Nur Menschen ganz ohne Arbeit können sie bekommen; REVIS-Bezieher müssen sie trotzdem jedes Jahr gesondert beantragen",
+    "Nur Rentner über 65 können sie erhalten, und niemand bekommt sie automatisch – jeder muss jedes Jahr erneut ein Papierformular einreichen",
+    "Nur Eigentümer mit Immobilienkredit können sie bekommen; Mieter und REVIS-Bezieher haben keinen Anspruch darauf"
+   ]
+  },
+  {
+   "en": [
+    "It cannot help, because maintenance between parents is a private matter that only a lawyer can settle",
+    "It immediately takes the parent who doesn't pay to court and asks for a prison sentence, but pays nothing",
+    "It pays the maintenance only if both parents sign an agreement first, and never asks for the money back"
+   ],
+   "fr": [
+    "Il ne peut pas aider, car la pension alimentaire entre parents est une affaire privée que seul un avocat peut régler devant le juge",
+    "Il poursuit immédiatement en justice le parent qui ne paie pas et demande une peine de prison, mais ne verse rien",
+    "Il ne verse la pension que si les deux parents signent d'abord un accord, et ne réclame jamais l'argent"
+   ],
+   "de": [
+    "Er kann nicht helfen, weil Unterhalt zwischen Eltern eine private Angelegenheit ist, die nur ein Anwalt regeln kann",
+    "Er verklagt den zahlungsunwilligen Elternteil sofort und fordert eine Haftstrafe, zahlt aber selbst nichts",
+    "Er zahlt den Unterhalt nur, wenn beide Eltern vorher eine schriftliche Vereinbarung unterschreiben, und fordert das Geld danach nie zurück"
+   ]
+  },
+  {
+   "en": [
+    "Driving licences, car registrations and the yearly road tax for all vehicles registered in Luxembourg",
+    "Passports, identity cards and residence permits for everyone who lives in Luxembourg",
+    "University tuition fees, student grants and loans for young people studying in Luxembourg or abroad"
+   ],
+   "fr": [
+    "Les permis de conduire, les immatriculations et la taxe annuelle de tous les véhicules immatriculés au Luxembourg",
+    "Les passeports, les cartes d'identité et les titres de séjour de toutes les personnes qui vivent au Luxembourg",
+    "Les frais d'inscription universitaires, les bourses d'études et les prêts étudiants pour les jeunes qui étudient au Luxembourg ou à l'étranger"
+   ],
+   "de": [
+    "Führerscheine, Fahrzeugzulassungen und die jährliche Kfz-Steuer für alle in Luxemburg zugelassenen Fahrzeuge",
+    "Reisepässe, Personalausweise und Aufenthaltstitel für alle Menschen, die in Luxemburg leben",
+    "Studiengebühren, Studienbeihilfen und Studiendarlehen für junge Menschen, die in Luxemburg oder im Ausland studieren"
+   ]
+  }
+ ],
+ "granderegion": [
+  {
+   "en": [
+    "A single new country in central Europe, created by merging Luxembourg with its neighbouring regions, with one language",
+    "A region entirely inside Luxembourg, made up of the capital and the communes in the south, around Esch-sur-Alzette",
+    "A European political party with members from Luxembourg, France, Germany and Belgium that sits in the European Parliament"
+   ],
+   "fr": [
+    "Un nouveau pays unique au centre de l'Europe, né de la fusion du Luxembourg et des régions voisines, avec une seule langue",
+    "Une région située entièrement au Luxembourg, formée par la capitale et les communes du sud, autour d'Esch-sur-Alzette",
+    "Un parti politique européen, avec des membres du Luxembourg, de France, d'Allemagne et de Belgique, qui siège au Parlement européen à Strasbourg"
+   ],
+   "de": [
+    "Ein einziges neues Land in Mitteleuropa, entstanden aus der Fusion Luxemburgs mit seinen Nachbarregionen, mit einer Sprache",
+    "Eine Region ganz innerhalb Luxemburgs, bestehend aus der Hauptstadt und den Gemeinden im Süden rund um Esch-sur-Alzette",
+    "Eine europäische Partei mit Mitgliedern aus Luxemburg, Frankreich, Deutschland und Belgien, die im Europäischen Parlament in Straßburg sitzt"
+   ]
+  },
+  {
+   "en": [
+    "It has almost no cross-border commuters, because most people live and work in the same country",
+    "Commuting across its borders is forbidden, except for a few thousand workers with special permits",
+    "Only about 1,000 people cross its borders each day, mostly students going to university in another country"
+   ],
+   "fr": [
+    "Elle n'a presque pas de frontaliers, car la plupart des gens vivent et travaillent dans le même pays",
+    "Il est interdit de traverser ses frontières pour travailler, sauf pour quelques milliers de salariés munis d'un permis spécial",
+    "Seulement environ 1 000 personnes traversent ses frontières chaque jour, surtout des étudiants qui vont à l'université dans un autre pays"
+   ],
+   "de": [
+    "Sie hat fast keine Grenzgänger, weil die meisten Menschen im selben Land wohnen und arbeiten",
+    "Das Pendeln über ihre Grenzen ist verboten, außer für einige tausend Arbeitnehmer mit Sondergenehmigung",
+    "Nur etwa 1.000 Menschen überqueren täglich ihre Grenzen, meist Studierende auf dem Weg zur Universität im Nachbarland"
+   ]
+  },
+  {
+   "en": [
+    "A museum in Brussels about the history of the European Union, with a special room on the four countries of the region",
+    "The official residence of Luxembourg's Prime Minister, used for receptions with the leaders of neighbouring regions",
+    "A former border checkpoint near Schengen that is now used as a customs office for goods crossing between the countries"
+   ],
+   "fr": [
+    "Un musée à Bruxelles sur l'histoire de l'Union européenne, avec une salle consacrée aux quatre pays de la région",
+    "La résidence officielle du Premier ministre luxembourgeois, utilisée pour recevoir les dirigeants des régions voisines",
+    "Un ancien poste-frontière près de Schengen, aujourd'hui utilisé comme bureau de douane pour contrôler les marchandises qui passent entre les pays"
+   ],
+   "de": [
+    "Ein Museum in Brüssel zur Geschichte der Europäischen Union, mit einem eigenen Raum über die vier Länder der Region und ihre gemeinsame Vergangenheit",
+    "Der Amtssitz des luxemburgischen Premierministers, genutzt für Empfänge mit den Spitzen der Nachbarregionen",
+    "Ein ehemaliger Grenzposten bei Schengen, der heute als Zollamt für Waren zwischen den Ländern dient"
+   ]
+  },
+  {
+   "en": [
+    "By Luxembourg permanently, as the only full country in the region",
+    "By the European Commission, which appoints a chair every year",
+    "By a single elected president, who stays in office for life"
+   ],
+   "fr": [
+    "Par le Luxembourg de façon permanente, puisque c'est le seul pays entier de la région",
+    "Par la Commission européenne, qui nomme un président chaque année",
+    "Par un président unique élu, qui reste en fonction à vie"
+   ],
+   "de": [
+    "Dauerhaft von Luxemburg, als einzigem vollständigem Land der Region",
+    "Von der Europäischen Kommission, die jedes Jahr einen Vorsitz ernennt",
+    "Von einem einzigen gewählten Präsidenten, der danach lebenslang im Amt bleibt"
+   ]
+  },
+  {
+   "en": [
+    "Closed borders between members, so that each region can better protect its own jobs and businesses",
+    "A ban on studying in another member region, so that young people stay and train in their home country",
+    "Higher costs and extra taxes for cross-border workers, to fund the roads and trains they use every day"
+   ],
+   "fr": [
+    "Des frontières fermées entre les membres, pour que chaque région protège mieux ses propres emplois et entreprises",
+    "Une interdiction d'étudier dans une autre région membre, pour que les jeunes restent se former dans leur pays",
+    "Des frais et des taxes supplémentaires pour les frontaliers, afin de financer les routes et les trains qu'ils utilisent chaque jour"
+   ],
+   "de": [
+    "Geschlossene Grenzen zwischen den Mitgliedern, damit jede Region ihre eigenen Arbeitsplätze und Betriebe besser schützen kann",
+    "Ein Verbot, in einer anderen Mitgliedsregion zu studieren, damit junge Menschen im eigenen Land bleiben und lernen",
+    "Höhere Kosten und Zusatzsteuern für Grenzgänger, um die Straßen und Züge zu finanzieren, die sie täglich nutzen"
+   ]
+  }
+ ],
+ "digitalinclusion": [
+  {
+   "en": [
+    "A computer shop that sells new laptops and phones at reduced prices to students",
+    "A government tax office that helps people file their tax return online",
+    "An internet service provider offering cheap broadband to families on low incomes"
+   ],
+   "fr": [
+    "Un magasin d'informatique qui vend des ordinateurs portables et des téléphones neufs à prix réduit aux étudiants",
+    "Un bureau des impôts de l'État qui aide les gens à remplir leur déclaration en ligne",
+    "Un fournisseur d'accès à internet qui propose un haut débit bon marché aux familles à faibles revenus"
+   ],
+   "de": [
+    "Ein Computergeschäft, das Studierenden neue Laptops und Handys zu stark reduzierten Preisen verkauft",
+    "Ein staatliches Steueramt, das Menschen hilft, ihre Steuererklärung online abzugeben",
+    "Ein Internetanbieter, der Familien mit geringem Einkommen günstiges Breitband anbietet"
+   ]
+  },
+  {
+   "en": [
+    "Sell refurbished devices at a profit, advertise for technology brands, and open shops across the country",
+    "Build new computers in Luxembourg, train computer engineers, and export hardware to neighbouring countries",
+    "Provide free internet, phone lines and television to every household, and replace all paper forms with apps"
+   ],
+   "fr": [
+    "Revendre des appareils reconditionnés avec profit, faire de la publicité pour des marques technologiques et ouvrir des magasins dans tout le pays",
+    "Fabriquer de nouveaux ordinateurs au Luxembourg, former des ingénieurs informaticiens et exporter du matériel vers les pays voisins",
+    "Fournir gratuitement internet, le téléphone et la télévision à chaque ménage, et remplacer tous les formulaires papier par des applis"
+   ],
+   "de": [
+    "Aufbereitete Geräte gewinnbringend verkaufen, für Technikmarken werben und Geschäfte im ganzen Land eröffnen",
+    "Neue Computer in Luxemburg bauen, Informatikingenieure ausbilden und Hardware in die Nachbarländer exportieren",
+    "Jedem Haushalt kostenlos Internet, Telefon und Fernsehen bereitstellen und alle Papierformulare durch Apps ersetzen"
+   ]
+  },
+  {
+   "en": [
+    "Anyone in Europe, with no conditions, who fills in the online form and pays the delivery costs",
+    "Only Luxembourg citizens over 65 who have never owned a computer and live alone at home",
+    "Only university students in Luxembourg who show their student card and a letter from their professor"
+   ],
+   "fr": [
+    "N'importe qui en Europe, sans condition, qui remplit le formulaire en ligne et paie les frais de livraison",
+    "Seulement les citoyens luxembourgeois de plus de 65 ans qui n'ont jamais eu d'ordinateur et vivent seuls",
+    "Seulement les étudiants inscrits au Luxembourg, qui doivent présenter leur carte d'étudiant et une lettre de recommandation de leur professeur"
+   ],
+   "de": [
+    "Jeder in Europa, ohne Bedingungen, der das Online-Formular ausfüllt und die Versandkosten zahlt",
+    "Nur luxemburgische Staatsbürger über 65, die noch nie einen Computer hatten und allein leben",
+    "Nur Studierende an Hochschulen in Luxemburg, die ihren Studentenausweis und einen Empfehlungsbrief ihres Professors vorlegen"
+   ]
+  },
+  {
+   "en": [
+    "A paid online course on programming, with a certificate at the end",
+    "A classroom you can rent for parties and meetings on weekends",
+    "A school that trains IT engineers, with an entrance exam every year"
+   ],
+   "fr": [
+    "Un cours en ligne payant sur la programmation, avec un certificat à la fin",
+    "Une salle de classe que l'on peut louer pour des fêtes et des réunions le week-end",
+    "Une école qui forme des ingénieurs en informatique, avec un concours d'entrée très sélectif chaque année"
+   ],
+   "de": [
+    "Ein kostenpflichtiger Online-Programmierkurs mit einem offiziellen Zertifikat am Ende",
+    "Ein Klassenraum, den man am Wochenende für Feiern und Treffen mieten kann",
+    "Eine Schule für Informatikingenieure mit einer jährlichen Aufnahmeprüfung"
+   ]
+  },
+  {
+   "en": [
+    "It plants a tree in Luxembourg for every computer it gives away, to offset the energy that devices use",
+    "It runs all its workshops and offices entirely on solar power produced on its own roof",
+    "It collects and recycles old paper forms from public offices once they have been scanned"
+   ],
+   "fr": [
+    "Elle plante un arbre au Luxembourg pour chaque ordinateur donné, afin de compenser l'électricité que les appareils consomment pendant leur vie",
+    "Elle fait fonctionner tous ses ateliers et bureaux uniquement à l'énergie solaire produite sur son propre toit",
+    "Elle collecte et recycle les anciens formulaires papier des administrations une fois qu'ils ont été numérisés"
+   ],
+   "de": [
+    "Sie pflanzt für jeden verschenkten Computer einen Baum in Luxemburg, um den Stromverbrauch der Geräte während ihrer Lebensdauer auszugleichen",
+    "Sie betreibt alle Werkstätten und Büros ausschließlich mit Solarstrom vom eigenen Dach",
+    "Sie sammelt und recycelt alte Papierformulare der Behörden, sobald sie eingescannt wurden"
+   ]
+  }
+ ],
+ "onis": [
+  {
+   "en": [
+    "It pays out old-age pensions and survivors' pensions to former employees in Luxembourg",
+    "It manages passports, identity cards and residence permits for new residents",
+    "It collects taxes and social contributions from employers and the self-employed"
+   ],
+   "fr": [
+    "Il verse les pensions de vieillesse et de survie aux anciens salariés au Luxembourg",
+    "Il gère les passeports, les cartes d'identité et les titres de séjour des nouveaux résidents du pays",
+    "Il perçoit les impôts et les cotisations sociales des employeurs et des indépendants"
+   ],
+   "de": [
+    "Es zahlt Alters-, Invaliden- und Hinterbliebenenrenten an ehemalige Arbeitnehmer und ihre Familien in Luxemburg aus",
+    "Es verwaltet Reisepässe, Personalausweise und Aufenthaltstitel für neue Einwohner",
+    "Es zieht Steuern und Sozialbeiträge von Arbeitgebern und Selbstständigen ein"
+   ]
+  },
+  {
+   "en": [
+    "ONIS pays the money every month, and the FNS looks for jobs and training for the person",
+    "Both sides are paid and organised by the communes, depending on where the person lives",
+    "REVIS is only a monthly cheque from the State; there is no support or inclusion side at all"
+   ],
+   "fr": [
+    "L'ONIS verse l'argent chaque mois, et le FNS cherche des emplois et des formations pour la personne",
+    "Les deux volets sont payés et organisés par les communes, selon l'endroit où vit la personne",
+    "Le REVIS n'est qu'un chèque mensuel de l'État ; il n'y a aucun volet d'accompagnement ou d'inclusion prévu"
+   ],
+   "de": [
+    "Das ONIS zahlt jeden Monat das Geld, und der FNS sucht Arbeit und Weiterbildung für die Person",
+    "Beide Seiten werden von den Gemeinden bezahlt und organisiert, je nach Wohnort der Person",
+    "Das REVIS ist nur ein monatlicher Scheck des Staates; eine Begleit- oder Inklusionsseite gibt es gar nicht"
+   ]
+  },
+  {
+   "en": [
+    "They are the same thing under two names: both simply mean receiving the REVIS money each month without any other step",
+    "Stabilisation measures are for companies that hire REVIS recipients; activation measures are for schools and young pupils",
+    "Activation always comes first, with a full-time job placement; stabilisation only starts after a person has worked for a year"
+   ],
+   "fr": [
+    "C'est la même chose sous deux noms : les deux signifient simplement toucher le REVIS chaque mois sans autre démarche",
+    "Les mesures de stabilisation s'adressent aux entreprises qui embauchent des bénéficiaires du REVIS ; les mesures d'activation visent surtout les écoles, les élèves et leurs enseignants",
+    "L'activation vient toujours en premier, avec un placement à plein temps ; la stabilisation ne commence qu'après un an de travail"
+   ],
+   "de": [
+    "Es ist dasselbe unter zwei Namen: Beides bedeutet einfach, jeden Monat das REVIS-Geld ohne weitere Schritte zu bekommen",
+    "Stabilisierungsmaßnahmen sind für Firmen gedacht, die REVIS-Bezieher einstellen; Aktivierungsmaßnahmen richten sich dagegen vor allem an Schulen, junge Schüler und ihre Lehrkräfte",
+    "Aktivierung kommt immer zuerst, mit einer Vollzeitstelle; Stabilisierung beginnt erst, nachdem jemand ein Jahr gearbeitet hat"
+   ]
+  },
+  {
+   "en": [
+    "It sends you one letter with a list of job websites, and after that there is no further contact or personal follow-up",
+    "You must find a full-time job on your own within one week, or you lose the REVIS benefit and have to apply again from the start",
+    "You are assigned to one central office in the capital, where a different person sees you each time, without a personal plan"
+   ],
+   "fr": [
+    "Il vous envoie une lettre avec une liste de sites d'emploi, puis il n'y a plus aucun contact ni suivi personnel",
+    "Vous devez trouver seul un emploi à plein temps en une semaine, sinon vous perdez le REVIS et devez refaire toute la demande",
+    "Vous êtes rattaché à un seul bureau central dans la capitale, où une personne différente vous reçoit à chaque fois, sans plan personnel ni suivi régulier de votre situation"
+   ],
+   "de": [
+    "Es schickt Ihnen einen Brief mit einer Liste von Jobportalen, danach gibt es keinen Kontakt und keine persönliche Begleitung mehr",
+    "Sie müssen innerhalb einer Woche allein eine Vollzeitstelle finden, sonst verlieren Sie das REVIS und müssen ganz neu beantragen",
+    "Sie werden einem einzigen zentralen Büro in der Hauptstadt zugeteilt, wo Sie jedes Mal jemand anderes empfängt, ohne persönlichen Plan und ohne regelmäßige Begleitung"
+   ]
+  },
+  {
+   "en": [
+    "To put pressure on people without a job, with sanctions as the main tool to push them back to work",
+    "To reduce the number of benefit recipients as fast as possible, whatever the person's situation",
+    "To replace the National Solidarity Fund and take over all its payments within the next few years"
+   ],
+   "fr": [
+    "Mettre la pression sur les personnes sans emploi, avec les sanctions comme principal outil pour les ramener au travail",
+    "Réduire le plus vite possible le nombre de bénéficiaires, quelle que soit la situation de la personne",
+    "Remplacer le Fonds national de solidarité et reprendre tous ses paiements dans les prochaines années"
+   ],
+   "de": [
+    "Druck auf Menschen ohne Arbeit ausüben, mit Sanktionen als wichtigstem Mittel, um sie möglichst schnell zurück in den Job zu bringen",
+    "Die Zahl der Leistungsbezieher so schnell wie möglich senken, egal in welcher Lage die Person ist",
+    "Den Nationalen Solidaritätsfonds ersetzen und in den nächsten Jahren alle seine Zahlungen übernehmen"
+   ]
+  }
+ ],
+ "workinluxembourg": [
+  {
+   "en": [
+    "A private recruitment agency that charges candidates a fee to find them a job in Luxembourg",
+    "A social network for tourists who want to share travel tips and photos from Luxembourg",
+    "A bank for international workers that opens salary accounts before they arrive in the country"
+   ],
+   "fr": [
+    "Une agence de recrutement privée qui fait payer les candidats pour leur trouver un emploi au Luxembourg",
+    "Un réseau social pour touristes qui veulent partager des conseils de voyage et des photos du Luxembourg",
+    "Une banque pour travailleurs internationaux, qui ouvre des comptes salaire avant même leur arrivée dans le pays"
+   ],
+   "de": [
+    "Eine private Personalvermittlung, die Bewerbern viel Geld dafür berechnet, ihnen einen Job in Luxemburg zu finden",
+    "Ein soziales Netzwerk für Touristen, die Reisetipps und Fotos aus Luxemburg teilen möchten",
+    "Eine Bank für internationale Arbeitskräfte, die Gehaltskonten eröffnet, bevor sie ins Land kommen"
+   ]
+  },
+  {
+   "en": [
+    "Buy, Sell, and Rent a flat",
+    "News, Sports, and Weather today",
+    "Visa, Tax, and Pension forms"
+   ],
+   "fr": [
+    "Acheter, Vendre et Louer un appartement",
+    "Actualités, Sports et Météo du jour",
+    "Formulaires Visa, Impôts et Pension"
+   ],
+   "de": [
+    "Kaufen, Verkaufen und Wohnung mieten",
+    "Nachrichten, Sport und Wetter von heute",
+    "Formulare zu Visum, Steuern und Rente"
+   ]
+  },
+  {
+   "en": [
+    "It collects job offers automatically from random websites around the world, without checking whether they are still open",
+    "It only shows jobs in the public sector, such as ministries and communes, reserved for people who speak Luxembourgish",
+    "You must pay a monthly subscription to see the job offers, and companies can only contact candidates who have paid"
+   ],
+   "fr": [
+    "Il collecte automatiquement des offres sur des sites pris au hasard dans le monde, sans vérifier si elles sont encore ouvertes",
+    "Il ne montre que des postes du secteur public, comme les ministères et les communes, et ces postes sont réservés aux personnes qui parlent luxembourgeois",
+    "Il faut payer un abonnement mensuel pour voir les offres, et les entreprises ne peuvent contacter que les candidats qui ont payé"
+   ],
+   "de": [
+    "Er sammelt automatisch Stellenangebote von beliebigen Websites weltweit, ohne zu prüfen, ob sie noch offen sind",
+    "Er zeigt nur Stellen im öffentlichen Dienst, etwa in Ministerien und Gemeinden, und diese Stellen sind nur für Menschen, die fließend Luxemburgisch sprechen",
+    "Man muss ein Monatsabo zahlen, um die Angebote zu sehen, und Firmen können nur Kandidaten kontaktieren, die bezahlt haben"
+   ]
+  },
+  {
+   "en": [
+    "A shop desk in Luxembourg City where newcomers can buy office furniture and equipment at a discount",
+    "An online quiz about Luxembourg's history and culture that candidates must pass before they can apply for a job",
+    "A telephone help line only for tourists, giving information about hotels, museums and public transport"
+   ],
+   "fr": [
+    "Un comptoir à Luxembourg-Ville où les nouveaux arrivants achètent du mobilier et du matériel de bureau à prix réduit",
+    "Un quiz en ligne sur l'histoire et la culture du Luxembourg que les candidats doivent réussir avant de postuler",
+    "Une ligne d'assistance téléphonique réservée aux touristes, avec des informations pratiques sur les hôtels, les musées, les restaurants et les transports"
+   ],
+   "de": [
+    "Ein Verkaufsstand in Luxemburg-Stadt, an dem Neuankömmlinge Büromöbel und Ausstattung vergünstigt kaufen",
+    "Ein Online-Quiz über Geschichte, Sprachen und Kultur Luxemburgs, das alle Bewerber bestehen müssen, bevor sie sich überhaupt auf eine Stelle bewerben dürfen",
+    "Eine Telefon-Hotline nur für Touristen, mit Informationen zu Hotels, Museen und öffentlichem Verkehr"
+   ]
+  },
+  {
+   "en": [
+    "Because all immigration to Luxembourg is automatic, so anyone from anywhere can move and start working the next day",
+    "Because there are no rules at all for non-EU workers in Luxembourg, so no permit or paperwork is ever needed for any job",
+    "Because non-EU professionals pay no income tax in Luxembourg during their first five years, whatever job they do"
+   ],
+   "fr": [
+    "Parce que toute immigration au Luxembourg est automatique, donc n'importe qui peut venir et commencer à travailler le lendemain",
+    "Parce qu'il n'existe aucune règle pour les travailleurs non européens au Luxembourg, donc aucun permis de travail ni aucun papier n'est jamais nécessaire, quel que soit le métier",
+    "Parce que les professionnels non européens ne paient pas d'impôt sur le revenu au Luxembourg pendant cinq ans, quel que soit leur emploi"
+   ],
+   "de": [
+    "Weil jede Einwanderung nach Luxemburg automatisch ist, sodass jeder von überall kommen und am nächsten Tag arbeiten kann",
+    "Weil es für Arbeitnehmer aus Nicht-EU-Ländern in Luxemburg gar keine Regeln gibt, also nie eine Genehmigung nötig ist",
+    "Weil Fachkräfte aus Nicht-EU-Ländern in den ersten fünf Jahren in Luxemburg überhaupt keine Einkommensteuer zahlen, egal in welchem Beruf sie arbeiten"
+   ]
+  }
+ ],
+ "adem": [
+  {
+   "en": [
+    "A private recruitment company that you pay to find a job for you",
+    "A bank that pays out salaries on behalf of Luxembourg employers",
+    "A trade union that defends workers in conflicts with their employer"
+   ],
+   "fr": [
+    "Une entreprise de recrutement privée que vous payez chaque mois pour qu'elle vous trouve un emploi",
+    "Une banque qui verse les salaires pour le compte des employeurs luxembourgeois",
+    "Un syndicat qui défend les salariés en conflit avec leur employeur"
+   ],
+   "de": [
+    "Ein privates Personalvermittlungsunternehmen, das Sie jeden Monat bezahlen, damit es Ihnen einen Job findet",
+    "Eine Bank, die im Auftrag luxemburgischer Arbeitgeber die Gehälter auszahlt",
+    "Eine Gewerkschaft, die Arbeitnehmer in Konflikten mit ihrem Arbeitgeber verteidigt"
+   ]
+  },
+  {
+   "en": [
+    "Only by post, with a paper form and a copy of your contract",
+    "Only by turning up at any ADEM office, without an appointment",
+    "Through your bank, which sends your details to ADEM for you"
+   ],
+   "fr": [
+    "Uniquement par courrier, avec un formulaire papier rempli à la main et une copie de votre dernier contrat",
+    "Uniquement en vous présentant dans une agence de l'ADEM, sans rendez-vous",
+    "Par votre banque, qui transmet vos données à l'ADEM à votre place"
+   ],
+   "de": [
+    "Nur per Post, mit einem Papierformular und einer Kopie Ihres Vertrags",
+    "Nur indem Sie ohne Termin und ohne Anmeldung in einer beliebigen ADEM-Geschäftsstelle erscheinen",
+    "Über Ihre Bank, die Ihre Daten für Sie an die ADEM weiterleitet"
+   ]
+  },
+  {
+   "en": [
+    "Nothing until you find a job yourself; ADEM only keeps your name on file",
+    "A guaranteed job within one week, chosen for you by ADEM",
+    "A monthly allowance straight away, whatever your situation"
+   ],
+   "fr": [
+    "Rien tant que vous ne trouvez pas d'emploi vous-même ; l'ADEM garde seulement votre nom",
+    "Un emploi garanti en une semaine, choisi pour vous par l'ADEM",
+    "Une allocation mensuelle tout de suite, quelle que soit votre situation"
+   ],
+   "de": [
+    "Nichts, bis Sie selbst einen Job finden; die ADEM speichert nur Ihren Namen",
+    "Einen garantierten Job innerhalb einer Woche, den die ADEM für Sie aussucht",
+    "Sofort eine monatliche Zahlung, unabhängig von Ihrer Situation"
+   ]
+  },
+  {
+   "en": [
+    "Pay a registration fee at your commune",
+    "Already have a signed new job contract",
+    "Wait two years after losing your job"
+   ],
+   "fr": [
+    "Payer des frais d'inscription à la commune",
+    "Avoir déjà signé un nouveau contrat de travail",
+    "Attendre deux ans après la perte de votre dernier emploi"
+   ],
+   "de": [
+    "Eine Anmeldegebühr bei der Gemeinde zahlen",
+    "Bereits einen neuen Arbeitsvertrag unterschrieben haben",
+    "Nach dem Jobverlust zwei Jahre warten"
+   ]
+  },
+  {
+   "en": [
+    "A free place at the University of Luxembourg for every young person who registers with ADEM",
+    "A cash prize of several thousand euros for young people who find a job on their own",
+    "A guaranteed permanent job in the civil service, for life, after a short training course"
+   ],
+   "fr": [
+    "Une place gratuite à l'Université du Luxembourg pour chaque jeune qui s'inscrit à l'ADEM",
+    "Une prime de plusieurs milliers d'euros pour les jeunes qui trouvent un emploi par eux-mêmes, sans aide",
+    "Un emploi garanti à vie dans la fonction publique, après une courte formation"
+   ],
+   "de": [
+    "Einen kostenlosen Studienplatz an der Universität Luxemburg für jeden jungen Menschen, der sich bei der ADEM anmeldet",
+    "Eine Geldprämie von mehreren tausend Euro für junge Menschen, die selbst einen Job finden",
+    "Eine garantierte Stelle auf Lebenszeit im öffentlichen Dienst, nach einer kurzen Schulung"
+   ]
+  }
+ ]
+}

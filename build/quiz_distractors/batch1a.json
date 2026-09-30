@@ -1,0 +1,338 @@
+{
+ "myguichet": [
+  {
+   "en": [
+    "A paid subscription service run by a private company that gives legal advice on dealing with the Luxembourg administration",
+    "A private online banking application that lets residents pay their taxes and administrative fees from their smartphone",
+    "A social network where residents of Luxembourg share tips, questions and experiences about administrative procedures, moderated by volunteers"
+   ],
+   "fr": [
+    "Un service payant, géré par une entreprise privée, qui donne des conseils juridiques pour les démarches avec l'administration luxembourgeoise",
+    "Une application bancaire privée qui permet aux résidents de payer leurs impôts et leurs frais administratifs depuis leur smartphone",
+    "Un réseau social où les résidents du Luxembourg échangent des conseils, des questions et des expériences sur les démarches administratives, modéré par des bénévoles"
+   ],
+   "de": [
+    "Ein kostenpflichtiger Dienst eines privaten Unternehmens, der Rechtsberatung für den Umgang mit der luxemburgischen Verwaltung anbietet",
+    "Eine private Banking-App, mit der Einwohner ihre Steuern und Verwaltungsgebühren über ihr Smartphone bezahlen können",
+    "Ein soziales Netzwerk, in dem Einwohner Luxemburgs Tipps, Fragen und Erfahrungen zu Verwaltungsverfahren austauschen, moderiert von Freiwilligen"
+   ],
+   "lb": [
+    "E bezuelte Service vun enger privater Firma, deen Iech juristesch beréit, wann Dir mat der lëtzebuergescher Administratioun ze dinn hutt",
+    "Eng privat Banken-App, mat där d'Awunner hir Steieren an administrativ Fraisen iwwer hire Smartphone bezuele kënnen",
+    "E soziaalt Netzwierk, wou d'Awunner vu Lëtzebuerg Tipps, Froen an Erfarunge mat administrativen Demarchen austauschen, moderéiert vu Fräiwëllegen"
+   ]
+  },
+  {
+   "en": [
+    "Because it is where you count and sort your paper documents before you post them to the administration",
+    "Because it only works when you stand at the counter of an administration office and an agent logs you in",
+    "Because it is run by the banks, like an online bank counter, and it is only open during office hours on weekdays"
+   ],
+   "fr": [
+    "Parce que c'est là qu'on compte et qu'on trie ses documents papier avant de les envoyer par la poste à l'administration",
+    "Parce qu'il ne fonctionne que si vous êtes au guichet d'un bureau administratif et qu'un agent vous connecte",
+    "Parce qu'il est géré par les banques, comme un guichet bancaire en ligne, et qu'il n'est ouvert qu'aux heures de bureau, du lundi au vendredi"
+   ],
+   "de": [
+    "Weil man dort seine Papierdokumente zählt und sortiert, bevor man sie per Post an die Verwaltung schickt",
+    "Weil es nur funktioniert, wenn man am Schalter eines Verwaltungsbüros steht und ein Mitarbeiter einen anmeldet",
+    "Weil es von den Banken betrieben wird, wie ein Online-Bankschalter, und nur werktags zu den Bürozeiten geöffnet ist"
+   ],
+   "lb": [
+    "Well een do seng Pabeierdokumenter zielt a sortéiert, ier een se mat der Post un d'Administratioun schéckt",
+    "Well et nëmme funktionéiert, wann Dir um Guichet vun engem Büro steet an en Agent Iech aloggt",
+    "Well et vun de Banke geréiert gëtt, wéi e Bankguichet online, an nëmmen an der Woch während de Büroszäiten op ass"
+   ]
+  },
+  {
+   "en": [
+    "To be a Luxembourg citizen, at least 18 years old, and pay a one-time registration fee at your commune's town hall",
+    "A Luxembourg passport and a valid residence permit, which you must show in person at the Guichet.lu office",
+    "Only an email address and a mobile phone number – no identification number or secure login is needed"
+   ],
+   "fr": [
+    "Être citoyen luxembourgeois, avoir au moins 18 ans et payer des frais d'inscription uniques à la maison communale",
+    "Un passeport luxembourgeois et un titre de séjour valable, à présenter en personne au bureau de Guichet.lu",
+    "Seulement une adresse e-mail et un numéro de portable – aucun numéro d'identification ni connexion sécurisée n'est nécessaire"
+   ],
+   "de": [
+    "Luxemburgischer Staatsbürger sein, mindestens 18 Jahre alt sein und im Rathaus Ihrer Gemeinde eine einmalige Anmeldegebühr zahlen",
+    "Einen luxemburgischen Reisepass und einen gültigen Aufenthaltstitel, die Sie persönlich im Büro von Guichet.lu vorzeigen müssen",
+    "Nur eine E-Mail-Adresse und eine Handynummer – eine Identifikationsnummer oder ein sicherer Login ist nicht nötig"
+   ],
+   "lb": [
+    "Lëtzebuerger Bierger sinn, op d'mannst 18 Joer al sinn an eng eemoleg Aschreiwungsgebühr op der Gemeng bezuelen",
+    "E lëtzebuergesche Pass an eng gëlteg Openthaltserlaabnes, déi Dir perséinlech am Büro vu Guichet.lu weise musst",
+    "Just eng E-Mail-Adress an eng Handysnummer – keng Identifikatiounsnummer a kee séchere Login ass néideg"
+   ]
+  },
+  {
+   "en": [
+    "Just a username and password that you choose yourself when you first create your account on the website",
+    "A Google, Apple or Facebook account, which MyGuichet.lu accepts as a secure login for all procedures",
+    "Only a LuxTrust product – the eID card and logins from other European countries are not accepted"
+   ],
+   "fr": [
+    "Seulement un identifiant et un mot de passe que vous choisissez vous-même en créant votre compte sur le site",
+    "Un compte Google, Apple ou Facebook, que MyGuichet.lu accepte comme connexion sécurisée pour toutes les démarches administratives",
+    "Uniquement un produit LuxTrust – la carte eID et les connexions d'autres pays européens ne sont pas acceptées"
+   ],
+   "de": [
+    "Nur ein Benutzername und ein Passwort, die Sie selbst wählen, wenn Sie Ihr Konto auf der Website anlegen",
+    "Ein Google-, Apple- oder Facebook-Konto, das MyGuichet.lu als sicheren Login für alle Verfahren akzeptiert",
+    "Nur ein LuxTrust-Produkt – der eID-Ausweis und Logins aus anderen europäischen Ländern werden grundsätzlich nicht akzeptiert"
+   ],
+   "lb": [
+    "Just e Benotzernumm an e Passwuert, déi Dir selwer auswielt, wann Dir Äre Kont op der Websäit opmaacht",
+    "E Google-, Apple- oder Facebook-Kont, deen MyGuichet.lu als séchere Login fir all Demarchen akzeptéiert",
+    "Just e LuxTrust-Produkt – d'eID-Kaart an d'Logins aus anere europäesche Länner ginn net akzeptéiert"
+   ]
+  },
+  {
+   "en": [
+    "Nothing yet – the eSpace only shows general information, and you still have to visit an office for every request",
+    "Trade shares, open savings accounts and pay your private bills, since the eSpace is linked to your bank",
+    "Only file your annual tax return – other procedures, documents and appointments are still handled by post"
+   ],
+   "fr": [
+    "Rien pour l'instant – l'eSpace n'affiche que des informations générales, et il faut toujours aller au bureau pour chaque demande",
+    "Acheter des actions, ouvrir des comptes d'épargne et payer vos factures privées, car l'eSpace est relié à votre banque",
+    "Seulement déposer votre déclaration d'impôt annuelle – les autres démarches, documents et rendez-vous passent toujours par la poste"
+   ],
+   "de": [
+    "Noch nichts – der eSpace zeigt nur allgemeine Informationen, und für jeden Antrag müssen Sie weiterhin ins Büro gehen",
+    "Aktien handeln, Sparkonten eröffnen und private Rechnungen bezahlen, da der eSpace mit Ihrer Bank verbunden ist",
+    "Nur Ihre jährliche Steuererklärung abgeben – andere Verfahren, Dokumente und Termine laufen weiterhin per Post"
+   ],
+   "lb": [
+    "Nach näischt – den eSpace weist just allgemeng Informatiounen, an Dir musst fir all Ufro ëmmer nach op e Büro goen",
+    "Aktien handelen, Spuerkonten opmaachen a privat Rechnunge bezuelen, well den eSpace mat Ärer Bank verbonnen ass",
+    "Just Är jäerlech Steiererklärung maachen – aner Demarchen, Dokumenter a Rendez-vousen lafen ëmmer nach iwwer d'Post"
+   ]
+  }
+ ],
+ "benevolat": [
+  {
+   "en": [
+    "A paid part-time worker who is employed by a charity or association and receives a small salary for their time",
+    "A government employee who is asked by the State to help in communes, schools and hospitals as part of their job",
+    "Someone who is required to help the community, for example by a court order or as a condition for receiving benefits"
+   ],
+   "fr": [
+    "Un travailleur à temps partiel employé par une œuvre caritative ou une association, qui reçoit un petit salaire pour son temps",
+    "Un fonctionnaire à qui l'État demande d'aider dans les communes, les écoles et les hôpitaux dans le cadre de son travail",
+    "Quelqu'un qui est obligé d'aider la communauté, par exemple sur décision d'un tribunal ou comme condition pour toucher des aides"
+   ],
+   "de": [
+    "Eine bezahlte Teilzeitkraft, die bei einer Hilfsorganisation oder einem Verein angestellt ist und ein kleines Gehalt bekommt",
+    "Ein Staatsbeamter, der im Rahmen seiner Arbeit vom Staat gebeten wird, in Gemeinden, Schulen und Krankenhäusern zu helfen",
+    "Jemand, der der Gemeinschaft helfen muss, zum Beispiel auf gerichtliche Anordnung oder als Bedingung für staatliche Leistungen"
+   ],
+   "lb": [
+    "Eng bezuelten Hallefzäitkraaft, déi bei enger karitativer Organisatioun oder engem Veräin ugestallt ass an e klenge Loun kritt",
+    "E Staatsbeamten, deen am Kader vu senger Aarbecht vum Staat gefrot gëtt, an de Gemengen, Schoulen a Spideeler ze hëllefen",
+    "Een, deen der Gemeinschaft muss hëllefen, zum Beispill op Uerder vun engem Geriicht oder als Konditioun fir Hëllefen ze kréien"
+   ]
+  },
+  {
+   "en": [
+    "About 5% – one person in twenty, placing Luxembourg near the bottom in Europe",
+    "About 70% – more than two people in three, the highest share in the whole of Europe",
+    "About 10% – one person in ten, roughly the European average at that time"
+   ],
+   "fr": [
+    "Environ 5 % – à peine une personne sur vingt, ce qui place le Luxembourg parmi les derniers pays d'Europe",
+    "Environ 70 % – plus de deux personnes sur trois, la part la plus élevée de toute l'Europe",
+    "Environ 10 % – une personne sur dix, à peu près la moyenne européenne à ce moment-là"
+   ],
+   "de": [
+    "Etwa 5 % – jeder Zwanzigste, womit Luxemburg zu den Schlusslichtern in Europa gehört",
+    "Etwa 70 % – mehr als zwei von drei Menschen, der höchste Anteil in ganz Europa",
+    "Etwa 10 % – jeder Zehnte, ungefähr der europäische Durchschnitt zu dieser Zeit"
+   ],
+   "lb": [
+    "Ongeféier 5 % – eng Persoun vun zwanzeg, domat ass Lëtzebuerg bei de Leschten an Europa",
+    "Ongeféier 70 % – méi wéi zwou Persoune vun dräi, den héchsten Undeel an ganz Europa",
+    "Ongeféier 10 % – eng Persoun vun zéng, ongeféier den europäeschen Duerchschnëtt zu där Zäit"
+   ]
+  },
+  {
+   "en": [
+    "The town hall of each commune, with no central website",
+    "ADEM, the employment agency, with its website adem.lu",
+    "The Ministry of Finance, through the MyGuichet.lu portal"
+   ],
+   "fr": [
+    "La maison communale de chaque commune, sans site central",
+    "L'ADEM, l'agence pour l'emploi, avec son site adem.lu",
+    "Le ministère des Finances, via le portail MyGuichet.lu"
+   ],
+   "de": [
+    "Das Rathaus jeder Gemeinde, ohne zentrale Website",
+    "Die ADEM, die Arbeitsagentur, mit ihrer Website adem.lu",
+    "Das Finanzministerium, über das Portal MyGuichet.lu"
+   ],
+   "lb": [
+    "D'Gemengenhaus vun all Gemeng, ouni zentral Websäit",
+    "D'ADEM, d'Aarbechtsagence, mat hirer Websäit adem.lu",
+    "De Finanzministère, iwwer de Portal MyGuichet.lu"
+   ]
+  },
+  {
+   "en": [
+    "Yes – you must commit to full weekends for a whole year, because associations need to plan their teams",
+    "Yes, at least one year – short missions of an afternoon or a day are not counted as volunteering",
+    "Yes, at least three months, with a signed contract and a fixed number of hours every single week"
+   ],
+   "fr": [
+    "Oui – il faut s'engager des week-ends entiers pendant toute une année, car les associations doivent planifier leurs équipes longtemps à l'avance",
+    "Oui, au moins un an – les missions courtes d'un après-midi ou d'une journée ne comptent pas comme du bénévolat",
+    "Oui, au moins trois mois, avec un contrat signé et un nombre d'heures fixe chaque semaine"
+   ],
+   "de": [
+    "Ja – Sie müssen sich ein ganzes Jahr lang für ganze Wochenenden verpflichten, weil die Vereine ihre Teams lange im Voraus planen müssen",
+    "Ja, mindestens ein Jahr – kurze Einsätze von einem Nachmittag oder einem Tag gelten nicht als Freiwilligenarbeit",
+    "Ja, mindestens drei Monate, mit einem unterschriebenen Vertrag und einer festen Stundenzahl jede Woche"
+   ],
+   "lb": [
+    "Jo – Dir musst Iech e ganzt Joer fir ganz Weekender engagéieren, well d'Veräiner hir Ekippe laang am Viraus musse plangen",
+    "Jo, op d'mannst ee Joer – kuerz Missioune vun engem Nomëtteg oder engem Dag zielen net als Benevolat",
+    "Jo, op d'mannst dräi Méint, mat engem ënnerschriwwene Kontrakt an enger fixer Zuel u Stonnen all Woch"
+   ]
+  },
+  {
+   "en": [
+    "Sign a one-year contract with an association first, then wait to be told which mission you will do",
+    "Wait until an organisation contacts you by post, since volunteers are chosen from the national register",
+    "Apply for a paid position at the Agence du Bénévolat and follow its training before helping anywhere"
+   ],
+   "fr": [
+    "Signer d'abord un contrat d'un an avec une association, puis attendre qu'on vous dise quelle mission vous ferez",
+    "Attendre qu'une organisation vous contacte par courrier, car les bénévoles sont choisis au hasard dans le registre national des résidents",
+    "Postuler à un poste rémunéré à l'Agence du Bénévolat et suivre sa formation avant d'aider où que ce soit"
+   ],
+   "de": [
+    "Zuerst einen Einjahresvertrag mit einem Verein unterschreiben und dann warten, welcher Einsatz Ihnen zugeteilt wird",
+    "Warten, bis eine Organisation Sie per Post kontaktiert, da Freiwillige aus dem nationalen Register ausgewählt werden",
+    "Sich auf eine bezahlte Stelle bei der Agence du Bénévolat bewerben und deren mehrwöchige Schulung machen, bevor Sie irgendwo helfen dürfen"
+   ],
+   "lb": [
+    "Fir d'éischt e Kontrakt vun engem Joer mat engem Veräin ënnerschreiwen, an dann ofwaarden, wéi eng Missioun Dir kritt",
+    "Waarden, bis eng Organisatioun Iech per Post kontaktéiert, well d'Fräiwëlleg aus dem nationale Register ausgewielt ginn",
+    "Sech fir eng bezuelte Plaz bei der Agence du Bénévolat mellen an hir Formatioun vu puer Wochen maachen, ier Dir iergendwou hëllefe kënnt"
+   ]
+  }
+ ],
+ "eltereforum": [
+  {
+   "en": [
+    "An online shop for baby products, run by the State, where parents can buy equipment at lower prices",
+    "A school for children aged 3 to 12, where parents can also attend lessons in the evening",
+    "A political party for parents that campaigns for more childcare places and family allowances"
+   ],
+   "fr": [
+    "Une boutique en ligne de produits pour bébés, gérée par l'État, où les parents achètent du matériel moins cher",
+    "Une école pour les enfants de 3 à 12 ans, où les parents peuvent aussi suivre des cours le soir",
+    "Un parti politique de parents qui milite pour plus de places d'accueil et d'allocations familiales"
+   ],
+   "de": [
+    "Ein staatlicher Online-Shop für Babyprodukte, in dem Eltern Ausstattung günstiger kaufen können",
+    "Eine Schule für Kinder von 3 bis 12 Jahren, in der auch die Eltern abends Unterricht besuchen können",
+    "Eine politische Partei für Eltern, die sich für mehr Betreuungsplätze und Familienleistungen einsetzt"
+   ],
+   "lb": [
+    "En Online-Buttek fir Bebeesprodukter, vum Staat geréiert, wou Elteren Equipement a Kleeder méi bëlleg kafe kënnen",
+    "Eng Schoul fir Kanner vun 3 bis 12 Joer, wou d'Elteren owes och Coursë besiche kënnen",
+    "Eng politesch Partei fir Elteren, déi sech fir méi Betreiungsplazen a Familljenallocatiounen asetzt"
+   ]
+  },
+  {
+   "en": [
+    "A single local parents' association in Luxembourg City, which runs all the forums as volunteers",
+    "The national health insurance (CNS), as part of its prevention programme for young families",
+    "A private company that organises courses for parents and charges a fee for each activity"
+   ],
+   "fr": [
+    "Une seule association locale de parents de Luxembourg-Ville, qui gère tous les forums du pays de manière entièrement bénévole",
+    "La Caisse nationale de santé (CNS), dans le cadre de son programme de prévention pour les jeunes familles",
+    "Une entreprise privée qui organise des cours pour parents et fait payer chaque activité"
+   ],
+   "de": [
+    "Ein einziger lokaler Elternverein in Luxemburg-Stadt, der alle Foren ehrenamtlich betreibt",
+    "Die nationale Gesundheitskasse (CNS), im Rahmen ihres Präventionsprogramms für junge Familien",
+    "Ein privates Unternehmen, das Kurse für Eltern organisiert und für jede einzelne Aktivität Geld verlangt"
+   ],
+   "lb": [
+    "Eng eenzeg lokal Elterevereenegung an der Stad Lëtzebuerg, déi all d'Foren op fräiwëlleger Basis organiséiert",
+    "D'national Gesondheetskeess (CNS), am Kader vun hirem Präventiounsprogramm fir jonk Familljen",
+    "Eng privat Firma, déi Coursen fir Elteren organiséiert a fir all Aktivitéit Suen hëlt"
+   ]
+  },
+  {
+   "en": [
+    "Only during the teenage years, when questions about school, screens and friendships become harder",
+    "Only once the child starts school, because before that families are followed by the maternity ward",
+    "Only from ages 0 to 3 – after that, parents are sent to the school's own support services"
+   ],
+   "fr": [
+    "Seulement pendant l'adolescence, quand les questions sur l'école, les écrans et les amitiés deviennent plus difficiles",
+    "Seulement à partir de l'entrée à l'école, car avant, les familles sont suivies par la maternité",
+    "Seulement de 0 à 3 ans – ensuite, les parents sont envoyés vers les services de soutien de l'école"
+   ],
+   "de": [
+    "Nur in der Jugendzeit, wenn Fragen zu Schule, Bildschirmen und Freundschaften schwieriger werden",
+    "Erst ab dem Schulbeginn des Kindes, weil Familien vorher von der Entbindungsstation betreut werden",
+    "Nur von 0 bis 3 Jahren – danach werden die Eltern an die eigenen Unterstützungsdienste der Schule verwiesen"
+   ],
+   "lb": [
+    "Just während der Pubertéit, wann d'Froen iwwer d'Schoul, d'Ecranen an d'Frëndschafte méi schwiereg ginn",
+    "Eréischt wann d'Kand an d'Schoul geet, well d'Famillje virdrun vun der Maternitéit suivéiert ginn",
+    "Just vun 0 bis 3 Joer – duerno ginn d'Elteren un d'Ënnerstëtzungsservicer vun der Schoul verwisen"
+   ]
+  },
+  {
+   "en": [
+    "They are asked to come back later, once the problem has become less serious",
+    "Its own doctors provide medical therapy and treatment on site",
+    "Nothing — the Eltereforum only organises social events and parties for parents"
+   ],
+   "fr": [
+    "On leur demande de revenir plus tard, quand le problème sera moins grave",
+    "Ses propres médecins proposent une thérapie et des soins sur place",
+    "Rien — l'Eltereforum organise seulement des rencontres festives pour les parents"
+   ],
+   "de": [
+    "Sie werden gebeten, später wiederzukommen, wenn das Problem weniger ernst ist",
+    "Seine eigenen Ärzte bieten vor Ort eine medizinische Therapie und Behandlung an",
+    "Nichts — das Eltereforum organisiert nur gesellige Treffen und Feste für Eltern"
+   ],
+   "lb": [
+    "Si gi gefrot, méi spéit erëmzekommen, wann de Problem manner eescht ass",
+    "Seng eegen Dokteren bidden op der Plaz eng medezinesch Therapie a Behandlung un",
+    "Näischt — den Eltereforum organiséiert just gesellesch Treffen a Fester fir Elteren"
+   ]
+  },
+  {
+   "en": [
+    "An online shop for children's clothes and toys, with discounts reserved for members of the forums",
+    "Only the phone number of the Ministry – the activities themselves are announced by post to each family",
+    "A social network reserved for teachers, where they discuss pupils' progress with each other"
+   ],
+   "fr": [
+    "Une boutique en ligne de vêtements et de jouets pour enfants, avec des réductions réservées aux membres des forums",
+    "Seulement le numéro de téléphone du ministère – les activités elles-mêmes sont annoncées par courrier à chaque famille",
+    "Un réseau social réservé aux enseignants, où ils discutent entre eux des progrès des élèves"
+   ],
+   "de": [
+    "Ein Online-Shop für Kinderkleidung und Spielzeug, mit Rabatten nur für Mitglieder der Foren",
+    "Nur die Telefonnummer des Ministeriums – die Aktivitäten selbst werden jeder Familie per Post angekündigt",
+    "Ein soziales Netzwerk nur für Lehrkräfte, in dem sie sich über die Fortschritte der Schüler austauschen"
+   ],
+   "lb": [
+    "En Online-Buttek fir Kannerkleeder a Spillsaachen, mat Reduktiounen nëmme fir Membere vun de Foren",
+    "Just d'Telefonsnummer vum Ministère – d'Aktivitéite selwer ginn all Famill per Post matgedeelt",
+    "E soziaalt Netzwierk just fir Enseignanten, wou si sech ënnerteneen iwwer d'Fortschrëtter vun de Schüler austauschen"
+   ]
+  }
+ ]
+}

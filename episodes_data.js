@@ -715,9 +715,9 @@ const EPISODES = [
     "text": "What is MyGuichet.lu?",
     "options": [
      "The official, secure online platform of the Luxembourg government – your single point of contact with the public administration",
-     "A paid subscription service for legal advice",
-     "A private online banking application",
-     "A social network for residents of Luxembourg"
+     "A paid subscription service run by a private company that gives legal advice on dealing with the Luxembourg administration",
+     "A private online banking application that lets residents pay their taxes and administrative fees from their smartphone",
+     "A social network where residents of Luxembourg share tips, questions and experiences about administrative procedures, moderated by volunteers"
     ],
     "correct": 0,
     "explanation": "MyGuichet.lu is the official, secure online platform of the Luxembourg State. It works like an online counter (“guichet”) where you can carry out administrative procedures from home instead of going to an office."
@@ -725,9 +725,9 @@ const EPISODES = [
    {
     "text": "Why is MyGuichet.lu described in the episode as an “online counter”?",
     "options": [
-     "Because you can count your documents there",
-     "Because it only works at the counter of an office",
-     "Because it is a banking application",
+     "Because it is where you count and sort your paper documents before you post them to the administration",
+     "Because it only works when you stand at the counter of an administration office and an agent logs you in",
+     "Because it is run by the banks, like an online bank counter, and it is only open during office hours on weekdays",
      "Because it is like the counter of an administration office — but online, open every day, at any hour, from home"
     ],
     "correct": 3,
@@ -737,9 +737,9 @@ const EPISODES = [
     "text": "What do you need in order to register on MyGuichet.lu?",
     "options": [
      "To be at least 16 years old and have your 13-digit national identification number (the “matricule”)",
-     "To be a Luxembourg citizen and pay a registration fee",
-     "A Luxembourg passport and a residence permit",
-     "Only an email address"
+     "To be a Luxembourg citizen, at least 18 years old, and pay a one-time registration fee at your commune's town hall",
+     "A Luxembourg passport and a valid residence permit, which you must show in person at the Guichet.lu office",
+     "Only an email address and a mobile phone number – no identification number or secure login is needed"
     ],
     "correct": 0,
     "explanation": "To register you must be at least 16, have your 13-digit matricule (on your social security card), an email address, a device, and a secure way to prove your identity online."
@@ -747,10 +747,10 @@ const EPISODES = [
    {
     "text": "Which secure logins can you use for MyGuichet.lu?",
     "options": [
-     "Just a username and password you choose yourself",
-     "A simple Google or Facebook account",
+     "Just a username and password that you choose yourself when you first create your account on the website",
+     "A Google, Apple or Facebook account, which MyGuichet.lu accepts as a secure login for all procedures",
      "A LuxTrust product, the Luxembourg eID card, or an eIDAS login from your own European country",
-     "Only a LuxTrust product"
+     "Only a LuxTrust product – the eID card and logins from other European countries are not accepted"
     ],
     "correct": 2,
     "explanation": "You need one secure login, but you have a choice: a LuxTrust product (such as LuxTrust Mobile), the Luxembourg electronic ID card, or an eIDAS login from another European country."
@@ -758,10 +758,10 @@ const EPISODES = [
    {
     "text": "What can you do in your personal eSpace on MyGuichet.lu?",
     "options": [
-     "Nothing – you still have to visit an office for everything",
+     "Nothing yet – the eSpace only shows general information, and you still have to visit an office for every request",
      "Follow the status of your requests, view your official data, receive documents and book appointments",
-     "Trade shares and cryptocurrencies",
-     "Only file your annual tax return"
+     "Trade shares, open savings accounts and pay your private bills, since the eSpace is linked to your bank",
+     "Only file your annual tax return – other procedures, documents and appointments are still handled by post"
     ],
     "correct": 1,
     "explanation": "In your eSpace you can follow your files, see the official data the State holds about you, receive official documents electronically, store documents, and book appointments with some administrations."
@@ -2384,9 +2384,9 @@ const EPISODES = [
     "text": "Qu'est-ce que MyGuichet.lu ?",
     "options": [
      "La plateforme en ligne officielle et sécurisée du gouvernement luxembourgeois – votre point de contact unique avec l'administration publique",
-     "Un service payant par abonnement pour des conseils juridiques",
-     "Une application privée de banque en ligne",
-     "Un réseau social pour les résidents du Luxembourg"
+     "Un service payant, géré par une entreprise privée, qui donne des conseils juridiques pour les démarches avec l'administration luxembourgeoise",
+     "Une application bancaire privée qui permet aux résidents de payer leurs impôts et leurs frais administratifs depuis leur smartphone",
+     "Un réseau social où les résidents du Luxembourg échangent des conseils, des questions et des expériences sur les démarches administratives, modéré par des bénévoles"
     ],
     "correct": 0,
     "explanation": "MyGuichet.lu est la plateforme en ligne officielle et sécurisée de l'État luxembourgeois. Elle fonctionne comme un guichet en ligne où vous pouvez effectuer vos démarches administratives depuis chez vous, au lieu d'aller dans un bureau."
@@ -2394,9 +2394,9 @@ const EPISODES = [
    {
     "text": "Pourquoi MyGuichet.lu est-il décrit dans l'épisode comme un « guichet en ligne » ?",
     "options": [
-     "Parce qu'on peut y compter ses documents",
-     "Parce qu'il ne fonctionne qu'au guichet d'un bureau",
-     "Parce que c'est une application bancaire",
+     "Parce que c'est là qu'on compte et qu'on trie ses documents papier avant de les envoyer par la poste à l'administration",
+     "Parce qu'il ne fonctionne que si vous êtes au guichet d'un bureau administratif et qu'un agent vous connecte",
+     "Parce qu'il est géré par les banques, comme un guichet bancaire en ligne, et qu'il n'est ouvert qu'aux heures de bureau, du lundi au vendredi",
      "Parce que c'est comme le guichet d'un bureau administratif — mais en ligne, ouvert tous les jours, à toute heure, depuis chez vous"
     ],
     "correct": 3,
@@ -2406,9 +2406,9 @@ const EPISODES = [
     "text": "De quoi avez-vous besoin pour vous inscrire sur MyGuichet.lu ?",
     "options": [
      "Avoir au moins 16 ans et posséder votre numéro d'identification national à 13 chiffres (le « matricule »)",
-     "Être citoyen luxembourgeois et payer des frais d'inscription",
-     "Un passeport luxembourgeois et un titre de séjour",
-     "Seulement une adresse e-mail"
+     "Être citoyen luxembourgeois, avoir au moins 18 ans et payer des frais d'inscription uniques à la maison communale",
+     "Un passeport luxembourgeois et un titre de séjour valable, à présenter en personne au bureau de Guichet.lu",
+     "Seulement une adresse e-mail et un numéro de portable – aucun numéro d'identification ni connexion sécurisée n'est nécessaire"
     ],
     "correct": 0,
     "explanation": "Pour vous inscrire, vous devez avoir au moins 16 ans, posséder votre matricule à 13 chiffres (sur votre carte de sécurité sociale), une adresse e-mail, un appareil, et un moyen sécurisé de prouver votre identité en ligne."
@@ -2416,10 +2416,10 @@ const EPISODES = [
    {
     "text": "Quels moyens de connexion sécurisés pouvez-vous utiliser pour MyGuichet.lu ?",
     "options": [
-     "Juste un nom d'utilisateur et un mot de passe que vous choisissez vous-même",
-     "Un simple compte Google ou Facebook",
+     "Seulement un identifiant et un mot de passe que vous choisissez vous-même en créant votre compte sur le site",
+     "Un compte Google, Apple ou Facebook, que MyGuichet.lu accepte comme connexion sécurisée pour toutes les démarches administratives",
      "Un produit LuxTrust, la carte d'identité électronique luxembourgeoise, ou un identifiant eIDAS de votre propre pays européen",
-     "Uniquement un produit LuxTrust"
+     "Uniquement un produit LuxTrust – la carte eID et les connexions d'autres pays européens ne sont pas acceptées"
     ],
     "correct": 2,
     "explanation": "Il vous faut un moyen de connexion sécurisé, mais vous avez le choix : un produit LuxTrust (comme LuxTrust Mobile), la carte d'identité électronique luxembourgeoise, ou un identifiant eIDAS d'un autre pays européen."
@@ -2427,10 +2427,10 @@ const EPISODES = [
    {
     "text": "Que pouvez-vous faire dans votre eSpace personnel sur MyGuichet.lu ?",
     "options": [
-     "Rien – vous devez quand même aller au bureau pour tout",
+     "Rien pour l'instant – l'eSpace n'affiche que des informations générales, et il faut toujours aller au bureau pour chaque demande",
      "Suivre l'état de vos demandes, consulter vos données officielles, recevoir des documents et prendre des rendez-vous",
-     "Acheter des actions et des cryptomonnaies",
-     "Uniquement faire votre déclaration d'impôts annuelle"
+     "Acheter des actions, ouvrir des comptes d'épargne et payer vos factures privées, car l'eSpace est relié à votre banque",
+     "Seulement déposer votre déclaration d'impôt annuelle – les autres démarches, documents et rendez-vous passent toujours par la poste"
     ],
     "correct": 1,
     "explanation": "Dans votre eSpace, vous pouvez suivre vos dossiers, consulter les données officielles que l'État possède sur vous, recevoir des documents officiels par voie électronique, conserver des documents, et prendre des rendez-vous avec certaines administrations."
@@ -2453,9 +2453,9 @@ const EPISODES = [
     "text": "Was ist MyGuichet.lu?",
     "options": [
      "Die offizielle, sichere Online-Plattform der luxemburgischen Regierung – Ihre zentrale Anlaufstelle bei der öffentlichen Verwaltung",
-     "Ein kostenpflichtiger Abo-Dienst für Rechtsberatung",
-     "Eine private Online-Banking-Anwendung",
-     "Ein soziales Netzwerk für Einwohner Luxemburgs"
+     "Ein kostenpflichtiger Dienst eines privaten Unternehmens, der Rechtsberatung für den Umgang mit der luxemburgischen Verwaltung anbietet",
+     "Eine private Banking-App, mit der Einwohner ihre Steuern und Verwaltungsgebühren über ihr Smartphone bezahlen können",
+     "Ein soziales Netzwerk, in dem Einwohner Luxemburgs Tipps, Fragen und Erfahrungen zu Verwaltungsverfahren austauschen, moderiert von Freiwilligen"
     ],
     "correct": 0,
     "explanation": "MyGuichet.lu ist die offizielle, sichere Online-Plattform des luxemburgischen Staates. Sie funktioniert wie ein Online-Schalter („guichet“), an dem Sie Verwaltungsverfahren von zu Hause aus erledigen können, anstatt zu einem Amt zu gehen."
@@ -2463,9 +2463,9 @@ const EPISODES = [
    {
     "text": "Warum wird MyGuichet.lu in der Folge als „Online-Schalter“ beschrieben?",
     "options": [
-     "Weil man dort seine Dokumente zählen kann",
-     "Weil es nur am Schalter eines Amtes funktioniert",
-     "Weil es eine Banking-Anwendung ist",
+     "Weil man dort seine Papierdokumente zählt und sortiert, bevor man sie per Post an die Verwaltung schickt",
+     "Weil es nur funktioniert, wenn man am Schalter eines Verwaltungsbüros steht und ein Mitarbeiter einen anmeldet",
+     "Weil es von den Banken betrieben wird, wie ein Online-Bankschalter, und nur werktags zu den Bürozeiten geöffnet ist",
      "Weil es wie der Schalter eines Amtes ist — aber online, jeden Tag geöffnet, zu jeder Stunde, von zu Hause aus"
     ],
     "correct": 3,
@@ -2475,9 +2475,9 @@ const EPISODES = [
     "text": "Was brauchen Sie, um sich bei MyGuichet.lu zu registrieren?",
     "options": [
      "Mindestens 16 Jahre alt sein und Ihre 13-stellige nationale Identifikationsnummer (das „Matricule“) haben",
-     "Luxemburgischer Staatsbürger sein und eine Registrierungsgebühr zahlen",
-     "Einen luxemburgischen Reisepass und einen Aufenthaltstitel",
-     "Nur eine E-Mail-Adresse"
+     "Luxemburgischer Staatsbürger sein, mindestens 18 Jahre alt sein und im Rathaus Ihrer Gemeinde eine einmalige Anmeldegebühr zahlen",
+     "Einen luxemburgischen Reisepass und einen gültigen Aufenthaltstitel, die Sie persönlich im Büro von Guichet.lu vorzeigen müssen",
+     "Nur eine E-Mail-Adresse und eine Handynummer – eine Identifikationsnummer oder ein sicherer Login ist nicht nötig"
     ],
     "correct": 0,
     "explanation": "Um sich zu registrieren, müssen Sie mindestens 16 Jahre alt sein und Ihr 13-stelliges Matricule (auf Ihrer Sozialversicherungskarte), eine E-Mail-Adresse, ein Gerät und eine sichere Möglichkeit haben, Ihre Identität online nachzuweisen."
@@ -2485,10 +2485,10 @@ const EPISODES = [
    {
     "text": "Welche sicheren Anmeldemöglichkeiten können Sie für MyGuichet.lu nutzen?",
     "options": [
-     "Nur einen selbst gewählten Benutzernamen und ein Passwort",
-     "Ein einfaches Google- oder Facebook-Konto",
+     "Nur ein Benutzername und ein Passwort, die Sie selbst wählen, wenn Sie Ihr Konto auf der Website anlegen",
+     "Ein Google-, Apple- oder Facebook-Konto, das MyGuichet.lu als sicheren Login für alle Verfahren akzeptiert",
      "Ein LuxTrust-Produkt, den luxemburgischen eID-Ausweis, oder eine eIDAS-Anmeldung aus Ihrem eigenen europäischen Land",
-     "Nur ein LuxTrust-Produkt"
+     "Nur ein LuxTrust-Produkt – der eID-Ausweis und Logins aus anderen europäischen Ländern werden grundsätzlich nicht akzeptiert"
     ],
     "correct": 2,
     "explanation": "Sie brauchen eine sichere Anmeldung, aber Sie haben die Wahl: ein LuxTrust-Produkt (wie LuxTrust Mobile), den luxemburgischen elektronischen Personalausweis, oder eine eIDAS-Anmeldung aus einem anderen europäischen Land."
@@ -2496,10 +2496,10 @@ const EPISODES = [
    {
     "text": "Was können Sie in Ihrem persönlichen eSpace auf MyGuichet.lu tun?",
     "options": [
-     "Nichts – Sie müssen für alles weiterhin ein Amt aufsuchen",
+     "Noch nichts – der eSpace zeigt nur allgemeine Informationen, und für jeden Antrag müssen Sie weiterhin ins Büro gehen",
      "Den Status Ihrer Anträge verfolgen, Ihre offiziellen Daten einsehen, Dokumente empfangen und Termine buchen",
-     "Aktien und Kryptowährungen handeln",
-     "Nur Ihre jährliche Steuererklärung einreichen"
+     "Aktien handeln, Sparkonten eröffnen und private Rechnungen bezahlen, da der eSpace mit Ihrer Bank verbunden ist",
+     "Nur Ihre jährliche Steuererklärung abgeben – andere Verfahren, Dokumente und Termine laufen weiterhin per Post"
     ],
     "correct": 1,
     "explanation": "In Ihrem eSpace können Sie Ihre Dossiers verfolgen, die offiziellen Daten sehen, die der Staat über Sie hat, offizielle Dokumente elektronisch empfangen, Dokumente speichern und bei einigen Verwaltungen Termine buchen."
@@ -2522,9 +2522,9 @@ const EPISODES = [
     "text": "Wat ass MyGuichet.lu?",
     "options": [
      "Déi offiziell, sécher Online-Plattform vun der Lëtzebuerger Regierung – Är eenzeg Kontaktplaz mat der ëffentlecher Administratioun",
-     "E bezuelten Abonnement fir juristesch Berodung",
-     "Eng privat Online-Banking-App",
-     "E sozialt Netzwierk fir d'Awunner vu Lëtzebuerg"
+     "E bezuelte Service vun enger privater Firma, deen Iech juristesch beréit, wann Dir mat der lëtzebuergescher Administratioun ze dinn hutt",
+     "Eng privat Banken-App, mat där d'Awunner hir Steieren an administrativ Fraisen iwwer hire Smartphone bezuele kënnen",
+     "E soziaalt Netzwierk, wou d'Awunner vu Lëtzebuerg Tipps, Froen an Erfarunge mat administrativen Demarchen austauschen, moderéiert vu Fräiwëllegen"
     ],
     "correct": 0,
     "explanation": "MyGuichet.lu ass déi offiziell, sécher Online-Plattform vum Lëtzebuerger Staat. Si funktionéiert wéi en Online-Guichet, wou Dir administrativ Prozedure vun doheem aus maache kënnt, amplaz an e Büro ze goen."
@@ -2532,9 +2532,9 @@ const EPISODES = [
    {
     "text": "Firwat gëtt MyGuichet.lu an der Episod als en \"Online-Guichet\" beschriwwen?",
     "options": [
-     "Well Dir do Är Dokumenter ziele kënnt",
-     "Well et nëmmen um Guichet vun engem Büro funktionéiert",
-     "Well et eng Banking-App ass",
+     "Well een do seng Pabeierdokumenter zielt a sortéiert, ier een se mat der Post un d'Administratioun schéckt",
+     "Well et nëmme funktionéiert, wann Dir um Guichet vun engem Büro steet an en Agent Iech aloggt",
+     "Well et vun de Banke geréiert gëtt, wéi e Bankguichet online, an nëmmen an der Woch während de Büroszäiten op ass",
      "Well et wéi de Guichet vun engem Administratiounsbüro ass — mä online, all Dag op, zu all Stonn, vun doheem aus"
     ],
     "correct": 3,
@@ -2544,9 +2544,9 @@ const EPISODES = [
     "text": "Wat braucht Dir, fir Iech op MyGuichet.lu anzeschreiwen?",
     "options": [
      "Op d'mannst 16 Joer al sinn an Är national Identifikatiounsnummer mat 13 Zifferen (de \"Matricule\") hunn",
-     "Lëtzebuerger Nationalitéit hunn an eng Aschreiwungstax bezuelen",
-     "E Lëtzebuerger Pass an en Openthaltstitel",
-     "Nëmmen eng E-Mail-Adress"
+     "Lëtzebuerger Bierger sinn, op d'mannst 18 Joer al sinn an eng eemoleg Aschreiwungsgebühr op der Gemeng bezuelen",
+     "E lëtzebuergesche Pass an eng gëlteg Openthaltserlaabnes, déi Dir perséinlech am Büro vu Guichet.lu weise musst",
+     "Just eng E-Mail-Adress an eng Handysnummer – keng Identifikatiounsnummer a kee séchere Login ass néideg"
     ],
     "correct": 0,
     "explanation": "Fir Iech anzeschreiwen, musst Dir op d'mannst 16 Joer al sinn, Äre Matricule mat 13 Zifferen hunn (op Ärer Sozialversécherungskaart), eng E-Mail-Adress, en Apparat, an e séchere Wee, fir Är Identitéit online ze beweisen."
@@ -2554,10 +2554,10 @@ const EPISODES = [
    {
     "text": "Wéi eng sécher Logine kënnt Dir fir MyGuichet.lu benotzen?",
     "options": [
-     "Just e Benotzernumm an e Passwuert, déi Dir selwer wielt",
-     "En einfache Google- oder Facebook-Kont",
+     "Just e Benotzernumm an e Passwuert, déi Dir selwer auswielt, wann Dir Äre Kont op der Websäit opmaacht",
+     "E Google-, Apple- oder Facebook-Kont, deen MyGuichet.lu als séchere Login fir all Demarchen akzeptéiert",
      "E LuxTrust-Produkt, déi Lëtzebuerger eID-Kaart, oder en eIDAS-Login aus Ärem eegenen europäesche Land",
-     "Nëmmen e LuxTrust-Produkt"
+     "Just e LuxTrust-Produkt – d'eID-Kaart an d'Logins aus anere europäesche Länner ginn net akzeptéiert"
     ],
     "correct": 2,
     "explanation": "Dir braucht ee séchere Login, mä Dir hutt eng Wiel: e LuxTrust-Produkt (wéi LuxTrust Mobile), déi Lëtzebuerger elektronesch Identitéitskaart, oder en eIDAS-Login aus engem aneren europäesche Land."
@@ -2565,10 +2565,10 @@ const EPISODES = [
    {
     "text": "Wat kënnt Dir an Ärem perséinlechen eSpace op MyGuichet.lu maachen?",
     "options": [
-     "Näischt – Dir musst fir alles nach ëmmer an e Büro goen",
+     "Nach näischt – den eSpace weist just allgemeng Informatiounen, an Dir musst fir all Ufro ëmmer nach op e Büro goen",
      "De Status vun Ären Ufroe verfollegen, Är offiziell Donnéeë gesinn, Dokumenter kréien a Rendez-vouse buchen",
-     "Aktien a Kryptowärungen handelen",
-     "Nëmmen Är alljäerlech Steiererklärung maachen"
+     "Aktien handelen, Spuerkonten opmaachen a privat Rechnunge bezuelen, well den eSpace mat Ärer Bank verbonnen ass",
+     "Just Är jäerlech Steiererklärung maachen – aner Demarchen, Dokumenter a Rendez-vousen lafen ëmmer nach iwwer d'Post"
     ],
     "correct": 1,
     "explanation": "An Ärem eSpace kënnt Dir Är Dossiere verfollegen, déi offiziell Donnéeë gesinn, déi de Staat iwwer Iech huet, offiziell Dokumenter elektronesch kréien, Dokumenter späicheren, a Rendez-vouse mat verschiddenen Administratioune buchen."
@@ -3392,10 +3392,10 @@ const EPISODES = [
    {
     "text": "How is a volunteer defined in the episode?",
     "options": [
-     "A paid part-time worker for a charity",
+     "A paid part-time worker who is employed by a charity or association and receives a small salary for their time",
      "Someone who, of their own free will and without being paid, does something in the service of others or of the community",
-     "A government employee",
-     "Someone required to help by a court order"
+     "A government employee who is asked by the State to help in communes, schools and hospitals as part of their job",
+     "Someone who is required to help the community, for example by a court order or as a condition for receiving benefits"
     ],
     "correct": 1,
     "explanation": "A volunteer gives the time they want – a little, a lot, or passionately – of their own free will and without being paid, in the service of others or of the community."
@@ -3403,10 +3403,10 @@ const EPISODES = [
    {
     "text": "In 2022, roughly what share of Luxembourg’s population did some volunteering?",
     "options": [
-     "About 5%",
-     "About 70%",
+     "About 5% – one person in twenty, placing Luxembourg near the bottom in Europe",
+     "About 70% – more than two people in three, the highest share in the whole of Europe",
      "About 35% – more than one person in three, placing Luxembourg fourth in Europe",
-     "About 10%"
+     "About 10% – one person in ten, roughly the European average at that time"
     ],
     "correct": 2,
     "explanation": "In 2022 about 35% of the population volunteered – more than one in three – which put Luxembourg fourth in all of Europe. There is even a Volunteering Day every 5 December."
@@ -3415,9 +3415,9 @@ const EPISODES = [
     "text": "What is the central organisation and website for volunteering in Luxembourg?",
     "options": [
      "The Agence du Bénévolat, with its website benevolat.lu",
-     "The commune’s town hall only",
-     "The ADEM, on adem.lu",
-     "The Ministry of Finance"
+     "The town hall of each commune, with no central website",
+     "ADEM, the employment agency, with its website adem.lu",
+     "The Ministry of Finance, through the MyGuichet.lu portal"
     ],
     "correct": 0,
     "explanation": "The Agence du Bénévolat promotes volunteering since 2002. Its website benevolat.lu is a meeting point where associations looking for help and people who want to give time find each other."
@@ -3425,10 +3425,10 @@ const EPISODES = [
    {
     "text": "Do you need a long-term commitment to volunteer?",
     "options": [
-     "Only full weekends for a whole year",
+     "Yes – you must commit to full weekends for a whole year, because associations need to plan their teams",
      "No – you give the time you want, and many missions are one-time or short (an afternoon, a day, an event)",
-     "Yes, at least one year",
-     "Yes, at least three months"
+     "Yes, at least one year – short missions of an afternoon or a day are not counted as volunteering",
+     "Yes, at least three months, with a signed contract and a fixed number of hours every single week"
     ],
     "correct": 1,
     "explanation": "You do not need a long commitment. Many missions on benevolat.lu are for a single event or a single day – helping at a gala, marshalling a race, manning a barbecue – so anyone with a busy life can take part."
@@ -3436,9 +3436,9 @@ const EPISODES = [
    {
     "text": "What simple method does the episode suggest for getting started as a volunteer?",
     "options": [
-     "Sign a one-year contract with an association first",
-     "Wait until an organisation contacts you by post",
-     "Apply for a paid position at the Agence du Bénévolat",
+     "Sign a one-year contract with an association first, then wait to be told which mission you will do",
+     "Wait until an organisation contacts you by post, since volunteers are chosen from the national register",
+     "Apply for a paid position at the Agence du Bénévolat and follow its training before helping anywhere",
      "Think about what you enjoy, register for free on benevolat.lu, and offer your help for a mission you like"
     ],
     "correct": 3,
@@ -5274,10 +5274,10 @@ const EPISODES = [
    {
     "text": "Comment un bénévole est-il défini dans l'épisode ?",
     "options": [
-     "Un travailleur à temps partiel rémunéré par une association caritative",
+     "Un travailleur à temps partiel employé par une œuvre caritative ou une association, qui reçoit un petit salaire pour son temps",
      "Une personne qui, de son plein gré et sans être payée, fait quelque chose au service des autres ou de la communauté",
-     "Un employé de l'État",
-     "Une personne obligée d'aider par décision de justice"
+     "Un fonctionnaire à qui l'État demande d'aider dans les communes, les écoles et les hôpitaux dans le cadre de son travail",
+     "Quelqu'un qui est obligé d'aider la communauté, par exemple sur décision d'un tribunal ou comme condition pour toucher des aides"
     ],
     "correct": 1,
     "explanation": "Un bénévole donne le temps qu'il veut – un peu, beaucoup, ou passionnément – de son plein gré et sans être payé, au service des autres ou de la communauté."
@@ -5285,10 +5285,10 @@ const EPISODES = [
    {
     "text": "En 2022, quelle part environ de la population luxembourgeoise a fait du bénévolat ?",
     "options": [
-     "Environ 5 %",
-     "Environ 70 %",
+     "Environ 5 % – à peine une personne sur vingt, ce qui place le Luxembourg parmi les derniers pays d'Europe",
+     "Environ 70 % – plus de deux personnes sur trois, la part la plus élevée de toute l'Europe",
      "Environ 35 % – plus d'une personne sur trois, plaçant le Luxembourg au quatrième rang en Europe",
-     "Environ 10 %"
+     "Environ 10 % – une personne sur dix, à peu près la moyenne européenne à ce moment-là"
     ],
     "correct": 2,
     "explanation": "En 2022, environ 35 % de la population a fait du bénévolat – plus d'une personne sur trois – ce qui place le Luxembourg au quatrième rang de toute l'Europe. Il existe même une Journée du bénévolat chaque 5 décembre."
@@ -5297,9 +5297,9 @@ const EPISODES = [
     "text": "Quels sont l'organisation centrale et le site internet du bénévolat au Luxembourg ?",
     "options": [
      "L'Agence du Bénévolat, avec son site benevolat.lu",
-     "Uniquement la mairie de la commune",
-     "L'ADEM, sur adem.lu",
-     "Le ministère des Finances"
+     "La maison communale de chaque commune, sans site central",
+     "L'ADEM, l'agence pour l'emploi, avec son site adem.lu",
+     "Le ministère des Finances, via le portail MyGuichet.lu"
     ],
     "correct": 0,
     "explanation": "L'Agence du Bénévolat promeut le bénévolat depuis 2002. Son site benevolat.lu est un point de rencontre où les associations qui cherchent de l'aide et les personnes qui veulent donner du temps se trouvent."
@@ -5307,10 +5307,10 @@ const EPISODES = [
    {
     "text": "Faut-il un engagement à long terme pour faire du bénévolat ?",
     "options": [
-     "Uniquement des week-ends complets pendant toute une année",
+     "Oui – il faut s'engager des week-ends entiers pendant toute une année, car les associations doivent planifier leurs équipes longtemps à l'avance",
      "Non – vous donnez le temps que vous voulez, et beaucoup de missions sont ponctuelles ou courtes (un après-midi, une journée, un événement)",
-     "Oui, au moins un an",
-     "Oui, au moins trois mois"
+     "Oui, au moins un an – les missions courtes d'un après-midi ou d'une journée ne comptent pas comme du bénévolat",
+     "Oui, au moins trois mois, avec un contrat signé et un nombre d'heures fixe chaque semaine"
     ],
     "correct": 1,
     "explanation": "Vous n'avez pas besoin d'un engagement long. Beaucoup de missions sur benevolat.lu concernent un seul événement ou une seule journée – aider à un gala, être signaleur pour une course, tenir un barbecue – donc toute personne avec une vie bien remplie peut participer."
@@ -5318,9 +5318,9 @@ const EPISODES = [
    {
     "text": "Quelle méthode simple l'épisode propose-t-il pour commencer le bénévolat ?",
     "options": [
-     "Signer d'abord un contrat d'un an avec une association",
-     "Attendre qu'une organisation vous contacte par courrier",
-     "Postuler à un emploi rémunéré à l'Agence du Bénévolat",
+     "Signer d'abord un contrat d'un an avec une association, puis attendre qu'on vous dise quelle mission vous ferez",
+     "Attendre qu'une organisation vous contacte par courrier, car les bénévoles sont choisis au hasard dans le registre national des résidents",
+     "Postuler à un poste rémunéré à l'Agence du Bénévolat et suivre sa formation avant d'aider où que ce soit",
      "Réfléchir à ce que vous aimez, vous inscrire gratuitement sur benevolat.lu, et proposer votre aide pour une mission qui vous plaît"
     ],
     "correct": 3,
@@ -5345,10 +5345,10 @@ const EPISODES = [
    {
     "text": "Wie wird ein Freiwilliger in der Folge definiert?",
     "options": [
-     "Ein bezahlter Teilzeitmitarbeiter einer Wohltätigkeitsorganisation",
+     "Eine bezahlte Teilzeitkraft, die bei einer Hilfsorganisation oder einem Verein angestellt ist und ein kleines Gehalt bekommt",
      "Jemand, der aus freiem Willen und ohne bezahlt zu werden etwas im Dienst anderer oder der Gemeinschaft tut",
-     "Ein Angestellter der Regierung",
-     "Jemand, der per Gerichtsbeschluss helfen muss"
+     "Ein Staatsbeamter, der im Rahmen seiner Arbeit vom Staat gebeten wird, in Gemeinden, Schulen und Krankenhäusern zu helfen",
+     "Jemand, der der Gemeinschaft helfen muss, zum Beispiel auf gerichtliche Anordnung oder als Bedingung für staatliche Leistungen"
     ],
     "correct": 1,
     "explanation": "Ein Freiwilliger gibt die Zeit, die er möchte – ein wenig, viel, oder mit Leidenschaft – aus freiem Willen und ohne bezahlt zu werden, im Dienst anderer oder der Gemeinschaft."
@@ -5356,10 +5356,10 @@ const EPISODES = [
    {
     "text": "Welcher Anteil der luxemburgischen Bevölkerung hat 2022 ungefähr Freiwilligenarbeit geleistet?",
     "options": [
-     "Etwa 5 %",
-     "Etwa 70 %",
+     "Etwa 5 % – jeder Zwanzigste, womit Luxemburg zu den Schlusslichtern in Europa gehört",
+     "Etwa 70 % – mehr als zwei von drei Menschen, der höchste Anteil in ganz Europa",
      "Etwa 35 % – mehr als jeder Dritte, was Luxemburg auf Platz vier in Europa bringt",
-     "Etwa 10 %"
+     "Etwa 10 % – jeder Zehnte, ungefähr der europäische Durchschnitt zu dieser Zeit"
     ],
     "correct": 2,
     "explanation": "2022 haben etwa 35 % der Bevölkerung Freiwilligenarbeit geleistet – mehr als jeder Dritte – was Luxemburg auf Platz vier in ganz Europa brachte. Es gibt sogar jedes Jahr am 5. Dezember einen Tag des Ehrenamts."
@@ -5368,9 +5368,9 @@ const EPISODES = [
     "text": "Was ist die zentrale Organisation und Website für Freiwilligenarbeit in Luxemburg?",
     "options": [
      "Die Agence du Bénévolat, mit ihrer Website benevolat.lu",
-     "Nur das Rathaus der Gemeinde",
-     "Die ADEM, auf adem.lu",
-     "Das Finanzministerium"
+     "Das Rathaus jeder Gemeinde, ohne zentrale Website",
+     "Die ADEM, die Arbeitsagentur, mit ihrer Website adem.lu",
+     "Das Finanzministerium, über das Portal MyGuichet.lu"
     ],
     "correct": 0,
     "explanation": "Die Agence du Bénévolat fördert die Freiwilligenarbeit seit 2002. Ihre Website benevolat.lu ist ein Treffpunkt, an dem Vereine, die Hilfe suchen, und Menschen, die Zeit geben möchten, zueinanderfinden."
@@ -5378,10 +5378,10 @@ const EPISODES = [
    {
     "text": "Brauchen Sie eine langfristige Verpflichtung, um sich freiwillig zu engagieren?",
     "options": [
-     "Nur ganze Wochenenden, ein ganzes Jahr lang",
+     "Ja – Sie müssen sich ein ganzes Jahr lang für ganze Wochenenden verpflichten, weil die Vereine ihre Teams lange im Voraus planen müssen",
      "Nein – Sie geben die Zeit, die Sie möchten, und viele Einsätze sind einmalig oder kurz (ein Nachmittag, ein Tag, eine Veranstaltung)",
-     "Ja, mindestens ein Jahr",
-     "Ja, mindestens drei Monate"
+     "Ja, mindestens ein Jahr – kurze Einsätze von einem Nachmittag oder einem Tag gelten nicht als Freiwilligenarbeit",
+     "Ja, mindestens drei Monate, mit einem unterschriebenen Vertrag und einer festen Stundenzahl jede Woche"
     ],
     "correct": 1,
     "explanation": "Sie brauchen keine langfristige Verpflichtung. Viele Einsätze auf benevolat.lu gelten für eine einzige Veranstaltung oder einen einzigen Tag – bei einer Gala helfen, Streckenposten bei einem Rennen sein, den Grill übernehmen – so kann jeder mit einem vollen Alltag mitmachen."
@@ -5389,9 +5389,9 @@ const EPISODES = [
    {
     "text": "Welche einfache Methode schlägt die Folge vor, um als Freiwilliger anzufangen?",
     "options": [
-     "Zuerst einen Einjahresvertrag mit einem Verein unterschreiben",
-     "Warten, bis eine Organisation Sie per Post kontaktiert",
-     "Sich auf eine bezahlte Stelle bei der Agence du Bénévolat bewerben",
+     "Zuerst einen Einjahresvertrag mit einem Verein unterschreiben und dann warten, welcher Einsatz Ihnen zugeteilt wird",
+     "Warten, bis eine Organisation Sie per Post kontaktiert, da Freiwillige aus dem nationalen Register ausgewählt werden",
+     "Sich auf eine bezahlte Stelle bei der Agence du Bénévolat bewerben und deren mehrwöchige Schulung machen, bevor Sie irgendwo helfen dürfen",
      "Überlegen, was Ihnen Freude macht, sich kostenlos auf benevolat.lu registrieren, und Ihre Hilfe für einen Einsatz anbieten, der Ihnen gefällt"
     ],
     "correct": 3,
@@ -5417,10 +5417,10 @@ const EPISODES = [
    {
     "text": "Wéi gëtt e Benevole an der Episod definéiert?",
     "options": [
-     "E bezuelten Deelzäit-Mataarbechter vun enger Charity",
+     "Eng bezuelten Hallefzäitkraaft, déi bei enger karitativer Organisatioun oder engem Veräin ugestallt ass an e klenge Loun kritt",
      "Een, deen aus fräie Stécker an ouni bezuelt ze ginn eppes am Déngscht vun aneren oder vun der Gemeinschaft mécht",
-     "E Staatsbeamten",
-     "Een, dee vun engem Geriicht verflicht gëtt ze hëllefen"
+     "E Staatsbeamten, deen am Kader vu senger Aarbecht vum Staat gefrot gëtt, an de Gemengen, Schoulen a Spideeler ze hëllefen",
+     "Een, deen der Gemeinschaft muss hëllefen, zum Beispill op Uerder vun engem Geriicht oder als Konditioun fir Hëllefen ze kréien"
     ],
     "correct": 1,
     "explanation": "E Benevole gëtt d'Zäit, déi e wëllt – e bëssen, vill, oder mat Passioun – aus fräie Stécker an ouni bezuelt ze ginn, am Déngscht vun aneren oder vun der Gemeinschaft."
@@ -5428,10 +5428,10 @@ const EPISODES = [
    {
     "text": "Am Joer 2022, wéi e groussen Undeel vun der Lëtzebuerger Bevëlkerung huet ongeféier Benevolat gemaach?",
     "options": [
-     "Ongeféier 5%",
-     "Ongeféier 70%",
+     "Ongeféier 5 % – eng Persoun vun zwanzeg, domat ass Lëtzebuerg bei de Leschten an Europa",
+     "Ongeféier 70 % – méi wéi zwou Persoune vun dräi, den héchsten Undeel an ganz Europa",
      "Ongeféier 35% – méi wéi eng Persoun op dräi, wat Lëtzebuerg op déi véiert Plaz an Europa setzt",
-     "Ongeféier 10%"
+     "Ongeféier 10 % – eng Persoun vun zéng, ongeféier den europäeschen Duerchschnëtt zu där Zäit"
     ],
     "correct": 2,
     "explanation": "Am Joer 2022 hunn ongeféier 35% vun der Bevëlkerung Benevolat gemaach – méi wéi eng Persoun op dräi – wat Lëtzebuerg op déi véiert Plaz a ganz Europa gesat huet. Et gëtt souguer all 5. Dezember en Dag vum Benevolat."
@@ -5440,9 +5440,9 @@ const EPISODES = [
     "text": "Wat ass déi zentral Organisatioun a Websäit fir de Benevolat zu Lëtzebuerg?",
     "options": [
      "D'Agence du Bénévolat, mat hirer Websäit benevolat.lu",
-     "Nëmmen d'Gemengenhaus vun der Gemeng",
-     "D'ADEM, op adem.lu",
-     "De Finanzministère"
+     "D'Gemengenhaus vun all Gemeng, ouni zentral Websäit",
+     "D'ADEM, d'Aarbechtsagence, mat hirer Websäit adem.lu",
+     "De Finanzministère, iwwer de Portal MyGuichet.lu"
     ],
     "correct": 0,
     "explanation": "D'Agence du Bénévolat promouvéiert de Benevolat zanter 2002. Hir Websäit benevolat.lu ass eng Treffplaz, wou Associatiounen, déi Hëllef sichen, a Leit, déi Zäit gi wëllen, sech fannen."
@@ -5450,10 +5450,10 @@ const EPISODES = [
    {
     "text": "Braucht Dir e laangfristegt Engagement, fir Benevolat ze maachen?",
     "options": [
-     "Nëmme ganz Weekender, e ganzt Joer laang",
+     "Jo – Dir musst Iech e ganzt Joer fir ganz Weekender engagéieren, well d'Veräiner hir Ekippe laang am Viraus musse plangen",
      "Nee – Dir gitt d'Zäit, déi Dir wëllt, a vill Missioune sinn eemoleg oder kuerz (een Nomëtteg, een Dag, een Evenement)",
-     "Jo, op d'mannst ee Joer",
-     "Jo, op d'mannst dräi Méint"
+     "Jo, op d'mannst ee Joer – kuerz Missioune vun engem Nomëtteg oder engem Dag zielen net als Benevolat",
+     "Jo, op d'mannst dräi Méint, mat engem ënnerschriwwene Kontrakt an enger fixer Zuel u Stonnen all Woch"
     ],
     "correct": 1,
     "explanation": "Dir braucht kee laangt Engagement. Vill Missiounen op benevolat.lu si fir een eenzegt Evenement oder een eenzegen Dag – bei engem Gala hëllefen, Commissaire bei engem Rennen sinn, de Grill bedéngen – sou datt jiddereen mat engem voller Alldag ka matmaachen."
@@ -5461,9 +5461,9 @@ const EPISODES = [
    {
     "text": "Wéi eng einfach Method proposéiert d'Episod, fir als Benevole unzefänken?",
     "options": [
-     "Fir d'éischt e Kontrakt vun engem Joer mat enger Associatioun ënnerschreiwen",
-     "Waarden, bis eng Organisatioun Iech mat der Post kontaktéiert",
-     "Iech op eng bezuelte Plaz bei der Agence du Bénévolat mellen",
+     "Fir d'éischt e Kontrakt vun engem Joer mat engem Veräin ënnerschreiwen, an dann ofwaarden, wéi eng Missioun Dir kritt",
+     "Waarden, bis eng Organisatioun Iech per Post kontaktéiert, well d'Fräiwëlleg aus dem nationale Register ausgewielt ginn",
+     "Sech fir eng bezuelte Plaz bei der Agence du Bénévolat mellen an hir Formatioun vu puer Wochen maachen, ier Dir iergendwou hëllefe kënnt",
      "Iwwerleeën, wat Iech Freed mécht, Iech gratis op benevolat.lu umellen, an Är Hëllef fir eng Missioun ubidden, déi Iech gefält"
     ],
     "correct": 3,
@@ -6145,10 +6145,10 @@ const EPISODES = [
    {
     "text": "What is the Eltereforum?",
     "options": [
-     "An online shop for baby products",
-     "A school for children",
+     "An online shop for baby products, run by the State, where parents can buy equipment at lower prices",
+     "A school for children aged 3 to 12, where parents can also attend lessons in the evening",
      "A “parents’ forum” – a welcoming place for discussion, information and support for all parents",
-     "A political party for parents"
+     "A political party for parents that campaigns for more childcare places and family allowances"
     ],
     "correct": 2,
     "explanation": "“Elteren” means parents and “Forum” a place to meet, so Eltereforum is a parents’ forum: a friendly, generalist place where any parent can ask questions, learn and meet other parents – no special reason needed."
@@ -6156,10 +6156,10 @@ const EPISODES = [
    {
     "text": "Who coordinates the Eltereforum?",
     "options": [
-     "A single local parents’ association",
+     "A single local parents' association in Luxembourg City, which runs all the forums as volunteers",
      "The Ministry of Education, Children and Youth – it is a public service of the Luxembourg State",
-     "The national health insurance (CNS)",
-     "A private company"
+     "The national health insurance (CNS), as part of its prevention programme for young families",
+     "A private company that organises courses for parents and charges a fee for each activity"
     ],
     "correct": 1,
     "explanation": "The Eltereforum is coordinated by the Ministry of Education, Children and Youth, with the guiding idea “Strong parents, strong children” – supported, confident parents help their children do better."
@@ -6167,9 +6167,9 @@ const EPISODES = [
    {
     "text": "From when does the Eltereforum support parents?",
     "options": [
-     "Only during the teenage years",
-     "Only once the child starts school",
-     "Only from ages 0 to 3",
+     "Only during the teenage years, when questions about school, screens and friendships become harder",
+     "Only once the child starts school, because before that families are followed by the maternity ward",
+     "Only from ages 0 to 3 – after that, parents are sent to the school's own support services",
      "From the start of the “parental project” – even before birth – all the way until the child is grown"
     ],
     "correct": 3,
@@ -6179,9 +6179,9 @@ const EPISODES = [
     "text": "What happens if a parent comes with a serious, specific problem that the Eltereforum cannot treat itself?",
     "options": [
      "The team listens and guides them to the right specialised service",
-     "They are asked to come back later",
-     "The Eltereforum provides medical therapy on site",
-     "Nothing — the Eltereforum only organises parties"
+     "They are asked to come back later, once the problem has become less serious",
+     "Its own doctors provide medical therapy and treatment on site",
+     "Nothing — the Eltereforum only organises social events and parties for parents"
     ],
     "correct": 0,
     "explanation": "The Eltereforum is generalist — it does not give specialised treatment. But the team listens and points you to the right specialised service, so it is also a door that sends you in the right direction."
@@ -6189,10 +6189,10 @@ const EPISODES = [
    {
     "text": "What can you find on the website eltereforum.lu?",
     "options": [
-     "An online shop for children's clothes",
-     "Only the phone number of the Ministry",
+     "An online shop for children's clothes and toys, with discounts reserved for members of the forums",
+     "Only the phone number of the Ministry – the activities themselves are announced by post to each family",
      "An information platform with the agenda of all activities, evenings and courses at the different forums",
-     "A social network reserved for teachers"
+     "A social network reserved for teachers, where they discuss pupils' progress with each other"
     ],
     "correct": 2,
     "explanation": "eltereforum.lu is an information platform in itself, and its agenda shows the calendar of all activities, evenings and courses at the different regional forums — so you can see what is happening near you."
@@ -7737,10 +7737,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que l'Eltereforum ?",
     "options": [
-     "Une boutique en ligne de produits pour bébés",
-     "Une école pour enfants",
+     "Une boutique en ligne de produits pour bébés, gérée par l'État, où les parents achètent du matériel moins cher",
+     "Une école pour les enfants de 3 à 12 ans, où les parents peuvent aussi suivre des cours le soir",
      "Un « forum des parents » – un lieu accueillant d'échange, d'information et de soutien pour tous les parents",
-     "Un parti politique pour les parents"
+     "Un parti politique de parents qui milite pour plus de places d'accueil et d'allocations familiales"
     ],
     "correct": 2,
     "explanation": "« Elteren » signifie parents et « Forum » un lieu de rencontre, donc Eltereforum est un forum des parents : un lieu convivial et généraliste où chaque parent peut poser des questions, apprendre et rencontrer d'autres parents – sans avoir besoin d'une raison particulière."
@@ -7748,10 +7748,10 @@ const EPISODES = [
    {
     "text": "Qui coordonne l'Eltereforum ?",
     "options": [
-     "Une seule association locale de parents",
+     "Une seule association locale de parents de Luxembourg-Ville, qui gère tous les forums du pays de manière entièrement bénévole",
      "Le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse – c'est un service public de l'État luxembourgeois",
-     "L'assurance maladie nationale (CNS)",
-     "Une entreprise privée"
+     "La Caisse nationale de santé (CNS), dans le cadre de son programme de prévention pour les jeunes familles",
+     "Une entreprise privée qui organise des cours pour parents et fait payer chaque activité"
     ],
     "correct": 1,
     "explanation": "L'Eltereforum est coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse, avec l'idée directrice « Parents forts, enfants forts » – des parents soutenus et confiants aident leurs enfants à mieux s'épanouir."
@@ -7759,9 +7759,9 @@ const EPISODES = [
    {
     "text": "À partir de quand l'Eltereforum soutient-il les parents ?",
     "options": [
-     "Seulement pendant l'adolescence",
-     "Seulement à partir de l'entrée à l'école",
-     "Seulement de 0 à 3 ans",
+     "Seulement pendant l'adolescence, quand les questions sur l'école, les écrans et les amitiés deviennent plus difficiles",
+     "Seulement à partir de l'entrée à l'école, car avant, les familles sont suivies par la maternité",
+     "Seulement de 0 à 3 ans – ensuite, les parents sont envoyés vers les services de soutien de l'école",
      "Dès le début du « projet parental » – même avant la naissance – et jusqu'à ce que l'enfant devienne adulte"
     ],
     "correct": 3,
@@ -7771,9 +7771,9 @@ const EPISODES = [
     "text": "Que se passe-t-il si un parent vient avec un problème sérieux et spécifique que l'Eltereforum ne peut pas traiter lui-même ?",
     "options": [
      "L'équipe l'écoute et l'oriente vers le bon service spécialisé",
-     "On lui demande de revenir plus tard",
-     "L'Eltereforum propose une thérapie médicale sur place",
-     "Rien — l'Eltereforum n'organise que des fêtes"
+     "On leur demande de revenir plus tard, quand le problème sera moins grave",
+     "Ses propres médecins proposent une thérapie et des soins sur place",
+     "Rien — l'Eltereforum organise seulement des rencontres festives pour les parents"
     ],
     "correct": 0,
     "explanation": "L'Eltereforum est généraliste — il ne propose pas de traitement spécialisé. Mais l'équipe vous écoute et vous indique le bon service spécialisé ; c'est donc aussi une porte qui vous envoie dans la bonne direction."
@@ -7781,10 +7781,10 @@ const EPISODES = [
    {
     "text": "Que trouve-t-on sur le site eltereforum.lu ?",
     "options": [
-     "Une boutique en ligne de vêtements pour enfants",
-     "Uniquement le numéro de téléphone du ministère",
+     "Une boutique en ligne de vêtements et de jouets pour enfants, avec des réductions réservées aux membres des forums",
+     "Seulement le numéro de téléphone du ministère – les activités elles-mêmes sont annoncées par courrier à chaque famille",
      "Une plateforme d'information avec l'agenda de toutes les activités, soirées et cours des différents forums",
-     "Un réseau social réservé aux enseignants"
+     "Un réseau social réservé aux enseignants, où ils discutent entre eux des progrès des élèves"
     ],
     "correct": 2,
     "explanation": "eltereforum.lu est une plateforme d'information en soi, et son agenda montre le calendrier de toutes les activités, soirées et cours des différents forums régionaux — vous pouvez donc voir ce qui se passe près de chez vous."
@@ -7808,10 +7808,10 @@ const EPISODES = [
    {
     "text": "Was ist das Eltereforum?",
     "options": [
-     "Ein Online-Shop für Babyprodukte",
-     "Eine Schule für Kinder",
+     "Ein staatlicher Online-Shop für Babyprodukte, in dem Eltern Ausstattung günstiger kaufen können",
+     "Eine Schule für Kinder von 3 bis 12 Jahren, in der auch die Eltern abends Unterricht besuchen können",
      "Ein „Elternforum“ – ein einladender Ort für Austausch, Information und Unterstützung für alle Eltern",
-     "Eine politische Partei für Eltern"
+     "Eine politische Partei für Eltern, die sich für mehr Betreuungsplätze und Familienleistungen einsetzt"
     ],
     "correct": 2,
     "explanation": "„Elteren“ bedeutet Eltern und „Forum“ ein Ort der Begegnung – das Eltereforum ist also ein Elternforum: ein freundlicher, generalistischer Ort, an dem alle Eltern Fragen stellen, lernen und andere Eltern treffen können – ohne besonderen Grund."
@@ -7819,10 +7819,10 @@ const EPISODES = [
    {
     "text": "Wer koordiniert das Eltereforum?",
     "options": [
-     "Ein einzelner lokaler Elternverein",
+     "Ein einziger lokaler Elternverein in Luxemburg-Stadt, der alle Foren ehrenamtlich betreibt",
      "Das Ministerium für Bildung, Kinder und Jugend – es ist ein öffentlicher Dienst des luxemburgischen Staates",
-     "Die nationale Krankenversicherung (CNS)",
-     "Ein privates Unternehmen"
+     "Die nationale Gesundheitskasse (CNS), im Rahmen ihres Präventionsprogramms für junge Familien",
+     "Ein privates Unternehmen, das Kurse für Eltern organisiert und für jede einzelne Aktivität Geld verlangt"
     ],
     "correct": 1,
     "explanation": "Das Eltereforum wird vom Ministerium für Bildung, Kinder und Jugend koordiniert, mit dem Leitgedanken „Starke Eltern, starke Kinder“ – unterstützte, selbstsichere Eltern helfen auch ihren Kindern."
@@ -7830,9 +7830,9 @@ const EPISODES = [
    {
     "text": "Ab wann unterstützt das Eltereforum Eltern?",
     "options": [
-     "Nur während der Teenagerjahre",
-     "Erst wenn das Kind in die Schule kommt",
-     "Nur im Alter von 0 bis 3 Jahren",
+     "Nur in der Jugendzeit, wenn Fragen zu Schule, Bildschirmen und Freundschaften schwieriger werden",
+     "Erst ab dem Schulbeginn des Kindes, weil Familien vorher von der Entbindungsstation betreut werden",
+     "Nur von 0 bis 3 Jahren – danach werden die Eltern an die eigenen Unterstützungsdienste der Schule verwiesen",
      "Ab dem Beginn des „Elternprojekts“ – schon vor der Geburt – den ganzen Weg, bis das Kind erwachsen ist"
     ],
     "correct": 3,
@@ -7842,9 +7842,9 @@ const EPISODES = [
     "text": "Was passiert, wenn Eltern mit einem ernsten, speziellen Problem kommen, das das Eltereforum selbst nicht behandeln kann?",
     "options": [
      "Das Team hört zu und begleitet sie zum richtigen spezialisierten Dienst",
-     "Sie werden gebeten, später wiederzukommen",
-     "Das Eltereforum bietet vor Ort medizinische Therapie an",
-     "Nichts — das Eltereforum organisiert nur Feste"
+     "Sie werden gebeten, später wiederzukommen, wenn das Problem weniger ernst ist",
+     "Seine eigenen Ärzte bieten vor Ort eine medizinische Therapie und Behandlung an",
+     "Nichts — das Eltereforum organisiert nur gesellige Treffen und Feste für Eltern"
     ],
     "correct": 0,
     "explanation": "Das Eltereforum ist generalistisch — es bietet keine spezialisierte Behandlung an. Aber das Team hört zu und zeigt Ihnen den richtigen spezialisierten Dienst, es ist also auch eine Tür, die Sie in die richtige Richtung schickt."
@@ -7852,10 +7852,10 @@ const EPISODES = [
    {
     "text": "Was finden Sie auf der Website eltereforum.lu?",
     "options": [
-     "Einen Online-Shop für Kinderkleidung",
-     "Nur die Telefonnummer des Ministeriums",
+     "Ein Online-Shop für Kinderkleidung und Spielzeug, mit Rabatten nur für Mitglieder der Foren",
+     "Nur die Telefonnummer des Ministeriums – die Aktivitäten selbst werden jeder Familie per Post angekündigt",
      "Eine Informationsplattform mit der Agenda aller Aktivitäten, Abende und Kurse in den verschiedenen Foren",
-     "Ein soziales Netzwerk nur für Lehrer"
+     "Ein soziales Netzwerk nur für Lehrkräfte, in dem sie sich über die Fortschritte der Schüler austauschen"
     ],
     "correct": 2,
     "explanation": "eltereforum.lu ist selbst eine Informationsplattform, und die Agenda zeigt den Kalender aller Aktivitäten, Abende und Kurse in den verschiedenen regionalen Foren — so sehen Sie, was in Ihrer Nähe passiert."
@@ -7880,10 +7880,10 @@ const EPISODES = [
    {
     "text": "Wat ass den Eltereforum?",
     "options": [
-     "En Online-Buttek fir Bebeesartikelen",
-     "Eng Schoul fir Kanner",
+     "En Online-Buttek fir Bebeesprodukter, vum Staat geréiert, wou Elteren Equipement a Kleeder méi bëlleg kafe kënnen",
+     "Eng Schoul fir Kanner vun 3 bis 12 Joer, wou d'Elteren owes och Coursë besiche kënnen",
      "E \"Forum fir Elteren\" – eng wëllkommend Plaz fir Austausch, Informatioun an Ënnerstëtzung fir all Elteren",
-     "Eng politesch Partei fir Elteren"
+     "Eng politesch Partei fir Elteren, déi sech fir méi Betreiungsplazen a Familljenallocatiounen asetzt"
     ],
     "correct": 2,
     "explanation": "\"Elteren\" si Mamm a Papp, an e \"Forum\" ass eng Plaz fir sech ze treffen. Den Eltereforum ass also e Forum fir Elteren: eng frëndlech, generalistesch Plaz, wou all Elterendeel Froe stellen, léieren an aner Elteren treffe kann – ouni speziellen Grond."
@@ -7891,10 +7891,10 @@ const EPISODES = [
    {
     "text": "Wie koordinéiert den Eltereforum?",
     "options": [
-     "Eng eenzeg lokal Elterenassociatioun",
+     "Eng eenzeg lokal Elterevereenegung an der Stad Lëtzebuerg, déi all d'Foren op fräiwëlleger Basis organiséiert",
      "De Ministère fir Educatioun, Kanner a Jugend – et ass en ëffentleche Service vum Lëtzebuerger Staat",
-     "Déi national Gesondheetskeess (CNS)",
-     "Eng privat Firma"
+     "D'national Gesondheetskeess (CNS), am Kader vun hirem Präventiounsprogramm fir jonk Familljen",
+     "Eng privat Firma, déi Coursen fir Elteren organiséiert a fir all Aktivitéit Suen hëlt"
     ],
     "correct": 1,
     "explanation": "Den Eltereforum gëtt vum Ministère fir Educatioun, Kanner a Jugend koordinéiert, mat der Leetiddi \"Staark Elteren, staark Kanner\" – ënnerstëtzten, séchere Elteren hëllefen hire Kanner, et besser ze hunn."
@@ -7902,9 +7902,9 @@ const EPISODES = [
    {
     "text": "Vu wéini un ënnerstëtzt den Eltereforum d'Elteren?",
     "options": [
-     "Nëmme wärend den Teenagerjoren",
-     "Nëmme wann d'Kand an d'Schoul kënnt",
-     "Nëmme vun 0 bis 3 Joer",
+     "Just während der Pubertéit, wann d'Froen iwwer d'Schoul, d'Ecranen an d'Frëndschafte méi schwiereg ginn",
+     "Eréischt wann d'Kand an d'Schoul geet, well d'Famillje virdrun vun der Maternitéit suivéiert ginn",
+     "Just vun 0 bis 3 Joer – duerno ginn d'Elteren un d'Ënnerstëtzungsservicer vun der Schoul verwisen",
      "Vum Ufank vum \"Projet als Elteren\" un – souguer virun der Gebuert – bis d'Kand grouss ass"
     ],
     "correct": 3,
@@ -7914,9 +7914,9 @@ const EPISODES = [
     "text": "Wat geschitt, wann en Elterendeel mat engem eeschten, spezifesche Problem kënnt, deen den Eltereforum net selwer behandele kann?",
     "options": [
      "D'Equipe lauschtert no a begleet en zum richtege spezialiséierte Service",
-     "E gëtt gebieden, méi spéit erëmzekommen",
-     "Den Eltereforum mécht medezinesch Therapie op der Plaz",
-     "Näischt — den Eltereforum organiséiert nëmme Fester"
+     "Si gi gefrot, méi spéit erëmzekommen, wann de Problem manner eescht ass",
+     "Seng eegen Dokteren bidden op der Plaz eng medezinesch Therapie a Behandlung un",
+     "Näischt — den Eltereforum organiséiert just gesellesch Treffen a Fester fir Elteren"
     ],
     "correct": 0,
     "explanation": "Den Eltereforum ass generalistesch — e gëtt keng spezialiséiert Behandlung. Mä d'Equipe lauschtert no a weist Iech de Wee zum richtege spezialiséierte Service, sou datt en och eng Dier ass, déi Iech an déi richteg Richtung schéckt."
@@ -7924,10 +7924,10 @@ const EPISODES = [
    {
     "text": "Wat fannt Dir op der Websäit eltereforum.lu?",
     "options": [
-     "En Online-Buttek fir Kannerkleeder",
-     "Nëmmen d'Telefonsnummer vum Ministère",
+     "En Online-Buttek fir Kannerkleeder a Spillsaachen, mat Reduktiounen nëmme fir Membere vun de Foren",
+     "Just d'Telefonsnummer vum Ministère – d'Aktivitéite selwer ginn all Famill per Post matgedeelt",
      "Eng Informatiounsplattform mat dem Agenda vun allen Aktivitéiten, Owender a Coursen an deene verschiddene Foren",
-     "E sozialt Netzwierk nëmme fir Enseignanten"
+     "E soziaalt Netzwierk just fir Enseignanten, wou si sech ënnerteneen iwwer d'Fortschrëtter vun de Schüler austauschen"
     ],
     "correct": 2,
     "explanation": "eltereforum.lu ass selwer eng Informatiounsplattform, an den Agenda weist de Kalenner vun allen Aktivitéiten, Owender a Coursen an deene verschiddene regionale Foren — sou gesitt Dir, wat bei Iech an der Géigend leeft."
@@ -8668,9 +8668,9 @@ const EPISODES = [
    {
     "text": "What is the DSP (Dossier de Soins Partagé)?",
     "options": [
-     "A private insurance contract",
-     "A paper booklet you carry to every appointment",
-     "A tax file held by the administration",
+     "A private insurance contract that pays extra costs not covered by the national health insurance (CNS)",
+     "A paper booklet in which each doctor writes down your treatments, and that you must bring to every single appointment",
+     "A tax file held by the administration that lists all your medical expenses so you can deduct them",
      "A free, personal and secure electronic health file that brings your health information together in one place"
     ],
     "correct": 3,
@@ -8679,10 +8679,10 @@ const EPISODES = [
    {
     "text": "Who decides who can look at your DSP?",
     "options": [
-     "Only your general practitioner",
-     "Your employer",
+     "Only your general practitioner, who decides which other doctors may open the file",
+     "Your employer, who needs to know about your health to plan your work",
      "You, the patient – you give and remove access and can see who consulted your file",
-     "The Ministry of Health"
+     "The Ministry of Health, which grants access to doctors and hospitals case by case"
     ],
     "correct": 2,
     "explanation": "You are in control: you decide who can access your DSP, you can withdraw access, see who consulted it, and even hide certain documents. It’s your file and you hold the keys."
@@ -8690,10 +8690,10 @@ const EPISODES = [
    {
     "text": "For a normal visit to the doctor, how does payment usually work with the CNS?",
     "options": [
-     "The CNS pays you in cash at the reception desk",
+     "The CNS pays you in cash at the reception desk, and the doctor then sends the bill to your employer",
      "You pay the full price first, then the CNS reimburses most of it (around 80–100%) into your bank account",
-     "The visit is always completely free",
-     "You never pay anything at any point"
+     "The visit is always completely free, because the CNS pays the doctor directly for every consultation",
+     "You pay nothing at the doctor's, and the CNS later deducts the whole cost of the visit from your monthly salary"
     ],
     "correct": 1,
     "explanation": "Luxembourg traditionally works by reimbursement: you pay the doctor first, send the paid invoice to the CNS, and they pay most of it back into your bank account, usually within about three weeks."
@@ -8701,9 +8701,9 @@ const EPISODES = [
    {
     "text": "What is “tiers payant” (third-party payment), for example at the pharmacy?",
     "options": [
-     "The State pays nothing and you pay everything",
-     "You always pay the full price and claim it later",
-     "You pay double and get refunded",
+     "The State pays nothing at all, and you pay the whole price of your medicine yourself",
+     "You always pay the full price at the pharmacy and then claim the money back from the CNS later",
+     "You pay double at the pharmacy, and the CNS refunds half of it at the end of the year",
      "You pay only your small share, and the pharmacy settles the rest directly with the CNS"
     ],
     "correct": 3,
@@ -8713,9 +8713,9 @@ const EPISODES = [
     "text": "How can you activate your eSanté account, to use your DSP online?",
     "options": [
      "Directly through MyGuichet.lu — and then check your file online or with the MyDSP mobile app",
-     "You cannot activate it yourself",
-     "Only in person at a hospital",
-     "Only by waiting for a code sent by post"
+     "You cannot activate it yourself – only your doctor can open your account and show you the file",
+     "Only in person at a hospital reception desk, with your passport and your social security card",
+     "Only by waiting for an activation code, which the CNS sends by post once a year"
     ],
     "correct": 0,
     "explanation": "You can activate your eSanté account directly through MyGuichet.lu. Once it is active, you log in through the eSanté portal — or use the MyDSP mobile app on your phone."
@@ -10442,9 +10442,9 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que le DSP (Dossier de Soins Partagé) ?",
     "options": [
-     "Un contrat d'assurance privé",
-     "Un carnet papier que vous apportez à chaque rendez-vous",
-     "Un dossier fiscal détenu par l'administration",
+     "Un contrat d'assurance privée qui paie les frais supplémentaires non couverts par la Caisse nationale de santé (CNS)",
+     "Un carnet papier dans lequel chaque médecin note vos traitements, et que vous devez apporter à chaque rendez-vous",
+     "Un dossier fiscal tenu par l'administration des contributions, qui liste toutes vos dépenses médicales pour que vous puissiez les déduire",
      "Un dossier de santé électronique gratuit, personnel et sécurisé qui rassemble vos informations de santé en un seul endroit"
     ],
     "correct": 3,
@@ -10453,10 +10453,10 @@ const EPISODES = [
    {
     "text": "Qui décide qui peut consulter votre DSP ?",
     "options": [
-     "Uniquement votre médecin généraliste",
-     "Votre employeur",
+     "Seulement votre médecin généraliste, qui décide quels autres médecins peuvent ouvrir le dossier",
+     "Votre employeur, qui doit connaître votre santé pour organiser votre travail",
      "Vous, le patient – vous donnez et retirez l'accès et pouvez voir qui a consulté votre dossier",
-     "Le ministère de la Santé"
+     "Le ministère de la Santé, qui donne l'accès aux médecins et aux hôpitaux au cas par cas"
     ],
     "correct": 2,
     "explanation": "C'est vous qui contrôlez : vous décidez qui peut accéder à votre DSP, vous pouvez retirer l'accès, voir qui l'a consulté, et même masquer certains documents. C'est votre dossier et c'est vous qui avez les clés."
@@ -10464,10 +10464,10 @@ const EPISODES = [
    {
     "text": "Pour une visite normale chez le médecin, comment fonctionne généralement le paiement avec la CNS ?",
     "options": [
-     "La CNS vous paie en espèces à l'accueil",
+     "La CNS vous paie en espèces à l'accueil, puis le médecin envoie la facture à votre employeur",
      "Vous payez d'abord le prix complet, puis la CNS vous rembourse la plus grande partie (environ 80 à 100 %) sur votre compte bancaire",
-     "La visite est toujours entièrement gratuite",
-     "Vous ne payez jamais rien à aucun moment"
+     "La visite est toujours entièrement gratuite, car la CNS paie directement le médecin pour chaque consultation",
+     "Vous ne payez rien chez le médecin, et la CNS retient ensuite la totalité du coût de la visite directement sur votre salaire du mois suivant"
     ],
     "correct": 1,
     "explanation": "Le Luxembourg fonctionne traditionnellement par remboursement : vous payez d'abord le médecin, vous envoyez la facture acquittée à la CNS, et elle vous rembourse la plus grande partie sur votre compte bancaire, en général en moins de trois semaines."
@@ -10475,9 +10475,9 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que le « tiers payant », par exemple à la pharmacie ?",
     "options": [
-     "L'État ne paie rien et vous payez tout",
-     "Vous payez toujours le prix complet et le réclamez plus tard",
-     "Vous payez le double et êtes remboursé",
+     "L'État ne paie rien du tout, et vous payez vous-même le prix total de vos médicaments",
+     "Vous payez toujours le prix complet à la pharmacie, puis vous vous faites rembourser plus tard par la CNS",
+     "Vous payez le double à la pharmacie, et la CNS vous en rembourse la moitié en fin d'année",
      "Vous ne payez que votre petite part, et la pharmacie règle le reste directement avec la CNS"
     ],
     "correct": 3,
@@ -10487,9 +10487,9 @@ const EPISODES = [
     "text": "Comment pouvez-vous activer votre compte eSanté, pour utiliser votre DSP en ligne ?",
     "options": [
      "Directement via MyGuichet.lu — puis consulter votre dossier en ligne ou avec l'application mobile MyDSP",
-     "Vous ne pouvez pas l'activer vous-même",
-     "Uniquement en personne dans un hôpital",
-     "Uniquement en attendant un code envoyé par courrier"
+     "Vous ne pouvez pas l'activer vous-même – seul votre médecin peut ouvrir votre compte et vous montrer le dossier",
+     "Uniquement en personne à l'accueil d'un hôpital, avec votre passeport et votre carte de sécurité sociale",
+     "Uniquement en attendant un code d'activation que la CNS envoie par la poste une fois par an"
     ],
     "correct": 0,
     "explanation": "Vous pouvez activer votre compte eSanté directement via MyGuichet.lu. Une fois qu'il est actif, vous vous connectez via le portail eSanté — ou vous utilisez l'application mobile MyDSP sur votre téléphone."
@@ -10511,9 +10511,9 @@ const EPISODES = [
    {
     "text": "Was ist das DSP (Dossier de Soins Partagé)?",
     "options": [
-     "Ein privater Versicherungsvertrag",
-     "Ein Papierheft, das Sie zu jedem Termin mitnehmen",
-     "Eine Steuerakte bei der Verwaltung",
+     "Ein privater Versicherungsvertrag, der Zusatzkosten zahlt, die die nationale Gesundheitskasse (CNS) nicht übernimmt",
+     "Ein Heft aus Papier, in das jeder Arzt Ihre Behandlungen von Hand einträgt und das Sie zu jedem einzelnen Termin mitbringen müssen",
+     "Eine Steuerakte der Verwaltung, in der alle Ihre Gesundheitsausgaben aufgelistet sind, damit Sie sie absetzen können",
      "Eine kostenlose, persönliche und sichere elektronische Gesundheitsakte, die Ihre Gesundheitsinformationen an einem Ort zusammenführt"
     ],
     "correct": 3,
@@ -10522,10 +10522,10 @@ const EPISODES = [
    {
     "text": "Wer entscheidet, wer in Ihr DSP schauen darf?",
     "options": [
-     "Nur Ihr Hausarzt",
-     "Ihr Arbeitgeber",
+     "Nur Ihr Hausarzt, der entscheidet, welche anderen Ärzte die Akte öffnen dürfen",
+     "Ihr Arbeitgeber, der über Ihre Gesundheit Bescheid wissen muss, um Ihre Arbeit zu planen",
      "Sie, der Patient – Sie geben und entziehen den Zugang und können sehen, wer Ihre Akte eingesehen hat",
-     "Das Gesundheitsministerium"
+     "Das Gesundheitsministerium, das Ärzten und Krankenhäusern von Fall zu Fall den Zugang gewährt"
     ],
     "correct": 2,
     "explanation": "Sie haben die Kontrolle: Sie entscheiden, wer auf Ihr DSP zugreifen darf, Sie können den Zugang entziehen, sehen, wer die Akte eingesehen hat, und sogar bestimmte Dokumente verbergen. Es ist Ihre Akte, und Sie halten die Schlüssel."
@@ -10533,10 +10533,10 @@ const EPISODES = [
    {
     "text": "Wie funktioniert die Bezahlung bei einem normalen Arztbesuch üblicherweise mit der CNS?",
     "options": [
-     "Die CNS zahlt Ihnen an der Rezeption bar",
+     "Die CNS zahlt Ihnen am Empfang Bargeld aus, und der Arzt schickt die Rechnung dann an Ihren Arbeitgeber",
      "Sie zahlen zuerst den vollen Preis, dann erstattet die CNS das meiste davon (etwa 80–100 %) auf Ihr Bankkonto",
-     "Der Besuch ist immer völlig kostenlos",
-     "Sie zahlen zu keinem Zeitpunkt etwas"
+     "Der Besuch ist immer völlig kostenlos, weil die CNS den Arzt für jede Konsultation direkt bezahlt",
+     "Sie zahlen beim Arzt nichts, und die CNS zieht die gesamten Kosten des Besuchs später von Ihrem Monatsgehalt ab"
     ],
     "correct": 1,
     "explanation": "Luxemburg funktioniert traditionell über die Rückerstattung: Sie zahlen den Arzt zuerst, schicken die bezahlte Rechnung an die CNS, und diese zahlt das meiste davon auf Ihr Bankkonto zurück, normalerweise innerhalb von etwa drei Wochen."
@@ -10544,9 +10544,9 @@ const EPISODES = [
    {
     "text": "Was ist das „tiers payant“ (Drittzahlersystem), zum Beispiel in der Apotheke?",
     "options": [
-     "Der Staat zahlt nichts und Sie zahlen alles",
-     "Sie zahlen immer den vollen Preis und fordern ihn später zurück",
-     "Sie zahlen das Doppelte und werden erstattet",
+     "Der Staat zahlt gar nichts, und Sie zahlen den vollen Preis Ihrer Medikamente selbst",
+     "Sie zahlen in der Apotheke immer den vollen Preis und holen sich das Geld später bei der CNS zurück",
+     "Sie zahlen in der Apotheke das Doppelte, und die CNS erstattet Ihnen am Jahresende die Hälfte",
      "Sie zahlen nur Ihren kleinen Anteil, und die Apotheke rechnet den Rest direkt mit der CNS ab"
     ],
     "correct": 3,
@@ -10556,9 +10556,9 @@ const EPISODES = [
     "text": "Wie können Sie Ihr eSanté-Konto aktivieren, um Ihr DSP online zu nutzen?",
     "options": [
      "Direkt über MyGuichet.lu — und dann Ihre Akte online oder mit der mobilen App MyDSP einsehen",
-     "Sie können es nicht selbst aktivieren",
-     "Nur persönlich in einem Krankenhaus",
-     "Nur, indem Sie auf einen per Post gesendeten Code warten"
+     "Sie können es nicht selbst aktivieren – nur Ihr Arzt kann Ihr Konto eröffnen und Ihnen die Akte zeigen",
+     "Nur persönlich am Empfang eines Krankenhauses, mit Ihrem Reisepass und Ihrer Sozialversicherungskarte",
+     "Nur indem Sie auf einen Aktivierungscode warten, den die CNS einmal im Jahr per Post schickt"
     ],
     "correct": 0,
     "explanation": "Sie können Ihr eSanté-Konto direkt über MyGuichet.lu aktivieren. Sobald es aktiv ist, melden Sie sich über das eSanté-Portal an — oder nutzen die mobile App MyDSP auf Ihrem Telefon."
@@ -10580,9 +10580,9 @@ const EPISODES = [
    {
     "text": "Wat ass den DSP (Dossier de Soins Partagé)?",
     "options": [
-     "E private Versécherungskontrakt",
-     "En Heftchen op Pabeier, dat Dir op all Rendez-vous matbréngt",
-     "E Steierdossier bei der Administratioun",
+     "E private Versécherungskontrakt, deen extra Käschte bezilt, déi d'national Gesondheetskeess (CNS) net iwwerhëlt",
+     "E Pabeierheft, an deem all Dokter Är Behandlunge mat der Hand opschreift, an dat Dir bei all eenzege Rendez-vous musst matbréngen",
+     "E Steierdossier vun der Administratioun, an deem all Är medezinesch Ausgaben opgelëscht sinn, fir se ofzesetzen",
      "E gratis, perséinlechen a sécheren elektronesche Gesondheetsdossier, deen Är Gesondheetsinformatiounen op enger Plaz zesummebréngt"
     ],
     "correct": 3,
@@ -10591,10 +10591,10 @@ const EPISODES = [
    {
     "text": "Wien decidéiert, wien an Ären DSP kucke kann?",
     "options": [
-     "Nëmmen Ären Hausdokter",
-     "Ären Patron",
+     "Just Ären Hausdokter, deen eleng decidéiert, wéi eng aner Dokteren a Spideeler den Dossier opmaache däerfen",
+     "Ären Employeur, deen iwwer Är Gesondheet muss Bescheed wëssen, fir Är Aarbecht ze plangen",
      "Dir, de Patient – Dir gitt an huelt den Zougang, an Dir kënnt gesinn, wien Ären Dossier consultéiert huet",
-     "De Gesondheetsministère"
+     "De Gesondheetsministère, deen den Dokteren an de Spideeler vu Fall zu Fall Zougang gëtt"
     ],
     "correct": 2,
     "explanation": "Dir hutt d'Kontroll: Dir decidéiert, wien Zougang zu Ärem DSP huet, Dir kënnt den Zougang zerécken, gesinn, wien en consultéiert huet, a souguer verschidde Dokumenter verstoppen. Et ass Ären Dossier, an Dir hutt d'Schlësselen."
@@ -10602,10 +10602,10 @@ const EPISODES = [
    {
     "text": "Wéi funktionéiert d'Bezuele bei enger normaler Visite beim Dokter mat der CNS normalerweis?",
     "options": [
-     "D'CNS bezilt Iech boer un der Receptioun",
+     "D'CNS bezilt Iech op der Receptioun cash, an den Dokter schéckt d'Rechnung duerno un Ären Employeur",
      "Dir bezuelt fir d'éischt de vollen Präis, dann rembourséiert d'CNS dat meescht dovun (ronn 80–100%) op Äre Bankkont",
-     "D'Visite ass ëmmer komplett gratis",
-     "Dir bezuelt ni eppes, zu kengem Moment"
+     "De Besuch ass ëmmer ganz gratis, well d'CNS den Dokter fir all Konsultatioun direkt bezilt",
+     "Dir bezuelt beim Dokter näischt, an d'CNS zitt spéider déi ganz Käschte vum Besuch direkt vun Ärem Méintsloun of"
     ],
     "correct": 1,
     "explanation": "Lëtzebuerg funktionéiert traditionell mam Remboursement: Dir bezuelt den Dokter fir d'éischt, schéckt déi bezuelte Faktur un d'CNS, a si bezilt dat meescht dovun op Äre Bankkont zeréck, normalerweis a manner wéi dräi Wochen."
@@ -10613,9 +10613,9 @@ const EPISODES = [
    {
     "text": "Wat ass den \"Tiers payant\", zum Beispill an der Apdikt?",
     "options": [
-     "De Staat bezilt näischt, an Dir bezuelt alles",
-     "Dir bezuelt ëmmer de vollen Präis a frot en duerno zeréck",
-     "Dir bezuelt duebel a gitt rembourséiert",
+     "De Staat bezilt guer näischt, an Dir bezuelt de ganze Präis vun Äre Medikamenter selwer",
+     "Dir bezuelt an der Apdikt ëmmer de ganze Präis a kritt d'Suen dann spéider vun der CNS zeréck",
+     "Dir bezuelt an der Apdikt duebel, an d'CNS rembourséiert Iech d'Halschent um Enn vum Joer",
      "Dir bezuelt nëmmen Äre klengen Undeel, an d'Apdikt reegelt de Rescht direkt mat der CNS"
     ],
     "correct": 3,
@@ -10625,9 +10625,9 @@ const EPISODES = [
     "text": "Wéi kënnt Dir Ären eSanté-Kont aktivéieren, fir Ären DSP online ze benotzen?",
     "options": [
      "Direkt iwwer MyGuichet.lu — an duerno kuckt Dir Ären Dossier online oder mat der mobiler App MyDSP",
-     "Dir kënnt en net selwer aktivéieren",
-     "Nëmme perséinlech an engem Spidol",
-     "Nëmmen andeems Dir op e Code waart, dee mat der Post kënnt"
+     "Dir kënnt en net selwer aktivéieren – just Ären Dokter kann Äre Kont opmaachen an Iech den Dossier weisen",
+     "Just perséinlech op der Receptioun vun engem Spidol, mat Ärem Pass an Ärer Sozialversécherungskaart",
+     "Just andeems Dir op en Aktivéierungscode waart, deen d'CNS eemol am Joer mat der Post schéckt"
     ],
     "correct": 0,
     "explanation": "Dir kënnt Ären eSanté-Kont direkt iwwer MyGuichet.lu aktivéieren. Wann en aktiv ass, loggt Dir Iech iwwer den eSanté-Portal an — oder Dir benotzt d'mobil App MyDSP op Ärem Handy."
@@ -11543,9 +11543,9 @@ const EPISODES = [
     "text": "What is LU-Alert?",
     "options": [
      "Luxembourg’s national public warning and information system, launched in autumn 2024",
-     "A private weather app you subscribe to",
-     "A social media account run by the police",
-     "An insurance scheme for natural disasters"
+     "A private weather app that you subscribe to, which sends storm and flood warnings for a fee",
+     "A social media account run by the Grand Ducal Police to share news about traffic and events",
+     "An insurance scheme that pays compensation to households after storms, floods or other disasters"
     ],
     "correct": 0,
     "explanation": "“LU-Alert” combines “LU” (the country code for Luxembourg) and “Alert”. It is the national warning and information system for the population, deployed in autumn 2024 to warn people about dangerous events."
@@ -11553,10 +11553,10 @@ const EPISODES = [
    {
     "text": "Do you need to sign up to receive alerts by Cell Broadcast or location-based SMS?",
     "options": [
-     "Yes, you must register your number on lu-alert.lu",
+     "Yes – you must first register your mobile number on lu-alert.lu to receive any alerts at all",
      "No – there is no registration; any phone in the targeted area is reached automatically",
-     "Yes, but only cross-border workers need to register",
-     "No, but only if you pay a small annual fee"
+     "Yes, but only cross-border workers, whose phones use foreign networks",
+     "No registration is needed, but you pay a small annual fee through your mobile phone operator"
     ],
     "correct": 1,
     "explanation": "For Cell Broadcast and location-based SMS you do not sign up – and cannot really opt out. If your phone is in the area when the authorities send a message, it is targeted automatically. (For the mobile app, you simply download it.)"
@@ -11565,8 +11565,8 @@ const EPISODES = [
     "text": "In which languages are LU-Alert messages sent?",
     "options": [
      "German, English and French",
-     "Only Luxembourgish",
-     "Only French",
+     "Luxembourgish, French and German",
+     "French and Portuguese",
      "English and Luxembourgish"
     ],
     "correct": 0,
@@ -11575,8 +11575,8 @@ const EPISODES = [
    {
     "text": "When are sirens used in the LU-Alert system?",
     "options": [
-     "For every weather warning",
-     "Every day at noon as a test",
+     "For every weather warning, day or night",
+     "Every day at noon, as a short test",
      "Only in the event of a nuclear alert",
      "Whenever the mobile network is down"
     ],
@@ -11586,9 +11586,9 @@ const EPISODES = [
    {
     "text": "How can you check that an alert message is genuine and not phishing?",
     "options": [
-     "Reply to the SMS with your details to confirm your identity",
-     "Click the link in the message to verify it",
-     "Call the number shown and give your bank details",
+     "Reply to the SMS with your name, address and date of birth, so that the authorities can confirm who you are and where you live",
+     "Click on the link in the message and log in with your LuxTrust details to verify that it is real",
+     "Call the phone number shown in the message and give your bank details so the sender can be checked",
      "Remember that the authorities never ask for personal data, and check whether the alert is listed on lu-alert.lu"
     ],
     "correct": 3,
@@ -13675,9 +13675,9 @@ const EPISODES = [
     "text": "Qu'est-ce que LU-Alert ?",
     "options": [
      "Le système national d'alerte et d'information de la population du Luxembourg, lancé à l'automne 2024",
-     "Une application météo privée à laquelle on s'abonne",
-     "Un compte de réseau social géré par la police",
-     "Un régime d'assurance contre les catastrophes naturelles"
+     "Une application météo privée à laquelle on s'abonne, qui envoie des alertes tempête et inondation contre paiement",
+     "Un compte sur les réseaux sociaux de la Police grand-ducale pour partager des infos sur la circulation et les événements",
+     "Un système d'assurance qui indemnise les ménages après des tempêtes, des inondations ou d'autres catastrophes"
     ],
     "correct": 0,
     "explanation": "« LU-Alert » combine « LU » (le code pays du Luxembourg) et « Alert ». C'est le système national d'alerte et d'information de la population, déployé à l'automne 2024 pour avertir les gens des événements dangereux."
@@ -13685,10 +13685,10 @@ const EPISODES = [
    {
     "text": "Faut-il s'inscrire pour recevoir les alertes par Cell Broadcast ou par SMS géolocalisé ?",
     "options": [
-     "Oui, vous devez enregistrer votre numéro sur lu-alert.lu",
+     "Oui – vous devez d'abord enregistrer votre numéro de portable sur lu-alert.lu pour recevoir la moindre alerte",
      "Non – il n'y a pas d'inscription ; tout téléphone présent dans la zone ciblée est atteint automatiquement",
-     "Oui, mais seuls les frontaliers doivent s'inscrire",
-     "Non, mais seulement si vous payez une petite cotisation annuelle"
+     "Oui, mais seulement les frontaliers, dont les téléphones utilisent des réseaux étrangers",
+     "Aucune inscription n'est nécessaire, mais vous payez une petite redevance annuelle via votre opérateur mobile"
     ],
     "correct": 1,
     "explanation": "Pour le Cell Broadcast et le SMS géolocalisé, vous ne vous inscrivez pas – et vous ne pouvez pas vraiment vous y soustraire. Si votre téléphone est dans la zone quand les autorités envoient un message, il est ciblé automatiquement. (Pour l'application mobile, il suffit de la télécharger.)"
@@ -13697,9 +13697,9 @@ const EPISODES = [
     "text": "Dans quelles langues les messages LU-Alert sont-ils envoyés ?",
     "options": [
      "En allemand, en anglais et en français",
-     "Uniquement en luxembourgeois",
-     "Uniquement en français",
-     "En anglais et en luxembourgeois"
+     "Luxembourgeois, français, allemand et portugais",
+     "Français et portugais",
+     "Anglais et luxembourgeois"
     ],
     "correct": 0,
     "explanation": "Les messages d'alerte et d'information sont émis en allemand, en anglais et en français, donc les francophones sont couverts."
@@ -13707,8 +13707,8 @@ const EPISODES = [
    {
     "text": "Quand les sirènes sont-elles utilisées dans le système LU-Alert ?",
     "options": [
-     "Pour chaque alerte météo",
-     "Tous les jours à midi, en test",
+     "Pour chaque alerte météo, de jour comme de nuit",
+     "Tous les jours à midi, pour un court test",
      "Uniquement en cas d'alerte nucléaire",
      "Chaque fois que le réseau mobile est en panne"
     ],
@@ -13718,9 +13718,9 @@ const EPISODES = [
    {
     "text": "Comment pouvez-vous vérifier qu'un message d'alerte est authentique et non du phishing ?",
     "options": [
-     "Répondre au SMS avec vos coordonnées pour confirmer votre identité",
-     "Cliquer sur le lien dans le message pour le vérifier",
-     "Appeler le numéro affiché et donner vos coordonnées bancaires",
+     "Répondre au SMS avec votre nom, votre adresse et votre date de naissance, pour que les autorités confirment qui vous êtes et où vous habitez",
+     "Cliquer sur le lien du message et vous connecter avec vos identifiants LuxTrust pour vérifier qu'il est authentique",
+     "Appeler le numéro indiqué dans le message et donner vos coordonnées bancaires pour que l'expéditeur soit vérifié",
      "Retenir que les autorités ne demandent jamais de données personnelles, et vérifier si l'alerte figure sur lu-alert.lu"
     ],
     "correct": 3,
@@ -13746,9 +13746,9 @@ const EPISODES = [
     "text": "Was ist LU-Alert?",
     "options": [
      "Luxemburgs nationales Warn- und Informationssystem für die Bevölkerung, gestartet im Herbst 2024",
-     "Eine private Wetter-App, die man abonniert",
-     "Ein Social-Media-Konto der Polizei",
-     "Eine Versicherung für Naturkatastrophen"
+     "Eine private Wetter-App im Abonnement, die gegen Gebühr Sturm- und Hochwasserwarnungen verschickt",
+     "Ein Social-Media-Konto der Großherzoglichen Polizei, das Neuigkeiten zu Verkehr und Veranstaltungen teilt",
+     "Eine Versicherung, die Haushalte nach Stürmen, Überschwemmungen oder anderen Katastrophen entschädigt"
     ],
     "correct": 0,
     "explanation": "„LU-Alert“ verbindet „LU“ (den Ländercode für Luxemburg) und „Alert“. Es ist das nationale Warn- und Informationssystem für die Bevölkerung, eingeführt im Herbst 2024, um Menschen vor gefährlichen Ereignissen zu warnen."
@@ -13756,10 +13756,10 @@ const EPISODES = [
    {
     "text": "Müssen Sie sich anmelden, um Warnungen per Cell Broadcast oder standortbasierter SMS zu erhalten?",
     "options": [
-     "Ja, Sie müssen Ihre Nummer auf lu-alert.lu registrieren",
+     "Ja – Sie müssen zuerst Ihre Handynummer auf lu-alert.lu registrieren, um überhaupt Warnungen zu erhalten",
      "Nein – es gibt keine Registrierung; jedes Telefon im Zielgebiet wird automatisch erreicht",
-     "Ja, aber nur Grenzgänger müssen sich registrieren",
-     "Nein, aber nur, wenn Sie eine kleine Jahresgebühr zahlen"
+     "Ja, aber nur Grenzgänger, deren Telefone ausländische Netze nutzen",
+     "Eine Anmeldung ist nicht nötig, aber Sie zahlen eine kleine Jahresgebühr über Ihren Mobilfunkanbieter"
     ],
     "correct": 1,
     "explanation": "Für Cell Broadcast und standortbasierte SMS melden Sie sich nicht an – und können sich auch nicht wirklich abmelden. Wenn Ihr Telefon im Gebiet ist, wenn die Behörden eine Nachricht senden, wird es automatisch erreicht. (Die mobile App laden Sie einfach herunter.)"
@@ -13768,8 +13768,8 @@ const EPISODES = [
     "text": "In welchen Sprachen werden die LU-Alert-Nachrichten gesendet?",
     "options": [
      "Deutsch, Englisch und Französisch",
-     "Nur Luxemburgisch",
-     "Nur Französisch",
+     "Luxemburgisch, Französisch und Deutsch",
+     "Französisch und Portugiesisch",
      "Englisch und Luxemburgisch"
     ],
     "correct": 0,
@@ -13778,10 +13778,10 @@ const EPISODES = [
    {
     "text": "Wann werden im LU-Alert-System Sirenen eingesetzt?",
     "options": [
-     "Bei jeder Wetterwarnung",
-     "Jeden Tag um zwölf Uhr als Test",
+     "Bei jeder Wetterwarnung, Tag und Nacht",
+     "Jeden Tag um zwölf Uhr, als kurzer Test",
      "Nur im Fall eines Nuklearalarms",
-     "Immer, wenn das Mobilfunknetz ausfällt"
+     "Immer wenn das Mobilfunknetz ausfällt"
     ],
     "correct": 2,
     "explanation": "Heute werden die Sirenen nur bei einem Nuklearalarm eingesetzt. Alle anderen Warnungen erreichen Sie über das Telefon (Cell Broadcast und SMS), die App, Websites und die Medien."
@@ -13789,9 +13789,9 @@ const EPISODES = [
    {
     "text": "Wie können Sie prüfen, ob eine Warnnachricht echt ist und kein Phishing?",
     "options": [
-     "Auf die SMS mit Ihren Daten antworten, um Ihre Identität zu bestätigen",
-     "Auf den Link in der Nachricht klicken, um sie zu überprüfen",
-     "Die angezeigte Nummer anrufen und Ihre Bankdaten angeben",
+     "Auf die SMS mit Name, Adresse und Geburtsdatum antworten, damit die Behörden bestätigen können, wer Sie sind und wo Sie wohnen",
+     "Auf den Link in der Nachricht klicken und sich mit Ihren LuxTrust-Daten anmelden, um zu prüfen, ob sie echt ist",
+     "Die in der Nachricht angegebene Nummer anrufen und Ihre Bankdaten nennen, damit der Absender überprüft werden kann",
      "Daran denken, dass die Behörden nie nach persönlichen Daten fragen, und prüfen, ob die Warnung auf lu-alert.lu aufgeführt ist"
     ],
     "correct": 3,
@@ -13819,9 +13819,9 @@ const EPISODES = [
     "text": "Wat ass LU-Alert?",
     "options": [
      "Den nationale Warn- an Informatiounssystem vu Lëtzebuerg fir d'Bevëlkerung, lancéiert am Hierscht 2024",
-     "Eng privat Wieder-App, déi Dir abonnéiert",
-     "E Social-Media-Kont vun der Police",
-     "Eng Versécherung fir Naturkatastrophen"
+     "Eng privat Wieder-App am Abonnement, déi géint Bezuelung Stuerm- an Héichwaasserwarnunge verschéckt",
+     "E Konto op de soziale Medie vun der Grand-ducal Police, fir Neiegkeeten iwwer de Verkéier an Evenementer ze deelen",
+     "Eng Versécherung, déi Stéit no Stierm, Iwwerschwemmungen oder anere Katastrophen entschiedegt"
     ],
     "correct": 0,
     "explanation": "\"LU-Alert\" kombinéiert \"LU\" (de Landescode vu Lëtzebuerg) an \"Alert\". Et ass den nationale Warn- an Informatiounssystem fir d'Bevëlkerung, agefouert am Hierscht 2024, fir d'Leit viru geféierlechen Evenementer ze warnen."
@@ -13829,10 +13829,10 @@ const EPISODES = [
    {
     "text": "Musst Dir Iech aschreiwen, fir Alarmer iwwer Cell Broadcast oder lokalisatiounsbaséiert SMS ze kréien?",
     "options": [
-     "Jo, Dir musst Är Nummer op lu-alert.lu registréieren",
+     "Jo – Dir musst fir d'éischt Är Handysnummer op lu-alert.lu registréieren, fir iwwerhaapt Warnungen ze kréien",
      "Nee – et gëtt keng Aschreiwung; all Handy an der betraffener Zon gëtt automatesch erreecht",
-     "Jo, mä nëmmen d'Grenzgänger musse sech registréieren",
-     "Nee, mä nëmme wann Dir eng kleng jäerlech Tax bezuelt"
+     "Jo, mä just d'Frontalieren, well hir Telefone auslännesch Netzer benotzen",
+     "Et brauch een sech net unzemellen, mä Dir bezuelt eng kleng Joresgebühr iwwer Ären Handysoperateur"
     ],
     "correct": 1,
     "explanation": "Fir Cell Broadcast a lokalisatiounsbaséiert SMS schreift Dir Iech net an – an Dir kënnt Iech och net wierklech ofmellen. Wann Ären Handy an der Zon ass, wann d'Autoritéiten e Message schécken, gëtt en automatesch erreecht. (D'App luet Dir einfach erof.)"
@@ -13841,9 +13841,9 @@ const EPISODES = [
     "text": "A wéi enge Sprooche ginn d'LU-Alert-Messagen verschéckt?",
     "options": [
      "Op Däitsch, Englesch a Franséisch",
-     "Nëmmen op Lëtzebuergesch",
-     "Nëmmen op Franséisch",
-     "Op Englesch a Lëtzebuergesch"
+     "Lëtzebuergesch, Franséisch an Däitsch",
+     "Franséisch a Portugisesch",
+     "Englesch a Lëtzebuergesch"
     ],
     "correct": 0,
     "explanation": "D'Warn- an Informatiounsmessagen ginn op Däitsch, Englesch a Franséisch erausginn, sou datt och engleschsproocheg Leit ofgedeckt sinn."
@@ -13851,10 +13851,10 @@ const EPISODES = [
    {
     "text": "Wéini ginn d'Sirenen am LU-Alert-System benotzt?",
     "options": [
-     "Bei all Wiederwarnung",
-     "All Dag um Mëtteg als Test",
+     "Bei all Wiederwarnung, Dag an Nuecht",
+     "All Dag um zwielef Auer, als kuerzen Test",
      "Nëmme bei engem Nuklearalarm",
-     "Ëmmer wann den Handysnetz ausfält"
+     "All Kéier, wann d'Handysnetz ausfält"
     ],
     "correct": 2,
     "explanation": "Haut ginn d'Sirenen nëmme bei engem Nuklearalarm benotzt. All aner Warnungen erreechen Iech iwwer den Handy (Cell Broadcast an SMS), d'App, d'Websäiten an d'Medien."
@@ -13862,9 +13862,9 @@ const EPISODES = [
    {
     "text": "Wéi kënnt Dir kontrolléieren, ob en Alarmmessage echt ass an net Phishing?",
     "options": [
-     "Op d'SMS mat Ären Donnéeën äntweren, fir Är Identitéit ze confirméieren",
-     "Op de Link am Message klicken, fir en ze verifiéieren",
-     "Déi ugewisen Nummer uruffen an Är Bankdate ginn",
+     "Op d'SMS mat Ärem Numm, Ärer Adress an Ärem Gebuertsdatum äntweren, fir datt d'Autoritéite bestätege kënnen, wien Dir sidd a wou Dir wunnt",
+     "Op de Link am Message klicken an Iech mat Ären LuxTrust-Donnéeën aloggen, fir ze kucken, ob e richteg ass",
+     "D'Nummer aus dem Message uruffen an Är Bankdonnéeë ginn, fir datt den Ofsender iwwerpréift ka ginn",
      "Drun denken, datt d'Autoritéiten ni no perséinlechen Donnéeë froen, a kucken, ob den Alarm op lu-alert.lu steet"
     ],
     "correct": 3,
@@ -14916,10 +14916,10 @@ const EPISODES = [
    {
     "text": "What is LuxTrust?",
     "options": [
-     "A mobile bank account",
+     "A mobile bank account from a Luxembourg bank, which you use to pay online and send money",
      "A secure digital identity that proves who you are online – like an ID card for the internet",
-     "An antivirus program for your phone",
-     "A government tax website"
+     "An antivirus program for your phone and computer that protects you when you shop online",
+     "A government tax website where you file your tax return and see your tax statements online"
     ],
     "correct": 1,
     "explanation": "LuxTrust gives you a single, secure digital identity – the online equivalent of your ID card or passport – provided by a European-certified Certificate Authority and trust service provider."
@@ -14928,9 +14928,9 @@ const EPISODES = [
     "text": "As an individual in Luxembourg, what can you do with LuxTrust?",
     "options": [
      "Log in to online banking, access MyGuichet, sign documents electronically and confirm online payments",
-     "Only log in to social media",
-     "Only file your taxes, nothing else",
-     "Nothing until you start a company"
+     "Only log in to social media and email accounts – banks and public services use other systems",
+     "Only file your taxes on the tax website – you cannot use it for banking or signing documents",
+     "Nothing until you start a company, because LuxTrust is only for businesses and self-employed people"
     ],
     "correct": 0,
     "explanation": "The four main personal uses are secure online banking, access to public services such as MyGuichet.lu, legally-valid electronic signatures, and confirming online card payments (with 3D Secure)."
@@ -14938,10 +14938,10 @@ const EPISODES = [
    {
     "text": "What legal value does a LuxTrust electronic signature have?",
     "options": [
-     "No legal value – it is only for convenience",
-     "It is valid only for emails",
+     "No legal value – it is only a convenience for you",
+     "It is only valid for emails, not for contracts",
      "The same legal value as a handwritten signature",
-     "It is valid only inside your bank"
+     "It is only valid inside your own bank"
     ],
     "correct": 2,
     "explanation": "A LuxTrust electronic signature has the same legal value as a handwritten signature, so you can sign official documents from home without printing anything."
@@ -14949,9 +14949,9 @@ const EPISODES = [
    {
     "text": "When you obtain a LuxTrust identity, how is your identity verified?",
     "options": [
-     "It is never verified",
-     "Only by sending a photo by email",
-     "Only by answering security questions online",
+     "It is never verified – you simply choose a username and password on the LuxTrust website",
+     "Only by sending a photo of yourself by email, without showing any identity document",
+     "Only by answering a few security questions online about your address and date of birth",
      "You must be identified – in person with an agent, or remotely by video identification"
     ],
     "correct": 3,
@@ -14960,10 +14960,10 @@ const EPISODES = [
    {
     "text": "Which statement about LuxTrust and security is correct?",
     "options": [
-     "LuxTrust may call you to ask for your password",
+     "LuxTrust may call you on the phone to ask for your password, to check that your account is still secure",
      "LuxTrust will never ask for your codes or credentials, never ask to access your device, and never visit your home",
-     "You can safely share your codes with your bank adviser",
-     "LuxTrust staff may visit your home to help you"
+     "You can safely share your codes with your bank adviser or a family member, as long as they are helping you set things up",
+     "LuxTrust staff may visit your home to help you install the app, and ask to use your device for a moment"
     ],
     "correct": 1,
     "explanation": "LuxTrust never asks for your codes or credentials, never requests access to your computer or phone, and never visits your home. Keep your credentials to yourself and, if in doubt, check the official website."
@@ -17338,10 +17338,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que LuxTrust ?",
     "options": [
-     "Un compte bancaire mobile",
+     "Un compte bancaire mobile d'une banque luxembourgeoise, qui sert à payer en ligne et à envoyer de l'argent",
      "Une identité numérique sécurisée qui prouve qui vous êtes en ligne – comme une carte d'identité pour internet",
-     "Un antivirus pour votre téléphone",
-     "Un site internet des impôts de l'État"
+     "Un antivirus pour votre téléphone et votre ordinateur, qui vous protège quand vous faites vos achats en ligne",
+     "Un site fiscal de l'État où vous déposez votre déclaration d'impôt et consultez vos décomptes en ligne"
     ],
     "correct": 1,
     "explanation": "LuxTrust vous donne une identité numérique unique et sécurisée – l'équivalent en ligne de votre carte d'identité ou de votre passeport – fournie par une autorité de certification et un prestataire de services de confiance certifiés au niveau européen."
@@ -17350,9 +17350,9 @@ const EPISODES = [
     "text": "En tant que particulier au Luxembourg, que pouvez-vous faire avec LuxTrust ?",
     "options": [
      "Vous connecter à votre banque en ligne, accéder à MyGuichet, signer des documents électroniquement et confirmer des paiements en ligne",
-     "Uniquement vous connecter aux réseaux sociaux",
-     "Uniquement faire votre déclaration d'impôts, rien d'autre",
-     "Rien tant que vous ne créez pas d'entreprise"
+     "Seulement vous connecter aux réseaux sociaux et à vos e-mails – les banques et les services publics utilisent chacun leurs propres systèmes",
+     "Seulement déclarer vos impôts sur le site fiscal – impossible de l'utiliser pour la banque ou pour signer des documents",
+     "Rien tant que vous ne créez pas d'entreprise, car LuxTrust est réservé aux sociétés et aux indépendants"
     ],
     "correct": 0,
     "explanation": "Les quatre principaux usages personnels sont la connexion sécurisée à la banque en ligne, l'accès aux services publics comme MyGuichet.lu, la signature électronique valable juridiquement, et la confirmation des paiements par carte en ligne (avec 3D Secure)."
@@ -17360,10 +17360,10 @@ const EPISODES = [
    {
     "text": "Quelle valeur juridique a une signature électronique LuxTrust ?",
     "options": [
-     "Aucune valeur juridique – c'est uniquement pour la commodité",
-     "Elle n'est valable que pour les e-mails",
+     "Aucune valeur juridique – c'est seulement pratique pour vous",
+     "Elle n'est valable que pour les e-mails, pas pour les contrats",
      "La même valeur juridique qu'une signature manuscrite",
-     "Elle n'est valable qu'à l'intérieur de votre banque"
+     "Elle n'est valable qu'au sein de votre propre banque"
     ],
     "correct": 2,
     "explanation": "Une signature électronique LuxTrust a la même valeur juridique qu'une signature manuscrite ; vous pouvez donc signer des documents officiels depuis chez vous sans rien imprimer."
@@ -17371,9 +17371,9 @@ const EPISODES = [
    {
     "text": "Lorsque vous obtenez une identité LuxTrust, comment votre identité est-elle vérifiée ?",
     "options": [
-     "Elle n'est jamais vérifiée",
-     "Uniquement en envoyant une photo par e-mail",
-     "Uniquement en répondant à des questions de sécurité en ligne",
+     "Elle n'est jamais vérifiée – vous choisissez simplement un identifiant et un mot de passe sur le site de LuxTrust",
+     "Uniquement en envoyant une photo de vous par e-mail, sans montrer de pièce d'identité",
+     "Uniquement en répondant en ligne à quelques questions de sécurité sur votre adresse et votre date de naissance",
      "Vous devez être identifié – en personne avec un agent, ou à distance par identification vidéo"
     ],
     "correct": 3,
@@ -17382,10 +17382,10 @@ const EPISODES = [
    {
     "text": "Quelle affirmation au sujet de LuxTrust et de la sécurité est correcte ?",
     "options": [
-     "LuxTrust peut vous appeler pour vous demander votre mot de passe",
+     "LuxTrust peut vous appeler pour vous demander votre mot de passe, afin de vérifier que votre compte est toujours sûr",
      "LuxTrust ne vous demandera jamais vos codes ou identifiants, ne demandera jamais à accéder à votre appareil, et ne se rendra jamais à votre domicile",
-     "Vous pouvez communiquer vos codes en toute sécurité à votre conseiller bancaire",
-     "Le personnel de LuxTrust peut se rendre à votre domicile pour vous aider"
+     "Vous pouvez partager sans risque vos codes avec votre conseiller bancaire ou un proche, tant qu'ils vous aident à tout installer sur votre téléphone",
+     "Des employés de LuxTrust peuvent venir chez vous pour installer l'application et utiliser votre appareil un moment"
     ],
     "correct": 1,
     "explanation": "LuxTrust ne demande jamais vos codes ou identifiants, ne demande jamais à accéder à votre ordinateur ou à votre téléphone, et ne se rend jamais à votre domicile. Gardez vos identifiants pour vous et, en cas de doute, consultez le site internet officiel."
@@ -17409,10 +17409,10 @@ const EPISODES = [
    {
     "text": "Was ist LuxTrust?",
     "options": [
-     "Ein mobiles Bankkonto",
+     "Ein mobiles Bankkonto einer luxemburgischen Bank, mit dem Sie online bezahlen und Geld überweisen",
      "Eine sichere digitale Identität, die online beweist, wer Sie sind – wie ein Personalausweis fürs Internet",
-     "Ein Antivirenprogramm für Ihr Handy",
-     "Eine staatliche Steuer-Webseite"
+     "Ein Virenschutzprogramm für Handy und Computer, das Sie beim Online-Einkauf schützt",
+     "Eine staatliche Steuer-Website, auf der Sie Ihre Steuererklärung abgeben und Ihre Steuerbescheide ansehen"
     ],
     "correct": 1,
     "explanation": "LuxTrust gibt Ihnen eine einzige, sichere digitale Identität – das Online-Äquivalent zu Ihrem Personalausweis oder Reisepass – bereitgestellt von einer europäisch zertifizierten Zertifizierungsstelle und einem Vertrauensdiensteanbieter."
@@ -17421,9 +17421,9 @@ const EPISODES = [
     "text": "Was können Sie als Privatperson in Luxemburg mit LuxTrust tun?",
     "options": [
      "Sich beim Online-Banking anmelden, auf MyGuichet zugreifen, Dokumente elektronisch unterschreiben und Online-Zahlungen bestätigen",
-     "Sich nur bei sozialen Medien anmelden",
-     "Nur Ihre Steuererklärung machen, sonst nichts",
-     "Nichts, bis Sie ein Unternehmen gründen"
+     "Nur sich bei sozialen Netzwerken und E-Mail-Konten anmelden – Banken und Behörden nutzen andere Systeme",
+     "Nur Ihre Steuern auf der Steuer-Website erklären – für Online-Banking oder das Unterschreiben von Dokumenten geht es leider nicht",
+     "Nichts, solange Sie kein Unternehmen gründen, denn LuxTrust ist nur für Firmen und Selbstständige"
     ],
     "correct": 0,
     "explanation": "Die vier wichtigsten persönlichen Anwendungen sind sicheres Online-Banking, der Zugang zu öffentlichen Diensten wie MyGuichet.lu, rechtsgültige elektronische Signaturen und das Bestätigen von Online-Kartenzahlungen (mit 3D Secure)."
@@ -17431,10 +17431,10 @@ const EPISODES = [
    {
     "text": "Welchen rechtlichen Wert hat eine elektronische LuxTrust-Signatur?",
     "options": [
-     "Keinen rechtlichen Wert – sie dient nur der Bequemlichkeit",
-     "Sie ist nur für E-Mails gültig",
+     "Keinen rechtlichen Wert – sie ist nur eine praktische Bequemlichkeit für Sie",
+     "Sie gilt nur für E-Mails, nicht für Verträge",
      "Den gleichen rechtlichen Wert wie eine handschriftliche Unterschrift",
-     "Sie ist nur innerhalb Ihrer Bank gültig"
+     "Sie gilt nur innerhalb Ihrer eigenen Bank"
     ],
     "correct": 2,
     "explanation": "Eine elektronische LuxTrust-Signatur hat den gleichen rechtlichen Wert wie eine handschriftliche Unterschrift, sodass Sie offizielle Dokumente von zu Hause aus unterschreiben können, ohne etwas zu drucken."
@@ -17442,9 +17442,9 @@ const EPISODES = [
    {
     "text": "Wie wird Ihre Identität überprüft, wenn Sie eine LuxTrust-Identität erhalten?",
     "options": [
-     "Sie wird nie überprüft",
-     "Nur durch das Senden eines Fotos per E-Mail",
-     "Nur durch das Beantworten von Sicherheitsfragen online",
+     "Sie wird nie überprüft – Sie wählen einfach selbst einen Benutzernamen und ein Passwort auf der LuxTrust-Website",
+     "Nur indem Sie ein Foto von sich per E-Mail schicken, ohne ein Ausweisdokument vorzuzeigen",
+     "Nur indem Sie online ein paar Sicherheitsfragen zu Ihrer Adresse und Ihrem Geburtsdatum beantworten",
      "Sie müssen identifiziert werden – persönlich bei einem Agenten oder aus der Ferne per Video-Identifikation"
     ],
     "correct": 3,
@@ -17453,10 +17453,10 @@ const EPISODES = [
    {
     "text": "Welche Aussage über LuxTrust und Sicherheit ist richtig?",
     "options": [
-     "LuxTrust ruft Sie möglicherweise an, um nach Ihrem Passwort zu fragen",
+     "LuxTrust ruft Sie eventuell an, um Ihr Passwort abzufragen und zu prüfen, ob Ihr Konto noch sicher ist",
      "LuxTrust fragt niemals nach Ihren Codes oder Zugangsdaten, verlangt niemals Zugriff auf Ihr Gerät und kommt niemals zu Ihnen nach Hause",
-     "Sie können Ihre Codes bedenkenlos mit Ihrem Bankberater teilen",
-     "LuxTrust-Mitarbeiter können zu Ihnen nach Hause kommen, um zu helfen"
+     "Sie können Ihre Codes bedenkenlos an Ihren Bankberater oder ein Familienmitglied weitergeben, solange diese Ihnen beim Einrichten helfen",
+     "LuxTrust-Mitarbeiter können zu Ihnen nach Hause kommen, um die App zu installieren, und kurz Ihr Gerät benutzen"
     ],
     "correct": 1,
     "explanation": "LuxTrust fragt niemals nach Ihren Codes oder Zugangsdaten, verlangt niemals Zugriff auf Ihren Computer oder Ihr Handy und kommt niemals zu Ihnen nach Hause. Behalten Sie Ihre Zugangsdaten für sich und prüfen Sie im Zweifelsfall die offizielle Webseite."
@@ -18485,10 +18485,10 @@ const EPISODES = [
    {
     "text": "What is the Maison de l'Orientation?",
     "options": [
-     "A private tutoring company",
+     "A private tutoring company that helps pupils prepare for exams and charges by the hour",
      "A State service that brings many school- and career-guidance services together in one place",
-     "A university in Luxembourg City",
-     "An employment agency only for adults"
+     "A university in Luxembourg City where young people can study guidance and psychology",
+     "An employment agency for adults only, where jobseekers must register before they can receive any benefits"
     ],
     "correct": 1,
     "explanation": "It is a public administration that gathers, under one roof in Luxembourg City, many public services working on school and career guidance, for any citizen who wants help choosing their path."
@@ -18496,10 +18496,10 @@ const EPISODES = [
    {
     "text": "What is the walk-in guidance space (“Espace Orientation”) like?",
     "options": [
-     "It costs 50 euros and always requires an appointment",
-     "It is only for Luxembourg citizens over 25",
+     "It costs 50 euros per visit, and you always need an appointment that must be booked several weeks in advance",
+     "It is only for Luxembourg citizens over 25 who have already finished their studies or training",
      "It is free and anonymous, mainly for people aged 14 to 22, and you can come without an appointment",
-     "It is open only one day per year"
+     "It is open only one day per year, during a national open day in the spring, for all ages"
     ],
     "correct": 2,
     "explanation": "The guidance space offers free, anonymous advice, mainly for people aged about 14 to 22. You can simply walk in (Monday to Friday, 8:00–17:00), or book ahead to avoid waiting."
@@ -18507,10 +18507,10 @@ const EPISODES = [
    {
     "text": "How do you book an appointment at the Maison de l'Orientation?",
     "options": [
-     "By posting a letter",
-     "Only by visiting in person first",
+     "By sending a letter by post to the Maison de l'Orientation and waiting for a reply",
+     "Only by visiting in person first, since no appointments can be made online or by phone",
      "Online through MyGuichet.lu, choosing an online or an in-person appointment",
-     "Through your bank"
+     "Through your bank, which forwards your request to the Maison de l'Orientation"
     ],
     "correct": 2,
     "explanation": "Appointments are booked online via MyGuichet.lu, where you choose an online/video or an in-person meeting. Booking is possible with or without authentication."
@@ -18519,9 +18519,9 @@ const EPISODES = [
     "text": "What does the orientation coaching session include?",
     "options": [
      "A guidance coaching session with an interests test – voluntary and by appointment",
-     "A written exam you must pass",
-     "A compulsory medical check",
-     "A paid private lesson"
+     "A written exam that you must pass before you are allowed to choose a school or training",
+     "A compulsory medical check, which every pupil must complete before leaving secondary school",
+     "A paid private lesson with a teacher who prepares you for your final exams"
     ],
     "correct": 0,
     "explanation": "The coaching session comes with an interests test that helps you discover what motivates you and which activities suit you. It is aimed at students, is voluntary, and requires an appointment."
@@ -18529,9 +18529,9 @@ const EPISODES = [
    {
     "text": "Besides young pupils, who else can the Maison de l'Orientation help?",
     "options": [
-     "Only primary school children",
-     "Only company owners",
-     "Nobody – it only hands out leaflets",
+     "Only primary school children and their teachers – older pupils and adults are sent to other services, such as ADEM or the universities",
+     "Only company owners who want to recruit apprentices, through a dedicated service that matches businesses with young people looking for training",
+     "Nobody else – it only hands out leaflets about schools and trainings, and anyone with questions about recognising diplomas, changing careers or finding a job must go to their commune instead",
      "Adults changing career and newcomers too – including getting diplomas recognised and experience validated, via services such as ADEM guidance, CePAS, SIA and Euroguidance"
     ],
     "correct": 3,
@@ -20942,10 +20942,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que la Maison de l'orientation ?",
     "options": [
-     "Une entreprise privée de cours particuliers",
+     "Une entreprise privée de soutien scolaire qui aide les élèves à préparer leurs examens et facture à l'heure",
      "Un service de l'État qui rassemble en un seul endroit de nombreux services d'orientation scolaire et professionnelle",
-     "Une université à Luxembourg-Ville",
-     "Une agence pour l'emploi réservée aux adultes"
+     "Une université à Luxembourg-Ville où les jeunes peuvent étudier l'orientation et la psychologie",
+     "Une agence pour l'emploi réservée aux adultes, où les demandeurs d'emploi doivent s'inscrire avant de toucher la moindre aide"
     ],
     "correct": 1,
     "explanation": "Il s'agit d'une administration publique qui réunit, sous un même toit à Luxembourg-Ville, de nombreux services publics œuvrant à l'orientation scolaire et professionnelle, pour tout citoyen qui souhaite être aidé à choisir sa voie."
@@ -20953,10 +20953,10 @@ const EPISODES = [
    {
     "text": "Comment se présente l'espace d'accueil pour l'orientation (« Espace orientation ») ?",
     "options": [
-     "Il coûte 50 euros et exige toujours un rendez-vous",
-     "Il est réservé aux citoyens luxembourgeois de plus de 25 ans",
+     "Il coûte 50 euros par visite, et il faut toujours un rendez-vous réservé plusieurs semaines à l'avance",
+     "Il est réservé aux citoyens luxembourgeois de plus de 25 ans ayant déjà terminé leurs études ou leur formation",
      "Il est gratuit et anonyme, surtout pour les personnes de 14 à 22 ans, et vous pouvez venir sans rendez-vous",
-     "Il n'est ouvert qu'un seul jour par an"
+     "Il n'est ouvert qu'un jour par an, lors d'une journée portes ouvertes nationale au printemps, pour tous les âges"
     ],
     "correct": 2,
     "explanation": "L'espace d'orientation offre des conseils gratuits et anonymes, surtout pour les personnes d'environ 14 à 22 ans. Vous pouvez simplement vous y présenter (du lundi au vendredi, de 8h00 à 17h00) ou réserver à l'avance pour éviter d'attendre."
@@ -20964,10 +20964,10 @@ const EPISODES = [
    {
     "text": "Comment prend-on rendez-vous à la Maison de l'orientation ?",
     "options": [
-     "En envoyant une lettre par la poste",
-     "Uniquement en se présentant d'abord en personne",
+     "En envoyant une lettre par la poste à la Maison de l'orientation et en attendant une réponse",
+     "Uniquement en passant d'abord sur place, car on ne peut prendre rendez-vous ni en ligne ni par téléphone",
      "En ligne via MyGuichet.lu, en choisissant un rendez-vous en ligne ou en personne",
-     "Par l'intermédiaire de votre banque"
+     "Par l'intermédiaire de votre banque, qui transmet votre demande à la Maison de l'orientation"
     ],
     "correct": 2,
     "explanation": "Les rendez-vous se prennent en ligne via MyGuichet.lu, où vous choisissez un rendez-vous en ligne/vidéo ou en personne. La réservation est possible avec ou sans authentification."
@@ -20976,9 +20976,9 @@ const EPISODES = [
     "text": "Que comprend la séance de coaching d'orientation ?",
     "options": [
      "Une séance de coaching d'orientation avec un test d'intérêts – volontaire et sur rendez-vous",
-     "Un examen écrit que vous devez réussir",
-     "Un examen médical obligatoire",
-     "Un cours particulier payant"
+     "Un examen écrit que vous devez réussir avant d'avoir le droit de choisir une école ou une formation",
+     "Un contrôle médical obligatoire que chaque élève doit passer avant de quitter l'enseignement secondaire",
+     "Un cours particulier payant avec un enseignant qui vous prépare à vos examens de fin d'études"
     ],
     "correct": 0,
     "explanation": "La séance de coaching s'accompagne d'un test d'intérêts qui vous aide à découvrir ce qui vous motive et quelles activités vous conviennent. Elle s'adresse aux élèves, est volontaire et nécessite un rendez-vous."
@@ -20986,9 +20986,9 @@ const EPISODES = [
    {
     "text": "Outre les jeunes élèves, qui d'autre la Maison de l'orientation peut-elle aider ?",
     "options": [
-     "Uniquement les enfants de l'école primaire",
-     "Uniquement les chefs d'entreprise",
-     "Personne – elle ne fait que distribuer des dépliants",
+     "Seulement les enfants de l'école fondamentale et leurs enseignants – les élèves plus âgés et les adultes sont envoyés vers d'autres services, comme l'ADEM ou les universités",
+     "Seulement les chefs d'entreprise qui veulent recruter des apprentis, grâce à un service dédié qui met en relation les entreprises et les jeunes cherchant une formation",
+     "Personne d'autre – elle distribue seulement des brochures sur les écoles et les formations, et toute question sur la reconnaissance des diplômes, les reconversions professionnelles ou la recherche d'emploi doit être posée à la commune",
      "Les adultes en reconversion et aussi les nouveaux arrivants – y compris pour faire reconnaître des diplômes et valider une expérience, via des services tels que l'orientation de l'ADEM, le CePAS, le SIA et Euroguidance"
     ],
     "correct": 3,
@@ -21013,10 +21013,10 @@ const EPISODES = [
    {
     "text": "Was ist die Maison de l'orientation?",
     "options": [
-     "Ein privates Nachhilfeunternehmen",
+     "Eine private Nachhilfefirma, die Schüler auf Prüfungen vorbereitet und stundenweise abrechnet",
      "Ein staatlicher Dienst, der viele Dienste der schulischen und beruflichen Orientierung an einem Ort zusammenbringt",
-     "Eine Universität in Luxemburg-Stadt",
-     "Eine Arbeitsagentur nur für Erwachsene"
+     "Eine Universität in Luxemburg-Stadt, an der junge Menschen Orientierung und Psychologie studieren können",
+     "Eine Arbeitsagentur nur für Erwachsene, bei der sich Arbeitssuchende anmelden müssen, bevor sie irgendeine Leistung erhalten"
     ],
     "correct": 1,
     "explanation": "Es handelt sich um eine öffentliche Verwaltung, die in Luxemburg-Stadt unter einem Dach viele öffentliche Dienste zusammenbringt, die an der schulischen und beruflichen Orientierung arbeiten, für jeden Bürger, der bei der Wahl seines Weges Hilfe sucht."
@@ -21024,10 +21024,10 @@ const EPISODES = [
    {
     "text": "Wie sieht der Empfangsbereich für die Orientierung („Espace orientation“) aus?",
     "options": [
-     "Er kostet 50 Euro und erfordert immer einen Termin",
-     "Er ist nur für luxemburgische Bürger über 25 Jahre",
+     "Er kostet 50 Euro pro Besuch, und man braucht immer einen Termin, der mehrere Wochen im Voraus gebucht werden muss",
+     "Er ist nur für luxemburgische Staatsbürger über 25, die ihr Studium oder ihre Ausbildung bereits abgeschlossen haben",
      "Er ist kostenlos und anonym, vor allem für Menschen von 14 bis 22 Jahren, und Sie können ohne Termin kommen",
-     "Er ist nur an einem Tag im Jahr geöffnet"
+     "Er ist nur einen Tag im Jahr geöffnet, bei einem nationalen Tag der offenen Tür im Frühling, für alle Altersgruppen"
     ],
     "correct": 2,
     "explanation": "Der Orientierungsbereich bietet kostenlose, anonyme Beratung, vor allem für Menschen von etwa 14 bis 22 Jahren. Sie können einfach vorbeikommen (Montag bis Freitag, 8:00–17:00 Uhr) oder im Voraus buchen, um Wartezeiten zu vermeiden."
@@ -21035,10 +21035,10 @@ const EPISODES = [
    {
     "text": "Wie bucht man einen Termin in der Maison de l'orientation?",
     "options": [
-     "Durch das Versenden eines Briefes",
-     "Nur durch einen persönlichen Besuch zuerst",
+     "Indem Sie einen Brief per Post an die Maison de l'orientation schicken und auf eine Antwort warten",
+     "Nur indem Sie zuerst persönlich vorbeikommen, da Termine weder online noch telefonisch möglich sind",
      "Online über MyGuichet.lu, indem Sie einen Online- oder einen persönlichen Termin wählen",
-     "Über Ihre Bank"
+     "Über Ihre Bank, die Ihre Anfrage an die Maison de l'orientation weiterleitet"
     ],
     "correct": 2,
     "explanation": "Termine werden online über MyGuichet.lu gebucht, wo Sie ein Online-/Videogespräch oder ein persönliches Treffen wählen. Die Buchung ist mit oder ohne Authentifizierung möglich."
@@ -21047,9 +21047,9 @@ const EPISODES = [
     "text": "Was umfasst die Coaching-Sitzung zur Orientierung?",
     "options": [
      "Eine Coaching-Sitzung zur Orientierung mit einem Interessentest – freiwillig und nach Termin",
-     "Eine schriftliche Prüfung, die Sie bestehen müssen",
-     "Eine verpflichtende ärztliche Untersuchung",
-     "Eine bezahlte Privatstunde"
+     "Eine schriftliche Prüfung, die Sie bestehen müssen, bevor Sie eine Schule oder Ausbildung wählen dürfen",
+     "Eine verpflichtende ärztliche Untersuchung, die jeder Schüler vor dem Verlassen der Sekundarschule machen muss",
+     "Eine bezahlte Privatstunde bei einem Lehrer, der Sie auf Ihre Abschlussprüfungen vorbereitet"
     ],
     "correct": 0,
     "explanation": "Die Coaching-Sitzung beinhaltet einen Interessentest, der Ihnen hilft zu entdecken, was Sie motiviert und welche Tätigkeiten zu Ihnen passen. Sie richtet sich an Schüler, ist freiwillig und erfordert einen Termin."
@@ -21057,9 +21057,9 @@ const EPISODES = [
    {
     "text": "Wem kann die Maison de l'orientation außer jungen Schülern noch helfen?",
     "options": [
-     "Nur Grundschulkindern",
-     "Nur Unternehmern",
-     "Niemandem – sie verteilt nur Faltblätter",
+     "Nur Grundschulkinder und ihre Lehrkräfte – ältere Schüler und Erwachsene werden an andere Dienste verwiesen, etwa die ADEM oder die Universitäten",
+     "Nur Unternehmer, die Auszubildende einstellen möchten, über einen eigenen Dienst, der Betriebe mit jungen Menschen auf Ausbildungssuche zusammenbringt",
+     "Niemand sonst – sie verteilt nur Broschüren über Schulen und Ausbildungen, und wer Fragen zur Anerkennung von Diplomen, zu einem Berufswechsel, zur Validierung von Erfahrung oder zur Jobsuche hat, muss sich an seine Gemeinde wenden",
      "Erwachsenen in einer beruflichen Neuorientierung und auch Neuankömmlingen – einschließlich der Anerkennung von Diplomen und der Validierung von Erfahrung, über Dienste wie die Orientierung der ADEM, das CePAS, das SIA und Euroguidance"
     ],
     "correct": 3,
@@ -22061,9 +22061,9 @@ const EPISODES = [
     "text": "What is Info-Seniors (infosenior.lu)?",
     "options": [
      "The State's official information portal for older people in Luxembourg, run by the Ministry of Family",
-     "A private retirement-home chain",
-     "A pension savings account",
-     "A social network for retirees"
+     "A private chain of retirement homes that runs several care homes across Luxembourg and the Greater Region",
+     "A pension savings account offered by the State, into which older people can pay extra money each month",
+     "A social network for retirees, where older people can meet, chat and organise trips together"
     ],
     "correct": 0,
     "explanation": "Info-Seniors, at infosenior.lu, is the official public information portal for older people, run by the Ministry of Family Affairs – not a private company. It is for seniors, their families, professionals and anyone interested."
@@ -22071,9 +22071,9 @@ const EPISODES = [
    {
     "text": "What is special about the services listed in the Public Register of Services for Seniors?",
     "options": [
-     "Anyone can add their own service to the list",
-     "They are only services located in Luxembourg City",
-     "They are ranked by price only",
+     "Anyone can add their own service to the list, without any checks by the State",
+     "They are only services located in Luxembourg City, since the register is run by the capital",
+     "They are ranked by price only, from the cheapest to the most expensive",
      "They are all approved (“agréé”) by the State and subject to regular quality checks"
     ],
     "correct": 3,
@@ -22082,9 +22082,9 @@ const EPISODES = [
    {
     "text": "For each service, what information does the register give you?",
     "options": [
-     "Only a phone number",
-     "Only customer reviews",
-     "Nothing – you must visit in person to learn anything",
+     "Only a phone number and the opening hours of each service",
+     "Only customer reviews and a star rating given by other users",
+     "Nothing – you must visit each service in person to learn anything about it",
      "What the service is, the conditions to use it, and the steps to take"
     ],
     "correct": 3,
@@ -22093,10 +22093,10 @@ const EPISODES = [
    {
     "text": "Which of these is an example of a service you can find through Info-Seniors?",
     "options": [
-     "Free flight tickets for retirees",
-     "A tax-free shopping card",
+     "Free flight tickets for retirees who want to visit family abroad once a year",
+     "A tax-free shopping card for people over 65 to use in supermarkets",
      "Telecare (a call-for-help button) and meals on wheels delivered to your home",
-     "A car-leasing discount"
+     "A car-leasing discount for older drivers, with free insurance included"
     ],
     "correct": 2,
     "explanation": "The register covers care homes, assisted living, day care centres, home help and nursing, meals on wheels, telecare (a telealarm button), and senior activities such as the Clubs Aktiv Plus – all aimed at helping people stay independent at home as long as possible."
@@ -22104,10 +22104,10 @@ const EPISODES = [
    {
     "text": "If you don't know who to ask, or you have a disagreement with a service, what can help?",
     "options": [
-     "Nothing – you are on your own",
+     "Nothing – if you have a disagreement, you have to sort it out with the service on your own",
      "A national information and mediation service that can guide you and help find a solution",
-     "Only a private lawyer",
-     "You must move to a care home first"
+     "Only a private lawyer, because the State does not offer any mediation for seniors' services",
+     "You must first move to a care home, where the staff will handle all questions for you"
     ],
     "correct": 1,
     "explanation": "Besides the website and the register, there is a national information and mediation service for the field of services for older people. It can guide you and help resolve a disagreement with a service – so you are never left on your own."
@@ -24433,9 +24433,9 @@ const EPISODES = [
     "text": "Qu'est-ce qu'Info-Seniors (infosenior.lu) ?",
     "options": [
      "Le portail d'information officiel de l'État pour les personnes âgées au Luxembourg, géré par le ministère de la Famille",
-     "Une chaîne privée de maisons de retraite",
-     "Un compte d'épargne-pension",
-     "Un réseau social pour retraités"
+     "Une chaîne privée de maisons de retraite qui gère plusieurs maisons de soins au Luxembourg et dans la Grande Région",
+     "Un compte d'épargne-pension proposé par l'État, sur lequel les personnes âgées peuvent verser un peu d'argent chaque mois",
+     "Un réseau social pour retraités, où les personnes âgées peuvent se rencontrer, discuter et organiser des voyages"
     ],
     "correct": 0,
     "explanation": "Info-Seniors, sur infosenior.lu, est le portail d'information public officiel pour les personnes âgées, géré par le ministère de la Famille – et non une entreprise privée. Il s'adresse aux seniors, à leurs familles, aux professionnels et à toute personne intéressée."
@@ -24443,9 +24443,9 @@ const EPISODES = [
    {
     "text": "Qu'y a-t-il de particulier dans les services figurant au Registre public des services pour personnes âgées ?",
     "options": [
-     "N'importe qui peut ajouter son propre service à la liste",
-     "Ce sont uniquement des services situés à Luxembourg-Ville",
-     "Ils sont classés uniquement selon le prix",
+     "N'importe qui peut ajouter son propre service à la liste, sans aucun contrôle de l'État",
+     "Ce sont uniquement des services situés à Luxembourg-Ville, car le registre est géré par la capitale",
+     "Ils sont classés uniquement selon leur prix, du moins cher au plus cher",
      "Ils sont tous agréés par l'État et soumis à des contrôles de qualité réguliers"
     ],
     "correct": 3,
@@ -24454,9 +24454,9 @@ const EPISODES = [
    {
     "text": "Pour chaque service, quelles informations le registre vous donne-t-il ?",
     "options": [
-     "Uniquement un numéro de téléphone",
-     "Uniquement des avis de clients",
-     "Rien – vous devez vous rendre sur place pour apprendre quoi que ce soit",
+     "Seulement un numéro de téléphone et les horaires d'ouverture de chaque service",
+     "Seulement des avis de clients et une note en étoiles donnée par d'autres utilisateurs",
+     "Rien – vous devez vous rendre dans chaque service pour en apprendre quoi que ce soit",
      "Ce qu'est le service, les conditions pour en bénéficier et les démarches à effectuer"
     ],
     "correct": 3,
@@ -24465,10 +24465,10 @@ const EPISODES = [
    {
     "text": "Lequel de ces éléments est un exemple de service que vous pouvez trouver via Info-Seniors ?",
     "options": [
-     "Des billets d'avion gratuits pour les retraités",
-     "Une carte d'achat hors taxes",
+     "Des billets d'avion gratuits pour les retraités qui veulent rendre visite à leur famille à l'étranger une fois par an",
+     "Une carte d'achat sans taxes pour les plus de 65 ans, à utiliser dans les supermarchés",
      "La télévigilance (un bouton d'appel à l'aide) et les repas sur roues livrés à votre domicile",
-     "Une remise sur la location d'une voiture"
+     "Une réduction sur le leasing automobile pour les conducteurs âgés, avec assurance gratuite incluse"
     ],
     "correct": 2,
     "explanation": "Le registre couvre les maisons de soins, les logements encadrés, les centres d'accueil de jour, l'aide et les soins à domicile, les repas sur roues, la télévigilance (un bouton de téléalarme) et les activités pour seniors comme les Clubs Aktiv Plus – le tout visant à aider les personnes à rester autonomes chez elles le plus longtemps possible."
@@ -24476,10 +24476,10 @@ const EPISODES = [
    {
     "text": "Si vous ne savez pas à qui vous adresser, ou si vous avez un désaccord avec un service, qu'est-ce qui peut vous aider ?",
     "options": [
-     "Rien – vous êtes livré à vous-même",
+     "Rien – en cas de désaccord, vous devez régler le problème seul avec le service",
      "Un service national d'information et de médiation qui peut vous orienter et vous aider à trouver une solution",
-     "Uniquement un avocat privé",
-     "Vous devez d'abord emménager en maison de soins"
+     "Seulement un avocat privé, car l'État ne propose aucune médiation pour les services aux seniors",
+     "Vous devez d'abord emménager dans une maison de soins, où le personnel gérera ensuite toutes les questions à votre place"
     ],
     "correct": 1,
     "explanation": "Outre le site web et le registre, il existe un service national d'information et de médiation pour le domaine des services aux personnes âgées. Il peut vous orienter et vous aider à résoudre un désaccord avec un service – vous n'êtes donc jamais laissé seul."
@@ -24504,9 +24504,9 @@ const EPISODES = [
     "text": "Was ist Info-Seniors (infosenior.lu)?",
     "options": [
      "Das offizielle Informationsportal des Staates für ältere Menschen in Luxemburg, betrieben vom Familienministerium",
-     "Eine private Altenheimkette",
-     "Ein Rentensparkonto",
-     "Ein soziales Netzwerk für Rentner"
+     "Eine private Kette von Seniorenheimen, die mehrere Pflegeheime in Luxemburg und der Großregion betreibt",
+     "Ein staatliches Rentensparkonto, auf das ältere Menschen jeden Monat zusätzlich Geld einzahlen können",
+     "Ein soziales Netzwerk für Rentner, in dem sich ältere Menschen treffen, austauschen und gemeinsam Reisen und Ausflüge planen"
     ],
     "correct": 0,
     "explanation": "Info-Seniors, unter infosenior.lu, ist das offizielle öffentliche Informationsportal für ältere Menschen, betrieben vom Familienministerium – kein privates Unternehmen. Es ist für Senioren, ihre Familien, Fachkräfte und alle Interessierten."
@@ -24514,9 +24514,9 @@ const EPISODES = [
    {
     "text": "Was ist das Besondere an den im Öffentlichen Register der Seniorendienste aufgeführten Diensten?",
     "options": [
-     "Jeder kann seinen eigenen Dienst zur Liste hinzufügen",
-     "Es sind nur Dienste in Luxemburg-Stadt",
-     "Sie sind nur nach dem Preis geordnet",
+     "Jeder kann seinen eigenen Dienst in die Liste eintragen, ganz ohne Kontrolle oder Zulassung durch den Staat",
+     "Es sind nur Dienste in Luxemburg-Stadt, da das Register von der Hauptstadt geführt wird",
+     "Sie sind nur nach Preis sortiert, vom günstigsten bis zum teuersten",
      "Sie sind alle vom Staat zugelassen („agréé“) und unterliegen regelmäßigen Qualitätskontrollen"
     ],
     "correct": 3,
@@ -24525,9 +24525,9 @@ const EPISODES = [
    {
     "text": "Welche Informationen gibt Ihnen das Register zu jedem Dienst?",
     "options": [
-     "Nur eine Telefonnummer",
-     "Nur Kundenbewertungen",
-     "Nichts – Sie müssen persönlich vorbeikommen, um irgendetwas zu erfahren",
+     "Nur eine Telefonnummer und die Öffnungszeiten jedes Dienstes",
+     "Nur Kundenbewertungen und eine Sternebewertung anderer Nutzer",
+     "Nichts – Sie müssen jeden Dienst einzeln persönlich besuchen, um überhaupt etwas zu erfahren",
      "Was der Dienst ist, die Bedingungen für seine Nutzung und die zu unternehmenden Schritte"
     ],
     "correct": 3,
@@ -24536,10 +24536,10 @@ const EPISODES = [
    {
     "text": "Welches dieser Beispiele ist ein Dienst, den Sie über Info-Seniors finden können?",
     "options": [
-     "Kostenlose Flugtickets für Rentner",
-     "Eine Karte zum steuerfreien Einkaufen",
+     "Kostenlose Flugtickets für Rentner, die einmal im Jahr ihre Familie im Ausland besuchen möchten",
+     "Eine steuerfreie Einkaufskarte für Menschen über 65 für den Supermarkt",
      "Telealarm (ein Hilferuf-Knopf) und Essen auf Rädern, das zu Ihnen nach Hause geliefert wird",
-     "Ein Rabatt auf das Leasing eines Autos"
+     "Ein Rabatt auf Autoleasing für ältere Fahrer, inklusive kostenloser Versicherung"
     ],
     "correct": 2,
     "explanation": "Das Register umfasst Pflegeheime, betreutes Wohnen, Tagesbetreuungszentren, Haushaltshilfe und Pflege zu Hause, Essen auf Rädern, Telealarm (einen Telealarm-Knopf) und Seniorenaktivitäten wie die Clubs Aktiv Plus – alles mit dem Ziel, Menschen so lange wie möglich selbstständig zu Hause leben zu lassen."
@@ -24547,10 +24547,10 @@ const EPISODES = [
    {
     "text": "Wenn Sie nicht wissen, an wen Sie sich wenden sollen, oder wenn Sie eine Meinungsverschiedenheit mit einem Dienst haben, was kann helfen?",
     "options": [
-     "Nichts – Sie sind auf sich allein gestellt",
+     "Nichts – bei einer Meinungsverschiedenheit müssen Sie das ganz allein und ohne jede Hilfe mit dem Dienst klären",
      "Ein nationaler Informations- und Mediationsdienst, der Sie orientieren und bei der Suche nach einer Lösung helfen kann",
-     "Nur ein privater Anwalt",
-     "Sie müssen zuerst in ein Pflegeheim ziehen"
+     "Nur ein privater Anwalt, weil der Staat keine Schlichtung für Seniorendienste anbietet",
+     "Sie müssen zuerst in ein Pflegeheim ziehen, wo das Personal alle Fragen für Sie regelt"
     ],
     "correct": 1,
     "explanation": "Neben der Webseite und dem Register gibt es einen nationalen Informations- und Mediationsdienst für den Bereich der Dienste für ältere Menschen. Er kann Sie orientieren und helfen, eine Meinungsverschiedenheit mit einem Dienst zu lösen – so werden Sie nie allein gelassen."
@@ -25821,9 +25821,9 @@ const EPISODES = [
     "text": "What is accessibilite.lu?",
     "options": [
      "The official Government of Luxembourg hub that brings together three areas of accessibility: digital, infrastructure, and products & services",
-     "A private company selling accessibility equipment",
-     "A disability benefits application",
-     "A map of wheelchair-friendly restaurants"
+     "A private company that sells accessibility equipment such as ramps, lifts and screen readers to homes and businesses across Luxembourg",
+     "An online application where people with a disability apply for benefits and follow the status of their payments from the State",
+     "A map of wheelchair-friendly restaurants, shops and cafés in Luxembourg, based on ratings and comments from the public and from local businesses"
     ],
     "correct": 0,
     "explanation": "accessibilite.lu is the official public hub of the Government of Luxembourg. It opens onto three portals: digital accessibility, infrastructure accessibility, and accessibility of products and services."
@@ -25831,9 +25831,9 @@ const EPISODES = [
    {
     "text": "Under the law of 28 May 2019 on digital accessibility, who must make their websites and mobile apps accessible?",
     "options": [
-     "Every private website in Luxembourg",
-     "Only online shops",
-     "Only social media platforms",
+     "Every private website in Luxembourg, including blogs and small shops",
+     "Only online shops that sell products to customers in the European Union",
+     "Only social media platforms with more than a million users",
      "Public sector bodies – the State, the communes and public-law bodies"
     ],
     "correct": 3,
@@ -25842,10 +25842,10 @@ const EPISODES = [
    {
     "text": "What are the four key principles of digital accessibility?",
     "options": [
-     "Fast, cheap, modern and colourful",
-     "Private, secure, encrypted and backed-up",
+     "Fast, modern, colourful and easy to remember",
+     "Private, secure, encrypted and regularly backed-up",
      "Perceivable, operable, understandable and robust",
-     "Mobile, desktop, tablet and watch"
+     "Mobile, desktop, tablet and smartwatch compatible"
     ],
     "correct": 2,
     "explanation": "Accessible digital content must be perceivable (e.g. text descriptions for images), operable (e.g. usable with a keyboard), understandable (clear and predictable) and robust (works with assistive technologies)."
@@ -25854,9 +25854,9 @@ const EPISODES = [
     "text": "What idea is the infrastructure law of 7 January 2022 built on, and what is the deadline for existing public places?",
     "options": [
      "Universal design – places usable by everyone from the start; existing public places accessible by 1 January 2032",
-     "Separate entrances for disabled people; deadline 2025",
-     "Demolishing all old buildings; deadline 2030",
-     "Voluntary guidelines with no deadline"
+     "Separate entrances and special rooms for disabled people; existing public places must be adapted by 2025",
+     "Demolishing and rebuilding all old public buildings; existing public places must be replaced by 2030",
+     "Voluntary guidelines that owners can follow if they wish; there is no deadline at all for existing public places"
     ],
     "correct": 0,
     "explanation": "The law (in force since 1 July 2023) is based on universal design – designing places usable by everyone from the start. New builds and major works must comply now; existing places open to the public must be accessible by 1 January 2032."
@@ -25864,10 +25864,10 @@ const EPISODES = [
    {
     "text": "The accessibility of products and services comes from the European Accessibility Act. Since when does it apply, and how can you report a product or service that isn't accessible?",
     "options": [
-     "Since 2019; by calling the police",
+     "Since 2019; by calling the police, who forward your report to the ministry",
      "Since 28 June 2025; online via MyGuichet.lu (to the OSAPS office)",
-     "Since 2030; only by letter",
-     "It does not apply in Luxembourg yet"
+     "Since 2030; only by sending a letter to the European Commission",
+     "It does not apply in Luxembourg yet; reports are not possible"
     ],
     "correct": 1,
     "explanation": "Luxembourg transposed the European Accessibility Act (Law of 8 March 2023), applicable since 28 June 2025. The OSAPS office monitors compliance, and anyone can report a non-accessible product or service online via MyGuichet.lu."
@@ -28873,9 +28873,9 @@ const EPISODES = [
     "text": "Qu'est-ce qu'accessibilite.lu ?",
     "options": [
      "Le portail officiel du Gouvernement du Luxembourg qui rassemble trois domaines de l'accessibilité : le numérique, les infrastructures, et les produits et services",
-     "Une entreprise privée qui vend du matériel d'accessibilité",
-     "Une demande d'allocation pour personnes handicapées",
-     "Une carte des restaurants accessibles en fauteuil roulant"
+     "Une entreprise privée qui vend du matériel d'accessibilité comme des rampes, des ascenseurs et des lecteurs d'écran aux particuliers et aux entreprises au Luxembourg",
+     "Une application en ligne où les personnes en situation de handicap demandent des aides et suivent l'état de leurs paiements de l'État",
+     "Une carte des restaurants, magasins et cafés accessibles en fauteuil roulant au Luxembourg, basée sur les notes et les commentaires du public et des commerces locaux"
     ],
     "correct": 0,
     "explanation": "accessibilite.lu est le portail officiel du Gouvernement du Luxembourg. Il ouvre sur trois portails : l'accessibilité numérique, l'accessibilité des infrastructures, et l'accessibilité des produits et services."
@@ -28883,9 +28883,9 @@ const EPISODES = [
    {
     "text": "En vertu de la loi du 28 mai 2019 sur l'accessibilité numérique, qui doit rendre ses sites web et applications mobiles accessibles ?",
     "options": [
-     "Tous les sites web privés du Luxembourg",
-     "Uniquement les boutiques en ligne",
-     "Uniquement les plateformes de réseaux sociaux",
+     "Tous les sites privés du Luxembourg, y compris les blogs et les petites boutiques",
+     "Seulement les boutiques en ligne qui vendent des produits à des clients de l'Union européenne",
+     "Seulement les réseaux sociaux de plus d'un million d'utilisateurs",
      "Les organismes du secteur public – l'État, les communes et les organismes de droit public"
     ],
     "correct": 3,
@@ -28894,10 +28894,10 @@ const EPISODES = [
    {
     "text": "Quels sont les quatre principes clés de l'accessibilité numérique ?",
     "options": [
-     "Rapide, bon marché, moderne et coloré",
-     "Privé, sécurisé, chiffré et sauvegardé",
+     "Rapide, moderne, coloré et facile à retenir",
+     "Privé, sécurisé, chiffré et sauvegardé régulièrement",
      "Perceptible, utilisable, compréhensible et robuste",
-     "Mobile, ordinateur de bureau, tablette et montre"
+     "Compatible mobile, ordinateur, tablette et montre connectée"
     ],
     "correct": 2,
     "explanation": "Un contenu numérique accessible doit être perceptible (par exemple, des descriptions textuelles pour les images), utilisable (par exemple, utilisable au clavier), compréhensible (clair et prévisible) et robuste (fonctionne avec les technologies d'assistance)."
@@ -28906,9 +28906,9 @@ const EPISODES = [
     "text": "Sur quelle idée repose la loi du 7 janvier 2022 sur les infrastructures, et quelle est l'échéance pour les lieux publics existants ?",
     "options": [
      "Le design universel – des lieux utilisables par tous dès le départ ; les lieux publics existants accessibles d'ici le 1er janvier 2032",
-     "Des entrées séparées pour les personnes handicapées ; échéance 2025",
-     "Démolir tous les anciens bâtiments ; échéance 2030",
-     "Des lignes directrices volontaires sans échéance"
+     "Des entrées séparées et des salles spéciales pour les personnes handicapées ; les lieux publics existants doivent être adaptés d'ici 2025",
+     "Démolir et reconstruire tous les anciens bâtiments publics ; les lieux publics existants doivent être remplacés d'ici 2030",
+     "Des recommandations facultatives que les propriétaires suivent s'ils le souhaitent ; aucune échéance pour les lieux publics existants"
     ],
     "correct": 0,
     "explanation": "La loi (en vigueur depuis le 1er juillet 2023) repose sur le design universel – concevoir des lieux utilisables par tous dès le départ. Les nouvelles constructions et les gros travaux doivent désormais s'y conformer ; les lieux existants ouverts au public doivent être accessibles d'ici le 1er janvier 2032."
@@ -28916,10 +28916,10 @@ const EPISODES = [
    {
     "text": "L'accessibilité des produits et services découle de l'Acte européen sur l'accessibilité. Depuis quand s'applique-t-il, et comment pouvez-vous signaler un produit ou un service qui n'est pas accessible ?",
     "options": [
-     "Depuis 2019 ; en appelant la police",
+     "Depuis 2019 ; en appelant la police, qui transmet votre signalement au ministère",
      "Depuis le 28 juin 2025 ; en ligne via MyGuichet.lu (auprès du bureau OSAPS)",
-     "Depuis 2030 ; uniquement par lettre",
-     "Il ne s'applique pas encore au Luxembourg"
+     "Depuis 2030 ; uniquement par lettre à la Commission européenne",
+     "Il ne s'applique pas encore au Luxembourg ; aucun signalement n'est possible"
     ],
     "correct": 1,
     "explanation": "Le Luxembourg a transposé l'Acte européen sur l'accessibilité (loi du 8 mars 2023), applicable depuis le 28 juin 2025. Le bureau OSAPS surveille la conformité, et toute personne peut signaler un produit ou un service non accessible en ligne via MyGuichet.lu."
@@ -28944,9 +28944,9 @@ const EPISODES = [
     "text": "Was ist accessibilite.lu?",
     "options": [
      "Das offizielle Portal der Regierung von Luxemburg, das drei Bereiche der Barrierefreiheit zusammenbringt: das Digitale, die Infrastruktur und die Produkte und Dienstleistungen",
-     "Ein privates Unternehmen, das Hilfsmittel für Barrierefreiheit verkauft",
-     "Ein Antrag auf Leistungen für Menschen mit Behinderung",
-     "Eine Karte rollstuhlgerechter Restaurants"
+     "Ein privates Unternehmen, das Hilfsmittel für Barrierefreiheit wie Rampen, Aufzüge und Screenreader an Haushalte und Firmen in ganz Luxemburg verkauft",
+     "Eine Online-Anwendung, über die Menschen mit Behinderung Leistungen beantragen und den Stand ihrer staatlichen Zahlungen verfolgen",
+     "Eine Karte rollstuhlgerechter Restaurants, Geschäfte und Cafés in ganz Luxemburg, auf Grundlage von Bewertungen und Kommentaren der Öffentlichkeit und der lokalen Betriebe"
     ],
     "correct": 0,
     "explanation": "accessibilite.lu ist das offizielle Portal der Regierung von Luxemburg. Es öffnet sich auf drei Portale: die digitale Barrierefreiheit, die Barrierefreiheit der Infrastruktur und die Barrierefreiheit von Produkten und Dienstleistungen."
@@ -28954,9 +28954,9 @@ const EPISODES = [
    {
     "text": "Wer muss nach dem Gesetz vom 28. Mai 2019 über die digitale Barrierefreiheit seine Websites und mobilen Apps barrierefrei machen?",
     "options": [
-     "Jede private Website in Luxemburg",
-     "Nur Online-Shops",
-     "Nur Plattformen sozialer Medien",
+     "Jede private Website in Luxemburg, einschließlich Blogs und kleiner Shops",
+     "Nur Online-Shops, die Produkte an Kunden in der Europäischen Union verkaufen und mehr als zehn Mitarbeiter haben",
+     "Nur soziale Netzwerke mit mehr als einer Million Nutzern",
      "Stellen des öffentlichen Sektors – der Staat, die Gemeinden und öffentlich-rechtliche Einrichtungen"
     ],
     "correct": 3,
@@ -28965,10 +28965,10 @@ const EPISODES = [
    {
     "text": "Was sind die vier Grundprinzipien der digitalen Barrierefreiheit?",
     "options": [
-     "Schnell, günstig, modern und bunt",
-     "Privat, sicher, verschlüsselt und gesichert",
+     "Schnell, modern, farbenfroh und leicht zu merken",
+     "Privat, sicher, verschlüsselt und regelmäßig gesichert",
      "Wahrnehmbar, bedienbar, verständlich und robust",
-     "Handy, Desktop, Tablet und Uhr"
+     "Kompatibel mit Handy, Computer, Tablet und Smartwatch"
     ],
     "correct": 2,
     "explanation": "Barrierefreie digitale Inhalte müssen wahrnehmbar sein (z. B. Textbeschreibungen für Bilder), bedienbar (z. B. mit der Tastatur nutzbar), verständlich (klar und vorhersehbar) und robust (funktioniert mit assistiven Technologien)."
@@ -28977,9 +28977,9 @@ const EPISODES = [
     "text": "Auf welcher Idee beruht das Infrastrukturgesetz vom 7. Januar 2022, und was ist die Frist für bestehende öffentliche Orte?",
     "options": [
      "Universelles Design – Orte, die von Anfang an von allen nutzbar sind; bestehende öffentliche Orte bis zum 1. Januar 2032 barrierefrei",
-     "Getrennte Eingänge für Menschen mit Behinderung; Frist 2025",
-     "Abriss aller alten Gebäude; Frist 2030",
-     "Freiwillige Leitlinien ohne Frist"
+     "Getrennte Eingänge und besondere Räume für Menschen mit Behinderung; bestehende öffentliche Orte müssen bis 2025 angepasst sein",
+     "Abriss und Neubau aller alten öffentlichen Gebäude; bestehende öffentliche Orte müssen bis 2030 ersetzt sein",
+     "Freiwillige Leitlinien, denen Eigentümer folgen können, wenn sie wollen; für bestehende öffentliche Orte gibt es überhaupt keine Frist"
     ],
     "correct": 0,
     "explanation": "Das Gesetz (in Kraft seit dem 1. Juli 2023) beruht auf dem universellen Design – Orte so zu gestalten, dass sie von Anfang an von allen nutzbar sind. Neubauten und größere Arbeiten müssen jetzt konform sein; bestehende, der Öffentlichkeit zugängliche Orte müssen bis zum 1. Januar 2032 barrierefrei sein."
@@ -28987,10 +28987,10 @@ const EPISODES = [
    {
     "text": "Die Barrierefreiheit von Produkten und Dienstleistungen ergibt sich aus dem Europäischen Rechtsakt zur Barrierefreiheit. Seit wann gilt er, und wie können Sie ein Produkt oder eine Dienstleistung melden, das bzw. die nicht barrierefrei ist?",
     "options": [
-     "Seit 2019; durch Anrufen der Polizei",
+     "Seit 2019; indem Sie die Polizei anrufen, die Ihre Meldung an das Ministerium weiterleitet",
      "Seit dem 28. Juni 2025; online über MyGuichet.lu (an die Stelle OSAPS)",
-     "Seit 2030; nur per Brief",
-     "Er gilt in Luxemburg noch nicht"
+     "Seit 2030; nur per Brief an die Europäische Kommission",
+     "Er gilt in Luxemburg noch nicht; Meldungen sind nicht möglich"
     ],
     "correct": 1,
     "explanation": "Luxemburg hat den Europäischen Rechtsakt zur Barrierefreiheit umgesetzt (Gesetz vom 8. März 2023), anwendbar seit dem 28. Juni 2025. Die Stelle OSAPS überwacht die Einhaltung, und jeder kann ein nicht barrierefreies Produkt oder eine nicht barrierefreie Dienstleistung online über MyGuichet.lu melden."
@@ -30215,10 +30215,10 @@ const EPISODES = [
    {
     "text": "What is the Zukunftskeess (Caisse pour l’avenir des enfants / CAE)?",
     "options": [
-     "A private savings plan for children",
-     "A children’s bank account",
+     "A private savings plan in which parents put money aside for their children's studies",
+     "A children's bank account opened by the State at birth, which pays interest until age 18",
      "The official State fund that pays family benefits in Luxembourg",
-     "A daycare chain"
+     "A national chain of day-care centres for children under four years old"
     ],
     "correct": 2,
     "explanation": "The Zukunftskeess – the Children’s Future Fund (cae.lu) – is the official State fund, part of social security, that pays family benefits such as the birth allowance, the monthly family allowance and the back-to-school allowance."
@@ -30227,9 +30227,9 @@ const EPISODES = [
     "text": "How is the birth allowance (about €1,740) paid, and what is it linked to?",
     "options": [
      "In three equal parts of about €580, each linked to medical check-ups for mother and child (prenatal, birth, postnatal)",
-     "In one payment, with no conditions",
-     "Only if you have a second child",
-     "As a monthly top-up for two years"
+     "In one single payment right after the birth, with no conditions and no link to any medical check-up",
+     "Only if you already have a child, as a bonus for the second and each further child, paid in two parts",
+     "As a monthly top-up to your salary for two years, linked to the parents' working hours, not to medical check-ups"
     ],
     "correct": 0,
     "explanation": "The birth allowance totals about €1,740.09, paid in three independent instalments of €580.03 – prenatal, birth and postnatal – each tied to completing the medical examinations for mother and baby."
@@ -30237,10 +30237,10 @@ const EPISODES = [
    {
     "text": "Until what age is the monthly family allowance normally paid, and how does the amount change as the child grows?",
     "options": [
-     "Until age 12, and it never changes",
+     "Until age 12 for everyone; the amount stays exactly the same from birth, whatever the child's age or schooling",
      "From birth until 18 (up to 25 if still in secondary school or an apprenticeship); the amount increases at age 6 and again at age 12",
-     "Only between ages 6 and 16",
-     "Until age 30 for everyone"
+     "Only between ages 6 and 16, during compulsory schooling; the amount goes down once the child starts secondary school",
+     "Until age 30 for everyone, whether they study or work; the amount is highest for babies and then decreases every year"
     ],
     "correct": 1,
     "explanation": "The family allowance is paid per child from the month of birth until 18 – and up to 25 if the young person is still in secondary education or an apprenticeship. The amount steps up at age 6 and again at age 12."
@@ -30248,10 +30248,10 @@ const EPISODES = [
    {
     "text": "How do you get the back-to-school allowance, and when is it paid?",
     "options": [
-     "You must apply separately every July",
+     "You must apply separately every July, with the school's enrolment certificate, and it is paid in October",
      "It is paid automatically to children already receiving the family allowance, in August each year",
-     "Only families with three or more children receive it",
-     "It is paid in December"
+     "Only families with three or more children receive it, and only after sending in their school bills",
+     "It is paid in December, as a Christmas bonus, to every family that asks for it on MyGuichet.lu"
     ],
     "correct": 1,
     "explanation": "Children who already receive the family allowance get the back-to-school allowance automatically, paid in August. The amount depends on age (around €115 for ages 6–11 and €235 for 12 and over)."
@@ -30259,9 +30259,9 @@ const EPISODES = [
    {
     "text": "You work in Luxembourg but your children live in France, Belgium or Germany. What is the position on family allowance?",
     "options": [
-     "You get nothing because the children live abroad",
-     "You must move the children to Luxembourg first",
-     "You receive double the amount automatically",
+     "You get nothing, because family allowance is only paid for children who live in Luxembourg, even if you work and pay social security here",
+     "You must first move the children to Luxembourg and register them at a commune; until then, only the country of residence can pay anything",
+     "You automatically receive the full Luxembourg amount on top of any benefit from the country of residence, so cross-border families get double",
      "If you are covered by Luxembourg social security, your children can be entitled; if a benefit is already paid in the country of residence, Luxembourg pays a differential supplement (top-up)"
     ],
     "correct": 3,
@@ -33117,10 +33117,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que la Zukunftskeess (Caisse pour l'avenir des enfants / CAE) ?",
     "options": [
-     "Un plan d'épargne privé pour enfants",
-     "Un compte bancaire pour enfants",
+     "Un plan d'épargne privé dans lequel les parents mettent de l'argent de côté pour les études de leurs enfants",
+     "Un compte bancaire pour enfants ouvert par l'État à la naissance, qui rapporte des intérêts jusqu'à 18 ans",
      "La caisse officielle de l'État qui verse les prestations familiales au Luxembourg",
-     "Une chaîne de crèches"
+     "Un réseau national de crèches pour les enfants de moins de quatre ans"
     ],
     "correct": 2,
     "explanation": "La Zukunftskeess – la Caisse pour l'avenir des enfants (cae.lu) – est la caisse officielle de l'État, qui fait partie de la sécurité sociale et verse les prestations familiales telles que l'allocation de naissance, l'allocation familiale mensuelle et l'allocation de rentrée scolaire."
@@ -33129,9 +33129,9 @@ const EPISODES = [
     "text": "Comment l'allocation de naissance (environ 1 740 €) est-elle payée, et à quoi est-elle liée ?",
     "options": [
      "En trois parts égales d'environ 580 €, chacune liée aux examens médicaux de la mère et de l'enfant (prénatal, naissance, postnatal)",
-     "En un seul versement, sans conditions",
-     "Uniquement si vous avez un deuxième enfant",
-     "Comme un complément mensuel pendant deux ans"
+     "En un seul versement juste après la naissance, sans condition et sans lien avec un examen médical",
+     "Seulement si vous avez déjà un enfant, comme prime pour le deuxième enfant et les suivants, versée en deux fois",
+     "Comme complément mensuel au salaire pendant deux ans, calculé selon le temps de travail des parents et sans aucun lien avec les examens médicaux"
     ],
     "correct": 0,
     "explanation": "L'allocation de naissance s'élève au total à environ 1 740,09 €, payée en trois tranches indépendantes de 580,03 € – prénatale, de naissance et postnatale – chacune liée à la réalisation des examens médicaux pour la mère et le bébé."
@@ -33139,10 +33139,10 @@ const EPISODES = [
    {
     "text": "Jusqu'à quel âge l'allocation familiale mensuelle est-elle normalement payée, et comment le montant évolue-t-il à mesure que l'enfant grandit ?",
     "options": [
-     "Jusqu'à 12 ans, et il ne change jamais",
+     "Jusqu'à 12 ans pour tous ; le montant reste exactement le même depuis la naissance, quel que soit l'âge ou la scolarité",
      "De la naissance jusqu'à 18 ans (jusqu'à 25 ans si l'enfant est encore dans l'enseignement secondaire ou en apprentissage) ; le montant augmente à 6 ans et de nouveau à 12 ans",
-     "Uniquement entre 6 et 16 ans",
-     "Jusqu'à 30 ans pour tout le monde"
+     "Seulement entre 6 et 16 ans, pendant la scolarité obligatoire ; le montant baisse quand l'enfant entre au secondaire",
+     "Jusqu'à 30 ans pour tous, qu'ils étudient, travaillent ou non ; le montant est le plus élevé pour les bébés, puis il diminue un peu chaque année jusqu'à la fin"
     ],
     "correct": 1,
     "explanation": "L'allocation familiale est payée par enfant depuis le mois de la naissance jusqu'à 18 ans – et jusqu'à 25 ans si le jeune est encore dans l'enseignement secondaire ou en apprentissage. Le montant augmente à 6 ans et de nouveau à 12 ans."
@@ -33150,10 +33150,10 @@ const EPISODES = [
    {
     "text": "Comment obtient-on l'allocation de rentrée scolaire, et quand est-elle payée ?",
     "options": [
-     "Vous devez en faire la demande séparément chaque mois de juillet",
+     "Il faut en faire la demande séparément chaque mois de juillet, avec le certificat d'inscription scolaire, et elle est versée en octobre",
      "Elle est payée automatiquement aux enfants qui reçoivent déjà l'allocation familiale, au mois d'août chaque année",
-     "Seules les familles de trois enfants ou plus la reçoivent",
-     "Elle est payée en décembre"
+     "Seules les familles de trois enfants ou plus la reçoivent, et seulement après avoir envoyé leurs factures scolaires",
+     "Elle est versée en décembre, comme prime de Noël, à chaque famille qui la demande sur MyGuichet.lu"
     ],
     "correct": 1,
     "explanation": "Les enfants qui reçoivent déjà l'allocation familiale obtiennent l'allocation de rentrée scolaire automatiquement, payée en août. Le montant dépend de l'âge (environ 115 € pour les 6-11 ans et 235 € pour les 12 ans et plus)."
@@ -33161,9 +33161,9 @@ const EPISODES = [
    {
     "text": "Vous travaillez au Luxembourg mais vos enfants vivent en France, en Belgique ou en Allemagne. Quelle est la situation concernant l'allocation familiale ?",
     "options": [
-     "Vous ne recevez rien parce que les enfants vivent à l'étranger",
-     "Vous devez d'abord faire venir les enfants au Luxembourg",
-     "Vous recevez automatiquement le double du montant",
+     "Vous ne touchez rien, car les allocations familiales luxembourgeoises ne sont versées que pour les enfants qui vivent au Luxembourg, même si vous y travaillez et y cotisez depuis des années à la sécurité sociale",
+     "Vous devez d'abord faire venir les enfants au Luxembourg et les inscrire dans une commune ; d'ici là, seul le pays de résidence peut payer",
+     "Vous recevez automatiquement le montant luxembourgeois complet en plus de l'aide du pays de résidence, donc les familles frontalières touchent le double",
      "Si vous êtes couvert par la sécurité sociale luxembourgeoise, vos enfants peuvent y avoir droit ; si une prestation est déjà versée dans le pays de résidence, le Luxembourg verse un complément différentiel (un appoint)"
     ],
     "correct": 3,
@@ -33188,10 +33188,10 @@ const EPISODES = [
    {
     "text": "Was ist die Zukunftskeess (Caisse pour l'avenir des enfants / CAE)?",
     "options": [
-     "Ein privater Sparplan für Kinder",
-     "Ein Bankkonto für Kinder",
+     "Ein privater Sparplan, in dem Eltern Geld für das Studium ihrer Kinder zurücklegen",
+     "Ein vom Staat bei der Geburt eröffnetes Kinderkonto, das bis zum 18. Lebensjahr Zinsen bringt",
      "Die offizielle staatliche Kasse, die in Luxemburg die Familienleistungen auszahlt",
-     "Eine Kita-Kette"
+     "Eine landesweite Kette von Kindertagesstätten für Kinder unter vier Jahren"
     ],
     "correct": 2,
     "explanation": "Die Zukunftskeess – die Caisse pour l'avenir des enfants (cae.lu) – ist die offizielle staatliche Kasse, Teil der Sozialversicherung, die Familienleistungen wie die Geburtszulage, das monatliche Kindergeld und die Schulanfangszulage auszahlt."
@@ -33200,9 +33200,9 @@ const EPISODES = [
     "text": "Wie wird die Geburtszulage (etwa 1.740 €) gezahlt, und woran ist sie gebunden?",
     "options": [
      "In drei gleichen Teilen von etwa 580 €, jeder gebunden an die ärztlichen Untersuchungen für Mutter und Kind (vorgeburtlich, Geburt, nachgeburtlich)",
-     "In einer Zahlung, ohne Bedingungen",
-     "Nur, wenn Sie ein zweites Kind haben",
-     "Als monatlicher Zuschlag über zwei Jahre"
+     "In einer einzigen Zahlung direkt nach der Geburt, ohne Bedingungen und ohne Bezug zu einer Vorsorgeuntersuchung",
+     "Nur wenn Sie schon ein Kind haben, als Prämie für das zweite und jedes weitere Kind, in zwei Teilen gezahlt",
+     "Als monatlicher Gehaltszuschuss für zwei Jahre, berechnet nach der Arbeitszeit der Eltern und ohne jeden Bezug zu Vorsorgeuntersuchungen"
     ],
     "correct": 0,
     "explanation": "Die Geburtszulage beträgt insgesamt etwa 1.740,09 €, gezahlt in drei unabhängigen Raten von je 580,03 € – vorgeburtlich, Geburt und nachgeburtlich – jede gebunden an die Durchführung der ärztlichen Untersuchungen für Mutter und Baby."
@@ -33210,10 +33210,10 @@ const EPISODES = [
    {
     "text": "Bis zu welchem Alter wird das monatliche Kindergeld normalerweise gezahlt, und wie verändert sich der Betrag, während das Kind aufwächst?",
     "options": [
-     "Bis 12 Jahre, und er ändert sich nie",
+     "Bis 12 Jahre für alle; der Betrag bleibt ab der Geburt genau gleich, unabhängig von Alter oder Schulbesuch",
      "Von der Geburt bis 18 Jahre (bis 25, wenn das Kind noch in der Sekundarschule oder in einer Ausbildung ist); der Betrag steigt mit 6 Jahren und erneut mit 12 Jahren",
-     "Nur zwischen 6 und 16 Jahren",
-     "Bis 30 Jahre für alle"
+     "Nur zwischen 6 und 16 Jahren, also während der Schulpflicht; der Betrag sinkt deutlich, sobald das Kind in die Sekundarschule oder in eine Ausbildung wechselt",
+     "Bis 30 Jahre für alle, ob sie studieren oder arbeiten; der Betrag ist bei Babys am höchsten und sinkt dann jedes Jahr"
     ],
     "correct": 1,
     "explanation": "Das Kindergeld wird pro Kind ab dem Monat der Geburt bis 18 Jahre gezahlt – und bis 25 Jahre, wenn der junge Mensch noch in der Sekundarschulbildung oder in einer Ausbildung ist. Der Betrag steigt mit 6 Jahren und erneut mit 12 Jahren."
@@ -33221,10 +33221,10 @@ const EPISODES = [
    {
     "text": "Wie erhält man die Schulanfangszulage, und wann wird sie gezahlt?",
     "options": [
-     "Sie müssen sie jedes Jahr im Juli gesondert beantragen",
+     "Sie müssen sie jedes Jahr im Juli gesondert beantragen, mit der Einschreibebescheinigung der Schule, und sie wird im Oktober gezahlt",
      "Sie wird automatisch an Kinder gezahlt, die bereits das Kindergeld erhalten, jedes Jahr im August",
-     "Nur Familien mit drei oder mehr Kindern erhalten sie",
-     "Sie wird im Dezember gezahlt"
+     "Nur Familien mit drei oder mehr Kindern erhalten sie, und erst nachdem sie ihre Schulrechnungen eingereicht haben",
+     "Sie wird im Dezember als Weihnachtsprämie an jede Familie gezahlt, die sie auf MyGuichet.lu beantragt"
     ],
     "correct": 1,
     "explanation": "Kinder, die bereits das Kindergeld erhalten, bekommen die Schulanfangszulage automatisch, gezahlt im August. Der Betrag hängt vom Alter ab (etwa 115 € für 6- bis 11-Jährige und 235 € für 12 Jahre und älter)."
@@ -33232,9 +33232,9 @@ const EPISODES = [
    {
     "text": "Sie arbeiten in Luxemburg, aber Ihre Kinder leben in Frankreich, Belgien oder Deutschland. Wie ist die Lage beim Kindergeld?",
     "options": [
-     "Sie erhalten nichts, weil die Kinder im Ausland leben",
-     "Sie müssen die Kinder zuerst nach Luxemburg holen",
-     "Sie erhalten automatisch den doppelten Betrag",
+     "Sie bekommen nichts, weil Familienleistungen nur für Kinder gezahlt werden, die in Luxemburg leben, auch wenn Sie hier arbeiten und Beiträge zahlen",
+     "Sie müssen die Kinder zuerst nach Luxemburg holen und in einer Gemeinde anmelden; bis dahin kann nur das Wohnsitzland zahlen",
+     "Sie erhalten automatisch den vollen luxemburgischen Betrag zusätzlich zur Leistung des Wohnsitzlandes, ganz ohne Anrechnung; Grenzgängerfamilien bekommen also einfach das Doppelte ausgezahlt",
      "Wenn Sie über die luxemburgische Sozialversicherung versichert sind, können Ihre Kinder anspruchsberechtigt sein; wird im Wohnsitzland bereits eine Leistung gezahlt, zahlt Luxemburg einen Differenzbetrag (eine Aufstockung)"
     ],
     "correct": 3,
@@ -34405,10 +34405,10 @@ const EPISODES = [
    {
     "text": "What is the main purpose of the Fonds national de solidarité (FNS)?",
     "options": [
-     "To collect taxes",
-     "To manage the national pension fund only",
+     "To collect taxes from high earners and redistribute part of them to the communes for local projects",
+     "To manage the national pension fund only, and to pay out the old-age pensions of all former employees",
      "To act as Luxembourg’s safety net against poverty, managing financial help for people in difficulty",
-     "To give loans to businesses"
+     "To give low-interest loans to small businesses and start-ups that are in financial difficulty"
     ],
     "correct": 2,
     "explanation": "The FNS (fns.lu), under the Ministry of Family Affairs, is the State body whose mission is the fight against poverty. It manages a set of social benefits for people on low incomes or in difficult situations."
@@ -34416,9 +34416,9 @@ const EPISODES = [
    {
     "text": "What is REVIS (revenu d’inclusion sociale)?",
     "options": [
-     "A tax refund for everyone",
-     "A one-off bonus for new parents",
-     "A pension for civil servants",
+     "A tax refund paid once a year to every household, whatever its income, to compensate for rising prices",
+     "A one-off bonus for new parents, paid at the birth of a child together with the birth allowance",
+     "A pension for former civil servants, paid monthly in addition to their normal old-age pension",
      "A guaranteed minimum income that tops up a household to a basic living level, plus support to get back into work"
     ],
     "correct": 3,
@@ -34427,10 +34427,10 @@ const EPISODES = [
    {
     "text": "Who can receive the cost-of-living allowance (allocation de vie chère), and what happens for REVIS recipients?",
     "options": [
-     "Only people with no job at all; REVIS recipients must still apply",
+     "Only people with no job at all can get it; REVIS recipients must still apply separately every single year",
      "Any modest-income household under an income limit – including people who work; REVIS recipients receive it automatically",
-     "Only pensioners; nobody gets it automatically",
-     "Only homeowners"
+     "Only pensioners over 65 can receive it, and nobody gets it automatically – everyone must send in a form each year",
+     "Only homeowners with a mortgage can get it; tenants and REVIS recipients are not eligible for this allowance"
     ],
     "correct": 1,
     "explanation": "The yearly cost-of-living allowance (with an energy premium and possible senior aid) is for modest-income households under an income limit – you can be working and still qualify. People already on REVIS receive it automatically, without applying."
@@ -34438,10 +34438,10 @@ const EPISODES = [
    {
     "text": "A separated parent is owed child maintenance, but the other parent refuses to pay. How can the FNS help?",
     "options": [
-     "It cannot help with private matters",
-     "It sends the unpaid parent to prison immediately",
+     "It cannot help, because maintenance between parents is a private matter that only a lawyer can settle",
+     "It immediately takes the parent who doesn't pay to court and asks for a prison sentence, but pays nothing",
      "It can advance the unpaid maintenance to the family, then recover the money from the parent who didn’t pay",
-     "It pays only if both parents agree"
+     "It pays the maintenance only if both parents sign an agreement first, and never asks for the money back"
     ],
     "correct": 2,
     "explanation": "Within certain limits and conditions, the FNS can advance unpaid maintenance payments so the child and parent are not left with nothing, and then pursues the defaulting parent to recover the money."
@@ -34450,9 +34450,9 @@ const EPISODES = [
     "text": "Besides REVIS and the cost-of-living allowance, which of these does the FNS also manage?",
     "options": [
      "An income for severely disabled persons, a supplement for seniors in care, and the child-raising pension (‘Mammerent’)",
-     "Driving licences and car registration",
-     "Passports and identity cards",
-     "University tuition fees"
+     "Driving licences, car registrations and the yearly road tax for all vehicles registered in Luxembourg",
+     "Passports, identity cards and residence permits for everyone who lives in Luxembourg",
+     "University tuition fees, student grants and loans for young people studying in Luxembourg or abroad"
     ],
     "correct": 0,
     "explanation": "The FNS also manages an income for severely disabled persons (RPGH), a supplement to help older people on low incomes pay for care, and the child-raising pension (‘Mammerent’) for parents who built up less pension while raising children."
@@ -37207,10 +37207,10 @@ const EPISODES = [
    {
     "text": "Quel est le but principal du Fonds national de solidarité (FNS) ?",
     "options": [
-     "Percevoir les impôts",
-     "Gérer uniquement la caisse de pension nationale",
+     "Percevoir des impôts supplémentaires auprès des hauts revenus et en redistribuer une partie aux communes pour financer des projets locaux",
+     "Gérer uniquement le fonds national de pension, et verser les pensions de vieillesse de tous les anciens salariés",
      "Servir de filet de sécurité du Luxembourg contre la pauvreté, en gérant l'aide financière aux personnes en difficulté",
-     "Accorder des prêts aux entreprises"
+     "Accorder des prêts à taux réduit aux petites entreprises et aux start-up en difficulté financière"
     ],
     "correct": 2,
     "explanation": "Le FNS (fns.lu), placé sous le ministère de la Famille, est l'organisme de l'État dont la mission est la lutte contre la pauvreté. Il gère un ensemble de prestations sociales destinées aux personnes à faibles revenus ou en situation difficile."
@@ -37218,9 +37218,9 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que le REVIS (revenu d'inclusion sociale) ?",
     "options": [
-     "Un remboursement d'impôts pour tout le monde",
-     "Une prime unique pour les nouveaux parents",
-     "Une pension pour les fonctionnaires",
+     "Un remboursement d'impôt versé une fois par an à tous les ménages, quel que soit leur revenu, pour compenser la hausse des prix de l'énergie",
+     "Une prime unique pour les jeunes parents, versée à la naissance d'un enfant avec l'allocation de naissance",
+     "Une pension pour les anciens fonctionnaires, versée chaque mois en plus de leur pension de vieillesse normale",
      "Un revenu minimum garanti qui complète les revenus d'un ménage jusqu'à un niveau de vie de base, plus un accompagnement pour le retour à l'emploi"
     ],
     "correct": 3,
@@ -37229,10 +37229,10 @@ const EPISODES = [
    {
     "text": "Qui peut recevoir l'allocation de vie chère, et que se passe-t-il pour les bénéficiaires du REVIS ?",
     "options": [
-     "Seulement les personnes totalement sans emploi ; les bénéficiaires du REVIS doivent quand même faire la demande",
+     "Seules les personnes sans aucun emploi peuvent la recevoir ; les bénéficiaires du REVIS doivent quand même la demander chaque année",
      "Tout ménage à revenu modeste sous un plafond de revenus – y compris les personnes qui travaillent ; les bénéficiaires du REVIS la reçoivent automatiquement",
-     "Seulement les retraités ; personne ne la reçoit automatiquement",
-     "Seulement les propriétaires de leur logement"
+     "Seuls les retraités de plus de 65 ans peuvent la recevoir, et personne ne la touche automatiquement – chacun doit renvoyer un formulaire papier chaque année",
+     "Seuls les propriétaires ayant un prêt immobilier peuvent la recevoir ; les locataires et les bénéficiaires du REVIS n'y ont pas droit"
     ],
     "correct": 1,
     "explanation": "L'allocation de vie chère annuelle (avec une prime énergie et une éventuelle aide aux personnes âgées) s'adresse aux ménages à revenu modeste sous un plafond de revenus – on peut travailler et y avoir droit. Les personnes qui touchent déjà le REVIS la reçoivent automatiquement, sans faire de demande."
@@ -37240,10 +37240,10 @@ const EPISODES = [
    {
     "text": "Un parent séparé a droit à une pension alimentaire, mais l'autre parent refuse de payer. Comment le FNS peut-il aider ?",
     "options": [
-     "Il ne peut pas aider dans les affaires privées",
-     "Il envoie immédiatement le parent défaillant en prison",
+     "Il ne peut pas aider, car la pension alimentaire entre parents est une affaire privée que seul un avocat peut régler devant le juge",
+     "Il poursuit immédiatement en justice le parent qui ne paie pas et demande une peine de prison, mais ne verse rien",
      "Il peut avancer la pension alimentaire impayée à la famille, puis récupérer l'argent auprès du parent qui n'a pas payé",
-     "Il ne paie que si les deux parents sont d'accord"
+     "Il ne verse la pension que si les deux parents signent d'abord un accord, et ne réclame jamais l'argent"
     ],
     "correct": 2,
     "explanation": "Dans certaines limites et sous certaines conditions, le FNS peut avancer les pensions alimentaires impayées pour que l'enfant et le parent ne se retrouvent pas sans rien, puis il poursuit le parent défaillant pour récupérer l'argent."
@@ -37252,9 +37252,9 @@ const EPISODES = [
     "text": "Outre le REVIS et l'allocation de vie chère, lequel de ces éléments le FNS gère-t-il également ?",
     "options": [
      "Un revenu pour personnes gravement handicapées, un complément pour les personnes âgées en soins, et la pension pour l'éducation des enfants (« Mammerent »)",
-     "Les permis de conduire et l'immatriculation des véhicules",
-     "Les passeports et les cartes d'identité",
-     "Les frais d'inscription à l'université"
+     "Les permis de conduire, les immatriculations et la taxe annuelle de tous les véhicules immatriculés au Luxembourg",
+     "Les passeports, les cartes d'identité et les titres de séjour de toutes les personnes qui vivent au Luxembourg",
+     "Les frais d'inscription universitaires, les bourses d'études et les prêts étudiants pour les jeunes qui étudient au Luxembourg ou à l'étranger"
     ],
     "correct": 0,
     "explanation": "Le FNS gère aussi un revenu pour personnes gravement handicapées (RPGH), un complément pour aider les personnes âgées à faibles revenus à payer les soins, et la pension pour l'éducation des enfants (« Mammerent ») pour les parents qui ont accumulé moins de pension en élevant leurs enfants."
@@ -37278,10 +37278,10 @@ const EPISODES = [
    {
     "text": "Was ist der Hauptzweck des Nationalen Solidaritätsfonds (FNS)?",
     "options": [
-     "Steuern einzuziehen",
-     "Ausschließlich die nationale Pensionskasse zu verwalten",
+     "Zusätzliche Steuern bei Spitzenverdienern einziehen und einen Teil davon für lokale Projekte an die Gemeinden verteilen",
+     "Nur den nationalen Rentenfonds verwalten und die Altersrenten aller ehemaligen Arbeitnehmer auszahlen",
      "Als Luxemburgs soziales Netz gegen Armut zu dienen und finanzielle Hilfe für Menschen in Schwierigkeiten zu verwalten",
-     "Krediten an Unternehmen zu vergeben"
+     "Zinsgünstige Kredite an kleine Unternehmen und Start-ups vergeben, die in finanziellen Schwierigkeiten sind"
     ],
     "correct": 2,
     "explanation": "Der FNS (fns.lu), der dem Familienministerium untersteht, ist die staatliche Stelle, deren Aufgabe der Kampf gegen die Armut ist. Er verwaltet eine Reihe von Sozialleistungen für Menschen mit niedrigem Einkommen oder in schwierigen Lebenslagen."
@@ -37289,9 +37289,9 @@ const EPISODES = [
    {
     "text": "Was ist das REVIS (revenu d'inclusion sociale, das Eingliederungseinkommen)?",
     "options": [
-     "Eine Steuerrückerstattung für alle",
-     "Eine einmalige Prämie für frischgebackene Eltern",
-     "Eine Pension für Beamte",
+     "Eine Steuerrückerstattung, die einmal im Jahr jedem Haushalt unabhängig vom Einkommen gezahlt wird, als Ausgleich für steigende Energiepreise",
+     "Eine einmalige Prämie für junge Eltern, die bei der Geburt eines Kindes zusammen mit der Geburtszulage gezahlt wird",
+     "Eine Pension für ehemalige Beamte, die monatlich zusätzlich zu ihrer normalen Altersrente gezahlt wird",
      "Ein garantiertes Mindesteinkommen, das einen Haushalt auf ein grundlegendes Lebensniveau aufstockt, mit Unterstützung für den Wiedereinstieg in die Arbeit"
     ],
     "correct": 3,
@@ -37300,10 +37300,10 @@ const EPISODES = [
    {
     "text": "Wer kann die Teuerungszulage (allocation de vie chère) erhalten, und was geschieht bei REVIS-Empfängern?",
     "options": [
-     "Nur Menschen ganz ohne Arbeit; REVIS-Empfänger müssen sie trotzdem beantragen",
+     "Nur Menschen ganz ohne Arbeit können sie bekommen; REVIS-Bezieher müssen sie trotzdem jedes Jahr gesondert beantragen",
      "Jeder Haushalt mit bescheidenem Einkommen unterhalb einer Einkommensgrenze – auch berufstätige Menschen; REVIS-Empfänger erhalten sie automatisch",
-     "Nur Rentner; niemand erhält sie automatisch",
-     "Nur Wohnungseigentümer"
+     "Nur Rentner über 65 können sie erhalten, und niemand bekommt sie automatisch – jeder muss jedes Jahr erneut ein Papierformular einreichen",
+     "Nur Eigentümer mit Immobilienkredit können sie bekommen; Mieter und REVIS-Bezieher haben keinen Anspruch darauf"
     ],
     "correct": 1,
     "explanation": "Die jährliche Teuerungszulage (mit einer Energieprämie und einer möglichen Seniorenhilfe) ist für Haushalte mit bescheidenem Einkommen unterhalb einer Einkommensgrenze gedacht – man kann berufstätig sein und trotzdem Anspruch haben. Wer bereits REVIS bezieht, erhält sie automatisch, ohne Antrag."
@@ -37311,10 +37311,10 @@ const EPISODES = [
    {
     "text": "Einem getrennt lebenden Elternteil steht Unterhalt zu, doch der andere Elternteil weigert sich zu zahlen. Wie kann der FNS helfen?",
     "options": [
-     "Er kann bei privaten Angelegenheiten nicht helfen",
-     "Er schickt den säumigen Elternteil sofort ins Gefängnis",
+     "Er kann nicht helfen, weil Unterhalt zwischen Eltern eine private Angelegenheit ist, die nur ein Anwalt regeln kann",
+     "Er verklagt den zahlungsunwilligen Elternteil sofort und fordert eine Haftstrafe, zahlt aber selbst nichts",
      "Er kann der Familie den nicht gezahlten Unterhalt vorschießen und das Geld anschließend von dem Elternteil zurückfordern, der nicht gezahlt hat",
-     "Er zahlt nur, wenn beide Elternteile einverstanden sind"
+     "Er zahlt den Unterhalt nur, wenn beide Eltern vorher eine schriftliche Vereinbarung unterschreiben, und fordert das Geld danach nie zurück"
     ],
     "correct": 2,
     "explanation": "Innerhalb bestimmter Grenzen und unter bestimmten Bedingungen kann der FNS nicht gezahlte Unterhaltsleistungen vorschießen, damit Kind und Elternteil nicht ohne Mittel dastehen, und fordert das Geld anschließend vom säumigen Elternteil zurück."
@@ -37323,9 +37323,9 @@ const EPISODES = [
     "text": "Welche dieser Leistungen verwaltet der FNS neben dem REVIS und der Teuerungszulage ebenfalls?",
     "options": [
      "Ein Einkommen für schwer behinderte Menschen, einen Zuschlag für Senioren in Pflege und die Erziehungspension („Mammerent“)",
-     "Führerscheine und Fahrzeugzulassung",
-     "Reisepässe und Personalausweise",
-     "Studiengebühren an der Universität"
+     "Führerscheine, Fahrzeugzulassungen und die jährliche Kfz-Steuer für alle in Luxemburg zugelassenen Fahrzeuge",
+     "Reisepässe, Personalausweise und Aufenthaltstitel für alle Menschen, die in Luxemburg leben",
+     "Studiengebühren, Studienbeihilfen und Studiendarlehen für junge Menschen, die in Luxemburg oder im Ausland studieren"
     ],
     "correct": 0,
     "explanation": "Der FNS verwaltet außerdem ein Einkommen für schwer behinderte Menschen (RPGH), einen Zuschlag, der älteren Menschen mit niedrigem Einkommen hilft, die Pflege zu bezahlen, und die Erziehungspension („Mammerent“) für Eltern, die beim Großziehen ihrer Kinder weniger Pension aufgebaut haben."
@@ -40733,9 +40733,9 @@ const EPISODES = [
    {
     "text": "What is the Greater Region?",
     "options": [
-     "A single country in central Europe",
-     "A region entirely inside Luxembourg",
-     "A European political party",
+     "A single new country in central Europe, created by merging Luxembourg with its neighbouring regions, with one language",
+     "A region entirely inside Luxembourg, made up of the capital and the communes in the south, around Esch-sur-Alzette",
+     "A European political party with members from Luxembourg, France, Germany and Belgium that sits in the European Parliament",
      "A cross-border area of 5 regions in 4 countries (Luxembourg, plus parts of France, Germany and Belgium) with 3 languages"
     ],
     "correct": 3,
@@ -40744,9 +40744,9 @@ const EPISODES = [
    {
     "text": "What makes the Greater Region remarkable in terms of cross-border commuters?",
     "options": [
-     "It has no cross-border commuters",
-     "Commuting across its borders is forbidden",
-     "Only about 1,000 people cross its borders each day",
+     "It has almost no cross-border commuters, because most people live and work in the same country",
+     "Commuting across its borders is forbidden, except for a few thousand workers with special permits",
+     "Only about 1,000 people cross its borders each day, mostly students going to university in another country",
      "It has about 270,000 daily cross-border commuters – the highest number in Europe"
     ],
     "correct": 3,
@@ -40755,10 +40755,10 @@ const EPISODES = [
    {
     "text": "What is the House of the Greater Region (Maison de la Grande Région / Haus der Großregion)?",
     "options": [
-     "A museum in Brussels",
-     "The private home of the Prime Minister",
+     "A museum in Brussels about the history of the European Union, with a special room on the four countries of the region",
+     "The official residence of Luxembourg's Prime Minister, used for receptions with the leaders of neighbouring regions",
      "A shared building in Esch-sur-Alzette (opened 2015) that houses the Summit Secretariat and partners working on cross-border cooperation",
-     "A border checkpoint"
+     "A former border checkpoint near Schengen that is now used as a customs office for goods crossing between the countries"
     ],
     "correct": 2,
     "explanation": "Opened in 2015 in Esch-sur-Alzette, the House of the Greater Region is a place for meeting and exchange that hosts the EGTC Summit Secretariat, the Economic and Social Committee secretariat, the Interreg managing authority, the representation of Rhineland-Palatinate and the Espace Culturel."
@@ -40767,9 +40767,9 @@ const EPISODES = [
     "text": "How is the Summit of the Greater Region led?",
     "options": [
      "Each member region chairs it in turn, for 24 months at a time",
-     "By Luxembourg permanently",
-     "By the European Commission",
-     "By a single elected president for life"
+     "By Luxembourg permanently, as the only full country in the region",
+     "By the European Commission, which appoints a chair every year",
+     "By a single elected president, who stays in office for life"
     ],
     "correct": 0,
     "explanation": "The Summit brings together the executives of the member regions to set the strategy. Its presidency rotates: each region chairs it in turn for 24 months, so no one dominates – a partnership of equals."
@@ -40777,10 +40777,10 @@ const EPISODES = [
    {
     "text": "Which of these is a concrete everyday benefit of cross-border cooperation in the Greater Region?",
     "options": [
-     "Closed borders between members",
+     "Closed borders between members, so that each region can better protect its own jobs and businesses",
      "In certain border areas, being able to get medical care across the border, sometimes without extra cost",
-     "A ban on studying abroad",
-     "Higher costs for cross-border workers"
+     "A ban on studying in another member region, so that young people stay and train in their home country",
+     "Higher costs and extra taxes for cross-border workers, to fund the roads and trains they use every day"
     ],
     "correct": 1,
     "explanation": "Cooperation brings real daily benefits: in some border areas citizens can receive hospital and emergency care across the border without extra cost, the University of the Greater Region links six universities in four countries, and cross-border journey planners and training programmes support work and mobility."
@@ -41271,9 +41271,9 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que la Grande Région ?",
     "options": [
-     "Un pays unique d'Europe centrale",
-     "Une région entièrement située à l'intérieur du Luxembourg",
-     "Un parti politique européen",
+     "Un nouveau pays unique au centre de l'Europe, né de la fusion du Luxembourg et des régions voisines, avec une seule langue",
+     "Une région située entièrement au Luxembourg, formée par la capitale et les communes du sud, autour d'Esch-sur-Alzette",
+     "Un parti politique européen, avec des membres du Luxembourg, de France, d'Allemagne et de Belgique, qui siège au Parlement européen à Strasbourg",
      "Un territoire transfrontalier de 5 régions dans 4 pays (le Luxembourg, ainsi que des parties de la France, de l'Allemagne et de la Belgique) avec 3 langues"
     ],
     "correct": 3,
@@ -41282,9 +41282,9 @@ const EPISODES = [
    {
     "text": "Qu'est-ce qui rend la Grande Région remarquable en matière de travailleurs frontaliers ?",
     "options": [
-     "Elle n'a aucun travailleur frontalier",
-     "Le travail frontalier y est interdit",
-     "Seules environ 1 000 personnes franchissent ses frontières chaque jour",
+     "Elle n'a presque pas de frontaliers, car la plupart des gens vivent et travaillent dans le même pays",
+     "Il est interdit de traverser ses frontières pour travailler, sauf pour quelques milliers de salariés munis d'un permis spécial",
+     "Seulement environ 1 000 personnes traversent ses frontières chaque jour, surtout des étudiants qui vont à l'université dans un autre pays",
      "Elle compte environ 270 000 travailleurs frontaliers chaque jour – le plus grand nombre en Europe"
     ],
     "correct": 3,
@@ -41293,10 +41293,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que la Maison de la Grande Région (Maison de la Grande Région / Haus der Großregion) ?",
     "options": [
-     "Un musée à Bruxelles",
-     "La résidence privée du Premier ministre",
+     "Un musée à Bruxelles sur l'histoire de l'Union européenne, avec une salle consacrée aux quatre pays de la région",
+     "La résidence officielle du Premier ministre luxembourgeois, utilisée pour recevoir les dirigeants des régions voisines",
      "Un bâtiment partagé à Esch-sur-Alzette (ouvert en 2015) qui abrite le Secrétariat du Sommet et ses partenaires œuvrant à la coopération transfrontalière",
-     "Un poste-frontière"
+     "Un ancien poste-frontière près de Schengen, aujourd'hui utilisé comme bureau de douane pour contrôler les marchandises qui passent entre les pays"
     ],
     "correct": 2,
     "explanation": "Ouverte en 2015 à Esch-sur-Alzette, la Maison de la Grande Région est un lieu de rencontre et d'échange qui accueille le Secrétariat du Sommet du GECT, le secrétariat du Comité économique et social, l'autorité de gestion Interreg, la représentation de la Rhénanie-Palatinat et l'Espace Culturel."
@@ -41305,9 +41305,9 @@ const EPISODES = [
     "text": "Comment le Sommet de la Grande Région est-il dirigé ?",
     "options": [
      "Chaque région membre en assure la présidence à tour de rôle, pendant 24 mois à chaque fois",
-     "Par le Luxembourg en permanence",
-     "Par la Commission européenne",
-     "Par un seul président élu à vie"
+     "Par le Luxembourg de façon permanente, puisque c'est le seul pays entier de la région",
+     "Par la Commission européenne, qui nomme un président chaque année",
+     "Par un président unique élu, qui reste en fonction à vie"
     ],
     "correct": 0,
     "explanation": "Le Sommet réunit les exécutifs des régions membres pour définir la stratégie. Sa présidence est tournante : chaque région la préside à tour de rôle pendant 24 mois, afin que personne ne domine – un partenariat entre égaux."
@@ -41315,10 +41315,10 @@ const EPISODES = [
    {
     "text": "Lequel de ces éléments est un avantage concret au quotidien de la coopération transfrontalière dans la Grande Région ?",
     "options": [
-     "Des frontières fermées entre les membres",
+     "Des frontières fermées entre les membres, pour que chaque région protège mieux ses propres emplois et entreprises",
      "Dans certaines zones frontalières, pouvoir se faire soigner de l'autre côté de la frontière, parfois sans coût supplémentaire",
-     "Une interdiction d'étudier à l'étranger",
-     "Des coûts plus élevés pour les travailleurs frontaliers"
+     "Une interdiction d'étudier dans une autre région membre, pour que les jeunes restent se former dans leur pays",
+     "Des frais et des taxes supplémentaires pour les frontaliers, afin de financer les routes et les trains qu'ils utilisent chaque jour"
     ],
     "correct": 1,
     "explanation": "La coopération apporte de vrais avantages au quotidien : dans certaines zones frontalières, les citoyens peuvent recevoir des soins hospitaliers et d'urgence de l'autre côté de la frontière sans coût supplémentaire, l'Université de la Grande Région relie six universités dans quatre pays, et des calculateurs d'itinéraires transfrontaliers ainsi que des programmes de formation soutiennent le travail et la mobilité."
@@ -41342,9 +41342,9 @@ const EPISODES = [
    {
     "text": "Was ist die Großregion?",
     "options": [
-     "Ein einzelnes Land in Mitteleuropa",
-     "Eine Region, die vollständig innerhalb Luxemburgs liegt",
-     "Eine europäische politische Partei",
+     "Ein einziges neues Land in Mitteleuropa, entstanden aus der Fusion Luxemburgs mit seinen Nachbarregionen, mit einer Sprache",
+     "Eine Region ganz innerhalb Luxemburgs, bestehend aus der Hauptstadt und den Gemeinden im Süden rund um Esch-sur-Alzette",
+     "Eine europäische Partei mit Mitgliedern aus Luxemburg, Frankreich, Deutschland und Belgien, die im Europäischen Parlament in Straßburg sitzt",
      "Ein grenzüberschreitendes Gebiet aus 5 Regionen in 4 Ländern (Luxemburg sowie Teile Frankreichs, Deutschlands und Belgiens) mit 3 Sprachen"
     ],
     "correct": 3,
@@ -41353,9 +41353,9 @@ const EPISODES = [
    {
     "text": "Was macht die Großregion in Bezug auf Grenzgänger bemerkenswert?",
     "options": [
-     "Sie hat keine Grenzgänger",
-     "Das Pendeln über ihre Grenzen ist verboten",
-     "Nur etwa 1 000 Menschen überqueren täglich ihre Grenzen",
+     "Sie hat fast keine Grenzgänger, weil die meisten Menschen im selben Land wohnen und arbeiten",
+     "Das Pendeln über ihre Grenzen ist verboten, außer für einige tausend Arbeitnehmer mit Sondergenehmigung",
+     "Nur etwa 1.000 Menschen überqueren täglich ihre Grenzen, meist Studierende auf dem Weg zur Universität im Nachbarland",
      "Sie zählt täglich etwa 270 000 Grenzgänger – die höchste Zahl in Europa"
     ],
     "correct": 3,
@@ -41364,10 +41364,10 @@ const EPISODES = [
    {
     "text": "Was ist das Haus der Großregion (Maison de la Grande Région / Haus der Großregion)?",
     "options": [
-     "Ein Museum in Brüssel",
-     "Das private Wohnhaus des Premierministers",
+     "Ein Museum in Brüssel zur Geschichte der Europäischen Union, mit einem eigenen Raum über die vier Länder der Region und ihre gemeinsame Vergangenheit",
+     "Der Amtssitz des luxemburgischen Premierministers, genutzt für Empfänge mit den Spitzen der Nachbarregionen",
      "Ein gemeinsames Gebäude in Esch an der Alzette (2015 eröffnet), das das Gipfelsekretariat und Partner beherbergt, die an der grenzüberschreitenden Zusammenarbeit arbeiten",
-     "Ein Grenzübergang"
+     "Ein ehemaliger Grenzposten bei Schengen, der heute als Zollamt für Waren zwischen den Ländern dient"
     ],
     "correct": 2,
     "explanation": "Das 2015 in Esch an der Alzette eröffnete Haus der Großregion ist ein Ort der Begegnung und des Austauschs, der das EVTZ-Gipfelsekretariat, das Sekretariat des Wirtschafts- und Sozialausschusses, die Interreg-Verwaltungsbehörde, die Vertretung von Rheinland-Pfalz und den Espace Culturel beherbergt."
@@ -41376,9 +41376,9 @@ const EPISODES = [
     "text": "Wie wird der Gipfel der Großregion geleitet?",
     "options": [
      "Jede Mitgliedsregion führt den Vorsitz abwechselnd, jeweils 24 Monate lang",
-     "Dauerhaft von Luxemburg",
-     "Von der Europäischen Kommission",
-     "Von einem einzigen auf Lebenszeit gewählten Präsidenten"
+     "Dauerhaft von Luxemburg, als einzigem vollständigem Land der Region",
+     "Von der Europäischen Kommission, die jedes Jahr einen Vorsitz ernennt",
+     "Von einem einzigen gewählten Präsidenten, der danach lebenslang im Amt bleibt"
     ],
     "correct": 0,
     "explanation": "Der Gipfel bringt die Regierungen der Mitgliedsregionen zusammen, um die Strategie festzulegen. Der Vorsitz wechselt: Jede Region führt ihn abwechselnd 24 Monate lang, damit niemand dominiert – eine Partnerschaft unter Gleichen."
@@ -41386,10 +41386,10 @@ const EPISODES = [
    {
     "text": "Welcher dieser Punkte ist ein konkreter Alltagsvorteil der grenzüberschreitenden Zusammenarbeit in der Großregion?",
     "options": [
-     "Geschlossene Grenzen zwischen den Mitgliedern",
+     "Geschlossene Grenzen zwischen den Mitgliedern, damit jede Region ihre eigenen Arbeitsplätze und Betriebe besser schützen kann",
      "In bestimmten Grenzgebieten medizinische Versorgung jenseits der Grenze in Anspruch nehmen zu können, manchmal ohne Mehrkosten",
-     "Ein Verbot, im Ausland zu studieren",
-     "Höhere Kosten für Grenzgänger"
+     "Ein Verbot, in einer anderen Mitgliedsregion zu studieren, damit junge Menschen im eigenen Land bleiben und lernen",
+     "Höhere Kosten und Zusatzsteuern für Grenzgänger, um die Straßen und Züge zu finanzieren, die sie täglich nutzen"
     ],
     "correct": 1,
     "explanation": "Die Zusammenarbeit bringt echte Alltagsvorteile: In manchen Grenzgebieten können Bürger jenseits der Grenze Kranken- und Notfallversorgung ohne Mehrkosten erhalten, die Universität der Großregion verbindet sechs Universitäten in vier Ländern, und grenzüberschreitende Routenplaner sowie Ausbildungsprogramme unterstützen Arbeit und Mobilität."
@@ -44832,9 +44832,9 @@ const EPISODES = [
    {
     "text": "What is Digital Inclusion a.s.b.l.?",
     "options": [
-     "A computer shop that sells laptops",
-     "A government tax office",
-     "An internet service provider",
+     "A computer shop that sells new laptops and phones at reduced prices to students",
+     "A government tax office that helps people file their tax return online",
+     "An internet service provider offering cheap broadband to families on low incomes",
      "A Luxembourg non-profit that helps everyone get access to information technology"
     ],
     "correct": 3,
@@ -44843,10 +44843,10 @@ const EPISODES = [
    {
     "text": "What are the three goals of Digital Inclusion?",
     "options": [
-     "Sell devices, make profit, and advertise",
-     "Build new computers, train engineers, and export hardware",
+     "Sell refurbished devices at a profit, advertise for technology brands, and open shops across the country",
+     "Build new computers in Luxembourg, train computer engineers, and export hardware to neighbouring countries",
      "Make IT accessible to everyone, promote social inclusion through technology, and act for the environment",
-     "Provide internet, phone lines, and television"
+     "Provide free internet, phone lines and television to every household, and replace all paper forms with apps"
     ],
     "correct": 2,
     "explanation": "Its three goals are: make information technology accessible to all (devices, connectivity, digital literacy); promote social inclusion through technology; and act for the environment by re-using and repairing donated equipment."
@@ -44854,10 +44854,10 @@ const EPISODES = [
    {
     "text": "Who can apply for a free second-hand computer from Digital Inclusion?",
     "options": [
-     "Anyone in Europe, with no conditions",
+     "Anyone in Europe, with no conditions, who fills in the online form and pays the delivery costs",
      "People living in Luxembourg who meet a condition such as receiving the cost-of-living allowance (AVC) or being a refugee",
-     "Only Luxembourg citizens over 65",
-     "Only university students"
+     "Only Luxembourg citizens over 65 who have never owned a computer and live alone at home",
+     "Only university students in Luxembourg who show their student card and a letter from their professor"
     ],
     "correct": 1,
     "explanation": "You must live in Luxembourg and meet one condition – for example your household receives the cost-of-living allowance (allocation de vie chère), you are a refugee (asylum seeker, temporary protection, unaccompanied minor), you hold a 'Vie Privée' residence permit, or you are in a debt-settlement procedure. The average waiting time is currently under a month."
@@ -44866,9 +44866,9 @@ const EPISODES = [
     "text": "What is the 'Open Classroom'?",
     "options": [
      "A walk-in IT help session every Friday morning, with no appointment needed",
-     "A paid online course",
-     "A classroom you can rent for parties",
-     "A school for IT engineers"
+     "A paid online course on programming, with a certificate at the end",
+     "A classroom you can rent for parties and meetings on weekends",
+     "A school that trains IT engineers, with an entrance exam every year"
     ],
     "correct": 0,
     "explanation": "The Open Classroom is a free, walk-in digital help session held every Friday morning (9:30–13:30) at Digital Inclusion, where anyone can get help with a digital problem without an appointment."
@@ -44877,9 +44877,9 @@ const EPISODES = [
     "text": "Why is Digital Inclusion's work also good for the environment?",
     "options": [
      "It gives donated, used devices a second (and even third) life instead of letting them become electronic waste",
-     "It plants a tree for every computer sold",
-     "It runs entirely on solar power",
-     "It recycles paper"
+     "It plants a tree in Luxembourg for every computer it gives away, to offset the energy that devices use",
+     "It runs all its workshops and offices entirely on solar power produced on its own roof",
+     "It collects and recycles old paper forms from public offices once they have been scanned"
     ],
     "correct": 0,
     "explanation": "By collecting, repairing and redistributing donated laptops, smartphones and tablets, Digital Inclusion keeps working devices out of the rubbish – one act that helps a person in need and reduces electronic waste at the same time."
@@ -45340,9 +45340,9 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que Digital Inclusion a.s.b.l. ?",
     "options": [
-     "Un magasin d'informatique qui vend des ordinateurs portables",
-     "Un bureau des impôts de l'État",
-     "Un fournisseur d'accès à internet",
+     "Un magasin d'informatique qui vend des ordinateurs portables et des téléphones neufs à prix réduit aux étudiants",
+     "Un bureau des impôts de l'État qui aide les gens à remplir leur déclaration en ligne",
+     "Un fournisseur d'accès à internet qui propose un haut débit bon marché aux familles à faibles revenus",
      "Une association sans but lucratif luxembourgeoise qui aide chacun à accéder aux technologies de l'information"
     ],
     "correct": 3,
@@ -45351,10 +45351,10 @@ const EPISODES = [
    {
     "text": "Quels sont les trois objectifs de Digital Inclusion ?",
     "options": [
-     "Vendre des appareils, faire du profit et faire de la publicité",
-     "Construire de nouveaux ordinateurs, former des ingénieurs et exporter du matériel",
+     "Revendre des appareils reconditionnés avec profit, faire de la publicité pour des marques technologiques et ouvrir des magasins dans tout le pays",
+     "Fabriquer de nouveaux ordinateurs au Luxembourg, former des ingénieurs informaticiens et exporter du matériel vers les pays voisins",
      "Rendre l'informatique accessible à tous, favoriser l'inclusion sociale par la technologie, et agir pour l'environnement",
-     "Fournir internet, des lignes téléphoniques et la télévision"
+     "Fournir gratuitement internet, le téléphone et la télévision à chaque ménage, et remplacer tous les formulaires papier par des applis"
     ],
     "correct": 2,
     "explanation": "Ses trois objectifs sont : rendre les technologies de l'information accessibles à tous (appareils, connectivité, littératie numérique) ; favoriser l'inclusion sociale par la technologie ; et agir pour l'environnement en réemployant et en réparant les équipements reçus en don."
@@ -45362,10 +45362,10 @@ const EPISODES = [
    {
     "text": "Qui peut demander un ordinateur d'occasion gratuit à Digital Inclusion ?",
     "options": [
-     "N'importe qui en Europe, sans condition",
+     "N'importe qui en Europe, sans condition, qui remplit le formulaire en ligne et paie les frais de livraison",
      "Les personnes vivant au Luxembourg qui remplissent une condition, comme percevoir l'allocation de vie chère (AVC) ou être réfugié",
-     "Seulement les citoyens luxembourgeois de plus de 65 ans",
-     "Seulement les étudiants à l'université"
+     "Seulement les citoyens luxembourgeois de plus de 65 ans qui n'ont jamais eu d'ordinateur et vivent seuls",
+     "Seulement les étudiants inscrits au Luxembourg, qui doivent présenter leur carte d'étudiant et une lettre de recommandation de leur professeur"
     ],
     "correct": 1,
     "explanation": "Vous devez vivre au Luxembourg et remplir une condition – par exemple votre ménage perçoit l'allocation de vie chère (AVC), vous êtes réfugié (demandeur d'asile, protection temporaire, mineur non accompagné), vous détenez un titre de séjour « Vie Privée », ou vous êtes engagé dans une procédure de règlement collectif des dettes. Le délai d'attente moyen est actuellement de moins d'un mois."
@@ -45374,9 +45374,9 @@ const EPISODES = [
     "text": "Qu'est-ce que l'« Open Classroom » ?",
     "options": [
      "Une permanence d'aide informatique en accès libre tous les vendredis matin, sans rendez-vous",
-     "Un cours en ligne payant",
-     "Une salle de classe que l'on peut louer pour des fêtes",
-     "Une école pour ingénieurs informaticiens"
+     "Un cours en ligne payant sur la programmation, avec un certificat à la fin",
+     "Une salle de classe que l'on peut louer pour des fêtes et des réunions le week-end",
+     "Une école qui forme des ingénieurs en informatique, avec un concours d'entrée très sélectif chaque année"
     ],
     "correct": 0,
     "explanation": "L'Open Classroom est une permanence d'aide numérique gratuite et en accès libre, tenue tous les vendredis matin (9h30–13h30) chez Digital Inclusion, où chacun peut obtenir de l'aide pour un problème numérique sans rendez-vous."
@@ -45385,9 +45385,9 @@ const EPISODES = [
     "text": "Pourquoi le travail de Digital Inclusion est-il aussi bon pour l'environnement ?",
     "options": [
      "Elle donne aux appareils d'occasion reçus en don une deuxième (voire une troisième) vie au lieu de les laisser devenir des déchets électroniques",
-     "Elle plante un arbre pour chaque ordinateur vendu",
-     "Elle fonctionne entièrement à l'énergie solaire",
-     "Elle recycle le papier"
+     "Elle plante un arbre au Luxembourg pour chaque ordinateur donné, afin de compenser l'électricité que les appareils consomment pendant leur vie",
+     "Elle fait fonctionner tous ses ateliers et bureaux uniquement à l'énergie solaire produite sur son propre toit",
+     "Elle collecte et recycle les anciens formulaires papier des administrations une fois qu'ils ont été numérisés"
     ],
     "correct": 0,
     "explanation": "En collectant, réparant et redistribuant les ordinateurs portables, smartphones et tablettes reçus en don, Digital Inclusion évite que des appareils encore fonctionnels finissent à la poubelle – un seul geste qui aide une personne dans le besoin et réduit en même temps les déchets électroniques."
@@ -45411,9 +45411,9 @@ const EPISODES = [
    {
     "text": "Was ist Digital Inclusion a.s.b.l.?",
     "options": [
-     "Ein Computergeschäft, das Laptops verkauft",
-     "Ein staatliches Finanzamt",
-     "Ein Internetanbieter",
+     "Ein Computergeschäft, das Studierenden neue Laptops und Handys zu stark reduzierten Preisen verkauft",
+     "Ein staatliches Steueramt, das Menschen hilft, ihre Steuererklärung online abzugeben",
+     "Ein Internetanbieter, der Familien mit geringem Einkommen günstiges Breitband anbietet",
      "Ein gemeinnütziger Verein in Luxemburg, der jedem den Zugang zur Informationstechnologie ermöglicht"
     ],
     "correct": 3,
@@ -45422,10 +45422,10 @@ const EPISODES = [
    {
     "text": "Was sind die drei Ziele von Digital Inclusion?",
     "options": [
-     "Geräte verkaufen, Gewinn machen und Werbung schalten",
-     "Neue Computer bauen, Ingenieure ausbilden und Hardware exportieren",
+     "Aufbereitete Geräte gewinnbringend verkaufen, für Technikmarken werben und Geschäfte im ganzen Land eröffnen",
+     "Neue Computer in Luxemburg bauen, Informatikingenieure ausbilden und Hardware in die Nachbarländer exportieren",
      "IT für alle zugänglich machen, soziale Inklusion durch Technik fördern und für die Umwelt handeln",
-     "Internet, Telefonleitungen und Fernsehen bereitstellen"
+     "Jedem Haushalt kostenlos Internet, Telefon und Fernsehen bereitstellen und alle Papierformulare durch Apps ersetzen"
     ],
     "correct": 2,
     "explanation": "Seine drei Ziele sind: Informationstechnologie für alle zugänglich machen (Geräte, Konnektivität, digitale Kompetenz); soziale Inklusion durch Technik fördern; und für die Umwelt handeln, indem gespendete Geräte wiederverwendet und repariert werden."
@@ -45433,10 +45433,10 @@ const EPISODES = [
    {
     "text": "Wer kann bei Digital Inclusion einen kostenlosen gebrauchten Computer beantragen?",
     "options": [
-     "Jeder in Europa, ohne Bedingungen",
+     "Jeder in Europa, ohne Bedingungen, der das Online-Formular ausfüllt und die Versandkosten zahlt",
      "Menschen, die in Luxemburg leben und eine Bedingung erfüllen, etwa die Teuerungszulage (AVC) beziehen oder Flüchtling sind",
-     "Nur luxemburgische Staatsbürger über 65",
-     "Nur Studierende an der Universität"
+     "Nur luxemburgische Staatsbürger über 65, die noch nie einen Computer hatten und allein leben",
+     "Nur Studierende an Hochschulen in Luxemburg, die ihren Studentenausweis und einen Empfehlungsbrief ihres Professors vorlegen"
     ],
     "correct": 1,
     "explanation": "Sie müssen in Luxemburg leben und eine Bedingung erfüllen – zum Beispiel bezieht Ihr Haushalt die Teuerungszulage (allocation de vie chère), Sie sind Flüchtling (Asylsuchender, vorübergehender Schutz, unbegleiteter Minderjähriger), Sie besitzen einen Aufenthaltstitel „Vie Privée“ oder Sie befinden sich in einem Schuldenregulierungsverfahren. Die durchschnittliche Wartezeit beträgt derzeit unter einem Monat."
@@ -45445,9 +45445,9 @@ const EPISODES = [
     "text": "Was ist das „Open Classroom“?",
     "options": [
      "Eine offene IT-Sprechstunde an jedem Freitagvormittag, ohne Terminvereinbarung",
-     "Ein kostenpflichtiger Online-Kurs",
-     "Ein Klassenraum, den man für Feiern mieten kann",
-     "Eine Schule für IT-Ingenieure"
+     "Ein kostenpflichtiger Online-Programmierkurs mit einem offiziellen Zertifikat am Ende",
+     "Ein Klassenraum, den man am Wochenende für Feiern und Treffen mieten kann",
+     "Eine Schule für Informatikingenieure mit einer jährlichen Aufnahmeprüfung"
     ],
     "correct": 0,
     "explanation": "Das Open Classroom ist eine kostenlose, offene digitale Sprechstunde, die jeden Freitagvormittag (9:30–13:30 Uhr) bei Digital Inclusion stattfindet, bei der jeder ohne Termin Hilfe bei einem digitalen Problem erhalten kann."
@@ -45456,9 +45456,9 @@ const EPISODES = [
     "text": "Warum ist die Arbeit von Digital Inclusion auch gut für die Umwelt?",
     "options": [
      "Sie gibt gespendeten, gebrauchten Geräten ein zweites (und sogar drittes) Leben, statt sie zu Elektroschrott werden zu lassen",
-     "Für jeden verkauften Computer wird ein Baum gepflanzt",
-     "Sie läuft vollständig mit Solarstrom",
-     "Sie recycelt Papier"
+     "Sie pflanzt für jeden verschenkten Computer einen Baum in Luxemburg, um den Stromverbrauch der Geräte während ihrer Lebensdauer auszugleichen",
+     "Sie betreibt alle Werkstätten und Büros ausschließlich mit Solarstrom vom eigenen Dach",
+     "Sie sammelt und recycelt alte Papierformulare der Behörden, sobald sie eingescannt wurden"
     ],
     "correct": 0,
     "explanation": "Indem Digital Inclusion gespendete Laptops, Smartphones und Tablets sammelt, repariert und weitergibt, hält der Verein funktionierende Geräte vom Müll fern – eine einzige Handlung, die einem bedürftigen Menschen hilft und zugleich Elektroschrott verringert."
@@ -48867,10 +48867,10 @@ const EPISODES = [
    {
     "text": "What is the role of the National Social Inclusion Office (ONIS)?",
     "options": [
-     "It pays out pensions",
-     "It manages passports and ID cards",
+     "It pays out old-age pensions and survivors' pensions to former employees in Luxembourg",
+     "It manages passports, identity cards and residence permits for new residents",
      "It handles the 'inclusion' side of REVIS – helping people furthest from work move forward",
-     "It collects taxes"
+     "It collects taxes and social contributions from employers and the self-employed"
     ],
     "correct": 2,
     "explanation": "ONIS is the government administration responsible for the 'inclusion' side of REVIS (the social inclusion income). Created by the 2018 REVIS law and operating since 2019, its mission is to stabilise and activate people furthest from the labour market."
@@ -48879,9 +48879,9 @@ const EPISODES = [
     "text": "REVIS has two sides. Who does what?",
     "options": [
      "The National Solidarity Fund (FNS) pays the money; ONIS handles the inclusion and activation",
-     "ONIS pays the money and the FNS finds jobs",
-     "Both are paid by the communes",
-     "REVIS is only a cheque, with no other side"
+     "ONIS pays the money every month, and the FNS looks for jobs and training for the person",
+     "Both sides are paid and organised by the communes, depending on where the person lives",
+     "REVIS is only a monthly cheque from the State; there is no support or inclusion side at all"
     ],
     "correct": 0,
     "explanation": "REVIS – the social inclusion income – has two sides: the National Solidarity Fund (FNS) pays the monthly money, while ONIS handles the inclusion side, helping the person move back toward work and society."
@@ -48889,9 +48889,9 @@ const EPISODES = [
    {
     "text": "What is the difference between stabilisation and activation measures?",
     "options": [
-     "They are the same thing",
-     "Stabilisation is for companies; activation is for schools",
-     "Activation comes first, then stabilisation",
+     "They are the same thing under two names: both simply mean receiving the REVIS money each month without any other step",
+     "Stabilisation measures are for companies that hire REVIS recipients; activation measures are for schools and young pupils",
+     "Activation always comes first, with a full-time job placement; stabilisation only starts after a person has worked for a year",
      "Stabilisation measures help someone not yet ready for work (health, personal difficulties); activation measures are steps toward work (skills, experience)"
     ],
     "correct": 3,
@@ -48900,10 +48900,10 @@ const EPISODES = [
    {
     "text": "When you receive REVIS, how does ONIS work with you?",
     "options": [
-     "It sends a letter and nothing more",
+     "It sends you one letter with a list of job websites, and after that there is no further contact or personal follow-up",
      "You sign a collaboration declaration and are paired with a regional social inclusion agent (ARIS), with whom you build a personal activation plan",
-     "You must find your own job within a week or lose the benefit",
-     "You are assigned to one central office in the capital"
+     "You must find a full-time job on your own within one week, or you lose the REVIS benefit and have to apply again from the start",
+     "You are assigned to one central office in the capital, where a different person sees you each time, without a personal plan"
     ],
     "correct": 1,
     "explanation": "You are invited to a meeting, sign a collaboration declaration (a mutual commitment), and are paired with a regional social inclusion agent (ARIS) working in a local social office. Together you build a personal activation plan tailored to your situation."
@@ -48911,10 +48911,10 @@ const EPISODES = [
    {
     "text": "What is the underlying spirit of ONIS's work?",
     "options": [
-     "To punish people for not having a job",
+     "To put pressure on people without a job, with sanctions as the main tool to push them back to work",
      "To accompany people back toward work and society at their own pace – 'inclusion, not abandonment'",
-     "To reduce the number of benefit recipients as fast as possible",
-     "To replace the National Solidarity Fund"
+     "To reduce the number of benefit recipients as fast as possible, whatever the person's situation",
+     "To replace the National Solidarity Fund and take over all its payments within the next few years"
     ],
     "correct": 1,
     "explanation": "The aim is to accompany, not to abandon: REVIS asks for participation (the collaboration declaration), but the design is to support each person at their own pace around their own obstacles, so a minimum income becomes a bridge back to inclusion rather than a dead end."
@@ -49375,10 +49375,10 @@ const EPISODES = [
    {
     "text": "Quel est le rôle de l'Office national d'inclusion sociale (ONIS) ?",
     "options": [
-     "Il verse les pensions",
-     "Il gère les passeports et les cartes d'identité",
+     "Il verse les pensions de vieillesse et de survie aux anciens salariés au Luxembourg",
+     "Il gère les passeports, les cartes d'identité et les titres de séjour des nouveaux résidents du pays",
      "Il s'occupe du volet « inclusion » du REVIS – aider les personnes les plus éloignées de l'emploi à avancer",
-     "Il perçoit les impôts"
+     "Il perçoit les impôts et les cotisations sociales des employeurs et des indépendants"
     ],
     "correct": 2,
     "explanation": "L'ONIS est l'administration de l'État responsable du volet « inclusion » du REVIS (le revenu d'inclusion sociale). Créé par la loi REVIS de 2018 et opérationnel depuis 2019, sa mission est de stabiliser et d'activer les personnes les plus éloignées du marché du travail."
@@ -49387,9 +49387,9 @@ const EPISODES = [
     "text": "Le REVIS a deux facettes. Qui fait quoi ?",
     "options": [
      "Le Fonds national de solidarité (FNS) verse l'argent ; l'ONIS s'occupe de l'inclusion et de l'activation",
-     "L'ONIS verse l'argent et le FNS trouve les emplois",
-     "Les deux sont financés par les communes",
-     "Le REVIS n'est qu'un chèque, sans autre facette"
+     "L'ONIS verse l'argent chaque mois, et le FNS cherche des emplois et des formations pour la personne",
+     "Les deux volets sont payés et organisés par les communes, selon l'endroit où vit la personne",
+     "Le REVIS n'est qu'un chèque mensuel de l'État ; il n'y a aucun volet d'accompagnement ou d'inclusion prévu"
     ],
     "correct": 0,
     "explanation": "Le REVIS – le revenu d'inclusion sociale – a deux facettes : le Fonds national de solidarité (FNS) verse l'argent chaque mois, tandis que l'ONIS s'occupe du volet inclusion, en aidant la personne à se rapprocher à nouveau du travail et de la société."
@@ -49397,9 +49397,9 @@ const EPISODES = [
    {
     "text": "Quelle est la différence entre les mesures de stabilisation et les mesures d'activation ?",
     "options": [
-     "C'est la même chose",
-     "La stabilisation est pour les entreprises ; l'activation est pour les écoles",
-     "L'activation vient d'abord, puis la stabilisation",
+     "C'est la même chose sous deux noms : les deux signifient simplement toucher le REVIS chaque mois sans autre démarche",
+     "Les mesures de stabilisation s'adressent aux entreprises qui embauchent des bénéficiaires du REVIS ; les mesures d'activation visent surtout les écoles, les élèves et leurs enseignants",
+     "L'activation vient toujours en premier, avec un placement à plein temps ; la stabilisation ne commence qu'après un an de travail",
      "Les mesures de stabilisation aident une personne pas encore prête pour l'emploi (santé, difficultés personnelles) ; les mesures d'activation sont des étapes vers l'emploi (compétences, expérience)"
     ],
     "correct": 3,
@@ -49408,10 +49408,10 @@ const EPISODES = [
    {
     "text": "Lorsque vous percevez le REVIS, comment l'ONIS travaille-t-il avec vous ?",
     "options": [
-     "Il envoie une lettre et rien de plus",
+     "Il vous envoie une lettre avec une liste de sites d'emploi, puis il n'y a plus aucun contact ni suivi personnel",
      "Vous signez une déclaration de collaboration et vous êtes mis en relation avec un agent régional d'inclusion sociale (ARIS), avec qui vous construisez un plan d'activation personnel",
-     "Vous devez trouver un emploi par vous-même en une semaine, sinon vous perdez la prestation",
-     "Vous êtes affecté à un seul office central dans la capitale"
+     "Vous devez trouver seul un emploi à plein temps en une semaine, sinon vous perdez le REVIS et devez refaire toute la demande",
+     "Vous êtes rattaché à un seul bureau central dans la capitale, où une personne différente vous reçoit à chaque fois, sans plan personnel ni suivi régulier de votre situation"
     ],
     "correct": 1,
     "explanation": "Vous êtes invité à un entretien, vous signez une déclaration de collaboration (un engagement mutuel), et vous êtes mis en relation avec un agent régional d'inclusion sociale (ARIS) travaillant dans un office social local. Ensemble, vous construisez un plan d'activation personnel adapté à votre situation."
@@ -49419,10 +49419,10 @@ const EPISODES = [
    {
     "text": "Quel est l'esprit qui sous-tend le travail de l'ONIS ?",
     "options": [
-     "Punir les personnes qui n'ont pas d'emploi",
+     "Mettre la pression sur les personnes sans emploi, avec les sanctions comme principal outil pour les ramener au travail",
      "Accompagner les personnes vers le travail et la société à leur propre rythme – « l'inclusion, pas l'abandon »",
-     "Réduire le nombre de bénéficiaires le plus vite possible",
-     "Remplacer le Fonds national de solidarité"
+     "Réduire le plus vite possible le nombre de bénéficiaires, quelle que soit la situation de la personne",
+     "Remplacer le Fonds national de solidarité et reprendre tous ses paiements dans les prochaines années"
     ],
     "correct": 1,
     "explanation": "L'objectif est d'accompagner, pas d'abandonner : le REVIS demande une participation (la déclaration de collaboration), mais l'idée est de soutenir chaque personne à son propre rythme, autour de ses propres obstacles, pour qu'un revenu minimum devienne un pont vers l'inclusion plutôt qu'une impasse."
@@ -49446,10 +49446,10 @@ const EPISODES = [
    {
     "text": "Welche Rolle hat das Nationale Amt für soziale Eingliederung (ONIS)?",
     "options": [
-     "Es zahlt Pensionen aus",
-     "Es verwaltet Reisepässe und Personalausweise",
+     "Es zahlt Alters-, Invaliden- und Hinterbliebenenrenten an ehemalige Arbeitnehmer und ihre Familien in Luxemburg aus",
+     "Es verwaltet Reisepässe, Personalausweise und Aufenthaltstitel für neue Einwohner",
      "Es kümmert sich um die „Eingliederungsseite“ des REVIS – es hilft den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen",
-     "Es zieht Steuern ein"
+     "Es zieht Steuern und Sozialbeiträge von Arbeitgebern und Selbstständigen ein"
     ],
     "correct": 2,
     "explanation": "ONIS ist die staatliche Verwaltung, die für die „Eingliederungsseite“ des REVIS (des Eingliederungseinkommens) zuständig ist. Durch das REVIS-Gesetz von 2018 geschaffen und seit 2019 tätig, ist ihre Aufgabe, Menschen, die dem Arbeitsmarkt am fernsten stehen, zu stabilisieren und zu aktivieren."
@@ -49458,9 +49458,9 @@ const EPISODES = [
     "text": "Das REVIS hat zwei Seiten. Wer macht was?",
     "options": [
      "Der Nationale Solidaritätsfonds (FNS) zahlt das Geld; ONIS kümmert sich um Eingliederung und Aktivierung",
-     "ONIS zahlt das Geld und der FNS findet die Jobs",
-     "Beides wird von den Gemeinden bezahlt",
-     "Das REVIS ist nur ein Scheck, ohne weitere Seite"
+     "Das ONIS zahlt jeden Monat das Geld, und der FNS sucht Arbeit und Weiterbildung für die Person",
+     "Beide Seiten werden von den Gemeinden bezahlt und organisiert, je nach Wohnort der Person",
+     "Das REVIS ist nur ein monatlicher Scheck des Staates; eine Begleit- oder Inklusionsseite gibt es gar nicht"
     ],
     "correct": 0,
     "explanation": "Das REVIS – das Eingliederungseinkommen – hat zwei Seiten: Der Nationale Solidaritätsfonds (FNS) zahlt das Geld jeden Monat aus, während ONIS sich um die Eingliederungsseite kümmert und der Person hilft, sich wieder der Arbeit und der Gesellschaft anzunähern."
@@ -49468,9 +49468,9 @@ const EPISODES = [
    {
     "text": "Was ist der Unterschied zwischen Stabilisierungs- und Aktivierungsmaßnahmen?",
     "options": [
-     "Sie sind dasselbe",
-     "Stabilisierung ist für Unternehmen; Aktivierung ist für Schulen",
-     "Aktivierung kommt zuerst, dann Stabilisierung",
+     "Es ist dasselbe unter zwei Namen: Beides bedeutet einfach, jeden Monat das REVIS-Geld ohne weitere Schritte zu bekommen",
+     "Stabilisierungsmaßnahmen sind für Firmen gedacht, die REVIS-Bezieher einstellen; Aktivierungsmaßnahmen richten sich dagegen vor allem an Schulen, junge Schüler und ihre Lehrkräfte",
+     "Aktivierung kommt immer zuerst, mit einer Vollzeitstelle; Stabilisierung beginnt erst, nachdem jemand ein Jahr gearbeitet hat",
      "Stabilisierungsmaßnahmen helfen jemandem, der noch nicht bereit für eine Arbeit ist (Gesundheit, persönliche Schwierigkeiten); Aktivierungsmaßnahmen sind Schritte in Richtung Arbeit (Fähigkeiten, Erfahrung)"
     ],
     "correct": 3,
@@ -49479,10 +49479,10 @@ const EPISODES = [
    {
     "text": "Wenn Sie REVIS beziehen, wie arbeitet ONIS mit Ihnen?",
     "options": [
-     "Es schickt einen Brief und sonst nichts",
+     "Es schickt Ihnen einen Brief mit einer Liste von Jobportalen, danach gibt es keinen Kontakt und keine persönliche Begleitung mehr",
      "Sie unterschreiben eine Kooperationserklärung und werden einem regionalen Eingliederungsagenten (ARIS) zugeordnet, mit dem Sie einen persönlichen Aktivierungsplan erstellen",
-     "Sie müssen innerhalb einer Woche selbst einen Job finden, sonst verlieren Sie die Leistung",
-     "Sie werden einem einzigen zentralen Amt in der Hauptstadt zugewiesen"
+     "Sie müssen innerhalb einer Woche allein eine Vollzeitstelle finden, sonst verlieren Sie das REVIS und müssen ganz neu beantragen",
+     "Sie werden einem einzigen zentralen Büro in der Hauptstadt zugeteilt, wo Sie jedes Mal jemand anderes empfängt, ohne persönlichen Plan und ohne regelmäßige Begleitung"
     ],
     "correct": 1,
     "explanation": "Sie werden zu einem Gespräch eingeladen, unterschreiben eine Kooperationserklärung (eine gegenseitige Verpflichtung) und werden einem regionalen Eingliederungsagenten (ARIS) zugeordnet, der in einem örtlichen Sozialamt arbeitet. Gemeinsam erstellen Sie einen persönlichen Aktivierungsplan, der auf Ihre Situation zugeschnitten ist."
@@ -49490,10 +49490,10 @@ const EPISODES = [
    {
     "text": "Was ist der zugrunde liegende Geist der Arbeit von ONIS?",
     "options": [
-     "Menschen dafür zu bestrafen, dass sie keine Arbeit haben",
+     "Druck auf Menschen ohne Arbeit ausüben, mit Sanktionen als wichtigstem Mittel, um sie möglichst schnell zurück in den Job zu bringen",
      "Menschen in ihrem eigenen Tempo zurück zu Arbeit und Gesellschaft zu begleiten – „Eingliederung, nicht im Stich lassen“",
-     "Die Zahl der Leistungsempfänger so schnell wie möglich zu senken",
-     "Den Nationalen Solidaritätsfonds zu ersetzen"
+     "Die Zahl der Leistungsbezieher so schnell wie möglich senken, egal in welcher Lage die Person ist",
+     "Den Nationalen Solidaritätsfonds ersetzen und in den nächsten Jahren alle seine Zahlungen übernehmen"
     ],
     "correct": 1,
     "explanation": "Das Ziel ist zu begleiten, nicht im Stich zu lassen: Das REVIS verlangt Mitwirkung (die Kooperationserklärung), aber der Ansatz ist, jede Person in ihrem eigenen Tempo rund um ihre eigenen Hindernisse zu unterstützen, damit ein Mindesteinkommen zu einer Brücke zurück in die Gesellschaft wird statt zu einer Sackgasse."
@@ -52473,9 +52473,9 @@ const EPISODES = [
     "text": "What is the Work in Luxembourg portal?",
     "options": [
      "An official, government-led website that is a single gateway to working and living in Luxembourg",
-     "A private recruitment agency",
-     "A social network for tourists",
-     "A bank for international workers"
+     "A private recruitment agency that charges candidates a fee to find them a job in Luxembourg",
+     "A social network for tourists who want to share travel tips and photos from Luxembourg",
+     "A bank for international workers that opens salary accounts before they arrive in the country"
     ],
     "correct": 0,
     "explanation": "Work in Luxembourg (workinluxembourg.com) is an official, government-led initiative – a single point of entry bringing together information on working and living in Luxembourg, plus a job board, mainly aimed at international talent and employers."
@@ -52483,10 +52483,10 @@ const EPISODES = [
    {
     "text": "What are the three main sections of the portal?",
     "options": [
-     "Buy, Sell, Rent",
-     "News, Sports, Weather",
+     "Buy, Sell, and Rent a flat",
+     "News, Sports, and Weather today",
      "Work here, Live here, and Get started",
-     "Visa, Tax, Pension"
+     "Visa, Tax, and Pension forms"
     ],
     "correct": 2,
     "explanation": "The portal is organised into 'Work here' (the job market, sectors, careers, working conditions), 'Live here' (housing, family, education, health, culture) and 'Get started' (immigration/permits, job search, housing and a relocation guide, plus an Employer Toolkit)."
@@ -52494,10 +52494,10 @@ const EPISODES = [
    {
     "text": "How does the portal's Job Board work?",
     "options": [
-     "It lists jobs from random websites",
-     "It only shows government jobs",
+     "It collects job offers automatically from random websites around the world, without checking whether they are still open",
+     "It only shows jobs in the public sector, such as ministries and communes, reserved for people who speak Luxembourgish",
      "It is linked to ADEM's international recruitment platform, with vacancies updated daily and around 11,000 pre-selected candidates",
-     "You must pay to see the jobs"
+     "You must pay a monthly subscription to see the job offers, and companies can only contact candidates who have paid"
     ],
     "correct": 2,
     "explanation": "The Job Board is connected directly to ADEM (the national public employment service) and its international recruitment platform. Vacancies are updated daily, you can create a profile and apply, and the pool already holds around 11,000 candidates pre-selected by ADEM."
@@ -52505,10 +52505,10 @@ const EPISODES = [
    {
     "text": "What is the Talent Desk?",
     "options": [
-     "A desk where you buy office furniture",
+     "A shop desk in Luxembourg City where newcomers can buy office furniture and equipment at a discount",
      "A service offering personalised, human support to guide talent (and companies) through the administrative and integration steps",
-     "An online quiz about Luxembourg",
-     "A help line only for tourists"
+     "An online quiz about Luxembourg's history and culture that candidates must pass before they can apply for a job",
+     "A telephone help line only for tourists, giving information about hotels, museums and public transport"
     ],
     "correct": 1,
     "explanation": "The Talent Desk complements the website with personalised, human support: it informs, advises and guides international talent through the administrative and integration process, connects them to the right institutions, and also supports companies with international recruitment."
@@ -52516,9 +52516,9 @@ const EPISODES = [
    {
     "text": "Why might a professional from outside the EU find it easier to move for certain jobs?",
     "options": [
-     "Because all immigration is automatic",
-     "Because there are no rules for non-EU workers",
-     "Because they pay no taxes",
+     "Because all immigration to Luxembourg is automatic, so anyone from anywhere can move and start working the next day",
+     "Because there are no rules at all for non-EU workers in Luxembourg, so no permit or paperwork is ever needed for any job",
+     "Because non-EU professionals pay no income tax in Luxembourg during their first five years, whatever job they do",
      "Because for jobs on Luxembourg's 'shortage occupations' list, non-EU professionals can benefit from faster immigration procedures"
     ],
     "correct": 3,
@@ -52971,9 +52971,9 @@ const EPISODES = [
     "text": "Qu'est-ce que le portail Work in Luxembourg ?",
     "options": [
      "Un site officiel, mis en place par l'État, qui est une porte d'entrée unique pour travailler et vivre au Luxembourg",
-     "Une agence de recrutement privée",
-     "Un réseau social pour touristes",
-     "Une banque pour travailleurs internationaux"
+     "Une agence de recrutement privée qui fait payer les candidats pour leur trouver un emploi au Luxembourg",
+     "Un réseau social pour touristes qui veulent partager des conseils de voyage et des photos du Luxembourg",
+     "Une banque pour travailleurs internationaux, qui ouvre des comptes salaire avant même leur arrivée dans le pays"
     ],
     "correct": 0,
     "explanation": "Work in Luxembourg (workinluxembourg.com) est une initiative officielle, mise en place par l'État – un point d'entrée unique qui rassemble les informations sur le travail et la vie au Luxembourg, avec en plus un job board, principalement destiné aux talents internationaux et aux employeurs."
@@ -52981,10 +52981,10 @@ const EPISODES = [
    {
     "text": "Quelles sont les trois sections principales du portail ?",
     "options": [
-     "Acheter, Vendre, Louer",
-     "Actualités, Sport, Météo",
+     "Acheter, Vendre et Louer un appartement",
+     "Actualités, Sports et Météo du jour",
      "Work here, Live here et Get started",
-     "Visa, Impôts, Pension"
+     "Formulaires Visa, Impôts et Pension"
     ],
     "correct": 2,
     "explanation": "Le portail est organisé en « Work here » (le marché du travail, les secteurs, les carrières, les conditions de travail), « Live here » (logement, famille, éducation, santé, culture) et « Get started » (immigration/titres de séjour, recherche d'emploi, logement et un guide de relocation, ainsi qu'un Employer Toolkit)."
@@ -52992,10 +52992,10 @@ const EPISODES = [
    {
     "text": "Comment fonctionne le Job Board du portail ?",
     "options": [
-     "Il liste des offres provenant de sites au hasard",
-     "Il n'affiche que des emplois publics",
+     "Il collecte automatiquement des offres sur des sites pris au hasard dans le monde, sans vérifier si elles sont encore ouvertes",
+     "Il ne montre que des postes du secteur public, comme les ministères et les communes, et ces postes sont réservés aux personnes qui parlent luxembourgeois",
      "Il est relié à la plateforme de recrutement international de l'ADEM, avec des offres mises à jour chaque jour et environ 11 000 candidats présélectionnés",
-     "Il faut payer pour voir les offres"
+     "Il faut payer un abonnement mensuel pour voir les offres, et les entreprises ne peuvent contacter que les candidats qui ont payé"
     ],
     "correct": 2,
     "explanation": "Le Job Board est connecté directement à l'ADEM (le service public de l'emploi national) et à sa plateforme de recrutement international. Les offres sont mises à jour chaque jour, vous pouvez créer un profil et postuler, et le vivier compte déjà environ 11 000 candidats présélectionnés par l'ADEM."
@@ -53003,10 +53003,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que le Talent Desk ?",
     "options": [
-     "Un comptoir où l'on achète du mobilier de bureau",
+     "Un comptoir à Luxembourg-Ville où les nouveaux arrivants achètent du mobilier et du matériel de bureau à prix réduit",
      "Un service offrant un accompagnement personnalisé et humain pour guider les talents (et les entreprises) à travers les démarches administratives et d'intégration",
-     "Un quiz en ligne sur le Luxembourg",
-     "Une ligne d'assistance réservée aux touristes"
+     "Un quiz en ligne sur l'histoire et la culture du Luxembourg que les candidats doivent réussir avant de postuler",
+     "Une ligne d'assistance téléphonique réservée aux touristes, avec des informations pratiques sur les hôtels, les musées, les restaurants et les transports"
     ],
     "correct": 1,
     "explanation": "Le Talent Desk complète le site par un accompagnement personnalisé et humain : il informe, conseille et guide les talents internationaux à travers les démarches administratives et d'intégration, les met en relation avec les bonnes institutions, et soutient aussi les entreprises dans leur recrutement international."
@@ -53014,9 +53014,9 @@ const EPISODES = [
    {
     "text": "Pourquoi un professionnel venu de l'extérieur de l'UE peut-il avoir plus de facilité à s'installer pour certains emplois ?",
     "options": [
-     "Parce que toute immigration est automatique",
-     "Parce qu'il n'y a aucune règle pour les travailleurs hors UE",
-     "Parce qu'ils ne paient pas d'impôts",
+     "Parce que toute immigration au Luxembourg est automatique, donc n'importe qui peut venir et commencer à travailler le lendemain",
+     "Parce qu'il n'existe aucune règle pour les travailleurs non européens au Luxembourg, donc aucun permis de travail ni aucun papier n'est jamais nécessaire, quel que soit le métier",
+     "Parce que les professionnels non européens ne paient pas d'impôt sur le revenu au Luxembourg pendant cinq ans, quel que soit leur emploi",
      "Parce que pour les emplois figurant sur la liste des « métiers en pénurie » du Luxembourg, les professionnels hors UE peuvent bénéficier de démarches d'immigration plus rapides"
     ],
     "correct": 3,
@@ -53042,9 +53042,9 @@ const EPISODES = [
     "text": "Was ist das Portal Work in Luxembourg?",
     "options": [
      "Eine offizielle, staatlich geführte Website, die eine einzige Eingangstür zum Arbeiten und Leben in Luxemburg ist",
-     "Eine private Personalvermittlung",
-     "Ein soziales Netzwerk für Touristen",
-     "Eine Bank für internationale Arbeitskräfte"
+     "Eine private Personalvermittlung, die Bewerbern viel Geld dafür berechnet, ihnen einen Job in Luxemburg zu finden",
+     "Ein soziales Netzwerk für Touristen, die Reisetipps und Fotos aus Luxemburg teilen möchten",
+     "Eine Bank für internationale Arbeitskräfte, die Gehaltskonten eröffnet, bevor sie ins Land kommen"
     ],
     "correct": 0,
     "explanation": "Work in Luxembourg (workinluxembourg.com) ist eine offizielle, staatlich geführte Initiative – eine einzige Anlaufstelle, die Informationen zum Arbeiten und Leben in Luxemburg sowie ein Job Board bündelt und sich vor allem an internationale Fachkräfte und Arbeitgeber richtet."
@@ -53052,10 +53052,10 @@ const EPISODES = [
    {
     "text": "Was sind die drei Hauptbereiche des Portals?",
     "options": [
-     "Kaufen, Verkaufen, Mieten",
-     "Nachrichten, Sport, Wetter",
+     "Kaufen, Verkaufen und Wohnung mieten",
+     "Nachrichten, Sport und Wetter von heute",
      "Work here, Live here und Get started",
-     "Visum, Steuern, Pension"
+     "Formulare zu Visum, Steuern und Rente"
     ],
     "correct": 2,
     "explanation": "Das Portal ist in „Work here“ (Arbeitsmarkt, Branchen, Karrieren, Arbeitsbedingungen), „Live here“ (Wohnen, Familie, Bildung, Gesundheit, Kultur) und „Get started“ (Einwanderung/Aufenthaltstitel, Jobsuche, Wohnen und ein Umzugsleitfaden sowie ein Employer Toolkit) gegliedert."
@@ -53063,10 +53063,10 @@ const EPISODES = [
    {
     "text": "Wie funktioniert das Job Board des Portals?",
     "options": [
-     "Es listet Jobs von zufälligen Websites auf",
-     "Es zeigt nur Stellen im öffentlichen Dienst",
+     "Er sammelt automatisch Stellenangebote von beliebigen Websites weltweit, ohne zu prüfen, ob sie noch offen sind",
+     "Er zeigt nur Stellen im öffentlichen Dienst, etwa in Ministerien und Gemeinden, und diese Stellen sind nur für Menschen, die fließend Luxemburgisch sprechen",
      "Es ist mit der internationalen Rekrutierungsplattform von ADEM verbunden, mit täglich aktualisierten Stellen und rund 11 000 vorausgewählten Kandidaten",
-     "Man muss bezahlen, um die Jobs zu sehen"
+     "Man muss ein Monatsabo zahlen, um die Angebote zu sehen, und Firmen können nur Kandidaten kontaktieren, die bezahlt haben"
     ],
     "correct": 2,
     "explanation": "Das Job Board ist direkt mit ADEM (dem nationalen öffentlichen Arbeitsvermittlungsdienst) und seiner internationalen Rekrutierungsplattform verbunden. Die Stellen werden täglich aktualisiert, Sie können ein Profil erstellen und sich bewerben, und der Pool umfasst bereits rund 11 000 von ADEM vorausgewählte Kandidaten."
@@ -53074,10 +53074,10 @@ const EPISODES = [
    {
     "text": "Was ist der Talent Desk?",
     "options": [
-     "Ein Tresen, an dem man Büromöbel kauft",
+     "Ein Verkaufsstand in Luxemburg-Stadt, an dem Neuankömmlinge Büromöbel und Ausstattung vergünstigt kaufen",
      "Ein Dienst, der persönliche, menschliche Unterstützung bietet, um Fachkräfte (und Unternehmen) durch die administrativen und integrativen Schritte zu begleiten",
-     "Ein Online-Quiz über Luxemburg",
-     "Eine Hotline nur für Touristen"
+     "Ein Online-Quiz über Geschichte, Sprachen und Kultur Luxemburgs, das alle Bewerber bestehen müssen, bevor sie sich überhaupt auf eine Stelle bewerben dürfen",
+     "Eine Telefon-Hotline nur für Touristen, mit Informationen zu Hotels, Museen und öffentlichem Verkehr"
     ],
     "correct": 1,
     "explanation": "Der Talent Desk ergänzt die Website durch persönliche, menschliche Unterstützung: Er informiert, berät und begleitet internationale Fachkräfte durch den administrativen und integrativen Prozess, vermittelt sie an die richtigen Institutionen und unterstützt auch Unternehmen bei der internationalen Rekrutierung."
@@ -53085,9 +53085,9 @@ const EPISODES = [
    {
     "text": "Warum könnte es für eine Fachkraft von außerhalb der EU bei bestimmten Jobs leichter sein, umzuziehen?",
     "options": [
-     "Weil jede Einwanderung automatisch erfolgt",
-     "Weil es für Arbeitskräfte von außerhalb der EU keine Regeln gibt",
-     "Weil sie keine Steuern zahlen",
+     "Weil jede Einwanderung nach Luxemburg automatisch ist, sodass jeder von überall kommen und am nächsten Tag arbeiten kann",
+     "Weil es für Arbeitnehmer aus Nicht-EU-Ländern in Luxemburg gar keine Regeln gibt, also nie eine Genehmigung nötig ist",
+     "Weil Fachkräfte aus Nicht-EU-Ländern in den ersten fünf Jahren in Luxemburg überhaupt keine Einkommensteuer zahlen, egal in welchem Beruf sie arbeiten",
      "Weil für Jobs auf Luxemburgs Liste der „Mangelberufe“ Fachkräfte von außerhalb der EU von schnelleren Einwanderungsverfahren profitieren können"
     ],
     "correct": 3,
@@ -53903,9 +53903,9 @@ const EPISODES = [
    {
     "text": "What is ADEM?",
     "options": [
-     "A private recruitment company you pay to find a job",
-     "A bank that pays out salaries",
-     "A trade union",
+     "A private recruitment company that you pay to find a job for you",
+     "A bank that pays out salaries on behalf of Luxembourg employers",
+     "A trade union that defends workers in conflicts with their employer",
      "Luxembourg's free, public employment service that helps jobseekers and employers"
     ],
     "correct": 3,
@@ -53914,10 +53914,10 @@ const EPISODES = [
    {
     "text": "How can you register as a jobseeker with ADEM?",
     "options": [
-     "Only by post",
-     "Only by turning up without an appointment",
+     "Only by post, with a paper form and a copy of your contract",
+     "Only by turning up at any ADEM office, without an appointment",
      "Online via MyGuichet.lu with a secure login, or in person by appointment",
-     "Through your bank"
+     "Through your bank, which sends your details to ADEM for you"
     ],
     "correct": 2,
     "explanation": "You can register online on MyGuichet.lu using a secure login such as LuxTrust, or in person at one of ADEM's offices (Luxembourg, Esch-Belval or Diekirch) after booking an appointment on 247-88888."
@@ -53926,9 +53926,9 @@ const EPISODES = [
     "text": "What do you get once you are registered with ADEM?",
     "options": [
      "A personal advisor, access to the JobBoard, training and support",
-     "Nothing until you find a job yourself",
-     "A guaranteed job within one week",
-     "A free car"
+     "Nothing until you find a job yourself; ADEM only keeps your name on file",
+     "A guaranteed job within one week, chosen for you by ADEM",
+     "A monthly allowance straight away, whatever your situation"
     ],
     "correct": 0,
     "explanation": "Registration opens the door to ADEM's services: a personal referent advisor, access to the JobBoard of vacancies, training and employment measures, and practical help such as the Employment Club."
@@ -53936,9 +53936,9 @@ const EPISODES = [
    {
     "text": "What must you do before you can apply for unemployment benefit?",
     "options": [
-     "Pay a registration fee",
-     "Already have a new job",
-     "Wait two years",
+     "Pay a registration fee at your commune",
+     "Already have a signed new job contract",
+     "Wait two years after losing your job",
      "First register as a jobseeker with ADEM"
     ],
     "correct": 3,
@@ -53947,10 +53947,10 @@ const EPISODES = [
    {
     "text": "What does the Youth Guarantee promise young people?",
     "options": [
-     "A free university place",
+     "A free place at the University of Luxembourg for every young person who registers with ADEM",
      "A tailored solution to enter working life within four months of registering with ADEM",
-     "A cash prize",
-     "A guaranteed civil-service job"
+     "A cash prize of several thousand euros for young people who find a job on their own",
+     "A guaranteed permanent job in the civil service, for life, after a short training course"
     ],
     "correct": 1,
     "explanation": "The Youth Guarantee aims to offer every young person aged 15 to 30 a concrete solution – a job, training or another step – to enter working life within four months of registering with ADEM."
@@ -53975,9 +53975,9 @@ const EPISODES = [
    {
     "text": "Qu’est-ce que l’ADEM ?",
     "options": [
-     "Une agence de recrutement privée que l’on paie pour trouver un emploi",
-     "Une banque qui verse les salaires",
-     "Un syndicat",
+     "Une entreprise de recrutement privée que vous payez chaque mois pour qu'elle vous trouve un emploi",
+     "Une banque qui verse les salaires pour le compte des employeurs luxembourgeois",
+     "Un syndicat qui défend les salariés en conflit avec leur employeur",
      "Le service public de l’emploi du Luxembourg, gratuit, qui aide demandeurs d’emploi et employeurs"
     ],
     "correct": 3,
@@ -53986,10 +53986,10 @@ const EPISODES = [
    {
     "text": "Comment pouvez-vous vous inscrire comme demandeur d’emploi auprès de l’ADEM ?",
     "options": [
-     "Uniquement par courrier",
-     "Uniquement en venant sans rendez-vous",
+     "Uniquement par courrier, avec un formulaire papier rempli à la main et une copie de votre dernier contrat",
+     "Uniquement en vous présentant dans une agence de l'ADEM, sans rendez-vous",
      "En ligne via MyGuichet.lu avec une authentification sécurisée, ou en personne sur rendez-vous",
-     "Par l’intermédiaire de votre banque"
+     "Par votre banque, qui transmet vos données à l'ADEM à votre place"
     ],
     "correct": 2,
     "explanation": "Vous pouvez vous inscrire en ligne sur MyGuichet.lu avec une authentification sécurisée comme LuxTrust, ou en personne dans l’une des agences de l’ADEM (Luxembourg, Esch-Belval ou Diekirch) après avoir pris rendez-vous au 247-88888."
@@ -53998,9 +53998,9 @@ const EPISODES = [
     "text": "Que recevez-vous une fois inscrit auprès de l’ADEM ?",
     "options": [
      "Un conseiller personnel, l’accès au JobBoard, des formations et un accompagnement",
-     "Rien tant que vous n’avez pas trouvé un emploi par vous-même",
-     "Un emploi garanti en une semaine",
-     "Une voiture gratuite"
+     "Rien tant que vous ne trouvez pas d'emploi vous-même ; l'ADEM garde seulement votre nom",
+     "Un emploi garanti en une semaine, choisi pour vous par l'ADEM",
+     "Une allocation mensuelle tout de suite, quelle que soit votre situation"
     ],
     "correct": 0,
     "explanation": "L’inscription ouvre l’accès aux services de l’ADEM : un conseiller référent personnel, l’accès au JobBoard des offres d’emploi, des formations et des mesures pour l’emploi, ainsi qu’une aide pratique comme le Club de l’emploi."
@@ -54008,9 +54008,9 @@ const EPISODES = [
    {
     "text": "Que devez-vous faire avant de pouvoir demander l’indemnité de chômage ?",
     "options": [
-     "Payer des frais d’inscription",
-     "Avoir déjà un nouvel emploi",
-     "Attendre deux ans",
+     "Payer des frais d'inscription à la commune",
+     "Avoir déjà signé un nouveau contrat de travail",
+     "Attendre deux ans après la perte de votre dernier emploi",
      "Vous inscrire d’abord comme demandeur d’emploi auprès de l’ADEM"
     ],
     "correct": 3,
@@ -54019,10 +54019,10 @@ const EPISODES = [
    {
     "text": "Que promet la Garantie Jeunesse aux jeunes ?",
     "options": [
-     "Une place gratuite à l’université",
+     "Une place gratuite à l'Université du Luxembourg pour chaque jeune qui s'inscrit à l'ADEM",
      "Une solution sur mesure pour entrer dans la vie active dans les quatre mois suivant l’inscription à l’ADEM",
-     "Un prix en argent",
-     "Un emploi garanti dans la fonction publique"
+     "Une prime de plusieurs milliers d'euros pour les jeunes qui trouvent un emploi par eux-mêmes, sans aide",
+     "Un emploi garanti à vie dans la fonction publique, après une courte formation"
     ],
     "correct": 1,
     "explanation": "La Garantie Jeunesse vise à offrir à chaque jeune de 15 à 30 ans une solution concrète – un emploi, une formation ou une autre étape – pour entrer dans la vie active dans les quatre mois suivant son inscription à l’ADEM."
@@ -54044,9 +54044,9 @@ const EPISODES = [
    {
     "text": "Was ist die ADEM?",
     "options": [
-     "Eine private Personalvermittlung, die man für die Jobsuche bezahlt",
-     "Eine Bank, die Gehälter auszahlt",
-     "Eine Gewerkschaft",
+     "Ein privates Personalvermittlungsunternehmen, das Sie jeden Monat bezahlen, damit es Ihnen einen Job findet",
+     "Eine Bank, die im Auftrag luxemburgischer Arbeitgeber die Gehälter auszahlt",
+     "Eine Gewerkschaft, die Arbeitnehmer in Konflikten mit ihrem Arbeitgeber verteidigt",
      "Der kostenlose, öffentliche Arbeitsvermittlungsdienst Luxemburgs, der Arbeitsuchende und Arbeitgeber unterstützt"
     ],
     "correct": 3,
@@ -54055,10 +54055,10 @@ const EPISODES = [
    {
     "text": "Wie können Sie sich bei der ADEM als Arbeitsuchender registrieren?",
     "options": [
-     "Nur per Post",
-     "Nur durch Erscheinen ohne Termin",
+     "Nur per Post, mit einem Papierformular und einer Kopie Ihres Vertrags",
+     "Nur indem Sie ohne Termin und ohne Anmeldung in einer beliebigen ADEM-Geschäftsstelle erscheinen",
      "Online über MyGuichet.lu mit einem sicheren Login, oder persönlich nach Terminvereinbarung",
-     "Über Ihre Bank"
+     "Über Ihre Bank, die Ihre Daten für Sie an die ADEM weiterleitet"
     ],
     "correct": 2,
     "explanation": "Sie können sich online auf MyGuichet.lu mit einem sicheren Login wie LuxTrust registrieren, oder persönlich in einer der ADEM-Agenturen (Luxemburg, Esch-Belval oder Diekirch) nach Terminvereinbarung unter 247-88888."
@@ -54067,9 +54067,9 @@ const EPISODES = [
     "text": "Was erhalten Sie, sobald Sie bei der ADEM registriert sind?",
     "options": [
      "Einen persönlichen Berater, Zugang zum JobBoard, Weiterbildungen und Unterstützung",
-     "Nichts, bis Sie selbst eine Stelle finden",
-     "Eine garantierte Stelle innerhalb einer Woche",
-     "Ein kostenloses Auto"
+     "Nichts, bis Sie selbst einen Job finden; die ADEM speichert nur Ihren Namen",
+     "Einen garantierten Job innerhalb einer Woche, den die ADEM für Sie aussucht",
+     "Sofort eine monatliche Zahlung, unabhängig von Ihrer Situation"
     ],
     "correct": 0,
     "explanation": "Die Registrierung öffnet den Zugang zu den Leistungen der ADEM: einen persönlichen Referenzberater, Zugang zum JobBoard mit Stellenangeboten, Weiterbildungen und Beschäftigungsmaßnahmen sowie praktische Hilfe wie den Beschäftigungsclub."
@@ -54077,9 +54077,9 @@ const EPISODES = [
    {
     "text": "Was müssen Sie tun, bevor Sie Arbeitslosengeld beantragen können?",
     "options": [
-     "Eine Anmeldegebühr zahlen",
-     "Bereits eine neue Stelle haben",
-     "Zwei Jahre warten",
+     "Eine Anmeldegebühr bei der Gemeinde zahlen",
+     "Bereits einen neuen Arbeitsvertrag unterschrieben haben",
+     "Nach dem Jobverlust zwei Jahre warten",
      "Sich zuerst bei der ADEM als Arbeitsuchender registrieren"
     ],
     "correct": 3,
@@ -54088,10 +54088,10 @@ const EPISODES = [
    {
     "text": "Was verspricht die Jugendgarantie jungen Menschen?",
     "options": [
-     "Einen kostenlosen Studienplatz",
+     "Einen kostenlosen Studienplatz an der Universität Luxemburg für jeden jungen Menschen, der sich bei der ADEM anmeldet",
      "Eine maßgeschneiderte Lösung für den Einstieg ins Berufsleben innerhalb von vier Monaten nach der Registrierung bei der ADEM",
-     "Einen Geldpreis",
-     "Eine garantierte Stelle im öffentlichen Dienst"
+     "Eine Geldprämie von mehreren tausend Euro für junge Menschen, die selbst einen Job finden",
+     "Eine garantierte Stelle auf Lebenszeit im öffentlichen Dienst, nach einer kurzen Schulung"
     ],
     "correct": 1,
     "explanation": "Die Jugendgarantie soll jedem jungen Menschen zwischen 15 und 30 Jahren eine konkrete Lösung bieten – eine Stelle, eine Weiterbildung oder einen anderen Schritt – um innerhalb von vier Monaten nach der Registrierung bei der ADEM ins Berufsleben einzusteigen."
@@ -56867,9 +56867,9 @@ const EPISODES = [
    {
     "text": "What is the Observatoire de l'Habitat?",
     "options": [
-     "A private real-estate agency that sells homes",
-     "A bank that gives out mortgages",
-     "A construction company",
+     "A private real-estate agency that buys, sells and rents out homes all over the country for its clients",
+     "A bank that gives out mortgages to first-time buyers at a reduced, State-guaranteed interest rate",
+     "A public construction company that builds affordable apartments for the Ministry of Housing",
      "Luxembourg's official body that collects, analyses and shares information about housing"
     ],
     "correct": 3,
@@ -56878,10 +56878,10 @@ const EPISODES = [
    {
     "text": "Where do the Observatoire's sale-price figures mainly come from?",
     "options": [
-     "Estimates from social media",
-     "Asking prices in shop windows",
+     "Estimates shared by buyers and sellers on social media groups",
+     "Asking prices shown in estate agents' shop windows and adverts",
      "Real, notarised property transactions (notarial deeds)",
-     "A yearly opinion survey"
+     "A yearly opinion survey of households about what they think homes are worth"
     ],
     "correct": 2,
     "explanation": "Sale prices come from notarial deeds — official records of completed sales — passed each month to the Observatoire by the Registration and Domains Administration and completed with Land Registry data. That makes them very reliable."
@@ -56889,10 +56889,10 @@ const EPISODES = [
    {
     "text": "Which research institute is a key partner of the Observatoire?",
     "options": [
-     "STATEC only",
+     "STATEC only, which sends its general price index to the Observatoire",
      "LISER, the Luxembourg Institute of Socio-Economic Research",
-     "The European Central Bank",
-     "A private consultancy"
+     "The European Central Bank, which studies house prices across the euro area",
+     "A private consultancy that is paid to write the Observatoire's reports"
     ],
     "correct": 1,
     "explanation": "LISER, the Luxembourg Institute of Socio-Economic Research, is a public research centre and a key partner that brings scientific methods to the Observatoire's analyses."
@@ -56901,9 +56901,9 @@ const EPISODES = [
     "text": "Why does the Observatoire publish detailed prices for apartments but not for individual houses?",
     "options": [
      "Because reliable surface-area data exists for apartments, but not in the same way for houses",
-     "Because houses are not sold in Luxembourg",
-     "Because houses are always cheaper",
-     "Because the law forbids it"
+     "Because individual houses are almost never sold in Luxembourg, so there are not enough sales to publish anything useful",
+     "Because houses are always cheaper than apartments, so buyers do not need detailed prices for them",
+     "Because a law forbids publishing the price of a house, in order to protect the privacy of the families who sell"
     ],
     "correct": 0,
     "explanation": "For apartments, good data on surface area allows a fair price per square metre to be calculated. That detailed information isn't available in the same way for houses, so rather than publish misleading figures, the Observatoire does not publish detailed house prices."
@@ -56912,9 +56912,9 @@ const EPISODES = [
     "text": "Where can the public explore the Observatoire's housing data by commune?",
     "options": [
      "On the national open-data platform, data.public.lu",
-     "Only by visiting the Ministry in person",
-     "Only in a paid printed report",
-     "On private property websites"
+     "Only by visiting the Ministry of Housing in person, by appointment",
+     "Only in a paid printed report sent out once a year",
+     "On private property websites that buy the data from the State"
     ],
     "correct": 0,
     "explanation": "The Observatoire's statistics, broken down by commune, are published openly on data.public.lu, and the website also offers a price simulator — so anyone can look up typical prices in their area."
@@ -56939,9 +56939,9 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que l'Observatoire de l'Habitat ?",
     "options": [
-     "Une agence immobilière privée qui vend des logements",
-     "Une banque qui accorde des prêts immobiliers",
-     "Une entreprise de construction",
+     "Une agence immobilière privée qui achète, vend et loue des logements dans tout le pays pour ses clients",
+     "Une banque qui accorde des prêts immobiliers aux primo-accédants à un taux réduit garanti par l'État",
+     "Une entreprise publique de construction qui bâtit des appartements abordables pour le ministère du Logement",
      "L'organisme officiel du Luxembourg qui collecte, analyse et diffuse l'information sur le logement"
     ],
     "correct": 3,
@@ -56950,10 +56950,10 @@ const EPISODES = [
    {
     "text": "D'où proviennent principalement les prix de vente de l'Observatoire ?",
     "options": [
-     "D'estimations issues des réseaux sociaux",
-     "Des prix affichés dans les vitrines",
+     "Des estimations partagées par des acheteurs et des vendeurs sur les réseaux sociaux",
+     "Les prix demandés affichés dans les vitrines et les annonces des agences",
      "De transactions immobilières réelles et notariées (actes notariés)",
-     "D'un sondage d'opinion annuel"
+     "Un sondage annuel auprès des ménages sur la valeur qu'ils attribuent aux logements"
     ],
     "correct": 2,
     "explanation": "Les prix de vente proviennent des actes notariés – des enregistrements officiels de ventes réalisées – transmis chaque mois à l'Observatoire par l'Administration de l'Enregistrement et des Domaines et complétés par les données du Cadastre. Cela les rend très fiables."
@@ -56961,10 +56961,10 @@ const EPISODES = [
    {
     "text": "Quel institut de recherche est un partenaire clé de l'Observatoire ?",
     "options": [
-     "Le STATEC uniquement",
+     "Uniquement le STATEC, qui transmet son indice général des prix à l'Observatoire",
      "Le LISER, le Luxembourg Institute of Socio-Economic Research",
-     "La Banque centrale européenne",
-     "Un cabinet de conseil privé"
+     "La Banque centrale européenne, qui étudie les prix immobiliers dans la zone euro",
+     "Un cabinet de conseil privé payé pour rédiger les rapports de l'Observatoire"
     ],
     "correct": 1,
     "explanation": "Le LISER, le Luxembourg Institute of Socio-Economic Research, est un centre de recherche public et un partenaire clé qui apporte des méthodes scientifiques aux analyses de l'Observatoire."
@@ -56973,9 +56973,9 @@ const EPISODES = [
     "text": "Pourquoi l'Observatoire publie-t-il des prix détaillés pour les appartements mais pas pour les maisons individuelles ?",
     "options": [
      "Parce qu'il existe des données fiables sur la surface des appartements, mais pas de la même manière pour les maisons",
-     "Parce qu'on ne vend pas de maisons au Luxembourg",
-     "Parce que les maisons sont toujours moins chères",
-     "Parce que la loi l'interdit"
+     "Parce que les maisons ne se vendent presque jamais au Luxembourg, donc il n'y a pas assez de ventes pour publier quelque chose d'utile",
+     "Parce que les maisons sont toujours moins chères que les appartements, donc les acheteurs n'ont pas besoin de prix détaillés",
+     "Parce qu'une loi interdit de publier le prix d'une maison, pour protéger la vie privée des familles qui vendent"
     ],
     "correct": 0,
     "explanation": "Pour les appartements, de bonnes données sur la surface permettent de calculer un prix au mètre carré juste. Cette information détaillée n'est pas disponible de la même façon pour les maisons ; plutôt que de publier des chiffres trompeurs, l'Observatoire ne diffuse pas de prix détaillés des maisons."
@@ -56984,9 +56984,9 @@ const EPISODES = [
     "text": "Où le public peut-il consulter les données de l'Observatoire par commune ?",
     "options": [
      "Sur la plateforme nationale de données ouvertes, data.public.lu",
-     "Uniquement en se rendant au Ministère en personne",
-     "Uniquement dans un rapport imprimé payant",
-     "Sur des sites immobiliers privés"
+     "Uniquement en se rendant au ministère du Logement, sur rendez-vous",
+     "Uniquement dans un rapport imprimé payant envoyé une fois par an",
+     "Sur des sites immobiliers privés qui achètent les données à l'État"
     ],
     "correct": 0,
     "explanation": "Les statistiques de l'Observatoire, ventilées par commune, sont publiées librement sur data.public.lu, et le site propose aussi un simulateur de prix – chacun peut donc consulter les prix typiques dans sa région."
@@ -57008,9 +57008,9 @@ const EPISODES = [
    {
     "text": "Was ist das Observatoire de l'Habitat?",
     "options": [
-     "Eine private Immobilienagentur, die Wohnungen verkauft",
-     "Eine Bank, die Hypotheken vergibt",
-     "Ein Bauunternehmen",
+     "Ein privates Immobilienbüro, das für seine Kunden im ganzen Land Wohnungen kauft, verkauft und vermietet",
+     "Eine Bank, die Erstkäufern Hypothekenkredite zu einem reduzierten, staatlich garantierten Zinssatz gibt",
+     "Ein öffentliches Bauunternehmen, das für das Wohnungsbauministerium bezahlbare Wohnungen baut",
      "Die offizielle Stelle Luxemburgs, die Informationen über das Wohnen sammelt, analysiert und verbreitet"
     ],
     "correct": 3,
@@ -57019,10 +57019,10 @@ const EPISODES = [
    {
     "text": "Woher stammen die Verkaufspreise des Observatoire hauptsächlich?",
     "options": [
-     "Aus Schätzungen aus den sozialen Medien",
-     "Aus Preisen in Schaufenstern",
+     "Schätzungen, die Käufer und Verkäufer in Gruppen in sozialen Medien teilen",
+     "Angebotspreise aus den Schaufenstern und Anzeigen von Maklern",
      "Aus echten, notariell beurkundeten Immobilientransaktionen (notarielle Urkunden)",
-     "Aus einer jährlichen Meinungsumfrage"
+     "Eine jährliche Umfrage unter Haushalten, was ihrer Meinung nach Wohnungen wert sind"
     ],
     "correct": 2,
     "explanation": "Die Verkaufspreise stammen aus notariellen Urkunden – offiziellen Aufzeichnungen abgeschlossener Verkäufe –, die der Observatoire jeden Monat von der Einregistrierungs- und Domänenverwaltung erhält und mit Daten des Katasters ergänzt. Das macht sie sehr verlässlich."
@@ -57030,10 +57030,10 @@ const EPISODES = [
    {
     "text": "Welches Forschungsinstitut ist ein wichtiger Partner des Observatoire?",
     "options": [
-     "Nur STATEC",
+     "Nur das STATEC, das seinen allgemeinen Preisindex an das Observatoire schickt",
      "Das LISER, das Luxembourg Institute of Socio-Economic Research",
-     "Die Europäische Zentralbank",
-     "Eine private Beratungsfirma"
+     "Die Europäische Zentralbank, die Immobilienpreise im ganzen Euroraum untersucht",
+     "Eine private Beratungsfirma, die für das Schreiben der Berichte bezahlt wird"
     ],
     "correct": 1,
     "explanation": "Das LISER, das Luxembourg Institute of Socio-Economic Research, ist ein öffentliches Forschungszentrum und ein wichtiger Partner, der wissenschaftliche Methoden in die Analysen des Observatoire einbringt."
@@ -57042,9 +57042,9 @@ const EPISODES = [
     "text": "Warum veröffentlicht das Observatoire detaillierte Preise für Wohnungen, aber nicht für einzelne Häuser?",
     "options": [
      "Weil für Wohnungen verlässliche Flächendaten vorliegen, für Häuser aber nicht auf dieselbe Weise",
-     "Weil in Luxemburg keine Häuser verkauft werden",
-     "Weil Häuser immer billiger sind",
-     "Weil das Gesetz es verbietet"
+     "Weil einzelne Häuser in Luxemburg fast nie verkauft werden, es also nicht genug Verkäufe für brauchbare Zahlen gibt",
+     "Weil Häuser immer günstiger sind als Wohnungen, sodass Käufer dafür keine genauen Preise brauchen",
+     "Weil ein Gesetz verbietet, den Preis eines Hauses zu veröffentlichen, um die Privatsphäre der verkaufenden Familien zu schützen"
     ],
     "correct": 0,
     "explanation": "Für Wohnungen ermöglichen gute Flächendaten die Berechnung eines fairen Preises pro Quadratmeter. Diese detaillierten Informationen liegen für Häuser nicht in gleicher Weise vor; statt irreführende Zahlen zu veröffentlichen, gibt das Observatoire keine detaillierten Hauspreise heraus."
@@ -57053,9 +57053,9 @@ const EPISODES = [
     "text": "Wo kann die Öffentlichkeit die Wohnungsdaten des Observatoire nach Gemeinde einsehen?",
     "options": [
      "Auf der nationalen Open-Data-Plattform data.public.lu",
-     "Nur durch einen persönlichen Besuch im Ministerium",
-     "Nur in einem kostenpflichtigen gedruckten Bericht",
-     "Auf privaten Immobilien-Websites"
+     "Nur bei einem persönlichen Besuch im Wohnungsbauministerium, mit Termin",
+     "Nur in einem kostenpflichtigen gedruckten Bericht, der einmal im Jahr erscheint",
+     "Auf privaten Immobilienportalen, die die Daten vom Staat kaufen"
     ],
     "correct": 0,
     "explanation": "Die Statistiken des Observatoire, aufgeschlüsselt nach Gemeinde, werden frei auf data.public.lu veröffentlicht, und die Website bietet auch einen Preissimulator – so kann jeder die typischen Preise in seiner Region nachschlagen."
@@ -59506,10 +59506,10 @@ const EPISODES = [
    {
     "text": "What is Klima-Agence?",
     "options": [
-     "A private company that sells solar panels",
-     "An electricity supplier",
+     "A private company that sells and installs solar panels and heat pumps for homes in Luxembourg",
+     "An electricity supplier that offers green-energy contracts to households and businesses",
      "Luxembourg's national agency for energy and climate, giving free, independent advice",
-     "A bank"
+     "A bank that gives low-interest green loans to people who want to renovate their home"
     ],
     "correct": 2,
     "explanation": "Klima-Agence is Luxembourg's national partner for energy and climate matters, supported by the government. It gives citizens free, independent advice on sustainable housing, energy and mobility. Until 2022 it was called myenergy."
@@ -59517,10 +59517,10 @@ const EPISODES = [
    {
     "text": "How much does Klima-Agence's advice to citizens cost?",
     "options": [
-     "A monthly subscription",
+     "A monthly subscription, depending on the size of your home",
      "It is free — the service is financed by Klima-Agence",
-     "A fee per appointment",
-     "Only the first appointment is free"
+     "A fee per appointment, paid directly to the adviser",
+     "Only the first appointment is free; after that you pay per visit"
     ],
     "correct": 1,
     "explanation": "The advice is free and independent. The service is financed by Klima-Agence, so advisors are not trying to sell you a product — they give neutral guidance in your interest."
@@ -59529,9 +59529,9 @@ const EPISODES = [
     "text": "Which of these can Klima-Agence advise you on?",
     "options": [
      "Insulation, sustainable building, renewable heating, solar power and eco-mobility",
-     "Only solar panels",
-     "Only electric cars",
-     "Only home loans"
+     "Only solar panels, because the agency was set up to promote solar energy on private roofs",
+     "Only electric cars and charging stations, including which model to buy for your family",
+     "Only home loans and mortgages for buying a new, energy-efficient house or apartment"
     ],
     "correct": 0,
     "explanation": "Klima-Agence advises on a wide range of projects: insulating your home, building sustainably, heating with renewable energy (such as heat pumps), generating solar electricity, switching to eco-mobility, and using less energy day to day."
@@ -59539,9 +59539,9 @@ const EPISODES = [
    {
     "text": "What is the Klimabonus?",
     "options": [
-     "A loyalty card for shops",
-     "A tax on cars",
-     "A type of insulation",
+     "A loyalty card that gives discounts in shops selling energy-saving light bulbs and household appliances",
+     "A new tax on petrol and diesel cars, used to finance public transport and cycle paths",
+     "A type of natural insulation material made in Luxembourg and recommended by the agency for old houses",
      "Luxembourg's national grant scheme for energy-efficient renovation, renewable heating, solar and electric mobility"
     ],
     "correct": 3,
@@ -59550,10 +59550,10 @@ const EPISODES = [
    {
     "text": "If you see an advert using the Klima-Agence name to sell you a product, what should you assume?",
     "options": [
-     "It is an official Klima-Agence offer",
+     "It is an official Klima-Agence offer, so you can sign the contract without checking anything else",
      "Be careful — Klima-Agence does not authorise companies to use its name to sell, so it may be misleading",
-     "It means the product is government-approved",
-     "You must buy from that company"
+     "It means the product has been tested and approved by the government, so the price is fixed by law",
+     "You must buy from that company, because only partners of Klima-Agence can install equipment that receives grants"
     ],
     "correct": 1,
     "explanation": "Klima-Agence never allows private companies to use its name or logo for commercial purposes. If you see such an advert, be cautious and contact Klima-Agence directly through the official phone number or website."
@@ -59579,10 +59579,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que la Klima-Agence ?",
     "options": [
-     "Une entreprise privée qui vend des panneaux solaires",
-     "Un fournisseur d'électricité",
+     "Une entreprise privée qui vend et installe des panneaux solaires et des pompes à chaleur pour les logements au Luxembourg",
+     "Un fournisseur d'électricité qui propose des contrats d'énergie verte aux ménages et aux entreprises",
      "L'agence nationale de l'énergie et du climat du Luxembourg, qui donne des conseils gratuits et indépendants",
-     "Une banque"
+     "Une banque qui accorde des prêts verts à taux réduit à ceux qui veulent rénover leur logement"
     ],
     "correct": 2,
     "explanation": "La Klima-Agence est le partenaire national du Luxembourg en matière d'énergie et de climat, soutenue par le gouvernement. Elle donne aux citoyens des conseils gratuits et indépendants sur le logement durable, l'énergie et la mobilité. Jusqu'en 2022, elle s'appelait myenergy."
@@ -59590,10 +59590,10 @@ const EPISODES = [
    {
     "text": "Combien coûtent les conseils de la Klima-Agence aux citoyens ?",
     "options": [
-     "Un abonnement mensuel",
+     "Un abonnement mensuel, selon la taille de votre logement",
      "Ils sont gratuits – le service est financé par la Klima-Agence",
-     "Des frais par rendez-vous",
-     "Seul le premier rendez-vous est gratuit"
+     "Des frais par rendez-vous, payés directement au conseiller",
+     "Seul le premier rendez-vous est gratuit ; ensuite on paie chaque visite"
     ],
     "correct": 1,
     "explanation": "Les conseils sont gratuits et indépendants. Le service est financé par la Klima-Agence ; les conseillers ne cherchent donc pas à vous vendre un produit, mais à vous donner des conseils neutres dans votre intérêt."
@@ -59602,9 +59602,9 @@ const EPISODES = [
     "text": "Sur lesquels de ces sujets la Klima-Agence peut-elle vous conseiller ?",
     "options": [
      "L'isolation, la construction durable, le chauffage renouvelable, le solaire et l'écomobilité",
-     "Uniquement les panneaux solaires",
-     "Uniquement les voitures électriques",
-     "Uniquement les prêts immobiliers"
+     "Uniquement les panneaux solaires, car l'agence a été créée pour promouvoir l'énergie solaire sur les toits privés",
+     "Uniquement les voitures électriques et les bornes de recharge, y compris le modèle à acheter pour votre famille",
+     "Uniquement les prêts immobiliers pour acheter une maison ou un appartement neuf et économe en énergie"
     ],
     "correct": 0,
     "explanation": "La Klima-Agence conseille sur un large éventail de projets : isoler son logement, construire durablement, se chauffer aux énergies renouvelables (comme les pompes à chaleur), produire de l'électricité solaire, passer à l'écomobilité et consommer moins d'énergie au quotidien."
@@ -59612,9 +59612,9 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que le Klimabonus ?",
     "options": [
-     "Une carte de fidélité pour les magasins",
-     "Une taxe sur les voitures",
-     "Un type d'isolation",
+     "Une carte de fidélité qui donne des réductions dans les magasins vendant des ampoules et des appareils économes",
+     "Une nouvelle taxe sur les voitures essence et diesel, dont les recettes financent les transports publics et les pistes cyclables",
+     "Un type d'isolant naturel fabriqué au Luxembourg et recommandé par l'agence pour les maisons anciennes",
      "Le régime national d'aides du Luxembourg pour la rénovation énergétique, le chauffage renouvelable, le solaire et la mobilité électrique"
     ],
     "correct": 3,
@@ -59623,10 +59623,10 @@ const EPISODES = [
    {
     "text": "Si vous voyez une publicité utilisant le nom de la Klima-Agence pour vous vendre un produit, que devez-vous supposer ?",
     "options": [
-     "Qu'il s'agit d'une offre officielle de la Klima-Agence",
+     "C'est une offre officielle de la Klima-Agence, donc vous pouvez signer le contrat sans rien vérifier d'autre",
      "Soyez prudent – la Klima-Agence n'autorise pas les entreprises à utiliser son nom pour vendre, c'est donc peut-être trompeur",
-     "Que le produit est approuvé par le gouvernement",
-     "Que vous devez acheter auprès de cette entreprise"
+     "Cela signifie que le produit a été testé et approuvé par l'État, donc son prix est fixé par la loi",
+     "Vous devez acheter chez cette entreprise, car seuls les partenaires de la Klima-Agence peuvent installer du matériel subventionné"
     ],
     "correct": 1,
     "explanation": "La Klima-Agence n'autorise jamais des entreprises privées à utiliser son nom ou son logo à des fins commerciales. Si vous voyez une telle publicité, soyez prudent et contactez directement la Klima-Agence via le numéro de téléphone ou le site officiels."
@@ -59648,10 +59648,10 @@ const EPISODES = [
    {
     "text": "Was ist die Klima-Agence?",
     "options": [
-     "Ein privates Unternehmen, das Solarmodule verkauft",
-     "Ein Stromanbieter",
+     "Ein privates Unternehmen, das Solaranlagen und Wärmepumpen für Wohnhäuser in Luxemburg verkauft und installiert",
+     "Ein Stromanbieter, der Haushalten und Unternehmen Ökostromverträge anbietet",
      "Die nationale Energie- und Klimaagentur Luxemburgs, die kostenlose, unabhängige Beratung bietet",
-     "Eine Bank"
+     "Eine Bank, die zinsgünstige grüne Kredite an Menschen vergibt, die ihr Haus renovieren möchten"
     ],
     "correct": 2,
     "explanation": "Die Klima-Agence ist der nationale Partner Luxemburgs in Energie- und Klimafragen, unterstützt von der Regierung. Sie bietet Bürgern kostenlose, unabhängige Beratung zu nachhaltigem Wohnen, Energie und Mobilität. Bis 2022 hieß sie myenergy."
@@ -59659,10 +59659,10 @@ const EPISODES = [
    {
     "text": "Wie viel kostet die Beratung der Klima-Agence für Bürger?",
     "options": [
-     "Ein monatliches Abonnement",
+     "Ein Monatsabo, abhängig von der Größe Ihrer Wohnung",
      "Sie ist kostenlos – der Dienst wird von der Klima-Agence finanziert",
-     "Eine Gebühr pro Termin",
-     "Nur der erste Termin ist kostenlos"
+     "Eine Gebühr pro Termin, die direkt an den Berater geht",
+     "Nur der erste Termin ist kostenlos; danach zahlt man jeden weiteren Besuch"
     ],
     "correct": 1,
     "explanation": "Die Beratung ist kostenlos und unabhängig. Der Dienst wird von der Klima-Agence finanziert; die Berater wollen Ihnen also kein Produkt verkaufen, sondern geben neutrale Ratschläge in Ihrem Interesse."
@@ -59671,9 +59671,9 @@ const EPISODES = [
     "text": "Wozu kann die Klima-Agence Sie beraten?",
     "options": [
      "Zu Dämmung, nachhaltigem Bauen, erneuerbarem Heizen, Solarstrom und Ökomobilität",
-     "Nur zu Solarmodulen",
-     "Nur zu Elektroautos",
-     "Nur zu Immobilienkrediten"
+     "Nur Solaranlagen, weil die Agentur gegründet wurde, um Solarenergie auf privaten Dächern zu fördern",
+     "Nur Elektroautos und Ladestationen, einschließlich der Frage, welches Modell Ihre Familie kaufen soll",
+     "Nur Immobilienkredite für den Kauf eines neuen, energieeffizienten Hauses oder einer Wohnung"
     ],
     "correct": 0,
     "explanation": "Die Klima-Agence berät zu einer breiten Palette von Projekten: das Eigenheim dämmen, nachhaltig bauen, mit erneuerbaren Energien heizen (z. B. Wärmepumpen), Solarstrom erzeugen, auf Ökomobilität umsteigen und im Alltag weniger Energie verbrauchen."
@@ -59681,9 +59681,9 @@ const EPISODES = [
    {
     "text": "Was ist der Klimabonus?",
     "options": [
-     "Eine Treuekarte für Geschäfte",
-     "Eine Steuer auf Autos",
-     "Eine Art Dämmung",
+     "Eine Kundenkarte mit Rabatten in Geschäften, die Energiesparlampen und besonders sparsame Haushaltsgeräte verkaufen",
+     "Eine neue Steuer auf Benzin- und Dieselautos, mit der öffentlicher Verkehr und Radwege finanziert werden",
+     "Ein in Luxemburg hergestellter natürlicher Dämmstoff, den die Agentur für alte Häuser empfiehlt",
      "Das nationale Förderprogramm Luxemburgs für energetische Sanierung, erneuerbares Heizen, Solar und Elektromobilität"
     ],
     "correct": 3,
@@ -59692,10 +59692,10 @@ const EPISODES = [
    {
     "text": "Wenn Sie eine Werbung sehen, die den Namen Klima-Agence verwendet, um Ihnen ein Produkt zu verkaufen, wovon sollten Sie ausgehen?",
     "options": [
-     "Dass es ein offizielles Angebot der Klima-Agence ist",
+     "Es ist ein offizielles Angebot der Klima-Agence, Sie können also den Vertrag direkt unterschreiben, ohne noch etwas zu prüfen",
      "Seien Sie vorsichtig – die Klima-Agence erlaubt Unternehmen nicht, ihren Namen zum Verkauf zu nutzen, es könnte also irreführend sein",
-     "Dass das Produkt von der Regierung genehmigt ist",
-     "Dass Sie bei diesem Unternehmen kaufen müssen"
+     "Es bedeutet, dass das Produkt vom Staat getestet und zugelassen ist und der Preis gesetzlich festgelegt ist",
+     "Sie müssen bei dieser Firma kaufen, weil nur Partner der Klima-Agence geförderte Anlagen einbauen dürfen"
     ],
     "correct": 1,
     "explanation": "Die Klima-Agence erlaubt es privaten Unternehmen niemals, ihren Namen oder ihr Logo für kommerzielle Zwecke zu nutzen. Wenn Sie eine solche Werbung sehen, seien Sie vorsichtig und kontaktieren Sie die Klima-Agence direkt über die offizielle Telefonnummer oder Website."
@@ -61907,9 +61907,9 @@ const EPISODES = [
     "text": "What does the SNJ do?",
     "options": [
      "It is Luxembourg's National Youth Service, supporting young people's development",
-     "Runs Luxembourg's universities",
-     "It sells youth insurance",
-     "It organises only sports competitions"
+     "It runs Luxembourg's universities and decides which young people can study there",
+     "It sells insurance for young people who travel or do sport abroad",
+     "It only organises national sports competitions and championships for schools"
     ],
     "correct": 0,
     "explanation": "The Service National de la Jeunesse (SNJ) is Luxembourg's public National Youth Service, created in 1964. Its motto is “Jonker staark maachen” — empowering youth. It helps young people develop and become responsible, active citizens."
@@ -61917,10 +61917,10 @@ const EPISODES = [
    {
     "text": "What kind of education is the SNJ's work based on?",
     "options": [
-     "Formal exams and grades",
+     "Formal exams and grades, following the national school curriculum",
      "Non-formal education — learning through activities and experiences",
-     "University degrees only",
-     "Distance learning only"
+     "University degrees only, in partnership with the University of Luxembourg",
+     "Distance learning only, with online courses and tests for young people"
     ],
     "correct": 1,
     "explanation": "The SNJ works through non-formal education: learning outside the classroom, through activities, projects and real experiences. Participation is voluntary."
@@ -61928,10 +61928,10 @@ const EPISODES = [
    {
     "text": "What is the voluntary service offered by the SNJ?",
     "options": [
-     "A paid full-time career",
-     "Compulsory military service",
+     "A paid full-time career in the civil service for young people who leave school without a diploma",
+     "A compulsory military service that every young resident must complete for twelve months",
      "A chance for a young person to commit to a project of general interest and gain experience",
-     "A school exam"
+     "A school exam that young people must pass before they are allowed to do any volunteering in Luxembourg"
     ],
     "correct": 2,
     "explanation": "The voluntary service lets a young person take part in a real project of general interest for a period of time. It is learning by doing — a stepping stone towards training, a job, or finding direction."
@@ -61939,9 +61939,9 @@ const EPISODES = [
    {
     "text": "Who can the SNJ help with the transition to working life?",
     "options": [
-     "Only university graduates",
-     "Only people over fifty",
-     "Only foreign students",
+     "Only university graduates looking for their first job in a large company",
+     "Only people over fifty who want to change career late in life",
+     "Only foreign students who come to Luxembourg for an exchange semester and need to find work",
      "Young people at risk of dropping out, early school leavers and inactive young people"
     ],
     "correct": 3,
@@ -61950,10 +61950,10 @@ const EPISODES = [
    {
     "text": "What is BEE SECURE?",
     "options": [
-     "A home alarm company",
-     "A banking app",
+     "A home alarm company that protects houses and flats against burglary",
+     "A banking app for teenagers, with secure payments and savings goals",
      "An SNJ initiative promoting safe, responsible use of the internet and technology",
-     "A type of insurance"
+     "A type of insurance that covers young people's phones and laptops if they are stolen or broken"
     ],
     "correct": 2,
     "explanation": "BEE SECURE promotes the safe and responsible use of the internet and new technologies, with practical advice for young people and parents to avoid online risks."
@@ -61980,9 +61980,9 @@ const EPISODES = [
     "text": "Que fait le SNJ ?",
     "options": [
      "C'est le Service national de la jeunesse du Luxembourg, qui soutient le développement des jeunes",
-     "Il gère les universités du Luxembourg",
-     "Il vend des assurances pour les jeunes",
-     "Il organise uniquement des compétitions sportives"
+     "Il gère les universités du Luxembourg et décide quels jeunes peuvent y étudier",
+     "Il vend des assurances aux jeunes qui voyagent ou font du sport à l'étranger",
+     "Il organise uniquement des compétitions et championnats sportifs nationaux pour les écoles du pays"
     ],
     "correct": 0,
     "explanation": "Le Service national de la jeunesse (SNJ) est le service public national de la jeunesse du Luxembourg, créé en 1964. Sa devise est « Jonker staark maachen » — donner les moyens d'agir aux jeunes. Il aide les jeunes à se développer et à devenir des citoyens responsables et actifs."
@@ -61990,10 +61990,10 @@ const EPISODES = [
    {
     "text": "Sur quel type d'éducation repose le travail du SNJ ?",
     "options": [
-     "Des examens formels et des notes",
+     "Des examens formels et des notes, selon le programme scolaire national",
      "L'éducation non formelle — apprendre par les activités et les expériences",
-     "Uniquement des diplômes universitaires",
-     "Uniquement l'enseignement à distance"
+     "Uniquement des diplômes universitaires, en partenariat avec l'Université du Luxembourg",
+     "Uniquement l'enseignement à distance, avec des cours et des tests en ligne"
     ],
     "correct": 1,
     "explanation": "Le SNJ travaille à travers l'éducation non formelle : apprendre en dehors de la salle de classe, par des activités, des projets et des expériences réelles. La participation est volontaire."
@@ -62001,10 +62001,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que le service volontaire proposé par le SNJ ?",
     "options": [
-     "Une carrière rémunérée à temps plein",
-     "Un service militaire obligatoire",
+     "Une carrière rémunérée à plein temps dans la fonction publique pour les jeunes qui quittent l'école sans diplôme",
+     "Un service militaire obligatoire que chaque jeune résident doit accomplir pendant douze mois",
      "Une occasion pour un jeune de s'engager dans un projet d'intérêt général et d'acquérir de l'expérience",
-     "Un examen scolaire"
+     "Un examen scolaire que les jeunes doivent réussir avant d'avoir le droit de faire du bénévolat au Luxembourg"
     ],
     "correct": 2,
     "explanation": "Le service volontaire permet à un jeune de participer à un véritable projet d'intérêt général pendant une certaine période. C'est apprendre en faisant — un tremplin vers une formation, un emploi ou une orientation."
@@ -62012,9 +62012,9 @@ const EPISODES = [
    {
     "text": "Qui le SNJ peut-il aider dans la transition vers la vie active ?",
     "options": [
-     "Uniquement les diplômés universitaires",
-     "Uniquement les personnes de plus de cinquante ans",
-     "Uniquement les étudiants étrangers",
+     "Seulement les diplômés de l'université qui cherchent leur premier emploi dans une grande entreprise",
+     "Seulement les personnes de plus de cinquante ans qui veulent changer de carrière sur le tard",
+     "Seulement les étudiants étrangers venus au Luxembourg pour un semestre d'échange et qui doivent trouver du travail",
      "Les jeunes en risque de décrochage, ceux qui ont quitté l'école tôt et les jeunes inactifs"
     ],
     "correct": 3,
@@ -62023,10 +62023,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que BEE SECURE ?",
     "options": [
-     "Une entreprise d'alarmes domestiques",
-     "Une application bancaire",
+     "Une entreprise d'alarmes qui protège les maisons et les appartements contre les cambriolages",
+     "Une application bancaire pour ados, avec paiements sécurisés et objectifs d'épargne",
      "Une initiative du SNJ qui promeut un usage sûr et responsable d'Internet et des technologies",
-     "Un type d'assurance"
+     "Un type d'assurance qui couvre les téléphones et ordinateurs des jeunes en cas de vol ou de casse"
     ],
     "correct": 2,
     "explanation": "BEE SECURE promeut un usage sûr et responsable d'Internet et des nouvelles technologies, avec des conseils pratiques pour les jeunes et les parents afin d'éviter les risques en ligne."
@@ -62049,9 +62049,9 @@ const EPISODES = [
     "text": "Was macht der SNJ?",
     "options": [
      "Er ist der Nationale Jugenddienst Luxemburgs und fördert die Entwicklung junger Menschen",
-     "Er betreibt Luxemburgs Universitäten",
-     "Er verkauft Jugendversicherungen",
-     "Er organisiert ausschließlich Sportwettkämpfe"
+     "Er leitet die Universitäten Luxemburgs und entscheidet, welche jungen Menschen dort studieren dürfen",
+     "Er verkauft Versicherungen für junge Menschen, die im Ausland reisen oder Sport treiben",
+     "Er organisiert nur nationale Sportwettkämpfe und Meisterschaften für Schulen"
     ],
     "correct": 0,
     "explanation": "Der Service National de la Jeunesse (SNJ) ist der öffentliche Nationale Jugenddienst Luxemburgs, der 1964 gegründet wurde. Sein Leitspruch lautet „Jonker staark maachen“ – junge Menschen stärken. Er hilft jungen Menschen, sich zu entwickeln und zu verantwortungsbewussten, aktiven Bürgerinnen und Bürgern zu werden."
@@ -62059,10 +62059,10 @@ const EPISODES = [
    {
     "text": "Auf welcher Art von Bildung beruht die Arbeit des SNJ?",
     "options": [
-     "Auf formalen Prüfungen und Noten",
+     "Formale Prüfungen und Noten nach dem nationalen Lehrplan",
      "Auf non-formaler Bildung – Lernen durch Aktivitäten und Erfahrungen",
-     "Ausschließlich auf Hochschulabschlüssen",
-     "Ausschließlich auf Fernunterricht"
+     "Nur Hochschulabschlüsse, in Partnerschaft mit der Universität Luxemburg",
+     "Nur Fernunterricht, mit Online-Kursen und Tests für junge Menschen"
     ],
     "correct": 1,
     "explanation": "Der SNJ arbeitet mit non-formaler Bildung: Lernen außerhalb des Klassenzimmers, durch Aktivitäten, Projekte und reale Erfahrungen. Die Teilnahme ist freiwillig."
@@ -62070,10 +62070,10 @@ const EPISODES = [
    {
     "text": "Was ist der Freiwilligendienst, den der SNJ anbietet?",
     "options": [
-     "Eine bezahlte Vollzeitkarriere",
-     "Ein verpflichtender Militärdienst",
+     "Eine bezahlte Vollzeitlaufbahn im öffentlichen Dienst für junge Menschen, die die Schule ohne Abschluss verlassen",
+     "Ein verpflichtender Wehrdienst, den jeder junge Einwohner zwölf Monate lang leisten muss",
      "Eine Gelegenheit für junge Menschen, sich für ein Projekt von allgemeinem Interesse zu engagieren und Erfahrung zu sammeln",
-     "Eine Schulprüfung"
+     "Eine Schulprüfung, die junge Menschen bestehen müssen, bevor sie in Luxemburg irgendeinen Freiwilligendienst leisten dürfen"
     ],
     "correct": 2,
     "explanation": "Der Freiwilligendienst ermöglicht es jungen Menschen, sich für eine bestimmte Zeit an einem echten Projekt von allgemeinem Interesse zu beteiligen. Es ist Lernen durch Handeln – ein Sprungbrett zu einer Ausbildung, einer Arbeit oder einer beruflichen Orientierung."
@@ -62081,9 +62081,9 @@ const EPISODES = [
    {
     "text": "Wem kann der SNJ beim Übergang ins Berufsleben helfen?",
     "options": [
-     "Nur Hochschulabsolventinnen und -absolventen",
-     "Nur Personen über fünfzig",
-     "Nur ausländischen Studierenden",
+     "Nur Hochschulabsolventen, die ihren ersten Job in einem großen Unternehmen suchen",
+     "Nur Menschen über fünfzig, die spät im Leben den Beruf wechseln wollen",
+     "Nur ausländische Studierende, die für ein Austauschsemester nach Luxemburg kommen und hier Arbeit finden müssen",
      "Jungen Menschen, die von Schulabbruch bedroht sind, Schulabbrechern und nicht erwerbstätigen jungen Menschen"
     ],
     "correct": 3,
@@ -62092,10 +62092,10 @@ const EPISODES = [
    {
     "text": "Was ist BEE SECURE?",
     "options": [
-     "Eine Firma für Hausalarmanlagen",
-     "Eine Banking-App",
+     "Eine Alarmanlagenfirma, die Häuser und Wohnungen vor Einbruch schützt",
+     "Eine Banking-App für Jugendliche, mit sicheren Zahlungen und Sparzielen",
      "Eine Initiative des SNJ zur Förderung eines sicheren und verantwortungsvollen Umgangs mit Internet und Technik",
-     "Eine Art Versicherung"
+     "Eine Versicherung, die Handys, Tablets und Laptops junger Menschen bei Diebstahl oder Schaden abdeckt"
     ],
     "correct": 2,
     "explanation": "BEE SECURE fördert den sicheren und verantwortungsvollen Umgang mit dem Internet und den neuen Technologien und gibt jungen Menschen und Eltern praktische Ratschläge, um Online-Risiken zu vermeiden."
@@ -64031,10 +64031,10 @@ const EPISODES = [
    {
     "text": "What is the main aim of the Office National de l'Enfance?",
     "options": [
-     "To collect taxes from families",
-     "To run schools",
+     "To collect taxes from families and decide how much each household pays for childcare",
+     "To run the country's primary schools and hire their teachers",
      "To protect children's wellbeing and support children, young people and families",
-     "To organise holidays"
+     "To organise holidays and summer camps for children whose parents work"
     ],
     "correct": 2,
     "explanation": "The ONE's purpose is to protect the wellbeing of the child and to support children, young people and families going through difficult times, working voluntarily and collaboratively with them."
@@ -64043,9 +64043,9 @@ const EPISODES = [
     "text": "How does the ONE work with families?",
     "options": [
      "It works with families voluntarily, step by step, with respect",
-     "It takes decisions without the family",
-     "It only sends letters",
-     "It charges high fees"
+     "It takes decisions without the family and informs the parents afterwards by letter",
+     "It only sends letters with general advice and never meets the family",
+     "It charges high fees for each meeting, depending on the family's income"
     ],
     "correct": 0,
     "explanation": "The ONE aims for voluntary collaboration. Its professionals build help measures together with the family, around the family's real needs, and keep evaluating what works."
@@ -64053,9 +64053,9 @@ const EPISODES = [
    {
     "text": "How many regional offices does the ONE have across Luxembourg?",
     "options": [
-     "One, in the capital only",
-     "None — it is only online",
-     "Fifty",
+     "One single office, in the capital only, for the whole country",
+     "None — it only works online, through its website and by email",
+     "Fifty offices, one in almost every larger commune in the country",
      "Fourteen regional childhood offices across the country"
     ],
     "correct": 3,
@@ -64064,10 +64064,10 @@ const EPISODES = [
    {
     "text": "Which professionals work at the ONE to support families?",
     "options": [
-     "Only lawyers",
+     "Only lawyers and judges from the family court",
      "Psychologists, social workers and trained educators",
-     "Only doctors",
-     "Only police officers"
+     "Only doctors and nurses from the children's hospital",
+     "Only police officers trained in child protection"
     ],
     "correct": 1,
     "explanation": "The ONE's teams include psychologists, social workers and trained educators. They meet families, visit homes, set up help measures with the family, and coordinate with other services."
@@ -64075,9 +64075,9 @@ const EPISODES = [
    {
     "text": "How can a family start asking the ONE for help?",
     "options": [
-     "Only through a court",
-     "By paying a registration fee",
-     "It is not possible to ask directly",
+     "Only through a court decision, after a judge has examined the family's situation",
+     "By paying a registration fee at the commune and waiting for an appointment letter",
+     "It is not possible to ask directly; only schools can contact the ONE about a child",
      "Using the request-for-help form on the ONE's website, or via a professional"
     ],
     "correct": 3,
@@ -64104,10 +64104,10 @@ const EPISODES = [
    {
     "text": "Quel est l'objectif principal de l'Office National de l'Enfance ?",
     "options": [
-     "Percevoir des impôts auprès des familles",
-     "Gérer des écoles",
+     "Percevoir des impôts auprès des familles et fixer ce que chaque ménage paie pour la garde des enfants",
+     "Gérer les écoles fondamentales du pays et recruter leurs enseignants",
      "Protéger le bien-être des enfants et soutenir les enfants, les jeunes et les familles",
-     "Organiser des vacances"
+     "Organiser des vacances et des camps d'été pour les enfants dont les parents travaillent"
     ],
     "correct": 2,
     "explanation": "L'objectif de l'ONE est de protéger le bien-être de l'enfant et de soutenir les enfants, les jeunes et les familles qui traversent des moments difficiles, en travaillant avec eux de manière volontaire et collaborative."
@@ -64116,9 +64116,9 @@ const EPISODES = [
     "text": "Comment l'ONE travaille-t-il avec les familles ?",
     "options": [
      "Il travaille avec les familles de manière volontaire, étape par étape, dans le respect",
-     "Il prend des décisions sans la famille",
-     "Il envoie uniquement des lettres",
-     "Il facture des frais élevés"
+     "Il prend des décisions sans la famille et informe ensuite les parents par courrier",
+     "Il envoie seulement des lettres avec des conseils généraux et ne rencontre jamais la famille",
+     "Il fait payer des frais élevés pour chaque rendez-vous, selon les revenus de la famille"
     ],
     "correct": 0,
     "explanation": "L'ONE vise une collaboration volontaire. Ses professionnels construisent les mesures d'aide avec la famille, autour de ses besoins réels, et évaluent continuellement ce qui fonctionne."
@@ -64126,9 +64126,9 @@ const EPISODES = [
    {
     "text": "Combien de bureaux régionaux l'ONE possède-t-il à travers le Luxembourg ?",
     "options": [
-     "Un seul, dans la capitale",
-     "Aucun — il est uniquement en ligne",
-     "Cinquante",
+     "Un seul bureau, uniquement dans la capitale, pour tout le pays",
+     "Aucun — il fonctionne uniquement en ligne, par son site et par e-mail",
+     "Cinquante bureaux, un dans presque chaque grande commune du pays",
      "Quatorze bureaux régionaux de l'enfance à travers le pays"
     ],
     "correct": 3,
@@ -64137,10 +64137,10 @@ const EPISODES = [
    {
     "text": "Quels professionnels travaillent à l'ONE pour soutenir les familles ?",
     "options": [
-     "Uniquement des avocats",
+     "Seulement des avocats et des juges du tribunal de la famille",
      "Des psychologues, des travailleurs sociaux et des éducateurs formés",
-     "Uniquement des médecins",
-     "Uniquement des policiers"
+     "Seulement des médecins et des infirmiers de l'hôpital pour enfants",
+     "Seulement des policiers formés à la protection de l'enfance"
     ],
     "correct": 1,
     "explanation": "Les équipes de l'ONE comprennent des psychologues, des travailleurs sociaux et des éducateurs formés. Ils rencontrent les familles, visitent les domiciles, mettent en place des mesures d'aide avec la famille et se coordonnent avec d'autres services."
@@ -64148,9 +64148,9 @@ const EPISODES = [
    {
     "text": "Comment une famille peut-elle commencer à demander de l'aide à l'ONE ?",
     "options": [
-     "Uniquement par l'intermédiaire d'un tribunal",
-     "En payant des frais d'inscription",
-     "Il n'est pas possible de demander directement",
+     "Uniquement par une décision de justice, après qu'un juge a examiné la situation de la famille",
+     "En payant des frais d'inscription à la commune et en attendant une lettre de rendez-vous",
+     "Il n'est pas possible de demander directement ; seules les écoles peuvent contacter l'ONE au sujet d'un enfant",
      "En utilisant le formulaire de demande d'aide sur le site de l'ONE, ou via un professionnel"
     ],
     "correct": 3,
@@ -64173,10 +64173,10 @@ const EPISODES = [
    {
     "text": "Was ist das Hauptziel des Office National de l'Enfance?",
     "options": [
-     "Steuern von Familien einzutreiben",
-     "Schulen zu betreiben",
+     "Steuern von Familien einziehen und festlegen, wie viel jeder Haushalt für die Kinderbetreuung zahlt",
+     "Die Grundschulen des Landes leiten und ihre Lehrkräfte einstellen",
      "Das Wohl der Kinder zu schützen und Kinder, Jugendliche und Familien zu unterstützen",
-     "Ferien zu organisieren"
+     "Ferien und Sommerlager für Kinder organisieren, deren Eltern arbeiten"
     ],
     "correct": 2,
     "explanation": "Das Ziel des ONE ist es, das Wohl des Kindes zu schützen und Kinder, Jugendliche und Familien in schwierigen Zeiten zu unterstützen, indem es freiwillig und partnerschaftlich mit ihnen zusammenarbeitet."
@@ -64185,9 +64185,9 @@ const EPISODES = [
     "text": "Wie arbeitet das ONE mit Familien zusammen?",
     "options": [
      "Es arbeitet freiwillig, Schritt für Schritt und respektvoll mit den Familien zusammen",
-     "Es trifft Entscheidungen ohne die Familie",
-     "Es verschickt nur Briefe",
-     "Es verlangt hohe Gebühren"
+     "Es entscheidet ohne die Familie und informiert die Eltern danach per Brief",
+     "Es verschickt nur Briefe mit allgemeinen Ratschlägen und trifft die Familie nie persönlich",
+     "Es verlangt für jedes Treffen hohe Gebühren, abhängig vom Einkommen der Familie"
     ],
     "correct": 0,
     "explanation": "Das ONE strebt eine freiwillige Zusammenarbeit an. Seine Fachkräfte erarbeiten Hilfsmaßnahmen gemeinsam mit der Familie, ausgerichtet an deren tatsächlichen Bedürfnissen, und überprüfen fortlaufend, was funktioniert."
@@ -64195,9 +64195,9 @@ const EPISODES = [
    {
     "text": "Wie viele Regionalstellen hat das ONE in Luxemburg?",
     "options": [
-     "Eine, nur in der Hauptstadt",
-     "Keine – es ist nur online",
-     "Fünfzig",
+     "Ein einziges Büro, nur in der Hauptstadt, für das ganze Land",
+     "Keins — es arbeitet nur online, über seine Website und per E-Mail",
+     "Fünfzig Büros, eines in fast jeder größeren Gemeinde des Landes",
      "Vierzehn regionale Kindheitsstellen im ganzen Land"
     ],
     "correct": 3,
@@ -64206,10 +64206,10 @@ const EPISODES = [
    {
     "text": "Welche Fachkräfte arbeiten beim ONE, um Familien zu unterstützen?",
     "options": [
-     "Nur Juristen",
+     "Nur Anwälte und Richter des Familiengerichts",
      "Psychologen, Sozialarbeiter und ausgebildete Erzieher",
-     "Nur Ärzte",
-     "Nur Polizeibeamte"
+     "Nur Ärzte und Pflegekräfte der Kinderklinik",
+     "Nur Polizisten mit einer Ausbildung im Kinderschutz"
     ],
     "correct": 1,
     "explanation": "Die Teams des ONE umfassen Psychologen, Sozialarbeiter und ausgebildete Erzieher. Sie treffen sich mit Familien, machen Hausbesuche, richten gemeinsam mit der Familie Hilfsmaßnahmen ein und stimmen sich mit anderen Diensten ab."
@@ -64217,9 +64217,9 @@ const EPISODES = [
    {
     "text": "Wie kann eine Familie damit beginnen, das ONE um Hilfe zu bitten?",
     "options": [
-     "Nur über ein Gericht",
-     "Durch Zahlung einer Anmeldegebühr",
-     "Es ist nicht möglich, direkt um Hilfe zu bitten",
+     "Nur über eine Gerichtsentscheidung, nachdem ein Richter die Lage der Familie geprüft hat",
+     "Indem man bei der Gemeinde eine Anmeldegebühr zahlt und auf einen Terminbrief wartet",
+     "Man kann nicht direkt fragen; nur Schulen dürfen das ONE wegen eines Kindes kontaktieren",
      "Über das Hilfeantragsformular auf der Website des ONE oder über eine Fachkraft"
     ],
     "correct": 3,
@@ -66037,9 +66037,9 @@ const EPISODES = [
     "text": "What is CePAS?",
     "options": [
      "A psycho-social and school support centre for young people",
-     "A private tutoring company",
-     "A sports club",
-     "A university"
+     "A private tutoring company that helps pupils prepare for their exams",
+     "A sports club for teenagers, with free training after school",
+     "A university centre that trains future teachers and psychologists"
     ],
     "correct": 0,
     "explanation": "CePAS, the Centre psycho-social et d'accompagnement scolaires, supports the personal, relational and academic development and wellbeing of young people at school. It was founded in 1965 and marked sixty years in 2025."
@@ -66047,10 +66047,10 @@ const EPISODES = [
    {
     "text": "Who can use CePAS's consultation centre?",
     "options": [
-     "Only university professors",
+     "Only university professors and researchers who work with students",
      "Adolescents and young adults aged about 12 to 30, and their families",
-     "Only children under five",
-     "Only teachers"
+     "Only children under five and their parents, before they start school",
+     "Only teachers who need advice about a difficult class or pupil at their school"
     ],
     "correct": 1,
     "explanation": "The consultation centre is for adolescents and young adults aged roughly 12 to 30, and their parents and families, offering psychological and therapeutic support for school, personal or relationship problems."
@@ -66058,9 +66058,9 @@ const EPISODES = [
    {
     "text": "Where can a young person get quick support, often without an appointment?",
     "options": [
-     "Only at a hospital",
-     "Only abroad",
-     "Only by post",
+     "Only at a hospital emergency department, by night",
+     "Only abroad, in specialised clinics in neighbouring countries",
+     "Only by post, by sending a letter to CePAS and waiting for a reply",
      "At the psycho-social service present in every secondary school"
     ],
     "correct": 3,
@@ -66069,10 +66069,10 @@ const EPISODES = [
    {
     "text": "What changed at CePAS in early 2026?",
     "options": [
-     "It closed",
-     "It started charging high fees",
+     "It closed its consultation centre and moved all help online",
+     "It started charging high fees for every consultation",
      "Consultations became available in English as well",
-     "It moved abroad"
+     "It moved its main office abroad, to the Greater Region"
     ],
     "correct": 2,
     "explanation": "Since early 2026, consultations at CePAS's centre for young people and families are also available in English, opening the service to many more families in Luxembourg's international community."
@@ -66081,9 +66081,9 @@ const EPISODES = [
     "text": "How does CePAS work with the rest of the support system?",
     "options": [
      "Together with parents, schools and services like the Office National de l'Enfance",
-     "Completely alone, separate from everyone",
-     "Only with the police",
-     "Only with private companies"
+     "Completely alone, without sharing anything with parents, schools or other services",
+     "Only with the police, who send it the young people it must follow up",
+     "Only with private companies that pay for coaching sessions for their apprentices"
     ],
     "correct": 0,
     "explanation": "CePAS works hand in hand with parents, teachers and schools, and is one of the partners the Office National de l'Enfance can call on for psychological support — so help can be coordinated around the young person."
@@ -66110,9 +66110,9 @@ const EPISODES = [
     "text": "Qu'est-ce que le CePAS ?",
     "options": [
      "Un centre psycho-social et d'accompagnement scolaires pour les jeunes",
-     "Une entreprise privée de cours particuliers",
-     "Un club de sport",
-     "Une université"
+     "Une entreprise privée de soutien scolaire qui prépare les élèves aux examens",
+     "Un club de sport pour ados, avec des entraînements gratuits après l'école",
+     "Un centre universitaire qui forme les futurs enseignants et psychologues"
     ],
     "correct": 0,
     "explanation": "Le CePAS, le Centre psycho-social et d'accompagnement scolaires, soutient le développement et le bien-être personnel, relationnel et scolaire des jeunes à l'école. Il a été fondé en 1965 et a célébré ses soixante ans en 2025."
@@ -66120,10 +66120,10 @@ const EPISODES = [
    {
     "text": "Qui peut s'adresser au centre de consultation du CePAS ?",
     "options": [
-     "Uniquement les professeurs d'université",
+     "Seulement les professeurs d'université et les chercheurs qui travaillent avec des étudiants",
      "Les adolescents et les jeunes adultes d'environ 12 à 30 ans, et leurs familles",
-     "Uniquement les enfants de moins de cinq ans",
-     "Uniquement les enseignants"
+     "Seulement les enfants de moins de cinq ans et leurs parents, avant l'école",
+     "Seulement les enseignants qui ont besoin de conseils pour une classe ou un élève difficile"
     ],
     "correct": 1,
     "explanation": "Le centre de consultation s'adresse aux adolescents et jeunes adultes d'environ 12 à 30 ans, ainsi qu'à leurs parents et familles, offrant un soutien psychologique et thérapeutique pour des problèmes scolaires, personnels ou relationnels."
@@ -66131,9 +66131,9 @@ const EPISODES = [
    {
     "text": "Où un jeune peut-il obtenir un soutien rapide, souvent sans rendez-vous ?",
     "options": [
-     "Uniquement à l'hôpital",
-     "Uniquement à l'étranger",
-     "Uniquement par courrier",
+     "Uniquement aux urgences d'un hôpital, la nuit",
+     "Uniquement à l'étranger, dans des cliniques spécialisées des pays voisins",
+     "Uniquement par courrier, en écrivant au CePAS et en attendant une réponse",
      "Auprès du service psycho-social présent dans chaque lycée"
     ],
     "correct": 3,
@@ -66142,10 +66142,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce qui a changé au CePAS début 2026 ?",
     "options": [
-     "Il a fermé",
-     "Il a commencé à facturer des frais élevés",
+     "Il a fermé son centre de consultation et tout transféré en ligne",
+     "Il a commencé à faire payer cher chaque consultation",
      "Les consultations sont également devenues disponibles en anglais",
-     "Il a déménagé à l'étranger"
+     "Il a déménagé son siège à l'étranger, dans la Grande Région"
     ],
     "correct": 2,
     "explanation": "Depuis début 2026, les consultations au centre du CePAS pour les jeunes et les familles sont également disponibles en anglais, ouvrant le service à de nombreuses autres familles de la communauté internationale du Luxembourg."
@@ -66154,9 +66154,9 @@ const EPISODES = [
     "text": "Comment le CePAS travaille-t-il avec le reste du système de soutien ?",
     "options": [
      "Avec les parents, les écoles et des services comme l'Office National de l'Enfance",
-     "Complètement seul, séparé de tous",
-     "Uniquement avec la police",
-     "Uniquement avec des entreprises privées"
+     "Complètement seul, sans rien partager avec les parents, les écoles ou d'autres services",
+     "Seulement avec la police, qui lui envoie les jeunes qu'il doit suivre",
+     "Seulement avec des entreprises privées qui paient des séances de coaching pour leurs apprentis"
     ],
     "correct": 0,
     "explanation": "Le CePAS travaille main dans la main avec les parents, les enseignants et les écoles, et fait partie des partenaires auxquels l'Office National de l'Enfance peut faire appel pour un soutien psychologique — afin que l'aide puisse être coordonnée autour du jeune."
@@ -66179,9 +66179,9 @@ const EPISODES = [
     "text": "Was ist CePAS?",
     "options": [
      "Ein psycho-soziales und schulisches Begleitzentrum für junge Menschen",
-     "Ein privates Nachhilfeunternehmen",
-     "Ein Sportverein",
-     "Eine Universität"
+     "Eine private Nachhilfefirma, die Schüler auf ihre Prüfungen vorbereitet",
+     "Ein Sportverein für Jugendliche, mit kostenlosem Training nach der Schule",
+     "Ein Universitätszentrum, das künftige Lehrkräfte und Psychologen ausbildet"
     ],
     "correct": 0,
     "explanation": "CePAS, das Centre psycho-social et d'accompagnement scolaires, fördert die persönliche, beziehungsbezogene und schulische Entwicklung und das Wohlbefinden junger Menschen in der Schule. Es wurde 1965 gegründet und feierte 2025 sein sechzigjähriges Bestehen."
@@ -66189,10 +66189,10 @@ const EPISODES = [
    {
     "text": "Wer kann das Beratungszentrum von CePAS nutzen?",
     "options": [
-     "Nur Hochschulprofessoren",
+     "Nur Universitätsprofessoren und Forschende, die mit Studierenden arbeiten",
      "Jugendliche und junge Erwachsene im Alter von etwa 12 bis 30 Jahren sowie ihre Familien",
-     "Nur Kinder unter fünf Jahren",
-     "Nur Lehrkräfte"
+     "Nur Kinder unter fünf und ihre Eltern, bevor die Schule beginnt",
+     "Nur Lehrkräfte, die Rat zu einer schwierigen Klasse oder einem bestimmten Schüler brauchen"
     ],
     "correct": 1,
     "explanation": "Das Beratungszentrum richtet sich an Jugendliche und junge Erwachsene im Alter von etwa 12 bis 30 Jahren sowie an ihre Eltern und Familien und bietet psychologische und therapeutische Unterstützung bei schulischen, persönlichen oder Beziehungsproblemen."
@@ -66200,9 +66200,9 @@ const EPISODES = [
    {
     "text": "Wo kann ein junger Mensch schnelle Unterstützung erhalten, oft ohne Termin?",
     "options": [
-     "Nur in einem Krankenhaus",
-     "Nur im Ausland",
-     "Nur per Post",
+     "Nur in der Notaufnahme eines Krankenhauses, nachts",
+     "Nur im Ausland, in Fachkliniken der Nachbarländer",
+     "Nur per Post, indem man dem CePAS einen Brief schreibt und auf Antwort wartet",
      "Beim psycho-sozialen Dienst, der in jeder Sekundarschule vorhanden ist"
     ],
     "correct": 3,
@@ -66211,10 +66211,10 @@ const EPISODES = [
    {
     "text": "Was hat sich Anfang 2026 bei CePAS geändert?",
     "options": [
-     "Es wurde geschlossen",
-     "Es begann, hohe Gebühren zu verlangen",
+     "Es hat seine Beratungsstelle geschlossen und alles online verlegt",
+     "Es verlangt seitdem hohe Gebühren für jede Beratung",
      "Beratungen sind nun auch auf Englisch verfügbar",
-     "Es zog ins Ausland um"
+     "Es hat seinen Sitz ins Ausland, in die Großregion, verlegt"
     ],
     "correct": 2,
     "explanation": "Seit Anfang 2026 sind die Beratungen im Zentrum von CePAS für junge Menschen und Familien auch auf Englisch verfügbar, wodurch der Dienst vielen weiteren Familien in der internationalen Gemeinschaft Luxemburgs offensteht."
@@ -66223,9 +66223,9 @@ const EPISODES = [
     "text": "Wie arbeitet CePAS mit dem übrigen Unterstützungssystem zusammen?",
     "options": [
      "Gemeinsam mit Eltern, Schulen und Diensten wie dem Office National de l'Enfance",
-     "Völlig allein, getrennt von allen anderen",
-     "Nur mit der Polizei",
-     "Nur mit privaten Unternehmen"
+     "Völlig allein, ohne sich mit Eltern, Schulen oder anderen Diensten abzustimmen",
+     "Nur mit der Polizei, die ihm die Jugendlichen schickt, die es betreuen muss",
+     "Nur mit privaten Firmen, die Coaching-Sitzungen für ihre Auszubildenden bezahlen"
     ],
     "correct": 0,
     "explanation": "CePAS arbeitet Hand in Hand mit Eltern, Lehrkräften und Schulen und ist einer der Partner, auf den das Office National de l'Enfance für psychologische Unterstützung zurückgreifen kann – damit Hilfe rund um den jungen Menschen koordiniert werden kann."
@@ -67917,9 +67917,9 @@ const EPISODES = [
     "text": "What is the idea behind the EU's cohesion policy?",
     "options": [
      "To invest in regions and people so they can develop fairly across Europe",
-     "To collect money from member countries",
-     "To replace national governments",
-     "To fund only large companies"
+     "To collect money from the member countries and keep it in a central reserve in Brussels",
+     "To replace national governments with European ones in the poorest regions",
+     "To fund only large international companies so that they stay in Europe"
     ],
     "correct": 0,
     "explanation": "The EU's cohesion policy invests in regions and people to help them develop fairly across Europe. Each member country, including Luxembourg, receives a share to spend on agreed goals."
@@ -67927,10 +67927,10 @@ const EPISODES = [
    {
     "text": "What does the European Social Fund Plus (FSE+) mainly support?",
     "options": [
-     "Building motorways",
-     "Military equipment",
+     "Building motorways and bridges between member countries",
+     "Military equipment and the defence of the EU's borders",
      "People — jobs, skills, training and social inclusion",
-     "Space exploration"
+     "Space exploration and satellite programmes across Europe"
     ],
     "correct": 2,
     "explanation": "The European Social Fund Plus (FSE+) is about people: employment, skills and training, and including people who are left behind, helping to fight poverty and exclusion."
@@ -67938,10 +67938,10 @@ const EPISODES = [
    {
     "text": "What is a “managing authority”?",
     "options": [
-     "A private bank",
+     "A private bank that lends the EU money to projects at a profit",
      "The official body responsible for running a fund's programme properly",
-     "A European court",
-     "A political party"
+     "A European court that decides disputes about how funds were spent",
+     "A political party that chooses which projects should win funding"
     ],
     "correct": 1,
     "explanation": "For each fund there is a managing authority — the official body that selects projects, manages the money carefully and checks results, guided by the principle of sound financial management."
@@ -67949,10 +67949,10 @@ const EPISODES = [
    {
     "text": "What does “co-financing” mean for these projects?",
     "options": [
-     "The EU pays for everything alone",
+     "The EU pays for everything alone, so no national money is needed",
      "The EU funds join with national money to make a project possible",
-     "Citizens must pay back the money",
-     "Projects get no public money"
+     "The citizens who take part in a project must pay the money back later",
+     "The projects get no public money at all, only private sponsors"
     ],
     "correct": 1,
     "explanation": "European funds usually co-finance projects — they join forces with national money rather than paying for everything. Projects are often run by local associations, companies or public bodies."
@@ -67960,9 +67960,9 @@ const EPISODES = [
    {
     "text": "Who can apply to use European funds in Luxembourg?",
     "options": [
-     "Only the government",
-     "Only people living abroad",
-     "Nobody — it is automatic",
+     "Only the government itself, for projects run directly by the ministries",
+     "Only people living abroad who plan to move to Luxembourg with a business idea",
+     "Nobody — the money is paid automatically to every commune, without any application",
      "Organisations and projects that fit the goals — associations, companies, public bodies"
     ],
     "correct": 3,
@@ -67990,9 +67990,9 @@ const EPISODES = [
     "text": "Quelle est l'idée derrière la politique de cohésion de l'UE ?",
     "options": [
      "Investir dans les régions et les personnes pour qu'elles puissent se développer équitablement à travers l'Europe",
-     "Percevoir de l'argent auprès des pays membres",
-     "Remplacer les gouvernements nationaux",
-     "Financer uniquement les grandes entreprises"
+     "Collecter de l'argent auprès des États membres et le garder dans une réserve centrale à Bruxelles",
+     "Remplacer les gouvernements nationaux par des gouvernements européens dans les régions les plus pauvres d'Europe",
+     "Financer uniquement les grandes entreprises internationales pour qu'elles restent en Europe"
     ],
     "correct": 0,
     "explanation": "La politique de cohésion de l'UE investit dans les régions et les personnes pour les aider à se développer équitablement à travers l'Europe. Chaque pays membre, y compris le Luxembourg, reçoit une part à dépenser pour des objectifs convenus."
@@ -68000,10 +68000,10 @@ const EPISODES = [
    {
     "text": "Que soutient principalement le Fonds social européen plus (FSE+) ?",
     "options": [
-     "La construction d'autoroutes",
-     "Le matériel militaire",
+     "La construction d'autoroutes et de ponts entre les États membres",
+     "L'équipement militaire et la défense des frontières de l'UE",
      "Les personnes — emplois, compétences, formation et inclusion sociale",
-     "L'exploration spatiale"
+     "L'exploration spatiale et les programmes de satellites en Europe"
     ],
     "correct": 2,
     "explanation": "Le Fonds social européen plus (FSE+) concerne les personnes : l'emploi, les compétences et la formation, et l'inclusion des personnes laissées de côté, contribuant à lutter contre la pauvreté et l'exclusion."
@@ -68011,10 +68011,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce qu'une « autorité de gestion » ?",
     "options": [
-     "Une banque privée",
+     "Une banque privée qui prête l'argent européen aux projets avec profit",
      "L'organisme officiel chargé de gérer correctement le programme d'un fonds",
-     "Une cour européenne",
-     "Un parti politique"
+     "Une cour européenne qui tranche les litiges sur l'usage des fonds",
+     "Un parti politique qui choisit quels projets doivent être financés"
     ],
     "correct": 1,
     "explanation": "Pour chaque fonds, il existe une autorité de gestion — l'organisme officiel qui sélectionne les projets, gère l'argent avec soin et vérifie les résultats, guidé par le principe de bonne gestion financière."
@@ -68022,10 +68022,10 @@ const EPISODES = [
    {
     "text": "Que signifie le « cofinancement » pour ces projets ?",
     "options": [
-     "L'UE paie tout, seule",
+     "L'UE paie tout seule, donc aucun argent national n'est nécessaire",
      "Les fonds de l'UE s'ajoutent à l'argent national pour rendre un projet possible",
-     "Les citoyens doivent rembourser l'argent",
-     "Les projets ne reçoivent aucun argent public"
+     "Les citoyens qui participent à un projet doivent rembourser tout l'argent plus tard",
+     "Les projets ne reçoivent aucun argent public, seulement des sponsors privés"
     ],
     "correct": 1,
     "explanation": "Les fonds européens cofinancent généralement les projets — ils s'associent à l'argent national plutôt que de tout payer. Les projets sont souvent menés par des associations locales, des entreprises ou des organismes publics."
@@ -68033,9 +68033,9 @@ const EPISODES = [
    {
     "text": "Qui peut postuler pour utiliser les fonds européens au Luxembourg ?",
     "options": [
-     "Uniquement le gouvernement",
-     "Uniquement les personnes vivant à l'étranger",
-     "Personne — c'est automatique",
+     "Seulement le gouvernement lui-même, pour des projets gérés directement par les ministères",
+     "Seulement les personnes vivant à l'étranger qui veulent s'installer au Luxembourg avec une idée d'entreprise",
+     "Personne — l'argent est versé automatiquement à chaque commune, sans demande",
      "Les organisations et projets qui correspondent aux objectifs — associations, entreprises, organismes publics"
     ],
     "correct": 3,
@@ -68059,9 +68059,9 @@ const EPISODES = [
     "text": "Was ist die Idee hinter der Kohäsionspolitik der EU?",
     "options": [
      "In Regionen und Menschen zu investieren, damit sie sich europaweit gerecht entwickeln können",
-     "Geld von den Mitgliedstaaten einzusammeln",
-     "Die nationalen Regierungen zu ersetzen",
-     "Nur große Unternehmen zu finanzieren"
+     "Geld von den Mitgliedstaaten einsammeln und in einer zentralen Reserve in Brüssel aufbewahren",
+     "In den ärmsten Regionen die nationalen Regierungen durch europäische ersetzen",
+     "Nur große internationale Konzerne fördern, damit sie in Europa bleiben"
     ],
     "correct": 0,
     "explanation": "Die Kohäsionspolitik der EU investiert in Regionen und Menschen, um ihnen zu helfen, sich europaweit gerecht zu entwickeln. Jeder Mitgliedstaat, einschließlich Luxemburg, erhält einen Anteil, den er für vereinbarte Ziele ausgeben kann."
@@ -68069,10 +68069,10 @@ const EPISODES = [
    {
     "text": "Was unterstützt der Europäische Sozialfonds Plus (FSE+) hauptsächlich?",
     "options": [
-     "Den Bau von Autobahnen",
-     "Militärausrüstung",
+     "Den Bau von Autobahnen, Brücken und Tunneln zwischen den Mitgliedstaaten",
+     "Militärausrüstung und die Verteidigung der EU-Grenzen",
      "Menschen – Arbeitsplätze, Kompetenzen, Ausbildung und soziale Eingliederung",
-     "Weltraumforschung"
+     "Weltraumforschung und Satellitenprogramme in ganz Europa"
     ],
     "correct": 2,
     "explanation": "Beim Europäischen Sozialfonds Plus (FSE+) geht es um Menschen: Beschäftigung, Kompetenzen und Ausbildung sowie die Eingliederung benachteiligter Menschen, um Armut und Ausgrenzung zu bekämpfen."
@@ -68080,10 +68080,10 @@ const EPISODES = [
    {
     "text": "Was ist eine „Verwaltungsbehörde“?",
     "options": [
-     "Eine Privatbank",
+     "Eine private Bank, die EU-Geld gewinnbringend an Projekte verleiht",
      "Die offizielle Stelle, die für die ordnungsgemäße Durchführung des Programms eines Fonds verantwortlich ist",
-     "Ein europäisches Gericht",
-     "Eine politische Partei"
+     "Ein europäisches Gericht, das bei Streit darüber entscheidet, wie die Mittel verwendet wurden",
+     "Eine politische Partei, die auswählt, welche Projekte Geld bekommen"
     ],
     "correct": 1,
     "explanation": "Für jeden Fonds gibt es eine Verwaltungsbehörde – die offizielle Stelle, die Projekte auswählt, die Mittel sorgfältig verwaltet und die Ergebnisse überprüft, geleitet vom Grundsatz der wirtschaftlichen Haushaltsführung."
@@ -68091,10 +68091,10 @@ const EPISODES = [
    {
     "text": "Was bedeutet „Kofinanzierung“ für diese Projekte?",
     "options": [
-     "Die EU bezahlt alles allein",
+     "Die EU zahlt alles allein, es wird also kein nationales Geld gebraucht",
      "Die EU-Mittel werden mit nationalen Geldern zusammengelegt, um ein Projekt zu ermöglichen",
-     "Die Bürger müssen das Geld zurückzahlen",
-     "Die Projekte erhalten keine öffentlichen Gelder"
+     "Die Bürger, die an einem Projekt teilnehmen, müssen das ganze Geld später zurückzahlen",
+     "Die Projekte bekommen gar kein öffentliches Geld, nur private Sponsoren"
     ],
     "correct": 1,
     "explanation": "Europäische Fonds kofinanzieren Projekte in der Regel – sie schließen sich mit nationalen Geldern zusammen, statt alles allein zu bezahlen. Projekte werden oft von lokalen Vereinen, Unternehmen oder öffentlichen Stellen durchgeführt."
@@ -68102,9 +68102,9 @@ const EPISODES = [
    {
     "text": "Wer kann sich um die Nutzung der Europäischen Fonds in Luxemburg bewerben?",
     "options": [
-     "Nur die Regierung",
-     "Nur im Ausland lebende Personen",
-     "Niemand – es geschieht automatisch",
+     "Nur die Regierung selbst, für Projekte, die direkt von den Ministerien geplant und geführt werden",
+     "Nur Menschen im Ausland, die mit einer Geschäftsidee nach Luxemburg ziehen wollen",
+     "Niemand — das Geld geht automatisch an jede Gemeinde, ganz ohne Antrag",
      "Organisationen und Projekte, die zu den Zielen passen – Vereine, Unternehmen, öffentliche Stellen"
     ],
     "correct": 3,
@@ -69791,10 +69791,10 @@ const EPISODES = [
    {
     "text": "What is “Zesumme Vereinfachen”?",
     "options": [
-     "A shopping website",
-     "A social media app",
+     "A shopping website where residents buy and sell second-hand goods together",
+     "A social media app that connects neighbours in the same commune",
      "A platform where citizens and businesses help simplify the State's procedures",
-     "A tax"
+     "A new tax that companies pay to finance simpler public services"
     ],
     "correct": 2,
     "explanation": "“Zesumme Vereinfachen” (meaning “simplifying together”) is an online platform where citizens and businesses can submit ideas and help make the State's administrative procedures simpler."
@@ -69802,9 +69802,9 @@ const EPISODES = [
    {
     "text": "Who runs the Zesumme Vereinfachen platform?",
     "options": [
-     "A private company",
-     "A foreign government",
-     "A bank",
+     "A private company paid by the State to redesign administrative forms",
+     "A foreign government, as part of a European cooperation project",
+     "A bank, together with the Chamber of Commerce and the business federations",
      "The Ministry for Digitalisation, through the Simplification Council"
     ],
     "correct": 3,
@@ -69813,10 +69813,10 @@ const EPISODES = [
    {
     "text": "How much do you have to commit to take part?",
     "options": [
-     "You must follow every project from start to finish",
-     "You must work full-time",
+     "You must follow every project from the very start to the very end",
+     "You must work on it full-time for at least three months",
      "You can take part in just one phase, or several, as you wish",
-     "You must be an elected official"
+     "You must be an elected official, such as a mayor or a councillor"
     ],
     "correct": 2,
     "explanation": "Participants are free: you can get involved in just one project phase or in several, as much as you want. You are not committed to follow a project from start to finish."
@@ -69825,9 +69825,9 @@ const EPISODES = [
     "text": "In which languages can you contribute?",
     "options": [
      "Luxembourgish, German, French or English",
-     "French only",
-     "English only",
-     "None — only in writing by post"
+     "French only, as the language of the administration",
+     "English only, since the platform is international",
+     "None — you can only take part in writing by post"
     ],
     "correct": 0,
     "explanation": "The platform welcomes contributions in all four languages — Luxembourgish, German, French and English — so everyone in multilingual Luxembourg can take part in their own language."
@@ -69835,10 +69835,10 @@ const EPISODES = [
    {
     "text": "What is one real example of the platform's impact?",
     "options": [
-     "It built a new road",
+     "It built a new road between two communes after a vote",
      "Citizen feedback helped improve the MyGuichet app",
-     "It lowered taxes",
-     "It replaced the government"
+     "It lowered income taxes for families with children",
+     "It replaced the government's ministries with citizen panels"
     ],
     "correct": 1,
     "explanation": "Citizen feedback through the platform has helped improve the MyGuichet app — the State's online counter — showing how one person's suggestion can improve a service used for millions of procedures."
@@ -69864,10 +69864,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que « Zesumme Vereinfachen » ?",
     "options": [
-     "Un site de shopping",
-     "Une application de réseaux sociaux",
+     "Un site d'achat où les résidents achètent et vendent ensemble des objets d'occasion",
+     "Une application de réseau social qui met en relation les voisins d'une même commune",
      "Une plateforme où les citoyens et les entreprises aident à simplifier les démarches de l'État",
-     "Un impôt"
+     "Une nouvelle taxe que paient les entreprises pour financer des services publics plus simples"
     ],
     "correct": 2,
     "explanation": "« Zesumme Vereinfachen » (qui signifie « simplifier ensemble ») est une plateforme en ligne où les citoyens et les entreprises peuvent soumettre des idées et aider à rendre les démarches administratives de l'État plus simples."
@@ -69875,9 +69875,9 @@ const EPISODES = [
    {
     "text": "Qui gère la plateforme Zesumme Vereinfachen ?",
     "options": [
-     "Une entreprise privée",
-     "Un gouvernement étranger",
-     "Une banque",
+     "Une entreprise privée payée par l'État pour refaire les formulaires administratifs",
+     "Un gouvernement étranger, dans le cadre d'un projet de coopération européenne",
+     "Une banque, avec la Chambre de commerce et les fédérations d'entreprises",
      "Le Ministère de la Digitalisation, via le Conseil de simplification"
     ],
     "correct": 3,
@@ -69886,10 +69886,10 @@ const EPISODES = [
    {
     "text": "À quel point devez-vous vous engager pour participer ?",
     "options": [
-     "Vous devez suivre chaque projet du début à la fin",
-     "Vous devez travailler à temps plein",
+     "Vous devez suivre chaque projet du tout début jusqu'à la toute fin, sans exception",
+     "Vous devez y travailler à plein temps pendant au moins trois mois",
      "Vous pouvez participer à une seule phase, ou à plusieurs, comme vous le souhaitez",
-     "Vous devez être un élu"
+     "Vous devez être un élu, par exemple maire ou conseiller communal"
     ],
     "correct": 2,
     "explanation": "Les participants sont libres : vous pouvez vous impliquer dans une seule phase d'un projet ou dans plusieurs, autant que vous le voulez. Vous n'êtes pas tenu de suivre un projet du début à la fin."
@@ -69898,9 +69898,9 @@ const EPISODES = [
     "text": "Dans quelles langues pouvez-vous contribuer ?",
     "options": [
      "En luxembourgeois, allemand, français ou anglais",
-     "En français uniquement",
-     "En anglais uniquement",
-     "Aucune — uniquement par écrit par courrier"
+     "Uniquement en français, langue de l'administration",
+     "Uniquement en anglais, car la plateforme est internationale",
+     "Aucune — on ne participe que par écrit, par la poste"
     ],
     "correct": 0,
     "explanation": "La plateforme accueille les contributions dans les quatre langues — luxembourgeois, allemand, français et anglais — afin que chacun, dans le Luxembourg multilingue, puisse participer dans sa propre langue."
@@ -69908,10 +69908,10 @@ const EPISODES = [
    {
     "text": "Quel est un exemple concret de l'impact de la plateforme ?",
     "options": [
-     "Elle a construit une nouvelle route",
+     "Elle a fait construire une route entre deux communes après un vote",
      "Les retours des citoyens ont contribué à améliorer l'application MyGuichet",
-     "Elle a baissé les impôts",
-     "Elle a remplacé le gouvernement"
+     "Elle a fait baisser l'impôt sur le revenu des familles avec enfants",
+     "Elle a remplacé les ministères par des panels de citoyens"
     ],
     "correct": 1,
     "explanation": "Les retours des citoyens via la plateforme ont contribué à améliorer l'application MyGuichet — le guichet en ligne de l'État — montrant comment la suggestion d'une personne peut améliorer un service utilisé pour des millions de démarches."
@@ -69933,10 +69933,10 @@ const EPISODES = [
    {
     "text": "Was ist „Zesumme Vereinfachen“?",
     "options": [
-     "Eine Shopping-Website",
-     "Eine Social-Media-App",
+     "Eine Shopping-Website, auf der Einwohner gemeinsam Gebrauchtwaren und Möbel kaufen und verkaufen",
+     "Eine Social-Media-App, die Nachbarn in derselben Gemeinde verbindet",
      "Eine Plattform, auf der Bürger und Unternehmen helfen, die Verfahren des Staates zu vereinfachen",
-     "Eine Steuer"
+     "Eine neue Steuer, die Firmen zahlen, um einfachere öffentliche Dienste zu finanzieren"
     ],
     "correct": 2,
     "explanation": "„Zesumme Vereinfachen“ (bedeutet „gemeinsam vereinfachen“) ist eine Online-Plattform, auf der Bürgerinnen, Bürger und Unternehmen Ideen einreichen und dazu beitragen können, die Verwaltungsverfahren des Staates einfacher zu gestalten."
@@ -69944,9 +69944,9 @@ const EPISODES = [
    {
     "text": "Wer betreibt die Plattform Zesumme Vereinfachen?",
     "options": [
-     "Ein privates Unternehmen",
-     "Eine ausländische Regierung",
-     "Eine Bank",
+     "Ein privates Unternehmen, das der Staat für die Neugestaltung von Formularen bezahlt",
+     "Eine ausländische Regierung, im Rahmen eines europäischen Kooperationsprojekts",
+     "Eine Bank, zusammen mit der Handelskammer und den Unternehmensverbänden",
      "Das Ministerium für Digitalisierung über den Vereinfachungsrat"
     ],
     "correct": 3,
@@ -69955,10 +69955,10 @@ const EPISODES = [
    {
     "text": "Wie sehr müssen Sie sich verpflichten, um teilzunehmen?",
     "options": [
-     "Sie müssen jedes Projekt von Anfang bis Ende begleiten",
-     "Sie müssen Vollzeit arbeiten",
+     "Sie müssen jedes Projekt vom ersten bis zum letzten Schritt begleiten",
+     "Sie müssen mindestens drei Monate in Vollzeit mitarbeiten",
      "Sie können nach Belieben an nur einer Phase oder an mehreren teilnehmen",
-     "Sie müssen ein gewählter Amtsträger sein"
+     "Sie müssen ein gewähltes Mandat haben, etwa als Bürgermeister oder Gemeinderat"
     ],
     "correct": 2,
     "explanation": "Die Teilnehmenden sind frei: Sie können sich an nur einer Projektphase oder an mehreren beteiligen, so viel Sie möchten. Sie sind nicht verpflichtet, ein Projekt von Anfang bis Ende zu begleiten."
@@ -69967,9 +69967,9 @@ const EPISODES = [
     "text": "In welchen Sprachen können Sie Beiträge leisten?",
     "options": [
      "Auf Luxemburgisch, Deutsch, Französisch oder Englisch",
-     "Nur auf Französisch",
-     "Nur auf Englisch",
-     "In keiner – nur schriftlich per Post"
+     "Nur auf Französisch, der Sprache der Verwaltung",
+     "Nur auf Englisch, weil die Plattform international ist",
+     "Keine — man kann nur schriftlich per Post mitmachen"
     ],
     "correct": 0,
     "explanation": "Die Plattform begrüßt Beiträge in allen vier Sprachen – Luxemburgisch, Deutsch, Französisch und Englisch –, damit sich alle im mehrsprachigen Luxemburg in ihrer eigenen Sprache beteiligen können."
@@ -69977,10 +69977,10 @@ const EPISODES = [
    {
     "text": "Was ist ein konkretes Beispiel für die Wirkung der Plattform?",
     "options": [
-     "Sie hat eine neue Straße gebaut",
+     "Sie hat nach einer Abstimmung eine neue Straße zwischen zwei Gemeinden gebaut",
      "Rückmeldungen von Bürgern haben geholfen, die MyGuichet-App zu verbessern",
-     "Sie hat die Steuern gesenkt",
-     "Sie hat die Regierung ersetzt"
+     "Sie hat die Einkommensteuer für Familien mit Kindern gesenkt",
+     "Sie hat die Ministerien durch Bürgergremien ersetzt"
     ],
     "correct": 1,
     "explanation": "Rückmeldungen von Bürgerinnen und Bürgern über die Plattform haben geholfen, die MyGuichet-App – den Online-Schalter des Staates – zu verbessern und zeigen, wie der Vorschlag einer einzelnen Person einen Dienst verbessern kann, der für Millionen von Verfahren genutzt wird."
@@ -71892,10 +71892,10 @@ const EPISODES = [
    {
     "text": "What is the CGDIS?",
     "options": [
-     "A private insurance company",
-     "A hospital",
+     "A private insurance company that pays for damage after fires",
+     "The national hospital's emergency department",
      "Luxembourg's national fire and rescue service",
-     "A police unit"
+     "A special unit of the Grand Ducal Police"
     ],
     "correct": 2,
     "explanation": "The CGDIS — Corps grand-ducal d'incendie et de secours — is Luxembourg's national fire and rescue service, created in 2018 by bringing together the country's fire brigades and civil-protection services."
@@ -71914,10 +71914,10 @@ const EPISODES = [
    {
     "text": "When you call 112, what should you do?",
     "options": [
-     "Hang up quickly so others can call",
+     "Hang up quickly so that other people with emergencies can get through",
      "Give your exact location, say what happened, and stay on the line",
-     "Only send a text message",
-     "Call several times in a row"
+     "Only send a text message with a photo, never speak",
+     "Call several times in a row so that your call is treated first"
     ],
     "correct": 1,
     "explanation": "Stay as calm as you can, give your exact location, say what has happened and how many people are involved, answer the operator's questions, and do not hang up until they tell you to — they may guide you while help is on the way."
@@ -71925,9 +71925,9 @@ const EPISODES = [
    {
     "text": "Besides responding to emergencies, what else does the CGDIS offer the public?",
     "options": [
-     "Nothing",
-     "Home loans",
-     "Holiday trips",
+     "Nothing else — it only responds to emergencies",
+     "Cheap home loans for firefighters' families",
+     "Holiday trips and camps for young firefighters",
      "First-aid courses and fire-prevention advice"
     ],
     "correct": 3,
@@ -71955,9 +71955,9 @@ const EPISODES = [
     "text": "Quel numéro composez-vous pour toute urgence au Luxembourg ?",
     "options": [
      "Le 112",
-     "Le 113",
-     "Le 911",
-     "Le 0800"
+     "113",
+     "911",
+     "0800"
     ],
     "correct": 0,
     "explanation": "Au Luxembourg, vous appelez le 112 pour toute urgence — un incendie, un accident grave ou une urgence médicale. C'est gratuit, cela fonctionne depuis n'importe quel téléphone jour et nuit, et cela vous met en relation avec le central d'appels d'urgence du CGDIS."
@@ -71965,10 +71965,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que le CGDIS ?",
     "options": [
-     "Une compagnie d'assurance privée",
-     "Un hôpital",
+     "Une compagnie d'assurance privée qui paie les dégâts après un incendie",
+     "Le service des urgences de l'hôpital national",
      "Le service national d'incendie et de secours du Luxembourg",
-     "Une unité de police"
+     "Une unité spéciale de la Police grand-ducale"
     ],
     "correct": 2,
     "explanation": "Le CGDIS — Corps grand-ducal d'incendie et de secours — est le service national d'incendie et de secours du Luxembourg, créé en 2018 en réunissant les corps de pompiers du pays et les services de protection civile."
@@ -71987,10 +71987,10 @@ const EPISODES = [
    {
     "text": "Lorsque vous appelez le 112, que devez-vous faire ?",
     "options": [
-     "Raccrocher vite pour que d'autres puissent appeler",
+     "Raccrocher très vite pour que d'autres personnes en urgence puissent appeler",
      "Indiquer votre localisation exacte, dire ce qui s'est passé et rester en ligne",
-     "Envoyer uniquement un SMS",
-     "Appeler plusieurs fois de suite"
+     "Envoyer seulement un SMS avec une photo, sans jamais parler",
+     "Appeler plusieurs fois de suite pour que votre appel passe en premier"
     ],
     "correct": 1,
     "explanation": "Restez aussi calme que possible, indiquez votre localisation exacte, dites ce qui s'est passé et combien de personnes sont concernées, répondez aux questions de l'opérateur, et ne raccrochez pas avant qu'il vous le dise — il peut vous guider en attendant les secours."
@@ -71998,9 +71998,9 @@ const EPISODES = [
    {
     "text": "Outre répondre aux urgences, qu'offre encore le CGDIS au public ?",
     "options": [
-     "Rien",
-     "Des prêts immobiliers",
-     "Des voyages de vacances",
+     "Rien d'autre — il intervient seulement en urgence",
+     "Des prêts immobiliers bon marché pour les familles de pompiers",
+     "Des voyages et des camps de vacances pour jeunes pompiers",
      "Des cours de premiers secours et des conseils de prévention incendie"
     ],
     "correct": 3,
@@ -72024,9 +72024,9 @@ const EPISODES = [
     "text": "Welche Nummer wählen Sie bei jedem Notfall in Luxemburg?",
     "options": [
      "Die 112",
-     "Die 113",
-     "Die 911",
-     "Die 0800"
+     "113",
+     "911",
+     "0800"
     ],
     "correct": 0,
     "explanation": "In Luxemburg wählen Sie bei jedem Notfall die 112 — bei einem Brand, einem schweren Unfall oder einem medizinischen Notfall. Sie ist kostenlos, funktioniert von jedem Telefon Tag und Nacht und verbindet Sie mit der Notrufzentrale des CGDIS."
@@ -72034,10 +72034,10 @@ const EPISODES = [
    {
     "text": "Was ist das CGDIS?",
     "options": [
-     "Eine private Versicherungsgesellschaft",
-     "Ein Krankenhaus",
+     "Eine private Versicherung, die Schäden nach Bränden bezahlt",
+     "Die Notaufnahme des nationalen Krankenhauses",
      "Der nationale Brand- und Rettungsdienst Luxemburgs",
-     "Eine Polizeieinheit"
+     "Eine Spezialeinheit der Großherzoglichen Polizei"
     ],
     "correct": 2,
     "explanation": "Das CGDIS — Corps grand-ducal d'incendie et de secours — ist der nationale Brand- und Rettungsdienst Luxemburgs, 2018 durch die Zusammenführung der Feuerwehren des Landes und der Zivilschutzdienste gegründet."
@@ -72047,7 +72047,7 @@ const EPISODES = [
     "options": [
      "Etwa 10 %",
      "Etwa die Hälfte",
-     "Keiner — sie sind alle Profis",
+     "Keine — alle sind Berufsfeuerwehrleute",
      "Etwa 90 %"
     ],
     "correct": 3,
@@ -72056,10 +72056,10 @@ const EPISODES = [
    {
     "text": "Was sollten Sie tun, wenn Sie die 112 anrufen?",
     "options": [
-     "Schnell auflegen, damit andere anrufen können",
+     "Schnell auflegen, damit andere Menschen im Notfall durchkommen",
      "Ihren genauen Standort angeben, sagen, was passiert ist, und in der Leitung bleiben",
-     "Nur eine SMS senden",
-     "Mehrmals hintereinander anrufen"
+     "Nur eine SMS mit Foto schicken, nie sprechen",
+     "Mehrmals hintereinander anrufen, damit Ihr Anruf schneller und zuerst bearbeitet wird"
     ],
     "correct": 1,
     "explanation": "Bleiben Sie so ruhig wie möglich, geben Sie Ihren genauen Standort an, sagen Sie, was passiert ist und wie viele Personen betroffen sind, beantworten Sie die Fragen des Disponenten und legen Sie nicht auf, bevor er es Ihnen sagt — er kann Sie anleiten, während Hilfe unterwegs ist."
@@ -72067,9 +72067,9 @@ const EPISODES = [
    {
     "text": "Was bietet das CGDIS der Öffentlichkeit außer der Notfallhilfe noch?",
     "options": [
-     "Nichts",
-     "Immobilienkredite",
-     "Urlaubsreisen",
+     "Nichts weiter — er rückt nur bei Notfällen aus",
+     "Günstige Wohnkredite für Familien von Feuerwehrleuten",
+     "Urlaubsreisen und Ferienlager für junge Feuerwehrleute",
      "Erste-Hilfe-Kurse und Brandschutztipps"
     ],
     "correct": 3,
@@ -74147,9 +74147,9 @@ const EPISODES = [
     "text": "What is STATEC?",
     "options": [
      "Luxembourg's national statistics institute, producing official figures",
-     "A private market-research firm",
-     "A bank",
-     "A tax office"
+     "A private market-research firm that sells consumer surveys to companies",
+     "The central bank of Luxembourg, which sets interest rates for the country",
+     "The national tax office, which collects income tax and publishes tax statistics"
     ],
     "correct": 0,
     "explanation": "STATEC is Luxembourg's national statistics institute. It collects and shares official statistics — population, economy, prices and more — and its statistical work is independent, so the figures are neutral and trustworthy. Its motto is “we count because you count.”"
@@ -74157,10 +74157,10 @@ const EPISODES = [
    {
     "text": "What does STATEC's consumer price index measure?",
     "options": [
-     "The number of shops in the country",
+     "The number of shops and supermarkets that open or close in the country each year",
      "How fast prices rise — inflation — using a typical basket of goods and services",
-     "The population",
-     "The weather"
+     "How many people live in Luxembourg, broken down by commune and nationality",
+     "The average temperature and rainfall, to see how the climate affects prices"
     ],
     "correct": 1,
     "explanation": "The consumer price index tracks the price of a typical basket of goods and services households buy, measuring inflation. STATEC publishes it every month."
@@ -74169,9 +74169,9 @@ const EPISODES = [
     "text": "In Luxembourg, what is the price index used for that touches almost every payslip?",
     "options": [
      "The automatic indexation of salaries and pensions",
-     "Setting shop opening hours",
-     "Choosing the national football team",
-     "Fixing fuel prices"
+     "Setting the opening hours of shops on Sundays and holidays",
+     "Deciding the yearly bonus paid to public-sector employees",
+     "Fixing the maximum price of fuel at every petrol station in the country"
     ],
     "correct": 0,
     "explanation": "When prices rise by a set amount, Luxembourg automatically increases salaries and pensions to keep up — this is “indexation”, and it is based on STATEC's measurements."
@@ -74179,9 +74179,9 @@ const EPISODES = [
    {
     "text": "Where can the public explore Luxembourg's official statistics?",
     "options": [
-     "Only in a paid yearbook",
-     "Only at the Ministry in person",
-     "Nowhere — they are secret",
+     "Only in a paid printed yearbook, sold in bookshops",
+     "Only at the Ministry of the Economy, in person and by appointment",
+     "Nowhere — official statistics are kept confidential by law",
      "Free on the statistics portal, statistiques.public.lu"
     ],
     "correct": 3,
@@ -74190,10 +74190,10 @@ const EPISODES = [
    {
     "text": "Besides money and the economy, what else does STATEC measure?",
     "options": [
-     "Nothing",
-     "Private bank accounts",
+     "Nothing else — it only measures money and prices",
+     "The content of private bank accounts, household by household",
      "Wellbeing and sustainable development indicators",
-     "Personal medical records"
+     "Personal medical records, to follow the health of each resident"
     ],
     "correct": 2,
     "explanation": "STATEC also publishes indicators on wellbeing and sustainable development, because a good society is not only about how much it produces, but about how well people live."
@@ -74219,9 +74219,9 @@ const EPISODES = [
     "text": "Qu'est-ce que le STATEC ?",
     "options": [
      "L'institut national de la statistique du Luxembourg, qui produit les chiffres officiels",
-     "Un cabinet privé d'études de marché",
-     "Une banque",
-     "Un bureau des impôts"
+     "Un institut privé d'études de marché qui vend des sondages aux entreprises",
+     "La banque centrale du Luxembourg, qui fixe les taux d'intérêt du pays",
+     "L'administration fiscale nationale, qui perçoit l'impôt et publie des statistiques fiscales"
     ],
     "correct": 0,
     "explanation": "Le STATEC est l'institut national de la statistique du Luxembourg. Il collecte et diffuse des statistiques officielles — population, économie, prix et bien plus — et son travail statistique est indépendant, de sorte que les chiffres sont neutres et fiables. Sa devise est « Nous comptons parce que vous comptez »."
@@ -74229,10 +74229,10 @@ const EPISODES = [
    {
     "text": "Que mesure l'indice des prix à la consommation du STATEC ?",
     "options": [
-     "Le nombre de commerces dans le pays",
+     "Le nombre de magasins et de supermarchés qui ouvrent ou qui ferment chaque année dans les différentes communes du pays",
      "La vitesse à laquelle les prix augmentent — l'inflation — à l'aide d'un panier type de biens et de services",
-     "La population",
-     "La météo"
+     "Le nombre de personnes vivant au Luxembourg, par commune et par nationalité",
+     "La température moyenne et les précipitations, pour voir l'effet du climat sur les prix"
     ],
     "correct": 1,
     "explanation": "L'indice des prix à la consommation suit le prix d'un panier type de biens et de services que les ménages achètent, mesurant ainsi l'inflation. Le STATEC le publie chaque mois."
@@ -74241,9 +74241,9 @@ const EPISODES = [
     "text": "Au Luxembourg, à quoi sert l'indice des prix, qui touche presque chaque fiche de paie ?",
     "options": [
      "À l'indexation automatique des salaires et des pensions",
-     "À fixer les heures d'ouverture des commerces",
-     "À choisir l'équipe nationale de football",
-     "À fixer les prix des carburants"
+     "Fixer les heures d'ouverture des magasins le dimanche et les jours fériés",
+     "Décider de la prime annuelle versée aux employés du secteur public",
+     "Fixer le prix maximum du carburant dans chaque station-service du pays"
     ],
     "correct": 0,
     "explanation": "Lorsque les prix augmentent d'un certain montant, le Luxembourg relève automatiquement les salaires et les pensions pour suivre le rythme — c'est l'« indexation », et elle repose sur les mesures du STATEC."
@@ -74251,9 +74251,9 @@ const EPISODES = [
    {
     "text": "Où le public peut-il explorer les statistiques officielles du Luxembourg ?",
     "options": [
-     "Uniquement dans un annuaire payant",
-     "Uniquement au ministère, en personne",
-     "Nulle part — elles sont secrètes",
+     "Uniquement dans un annuaire imprimé payant, vendu en librairie",
+     "Uniquement au ministère de l'Économie, en personne et sur rendez-vous",
+     "Nulle part — les statistiques officielles sont confidentielles selon la loi",
      "Gratuitement sur le portail des statistiques, statistiques.public.lu"
     ],
     "correct": 3,
@@ -74262,10 +74262,10 @@ const EPISODES = [
    {
     "text": "Outre l'argent et l'économie, que mesure aussi le STATEC ?",
     "options": [
-     "Rien",
-     "Les comptes bancaires privés",
+     "Rien d'autre — il ne mesure que l'argent et les prix",
+     "Le contenu des comptes bancaires privés, ménage par ménage",
      "Des indicateurs de bien-être et de développement durable",
-     "Les dossiers médicaux personnels"
+     "Les dossiers médicaux personnels, pour suivre la santé de chaque résident"
     ],
     "correct": 2,
     "explanation": "Le STATEC publie également des indicateurs sur le bien-être et le développement durable, car une bonne société ne se résume pas à ce qu'elle produit, mais aussi à la qualité de vie de ses habitants."
@@ -74288,9 +74288,9 @@ const EPISODES = [
     "text": "Was ist STATEC?",
     "options": [
      "Das nationale Statistikinstitut Luxemburgs, das offizielle Zahlen erstellt",
-     "Ein privates Marktforschungsunternehmen",
-     "Eine Bank",
-     "Ein Finanzamt"
+     "Ein privates Marktforschungsinstitut, das Verbraucherumfragen an Firmen verkauft",
+     "Die Zentralbank Luxemburgs, die die Zinssätze des Landes festlegt",
+     "Das nationale Steueramt, das Einkommensteuer einzieht und Steuerstatistiken veröffentlicht"
     ],
     "correct": 0,
     "explanation": "STATEC ist das nationale Statistikinstitut Luxemburgs. Es erhebt und veröffentlicht offizielle Statistiken – zu Bevölkerung, Wirtschaft, Preisen und mehr – und seine statistische Arbeit ist unabhängig, sodass die Zahlen neutral und vertrauenswürdig sind. Sein Motto lautet „Wir zählen, weil Sie zählen“."
@@ -74298,10 +74298,10 @@ const EPISODES = [
    {
     "text": "Was misst der Verbraucherpreisindex von STATEC?",
     "options": [
-     "Die Zahl der Geschäfte im Land",
+     "Die Zahl der Geschäfte und Supermärkte, die jedes Jahr im Land öffnen oder schließen",
      "Wie schnell die Preise steigen – die Inflation – anhand eines typischen Warenkorbs aus Gütern und Dienstleistungen",
-     "Die Bevölkerung",
-     "Das Wetter"
+     "Wie viele Menschen in Luxemburg leben, nach Gemeinde und Nationalität",
+     "Die Durchschnittstemperatur und den Niederschlag in jeder Region, um den Einfluss des Klimas auf die Preise zu sehen"
     ],
     "correct": 1,
     "explanation": "Der Verbraucherpreisindex verfolgt den Preis eines typischen Warenkorbs aus Gütern und Dienstleistungen, die Haushalte kaufen, und misst so die Inflation. STATEC veröffentlicht ihn jeden Monat."
@@ -74310,9 +74310,9 @@ const EPISODES = [
     "text": "Wofür wird der Preisindex in Luxemburg verwendet, das fast jede Gehaltsabrechnung betrifft?",
     "options": [
      "Für die automatische Indexierung von Löhnen und Renten",
-     "Zur Festlegung der Ladenöffnungszeiten",
-     "Zur Auswahl der Nationalmannschaft im Fußball",
-     "Zur Festsetzung der Kraftstoffpreise"
+     "Die Öffnungszeiten der Geschäfte an Sonn- und Feiertagen festlegen",
+     "Die jährliche Prämie für Beschäftigte im öffentlichen Dienst bestimmen",
+     "Den Höchstpreis für Kraftstoff an jeder Tankstelle des Landes festlegen"
     ],
     "correct": 0,
     "explanation": "Wenn die Preise um einen bestimmten Betrag steigen, erhöht Luxemburg Löhne und Renten automatisch, um Schritt zu halten – das ist die „Indexierung“, und sie beruht auf den Messungen von STATEC."
@@ -74320,9 +74320,9 @@ const EPISODES = [
    {
     "text": "Wo kann die Öffentlichkeit die offiziellen Statistiken Luxemburgs erkunden?",
     "options": [
-     "Nur in einem kostenpflichtigen Jahrbuch",
-     "Nur persönlich im Ministerium",
-     "Nirgends – sie sind geheim",
+     "Nur in einem kostenpflichtigen gedruckten Jahrbuch aus dem Buchhandel",
+     "Nur im Wirtschaftsministerium, persönlich und mit Termin",
+     "Nirgendwo — offizielle Statistiken sind gesetzlich vertraulich",
      "Kostenlos auf dem Statistikportal statistiques.public.lu"
     ],
     "correct": 3,
@@ -74331,10 +74331,10 @@ const EPISODES = [
    {
     "text": "Was misst STATEC neben Geld und Wirtschaft noch?",
     "options": [
-     "Nichts",
-     "Private Bankkonten",
+     "Nichts weiter — es misst nur Geld und Preise",
+     "Den Inhalt privater Bankkonten, Haushalt für Haushalt",
      "Indikatoren zu Wohlergehen und nachhaltiger Entwicklung",
-     "Persönliche Krankenakten"
+     "Persönliche Krankenakten, um die Gesundheit jedes Einwohners zu verfolgen"
     ],
     "correct": 2,
     "explanation": "STATEC veröffentlicht auch Indikatoren zu Wohlergehen und nachhaltiger Entwicklung, denn eine gute Gesellschaft zeichnet sich nicht nur dadurch aus, wie viel sie produziert, sondern dadurch, wie gut die Menschen leben."
@@ -75920,10 +75920,10 @@ const EPISODES = [
    {
     "text": "What is emwelt.lu?",
     "options": [
-     "An online shop for garden tools",
+     "An online shop for garden tools and plants",
      "Luxembourg's official environment portal",
-     "A weather app only",
-     "A private nature club"
+     "A weather app with daily forecasts only",
+     "A private nature club with paying members"
     ],
     "correct": 1,
     "explanation": "emwelt.lu is Luxembourg's official environment portal, run by the Ministry of the Environment, Climate and Biodiversity. It informs the public about the environment and sustainable development and gives access to environmental services. (“Ëmwelt” is Luxembourgish for “environment”.)"
@@ -75932,9 +75932,9 @@ const EPISODES = [
     "text": "Which of these does the environment portal cover?",
     "options": [
      "Nature, water, air, climate, waste and more",
-     "Only forests",
-     "Only waste",
-     "Only the weather"
+     "Only forests and the protection of trees",
+     "Only waste collection and recycling centres",
+     "Only the weather forecast and storm warnings"
     ],
     "correct": 0,
     "explanation": "The portal is a one-stop doorway covering nature and biodiversity, water, air and noise, climate and energy, waste and resources, chemicals, fishing and hunting, and more."
@@ -75942,10 +75942,10 @@ const EPISODES = [
    {
     "text": "What is “Null Offall Lëtzebuerg”?",
     "options": [
-     "A football tournament",
+     "A national football tournament for youth teams",
      "Luxembourg's zero-waste strategy",
-     "A type of tax",
-     "A nature reserve"
+     "A new tax on plastic packaging",
+     "A nature reserve in the north of the country"
     ],
     "correct": 1,
     "explanation": "“Null Offall Lëtzebuerg” means “Zero Waste Luxembourg” — the country's zero-waste strategy. The portal also explains how to sort your waste, and even offers an app to help."
@@ -75953,10 +75953,10 @@ const EPISODES = [
    {
     "text": "Which real-time service can you find via the portal?",
     "options": [
-     "Live football scores",
-     "Stock-market prices",
+     "Live football scores from the national league",
+     "Stock-market prices for environmental companies",
      "Live air-quality and bathing-water information",
-     "Television programmes"
+     "The television programme of the national channels"
     ],
     "correct": 2,
     "explanation": "The portal offers practical services such as real-time air-quality measurements and bathing-water quality, plus flood and pollution information — useful before a summer swim or on a high-pollution day."
@@ -75964,9 +75964,9 @@ const EPISODES = [
    {
     "text": "Beyond rules and permits, what else does the portal encourage?",
     "options": [
-     "Nothing",
-     "Buying more single-use plastic",
-     "Avoiding the outdoors",
+     "Nothing — it only lists rules, permits and fines",
+     "Buying more single-use plastic, because it is easy to recycle",
+     "Staying indoors during the day to avoid disturbing wild animals in the forest",
      "Getting outside to enjoy nature, via nature trails and forest centres"
     ],
     "correct": 3,
@@ -75992,10 +75992,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce qu'emwelt.lu ?",
     "options": [
-     "Une boutique en ligne d'outils de jardinage",
+     "Une boutique en ligne d'outils de jardin et de plantes",
      "Le portail officiel de l'environnement du Luxembourg",
-     "Une simple application météo",
-     "Un club privé de nature"
+     "Une application météo avec seulement des prévisions",
+     "Un club nature privé avec des membres payants"
     ],
     "correct": 1,
     "explanation": "emwelt.lu est le portail officiel de l'environnement du Luxembourg, géré par le ministère de l'Environnement, du Climat et de la Biodiversité. Il informe le public sur l'environnement et le développement durable et donne accès aux services environnementaux. (« Ëmwelt » signifie « environnement » en luxembourgeois.)"
@@ -76004,9 +76004,9 @@ const EPISODES = [
     "text": "Lequel de ces domaines le portail de l'environnement couvre-t-il ?",
     "options": [
      "La nature, l'eau, l'air, le climat, les déchets et plus encore",
-     "Uniquement les forêts",
-     "Uniquement les déchets",
-     "Uniquement la météo"
+     "Uniquement les forêts et la protection des arbres",
+     "Uniquement la collecte des déchets et les recyparcs",
+     "Uniquement la météo et les alertes tempête"
     ],
     "correct": 0,
     "explanation": "Le portail est une porte d'entrée unique couvrant la nature et la biodiversité, l'eau, l'air et le bruit, le climat et l'énergie, les déchets et les ressources, les produits chimiques, la pêche et la chasse, et bien plus encore."
@@ -76014,10 +76014,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que « Null Offall Lëtzebuerg » ?",
     "options": [
-     "Un tournoi de football",
+     "Un tournoi national de football pour les jeunes",
      "La stratégie zéro déchet du Luxembourg",
-     "Un type d'impôt",
-     "Une réserve naturelle"
+     "Une nouvelle taxe sur les emballages plastiques",
+     "Une réserve naturelle dans le nord du pays"
     ],
     "correct": 1,
     "explanation": "« Null Offall Lëtzebuerg » signifie « Zéro Déchet Luxembourg » — la stratégie zéro déchet du pays. Le portail explique aussi comment trier vos déchets, et propose même une application pour vous aider."
@@ -76025,10 +76025,10 @@ const EPISODES = [
    {
     "text": "Quel service en temps réel pouvez-vous trouver via le portail ?",
     "options": [
-     "Les scores de football en direct",
-     "Les cours de la Bourse",
+     "Les résultats de football en direct du championnat national de BGL Ligue",
+     "Les cours de bourse des entreprises environnementales",
      "Des informations en direct sur la qualité de l'air et des eaux de baignade",
-     "Les programmes de télévision"
+     "Le programme télé des chaînes nationales"
     ],
     "correct": 2,
     "explanation": "Le portail propose des services pratiques tels que des mesures de la qualité de l'air en temps réel et la qualité des eaux de baignade, ainsi que des informations sur les inondations et la pollution — utiles avant une baignade estivale ou lors d'un jour de forte pollution."
@@ -76036,9 +76036,9 @@ const EPISODES = [
    {
     "text": "Au-delà des règles et des autorisations, à quoi le portail encourage-t-il aussi ?",
     "options": [
-     "À rien",
-     "À acheter plus de plastique à usage unique",
-     "À éviter les activités de plein air",
+     "Rien — il ne liste que des règles, des autorisations et des amendes",
+     "Acheter plus de plastique à usage unique, car il se recycle facilement",
+     "Rester à l'intérieur la journée pour ne pas déranger les animaux sauvages en forêt",
      "À sortir pour profiter de la nature, grâce aux sentiers nature et aux centres forestiers"
     ],
     "correct": 3,
@@ -76061,10 +76061,10 @@ const EPISODES = [
    {
     "text": "Was ist emwelt.lu?",
     "options": [
-     "Ein Onlineshop für Gartengeräte",
+     "Ein Online-Shop für Gartengeräte und Pflanzen",
      "Das offizielle Umweltportal Luxemburgs",
-     "Nur eine Wetter-App",
-     "Ein privater Naturverein"
+     "Eine Wetter-App nur mit täglichen Vorhersagen",
+     "Ein privater Naturverein mit zahlenden Mitgliedern"
     ],
     "correct": 1,
     "explanation": "emwelt.lu ist das offizielle Umweltportal Luxemburgs, das vom Ministerium für Umwelt, Klima und Biodiversität betrieben wird. Es informiert die Öffentlichkeit über Umwelt und nachhaltige Entwicklung und bietet Zugang zu Umweltdiensten. („Ëmwelt“ ist Luxemburgisch für „Umwelt“.)"
@@ -76073,9 +76073,9 @@ const EPISODES = [
     "text": "Welchen dieser Bereiche deckt das Umweltportal ab?",
     "options": [
      "Natur, Wasser, Luft, Klima, Abfall und mehr",
-     "Nur Wälder",
-     "Nur Abfall",
-     "Nur das Wetter"
+     "Nur Wälder und den Schutz der Bäume",
+     "Nur Müllabfuhr und Recyclingzentren",
+     "Nur die Wettervorhersage und Sturmwarnungen"
     ],
     "correct": 0,
     "explanation": "Das Portal ist eine zentrale Anlaufstelle, die Natur und Biodiversität, Wasser, Luft und Lärm, Klima und Energie, Abfall und Ressourcen, Chemikalien, Fischerei und Jagd und mehr abdeckt."
@@ -76083,10 +76083,10 @@ const EPISODES = [
    {
     "text": "Was ist „Null Offall Lëtzebuerg“?",
     "options": [
-     "Ein Fußballturnier",
+     "Ein nationales Fußballturnier für Jugendteams",
      "Die Null-Abfall-Strategie Luxemburgs",
-     "Eine Steuerart",
-     "Ein Naturschutzgebiet"
+     "Eine neue Steuer auf Plastikverpackungen",
+     "Ein Naturschutzgebiet im Norden des Landes"
     ],
     "correct": 1,
     "explanation": "„Null Offall Lëtzebuerg“ bedeutet „Null Abfall Luxemburg“ – die Null-Abfall-Strategie des Landes. Das Portal erklärt außerdem, wie man seinen Abfall trennt, und bietet sogar eine App als Hilfe an."
@@ -76094,10 +76094,10 @@ const EPISODES = [
    {
     "text": "Welchen Echtzeit-Dienst finden Sie über das Portal?",
     "options": [
-     "Live-Fußballergebnisse",
-     "Börsenkurse",
+     "Live-Fußballergebnisse und Tabellen der nationalen Liga",
+     "Börsenkurse von Umweltunternehmen",
      "Informationen zur Luftqualität und zu Badegewässern in Echtzeit",
-     "Fernsehprogramme"
+     "Das Fernsehprogramm der nationalen Sender"
     ],
     "correct": 2,
     "explanation": "Das Portal bietet praktische Dienste wie Luftqualitätsmessungen in Echtzeit und die Badegewässerqualität sowie Informationen zu Hochwasser und Verschmutzung – nützlich vor einem Sommerbad oder an einem Tag mit hoher Belastung."
@@ -76105,9 +76105,9 @@ const EPISODES = [
    {
     "text": "Wozu ermutigt das Portal über Regeln und Genehmigungen hinaus?",
     "options": [
-     "Zu nichts",
-     "Mehr Einwegplastik zu kaufen",
-     "Den Aufenthalt im Freien zu meiden",
+     "Nichts — es listet nur Regeln, Genehmigungen und Bußgelder auf",
+     "Mehr Einwegplastik kaufen, weil es sich leicht recyceln lässt",
+     "Tagsüber möglichst drinnen bleiben, um die Wildtiere im Wald nicht zu stören",
      "Hinaus in die Natur zu gehen und sie zu genießen – über Naturlehrpfade und Waldzentren"
     ],
     "correct": 3,
@@ -77574,10 +77574,10 @@ const EPISODES = [
    {
     "text": "What is SYVICOL?",
     "options": [
-     "A national bank",
-     "A political party",
+     "A national bank that lends money to the communes",
+     "A political party of mayors and local councillors",
      "The association uniting all of Luxembourg's communes",
-     "A supermarket chain"
+     "A supermarket chain owned by several communes"
     ],
     "correct": 2,
     "explanation": "SYVICOL — the Syndicat des Villes et Communes Luxembourgeoises — is the association that brings together all 100 communes of Luxembourg to promote, safeguard and defend their shared interests."
@@ -77596,8 +77596,8 @@ const EPISODES = [
    {
     "text": "Who is SYVICOL's main partner when laws affect local life?",
     "options": [
-     "A foreign government",
-     "A private company",
+     "A foreign government from the Greater Region",
+     "A private consulting company",
      "The European Central Bank",
      "The national government"
     ],
@@ -77608,9 +77608,9 @@ const EPISODES = [
     "text": "What important role does SYVICOL play in lawmaking?",
     "options": [
      "It gives formal opinions on draft laws that affect the communes",
-     "It writes all the laws itself",
-     "It votes in Parliament",
-     "It has no role"
+     "It writes all the laws itself and sends them to Parliament to be signed",
+     "It votes in Parliament with one seat for each commune in the country",
+     "It has no role at all; laws are made without asking the communes"
     ],
     "correct": 0,
     "explanation": "When a draft law concerns the communes, SYVICOL studies it and gives a formal opinion, carrying real, practical local experience into national decisions."
@@ -77618,10 +77618,10 @@ const EPISODES = [
    {
     "text": "What else does SYVICOL do for the communes?",
     "options": [
-     "Nothing else",
-     "Collects their taxes",
+     "Nothing else — it only meets once a year",
+     "Collects their local taxes and fees for them",
      "Helps them share knowledge and supports local councillors",
-     "Runs their schools directly"
+     "Runs the communes' primary schools directly, with its own teachers"
     ],
     "correct": 2,
     "explanation": "SYVICOL also helps communes consult each other and share good practice, supports local elected representatives with information and training, and represents the communes in Europe."
@@ -77646,10 +77646,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que le SYVICOL ?",
     "options": [
-     "Une banque nationale",
-     "Un parti politique",
+     "Une banque nationale qui prête de l'argent aux communes",
+     "Un parti politique de maires et de conseillers communaux",
      "L'association qui réunit toutes les communes du Luxembourg",
-     "Une chaîne de supermarchés"
+     "Une chaîne de supermarchés appartenant à plusieurs communes"
     ],
     "correct": 2,
     "explanation": "Le SYVICOL — le Syndicat des Villes et Communes Luxembourgeoises — est l'association qui rassemble les 100 communes du Luxembourg pour promouvoir, sauvegarder et défendre leurs intérêts communs."
@@ -77668,8 +77668,8 @@ const EPISODES = [
    {
     "text": "Qui est le partenaire principal du SYVICOL lorsque des lois touchent la vie locale ?",
     "options": [
-     "Un gouvernement étranger",
-     "Une entreprise privée",
+     "Un gouvernement étranger de la Grande Région",
+     "Une société de conseil privée",
      "La Banque centrale européenne",
      "Le gouvernement national"
     ],
@@ -77680,9 +77680,9 @@ const EPISODES = [
     "text": "Quel rôle important le SYVICOL joue-t-il dans l'élaboration des lois ?",
     "options": [
      "Il donne des avis sur les projets de loi qui concernent les communes",
-     "Il rédige lui-même toutes les lois",
-     "Il vote au Parlement",
-     "Il n'a aucun rôle"
+     "Il rédige lui-même toutes les lois et les envoie à la Chambre pour signature",
+     "Il vote à la Chambre des députés avec un siège pour chaque commune du pays",
+     "Il n'a aucun rôle ; les lois sont faites sans consulter les communes"
     ],
     "correct": 0,
     "explanation": "Lorsqu'un projet de loi concerne les communes, le SYVICOL l'étudie et donne un avis, apportant une expérience locale réelle et concrète dans les décisions nationales."
@@ -77690,10 +77690,10 @@ const EPISODES = [
    {
     "text": "Que fait encore le SYVICOL pour les communes ?",
     "options": [
-     "Rien d'autre",
-     "Il perçoit leurs impôts",
+     "Rien d'autre — il ne se réunit qu'une fois par an",
+     "Il perçoit à leur place leurs impôts et taxes locales",
      "Il les aide à partager leurs connaissances et soutient les élus locaux",
-     "Il gère directement leurs écoles"
+     "Il gère directement les écoles fondamentales des communes, avec ses propres enseignants"
     ],
     "correct": 2,
     "explanation": "Le SYVICOL aide aussi les communes à se concerter et à échanger leurs bonnes pratiques, soutient les élus locaux par l'information et la formation, et représente les communes en Europe."
@@ -77715,10 +77715,10 @@ const EPISODES = [
    {
     "text": "Was ist SYVICOL?",
     "options": [
-     "Eine Nationalbank",
-     "Eine politische Partei",
+     "Eine nationale Bank, die den Gemeinden Geld leiht",
+     "Eine politische Partei von Bürgermeistern und Gemeinderäten",
      "Der Verband, der alle Gemeinden Luxemburgs vereint",
-     "Eine Supermarktkette"
+     "Eine Supermarktkette im Besitz mehrerer Gemeinden"
     ],
     "correct": 2,
     "explanation": "SYVICOL – der Syndicat des Villes et Communes Luxembourgeoises – ist der Verband, der alle 100 Gemeinden Luxemburgs zusammenführt, um ihre gemeinsamen Interessen zu fördern, zu wahren und zu verteidigen."
@@ -77737,8 +77737,8 @@ const EPISODES = [
    {
     "text": "Wer ist der wichtigste Partner von SYVICOL, wenn Gesetze das kommunale Leben betreffen?",
     "options": [
-     "Eine ausländische Regierung",
-     "Ein privates Unternehmen",
+     "Eine ausländische Regierung aus der Großregion",
+     "Ein privates Beratungsunternehmen",
      "Die Europäische Zentralbank",
      "Die nationale Regierung"
     ],
@@ -77749,9 +77749,9 @@ const EPISODES = [
     "text": "Welche wichtige Rolle spielt SYVICOL in der Gesetzgebung?",
     "options": [
      "Es gibt Gutachten zu Gesetzentwürfen ab, die die Gemeinden betreffen",
-     "Es verfasst alle Gesetze selbst",
-     "Es stimmt im Parlament ab",
-     "Es hat keine Rolle"
+     "Es schreibt alle Gesetze selbst und schickt sie der Abgeordnetenkammer zur Unterschrift",
+     "Es stimmt im Parlament mit, mit einem Sitz für jede Gemeinde des Landes",
+     "Es hat gar keine Rolle; Gesetze werden gemacht, ohne die Gemeinden zu fragen"
     ],
     "correct": 0,
     "explanation": "Wenn ein Gesetzentwurf die Gemeinden betrifft, prüft SYVICOL ihn und gibt eine Stellungnahme ab und bringt so echte, praktische kommunale Erfahrung in nationale Entscheidungen ein."
@@ -77759,10 +77759,10 @@ const EPISODES = [
    {
     "text": "Was tut SYVICOL noch für die Gemeinden?",
     "options": [
-     "Nichts weiter",
-     "Es zieht ihre Steuern ein",
+     "Nichts weiter — es trifft sich nur einmal im Jahr",
+     "Es zieht für sie ihre lokalen Steuern und Gebühren ein",
      "Es hilft ihnen, Wissen auszutauschen, und unterstützt kommunale Mandatsträger",
-     "Es führt ihre Schulen direkt"
+     "Es führt die Grundschulen der Gemeinden direkt, mit eigenen Lehrkräften und Direktoren"
     ],
     "correct": 2,
     "explanation": "SYVICOL hilft den Gemeinden auch, sich untereinander zu beraten und bewährte Praktiken auszutauschen, unterstützt kommunale Mandatsträger mit Informationen und Weiterbildung und vertritt die Gemeinden in Europa."
@@ -79153,10 +79153,10 @@ const EPISODES = [
    {
     "text": "What is Research Luxembourg?",
     "options": [
-     "A single private laboratory",
-     "A university abroad",
+     "A single private laboratory that sells research to companies",
+     "A university abroad that trains Luxembourg's scientists",
      "A joint initiative uniting the country's main public-research players",
-     "A tech shop"
+     "A chain of technology shops selling the latest inventions"
     ],
     "correct": 2,
     "explanation": "Research Luxembourg is a joint initiative of the country's main public-research actors, supported by the Ministry of Higher Education and Research, working together to promote research and make an impact."
@@ -79164,10 +79164,10 @@ const EPISODES = [
    {
     "text": "Which of these is part of Research Luxembourg?",
     "options": [
-     "A football club",
+     "The national football federation and its training centre",
      "The University of Luxembourg and institutes like LIST, LIH and LISER",
-     "A supermarket",
-     "A bank"
+     "A supermarket chain with its own food laboratory",
+     "A bank that invests in start-ups and technology firms"
     ],
     "correct": 1,
     "explanation": "Its members include the University of Luxembourg, the Luxembourg Institute of Science and Technology (LIST), the Luxembourg Institute of Health (LIH), the Luxembourg Institute of Socio-Economic Research (LISER), the National Research Fund (FNR) and Luxinnovation."
@@ -79175,9 +79175,9 @@ const EPISODES = [
    {
     "text": "What is the main role of the FNR?",
     "options": [
-     "To build roads",
-     "To sell technology",
-     "To run hospitals",
+     "To build roads and bridges for the State",
+     "To sell technology products abroad",
+     "To run the country's hospitals and clinics",
      "To fund research and support researchers"
     ],
     "correct": 3,
@@ -79187,9 +79187,9 @@ const EPISODES = [
     "text": "What is Belval?",
     "options": [
      "A former steelworks site reborn as a research and innovation campus",
-     "A shopping centre",
-     "A football stadium",
-     "An airport"
+     "A new shopping centre built on farmland outside the capital",
+     "A football stadium that hosts the national team's matches",
+     "An airport for small planes in the south of the country"
     ],
     "correct": 0,
     "explanation": "Belval, in Esch-sur-Alzette, is a former steelworks site transformed into a modern campus for research and learning — a symbol of a country moving from heavy industry towards knowledge."
@@ -79197,9 +79197,9 @@ const EPISODES = [
    {
     "text": "Why does public research matter for ordinary people?",
     "options": [
-     "It doesn't",
-     "It only helps people abroad",
-     "It raises taxes",
+     "It doesn't — it only produces articles for other researchers",
+     "It only helps people abroad, because the results are sold to other countries",
+     "It mainly raises taxes, because research is paid for by every household",
      "It improves health, the economy and our understanding of society"
     ],
     "correct": 3,
@@ -79225,10 +79225,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que Research Luxembourg ?",
     "options": [
-     "Un unique laboratoire privé",
-     "Une université à l'étranger",
+     "Un laboratoire privé unique qui vend de la recherche aux entreprises",
+     "Une université à l'étranger qui forme les scientifiques luxembourgeois",
      "Une initiative commune qui réunit les principaux acteurs de la recherche publique du pays",
-     "Un magasin de technologie"
+     "Une chaîne de magasins technologiques qui vend les dernières inventions des chercheurs"
     ],
     "correct": 2,
     "explanation": "Research Luxembourg est une initiative commune des principaux acteurs de la recherche publique du pays, soutenue par le ministère de l'Enseignement supérieur et de la Recherche, qui travaillent ensemble pour promouvoir la recherche et avoir un impact."
@@ -79236,10 +79236,10 @@ const EPISODES = [
    {
     "text": "Lequel de ces éléments fait partie de Research Luxembourg ?",
     "options": [
-     "Un club de football",
+     "La fédération nationale de football et son centre de formation",
      "L'Université du Luxembourg et des instituts comme LIST, LIH et LISER",
-     "Un supermarché",
-     "Une banque"
+     "Une chaîne de supermarchés avec son propre laboratoire alimentaire",
+     "Une banque qui investit dans les start-up et les entreprises technologiques"
     ],
     "correct": 1,
     "explanation": "Ses membres comprennent l'Université du Luxembourg, le Luxembourg Institute of Science and Technology (LIST), le Luxembourg Institute of Health (LIH), le Luxembourg Institute of Socio-Economic Research (LISER), le Fonds national de la recherche (FNR) et Luxinnovation."
@@ -79247,9 +79247,9 @@ const EPISODES = [
    {
     "text": "Quel est le rôle principal du FNR ?",
     "options": [
-     "Construire des routes",
-     "Vendre de la technologie",
-     "Gérer des hôpitaux",
+     "Construire des routes et des ponts pour l'État",
+     "Vendre des produits technologiques à l'étranger",
+     "Gérer les hôpitaux et cliniques du pays",
      "Financer la recherche et soutenir les chercheurs"
     ],
     "correct": 3,
@@ -79259,9 +79259,9 @@ const EPISODES = [
     "text": "Qu'est-ce que Belval ?",
     "options": [
      "Un ancien site sidérurgique réhabilité en campus de recherche et d'innovation",
-     "Un centre commercial",
-     "Un stade de football",
-     "Un aéroport"
+     "Un nouveau centre commercial construit sur des terres agricoles hors de la capitale",
+     "Un stade de football où joue l'équipe nationale",
+     "Un aéroport pour petits avions dans le sud du pays"
     ],
     "correct": 0,
     "explanation": "Belval, à Esch-sur-Alzette, est un ancien site sidérurgique transformé en un campus moderne de recherche et d'apprentissage — symbole d'un pays passant de l'industrie lourde au savoir."
@@ -79269,9 +79269,9 @@ const EPISODES = [
    {
     "text": "Pourquoi la recherche publique est-elle importante pour les citoyens ordinaires ?",
     "options": [
-     "Elle ne l'est pas",
-     "Elle n'aide que les gens à l'étranger",
-     "Elle augmente les impôts",
+     "Elle n'a pas d'importance — elle ne produit que des articles pour d'autres chercheurs",
+     "Elle n'aide que des gens à l'étranger, car les résultats sont vendus à d'autres pays",
+     "Elle fait surtout augmenter les impôts, car chaque ménage paie la recherche",
      "Elle améliore la santé, l'économie et notre compréhension de la société"
     ],
     "correct": 3,
@@ -79294,10 +79294,10 @@ const EPISODES = [
    {
     "text": "Was ist Research Luxembourg?",
     "options": [
-     "Ein einzelnes privates Labor",
-     "Eine Universität im Ausland",
+     "Ein einzelnes privates Labor, das Forschung an Unternehmen verkauft",
+     "Eine Universität im Ausland, die im Auftrag des Staates die Wissenschaftler Luxemburgs ausbildet",
      "Eine gemeinsame Initiative, die die wichtigsten öffentlichen Forschungsakteure des Landes vereint",
-     "Ein Technikgeschäft"
+     "Eine Kette von Technikläden, die die neuesten Erfindungen verkauft"
     ],
     "correct": 2,
     "explanation": "Research Luxembourg ist eine gemeinsame Initiative der wichtigsten öffentlichen Forschungsakteure des Landes, unterstützt vom Ministerium für Hochschulwesen und Forschung, die zusammenarbeiten, um die Forschung zu fördern und Wirkung zu erzielen."
@@ -79305,10 +79305,10 @@ const EPISODES = [
    {
     "text": "Welches davon ist Teil von Research Luxembourg?",
     "options": [
-     "Ein Fußballverein",
+     "Der nationale Fußballverband und sein Trainingszentrum",
      "Die Universität Luxemburg und Institute wie LIST, LIH und LISER",
-     "Ein Supermarkt",
-     "Eine Bank"
+     "Eine Supermarktkette mit eigenem Lebensmittellabor",
+     "Eine Bank, die gezielt in Start-ups und Technologiefirmen investiert"
     ],
     "correct": 1,
     "explanation": "Zu seinen Mitgliedern gehören die Universität Luxemburg, das Luxembourg Institute of Science and Technology (LIST), das Luxembourg Institute of Health (LIH), das Luxembourg Institute of Socio-Economic Research (LISER), der Nationale Forschungsfonds (FNR) und Luxinnovation."
@@ -79316,9 +79316,9 @@ const EPISODES = [
    {
     "text": "Was ist die Hauptaufgabe des FNR?",
     "options": [
-     "Straßen zu bauen",
-     "Technologie zu verkaufen",
-     "Krankenhäuser zu betreiben",
+     "Straßen und Brücken für den Staat bauen",
+     "Technologieprodukte ins Ausland verkaufen",
+     "Die Krankenhäuser und Kliniken des Landes betreiben",
      "Forschung zu fördern und Forschende zu unterstützen"
     ],
     "correct": 3,
@@ -79328,9 +79328,9 @@ const EPISODES = [
     "text": "Was ist Belval?",
     "options": [
      "Ein ehemaliges Stahlwerksgelände, das als Forschungs- und Innovationscampus wiedergeboren wurde",
-     "Ein Einkaufszentrum",
-     "Ein Fußballstadion",
-     "Ein Flughafen"
+     "Ein neues Einkaufszentrum mit Kino, das auf Ackerland außerhalb der Hauptstadt gebaut wurde",
+     "Ein Fußballstadion, in dem die Nationalmannschaft spielt",
+     "Ein Flugplatz für Kleinflugzeuge im Süden des Landes"
     ],
     "correct": 0,
     "explanation": "Belval in Esch-sur-Alzette ist ein ehemaliges Stahlwerksgelände, das in einen modernen Campus für Forschung und Lehre umgewandelt wurde – ein Symbol für ein Land, das sich von der Schwerindustrie hin zum Wissen bewegt."
@@ -79338,9 +79338,9 @@ const EPISODES = [
    {
     "text": "Warum ist öffentliche Forschung für die Menschen wichtig?",
     "options": [
-     "Sie ist es nicht",
-     "Sie hilft nur Menschen im Ausland",
-     "Sie erhöht die Steuern",
+     "Gar nicht — sie produziert nur Artikel für andere Forschende",
+     "Sie hilft nur Menschen im Ausland, weil die Ergebnisse an andere Länder verkauft werden",
+     "Sie erhöht vor allem die Steuern, weil jeder Haushalt die Forschung bezahlt",
      "Sie verbessert die Gesundheit, die Wirtschaft und unser Verständnis der Gesellschaft"
     ],
     "correct": 3,
@@ -80813,9 +80813,9 @@ const EPISODES = [
     "text": "What does the agriculture portal (agriculture.public.lu) cover?",
     "options": [
      "Farming, food and wine in Luxembourg",
-     "Only tractors for sale",
-     "Only the weather",
-     "Stock prices"
+     "Only tractors and farm machines for sale",
+     "Only the weather forecast for farmers",
+     "Stock prices of food and drink companies"
     ],
     "correct": 0,
     "explanation": "The agriculture portal, run by the Ministry of Agriculture, Food and Viticulture, brings together information on farming, food, viticulture (wine) and agricultural products."
@@ -80823,9 +80823,9 @@ const EPISODES = [
    {
     "text": "What does “viticulture” mean?",
     "options": [
-     "Keeping bees",
-     "Raising cattle",
-     "Growing wheat",
+     "Keeping bees to produce honey",
+     "Raising cattle for milk and meat",
+     "The growing of wheat and other cereals",
      "The growing of grapes, for wine"
     ],
     "correct": 3,
@@ -80834,10 +80834,10 @@ const EPISODES = [
    {
     "text": "What is ASTA?",
     "options": [
-     "A supermarket chain",
-     "A bank for farmers",
+     "A supermarket chain that sells only local farm products",
+     "A bank that gives loans to farmers for machines and land",
      "The technical agricultural services administration that advises and supports farmers",
-     "A wine brand"
+     "A wine brand from the Moselle that belongs to a group of winegrowers"
     ],
     "correct": 2,
     "explanation": "ASTA, the Administration des services techniques de l'agriculture, is the science and support behind farming — giving advice, watching the weather, warning about crop diseases and pests, and supporting more sustainable farming."
@@ -80845,10 +80845,10 @@ const EPISODES = [
    {
     "text": "What does Luxembourg's animal protection law protect?",
     "options": [
-     "Only farm animals' prices",
+     "Only the market prices of farm animals when they are sold",
      "The dignity, safety and wellbeing of animals throughout their life",
-     "Only wild animals abroad",
-     "Nothing — it is only a guideline"
+     "Only wild animals living abroad, in other countries' forests",
+     "Nothing — it is only a guideline that farmers may follow if they wish"
     ],
     "correct": 1,
     "explanation": "Luxembourg's animal protection law protects the dignity, safety and wellbeing of animals throughout their whole life. It matters not only for farm animals but for pet owners too."
@@ -80857,9 +80857,9 @@ const EPISODES = [
     "text": "What is one simple way a citizen can support good farming?",
     "options": [
      "Choose local and seasonal products, and try organic ones",
-     "Never eat vegetables",
-     "Only buy imported food",
-     "Avoid all Luxembourg wine"
+     "Never eat vegetables, so that farmers can keep more for animals",
+     "Only buy imported food, because it is always checked more strictly",
+     "Avoid all Luxembourg wine, so that winegrowers can export more of it abroad"
     ],
     "correct": 0,
     "explanation": "Buying local and seasonal products supports nearby farmers, often tastes better and travels less. Luxembourg is also growing organic farming through its PAN-Bio action plan."
@@ -80885,9 +80885,9 @@ const EPISODES = [
     "text": "Que couvre le portail de l'agriculture (agriculture.public.lu) ?",
     "options": [
      "L'agriculture, l'alimentation et le vin au Luxembourg",
-     "Uniquement des tracteurs à vendre",
-     "Uniquement la météo",
-     "Les cours de la bourse"
+     "Uniquement des tracteurs et machines agricoles à vendre",
+     "Uniquement la météo pour les agriculteurs",
+     "Les cours de bourse des entreprises alimentaires"
     ],
     "correct": 0,
     "explanation": "Le portail de l'agriculture, géré par le ministère de l'Agriculture, de l'Alimentation et de la Viticulture, rassemble les informations sur l'agriculture, l'alimentation, la viticulture (le vin) et les produits agricoles."
@@ -80895,9 +80895,9 @@ const EPISODES = [
    {
     "text": "Que signifie « viticulture » ?",
     "options": [
-     "L'apiculture",
-     "L'élevage de bovins",
-     "La culture du blé",
+     "L'élevage d'abeilles pour produire du miel",
+     "L'élevage de bovins pour le lait et la viande",
+     "La culture du blé et d'autres céréales",
      "La culture de la vigne, pour le vin"
     ],
     "correct": 3,
@@ -80906,10 +80906,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que l'ASTA ?",
     "options": [
-     "Une chaîne de supermarchés",
-     "Une banque pour agriculteurs",
+     "Une chaîne de supermarchés qui ne vend que des produits de la ferme locaux, à des prix fixés par l'État",
+     "Une banque qui prête aux agriculteurs pour des machines et des terres",
      "L'administration des services techniques de l'agriculture, qui conseille et soutient les agriculteurs",
-     "Une marque de vin"
+     "Une marque de vin de la Moselle appartenant à un groupe de vignerons"
     ],
     "correct": 2,
     "explanation": "L'ASTA, l'Administration des services techniques de l'agriculture, est le soutien scientifique et technique de l'agriculture : conseils, surveillance de la météo, alertes sur les maladies et ravageurs des cultures, et soutien à une agriculture plus durable."
@@ -80917,10 +80917,10 @@ const EPISODES = [
    {
     "text": "Que protège la loi luxembourgeoise sur la protection des animaux ?",
     "options": [
-     "Uniquement le prix des animaux de ferme",
+     "Uniquement les prix de vente des animaux de ferme sur le marché",
      "La dignité, la sécurité et le bien-être des animaux tout au long de leur vie",
-     "Uniquement les animaux sauvages à l'étranger",
-     "Rien — ce n'est qu'une recommandation"
+     "Uniquement les animaux sauvages vivant à l'étranger, dans les forêts d'autres pays",
+     "Rien — ce n'est qu'une recommandation que les agriculteurs suivent s'ils le veulent"
     ],
     "correct": 1,
     "explanation": "La loi luxembourgeoise sur la protection des animaux protège la dignité, la sécurité et le bien-être des animaux tout au long de leur vie. Elle concerne non seulement les animaux de ferme, mais aussi les propriétaires d'animaux de compagnie."
@@ -80929,9 +80929,9 @@ const EPISODES = [
     "text": "Quelle est une façon simple, pour un citoyen, de soutenir une bonne agriculture ?",
     "options": [
      "Choisir des produits locaux et de saison, et essayer le bio",
-     "Ne jamais manger de légumes",
-     "N'acheter que des aliments importés",
-     "Éviter tout vin luxembourgeois"
+     "Ne jamais manger de légumes, pour que les agriculteurs en gardent plus pour les animaux",
+     "N'acheter que des aliments importés, car ils sont toujours mieux contrôlés",
+     "Éviter tout vin luxembourgeois, pour que les vignerons en exportent davantage"
     ],
     "correct": 0,
     "explanation": "Acheter des produits locaux et de saison soutient les agriculteurs proches de chez vous, a souvent meilleur goût et voyage moins. Le Luxembourg développe aussi l'agriculture biologique grâce à son plan d'action PAN-Bio."
@@ -80954,9 +80954,9 @@ const EPISODES = [
     "text": "Was deckt das Agrarportal (agriculture.public.lu) ab?",
     "options": [
      "Landwirtschaft, Ernährung und Wein in Luxemburg",
-     "Nur Traktoren zum Verkauf",
-     "Nur das Wetter",
-     "Börsenkurse"
+     "Nur Traktoren und Landmaschinen zum Verkauf",
+     "Nur die Wettervorhersage für Landwirte",
+     "Aktienkurse von Lebensmittel- und Getränkefirmen"
     ],
     "correct": 0,
     "explanation": "Das Agrarportal, betrieben vom Ministerium für Landwirtschaft, Ernährung und Weinbau, bündelt Informationen über Landwirtschaft, Ernährung, Weinbau (Wein) und landwirtschaftliche Produkte."
@@ -80964,9 +80964,9 @@ const EPISODES = [
    {
     "text": "Was bedeutet „Weinbau“ (viticulture)?",
     "options": [
-     "Imkerei",
-     "Rinderzucht",
-     "Weizenanbau",
+     "Das Halten von Bienen für Honig",
+     "Die Rinderzucht für Milch und Fleisch",
+     "Der Anbau von Weizen und anderem Getreide",
      "Der Anbau von Trauben, für Wein"
     ],
     "correct": 3,
@@ -80975,10 +80975,10 @@ const EPISODES = [
    {
     "text": "Was ist die ASTA?",
     "options": [
-     "Eine Supermarktkette",
-     "Eine Bank für Landwirte",
+     "Eine Supermarktkette, die nur lokale Hofprodukte verkauft",
+     "Eine Bank, die Landwirten Kredite für Maschinen und Land gibt",
      "Die Verwaltung der technischen Agrardienste, die Landwirte berät und unterstützt",
-     "Eine Weinmarke"
+     "Eine bekannte Weinmarke von der Mosel, die einer Genossenschaft von Winzern gehört"
     ],
     "correct": 2,
     "explanation": "Die ASTA, die Administration des services techniques de l'agriculture, ist die wissenschaftliche und technische Unterstützung der Landwirtschaft: Beratung, Wetterüberwachung, Warnungen vor Pflanzenkrankheiten und Schädlingen sowie Unterstützung einer nachhaltigeren Landwirtschaft."
@@ -80986,10 +80986,10 @@ const EPISODES = [
    {
     "text": "Was schützt das luxemburgische Tierschutzgesetz?",
     "options": [
-     "Nur den Preis von Nutztieren",
+     "Nur die Marktpreise von Nutztieren beim Verkauf",
      "Die Würde, die Sicherheit und das Wohlergehen der Tiere ihr ganzes Leben lang",
-     "Nur Wildtiere im Ausland",
-     "Nichts — es ist nur eine Empfehlung"
+     "Nur Wildtiere im Ausland, in den Wäldern anderer Länder",
+     "Nichts — es ist nur eine Leitlinie, der Landwirte folgen können, wenn sie wollen"
     ],
     "correct": 1,
     "explanation": "Das luxemburgische Tierschutzgesetz schützt die Würde, die Sicherheit und das Wohlergehen der Tiere ihr ganzes Leben lang. Es betrifft nicht nur Nutztiere, sondern auch Haustierhalter."
@@ -80998,9 +80998,9 @@ const EPISODES = [
     "text": "Was ist eine einfache Möglichkeit für Bürger, eine gute Landwirtschaft zu unterstützen?",
     "options": [
      "Lokale und saisonale Produkte wählen und Bio ausprobieren",
-     "Nie Gemüse essen",
-     "Nur importierte Lebensmittel kaufen",
-     "Jeden luxemburgischen Wein meiden"
+     "Nie Gemüse essen, damit Landwirte mehr für die Tiere behalten",
+     "Nur importierte Lebensmittel kaufen, weil sie immer strenger kontrolliert werden",
+     "Jeden luxemburgischen Wein meiden, damit die Winzer mehr exportieren können"
     ],
     "correct": 0,
     "explanation": "Der Kauf lokaler und saisonaler Produkte unterstützt die Landwirte in Ihrer Nähe, schmeckt oft besser und legt kürzere Wege zurück. Luxemburg baut die biologische Landwirtschaft auch über seinen Aktionsplan PAN-Bio aus."
@@ -82486,10 +82486,10 @@ const EPISODES = [
    {
     "text": "What is spatial planning (\"aménagement du territoire\")?",
     "options": [
-     "A way to design house interiors",
+     "A way to design house interiors and choose furniture",
      "How the State and communes plan the use of the country's land for the long term",
-     "A tax on land",
-     "A type of farming"
+     "A tax that owners pay on every plot of land",
+     "A type of farming that rotates crops between fields"
     ],
     "correct": 1,
     "explanation": "Spatial planning is the set of actions by the State and the communes to develop the national territory wisely — balancing housing, transport, the economy and nature, protecting landscapes and using the soil rationally."
@@ -82497,10 +82497,10 @@ const EPISODES = [
    {
     "text": "Why does spatial planning matter so much in Luxembourg?",
     "options": [
-     "Because the country has unlimited land",
-     "Because no one lives there",
+     "Because the country has unlimited land for everyone",
+     "Because almost no one lives there outside the capital",
      "Because land is limited and many needs compete for it",
-     "Because it is only about tourism"
+     "Because it is only about attracting more tourists every year"
     ],
     "correct": 2,
     "explanation": "Luxembourg is small, so land is precious. Housing, transport, the economy and nature all need space. Planning coordinates these competing needs so the country grows in a balanced, sustainable way."
@@ -82509,9 +82509,9 @@ const EPISODES = [
     "text": "What are the sectoral master plans?",
     "options": [
      "Coordinated plans that reserve and protect land for transport, housing, economic zones and landscapes",
-     "Plans for the army",
-     "Plans for school holidays",
-     "Private building plans"
+     "Secret plans for the army and the defence of the country's borders and airspace",
+     "Plans that fix the dates of school holidays and public events in every commune",
+     "Private building plans that owners must submit before they renovate their house"
     ],
     "correct": 0,
     "explanation": "The sectoral master plans are regulatory plans that decide, in a coordinated way, what land is for — for example reserving land for housing near transport, or protecting green landscapes from being built over."
@@ -82519,9 +82519,9 @@ const EPISODES = [
    {
     "text": "What is a key principle of good spatial planning?",
     "options": [
-     "Spreading building everywhere",
-     "Building only in forests",
-     "Avoiding all towns",
+     "Spreading new buildings evenly everywhere, including far from roads and railways",
+     "Building mainly in forests, to keep farmland free for crops",
+     "Avoiding towns and villages, so that each new home stands on its own",
      "Concentrating homes and activity near transport and services"
     ],
     "correct": 3,
@@ -82530,10 +82530,10 @@ const EPISODES = [
    {
     "text": "How can citizens take part in spatial planning?",
     "options": [
-     "They cannot",
+     "They cannot — plans are decided by experts only",
      "Through public consultations when plans affect their area",
-     "Only by moving abroad",
-     "Only by paying a fee"
+     "Only by moving to another commune if they disagree with a plan",
+     "Only by paying a fee to the ministry before giving their opinion"
     ],
     "correct": 1,
     "explanation": "Big plans often go through public consultation. Citizens can inform themselves and, when a plan affects their commune, give their view. The portal publishes the strategy, plans and news openly."
@@ -82558,10 +82558,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que l'aménagement du territoire ?",
     "options": [
-     "Une façon de concevoir l'intérieur des maisons",
+     "Une façon d'aménager l'intérieur des maisons, de choisir les meubles et les couleurs des pièces",
      "La manière dont l'État et les communes planifient l'usage du sol du pays sur le long terme",
-     "Une taxe sur le foncier",
-     "Un type d'agriculture"
+     "Un impôt que les propriétaires paient sur chaque terrain",
+     "Un type d'agriculture qui fait tourner les cultures entre les champs"
     ],
     "correct": 1,
     "explanation": "L'aménagement du territoire est l'ensemble des actions de l'État et des communes pour développer judicieusement le territoire national — en conciliant le logement, les transports, l'économie et la nature, en protégeant les paysages et en utilisant le sol de façon rationnelle."
@@ -82569,10 +82569,10 @@ const EPISODES = [
    {
     "text": "Pourquoi l'aménagement du territoire est-il si important au Luxembourg ?",
     "options": [
-     "Parce que le pays dispose d'un sol illimité",
-     "Parce que personne n'y vit",
+     "Parce que le pays a des terrains illimités pour tout le monde",
+     "Parce que presque personne n'y vit en dehors de la capitale",
      "Parce que le sol est limité et que de nombreux besoins se le disputent",
-     "Parce qu'il ne concerne que le tourisme"
+     "Parce qu'il s'agit seulement d'attirer plus de touristes chaque année"
     ],
     "correct": 2,
     "explanation": "Le Luxembourg est petit, le sol y est donc précieux. Le logement, les transports, l'économie et la nature ont tous besoin d'espace. La planification coordonne ces besoins concurrents pour que le pays se développe de manière équilibrée et durable."
@@ -82581,9 +82581,9 @@ const EPISODES = [
     "text": "Que sont les plans directeurs sectoriels ?",
     "options": [
      "Des plans coordonnés qui réservent et protègent le sol pour les transports, le logement, les zones économiques et les paysages",
-     "Des plans pour l'armée",
-     "Des plans pour les vacances scolaires",
-     "Des plans de construction privés"
+     "Des plans secrets pour l'armée et la défense des frontières et de l'espace aérien",
+     "Des plans qui fixent les dates des vacances scolaires et des événements dans chaque commune",
+     "Des plans de construction privés que les propriétaires doivent déposer à la commune avant de rénover ou d'agrandir leur maison"
     ],
     "correct": 0,
     "explanation": "Les plans directeurs sectoriels sont des plans réglementaires qui décident, de manière coordonnée, de la destination du sol — par exemple en réservant du terrain pour le logement à proximité des transports, ou en protégeant les paysages verts de l'urbanisation."
@@ -82591,9 +82591,9 @@ const EPISODES = [
    {
     "text": "Quel est un principe clé d'un bon aménagement du territoire ?",
     "options": [
-     "Disséminer les constructions partout",
-     "Construire uniquement dans les forêts",
-     "Éviter toutes les villes",
+     "Répartir les nouveaux bâtiments partout dans le pays, même loin des routes, des gares et des services",
+     "Construire surtout en forêt, pour garder les terres agricoles libres",
+     "Éviter les villes et villages, pour que chaque nouvelle maison soit isolée",
      "Concentrer les logements et les activités à proximité des transports et des services"
     ],
     "correct": 3,
@@ -82602,10 +82602,10 @@ const EPISODES = [
    {
     "text": "Comment les citoyens peuvent-ils participer à l'aménagement du territoire ?",
     "options": [
-     "Ils ne le peuvent pas",
+     "Ils ne peuvent pas — les plans sont décidés uniquement par des experts",
      "Par le biais de consultations publiques lorsque les plans concernent leur région",
-     "Uniquement en partant à l'étranger",
-     "Uniquement en payant une redevance"
+     "Seulement en déménageant dans une autre commune s'ils ne sont pas d'accord",
+     "Seulement en payant des frais au ministère avant de donner leur avis"
     ],
     "correct": 1,
     "explanation": "Les grands plans passent souvent par une consultation publique. Les citoyens peuvent s'informer et, lorsqu'un plan concerne leur commune, donner leur avis. Le portail publie ouvertement la stratégie, les plans et les actualités."
@@ -82627,10 +82627,10 @@ const EPISODES = [
    {
     "text": "Was ist Raumordnung („aménagement du territoire“)?",
     "options": [
-     "Eine Art, Hausinnenräume zu gestalten",
+     "Eine Art, Innenräume zu gestalten und Möbel auszuwählen",
      "Wie Staat und Gemeinden die Nutzung des Bodens des Landes langfristig planen",
-     "Eine Steuer auf Grundstücke",
-     "Eine Form der Landwirtschaft"
+     "Eine Steuer, die Eigentümer auf jedes Grundstück zahlen",
+     "Eine Form der Landwirtschaft mit regelmäßigem Fruchtwechsel zwischen den Feldern"
     ],
     "correct": 1,
     "explanation": "Raumordnung und Landesplanung sind die Gesamtheit der Maßnahmen von Staat und Gemeinden, um das nationale Gebiet sinnvoll zu entwickeln – im Gleichgewicht zwischen Wohnen, Verkehr, Wirtschaft und Natur, mit Schutz der Landschaften und einer rationellen Nutzung des Bodens."
@@ -82638,10 +82638,10 @@ const EPISODES = [
    {
     "text": "Warum ist Raumordnung in Luxemburg so wichtig?",
     "options": [
-     "Weil das Land über unbegrenzten Boden verfügt",
-     "Weil dort niemand wohnt",
+     "Weil das Land unbegrenzt Fläche für alle hat",
+     "Weil außerhalb der Hauptstadt fast niemand dort wohnt",
      "Weil der Boden begrenzt ist und viele Bedürfnisse um ihn konkurrieren",
-     "Weil es nur um Tourismus geht"
+     "Weil es nur darum geht, jedes Jahr noch mehr Touristen anzuziehen"
     ],
     "correct": 2,
     "explanation": "Luxemburg ist klein, daher ist Boden kostbar. Wohnen, Verkehr, Wirtschaft und Natur brauchen alle Platz. Die Planung koordiniert diese konkurrierenden Bedürfnisse, damit das Land ausgewogen und nachhaltig wächst."
@@ -82650,9 +82650,9 @@ const EPISODES = [
     "text": "Was sind die sektoralen Leitpläne?",
     "options": [
      "Koordinierte Pläne, die Boden für Verkehr, Wohnen, Wirtschaftszonen und Landschaften reservieren und schützen",
-     "Pläne für die Armee",
-     "Pläne für die Schulferien",
-     "Private Baupläne"
+     "Geheime Pläne für die Armee und die Verteidigung der Grenzen und des Luftraums",
+     "Pläne, die in jeder Gemeinde die Termine der Schulferien, der Märkte und der öffentlichen Veranstaltungen festlegen",
+     "Private Baupläne, die Eigentümer vor der Renovierung ihres Hauses einreichen müssen"
     ],
     "correct": 0,
     "explanation": "Die sektoralen Leitpläne sind regulatorische Pläne, die in koordinierter Weise festlegen, wofür Boden bestimmt ist – zum Beispiel die Reservierung von Boden für Wohnen in der Nähe von Verkehr oder der Schutz grüner Landschaften vor Bebauung."
@@ -82660,9 +82660,9 @@ const EPISODES = [
    {
     "text": "Was ist ein zentrales Prinzip guter Raumordnung?",
     "options": [
-     "Bebauung überall verteilen",
-     "Nur in Wäldern bauen",
-     "Alle Ortschaften meiden",
+     "Neue Gebäude gleichmäßig überall verteilen, auch weit weg von Straßen, Bahnen und Geschäften",
+     "Vor allem im Wald bauen, um Ackerland für den Anbau frei zu halten",
+     "Städte und Dörfer meiden, damit jedes neue Haus für sich allein steht",
      "Wohnen und Aktivitäten in der Nähe von Verkehr und Dienstleistungen konzentrieren"
     ],
     "correct": 3,
@@ -82671,10 +82671,10 @@ const EPISODES = [
    {
     "text": "Wie können sich Bürgerinnen und Bürger an der Raumordnung beteiligen?",
     "options": [
-     "Gar nicht",
+     "Gar nicht — die Pläne werden nur von Fachleuten entschieden",
      "Über öffentliche Konsultationen, wenn Pläne ihre Region betreffen",
-     "Nur durch Auswanderung",
-     "Nur durch Zahlung einer Gebühr"
+     "Nur indem sie in eine andere Gemeinde ziehen, wenn sie nicht einverstanden sind",
+     "Nur indem sie dem Ministerium eine Gebühr zahlen, bevor sie ihre Meinung sagen"
     ],
     "correct": 1,
     "explanation": "Große Pläne durchlaufen oft eine öffentliche Konsultation. Bürgerinnen und Bürger können sich informieren und, wenn ein Plan ihre Gemeinde betrifft, ihre Meinung äußern. Das Portal veröffentlicht Strategie, Pläne und Neuigkeiten offen."
@@ -84065,10 +84065,10 @@ const EPISODES = [
    {
     "text": "What is the AAA?",
     "options": [
-     "A private travel insurer",
-     "A bank",
+     "A private travel insurer for holidays abroad",
+     "A bank that lends money to injured workers",
      "Luxembourg's public accident insurance, part of social security",
-     "A driving school"
+     "A driving school that teaches accident prevention on the road"
     ],
     "correct": 2,
     "explanation": "The AAA, the Association d'assurance accident, is Luxembourg's public accident insurance and part of the social security system. It is there for you automatically."
@@ -84076,10 +84076,10 @@ const EPISODES = [
    {
     "text": "Which of these does the AAA cover?",
     "options": [
-     "Only accidents at home",
+     "Only accidents at home, such as falls in the kitchen or garden",
      "Accidents at work, on the way to work, at school, and occupational diseases",
-     "Only sports injuries",
-     "Only accidents abroad"
+     "Only sports injuries in clubs, during official competitions",
+     "Only accidents abroad, during business trips for your employer outside Luxembourg"
     ],
     "correct": 1,
     "explanation": "The AAA covers accidents at work, commuting accidents (on your normal way to or from work), accidents at school and around school activities, and occupational diseases caused by your work."
@@ -84087,9 +84087,9 @@ const EPISODES = [
    {
     "text": "What does the AAA do for you after a covered accident?",
     "options": [
-     "Nothing",
-     "It fines you",
-     "It only sends a leaflet",
+     "Nothing — it only records the accident in a statistic",
+     "It fines you if the accident was your own fault",
+     "It only sends you a leaflet on safety at work and closes the file without any payment",
      "It covers medical care and provides compensation for lasting effects or loss of income"
     ],
     "correct": 3,
@@ -84099,9 +84099,9 @@ const EPISODES = [
     "text": "How is the accident insurance mainly funded?",
     "options": [
      "By employer contributions, with a bonus-malus system",
-     "By a tax on food",
-     "By selling tickets",
-     "By the European Union only"
+     "By a special tax on food and drinks",
+     "By selling tickets for safety courses",
+     "By the European Union only, through its social fund"
     ],
     "correct": 0,
     "explanation": "The insurance is funded mainly by employers through contributions, with a bonus-malus system that rewards workplaces with fewer accidents — encouraging everyone to take safety seriously."
@@ -84109,10 +84109,10 @@ const EPISODES = [
    {
     "text": "What must happen for the AAA to act on an accident?",
     "options": [
-     "Nothing — it is automatic with no paperwork",
-     "You must go to court",
+     "Nothing — it acts automatically, with no paperwork at all",
+     "You must first go to court and win a case against your employer",
      "The accident must be declared, often by the employer, increasingly via MyGuichet",
-     "You must pay a fee first"
+     "You must pay a fee first, and wait at least six months before the AAA looks at the accident"
     ],
     "correct": 2,
     "explanation": "The accident must be declared to the AAA. For accidents at work, your employer normally makes the declaration, and much of this can now be done electronically through MyGuichet."
@@ -84138,10 +84138,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que l'AAA ?",
     "options": [
-     "Un assureur voyage privé",
-     "Une banque",
+     "Un assureur voyage privé pour les vacances à l'étranger",
+     "Une banque qui prête de l'argent aux travailleurs blessés",
      "L'assurance accident publique du Luxembourg, qui fait partie de la sécurité sociale",
-     "Une auto-école"
+     "Une auto-école nationale qui enseigne la prévention des accidents de la route"
     ],
     "correct": 2,
     "explanation": "L'AAA, l'Association d'assurance accident, est l'assurance accident publique du Luxembourg et fait partie du système de sécurité sociale. Elle est présente pour vous de façon automatique."
@@ -84149,10 +84149,10 @@ const EPISODES = [
    {
     "text": "Lequel de ces cas l'AAA couvre-t-elle ?",
     "options": [
-     "Uniquement les accidents à la maison",
+     "Uniquement les accidents domestiques, comme les chutes dans la cuisine ou le jardin",
      "Les accidents du travail, les accidents de trajet, les accidents scolaires et les maladies professionnelles",
-     "Uniquement les blessures sportives",
-     "Uniquement les accidents à l'étranger"
+     "Uniquement les blessures sportives en club, lors de compétitions officielles",
+     "Uniquement les accidents survenus à l'étranger, pendant des voyages d'affaires hors du Luxembourg"
     ],
     "correct": 1,
     "explanation": "L'AAA couvre les accidents du travail, les accidents de trajet (sur votre chemin habituel vers le travail ou en revenant), les accidents survenus à l'école et lors des activités scolaires, ainsi que les maladies professionnelles causées par votre travail."
@@ -84160,9 +84160,9 @@ const EPISODES = [
    {
     "text": "Que fait l'AAA pour vous après un accident couvert ?",
     "options": [
-     "Rien",
-     "Elle vous inflige une amende",
-     "Elle se contente d'envoyer un dépliant",
+     "Rien — elle enregistre seulement l'accident dans une statistique",
+     "Elle vous inflige une amende si l'accident était de votre faute",
+     "Elle vous envoie seulement une brochure sur la sécurité au travail, puis clôt le dossier sans rien vous payer",
      "Elle prend en charge les soins médicaux et verse une indemnisation en cas de séquelles durables ou de perte de revenus"
     ],
     "correct": 3,
@@ -84172,9 +84172,9 @@ const EPISODES = [
     "text": "Comment l'assurance accident est-elle principalement financée ?",
     "options": [
      "Par les cotisations des employeurs, avec un système de bonus-malus",
-     "Par une taxe sur l'alimentation",
-     "Par la vente de billets",
-     "Par l'Union européenne uniquement"
+     "Par une taxe spéciale sur les aliments et les boissons",
+     "Par la vente de billets pour des cours de sécurité",
+     "Uniquement par l'Union européenne, via son fonds social"
     ],
     "correct": 0,
     "explanation": "L'assurance est financée principalement par les employeurs au moyen de cotisations, avec un système de bonus-malus qui récompense les lieux de travail comptant moins d'accidents — incitant chacun à prendre la sécurité au sérieux."
@@ -84182,10 +84182,10 @@ const EPISODES = [
    {
     "text": "Que doit-il se passer pour que l'AAA intervienne sur un accident ?",
     "options": [
-     "Rien — c'est automatique et sans formalités",
-     "Vous devez aller en justice",
+     "Rien — elle agit automatiquement, sans aucun papier",
+     "Vous devez d'abord aller au tribunal et gagner un procès contre votre employeur",
      "L'accident doit être déclaré, souvent par l'employeur, de plus en plus via MyGuichet",
-     "Vous devez d'abord payer une redevance"
+     "Vous devez d'abord payer des frais et attendre au moins six mois avant que l'AAA examine l'accident"
     ],
     "correct": 2,
     "explanation": "L'accident doit être déclaré à l'AAA. Pour les accidents du travail, c'est normalement votre employeur qui fait la déclaration, et une grande partie de cette démarche peut désormais se faire par voie électronique via MyGuichet."
@@ -84207,10 +84207,10 @@ const EPISODES = [
    {
     "text": "Was ist die AAA?",
     "options": [
-     "Ein privater Reiseversicherer",
-     "Eine Bank",
+     "Ein privater Reiseversicherer für Urlaube im Ausland",
+     "Eine Bank, die verletzten Arbeitnehmern Geld leiht",
      "Die öffentliche Unfallversicherung Luxemburgs, Teil der Sozialversicherung",
-     "Eine Fahrschule"
+     "Eine Fahrschule, die Unfallverhütung im Straßenverkehr für alle Altersgruppen unterrichtet"
     ],
     "correct": 2,
     "explanation": "Die AAA, die Association d'assurance accident, ist die öffentliche Unfallversicherung Luxemburgs und Teil des Sozialversicherungssystems. Sie steht Ihnen automatisch zur Seite."
@@ -84218,10 +84218,10 @@ const EPISODES = [
    {
     "text": "Was davon deckt die AAA ab?",
     "options": [
-     "Nur Unfälle zu Hause",
+     "Nur Unfälle im Haushalt, etwa Stürze in Küche oder Garten",
      "Arbeitsunfälle, Unfälle auf dem Arbeitsweg, Schulunfälle und Berufskrankheiten",
-     "Nur Sportverletzungen",
-     "Nur Unfälle im Ausland"
+     "Nur Sportverletzungen im Verein, bei offiziellen Wettkämpfen",
+     "Nur Unfälle im Ausland, bei Dienstreisen für Ihren Arbeitgeber außerhalb Luxemburgs"
     ],
     "correct": 1,
     "explanation": "Die AAA deckt Arbeitsunfälle, Wegeunfälle (auf Ihrem üblichen Weg zur oder von der Arbeit), Unfälle in der Schule und rund um schulische Aktivitäten sowie durch Ihre Arbeit verursachte Berufskrankheiten ab."
@@ -84229,9 +84229,9 @@ const EPISODES = [
    {
     "text": "Was tut die AAA für Sie nach einem versicherten Unfall?",
     "options": [
-     "Nichts",
-     "Sie verhängt eine Geldstrafe gegen Sie",
-     "Sie schickt nur einen Flyer",
+     "Nichts — sie erfasst den Unfall nur in einer Statistik",
+     "Sie verhängt ein Bußgeld, wenn Sie selbst schuld waren",
+     "Sie schickt Ihnen nur eine Broschüre zur Arbeitssicherheit und schließt die Akte dann ganz ohne Zahlung",
      "Sie übernimmt die medizinische Versorgung und leistet Entschädigung bei bleibenden Folgen oder Einkommensverlust"
     ],
     "correct": 3,
@@ -84241,9 +84241,9 @@ const EPISODES = [
     "text": "Wie wird die Unfallversicherung hauptsächlich finanziert?",
     "options": [
      "Durch Arbeitgeberbeiträge, mit einem Bonus-Malus-System",
-     "Durch eine Steuer auf Lebensmittel",
-     "Durch den Verkauf von Tickets",
-     "Nur durch die Europäische Union"
+     "Durch eine Sondersteuer auf Lebensmittel und Getränke",
+     "Durch den Verkauf von Tickets für Sicherheitskurse",
+     "Nur durch die Europäische Union, über ihren Sozialfonds"
     ],
     "correct": 0,
     "explanation": "Die Versicherung wird hauptsächlich durch Arbeitgeberbeiträge finanziert, mit einem Bonus-Malus-System, das Betriebe mit weniger Unfällen belohnt – und so alle dazu anregt, Sicherheit ernst zu nehmen."
@@ -84251,10 +84251,10 @@ const EPISODES = [
    {
     "text": "Was muss geschehen, damit die AAA bei einem Unfall tätig wird?",
     "options": [
-     "Nichts – es geschieht automatisch ohne Papierkram",
-     "Sie müssen vor Gericht gehen",
+     "Nichts — sie handelt automatisch, ganz ohne Papierkram",
+     "Sie müssen zuerst vor Gericht gehen und gegen Ihren Arbeitgeber gewinnen",
      "Der Unfall muss gemeldet werden, oft durch den Arbeitgeber, zunehmend über MyGuichet",
-     "Sie müssen zuerst eine Gebühr zahlen"
+     "Sie müssen zuerst eine Gebühr zahlen und mindestens sechs Monate warten, bevor die AAA den Unfall prüft"
     ],
     "correct": 2,
     "explanation": "Der Unfall muss der AAA gemeldet werden. Bei Arbeitsunfällen nimmt normalerweise Ihr Arbeitgeber die Meldung vor, und vieles davon kann inzwischen elektronisch über MyGuichet erledigt werden."
@@ -85645,9 +85645,9 @@ const EPISODES = [
    {
     "text": "What is geoportail.lu?",
     "options": [
-     "A social network",
-     "A food-delivery app",
-     "A private map company",
+     "A social network for sharing holiday photos",
+     "A food-delivery app for Luxembourg City",
+     "A private map company that charges per search",
      "Luxembourg's official, free online map platform"
     ],
     "correct": 3,
@@ -85657,9 +85657,9 @@ const EPISODES = [
     "text": "What can you see on the Geoportal?",
     "options": [
      "Standard maps, aerial photos, historic maps, the land registry and many thematic layers",
-     "Only road directions",
-     "Only the capital city",
-     "Only weather"
+     "Only road directions and traffic jams for drivers",
+     "Only the capital city, street by street",
+     "Only the weather radar and rain forecasts"
     ],
     "correct": 0,
     "explanation": "Beyond the standard map, you can view aerial photos, old maps, the land registry (cadastre) showing parcel boundaries, and switchable layers on themes like the environment, mobility and tourism."
@@ -85667,10 +85667,10 @@ const EPISODES = [
    {
     "text": "What does the cadastre (land registry) show?",
     "options": [
-     "Shop opening hours",
-     "Bus timetables",
+     "The opening hours of shops and public offices in each commune",
+     "Bus and train timetables for the whole country",
      "The boundaries of land parcels — who owns what piece of land and where the lines are",
-     "Restaurant menus"
+     "The menus and prices of restaurants, street by street, updated by the owners every week"
     ],
     "correct": 2,
     "explanation": "The cadastre shows the boundaries of land parcels. If you are buying a house or curious about a plot, you can look up the parcel and its official boundaries."
@@ -85678,10 +85678,10 @@ const EPISODES = [
    {
     "text": "Which tools does the Geoportal offer?",
     "options": [
-     "None",
+     "None — you can only look at a fixed map",
      "Search an address, measure distances, view in 3D, and print maps",
-     "Online banking",
-     "Video games"
+     "Online banking and bill payments",
+     "Video games based on Luxembourg's landscapes"
     ],
     "correct": 1,
     "explanation": "The Geoportal has handy built-in tools: search for an address, measure a distance or area, explore parts of the country in 3D, and print a clean map for a walk, a project or a meeting."
@@ -85689,9 +85689,9 @@ const EPISODES = [
    {
     "text": "Why is much of the Geoportal's data \"open\"?",
     "options": [
-     "To keep it secret",
-     "To sell it at high prices",
-     "It is not open",
+     "To keep it secret from everyone except the ministries",
+     "To sell it at high prices to foreign companies",
+     "It is not open at all; only civil servants can see the maps and download the data",
      "So researchers, companies and developers can build new apps and services from it"
     ],
     "correct": 3,
@@ -85717,9 +85717,9 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que geoportail.lu ?",
     "options": [
-     "Un réseau social",
-     "Une application de livraison de repas",
-     "Une société de cartographie privée",
+     "Un réseau social pour partager des photos de vacances",
+     "Une application de livraison de repas à Luxembourg-Ville",
+     "Une entreprise privée de cartes qui fait payer chaque recherche",
      "La plateforme cartographique officielle, gratuite et en ligne du Luxembourg"
     ],
     "correct": 3,
@@ -85729,9 +85729,9 @@ const EPISODES = [
     "text": "Que peut-on voir sur le Géoportail ?",
     "options": [
      "Des cartes standard, des photos aériennes, des cartes historiques, le cadastre et de nombreuses couches thématiques",
-     "Uniquement des itinéraires routiers",
-     "Uniquement la capitale",
-     "Uniquement la météo"
+     "Uniquement des itinéraires et des informations sur les bouchons pour les conducteurs, sans aucune autre couche de carte",
+     "Uniquement la capitale, rue par rue",
+     "Uniquement le radar météo et les prévisions de pluie"
     ],
     "correct": 0,
     "explanation": "Au-delà de la carte standard, vous pouvez consulter des photos aériennes, d'anciennes cartes, le cadastre montrant les limites des parcelles, et des couches activables sur des thèmes comme l'environnement, la mobilité et le tourisme."
@@ -85739,10 +85739,10 @@ const EPISODES = [
    {
     "text": "Que montre le cadastre ?",
     "options": [
-     "Les horaires d'ouverture des commerces",
-     "Les horaires de bus",
+     "Les heures d'ouverture des magasins et des bureaux publics dans chaque commune",
+     "Les horaires des bus et des trains pour tout le pays",
      "Les limites des parcelles — qui possède quel terrain et où passent les lignes",
-     "Les menus de restaurants"
+     "Les menus et les prix des restaurants, rue par rue, mis à jour par les propriétaires chaque semaine"
     ],
     "correct": 2,
     "explanation": "Le cadastre montre les limites des parcelles. Si vous achetez une maison ou que vous êtes curieux d'un terrain, vous pouvez rechercher la parcelle et ses limites officielles."
@@ -85750,10 +85750,10 @@ const EPISODES = [
    {
     "text": "Quels outils le Géoportail propose-t-il ?",
     "options": [
-     "Aucun",
+     "Aucun — on ne peut regarder qu'une carte fixe",
      "Rechercher une adresse, mesurer des distances, visualiser en 3D et imprimer des cartes",
-     "La banque en ligne",
-     "Des jeux vidéo"
+     "La banque en ligne et le paiement de factures",
+     "Des jeux vidéo et des quiz basés sur les paysages et les monuments du Luxembourg"
     ],
     "correct": 1,
     "explanation": "Le Géoportail intègre des outils pratiques : rechercher une adresse, mesurer une distance ou une surface, explorer certaines parties du pays en 3D et imprimer une carte nette pour une promenade, un projet ou une réunion."
@@ -85761,9 +85761,9 @@ const EPISODES = [
    {
     "text": "Pourquoi une grande partie des données du Géoportail est-elle « ouverte » ?",
     "options": [
-     "Pour les garder secrètes",
-     "Pour les vendre à prix élevé",
-     "Elles ne sont pas ouvertes",
+     "Pour la garder secrète pour tous sauf les ministères",
+     "Pour la vendre très cher à des entreprises étrangères",
+     "Elles ne sont pas ouvertes du tout ; seuls les fonctionnaires des ministères peuvent voir les cartes et télécharger les données",
      "Pour que les chercheurs, les entreprises et les développeurs puissent en tirer de nouvelles applications et de nouveaux services"
     ],
     "correct": 3,
@@ -85786,9 +85786,9 @@ const EPISODES = [
    {
     "text": "Was ist geoportail.lu?",
     "options": [
-     "Ein soziales Netzwerk",
-     "Eine Essenslieferungs-App",
-     "Ein privates Kartenunternehmen",
+     "Ein soziales Netzwerk für Urlaubsfotos",
+     "Eine Essenslieferungs-App für Luxemburg-Stadt",
+     "Eine private Kartenfirma, die für jede Suche Geld verlangt",
      "Luxemburgs offizielle, kostenlose Online-Kartenplattform"
     ],
     "correct": 3,
@@ -85798,9 +85798,9 @@ const EPISODES = [
     "text": "Was können Sie auf dem Geoportal sehen?",
     "options": [
      "Standardkarten, Luftbilder, historische Karten, das Kataster und viele thematische Layer",
-     "Nur Routenangaben",
-     "Nur die Hauptstadt",
-     "Nur das Wetter"
+     "Nur Routen und Staus für Autofahrer",
+     "Nur die Hauptstadt, Straße für Straße",
+     "Nur das Wetterradar, Regenvorhersagen und Unwetterwarnungen für die nächsten drei Tage"
     ],
     "correct": 0,
     "explanation": "Neben der Standardkarte können Sie Luftbilder, alte Karten, das Kataster mit den Parzellengrenzen und umschaltbare Layer zu Themen wie Umwelt, Mobilität und Tourismus betrachten."
@@ -85808,10 +85808,10 @@ const EPISODES = [
    {
     "text": "Was zeigt das Kataster?",
     "options": [
-     "Öffnungszeiten von Geschäften",
-     "Busfahrpläne",
+     "Die Öffnungszeiten von Geschäften und Ämtern in jeder Gemeinde",
+     "Bus- und Zugfahrpläne für das ganze Land",
      "Die Grenzen von Parzellen – wem welches Stück Land gehört und wo die Linien verlaufen",
-     "Speisekarten von Restaurants"
+     "Die Speisekarten und Preise von Restaurants, Straße für Straße, jede Woche von den Besitzern aktualisiert"
     ],
     "correct": 2,
     "explanation": "Das Kataster zeigt die Grenzen von Parzellen. Wenn Sie ein Haus kaufen oder neugierig auf ein Grundstück sind, können Sie die Parzelle und ihre offiziellen Grenzen nachschlagen."
@@ -85819,10 +85819,10 @@ const EPISODES = [
    {
     "text": "Welche Werkzeuge bietet das Geoportal?",
     "options": [
-     "Keine",
+     "Keine — man kann nur eine feste Karte ansehen",
      "Eine Adresse suchen, Entfernungen messen, in 3D betrachten und Karten drucken",
-     "Online-Banking",
-     "Videospiele"
+     "Online-Banking und das Bezahlen von Rechnungen",
+     "Videospiele und Online-Quiz auf Basis der Landschaften und Denkmäler Luxemburgs"
     ],
     "correct": 1,
     "explanation": "Das Geoportal verfügt über praktische integrierte Werkzeuge: eine Adresse suchen, eine Entfernung oder Fläche messen, Teile des Landes in 3D erkunden und eine saubere Karte für einen Spaziergang, ein Projekt oder eine Besprechung drucken."
@@ -85830,9 +85830,9 @@ const EPISODES = [
    {
     "text": "Warum sind viele Daten des Geoportals „offen“?",
     "options": [
-     "Um sie geheim zu halten",
-     "Um sie zu hohen Preisen zu verkaufen",
-     "Sie sind nicht offen",
+     "Um sie vor allen außer den Ministerien geheim zu halten",
+     "Um sie teuer an ausländische Firmen zu verkaufen",
+     "Sie sind gar nicht offen; nur Beamte der Ministerien können die Karten sehen und die Daten herunterladen",
      "Damit Forschende, Unternehmen und Entwickler daraus neue Apps und Dienste erstellen können"
     ],
     "correct": 3,
@@ -87140,9 +87140,9 @@ const EPISODES = [
     "text": "What is GOVCERT.LU?",
     "options": [
      "The government's cyber security incident response team (CSIRT)",
-     "A weather service",
-     "A bank",
-     "A phone shop"
+     "The national weather service, which also issues storm alerts",
+     "A bank's security department for online payments",
+     "A chain of phone shops that repairs hacked phones"
     ],
     "correct": 0,
     "explanation": "GOVCERT.LU is the Computer Security Incident Response Team (CSIRT) of the Government of Luxembourg — like a fire brigade for cyberattacks, responding quickly to serious computer security incidents."
@@ -87151,9 +87151,9 @@ const EPISODES = [
     "text": "Whose systems does GOVCERT.LU mainly protect?",
     "options": [
      "The government's systems and other critical public or private infrastructure",
-     "Only video-game servers",
-     "Only foreign companies",
-     "Only social media"
+     "Only video-game servers hosted in Luxembourg",
+     "Only foreign companies with offices in the country",
+     "Only social media accounts of politicians and ministers during elections"
     ],
     "correct": 0,
     "explanation": "GOVCERT.LU is the central contact point for IT incidents that could compromise the information systems of the government and other critical infrastructure operators — the systems a country cannot function without."
@@ -87161,10 +87161,10 @@ const EPISODES = [
    {
     "text": "According to GOVCERT.LU, cybersecurity is…",
     "options": [
-     "Only the job of experts",
-     "Impossible",
+     "Only the job of IT experts and specialists",
+     "Impossible to achieve in today's world",
      "A collective responsibility we all share",
-     "Only for big companies"
+     "Only a concern for big companies and banks"
     ],
     "correct": 2,
     "explanation": "GOVCERT.LU stresses that cybersecurity is a collective responsibility. That is why they encourage people to report incidents they discover, so they can analyse them and protect others."
@@ -87172,10 +87172,10 @@ const EPISODES = [
    {
     "text": "What is \"phishing\"?",
     "options": [
-     "A type of fishing sport",
+     "A fishing sport practised on rivers, with special nets",
      "A fake message that tries to trick you into giving passwords, card numbers or money",
-     "A computer game",
-     "A weather warning"
+     "A computer game in which players hunt for hidden passwords",
+     "An official weather warning sent by SMS when heavy rain is expected in your area"
     ],
     "correct": 1,
     "explanation": "Phishing is when a fake message tries to trick you into giving away passwords, card numbers or money. GOVCERT.LU regularly publishes warnings about phishing campaigns circulating in Luxembourg."
@@ -87183,9 +87183,9 @@ const EPISODES = [
    {
     "text": "Which is a good everyday cyber-safety habit?",
     "options": [
-     "Click every link immediately",
-     "Share your passwords",
-     "Ignore all updates",
+     "Click every link in a message immediately, so you don't miss anything important",
+     "Share your passwords with colleagues, so work can continue when you are away",
+     "Ignore software updates, because they slow down your devices and change your settings without asking",
      "Be suspicious of urgent messages, check links, use strong passwords, and keep devices updated"
     ],
     "correct": 3,
@@ -87213,9 +87213,9 @@ const EPISODES = [
     "text": "Qu'est-ce que GOVCERT.LU ?",
     "options": [
      "L'équipe de réponse aux incidents de cybersécurité (CSIRT) du gouvernement",
-     "Un service météorologique",
-     "Une banque",
-     "Un magasin de téléphonie"
+     "Le service météo national, qui émet aussi les alertes tempête",
+     "Le service de sécurité d'une banque pour les paiements en ligne",
+     "Une chaîne de magasins de téléphonie qui répare les téléphones piratés"
     ],
     "correct": 0,
     "explanation": "GOVCERT.LU est l'équipe de réponse aux incidents de sécurité informatique (CSIRT) du gouvernement luxembourgeois — telle une brigade de pompiers face aux cyberattaques, intervenant rapidement en cas d'incident grave de sécurité informatique."
@@ -87224,9 +87224,9 @@ const EPISODES = [
     "text": "Quels systèmes GOVCERT.LU protège-t-il principalement ?",
     "options": [
      "Les systèmes du gouvernement et d'autres infrastructures critiques publiques ou privées",
-     "Uniquement les serveurs de jeux vidéo",
-     "Uniquement les entreprises étrangères",
-     "Uniquement les réseaux sociaux"
+     "Uniquement les serveurs de jeux vidéo hébergés au Luxembourg",
+     "Uniquement les entreprises étrangères ayant des bureaux dans le pays",
+     "Uniquement les comptes de réseaux sociaux des responsables politiques pendant les élections"
     ],
     "correct": 0,
     "explanation": "GOVCERT.LU est le point de contact central pour les incidents informatiques susceptibles de compromettre les systèmes d'information du gouvernement et d'autres opérateurs d'infrastructures critiques — les systèmes sans lesquels un pays ne peut fonctionner."
@@ -87234,10 +87234,10 @@ const EPISODES = [
    {
     "text": "Selon GOVCERT.LU, la cybersécurité est…",
     "options": [
-     "Uniquement l'affaire des experts",
-     "Impossible",
+     "Uniquement l'affaire des experts informatiques",
+     "Impossible à atteindre dans le monde actuel",
      "Une responsabilité collective que nous partageons tous",
-     "Réservée aux grandes entreprises"
+     "Uniquement un souci pour les grandes entreprises et les banques"
     ],
     "correct": 2,
     "explanation": "GOVCERT.LU insiste sur le fait que la cybersécurité est une responsabilité collective. C'est pourquoi il encourage chacun à signaler les incidents qu'il découvre, afin de pouvoir les analyser et protéger les autres."
@@ -87245,10 +87245,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que l'« hameçonnage » (phishing) ?",
     "options": [
-     "Un sport de pêche",
+     "Un sport de pêche pratiqué en rivière, avec des filets spéciaux",
      "Un message frauduleux qui tente de vous soutirer mots de passe, numéros de carte ou argent",
-     "Un jeu informatique",
-     "Une alerte météo"
+     "Un jeu vidéo dans lequel les joueurs cherchent des mots de passe cachés",
+     "Une alerte météo officielle envoyée par SMS quand de fortes pluies sont attendues dans votre région"
     ],
     "correct": 1,
     "explanation": "L'hameçonnage, c'est lorsqu'un message frauduleux tente de vous soutirer mots de passe, numéros de carte ou argent. GOVCERT.LU publie régulièrement des alertes sur les campagnes d'hameçonnage qui circulent au Luxembourg."
@@ -87256,9 +87256,9 @@ const EPISODES = [
    {
     "text": "Quelle est une bonne habitude de cybersécurité au quotidien ?",
     "options": [
-     "Cliquer immédiatement sur chaque lien",
-     "Partager ses mots de passe",
-     "Ignorer toutes les mises à jour",
+     "Cliquer tout de suite sur chaque lien d'un message, pour ne rien manquer d'important",
+     "Partager vos mots de passe avec vos collègues, pour que le travail continue en votre absence",
+     "Ignorer les mises à jour, car elles ralentissent vos appareils et changent vos réglages sans vous demander votre avis",
      "Se méfier des messages urgents, vérifier les liens, utiliser des mots de passe robustes et tenir ses appareils à jour"
     ],
     "correct": 3,
@@ -87282,9 +87282,9 @@ const EPISODES = [
     "text": "Was ist GOVCERT.LU?",
     "options": [
      "Das Reaktionsteam der Regierung für Cybersicherheitsvorfälle (CSIRT)",
-     "Ein Wetterdienst",
-     "Eine Bank",
-     "Ein Handygeschäft"
+     "Der nationale Wetterdienst, der auch Sturm- und Hochwasserwarnungen herausgibt",
+     "Die Sicherheitsabteilung einer Bank für Online-Zahlungen",
+     "Eine Handyladenkette, die gehackte Telefone repariert"
     ],
     "correct": 0,
     "explanation": "GOVCERT.LU ist das Computer Security Incident Response Team (CSIRT) der luxemburgischen Regierung – wie eine Feuerwehr für Cyberangriffe, die schnell auf schwerwiegende Computer-Sicherheitsvorfälle reagiert."
@@ -87293,9 +87293,9 @@ const EPISODES = [
     "text": "Wessen Systeme schützt GOVCERT.LU hauptsächlich?",
     "options": [
      "Die Systeme der Regierung und andere kritische öffentliche oder private Infrastrukturen",
-     "Nur Videospiel-Server",
-     "Nur ausländische Unternehmen",
-     "Nur soziale Medien"
+     "Nur Videospiel-Server, die in Luxemburg gehostet werden",
+     "Nur ausländische Firmen mit Büros im Land",
+     "Nur die Social-Media-Konten von Politikern und Ministern während der Wahlkämpfe"
     ],
     "correct": 0,
     "explanation": "GOVCERT.LU ist die zentrale Anlaufstelle für IT-Vorfälle, die die Informationssysteme der Regierung und anderer Betreiber kritischer Infrastrukturen gefährden könnten – die Systeme, ohne die ein Land nicht funktionieren kann."
@@ -87303,10 +87303,10 @@ const EPISODES = [
    {
     "text": "Laut GOVCERT.LU ist Cybersicherheit …",
     "options": [
-     "Nur die Aufgabe von Experten",
-     "Unmöglich",
+     "Nur Sache von IT-Experten und Spezialisten",
+     "In der heutigen vernetzten Welt unmöglich zu erreichen",
      "Eine kollektive Verantwortung, die wir alle teilen",
-     "Nur für große Unternehmen"
+     "Nur ein Thema für große Firmen und Banken"
     ],
     "correct": 2,
     "explanation": "GOVCERT.LU betont, dass Cybersicherheit eine kollektive Verantwortung ist. Deshalb ermutigt das Team die Menschen, entdeckte Vorfälle zu melden, damit sie analysiert und andere geschützt werden können."
@@ -87314,10 +87314,10 @@ const EPISODES = [
    {
     "text": "Was ist „Phishing“?",
     "options": [
-     "Eine Art Angelsport",
+     "Ein Angelsport an Flüssen, mit speziellen Netzen",
      "Eine gefälschte Nachricht, die Sie dazu verleiten will, Passwörter, Kartennummern oder Geld preiszugeben",
-     "Ein Computerspiel",
-     "Eine Wetterwarnung"
+     "Ein Computerspiel, in dem Spieler versteckte Passwörter suchen",
+     "Eine offizielle Wetterwarnung per SMS, wenn in Ihrer Gegend Starkregen oder Gewitter erwartet werden"
     ],
     "correct": 1,
     "explanation": "Phishing ist, wenn eine gefälschte Nachricht Sie dazu verleiten will, Passwörter, Kartennummern oder Geld preiszugeben. GOVCERT.LU veröffentlicht regelmäßig Warnungen zu Phishing-Kampagnen, die in Luxemburg im Umlauf sind."
@@ -87325,9 +87325,9 @@ const EPISODES = [
    {
     "text": "Welche ist eine gute Gewohnheit für die Cybersicherheit im Alltag?",
     "options": [
-     "Jeden Link sofort anklicken",
-     "Ihre Passwörter teilen",
-     "Alle Updates ignorieren",
+     "Sofort auf jeden Link in einer Nachricht klicken, damit Sie nichts Wichtiges verpassen",
+     "Ihre Passwörter mit Kollegen teilen, damit die Arbeit weitergeht, wenn Sie weg sind",
+     "Updates ignorieren, weil sie Ihre Geräte verlangsamen und ungefragt Ihre Einstellungen und Programme ändern",
      "Bei dringenden Nachrichten misstrauisch sein, Links prüfen, starke Passwörter verwenden und Geräte aktuell halten"
     ],
     "correct": 3,
@@ -88679,9 +88679,9 @@ const EPISODES = [
    {
     "text": "What is culture.lu?",
     "options": [
-     "A cooking website",
-     "A bank",
-     "A weather app",
+     "A cooking website with traditional Luxembourg recipes",
+     "A bank that lends money to artists and theatres",
+     "A weather app that tells you if an outdoor concert will be cancelled because of rain",
      "The cultural portal gathering Luxembourg's cultural life in one place"
     ],
     "correct": 3,
@@ -88690,10 +88690,10 @@ const EPISODES = [
    {
     "text": "What is at the heart of the culture portal?",
     "options": [
-     "A shop",
+     "An online shop selling concert and theatre tickets at a discount",
      "An agenda listing cultural events across the country",
-     "A tax form",
-     "A map of roads"
+     "A tax form for artists who earn money from performances",
+     "A map of the roads and car parks near the main concert halls"
     ],
     "correct": 1,
     "explanation": "At its heart is the agenda — a calendar bringing together concerts, plays, exhibitions, festivals and family activities from across the whole country, so you can easily find something to do."
@@ -88701,10 +88701,10 @@ const EPISODES = [
    {
     "text": "Does the portal cover only the capital city?",
     "options": [
-     "Yes, only the capital",
+     "Yes, only the capital, where most museums and theatres are",
      "No — it covers cultural life across the whole country",
-     "Only foreign cities",
-     "Only one museum"
+     "No — it only covers foreign cities close to the border",
+     "It covers only one big national museum and its programme of exhibitions"
     ],
     "correct": 1,
     "explanation": "The portal is for the whole country. Culture happens in towns and villages everywhere, and it helps you find venues and events near you, not only in the capital."
@@ -88713,9 +88713,9 @@ const EPISODES = [
     "text": "Besides current events, what else does the portal highlight?",
     "options": [
      "Heritage and special open days, like museum nights",
-     "Nothing",
-     "Stock prices",
-     "Bus tickets"
+     "Nothing else — only this week's concerts",
+     "Stock prices of the big media companies",
+     "Bus and train tickets to reach the events for free"
     ],
     "correct": 0,
     "explanation": "The portal also points to heritage — castles, traditions and history — and to special events such as museum nights and heritage days, when doors open to everyone."
@@ -88723,10 +88723,10 @@ const EPISODES = [
    {
     "text": "Who else is the culture portal for, besides audiences?",
     "options": [
-     "No one",
-     "Only tourists abroad",
+     "No one else — it is only for people who go to events",
+     "Only tourists abroad who are planning a holiday in Luxembourg",
      "The people who make culture — artists, institutions and organisers",
-     "Only banks"
+     "Only banks and sponsors who want to advertise at festivals and concerts in the country"
     ],
     "correct": 2,
     "explanation": "The portal also supports the cultural sector itself — artists, institutions and organisers — as part of a wider effort to develop culture and make it more accessible, inclusive and present in every region."
@@ -88751,9 +88751,9 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que culture.lu ?",
     "options": [
-     "Un site de cuisine",
-     "Une banque",
-     "Une application météo",
+     "Un site de cuisine avec des recettes traditionnelles luxembourgeoises",
+     "Une banque qui prête de l'argent aux artistes et aux théâtres",
+     "Une appli météo qui vous dit si un concert en plein air sera annulé à cause de la pluie",
      "Le portail culturel qui rassemble la vie culturelle du Luxembourg en un seul endroit"
     ],
     "correct": 3,
@@ -88762,10 +88762,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce qui est au cœur du portail culturel ?",
     "options": [
-     "Une boutique",
+     "Une boutique en ligne qui vend des billets de concert et de théâtre à prix réduit",
      "Un agenda recensant les événements culturels à travers le pays",
-     "Un formulaire fiscal",
-     "Une carte des routes"
+     "Un formulaire fiscal pour les artistes qui gagnent de l'argent avec leurs spectacles",
+     "Une carte des routes et des parkings près des grandes salles de concert"
     ],
     "correct": 1,
     "explanation": "En son cœur se trouve l'agenda — un calendrier réunissant concerts, pièces de théâtre, expositions, festivals et activités pour les familles dans tout le pays, pour que vous trouviez facilement quelque chose à faire."
@@ -88773,10 +88773,10 @@ const EPISODES = [
    {
     "text": "Le portail ne couvre-t-il que la capitale ?",
     "options": [
-     "Oui, uniquement la capitale",
+     "Oui, seulement la capitale, où se trouvent la plupart des musées et théâtres",
      "Non — il couvre la vie culturelle dans tout le pays",
-     "Uniquement les villes étrangères",
-     "Uniquement un musée"
+     "Non — il couvre seulement les villes étrangères proches de la frontière",
+     "Il ne couvre qu'un seul grand musée national et son programme d'expositions"
     ],
     "correct": 1,
     "explanation": "Le portail s'adresse à tout le pays. La culture se vit dans les villes et les villages partout, et il vous aide à trouver des lieux et des événements près de chez vous, et pas seulement dans la capitale."
@@ -88785,9 +88785,9 @@ const EPISODES = [
     "text": "Outre les événements actuels, que met aussi en avant le portail ?",
     "options": [
      "Le patrimoine et des journées portes ouvertes spéciales, comme les nuits des musées",
-     "Rien",
-     "Les cours de la bourse",
-     "Les billets de bus"
+     "Rien d'autre — seulement les concerts de la semaine",
+     "Les cours de bourse des grands groupes de médias",
+     "Des billets de bus et de train pour aller gratuitement à tous les événements culturels"
     ],
     "correct": 0,
     "explanation": "Le portail met aussi en avant le patrimoine — châteaux, traditions et histoire — ainsi que des événements spéciaux tels que la Nuit des Musées et les journées du patrimoine, lorsque les portes s'ouvrent à tous."
@@ -88795,10 +88795,10 @@ const EPISODES = [
    {
     "text": "À qui le portail culturel s'adresse-t-il aussi, outre le public ?",
     "options": [
-     "À personne",
-     "Uniquement aux touristes étrangers",
+     "Personne d'autre — il est seulement pour ceux qui vont aux événements",
+     "Seulement les touristes à l'étranger qui préparent des vacances au Luxembourg",
      "Aux personnes qui font la culture — artistes, institutions et organisateurs",
-     "Uniquement aux banques"
+     "Seulement les banques et les sponsors qui veulent faire de la publicité lors des festivals et concerts du pays"
     ],
     "correct": 2,
     "explanation": "Le portail soutient également le secteur culturel lui-même — artistes, institutions et organisateurs — dans le cadre d'un effort plus large pour développer la culture et la rendre plus accessible, inclusive et présente dans chaque région."
@@ -88820,9 +88820,9 @@ const EPISODES = [
    {
     "text": "Was ist culture.lu?",
     "options": [
-     "Eine Koch-Website",
-     "Eine Bank",
-     "Eine Wetter-App",
+     "Eine Kochwebsite mit traditionellen luxemburgischen Rezepten",
+     "Eine Bank, die Künstlern und Theatern Geld leiht",
+     "Eine Wetter-App, die Ihnen sagt, ob ein Open-Air-Konzert wegen Regen abgesagt wird",
      "Das Kulturportal, das Luxemburgs kulturelles Leben an einem Ort bündelt"
     ],
     "correct": 3,
@@ -88831,10 +88831,10 @@ const EPISODES = [
    {
     "text": "Was bildet das Herzstück des Kulturportals?",
     "options": [
-     "Ein Geschäft",
+     "Ein Online-Shop, der Konzert- und Theaterkarten mit Rabatt verkauft",
      "Ein Kalender, der die Kulturveranstaltungen im ganzen Land auflistet",
-     "Ein Steuerformular",
-     "Eine Straßenkarte"
+     "Ein Steuerformular für Künstler, die mit Auftritten Geld verdienen",
+     "Eine Karte der Straßen und Parkplätze rund um die großen Konzertsäle"
     ],
     "correct": 1,
     "explanation": "Sein Herzstück ist der Veranstaltungskalender – ein Kalender, der Konzerte, Theaterstücke, Ausstellungen, Festivals und Familienaktivitäten aus dem ganzen Land zusammenführt, damit Sie leicht etwas zu unternehmen finden."
@@ -88842,10 +88842,10 @@ const EPISODES = [
    {
     "text": "Deckt das Portal nur die Hauptstadt ab?",
     "options": [
-     "Ja, nur die Hauptstadt",
+     "Ja, nur die Hauptstadt, wo die meisten Museen und Theater sind",
      "Nein – es deckt das kulturelle Leben im ganzen Land ab",
-     "Nur ausländische Städte",
-     "Nur ein Museum"
+     "Nein — es deckt nur ausländische Städte nahe der Grenze ab",
+     "Es deckt nur ein einziges großes Nationalmuseum und sein Ausstellungsprogramm ab"
     ],
     "correct": 1,
     "explanation": "Das Portal ist für das ganze Land da. Kultur findet überall in Städten und Dörfern statt, und es hilft Ihnen, Spielstätten und Veranstaltungen in Ihrer Nähe zu finden, nicht nur in der Hauptstadt."
@@ -88854,9 +88854,9 @@ const EPISODES = [
     "text": "Was hebt das Portal neben aktuellen Veranstaltungen noch hervor?",
     "options": [
      "Kulturerbe und besondere Öffnungstage, wie die Nuit des Musées",
-     "Nichts",
-     "Aktienkurse",
-     "Bustickets"
+     "Nichts weiter — nur die Konzerte dieser Woche",
+     "Die Börsenkurse der großen Medienkonzerne",
+     "Bus- und Zugtickets, um kostenlos zu den Veranstaltungen zu fahren"
     ],
     "correct": 0,
     "explanation": "Das Portal verweist auch auf das Kulturerbe – Schlösser, Traditionen und Geschichte – und auf besondere Veranstaltungen wie die Nuit des Musées und Tage des Kulturerbes, an denen die Türen für alle geöffnet werden."
@@ -88864,10 +88864,10 @@ const EPISODES = [
    {
     "text": "Für wen ist das Kulturportal neben dem Publikum noch da?",
     "options": [
-     "Für niemanden",
-     "Nur für Touristen im Ausland",
+     "Niemand sonst — es ist nur für Menschen, die Veranstaltungen besuchen",
+     "Nur Touristen im Ausland, die einen Urlaub in Luxemburg planen",
      "Für die Menschen, die Kultur schaffen – Künstler, Institutionen und Veranstalter",
-     "Nur für Banken"
+     "Nur Banken und Sponsoren, die auf Festivals und Konzerten im ganzen Land werben wollen"
     ],
     "correct": 2,
     "explanation": "Das Portal unterstützt auch den Kultursektor selbst – Künstler, Institutionen und Veranstalter – als Teil eines umfassenderen Bemühens, Kultur zu entwickeln und sie zugänglicher, inklusiver und in jeder Region präsenter zu machen."
@@ -90168,10 +90168,10 @@ const EPISODES = [
    {
     "text": "What is the Info-Zenter Demenz?",
     "options": [
-     "A care home",
-     "A pharmacy",
+     "A care home for people with memory problems",
+     "A pharmacy that sells dementia medicine",
      "Luxembourg's national information and advice centre on memory problems and dementia",
-     "A hospital ward"
+     "A specialised hospital ward where people with dementia are treated and live for several months"
     ],
     "correct": 2,
     "explanation": "The Info-Zenter Demenz is the national centre for information and advice on memory problems and dementia, for those affected, their relatives, health professionals and anyone with questions."
@@ -90191,9 +90191,9 @@ const EPISODES = [
     "text": "What is an important message about memory and dementia?",
     "options": [
      "Dementia is not normal ageing, and ordinary memory lapses are different from dementia",
-     "Every memory slip means dementia",
-     "Nothing can be understood",
-     "Only doctors may discuss it"
+     "Every memory slip, like forgetting your keys, is an early sign of dementia",
+     "Nothing can be understood about dementia, so it is better not to talk about it",
+     "Only doctors may talk about dementia; families should not ask questions about it"
     ],
     "correct": 0,
     "explanation": "Dementia is not a normal part of ageing, and not every forgotten name is dementia. The centre helps explain the difference, and how a proper diagnosis works — so the right step is good information, not panic."
@@ -90201,10 +90201,10 @@ const EPISODES = [
    {
     "text": "Who does the centre support?",
     "options": [
-     "Only doctors",
+     "Only doctors and nurses who need training",
      "The person affected and their relatives and carers",
-     "Only children",
-     "Only employers"
+     "Only children who are worried about a grandparent",
+     "Only employers whose staff care for a relative with dementia"
     ],
     "correct": 1,
     "explanation": "The centre supports both the person affected — with guidance on living well, work, driving and planning ahead — and the relatives who care for them, helping carers look after their own health too."
@@ -90212,10 +90212,10 @@ const EPISODES = [
    {
     "text": "Can the risk of dementia be reduced?",
     "options": [
-     "No, never",
-     "Only by moving abroad",
+     "No, never — it depends only on your genes",
+     "Only by moving to a country with a warmer climate",
      "Yes — a healthy lifestyle can lower the risk",
-     "Only with expensive medicine"
+     "Only with expensive medicine that you take every day from the age of forty"
     ],
     "correct": 2,
     "explanation": "Living healthily — staying active, eating well, keeping the mind and social life busy — can reduce the risk. It is not a guarantee, but what is good for the heart is also good for the brain."
@@ -90241,10 +90241,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que l'Info-Zenter Demenz ?",
     "options": [
-     "Une maison de retraite",
-     "Une pharmacie",
+     "Une maison de soins pour personnes ayant des troubles de la mémoire",
+     "Une pharmacie qui vend des médicaments contre la démence",
      "Le centre national d'information et de conseil du Luxembourg sur les troubles de la mémoire et la démence",
-     "Un service hospitalier"
+     "Un service hospitalier spécialisé où les personnes atteintes de démence sont soignées et vivent plusieurs mois"
     ],
     "correct": 2,
     "explanation": "L'Info-Zenter Demenz est le centre national d'information et de conseil sur les troubles de la mémoire et la démence, pour les personnes concernées, leurs proches, les professionnels de santé et toute personne se posant des questions."
@@ -90252,8 +90252,8 @@ const EPISODES = [
    {
     "text": "Combien coûtent les services du centre ?",
     "options": [
-     "Un abonnement mensuel",
-     "Un tarif par visite",
+     "Un forfait mensuel",
+     "Des frais par visite",
      "Seule la première visite est gratuite",
      "Ils sont gratuits"
     ],
@@ -90264,9 +90264,9 @@ const EPISODES = [
     "text": "Quel est un message important à propos de la mémoire et de la démence ?",
     "options": [
      "La démence n'est pas un vieillissement normal, et les simples trous de mémoire sont différents de la démence",
-     "Chaque trou de mémoire signifie une démence",
-     "On ne peut rien comprendre",
-     "Seuls les médecins peuvent en parler"
+     "Chaque trou de mémoire, comme oublier ses clés, est un premier signe de démence",
+     "On ne peut rien comprendre à la démence, donc mieux vaut ne pas en parler",
+     "Seuls les médecins peuvent parler de démence ; les familles et les proches ne devraient pas poser de questions"
     ],
     "correct": 0,
     "explanation": "La démence n'est pas une partie normale du vieillissement, et tout nom oublié n'est pas une démence. Le centre aide à expliquer la différence, ainsi que le déroulement d'un véritable diagnostic — la bonne démarche est donc une bonne information, pas la panique."
@@ -90274,10 +90274,10 @@ const EPISODES = [
    {
     "text": "Qui le centre soutient-il ?",
     "options": [
-     "Uniquement les médecins",
+     "Seulement les médecins et infirmiers qui ont besoin d'une formation",
      "La personne concernée ainsi que ses proches et ses aidants",
-     "Uniquement les enfants",
-     "Uniquement les employeurs"
+     "Seulement les enfants inquiets pour un grand-parent",
+     "Seulement les employeurs dont des salariés s'occupent d'un proche atteint de démence"
     ],
     "correct": 1,
     "explanation": "Le centre soutient à la fois la personne concernée — avec des conseils pour bien vivre, le travail, la conduite et l'anticipation — et les proches qui s'occupent d'elle, en aidant les aidants à veiller aussi sur leur propre santé."
@@ -90285,10 +90285,10 @@ const EPISODES = [
    {
     "text": "Le risque de démence peut-il être réduit ?",
     "options": [
-     "Non, jamais",
-     "Uniquement en partant à l'étranger",
+     "Non, jamais — cela dépend uniquement des gènes",
+     "Seulement en déménageant dans un pays au climat plus chaud",
      "Oui — un mode de vie sain peut réduire le risque",
-     "Uniquement avec des médicaments coûteux"
+     "Seulement avec des médicaments coûteux à prendre chaque jour dès quarante ans"
     ],
     "correct": 2,
     "explanation": "Vivre sainement — rester actif, bien manger, garder l'esprit et la vie sociale en éveil — peut réduire le risque. Ce n'est pas une garantie, mais ce qui est bon pour le cœur l'est aussi pour le cerveau."
@@ -90310,10 +90310,10 @@ const EPISODES = [
    {
     "text": "Was ist das Info-Zenter Demenz?",
     "options": [
-     "Ein Pflegeheim",
-     "Eine Apotheke",
+     "Ein Pflegeheim für Menschen mit Gedächtnisproblemen",
+     "Eine Apotheke, die Demenzmedikamente verkauft",
      "Luxemburgs nationales Informations- und Beratungszentrum zu Gedächtnisproblemen und Demenz",
-     "Eine Krankenhausstation"
+     "Eine spezialisierte Krankenhausstation, auf der Menschen mit Demenz behandelt werden und mehrere Monate leben"
     ],
     "correct": 2,
     "explanation": "Das Info-Zenter Demenz ist das nationale Zentrum für Information und Beratung zu Gedächtnisproblemen und Demenz – für Betroffene, ihre Angehörigen, Fachkräfte des Gesundheitswesens und alle, die Fragen haben."
@@ -90321,7 +90321,7 @@ const EPISODES = [
    {
     "text": "Wie viel kosten die Leistungen des Zentrums?",
     "options": [
-     "Eine monatliche Gebühr",
+     "Eine Monatsgebühr",
      "Eine Gebühr pro Besuch",
      "Nur der erste Besuch ist kostenlos",
      "Sie sind kostenlos"
@@ -90333,9 +90333,9 @@ const EPISODES = [
     "text": "Was ist eine wichtige Botschaft zu Gedächtnis und Demenz?",
     "options": [
      "Demenz ist kein normales Altern, und gewöhnliche Gedächtnisprobleme unterscheiden sich von Demenz",
-     "Jeder Gedächtnisaussetzer bedeutet Demenz",
-     "Man kann nichts verstehen",
-     "Nur Ärzte dürfen darüber sprechen"
+     "Jeder kleine Aussetzer, etwa vergessene Schlüssel oder Namen, ist schon ein frühes Zeichen von Demenz",
+     "Man kann Demenz nicht verstehen, deshalb spricht man besser nicht darüber",
+     "Nur Ärzte dürfen über Demenz sprechen; Familien sollten keine Fragen stellen"
     ],
     "correct": 0,
     "explanation": "Demenz ist kein normaler Teil des Alterns, und nicht jeder vergessene Name ist Demenz. Das Zentrum hilft, den Unterschied zu erklären, und wie eine richtige Diagnose abläuft – sodass der richtige Schritt gute Information ist, nicht Panik."
@@ -90343,10 +90343,10 @@ const EPISODES = [
    {
     "text": "Wen unterstützt das Zentrum?",
     "options": [
-     "Nur Ärzte",
+     "Nur Ärzte und Pflegekräfte, die eine Schulung brauchen",
      "Die betroffene Person sowie ihre Angehörigen und Pflegenden",
-     "Nur Kinder",
-     "Nur Arbeitgeber"
+     "Nur Kinder, die sich um einen Großelternteil sorgen",
+     "Nur Arbeitgeber, deren Mitarbeiter einen Angehörigen mit Demenz pflegen"
     ],
     "correct": 1,
     "explanation": "Das Zentrum unterstützt sowohl die betroffene Person – mit Hinweisen zum guten Leben, zur Arbeit, zum Autofahren und zur Vorausplanung – als auch die Angehörigen, die sie pflegen, und hilft Pflegenden, auch auf ihre eigene Gesundheit zu achten."
@@ -90354,10 +90354,10 @@ const EPISODES = [
    {
     "text": "Kann das Demenzrisiko gesenkt werden?",
     "options": [
-     "Nein, niemals",
-     "Nur durch Auswanderung",
+     "Nein, nie — es hängt nur von den Genen ab",
+     "Nur durch einen Umzug in ein Land mit wärmerem Klima",
      "Ja – eine gesunde Lebensweise kann das Risiko senken",
-     "Nur mit teuren Medikamenten"
+     "Nur mit teuren Medikamenten, die man ab vierzig jeden Tag nimmt"
     ],
     "correct": 2,
     "explanation": "Gesund zu leben – aktiv bleiben, sich gut ernähren, Geist und Sozialleben beschäftigt halten – kann das Risiko senken. Es ist keine Garantie, aber was gut für das Herz ist, ist auch gut für das Gehirn."
@@ -91663,9 +91663,9 @@ const EPISODES = [
    {
     "text": "What defines the social and solidarity economy?",
     "options": [
-     "Making as much profit as possible",
-     "Avoiding all work",
-     "Only large banks",
+     "Companies whose only goal is to make as much profit as possible for their shareholders",
+     "Organisations that avoid paid work and rely only on volunteers",
+     "Only the large banks that invest in social projects abroad",
      "Organisations whose first purpose is a social or societal benefit, not just profit"
     ],
     "correct": 3,
@@ -91674,9 +91674,9 @@ const EPISODES = [
    {
     "text": "Which of these belong to the social and solidarity economy?",
     "options": [
-     "Only stock-market traders",
-     "Only foreign firms",
-     "Only government ministries",
+     "Only stock-market traders who invest in green companies",
+     "Only foreign firms that open a branch in Luxembourg",
+     "Only government ministries and public administrations, such as the Ministry of Labour",
      "Cooperatives, associations, mutual societies, foundations and social enterprises"
     ],
     "correct": 3,
@@ -91685,10 +91685,10 @@ const EPISODES = [
    {
     "text": "What is the \"societal impact company\"?",
     "options": [
-     "A company that avoids taxes",
-     "A type of bank account",
+     "A company that is allowed to avoid taxes because it gives to charity",
+     "A special bank account for donations to associations",
      "A legal status for a business whose official purpose is social impact",
-     "A government ministry"
+     "A government ministry in charge of social projects and charities across the country"
     ],
     "correct": 2,
     "explanation": "Luxembourg created a legal status, the societal impact company (société d'impact sociétal), which lets you build a real business whose official purpose is social impact, recognised by law."
@@ -91696,10 +91696,10 @@ const EPISODES = [
    {
     "text": "What does the social and solidarity economy often do for people?",
     "options": [
-     "Nothing useful",
+     "Nothing useful for residents",
      "Creates jobs and serves needs like inclusion, care and the environment",
-     "Only raises prices",
-     "Only helps people abroad"
+     "It mainly raises prices for consumers",
+     "It only helps people abroad, through projects in developing countries far from Luxembourg"
     ],
     "correct": 1,
     "explanation": "The sector creates jobs — including for people who find it hard to enter the normal job market — and serves needs that ordinary business may overlook, such as inclusion, care and the environment."
@@ -91708,9 +91708,9 @@ const EPISODES = [
     "text": "How does the portal help someone with an idea?",
     "options": [
      "It explains the social economy and how to create such a company",
-     "It doesn't",
-     "It only sells products",
-     "It only works abroad"
+     "It doesn't — it only lists existing organisations",
+     "It only sells products made by social enterprises",
+     "It only works for people who live abroad and want to invest in Luxembourg"
     ],
     "correct": 0,
     "explanation": "The portal explains the social and solidarity economy and how to create this kind of company — so if you dream of starting a business that also makes a difference, it shows you the path."
@@ -91736,9 +91736,9 @@ const EPISODES = [
    {
     "text": "Qu'est-ce qui définit l'économie sociale et solidaire ?",
     "options": [
-     "Faire le plus de profit possible",
-     "Éviter tout travail",
-     "Uniquement les grandes banques",
+     "Des entreprises dont le seul but est de faire le plus de profit possible pour leurs actionnaires et leurs dirigeants",
+     "Des organisations qui évitent l'emploi salarié et comptent uniquement sur des bénévoles",
+     "Seulement les grandes banques qui investissent dans des projets sociaux à l'étranger",
      "Des organisations dont le premier objectif est un bénéfice social ou sociétal, et pas seulement le profit"
     ],
     "correct": 3,
@@ -91747,9 +91747,9 @@ const EPISODES = [
    {
     "text": "Lesquelles de ces structures relèvent de l'économie sociale et solidaire ?",
     "options": [
-     "Uniquement les traders boursiers",
-     "Uniquement les entreprises étrangères",
-     "Uniquement les ministères",
+     "Seulement les traders qui investissent dans des entreprises vertes",
+     "Seulement les entreprises étrangères qui ouvrent une filiale au Luxembourg",
+     "Seulement les ministères et les administrations publiques, comme le ministère du Travail",
      "Les coopératives, associations, mutuelles, fondations et entreprises sociales"
     ],
     "correct": 3,
@@ -91758,10 +91758,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que la « société d'impact sociétal » ?",
     "options": [
-     "Une entreprise qui échappe à l'impôt",
-     "Un type de compte bancaire",
+     "Une entreprise autorisée à éviter l'impôt parce qu'elle fait des dons",
+     "Un compte bancaire spécial pour les dons aux associations",
      "Un statut juridique pour une entreprise dont l'objet officiel est l'impact social",
-     "Un ministère"
+     "Un ministère chargé des projets sociaux et des œuvres caritatives dans tout le pays"
     ],
     "correct": 2,
     "explanation": "Le Luxembourg a créé un statut juridique, la société d'impact sociétal, qui vous permet de bâtir une véritable entreprise dont l'objet officiel est l'impact social, reconnu par la loi."
@@ -91769,10 +91769,10 @@ const EPISODES = [
    {
     "text": "Que fait souvent l'économie sociale et solidaire pour les gens ?",
     "options": [
-     "Rien d'utile",
+     "Rien d'utile pour les résidents",
      "Elle crée des emplois et répond à des besoins comme l'inclusion, le soin et l'environnement",
-     "Elle ne fait qu'augmenter les prix",
-     "Elle n'aide que les gens à l'étranger"
+     "Elle fait surtout monter les prix pour les consommateurs",
+     "Elle n'aide que des gens à l'étranger, par des projets dans des pays en développement loin du Luxembourg"
     ],
     "correct": 1,
     "explanation": "Le secteur crée des emplois — y compris pour les personnes qui ont du mal à entrer sur le marché du travail classique — et répond à des besoins que l'entreprise ordinaire peut négliger, comme l'inclusion, le soin et l'environnement."
@@ -91781,9 +91781,9 @@ const EPISODES = [
     "text": "Comment le portail aide-t-il une personne ayant une idée ?",
     "options": [
      "Il explique l'économie sociale et comment créer une telle entreprise",
-     "Il ne l'aide pas",
-     "Il ne fait que vendre des produits",
-     "Il ne fonctionne qu'à l'étranger"
+     "Il n'aide pas — il liste seulement les organisations existantes",
+     "Il vend seulement des produits fabriqués par des entreprises sociales",
+     "Il ne fonctionne que pour des personnes vivant à l'étranger qui veulent investir au Luxembourg"
     ],
     "correct": 0,
     "explanation": "Le portail explique l'économie sociale et solidaire et comment créer ce type d'entreprise — ainsi, si vous rêvez de lancer une entreprise qui fait aussi la différence, il vous en montre le chemin."
@@ -91805,9 +91805,9 @@ const EPISODES = [
    {
     "text": "Was zeichnet die Sozial- und Solidarwirtschaft aus?",
     "options": [
-     "So viel Gewinn wie möglich zu machen",
-     "Jede Arbeit zu vermeiden",
-     "Nur große Banken",
+     "Unternehmen, deren einziges Ziel möglichst viel Gewinn für ihre Aktionäre und ihre Manager ist",
+     "Organisationen, die bezahlte Arbeit vermeiden und nur auf Freiwillige setzen",
+     "Nur die großen Banken, die in Sozialprojekte im Ausland investieren",
      "Organisationen, deren erster Zweck ein sozialer oder gesellschaftlicher Nutzen ist, nicht nur Gewinn"
     ],
     "correct": 3,
@@ -91816,9 +91816,9 @@ const EPISODES = [
    {
     "text": "Welche davon gehören zur Sozial- und Solidarwirtschaft?",
     "options": [
-     "Nur Börsenhändler",
-     "Nur ausländische Firmen",
-     "Nur Regierungsministerien",
+     "Nur Börsenhändler, die in grüne Unternehmen investieren",
+     "Nur ausländische Firmen, die eine Niederlassung in Luxemburg eröffnen",
+     "Nur Ministerien und öffentliche Verwaltungen, etwa das Arbeitsministerium oder die ADEM",
      "Genossenschaften, Vereine, Gegenseitigkeitsgesellschaften, Stiftungen und Sozialunternehmen"
     ],
     "correct": 3,
@@ -91827,10 +91827,10 @@ const EPISODES = [
    {
     "text": "Was ist die „Gesellschaft mit gesellschaftlicher Wirkung“?",
     "options": [
-     "Ein Unternehmen, das Steuern vermeidet",
-     "Eine Art Bankkonto",
+     "Ein Unternehmen, das Steuern vermeiden darf, weil es spendet",
+     "Ein spezielles Bankkonto für Spenden an Vereine",
      "Ein Rechtsstatus für ein Unternehmen, dessen offizieller Zweck gesellschaftliche Wirkung ist",
-     "Ein Regierungsministerium"
+     "Ein Ministerium, das im ganzen Land für alle Sozialprojekte und Hilfswerke zuständig ist"
     ],
     "correct": 2,
     "explanation": "Luxemburg hat einen Rechtsstatus geschaffen, die Gesellschaft mit gesellschaftlicher Wirkung (société d'impact sociétal), mit der Sie ein echtes Unternehmen aufbauen können, dessen offizieller Zweck gesellschaftliche Wirkung ist und gesetzlich anerkannt wird."
@@ -91838,10 +91838,10 @@ const EPISODES = [
    {
     "text": "Was tut die Sozial- und Solidarwirtschaft oft für die Menschen?",
     "options": [
-     "Nichts Nützliches",
+     "Nichts Nützliches für die Einwohner",
      "Sie schafft Arbeitsplätze und bedient Bedürfnisse wie Inklusion, Betreuung und Umwelt",
-     "Sie erhöht nur die Preise",
-     "Sie hilft nur Menschen im Ausland"
+     "Sie erhöht vor allem die Preise für Verbraucher",
+     "Sie hilft nur Menschen im Ausland, durch Projekte in Entwicklungsländern weit weg von Luxemburg"
     ],
     "correct": 1,
     "explanation": "Der Sektor schafft Arbeitsplätze – auch für Menschen, die es schwer haben, in den regulären Arbeitsmarkt einzutreten – und bedient Bedürfnisse, die ein gewöhnliches Unternehmen übersehen könnte, etwa Inklusion, Betreuung und Umwelt."
@@ -91850,9 +91850,9 @@ const EPISODES = [
     "text": "Wie hilft das Portal jemandem mit einer Idee?",
     "options": [
      "Es erklärt die Sozialwirtschaft und wie man ein solches Unternehmen gründet",
-     "Gar nicht",
-     "Es verkauft nur Produkte",
-     "Es funktioniert nur im Ausland"
+     "Gar nicht — es listet nur bestehende Organisationen auf",
+     "Es verkauft nur Produkte von Sozialunternehmen",
+     "Es funktioniert nur für Menschen im Ausland, die in Luxemburg investieren wollen"
     ],
     "correct": 0,
     "explanation": "Das Portal erklärt die Sozial- und Solidarwirtschaft und wie man diese Art von Unternehmen gründet – wenn Sie also davon träumen, ein Unternehmen zu starten, das auch etwas bewirkt, zeigt es Ihnen den Weg."
@@ -93118,10 +93118,10 @@ const EPISODES = [
    {
     "text": "What is Luxinnovation?",
     "options": [
-     "A supermarket",
-     "A bank",
+     "A supermarket chain with new products",
+     "A bank for technology start-ups",
      "Luxembourg's national innovation agency",
-     "A museum"
+     "A science museum for school classes"
     ],
     "correct": 2,
     "explanation": "Luxinnovation is Luxembourg's national innovation agency. It helps companies, startups and research organisations to grow, innovate and stay competitive."
@@ -93130,9 +93130,9 @@ const EPISODES = [
     "text": "Who does Luxinnovation help?",
     "options": [
      "Big and small companies, startups and research organisations",
-     "Only the government",
-     "Only farmers abroad",
-     "Only banks"
+     "Only the government and its ministries",
+     "Only farmers abroad who export to Luxembourg",
+     "Only banks that want to develop new mobile banking apps for their clients"
     ],
     "correct": 0,
     "explanation": "Luxinnovation helps established companies, small firms and brand-new startups, and connects them with the research world — turning clever research into real products, services and jobs."
@@ -93140,10 +93140,10 @@ const EPISODES = [
    {
     "text": "What is Fit 4 Start?",
     "options": [
-     "A fitness club",
+     "A fitness club for people working in start-ups",
      "A startup acceleration programme offering coaching and early funding",
-     "A running race",
-     "A tax"
+     "A charity running race held every year in Luxembourg City",
+     "A special tax on new companies in their first four years of activity"
     ],
     "correct": 1,
     "explanation": "Fit 4 Start is a startup acceleration programme that selects promising young startups and gives them coaching, support and early funding to grow — invaluable for a founder with a great idea."
@@ -93151,9 +93151,9 @@ const EPISODES = [
    {
     "text": "How does Luxinnovation help with funding?",
     "options": [
-     "It lends its own money only",
-     "It doesn't help with funding",
-     "It only gives prizes",
+     "It lends only its own money, at normal bank interest rates",
+     "It doesn't help with funding at all; it only gives advice on marketing",
+     "It only gives cash prizes at an annual competition for the best invention",
      "It guides companies through national and European funding and how to apply"
     ],
     "correct": 3,
@@ -93163,9 +93163,9 @@ const EPISODES = [
     "text": "Why does innovation matter for ordinary residents?",
     "options": [
      "It creates jobs, diversifies the economy and improves daily life",
-     "It doesn't",
-     "It only helps other countries",
-     "It only raises taxes"
+     "It doesn't — innovation only matters for big companies",
+     "It only helps other countries, which buy Luxembourg's ideas",
+     "It mainly raises taxes, because the State pays for every new project and invention"
     ],
     "correct": 0,
     "explanation": "Innovation creates good, future-proof jobs, diversifies the economy so the country isn't reliant on one sector, and produces things that improve daily life — and a thriving economy funds public services."
@@ -93191,10 +93191,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que Luxinnovation ?",
     "options": [
-     "Un supermarché",
-     "Une banque",
+     "Une chaîne de supermarchés aux produits nouveaux",
+     "Une banque pour les start-up technologiques",
      "L'agence nationale de l'innovation du Luxembourg",
-     "Un musée"
+     "Un musée des sciences pour les classes"
     ],
     "correct": 2,
     "explanation": "Luxinnovation est l'agence nationale de l'innovation du Luxembourg. Elle aide les entreprises, les startups et les organismes de recherche à grandir, à innover et à rester compétitifs."
@@ -93203,9 +93203,9 @@ const EPISODES = [
     "text": "Qui Luxinnovation aide-t-elle ?",
     "options": [
      "Les grandes et petites entreprises, les startups et les organismes de recherche",
-     "Uniquement le gouvernement",
-     "Uniquement les agriculteurs à l'étranger",
-     "Uniquement les banques"
+     "Seulement le gouvernement et ses ministères",
+     "Seulement les agriculteurs étrangers qui exportent vers le Luxembourg",
+     "Seulement les banques qui veulent créer de nouvelles applis bancaires pour leurs clients"
     ],
     "correct": 0,
     "explanation": "Luxinnovation aide les entreprises établies, les petites structures et les toutes jeunes startups, et les met en relation avec le monde de la recherche — transformant une recherche ingénieuse en produits, services et emplois bien réels."
@@ -93213,10 +93213,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que Fit 4 Start ?",
     "options": [
-     "Un club de fitness",
+     "Un club de fitness pour les personnes travaillant dans des start-up",
      "Un programme d'accélération de startups offrant coaching et financement de départ",
-     "Une course à pied",
-     "Une taxe"
+     "Une course caritative organisée chaque année à Luxembourg-Ville",
+     "Une taxe spéciale sur les nouvelles entreprises pendant leurs quatre premières années"
     ],
     "correct": 1,
     "explanation": "Fit 4 Start est un programme d'accélération de startups qui sélectionne de jeunes startups prometteuses et leur apporte coaching, accompagnement et financement de départ pour grandir — précieux pour un fondateur ayant une excellente idée."
@@ -93224,9 +93224,9 @@ const EPISODES = [
    {
     "text": "Comment Luxinnovation aide-t-elle en matière de financement ?",
     "options": [
-     "Elle ne prête que son propre argent",
-     "Elle n'aide pas au financement",
-     "Elle ne décerne que des prix",
+     "Il prête seulement son propre argent, aux taux d'intérêt bancaires normaux",
+     "Il n'aide pas du tout pour le financement ; il conseille seulement sur le marketing",
+     "Il donne seulement des prix en argent lors d'un concours annuel qui récompense la meilleure invention",
      "Elle guide les entreprises à travers les financements nationaux et européens et la manière de candidater"
     ],
     "correct": 3,
@@ -93236,9 +93236,9 @@ const EPISODES = [
     "text": "Pourquoi l'innovation compte-t-elle pour les résidents ordinaires ?",
     "options": [
      "Elle crée des emplois, diversifie l'économie et améliore la vie quotidienne",
-     "Elle ne compte pas",
-     "Elle n'aide que les autres pays",
-     "Elle ne fait qu'augmenter les impôts"
+     "Elle n'a pas d'importance — l'innovation ne concerne que les grandes entreprises",
+     "Elle n'aide que les autres pays, qui achètent les idées du Luxembourg",
+     "Elle fait surtout monter les impôts, car l'État paie chaque nouveau projet et invention"
     ],
     "correct": 0,
     "explanation": "L'innovation crée des emplois de qualité et durables, diversifie l'économie pour que le pays ne dépende pas d'un seul secteur, et produit des choses qui améliorent la vie quotidienne — et une économie florissante finance les services publics."
@@ -93260,10 +93260,10 @@ const EPISODES = [
    {
     "text": "Was ist Luxinnovation?",
     "options": [
-     "Ein Supermarkt",
-     "Eine Bank",
+     "Eine Supermarktkette mit neuen Produkten",
+     "Eine Bank für Technologie-Start-ups",
      "Luxemburgs nationale Innovationsagentur",
-     "Ein Museum"
+     "Ein Wissenschaftsmuseum für Schulklassen"
     ],
     "correct": 2,
     "explanation": "Luxinnovation ist Luxemburgs nationale Innovationsagentur. Sie hilft Unternehmen, Start-ups und Forschungseinrichtungen, zu wachsen, zu innovieren und wettbewerbsfähig zu bleiben."
@@ -93272,9 +93272,9 @@ const EPISODES = [
     "text": "Wem hilft Luxinnovation?",
     "options": [
      "Großen und kleinen Unternehmen, Start-ups und Forschungseinrichtungen",
-     "Nur der Regierung",
-     "Nur Landwirten im Ausland",
-     "Nur Banken"
+     "Nur die Regierung und ihre Ministerien",
+     "Nur Landwirte im Ausland, die nach Luxemburg exportieren",
+     "Nur Banken, die neue Banking-Apps für ihre Privatkunden entwickeln wollen"
     ],
     "correct": 0,
     "explanation": "Luxinnovation hilft etablierten Unternehmen, kleinen Firmen und ganz neuen Start-ups und verbindet sie mit der Forschungswelt – um kluge Forschung in echte Produkte, Dienstleistungen und Arbeitsplätze zu verwandeln."
@@ -93282,10 +93282,10 @@ const EPISODES = [
    {
     "text": "Was ist Fit 4 Start?",
     "options": [
-     "Ein Fitnessclub",
+     "Ein Fitnessstudio für Menschen, die in Start-ups arbeiten",
      "Ein Start-up-Beschleunigungsprogramm mit Coaching und Anschubfinanzierung",
-     "Ein Wettlauf",
-     "Eine Steuer"
+     "Ein Benefizlauf, der jedes Jahr in Luxemburg-Stadt stattfindet",
+     "Eine Sondersteuer auf neue Unternehmen in ihren ersten vier Geschäftsjahren"
     ],
     "correct": 1,
     "explanation": "Fit 4 Start ist ein Start-up-Beschleunigungsprogramm, das vielversprechende junge Start-ups auswählt und ihnen Coaching, Unterstützung und eine Anschubfinanzierung zum Wachsen bietet – von unschätzbarem Wert für eine Gründerin oder einen Gründer mit einer guten Idee."
@@ -93293,9 +93293,9 @@ const EPISODES = [
    {
     "text": "Wie hilft Luxinnovation bei der Finanzierung?",
     "options": [
-     "Sie verleiht nur ihr eigenes Geld",
-     "Sie hilft nicht bei der Finanzierung",
-     "Sie vergibt nur Preise",
+     "Sie verleiht nur eigenes Geld, zu normalen Bankzinsen",
+     "Sie hilft gar nicht bei der Finanzierung; sie berät nur zum Marketing",
+     "Sie vergibt nur Geldpreise bei einem jährlichen Wettbewerb, der die beste Erfindung auszeichnet",
      "Sie begleitet Unternehmen durch nationale und europäische Förderung und beim Antragsverfahren"
     ],
     "correct": 3,
@@ -93305,9 +93305,9 @@ const EPISODES = [
     "text": "Warum ist Innovation für die normalen Einwohner wichtig?",
     "options": [
      "Sie schafft Arbeitsplätze, diversifiziert die Wirtschaft und verbessert den Alltag",
-     "Ist sie nicht",
-     "Sie hilft nur anderen Ländern",
-     "Sie erhöht nur die Steuern"
+     "Gar nicht — Innovation ist nur für große Firmen wichtig",
+     "Sie hilft nur anderen Ländern, die Luxemburgs Ideen kaufen",
+     "Sie erhöht vor allem die Steuern, weil der Staat jedes neue Projekt und jede Erfindung bezahlt"
     ],
     "correct": 0,
     "explanation": "Innovation schafft gute, zukunftssichere Arbeitsplätze, diversifiziert die Wirtschaft, sodass das Land nicht von einem einzigen Sektor abhängt, und bringt Dinge hervor, die den Alltag verbessern – und eine florierende Wirtschaft finanziert die öffentlichen Dienste."
@@ -94508,10 +94508,10 @@ const EPISODES = [
    {
     "text": "What is logement.public.lu?",
     "options": [
-     "A property-sales agency",
-     "A bank",
+     "A property-sales agency run by the State",
+     "A bank that gives housing loans",
      "The Ministry of Housing's one-stop housing portal",
-     "A furniture shop"
+     "A furniture shop with discounts for new residents"
     ],
     "correct": 2,
     "explanation": "Logement.public.lu is the Ministry of Housing's portal, organised for tenants, owners and communes. It gathers in one place everything about housing — renting, buying, renovating and the aids the State offers."
@@ -94520,9 +94520,9 @@ const EPISODES = [
     "text": "What financial help for renters does the portal explain?",
     "options": [
      "A rent subsidy for households on lower incomes",
-     "A subsidy for luxury cars",
-     "Free holidays",
-     "Nothing"
+     "A subsidy for renters who buy an electric car",
+     "Free holidays for families living in social housing",
+     "Nothing — the portal is only for buyers and owners, not for renters"
     ],
     "correct": 0,
     "explanation": "The portal explains help for renters, including a rent subsidy for households on lower incomes — support many people who would qualify don't even know exists."
@@ -94530,9 +94530,9 @@ const EPISODES = [
    {
     "text": "What support does the portal cover for owners and buyers?",
     "options": [
-     "Only how to sell quickly",
-     "Only luxury renovations",
-     "None",
+     "Only advice on how to sell your home quickly and at the highest possible price",
+     "Only grants for luxury renovations such as swimming pools and saunas",
+     "None — owners and buyers must go to their bank, because the State gives no help at all",
      "Help with buying or building a home, and reduced registration costs for a main residence"
     ],
     "correct": 3,
@@ -94541,10 +94541,10 @@ const EPISODES = [
    {
     "text": "What does the single counter for housing aids do?",
     "options": [
-     "Sells houses",
+     "It sells houses and apartments built by the State",
      "Lets you ask about and apply for the different housing supports in one place",
-     "Fixes roofs",
-     "Gives driving lessons"
+     "It sends workers to repair roofs and heating systems",
+     "It organises driving lessons for people who move to rural communes"
     ],
     "correct": 1,
     "explanation": "There is a single counter for housing aids — one office where you can ask about, and apply for, the different housing supports, so you don't have to run between many offices."
@@ -94552,10 +94552,10 @@ const EPISODES = [
    {
     "text": "What national goal does the housing policy pursue?",
     "options": [
-     "Fewer homes",
+     "Fewer homes, to protect the countryside",
      "Building more affordable housing, in partnership with the communes",
-     "Only luxury homes",
-     "Selling land abroad"
+     "Mainly luxury homes for international residents",
+     "Selling public land abroad to investors, so that the State can pay for its projects"
     ],
     "correct": 1,
     "explanation": "The portal explains the policy on affordable housing — building more homes that ordinary people can actually afford — and the partnership with communes to create affordable homes locally."
@@ -94580,10 +94580,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que logement.public.lu ?",
     "options": [
-     "Une agence de vente immobilière",
-     "Une banque",
+     "Une agence de vente immobilière gérée par l'État",
+     "Une banque qui accorde des prêts logement",
      "Le portail du logement guichet unique du ministère du Logement",
-     "Un magasin de meubles"
+     "Un magasin de meubles avec des réductions pour les nouveaux résidents"
     ],
     "correct": 2,
     "explanation": "Logement.public.lu est le portail du ministère du Logement, organisé pour les locataires, les propriétaires et les communes. Il rassemble en un seul endroit tout ce qui concerne le logement — louer, acheter, rénover et les aides offertes par l'État."
@@ -94592,9 +94592,9 @@ const EPISODES = [
     "text": "Quelle aide financière pour les locataires le portail explique-t-il ?",
     "options": [
      "Une subvention de loyer pour les ménages à revenus modestes",
-     "Une subvention pour les voitures de luxe",
-     "Des vacances gratuites",
-     "Rien"
+     "Une aide pour les locataires qui achètent une voiture électrique",
+     "Des vacances gratuites pour les familles en logement social",
+     "Rien — le portail est seulement pour les acheteurs et les propriétaires, pas pour les locataires"
     ],
     "correct": 0,
     "explanation": "Le portail explique les aides aux locataires, dont une subvention de loyer pour les ménages à revenus modestes — un soutien dont de nombreuses personnes pourtant éligibles ignorent même l'existence."
@@ -94602,9 +94602,9 @@ const EPISODES = [
    {
     "text": "Quel soutien le portail couvre-t-il pour les propriétaires et les acheteurs ?",
     "options": [
-     "Uniquement comment vendre vite",
-     "Uniquement les rénovations de luxe",
-     "Aucun",
+     "Seulement des conseils pour vendre votre logement vite et au prix le plus élevé",
+     "Seulement des aides pour des rénovations de luxe comme des piscines et des saunas",
+     "Aucune — les propriétaires et les acheteurs doivent s'adresser à leur banque, car l'État ne les aide pas du tout",
      "L'aide à l'achat ou à la construction d'un logement, et des frais d'enregistrement réduits pour une résidence principale"
     ],
     "correct": 3,
@@ -94613,10 +94613,10 @@ const EPISODES = [
    {
     "text": "Que fait le guichet unique des aides au logement ?",
     "options": [
-     "Il vend des maisons",
+     "Il vend des maisons et des appartements construits par l'État",
      "Il vous permet de vous renseigner sur les différentes aides au logement et de les demander en un seul endroit",
-     "Il répare les toitures",
-     "Il donne des leçons de conduite"
+     "Il envoie des ouvriers réparer les toits et les chauffages",
+     "Il organise des leçons de conduite pour les personnes qui s'installent dans des communes rurales"
     ],
     "correct": 1,
     "explanation": "Il existe un guichet unique des aides au logement — un seul bureau où vous pouvez vous renseigner sur les différentes aides au logement et les demander, sans avoir à courir entre de nombreux bureaux."
@@ -94624,10 +94624,10 @@ const EPISODES = [
    {
     "text": "Quel objectif national la politique du logement poursuit-elle ?",
     "options": [
-     "Moins de logements",
+     "Moins de logements, pour protéger la campagne",
      "Construire davantage de logements abordables, en partenariat avec les communes",
-     "Uniquement des logements de luxe",
-     "Vendre des terrains à l'étranger"
+     "Surtout des logements de luxe pour des résidents internationaux",
+     "Vendre des terrains publics à des investisseurs étrangers, pour que l'État finance ses projets"
     ],
     "correct": 1,
     "explanation": "Le portail explique la politique du logement abordable — construire davantage de logements que les gens ordinaires peuvent réellement se permettre — et le partenariat avec les communes pour créer des logements abordables au niveau local."
@@ -94649,10 +94649,10 @@ const EPISODES = [
    {
     "text": "Was ist logement.public.lu?",
     "options": [
-     "Eine Immobilienverkaufsagentur",
-     "Eine Bank",
+     "Eine staatliche Immobilienverkaufsagentur",
+     "Eine Bank, die Wohnungskredite vergibt",
      "Das zentrale Wohnungsportal des Wohnungsbauministeriums",
-     "Ein Möbelgeschäft"
+     "Ein Möbelgeschäft mit Rabatten für neue Einwohner"
     ],
     "correct": 2,
     "explanation": "Logement.public.lu ist das Portal des Wohnungsbauministeriums, gegliedert für Mieter, Eigentümer und Gemeinden. Es bündelt an einem Ort alles rund ums Wohnen – Mieten, Kaufen, Renovieren und die Beihilfen, die der Staat anbietet."
@@ -94661,9 +94661,9 @@ const EPISODES = [
     "text": "Welche finanzielle Hilfe für Mieter erklärt das Portal?",
     "options": [
      "Einen Mietzuschuss für Haushalte mit niedrigerem Einkommen",
-     "Einen Zuschuss für Luxusautos",
-     "Kostenlose Urlaube",
-     "Nichts"
+     "Ein Zuschuss für Mieter, die ein Elektroauto kaufen",
+     "Kostenloser Urlaub für Familien in Sozialwohnungen",
+     "Nichts — das Portal ist nur für Käufer und Eigentümer, nicht für Mieter"
     ],
     "correct": 0,
     "explanation": "Das Portal erklärt Hilfen für Mieter, darunter einen Mietzuschuss für Haushalte mit niedrigerem Einkommen – eine Unterstützung, von deren Existenz viele Anspruchsberechtigte nicht einmal wissen."
@@ -94671,9 +94671,9 @@ const EPISODES = [
    {
     "text": "Welche Unterstützung deckt das Portal für Eigentümer und Käufer ab?",
     "options": [
-     "Nur wie man schnell verkauft",
-     "Nur Luxusrenovierungen",
-     "Keine",
+     "Nur Tipps, wie man seine Wohnung oder sein Haus schnell und zum höchstmöglichen Preis verkauft",
+     "Nur Zuschüsse für Luxusrenovierungen wie Schwimmbäder und Saunen",
+     "Keine — Eigentümer und Käufer müssen zur Bank, weil der Staat gar nicht hilft",
      "Hilfe beim Kauf oder Bau einer Wohnung und ermäßigte Eintragungskosten für einen Hauptwohnsitz"
     ],
     "correct": 3,
@@ -94682,10 +94682,10 @@ const EPISODES = [
    {
     "text": "Was macht die zentrale Anlaufstelle für Wohnungsbeihilfen?",
     "options": [
-     "Sie verkauft Häuser",
+     "Er verkauft vom Staat gebaute Häuser und Wohnungen",
      "Sie lässt Sie an einem Ort nach den verschiedenen Wohnungsbeihilfen fragen und sie beantragen",
-     "Sie repariert Dächer",
-     "Sie gibt Fahrstunden"
+     "Er schickt Handwerker, die Dächer und Heizungen reparieren",
+     "Er organisiert Fahrstunden für Menschen, die aus der Stadt in ländliche Gemeinden ziehen"
     ],
     "correct": 1,
     "explanation": "Es gibt eine zentrale Anlaufstelle für Wohnungsbeihilfen – ein Büro, in dem Sie nach den verschiedenen Wohnungsbeihilfen fragen und sie beantragen können, sodass Sie nicht zwischen vielen Stellen hin- und herlaufen müssen."
@@ -94693,10 +94693,10 @@ const EPISODES = [
    {
     "text": "Welches nationale Ziel verfolgt die Wohnungspolitik?",
     "options": [
-     "Weniger Wohnungen",
+     "Weniger Wohnungen, um die Landschaft zu schützen",
      "Mehr bezahlbaren Wohnraum schaffen, in Partnerschaft mit den Gemeinden",
-     "Nur Luxuswohnungen",
-     "Boden ins Ausland verkaufen"
+     "Vor allem Luxuswohnungen für internationale Einwohner",
+     "Öffentliches Land an ausländische Investoren verkaufen, damit der Staat seine Projekte bezahlen kann"
     ],
     "correct": 1,
     "explanation": "Das Portal erklärt die Politik zum bezahlbaren Wohnraum – mehr Wohnungen zu bauen, die sich normale Menschen tatsächlich leisten können – und die Partnerschaft mit den Gemeinden, um vor Ort bezahlbaren Wohnraum zu schaffen."
@@ -95972,10 +95972,10 @@ const EPISODES = [
    {
     "text": "What does the Luxembourg Space Agency do?",
     "options": [
-     "Sells telescopes",
+     "Sells telescopes to schools",
      "Develops and supports Luxembourg's space sector",
-     "Runs the airport",
-     "Builds houses"
+     "Runs Luxembourg's airport and air traffic",
+     "Builds houses using new materials tested in space"
     ],
     "correct": 1,
     "explanation": "The Luxembourg Space Agency develops and supports the country's space sector — helping companies, funding and talent, attracting space businesses, and connecting Luxembourg to partners like the European Space Agency."
@@ -95983,9 +95983,9 @@ const EPISODES = [
    {
     "text": "When did Luxembourg first enter the space sector?",
     "options": [
-     "Last year",
-     "In the Middle Ages",
-     "It hasn't",
+     "Only last year, with its first astronaut",
+     "In the Middle Ages, with its first observatory",
+     "It hasn't yet — it only plans to join the sector in the next ten years",
      "In 1985, with the creation of the satellite company SES"
     ],
     "correct": 3,
@@ -95995,9 +95995,9 @@ const EPISODES = [
     "text": "How has Luxembourg's space sector changed in recent years?",
     "options": [
      "It has grown a lot — to dozens of companies and over a thousand jobs",
-     "It has disappeared",
-     "It has stayed the same",
-     "It moved abroad"
+     "It has disappeared since the satellite company left",
+     "It has stayed exactly the same since the 1980s",
+     "It has moved abroad, because the companies went to bigger countries with more money"
     ],
     "correct": 0,
     "explanation": "In just over a decade, the sector grew from a handful of companies and a few hundred people to dozens of companies and well over a thousand jobs, thanks to government support and pioneering space laws."
@@ -96005,10 +96005,10 @@ const EPISODES = [
    {
     "text": "How does space technology touch everyday life?",
     "options": [
-     "It doesn't",
-     "Only through science fiction",
+     "It doesn't touch everyday life at all",
+     "Only through science-fiction films and books",
      "Through navigation, communications, weather, and climate and disaster monitoring",
-     "Only for astronauts"
+     "Only for astronauts and scientists working on the International Space Station and on the Moon"
     ],
     "correct": 2,
     "explanation": "Space quietly powers daily life: satellite navigation, communications, weather forecasts, and Earth observation that tracks the climate, pollution and floods, and helps respond to disasters and support farming."
@@ -96016,10 +96016,10 @@ const EPISODES = [
    {
     "text": "What does Luxembourg's space strategy emphasise?",
     "options": [
-     "Using space carelessly",
-     "Stopping all space activity",
+     "Using space carelessly to grow faster",
+     "Stopping all space activity by 2030",
      "Doing space sustainably and responsibly",
-     "Keeping it secret"
+     "Keeping all space projects secret for security reasons"
     ],
     "correct": 2,
     "explanation": "Luxembourg's strategy stresses sustainability — keeping space usable for future generations and using space to help solve challenges on Earth — a mature way to approach a powerful new frontier."
@@ -96045,10 +96045,10 @@ const EPISODES = [
    {
     "text": "Que fait l'Agence spatiale luxembourgeoise ?",
     "options": [
-     "Elle vend des télescopes",
+     "Elle vend des télescopes aux écoles",
      "Elle développe et soutient le secteur spatial du Luxembourg",
-     "Elle gère l'aéroport",
-     "Elle construit des maisons"
+     "Elle gère l'aéroport et le trafic aérien du Luxembourg",
+     "Elle construit des maisons avec des matériaux testés dans l'espace"
     ],
     "correct": 1,
     "explanation": "L'Agence spatiale luxembourgeoise développe et soutient le secteur spatial du pays — en aidant les entreprises, les financements et les talents, en attirant des entreprises du spatial, et en reliant le Luxembourg à des partenaires comme l'Agence spatiale européenne."
@@ -96056,9 +96056,9 @@ const EPISODES = [
    {
     "text": "Quand le Luxembourg est-il entré pour la première fois dans le secteur spatial ?",
     "options": [
-     "L'an dernier",
-     "Au Moyen Âge",
-     "Il n'y est jamais entré",
+     "L'an dernier seulement, avec son premier astronaute",
+     "Au Moyen Âge, avec son premier observatoire",
+     "Il ne l'a pas encore fait — il prévoit seulement d'y entrer dans les dix prochaines années",
      "En 1985, avec la création de la société de satellites SES"
     ],
     "correct": 3,
@@ -96068,9 +96068,9 @@ const EPISODES = [
     "text": "Comment le secteur spatial du Luxembourg a-t-il évolué ces dernières années ?",
     "options": [
      "Il a beaucoup grandi — jusqu'à des dizaines d'entreprises et plus d'un millier d'emplois",
-     "Il a disparu",
-     "Il est resté le même",
-     "Il est parti à l'étranger"
+     "Il a disparu depuis le départ de la société de satellites",
+     "Il est resté exactement le même depuis les années 1980",
+     "Il est parti à l'étranger, car les entreprises sont allées dans de plus grands pays avec plus d'argent"
     ],
     "correct": 0,
     "explanation": "En un peu plus d'une décennie, le secteur est passé d'une poignée d'entreprises et de quelques centaines de personnes à des dizaines d'entreprises et bien plus d'un millier d'emplois, grâce au soutien du gouvernement et à des lois spatiales pionnières."
@@ -96078,10 +96078,10 @@ const EPISODES = [
    {
     "text": "Comment la technologie spatiale touche-t-elle la vie quotidienne ?",
     "options": [
-     "Elle ne la touche pas",
-     "Uniquement à travers la science-fiction",
+     "Elle ne touche pas du tout la vie quotidienne",
+     "Seulement à travers les films et les livres de science-fiction",
      "Par la navigation, les communications, la météo, et la surveillance du climat et des catastrophes",
-     "Uniquement pour les astronautes"
+     "Seulement pour les astronautes et les scientifiques qui travaillent sur la Station spatiale internationale et sur la Lune"
     ],
     "correct": 2,
     "explanation": "L'espace alimente discrètement la vie quotidienne : navigation par satellite, communications, prévisions météo, et observation de la Terre qui suit le climat, la pollution et les inondations, et aide à répondre aux catastrophes et à soutenir l'agriculture."
@@ -96089,10 +96089,10 @@ const EPISODES = [
    {
     "text": "Sur quoi la stratégie spatiale du Luxembourg met-elle l'accent ?",
     "options": [
-     "Utiliser l'espace sans précaution",
-     "Arrêter toute activité spatiale",
+     "Utiliser l'espace sans précaution pour croître plus vite",
+     "Arrêter toute activité spatiale d'ici 2030",
      "Mener une activité spatiale durable et responsable",
-     "La garder secrète"
+     "Garder tous les projets spatiaux secrets pour des raisons de sécurité"
     ],
     "correct": 2,
     "explanation": "La stratégie du Luxembourg met l'accent sur la durabilité — garder l'espace utilisable pour les générations futures et l'utiliser pour aider à relever les défis sur Terre — une manière mûre d'aborder une nouvelle frontière puissante."
@@ -96114,10 +96114,10 @@ const EPISODES = [
    {
     "text": "Was macht die Luxemburgische Raumfahrtagentur?",
     "options": [
-     "Sie verkauft Teleskope",
+     "Sie verkauft Teleskope an Schulen",
      "Sie entwickelt und unterstützt Luxemburgs Raumfahrtsektor",
-     "Sie betreibt den Flughafen",
-     "Sie baut Häuser"
+     "Sie betreibt Luxemburgs Flughafen und den Luftverkehr",
+     "Sie baut Häuser mit neuen, im Weltraum getesteten Materialien"
     ],
     "correct": 1,
     "explanation": "Die Luxemburgische Raumfahrtagentur entwickelt und unterstützt den Raumfahrtsektor des Landes – sie hilft Unternehmen, Finanzierung und Talenten, zieht Raumfahrtunternehmen an und verbindet Luxemburg mit Partnern wie der Europäischen Weltraumorganisation."
@@ -96125,9 +96125,9 @@ const EPISODES = [
    {
     "text": "Wann ist Luxemburg erstmals in den Raumfahrtsektor eingestiegen?",
     "options": [
-     "Letztes Jahr",
-     "Im Mittelalter",
-     "Ist es nicht",
+     "Erst letztes Jahr, mit seinem ersten Astronauten",
+     "Im Mittelalter, mit seiner ersten Sternwarte",
+     "Noch gar nicht — es plant erst, in den nächsten zehn Jahren einzusteigen",
      "1985, mit der Gründung des Satellitenunternehmens SES"
     ],
     "correct": 3,
@@ -96137,9 +96137,9 @@ const EPISODES = [
     "text": "Wie hat sich Luxemburgs Raumfahrtsektor in den letzten Jahren verändert?",
     "options": [
      "Er ist stark gewachsen – auf Dutzende Unternehmen und über tausend Arbeitsplätze",
-     "Er ist verschwunden",
-     "Er ist gleich geblieben",
-     "Er ist ins Ausland abgewandert"
+     "Er ist verschwunden, seit die Satellitenfirma weggezogen ist",
+     "Er ist seit den 1980er-Jahren genau gleich geblieben",
+     "Er ist ins Ausland gezogen, weil die Firmen in größere Länder mit mehr Geld gegangen sind"
     ],
     "correct": 0,
     "explanation": "In etwas mehr als einem Jahrzehnt wuchs der Sektor von einer Handvoll Unternehmen und einigen hundert Beschäftigten auf Dutzende Unternehmen und weit über tausend Arbeitsplätze – dank staatlicher Unterstützung und wegweisender Weltraumgesetze."
@@ -96147,10 +96147,10 @@ const EPISODES = [
    {
     "text": "Wie berührt Weltraumtechnologie den Alltag?",
     "options": [
-     "Gar nicht",
-     "Nur durch Science-Fiction",
+     "Sie berührt den Alltag überhaupt nicht",
+     "Nur über Science-Fiction-Filme und -Bücher",
      "Durch Navigation, Kommunikation, Wetter sowie Klima- und Katastrophenüberwachung",
-     "Nur für Astronauten"
+     "Nur für Astronauten und Wissenschaftler auf der Internationalen Raumstation und auf dem Mond"
     ],
     "correct": 2,
     "explanation": "Der Weltraum treibt den Alltag unbemerkt an: Satellitennavigation, Kommunikation, Wettervorhersagen und Erdbeobachtung, die Klima, Verschmutzung und Überschwemmungen verfolgt sowie hilft, auf Katastrophen zu reagieren und die Landwirtschaft zu unterstützen."
@@ -96158,10 +96158,10 @@ const EPISODES = [
    {
     "text": "Was betont Luxemburgs Weltraumstrategie?",
     "options": [
-     "Den Weltraum sorglos zu nutzen",
-     "Jede Weltraumaktivität einzustellen",
+     "Den Weltraum sorglos nutzen, um schneller zu wachsen",
+     "Alle Weltraumaktivitäten bis 2030 einstellen",
      "Raumfahrt nachhaltig und verantwortungsvoll zu betreiben",
-     "Sie geheim zu halten"
+     "Alle Weltraumprojekte aus Sicherheitsgründen geheim halten"
     ],
     "correct": 2,
     "explanation": "Luxemburgs Strategie betont Nachhaltigkeit – den Weltraum für künftige Generationen nutzbar zu halten und ihn zu nutzen, um Herausforderungen auf der Erde zu bewältigen – ein reifer Weg, sich einer mächtigen neuen Grenze zu nähern."
@@ -97802,10 +97802,10 @@ const EPISODES = [
    {
     "text": "What is lifelong-learning.lu?",
     "options": [
-     "A job-search website only",
-     "An online shop",
+     "A job-search website with vacancies only",
+     "An online shop for books and school supplies",
      "Luxembourg's national portal for continuing training",
-     "A bank"
+     "A bank that gives student loans to adults who want to go back to university"
     ],
     "correct": 2,
     "explanation": "Lifelong-learning.lu is Luxembourg's national portal for continuing (lifelong) training, run by the INFPC. Its motto is \"develop your skills throughout life\", and at its heart is a large searchable catalogue of training courses from approved providers."
@@ -97813,9 +97813,9 @@ const EPISODES = [
    {
     "text": "How can you search the training catalogue?",
     "options": [
-     "Only by price",
-     "Only by alphabet",
-     "You cannot search it",
+     "Only by price, from cheapest to most expensive",
+     "Only in alphabetical order of the training centres",
+     "You cannot search it; you have to scroll through the full list of all courses",
      "By subject/domain or by the job you want to do"
     ],
     "correct": 3,
@@ -97824,10 +97824,10 @@ const EPISODES = [
    {
     "text": "What is the \"validation of acquired experience\" (VAE)?",
     "options": [
-     "A tax on training",
+     "A tax that employers pay on every training course",
      "A way to turn real work and life experience into an official diploma",
-     "A type of paid leave",
-     "A language test"
+     "A type of paid leave you can take once in your career to travel",
+     "A language test that all adults must pass before they can follow any course"
     ],
     "correct": 1,
     "explanation": "Through the validation of acquired experience (VAE), the skills you have gained through work and life can be assessed and turned into an official, recognised diploma — even if you never sat the original exams."
@@ -97836,9 +97836,9 @@ const EPISODES = [
     "text": "What financial help can individuals get to follow training?",
     "options": [
      "Special paid training leave, tax help, and support for jobseekers",
-     "Nothing",
-     "A free car",
-     "A holiday abroad"
+     "Nothing — adults must always pay for training themselves",
+     "A free car to travel to training centres",
+     "A paid holiday abroad after finishing a course of more than a year"
     ],
     "correct": 0,
     "explanation": "Individuals can benefit from special paid leave to follow training (such as individual training leave or language leave), tax deductibility, support for jobseekers' training, and reduction vouchers for some courses."
@@ -97846,9 +97846,9 @@ const EPISODES = [
    {
     "text": "Why does lifelong learning matter so much today?",
     "options": [
-     "It doesn't",
-     "Only children need to learn",
-     "Learning is only for exams",
+     "It doesn't — what we learn at school is enough for a whole career",
+     "Only children need to learn; adults already have all the skills they need",
+     "Learning only matters for passing exams, so it stops once you have your diploma and a job",
      "The world is changing fast, so keeping skills fresh keeps us confident and employable"
     ],
     "correct": 3,
@@ -97874,10 +97874,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que lifelong-learning.lu ?",
     "options": [
-     "Uniquement un site de recherche d'emploi",
-     "Une boutique en ligne",
+     "Un site de recherche d'emploi avec seulement des offres",
+     "Une boutique en ligne de livres et de fournitures scolaires",
      "Le portail national de la formation continue du Luxembourg",
-     "Une banque"
+     "Une banque qui accorde des prêts étudiants aux adultes qui veulent retourner à l'université"
     ],
     "correct": 2,
     "explanation": "Lifelong-learning.lu est le portail national de la formation continue (tout au long de la vie) du Luxembourg, géré par l'INFPC. Sa devise est « développez vos compétences tout au long de la vie », et il repose sur un vaste catalogue de formations d'organismes agréés."
@@ -97885,9 +97885,9 @@ const EPISODES = [
    {
     "text": "Comment pouvez-vous chercher dans le catalogue de formations ?",
     "options": [
-     "Uniquement par prix",
-     "Uniquement par ordre alphabétique",
-     "On ne peut pas le chercher",
+     "Seulement par prix, du moins cher au plus cher",
+     "Seulement par ordre alphabétique des centres de formation",
+     "On ne peut pas y chercher ; il faut faire défiler la liste complète de tous les cours",
      "Par domaine/sujet ou par le métier que vous visez"
     ],
     "correct": 3,
@@ -97896,10 +97896,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que la validation des acquis de l'expérience (VAE) ?",
     "options": [
-     "Une taxe sur la formation",
+     "Une taxe que les employeurs paient sur chaque formation",
      "Un moyen de transformer une expérience réelle, professionnelle et de vie, en diplôme officiel",
-     "Un type de congé payé",
-     "Un test de langue"
+     "Un type de congé payé qu'on peut prendre une seule fois dans sa carrière pour voyager",
+     "Un test de langue que tous les adultes doivent réussir avant de suivre un cours"
     ],
     "correct": 1,
     "explanation": "Grâce à la validation des acquis de l'expérience (VAE), les compétences acquises par le travail et la vie peuvent être évaluées et transformées en un diplôme officiel et reconnu, même sans avoir passé les examens d'origine."
@@ -97908,9 +97908,9 @@ const EPISODES = [
     "text": "Quelles aides financières les particuliers peuvent-ils obtenir pour se former ?",
     "options": [
      "Des congés de formation payés, des avantages fiscaux et un soutien pour les demandeurs d'emploi",
-     "Aucune",
-     "Une voiture gratuite",
-     "Des vacances à l'étranger"
+     "Rien — les adultes doivent toujours payer leur formation eux-mêmes",
+     "Une voiture gratuite pour aller aux centres de formation",
+     "Des vacances payées à l'étranger après une formation de plus d'un an"
     ],
     "correct": 0,
     "explanation": "Les particuliers peuvent bénéficier de congés payés pour se former (comme le congé individuel de formation ou le congé linguistique), de la déductibilité fiscale, d'un soutien à la formation des demandeurs d'emploi, et de bons à tarif réduit pour certains cours."
@@ -97918,9 +97918,9 @@ const EPISODES = [
    {
     "text": "Pourquoi la formation tout au long de la vie est-elle si importante aujourd'hui ?",
     "options": [
-     "Elle ne l'est pas",
-     "Seuls les enfants doivent apprendre",
-     "Apprendre ne sert qu'aux examens",
+     "Elle n'a pas d'importance — ce qu'on apprend à l'école suffit pour toute une carrière",
+     "Seuls les enfants ont besoin d'apprendre ; les adultes ont déjà toutes les compétences nécessaires",
+     "Apprendre ne sert qu'à réussir des examens, donc cela s'arrête une fois le diplôme et un emploi obtenus",
      "Le monde change vite, donc entretenir ses compétences nous garde confiants et employables"
     ],
     "correct": 3,
@@ -97943,10 +97943,10 @@ const EPISODES = [
    {
     "text": "Was ist lifelong-learning.lu?",
     "options": [
-     "Nur eine Jobsuch-Website",
-     "Ein Online-Shop",
+     "Eine Jobbörse nur mit Stellenangeboten",
+     "Ein Online-Shop für Bücher und Schulbedarf",
      "Das nationale Weiterbildungsportal Luxemburgs",
-     "Eine Bank"
+     "Eine Bank, die Erwachsenen Studienkredite gibt, wenn sie zurück an die Uni wollen"
     ],
     "correct": 2,
     "explanation": "Lifelong-learning.lu ist das nationale Portal für Weiterbildung (lebenslanges Lernen) in Luxemburg, betrieben vom INFPC. Sein Motto lautet „Entwickeln Sie Ihre Kompetenzen ein Leben lang“, und es beruht auf einem großen, durchsuchbaren Katalog von Kursen zugelassener Anbieter."
@@ -97954,9 +97954,9 @@ const EPISODES = [
    {
     "text": "Wie können Sie den Kurskatalog durchsuchen?",
     "options": [
-     "Nur nach Preis",
-     "Nur alphabetisch",
-     "Man kann ihn nicht durchsuchen",
+     "Nur nach Preis, vom günstigsten zum teuersten",
+     "Nur alphabetisch nach Weiterbildungszentren",
+     "Man kann nicht suchen; man muss durch die komplette Liste aller Kurse scrollen",
      "Nach Bereich/Thema oder nach dem angestrebten Beruf"
     ],
     "correct": 3,
@@ -97965,10 +97965,10 @@ const EPISODES = [
    {
     "text": "Was ist die Validierung von Erfahrungen (VAE)?",
     "options": [
-     "Eine Steuer auf Weiterbildung",
+     "Eine Abgabe, die Arbeitgeber auf jede Weiterbildung zahlen",
      "Eine Möglichkeit, echte berufliche und Lebenserfahrung in ein offizielles Diplom umzuwandeln",
-     "Eine Art bezahlter Urlaub",
-     "Ein Sprachtest"
+     "Eine Art bezahlter Urlaub, den man einmal im Berufsleben zum Reisen nehmen kann",
+     "Ein Sprachtest, den alle Erwachsenen bestehen müssen, bevor sie überhaupt einen Kurs belegen dürfen"
     ],
     "correct": 1,
     "explanation": "Durch die Validierung von Erfahrungen (VAE) können die durch Arbeit und Leben erworbenen Kompetenzen bewertet und in ein offizielles, anerkanntes Diplom umgewandelt werden — auch ohne die ursprünglichen Prüfungen abgelegt zu haben."
@@ -97977,9 +97977,9 @@ const EPISODES = [
     "text": "Welche finanziellen Hilfen können Privatpersonen für eine Weiterbildung erhalten?",
     "options": [
      "Bezahlten Bildungsurlaub, Steuervorteile und Unterstützung für Arbeitsuchende",
-     "Keine",
-     "Ein kostenloses Auto",
-     "Einen Urlaub im Ausland"
+     "Nichts — Erwachsene müssen Weiterbildung immer selbst bezahlen",
+     "Ein kostenloses Auto für die Fahrt zu den Weiterbildungszentren",
+     "Ein bezahlter Urlaub im Ausland nach einem Kurs von mehr als einem Jahr"
     ],
     "correct": 0,
     "explanation": "Privatpersonen können bezahlten Urlaub für eine Weiterbildung in Anspruch nehmen (wie den individuellen Bildungsurlaub oder den Sprachurlaub), die steuerliche Absetzbarkeit, Unterstützung für die Weiterbildung von Arbeitsuchenden und Ermäßigungsgutscheine für bestimmte Kurse."
@@ -97987,9 +97987,9 @@ const EPISODES = [
    {
     "text": "Warum ist lebenslanges Lernen heute so wichtig?",
     "options": [
-     "Es ist nicht wichtig",
-     "Nur Kinder müssen lernen",
-     "Lernen ist nur für Prüfungen",
+     "Gar nicht — was man in der Schule lernt, reicht für ein ganzes Berufsleben",
+     "Nur Kinder müssen lernen; Erwachsene haben schon alle nötigen Fähigkeiten",
+     "Lernen dient nur dem Bestehen von Prüfungen und endet deshalb, sobald man sein Diplom und einen festen Job in der Tasche hat",
      "Die Welt verändert sich schnell, daher hält uns das Auffrischen unserer Kompetenzen sicher und beschäftigungsfähig"
     ],
     "correct": 3,
@@ -100988,9 +100988,9 @@ const EPISODES = [
    {
     "text": "Who can take the early old-age pension at 57?",
     "options": [
-     "Anyone who applies",
-     "Only cross-border workers",
-     "People with three children",
+     "Anyone who applies, at any age",
+     "Only cross-border workers with a long career",
+     "People who have raised three or more children",
      "People with 40 years of compulsory insurance"
     ],
     "correct": 3,
@@ -101000,9 +101000,9 @@ const EPISODES = [
     "text": "What happens to years you worked in another EU country?",
     "options": [
      "They are added together, and each country pays its part",
-     "They are lost",
-     "Luxembourg pays for them",
-     "They must be bought back"
+     "They are lost, because only Luxembourg years count",
+     "Luxembourg pays for them in full as if you had worked here",
+     "You must buy them back yourself with a lump sum before you retire"
     ],
     "correct": 0,
     "explanation": "Insurance periods are aggregated to meet the conditions, and each country pays a partial pension for its own years."
@@ -101011,9 +101011,9 @@ const EPISODES = [
     "text": "Does the pension arrive automatically on your 65th birthday?",
     "options": [
      "No — you must submit an application",
-     "Yes, always",
+     "Yes, always, on the day itself",
      "Only if you live in Luxembourg",
-     "Only if you sign up online"
+     "Only if you sign up online first"
     ],
     "correct": 0,
     "explanation": "The pension is never automatic. You must send a pension application to the CNAP, even if you meet all the conditions."
@@ -101040,10 +101040,10 @@ const EPISODES = [
    {
     "text": "Quel est l'âge légal de la retraite au Luxembourg ?",
     "options": [
-     "60 ans",
-     "62 ans",
+     "60",
+     "62",
      "65 ans",
-     "67 ans"
+     "67"
     ],
     "correct": 2,
     "explanation": "La pension de vieillesse commence à 65 ans — et la réforme de 2026 maintient l'âge légal à 65 ans."
@@ -101062,9 +101062,9 @@ const EPISODES = [
    {
     "text": "Qui peut prendre la pension de vieillesse anticipée à 57 ans ?",
     "options": [
-     "Toute personne qui en fait la demande",
-     "Uniquement les frontaliers",
-     "Les personnes avec trois enfants",
+     "Toute personne qui en fait la demande, à tout âge",
+     "Seulement les frontaliers ayant une longue carrière",
+     "Les personnes qui ont élevé trois enfants ou plus",
      "Les personnes avec 40 ans d'assurance obligatoire"
     ],
     "correct": 3,
@@ -101074,9 +101074,9 @@ const EPISODES = [
     "text": "Que deviennent les années travaillées dans un autre pays de l'UE ?",
     "options": [
      "Elles sont totalisées, et chaque pays paie sa part",
-     "Elles sont perdues",
-     "Le Luxembourg les paie",
-     "Il faut les racheter"
+     "Elles sont perdues, car seules les années au Luxembourg comptent",
+     "Le Luxembourg les paie entièrement comme si vous aviez travaillé ici",
+     "Vous devez les racheter vous-même avec une somme forfaitaire avant la retraite"
     ],
     "correct": 0,
     "explanation": "Les périodes d'assurance sont additionnées pour remplir les conditions, et chaque pays paie une pension partielle pour ses propres années."
@@ -101085,9 +101085,9 @@ const EPISODES = [
     "text": "La pension arrive-t-elle automatiquement à votre 65e anniversaire ?",
     "options": [
      "Non — il faut introduire une demande",
-     "Oui, toujours",
-     "Seulement si vous habitez au Luxembourg",
-     "Seulement si vous vous inscrivez en ligne"
+     "Oui, toujours, le jour même",
+     "Seulement si vous vivez au Luxembourg",
+     "Seulement si vous vous inscrivez d'abord en ligne"
     ],
     "correct": 0,
     "explanation": "La pension n'est jamais automatique. Il faut envoyer une demande de pension à la CNAP, même si toutes les conditions sont remplies."
@@ -101109,10 +101109,10 @@ const EPISODES = [
    {
     "text": "Wie hoch ist das gesetzliche Rentenalter in Luxemburg?",
     "options": [
-     "60 Jahre",
-     "62 Jahre",
+     "60",
+     "62",
      "65 Jahre",
-     "67 Jahre"
+     "67"
     ],
     "correct": 2,
     "explanation": "Die Alterspension beginnt mit 65 — und die Reform 2026 behält das gesetzliche Alter von 65 Jahren bei."
@@ -101131,9 +101131,9 @@ const EPISODES = [
    {
     "text": "Wer kann die vorgezogene Alterspension mit 57 nehmen?",
     "options": [
-     "Jeder, der einen Antrag stellt",
-     "Nur Grenzgänger",
-     "Personen mit drei Kindern",
+     "Jeder, der es beantragt, in jedem Alter",
+     "Nur Grenzgänger mit einer langen Laufbahn",
+     "Menschen, die drei oder mehr Kinder großgezogen haben",
      "Personen mit 40 Jahren Pflichtversicherung"
     ],
     "correct": 3,
@@ -101143,9 +101143,9 @@ const EPISODES = [
     "text": "Was passiert mit Jahren, die Sie in einem anderen EU-Land gearbeitet haben?",
     "options": [
      "Sie werden zusammengerechnet, und jedes Land zahlt seinen Teil",
-     "Sie gehen verloren",
-     "Luxemburg bezahlt sie",
-     "Man muss sie zurückkaufen"
+     "Sie gehen verloren, weil nur Jahre in Luxemburg zählen",
+     "Luxemburg bezahlt sie vollständig, als hätten Sie hier gearbeitet",
+     "Sie müssen sie vor dem Ruhestand selbst mit einer Pauschalsumme zurückkaufen"
     ],
     "correct": 0,
     "explanation": "Die Versicherungszeiten werden zusammengerechnet, um die Bedingungen zu erfüllen, und jedes Land zahlt eine Teilpension für seine eigenen Jahre."
@@ -101154,9 +101154,9 @@ const EPISODES = [
     "text": "Kommt die Pension automatisch an Ihrem 65. Geburtstag?",
     "options": [
      "Nein — man muss einen Antrag stellen",
-     "Ja, immer",
-     "Nur wenn man in Luxemburg wohnt",
-     "Nur bei Online-Anmeldung"
+     "Ja, immer, genau an dem Tag",
+     "Nur wenn Sie in Luxemburg wohnen",
+     "Nur wenn Sie sich vorher online anmelden"
     ],
     "correct": 0,
     "explanation": "Die Pension kommt nie automatisch. Man muss einen Pensionsantrag bei der CNAP einreichen, auch wenn alle Bedingungen erfüllt sind."
@@ -104707,10 +104707,10 @@ const EPISODES = [
    {
     "text": "What is Clarvia?",
     "options": [
-     "A funeral company",
+     "A funeral company that organises ceremonies and burials across Luxembourg and the Greater Region",
      "A Luxembourg non-profit building a free, multilingual service that guides families through the administrative steps after a loss",
-     "A private insurance for funerals",
-     "A government ministry"
+     "A private insurance that pays for funerals and helps families with the costs after a death",
+     "A government ministry that registers deaths and sends families the official documents they need"
     ],
     "correct": 1,
     "explanation": "Clarvia is a Luxembourg non-profit association (ASBL) building a free, multilingual bereavement guidance service for families — explaining what needs to be done, what is urgent, and where to find qualified help."
@@ -104729,10 +104729,10 @@ const EPISODES = [
    {
     "text": "How does the Clarvia checklist work?",
     "options": [
-     "It sends a lawyer to your home",
-     "It is the same printed list for everybody",
+     "It sends a lawyer to your home, who takes care of all the paperwork for you in exchange for a fee",
+     "It is the same printed list for everybody, sent by post, with every possible step in alphabetical order",
      "You answer a few questions and get a personalised, step-by-step list of administrative steps, with the time-sensitive ones highlighted",
-     "You must register with your matricule"
+     "You must first register with your matricule and LuxTrust, and the list is then prepared by a civil servant"
     ],
     "correct": 2,
     "explanation": "The digital checklist is personalised: based on your situation it lists the relevant administrative steps and helps you see which ones have deadlines. An early alpha version is already on clarvia.org."
@@ -104740,10 +104740,10 @@ const EPISODES = [
    {
     "text": "Where does the information in the checklist come from?",
     "options": [
-     "From social media",
+     "From posts and comments on social media groups about bereavement",
      "Every step is mapped back to an official government source, kept in a public registry",
-     "From anonymous forum posts",
-     "It is the personal opinion of the founders"
+     "From anonymous forum posts written by people who went through a loss",
+     "It is the personal opinion and experience of the founders, without any official source"
     ],
     "correct": 1,
     "explanation": "Every administrative step is mapped to its official government source (such as Guichet.lu), and Clarvia maintains a public registry of these sources so anyone can verify the guidance."
@@ -104751,9 +104751,9 @@ const EPISODES = [
    {
     "text": "What does Clarvia cost, and what happens to your data?",
     "options": [
-     "It is free only for Luxembourg nationals",
-     "It costs a monthly subscription",
-     "It is free, but your data is sold to insurers",
+     "It is free only for Luxembourg nationals; other residents and cross-border families pay a small fee per checklist",
+     "It costs a monthly subscription, and your answers are stored so you can come back to your list later",
+     "It is free, but in exchange your personal data is sold to insurers and funeral companies to finance the service",
      "It is free for every family, with no ads — and the checklist does not collect, store or share personal data"
     ],
     "correct": 3,
@@ -104781,10 +104781,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que Clarvia ?",
     "options": [
-     "Une entreprise de pompes funèbres",
+     "Une entreprise de pompes funèbres qui organise les cérémonies, les enterrements et les crémations au Luxembourg et dans toute la Grande Région, contre paiement",
      "Une association luxembourgeoise sans but lucratif qui construit un service gratuit et multilingue pour guider les familles dans les démarches administratives après un décès",
-     "Une assurance privée pour les funérailles",
-     "Un ministère du gouvernement"
+     "Une assurance privée qui paie les funérailles et aide les familles à couvrir les frais après un décès",
+     "Un ministère qui enregistre les décès et envoie aux familles les documents officiels dont elles ont besoin"
     ],
     "correct": 1,
     "explanation": "Clarvia est une association sans but lucratif luxembourgeoise (ASBL) qui construit un service gratuit et multilingue d'accompagnement au deuil pour les familles — en expliquant ce qu'il faut faire, ce qui est urgent, et où trouver de l'aide qualifiée."
@@ -104803,10 +104803,10 @@ const EPISODES = [
    {
     "text": "Comment fonctionne la checklist de Clarvia ?",
     "options": [
-     "Elle envoie un avocat chez vous",
-     "C'est la même liste imprimée pour tout le monde",
+     "Elle envoie un avocat chez vous, qui s'occupe de toutes les démarches à votre place contre rémunération",
+     "C'est la même liste imprimée pour tout le monde, envoyée par la poste, avec toutes les étapes possibles classées simplement par ordre alphabétique, sans rien de personnalisé",
      "Vous répondez à quelques questions et vous recevez une liste personnalisée, étape par étape, des démarches administratives, avec les étapes urgentes mises en évidence",
-     "Vous devez vous inscrire avec votre matricule"
+     "Vous devez d'abord vous inscrire avec votre matricule et LuxTrust, puis un fonctionnaire prépare la liste"
     ],
     "correct": 2,
     "explanation": "La checklist numérique est personnalisée : selon votre situation, elle liste les démarches administratives pertinentes et vous aide à voir lesquelles ont un délai. Une première version alpha est déjà sur clarvia.org."
@@ -104814,10 +104814,10 @@ const EPISODES = [
    {
     "text": "D'où vient l'information de la checklist ?",
     "options": [
-     "Des réseaux sociaux",
+     "De publications et de commentaires dans des groupes de réseaux sociaux sur le deuil",
      "Chaque étape est reliée à une source officielle du gouvernement, conservée dans un registre public",
-     "De messages anonymes sur des forums",
-     "C'est l'opinion personnelle des fondateurs"
+     "De messages anonymes sur des forums, écrits par des personnes qui ont vécu un deuil",
+     "C'est l'opinion et l'expérience personnelles des fondateurs, sans aucune source officielle ni vérification"
     ],
     "correct": 1,
     "explanation": "Chaque démarche administrative est reliée à sa source officielle (comme Guichet.lu), et Clarvia tient un registre public de ces sources pour que chacun puisse vérifier les recommandations."
@@ -104825,9 +104825,9 @@ const EPISODES = [
    {
     "text": "Combien coûte Clarvia, et que deviennent vos données ?",
     "options": [
-     "C'est gratuit seulement pour les ressortissants luxembourgeois",
-     "Cela coûte un abonnement mensuel",
-     "C'est gratuit, mais vos données sont vendues à des assureurs",
+     "Il est gratuit seulement pour les Luxembourgeois ; les autres résidents et les familles frontalières paient de petits frais par liste",
+     "Il coûte un abonnement mensuel, et vos réponses sont enregistrées pour que vous puissiez revenir à votre liste plus tard",
+     "Il est gratuit, mais en échange vos données personnelles sont vendues à des assureurs et à des pompes funèbres pour financer le service",
      "C'est gratuit pour chaque famille, sans publicité — et la checklist ne collecte, ne stocke et ne partage pas de données personnelles"
     ],
     "correct": 3,
@@ -104850,10 +104850,10 @@ const EPISODES = [
    {
     "text": "Was ist Clarvia?",
     "options": [
-     "Ein Bestattungsunternehmen",
+     "Ein Bestattungsunternehmen, das Trauerfeiern und Beerdigungen in Luxemburg und der Großregion organisiert",
      "Eine luxemburgische Non-Profit-Organisation, die einen kostenlosen, mehrsprachigen Dienst aufbaut, der Familien durch die administrativen Schritte nach einem Verlust begleitet",
-     "Eine private Bestattungsversicherung",
-     "Ein Ministerium"
+     "Eine private Versicherung mit Monatsbeitrag, die Beerdigungen bezahlt und Familien nach einem Todesfall bei allen Kosten hilft, auch bei Grabstein und Trauerfeier",
+     "Ein Ministerium, das Todesfälle registriert und den Familien die nötigen amtlichen Dokumente schickt"
     ],
     "correct": 1,
     "explanation": "Clarvia ist eine luxemburgische Non-Profit-Organisation (ASBL), die einen kostenlosen, mehrsprachigen Begleitdienst für trauernde Familien aufbaut — sie erklärt, was getan werden muss, was dringend ist und wo man qualifizierte Hilfe findet."
@@ -104862,7 +104862,7 @@ const EPISODES = [
     "text": "Innerhalb welcher Zeit muss ein Todesfall in Luxemburg bei der Gemeinde gemeldet werden?",
     "options": [
      "Innerhalb von vierundzwanzig Stunden",
-     "Innerhalb eines Monats",
+     "Innerhalb eines Monats nach dem Tod",
      "Innerhalb einer Woche",
      "Es gibt keine Frist"
     ],
@@ -104872,10 +104872,10 @@ const EPISODES = [
    {
     "text": "Wie funktioniert die Clarvia-Checkliste?",
     "options": [
-     "Sie schickt einen Anwalt zu Ihnen nach Hause",
-     "Es ist die gleiche gedruckte Liste für alle",
+     "Sie schickt Ihnen einen Anwalt nach Hause, der gegen Bezahlung den ganzen Papierkram für Sie erledigt",
+     "Es ist für alle dieselbe gedruckte Liste, per Post verschickt, mit allen möglichen Schritten einfach in alphabetischer Reihenfolge, ganz ohne persönliche Anpassung",
      "Sie beantworten ein paar Fragen und erhalten eine persönliche Liste der administrativen Schritte, Schritt für Schritt, mit hervorgehobenen zeitkritischen Schritten",
-     "Sie müssen sich mit Ihrem Matricule registrieren"
+     "Sie müssen sich zuerst mit Ihrer Matrikelnummer und LuxTrust anmelden, dann erstellt ein Beamter die Liste"
     ],
     "correct": 2,
     "explanation": "Die digitale Checkliste ist persönlich: Basierend auf Ihrer Situation listet sie die relevanten administrativen Schritte auf und hilft Ihnen zu sehen, welche eine Frist haben. Eine frühe Alpha-Version ist schon auf clarvia.org."
@@ -104883,10 +104883,10 @@ const EPISODES = [
    {
     "text": "Woher kommen die Informationen in der Checkliste?",
     "options": [
-     "Aus den sozialen Medien",
+     "Aus Beiträgen und Kommentaren in Social-Media-Gruppen zum Thema Trauer",
      "Jeder Schritt ist mit einer offiziellen staatlichen Quelle verknüpft, die in einem öffentlichen Register geführt wird",
-     "Aus anonymen Forenbeiträgen",
-     "Es ist die persönliche Meinung der Gründer"
+     "Aus anonymen Forenbeiträgen von Menschen, die einen Verlust erlebt haben",
+     "Es ist die persönliche Meinung und Erfahrung der Gründer, ganz ohne offizielle Quelle oder Überprüfung"
     ],
     "correct": 1,
     "explanation": "Jeder administrative Schritt ist mit seiner offiziellen staatlichen Quelle verknüpft (zum Beispiel Guichet.lu), und Clarvia führt ein öffentliches Register dieser Quellen, damit jeder die Empfehlungen überprüfen kann."
@@ -104894,9 +104894,9 @@ const EPISODES = [
    {
     "text": "Was kostet Clarvia, und was passiert mit Ihren Daten?",
     "options": [
-     "Es ist nur für luxemburgische Staatsangehörige kostenlos",
-     "Es kostet ein monatliches Abonnement",
-     "Es ist kostenlos, aber Ihre Daten werden an Versicherungen verkauft",
+     "Er ist nur für luxemburgische Staatsbürger kostenlos; andere Einwohner und Grenzgängerfamilien zahlen eine kleine Gebühr pro Liste",
+     "Er kostet ein Monatsabo, und Ihre Antworten werden gespeichert, damit Sie später zu Ihrer Liste zurückkehren können",
+     "Er ist kostenlos, aber im Gegenzug werden Ihre persönlichen Daten an Versicherer und Bestatter verkauft, um den Dienst zu finanzieren",
      "Es ist für jede Familie kostenlos, ohne Werbung — und die Checkliste sammelt, speichert und teilt keine persönlichen Daten"
     ],
     "correct": 3,
@@ -104919,10 +104919,10 @@ const EPISODES = [
    {
     "text": "Wat ass Clarvia?",
     "options": [
-     "Eng Begriefnesentreprise",
+     "Eng Begriefnesfirma, déi Zeremonien a Begriefnesser zu Lëtzebuerg an an der Groussregioun organiséiert",
      "Eng Lëtzebuerger Organisatioun ouni Gewënnzweck, déi e gratis, méisproochege Service opbaut, deen d'Famillje bei den administrative Schrëtt no engem Verloscht begleet",
-     "Eng privat Versécherung fir Begriefnesser",
-     "E Ministère vun der Regierung"
+     "Eng privat Versécherung, déi d'Begriefnes bezilt an de Familljen no engem Doudesfall bei de Käschte hëlleft",
+     "E Ministère, deen d'Doudesfäll registréiert an de Familljen all déi offiziell Dokumenter an Attester schéckt, déi se no engem Doudesfall brauchen"
     ],
     "correct": 1,
     "explanation": "Clarvia ass eng Lëtzebuerger Associatioun ouni Gewënnzweck (ASBL), déi e gratis, méisproochegen Trauerbegleedungsservice fir Famillen opbaut — si erkläert, wat gemaach muss ginn, wat urgent ass, a wou ee qualifizéiert Hëllef fënnt."
@@ -104931,9 +104931,9 @@ const EPISODES = [
     "text": "Bannent wéi enger Zäit muss en Doudesfall zu Lëtzebuerg op der Gemeng deklaréiert ginn?",
     "options": [
      "Bannent véieranzwanzeg Stonnen",
-     "Bannent engem Mount",
+     "Bannent engem Mount nom Doud",
      "Bannent enger Woch",
-     "Et gëtt keen Delai"
+     "Et gëtt keng Frist"
     ],
     "correct": 0,
     "explanation": "En Doudesfall muss bannent 24 Stonnen op der Gemeng deklaréiert ginn — eng vun den éischte Formalitéiten, ëm déi d'Famillje sech ganz séier musse këmmeren, dacks nach am Schock."
@@ -104941,10 +104941,10 @@ const EPISODES = [
    {
     "text": "Wéi funktionéiert d'Checklist vu Clarvia?",
     "options": [
-     "Si schéckt en Affekot bei Iech heem",
-     "Et ass déiselwecht gedréckte Lëscht fir jiddereen",
+     "Si schéckt Iech en Affekot heem, deen géint Bezuelung de ganze Pabeierkram fir Iech erleedegt",
+     "Et ass fir jiddereen déi selwecht gedréckte Lëscht, mat der Post geschéckt, mat all méiglechen Etappen einfach an alphabetescher Reiefolleg, ouni perséinlech Upassung",
      "Dir äntwert op e puer Froen a kritt eng personaliséiert Lëscht, Schrëtt fir Schrëtt, mat den administrative Schrëtt, wou déi zäitkritesch ervirgehuewe sinn",
-     "Dir musst Iech mat Ärem Matricule aschreiwen"
+     "Dir musst Iech fir d'éischt mat Ärer Matricule an LuxTrust umellen, an duerno preparéiert e Beamte d'Lëscht"
     ],
     "correct": 2,
     "explanation": "Déi digital Checklist ass personaliséiert: op Basis vun Ärer Situatioun lëscht se déi relevant administrativ Schrëtt op an hëlleft Iech ze gesinn, wéi eng en Delai hunn. Eng éischt Alpha-Versioun ass schonn op clarvia.org."
@@ -104952,10 +104952,10 @@ const EPISODES = [
    {
     "text": "Vu wou kënnt d'Informatioun an der Checklist?",
     "options": [
-     "Vu soziale Medien",
+     "Aus Posten a Kommentaren a Gruppen op de soziale Medien iwwer Trauer",
      "All Schrëtt ass op eng offiziell staatlech Quell zréckgefouert, déi an engem ëffentleche Regëster gehale gëtt",
-     "Vun anonyme Forumsbäiträg",
-     "Et ass déi perséinlech Meenung vun de Grënner"
+     "Aus anonymme Forumsbäiträg vu Leit, déi e Verloscht erlieft hunn",
+     "Et ass déi perséinlech Meenung an Erfarung vun de Grënner, ouni iergendeng offiziell Quell oder Iwwerpréiwung"
     ],
     "correct": 1,
     "explanation": "All administrative Schrëtt ass op seng offiziell staatlech Quell zréckgefouert (wéi zum Beispill Guichet.lu), a Clarvia hält en ëffentleche Regëster vun dëse Quellen, sou datt jidderee kann nokucken, vu wou d'Empfeelunge kommen."
@@ -104963,9 +104963,9 @@ const EPISODES = [
    {
     "text": "Wat kascht Clarvia, a wat geschitt mat Ären Donnéeën?",
     "options": [
-     "Et ass nëmme gratis fir Lëtzebuerger Staatsbierger",
-     "Et kascht e monatlechen Abonnement",
-     "Et ass gratis, mä Är Donnéeë gi u Versécherunge verkaaft",
+     "En ass just fir Lëtzebuerger gratis; aner Awunner a Frontaliersfamilljen bezuelen eng kleng Gebühr pro Lëscht",
+     "En kascht en Abonnement all Mount, an Är Äntwerte gi gespäichert, fir datt Dir spéider op Är Lëscht zeréckkomme kënnt",
+     "En ass gratis, mä am Géigenzuch ginn Är perséinlech Donnéeën un Assurancen a Begriefnesfirmae verkaaft, fir de Service ze finanzéieren",
      "Et ass gratis fir all Famill, ouni Reklamm — an d'Checklist sammelt, späichert an deelt keng perséinlech Donnéeën"
     ],
     "correct": 3,

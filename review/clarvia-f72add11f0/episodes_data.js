@@ -693,10 +693,10 @@ const EPISODES = [
    {
     "text": "What is Clarvia?",
     "options": [
-     "A funeral company",
+     "A funeral company that organises ceremonies and burials across Luxembourg and the Greater Region",
      "A Luxembourg non-profit building a free, multilingual service that guides families through the administrative steps after a loss",
-     "A private insurance for funerals",
-     "A government ministry"
+     "A private insurance that pays for funerals and helps families with the costs after a death",
+     "A government ministry that registers deaths and sends families the official documents they need"
     ],
     "correct": 1,
     "explanation": "Clarvia is a Luxembourg non-profit association (ASBL) building a free, multilingual bereavement guidance service for families — explaining what needs to be done, what is urgent, and where to find qualified help."
@@ -715,10 +715,10 @@ const EPISODES = [
    {
     "text": "How does the Clarvia checklist work?",
     "options": [
-     "It sends a lawyer to your home",
-     "It is the same printed list for everybody",
+     "It sends a lawyer to your home, who takes care of all the paperwork for you in exchange for a fee",
+     "It is the same printed list for everybody, sent by post, with every possible step in alphabetical order",
      "You answer a few questions and get a personalised, step-by-step list of administrative steps, with the time-sensitive ones highlighted",
-     "You must register with your matricule"
+     "You must first register with your matricule and LuxTrust, and the list is then prepared by a civil servant"
     ],
     "correct": 2,
     "explanation": "The digital checklist is personalised: based on your situation it lists the relevant administrative steps and helps you see which ones have deadlines. An early alpha version is already on clarvia.org."
@@ -726,10 +726,10 @@ const EPISODES = [
    {
     "text": "Where does the information in the checklist come from?",
     "options": [
-     "From social media",
+     "From posts and comments on social media groups about bereavement",
      "Every step is mapped back to an official government source, kept in a public registry",
-     "From anonymous forum posts",
-     "It is the personal opinion of the founders"
+     "From anonymous forum posts written by people who went through a loss",
+     "It is the personal opinion and experience of the founders, without any official source"
     ],
     "correct": 1,
     "explanation": "Every administrative step is mapped to its official government source (such as Guichet.lu), and Clarvia maintains a public registry of these sources so anyone can verify the guidance."
@@ -737,9 +737,9 @@ const EPISODES = [
    {
     "text": "What does Clarvia cost, and what happens to your data?",
     "options": [
-     "It is free only for Luxembourg nationals",
-     "It costs a monthly subscription",
-     "It is free, but your data is sold to insurers",
+     "It is free only for Luxembourg nationals; other residents and cross-border families pay a small fee per checklist",
+     "It costs a monthly subscription, and your answers are stored so you can come back to your list later",
+     "It is free, but in exchange your personal data is sold to insurers and funeral companies to finance the service",
      "It is free for every family, with no ads — and the checklist does not collect, store or share personal data"
     ],
     "correct": 3,
@@ -767,10 +767,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que Clarvia ?",
     "options": [
-     "Une entreprise de pompes funèbres",
+     "Une entreprise de pompes funèbres qui organise les cérémonies, les enterrements et les crémations au Luxembourg et dans toute la Grande Région, contre paiement",
      "Une association luxembourgeoise sans but lucratif qui construit un service gratuit et multilingue pour guider les familles dans les démarches administratives après un décès",
-     "Une assurance privée pour les funérailles",
-     "Un ministère du gouvernement"
+     "Une assurance privée qui paie les funérailles et aide les familles à couvrir les frais après un décès",
+     "Un ministère qui enregistre les décès et envoie aux familles les documents officiels dont elles ont besoin"
     ],
     "correct": 1,
     "explanation": "Clarvia est une association sans but lucratif luxembourgeoise (ASBL) qui construit un service gratuit et multilingue d'accompagnement au deuil pour les familles — en expliquant ce qu'il faut faire, ce qui est urgent, et où trouver de l'aide qualifiée."
@@ -789,10 +789,10 @@ const EPISODES = [
    {
     "text": "Comment fonctionne la checklist de Clarvia ?",
     "options": [
-     "Elle envoie un avocat chez vous",
-     "C'est la même liste imprimée pour tout le monde",
+     "Elle envoie un avocat chez vous, qui s'occupe de toutes les démarches à votre place contre rémunération",
+     "C'est la même liste imprimée pour tout le monde, envoyée par la poste, avec toutes les étapes possibles classées simplement par ordre alphabétique, sans rien de personnalisé",
      "Vous répondez à quelques questions et vous recevez une liste personnalisée, étape par étape, des démarches administratives, avec les étapes urgentes mises en évidence",
-     "Vous devez vous inscrire avec votre matricule"
+     "Vous devez d'abord vous inscrire avec votre matricule et LuxTrust, puis un fonctionnaire prépare la liste"
     ],
     "correct": 2,
     "explanation": "La checklist numérique est personnalisée : selon votre situation, elle liste les démarches administratives pertinentes et vous aide à voir lesquelles ont un délai. Une première version alpha est déjà sur clarvia.org."
@@ -800,10 +800,10 @@ const EPISODES = [
    {
     "text": "D'où vient l'information de la checklist ?",
     "options": [
-     "Des réseaux sociaux",
+     "De publications et de commentaires dans des groupes de réseaux sociaux sur le deuil",
      "Chaque étape est reliée à une source officielle du gouvernement, conservée dans un registre public",
-     "De messages anonymes sur des forums",
-     "C'est l'opinion personnelle des fondateurs"
+     "De messages anonymes sur des forums, écrits par des personnes qui ont vécu un deuil",
+     "C'est l'opinion et l'expérience personnelles des fondateurs, sans aucune source officielle ni vérification"
     ],
     "correct": 1,
     "explanation": "Chaque démarche administrative est reliée à sa source officielle (comme Guichet.lu), et Clarvia tient un registre public de ces sources pour que chacun puisse vérifier les recommandations."
@@ -811,9 +811,9 @@ const EPISODES = [
    {
     "text": "Combien coûte Clarvia, et que deviennent vos données ?",
     "options": [
-     "C'est gratuit seulement pour les ressortissants luxembourgeois",
-     "Cela coûte un abonnement mensuel",
-     "C'est gratuit, mais vos données sont vendues à des assureurs",
+     "Il est gratuit seulement pour les Luxembourgeois ; les autres résidents et les familles frontalières paient de petits frais par liste",
+     "Il coûte un abonnement mensuel, et vos réponses sont enregistrées pour que vous puissiez revenir à votre liste plus tard",
+     "Il est gratuit, mais en échange vos données personnelles sont vendues à des assureurs et à des pompes funèbres pour financer le service",
      "C'est gratuit pour chaque famille, sans publicité — et la checklist ne collecte, ne stocke et ne partage pas de données personnelles"
     ],
     "correct": 3,
@@ -836,10 +836,10 @@ const EPISODES = [
    {
     "text": "Was ist Clarvia?",
     "options": [
-     "Ein Bestattungsunternehmen",
+     "Ein Bestattungsunternehmen, das Trauerfeiern und Beerdigungen in Luxemburg und der Großregion organisiert",
      "Eine luxemburgische Non-Profit-Organisation, die einen kostenlosen, mehrsprachigen Dienst aufbaut, der Familien durch die administrativen Schritte nach einem Verlust begleitet",
-     "Eine private Bestattungsversicherung",
-     "Ein Ministerium"
+     "Eine private Versicherung mit Monatsbeitrag, die Beerdigungen bezahlt und Familien nach einem Todesfall bei allen Kosten hilft, auch bei Grabstein und Trauerfeier",
+     "Ein Ministerium, das Todesfälle registriert und den Familien die nötigen amtlichen Dokumente schickt"
     ],
     "correct": 1,
     "explanation": "Clarvia ist eine luxemburgische Non-Profit-Organisation (ASBL), die einen kostenlosen, mehrsprachigen Begleitdienst für trauernde Familien aufbaut — sie erklärt, was getan werden muss, was dringend ist und wo man qualifizierte Hilfe findet."
@@ -848,7 +848,7 @@ const EPISODES = [
     "text": "Innerhalb welcher Zeit muss ein Todesfall in Luxemburg bei der Gemeinde gemeldet werden?",
     "options": [
      "Innerhalb von vierundzwanzig Stunden",
-     "Innerhalb eines Monats",
+     "Innerhalb eines Monats nach dem Tod",
      "Innerhalb einer Woche",
      "Es gibt keine Frist"
     ],
@@ -858,10 +858,10 @@ const EPISODES = [
    {
     "text": "Wie funktioniert die Clarvia-Checkliste?",
     "options": [
-     "Sie schickt einen Anwalt zu Ihnen nach Hause",
-     "Es ist die gleiche gedruckte Liste für alle",
+     "Sie schickt Ihnen einen Anwalt nach Hause, der gegen Bezahlung den ganzen Papierkram für Sie erledigt",
+     "Es ist für alle dieselbe gedruckte Liste, per Post verschickt, mit allen möglichen Schritten einfach in alphabetischer Reihenfolge, ganz ohne persönliche Anpassung",
      "Sie beantworten ein paar Fragen und erhalten eine persönliche Liste der administrativen Schritte, Schritt für Schritt, mit hervorgehobenen zeitkritischen Schritten",
-     "Sie müssen sich mit Ihrem Matricule registrieren"
+     "Sie müssen sich zuerst mit Ihrer Matrikelnummer und LuxTrust anmelden, dann erstellt ein Beamter die Liste"
     ],
     "correct": 2,
     "explanation": "Die digitale Checkliste ist persönlich: Basierend auf Ihrer Situation listet sie die relevanten administrativen Schritte auf und hilft Ihnen zu sehen, welche eine Frist haben. Eine frühe Alpha-Version ist schon auf clarvia.org."
@@ -869,10 +869,10 @@ const EPISODES = [
    {
     "text": "Woher kommen die Informationen in der Checkliste?",
     "options": [
-     "Aus den sozialen Medien",
+     "Aus Beiträgen und Kommentaren in Social-Media-Gruppen zum Thema Trauer",
      "Jeder Schritt ist mit einer offiziellen staatlichen Quelle verknüpft, die in einem öffentlichen Register geführt wird",
-     "Aus anonymen Forenbeiträgen",
-     "Es ist die persönliche Meinung der Gründer"
+     "Aus anonymen Forenbeiträgen von Menschen, die einen Verlust erlebt haben",
+     "Es ist die persönliche Meinung und Erfahrung der Gründer, ganz ohne offizielle Quelle oder Überprüfung"
     ],
     "correct": 1,
     "explanation": "Jeder administrative Schritt ist mit seiner offiziellen staatlichen Quelle verknüpft (zum Beispiel Guichet.lu), und Clarvia führt ein öffentliches Register dieser Quellen, damit jeder die Empfehlungen überprüfen kann."
@@ -880,9 +880,9 @@ const EPISODES = [
    {
     "text": "Was kostet Clarvia, und was passiert mit Ihren Daten?",
     "options": [
-     "Es ist nur für luxemburgische Staatsangehörige kostenlos",
-     "Es kostet ein monatliches Abonnement",
-     "Es ist kostenlos, aber Ihre Daten werden an Versicherungen verkauft",
+     "Er ist nur für luxemburgische Staatsbürger kostenlos; andere Einwohner und Grenzgängerfamilien zahlen eine kleine Gebühr pro Liste",
+     "Er kostet ein Monatsabo, und Ihre Antworten werden gespeichert, damit Sie später zu Ihrer Liste zurückkehren können",
+     "Er ist kostenlos, aber im Gegenzug werden Ihre persönlichen Daten an Versicherer und Bestatter verkauft, um den Dienst zu finanzieren",
      "Es ist für jede Familie kostenlos, ohne Werbung — und die Checkliste sammelt, speichert und teilt keine persönlichen Daten"
     ],
     "correct": 3,
@@ -905,10 +905,10 @@ const EPISODES = [
    {
     "text": "Wat ass Clarvia?",
     "options": [
-     "Eng Begriefnesentreprise",
+     "Eng Begriefnesfirma, déi Zeremonien a Begriefnesser zu Lëtzebuerg an an der Groussregioun organiséiert",
      "Eng Lëtzebuerger Organisatioun ouni Gewënnzweck, déi e gratis, méisproochege Service opbaut, deen d'Famillje bei den administrative Schrëtt no engem Verloscht begleet",
-     "Eng privat Versécherung fir Begriefnesser",
-     "E Ministère vun der Regierung"
+     "Eng privat Versécherung, déi d'Begriefnes bezilt an de Familljen no engem Doudesfall bei de Käschte hëlleft",
+     "E Ministère, deen d'Doudesfäll registréiert an de Familljen all déi offiziell Dokumenter an Attester schéckt, déi se no engem Doudesfall brauchen"
     ],
     "correct": 1,
     "explanation": "Clarvia ass eng Lëtzebuerger Associatioun ouni Gewënnzweck (ASBL), déi e gratis, méisproochegen Trauerbegleedungsservice fir Famillen opbaut — si erkläert, wat gemaach muss ginn, wat urgent ass, a wou ee qualifizéiert Hëllef fënnt."
@@ -917,9 +917,9 @@ const EPISODES = [
     "text": "Bannent wéi enger Zäit muss en Doudesfall zu Lëtzebuerg op der Gemeng deklaréiert ginn?",
     "options": [
      "Bannent véieranzwanzeg Stonnen",
-     "Bannent engem Mount",
+     "Bannent engem Mount nom Doud",
      "Bannent enger Woch",
-     "Et gëtt keen Delai"
+     "Et gëtt keng Frist"
     ],
     "correct": 0,
     "explanation": "En Doudesfall muss bannent 24 Stonnen op der Gemeng deklaréiert ginn — eng vun den éischte Formalitéiten, ëm déi d'Famillje sech ganz séier musse këmmeren, dacks nach am Schock."
@@ -927,10 +927,10 @@ const EPISODES = [
    {
     "text": "Wéi funktionéiert d'Checklist vu Clarvia?",
     "options": [
-     "Si schéckt en Affekot bei Iech heem",
-     "Et ass déiselwecht gedréckte Lëscht fir jiddereen",
+     "Si schéckt Iech en Affekot heem, deen géint Bezuelung de ganze Pabeierkram fir Iech erleedegt",
+     "Et ass fir jiddereen déi selwecht gedréckte Lëscht, mat der Post geschéckt, mat all méiglechen Etappen einfach an alphabetescher Reiefolleg, ouni perséinlech Upassung",
      "Dir äntwert op e puer Froen a kritt eng personaliséiert Lëscht, Schrëtt fir Schrëtt, mat den administrative Schrëtt, wou déi zäitkritesch ervirgehuewe sinn",
-     "Dir musst Iech mat Ärem Matricule aschreiwen"
+     "Dir musst Iech fir d'éischt mat Ärer Matricule an LuxTrust umellen, an duerno preparéiert e Beamte d'Lëscht"
     ],
     "correct": 2,
     "explanation": "Déi digital Checklist ass personaliséiert: op Basis vun Ärer Situatioun lëscht se déi relevant administrativ Schrëtt op an hëlleft Iech ze gesinn, wéi eng en Delai hunn. Eng éischt Alpha-Versioun ass schonn op clarvia.org."
@@ -938,10 +938,10 @@ const EPISODES = [
    {
     "text": "Vu wou kënnt d'Informatioun an der Checklist?",
     "options": [
-     "Vu soziale Medien",
+     "Aus Posten a Kommentaren a Gruppen op de soziale Medien iwwer Trauer",
      "All Schrëtt ass op eng offiziell staatlech Quell zréckgefouert, déi an engem ëffentleche Regëster gehale gëtt",
-     "Vun anonyme Forumsbäiträg",
-     "Et ass déi perséinlech Meenung vun de Grënner"
+     "Aus anonymme Forumsbäiträg vu Leit, déi e Verloscht erlieft hunn",
+     "Et ass déi perséinlech Meenung an Erfarung vun de Grënner, ouni iergendeng offiziell Quell oder Iwwerpréiwung"
     ],
     "correct": 1,
     "explanation": "All administrative Schrëtt ass op seng offiziell staatlech Quell zréckgefouert (wéi zum Beispill Guichet.lu), a Clarvia hält en ëffentleche Regëster vun dëse Quellen, sou datt jidderee kann nokucken, vu wou d'Empfeelunge kommen."
@@ -949,9 +949,9 @@ const EPISODES = [
    {
     "text": "Wat kascht Clarvia, a wat geschitt mat Ären Donnéeën?",
     "options": [
-     "Et ass nëmme gratis fir Lëtzebuerger Staatsbierger",
-     "Et kascht e monatlechen Abonnement",
-     "Et ass gratis, mä Är Donnéeë gi u Versécherunge verkaaft",
+     "En ass just fir Lëtzebuerger gratis; aner Awunner a Frontaliersfamilljen bezuelen eng kleng Gebühr pro Lëscht",
+     "En kascht en Abonnement all Mount, an Är Äntwerte gi gespäichert, fir datt Dir spéider op Är Lëscht zeréckkomme kënnt",
+     "En ass gratis, mä am Géigenzuch ginn Är perséinlech Donnéeën un Assurancen a Begriefnesfirmae verkaaft, fir de Service ze finanzéieren",
      "Et ass gratis fir all Famill, ouni Reklamm — an d'Checklist sammelt, späichert an deelt keng perséinlech Donnéeën"
     ],
     "correct": 3,

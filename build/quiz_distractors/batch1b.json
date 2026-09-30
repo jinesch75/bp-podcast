@@ -1,0 +1,574 @@
+{
+ "dsp_cns": [
+  {
+   "en": [
+    "A private insurance contract that pays extra costs not covered by the national health insurance (CNS)",
+    "A paper booklet in which each doctor writes down your treatments, and that you must bring to every single appointment",
+    "A tax file held by the administration that lists all your medical expenses so you can deduct them"
+   ],
+   "fr": [
+    "Un contrat d'assurance privée qui paie les frais supplémentaires non couverts par la Caisse nationale de santé (CNS)",
+    "Un carnet papier dans lequel chaque médecin note vos traitements, et que vous devez apporter à chaque rendez-vous",
+    "Un dossier fiscal tenu par l'administration des contributions, qui liste toutes vos dépenses médicales pour que vous puissiez les déduire"
+   ],
+   "de": [
+    "Ein privater Versicherungsvertrag, der Zusatzkosten zahlt, die die nationale Gesundheitskasse (CNS) nicht übernimmt",
+    "Ein Heft aus Papier, in das jeder Arzt Ihre Behandlungen von Hand einträgt und das Sie zu jedem einzelnen Termin mitbringen müssen",
+    "Eine Steuerakte der Verwaltung, in der alle Ihre Gesundheitsausgaben aufgelistet sind, damit Sie sie absetzen können"
+   ],
+   "lb": [
+    "E private Versécherungskontrakt, deen extra Käschte bezilt, déi d'national Gesondheetskeess (CNS) net iwwerhëlt",
+    "E Pabeierheft, an deem all Dokter Är Behandlunge mat der Hand opschreift, an dat Dir bei all eenzege Rendez-vous musst matbréngen",
+    "E Steierdossier vun der Administratioun, an deem all Är medezinesch Ausgaben opgelëscht sinn, fir se ofzesetzen"
+   ]
+  },
+  {
+   "en": [
+    "Only your general practitioner, who decides which other doctors may open the file",
+    "Your employer, who needs to know about your health to plan your work",
+    "The Ministry of Health, which grants access to doctors and hospitals case by case"
+   ],
+   "fr": [
+    "Seulement votre médecin généraliste, qui décide quels autres médecins peuvent ouvrir le dossier",
+    "Votre employeur, qui doit connaître votre santé pour organiser votre travail",
+    "Le ministère de la Santé, qui donne l'accès aux médecins et aux hôpitaux au cas par cas"
+   ],
+   "de": [
+    "Nur Ihr Hausarzt, der entscheidet, welche anderen Ärzte die Akte öffnen dürfen",
+    "Ihr Arbeitgeber, der über Ihre Gesundheit Bescheid wissen muss, um Ihre Arbeit zu planen",
+    "Das Gesundheitsministerium, das Ärzten und Krankenhäusern von Fall zu Fall den Zugang gewährt"
+   ],
+   "lb": [
+    "Just Ären Hausdokter, deen eleng decidéiert, wéi eng aner Dokteren a Spideeler den Dossier opmaache däerfen",
+    "Ären Employeur, deen iwwer Är Gesondheet muss Bescheed wëssen, fir Är Aarbecht ze plangen",
+    "De Gesondheetsministère, deen den Dokteren an de Spideeler vu Fall zu Fall Zougang gëtt"
+   ]
+  },
+  {
+   "en": [
+    "The CNS pays you in cash at the reception desk, and the doctor then sends the bill to your employer",
+    "The visit is always completely free, because the CNS pays the doctor directly for every consultation",
+    "You pay nothing at the doctor's, and the CNS later deducts the whole cost of the visit from your monthly salary"
+   ],
+   "fr": [
+    "La CNS vous paie en espèces à l'accueil, puis le médecin envoie la facture à votre employeur",
+    "La visite est toujours entièrement gratuite, car la CNS paie directement le médecin pour chaque consultation",
+    "Vous ne payez rien chez le médecin, et la CNS retient ensuite la totalité du coût de la visite directement sur votre salaire du mois suivant"
+   ],
+   "de": [
+    "Die CNS zahlt Ihnen am Empfang Bargeld aus, und der Arzt schickt die Rechnung dann an Ihren Arbeitgeber",
+    "Der Besuch ist immer völlig kostenlos, weil die CNS den Arzt für jede Konsultation direkt bezahlt",
+    "Sie zahlen beim Arzt nichts, und die CNS zieht die gesamten Kosten des Besuchs später von Ihrem Monatsgehalt ab"
+   ],
+   "lb": [
+    "D'CNS bezilt Iech op der Receptioun cash, an den Dokter schéckt d'Rechnung duerno un Ären Employeur",
+    "De Besuch ass ëmmer ganz gratis, well d'CNS den Dokter fir all Konsultatioun direkt bezilt",
+    "Dir bezuelt beim Dokter näischt, an d'CNS zitt spéider déi ganz Käschte vum Besuch direkt vun Ärem Méintsloun of"
+   ]
+  },
+  {
+   "en": [
+    "The State pays nothing at all, and you pay the whole price of your medicine yourself",
+    "You always pay the full price at the pharmacy and then claim the money back from the CNS later",
+    "You pay double at the pharmacy, and the CNS refunds half of it at the end of the year"
+   ],
+   "fr": [
+    "L'État ne paie rien du tout, et vous payez vous-même le prix total de vos médicaments",
+    "Vous payez toujours le prix complet à la pharmacie, puis vous vous faites rembourser plus tard par la CNS",
+    "Vous payez le double à la pharmacie, et la CNS vous en rembourse la moitié en fin d'année"
+   ],
+   "de": [
+    "Der Staat zahlt gar nichts, und Sie zahlen den vollen Preis Ihrer Medikamente selbst",
+    "Sie zahlen in der Apotheke immer den vollen Preis und holen sich das Geld später bei der CNS zurück",
+    "Sie zahlen in der Apotheke das Doppelte, und die CNS erstattet Ihnen am Jahresende die Hälfte"
+   ],
+   "lb": [
+    "De Staat bezilt guer näischt, an Dir bezuelt de ganze Präis vun Äre Medikamenter selwer",
+    "Dir bezuelt an der Apdikt ëmmer de ganze Präis a kritt d'Suen dann spéider vun der CNS zeréck",
+    "Dir bezuelt an der Apdikt duebel, an d'CNS rembourséiert Iech d'Halschent um Enn vum Joer"
+   ]
+  },
+  {
+   "en": [
+    "You cannot activate it yourself – only your doctor can open your account and show you the file",
+    "Only in person at a hospital reception desk, with your passport and your social security card",
+    "Only by waiting for an activation code, which the CNS sends by post once a year"
+   ],
+   "fr": [
+    "Vous ne pouvez pas l'activer vous-même – seul votre médecin peut ouvrir votre compte et vous montrer le dossier",
+    "Uniquement en personne à l'accueil d'un hôpital, avec votre passeport et votre carte de sécurité sociale",
+    "Uniquement en attendant un code d'activation que la CNS envoie par la poste une fois par an"
+   ],
+   "de": [
+    "Sie können es nicht selbst aktivieren – nur Ihr Arzt kann Ihr Konto eröffnen und Ihnen die Akte zeigen",
+    "Nur persönlich am Empfang eines Krankenhauses, mit Ihrem Reisepass und Ihrer Sozialversicherungskarte",
+    "Nur indem Sie auf einen Aktivierungscode warten, den die CNS einmal im Jahr per Post schickt"
+   ],
+   "lb": [
+    "Dir kënnt en net selwer aktivéieren – just Ären Dokter kann Äre Kont opmaachen an Iech den Dossier weisen",
+    "Just perséinlech op der Receptioun vun engem Spidol, mat Ärem Pass an Ärer Sozialversécherungskaart",
+    "Just andeems Dir op en Aktivéierungscode waart, deen d'CNS eemol am Joer mat der Post schéckt"
+   ]
+  }
+ ],
+ "lualert": [
+  {
+   "en": [
+    "A private weather app that you subscribe to, which sends storm and flood warnings for a fee",
+    "A social media account run by the Grand Ducal Police to share news about traffic and events",
+    "An insurance scheme that pays compensation to households after storms, floods or other disasters"
+   ],
+   "fr": [
+    "Une application météo privée à laquelle on s'abonne, qui envoie des alertes tempête et inondation contre paiement",
+    "Un compte sur les réseaux sociaux de la Police grand-ducale pour partager des infos sur la circulation et les événements",
+    "Un système d'assurance qui indemnise les ménages après des tempêtes, des inondations ou d'autres catastrophes"
+   ],
+   "de": [
+    "Eine private Wetter-App im Abonnement, die gegen Gebühr Sturm- und Hochwasserwarnungen verschickt",
+    "Ein Social-Media-Konto der Großherzoglichen Polizei, das Neuigkeiten zu Verkehr und Veranstaltungen teilt",
+    "Eine Versicherung, die Haushalte nach Stürmen, Überschwemmungen oder anderen Katastrophen entschädigt"
+   ],
+   "lb": [
+    "Eng privat Wieder-App am Abonnement, déi géint Bezuelung Stuerm- an Héichwaasserwarnunge verschéckt",
+    "E Konto op de soziale Medie vun der Grand-ducal Police, fir Neiegkeeten iwwer de Verkéier an Evenementer ze deelen",
+    "Eng Versécherung, déi Stéit no Stierm, Iwwerschwemmungen oder anere Katastrophen entschiedegt"
+   ]
+  },
+  {
+   "en": [
+    "Yes – you must first register your mobile number on lu-alert.lu to receive any alerts at all",
+    "Yes, but only cross-border workers, whose phones use foreign networks",
+    "No registration is needed, but you pay a small annual fee through your mobile phone operator"
+   ],
+   "fr": [
+    "Oui – vous devez d'abord enregistrer votre numéro de portable sur lu-alert.lu pour recevoir la moindre alerte",
+    "Oui, mais seulement les frontaliers, dont les téléphones utilisent des réseaux étrangers",
+    "Aucune inscription n'est nécessaire, mais vous payez une petite redevance annuelle via votre opérateur mobile"
+   ],
+   "de": [
+    "Ja – Sie müssen zuerst Ihre Handynummer auf lu-alert.lu registrieren, um überhaupt Warnungen zu erhalten",
+    "Ja, aber nur Grenzgänger, deren Telefone ausländische Netze nutzen",
+    "Eine Anmeldung ist nicht nötig, aber Sie zahlen eine kleine Jahresgebühr über Ihren Mobilfunkanbieter"
+   ],
+   "lb": [
+    "Jo – Dir musst fir d'éischt Är Handysnummer op lu-alert.lu registréieren, fir iwwerhaapt Warnungen ze kréien",
+    "Jo, mä just d'Frontalieren, well hir Telefone auslännesch Netzer benotzen",
+    "Et brauch een sech net unzemellen, mä Dir bezuelt eng kleng Joresgebühr iwwer Ären Handysoperateur"
+   ]
+  },
+  {
+   "en": [
+    "Luxembourgish, French and German",
+    "French and Portuguese",
+    "English and Luxembourgish"
+   ],
+   "fr": [
+    "Luxembourgeois, français, allemand et portugais",
+    "Français et portugais",
+    "Anglais et luxembourgeois"
+   ],
+   "de": [
+    "Luxemburgisch, Französisch und Deutsch",
+    "Französisch und Portugiesisch",
+    "Englisch und Luxemburgisch"
+   ],
+   "lb": [
+    "Lëtzebuergesch, Franséisch an Däitsch",
+    "Franséisch a Portugisesch",
+    "Englesch a Lëtzebuergesch"
+   ]
+  },
+  {
+   "en": [
+    "For every weather warning, day or night",
+    "Every day at noon, as a short test",
+    "Whenever the mobile network is down"
+   ],
+   "fr": [
+    "Pour chaque alerte météo, de jour comme de nuit",
+    "Tous les jours à midi, pour un court test",
+    "Chaque fois que le réseau mobile est en panne"
+   ],
+   "de": [
+    "Bei jeder Wetterwarnung, Tag und Nacht",
+    "Jeden Tag um zwölf Uhr, als kurzer Test",
+    "Immer wenn das Mobilfunknetz ausfällt"
+   ],
+   "lb": [
+    "Bei all Wiederwarnung, Dag an Nuecht",
+    "All Dag um zwielef Auer, als kuerzen Test",
+    "All Kéier, wann d'Handysnetz ausfält"
+   ]
+  },
+  {
+   "en": [
+    "Reply to the SMS with your name, address and date of birth, so that the authorities can confirm who you are and where you live",
+    "Click on the link in the message and log in with your LuxTrust details to verify that it is real",
+    "Call the phone number shown in the message and give your bank details so the sender can be checked"
+   ],
+   "fr": [
+    "Répondre au SMS avec votre nom, votre adresse et votre date de naissance, pour que les autorités confirment qui vous êtes et où vous habitez",
+    "Cliquer sur le lien du message et vous connecter avec vos identifiants LuxTrust pour vérifier qu'il est authentique",
+    "Appeler le numéro indiqué dans le message et donner vos coordonnées bancaires pour que l'expéditeur soit vérifié"
+   ],
+   "de": [
+    "Auf die SMS mit Name, Adresse und Geburtsdatum antworten, damit die Behörden bestätigen können, wer Sie sind und wo Sie wohnen",
+    "Auf den Link in der Nachricht klicken und sich mit Ihren LuxTrust-Daten anmelden, um zu prüfen, ob sie echt ist",
+    "Die in der Nachricht angegebene Nummer anrufen und Ihre Bankdaten nennen, damit der Absender überprüft werden kann"
+   ],
+   "lb": [
+    "Op d'SMS mat Ärem Numm, Ärer Adress an Ärem Gebuertsdatum äntweren, fir datt d'Autoritéite bestätege kënnen, wien Dir sidd a wou Dir wunnt",
+    "Op de Link am Message klicken an Iech mat Ären LuxTrust-Donnéeën aloggen, fir ze kucken, ob e richteg ass",
+    "D'Nummer aus dem Message uruffen an Är Bankdonnéeë ginn, fir datt den Ofsender iwwerpréift ka ginn"
+   ]
+  }
+ ],
+ "luxtrust": [
+  {
+   "en": [
+    "A mobile bank account from a Luxembourg bank, which you use to pay online and send money",
+    "An antivirus program for your phone and computer that protects you when you shop online",
+    "A government tax website where you file your tax return and see your tax statements online"
+   ],
+   "fr": [
+    "Un compte bancaire mobile d'une banque luxembourgeoise, qui sert à payer en ligne et à envoyer de l'argent",
+    "Un antivirus pour votre téléphone et votre ordinateur, qui vous protège quand vous faites vos achats en ligne",
+    "Un site fiscal de l'État où vous déposez votre déclaration d'impôt et consultez vos décomptes en ligne"
+   ],
+   "de": [
+    "Ein mobiles Bankkonto einer luxemburgischen Bank, mit dem Sie online bezahlen und Geld überweisen",
+    "Ein Virenschutzprogramm für Handy und Computer, das Sie beim Online-Einkauf schützt",
+    "Eine staatliche Steuer-Website, auf der Sie Ihre Steuererklärung abgeben und Ihre Steuerbescheide ansehen"
+   ]
+  },
+  {
+   "en": [
+    "Only log in to social media and email accounts – banks and public services use other systems",
+    "Only file your taxes on the tax website – you cannot use it for banking or signing documents",
+    "Nothing until you start a company, because LuxTrust is only for businesses and self-employed people"
+   ],
+   "fr": [
+    "Seulement vous connecter aux réseaux sociaux et à vos e-mails – les banques et les services publics utilisent chacun leurs propres systèmes",
+    "Seulement déclarer vos impôts sur le site fiscal – impossible de l'utiliser pour la banque ou pour signer des documents",
+    "Rien tant que vous ne créez pas d'entreprise, car LuxTrust est réservé aux sociétés et aux indépendants"
+   ],
+   "de": [
+    "Nur sich bei sozialen Netzwerken und E-Mail-Konten anmelden – Banken und Behörden nutzen andere Systeme",
+    "Nur Ihre Steuern auf der Steuer-Website erklären – für Online-Banking oder das Unterschreiben von Dokumenten geht es leider nicht",
+    "Nichts, solange Sie kein Unternehmen gründen, denn LuxTrust ist nur für Firmen und Selbstständige"
+   ]
+  },
+  {
+   "en": [
+    "No legal value – it is only a convenience for you",
+    "It is only valid for emails, not for contracts",
+    "It is only valid inside your own bank"
+   ],
+   "fr": [
+    "Aucune valeur juridique – c'est seulement pratique pour vous",
+    "Elle n'est valable que pour les e-mails, pas pour les contrats",
+    "Elle n'est valable qu'au sein de votre propre banque"
+   ],
+   "de": [
+    "Keinen rechtlichen Wert – sie ist nur eine praktische Bequemlichkeit für Sie",
+    "Sie gilt nur für E-Mails, nicht für Verträge",
+    "Sie gilt nur innerhalb Ihrer eigenen Bank"
+   ]
+  },
+  {
+   "en": [
+    "It is never verified – you simply choose a username and password on the LuxTrust website",
+    "Only by sending a photo of yourself by email, without showing any identity document",
+    "Only by answering a few security questions online about your address and date of birth"
+   ],
+   "fr": [
+    "Elle n'est jamais vérifiée – vous choisissez simplement un identifiant et un mot de passe sur le site de LuxTrust",
+    "Uniquement en envoyant une photo de vous par e-mail, sans montrer de pièce d'identité",
+    "Uniquement en répondant en ligne à quelques questions de sécurité sur votre adresse et votre date de naissance"
+   ],
+   "de": [
+    "Sie wird nie überprüft – Sie wählen einfach selbst einen Benutzernamen und ein Passwort auf der LuxTrust-Website",
+    "Nur indem Sie ein Foto von sich per E-Mail schicken, ohne ein Ausweisdokument vorzuzeigen",
+    "Nur indem Sie online ein paar Sicherheitsfragen zu Ihrer Adresse und Ihrem Geburtsdatum beantworten"
+   ]
+  },
+  {
+   "en": [
+    "LuxTrust may call you on the phone to ask for your password, to check that your account is still secure",
+    "You can safely share your codes with your bank adviser or a family member, as long as they are helping you set things up",
+    "LuxTrust staff may visit your home to help you install the app, and ask to use your device for a moment"
+   ],
+   "fr": [
+    "LuxTrust peut vous appeler pour vous demander votre mot de passe, afin de vérifier que votre compte est toujours sûr",
+    "Vous pouvez partager sans risque vos codes avec votre conseiller bancaire ou un proche, tant qu'ils vous aident à tout installer sur votre téléphone",
+    "Des employés de LuxTrust peuvent venir chez vous pour installer l'application et utiliser votre appareil un moment"
+   ],
+   "de": [
+    "LuxTrust ruft Sie eventuell an, um Ihr Passwort abzufragen und zu prüfen, ob Ihr Konto noch sicher ist",
+    "Sie können Ihre Codes bedenkenlos an Ihren Bankberater oder ein Familienmitglied weitergeben, solange diese Ihnen beim Einrichten helfen",
+    "LuxTrust-Mitarbeiter können zu Ihnen nach Hause kommen, um die App zu installieren, und kurz Ihr Gerät benutzen"
+   ]
+  }
+ ],
+ "maison_orientation": [
+  {
+   "en": [
+    "A private tutoring company that helps pupils prepare for exams and charges by the hour",
+    "A university in Luxembourg City where young people can study guidance and psychology",
+    "An employment agency for adults only, where jobseekers must register before they can receive any benefits"
+   ],
+   "fr": [
+    "Une entreprise privée de soutien scolaire qui aide les élèves à préparer leurs examens et facture à l'heure",
+    "Une université à Luxembourg-Ville où les jeunes peuvent étudier l'orientation et la psychologie",
+    "Une agence pour l'emploi réservée aux adultes, où les demandeurs d'emploi doivent s'inscrire avant de toucher la moindre aide"
+   ],
+   "de": [
+    "Eine private Nachhilfefirma, die Schüler auf Prüfungen vorbereitet und stundenweise abrechnet",
+    "Eine Universität in Luxemburg-Stadt, an der junge Menschen Orientierung und Psychologie studieren können",
+    "Eine Arbeitsagentur nur für Erwachsene, bei der sich Arbeitssuchende anmelden müssen, bevor sie irgendeine Leistung erhalten"
+   ]
+  },
+  {
+   "en": [
+    "It costs 50 euros per visit, and you always need an appointment that must be booked several weeks in advance",
+    "It is only for Luxembourg citizens over 25 who have already finished their studies or training",
+    "It is open only one day per year, during a national open day in the spring, for all ages"
+   ],
+   "fr": [
+    "Il coûte 50 euros par visite, et il faut toujours un rendez-vous réservé plusieurs semaines à l'avance",
+    "Il est réservé aux citoyens luxembourgeois de plus de 25 ans ayant déjà terminé leurs études ou leur formation",
+    "Il n'est ouvert qu'un jour par an, lors d'une journée portes ouvertes nationale au printemps, pour tous les âges"
+   ],
+   "de": [
+    "Er kostet 50 Euro pro Besuch, und man braucht immer einen Termin, der mehrere Wochen im Voraus gebucht werden muss",
+    "Er ist nur für luxemburgische Staatsbürger über 25, die ihr Studium oder ihre Ausbildung bereits abgeschlossen haben",
+    "Er ist nur einen Tag im Jahr geöffnet, bei einem nationalen Tag der offenen Tür im Frühling, für alle Altersgruppen"
+   ]
+  },
+  {
+   "en": [
+    "By sending a letter by post to the Maison de l'Orientation and waiting for a reply",
+    "Only by visiting in person first, since no appointments can be made online or by phone",
+    "Through your bank, which forwards your request to the Maison de l'Orientation"
+   ],
+   "fr": [
+    "En envoyant une lettre par la poste à la Maison de l'orientation et en attendant une réponse",
+    "Uniquement en passant d'abord sur place, car on ne peut prendre rendez-vous ni en ligne ni par téléphone",
+    "Par l'intermédiaire de votre banque, qui transmet votre demande à la Maison de l'orientation"
+   ],
+   "de": [
+    "Indem Sie einen Brief per Post an die Maison de l'orientation schicken und auf eine Antwort warten",
+    "Nur indem Sie zuerst persönlich vorbeikommen, da Termine weder online noch telefonisch möglich sind",
+    "Über Ihre Bank, die Ihre Anfrage an die Maison de l'orientation weiterleitet"
+   ]
+  },
+  {
+   "en": [
+    "A written exam that you must pass before you are allowed to choose a school or training",
+    "A compulsory medical check, which every pupil must complete before leaving secondary school",
+    "A paid private lesson with a teacher who prepares you for your final exams"
+   ],
+   "fr": [
+    "Un examen écrit que vous devez réussir avant d'avoir le droit de choisir une école ou une formation",
+    "Un contrôle médical obligatoire que chaque élève doit passer avant de quitter l'enseignement secondaire",
+    "Un cours particulier payant avec un enseignant qui vous prépare à vos examens de fin d'études"
+   ],
+   "de": [
+    "Eine schriftliche Prüfung, die Sie bestehen müssen, bevor Sie eine Schule oder Ausbildung wählen dürfen",
+    "Eine verpflichtende ärztliche Untersuchung, die jeder Schüler vor dem Verlassen der Sekundarschule machen muss",
+    "Eine bezahlte Privatstunde bei einem Lehrer, der Sie auf Ihre Abschlussprüfungen vorbereitet"
+   ]
+  },
+  {
+   "en": [
+    "Only primary school children and their teachers – older pupils and adults are sent to other services, such as ADEM or the universities",
+    "Only company owners who want to recruit apprentices, through a dedicated service that matches businesses with young people looking for training",
+    "Nobody else – it only hands out leaflets about schools and trainings, and anyone with questions about recognising diplomas, changing careers or finding a job must go to their commune instead"
+   ],
+   "fr": [
+    "Seulement les enfants de l'école fondamentale et leurs enseignants – les élèves plus âgés et les adultes sont envoyés vers d'autres services, comme l'ADEM ou les universités",
+    "Seulement les chefs d'entreprise qui veulent recruter des apprentis, grâce à un service dédié qui met en relation les entreprises et les jeunes cherchant une formation",
+    "Personne d'autre – elle distribue seulement des brochures sur les écoles et les formations, et toute question sur la reconnaissance des diplômes, les reconversions professionnelles ou la recherche d'emploi doit être posée à la commune"
+   ],
+   "de": [
+    "Nur Grundschulkinder und ihre Lehrkräfte – ältere Schüler und Erwachsene werden an andere Dienste verwiesen, etwa die ADEM oder die Universitäten",
+    "Nur Unternehmer, die Auszubildende einstellen möchten, über einen eigenen Dienst, der Betriebe mit jungen Menschen auf Ausbildungssuche zusammenbringt",
+    "Niemand sonst – sie verteilt nur Broschüren über Schulen und Ausbildungen, und wer Fragen zur Anerkennung von Diplomen, zu einem Berufswechsel, zur Validierung von Erfahrung oder zur Jobsuche hat, muss sich an seine Gemeinde wenden"
+   ]
+  }
+ ],
+ "infosenior": [
+  {
+   "en": [
+    "A private chain of retirement homes that runs several care homes across Luxembourg and the Greater Region",
+    "A pension savings account offered by the State, into which older people can pay extra money each month",
+    "A social network for retirees, where older people can meet, chat and organise trips together"
+   ],
+   "fr": [
+    "Une chaîne privée de maisons de retraite qui gère plusieurs maisons de soins au Luxembourg et dans la Grande Région",
+    "Un compte d'épargne-pension proposé par l'État, sur lequel les personnes âgées peuvent verser un peu d'argent chaque mois",
+    "Un réseau social pour retraités, où les personnes âgées peuvent se rencontrer, discuter et organiser des voyages"
+   ],
+   "de": [
+    "Eine private Kette von Seniorenheimen, die mehrere Pflegeheime in Luxemburg und der Großregion betreibt",
+    "Ein staatliches Rentensparkonto, auf das ältere Menschen jeden Monat zusätzlich Geld einzahlen können",
+    "Ein soziales Netzwerk für Rentner, in dem sich ältere Menschen treffen, austauschen und gemeinsam Reisen und Ausflüge planen"
+   ]
+  },
+  {
+   "en": [
+    "Anyone can add their own service to the list, without any checks by the State",
+    "They are only services located in Luxembourg City, since the register is run by the capital",
+    "They are ranked by price only, from the cheapest to the most expensive"
+   ],
+   "fr": [
+    "N'importe qui peut ajouter son propre service à la liste, sans aucun contrôle de l'État",
+    "Ce sont uniquement des services situés à Luxembourg-Ville, car le registre est géré par la capitale",
+    "Ils sont classés uniquement selon leur prix, du moins cher au plus cher"
+   ],
+   "de": [
+    "Jeder kann seinen eigenen Dienst in die Liste eintragen, ganz ohne Kontrolle oder Zulassung durch den Staat",
+    "Es sind nur Dienste in Luxemburg-Stadt, da das Register von der Hauptstadt geführt wird",
+    "Sie sind nur nach Preis sortiert, vom günstigsten bis zum teuersten"
+   ]
+  },
+  {
+   "en": [
+    "Only a phone number and the opening hours of each service",
+    "Only customer reviews and a star rating given by other users",
+    "Nothing – you must visit each service in person to learn anything about it"
+   ],
+   "fr": [
+    "Seulement un numéro de téléphone et les horaires d'ouverture de chaque service",
+    "Seulement des avis de clients et une note en étoiles donnée par d'autres utilisateurs",
+    "Rien – vous devez vous rendre dans chaque service pour en apprendre quoi que ce soit"
+   ],
+   "de": [
+    "Nur eine Telefonnummer und die Öffnungszeiten jedes Dienstes",
+    "Nur Kundenbewertungen und eine Sternebewertung anderer Nutzer",
+    "Nichts – Sie müssen jeden Dienst einzeln persönlich besuchen, um überhaupt etwas zu erfahren"
+   ]
+  },
+  {
+   "en": [
+    "Free flight tickets for retirees who want to visit family abroad once a year",
+    "A tax-free shopping card for people over 65 to use in supermarkets",
+    "A car-leasing discount for older drivers, with free insurance included"
+   ],
+   "fr": [
+    "Des billets d'avion gratuits pour les retraités qui veulent rendre visite à leur famille à l'étranger une fois par an",
+    "Une carte d'achat sans taxes pour les plus de 65 ans, à utiliser dans les supermarchés",
+    "Une réduction sur le leasing automobile pour les conducteurs âgés, avec assurance gratuite incluse"
+   ],
+   "de": [
+    "Kostenlose Flugtickets für Rentner, die einmal im Jahr ihre Familie im Ausland besuchen möchten",
+    "Eine steuerfreie Einkaufskarte für Menschen über 65 für den Supermarkt",
+    "Ein Rabatt auf Autoleasing für ältere Fahrer, inklusive kostenloser Versicherung"
+   ]
+  },
+  {
+   "en": [
+    "Nothing – if you have a disagreement, you have to sort it out with the service on your own",
+    "Only a private lawyer, because the State does not offer any mediation for seniors' services",
+    "You must first move to a care home, where the staff will handle all questions for you"
+   ],
+   "fr": [
+    "Rien – en cas de désaccord, vous devez régler le problème seul avec le service",
+    "Seulement un avocat privé, car l'État ne propose aucune médiation pour les services aux seniors",
+    "Vous devez d'abord emménager dans une maison de soins, où le personnel gérera ensuite toutes les questions à votre place"
+   ],
+   "de": [
+    "Nichts – bei einer Meinungsverschiedenheit müssen Sie das ganz allein und ohne jede Hilfe mit dem Dienst klären",
+    "Nur ein privater Anwalt, weil der Staat keine Schlichtung für Seniorendienste anbietet",
+    "Sie müssen zuerst in ein Pflegeheim ziehen, wo das Personal alle Fragen für Sie regelt"
+   ]
+  }
+ ],
+ "accessibilite": [
+  {
+   "en": [
+    "A private company that sells accessibility equipment such as ramps, lifts and screen readers to homes and businesses across Luxembourg",
+    "An online application where people with a disability apply for benefits and follow the status of their payments from the State",
+    "A map of wheelchair-friendly restaurants, shops and cafés in Luxembourg, based on ratings and comments from the public and from local businesses"
+   ],
+   "fr": [
+    "Une entreprise privée qui vend du matériel d'accessibilité comme des rampes, des ascenseurs et des lecteurs d'écran aux particuliers et aux entreprises au Luxembourg",
+    "Une application en ligne où les personnes en situation de handicap demandent des aides et suivent l'état de leurs paiements de l'État",
+    "Une carte des restaurants, magasins et cafés accessibles en fauteuil roulant au Luxembourg, basée sur les notes et les commentaires du public et des commerces locaux"
+   ],
+   "de": [
+    "Ein privates Unternehmen, das Hilfsmittel für Barrierefreiheit wie Rampen, Aufzüge und Screenreader an Haushalte und Firmen in ganz Luxemburg verkauft",
+    "Eine Online-Anwendung, über die Menschen mit Behinderung Leistungen beantragen und den Stand ihrer staatlichen Zahlungen verfolgen",
+    "Eine Karte rollstuhlgerechter Restaurants, Geschäfte und Cafés in ganz Luxemburg, auf Grundlage von Bewertungen und Kommentaren der Öffentlichkeit und der lokalen Betriebe"
+   ]
+  },
+  {
+   "en": [
+    "Every private website in Luxembourg, including blogs and small shops",
+    "Only online shops that sell products to customers in the European Union",
+    "Only social media platforms with more than a million users"
+   ],
+   "fr": [
+    "Tous les sites privés du Luxembourg, y compris les blogs et les petites boutiques",
+    "Seulement les boutiques en ligne qui vendent des produits à des clients de l'Union européenne",
+    "Seulement les réseaux sociaux de plus d'un million d'utilisateurs"
+   ],
+   "de": [
+    "Jede private Website in Luxemburg, einschließlich Blogs und kleiner Shops",
+    "Nur Online-Shops, die Produkte an Kunden in der Europäischen Union verkaufen und mehr als zehn Mitarbeiter haben",
+    "Nur soziale Netzwerke mit mehr als einer Million Nutzern"
+   ]
+  },
+  {
+   "en": [
+    "Fast, modern, colourful and easy to remember",
+    "Private, secure, encrypted and regularly backed-up",
+    "Mobile, desktop, tablet and smartwatch compatible"
+   ],
+   "fr": [
+    "Rapide, moderne, coloré et facile à retenir",
+    "Privé, sécurisé, chiffré et sauvegardé régulièrement",
+    "Compatible mobile, ordinateur, tablette et montre connectée"
+   ],
+   "de": [
+    "Schnell, modern, farbenfroh und leicht zu merken",
+    "Privat, sicher, verschlüsselt und regelmäßig gesichert",
+    "Kompatibel mit Handy, Computer, Tablet und Smartwatch"
+   ]
+  },
+  {
+   "en": [
+    "Separate entrances and special rooms for disabled people; existing public places must be adapted by 2025",
+    "Demolishing and rebuilding all old public buildings; existing public places must be replaced by 2030",
+    "Voluntary guidelines that owners can follow if they wish; there is no deadline at all for existing public places"
+   ],
+   "fr": [
+    "Des entrées séparées et des salles spéciales pour les personnes handicapées ; les lieux publics existants doivent être adaptés d'ici 2025",
+    "Démolir et reconstruire tous les anciens bâtiments publics ; les lieux publics existants doivent être remplacés d'ici 2030",
+    "Des recommandations facultatives que les propriétaires suivent s'ils le souhaitent ; aucune échéance pour les lieux publics existants"
+   ],
+   "de": [
+    "Getrennte Eingänge und besondere Räume für Menschen mit Behinderung; bestehende öffentliche Orte müssen bis 2025 angepasst sein",
+    "Abriss und Neubau aller alten öffentlichen Gebäude; bestehende öffentliche Orte müssen bis 2030 ersetzt sein",
+    "Freiwillige Leitlinien, denen Eigentümer folgen können, wenn sie wollen; für bestehende öffentliche Orte gibt es überhaupt keine Frist"
+   ]
+  },
+  {
+   "en": [
+    "Since 2019; by calling the police, who forward your report to the ministry",
+    "Since 2030; only by sending a letter to the European Commission",
+    "It does not apply in Luxembourg yet; reports are not possible"
+   ],
+   "fr": [
+    "Depuis 2019 ; en appelant la police, qui transmet votre signalement au ministère",
+    "Depuis 2030 ; uniquement par lettre à la Commission européenne",
+    "Il ne s'applique pas encore au Luxembourg ; aucun signalement n'est possible"
+   ],
+   "de": [
+    "Seit 2019; indem Sie die Polizei anrufen, die Ihre Meldung an das Ministerium weiterleitet",
+    "Seit 2030; nur per Brief an die Europäische Kommission",
+    "Er gilt in Luxemburg noch nicht; Meldungen sind nicht möglich"
+   ]
+  }
+ ]
+}

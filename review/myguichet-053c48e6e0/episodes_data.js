@@ -714,9 +714,9 @@ const EPISODES = [
     "text": "What is MyGuichet.lu?",
     "options": [
      "The official, secure online platform of the Luxembourg government – your single point of contact with the public administration",
-     "A paid subscription service for legal advice",
-     "A private online banking application",
-     "A social network for residents of Luxembourg"
+     "A paid subscription service run by a private company that gives legal advice on dealing with the Luxembourg administration",
+     "A private online banking application that lets residents pay their taxes and administrative fees from their smartphone",
+     "A social network where residents of Luxembourg share tips, questions and experiences about administrative procedures, moderated by volunteers"
     ],
     "correct": 0,
     "explanation": "MyGuichet.lu is the official, secure online platform of the Luxembourg State. It works like an online counter (“guichet”) where you can carry out administrative procedures from home instead of going to an office."
@@ -724,9 +724,9 @@ const EPISODES = [
    {
     "text": "Why is MyGuichet.lu described in the episode as an “online counter”?",
     "options": [
-     "Because you can count your documents there",
-     "Because it only works at the counter of an office",
-     "Because it is a banking application",
+     "Because it is where you count and sort your paper documents before you post them to the administration",
+     "Because it only works when you stand at the counter of an administration office and an agent logs you in",
+     "Because it is run by the banks, like an online bank counter, and it is only open during office hours on weekdays",
      "Because it is like the counter of an administration office — but online, open every day, at any hour, from home"
     ],
     "correct": 3,
@@ -736,9 +736,9 @@ const EPISODES = [
     "text": "What do you need in order to register on MyGuichet.lu?",
     "options": [
      "To be at least 16 years old and have your 13-digit national identification number (the “matricule”)",
-     "To be a Luxembourg citizen and pay a registration fee",
-     "A Luxembourg passport and a residence permit",
-     "Only an email address"
+     "To be a Luxembourg citizen, at least 18 years old, and pay a one-time registration fee at your commune's town hall",
+     "A Luxembourg passport and a valid residence permit, which you must show in person at the Guichet.lu office",
+     "Only an email address and a mobile phone number – no identification number or secure login is needed"
     ],
     "correct": 0,
     "explanation": "To register you must be at least 16, have your 13-digit matricule (on your social security card), an email address, a device, and a secure way to prove your identity online."
@@ -746,10 +746,10 @@ const EPISODES = [
    {
     "text": "Which secure logins can you use for MyGuichet.lu?",
     "options": [
-     "Just a username and password you choose yourself",
-     "A simple Google or Facebook account",
+     "Just a username and password that you choose yourself when you first create your account on the website",
+     "A Google, Apple or Facebook account, which MyGuichet.lu accepts as a secure login for all procedures",
      "A LuxTrust product, the Luxembourg eID card, or an eIDAS login from your own European country",
-     "Only a LuxTrust product"
+     "Only a LuxTrust product – the eID card and logins from other European countries are not accepted"
     ],
     "correct": 2,
     "explanation": "You need one secure login, but you have a choice: a LuxTrust product (such as LuxTrust Mobile), the Luxembourg electronic ID card, or an eIDAS login from another European country."
@@ -757,10 +757,10 @@ const EPISODES = [
    {
     "text": "What can you do in your personal eSpace on MyGuichet.lu?",
     "options": [
-     "Nothing – you still have to visit an office for everything",
+     "Nothing yet – the eSpace only shows general information, and you still have to visit an office for every request",
      "Follow the status of your requests, view your official data, receive documents and book appointments",
-     "Trade shares and cryptocurrencies",
-     "Only file your annual tax return"
+     "Trade shares, open savings accounts and pay your private bills, since the eSpace is linked to your bank",
+     "Only file your annual tax return – other procedures, documents and appointments are still handled by post"
     ],
     "correct": 1,
     "explanation": "In your eSpace you can follow your files, see the official data the State holds about you, receive official documents electronically, store documents, and book appointments with some administrations."
@@ -2383,9 +2383,9 @@ const EPISODES = [
     "text": "Qu'est-ce que MyGuichet.lu ?",
     "options": [
      "La plateforme en ligne officielle et sécurisée du gouvernement luxembourgeois – votre point de contact unique avec l'administration publique",
-     "Un service payant par abonnement pour des conseils juridiques",
-     "Une application privée de banque en ligne",
-     "Un réseau social pour les résidents du Luxembourg"
+     "Un service payant, géré par une entreprise privée, qui donne des conseils juridiques pour les démarches avec l'administration luxembourgeoise",
+     "Une application bancaire privée qui permet aux résidents de payer leurs impôts et leurs frais administratifs depuis leur smartphone",
+     "Un réseau social où les résidents du Luxembourg échangent des conseils, des questions et des expériences sur les démarches administratives, modéré par des bénévoles"
     ],
     "correct": 0,
     "explanation": "MyGuichet.lu est la plateforme en ligne officielle et sécurisée de l'État luxembourgeois. Elle fonctionne comme un guichet en ligne où vous pouvez effectuer vos démarches administratives depuis chez vous, au lieu d'aller dans un bureau."
@@ -2393,9 +2393,9 @@ const EPISODES = [
    {
     "text": "Pourquoi MyGuichet.lu est-il décrit dans l'épisode comme un « guichet en ligne » ?",
     "options": [
-     "Parce qu'on peut y compter ses documents",
-     "Parce qu'il ne fonctionne qu'au guichet d'un bureau",
-     "Parce que c'est une application bancaire",
+     "Parce que c'est là qu'on compte et qu'on trie ses documents papier avant de les envoyer par la poste à l'administration",
+     "Parce qu'il ne fonctionne que si vous êtes au guichet d'un bureau administratif et qu'un agent vous connecte",
+     "Parce qu'il est géré par les banques, comme un guichet bancaire en ligne, et qu'il n'est ouvert qu'aux heures de bureau, du lundi au vendredi",
      "Parce que c'est comme le guichet d'un bureau administratif — mais en ligne, ouvert tous les jours, à toute heure, depuis chez vous"
     ],
     "correct": 3,
@@ -2405,9 +2405,9 @@ const EPISODES = [
     "text": "De quoi avez-vous besoin pour vous inscrire sur MyGuichet.lu ?",
     "options": [
      "Avoir au moins 16 ans et posséder votre numéro d'identification national à 13 chiffres (le « matricule »)",
-     "Être citoyen luxembourgeois et payer des frais d'inscription",
-     "Un passeport luxembourgeois et un titre de séjour",
-     "Seulement une adresse e-mail"
+     "Être citoyen luxembourgeois, avoir au moins 18 ans et payer des frais d'inscription uniques à la maison communale",
+     "Un passeport luxembourgeois et un titre de séjour valable, à présenter en personne au bureau de Guichet.lu",
+     "Seulement une adresse e-mail et un numéro de portable – aucun numéro d'identification ni connexion sécurisée n'est nécessaire"
     ],
     "correct": 0,
     "explanation": "Pour vous inscrire, vous devez avoir au moins 16 ans, posséder votre matricule à 13 chiffres (sur votre carte de sécurité sociale), une adresse e-mail, un appareil, et un moyen sécurisé de prouver votre identité en ligne."
@@ -2415,10 +2415,10 @@ const EPISODES = [
    {
     "text": "Quels moyens de connexion sécurisés pouvez-vous utiliser pour MyGuichet.lu ?",
     "options": [
-     "Juste un nom d'utilisateur et un mot de passe que vous choisissez vous-même",
-     "Un simple compte Google ou Facebook",
+     "Seulement un identifiant et un mot de passe que vous choisissez vous-même en créant votre compte sur le site",
+     "Un compte Google, Apple ou Facebook, que MyGuichet.lu accepte comme connexion sécurisée pour toutes les démarches administratives",
      "Un produit LuxTrust, la carte d'identité électronique luxembourgeoise, ou un identifiant eIDAS de votre propre pays européen",
-     "Uniquement un produit LuxTrust"
+     "Uniquement un produit LuxTrust – la carte eID et les connexions d'autres pays européens ne sont pas acceptées"
     ],
     "correct": 2,
     "explanation": "Il vous faut un moyen de connexion sécurisé, mais vous avez le choix : un produit LuxTrust (comme LuxTrust Mobile), la carte d'identité électronique luxembourgeoise, ou un identifiant eIDAS d'un autre pays européen."
@@ -2426,10 +2426,10 @@ const EPISODES = [
    {
     "text": "Que pouvez-vous faire dans votre eSpace personnel sur MyGuichet.lu ?",
     "options": [
-     "Rien – vous devez quand même aller au bureau pour tout",
+     "Rien pour l'instant – l'eSpace n'affiche que des informations générales, et il faut toujours aller au bureau pour chaque demande",
      "Suivre l'état de vos demandes, consulter vos données officielles, recevoir des documents et prendre des rendez-vous",
-     "Acheter des actions et des cryptomonnaies",
-     "Uniquement faire votre déclaration d'impôts annuelle"
+     "Acheter des actions, ouvrir des comptes d'épargne et payer vos factures privées, car l'eSpace est relié à votre banque",
+     "Seulement déposer votre déclaration d'impôt annuelle – les autres démarches, documents et rendez-vous passent toujours par la poste"
     ],
     "correct": 1,
     "explanation": "Dans votre eSpace, vous pouvez suivre vos dossiers, consulter les données officielles que l'État possède sur vous, recevoir des documents officiels par voie électronique, conserver des documents, et prendre des rendez-vous avec certaines administrations."
@@ -2452,9 +2452,9 @@ const EPISODES = [
     "text": "Was ist MyGuichet.lu?",
     "options": [
      "Die offizielle, sichere Online-Plattform der luxemburgischen Regierung – Ihre zentrale Anlaufstelle bei der öffentlichen Verwaltung",
-     "Ein kostenpflichtiger Abo-Dienst für Rechtsberatung",
-     "Eine private Online-Banking-Anwendung",
-     "Ein soziales Netzwerk für Einwohner Luxemburgs"
+     "Ein kostenpflichtiger Dienst eines privaten Unternehmens, der Rechtsberatung für den Umgang mit der luxemburgischen Verwaltung anbietet",
+     "Eine private Banking-App, mit der Einwohner ihre Steuern und Verwaltungsgebühren über ihr Smartphone bezahlen können",
+     "Ein soziales Netzwerk, in dem Einwohner Luxemburgs Tipps, Fragen und Erfahrungen zu Verwaltungsverfahren austauschen, moderiert von Freiwilligen"
     ],
     "correct": 0,
     "explanation": "MyGuichet.lu ist die offizielle, sichere Online-Plattform des luxemburgischen Staates. Sie funktioniert wie ein Online-Schalter („guichet“), an dem Sie Verwaltungsverfahren von zu Hause aus erledigen können, anstatt zu einem Amt zu gehen."
@@ -2462,9 +2462,9 @@ const EPISODES = [
    {
     "text": "Warum wird MyGuichet.lu in der Folge als „Online-Schalter“ beschrieben?",
     "options": [
-     "Weil man dort seine Dokumente zählen kann",
-     "Weil es nur am Schalter eines Amtes funktioniert",
-     "Weil es eine Banking-Anwendung ist",
+     "Weil man dort seine Papierdokumente zählt und sortiert, bevor man sie per Post an die Verwaltung schickt",
+     "Weil es nur funktioniert, wenn man am Schalter eines Verwaltungsbüros steht und ein Mitarbeiter einen anmeldet",
+     "Weil es von den Banken betrieben wird, wie ein Online-Bankschalter, und nur werktags zu den Bürozeiten geöffnet ist",
      "Weil es wie der Schalter eines Amtes ist — aber online, jeden Tag geöffnet, zu jeder Stunde, von zu Hause aus"
     ],
     "correct": 3,
@@ -2474,9 +2474,9 @@ const EPISODES = [
     "text": "Was brauchen Sie, um sich bei MyGuichet.lu zu registrieren?",
     "options": [
      "Mindestens 16 Jahre alt sein und Ihre 13-stellige nationale Identifikationsnummer (das „Matricule“) haben",
-     "Luxemburgischer Staatsbürger sein und eine Registrierungsgebühr zahlen",
-     "Einen luxemburgischen Reisepass und einen Aufenthaltstitel",
-     "Nur eine E-Mail-Adresse"
+     "Luxemburgischer Staatsbürger sein, mindestens 18 Jahre alt sein und im Rathaus Ihrer Gemeinde eine einmalige Anmeldegebühr zahlen",
+     "Einen luxemburgischen Reisepass und einen gültigen Aufenthaltstitel, die Sie persönlich im Büro von Guichet.lu vorzeigen müssen",
+     "Nur eine E-Mail-Adresse und eine Handynummer – eine Identifikationsnummer oder ein sicherer Login ist nicht nötig"
     ],
     "correct": 0,
     "explanation": "Um sich zu registrieren, müssen Sie mindestens 16 Jahre alt sein und Ihr 13-stelliges Matricule (auf Ihrer Sozialversicherungskarte), eine E-Mail-Adresse, ein Gerät und eine sichere Möglichkeit haben, Ihre Identität online nachzuweisen."
@@ -2484,10 +2484,10 @@ const EPISODES = [
    {
     "text": "Welche sicheren Anmeldemöglichkeiten können Sie für MyGuichet.lu nutzen?",
     "options": [
-     "Nur einen selbst gewählten Benutzernamen und ein Passwort",
-     "Ein einfaches Google- oder Facebook-Konto",
+     "Nur ein Benutzername und ein Passwort, die Sie selbst wählen, wenn Sie Ihr Konto auf der Website anlegen",
+     "Ein Google-, Apple- oder Facebook-Konto, das MyGuichet.lu als sicheren Login für alle Verfahren akzeptiert",
      "Ein LuxTrust-Produkt, den luxemburgischen eID-Ausweis, oder eine eIDAS-Anmeldung aus Ihrem eigenen europäischen Land",
-     "Nur ein LuxTrust-Produkt"
+     "Nur ein LuxTrust-Produkt – der eID-Ausweis und Logins aus anderen europäischen Ländern werden grundsätzlich nicht akzeptiert"
     ],
     "correct": 2,
     "explanation": "Sie brauchen eine sichere Anmeldung, aber Sie haben die Wahl: ein LuxTrust-Produkt (wie LuxTrust Mobile), den luxemburgischen elektronischen Personalausweis, oder eine eIDAS-Anmeldung aus einem anderen europäischen Land."
@@ -2495,10 +2495,10 @@ const EPISODES = [
    {
     "text": "Was können Sie in Ihrem persönlichen eSpace auf MyGuichet.lu tun?",
     "options": [
-     "Nichts – Sie müssen für alles weiterhin ein Amt aufsuchen",
+     "Noch nichts – der eSpace zeigt nur allgemeine Informationen, und für jeden Antrag müssen Sie weiterhin ins Büro gehen",
      "Den Status Ihrer Anträge verfolgen, Ihre offiziellen Daten einsehen, Dokumente empfangen und Termine buchen",
-     "Aktien und Kryptowährungen handeln",
-     "Nur Ihre jährliche Steuererklärung einreichen"
+     "Aktien handeln, Sparkonten eröffnen und private Rechnungen bezahlen, da der eSpace mit Ihrer Bank verbunden ist",
+     "Nur Ihre jährliche Steuererklärung abgeben – andere Verfahren, Dokumente und Termine laufen weiterhin per Post"
     ],
     "correct": 1,
     "explanation": "In Ihrem eSpace können Sie Ihre Dossiers verfolgen, die offiziellen Daten sehen, die der Staat über Sie hat, offizielle Dokumente elektronisch empfangen, Dokumente speichern und bei einigen Verwaltungen Termine buchen."
@@ -2521,9 +2521,9 @@ const EPISODES = [
     "text": "Wat ass MyGuichet.lu?",
     "options": [
      "Déi offiziell, sécher Online-Plattform vun der Lëtzebuerger Regierung – Är eenzeg Kontaktplaz mat der ëffentlecher Administratioun",
-     "E bezuelten Abonnement fir juristesch Berodung",
-     "Eng privat Online-Banking-App",
-     "E sozialt Netzwierk fir d'Awunner vu Lëtzebuerg"
+     "E bezuelte Service vun enger privater Firma, deen Iech juristesch beréit, wann Dir mat der lëtzebuergescher Administratioun ze dinn hutt",
+     "Eng privat Banken-App, mat där d'Awunner hir Steieren an administrativ Fraisen iwwer hire Smartphone bezuele kënnen",
+     "E soziaalt Netzwierk, wou d'Awunner vu Lëtzebuerg Tipps, Froen an Erfarunge mat administrativen Demarchen austauschen, moderéiert vu Fräiwëllegen"
     ],
     "correct": 0,
     "explanation": "MyGuichet.lu ass déi offiziell, sécher Online-Plattform vum Lëtzebuerger Staat. Si funktionéiert wéi en Online-Guichet, wou Dir administrativ Prozedure vun doheem aus maache kënnt, amplaz an e Büro ze goen."
@@ -2531,9 +2531,9 @@ const EPISODES = [
    {
     "text": "Firwat gëtt MyGuichet.lu an der Episod als en \"Online-Guichet\" beschriwwen?",
     "options": [
-     "Well Dir do Är Dokumenter ziele kënnt",
-     "Well et nëmmen um Guichet vun engem Büro funktionéiert",
-     "Well et eng Banking-App ass",
+     "Well een do seng Pabeierdokumenter zielt a sortéiert, ier een se mat der Post un d'Administratioun schéckt",
+     "Well et nëmme funktionéiert, wann Dir um Guichet vun engem Büro steet an en Agent Iech aloggt",
+     "Well et vun de Banke geréiert gëtt, wéi e Bankguichet online, an nëmmen an der Woch während de Büroszäiten op ass",
      "Well et wéi de Guichet vun engem Administratiounsbüro ass — mä online, all Dag op, zu all Stonn, vun doheem aus"
     ],
     "correct": 3,
@@ -2543,9 +2543,9 @@ const EPISODES = [
     "text": "Wat braucht Dir, fir Iech op MyGuichet.lu anzeschreiwen?",
     "options": [
      "Op d'mannst 16 Joer al sinn an Är national Identifikatiounsnummer mat 13 Zifferen (de \"Matricule\") hunn",
-     "Lëtzebuerger Nationalitéit hunn an eng Aschreiwungstax bezuelen",
-     "E Lëtzebuerger Pass an en Openthaltstitel",
-     "Nëmmen eng E-Mail-Adress"
+     "Lëtzebuerger Bierger sinn, op d'mannst 18 Joer al sinn an eng eemoleg Aschreiwungsgebühr op der Gemeng bezuelen",
+     "E lëtzebuergesche Pass an eng gëlteg Openthaltserlaabnes, déi Dir perséinlech am Büro vu Guichet.lu weise musst",
+     "Just eng E-Mail-Adress an eng Handysnummer – keng Identifikatiounsnummer a kee séchere Login ass néideg"
     ],
     "correct": 0,
     "explanation": "Fir Iech anzeschreiwen, musst Dir op d'mannst 16 Joer al sinn, Äre Matricule mat 13 Zifferen hunn (op Ärer Sozialversécherungskaart), eng E-Mail-Adress, en Apparat, an e séchere Wee, fir Är Identitéit online ze beweisen."
@@ -2553,10 +2553,10 @@ const EPISODES = [
    {
     "text": "Wéi eng sécher Logine kënnt Dir fir MyGuichet.lu benotzen?",
     "options": [
-     "Just e Benotzernumm an e Passwuert, déi Dir selwer wielt",
-     "En einfache Google- oder Facebook-Kont",
+     "Just e Benotzernumm an e Passwuert, déi Dir selwer auswielt, wann Dir Äre Kont op der Websäit opmaacht",
+     "E Google-, Apple- oder Facebook-Kont, deen MyGuichet.lu als séchere Login fir all Demarchen akzeptéiert",
      "E LuxTrust-Produkt, déi Lëtzebuerger eID-Kaart, oder en eIDAS-Login aus Ärem eegenen europäesche Land",
-     "Nëmmen e LuxTrust-Produkt"
+     "Just e LuxTrust-Produkt – d'eID-Kaart an d'Logins aus anere europäesche Länner ginn net akzeptéiert"
     ],
     "correct": 2,
     "explanation": "Dir braucht ee séchere Login, mä Dir hutt eng Wiel: e LuxTrust-Produkt (wéi LuxTrust Mobile), déi Lëtzebuerger elektronesch Identitéitskaart, oder en eIDAS-Login aus engem aneren europäesche Land."
@@ -2564,10 +2564,10 @@ const EPISODES = [
    {
     "text": "Wat kënnt Dir an Ärem perséinlechen eSpace op MyGuichet.lu maachen?",
     "options": [
-     "Näischt – Dir musst fir alles nach ëmmer an e Büro goen",
+     "Nach näischt – den eSpace weist just allgemeng Informatiounen, an Dir musst fir all Ufro ëmmer nach op e Büro goen",
      "De Status vun Ären Ufroe verfollegen, Är offiziell Donnéeë gesinn, Dokumenter kréien a Rendez-vouse buchen",
-     "Aktien a Kryptowärungen handelen",
-     "Nëmmen Är alljäerlech Steiererklärung maachen"
+     "Aktien handelen, Spuerkonten opmaachen a privat Rechnunge bezuelen, well den eSpace mat Ärer Bank verbonnen ass",
+     "Just Är jäerlech Steiererklärung maachen – aner Demarchen, Dokumenter a Rendez-vousen lafen ëmmer nach iwwer d'Post"
     ],
     "correct": 1,
     "explanation": "An Ärem eSpace kënnt Dir Är Dossiere verfollegen, déi offiziell Donnéeë gesinn, déi de Staat iwwer Iech huet, offiziell Dokumenter elektronesch kréien, Dokumenter späicheren, a Rendez-vouse mat verschiddenen Administratioune buchen."

@@ -904,9 +904,9 @@ const EPISODES = [
     "text": "What is LU-Alert?",
     "options": [
      "Luxembourg’s national public warning and information system, launched in autumn 2024",
-     "A private weather app you subscribe to",
-     "A social media account run by the police",
-     "An insurance scheme for natural disasters"
+     "A private weather app that you subscribe to, which sends storm and flood warnings for a fee",
+     "A social media account run by the Grand Ducal Police to share news about traffic and events",
+     "An insurance scheme that pays compensation to households after storms, floods or other disasters"
     ],
     "correct": 0,
     "explanation": "“LU-Alert” combines “LU” (the country code for Luxembourg) and “Alert”. It is the national warning and information system for the population, deployed in autumn 2024 to warn people about dangerous events."
@@ -914,10 +914,10 @@ const EPISODES = [
    {
     "text": "Do you need to sign up to receive alerts by Cell Broadcast or location-based SMS?",
     "options": [
-     "Yes, you must register your number on lu-alert.lu",
+     "Yes – you must first register your mobile number on lu-alert.lu to receive any alerts at all",
      "No – there is no registration; any phone in the targeted area is reached automatically",
-     "Yes, but only cross-border workers need to register",
-     "No, but only if you pay a small annual fee"
+     "Yes, but only cross-border workers, whose phones use foreign networks",
+     "No registration is needed, but you pay a small annual fee through your mobile phone operator"
     ],
     "correct": 1,
     "explanation": "For Cell Broadcast and location-based SMS you do not sign up – and cannot really opt out. If your phone is in the area when the authorities send a message, it is targeted automatically. (For the mobile app, you simply download it.)"
@@ -926,8 +926,8 @@ const EPISODES = [
     "text": "In which languages are LU-Alert messages sent?",
     "options": [
      "German, English and French",
-     "Only Luxembourgish",
-     "Only French",
+     "Luxembourgish, French and German",
+     "French and Portuguese",
      "English and Luxembourgish"
     ],
     "correct": 0,
@@ -936,8 +936,8 @@ const EPISODES = [
    {
     "text": "When are sirens used in the LU-Alert system?",
     "options": [
-     "For every weather warning",
-     "Every day at noon as a test",
+     "For every weather warning, day or night",
+     "Every day at noon, as a short test",
      "Only in the event of a nuclear alert",
      "Whenever the mobile network is down"
     ],
@@ -947,9 +947,9 @@ const EPISODES = [
    {
     "text": "How can you check that an alert message is genuine and not phishing?",
     "options": [
-     "Reply to the SMS with your details to confirm your identity",
-     "Click the link in the message to verify it",
-     "Call the number shown and give your bank details",
+     "Reply to the SMS with your name, address and date of birth, so that the authorities can confirm who you are and where you live",
+     "Click on the link in the message and log in with your LuxTrust details to verify that it is real",
+     "Call the phone number shown in the message and give your bank details so the sender can be checked",
      "Remember that the authorities never ask for personal data, and check whether the alert is listed on lu-alert.lu"
     ],
     "correct": 3,
@@ -3036,9 +3036,9 @@ const EPISODES = [
     "text": "Qu'est-ce que LU-Alert ?",
     "options": [
      "Le système national d'alerte et d'information de la population du Luxembourg, lancé à l'automne 2024",
-     "Une application météo privée à laquelle on s'abonne",
-     "Un compte de réseau social géré par la police",
-     "Un régime d'assurance contre les catastrophes naturelles"
+     "Une application météo privée à laquelle on s'abonne, qui envoie des alertes tempête et inondation contre paiement",
+     "Un compte sur les réseaux sociaux de la Police grand-ducale pour partager des infos sur la circulation et les événements",
+     "Un système d'assurance qui indemnise les ménages après des tempêtes, des inondations ou d'autres catastrophes"
     ],
     "correct": 0,
     "explanation": "« LU-Alert » combine « LU » (le code pays du Luxembourg) et « Alert ». C'est le système national d'alerte et d'information de la population, déployé à l'automne 2024 pour avertir les gens des événements dangereux."
@@ -3046,10 +3046,10 @@ const EPISODES = [
    {
     "text": "Faut-il s'inscrire pour recevoir les alertes par Cell Broadcast ou par SMS géolocalisé ?",
     "options": [
-     "Oui, vous devez enregistrer votre numéro sur lu-alert.lu",
+     "Oui – vous devez d'abord enregistrer votre numéro de portable sur lu-alert.lu pour recevoir la moindre alerte",
      "Non – il n'y a pas d'inscription ; tout téléphone présent dans la zone ciblée est atteint automatiquement",
-     "Oui, mais seuls les frontaliers doivent s'inscrire",
-     "Non, mais seulement si vous payez une petite cotisation annuelle"
+     "Oui, mais seulement les frontaliers, dont les téléphones utilisent des réseaux étrangers",
+     "Aucune inscription n'est nécessaire, mais vous payez une petite redevance annuelle via votre opérateur mobile"
     ],
     "correct": 1,
     "explanation": "Pour le Cell Broadcast et le SMS géolocalisé, vous ne vous inscrivez pas – et vous ne pouvez pas vraiment vous y soustraire. Si votre téléphone est dans la zone quand les autorités envoient un message, il est ciblé automatiquement. (Pour l'application mobile, il suffit de la télécharger.)"
@@ -3058,9 +3058,9 @@ const EPISODES = [
     "text": "Dans quelles langues les messages LU-Alert sont-ils envoyés ?",
     "options": [
      "En allemand, en anglais et en français",
-     "Uniquement en luxembourgeois",
-     "Uniquement en français",
-     "En anglais et en luxembourgeois"
+     "Luxembourgeois, français, allemand et portugais",
+     "Français et portugais",
+     "Anglais et luxembourgeois"
     ],
     "correct": 0,
     "explanation": "Les messages d'alerte et d'information sont émis en allemand, en anglais et en français, donc les francophones sont couverts."
@@ -3068,8 +3068,8 @@ const EPISODES = [
    {
     "text": "Quand les sirènes sont-elles utilisées dans le système LU-Alert ?",
     "options": [
-     "Pour chaque alerte météo",
-     "Tous les jours à midi, en test",
+     "Pour chaque alerte météo, de jour comme de nuit",
+     "Tous les jours à midi, pour un court test",
      "Uniquement en cas d'alerte nucléaire",
      "Chaque fois que le réseau mobile est en panne"
     ],
@@ -3079,9 +3079,9 @@ const EPISODES = [
    {
     "text": "Comment pouvez-vous vérifier qu'un message d'alerte est authentique et non du phishing ?",
     "options": [
-     "Répondre au SMS avec vos coordonnées pour confirmer votre identité",
-     "Cliquer sur le lien dans le message pour le vérifier",
-     "Appeler le numéro affiché et donner vos coordonnées bancaires",
+     "Répondre au SMS avec votre nom, votre adresse et votre date de naissance, pour que les autorités confirment qui vous êtes et où vous habitez",
+     "Cliquer sur le lien du message et vous connecter avec vos identifiants LuxTrust pour vérifier qu'il est authentique",
+     "Appeler le numéro indiqué dans le message et donner vos coordonnées bancaires pour que l'expéditeur soit vérifié",
      "Retenir que les autorités ne demandent jamais de données personnelles, et vérifier si l'alerte figure sur lu-alert.lu"
     ],
     "correct": 3,
@@ -3107,9 +3107,9 @@ const EPISODES = [
     "text": "Was ist LU-Alert?",
     "options": [
      "Luxemburgs nationales Warn- und Informationssystem für die Bevölkerung, gestartet im Herbst 2024",
-     "Eine private Wetter-App, die man abonniert",
-     "Ein Social-Media-Konto der Polizei",
-     "Eine Versicherung für Naturkatastrophen"
+     "Eine private Wetter-App im Abonnement, die gegen Gebühr Sturm- und Hochwasserwarnungen verschickt",
+     "Ein Social-Media-Konto der Großherzoglichen Polizei, das Neuigkeiten zu Verkehr und Veranstaltungen teilt",
+     "Eine Versicherung, die Haushalte nach Stürmen, Überschwemmungen oder anderen Katastrophen entschädigt"
     ],
     "correct": 0,
     "explanation": "„LU-Alert“ verbindet „LU“ (den Ländercode für Luxemburg) und „Alert“. Es ist das nationale Warn- und Informationssystem für die Bevölkerung, eingeführt im Herbst 2024, um Menschen vor gefährlichen Ereignissen zu warnen."
@@ -3117,10 +3117,10 @@ const EPISODES = [
    {
     "text": "Müssen Sie sich anmelden, um Warnungen per Cell Broadcast oder standortbasierter SMS zu erhalten?",
     "options": [
-     "Ja, Sie müssen Ihre Nummer auf lu-alert.lu registrieren",
+     "Ja – Sie müssen zuerst Ihre Handynummer auf lu-alert.lu registrieren, um überhaupt Warnungen zu erhalten",
      "Nein – es gibt keine Registrierung; jedes Telefon im Zielgebiet wird automatisch erreicht",
-     "Ja, aber nur Grenzgänger müssen sich registrieren",
-     "Nein, aber nur, wenn Sie eine kleine Jahresgebühr zahlen"
+     "Ja, aber nur Grenzgänger, deren Telefone ausländische Netze nutzen",
+     "Eine Anmeldung ist nicht nötig, aber Sie zahlen eine kleine Jahresgebühr über Ihren Mobilfunkanbieter"
     ],
     "correct": 1,
     "explanation": "Für Cell Broadcast und standortbasierte SMS melden Sie sich nicht an – und können sich auch nicht wirklich abmelden. Wenn Ihr Telefon im Gebiet ist, wenn die Behörden eine Nachricht senden, wird es automatisch erreicht. (Die mobile App laden Sie einfach herunter.)"
@@ -3129,8 +3129,8 @@ const EPISODES = [
     "text": "In welchen Sprachen werden die LU-Alert-Nachrichten gesendet?",
     "options": [
      "Deutsch, Englisch und Französisch",
-     "Nur Luxemburgisch",
-     "Nur Französisch",
+     "Luxemburgisch, Französisch und Deutsch",
+     "Französisch und Portugiesisch",
      "Englisch und Luxemburgisch"
     ],
     "correct": 0,
@@ -3139,10 +3139,10 @@ const EPISODES = [
    {
     "text": "Wann werden im LU-Alert-System Sirenen eingesetzt?",
     "options": [
-     "Bei jeder Wetterwarnung",
-     "Jeden Tag um zwölf Uhr als Test",
+     "Bei jeder Wetterwarnung, Tag und Nacht",
+     "Jeden Tag um zwölf Uhr, als kurzer Test",
      "Nur im Fall eines Nuklearalarms",
-     "Immer, wenn das Mobilfunknetz ausfällt"
+     "Immer wenn das Mobilfunknetz ausfällt"
     ],
     "correct": 2,
     "explanation": "Heute werden die Sirenen nur bei einem Nuklearalarm eingesetzt. Alle anderen Warnungen erreichen Sie über das Telefon (Cell Broadcast und SMS), die App, Websites und die Medien."
@@ -3150,9 +3150,9 @@ const EPISODES = [
    {
     "text": "Wie können Sie prüfen, ob eine Warnnachricht echt ist und kein Phishing?",
     "options": [
-     "Auf die SMS mit Ihren Daten antworten, um Ihre Identität zu bestätigen",
-     "Auf den Link in der Nachricht klicken, um sie zu überprüfen",
-     "Die angezeigte Nummer anrufen und Ihre Bankdaten angeben",
+     "Auf die SMS mit Name, Adresse und Geburtsdatum antworten, damit die Behörden bestätigen können, wer Sie sind und wo Sie wohnen",
+     "Auf den Link in der Nachricht klicken und sich mit Ihren LuxTrust-Daten anmelden, um zu prüfen, ob sie echt ist",
+     "Die in der Nachricht angegebene Nummer anrufen und Ihre Bankdaten nennen, damit der Absender überprüft werden kann",
      "Daran denken, dass die Behörden nie nach persönlichen Daten fragen, und prüfen, ob die Warnung auf lu-alert.lu aufgeführt ist"
     ],
     "correct": 3,
@@ -3180,9 +3180,9 @@ const EPISODES = [
     "text": "Wat ass LU-Alert?",
     "options": [
      "Den nationale Warn- an Informatiounssystem vu Lëtzebuerg fir d'Bevëlkerung, lancéiert am Hierscht 2024",
-     "Eng privat Wieder-App, déi Dir abonnéiert",
-     "E Social-Media-Kont vun der Police",
-     "Eng Versécherung fir Naturkatastrophen"
+     "Eng privat Wieder-App am Abonnement, déi géint Bezuelung Stuerm- an Héichwaasserwarnunge verschéckt",
+     "E Konto op de soziale Medie vun der Grand-ducal Police, fir Neiegkeeten iwwer de Verkéier an Evenementer ze deelen",
+     "Eng Versécherung, déi Stéit no Stierm, Iwwerschwemmungen oder anere Katastrophen entschiedegt"
     ],
     "correct": 0,
     "explanation": "\"LU-Alert\" kombinéiert \"LU\" (de Landescode vu Lëtzebuerg) an \"Alert\". Et ass den nationale Warn- an Informatiounssystem fir d'Bevëlkerung, agefouert am Hierscht 2024, fir d'Leit viru geféierlechen Evenementer ze warnen."
@@ -3190,10 +3190,10 @@ const EPISODES = [
    {
     "text": "Musst Dir Iech aschreiwen, fir Alarmer iwwer Cell Broadcast oder lokalisatiounsbaséiert SMS ze kréien?",
     "options": [
-     "Jo, Dir musst Är Nummer op lu-alert.lu registréieren",
+     "Jo – Dir musst fir d'éischt Är Handysnummer op lu-alert.lu registréieren, fir iwwerhaapt Warnungen ze kréien",
      "Nee – et gëtt keng Aschreiwung; all Handy an der betraffener Zon gëtt automatesch erreecht",
-     "Jo, mä nëmmen d'Grenzgänger musse sech registréieren",
-     "Nee, mä nëmme wann Dir eng kleng jäerlech Tax bezuelt"
+     "Jo, mä just d'Frontalieren, well hir Telefone auslännesch Netzer benotzen",
+     "Et brauch een sech net unzemellen, mä Dir bezuelt eng kleng Joresgebühr iwwer Ären Handysoperateur"
     ],
     "correct": 1,
     "explanation": "Fir Cell Broadcast a lokalisatiounsbaséiert SMS schreift Dir Iech net an – an Dir kënnt Iech och net wierklech ofmellen. Wann Ären Handy an der Zon ass, wann d'Autoritéiten e Message schécken, gëtt en automatesch erreecht. (D'App luet Dir einfach erof.)"
@@ -3202,9 +3202,9 @@ const EPISODES = [
     "text": "A wéi enge Sprooche ginn d'LU-Alert-Messagen verschéckt?",
     "options": [
      "Op Däitsch, Englesch a Franséisch",
-     "Nëmmen op Lëtzebuergesch",
-     "Nëmmen op Franséisch",
-     "Op Englesch a Lëtzebuergesch"
+     "Lëtzebuergesch, Franséisch an Däitsch",
+     "Franséisch a Portugisesch",
+     "Englesch a Lëtzebuergesch"
     ],
     "correct": 0,
     "explanation": "D'Warn- an Informatiounsmessagen ginn op Däitsch, Englesch a Franséisch erausginn, sou datt och engleschsproocheg Leit ofgedeckt sinn."
@@ -3212,10 +3212,10 @@ const EPISODES = [
    {
     "text": "Wéini ginn d'Sirenen am LU-Alert-System benotzt?",
     "options": [
-     "Bei all Wiederwarnung",
-     "All Dag um Mëtteg als Test",
+     "Bei all Wiederwarnung, Dag an Nuecht",
+     "All Dag um zwielef Auer, als kuerzen Test",
      "Nëmme bei engem Nuklearalarm",
-     "Ëmmer wann den Handysnetz ausfält"
+     "All Kéier, wann d'Handysnetz ausfält"
     ],
     "correct": 2,
     "explanation": "Haut ginn d'Sirenen nëmme bei engem Nuklearalarm benotzt. All aner Warnungen erreechen Iech iwwer den Handy (Cell Broadcast an SMS), d'App, d'Websäiten an d'Medien."
@@ -3223,9 +3223,9 @@ const EPISODES = [
    {
     "text": "Wéi kënnt Dir kontrolléieren, ob en Alarmmessage echt ass an net Phishing?",
     "options": [
-     "Op d'SMS mat Ären Donnéeën äntweren, fir Är Identitéit ze confirméieren",
-     "Op de Link am Message klicken, fir en ze verifiéieren",
-     "Déi ugewisen Nummer uruffen an Är Bankdate ginn",
+     "Op d'SMS mat Ärem Numm, Ärer Adress an Ärem Gebuertsdatum äntweren, fir datt d'Autoritéite bestätege kënnen, wien Dir sidd a wou Dir wunnt",
+     "Op de Link am Message klicken an Iech mat Ären LuxTrust-Donnéeën aloggen, fir ze kucken, ob e richteg ass",
+     "D'Nummer aus dem Message uruffen an Är Bankdonnéeë ginn, fir datt den Ofsender iwwerpréift ka ginn",
      "Drun denken, datt d'Autoritéiten ni no perséinlechen Donnéeë froen, a kucken, ob den Alarm op lu-alert.lu steet"
     ],
     "correct": 3,

@@ -733,9 +733,9 @@ const EPISODES = [
    {
     "text": "What is the DSP (Dossier de Soins Partagé)?",
     "options": [
-     "A private insurance contract",
-     "A paper booklet you carry to every appointment",
-     "A tax file held by the administration",
+     "A private insurance contract that pays extra costs not covered by the national health insurance (CNS)",
+     "A paper booklet in which each doctor writes down your treatments, and that you must bring to every single appointment",
+     "A tax file held by the administration that lists all your medical expenses so you can deduct them",
      "A free, personal and secure electronic health file that brings your health information together in one place"
     ],
     "correct": 3,
@@ -744,10 +744,10 @@ const EPISODES = [
    {
     "text": "Who decides who can look at your DSP?",
     "options": [
-     "Only your general practitioner",
-     "Your employer",
+     "Only your general practitioner, who decides which other doctors may open the file",
+     "Your employer, who needs to know about your health to plan your work",
      "You, the patient – you give and remove access and can see who consulted your file",
-     "The Ministry of Health"
+     "The Ministry of Health, which grants access to doctors and hospitals case by case"
     ],
     "correct": 2,
     "explanation": "You are in control: you decide who can access your DSP, you can withdraw access, see who consulted it, and even hide certain documents. It’s your file and you hold the keys."
@@ -755,10 +755,10 @@ const EPISODES = [
    {
     "text": "For a normal visit to the doctor, how does payment usually work with the CNS?",
     "options": [
-     "The CNS pays you in cash at the reception desk",
+     "The CNS pays you in cash at the reception desk, and the doctor then sends the bill to your employer",
      "You pay the full price first, then the CNS reimburses most of it (around 80–100%) into your bank account",
-     "The visit is always completely free",
-     "You never pay anything at any point"
+     "The visit is always completely free, because the CNS pays the doctor directly for every consultation",
+     "You pay nothing at the doctor's, and the CNS later deducts the whole cost of the visit from your monthly salary"
     ],
     "correct": 1,
     "explanation": "Luxembourg traditionally works by reimbursement: you pay the doctor first, send the paid invoice to the CNS, and they pay most of it back into your bank account, usually within about three weeks."
@@ -766,9 +766,9 @@ const EPISODES = [
    {
     "text": "What is “tiers payant” (third-party payment), for example at the pharmacy?",
     "options": [
-     "The State pays nothing and you pay everything",
-     "You always pay the full price and claim it later",
-     "You pay double and get refunded",
+     "The State pays nothing at all, and you pay the whole price of your medicine yourself",
+     "You always pay the full price at the pharmacy and then claim the money back from the CNS later",
+     "You pay double at the pharmacy, and the CNS refunds half of it at the end of the year",
      "You pay only your small share, and the pharmacy settles the rest directly with the CNS"
     ],
     "correct": 3,
@@ -778,9 +778,9 @@ const EPISODES = [
     "text": "How can you activate your eSanté account, to use your DSP online?",
     "options": [
      "Directly through MyGuichet.lu — and then check your file online or with the MyDSP mobile app",
-     "You cannot activate it yourself",
-     "Only in person at a hospital",
-     "Only by waiting for a code sent by post"
+     "You cannot activate it yourself – only your doctor can open your account and show you the file",
+     "Only in person at a hospital reception desk, with your passport and your social security card",
+     "Only by waiting for an activation code, which the CNS sends by post once a year"
     ],
     "correct": 0,
     "explanation": "You can activate your eSanté account directly through MyGuichet.lu. Once it is active, you log in through the eSanté portal — or use the MyDSP mobile app on your phone."
@@ -2507,9 +2507,9 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que le DSP (Dossier de Soins Partagé) ?",
     "options": [
-     "Un contrat d'assurance privé",
-     "Un carnet papier que vous apportez à chaque rendez-vous",
-     "Un dossier fiscal détenu par l'administration",
+     "Un contrat d'assurance privée qui paie les frais supplémentaires non couverts par la Caisse nationale de santé (CNS)",
+     "Un carnet papier dans lequel chaque médecin note vos traitements, et que vous devez apporter à chaque rendez-vous",
+     "Un dossier fiscal tenu par l'administration des contributions, qui liste toutes vos dépenses médicales pour que vous puissiez les déduire",
      "Un dossier de santé électronique gratuit, personnel et sécurisé qui rassemble vos informations de santé en un seul endroit"
     ],
     "correct": 3,
@@ -2518,10 +2518,10 @@ const EPISODES = [
    {
     "text": "Qui décide qui peut consulter votre DSP ?",
     "options": [
-     "Uniquement votre médecin généraliste",
-     "Votre employeur",
+     "Seulement votre médecin généraliste, qui décide quels autres médecins peuvent ouvrir le dossier",
+     "Votre employeur, qui doit connaître votre santé pour organiser votre travail",
      "Vous, le patient – vous donnez et retirez l'accès et pouvez voir qui a consulté votre dossier",
-     "Le ministère de la Santé"
+     "Le ministère de la Santé, qui donne l'accès aux médecins et aux hôpitaux au cas par cas"
     ],
     "correct": 2,
     "explanation": "C'est vous qui contrôlez : vous décidez qui peut accéder à votre DSP, vous pouvez retirer l'accès, voir qui l'a consulté, et même masquer certains documents. C'est votre dossier et c'est vous qui avez les clés."
@@ -2529,10 +2529,10 @@ const EPISODES = [
    {
     "text": "Pour une visite normale chez le médecin, comment fonctionne généralement le paiement avec la CNS ?",
     "options": [
-     "La CNS vous paie en espèces à l'accueil",
+     "La CNS vous paie en espèces à l'accueil, puis le médecin envoie la facture à votre employeur",
      "Vous payez d'abord le prix complet, puis la CNS vous rembourse la plus grande partie (environ 80 à 100 %) sur votre compte bancaire",
-     "La visite est toujours entièrement gratuite",
-     "Vous ne payez jamais rien à aucun moment"
+     "La visite est toujours entièrement gratuite, car la CNS paie directement le médecin pour chaque consultation",
+     "Vous ne payez rien chez le médecin, et la CNS retient ensuite la totalité du coût de la visite directement sur votre salaire du mois suivant"
     ],
     "correct": 1,
     "explanation": "Le Luxembourg fonctionne traditionnellement par remboursement : vous payez d'abord le médecin, vous envoyez la facture acquittée à la CNS, et elle vous rembourse la plus grande partie sur votre compte bancaire, en général en moins de trois semaines."
@@ -2540,9 +2540,9 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que le « tiers payant », par exemple à la pharmacie ?",
     "options": [
-     "L'État ne paie rien et vous payez tout",
-     "Vous payez toujours le prix complet et le réclamez plus tard",
-     "Vous payez le double et êtes remboursé",
+     "L'État ne paie rien du tout, et vous payez vous-même le prix total de vos médicaments",
+     "Vous payez toujours le prix complet à la pharmacie, puis vous vous faites rembourser plus tard par la CNS",
+     "Vous payez le double à la pharmacie, et la CNS vous en rembourse la moitié en fin d'année",
      "Vous ne payez que votre petite part, et la pharmacie règle le reste directement avec la CNS"
     ],
     "correct": 3,
@@ -2552,9 +2552,9 @@ const EPISODES = [
     "text": "Comment pouvez-vous activer votre compte eSanté, pour utiliser votre DSP en ligne ?",
     "options": [
      "Directement via MyGuichet.lu — puis consulter votre dossier en ligne ou avec l'application mobile MyDSP",
-     "Vous ne pouvez pas l'activer vous-même",
-     "Uniquement en personne dans un hôpital",
-     "Uniquement en attendant un code envoyé par courrier"
+     "Vous ne pouvez pas l'activer vous-même – seul votre médecin peut ouvrir votre compte et vous montrer le dossier",
+     "Uniquement en personne à l'accueil d'un hôpital, avec votre passeport et votre carte de sécurité sociale",
+     "Uniquement en attendant un code d'activation que la CNS envoie par la poste une fois par an"
     ],
     "correct": 0,
     "explanation": "Vous pouvez activer votre compte eSanté directement via MyGuichet.lu. Une fois qu'il est actif, vous vous connectez via le portail eSanté — ou vous utilisez l'application mobile MyDSP sur votre téléphone."
@@ -2576,9 +2576,9 @@ const EPISODES = [
    {
     "text": "Was ist das DSP (Dossier de Soins Partagé)?",
     "options": [
-     "Ein privater Versicherungsvertrag",
-     "Ein Papierheft, das Sie zu jedem Termin mitnehmen",
-     "Eine Steuerakte bei der Verwaltung",
+     "Ein privater Versicherungsvertrag, der Zusatzkosten zahlt, die die nationale Gesundheitskasse (CNS) nicht übernimmt",
+     "Ein Heft aus Papier, in das jeder Arzt Ihre Behandlungen von Hand einträgt und das Sie zu jedem einzelnen Termin mitbringen müssen",
+     "Eine Steuerakte der Verwaltung, in der alle Ihre Gesundheitsausgaben aufgelistet sind, damit Sie sie absetzen können",
      "Eine kostenlose, persönliche und sichere elektronische Gesundheitsakte, die Ihre Gesundheitsinformationen an einem Ort zusammenführt"
     ],
     "correct": 3,
@@ -2587,10 +2587,10 @@ const EPISODES = [
    {
     "text": "Wer entscheidet, wer in Ihr DSP schauen darf?",
     "options": [
-     "Nur Ihr Hausarzt",
-     "Ihr Arbeitgeber",
+     "Nur Ihr Hausarzt, der entscheidet, welche anderen Ärzte die Akte öffnen dürfen",
+     "Ihr Arbeitgeber, der über Ihre Gesundheit Bescheid wissen muss, um Ihre Arbeit zu planen",
      "Sie, der Patient – Sie geben und entziehen den Zugang und können sehen, wer Ihre Akte eingesehen hat",
-     "Das Gesundheitsministerium"
+     "Das Gesundheitsministerium, das Ärzten und Krankenhäusern von Fall zu Fall den Zugang gewährt"
     ],
     "correct": 2,
     "explanation": "Sie haben die Kontrolle: Sie entscheiden, wer auf Ihr DSP zugreifen darf, Sie können den Zugang entziehen, sehen, wer die Akte eingesehen hat, und sogar bestimmte Dokumente verbergen. Es ist Ihre Akte, und Sie halten die Schlüssel."
@@ -2598,10 +2598,10 @@ const EPISODES = [
    {
     "text": "Wie funktioniert die Bezahlung bei einem normalen Arztbesuch üblicherweise mit der CNS?",
     "options": [
-     "Die CNS zahlt Ihnen an der Rezeption bar",
+     "Die CNS zahlt Ihnen am Empfang Bargeld aus, und der Arzt schickt die Rechnung dann an Ihren Arbeitgeber",
      "Sie zahlen zuerst den vollen Preis, dann erstattet die CNS das meiste davon (etwa 80–100 %) auf Ihr Bankkonto",
-     "Der Besuch ist immer völlig kostenlos",
-     "Sie zahlen zu keinem Zeitpunkt etwas"
+     "Der Besuch ist immer völlig kostenlos, weil die CNS den Arzt für jede Konsultation direkt bezahlt",
+     "Sie zahlen beim Arzt nichts, und die CNS zieht die gesamten Kosten des Besuchs später von Ihrem Monatsgehalt ab"
     ],
     "correct": 1,
     "explanation": "Luxemburg funktioniert traditionell über die Rückerstattung: Sie zahlen den Arzt zuerst, schicken die bezahlte Rechnung an die CNS, und diese zahlt das meiste davon auf Ihr Bankkonto zurück, normalerweise innerhalb von etwa drei Wochen."
@@ -2609,9 +2609,9 @@ const EPISODES = [
    {
     "text": "Was ist das „tiers payant“ (Drittzahlersystem), zum Beispiel in der Apotheke?",
     "options": [
-     "Der Staat zahlt nichts und Sie zahlen alles",
-     "Sie zahlen immer den vollen Preis und fordern ihn später zurück",
-     "Sie zahlen das Doppelte und werden erstattet",
+     "Der Staat zahlt gar nichts, und Sie zahlen den vollen Preis Ihrer Medikamente selbst",
+     "Sie zahlen in der Apotheke immer den vollen Preis und holen sich das Geld später bei der CNS zurück",
+     "Sie zahlen in der Apotheke das Doppelte, und die CNS erstattet Ihnen am Jahresende die Hälfte",
      "Sie zahlen nur Ihren kleinen Anteil, und die Apotheke rechnet den Rest direkt mit der CNS ab"
     ],
     "correct": 3,
@@ -2621,9 +2621,9 @@ const EPISODES = [
     "text": "Wie können Sie Ihr eSanté-Konto aktivieren, um Ihr DSP online zu nutzen?",
     "options": [
      "Direkt über MyGuichet.lu — und dann Ihre Akte online oder mit der mobilen App MyDSP einsehen",
-     "Sie können es nicht selbst aktivieren",
-     "Nur persönlich in einem Krankenhaus",
-     "Nur, indem Sie auf einen per Post gesendeten Code warten"
+     "Sie können es nicht selbst aktivieren – nur Ihr Arzt kann Ihr Konto eröffnen und Ihnen die Akte zeigen",
+     "Nur persönlich am Empfang eines Krankenhauses, mit Ihrem Reisepass und Ihrer Sozialversicherungskarte",
+     "Nur indem Sie auf einen Aktivierungscode warten, den die CNS einmal im Jahr per Post schickt"
     ],
     "correct": 0,
     "explanation": "Sie können Ihr eSanté-Konto direkt über MyGuichet.lu aktivieren. Sobald es aktiv ist, melden Sie sich über das eSanté-Portal an — oder nutzen die mobile App MyDSP auf Ihrem Telefon."
@@ -2645,9 +2645,9 @@ const EPISODES = [
    {
     "text": "Wat ass den DSP (Dossier de Soins Partagé)?",
     "options": [
-     "E private Versécherungskontrakt",
-     "En Heftchen op Pabeier, dat Dir op all Rendez-vous matbréngt",
-     "E Steierdossier bei der Administratioun",
+     "E private Versécherungskontrakt, deen extra Käschte bezilt, déi d'national Gesondheetskeess (CNS) net iwwerhëlt",
+     "E Pabeierheft, an deem all Dokter Är Behandlunge mat der Hand opschreift, an dat Dir bei all eenzege Rendez-vous musst matbréngen",
+     "E Steierdossier vun der Administratioun, an deem all Är medezinesch Ausgaben opgelëscht sinn, fir se ofzesetzen",
      "E gratis, perséinlechen a sécheren elektronesche Gesondheetsdossier, deen Är Gesondheetsinformatiounen op enger Plaz zesummebréngt"
     ],
     "correct": 3,
@@ -2656,10 +2656,10 @@ const EPISODES = [
    {
     "text": "Wien decidéiert, wien an Ären DSP kucke kann?",
     "options": [
-     "Nëmmen Ären Hausdokter",
-     "Ären Patron",
+     "Just Ären Hausdokter, deen eleng decidéiert, wéi eng aner Dokteren a Spideeler den Dossier opmaache däerfen",
+     "Ären Employeur, deen iwwer Är Gesondheet muss Bescheed wëssen, fir Är Aarbecht ze plangen",
      "Dir, de Patient – Dir gitt an huelt den Zougang, an Dir kënnt gesinn, wien Ären Dossier consultéiert huet",
-     "De Gesondheetsministère"
+     "De Gesondheetsministère, deen den Dokteren an de Spideeler vu Fall zu Fall Zougang gëtt"
     ],
     "correct": 2,
     "explanation": "Dir hutt d'Kontroll: Dir decidéiert, wien Zougang zu Ärem DSP huet, Dir kënnt den Zougang zerécken, gesinn, wien en consultéiert huet, a souguer verschidde Dokumenter verstoppen. Et ass Ären Dossier, an Dir hutt d'Schlësselen."
@@ -2667,10 +2667,10 @@ const EPISODES = [
    {
     "text": "Wéi funktionéiert d'Bezuele bei enger normaler Visite beim Dokter mat der CNS normalerweis?",
     "options": [
-     "D'CNS bezilt Iech boer un der Receptioun",
+     "D'CNS bezilt Iech op der Receptioun cash, an den Dokter schéckt d'Rechnung duerno un Ären Employeur",
      "Dir bezuelt fir d'éischt de vollen Präis, dann rembourséiert d'CNS dat meescht dovun (ronn 80–100%) op Äre Bankkont",
-     "D'Visite ass ëmmer komplett gratis",
-     "Dir bezuelt ni eppes, zu kengem Moment"
+     "De Besuch ass ëmmer ganz gratis, well d'CNS den Dokter fir all Konsultatioun direkt bezilt",
+     "Dir bezuelt beim Dokter näischt, an d'CNS zitt spéider déi ganz Käschte vum Besuch direkt vun Ärem Méintsloun of"
     ],
     "correct": 1,
     "explanation": "Lëtzebuerg funktionéiert traditionell mam Remboursement: Dir bezuelt den Dokter fir d'éischt, schéckt déi bezuelte Faktur un d'CNS, a si bezilt dat meescht dovun op Äre Bankkont zeréck, normalerweis a manner wéi dräi Wochen."
@@ -2678,9 +2678,9 @@ const EPISODES = [
    {
     "text": "Wat ass den \"Tiers payant\", zum Beispill an der Apdikt?",
     "options": [
-     "De Staat bezilt näischt, an Dir bezuelt alles",
-     "Dir bezuelt ëmmer de vollen Präis a frot en duerno zeréck",
-     "Dir bezuelt duebel a gitt rembourséiert",
+     "De Staat bezilt guer näischt, an Dir bezuelt de ganze Präis vun Äre Medikamenter selwer",
+     "Dir bezuelt an der Apdikt ëmmer de ganze Präis a kritt d'Suen dann spéider vun der CNS zeréck",
+     "Dir bezuelt an der Apdikt duebel, an d'CNS rembourséiert Iech d'Halschent um Enn vum Joer",
      "Dir bezuelt nëmmen Äre klengen Undeel, an d'Apdikt reegelt de Rescht direkt mat der CNS"
     ],
     "correct": 3,
@@ -2690,9 +2690,9 @@ const EPISODES = [
     "text": "Wéi kënnt Dir Ären eSanté-Kont aktivéieren, fir Ären DSP online ze benotzen?",
     "options": [
      "Direkt iwwer MyGuichet.lu — an duerno kuckt Dir Ären Dossier online oder mat der mobiler App MyDSP",
-     "Dir kënnt en net selwer aktivéieren",
-     "Nëmme perséinlech an engem Spidol",
-     "Nëmmen andeems Dir op e Code waart, dee mat der Post kënnt"
+     "Dir kënnt en net selwer aktivéieren – just Ären Dokter kann Äre Kont opmaachen an Iech den Dossier weisen",
+     "Just perséinlech op der Receptioun vun engem Spidol, mat Ärem Pass an Ärer Sozialversécherungskaart",
+     "Just andeems Dir op en Aktivéierungscode waart, deen d'CNS eemol am Joer mat der Post schéckt"
     ],
     "correct": 0,
     "explanation": "Dir kënnt Ären eSanté-Kont direkt iwwer MyGuichet.lu aktivéieren. Wann en aktiv ass, loggt Dir Iech iwwer den eSanté-Portal an — oder Dir benotzt d'mobil App MyDSP op Ärem Handy."

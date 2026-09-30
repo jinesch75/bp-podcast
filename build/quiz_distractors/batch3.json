@@ -1,0 +1,698 @@
+{
+ "habitat": [
+  {
+   "en": [
+    "A private real-estate agency that buys, sells and rents out homes all over the country for its clients",
+    "A bank that gives out mortgages to first-time buyers at a reduced, State-guaranteed interest rate",
+    "A public construction company that builds affordable apartments for the Ministry of Housing"
+   ],
+   "fr": [
+    "Une agence immobilière privée qui achète, vend et loue des logements dans tout le pays pour ses clients",
+    "Une banque qui accorde des prêts immobiliers aux primo-accédants à un taux réduit garanti par l'État",
+    "Une entreprise publique de construction qui bâtit des appartements abordables pour le ministère du Logement"
+   ],
+   "de": [
+    "Ein privates Immobilienbüro, das für seine Kunden im ganzen Land Wohnungen kauft, verkauft und vermietet",
+    "Eine Bank, die Erstkäufern Hypothekenkredite zu einem reduzierten, staatlich garantierten Zinssatz gibt",
+    "Ein öffentliches Bauunternehmen, das für das Wohnungsbauministerium bezahlbare Wohnungen baut"
+   ]
+  },
+  {
+   "en": [
+    "Estimates shared by buyers and sellers on social media groups",
+    "Asking prices shown in estate agents' shop windows and adverts",
+    "A yearly opinion survey of households about what they think homes are worth"
+   ],
+   "fr": [
+    "Des estimations partagées par des acheteurs et des vendeurs sur les réseaux sociaux",
+    "Les prix demandés affichés dans les vitrines et les annonces des agences",
+    "Un sondage annuel auprès des ménages sur la valeur qu'ils attribuent aux logements"
+   ],
+   "de": [
+    "Schätzungen, die Käufer und Verkäufer in Gruppen in sozialen Medien teilen",
+    "Angebotspreise aus den Schaufenstern und Anzeigen von Maklern",
+    "Eine jährliche Umfrage unter Haushalten, was ihrer Meinung nach Wohnungen wert sind"
+   ]
+  },
+  {
+   "en": [
+    "STATEC only, which sends its general price index to the Observatoire",
+    "The European Central Bank, which studies house prices across the euro area",
+    "A private consultancy that is paid to write the Observatoire's reports"
+   ],
+   "fr": [
+    "Uniquement le STATEC, qui transmet son indice général des prix à l'Observatoire",
+    "La Banque centrale européenne, qui étudie les prix immobiliers dans la zone euro",
+    "Un cabinet de conseil privé payé pour rédiger les rapports de l'Observatoire"
+   ],
+   "de": [
+    "Nur das STATEC, das seinen allgemeinen Preisindex an das Observatoire schickt",
+    "Die Europäische Zentralbank, die Immobilienpreise im ganzen Euroraum untersucht",
+    "Eine private Beratungsfirma, die für das Schreiben der Berichte bezahlt wird"
+   ]
+  },
+  {
+   "en": [
+    "Because individual houses are almost never sold in Luxembourg, so there are not enough sales to publish anything useful",
+    "Because houses are always cheaper than apartments, so buyers do not need detailed prices for them",
+    "Because a law forbids publishing the price of a house, in order to protect the privacy of the families who sell"
+   ],
+   "fr": [
+    "Parce que les maisons ne se vendent presque jamais au Luxembourg, donc il n'y a pas assez de ventes pour publier quelque chose d'utile",
+    "Parce que les maisons sont toujours moins chères que les appartements, donc les acheteurs n'ont pas besoin de prix détaillés",
+    "Parce qu'une loi interdit de publier le prix d'une maison, pour protéger la vie privée des familles qui vendent"
+   ],
+   "de": [
+    "Weil einzelne Häuser in Luxemburg fast nie verkauft werden, es also nicht genug Verkäufe für brauchbare Zahlen gibt",
+    "Weil Häuser immer günstiger sind als Wohnungen, sodass Käufer dafür keine genauen Preise brauchen",
+    "Weil ein Gesetz verbietet, den Preis eines Hauses zu veröffentlichen, um die Privatsphäre der verkaufenden Familien zu schützen"
+   ]
+  },
+  {
+   "en": [
+    "Only by visiting the Ministry of Housing in person, by appointment",
+    "Only in a paid printed report sent out once a year",
+    "On private property websites that buy the data from the State"
+   ],
+   "fr": [
+    "Uniquement en se rendant au ministère du Logement, sur rendez-vous",
+    "Uniquement dans un rapport imprimé payant envoyé une fois par an",
+    "Sur des sites immobiliers privés qui achètent les données à l'État"
+   ],
+   "de": [
+    "Nur bei einem persönlichen Besuch im Wohnungsbauministerium, mit Termin",
+    "Nur in einem kostenpflichtigen gedruckten Bericht, der einmal im Jahr erscheint",
+    "Auf privaten Immobilienportalen, die die Daten vom Staat kaufen"
+   ]
+  }
+ ],
+ "klima": [
+  {
+   "en": [
+    "A private company that sells and installs solar panels and heat pumps for homes in Luxembourg",
+    "An electricity supplier that offers green-energy contracts to households and businesses",
+    "A bank that gives low-interest green loans to people who want to renovate their home"
+   ],
+   "fr": [
+    "Une entreprise privée qui vend et installe des panneaux solaires et des pompes à chaleur pour les logements au Luxembourg",
+    "Un fournisseur d'électricité qui propose des contrats d'énergie verte aux ménages et aux entreprises",
+    "Une banque qui accorde des prêts verts à taux réduit à ceux qui veulent rénover leur logement"
+   ],
+   "de": [
+    "Ein privates Unternehmen, das Solaranlagen und Wärmepumpen für Wohnhäuser in Luxemburg verkauft und installiert",
+    "Ein Stromanbieter, der Haushalten und Unternehmen Ökostromverträge anbietet",
+    "Eine Bank, die zinsgünstige grüne Kredite an Menschen vergibt, die ihr Haus renovieren möchten"
+   ]
+  },
+  {
+   "en": [
+    "A monthly subscription, depending on the size of your home",
+    "A fee per appointment, paid directly to the adviser",
+    "Only the first appointment is free; after that you pay per visit"
+   ],
+   "fr": [
+    "Un abonnement mensuel, selon la taille de votre logement",
+    "Des frais par rendez-vous, payés directement au conseiller",
+    "Seul le premier rendez-vous est gratuit ; ensuite on paie chaque visite"
+   ],
+   "de": [
+    "Ein Monatsabo, abhängig von der Größe Ihrer Wohnung",
+    "Eine Gebühr pro Termin, die direkt an den Berater geht",
+    "Nur der erste Termin ist kostenlos; danach zahlt man jeden weiteren Besuch"
+   ]
+  },
+  {
+   "en": [
+    "Only solar panels, because the agency was set up to promote solar energy on private roofs",
+    "Only electric cars and charging stations, including which model to buy for your family",
+    "Only home loans and mortgages for buying a new, energy-efficient house or apartment"
+   ],
+   "fr": [
+    "Uniquement les panneaux solaires, car l'agence a été créée pour promouvoir l'énergie solaire sur les toits privés",
+    "Uniquement les voitures électriques et les bornes de recharge, y compris le modèle à acheter pour votre famille",
+    "Uniquement les prêts immobiliers pour acheter une maison ou un appartement neuf et économe en énergie"
+   ],
+   "de": [
+    "Nur Solaranlagen, weil die Agentur gegründet wurde, um Solarenergie auf privaten Dächern zu fördern",
+    "Nur Elektroautos und Ladestationen, einschließlich der Frage, welches Modell Ihre Familie kaufen soll",
+    "Nur Immobilienkredite für den Kauf eines neuen, energieeffizienten Hauses oder einer Wohnung"
+   ]
+  },
+  {
+   "en": [
+    "A loyalty card that gives discounts in shops selling energy-saving light bulbs and household appliances",
+    "A new tax on petrol and diesel cars, used to finance public transport and cycle paths",
+    "A type of natural insulation material made in Luxembourg and recommended by the agency for old houses"
+   ],
+   "fr": [
+    "Une carte de fidélité qui donne des réductions dans les magasins vendant des ampoules et des appareils économes",
+    "Une nouvelle taxe sur les voitures essence et diesel, dont les recettes financent les transports publics et les pistes cyclables",
+    "Un type d'isolant naturel fabriqué au Luxembourg et recommandé par l'agence pour les maisons anciennes"
+   ],
+   "de": [
+    "Eine Kundenkarte mit Rabatten in Geschäften, die Energiesparlampen und besonders sparsame Haushaltsgeräte verkaufen",
+    "Eine neue Steuer auf Benzin- und Dieselautos, mit der öffentlicher Verkehr und Radwege finanziert werden",
+    "Ein in Luxemburg hergestellter natürlicher Dämmstoff, den die Agentur für alte Häuser empfiehlt"
+   ]
+  },
+  {
+   "en": [
+    "It is an official Klima-Agence offer, so you can sign the contract without checking anything else",
+    "It means the product has been tested and approved by the government, so the price is fixed by law",
+    "You must buy from that company, because only partners of Klima-Agence can install equipment that receives grants"
+   ],
+   "fr": [
+    "C'est une offre officielle de la Klima-Agence, donc vous pouvez signer le contrat sans rien vérifier d'autre",
+    "Cela signifie que le produit a été testé et approuvé par l'État, donc son prix est fixé par la loi",
+    "Vous devez acheter chez cette entreprise, car seuls les partenaires de la Klima-Agence peuvent installer du matériel subventionné"
+   ],
+   "de": [
+    "Es ist ein offizielles Angebot der Klima-Agence, Sie können also den Vertrag direkt unterschreiben, ohne noch etwas zu prüfen",
+    "Es bedeutet, dass das Produkt vom Staat getestet und zugelassen ist und der Preis gesetzlich festgelegt ist",
+    "Sie müssen bei dieser Firma kaufen, weil nur Partner der Klima-Agence geförderte Anlagen einbauen dürfen"
+   ]
+  }
+ ],
+ "snj": [
+  {
+   "en": [
+    "It runs Luxembourg's universities and decides which young people can study there",
+    "It sells insurance for young people who travel or do sport abroad",
+    "It only organises national sports competitions and championships for schools"
+   ],
+   "fr": [
+    "Il gère les universités du Luxembourg et décide quels jeunes peuvent y étudier",
+    "Il vend des assurances aux jeunes qui voyagent ou font du sport à l'étranger",
+    "Il organise uniquement des compétitions et championnats sportifs nationaux pour les écoles du pays"
+   ],
+   "de": [
+    "Er leitet die Universitäten Luxemburgs und entscheidet, welche jungen Menschen dort studieren dürfen",
+    "Er verkauft Versicherungen für junge Menschen, die im Ausland reisen oder Sport treiben",
+    "Er organisiert nur nationale Sportwettkämpfe und Meisterschaften für Schulen"
+   ]
+  },
+  {
+   "en": [
+    "Formal exams and grades, following the national school curriculum",
+    "University degrees only, in partnership with the University of Luxembourg",
+    "Distance learning only, with online courses and tests for young people"
+   ],
+   "fr": [
+    "Des examens formels et des notes, selon le programme scolaire national",
+    "Uniquement des diplômes universitaires, en partenariat avec l'Université du Luxembourg",
+    "Uniquement l'enseignement à distance, avec des cours et des tests en ligne"
+   ],
+   "de": [
+    "Formale Prüfungen und Noten nach dem nationalen Lehrplan",
+    "Nur Hochschulabschlüsse, in Partnerschaft mit der Universität Luxemburg",
+    "Nur Fernunterricht, mit Online-Kursen und Tests für junge Menschen"
+   ]
+  },
+  {
+   "en": [
+    "A paid full-time career in the civil service for young people who leave school without a diploma",
+    "A compulsory military service that every young resident must complete for twelve months",
+    "A school exam that young people must pass before they are allowed to do any volunteering in Luxembourg"
+   ],
+   "fr": [
+    "Une carrière rémunérée à plein temps dans la fonction publique pour les jeunes qui quittent l'école sans diplôme",
+    "Un service militaire obligatoire que chaque jeune résident doit accomplir pendant douze mois",
+    "Un examen scolaire que les jeunes doivent réussir avant d'avoir le droit de faire du bénévolat au Luxembourg"
+   ],
+   "de": [
+    "Eine bezahlte Vollzeitlaufbahn im öffentlichen Dienst für junge Menschen, die die Schule ohne Abschluss verlassen",
+    "Ein verpflichtender Wehrdienst, den jeder junge Einwohner zwölf Monate lang leisten muss",
+    "Eine Schulprüfung, die junge Menschen bestehen müssen, bevor sie in Luxemburg irgendeinen Freiwilligendienst leisten dürfen"
+   ]
+  },
+  {
+   "en": [
+    "Only university graduates looking for their first job in a large company",
+    "Only people over fifty who want to change career late in life",
+    "Only foreign students who come to Luxembourg for an exchange semester and need to find work"
+   ],
+   "fr": [
+    "Seulement les diplômés de l'université qui cherchent leur premier emploi dans une grande entreprise",
+    "Seulement les personnes de plus de cinquante ans qui veulent changer de carrière sur le tard",
+    "Seulement les étudiants étrangers venus au Luxembourg pour un semestre d'échange et qui doivent trouver du travail"
+   ],
+   "de": [
+    "Nur Hochschulabsolventen, die ihren ersten Job in einem großen Unternehmen suchen",
+    "Nur Menschen über fünfzig, die spät im Leben den Beruf wechseln wollen",
+    "Nur ausländische Studierende, die für ein Austauschsemester nach Luxemburg kommen und hier Arbeit finden müssen"
+   ]
+  },
+  {
+   "en": [
+    "A home alarm company that protects houses and flats against burglary",
+    "A banking app for teenagers, with secure payments and savings goals",
+    "A type of insurance that covers young people's phones and laptops if they are stolen or broken"
+   ],
+   "fr": [
+    "Une entreprise d'alarmes qui protège les maisons et les appartements contre les cambriolages",
+    "Une application bancaire pour ados, avec paiements sécurisés et objectifs d'épargne",
+    "Un type d'assurance qui couvre les téléphones et ordinateurs des jeunes en cas de vol ou de casse"
+   ],
+   "de": [
+    "Eine Alarmanlagenfirma, die Häuser und Wohnungen vor Einbruch schützt",
+    "Eine Banking-App für Jugendliche, mit sicheren Zahlungen und Sparzielen",
+    "Eine Versicherung, die Handys, Tablets und Laptops junger Menschen bei Diebstahl oder Schaden abdeckt"
+   ]
+  }
+ ],
+ "enfance": [
+  {
+   "en": [
+    "To collect taxes from families and decide how much each household pays for childcare",
+    "To run the country's primary schools and hire their teachers",
+    "To organise holidays and summer camps for children whose parents work"
+   ],
+   "fr": [
+    "Percevoir des impôts auprès des familles et fixer ce que chaque ménage paie pour la garde des enfants",
+    "Gérer les écoles fondamentales du pays et recruter leurs enseignants",
+    "Organiser des vacances et des camps d'été pour les enfants dont les parents travaillent"
+   ],
+   "de": [
+    "Steuern von Familien einziehen und festlegen, wie viel jeder Haushalt für die Kinderbetreuung zahlt",
+    "Die Grundschulen des Landes leiten und ihre Lehrkräfte einstellen",
+    "Ferien und Sommerlager für Kinder organisieren, deren Eltern arbeiten"
+   ]
+  },
+  {
+   "en": [
+    "It takes decisions without the family and informs the parents afterwards by letter",
+    "It only sends letters with general advice and never meets the family",
+    "It charges high fees for each meeting, depending on the family's income"
+   ],
+   "fr": [
+    "Il prend des décisions sans la famille et informe ensuite les parents par courrier",
+    "Il envoie seulement des lettres avec des conseils généraux et ne rencontre jamais la famille",
+    "Il fait payer des frais élevés pour chaque rendez-vous, selon les revenus de la famille"
+   ],
+   "de": [
+    "Es entscheidet ohne die Familie und informiert die Eltern danach per Brief",
+    "Es verschickt nur Briefe mit allgemeinen Ratschlägen und trifft die Familie nie persönlich",
+    "Es verlangt für jedes Treffen hohe Gebühren, abhängig vom Einkommen der Familie"
+   ]
+  },
+  {
+   "en": [
+    "One single office, in the capital only, for the whole country",
+    "None — it only works online, through its website and by email",
+    "Fifty offices, one in almost every larger commune in the country"
+   ],
+   "fr": [
+    "Un seul bureau, uniquement dans la capitale, pour tout le pays",
+    "Aucun — il fonctionne uniquement en ligne, par son site et par e-mail",
+    "Cinquante bureaux, un dans presque chaque grande commune du pays"
+   ],
+   "de": [
+    "Ein einziges Büro, nur in der Hauptstadt, für das ganze Land",
+    "Keins — es arbeitet nur online, über seine Website und per E-Mail",
+    "Fünfzig Büros, eines in fast jeder größeren Gemeinde des Landes"
+   ]
+  },
+  {
+   "en": [
+    "Only lawyers and judges from the family court",
+    "Only doctors and nurses from the children's hospital",
+    "Only police officers trained in child protection"
+   ],
+   "fr": [
+    "Seulement des avocats et des juges du tribunal de la famille",
+    "Seulement des médecins et des infirmiers de l'hôpital pour enfants",
+    "Seulement des policiers formés à la protection de l'enfance"
+   ],
+   "de": [
+    "Nur Anwälte und Richter des Familiengerichts",
+    "Nur Ärzte und Pflegekräfte der Kinderklinik",
+    "Nur Polizisten mit einer Ausbildung im Kinderschutz"
+   ]
+  },
+  {
+   "en": [
+    "Only through a court decision, after a judge has examined the family's situation",
+    "By paying a registration fee at the commune and waiting for an appointment letter",
+    "It is not possible to ask directly; only schools can contact the ONE about a child"
+   ],
+   "fr": [
+    "Uniquement par une décision de justice, après qu'un juge a examiné la situation de la famille",
+    "En payant des frais d'inscription à la commune et en attendant une lettre de rendez-vous",
+    "Il n'est pas possible de demander directement ; seules les écoles peuvent contacter l'ONE au sujet d'un enfant"
+   ],
+   "de": [
+    "Nur über eine Gerichtsentscheidung, nachdem ein Richter die Lage der Familie geprüft hat",
+    "Indem man bei der Gemeinde eine Anmeldegebühr zahlt und auf einen Terminbrief wartet",
+    "Man kann nicht direkt fragen; nur Schulen dürfen das ONE wegen eines Kindes kontaktieren"
+   ]
+  }
+ ],
+ "cepas": [
+  {
+   "en": [
+    "A private tutoring company that helps pupils prepare for their exams",
+    "A sports club for teenagers, with free training after school",
+    "A university centre that trains future teachers and psychologists"
+   ],
+   "fr": [
+    "Une entreprise privée de soutien scolaire qui prépare les élèves aux examens",
+    "Un club de sport pour ados, avec des entraînements gratuits après l'école",
+    "Un centre universitaire qui forme les futurs enseignants et psychologues"
+   ],
+   "de": [
+    "Eine private Nachhilfefirma, die Schüler auf ihre Prüfungen vorbereitet",
+    "Ein Sportverein für Jugendliche, mit kostenlosem Training nach der Schule",
+    "Ein Universitätszentrum, das künftige Lehrkräfte und Psychologen ausbildet"
+   ]
+  },
+  {
+   "en": [
+    "Only university professors and researchers who work with students",
+    "Only children under five and their parents, before they start school",
+    "Only teachers who need advice about a difficult class or pupil at their school"
+   ],
+   "fr": [
+    "Seulement les professeurs d'université et les chercheurs qui travaillent avec des étudiants",
+    "Seulement les enfants de moins de cinq ans et leurs parents, avant l'école",
+    "Seulement les enseignants qui ont besoin de conseils pour une classe ou un élève difficile"
+   ],
+   "de": [
+    "Nur Universitätsprofessoren und Forschende, die mit Studierenden arbeiten",
+    "Nur Kinder unter fünf und ihre Eltern, bevor die Schule beginnt",
+    "Nur Lehrkräfte, die Rat zu einer schwierigen Klasse oder einem bestimmten Schüler brauchen"
+   ]
+  },
+  {
+   "en": [
+    "Only at a hospital emergency department, by night",
+    "Only abroad, in specialised clinics in neighbouring countries",
+    "Only by post, by sending a letter to CePAS and waiting for a reply"
+   ],
+   "fr": [
+    "Uniquement aux urgences d'un hôpital, la nuit",
+    "Uniquement à l'étranger, dans des cliniques spécialisées des pays voisins",
+    "Uniquement par courrier, en écrivant au CePAS et en attendant une réponse"
+   ],
+   "de": [
+    "Nur in der Notaufnahme eines Krankenhauses, nachts",
+    "Nur im Ausland, in Fachkliniken der Nachbarländer",
+    "Nur per Post, indem man dem CePAS einen Brief schreibt und auf Antwort wartet"
+   ]
+  },
+  {
+   "en": [
+    "It closed its consultation centre and moved all help online",
+    "It started charging high fees for every consultation",
+    "It moved its main office abroad, to the Greater Region"
+   ],
+   "fr": [
+    "Il a fermé son centre de consultation et tout transféré en ligne",
+    "Il a commencé à faire payer cher chaque consultation",
+    "Il a déménagé son siège à l'étranger, dans la Grande Région"
+   ],
+   "de": [
+    "Es hat seine Beratungsstelle geschlossen und alles online verlegt",
+    "Es verlangt seitdem hohe Gebühren für jede Beratung",
+    "Es hat seinen Sitz ins Ausland, in die Großregion, verlegt"
+   ]
+  },
+  {
+   "en": [
+    "Completely alone, without sharing anything with parents, schools or other services",
+    "Only with the police, who send it the young people it must follow up",
+    "Only with private companies that pay for coaching sessions for their apprentices"
+   ],
+   "fr": [
+    "Complètement seul, sans rien partager avec les parents, les écoles ou d'autres services",
+    "Seulement avec la police, qui lui envoie les jeunes qu'il doit suivre",
+    "Seulement avec des entreprises privées qui paient des séances de coaching pour leurs apprentis"
+   ],
+   "de": [
+    "Völlig allein, ohne sich mit Eltern, Schulen oder anderen Diensten abzustimmen",
+    "Nur mit der Polizei, die ihm die Jugendlichen schickt, die es betreuen muss",
+    "Nur mit privaten Firmen, die Coaching-Sitzungen für ihre Auszubildenden bezahlen"
+   ]
+  }
+ ],
+ "fondseuropeens": [
+  {
+   "en": [
+    "To collect money from the member countries and keep it in a central reserve in Brussels",
+    "To replace national governments with European ones in the poorest regions",
+    "To fund only large international companies so that they stay in Europe"
+   ],
+   "fr": [
+    "Collecter de l'argent auprès des États membres et le garder dans une réserve centrale à Bruxelles",
+    "Remplacer les gouvernements nationaux par des gouvernements européens dans les régions les plus pauvres d'Europe",
+    "Financer uniquement les grandes entreprises internationales pour qu'elles restent en Europe"
+   ],
+   "de": [
+    "Geld von den Mitgliedstaaten einsammeln und in einer zentralen Reserve in Brüssel aufbewahren",
+    "In den ärmsten Regionen die nationalen Regierungen durch europäische ersetzen",
+    "Nur große internationale Konzerne fördern, damit sie in Europa bleiben"
+   ]
+  },
+  {
+   "en": [
+    "Building motorways and bridges between member countries",
+    "Military equipment and the defence of the EU's borders",
+    "Space exploration and satellite programmes across Europe"
+   ],
+   "fr": [
+    "La construction d'autoroutes et de ponts entre les États membres",
+    "L'équipement militaire et la défense des frontières de l'UE",
+    "L'exploration spatiale et les programmes de satellites en Europe"
+   ],
+   "de": [
+    "Den Bau von Autobahnen, Brücken und Tunneln zwischen den Mitgliedstaaten",
+    "Militärausrüstung und die Verteidigung der EU-Grenzen",
+    "Weltraumforschung und Satellitenprogramme in ganz Europa"
+   ]
+  },
+  {
+   "en": [
+    "A private bank that lends the EU money to projects at a profit",
+    "A European court that decides disputes about how funds were spent",
+    "A political party that chooses which projects should win funding"
+   ],
+   "fr": [
+    "Une banque privée qui prête l'argent européen aux projets avec profit",
+    "Une cour européenne qui tranche les litiges sur l'usage des fonds",
+    "Un parti politique qui choisit quels projets doivent être financés"
+   ],
+   "de": [
+    "Eine private Bank, die EU-Geld gewinnbringend an Projekte verleiht",
+    "Ein europäisches Gericht, das bei Streit darüber entscheidet, wie die Mittel verwendet wurden",
+    "Eine politische Partei, die auswählt, welche Projekte Geld bekommen"
+   ]
+  },
+  {
+   "en": [
+    "The EU pays for everything alone, so no national money is needed",
+    "The citizens who take part in a project must pay the money back later",
+    "The projects get no public money at all, only private sponsors"
+   ],
+   "fr": [
+    "L'UE paie tout seule, donc aucun argent national n'est nécessaire",
+    "Les citoyens qui participent à un projet doivent rembourser tout l'argent plus tard",
+    "Les projets ne reçoivent aucun argent public, seulement des sponsors privés"
+   ],
+   "de": [
+    "Die EU zahlt alles allein, es wird also kein nationales Geld gebraucht",
+    "Die Bürger, die an einem Projekt teilnehmen, müssen das ganze Geld später zurückzahlen",
+    "Die Projekte bekommen gar kein öffentliches Geld, nur private Sponsoren"
+   ]
+  },
+  {
+   "en": [
+    "Only the government itself, for projects run directly by the ministries",
+    "Only people living abroad who plan to move to Luxembourg with a business idea",
+    "Nobody — the money is paid automatically to every commune, without any application"
+   ],
+   "fr": [
+    "Seulement le gouvernement lui-même, pour des projets gérés directement par les ministères",
+    "Seulement les personnes vivant à l'étranger qui veulent s'installer au Luxembourg avec une idée d'entreprise",
+    "Personne — l'argent est versé automatiquement à chaque commune, sans demande"
+   ],
+   "de": [
+    "Nur die Regierung selbst, für Projekte, die direkt von den Ministerien geplant und geführt werden",
+    "Nur Menschen im Ausland, die mit einer Geschäftsidee nach Luxemburg ziehen wollen",
+    "Niemand — das Geld geht automatisch an jede Gemeinde, ganz ohne Antrag"
+   ]
+  }
+ ],
+ "zesumme": [
+  {
+   "en": [
+    "A shopping website where residents buy and sell second-hand goods together",
+    "A social media app that connects neighbours in the same commune",
+    "A new tax that companies pay to finance simpler public services"
+   ],
+   "fr": [
+    "Un site d'achat où les résidents achètent et vendent ensemble des objets d'occasion",
+    "Une application de réseau social qui met en relation les voisins d'une même commune",
+    "Une nouvelle taxe que paient les entreprises pour financer des services publics plus simples"
+   ],
+   "de": [
+    "Eine Shopping-Website, auf der Einwohner gemeinsam Gebrauchtwaren und Möbel kaufen und verkaufen",
+    "Eine Social-Media-App, die Nachbarn in derselben Gemeinde verbindet",
+    "Eine neue Steuer, die Firmen zahlen, um einfachere öffentliche Dienste zu finanzieren"
+   ]
+  },
+  {
+   "en": [
+    "A private company paid by the State to redesign administrative forms",
+    "A foreign government, as part of a European cooperation project",
+    "A bank, together with the Chamber of Commerce and the business federations"
+   ],
+   "fr": [
+    "Une entreprise privée payée par l'État pour refaire les formulaires administratifs",
+    "Un gouvernement étranger, dans le cadre d'un projet de coopération européenne",
+    "Une banque, avec la Chambre de commerce et les fédérations d'entreprises"
+   ],
+   "de": [
+    "Ein privates Unternehmen, das der Staat für die Neugestaltung von Formularen bezahlt",
+    "Eine ausländische Regierung, im Rahmen eines europäischen Kooperationsprojekts",
+    "Eine Bank, zusammen mit der Handelskammer und den Unternehmensverbänden"
+   ]
+  },
+  {
+   "en": [
+    "You must follow every project from the very start to the very end",
+    "You must work on it full-time for at least three months",
+    "You must be an elected official, such as a mayor or a councillor"
+   ],
+   "fr": [
+    "Vous devez suivre chaque projet du tout début jusqu'à la toute fin, sans exception",
+    "Vous devez y travailler à plein temps pendant au moins trois mois",
+    "Vous devez être un élu, par exemple maire ou conseiller communal"
+   ],
+   "de": [
+    "Sie müssen jedes Projekt vom ersten bis zum letzten Schritt begleiten",
+    "Sie müssen mindestens drei Monate in Vollzeit mitarbeiten",
+    "Sie müssen ein gewähltes Mandat haben, etwa als Bürgermeister oder Gemeinderat"
+   ]
+  },
+  {
+   "en": [
+    "French only, as the language of the administration",
+    "English only, since the platform is international",
+    "None — you can only take part in writing by post"
+   ],
+   "fr": [
+    "Uniquement en français, langue de l'administration",
+    "Uniquement en anglais, car la plateforme est internationale",
+    "Aucune — on ne participe que par écrit, par la poste"
+   ],
+   "de": [
+    "Nur auf Französisch, der Sprache der Verwaltung",
+    "Nur auf Englisch, weil die Plattform international ist",
+    "Keine — man kann nur schriftlich per Post mitmachen"
+   ]
+  },
+  {
+   "en": [
+    "It built a new road between two communes after a vote",
+    "It lowered income taxes for families with children",
+    "It replaced the government's ministries with citizen panels"
+   ],
+   "fr": [
+    "Elle a fait construire une route entre deux communes après un vote",
+    "Elle a fait baisser l'impôt sur le revenu des familles avec enfants",
+    "Elle a remplacé les ministères par des panels de citoyens"
+   ],
+   "de": [
+    "Sie hat nach einer Abstimmung eine neue Straße zwischen zwei Gemeinden gebaut",
+    "Sie hat die Einkommensteuer für Familien mit Kindern gesenkt",
+    "Sie hat die Ministerien durch Bürgergremien ersetzt"
+   ]
+  }
+ ],
+ "cgdis": [
+  {
+   "en": [
+    "113",
+    "911",
+    "0800"
+   ],
+   "fr": [
+    "113",
+    "911",
+    "0800"
+   ],
+   "de": [
+    "113",
+    "911",
+    "0800"
+   ]
+  },
+  {
+   "en": [
+    "A private insurance company that pays for damage after fires",
+    "The national hospital's emergency department",
+    "A special unit of the Grand Ducal Police"
+   ],
+   "fr": [
+    "Une compagnie d'assurance privée qui paie les dégâts après un incendie",
+    "Le service des urgences de l'hôpital national",
+    "Une unité spéciale de la Police grand-ducale"
+   ],
+   "de": [
+    "Eine private Versicherung, die Schäden nach Bränden bezahlt",
+    "Die Notaufnahme des nationalen Krankenhauses",
+    "Eine Spezialeinheit der Großherzoglichen Polizei"
+   ]
+  },
+  {
+   "en": [
+    "About 10%",
+    "About half",
+    "None — they are all professionals"
+   ],
+   "fr": [
+    "Environ 10 %",
+    "Environ la moitié",
+    "Aucun — ce sont tous des professionnels"
+   ],
+   "de": [
+    "Etwa 10 %",
+    "Etwa die Hälfte",
+    "Keine — alle sind Berufsfeuerwehrleute"
+   ]
+  },
+  {
+   "en": [
+    "Hang up quickly so that other people with emergencies can get through",
+    "Only send a text message with a photo, never speak",
+    "Call several times in a row so that your call is treated first"
+   ],
+   "fr": [
+    "Raccrocher très vite pour que d'autres personnes en urgence puissent appeler",
+    "Envoyer seulement un SMS avec une photo, sans jamais parler",
+    "Appeler plusieurs fois de suite pour que votre appel passe en premier"
+   ],
+   "de": [
+    "Schnell auflegen, damit andere Menschen im Notfall durchkommen",
+    "Nur eine SMS mit Foto schicken, nie sprechen",
+    "Mehrmals hintereinander anrufen, damit Ihr Anruf schneller und zuerst bearbeitet wird"
+   ]
+  },
+  {
+   "en": [
+    "Nothing else — it only responds to emergencies",
+    "Cheap home loans for firefighters' families",
+    "Holiday trips and camps for young firefighters"
+   ],
+   "fr": [
+    "Rien d'autre — il intervient seulement en urgence",
+    "Des prêts immobiliers bon marché pour les familles de pompiers",
+    "Des voyages et des camps de vacances pour jeunes pompiers"
+   ],
+   "de": [
+    "Nichts weiter — er rückt nur bei Notfällen aus",
+    "Günstige Wohnkredite für Familien von Feuerwehrleuten",
+    "Urlaubsreisen und Ferienlager für junge Feuerwehrleute"
+   ]
+  }
+ ]
+}

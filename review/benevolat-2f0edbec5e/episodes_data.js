@@ -813,10 +813,10 @@ const EPISODES = [
    {
     "text": "How is a volunteer defined in the episode?",
     "options": [
-     "A paid part-time worker for a charity",
+     "A paid part-time worker who is employed by a charity or association and receives a small salary for their time",
      "Someone who, of their own free will and without being paid, does something in the service of others or of the community",
-     "A government employee",
-     "Someone required to help by a court order"
+     "A government employee who is asked by the State to help in communes, schools and hospitals as part of their job",
+     "Someone who is required to help the community, for example by a court order or as a condition for receiving benefits"
     ],
     "correct": 1,
     "explanation": "A volunteer gives the time they want – a little, a lot, or passionately – of their own free will and without being paid, in the service of others or of the community."
@@ -824,10 +824,10 @@ const EPISODES = [
    {
     "text": "In 2022, roughly what share of Luxembourg’s population did some volunteering?",
     "options": [
-     "About 5%",
-     "About 70%",
+     "About 5% – one person in twenty, placing Luxembourg near the bottom in Europe",
+     "About 70% – more than two people in three, the highest share in the whole of Europe",
      "About 35% – more than one person in three, placing Luxembourg fourth in Europe",
-     "About 10%"
+     "About 10% – one person in ten, roughly the European average at that time"
     ],
     "correct": 2,
     "explanation": "In 2022 about 35% of the population volunteered – more than one in three – which put Luxembourg fourth in all of Europe. There is even a Volunteering Day every 5 December."
@@ -836,9 +836,9 @@ const EPISODES = [
     "text": "What is the central organisation and website for volunteering in Luxembourg?",
     "options": [
      "The Agence du Bénévolat, with its website benevolat.lu",
-     "The commune’s town hall only",
-     "The ADEM, on adem.lu",
-     "The Ministry of Finance"
+     "The town hall of each commune, with no central website",
+     "ADEM, the employment agency, with its website adem.lu",
+     "The Ministry of Finance, through the MyGuichet.lu portal"
     ],
     "correct": 0,
     "explanation": "The Agence du Bénévolat promotes volunteering since 2002. Its website benevolat.lu is a meeting point where associations looking for help and people who want to give time find each other."
@@ -846,10 +846,10 @@ const EPISODES = [
    {
     "text": "Do you need a long-term commitment to volunteer?",
     "options": [
-     "Only full weekends for a whole year",
+     "Yes – you must commit to full weekends for a whole year, because associations need to plan their teams",
      "No – you give the time you want, and many missions are one-time or short (an afternoon, a day, an event)",
-     "Yes, at least one year",
-     "Yes, at least three months"
+     "Yes, at least one year – short missions of an afternoon or a day are not counted as volunteering",
+     "Yes, at least three months, with a signed contract and a fixed number of hours every single week"
     ],
     "correct": 1,
     "explanation": "You do not need a long commitment. Many missions on benevolat.lu are for a single event or a single day – helping at a gala, marshalling a race, manning a barbecue – so anyone with a busy life can take part."
@@ -857,9 +857,9 @@ const EPISODES = [
    {
     "text": "What simple method does the episode suggest for getting started as a volunteer?",
     "options": [
-     "Sign a one-year contract with an association first",
-     "Wait until an organisation contacts you by post",
-     "Apply for a paid position at the Agence du Bénévolat",
+     "Sign a one-year contract with an association first, then wait to be told which mission you will do",
+     "Wait until an organisation contacts you by post, since volunteers are chosen from the national register",
+     "Apply for a paid position at the Agence du Bénévolat and follow its training before helping anywhere",
      "Think about what you enjoy, register for free on benevolat.lu, and offer your help for a mission you like"
     ],
     "correct": 3,
@@ -2695,10 +2695,10 @@ const EPISODES = [
    {
     "text": "Comment un bénévole est-il défini dans l'épisode ?",
     "options": [
-     "Un travailleur à temps partiel rémunéré par une association caritative",
+     "Un travailleur à temps partiel employé par une œuvre caritative ou une association, qui reçoit un petit salaire pour son temps",
      "Une personne qui, de son plein gré et sans être payée, fait quelque chose au service des autres ou de la communauté",
-     "Un employé de l'État",
-     "Une personne obligée d'aider par décision de justice"
+     "Un fonctionnaire à qui l'État demande d'aider dans les communes, les écoles et les hôpitaux dans le cadre de son travail",
+     "Quelqu'un qui est obligé d'aider la communauté, par exemple sur décision d'un tribunal ou comme condition pour toucher des aides"
     ],
     "correct": 1,
     "explanation": "Un bénévole donne le temps qu'il veut – un peu, beaucoup, ou passionnément – de son plein gré et sans être payé, au service des autres ou de la communauté."
@@ -2706,10 +2706,10 @@ const EPISODES = [
    {
     "text": "En 2022, quelle part environ de la population luxembourgeoise a fait du bénévolat ?",
     "options": [
-     "Environ 5 %",
-     "Environ 70 %",
+     "Environ 5 % – à peine une personne sur vingt, ce qui place le Luxembourg parmi les derniers pays d'Europe",
+     "Environ 70 % – plus de deux personnes sur trois, la part la plus élevée de toute l'Europe",
      "Environ 35 % – plus d'une personne sur trois, plaçant le Luxembourg au quatrième rang en Europe",
-     "Environ 10 %"
+     "Environ 10 % – une personne sur dix, à peu près la moyenne européenne à ce moment-là"
     ],
     "correct": 2,
     "explanation": "En 2022, environ 35 % de la population a fait du bénévolat – plus d'une personne sur trois – ce qui place le Luxembourg au quatrième rang de toute l'Europe. Il existe même une Journée du bénévolat chaque 5 décembre."
@@ -2718,9 +2718,9 @@ const EPISODES = [
     "text": "Quels sont l'organisation centrale et le site internet du bénévolat au Luxembourg ?",
     "options": [
      "L'Agence du Bénévolat, avec son site benevolat.lu",
-     "Uniquement la mairie de la commune",
-     "L'ADEM, sur adem.lu",
-     "Le ministère des Finances"
+     "La maison communale de chaque commune, sans site central",
+     "L'ADEM, l'agence pour l'emploi, avec son site adem.lu",
+     "Le ministère des Finances, via le portail MyGuichet.lu"
     ],
     "correct": 0,
     "explanation": "L'Agence du Bénévolat promeut le bénévolat depuis 2002. Son site benevolat.lu est un point de rencontre où les associations qui cherchent de l'aide et les personnes qui veulent donner du temps se trouvent."
@@ -2728,10 +2728,10 @@ const EPISODES = [
    {
     "text": "Faut-il un engagement à long terme pour faire du bénévolat ?",
     "options": [
-     "Uniquement des week-ends complets pendant toute une année",
+     "Oui – il faut s'engager des week-ends entiers pendant toute une année, car les associations doivent planifier leurs équipes longtemps à l'avance",
      "Non – vous donnez le temps que vous voulez, et beaucoup de missions sont ponctuelles ou courtes (un après-midi, une journée, un événement)",
-     "Oui, au moins un an",
-     "Oui, au moins trois mois"
+     "Oui, au moins un an – les missions courtes d'un après-midi ou d'une journée ne comptent pas comme du bénévolat",
+     "Oui, au moins trois mois, avec un contrat signé et un nombre d'heures fixe chaque semaine"
     ],
     "correct": 1,
     "explanation": "Vous n'avez pas besoin d'un engagement long. Beaucoup de missions sur benevolat.lu concernent un seul événement ou une seule journée – aider à un gala, être signaleur pour une course, tenir un barbecue – donc toute personne avec une vie bien remplie peut participer."
@@ -2739,9 +2739,9 @@ const EPISODES = [
    {
     "text": "Quelle méthode simple l'épisode propose-t-il pour commencer le bénévolat ?",
     "options": [
-     "Signer d'abord un contrat d'un an avec une association",
-     "Attendre qu'une organisation vous contacte par courrier",
-     "Postuler à un emploi rémunéré à l'Agence du Bénévolat",
+     "Signer d'abord un contrat d'un an avec une association, puis attendre qu'on vous dise quelle mission vous ferez",
+     "Attendre qu'une organisation vous contacte par courrier, car les bénévoles sont choisis au hasard dans le registre national des résidents",
+     "Postuler à un poste rémunéré à l'Agence du Bénévolat et suivre sa formation avant d'aider où que ce soit",
      "Réfléchir à ce que vous aimez, vous inscrire gratuitement sur benevolat.lu, et proposer votre aide pour une mission qui vous plaît"
     ],
     "correct": 3,
@@ -2766,10 +2766,10 @@ const EPISODES = [
    {
     "text": "Wie wird ein Freiwilliger in der Folge definiert?",
     "options": [
-     "Ein bezahlter Teilzeitmitarbeiter einer Wohltätigkeitsorganisation",
+     "Eine bezahlte Teilzeitkraft, die bei einer Hilfsorganisation oder einem Verein angestellt ist und ein kleines Gehalt bekommt",
      "Jemand, der aus freiem Willen und ohne bezahlt zu werden etwas im Dienst anderer oder der Gemeinschaft tut",
-     "Ein Angestellter der Regierung",
-     "Jemand, der per Gerichtsbeschluss helfen muss"
+     "Ein Staatsbeamter, der im Rahmen seiner Arbeit vom Staat gebeten wird, in Gemeinden, Schulen und Krankenhäusern zu helfen",
+     "Jemand, der der Gemeinschaft helfen muss, zum Beispiel auf gerichtliche Anordnung oder als Bedingung für staatliche Leistungen"
     ],
     "correct": 1,
     "explanation": "Ein Freiwilliger gibt die Zeit, die er möchte – ein wenig, viel, oder mit Leidenschaft – aus freiem Willen und ohne bezahlt zu werden, im Dienst anderer oder der Gemeinschaft."
@@ -2777,10 +2777,10 @@ const EPISODES = [
    {
     "text": "Welcher Anteil der luxemburgischen Bevölkerung hat 2022 ungefähr Freiwilligenarbeit geleistet?",
     "options": [
-     "Etwa 5 %",
-     "Etwa 70 %",
+     "Etwa 5 % – jeder Zwanzigste, womit Luxemburg zu den Schlusslichtern in Europa gehört",
+     "Etwa 70 % – mehr als zwei von drei Menschen, der höchste Anteil in ganz Europa",
      "Etwa 35 % – mehr als jeder Dritte, was Luxemburg auf Platz vier in Europa bringt",
-     "Etwa 10 %"
+     "Etwa 10 % – jeder Zehnte, ungefähr der europäische Durchschnitt zu dieser Zeit"
     ],
     "correct": 2,
     "explanation": "2022 haben etwa 35 % der Bevölkerung Freiwilligenarbeit geleistet – mehr als jeder Dritte – was Luxemburg auf Platz vier in ganz Europa brachte. Es gibt sogar jedes Jahr am 5. Dezember einen Tag des Ehrenamts."
@@ -2789,9 +2789,9 @@ const EPISODES = [
     "text": "Was ist die zentrale Organisation und Website für Freiwilligenarbeit in Luxemburg?",
     "options": [
      "Die Agence du Bénévolat, mit ihrer Website benevolat.lu",
-     "Nur das Rathaus der Gemeinde",
-     "Die ADEM, auf adem.lu",
-     "Das Finanzministerium"
+     "Das Rathaus jeder Gemeinde, ohne zentrale Website",
+     "Die ADEM, die Arbeitsagentur, mit ihrer Website adem.lu",
+     "Das Finanzministerium, über das Portal MyGuichet.lu"
     ],
     "correct": 0,
     "explanation": "Die Agence du Bénévolat fördert die Freiwilligenarbeit seit 2002. Ihre Website benevolat.lu ist ein Treffpunkt, an dem Vereine, die Hilfe suchen, und Menschen, die Zeit geben möchten, zueinanderfinden."
@@ -2799,10 +2799,10 @@ const EPISODES = [
    {
     "text": "Brauchen Sie eine langfristige Verpflichtung, um sich freiwillig zu engagieren?",
     "options": [
-     "Nur ganze Wochenenden, ein ganzes Jahr lang",
+     "Ja – Sie müssen sich ein ganzes Jahr lang für ganze Wochenenden verpflichten, weil die Vereine ihre Teams lange im Voraus planen müssen",
      "Nein – Sie geben die Zeit, die Sie möchten, und viele Einsätze sind einmalig oder kurz (ein Nachmittag, ein Tag, eine Veranstaltung)",
-     "Ja, mindestens ein Jahr",
-     "Ja, mindestens drei Monate"
+     "Ja, mindestens ein Jahr – kurze Einsätze von einem Nachmittag oder einem Tag gelten nicht als Freiwilligenarbeit",
+     "Ja, mindestens drei Monate, mit einem unterschriebenen Vertrag und einer festen Stundenzahl jede Woche"
     ],
     "correct": 1,
     "explanation": "Sie brauchen keine langfristige Verpflichtung. Viele Einsätze auf benevolat.lu gelten für eine einzige Veranstaltung oder einen einzigen Tag – bei einer Gala helfen, Streckenposten bei einem Rennen sein, den Grill übernehmen – so kann jeder mit einem vollen Alltag mitmachen."
@@ -2810,9 +2810,9 @@ const EPISODES = [
    {
     "text": "Welche einfache Methode schlägt die Folge vor, um als Freiwilliger anzufangen?",
     "options": [
-     "Zuerst einen Einjahresvertrag mit einem Verein unterschreiben",
-     "Warten, bis eine Organisation Sie per Post kontaktiert",
-     "Sich auf eine bezahlte Stelle bei der Agence du Bénévolat bewerben",
+     "Zuerst einen Einjahresvertrag mit einem Verein unterschreiben und dann warten, welcher Einsatz Ihnen zugeteilt wird",
+     "Warten, bis eine Organisation Sie per Post kontaktiert, da Freiwillige aus dem nationalen Register ausgewählt werden",
+     "Sich auf eine bezahlte Stelle bei der Agence du Bénévolat bewerben und deren mehrwöchige Schulung machen, bevor Sie irgendwo helfen dürfen",
      "Überlegen, was Ihnen Freude macht, sich kostenlos auf benevolat.lu registrieren, und Ihre Hilfe für einen Einsatz anbieten, der Ihnen gefällt"
     ],
     "correct": 3,
@@ -2838,10 +2838,10 @@ const EPISODES = [
    {
     "text": "Wéi gëtt e Benevole an der Episod definéiert?",
     "options": [
-     "E bezuelten Deelzäit-Mataarbechter vun enger Charity",
+     "Eng bezuelten Hallefzäitkraaft, déi bei enger karitativer Organisatioun oder engem Veräin ugestallt ass an e klenge Loun kritt",
      "Een, deen aus fräie Stécker an ouni bezuelt ze ginn eppes am Déngscht vun aneren oder vun der Gemeinschaft mécht",
-     "E Staatsbeamten",
-     "Een, dee vun engem Geriicht verflicht gëtt ze hëllefen"
+     "E Staatsbeamten, deen am Kader vu senger Aarbecht vum Staat gefrot gëtt, an de Gemengen, Schoulen a Spideeler ze hëllefen",
+     "Een, deen der Gemeinschaft muss hëllefen, zum Beispill op Uerder vun engem Geriicht oder als Konditioun fir Hëllefen ze kréien"
     ],
     "correct": 1,
     "explanation": "E Benevole gëtt d'Zäit, déi e wëllt – e bëssen, vill, oder mat Passioun – aus fräie Stécker an ouni bezuelt ze ginn, am Déngscht vun aneren oder vun der Gemeinschaft."
@@ -2849,10 +2849,10 @@ const EPISODES = [
    {
     "text": "Am Joer 2022, wéi e groussen Undeel vun der Lëtzebuerger Bevëlkerung huet ongeféier Benevolat gemaach?",
     "options": [
-     "Ongeféier 5%",
-     "Ongeféier 70%",
+     "Ongeféier 5 % – eng Persoun vun zwanzeg, domat ass Lëtzebuerg bei de Leschten an Europa",
+     "Ongeféier 70 % – méi wéi zwou Persoune vun dräi, den héchsten Undeel an ganz Europa",
      "Ongeféier 35% – méi wéi eng Persoun op dräi, wat Lëtzebuerg op déi véiert Plaz an Europa setzt",
-     "Ongeféier 10%"
+     "Ongeféier 10 % – eng Persoun vun zéng, ongeféier den europäeschen Duerchschnëtt zu där Zäit"
     ],
     "correct": 2,
     "explanation": "Am Joer 2022 hunn ongeféier 35% vun der Bevëlkerung Benevolat gemaach – méi wéi eng Persoun op dräi – wat Lëtzebuerg op déi véiert Plaz a ganz Europa gesat huet. Et gëtt souguer all 5. Dezember en Dag vum Benevolat."
@@ -2861,9 +2861,9 @@ const EPISODES = [
     "text": "Wat ass déi zentral Organisatioun a Websäit fir de Benevolat zu Lëtzebuerg?",
     "options": [
      "D'Agence du Bénévolat, mat hirer Websäit benevolat.lu",
-     "Nëmmen d'Gemengenhaus vun der Gemeng",
-     "D'ADEM, op adem.lu",
-     "De Finanzministère"
+     "D'Gemengenhaus vun all Gemeng, ouni zentral Websäit",
+     "D'ADEM, d'Aarbechtsagence, mat hirer Websäit adem.lu",
+     "De Finanzministère, iwwer de Portal MyGuichet.lu"
     ],
     "correct": 0,
     "explanation": "D'Agence du Bénévolat promouvéiert de Benevolat zanter 2002. Hir Websäit benevolat.lu ass eng Treffplaz, wou Associatiounen, déi Hëllef sichen, a Leit, déi Zäit gi wëllen, sech fannen."
@@ -2871,10 +2871,10 @@ const EPISODES = [
    {
     "text": "Braucht Dir e laangfristegt Engagement, fir Benevolat ze maachen?",
     "options": [
-     "Nëmme ganz Weekender, e ganzt Joer laang",
+     "Jo – Dir musst Iech e ganzt Joer fir ganz Weekender engagéieren, well d'Veräiner hir Ekippe laang am Viraus musse plangen",
      "Nee – Dir gitt d'Zäit, déi Dir wëllt, a vill Missioune sinn eemoleg oder kuerz (een Nomëtteg, een Dag, een Evenement)",
-     "Jo, op d'mannst ee Joer",
-     "Jo, op d'mannst dräi Méint"
+     "Jo, op d'mannst ee Joer – kuerz Missioune vun engem Nomëtteg oder engem Dag zielen net als Benevolat",
+     "Jo, op d'mannst dräi Méint, mat engem ënnerschriwwene Kontrakt an enger fixer Zuel u Stonnen all Woch"
     ],
     "correct": 1,
     "explanation": "Dir braucht kee laangt Engagement. Vill Missiounen op benevolat.lu si fir een eenzegt Evenement oder een eenzegen Dag – bei engem Gala hëllefen, Commissaire bei engem Rennen sinn, de Grill bedéngen – sou datt jiddereen mat engem voller Alldag ka matmaachen."
@@ -2882,9 +2882,9 @@ const EPISODES = [
    {
     "text": "Wéi eng einfach Method proposéiert d'Episod, fir als Benevole unzefänken?",
     "options": [
-     "Fir d'éischt e Kontrakt vun engem Joer mat enger Associatioun ënnerschreiwen",
-     "Waarden, bis eng Organisatioun Iech mat der Post kontaktéiert",
-     "Iech op eng bezuelte Plaz bei der Agence du Bénévolat mellen",
+     "Fir d'éischt e Kontrakt vun engem Joer mat engem Veräin ënnerschreiwen, an dann ofwaarden, wéi eng Missioun Dir kritt",
+     "Waarden, bis eng Organisatioun Iech per Post kontaktéiert, well d'Fräiwëlleg aus dem nationale Register ausgewielt ginn",
+     "Sech fir eng bezuelte Plaz bei der Agence du Bénévolat mellen an hir Formatioun vu puer Wochen maachen, ier Dir iergendwou hëllefe kënnt",
      "Iwwerleeën, wat Iech Freed mécht, Iech gratis op benevolat.lu umellen, an Är Hëllef fir eng Missioun ubidden, déi Iech gefält"
     ],
     "correct": 3,

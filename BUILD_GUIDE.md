@@ -12,6 +12,12 @@ Open `index.html` in a browser — it's a static site, no server needed.
 
 The site is served by **Railway** (project "proactive-fulfillment", service `bp-podcast`), auto-deployed from the GitHub repo `jinesch75/bp-podcast` (branch `main`) on every push. Live URL: https://bp-podcast-production.up.railway.app/ — GitHub Pages is NOT used. If a push doesn't show up, check the Railway dashboard: when deploys are paused ("Limited Access"), the site stays online with the last successful deployment.
 
+## Quiz quality (added 2026-09-30)
+
+- **Answer positions:** `node build/balance_quiz_answers.js --write` spreads the correct answers evenly over A–D (max 2× the same letter per episode; ~25% each overall) and applies the same reordering to `questions`, `questions_fr`, `questions_de`, `questions_lb`. Deterministic and idempotent. Run it after adding a new episode's quiz.
+- **No "longest answer" giveaway:** wrong answers are written to be as long and specific as the right one. Source of truth: `build/quiz_distractors/*.json` (per episode, per question, the 3 wrong answers in A→D order, per language); `node build/apply_quiz_distractors.js --write` puts them into `episodes_data.js` and reports how often the correct answer is still the longest (target ≈ 25%; 2026-09-30: EN 29%, FR 22%, DE 24%, LB 20%). For a new episode, add its wrong answers to a JSON file there.
+- After either script: `node build/bump_version.js` and `node build/make_review.js <keys>`.
+
 ## Browser caching (added 2026-09-29)
 
 File names never change, so browsers may keep playing/using an old cached copy after a deploy. Two safeguards:

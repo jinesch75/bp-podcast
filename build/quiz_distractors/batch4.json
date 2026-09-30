@@ -1,0 +1,785 @@
+{
+ "statec": [
+  {
+   "en": [
+    "A private market-research firm that sells consumer surveys to companies",
+    "The central bank of Luxembourg, which sets interest rates for the country",
+    "The national tax office, which collects income tax and publishes tax statistics"
+   ],
+   "fr": [
+    "Un institut privé d'études de marché qui vend des sondages aux entreprises",
+    "La banque centrale du Luxembourg, qui fixe les taux d'intérêt du pays",
+    "L'administration fiscale nationale, qui perçoit l'impôt et publie des statistiques fiscales"
+   ],
+   "de": [
+    "Ein privates Marktforschungsinstitut, das Verbraucherumfragen an Firmen verkauft",
+    "Die Zentralbank Luxemburgs, die die Zinssätze des Landes festlegt",
+    "Das nationale Steueramt, das Einkommensteuer einzieht und Steuerstatistiken veröffentlicht"
+   ]
+  },
+  {
+   "en": [
+    "The number of shops and supermarkets that open or close in the country each year",
+    "How many people live in Luxembourg, broken down by commune and nationality",
+    "The average temperature and rainfall, to see how the climate affects prices"
+   ],
+   "fr": [
+    "Le nombre de magasins et de supermarchés qui ouvrent ou qui ferment chaque année dans les différentes communes du pays",
+    "Le nombre de personnes vivant au Luxembourg, par commune et par nationalité",
+    "La température moyenne et les précipitations, pour voir l'effet du climat sur les prix"
+   ],
+   "de": [
+    "Die Zahl der Geschäfte und Supermärkte, die jedes Jahr im Land öffnen oder schließen",
+    "Wie viele Menschen in Luxemburg leben, nach Gemeinde und Nationalität",
+    "Die Durchschnittstemperatur und den Niederschlag in jeder Region, um den Einfluss des Klimas auf die Preise zu sehen"
+   ]
+  },
+  {
+   "en": [
+    "Setting the opening hours of shops on Sundays and holidays",
+    "Deciding the yearly bonus paid to public-sector employees",
+    "Fixing the maximum price of fuel at every petrol station in the country"
+   ],
+   "fr": [
+    "Fixer les heures d'ouverture des magasins le dimanche et les jours fériés",
+    "Décider de la prime annuelle versée aux employés du secteur public",
+    "Fixer le prix maximum du carburant dans chaque station-service du pays"
+   ],
+   "de": [
+    "Die Öffnungszeiten der Geschäfte an Sonn- und Feiertagen festlegen",
+    "Die jährliche Prämie für Beschäftigte im öffentlichen Dienst bestimmen",
+    "Den Höchstpreis für Kraftstoff an jeder Tankstelle des Landes festlegen"
+   ]
+  },
+  {
+   "en": [
+    "Only in a paid printed yearbook, sold in bookshops",
+    "Only at the Ministry of the Economy, in person and by appointment",
+    "Nowhere — official statistics are kept confidential by law"
+   ],
+   "fr": [
+    "Uniquement dans un annuaire imprimé payant, vendu en librairie",
+    "Uniquement au ministère de l'Économie, en personne et sur rendez-vous",
+    "Nulle part — les statistiques officielles sont confidentielles selon la loi"
+   ],
+   "de": [
+    "Nur in einem kostenpflichtigen gedruckten Jahrbuch aus dem Buchhandel",
+    "Nur im Wirtschaftsministerium, persönlich und mit Termin",
+    "Nirgendwo — offizielle Statistiken sind gesetzlich vertraulich"
+   ]
+  },
+  {
+   "en": [
+    "Nothing else — it only measures money and prices",
+    "The content of private bank accounts, household by household",
+    "Personal medical records, to follow the health of each resident"
+   ],
+   "fr": [
+    "Rien d'autre — il ne mesure que l'argent et les prix",
+    "Le contenu des comptes bancaires privés, ménage par ménage",
+    "Les dossiers médicaux personnels, pour suivre la santé de chaque résident"
+   ],
+   "de": [
+    "Nichts weiter — es misst nur Geld und Preise",
+    "Den Inhalt privater Bankkonten, Haushalt für Haushalt",
+    "Persönliche Krankenakten, um die Gesundheit jedes Einwohners zu verfolgen"
+   ]
+  }
+ ],
+ "environnement": [
+  {
+   "en": [
+    "An online shop for garden tools and plants",
+    "A weather app with daily forecasts only",
+    "A private nature club with paying members"
+   ],
+   "fr": [
+    "Une boutique en ligne d'outils de jardin et de plantes",
+    "Une application météo avec seulement des prévisions",
+    "Un club nature privé avec des membres payants"
+   ],
+   "de": [
+    "Ein Online-Shop für Gartengeräte und Pflanzen",
+    "Eine Wetter-App nur mit täglichen Vorhersagen",
+    "Ein privater Naturverein mit zahlenden Mitgliedern"
+   ]
+  },
+  {
+   "en": [
+    "Only forests and the protection of trees",
+    "Only waste collection and recycling centres",
+    "Only the weather forecast and storm warnings"
+   ],
+   "fr": [
+    "Uniquement les forêts et la protection des arbres",
+    "Uniquement la collecte des déchets et les recyparcs",
+    "Uniquement la météo et les alertes tempête"
+   ],
+   "de": [
+    "Nur Wälder und den Schutz der Bäume",
+    "Nur Müllabfuhr und Recyclingzentren",
+    "Nur die Wettervorhersage und Sturmwarnungen"
+   ]
+  },
+  {
+   "en": [
+    "A national football tournament for youth teams",
+    "A new tax on plastic packaging",
+    "A nature reserve in the north of the country"
+   ],
+   "fr": [
+    "Un tournoi national de football pour les jeunes",
+    "Une nouvelle taxe sur les emballages plastiques",
+    "Une réserve naturelle dans le nord du pays"
+   ],
+   "de": [
+    "Ein nationales Fußballturnier für Jugendteams",
+    "Eine neue Steuer auf Plastikverpackungen",
+    "Ein Naturschutzgebiet im Norden des Landes"
+   ]
+  },
+  {
+   "en": [
+    "Live football scores from the national league",
+    "Stock-market prices for environmental companies",
+    "The television programme of the national channels"
+   ],
+   "fr": [
+    "Les résultats de football en direct du championnat national de BGL Ligue",
+    "Les cours de bourse des entreprises environnementales",
+    "Le programme télé des chaînes nationales"
+   ],
+   "de": [
+    "Live-Fußballergebnisse und Tabellen der nationalen Liga",
+    "Börsenkurse von Umweltunternehmen",
+    "Das Fernsehprogramm der nationalen Sender"
+   ]
+  },
+  {
+   "en": [
+    "Nothing — it only lists rules, permits and fines",
+    "Buying more single-use plastic, because it is easy to recycle",
+    "Staying indoors during the day to avoid disturbing wild animals in the forest"
+   ],
+   "fr": [
+    "Rien — il ne liste que des règles, des autorisations et des amendes",
+    "Acheter plus de plastique à usage unique, car il se recycle facilement",
+    "Rester à l'intérieur la journée pour ne pas déranger les animaux sauvages en forêt"
+   ],
+   "de": [
+    "Nichts — es listet nur Regeln, Genehmigungen und Bußgelder auf",
+    "Mehr Einwegplastik kaufen, weil es sich leicht recyceln lässt",
+    "Tagsüber möglichst drinnen bleiben, um die Wildtiere im Wald nicht zu stören"
+   ]
+  }
+ ],
+ "syvicol": [
+  {
+   "en": [
+    "A national bank that lends money to the communes",
+    "A political party of mayors and local councillors",
+    "A supermarket chain owned by several communes"
+   ],
+   "fr": [
+    "Une banque nationale qui prête de l'argent aux communes",
+    "Un parti politique de maires et de conseillers communaux",
+    "Une chaîne de supermarchés appartenant à plusieurs communes"
+   ],
+   "de": [
+    "Eine nationale Bank, die den Gemeinden Geld leiht",
+    "Eine politische Partei von Bürgermeistern und Gemeinderäten",
+    "Eine Supermarktkette im Besitz mehrerer Gemeinden"
+   ]
+  },
+  {
+   "en": [
+    "10",
+    "1,000",
+    "Just 1"
+   ],
+   "fr": [
+    "10",
+    "1 000",
+    "Une seule"
+   ],
+   "de": [
+    "10",
+    "1.000",
+    "Nur 1"
+   ]
+  },
+  {
+   "en": [
+    "A foreign government from the Greater Region",
+    "A private consulting company",
+    "The European Central Bank"
+   ],
+   "fr": [
+    "Un gouvernement étranger de la Grande Région",
+    "Une société de conseil privée",
+    "La Banque centrale européenne"
+   ],
+   "de": [
+    "Eine ausländische Regierung aus der Großregion",
+    "Ein privates Beratungsunternehmen",
+    "Die Europäische Zentralbank"
+   ]
+  },
+  {
+   "en": [
+    "It writes all the laws itself and sends them to Parliament to be signed",
+    "It votes in Parliament with one seat for each commune in the country",
+    "It has no role at all; laws are made without asking the communes"
+   ],
+   "fr": [
+    "Il rédige lui-même toutes les lois et les envoie à la Chambre pour signature",
+    "Il vote à la Chambre des députés avec un siège pour chaque commune du pays",
+    "Il n'a aucun rôle ; les lois sont faites sans consulter les communes"
+   ],
+   "de": [
+    "Es schreibt alle Gesetze selbst und schickt sie der Abgeordnetenkammer zur Unterschrift",
+    "Es stimmt im Parlament mit, mit einem Sitz für jede Gemeinde des Landes",
+    "Es hat gar keine Rolle; Gesetze werden gemacht, ohne die Gemeinden zu fragen"
+   ]
+  },
+  {
+   "en": [
+    "Nothing else — it only meets once a year",
+    "Collects their local taxes and fees for them",
+    "Runs the communes' primary schools directly, with its own teachers"
+   ],
+   "fr": [
+    "Rien d'autre — il ne se réunit qu'une fois par an",
+    "Il perçoit à leur place leurs impôts et taxes locales",
+    "Il gère directement les écoles fondamentales des communes, avec ses propres enseignants"
+   ],
+   "de": [
+    "Nichts weiter — es trifft sich nur einmal im Jahr",
+    "Es zieht für sie ihre lokalen Steuern und Gebühren ein",
+    "Es führt die Grundschulen der Gemeinden direkt, mit eigenen Lehrkräften und Direktoren"
+   ]
+  }
+ ],
+ "research": [
+  {
+   "en": [
+    "A single private laboratory that sells research to companies",
+    "A university abroad that trains Luxembourg's scientists",
+    "A chain of technology shops selling the latest inventions"
+   ],
+   "fr": [
+    "Un laboratoire privé unique qui vend de la recherche aux entreprises",
+    "Une université à l'étranger qui forme les scientifiques luxembourgeois",
+    "Une chaîne de magasins technologiques qui vend les dernières inventions des chercheurs"
+   ],
+   "de": [
+    "Ein einzelnes privates Labor, das Forschung an Unternehmen verkauft",
+    "Eine Universität im Ausland, die im Auftrag des Staates die Wissenschaftler Luxemburgs ausbildet",
+    "Eine Kette von Technikläden, die die neuesten Erfindungen verkauft"
+   ]
+  },
+  {
+   "en": [
+    "The national football federation and its training centre",
+    "A supermarket chain with its own food laboratory",
+    "A bank that invests in start-ups and technology firms"
+   ],
+   "fr": [
+    "La fédération nationale de football et son centre de formation",
+    "Une chaîne de supermarchés avec son propre laboratoire alimentaire",
+    "Une banque qui investit dans les start-up et les entreprises technologiques"
+   ],
+   "de": [
+    "Der nationale Fußballverband und sein Trainingszentrum",
+    "Eine Supermarktkette mit eigenem Lebensmittellabor",
+    "Eine Bank, die gezielt in Start-ups und Technologiefirmen investiert"
+   ]
+  },
+  {
+   "en": [
+    "To build roads and bridges for the State",
+    "To sell technology products abroad",
+    "To run the country's hospitals and clinics"
+   ],
+   "fr": [
+    "Construire des routes et des ponts pour l'État",
+    "Vendre des produits technologiques à l'étranger",
+    "Gérer les hôpitaux et cliniques du pays"
+   ],
+   "de": [
+    "Straßen und Brücken für den Staat bauen",
+    "Technologieprodukte ins Ausland verkaufen",
+    "Die Krankenhäuser und Kliniken des Landes betreiben"
+   ]
+  },
+  {
+   "en": [
+    "A new shopping centre built on farmland outside the capital",
+    "A football stadium that hosts the national team's matches",
+    "An airport for small planes in the south of the country"
+   ],
+   "fr": [
+    "Un nouveau centre commercial construit sur des terres agricoles hors de la capitale",
+    "Un stade de football où joue l'équipe nationale",
+    "Un aéroport pour petits avions dans le sud du pays"
+   ],
+   "de": [
+    "Ein neues Einkaufszentrum mit Kino, das auf Ackerland außerhalb der Hauptstadt gebaut wurde",
+    "Ein Fußballstadion, in dem die Nationalmannschaft spielt",
+    "Ein Flugplatz für Kleinflugzeuge im Süden des Landes"
+   ]
+  },
+  {
+   "en": [
+    "It doesn't — it only produces articles for other researchers",
+    "It only helps people abroad, because the results are sold to other countries",
+    "It mainly raises taxes, because research is paid for by every household"
+   ],
+   "fr": [
+    "Elle n'a pas d'importance — elle ne produit que des articles pour d'autres chercheurs",
+    "Elle n'aide que des gens à l'étranger, car les résultats sont vendus à d'autres pays",
+    "Elle fait surtout augmenter les impôts, car chaque ménage paie la recherche"
+   ],
+   "de": [
+    "Gar nicht — sie produziert nur Artikel für andere Forschende",
+    "Sie hilft nur Menschen im Ausland, weil die Ergebnisse an andere Länder verkauft werden",
+    "Sie erhöht vor allem die Steuern, weil jeder Haushalt die Forschung bezahlt"
+   ]
+  }
+ ],
+ "agriculture": [
+  {
+   "en": [
+    "Only tractors and farm machines for sale",
+    "Only the weather forecast for farmers",
+    "Stock prices of food and drink companies"
+   ],
+   "fr": [
+    "Uniquement des tracteurs et machines agricoles à vendre",
+    "Uniquement la météo pour les agriculteurs",
+    "Les cours de bourse des entreprises alimentaires"
+   ],
+   "de": [
+    "Nur Traktoren und Landmaschinen zum Verkauf",
+    "Nur die Wettervorhersage für Landwirte",
+    "Aktienkurse von Lebensmittel- und Getränkefirmen"
+   ]
+  },
+  {
+   "en": [
+    "Keeping bees to produce honey",
+    "Raising cattle for milk and meat",
+    "The growing of wheat and other cereals"
+   ],
+   "fr": [
+    "L'élevage d'abeilles pour produire du miel",
+    "L'élevage de bovins pour le lait et la viande",
+    "La culture du blé et d'autres céréales"
+   ],
+   "de": [
+    "Das Halten von Bienen für Honig",
+    "Die Rinderzucht für Milch und Fleisch",
+    "Der Anbau von Weizen und anderem Getreide"
+   ]
+  },
+  {
+   "en": [
+    "A supermarket chain that sells only local farm products",
+    "A bank that gives loans to farmers for machines and land",
+    "A wine brand from the Moselle that belongs to a group of winegrowers"
+   ],
+   "fr": [
+    "Une chaîne de supermarchés qui ne vend que des produits de la ferme locaux, à des prix fixés par l'État",
+    "Une banque qui prête aux agriculteurs pour des machines et des terres",
+    "Une marque de vin de la Moselle appartenant à un groupe de vignerons"
+   ],
+   "de": [
+    "Eine Supermarktkette, die nur lokale Hofprodukte verkauft",
+    "Eine Bank, die Landwirten Kredite für Maschinen und Land gibt",
+    "Eine bekannte Weinmarke von der Mosel, die einer Genossenschaft von Winzern gehört"
+   ]
+  },
+  {
+   "en": [
+    "Only the market prices of farm animals when they are sold",
+    "Only wild animals living abroad, in other countries' forests",
+    "Nothing — it is only a guideline that farmers may follow if they wish"
+   ],
+   "fr": [
+    "Uniquement les prix de vente des animaux de ferme sur le marché",
+    "Uniquement les animaux sauvages vivant à l'étranger, dans les forêts d'autres pays",
+    "Rien — ce n'est qu'une recommandation que les agriculteurs suivent s'ils le veulent"
+   ],
+   "de": [
+    "Nur die Marktpreise von Nutztieren beim Verkauf",
+    "Nur Wildtiere im Ausland, in den Wäldern anderer Länder",
+    "Nichts — es ist nur eine Leitlinie, der Landwirte folgen können, wenn sie wollen"
+   ]
+  },
+  {
+   "en": [
+    "Never eat vegetables, so that farmers can keep more for animals",
+    "Only buy imported food, because it is always checked more strictly",
+    "Avoid all Luxembourg wine, so that winegrowers can export more of it abroad"
+   ],
+   "fr": [
+    "Ne jamais manger de légumes, pour que les agriculteurs en gardent plus pour les animaux",
+    "N'acheter que des aliments importés, car ils sont toujours mieux contrôlés",
+    "Éviter tout vin luxembourgeois, pour que les vignerons en exportent davantage"
+   ],
+   "de": [
+    "Nie Gemüse essen, damit Landwirte mehr für die Tiere behalten",
+    "Nur importierte Lebensmittel kaufen, weil sie immer strenger kontrolliert werden",
+    "Jeden luxemburgischen Wein meiden, damit die Winzer mehr exportieren können"
+   ]
+  }
+ ],
+ "amenagement": [
+  {
+   "en": [
+    "A way to design house interiors and choose furniture",
+    "A tax that owners pay on every plot of land",
+    "A type of farming that rotates crops between fields"
+   ],
+   "fr": [
+    "Une façon d'aménager l'intérieur des maisons, de choisir les meubles et les couleurs des pièces",
+    "Un impôt que les propriétaires paient sur chaque terrain",
+    "Un type d'agriculture qui fait tourner les cultures entre les champs"
+   ],
+   "de": [
+    "Eine Art, Innenräume zu gestalten und Möbel auszuwählen",
+    "Eine Steuer, die Eigentümer auf jedes Grundstück zahlen",
+    "Eine Form der Landwirtschaft mit regelmäßigem Fruchtwechsel zwischen den Feldern"
+   ]
+  },
+  {
+   "en": [
+    "Because the country has unlimited land for everyone",
+    "Because almost no one lives there outside the capital",
+    "Because it is only about attracting more tourists every year"
+   ],
+   "fr": [
+    "Parce que le pays a des terrains illimités pour tout le monde",
+    "Parce que presque personne n'y vit en dehors de la capitale",
+    "Parce qu'il s'agit seulement d'attirer plus de touristes chaque année"
+   ],
+   "de": [
+    "Weil das Land unbegrenzt Fläche für alle hat",
+    "Weil außerhalb der Hauptstadt fast niemand dort wohnt",
+    "Weil es nur darum geht, jedes Jahr noch mehr Touristen anzuziehen"
+   ]
+  },
+  {
+   "en": [
+    "Secret plans for the army and the defence of the country's borders and airspace",
+    "Plans that fix the dates of school holidays and public events in every commune",
+    "Private building plans that owners must submit before they renovate their house"
+   ],
+   "fr": [
+    "Des plans secrets pour l'armée et la défense des frontières et de l'espace aérien",
+    "Des plans qui fixent les dates des vacances scolaires et des événements dans chaque commune",
+    "Des plans de construction privés que les propriétaires doivent déposer à la commune avant de rénover ou d'agrandir leur maison"
+   ],
+   "de": [
+    "Geheime Pläne für die Armee und die Verteidigung der Grenzen und des Luftraums",
+    "Pläne, die in jeder Gemeinde die Termine der Schulferien, der Märkte und der öffentlichen Veranstaltungen festlegen",
+    "Private Baupläne, die Eigentümer vor der Renovierung ihres Hauses einreichen müssen"
+   ]
+  },
+  {
+   "en": [
+    "Spreading new buildings evenly everywhere, including far from roads and railways",
+    "Building mainly in forests, to keep farmland free for crops",
+    "Avoiding towns and villages, so that each new home stands on its own"
+   ],
+   "fr": [
+    "Répartir les nouveaux bâtiments partout dans le pays, même loin des routes, des gares et des services",
+    "Construire surtout en forêt, pour garder les terres agricoles libres",
+    "Éviter les villes et villages, pour que chaque nouvelle maison soit isolée"
+   ],
+   "de": [
+    "Neue Gebäude gleichmäßig überall verteilen, auch weit weg von Straßen, Bahnen und Geschäften",
+    "Vor allem im Wald bauen, um Ackerland für den Anbau frei zu halten",
+    "Städte und Dörfer meiden, damit jedes neue Haus für sich allein steht"
+   ]
+  },
+  {
+   "en": [
+    "They cannot — plans are decided by experts only",
+    "Only by moving to another commune if they disagree with a plan",
+    "Only by paying a fee to the ministry before giving their opinion"
+   ],
+   "fr": [
+    "Ils ne peuvent pas — les plans sont décidés uniquement par des experts",
+    "Seulement en déménageant dans une autre commune s'ils ne sont pas d'accord",
+    "Seulement en payant des frais au ministère avant de donner leur avis"
+   ],
+   "de": [
+    "Gar nicht — die Pläne werden nur von Fachleuten entschieden",
+    "Nur indem sie in eine andere Gemeinde ziehen, wenn sie nicht einverstanden sind",
+    "Nur indem sie dem Ministerium eine Gebühr zahlen, bevor sie ihre Meinung sagen"
+   ]
+  }
+ ],
+ "aaa": [
+  {
+   "en": [
+    "A private travel insurer for holidays abroad",
+    "A bank that lends money to injured workers",
+    "A driving school that teaches accident prevention on the road"
+   ],
+   "fr": [
+    "Un assureur voyage privé pour les vacances à l'étranger",
+    "Une banque qui prête de l'argent aux travailleurs blessés",
+    "Une auto-école nationale qui enseigne la prévention des accidents de la route"
+   ],
+   "de": [
+    "Ein privater Reiseversicherer für Urlaube im Ausland",
+    "Eine Bank, die verletzten Arbeitnehmern Geld leiht",
+    "Eine Fahrschule, die Unfallverhütung im Straßenverkehr für alle Altersgruppen unterrichtet"
+   ]
+  },
+  {
+   "en": [
+    "Only accidents at home, such as falls in the kitchen or garden",
+    "Only sports injuries in clubs, during official competitions",
+    "Only accidents abroad, during business trips for your employer outside Luxembourg"
+   ],
+   "fr": [
+    "Uniquement les accidents domestiques, comme les chutes dans la cuisine ou le jardin",
+    "Uniquement les blessures sportives en club, lors de compétitions officielles",
+    "Uniquement les accidents survenus à l'étranger, pendant des voyages d'affaires hors du Luxembourg"
+   ],
+   "de": [
+    "Nur Unfälle im Haushalt, etwa Stürze in Küche oder Garten",
+    "Nur Sportverletzungen im Verein, bei offiziellen Wettkämpfen",
+    "Nur Unfälle im Ausland, bei Dienstreisen für Ihren Arbeitgeber außerhalb Luxemburgs"
+   ]
+  },
+  {
+   "en": [
+    "Nothing — it only records the accident in a statistic",
+    "It fines you if the accident was your own fault",
+    "It only sends you a leaflet on safety at work and closes the file without any payment"
+   ],
+   "fr": [
+    "Rien — elle enregistre seulement l'accident dans une statistique",
+    "Elle vous inflige une amende si l'accident était de votre faute",
+    "Elle vous envoie seulement une brochure sur la sécurité au travail, puis clôt le dossier sans rien vous payer"
+   ],
+   "de": [
+    "Nichts — sie erfasst den Unfall nur in einer Statistik",
+    "Sie verhängt ein Bußgeld, wenn Sie selbst schuld waren",
+    "Sie schickt Ihnen nur eine Broschüre zur Arbeitssicherheit und schließt die Akte dann ganz ohne Zahlung"
+   ]
+  },
+  {
+   "en": [
+    "By a special tax on food and drinks",
+    "By selling tickets for safety courses",
+    "By the European Union only, through its social fund"
+   ],
+   "fr": [
+    "Par une taxe spéciale sur les aliments et les boissons",
+    "Par la vente de billets pour des cours de sécurité",
+    "Uniquement par l'Union européenne, via son fonds social"
+   ],
+   "de": [
+    "Durch eine Sondersteuer auf Lebensmittel und Getränke",
+    "Durch den Verkauf von Tickets für Sicherheitskurse",
+    "Nur durch die Europäische Union, über ihren Sozialfonds"
+   ]
+  },
+  {
+   "en": [
+    "Nothing — it acts automatically, with no paperwork at all",
+    "You must first go to court and win a case against your employer",
+    "You must pay a fee first, and wait at least six months before the AAA looks at the accident"
+   ],
+   "fr": [
+    "Rien — elle agit automatiquement, sans aucun papier",
+    "Vous devez d'abord aller au tribunal et gagner un procès contre votre employeur",
+    "Vous devez d'abord payer des frais et attendre au moins six mois avant que l'AAA examine l'accident"
+   ],
+   "de": [
+    "Nichts — sie handelt automatisch, ganz ohne Papierkram",
+    "Sie müssen zuerst vor Gericht gehen und gegen Ihren Arbeitgeber gewinnen",
+    "Sie müssen zuerst eine Gebühr zahlen und mindestens sechs Monate warten, bevor die AAA den Unfall prüft"
+   ]
+  }
+ ],
+ "geoportail": [
+  {
+   "en": [
+    "A social network for sharing holiday photos",
+    "A food-delivery app for Luxembourg City",
+    "A private map company that charges per search"
+   ],
+   "fr": [
+    "Un réseau social pour partager des photos de vacances",
+    "Une application de livraison de repas à Luxembourg-Ville",
+    "Une entreprise privée de cartes qui fait payer chaque recherche"
+   ],
+   "de": [
+    "Ein soziales Netzwerk für Urlaubsfotos",
+    "Eine Essenslieferungs-App für Luxemburg-Stadt",
+    "Eine private Kartenfirma, die für jede Suche Geld verlangt"
+   ]
+  },
+  {
+   "en": [
+    "Only road directions and traffic jams for drivers",
+    "Only the capital city, street by street",
+    "Only the weather radar and rain forecasts"
+   ],
+   "fr": [
+    "Uniquement des itinéraires et des informations sur les bouchons pour les conducteurs, sans aucune autre couche de carte",
+    "Uniquement la capitale, rue par rue",
+    "Uniquement le radar météo et les prévisions de pluie"
+   ],
+   "de": [
+    "Nur Routen und Staus für Autofahrer",
+    "Nur die Hauptstadt, Straße für Straße",
+    "Nur das Wetterradar, Regenvorhersagen und Unwetterwarnungen für die nächsten drei Tage"
+   ]
+  },
+  {
+   "en": [
+    "The opening hours of shops and public offices in each commune",
+    "Bus and train timetables for the whole country",
+    "The menus and prices of restaurants, street by street, updated by the owners every week"
+   ],
+   "fr": [
+    "Les heures d'ouverture des magasins et des bureaux publics dans chaque commune",
+    "Les horaires des bus et des trains pour tout le pays",
+    "Les menus et les prix des restaurants, rue par rue, mis à jour par les propriétaires chaque semaine"
+   ],
+   "de": [
+    "Die Öffnungszeiten von Geschäften und Ämtern in jeder Gemeinde",
+    "Bus- und Zugfahrpläne für das ganze Land",
+    "Die Speisekarten und Preise von Restaurants, Straße für Straße, jede Woche von den Besitzern aktualisiert"
+   ]
+  },
+  {
+   "en": [
+    "None — you can only look at a fixed map",
+    "Online banking and bill payments",
+    "Video games based on Luxembourg's landscapes"
+   ],
+   "fr": [
+    "Aucun — on ne peut regarder qu'une carte fixe",
+    "La banque en ligne et le paiement de factures",
+    "Des jeux vidéo et des quiz basés sur les paysages et les monuments du Luxembourg"
+   ],
+   "de": [
+    "Keine — man kann nur eine feste Karte ansehen",
+    "Online-Banking und das Bezahlen von Rechnungen",
+    "Videospiele und Online-Quiz auf Basis der Landschaften und Denkmäler Luxemburgs"
+   ]
+  },
+  {
+   "en": [
+    "To keep it secret from everyone except the ministries",
+    "To sell it at high prices to foreign companies",
+    "It is not open at all; only civil servants can see the maps and download the data"
+   ],
+   "fr": [
+    "Pour la garder secrète pour tous sauf les ministères",
+    "Pour la vendre très cher à des entreprises étrangères",
+    "Elles ne sont pas ouvertes du tout ; seuls les fonctionnaires des ministères peuvent voir les cartes et télécharger les données"
+   ],
+   "de": [
+    "Um sie vor allen außer den Ministerien geheim zu halten",
+    "Um sie teuer an ausländische Firmen zu verkaufen",
+    "Sie sind gar nicht offen; nur Beamte der Ministerien können die Karten sehen und die Daten herunterladen"
+   ]
+  }
+ ],
+ "govcert": [
+  {
+   "en": [
+    "The national weather service, which also issues storm alerts",
+    "A bank's security department for online payments",
+    "A chain of phone shops that repairs hacked phones"
+   ],
+   "fr": [
+    "Le service météo national, qui émet aussi les alertes tempête",
+    "Le service de sécurité d'une banque pour les paiements en ligne",
+    "Une chaîne de magasins de téléphonie qui répare les téléphones piratés"
+   ],
+   "de": [
+    "Der nationale Wetterdienst, der auch Sturm- und Hochwasserwarnungen herausgibt",
+    "Die Sicherheitsabteilung einer Bank für Online-Zahlungen",
+    "Eine Handyladenkette, die gehackte Telefone repariert"
+   ]
+  },
+  {
+   "en": [
+    "Only video-game servers hosted in Luxembourg",
+    "Only foreign companies with offices in the country",
+    "Only social media accounts of politicians and ministers during elections"
+   ],
+   "fr": [
+    "Uniquement les serveurs de jeux vidéo hébergés au Luxembourg",
+    "Uniquement les entreprises étrangères ayant des bureaux dans le pays",
+    "Uniquement les comptes de réseaux sociaux des responsables politiques pendant les élections"
+   ],
+   "de": [
+    "Nur Videospiel-Server, die in Luxemburg gehostet werden",
+    "Nur ausländische Firmen mit Büros im Land",
+    "Nur die Social-Media-Konten von Politikern und Ministern während der Wahlkämpfe"
+   ]
+  },
+  {
+   "en": [
+    "Only the job of IT experts and specialists",
+    "Impossible to achieve in today's world",
+    "Only a concern for big companies and banks"
+   ],
+   "fr": [
+    "Uniquement l'affaire des experts informatiques",
+    "Impossible à atteindre dans le monde actuel",
+    "Uniquement un souci pour les grandes entreprises et les banques"
+   ],
+   "de": [
+    "Nur Sache von IT-Experten und Spezialisten",
+    "In der heutigen vernetzten Welt unmöglich zu erreichen",
+    "Nur ein Thema für große Firmen und Banken"
+   ]
+  },
+  {
+   "en": [
+    "A fishing sport practised on rivers, with special nets",
+    "A computer game in which players hunt for hidden passwords",
+    "An official weather warning sent by SMS when heavy rain is expected in your area"
+   ],
+   "fr": [
+    "Un sport de pêche pratiqué en rivière, avec des filets spéciaux",
+    "Un jeu vidéo dans lequel les joueurs cherchent des mots de passe cachés",
+    "Une alerte météo officielle envoyée par SMS quand de fortes pluies sont attendues dans votre région"
+   ],
+   "de": [
+    "Ein Angelsport an Flüssen, mit speziellen Netzen",
+    "Ein Computerspiel, in dem Spieler versteckte Passwörter suchen",
+    "Eine offizielle Wetterwarnung per SMS, wenn in Ihrer Gegend Starkregen oder Gewitter erwartet werden"
+   ]
+  },
+  {
+   "en": [
+    "Click every link in a message immediately, so you don't miss anything important",
+    "Share your passwords with colleagues, so work can continue when you are away",
+    "Ignore software updates, because they slow down your devices and change your settings without asking"
+   ],
+   "fr": [
+    "Cliquer tout de suite sur chaque lien d'un message, pour ne rien manquer d'important",
+    "Partager vos mots de passe avec vos collègues, pour que le travail continue en votre absence",
+    "Ignorer les mises à jour, car elles ralentissent vos appareils et changent vos réglages sans vous demander votre avis"
+   ],
+   "de": [
+    "Sofort auf jeden Link in einer Nachricht klicken, damit Sie nichts Wichtiges verpassen",
+    "Ihre Passwörter mit Kollegen teilen, damit die Arbeit weitergeht, wenn Sie weg sind",
+    "Updates ignorieren, weil sie Ihre Geräte verlangsamen und ungefragt Ihre Einstellungen und Programme ändern"
+   ]
+  }
+ ]
+}

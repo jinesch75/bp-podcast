@@ -1,0 +1,810 @@
+{
+ "culture": [
+  {
+   "en": [
+    "A cooking website with traditional Luxembourg recipes",
+    "A bank that lends money to artists and theatres",
+    "A weather app that tells you if an outdoor concert will be cancelled because of rain"
+   ],
+   "fr": [
+    "Un site de cuisine avec des recettes traditionnelles luxembourgeoises",
+    "Une banque qui prête de l'argent aux artistes et aux théâtres",
+    "Une appli météo qui vous dit si un concert en plein air sera annulé à cause de la pluie"
+   ],
+   "de": [
+    "Eine Kochwebsite mit traditionellen luxemburgischen Rezepten",
+    "Eine Bank, die Künstlern und Theatern Geld leiht",
+    "Eine Wetter-App, die Ihnen sagt, ob ein Open-Air-Konzert wegen Regen abgesagt wird"
+   ]
+  },
+  {
+   "en": [
+    "An online shop selling concert and theatre tickets at a discount",
+    "A tax form for artists who earn money from performances",
+    "A map of the roads and car parks near the main concert halls"
+   ],
+   "fr": [
+    "Une boutique en ligne qui vend des billets de concert et de théâtre à prix réduit",
+    "Un formulaire fiscal pour les artistes qui gagnent de l'argent avec leurs spectacles",
+    "Une carte des routes et des parkings près des grandes salles de concert"
+   ],
+   "de": [
+    "Ein Online-Shop, der Konzert- und Theaterkarten mit Rabatt verkauft",
+    "Ein Steuerformular für Künstler, die mit Auftritten Geld verdienen",
+    "Eine Karte der Straßen und Parkplätze rund um die großen Konzertsäle"
+   ]
+  },
+  {
+   "en": [
+    "Yes, only the capital, where most museums and theatres are",
+    "No — it only covers foreign cities close to the border",
+    "It covers only one big national museum and its programme of exhibitions"
+   ],
+   "fr": [
+    "Oui, seulement la capitale, où se trouvent la plupart des musées et théâtres",
+    "Non — il couvre seulement les villes étrangères proches de la frontière",
+    "Il ne couvre qu'un seul grand musée national et son programme d'expositions"
+   ],
+   "de": [
+    "Ja, nur die Hauptstadt, wo die meisten Museen und Theater sind",
+    "Nein — es deckt nur ausländische Städte nahe der Grenze ab",
+    "Es deckt nur ein einziges großes Nationalmuseum und sein Ausstellungsprogramm ab"
+   ]
+  },
+  {
+   "en": [
+    "Nothing else — only this week's concerts",
+    "Stock prices of the big media companies",
+    "Bus and train tickets to reach the events for free"
+   ],
+   "fr": [
+    "Rien d'autre — seulement les concerts de la semaine",
+    "Les cours de bourse des grands groupes de médias",
+    "Des billets de bus et de train pour aller gratuitement à tous les événements culturels"
+   ],
+   "de": [
+    "Nichts weiter — nur die Konzerte dieser Woche",
+    "Die Börsenkurse der großen Medienkonzerne",
+    "Bus- und Zugtickets, um kostenlos zu den Veranstaltungen zu fahren"
+   ]
+  },
+  {
+   "en": [
+    "No one else — it is only for people who go to events",
+    "Only tourists abroad who are planning a holiday in Luxembourg",
+    "Only banks and sponsors who want to advertise at festivals and concerts in the country"
+   ],
+   "fr": [
+    "Personne d'autre — il est seulement pour ceux qui vont aux événements",
+    "Seulement les touristes à l'étranger qui préparent des vacances au Luxembourg",
+    "Seulement les banques et les sponsors qui veulent faire de la publicité lors des festivals et concerts du pays"
+   ],
+   "de": [
+    "Niemand sonst — es ist nur für Menschen, die Veranstaltungen besuchen",
+    "Nur Touristen im Ausland, die einen Urlaub in Luxemburg planen",
+    "Nur Banken und Sponsoren, die auf Festivals und Konzerten im ganzen Land werben wollen"
+   ]
+  }
+ ],
+ "demenz": [
+  {
+   "en": [
+    "A care home for people with memory problems",
+    "A pharmacy that sells dementia medicine",
+    "A specialised hospital ward where people with dementia are treated and live for several months"
+   ],
+   "fr": [
+    "Une maison de soins pour personnes ayant des troubles de la mémoire",
+    "Une pharmacie qui vend des médicaments contre la démence",
+    "Un service hospitalier spécialisé où les personnes atteintes de démence sont soignées et vivent plusieurs mois"
+   ],
+   "de": [
+    "Ein Pflegeheim für Menschen mit Gedächtnisproblemen",
+    "Eine Apotheke, die Demenzmedikamente verkauft",
+    "Eine spezialisierte Krankenhausstation, auf der Menschen mit Demenz behandelt werden und mehrere Monate leben"
+   ]
+  },
+  {
+   "en": [
+    "A monthly fee",
+    "A fee per visit",
+    "Only the first visit is free"
+   ],
+   "fr": [
+    "Un forfait mensuel",
+    "Des frais par visite",
+    "Seule la première visite est gratuite"
+   ],
+   "de": [
+    "Eine Monatsgebühr",
+    "Eine Gebühr pro Besuch",
+    "Nur der erste Besuch ist kostenlos"
+   ]
+  },
+  {
+   "en": [
+    "Every memory slip, like forgetting your keys, is an early sign of dementia",
+    "Nothing can be understood about dementia, so it is better not to talk about it",
+    "Only doctors may talk about dementia; families should not ask questions about it"
+   ],
+   "fr": [
+    "Chaque trou de mémoire, comme oublier ses clés, est un premier signe de démence",
+    "On ne peut rien comprendre à la démence, donc mieux vaut ne pas en parler",
+    "Seuls les médecins peuvent parler de démence ; les familles et les proches ne devraient pas poser de questions"
+   ],
+   "de": [
+    "Jeder kleine Aussetzer, etwa vergessene Schlüssel oder Namen, ist schon ein frühes Zeichen von Demenz",
+    "Man kann Demenz nicht verstehen, deshalb spricht man besser nicht darüber",
+    "Nur Ärzte dürfen über Demenz sprechen; Familien sollten keine Fragen stellen"
+   ]
+  },
+  {
+   "en": [
+    "Only doctors and nurses who need training",
+    "Only children who are worried about a grandparent",
+    "Only employers whose staff care for a relative with dementia"
+   ],
+   "fr": [
+    "Seulement les médecins et infirmiers qui ont besoin d'une formation",
+    "Seulement les enfants inquiets pour un grand-parent",
+    "Seulement les employeurs dont des salariés s'occupent d'un proche atteint de démence"
+   ],
+   "de": [
+    "Nur Ärzte und Pflegekräfte, die eine Schulung brauchen",
+    "Nur Kinder, die sich um einen Großelternteil sorgen",
+    "Nur Arbeitgeber, deren Mitarbeiter einen Angehörigen mit Demenz pflegen"
+   ]
+  },
+  {
+   "en": [
+    "No, never — it depends only on your genes",
+    "Only by moving to a country with a warmer climate",
+    "Only with expensive medicine that you take every day from the age of forty"
+   ],
+   "fr": [
+    "Non, jamais — cela dépend uniquement des gènes",
+    "Seulement en déménageant dans un pays au climat plus chaud",
+    "Seulement avec des médicaments coûteux à prendre chaque jour dès quarante ans"
+   ],
+   "de": [
+    "Nein, nie — es hängt nur von den Genen ab",
+    "Nur durch einen Umzug in ein Land mit wärmerem Klima",
+    "Nur mit teuren Medikamenten, die man ab vierzig jeden Tag nimmt"
+   ]
+  }
+ ],
+ "ess": [
+  {
+   "en": [
+    "Companies whose only goal is to make as much profit as possible for their shareholders",
+    "Organisations that avoid paid work and rely only on volunteers",
+    "Only the large banks that invest in social projects abroad"
+   ],
+   "fr": [
+    "Des entreprises dont le seul but est de faire le plus de profit possible pour leurs actionnaires et leurs dirigeants",
+    "Des organisations qui évitent l'emploi salarié et comptent uniquement sur des bénévoles",
+    "Seulement les grandes banques qui investissent dans des projets sociaux à l'étranger"
+   ],
+   "de": [
+    "Unternehmen, deren einziges Ziel möglichst viel Gewinn für ihre Aktionäre und ihre Manager ist",
+    "Organisationen, die bezahlte Arbeit vermeiden und nur auf Freiwillige setzen",
+    "Nur die großen Banken, die in Sozialprojekte im Ausland investieren"
+   ]
+  },
+  {
+   "en": [
+    "Only stock-market traders who invest in green companies",
+    "Only foreign firms that open a branch in Luxembourg",
+    "Only government ministries and public administrations, such as the Ministry of Labour"
+   ],
+   "fr": [
+    "Seulement les traders qui investissent dans des entreprises vertes",
+    "Seulement les entreprises étrangères qui ouvrent une filiale au Luxembourg",
+    "Seulement les ministères et les administrations publiques, comme le ministère du Travail"
+   ],
+   "de": [
+    "Nur Börsenhändler, die in grüne Unternehmen investieren",
+    "Nur ausländische Firmen, die eine Niederlassung in Luxemburg eröffnen",
+    "Nur Ministerien und öffentliche Verwaltungen, etwa das Arbeitsministerium oder die ADEM"
+   ]
+  },
+  {
+   "en": [
+    "A company that is allowed to avoid taxes because it gives to charity",
+    "A special bank account for donations to associations",
+    "A government ministry in charge of social projects and charities across the country"
+   ],
+   "fr": [
+    "Une entreprise autorisée à éviter l'impôt parce qu'elle fait des dons",
+    "Un compte bancaire spécial pour les dons aux associations",
+    "Un ministère chargé des projets sociaux et des œuvres caritatives dans tout le pays"
+   ],
+   "de": [
+    "Ein Unternehmen, das Steuern vermeiden darf, weil es spendet",
+    "Ein spezielles Bankkonto für Spenden an Vereine",
+    "Ein Ministerium, das im ganzen Land für alle Sozialprojekte und Hilfswerke zuständig ist"
+   ]
+  },
+  {
+   "en": [
+    "Nothing useful for residents",
+    "It mainly raises prices for consumers",
+    "It only helps people abroad, through projects in developing countries far from Luxembourg"
+   ],
+   "fr": [
+    "Rien d'utile pour les résidents",
+    "Elle fait surtout monter les prix pour les consommateurs",
+    "Elle n'aide que des gens à l'étranger, par des projets dans des pays en développement loin du Luxembourg"
+   ],
+   "de": [
+    "Nichts Nützliches für die Einwohner",
+    "Sie erhöht vor allem die Preise für Verbraucher",
+    "Sie hilft nur Menschen im Ausland, durch Projekte in Entwicklungsländern weit weg von Luxemburg"
+   ]
+  },
+  {
+   "en": [
+    "It doesn't — it only lists existing organisations",
+    "It only sells products made by social enterprises",
+    "It only works for people who live abroad and want to invest in Luxembourg"
+   ],
+   "fr": [
+    "Il n'aide pas — il liste seulement les organisations existantes",
+    "Il vend seulement des produits fabriqués par des entreprises sociales",
+    "Il ne fonctionne que pour des personnes vivant à l'étranger qui veulent investir au Luxembourg"
+   ],
+   "de": [
+    "Gar nicht — es listet nur bestehende Organisationen auf",
+    "Es verkauft nur Produkte von Sozialunternehmen",
+    "Es funktioniert nur für Menschen im Ausland, die in Luxemburg investieren wollen"
+   ]
+  }
+ ],
+ "luxinnovation": [
+  {
+   "en": [
+    "A supermarket chain with new products",
+    "A bank for technology start-ups",
+    "A science museum for school classes"
+   ],
+   "fr": [
+    "Une chaîne de supermarchés aux produits nouveaux",
+    "Une banque pour les start-up technologiques",
+    "Un musée des sciences pour les classes"
+   ],
+   "de": [
+    "Eine Supermarktkette mit neuen Produkten",
+    "Eine Bank für Technologie-Start-ups",
+    "Ein Wissenschaftsmuseum für Schulklassen"
+   ]
+  },
+  {
+   "en": [
+    "Only the government and its ministries",
+    "Only farmers abroad who export to Luxembourg",
+    "Only banks that want to develop new mobile banking apps for their clients"
+   ],
+   "fr": [
+    "Seulement le gouvernement et ses ministères",
+    "Seulement les agriculteurs étrangers qui exportent vers le Luxembourg",
+    "Seulement les banques qui veulent créer de nouvelles applis bancaires pour leurs clients"
+   ],
+   "de": [
+    "Nur die Regierung und ihre Ministerien",
+    "Nur Landwirte im Ausland, die nach Luxemburg exportieren",
+    "Nur Banken, die neue Banking-Apps für ihre Privatkunden entwickeln wollen"
+   ]
+  },
+  {
+   "en": [
+    "A fitness club for people working in start-ups",
+    "A charity running race held every year in Luxembourg City",
+    "A special tax on new companies in their first four years of activity"
+   ],
+   "fr": [
+    "Un club de fitness pour les personnes travaillant dans des start-up",
+    "Une course caritative organisée chaque année à Luxembourg-Ville",
+    "Une taxe spéciale sur les nouvelles entreprises pendant leurs quatre premières années"
+   ],
+   "de": [
+    "Ein Fitnessstudio für Menschen, die in Start-ups arbeiten",
+    "Ein Benefizlauf, der jedes Jahr in Luxemburg-Stadt stattfindet",
+    "Eine Sondersteuer auf neue Unternehmen in ihren ersten vier Geschäftsjahren"
+   ]
+  },
+  {
+   "en": [
+    "It lends only its own money, at normal bank interest rates",
+    "It doesn't help with funding at all; it only gives advice on marketing",
+    "It only gives cash prizes at an annual competition for the best invention"
+   ],
+   "fr": [
+    "Il prête seulement son propre argent, aux taux d'intérêt bancaires normaux",
+    "Il n'aide pas du tout pour le financement ; il conseille seulement sur le marketing",
+    "Il donne seulement des prix en argent lors d'un concours annuel qui récompense la meilleure invention"
+   ],
+   "de": [
+    "Sie verleiht nur eigenes Geld, zu normalen Bankzinsen",
+    "Sie hilft gar nicht bei der Finanzierung; sie berät nur zum Marketing",
+    "Sie vergibt nur Geldpreise bei einem jährlichen Wettbewerb, der die beste Erfindung auszeichnet"
+   ]
+  },
+  {
+   "en": [
+    "It doesn't — innovation only matters for big companies",
+    "It only helps other countries, which buy Luxembourg's ideas",
+    "It mainly raises taxes, because the State pays for every new project and invention"
+   ],
+   "fr": [
+    "Elle n'a pas d'importance — l'innovation ne concerne que les grandes entreprises",
+    "Elle n'aide que les autres pays, qui achètent les idées du Luxembourg",
+    "Elle fait surtout monter les impôts, car l'État paie chaque nouveau projet et invention"
+   ],
+   "de": [
+    "Gar nicht — Innovation ist nur für große Firmen wichtig",
+    "Sie hilft nur anderen Ländern, die Luxemburgs Ideen kaufen",
+    "Sie erhöht vor allem die Steuern, weil der Staat jedes neue Projekt und jede Erfindung bezahlt"
+   ]
+  }
+ ],
+ "logement": [
+  {
+   "en": [
+    "A property-sales agency run by the State",
+    "A bank that gives housing loans",
+    "A furniture shop with discounts for new residents"
+   ],
+   "fr": [
+    "Une agence de vente immobilière gérée par l'État",
+    "Une banque qui accorde des prêts logement",
+    "Un magasin de meubles avec des réductions pour les nouveaux résidents"
+   ],
+   "de": [
+    "Eine staatliche Immobilienverkaufsagentur",
+    "Eine Bank, die Wohnungskredite vergibt",
+    "Ein Möbelgeschäft mit Rabatten für neue Einwohner"
+   ]
+  },
+  {
+   "en": [
+    "A subsidy for renters who buy an electric car",
+    "Free holidays for families living in social housing",
+    "Nothing — the portal is only for buyers and owners, not for renters"
+   ],
+   "fr": [
+    "Une aide pour les locataires qui achètent une voiture électrique",
+    "Des vacances gratuites pour les familles en logement social",
+    "Rien — le portail est seulement pour les acheteurs et les propriétaires, pas pour les locataires"
+   ],
+   "de": [
+    "Ein Zuschuss für Mieter, die ein Elektroauto kaufen",
+    "Kostenloser Urlaub für Familien in Sozialwohnungen",
+    "Nichts — das Portal ist nur für Käufer und Eigentümer, nicht für Mieter"
+   ]
+  },
+  {
+   "en": [
+    "Only advice on how to sell your home quickly and at the highest possible price",
+    "Only grants for luxury renovations such as swimming pools and saunas",
+    "None — owners and buyers must go to their bank, because the State gives no help at all"
+   ],
+   "fr": [
+    "Seulement des conseils pour vendre votre logement vite et au prix le plus élevé",
+    "Seulement des aides pour des rénovations de luxe comme des piscines et des saunas",
+    "Aucune — les propriétaires et les acheteurs doivent s'adresser à leur banque, car l'État ne les aide pas du tout"
+   ],
+   "de": [
+    "Nur Tipps, wie man seine Wohnung oder sein Haus schnell und zum höchstmöglichen Preis verkauft",
+    "Nur Zuschüsse für Luxusrenovierungen wie Schwimmbäder und Saunen",
+    "Keine — Eigentümer und Käufer müssen zur Bank, weil der Staat gar nicht hilft"
+   ]
+  },
+  {
+   "en": [
+    "It sells houses and apartments built by the State",
+    "It sends workers to repair roofs and heating systems",
+    "It organises driving lessons for people who move to rural communes"
+   ],
+   "fr": [
+    "Il vend des maisons et des appartements construits par l'État",
+    "Il envoie des ouvriers réparer les toits et les chauffages",
+    "Il organise des leçons de conduite pour les personnes qui s'installent dans des communes rurales"
+   ],
+   "de": [
+    "Er verkauft vom Staat gebaute Häuser und Wohnungen",
+    "Er schickt Handwerker, die Dächer und Heizungen reparieren",
+    "Er organisiert Fahrstunden für Menschen, die aus der Stadt in ländliche Gemeinden ziehen"
+   ]
+  },
+  {
+   "en": [
+    "Fewer homes, to protect the countryside",
+    "Mainly luxury homes for international residents",
+    "Selling public land abroad to investors, so that the State can pay for its projects"
+   ],
+   "fr": [
+    "Moins de logements, pour protéger la campagne",
+    "Surtout des logements de luxe pour des résidents internationaux",
+    "Vendre des terrains publics à des investisseurs étrangers, pour que l'État finance ses projets"
+   ],
+   "de": [
+    "Weniger Wohnungen, um die Landschaft zu schützen",
+    "Vor allem Luxuswohnungen für internationale Einwohner",
+    "Öffentliches Land an ausländische Investoren verkaufen, damit der Staat seine Projekte bezahlen kann"
+   ]
+  }
+ ],
+ "space": [
+  {
+   "en": [
+    "Sells telescopes to schools",
+    "Runs Luxembourg's airport and air traffic",
+    "Builds houses using new materials tested in space"
+   ],
+   "fr": [
+    "Elle vend des télescopes aux écoles",
+    "Elle gère l'aéroport et le trafic aérien du Luxembourg",
+    "Elle construit des maisons avec des matériaux testés dans l'espace"
+   ],
+   "de": [
+    "Sie verkauft Teleskope an Schulen",
+    "Sie betreibt Luxemburgs Flughafen und den Luftverkehr",
+    "Sie baut Häuser mit neuen, im Weltraum getesteten Materialien"
+   ]
+  },
+  {
+   "en": [
+    "Only last year, with its first astronaut",
+    "In the Middle Ages, with its first observatory",
+    "It hasn't yet — it only plans to join the sector in the next ten years"
+   ],
+   "fr": [
+    "L'an dernier seulement, avec son premier astronaute",
+    "Au Moyen Âge, avec son premier observatoire",
+    "Il ne l'a pas encore fait — il prévoit seulement d'y entrer dans les dix prochaines années"
+   ],
+   "de": [
+    "Erst letztes Jahr, mit seinem ersten Astronauten",
+    "Im Mittelalter, mit seiner ersten Sternwarte",
+    "Noch gar nicht — es plant erst, in den nächsten zehn Jahren einzusteigen"
+   ]
+  },
+  {
+   "en": [
+    "It has disappeared since the satellite company left",
+    "It has stayed exactly the same since the 1980s",
+    "It has moved abroad, because the companies went to bigger countries with more money"
+   ],
+   "fr": [
+    "Il a disparu depuis le départ de la société de satellites",
+    "Il est resté exactement le même depuis les années 1980",
+    "Il est parti à l'étranger, car les entreprises sont allées dans de plus grands pays avec plus d'argent"
+   ],
+   "de": [
+    "Er ist verschwunden, seit die Satellitenfirma weggezogen ist",
+    "Er ist seit den 1980er-Jahren genau gleich geblieben",
+    "Er ist ins Ausland gezogen, weil die Firmen in größere Länder mit mehr Geld gegangen sind"
+   ]
+  },
+  {
+   "en": [
+    "It doesn't touch everyday life at all",
+    "Only through science-fiction films and books",
+    "Only for astronauts and scientists working on the International Space Station and on the Moon"
+   ],
+   "fr": [
+    "Elle ne touche pas du tout la vie quotidienne",
+    "Seulement à travers les films et les livres de science-fiction",
+    "Seulement pour les astronautes et les scientifiques qui travaillent sur la Station spatiale internationale et sur la Lune"
+   ],
+   "de": [
+    "Sie berührt den Alltag überhaupt nicht",
+    "Nur über Science-Fiction-Filme und -Bücher",
+    "Nur für Astronauten und Wissenschaftler auf der Internationalen Raumstation und auf dem Mond"
+   ]
+  },
+  {
+   "en": [
+    "Using space carelessly to grow faster",
+    "Stopping all space activity by 2030",
+    "Keeping all space projects secret for security reasons"
+   ],
+   "fr": [
+    "Utiliser l'espace sans précaution pour croître plus vite",
+    "Arrêter toute activité spatiale d'ici 2030",
+    "Garder tous les projets spatiaux secrets pour des raisons de sécurité"
+   ],
+   "de": [
+    "Den Weltraum sorglos nutzen, um schneller zu wachsen",
+    "Alle Weltraumaktivitäten bis 2030 einstellen",
+    "Alle Weltraumprojekte aus Sicherheitsgründen geheim halten"
+   ]
+  }
+ ],
+ "lll": [
+  {
+   "en": [
+    "A job-search website with vacancies only",
+    "An online shop for books and school supplies",
+    "A bank that gives student loans to adults who want to go back to university"
+   ],
+   "fr": [
+    "Un site de recherche d'emploi avec seulement des offres",
+    "Une boutique en ligne de livres et de fournitures scolaires",
+    "Une banque qui accorde des prêts étudiants aux adultes qui veulent retourner à l'université"
+   ],
+   "de": [
+    "Eine Jobbörse nur mit Stellenangeboten",
+    "Ein Online-Shop für Bücher und Schulbedarf",
+    "Eine Bank, die Erwachsenen Studienkredite gibt, wenn sie zurück an die Uni wollen"
+   ]
+  },
+  {
+   "en": [
+    "Only by price, from cheapest to most expensive",
+    "Only in alphabetical order of the training centres",
+    "You cannot search it; you have to scroll through the full list of all courses"
+   ],
+   "fr": [
+    "Seulement par prix, du moins cher au plus cher",
+    "Seulement par ordre alphabétique des centres de formation",
+    "On ne peut pas y chercher ; il faut faire défiler la liste complète de tous les cours"
+   ],
+   "de": [
+    "Nur nach Preis, vom günstigsten zum teuersten",
+    "Nur alphabetisch nach Weiterbildungszentren",
+    "Man kann nicht suchen; man muss durch die komplette Liste aller Kurse scrollen"
+   ]
+  },
+  {
+   "en": [
+    "A tax that employers pay on every training course",
+    "A type of paid leave you can take once in your career to travel",
+    "A language test that all adults must pass before they can follow any course"
+   ],
+   "fr": [
+    "Une taxe que les employeurs paient sur chaque formation",
+    "Un type de congé payé qu'on peut prendre une seule fois dans sa carrière pour voyager",
+    "Un test de langue que tous les adultes doivent réussir avant de suivre un cours"
+   ],
+   "de": [
+    "Eine Abgabe, die Arbeitgeber auf jede Weiterbildung zahlen",
+    "Eine Art bezahlter Urlaub, den man einmal im Berufsleben zum Reisen nehmen kann",
+    "Ein Sprachtest, den alle Erwachsenen bestehen müssen, bevor sie überhaupt einen Kurs belegen dürfen"
+   ]
+  },
+  {
+   "en": [
+    "Nothing — adults must always pay for training themselves",
+    "A free car to travel to training centres",
+    "A paid holiday abroad after finishing a course of more than a year"
+   ],
+   "fr": [
+    "Rien — les adultes doivent toujours payer leur formation eux-mêmes",
+    "Une voiture gratuite pour aller aux centres de formation",
+    "Des vacances payées à l'étranger après une formation de plus d'un an"
+   ],
+   "de": [
+    "Nichts — Erwachsene müssen Weiterbildung immer selbst bezahlen",
+    "Ein kostenloses Auto für die Fahrt zu den Weiterbildungszentren",
+    "Ein bezahlter Urlaub im Ausland nach einem Kurs von mehr als einem Jahr"
+   ]
+  },
+  {
+   "en": [
+    "It doesn't — what we learn at school is enough for a whole career",
+    "Only children need to learn; adults already have all the skills they need",
+    "Learning only matters for passing exams, so it stops once you have your diploma and a job"
+   ],
+   "fr": [
+    "Elle n'a pas d'importance — ce qu'on apprend à l'école suffit pour toute une carrière",
+    "Seuls les enfants ont besoin d'apprendre ; les adultes ont déjà toutes les compétences nécessaires",
+    "Apprendre ne sert qu'à réussir des examens, donc cela s'arrête une fois le diplôme et un emploi obtenus"
+   ],
+   "de": [
+    "Gar nicht — was man in der Schule lernt, reicht für ein ganzes Berufsleben",
+    "Nur Kinder müssen lernen; Erwachsene haben schon alle nötigen Fähigkeiten",
+    "Lernen dient nur dem Bestehen von Prüfungen und endet deshalb, sobald man sein Diplom und einen festen Job in der Tasche hat"
+   ]
+  }
+ ],
+ "cnap": [
+  {
+   "en": [
+    "60",
+    "62",
+    "67"
+   ],
+   "fr": [
+    "60",
+    "62",
+    "67"
+   ],
+   "de": [
+    "60",
+    "62",
+    "67"
+   ]
+  },
+  {
+   "en": [
+    "5 years",
+    "20 years",
+    "40 years"
+   ],
+   "fr": [
+    "5 ans",
+    "20 ans",
+    "40 ans"
+   ],
+   "de": [
+    "5 Jahre",
+    "20 Jahre",
+    "40 Jahre"
+   ]
+  },
+  {
+   "en": [
+    "Anyone who applies, at any age",
+    "Only cross-border workers with a long career",
+    "People who have raised three or more children"
+   ],
+   "fr": [
+    "Toute personne qui en fait la demande, à tout âge",
+    "Seulement les frontaliers ayant une longue carrière",
+    "Les personnes qui ont élevé trois enfants ou plus"
+   ],
+   "de": [
+    "Jeder, der es beantragt, in jedem Alter",
+    "Nur Grenzgänger mit einer langen Laufbahn",
+    "Menschen, die drei oder mehr Kinder großgezogen haben"
+   ]
+  },
+  {
+   "en": [
+    "They are lost, because only Luxembourg years count",
+    "Luxembourg pays for them in full as if you had worked here",
+    "You must buy them back yourself with a lump sum before you retire"
+   ],
+   "fr": [
+    "Elles sont perdues, car seules les années au Luxembourg comptent",
+    "Le Luxembourg les paie entièrement comme si vous aviez travaillé ici",
+    "Vous devez les racheter vous-même avec une somme forfaitaire avant la retraite"
+   ],
+   "de": [
+    "Sie gehen verloren, weil nur Jahre in Luxemburg zählen",
+    "Luxemburg bezahlt sie vollständig, als hätten Sie hier gearbeitet",
+    "Sie müssen sie vor dem Ruhestand selbst mit einer Pauschalsumme zurückkaufen"
+   ]
+  },
+  {
+   "en": [
+    "Yes, always, on the day itself",
+    "Only if you live in Luxembourg",
+    "Only if you sign up online first"
+   ],
+   "fr": [
+    "Oui, toujours, le jour même",
+    "Seulement si vous vivez au Luxembourg",
+    "Seulement si vous vous inscrivez d'abord en ligne"
+   ],
+   "de": [
+    "Ja, immer, genau an dem Tag",
+    "Nur wenn Sie in Luxemburg wohnen",
+    "Nur wenn Sie sich vorher online anmelden"
+   ]
+  }
+ ],
+ "clarvia": [
+  {
+   "en": [
+    "A funeral company that organises ceremonies and burials across Luxembourg and the Greater Region",
+    "A private insurance that pays for funerals and helps families with the costs after a death",
+    "A government ministry that registers deaths and sends families the official documents they need"
+   ],
+   "fr": [
+    "Une entreprise de pompes funèbres qui organise les cérémonies, les enterrements et les crémations au Luxembourg et dans toute la Grande Région, contre paiement",
+    "Une assurance privée qui paie les funérailles et aide les familles à couvrir les frais après un décès",
+    "Un ministère qui enregistre les décès et envoie aux familles les documents officiels dont elles ont besoin"
+   ],
+   "de": [
+    "Ein Bestattungsunternehmen, das Trauerfeiern und Beerdigungen in Luxemburg und der Großregion organisiert",
+    "Eine private Versicherung mit Monatsbeitrag, die Beerdigungen bezahlt und Familien nach einem Todesfall bei allen Kosten hilft, auch bei Grabstein und Trauerfeier",
+    "Ein Ministerium, das Todesfälle registriert und den Familien die nötigen amtlichen Dokumente schickt"
+   ],
+   "lb": [
+    "Eng Begriefnesfirma, déi Zeremonien a Begriefnesser zu Lëtzebuerg an an der Groussregioun organiséiert",
+    "Eng privat Versécherung, déi d'Begriefnes bezilt an de Familljen no engem Doudesfall bei de Käschte hëlleft",
+    "E Ministère, deen d'Doudesfäll registréiert an de Familljen all déi offiziell Dokumenter an Attester schéckt, déi se no engem Doudesfall brauchen"
+   ]
+  },
+  {
+   "en": [
+    "Within one month",
+    "Within one week",
+    "There is no deadline"
+   ],
+   "fr": [
+    "Dans un délai d'un mois",
+    "Dans un délai d'une semaine",
+    "Il n'y a pas de délai"
+   ],
+   "de": [
+    "Innerhalb eines Monats nach dem Tod",
+    "Innerhalb einer Woche",
+    "Es gibt keine Frist"
+   ],
+   "lb": [
+    "Bannent engem Mount nom Doud",
+    "Bannent enger Woch",
+    "Et gëtt keng Frist"
+   ]
+  },
+  {
+   "en": [
+    "It sends a lawyer to your home, who takes care of all the paperwork for you in exchange for a fee",
+    "It is the same printed list for everybody, sent by post, with every possible step in alphabetical order",
+    "You must first register with your matricule and LuxTrust, and the list is then prepared by a civil servant"
+   ],
+   "fr": [
+    "Elle envoie un avocat chez vous, qui s'occupe de toutes les démarches à votre place contre rémunération",
+    "C'est la même liste imprimée pour tout le monde, envoyée par la poste, avec toutes les étapes possibles classées simplement par ordre alphabétique, sans rien de personnalisé",
+    "Vous devez d'abord vous inscrire avec votre matricule et LuxTrust, puis un fonctionnaire prépare la liste"
+   ],
+   "de": [
+    "Sie schickt Ihnen einen Anwalt nach Hause, der gegen Bezahlung den ganzen Papierkram für Sie erledigt",
+    "Es ist für alle dieselbe gedruckte Liste, per Post verschickt, mit allen möglichen Schritten einfach in alphabetischer Reihenfolge, ganz ohne persönliche Anpassung",
+    "Sie müssen sich zuerst mit Ihrer Matrikelnummer und LuxTrust anmelden, dann erstellt ein Beamter die Liste"
+   ],
+   "lb": [
+    "Si schéckt Iech en Affekot heem, deen géint Bezuelung de ganze Pabeierkram fir Iech erleedegt",
+    "Et ass fir jiddereen déi selwecht gedréckte Lëscht, mat der Post geschéckt, mat all méiglechen Etappen einfach an alphabetescher Reiefolleg, ouni perséinlech Upassung",
+    "Dir musst Iech fir d'éischt mat Ärer Matricule an LuxTrust umellen, an duerno preparéiert e Beamte d'Lëscht"
+   ]
+  },
+  {
+   "en": [
+    "From posts and comments on social media groups about bereavement",
+    "From anonymous forum posts written by people who went through a loss",
+    "It is the personal opinion and experience of the founders, without any official source"
+   ],
+   "fr": [
+    "De publications et de commentaires dans des groupes de réseaux sociaux sur le deuil",
+    "De messages anonymes sur des forums, écrits par des personnes qui ont vécu un deuil",
+    "C'est l'opinion et l'expérience personnelles des fondateurs, sans aucune source officielle ni vérification"
+   ],
+   "de": [
+    "Aus Beiträgen und Kommentaren in Social-Media-Gruppen zum Thema Trauer",
+    "Aus anonymen Forenbeiträgen von Menschen, die einen Verlust erlebt haben",
+    "Es ist die persönliche Meinung und Erfahrung der Gründer, ganz ohne offizielle Quelle oder Überprüfung"
+   ],
+   "lb": [
+    "Aus Posten a Kommentaren a Gruppen op de soziale Medien iwwer Trauer",
+    "Aus anonymme Forumsbäiträg vu Leit, déi e Verloscht erlieft hunn",
+    "Et ass déi perséinlech Meenung an Erfarung vun de Grënner, ouni iergendeng offiziell Quell oder Iwwerpréiwung"
+   ]
+  },
+  {
+   "en": [
+    "It is free only for Luxembourg nationals; other residents and cross-border families pay a small fee per checklist",
+    "It costs a monthly subscription, and your answers are stored so you can come back to your list later",
+    "It is free, but in exchange your personal data is sold to insurers and funeral companies to finance the service"
+   ],
+   "fr": [
+    "Il est gratuit seulement pour les Luxembourgeois ; les autres résidents et les familles frontalières paient de petits frais par liste",
+    "Il coûte un abonnement mensuel, et vos réponses sont enregistrées pour que vous puissiez revenir à votre liste plus tard",
+    "Il est gratuit, mais en échange vos données personnelles sont vendues à des assureurs et à des pompes funèbres pour financer le service"
+   ],
+   "de": [
+    "Er ist nur für luxemburgische Staatsbürger kostenlos; andere Einwohner und Grenzgängerfamilien zahlen eine kleine Gebühr pro Liste",
+    "Er kostet ein Monatsabo, und Ihre Antworten werden gespeichert, damit Sie später zu Ihrer Liste zurückkehren können",
+    "Er ist kostenlos, aber im Gegenzug werden Ihre persönlichen Daten an Versicherer und Bestatter verkauft, um den Dienst zu finanzieren"
+   ],
+   "lb": [
+    "En ass just fir Lëtzebuerger gratis; aner Awunner a Frontaliersfamilljen bezuelen eng kleng Gebühr pro Lëscht",
+    "En kascht en Abonnement all Mount, an Är Äntwerte gi gespäichert, fir datt Dir spéider op Är Lëscht zeréckkomme kënnt",
+    "En ass gratis, mä am Géigenzuch ginn Är perséinlech Donnéeën un Assurancen a Begriefnesfirmae verkaaft, fir de Service ze finanzéieren"
+   ]
+  }
+ ]
+}

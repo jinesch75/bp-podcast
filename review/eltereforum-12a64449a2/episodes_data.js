@@ -673,10 +673,10 @@ const EPISODES = [
    {
     "text": "What is the Eltereforum?",
     "options": [
-     "An online shop for baby products",
-     "A school for children",
+     "An online shop for baby products, run by the State, where parents can buy equipment at lower prices",
+     "A school for children aged 3 to 12, where parents can also attend lessons in the evening",
      "A “parents’ forum” – a welcoming place for discussion, information and support for all parents",
-     "A political party for parents"
+     "A political party for parents that campaigns for more childcare places and family allowances"
     ],
     "correct": 2,
     "explanation": "“Elteren” means parents and “Forum” a place to meet, so Eltereforum is a parents’ forum: a friendly, generalist place where any parent can ask questions, learn and meet other parents – no special reason needed."
@@ -684,10 +684,10 @@ const EPISODES = [
    {
     "text": "Who coordinates the Eltereforum?",
     "options": [
-     "A single local parents’ association",
+     "A single local parents' association in Luxembourg City, which runs all the forums as volunteers",
      "The Ministry of Education, Children and Youth – it is a public service of the Luxembourg State",
-     "The national health insurance (CNS)",
-     "A private company"
+     "The national health insurance (CNS), as part of its prevention programme for young families",
+     "A private company that organises courses for parents and charges a fee for each activity"
     ],
     "correct": 1,
     "explanation": "The Eltereforum is coordinated by the Ministry of Education, Children and Youth, with the guiding idea “Strong parents, strong children” – supported, confident parents help their children do better."
@@ -695,9 +695,9 @@ const EPISODES = [
    {
     "text": "From when does the Eltereforum support parents?",
     "options": [
-     "Only during the teenage years",
-     "Only once the child starts school",
-     "Only from ages 0 to 3",
+     "Only during the teenage years, when questions about school, screens and friendships become harder",
+     "Only once the child starts school, because before that families are followed by the maternity ward",
+     "Only from ages 0 to 3 – after that, parents are sent to the school's own support services",
      "From the start of the “parental project” – even before birth – all the way until the child is grown"
     ],
     "correct": 3,
@@ -707,9 +707,9 @@ const EPISODES = [
     "text": "What happens if a parent comes with a serious, specific problem that the Eltereforum cannot treat itself?",
     "options": [
      "The team listens and guides them to the right specialised service",
-     "They are asked to come back later",
-     "The Eltereforum provides medical therapy on site",
-     "Nothing — the Eltereforum only organises parties"
+     "They are asked to come back later, once the problem has become less serious",
+     "Its own doctors provide medical therapy and treatment on site",
+     "Nothing — the Eltereforum only organises social events and parties for parents"
     ],
     "correct": 0,
     "explanation": "The Eltereforum is generalist — it does not give specialised treatment. But the team listens and points you to the right specialised service, so it is also a door that sends you in the right direction."
@@ -717,10 +717,10 @@ const EPISODES = [
    {
     "text": "What can you find on the website eltereforum.lu?",
     "options": [
-     "An online shop for children's clothes",
-     "Only the phone number of the Ministry",
+     "An online shop for children's clothes and toys, with discounts reserved for members of the forums",
+     "Only the phone number of the Ministry – the activities themselves are announced by post to each family",
      "An information platform with the agenda of all activities, evenings and courses at the different forums",
-     "A social network reserved for teachers"
+     "A social network reserved for teachers, where they discuss pupils' progress with each other"
     ],
     "correct": 2,
     "explanation": "eltereforum.lu is an information platform in itself, and its agenda shows the calendar of all activities, evenings and courses at the different regional forums — so you can see what is happening near you."
@@ -2265,10 +2265,10 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que l'Eltereforum ?",
     "options": [
-     "Une boutique en ligne de produits pour bébés",
-     "Une école pour enfants",
+     "Une boutique en ligne de produits pour bébés, gérée par l'État, où les parents achètent du matériel moins cher",
+     "Une école pour les enfants de 3 à 12 ans, où les parents peuvent aussi suivre des cours le soir",
      "Un « forum des parents » – un lieu accueillant d'échange, d'information et de soutien pour tous les parents",
-     "Un parti politique pour les parents"
+     "Un parti politique de parents qui milite pour plus de places d'accueil et d'allocations familiales"
     ],
     "correct": 2,
     "explanation": "« Elteren » signifie parents et « Forum » un lieu de rencontre, donc Eltereforum est un forum des parents : un lieu convivial et généraliste où chaque parent peut poser des questions, apprendre et rencontrer d'autres parents – sans avoir besoin d'une raison particulière."
@@ -2276,10 +2276,10 @@ const EPISODES = [
    {
     "text": "Qui coordonne l'Eltereforum ?",
     "options": [
-     "Une seule association locale de parents",
+     "Une seule association locale de parents de Luxembourg-Ville, qui gère tous les forums du pays de manière entièrement bénévole",
      "Le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse – c'est un service public de l'État luxembourgeois",
-     "L'assurance maladie nationale (CNS)",
-     "Une entreprise privée"
+     "La Caisse nationale de santé (CNS), dans le cadre de son programme de prévention pour les jeunes familles",
+     "Une entreprise privée qui organise des cours pour parents et fait payer chaque activité"
     ],
     "correct": 1,
     "explanation": "L'Eltereforum est coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse, avec l'idée directrice « Parents forts, enfants forts » – des parents soutenus et confiants aident leurs enfants à mieux s'épanouir."
@@ -2287,9 +2287,9 @@ const EPISODES = [
    {
     "text": "À partir de quand l'Eltereforum soutient-il les parents ?",
     "options": [
-     "Seulement pendant l'adolescence",
-     "Seulement à partir de l'entrée à l'école",
-     "Seulement de 0 à 3 ans",
+     "Seulement pendant l'adolescence, quand les questions sur l'école, les écrans et les amitiés deviennent plus difficiles",
+     "Seulement à partir de l'entrée à l'école, car avant, les familles sont suivies par la maternité",
+     "Seulement de 0 à 3 ans – ensuite, les parents sont envoyés vers les services de soutien de l'école",
      "Dès le début du « projet parental » – même avant la naissance – et jusqu'à ce que l'enfant devienne adulte"
     ],
     "correct": 3,
@@ -2299,9 +2299,9 @@ const EPISODES = [
     "text": "Que se passe-t-il si un parent vient avec un problème sérieux et spécifique que l'Eltereforum ne peut pas traiter lui-même ?",
     "options": [
      "L'équipe l'écoute et l'oriente vers le bon service spécialisé",
-     "On lui demande de revenir plus tard",
-     "L'Eltereforum propose une thérapie médicale sur place",
-     "Rien — l'Eltereforum n'organise que des fêtes"
+     "On leur demande de revenir plus tard, quand le problème sera moins grave",
+     "Ses propres médecins proposent une thérapie et des soins sur place",
+     "Rien — l'Eltereforum organise seulement des rencontres festives pour les parents"
     ],
     "correct": 0,
     "explanation": "L'Eltereforum est généraliste — il ne propose pas de traitement spécialisé. Mais l'équipe vous écoute et vous indique le bon service spécialisé ; c'est donc aussi une porte qui vous envoie dans la bonne direction."
@@ -2309,10 +2309,10 @@ const EPISODES = [
    {
     "text": "Que trouve-t-on sur le site eltereforum.lu ?",
     "options": [
-     "Une boutique en ligne de vêtements pour enfants",
-     "Uniquement le numéro de téléphone du ministère",
+     "Une boutique en ligne de vêtements et de jouets pour enfants, avec des réductions réservées aux membres des forums",
+     "Seulement le numéro de téléphone du ministère – les activités elles-mêmes sont annoncées par courrier à chaque famille",
      "Une plateforme d'information avec l'agenda de toutes les activités, soirées et cours des différents forums",
-     "Un réseau social réservé aux enseignants"
+     "Un réseau social réservé aux enseignants, où ils discutent entre eux des progrès des élèves"
     ],
     "correct": 2,
     "explanation": "eltereforum.lu est une plateforme d'information en soi, et son agenda montre le calendrier de toutes les activités, soirées et cours des différents forums régionaux — vous pouvez donc voir ce qui se passe près de chez vous."
@@ -2336,10 +2336,10 @@ const EPISODES = [
    {
     "text": "Was ist das Eltereforum?",
     "options": [
-     "Ein Online-Shop für Babyprodukte",
-     "Eine Schule für Kinder",
+     "Ein staatlicher Online-Shop für Babyprodukte, in dem Eltern Ausstattung günstiger kaufen können",
+     "Eine Schule für Kinder von 3 bis 12 Jahren, in der auch die Eltern abends Unterricht besuchen können",
      "Ein „Elternforum“ – ein einladender Ort für Austausch, Information und Unterstützung für alle Eltern",
-     "Eine politische Partei für Eltern"
+     "Eine politische Partei für Eltern, die sich für mehr Betreuungsplätze und Familienleistungen einsetzt"
     ],
     "correct": 2,
     "explanation": "„Elteren“ bedeutet Eltern und „Forum“ ein Ort der Begegnung – das Eltereforum ist also ein Elternforum: ein freundlicher, generalistischer Ort, an dem alle Eltern Fragen stellen, lernen und andere Eltern treffen können – ohne besonderen Grund."
@@ -2347,10 +2347,10 @@ const EPISODES = [
    {
     "text": "Wer koordiniert das Eltereforum?",
     "options": [
-     "Ein einzelner lokaler Elternverein",
+     "Ein einziger lokaler Elternverein in Luxemburg-Stadt, der alle Foren ehrenamtlich betreibt",
      "Das Ministerium für Bildung, Kinder und Jugend – es ist ein öffentlicher Dienst des luxemburgischen Staates",
-     "Die nationale Krankenversicherung (CNS)",
-     "Ein privates Unternehmen"
+     "Die nationale Gesundheitskasse (CNS), im Rahmen ihres Präventionsprogramms für junge Familien",
+     "Ein privates Unternehmen, das Kurse für Eltern organisiert und für jede einzelne Aktivität Geld verlangt"
     ],
     "correct": 1,
     "explanation": "Das Eltereforum wird vom Ministerium für Bildung, Kinder und Jugend koordiniert, mit dem Leitgedanken „Starke Eltern, starke Kinder“ – unterstützte, selbstsichere Eltern helfen auch ihren Kindern."
@@ -2358,9 +2358,9 @@ const EPISODES = [
    {
     "text": "Ab wann unterstützt das Eltereforum Eltern?",
     "options": [
-     "Nur während der Teenagerjahre",
-     "Erst wenn das Kind in die Schule kommt",
-     "Nur im Alter von 0 bis 3 Jahren",
+     "Nur in der Jugendzeit, wenn Fragen zu Schule, Bildschirmen und Freundschaften schwieriger werden",
+     "Erst ab dem Schulbeginn des Kindes, weil Familien vorher von der Entbindungsstation betreut werden",
+     "Nur von 0 bis 3 Jahren – danach werden die Eltern an die eigenen Unterstützungsdienste der Schule verwiesen",
      "Ab dem Beginn des „Elternprojekts“ – schon vor der Geburt – den ganzen Weg, bis das Kind erwachsen ist"
     ],
     "correct": 3,
@@ -2370,9 +2370,9 @@ const EPISODES = [
     "text": "Was passiert, wenn Eltern mit einem ernsten, speziellen Problem kommen, das das Eltereforum selbst nicht behandeln kann?",
     "options": [
      "Das Team hört zu und begleitet sie zum richtigen spezialisierten Dienst",
-     "Sie werden gebeten, später wiederzukommen",
-     "Das Eltereforum bietet vor Ort medizinische Therapie an",
-     "Nichts — das Eltereforum organisiert nur Feste"
+     "Sie werden gebeten, später wiederzukommen, wenn das Problem weniger ernst ist",
+     "Seine eigenen Ärzte bieten vor Ort eine medizinische Therapie und Behandlung an",
+     "Nichts — das Eltereforum organisiert nur gesellige Treffen und Feste für Eltern"
     ],
     "correct": 0,
     "explanation": "Das Eltereforum ist generalistisch — es bietet keine spezialisierte Behandlung an. Aber das Team hört zu und zeigt Ihnen den richtigen spezialisierten Dienst, es ist also auch eine Tür, die Sie in die richtige Richtung schickt."
@@ -2380,10 +2380,10 @@ const EPISODES = [
    {
     "text": "Was finden Sie auf der Website eltereforum.lu?",
     "options": [
-     "Einen Online-Shop für Kinderkleidung",
-     "Nur die Telefonnummer des Ministeriums",
+     "Ein Online-Shop für Kinderkleidung und Spielzeug, mit Rabatten nur für Mitglieder der Foren",
+     "Nur die Telefonnummer des Ministeriums – die Aktivitäten selbst werden jeder Familie per Post angekündigt",
      "Eine Informationsplattform mit der Agenda aller Aktivitäten, Abende und Kurse in den verschiedenen Foren",
-     "Ein soziales Netzwerk nur für Lehrer"
+     "Ein soziales Netzwerk nur für Lehrkräfte, in dem sie sich über die Fortschritte der Schüler austauschen"
     ],
     "correct": 2,
     "explanation": "eltereforum.lu ist selbst eine Informationsplattform, und die Agenda zeigt den Kalender aller Aktivitäten, Abende und Kurse in den verschiedenen regionalen Foren — so sehen Sie, was in Ihrer Nähe passiert."
@@ -2408,10 +2408,10 @@ const EPISODES = [
    {
     "text": "Wat ass den Eltereforum?",
     "options": [
-     "En Online-Buttek fir Bebeesartikelen",
-     "Eng Schoul fir Kanner",
+     "En Online-Buttek fir Bebeesprodukter, vum Staat geréiert, wou Elteren Equipement a Kleeder méi bëlleg kafe kënnen",
+     "Eng Schoul fir Kanner vun 3 bis 12 Joer, wou d'Elteren owes och Coursë besiche kënnen",
      "E \"Forum fir Elteren\" – eng wëllkommend Plaz fir Austausch, Informatioun an Ënnerstëtzung fir all Elteren",
-     "Eng politesch Partei fir Elteren"
+     "Eng politesch Partei fir Elteren, déi sech fir méi Betreiungsplazen a Familljenallocatiounen asetzt"
     ],
     "correct": 2,
     "explanation": "\"Elteren\" si Mamm a Papp, an e \"Forum\" ass eng Plaz fir sech ze treffen. Den Eltereforum ass also e Forum fir Elteren: eng frëndlech, generalistesch Plaz, wou all Elterendeel Froe stellen, léieren an aner Elteren treffe kann – ouni speziellen Grond."
@@ -2419,10 +2419,10 @@ const EPISODES = [
    {
     "text": "Wie koordinéiert den Eltereforum?",
     "options": [
-     "Eng eenzeg lokal Elterenassociatioun",
+     "Eng eenzeg lokal Elterevereenegung an der Stad Lëtzebuerg, déi all d'Foren op fräiwëlleger Basis organiséiert",
      "De Ministère fir Educatioun, Kanner a Jugend – et ass en ëffentleche Service vum Lëtzebuerger Staat",
-     "Déi national Gesondheetskeess (CNS)",
-     "Eng privat Firma"
+     "D'national Gesondheetskeess (CNS), am Kader vun hirem Präventiounsprogramm fir jonk Familljen",
+     "Eng privat Firma, déi Coursen fir Elteren organiséiert a fir all Aktivitéit Suen hëlt"
     ],
     "correct": 1,
     "explanation": "Den Eltereforum gëtt vum Ministère fir Educatioun, Kanner a Jugend koordinéiert, mat der Leetiddi \"Staark Elteren, staark Kanner\" – ënnerstëtzten, séchere Elteren hëllefen hire Kanner, et besser ze hunn."
@@ -2430,9 +2430,9 @@ const EPISODES = [
    {
     "text": "Vu wéini un ënnerstëtzt den Eltereforum d'Elteren?",
     "options": [
-     "Nëmme wärend den Teenagerjoren",
-     "Nëmme wann d'Kand an d'Schoul kënnt",
-     "Nëmme vun 0 bis 3 Joer",
+     "Just während der Pubertéit, wann d'Froen iwwer d'Schoul, d'Ecranen an d'Frëndschafte méi schwiereg ginn",
+     "Eréischt wann d'Kand an d'Schoul geet, well d'Famillje virdrun vun der Maternitéit suivéiert ginn",
+     "Just vun 0 bis 3 Joer – duerno ginn d'Elteren un d'Ënnerstëtzungsservicer vun der Schoul verwisen",
      "Vum Ufank vum \"Projet als Elteren\" un – souguer virun der Gebuert – bis d'Kand grouss ass"
     ],
     "correct": 3,
@@ -2442,9 +2442,9 @@ const EPISODES = [
     "text": "Wat geschitt, wann en Elterendeel mat engem eeschten, spezifesche Problem kënnt, deen den Eltereforum net selwer behandele kann?",
     "options": [
      "D'Equipe lauschtert no a begleet en zum richtege spezialiséierte Service",
-     "E gëtt gebieden, méi spéit erëmzekommen",
-     "Den Eltereforum mécht medezinesch Therapie op der Plaz",
-     "Näischt — den Eltereforum organiséiert nëmme Fester"
+     "Si gi gefrot, méi spéit erëmzekommen, wann de Problem manner eescht ass",
+     "Seng eegen Dokteren bidden op der Plaz eng medezinesch Therapie a Behandlung un",
+     "Näischt — den Eltereforum organiséiert just gesellesch Treffen a Fester fir Elteren"
     ],
     "correct": 0,
     "explanation": "Den Eltereforum ass generalistesch — e gëtt keng spezialiséiert Behandlung. Mä d'Equipe lauschtert no a weist Iech de Wee zum richtege spezialiséierte Service, sou datt en och eng Dier ass, déi Iech an déi richteg Richtung schéckt."
@@ -2452,10 +2452,10 @@ const EPISODES = [
    {
     "text": "Wat fannt Dir op der Websäit eltereforum.lu?",
     "options": [
-     "En Online-Buttek fir Kannerkleeder",
-     "Nëmmen d'Telefonsnummer vum Ministère",
+     "En Online-Buttek fir Kannerkleeder a Spillsaachen, mat Reduktiounen nëmme fir Membere vun de Foren",
+     "Just d'Telefonsnummer vum Ministère – d'Aktivitéite selwer ginn all Famill per Post matgedeelt",
      "Eng Informatiounsplattform mat dem Agenda vun allen Aktivitéiten, Owender a Coursen an deene verschiddene Foren",
-     "E sozialt Netzwierk nëmme fir Enseignanten"
+     "E soziaalt Netzwierk just fir Enseignanten, wou si sech ënnerteneen iwwer d'Fortschrëtter vun de Schüler austauschen"
     ],
     "correct": 2,
     "explanation": "eltereforum.lu ass selwer eng Informatiounsplattform, an den Agenda weist de Kalenner vun allen Aktivitéiten, Owender a Coursen an deene verschiddene regionale Foren — sou gesitt Dir, wat bei Iech an der Géigend leeft."

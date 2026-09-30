@@ -1,0 +1,192 @@
+fr|myguichet|1|2|Parce qu'il est géré par les banques, comme un guichet bancaire en ligne, et qu'il n'est ouvert qu'aux heures de bureau, du lundi au vendredi
+fr|myguichet|3|1|Un compte Google, Apple ou Facebook, que MyGuichet.lu accepte comme connexion sécurisée pour toutes les démarches administratives
+fr|benevolat|1|0|Environ 5 % – à peine une personne sur vingt, ce qui place le Luxembourg parmi les derniers pays d'Europe
+fr|benevolat|3|0|Oui – il faut s'engager des week-ends entiers pendant toute une année, car les associations doivent planifier leurs équipes longtemps à l'avance
+fr|benevolat|4|1|Attendre qu'une organisation vous contacte par courrier, car les bénévoles sont choisis au hasard dans le registre national des résidents
+fr|eltereforum|1|0|Une seule association locale de parents de Luxembourg-Ville, qui gère tous les forums du pays de manière entièrement bénévole
+fr|dsp_cns|0|2|Un dossier fiscal tenu par l'administration des contributions, qui liste toutes vos dépenses médicales pour que vous puissiez les déduire
+fr|dsp_cns|2|2|Vous ne payez rien chez le médecin, et la CNS retient ensuite la totalité du coût de la visite directement sur votre salaire du mois suivant
+fr|lualert|2|0|Luxembourgeois, français, allemand et portugais
+fr|luxtrust|0|1|Un antivirus pour votre téléphone et votre ordinateur, qui vous protège quand vous faites vos achats en ligne
+fr|luxtrust|1|0|Seulement vous connecter aux réseaux sociaux et à vos e-mails – les banques et les services publics utilisent chacun leurs propres systèmes
+fr|luxtrust|4|1|Vous pouvez partager sans risque vos codes avec votre conseiller bancaire ou un proche, tant qu'ils vous aident à tout installer sur votre téléphone
+fr|maison_orientation|4|2|Personne d'autre – elle distribue seulement des brochures sur les écoles et les formations, et toute question sur la reconnaissance des diplômes, les reconversions professionnelles ou la recherche d'emploi doit être posée à la commune
+fr|infosenior|0|1|Un compte d'épargne-pension proposé par l'État, sur lequel les personnes âgées peuvent verser un peu d'argent chaque mois
+fr|infosenior|4|2|Vous devez d'abord emménager dans une maison de soins, où le personnel gérera ensuite toutes les questions à votre place
+fr|zukunftskeess|1|2|Comme complément mensuel au salaire pendant deux ans, calculé selon le temps de travail des parents et sans aucun lien avec les examens médicaux
+fr|zukunftskeess|2|2|Jusqu'à 30 ans pour tous, qu'ils étudient, travaillent ou non ; le montant est le plus élevé pour les bébés, puis il diminue un peu chaque année jusqu'à la fin
+fr|zukunftskeess|4|0|Vous ne touchez rien, car les allocations familiales luxembourgeoises ne sont versées que pour les enfants qui vivent au Luxembourg, même si vous y travaillez et y cotisez depuis des années à la sécurité sociale
+fr|fns|0|0|Percevoir des impôts supplémentaires auprès des hauts revenus et en redistribuer une partie aux communes pour financer des projets locaux
+fr|fns|1|0|Un remboursement d'impôt versé une fois par an à tous les ménages, quel que soit leur revenu, pour compenser la hausse des prix de l'énergie
+fr|fns|2|1|Seuls les retraités de plus de 65 ans peuvent la recevoir, et personne ne la touche automatiquement – chacun doit renvoyer un formulaire papier chaque année
+fr|fns|3|0|Il ne peut pas aider, car la pension alimentaire entre parents est une affaire privée que seul un avocat peut régler devant le juge
+fr|fns|4|2|Les frais d'inscription universitaires, les bourses d'études et les prêts étudiants pour les jeunes qui étudient au Luxembourg ou à l'étranger
+fr|granderegion|0|2|Un parti politique européen, avec des membres du Luxembourg, de France, d'Allemagne et de Belgique, qui siège au Parlement européen à Strasbourg
+fr|granderegion|2|2|Un ancien poste-frontière près de Schengen, aujourd'hui utilisé comme bureau de douane pour contrôler les marchandises qui passent entre les pays
+fr|granderegion|3|0|Par le Luxembourg de façon permanente, puisque c'est le seul pays entier de la région
+fr|digitalinclusion|2|2|Seulement les étudiants inscrits au Luxembourg, qui doivent présenter leur carte d'étudiant et une lettre de recommandation de leur professeur
+fr|digitalinclusion|3|2|Une école qui forme des ingénieurs en informatique, avec un concours d'entrée très sélectif chaque année
+fr|digitalinclusion|4|0|Elle plante un arbre au Luxembourg pour chaque ordinateur donné, afin de compenser l'électricité que les appareils consomment pendant leur vie
+fr|onis|0|1|Il gère les passeports, les cartes d'identité et les titres de séjour des nouveaux résidents du pays
+fr|onis|1|2|Le REVIS n'est qu'un chèque mensuel de l'État ; il n'y a aucun volet d'accompagnement ou d'inclusion prévu
+fr|onis|2|1|Les mesures de stabilisation s'adressent aux entreprises qui embauchent des bénéficiaires du REVIS ; les mesures d'activation visent surtout les écoles, les élèves et leurs enseignants
+fr|onis|3|2|Vous êtes rattaché à un seul bureau central dans la capitale, où une personne différente vous reçoit à chaque fois, sans plan personnel ni suivi régulier de votre situation
+fr|workinluxembourg|0|2|Une banque pour travailleurs internationaux, qui ouvre des comptes salaire avant même leur arrivée dans le pays
+fr|workinluxembourg|2|1|Il ne montre que des postes du secteur public, comme les ministères et les communes, et ces postes sont réservés aux personnes qui parlent luxembourgeois
+fr|workinluxembourg|3|2|Une ligne d'assistance téléphonique réservée aux touristes, avec des informations pratiques sur les hôtels, les musées, les restaurants et les transports
+fr|workinluxembourg|4|1|Parce qu'il n'existe aucune règle pour les travailleurs non européens au Luxembourg, donc aucun permis de travail ni aucun papier n'est jamais nécessaire, quel que soit le métier
+fr|adem|0|0|Une entreprise de recrutement privée que vous payez chaque mois pour qu'elle vous trouve un emploi
+fr|adem|1|0|Uniquement par courrier, avec un formulaire papier rempli à la main et une copie de votre dernier contrat
+fr|adem|3|2|Attendre deux ans après la perte de votre dernier emploi
+fr|adem|4|1|Une prime de plusieurs milliers d'euros pour les jeunes qui trouvent un emploi par eux-mêmes, sans aide
+fr|klima|3|1|Une nouvelle taxe sur les voitures essence et diesel, dont les recettes financent les transports publics et les pistes cyclables
+fr|snj|0|2|Il organise uniquement des compétitions et championnats sportifs nationaux pour les écoles du pays
+fr|fondseuropeens|0|1|Remplacer les gouvernements nationaux par des gouvernements européens dans les régions les plus pauvres d'Europe
+fr|fondseuropeens|3|1|Les citoyens qui participent à un projet doivent rembourser tout l'argent plus tard
+fr|zesumme|2|0|Vous devez suivre chaque projet du tout début jusqu'à la toute fin, sans exception
+fr|zesumme|4|1|Elle a fait baisser l'impôt sur le revenu des familles avec enfants
+fr|cgdis|3|0|Raccrocher très vite pour que d'autres personnes en urgence puissent appeler
+fr|statec|1|0|Le nombre de magasins et de supermarchés qui ouvrent ou qui ferment chaque année dans les différentes communes du pays
+fr|environnement|3|0|Les résultats de football en direct du championnat national de BGL Ligue
+fr|research|0|2|Une chaîne de magasins technologiques qui vend les dernières inventions des chercheurs
+fr|agriculture|2|0|Une chaîne de supermarchés qui ne vend que des produits de la ferme locaux, à des prix fixés par l'État
+fr|amenagement|0|0|Une façon d'aménager l'intérieur des maisons, de choisir les meubles et les couleurs des pièces
+fr|amenagement|2|2|Des plans de construction privés que les propriétaires doivent déposer à la commune avant de rénover ou d'agrandir leur maison
+fr|amenagement|3|0|Répartir les nouveaux bâtiments partout dans le pays, même loin des routes, des gares et des services
+fr|aaa|0|2|Une auto-école nationale qui enseigne la prévention des accidents de la route
+fr|aaa|1|2|Uniquement les accidents survenus à l'étranger, pendant des voyages d'affaires hors du Luxembourg
+fr|aaa|2|2|Elle vous envoie seulement une brochure sur la sécurité au travail, puis clôt le dossier sans rien vous payer
+fr|geoportail|1|0|Uniquement des itinéraires et des informations sur les bouchons pour les conducteurs, sans aucune autre couche de carte
+fr|geoportail|3|2|Des jeux vidéo et des quiz basés sur les paysages et les monuments du Luxembourg
+fr|geoportail|4|2|Elles ne sont pas ouvertes du tout ; seuls les fonctionnaires des ministères peuvent voir les cartes et télécharger les données
+fr|govcert|0|2|Une chaîne de magasins de téléphonie qui répare les téléphones piratés
+fr|govcert|4|2|Ignorer les mises à jour, car elles ralentissent vos appareils et changent vos réglages sans vous demander votre avis
+fr|culture|3|2|Des billets de bus et de train pour aller gratuitement à tous les événements culturels
+fr|demenz|2|2|Seuls les médecins peuvent parler de démence ; les familles et les proches ne devraient pas poser de questions
+fr|ess|0|0|Des entreprises dont le seul but est de faire le plus de profit possible pour leurs actionnaires et leurs dirigeants
+fr|luxinnovation|3|2|Il donne seulement des prix en argent lors d'un concours annuel qui récompense la meilleure invention
+fr|logement|2|2|Aucune — les propriétaires et les acheteurs doivent s'adresser à leur banque, car l'État ne les aide pas du tout
+fr|logement|3|2|Il organise des leçons de conduite pour les personnes qui s'installent dans des communes rurales
+fr|lll|2|1|Un type de congé payé qu'on peut prendre une seule fois dans sa carrière pour voyager
+fr|lll|3|2|Des vacances payées à l'étranger après une formation de plus d'un an
+fr|clarvia|0|0|Une entreprise de pompes funèbres qui organise les cérémonies, les enterrements et les crémations au Luxembourg et dans toute la Grande Région, contre paiement
+fr|clarvia|2|1|C'est la même liste imprimée pour tout le monde, envoyée par la poste, avec toutes les étapes possibles classées simplement par ordre alphabétique, sans rien de personnalisé
+fr|clarvia|3|2|C'est l'opinion et l'expérience personnelles des fondateurs, sans aucune source officielle ni vérification
+de|myguichet|3|2|Nur ein LuxTrust-Produkt – der eID-Ausweis und Logins aus anderen europäischen Ländern werden grundsätzlich nicht akzeptiert
+de|benevolat|3|0|Ja – Sie müssen sich ein ganzes Jahr lang für ganze Wochenenden verpflichten, weil die Vereine ihre Teams lange im Voraus planen müssen
+de|benevolat|4|2|Sich auf eine bezahlte Stelle bei der Agence du Bénévolat bewerben und deren mehrwöchige Schulung machen, bevor Sie irgendwo helfen dürfen
+de|eltereforum|1|2|Ein privates Unternehmen, das Kurse für Eltern organisiert und für jede einzelne Aktivität Geld verlangt
+de|eltereforum|2|2|Nur von 0 bis 3 Jahren – danach werden die Eltern an die eigenen Unterstützungsdienste der Schule verwiesen
+de|dsp_cns|0|1|Ein Heft aus Papier, in das jeder Arzt Ihre Behandlungen von Hand einträgt und das Sie zu jedem einzelnen Termin mitbringen müssen
+de|dsp_cns|1|2|Das Gesundheitsministerium, das Ärzten und Krankenhäusern von Fall zu Fall den Zugang gewährt
+de|luxtrust|1|1|Nur Ihre Steuern auf der Steuer-Website erklären – für Online-Banking oder das Unterschreiben von Dokumenten geht es leider nicht
+de|luxtrust|2|0|Keinen rechtlichen Wert – sie ist nur eine praktische Bequemlichkeit für Sie
+de|luxtrust|3|0|Sie wird nie überprüft – Sie wählen einfach selbst einen Benutzernamen und ein Passwort auf der LuxTrust-Website
+de|maison_orientation|4|2|Niemand sonst – sie verteilt nur Broschüren über Schulen und Ausbildungen, und wer Fragen zur Anerkennung von Diplomen, zu einem Berufswechsel, zur Validierung von Erfahrung oder zur Jobsuche hat, muss sich an seine Gemeinde wenden
+de|infosenior|0|2|Ein soziales Netzwerk für Rentner, in dem sich ältere Menschen treffen, austauschen und gemeinsam Reisen und Ausflüge planen
+de|infosenior|1|0|Jeder kann seinen eigenen Dienst in die Liste eintragen, ganz ohne Kontrolle oder Zulassung durch den Staat
+de|infosenior|2|2|Nichts – Sie müssen jeden Dienst einzeln persönlich besuchen, um überhaupt etwas zu erfahren
+de|infosenior|3|0|Kostenlose Flugtickets für Rentner, die einmal im Jahr ihre Familie im Ausland besuchen möchten
+de|infosenior|4|0|Nichts – bei einer Meinungsverschiedenheit müssen Sie das ganz allein und ohne jede Hilfe mit dem Dienst klären
+de|accessibilite|0|2|Eine Karte rollstuhlgerechter Restaurants, Geschäfte und Cafés in ganz Luxemburg, auf Grundlage von Bewertungen und Kommentaren der Öffentlichkeit und der lokalen Betriebe
+de|accessibilite|1|1|Nur Online-Shops, die Produkte an Kunden in der Europäischen Union verkaufen und mehr als zehn Mitarbeiter haben
+de|accessibilite|3|2|Freiwillige Leitlinien, denen Eigentümer folgen können, wenn sie wollen; für bestehende öffentliche Orte gibt es überhaupt keine Frist
+de|zukunftskeess|1|2|Als monatlicher Gehaltszuschuss für zwei Jahre, berechnet nach der Arbeitszeit der Eltern und ohne jeden Bezug zu Vorsorgeuntersuchungen
+de|zukunftskeess|2|1|Nur zwischen 6 und 16 Jahren, also während der Schulpflicht; der Betrag sinkt deutlich, sobald das Kind in die Sekundarschule oder in eine Ausbildung wechselt
+de|zukunftskeess|4|2|Sie erhalten automatisch den vollen luxemburgischen Betrag zusätzlich zur Leistung des Wohnsitzlandes, ganz ohne Anrechnung; Grenzgängerfamilien bekommen also einfach das Doppelte ausgezahlt
+de|fns|0|0|Zusätzliche Steuern bei Spitzenverdienern einziehen und einen Teil davon für lokale Projekte an die Gemeinden verteilen
+de|fns|1|0|Eine Steuerrückerstattung, die einmal im Jahr jedem Haushalt unabhängig vom Einkommen gezahlt wird, als Ausgleich für steigende Energiepreise
+de|fns|2|1|Nur Rentner über 65 können sie erhalten, und niemand bekommt sie automatisch – jeder muss jedes Jahr erneut ein Papierformular einreichen
+de|fns|3|2|Er zahlt den Unterhalt nur, wenn beide Eltern vorher eine schriftliche Vereinbarung unterschreiben, und fordert das Geld danach nie zurück
+de|fns|4|2|Studiengebühren, Studienbeihilfen und Studiendarlehen für junge Menschen, die in Luxemburg oder im Ausland studieren
+de|granderegion|0|2|Eine europäische Partei mit Mitgliedern aus Luxemburg, Frankreich, Deutschland und Belgien, die im Europäischen Parlament in Straßburg sitzt
+de|granderegion|2|0|Ein Museum in Brüssel zur Geschichte der Europäischen Union, mit einem eigenen Raum über die vier Länder der Region und ihre gemeinsame Vergangenheit
+de|granderegion|3|2|Von einem einzigen gewählten Präsidenten, der danach lebenslang im Amt bleibt
+de|granderegion|4|0|Geschlossene Grenzen zwischen den Mitgliedern, damit jede Region ihre eigenen Arbeitsplätze und Betriebe besser schützen kann
+de|digitalinclusion|0|0|Ein Computergeschäft, das Studierenden neue Laptops und Handys zu stark reduzierten Preisen verkauft
+de|digitalinclusion|2|2|Nur Studierende an Hochschulen in Luxemburg, die ihren Studentenausweis und einen Empfehlungsbrief ihres Professors vorlegen
+de|digitalinclusion|3|0|Ein kostenpflichtiger Online-Programmierkurs mit einem offiziellen Zertifikat am Ende
+de|digitalinclusion|4|0|Sie pflanzt für jeden verschenkten Computer einen Baum in Luxemburg, um den Stromverbrauch der Geräte während ihrer Lebensdauer auszugleichen
+de|onis|0|0|Es zahlt Alters-, Invaliden- und Hinterbliebenenrenten an ehemalige Arbeitnehmer und ihre Familien in Luxemburg aus
+de|onis|2|1|Stabilisierungsmaßnahmen sind für Firmen gedacht, die REVIS-Bezieher einstellen; Aktivierungsmaßnahmen richten sich dagegen vor allem an Schulen, junge Schüler und ihre Lehrkräfte
+de|onis|3|2|Sie werden einem einzigen zentralen Büro in der Hauptstadt zugeteilt, wo Sie jedes Mal jemand anderes empfängt, ohne persönlichen Plan und ohne regelmäßige Begleitung
+de|onis|4|0|Druck auf Menschen ohne Arbeit ausüben, mit Sanktionen als wichtigstem Mittel, um sie möglichst schnell zurück in den Job zu bringen
+de|workinluxembourg|0|0|Eine private Personalvermittlung, die Bewerbern viel Geld dafür berechnet, ihnen einen Job in Luxemburg zu finden
+de|workinluxembourg|2|1|Er zeigt nur Stellen im öffentlichen Dienst, etwa in Ministerien und Gemeinden, und diese Stellen sind nur für Menschen, die fließend Luxemburgisch sprechen
+de|workinluxembourg|3|1|Ein Online-Quiz über Geschichte, Sprachen und Kultur Luxemburgs, das alle Bewerber bestehen müssen, bevor sie sich überhaupt auf eine Stelle bewerben dürfen
+de|workinluxembourg|4|2|Weil Fachkräfte aus Nicht-EU-Ländern in den ersten fünf Jahren in Luxemburg überhaupt keine Einkommensteuer zahlen, egal in welchem Beruf sie arbeiten
+de|adem|0|0|Ein privates Personalvermittlungsunternehmen, das Sie jeden Monat bezahlen, damit es Ihnen einen Job findet
+de|adem|1|1|Nur indem Sie ohne Termin und ohne Anmeldung in einer beliebigen ADEM-Geschäftsstelle erscheinen
+de|adem|2|1|Einen garantierten Job innerhalb einer Woche, den die ADEM für Sie aussucht
+de|adem|3|1|Bereits einen neuen Arbeitsvertrag unterschrieben haben
+de|adem|4|0|Einen kostenlosen Studienplatz an der Universität Luxemburg für jeden jungen Menschen, der sich bei der ADEM anmeldet
+de|klima|1|2|Nur der erste Termin ist kostenlos; danach zahlt man jeden weiteren Besuch
+de|klima|3|0|Eine Kundenkarte mit Rabatten in Geschäften, die Energiesparlampen und besonders sparsame Haushaltsgeräte verkaufen
+de|klima|4|0|Es ist ein offizielles Angebot der Klima-Agence, Sie können also den Vertrag direkt unterschreiben, ohne noch etwas zu prüfen
+de|snj|3|2|Nur ausländische Studierende, die für ein Austauschsemester nach Luxemburg kommen und hier Arbeit finden müssen
+de|snj|4|2|Eine Versicherung, die Handys, Tablets und Laptops junger Menschen bei Diebstahl oder Schaden abdeckt
+de|enfance|1|1|Es verschickt nur Briefe mit allgemeinen Ratschlägen und trifft die Familie nie persönlich
+de|enfance|3|2|Nur Polizisten mit einer Ausbildung im Kinderschutz
+de|cepas|1|2|Nur Lehrkräfte, die Rat zu einer schwierigen Klasse oder einem bestimmten Schüler brauchen
+de|cepas|2|2|Nur per Post, indem man dem CePAS einen Brief schreibt und auf Antwort wartet
+de|fondseuropeens|1|0|Den Bau von Autobahnen, Brücken und Tunneln zwischen den Mitgliedstaaten
+de|fondseuropeens|2|1|Ein europäisches Gericht, das bei Streit darüber entscheidet, wie die Mittel verwendet wurden
+de|fondseuropeens|3|1|Die Bürger, die an einem Projekt teilnehmen, müssen das ganze Geld später zurückzahlen
+de|fondseuropeens|4|0|Nur die Regierung selbst, für Projekte, die direkt von den Ministerien geplant und geführt werden
+de|zesumme|0|0|Eine Shopping-Website, auf der Einwohner gemeinsam Gebrauchtwaren und Möbel kaufen und verkaufen
+de|zesumme|3|1|Nur auf Englisch, weil die Plattform international ist
+de|zesumme|4|0|Sie hat nach einer Abstimmung eine neue Straße zwischen zwei Gemeinden gebaut
+de|cgdis|3|2|Mehrmals hintereinander anrufen, damit Ihr Anruf schneller und zuerst bearbeitet wird
+de|statec|1|2|Die Durchschnittstemperatur und den Niederschlag in jeder Region, um den Einfluss des Klimas auf die Preise zu sehen
+de|environnement|3|0|Live-Fußballergebnisse und Tabellen der nationalen Liga
+de|environnement|4|2|Tagsüber möglichst drinnen bleiben, um die Wildtiere im Wald nicht zu stören
+de|syvicol|4|2|Es führt die Grundschulen der Gemeinden direkt, mit eigenen Lehrkräften und Direktoren
+de|research|0|1|Eine Universität im Ausland, die im Auftrag des Staates die Wissenschaftler Luxemburgs ausbildet
+de|research|1|2|Eine Bank, die gezielt in Start-ups und Technologiefirmen investiert
+de|research|3|0|Ein neues Einkaufszentrum mit Kino, das auf Ackerland außerhalb der Hauptstadt gebaut wurde
+de|agriculture|2|2|Eine bekannte Weinmarke von der Mosel, die einer Genossenschaft von Winzern gehört
+de|amenagement|0|2|Eine Form der Landwirtschaft mit regelmäßigem Fruchtwechsel zwischen den Feldern
+de|amenagement|1|2|Weil es nur darum geht, jedes Jahr noch mehr Touristen anzuziehen
+de|amenagement|2|1|Pläne, die in jeder Gemeinde die Termine der Schulferien, der Märkte und der öffentlichen Veranstaltungen festlegen
+de|amenagement|3|0|Neue Gebäude gleichmäßig überall verteilen, auch weit weg von Straßen, Bahnen und Geschäften
+de|aaa|0|2|Eine Fahrschule, die Unfallverhütung im Straßenverkehr für alle Altersgruppen unterrichtet
+de|aaa|2|2|Sie schickt Ihnen nur eine Broschüre zur Arbeitssicherheit und schließt die Akte dann ganz ohne Zahlung
+de|geoportail|0|2|Eine private Kartenfirma, die für jede Suche Geld verlangt
+de|geoportail|1|2|Nur das Wetterradar, Regenvorhersagen und Unwetterwarnungen für die nächsten drei Tage
+de|geoportail|3|2|Videospiele und Online-Quiz auf Basis der Landschaften und Denkmäler Luxemburgs
+de|geoportail|4|2|Sie sind gar nicht offen; nur Beamte der Ministerien können die Karten sehen und die Daten herunterladen
+de|govcert|0|0|Der nationale Wetterdienst, der auch Sturm- und Hochwasserwarnungen herausgibt
+de|govcert|1|2|Nur die Social-Media-Konten von Politikern und Ministern während der Wahlkämpfe
+de|govcert|2|1|In der heutigen vernetzten Welt unmöglich zu erreichen
+de|govcert|3|2|Eine offizielle Wetterwarnung per SMS, wenn in Ihrer Gegend Starkregen oder Gewitter erwartet werden
+de|govcert|4|2|Updates ignorieren, weil sie Ihre Geräte verlangsamen und ungefragt Ihre Einstellungen und Programme ändern
+de|culture|4|2|Nur Banken und Sponsoren, die auf Festivals und Konzerten im ganzen Land werben wollen
+de|demenz|2|0|Jeder kleine Aussetzer, etwa vergessene Schlüssel oder Namen, ist schon ein frühes Zeichen von Demenz
+de|ess|0|0|Unternehmen, deren einziges Ziel möglichst viel Gewinn für ihre Aktionäre und ihre Manager ist
+de|ess|1|2|Nur Ministerien und öffentliche Verwaltungen, etwa das Arbeitsministerium oder die ADEM
+de|ess|2|2|Ein Ministerium, das im ganzen Land für alle Sozialprojekte und Hilfswerke zuständig ist
+de|luxinnovation|1|2|Nur Banken, die neue Banking-Apps für ihre Privatkunden entwickeln wollen
+de|luxinnovation|2|2|Eine Sondersteuer auf neue Unternehmen in ihren ersten vier Geschäftsjahren
+de|luxinnovation|3|2|Sie vergibt nur Geldpreise bei einem jährlichen Wettbewerb, der die beste Erfindung auszeichnet
+de|logement|0|2|Ein Möbelgeschäft mit Rabatten für neue Einwohner
+de|logement|2|0|Nur Tipps, wie man seine Wohnung oder sein Haus schnell und zum höchstmöglichen Preis verkauft
+de|logement|3|2|Er organisiert Fahrstunden für Menschen, die aus der Stadt in ländliche Gemeinden ziehen
+de|lll|2|2|Ein Sprachtest, den alle Erwachsenen bestehen müssen, bevor sie überhaupt einen Kurs belegen dürfen
+de|lll|3|2|Ein bezahlter Urlaub im Ausland nach einem Kurs von mehr als einem Jahr
+de|lll|4|2|Lernen dient nur dem Bestehen von Prüfungen und endet deshalb, sobald man sein Diplom und einen festen Job in der Tasche hat
+de|clarvia|0|1|Eine private Versicherung mit Monatsbeitrag, die Beerdigungen bezahlt und Familien nach einem Todesfall bei allen Kosten hilft, auch bei Grabstein und Trauerfeier
+de|clarvia|1|0|Innerhalb eines Monats nach dem Tod
+de|clarvia|2|1|Es ist für alle dieselbe gedruckte Liste, per Post verschickt, mit allen möglichen Schritten einfach in alphabetischer Reihenfolge, ganz ohne persönliche Anpassung
+de|clarvia|3|2|Es ist die persönliche Meinung und Erfahrung der Gründer, ganz ohne offizielle Quelle oder Überprüfung
+lb|benevolat|1|2|Ongeféier 10 % – eng Persoun vun zéng, ongeféier den europäeschen Duerchschnëtt zu där Zäit
+lb|benevolat|3|0|Jo – Dir musst Iech e ganzt Joer fir ganz Weekender engagéieren, well d'Veräiner hir Ekippe laang am Viraus musse plangen
+lb|benevolat|4|2|Sech fir eng bezuelte Plaz bei der Agence du Bénévolat mellen an hir Formatioun vu puer Wochen maachen, ier Dir iergendwou hëllefe kënnt
+lb|eltereforum|0|0|En Online-Buttek fir Bebeesprodukter, vum Staat geréiert, wou Elteren Equipement a Kleeder méi bëlleg kafe kënnen
+lb|eltereforum|4|2|E soziaalt Netzwierk just fir Enseignanten, wou si sech ënnerteneen iwwer d'Fortschrëtter vun de Schüler austauschen
+lb|dsp_cns|0|1|E Pabeierheft, an deem all Dokter Är Behandlunge mat der Hand opschreift, an dat Dir bei all eenzege Rendez-vous musst matbréngen
+lb|dsp_cns|1|0|Just Ären Hausdokter, deen eleng decidéiert, wéi eng aner Dokteren a Spideeler den Dossier opmaache däerfen
+lb|dsp_cns|2|2|Dir bezuelt beim Dokter näischt, an d'CNS zitt spéider déi ganz Käschte vum Besuch direkt vun Ärem Méintsloun of
+lb|clarvia|0|2|E Ministère, deen d'Doudesfäll registréiert an de Familljen all déi offiziell Dokumenter an Attester schéckt, déi se no engem Doudesfall brauchen
+lb|clarvia|1|0|Bannent engem Mount nom Doud
+lb|clarvia|2|1|Et ass fir jiddereen déi selwecht gedréckte Lëscht, mat der Post geschéckt, mat all méiglechen Etappen einfach an alphabetescher Reiefolleg, ouni perséinlech Upassung
+lb|clarvia|3|2|Et ass déi perséinlech Meenung an Erfarung vun de Grënner, ouni iergendeng offiziell Quell oder Iwwerpréiwung
