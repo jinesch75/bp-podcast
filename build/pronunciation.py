@@ -75,6 +75,8 @@ def rules(lang):
         # general .lu rule (Jacques, 2026-09-30): always "dot L-U", never "lu"
         (r"(\w)\.lu\b", r"\1 " + dot + " L-U"),
         (r"\b(" + dot + r") lu\b", r"\1 L-U"),
+        # GouvID app (fact-check 2026-11-02): "Gouv I-D"
+        (r"\bGouvID\b", "Gouv I-D"),
         (r"(\w)\.(com|net|org|eu)\b", r"\1 " + dot + r" \2"),
     ]
     # Luxembourgish/foreign names: only where a voice clearly mis-reads them (see NAMES)

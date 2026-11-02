@@ -188,3 +188,7 @@ Jacques heard a "fade-in" at the start, slightly cut sentence transitions (mostl
 ## Ministry name (30 Sept 2026, set by Jacques)
 
 FR: "Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil" · DE: "Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen" · EN: "Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees". Applied to all FR/DE scripts (EN already matched); French and German audio of episodes 1–13 re-recorded. LB scripts keep their Luxembourgish wording.
+
+## Fact-check MyGuichet (2 Nov 2026)
+
+Checked against official sites; Jacques approved all three changes: (1) business part — VAT returns are filed on eCDF, so now "declaring their staff to social security, checking their VAT account, or applying for a business permit"; (2) new AI assistant on Guichet.lu (gouvernement.lu, 6 July 2026), added to Anna's help line; (3) eID card usable with a smartphone via the GouvID app (ctie.gouvernement.lu). Applied with `build/apply_factcheck_myguichet_2026_11.py` (EN/FR/DE/LB, turn counts unchanged, idempotent). `pronunciation.py`: GouvID → "Gouv I-D". Re-recorded with `el_run_batch.py myguichet en,fr,de` (only 19 changed sentences regenerated, ≈2,600 credits) and put live with `replace_audio_elevenlabs.js`. New durations: EN 7:49, FR 8:11, DE 9:12. Quiz unchanged. iCloud may evict files (`Resource deadlock avoided`): stage them once to download, then retry.

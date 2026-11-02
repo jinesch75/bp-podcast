@@ -64,12 +64,19 @@ def rebuild(WORK, out_mp3):
     gap_bytes=b"\x00\x00"*int(SR*GAP)
     pcm_path=WORK+"/full.pcm"
     offsets=[]
-    def decode(f):  # gain + decode one sentence (independent, so it can run in parallel)
+    # SPEED_TOM=0.92 / SPEED_ANNA=... : slow down (or speed up) one host, pitch unchanged (rubberband).
+    # Applied per sentence before joining, so timestamps stay sample-accurate.
+    def decode(job):  # gain + speed + decode one sentence (independent, so it can run in parallel)
+        k,f=job
         g=seg_gain(WORK+"/"+f)
-        return subprocess.run(["ffmpeg","-v","error","-i",WORK+"/"+f,*([] if g==0.0 else ["-af",f"volume={g:.2f}dB"]),"-f","s16le","-ac","1","-ar",str(SR),"-"],capture_output=True).stdout
+        sp=float(os.environ.get("SPEED_"+meta[k]["speaker"].upper(),"1.0"))
+        af=[]
+        if g!=0.0: af.append(f"volume={g:.2f}dB")
+        if sp!=1.0: af.append(f"rubberband=tempo={sp}:pitchq=quality:window=standard")
+        return subprocess.run(["ffmpeg","-v","error","-i",WORK+"/"+f,*(["-af",",".join(af)] if af else []),"-f","s16le","-ac","1","-ar",str(SR),"-"],capture_output=True).stdout
     from concurrent.futures import ThreadPoolExecutor
     with ThreadPoolExecutor(max_workers=int(os.environ.get("REBUILD_JOBS","4"))) as pool:
-        pcms=list(pool.map(decode, segs))  # results come back in sentence order
+        pcms=list(pool.map(decode, enumerate(segs)))  # results come back in sentence order
     if CLEAN:
         pcms=[clean_pcm(p) for p in pcms]
     with open(pcm_path,"wb") as out:

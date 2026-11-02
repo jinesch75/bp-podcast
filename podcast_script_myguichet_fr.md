@@ -56,7 +56,7 @@
 
 **ANNA :** D'accord, alors la question que beaucoup d'auditeurs vont se poser... est-ce que j'ai besoin de LuxTrust pour utiliser MyGuichet ?
 
-**TOM :** Bonne question. La réponse est... pas nécessairement. Il vous faut un moyen sécurisé pour vous connecter, mais vous avez le choix. Ça peut être un produit LuxTrust, oui. Ou la carte d'identité électronique luxembourgeoise, si vous avez une carte d'identité luxembourgeoise avec les certificats activés. Ou alors, et c'est intéressant pour les personnes venant d'autres pays européens... un identifiant eIDAS de votre propre pays.
+**TOM :** Bonne question. La réponse est... pas nécessairement. Il vous faut un moyen sécurisé pour vous connecter, mais vous avez le choix. Ça peut être un produit LuxTrust, oui. Ou la carte d'identité électronique luxembourgeoise, si vous avez une carte d'identité luxembourgeoise avec les certificats activés. Et vous pouvez même l'utiliser avec votre smartphone, grâce à l'application GouvID de l'État. Ou alors, et c'est intéressant pour les personnes venant d'autres pays européens... un identifiant eIDAS de votre propre pays.
 
 **ANNA :** eIDAS... c'est le système européen, n'est-ce pas ? Donc je pourrais utiliser, par exemple, ma carte d'identité électronique belge ou allemande ?
 
@@ -74,13 +74,13 @@
 
 **ANNA :** Waouh. Tant de domaines sont couverts, tout au même endroit.
 
-**TOM :** C'est ça. Et peut-être un mot pour les entrepreneurs qui nous écoutent : les entreprises aussi peuvent utiliser MyGuichet, avec un eSpace professionnel, pour des choses comme les déclarations d'impôts et de TVA, les déclarations de sécurité sociale pour leur personnel, ou les demandes de permis et d'autorisations.
+**TOM :** C'est ça. Et peut-être un mot pour les entrepreneurs qui nous écoutent : les entreprises aussi peuvent utiliser MyGuichet, avec un eSpace professionnel, pour des choses comme déclarer leur personnel à la sécurité sociale, consulter leur compte TVA, ou demander une autorisation d'établissement.
 
 **ANNA :** Bon à savoir. D'accord, Tom, on conclut ? Un petit résumé ?
 
 **TOM :** Bien sûr. MyGuichet.lu est la plateforme en ligne sécurisée de l'État luxembourgeois. Vous pouvez faire vos démarches administratives depuis chez vous, suivre vos dossiers, recevoir des documents officiels, et prendre des rendez-vous. Pour l'utiliser pleinement, vous vous inscrivez avec votre matricule et un moyen de connexion sécurisé.
 
-**ANNA :** Et si vous avez besoin d'aide, de nombreux tutoriels sont disponibles, ainsi qu'un service d'assistance.
+**ANNA :** Et si vous avez besoin d'aide, de nombreux tutoriels sont disponibles, ainsi qu'un service d'assistance. Et sur Guichet.lu, il y a maintenant un assistant d'intelligence artificielle : vous tapez votre question avec vos propres mots, dans votre langue, et il vous aide à trouver la bonne démarche.
 
 **TOM :** Vraiment, ça rend la vie au Luxembourg plus facile. Surtout les premiers mois.
 

@@ -56,7 +56,7 @@
 
 **ANNA:** Okay, so the question many listeners will have... do I need LuxTrust to use MyGuichet?
 
-**TOM:** Good question. The answer is... not necessarily. You need one secure way to log in, but you have a choice. It can be a LuxTrust product, yes. Or the Luxembourg electronic identity card if you have a Luxembourg ID card with the certificates activated. Or, and this is interesting for people from other European countries... an eIDAS login from your own country.
+**TOM:** Good question. The answer is... not necessarily. You need one secure way to log in, but you have a choice. It can be a LuxTrust product, yes. Or the Luxembourg electronic identity card if you have a Luxembourg ID card with the certificates activated. And you can even use it with your smartphone, through the government's GouvID app. Or, and this is interesting for people from other European countries... an eIDAS login from your own country.
 
 **ANNA:** eIDAS... that's the European system, right? So I could use, for example, my Belgian or German electronic ID?
 
@@ -74,13 +74,13 @@
 
 **ANNA:** Wow. So many areas are covered, all in one place.
 
-**TOM:** That's right. And maybe one word for the entrepreneurs listening: businesses can use MyGuichet too, with a business eSpace, for things like tax and VAT declarations, social security declarations for their staff, or applying for permits and licences.
+**TOM:** That's right. And maybe one word for the entrepreneurs listening: businesses can use MyGuichet too, with a business eSpace, for things like declaring their staff to social security, checking their VAT account, or applying for a business permit.
 
 **ANNA:** Good to know. Okay, Tom, let's wrap up. Short summary?
 
 **TOM:** Sure. MyGuichet.lu is the secure online platform of the Luxembourg State. You can do your administrative procedures from home, follow your files, receive official documents, and book appointments. To use it fully, you register with your matricule and a secure login.
 
-**ANNA:** And if you need help, many tutorials are available, and a helpdesk.
+**ANNA:** And if you need help, many tutorials are available, and a helpdesk. And on Guichet.lu there's now an AI assistant: you type your question in your own words, in your own language, and it helps you find the right procedure.
 
 **TOM:** Really, it makes life in Luxembourg easier. Especially in the first months.
 
@@ -92,4 +92,4 @@
 
 ---
 
-*Source: guichet.public.lu/en/citoyens/myguichet.html and the MyGuichet.lu help pages.*
+*Sources: guichet.public.lu/en/citoyens/myguichet.html and the MyGuichet.lu help pages; guichet.public.lu (VAT return via eCDF, CCSS employer services, business permit); gouvernement.lu (AI on Guichet.lu, 6 July 2026); ctie.gouvernement.lu (GouvID). Fact-checked 2 November 2026.*

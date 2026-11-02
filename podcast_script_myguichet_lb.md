@@ -56,7 +56,7 @@
 
 **ANNA:** Okay, also d'Fro, déi vill Nolauschterer hunn... brauch ech LuxTrust, fir MyGuichet ze benotzen?
 
-**TOM:** Gutt Fro. D'Äntwert ass... net onbedéngt. Dir braucht ee séchere Wee, fir Iech anzeloggen, mä Dir hutt eng Wiel. Et kann e LuxTrust-Produkt sinn, jo. Oder déi Lëtzebuerger elektronesch Identitéitskaart, wann Dir eng Lëtzebuerger Identitéitskaart mat aktivéierten Zertifikater hutt. Oder, an dat ass interessant fir Leit aus aneren europäesche Länner... en eIDAS-Login aus Ärem eegene Land.
+**TOM:** Gutt Fro. D'Äntwert ass... net onbedéngt. Dir braucht ee séchere Wee, fir Iech anzeloggen, mä Dir hutt eng Wiel. Et kann e LuxTrust-Produkt sinn, jo. Oder déi Lëtzebuerger elektronesch Identitéitskaart, wann Dir eng Lëtzebuerger Identitéitskaart mat aktivéierten Zertifikater hutt. An Dir kënnt se souguer mat Ärem Smartphone benotzen, iwwer d'App GouvID vum Staat. Oder, an dat ass interessant fir Leit aus aneren europäesche Länner... en eIDAS-Login aus Ärem eegene Land.
 
 **ANNA:** eIDAS... dat ass deen europäesche System, oder? Also ech kéint zum Beispill meng belsch oder däitsch elektronesch Kaart benotzen?
 
@@ -74,13 +74,13 @@
 
 **ANNA:** Wow. Sou vill Beräicher sinn ofgedeckt, alles op enger Plaz.
 
-**TOM:** Richteg. A vläicht ee Wuert fir d'Entrepreneuren, déi nolauschteren: d'Betriber kënne MyGuichet och benotzen, mat engem Betribs-eSpace, fir Saache wéi Steier- an TVA-Deklaratiounen, Sozialversécherungsdeklaratioune fir hir Mataarbechter, oder fir Autorisatiounen a Lizenzen ze froen.
+**TOM:** Richteg. A vläicht ee Wuert fir d'Entrepreneuren, déi nolauschteren: d'Betriber kënne MyGuichet och benotzen, mat engem Betribs-eSpace, fir Saache wéi hir Mataarbechter bei der Sozialversécherung unzemellen, hire TVA-Kont ze kucken, oder eng Autorisation d'établissement ze froen.
 
 **ANNA:** Gutt ze wëssen. Okay, Tom, loosse mer ofschléissen. Eng kuerz Zesummefaassung?
 
 **TOM:** Jo, gären. MyGuichet.lu ass déi sécher Online-Plattform vum Lëtzebuerger Staat. Dir kënnt Är administrativ Prozedure vun doheem aus maachen, Är Dossiere verfollegen, offiziell Dokumenter kréien, a Rendez-vouse buchen. Fir se voll ze benotzen, schreift Dir Iech mat Ärem Matricule an engem séchere Login an.
 
-**ANNA:** A wann Dir Hëllef braucht, gëtt et vill Tutorialen, an en Helpdesk.
+**ANNA:** A wann Dir Hëllef braucht, gëtt et vill Tutorialen, an en Helpdesk. An op Guichet.lu gëtt et elo en KI-Assistent: Dir tippt Är Fro an Ären eegene Wierder, an Ärer Sprooch, an hien hëlleft Iech, déi richteg Prozedur ze fannen.
 
 **TOM:** Wierklech, et mécht d'Liewen zu Lëtzebuerg méi einfach. Besonnesch an den éischte Méint.
 
