@@ -42,11 +42,11 @@
 
 **TOM:** benevolat.lu. Super! Und was finde ich auf dieser Webseite?
 
-**ANNA:** Sie ist ein Treffpunkt. Auf der einen Seite die Organisationen, Gemeinden oder Unternehmen, die Hilfe suchen. Auf der anderen Seite Menschen wie Sie und ich, die etwas Zeit geben möchten. Die Plattform bringt beide zusammen. Es gibt sogar ein intelligentes Matching-System — es schaut auf Ihre Interessen und Fähigkeiten und schlägt Ihnen Einsätze vor, die Sie interessieren könnten.
+**ANNA:** Sie ist ein Treffpunkt. Auf der einen Seite die Organisationen, Gemeinden oder Unternehmen, die Hilfe suchen. Auf der anderen Seite Menschen wie Sie und ich, die etwas Zeit geben möchten. Die Plattform bringt beide zusammen. Es gibt sogar ein intelligentes Matching-System — es schaut auf Ihre Interessen und Fähigkeiten und schlägt Ihnen Einsätze vor, die Sie interessieren könnten — es schickt sie Ihnen sogar per E-Mail.
 
 **TOM:** Und ist die Auswahl groß?
 
-**ANNA:** Sehr groß. Gesundheit. Humanitäre Hilfe. Umwelt. Zusammenleben — Solidarität und Inklusion. Kultur. Bildung. Soziale und zwischenmenschliche Arbeit. Freizeit. Sport. Tiere. Nothilfe. Zum Beispiel: Hinter jedem Sportverein in Luxemburg stehen Freiwillige, die ihn am Laufen halten. Und in manchen Krankenhäusern sind Freiwillige einfach da, nah bei den Patienten. Um zu reden. Um Gesellschaft zu leisten.
+**ANNA:** Sehr groß. Gesundheit. Humanitäre Hilfe. Umwelt. Zusammenleben — Solidarität und Inklusion. Kultur. Bildung. Soziale und zwischenmenschliche Arbeit. Freizeit. Sport. Tiere. Nothilfe. Und sogar mithelfen, einen Verein zu führen, indem man in seinen Vorstand geht. Zum Beispiel: Hinter jedem Sportverein in Luxemburg stehen Freiwillige, die ihn am Laufen halten. Und in manchen Krankenhäusern sind Freiwillige einfach da, nah bei den Patienten. Um zu reden. Um Gesellschaft zu leisten.
 
 **TOM:** Das ist schön. Einfach für jemanden da sein.
 

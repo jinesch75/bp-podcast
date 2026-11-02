@@ -42,11 +42,11 @@
 
 **TOM:** benevolat.lu. Super! A wat fannen ech op där Säit?
 
-**ANNA:** Et ass eng Treffplaz. Op der enger Säit d'Organisatiounen, d'Gemengen oder d'Firmen, déi Hëllef sichen. Op der anerer Säit Leit wéi Dir an ech, déi e bësse Zäit gi wëllen. D'Plattform bréngt déi zwou Säiten zesummen. Si hu souguer en intelligente Matching-System derbäigesat — e kuckt Är Interessen an Är Kompetenzen, a proposéiert Iech Missiounen, déi Iech kéinten interesséieren.
+**ANNA:** Et ass eng Treffplaz. Op der enger Säit d'Organisatiounen, d'Gemengen oder d'Firmen, déi Hëllef sichen. Op der anerer Säit Leit wéi Dir an ech, déi e bësse Zäit gi wëllen. D'Plattform bréngt déi zwou Säiten zesummen. Si hu souguer en intelligente Matching-System derbäigesat — e kuckt Är Interessen an Är Kompetenzen, a proposéiert Iech Missiounen, déi Iech kéinten interesséieren — e schéckt Iech se souguer per E-Mail.
 
 **TOM:** An ass d'Auswiel grouss?
 
-**ANNA:** Ganz grouss. Gesondheet. Humanitär Hëllef. Ëmwelt. Zesummeliewen — Solidaritéit an Inklusioun. Kultur. Educatioun. Sozial a relational Aarbecht. Fräizäit. Sport. Déieren. Noutfallhëllef. Zum Beispill: hannert all Sportsveräin zu Lëtzebuerg stinn Benevollen, déi en um Lafen halen. An an e puer Spideeler sinn d'Benevollen einfach do, no bei de Patienten. Fir ze schwätzen. Fir Gesellschaft ze leeschten.
+**ANNA:** Ganz grouss. Gesondheet. Humanitär Hëllef. Ëmwelt. Zesummeliewen — Solidaritéit an Inklusioun. Kultur. Educatioun. Sozial a relational Aarbecht. Fräizäit. Sport. Déieren. Noutfallhëllef. An och hëllefen, e Veräin ze féieren, andeem een a säi Comité geet. Zum Beispill: hannert all Sportsveräin zu Lëtzebuerg stinn Benevollen, déi en um Lafen halen. An an e puer Spideeler sinn d'Benevollen einfach do, no bei de Patienten. Fir ze schwätzen. Fir Gesellschaft ze leeschten.
 
 **TOM:** Dat ass léif. Einfach fir een do sinn.
 

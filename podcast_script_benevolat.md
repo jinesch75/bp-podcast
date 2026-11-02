@@ -30,7 +30,7 @@
 
 **TOM:** Thirty-five percent? More than one person in three?
 
-**ANNA:** More than one in three. And that puts Luxembourg fourth in all of Europe. There's even an International Volunteering Day every year, on the fifth of December.
+**ANNA:** More than one in three. And that puts Luxembourg fourth in all of Europe. There's even an International Volunteer Day every year, on the fifth of December.
 
 **TOM:** So it's really part of the culture here.
 
@@ -42,11 +42,11 @@
 
 **TOM:** benevolat.lu. Great! And what do I find on that webpage?
 
-**ANNA:** It's a meeting point. On one side, the organizations, municipalities or companies looking for help. On the other side, people like you and me who want to give some time. The platform brings the two together. They even added a smart matching system — it looks at your interests and skills, and suggests missions that could be of interest to you.
+**ANNA:** It's a meeting point. On one side, the organizations, municipalities or companies looking for help. On the other side, people like you and me who want to give some time. The platform brings the two together. They even added a smart matching system — it looks at your interests and skills, and suggests missions that could be of interest to you — it even sends them to you by email.
 
 **TOM:** And is the choice big?
 
-**ANNA:** Very big. Health. Humanitarian help. The environment. Living together — solidarity and inclusion. Culture. Education. Social and relational work. Leisure. Sports. Animals. Emergency relief. For example, behind every sports club in Luxembourg, there are volunteers who keep it running. And in some hospitals, volunteers are simply there, close to the patients. To talk. To keep company.
+**ANNA:** Very big. Health. Humanitarian help. The environment. Living together — solidarity and inclusion. Culture. Education. Social and relational work. Leisure. Sports. Animals. Emergency relief. And even helping to run an association, by joining its board. For example, behind every sports club in Luxembourg, there are volunteers who keep it running. And in some hospitals, volunteers are simply there, close to the patients. To talk. To keep company.
 
 **TOM:** That's lovely. Just being there for someone.
 
@@ -94,4 +94,4 @@
 
 ---
 
-*Sources: benevolat.lu (Agence du Bénévolat — homepage, FAQ, "Information on volunteering", missions directory) and luxembourg.public.lu/en — "Volunteering" (quality-of-life), Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. Voluntary service for under-30s: National Youth Service, volontaires.lu.*
+*Sources: benevolat.lu (Agence du Bénévolat — homepage, FAQ, "Information on volunteering", missions directory) and luxembourg.public.lu/en — "Volunteering" (quality-of-life), Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. Voluntary service for under-30s: National Youth Service, volontaires.lu. Fact-checked 2 November 2026 (benevolat.lu smart matching 01.06.2026, field list; STATEC Regards 10/24).*

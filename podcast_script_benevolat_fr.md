@@ -42,11 +42,11 @@
 
 **TOM :** benevolat.lu. Super ! Et qu'est-ce que je trouve sur ce site ?
 
-**ANNA :** C'est un point de rencontre. D'un côté, les organisations, les communes ou les entreprises qui cherchent de l'aide. De l'autre, des gens comme vous et moi qui veulent donner un peu de temps. La plateforme met les deux en relation. Ils ont même ajouté un système de mise en relation intelligent — il regarde vos centres d'intérêt et vos compétences, et vous propose des missions qui pourraient vous intéresser.
+**ANNA :** C'est un point de rencontre. D'un côté, les organisations, les communes ou les entreprises qui cherchent de l'aide. De l'autre, des gens comme vous et moi qui veulent donner un peu de temps. La plateforme met les deux en relation. Ils ont même ajouté un système de mise en relation intelligent — il regarde vos centres d'intérêt et vos compétences, et vous propose des missions qui pourraient vous intéresser — il vous les envoie même par e-mail.
 
 **TOM :** Et le choix est grand ?
 
-**ANNA :** Très grand. La santé. L'aide humanitaire. L'environnement. Le vivre-ensemble — la solidarité et l'inclusion. La culture. L'éducation. Le travail social et relationnel. Les loisirs. Le sport. Les animaux. Les secours d'urgence. Par exemple, derrière chaque club sportif au Luxembourg, il y a des bénévoles qui le font tourner. Et dans certains hôpitaux, des bénévoles sont simplement là, auprès des patients. Pour parler. Pour tenir compagnie.
+**ANNA :** Très grand. La santé. L'aide humanitaire. L'environnement. Le vivre-ensemble — la solidarité et l'inclusion. La culture. L'éducation. Le travail social et relationnel. Les loisirs. Le sport. Les animaux. Les secours d'urgence. Et même aider à faire tourner une association, en entrant dans son conseil d'administration. Par exemple, derrière chaque club sportif au Luxembourg, il y a des bénévoles qui le font tourner. Et dans certains hôpitaux, des bénévoles sont simplement là, auprès des patients. Pour parler. Pour tenir compagnie.
 
 **TOM :** C'est touchant. Simplement être là pour quelqu'un.
 
