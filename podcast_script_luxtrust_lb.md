@@ -22,11 +22,11 @@
 
 **TOM:** Ah. Also ass et wéi eng Identitéitskaart, mä fir den Internet.
 
-**ANNA:** Genau. A LuxTrust ass d'Firma, déi se ubitt. Si sinn dat, wat mer eng "Certificate Authority" an en "trust service provider" nennen. Si sinn vun der Europäescher Unioun zertifizéiert, a si maachen dat scho ronn zwanzeg Joer.
+**ANNA:** Genau. A LuxTrust ass d'Firma, déi se ubitt. Si sinn dat, wat mer eng "Certificate Authority" an en "trust service provider" nennen. A si sinn an der Europäescher Unioun offiziell als "qualifizéierte" Provider unerkannt. Si maachen dat scho méi wéi zwanzeg Joer — zënter 2005.
 
 **TOM:** Zwanzeg Joer. Also ass et gutt etabléiert. An sinn meng Donnéeën sécher bei hinnen?
 
-**ANNA:** Jo. Är Donnéeën sinn verschlësselt, a gespäichert an Datenzentren hei, zu Lëtzebuerg. D'Sécherheet ass wierklech de ganze Sënn vun der Firma.
+**ANNA:** Jo. Är Donnéeën sinn verschlësselt, a gespäichert a sécheren Datenzentren an der Europäescher Unioun. D'Sécherheet ass wierklech de ganze Sënn vun der Firma.
 
 **TOM:** Gutt. Elo déi wichtegst Fro fir déi meescht Leit. Wat kann ech eigentlech mat menger LuxTrust-Identitéit maachen?
 
@@ -66,7 +66,7 @@
 
 **TOM:** Apropos — wat sinn déi verschidde LuxTrust-Produkter? Well ech mengen, et gëtt eng Wiel.
 
-**ANNA:** Et gëtt. Fir eng Privatpersoun gëtt et dräi Haaptprodukter. Dat éischt, an haut dat populärst — d'LuxTrust Mobile App. Et ass eng honnertprozenteg mobil Léisung. Alles geschitt op Ärem Smartphone.
+**ANNA:** Et gëtt. Fir eng Privatpersoun gëtt et dräi Haaptprodukter. Dat éischt, an dat einfachst — d'LuxTrust Mobile App. Et ass eng honnertprozenteg mobil Léisung. Alles geschitt op Ärem Smartphone.
 
 **TOM:** Also keng extra Apparat ze droen. Just mäin Handy.
 
@@ -78,7 +78,7 @@
 
 **TOM:** Gutt ze wëssen. An — ongeféier — wat kascht et?
 
-**ANNA:** Et ass e bezuelte Service, dräi Joer gülteg. Als groff Iddi, d'App fänkt bei ronn fofzeg Euro fir dräi Joer un, an déi physesch Apparater kaschten e bësse méi. Mä iwwerpréift w.e.g. déi genee Präisser op luxtrust.com, well se kënne sech änneren.
+**ANNA:** Et ass e bezuelte Service, dräi Joer gülteg. Momentan kascht d'App siwenavéierzeg Euro fir dräi Joer. De Scan fänkt bei honnertfënnef Euro un, an d'SmartCard bei honnertnénganzwanzeg Euro. Mä iwwerpréift w.e.g. déi genee Präisser op luxtrust.com, well se kënne sech änneren.
 
 **TOM:** Iwwerpréift ëmmer d'Websäit fir de genee Präis. Okay, Anna — elo déi grouss praktesch Fro. Ech sinn nei hei, ech hu nach näischt. Wéi kréien ech eng LuxTrust-Identitéit? Schrëtt fir Schrëtt.
 
@@ -86,7 +86,7 @@
 
 **TOM:** Ah, also meng Bank kann et fir mech ariichten.
 
-**ANNA:** Ganz dacks, jo — vill Leit kréien hire LuxTrust iwwer hir Bank. Schrëtt dräi, an deen ass wichteg — Dir musst Iech identifizéiere loossen. Well si e Beweis vun Ärer Identitéit erstellen, mussen si iwwerpréiwen, wien Dir sidd. Dir kënnt dat vis-à-vis maachen, mat engem vun hiren Agenten. Oder op Distanz, duerch eng Video-Identifikatioun.
+**ANNA:** Ganz dacks, jo — vill Leit kréien hire LuxTrust iwwer hir Bank. Schrëtt dräi, an deen ass wichteg — Dir musst Iech identifizéiere loossen. Well si e Beweis vun Ärer Identitéit erstellen, mussen si iwwerpréiwen, wien Dir sidd. Dir kënnt dat perséinlech maachen — bei LuxTrust, bei engem Partner wéi Ärer Bank, oder bei engem Notaire. Oder op Distanz, duerch eng Video-Identifikatioun.
 
 **TOM:** Also, e bësse wéi e Bankkont opzemaachen. Si verifizéieren, datt et wierklech ech sinn.
 
@@ -102,7 +102,7 @@
 
 **TOM:** Okay. A wéi geet d'Aktivéierung selwer?
 
-**ANNA:** Et hänkt vum Produkt of. Fir d'Mobile App aktivéiert Dir et direkt op Ärem Smartphone, andeem Dir dem Guide follegt. Fir de Scan dauert et ongeféier sechs Minutten — Dir follegt de Schrëtt, scannt e puer QR-Codes, a setzt en neit, staarkt Passwuert. Fir d'SmartCard ass et e bësse méi laang, ronn zwanzeg Minutten, well Dir als éischt d'Software, déi Middleware genannt gëtt, op Ärem Computer installéiert.
+**ANNA:** Et hänkt vum Produkt of. Fir d'Mobile App aktivéiert Dir et direkt op Ärem Smartphone, andeem Dir dem Guide follegt — dat dauert ongeféier fënnef Minutten. Fir de Scan dauert et ongeféier sechs Minutten — Dir follegt de Schrëtt, scannt e puer QR-Codes, a setzt en neit, staarkt Passwuert. Fir d'SmartCard ass et e bësse méi laang, ronn zwanzeg Minutten, well Dir als éischt d'Software, déi Middleware genannt gëtt, op Ärem Computer installéiert.
 
 **TOM:** A wann ech fäerdeg sinn ze aktivéieren — kann ech et direkt benotzen?
 
@@ -130,11 +130,11 @@
 
 **TOM:** Eng Identitéit, fir Äert ganzt digitaalt Liewen hei. E kuerze Resumé fir ofzeschléissen?
 
-**ANNA:** Klar. LuxTrust ass Är sécher digital Identitéit zu Lëtzebuerg — wéi eng Identitéitskaart fir den Internet, vun engem europäesch zertifizéierte Provider. Dir benotzt se fir Online-Banking, fir ëffentlech Servicer wéi MyGuichet, fir juristesch gülteg elektronesch Ënnerschrëften, a fir Online-Bezuelungen. Dir kritt se iwwer Är Bank oder op luxtrust.com, Dir beweist Är Identitéit perséinlech oder per Video, an Dir aktivéiert se — am einfachste mat der Mobile App.
+**ANNA:** Klar. LuxTrust ass Är sécher digital Identitéit zu Lëtzebuerg — wéi eng Identitéitskaart fir den Internet, vun engem op europäeschem Niveau unerkannte Provider. Dir benotzt se fir Online-Banking, fir ëffentlech Servicer wéi MyGuichet, fir juristesch gülteg elektronesch Ënnerschrëften, a fir Online-Bezuelungen. Dir kritt se iwwer Är Bank oder op luxtrust.com, Dir beweist Är Identitéit perséinlech oder per Video, an Dir aktivéiert se — am einfachste mat der Mobile App.
 
 **TOM:** An de Sécherheetsmessage?
 
-**ANNA:** LuxTrust freet ni no Äre Codes, rifft ni un fir sensibel Donnéeën, freet ni fir Zougang zu Ären Apparater. Behalt Är Login-Donnéeë fir Iech. Am Zweiwel, iwwerpréift déi offiziell Websäit.
+**ANNA:** LuxTrust freet ni no Äre Codes, rifft ni un fir sensibel Donnéeën, a kënnt ni bei Iech heem. Behalt Är Login-Donnéeë fir Iech. Am Zweiwel, iwwerpréift déi offiziell Websäit.
 
 **TOM:** Schéin. Also... Är digital Identitéit ass de Schlëssel zum alldeeglechen Liewen online zu Lëtzebuerg. Riicht et eemol an, a sou vill gëtt méi einfach.
 

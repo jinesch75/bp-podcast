@@ -52,7 +52,7 @@
 
 **ANNA:** Ah, an hei kënnt LuxTrust an d'Spill?
 
-**TOM:** Genee. LuxTrust ass eng Firma, déi sécher digital Identitéit ubitt. Dat populäerst Produkt ass LuxTrust Mobile — eng App op Ärem Handy. Wann Dir Iech iergendwou aloggt, freet d'App Iech, ze bestätegen. Vill Leit benotzen se schonn fir hiren Online-Banking.
+**TOM:** Genee. LuxTrust ass eng Firma, déi sécher digital Identitéit ubitt. Dat einfachst Produkt ass LuxTrust Mobile — eng App op Ärem Handy. Wann Dir Iech iergendwou aloggt, freet d'App Iech, ze bestätegen. Vill Leit benotzen se schonn fir hiren Online-Banking.
 
 **ANNA:** Okay, also d'Fro, déi vill Nolauschterer hunn... brauch ech LuxTrust, fir MyGuichet ze benotzen?
 

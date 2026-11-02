@@ -22,11 +22,11 @@
 
 **TOM:** Ah. So it's like an ID card, but for the internet.
 
-**ANNA:** Exactly. And LuxTrust is the company that provides it. They are what we call a "Certificate Authority" and a "trust service provider". They are certified by the European Union, and they have been doing this for about twenty years.
+**ANNA:** Exactly. And LuxTrust is the company that provides it. They are what we call a "Certificate Authority" and a "trust service provider". And they are officially recognised in the European Union as a 'qualified' provider. They have been doing this for more than twenty years — since 2005.
 
 **TOM:** Twenty years. So it's well established. And is my data safe with them?
 
-**ANNA:** Yes. Your data is encrypted, and stored in data centres here, in Luxembourg. Security is really the whole point of the company.
+**ANNA:** Yes. Your data is encrypted, and stored in secure data centres in the European Union. Security is really the whole point of the company.
 
 **TOM:** Good. Now the most important question for most people. What can I actually do with my LuxTrust identity?
 
@@ -66,7 +66,7 @@
 
 **TOM:** Speaking of which — what are the different LuxTrust products? Because I think there's a choice.
 
-**ANNA:** There is. For an individual, there are three main products. The first, and today the most popular — the LuxTrust Mobile app. It's a one-hundred-percent mobile solution. Everything happens on your smartphone.
+**ANNA:** There is. For an individual, there are three main products. The first, and the simplest — the LuxTrust Mobile app. It's a one-hundred-percent mobile solution. Everything happens on your smartphone.
 
 **TOM:** So no extra device to carry. Just my phone.
 
@@ -78,7 +78,7 @@
 
 **TOM:** Good to know. And — roughly — what does it cost?
 
-**ANNA:** It's a paid service, valid for three years. As a rough idea, the app starts at around fifty euros for three years, and the physical devices cost a bit more. But please check the exact prices on luxtrust.com, because they can change.
+**ANNA:** It's a paid service, valid for three years. Right now, the app costs forty-seven euros for three years. The Scan starts at a hundred and five euros, and the SmartCard at a hundred and twenty-nine euros. But please check the exact prices on luxtrust.com, because they can change.
 
 **TOM:** Always check the website for the exact price. Okay, Anna — now the big practical question. I'm new here, I have nothing yet. How do I get a LuxTrust identity? Step by step.
 
@@ -86,7 +86,7 @@
 
 **TOM:** Ah, so my bank can set it up for me.
 
-**ANNA:** Very often, yes — many people get their LuxTrust through their bank. Step three, and this one is important — you must get identified. Because they are creating proof of your identity, they must check who you are. You can do this face-to-face, with one of their agents. Or remotely, by a video identification.
+**ANNA:** Very often, yes — many people get their LuxTrust through their bank. Step three, and this one is important — you must get identified. Because they are creating proof of your identity, they must check who you are. You can do this in person — at LuxTrust, at a partner such as your bank, or at a notary. Or remotely, by a video identification.
 
 **TOM:** So, a bit like opening a bank account. They verify it's really me.
 
@@ -102,7 +102,7 @@
 
 **TOM:** Okay. And how does the activation itself go?
 
-**ANNA:** It depends on the product. For the Mobile app, you activate it directly on your smartphone, following the guide. For the Scan, it takes about six minutes — you follow the steps, scan some QR codes, and set a new, strong password. For the SmartCard, it's a bit longer, around twenty minutes, because you first install the software, called the middleware, on your computer.
+**ANNA:** It depends on the product. For the Mobile app, you activate it directly on your smartphone, following the guide — it takes about five minutes. For the Scan, it takes about six minutes — you follow the steps, scan some QR codes, and set a new, strong password. For the SmartCard, it's a bit longer, around twenty minutes, because you first install the software, called the middleware, on your computer.
 
 **TOM:** And once I finish activating — can I use it immediately?
 
@@ -130,11 +130,11 @@
 
 **TOM:** One identity, for your whole digital life here. Short summary to finish?
 
-**ANNA:** Sure. LuxTrust is your secure digital identity in Luxembourg — like an ID card for the internet, from a European-certified provider. You use it for online banking, for public services like MyGuichet, for legally-valid electronic signatures, and for online payments. You get it through your bank or on luxtrust.com, you prove your identity in person or by video, and you activate it — most easily with the Mobile app.
+**ANNA:** Sure. LuxTrust is your secure digital identity in Luxembourg — like an ID card for the internet, from a provider recognised at European level. You use it for online banking, for public services like MyGuichet, for legally-valid electronic signatures, and for online payments. You get it through your bank or on luxtrust.com, you prove your identity in person or by video, and you activate it — most easily with the Mobile app.
 
 **TOM:** And the safety message?
 
-**ANNA:** LuxTrust never asks for your codes, never calls for sensitive data, never asks to access your devices. Keep your credentials to yourself. When in doubt, check the official website.
+**ANNA:** LuxTrust never asks for your codes, never calls for sensitive data, and never comes to your home. Keep your credentials to yourself. When in doubt, check the official website.
 
 **TOM:** Beautiful. So... your digital identity is the key to daily life online in Luxembourg. Set it up once, and so much becomes easier.
 
@@ -146,4 +146,4 @@
 
 ---
 
-*Source: luxtrust.com/en — "Discover LuxTrust" (Individuals), "How to use LuxTrust", "Order a product for private use", and "Activate", LuxTrust S.A. General information only — prices and procedures can change, so always check luxtrust.com for your personal situation.*
+*Source: luxtrust.com/en — "Discover LuxTrust" (Individuals), "How to use LuxTrust", "Order a product for private use", and "Activate", LuxTrust S.A. Also: luxtrust.com/en/security, /certifications, /about-us/who-we-are, /app, /order-product-private-use (prices checked 2 November 2026). General information only — prices and procedures can change, so always check luxtrust.com for your personal situation.*

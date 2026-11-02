@@ -22,11 +22,11 @@
 
 **TOM :** Ah. Donc c'est comme une carte d'identité, mais pour internet.
 
-**ANNA :** Exactement. Et LuxTrust est l'entreprise qui la fournit. C'est ce qu'on appelle une « autorité de certification » et un « prestataire de services de confiance ». Ils sont certifiés par l'Union européenne, et ils font ça depuis une vingtaine d'années.
+**ANNA :** Exactement. Et LuxTrust est l'entreprise qui la fournit. C'est ce qu'on appelle une « autorité de certification » et un « prestataire de services de confiance ». Et ils sont officiellement reconnus dans l'Union européenne comme prestataire « qualifié ». Ils font ça depuis plus de vingt ans — depuis 2005.
 
 **TOM :** Vingt ans. Donc c'est bien établi. Et mes données sont-elles en sécurité chez eux ?
 
-**ANNA :** Oui. Vos données sont chiffrées, et stockées dans des centres de données ici, au Luxembourg. La sécurité, c'est vraiment toute la raison d'être de l'entreprise.
+**ANNA :** Oui. Vos données sont chiffrées, et stockées dans des centres de données sécurisés dans l'Union européenne. La sécurité, c'est vraiment toute la raison d'être de l'entreprise.
 
 **TOM :** Bien. Maintenant, la question la plus importante pour la plupart des gens. Qu'est-ce que je peux réellement faire avec mon identité LuxTrust ?
 
@@ -66,7 +66,7 @@
 
 **TOM :** À ce propos — quels sont les différents produits LuxTrust ? Parce que je crois qu'il y a un choix.
 
-**ANNA :** En effet. Pour un particulier, il y a trois produits principaux. Le premier, et aujourd'hui le plus populaire — l'appli LuxTrust Mobile. C'est une solution cent pour cent mobile. Tout se passe sur votre smartphone.
+**ANNA :** En effet. Pour un particulier, il y a trois produits principaux. Le premier, et le plus simple — l'appli LuxTrust Mobile. C'est une solution cent pour cent mobile. Tout se passe sur votre smartphone.
 
 **TOM :** Donc pas de dispositif supplémentaire à transporter. Juste mon téléphone.
 
@@ -78,7 +78,7 @@
 
 **TOM :** Bon à savoir. Et — à peu près — combien ça coûte ?
 
-**ANNA :** C'est un service payant, valable trois ans. Pour donner une idée, l'appli commence autour de cinquante euros pour trois ans, et les dispositifs physiques coûtent un peu plus. Mais vérifiez les prix exacts sur luxtrust.com, car ils peuvent changer.
+**ANNA :** C'est un service payant, valable trois ans. En ce moment, l'appli coûte quarante-sept euros pour trois ans. Le Scan commence à cent cinq euros, et la SmartCard à cent vingt-neuf euros. Mais vérifiez les prix exacts sur luxtrust.com, car ils peuvent changer.
 
 **TOM :** Toujours vérifier le site web pour le prix exact. D'accord, Anna — maintenant la grande question pratique. Je suis nouveau ici, je n'ai rien encore. Comment est-ce que j'obtiens une identité LuxTrust ? Étape par étape.
 
@@ -86,7 +86,7 @@
 
 **TOM :** Ah, donc ma banque peut me la mettre en place.
 
-**ANNA :** Très souvent, oui — beaucoup de gens obtiennent leur LuxTrust par leur banque. Étape trois, et celle-ci est importante — vous devez être identifié. Comme ils créent une preuve de votre identité, ils doivent vérifier qui vous êtes. Vous pouvez le faire en personne, avec un de leurs agents. Ou à distance, par une identification vidéo.
+**ANNA :** Très souvent, oui — beaucoup de gens obtiennent leur LuxTrust par leur banque. Étape trois, et celle-ci est importante — vous devez être identifié. Comme ils créent une preuve de votre identité, ils doivent vérifier qui vous êtes. Vous pouvez le faire en personne — chez LuxTrust, chez un partenaire comme votre banque, ou chez un notaire. Ou à distance, par une identification vidéo.
 
 **TOM :** Donc, un peu comme ouvrir un compte bancaire. Ils vérifient que c'est bien moi.
 
@@ -102,7 +102,7 @@
 
 **TOM :** D'accord. Et comment se déroule l'activation elle-même ?
 
-**ANNA :** Ça dépend du produit. Pour l'appli Mobile, vous l'activez directement sur votre smartphone, en suivant le guide. Pour le Scan, ça prend environ six minutes — vous suivez les étapes, scannez quelques QR codes, et définissez un nouveau mot de passe robuste. Pour la SmartCard, c'est un peu plus long, autour de vingt minutes, car vous installez d'abord le logiciel, appelé middleware, sur votre ordinateur.
+**ANNA :** Ça dépend du produit. Pour l'appli Mobile, vous l'activez directement sur votre smartphone, en suivant le guide — ça prend environ cinq minutes. Pour le Scan, ça prend environ six minutes — vous suivez les étapes, scannez quelques QR codes, et définissez un nouveau mot de passe robuste. Pour la SmartCard, c'est un peu plus long, autour de vingt minutes, car vous installez d'abord le logiciel, appelé middleware, sur votre ordinateur.
 
 **TOM :** Et une fois l'activation terminée — je peux l'utiliser tout de suite ?
 
@@ -130,11 +130,11 @@
 
 **TOM :** Une seule identité, pour toute votre vie numérique ici. Un petit résumé pour finir ?
 
-**ANNA :** Bien sûr. LuxTrust, c'est votre identité numérique sécurisée au Luxembourg — comme une carte d'identité pour internet, d'un prestataire certifié au niveau européen. Vous l'utilisez pour la banque en ligne, pour les services publics comme MyGuichet, pour des signatures électroniques juridiquement valables, et pour les paiements en ligne. Vous l'obtenez par votre banque ou sur luxtrust.com, vous prouvez votre identité en personne ou par vidéo, et vous l'activez — le plus facilement avec l'appli Mobile.
+**ANNA :** Bien sûr. LuxTrust, c'est votre identité numérique sécurisée au Luxembourg — comme une carte d'identité pour internet, d'un prestataire reconnu au niveau européen. Vous l'utilisez pour la banque en ligne, pour les services publics comme MyGuichet, pour des signatures électroniques juridiquement valables, et pour les paiements en ligne. Vous l'obtenez par votre banque ou sur luxtrust.com, vous prouvez votre identité en personne ou par vidéo, et vous l'activez — le plus facilement avec l'appli Mobile.
 
 **TOM :** Et le message de sécurité ?
 
-**ANNA :** LuxTrust ne demande jamais vos codes, n'appelle jamais pour des données sensibles, ne demande jamais à accéder à vos appareils. Gardez vos identifiants pour vous. En cas de doute, vérifiez sur le site officiel.
+**ANNA :** LuxTrust ne demande jamais vos codes, n'appelle jamais pour des données sensibles, et ne vient jamais chez vous. Gardez vos identifiants pour vous. En cas de doute, vérifiez sur le site officiel.
 
 **TOM :** Magnifique. Donc... votre identité numérique est la clé de la vie quotidienne en ligne au Luxembourg. Configurez-la une fois, et tant de choses deviennent plus faciles.
 

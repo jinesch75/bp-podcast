@@ -336,313 +336,313 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "The most popular product is LuxTrust Mobile — an app on your phone.",
-    "t": 216.57
+    "text": "The simplest product is LuxTrust Mobile — an app on your phone.",
+    "t": 216.55
    },
    {
     "speaker": "Tom",
     "text": "When you log in somewhere, the app asks you to confirm.",
-    "t": 220.44
+    "t": 220.27
    },
    {
     "speaker": "Tom",
     "text": "Many people already use it for their online banking.",
-    "t": 223.48
+    "t": 223.5
    },
    {
     "speaker": "Anna",
     "text": "Okay, so the question many listeners will have... do I need LuxTrust to use MyGuichet?",
-    "t": 226.2
+    "t": 226.19
    },
    {
     "speaker": "Tom",
     "text": "Good question. The answer is... not necessarily.",
-    "t": 231.26
+    "t": 231.25
    },
    {
     "speaker": "Tom",
     "text": "You need one secure way to log in, but you have a choice.",
-    "t": 234.31
+    "t": 234.3
    },
    {
     "speaker": "Tom",
     "text": "It can be a LuxTrust product, yes.",
-    "t": 237.33
+    "t": 237.32
    },
    {
     "speaker": "Tom",
     "text": "Or the Luxembourg electronic identity card if you have a Luxembourg ID card with the certificates activated.",
-    "t": 239.64
+    "t": 239.63
    },
    {
     "speaker": "Tom",
     "text": "And you can even use it with your smartphone, through the government's GouvID app.",
-    "t": 246.14
+    "t": 246.13
    },
    {
     "speaker": "Tom",
     "text": "Or, and this is interesting for people from other European countries... an eIDAS login from your own country.",
-    "t": 250.65
+    "t": 250.64
    },
    {
     "speaker": "Anna",
     "text": "eIDAS... that's the European system, right?",
-    "t": 257.87
+    "t": 257.86
    },
    {
     "speaker": "Anna",
     "text": "So I could use, for example, my Belgian or German electronic ID?",
-    "t": 260.34
+    "t": 260.33
    },
    {
     "speaker": "Tom",
     "text": "Exactly. If your country has one of these national systems, you can often use it to log in to MyGuichet — you still need your matricule.",
-    "t": 264.4
+    "t": 264.39
    },
    {
     "speaker": "Tom",
     "text": "But with a foreign login, you can't sign some forms, like your tax return.",
-    "t": 272.27
+    "t": 272.26
    },
    {
     "speaker": "Tom",
     "text": "And one more thing — some simple procedures work even without logging in at all.",
-    "t": 276.19
+    "t": 276.18
    },
    {
     "speaker": "Tom",
     "text": "But then you have fewer options.",
-    "t": 280.88
+    "t": 280.87
    },
    {
     "speaker": "Tom",
     "text": "You can't save the form and continue later, and you can't follow the status.",
-    "t": 282.53
+    "t": 282.52
    },
    {
     "speaker": "Tom",
     "text": "So... having a real account is much better.",
-    "t": 286.35
+    "t": 286.34
    },
    {
     "speaker": "Tom",
     "text": "But honestly, if you live or work here, LuxTrust Mobile is the easy way.",
-    "t": 289.23
+    "t": 289.22
    },
    {
     "speaker": "Tom",
     "text": "You install the app once, and... that's it.",
-    "t": 293.49
+    "t": 293.48
    },
    {
     "speaker": "Tom",
     "text": "And if you already use it for your bank, you can use the same one.",
-    "t": 296.39
+    "t": 296.38
    },
    {
     "speaker": "Anna",
     "text": "Good. So, let's say I have my matricule and my LuxTrust.",
-    "t": 299.64
+    "t": 299.63
    },
    {
     "speaker": "Anna",
     "text": "What do I do?",
-    "t": 303.4
+    "t": 303.39
    },
    {
     "speaker": "Tom",
     "text": "It's quite simple.",
-    "t": 304.64
+    "t": 304.63
    },
    {
     "speaker": "Tom",
     "text": "You go to Guichet.lu, you click on \"Log in\", and you follow the steps with your email and your matricule.",
-    "t": 305.76
+    "t": 305.75
    },
    {
     "speaker": "Tom",
     "text": "Then you create your personal eSpace.",
-    "t": 311.93
+    "t": 311.92
    },
    {
     "speaker": "Tom",
     "text": "It takes a few minutes.",
-    "t": 314.37
+    "t": 314.36
    },
    {
     "speaker": "Tom",
     "text": "And there are tutorials on the website, step by step.",
-    "t": 315.64
+    "t": 315.63
    },
    {
     "speaker": "Anna",
     "text": "Perfect. Now... what kind of procedures are we talking about?",
-    "t": 318.72
+    "t": 318.71
    },
    {
     "speaker": "Anna",
     "text": "Which areas?",
-    "t": 322.35
+    "t": 322.34
    },
    {
     "speaker": "Tom",
     "text": "Almost everything in daily life, really.",
-    "t": 323.64
+    "t": 323.63
    },
    {
     "speaker": "Tom",
     "text": "Let's see... citizenship — so identity card, passport, criminal record.",
-    "t": 325.61
+    "t": 325.6
    },
    {
     "speaker": "Tom",
     "text": "And here is a nice one: as a foreign resident, you can apply to register on the electoral rolls — so you can vote in the communal elections.",
-    "t": 331.3
+    "t": 331.29
    },
    {
     "speaker": "Tom",
     "text": "And if you're a citizen of another EU country, in the European elections too.",
-    "t": 339.07
+    "t": 339.06
    },
    {
     "speaker": "Tom",
     "text": "Then immigration — residence permits, for example.",
-    "t": 343.13
+    "t": 343.12
    },
    {
     "speaker": "Tom",
     "text": "Very important when you arrive.",
-    "t": 345.91
+    "t": 345.9
    },
    {
     "speaker": "Tom",
     "text": "Then family and education... taxation — yes, you can do your tax return online.",
-    "t": 347.55
+    "t": 347.54
    },
    {
     "speaker": "Tom",
     "text": "Transport — your driving licence, registering a car.",
-    "t": 352.91
+    "t": 352.9
    },
    {
     "speaker": "Tom",
     "text": "Health and social security.",
-    "t": 356.18
+    "t": 356.17
    },
    {
     "speaker": "Tom",
     "text": "Housing. Financial aid.",
-    "t": 357.97
+    "t": 357.96
    },
    {
     "speaker": "Tom",
     "text": "Work and pension... and even leisure, like registration at the National Library.",
-    "t": 359.62
+    "t": 359.61
    },
    {
     "speaker": "Anna",
     "text": "Wow. So many areas are covered, all in one place.",
-    "t": 363.95
+    "t": 363.94
    },
    {
     "speaker": "Tom",
     "text": "That's right. And maybe one word for the entrepreneurs listening: businesses can use MyGuichet too, with a business eSpace, for things like declaring their staff to social security, checking their VAT account, or applying for a business permit.",
-    "t": 367.16
+    "t": 367.15
    },
    {
     "speaker": "Anna",
     "text": "Good to know.",
-    "t": 380.93
+    "t": 380.92
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom, let's wrap up.",
-    "t": 381.92
+    "t": 381.91
    },
    {
     "speaker": "Anna",
     "text": "Short summary?",
-    "t": 383.41
+    "t": 383.4
    },
    {
     "speaker": "Tom",
     "text": "Sure. MyGuichet.lu is the secure online platform of the Luxembourg State.",
-    "t": 384.71
+    "t": 384.7
    },
    {
     "speaker": "Tom",
     "text": "You can do your administrative procedures from home, follow your files, receive official documents, and book appointments.",
-    "t": 389.74
+    "t": 389.73
    },
    {
     "speaker": "Tom",
     "text": "To use it fully, you register with your matricule and a secure login.",
-    "t": 396.78
+    "t": 396.77
    },
    {
     "speaker": "Anna",
     "text": "And if you need help, many tutorials are available, and a helpdesk.",
-    "t": 400.8
+    "t": 400.79
    },
    {
     "speaker": "Anna",
     "text": "And on Guichet.lu there's now an AI assistant: you type your question in your own words, in your own language, and it helps you find the right procedure.",
-    "t": 405.45
+    "t": 405.44
    },
    {
     "speaker": "Tom",
     "text": "Really, it makes life in Luxembourg easier.",
-    "t": 415.92
+    "t": 415.91
    },
    {
     "speaker": "Tom",
     "text": "Especially in the first months.",
-    "t": 418.21
+    "t": 418.2
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about MyGuichet.lu.",
-    "t": 419.91
+    "t": 419.9
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 422.71
+    "t": 422.7
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 432.37
+    "t": 432.36
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 450.14
+    "t": 450.13
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 456.89
+    "t": 456.88
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 459.09
+    "t": 459.08
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 463.78
+    "t": 463.77
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 464.86
+    "t": 464.85
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 466.98
+    "t": 466.97
    }
   ],
   "questions": [
@@ -1015,313 +1015,313 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Le produit le plus populaire est LuxTrust Mobile — une application sur votre téléphone.",
-    "t": 223.71
+    "text": "Le produit le plus simple est LuxTrust Mobile — une application sur votre téléphone.",
+    "t": 223.9
    },
    {
     "speaker": "Tom",
     "text": "Quand vous vous connectez quelque part, l'application vous demande de confirmer.",
-    "t": 228.76
+    "t": 229.06
    },
    {
     "speaker": "Tom",
     "text": "Beaucoup de gens l'utilisent déjà pour leur banque en ligne.",
-    "t": 232.34
+    "t": 232.67
    },
    {
     "speaker": "Anna",
     "text": "D'accord, alors la question que beaucoup d'auditeurs vont se poser... est-ce que j'ai besoin de LuxTrust pour utiliser MyGuichet ?",
-    "t": 235.56
+    "t": 235.77
    },
    {
     "speaker": "Tom",
     "text": "Bonne question. La réponse est... pas nécessairement.",
-    "t": 241.62
+    "t": 241.83
    },
    {
     "speaker": "Tom",
     "text": "Il vous faut un moyen sécurisé pour vous connecter, mais vous avez le choix.",
-    "t": 244.75
+    "t": 244.96
    },
    {
     "speaker": "Tom",
     "text": "Ça peut être un produit LuxTrust, oui.",
-    "t": 248.42
+    "t": 248.63
    },
    {
     "speaker": "Tom",
     "text": "Ou la carte d'identité électronique luxembourgeoise, si vous avez une carte d'identité luxembourgeoise avec les certificats activés.",
-    "t": 250.7
+    "t": 250.91
    },
    {
     "speaker": "Tom",
     "text": "Et vous pouvez même l'utiliser avec votre smartphone, grâce à l'application GouvID de l'État.",
-    "t": 257.82
+    "t": 258.03
    },
    {
     "speaker": "Tom",
     "text": "Ou alors, et c'est intéressant pour les personnes venant d'autres pays européens... un identifiant eIDAS de votre propre pays.",
-    "t": 263.13
+    "t": 263.34
    },
    {
     "speaker": "Anna",
     "text": "eIDAS... c'est le système européen, n'est-ce pas ?",
-    "t": 270
+    "t": 270.21
    },
    {
     "speaker": "Anna",
     "text": "Donc je pourrais utiliser, par exemple, ma carte d'identité électronique belge ou allemande ?",
-    "t": 273.05
+    "t": 273.26
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Si votre pays dispose d'un de ces systèmes nationaux, vous pouvez souvent l'utiliser pour vous connecter à MyGuichet — il vous faut quand même votre matricule.",
-    "t": 277.16
+    "t": 277.37
    },
    {
     "speaker": "Tom",
     "text": "Mais avec un accès étranger, vous ne pouvez pas signer certains formulaires, comme votre déclaration d'impôts.",
-    "t": 285.77
+    "t": 285.98
    },
    {
     "speaker": "Tom",
     "text": "Et encore une chose — certaines démarches simples fonctionnent même sans se connecter du tout.",
-    "t": 291.31
+    "t": 291.52
    },
    {
     "speaker": "Tom",
     "text": "Mais dans ce cas, vous avez moins d'options.",
-    "t": 296.1
+    "t": 296.31
    },
    {
     "speaker": "Tom",
     "text": "Vous ne pouvez pas enregistrer le formulaire et continuer plus tard, et vous ne pouvez pas suivre l'état de la demande.",
-    "t": 298.05
+    "t": 298.26
    },
    {
     "speaker": "Tom",
     "text": "Donc... avoir un vrai compte, c'est beaucoup mieux.",
-    "t": 303.35
+    "t": 303.56
    },
    {
     "speaker": "Tom",
     "text": "Mais honnêtement, si vous vivez ou travaillez ici, LuxTrust Mobile est la solution facile.",
-    "t": 306.11
+    "t": 306.32
    },
    {
     "speaker": "Tom",
     "text": "Vous installez l'application une fois, et... c'est tout.",
-    "t": 311.42
+    "t": 311.63
    },
    {
     "speaker": "Tom",
     "text": "Et si vous l'utilisez déjà pour votre banque, vous pouvez utiliser la même.",
-    "t": 314.48
+    "t": 314.69
    },
    {
     "speaker": "Anna",
     "text": "Bien. Alors, disons que j'ai mon matricule et mon LuxTrust.",
-    "t": 318.18
+    "t": 318.39
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que je fais ?",
-    "t": 321.2
+    "t": 321.41
    },
    {
     "speaker": "Tom",
     "text": "C'est assez simple.",
-    "t": 322.33
+    "t": 322.54
    },
    {
     "speaker": "Tom",
     "text": "Vous allez sur Guichet.lu, vous cliquez sur « Se connecter », et vous suivez les étapes avec votre e-mail et votre matricule.",
-    "t": 323.65
+    "t": 323.86
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, vous créez votre eSpace personnel.",
-    "t": 330.27
+    "t": 330.48
    },
    {
     "speaker": "Tom",
     "text": "Ça prend quelques minutes.",
-    "t": 332.67
+    "t": 332.88
    },
    {
     "speaker": "Tom",
     "text": "Et il y a des tutoriels sur le site, étape par étape.",
-    "t": 334.09
+    "t": 334.3
    },
    {
     "speaker": "Anna",
     "text": "Parfait. Maintenant... de quels types de démarches parle-t-on ?",
-    "t": 337.37
+    "t": 337.58
    },
    {
     "speaker": "Anna",
     "text": "Quels domaines ?",
-    "t": 340.83
+    "t": 341.04
    },
    {
     "speaker": "Tom",
     "text": "Presque tout dans la vie quotidienne, vraiment.",
-    "t": 341.95
+    "t": 342.16
    },
    {
     "speaker": "Tom",
     "text": "Voyons... la citoyenneté — donc la carte d'identité, le passeport, le casier judiciaire.",
-    "t": 344.25
+    "t": 344.46
    },
    {
     "speaker": "Tom",
     "text": "Et en voilà une belle : en tant que résident étranger, vous pouvez demander votre inscription sur les listes électorales — pour pouvoir voter aux élections communales.",
-    "t": 349.89
+    "t": 350.1
    },
    {
     "speaker": "Tom",
     "text": "Et si vous êtes citoyen d'un autre pays de l'UE, aussi aux élections européennes.",
-    "t": 358.05
+    "t": 358.26
    },
    {
     "speaker": "Tom",
     "text": "Ensuite l'immigration — les titres de séjour, par exemple.",
-    "t": 362.6
+    "t": 362.81
    },
    {
     "speaker": "Tom",
     "text": "Très important quand vous arrivez.",
-    "t": 365.93
+    "t": 366.14
    },
    {
     "speaker": "Tom",
     "text": "Puis la famille et l'éducation... la fiscalité — oui, vous pouvez faire votre déclaration d'impôts en ligne.",
-    "t": 367.65
+    "t": 367.86
    },
    {
     "speaker": "Tom",
     "text": "Les transports — votre permis de conduire, l'immatriculation d'une voiture.",
-    "t": 373.53
+    "t": 373.74
    },
    {
     "speaker": "Tom",
     "text": "La santé et la sécurité sociale.",
-    "t": 377.77
+    "t": 377.98
    },
    {
     "speaker": "Tom",
     "text": "Le logement. Les aides financières.",
-    "t": 379.92
+    "t": 380.13
    },
    {
     "speaker": "Tom",
     "text": "Le travail et la pension... et même les loisirs, comme l'inscription à la Bibliothèque nationale.",
-    "t": 382.06
+    "t": 382.27
    },
    {
     "speaker": "Anna",
     "text": "Waouh. Tant de domaines sont couverts, tout au même endroit.",
-    "t": 387.25
+    "t": 387.46
    },
    {
     "speaker": "Tom",
     "text": "C'est ça. Et peut-être un mot pour les entrepreneurs qui nous écoutent : les entreprises aussi peuvent utiliser MyGuichet, avec un eSpace professionnel, pour des choses comme déclarer leur personnel à la sécurité sociale, consulter leur compte TVA, ou demander une autorisation d'établissement.",
-    "t": 390.38
+    "t": 390.59
    },
    {
     "speaker": "Anna",
     "text": "Bon à savoir.",
-    "t": 406.35
+    "t": 406.56
    },
    {
     "speaker": "Anna",
     "text": "D'accord, Tom, on conclut ?",
-    "t": 407.4
+    "t": 407.61
    },
    {
     "speaker": "Anna",
     "text": "Un petit résumé ?",
-    "t": 408.88
+    "t": 409.09
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. MyGuichet.lu est la plateforme en ligne sécurisée de l'État luxembourgeois.",
-    "t": 410.09
+    "t": 410.3
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez faire vos démarches administratives depuis chez vous, suivre vos dossiers, recevoir des documents officiels, et prendre des rendez-vous.",
-    "t": 415.63
+    "t": 415.84
    },
    {
     "speaker": "Tom",
     "text": "Pour l'utiliser pleinement, vous vous inscrivez avec votre matricule et un moyen de connexion sécurisé.",
-    "t": 423.27
+    "t": 423.48
    },
    {
     "speaker": "Anna",
     "text": "Et si vous avez besoin d'aide, de nombreux tutoriels sont disponibles, ainsi qu'un service d'assistance.",
-    "t": 428.81
+    "t": 429.02
    },
    {
     "speaker": "Anna",
     "text": "Et sur Guichet.lu, il y a maintenant un assistant d'intelligence artificielle : vous tapez votre question avec vos propres mots, dans votre langue, et il vous aide à trouver la bonne démarche.",
-    "t": 433.7
+    "t": 433.91
    },
    {
     "speaker": "Tom",
     "text": "Vraiment, ça rend la vie au Luxembourg plus facile.",
-    "t": 444.17
+    "t": 444.38
    },
    {
     "speaker": "Tom",
     "text": "Surtout les premiers mois.",
-    "t": 446.82
+    "t": 447.03
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur MyGuichet.lu.",
-    "t": 448.32
+    "t": 448.53
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 450.82
+    "t": 451.03
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 459.25
+    "t": 459.46
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 475.1
+    "t": 475.31
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 479.75
+    "t": 479.96
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 481.53
+    "t": 481.74
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 485.91
+    "t": 486.12
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 487.14
+    "t": 487.35
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 489.6
+    "t": 489.81
    }
   ],
   "segments_de": [
@@ -1647,318 +1647,318 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Das beliebteste Produkt ist LuxTrust Mobile — eine App auf Ihrem Telefon.",
-    "t": 256.3
+    "text": "Das einfachste Produkt ist LuxTrust Mobile — eine App auf Ihrem Telefon.",
+    "t": 255.81
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie sich irgendwo anmelden, bittet die App Sie um eine Bestätigung.",
-    "t": 261.23
+    "t": 260.47
    },
    {
     "speaker": "Tom",
     "text": "Viele Menschen nutzen sie bereits für ihr Online-Banking.",
-    "t": 264.95
+    "t": 264.42
    },
    {
     "speaker": "Anna",
     "text": "Okay, also die Frage, die viele Hörer haben werden... brauche ich LuxTrust, um MyGuichet zu nutzen?",
-    "t": 268.03
+    "t": 267.73
    },
    {
     "speaker": "Tom",
     "text": "Gute Frage. Die Antwort ist... nicht unbedingt.",
-    "t": 274.06
+    "t": 273.76
    },
    {
     "speaker": "Tom",
     "text": "Sie brauchen eine sichere Anmeldemöglichkeit, aber Sie haben die Wahl.",
-    "t": 277.85
+    "t": 277.55
    },
    {
     "speaker": "Tom",
     "text": "Es kann ein LuxTrust-Produkt sein, ja.",
-    "t": 281.45
+    "t": 281.15
    },
    {
     "speaker": "Tom",
     "text": "Oder der luxemburgische elektronische Personalausweis, wenn Sie einen luxemburgischen Ausweis mit aktivierten Zertifikaten haben.",
-    "t": 284.14
+    "t": 283.84
    },
    {
     "speaker": "Tom",
     "text": "Und Sie können ihn sogar mit Ihrem Smartphone nutzen, über die App GouvID des Staates.",
-    "t": 291.51
+    "t": 291.21
    },
    {
     "speaker": "Tom",
     "text": "Oder, und das ist interessant für Menschen aus anderen europäischen Ländern... eine eIDAS-Anmeldung aus Ihrem eigenen Land.",
-    "t": 296.68
+    "t": 296.38
    },
    {
     "speaker": "Anna",
     "text": "eIDAS... das ist das europäische System, oder?",
-    "t": 303.95
+    "t": 303.65
    },
    {
     "speaker": "Anna",
     "text": "Ich könnte also zum Beispiel meinen belgischen oder deutschen elektronischen Personalausweis verwenden?",
-    "t": 307.6
+    "t": 307.3
    },
    {
     "speaker": "Tom",
     "text": "Genau. Wenn Ihr Land eines dieser nationalen Systeme hat, können Sie es oft nutzen, um sich bei MyGuichet anzumelden — Ihre Matricule-Nummer brauchen Sie trotzdem.",
-    "t": 312.98
+    "t": 312.68
    },
    {
     "speaker": "Tom",
     "text": "Aber mit einem ausländischen Zugang können Sie manche Formulare nicht unterschreiben, zum Beispiel Ihre Steuererklärung.",
-    "t": 323.01
+    "t": 322.71
    },
    {
     "speaker": "Tom",
     "text": "Und noch eine Sache — einige einfache Verfahren funktionieren sogar ganz ohne Anmeldung.",
-    "t": 329.36
+    "t": 329.06
    },
    {
     "speaker": "Tom",
     "text": "Aber dann haben Sie weniger Möglichkeiten.",
-    "t": 335.11
+    "t": 334.81
    },
    {
     "speaker": "Tom",
     "text": "Sie können das Formular nicht speichern und später weitermachen, und Sie können den Status nicht verfolgen.",
-    "t": 337.27
+    "t": 336.97
    },
    {
     "speaker": "Tom",
     "text": "Also... ein richtiges Konto zu haben, ist viel besser.",
-    "t": 342.72
+    "t": 342.42
    },
    {
     "speaker": "Tom",
     "text": "Aber ehrlich gesagt, wenn Sie hier leben oder arbeiten, ist LuxTrust Mobile der einfache Weg.",
-    "t": 345.9
+    "t": 345.6
    },
    {
     "speaker": "Tom",
     "text": "Sie installieren die App einmal, und... das war's.",
-    "t": 352.05
+    "t": 351.75
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie sie bereits für Ihre Bank nutzen, können Sie dieselbe verwenden.",
-    "t": 355.47
+    "t": 355.17
    },
    {
     "speaker": "Anna",
     "text": "Gut. Also, sagen wir, ich habe mein Matricule und mein LuxTrust.",
-    "t": 359.35
+    "t": 359.05
    },
    {
     "speaker": "Anna",
     "text": "Was mache ich?",
-    "t": 363.61
+    "t": 363.31
    },
    {
     "speaker": "Tom",
     "text": "Es ist ganz einfach.",
-    "t": 364.9
+    "t": 364.6
    },
    {
     "speaker": "Tom",
     "text": "Sie gehen auf Guichet.lu, Sie klicken auf „Anmelden\", und Sie folgen den Schritten mit Ihrer E-Mail und Ihrem Matricule.",
-    "t": 366.37
+    "t": 366.07
    },
    {
     "speaker": "Tom",
     "text": "Dann erstellen Sie Ihren persönlichen eSpace.",
-    "t": 373.87
+    "t": 373.57
    },
    {
     "speaker": "Tom",
     "text": "Das dauert ein paar Minuten.",
-    "t": 376.43
+    "t": 376.13
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt Tutorials auf der Website, Schritt für Schritt.",
-    "t": 377.99
+    "t": 377.69
    },
    {
     "speaker": "Anna",
     "text": "Perfekt. Nun... über welche Art von Verfahren reden wir?",
-    "t": 381.28
+    "t": 380.98
    },
    {
     "speaker": "Anna",
     "text": "Welche Bereiche?",
-    "t": 385.92
+    "t": 385.62
    },
    {
     "speaker": "Tom",
     "text": "Fast alles im täglichen Leben, wirklich.",
-    "t": 387.29
+    "t": 386.99
    },
    {
     "speaker": "Tom",
     "text": "Mal sehen... Staatsbürgerschaft — also Personalausweis, Reisepass, Führungszeugnis.",
-    "t": 389.63
+    "t": 389.33
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist etwas Schönes: Als ausländischer Einwohner können Sie beantragen, sich in die Wählerlisten einzutragen — damit Sie bei den Gemeindewahlen wählen können.",
-    "t": 396.6
+    "t": 396.3
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie Bürger eines anderen EU-Landes sind, auch bei den Europawahlen.",
-    "t": 406.71
+    "t": 406.41
    },
    {
     "speaker": "Tom",
     "text": "Dann Einwanderung — Aufenthaltstitel, zum Beispiel.",
-    "t": 411.19
+    "t": 410.89
    },
    {
     "speaker": "Tom",
     "text": "Sehr wichtig, wenn Sie ankommen.",
-    "t": 414.22
+    "t": 413.92
    },
    {
     "speaker": "Tom",
     "text": "Dann Familie und Bildung... Steuern — ja, Sie können Ihre Steuererklärung online machen.",
-    "t": 415.96
+    "t": 415.66
    },
    {
     "speaker": "Tom",
     "text": "Verkehr — Ihr Führerschein, das Anmelden eines Autos.",
-    "t": 422.13
+    "t": 421.83
    },
    {
     "speaker": "Tom",
     "text": "Gesundheit und Sozialversicherung.",
-    "t": 426
+    "t": 425.7
    },
    {
     "speaker": "Tom",
     "text": "Wohnen. Finanzielle Beihilfen.",
-    "t": 428.09
+    "t": 427.79
    },
    {
     "speaker": "Tom",
     "text": "Arbeit und Rente... und sogar Freizeit, wie die Anmeldung bei der Nationalbibliothek.",
-    "t": 430.27
+    "t": 429.97
    },
    {
     "speaker": "Anna",
     "text": "Wow. So viele Bereiche werden abgedeckt, alles an einem Ort.",
-    "t": 435.48
+    "t": 435.18
    },
    {
     "speaker": "Tom",
     "text": "Genau so ist es.",
-    "t": 439.74
+    "t": 439.44
    },
    {
     "speaker": "Tom",
     "text": "Und vielleicht noch ein Wort für die Unternehmer, die zuhören: Auch Unternehmen können MyGuichet nutzen, mit einem geschäftlichen eSpace, für Dinge wie die Anmeldung ihres Personals bei der Sozialversicherung, den Blick auf ihr Mehrwertsteuerkonto, oder den Antrag auf eine Niederlassungsgenehmigung.",
-    "t": 441.12
+    "t": 440.82
    },
    {
     "speaker": "Anna",
     "text": "Gut zu wissen.",
-    "t": 458.44
+    "t": 458.14
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom, lass uns abschließen.",
-    "t": 459.52
+    "t": 459.22
    },
    {
     "speaker": "Anna",
     "text": "Eine kurze Zusammenfassung?",
-    "t": 461.5
+    "t": 461.2
    },
    {
     "speaker": "Tom",
     "text": "Klar. MyGuichet.lu ist die sichere Online-Plattform des luxemburgischen Staates.",
-    "t": 463.39
+    "t": 463.09
    },
    {
     "speaker": "Tom",
     "text": "Sie können Ihre Verwaltungsverfahren von zu Hause aus erledigen, Ihre Dossiers verfolgen, offizielle Dokumente empfangen, und Termine buchen.",
-    "t": 469.32
+    "t": 469.02
    },
    {
     "speaker": "Tom",
     "text": "Um es voll zu nutzen, registrieren Sie sich mit Ihrem Matricule und einer sicheren Anmeldung.",
-    "t": 477.86
+    "t": 477.56
    },
    {
     "speaker": "Anna",
     "text": "Und wenn Sie Hilfe brauchen, gibt es viele Tutorials, und einen Helpdesk.",
-    "t": 483.42
+    "t": 483.12
    },
    {
     "speaker": "Anna",
     "text": "Und auf Guichet.lu gibt es jetzt einen KI-Assistenten: Sie tippen Ihre Frage in Ihren eigenen Worten ein, in Ihrer Sprache, und er hilft Ihnen, das richtige Verfahren zu finden.",
-    "t": 487.94
+    "t": 487.64
    },
    {
     "speaker": "Tom",
     "text": "Wirklich, es macht das Leben in Luxemburg einfacher.",
-    "t": 498.96
+    "t": 498.66
    },
    {
     "speaker": "Tom",
     "text": "Besonders in den ersten Monaten.",
-    "t": 501.95
+    "t": 501.65
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über MyGuichet.lu.",
-    "t": 504
+    "t": 503.7
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 507.02
+    "t": 506.72
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 515.87
+    "t": 515.57
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 533.72
+    "t": 533.42
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 539.42
+    "t": 539.12
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 541.67
+    "t": 541.37
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 546.56
+    "t": 546.26
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 547.71
+    "t": 547.41
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 550.92
+    "t": 550.62
    }
   ],
   "segments_lb": [
@@ -2079,104 +2079,104 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Genee. LuxTrust ass eng Firma, déi sécher digital Identitéit ubitt. Dat populäerst Produkt ass LuxTrust Mobile — eng App op Ärem Handy. Wann Dir Iech iergendwou aloggt, freet d'App Iech, ze bestätegen. Vill Leit benotzen se schonn fir hiren Online-Banking.",
+    "text": "Genee. LuxTrust ass eng Firma, déi sécher digital Identitéit ubitt. Dat einfachst Produkt ass LuxTrust Mobile — eng App op Ärem Handy. Wann Dir Iech iergendwou aloggt, freet d'App Iech, ze bestätegen. Vill Leit benotzen se schonn fir hiren Online-Banking.",
     "t": 211.98
    },
    {
     "speaker": "Anna",
     "text": "Okay, also d'Fro, déi vill Nolauschterer hunn... brauch ech LuxTrust, fir MyGuichet ze benotzen?",
-    "t": 226.2
+    "t": 226.19
    },
    {
     "speaker": "Tom",
     "text": "Gutt Fro. D'Äntwert ass... net onbedéngt. Dir braucht ee séchere Wee, fir Iech anzeloggen, mä Dir hutt eng Wiel. Et kann e LuxTrust-Produkt sinn, jo. Oder déi Lëtzebuerger elektronesch Identitéitskaart, wann Dir eng Lëtzebuerger Identitéitskaart mat aktivéierten Zertifikater hutt. An Dir kënnt se souguer mat Ärem Smartphone benotzen, iwwer d'App GouvID vum Staat. Oder, an dat ass interessant fir Leit aus aneren europäesche Länner... en eIDAS-Login aus Ärem eegene Land.",
-    "t": 231.26
+    "t": 231.25
    },
    {
     "speaker": "Anna",
     "text": "eIDAS... dat ass deen europäesche System, oder? Also ech kéint zum Beispill meng belsch oder däitsch elektronesch Kaart benotzen?",
-    "t": 257.87
+    "t": 257.86
    },
    {
     "speaker": "Tom",
     "text": "Genee. Wann Äert Land ee vun dësen nationale Systemer huet, kënnt Dir en dacks benotzen, fir Iech op MyGuichet anzeloggen — Äre Matricule braucht Dir awer ëmmer. Mä mat engem auslännesche Login kënnt Dir verschidde Formulairen net ënnerschreiwen, wéi Är Steiererklärung. An nach eppes — verschidden einfach Prozedure funktionéiere souguer ouni Iech iwwerhaapt anzeloggen. Mä da hutt Dir manner Méiglechkeeten. Dir kënnt de Formulaire net späicheren a méi spéit weidermaachen, an Dir kënnt de Status net verfollegen. Also... e richtege Kont ze hunn ass vill besser.",
-    "t": 264.4
+    "t": 264.39
    },
    {
     "speaker": "Tom",
     "text": "Mä éierlech gesot, wann Dir hei wunnt oder schafft, ass LuxTrust Mobile deen einfache Wee. Dir installéiert d'App eemol, an... dat war et. A wann Dir se schonn fir Är Bank benotzt, kënnt Dir déiselwecht benotzen.",
-    "t": 264.4
+    "t": 264.39
    },
    {
     "speaker": "Anna",
     "text": "Gutt. Also, soe mer, ech hu mäi Matricule a mäi LuxTrust. Wat maachen ech?",
-    "t": 299.64
+    "t": 299.63
    },
    {
     "speaker": "Tom",
     "text": "Et ass zimmlech einfach. Dir gitt op Guichet.lu, Dir klickt op \"Aloggen\", an Dir follegt de Schrëtt mat Ärer E-Mail an Ärem Matricule. Da kreéiert Dir Äre perséinlechen eSpace. Et dauert e puer Minutten. An et gi Tutorialen op der Websäit, Schrëtt fir Schrëtt.",
-    "t": 304.64
+    "t": 304.63
    },
    {
     "speaker": "Anna",
     "text": "Perfekt. Elo... vu wéi enge Prozedure schwätze mer? Wéi eng Beräicher?",
-    "t": 318.72
+    "t": 318.71
    },
    {
     "speaker": "Tom",
     "text": "Bal alles am deegleche Liewen, wierklech. Loosse mer kucken... Citoyennetéit — also Identitéitskaart, Pass, Casier judiciaire. An hei ass eng flott Saach: als auslännesche Resident kënnt Dir Iech op d'Wielerlëschten aschreiwen — sou datt Dir bei de Gemengewale wiele kënnt. A wann Dir Bierger vun engem anere Land vun der EU sidd, och bei den Europawalen. Dann Immigratioun — Openthaltstitelen, zum Beispill. Ganz wichteg, wann Dir ukommt. Da Famill an Educatioun... Steieren — jo, Dir kënnt Är Steiererklärung online maachen. Transport — Äre Führerschäin, en Auto umellen. Gesondheet a Sozialversécherung. Wunnen. Finanziell Hëllefen. Aarbecht a Pensioun... a souguer Fräizäit, wéi d'Aschreiwung an der Nationalbibliothéik.",
-    "t": 323.64
+    "t": 323.63
    },
    {
     "speaker": "Anna",
     "text": "Wow. Sou vill Beräicher sinn ofgedeckt, alles op enger Plaz.",
-    "t": 363.95
+    "t": 363.94
    },
    {
     "speaker": "Tom",
     "text": "Richteg. A vläicht ee Wuert fir d'Entrepreneuren, déi nolauschteren: d'Betriber kënne MyGuichet och benotzen, mat engem Betribs-eSpace, fir Saache wéi hir Mataarbechter bei der Sozialversécherung unzemellen, hire TVA-Kont ze kucken, oder eng Autorisation d'établissement ze froen.",
-    "t": 367.16
+    "t": 367.15
    },
    {
     "speaker": "Anna",
     "text": "Gutt ze wëssen. Okay, Tom, loosse mer ofschléissen. Eng kuerz Zesummefaassung?",
-    "t": 380.93
+    "t": 380.92
    },
    {
     "speaker": "Tom",
     "text": "Jo, gären. MyGuichet.lu ass déi sécher Online-Plattform vum Lëtzebuerger Staat. Dir kënnt Är administrativ Prozedure vun doheem aus maachen, Är Dossiere verfollegen, offiziell Dokumenter kréien, a Rendez-vouse buchen. Fir se voll ze benotzen, schreift Dir Iech mat Ärem Matricule an engem séchere Login an.",
-    "t": 384.71
+    "t": 384.7
    },
    {
     "speaker": "Anna",
     "text": "A wann Dir Hëllef braucht, gëtt et vill Tutorialen, an en Helpdesk. An op Guichet.lu gëtt et elo en KI-Assistent: Dir tippt Är Fro an Ären eegene Wierder, an Ärer Sprooch, an hien hëlleft Iech, déi richteg Prozedur ze fannen.",
-    "t": 400.8
+    "t": 400.79
    },
    {
     "speaker": "Tom",
     "text": "Wierklech, et mécht d'Liewen zu Lëtzebuerg méi einfach. Besonnesch an den éischte Méint.",
-    "t": 415.92
+    "t": 415.91
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer MyGuichet.lu. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 419.91
+    "t": 419.9
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 463.78
+    "t": 463.77
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 466.98
+    "t": 466.97
    }
   ],
   "audio_fr": "podcast_myguichet_fr.mp3",
-  "duration_fr": 491.36,
+  "duration_fr": 491.57,
   "audio_de": "podcast_myguichet_de.mp3",
-  "duration_de": 552.46,
+  "duration_de": 552.15,
   "title_fr": "MyGuichet.lu – Votre porte en ligne vers les administrations luxembourgeoises",
   "description_fr": "Ce qu'est MyGuichet.lu et pourquoi c'est important : le guichet en ligne sécurisé de l'État luxembourgeois, où vous pouvez effectuer vos démarches administratives depuis chez vous, ouvert tous les jours à toute heure. Comment vous inscrire avec votre matricule à 13 chiffres et un moyen de connexion sécurisé comme LuxTrust, la carte d'identité électronique luxembourgeoise ou un identifiant européen eIDAS, ce que vous pouvez faire dans votre eSpace personnel, les langues disponibles, l'application mobile — et comment les entreprises peuvent l'utiliser aussi.",
   "topics_fr": [
@@ -2395,7 +2395,7 @@ const EPISODES = [
   "audio": "podcast_luxtrust.mp3",
   "title": "LuxTrust – Your Digital Identity in Luxembourg",
   "description": "Your secure digital identity for daily life online in Luxembourg. What LuxTrust is and why it matters, and what individuals use it for — logging into online banking, MyGuichet and public services, signing documents with a legally-valid electronic signature, and confirming online payments. The different products such as the app, Scan and SmartCard, and how to order it, get identified by video, activate it and stay safe. (Briefly: businesses use it too.)",
-  "duration": 657.58,
+  "duration": 673.2,
   "topics": [
    "What a digital identity is",
    "Online banking login",
@@ -2529,773 +2529,783 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "They are certified by the European Union, and they have been doing this for about twenty years.",
-    "t": 84.24
+    "text": "And they are officially recognised in the European Union as a 'qualified' provider.",
+    "t": 84.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "They have been doing this for more than twenty years — since 2005.",
+    "t": 89.7
    },
    {
     "speaker": "Tom",
     "text": "Twenty years. So it's well established.",
-    "t": 89.41
+    "t": 94.55
    },
    {
     "speaker": "Tom",
     "text": "And is my data safe with them?",
-    "t": 91.92
+    "t": 97.06
    },
    {
     "speaker": "Anna",
-    "text": "Yes. Your data is encrypted, and stored in data centres here, in Luxembourg.",
-    "t": 93.73
+    "text": "Yes. Your data is encrypted, and stored in secure data centres in the European Union.",
+    "t": 98.87
    },
    {
     "speaker": "Anna",
     "text": "Security is really the whole point of the company.",
-    "t": 98.77
+    "t": 104.92
    },
    {
     "speaker": "Tom",
     "text": "Good. Now the most important question for most people.",
-    "t": 102.01
+    "t": 108.11
    },
    {
     "speaker": "Tom",
     "text": "What can I actually do with my LuxTrust identity?",
-    "t": 105.14
+    "t": 111.24
    },
    {
     "speaker": "Anna",
     "text": "A lot of everyday things.",
-    "t": 108.13
+    "t": 114.23
    },
    {
     "speaker": "Anna",
     "text": "Let me give the four main uses.",
-    "t": 109.65
+    "t": 115.75
    },
    {
     "speaker": "Anna",
     "text": "The first, and the most common — your bank.",
-    "t": 111.79
+    "t": 117.89
    },
    {
     "speaker": "Anna",
     "text": "With LuxTrust, you log in to your online banking securely, and you confirm your transactions.",
-    "t": 115.32
+    "t": 121.42
    },
    {
     "speaker": "Anna",
     "text": "A payment, a transfer... you validate it with LuxTrust.",
-    "t": 120.8
+    "t": 126.9
    },
    {
     "speaker": "Tom",
     "text": "So most people in Luxembourg first meet LuxTrust through their bank.",
-    "t": 125.24
+    "t": 131.34
    },
    {
     "speaker": "Anna",
     "text": "Exactly. The second use — public services.",
-    "t": 129.13
+    "t": 135.23
    },
    {
     "speaker": "Anna",
     "text": "With LuxTrust, you log in to MyGuichet.lu.",
-    "t": 132.34
+    "t": 138.44
    },
    {
     "speaker": "Anna",
     "text": "So you can do your administrative procedures, and, for example, complete and sign your tax declaration online.",
-    "t": 135.52
+    "t": 141.62
    },
    {
     "speaker": "Tom",
     "text": "That's the link with our MyGuichet episode.",
-    "t": 141.76
+    "t": 147.86
    },
    {
     "speaker": "Tom",
     "text": "Okay, the third?",
-    "t": 143.74
+    "t": 149.84
    },
    {
     "speaker": "Anna",
     "text": "The third is a beautiful one — the electronic signature.",
-    "t": 144.97
+    "t": 151.07
    },
    {
     "speaker": "Anna",
     "text": "With LuxTrust, you can sign a document electronically.",
-    "t": 148.57
+    "t": 154.67
    },
    {
     "speaker": "Anna",
     "text": "And — this is the key point — that electronic signature has the same legal value as a handwritten signature.",
-    "t": 151.7
+    "t": 157.8
    },
    {
     "speaker": "Tom",
     "text": "Wait, really? The same legal value as signing with a pen?",
-    "t": 159
+    "t": 165.1
    },
    {
     "speaker": "Anna",
     "text": "The same. So you can close a contract, or sign an official document, from your home, without printing anything.",
-    "t": 162.34
+    "t": 168.44
    },
    {
     "speaker": "Tom",
     "text": "That's powerful. And the fourth use?",
-    "t": 168.83
+    "t": 174.93
    },
    {
     "speaker": "Anna",
     "text": "The fourth — your online purchases.",
-    "t": 171.01
+    "t": 177.11
    },
    {
     "speaker": "Anna",
     "text": "When you shop online, LuxTrust can be used, together with the system called 3D Secure, to confirm that it's really you paying.",
-    "t": 173.34
+    "t": 179.44
    },
    {
     "speaker": "Anna",
     "text": "So your card payments are more secure.",
-    "t": 180.94
+    "t": 187.04
    },
    {
     "speaker": "Tom",
     "text": "So, to sum up — banking, public services, electronic signature, and online payments.",
-    "t": 183.32
+    "t": 189.42
    },
    {
     "speaker": "Anna",
     "text": "That's it. One identity, for all of these.",
-    "t": 188.76
+    "t": 194.86
    },
    {
     "speaker": "Tom",
     "text": "And quickly — is it only for individuals like us?",
-    "t": 191.28
+    "t": 197.38
    },
    {
     "speaker": "Tom",
     "text": "Or also for companies?",
-    "t": 194.33
+    "t": 200.43
    },
    {
     "speaker": "Anna",
     "text": "Mostly we talk about individuals today.",
-    "t": 195.77
+    "t": 201.87
    },
    {
     "speaker": "Anna",
     "text": "But yes, businesses use LuxTrust too — to identify their customers, to sign and seal documents, and to secure their processes.",
-    "t": 198.2
+    "t": 204.3
    },
    {
     "speaker": "Anna",
     "text": "But for you, as a resident or cross-border worker, the personal uses are what matter most.",
-    "t": 206.63
+    "t": 212.73
    },
    {
     "speaker": "Tom",
     "text": "Perfect. Now, the practical part.",
-    "t": 212.54
+    "t": 218.64
    },
    {
     "speaker": "Tom",
     "text": "How does it actually work, when I use it?",
-    "t": 215.25
+    "t": 221.35
    },
    {
     "speaker": "Anna",
     "text": "Let's take the example of logging in to your bank.",
-    "t": 217.37
+    "t": 223.47
    },
    {
     "speaker": "Anna",
     "text": "Step one — you connect to your bank's website or app.",
-    "t": 220.34
+    "t": 226.44
    },
    {
     "speaker": "Anna",
     "text": "Step two — you choose your LuxTrust device.",
-    "t": 223.87
+    "t": 229.97
    },
    {
     "speaker": "Anna",
     "text": "Step three — you enter your User ID and your password.",
-    "t": 226.86
+    "t": 232.96
    },
    {
     "speaker": "Anna",
     "text": "Or, if you have a card-based device, your PIN code.",
-    "t": 230.96
+    "t": 237.06
    },
    {
     "speaker": "Anna",
     "text": "And step four — you generate a one-time password, an OTP — a code that works only once — and that gives you access.",
-    "t": 234.21
+    "t": 240.31
    },
    {
     "speaker": "Tom",
     "text": "A one-time password.",
-    "t": 242.88
+    "t": 248.98
    },
    {
     "speaker": "Tom",
     "text": "So a new code each time.",
-    "t": 244.14
+    "t": 250.24
    },
    {
     "speaker": "Anna",
     "text": "Each time. That's what makes it secure.",
-    "t": 245.7
+    "t": 251.8
    },
    {
     "speaker": "Anna",
     "text": "With the LuxTrust app, this all happens in a few taps on your phone.",
-    "t": 248.19
+    "t": 254.29
    },
    {
     "speaker": "Tom",
     "text": "Speaking of which — what are the different LuxTrust products?",
-    "t": 252.07
+    "t": 258.17
    },
    {
     "speaker": "Tom",
     "text": "Because I think there's a choice.",
-    "t": 255.28
+    "t": 261.38
    },
    {
     "speaker": "Anna",
     "text": "There is. For an individual, there are three main products.",
-    "t": 257.17
+    "t": 263.27
    },
    {
     "speaker": "Anna",
-    "text": "The first, and today the most popular — the LuxTrust Mobile app.",
-    "t": 260.91
+    "text": "The first, and the simplest — the LuxTrust Mobile app.",
+    "t": 267.23
    },
    {
     "speaker": "Anna",
     "text": "It's a one-hundred-percent mobile solution.",
-    "t": 265.35
+    "t": 271.73
    },
    {
     "speaker": "Anna",
     "text": "Everything happens on your smartphone.",
-    "t": 267.86
+    "t": 274.45
    },
    {
     "speaker": "Tom",
     "text": "So no extra device to carry.",
-    "t": 270.21
+    "t": 277
    },
    {
     "speaker": "Tom",
     "text": "Just my phone.",
-    "t": 271.74
+    "t": 278.53
    },
    {
     "speaker": "Anna",
     "text": "Just your phone.",
-    "t": 272.92
+    "t": 279.71
    },
    {
     "speaker": "Anna",
     "text": "The second product is the Scan — a small physical device, with a little screen and a camera, that generates your codes.",
-    "t": 274.2
+    "t": 280.99
    },
    {
     "speaker": "Anna",
     "text": "And the third is the SmartCard — a chip card, like a bank card.",
-    "t": 281.7
+    "t": 288.49
    },
    {
     "speaker": "Anna",
     "text": "But to use the SmartCard, you need a card reader and some software on your computer.",
-    "t": 287.06
+    "t": 293.85
    },
    {
     "speaker": "Tom",
     "text": "And which one should most people choose?",
-    "t": 292.3
+    "t": 299.09
    },
    {
     "speaker": "Anna",
     "text": "For most people today, the app is the easiest.",
-    "t": 294.2
+    "t": 300.99
    },
    {
     "speaker": "Anna",
     "text": "And here's an important note — the old LuxTrust Token, the little device many people had on their keychain, was stopped at the end of 2024.",
-    "t": 297.02
+    "t": 303.81
    },
    {
     "speaker": "Anna",
     "text": "So if you still have an old Token, it's time to switch to the app.",
-    "t": 305.58
+    "t": 312.37
    },
    {
     "speaker": "Tom",
     "text": "Good to know.",
-    "t": 309.48
+    "t": 316.27
    },
    {
     "speaker": "Tom",
     "text": "And — roughly — what does it cost?",
-    "t": 310.39
+    "t": 317.18
    },
    {
     "speaker": "Anna",
     "text": "It's a paid service, valid for three years.",
-    "t": 312.53
+    "t": 319.32
    },
    {
     "speaker": "Anna",
-    "text": "As a rough idea, the app starts at around fifty euros for three years, and the physical devices cost a bit more.",
-    "t": 315.34
+    "text": "Right now, the app costs forty-seven euros for three years.",
+    "t": 322.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "The Scan starts at a hundred and five euros, and the SmartCard at a hundred and twenty-nine euros.",
+    "t": 326.01
    },
    {
     "speaker": "Anna",
     "text": "But please check the exact prices on luxtrust.com, because they can change.",
-    "t": 322.28
+    "t": 332.31
    },
    {
     "speaker": "Tom",
     "text": "Always check the website for the exact price.",
-    "t": 327.32
+    "t": 337.29
    },
    {
     "speaker": "Tom",
     "text": "Okay, Anna — now the big practical question.",
-    "t": 329.74
+    "t": 339.71
    },
    {
     "speaker": "Tom",
     "text": "I'm new here, I have nothing yet.",
-    "t": 332.26
+    "t": 342.23
    },
    {
     "speaker": "Tom",
     "text": "How do I get a LuxTrust identity?",
-    "t": 334.06
+    "t": 344.03
    },
    {
     "speaker": "Tom",
     "text": "Step by step.",
-    "t": 335.81
+    "t": 345.78
    },
    {
     "speaker": "Anna",
     "text": "Five steps. Step one — choose the right product for you, for example the app.",
-    "t": 336.96
+    "t": 346.93
    },
    {
     "speaker": "Anna",
     "text": "Step two — place your order.",
-    "t": 341.56
+    "t": 351.53
    },
    {
     "speaker": "Anna",
     "text": "You can order online, on the LuxTrust website, or through your bank.",
-    "t": 343.64
+    "t": 353.61
    },
    {
     "speaker": "Tom",
     "text": "Ah, so my bank can set it up for me.",
-    "t": 347.83
+    "t": 357.8
    },
    {
     "speaker": "Anna",
     "text": "Very often, yes — many people get their LuxTrust through their bank.",
-    "t": 350.03
+    "t": 360
    },
    {
     "speaker": "Anna",
     "text": "Step three, and this one is important — you must get identified.",
-    "t": 354.91
+    "t": 364.88
    },
    {
     "speaker": "Anna",
     "text": "Because they are creating proof of your identity, they must check who you are.",
-    "t": 359.56
+    "t": 369.53
    },
    {
     "speaker": "Anna",
-    "text": "You can do this face-to-face, with one of their agents.",
-    "t": 364.07
+    "text": "You can do this in person — at LuxTrust, at a partner such as your bank, or at a notary.",
+    "t": 374.27
    },
    {
     "speaker": "Anna",
     "text": "Or remotely, by a video identification.",
-    "t": 367.31
+    "t": 380.31
    },
    {
     "speaker": "Tom",
     "text": "So, a bit like opening a bank account.",
-    "t": 370.02
+    "t": 383.4
    },
    {
     "speaker": "Tom",
     "text": "They verify it's really me.",
-    "t": 372.27
+    "t": 385.65
    },
    {
     "speaker": "Anna",
     "text": "Exactly. Step four — you receive your LuxTrust codes, and your device if you ordered one.",
-    "t": 373.95
+    "t": 387.33
    },
    {
     "speaker": "Anna",
     "text": "And step five — you activate your identity.",
-    "t": 380.18
+    "t": 393.56
    },
    {
     "speaker": "Anna",
     "text": "After that, your digital identity is valid for three years.",
-    "t": 383.22
+    "t": 396.6
    },
    {
     "speaker": "Tom",
     "text": "Let's stay on that last step — activation.",
-    "t": 387.03
+    "t": 400.41
    },
    {
     "speaker": "Tom",
     "text": "What do I need to have ready?",
-    "t": 390.02
+    "t": 403.4
    },
    {
     "speaker": "Anna",
     "text": "Good question. Before you start, have these things at hand.",
-    "t": 391.65
+    "t": 405.03
    },
    {
     "speaker": "Anna",
     "text": "Your User ID — you receive it by letter, or by SMS.",
-    "t": 395.29
+    "t": 408.67
    },
    {
     "speaker": "Anna",
     "text": "Your initial password — also by letter or SMS.",
-    "t": 399.55
+    "t": 412.93
    },
    {
     "speaker": "Anna",
     "text": "Your device, if you have one.",
-    "t": 403.22
+    "t": 416.6
    },
    {
     "speaker": "Anna",
     "text": "And your activation code.",
-    "t": 404.91
+    "t": 418.29
    },
    {
     "speaker": "Tom",
     "text": "The activation code — where does that come from?",
-    "t": 406.95
+    "t": 420.33
    },
    {
     "speaker": "Anna",
     "text": "You actually chose it yourself, when you ordered.",
-    "t": 409.53
+    "t": 422.91
    },
    {
     "speaker": "Anna",
     "text": "They usually advise you to use the last five characters of your ID card or passport number.",
-    "t": 411.91
+    "t": 425.29
    },
    {
     "speaker": "Anna",
     "text": "And you also find it in the order confirmation, sent to you by email.",
-    "t": 417.28
+    "t": 430.66
    },
    {
     "speaker": "Tom",
     "text": "Okay. And how does the activation itself go?",
-    "t": 421.78
+    "t": 435.16
    },
    {
     "speaker": "Anna",
     "text": "It depends on the product.",
-    "t": 424.26
+    "t": 437.64
    },
    {
     "speaker": "Anna",
-    "text": "For the Mobile app, you activate it directly on your smartphone, following the guide.",
-    "t": 425.86
+    "text": "For the Mobile app, you activate it directly on your smartphone, following the guide — it takes about five minutes.",
+    "t": 439.34
    },
    {
     "speaker": "Anna",
     "text": "For the Scan, it takes about six minutes — you follow the steps, scan some QR codes, and set a new, strong password.",
-    "t": 431.13
+    "t": 446.33
    },
    {
     "speaker": "Anna",
     "text": "For the SmartCard, it's a bit longer, around twenty minutes, because you first install the software, called the middleware, on your computer.",
-    "t": 438.97
+    "t": 454.08
    },
    {
     "speaker": "Tom",
     "text": "And once I finish activating — can I use it immediately?",
-    "t": 446.41
+    "t": 461.75
    },
    {
     "speaker": "Anna",
     "text": "Almost. One small thing to remember — if you have the SmartCard, the certificate becomes usable only about four hours after activation.",
-    "t": 449.34
+    "t": 464.68
    },
    {
     "speaker": "Anna",
     "text": "So don't activate it five minutes before you need it.",
-    "t": 458.39
+    "t": 473.73
    },
    {
     "speaker": "Anna",
     "text": "Do it a little in advance.",
-    "t": 461.35
+    "t": 476.69
    },
    {
     "speaker": "Tom",
     "text": "Very practical tip.",
-    "t": 463.33
+    "t": 478.67
    },
    {
     "speaker": "Tom",
     "text": "Activate it the evening before, not at the last minute.",
-    "t": 464.73
+    "t": 480.07
    },
    {
     "speaker": "Anna",
     "text": "Exactly.",
-    "t": 467.81
+    "t": 483.15
    },
    {
     "speaker": "Tom",
     "text": "Now, Anna — this is digital identity, it's sensitive.",
-    "t": 468.92
+    "t": 484.26
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about safety.",
-    "t": 472.02
+    "t": 487.36
    },
    {
     "speaker": "Tom",
     "text": "About scams.",
-    "t": 473.36
+    "t": 488.7
    },
    {
     "speaker": "Anna",
     "text": "Yes, this is really important.",
-    "t": 474.66
+    "t": 490
    },
    {
     "speaker": "Anna",
     "text": "There are phishing attempts — fake messages, fake phone calls, that pretend to be LuxTrust.",
-    "t": 476.67
+    "t": 492.01
    },
    {
     "speaker": "Anna",
     "text": "So remember a few rules.",
-    "t": 482.34
+    "t": 497.68
    },
    {
     "speaker": "Anna",
     "text": "LuxTrust will never ask you for your codes or your credentials.",
-    "t": 484.11
+    "t": 499.45
    },
    {
     "speaker": "Anna",
     "text": "Never.",
-    "t": 487.95
+    "t": 503.29
    },
    {
     "speaker": "Tom",
     "text": "Never give the codes.",
-    "t": 488.84
+    "t": 504.18
    },
    {
     "speaker": "Tom",
     "text": "Even if it looks official?",
-    "t": 490.2
+    "t": 505.54
    },
    {
     "speaker": "Anna",
     "text": "Even then. And more — LuxTrust will never call you to ask for sensitive information.",
-    "t": 491.76
+    "t": 507.1
    },
    {
     "speaker": "Anna",
     "text": "They will never ask you to confirm a payment or a banking operation.",
-    "t": 497.29
+    "t": 512.63
    },
    {
     "speaker": "Anna",
     "text": "And they will never come to your home.",
-    "t": 501.03
+    "t": 516.37
    },
    {
     "speaker": "Tom",
     "text": "So if someone does any of that, it's a scam.",
-    "t": 503.42
+    "t": 518.76
    },
    {
     "speaker": "Anna",
     "text": "It's a scam.",
-    "t": 506.01
+    "t": 521.35
    },
    {
     "speaker": "Anna",
     "text": "Your digital identity is yours, and only yours.",
-    "t": 507.23
+    "t": 522.57
    },
    {
     "speaker": "Anna",
     "text": "Just like you don't give your bank card and your PIN to a colleague, you never share your LuxTrust credentials.",
-    "t": 510.42
+    "t": 525.76
    },
    {
     "speaker": "Anna",
     "text": "If you are in doubt, contact LuxTrust directly, with the number on their official website.",
-    "t": 516.64
+    "t": 531.98
    },
    {
     "speaker": "Tom",
     "text": "That's the golden rule again — when in doubt, don't share, and check directly.",
-    "t": 522.39
+    "t": 537.73
    },
    {
     "speaker": "Tom",
     "text": "Okay, Anna, let's make it really practical for someone listening.",
-    "t": 526.32
+    "t": 541.66
    },
    {
     "speaker": "Tom",
     "text": "What should I do?",
-    "t": 529.77
+    "t": 545.11
    },
    {
     "speaker": "Anna",
     "text": "If you live or work in Luxembourg and you don't have it yet — get a LuxTrust identity.",
-    "t": 530.99
+    "t": 546.33
    },
    {
     "speaker": "Anna",
     "text": "The easiest way: ask your bank, or go to luxtrust.com, choose the app, order it, get identified, and activate it.",
-    "t": 536.98
+    "t": 552.32
    },
    {
     "speaker": "Anna",
     "text": "Then you can use it for your bank, for MyGuichet, for signing documents, and for your online payments.",
-    "t": 545.31
+    "t": 560.65
    },
    {
     "speaker": "Tom",
     "text": "One identity, for your whole digital life here.",
-    "t": 551.27
+    "t": 566.61
    },
    {
     "speaker": "Tom",
     "text": "Short summary to finish?",
-    "t": 553.94
+    "t": 569.28
    },
    {
     "speaker": "Anna",
-    "text": "Sure. LuxTrust is your secure digital identity in Luxembourg — like an ID card for the internet, from a European-certified provider.",
-    "t": 555.34
+    "text": "Sure. LuxTrust is your secure digital identity in Luxembourg — like an ID card for the internet, from a provider recognised at European level.",
+    "t": 570.68
    },
    {
     "speaker": "Anna",
     "text": "You use it for online banking, for public services like MyGuichet, for legally-valid electronic signatures, and for online payments.",
-    "t": 564.52
+    "t": 580.46
    },
    {
     "speaker": "Anna",
     "text": "You get it through your bank or on luxtrust.com, you prove your identity in person or by video, and you activate it — most easily with the Mobile app.",
-    "t": 573.15
+    "t": 589.04
    },
    {
     "speaker": "Tom",
     "text": "And the safety message?",
-    "t": 583.88
+    "t": 599.01
    },
    {
     "speaker": "Anna",
-    "text": "LuxTrust never asks for your codes, never calls for sensitive data, never asks to access your devices.",
-    "t": 585.34
+    "text": "LuxTrust never asks for your codes, never calls for sensitive data, and never comes to your home.",
+    "t": 600.47
    },
    {
     "speaker": "Anna",
     "text": "Keep your credentials to yourself.",
-    "t": 592.21
+    "t": 607.37
    },
    {
     "speaker": "Anna",
     "text": "When in doubt, check the official website.",
-    "t": 594.26
+    "t": 609.88
    },
    {
     "speaker": "Tom",
     "text": "Beautiful. So... your digital identity is the key to daily life online in Luxembourg.",
-    "t": 596.9
+    "t": 612.51
    },
    {
     "speaker": "Tom",
     "text": "Set it up once, and so much becomes easier.",
-    "t": 602.62
+    "t": 618.23
    },
    {
     "speaker": "Anna",
     "text": "Really. A little effort to set it up... and then everything, from your sofa.",
-    "t": 605.61
+    "t": 621.22
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about LuxTrust.",
-    "t": 610.26
+    "t": 625.87
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 612.56
+    "t": 628.17
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 621.38
+    "t": 636.99
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 639.15
+    "t": 654.76
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 645.9
+    "t": 661.51
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 648.1
+    "t": 663.71
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 652.79
+    "t": 668.4
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 653.87
+    "t": 669.48
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 655.99
+    "t": 671.6
    }
   ],
   "questions": [
@@ -3308,7 +3318,7 @@ const EPISODES = [
      "A government tax website where you file your tax return and see your tax statements online"
     ],
     "correct": 1,
-    "explanation": "LuxTrust gives you a single, secure digital identity – the online equivalent of your ID card or passport – provided by a European-certified Certificate Authority and trust service provider."
+    "explanation": "LuxTrust gives you a single, secure digital identity – the online equivalent of your ID card or passport – provided by a Certificate Authority and trust service provider officially recognised as 'qualified' in the European Union."
    },
    {
     "text": "As an individual in Luxembourg, what can you do with LuxTrust?",
@@ -3338,10 +3348,10 @@ const EPISODES = [
      "It is never verified – you simply choose a username and password on the LuxTrust website",
      "Only by sending a photo of yourself by email, without showing any identity document",
      "Only by answering a few security questions online about your address and date of birth",
-     "You must be identified – in person with an agent, or remotely by video identification"
+     "You must be identified – in person, or remotely by video identification"
     ],
     "correct": 3,
-    "explanation": "Because LuxTrust creates proof of your identity, you must be identified – face-to-face with an agent or remotely by video identification. You order online or through your bank, then activate it; the identity is valid for 3 years."
+    "explanation": "Because LuxTrust creates proof of your identity, you must be identified – in person (at LuxTrust, at a partner such as your bank, or at a notary) or remotely by video identification. You order online or through your bank, then activate it; the identity is valid for 3 years."
    },
    {
     "text": "Which statement about LuxTrust and security is correct?",
@@ -3478,778 +3488,788 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Ils sont certifiés par l'Union européenne, et ils font ça depuis une vingtaine d'années.",
-    "t": 76.1
+    "text": "Et ils sont officiellement reconnus dans l'Union européenne comme prestataire « qualifié ».",
+    "t": 76.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils font ça depuis plus de vingt ans — depuis 2005.",
+    "t": 80.92
    },
    {
     "speaker": "Tom",
     "text": "Vingt ans. Donc c'est bien établi.",
-    "t": 80.13
+    "t": 84.06
    },
    {
     "speaker": "Tom",
     "text": "Et mes données sont-elles en sécurité chez eux ?",
-    "t": 82.37
+    "t": 86.3
    },
    {
     "speaker": "Anna",
-    "text": "Oui. Vos données sont chiffrées, et stockées dans des centres de données ici, au Luxembourg.",
-    "t": 84.81
+    "text": "Oui. Vos données sont chiffrées, et stockées dans des centres de données sécurisés dans l'Union européenne.",
+    "t": 88.74
    },
    {
     "speaker": "Anna",
     "text": "La sécurité, c'est vraiment toute la raison d'être de l'entreprise.",
-    "t": 88.89
+    "t": 93.18
    },
    {
     "speaker": "Tom",
     "text": "Bien. Maintenant, la question la plus importante pour la plupart des gens.",
-    "t": 92.27
+    "t": 96.51
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que je peux réellement faire avec mon identité LuxTrust ?",
-    "t": 95.74
+    "t": 99.98
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup de choses du quotidien.",
-    "t": 99.13
+    "t": 103.37
    },
    {
     "speaker": "Anna",
     "text": "Laisse-moi te donner les quatre principaux usages.",
-    "t": 100.74
+    "t": 104.98
    },
    {
     "speaker": "Anna",
     "text": "Le premier, et le plus courant — votre banque.",
-    "t": 103.06
+    "t": 107.3
    },
    {
     "speaker": "Anna",
     "text": "Avec LuxTrust, vous vous connectez à votre banque en ligne en toute sécurité, et vous confirmez vos opérations.",
-    "t": 105.63
+    "t": 109.87
    },
    {
     "speaker": "Anna",
     "text": "Un paiement, un virement... vous le validez avec LuxTrust.",
-    "t": 110.91
+    "t": 115.15
    },
    {
     "speaker": "Tom",
     "text": "Donc la plupart des gens au Luxembourg découvrent d'abord LuxTrust à travers leur banque.",
-    "t": 114.24
+    "t": 118.48
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Le deuxième usage — les services publics.",
-    "t": 118.9
+    "t": 123.14
    },
    {
     "speaker": "Anna",
     "text": "Avec LuxTrust, vous vous connectez à MyGuichet.lu.",
-    "t": 121.77
+    "t": 126
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez donc faire vos démarches administratives, et, par exemple, remplir et signer votre déclaration d'impôts en ligne.",
-    "t": 125.1
+    "t": 129.33
    },
    {
     "speaker": "Tom",
     "text": "C'est le lien avec notre épisode sur MyGuichet.",
-    "t": 130.89
+    "t": 135.12
    },
    {
     "speaker": "Tom",
     "text": "D'accord, et le troisième ?",
-    "t": 133.41
+    "t": 137.64
    },
    {
     "speaker": "Anna",
     "text": "Le troisième est magnifique — la signature électronique.",
-    "t": 135.08
+    "t": 139.31
    },
    {
     "speaker": "Anna",
     "text": "Avec LuxTrust, vous pouvez signer un document de manière électronique.",
-    "t": 137.85
+    "t": 142.09
    },
    {
     "speaker": "Anna",
     "text": "Et — c'est le point essentiel — cette signature électronique a la même valeur juridique qu'une signature manuscrite.",
-    "t": 141.27
+    "t": 145.51
    },
    {
     "speaker": "Tom",
     "text": "Attends, vraiment ? La même valeur juridique qu'une signature au stylo ?",
-    "t": 146.83
+    "t": 151.07
    },
    {
     "speaker": "Anna",
     "text": "La même. Vous pouvez donc conclure un contrat, ou signer un document officiel, depuis chez vous, sans rien imprimer.",
-    "t": 150.88
+    "t": 155.12
    },
    {
     "speaker": "Tom",
     "text": "C'est puissant. Et le quatrième usage ?",
-    "t": 157.37
+    "t": 161.61
    },
    {
     "speaker": "Anna",
     "text": "Le quatrième — vos achats en ligne.",
-    "t": 159.85
+    "t": 164.09
    },
    {
     "speaker": "Anna",
     "text": "Quand vous faites des achats en ligne, LuxTrust peut être utilisé, avec le système appelé 3D Secure, pour confirmer que c'est bien vous qui payez.",
-    "t": 162.14
+    "t": 166.38
    },
    {
     "speaker": "Anna",
     "text": "Vos paiements par carte sont donc plus sécurisés.",
-    "t": 169.43
+    "t": 173.67
    },
    {
     "speaker": "Tom",
     "text": "Donc, pour résumer — la banque, les services publics, la signature électronique, et les paiements en ligne.",
-    "t": 171.89
+    "t": 176.13
    },
    {
     "speaker": "Anna",
     "text": "C'est ça. Une seule identité, pour tout ça.",
-    "t": 177.81
+    "t": 182.05
    },
    {
     "speaker": "Tom",
     "text": "Et rapidement — est-ce uniquement pour les particuliers comme nous ?",
-    "t": 180.61
+    "t": 184.85
    },
    {
     "speaker": "Tom",
     "text": "Ou aussi pour les entreprises ?",
-    "t": 183.74
+    "t": 187.98
    },
    {
     "speaker": "Anna",
     "text": "Aujourd'hui, on parle surtout des particuliers.",
-    "t": 185.67
+    "t": 189.91
    },
    {
     "speaker": "Anna",
     "text": "Mais oui, les entreprises utilisent LuxTrust aussi — pour identifier leurs clients, pour signer et cacheter des documents, et pour sécuriser leurs processus.",
-    "t": 187.8
+    "t": 192.04
    },
    {
     "speaker": "Anna",
     "text": "Mais pour vous, en tant que résident ou frontalier, ce sont les usages personnels qui comptent le plus.",
-    "t": 195.34
+    "t": 199.58
    },
    {
     "speaker": "Tom",
     "text": "Parfait. Maintenant, la partie pratique.",
-    "t": 200.25
+    "t": 204.49
    },
    {
     "speaker": "Tom",
     "text": "Comment ça fonctionne concrètement, quand je l'utilise ?",
-    "t": 202.6
+    "t": 206.84
    },
    {
     "speaker": "Anna",
     "text": "Prenons l'exemple de la connexion à votre banque.",
-    "t": 205.39
+    "t": 209.63
    },
    {
     "speaker": "Anna",
     "text": "Étape un — vous vous connectez au site ou à l'appli de votre banque.",
-    "t": 207.89
+    "t": 212.13
    },
    {
     "speaker": "Anna",
     "text": "Étape deux — vous choisissez votre dispositif LuxTrust.",
-    "t": 211.37
+    "t": 215.6
    },
    {
     "speaker": "Anna",
     "text": "Étape trois — vous saisissez votre identifiant utilisateur et votre mot de passe.",
-    "t": 214.62
+    "t": 218.85
    },
    {
     "speaker": "Anna",
     "text": "Ou, si vous avez un dispositif à carte, votre code PIN.",
-    "t": 218.84
+    "t": 223.07
    },
    {
     "speaker": "Anna",
     "text": "Et étape quatre — vous générez un mot de passe à usage unique, un OTP — un code qui ne fonctionne qu'une seule fois — et ça vous donne accès.",
-    "t": 222.01
+    "t": 226.24
    },
    {
     "speaker": "Tom",
     "text": "Un mot de passe à usage unique.",
-    "t": 229.26
+    "t": 233.49
    },
    {
     "speaker": "Tom",
     "text": "Donc un nouveau code à chaque fois.",
-    "t": 231.18
+    "t": 235.41
    },
    {
     "speaker": "Anna",
     "text": "À chaque fois.",
-    "t": 233.09
+    "t": 237.32
    },
    {
     "speaker": "Anna",
     "text": "C'est ce qui le rend sécurisé.",
-    "t": 233.99
+    "t": 238.22
    },
    {
     "speaker": "Anna",
     "text": "Avec l'appli LuxTrust, tout ça se passe en quelques touches sur votre téléphone.",
-    "t": 235.97
+    "t": 240.2
    },
    {
     "speaker": "Tom",
     "text": "À ce propos — quels sont les différents produits LuxTrust ?",
-    "t": 239.96
+    "t": 244.19
    },
    {
     "speaker": "Tom",
     "text": "Parce que je crois qu'il y a un choix.",
-    "t": 243.16
+    "t": 247.39
    },
    {
     "speaker": "Anna",
     "text": "En effet. Pour un particulier, il y a trois produits principaux.",
-    "t": 245.07
+    "t": 249.3
    },
    {
     "speaker": "Anna",
-    "text": "Le premier, et aujourd'hui le plus populaire — l'appli LuxTrust Mobile.",
-    "t": 248.32
+    "text": "Le premier, et le plus simple — l'appli LuxTrust Mobile.",
+    "t": 253.09
    },
    {
     "speaker": "Anna",
     "text": "C'est une solution cent pour cent mobile.",
-    "t": 252.16
+    "t": 256.79
    },
    {
     "speaker": "Anna",
     "text": "Tout se passe sur votre smartphone.",
-    "t": 254.25
+    "t": 258.91
    },
    {
     "speaker": "Tom",
     "text": "Donc pas de dispositif supplémentaire à transporter.",
-    "t": 256.29
+    "t": 260.91
    },
    {
     "speaker": "Tom",
     "text": "Juste mon téléphone.",
-    "t": 259.14
+    "t": 263.76
    },
    {
     "speaker": "Anna",
     "text": "Juste votre téléphone.",
-    "t": 260.51
+    "t": 265.13
    },
    {
     "speaker": "Anna",
     "text": "Le deuxième produit, c'est le Scan — un petit dispositif physique, avec un petit écran et une caméra, qui génère vos codes.",
-    "t": 262.01
+    "t": 266.63
    },
    {
     "speaker": "Anna",
     "text": "Et le troisième, c'est la SmartCard — une carte à puce, comme une carte bancaire.",
-    "t": 268.02
+    "t": 272.64
    },
    {
     "speaker": "Anna",
     "text": "Mais pour utiliser la SmartCard, il vous faut un lecteur de cartes et un logiciel sur votre ordinateur.",
-    "t": 272.35
+    "t": 276.97
    },
    {
     "speaker": "Tom",
     "text": "Et lequel la plupart des gens devraient-ils choisir ?",
-    "t": 277.4
+    "t": 282.02
    },
    {
     "speaker": "Anna",
     "text": "Pour la plupart des gens aujourd'hui, l'appli est la plus simple.",
-    "t": 280
+    "t": 284.62
    },
    {
     "speaker": "Anna",
     "text": "Et voici une remarque importante — l'ancien LuxTrust Token, le petit dispositif que beaucoup de gens avaient sur leur porte-clés, a été arrêté fin 2024.",
-    "t": 282.73
+    "t": 287.35
    },
    {
     "speaker": "Anna",
     "text": "Donc si vous avez encore un ancien Token, il est temps de passer à l'appli.",
-    "t": 290.89
+    "t": 295.51
    },
    {
     "speaker": "Tom",
     "text": "Bon à savoir.",
-    "t": 294.26
+    "t": 298.88
    },
    {
     "speaker": "Tom",
     "text": "Et — à peu près — combien ça coûte ?",
-    "t": 295.47
+    "t": 300.09
    },
    {
     "speaker": "Anna",
     "text": "C'est un service payant, valable trois ans.",
-    "t": 297.34
+    "t": 301.96
    },
    {
     "speaker": "Anna",
-    "text": "Pour donner une idée, l'appli commence autour de cinquante euros pour trois ans, et les dispositifs physiques coûtent un peu plus.",
-    "t": 299.64
+    "text": "En ce moment, l'appli coûte quarante-sept euros pour trois ans.",
+    "t": 304.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le Scan commence à cent cinq euros, et la SmartCard à cent vingt-neuf euros.",
+    "t": 307.07
    },
    {
     "speaker": "Anna",
     "text": "Mais vérifiez les prix exacts sur luxtrust.com, car ils peuvent changer.",
-    "t": 306.37
+    "t": 311.37
    },
    {
     "speaker": "Tom",
     "text": "Toujours vérifier le site web pour le prix exact.",
-    "t": 310.35
+    "t": 315.17
    },
    {
     "speaker": "Tom",
     "text": "D'accord, Anna — maintenant la grande question pratique.",
-    "t": 312.86
+    "t": 317.68
    },
    {
     "speaker": "Tom",
     "text": "Je suis nouveau ici, je n'ai rien encore.",
-    "t": 315.74
+    "t": 320.56
    },
    {
     "speaker": "Tom",
     "text": "Comment est-ce que j'obtiens une identité LuxTrust ?",
-    "t": 318
+    "t": 322.82
    },
    {
     "speaker": "Tom",
     "text": "Étape par étape.",
-    "t": 320.65
+    "t": 325.47
    },
    {
     "speaker": "Anna",
     "text": "Cinq étapes. Étape un — choisissez le bon produit pour vous, par exemple l'appli.",
-    "t": 322.24
+    "t": 327.06
    },
    {
     "speaker": "Anna",
     "text": "Étape deux — passez votre commande.",
-    "t": 326.92
+    "t": 331.74
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez commander en ligne, sur le site de LuxTrust, ou via votre banque.",
-    "t": 328.83
+    "t": 333.65
    },
    {
     "speaker": "Tom",
     "text": "Ah, donc ma banque peut me la mettre en place.",
-    "t": 332.33
+    "t": 337.15
    },
    {
     "speaker": "Anna",
     "text": "Très souvent, oui — beaucoup de gens obtiennent leur LuxTrust par leur banque.",
-    "t": 334.69
+    "t": 339.51
    },
    {
     "speaker": "Anna",
     "text": "Étape trois, et celle-ci est importante — vous devez être identifié.",
-    "t": 338.44
+    "t": 343.26
    },
    {
     "speaker": "Anna",
     "text": "Comme ils créent une preuve de votre identité, ils doivent vérifier qui vous êtes.",
-    "t": 342.05
+    "t": 346.87
    },
    {
     "speaker": "Anna",
-    "text": "Vous pouvez le faire en personne, avec un de leurs agents.",
-    "t": 345.73
+    "text": "Vous pouvez le faire en personne — chez LuxTrust, chez un partenaire comme votre banque, ou chez un notaire.",
+    "t": 350.62
    },
    {
     "speaker": "Anna",
     "text": "Ou à distance, par une identification vidéo.",
-    "t": 348.35
+    "t": 356.42
    },
    {
     "speaker": "Tom",
     "text": "Donc, un peu comme ouvrir un compte bancaire.",
-    "t": 350.95
+    "t": 359.18
    },
    {
     "speaker": "Tom",
     "text": "Ils vérifient que c'est bien moi.",
-    "t": 353.46
+    "t": 361.69
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Étape quatre — vous recevez vos codes LuxTrust, et votre dispositif si vous en avez commandé un.",
-    "t": 355.35
+    "t": 363.58
    },
    {
     "speaker": "Anna",
     "text": "Et étape cinq — vous activez votre identité.",
-    "t": 360.59
+    "t": 368.82
    },
    {
     "speaker": "Anna",
     "text": "Après ça, votre identité numérique est valable trois ans.",
-    "t": 363.03
+    "t": 371.27
    },
    {
     "speaker": "Tom",
     "text": "Restons sur cette dernière étape — l'activation.",
-    "t": 365.94
+    "t": 374.18
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que je dois avoir prêt ?",
-    "t": 368.95
+    "t": 377.19
    },
    {
     "speaker": "Anna",
     "text": "Bonne question. Avant de commencer, ayez ces éléments sous la main.",
-    "t": 370.65
+    "t": 378.89
    },
    {
     "speaker": "Anna",
     "text": "Votre identifiant utilisateur — vous le recevez par courrier, ou par SMS.",
-    "t": 374.16
+    "t": 382.4
    },
    {
     "speaker": "Anna",
     "text": "Votre mot de passe initial — aussi par courrier ou SMS.",
-    "t": 378.86
+    "t": 387.1
    },
    {
     "speaker": "Anna",
     "text": "Votre dispositif, si vous en avez un.",
-    "t": 382.57
+    "t": 390.81
    },
    {
     "speaker": "Anna",
     "text": "Et votre code d'activation.",
-    "t": 384.63
+    "t": 392.87
    },
    {
     "speaker": "Tom",
     "text": "Le code d'activation — d'où vient-il ?",
-    "t": 386.36
+    "t": 394.6
    },
    {
     "speaker": "Anna",
     "text": "En fait, vous l'avez choisi vous-même, au moment de commander.",
-    "t": 388.68
+    "t": 396.92
    },
    {
     "speaker": "Anna",
     "text": "On vous conseille généralement d'utiliser les cinq derniers caractères du numéro de votre carte d'identité ou de votre passeport.",
-    "t": 391.29
+    "t": 399.52
    },
    {
     "speaker": "Anna",
     "text": "Et vous le retrouvez aussi dans la confirmation de commande, qui vous est envoyée par e-mail.",
-    "t": 397.59
+    "t": 405.82
    },
    {
     "speaker": "Tom",
     "text": "D'accord. Et comment se déroule l'activation elle-même ?",
-    "t": 401.66
+    "t": 409.89
    },
    {
     "speaker": "Anna",
     "text": "Ça dépend du produit.",
-    "t": 404.84
+    "t": 413.07
    },
    {
     "speaker": "Anna",
-    "text": "Pour l'appli Mobile, vous l'activez directement sur votre smartphone, en suivant le guide.",
-    "t": 406.16
+    "text": "Pour l'appli Mobile, vous l'activez directement sur votre smartphone, en suivant le guide — ça prend environ cinq minutes.",
+    "t": 414.37
    },
    {
     "speaker": "Anna",
     "text": "Pour le Scan, ça prend environ six minutes — vous suivez les étapes, scannez quelques QR codes, et définissez un nouveau mot de passe robuste.",
-    "t": 410.09
+    "t": 419.85
    },
    {
     "speaker": "Anna",
     "text": "Pour la SmartCard, c'est un peu plus long, autour de vingt minutes, car vous installez d'abord le logiciel, appelé middleware, sur votre ordinateur.",
-    "t": 417.95
+    "t": 427.9
    },
    {
     "speaker": "Tom",
     "text": "Et une fois l'activation terminée — je peux l'utiliser tout de suite ?",
-    "t": 424.74
+    "t": 434.9
    },
    {
     "speaker": "Anna",
     "text": "Presque. Une petite chose à retenir — si vous avez la SmartCard, le certificat ne devient utilisable qu'environ quatre heures après l'activation.",
-    "t": 428.25
+    "t": 438.41
    },
    {
     "speaker": "Anna",
     "text": "Donc ne l'activez pas cinq minutes avant d'en avoir besoin.",
-    "t": 436.07
+    "t": 446.23
    },
    {
     "speaker": "Anna",
     "text": "Faites-le un peu à l'avance.",
-    "t": 438.98
+    "t": 449.14
    },
    {
     "speaker": "Tom",
     "text": "Conseil très pratique.",
-    "t": 440.51
+    "t": 450.67
    },
    {
     "speaker": "Tom",
     "text": "Activez-le la veille au soir, pas à la dernière minute.",
-    "t": 441.95
+    "t": 452.11
    },
    {
     "speaker": "Anna",
     "text": "Exactement.",
-    "t": 445.07
+    "t": 455.23
    },
    {
     "speaker": "Tom",
     "text": "Maintenant, Anna — c'est une identité numérique, c'est sensible.",
-    "t": 446.2
+    "t": 456.36
    },
    {
     "speaker": "Tom",
     "text": "Parlons de sécurité.",
-    "t": 449.94
+    "t": 460.1
    },
    {
     "speaker": "Tom",
     "text": "Des arnaques.",
-    "t": 451.38
+    "t": 461.54
    },
    {
     "speaker": "Anna",
     "text": "Oui, c'est vraiment important.",
-    "t": 452.63
+    "t": 462.79
    },
    {
     "speaker": "Anna",
     "text": "Il y a des tentatives d'hameçonnage — de faux messages, de faux appels téléphoniques, qui font semblant d'être LuxTrust.",
-    "t": 454.12
+    "t": 464.28
    },
    {
     "speaker": "Anna",
     "text": "Alors retenez quelques règles.",
-    "t": 459.86
+    "t": 470.02
    },
    {
     "speaker": "Anna",
     "text": "LuxTrust ne vous demandera jamais vos codes ou vos identifiants.",
-    "t": 461.31
+    "t": 471.47
    },
    {
     "speaker": "Anna",
     "text": "Jamais.",
-    "t": 464.49
+    "t": 474.65
    },
    {
     "speaker": "Tom",
     "text": "Ne jamais donner les codes.",
-    "t": 465.39
+    "t": 475.55
    },
    {
     "speaker": "Tom",
     "text": "Même si ça a l'air officiel ?",
-    "t": 467.03
+    "t": 477.19
    },
    {
     "speaker": "Anna",
     "text": "Même là. Et encore plus — LuxTrust ne vous appellera jamais pour demander des informations sensibles.",
-    "t": 468.87
+    "t": 479.03
    },
    {
     "speaker": "Anna",
     "text": "Ils ne vous demanderont jamais de confirmer un paiement ou une opération bancaire.",
-    "t": 474.14
+    "t": 484.3
    },
    {
     "speaker": "Anna",
     "text": "Et ils ne viendront jamais chez vous.",
-    "t": 477.87
+    "t": 488.04
    },
    {
     "speaker": "Tom",
     "text": "Donc si quelqu'un fait l'une de ces choses, c'est une arnaque.",
-    "t": 479.68
+    "t": 489.85
    },
    {
     "speaker": "Anna",
     "text": "C'est une arnaque.",
-    "t": 482.89
+    "t": 493.06
    },
    {
     "speaker": "Anna",
     "text": "Votre identité numérique est la vôtre, et rien qu'à vous.",
-    "t": 484.04
+    "t": 494.21
    },
    {
     "speaker": "Anna",
     "text": "Tout comme vous ne donnez pas votre carte bancaire et votre code PIN à un collègue, vous ne partagez jamais vos identifiants LuxTrust.",
-    "t": 486.8
+    "t": 496.97
    },
    {
     "speaker": "Anna",
     "text": "En cas de doute, contactez LuxTrust directement, avec le numéro figurant sur leur site officiel.",
-    "t": 493.21
+    "t": 503.38
    },
    {
     "speaker": "Tom",
     "text": "Voilà encore la règle d'or — en cas de doute, ne partagez pas, et vérifiez directement.",
-    "t": 498.2
+    "t": 508.37
    },
    {
     "speaker": "Tom",
     "text": "D'accord, Anna, rendons ça vraiment concret pour quelqu'un qui nous écoute.",
-    "t": 502.78
+    "t": 512.95
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que je devrais faire ?",
-    "t": 506.15
+    "t": 516.32
    },
    {
     "speaker": "Anna",
     "text": "Si vous vivez ou travaillez au Luxembourg et que vous ne l'avez pas encore — obtenez une identité LuxTrust.",
-    "t": 507.68
+    "t": 517.85
    },
    {
     "speaker": "Anna",
     "text": "Le plus simple : demandez à votre banque, ou allez sur luxtrust.com, choisissez l'appli, commandez-la, faites-vous identifier, et activez-la.",
-    "t": 513.21
+    "t": 523.38
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, vous pouvez l'utiliser pour votre banque, pour MyGuichet, pour signer des documents, et pour vos paiements en ligne.",
-    "t": 520.44
+    "t": 530.61
    },
    {
     "speaker": "Tom",
     "text": "Une seule identité, pour toute votre vie numérique ici.",
-    "t": 526.16
+    "t": 536.33
    },
    {
     "speaker": "Tom",
     "text": "Un petit résumé pour finir ?",
-    "t": 529.23
+    "t": 539.4
    },
    {
     "speaker": "Anna",
-    "text": "Bien sûr. LuxTrust, c'est votre identité numérique sécurisée au Luxembourg — comme une carte d'identité pour internet, d'un prestataire certifié au niveau européen.",
-    "t": 530.9
+    "text": "Bien sûr. LuxTrust, c'est votre identité numérique sécurisée au Luxembourg — comme une carte d'identité pour internet, d'un prestataire reconnu au niveau européen.",
+    "t": 541.07
    },
    {
     "speaker": "Anna",
     "text": "Vous l'utilisez pour la banque en ligne, pour les services publics comme MyGuichet, pour des signatures électroniques juridiquement valables, et pour les paiements en ligne.",
-    "t": 538.94
+    "t": 549.86
    },
    {
     "speaker": "Anna",
     "text": "Vous l'obtenez par votre banque ou sur luxtrust.com, vous prouvez votre identité en personne ou par vidéo, et vous l'activez — le plus facilement avec l'appli Mobile.",
-    "t": 546.76
+    "t": 557.89
    },
    {
     "speaker": "Tom",
     "text": "Et le message de sécurité ?",
-    "t": 555.3
+    "t": 566.41
    },
    {
     "speaker": "Anna",
-    "text": "LuxTrust ne demande jamais vos codes, n'appelle jamais pour des données sensibles, ne demande jamais à accéder à vos appareils.",
-    "t": 557.04
+    "text": "LuxTrust ne demande jamais vos codes, n'appelle jamais pour des données sensibles, et ne vient jamais chez vous.",
+    "t": 568.15
    },
    {
     "speaker": "Anna",
     "text": "Gardez vos identifiants pour vous.",
-    "t": 563.06
+    "t": 573.53
    },
    {
     "speaker": "Anna",
     "text": "En cas de doute, vérifiez sur le site officiel.",
-    "t": 564.88
+    "t": 575.33
    },
    {
     "speaker": "Tom",
     "text": "Magnifique. Donc... votre identité numérique est la clé de la vie quotidienne en ligne au Luxembourg.",
-    "t": 567.5
+    "t": 578.01
    },
    {
     "speaker": "Tom",
     "text": "Configurez-la une fois, et tant de choses deviennent plus faciles.",
-    "t": 572.91
+    "t": 583.42
    },
    {
     "speaker": "Anna",
     "text": "Vraiment. Un petit effort pour la mettre en place... et ensuite tout, depuis votre canapé.",
-    "t": 576.55
+    "t": 587.06
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur LuxTrust.",
-    "t": 581.47
+    "t": 591.98
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 583.45
+    "t": 593.96
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 591.14
+    "t": 601.65
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 607.01
+    "t": 617.52
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 611.66
+    "t": 622.17
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 613.44
+    "t": 623.95
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 617.82
+    "t": 628.33
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 619.05
+    "t": 629.56
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 621.51
+    "t": 632.02
    }
   ],
   "segments_de": [
@@ -4375,778 +4395,788 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Sie sind von der Europäischen Union zertifiziert, und sie machen das seit etwa zwanzig Jahren.",
-    "t": 94.67
+    "text": "Und sie sind in der Europäischen Union offiziell als „qualifizierter\" Anbieter anerkannt.",
+    "t": 94.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie machen das seit mehr als zwanzig Jahren — seit 2005.",
+    "t": 100.11
    },
    {
     "speaker": "Tom",
     "text": "Zwanzig Jahre. Also ist es gut etabliert.",
-    "t": 99.78
+    "t": 104.55
    },
    {
     "speaker": "Tom",
     "text": "Und sind meine Daten dort sicher?",
-    "t": 102.76
+    "t": 107.53
    },
    {
     "speaker": "Anna",
-    "text": "Ja. Ihre Daten sind verschlüsselt und in Rechenzentren hier in Luxemburg gespeichert.",
-    "t": 104.63
+    "text": "Ja. Ihre Daten sind verschlüsselt und in sicheren Rechenzentren in der Europäischen Union gespeichert.",
+    "t": 109.4
    },
    {
     "speaker": "Anna",
     "text": "Sicherheit ist wirklich der ganze Sinn des Unternehmens.",
-    "t": 109.75
+    "t": 115.79
    },
    {
     "speaker": "Tom",
     "text": "Gut. Jetzt die wichtigste Frage für die meisten Menschen.",
-    "t": 113.06
+    "t": 119.3
    },
    {
     "speaker": "Tom",
     "text": "Was kann ich eigentlich mit meiner LuxTrust-Identität machen?",
-    "t": 116.32
+    "t": 122.56
    },
    {
     "speaker": "Anna",
     "text": "Viele alltägliche Dinge.",
-    "t": 119.77
+    "t": 126.01
    },
    {
     "speaker": "Anna",
     "text": "Lass mich die vier wichtigsten Anwendungen nennen.",
-    "t": 121.55
+    "t": 127.79
    },
    {
     "speaker": "Anna",
     "text": "Die erste, und die häufigste — Ihre Bank.",
-    "t": 124.19
+    "t": 130.43
    },
    {
     "speaker": "Anna",
     "text": "Mit LuxTrust melden Sie sich sicher bei Ihrem Online-Banking an, und Sie bestätigen Ihre Transaktionen.",
-    "t": 127.73
+    "t": 133.97
    },
    {
     "speaker": "Anna",
     "text": "Eine Zahlung, eine Überweisung... Sie bestätigen sie mit LuxTrust.",
-    "t": 133.34
+    "t": 139.58
    },
    {
     "speaker": "Tom",
     "text": "Also lernen die meisten Menschen in Luxemburg LuxTrust zuerst über ihre Bank kennen.",
-    "t": 138.19
+    "t": 144.43
    },
    {
     "speaker": "Anna",
     "text": "Genau. Die zweite Anwendung — öffentliche Dienste.",
-    "t": 143.09
+    "t": 149.33
    },
    {
     "speaker": "Anna",
     "text": "Mit LuxTrust melden Sie sich bei MyGuichet.lu an.",
-    "t": 146.84
+    "t": 153.08
    },
    {
     "speaker": "Anna",
     "text": "So können Sie Ihre Verwaltungsverfahren erledigen und zum Beispiel Ihre Steuererklärung online ausfüllen und unterschreiben.",
-    "t": 150.56
+    "t": 156.8
    },
    {
     "speaker": "Tom",
     "text": "Das ist die Verbindung zu unserer MyGuichet-Folge.",
-    "t": 157.21
+    "t": 163.45
    },
    {
     "speaker": "Tom",
     "text": "Okay, die dritte?",
-    "t": 160.06
+    "t": 166.3
    },
    {
     "speaker": "Anna",
     "text": "Die dritte ist eine schöne — die elektronische Signatur.",
-    "t": 161.67
+    "t": 167.91
    },
    {
     "speaker": "Anna",
     "text": "Mit LuxTrust können Sie ein Dokument elektronisch unterschreiben.",
-    "t": 165.41
+    "t": 171.65
    },
    {
     "speaker": "Anna",
     "text": "Und — das ist der entscheidende Punkt — diese elektronische Signatur hat den gleichen rechtlichen Wert wie eine handschriftliche Unterschrift.",
-    "t": 169.07
+    "t": 175.31
    },
    {
     "speaker": "Tom",
     "text": "Moment, wirklich? Den gleichen rechtlichen Wert wie eine Unterschrift mit dem Stift?",
-    "t": 177.55
+    "t": 183.79
    },
    {
     "speaker": "Anna",
     "text": "Den gleichen. Sie können also einen Vertrag abschließen oder ein offizielles Dokument unterschreiben, von zu Hause aus, ohne irgendetwas zu drucken.",
-    "t": 182.87
+    "t": 189.11
    },
    {
     "speaker": "Tom",
     "text": "Das ist mächtig.",
-    "t": 191.17
+    "t": 197.41
    },
    {
     "speaker": "Tom",
     "text": "Und die vierte Anwendung?",
-    "t": 192.41
+    "t": 198.65
    },
    {
     "speaker": "Anna",
     "text": "Die vierte — Ihre Online-Einkäufe.",
-    "t": 193.94
+    "t": 200.18
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie online einkaufen, kann LuxTrust zusammen mit dem System namens 3D Secure verwendet werden, um zu bestätigen, dass wirklich Sie es sind, der bezahlt.",
-    "t": 196.49
+    "t": 202.73
    },
    {
     "speaker": "Anna",
     "text": "So sind Ihre Kartenzahlungen sicherer.",
-    "t": 205.83
+    "t": 212.07
    },
    {
     "speaker": "Tom",
     "text": "Also, um es zusammenzufassen — Bankgeschäfte, öffentliche Dienste, elektronische Signatur und Online-Zahlungen.",
-    "t": 208.31
+    "t": 214.55
    },
    {
     "speaker": "Anna",
     "text": "Genau das. Eine Identität, für all das.",
-    "t": 215.71
+    "t": 221.95
    },
    {
     "speaker": "Tom",
     "text": "Und kurz — ist es nur für Privatpersonen wie uns?",
-    "t": 219.14
+    "t": 225.38
    },
    {
     "speaker": "Tom",
     "text": "Oder auch für Unternehmen?",
-    "t": 222.58
+    "t": 228.82
    },
    {
     "speaker": "Anna",
     "text": "Heute sprechen wir hauptsächlich über Privatpersonen.",
-    "t": 224.12
+    "t": 230.36
    },
    {
     "speaker": "Anna",
     "text": "Aber ja, Unternehmen nutzen LuxTrust auch — um ihre Kunden zu identifizieren, um Dokumente zu unterschreiben und zu siegeln, und um ihre Abläufe zu sichern.",
-    "t": 227.03
+    "t": 233.27
    },
    {
     "speaker": "Anna",
     "text": "Aber für Sie, als Einwohner oder Grenzgänger, sind die persönlichen Anwendungen am wichtigsten.",
-    "t": 236.83
+    "t": 243.07
    },
    {
     "speaker": "Tom",
     "text": "Perfekt. Jetzt der praktische Teil.",
-    "t": 241.95
+    "t": 248.19
    },
    {
     "speaker": "Tom",
     "text": "Wie funktioniert es eigentlich, wenn ich es benutze?",
-    "t": 244.46
+    "t": 250.7
    },
    {
     "speaker": "Anna",
     "text": "Nehmen wir das Beispiel der Anmeldung bei Ihrer Bank.",
-    "t": 247.27
+    "t": 253.51
    },
    {
     "speaker": "Anna",
     "text": "Schritt eins — Sie verbinden sich mit der Website oder der App Ihrer Bank.",
-    "t": 250.1
+    "t": 256.34
    },
    {
     "speaker": "Anna",
     "text": "Schritt zwei — Sie wählen Ihr LuxTrust-Gerät.",
-    "t": 254.54
+    "t": 260.78
    },
    {
     "speaker": "Anna",
     "text": "Schritt drei — Sie geben Ihre Benutzer-ID und Ihr Passwort ein.",
-    "t": 258
+    "t": 264.24
    },
    {
     "speaker": "Anna",
     "text": "Oder, wenn Sie ein kartenbasiertes Gerät haben, Ihren PIN-Code.",
-    "t": 262.43
+    "t": 268.67
    },
    {
     "speaker": "Anna",
     "text": "Und Schritt vier — Sie erzeugen ein Einmalpasswort, ein OTP — einen Code, der nur einmal funktioniert — und das gibt Ihnen Zugang.",
-    "t": 266.27
+    "t": 272.51
    },
    {
     "speaker": "Tom",
     "text": "Ein Einmalpasswort. Also jedes Mal ein neuer Code.",
-    "t": 275.22
+    "t": 281.46
    },
    {
     "speaker": "Anna",
     "text": "Jedes Mal. Das macht es sicher.",
-    "t": 278.64
+    "t": 284.88
    },
    {
     "speaker": "Anna",
     "text": "Mit der LuxTrust-App passiert das alles mit ein paar Berührungen auf Ihrem Telefon.",
-    "t": 281.27
+    "t": 287.51
    },
    {
     "speaker": "Tom",
     "text": "Apropos — was sind die verschiedenen LuxTrust-Produkte?",
-    "t": 286.01
+    "t": 292.25
    },
    {
     "speaker": "Tom",
     "text": "Denn ich glaube, es gibt eine Auswahl.",
-    "t": 289.3
+    "t": 295.54
    },
    {
     "speaker": "Anna",
     "text": "Die gibt es.",
-    "t": 291.37
+    "t": 297.61
    },
    {
     "speaker": "Anna",
     "text": "Für eine Privatperson gibt es drei Hauptprodukte.",
-    "t": 292.41
+    "t": 298.65
    },
    {
     "speaker": "Anna",
-    "text": "Das erste, und heute das beliebteste — die LuxTrust-Mobile-App.",
-    "t": 295.27
+    "text": "Das erste, und das einfachste — die LuxTrust-Mobile-App.",
+    "t": 301.71
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine hundertprozentig mobile Lösung.",
-    "t": 299.73
+    "t": 306.48
    },
    {
     "speaker": "Anna",
     "text": "Alles passiert auf Ihrem Smartphone.",
-    "t": 302.38
+    "t": 309.2
    },
    {
     "speaker": "Tom",
     "text": "Also kein zusätzliches Gerät zum Mitnehmen.",
-    "t": 304.66
+    "t": 311.59
    },
    {
     "speaker": "Tom",
     "text": "Nur mein Telefon.",
-    "t": 307.27
+    "t": 314.2
    },
    {
     "speaker": "Anna",
     "text": "Nur Ihr Telefon.",
-    "t": 308.55
+    "t": 315.48
    },
    {
     "speaker": "Anna",
     "text": "Das zweite Produkt ist der Scan — ein kleines physisches Gerät, mit einem kleinen Bildschirm und einer Kamera, das Ihre Codes erzeugt.",
-    "t": 309.86
+    "t": 316.79
    },
    {
     "speaker": "Anna",
     "text": "Und das dritte ist die SmartCard — eine Chipkarte, wie eine Bankkarte.",
-    "t": 317.44
+    "t": 324.37
    },
    {
     "speaker": "Anna",
     "text": "Aber um die SmartCard zu nutzen, brauchen Sie ein Kartenlesegerät und eine Software auf Ihrem Computer.",
-    "t": 322.22
+    "t": 329.15
    },
    {
     "speaker": "Tom",
     "text": "Und welches sollten die meisten Menschen wählen?",
-    "t": 327.82
+    "t": 334.75
    },
    {
     "speaker": "Anna",
     "text": "Für die meisten Menschen ist heute die App am einfachsten.",
-    "t": 330.24
+    "t": 337.17
    },
    {
     "speaker": "Anna",
     "text": "Und hier ein wichtiger Hinweis — der alte LuxTrust Token, das kleine Gerät, das viele Menschen an ihrem Schlüsselbund hatten, wurde Ende 2024 eingestellt.",
-    "t": 333.2
+    "t": 340.13
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie also noch einen alten Token haben, ist es Zeit, auf die App umzusteigen.",
-    "t": 343.13
+    "t": 350.06
    },
    {
     "speaker": "Tom",
     "text": "Gut zu wissen.",
-    "t": 347.57
+    "t": 354.5
    },
    {
     "speaker": "Tom",
     "text": "Und — ungefähr — was kostet es?",
-    "t": 348.64
+    "t": 355.57
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein kostenpflichtiger Dienst, drei Jahre gültig.",
-    "t": 351.06
+    "t": 357.99
    },
    {
     "speaker": "Anna",
-    "text": "Als grobe Vorstellung: Die App beginnt bei etwa fünfzig Euro für drei Jahre, und die physischen Geräte kosten ein bisschen mehr.",
-    "t": 354.59
+    "text": "Im Moment kostet die App siebenundvierzig Euro für drei Jahre.",
+    "t": 361.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Scan beginnt bei hundertfünf Euro, und die SmartCard bei hundertneunundzwanzig Euro.",
+    "t": 364.84
    },
    {
     "speaker": "Anna",
     "text": "Aber bitte prüfen Sie die genauen Preise auf luxtrust.com, denn sie können sich ändern.",
-    "t": 362.14
+    "t": 369.87
    },
    {
     "speaker": "Tom",
     "text": "Immer die Website für den genauen Preis prüfen.",
-    "t": 367.55
+    "t": 375.79
    },
    {
     "speaker": "Tom",
     "text": "Okay, Anna — jetzt die große praktische Frage.",
-    "t": 370.05
+    "t": 378.29
    },
    {
     "speaker": "Tom",
     "text": "Ich bin neu hier, ich habe noch nichts.",
-    "t": 373.21
+    "t": 381.45
    },
    {
     "speaker": "Tom",
     "text": "Wie bekomme ich eine LuxTrust-Identität?",
-    "t": 375.39
+    "t": 383.63
    },
    {
     "speaker": "Tom",
     "text": "Schritt für Schritt.",
-    "t": 378.15
+    "t": 386.39
    },
    {
     "speaker": "Anna",
     "text": "Fünf Schritte. Schritt eins — wählen Sie das richtige Produkt für sich, zum Beispiel die App.",
-    "t": 379.38
+    "t": 387.62
    },
    {
     "speaker": "Anna",
     "text": "Schritt zwei — geben Sie Ihre Bestellung auf.",
-    "t": 385.72
+    "t": 393.96
    },
    {
     "speaker": "Anna",
     "text": "Sie können online bestellen, auf der LuxTrust-Website, oder über Ihre Bank.",
-    "t": 388.78
+    "t": 397.02
    },
    {
     "speaker": "Tom",
     "text": "Ah, also kann meine Bank es für mich einrichten.",
-    "t": 393.13
+    "t": 401.37
    },
    {
     "speaker": "Anna",
     "text": "Sehr oft, ja — viele Menschen bekommen ihr LuxTrust über ihre Bank.",
-    "t": 395.97
+    "t": 404.21
    },
    {
     "speaker": "Anna",
     "text": "Schritt drei, und dieser ist wichtig — Sie müssen sich identifizieren lassen.",
-    "t": 400.98
+    "t": 409.22
    },
    {
     "speaker": "Anna",
     "text": "Da sie einen Nachweis Ihrer Identität erstellen, müssen sie prüfen, wer Sie sind.",
-    "t": 405.97
+    "t": 414.21
    },
    {
     "speaker": "Anna",
-    "text": "Das können Sie persönlich machen, mit einem ihrer Mitarbeiter.",
-    "t": 410.79
+    "text": "Das können Sie persönlich machen — bei LuxTrust, bei einem Partner wie Ihrer Bank, oder bei einem Notar.",
+    "t": 419.16
    },
    {
     "speaker": "Anna",
     "text": "Oder aus der Ferne, durch eine Video-Identifizierung.",
-    "t": 413.97
+    "t": 425.9
    },
    {
     "speaker": "Tom",
     "text": "Also ein bisschen wie das Eröffnen eines Bankkontos.",
-    "t": 417.41
+    "t": 429.58
    },
    {
     "speaker": "Tom",
     "text": "Sie überprüfen, dass ich es wirklich bin.",
-    "t": 420.39
+    "t": 432.56
    },
    {
     "speaker": "Anna",
     "text": "Genau. Schritt vier — Sie erhalten Ihre LuxTrust-Codes, und Ihr Gerät, falls Sie eines bestellt haben.",
-    "t": 422.68
+    "t": 434.85
    },
    {
     "speaker": "Anna",
     "text": "Und Schritt fünf — Sie aktivieren Ihre Identität.",
-    "t": 429.56
+    "t": 441.73
    },
    {
     "speaker": "Anna",
     "text": "Danach ist Ihre digitale Identität drei Jahre gültig.",
-    "t": 433.37
+    "t": 445.54
    },
    {
     "speaker": "Tom",
     "text": "Bleiben wir bei diesem letzten Schritt — der Aktivierung.",
-    "t": 437.2
+    "t": 449.37
    },
    {
     "speaker": "Tom",
     "text": "Was muss ich bereithalten?",
-    "t": 440.37
+    "t": 452.54
    },
    {
     "speaker": "Anna",
     "text": "Gute Frage. Bevor Sie anfangen, halten Sie diese Dinge bereit.",
-    "t": 441.98
+    "t": 454.15
    },
    {
     "speaker": "Anna",
     "text": "Ihre Benutzer-ID — die erhalten Sie per Brief, oder per SMS.",
-    "t": 446.16
+    "t": 458.33
    },
    {
     "speaker": "Anna",
     "text": "Ihr anfängliches Passwort — auch per Brief oder SMS.",
-    "t": 451.64
+    "t": 463.81
    },
    {
     "speaker": "Anna",
     "text": "Ihr Gerät, falls Sie eines haben.",
-    "t": 455.93
+    "t": 468.1
    },
    {
     "speaker": "Anna",
     "text": "Und Ihren Aktivierungscode.",
-    "t": 458.33
+    "t": 470.5
    },
    {
     "speaker": "Tom",
     "text": "Der Aktivierungscode — woher kommt der?",
-    "t": 460.46
+    "t": 472.63
    },
    {
     "speaker": "Anna",
     "text": "Den haben Sie eigentlich selbst gewählt, bei der Bestellung.",
-    "t": 463.08
+    "t": 475.25
    },
    {
     "speaker": "Anna",
     "text": "Man rät Ihnen normalerweise, die letzten fünf Zeichen Ihrer Personalausweis- oder Reisepassnummer zu verwenden.",
-    "t": 466.01
+    "t": 478.18
    },
    {
     "speaker": "Anna",
     "text": "Und Sie finden ihn auch in der Bestellbestätigung, die Ihnen per E-Mail geschickt wird.",
-    "t": 472.3
+    "t": 484.47
    },
    {
     "speaker": "Tom",
     "text": "Okay. Und wie läuft die Aktivierung selbst ab?",
-    "t": 476.57
+    "t": 488.74
    },
    {
     "speaker": "Anna",
     "text": "Das hängt vom Produkt ab.",
-    "t": 479.49
+    "t": 491.66
    },
    {
     "speaker": "Anna",
-    "text": "Bei der Mobile-App aktivieren Sie sie direkt auf Ihrem Smartphone, indem Sie der Anleitung folgen.",
-    "t": 481.01
+    "text": "Bei der Mobile-App aktivieren Sie sie direkt auf Ihrem Smartphone, indem Sie der Anleitung folgen — das dauert etwa fünf Minuten.",
+    "t": 493.27
    },
    {
     "speaker": "Anna",
     "text": "Beim Scan dauert es etwa sechs Minuten — Sie folgen den Schritten, scannen ein paar QR-Codes, und legen ein neues, starkes Passwort fest.",
-    "t": 486.1
+    "t": 500.59
    },
    {
     "speaker": "Anna",
     "text": "Bei der SmartCard ist es etwas länger, etwa zwanzig Minuten, weil Sie zuerst die Software, die sogenannte Middleware, auf Ihrem Computer installieren.",
-    "t": 494.87
+    "t": 509.2
    },
    {
     "speaker": "Tom",
     "text": "Und sobald ich die Aktivierung abgeschlossen habe — kann ich es sofort benutzen?",
-    "t": 503.69
+    "t": 518.29
    },
    {
     "speaker": "Anna",
     "text": "Fast. Eine kleine Sache zum Merken — wenn Sie die SmartCard haben, ist das Zertifikat erst etwa vier Stunden nach der Aktivierung nutzbar.",
-    "t": 508.02
+    "t": 522.62
    },
    {
     "speaker": "Anna",
     "text": "Aktivieren Sie es also nicht fünf Minuten, bevor Sie es brauchen.",
-    "t": 516.42
+    "t": 531.02
    },
    {
     "speaker": "Anna",
     "text": "Machen Sie es ein bisschen im Voraus.",
-    "t": 520.03
+    "t": 534.63
    },
    {
     "speaker": "Tom",
     "text": "Sehr praktischer Tipp.",
-    "t": 522.34
+    "t": 536.94
    },
    {
     "speaker": "Tom",
     "text": "Aktivieren Sie es am Abend davor, nicht in letzter Minute.",
-    "t": 523.85
+    "t": 538.45
    },
    {
     "speaker": "Anna",
     "text": "Genau.",
-    "t": 527.36
+    "t": 541.96
    },
    {
     "speaker": "Tom",
     "text": "Jetzt, Anna — das ist eine digitale Identität, das ist sensibel.",
-    "t": 528.27
+    "t": 542.87
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir über Sicherheit.",
-    "t": 532.66
+    "t": 547.26
    },
    {
     "speaker": "Tom",
     "text": "Über Betrug.",
-    "t": 534.34
+    "t": 548.94
    },
    {
     "speaker": "Anna",
     "text": "Ja, das ist wirklich wichtig.",
-    "t": 535.54
+    "t": 550.14
    },
    {
     "speaker": "Anna",
     "text": "Es gibt Phishing-Versuche — gefälschte Nachrichten, gefälschte Anrufe, die vorgeben, LuxTrust zu sein.",
-    "t": 537.6
+    "t": 552.2
    },
    {
     "speaker": "Anna",
     "text": "Merken Sie sich also ein paar Regeln.",
-    "t": 543.94
+    "t": 558.54
    },
    {
     "speaker": "Anna",
     "text": "LuxTrust wird Sie niemals nach Ihren Codes oder Ihren Zugangsdaten fragen.",
-    "t": 546.07
+    "t": 560.67
    },
    {
     "speaker": "Anna",
     "text": "Niemals.",
-    "t": 550.33
+    "t": 564.93
    },
    {
     "speaker": "Tom",
     "text": "Niemals die Codes herausgeben.",
-    "t": 551.53
+    "t": 566.13
    },
    {
     "speaker": "Tom",
     "text": "Selbst wenn es offiziell aussieht?",
-    "t": 553.41
+    "t": 568.01
    },
    {
     "speaker": "Anna",
     "text": "Selbst dann. Und noch mehr — LuxTrust wird Sie niemals anrufen, um nach sensiblen Informationen zu fragen.",
-    "t": 555.41
+    "t": 570.01
    },
    {
     "speaker": "Anna",
     "text": "Sie werden Sie niemals bitten, eine Zahlung oder eine Bankoperation zu bestätigen.",
-    "t": 562.64
+    "t": 577.24
    },
    {
     "speaker": "Anna",
     "text": "Und sie werden niemals zu Ihnen nach Hause kommen.",
-    "t": 567.18
+    "t": 581.78
    },
    {
     "speaker": "Tom",
     "text": "Also wenn jemand eines dieser Dinge tut, ist es Betrug.",
-    "t": 569.97
+    "t": 584.57
    },
    {
     "speaker": "Anna",
     "text": "Es ist Betrug.",
-    "t": 573.29
+    "t": 587.89
    },
    {
     "speaker": "Anna",
     "text": "Ihre digitale Identität gehört Ihnen, und nur Ihnen.",
-    "t": 574.66
+    "t": 589.26
    },
    {
     "speaker": "Anna",
     "text": "Genau wie Sie Ihre Bankkarte und Ihren PIN nicht einem Kollegen geben, teilen Sie niemals Ihre LuxTrust-Zugangsdaten.",
-    "t": 578.42
+    "t": 593.02
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie im Zweifel sind, kontaktieren Sie LuxTrust direkt, mit der Nummer auf ihrer offiziellen Website.",
-    "t": 585.3
+    "t": 599.9
    },
    {
     "speaker": "Tom",
     "text": "Das ist wieder die goldene Regel — im Zweifel nichts teilen, und direkt nachprüfen.",
-    "t": 591.2
+    "t": 605.8
    },
    {
     "speaker": "Tom",
     "text": "Okay, Anna, machen wir es ganz praktisch für jemanden, der zuhört.",
-    "t": 595.79
+    "t": 610.39
    },
    {
     "speaker": "Tom",
     "text": "Was sollte ich tun?",
-    "t": 599.96
+    "t": 614.56
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie in Luxemburg leben oder arbeiten und es noch nicht haben — holen Sie sich eine LuxTrust-Identität.",
-    "t": 601.28
+    "t": 615.88
    },
    {
     "speaker": "Anna",
     "text": "Der einfachste Weg: Fragen Sie Ihre Bank, oder gehen Sie auf luxtrust.com, wählen Sie die App, bestellen Sie sie, lassen Sie sich identifizieren, und aktivieren Sie sie.",
-    "t": 607.73
+    "t": 622.33
    },
    {
     "speaker": "Anna",
     "text": "Dann können Sie es für Ihre Bank nutzen, für MyGuichet, zum Unterschreiben von Dokumenten, und für Ihre Online-Zahlungen.",
-    "t": 619.17
+    "t": 633.77
    },
    {
     "speaker": "Tom",
     "text": "Eine Identität, für Ihr ganzes digitales Leben hier.",
-    "t": 626.33
+    "t": 640.93
    },
    {
     "speaker": "Tom",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 629.66
+    "t": 644.26
    },
    {
     "speaker": "Anna",
-    "text": "Klar. LuxTrust ist Ihre sichere digitale Identität in Luxemburg — wie ein Personalausweis fürs Internet, von einem europäisch zertifizierten Anbieter.",
-    "t": 631.94
+    "text": "Klar. LuxTrust ist Ihre sichere digitale Identität in Luxemburg — wie ein Personalausweis fürs Internet, von einem europaweit anerkannten Anbieter.",
+    "t": 646.54
    },
    {
     "speaker": "Anna",
     "text": "Sie nutzen es fürs Online-Banking, für öffentliche Dienste wie MyGuichet, für rechtsgültige elektronische Signaturen, und für Online-Zahlungen.",
-    "t": 641.83
+    "t": 656.2
    },
    {
     "speaker": "Anna",
     "text": "Sie bekommen es über Ihre Bank oder auf luxtrust.com, Sie beweisen Ihre Identität persönlich oder per Video, und Sie aktivieren es — am einfachsten mit der Mobile-App.",
-    "t": 650.52
+    "t": 664.76
    },
    {
     "speaker": "Tom",
     "text": "Und die Sicherheitsbotschaft?",
-    "t": 661.93
+    "t": 676.36
    },
    {
     "speaker": "Anna",
-    "text": "LuxTrust fragt niemals nach Ihren Codes, ruft niemals wegen sensibler Daten an, fragt niemals nach Zugang zu Ihren Geräten.",
-    "t": 663.67
+    "text": "LuxTrust fragt niemals nach Ihren Codes, ruft niemals wegen sensibler Daten an, und kommt niemals zu Ihnen nach Hause.",
+    "t": 678.1
    },
    {
     "speaker": "Anna",
     "text": "Behalten Sie Ihre Zugangsdaten für sich.",
-    "t": 671.12
+    "t": 685.43
    },
    {
     "speaker": "Anna",
     "text": "Im Zweifel auf der offiziellen Website nachprüfen.",
-    "t": 673.73
+    "t": 687.94
    },
    {
     "speaker": "Tom",
     "text": "Wunderbar. Also... Ihre digitale Identität ist der Schlüssel zum täglichen Leben online in Luxemburg.",
-    "t": 676.83
+    "t": 691.07
    },
    {
     "speaker": "Tom",
     "text": "Richten Sie sie einmal ein, und so vieles wird einfacher.",
-    "t": 684.39
+    "t": 698.63
    },
    {
     "speaker": "Anna",
     "text": "Wirklich. Ein kleiner Aufwand zum Einrichten... und dann alles, vom Sofa aus.",
-    "t": 687.42
+    "t": 701.66
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über LuxTrust.",
-    "t": 693.31
+    "t": 707.55
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 695.6
+    "t": 709.84
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 704.2
+    "t": 718.44
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 722.05
+    "t": 736.29
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 727.75
+    "t": 741.99
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 730
+    "t": 744.24
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 734.89
+    "t": 749.13
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 736.04
+    "t": 750.28
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 739.25
+    "t": 753.49
    }
   ],
   "segments_lb": [
@@ -5192,312 +5222,312 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Genau. A LuxTrust ass d'Firma, déi se ubitt. Si sinn dat, wat mer eng \"Certificate Authority\" an en \"trust service provider\" nennen. Si sinn vun der Europäescher Unioun zertifizéiert, a si maachen dat scho ronn zwanzeg Joer.",
+    "text": "Genau. A LuxTrust ass d'Firma, déi se ubitt. Si sinn dat, wat mer eng \"Certificate Authority\" an en \"trust service provider\" nennen. A si sinn an der Europäescher Unioun offiziell als \"qualifizéierte\" Provider unerkannt. Si maachen dat scho méi wéi zwanzeg Joer — zënter 2005.",
     "t": 75.51
    },
    {
     "speaker": "Tom",
     "text": "Zwanzeg Joer. Also ass et gutt etabléiert. An sinn meng Donnéeën sécher bei hinnen?",
-    "t": 89.41
+    "t": 94.55
    },
    {
     "speaker": "Anna",
-    "text": "Jo. Är Donnéeën sinn verschlësselt, a gespäichert an Datenzentren hei, zu Lëtzebuerg. D'Sécherheet ass wierklech de ganze Sënn vun der Firma.",
-    "t": 93.73
+    "text": "Jo. Är Donnéeën sinn verschlësselt, a gespäichert a sécheren Datenzentren an der Europäescher Unioun. D'Sécherheet ass wierklech de ganze Sënn vun der Firma.",
+    "t": 98.87
    },
    {
     "speaker": "Tom",
     "text": "Gutt. Elo déi wichtegst Fro fir déi meescht Leit. Wat kann ech eigentlech mat menger LuxTrust-Identitéit maachen?",
-    "t": 102.01
+    "t": 108.11
    },
    {
     "speaker": "Anna",
     "text": "Vill alldeeglech Saachen. Loosst mech déi véier Haaptnotzunge ginn. Déi éischt, an déi heefegst — Är Bank. Mat LuxTrust mellt Dir Iech sécher an Ärem Online-Banking un, an Dir bestätegt Är Transaktiounen. Eng Bezuelung, en Iwwerweisung... Dir validéiert se mat LuxTrust.",
-    "t": 108.13
+    "t": 114.23
    },
    {
     "speaker": "Tom",
     "text": "Also déi meescht Leit zu Lëtzebuerg léieren LuxTrust als éischt iwwer hir Bank kennen.",
-    "t": 125.24
+    "t": 131.34
    },
    {
     "speaker": "Anna",
     "text": "Genau. Déi zweet Notzung — ëffentlech Servicer. Mat LuxTrust mellt Dir Iech op MyGuichet.lu un. Esou kënnt Dir Är administrativ Demarchen maachen, an, zum Beispill, Är Steiererklärung online ausfëllen an ënnerschreiwen.",
-    "t": 129.13
+    "t": 135.23
    },
    {
     "speaker": "Tom",
     "text": "Dat ass de Link mat eiser MyGuichet-Episod. Okay, déi drëtt?",
-    "t": 141.76
+    "t": 147.86
    },
    {
     "speaker": "Anna",
     "text": "Déi drëtt ass eng schéin — déi elektronesch Ënnerschrëft. Mat LuxTrust kënnt Dir en Dokument elektronesch ënnerschreiwen. An — dat ass de Schlësselpunkt — déi elektronesch Ënnerschrëft huet deeselwechte juristesche Wäert wéi eng handgeschriwwen Ënnerschrëft.",
-    "t": 144.97
+    "t": 151.07
    },
    {
     "speaker": "Tom",
     "text": "Waart, wierklech? Deeselwechte juristesche Wäert wéi mat engem Bic z'ënnerschreiwen?",
-    "t": 159
+    "t": 165.1
    },
    {
     "speaker": "Anna",
     "text": "Deeselwechten. Also kënnt Dir e Kontrakt ofschléissen, oder en offiziellt Dokument ënnerschreiwen, vun doheem, ouni eppes auszedrécken.",
-    "t": 162.34
+    "t": 168.44
    },
    {
     "speaker": "Tom",
     "text": "Dat ass mächteg. An déi véiert Notzung?",
-    "t": 168.83
+    "t": 174.93
    },
    {
     "speaker": "Anna",
     "text": "Déi véiert — Är Online-Akeef. Wann Dir online akeeft, kann LuxTrust benotzt ginn, zesumme mam System, deen 3D Secure heescht, fir ze bestätegen, datt et wierklech Dir sidd, deen bezilt. Esou si Är Kaartebezuelunge méi sécher.",
-    "t": 171.01
+    "t": 177.11
    },
    {
     "speaker": "Tom",
     "text": "Also, fir zesummenzefaassen — Banking, ëffentlech Servicer, elektronesch Ënnerschrëft, an Online-Bezuelungen.",
-    "t": 183.32
+    "t": 189.42
    },
    {
     "speaker": "Anna",
     "text": "Dat ass et. Eng Identitéit, fir all dat.",
-    "t": 188.76
+    "t": 194.86
    },
    {
     "speaker": "Tom",
     "text": "A séier — ass et just fir Privatpersoune wéi eis? Oder och fir Betriber?",
-    "t": 191.28
+    "t": 197.38
    },
    {
     "speaker": "Anna",
     "text": "Meeschtens schwätze mer haut iwwer Privatpersounen. Mä jo, Betriber benotzen LuxTrust och — fir hir Clienten z'identifizéieren, fir Dokumenter z'ënnerschreiwen an ze versigelen, a fir hir Prozesser ze sécheren. Mä fir Iech, als Awunner oder Grenzgänger, sinn déi perséinlech Notzunge dat, wat am wichtegsten ass.",
-    "t": 195.77
+    "t": 201.87
    },
    {
     "speaker": "Tom",
     "text": "Perfekt. Elo den praktneschen Deel. Wéi funktionéiert et eigentlech, wann ech et benotzen?",
-    "t": 212.54
+    "t": 218.64
    },
    {
     "speaker": "Anna",
     "text": "Huele mer d'Beispill, sech an der Bank unzemellen. Schrëtt eent — Dir verbënnt Iech op d'Websäit oder d'App vun Ärer Bank. Schrëtt zwee — Dir wielt Är LuxTrust-Apparat. Schrëtt dräi — Dir gitt Är User ID an Äert Passwuert an. Oder, wann Dir eng kaartebaséiert Apparat hutt, Äre PIN-Code. A Schrëtt véier — Dir generéiert en eemolegt Passwuert, en OTP — e Code, deen nëmmen eemol funktionéiert — an dat gëtt Iech den Zougang.",
-    "t": 217.37
+    "t": 223.47
    },
    {
     "speaker": "Tom",
     "text": "En eemolegt Passwuert. Also all Kéier en neie Code.",
-    "t": 242.88
+    "t": 248.98
    },
    {
     "speaker": "Anna",
     "text": "All Kéier. Dat ass dat, wat et sécher mécht. Mat der LuxTrust-App geschitt dat alles a puer Tipp op Ärem Handy.",
-    "t": 245.7
+    "t": 251.8
    },
    {
     "speaker": "Tom",
     "text": "Apropos — wat sinn déi verschidde LuxTrust-Produkter? Well ech mengen, et gëtt eng Wiel.",
-    "t": 252.07
+    "t": 258.17
    },
    {
     "speaker": "Anna",
-    "text": "Et gëtt. Fir eng Privatpersoun gëtt et dräi Haaptprodukter. Dat éischt, an haut dat populärst — d'LuxTrust Mobile App. Et ass eng honnertprozenteg mobil Léisung. Alles geschitt op Ärem Smartphone.",
-    "t": 257.17
+    "text": "Et gëtt. Fir eng Privatpersoun gëtt et dräi Haaptprodukter. Dat éischt, an dat einfachst — d'LuxTrust Mobile App. Et ass eng honnertprozenteg mobil Léisung. Alles geschitt op Ärem Smartphone.",
+    "t": 263.27
    },
    {
     "speaker": "Tom",
     "text": "Also keng extra Apparat ze droen. Just mäin Handy.",
-    "t": 270.21
+    "t": 277
    },
    {
     "speaker": "Anna",
     "text": "Just Äert Handy. Dat zweet Produkt ass de Scan — eng kleng physesch Apparat, mat engem klengen Ecran an enger Kamera, déi Är Codes generéiert. An dat drëtt ass d'SmartCard — eng Chipkaart, wéi eng Bankkaart. Mä fir d'SmartCard ze benotzen, braucht Dir e Kaartelieser an eng Software op Ärem Computer.",
-    "t": 272.92
+    "t": 279.71
    },
    {
     "speaker": "Tom",
     "text": "A wéi eng soll déi meescht Leit wielen?",
-    "t": 292.3
+    "t": 299.09
    },
    {
     "speaker": "Anna",
     "text": "Fir déi meescht Leit haut ass d'App déi einfachst. An hei eng wichteg Notiz — deen ale LuxTrust Token, déi kleng Apparat, déi vill Leit um Schlësselbond haten, gouf um Enn vun 2024 gestoppt. Also wann Dir nach en alen Token hutt, ass et Zäit, op d'App ze wiesselen.",
-    "t": 294.2
+    "t": 300.99
    },
    {
     "speaker": "Tom",
     "text": "Gutt ze wëssen. An — ongeféier — wat kascht et?",
-    "t": 309.48
+    "t": 316.27
    },
    {
     "speaker": "Anna",
-    "text": "Et ass e bezuelte Service, dräi Joer gülteg. Als groff Iddi, d'App fänkt bei ronn fofzeg Euro fir dräi Joer un, an déi physesch Apparater kaschten e bësse méi. Mä iwwerpréift w.e.g. déi genee Präisser op luxtrust.com, well se kënne sech änneren.",
-    "t": 312.53
+    "text": "Et ass e bezuelte Service, dräi Joer gülteg. Momentan kascht d'App siwenavéierzeg Euro fir dräi Joer. De Scan fänkt bei honnertfënnef Euro un, an d'SmartCard bei honnertnénganzwanzeg Euro. Mä iwwerpréift w.e.g. déi genee Präisser op luxtrust.com, well se kënne sech änneren.",
+    "t": 319.32
    },
    {
     "speaker": "Tom",
     "text": "Iwwerpréift ëmmer d'Websäit fir de genee Präis. Okay, Anna — elo déi grouss praktesch Fro. Ech sinn nei hei, ech hu nach näischt. Wéi kréien ech eng LuxTrust-Identitéit? Schrëtt fir Schrëtt.",
-    "t": 327.32
+    "t": 337.29
    },
    {
     "speaker": "Anna",
     "text": "Fënnef Schrëtt. Schrëtt eent — wielt dat richtegt Produkt fir Iech, zum Beispill d'App. Schrëtt zwee — gitt Är Bestellung op. Dir kënnt online bestellen, op der LuxTrust-Websäit, oder iwwer Är Bank.",
-    "t": 336.96
+    "t": 346.93
    },
    {
     "speaker": "Tom",
     "text": "Ah, also meng Bank kann et fir mech ariichten.",
-    "t": 347.83
+    "t": 357.8
    },
    {
     "speaker": "Anna",
-    "text": "Ganz dacks, jo — vill Leit kréien hire LuxTrust iwwer hir Bank. Schrëtt dräi, an deen ass wichteg — Dir musst Iech identifizéiere loossen. Well si e Beweis vun Ärer Identitéit erstellen, mussen si iwwerpréiwen, wien Dir sidd. Dir kënnt dat vis-à-vis maachen, mat engem vun hiren Agenten. Oder op Distanz, duerch eng Video-Identifikatioun.",
-    "t": 350.03
+    "text": "Ganz dacks, jo — vill Leit kréien hire LuxTrust iwwer hir Bank. Schrëtt dräi, an deen ass wichteg — Dir musst Iech identifizéiere loossen. Well si e Beweis vun Ärer Identitéit erstellen, mussen si iwwerpréiwen, wien Dir sidd. Dir kënnt dat perséinlech maachen — bei LuxTrust, bei engem Partner wéi Ärer Bank, oder bei engem Notaire. Oder op Distanz, duerch eng Video-Identifikatioun.",
+    "t": 360
    },
    {
     "speaker": "Tom",
     "text": "Also, e bësse wéi e Bankkont opzemaachen. Si verifizéieren, datt et wierklech ech sinn.",
-    "t": 370.02
+    "t": 383.4
    },
    {
     "speaker": "Anna",
     "text": "Genau. Schrëtt véier — Dir kritt Är LuxTrust-Codes, an Är Apparat, wann Dir eng bestallt hutt. A Schrëtt fënnef — Dir aktivéiert Är Identitéit. Duerno ass Är digital Identitéit dräi Joer gülteg.",
-    "t": 373.95
+    "t": 387.33
    },
    {
     "speaker": "Tom",
     "text": "Bleiwe mer bei deem leschte Schrëtt — d'Aktivéierung. Wat muss ech prett hunn?",
-    "t": 387.03
+    "t": 400.41
    },
    {
     "speaker": "Anna",
     "text": "Gutt Fro. Ier Dir ufänkt, hutt dës Saachen zur Hand. Är User ID — Dir kritt se per Bréif, oder per SMS. Äert ufänglecht Passwuert — och per Bréif oder SMS. Är Apparat, wann Dir eng hutt. An Äre Aktivéierungscode.",
-    "t": 391.65
+    "t": 405.03
    },
    {
     "speaker": "Tom",
     "text": "Den Aktivéierungscode — wou kënnt deen hier?",
-    "t": 406.95
+    "t": 420.33
    },
    {
     "speaker": "Anna",
     "text": "Dir hutt en eigentlech selwer gewielt, wéi Dir bestallt hutt. Si roden Iech normalerweis, déi lescht fënnef Zeechen vun Ärer Identitéitskaart- oder Passnummer ze benotzen. An Dir fannt en och an der Bestellbestätegung, déi Iech per E-Mail geschéckt gëtt.",
-    "t": 409.53
+    "t": 422.91
    },
    {
     "speaker": "Tom",
     "text": "Okay. A wéi geet d'Aktivéierung selwer?",
-    "t": 421.78
+    "t": 435.16
    },
    {
     "speaker": "Anna",
-    "text": "Et hänkt vum Produkt of. Fir d'Mobile App aktivéiert Dir et direkt op Ärem Smartphone, andeem Dir dem Guide follegt. Fir de Scan dauert et ongeféier sechs Minutten — Dir follegt de Schrëtt, scannt e puer QR-Codes, a setzt en neit, staarkt Passwuert. Fir d'SmartCard ass et e bësse méi laang, ronn zwanzeg Minutten, well Dir als éischt d'Software, déi Middleware genannt gëtt, op Ärem Computer installéiert.",
-    "t": 424.26
+    "text": "Et hänkt vum Produkt of. Fir d'Mobile App aktivéiert Dir et direkt op Ärem Smartphone, andeem Dir dem Guide follegt — dat dauert ongeféier fënnef Minutten. Fir de Scan dauert et ongeféier sechs Minutten — Dir follegt de Schrëtt, scannt e puer QR-Codes, a setzt en neit, staarkt Passwuert. Fir d'SmartCard ass et e bësse méi laang, ronn zwanzeg Minutten, well Dir als éischt d'Software, déi Middleware genannt gëtt, op Ärem Computer installéiert.",
+    "t": 437.64
    },
    {
     "speaker": "Tom",
     "text": "A wann ech fäerdeg sinn ze aktivéieren — kann ech et direkt benotzen?",
-    "t": 446.41
+    "t": 461.75
    },
    {
     "speaker": "Anna",
     "text": "Bal. Eng kleng Saach, fir ze behalen — wann Dir d'SmartCard hutt, gëtt de Certificat eréischt ongeféier véier Stonnen no der Aktivéierung benotzbar. Also aktivéiert et net fënnef Minutten ier Dir et braucht. Maacht et e bësse am Viraus.",
-    "t": 449.34
+    "t": 464.68
    },
    {
     "speaker": "Tom",
     "text": "Ganz praktneschen Tipp. Aktivéiert et den Owend virdrun, net an der leschter Minutt.",
-    "t": 463.33
+    "t": 478.67
    },
    {
     "speaker": "Anna",
     "text": "Genau.",
-    "t": 467.81
+    "t": 483.15
    },
    {
     "speaker": "Tom",
     "text": "Elo, Anna — dat ass digital Identitéit, et ass sensibel. Schwätze mer iwwer Sécherheet. Iwwer Bedruch.",
-    "t": 468.92
+    "t": 484.26
    },
    {
     "speaker": "Anna",
     "text": "Jo, dat ass wierklech wichteg. Et gëtt Phishing-Versich — falsch Messagen, falsch Telefonsuriff, déi virgi LuxTrust ze sinn. Also behalt e puer Reegelen. LuxTrust wäert Iech ni no Äre Codes oder Äre Login-Donnéeë froen. Ni.",
-    "t": 474.66
+    "t": 490
    },
    {
     "speaker": "Tom",
     "text": "Ni d'Codes ginn. Och wann et offiziell ausgesäit?",
-    "t": 488.84
+    "t": 504.18
    },
    {
     "speaker": "Anna",
     "text": "Och dann. A méi — LuxTrust wäert Iech ni uruffen, fir no sensibelen Informatiounen ze froen. Si wäerten Iech ni froen, e Paiement oder eng Bankoperatioun ze confirméieren. A si wäerten ni bei Iech doheem kommen.",
-    "t": 491.76
+    "t": 507.1
    },
    {
     "speaker": "Tom",
     "text": "Also wann iergendeen iergendeppes dovunner mécht, ass et e Bedruch.",
-    "t": 503.42
+    "t": 518.76
    },
    {
     "speaker": "Anna",
     "text": "Et ass e Bedruch. Är digital Identitéit ass Är, an nëmmen Är. Genau wéi Dir Är Bankkaart an Äre PIN net engem Kolleeg gitt, deelt Dir ni Är LuxTrust-Login-Donnéeën. Wann Dir am Zweiwel sidd, kontaktéiert LuxTrust direkt, mat der Nummer op hirer offizieller Websäit.",
-    "t": 506.01
+    "t": 521.35
    },
    {
     "speaker": "Tom",
     "text": "Dat ass erëm déi gëlle Reegel — am Zweiwel net deelen, an direkt iwwerpréiwen. Okay, Anna, maache mer et richteg praktesch fir een, deen nolauschtert. Wat soll ech maachen?",
-    "t": 522.39
+    "t": 537.73
    },
    {
     "speaker": "Anna",
     "text": "Wann Dir zu Lëtzebuerg wunnt oder schafft an et nach net hutt — kritt eng LuxTrust-Identitéit. Den einfachste Wee: frot Är Bank, oder gitt op luxtrust.com, wielt d'App, bestellt se, loosst Iech identifizéieren, an aktivéiert se. Dann kënnt Dir se fir Är Bank benotzen, fir MyGuichet, fir Dokumenter z'ënnerschreiwen, a fir Är Online-Bezuelungen.",
-    "t": 530.99
+    "t": 546.33
    },
    {
     "speaker": "Tom",
     "text": "Eng Identitéit, fir Äert ganzt digitaalt Liewen hei. E kuerze Resumé fir ofzeschléissen?",
-    "t": 551.27
+    "t": 566.61
    },
    {
     "speaker": "Anna",
-    "text": "Klar. LuxTrust ass Är sécher digital Identitéit zu Lëtzebuerg — wéi eng Identitéitskaart fir den Internet, vun engem europäesch zertifizéierte Provider. Dir benotzt se fir Online-Banking, fir ëffentlech Servicer wéi MyGuichet, fir juristesch gülteg elektronesch Ënnerschrëften, a fir Online-Bezuelungen. Dir kritt se iwwer Är Bank oder op luxtrust.com, Dir beweist Är Identitéit perséinlech oder per Video, an Dir aktivéiert se — am einfachste mat der Mobile App.",
-    "t": 555.34
+    "text": "Klar. LuxTrust ass Är sécher digital Identitéit zu Lëtzebuerg — wéi eng Identitéitskaart fir den Internet, vun engem op europäeschem Niveau unerkannte Provider. Dir benotzt se fir Online-Banking, fir ëffentlech Servicer wéi MyGuichet, fir juristesch gülteg elektronesch Ënnerschrëften, a fir Online-Bezuelungen. Dir kritt se iwwer Är Bank oder op luxtrust.com, Dir beweist Är Identitéit perséinlech oder per Video, an Dir aktivéiert se — am einfachste mat der Mobile App.",
+    "t": 570.68
    },
    {
     "speaker": "Tom",
     "text": "An de Sécherheetsmessage?",
-    "t": 583.88
+    "t": 599.01
    },
    {
     "speaker": "Anna",
-    "text": "LuxTrust freet ni no Äre Codes, rifft ni un fir sensibel Donnéeën, freet ni fir Zougang zu Ären Apparater. Behalt Är Login-Donnéeë fir Iech. Am Zweiwel, iwwerpréift déi offiziell Websäit.",
-    "t": 585.34
+    "text": "LuxTrust freet ni no Äre Codes, rifft ni un fir sensibel Donnéeën, a kënnt ni bei Iech heem. Behalt Är Login-Donnéeë fir Iech. Am Zweiwel, iwwerpréift déi offiziell Websäit.",
+    "t": 600.47
    },
    {
     "speaker": "Tom",
     "text": "Schéin. Also... Är digital Identitéit ass de Schlëssel zum alldeeglechen Liewen online zu Lëtzebuerg. Riicht et eemol an, a sou vill gëtt méi einfach.",
-    "t": 596.9
+    "t": 612.51
    },
    {
     "speaker": "Anna",
     "text": "Wierklech. E klengen Effort, fir et anzeriichten... an dann alles, vun Ärem Canapé. Dat war eis Episod iwwer LuxTrust. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 605.61
+    "t": 621.22
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 652.79
+    "t": 668.4
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 655.99
+    "t": 671.6
    }
   ],
   "audio_fr": "podcast_luxtrust_fr.mp3",
-  "duration_fr": 623.28,
+  "duration_fr": 633.78,
   "title_fr": "LuxTrust – Votre identité numérique au Luxembourg",
   "description_fr": "Votre identité numérique sécurisée pour la vie quotidienne en ligne au Luxembourg. Ce qu'est LuxTrust et pourquoi c'est important, et à quoi cela sert pour les particuliers — se connecter à la banque en ligne, à MyGuichet et aux services publics, signer des documents avec une signature électronique juridiquement valable, et confirmer des paiements en ligne. Les différents produits comme l'application, Scan et la SmartCard, et comment la commander, se faire identifier par vidéo, l'activer et rester en sécurité. (Brièvement : les entreprises l'utilisent aussi.)",
   "topics_fr": [
@@ -5520,7 +5550,7 @@ const EPISODES = [
      "Un site fiscal de l'État où vous déposez votre déclaration d'impôt et consultez vos décomptes en ligne"
     ],
     "correct": 1,
-    "explanation": "LuxTrust vous donne une identité numérique unique et sécurisée – l'équivalent en ligne de votre carte d'identité ou de votre passeport – fournie par une autorité de certification et un prestataire de services de confiance certifiés au niveau européen."
+    "explanation": "LuxTrust vous donne une identité numérique unique et sécurisée – l'équivalent en ligne de votre carte d'identité ou de votre passeport – fournie par une autorité de certification et un prestataire de services de confiance officiellement reconnu comme « qualifié » dans l'Union européenne."
    },
    {
     "text": "En tant que particulier au Luxembourg, que pouvez-vous faire avec LuxTrust ?",
@@ -5550,10 +5580,10 @@ const EPISODES = [
      "Elle n'est jamais vérifiée – vous choisissez simplement un identifiant et un mot de passe sur le site de LuxTrust",
      "Uniquement en envoyant une photo de vous par e-mail, sans montrer de pièce d'identité",
      "Uniquement en répondant en ligne à quelques questions de sécurité sur votre adresse et votre date de naissance",
-     "Vous devez être identifié – en personne avec un agent, ou à distance par identification vidéo"
+     "Vous devez être identifié – en personne, ou à distance par identification vidéo"
     ],
     "correct": 3,
-    "explanation": "Comme LuxTrust crée la preuve de votre identité, vous devez être identifié – en face à face avec un agent ou à distance par identification vidéo. Vous commandez en ligne ou par l'intermédiaire de votre banque, puis vous l'activez ; l'identité est valable 3 ans."
+    "explanation": "Comme LuxTrust crée la preuve de votre identité, vous devez être identifié – en personne (chez LuxTrust, chez un partenaire comme votre banque, ou chez un notaire) ou à distance par identification vidéo. Vous commandez en ligne ou par l'intermédiaire de votre banque, puis vous l'activez ; l'identité est valable 3 ans."
    },
    {
     "text": "Quelle affirmation au sujet de LuxTrust et de la sécurité est correcte ?",
@@ -5568,7 +5598,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_luxtrust_de.mp3",
-  "duration_de": 740.78,
+  "duration_de": 755.02,
   "title_de": "LuxTrust – Ihre digitale Identität in Luxemburg",
   "description_de": "Ihre sichere digitale Identität für den Online-Alltag in Luxemburg. Was LuxTrust ist und warum es wichtig ist, und wofür Privatpersonen es nutzen — Anmeldung beim Online-Banking, bei MyGuichet und bei öffentlichen Diensten, das Unterschreiben von Dokumenten mit einer rechtsgültigen elektronischen Signatur und das Bestätigen von Online-Zahlungen. Die verschiedenen Produkte wie die App, Scan und SmartCard, und wie Sie es bestellen, sich per Video identifizieren lassen, aktivieren und sicher bleiben. (Kurz: auch Unternehmen nutzen es.)",
   "topics_de": [
@@ -5591,7 +5621,7 @@ const EPISODES = [
      "Eine staatliche Steuer-Website, auf der Sie Ihre Steuererklärung abgeben und Ihre Steuerbescheide ansehen"
     ],
     "correct": 1,
-    "explanation": "LuxTrust gibt Ihnen eine einzige, sichere digitale Identität – das Online-Äquivalent zu Ihrem Personalausweis oder Reisepass – bereitgestellt von einer europäisch zertifizierten Zertifizierungsstelle und einem Vertrauensdiensteanbieter."
+    "explanation": "LuxTrust gibt Ihnen eine einzige, sichere digitale Identität – das Online-Äquivalent zu Ihrem Personalausweis oder Reisepass – bereitgestellt von einer Zertifizierungsstelle und einem Vertrauensdiensteanbieter, der in der Europäischen Union offiziell als „qualifiziert\" anerkannt ist."
    },
    {
     "text": "Was können Sie als Privatperson in Luxemburg mit LuxTrust tun?",
@@ -5621,10 +5651,10 @@ const EPISODES = [
      "Sie wird nie überprüft – Sie wählen einfach selbst einen Benutzernamen und ein Passwort auf der LuxTrust-Website",
      "Nur indem Sie ein Foto von sich per E-Mail schicken, ohne ein Ausweisdokument vorzuzeigen",
      "Nur indem Sie online ein paar Sicherheitsfragen zu Ihrer Adresse und Ihrem Geburtsdatum beantworten",
-     "Sie müssen identifiziert werden – persönlich bei einem Agenten oder aus der Ferne per Video-Identifikation"
+     "Sie müssen identifiziert werden – persönlich oder aus der Ferne per Video-Identifikation"
     ],
     "correct": 3,
-    "explanation": "Da LuxTrust einen Nachweis Ihrer Identität erstellt, müssen Sie identifiziert werden – persönlich bei einem Agenten oder aus der Ferne per Video-Identifikation. Sie bestellen online oder über Ihre Bank und aktivieren es anschließend; die Identität ist 3 Jahre gültig."
+    "explanation": "Da LuxTrust einen Nachweis Ihrer Identität erstellt, müssen Sie identifiziert werden – persönlich (bei LuxTrust, bei einem Partner wie Ihrer Bank oder bei einem Notar) oder aus der Ferne per Video-Identifikation. Sie bestellen online oder über Ihre Bank und aktivieren es anschließend; die Identität ist 3 Jahre gültig."
    },
    {
     "text": "Welche Aussage über LuxTrust und Sicherheit ist richtig?",

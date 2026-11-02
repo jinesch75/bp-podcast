@@ -52,7 +52,7 @@
 
 **ANNA:** Ah, und hier kommt LuxTrust ins Spiel?
 
-**TOM:** Genau. LuxTrust ist ein Unternehmen, das eine sichere digitale Identität bereitstellt. Das beliebteste Produkt ist LuxTrust Mobile — eine App auf Ihrem Telefon. Wenn Sie sich irgendwo anmelden, bittet die App Sie um eine Bestätigung. Viele Menschen nutzen sie bereits für ihr Online-Banking.
+**TOM:** Genau. LuxTrust ist ein Unternehmen, das eine sichere digitale Identität bereitstellt. Das einfachste Produkt ist LuxTrust Mobile — eine App auf Ihrem Telefon. Wenn Sie sich irgendwo anmelden, bittet die App Sie um eine Bestätigung. Viele Menschen nutzen sie bereits für ihr Online-Banking.
 
 **ANNA:** Okay, also die Frage, die viele Hörer haben werden... brauche ich LuxTrust, um MyGuichet zu nutzen?
 
