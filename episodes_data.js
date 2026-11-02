@@ -10410,7 +10410,7 @@ const EPISODES = [
   "title": "Digital Inclusion – A Computer, and the Skills to Use It",
   "description": "Digital Inclusion a.s.b.l. is a Luxembourg non-profit (founded 2016) that closes the digital divide in three ways: it gives free refurbished computers to people on low incomes and to refugees (over 10,000 distributed so far), it teaches digital skills with free classes in many languages and a walk-in Open Classroom every Friday, and it protects the environment by giving donated devices a second life. Everything is at digital-inclusion.lu; the office in Bonnevoie is open every weekday.",
   "audio": "podcast_digitalinclusion.mp3",
-  "duration": 712.49,
+  "duration": 734.43,
   "topics": [
    "Closing the digital divide",
    "Free refurbished computers",
@@ -10674,798 +10674,813 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "In a single recent year, volunteers refurbished over two thousand machines.",
-    "t": 160.51
-   },
-   {
-    "speaker": "Tom",
     "text": "This year, twenty twenty-six, the organisation is even celebrating its tenth anniversary.",
-    "t": 165.55
+    "t": 160.55
    },
    {
     "speaker": "Anna",
     "text": "Ten years of this work.",
-    "t": 171.13
+    "t": 165.8
    },
    {
     "speaker": "Anna",
     "text": "Now, the practical question everyone's thinking — who can actually get one of these computers?",
-    "t": 172.78
+    "t": 167.45
    },
    {
     "speaker": "Tom",
     "text": "Good — let's be clear and concrete.",
-    "t": 178.2
+    "t": 172.87
    },
    {
     "speaker": "Tom",
     "text": "To apply, first, you need to live in Luxembourg.",
-    "t": 180.44
+    "t": 175.11
    },
    {
     "speaker": "Tom",
     "text": "And then, you need to meet one of a few conditions.",
-    "t": 183.3
+    "t": 177.97
    },
    {
     "speaker": "Anna",
     "text": "What are they?",
-    "t": 185.97
+    "t": 180.64
    },
    {
     "speaker": "Tom",
     "text": "The main ones are these.",
-    "t": 187.04
+    "t": 181.71
    },
    {
     "speaker": "Tom",
     "text": "Your household receives the cost-of-living allowance — the allocation de vie chère.",
-    "t": 188.39
+    "t": 183.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Or you're in a collective debt settlement procedure.",
+    "t": 188.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Or you have a residence permit in the 'private life' category.",
+    "t": 190.99
    },
    {
     "speaker": "Tom",
     "text": "Or you're a refugee — an asylum seeker, a person under temporary protection, or an unaccompanied minor.",
-    "t": 192.7
+    "t": 194.57
    },
    {
     "speaker": "Tom",
-    "text": "There are a few other cases too, so check the website to see if you qualify.",
-    "t": 198.69
+    "text": "Check the website to see if you qualify.",
+    "t": 200.5
    },
    {
     "speaker": "Anna",
     "text": "So it's really aimed at people on a low income, and at refugees and newcomers.",
-    "t": 202.58
+    "t": 202.71
    },
    {
     "speaker": "Tom",
     "text": "Exactly — the people for whom buying a computer would be a real struggle.",
-    "t": 207.37
+    "t": 207.5
    },
    {
     "speaker": "Tom",
-    "text": "Usually, it's one laptop per household.",
-    "t": 211.23
-   },
-   {
-    "speaker": "Tom",
-    "text": "But other members of the family can often ask for an extra computer too.",
-    "t": 213.68
+    "text": "And since September 2025, every member of the household aged twelve or older can get their own computer — as long as there are enough donations.",
+    "t": 211.74
    },
    {
     "speaker": "Anna",
-    "text": "So the teenager doing homework, and the parent looking for work, may each get a machine?",
-    "t": 217.65
+    "text": "So the teenager doing homework, and the parent looking for work, can each get a machine?",
+    "t": 221.38
    },
    {
     "speaker": "Tom",
-    "text": "Often, yes. The rules change from time to time, so the website explains the latest ones — and how long you might have to wait.",
-    "t": 222.53
+    "text": "Yes. Each adult applies for themselves, and a parent applies for the teenagers.",
+    "t": 227
+   },
+   {
+    "speaker": "Tom",
+    "text": "And the website always shows the current waiting time.",
+    "t": 231.58
    },
    {
     "speaker": "Anna",
     "text": "Good to know.",
-    "t": 229.28
+    "t": 234.67
    },
    {
     "speaker": "Anna",
     "text": "And what kind of computer do you actually get?",
-    "t": 230.38
+    "t": 235.77
    },
    {
     "speaker": "Anna",
     "text": "Some old, broken thing?",
-    "t": 232.74
+    "t": 238.13
    },
    {
     "speaker": "Tom",
     "text": "No, that's the lovely part.",
-    "t": 234.36
+    "t": 239.75
    },
    {
     "speaker": "Tom",
     "text": "They come ready to use, with the operating system already installed — usually Windows, or a Mac.",
-    "t": 236.03
+    "t": 241.42
    },
    {
     "speaker": "Tom",
     "text": "A decent processor.",
-    "t": 241.05
+    "t": 246.44
    },
    {
     "speaker": "Tom",
     "text": "And they even come with a free repair warranty — apart from the battery, which on an old laptop might be weak or missing.",
-    "t": 242.4
+    "t": 247.79
    },
    {
     "speaker": "Anna",
     "text": "A free computer, that works, with a warranty.",
-    "t": 248.65
+    "t": 254.04
    },
    {
     "speaker": "Anna",
     "text": "That's genuinely generous.",
-    "t": 251.82
+    "t": 257.21
    },
    {
     "speaker": "Anna",
     "text": "Okay — that's the computer.",
-    "t": 253.79
+    "t": 259.18
    },
    {
     "speaker": "Anna",
     "text": "Now the second part.",
-    "t": 255.82
+    "t": 261.21
    },
    {
     "speaker": "Anna",
     "text": "The skills.",
-    "t": 257.09
+    "t": 262.48
    },
    {
     "speaker": "Tom",
     "text": "Yes — because a computer is no use if you don't know how to use it.",
-    "t": 258.31
+    "t": 263.7
    },
    {
     "speaker": "Tom",
     "text": "So Digital Inclusion also runs classes.",
-    "t": 262.11
+    "t": 267.5
    },
    {
     "speaker": "Tom",
     "text": "Free IT classes, to teach people the basics and beyond.",
-    "t": 264.99
+    "t": 270.38
    },
    {
     "speaker": "Anna",
     "text": "And in which languages?",
-    "t": 268.96
+    "t": 274.35
    },
    {
     "speaker": "Anna",
     "text": "Because Luxembourg is so multilingual.",
-    "t": 270.46
+    "t": 275.85
    },
    {
     "speaker": "Tom",
     "text": "In many languages.",
-    "t": 272.96
+    "t": 278.35
    },
    {
     "speaker": "Tom",
     "text": "That's deliberate — they teach in several languages so that newcomers can learn in a language they understand.",
-    "t": 274.16
+    "t": 279.55
    },
    {
     "speaker": "Tom",
     "text": "They even have a Language Lab, including one that uses AI, to help people practise.",
-    "t": 280.01
+    "t": 285.4
    },
    {
     "speaker": "Anna",
     "text": "So you can learn computer skills and language skills at the same time.",
-    "t": 285.23
+    "t": 290.62
    },
    {
     "speaker": "Tom",
     "text": "Both at once.",
-    "t": 289.05
+    "t": 294.44
    },
    {
     "speaker": "Tom",
     "text": "And there's something else I really like — the Open Classroom.",
-    "t": 290.42
+    "t": 295.81
    },
    {
     "speaker": "Tom",
     "text": "Every Friday morning, you can just walk in, no appointment needed, and get help with a digital problem.",
-    "t": 293.8
+    "t": 299.19
    },
    {
     "speaker": "Anna",
     "text": "Just walk in?",
-    "t": 299.39
+    "t": 304.78
    },
    {
     "speaker": "Anna",
     "text": "So if I'm stuck — I can't log in somewhere, I don't understand an email, a form won't work...",
-    "t": 300.52
+    "t": 305.91
    },
    {
     "speaker": "Tom",
     "text": "...you bring it in on a Friday morning, and someone sits with you and helps.",
-    "t": 305.87
+    "t": 311.26
    },
    {
     "speaker": "Tom",
     "text": "No appointment, no charge.",
-    "t": 309.2
+    "t": 314.59
    },
    {
     "speaker": "Tom",
     "text": "It's open from half past nine to half past one.",
-    "t": 310.85
+    "t": 316.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "They'll even help you with LuxTrust and MyGuichet — and you can scan and print a few pages for free.",
+    "t": 319.25
    },
    {
     "speaker": "Anna",
     "text": "That's wonderful. So many people just need a patient person to sit beside them for ten minutes.",
-    "t": 313.44
+    "t": 324.79
    },
    {
     "speaker": "Tom",
     "text": "Exactly. And it's not only individuals.",
-    "t": 318.77
+    "t": 330.12
    },
    {
     "speaker": "Tom",
     "text": "They also support social organisations, and they offer device repairs — those by appointment, by email.",
-    "t": 321.02
+    "t": 332.37
    },
    {
     "speaker": "Anna",
     "text": "Okay. The computer, the skills... now the third part.",
-    "t": 327.06
+    "t": 338.41
    },
    {
     "speaker": "Anna",
     "text": "You said good for the planet.",
-    "t": 330.66
+    "t": 342.01
    },
    {
     "speaker": "Anna",
     "text": "Tell me about that.",
-    "t": 332.13
+    "t": 343.48
    },
    {
     "speaker": "Tom",
     "text": "This is the part that makes the whole thing so clever.",
-    "t": 333.46
+    "t": 344.81
    },
    {
     "speaker": "Tom",
     "text": "Think about it — every computer they give away is a computer that was about to be thrown out.",
-    "t": 336.07
+    "t": 347.42
    },
    {
     "speaker": "Tom",
     "text": "Electronic waste is a huge environmental problem.",
-    "t": 341.12
+    "t": 352.47
    },
    {
     "speaker": "Anna",
     "text": "All those old laptops in drawers, or in the bin.",
-    "t": 344.19
+    "t": 355.54
    },
    {
     "speaker": "Tom",
     "text": "Right. By collecting them, repairing them, and giving them a second life — and even a third life — Digital Inclusion keeps them out of the rubbish.",
-    "t": 347.12
+    "t": 358.47
    },
    {
     "speaker": "Tom",
     "text": "So one single act helps a person AND helps the environment.",
-    "t": 356.78
+    "t": 368.13
    },
    {
     "speaker": "Anna",
     "text": "It's a circle.",
-    "t": 360.56
+    "t": 371.91
    },
    {
     "speaker": "Anna",
     "text": "The waste of one becomes the tool of another.",
-    "t": 361.75
+    "t": 373.1
    },
    {
     "speaker": "Tom",
     "text": "A beautiful circle.",
-    "t": 364.4
+    "t": 375.75
    },
    {
     "speaker": "Tom",
     "text": "Social good and environmental good, in the same gesture.",
-    "t": 365.96
+    "t": 377.31
    },
    {
     "speaker": "Tom",
     "text": "And here's a detail I find very moving — many of the volunteers who repair the computers are refugees themselves.",
-    "t": 369.11
+    "t": 380.46
    },
    {
     "speaker": "Anna",
     "text": "Oh — tell me more about that.",
-    "t": 375.09
+    "t": 386.44
    },
    {
     "speaker": "Tom",
     "text": "So while they repair the machines, these volunteers get training, they build IT skills, and they meet people from the local technology world.",
-    "t": 376.73
+    "t": 388.08
    },
    {
     "speaker": "Tom",
     "text": "They're learning, they're contributing, and they're connecting — all at once.",
-    "t": 385.21
+    "t": 396.56
    },
    {
     "speaker": "Anna",
     "text": "So the workshop isn't only fixing computers.",
-    "t": 389.47
+    "t": 400.82
    },
    {
     "speaker": "Anna",
     "text": "It's helping people find their feet in a new country.",
-    "t": 392.16
+    "t": 403.51
    },
    {
     "speaker": "Tom",
     "text": "Exactly. It's repairing machines and building lives at the same time.",
-    "t": 395.49
+    "t": 406.84
    },
    {
     "speaker": "Tom",
     "text": "That's why this is a story about inclusion, not just technology.",
-    "t": 400.03
+    "t": 411.38
    },
    {
     "speaker": "Anna",
     "text": "That really is special.",
-    "t": 403.8
+    "t": 415.15
    },
    {
     "speaker": "Anna",
     "text": "Tom, let's make it concrete.",
-    "t": 405.36
+    "t": 416.71
    },
    {
     "speaker": "Anna",
     "text": "Can we follow one person?",
-    "t": 407.06
+    "t": 418.41
    },
    {
     "speaker": "Tom",
     "text": "Of course. Let's imagine a woman — let's call her Amina.",
-    "t": 408.8
+    "t": 420.15
    },
    {
     "speaker": "Tom",
     "text": "She's recently arrived in Luxembourg as a refugee.",
-    "t": 412.53
+    "t": 423.88
    },
    {
     "speaker": "Tom",
     "text": "She has two teenage children.",
-    "t": 415.31
+    "t": 426.66
    },
    {
     "speaker": "Tom",
     "text": "She has almost nothing, and no computer.",
-    "t": 417.23
+    "t": 428.58
    },
    {
     "speaker": "Anna",
     "text": "A very real situation.",
-    "t": 419.71
+    "t": 431.06
    },
    {
     "speaker": "Anna",
     "text": "How does Digital Inclusion change her story?",
-    "t": 421.62
+    "t": 432.97
    },
    {
     "speaker": "Tom",
     "text": "Step by step.",
-    "t": 424.51
+    "t": 435.86
    },
    {
     "speaker": "Tom",
     "text": "First, because she's a refugee living in Luxembourg, she's eligible.",
-    "t": 425.68
+    "t": 437.03
    },
    {
     "speaker": "Tom",
     "text": "She applies — and some time later, she receives a working laptop.",
-    "t": 429.36
+    "t": 440.71
    },
    {
     "speaker": "Tom",
-    "text": "And she can ask whether her two teenagers can get a computer for their schoolwork too.",
-    "t": 433.31
+    "text": "And she can apply for her two teenagers too, one after the other, so each of them gets a computer for school.",
+    "t": 445.25
    },
    {
     "speaker": "Anna",
     "text": "So suddenly the whole family is online.",
-    "t": 437.2
+    "t": 451.84
    },
    {
     "speaker": "Tom",
     "text": "The whole family.",
-    "t": 439.88
+    "t": 454.52
    },
    {
     "speaker": "Tom",
     "text": "Then, Amina doesn't feel confident using it.",
-    "t": 440.95
+    "t": 455.59
    },
    {
     "speaker": "Tom",
     "text": "So she goes to a free class, in a language she understands, and learns the basics.",
-    "t": 443.35
+    "t": 457.99
    },
    {
     "speaker": "Tom",
     "text": "When she gets stuck one week, she drops into the Open Classroom on Friday, and someone helps her set up her email and an official account.",
-    "t": 448.04
+    "t": 462.68
    },
    {
     "speaker": "Anna",
     "text": "And now she can do the things the rest of us take for granted.",
-    "t": 455.22
+    "t": 469.86
    },
    {
     "speaker": "Tom",
     "text": "Now she can apply for jobs, fill in her forms, message her children's school, do her banking — on her own.",
-    "t": 458.56
+    "t": 473.2
    },
    {
     "speaker": "Tom",
     "text": "That's not just a computer.",
-    "t": 464.63
+    "t": 479.27
    },
    {
     "speaker": "Tom",
     "text": "That's dignity, and independence.",
-    "t": 466.11
+    "t": 480.75
    },
    {
     "speaker": "Anna",
     "text": "And maybe, one day, she volunteers in the workshop herself.",
-    "t": 468.37
+    "t": 483.01
    },
    {
     "speaker": "Tom",
     "text": "Maybe she does.",
-    "t": 472.1
+    "t": 486.74
    },
    {
     "speaker": "Tom",
     "text": "And then the circle is complete — the person who was helped becomes the person who helps.",
-    "t": 473.17
+    "t": 487.81
    },
    {
     "speaker": "Tom",
     "text": "That happens there, all the time.",
-    "t": 478.51
+    "t": 493.15
    },
    {
     "speaker": "Anna",
     "text": "I love that.",
-    "t": 480.61
+    "t": 495.25
    },
    {
     "speaker": "Anna",
     "text": "Now, Tom, let's turn it around.",
-    "t": 481.76
+    "t": 496.4
    },
    {
     "speaker": "Anna",
     "text": "Many of our listeners already have what they need.",
-    "t": 483.72
+    "t": 498.36
    },
    {
     "speaker": "Anna",
     "text": "How can they help?",
-    "t": 486.31
+    "t": 500.95
    },
    {
     "speaker": "Tom",
     "text": "So many ways, and this is important.",
-    "t": 487.74
+    "t": 502.38
    },
    {
     "speaker": "Tom",
     "text": "The simplest — if you have an old laptop, smartphone or tablet sitting in a drawer, doing nothing — donate it.",
-    "t": 489.94
+    "t": 504.58
    },
    {
     "speaker": "Tom",
     "text": "Don't let it rot.",
-    "t": 496.16
+    "t": 510.8
    },
    {
     "speaker": "Tom",
     "text": "Give it a second life.",
-    "t": 497.17
+    "t": 511.81
    },
    {
     "speaker": "Anna",
     "text": "So that old laptop in the cupboard could become someone's lifeline.",
-    "t": 498.57
+    "t": 513.21
    },
    {
     "speaker": "Tom",
-    "text": "Literally. Just wipe your worries — they handle the data cleaning securely.",
-    "t": 502.33
+    "text": "Literally. Don't worry about your data — for a laptop, they erase it securely, or they can even give you back your hard disk.",
+    "t": 516.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "For a smartphone or tablet, just do a factory reset before you bring it.",
+    "t": 524.8
    },
    {
     "speaker": "Tom",
     "text": "You can also give money, to help cover the costs.",
-    "t": 507.21
+    "t": 529.33
    },
    {
     "speaker": "Tom",
     "text": "And you can volunteer — in the repair workshop, or helping to teach.",
-    "t": 509.77
+    "t": 531.91
    },
    {
     "speaker": "Anna",
     "text": "And companies? They must have lots of old equipment when they upgrade.",
-    "t": 513.47
+    "t": 535.39
    },
    {
     "speaker": "Tom",
     "text": "Companies are a big one.",
-    "t": 517.59
+    "t": 539.51
    },
    {
     "speaker": "Tom",
     "text": "When a business renews its computers, instead of scrapping the old ones, they can give them to Digital Inclusion.",
-    "t": 518.87
+    "t": 540.79
    },
    {
     "speaker": "Tom",
     "text": "It's good for the community, and good for the planet — and a lovely thing for a company to be part of.",
-    "t": 524.1
+    "t": 546.02
    },
    {
     "speaker": "Anna",
     "text": "Where do people find all this?",
-    "t": 529.37
+    "t": 551.29
    },
    {
     "speaker": "Anna",
     "text": "The address, the forms, the classes?",
-    "t": 531.15
+    "t": 553.07
    },
    {
     "speaker": "Tom",
     "text": "Everything is on their website — digital dash inclusion dot l-u.",
-    "t": 533.79
+    "t": 555.71
    },
    {
     "speaker": "Tom",
     "text": "That's digital, then a dash, then inclusion, dot l-u.",
-    "t": 537.45
+    "t": 559.37
    },
    {
     "speaker": "Tom",
     "text": "You'll find how to apply, how to donate, the class schedule, and the contact details.",
-    "t": 541.49
+    "t": 563.41
    },
    {
     "speaker": "Anna",
     "text": "And they have a real place you can visit?",
-    "t": 546.07
+    "t": 567.99
    },
    {
     "speaker": "Tom",
     "text": "They do. Since twenty twenty-four, they're in Bonnevoie, in Luxembourg City, near the main train station — the Gare.",
-    "t": 548.28
+    "t": 570.2
    },
    {
     "speaker": "Tom",
     "text": "They're open every weekday, from half past nine in the morning to half past five in the afternoon.",
-    "t": 555.21
+    "t": 577.13
    },
    {
     "speaker": "Anna",
     "text": "So it's a real, open door, not just a website.",
-    "t": 559.71
+    "t": 581.63
    },
    {
     "speaker": "Tom",
     "text": "A real, open door.",
-    "t": 562.74
+    "t": 584.66
    },
    {
     "speaker": "Tom",
     "text": "With real people who want to help.",
-    "t": 564.16
+    "t": 586.08
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it home, Tom.",
-    "t": 566.01
+    "t": 587.93
    },
    {
     "speaker": "Anna",
     "text": "If I'm listening, what should I take away?",
-    "t": 567.43
+    "t": 589.35
    },
    {
     "speaker": "Tom",
     "text": "Three things. First — if you, or someone you know, needs a computer and can't afford one, and you live in Luxembourg on a low income or as a refugee — help exists.",
-    "t": 570.01
+    "t": 591.93
    },
    {
     "speaker": "Tom",
     "text": "A free, working computer.",
-    "t": 580.28
+    "t": 602.2
    },
    {
     "speaker": "Anna",
     "text": "A free computer.",
-    "t": 582.24
+    "t": 604.16
    },
    {
     "speaker": "Tom",
     "text": "Second — if you have the computer but not the confidence, there are free classes, and a walk-in Open Classroom every Friday.",
-    "t": 583.71
+    "t": 605.63
    },
    {
     "speaker": "Tom",
     "text": "You're never too old, or too new, to learn.",
-    "t": 590.96
+    "t": 612.88
    },
    {
     "speaker": "Anna",
     "text": "And third?",
-    "t": 593.28
+    "t": 615.2
    },
    {
     "speaker": "Tom",
     "text": "Third — if you're one of the lucky ones who has everything you need, you can be part of this.",
-    "t": 594.45
+    "t": 616.37
    },
    {
     "speaker": "Tom",
     "text": "Donate that old device.",
-    "t": 599.27
+    "t": 621.19
    },
    {
     "speaker": "Tom",
     "text": "Give a little money.",
-    "t": 600.61
+    "t": 622.53
    },
    {
     "speaker": "Tom",
     "text": "Or give your time.",
-    "t": 601.66
+    "t": 623.58
    },
    {
     "speaker": "Tom",
     "text": "Turn your spare technology into someone else's opportunity.",
-    "t": 602.77
+    "t": 624.69
    },
    {
     "speaker": "Anna",
     "text": "A short summary to finish?",
-    "t": 606.27
+    "t": 628.19
    },
    {
     "speaker": "Tom",
     "text": "Sure. Digital Inclusion is a Luxembourg non-profit that closes the digital divide in three ways.",
-    "t": 608.07
+    "t": 629.99
    },
    {
     "speaker": "Tom",
     "text": "It gives free, refurbished computers to people on low incomes and to refugees — more than ten thousand so far.",
-    "t": 614.25
+    "t": 636.17
    },
    {
     "speaker": "Tom",
     "text": "It teaches digital skills, with free classes in many languages and a walk-in Open Classroom every Friday.",
-    "t": 621.06
+    "t": 642.98
    },
    {
     "speaker": "Tom",
     "text": "And it protects the environment, by giving old devices a second life.",
-    "t": 627.85
+    "t": 649.77
    },
    {
     "speaker": "Tom",
     "text": "Everything is at digital-inclusion.lu, and their door in Bonnevoie is open every weekday.",
-    "t": 631.96
+    "t": 653.88
    },
    {
     "speaker": "Anna",
     "text": "And the message for today?",
-    "t": 637.37
+    "t": 659.29
    },
    {
     "speaker": "Tom",
     "text": "That in a world that runs on screens, no one should be left behind for the lack of a computer or a little help to use it.",
-    "t": 639.07
+    "t": 660.99
    },
    {
     "speaker": "Tom",
     "text": "A donated laptop, a patient teacher, a welcoming workshop — small things that change lives.",
-    "t": 644.94
+    "t": 666.86
    },
    {
     "speaker": "Anna",
     "text": "So... whether you need help, or you'd like to give it — remember the name.",
-    "t": 650.98
+    "t": 672.9
    },
    {
     "speaker": "Anna",
     "text": "Digital Inclusion. digital-inclusion.lu.",
-    "t": 655.24
+    "t": 677.16
    },
    {
     "speaker": "Tom",
     "text": "A computer, and the skills to use it.",
-    "t": 659.03
+    "t": 680.95
    },
    {
     "speaker": "Tom",
     "text": "That's a door into the modern world — open to everyone.",
-    "t": 661.37
+    "t": 683.29
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about Digital Inclusion.",
-    "t": 664.27
+    "t": 686.19
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 666.78
+    "t": 688.7
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 676.29
+    "t": 698.21
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 694.06
+    "t": 715.98
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 700.81
+    "t": 722.73
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 703.01
+    "t": 724.93
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 707.7
+    "t": 729.62
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 708.78
+    "t": 730.7
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 710.9
+    "t": 732.82
    }
   ],
   "segments_fr": [
@@ -11726,788 +11741,803 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "En une seule année récente, les bénévoles ont reconditionné plus de deux mille machines.",
-    "t": 161.57
-   },
-   {
-    "speaker": "Tom",
     "text": "Cette année, deux mille vingt-six, l'organisation fête même son dixième anniversaire.",
-    "t": 166.23
+    "t": 161.7
    },
    {
     "speaker": "Anna",
     "text": "Dix ans de ce travail.",
-    "t": 170.92
+    "t": 166.55
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, la question pratique que tout le monde se pose — qui peut réellement obtenir un de ces ordinateurs ?",
-    "t": 172.39
+    "t": 168.02
    },
    {
     "speaker": "Tom",
     "text": "Bien — soyons clairs et concrets.",
-    "t": 177.52
+    "t": 173.15
    },
    {
     "speaker": "Tom",
     "text": "Pour faire une demande, d'abord, il faut habiter au Luxembourg.",
-    "t": 179.61
+    "t": 175.24
    },
    {
     "speaker": "Tom",
     "text": "Et ensuite, il faut remplir l'une de quelques conditions.",
-    "t": 182.86
+    "t": 178.49
    },
    {
     "speaker": "Anna",
     "text": "Lesquelles ?",
-    "t": 185.94
+    "t": 181.57
    },
    {
     "speaker": "Tom",
     "text": "Les principales sont les suivantes.",
-    "t": 186.96
+    "t": 182.59
    },
    {
     "speaker": "Tom",
     "text": "Votre ménage reçoit l'allocation de vie chère — l'AVC.",
-    "t": 188.95
+    "t": 184.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ou vous bénéficiez d'une procédure de règlement collectif des dettes.",
+    "t": 188.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ou vous avez un titre de séjour « vie privée ».",
+    "t": 191.4
    },
    {
     "speaker": "Tom",
     "text": "Ou vous êtes réfugié — demandeur d'asile, personne sous protection temporaire, ou mineur non accompagné.",
-    "t": 192.47
+    "t": 194.13
    },
    {
     "speaker": "Tom",
-    "text": "Il existe aussi quelques autres cas, alors vérifiez sur le site si vous y avez droit.",
-    "t": 198.3
+    "text": "Vérifiez sur le site si vous y avez droit.",
+    "t": 200.12
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est vraiment destiné aux personnes à faibles revenus, et aux réfugiés et nouveaux arrivants.",
-    "t": 202.76
+    "t": 202.6
    },
    {
     "speaker": "Tom",
     "text": "Exactement — les personnes pour qui acheter un ordinateur serait une vraie difficulté.",
-    "t": 207.2
+    "t": 207.04
    },
    {
     "speaker": "Tom",
-    "text": "En général, c'est un ordinateur portable par ménage.",
-    "t": 211.66
-   },
-   {
-    "speaker": "Tom",
-    "text": "Mais les autres membres de la famille peuvent souvent demander un ordinateur en plus.",
-    "t": 214.49
+    "text": "Et depuis septembre 2025, chaque membre du ménage âgé de douze ans ou plus peut recevoir son propre ordinateur — tant qu'il y a assez de dons.",
+    "t": 211.69
    },
    {
     "speaker": "Anna",
-    "text": "Donc l'adolescent qui fait ses devoirs, et le parent qui cherche du travail, peuvent peut-être avoir chacun une machine ?",
-    "t": 218.89
+    "text": "Donc l'adolescent qui fait ses devoirs, et le parent qui cherche du travail, peuvent avoir chacun une machine ?",
+    "t": 219.87
    },
    {
     "speaker": "Tom",
-    "text": "Souvent, oui. Les règles changent de temps en temps, donc le site explique les plus récentes — et combien de temps vous devrez peut-être attendre.",
-    "t": 224.05
+    "text": "Oui. Chaque adulte fait sa propre demande, et un parent fait la demande pour les adolescents.",
+    "t": 224.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le site indique toujours le délai d'attente actuel.",
+    "t": 229.63
    },
    {
     "speaker": "Anna",
     "text": "Bon à savoir.",
-    "t": 231.23
+    "t": 233.03
    },
    {
     "speaker": "Anna",
     "text": "Et quel genre d'ordinateur reçoit-on, en fait ?",
-    "t": 232.28
+    "t": 234.08
    },
    {
     "speaker": "Anna",
     "text": "Un vieux truc cassé ?",
-    "t": 234.46
+    "t": 236.26
    },
    {
     "speaker": "Tom",
     "text": "Non, c'est ça le plus beau.",
-    "t": 235.84
+    "t": 237.64
    },
    {
     "speaker": "Tom",
     "text": "Ils arrivent prêts à l'emploi, avec le système d'exploitation déjà installé — généralement Windows, ou un Mac.",
-    "t": 237.28
+    "t": 239.08
    },
    {
     "speaker": "Tom",
     "text": "Un processeur correct.",
-    "t": 243.43
+    "t": 245.23
    },
    {
     "speaker": "Tom",
     "text": "Et ils viennent même avec une garantie de réparation gratuite — sauf la batterie, qui sur un vieil ordinateur portable peut être faible ou manquante.",
-    "t": 244.86
+    "t": 246.66
    },
    {
     "speaker": "Anna",
     "text": "Un ordinateur gratuit, qui fonctionne, avec une garantie.",
-    "t": 252.7
+    "t": 254.5
    },
    {
     "speaker": "Anna",
     "text": "C'est vraiment généreux.",
-    "t": 256.19
+    "t": 257.99
    },
    {
     "speaker": "Anna",
     "text": "Bon — ça, c'est l'ordinateur.",
-    "t": 257.49
+    "t": 259.29
    },
    {
     "speaker": "Anna",
     "text": "Passons à la deuxième partie.",
-    "t": 258.84
+    "t": 260.64
    },
    {
     "speaker": "Anna",
     "text": "Les compétences.",
-    "t": 260.37
+    "t": 262.17
    },
    {
     "speaker": "Tom",
     "text": "Oui — parce qu'un ordinateur ne sert à rien si on ne sait pas s'en servir.",
-    "t": 261.67
+    "t": 263.47
    },
    {
     "speaker": "Tom",
     "text": "Alors Digital Inclusion organise aussi des cours.",
-    "t": 264.76
+    "t": 266.56
    },
    {
     "speaker": "Tom",
     "text": "Des cours d'informatique gratuits, pour apprendre aux gens les bases, et même au-delà.",
-    "t": 267.53
+    "t": 269.33
    },
    {
     "speaker": "Anna",
     "text": "Et dans quelles langues ?",
-    "t": 272.06
+    "t": 273.86
    },
    {
     "speaker": "Anna",
     "text": "Parce que le Luxembourg est tellement multilingue.",
-    "t": 273.14
+    "t": 274.94
    },
    {
     "speaker": "Tom",
     "text": "Dans de nombreuses langues.",
-    "t": 275.62
+    "t": 277.42
    },
    {
     "speaker": "Tom",
     "text": "C'est voulu — ils enseignent en plusieurs langues pour que les nouveaux arrivants puissent apprendre dans une langue qu'ils comprennent.",
-    "t": 277.05
+    "t": 278.85
    },
    {
     "speaker": "Tom",
     "text": "Ils ont même un Laboratoire de langues, dont un qui utilise l'IA, pour aider les gens à s'exercer.",
-    "t": 283.21
+    "t": 285.01
    },
    {
     "speaker": "Anna",
     "text": "Donc on peut apprendre l'informatique et les langues en même temps.",
-    "t": 288.6
+    "t": 290.4
    },
    {
     "speaker": "Tom",
     "text": "Les deux à la fois.",
-    "t": 291.5
+    "t": 293.3
    },
    {
     "speaker": "Tom",
     "text": "Et il y a autre chose que j'aime vraiment — l'Open Classroom (salle ouverte).",
-    "t": 292.71
+    "t": 294.51
    },
    {
     "speaker": "Tom",
     "text": "Chaque vendredi matin, on peut simplement venir, sans rendez-vous, et obtenir de l'aide pour un problème numérique.",
-    "t": 296.59
+    "t": 298.39
    },
    {
     "speaker": "Anna",
     "text": "On peut simplement venir ?",
-    "t": 302.43
+    "t": 304.23
    },
    {
     "speaker": "Anna",
     "text": "Donc si je suis bloquée — je n'arrive pas à me connecter quelque part, je ne comprends pas un e-mail, un formulaire ne marche pas...",
-    "t": 303.83
+    "t": 305.63
    },
    {
     "speaker": "Tom",
     "text": "...vous l'apportez un vendredi matin, et quelqu'un s'assoit avec vous et vous aide.",
-    "t": 309.24
+    "t": 311.04
    },
    {
     "speaker": "Tom",
     "text": "Sans rendez-vous, gratuitement.",
-    "t": 312.9
+    "t": 314.7
    },
    {
     "speaker": "Tom",
     "text": "C'est ouvert de neuf heures et demie à une heure et demie.",
-    "t": 314.64
+    "t": 316.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils vous aident même avec LuxTrust et MyGuichet — et vous pouvez scanner et imprimer quelques pages gratuitement.",
+    "t": 319.06
    },
    {
     "speaker": "Anna",
     "text": "C'est merveilleux. Tant de personnes ont juste besoin de quelqu'un de patient assis à côté d'elles pendant dix minutes.",
-    "t": 317.25
+    "t": 325.33
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et ce n'est pas seulement pour les particuliers.",
-    "t": 323.6
+    "t": 331.68
    },
    {
     "speaker": "Tom",
     "text": "Ils soutiennent aussi des organisations sociales, et ils proposent des réparations d'appareils — celles-là sur rendez-vous, par e-mail.",
-    "t": 326.57
+    "t": 334.65
    },
    {
     "speaker": "Anna",
     "text": "D'accord. L'ordinateur, les compétences... maintenant la troisième partie.",
-    "t": 333.97
+    "t": 342.05
    },
    {
     "speaker": "Anna",
     "text": "Tu as dit bon pour la planète.",
-    "t": 338.84
+    "t": 346.92
    },
    {
     "speaker": "Anna",
     "text": "Parle-moi de ça.",
-    "t": 340.28
+    "t": 348.36
    },
    {
     "speaker": "Tom",
     "text": "C'est la partie qui rend tout cela si malin.",
-    "t": 341.36
+    "t": 349.44
    },
    {
     "speaker": "Tom",
     "text": "Réfléchis — chaque ordinateur qu'ils offrent est un ordinateur qui allait être jeté.",
-    "t": 343.67
+    "t": 351.75
    },
    {
     "speaker": "Tom",
     "text": "Les déchets électroniques sont un énorme problème pour l'environnement.",
-    "t": 348.22
+    "t": 356.3
    },
    {
     "speaker": "Anna",
     "text": "Tous ces vieux ordinateurs portables dans des tiroirs, ou à la poubelle.",
-    "t": 352.04
+    "t": 360.12
    },
    {
     "speaker": "Tom",
     "text": "Voilà. En les collectant, en les réparant, et en leur donnant une deuxième vie — et même une troisième vie — Digital Inclusion les empêche de finir aux ordures.",
-    "t": 355.49
+    "t": 363.57
    },
    {
     "speaker": "Tom",
     "text": "Donc un seul geste aide une personne ET aide l'environnement.",
-    "t": 363.56
+    "t": 371.64
    },
    {
     "speaker": "Anna",
     "text": "C'est un cercle.",
-    "t": 367.06
+    "t": 375.14
    },
    {
     "speaker": "Anna",
     "text": "Le déchet de l'un devient l'outil de l'autre.",
-    "t": 368.29
+    "t": 376.37
    },
    {
     "speaker": "Tom",
     "text": "Un beau cercle.",
-    "t": 370.5
+    "t": 378.58
    },
    {
     "speaker": "Tom",
     "text": "Le bien social et le bien environnemental, dans le même geste.",
-    "t": 371.73
+    "t": 379.81
    },
    {
     "speaker": "Tom",
     "text": "Et voici un détail que je trouve très touchant — beaucoup des bénévoles qui réparent les ordinateurs sont eux-mêmes des réfugiés.",
-    "t": 375.01
+    "t": 383.09
    },
    {
     "speaker": "Anna",
     "text": "Oh — raconte-moi ça.",
-    "t": 381.53
+    "t": 389.61
    },
    {
     "speaker": "Tom",
     "text": "Alors, pendant qu'ils réparent les machines, ces bénévoles reçoivent une formation, ils développent des compétences en informatique, et ils rencontrent des personnes du monde local de la technologie.",
-    "t": 383.1
+    "t": 391.18
    },
    {
     "speaker": "Tom",
     "text": "Ils apprennent, ils contribuent, et ils créent des liens — tout cela en même temps.",
-    "t": 393.05
+    "t": 401.13
    },
    {
     "speaker": "Anna",
     "text": "Donc l'atelier ne répare pas seulement des ordinateurs.",
-    "t": 397.58
+    "t": 405.66
    },
    {
     "speaker": "Anna",
     "text": "Il aide des gens à prendre leurs marques dans un nouveau pays.",
-    "t": 400.13
+    "t": 408.21
    },
    {
     "speaker": "Tom",
     "text": "Exactement. C'est réparer des machines et reconstruire des vies en même temps.",
-    "t": 402.98
+    "t": 411.06
    },
    {
     "speaker": "Tom",
     "text": "C'est pour ça que c'est une histoire d'inclusion, pas seulement de technologie.",
-    "t": 407.15
+    "t": 415.23
    },
    {
     "speaker": "Anna",
     "text": "C'est vraiment particulier.",
-    "t": 410.97
+    "t": 419.05
    },
    {
     "speaker": "Anna",
     "text": "Tom, rendons ça concret.",
-    "t": 412.44
+    "t": 420.52
    },
    {
     "speaker": "Anna",
     "text": "Peut-on suivre une personne ?",
-    "t": 413.82
+    "t": 421.9
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Imaginons une femme — appelons-la Amina.",
-    "t": 415.31
+    "t": 423.39
    },
    {
     "speaker": "Tom",
     "text": "Elle est arrivée récemment au Luxembourg comme réfugiée.",
-    "t": 418.96
+    "t": 427.04
    },
    {
     "speaker": "Tom",
     "text": "Elle a deux enfants adolescents.",
-    "t": 421.74
+    "t": 429.82
    },
    {
     "speaker": "Tom",
     "text": "Elle n'a presque rien, et pas d'ordinateur.",
-    "t": 423.52
+    "t": 431.6
    },
    {
     "speaker": "Anna",
     "text": "Une situation très réelle.",
-    "t": 426.09
+    "t": 434.17
    },
    {
     "speaker": "Anna",
     "text": "Comment Digital Inclusion change-t-il son histoire ?",
-    "t": 427.69
+    "t": 435.77
    },
    {
     "speaker": "Tom",
     "text": "Étape par étape.",
-    "t": 430.33
+    "t": 438.41
    },
    {
     "speaker": "Tom",
     "text": "D'abord, parce qu'elle est réfugiée et qu'elle vit au Luxembourg, elle est éligible.",
-    "t": 431.81
+    "t": 439.89
    },
    {
     "speaker": "Tom",
     "text": "Elle fait une demande — et quelque temps plus tard, elle reçoit un ordinateur portable qui fonctionne.",
-    "t": 436.34
+    "t": 444.42
    },
    {
     "speaker": "Tom",
-    "text": "Et elle peut demander si ses deux adolescents peuvent aussi obtenir un ordinateur pour leurs devoirs.",
-    "t": 441.22
+    "text": "Et elle peut aussi faire une demande pour ses deux adolescents, l'un après l'autre, pour que chacun ait un ordinateur pour l'école.",
+    "t": 449.33
    },
    {
     "speaker": "Anna",
     "text": "Donc, d'un coup, toute la famille est connectée.",
-    "t": 446.05
+    "t": 455.59
    },
    {
     "speaker": "Tom",
     "text": "Toute la famille.",
-    "t": 448.43
+    "t": 457.97
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, Amina ne se sent pas à l'aise pour s'en servir.",
-    "t": 449.56
+    "t": 459.1
    },
    {
     "speaker": "Tom",
     "text": "Alors elle va à un cours gratuit, dans une langue qu'elle comprend, et elle apprend les bases.",
-    "t": 452.3
+    "t": 461.84
    },
    {
     "speaker": "Tom",
     "text": "Quand elle se retrouve bloquée une semaine, elle passe à l'Open Classroom le vendredi, et quelqu'un l'aide à configurer son e-mail et un compte officiel.",
-    "t": 456.89
+    "t": 466.43
    },
    {
     "speaker": "Anna",
     "text": "Et maintenant elle peut faire les choses que le reste d'entre nous trouve normales.",
-    "t": 464.75
+    "t": 474.29
    },
    {
     "speaker": "Tom",
     "text": "Maintenant elle peut postuler à des emplois, remplir ses formulaires, écrire à l'école de ses enfants, gérer sa banque — toute seule.",
-    "t": 468.18
+    "t": 477.72
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas qu'un ordinateur.",
-    "t": 475.26
+    "t": 484.8
    },
    {
     "speaker": "Tom",
     "text": "C'est de la dignité, et de l'indépendance.",
-    "t": 476.9
+    "t": 486.44
    },
    {
     "speaker": "Anna",
     "text": "Et peut-être qu'un jour, elle devient elle-même bénévole dans l'atelier.",
-    "t": 479.63
+    "t": 489.17
    },
    {
     "speaker": "Tom",
     "text": "Peut-être bien. Et alors le cercle est complet — la personne qui a été aidée devient la personne qui aide.",
-    "t": 482.96
+    "t": 492.5
    },
    {
     "speaker": "Tom",
     "text": "Ça arrive là-bas, tout le temps.",
-    "t": 488.32
+    "t": 497.86
    },
    {
     "speaker": "Anna",
     "text": "J'adore ça. Maintenant, Tom, retournons la question.",
-    "t": 490.34
+    "t": 499.88
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup de nos auditeurs ont déjà ce dont ils ont besoin.",
-    "t": 493.28
+    "t": 502.82
    },
    {
     "speaker": "Anna",
     "text": "Comment peuvent-ils aider ?",
-    "t": 496.05
+    "t": 505.59
    },
    {
     "speaker": "Tom",
     "text": "De tant de façons, et c'est important.",
-    "t": 497.49
+    "t": 507.03
    },
    {
     "speaker": "Tom",
     "text": "La plus simple — si vous avez un vieil ordinateur portable, un smartphone ou une tablette qui traîne dans un tiroir, sans rien faire — donnez-le.",
-    "t": 499.52
+    "t": 509.06
    },
    {
     "speaker": "Tom",
     "text": "Ne le laissez pas pourrir.",
-    "t": 507.07
+    "t": 516.61
    },
    {
     "speaker": "Tom",
     "text": "Donnez-lui une deuxième vie.",
-    "t": 508.58
+    "t": 518.12
    },
    {
     "speaker": "Anna",
     "text": "Donc ce vieil ordinateur portable dans le placard pourrait devenir la bouée de sauvetage de quelqu'un.",
-    "t": 510.18
+    "t": 519.72
    },
    {
     "speaker": "Tom",
-    "text": "Littéralement. Oubliez vos inquiétudes — ils s'occupent de l'effacement des données en toute sécurité.",
-    "t": 514.5
+    "text": "Littéralement. Ne vous inquiétez pas pour vos données — pour un ordinateur portable, ils les effacent en toute sécurité, ou ils peuvent même vous rendre votre disque dur.",
+    "t": 524.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pour un smartphone ou une tablette, faites simplement une réinitialisation d'usine avant de l'apporter.",
+    "t": 533.07
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez aussi donner de l'argent, pour aider à couvrir les frais.",
-    "t": 519.81
+    "t": 538.79
    },
    {
     "speaker": "Tom",
     "text": "Et vous pouvez devenir bénévole — dans l'atelier de réparation, ou pour aider à enseigner.",
-    "t": 523.01
+    "t": 542.07
    },
    {
     "speaker": "Anna",
     "text": "Et les entreprises ?",
-    "t": 527.75
+    "t": 547.03
    },
    {
     "speaker": "Anna",
     "text": "Elles doivent avoir beaucoup de vieux matériel quand elles renouvellent leur équipement.",
-    "t": 528.93
+    "t": 548.21
    },
    {
     "speaker": "Tom",
     "text": "Les entreprises, c'est important.",
-    "t": 532.42
+    "t": 551.7
    },
    {
     "speaker": "Tom",
     "text": "Quand une société renouvelle ses ordinateurs, au lieu de mettre les anciens au rebut, elle peut les donner à Digital Inclusion.",
-    "t": 534.35
+    "t": 553.63
    },
    {
     "speaker": "Tom",
     "text": "C'est bon pour la communauté, et bon pour la planète — et c'est une belle chose à laquelle une entreprise peut participer.",
-    "t": 540.53
+    "t": 559.81
    },
    {
     "speaker": "Anna",
     "text": "Où les gens trouvent-ils tout ça ?",
-    "t": 546.61
+    "t": 565.89
    },
    {
     "speaker": "Anna",
     "text": "L'adresse, les formulaires, les cours ?",
-    "t": 548.24
+    "t": 567.52
    },
    {
     "speaker": "Tom",
     "text": "Tout est sur leur site internet — digital tiret inclusion point l-u.",
-    "t": 550.59
+    "t": 569.87
    },
    {
     "speaker": "Tom",
     "text": "C'est-à-dire digital, ensuite un tiret, ensuite inclusion, point l-u.",
-    "t": 554.58
+    "t": 573.86
    },
    {
     "speaker": "Tom",
     "text": "Vous y trouverez comment faire une demande, comment faire un don, le calendrier des cours, et les coordonnées.",
-    "t": 559.13
+    "t": 578.41
    },
    {
     "speaker": "Anna",
     "text": "Et ils ont un vrai endroit qu'on peut visiter ?",
-    "t": 564.69
+    "t": 583.97
    },
    {
     "speaker": "Tom",
     "text": "Oui. Depuis deux mille vingt-quatre, ils sont à Bonnevoie, à Luxembourg-Ville, près de la gare principale — la Gare.",
-    "t": 566.95
+    "t": 586.23
    },
    {
     "speaker": "Tom",
     "text": "Ils sont ouverts tous les jours de la semaine, de neuf heures et demie le matin à cinq heures et demie de l'après-midi.",
-    "t": 572.94
+    "t": 592.22
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est une vraie porte ouverte, pas juste un site internet.",
-    "t": 578.34
+    "t": 597.62
    },
    {
     "speaker": "Tom",
     "text": "Une vraie porte ouverte.",
-    "t": 581.36
+    "t": 600.64
    },
    {
     "speaker": "Tom",
     "text": "Avec de vraies personnes qui veulent aider.",
-    "t": 582.78
+    "t": 602.06
    },
    {
     "speaker": "Anna",
     "text": "Concluons, Tom. Si je suis en train d'écouter, qu'est-ce que je dois retenir ?",
-    "t": 585.07
+    "t": 604.35
    },
    {
     "speaker": "Tom",
     "text": "Trois choses. D'abord — si vous, ou quelqu'un que vous connaissez, avez besoin d'un ordinateur et ne pouvez pas vous le payer, et que vous vivez au Luxembourg avec de faibles revenus ou comme réfugié — il existe de l'aide.",
-    "t": 588.94
+    "t": 608.22
    },
    {
     "speaker": "Tom",
     "text": "Un ordinateur gratuit, qui fonctionne.",
-    "t": 601
+    "t": 620.28
    },
    {
     "speaker": "Anna",
     "text": "Un ordinateur gratuit.",
-    "t": 603.39
+    "t": 622.67
    },
    {
     "speaker": "Tom",
     "text": "Ensuite — si vous avez l'ordinateur mais pas la confiance, il y a des cours gratuits, et un Open Classroom en accès libre tous les vendredis.",
-    "t": 605.02
+    "t": 624.3
    },
    {
     "speaker": "Tom",
     "text": "On n'est jamais trop âgé, ni trop nouveau, pour apprendre.",
-    "t": 612.11
+    "t": 631.39
    },
    {
     "speaker": "Anna",
     "text": "Et la troisième ?",
-    "t": 615.09
+    "t": 634.37
    },
    {
     "speaker": "Tom",
     "text": "Troisième — si vous faites partie des chanceux qui ont tout ce dont ils ont besoin, vous pouvez participer à tout ça.",
-    "t": 616.37
+    "t": 635.65
    },
    {
     "speaker": "Tom",
     "text": "Donnez ce vieil appareil.",
-    "t": 622.18
+    "t": 641.46
    },
    {
     "speaker": "Tom",
     "text": "Donnez un peu d'argent.",
-    "t": 623.75
+    "t": 643.03
    },
    {
     "speaker": "Tom",
     "text": "Ou donnez de votre temps.",
-    "t": 625
+    "t": 644.28
    },
    {
     "speaker": "Tom",
     "text": "Transformez votre technologie inutilisée en une opportunité pour quelqu'un d'autre.",
-    "t": 626.36
+    "t": 645.64
    },
    {
     "speaker": "Anna",
     "text": "Un petit résumé pour finir ?",
-    "t": 631.13
+    "t": 650.41
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Digital Inclusion est une association sans but lucratif luxembourgeoise qui comble la fracture numérique de trois façons.",
-    "t": 632.79
+    "t": 652.07
    },
    {
     "speaker": "Tom",
     "text": "Elle offre des ordinateurs reconditionnés gratuits aux personnes à faibles revenus et aux réfugiés — plus de dix mille jusqu'à présent.",
-    "t": 640.65
+    "t": 659.93
    },
    {
     "speaker": "Tom",
     "text": "Elle enseigne les compétences numériques, avec des cours gratuits dans de nombreuses langues et un Open Classroom en accès libre tous les vendredis.",
-    "t": 647.4
+    "t": 666.68
    },
    {
     "speaker": "Tom",
     "text": "Et elle protège l'environnement, en donnant une deuxième vie aux anciens appareils.",
-    "t": 654.75
+    "t": 674.03
    },
    {
     "speaker": "Tom",
     "text": "Tout est sur digital-inclusion.lu, et leur porte à Bonnevoie est ouverte tous les jours de la semaine.",
-    "t": 658.68
+    "t": 677.96
    },
    {
     "speaker": "Anna",
     "text": "Et le message du jour ?",
-    "t": 664.51
+    "t": 683.79
    },
    {
     "speaker": "Tom",
     "text": "Que dans un monde qui fonctionne avec des écrans, personne ne devrait être laissé de côté faute d'un ordinateur ou d'un peu d'aide pour s'en servir.",
-    "t": 665.94
+    "t": 685.22
    },
    {
     "speaker": "Tom",
     "text": "Un ordinateur portable donné, un enseignant patient, un atelier accueillant — de petites choses qui changent des vies.",
-    "t": 672.84
+    "t": 692.12
    },
    {
     "speaker": "Anna",
     "text": "Alors... que vous ayez besoin d'aide, ou que vous souhaitiez en donner — retenez le nom.",
-    "t": 679.09
+    "t": 698.37
    },
    {
     "speaker": "Anna",
     "text": "Digital Inclusion. digital-inclusion.lu.",
-    "t": 682.85
+    "t": 702.13
    },
    {
     "speaker": "Tom",
     "text": "Un ordinateur, et les compétences pour s'en servir.",
-    "t": 687.08
+    "t": 706.36
    },
    {
     "speaker": "Tom",
     "text": "C'est une porte vers le monde moderne — ouverte à tout le monde.",
-    "t": 689.7
+    "t": 708.98
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur Digital Inclusion.",
-    "t": 693.11
+    "t": 712.39
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 695.45
+    "t": 714.73
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 703.58
+    "t": 722.86
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 719.43
+    "t": 738.71
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 724.08
+    "t": 743.36
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 725.86
+    "t": 745.14
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 730.24
+    "t": 749.52
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 731.47
+    "t": 750.75
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 733.93
+    "t": 753.21
    }
   ],
   "segments_de": [
@@ -12763,808 +12793,823 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "In einem einzigen jüngeren Jahr haben Freiwillige über zweitausend Geräte wiederaufbereitet.",
-    "t": 181.8
-   },
-   {
-    "speaker": "Tom",
     "text": "Dieses Jahr, zweitausendsechsundzwanzig, feiert die Organisation sogar ihr zehnjähriges Bestehen.",
-    "t": 187.33
+    "t": 181.81
    },
    {
     "speaker": "Anna",
     "text": "Zehn Jahre dieser Arbeit.",
-    "t": 193.2
+    "t": 187.84
    },
    {
     "speaker": "Anna",
     "text": "Jetzt die praktische Frage, die sich alle stellen — wer kann denn so einen Computer tatsächlich bekommen?",
-    "t": 195
+    "t": 189.64
    },
    {
     "speaker": "Tom",
     "text": "Gut — sagen wir es klar und konkret.",
-    "t": 201.39
+    "t": 196.03
    },
    {
     "speaker": "Tom",
     "text": "Um einen Antrag zu stellen, muss man erstens in Luxemburg wohnen.",
-    "t": 203.99
+    "t": 198.63
    },
    {
     "speaker": "Tom",
     "text": "Und dann muss man eine von einigen Bedingungen erfüllen.",
-    "t": 207.47
+    "t": 202.11
    },
    {
     "speaker": "Anna",
     "text": "Welche sind das?",
-    "t": 210.45
+    "t": 205.09
    },
    {
     "speaker": "Tom",
     "text": "Die wichtigsten sind diese.",
-    "t": 211.82
+    "t": 206.46
    },
    {
     "speaker": "Tom",
     "text": "Ihr Haushalt bezieht die Teuerungszulage (allocation de vie chère).",
-    "t": 213.45
+    "t": 208.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oder Sie sind in einem kollektiven Schuldenregulierungsverfahren.",
+    "t": 212.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oder Sie haben eine Aufenthaltserlaubnis in der Kategorie „Privatleben\".",
+    "t": 216.23
    },
    {
     "speaker": "Tom",
     "text": "Oder Sie sind ein Flüchtling — ein Asylsuchender, eine Person unter vorübergehendem Schutz oder ein unbegleiteter Minderjähriger.",
-    "t": 217.71
+    "t": 220.19
    },
    {
     "speaker": "Tom",
-    "text": "Es gibt auch noch einige andere Fälle, schauen Sie also auf der Website nach, ob Sie berechtigt sind.",
-    "t": 225.61
+    "text": "Schauen Sie auf der Website nach, ob Sie berechtigt sind.",
+    "t": 228.1
    },
    {
     "speaker": "Anna",
     "text": "Es richtet sich also wirklich an Menschen mit geringem Einkommen und an Flüchtlinge und Neuankömmlinge.",
-    "t": 231.08
+    "t": 231.36
    },
    {
     "speaker": "Tom",
     "text": "Genau — an die Menschen, für die der Kauf eines Computers eine echte Herausforderung wäre.",
-    "t": 236.6
+    "t": 236.88
    },
    {
     "speaker": "Tom",
-    "text": "Meistens gibt es einen Laptop pro Haushalt.",
-    "t": 242.27
-   },
-   {
-    "speaker": "Tom",
-    "text": "Aber die anderen Familienmitglieder können oft auch einen zusätzlichen Computer beantragen.",
-    "t": 244.7
+    "text": "Und seit September 2025 kann jedes Haushaltsmitglied ab zwölf Jahren einen eigenen Computer bekommen — solange es genug Spenden gibt.",
+    "t": 242.31
    },
    {
     "speaker": "Anna",
     "text": "Dann können also der Jugendliche, der seine Hausaufgaben macht, und der Elternteil, der Arbeit sucht, vielleicht jeweils ein Gerät bekommen?",
-    "t": 249.37
+    "t": 251.2
    },
    {
     "speaker": "Tom",
-    "text": "Oft, ja. Die Regeln ändern sich von Zeit zu Zeit, deshalb erklärt die Website die aktuellen — und wie lange Sie vielleicht warten müssen.",
-    "t": 256.52
+    "text": "Ja. Jeder Erwachsene stellt seinen eigenen Antrag, und ein Elternteil stellt den Antrag für die Teenager.",
+    "t": 258.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und die Website zeigt immer die aktuelle Wartezeit.",
+    "t": 265.08
    },
    {
     "speaker": "Anna",
     "text": "Gut zu wissen.",
-    "t": 264.5
+    "t": 268.07
    },
    {
     "speaker": "Anna",
     "text": "Und was für einen Computer bekommt man eigentlich?",
-    "t": 265.67
+    "t": 269.24
    },
    {
     "speaker": "Anna",
     "text": "Irgendein altes, kaputtes Ding?",
-    "t": 268.15
+    "t": 271.72
    },
    {
     "speaker": "Tom",
     "text": "Nein, das ist das Schöne daran.",
-    "t": 270.31
+    "t": 273.88
    },
    {
     "speaker": "Tom",
     "text": "Sie kommen einsatzbereit, mit bereits installiertem Betriebssystem — meistens Windows, oder ein Mac.",
-    "t": 272.38
+    "t": 275.95
    },
    {
     "speaker": "Tom",
     "text": "Ein anständiger Prozessor.",
-    "t": 278.38
+    "t": 281.95
    },
    {
     "speaker": "Tom",
     "text": "Und sie kommen sogar mit einer kostenlosen Reparaturgarantie — außer für den Akku, der bei einem alten Laptop vielleicht schwach oder gar nicht mehr da ist.",
-    "t": 280.12
+    "t": 283.69
    },
    {
     "speaker": "Anna",
     "text": "Ein kostenloser Computer, der funktioniert, mit Garantie.",
-    "t": 288.61
+    "t": 292.18
    },
    {
     "speaker": "Anna",
     "text": "Das ist wirklich großzügig.",
-    "t": 292
+    "t": 295.57
    },
    {
     "speaker": "Anna",
     "text": "Gut — das war der Computer.",
-    "t": 293.89
+    "t": 297.46
    },
    {
     "speaker": "Anna",
     "text": "Jetzt der zweite Teil.",
-    "t": 296.19
+    "t": 299.76
    },
    {
     "speaker": "Anna",
     "text": "Das Können.",
-    "t": 297.71
+    "t": 301.28
    },
    {
     "speaker": "Tom",
     "text": "Ja — denn ein Computer nützt nichts, wenn man nicht weiß, wie man ihn benutzt.",
-    "t": 298.81
+    "t": 302.38
    },
    {
     "speaker": "Tom",
     "text": "Deshalb bietet Digital Inclusion auch Kurse an.",
-    "t": 303.05
+    "t": 306.62
    },
    {
     "speaker": "Tom",
     "text": "Kostenlose IT-Kurse, um den Menschen die Grundlagen und mehr beizubringen.",
-    "t": 305.93
+    "t": 309.5
    },
    {
     "speaker": "Anna",
     "text": "Und in welchen Sprachen?",
-    "t": 310.54
+    "t": 314.11
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg ist ja so mehrsprachig.",
-    "t": 312
+    "t": 315.57
    },
    {
     "speaker": "Tom",
     "text": "In vielen Sprachen.",
-    "t": 314.28
+    "t": 317.85
    },
    {
     "speaker": "Tom",
     "text": "Das ist Absicht — sie unterrichten in mehreren Sprachen, damit Neuankömmlinge in einer Sprache lernen können, die sie verstehen.",
-    "t": 315.58
+    "t": 319.15
    },
    {
     "speaker": "Tom",
     "text": "Sie haben sogar ein Sprachlabor, darunter eines, das KI nutzt, um den Menschen beim Üben zu helfen.",
-    "t": 323.19
+    "t": 326.76
    },
    {
     "speaker": "Anna",
     "text": "Man kann also Computerkenntnisse und Sprachkenntnisse gleichzeitig lernen.",
-    "t": 329.09
+    "t": 332.66
    },
    {
     "speaker": "Tom",
     "text": "Beides auf einmal.",
-    "t": 333.2
+    "t": 336.77
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt noch etwas, das mir wirklich gefällt — das Open Classroom (offene Sprechstunde).",
-    "t": 334.5
+    "t": 338.07
    },
    {
     "speaker": "Tom",
     "text": "Jeden Freitagvormittag kann man einfach hereinkommen, ohne Termin, und Hilfe bei einem digitalen Problem bekommen.",
-    "t": 340.03
+    "t": 343.6
    },
    {
     "speaker": "Anna",
     "text": "Einfach hereinkommen? Wenn ich also nicht weiterweiß — ich kann mich irgendwo nicht anmelden, ich verstehe eine E-Mail nicht, ein Formular funktioniert nicht...",
-    "t": 346.47
+    "t": 350.04
    },
    {
     "speaker": "Tom",
     "text": "...dann bringen Sie es an einem Freitagvormittag mit, und jemand setzt sich mit Ihnen hin und hilft.",
-    "t": 355.57
+    "t": 359.14
    },
    {
     "speaker": "Tom",
     "text": "Ohne Termin, kostenlos.",
-    "t": 360.51
+    "t": 364.08
    },
    {
     "speaker": "Tom",
     "text": "Geöffnet ist von halb zehn bis halb zwei.",
-    "t": 362.34
+    "t": 365.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie helfen Ihnen sogar mit LuxTrust und MyGuichet — und Sie können ein paar Seiten kostenlos scannen und drucken.",
+    "t": 368.65
    },
    {
     "speaker": "Anna",
     "text": "Das ist wunderbar.",
-    "t": 364.98
+    "t": 375.5
    },
    {
     "speaker": "Anna",
     "text": "So viele Menschen brauchen einfach jemand Geduldigen, der sich zehn Minuten neben sie setzt.",
-    "t": 366.21
+    "t": 376.73
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und es sind nicht nur Einzelpersonen.",
-    "t": 370.99
+    "t": 381.51
    },
    {
     "speaker": "Tom",
     "text": "Sie unterstützen auch soziale Organisationen, und sie bieten Gerätereparaturen an — die nach Termin, per E-Mail.",
-    "t": 374.16
+    "t": 384.68
    },
    {
     "speaker": "Anna",
     "text": "Gut. Der Computer, das Können... jetzt der dritte Teil.",
-    "t": 381.1
+    "t": 391.62
    },
    {
     "speaker": "Anna",
     "text": "Du hast gesagt, gut für den Planeten.",
-    "t": 385.7
+    "t": 396.22
    },
    {
     "speaker": "Anna",
     "text": "Erzähl mir davon.",
-    "t": 388.23
+    "t": 398.75
    },
    {
     "speaker": "Tom",
     "text": "Das ist der Teil, der das Ganze so klug macht.",
-    "t": 389.58
+    "t": 400.1
    },
    {
     "speaker": "Tom",
     "text": "Denk mal nach — jeder Computer, den sie verschenken, ist ein Computer, der weggeworfen worden wäre.",
-    "t": 392.11
+    "t": 402.63
    },
    {
     "speaker": "Tom",
     "text": "Elektroschrott ist ein riesiges Umweltproblem.",
-    "t": 397.68
+    "t": 408.2
    },
    {
     "speaker": "Anna",
     "text": "All die alten Laptops in Schubladen oder im Müll.",
-    "t": 400.63
+    "t": 411.15
    },
    {
     "speaker": "Tom",
     "text": "Richtig. Indem sie sie sammeln, reparieren und ihnen ein zweites Leben geben — und sogar ein drittes Leben — hält Digital Inclusion sie aus dem Müll heraus.",
-    "t": 403.59
+    "t": 414.11
    },
    {
     "speaker": "Tom",
     "text": "So hilft eine einzige Handlung einem Menschen UND der Umwelt.",
-    "t": 413.72
+    "t": 424.24
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein Kreis.",
-    "t": 417.28
+    "t": 427.8
    },
    {
     "speaker": "Anna",
     "text": "Der Abfall des einen wird zum Werkzeug des anderen.",
-    "t": 418.6
+    "t": 429.12
    },
    {
     "speaker": "Tom",
     "text": "Ein schöner Kreis.",
-    "t": 421.6
+    "t": 432.12
    },
    {
     "speaker": "Tom",
     "text": "Soziales Gutes und ökologisches Gutes, in ein und derselben Geste.",
-    "t": 422.91
+    "t": 433.43
    },
    {
     "speaker": "Tom",
     "text": "Und hier ein Detail, das ich sehr berührend finde — viele der Freiwilligen, die die Computer reparieren, sind selbst Flüchtlinge.",
-    "t": 428
+    "t": 438.52
    },
    {
     "speaker": "Anna",
     "text": "Oh — erzähl mir mehr darüber.",
-    "t": 435.28
+    "t": 445.8
    },
    {
     "speaker": "Tom",
     "text": "Also, während sie die Geräte reparieren, werden diese Freiwilligen geschult, sie bauen IT-Kenntnisse auf, und sie lernen Menschen aus der lokalen Technologiewelt kennen.",
-    "t": 437.47
+    "t": 447.99
    },
    {
     "speaker": "Tom",
     "text": "Sie lernen, sie tragen etwas bei, und sie knüpfen Kontakte — alles auf einmal.",
-    "t": 447.19
+    "t": 457.71
    },
    {
     "speaker": "Anna",
     "text": "Die Werkstatt repariert also nicht nur Computer.",
-    "t": 452.23
+    "t": 462.75
    },
    {
     "speaker": "Anna",
     "text": "Sie hilft Menschen, in einem neuen Land Fuß zu fassen.",
-    "t": 454.76
+    "t": 465.28
    },
    {
     "speaker": "Tom",
     "text": "Genau. Es werden Geräte repariert und gleichzeitig Lebenswege aufgebaut.",
-    "t": 457.8
+    "t": 468.32
    },
    {
     "speaker": "Tom",
     "text": "Deshalb ist das eine Geschichte über Inklusion, nicht nur über Technik.",
-    "t": 462.62
+    "t": 473.14
    },
    {
     "speaker": "Anna",
     "text": "Das ist wirklich etwas Besonderes.",
-    "t": 466.78
+    "t": 477.3
    },
    {
     "speaker": "Anna",
     "text": "Tom, machen wir es konkret.",
-    "t": 468.74
+    "t": 479.26
    },
    {
     "speaker": "Anna",
     "text": "Können wir einer einzelnen Person folgen?",
-    "t": 470.56
+    "t": 481.08
    },
    {
     "speaker": "Tom",
     "text": "Natürlich. Stellen wir uns eine Frau vor — nennen wir sie Amina.",
-    "t": 473
+    "t": 483.52
    },
    {
     "speaker": "Tom",
     "text": "Sie ist erst kürzlich als Flüchtling nach Luxemburg gekommen.",
-    "t": 477.63
+    "t": 488.15
    },
    {
     "speaker": "Tom",
     "text": "Sie hat zwei Kinder im Teenageralter.",
-    "t": 480.83
+    "t": 491.35
    },
    {
     "speaker": "Tom",
     "text": "Sie hat fast nichts und keinen Computer.",
-    "t": 483.1
+    "t": 493.62
    },
    {
     "speaker": "Anna",
     "text": "Eine sehr reale Situation.",
-    "t": 485.54
+    "t": 496.06
    },
    {
     "speaker": "Anna",
     "text": "Wie verändert Digital Inclusion ihre Geschichte?",
-    "t": 487.48
+    "t": 498
    },
    {
     "speaker": "Tom",
     "text": "Schritt für Schritt.",
-    "t": 490.61
+    "t": 501.13
    },
    {
     "speaker": "Tom",
     "text": "Erstens, weil sie als Flüchtling in Luxemburg lebt, ist sie berechtigt.",
-    "t": 491.79
+    "t": 502.31
    },
    {
     "speaker": "Tom",
     "text": "Sie stellt einen Antrag — und einige Zeit später erhält sie einen funktionierenden Laptop.",
-    "t": 496.09
+    "t": 506.61
    },
    {
     "speaker": "Tom",
-    "text": "Und sie kann fragen, ob auch ihre beiden Teenager einen Computer für ihre Schularbeiten bekommen können.",
-    "t": 501.81
+    "text": "Und sie kann auch für ihre beiden Teenager einen Antrag stellen, einen nach dem anderen, damit jeder einen Computer für die Schule bekommt.",
+    "t": 511.72
    },
    {
     "speaker": "Anna",
     "text": "Plötzlich ist also die ganze Familie online.",
-    "t": 507.3
+    "t": 518.88
    },
    {
     "speaker": "Tom",
     "text": "Die ganze Familie.",
-    "t": 510.07
+    "t": 521.65
    },
    {
     "speaker": "Tom",
     "text": "Dann fühlt sich Amina aber unsicher beim Benutzen.",
-    "t": 511.49
+    "t": 523.07
    },
    {
     "speaker": "Tom",
     "text": "Also geht sie zu einem kostenlosen Kurs, in einer Sprache, die sie versteht, und lernt die Grundlagen.",
-    "t": 514.22
+    "t": 525.8
    },
    {
     "speaker": "Tom",
     "text": "Als sie eine Woche nicht weiterkommt, schaut sie am Freitag im Open Classroom vorbei, und jemand hilft ihr, ihre E-Mail und ein amtliches Konto einzurichten.",
-    "t": 520.01
+    "t": 531.59
    },
    {
     "speaker": "Anna",
     "text": "Und jetzt kann sie die Dinge tun, die für uns andere selbstverständlich sind.",
-    "t": 529.05
+    "t": 540.63
    },
    {
     "speaker": "Tom",
     "text": "Jetzt kann sie sich um Stellen bewerben, ihre Formulare ausfüllen, der Schule ihrer Kinder schreiben, ihre Bankgeschäfte erledigen — ganz allein.",
-    "t": 533.31
+    "t": 544.89
    },
    {
     "speaker": "Tom",
     "text": "Das ist nicht nur ein Computer.",
-    "t": 542.04
+    "t": 553.62
    },
    {
     "speaker": "Tom",
     "text": "Das ist Würde und Unabhängigkeit.",
-    "t": 543.78
+    "t": 555.36
    },
    {
     "speaker": "Anna",
     "text": "Und vielleicht arbeitet sie eines Tages selbst freiwillig in der Werkstatt mit.",
-    "t": 545.96
+    "t": 557.54
    },
    {
     "speaker": "Tom",
     "text": "Vielleicht tut sie das.",
-    "t": 550.04
+    "t": 561.62
    },
    {
     "speaker": "Tom",
     "text": "Und dann schließt sich der Kreis — aus dem Menschen, dem geholfen wurde, wird der Mensch, der hilft.",
-    "t": 551.39
+    "t": 562.97
    },
    {
     "speaker": "Tom",
     "text": "Das passiert dort ständig.",
-    "t": 557.23
+    "t": 568.81
    },
    {
     "speaker": "Anna",
     "text": "Das gefällt mir.",
-    "t": 558.95
+    "t": 570.53
    },
    {
     "speaker": "Anna",
     "text": "Jetzt, Tom, drehen wir es um.",
-    "t": 560.14
+    "t": 571.72
    },
    {
     "speaker": "Anna",
     "text": "Viele unserer Hörer haben schon, was sie brauchen.",
-    "t": 562.11
+    "t": 573.69
    },
    {
     "speaker": "Anna",
     "text": "Wie können sie helfen?",
-    "t": 564.64
+    "t": 576.22
    },
    {
     "speaker": "Tom",
     "text": "Auf so viele Arten, und das ist wichtig.",
-    "t": 566.2
+    "t": 577.78
    },
    {
     "speaker": "Tom",
     "text": "Am einfachsten — wenn Sie einen alten Laptop, ein Smartphone oder ein Tablet in einer Schublade liegen haben, das nichts tut — spenden Sie es.",
-    "t": 568.72
+    "t": 580.3
    },
    {
     "speaker": "Tom",
     "text": "Lassen Sie es nicht verrotten.",
-    "t": 577.52
+    "t": 589.1
    },
    {
     "speaker": "Tom",
     "text": "Geben Sie ihm ein zweites Leben.",
-    "t": 579.04
+    "t": 590.62
    },
    {
     "speaker": "Anna",
     "text": "Dieser alte Laptop im Schrank könnte also zur Lebensader für jemanden werden.",
-    "t": 580.97
+    "t": 592.55
    },
    {
     "speaker": "Tom",
     "text": "Im wahrsten Sinne.",
-    "t": 585.27
+    "t": 596.85
    },
    {
     "speaker": "Tom",
-    "text": "Machen Sie sich keine Sorgen — sie kümmern sich sicher um die Datenlöschung.",
-    "t": 586.42
+    "text": "Machen Sie sich keine Sorgen um Ihre Daten — bei einem Laptop löschen sie sie sicher, oder sie geben Ihnen sogar Ihre Festplatte zurück.",
+    "t": 598.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bei einem Smartphone oder Tablet machen Sie einfach vorher einen Werksreset.",
+    "t": 605.39
    },
    {
     "speaker": "Tom",
     "text": "Sie können auch Geld geben, um die Kosten mitzudecken.",
-    "t": 590.29
+    "t": 609.91
    },
    {
     "speaker": "Tom",
     "text": "Und Sie können sich freiwillig engagieren — in der Reparaturwerkstatt oder beim Unterrichten.",
-    "t": 593.08
+    "t": 612.8
    },
    {
     "speaker": "Anna",
     "text": "Und Firmen? Die haben bestimmt viele alte Geräte, wenn sie aufrüsten.",
-    "t": 598.23
+    "t": 618.2
    },
    {
     "speaker": "Tom",
     "text": "Firmen sind ein großer Punkt.",
-    "t": 602.55
+    "t": 622.52
    },
    {
     "speaker": "Tom",
     "text": "Wenn ein Unternehmen seine Computer erneuert, kann es die alten, statt sie zu verschrotten, an Digital Inclusion geben.",
-    "t": 604.43
+    "t": 624.4
    },
    {
     "speaker": "Tom",
     "text": "Das ist gut für die Gemeinschaft und gut für den Planeten — und eine schöne Sache, an der ein Unternehmen teilhaben kann.",
-    "t": 610.92
+    "t": 630.89
    },
    {
     "speaker": "Anna",
     "text": "Wo finden die Leute das alles?",
-    "t": 617.46
+    "t": 637.43
    },
    {
     "speaker": "Anna",
     "text": "Die Adresse, die Formulare, die Kurse?",
-    "t": 619.3
+    "t": 639.27
    },
    {
     "speaker": "Tom",
     "text": "Alles steht auf ihrer Website — digital Bindestrich inclusion Punkt l-u.",
-    "t": 622.31
+    "t": 642.28
    },
    {
     "speaker": "Tom",
     "text": "Also digital, dann ein Bindestrich, dann inclusion, Punkt l-u.",
-    "t": 627.34
+    "t": 647.31
    },
    {
     "speaker": "Tom",
     "text": "Dort finden Sie, wie man einen Antrag stellt, wie man spendet, den Kursplan und die Kontaktdaten.",
-    "t": 632.03
+    "t": 652
    },
    {
     "speaker": "Anna",
     "text": "Und gibt es einen echten Ort, den man besuchen kann?",
-    "t": 638
+    "t": 657.97
    },
    {
     "speaker": "Tom",
     "text": "Den gibt es.",
-    "t": 641.06
+    "t": 661.03
    },
    {
     "speaker": "Tom",
     "text": "Seit zweitausendvierundzwanzig sind sie in Bonnevoie, in Luxemburg-Stadt, in der Nähe des Hauptbahnhofs — des Bahnhofs (Gare).",
-    "t": 642.14
+    "t": 662.11
    },
    {
     "speaker": "Tom",
     "text": "Sie haben an jedem Wochentag geöffnet, von halb zehn Uhr morgens bis halb sechs Uhr nachmittags.",
-    "t": 650.3
+    "t": 670.27
    },
    {
     "speaker": "Anna",
     "text": "Es ist also eine echte, offene Tür, nicht nur eine Website.",
-    "t": 656.05
+    "t": 676.02
    },
    {
     "speaker": "Tom",
     "text": "Eine echte, offene Tür.",
-    "t": 659.8
+    "t": 679.77
    },
    {
     "speaker": "Tom",
     "text": "Mit echten Menschen, die helfen wollen.",
-    "t": 661.56
+    "t": 681.53
    },
    {
     "speaker": "Anna",
     "text": "Bringen wir es auf den Punkt, Tom.",
-    "t": 663.74
+    "t": 683.71
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich zuhöre, was soll ich mitnehmen?",
-    "t": 665.56
+    "t": 685.53
    },
    {
     "speaker": "Tom",
     "text": "Drei Dinge. Erstens — wenn Sie oder jemand, den Sie kennen, einen Computer braucht und ihn sich nicht leisten kann, und Sie in Luxemburg mit geringem Einkommen oder als Flüchtling leben — es gibt Hilfe.",
-    "t": 668.22
+    "t": 688.19
    },
    {
     "speaker": "Tom",
     "text": "Ein kostenloser, funktionierender Computer.",
-    "t": 680.56
+    "t": 700.53
    },
    {
     "speaker": "Anna",
     "text": "Ein kostenloser Computer.",
-    "t": 683.38
+    "t": 703.35
    },
    {
     "speaker": "Tom",
     "text": "Zweitens — wenn Sie den Computer haben, aber nicht das Selbstvertrauen, gibt es kostenlose Kurse und einen offenen Open Classroom an jedem Freitag.",
-    "t": 685.27
+    "t": 705.24
    },
    {
     "speaker": "Tom",
     "text": "Man ist nie zu alt oder zu neu, um zu lernen.",
-    "t": 694.59
+    "t": 714.56
    },
    {
     "speaker": "Anna",
     "text": "Und drittens?",
-    "t": 697.4
+    "t": 717.37
    },
    {
     "speaker": "Tom",
     "text": "Drittens — wenn Sie zu den Glücklichen gehören, die alles haben, was sie brauchen, können Sie ein Teil davon sein.",
-    "t": 698.63
+    "t": 718.6
    },
    {
     "speaker": "Tom",
     "text": "Spenden Sie dieses alte Gerät.",
-    "t": 704.63
+    "t": 724.6
    },
    {
     "speaker": "Tom",
     "text": "Geben Sie ein wenig Geld.",
-    "t": 706.64
+    "t": 726.61
    },
    {
     "speaker": "Tom",
     "text": "Oder schenken Sie Ihre Zeit.",
-    "t": 708.18
+    "t": 728.15
    },
    {
     "speaker": "Tom",
     "text": "Verwandeln Sie Ihre übrige Technik in die Chance eines anderen.",
-    "t": 709.91
+    "t": 729.88
    },
    {
     "speaker": "Anna",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 713.62
+    "t": 733.59
    },
    {
     "speaker": "Tom",
     "text": "Gern. Digital Inclusion ist ein gemeinnütziger Verein in Luxemburg, der die digitale Kluft auf drei Arten schließt.",
-    "t": 715.88
+    "t": 735.85
    },
    {
     "speaker": "Tom",
     "text": "Er gibt kostenlose, wiederaufbereitete Computer an Menschen mit geringem Einkommen und an Flüchtlinge — bisher mehr als zehntausend.",
-    "t": 723.58
+    "t": 743.55
    },
    {
     "speaker": "Tom",
     "text": "Er vermittelt digitale Kenntnisse, mit kostenlosen Kursen in vielen Sprachen und einem offenen Open Classroom an jedem Freitag.",
-    "t": 731.8
+    "t": 751.77
    },
    {
     "speaker": "Tom",
     "text": "Und er schützt die Umwelt, indem er alten Geräten ein zweites Leben gibt.",
-    "t": 739.58
+    "t": 759.55
    },
    {
     "speaker": "Tom",
     "text": "Alles steht auf digital-inclusion.lu, und ihre Tür in Bonnevoie ist an jedem Wochentag offen.",
-    "t": 743.79
+    "t": 763.76
    },
    {
     "speaker": "Anna",
     "text": "Und die Botschaft für heute?",
-    "t": 750.42
+    "t": 770.39
    },
    {
     "speaker": "Tom",
     "text": "Dass in einer Welt, die über Bildschirme läuft, niemand zurückgelassen werden sollte, weil ihm ein Computer fehlt oder ein wenig Hilfe, ihn zu nutzen.",
-    "t": 752.22
+    "t": 772.19
    },
    {
     "speaker": "Tom",
     "text": "Ein gespendeter Laptop, ein geduldiger Lehrer, eine einladende Werkstatt — kleine Dinge, die Leben verändern.",
-    "t": 760.56
+    "t": 780.53
    },
    {
     "speaker": "Anna",
     "text": "Also... ob Sie Hilfe brauchen oder Hilfe geben möchten — merken Sie sich den Namen.",
-    "t": 767.58
+    "t": 787.55
    },
    {
     "speaker": "Anna",
     "text": "Digital Inclusion. digital-inclusion.lu.",
-    "t": 773.68
+    "t": 793.65
    },
    {
     "speaker": "Tom",
     "text": "Ein Computer und das Können, ihn zu nutzen.",
-    "t": 779.02
+    "t": 798.99
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine Tür in die moderne Welt — offen für alle.",
-    "t": 781.66
+    "t": 801.63
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über Digital Inclusion.",
-    "t": 784.95
+    "t": 804.92
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 787.74
+    "t": 807.71
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 796.88
+    "t": 816.85
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 814.73
+    "t": 834.7
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 820.43
+    "t": 840.4
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 822.68
+    "t": 842.65
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 827.57
+    "t": 847.54
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 828.72
+    "t": 848.69
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 831.93
+    "t": 851.9
    }
   ],
   "questions": [
@@ -13599,7 +13644,7 @@ const EPISODES = [
      "Only university students in Luxembourg who show their student card and a letter from their professor"
     ],
     "correct": 1,
-    "explanation": "You must live in Luxembourg and meet one condition – for example your household receives the cost-of-living allowance (allocation de vie chère), or you are an asylum seeker or under temporary protection. See digital-inclusion.lu for the full, current conditions and waiting times."
+    "explanation": "You must live in Luxembourg and meet one condition – for example your household receives the cost-of-living allowance (allocation de vie chère), you are in a collective debt settlement procedure, you hold a 'vie privée' residence permit, or you are an asylum seeker, an unaccompanied minor or under temporary protection. Each household member aged 12 or older can get their own computer, as long as donations allow. See digital-inclusion.lu for the current conditions and waiting time."
    },
    {
     "text": "What is the 'Open Classroom'?",
@@ -13722,347 +13767,347 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "An et wiisst weider. An engem eenzege rezenten Joer hunn d'Benevoll iwwer zweedausend Maschinne renovéiert. Dëst Joer, 2026, feiert d'Organisatioun souguer hiren zéngte Gebuertsdag.",
+    "text": "An et wiisst weider. Dëst Joer, 2026, feiert d'Organisatioun souguer hiren zéngte Gebuertsdag.",
     "t": 159.34
    },
    {
     "speaker": "Anna",
     "text": "Zéng Joer vun dëser Aarbecht. Elo déi praktesch Fro, déi jidderee sech denkt — wien kann tatsächlech esou e Computer kréien?",
-    "t": 171.13
+    "t": 165.8
    },
    {
     "speaker": "Tom",
     "text": "Gutt — loosse mer kloer a konkret sinn. Fir dech ze bewerben, brauchs de als éischt zu Lëtzebuerg ze wunnen. An dann muss de eng vun e puer Konditiounen erfëllen.",
-    "t": 178.2
+    "t": 172.87
    },
    {
     "speaker": "Anna",
     "text": "Wat sinn déi?",
-    "t": 185.97
+    "t": 180.64
    },
    {
     "speaker": "Tom",
-    "text": "Déi haaptsächlech sinn dës. Däin Haushalt kritt d'allocation de vie chère (AVC). Oder du bass e Flüchtling — en Asylsicher, eng Persoun ënner temporärem Schutz, oder e mannerjäregen Onbegleeten. Et ginn nach e puer aner Fäll, also kuck um Site, ob s du berechtegt bass.",
-    "t": 187.04
+    "text": "Déi haaptsächlech sinn dës. Däin Haushalt kritt d'allocation de vie chère (AVC). Oder du bass an enger Prozedur vu kollektiver Scholdenreegelung. Oder du hues eng Openthaltserlaabnes an der Kategorie \"vie privée\". Oder du bass e Flüchtling — en Asylsicher, eng Persoun ënner temporärem Schutz, oder e mannerjäregen Onbegleeten. Kuck um Site, ob s du berechtegt bass.",
+    "t": 181.71
    },
    {
     "speaker": "Anna",
     "text": "Also riicht et sech wierklech un d'Leit mat engem nidderegen Akommes, an un d'Flüchtlingen an d'Neiukömmlingen.",
-    "t": 202.58
+    "t": 202.71
    },
    {
     "speaker": "Tom",
-    "text": "Genau — d'Leit, fir déi e Computer ze kafen e richtege Kampf wier. Meeschtens ass et e Laptop pro Haushalt. Mä déi aner Membere vun der Famill kënnen dacks och en zousätzleche Computer froen.",
-    "t": 207.37
+    "text": "Genau — d'Leit, fir déi e Computer ze kafen e richtege Kampf wier. A zënter September 2025 kann all Member vum Haushalt vun zwielef Joer un säin eegene Computer kréien — soulaang et genuch Done gëtt.",
+    "t": 207.5
    },
    {
     "speaker": "Anna",
-    "text": "Also kéinten den Teenager, deen Hausaufgaben mécht, an den Elterendeel, deen Aarbecht sicht, all een e Computer kréien?",
-    "t": 217.65
+    "text": "Also kënnen den Teenager, deen Hausaufgaben mécht, an den Elterendeel, deen Aarbecht sicht, all een e Computer kréien?",
+    "t": 221.38
    },
    {
     "speaker": "Tom",
-    "text": "Dacks, jo. D'Reegelen änneren sech vun Zäit zu Zäit, dofir erkläert de Site déi aktuell — a wéi laang s du eventuell muss waarden.",
-    "t": 222.53
+    "text": "Jo. All Erwuessenen mécht seng eege Demande, an en Elterendeel mécht d'Demande fir d'Teenager. An de Site weist ëmmer déi aktuell Waardezäit.",
+    "t": 227
    },
    {
     "speaker": "Anna",
     "text": "Gutt ze wëssen. A wéi eng Zort Computer kriss de tatsächlech? Eppes Aalt, Futttes?",
-    "t": 229.28
+    "t": 234.67
    },
    {
     "speaker": "Tom",
     "text": "Nee, dat ass dee schéinen Deel. Si komme prett fir ze benotzen, mam Betribssystem schonn installéiert — meeschtens Windows, oder e Mac. En anstännege Prozesser. A si komme souguer mat enger gratis Reparaturgarantie — ausser der Batterie, déi op engem alen Laptop schwaach oder feelend ka sinn.",
-    "t": 234.36
+    "t": 239.75
    },
    {
     "speaker": "Anna",
     "text": "E gratis Computer, deen funktionéiert, mat enger Garantie. Dat ass wierklech generéis. Gutt — dat war de Computer. Elo deen zweeten Deel. D'Fäegkeeten.",
-    "t": 248.65
+    "t": 254.04
    },
    {
     "speaker": "Tom",
     "text": "Jo — well e Computer ass näischt wäert, wann s de net weess, wéi een en benotzt. Also bitt Digital Inclusion och Coursen un. Gratis Informatikscoursen, fir de Leit d'Grondlagen a méi ze léieren.",
-    "t": 258.31
+    "t": 263.7
    },
    {
     "speaker": "Anna",
     "text": "An a wéi enge Sproochen? Well Lëtzebuerg ass jo esou méisproocheg.",
-    "t": 268.96
+    "t": 274.35
    },
    {
     "speaker": "Tom",
     "text": "A villen Sproochen. Dat ass mat Absicht — si léieren a verschiddenen Sproochen, sou dass d'Neiukömmlinge an enger Sprooch léiere kënnen, déi se verstinn. Si hunn souguer e Sproochelabo, dorënner een, deen KI benotzt, fir de Leit beim Üben ze hëllefen.",
-    "t": 272.96
+    "t": 278.35
    },
    {
     "speaker": "Anna",
     "text": "Also kanns de Computerfäegkeeten a Sproochefäegkeeten zur selwechter Zäit léieren.",
-    "t": 285.23
+    "t": 290.62
    },
    {
     "speaker": "Tom",
     "text": "Béides gläichzäiteg. An et gëtt nach eppes, dat ech wierklech gär hunn — d'Open Classroom. All Freideg Moies kanns de einfach erakommen, ouni Rendez-vous, an Hëllef mat engem digitale Problem kréien.",
-    "t": 289.05
+    "t": 294.44
    },
    {
     "speaker": "Anna",
     "text": "Einfach erakommen? Also wann ech festsëtzen — ech kann iergendwou net aloggen, ech verstinn eng E-Mail net, e Formulaire funktionéiert net...",
-    "t": 299.39
+    "t": 304.78
    },
    {
     "speaker": "Tom",
-    "text": "...da bréngs de en e Freideg Moies eran, an een setzt sech bei dech an hëlleft der. Kee Rendez-vous, gratis. Et ass op vun hallwer zéng bis hallwer zwee.",
-    "t": 305.87
+    "text": "...da bréngs de en e Freideg Moies eran, an een setzt sech bei dech an hëlleft der. Kee Rendez-vous, gratis. Et ass op vun hallwer zéng bis hallwer zwee. Si hëllefen der souguer mat LuxTrust a MyGuichet — an du kanns e puer Säite gratis scannen an drécken.",
+    "t": 311.26
    },
    {
     "speaker": "Anna",
     "text": "Dat ass wonnerbar. Esou vill Leit brauchen einfach eng gedëlleg Persoun, déi sech zéng Minutten niewent si setzt.",
-    "t": 313.44
+    "t": 324.79
    },
    {
     "speaker": "Tom",
     "text": "Genau. An et ass net nëmme fir Eenzelpersounen. Si ënnerstëtzen och sozial Organisatiounen, a si bidde Reparature vun Apparater un — déi op Rendez-vous, per E-Mail.",
-    "t": 318.77
+    "t": 330.12
    },
    {
     "speaker": "Anna",
     "text": "Gutt. De Computer, d'Fäegkeeten... elo deen drëtten Deel. Du hues gesot gutt fir de Planéit. Erziel mer dovun.",
-    "t": 327.06
+    "t": 338.41
    },
    {
     "speaker": "Tom",
     "text": "Dat ass den Deel, deen déi ganz Saach esou clever mécht. Denk doriwwer no — all Computer, deen se verschenken, ass e Computer, deen ewechgehäit ginn ass. Elektroschrott ass en immense Ëmweltproblem.",
-    "t": 333.46
+    "t": 344.81
    },
    {
     "speaker": "Anna",
     "text": "All déi al Laptoppen an de Schiffladen, oder am Dreckseemer.",
-    "t": 344.19
+    "t": 355.54
    },
    {
     "speaker": "Tom",
     "text": "Richteg. Andeems se se sammelen, reparéieren, an hinnen en zweet Liewen ginn — a souguer en drëtt Liewen — hält Digital Inclusion se aus dem Dreck eraus. Also hëlleft eng eenzeg Geste enger Persoun AN hëlleft der Ëmwelt.",
-    "t": 347.12
+    "t": 358.47
    },
    {
     "speaker": "Anna",
     "text": "Et ass e Krees. Den Offall vun engem gëtt zum Outil vun engem aneren.",
-    "t": 360.56
+    "t": 371.91
    },
    {
     "speaker": "Tom",
     "text": "E schéine Krees. Sozialt Gutt an ëmweltfrëndlecht Gutt, an der selwechter Geste. An hei ass en Detail, deen ech ganz beréierend fannen — vill vun de Benevollen, déi d'Computere reparéieren, sinn selwer Flüchtlingen.",
-    "t": 364.4
+    "t": 375.75
    },
    {
     "speaker": "Anna",
     "text": "Oh — erziel mer méi doriwwer.",
-    "t": 375.09
+    "t": 386.44
    },
    {
     "speaker": "Tom",
     "text": "Also wärend se d'Maschinne reparéieren, kréien dës Benevoll eng Formatioun, si bauen Informatikfäegkeeten op, a si begéine Leit aus der lokaler Technologiewelt. Si léieren, si droe bäi, a si verknäppe sech — alles gläichzäiteg.",
-    "t": 376.73
+    "t": 388.08
    },
    {
     "speaker": "Anna",
     "text": "Also ass den Atelier net nëmme fir Computeren ze flécken. Et hëlleft de Leit, an engem neie Land Fouss ze faassen.",
-    "t": 389.47
+    "t": 400.82
    },
    {
     "speaker": "Tom",
     "text": "Genau. Et reparéiert Maschinnen a baut Liewen op zur selwechter Zäit. Dofir ass dat eng Geschicht iwwer Inklusioun, net just iwwer Technologie.",
-    "t": 395.49
+    "t": 406.84
    },
    {
     "speaker": "Anna",
     "text": "Dat ass wierklech eppes Speziellt. Tom, loosse mer et konkret maachen. Kënne mer enger Persoun nogoen?",
-    "t": 403.8
+    "t": 415.15
    },
    {
     "speaker": "Tom",
     "text": "Natierlech. Loosse mer eis eng Fra virstellen — nenne mer se Amina. Si ass viru kuerzem als Flüchtling zu Lëtzebuerg ukomm. Si huet zwee Teenager-Kanner. Si huet bal näischt, a kee Computer.",
-    "t": 408.8
+    "t": 420.15
    },
    {
     "speaker": "Anna",
     "text": "Eng ganz reell Situatioun. Wéi ännert Digital Inclusion hir Geschicht?",
-    "t": 419.71
+    "t": 431.06
    },
    {
     "speaker": "Tom",
-    "text": "Schrëtt fir Schrëtt. Als éischt, well si e Flüchtling ass, dee zu Lëtzebuerg wunnt, ass si berechtegt. Si bewerbt sech — an e bësse méi spéit kritt si e funktionéierende Laptop. A si ka froen, ob hir zwee Teenager och e Computer fir hir Schoulaarbecht kréie kënnen.",
-    "t": 424.51
+    "text": "Schrëtt fir Schrëtt. Als éischt, well si e Flüchtling ass, dee zu Lëtzebuerg wunnt, ass si berechtegt. Si bewerbt sech — an e bësse méi spéit kritt si e funktionéierende Laptop. A si kann och fir hir zwee Teenager eng Demande maachen, een nom aneren, fir datt jidderee vun hinnen e Computer fir d'Schoul kritt.",
+    "t": 435.86
    },
    {
     "speaker": "Anna",
     "text": "Also ass op eemol déi ganz Famill online.",
-    "t": 437.2
+    "t": 451.84
    },
    {
     "speaker": "Tom",
     "text": "Déi ganz Famill. Da fillt d'Amina sech net sécher beim Benotzen. Also geet si an e gratis Cours, an enger Sprooch, déi si versteet, a léiert d'Grondlagen. Wann si eng Woch festsëtzt, kënnt si freides an d'Open Classroom eran, an een hëlleft hir, hir E-Mail an en offiziellen Kont anzeriichten.",
-    "t": 439.88
+    "t": 454.52
    },
    {
     "speaker": "Anna",
     "text": "An elo kann si déi Saache maachen, déi de Rescht vun eis selbstverständlech fannen.",
-    "t": 455.22
+    "t": 469.86
    },
    {
     "speaker": "Tom",
     "text": "Elo kann si sech fir Aarbechtsplazen bewerben, hir Formulairen ausfëllen, der Schoul vun hire Kanner schreiwen, hir Bankgeschäfter maachen — eleng. Dat ass net nëmmen e Computer. Dat ass Dignitéit, an Onofhängegkeet.",
-    "t": 458.56
+    "t": 473.2
    },
    {
     "speaker": "Anna",
     "text": "A vläicht, enges Daags, schafft si selwer als Benevoll am Atelier.",
-    "t": 468.37
+    "t": 483.01
    },
    {
     "speaker": "Tom",
     "text": "Vläicht mécht si dat. An da ass de Krees komplett — d'Persoun, déi gehollef gouf, gëtt zu der Persoun, déi hëlleft. Dat geschitt do, déi ganzen Zäit.",
-    "t": 472.1
+    "t": 486.74
    },
    {
     "speaker": "Anna",
     "text": "Dat hunn ech gär. Elo, Tom, loosse mer et ëmdréinen. Vill vun eisen Nolauschterer hunn schonn dat, wat se brauchen. Wéi kënne se hëllefen?",
-    "t": 480.61
+    "t": 495.25
    },
    {
     "speaker": "Tom",
     "text": "Esou vill Weeër, an dat ass wichteg. Dee einfachsten — wann s du en alen Laptop, Smartphone oder Tablet an enger Schifflad leien hues, deen näischt mécht — spend en. Looss en net verfaulen. Gëff em en zweet Liewen.",
-    "t": 487.74
+    "t": 502.38
    },
    {
     "speaker": "Anna",
     "text": "Also kéint deen alen Laptop am Schaaf zu engem säi seng Liewensliny ginn.",
-    "t": 498.57
+    "t": 513.21
    },
    {
     "speaker": "Tom",
-    "text": "Wuertwiertlech. Maach der just keng Suergen — si këmmere sech sécher ëm d'Botzen vun den Donnéeën. Du kanns och Geld ginn, fir d'Käschten ze decken. An du kanns als Benevoll matmaachen — am Reparaturatelier, oder beim Léieren hëllefen.",
-    "t": 502.33
+    "text": "Wuertwiertlech. Maach der keng Suergen ëm deng Donnéeën — bei engem Laptop läsche si se sécher, oder si ginn der souguer deng Festplack zréck. Bei engem Smartphone oder Tablet maach einfach virdrun e Reset op d'Fabréckastellungen. Du kanns och Geld ginn, fir d'Käschten ze decken. An du kanns als Benevoll matmaachen — am Reparaturatelier, oder beim Léieren hëllefen.",
+    "t": 516.97
    },
    {
     "speaker": "Anna",
     "text": "A Firmen? Si mussen jo vill al Material hunn, wa se sech moderniséieren.",
-    "t": 513.47
+    "t": 535.39
    },
    {
     "speaker": "Tom",
     "text": "Firmen sinn e groussen. Wann eng Entreprise hir Computeren erneiert, amplaz déi al ewechzehäien, kënne se se un Digital Inclusion ginn. Et ass gutt fir d'Gemeinschaft, a gutt fir de Planéit — an eng schéin Saach fir eng Firma, fir dovun Deel ze sinn.",
-    "t": 517.59
+    "t": 539.51
    },
    {
     "speaker": "Anna",
     "text": "Wou fannen d'Leit dat alles? D'Adress, d'Formulairen, d'Coursen?",
-    "t": 529.37
+    "t": 551.29
    },
    {
     "speaker": "Tom",
     "text": "Alles ass op hirer Websäit — digital Strich inclusion Punkt l-u. Dat ass digital, dann e Strich, dann inclusion, Punkt l-u. Do fënns de, wéi s de dech bewerbs, wéi s de spends, de Coursplang, an d'Kontaktdaten.",
-    "t": 533.79
+    "t": 555.71
    },
    {
     "speaker": "Anna",
     "text": "A si hunn e richtege Plaz, deen een besiche kann?",
-    "t": 546.07
+    "t": 567.99
    },
    {
     "speaker": "Tom",
     "text": "Jo, dat hunn se. Zanter 2024 si se zu Bonnevoie, an der Stad Lëtzebuerg, bei der Haaptgare — der Gare. Si sinn all Wochendag op, vun hallwer zéng moies bis hallwer sechs owes.",
-    "t": 548.28
+    "t": 570.2
    },
    {
     "speaker": "Anna",
     "text": "Also ass et eng richteg, oppen Dier, net just eng Websäit.",
-    "t": 559.71
+    "t": 581.63
    },
    {
     "speaker": "Tom",
     "text": "Eng richteg, oppen Dier. Mat richtege Leit, déi hëllefe wëllen.",
-    "t": 562.74
+    "t": 584.66
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer et zesummefaassen, Tom. Wann ech nolauschteren, wat soll ech mathuelen?",
-    "t": 566.01
+    "t": 587.93
    },
    {
     "speaker": "Tom",
     "text": "Dräi Saachen. Als éischt — wann s du, oder een, dee s du kenns, e Computer brauch a sech en net leeschte kann, an s du zu Lëtzebuerg mat engem nidderegen Akommes oder als Flüchtling wunns — et gëtt Hëllef. E gratis, funktionéierende Computer.",
-    "t": 570.01
+    "t": 591.93
    },
    {
     "speaker": "Anna",
     "text": "E gratis Computer.",
-    "t": 582.24
+    "t": 604.16
    },
    {
     "speaker": "Tom",
     "text": "Zweetens — wann s du de Computer hues, mä net de Selbstvertrauen, da gëtt et gratis Coursen, an eng Open Classroom, an déi een all Freideg erakomme kann. Du bass ni ze al, oder ze nei, fir ze léieren.",
-    "t": 583.71
+    "t": 605.63
    },
    {
     "speaker": "Anna",
     "text": "An drëttens?",
-    "t": 593.28
+    "t": 615.2
    },
    {
     "speaker": "Tom",
     "text": "Drëttens — wann s du eng vun de Gléckleche bass, déi alles huet, wat se brauchen, kanns du Deel dovun sinn. Spend deen alen Apparat. Gëff e bësse Geld. Oder gëff deng Zäit. Maach aus denger iwwregdeche Technologie eng Chance fir een aneren.",
-    "t": 594.45
+    "t": 616.37
    },
    {
     "speaker": "Anna",
     "text": "Eng kuerz Zesummefaassung zum Schluss?",
-    "t": 606.27
+    "t": 628.19
    },
    {
     "speaker": "Tom",
     "text": "Gär. Digital Inclusion ass eng Lëtzebuerger asbl, déi déi digital Kluft op dräi Weeër zoumécht. Si gëtt gratis, renovéiert Computeren un d'Leit mat nidderegem Akommes an un d'Flüchtlingen — méi wéi zéngdausend bis elo. Si léiert digital Fäegkeeten, mat gratis Coursen a villen Sproochen an enger Open Classroom, an déi een all Freideg erakomme kann. A si schützt d'Ëmwelt, andeems se alen Apparater en zweet Liewe gëtt. Alles ass op digital-inclusion.lu, an hir Dier zu Bonnevoie ass all Wochendag op.",
-    "t": 608.07
+    "t": 629.99
    },
    {
     "speaker": "Anna",
     "text": "An d'Botschaft fir haut?",
-    "t": 637.37
+    "t": 659.29
    },
    {
     "speaker": "Tom",
     "text": "Dass an enger Welt, déi op Bildschiermer leeft, keen hannerlooss soll ginn, well him e Computer feelt oder e bësse Hëllef fir en ze benotzen. E gespenten Laptop, e gedëllege Léierer, en oppenen Atelier — kleng Saachen, déi Liewen änneren.",
-    "t": 639.07
+    "t": 660.99
    },
    {
     "speaker": "Anna",
     "text": "Also... egal ob s du Hëllef brauchs, oder s du se gär ginn häss — denk un den Numm. Digital Inclusion. digital-inclusion.lu.",
-    "t": 650.98
+    "t": 672.9
    },
    {
     "speaker": "Tom",
     "text": "E Computer, an d'Fäegkeeten fir en ze benotzen. Dat ass eng Dier an déi modern Welt — op fir jiddereen.",
-    "t": 659.03
+    "t": 680.95
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer Digital Inclusion. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 664.27
+    "t": 686.19
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 707.7
+    "t": 729.62
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 710.9
+    "t": 732.82
    }
   ],
   "audio_fr": "podcast_digitalinclusion_fr.mp3",
-  "duration_fr": 735.69,
+  "duration_fr": 754.96,
   "title_fr": "Digital Inclusion – un ordinateur, et les compétences pour s'en servir",
   "description_fr": "Digital Inclusion a.s.b.l. est une association sans but lucratif luxembourgeoise (fondée en 2016) qui comble la fracture numérique de trois façons : elle offre des ordinateurs reconditionnés gratuits aux personnes à faibles revenus et aux réfugiés (plus de 10 000 distribués à ce jour), elle enseigne les compétences numériques avec des cours gratuits dans de nombreuses langues et un Open Classroom en accès libre tous les vendredis, et elle protège l'environnement en donnant une seconde vie aux appareils reçus en don. Tout est sur digital-inclusion.lu ; le bureau à Bonnevoie est ouvert tous les jours de la semaine.",
   "topics_fr": [
@@ -14107,7 +14152,7 @@ const EPISODES = [
      "Seulement les étudiants inscrits au Luxembourg, qui doivent présenter leur carte d'étudiant et une lettre de recommandation de leur professeur"
     ],
     "correct": 1,
-    "explanation": "Vous devez vivre au Luxembourg et remplir une condition – par exemple votre ménage perçoit l'allocation de vie chère (AVC), ou vous êtes demandeur d'asile ou sous protection temporaire. Consultez digital-inclusion.lu pour les conditions complètes et actuelles et les délais d'attente."
+    "explanation": "Vous devez vivre au Luxembourg et remplir une condition – par exemple votre ménage perçoit l'allocation de vie chère (AVC), vous bénéficiez d'un règlement collectif des dettes, vous avez un titre de séjour « vie privée », ou vous êtes demandeur d'asile, mineur non accompagné ou sous protection temporaire. Chaque membre du ménage âgé de 12 ans ou plus peut recevoir son propre ordinateur, tant que les dons le permettent. Consultez digital-inclusion.lu pour les conditions et le délai d'attente actuels."
    },
    {
     "text": "Qu'est-ce que l'« Open Classroom » ?",
@@ -14133,7 +14178,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_digitalinclusion_de.mp3",
-  "duration_de": 833.46,
+  "duration_de": 853.45,
   "title_de": "Digital Inclusion – ein Computer, und das Können, ihn zu nutzen",
   "description_de": "Digital Inclusion a.s.b.l. ist ein gemeinnütziger Verein in Luxemburg (2016 gegründet), der die digitale Kluft auf drei Arten schließt: Er gibt kostenlose, wiederaufbereitete Computer an Menschen mit niedrigem Einkommen und an Flüchtlinge (bisher über 10 000 verteilt), er vermittelt digitale Kenntnisse mit kostenlosen Kursen in vielen Sprachen und einem offenen Open Classroom an jedem Freitag, und er schützt die Umwelt, indem er gespendeten Geräten ein zweites Leben gibt. Alles steht auf digital-inclusion.lu; das Büro in Bonnevoie ist an jedem Wochentag geöffnet.",
   "topics_de": [
@@ -14178,7 +14223,7 @@ const EPISODES = [
      "Nur Studierende an Hochschulen in Luxemburg, die ihren Studentenausweis und einen Empfehlungsbrief ihres Professors vorlegen"
     ],
     "correct": 1,
-    "explanation": "Sie müssen in Luxemburg leben und eine Bedingung erfüllen – zum Beispiel bezieht Ihr Haushalt die Teuerungszulage (allocation de vie chère), oder Sie sind Asylsuchender oder stehen unter vorübergehendem Schutz. Die vollständigen, aktuellen Bedingungen und Wartezeiten finden Sie auf digital-inclusion.lu."
+    "explanation": "Sie müssen in Luxemburg leben und eine Bedingung erfüllen – zum Beispiel bezieht Ihr Haushalt die Teuerungszulage (allocation de vie chère), Sie sind in einem kollektiven Schuldenregulierungsverfahren, Sie haben eine Aufenthaltserlaubnis „Privatleben“ (vie privée), oder Sie sind Asylsuchender, unbegleiteter Minderjähriger oder stehen unter vorübergehendem Schutz. Jedes Haushaltsmitglied ab 12 Jahren kann einen eigenen Computer bekommen, solange die Spenden reichen. Die aktuellen Bedingungen und die Wartezeit finden Sie auf digital-inclusion.lu."
    },
    {
     "text": "Was ist das „Open Classroom“?",

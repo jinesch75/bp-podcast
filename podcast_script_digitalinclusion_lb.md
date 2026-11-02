@@ -44,7 +44,7 @@
 
 **ANNA:** Zéngdausend Computeren! Dat sinn zéngdausend Leit, oder Familljen, déi online bruecht goufen.
 
-**TOM:** An et wiisst weider. An engem eenzege rezenten Joer hunn d'Benevoll iwwer zweedausend Maschinne renovéiert. Dëst Joer, 2026, feiert d'Organisatioun souguer hiren zéngte Gebuertsdag.
+**TOM:** An et wiisst weider. Dëst Joer, 2026, feiert d'Organisatioun souguer hiren zéngte Gebuertsdag.
 
 **ANNA:** Zéng Joer vun dëser Aarbecht. Elo déi praktesch Fro, déi jidderee sech denkt — wien kann tatsächlech esou e Computer kréien?
 
@@ -52,15 +52,15 @@
 
 **ANNA:** Wat sinn déi?
 
-**TOM:** Déi haaptsächlech sinn dës. Däin Haushalt kritt d'allocation de vie chère (AVC). Oder du bass e Flüchtling — en Asylsicher, eng Persoun ënner temporärem Schutz, oder e mannerjäregen Onbegleeten. Et ginn nach e puer aner Fäll, also kuck um Site, ob s du berechtegt bass.
+**TOM:** Déi haaptsächlech sinn dës. Däin Haushalt kritt d'allocation de vie chère (AVC). Oder du bass an enger Prozedur vu kollektiver Scholdenreegelung. Oder du hues eng Openthaltserlaabnes an der Kategorie "vie privée". Oder du bass e Flüchtling — en Asylsicher, eng Persoun ënner temporärem Schutz, oder e mannerjäregen Onbegleeten. Kuck um Site, ob s du berechtegt bass.
 
 **ANNA:** Also riicht et sech wierklech un d'Leit mat engem nidderegen Akommes, an un d'Flüchtlingen an d'Neiukömmlingen.
 
-**TOM:** Genau — d'Leit, fir déi e Computer ze kafen e richtege Kampf wier. Meeschtens ass et e Laptop pro Haushalt. Mä déi aner Membere vun der Famill kënnen dacks och en zousätzleche Computer froen.
+**TOM:** Genau — d'Leit, fir déi e Computer ze kafen e richtege Kampf wier. A zënter September 2025 kann all Member vum Haushalt vun zwielef Joer un säin eegene Computer kréien — soulaang et genuch Done gëtt.
 
-**ANNA:** Also kéinten den Teenager, deen Hausaufgaben mécht, an den Elterendeel, deen Aarbecht sicht, all een e Computer kréien?
+**ANNA:** Also kënnen den Teenager, deen Hausaufgaben mécht, an den Elterendeel, deen Aarbecht sicht, all een e Computer kréien?
 
-**TOM:** Dacks, jo. D'Reegelen änneren sech vun Zäit zu Zäit, dofir erkläert de Site déi aktuell — a wéi laang s du eventuell muss waarden.
+**TOM:** Jo. All Erwuessenen mécht seng eege Demande, an en Elterendeel mécht d'Demande fir d'Teenager. An de Site weist ëmmer déi aktuell Waardezäit.
 
 **ANNA:** Gutt ze wëssen. A wéi eng Zort Computer kriss de tatsächlech? Eppes Aalt, Futttes?
 
@@ -80,7 +80,7 @@
 
 **ANNA:** Einfach erakommen? Also wann ech festsëtzen — ech kann iergendwou net aloggen, ech verstinn eng E-Mail net, e Formulaire funktionéiert net...
 
-**TOM:** ...da bréngs de en e Freideg Moies eran, an een setzt sech bei dech an hëlleft der. Kee Rendez-vous, gratis. Et ass op vun hallwer zéng bis hallwer zwee.
+**TOM:** ...da bréngs de en e Freideg Moies eran, an een setzt sech bei dech an hëlleft der. Kee Rendez-vous, gratis. Et ass op vun hallwer zéng bis hallwer zwee. Si hëllefen der souguer mat LuxTrust a MyGuichet — an du kanns e puer Säite gratis scannen an drécken.
 
 **ANNA:** Dat ass wonnerbar. Esou vill Leit brauchen einfach eng gedëlleg Persoun, déi sech zéng Minutten niewent si setzt.
 
@@ -112,7 +112,7 @@
 
 **ANNA:** Eng ganz reell Situatioun. Wéi ännert Digital Inclusion hir Geschicht?
 
-**TOM:** Schrëtt fir Schrëtt. Als éischt, well si e Flüchtling ass, dee zu Lëtzebuerg wunnt, ass si berechtegt. Si bewerbt sech — an e bësse méi spéit kritt si e funktionéierende Laptop. A si ka froen, ob hir zwee Teenager och e Computer fir hir Schoulaarbecht kréie kënnen.
+**TOM:** Schrëtt fir Schrëtt. Als éischt, well si e Flüchtling ass, dee zu Lëtzebuerg wunnt, ass si berechtegt. Si bewerbt sech — an e bësse méi spéit kritt si e funktionéierende Laptop. A si kann och fir hir zwee Teenager eng Demande maachen, een nom aneren, fir datt jidderee vun hinnen e Computer fir d'Schoul kritt.
 
 **ANNA:** Also ass op eemol déi ganz Famill online.
 
@@ -132,7 +132,7 @@
 
 **ANNA:** Also kéint deen alen Laptop am Schaaf zu engem säi seng Liewensliny ginn.
 
-**TOM:** Wuertwiertlech. Maach der just keng Suergen — si këmmere sech sécher ëm d'Botzen vun den Donnéeën. Du kanns och Geld ginn, fir d'Käschten ze decken. An du kanns als Benevoll matmaachen — am Reparaturatelier, oder beim Léieren hëllefen.
+**TOM:** Wuertwiertlech. Maach der keng Suergen ëm deng Donnéeën — bei engem Laptop läsche si se sécher, oder si ginn der souguer deng Festplack zréck. Bei engem Smartphone oder Tablet maach einfach virdrun e Reset op d'Fabréckastellungen. Du kanns och Geld ginn, fir d'Käschten ze decken. An du kanns als Benevoll matmaachen — am Reparaturatelier, oder beim Léieren hëllefen.
 
 **ANNA:** A Firmen? Si mussen jo vill al Material hunn, wa se sech moderniséieren.
 

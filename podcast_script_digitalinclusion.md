@@ -44,7 +44,7 @@
 
 **ANNA:** Ten thousand computers! That's ten thousand people, or families, brought online.
 
-**TOM:** And it keeps growing. In a single recent year, volunteers refurbished over two thousand machines. This year, twenty twenty-six, the organisation is even celebrating its tenth anniversary.
+**TOM:** And it keeps growing. This year, twenty twenty-six, the organisation is even celebrating its tenth anniversary.
 
 **ANNA:** Ten years of this work. Now, the practical question everyone's thinking — who can actually get one of these computers?
 
@@ -52,15 +52,15 @@
 
 **ANNA:** What are they?
 
-**TOM:** The main ones are these. Your household receives the cost-of-living allowance — the allocation de vie chère. Or you're a refugee — an asylum seeker, a person under temporary protection, or an unaccompanied minor. There are a few other cases too, so check the website to see if you qualify.
+**TOM:** The main ones are these. Your household receives the cost-of-living allowance — the allocation de vie chère. Or you're in a collective debt settlement procedure. Or you have a residence permit in the 'private life' category. Or you're a refugee — an asylum seeker, a person under temporary protection, or an unaccompanied minor. Check the website to see if you qualify.
 
 **ANNA:** So it's really aimed at people on a low income, and at refugees and newcomers.
 
-**TOM:** Exactly — the people for whom buying a computer would be a real struggle. Usually, it's one laptop per household. But other members of the family can often ask for an extra computer too.
+**TOM:** Exactly — the people for whom buying a computer would be a real struggle. And since September 2025, every member of the household aged twelve or older can get their own computer — as long as there are enough donations.
 
-**ANNA:** So the teenager doing homework, and the parent looking for work, may each get a machine?
+**ANNA:** So the teenager doing homework, and the parent looking for work, can each get a machine?
 
-**TOM:** Often, yes. The rules change from time to time, so the website explains the latest ones — and how long you might have to wait.
+**TOM:** Yes. Each adult applies for themselves, and a parent applies for the teenagers. And the website always shows the current waiting time.
 
 **ANNA:** Good to know. And what kind of computer do you actually get? Some old, broken thing?
 
@@ -80,7 +80,7 @@
 
 **ANNA:** Just walk in? So if I'm stuck — I can't log in somewhere, I don't understand an email, a form won't work...
 
-**TOM:** ...you bring it in on a Friday morning, and someone sits with you and helps. No appointment, no charge. It's open from half past nine to half past one.
+**TOM:** ...you bring it in on a Friday morning, and someone sits with you and helps. No appointment, no charge. It's open from half past nine to half past one. They'll even help you with LuxTrust and MyGuichet — and you can scan and print a few pages for free.
 
 **ANNA:** That's wonderful. So many people just need a patient person to sit beside them for ten minutes.
 
@@ -112,7 +112,7 @@
 
 **ANNA:** A very real situation. How does Digital Inclusion change her story?
 
-**TOM:** Step by step. First, because she's a refugee living in Luxembourg, she's eligible. She applies — and some time later, she receives a working laptop. And she can ask whether her two teenagers can get a computer for their schoolwork too.
+**TOM:** Step by step. First, because she's a refugee living in Luxembourg, she's eligible. She applies — and some time later, she receives a working laptop. And she can apply for her two teenagers too, one after the other, so each of them gets a computer for school.
 
 **ANNA:** So suddenly the whole family is online.
 
@@ -132,7 +132,7 @@
 
 **ANNA:** So that old laptop in the cupboard could become someone's lifeline.
 
-**TOM:** Literally. Just wipe your worries — they handle the data cleaning securely. You can also give money, to help cover the costs. And you can volunteer — in the repair workshop, or helping to teach.
+**TOM:** Literally. Don't worry about your data — for a laptop, they erase it securely, or they can even give you back your hard disk. For a smartphone or tablet, just do a factory reset before you bring it. You can also give money, to help cover the costs. And you can volunteer — in the repair workshop, or helping to teach.
 
 **ANNA:** And companies? They must have lots of old equipment when they upgrade.
 
@@ -182,4 +182,4 @@
 
 ---
 
-*Sources: digital-inclusion.lu (Digital Inclusion a.s.b.l.), including the "Our goals" and "How to apply for a free second-hand computer" pages. Digital Inclusion is a Luxembourg non-profit founded in 2016, supported since 2022 by the Ministry of Family. Its three goals: make IT accessible to all, promote social inclusion through technology, and act for the environment by re-using and repairing donated equipment. Figures since 2016 (as published on the site, updated 03.03.2026): 10,507 computers and 1,466 smartphones distributed, 5,822 class participants. Free second-hand computers go to people living in Luxembourg who meet one of the conditions — for example households receiving the cost-of-living allowance (allocation de vie chère), asylum seekers and beneficiaries of temporary protection; unaccompanied minors apply through their social worker. When checked on 30.09.2026, the site's pages differed on further cases, the number of computers per household and waiting times — check with Digital Inclusion for the current conditions. Office: 1, Dernier Sol, Bonnevoie, L-2543 Luxembourg; open weekdays 9:30–17:30; walk-in "Open Classroom" every Friday 9:30–13:30. General information only — see digital-inclusion.lu for current details and conditions.*
+*Sources: digital-inclusion.lu (Digital Inclusion a.s.b.l.), including the "Our goals" and "How to apply for a free second-hand computer" pages. Digital Inclusion is a Luxembourg non-profit founded in 2016, supported since 2022 by the Ministry of Family. Its three goals: make IT accessible to all, promote social inclusion through technology, and act for the environment by re-using and repairing donated equipment. Figures since 2016 (as published on the site, updated 03.03.2026): 10,507 computers and 1,466 smartphones distributed, 5,822 class participants. Free second-hand computers go to people living in Luxembourg who meet one of the conditions — for example households receiving the cost-of-living allowance (allocation de vie chère), asylum seekers and beneficiaries of temporary protection; unaccompanied minors apply through their social worker. Rechecked 02.11.2026 on the main application page (menu): conditions also include a collective debt settlement procedure and a 'vie privée' residence permit; since 22.09.2025 each household member aged 12+ can get their own computer (as long as donations allow); adults apply for themselves, an adult applies for 12–18-year-olds. Smartphones/tablets must be factory-reset before donating. Open Classroom also helps with LuxTrust and MyGuichet.lu. Office: 1, Dernier Sol, Bonnevoie, L-2543 Luxembourg; open weekdays 9:30–17:30; walk-in "Open Classroom" every Friday 9:30–13:30. General information only — see digital-inclusion.lu for current details and conditions.*

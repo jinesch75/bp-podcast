@@ -44,7 +44,7 @@
 
 **ANNA:** Zehntausend Computer! Das sind zehntausend Menschen oder Familien, die online gebracht wurden.
 
-**TOM:** Und es wächst weiter. In einem einzigen jüngeren Jahr haben Freiwillige über zweitausend Geräte wiederaufbereitet. Dieses Jahr, zweitausendsechsundzwanzig, feiert die Organisation sogar ihr zehnjähriges Bestehen.
+**TOM:** Und es wächst weiter. Dieses Jahr, zweitausendsechsundzwanzig, feiert die Organisation sogar ihr zehnjähriges Bestehen.
 
 **ANNA:** Zehn Jahre dieser Arbeit. Jetzt die praktische Frage, die sich alle stellen — wer kann denn so einen Computer tatsächlich bekommen?
 
@@ -52,15 +52,15 @@
 
 **ANNA:** Welche sind das?
 
-**TOM:** Die wichtigsten sind diese. Ihr Haushalt bezieht die Teuerungszulage (allocation de vie chère). Oder Sie sind ein Flüchtling — ein Asylsuchender, eine Person unter vorübergehendem Schutz oder ein unbegleiteter Minderjähriger. Es gibt auch noch einige andere Fälle, schauen Sie also auf der Website nach, ob Sie berechtigt sind.
+**TOM:** Die wichtigsten sind diese. Ihr Haushalt bezieht die Teuerungszulage (allocation de vie chère). Oder Sie sind in einem kollektiven Schuldenregulierungsverfahren. Oder Sie haben eine Aufenthaltserlaubnis in der Kategorie „Privatleben". Oder Sie sind ein Flüchtling — ein Asylsuchender, eine Person unter vorübergehendem Schutz oder ein unbegleiteter Minderjähriger. Schauen Sie auf der Website nach, ob Sie berechtigt sind.
 
 **ANNA:** Es richtet sich also wirklich an Menschen mit geringem Einkommen und an Flüchtlinge und Neuankömmlinge.
 
-**TOM:** Genau — an die Menschen, für die der Kauf eines Computers eine echte Herausforderung wäre. Meistens gibt es einen Laptop pro Haushalt. Aber die anderen Familienmitglieder können oft auch einen zusätzlichen Computer beantragen.
+**TOM:** Genau — an die Menschen, für die der Kauf eines Computers eine echte Herausforderung wäre. Und seit September 2025 kann jedes Haushaltsmitglied ab zwölf Jahren einen eigenen Computer bekommen — solange es genug Spenden gibt.
 
 **ANNA:** Dann können also der Jugendliche, der seine Hausaufgaben macht, und der Elternteil, der Arbeit sucht, vielleicht jeweils ein Gerät bekommen?
 
-**TOM:** Oft, ja. Die Regeln ändern sich von Zeit zu Zeit, deshalb erklärt die Website die aktuellen — und wie lange Sie vielleicht warten müssen.
+**TOM:** Ja. Jeder Erwachsene stellt seinen eigenen Antrag, und ein Elternteil stellt den Antrag für die Teenager. Und die Website zeigt immer die aktuelle Wartezeit.
 
 **ANNA:** Gut zu wissen. Und was für einen Computer bekommt man eigentlich? Irgendein altes, kaputtes Ding?
 
@@ -80,7 +80,7 @@
 
 **ANNA:** Einfach hereinkommen? Wenn ich also nicht weiterweiß — ich kann mich irgendwo nicht anmelden, ich verstehe eine E-Mail nicht, ein Formular funktioniert nicht...
 
-**TOM:** ...dann bringen Sie es an einem Freitagvormittag mit, und jemand setzt sich mit Ihnen hin und hilft. Ohne Termin, kostenlos. Geöffnet ist von halb zehn bis halb zwei.
+**TOM:** ...dann bringen Sie es an einem Freitagvormittag mit, und jemand setzt sich mit Ihnen hin und hilft. Ohne Termin, kostenlos. Geöffnet ist von halb zehn bis halb zwei. Sie helfen Ihnen sogar mit LuxTrust und MyGuichet — und Sie können ein paar Seiten kostenlos scannen und drucken.
 
 **ANNA:** Das ist wunderbar. So viele Menschen brauchen einfach jemand Geduldigen, der sich zehn Minuten neben sie setzt.
 
@@ -112,7 +112,7 @@
 
 **ANNA:** Eine sehr reale Situation. Wie verändert Digital Inclusion ihre Geschichte?
 
-**TOM:** Schritt für Schritt. Erstens, weil sie als Flüchtling in Luxemburg lebt, ist sie berechtigt. Sie stellt einen Antrag — und einige Zeit später erhält sie einen funktionierenden Laptop. Und sie kann fragen, ob auch ihre beiden Teenager einen Computer für ihre Schularbeiten bekommen können.
+**TOM:** Schritt für Schritt. Erstens, weil sie als Flüchtling in Luxemburg lebt, ist sie berechtigt. Sie stellt einen Antrag — und einige Zeit später erhält sie einen funktionierenden Laptop. Und sie kann auch für ihre beiden Teenager einen Antrag stellen, einen nach dem anderen, damit jeder einen Computer für die Schule bekommt.
 
 **ANNA:** Plötzlich ist also die ganze Familie online.
 
@@ -132,7 +132,7 @@
 
 **ANNA:** Dieser alte Laptop im Schrank könnte also zur Lebensader für jemanden werden.
 
-**TOM:** Im wahrsten Sinne. Machen Sie sich keine Sorgen — sie kümmern sich sicher um die Datenlöschung. Sie können auch Geld geben, um die Kosten mitzudecken. Und Sie können sich freiwillig engagieren — in der Reparaturwerkstatt oder beim Unterrichten.
+**TOM:** Im wahrsten Sinne. Machen Sie sich keine Sorgen um Ihre Daten — bei einem Laptop löschen sie sie sicher, oder sie geben Ihnen sogar Ihre Festplatte zurück. Bei einem Smartphone oder Tablet machen Sie einfach vorher einen Werksreset. Sie können auch Geld geben, um die Kosten mitzudecken. Und Sie können sich freiwillig engagieren — in der Reparaturwerkstatt oder beim Unterrichten.
 
 **ANNA:** Und Firmen? Die haben bestimmt viele alte Geräte, wenn sie aufrüsten.
 

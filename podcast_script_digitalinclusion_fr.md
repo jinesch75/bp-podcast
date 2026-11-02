@@ -44,7 +44,7 @@
 
 **ANNA :** Dix mille ordinateurs ! Ça fait dix mille personnes, ou familles, connectées.
 
-**TOM :** Et ça ne cesse de grandir. En une seule année récente, les bénévoles ont reconditionné plus de deux mille machines. Cette année, deux mille vingt-six, l'organisation fête même son dixième anniversaire.
+**TOM :** Et ça ne cesse de grandir. Cette année, deux mille vingt-six, l'organisation fête même son dixième anniversaire.
 
 **ANNA :** Dix ans de ce travail. Maintenant, la question pratique que tout le monde se pose — qui peut réellement obtenir un de ces ordinateurs ?
 
@@ -52,15 +52,15 @@
 
 **ANNA :** Lesquelles ?
 
-**TOM :** Les principales sont les suivantes. Votre ménage reçoit l'allocation de vie chère — l'AVC. Ou vous êtes réfugié — demandeur d'asile, personne sous protection temporaire, ou mineur non accompagné. Il existe aussi quelques autres cas, alors vérifiez sur le site si vous y avez droit.
+**TOM :** Les principales sont les suivantes. Votre ménage reçoit l'allocation de vie chère — l'AVC. Ou vous bénéficiez d'une procédure de règlement collectif des dettes. Ou vous avez un titre de séjour « vie privée ». Ou vous êtes réfugié — demandeur d'asile, personne sous protection temporaire, ou mineur non accompagné. Vérifiez sur le site si vous y avez droit.
 
 **ANNA :** Donc c'est vraiment destiné aux personnes à faibles revenus, et aux réfugiés et nouveaux arrivants.
 
-**TOM :** Exactement — les personnes pour qui acheter un ordinateur serait une vraie difficulté. En général, c'est un ordinateur portable par ménage. Mais les autres membres de la famille peuvent souvent demander un ordinateur en plus.
+**TOM :** Exactement — les personnes pour qui acheter un ordinateur serait une vraie difficulté. Et depuis septembre 2025, chaque membre du ménage âgé de douze ans ou plus peut recevoir son propre ordinateur — tant qu'il y a assez de dons.
 
-**ANNA :** Donc l'adolescent qui fait ses devoirs, et le parent qui cherche du travail, peuvent peut-être avoir chacun une machine ?
+**ANNA :** Donc l'adolescent qui fait ses devoirs, et le parent qui cherche du travail, peuvent avoir chacun une machine ?
 
-**TOM :** Souvent, oui. Les règles changent de temps en temps, donc le site explique les plus récentes — et combien de temps vous devrez peut-être attendre.
+**TOM :** Oui. Chaque adulte fait sa propre demande, et un parent fait la demande pour les adolescents. Et le site indique toujours le délai d'attente actuel.
 
 **ANNA :** Bon à savoir. Et quel genre d'ordinateur reçoit-on, en fait ? Un vieux truc cassé ?
 
@@ -80,7 +80,7 @@
 
 **ANNA :** On peut simplement venir ? Donc si je suis bloquée — je n'arrive pas à me connecter quelque part, je ne comprends pas un e-mail, un formulaire ne marche pas...
 
-**TOM :** ...vous l'apportez un vendredi matin, et quelqu'un s'assoit avec vous et vous aide. Sans rendez-vous, gratuitement. C'est ouvert de neuf heures et demie à une heure et demie.
+**TOM :** ...vous l'apportez un vendredi matin, et quelqu'un s'assoit avec vous et vous aide. Sans rendez-vous, gratuitement. C'est ouvert de neuf heures et demie à une heure et demie. Ils vous aident même avec LuxTrust et MyGuichet — et vous pouvez scanner et imprimer quelques pages gratuitement.
 
 **ANNA :** C'est merveilleux. Tant de personnes ont juste besoin de quelqu'un de patient assis à côté d'elles pendant dix minutes.
 
@@ -112,7 +112,7 @@
 
 **ANNA :** Une situation très réelle. Comment Digital Inclusion change-t-il son histoire ?
 
-**TOM :** Étape par étape. D'abord, parce qu'elle est réfugiée et qu'elle vit au Luxembourg, elle est éligible. Elle fait une demande — et quelque temps plus tard, elle reçoit un ordinateur portable qui fonctionne. Et elle peut demander si ses deux adolescents peuvent aussi obtenir un ordinateur pour leurs devoirs.
+**TOM :** Étape par étape. D'abord, parce qu'elle est réfugiée et qu'elle vit au Luxembourg, elle est éligible. Elle fait une demande — et quelque temps plus tard, elle reçoit un ordinateur portable qui fonctionne. Et elle peut aussi faire une demande pour ses deux adolescents, l'un après l'autre, pour que chacun ait un ordinateur pour l'école.
 
 **ANNA :** Donc, d'un coup, toute la famille est connectée.
 
@@ -132,7 +132,7 @@
 
 **ANNA :** Donc ce vieil ordinateur portable dans le placard pourrait devenir la bouée de sauvetage de quelqu'un.
 
-**TOM :** Littéralement. Oubliez vos inquiétudes — ils s'occupent de l'effacement des données en toute sécurité. Vous pouvez aussi donner de l'argent, pour aider à couvrir les frais. Et vous pouvez devenir bénévole — dans l'atelier de réparation, ou pour aider à enseigner.
+**TOM :** Littéralement. Ne vous inquiétez pas pour vos données — pour un ordinateur portable, ils les effacent en toute sécurité, ou ils peuvent même vous rendre votre disque dur. Pour un smartphone ou une tablette, faites simplement une réinitialisation d'usine avant de l'apporter. Vous pouvez aussi donner de l'argent, pour aider à couvrir les frais. Et vous pouvez devenir bénévole — dans l'atelier de réparation, ou pour aider à enseigner.
 
 **ANNA :** Et les entreprises ? Elles doivent avoir beaucoup de vieux matériel quand elles renouvellent leur équipement.
 
