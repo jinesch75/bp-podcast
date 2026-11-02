@@ -52,7 +52,7 @@
 
 **ANNA:** Okay — "Live here". Ech rode mol, dat geet ëm den Alldag?
 
-**TOM:** Genau. "Live here" geet ëm d'Liewensqualitéit. Wunnen, Famill, Schoul, Gesondheet, Kultur, Fräizäit — an d'multikulturellt, méisproochegt Ëmfeld. Well e Job ass nëmmen d'Halschent vun engem Liewen. Déi aner Halschent ass — wäert meng Famill heihei glécklech sinn?
+**TOM:** Genau. "Live here" geet ëm d'Liewensqualitéit. Sécherheet a Stabilitéit, Gesondheet, Schoul, Familljeliewen, Kultur a Fräizäit — an d'multikulturellt, méisproochegt Ëmfeld. Well e Job ass nëmmen d'Halschent vun engem Liewen. Déi aner Halschent ass — wäert meng Famill heihei glécklech sinn?
 
 **ANNA:** Dat ass esou wichteg. D'Leit plënneren net nëmme fir e Job. Si plënnere fir e Liewen.
 
@@ -72,19 +72,19 @@
 
 **ANNA:** ADEM — dat ass déi national Aarbechtsagentur, déi s du erwäänt hues.
 
-**TOM:** Genau. ADEM ass de Lëtzebuerger ëffentlechen Aarbechtsservice. Also sinn d'Jobë net zoufälleg — si kommen iwwer déi offiziell Agence. D'Annoncen ginn all Dag aktualiséiert, an du kanns e Profil uleeën an dech direkt op fräi Stellen umellen.
+**TOM:** Genau. ADEM ass de Lëtzebuerger ëffentlechen Aarbechtsservice. Also sinn d'Jobë net zoufälleg — si kommen iwwer déi offiziell Agence. D'Annoncen ginn all Dag aktualiséiert, an du kanns e Profil uleeën an dech direkt op fräi Stellen umellen. Et konzentréiert sech op d'Beruffer, wou Lëtzebuerg am meeschte Leit brauch. Fir Jobs an allen anere Secteuren verweist de Site op den europäesche Jobportal EURES.
 
 **ANNA:** A kuckt iwwerhaapt iergendeen op déi Profiller? Oder verschwannen se just an enger Datebank?
 
-**TOM:** Si sinn echt. Tatsächlech huet d'Plattform schonn ongeféier eelefdausend Kandidaten aus der ganzer Welt, virausgewielt vun der ADEM. Also ass et e lieweg Pool, deen d'Patronen wierklech notzen, fir Leit ze fannen.
+**TOM:** Si sinn echt. All Profil gëtt vun der ADEM virdrun iwwerpréift, an d'Patronen duerchsichen d'Datebank a kontaktéieren d'Kandidaten direkt. Also ass et e lieweg Pool, deen d'Patronen wierklech notzen, fir Leit ze fannen.
 
-**ANNA:** Eelefdausend. Also ass et e liewege Maart, an net en eidele Schwaarzbriet.
+**ANNA:** Vun der ADEM iwwerpréift. Also ass et e liewege Maart, an net en eidele Schwaarzbriet.
 
 **TOM:** E liewege Maart. Patronen, déi Kompetenzen sichen, a kompetent Leit, déi eng Zukunft sichen — déi sech op enger Plaz begéinen.
 
 **ANNA:** Du hues erwäänt, datt Lëtzebuerg e Mangel a gewësse Beruffer huet. Hëlleft d'Portal speziell domat?
 
-**TOM:** Jo — an dat ass wierklech nëtzlech ze wëssen. Lëtzebuerg publizéiert eng Lëscht vun "Mangelberuffer" — d'Jobë, wou d'Land am meeschte Leit brauch. A fir Fachleit vun ausserhalb vun der Europäescher Unioun kann d'Schaffen an esou engem Mangelberuff méi séier Immigratiounsprozeduren bedeiten.
+**TOM:** Jo — an dat ass wierklech nëtzlech ze wëssen. Lëtzebuerg publizéiert eng Lëscht vun "Mangelberuffer" — d'Jobë, wou d'Land am meeschte Leit brauch. A fir Fachleit vun ausserhalb vun der Europäescher Unioun kann d'Schaffen an esou engem Mangelberuff méi séier Immigratiounsprozeduren bedeiten. De Patron muss net fir d'éischt hei am Land no engem sichen, an esou gëtt d'ADEM bannent e puer Deeg gréng Luucht.
 
 **ANNA:** Also wann deng Kompetenz eng ass, déi d'Land dréngend brauch, mécht sech d'Dier méi séier op.
 
@@ -112,13 +112,13 @@
 
 **ANNA:** An et ënnermauert dat mat Rankingen, oder net?
 
-**TOM:** Dat mécht et, an et nennt d'Quellen. Zum Beispill — laut dem Legatum Prosperity Index ass Lëtzebuerg als dat séchersst Land fir Expats op der Nummer eent gerankt. Laut dem IMD World Talent Ranking ass et weltwäit op der zweeter Plaz, fir Talenter unzéien. An et weist op eng opfälleg Tatsaach iwwer d'Aarbechtskräften hin.
+**TOM:** Dat mécht et, an et nennt d'Quellen. Zum Beispill — de Legatum Prosperity Index zielt Lëtzebuerg zu de sécherste Länner fir Expats. An den IMD World Talent Ranking zielt et weltwäit zu de beschten, fir Talenter unzéien. An et weist op eng opfälleg Tatsaach iwwer d'Aarbechtskräften hin.
 
 **ANNA:** Déi wier?
 
-**TOM:** Datt ongeféier véieransiwwenzeg Prozent vun de Lëtzebuerger Aarbechtskräften entweder auslännesch Staatsbierger oder Grenzgänger sinn. A méi wéi zweehonnertaachtanzwanzegdausend Leit iwwerschreiden all Dag eng Grenz, fir heihei ze schaffen.
+**TOM:** Datt ongeféier dräi Véierel vun de Lëtzebuerger Aarbechtskräften entweder auslännesch Staatsbierger oder Grenzgänger sinn. A méi wéi zweehonnertdausend Leit iwwerschreiden all Dag eng Grenz, fir heihei ze schaffen.
 
-**ANNA:** Véieransiwwenzeg Prozent. Also ass d'Schaffen an engem internationalen Team heihei net d'Ausnam — et ass komplett normal.
+**ANNA:** Dräi Véierel. Also ass d'Schaffen an engem internationalen Team heihei net d'Ausnam — et ass komplett normal.
 
 **TOM:** Et ass déi alldeeglech Realitéit. D'Leit zu Lëtzebuerg schwätzen am Duerchschnëtt e puer Sproochen — Lëtzebuergesch, Franséisch, Däitsch, a vill Englesch op der Aarbecht. Fir en internationalen Newcomer ass dat berouegend. Du bass net deen Aussergewéinlechen. Jiddereen ass vu woanescht hierkomm.
 

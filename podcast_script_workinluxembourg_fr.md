@@ -52,7 +52,7 @@
 
 **ANNA :** D'accord — « Live here ». Je devine que ça parle de la vie de tous les jours ?
 
-**TOM :** Tout à fait. « Live here » concerne la qualité de vie. Le logement, la famille, l'éducation, la santé, la culture, les loisirs — et l'environnement multiculturel et multilingue. Parce qu'un emploi, ce n'est que la moitié d'une vie. L'autre moitié, c'est — est-ce que ma famille sera heureuse ici ?
+**TOM :** Tout à fait. « Live here » concerne la qualité de vie. La sécurité et la stabilité, la santé, l'éducation, la vie de famille, la culture et les loisirs — et l'environnement multiculturel et multilingue. Parce qu'un emploi, ce n'est que la moitié d'une vie. L'autre moitié, c'est — est-ce que ma famille sera heureuse ici ?
 
 **ANNA :** C'est tellement important. Les gens ne déménagent pas seulement pour un emploi. Ils déménagent pour une vie.
 
@@ -72,19 +72,19 @@
 
 **ANNA :** L'ADEM — c'est l'agence nationale pour l'emploi dont tu parlais.
 
-**TOM :** Exactement. L'ADEM est le service public de l'emploi du Luxembourg. Donc les offres ne sont pas prises au hasard — elles passent par l'agence officielle. Les annonces sont mises à jour chaque jour, et on peut créer un profil et postuler directement aux offres.
+**TOM :** Exactement. L'ADEM est le service public de l'emploi du Luxembourg. Donc les offres ne sont pas prises au hasard — elles passent par l'agence officielle. Les annonces sont mises à jour chaque jour, et on peut créer un profil et postuler directement aux offres. Il se concentre sur les métiers où le Luxembourg a le plus besoin de personnes. Pour les emplois dans tous les autres secteurs, le site vous renvoie vers le portail européen de l'emploi, EURES.
 
 **ANNA :** Et est-ce que quelqu'un regarde vraiment ces profils ? Ou est-ce qu'ils disparaissent simplement dans une base de données ?
 
-**TOM :** Ils sont bien réels. En fait, la plateforme compte déjà environ onze mille candidats venus du monde entier, présélectionnés par l'ADEM. C'est donc un vivier actif que les employeurs utilisent vraiment pour trouver des personnes.
+**TOM :** Ils sont bien réels. Chaque profil est présélectionné par l'ADEM, et les employeurs consultent la base de données et contactent directement les candidats. C'est donc un vivier actif que les employeurs utilisent vraiment pour trouver des personnes.
 
-**ANNA :** Onze mille. Donc c'est un marché vivant, pas un tableau d'affichage vide.
+**ANNA :** Présélectionnés par l'ADEM. Donc c'est un marché vivant, pas un tableau d'affichage vide.
 
 **TOM :** Un marché vivant. Des employeurs qui cherchent des compétences, et des personnes qualifiées qui cherchent un avenir — qui se rencontrent au même endroit.
 
 **ANNA :** Tu as mentionné que le Luxembourg manque de monde dans certains métiers. Est-ce que le portail aide pour cela en particulier ?
 
-**TOM :** Oui — et c'est vraiment utile à savoir. Le Luxembourg publie une liste des « métiers en pénurie » — les métiers où le pays a le plus besoin de personnes. Et pour les professionnels venus de l'extérieur de l'Union européenne, travailler dans l'un de ces métiers en tension peut vouloir dire des démarches d'immigration plus rapides.
+**TOM :** Oui — et c'est vraiment utile à savoir. Le Luxembourg publie une liste des « métiers en pénurie » — les métiers où le pays a le plus besoin de personnes. Et pour les professionnels venus de l'extérieur de l'Union européenne, travailler dans l'un de ces métiers en tension peut vouloir dire des démarches d'immigration plus rapides. L'employeur n'a pas d'abord à chercher quelqu'un sur place, donc l'ADEM donne son feu vert en quelques jours.
 
 **ANNA :** Donc si votre compétence fait partie de celles dont le pays a un besoin urgent, la porte s'ouvre plus vite.
 
@@ -112,13 +112,13 @@
 
 **ANNA :** Et il appuie tout cela avec des classements, n'est-ce pas ?
 
-**TOM :** Oui, et il cite les sources. Par exemple — selon le Legatum Prosperity Index, le Luxembourg est classé pays le plus sûr au monde pour les expatriés. Selon l'IMD World Talent Ranking, il est deuxième au monde pour attirer les talents. Et il souligne un fait frappant à propos de la population active.
+**TOM :** Oui, et il cite les sources. Par exemple — le Legatum Prosperity Index classe le Luxembourg parmi les pays les plus sûrs pour les expatriés. Et l'IMD World Talent Ranking le place parmi les meilleurs au monde pour attirer les talents. Et il souligne un fait frappant à propos de la population active.
 
 **ANNA :** Lequel ?
 
-**TOM :** Qu'environ soixante-quatorze pour cent de la population active du Luxembourg sont soit des ressortissants étrangers, soit des travailleurs frontaliers. Et plus de deux cent vingt-huit mille personnes franchissent une frontière chaque jour pour venir travailler ici.
+**TOM :** Qu'environ trois quarts de la population active du Luxembourg sont soit des ressortissants étrangers, soit des travailleurs frontaliers. Et plus de deux cent mille personnes franchissent une frontière chaque jour pour venir travailler ici.
 
-**ANNA :** Soixante-quatorze pour cent. Donc travailler dans une équipe internationale n'est pas l'exception ici — c'est tout à fait normal.
+**ANNA :** Trois quarts. Donc travailler dans une équipe internationale n'est pas l'exception ici — c'est tout à fait normal.
 
 **TOM :** C'est la réalité quotidienne. Les gens au Luxembourg parlent, en moyenne, plusieurs langues — le luxembourgeois, le français, l'allemand, et beaucoup d'anglais au travail. Pour un nouvel arrivant international, c'est rassurant. Vous n'êtes pas celui qui détonne. Tout le monde vient de quelque part.
 

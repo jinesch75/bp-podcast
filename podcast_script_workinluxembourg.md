@@ -52,7 +52,7 @@
 
 **ANNA:** Okay — "Live here". I'm guessing that's about everyday life?
 
-**TOM:** Precisely. "Live here" is about quality of life. Housing, family, education, healthcare, culture, leisure — and the multicultural, multilingual environment. Because a job is only half of a life. The other half is — will my family be happy here?
+**TOM:** Precisely. "Live here" is about quality of life. Safety and stability, healthcare, education, family life, culture and leisure — and the multicultural, multilingual environment. Because a job is only half of a life. The other half is — will my family be happy here?
 
 **ANNA:** That's so important. People don't just move for a job. They move for a life.
 
@@ -72,19 +72,19 @@
 
 **ANNA:** ADEM — that's the national employment agency you mentioned.
 
-**TOM:** Right. ADEM is Luxembourg's public employment service. So the jobs aren't random — they come through the official agency. The listings are updated daily, and you can create a profile and apply directly to vacancies.
+**TOM:** Right. ADEM is Luxembourg's public employment service. So the jobs aren't random — they come through the official agency. The listings are updated daily, and you can create a profile and apply directly to vacancies. It focuses on the professions where Luxembourg most needs people. For jobs in all other sectors, the site points you to the European job portal, EURES.
 
 **ANNA:** And does anyone actually look at those profiles? Or do they just disappear into a database?
 
-**TOM:** They're real. In fact, the platform already has around eleven thousand candidates from all over the world, pre-selected by ADEM. So it's an active pool that employers really use to find people.
+**TOM:** They're real. Every profile is pre-screened by ADEM, and employers search the database and contact candidates directly. So it's an active pool that employers really use to find people.
 
-**ANNA:** Eleven thousand. So it's a living marketplace, not an empty noticeboard.
+**ANNA:** Pre-screened by ADEM. So it's a living marketplace, not an empty noticeboard.
 
 **TOM:** A living marketplace. Employers looking for skills, and skilled people looking for a future — meeting in one place.
 
 **ANNA:** You mentioned that Luxembourg has shortages in certain jobs. Does the portal help with that specifically?
 
-**TOM:** Yes — and this is really useful to know. Luxembourg publishes a list of "shortage occupations" — the jobs where the country most needs people. And for professionals from outside the European Union, working in one of those shortage jobs can mean faster immigration procedures.
+**TOM:** Yes — and this is really useful to know. Luxembourg publishes a list of "shortage occupations" — the jobs where the country most needs people. And for professionals from outside the European Union, working in one of those shortage jobs can mean faster immigration procedures. The employer doesn't first have to look for someone locally, so ADEM gives the green light within a few days.
 
 **ANNA:** So if your skill is one the country urgently needs, the door opens more quickly.
 
@@ -112,13 +112,13 @@
 
 **ANNA:** And it backs these up with rankings, doesn't it?
 
-**TOM:** It does, and it names the sources. For example — according to the Legatum Prosperity Index, Luxembourg is ranked the number one safest country for expats. According to the IMD World Talent Ranking, it's second in the world for attracting talent. And it points out a striking fact about the workforce.
+**TOM:** It does, and it names the sources. For example — the Legatum Prosperity Index ranks Luxembourg among the safest countries for expats. And the IMD World Talent Ranking puts it among the very best in the world for attracting talent. And it points out a striking fact about the workforce.
 
 **ANNA:** Which is?
 
-**TOM:** That around seventy-four percent of Luxembourg's workforce are either foreign nationals or cross-border commuters. And more than two hundred and twenty-eight thousand people cross a border every day to work here.
+**TOM:** That around three quarters of Luxembourg's workforce are either foreign nationals or cross-border commuters. And more than two hundred thousand people cross a border every day to work here.
 
-**ANNA:** Seventy-four percent. So working in an international team isn't the exception here — it's completely normal.
+**ANNA:** Three quarters. So working in an international team isn't the exception here — it's completely normal.
 
 **TOM:** It's the everyday reality. People in Luxembourg speak, on average, several languages — Luxembourgish, French, German, and a lot of English at work. For an international newcomer, that's reassuring. You're not the odd one out. Everyone came from somewhere.
 
@@ -178,4 +178,4 @@
 
 ---
 
-*Sources: workinluxembourg.com (official "Work in Luxembourg" portal) and adem.public.lu. Work in Luxembourg is a government-led initiative and a single point of entry presenting information on working and living in Luxembourg and a job board for international talent; it is operated by Luxinnovation and developed in collaboration with the Ministry of the Economy, the Ministry of Labour, ADEM (the national public employment service), the Chamber of Commerce and the Chamber of Skilled Trades. Three sections: "Work here", "Live here" and "Get started" (including a relocation guide and an Employer Toolkit), plus the Talent Desk, which provides personalised support to talent and companies. The Job Board is linked to ADEM's international recruitment platform (around 11,000 candidates pre-selected by ADEM; vacancies updated daily); professionals in listed shortage occupations may benefit from faster immigration procedures (especially non-EU nationals). Selected figures as published on the site: ~74% of the workforce are foreign nationals or cross-border commuters; 228,000+ daily cross-border workers; #1 safest country for expats (Legatum Prosperity Index, 2024); #2 in the world for attracting talent (IMD World Talent Ranking, 2025). Rankings are attributed to their respective publishers. General information only — see workinluxembourg.com for current details.*
+*Sources: workinluxembourg.com (official "Work in Luxembourg" portal) and adem.public.lu. Work in Luxembourg is a government-led initiative and a single point of entry presenting information on working and living in Luxembourg and a job board for international talent; it is operated by Luxinnovation and developed in collaboration with the Ministry of the Economy, the Ministry of Labour, ADEM (the national public employment service), the Chamber of Commerce and the Chamber of Skilled Trades. Three sections: "Work here", "Live here" and "Get started" (including a relocation guide and an Employer Toolkit), plus the Talent Desk, which provides personalised support to talent and companies. The Job Board is linked to ADEM's international recruitment platform (all profiles pre-screened by ADEM; vacancies updated daily; it focuses on shortage occupations, other jobs via EURES); professionals in listed shortage occupations may benefit from faster immigration procedures (especially non-EU nationals). Figures are given in rounded, durable form (fact-checked 2 November 2026). As published on the site then: ~74% of the workforce are foreign nationals or cross-border commuters; 228,000+ daily cross-border workers; #1 safest country for expats (Legatum Prosperity Index, 2024); #2 in the world for attracting talent (IMD World Talent Ranking, 2025). Rankings are attributed to their respective publishers. General information only — see workinluxembourg.com for current details.*

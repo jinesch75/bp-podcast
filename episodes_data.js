@@ -14260,7 +14260,7 @@ const EPISODES = [
   "title": "Work in Luxembourg – One Front Door to a New Life",
   "description": "Work in Luxembourg (workinluxembourg.com) is an official, government-led portal: a single gateway for international talent who want to work and live in Luxembourg. It is organised in three sections – Work here, Live here, and Get started – and backed by the country's main economic and employment players, including ADEM. Its Job Board connects you to real vacancies through ADEM (around 11,000 candidates pre-selected), and its Talent Desk offers personalised, human guidance; for shortage occupations, non-EU professionals can benefit from faster immigration.",
   "audio": "podcast_workinluxembourg.mp3",
-  "duration": 693.76,
+  "duration": 712.62,
   "topics": [
    "An official 'single front door'",
    "Government-led, with ADEM & partners",
@@ -14534,663 +14534,683 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Housing, family, education, healthcare, culture, leisure — and the multicultural, multilingual environment.",
-    "t": 177.81
+    "text": "Safety and stability, healthcare, education, family life, culture and leisure — and the multicultural, multilingual environment.",
+    "t": 177.8
    },
    {
     "speaker": "Tom",
     "text": "Because a job is only half of a life.",
-    "t": 185.1
+    "t": 185.82
    },
    {
     "speaker": "Tom",
     "text": "The other half is — will my family be happy here?",
-    "t": 187.05
+    "t": 188.17
    },
    {
     "speaker": "Anna",
     "text": "That's so important.",
-    "t": 189.58
+    "t": 190.75
    },
    {
     "speaker": "Anna",
     "text": "People don't just move for a job.",
-    "t": 191.07
+    "t": 192.24
    },
    {
     "speaker": "Anna",
     "text": "They move for a life.",
-    "t": 192.99
+    "t": 194.16
    },
    {
     "speaker": "Tom",
     "text": "They move for a life.",
-    "t": 194.75
+    "t": 195.92
    },
    {
     "speaker": "Tom",
     "text": "And this section helps you picture it — schools for the children, the health system, things to do at the weekend.",
-    "t": 195.91
+    "t": 197.08
    },
    {
     "speaker": "Anna",
     "text": "And the third one — \"Get started\".",
-    "t": 201.99
+    "t": 203.16
    },
    {
     "speaker": "Tom",
     "text": "\"Get started\" is the practical, roll-up-your-sleeves section.",
-    "t": 204.37
+    "t": 205.54
    },
    {
     "speaker": "Tom",
     "text": "It covers immigration — residence and work permits — plus job hunting, housing, and a full relocation guide.",
-    "t": 208.05
+    "t": 209.22
    },
    {
     "speaker": "Tom",
     "text": "It's the \"how do I actually do this\" part.",
-    "t": 214.77
+    "t": 215.94
    },
    {
     "speaker": "Anna",
     "text": "So the first two sections inspire you, and the third one helps you take real steps.",
-    "t": 217.06
+    "t": 218.23
    },
    {
     "speaker": "Tom",
     "text": "That's the perfect way to say it.",
-    "t": 222.13
+    "t": 223.3
    },
    {
     "speaker": "Tom",
     "text": "Dream it in \"Work here\" and \"Live here\", then do it in \"Get started\".",
-    "t": 223.94
+    "t": 225.11
    },
    {
     "speaker": "Tom",
     "text": "And for companies, there's even an Employer Toolkit, to help them recruit from abroad.",
-    "t": 227.65
+    "t": 228.82
    },
    {
     "speaker": "Anna",
     "text": "Now, Tom — the big one for most people.",
-    "t": 232.56
+    "t": 233.73
    },
    {
     "speaker": "Anna",
     "text": "Jobs. Can you actually find a job through this portal?",
-    "t": 235.09
+    "t": 236.26
    },
    {
     "speaker": "Tom",
     "text": "You can. There's a Job Board — a place to search for open positions.",
-    "t": 238.51
+    "t": 239.68
    },
    {
     "speaker": "Tom",
     "text": "And here's the clever part — it's connected directly to ADEM's international recruitment platform.",
-    "t": 242.79
+    "t": 243.96
    },
    {
     "speaker": "Anna",
     "text": "ADEM — that's the national employment agency you mentioned.",
-    "t": 247.88
+    "t": 249.05
    },
    {
     "speaker": "Tom",
     "text": "Right. ADEM is Luxembourg's public employment service.",
-    "t": 251.55
+    "t": 252.72
    },
    {
     "speaker": "Tom",
     "text": "So the jobs aren't random — they come through the official agency.",
-    "t": 255.18
+    "t": 256.35
    },
    {
     "speaker": "Tom",
     "text": "The listings are updated daily, and you can create a profile and apply directly to vacancies.",
-    "t": 259.11
+    "t": 260.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "It focuses on the professions where Luxembourg most needs people.",
+    "t": 265.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "For jobs in all other sectors, the site points you to the European job portal, EURES.",
+    "t": 269.86
    },
    {
     "speaker": "Anna",
     "text": "And does anyone actually look at those profiles?",
-    "t": 264.43
+    "t": 275.33
    },
    {
     "speaker": "Anna",
     "text": "Or do they just disappear into a database?",
-    "t": 266.99
+    "t": 277.89
    },
    {
     "speaker": "Tom",
-    "text": "They're real. In fact, the platform already has around eleven thousand candidates from all over the world, pre-selected by ADEM.",
-    "t": 269.63
+    "text": "They're real. Every profile is pre-screened by ADEM, and employers search the database and contact candidates directly.",
+    "t": 280.53
    },
    {
     "speaker": "Tom",
     "text": "So it's an active pool that employers really use to find people.",
-    "t": 276.83
+    "t": 287.33
    },
    {
     "speaker": "Anna",
-    "text": "Eleven thousand. So it's a living marketplace, not an empty noticeboard.",
-    "t": 280.62
+    "text": "Pre-screened by ADEM.",
+    "t": 291.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "So it's a living marketplace, not an empty noticeboard.",
+    "t": 293.13
    },
    {
     "speaker": "Tom",
     "text": "A living marketplace.",
-    "t": 285.47
+    "t": 296.7
    },
    {
     "speaker": "Tom",
     "text": "Employers looking for skills, and skilled people looking for a future — meeting in one place.",
-    "t": 286.95
+    "t": 298.18
    },
    {
     "speaker": "Anna",
     "text": "You mentioned that Luxembourg has shortages in certain jobs.",
-    "t": 292.08
+    "t": 303.31
    },
    {
     "speaker": "Anna",
     "text": "Does the portal help with that specifically?",
-    "t": 295.5
+    "t": 306.73
    },
    {
     "speaker": "Tom",
     "text": "Yes — and this is really useful to know.",
-    "t": 298.03
+    "t": 309.26
    },
    {
     "speaker": "Tom",
     "text": "Luxembourg publishes a list of \"shortage occupations\" — the jobs where the country most needs people.",
-    "t": 300.78
+    "t": 312.01
    },
    {
     "speaker": "Tom",
     "text": "And for professionals from outside the European Union, working in one of those shortage jobs can mean faster immigration procedures.",
-    "t": 307.55
+    "t": 318.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "The employer doesn't first have to look for someone locally, so ADEM gives the green light within a few days.",
+    "t": 327.32
    },
    {
     "speaker": "Anna",
     "text": "So if your skill is one the country urgently needs, the door opens more quickly.",
-    "t": 314.17
+    "t": 333.45
    },
    {
     "speaker": "Tom",
     "text": "More quickly and more smoothly.",
-    "t": 318.91
+    "t": 338.19
    },
    {
     "speaker": "Tom",
     "text": "It's a way of saying — we really need you, so let's make it easier.",
-    "t": 320.88
+    "t": 340.16
    },
    {
     "speaker": "Anna",
     "text": "Now, all of this online information is wonderful.",
-    "t": 324.85
+    "t": 344.13
    },
    {
     "speaker": "Anna",
     "text": "But moving country is stressful.",
-    "t": 327.7
+    "t": 346.98
    },
    {
     "speaker": "Anna",
     "text": "Is there a human you can actually talk to?",
-    "t": 329.66
+    "t": 348.94
    },
    {
     "speaker": "Tom",
     "text": "There is — and I love this part.",
-    "t": 332.06
+    "t": 351.34
    },
    {
     "speaker": "Tom",
     "text": "Alongside the website, there's something called the Talent Desk.",
-    "t": 334.49
+    "t": 353.77
    },
    {
     "speaker": "Anna",
     "text": "The Talent Desk.",
-    "t": 338.01
+    "t": 357.29
    },
    {
     "speaker": "Anna",
     "text": "What is it?",
-    "t": 339.11
+    "t": 358.39
    },
    {
     "speaker": "Tom",
     "text": "It's a service that gives personalised, human support.",
-    "t": 340
+    "t": 359.28
    },
    {
     "speaker": "Tom",
     "text": "It informs you, advises you, and guides you through the administrative steps and the integration process.",
-    "t": 343.28
+    "t": 362.56
    },
    {
     "speaker": "Tom",
     "text": "And if you need a specific institution, it puts you in touch with the right one.",
-    "t": 349.23
+    "t": 368.51
    },
    {
     "speaker": "Tom",
     "text": "You can reach the Talent Desk by email, at contact@talentdesk.lu, or visit them in Kirchberg, by appointment.",
-    "t": 353.49
+    "t": 372.77
    },
    {
     "speaker": "Anna",
     "text": "So a real person, helping you find your way through the paperwork and the settling-in.",
-    "t": 360.19
+    "t": 379.47
    },
    {
     "speaker": "Tom",
     "text": "A real person.",
-    "t": 364.85
+    "t": 384.13
    },
    {
     "speaker": "Tom",
     "text": "The website gives you the information; the Talent Desk gives you the guidance.",
-    "t": 366.2
+    "t": 385.48
    },
    {
     "speaker": "Tom",
     "text": "And it doesn't only help individuals — it also supports companies with their international recruitment.",
-    "t": 370.35
+    "t": 389.63
    },
    {
     "speaker": "Anna",
     "text": "So both sides — the talent and the employer — get a helping hand.",
-    "t": 375.3
+    "t": 394.58
    },
    {
     "speaker": "Tom",
     "text": "Both sides. It makes the whole thing smoother, and warmer.",
-    "t": 379.59
+    "t": 398.87
    },
    {
     "speaker": "Anna",
     "text": "Tom, let's talk about the picture the portal paints of Luxembourg.",
-    "t": 383.2
+    "t": 402.48
    },
    {
     "speaker": "Anna",
     "text": "What does it say makes the country attractive?",
-    "t": 387.01
+    "t": 406.29
    },
    {
     "speaker": "Anna",
     "text": "And let's be honest that this is a promotional site.",
-    "t": 389.36
+    "t": 408.64
    },
    {
     "speaker": "Tom",
     "text": "Fair — it is a showcase, so let's take it as that, with the facts attributed.",
-    "t": 392.27
+    "t": 411.55
    },
    {
     "speaker": "Tom",
     "text": "It highlights things like safety and stability, a diverse, multicultural population, a dynamic economy, and a family-friendly environment with strong schools and free public transport.",
-    "t": 397.04
+    "t": 416.32
    },
    {
     "speaker": "Anna",
     "text": "And it backs these up with rankings, doesn't it?",
-    "t": 408.01
+    "t": 427.29
    },
    {
     "speaker": "Tom",
     "text": "It does, and it names the sources.",
-    "t": 410.7
+    "t": 429.98
    },
    {
     "speaker": "Tom",
-    "text": "For example — according to the Legatum Prosperity Index, Luxembourg is ranked the number one safest country for expats.",
-    "t": 413.06
+    "text": "For example — the Legatum Prosperity Index ranks Luxembourg among the safest countries for expats.",
+    "t": 432.15
    },
    {
     "speaker": "Tom",
-    "text": "According to the IMD World Talent Ranking, it's second in the world for attracting talent.",
-    "t": 420.2
+    "text": "And the IMD World Talent Ranking puts it among the very best in the world for attracting talent.",
+    "t": 438.52
    },
    {
     "speaker": "Tom",
     "text": "And it points out a striking fact about the workforce.",
-    "t": 425.27
+    "t": 443.92
    },
    {
     "speaker": "Anna",
     "text": "Which is?",
-    "t": 428.3
+    "t": 447.09
    },
    {
     "speaker": "Tom",
-    "text": "That around seventy-four percent of Luxembourg's workforce are either foreign nationals or cross-border commuters.",
-    "t": 429.31
+    "text": "That around three quarters of Luxembourg's workforce are either foreign nationals or cross-border commuters.",
+    "t": 448.1
    },
    {
     "speaker": "Tom",
-    "text": "And more than two hundred and twenty-eight thousand people cross a border every day to work here.",
-    "t": 434.9
+    "text": "And more than two hundred thousand people cross a border every day to work here.",
+    "t": 454.15
    },
    {
     "speaker": "Anna",
-    "text": "Seventy-four percent. So working in an international team isn't the exception here — it's completely normal.",
-    "t": 439.35
+    "text": "Three quarters. So working in an international team isn't the exception here — it's completely normal.",
+    "t": 458.47
    },
    {
     "speaker": "Tom",
     "text": "It's the everyday reality.",
-    "t": 446.14
+    "t": 465
    },
    {
     "speaker": "Tom",
     "text": "People in Luxembourg speak, on average, several languages — Luxembourgish, French, German, and a lot of English at work.",
-    "t": 447.94
+    "t": 466.8
    },
    {
     "speaker": "Tom",
     "text": "For an international newcomer, that's reassuring.",
-    "t": 454.55
+    "t": 473.41
    },
    {
     "speaker": "Tom",
     "text": "You're not the odd one out.",
-    "t": 457.1
+    "t": 475.96
    },
    {
     "speaker": "Tom",
     "text": "Everyone came from somewhere.",
-    "t": 458.41
+    "t": 477.27
    },
    {
     "speaker": "Anna",
     "text": "That's a lovely thought.",
-    "t": 459.91
+    "t": 478.77
    },
    {
     "speaker": "Anna",
     "text": "Let's make it concrete.",
-    "t": 461.22
+    "t": 480.08
    },
    {
     "speaker": "Anna",
     "text": "Can we follow one person?",
-    "t": 462.66
+    "t": 481.52
    },
    {
     "speaker": "Tom",
     "text": "Let's. Imagine a software engineer — let's call her Priya.",
-    "t": 464.52
+    "t": 483.38
    },
    {
     "speaker": "Tom",
     "text": "She lives far away, and she's heard Luxembourg might be a good place for her skills.",
-    "t": 468.64
+    "t": 487.5
    },
    {
     "speaker": "Tom",
     "text": "But she has no idea where to begin.",
-    "t": 472.76
+    "t": 491.62
    },
    {
     "speaker": "Anna",
     "text": "The classic situation.",
-    "t": 475.04
+    "t": 493.9
    },
    {
     "speaker": "Anna",
     "text": "So many questions, and no map.",
-    "t": 476.6
+    "t": 495.46
    },
    {
     "speaker": "Tom",
     "text": "So she finds the portal — workinluxembourg.com.",
-    "t": 478.72
+    "t": 497.58
    },
    {
     "speaker": "Tom",
     "text": "First, she reads \"Work here\", and sees that technology is a strong, growing sector.",
-    "t": 482.22
+    "t": 501.08
    },
    {
     "speaker": "Tom",
     "text": "Then she opens \"Live here\", and looks at schools and housing for her family.",
-    "t": 487.81
+    "t": 506.67
    },
    {
     "speaker": "Anna",
     "text": "So far she's just exploring, getting a feel for it.",
-    "t": 491.73
+    "t": 510.59
    },
    {
     "speaker": "Tom",
     "text": "Exactly. Then she goes to the Job Board, creates a profile, and applies to a couple of openings — real jobs, through ADEM.",
-    "t": 494.94
+    "t": 513.8
    },
    {
     "speaker": "Tom",
     "text": "Maybe her field is even on the shortage list, which means a smoother immigration path.",
-    "t": 502.37
+    "t": 521.23
    },
    {
     "speaker": "Anna",
     "text": "And when the paperwork feels overwhelming?",
-    "t": 506.82
+    "t": 525.68
    },
    {
     "speaker": "Tom",
     "text": "She turns to the Talent Desk, and a real person helps her understand the permits and the steps.",
-    "t": 509.23
+    "t": 528.09
    },
    {
     "speaker": "Tom",
     "text": "And in \"Get started\", she follows the relocation guide — housing, registration, all of it.",
-    "t": 514.06
+    "t": 532.92
    },
    {
     "speaker": "Anna",
     "text": "So from one website, she goes from \"I have no idea\" to \"I have a job offer and a plan\".",
-    "t": 519.13
+    "t": 537.99
    },
    {
     "speaker": "Tom",
     "text": "From a vague dream to a concrete move.",
-    "t": 524.42
+    "t": 543.28
    },
    {
     "speaker": "Tom",
     "text": "That's the entire purpose of the portal — to turn confusion into a clear path.",
-    "t": 526.72
+    "t": 545.58
    },
    {
     "speaker": "Anna",
     "text": "And honestly, this is useful even for people already here, isn't it?",
-    "t": 531.24
+    "t": 550.1
    },
    {
     "speaker": "Tom",
     "text": "Very much. If you have a friend or family member abroad who's thinking of joining you in Luxembourg, this is exactly where you send them.",
-    "t": 535.05
+    "t": 553.91
    },
    {
     "speaker": "Tom",
     "text": "And if you're an employer struggling to find skills, this is where you look, and who you ask for help.",
-    "t": 542.49
+    "t": 561.35
    },
    {
     "speaker": "Anna",
     "text": "Okay Tom, let's bring it home.",
-    "t": 547.75
+    "t": 566.61
    },
    {
     "speaker": "Anna",
     "text": "If I'm listening, what should I take away?",
-    "t": 549.84
+    "t": 568.7
    },
    {
     "speaker": "Tom",
     "text": "A few simple things.",
-    "t": 552.25
+    "t": 571.11
    },
    {
     "speaker": "Tom",
     "text": "First — if you, or someone you know, is thinking about working in Luxembourg, there's now one official front door.",
-    "t": 553.6
+    "t": 572.46
    },
    {
     "speaker": "Tom",
     "text": "workinluxembourg.com. Start there, instead of getting lost.",
-    "t": 559.59
+    "t": 578.45
    },
    {
     "speaker": "Anna",
     "text": "One front door.",
-    "t": 563.51
+    "t": 582.37
    },
    {
     "speaker": "Tom",
     "text": "Second — it's built around three clear sections.",
-    "t": 564.85
+    "t": 583.71
    },
    {
     "speaker": "Tom",
     "text": "\"Work here\" for the career, \"Live here\" for the life, and \"Get started\" for the practical steps and permits.",
-    "t": 568.02
+    "t": 586.88
    },
    {
     "speaker": "Anna",
     "text": "And third?",
-    "t": 575.32
+    "t": 594.18
    },
    {
     "speaker": "Tom",
     "text": "Third — you don't have to do it alone.",
-    "t": 576.49
+    "t": 595.35
    },
    {
     "speaker": "Tom",
     "text": "The Job Board connects you to real jobs through ADEM, and the Talent Desk gives you a real human to guide you.",
-    "t": 578.41
+    "t": 597.27
    },
    {
     "speaker": "Tom",
     "text": "Information, plus a helping hand.",
-    "t": 584.73
+    "t": 603.59
    },
    {
     "speaker": "Anna",
     "text": "A short summary to finish?",
-    "t": 587.03
+    "t": 605.89
    },
    {
     "speaker": "Tom",
     "text": "Sure. Work in Luxembourg, at workinluxembourg.com, is an official, government-led portal — a single gateway for international talent who want to work and live in Luxembourg.",
-    "t": 588.83
+    "t": 607.69
    },
    {
     "speaker": "Tom",
     "text": "It's organised in three sections — Work here, Live here, and Get started — and it's backed by the country's main economic and employment players, including ADEM.",
-    "t": 599.36
+    "t": 618.22
    },
    {
     "speaker": "Tom",
     "text": "Its Job Board connects you to real vacancies through ADEM, and its Talent Desk offers personalised, human guidance.",
-    "t": 608.52
+    "t": 627.38
    },
    {
     "speaker": "Tom",
     "text": "For shortage jobs, non-EU professionals can even get faster immigration.",
-    "t": 615.62
+    "t": 634.48
    },
    {
     "speaker": "Anna",
     "text": "And the message for today?",
-    "t": 619.8
+    "t": 638.66
    },
    {
     "speaker": "Tom",
     "text": "That a country which depends on international talent has finally made one clear, welcoming door for it.",
-    "t": 621.5
+    "t": 640.36
    },
    {
     "speaker": "Tom",
     "text": "If your future, or someone's you love, might be in Luxembourg — the path just got a lot simpler.",
-    "t": 627.33
+    "t": 646.19
    },
    {
     "speaker": "Anna",
     "text": "So... whether it's for you, a friend abroad, or your own company — remember the address.",
-    "t": 633.24
+    "t": 652.1
    },
    {
     "speaker": "Anna",
     "text": "Work in Luxembourg.",
-    "t": 638.61
+    "t": 657.47
    },
    {
     "speaker": "Anna",
     "text": "workinluxembourg.com.",
-    "t": 640.03
+    "t": 658.89
    },
    {
     "speaker": "Tom",
     "text": "One front door, to a new life.",
-    "t": 642.02
+    "t": 660.88
    },
    {
     "speaker": "Tom",
     "text": "That's a good thing to know about.",
-    "t": 643.86
+    "t": 662.72
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Work in Luxembourg portal.",
-    "t": 645.4
+    "t": 664.26
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 648.52
+    "t": 667.38
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 657.54
+    "t": 676.4
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 675.31
+    "t": 694.17
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 682.06
+    "t": 700.92
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 684.26
+    "t": 703.12
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 688.95
+    "t": 707.81
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 690.03
+    "t": 708.89
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 692.15
+    "t": 711.01
    }
   ],
   "segments_fr": [
@@ -15461,688 +15481,703 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Le logement, la famille, l'éducation, la santé, la culture, les loisirs — et l'environnement multiculturel et multilingue.",
-    "t": 183.1
+    "text": "La sécurité et la stabilité, la santé, l'éducation, la vie de famille, la culture et les loisirs — et l'environnement multiculturel et multilingue.",
+    "t": 183.59
    },
    {
     "speaker": "Tom",
     "text": "Parce qu'un emploi, ce n'est que la moitié d'une vie.",
-    "t": 190.89
+    "t": 193.4
    },
    {
     "speaker": "Tom",
     "text": "L'autre moitié, c'est — est-ce que ma famille sera heureuse ici ?",
-    "t": 193.31
+    "t": 195.96
    },
    {
     "speaker": "Anna",
     "text": "C'est tellement important.",
-    "t": 196.94
+    "t": 199.88
    },
    {
     "speaker": "Anna",
     "text": "Les gens ne déménagent pas seulement pour un emploi.",
-    "t": 198.29
+    "t": 201.23
    },
    {
     "speaker": "Anna",
     "text": "Ils déménagent pour une vie.",
-    "t": 200.57
+    "t": 203.51
    },
    {
     "speaker": "Tom",
     "text": "Ils déménagent pour une vie.",
-    "t": 202.19
+    "t": 205.13
    },
    {
     "speaker": "Tom",
     "text": "Et cette section aide à se la représenter — les écoles pour les enfants, le système de santé, les choses à faire le week-end.",
-    "t": 203.85
+    "t": 206.79
    },
    {
     "speaker": "Anna",
     "text": "Et la troisième — « Get started ».",
-    "t": 210.51
+    "t": 213.45
    },
    {
     "speaker": "Tom",
     "text": "« Get started » est la section pratique, celle où on retrousse ses manches.",
-    "t": 212.68
+    "t": 215.62
    },
    {
     "speaker": "Tom",
     "text": "Elle couvre l'immigration — les titres de séjour et de travail — ainsi que la recherche d'emploi, le logement, et un guide complet d'installation.",
-    "t": 216.79
+    "t": 219.73
    },
    {
     "speaker": "Tom",
     "text": "C'est la partie « comment je fais concrètement ».",
-    "t": 224.54
+    "t": 227.48
    },
    {
     "speaker": "Anna",
     "text": "Donc les deux premières sections vous inspirent, et la troisième vous aide à passer à l'action.",
-    "t": 227.03
+    "t": 229.97
    },
    {
     "speaker": "Tom",
     "text": "C'est la parfaite façon de le dire.",
-    "t": 231.11
+    "t": 234.05
    },
    {
     "speaker": "Tom",
     "text": "On en rêve dans « Work here » et « Live here », puis on le réalise dans « Get started ».",
-    "t": 233.02
+    "t": 235.96
    },
    {
     "speaker": "Tom",
     "text": "Et pour les entreprises, il y a même un Employer Toolkit (une boîte à outils pour les employeurs), pour les aider à recruter à l'étranger.",
-    "t": 237.79
+    "t": 240.73
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, Tom — le point essentiel pour la plupart des gens.",
-    "t": 245.06
+    "t": 248
    },
    {
     "speaker": "Anna",
     "text": "L'emploi. Est-ce qu'on peut vraiment trouver un emploi grâce à ce portail ?",
-    "t": 247.92
+    "t": 250.86
    },
    {
     "speaker": "Tom",
     "text": "Oui, on peut.",
-    "t": 251.46
+    "t": 254.4
    },
    {
     "speaker": "Tom",
     "text": "Il y a un Job Board — un espace pour chercher des postes ouverts.",
-    "t": 252.46
+    "t": 255.4
    },
    {
     "speaker": "Tom",
     "text": "Et voici le côté malin — il est connecté directement à la plateforme de recrutement international de l'ADEM.",
-    "t": 255.77
+    "t": 258.71
    },
    {
     "speaker": "Anna",
     "text": "L'ADEM — c'est l'agence nationale pour l'emploi dont tu parlais.",
-    "t": 261.53
-   },
-   {
-    "speaker": "Tom",
-    "text": "Exactement. L'ADEM est le service public de l'emploi du Luxembourg.",
     "t": 264.47
    },
    {
     "speaker": "Tom",
+    "text": "Exactement. L'ADEM est le service public de l'emploi du Luxembourg.",
+    "t": 267.41
+   },
+   {
+    "speaker": "Tom",
     "text": "Donc les offres ne sont pas prises au hasard — elles passent par l'agence officielle.",
-    "t": 268.1
+    "t": 271.04
    },
    {
     "speaker": "Tom",
     "text": "Les annonces sont mises à jour chaque jour, et on peut créer un profil et postuler directement aux offres.",
-    "t": 272.39
+    "t": 275.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il se concentre sur les métiers où le Luxembourg a le plus besoin de personnes.",
+    "t": 280.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pour les emplois dans tous les autres secteurs, le site vous renvoie vers le portail européen de l'emploi, EURES.",
+    "t": 285.26
    },
    {
     "speaker": "Anna",
     "text": "Et est-ce que quelqu'un regarde vraiment ces profils ?",
-    "t": 277.98
+    "t": 291.52
    },
    {
     "speaker": "Anna",
     "text": "Ou est-ce qu'ils disparaissent simplement dans une base de données ?",
-    "t": 280.46
+    "t": 294
    },
    {
     "speaker": "Tom",
     "text": "Ils sont bien réels.",
-    "t": 283.98
+    "t": 297.52
    },
    {
     "speaker": "Tom",
-    "text": "En fait, la plateforme compte déjà environ onze mille candidats venus du monde entier, présélectionnés par l'ADEM.",
-    "t": 285.38
+    "text": "Chaque profil est présélectionné par l'ADEM, et les employeurs consultent la base de données et contactent directement les candidats.",
+    "t": 298.94
    },
    {
     "speaker": "Tom",
     "text": "C'est donc un vivier actif que les employeurs utilisent vraiment pour trouver des personnes.",
-    "t": 291.21
+    "t": 305.76
    },
    {
     "speaker": "Anna",
-    "text": "Onze mille. Donc c'est un marché vivant, pas un tableau d'affichage vide.",
-    "t": 296.38
+    "text": "Présélectionnés par l'ADEM.",
+    "t": 311.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Donc c'est un marché vivant, pas un tableau d'affichage vide.",
+    "t": 312.75
    },
    {
     "speaker": "Tom",
     "text": "Un marché vivant.",
-    "t": 300.35
+    "t": 315.79
    },
    {
     "speaker": "Tom",
     "text": "Des employeurs qui cherchent des compétences, et des personnes qualifiées qui cherchent un avenir — qui se rencontrent au même endroit.",
-    "t": 301.58
+    "t": 317.02
    },
    {
     "speaker": "Anna",
     "text": "Tu as mentionné que le Luxembourg manque de monde dans certains métiers.",
-    "t": 308.12
+    "t": 323.56
    },
    {
     "speaker": "Anna",
     "text": "Est-ce que le portail aide pour cela en particulier ?",
-    "t": 311.16
+    "t": 326.6
    },
    {
     "speaker": "Tom",
     "text": "Oui — et c'est vraiment utile à savoir.",
-    "t": 313.58
+    "t": 329.02
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg publie une liste des « métiers en pénurie » — les métiers où le pays a le plus besoin de personnes.",
-    "t": 315.44
+    "t": 330.88
    },
    {
     "speaker": "Tom",
     "text": "Et pour les professionnels venus de l'extérieur de l'Union européenne, travailler dans l'un de ces métiers en tension peut vouloir dire des démarches d'immigration plus rapides.",
-    "t": 321.34
+    "t": 336.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'employeur n'a pas d'abord à chercher quelqu'un sur place, donc l'ADEM donne son feu vert en quelques jours.",
+    "t": 345.69
    },
    {
     "speaker": "Anna",
     "text": "Donc si votre compétence fait partie de celles dont le pays a un besoin urgent, la porte s'ouvre plus vite.",
-    "t": 329.69
+    "t": 351.3
    },
    {
     "speaker": "Tom",
     "text": "Plus vite et plus facilement.",
-    "t": 334.76
+    "t": 356.37
    },
    {
     "speaker": "Tom",
     "text": "C'est une manière de dire — nous avons vraiment besoin de vous, alors rendons les choses plus simples.",
-    "t": 336.4
+    "t": 358.01
    },
    {
     "speaker": "Anna",
     "text": "Alors, toutes ces informations en ligne, c'est formidable.",
-    "t": 341.52
+    "t": 363.13
    },
    {
     "speaker": "Anna",
     "text": "Mais changer de pays, c'est stressant.",
-    "t": 343.87
+    "t": 365.48
    },
    {
     "speaker": "Anna",
     "text": "Est-ce qu'il y a un être humain à qui on peut vraiment parler ?",
-    "t": 345.79
+    "t": 367.4
    },
    {
     "speaker": "Tom",
     "text": "Oui — et j'adore cette partie.",
-    "t": 348.58
+    "t": 370.19
    },
    {
     "speaker": "Tom",
     "text": "À côté du site, il y a quelque chose qui s'appelle le Talent Desk.",
-    "t": 350.56
+    "t": 372.17
    },
    {
     "speaker": "Anna",
     "text": "Le Talent Desk.",
-    "t": 354.17
+    "t": 375.78
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que c'est ?",
-    "t": 355.31
+    "t": 376.92
    },
    {
     "speaker": "Tom",
     "text": "C'est un service qui offre un accompagnement personnalisé et humain.",
-    "t": 356.48
+    "t": 378.09
    },
    {
     "speaker": "Tom",
     "text": "Il vous informe, vous conseille, et vous guide à travers les démarches administratives et le parcours d'intégration.",
-    "t": 359.99
+    "t": 381.6
    },
    {
     "speaker": "Tom",
     "text": "Et si vous avez besoin d'une institution précise, il vous met en contact avec la bonne.",
-    "t": 365.78
+    "t": 387.39
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez joindre le Talent Desk par e-mail, à contact@talentdesk.lu, ou lui rendre visite au Kirchberg, sur rendez-vous.",
-    "t": 370.23
+    "t": 391.84
    },
    {
     "speaker": "Anna",
     "text": "Donc une vraie personne, qui vous aide à vous repérer dans les démarches et l'installation.",
-    "t": 378.37
+    "t": 399.98
    },
    {
     "speaker": "Tom",
     "text": "Une vraie personne.",
-    "t": 382.31
+    "t": 403.92
    },
    {
     "speaker": "Tom",
     "text": "Le site vous donne l'information ; le Talent Desk vous donne l'accompagnement.",
-    "t": 383.63
+    "t": 405.24
    },
    {
     "speaker": "Tom",
     "text": "Et il n'aide pas seulement les individus — il soutient aussi les entreprises dans leur recrutement international.",
-    "t": 387.24
+    "t": 408.85
    },
    {
     "speaker": "Anna",
     "text": "Donc des deux côtés — le talent et l'employeur — chacun reçoit un coup de main.",
-    "t": 392.81
+    "t": 414.42
    },
    {
     "speaker": "Tom",
     "text": "Des deux côtés.",
-    "t": 396.76
+    "t": 418.37
    },
    {
     "speaker": "Tom",
     "text": "Ça rend tout le processus plus fluide, et plus chaleureux.",
-    "t": 397.87
+    "t": 419.48
    },
    {
     "speaker": "Anna",
     "text": "Tom, parlons de l'image que le portail donne du Luxembourg.",
-    "t": 401.19
+    "t": 422.8
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce qui, selon lui, rend le pays attractif ?",
-    "t": 403.9
+    "t": 425.51
    },
    {
     "speaker": "Anna",
     "text": "Et soyons honnêtes, c'est un site promotionnel.",
-    "t": 406.31
+    "t": 427.92
    },
    {
     "speaker": "Tom",
     "text": "C'est juste — c'est une vitrine, alors prenons-le comme tel, avec les sources attribuées.",
-    "t": 408.74
+    "t": 430.35
    },
    {
     "speaker": "Tom",
     "text": "Il met en avant des choses comme la sécurité et la stabilité, une population diverse et multiculturelle, une économie dynamique, et un environnement favorable aux familles, avec de bonnes écoles et les transports publics gratuits.",
-    "t": 413.33
+    "t": 434.94
    },
    {
     "speaker": "Anna",
     "text": "Et il appuie tout cela avec des classements, n'est-ce pas ?",
-    "t": 425.97
+    "t": 447.58
    },
    {
     "speaker": "Tom",
     "text": "Oui, et il cite les sources.",
-    "t": 428.6
+    "t": 450.21
    },
    {
     "speaker": "Tom",
-    "text": "Par exemple — selon le Legatum Prosperity Index, le Luxembourg est classé pays le plus sûr au monde pour les expatriés.",
-    "t": 430.5
+    "text": "Par exemple — le Legatum Prosperity Index classe le Luxembourg parmi les pays les plus sûrs pour les expatriés.",
+    "t": 452.08
    },
    {
     "speaker": "Tom",
-    "text": "Selon l'IMD World Talent Ranking, il est deuxième au monde pour attirer les talents.",
-    "t": 437.29
+    "text": "Et l'IMD World Talent Ranking le place parmi les meilleurs au monde pour attirer les talents.",
+    "t": 458.99
    },
    {
     "speaker": "Tom",
     "text": "Et il souligne un fait frappant à propos de la population active.",
-    "t": 441.97
+    "t": 464.3
    },
    {
     "speaker": "Anna",
     "text": "Lequel ?",
-    "t": 445.6
+    "t": 468.07
    },
    {
     "speaker": "Tom",
-    "text": "Qu'environ soixante-quatorze pour cent de la population active du Luxembourg sont soit des ressortissants étrangers, soit des travailleurs frontaliers.",
-    "t": 446.69
+    "text": "Qu'environ trois quarts de la population active du Luxembourg sont soit des ressortissants étrangers, soit des travailleurs frontaliers.",
+    "t": 469.16
    },
    {
     "speaker": "Tom",
-    "text": "Et plus de deux cent vingt-huit mille personnes franchissent une frontière chaque jour pour venir travailler ici.",
-    "t": 454.03
+    "text": "Et plus de deux cent mille personnes franchissent une frontière chaque jour pour venir travailler ici.",
+    "t": 475.92
    },
    {
     "speaker": "Anna",
-    "text": "Soixante-quatorze pour cent.",
-    "t": 459.42
-   },
-   {
-    "speaker": "Anna",
-    "text": "Donc travailler dans une équipe internationale n'est pas l'exception ici — c'est tout à fait normal.",
-    "t": 460.97
+    "text": "Trois quarts. Donc travailler dans une équipe internationale n'est pas l'exception ici — c'est tout à fait normal.",
+    "t": 480.8
    },
    {
     "speaker": "Tom",
     "text": "C'est la réalité quotidienne.",
-    "t": 465.81
+    "t": 486.47
    },
    {
     "speaker": "Tom",
     "text": "Les gens au Luxembourg parlent, en moyenne, plusieurs langues — le luxembourgeois, le français, l'allemand, et beaucoup d'anglais au travail.",
-    "t": 467.64
+    "t": 488.3
    },
    {
     "speaker": "Tom",
     "text": "Pour un nouvel arrivant international, c'est rassurant.",
-    "t": 475.44
+    "t": 496.1
    },
    {
     "speaker": "Tom",
     "text": "Vous n'êtes pas celui qui détonne.",
-    "t": 478.39
+    "t": 499.05
    },
    {
     "speaker": "Tom",
     "text": "Tout le monde vient de quelque part.",
-    "t": 480.22
+    "t": 500.88
    },
    {
     "speaker": "Anna",
     "text": "C'est une belle pensée.",
-    "t": 482.07
+    "t": 502.73
    },
    {
     "speaker": "Anna",
     "text": "Rendons-la concrète. Est-ce qu'on peut suivre une personne ?",
-    "t": 483.52
+    "t": 504.18
    },
    {
     "speaker": "Tom",
     "text": "Allons-y. Imaginons une ingénieure en informatique — appelons-la Priya.",
-    "t": 486.38
+    "t": 507.04
    },
    {
     "speaker": "Tom",
     "text": "Elle vit très loin, et elle a entendu dire que le Luxembourg pourrait être un bon endroit pour ses compétences.",
-    "t": 490.63
+    "t": 511.29
    },
    {
     "speaker": "Tom",
     "text": "Mais elle n'a aucune idée de par où commencer.",
-    "t": 495.79
+    "t": 516.45
    },
    {
     "speaker": "Anna",
     "text": "La situation classique.",
-    "t": 498.3
+    "t": 518.96
    },
    {
     "speaker": "Anna",
     "text": "Tellement de questions, et aucune carte.",
-    "t": 499.84
+    "t": 520.5
    },
    {
     "speaker": "Tom",
     "text": "Alors elle trouve le portail — workinluxembourg point com.",
-    "t": 501.89
+    "t": 522.55
    },
    {
     "speaker": "Tom",
     "text": "D'abord, elle lit « Work here », et voit que la technologie est un secteur solide et en pleine croissance.",
-    "t": 505.3
+    "t": 525.96
    },
    {
     "speaker": "Tom",
     "text": "Puis elle ouvre « Live here », et regarde les écoles et le logement pour sa famille.",
-    "t": 511.11
+    "t": 531.77
    },
    {
     "speaker": "Anna",
     "text": "Donc pour l'instant elle explore juste, elle se fait une idée.",
-    "t": 515.5
+    "t": 536.16
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Ensuite elle va sur le Job Board, crée un profil, et postule à quelques offres — de vrais emplois, via l'ADEM.",
-    "t": 518.3
+    "t": 538.96
    },
    {
     "speaker": "Tom",
     "text": "Peut-être que son domaine figure même sur la liste des métiers en pénurie, ce qui veut dire un parcours d'immigration plus fluide.",
-    "t": 525.27
+    "t": 545.93
    },
    {
     "speaker": "Anna",
     "text": "Et quand les démarches deviennent écrasantes ?",
-    "t": 531.72
+    "t": 552.38
    },
    {
     "speaker": "Tom",
     "text": "Elle se tourne vers le Talent Desk, et une vraie personne l'aide à comprendre les permis et les étapes.",
-    "t": 533.89
+    "t": 554.55
    },
    {
     "speaker": "Tom",
     "text": "Et dans « Get started », elle suit le guide d'installation — le logement, l'inscription, tout cela.",
-    "t": 538.82
+    "t": 559.48
    },
    {
     "speaker": "Anna",
     "text": "Donc à partir d'un seul site, elle passe de « je n'ai aucune idée » à « j'ai une offre d'emploi et un plan ».",
-    "t": 544.15
+    "t": 564.81
    },
    {
     "speaker": "Tom",
     "text": "D'un rêve flou à un déménagement concret.",
-    "t": 549.1
+    "t": 569.76
    },
    {
     "speaker": "Tom",
     "text": "C'est tout le but du portail — transformer la confusion en un chemin clair.",
-    "t": 551.58
+    "t": 572.24
    },
    {
     "speaker": "Anna",
     "text": "Et honnêtement, c'est utile même pour les gens qui sont déjà ici, non ?",
-    "t": 556.14
+    "t": 576.8
    },
    {
     "speaker": "Tom",
     "text": "Tout à fait.",
-    "t": 559.34
+    "t": 580
    },
    {
     "speaker": "Tom",
     "text": "Si vous avez un ami ou un membre de votre famille à l'étranger qui pense à vous rejoindre au Luxembourg, c'est exactement là qu'il faut l'envoyer.",
-    "t": 560.22
+    "t": 580.88
    },
    {
     "speaker": "Tom",
     "text": "Et si vous êtes un employeur qui peine à trouver des compétences, c'est là qu'il faut chercher, et à qui demander de l'aide.",
-    "t": 567.13
+    "t": 587.79
    },
    {
     "speaker": "Anna",
     "text": "D'accord Tom, concluons.",
-    "t": 573.35
+    "t": 594.01
    },
    {
     "speaker": "Anna",
     "text": "Si je vous écoute, qu'est-ce que je dois retenir ?",
-    "t": 574.89
+    "t": 595.55
    },
    {
     "speaker": "Tom",
     "text": "Quelques choses simples.",
-    "t": 577.22
+    "t": 597.88
    },
    {
     "speaker": "Tom",
     "text": "D'abord — si vous, ou quelqu'un que vous connaissez, pensez à travailler au Luxembourg, il y a désormais une seule porte d'entrée officielle.",
-    "t": 578.63
+    "t": 599.29
    },
    {
     "speaker": "Tom",
     "text": "workinluxembourg point com.",
-    "t": 585.69
+    "t": 606.35
    },
    {
     "speaker": "Tom",
     "text": "Commencez là, au lieu de vous perdre.",
-    "t": 587.53
+    "t": 608.19
    },
    {
     "speaker": "Anna",
     "text": "Une seule porte d'entrée.",
-    "t": 589.7
+    "t": 610.36
    },
    {
     "speaker": "Tom",
     "text": "Ensuite — il est construit autour de trois sections claires.",
-    "t": 591.17
+    "t": 611.83
    },
    {
     "speaker": "Tom",
     "text": "« Work here » pour la carrière, « Live here » pour la vie, et « Get started » pour les démarches pratiques et les permis.",
-    "t": 594.47
+    "t": 615.13
    },
    {
     "speaker": "Anna",
     "text": "Et troisièmement ?",
-    "t": 601.12
+    "t": 621.78
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement — vous n'avez pas à le faire seul.",
-    "t": 602.4
+    "t": 623.06
    },
    {
     "speaker": "Tom",
     "text": "Le Job Board vous connecte à de vrais emplois via l'ADEM, et le Talent Desk vous offre une vraie personne pour vous guider.",
-    "t": 604.93
+    "t": 625.59
    },
    {
     "speaker": "Tom",
     "text": "De l'information, plus un coup de main.",
-    "t": 610.98
+    "t": 631.64
    },
    {
     "speaker": "Anna",
     "text": "Un petit résumé pour finir ?",
-    "t": 613.15
+    "t": 633.81
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Work in Luxembourg, sur workinluxembourg point com, est un portail officiel mis en place par l'État — une porte d'entrée unique pour les talents internationaux qui veulent travailler et vivre au Luxembourg.",
-    "t": 614.81
+    "t": 635.47
    },
    {
     "speaker": "Tom",
     "text": "Il est organisé en trois sections — Work here, Live here, et Get started — et il est porté par les principaux acteurs économiques et de l'emploi du pays, dont l'ADEM.",
-    "t": 626.49
+    "t": 647.15
    },
    {
     "speaker": "Tom",
     "text": "Son Job Board vous connecte à de vraies offres via l'ADEM, et son Talent Desk offre un accompagnement personnalisé et humain.",
-    "t": 636.1
+    "t": 656.76
    },
    {
     "speaker": "Tom",
     "text": "Pour les métiers en pénurie, les professionnels hors UE peuvent même obtenir une immigration plus rapide.",
-    "t": 642.76
+    "t": 663.42
    },
    {
     "speaker": "Anna",
     "text": "Et le message du jour ?",
-    "t": 648.87
+    "t": 669.53
    },
    {
     "speaker": "Tom",
     "text": "Qu'un pays qui dépend des talents internationaux a enfin créé une porte claire et accueillante pour eux.",
-    "t": 650.3
+    "t": 670.96
    },
    {
     "speaker": "Tom",
     "text": "Si votre avenir, ou celui de quelqu'un que vous aimez, se trouve peut-être au Luxembourg — le chemin vient de devenir beaucoup plus simple.",
-    "t": 655.47
+    "t": 676.13
    },
    {
     "speaker": "Anna",
     "text": "Alors... que ce soit pour vous, un ami à l'étranger, ou votre propre entreprise — retenez l'adresse.",
-    "t": 662.56
+    "t": 683.22
    },
    {
     "speaker": "Anna",
     "text": "Work in Luxembourg.",
-    "t": 666.86
+    "t": 687.52
    },
    {
     "speaker": "Anna",
     "text": "workinluxembourg point com.",
-    "t": 668.05
+    "t": 688.71
    },
    {
     "speaker": "Tom",
     "text": "Une seule porte d'entrée, vers une nouvelle vie.",
-    "t": 670.14
+    "t": 690.8
    },
    {
     "speaker": "Tom",
     "text": "C'est une bonne chose à connaître.",
-    "t": 672.5
+    "t": 693.16
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le portail Work in Luxembourg.",
-    "t": 674.31
+    "t": 694.97
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 677
+    "t": 697.66
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 684.91
+    "t": 705.57
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 700.76
+    "t": 721.42
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 705.41
+    "t": 726.07
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 707.19
+    "t": 727.85
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 711.57
+    "t": 732.23
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 712.8
+    "t": 733.46
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 715.26
+    "t": 735.92
    }
   ],
   "segments_de": [
@@ -16408,673 +16443,693 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Wohnen, Familie, Bildung, Gesundheitsversorgung, Kultur, Freizeit — und das multikulturelle, mehrsprachige Umfeld.",
-    "t": 210.26
+    "text": "Sicherheit und Stabilität, Gesundheitsversorgung, Bildung, Familienleben, Kultur und Freizeit — und das multikulturelle, mehrsprachige Umfeld.",
+    "t": 210.44
    },
    {
     "speaker": "Tom",
     "text": "Denn ein Job ist nur die Hälfte eines Lebens.",
-    "t": 218.97
+    "t": 220.66
    },
    {
     "speaker": "Tom",
     "text": "Die andere Hälfte ist — wird meine Familie hier glücklich sein?",
-    "t": 221.34
+    "t": 223.29
    },
    {
     "speaker": "Anna",
     "text": "Das ist so wichtig.",
-    "t": 225.1
+    "t": 227.02
    },
    {
     "speaker": "Anna",
     "text": "Menschen ziehen nicht nur wegen eines Jobs um.",
-    "t": 226.49
+    "t": 228.41
    },
    {
     "speaker": "Anna",
-    "text": "Sie ziehen um für ein Leben.",
-    "t": 228.98
-   },
-   {
-    "speaker": "Tom",
     "text": "Sie ziehen um für ein Leben.",
     "t": 230.9
    },
    {
     "speaker": "Tom",
+    "text": "Sie ziehen um für ein Leben.",
+    "t": 232.82
+   },
+   {
+    "speaker": "Tom",
     "text": "Und dieser Bereich hilft dir, es dir vorzustellen — Schulen für die Kinder, das Gesundheitssystem, Dinge, die man am Wochenende unternehmen kann.",
-    "t": 232.66
+    "t": 234.58
    },
    {
     "speaker": "Anna",
     "text": "Und der dritte Bereich — „Get started\".",
-    "t": 240.68
+    "t": 242.6
    },
    {
     "speaker": "Tom",
     "text": "„Get started\" ist der praktische Bereich, wo man die Ärmel hochkrempelt.",
-    "t": 243.5
+    "t": 245.42
    },
    {
     "speaker": "Tom",
     "text": "Er behandelt das Thema Einwanderung — Aufenthalts- und Arbeitserlaubnisse — sowie die Jobsuche, das Wohnen und einen vollständigen Umzugsleitfaden.",
-    "t": 247.34
+    "t": 249.26
    },
    {
     "speaker": "Tom",
     "text": "Es ist der Teil „Wie mache ich das eigentlich\".",
-    "t": 256.24
+    "t": 258.16
    },
    {
     "speaker": "Anna",
     "text": "Die ersten beiden Bereiche inspirieren dich also, und der dritte hilft dir, echte Schritte zu gehen.",
-    "t": 258.92
+    "t": 260.84
    },
    {
     "speaker": "Tom",
     "text": "Das ist die perfekte Art, es zu sagen.",
-    "t": 264.71
+    "t": 266.63
    },
    {
     "speaker": "Tom",
     "text": "Träume davon in „Work here\" und „Live here\", und setze es dann um in „Get started\".",
-    "t": 266.91
+    "t": 268.83
    },
    {
     "speaker": "Tom",
     "text": "Und für Unternehmen gibt es sogar einen Employer Toolkit, der ihnen hilft, aus dem Ausland zu rekrutieren.",
-    "t": 273.27
+    "t": 275.19
    },
    {
     "speaker": "Anna",
     "text": "Und jetzt, Tom — das Wichtigste für die meisten Menschen.",
-    "t": 279.22
+    "t": 281.14
    },
    {
     "speaker": "Anna",
     "text": "Jobs. Kann man über dieses Portal wirklich einen Job finden?",
-    "t": 283.77
+    "t": 285.69
    },
    {
     "speaker": "Tom",
     "text": "Kann man. Es gibt ein Job Board — einen Ort, um nach offenen Stellen zu suchen.",
-    "t": 288.1
+    "t": 290.02
    },
    {
     "speaker": "Tom",
     "text": "Und hier kommt das Clevere — es ist direkt mit der internationalen Rekrutierungsplattform von ADEM verbunden.",
-    "t": 293.5
+    "t": 295.42
    },
    {
     "speaker": "Anna",
     "text": "ADEM — das ist die nationale Arbeitsagentur, die du erwähnt hast.",
-    "t": 299.72
+    "t": 301.64
    },
    {
     "speaker": "Tom",
     "text": "Richtig. ADEM ist Luxemburgs öffentlicher Arbeitsvermittlungsdienst.",
-    "t": 304.13
+    "t": 306.05
    },
    {
     "speaker": "Tom",
     "text": "Die Jobs sind also nicht zufällig — sie kommen über die offizielle Agentur.",
-    "t": 308.59
+    "t": 310.51
    },
    {
     "speaker": "Tom",
     "text": "Die Anzeigen werden täglich aktualisiert, und man kann ein Profil erstellen und sich direkt auf offene Stellen bewerben.",
-    "t": 312.8
+    "t": 314.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es konzentriert sich auf die Berufe, in denen Luxemburg am dringendsten Menschen braucht.",
+    "t": 321.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Für Jobs in allen anderen Branchen verweist die Website auf das europäische Jobportal EURES.",
+    "t": 326.19
    },
    {
     "speaker": "Anna",
     "text": "Und schaut sich tatsächlich jemand diese Profile an?",
-    "t": 319.28
+    "t": 332.32
    },
    {
     "speaker": "Anna",
     "text": "Oder verschwinden sie einfach in einer Datenbank?",
-    "t": 322.14
+    "t": 335.18
    },
    {
     "speaker": "Tom",
     "text": "Sie sind echt.",
-    "t": 324.87
+    "t": 337.91
    },
    {
     "speaker": "Tom",
-    "text": "Tatsächlich hat die Plattform bereits rund elftausend Kandidatinnen und Kandidaten aus aller Welt, die von ADEM vorausgewählt wurden.",
-    "t": 326.04
+    "text": "Jedes Profil wird von ADEM vorab geprüft, und Arbeitgeber durchsuchen die Datenbank und kontaktieren Kandidaten direkt.",
+    "t": 339.13
    },
    {
     "speaker": "Tom",
     "text": "Es ist also ein aktiver Pool, den Arbeitgeber wirklich nutzen, um Menschen zu finden.",
-    "t": 333.71
+    "t": 346.64
    },
    {
     "speaker": "Anna",
-    "text": "Elftausend. Es ist also ein lebendiger Marktplatz, kein leeres schwarzes Brett.",
-    "t": 338.59
+    "text": "Von ADEM vorab geprüft.",
+    "t": 351.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist also ein lebendiger Marktplatz, kein leeres schwarzes Brett.",
+    "t": 353.28
    },
    {
     "speaker": "Tom",
     "text": "Ein lebendiger Marktplatz.",
-    "t": 343.99
+    "t": 357.58
    },
    {
     "speaker": "Tom",
     "text": "Arbeitgeber, die Fähigkeiten suchen, und qualifizierte Menschen, die eine Zukunft suchen — die sich an einem Ort treffen.",
-    "t": 345.82
+    "t": 359.41
    },
    {
     "speaker": "Anna",
     "text": "Du hast erwähnt, dass Luxemburg in bestimmten Berufen einen Mangel hat.",
-    "t": 352.95
+    "t": 366.54
    },
    {
     "speaker": "Anna",
     "text": "Hilft das Portal dabei ganz konkret?",
-    "t": 356.86
+    "t": 370.45
    },
    {
     "speaker": "Tom",
     "text": "Ja — und das ist wirklich gut zu wissen.",
-    "t": 359.38
+    "t": 372.97
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg veröffentlicht eine Liste der „Mangelberufe\" — also der Berufe, in denen das Land am dringendsten Menschen braucht.",
-    "t": 361.72
+    "t": 375.31
    },
    {
     "speaker": "Tom",
     "text": "Und für Fachkräfte von außerhalb der Europäischen Union kann die Arbeit in einem dieser Mangelberufe schnellere Einwanderungsverfahren bedeuten.",
-    "t": 369.17
+    "t": 382.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Arbeitgeber muss nicht zuerst vor Ort nach jemandem suchen, und so gibt ADEM innerhalb weniger Tage grünes Licht.",
+    "t": 391.05
    },
    {
     "speaker": "Anna",
     "text": "Wenn deine Fähigkeit also eine ist, die das Land dringend braucht, öffnet sich die Tür schneller.",
-    "t": 377.43
+    "t": 398
    },
    {
     "speaker": "Tom",
     "text": "Schneller und reibungsloser.",
-    "t": 382.83
+    "t": 403.4
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine Art zu sagen — wir brauchen dich wirklich, also machen wir es dir einfacher.",
-    "t": 385.01
+    "t": 405.58
    },
    {
     "speaker": "Anna",
     "text": "All diese Online-Informationen sind ja wunderbar.",
-    "t": 389.67
+    "t": 410.24
    },
    {
     "speaker": "Anna",
     "text": "Aber ein Umzug ins Ausland ist stressig.",
-    "t": 392.52
+    "t": 413.09
    },
    {
     "speaker": "Anna",
     "text": "Gibt es einen Menschen, mit dem man tatsächlich sprechen kann?",
-    "t": 394.96
+    "t": 415.53
    },
    {
     "speaker": "Tom",
     "text": "Den gibt es — und diesen Teil liebe ich.",
-    "t": 398.25
+    "t": 418.82
    },
    {
     "speaker": "Tom",
     "text": "Neben der Website gibt es etwas, das sich Talent Desk nennt.",
-    "t": 400.88
-   },
-   {
-    "speaker": "Anna",
-    "text": "Der Talent Desk.",
-    "t": 404.51
-   },
-   {
-    "speaker": "Anna",
-    "text": "Was ist das?",
-    "t": 405.74
-   },
-   {
-    "speaker": "Tom",
-    "text": "Es ist ein Service, der persönliche, menschliche Unterstützung bietet.",
-    "t": 406.93
-   },
-   {
-    "speaker": "Tom",
-    "text": "Er informiert dich, berät dich und begleitet dich durch die behördlichen Schritte und den Integrationsprozess.",
-    "t": 410.79
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und wenn du eine bestimmte Einrichtung brauchst, stellt er den Kontakt zur richtigen her.",
-    "t": 416.89
-   },
-   {
-    "speaker": "Tom",
-    "text": "Du erreichst den Talent Desk per E-Mail unter contact@talentdesk.lu, oder du besuchst ihn nach Terminvereinbarung auf Kirchberg.",
     "t": 421.45
    },
    {
     "speaker": "Anna",
+    "text": "Der Talent Desk.",
+    "t": 425.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was ist das?",
+    "t": 426.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist ein Service, der persönliche, menschliche Unterstützung bietet.",
+    "t": 427.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Er informiert dich, berät dich und begleitet dich durch die behördlichen Schritte und den Integrationsprozess.",
+    "t": 431.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wenn du eine bestimmte Einrichtung brauchst, stellt er den Kontakt zur richtigen her.",
+    "t": 437.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Du erreichst den Talent Desk per E-Mail unter contact@talentdesk.lu, oder du besuchst ihn nach Terminvereinbarung auf Kirchberg.",
+    "t": 442.02
+   },
+   {
+    "speaker": "Anna",
     "text": "Also ein echter Mensch, der dir hilft, dich durch den Papierkram und das Einleben zurechtzufinden.",
-    "t": 430.5
+    "t": 451.07
    },
    {
     "speaker": "Tom",
     "text": "Ein echter Mensch.",
-    "t": 435.89
+    "t": 456.46
    },
    {
     "speaker": "Tom",
     "text": "Die Website gibt dir die Informationen; der Talent Desk gibt dir die Begleitung.",
-    "t": 437.07
+    "t": 457.64
    },
    {
     "speaker": "Tom",
     "text": "Und er hilft nicht nur Einzelpersonen — er unterstützt auch Unternehmen bei ihrer internationalen Rekrutierung.",
-    "t": 441.41
+    "t": 461.98
    },
    {
     "speaker": "Anna",
     "text": "Beide Seiten also — die Talente und die Arbeitgeber — bekommen Unterstützung.",
-    "t": 447.55
+    "t": 468.12
    },
    {
     "speaker": "Tom",
     "text": "Beide Seiten. Das macht das Ganze reibungsloser und herzlicher.",
-    "t": 452.32
+    "t": 472.89
    },
    {
     "speaker": "Anna",
     "text": "Tom, lass uns über das Bild sprechen, das das Portal von Luxemburg zeichnet.",
-    "t": 456.11
+    "t": 476.68
    },
    {
     "speaker": "Anna",
     "text": "Was macht das Land laut dem Portal attraktiv?",
-    "t": 460.64
+    "t": 481.21
    },
    {
     "speaker": "Anna",
     "text": "Und seien wir ehrlich: Das ist eine Werbeseite.",
-    "t": 463.68
+    "t": 484.25
    },
    {
     "speaker": "Tom",
     "text": "Fair — es ist ein Schaufenster, also nehmen wir es als solches, mit den Fakten und ihren Quellen.",
-    "t": 466.83
+    "t": 487.4
    },
    {
     "speaker": "Tom",
     "text": "Es hebt Dinge hervor wie Sicherheit und Stabilität, eine vielfältige, multikulturelle Bevölkerung, eine dynamische Wirtschaft und ein familienfreundliches Umfeld mit guten Schulen und kostenlosem öffentlichem Nahverkehr.",
-    "t": 473.62
+    "t": 494.19
    },
    {
     "speaker": "Anna",
     "text": "Und es untermauert das mit Rankings, oder?",
-    "t": 488.07
+    "t": 508.64
    },
    {
     "speaker": "Tom",
     "text": "Das tut es, und es nennt die Quellen.",
-    "t": 490.52
+    "t": 511.09
    },
    {
     "speaker": "Tom",
-    "text": "Zum Beispiel — laut dem Legatum Prosperity Index ist Luxemburg das sicherste Land für Expats, auf Platz eins.",
-    "t": 492.95
+    "text": "Zum Beispiel — der Legatum Prosperity Index zählt Luxemburg zu den sichersten Ländern für Expats.",
+    "t": 513.47
    },
    {
     "speaker": "Tom",
-    "text": "Laut dem IMD World Talent Ranking ist es weltweit das zweitbeste Land, wenn es darum geht, Talente anzuziehen.",
-    "t": 500.42
+    "text": "Und das IMD World Talent Ranking zählt es weltweit zu den besten Ländern, wenn es darum geht, Talente anzuziehen.",
+    "t": 520.01
    },
    {
     "speaker": "Tom",
     "text": "Und es weist auf eine bemerkenswerte Tatsache über die Erwerbsbevölkerung hin.",
-    "t": 507.1
+    "t": 526.46
    },
    {
     "speaker": "Anna",
     "text": "Und die wäre?",
-    "t": 511.62
+    "t": 531.06
    },
    {
     "speaker": "Tom",
-    "text": "Dass rund vierundsiebzig Prozent der luxemburgischen Erwerbsbevölkerung entweder ausländische Staatsangehörige oder Grenzgänger sind.",
-    "t": 512.92
+    "text": "Dass rund drei Viertel der luxemburgischen Erwerbsbevölkerung entweder ausländische Staatsangehörige oder Grenzgänger sind.",
+    "t": 532.36
    },
    {
     "speaker": "Tom",
-    "text": "Und mehr als zweihundertachtundzwanzigtausend Menschen überqueren jeden Tag eine Grenze, um hier zu arbeiten.",
-    "t": 520.91
+    "text": "Und mehr als zweihunderttausend Menschen überqueren jeden Tag eine Grenze, um hier zu arbeiten.",
+    "t": 539.89
    },
    {
     "speaker": "Anna",
-    "text": "Vierundsiebzig Prozent. In einem internationalen Team zu arbeiten, ist hier also nicht die Ausnahme — es ist völlig normal.",
-    "t": 527.18
+    "text": "Drei Viertel. In einem internationalen Team zu arbeiten, ist hier also nicht die Ausnahme — es ist völlig normal.",
+    "t": 545.61
    },
    {
     "speaker": "Tom",
     "text": "Es ist die alltägliche Realität.",
-    "t": 534.81
+    "t": 552.61
    },
    {
     "speaker": "Tom",
     "text": "Die Menschen in Luxemburg sprechen im Durchschnitt mehrere Sprachen — Luxemburgisch, Französisch, Deutsch und viel Englisch bei der Arbeit.",
-    "t": 537.02
+    "t": 554.82
    },
    {
     "speaker": "Tom",
     "text": "Für einen internationalen Neuankömmling ist das beruhigend.",
-    "t": 545.07
+    "t": 562.87
    },
    {
     "speaker": "Tom",
     "text": "Du bist nicht der Außenseiter.",
-    "t": 548.41
+    "t": 566.21
    },
    {
     "speaker": "Tom",
     "text": "Jeder ist von irgendwoher gekommen.",
-    "t": 550.08
+    "t": 567.88
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein schöner Gedanke.",
-    "t": 552.19
+    "t": 569.99
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es konkret.",
-    "t": 553.86
+    "t": 571.66
    },
    {
     "speaker": "Anna",
     "text": "Können wir einer einzelnen Person folgen?",
-    "t": 555.4
+    "t": 573.2
    },
    {
     "speaker": "Tom",
     "text": "Tun wir das.",
-    "t": 557.96
+    "t": 575.76
    },
    {
     "speaker": "Tom",
     "text": "Stell dir eine Softwareentwicklerin vor — nennen wir sie Priya.",
-    "t": 558.99
+    "t": 576.79
    },
    {
     "speaker": "Tom",
     "text": "Sie lebt weit weg und hat gehört, dass Luxemburg ein guter Ort für ihre Fähigkeiten sein könnte.",
-    "t": 562.73
+    "t": 580.53
    },
    {
     "speaker": "Tom",
     "text": "Aber sie hat keine Ahnung, wo sie anfangen soll.",
-    "t": 567.57
+    "t": 585.37
    },
    {
     "speaker": "Anna",
     "text": "Die klassische Situation.",
-    "t": 570.05
+    "t": 587.85
    },
    {
     "speaker": "Anna",
     "text": "So viele Fragen und keine Landkarte.",
-    "t": 571.81
+    "t": 589.61
    },
    {
     "speaker": "Tom",
     "text": "Also findet sie das Portal — workinluxembourg.com.",
-    "t": 574.23
+    "t": 592.03
    },
    {
     "speaker": "Tom",
     "text": "Zuerst liest sie „Work here\" und sieht, dass die Technologiebranche ein starker, wachsender Sektor ist.",
-    "t": 578.01
+    "t": 595.81
    },
    {
     "speaker": "Tom",
     "text": "Dann öffnet sie „Live here\" und schaut sich Schulen und Wohnungen für ihre Familie an.",
-    "t": 584.09
+    "t": 601.89
    },
    {
     "speaker": "Anna",
     "text": "Bis hierhin erkundet sie also einfach, bekommt ein Gefühl dafür.",
-    "t": 589.09
+    "t": 606.89
    },
    {
     "speaker": "Tom",
     "text": "Genau. Dann geht sie zum Job Board, erstellt ein Profil und bewirbt sich auf ein paar offene Stellen — echte Jobs, über ADEM.",
-    "t": 592.81
+    "t": 610.61
    },
    {
     "speaker": "Tom",
     "text": "Vielleicht steht ihr Fachgebiet sogar auf der Liste der Mangelberufe, was einen reibungsloseren Einwanderungsweg bedeutet.",
-    "t": 601.41
+    "t": 619.21
    },
    {
     "speaker": "Anna",
     "text": "Und wenn der Papierkram überwältigend wird?",
-    "t": 608.54
+    "t": 626.34
    },
    {
     "speaker": "Tom",
     "text": "Dann wendet sie sich an den Talent Desk, und ein echter Mensch hilft ihr, die Erlaubnisse und die Schritte zu verstehen.",
-    "t": 611.11
+    "t": 628.91
    },
    {
     "speaker": "Tom",
     "text": "Und in „Get started\" folgt sie dem Umzugsleitfaden — Wohnen, Anmeldung, alles davon.",
-    "t": 617.26
+    "t": 635.06
    },
    {
     "speaker": "Anna",
     "text": "Von einer einzigen Website aus geht sie also von „Ich habe keine Ahnung\" zu „Ich habe ein Jobangebot und einen Plan\".",
-    "t": 623.4
+    "t": 641.2
    },
    {
     "speaker": "Tom",
     "text": "Von einem vagen Traum zu einem konkreten Umzug.",
-    "t": 631.17
+    "t": 648.97
    },
    {
     "speaker": "Tom",
     "text": "Genau das ist der ganze Sinn des Portals — Verwirrung in einen klaren Weg zu verwandeln.",
-    "t": 634.27
+    "t": 652.07
    },
    {
     "speaker": "Anna",
     "text": "Und ehrlich gesagt ist das sogar für Menschen nützlich, die schon hier sind, oder?",
-    "t": 639.88
+    "t": 657.68
    },
    {
     "speaker": "Tom",
     "text": "Sehr sogar. Wenn du einen Freund oder ein Familienmitglied im Ausland hast, das überlegt, zu dir nach Luxemburg zu kommen, dann ist das genau die Adresse, die du ihnen gibst.",
-    "t": 644.4
+    "t": 662.2
    },
    {
     "speaker": "Tom",
     "text": "Und wenn du ein Arbeitgeber bist, der Mühe hat, Fachkräfte zu finden, dann ist das die Adresse, wo du suchst und wo du um Hilfe bittest.",
-    "t": 654.48
+    "t": 672.28
    },
    {
     "speaker": "Anna",
     "text": "Gut, Tom, bringen wir es auf den Punkt.",
-    "t": 662.06
+    "t": 679.86
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich zuhöre, was sollte ich mitnehmen?",
-    "t": 664.66
+    "t": 682.46
    },
    {
     "speaker": "Tom",
     "text": "Ein paar einfache Dinge.",
-    "t": 667.22
+    "t": 685.02
    },
    {
     "speaker": "Tom",
     "text": "Erstens — wenn du oder jemand, den du kennst, darüber nachdenkt, in Luxemburg zu arbeiten, dann gibt es jetzt eine offizielle Eingangstür.",
-    "t": 668.72
+    "t": 686.52
    },
    {
     "speaker": "Tom",
     "text": "workinluxembourg.com. Fang dort an, statt dich zu verlieren.",
-    "t": 676.61
+    "t": 694.41
    },
    {
     "speaker": "Anna",
     "text": "Eine Eingangstür.",
-    "t": 681.28
+    "t": 699.08
    },
    {
     "speaker": "Tom",
     "text": "Zweitens — es ist um drei klare Bereiche herum aufgebaut.",
-    "t": 682.7
+    "t": 700.5
    },
    {
     "speaker": "Tom",
     "text": "„Work here\" für die Karriere, „Live here\" für das Leben und „Get started\" für die praktischen Schritte und Erlaubnisse.",
-    "t": 687.12
+    "t": 704.92
    },
    {
     "speaker": "Anna",
     "text": "Und drittens?",
-    "t": 694.86
+    "t": 712.66
    },
    {
     "speaker": "Tom",
     "text": "Drittens — du musst es nicht allein machen.",
-    "t": 696.09
+    "t": 713.89
    },
    {
     "speaker": "Tom",
     "text": "Das Job Board verbindet dich über ADEM mit echten Jobs, und der Talent Desk gibt dir einen echten Menschen, der dich begleitet.",
-    "t": 698.79
+    "t": 716.59
    },
    {
     "speaker": "Tom",
     "text": "Informationen, plus eine helfende Hand.",
-    "t": 705.55
+    "t": 723.35
    },
    {
     "speaker": "Anna",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 708.19
+    "t": 725.99
    },
    {
     "speaker": "Tom",
     "text": "Klar. Work in Luxembourg, unter workinluxembourg.com, ist ein offizielles, staatlich geführtes Portal — ein einziges Tor für internationale Talente, die in Luxemburg arbeiten und leben möchten.",
-    "t": 710.45
+    "t": 728.25
    },
    {
     "speaker": "Tom",
     "text": "Es ist in drei Bereiche gegliedert — Work here, Live here und Get started — und es wird von den wichtigsten Wirtschafts- und Beschäftigungsakteuren des Landes getragen, einschließlich ADEM.",
-    "t": 723.78
+    "t": 741.58
    },
    {
     "speaker": "Tom",
     "text": "Sein Job Board verbindet dich über ADEM mit echten offenen Stellen, und sein Talent Desk bietet persönliche, menschliche Begleitung.",
-    "t": 735.85
+    "t": 753.65
    },
    {
     "speaker": "Tom",
     "text": "Bei Mangelberufen können Fachkräfte von außerhalb der EU sogar eine schnellere Einwanderung bekommen.",
-    "t": 743.15
+    "t": 760.95
    },
    {
     "speaker": "Anna",
     "text": "Und die Botschaft für heute?",
-    "t": 749.32
+    "t": 767.12
    },
    {
     "speaker": "Tom",
     "text": "Dass ein Land, das auf internationale Talente angewiesen ist, endlich eine klare, einladende Tür dafür geschaffen hat.",
-    "t": 751.12
+    "t": 768.92
    },
    {
     "speaker": "Tom",
     "text": "Wenn deine Zukunft, oder die eines Menschen, den du liebst, in Luxemburg liegen könnte — der Weg ist gerade viel einfacher geworden.",
-    "t": 758.4
+    "t": 776.2
    },
    {
     "speaker": "Anna",
     "text": "Also... ob für dich, einen Freund im Ausland oder dein eigenes Unternehmen — merk dir die Adresse.",
-    "t": 766.05
+    "t": 783.85
    },
    {
     "speaker": "Anna",
     "text": "Work in Luxembourg.",
-    "t": 773.01
+    "t": 790.81
    },
    {
     "speaker": "Anna",
     "text": "workinluxembourg.com.",
-    "t": 774.49
+    "t": 792.29
    },
    {
     "speaker": "Tom",
     "text": "Eine Tür zu einem neuen Leben.",
-    "t": 776.63
+    "t": 794.43
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine gute Sache, die man kennen sollte.",
-    "t": 778.57
+    "t": 796.37
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Portal Work in Luxembourg.",
-    "t": 781.08
+    "t": 798.88
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 784.36
+    "t": 802.16
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 793.19
+    "t": 810.99
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 811.04
+    "t": 828.84
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 816.74
+    "t": 834.54
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 818.99
+    "t": 836.79
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 823.88
+    "t": 841.68
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 825.03
+    "t": 842.83
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 828.24
+    "t": 846.04
    }
   ],
   "questions": [
@@ -17105,11 +17160,11 @@ const EPISODES = [
     "options": [
      "It collects job offers automatically from random websites around the world, without checking whether they are still open",
      "It only shows jobs in the public sector, such as ministries and communes, reserved for people who speak Luxembourgish",
-     "It is linked to ADEM's international recruitment platform, with vacancies updated daily and around 11,000 pre-selected candidates",
+     "It is linked to ADEM's international recruitment platform, with vacancies updated daily and candidates pre-screened by ADEM",
      "You must pay a monthly subscription to see the job offers, and companies can only contact candidates who have paid"
     ],
     "correct": 2,
-    "explanation": "The Job Board is connected directly to ADEM (the national public employment service) and its international recruitment platform. Vacancies are updated daily, you can create a profile and apply, and the pool already holds around 11,000 candidates pre-selected by ADEM."
+    "explanation": "The Job Board is connected directly to ADEM (the national public employment service) and its international recruitment platform. Vacancies are updated daily, you can create a profile and apply, and every candidate profile is pre-screened by ADEM. The board focuses on shortage occupations."
    },
    {
     "text": "What is the Talent Desk?",
@@ -17252,317 +17307,317 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Genau. \"Live here\" geet ëm d'Liewensqualitéit. Wunnen, Famill, Schoul, Gesondheet, Kultur, Fräizäit — an d'multikulturellt, méisproochegt Ëmfeld. Well e Job ass nëmmen d'Halschent vun engem Liewen. Déi aner Halschent ass — wäert meng Famill heihei glécklech sinn?",
+    "text": "Genau. \"Live here\" geet ëm d'Liewensqualitéit. Sécherheet a Stabilitéit, Gesondheet, Schoul, Familljeliewen, Kultur a Fräizäit — an d'multikulturellt, méisproochegt Ëmfeld. Well e Job ass nëmmen d'Halschent vun engem Liewen. Déi aner Halschent ass — wäert meng Famill heihei glécklech sinn?",
     "t": 174.91
    },
    {
     "speaker": "Anna",
     "text": "Dat ass esou wichteg. D'Leit plënneren net nëmme fir e Job. Si plënnere fir e Liewen.",
-    "t": 189.58
+    "t": 190.75
    },
    {
     "speaker": "Tom",
     "text": "Si plënnere fir e Liewen. An dës Sektioun hëlleft der, der dat virzestellen — Schoulen fir d'Kanner, d'Gesondheetssystem, Saachen, déi een um Weekend maache kann.",
-    "t": 194.75
+    "t": 195.92
    },
    {
     "speaker": "Anna",
     "text": "An déi drëtt — \"Get started\".",
-    "t": 201.99
+    "t": 203.16
    },
    {
     "speaker": "Tom",
     "text": "\"Get started\" ass déi praktesch Sektioun, wou een d'Äerm opkrëmpelt. Si deckt d'Immigratioun of — Openthalts- an Aarbechtserlaabnis — plus Jobsich, Wunnen an e komplette Relocatiounsguide. Dat ass dee Säit \"wéi maachen ech dat elo tatsächlech\".",
-    "t": 204.37
+    "t": 205.54
    },
    {
     "speaker": "Anna",
     "text": "Also déi éischt zwou Sektioune begeeschteren een, an déi drëtt hëlleft engem, richteg Schrëtt ze maachen.",
-    "t": 217.06
+    "t": 218.23
    },
    {
     "speaker": "Tom",
     "text": "Dat ass déi perfekt Manéier, fir et ze soen. Dreem et an \"Work here\" an \"Live here\", an da maach et an \"Get started\". A fir Firmen gëtt et souguer en Employer Toolkit, fir hinnen ze hëllefen, aus dem Ausland anzestellen.",
-    "t": 222.13
+    "t": 223.3
    },
    {
     "speaker": "Anna",
     "text": "Elo, Tom — déi grouss Saach fir déi meescht Leit. Jobë. Kann een iwwer dëst Portal tatsächlech e Job fannen?",
-    "t": 232.56
+    "t": 233.73
    },
    {
     "speaker": "Tom",
     "text": "Dat kann een. Et gëtt e Job Board — eng Plaz, fir no fräie Stellen ze sichen. An hei ass dee gewësse Punkt — et ass direkt mat der internationaler Recrutementsplattform vun der ADEM verbonnen.",
-    "t": 238.51
+    "t": 239.68
    },
    {
     "speaker": "Anna",
     "text": "ADEM — dat ass déi national Aarbechtsagentur, déi s du erwäänt hues.",
-    "t": 247.88
+    "t": 249.05
    },
    {
     "speaker": "Tom",
-    "text": "Genau. ADEM ass de Lëtzebuerger ëffentlechen Aarbechtsservice. Also sinn d'Jobë net zoufälleg — si kommen iwwer déi offiziell Agence. D'Annoncen ginn all Dag aktualiséiert, an du kanns e Profil uleeën an dech direkt op fräi Stellen umellen.",
-    "t": 251.55
+    "text": "Genau. ADEM ass de Lëtzebuerger ëffentlechen Aarbechtsservice. Also sinn d'Jobë net zoufälleg — si kommen iwwer déi offiziell Agence. D'Annoncen ginn all Dag aktualiséiert, an du kanns e Profil uleeën an dech direkt op fräi Stellen umellen. Et konzentréiert sech op d'Beruffer, wou Lëtzebuerg am meeschte Leit brauch. Fir Jobs an allen anere Secteuren verweist de Site op den europäesche Jobportal EURES.",
+    "t": 252.72
    },
    {
     "speaker": "Anna",
     "text": "A kuckt iwwerhaapt iergendeen op déi Profiller? Oder verschwannen se just an enger Datebank?",
-    "t": 264.43
+    "t": 275.33
    },
    {
     "speaker": "Tom",
-    "text": "Si sinn echt. Tatsächlech huet d'Plattform schonn ongeféier eelefdausend Kandidaten aus der ganzer Welt, virausgewielt vun der ADEM. Also ass et e lieweg Pool, deen d'Patronen wierklech notzen, fir Leit ze fannen.",
-    "t": 269.63
+    "text": "Si sinn echt. All Profil gëtt vun der ADEM virdrun iwwerpréift, an d'Patronen duerchsichen d'Datebank a kontaktéieren d'Kandidaten direkt. Also ass et e lieweg Pool, deen d'Patronen wierklech notzen, fir Leit ze fannen.",
+    "t": 280.53
    },
    {
     "speaker": "Anna",
-    "text": "Eelefdausend. Also ass et e liewege Maart, an net en eidele Schwaarzbriet.",
-    "t": 280.62
+    "text": "Vun der ADEM iwwerpréift. Also ass et e liewege Maart, an net en eidele Schwaarzbriet.",
+    "t": 291.41
    },
    {
     "speaker": "Tom",
     "text": "E liewege Maart. Patronen, déi Kompetenzen sichen, a kompetent Leit, déi eng Zukunft sichen — déi sech op enger Plaz begéinen.",
-    "t": 285.47
+    "t": 296.7
    },
    {
     "speaker": "Anna",
     "text": "Du hues erwäänt, datt Lëtzebuerg e Mangel a gewësse Beruffer huet. Hëlleft d'Portal speziell domat?",
-    "t": 292.08
+    "t": 303.31
    },
    {
     "speaker": "Tom",
-    "text": "Jo — an dat ass wierklech nëtzlech ze wëssen. Lëtzebuerg publizéiert eng Lëscht vun \"Mangelberuffer\" — d'Jobë, wou d'Land am meeschte Leit brauch. A fir Fachleit vun ausserhalb vun der Europäescher Unioun kann d'Schaffen an esou engem Mangelberuff méi séier Immigratiounsprozeduren bedeiten.",
-    "t": 298.03
+    "text": "Jo — an dat ass wierklech nëtzlech ze wëssen. Lëtzebuerg publizéiert eng Lëscht vun \"Mangelberuffer\" — d'Jobë, wou d'Land am meeschte Leit brauch. A fir Fachleit vun ausserhalb vun der Europäescher Unioun kann d'Schaffen an esou engem Mangelberuff méi séier Immigratiounsprozeduren bedeiten. De Patron muss net fir d'éischt hei am Land no engem sichen, an esou gëtt d'ADEM bannent e puer Deeg gréng Luucht.",
+    "t": 309.26
    },
    {
     "speaker": "Anna",
     "text": "Also wann deng Kompetenz eng ass, déi d'Land dréngend brauch, mécht sech d'Dier méi séier op.",
-    "t": 314.17
+    "t": 333.45
    },
    {
     "speaker": "Tom",
     "text": "Méi séier a méi reibungslos. Et ass eng Manéier, fir ze soen — mir brauchen dech wierklech, also loosse mer et méi einfach maachen.",
-    "t": 318.91
+    "t": 338.19
    },
    {
     "speaker": "Anna",
     "text": "Elo, all dës Online-Informatiounen sinn wonnerbar. Mä de Land wiesselen ass stresseg. Gëtt et e Mënsch, mat deem een tatsächlech schwätze kann?",
-    "t": 324.85
+    "t": 344.13
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt een — an dee Säit gefält mer. Niewent dem Site gëtt et eppes mam Numm Talent Desk.",
-    "t": 332.06
+    "t": 351.34
    },
    {
     "speaker": "Anna",
     "text": "Den Talent Desk. Wat ass dat?",
-    "t": 338.01
+    "t": 357.29
    },
    {
     "speaker": "Tom",
     "text": "Et ass e Service, deen eng perséinlech, mënschlech Ënnerstëtzung gëtt. Hie informéiert dech, beréit dech, a féiert dech duerch déi administrativ Schrëtt an de Prozess vun der Integratioun. A wann s du eng bestëmmten Institutioun brauchs, bréngt hien dech mat der richteger a Kontakt. Du erreechs den Talent Desk per E-Mail op contact@talentdesk.lu, oder du besichs en um Kierchbierg, op Rendez-vous.",
-    "t": 340
+    "t": 359.28
    },
    {
     "speaker": "Anna",
     "text": "Also eng richteg Persoun, déi der hëlleft, däi Wee duerch d'Pabeieren an d'Aliewen ze fannen.",
-    "t": 360.19
+    "t": 379.47
    },
    {
     "speaker": "Tom",
     "text": "Eng richteg Persoun. De Site gëtt der d'Informatiounen; den Talent Desk gëtt der d'Begleedung. An hien hëlleft net nëmmen Eenzelpersounen — hien ënnerstëtzt och Firmen bei hirem internationale Recrutement.",
-    "t": 364.85
+    "t": 384.13
    },
    {
     "speaker": "Anna",
     "text": "Also kréien béid Säiten — d'Talent an de Patron — eng hëllefend Hand.",
-    "t": 375.3
+    "t": 394.58
    },
    {
     "speaker": "Tom",
     "text": "Béid Säiten. Et mécht déi ganz Saach méi reibungslos, a méi waarm.",
-    "t": 379.59
+    "t": 398.87
    },
    {
     "speaker": "Anna",
     "text": "Tom, loosse mer iwwer d'Bild schwätzen, dat d'Portal vu Lëtzebuerg molt. Wat seet et, mécht d'Land attraktiv? A loosse mer éierlech sinn, datt dat e Promotiounssite ass.",
-    "t": 383.2
+    "t": 402.48
    },
    {
     "speaker": "Tom",
     "text": "Fair — et ass eng Vitrinn, also loosse mer et esou huelen, mat de Fakten, déi hire Quellen zougeschriwwe ginn. Et hieft Saachen ervir wéi Sécherheet a Stabilitéit, eng divers, multikulturell Bevëlkerung, eng dynamesch Wirtschaft, an e familljefrëndlecht Ëmfeld mat gudde Schoulen a gratis ëffentlechem Transport.",
-    "t": 392.27
+    "t": 411.55
    },
    {
     "speaker": "Anna",
     "text": "An et ënnermauert dat mat Rankingen, oder net?",
-    "t": 408.01
+    "t": 427.29
    },
    {
     "speaker": "Tom",
-    "text": "Dat mécht et, an et nennt d'Quellen. Zum Beispill — laut dem Legatum Prosperity Index ass Lëtzebuerg als dat séchersst Land fir Expats op der Nummer eent gerankt. Laut dem IMD World Talent Ranking ass et weltwäit op der zweeter Plaz, fir Talenter unzéien. An et weist op eng opfälleg Tatsaach iwwer d'Aarbechtskräften hin.",
-    "t": 410.7
+    "text": "Dat mécht et, an et nennt d'Quellen. Zum Beispill — de Legatum Prosperity Index zielt Lëtzebuerg zu de sécherste Länner fir Expats. An den IMD World Talent Ranking zielt et weltwäit zu de beschten, fir Talenter unzéien. An et weist op eng opfälleg Tatsaach iwwer d'Aarbechtskräften hin.",
+    "t": 429.98
    },
    {
     "speaker": "Anna",
     "text": "Déi wier?",
-    "t": 428.3
+    "t": 447.09
    },
    {
     "speaker": "Tom",
-    "text": "Datt ongeféier véieransiwwenzeg Prozent vun de Lëtzebuerger Aarbechtskräften entweder auslännesch Staatsbierger oder Grenzgänger sinn. A méi wéi zweehonnertaachtanzwanzegdausend Leit iwwerschreiden all Dag eng Grenz, fir heihei ze schaffen.",
-    "t": 429.31
+    "text": "Datt ongeféier dräi Véierel vun de Lëtzebuerger Aarbechtskräften entweder auslännesch Staatsbierger oder Grenzgänger sinn. A méi wéi zweehonnertdausend Leit iwwerschreiden all Dag eng Grenz, fir heihei ze schaffen.",
+    "t": 448.1
    },
    {
     "speaker": "Anna",
-    "text": "Véieransiwwenzeg Prozent. Also ass d'Schaffen an engem internationalen Team heihei net d'Ausnam — et ass komplett normal.",
-    "t": 439.35
+    "text": "Dräi Véierel. Also ass d'Schaffen an engem internationalen Team heihei net d'Ausnam — et ass komplett normal.",
+    "t": 458.47
    },
    {
     "speaker": "Tom",
     "text": "Et ass déi alldeeglech Realitéit. D'Leit zu Lëtzebuerg schwätzen am Duerchschnëtt e puer Sproochen — Lëtzebuergesch, Franséisch, Däitsch, a vill Englesch op der Aarbecht. Fir en internationalen Newcomer ass dat berouegend. Du bass net deen Aussergewéinlechen. Jiddereen ass vu woanescht hierkomm.",
-    "t": 446.14
+    "t": 465
    },
    {
     "speaker": "Anna",
     "text": "Dat ass e schéine Gedanken. Loosse mer et konkret maachen. Kënne mer enger Persoun nogoen?",
-    "t": 459.91
+    "t": 478.77
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer dat. Stell der eng Softwareingenieurin vir — loosse mer si Priya nennen. Si wunnt wäit ewech, an si huet héieren, datt Lëtzebuerg eng gutt Plaz fir hir Kompetenze kéint sinn. Mä si huet keng Ahnung, wou si ufänke soll.",
-    "t": 464.52
+    "t": 483.38
    },
    {
     "speaker": "Anna",
     "text": "Déi klassesch Situatioun. Esou vill Froen, a keng Kaart.",
-    "t": 475.04
+    "t": 493.9
    },
    {
     "speaker": "Tom",
     "text": "Also fënnt si d'Portal — workinluxembourg.com. Als éischt liest si \"Work here\", a gesäit, datt d'Technologie e staarken, wuessende Secteur ass. Da mécht si \"Live here\" op, a kuckt sech Schoulen a Wunnenge fir hir Famill un.",
-    "t": 478.72
+    "t": 497.58
    },
    {
     "speaker": "Anna",
     "text": "Also bis elo entdeckt si just, kritt e Gefill dofir.",
-    "t": 491.73
+    "t": 510.59
    },
    {
     "speaker": "Tom",
     "text": "Genau. Da geet si op de Job Board, leet e Profil un, a mellt sech op e puer fräie Stellen — richteg Jobë, iwwer d'ADEM. Vläicht ass hiert Beräich souguer op der Mangellëscht, wat e méi reibungslosen Immigratiounswee bedeit.",
-    "t": 494.94
+    "t": 513.8
    },
    {
     "speaker": "Anna",
     "text": "A wann d'Pabeieren iwwerwältegend wierken?",
-    "t": 506.82
+    "t": 525.68
    },
    {
     "speaker": "Tom",
     "text": "Si wend sech un den Talent Desk, an eng richteg Persoun hëlleft hir, d'Erlaabnisser an d'Schrëtt ze verstoen. An an \"Get started\" follegt si dem Relocatiounsguide — Wunnen, Umeldung, alles.",
-    "t": 509.23
+    "t": 528.09
    },
    {
     "speaker": "Anna",
     "text": "Also vun engem eenzege Site geet si vun \"Ech hu keng Ahnung\" op \"Ech hunn en Jobubuet an e Plang\".",
-    "t": 519.13
+    "t": 537.99
    },
    {
     "speaker": "Tom",
     "text": "Vun engem vagen Dram op e konkrete Plënner. Dat ass de ganzen Zweck vum Portal — Duerchernee an e kloren Wee ze verwandelen.",
-    "t": 524.42
+    "t": 543.28
    },
    {
     "speaker": "Anna",
     "text": "An éierlech gesot, dat ass souguer nëtzlech fir Leit, déi schonn heihei sinn, oder net?",
-    "t": 531.24
+    "t": 550.1
    },
    {
     "speaker": "Tom",
     "text": "Ganz vill. Wann s du e Frënd oder e Familljemember am Ausland hues, deen iwwerleet, op Lëtzebuerg bei dech ze kommen, ass dat genau d'Plaz, wou s du hie hischécks. A wann s du e Patron bass, dee Schwieregkeeten huet, Kompetenzen ze fannen, ass dat d'Plaz, wou s du kucks, a wien s du ëm Hëllef freegs.",
-    "t": 535.05
+    "t": 553.91
    },
    {
     "speaker": "Anna",
     "text": "Okay Tom, loosse mer et zesummefaassen. Wann ech nolauschteren, wat soll ech matholen?",
-    "t": 547.75
+    "t": 566.61
    },
    {
     "speaker": "Tom",
     "text": "E puer einfach Saachen. Als éischt — wann s du, oder een, deen s du kenns, iwwerleet, zu Lëtzebuerg ze schaffen, gëtt et elo eng offiziell Dier. workinluxembourg.com. Fänk do un, amplaz dech ze verléieren.",
-    "t": 552.25
+    "t": 571.11
    },
    {
     "speaker": "Anna",
     "text": "Eng eenzeg Dier.",
-    "t": 563.51
+    "t": 582.37
    },
    {
     "speaker": "Tom",
     "text": "Zweetens — et ass ronderëm dräi kloer Sektioune gebaut. \"Work here\" fir d'Carrière, \"Live here\" fir d'Liewen, an \"Get started\" fir déi praktesch Schrëtt an d'Erlaabnisser.",
-    "t": 564.85
+    "t": 583.71
    },
    {
     "speaker": "Anna",
     "text": "An drëttens?",
-    "t": 575.32
+    "t": 594.18
    },
    {
     "speaker": "Tom",
     "text": "Drëttens — du muss et net eleng maachen. De Job Board verbënnt dech mat richtege Jobë iwwer d'ADEM, an den Talent Desk gëtt der eng richteg Persoun, fir dech ze féieren. Informatiounen, plus eng hëllefend Hand.",
-    "t": 576.49
+    "t": 595.35
    },
    {
     "speaker": "Anna",
     "text": "Eng kuerz Zesummefaassung fir ofzeschléissen?",
-    "t": 587.03
+    "t": 605.89
    },
    {
     "speaker": "Tom",
     "text": "Klar. Work in Luxembourg, op workinluxembourg.com, ass en offiziellt Portal, dat vun der Regierung gefouert gëtt — eng eenzeg Dier fir international Talenter, déi zu Lëtzebuerg schaffen an liewe wëllen. Et ass an dräi Sektiounen organiséiert — Work here, Live here, an Get started — an et gëtt vun den Haaptakteure vum Land an der Wirtschaft an der Aarbecht ënnerstëtzt, dorënner d'ADEM. Säi Job Board verbënnt dech mat richtege fräie Stellen iwwer d'ADEM, a säin Talent Desk bitt eng perséinlech, mënschlech Begleedung. Fir Mangelberuffer kënnen Net-EU-Fachleit souguer eng méi séier Immigratioun kréien.",
-    "t": 588.83
+    "t": 607.69
    },
    {
     "speaker": "Anna",
     "text": "An d'Botschaft fir haut?",
-    "t": 619.8
+    "t": 638.66
    },
    {
     "speaker": "Tom",
     "text": "Datt e Land, dat op international Talenter ugewise ass, endlech eng kloer, wëllkommend Dier dofir gemaach huet. Wann deng Zukunft, oder déi vun engem, deen s du gär hues, zu Lëtzebuerg leie kéint — de Wee ass grad vill méi einfach ginn.",
-    "t": 621.5
+    "t": 640.36
    },
    {
     "speaker": "Anna",
     "text": "Also... egal ob et fir dech, e Frënd am Ausland, oder deng eege Firma ass — denk un d'Adress. Work in Luxembourg. workinluxembourg.com.",
-    "t": 633.24
+    "t": 652.1
    },
    {
     "speaker": "Tom",
     "text": "Eng eenzeg Dier, zu engem neie Liewen. Dat ass eng gutt Saach, fir ze wëssen.",
-    "t": 642.02
+    "t": 660.88
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer d'Work in Luxembourg-Portal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 645.4
+    "t": 664.26
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 688.95
+    "t": 707.81
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 692.15
+    "t": 711.01
    }
   ],
   "audio_fr": "podcast_workinluxembourg_fr.mp3",
-  "duration_fr": 717.04,
+  "duration_fr": 737.7,
   "title_fr": "Work in Luxembourg – une seule porte d'entrée vers une nouvelle vie",
   "description_fr": "Work in Luxembourg (workinluxembourg.com) est un portail officiel, mis en place par l'État : une porte d'entrée unique pour les talents internationaux qui veulent travailler et vivre au Luxembourg. Il est organisé en trois sections – Work here, Live here et Get started – et soutenu par les principaux acteurs économiques et de l'emploi du pays, dont l'ADEM. Son Job Board vous met en relation avec de vraies offres d'emploi via l'ADEM (environ 11 000 candidats présélectionnés), et son Talent Desk offre un accompagnement personnalisé et humain ; pour les métiers en pénurie, les professionnels hors UE peuvent bénéficier de démarches d'immigration plus rapides.",
   "topics_fr": [
@@ -17603,11 +17658,11 @@ const EPISODES = [
     "options": [
      "Il collecte automatiquement des offres sur des sites pris au hasard dans le monde, sans vérifier si elles sont encore ouvertes",
      "Il ne montre que des postes du secteur public, comme les ministères et les communes, et ces postes sont réservés aux personnes qui parlent luxembourgeois",
-     "Il est relié à la plateforme de recrutement international de l'ADEM, avec des offres mises à jour chaque jour et environ 11 000 candidats présélectionnés",
+     "Il est relié à la plateforme de recrutement international de l'ADEM, avec des offres mises à jour chaque jour et des candidats présélectionnés par l'ADEM",
      "Il faut payer un abonnement mensuel pour voir les offres, et les entreprises ne peuvent contacter que les candidats qui ont payé"
     ],
     "correct": 2,
-    "explanation": "Le Job Board est connecté directement à l'ADEM (le service public de l'emploi national) et à sa plateforme de recrutement international. Les offres sont mises à jour chaque jour, vous pouvez créer un profil et postuler, et le vivier compte déjà environ 11 000 candidats présélectionnés par l'ADEM."
+    "explanation": "Le Job Board est connecté directement à l'ADEM (le service public de l'emploi national) et à sa plateforme de recrutement international. Les offres sont mises à jour chaque jour, vous pouvez créer un profil et postuler, et chaque profil de candidat est présélectionné par l'ADEM. Le Job Board se concentre sur les métiers en pénurie."
    },
    {
     "text": "Qu'est-ce que le Talent Desk ?",
@@ -17633,7 +17688,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_workinluxembourg_de.mp3",
-  "duration_de": 829.78,
+  "duration_de": 847.57,
   "title_de": "Work in Luxembourg – eine Tür zu einem neuen Leben",
   "description_de": "Work in Luxembourg (workinluxembourg.com) ist ein offizielles, staatlich geführtes Portal: eine einzige Eingangstür für internationale Fachkräfte, die in Luxemburg arbeiten und leben möchten. Es ist in drei Bereiche gegliedert – Work here, Live here und Get started – und wird von den wichtigsten Wirtschafts- und Arbeitsmarktakteuren des Landes getragen, darunter ADEM. Das Job Board verbindet Sie über ADEM mit echten Stellenangeboten (rund 11 000 vorausgewählte Kandidaten), und der Talent Desk bietet eine persönliche, menschliche Begleitung; für Mangelberufe können Fachkräfte von außerhalb der EU von schnelleren Einwanderungsverfahren profitieren.",
   "topics_de": [
@@ -17674,11 +17729,11 @@ const EPISODES = [
     "options": [
      "Er sammelt automatisch Stellenangebote von beliebigen Websites weltweit, ohne zu prüfen, ob sie noch offen sind",
      "Er zeigt nur Stellen im öffentlichen Dienst, etwa in Ministerien und Gemeinden, und diese Stellen sind nur für Menschen, die fließend Luxemburgisch sprechen",
-     "Es ist mit der internationalen Rekrutierungsplattform von ADEM verbunden, mit täglich aktualisierten Stellen und rund 11 000 vorausgewählten Kandidaten",
+     "Es ist mit der internationalen Rekrutierungsplattform von ADEM verbunden, mit täglich aktualisierten Stellen und von ADEM vorab geprüften Kandidaten",
      "Man muss ein Monatsabo zahlen, um die Angebote zu sehen, und Firmen können nur Kandidaten kontaktieren, die bezahlt haben"
     ],
     "correct": 2,
-    "explanation": "Das Job Board ist direkt mit ADEM (dem nationalen öffentlichen Arbeitsvermittlungsdienst) und seiner internationalen Rekrutierungsplattform verbunden. Die Stellen werden täglich aktualisiert, Sie können ein Profil erstellen und sich bewerben, und der Pool umfasst bereits rund 11 000 von ADEM vorausgewählte Kandidaten."
+    "explanation": "Das Job Board ist direkt mit ADEM (dem nationalen öffentlichen Arbeitsvermittlungsdienst) und seiner internationalen Rekrutierungsplattform verbunden. Die Stellen werden täglich aktualisiert, Sie können ein Profil erstellen und sich bewerben, und jedes Kandidatenprofil wird von ADEM vorab geprüft. Das Job Board konzentriert sich auf Mangelberufe."
    },
    {
     "text": "Was ist der Talent Desk?",

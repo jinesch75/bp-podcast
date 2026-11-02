@@ -52,7 +52,7 @@
 
 **ANNA:** Gut — „Live here". Ich vermute, da geht es um das Alltagsleben?
 
-**TOM:** Ganz genau. „Live here" dreht sich um die Lebensqualität. Wohnen, Familie, Bildung, Gesundheitsversorgung, Kultur, Freizeit — und das multikulturelle, mehrsprachige Umfeld. Denn ein Job ist nur die Hälfte eines Lebens. Die andere Hälfte ist — wird meine Familie hier glücklich sein?
+**TOM:** Ganz genau. „Live here" dreht sich um die Lebensqualität. Sicherheit und Stabilität, Gesundheitsversorgung, Bildung, Familienleben, Kultur und Freizeit — und das multikulturelle, mehrsprachige Umfeld. Denn ein Job ist nur die Hälfte eines Lebens. Die andere Hälfte ist — wird meine Familie hier glücklich sein?
 
 **ANNA:** Das ist so wichtig. Menschen ziehen nicht nur wegen eines Jobs um. Sie ziehen um für ein Leben.
 
@@ -72,19 +72,19 @@
 
 **ANNA:** ADEM — das ist die nationale Arbeitsagentur, die du erwähnt hast.
 
-**TOM:** Richtig. ADEM ist Luxemburgs öffentlicher Arbeitsvermittlungsdienst. Die Jobs sind also nicht zufällig — sie kommen über die offizielle Agentur. Die Anzeigen werden täglich aktualisiert, und man kann ein Profil erstellen und sich direkt auf offene Stellen bewerben.
+**TOM:** Richtig. ADEM ist Luxemburgs öffentlicher Arbeitsvermittlungsdienst. Die Jobs sind also nicht zufällig — sie kommen über die offizielle Agentur. Die Anzeigen werden täglich aktualisiert, und man kann ein Profil erstellen und sich direkt auf offene Stellen bewerben. Es konzentriert sich auf die Berufe, in denen Luxemburg am dringendsten Menschen braucht. Für Jobs in allen anderen Branchen verweist die Website auf das europäische Jobportal EURES.
 
 **ANNA:** Und schaut sich tatsächlich jemand diese Profile an? Oder verschwinden sie einfach in einer Datenbank?
 
-**TOM:** Sie sind echt. Tatsächlich hat die Plattform bereits rund elftausend Kandidatinnen und Kandidaten aus aller Welt, die von ADEM vorausgewählt wurden. Es ist also ein aktiver Pool, den Arbeitgeber wirklich nutzen, um Menschen zu finden.
+**TOM:** Sie sind echt. Jedes Profil wird von ADEM vorab geprüft, und Arbeitgeber durchsuchen die Datenbank und kontaktieren Kandidaten direkt. Es ist also ein aktiver Pool, den Arbeitgeber wirklich nutzen, um Menschen zu finden.
 
-**ANNA:** Elftausend. Es ist also ein lebendiger Marktplatz, kein leeres schwarzes Brett.
+**ANNA:** Von ADEM vorab geprüft. Es ist also ein lebendiger Marktplatz, kein leeres schwarzes Brett.
 
 **TOM:** Ein lebendiger Marktplatz. Arbeitgeber, die Fähigkeiten suchen, und qualifizierte Menschen, die eine Zukunft suchen — die sich an einem Ort treffen.
 
 **ANNA:** Du hast erwähnt, dass Luxemburg in bestimmten Berufen einen Mangel hat. Hilft das Portal dabei ganz konkret?
 
-**TOM:** Ja — und das ist wirklich gut zu wissen. Luxemburg veröffentlicht eine Liste der „Mangelberufe" — also der Berufe, in denen das Land am dringendsten Menschen braucht. Und für Fachkräfte von außerhalb der Europäischen Union kann die Arbeit in einem dieser Mangelberufe schnellere Einwanderungsverfahren bedeuten.
+**TOM:** Ja — und das ist wirklich gut zu wissen. Luxemburg veröffentlicht eine Liste der „Mangelberufe" — also der Berufe, in denen das Land am dringendsten Menschen braucht. Und für Fachkräfte von außerhalb der Europäischen Union kann die Arbeit in einem dieser Mangelberufe schnellere Einwanderungsverfahren bedeuten. Der Arbeitgeber muss nicht zuerst vor Ort nach jemandem suchen, und so gibt ADEM innerhalb weniger Tage grünes Licht.
 
 **ANNA:** Wenn deine Fähigkeit also eine ist, die das Land dringend braucht, öffnet sich die Tür schneller.
 
@@ -112,13 +112,13 @@
 
 **ANNA:** Und es untermauert das mit Rankings, oder?
 
-**TOM:** Das tut es, und es nennt die Quellen. Zum Beispiel — laut dem Legatum Prosperity Index ist Luxemburg das sicherste Land für Expats, auf Platz eins. Laut dem IMD World Talent Ranking ist es weltweit das zweitbeste Land, wenn es darum geht, Talente anzuziehen. Und es weist auf eine bemerkenswerte Tatsache über die Erwerbsbevölkerung hin.
+**TOM:** Das tut es, und es nennt die Quellen. Zum Beispiel — der Legatum Prosperity Index zählt Luxemburg zu den sichersten Ländern für Expats. Und das IMD World Talent Ranking zählt es weltweit zu den besten Ländern, wenn es darum geht, Talente anzuziehen. Und es weist auf eine bemerkenswerte Tatsache über die Erwerbsbevölkerung hin.
 
 **ANNA:** Und die wäre?
 
-**TOM:** Dass rund vierundsiebzig Prozent der luxemburgischen Erwerbsbevölkerung entweder ausländische Staatsangehörige oder Grenzgänger sind. Und mehr als zweihundertachtundzwanzigtausend Menschen überqueren jeden Tag eine Grenze, um hier zu arbeiten.
+**TOM:** Dass rund drei Viertel der luxemburgischen Erwerbsbevölkerung entweder ausländische Staatsangehörige oder Grenzgänger sind. Und mehr als zweihunderttausend Menschen überqueren jeden Tag eine Grenze, um hier zu arbeiten.
 
-**ANNA:** Vierundsiebzig Prozent. In einem internationalen Team zu arbeiten, ist hier also nicht die Ausnahme — es ist völlig normal.
+**ANNA:** Drei Viertel. In einem internationalen Team zu arbeiten, ist hier also nicht die Ausnahme — es ist völlig normal.
 
 **TOM:** Es ist die alltägliche Realität. Die Menschen in Luxemburg sprechen im Durchschnitt mehrere Sprachen — Luxemburgisch, Französisch, Deutsch und viel Englisch bei der Arbeit. Für einen internationalen Neuankömmling ist das beruhigend. Du bist nicht der Außenseiter. Jeder ist von irgendwoher gekommen.
 
