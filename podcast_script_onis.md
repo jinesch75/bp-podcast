@@ -30,7 +30,7 @@
 
 **TOM:** And that second side — the inclusion side — is the job of ONIS.
 
-**ANNA:** Exactly. The FNS handles the money. ONIS handles the people, and their path forward. REVIS isn't meant to be a cheque you receive forever, alone at home. It's meant to be a bridge.
+**ANNA:** Partly — and this is important. The FNS handles the money. For people who are ready to look for a job, the inclusion side is ADEM, the employment agency. But for people who are still far from work, it's ONIS — it handles the people, and their path forward. REVIS isn't meant to be a cheque you receive forever, alone at home. It's meant to be a bridge.
 
 **TOM:** I love that distinction. So ONIS is the office that walks beside you on the bridge.
 
@@ -66,7 +66,7 @@
 
 **TOM:** Okay, let's make it practical. If I'm a person who starts receiving REVIS, what actually happens with ONIS? Walk me through it.
 
-**ANNA:** Sure. It usually begins with an invitation — you're invited to a meeting, a reception, with ONIS. And there, you sign something called a collaboration declaration.
+**ANNA:** Sure. It actually starts at ADEM. If you're under sixty-five and able to work, ADEM first looks at your situation. If you're ready for a job, ADEM accompanies you. But if there are other difficulties to deal with first, ADEM sends you to ONIS. Then ONIS invites you to an information meeting — and there, you sign something called a collaboration declaration.
 
 **TOM:** A collaboration declaration. That sounds formal. What does it mean, really?
 
@@ -82,7 +82,7 @@
 
 **TOM:** That's important. Help that's local, and personal.
 
-**ANNA:** Very. And together, you and your agent build something called an activation plan. It's a personal plan — your situation, your difficulties, your goals, and the concrete steps to move forward.
+**ANNA:** Very. And together, you and your agent build something called an activation plan. It's a personal plan — your situation, your difficulties, your goals, and the concrete steps to move forward. The plan is set for up to a year at a time, and it can be changed whenever your situation changes.
 
 **TOM:** So the plan is built with you, not handed to you.
 
@@ -94,7 +94,7 @@
 
 **TOM:** And the work experience — how does that happen if you don't have a job yet?
 
-**ANNA:** One of the tools is a temporary placement in a useful, community role — often in a non-profit organisation. You contribute, you're active, you build experience and confidence — and that can become a stepping stone toward a real job.
+**ANNA:** One of the tools is a temporary placement in a useful, community role — with a host organisation, for example an association. You contribute, you're active, you build experience and confidence — and that can become a stepping stone toward a real job. And for that work, you receive an activation allowance — based on the minimum wage, for the hours you work.
 
 **TOM:** So you're doing something meaningful, and at the same time preparing yourself.
 
@@ -102,7 +102,7 @@
 
 **TOM:** Anna, I want to ask the honest question some listeners will have. Is this about helping people — or is it about checking up on them, making sure they're not being lazy?
 
-**ANNA:** That's a fair question, and an important one. The honest answer is — the spirit of it is help, not punishment. The whole design is to accompany people, at their own pace, around their own obstacles. It's true that REVIS asks for participation — that's the collaboration declaration. But the aim isn't to catch people out. The aim is to not abandon them.
+**ANNA:** That's a fair question, and an important one. The honest answer is — the spirit of it is help, not punishment. The whole design is to accompany people, at their own pace, around their own obstacles. It's true that REVIS asks for participation — that's the collaboration declaration — and if someone repeatedly refuses to take part, the payment can be reduced or suspended. But the aim isn't to catch people out. The aim is to not abandon them.
 
 **TOM:** To not abandon them. Because just sending money, and nothing else...
 
@@ -118,7 +118,7 @@
 
 **TOM:** A story that's more common than people think.
 
-**ANNA:** Far more common. So Paulo applies for REVIS. The FNS sorts out the money side — he gets the minimum income, so he can live. And then ONIS enters his life.
+**ANNA:** Far more common. So Paulo applies for REVIS. The FNS sorts out the money side — he gets the minimum income, so he can live. ADEM looks at his situation, sees that he isn't ready for a job yet, and sends him to ONIS. And that's when ONIS enters his life.
 
 **TOM:** He's invited to a meeting.
 
@@ -150,7 +150,7 @@
 
 **TOM:** The inclusion side, not just the money side.
 
-**ANNA:** Second — it works at your pace. If you need to stabilise first, that's allowed, that's normal. Stabilisation comes before activation. Nobody is pushed faster than they can go.
+**ANNA:** Second — it works at your pace. If you need to stabilise first, that's allowed, that's normal. Stabilisation comes before activation. Nobody is pushed faster than they can go. And in some situations — for example if you look after a young child and have no childcare, if you care for a family member, or for health reasons — you can be exempted for a while.
 
 **TOM:** And third?
 
@@ -162,7 +162,7 @@
 
 **TOM:** A short summary to finish?
 
-**ANNA:** Sure. ONIS, the National Social Inclusion Office, is the government office that handles the "inclusion" side of REVIS, Luxembourg's social inclusion income. While the National Solidarity Fund pays the money, ONIS helps the people furthest from work move forward — through stabilisation measures first, then activation measures. You sign a collaboration declaration, you're paired with a regional social inclusion agent near your home, and together you build a personal activation plan. The spirit is to accompany, not to abandon.
+**ANNA:** Sure. ONIS, the National Social Inclusion Office, is the government office that handles the "inclusion" side of REVIS, Luxembourg's social inclusion income. While the National Solidarity Fund pays the money, ONIS helps the people furthest from work — the ones ADEM sends to it — move forward — through stabilisation measures first, then activation measures. You sign a collaboration declaration, you're paired with a regional social inclusion agent near your home, and together you build a personal activation plan. The spirit is to accompany, not to abandon.
 
 **TOM:** And the message for today?
 
@@ -178,4 +178,4 @@
 
 ---
 
-*Sources: onis.gouvernement.lu (Office national d'inclusion sociale — National Social Inclusion Office). ONIS is a government administration under the Ministry of Family, created by the amended law of 28 July 2018 on the social inclusion income (REVIS); it began work on 1 January 2019, replacing the former National Social Action Service (SNAS). Its mission (Chapter 3 of the REVIS law) is the stabilisation and/or activation of people furthest from the labour market, through measures tailored to each person's needs and development; to coordinate the responsible authorities and organisations; and to collect statistical data on beneficiaries. ONIS centralises the reception of persons who must sign a collaboration declaration (article 13(1) of the REVIS law); beneficiaries are directed to a regional social inclusion agent (ARIS), working within the social offices, with whom they develop an activation plan. The financial part of REVIS is paid by the National Solidarity Fund (FNS). Office: 13C, rue de Bitbourg, L-1273 Luxembourg. General information only — see onis.gouvernement.lu and guichet.lu for current details and conditions.*
+*Sources: onis.gouvernement.lu (Office national d'inclusion sociale — National Social Inclusion Office). ONIS is a government administration under the Ministry of Family, created by the amended law of 28 July 2018 on the social inclusion income (REVIS); it began work on 1 January 2019, replacing the former National Social Action Service (SNAS). Its mission (Chapter 3 of the REVIS law) is the stabilisation and/or activation of people furthest from the labour market, through measures tailored to each person's needs and development; to coordinate the responsible authorities and organisations; and to collect statistical data on beneficiaries. ONIS centralises the reception of persons who must sign a collaboration declaration (article 13(1) of the REVIS law); beneficiaries are directed to a regional social inclusion agent (ARIS), working within the social offices, with whom they develop an activation plan. The financial part of REVIS is paid by the National Solidarity Fund (FNS). Office: 13C, rue de Bitbourg, L-1273 Luxembourg. General information only — see onis.gouvernement.lu and guichet.lu for current details and conditions. ADEM first profiles REVIS applicants under 65 who are able to work; only people with specific social/professional activation needs are referred to ONIS (onis.gouvernement.lu, updated 04.08.2025). Activation allowance for work of public utility (TUC), based on the unskilled social minimum wage; activation plan valid up to one year; temporary dispensations; sanctions. Fact-checked 9 November 2026.*

@@ -30,7 +30,7 @@
 
 **TOM:** An déi zweet Säit — d'Inklusiounssäit — ass d'Aufgab vum ONIS.
 
-**ANNA:** Genau. De FNS këmmert sech ëm d'Suen. Den ONIS këmmert sech ëm d'Leit, an ëm hire Wee no vir. REVIS soll net e Scheck sinn, deens du fir ëmmer kriss, eleng doheem. Et soll eng Bréck sinn.
+**ANNA:** Deelweis — an dat ass wichteg. De FNS këmmert sech ëm d'Suen. Fir Leit, déi prett sinn, eng Aarbecht ze sichen, ass d'Inklusiounssäit d'ADEM, d'Aarbechtsagence. Mä fir Leit, déi nach wäit vun der Aarbecht ewech sinn, ass et den ONIS — hie këmmert sech ëm d'Leit, an ëm hire Wee no vir. REVIS soll net e Scheck sinn, deens du fir ëmmer kriss, eleng doheem. Et soll eng Bréck sinn.
 
 **TOM:** Ech hunn déi Ënnerscheedung gär. Also ass den ONIS deen Office, deen niewent dir op der Bréck geet.
 
@@ -66,7 +66,7 @@
 
 **TOM:** Gutt, loosse mir et praktesch maachen. Wann ech eng Persoun sinn, déi ufänkt REVIS ze kréien, wat geschitt da konkret mam ONIS? Féier mech do duerch.
 
-**ANNA:** Gär. Et fänkt normalerweis mat enger Invitatioun un — du gëss op eng Versammlung agelueden, op en Empfang, beim ONIS. An do ënnerschreifs du eppes wat eng Kollaboratiounserklärung (déclaration de collaboration) heescht.
+**ANNA:** Gär. Eigentlech fänkt et bei der ADEM un. Wann s du ënner fënnefasechzeg bass a schaffe kanns, kuckt d'ADEM fir d'éischt deng Situatioun un. Wann s du prett bass fir eng Aarbecht, begleet dech d'ADEM. Mä wann et fir d'éischt aner Schwieregkeeten ze léisen gëtt, schéckt d'ADEM dech bei den ONIS. Dann invitéiert den ONIS dech op eng Informatiounsversammlung — an do ënnerschreifs du eppes wat eng Kollaboratiounserklärung (déclaration de collaboration) heescht.
 
 **TOM:** Eng Kollaboratiounserklärung. Dat kléngt formell. Wat heescht dat, wierklech?
 
@@ -82,7 +82,7 @@
 
 **TOM:** Dat ass wichteg. Hëllef, déi lokal ass, a perséinlech.
 
-**ANNA:** Ganz. An zesummen, du an däin Agent, baut dir eppes op wat en Aktivéierungsplang (plan d'activation) heescht. Et ass e perséinleche Plang — deng Situatioun, deng Schwieregkeeten, deng Ziler, an déi konkret Schrëtt fir no vir ze kommen.
+**ANNA:** Ganz. An zesummen, du an däin Agent, baut dir eppes op wat en Aktivéierungsplang (plan d'activation) heescht. Et ass e perséinleche Plang — deng Situatioun, deng Schwieregkeeten, deng Ziler, an déi konkret Schrëtt fir no vir ze kommen. De Plang gëllt all Kéier héchstens ee Joer, an e kann ëmmer geännert ginn, wann deng Situatioun sech ännert.
 
 **TOM:** Also gëtt de Plang mat dir gebaut, net dir iwwerreecht.
 
@@ -94,7 +94,7 @@
 
 **TOM:** An d'Aarbechtserfahrung — wéi geschitt dat, wann s du nach keng Aarbecht hues?
 
-**ANNA:** Eng vun den Hëllefsmëttelen ass eng zäitweileg Plaz an enger nëtzlecher Roll fir d'Gemeinschaft — dacks an enger Asbl. Du dréis bäi, du bass aktiv, du baus Erfahrung a Selbstvertrauen op — an dat kann e Schrëtt Richtung enger richteger Aarbecht ginn.
+**ANNA:** Eng vun den Hëllefsmëttelen ass eng zäitweileg Plaz an enger nëtzlecher Roll fir d'Gemeinschaft — bei enger Gaaschtorganisatioun, zum Beispill enger Asbl. Du dréis bäi, du bass aktiv, du baus Erfahrung a Selbstvertrauen op — an dat kann e Schrëtt Richtung enger richteger Aarbecht ginn. A fir déi Aarbecht kriss du eng Aktivéierungsallocatioun — op Basis vum Mindestloun, fir d'Stonnen, déi s du schaffs.
 
 **TOM:** Also méchs du eppes Sënnvolles, a bereets dech zur selwechter Zäit vir.
 
@@ -102,7 +102,7 @@
 
 **TOM:** Anna, ech wëll déi éierlech Fro stellen, déi verschidden Nolauschterer hu wäerten. Geet et drëm, de Leit ze hëllefen — oder geet et drëm, se ze kontrolléieren, fir sécher ze sinn, datt se net faul sinn?
 
-**ANNA:** Dat ass eng faire Fro, an eng wichteg. Déi éierlech Äntwert ass — de Geescht dervun ass Hëllef, net Strof. Dat ganzt Konzept ass, d'Leit ze begleeden, an hirem eegene Rhythmus, ronderëm hir eege Hindernisser. Et ass wouer, datt REVIS Matmaache verlaangt — dat ass d'Kollaboratiounserklärung. Mä d'Zil ass net, d'Leit z'erwëschen. D'Zil ass, se net am Stach ze loossen.
+**ANNA:** Dat ass eng faire Fro, an eng wichteg. Déi éierlech Äntwert ass — de Geescht dervun ass Hëllef, net Strof. Dat ganzt Konzept ass, d'Leit ze begleeden, an hirem eegene Rhythmus, ronderëm hir eege Hindernisser. Et ass wouer, datt REVIS Matmaache verlaangt — dat ass d'Kollaboratiounserklärung — a wann een ëmmer erëm refuséiert matzemaachen, kann d'Bezuelung reduzéiert oder ausgesat ginn. Mä d'Zil ass net, d'Leit z'erwëschen. D'Zil ass, se net am Stach ze loossen.
 
 **TOM:** Se net am Stach loossen. Well just Suen ze schécken, an näischt anescht...
 
@@ -118,7 +118,7 @@
 
 **TOM:** Eng Geschicht, déi méi heefeg ass, wéi d'Leit mengen.
 
-**ANNA:** Vill méi heefeg. Also bewaarbt sech de Paulo fir REVIS. De FNS reegelt d'Suenesäit — hie kritt den Mindestakommes, sou datt hie liewe kann. An dann trëtt den ONIS a säi Liewen.
+**ANNA:** Vill méi heefeg. Also bewaarbt sech de Paulo fir REVIS. De FNS reegelt d'Suenesäit — hie kritt den Mindestakommes, sou datt hie liewe kann. D'ADEM kuckt seng Situatioun un, gesäit, datt hien nach net prett ass fir eng Aarbecht, a schéckt hien bei den ONIS. An dann trëtt den ONIS a säi Liewen.
 
 **TOM:** Hie gëtt op eng Versammlung agelueden.
 
@@ -150,7 +150,7 @@
 
 **TOM:** D'Inklusiounssäit, net just d'Suenesäit.
 
-**ANNA:** Zweetens — et schafft an dengem Rhythmus. Wann s du dech fir d'éischt stabiliséiere muss, dann ass dat erlaabt, dat ass normal. D'Stabiliséierung kënnt virun der Aktivéierung. Keen gëtt méi séier gedréckt, wéi hie ka goen.
+**ANNA:** Zweetens — et schafft an dengem Rhythmus. Wann s du dech fir d'éischt stabiliséiere muss, dann ass dat erlaabt, dat ass normal. D'Stabiliséierung kënnt virun der Aktivéierung. Keen gëtt méi séier gedréckt, wéi hie ka goen. An a verschiddene Situatiounen — zum Beispill wann s du dech ëm e klengt Kand ouni Betreiungsplaz këmmers, ëm e Familljemember, oder aus gesondheetleche Grënn — kanns du eng Zäit laang dispenséiert ginn.
 
 **TOM:** An drëttens?
 
@@ -162,7 +162,7 @@
 
 **TOM:** E kuerzen Resumé fir ofzeschléissen?
 
-**ANNA:** Gär. Den ONIS, den Nationalen Office fir sozial Inklusioun, ass deen Office vum Staat, deen sech ëm d'"Inklusiounssäit" vu REVIS këmmert, dem Inklusiounsakommes vu Lëtzebuerg. Wärend den Nationale Solidaritéitsfong d'Suen bezuelt, hëlleft den ONIS deene Leit, déi am wäitsten ewech vun der Aarbecht sinn, no vir ze kommen — fir d'éischt duerch Stabiliséierungsmesuren, dann duerch Aktivéierungsmesuren. Du ënnerschreifs eng Kollaboratiounserklärung, du gëss mat engem regionalen Agent fir sozial Inklusioun no bei dengem Doheem zesummegesat, an zesummen baut dir e perséinlechen Aktivéierungsplang. De Geescht ass ze begleeden, net am Stach ze loossen.
+**ANNA:** Gär. Den ONIS, den Nationalen Office fir sozial Inklusioun, ass deen Office vum Staat, deen sech ëm d'"Inklusiounssäit" vu REVIS këmmert, dem Inklusiounsakommes vu Lëtzebuerg. Wärend den Nationale Solidaritéitsfong d'Suen bezuelt, hëlleft den ONIS deene Leit, déi am wäitsten ewech vun der Aarbecht sinn — deenen, déi d'ADEM bei hie schéckt — no vir ze kommen — fir d'éischt duerch Stabiliséierungsmesuren, dann duerch Aktivéierungsmesuren. Du ënnerschreifs eng Kollaboratiounserklärung, du gëss mat engem regionalen Agent fir sozial Inklusioun no bei dengem Doheem zesummegesat, an zesummen baut dir e perséinlechen Aktivéierungsplang. De Geescht ass ze begleeden, net am Stach ze loossen.
 
 **TOM:** An d'Message fir haut?
 
@@ -178,4 +178,4 @@
 
 ---
 
-*Quellen: onis.gouvernement.lu (Office national d'inclusion sociale — Nationalen Office fir sozial Inklusioun). Den ONIS ass eng Staatsverwaltung ënnert dem Familljeministère, geschaaf duerch d'ofgeännert Gesetz vum 28. Juli 2018 iwwer den Inklusiounsakommes (REVIS); hien huet seng Aarbecht den 1. Januar 2019 ugefaangen an huet de fréiere Service national d'action sociale (SNAS) ersat. Seng Missioun (Kapitel 3 vum REVIS-Gesetz) ass d'Stabiliséierung an/oder d'Aktivéierung vun de Leit, déi am wäitsten ewech vum Aarbechtsmaart sinn, duerch Mesuren, déi un d'Besoinen an d'Entwécklung vun all Persoun ugepasst sinn; d'zoustänneg Autoritéiten an Organisatiounen ze koordinéieren; an statistesch Donnéeën iwwer d'Beneficiaire ze sammelen. Den ONIS zentraliséiert den Empfang vun de Persounen, déi eng Kollaboratiounserklärung (déclaration de collaboration) musse ënnerschreiwen (Artikel 13(1) vum REVIS-Gesetz); d'Beneficiaire ginn un e regionalen Agent fir sozial Inklusioun (ARIS) weidergeleet, deen an de Sozialämter schafft, mat deem se en Aktivéierungsplang (plan d'activation) entwéckelen. De finanziellen Deel vu REVIS gëtt vum Nationale Solidaritéitsfong (FNS) bezuelt. Office: 13C, rue de Bitbourg, L-1273 Luxembourg. Nëmmen allgemeng Informatioun — kuckt onis.gouvernement.lu a guichet.lu fir aktuell Detailer a Konditiounen.*
+*Quellen: onis.gouvernement.lu (Office national d'inclusion sociale — Nationalen Office fir sozial Inklusioun). Den ONIS ass eng Staatsverwaltung ënnert dem Familljeministère, geschaaf duerch d'ofgeännert Gesetz vum 28. Juli 2018 iwwer den Inklusiounsakommes (REVIS); hien huet seng Aarbecht den 1. Januar 2019 ugefaangen an huet de fréiere Service national d'action sociale (SNAS) ersat. Seng Missioun (Kapitel 3 vum REVIS-Gesetz) ass d'Stabiliséierung an/oder d'Aktivéierung vun de Leit, déi am wäitsten ewech vum Aarbechtsmaart sinn, duerch Mesuren, déi un d'Besoinen an d'Entwécklung vun all Persoun ugepasst sinn; d'zoustänneg Autoritéiten an Organisatiounen ze koordinéieren; an statistesch Donnéeën iwwer d'Beneficiaire ze sammelen. Den ONIS zentraliséiert den Empfang vun de Persounen, déi eng Kollaboratiounserklärung (déclaration de collaboration) musse ënnerschreiwen (Artikel 13(1) vum REVIS-Gesetz); d'Beneficiaire ginn un e regionalen Agent fir sozial Inklusioun (ARIS) weidergeleet, deen an de Sozialämter schafft, mat deem se en Aktivéierungsplang (plan d'activation) entwéckelen. De finanziellen Deel vu REVIS gëtt vum Nationale Solidaritéitsfong (FNS) bezuelt. Office: 13C, rue de Bitbourg, L-1273 Luxembourg. Nëmmen allgemeng Informatioun — kuckt onis.gouvernement.lu a guichet.lu fir aktuell Detailer a Konditiounen. D'ADEM mécht fir d'éischt e Profiling vun de REVIS-Demandeuren ënner 65, déi schaffe kënnen; nëmmen d'Leit mat spezifeschen Aktivéierungsbesoinen ginn op den ONIS orientéiert (onis.gouvernement.lu, 04.08.2025). Aktivéierungsallocatioun fir TUC; Aktivéierungsplang héchstens ee Joer; temporär Dispensen; Sanktiounen. Iwwerpréift den 9. November 2026.*

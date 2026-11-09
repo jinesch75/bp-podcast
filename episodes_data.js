@@ -48583,9 +48583,9 @@ const EPISODES = [
   "key": "onis",
   "number": "Episode 16",
   "title": "The National Social Inclusion Office – More Than a Cheque",
-  "description": "The Office national d'inclusion sociale (ONIS) is the government office that handles the 'inclusion' side of REVIS, Luxembourg's social inclusion income. While the National Solidarity Fund (FNS) pays the money, ONIS helps people furthest from work move forward – through stabilisation measures first, then activation measures. You sign a collaboration declaration, are paired with a regional social inclusion agent (ARIS) near your home, and together build a personal activation plan. Created by the 2018 REVIS law, it began work in 2019. More at onis.gouvernement.lu.",
+  "description": "The Office national d'inclusion sociale (ONIS) is the government office that handles the 'inclusion' side of REVIS, Luxembourg's social inclusion income. While the National Solidarity Fund (FNS) pays the money, ONIS helps people furthest from work – referred by ADEM – move forward – through stabilisation measures first, then activation measures. You sign a collaboration declaration, are paired with a regional social inclusion agent (ARIS) near your home, and together build a personal activation plan. Created by the 2018 REVIS law, it began work in 2019. More at onis.gouvernement.lu.",
   "audio": "podcast_onis.mp3",
-  "duration": 829.08,
+  "duration": 805.85,
   "topics": [
    "ONIS & the inclusion side of REVIS",
    "Money (FNS) vs inclusion (ONIS)",
@@ -48600,3376 +48600,3276 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Hello, and welcome!",
-    "t": 0.05
+    "t": 0.65
    },
    {
     "speaker": "Anna",
     "text": "It's really nice to have you with us today.",
-    "t": 2.54
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt.",
     "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.62
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "That's a programme of living together in Luxembourg.",
-    "t": 10.72
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and also cross-border workers, to discover Luxembourg — or re-discover it — and to meet new people.",
-    "t": 14.3
-   },
-   {
-    "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 23.69
-   },
-   {
-    "speaker": "Tom",
     "text": "And today we're talking about an office with a very gentle, very human job.",
-    "t": 25.62
+    "t": 27.63
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's called the National Social Inclusion Office.",
-    "t": 30.53
+    "t": 32.99
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "The National Social Inclusion Office.",
-    "t": 34.08
+    "t": 35.84
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "In French, the Office national d'inclusion sociale.",
-    "t": 37.26
+    "t": 37.94
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "People use the short name — O-N-I-S.",
-    "t": 41.52
-   },
-   {
-    "speaker": "Tom",
-    "text": "ONIS.",
-    "t": 44.89
-   },
-   {
-    "speaker": "Tom",
-    "text": "That's it.",
-    "t": 46.65
+    "t": 41.15
    },
    {
     "speaker": "Anna",
-    "text": "Now Tom, in an earlier episode we talked about the National Solidarity Fund, and a benefit called REVIS — the social inclusion income.",
-    "t": 48.4
+    "text": "ONIS. That's it.",
+    "t": 43.95
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
+    "text": "Now Anna, in an earlier episode we talked about the National Solidarity Fund, and a benefit called REVIS — the social inclusion income.",
+    "t": 45.53
+   },
+   {
+    "speaker": "Tom",
     "text": "Is this connected?",
-    "t": 57.22
+    "t": 53.58
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's directly connected — and this is the key to understanding ONIS.",
-    "t": 59.24
+    "t": 54.88
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Do you remember, REVIS is Luxembourg's guaranteed minimum income.",
-    "t": 64.21
+    "t": 60.31
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "If your household income is too low, REVIS tops you up to a basic level.",
-    "t": 68.87
+    "t": 64.54
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Yes — the floor that the State doesn't let you fall below.",
-    "t": 73.78
+    "t": 69.05
    },
    {
-    "speaker": "Tom",
-    "text": "Right.",
-    "t": 77.86
+    "speaker": "Anna",
+    "text": "Right. But here's the thing.",
+    "t": 72.37
    },
    {
-    "speaker": "Tom",
-    "text": "But here's the thing.",
-    "t": 79.51
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The full name isn't just \"minimum income\".",
-    "t": 81.66
+    "t": 74.08
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's the \"social inclusion income\".",
-    "t": 84.96
+    "t": 76.74
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And that word — inclusion — is the whole point.",
-    "t": 87.94
+    "t": 78.97
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "REVIS has two sides.",
-    "t": 91.4
-   },
-   {
-    "speaker": "Anna",
-    "text": "Two sides.",
-    "t": 93.95
-   },
-   {
-    "speaker": "Anna",
-    "text": "Tell me.",
-    "t": 95.91
+    "t": 82.24
    },
    {
     "speaker": "Tom",
+    "text": "Two sides. Tell me.",
+    "t": 84.19
+   },
+   {
+    "speaker": "Anna",
     "text": "One side is the money — the cheque every month.",
-    "t": 97.57
+    "t": 85.68
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "That part is paid by the National Solidarity Fund, the FNS.",
-    "t": 101.03
+    "t": 88.62
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "But the second side is just as important.",
-    "t": 105.63
+    "t": 92.64
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's helping the person find their way back — back toward work, toward activity, toward being part of society again.",
-    "t": 109.02
+    "t": 95.4
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "And that second side — the inclusion side — is the job of ONIS.",
-    "t": 115.71
+    "t": 103.42
    },
    {
-    "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 120.86
+    "speaker": "Anna",
+    "text": "Partly — and this is important.",
+    "t": 107.19
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The FNS handles the money.",
-    "t": 122.79
+    "t": 109.45
    },
    {
-    "speaker": "Tom",
-    "text": "ONIS handles the people, and their path forward.",
-    "t": 125.65
+    "speaker": "Anna",
+    "text": "For people who are ready to look for a job, the inclusion side is ADEM, the employment agency.",
+    "t": 111.74
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
+    "text": "But for people who are still far from work, it's ONIS — it handles the people, and their path forward.",
+    "t": 118.14
+   },
+   {
+    "speaker": "Anna",
     "text": "REVIS isn't meant to be a cheque you receive forever, alone at home.",
-    "t": 129.36
+    "t": 124.35
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's meant to be a bridge.",
-    "t": 133.85
+    "t": 128.77
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "I love that distinction.",
-    "t": 136.18
+    "t": 130.61
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So ONIS is the office that walks beside you on the bridge.",
-    "t": 138.62
-   },
-   {
-    "speaker": "Tom",
-    "text": "Beautifully put.",
-    "t": 142.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "That's exactly what it does.",
-    "t": 145.05
+    "t": 132.44
    },
    {
     "speaker": "Anna",
+    "text": "Beautifully put. That's exactly what it does.",
+    "t": 135.6
+   },
+   {
+    "speaker": "Tom",
     "text": "Let's get the basics.",
-    "t": 147.76
+    "t": 138.3
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "What kind of office is ONIS, officially?",
-    "t": 150.14
+    "t": 140.01
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's a government administration, under the Ministry of Family.",
-    "t": 153.82
+    "t": 142.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It was created by the big REVIS reform — the law of twenty eighteen — and it started its work at the beginning of twenty nineteen.",
-    "t": 158.06
+    "t": 145.71
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It actually replaced an older service that did similar work before.",
-    "t": 165.44
+    "t": 153.64
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So it's relatively young, but built on older foundations.",
-    "t": 170.08
-   },
-   {
-    "speaker": "Tom",
-    "text": "Yes.",
-    "t": 174.38
-   },
-   {
-    "speaker": "Tom",
-    "text": "And its mission, in plain words, is to help the people who are furthest from the job market take steps back toward it — at their own pace.",
-    "t": 176.05
+    "t": 157.82
    },
    {
     "speaker": "Anna",
+    "text": "Yes. And its mission, in plain words, is to help the people who are furthest from the job market take steps back toward it — at their own pace.",
+    "t": 161.01
+   },
+   {
+    "speaker": "Tom",
     "text": "Furthest from the job market.",
-    "t": 183.38
+    "t": 170.56
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Who do you mean by that?",
-    "t": 186.02
+    "t": 172.38
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "People who, for all kinds of reasons, can't simply walk into a job tomorrow.",
-    "t": 188.28
+    "t": 173.71
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Maybe someone has been out of work for a very long time.",
-    "t": 193.5
+    "t": 178.17
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Maybe there's a health problem, or a difficult family situation, or housing troubles, or a loss of confidence.",
-    "t": 197.41
+    "t": 181.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Life can knock people down in many ways.",
+    "t": 188.01
    },
    {
     "speaker": "Tom",
-    "text": "Life can knock people down in many ways.",
-    "t": 204.11
-   },
-   {
-    "speaker": "Anna",
     "text": "So it's not just \"go and find a job\".",
-    "t": 207.26
+    "t": 190.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "The obstacles can be much deeper.",
+    "t": 192.99
    },
    {
     "speaker": "Anna",
-    "text": "The obstacles can be much deeper.",
+    "text": "Much deeper. And that's the wisdom of how ONIS works.",
+    "t": 195.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "It doesn't treat everyone the same.",
+    "t": 199.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "It recognises that before some people can look for work, they first need to stabilise their life.",
+    "t": 201.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stabilise. That's an interesting word.",
+    "t": 207.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Can you unpack it?",
+    "t": 209.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Of course. ONIS works with two kinds of measures.",
     "t": 210.33
    },
    {
-    "speaker": "Tom",
-    "text": "Much deeper.",
-    "t": 213.28
-   },
-   {
-    "speaker": "Tom",
-    "text": "And that's the wisdom of how ONIS works.",
-    "t": 215.28
-   },
-   {
-    "speaker": "Tom",
-    "text": "It doesn't treat everyone the same.",
-    "t": 218.72
-   },
-   {
-    "speaker": "Tom",
-    "text": "It recognises that before some people can look for work, they first need to stabilise their life.",
-    "t": 221.67
-   },
-   {
     "speaker": "Anna",
-    "text": "Stabilise.",
-    "t": 227.53
-   },
-   {
-    "speaker": "Anna",
-    "text": "That's an interesting word.",
-    "t": 229.57
-   },
-   {
-    "speaker": "Anna",
-    "text": "Can you unpack it?",
-    "t": 231.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "Of course.",
-    "t": 234.03
-   },
-   {
-    "speaker": "Tom",
-    "text": "ONIS works with two kinds of measures.",
-    "t": 235.85
-   },
-   {
-    "speaker": "Tom",
     "text": "The first kind are called stabilisation measures.",
-    "t": 238.98
+    "t": 213.7
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "These are for someone who isn't ready for a job yet — because there are other things to sort out first.",
-    "t": 242.46
+    "t": 216.76
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Health, personal difficulties, getting daily life back on track.",
-    "t": 247.91
+    "t": 222.54
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So first, help me stand up steadily.",
-    "t": 252.44
+    "t": 226.77
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "First, help you stand.",
-    "t": 255.85
+    "t": 228.97
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And then, the second kind — activation measures.",
-    "t": 258.36
+    "t": 231.09
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "These are the steps toward work and activity.",
-    "t": 262.16
+    "t": 235.22
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Building skills, gaining experience, getting back into a rhythm.",
-    "t": 265.53
+    "t": 238.49
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So stabilisation first, then activation.",
-    "t": 270.11
+    "t": 242.9
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "It meets people where they actually are.",
-    "t": 273.9
+    "t": 245.49
    },
    {
-    "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 276.88
+    "speaker": "Anna",
+    "text": "Exactly. It's not one-size-fits-all.",
+    "t": 247.62
    },
    {
-    "speaker": "Tom",
-    "text": "It's not one-size-fits-all.",
-    "t": 278.81
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's a path shaped around each individual person, and how they're developing.",
-    "t": 281.49
+    "t": 250.51
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Okay, let's make it practical.",
-    "t": 286.29
+    "t": 254.74
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "If I'm a person who starts receiving REVIS, what actually happens with ONIS?",
-    "t": 289.22
+    "t": 256.71
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Walk me through it.",
-    "t": 294.59
-   },
-   {
-    "speaker": "Tom",
-    "text": "Sure.",
-    "t": 296.65
-   },
-   {
-    "speaker": "Tom",
-    "text": "It usually begins with an invitation — you're invited to a meeting, a reception, with ONIS.",
-    "t": 298.29
-   },
-   {
-    "speaker": "Tom",
-    "text": "And there, you sign something called a collaboration declaration.",
-    "t": 304.36
+    "t": 261.45
    },
    {
     "speaker": "Anna",
+    "text": "Sure. It actually starts at ADEM.",
+    "t": 262.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you're under sixty-five and able to work, ADEM first looks at your situation.",
+    "t": 265.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you're ready for a job, ADEM accompanies you.",
+    "t": 270.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "But if there are other difficulties to deal with first, ADEM sends you to ONIS.",
+    "t": 273.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Then ONIS invites you to an information meeting — and there, you sign something called a collaboration declaration.",
+    "t": 278.18
+   },
+   {
+    "speaker": "Tom",
     "text": "A collaboration declaration.",
-    "t": 308.62
+    "t": 284.96
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "That sounds formal.",
-    "t": 311.35
+    "t": 286.42
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "What does it mean, really?",
-    "t": 313.55
+    "t": 287.7
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "In simple terms, it's a mutual promise.",
-    "t": 316.1
+    "t": 289.28
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You agree to take part — to work together on your situation.",
-    "t": 319.61
+    "t": 291.88
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And the State agrees to support you.",
-    "t": 323.74
+    "t": 296.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's a two-way street.",
-    "t": 326.6
+    "t": 298.36
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You're not just receiving; you're participating.",
-    "t": 328.88
+    "t": 300.07
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So it's a partnership, written down.",
-    "t": 332.39
+    "t": 303.21
    },
    {
-    "speaker": "Tom",
-    "text": "A partnership.",
-    "t": 335.43
+    "speaker": "Anna",
+    "text": "A partnership. And then comes the part I find really thoughtful.",
+    "t": 305.5
    },
    {
-    "speaker": "Tom",
-    "text": "And then comes the part I find really thoughtful.",
-    "t": 337.43
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You're paired with a person — a regional social inclusion agent.",
-    "t": 341.05
+    "t": 309.64
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "In French, an \"agent régional d'inclusion sociale\", an ARIS.",
-    "t": 345.4
+    "t": 313.8
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "A regional agent.",
-    "t": 350.19
+    "t": 318.48
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So a real human being, assigned to help you.",
-    "t": 352.46
+    "t": 319.73
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "A real human being, who becomes your guide.",
-    "t": 355.92
+    "t": 322.34
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And \"regional\" matters — these agents work inside the local social offices, around the country.",
-    "t": 359.25
+    "t": 325.44
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "So you're not sent to one big building in the capital.",
-    "t": 365.09
+    "t": 331.06
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You're helped close to where you live.",
-    "t": 368.84
+    "t": 333.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's important. Help that's local, and personal.",
+    "t": 336.13
    },
    {
     "speaker": "Anna",
-    "text": "That's important.",
-    "t": 371.68
+    "text": "Very. And together, you and your agent build something called an activation plan.",
+    "t": 339.3
    },
    {
     "speaker": "Anna",
-    "text": "Help that's local, and personal.",
-    "t": 373.7
-   },
-   {
-    "speaker": "Tom",
-    "text": "Very.",
-    "t": 376.7
-   },
-   {
-    "speaker": "Tom",
-    "text": "And together, you and your agent build something called an activation plan.",
-    "t": 378.45
-   },
-   {
-    "speaker": "Tom",
     "text": "It's a personal plan — your situation, your difficulties, your goals, and the concrete steps to move forward.",
-    "t": 383.11
+    "t": 345.87
    },
    {
     "speaker": "Anna",
+    "text": "The plan is set for up to a year at a time, and it can be changed whenever your situation changes.",
+    "t": 352.55
+   },
+   {
+    "speaker": "Tom",
     "text": "So the plan is built with you, not handed to you.",
-    "t": 389.75
+    "t": 358.41
    },
    {
-    "speaker": "Tom",
-    "text": "With you.",
-    "t": 393.51
+    "speaker": "Anna",
+    "text": "With you. That's the heart of it.",
+    "t": 361.15
    },
    {
-    "speaker": "Tom",
-    "text": "That's the heart of it.",
-    "t": 395.32
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's your plan.",
-    "t": 397.45
+    "t": 363.2
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The agent brings the knowledge and the options; you bring your life and your hopes.",
-    "t": 399.52
+    "t": 364.43
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Together, you map the road.",
-    "t": 404.27
+    "t": 369.24
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "And what kind of steps might be in that plan?",
-    "t": 407.02
+    "t": 371.74
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Give me some examples.",
-    "t": 410.26
+    "t": 373.9
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It depends entirely on the person.",
-    "t": 412.66
+    "t": 375.35
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "For someone who needs stabilising first, it might be about health, or sorting out practical problems, or rebuilding a daily structure.",
-    "t": 415.74
+    "t": 377.54
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "For someone closer to work, it might be training, or gaining experience.",
-    "t": 423.76
+    "t": 386
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "And the work experience — how does that happen if you don't have a job yet?",
-    "t": 428.76
+    "t": 390.28
    },
    {
-    "speaker": "Tom",
-    "text": "One of the tools is a temporary placement in a useful, community role — often in a non-profit organisation.",
-    "t": 433.35
+    "speaker": "Anna",
+    "text": "One of the tools is a temporary placement in a useful, community role — with a host organisation, for example an association.",
+    "t": 394.17
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You contribute, you're active, you build experience and confidence — and that can become a stepping stone toward a real job.",
-    "t": 440.02
+    "t": 402.23
    },
    {
     "speaker": "Anna",
+    "text": "And for that work, you receive an activation allowance — based on the minimum wage, for the hours you work.",
+    "t": 409.79
+   },
+   {
+    "speaker": "Tom",
     "text": "So you're doing something meaningful, and at the same time preparing yourself.",
-    "t": 446.97
+    "t": 416.54
    },
    {
-    "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 451.96
+    "speaker": "Anna",
+    "text": "Exactly. It's dignity and preparation in one.",
+    "t": 420.59
    },
    {
-    "speaker": "Tom",
-    "text": "It's dignity and preparation in one.",
-    "t": 453.89
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You're not sitting at home feeling useless.",
-    "t": 457.18
+    "t": 423.59
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You're contributing, and growing.",
-    "t": 460.4
+    "t": 425.94
    },
    {
-    "speaker": "Anna",
-    "text": "Tom, I want to ask the honest question some listeners will have.",
-    "t": 463.28
+    "speaker": "Tom",
+    "text": "Anna, I want to ask the honest question some listeners will have.",
+    "t": 428.33
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Is this about helping people — or is it about checking up on them, making sure they're not being lazy?",
-    "t": 467.66
+    "t": 431.9
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "That's a fair question, and an important one.",
-    "t": 473.74
+    "t": 437.77
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The honest answer is — the spirit of it is help, not punishment.",
-    "t": 477.09
+    "t": 440.48
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The whole design is to accompany people, at their own pace, around their own obstacles.",
-    "t": 481.49
+    "t": 445.31
    },
    {
-    "speaker": "Tom",
-    "text": "It's true that REVIS asks for participation — that's the collaboration declaration.",
-    "t": 487
+    "speaker": "Anna",
+    "text": "It's true that REVIS asks for participation — that's the collaboration declaration — and if someone repeatedly refuses to take part, the payment can be reduced or suspended.",
+    "t": 451.24
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "But the aim isn't to catch people out.",
-    "t": 492.42
+    "t": 462.31
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The aim is to not abandon them.",
-    "t": 495.39
+    "t": 465.14
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "To not abandon them.",
-    "t": 498.21
+    "t": 467.74
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Because just sending money, and nothing else...",
-    "t": 500.43
+    "t": 469.06
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "...can leave a person stuck and alone for years.",
-    "t": 503.94
+    "t": 471.84
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And that's the trap REVIS and ONIS are trying to avoid.",
-    "t": 507.35
+    "t": 474.96
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Money keeps you afloat.",
-    "t": 511.39
+    "t": 478.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "But inclusion — a guide, a plan, a path — that's what helps you move.",
-    "t": 513.9
+    "t": 479.82
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "That really reframes it.",
-    "t": 518.68
+    "t": 484.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "The cheque is the floor; ONIS is the staircase.",
+    "t": 486.26
    },
    {
     "speaker": "Anna",
     "text": "The cheque is the floor; ONIS is the staircase.",
-    "t": 521.16
+    "t": 489.67
    },
    {
-    "speaker": "Tom",
-    "text": "The cheque is the floor; ONIS is the staircase.",
-    "t": 524.94
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "I'll borrow that.",
-    "t": 528.51
+    "t": 492.46
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Let's make it concrete with a person.",
-    "t": 530.71
+    "t": 493.88
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Can we?",
-    "t": 533.66
+    "t": 495.86
    },
    {
-    "speaker": "Tom",
-    "text": "Let's.",
-    "t": 535.25
+    "speaker": "Anna",
+    "text": "Let's. Imagine a man — let's call him Paulo.",
+    "t": 496.79
    },
    {
-    "speaker": "Tom",
-    "text": "Imagine a man — let's call him Paulo.",
-    "t": 536.94
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "He's been out of work for several years.",
-    "t": 540.05
+    "t": 499.37
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "He lost his job, then his confidence, and slowly he drifted far from the labour market.",
-    "t": 543.18
+    "t": 501.56
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "A story that's more common than people think.",
-    "t": 548.82
+    "t": 507.51
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Far more common.",
-    "t": 552.24
+    "t": 509.85
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "So Paulo applies for REVIS.",
-    "t": 554.41
+    "t": 511.15
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The FNS sorts out the money side — he gets the minimum income, so he can live.",
-    "t": 557.23
-   },
-   {
-    "speaker": "Tom",
-    "text": "And then ONIS enters his life.",
-    "t": 562.45
+    "t": 513.28
    },
    {
     "speaker": "Anna",
+    "text": "ADEM looks at his situation, sees that he isn't ready for a job yet, and sends him to ONIS.",
+    "t": 518.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "And that's when ONIS enters his life.",
+    "t": 525.05
+   },
+   {
+    "speaker": "Tom",
     "text": "He's invited to a meeting.",
-    "t": 565.62
+    "t": 527.14
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "He's invited, he signs the collaboration declaration, and he's paired with a regional agent near his home.",
-    "t": 568.11
+    "t": 528.82
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "They sit down together.",
-    "t": 574.46
+    "t": 535.19
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And at first, it's clear Paulo isn't ready to job-hunt — he's exhausted, a bit lost.",
-    "t": 576.83
+    "t": 536.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "So the plan starts with stabilisation.",
-    "t": 582.58
+    "t": 542.42
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Help him stand up first.",
-    "t": 585.85
+    "t": 545.04
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Help him stand.",
-    "t": 588.35
+    "t": 546.62
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Then, step by step, as he stabilises, the plan moves toward activation.",
-    "t": 590.42
+    "t": 548.19
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Maybe a placement in a community organisation, to get back into a rhythm and rebuild his confidence.",
-    "t": 595.68
+    "t": 553.63
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Then some training.",
-    "t": 601.88
+    "t": 559.45
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "And one day, perhaps, a real job.",
-    "t": 604.14
+    "t": 560.85
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "That's the goal.",
-    "t": 607.45
+    "t": 563.04
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And even if it takes time, Paulo is no longer alone with it.",
-    "t": 609.51
+    "t": 564.15
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "He has a plan, and a person walking beside him.",
-    "t": 613.82
+    "t": 568.13
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "That changes everything.",
-    "t": 617.39
+    "t": 571.26
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "It really does.",
-    "t": 619.76
+    "t": 572.91
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "The difference between drifting, and being accompanied.",
-    "t": 621.87
+    "t": 573.94
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "That's the whole difference.",
-    "t": 625.58
+    "t": 577.05
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And it's what \"inclusion\" really means — not leaving anyone outside.",
-    "t": 628
+    "t": 578.61
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Let's zoom out for a second.",
-    "t": 632.33
+    "t": 582.99
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Why does this matter for society as a whole, not just for the individual?",
-    "t": 634.84
+    "t": 584.4
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Because when someone moves from being stuck, to being active and included, everybody gains.",
-    "t": 639.76
+    "t": 588.31
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The person regains dignity and income.",
-    "t": 645.47
+    "t": 594.14
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Their family is more stable.",
-    "t": 648.69
+    "t": 596.8
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And society keeps a member connected, contributing, instead of lost.",
-    "t": 651.31
+    "t": 598.66
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Inclusion is good for the person, and good for all of us.",
-    "t": 656.37
+    "t": 603.59
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "A society is stronger when nobody is written off.",
-    "t": 660.28
+    "t": 607.46
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "When nobody is written off.",
-    "t": 663.94
+    "t": 610.25
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "That's the quiet philosophy behind ONIS.",
-    "t": 666.56
+    "t": 611.88
    },
    {
-    "speaker": "Anna",
-    "text": "Okay Tom, let's bring it home.",
-    "t": 670.18
+    "speaker": "Tom",
+    "text": "Okay Anna, let's bring it home.",
+    "t": 614.51
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "If I'm listening, and this touches me, or someone I know — what should I take away?",
-    "t": 673.15
+    "t": 616.42
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "A few simple things.",
-    "t": 678.55
+    "t": 620.85
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "First — if you receive REVIS, ONIS is not your enemy.",
-    "t": 680.86
+    "t": 622.29
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "It's the part of REVIS that's there to help you move forward, with a real person and a personal plan.",
-    "t": 684.99
+    "t": 626.01
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "The inclusion side, not just the money side.",
-    "t": 691.01
+    "t": 632.16
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Second — it works at your pace.",
-    "t": 694.65
+    "t": 634.72
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "If you need to stabilise first, that's allowed, that's normal.",
-    "t": 697.55
+    "t": 637.39
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Stabilisation comes before activation.",
-    "t": 701.88
+    "t": 640.83
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Nobody is pushed faster than they can go.",
-    "t": 705.32
+    "t": 643.67
    },
    {
     "speaker": "Anna",
+    "text": "And in some situations — for example if you look after a young child and have no childcare, if you care for a family member, or for health reasons — you can be exempted for a while.",
+    "t": 646.19
+   },
+   {
+    "speaker": "Tom",
     "text": "And third?",
-    "t": 708.63
+    "t": 657.71
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Third — you're not alone.",
-    "t": 710.34
+    "t": 658.66
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You get a regional agent, close to home, who builds the plan with you.",
-    "t": 712.8
+    "t": 660.66
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "If you ever feel lost in the system, that agent is your point of contact.",
-    "t": 717.51
+    "t": 664.91
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "And where can people learn more?",
-    "t": 722.37
+    "t": 669.9
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The official website is onis — that's o-n-i-s — dot gouvernement dot l-u.",
-    "t": 724.9
+    "t": 671.57
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "And for the REVIS benefit itself, the information is on guichet dot l-u, and the money side is the National Solidarity Fund, which we covered in another episode.",
-    "t": 729.88
+    "t": 678.03
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "A short summary to finish?",
-    "t": 739.54
+    "t": 688.62
    },
    {
-    "speaker": "Tom",
-    "text": "Sure.",
-    "t": 742.05
+    "speaker": "Anna",
+    "text": "Sure. ONIS, the National Social Inclusion Office, is the government office that handles the \"inclusion\" side of REVIS, Luxembourg's social inclusion income.",
+    "t": 690.19
    },
    {
-    "speaker": "Tom",
-    "text": "ONIS, the National Social Inclusion Office, is the government office that handles the \"inclusion\" side of REVIS, Luxembourg's social inclusion income.",
-    "t": 743.69
+    "speaker": "Anna",
+    "text": "While the National Solidarity Fund pays the money, ONIS helps the people furthest from work — the ones ADEM sends to it — move forward — through stabilisation measures first, then activation measures.",
+    "t": 700.1
    },
    {
-    "speaker": "Tom",
-    "text": "While the National Solidarity Fund pays the money, ONIS helps the people furthest from work move forward — through stabilisation measures first, then activation measures.",
-    "t": 752.33
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "You sign a collaboration declaration, you're paired with a regional social inclusion agent near your home, and together you build a personal activation plan.",
-    "t": 761.68
+    "t": 713.05
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The spirit is to accompany, not to abandon.",
-    "t": 770.48
+    "t": 723.16
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "And the message for today?",
-    "t": 774.12
+    "t": 726.42
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "That a minimum income is only half of solidarity.",
-    "t": 776.4
+    "t": 727.9
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The other half is inclusion — a hand, a plan, and a path back.",
-    "t": 780.31
+    "t": 731.05
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Money keeps you standing; inclusion helps you walk.",
-    "t": 784.95
+    "t": 736.09
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "So... whether it's for you, or for someone you care about — remember, behind the REVIS cheque there's also a helping hand.",
-    "t": 788.79
+    "t": 739.81
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "The National Social Inclusion Office.",
-    "t": 796.59
+    "t": 747.57
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "ONIS.",
-    "t": 799.76
+    "t": 749.72
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Half the help is the money.",
-    "t": 801.42
+    "t": 750.67
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "The other half is not being left alone.",
-    "t": 803.86
+    "t": 752.31
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "That's worth knowing.",
-    "t": 806.99
+    "t": 754.58
    },
    {
     "speaker": "Anna",
-    "text": "That was our episode about the National Social Inclusion Office, part of the Biergerpakt — living together in Luxembourg, discovering the country, and looking out for each other.",
-    "t": 809.17
+    "text": "That was our episode about the National Social Inclusion Office.",
+    "t": 756.04
    },
    {
     "speaker": "Anna",
-    "text": "Thank you so much for listening.",
-    "t": 819.45
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 759.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 769.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 787.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 794.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 796.35
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 822.09
+    "t": 801.04
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 824.47
+    "t": 802.12
    },
    {
     "speaker": "Anna",
-    "text": "Bye bye!",
-    "t": 827.44
+    "text": "Thank you so much for listening.",
+    "t": 804.24
    }
   ],
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bienvenue !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
     "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
-    "t": 2.6
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.55
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 9.13
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg.",
-    "t": 12.59
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, mais aussi les frontaliers, à découvrir le Luxembourg — ou à le redécouvrir — et à faire de nouvelles rencontres.",
-    "t": 16.12
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
-    "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 25.56
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et aujourd'hui, nous parlons d'un office qui a une mission très douce, très humaine.",
-    "t": 27.4
+    "t": 23.21
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il s'appelle l'Office national d'inclusion sociale.",
-    "t": 32.69
+    "t": 27.35
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "L'Office national d'inclusion sociale.",
-    "t": 36.31
+    "t": 30.07
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "On utilise le nom court — O-N-I-S.",
-    "t": 39.59
-   },
-   {
-    "speaker": "Tom",
-    "text": "ONIS.",
-    "t": 42.68
-   },
-   {
-    "speaker": "Tom",
-    "text": "C'est ça.",
-    "t": 44.18
+    "t": 32.36
    },
    {
     "speaker": "Anna",
-    "text": "Alors Tom, dans un épisode précédent, nous avons parlé du Fonds national de solidarité, et d'une prestation qui s'appelle le REVIS — le revenu d'inclusion sociale.",
-    "t": 45.87
+    "text": "ONIS. C'est ça.",
+    "t": 35.81
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
+    "text": "Alors Anna, dans un épisode précédent, nous avons parlé du Fonds national de solidarité, et d'une prestation qui s'appelle le REVIS — le revenu d'inclusion sociale.",
+    "t": 37.65
+   },
+   {
+    "speaker": "Tom",
     "text": "Y a-t-il un lien ?",
-    "t": 56.04
+    "t": 46.82
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il y a un lien direct — et c'est la clé pour comprendre l'ONIS.",
-    "t": 58.11
+    "t": 48.08
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Tu te souviens, le REVIS, c'est le revenu minimum garanti du Luxembourg.",
-    "t": 61.81
+    "t": 51
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Si les revenus de ton ménage sont trop faibles, le REVIS les complète jusqu'à un niveau de base.",
-    "t": 67.05
+    "t": 54.55
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Oui — le plancher en dessous duquel l'État ne te laisse pas tomber.",
-    "t": 72.54
+    "t": 58.88
    },
    {
-    "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 76.54
+    "speaker": "Anna",
+    "text": "Exactement. Mais voilà le point important.",
+    "t": 62.57
    },
    {
-    "speaker": "Tom",
-    "text": "Mais voilà le point important.",
-    "t": 78.38
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Le nom complet, ce n'est pas seulement « revenu minimum ».",
-    "t": 80.77
+    "t": 64.77
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est le « revenu d'inclusion sociale ».",
-    "t": 84.86
+    "t": 67.62
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et ce mot — inclusion — c'est tout l'enjeu.",
-    "t": 88.05
+    "t": 69.59
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Le REVIS a deux facettes.",
-    "t": 90.98
-   },
-   {
-    "speaker": "Anna",
-    "text": "Deux facettes.",
-    "t": 93.42
-   },
-   {
-    "speaker": "Anna",
-    "text": "Raconte-moi.",
-    "t": 95.4
+    "t": 71.79
    },
    {
     "speaker": "Tom",
+    "text": "Deux facettes. Raconte-moi.",
+    "t": 73.41
+   },
+   {
+    "speaker": "Anna",
     "text": "Une facette, c'est l'argent — le chèque chaque mois.",
-    "t": 97.31
+    "t": 75.4
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Cette partie-là est versée par le Fonds national de solidarité, le FNS.",
-    "t": 100.81
+    "t": 78.35
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Mais la deuxième facette est tout aussi importante.",
-    "t": 105.88
+    "t": 82.89
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est aider la personne à retrouver son chemin — vers le travail, vers l'activité, vers le fait de faire à nouveau partie de la société.",
-    "t": 109.29
+    "t": 85.55
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Et cette deuxième facette — celle de l'inclusion — c'est la mission de l'ONIS.",
-    "t": 116.87
+    "t": 92.16
    },
    {
-    "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 121.33
+    "speaker": "Anna",
+    "text": "En partie — et c'est important.",
+    "t": 96.67
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Le FNS s'occupe de l'argent.",
-    "t": 123.17
+    "t": 98.61
    },
    {
-    "speaker": "Tom",
-    "text": "L'ONIS s'occupe des personnes, et de leur chemin vers l'avenir.",
-    "t": 125.7
+    "speaker": "Anna",
+    "text": "Pour les personnes prêtes à chercher un emploi, le volet inclusion, c'est l'ADEM, l'agence pour l'emploi.",
+    "t": 100.59
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
+    "text": "Mais pour les personnes encore éloignées du travail, c'est l'ONIS — il s'occupe des personnes, et de leur chemin vers l'avenir.",
+    "t": 105.44
+   },
+   {
+    "speaker": "Anna",
     "text": "Le REVIS n'est pas censé être un chèque que tu reçois pour toujours, seul chez toi.",
-    "t": 129.68
+    "t": 111.24
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il est censé être un pont.",
-    "t": 134.61
+    "t": 115.06
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "J'adore cette distinction.",
-    "t": 136.8
+    "t": 116.69
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc l'ONIS, c'est l'office qui marche à tes côtés sur le pont.",
-    "t": 139.33
-   },
-   {
-    "speaker": "Tom",
-    "text": "Joliment dit.",
-    "t": 143.53
-   },
-   {
-    "speaker": "Tom",
-    "text": "C'est exactement ce qu'il fait.",
-    "t": 145.41
+    "t": 118.41
    },
    {
     "speaker": "Anna",
+    "text": "Joliment dit. C'est exactement ce qu'il fait.",
+    "t": 121.82
+   },
+   {
+    "speaker": "Tom",
     "text": "Voyons les bases.",
-    "t": 147.94
+    "t": 124.89
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Quel genre d'office est l'ONIS, officiellement ?",
-    "t": 149.98
+    "t": 126.2
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est une administration de l'État, qui relève du ministère de la Famille.",
-    "t": 153.31
+    "t": 129.02
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il a été créé par la grande réforme du REVIS — la loi de deux mille dix-huit — et il a commencé son travail au début de deux mille dix-neuf.",
-    "t": 158.11
+    "t": 132.75
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "En réalité, il a remplacé un ancien service qui faisait un travail semblable avant lui.",
-    "t": 165.24
+    "t": 139.32
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc il est relativement jeune, mais bâti sur des fondations plus anciennes.",
-    "t": 170.64
-   },
-   {
-    "speaker": "Tom",
-    "text": "Oui.",
-    "t": 175.56
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et sa mission, en mots simples, c'est d'aider les personnes les plus éloignées du marché de l'emploi à faire des pas pour s'en rapprocher — à leur propre rythme.",
-    "t": 177.03
+    "t": 143.4
    },
    {
     "speaker": "Anna",
+    "text": "Oui. Et sa mission, en mots simples, c'est d'aider les personnes les plus éloignées du marché de l'emploi à faire des pas pour s'en rapprocher — à leur propre rythme.",
+    "t": 147.68
+   },
+   {
+    "speaker": "Tom",
     "text": "Les plus éloignées du marché de l'emploi.",
-    "t": 184.85
+    "t": 154.84
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Qu'est-ce que tu entends par là ?",
-    "t": 188.02
+    "t": 156.94
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Des personnes qui, pour toutes sortes de raisons, ne peuvent pas simplement décrocher un emploi du jour au lendemain.",
-    "t": 190.33
+    "t": 158.65
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Peut-être que quelqu'un est sans travail depuis très longtemps.",
-    "t": 196.57
+    "t": 163.31
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Peut-être qu'il y a un problème de santé, ou une situation familiale difficile, ou des soucis de logement, ou une perte de confiance.",
-    "t": 200.1
+    "t": 165.95
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "La vie peut frapper les gens de bien des manières.",
-    "t": 208.01
+    "t": 172.6
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc ce n'est pas seulement « va trouver un emploi ».",
-    "t": 211.22
+    "t": 174.93
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Les obstacles peuvent être bien plus profonds.",
-    "t": 214.93
+    "t": 177.63
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Bien plus profonds.",
-    "t": 218.28
+    "t": 180.42
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et c'est là toute la sagesse de la manière dont l'ONIS travaille.",
-    "t": 220.3
+    "t": 181.66
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il ne traite pas tout le monde de la même façon.",
-    "t": 224.03
+    "t": 184.68
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il reconnaît qu'avant de pouvoir chercher du travail, certaines personnes ont d'abord besoin de stabiliser leur vie.",
-    "t": 227.09
+    "t": 186.92
    },
    {
-    "speaker": "Anna",
-    "text": "Stabiliser.",
-    "t": 233.42
+    "speaker": "Tom",
+    "text": "Stabiliser. C'est un mot intéressant.",
+    "t": 192.2
    },
    {
-    "speaker": "Anna",
-    "text": "C'est un mot intéressant.",
-    "t": 235.38
-   },
-   {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Tu peux le développer ?",
-    "t": 237.71
+    "t": 194.81
    },
    {
-    "speaker": "Tom",
-    "text": "Bien sûr.",
-    "t": 239.95
+    "speaker": "Anna",
+    "text": "Bien sûr. L'ONIS travaille avec deux types de mesures.",
+    "t": 196.25
    },
    {
-    "speaker": "Tom",
-    "text": "L'ONIS travaille avec deux types de mesures.",
-    "t": 241.74
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Le premier type s'appelle les mesures de stabilisation.",
-    "t": 244.81
+    "t": 198.89
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Elles sont destinées à quelqu'un qui n'est pas encore prêt pour un emploi — parce qu'il y a d'autres choses à régler d'abord.",
-    "t": 248.38
+    "t": 201.59
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "La santé, des difficultés personnelles, remettre la vie quotidienne sur les rails.",
-    "t": 254.53
+    "t": 206.47
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc d'abord, aide-moi à tenir debout solidement.",
-    "t": 259.93
+    "t": 210.8
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "D'abord, t'aider à tenir debout.",
-    "t": 263.99
+    "t": 213.79
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et ensuite, le deuxième type — les mesures d'activation.",
-    "t": 266.94
+    "t": 215.49
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ce sont les pas vers le travail et l'activité.",
-    "t": 270.87
+    "t": 218.54
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Développer des compétences, acquérir de l'expérience, retrouver un rythme.",
-    "t": 274.05
+    "t": 220.89
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc d'abord la stabilisation, puis l'activation.",
-    "t": 279.38
+    "t": 225.09
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "On rejoint les gens là où ils en sont vraiment.",
-    "t": 283.42
+    "t": 227.81
    },
    {
-    "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 286.52
+    "speaker": "Anna",
+    "text": "Exactement. Ce n'est pas une solution unique pour tous.",
+    "t": 230.23
    },
    {
-    "speaker": "Tom",
-    "text": "Ce n'est pas une solution unique pour tous.",
-    "t": 288.36
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est un chemin façonné autour de chaque personne, et de la façon dont elle évolue.",
-    "t": 291.61
+    "t": 233.11
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "D'accord, rendons ça concret.",
-    "t": 296.56
+    "t": 237.39
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Si je suis une personne qui commence à toucher le REVIS, qu'est-ce qui se passe vraiment avec l'ONIS ?",
-    "t": 299.51
+    "t": 239.35
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Explique-moi étape par étape.",
-    "t": 305.02
-   },
-   {
-    "speaker": "Tom",
-    "text": "Bien sûr.",
-    "t": 307.66
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ça commence généralement par une invitation — on t'invite à un rendez-vous, à un accueil, avec l'ONIS.",
-    "t": 309.45
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et là, tu signes quelque chose qu'on appelle une déclaration de collaboration.",
-    "t": 315.47
+    "t": 244.23
    },
    {
     "speaker": "Anna",
+    "text": "Bien sûr. En fait, ça commence à l'ADEM.",
+    "t": 246.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si tu as moins de soixante-cinq ans et que tu peux travailler, l'ADEM examine d'abord ta situation.",
+    "t": 248.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si tu es prêt pour un emploi, c'est l'ADEM qui t'accompagne.",
+    "t": 253.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais s'il y a d'abord d'autres difficultés à régler, l'ADEM t'oriente vers l'ONIS.",
+    "t": 256.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, l'ONIS t'invite à une réunion d'information — et là, tu signes quelque chose qu'on appelle une déclaration de collaboration.",
+    "t": 260.18
+   },
+   {
+    "speaker": "Tom",
     "text": "Une déclaration de collaboration.",
-    "t": 320.18
+    "t": 266.43
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ça a l'air formel.",
-    "t": 323.11
+    "t": 268.42
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Qu'est-ce que ça veut dire, au fond ?",
-    "t": 325.35
+    "t": 269.7
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "En termes simples, c'est une promesse mutuelle.",
-    "t": 328.01
+    "t": 271.56
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Tu t'engages à participer — à travailler ensemble sur ta situation.",
-    "t": 331.48
+    "t": 274.06
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et l'État s'engage à te soutenir.",
-    "t": 335.76
+    "t": 277.99
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est à double sens.",
-    "t": 338.49
+    "t": 279.78
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Tu ne fais pas que recevoir ; tu participes.",
-    "t": 340.82
+    "t": 281.19
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc c'est un partenariat, mis par écrit.",
-    "t": 344.17
+    "t": 283.7
    },
    {
-    "speaker": "Tom",
-    "text": "Un partenariat.",
-    "t": 347.7
+    "speaker": "Anna",
+    "text": "Un partenariat. Et ensuite vient la partie que je trouve vraiment bien pensée.",
+    "t": 286.08
    },
    {
-    "speaker": "Tom",
-    "text": "Et ensuite vient la partie que je trouve vraiment bien pensée.",
-    "t": 349.65
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "On t'associe à une personne — un agent régional d'inclusion sociale.",
-    "t": 353.32
+    "t": 290.26
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Un ARIS.",
-    "t": 357.67
+    "t": 293.81
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Un agent régional.",
-    "t": 359.33
+    "t": 294.94
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donc un véritable être humain, désigné pour t'aider.",
-    "t": 361.66
+    "t": 296.39
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Un véritable être humain, qui devient ton guide.",
-    "t": 365.66
+    "t": 299.29
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et le mot « régional » compte — ces agents travaillent au sein des offices sociaux locaux, partout dans le pays.",
-    "t": 369.25
+    "t": 301.53
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Donc on ne t'envoie pas dans un grand bâtiment de la capitale.",
-    "t": 375.54
+    "t": 307.04
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "On t'aide près de chez toi.",
-    "t": 379.34
+    "t": 309.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est important. Une aide locale, et personnelle.",
+    "t": 311.21
    },
    {
     "speaker": "Anna",
-    "text": "C'est important.",
-    "t": 381.62
+    "text": "Très. Et ensemble, ton agent et toi, vous construisez quelque chose qu'on appelle un plan d'activation.",
+    "t": 314.58
    },
    {
     "speaker": "Anna",
-    "text": "Une aide locale, et personnelle.",
-    "t": 383.59
-   },
-   {
-    "speaker": "Tom",
-    "text": "Très.",
-    "t": 386.59
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et ensemble, ton agent et toi, vous construisez quelque chose qu'on appelle un plan d'activation.",
-    "t": 388.03
-   },
-   {
-    "speaker": "Tom",
     "text": "C'est un plan personnel — ta situation, tes difficultés, tes objectifs, et les étapes concrètes pour avancer.",
-    "t": 393.81
+    "t": 319.75
    },
    {
     "speaker": "Anna",
+    "text": "Le plan est fixé pour un an au maximum, et il peut être modifié dès que ta situation change.",
+    "t": 326.09
+   },
+   {
+    "speaker": "Tom",
     "text": "Donc le plan est construit avec toi, et non pas remis tout fait.",
-    "t": 400.89
+    "t": 331.32
    },
    {
-    "speaker": "Tom",
-    "text": "Avec toi.",
-    "t": 405.15
+    "speaker": "Anna",
+    "text": "Avec toi. C'est là tout le cœur.",
+    "t": 334.97
    },
    {
-    "speaker": "Tom",
-    "text": "C'est là tout le cœur.",
-    "t": 406.91
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est ton plan.",
-    "t": 409.1
+    "t": 337.5
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'agent apporte les connaissances et les options ; toi, tu apportes ta vie et tes espoirs.",
-    "t": 410.92
+    "t": 338.42
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ensemble, vous tracez la route.",
-    "t": 416.34
+    "t": 343.27
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Et quel genre d'étapes pourrait-il y avoir dans ce plan ?",
-    "t": 419.22
+    "t": 345.2
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Donne-moi quelques exemples.",
-    "t": 422.69
+    "t": 348.28
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ça dépend entièrement de la personne.",
-    "t": 425.13
+    "t": 350.11
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Pour quelqu'un qui a d'abord besoin de se stabiliser, ça peut concerner la santé, ou régler des problèmes pratiques, ou reconstruire une structure quotidienne.",
-    "t": 427.97
+    "t": 351.99
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Pour quelqu'un de plus proche du travail, ça peut être une formation, ou l'acquisition d'une expérience.",
-    "t": 436.88
+    "t": 359.69
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Et l'expérience professionnelle — comment ça se passe si tu n'as pas encore d'emploi ?",
-    "t": 443.16
+    "t": 364.33
    },
    {
-    "speaker": "Tom",
-    "text": "L'un des outils, c'est un placement temporaire dans une activité utile, au service de la collectivité — souvent dans une association sans but lucratif.",
-    "t": 448.2
+    "speaker": "Anna",
+    "text": "L'un des outils, c'est un placement temporaire dans une activité utile, au service de la collectivité — dans un organisme d'accueil, par exemple une association.",
+    "t": 368.43
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Tu contribues, tu es actif, tu acquiers de l'expérience et de la confiance — et ça peut devenir un tremplin vers un vrai emploi.",
-    "t": 456.51
+    "t": 376.36
    },
    {
     "speaker": "Anna",
+    "text": "Et pour ce travail, tu reçois une allocation d'activation — calculée sur le salaire minimum, selon les heures que tu travailles.",
+    "t": 382.74
+   },
+   {
+    "speaker": "Tom",
     "text": "Donc tu fais quelque chose qui a du sens, et en même temps tu te prépares.",
-    "t": 463.64
+    "t": 388.96
    },
    {
-    "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 468.68
+    "speaker": "Anna",
+    "text": "Exactement. C'est de la dignité et de la préparation en une seule chose.",
+    "t": 392.89
    },
    {
-    "speaker": "Tom",
-    "text": "C'est de la dignité et de la préparation en une seule chose.",
-    "t": 470.52
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Tu n'es pas assis chez toi à te sentir inutile.",
-    "t": 474.41
+    "t": 396.54
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Tu contribues, et tu grandis.",
-    "t": 477.78
+    "t": 398.99
    },
    {
-    "speaker": "Anna",
-    "text": "Tom, je veux poser la question honnête que certains auditeurs vont se poser.",
-    "t": 480.49
+    "speaker": "Tom",
+    "text": "Anna, je veux poser la question honnête que certains auditeurs vont se poser.",
+    "t": 401.08
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Est-ce qu'il s'agit d'aider les gens — ou est-ce qu'il s'agit de les surveiller, de vérifier qu'ils ne sont pas paresseux ?",
-    "t": 485.44
+    "t": 405.38
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est une question légitime, et importante.",
-    "t": 491.72
+    "t": 411.43
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "La réponse honnête, c'est que l'esprit de tout ça, c'est l'aide, pas la sanction.",
-    "t": 495.3
+    "t": 414.06
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Toute la conception vise à accompagner les personnes, à leur propre rythme, autour de leurs propres obstacles.",
-    "t": 500.43
+    "t": 418.5
    },
    {
-    "speaker": "Tom",
-    "text": "C'est vrai que le REVIS demande une participation — c'est la déclaration de collaboration.",
-    "t": 506.62
+    "speaker": "Anna",
+    "text": "C'est vrai que le REVIS demande une participation — c'est la déclaration de collaboration — et si quelqu'un refuse plusieurs fois de participer, le paiement peut être réduit ou suspendu.",
+    "t": 423.88
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Mais le but n'est pas de prendre les gens en défaut.",
-    "t": 511.66
+    "t": 432.44
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Le but, c'est de ne pas les abandonner.",
-    "t": 514.66
+    "t": 434.71
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "De ne pas les abandonner.",
-    "t": 517.66
+    "t": 436.83
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Parce que se contenter d'envoyer de l'argent, et rien d'autre...",
-    "t": 520.08
+    "t": 438.24
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "...peut laisser une personne coincée et seule pendant des années.",
-    "t": 524.23
+    "t": 441.2
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et c'est justement le piège que le REVIS et l'ONIS essaient d'éviter.",
-    "t": 527.8
+    "t": 444.02
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'argent te maintient à flot.",
-    "t": 531.66
+    "t": 447.16
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Mais l'inclusion — un guide, un plan, un chemin — c'est ça qui t'aide à avancer.",
-    "t": 534.11
+    "t": 448.7
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ça change vraiment la perspective.",
-    "t": 539.04
+    "t": 453.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le chèque, c'est le plancher ; l'ONIS, c'est l'escalier.",
+    "t": 455.15
    },
    {
     "speaker": "Anna",
     "text": "Le chèque, c'est le plancher ; l'ONIS, c'est l'escalier.",
-    "t": 542.05
+    "t": 458.69
    },
    {
-    "speaker": "Tom",
-    "text": "Le chèque, c'est le plancher ; l'ONIS, c'est l'escalier.",
-    "t": 546.41
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Je te l'emprunte.",
-    "t": 550.54
+    "t": 462.69
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Rendons ça concret avec une personne.",
-    "t": 552.58
+    "t": 463.84
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "On peut ?",
-    "t": 555.71
+    "t": 466.01
    },
    {
-    "speaker": "Tom",
-    "text": "Allons-y.",
-    "t": 557.3
+    "speaker": "Anna",
+    "text": "Allons-y. Imaginons un homme — appelons-le Paulo.",
+    "t": 466.92
    },
    {
-    "speaker": "Tom",
-    "text": "Imaginons un homme — appelons-le Paulo.",
-    "t": 558.96
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il est sans travail depuis plusieurs années.",
-    "t": 561.76
+    "t": 469.84
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il a perdu son emploi, puis sa confiance, et peu à peu il s'est éloigné du marché du travail.",
-    "t": 564.78
+    "t": 471.99
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Une histoire plus courante qu'on ne le pense.",
-    "t": 570.82
+    "t": 477.21
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Bien plus courante.",
-    "t": 573.97
+    "t": 479.58
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Donc Paulo demande le REVIS.",
-    "t": 576.15
+    "t": 480.84
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Le FNS règle le côté argent — il reçoit le revenu minimum, et donc il peut vivre.",
-    "t": 578.68
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et ensuite, l'ONIS entre dans sa vie.",
-    "t": 584.14
+    "t": 482.78
    },
    {
     "speaker": "Anna",
+    "text": "L'ADEM examine sa situation, voit qu'il n'est pas encore prêt pour un emploi, et l'oriente vers l'ONIS.",
+    "t": 487.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et c'est là que l'ONIS entre dans sa vie.",
+    "t": 492.45
+   },
+   {
+    "speaker": "Tom",
     "text": "Il est invité à un rendez-vous.",
-    "t": 587.18
+    "t": 494.52
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il est invité, il signe la déclaration de collaboration, et on l'associe à un agent régional près de chez lui.",
-    "t": 589.91
+    "t": 496.46
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ils s'assoient ensemble.",
-    "t": 596.62
+    "t": 501.55
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et au début, c'est clair que Paulo n'est pas prêt à chercher du travail — il est épuisé, un peu perdu.",
-    "t": 598.81
+    "t": 502.86
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Donc le plan commence par la stabilisation.",
-    "t": 604.72
+    "t": 507.93
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "L'aider d'abord à tenir debout.",
-    "t": 607.96
+    "t": 510.3
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'aider à tenir debout.",
-    "t": 610.62
+    "t": 512.49
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Puis, pas à pas, à mesure qu'il se stabilise, le plan évolue vers l'activation.",
-    "t": 612.84
+    "t": 513.86
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Peut-être un placement dans une association, pour retrouver un rythme et reconstruire sa confiance.",
-    "t": 618.42
+    "t": 518
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Puis une formation.",
-    "t": 624.15
+    "t": 522.46
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Et un jour, peut-être, un vrai emploi.",
-    "t": 626.21
+    "t": 523.83
    },
    {
-    "speaker": "Tom",
-    "text": "C'est l'objectif.",
-    "t": 629.72
+    "speaker": "Anna",
+    "text": "C'est l'objectif. Et même si ça prend du temps, Paulo n'est plus seul face à tout ça.",
+    "t": 526.24
    },
    {
-    "speaker": "Tom",
-    "text": "Et même si ça prend du temps, Paulo n'est plus seul face à tout ça.",
-    "t": 631.8
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Il a un plan, et une personne qui marche à ses côtés.",
-    "t": 636.09
+    "t": 531.08
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ça change tout.",
-    "t": 639.71
-   },
-   {
-    "speaker": "Anna",
-    "text": "C'est vrai.",
-    "t": 641.61
-   },
-   {
-    "speaker": "Anna",
-    "text": "La différence entre dériver, et être accompagné.",
-    "t": 643.3
+    "t": 533.68
    },
    {
     "speaker": "Tom",
+    "text": "C'est vrai. La différence entre dériver, et être accompagné.",
+    "t": 534.81
+   },
+   {
+    "speaker": "Anna",
     "text": "C'est toute la différence.",
-    "t": 647.14
+    "t": 538.74
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et c'est ce que veut vraiment dire « inclusion » — ne laisser personne à l'écart.",
-    "t": 649.6
+    "t": 540.13
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Prenons un peu de recul un instant.",
-    "t": 654.42
+    "t": 544.21
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Pourquoi est-ce important pour la société dans son ensemble, et pas seulement pour l'individu ?",
-    "t": 657.22
+    "t": 546.06
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Parce que quand quelqu'un passe d'une situation de blocage à une vie active et incluse, tout le monde y gagne.",
-    "t": 662.59
+    "t": 550.59
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "La personne retrouve sa dignité et un revenu.",
-    "t": 668.54
+    "t": 555.92
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sa famille est plus stable.",
-    "t": 671.85
+    "t": 558.3
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et la société garde un membre connecté, qui contribue, au lieu de le perdre.",
-    "t": 674.25
+    "t": 559.88
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'inclusion est bonne pour la personne, et bonne pour nous tous.",
-    "t": 679.29
+    "t": 563.71
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Une société est plus forte quand personne n'est laissé pour compte.",
-    "t": 683.48
+    "t": 566.89
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Quand personne n'est laissé pour compte.",
-    "t": 687.68
+    "t": 570.51
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est la philosophie discrète qui se trouve derrière l'ONIS.",
-    "t": 690.41
+    "t": 572.36
    },
    {
-    "speaker": "Anna",
-    "text": "D'accord Tom, concluons.",
-    "t": 693.98
+    "speaker": "Tom",
+    "text": "D'accord Anna, concluons.",
+    "t": 575.4
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Si je suis en train d'écouter, et que ça me touche, moi ou quelqu'un que je connais — qu'est-ce que je devrais retenir ?",
-    "t": 696.67
+    "t": 577.17
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Quelques choses simples.",
-    "t": 703.26
+    "t": 583.3
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "D'abord — si tu touches le REVIS, l'ONIS n'est pas ton ennemi.",
-    "t": 705.42
+    "t": 584.63
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "C'est la partie du REVIS qui est là pour t'aider à avancer, avec une vraie personne et un plan personnel.",
-    "t": 709.46
+    "t": 587.93
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Le côté inclusion, pas seulement le côté argent.",
-    "t": 715.3
+    "t": 592.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Deuxièmement — ça fonctionne à ton rythme.",
-    "t": 719.12
+    "t": 596
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Si tu as d'abord besoin de te stabiliser, c'est permis, c'est normal.",
-    "t": 722.16
+    "t": 598.33
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "La stabilisation vient avant l'activation.",
-    "t": 727.09
+    "t": 602.27
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Personne n'est poussé plus vite qu'il ne peut aller.",
-    "t": 730.17
+    "t": 604.64
    },
    {
     "speaker": "Anna",
+    "text": "Et dans certaines situations — par exemple si tu t'occupes d'un jeune enfant sans solution de garde, si tu t'occupes d'un proche, ou pour des raisons de santé — tu peux être dispensé pendant un temps.",
+    "t": 606.86
+   },
+   {
+    "speaker": "Tom",
     "text": "Et troisièmement ?",
-    "t": 733.32
+    "t": 616.24
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Troisièmement — tu n'es pas seul.",
-    "t": 735.25
+    "t": 617.52
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Tu as un agent régional, près de chez toi, qui construit le plan avec toi.",
-    "t": 737.87
+    "t": 619.46
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Si jamais tu te sens perdu dans le système, cet agent est ton point de contact.",
-    "t": 742.91
+    "t": 622.93
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Et où peut-on en apprendre davantage ?",
-    "t": 747.86
+    "t": 627.03
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Le site officiel, c'est onis — c'est-à-dire o-n-i-s — point gouvernement point l-u.",
-    "t": 750.84
+    "t": 629.27
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et pour la prestation REVIS elle-même, les informations sont sur guichet point l-u, et le côté argent, c'est le Fonds national de solidarité, dont nous avons parlé dans un autre épisode.",
-    "t": 755.99
+    "t": 634.35
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Un petit résumé pour finir ?",
-    "t": 766.19
+    "t": 643.4
    },
    {
-    "speaker": "Tom",
-    "text": "Bien sûr.",
-    "t": 768.94
+    "speaker": "Anna",
+    "text": "Bien sûr. L'ONIS, l'Office national d'inclusion sociale, c'est l'office de l'État qui s'occupe du côté « inclusion » du REVIS, le revenu d'inclusion sociale du Luxembourg.",
+    "t": 645.19
    },
    {
-    "speaker": "Tom",
-    "text": "L'ONIS, l'Office national d'inclusion sociale, c'est l'office de l'État qui s'occupe du côté « inclusion » du REVIS, le revenu d'inclusion sociale du Luxembourg.",
-    "t": 770.74
+    "speaker": "Anna",
+    "text": "Alors que le Fonds national de solidarité verse l'argent, l'ONIS aide les personnes les plus éloignées du travail — celles que l'ADEM oriente vers lui — à avancer — d'abord par des mesures de stabilisation, puis par des mesures d'activation.",
+    "t": 653.35
    },
    {
-    "speaker": "Tom",
-    "text": "Alors que le Fonds national de solidarité verse l'argent, l'ONIS aide les personnes les plus éloignées du travail à avancer — d'abord par des mesures de stabilisation, puis par des mesures d'activation.",
-    "t": 780.71
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Tu signes une déclaration de collaboration, on t'associe à un agent régional d'inclusion sociale près de chez toi, et ensemble vous construisez un plan d'activation personnel.",
-    "t": 790.97
+    "t": 664.77
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'esprit, c'est d'accompagner, pas d'abandonner.",
-    "t": 800.44
+    "t": 672.71
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Et le message pour aujourd'hui ?",
-    "t": 804.14
+    "t": 675.27
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Qu'un revenu minimum n'est que la moitié de la solidarité.",
-    "t": 806.81
+    "t": 676.95
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'autre moitié, c'est l'inclusion — une main tendue, un plan, et un chemin de retour.",
-    "t": 810.56
+    "t": 679.9
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "L'argent te maintient debout ; l'inclusion t'aide à marcher.",
-    "t": 816.13
+    "t": 684.54
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Alors... que ce soit pour toi, ou pour quelqu'un qui te tient à cœur — souviens-toi, derrière le chèque du REVIS, il y a aussi une main tendue.",
-    "t": 819.84
+    "t": 687.65
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "L'Office national d'inclusion sociale.",
-    "t": 828.24
+    "t": 695.33
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "ONIS.",
-    "t": 831.52
-   },
-   {
-    "speaker": "Tom",
-    "text": "La moitié de l'aide, c'est l'argent.",
-    "t": 833.03
-   },
-   {
-    "speaker": "Tom",
-    "text": "L'autre moitié, c'est ne pas être laissé seul.",
-    "t": 835.85
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ça vaut la peine de le savoir.",
-    "t": 839.42
+    "t": 697.68
    },
    {
     "speaker": "Anna",
-    "text": "C'était notre épisode sur l'Office national d'inclusion sociale, dans le cadre du Biergerpakt — le vivre-ensemble au Luxembourg, la découverte du pays, et l'attention que l'on se porte les uns aux autres.",
-    "t": 842.08
+    "text": "La moitié de l'aide, c'est l'argent.",
+    "t": 698.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'autre moitié, c'est ne pas être laissé seul.",
+    "t": 700.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ça vaut la peine de le savoir.",
+    "t": 702.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'était notre épisode sur l'Office national d'inclusion sociale.",
+    "t": 704.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 707.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 715.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 731.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 736.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 738.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 742.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 743.91
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 854.06
-   },
-   {
-    "speaker": "Tom",
-    "text": "Merci à toutes et à tous.",
-    "t": 857.08
-   },
-   {
-    "speaker": "Tom",
-    "text": "Prenez soin de vous... et à la prochaine fois !",
-    "t": 859.65
-   },
-   {
-    "speaker": "Anna",
-    "text": "Au revoir !",
-    "t": 862.78
+    "t": 746.37
    }
   ],
   "segments_de": [
    {
     "speaker": "Anna",
     "text": "Hallo und herzlich willkommen!",
-    "t": 0.05
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Es ist wirklich schön, dass Sie heute dabei sind.",
-    "t": 2.98
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.82
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.88
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm für das Zusammenleben in Luxemburg.",
-    "t": 12.28
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnerinnen und Einwohnern, und auch den Grenzgängern, helfen, Luxemburg zu entdecken — oder wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 16.5
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
-    "speaker": "Tom",
-    "text": "Genau.",
-    "t": 28.43
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und heute sprechen wir über ein Amt mit einer sehr sanften, sehr menschlichen Aufgabe.",
-    "t": 30
+    "t": 28.06
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es heißt das Nationale Amt für soziale Inklusion.",
-    "t": 35.49
+    "t": 32.9
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Das Nationale Amt für soziale Inklusion.",
-    "t": 39.35
+    "t": 36.43
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Auf Französisch das Office national d'inclusion sociale.",
-    "t": 43.1
+    "t": 39.19
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Die Leute benutzen den Kurznamen — O-N-I-S.",
-    "t": 47.65
-   },
-   {
-    "speaker": "Tom",
-    "text": "ONIS.",
-    "t": 51.52
-   },
-   {
-    "speaker": "Tom",
-    "text": "Genau.",
-    "t": 53.09
+    "t": 42.86
    },
    {
     "speaker": "Anna",
-    "text": "Tom, in einer früheren Folge haben wir über den Nationalen Solidaritätsfonds gesprochen, und über eine Leistung namens REVIS — das Eingliederungseinkommen.",
-    "t": 54.66
+    "text": "ONIS. Genau.",
+    "t": 46.5
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
+    "text": "Anna, in einer früheren Folge haben wir über den Nationalen Solidaritätsfonds gesprochen, und über eine Leistung namens REVIS — das Eingliederungseinkommen.",
+    "t": 48.43
+   },
+   {
+    "speaker": "Tom",
     "text": "Hängt das zusammen?",
-    "t": 64.75
+    "t": 57.91
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es hängt direkt zusammen — und das ist der Schlüssel, um ONIS zu verstehen.",
-    "t": 66.99
+    "t": 59.2
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Erinnerst du dich, REVIS ist Luxemburgs garantiertes Mindesteinkommen.",
-    "t": 71.7
+    "t": 63.2
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Wenn das Einkommen deines Haushalts zu niedrig ist, stockt REVIS dich auf ein Grundniveau auf.",
-    "t": 76.72
+    "t": 67.85
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ja — die Untergrenze, unter die der Staat dich nicht fallen lässt.",
-    "t": 82.74
+    "t": 73.18
    },
    {
-    "speaker": "Tom",
-    "text": "Richtig.",
-    "t": 87.33
+    "speaker": "Anna",
+    "text": "Richtig. Aber jetzt kommt's.",
+    "t": 77.12
    },
    {
-    "speaker": "Tom",
-    "text": "Aber jetzt kommt's.",
-    "t": 88.97
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Der vollständige Name ist nicht einfach nur „Mindesteinkommen\".",
-    "t": 91.1
+    "t": 79.82
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es ist das „Eingliederungseinkommen\".",
-    "t": 95.45
+    "t": 83.76
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und dieses Wort — Eingliederung — ist der eigentliche Kern.",
-    "t": 98.29
+    "t": 86
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "REVIS hat zwei Seiten.",
-    "t": 102.36
-   },
-   {
-    "speaker": "Anna",
-    "text": "Zwei Seiten.",
-    "t": 104.89
-   },
-   {
-    "speaker": "Anna",
-    "text": "Erzähl mir.",
-    "t": 106.84
+    "t": 89.85
    },
    {
     "speaker": "Tom",
+    "text": "Zwei Seiten. Erzähl mir.",
+    "t": 91.58
+   },
+   {
+    "speaker": "Anna",
     "text": "Die eine Seite ist das Geld — der Scheck jeden Monat.",
-    "t": 108.72
+    "t": 93.35
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Diesen Teil zahlt der Nationale Solidaritätsfonds, der FNS.",
-    "t": 112.5
+    "t": 96.86
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Aber die zweite Seite ist genauso wichtig.",
-    "t": 117.43
+    "t": 101.2
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie hilft der Person, ihren Weg zurückzufinden — zurück in Richtung Arbeit, in Richtung Aktivität, dahin, wieder Teil der Gesellschaft zu sein.",
-    "t": 120.85
+    "t": 103.78
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Und diese zweite Seite — die Inklusionsseite — ist die Aufgabe von ONIS.",
-    "t": 130.18
+    "t": 114.74
    },
    {
-    "speaker": "Tom",
-    "text": "Genau.",
-    "t": 135.51
+    "speaker": "Anna",
+    "text": "Teilweise — und das ist wichtig.",
+    "t": 119.6
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Der FNS kümmert sich um das Geld.",
-    "t": 137.08
+    "t": 122.41
    },
    {
-    "speaker": "Tom",
-    "text": "ONIS kümmert sich um die Menschen und ihren Weg nach vorn.",
-    "t": 140.08
+    "speaker": "Anna",
+    "text": "Für Menschen, die bereit sind, eine Arbeit zu suchen, ist die Inklusionsseite die ADEM, die Arbeitsagentur.",
+    "t": 124.53
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
+    "text": "Aber für Menschen, die noch weit von der Arbeit entfernt sind, ist es ONIS — es kümmert sich um die Menschen und ihren Weg nach vorn.",
+    "t": 130.74
+   },
+   {
+    "speaker": "Anna",
     "text": "REVIS ist nicht als Scheck gedacht, den du für immer bekommst, allein zu Hause.",
-    "t": 143.94
+    "t": 137.72
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es ist als Brücke gedacht.",
-    "t": 149.31
+    "t": 142.37
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Diese Unterscheidung gefällt mir.",
-    "t": 151.73
+    "t": 144.39
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "ONIS ist also das Amt, das mit dir über die Brücke geht.",
-    "t": 154.59
-   },
-   {
-    "speaker": "Tom",
-    "text": "Schön gesagt.",
-    "t": 158.95
-   },
-   {
-    "speaker": "Tom",
-    "text": "Genau das tut es.",
-    "t": 160.85
+    "t": 146.36
    },
    {
     "speaker": "Anna",
+    "text": "Schön gesagt. Genau das tut es.",
+    "t": 149.73
+   },
+   {
+    "speaker": "Tom",
     "text": "Lass uns das Grundsätzliche klären.",
-    "t": 162.98
+    "t": 152.26
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Was für ein Amt ist ONIS eigentlich, offiziell?",
-    "t": 166.29
+    "t": 154.53
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es ist eine staatliche Verwaltung, unter dem Familienministerium.",
-    "t": 170.51
+    "t": 157.35
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es wurde durch die große REVIS-Reform geschaffen — das Gesetz von zweitausendachtzehn — und es hat seine Arbeit Anfang zweitausendneunzehn aufgenommen.",
-    "t": 175.06
+    "t": 160.93
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es hat tatsächlich einen älteren Dienst ersetzt, der vorher ähnliche Arbeit gemacht hat.",
-    "t": 183.92
+    "t": 170.67
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Es ist also relativ jung, aber auf älteren Fundamenten gebaut.",
-    "t": 189.81
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ja.",
-    "t": 194.78
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und seine Aufgabe ist, schlicht gesagt, den Menschen zu helfen, die am weitesten vom Arbeitsmarkt entfernt sind, Schritte dorthin zurück zu machen — in ihrem eigenen Tempo.",
-    "t": 196.27
+    "t": 175.56
    },
    {
     "speaker": "Anna",
+    "text": "Ja. Und seine Aufgabe ist, schlicht gesagt, den Menschen zu helfen, die am weitesten vom Arbeitsmarkt entfernt sind, Schritte dorthin zurück zu machen — in ihrem eigenen Tempo.",
+    "t": 179.43
+   },
+   {
+    "speaker": "Tom",
     "text": "Am weitesten vom Arbeitsmarkt entfernt.",
-    "t": 206.86
+    "t": 190.5
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Wen meinst du damit?",
-    "t": 210.42
+    "t": 193.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Menschen, die aus ganz unterschiedlichen Gründen nicht einfach morgen eine Arbeit antreten können.",
-    "t": 212.7
+    "t": 194.56
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vielleicht ist jemand schon sehr lange ohne Arbeit.",
-    "t": 218.83
+    "t": 199.55
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vielleicht gibt es ein Gesundheitsproblem, oder eine schwierige Familiensituation, oder Probleme mit der Wohnung, oder einen Verlust an Selbstvertrauen.",
-    "t": 222.43
+    "t": 202.45
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das Leben kann Menschen auf viele Arten zu Boden werfen.",
-    "t": 231.78
+    "t": 211.94
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Es geht also nicht nur darum, „geh und such dir eine Arbeit\".",
-    "t": 235.73
+    "t": 215.2
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Die Hindernisse können viel tiefer liegen.",
-    "t": 240.26
+    "t": 218.61
    },
    {
-    "speaker": "Tom",
-    "text": "Viel tiefer.",
-    "t": 243.66
+    "speaker": "Anna",
+    "text": "Viel tiefer. Und genau darin liegt die Klugheit, wie ONIS arbeitet.",
+    "t": 221
    },
    {
-    "speaker": "Tom",
-    "text": "Und genau darin liegt die Klugheit, wie ONIS arbeitet.",
-    "t": 245.61
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es behandelt nicht alle gleich.",
-    "t": 249.85
+    "t": 226.22
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es erkennt an, dass manche Menschen, bevor sie nach Arbeit suchen können, zuerst ihr Leben stabilisieren müssen.",
-    "t": 252.51
+    "t": 228.23
    },
    {
-    "speaker": "Anna",
-    "text": "Stabilisieren.",
-    "t": 259.69
+    "speaker": "Tom",
+    "text": "Stabilisieren. Das ist ein interessantes Wort.",
+    "t": 234.38
    },
    {
-    "speaker": "Anna",
-    "text": "Das ist ein interessantes Wort.",
-    "t": 261.91
-   },
-   {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Kannst du das erklären?",
-    "t": 264.86
+    "t": 237.28
    },
    {
-    "speaker": "Tom",
-    "text": "Natürlich.",
-    "t": 267.28
+    "speaker": "Anna",
+    "text": "Natürlich. ONIS arbeitet mit zwei Arten von Maßnahmen.",
+    "t": 238.75
    },
    {
-    "speaker": "Tom",
-    "text": "ONIS arbeitet mit zwei Arten von Maßnahmen.",
-    "t": 269.07
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die erste Art nennt man Stabilisierungsmaßnahmen.",
-    "t": 272.71
+    "t": 242.7
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie sind für jemanden, der noch nicht bereit für eine Arbeit ist — weil zuerst andere Dinge geklärt werden müssen.",
-    "t": 276.4
+    "t": 245.73
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Gesundheit, persönliche Schwierigkeiten, den Alltag wieder in den Griff bekommen.",
-    "t": 283.46
+    "t": 251.46
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also zuerst: hilf mir, sicher auf die Beine zu kommen.",
-    "t": 289.08
+    "t": 256.21
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Zuerst: hilf dir, zu stehen.",
-    "t": 293.59
+    "t": 259.31
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und dann, die zweite Art — Aktivierungsmaßnahmen.",
-    "t": 296.83
+    "t": 261.22
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das sind die Schritte in Richtung Arbeit und Aktivität.",
-    "t": 300.82
+    "t": 264.88
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Fähigkeiten aufbauen, Erfahrung sammeln, wieder in einen Rhythmus kommen.",
-    "t": 304.73
+    "t": 268.32
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also zuerst Stabilisierung, dann Aktivierung.",
-    "t": 309.99
+    "t": 273.33
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Es holt die Menschen dort ab, wo sie wirklich stehen.",
-    "t": 314.26
+    "t": 276.55
    },
    {
-    "speaker": "Tom",
-    "text": "Genau.",
-    "t": 318.19
+    "speaker": "Anna",
+    "text": "Genau. Es ist kein Einheitsmodell für alle.",
+    "t": 279.39
    },
    {
-    "speaker": "Tom",
-    "text": "Es ist kein Einheitsmodell für alle.",
-    "t": 319.76
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es ist ein Weg, der um jede einzelne Person herum gestaltet wird, und um ihre Entwicklung.",
-    "t": 322.71
+    "t": 282.32
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Gut, machen wir es konkret.",
-    "t": 328.93
+    "t": 287.56
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Wenn ich eine Person bin, die anfängt, REVIS zu bekommen, was passiert dann eigentlich mit ONIS?",
-    "t": 331.91
+    "t": 289.5
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Führ mich Schritt für Schritt durch.",
-    "t": 338.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "Gern.",
-    "t": 341.61
-   },
-   {
-    "speaker": "Tom",
-    "text": "Normalerweise beginnt es mit einer Einladung — du wirst zu einem Treffen eingeladen, einem Empfang, bei ONIS.",
-    "t": 343.12
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und dort unterschreibst du etwas, das Kooperationserklärung heißt.",
-    "t": 350.09
+    "t": 294.72
    },
    {
     "speaker": "Anna",
-    "text": "Eine Kooperationserklärung.",
-    "t": 354.84
+    "text": "Gern. Eigentlich beginnt es bei der ADEM.",
+    "t": 296.67
    },
    {
     "speaker": "Anna",
-    "text": "Das klingt formell.",
-    "t": 357.91
+    "text": "Wenn du unter fünfundsechzig bist und arbeiten kannst, schaut sich die ADEM zuerst deine Situation an.",
+    "t": 299.37
    },
    {
     "speaker": "Anna",
+    "text": "Wenn du bereit für eine Arbeit bist, begleitet dich die ADEM.",
+    "t": 305.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber wenn es zuerst andere Schwierigkeiten zu lösen gibt, schickt dich die ADEM zu ONIS.",
+    "t": 309.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dann lädt dich ONIS zu einer Informationsversammlung ein — und dort unterschreibst du etwas, das Kooperationserklärung heißt.",
+    "t": 314.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eine Kooperationserklärung. Das klingt formell.",
+    "t": 321.89
+   },
+   {
+    "speaker": "Tom",
     "text": "Was bedeutet das eigentlich, wirklich?",
-    "t": 360.08
+    "t": 324.91
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ganz einfach gesagt, ist es ein gegenseitiges Versprechen.",
-    "t": 363.59
+    "t": 327.05
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Du erklärst dich bereit, mitzumachen — gemeinsam an deiner Situation zu arbeiten.",
-    "t": 367.96
+    "t": 330.28
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und der Staat erklärt sich bereit, dich zu unterstützen.",
-    "t": 373.65
+    "t": 335.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es geht in beide Richtungen.",
-    "t": 377.73
+    "t": 338.21
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Du bekommst nicht nur; du beteiligst dich.",
-    "t": 380.26
+    "t": 339.91
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Es ist also eine Partnerschaft, schriftlich festgehalten.",
-    "t": 383.59
+    "t": 342.62
    },
    {
-    "speaker": "Tom",
-    "text": "Eine Partnerschaft.",
-    "t": 388.28
+    "speaker": "Anna",
+    "text": "Eine Partnerschaft. Und dann kommt der Teil, den ich wirklich durchdacht finde.",
+    "t": 345.85
    },
    {
-    "speaker": "Tom",
-    "text": "Und dann kommt der Teil, den ich wirklich durchdacht finde.",
-    "t": 390.45
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Du wirst einer Person zur Seite gestellt — einem regionalen Sozialinklusionsagenten.",
-    "t": 394.54
+    "t": 350.35
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Auf Französisch ein „agent régional d'inclusion sociale\", ein ARIS.",
-    "t": 400.26
+    "t": 355.25
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ein regionaler Agent.",
-    "t": 405.46
+    "t": 360.38
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also ein echter Mensch, der dir zugeteilt wird, um dir zu helfen.",
-    "t": 408.04
+    "t": 362.12
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ein echter Mensch, der zu deinem Begleiter wird.",
-    "t": 413.19
+    "t": 365.6
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und „regional\" ist wichtig — diese Agenten arbeiten in den lokalen Sozialämtern, überall im Land.",
-    "t": 416.87
+    "t": 368.26
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Du wirst also nicht in ein großes Gebäude in der Hauptstadt geschickt.",
-    "t": 423.71
+    "t": 375.55
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Dir wird in der Nähe deines Wohnorts geholfen.",
-    "t": 428.26
+    "t": 379.22
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Das ist wichtig.",
-    "t": 431.73
+    "t": 382.19
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Hilfe, die örtlich ist, und persönlich.",
-    "t": 433.81
+    "t": 383.45
    },
    {
-    "speaker": "Tom",
-    "text": "Sehr.",
-    "t": 438.01
+    "speaker": "Anna",
+    "text": "Sehr. Und gemeinsam baut ihr, du und dein Agent, etwas auf, das Aktivierungsplan heißt.",
+    "t": 386.05
    },
    {
-    "speaker": "Tom",
-    "text": "Und gemeinsam baut ihr, du und dein Agent, etwas auf, das Aktivierungsplan heißt.",
-    "t": 439.58
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es ist ein persönlicher Plan — deine Situation, deine Schwierigkeiten, deine Ziele, und die konkreten Schritte, um voranzukommen.",
-    "t": 445.67
+    "t": 392.27
    },
    {
     "speaker": "Anna",
+    "text": "Der Plan gilt jeweils höchstens ein Jahr, und er kann jederzeit geändert werden, wenn sich deine Situation ändert.",
+    "t": 400.55
+   },
+   {
+    "speaker": "Tom",
     "text": "Der Plan wird also mit dir aufgebaut, nicht dir überreicht.",
-    "t": 454.18
+    "t": 407.06
    },
    {
-    "speaker": "Tom",
-    "text": "Mit dir.",
-    "t": 458.64
+    "speaker": "Anna",
+    "text": "Mit dir. Das ist der Kern davon.",
+    "t": 410.58
    },
    {
-    "speaker": "Tom",
-    "text": "Das ist der Kern davon.",
-    "t": 460.28
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es ist dein Plan.",
-    "t": 462.61
+    "t": 413.33
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Der Agent bringt das Wissen und die Möglichkeiten ein; du bringst dein Leben und deine Hoffnungen ein.",
-    "t": 464.65
+    "t": 414.63
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Gemeinsam zeichnet ihr den Weg.",
-    "t": 470.85
+    "t": 420.12
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Und welche Art von Schritten könnte in so einem Plan stehen?",
-    "t": 473.58
+    "t": 422.4
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Gib mir ein paar Beispiele.",
-    "t": 477.84
-   },
-   {
-    "speaker": "Tom",
-    "text": "Das hängt ganz von der Person ab.",
-    "t": 480.28
-   },
-   {
-    "speaker": "Tom",
-    "text": "Für jemanden, der zuerst Stabilisierung braucht, könnte es um Gesundheit gehen, oder darum, praktische Probleme zu klären, oder eine tägliche Struktur wieder aufzubauen.",
-    "t": 483.08
-   },
-   {
-    "speaker": "Tom",
-    "text": "Für jemanden, der näher an der Arbeit ist, könnte es um eine Ausbildung gehen, oder darum, Erfahrung zu sammeln.",
-    "t": 494.07
+    "t": 425.71
    },
    {
     "speaker": "Anna",
-    "text": "Und die Arbeitserfahrung — wie geht das, wenn man noch keine Arbeit hat?",
-    "t": 501.6
+    "text": "Das hängt ganz von der Person ab.",
+    "t": 427.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Für jemanden, der zuerst Stabilisierung braucht, könnte es um Gesundheit gehen, oder darum, praktische Probleme zu klären, oder eine tägliche Struktur wieder aufzubauen.",
+    "t": 429.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Für jemanden, der näher an der Arbeit ist, könnte es um eine Ausbildung gehen, oder darum, Erfahrung zu sammeln.",
+    "t": 439.03
    },
    {
     "speaker": "Tom",
-    "text": "Eines der Mittel ist ein zeitlich begrenzter Einsatz in einer nützlichen, gemeinnützigen Tätigkeit — oft in einer gemeinnützigen Organisation.",
+    "text": "Und die Arbeitserfahrung — wie geht das, wenn man noch keine Arbeit hat?",
+    "t": 445.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eines der Mittel ist ein zeitlich begrenzter Einsatz in einer nützlichen, gemeinnützigen Tätigkeit — bei einer Gastorganisation, zum Beispiel einem Verein.",
+    "t": 449.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Du trägst etwas bei, du bist aktiv, du sammelst Erfahrung und Selbstvertrauen — und das kann zu einem Sprungbrett in eine echte Arbeit werden.",
+    "t": 458.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und für diese Arbeit bekommst du eine Aktivierungszulage — berechnet auf Basis des Mindestlohns, für die Stunden, die du arbeitest.",
+    "t": 467.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Du tust also etwas Sinnvolles, und bereitest dich gleichzeitig vor.",
+    "t": 475.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau. Es ist Würde und Vorbereitung in einem.",
+    "t": 479.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Du sitzt nicht zu Hause und fühlst dich nutzlos.",
+    "t": 482.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Du trägst etwas bei und wächst.",
+    "t": 485.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Anna, ich möchte die ehrliche Frage stellen, die manche Zuhörer haben werden.",
+    "t": 487.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Geht es darum, Menschen zu helfen — oder geht es darum, sie zu kontrollieren, sicherzustellen, dass sie nicht faul sind?",
+    "t": 492.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist eine berechtigte Frage, und eine wichtige.",
+    "t": 498.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die ehrliche Antwort ist — der Geist davon ist Hilfe, nicht Bestrafung.",
+    "t": 501.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der ganze Aufbau ist darauf ausgelegt, Menschen zu begleiten, in ihrem eigenen Tempo, um ihre eigenen Hindernisse herum.",
     "t": 506.64
    },
    {
-    "speaker": "Tom",
-    "text": "Du trägst etwas bei, du bist aktiv, du sammelst Erfahrung und Selbstvertrauen — und das kann zu einem Sprungbrett in eine echte Arbeit werden.",
-    "t": 515.33
+    "speaker": "Anna",
+    "text": "Es stimmt, dass REVIS Mitwirkung verlangt — das ist die Kooperationserklärung — und wenn jemand wiederholt nicht mitmacht, kann die Zahlung gekürzt oder ausgesetzt werden.",
+    "t": 514.05
    },
    {
     "speaker": "Anna",
-    "text": "Du tust also etwas Sinnvolles, und bereitest dich gleichzeitig vor.",
-    "t": 524.21
-   },
-   {
-    "speaker": "Tom",
-    "text": "Genau.",
-    "t": 529.32
-   },
-   {
-    "speaker": "Tom",
-    "text": "Es ist Würde und Vorbereitung in einem.",
-    "t": 530.89
-   },
-   {
-    "speaker": "Tom",
-    "text": "Du sitzt nicht zu Hause und fühlst dich nutzlos.",
-    "t": 534
-   },
-   {
-    "speaker": "Tom",
-    "text": "Du trägst etwas bei und wächst.",
-    "t": 537.58
-   },
-   {
-    "speaker": "Anna",
-    "text": "Tom, ich möchte die ehrliche Frage stellen, die manche Zuhörer haben werden.",
-    "t": 540.37
-   },
-   {
-    "speaker": "Anna",
-    "text": "Geht es darum, Menschen zu helfen — oder geht es darum, sie zu kontrollieren, sicherzustellen, dass sie nicht faul sind?",
-    "t": 545.99
-   },
-   {
-    "speaker": "Tom",
-    "text": "Das ist eine berechtigte Frage, und eine wichtige.",
-    "t": 554.1
-   },
-   {
-    "speaker": "Tom",
-    "text": "Die ehrliche Antwort ist — der Geist davon ist Hilfe, nicht Bestrafung.",
-    "t": 558.07
-   },
-   {
-    "speaker": "Tom",
-    "text": "Der ganze Aufbau ist darauf ausgelegt, Menschen zu begleiten, in ihrem eigenen Tempo, um ihre eigenen Hindernisse herum.",
-    "t": 562.98
-   },
-   {
-    "speaker": "Tom",
-    "text": "Es stimmt, dass REVIS Mitwirkung verlangt — das ist die Kooperationserklärung.",
-    "t": 570.75
-   },
-   {
-    "speaker": "Tom",
     "text": "Aber das Ziel ist nicht, Menschen zu ertappen.",
-    "t": 576.11
+    "t": 523.9
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das Ziel ist, sie nicht im Stich zu lassen.",
-    "t": 579.77
+    "t": 526.4
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Sie nicht im Stich zu lassen.",
-    "t": 583.12
+    "t": 529.08
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Denn nur Geld zu schicken, und sonst nichts...",
-    "t": 585.65
+    "t": 530.78
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "...kann eine Person über Jahre festgefahren und allein lassen.",
-    "t": 589.34
+    "t": 533.58
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und genau das ist die Falle, die REVIS und ONIS zu vermeiden versuchen.",
-    "t": 593.6
+    "t": 536.87
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Geld hält dich über Wasser.",
-    "t": 598.71
+    "t": 540.95
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Aber Inklusion — ein Begleiter, ein Plan, ein Weg — das ist es, was dir hilft, dich zu bewegen.",
-    "t": 601.24
+    "t": 542.57
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Das rückt es wirklich in ein anderes Licht.",
-    "t": 608.39
+    "t": 549.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Scheck ist der Boden; ONIS ist die Treppe.",
+    "t": 551.87
    },
    {
     "speaker": "Anna",
     "text": "Der Scheck ist der Boden; ONIS ist die Treppe.",
-    "t": 611.83
+    "t": 554.83
    },
    {
-    "speaker": "Tom",
-    "text": "Der Scheck ist der Boden; ONIS ist die Treppe.",
-    "t": 615.56
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das übernehme ich.",
-    "t": 619.06
+    "t": 557.85
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Machen wir es konkret an einer Person.",
-    "t": 621.19
+    "t": 559.3
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Dürfen wir?",
-    "t": 624.41
+    "t": 561.39
    },
    {
-    "speaker": "Tom",
-    "text": "Machen wir.",
-    "t": 626.28
+    "speaker": "Anna",
+    "text": "Machen wir. Stell dir einen Mann vor — nennen wir ihn Paulo.",
+    "t": 562.44
    },
    {
-    "speaker": "Tom",
-    "text": "Stell dir einen Mann vor — nennen wir ihn Paulo.",
-    "t": 628.09
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Er ist seit mehreren Jahren ohne Arbeit.",
-    "t": 631.71
+    "t": 566.84
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Er hat seine Arbeit verloren, dann sein Selbstvertrauen, und langsam ist er weit vom Arbeitsmarkt abgedriftet.",
-    "t": 635
+    "t": 569.38
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Eine Geschichte, die häufiger ist, als die Leute denken.",
-    "t": 642.26
+    "t": 576.27
    },
    {
-    "speaker": "Tom",
-    "text": "Viel häufiger.",
-    "t": 646.99
+    "speaker": "Anna",
+    "text": "Viel häufiger. Also beantragt Paulo REVIS.",
+    "t": 579.42
    },
    {
-    "speaker": "Tom",
-    "text": "Also beantragt Paulo REVIS.",
-    "t": 649.03
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Der FNS regelt die Geldseite — er bekommt das Mindesteinkommen, damit er leben kann.",
-    "t": 651.96
+    "t": 582.6
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
+    "text": "Die ADEM schaut sich seine Situation an, sieht, dass er noch nicht bereit für eine Arbeit ist, und schickt ihn zu ONIS.",
+    "t": 587.92
+   },
+   {
+    "speaker": "Anna",
     "text": "Und dann tritt ONIS in sein Leben.",
-    "t": 658.02
+    "t": 595.14
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Er wird zu einem Treffen eingeladen.",
-    "t": 661.04
+    "t": 597.48
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Er wird eingeladen, er unterschreibt die Kooperationserklärung, und er wird einem regionalen Agenten in der Nähe seines Wohnorts zugeteilt.",
-    "t": 664.11
+    "t": 599.59
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Sie setzen sich zusammen.",
-    "t": 672.75
+    "t": 607.26
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und am Anfang ist klar, dass Paulo nicht bereit ist, Arbeit zu suchen — er ist erschöpft, ein bisschen verloren.",
-    "t": 675.25
+    "t": 608.85
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Also beginnt der Plan mit Stabilisierung.",
-    "t": 682.67
+    "t": 615.28
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Ihm zuerst helfen, auf die Beine zu kommen.",
-    "t": 686
+    "t": 617.88
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ihm helfen, zu stehen.",
-    "t": 689.53
+    "t": 620.51
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Dann, Schritt für Schritt, während er sich stabilisiert, bewegt sich der Plan in Richtung Aktivierung.",
-    "t": 692.13
+    "t": 622.14
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vielleicht ein Einsatz in einer gemeinnützigen Organisation, um wieder in einen Rhythmus zu kommen und sein Selbstvertrauen wiederaufzubauen.",
-    "t": 698.61
+    "t": 627.88
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Dann eine Ausbildung.",
-    "t": 707.05
+    "t": 635.31
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Und eines Tages vielleicht eine echte Arbeit.",
-    "t": 709.36
+    "t": 636.94
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das ist das Ziel.",
-    "t": 713.05
+    "t": 639.68
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und selbst wenn es Zeit braucht, ist Paulo damit nicht mehr allein.",
-    "t": 715.11
+    "t": 641.02
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Er hat einen Plan, und einen Menschen, der an seiner Seite geht.",
-    "t": 719.73
+    "t": 644.63
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das verändert alles.",
-    "t": 724.48
+    "t": 648.37
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Das tut es wirklich.",
-    "t": 726.72
+    "t": 650.01
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Der Unterschied zwischen Abdriften und Begleitetwerden.",
-    "t": 729.05
+    "t": 651.39
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das ist der ganze Unterschied.",
-    "t": 733.25
+    "t": 654.44
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und genau das bedeutet „Inklusion\" wirklich — niemanden draußen lassen.",
-    "t": 735.78
+    "t": 656.2
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Treten wir einen Moment einen Schritt zurück.",
-    "t": 740.73
+    "t": 661.73
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Warum ist das wichtig für die Gesellschaft als Ganzes, nicht nur für den Einzelnen?",
-    "t": 744.17
+    "t": 664.09
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Weil alle gewinnen, wenn jemand von festgefahren zu aktiv und eingebunden gelangt.",
-    "t": 749.88
+    "t": 668.66
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die Person gewinnt Würde und Einkommen zurück.",
-    "t": 755.56
+    "t": 673.45
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ihre Familie ist stabiler.",
-    "t": 758.91
+    "t": 676.18
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und die Gesellschaft behält ein Mitglied verbunden, beitragend, statt verloren.",
-    "t": 761.73
+    "t": 678.09
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Inklusion ist gut für die Person, und gut für uns alle.",
-    "t": 767.19
+    "t": 683.01
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Eine Gesellschaft ist stärker, wenn niemand abgeschrieben wird.",
-    "t": 771.44
+    "t": 686.7
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Wenn niemand abgeschrieben wird.",
-    "t": 776.14
+    "t": 690.15
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das ist die stille Philosophie hinter ONIS.",
-    "t": 778.85
+    "t": 692.29
    },
    {
-    "speaker": "Anna",
-    "text": "Gut, Tom, bringen wir es auf den Punkt.",
-    "t": 782.09
+    "speaker": "Tom",
+    "text": "Gut, Anna, bringen wir es auf den Punkt.",
+    "t": 695.16
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Wenn ich zuhöre, und das betrifft mich, oder jemanden, den ich kenne — was sollte ich mitnehmen?",
-    "t": 785.75
+    "t": 697.89
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Ein paar einfache Dinge.",
-    "t": 792.48
+    "t": 704.29
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Erstens — wenn du REVIS bekommst, ist ONIS nicht dein Feind.",
-    "t": 794.88
+    "t": 705.81
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Es ist der Teil von REVIS, der da ist, um dir zu helfen, voranzukommen, mit einem echten Menschen und einem persönlichen Plan.",
-    "t": 799.32
+    "t": 709.92
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Die Inklusionsseite, nicht nur die Geldseite.",
-    "t": 807.47
+    "t": 717.08
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Zweitens — es arbeitet in deinem Tempo.",
-    "t": 811.42
+    "t": 720.11
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Wenn du dich zuerst stabilisieren musst, ist das erlaubt, das ist normal.",
-    "t": 814.84
+    "t": 723.01
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Stabilisierung kommt vor Aktivierung.",
-    "t": 820.04
+    "t": 727.75
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Niemand wird schneller gedrängt, als er gehen kann.",
-    "t": 823.21
+    "t": 730.13
    },
    {
     "speaker": "Anna",
+    "text": "Und in manchen Situationen — zum Beispiel wenn du ein kleines Kind ohne Betreuungsplatz versorgst, einen Angehörigen pflegst, oder aus gesundheitlichen Gründen — kannst du für eine Weile davon befreit werden.",
+    "t": 732.82
+   },
+   {
+    "speaker": "Tom",
     "text": "Und drittens?",
-    "t": 826.99
+    "t": 744.52
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Drittens — du bist nicht allein.",
-    "t": 828.89
+    "t": 745.7
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Du bekommst einen regionalen Agenten, in der Nähe deines Wohnorts, der den Plan mit dir aufbaut.",
-    "t": 831.67
+    "t": 748.26
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Wenn du dich jemals im System verloren fühlst, ist dieser Agent dein Ansprechpartner.",
-    "t": 838.15
+    "t": 754.03
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Und wo können die Leute mehr erfahren?",
-    "t": 843.95
+    "t": 759.14
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die offizielle Website ist onis — also o-n-i-s — Punkt gouvernement Punkt l-u.",
-    "t": 847.12
+    "t": 761.41
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Und für die REVIS-Leistung selbst gibt es die Informationen auf guichet Punkt l-u, und die Geldseite ist der Nationale Solidaritätsfonds, den wir in einer anderen Folge behandelt haben.",
-    "t": 852.83
+    "t": 768.85
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 863.96
+    "t": 779.91
    },
    {
-    "speaker": "Tom",
-    "text": "Klar.",
-    "t": 867.31
+    "speaker": "Anna",
+    "text": "Klar. ONIS, das Nationale Amt für soziale Inklusion, ist das staatliche Amt, das die „Inklusionsseite\" von REVIS regelt, Luxemburgs Eingliederungseinkommen.",
+    "t": 782.16
    },
    {
-    "speaker": "Tom",
-    "text": "ONIS, das Nationale Amt für soziale Inklusion, ist das staatliche Amt, das die „Inklusionsseite\" von REVIS regelt, Luxemburgs Eingliederungseinkommen.",
-    "t": 868.91
+    "speaker": "Anna",
+    "text": "Während der Nationale Solidaritätsfonds das Geld zahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind — denen, die die ADEM zu ihm schickt — voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen.",
+    "t": 793.26
    },
    {
-    "speaker": "Tom",
-    "text": "Während der Nationale Solidaritätsfonds das Geld zahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen.",
-    "t": 879.17
-   },
-   {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Du unterschreibst eine Kooperationserklärung, du wirst einem regionalen Sozialinklusionsagenten in der Nähe deines Wohnorts zugeteilt, und gemeinsam baut ihr einen persönlichen Aktivierungsplan auf.",
-    "t": 892.52
+    "t": 807.72
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Der Geist ist, zu begleiten, nicht im Stich zu lassen.",
-    "t": 904.5
+    "t": 818.9
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Und die Botschaft für heute?",
-    "t": 908.72
+    "t": 822.86
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Dass ein Mindesteinkommen nur die Hälfte der Solidarität ist.",
-    "t": 911.34
+    "t": 824.48
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die andere Hälfte ist Inklusion — eine Hand, ein Plan, und ein Weg zurück.",
-    "t": 915.44
+    "t": 827.97
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Geld hält dich aufrecht; Inklusion hilft dir, zu gehen.",
-    "t": 920.99
+    "t": 834.05
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also... ob für dich, oder für jemanden, der dir am Herzen liegt — denk daran, hinter dem REVIS-Scheck steht auch eine helfende Hand.",
-    "t": 925.46
+    "t": 837.96
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Das Nationale Amt für soziale Inklusion.",
-    "t": 934.23
+    "t": 846.84
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "ONIS.",
-    "t": 937.98
+    "t": 849.63
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die Hälfte der Hilfe ist das Geld.",
-    "t": 939.58
+    "t": 850.6
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Die andere Hälfte ist, nicht allein gelassen zu werden.",
-    "t": 942.46
+    "t": 852.69
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Das ist gut zu wissen.",
-    "t": 946.44
+    "t": 855.8
    },
    {
     "speaker": "Anna",
-    "text": "Das war unsere Folge über das Nationale Amt für soziale Inklusion, Teil des Biergerpakt — das Zusammenleben in Luxemburg, das Entdecken des Landes, und das Füreinander-Dasein.",
-    "t": 948.72
+    "text": "Das war unsere Folge über das Nationale Amt für soziale Inklusion.",
+    "t": 857.4
    },
    {
     "speaker": "Anna",
-    "text": "Vielen Dank fürs Zuhören.",
-    "t": 960.43
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 861.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 870.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 889.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 894.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 897.23
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 963.25
+    "t": 902.12
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 965.29
+    "t": 903.27
    },
    {
     "speaker": "Anna",
-    "text": "Tschüss!",
-    "t": 969
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 906.48
    }
   ],
   "questions": [
@@ -51993,7 +51893,7 @@ const EPISODES = [
      "REVIS is only a monthly cheque from the State; there is no support or inclusion side at all"
     ],
     "correct": 0,
-    "explanation": "REVIS – the social inclusion income – has two sides: the National Solidarity Fund (FNS) pays the monthly money, while ONIS handles the inclusion side, helping the person move back toward work and society."
+    "explanation": "REVIS – the social inclusion income – has two sides: the National Solidarity Fund (FNS) pays the monthly money, while the inclusion side is handled by ADEM for people ready to look for work, and by ONIS for people who are still far from work, helping them move back toward work and society."
    },
    {
     "text": "What is the difference between stabilisation and activation measures?",
@@ -52015,7 +51915,7 @@ const EPISODES = [
      "You are assigned to one central office in the capital, where a different person sees you each time, without a personal plan"
     ],
     "correct": 1,
-    "explanation": "You are invited to a meeting, sign a collaboration declaration (a mutual commitment), and are paired with a regional social inclusion agent (ARIS) working in a local social office. Together you build a personal activation plan tailored to your situation."
+    "explanation": "If ADEM refers you to ONIS, you are invited to an information meeting, sign a collaboration declaration (a mutual commitment), and are paired with a regional social inclusion agent (ARIS) working in a local social office. Together you build a personal activation plan tailored to your situation."
    },
    {
     "text": "What is the underlying spirit of ONIS's work?",
@@ -52032,444 +51932,434 @@ const EPISODES = [
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm! Et ass wierklech flott, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
+    "text": "Moien alleguer!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren. An haut schwätze mir iwwer en Office mat enger ganz sanfter, ganz mënschlecher Aufgab. Hien heescht den Nationalen Office fir sozial Inklusioun.",
     "t": 5.58
    },
    {
-    "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner hëllefen, an och de Grenzgänger, fir Lëtzebuerg z'entdecken — oder nei z'entdecken — a fir nei Leit kennenzeléieren.",
-    "t": 7.62
-   },
-   {
     "speaker": "Tom",
-    "text": "Genau. An haut schwätze mir iwwer en Office mat enger ganz sanfter, ganz mënschlecher Aufgab. Hien heescht den Nationalen Office fir sozial Inklusioun.",
-    "t": 23.69
-   },
-   {
-    "speaker": "Anna",
     "text": "Den Nationalen Office fir sozial Inklusioun. Op Franséisch, den Office national d'inclusion sociale. D'Leit benotzen de kuerzen Numm — O-N-I-S.",
-    "t": 34.08
+    "t": 35.84
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "ONIS. Genau dat.",
-    "t": 44.89
-   },
-   {
-    "speaker": "Anna",
-    "text": "Elo, Tom, an enger fréierer Episod hu mir iwwer den Nationale Solidaritéitsfong geschwat, an iwwer eng Leeschtung déi REVIS heescht — den Inklusiounsakommes. Hänkt dat zesummen?",
-    "t": 48.4
+    "t": 43.95
    },
    {
     "speaker": "Tom",
+    "text": "Elo, Anna, an enger fréierer Episod hu mir iwwer den Nationale Solidaritéitsfong geschwat, an iwwer eng Leeschtung déi REVIS heescht — den Inklusiounsakommes. Hänkt dat zesummen?",
+    "t": 45.53
+   },
+   {
+    "speaker": "Anna",
     "text": "Et hänkt direkt zesummen — an dat ass de Schlëssel fir den ONIS ze verstoen. Du erënners dech, REVIS ass dat garantéiert Mindestakommes zu Lëtzebuerg. Wann d'Akommes vun engem Stot ze niddreg ass, fëllt REVIS et op en Basisniveau op.",
-    "t": 59.24
+    "t": 54.88
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Jo — de Buedem, ënner deen de Staat dech net falen léisst.",
-    "t": 73.78
+    "t": 69.05
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genau. Mä do ass d'Saach. De ganzen Numm ass net just \"Mindestakommes\". Et ass den \"Inklusiounsakommes\". An dat Wuert — Inklusioun — ass de ganze Sënn. REVIS huet zwou Säiten.",
-    "t": 77.86
+    "t": 72.37
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Zwou Säiten. Erziel mer.",
-    "t": 93.95
+    "t": 84.19
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Eng Säit ass d'Suen — de Scheck all Mount. Deen Deel gëtt vum Nationale Solidaritéitsfong bezuelt, dem FNS. Mä déi zweet Säit ass grad esou wichteg. Et geet drëm, der Persoun ze hëllefen, hire Wee zréck ze fannen — zréck op d'Aarbecht, op d'Aktivitéit, fir erëm Deel vun der Gesellschaft ze sinn.",
-    "t": 97.57
+    "t": 85.68
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "An déi zweet Säit — d'Inklusiounssäit — ass d'Aufgab vum ONIS.",
-    "t": 115.71
-   },
-   {
-    "speaker": "Tom",
-    "text": "Genau. De FNS këmmert sech ëm d'Suen. Den ONIS këmmert sech ëm d'Leit, an ëm hire Wee no vir. REVIS soll net e Scheck sinn, deens du fir ëmmer kriss, eleng doheem. Et soll eng Bréck sinn.",
-    "t": 120.86
+    "t": 103.42
    },
    {
     "speaker": "Anna",
+    "text": "Deelweis — an dat ass wichteg. De FNS këmmert sech ëm d'Suen. Fir Leit, déi prett sinn, eng Aarbecht ze sichen, ass d'Inklusiounssäit d'ADEM, d'Aarbechtsagence. Mä fir Leit, déi nach wäit vun der Aarbecht ewech sinn, ass et den ONIS — hie këmmert sech ëm d'Leit, an ëm hire Wee no vir. REVIS soll net e Scheck sinn, deens du fir ëmmer kriss, eleng doheem. Et soll eng Bréck sinn.",
+    "t": 107.19
+   },
+   {
+    "speaker": "Tom",
     "text": "Ech hunn déi Ënnerscheedung gär. Also ass den ONIS deen Office, deen niewent dir op der Bréck geet.",
-    "t": 136.18
+    "t": 130.61
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Schéin gesot. Genau dat mécht hien.",
-    "t": 142.97
+    "t": 135.6
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Loosse mir d'Basis kucken. Wat fir en Office ass den ONIS, offiziell?",
-    "t": 147.76
+    "t": 138.3
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et ass eng Staatsverwaltung, ënnert dem Familljeministère. Hie gouf duerch déi grouss REVIS-Reform geschaaf — d'Gesetz vun zwee-dausend-uechtzéng — an huet ufanks zwee-dausend-nonzéng seng Aarbecht ugefaangen. Hien huet eigentlech e méi ale Service ersat, deen virdrun eng ähnlech Aarbecht gemaach huet.",
-    "t": 153.82
+    "t": 142.12
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also ass hie relativ jonk, mä op méi ale Fundamenter gebaut.",
-    "t": 170.08
+    "t": 157.82
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Jo. A seng Missioun, an einfache Wierder, ass deene Leit ze hëllefen, déi am wäitsten ewech vum Aarbechtsmaart sinn, Schrëtt zréck dohinner ze maachen — an hirem eegene Rhythmus.",
-    "t": 174.38
+    "t": 161.01
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Am wäitsten ewech vum Aarbechtsmaart. Wie mengs du domat?",
-    "t": 183.38
+    "t": 170.56
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Leit, déi aus alle méigleche Grënn net einfach muer an eng Aarbecht goe kënnen. Vläicht ass een eng ganz laang Zäit ouni Aarbecht. Vläicht gëtt et e Gesondheetsproblem, oder eng schwiereg Famillesituatioun, oder Suergen ëm d'Wunneng, oder e Verloscht u Selbstvertrauen. D'Liewe kann d'Leit op vill Manéieren ëmgehäen.",
-    "t": 188.28
+    "t": 173.71
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also ass et net just \"gitt eng Aarbecht sichen\". D'Hindernisser kënne vill méi déif sinn.",
-    "t": 207.26
+    "t": 190.73
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Vill méi déif. An dat ass d'Wäisheet, wéi den ONIS schafft. Hien behandelt net jiddereen d'selwecht. Hien erkennt, datt verschidde Leit, ier se eng Aarbecht sichen, fir d'éischt hiert Liewe musse stabiliséieren.",
-    "t": 213.28
+    "t": 195.58
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Stabiliséieren. Dat ass en interessant Wuert. Kanns du dat ophuelen?",
-    "t": 227.53
+    "t": 207.18
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Natierlech. Den ONIS schafft mat zwou Zorte vu Mesuren. Déi éischt Zort heesche Stabiliséierungsmesuren. Déi sinn fir een, deen nach net prett ass fir eng Aarbecht — well et anert Saache gëtt, déi fir d'éischt ze regele sinn. D'Gesondheet, perséinlech Schwieregkeeten, den Alldag erëm an d'Rei kréien.",
-    "t": 234.03
+    "t": 210.33
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also als éischt, hëllef mer, fest op de Féiss ze stoen.",
-    "t": 252.44
+    "t": 226.77
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Als éischt, hëllef der, ze stoen. An dann, déi zweet Zort — d'Aktivéierungsmesuren. Dat sinn d'Schrëtt Richtung Aarbecht an Aktivitéit. Kompetenzen opbauen, Erfahrung sammelen, erëm an e Rhythmus kommen.",
-    "t": 255.85
+    "t": 228.97
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also Stabiliséierung als éischt, dann d'Aktivéierung. Et trëfft d'Leit do, wou se wierklech sinn.",
-    "t": 270.11
+    "t": 242.9
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genau. Et ass net eng eenheetlech Léisung fir jiddereen. Et ass e Wee, deen ëm all eenzel Persoun erëm geformt gëtt, a wéi se sech entwéckelt.",
-    "t": 276.88
+    "t": 247.62
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Gutt, loosse mir et praktesch maachen. Wann ech eng Persoun sinn, déi ufänkt REVIS ze kréien, wat geschitt da konkret mam ONIS? Féier mech do duerch.",
-    "t": 286.29
-   },
-   {
-    "speaker": "Tom",
-    "text": "Gär. Et fänkt normalerweis mat enger Invitatioun un — du gëss op eng Versammlung agelueden, op en Empfang, beim ONIS. An do ënnerschreifs du eppes wat eng Kollaboratiounserklärung (déclaration de collaboration) heescht.",
-    "t": 296.65
+    "t": 254.74
    },
    {
     "speaker": "Anna",
+    "text": "Gär. Eigentlech fänkt et bei der ADEM un. Wann s du ënner fënnefasechzeg bass a schaffe kanns, kuckt d'ADEM fir d'éischt deng Situatioun un. Wann s du prett bass fir eng Aarbecht, begleet dech d'ADEM. Mä wann et fir d'éischt aner Schwieregkeeten ze léisen gëtt, schéckt d'ADEM dech bei den ONIS. Dann invitéiert den ONIS dech op eng Informatiounsversammlung — an do ënnerschreifs du eppes wat eng Kollaboratiounserklärung (déclaration de collaboration) heescht.",
+    "t": 262.71
+   },
+   {
+    "speaker": "Tom",
     "text": "Eng Kollaboratiounserklärung. Dat kléngt formell. Wat heescht dat, wierklech?",
-    "t": 308.62
+    "t": 284.96
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Einfach gesot, et ass e géigesäitegt Verspriechen. Du sees zou, matzemaachen — zesummen un denger Situatioun ze schaffen. An de Staat seet zou, dech ze ënnerstëtzen. Et ass eng Strooss an zwou Richtungen. Du kriss net nëmmen; du mécht mat.",
-    "t": 316.1
+    "t": 289.28
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also ass et eng Partnerschaft, opgeschriwwen.",
-    "t": 332.39
+    "t": 303.21
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Eng Partnerschaft. An dann kënnt den Deel, deen ech wierklech duerchduecht fannen. Du gëss mat enger Persoun zesummegesat — engem regionalen Agent fir sozial Inklusioun. Op Franséisch, en \"agent régional d'inclusion sociale\", en ARIS.",
-    "t": 335.43
+    "t": 305.5
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "E regionalen Agent. Also e richtege Mënsch, deen dir hëllefe soll.",
-    "t": 350.19
+    "t": 318.48
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "E richtege Mënsch, deen däi Guide gëtt. An \"regional\" ass wichteg — dës Agente schaffen an de lokale Sozialämter, am ganze Land. Also gëss du net an ee grousst Gebai an der Haaptstad geschéckt. Dir gëtt no bei där Plaz gehollef, wou s du wunns.",
-    "t": 355.92
+    "t": 322.34
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Dat ass wichteg. Hëllef, déi lokal ass, a perséinlech.",
-    "t": 371.68
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ganz. An zesummen, du an däin Agent, baut dir eppes op wat en Aktivéierungsplang (plan d'activation) heescht. Et ass e perséinleche Plang — deng Situatioun, deng Schwieregkeeten, deng Ziler, an déi konkret Schrëtt fir no vir ze kommen.",
-    "t": 376.7
+    "t": 336.13
    },
    {
     "speaker": "Anna",
+    "text": "Ganz. An zesummen, du an däin Agent, baut dir eppes op wat en Aktivéierungsplang (plan d'activation) heescht. Et ass e perséinleche Plang — deng Situatioun, deng Schwieregkeeten, deng Ziler, an déi konkret Schrëtt fir no vir ze kommen. De Plang gëllt all Kéier héchstens ee Joer, an e kann ëmmer geännert ginn, wann deng Situatioun sech ännert.",
+    "t": 339.3
+   },
+   {
+    "speaker": "Tom",
     "text": "Also gëtt de Plang mat dir gebaut, net dir iwwerreecht.",
-    "t": 389.75
+    "t": 358.41
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Mat dir. Dat ass d'Häerz vun der Saach. Et ass däi Plang. Den Agent bréngt d'Wëssen an d'Méiglechkeeten; du bréngs däi Liewen an deng Hoffnungen. Zesummen zeechent dir de Wee.",
-    "t": 393.51
+    "t": 361.15
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "A wat fir Schrëtt kéinten an deem Plang sinn? Gëff mer e puer Beispiller.",
-    "t": 407.02
+    "t": 371.74
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Et hänkt ganz vun der Persoun of. Fir een, deen sech fir d'éischt stabiliséiere muss, kéint et ëm d'Gesondheet goen, oder ëm praktesch Problemer ze léisen, oder e Alldag nees opzebauen. Fir een, deen méi no bei der Aarbecht ass, kéint et eng Formatioun sinn, oder Erfahrung ze sammelen.",
-    "t": 412.66
+    "t": 375.35
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "An d'Aarbechtserfahrung — wéi geschitt dat, wann s du nach keng Aarbecht hues?",
-    "t": 428.76
-   },
-   {
-    "speaker": "Tom",
-    "text": "Eng vun den Hëllefsmëttelen ass eng zäitweileg Plaz an enger nëtzlecher Roll fir d'Gemeinschaft — dacks an enger Asbl. Du dréis bäi, du bass aktiv, du baus Erfahrung a Selbstvertrauen op — an dat kann e Schrëtt Richtung enger richteger Aarbecht ginn.",
-    "t": 433.35
+    "t": 390.28
    },
    {
     "speaker": "Anna",
+    "text": "Eng vun den Hëllefsmëttelen ass eng zäitweileg Plaz an enger nëtzlecher Roll fir d'Gemeinschaft — bei enger Gaaschtorganisatioun, zum Beispill enger Asbl. Du dréis bäi, du bass aktiv, du baus Erfahrung a Selbstvertrauen op — an dat kann e Schrëtt Richtung enger richteger Aarbecht ginn. A fir déi Aarbecht kriss du eng Aktivéierungsallocatioun — op Basis vum Mindestloun, fir d'Stonnen, déi s du schaffs.",
+    "t": 394.17
+   },
+   {
+    "speaker": "Tom",
     "text": "Also méchs du eppes Sënnvolles, a bereets dech zur selwechter Zäit vir.",
-    "t": 446.97
+    "t": 416.54
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Genau. Et ass Wierdegkeet a Virbereedung an engem. Du sëtz net doheem a fills dech onnëtzlech. Du dréis bäi, a waakss.",
-    "t": 451.96
-   },
-   {
-    "speaker": "Anna",
-    "text": "Tom, ech wëll déi éierlech Fro stellen, déi verschidden Nolauschterer hu wäerten. Geet et drëm, de Leit ze hëllefen — oder geet et drëm, se ze kontrolléieren, fir sécher ze sinn, datt se net faul sinn?",
-    "t": 463.28
+    "t": 420.59
    },
    {
     "speaker": "Tom",
-    "text": "Dat ass eng faire Fro, an eng wichteg. Déi éierlech Äntwert ass — de Geescht dervun ass Hëllef, net Strof. Dat ganzt Konzept ass, d'Leit ze begleeden, an hirem eegene Rhythmus, ronderëm hir eege Hindernisser. Et ass wouer, datt REVIS Matmaache verlaangt — dat ass d'Kollaboratiounserklärung. Mä d'Zil ass net, d'Leit z'erwëschen. D'Zil ass, se net am Stach ze loossen.",
-    "t": 473.74
+    "text": "Anna, ech wëll déi éierlech Fro stellen, déi verschidden Nolauschterer hu wäerten. Geet et drëm, de Leit ze hëllefen — oder geet et drëm, se ze kontrolléieren, fir sécher ze sinn, datt se net faul sinn?",
+    "t": 428.33
    },
    {
     "speaker": "Anna",
+    "text": "Dat ass eng faire Fro, an eng wichteg. Déi éierlech Äntwert ass — de Geescht dervun ass Hëllef, net Strof. Dat ganzt Konzept ass, d'Leit ze begleeden, an hirem eegene Rhythmus, ronderëm hir eege Hindernisser. Et ass wouer, datt REVIS Matmaache verlaangt — dat ass d'Kollaboratiounserklärung — a wann een ëmmer erëm refuséiert matzemaachen, kann d'Bezuelung reduzéiert oder ausgesat ginn. Mä d'Zil ass net, d'Leit z'erwëschen. D'Zil ass, se net am Stach ze loossen.",
+    "t": 437.77
+   },
+   {
+    "speaker": "Tom",
     "text": "Se net am Stach loossen. Well just Suen ze schécken, an näischt anescht...",
-    "t": 498.21
+    "t": 467.74
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "...kann eng Persoun jorelaang festgehäit an eleng loossen. An dat ass d'Fal, déi REVIS an den ONIS probéieren ze vermeiden. Suen halen dech iwwer Waasser. Mä d'Inklusioun — e Guide, e Plang, e Wee — dat ass et, wat dir hëlleft dech ze beweegen.",
-    "t": 503.94
+    "t": 471.84
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Dat stellt et wierklech an en aneren Liicht. De Scheck ass de Buedem; den ONIS ass d'Trap.",
-    "t": 518.68
+    "t": 484.91
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "De Scheck ass de Buedem; den ONIS ass d'Trap. Dat léinen ech mer.",
-    "t": 524.94
+    "t": 489.67
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Loosse mir et mat enger Persoun konkret maachen. Kënne mer?",
-    "t": 530.71
+    "t": 493.88
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Loosse mer. Stell der e Mann vir — nenne mer e Paulo. Hien ass scho méi Joren ouni Aarbecht. Hien huet seng Aarbecht verluer, dann säi Selbstvertrauen, a lues ass hien wäit ewech vum Aarbechtsmaart gedriff.",
-    "t": 535.25
+    "t": 496.79
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Eng Geschicht, déi méi heefeg ass, wéi d'Leit mengen.",
-    "t": 548.82
-   },
-   {
-    "speaker": "Tom",
-    "text": "Vill méi heefeg. Also bewaarbt sech de Paulo fir REVIS. De FNS reegelt d'Suenesäit — hie kritt den Mindestakommes, sou datt hie liewe kann. An dann trëtt den ONIS a säi Liewen.",
-    "t": 552.24
+    "t": 507.51
    },
    {
     "speaker": "Anna",
+    "text": "Vill méi heefeg. Also bewaarbt sech de Paulo fir REVIS. De FNS reegelt d'Suenesäit — hie kritt den Mindestakommes, sou datt hie liewe kann. D'ADEM kuckt seng Situatioun un, gesäit, datt hien nach net prett ass fir eng Aarbecht, a schéckt hien bei den ONIS. An dann trëtt den ONIS a säi Liewen.",
+    "t": 509.85
+   },
+   {
+    "speaker": "Tom",
     "text": "Hie gëtt op eng Versammlung agelueden.",
-    "t": 565.62
+    "t": 527.14
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Hie gëtt agelueden, hien ënnerschreift d'Kollaboratiounserklärung, an hie gëtt mat engem regionalen Agent no bei sengem Doheem zesummegesat. Si setzen sech zesummen. An am Ufank ass et kloer, datt de Paulo net prett ass fir eng Aarbecht ze sichen — hien ass ausgepompelt, e bësse verluer. Also fänkt de Plang mat der Stabiliséierung un.",
-    "t": 568.11
+    "t": 528.82
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Hëllef him als éischt, op d'Féiss ze kommen.",
-    "t": 585.85
+    "t": 545.04
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Hëllef him ze stoen. Dann, Schrëtt fir Schrëtt, wéi hie sech stabiliséiert, beweegt de Plang sech Richtung Aktivéierung. Vläicht eng Plaz an enger Organisatioun fir d'Gemeinschaft, fir erëm an e Rhythmus ze kommen a säi Selbstvertrauen nees opzebauen. Dann eng Formatioun.",
-    "t": 588.35
+    "t": 546.62
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "An enges Daags, vläicht, eng richteg Aarbecht.",
-    "t": 604.14
+    "t": 560.85
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Dat ass d'Zil. A souguer wann et Zäit brauch, ass de Paulo net méi eleng domat. Hien huet e Plang, an eng Persoun, déi niewent him geet. Dat verännert alles.",
-    "t": 607.45
+    "t": 563.04
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Dat mécht et wierklech. Den Ënnerscheed tëscht Driwwen, an begleet ze ginn.",
-    "t": 619.76
+    "t": 572.91
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Dat ass de ganzen Ënnerscheed. An dat ass et, wat \"Inklusioun\" wierklech heescht — keen dobaussen ze loossen.",
-    "t": 625.58
+    "t": 577.05
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Loosse mir e Moment erauszommen. Firwat ass dat wichteg fir d'Gesellschaft am Ganzen, net just fir den Eenzelnen?",
-    "t": 632.33
+    "t": 582.99
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Well wann een vum Festsetzen zu aktiv an abegraff iwwergeet, gewënnt jiddereen. D'Persoun kritt Wierdegkeet an Akommes zréck. Hir Famill ass méi stabil. An d'Gesellschaft hält e Member verbonnen, deen bäidréit, amplaz verluer. D'Inklusioun ass gutt fir d'Persoun, a gutt fir eis all.",
-    "t": 639.76
+    "t": 588.31
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Eng Gesellschaft ass méi staark, wann keen ofgeschriwwe gëtt.",
-    "t": 660.28
+    "t": 607.46
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Wann keen ofgeschriwwe gëtt. Dat ass déi roueg Philosophie hannert dem ONIS.",
-    "t": 663.94
-   },
-   {
-    "speaker": "Anna",
-    "text": "Gutt Tom, loosse mir et ofschléissen. Wann ech nolauschteren, an dat mech beréiert, oder een deen ech kennen — wat soll ech mathuelen?",
-    "t": 670.18
+    "t": 610.25
    },
    {
     "speaker": "Tom",
+    "text": "Gutt Anna, loosse mir et ofschléissen. Wann ech nolauschteren, an dat mech beréiert, oder een deen ech kennen — wat soll ech mathuelen?",
+    "t": 614.51
+   },
+   {
+    "speaker": "Anna",
     "text": "E puer einfach Saachen. Éischtens — wann s du REVIS kriss, ass den ONIS net däi Feind. Et ass deen Deel vu REVIS, deen do ass, fir dir ze hëllefen no vir ze kommen, mat enger richteger Persoun an engem perséinleche Plang.",
-    "t": 678.55
+    "t": 620.85
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "D'Inklusiounssäit, net just d'Suenesäit.",
-    "t": 691.01
-   },
-   {
-    "speaker": "Tom",
-    "text": "Zweetens — et schafft an dengem Rhythmus. Wann s du dech fir d'éischt stabiliséiere muss, dann ass dat erlaabt, dat ass normal. D'Stabiliséierung kënnt virun der Aktivéierung. Keen gëtt méi séier gedréckt, wéi hie ka goen.",
-    "t": 694.65
+    "t": 632.16
    },
    {
     "speaker": "Anna",
+    "text": "Zweetens — et schafft an dengem Rhythmus. Wann s du dech fir d'éischt stabiliséiere muss, dann ass dat erlaabt, dat ass normal. D'Stabiliséierung kënnt virun der Aktivéierung. Keen gëtt méi séier gedréckt, wéi hie ka goen. An a verschiddene Situatiounen — zum Beispill wann s du dech ëm e klengt Kand ouni Betreiungsplaz këmmers, ëm e Familljemember, oder aus gesondheetleche Grënn — kanns du eng Zäit laang dispenséiert ginn.",
+    "t": 634.72
+   },
+   {
+    "speaker": "Tom",
     "text": "An drëttens?",
-    "t": 708.63
+    "t": 657.71
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Drëttens — du bass net eleng. Du kriss e regionalen Agent, no bei dengem Doheem, deen de Plang mat dir baut. Wann s du dech jeemools verluer fills am System, ass deen Agent däi Kontaktpunkt.",
-    "t": 710.34
+    "t": 658.66
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "A wou kënnen d'Leit méi gewuer ginn?",
-    "t": 722.37
+    "t": 669.9
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Déi offiziell Websäit ass onis — dat ass o-n-i-s — Punkt gouvernement Punkt l-u. A fir d'REVIS-Leeschtung selwer ass d'Informatioun op guichet Punkt l-u, an d'Suenesäit ass den Nationale Solidaritéitsfong, deen mir an enger anerer Episod behandelt hunn.",
-    "t": 724.9
+    "t": 671.57
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "E kuerzen Resumé fir ofzeschléissen?",
-    "t": 739.54
-   },
-   {
-    "speaker": "Tom",
-    "text": "Gär. Den ONIS, den Nationalen Office fir sozial Inklusioun, ass deen Office vum Staat, deen sech ëm d'\"Inklusiounssäit\" vu REVIS këmmert, dem Inklusiounsakommes vu Lëtzebuerg. Wärend den Nationale Solidaritéitsfong d'Suen bezuelt, hëlleft den ONIS deene Leit, déi am wäitsten ewech vun der Aarbecht sinn, no vir ze kommen — fir d'éischt duerch Stabiliséierungsmesuren, dann duerch Aktivéierungsmesuren. Du ënnerschreifs eng Kollaboratiounserklärung, du gëss mat engem regionalen Agent fir sozial Inklusioun no bei dengem Doheem zesummegesat, an zesummen baut dir e perséinlechen Aktivéierungsplang. De Geescht ass ze begleeden, net am Stach ze loossen.",
-    "t": 742.05
+    "t": 688.62
    },
    {
     "speaker": "Anna",
+    "text": "Gär. Den ONIS, den Nationalen Office fir sozial Inklusioun, ass deen Office vum Staat, deen sech ëm d'\"Inklusiounssäit\" vu REVIS këmmert, dem Inklusiounsakommes vu Lëtzebuerg. Wärend den Nationale Solidaritéitsfong d'Suen bezuelt, hëlleft den ONIS deene Leit, déi am wäitsten ewech vun der Aarbecht sinn — deenen, déi d'ADEM bei hie schéckt — no vir ze kommen — fir d'éischt duerch Stabiliséierungsmesuren, dann duerch Aktivéierungsmesuren. Du ënnerschreifs eng Kollaboratiounserklärung, du gëss mat engem regionalen Agent fir sozial Inklusioun no bei dengem Doheem zesummegesat, an zesummen baut dir e perséinlechen Aktivéierungsplang. De Geescht ass ze begleeden, net am Stach ze loossen.",
+    "t": 690.19
+   },
+   {
+    "speaker": "Tom",
     "text": "An d'Message fir haut?",
-    "t": 774.12
+    "t": 726.42
    },
    {
-    "speaker": "Tom",
+    "speaker": "Anna",
     "text": "Datt en Mindestakommes nëmmen d'Halschent vun der Solidaritéit ass. Déi aner Halschent ass d'Inklusioun — eng Hand, e Plang, an e Wee zréck. Suen halen dech op de Féiss; d'Inklusioun hëlleft der ze goen.",
-    "t": 776.4
+    "t": 727.9
    },
    {
-    "speaker": "Anna",
+    "speaker": "Tom",
     "text": "Also... egal ob et fir dech ass, oder fir een deen dir um Häerz läit — denk drun, hannert dem REVIS-Scheck gëtt et och eng hëllefend Hand. Den Nationalen Office fir sozial Inklusioun. ONIS.",
-    "t": 788.79
-   },
-   {
-    "speaker": "Tom",
-    "text": "D'Halschent vun der Hëllef sinn d'Suen. Déi aner Halschent ass, net eleng gelooss ze ginn. Dat ass et wäert ze wëssen.",
-    "t": 801.42
+    "t": 739.81
    },
    {
     "speaker": "Anna",
-    "text": "Dat war eis Episod iwwer den Nationalen Office fir sozial Inklusioun, Deel vum Biergerpakt — d'Zesummeliewen zu Lëtzebuerg, d'Land z'entdecken, an openee oppassen. Villmools merci fir d'Nolauschteren.",
-    "t": 809.17
+    "text": "D'Halschent vun der Hëllef sinn d'Suen. Déi aner Halschent ass, net eleng gelooss ze ginn. Dat ass et wäert ze wëssen. Dat war eis Episod iwwer den Nationalen Office fir sozial Inklusioun. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 750.67
    },
    {
     "speaker": "Tom",
-    "text": "Merci, jiddereen. Passt gutt op iech op... a bis d'nächst Kéier!",
-    "t": 822.09
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 801.04
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 827.44
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 804.24
    }
   ],
   "audio_fr": "podcast_onis_fr.mp3",
-  "duration_fr": 864.65,
+  "duration_fr": 748.15,
   "title_fr": "L'Office national d'inclusion sociale – bien plus qu'un chèque",
-  "description_fr": "L'Office national d'inclusion sociale (ONIS) est l'administration de l'État qui s'occupe du volet « inclusion » du REVIS, le revenu d'inclusion sociale du Luxembourg. Tandis que le Fonds national de solidarité (FNS) verse l'argent, l'ONIS aide les personnes les plus éloignées de l'emploi à avancer – d'abord par des mesures de stabilisation, puis par des mesures d'activation. Vous signez une déclaration de collaboration, vous êtes mis en relation avec un agent régional d'inclusion sociale (ARIS) près de chez vous, et ensemble vous construisez un plan d'activation personnel. Créé par la loi REVIS de 2018, il a commencé son travail en 2019. Plus d'informations sur onis.gouvernement.lu.",
+  "description_fr": "L'Office national d'inclusion sociale (ONIS) est l'administration de l'État qui s'occupe du volet « inclusion » du REVIS, le revenu d'inclusion sociale du Luxembourg. Tandis que le Fonds national de solidarité (FNS) verse l'argent, l'ONIS aide les personnes les plus éloignées de l'emploi – orientées par l'ADEM – à avancer – d'abord par des mesures de stabilisation, puis par des mesures d'activation. Vous signez une déclaration de collaboration, vous êtes mis en relation avec un agent régional d'inclusion sociale (ARIS) près de chez vous, et ensemble vous construisez un plan d'activation personnel. Créé par la loi REVIS de 2018, il a commencé son travail en 2019. Plus d'informations sur onis.gouvernement.lu.",
   "topics_fr": [
    "L'ONIS et le volet inclusion du REVIS",
    "L'argent (FNS) vs l'inclusion (ONIS)",
@@ -52501,7 +52391,7 @@ const EPISODES = [
      "Le REVIS n'est qu'un chèque mensuel de l'État ; il n'y a aucun volet d'accompagnement ou d'inclusion prévu"
     ],
     "correct": 0,
-    "explanation": "Le REVIS – le revenu d'inclusion sociale – a deux facettes : le Fonds national de solidarité (FNS) verse l'argent chaque mois, tandis que l'ONIS s'occupe du volet inclusion, en aidant la personne à se rapprocher à nouveau du travail et de la société."
+    "explanation": "Le REVIS – le revenu d'inclusion sociale – a deux facettes : le Fonds national de solidarité (FNS) verse l'argent chaque mois, tandis que le volet inclusion est assuré par l'ADEM pour les personnes prêtes à chercher un emploi, et par l'ONIS pour celles qui sont encore éloignées du travail, en les aidant à se rapprocher à nouveau du travail et de la société."
    },
    {
     "text": "Quelle est la différence entre les mesures de stabilisation et les mesures d'activation ?",
@@ -52523,7 +52413,7 @@ const EPISODES = [
      "Vous êtes rattaché à un seul bureau central dans la capitale, où une personne différente vous reçoit à chaque fois, sans plan personnel ni suivi régulier de votre situation"
     ],
     "correct": 1,
-    "explanation": "Vous êtes invité à un entretien, vous signez une déclaration de collaboration (un engagement mutuel), et vous êtes mis en relation avec un agent régional d'inclusion sociale (ARIS) travaillant dans un office social local. Ensemble, vous construisez un plan d'activation personnel adapté à votre situation."
+    "explanation": "Si l'ADEM vous oriente vers l'ONIS, vous êtes invité à une réunion d'information, vous signez une déclaration de collaboration (un engagement mutuel), et vous êtes mis en relation avec un agent régional d'inclusion sociale (ARIS) travaillant dans un office social local. Ensemble, vous construisez un plan d'activation personnel adapté à votre situation."
    },
    {
     "text": "Quel est l'esprit qui sous-tend le travail de l'ONIS ?",
@@ -52538,9 +52428,9 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_onis_de.mp3",
-  "duration_de": 970.44,
+  "duration_de": 908.02,
   "title_de": "Das Nationale Amt für soziale Eingliederung – mehr als ein Scheck",
-  "description_de": "Das Nationale Amt für soziale Eingliederung (Office national d'inclusion sociale, ONIS) ist die staatliche Behörde, die sich um die „Eingliederungsseite“ des REVIS kümmert, Luxemburgs Eingliederungseinkommen. Während der Nationale Solidaritätsfonds (FNS) das Geld auszahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen – zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen. Sie unterschreiben eine Kooperationserklärung, werden einem regionalen Eingliederungsagenten (ARIS) in Ihrer Nähe zugeordnet, und gemeinsam erstellen Sie einen persönlichen Aktivierungsplan. Durch das REVIS-Gesetz von 2018 geschaffen, nahm es 2019 seine Arbeit auf. Mehr unter onis.gouvernement.lu.",
+  "description_de": "Das Nationale Amt für soziale Eingliederung (Office national d'inclusion sociale, ONIS) ist die staatliche Behörde, die sich um die „Eingliederungsseite“ des REVIS kümmert, Luxemburgs Eingliederungseinkommen. Während der Nationale Solidaritätsfonds (FNS) das Geld auszahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind – von der ADEM verwiesen –, voranzukommen – zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen. Sie unterschreiben eine Kooperationserklärung, werden einem regionalen Eingliederungsagenten (ARIS) in Ihrer Nähe zugeordnet, und gemeinsam erstellen Sie einen persönlichen Aktivierungsplan. Durch das REVIS-Gesetz von 2018 geschaffen, nahm es 2019 seine Arbeit auf. Mehr unter onis.gouvernement.lu.",
   "topics_de": [
    "ONIS und die Eingliederungsseite des REVIS",
    "Geld (FNS) vs. Eingliederung (ONIS)",
@@ -52572,7 +52462,7 @@ const EPISODES = [
      "Das REVIS ist nur ein monatlicher Scheck des Staates; eine Begleit- oder Inklusionsseite gibt es gar nicht"
     ],
     "correct": 0,
-    "explanation": "Das REVIS – das Eingliederungseinkommen – hat zwei Seiten: Der Nationale Solidaritätsfonds (FNS) zahlt das Geld jeden Monat aus, während ONIS sich um die Eingliederungsseite kümmert und der Person hilft, sich wieder der Arbeit und der Gesellschaft anzunähern."
+    "explanation": "Das REVIS – das Eingliederungseinkommen – hat zwei Seiten: Der Nationale Solidaritätsfonds (FNS) zahlt das Geld jeden Monat aus, während die Eingliederungsseite für Menschen, die bereit sind, Arbeit zu suchen, von der ADEM übernommen wird, und für Menschen, die noch weit von der Arbeit entfernt sind, von ONIS – das ihnen hilft, sich wieder der Arbeit und der Gesellschaft anzunähern."
    },
    {
     "text": "Was ist der Unterschied zwischen Stabilisierungs- und Aktivierungsmaßnahmen?",
@@ -52594,7 +52484,7 @@ const EPISODES = [
      "Sie werden einem einzigen zentralen Büro in der Hauptstadt zugeteilt, wo Sie jedes Mal jemand anderes empfängt, ohne persönlichen Plan und ohne regelmäßige Begleitung"
     ],
     "correct": 1,
-    "explanation": "Sie werden zu einem Gespräch eingeladen, unterschreiben eine Kooperationserklärung (eine gegenseitige Verpflichtung) und werden einem regionalen Eingliederungsagenten (ARIS) zugeordnet, der in einem örtlichen Sozialamt arbeitet. Gemeinsam erstellen Sie einen persönlichen Aktivierungsplan, der auf Ihre Situation zugeschnitten ist."
+    "explanation": "Wenn die ADEM Sie an ONIS verweist, werden Sie zu einer Informationsversammlung eingeladen, unterschreiben eine Kooperationserklärung (eine gegenseitige Verpflichtung) und werden einem regionalen Eingliederungsagenten (ARIS) zugeordnet, der in einem örtlichen Sozialamt arbeitet. Gemeinsam erstellen Sie einen persönlichen Aktivierungsplan, der auf Ihre Situation zugeschnitten ist."
    },
    {
     "text": "Was ist der zugrunde liegende Geist der Arbeit von ONIS?",
@@ -52611,8 +52501,7 @@ const EPISODES = [
   "categories": [
    "social",
    "work"
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 17,

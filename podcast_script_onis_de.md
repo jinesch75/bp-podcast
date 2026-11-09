@@ -30,7 +30,7 @@
 
 **TOM:** Und diese zweite Seite — die Inklusionsseite — ist die Aufgabe von ONIS.
 
-**ANNA:** Genau. Der FNS kümmert sich um das Geld. ONIS kümmert sich um die Menschen und ihren Weg nach vorn. REVIS ist nicht als Scheck gedacht, den du für immer bekommst, allein zu Hause. Es ist als Brücke gedacht.
+**ANNA:** Teilweise — und das ist wichtig. Der FNS kümmert sich um das Geld. Für Menschen, die bereit sind, eine Arbeit zu suchen, ist die Inklusionsseite die ADEM, die Arbeitsagentur. Aber für Menschen, die noch weit von der Arbeit entfernt sind, ist es ONIS — es kümmert sich um die Menschen und ihren Weg nach vorn. REVIS ist nicht als Scheck gedacht, den du für immer bekommst, allein zu Hause. Es ist als Brücke gedacht.
 
 **TOM:** Diese Unterscheidung gefällt mir. ONIS ist also das Amt, das mit dir über die Brücke geht.
 
@@ -66,7 +66,7 @@
 
 **TOM:** Gut, machen wir es konkret. Wenn ich eine Person bin, die anfängt, REVIS zu bekommen, was passiert dann eigentlich mit ONIS? Führ mich Schritt für Schritt durch.
 
-**ANNA:** Gern. Normalerweise beginnt es mit einer Einladung — du wirst zu einem Treffen eingeladen, einem Empfang, bei ONIS. Und dort unterschreibst du etwas, das Kooperationserklärung heißt.
+**ANNA:** Gern. Eigentlich beginnt es bei der ADEM. Wenn du unter fünfundsechzig bist und arbeiten kannst, schaut sich die ADEM zuerst deine Situation an. Wenn du bereit für eine Arbeit bist, begleitet dich die ADEM. Aber wenn es zuerst andere Schwierigkeiten zu lösen gibt, schickt dich die ADEM zu ONIS. Dann lädt dich ONIS zu einer Informationsversammlung ein — und dort unterschreibst du etwas, das Kooperationserklärung heißt.
 
 **TOM:** Eine Kooperationserklärung. Das klingt formell. Was bedeutet das eigentlich, wirklich?
 
@@ -82,7 +82,7 @@
 
 **TOM:** Das ist wichtig. Hilfe, die örtlich ist, und persönlich.
 
-**ANNA:** Sehr. Und gemeinsam baut ihr, du und dein Agent, etwas auf, das Aktivierungsplan heißt. Es ist ein persönlicher Plan — deine Situation, deine Schwierigkeiten, deine Ziele, und die konkreten Schritte, um voranzukommen.
+**ANNA:** Sehr. Und gemeinsam baut ihr, du und dein Agent, etwas auf, das Aktivierungsplan heißt. Es ist ein persönlicher Plan — deine Situation, deine Schwierigkeiten, deine Ziele, und die konkreten Schritte, um voranzukommen. Der Plan gilt jeweils höchstens ein Jahr, und er kann jederzeit geändert werden, wenn sich deine Situation ändert.
 
 **TOM:** Der Plan wird also mit dir aufgebaut, nicht dir überreicht.
 
@@ -94,7 +94,7 @@
 
 **TOM:** Und die Arbeitserfahrung — wie geht das, wenn man noch keine Arbeit hat?
 
-**ANNA:** Eines der Mittel ist ein zeitlich begrenzter Einsatz in einer nützlichen, gemeinnützigen Tätigkeit — oft in einer gemeinnützigen Organisation. Du trägst etwas bei, du bist aktiv, du sammelst Erfahrung und Selbstvertrauen — und das kann zu einem Sprungbrett in eine echte Arbeit werden.
+**ANNA:** Eines der Mittel ist ein zeitlich begrenzter Einsatz in einer nützlichen, gemeinnützigen Tätigkeit — bei einer Gastorganisation, zum Beispiel einem Verein. Du trägst etwas bei, du bist aktiv, du sammelst Erfahrung und Selbstvertrauen — und das kann zu einem Sprungbrett in eine echte Arbeit werden. Und für diese Arbeit bekommst du eine Aktivierungszulage — berechnet auf Basis des Mindestlohns, für die Stunden, die du arbeitest.
 
 **TOM:** Du tust also etwas Sinnvolles, und bereitest dich gleichzeitig vor.
 
@@ -102,7 +102,7 @@
 
 **TOM:** Anna, ich möchte die ehrliche Frage stellen, die manche Zuhörer haben werden. Geht es darum, Menschen zu helfen — oder geht es darum, sie zu kontrollieren, sicherzustellen, dass sie nicht faul sind?
 
-**ANNA:** Das ist eine berechtigte Frage, und eine wichtige. Die ehrliche Antwort ist — der Geist davon ist Hilfe, nicht Bestrafung. Der ganze Aufbau ist darauf ausgelegt, Menschen zu begleiten, in ihrem eigenen Tempo, um ihre eigenen Hindernisse herum. Es stimmt, dass REVIS Mitwirkung verlangt — das ist die Kooperationserklärung. Aber das Ziel ist nicht, Menschen zu ertappen. Das Ziel ist, sie nicht im Stich zu lassen.
+**ANNA:** Das ist eine berechtigte Frage, und eine wichtige. Die ehrliche Antwort ist — der Geist davon ist Hilfe, nicht Bestrafung. Der ganze Aufbau ist darauf ausgelegt, Menschen zu begleiten, in ihrem eigenen Tempo, um ihre eigenen Hindernisse herum. Es stimmt, dass REVIS Mitwirkung verlangt — das ist die Kooperationserklärung — und wenn jemand wiederholt nicht mitmacht, kann die Zahlung gekürzt oder ausgesetzt werden. Aber das Ziel ist nicht, Menschen zu ertappen. Das Ziel ist, sie nicht im Stich zu lassen.
 
 **TOM:** Sie nicht im Stich zu lassen. Denn nur Geld zu schicken, und sonst nichts...
 
@@ -118,7 +118,7 @@
 
 **TOM:** Eine Geschichte, die häufiger ist, als die Leute denken.
 
-**ANNA:** Viel häufiger. Also beantragt Paulo REVIS. Der FNS regelt die Geldseite — er bekommt das Mindesteinkommen, damit er leben kann. Und dann tritt ONIS in sein Leben.
+**ANNA:** Viel häufiger. Also beantragt Paulo REVIS. Der FNS regelt die Geldseite — er bekommt das Mindesteinkommen, damit er leben kann. Die ADEM schaut sich seine Situation an, sieht, dass er noch nicht bereit für eine Arbeit ist, und schickt ihn zu ONIS. Und dann tritt ONIS in sein Leben.
 
 **TOM:** Er wird zu einem Treffen eingeladen.
 
@@ -150,7 +150,7 @@
 
 **TOM:** Die Inklusionsseite, nicht nur die Geldseite.
 
-**ANNA:** Zweitens — es arbeitet in deinem Tempo. Wenn du dich zuerst stabilisieren musst, ist das erlaubt, das ist normal. Stabilisierung kommt vor Aktivierung. Niemand wird schneller gedrängt, als er gehen kann.
+**ANNA:** Zweitens — es arbeitet in deinem Tempo. Wenn du dich zuerst stabilisieren musst, ist das erlaubt, das ist normal. Stabilisierung kommt vor Aktivierung. Niemand wird schneller gedrängt, als er gehen kann. Und in manchen Situationen — zum Beispiel wenn du ein kleines Kind ohne Betreuungsplatz versorgst, einen Angehörigen pflegst, oder aus gesundheitlichen Gründen — kannst du für eine Weile davon befreit werden.
 
 **TOM:** Und drittens?
 
@@ -162,7 +162,7 @@
 
 **TOM:** Eine kurze Zusammenfassung zum Schluss?
 
-**ANNA:** Klar. ONIS, das Nationale Amt für soziale Inklusion, ist das staatliche Amt, das die „Inklusionsseite" von REVIS regelt, Luxemburgs Eingliederungseinkommen. Während der Nationale Solidaritätsfonds das Geld zahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen. Du unterschreibst eine Kooperationserklärung, du wirst einem regionalen Sozialinklusionsagenten in der Nähe deines Wohnorts zugeteilt, und gemeinsam baut ihr einen persönlichen Aktivierungsplan auf. Der Geist ist, zu begleiten, nicht im Stich zu lassen.
+**ANNA:** Klar. ONIS, das Nationale Amt für soziale Inklusion, ist das staatliche Amt, das die „Inklusionsseite" von REVIS regelt, Luxemburgs Eingliederungseinkommen. Während der Nationale Solidaritätsfonds das Geld zahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind — denen, die die ADEM zu ihm schickt — voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen. Du unterschreibst eine Kooperationserklärung, du wirst einem regionalen Sozialinklusionsagenten in der Nähe deines Wohnorts zugeteilt, und gemeinsam baut ihr einen persönlichen Aktivierungsplan auf. Der Geist ist, zu begleiten, nicht im Stich zu lassen.
 
 **TOM:** Und die Botschaft für heute?
 
@@ -178,4 +178,4 @@
 
 ---
 
-*Quellen: onis.gouvernement.lu (Office national d'inclusion sociale — Nationales Amt für soziale Inklusion (ONIS)). ONIS ist eine staatliche Verwaltung unter dem Familienministerium, geschaffen durch das geänderte Gesetz vom 28. Juli 2018 über das Eingliederungseinkommen (REVIS); es nahm seine Arbeit am 1. Januar 2019 auf und ersetzte den früheren Nationalen Dienst für soziale Aktion (SNAS). Seine Aufgabe (Kapitel 3 des REVIS-Gesetzes) ist die Stabilisierung und/oder Aktivierung der Menschen, die am weitesten vom Arbeitsmarkt entfernt sind, durch Maßnahmen, die auf den Bedarf und die Entwicklung jeder Person zugeschnitten sind; die zuständigen Behörden und Organisationen zu koordinieren; und statistische Daten über die Begünstigten zu erheben. ONIS zentralisiert den Empfang der Personen, die eine Kooperationserklärung unterschreiben müssen (Artikel 13(1) des REVIS-Gesetzes); die Begünstigten werden an einen regionalen Sozialinklusionsagenten (ARIS) verwiesen, der innerhalb der Sozialämter arbeitet, mit dem sie einen Aktivierungsplan entwickeln. Der finanzielle Teil von REVIS wird vom Nationalen Solidaritätsfonds (FNS) gezahlt. Amt: 13C, rue de Bitbourg, L-1273 Luxemburg. Nur allgemeine Informationen — aktuelle Einzelheiten und Bedingungen siehe onis.gouvernement.lu und guichet.lu.*
+*Quellen: onis.gouvernement.lu (Office national d'inclusion sociale — Nationales Amt für soziale Inklusion (ONIS)). ONIS ist eine staatliche Verwaltung unter dem Familienministerium, geschaffen durch das geänderte Gesetz vom 28. Juli 2018 über das Eingliederungseinkommen (REVIS); es nahm seine Arbeit am 1. Januar 2019 auf und ersetzte den früheren Nationalen Dienst für soziale Aktion (SNAS). Seine Aufgabe (Kapitel 3 des REVIS-Gesetzes) ist die Stabilisierung und/oder Aktivierung der Menschen, die am weitesten vom Arbeitsmarkt entfernt sind, durch Maßnahmen, die auf den Bedarf und die Entwicklung jeder Person zugeschnitten sind; die zuständigen Behörden und Organisationen zu koordinieren; und statistische Daten über die Begünstigten zu erheben. ONIS zentralisiert den Empfang der Personen, die eine Kooperationserklärung unterschreiben müssen (Artikel 13(1) des REVIS-Gesetzes); die Begünstigten werden an einen regionalen Sozialinklusionsagenten (ARIS) verwiesen, der innerhalb der Sozialämter arbeitet, mit dem sie einen Aktivierungsplan entwickeln. Der finanzielle Teil von REVIS wird vom Nationalen Solidaritätsfonds (FNS) gezahlt. Amt: 13C, rue de Bitbourg, L-1273 Luxemburg. Nur allgemeine Informationen — aktuelle Einzelheiten und Bedingungen siehe onis.gouvernement.lu und guichet.lu. Die ADEM nimmt zuerst ein Profiling der REVIS-Antragsteller unter 65 vor, die arbeiten können; nur Menschen mit besonderem Aktivierungsbedarf werden an ONIS verwiesen (onis.gouvernement.lu, aktualisiert am 04.08.2025). Aktivierungszulage für gemeinnützige Arbeiten (TUC) auf Basis des unqualifizierten Mindestlohns; Aktivierungsplan höchstens ein Jahr; vorübergehende Befreiungen; Sanktionen. Geprüft am 9. November 2026.*

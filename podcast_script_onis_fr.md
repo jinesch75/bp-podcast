@@ -30,7 +30,7 @@
 
 **TOM :** Et cette deuxième facette — celle de l'inclusion — c'est la mission de l'ONIS.
 
-**ANNA :** Exactement. Le FNS s'occupe de l'argent. L'ONIS s'occupe des personnes, et de leur chemin vers l'avenir. Le REVIS n'est pas censé être un chèque que tu reçois pour toujours, seul chez toi. Il est censé être un pont.
+**ANNA :** En partie — et c'est important. Le FNS s'occupe de l'argent. Pour les personnes prêtes à chercher un emploi, le volet inclusion, c'est l'ADEM, l'agence pour l'emploi. Mais pour les personnes encore éloignées du travail, c'est l'ONIS — il s'occupe des personnes, et de leur chemin vers l'avenir. Le REVIS n'est pas censé être un chèque que tu reçois pour toujours, seul chez toi. Il est censé être un pont.
 
 **TOM :** J'adore cette distinction. Donc l'ONIS, c'est l'office qui marche à tes côtés sur le pont.
 
@@ -66,7 +66,7 @@
 
 **TOM :** D'accord, rendons ça concret. Si je suis une personne qui commence à toucher le REVIS, qu'est-ce qui se passe vraiment avec l'ONIS ? Explique-moi étape par étape.
 
-**ANNA :** Bien sûr. Ça commence généralement par une invitation — on t'invite à un rendez-vous, à un accueil, avec l'ONIS. Et là, tu signes quelque chose qu'on appelle une déclaration de collaboration.
+**ANNA :** Bien sûr. En fait, ça commence à l'ADEM. Si tu as moins de soixante-cinq ans et que tu peux travailler, l'ADEM examine d'abord ta situation. Si tu es prêt pour un emploi, c'est l'ADEM qui t'accompagne. Mais s'il y a d'abord d'autres difficultés à régler, l'ADEM t'oriente vers l'ONIS. Ensuite, l'ONIS t'invite à une réunion d'information — et là, tu signes quelque chose qu'on appelle une déclaration de collaboration.
 
 **TOM :** Une déclaration de collaboration. Ça a l'air formel. Qu'est-ce que ça veut dire, au fond ?
 
@@ -82,7 +82,7 @@
 
 **TOM :** C'est important. Une aide locale, et personnelle.
 
-**ANNA :** Très. Et ensemble, ton agent et toi, vous construisez quelque chose qu'on appelle un plan d'activation. C'est un plan personnel — ta situation, tes difficultés, tes objectifs, et les étapes concrètes pour avancer.
+**ANNA :** Très. Et ensemble, ton agent et toi, vous construisez quelque chose qu'on appelle un plan d'activation. C'est un plan personnel — ta situation, tes difficultés, tes objectifs, et les étapes concrètes pour avancer. Le plan est fixé pour un an au maximum, et il peut être modifié dès que ta situation change.
 
 **TOM :** Donc le plan est construit avec toi, et non pas remis tout fait.
 
@@ -94,7 +94,7 @@
 
 **TOM :** Et l'expérience professionnelle — comment ça se passe si tu n'as pas encore d'emploi ?
 
-**ANNA :** L'un des outils, c'est un placement temporaire dans une activité utile, au service de la collectivité — souvent dans une association sans but lucratif. Tu contribues, tu es actif, tu acquiers de l'expérience et de la confiance — et ça peut devenir un tremplin vers un vrai emploi.
+**ANNA :** L'un des outils, c'est un placement temporaire dans une activité utile, au service de la collectivité — dans un organisme d'accueil, par exemple une association. Tu contribues, tu es actif, tu acquiers de l'expérience et de la confiance — et ça peut devenir un tremplin vers un vrai emploi. Et pour ce travail, tu reçois une allocation d'activation — calculée sur le salaire minimum, selon les heures que tu travailles.
 
 **TOM :** Donc tu fais quelque chose qui a du sens, et en même temps tu te prépares.
 
@@ -102,7 +102,7 @@
 
 **TOM :** Anna, je veux poser la question honnête que certains auditeurs vont se poser. Est-ce qu'il s'agit d'aider les gens — ou est-ce qu'il s'agit de les surveiller, de vérifier qu'ils ne sont pas paresseux ?
 
-**ANNA :** C'est une question légitime, et importante. La réponse honnête, c'est que l'esprit de tout ça, c'est l'aide, pas la sanction. Toute la conception vise à accompagner les personnes, à leur propre rythme, autour de leurs propres obstacles. C'est vrai que le REVIS demande une participation — c'est la déclaration de collaboration. Mais le but n'est pas de prendre les gens en défaut. Le but, c'est de ne pas les abandonner.
+**ANNA :** C'est une question légitime, et importante. La réponse honnête, c'est que l'esprit de tout ça, c'est l'aide, pas la sanction. Toute la conception vise à accompagner les personnes, à leur propre rythme, autour de leurs propres obstacles. C'est vrai que le REVIS demande une participation — c'est la déclaration de collaboration — et si quelqu'un refuse plusieurs fois de participer, le paiement peut être réduit ou suspendu. Mais le but n'est pas de prendre les gens en défaut. Le but, c'est de ne pas les abandonner.
 
 **TOM :** De ne pas les abandonner. Parce que se contenter d'envoyer de l'argent, et rien d'autre...
 
@@ -118,7 +118,7 @@
 
 **TOM :** Une histoire plus courante qu'on ne le pense.
 
-**ANNA :** Bien plus courante. Donc Paulo demande le REVIS. Le FNS règle le côté argent — il reçoit le revenu minimum, et donc il peut vivre. Et ensuite, l'ONIS entre dans sa vie.
+**ANNA :** Bien plus courante. Donc Paulo demande le REVIS. Le FNS règle le côté argent — il reçoit le revenu minimum, et donc il peut vivre. L'ADEM examine sa situation, voit qu'il n'est pas encore prêt pour un emploi, et l'oriente vers l'ONIS. Et c'est là que l'ONIS entre dans sa vie.
 
 **TOM :** Il est invité à un rendez-vous.
 
@@ -150,7 +150,7 @@
 
 **TOM :** Le côté inclusion, pas seulement le côté argent.
 
-**ANNA :** Deuxièmement — ça fonctionne à ton rythme. Si tu as d'abord besoin de te stabiliser, c'est permis, c'est normal. La stabilisation vient avant l'activation. Personne n'est poussé plus vite qu'il ne peut aller.
+**ANNA :** Deuxièmement — ça fonctionne à ton rythme. Si tu as d'abord besoin de te stabiliser, c'est permis, c'est normal. La stabilisation vient avant l'activation. Personne n'est poussé plus vite qu'il ne peut aller. Et dans certaines situations — par exemple si tu t'occupes d'un jeune enfant sans solution de garde, si tu t'occupes d'un proche, ou pour des raisons de santé — tu peux être dispensé pendant un temps.
 
 **TOM :** Et troisièmement ?
 
@@ -162,7 +162,7 @@
 
 **TOM :** Un petit résumé pour finir ?
 
-**ANNA :** Bien sûr. L'ONIS, l'Office national d'inclusion sociale, c'est l'office de l'État qui s'occupe du côté « inclusion » du REVIS, le revenu d'inclusion sociale du Luxembourg. Alors que le Fonds national de solidarité verse l'argent, l'ONIS aide les personnes les plus éloignées du travail à avancer — d'abord par des mesures de stabilisation, puis par des mesures d'activation. Tu signes une déclaration de collaboration, on t'associe à un agent régional d'inclusion sociale près de chez toi, et ensemble vous construisez un plan d'activation personnel. L'esprit, c'est d'accompagner, pas d'abandonner.
+**ANNA :** Bien sûr. L'ONIS, l'Office national d'inclusion sociale, c'est l'office de l'État qui s'occupe du côté « inclusion » du REVIS, le revenu d'inclusion sociale du Luxembourg. Alors que le Fonds national de solidarité verse l'argent, l'ONIS aide les personnes les plus éloignées du travail — celles que l'ADEM oriente vers lui — à avancer — d'abord par des mesures de stabilisation, puis par des mesures d'activation. Tu signes une déclaration de collaboration, on t'associe à un agent régional d'inclusion sociale près de chez toi, et ensemble vous construisez un plan d'activation personnel. L'esprit, c'est d'accompagner, pas d'abandonner.
 
 **TOM :** Et le message pour aujourd'hui ?
 
@@ -178,4 +178,4 @@
 
 ---
 
-*Sources : onis.gouvernement.lu (Office national d'inclusion sociale). L'ONIS est une administration de l'État relevant du ministère de la Famille, créée par la loi modifiée du 28 juillet 2018 relative au revenu d'inclusion sociale (REVIS) ; il a commencé son travail le 1er janvier 2019, en remplacement de l'ancien Service national d'action sociale (SNAS). Sa mission (chapitre 3 de la loi REVIS) est la stabilisation et/ou l'activation des personnes les plus éloignées du marché du travail, au moyen de mesures adaptées aux besoins et à l'évolution de chaque personne ; coordonner les autorités et organismes responsables ; et collecter des données statistiques sur les bénéficiaires. L'ONIS centralise l'accueil des personnes qui doivent signer une déclaration de collaboration (article 13, paragraphe 1, de la loi REVIS) ; les bénéficiaires sont orientés vers un agent régional d'inclusion sociale (ARIS), travaillant au sein des offices sociaux, avec lequel ils élaborent un plan d'activation. La partie financière du REVIS est versée par le Fonds national de solidarité (FNS). Bureau : 13C, rue de Bitbourg, L-1273 Luxembourg. Informations générales uniquement — consultez onis.gouvernement.lu et guichet.lu pour les détails et conditions à jour.*
+*Sources : onis.gouvernement.lu (Office national d'inclusion sociale). L'ONIS est une administration de l'État relevant du ministère de la Famille, créée par la loi modifiée du 28 juillet 2018 relative au revenu d'inclusion sociale (REVIS) ; il a commencé son travail le 1er janvier 2019, en remplacement de l'ancien Service national d'action sociale (SNAS). Sa mission (chapitre 3 de la loi REVIS) est la stabilisation et/ou l'activation des personnes les plus éloignées du marché du travail, au moyen de mesures adaptées aux besoins et à l'évolution de chaque personne ; coordonner les autorités et organismes responsables ; et collecter des données statistiques sur les bénéficiaires. L'ONIS centralise l'accueil des personnes qui doivent signer une déclaration de collaboration (article 13, paragraphe 1, de la loi REVIS) ; les bénéficiaires sont orientés vers un agent régional d'inclusion sociale (ARIS), travaillant au sein des offices sociaux, avec lequel ils élaborent un plan d'activation. La partie financière du REVIS est versée par le Fonds national de solidarité (FNS). Bureau : 13C, rue de Bitbourg, L-1273 Luxembourg. Informations générales uniquement — consultez onis.gouvernement.lu et guichet.lu pour les détails et conditions à jour. L'ADEM procède d'abord au profilage des demandeurs du REVIS de moins de 65 ans aptes au travail ; seules les personnes ayant des besoins spécifiques d'activation sont orientées vers l'ONIS (onis.gouvernement.lu, mis à jour le 04.08.2025). Allocation d'activation pour les travaux d'utilité collective (TUC), sur base du salaire social minimum non qualifié ; plan d'activation d'un an au maximum ; dispenses temporaires ; sanctions. Vérifié le 9 novembre 2026.*

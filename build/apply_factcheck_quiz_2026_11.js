@@ -84,6 +84,17 @@ D.push(['fns', 'description', 'Apply on fns.lu or MyGuichet.lu', 'Forms and an o
 D.push(['fns', 'description_fr', 'Faites votre demande sur fns.lu ou MyGuichet.lu', 'Formulaires et calculateur en ligne sur fns.lu']);
 D.push(['fns', 'description_de', 'Stellen Sie Ihren Antrag auf fns.lu oder MyGuichet.lu', 'Formulare und Online-Rechner auf fns.lu']);
 
+// ONIS (9 Nov 2026): ADEM profiles first, refers people far from work to ONIS
+q('onis', 'questions', 1, 'explanation', 'while ONIS handles the inclusion side, helping the person move back toward work and society.', 'while the inclusion side is handled by ADEM for people ready to look for work, and by ONIS for people who are still far from work, helping them move back toward work and society.');
+q('onis', 'questions_fr', 1, 'explanation', "tandis que l'ONIS s'occupe du volet inclusion, en aidant la personne à se rapprocher à nouveau du travail et de la société.", "tandis que le volet inclusion est assuré par l'ADEM pour les personnes prêtes à chercher un emploi, et par l'ONIS pour celles qui sont encore éloignées du travail, en les aidant à se rapprocher à nouveau du travail et de la société.");
+q('onis', 'questions_de', 1, 'explanation', 'während ONIS sich um die Eingliederungsseite kümmert und der Person hilft, sich wieder der Arbeit und der Gesellschaft anzunähern.', 'während die Eingliederungsseite für Menschen, die bereit sind, Arbeit zu suchen, von der ADEM übernommen wird, und für Menschen, die noch weit von der Arbeit entfernt sind, von ONIS – das ihnen hilft, sich wieder der Arbeit und der Gesellschaft anzunähern.');
+q('onis', 'questions', 3, 'explanation', 'You are invited to a meeting,', 'If ADEM refers you to ONIS, you are invited to an information meeting,');
+q('onis', 'questions_fr', 3, 'explanation', 'Vous êtes invité à un entretien,', "Si l'ADEM vous oriente vers l'ONIS, vous êtes invité à une réunion d'information,");
+q('onis', 'questions_de', 3, 'explanation', 'Sie werden zu einem Gespräch eingeladen,', 'Wenn die ADEM Sie an ONIS verweist, werden Sie zu einer Informationsversammlung eingeladen,');
+D.push(['onis', 'description', 'ONIS helps people furthest from work move forward', 'ONIS helps people furthest from work – referred by ADEM – move forward']);
+D.push(['onis', 'description_fr', "l'ONIS aide les personnes les plus éloignées de l'emploi à avancer", "l'ONIS aide les personnes les plus éloignées de l'emploi – orientées par l'ADEM – à avancer"]);
+D.push(['onis', 'description_de', 'hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen', 'hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind – von der ADEM verwiesen –, voranzukommen']);
+
 const src = fs.readFileSync(FILE, 'utf8');
 const i = src.indexOf('const EPISODES');
 const banner = src.slice(0, i);
