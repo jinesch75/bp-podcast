@@ -23,7 +23,7 @@
 **ANNA:** Dës Verbindung ass mächteg... si mécht aus kluger Fuerschung richteg Produkter, Servicer an Aarbechtsplazen.
 **TOM:** Loosse mer iwwer ee vu senge bekanntste Programmer schwätzen, fir nei Entreprisen.
 **ANNA:** Et ass e Beschleunegungsprogramm fir Startupen, heiansdo Fit 4 Start genannt.
-**TOM:** Et wielt villverspriechend jonk Startupen aus a gëtt hinne Coaching, Ënnerstëtzung an eng éischt Finanzéierung, fir ze wuessen.
+**TOM:** Zënter 2015 wielt et villverspriechend jonk Startupen aus a gëtt hinnen Coaching, Ënnerstëtzung an eng éischt Finanzéierung, fir ze wuessen... am Digitalen, an de Gesondheetstechnologien, an der Raumfaart, an elo och an der Verdeedegung.
 **ANNA:** Fir e Grënner mat enger super Iddi, awer wéineg Erfarung, kann dës Ënnerstëtzung de ganzen Ënnerscheed maachen.
 **TOM:** An et gëtt och aner „Fit“-Programmer, déi bestoenden Entreprisen hëllefen, sech ze verbesseren.
 **ANNA:** Zum Beispill, fir méi digital, oder méi nohalteg ze ginn.
@@ -60,4 +60,4 @@
 
 ---
 
-*Quellen: Luxinnovation, luxinnovation.lu — Lëtzebuerg seng national Innovatiounsagence, déi Entreprisen, Startupen a Fuerschungsorganisatiounen ënnerstëtzt, fir ze wuessen, z'innovéieren a konkurrenzfäeg ze bleiwen; zu de Programmer gehéieren de Startup-Beschleunegungsprogramm Fit 4 Start an aner „Fit 4“-Leeschtungsprogrammer (wéi Fit 4 Digital a Fit 4 Sustainability), Berodung zu nationaler an europäescher Finanzéierung (inklusiv Horizon Europe), an Ënnerstëtzung fir strategesch Secteuren/Cluster, déi d'Wirtschaft an d'Fuerschung verbannen. Promotionnell Aussoe ginn Luxinnovation zougeschriwwen. Nëmmen allgemeng Informatiounen. Zoutreffend am Juni 2026.*
+*Quellen: Luxinnovation, luxinnovation.lu — Lëtzebuerg seng national Innovatiounsagence, déi Entreprisen, Startupen a Fuerschungsorganisatiounen ënnerstëtzt, fir ze wuessen, z'innovéieren a konkurrenzfäeg ze bleiwen; zu de Programmer gehéieren de Startup-Beschleunegungsprogramm Fit 4 Start an aner „Fit 4“-Leeschtungsprogrammer (wéi Fit 4 Digital a Fit 4 Sustainability), Berodung zu nationaler an europäescher Finanzéierung (inklusiv Horizon Europe), an Ënnerstëtzung fir strategesch Secteuren/Cluster, déi d'Wirtschaft an d'Fuerschung verbannen. Promotionnell Aussoe ginn Luxinnovation zougeschriwwen. Nëmmen allgemeng Informatiounen. Zoutreffend am Juni 2026. Fit 4 Start zënter 2015; déi 17. Editioun (2026) huet véier Beräicher: Digitales, Gesondheetstechnologien, Raumfaart an fir d'éischt Verdeedegung. Fit 4 Scale fir Scale-uppen huet am Februar 2026 ugefaangen. Iwwerpréift den 9. November 2026.*

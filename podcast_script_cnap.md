@@ -100,11 +100,11 @@
 
 **ANNA:** Is there a minimum? For people with small salaries?
 
-**TOM:** Yes. With a full career of forty years, the law guarantees a minimum pension. In May twenty twenty-five, that minimum was about two thousand three hundred and fifty euros gross per month. If your calculated pension is below the minimum, you receive a supplement.
+**TOM:** Yes. With a full career of forty years, the law guarantees a minimum pension. In twenty twenty-six, that minimum is a little over two thousand four hundred euros gross per month. If your calculated pension is below the minimum, you receive a supplement.
 
 **ANNA:** And a maximum?
 
-**TOM:** Yes, there is also a legal ceiling — no personal pension can go above it. And one more thing — pensions are not frozen. They follow the cost of living, with the index, and they are also adjusted to follow salaries. For example, on the first of January twenty twenty-six, pensions rose by one point five percent.
+**TOM:** Yes, there is also a legal ceiling — no personal pension can go above it. And one more thing — pensions are not frozen. They follow the cost of living, with the index, and they are also adjusted to follow salaries. For example, in twenty twenty-six, pensions rose by one point five percent in January, and by another two point five percent with the index in June.
 
 **ANNA:** So the pension keeps its value over time. And I've heard pensioners also get something extra in December?
 
@@ -202,4 +202,4 @@
 
 ---
 
-*Sources: cnap.public.lu (official CNAP website — pensions, insurance record, mission, FAQ and news pages, consulted July 2026). Figures: minimum pension for 40 years EUR 2,350.89 and minimum social wage EUR 2,703.73 as of 01.05.2025; pension adjustment +1.5% and end-of-year allowance maximum EUR 1,015.20 as of 2026; reform adopted by the Chamber of Deputies on 18 December 2025. Amounts change with the index — always check cnap.public.lu. General information only, not legal advice.*
+*Sources: cnap.public.lu (official CNAP website — pensions, insurance record, mission, FAQ and news pages, consulted July 2026). Figures: minimum pension for 40 years EUR 2,350.89 and minimum social wage EUR 2,703.73 as of 01.05.2025; pension adjustment +1.5% and end-of-year allowance maximum EUR 1,015.20 as of 2026; reform adopted by the Chamber of Deputies on 18 December 2025. Amounts change with the index — always check cnap.public.lu. General information only, not legal advice. Update: minimum pension for 40 years EUR 2,436.04 since the index tranche of 1 June 2026 (+2.5%); reform: law of 19 December 2025 (contribution rate 25.5% for 2026–2032, 8.5% each; early pension at 60 requires one more month from 1 July 2026, rising to eight more months by 2030). Fact-checked 9 November 2026.*

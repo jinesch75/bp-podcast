@@ -22,9 +22,9 @@
 **TOM:** That growth came from strong government support, and a pioneering legal framework.
 **ANNA:** Luxembourg was one of the first countries in Europe to make clear laws about activities in space.
 **TOM:** So Anna, what does the Space Agency actually do?
-**ANNA:** It develops and supports Luxembourg's space sector... helping companies, funding, and talent.
+**ANNA:** It develops and supports Luxembourg's space sector... helping companies, funding, and talent, for example through its national programme, LuxImpulse.
 **TOM:** It works to attract space businesses to set up here, and to help local ones grow.
-**ANNA:** And it connects Luxembourg to the big players, like the European Space Agency.
+**ANNA:** And it connects Luxembourg to the big players, like the European Space Agency, which Luxembourg joined in 2005.
 **TOM:** Now, you might be thinking... that's nice, but what has space got to do with my daily life?
 **ANNA:** Far more than you'd imagine! Space quietly powers things we use every single day.
 **TOM:** Think of the satellite navigation that guides your car, your bus, your delivery.
@@ -60,4 +60,4 @@
 
 ---
 
-*Sources: Luxembourg Space Agency (LSA), space-agency.public.lu — Luxembourg's growth as a space hub since entering the sector in 1985 (with the creation of SES), supported by strong government funding and a pioneering legal framework; the agency develops the national space sector, attracts and supports companies, funding and talent, and works with partners such as the European Space Agency; the national space strategy emphasises sustainability. Sector figures (growth from about 16 companies and ~600 people in 2012 to around 80 companies and ~1,650 people by 2024) are from the LSA and are dated accordingly; promotional claims are attributed to the agency. General information only. Accurate as of June 2026.*
+*Sources: Luxembourg Space Agency (LSA), space-agency.public.lu — Luxembourg's growth as a space hub since entering the sector in 1985 (with the creation of SES), supported by strong government funding and a pioneering legal framework; the agency develops the national space sector, attracts and supports companies, funding and talent, and works with partners such as the European Space Agency; the national space strategy emphasises sustainability. Sector figures (growth from about 16 companies and ~600 people in 2012 to around 80 companies and ~1,650 people by 2024) are from the LSA and are dated accordingly; promotional claims are attributed to the agency. General information only. Accurate as of June 2026. LSA under the Ministry of the Economy; ESA member since 2005; bill 8633 funds ESA programmes and the national LuxImpulse programme for 2026–2029; sector of over 80 companies and research organisations employing over 1,400 people in 2024 (Ministry of the Economy). Fact-checked 9 November 2026.*

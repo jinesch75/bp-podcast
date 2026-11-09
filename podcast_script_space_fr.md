@@ -22,9 +22,9 @@
 **TOM:** Cette croissance est née d'un fort soutien du gouvernement, et d'un cadre juridique pionnier.
 **ANNA:** Le Luxembourg a été l'un des premiers pays d'Europe à établir des lois claires sur les activités dans l'espace.
 **TOM:** Alors Anna, que fait concrètement l'Agence spatiale ?
-**ANNA:** Elle développe et soutient le secteur spatial luxembourgeois... en aidant les entreprises, le financement et les talents.
+**ANNA:** Elle développe et soutient le secteur spatial luxembourgeois... en aidant les entreprises, le financement et les talents, par exemple à travers son programme national, LuxImpulse.
 **TOM:** Elle s'efforce d'attirer des entreprises spatiales pour qu'elles s'installent ici, et d'aider celles déjà présentes à grandir.
-**ANNA:** Et elle relie le Luxembourg aux grands acteurs, comme l'Agence spatiale européenne.
+**ANNA:** Et elle relie le Luxembourg aux grands acteurs, comme l'Agence spatiale européenne, dont le Luxembourg est membre depuis 2005.
 **TOM:** Maintenant, vous vous dites peut-être... c'est bien joli, mais qu'est-ce que l'espace a à voir avec ma vie de tous les jours ?
 **ANNA:** Bien plus que vous ne l'imaginez ! L'espace alimente discrètement des choses que nous utilisons chaque jour.
 **TOM:** Pensez à la navigation par satellite qui guide votre voiture, votre bus, votre livraison.
@@ -60,4 +60,4 @@
 
 ---
 
-*Sources : Agence spatiale luxembourgeoise (LSA), space-agency.public.lu — l'essor du Luxembourg comme pôle spatial depuis son entrée dans le secteur en 1985 (avec la création de SES), soutenu par un fort financement public et un cadre juridique pionnier ; l'agence développe le secteur spatial national, attire et soutient les entreprises, le financement et les talents, et collabore avec des partenaires comme l'Agence spatiale européenne ; la stratégie spatiale nationale met l'accent sur la durabilité. Les chiffres du secteur (croissance d'environ 16 entreprises et ~600 personnes en 2012 à environ 80 entreprises et ~1 650 personnes d'ici 2024) proviennent de la LSA et sont datés en conséquence ; les affirmations promotionnelles sont attribuées à l'agence. Information générale uniquement. Exacte en date de juin 2026.*
+*Sources : Agence spatiale luxembourgeoise (LSA), space-agency.public.lu — l'essor du Luxembourg comme pôle spatial depuis son entrée dans le secteur en 1985 (avec la création de SES), soutenu par un fort financement public et un cadre juridique pionnier ; l'agence développe le secteur spatial national, attire et soutient les entreprises, le financement et les talents, et collabore avec des partenaires comme l'Agence spatiale européenne ; la stratégie spatiale nationale met l'accent sur la durabilité. Les chiffres du secteur (croissance d'environ 16 entreprises et ~600 personnes en 2012 à environ 80 entreprises et ~1 650 personnes d'ici 2024) proviennent de la LSA et sont datés en conséquence ; les affirmations promotionnelles sont attribuées à l'agence. Information générale uniquement. Exacte en date de juin 2026. LSA placée sous l'autorité du ministère de l'Économie ; membre de l'ESA depuis 2005 ; le projet de loi 8633 finance les programmes de l'ESA et le programme national LuxImpulse pour 2026-2029 ; plus de 80 entreprises et organismes de recherche employant plus de 1 400 personnes en 2024 (ministère de l'Économie). Vérifié le 9 novembre 2026.*

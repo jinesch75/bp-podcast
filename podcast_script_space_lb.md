@@ -22,9 +22,9 @@
 **TOM:** Dëse Wuesstem ass aus enger staarker Ënnerstëtzung vun der Regierung an aus engem wegweisende juristesche Kader entstanen.
 **ANNA:** Lëtzebuerg war ee vun den éischte Länner an Europa, dat kloer Gesetzer iwwer Aktivitéiten am Weltraum gemaach huet.
 **TOM:** Also Anna, wat mécht d'Raumfaartagence eigentlech?
-**ANNA:** Si entwéckelt an ënnerstëtzt de Lëtzebuerger Raumfaartsekteur... si hëlleft de Firmen, mat Finanzéierung a mat Talenter.
+**ANNA:** Si entwéckelt an ënnerstëtzt de Lëtzebuerger Raumfaartsekteur... si hëlleft de Firmen, mat Finanzéierung a mat Talenter, zum Beispill iwwer hiert nationaalt Programm LuxImpulse.
 **TOM:** Si schafft drun, Raumfaartfirmen unzezéien, datt si sech hei néierloossen, an deenen hei ze hëllefen ze wuessen.
-**ANNA:** A si verbënnt Lëtzebuerg mat de grousse Spiller, wéi der Europäescher Weltraumorganisatioun.
+**ANNA:** A si verbënnt Lëtzebuerg mat de grousse Spiller, wéi der Europäescher Weltraumorganisatioun, där Lëtzebuerg 2005 bäigetrueden ass.
 **TOM:** Elo denkt Dir vläicht... dat ass jo schéin, mä wat huet de Weltraum mat mengem Alldag ze dinn?
 **ANNA:** Vill méi, wéi Dir Iech virstellt! De Weltraum dreift ganz onopfälleg Saachen un, déi mir all Dag benotzen.
 **TOM:** Denkt un d'Satellittennavigatioun, déi Är Auto, Äre Bus, Är Liwwerung féiert.
@@ -60,4 +60,4 @@
 
 ---
 
-*Quellen: Lëtzebuerger Raumfaartagence (LSA), space-agency.public.lu — Lëtzebuergs Opstig zum Raumfaartstanduert zënter dem Aklamm an de Sekteur am Joer 1985 (mat der Grënnung vun SES), gedroe vun enger staarker staatlecher Finanzéierung an engem wegweisende juristesche Kader; d'Agence entwéckelt den nationale Raumfaartsekteur, zitt Firmen, Finanzéierung an Talenter un an ënnerstëtzt se a schafft mat Partner wéi der Europäescher Weltraumorganisatioun zesummen; déi national Raumfaartstrategie ënnersträicht d'Nohaltegkeet. D'Sektorzuelen (Wuesstem vun ongeféier 16 Firmen an ~600 Persounen am Joer 2012 op ronn 80 Firmen an ~1.650 Persoune bis 2024) kommen vun der LSA a sinn deementspriechend datéiert; werblech Aussoe ginn der Agence zougeschriwwen. Nëmmen allgemeng Informatioun. Stand: Juni 2026.*
+*Quellen: Lëtzebuerger Raumfaartagence (LSA), space-agency.public.lu — Lëtzebuergs Opstig zum Raumfaartstanduert zënter dem Aklamm an de Sekteur am Joer 1985 (mat der Grënnung vun SES), gedroe vun enger staarker staatlecher Finanzéierung an engem wegweisende juristesche Kader; d'Agence entwéckelt den nationale Raumfaartsekteur, zitt Firmen, Finanzéierung an Talenter un an ënnerstëtzt se a schafft mat Partner wéi der Europäescher Weltraumorganisatioun zesummen; déi national Raumfaartstrategie ënnersträicht d'Nohaltegkeet. D'Sektorzuelen (Wuesstem vun ongeféier 16 Firmen an ~600 Persounen am Joer 2012 op ronn 80 Firmen an ~1.650 Persoune bis 2024) kommen vun der LSA a sinn deementspriechend datéiert; werblech Aussoe ginn der Agence zougeschriwwen. Nëmmen allgemeng Informatioun. Stand: Juni 2026. LSA ënnert dem Wirtschaftsministère; ESA-Member zënter 2005; de Gesetzesprojet 8633 finanzéiert ESA-Programmer an dat nationaalt Programm LuxImpulse fir 2026–2029; iwwer 80 Firmen a Fuerschungsorganisatiounen mat iwwer 1.400 Beschäftegten am Joer 2024 (Wirtschaftsministère). Iwwerpréift den 9. November 2026.*

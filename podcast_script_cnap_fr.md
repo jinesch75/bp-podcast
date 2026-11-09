@@ -100,11 +100,11 @@
 
 **ANNA :** Est-ce qu'il y a un minimum ? Pour les personnes avec de petits salaires ?
 
-**TOM :** Oui. Avec une carrière complète de quarante ans, la loi garantit une pension minimum. En mai deux mille vingt-cinq, ce minimum était d'environ deux mille trois cent cinquante euros brut par mois. Si votre pension calculée est en dessous du minimum, vous recevez un complément.
+**TOM :** Oui. Avec une carrière complète de quarante ans, la loi garantit une pension minimum. En deux mille vingt-six, ce minimum est d'un peu plus de deux mille quatre cents euros brut par mois. Si votre pension calculée est en dessous du minimum, vous recevez un complément.
 
 **ANNA :** Et un maximum ?
 
-**TOM :** Oui, il y a aussi un plafond légal — aucune pension personnelle ne peut aller au-dessus. Et encore une chose — les pensions ne sont pas gelées. Elles suivent le coût de la vie, avec l'index, et elles sont aussi ajustées pour suivre les salaires. Par exemple, le premier janvier deux mille vingt-six, les pensions ont augmenté de un virgule cinq pour cent.
+**TOM :** Oui, il y a aussi un plafond légal — aucune pension personnelle ne peut aller au-dessus. Et encore une chose — les pensions ne sont pas gelées. Elles suivent le coût de la vie, avec l'index, et elles sont aussi ajustées pour suivre les salaires. Par exemple, en deux mille vingt-six, les pensions ont augmenté de un virgule cinq pour cent en janvier, puis encore de deux virgule cinq pour cent avec l'index en juin.
 
 **ANNA :** Donc la pension garde sa valeur dans le temps. Et j'ai entendu que les pensionnés reçoivent aussi quelque chose en plus en décembre ?
 
@@ -202,4 +202,4 @@
 
 ---
 
-*Sources : cnap.public.lu (site officiel de la CNAP — pages pensions, carrière d'assurance, mission, FAQ et actualités, consultées en juillet 2026). Chiffres : pension minimum pour 40 ans 2 350,89 EUR et salaire social minimum 2 703,73 EUR au 01.05.2025 ; ajustement des pensions +1,5 % et allocation de fin d'année maximum 1 015,20 EUR en 2026 ; réforme adoptée par la Chambre des députés le 18 décembre 2025. Les montants changent avec l'index — vérifiez toujours cnap.public.lu. Informations générales uniquement, pas un conseil juridique.*
+*Sources : cnap.public.lu (site officiel de la CNAP — pages pensions, carrière d'assurance, mission, FAQ et actualités, consultées en juillet 2026). Chiffres : pension minimum pour 40 ans 2 350,89 EUR et salaire social minimum 2 703,73 EUR au 01.05.2025 ; ajustement des pensions +1,5 % et allocation de fin d'année maximum 1 015,20 EUR en 2026 ; réforme adoptée par la Chambre des députés le 18 décembre 2025. Les montants changent avec l'index — vérifiez toujours cnap.public.lu. Informations générales uniquement, pas un conseil juridique. Mise à jour : pension minimum pour 40 ans 2 436,04 EUR depuis la tranche indiciaire du 1er juin 2026 (+2,5 %) ; réforme : loi du 19 décembre 2025 (taux de cotisation de 25,5 % pour 2026-2032, 8,5 % chacun ; pension anticipée à 60 ans : un mois de plus à partir du 1er juillet 2026, jusqu'à huit mois de plus d'ici 2030). Vérifié le 9 novembre 2026.*

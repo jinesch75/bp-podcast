@@ -175,7 +175,7 @@ Episodes 1–13 were checked against the official websites; Jacques approved all
 - `python3 build/el_run_batch.py <key,key,...> en,fr,de [--budget 165]` generates + assembles many episodes in one go (parallel requests, `EL_CONCURRENCY`, default 6); it stops before the time budget and resumes where it left off (state in `/tmp/el_batch_state.json`). `tts_elevenlabs.py --estimate` prints the credits a run needs without generating.
 - `node build/replace_audio_elevenlabs.js <key,key> en,fr,de` puts a re-recording on the site when the SCRIPT CHANGED: it checks the recording matches the current `.md` scripts, copies the mp3s, replaces `segments`/`segments_fr`/`segments_de` (text + timings) and durations, and rebuilds `segments_lb` from the LB script on the new English audio. (`update_audio_elevenlabs.js` is only for unchanged text.)
 - ElevenLabs API key "Biergerpakt podcast" has its own credit limit (100,000). When it is used up, the API answers `quota_exceeded`; raise the key's limit in ElevenLabs (Developers → API keys) and re-run the batch.
-- `status: "in_progress"` on an episode shows an "In progress" badge on its card and a notice on its page (EN/FR/DE/LB strings `status_in_progress`, `in_progress_note` in `app.js`). Set/clear with `node build/set_status.js in_progress|final <from>-<to> | key,key`. Re-recorded with ElevenLabs (EN/FR/DE, final): episodes 1–13 (30 Sept 2026). Episodes 14–36 re-recorded with ElevenLabs on 9 Nov 2026 (final). In progress: 37–41 (voices to be done later).
+- `status: "in_progress"` on an episode shows an "In progress" badge on its card and a notice on its page (EN/FR/DE/LB strings `status_in_progress`, `in_progress_note` in `app.js`). Set/clear with `node build/set_status.js in_progress|final <from>-<to> | key,key`. Re-recorded with ElevenLabs (EN/FR/DE, final): episodes 1–13 (30 Sept 2026). Episodes 14–41 re-recorded with ElevenLabs on 9 Nov 2026 (final). All 41 episodes now have ElevenLabs EN/FR/DE audio. (voices to be done later).
 
 ## Audio quality pass (30 Sept 2026) — applies to every ElevenLabs recording
 
@@ -286,3 +286,15 @@ Jacques: "next 5". `build/apply_factcheck_eps32-36_2026_11.py`; quiz: GOVCERT Q2
 - 34 Culture portal: KEP 2018–2028; national action plan "Access to culture" (April 2026, to 2030); Kulturpass. EN 5:27, FR 5:24, DE 6:09.
 - 35 Info-Zenter Demenz: more than 100 services; awareness campaigns + national prevention programme; in person in Luxembourg City and sometimes elsewhere. EN 5:29, FR 5:22, DE 6:15.
 - 36 Social and solidarity economy: SIS since 2016, approved by the Ministry of Labour; portal + free Social Business Incubator. EN 5:21, FR 5:20, DE 6:02.
+
+## Fact-check episodes 37–41 (9 Nov 2026) + ElevenLabs recordings (partly)
+
+Jacques: "do the rest". `build/apply_factcheck_eps37-41_2026_11.py`; quiz: LLL Q4 explanation (language leave = Luxembourgish). Batch `EL_STATE=/tmp/el_state_b9.json python3 build/el_run_batch.py luxinnovation,logement,space,lll,cnap en,fr,de`.
+- 37 Luxinnovation: Fit 4 Start since 2015; digital, health tech, space, and defence (new in edition 17). EN 5:22, FR 5:17, DE 6:05. Final.
+- 38 Housing portal: most eligible households don't claim the rent subsidy; online appointments at the Guichet unique via MyGuichet; national register of affordable housing (RENLA) since 2026. EN 5:05, FR 5:09, DE 5:57. Final.
+- 39 Space Agency: LuxImpulse national programme; ESA member since 2005. EN 5:28, FR 5:30, DE 6:14. Final.
+- 40 Lifelong learning: catalogue "more than ten thousand courses, more than 300 approved providers"; individual training leave up to 80 days per career; language leave is for Luxembourgish only (was "to learn a language"). EN 9:39, FR 10:04, DE 11:14. Final.
+- 41 CNAP: minimum pension "a little over €2,400 in 2026" (was May 2025 figure); 2026 increases +1.5% (Jan) and +2.5% index (June). EN 15:21, FR 15:11, DE 17:27. Final.
+- The API key "Biergerpakt podcast" hit its 300,000-credit limit during LLL FR. Remaining ≈ 50,000 credits (LLL FR/DE, CNAP EN/FR/DE). After raising the limit: re-run the same batch command (state b9 keeps the done parts; if /tmp was wiped, cached sentences in build/el_cache are reused at no cost), then `replace_audio_elevenlabs.js lll,cnap en,fr,de`, `set_status.js final lll,cnap`, `make_review.js`.
+- Fix: `die()` in `build/tts_elevenlabs.py` now uses `os._exit(1)`. Before, a quota error inside a worker thread only ended that thread, the run printed ALL SEGMENTS DONE with sentences missing and the batch marked LLL FR as done (the broken file stayed in /tmp, never went live).
+- Jacques raised the key's limit the same evening; LLL FR/DE and CNAP EN/FR/DE recorded with the same batch command, put live, status final (batch total ≈ 75,000 credits).

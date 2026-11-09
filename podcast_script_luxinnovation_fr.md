@@ -23,7 +23,7 @@
 **ANNA:** Ce lien est puissant... il transforme la recherche ingénieuse en produits, services et emplois bien réels.
 **TOM:** Parlons de l'un de ses programmes les plus connus, destiné aux nouvelles entreprises.
 **ANNA:** C'est un programme d'accélération de startups, parfois appelé Fit 4 Start.
-**TOM:** Il sélectionne de jeunes startups prometteuses et leur offre du coaching, du soutien et un financement de départ pour grandir.
+**TOM:** Depuis 2015, il sélectionne de jeunes startups prometteuses et leur offre du coaching, du soutien et un financement de départ pour grandir... dans le numérique, les technologies de la santé, l'espace, et désormais aussi la défense.
 **ANNA:** Pour un fondateur avec une excellente idée mais peu d'expérience, ce soutien peut faire toute la différence.
 **TOM:** Et il existe d'autres programmes « Fit » aussi, qui aident les entreprises existantes à s'améliorer.
 **ANNA:** Par exemple, pour devenir plus numériques, ou plus durables.
@@ -60,4 +60,4 @@
 
 ---
 
-*Sources : Luxinnovation, luxinnovation.lu — l'agence nationale de l'innovation du Luxembourg, qui soutient les entreprises, les startups et les organismes de recherche dans leur croissance, leur innovation et leur compétitivité ; ses programmes incluent le programme d'accélération de startups Fit 4 Start et d'autres programmes de performance « Fit 4 » (comme Fit 4 Digital et Fit 4 Sustainability), un accompagnement sur les financements nationaux et européens (y compris Horizon Europe), et un soutien aux secteurs/clusters stratégiques qui relient les entreprises et la recherche. Les affirmations promotionnelles sont attribuées à Luxinnovation. Informations générales uniquement. Exactes en date de juin 2026.*
+*Sources : Luxinnovation, luxinnovation.lu — l'agence nationale de l'innovation du Luxembourg, qui soutient les entreprises, les startups et les organismes de recherche dans leur croissance, leur innovation et leur compétitivité ; ses programmes incluent le programme d'accélération de startups Fit 4 Start et d'autres programmes de performance « Fit 4 » (comme Fit 4 Digital et Fit 4 Sustainability), un accompagnement sur les financements nationaux et européens (y compris Horizon Europe), et un soutien aux secteurs/clusters stratégiques qui relient les entreprises et la recherche. Les affirmations promotionnelles sont attribuées à Luxinnovation. Informations générales uniquement. Exactes en date de juin 2026. Fit 4 Start lancé en 2015 ; la 17e édition (2026) compte quatre volets : numérique, technologies de la santé, espace et, pour la première fois, défense. Fit 4 Scale pour les scale-ups a démarré en février 2026. Vérifié le 9 novembre 2026.*

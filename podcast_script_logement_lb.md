@@ -23,7 +23,7 @@
 **ANNA:** En erkläert de Locatiounskontrakt, de Bail, esou datt Dir wësst, wat Dir ënnerschreift.
 **TOM:** A virun allem erkläert en déi finanziell Hëllef, déi de Locatairen zur Verfügung steet.
 **ANNA:** Zum Beispill gëtt et e Loyerszuschoss fir Stéit mat méi nidderegen Akommes, fir bei de Käschte vum Lounen ze hëllefen.
-**TOM:** Vill Leit, déi en Usproch hätten, wëssen net emol, datt en existéiert. Et lount sech also, dat ze kucken.
+**TOM:** Tatsächlech froen déi meescht Haushalter, déi en kéinte kréien, en ni un. Et lount sech also wierklech, dat ze kucken.
 **ANNA:** Et gëtt och déi sozial Locatiounsverwaltung, déi hëlleft, méi bezuelbar Wunnenge op de Maart ze bréngen.
 **TOM:** Schwätze mir elo iwwer d'Eegentümer, an iwwer d'Leit, déi dovun dreemen ze kafen.
 **ANNA:** Eng Wunneng ze kafen ass e risege Schrëtt, an de Staat bitt verschidde Forme vun Ënnerstëtzung un.
@@ -35,11 +35,11 @@
 **ANNA:** Dat hänkt mat der Klima-Agence zesummen, aus enger anerer Episod... si beréit, an d'Wunnengshëllefen hëllefe beim Bezuelen.
 **TOM:** Esou passen d'Stécker zesummen... Berodung op enger Säit, finanziell Hëllef op der anerer.
 **ANNA:** Et gëtt en ganz prakteschen Detail, deen een sollt kennen... eng zentral Ulafstell fir Wunnengshëllefen.
-**TOM:** Eng zentral Ulafstell, wou Dir Iech iwwer déi verschidde Wunnengshëllefen informéiere kënnt, a se ufroe kënnt.
+**TOM:** Eng zentral Ulafstell, wou Dir Iech iwwer déi verschidde Wunnengshëllefen informéiere kënnt, a se ufroe kënnt. Dir kënnt souguer online e Rendez-vous huelen, iwwer MyGuichet.
 **ANNA:** Esou musst Dir net tëscht ville Büroe lafen. Et gëtt eng eenzeg Dier, un déi ee klappe muss.
 **TOM:** Schwätze mir och iwwer dat grousst Ganzt, well d'Wunnen ass eng national Prioritéit.
 **ANNA:** De Portal erkläert d'Politik vum bezuelbare Wunnraum... méi Wunnenge bauen, déi sech normal Leit wierklech leeschte kënnen.
-**TOM:** An d'Partnerschaft mat de Gemengen, esou datt Stied an Dierfer hëllefen, lokal bezuelbare Wunnraum ze schafen.
+**TOM:** An d'Partnerschaft mat de Gemengen, esou datt Stied an Dierfer hëllefen, lokal bezuelbare Wunnraum ze schafen. Zënter 2026 gëtt et och een eenzegen nationale Register, iwwer deen Dir Iech fir eng bezuelbar Wunneng mellt, online iwwer MyGuichet.
 **ANNA:** Et ass e laange Wee, mä d'Richtung ass kloer... méi, a méi bezuelbar, Wunnraum.
 **TOM:** Maache mir et ganz konkret. Wat soll een mat all deem maachen?
 **ANNA:** Als éischt, wann Dir lount an Äert Akommes bescheiden ass, kuckt, ob Dir Usproch op de Loyerszuschoss hutt.
@@ -58,4 +58,4 @@
 
 ---
 
-*Quellen: Logement.lu, logement.public.lu, vum Ministère du Logement et de l'Aménagement du territoire — de Wunnengsportal, organiséiert fir Locatairen, Eegentümer a Gemengen/Fachleit: eng Wunneng fannen an d'Rechter vun de Locatairen, Lounhëllefen (dorënner de Loyerszuschoss / subvention de loyer), de Bail, déi sozial Locatiounsverwaltung; Ënnerstëtzung beim Kaf, beim Bau an der Renovéierung (dorënner d'energieeffizient Renovéierung) an d'Reduktioun vun den Aschreiwungskäschte fir en Haaptwunnsëtz; déi zentral Ulafstell fir Wunnengshëllefen (Guichet unique des aides au logement); an d'Politik vum bezuelbare Wunnraum (LOGABO, Pacte Logement) mat de Gemengen. Den Observatoire vun der Wunneng (Observatoire de l'Habitat) gëtt an enger separater Episod behandelt. Nëmmen allgemeng Informatiounen — d'Konditioune fir Usproch an d'Beträg änneren sech; bestätegt déi aktuell Detailer beim Ministère. Korrekt am Juni 2026.*
+*Quellen: Logement.lu, logement.public.lu, vum Ministère du Logement et de l'Aménagement du territoire — de Wunnengsportal, organiséiert fir Locatairen, Eegentümer a Gemengen/Fachleit: eng Wunneng fannen an d'Rechter vun de Locatairen, Lounhëllefen (dorënner de Loyerszuschoss / subvention de loyer), de Bail, déi sozial Locatiounsverwaltung; Ënnerstëtzung beim Kaf, beim Bau an der Renovéierung (dorënner d'energieeffizient Renovéierung) an d'Reduktioun vun den Aschreiwungskäschte fir en Haaptwunnsëtz; déi zentral Ulafstell fir Wunnengshëllefen (Guichet unique des aides au logement); an d'Politik vum bezuelbare Wunnraum (LOGABO, Pacte Logement) mat de Gemengen. Den Observatoire vun der Wunneng (Observatoire de l'Habitat) gëtt an enger separater Episod behandelt. Nëmmen allgemeng Informatiounen — d'Konditioune fir Usproch an d'Beträg änneren sech; bestätegt déi aktuell Detailer beim Ministère. Korrekt am Juni 2026. Nationale Register fir bezuelbare Wunnraum (RENLA) zënter dem 1. Januar 2026, iwwer MyGuichet; Online-Rendez-vousen um Guichet unique des aides au logement; déi meescht berechtegt Haushalter froen d'Lounsubventioun net un (Wunnengsministère, 2026); am Juli 2026 huet d'Regierung ugekënnegt, de Steierkredit „Bëllegen Akt“ op 45.000 Euro pro Persoun eropzesetzen. Iwwerpréift den 9. November 2026.*

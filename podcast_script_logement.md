@@ -23,7 +23,7 @@
 **ANNA:** It explains the rental contract, the lease, so you know what you're signing.
 **TOM:** And crucially, it explains the financial help available to renters.
 **ANNA:** For example, there's a rent subsidy for households on lower incomes, to help with the cost of renting.
-**TOM:** Many people who'd qualify don't even know it exists. So this is worth checking.
+**TOM:** In fact, most households who could get it never apply. So this is really worth checking.
 **ANNA:** There's also social rental management, which helps bring more affordable homes onto the market.
 **TOM:** Now let's talk about owners, and people who dream of buying.
 **ANNA:** Buying a home is a huge step, and the State offers several forms of support.
@@ -35,11 +35,11 @@
 **ANNA:** That connects to Klima-Agence, from another episode... they advise, and the housing aids help pay.
 **TOM:** So the pieces fit together... advice on one side, financial help on the other.
 **ANNA:** There's a very practical detail worth knowing... a single counter for housing aids.
-**TOM:** A one-stop office where you can ask about, and apply for, the different housing supports.
+**TOM:** A one-stop office where you can ask about, and apply for, the different housing supports. You can even book an appointment online, through MyGuichet.
 **ANNA:** So you don't have to run between many offices. There's one door to knock on.
 **TOM:** Let's talk about the bigger picture, too, because housing is a national priority.
 **ANNA:** The portal explains the policy on affordable housing... building more homes that ordinary people can actually afford.
-**TOM:** And the partnership with communes, so that towns and villages help create affordable homes locally.
+**TOM:** And the partnership with communes, so that towns and villages help create affordable homes locally. Since 2026, there's also one national register where you can apply for an affordable home, online through MyGuichet.
 **ANNA:** It's a long road, but the direction is clear... more, and more affordable, housing.
 **TOM:** Let's make it really practical. What should someone do with all this?
 **ANNA:** First, if you rent and your income is modest, check whether you qualify for the rent subsidy.
@@ -58,4 +58,4 @@
 
 ---
 
-*Sources: Logement.lu, logement.public.lu, of the Ministère du Logement et de l'Aménagement du territoire — the housing portal organised for tenants, owners and communes/professionals: finding a home and tenants' rights, rental aids (including the rent subsidy / subvention de loyer), the lease, social rental management; support for buying, building and renovating (including energy-efficient renovation) and the reduced registration costs for a main residence; the single counter for housing aids (Guichet unique des aides au logement); and the affordable-housing policy (LOGABO, Pacte Logement) with the communes. The housing observatory (Observatoire de l'Habitat) is covered in a separate episode. General information only — eligibility and amounts change; confirm current details with the Ministry. Accurate as of June 2026.*
+*Sources: Logement.lu, logement.public.lu, of the Ministère du Logement et de l'Aménagement du territoire — the housing portal organised for tenants, owners and communes/professionals: finding a home and tenants' rights, rental aids (including the rent subsidy / subvention de loyer), the lease, social rental management; support for buying, building and renovating (including energy-efficient renovation) and the reduced registration costs for a main residence; the single counter for housing aids (Guichet unique des aides au logement); and the affordable-housing policy (LOGABO, Pacte Logement) with the communes. The housing observatory (Observatoire de l'Habitat) is covered in a separate episode. General information only — eligibility and amounts change; confirm current details with the Ministry. Accurate as of June 2026. National register of affordable housing (RENLA) since 1 January 2026, via MyGuichet; online appointments with the Guichet unique des aides au logement; most eligible households do not claim the rent subsidy (Ministry of Housing, 2026); the government announced in July 2026 that the Bëllegen Akt tax credit would rise to EUR 45,000 per person. Fact-checked 9 November 2026.*

@@ -19,7 +19,7 @@
 **ANNA:** Also Tom, was genau ist dieses Portal?
 **TOM:** Es ist das nationale Portal für Weiterbildung, betrieben vom nationalen Institut für die Entwicklung der beruflichen Weiterbildung, dem INFPC.
 **ANNA:** Und sein Herzstück ist ein riesiger Katalog von Weiterbildungskursen.
-**TOM:** Wir sprechen von mehr als dreizehntausend Kursen, von Hunderten zugelassenen Bildungsanbietern.
+**TOM:** Wir sprechen von mehr als zehntausend Kursen, von mehr als dreihundert zugelassenen Bildungsanbietern.
 **ANNA:** Alles an einem Ort gesammelt, sodass Sie nicht im ganzen Internet suchen müssen.
 **TOM:** Und weil die Anbieter zugelassen sind, wissen Sie, dass das Angebot seriös und zuverlässig ist.
 **ANNA:** Sie können auch auf clevere Weise suchen... nach Thema oder nach dem Beruf, den Sie gerne ausüben möchten.
@@ -48,8 +48,8 @@
 **TOM:** Es ist eine Art, das zu würdigen, was Menschen bereits wissen, nicht nur das, wofür sie Prüfungen abgelegt haben. Das ist kraftvoll.
 **ANNA:** Nun, Lernen kostet Zeit, und manchmal Geld. Sprechen wir also über die verfügbare Unterstützung.
 **TOM:** Für Privatpersonen gibt es besondere Arten von bezahltem Urlaub, nur um eine Weiterbildung zu besuchen.
-**ANNA:** Die wichtigste ist der individuelle Bildungsurlaub, der Ihnen bezahlte freie Tage zum Lernen ermöglicht.
-**TOM:** Es gibt auch einen speziellen Urlaub, um eine Sprache zu lernen, was in einem Land mit mehreren Sprachen wunderbar ist.
+**ANNA:** Die wichtigste ist der individuelle Bildungsurlaub, der Ihnen bezahlte freie Tage zum Lernen ermöglicht... bis zu achtzig Tage im ganzen Berufsleben.
+**TOM:** Es gibt auch einen speziellen Sprachurlaub, um Luxemburgisch zu lernen, was wunderbar ist für alle, die sich hier mehr zu Hause fühlen möchten.
 **ANNA:** So können Sie sich Zeit zum Lernen nehmen, ohne dabei Ihr gesamtes Einkommen zu verlieren.
 **TOM:** Es gibt noch mehr. Manche Weiterbildungskosten können von der Steuer abgesetzt werden.
 **ANNA:** Es gibt Unterstützung für Arbeitsuchende, die eine Weiterbildung brauchen, um wieder in Arbeit zu kommen.
@@ -106,4 +106,4 @@
 
 ---
 
-*Quellen: lifelong-learning.lu, das nationale Portal für lebenslanges Lernen, betrieben vom INFPC (Institut National pour le développement de la Formation Professionnelle Continue) — ein durchsuchbarer Katalog von Weiterbildungskursen zugelassener Anbieter (Suche nach Bereich oder Beruf); Diplome, die über die Weiterbildung zugänglich sind (einschließlich Erwachsenenausbildung, Sekundarschuldiplome, BTS und Meisterbrief); die Validierung von Erfahrungen (VAE); finanzielle Unterstützung für Privatpersonen (besondere bezahlte Urlaube wie individueller Bildungsurlaub und Sprachurlaub, steuerliche Absetzbarkeit, Unterstützung für Arbeitsuchende, Ermäßigungsgutscheine) und die Mitfinanzierung betrieblicher Weiterbildung; ein Schwerpunkt auf digitalen, grünen und sozialen Kompetenzen; Beratungs- und Umschulungsdienste (einschließlich einer Kompetenzbilanz, der Nationalen Schule für Erwachsene und Wegen der zweiten Chance); europäische Werkzeuge wie Europass; und das Weiterbildungsobservatorium. Nur allgemeine Informationen — Anspruchsvoraussetzungen und Zahlen ändern sich; bestätigen Sie die aktuellen Angaben auf dem Portal. Stand: Juni 2026.*
+*Quellen: lifelong-learning.lu, das nationale Portal für lebenslanges Lernen, betrieben vom INFPC (Institut National pour le développement de la Formation Professionnelle Continue) — ein durchsuchbarer Katalog von Weiterbildungskursen zugelassener Anbieter (Suche nach Bereich oder Beruf); Diplome, die über die Weiterbildung zugänglich sind (einschließlich Erwachsenenausbildung, Sekundarschuldiplome, BTS und Meisterbrief); die Validierung von Erfahrungen (VAE); finanzielle Unterstützung für Privatpersonen (besondere bezahlte Urlaube wie individueller Bildungsurlaub und Sprachurlaub, steuerliche Absetzbarkeit, Unterstützung für Arbeitsuchende, Ermäßigungsgutscheine) und die Mitfinanzierung betrieblicher Weiterbildung; ein Schwerpunkt auf digitalen, grünen und sozialen Kompetenzen; Beratungs- und Umschulungsdienste (einschließlich einer Kompetenzbilanz, der Nationalen Schule für Erwachsene und Wegen der zweiten Chance); europäische Werkzeuge wie Europass; und das Weiterbildungsobservatorium. Nur allgemeine Informationen — Anspruchsvoraussetzungen und Zahlen ändern sich; bestätigen Sie die aktuellen Angaben auf dem Portal. Stand: Juni 2026. Kataloggröße laut guichet.lu/lifelong-learning.lu (mehr als 300 zugelassene Anbieter, die Zahlen schwanken); individueller Bildungsurlaub: bis zu 80 Tage pro Berufsleben, max. 20 Tage in 2 Jahren; der Sprachurlaub (congé linguistique) gilt nur für das Erlernen oder Vertiefen des Luxemburgischen, bis zu 200 Stunden pro Berufsleben. Geprüft am 9. November 2026.*

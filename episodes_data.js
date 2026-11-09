@@ -90091,7 +90091,7 @@ const EPISODES = [
   "title": "Luxinnovation – Helping Businesses Innovate and Grow",
   "description": "What Luxinnovation is — Luxembourg's national innovation agency — how it helps companies, startups and research organisations innovate and grow, its programmes like the Fit 4 Start startup accelerator, its guidance on national and European funding, and how it strengthens whole strategic sectors by connecting business and research.",
   "audio": "podcast_luxinnovation.mp3",
-  "duration": 289.25,
+  "duration": 322.12,
   "topics": [
    "What Luxinnovation is",
    "Innovation for the future",
@@ -90105,298 +90105,323 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's a pleasure to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.64
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.68
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.79
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to understand the country.",
-    "t": 14.61
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today we look at how Luxembourg builds its future... through innovation.",
-    "t": 21.47
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Innovation simply means finding better ways of doing things... new products, new services, new ideas.",
-    "t": 26.29
+    "t": 31.9
    },
    {
     "speaker": "Tom",
     "text": "It's how a small country stays prosperous, and creates good jobs for the next generation.",
-    "t": 33.44
+    "t": 39.06
    },
    {
     "speaker": "Anna",
     "text": "And there's a national agency whose whole job is to help businesses innovate.",
-    "t": 39.11
+    "t": 44.09
    },
    {
     "speaker": "Anna",
     "text": "It's called Luxinnovation.",
-    "t": 43.88
+    "t": 49.2
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what is Luxinnovation?",
-    "t": 46.41
+    "t": 51.17
    },
    {
     "speaker": "Anna",
     "text": "It's Luxembourg's national innovation agency.",
-    "t": 49.56
+    "t": 53.19
    },
    {
     "speaker": "Anna",
     "text": "It has been supporting innovation here for decades.",
-    "t": 53.14
+    "t": 56.13
    },
    {
     "speaker": "Tom",
     "text": "Its mission is to give companies the means to innovate today, so they're ready for the challenges of tomorrow.",
-    "t": 56.71
+    "t": 59.27
    },
    {
     "speaker": "Anna",
     "text": "It helps companies, startups, and research organisations to grow, innovate, and stay competitive.",
-    "t": 62.99
+    "t": 65.44
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about who it actually helps, because it's broader than you might think.",
-    "t": 69.88
+    "t": 72.63
    },
    {
     "speaker": "Anna",
     "text": "It helps big established companies, and small ones, and brand-new startups with just an idea.",
-    "t": 74.81
+    "t": 76.83
    },
    {
     "speaker": "Tom",
     "text": "And it connects them with the research world, which we covered in our Research Luxembourg episode.",
-    "t": 81.18
+    "t": 82.67
    },
    {
     "speaker": "Anna",
     "text": "That connection is powerful... turning clever research into real products, services and jobs.",
-    "t": 86.87
+    "t": 88.34
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about one of its best-known programmes, for new companies.",
-    "t": 93.49
+    "t": 94.05
    },
    {
     "speaker": "Anna",
     "text": "It's a startup acceleration programme, sometimes called Fit 4 Start.",
-    "t": 98.04
+    "t": 97.88
    },
    {
     "speaker": "Tom",
-    "text": "It selects promising young startups and gives them coaching, support, and early funding to grow.",
-    "t": 102.9
+    "text": "Since 2015, it has selected promising young startups and given them coaching, support, and early funding to grow... in digital, health technologies, space, and now defence too.",
+    "t": 102.4
    },
    {
     "speaker": "Anna",
     "text": "For a founder with a great idea but little experience, that support can make all the difference.",
-    "t": 108.7
+    "t": 113.94
    },
    {
     "speaker": "Tom",
     "text": "And there are other \"Fit\" programmes too, helping existing companies improve.",
-    "t": 114.78
+    "t": 119.95
    },
    {
     "speaker": "Anna",
     "text": "For example, to become more digital, or more sustainable.",
-    "t": 119.89
+    "t": 124.38
    },
    {
     "speaker": "Tom",
     "text": "So whether a company is just starting, or has been around for years, there's help to move forward.",
-    "t": 124.4
+    "t": 127.86
    },
    {
     "speaker": "Anna",
     "text": "Funding is a big part of the picture, and it can be confusing.",
-    "t": 130.19
+    "t": 133.71
    },
    {
     "speaker": "Tom",
     "text": "There's national funding, and there are big European programmes for research and innovation.",
-    "t": 134.55
+    "t": 137.72
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation helps companies find their way through this maze, and apply for the right support.",
-    "t": 140.08
+    "t": 142.76
    },
    {
     "speaker": "Tom",
     "text": "That guidance alone can be the difference between an idea staying on paper, or coming to life.",
-    "t": 146.03
+    "t": 148.64
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation also works on whole sectors, not just single companies.",
-    "t": 151.8
+    "t": 154.15
    },
    {
     "speaker": "Tom",
     "text": "It focuses on strategic areas... like health technologies, clean technologies, digital, materials, space, and food.",
-    "t": 156.98
+    "t": 159.12
    },
    {
     "speaker": "Anna",
     "text": "It brings together companies and researchers in each area, so they can innovate together.",
-    "t": 164.91
+    "t": 166.05
    },
    {
     "speaker": "Tom",
     "text": "That teamwork helps build strong, modern industries for the country.",
-    "t": 170.37
+    "t": 171.41
    },
    {
     "speaker": "Anna",
     "text": "Let's step back and ask... why does this matter for an ordinary resident?",
-    "t": 174.94
+    "t": 175.47
    },
    {
     "speaker": "Tom",
     "text": "First, because innovation creates jobs... good, future-proof jobs for people here.",
-    "t": 179.69
+    "t": 180.2
    },
    {
     "speaker": "Anna",
     "text": "Second, because it diversifies the economy, so the country isn't reliant on just one sector.",
-    "t": 185.38
+    "t": 185.27
    },
    {
     "speaker": "Tom",
     "text": "Third, because the products of innovation improve daily life... in health, energy, transport and more.",
-    "t": 191.73
+    "t": 191.47
    },
    {
     "speaker": "Anna",
     "text": "And fourth, because a thriving, modern economy funds the public services we all rely on.",
-    "t": 198.31
+    "t": 199.4
    },
    {
     "speaker": "Tom",
     "text": "So even if you never start a company, its work touches your future.",
-    "t": 204.5
+    "t": 205.03
    },
    {
     "speaker": "Anna",
     "text": "And if you do dream of starting something, this is a door worth knocking on.",
-    "t": 209.19
+    "t": 209.46
    },
    {
     "speaker": "Tom",
     "text": "Let's make it practical.",
-    "t": 213.94
+    "t": 214.26
    },
    {
     "speaker": "Tom",
     "text": "What can people take from this?",
-    "t": 216.38
+    "t": 215.49
    },
    {
     "speaker": "Anna",
     "text": "First, if you run a company, or want to start one, Luxinnovation offers support, programmes and funding guidance.",
-    "t": 219.02
+    "t": 217.2
    },
    {
     "speaker": "Tom",
     "text": "Second, if you have an innovative idea, look into the startup acceleration programme.",
-    "t": 226.77
+    "t": 224.75
    },
    {
     "speaker": "Anna",
     "text": "Third, even as a citizen, know that this quiet work is building the jobs and industries of tomorrow.",
-    "t": 232.46
+    "t": 229.66
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it together.",
-    "t": 238.72
+    "t": 236.32
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about Luxinnovation?",
-    "t": 241.09
+    "t": 237.54
    },
    {
     "speaker": "Anna",
     "text": "First... it's Luxembourg's national innovation agency, helping companies and startups innovate and grow.",
-    "t": 244.65
+    "t": 240.41
    },
    {
     "speaker": "Tom",
     "text": "Second... it offers programmes like startup acceleration, and helps existing firms become more digital and sustainable.",
-    "t": 251.64
+    "t": 247.55
    },
    {
     "speaker": "Anna",
     "text": "Third... it guides companies to the right national and European funding.",
-    "t": 258.91
+    "t": 254.63
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it strengthens whole strategic sectors by connecting business and research.",
-    "t": 263.75
+    "t": 259.46
    },
    {
     "speaker": "Anna",
     "text": "A country's future is built by the people who dare to try new things.",
-    "t": 269.28
+    "t": 264.97
    },
    {
     "speaker": "Tom",
     "text": "And Luxinnovation is there to help them turn a bold idea into reality.",
-    "t": 273.89
+    "t": 269.12
    },
    {
     "speaker": "Anna",
-    "text": "Thank you so much for listening today.",
-    "t": 278.76
-   },
-   {
-    "speaker": "Tom",
-    "text": "Take care, stay curious, and see you in the next episode.",
-    "t": 281.71
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 286.04
+    "text": "That was our episode about Luxinnovation.",
+    "t": 273.69
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 287.72
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 276.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 285.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 303.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 310.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 312.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 317.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 318.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 320.52
    }
   ],
   "questions": [
@@ -90599,861 +90624,910 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_luxinnovation_fr.mp3",
-  "duration_fr": 313.97,
+  "duration_fr": 317.49,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "C'est un plaisir de vous avoir avec nous aujourd'hui.",
-    "t": 2.69
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.31
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 8.88
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme qui parle du vivre-ensemble au Luxembourg.",
-    "t": 12.35
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les frontaliers, à comprendre le pays.",
-    "t": 16.32
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et aujourd'hui, nous regardons comment le Luxembourg construit son avenir... grâce à l'innovation.",
-    "t": 22.89
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "L'innovation, cela veut simplement dire trouver de meilleures façons de faire les choses... de nouveaux produits, de nouveaux services, de nouvelles idées.",
-    "t": 28.67
+    "t": 28.14
    },
    {
     "speaker": "Tom",
     "text": "C'est ainsi qu'un petit pays reste prospère et crée de bons emplois pour la prochaine génération.",
-    "t": 37.38
+    "t": 35.84
    },
    {
     "speaker": "Anna",
     "text": "Et il existe une agence nationale dont le rôle entier est d'aider les entreprises à innover.",
-    "t": 42.66
+    "t": 41.27
    },
    {
     "speaker": "Anna",
     "text": "Elle s'appelle Luxinnovation.",
-    "t": 48.12
+    "t": 45.67
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qu'est-ce que Luxinnovation ?",
-    "t": 50.68
+    "t": 47.56
    },
    {
     "speaker": "Anna",
     "text": "C'est l'agence nationale de l'innovation du Luxembourg.",
-    "t": 53.74
+    "t": 49.96
    },
    {
     "speaker": "Anna",
     "text": "Elle soutient l'innovation ici depuis des décennies.",
-    "t": 57.6
+    "t": 52.61
    },
    {
     "speaker": "Tom",
     "text": "Sa mission est de donner aux entreprises les moyens d'innover aujourd'hui, pour qu'elles soient prêtes face aux défis de demain.",
-    "t": 61.24
+    "t": 55.32
    },
    {
     "speaker": "Anna",
     "text": "Elle aide les entreprises, les startups et les organismes de recherche à grandir, à innover et à rester compétitifs.",
-    "t": 67.46
+    "t": 61.96
    },
    {
     "speaker": "Tom",
     "text": "Parlons de ceux qu'elle aide réellement, car c'est plus large qu'on ne le pense.",
-    "t": 74.86
+    "t": 68.19
    },
    {
     "speaker": "Anna",
     "text": "Elle aide les grandes entreprises établies, les petites, et les toutes nouvelles startups qui n'ont qu'une idée.",
-    "t": 79.23
+    "t": 72.09
    },
    {
     "speaker": "Tom",
     "text": "Et elle les met en lien avec le monde de la recherche, que nous avons abordé dans notre épisode sur Research Luxembourg.",
-    "t": 85.58
+    "t": 76.97
    },
    {
     "speaker": "Anna",
     "text": "Ce lien est puissant... il transforme la recherche ingénieuse en produits, services et emplois bien réels.",
-    "t": 92.22
+    "t": 82.83
    },
    {
     "speaker": "Tom",
     "text": "Parlons de l'un de ses programmes les plus connus, destiné aux nouvelles entreprises.",
-    "t": 98.73
+    "t": 88.69
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme d'accélération de startups, parfois appelé Fit 4 Start.",
-    "t": 103.48
+    "t": 93.2
    },
    {
     "speaker": "Tom",
-    "text": "Il sélectionne de jeunes startups prometteuses et leur offre du coaching, du soutien et un financement de départ pour grandir.",
-    "t": 108.9
+    "text": "Depuis 2015, il sélectionne de jeunes startups prometteuses et leur offre du coaching, du soutien et un financement de départ pour grandir... dans le numérique, les technologies de la santé, l'espace, et désormais aussi la défense.",
+    "t": 97.3
    },
    {
     "speaker": "Anna",
     "text": "Pour un fondateur avec une excellente idée mais peu d'expérience, ce soutien peut faire toute la différence.",
-    "t": 115.74
+    "t": 111.15
    },
    {
     "speaker": "Tom",
     "text": "Et il existe d'autres programmes « Fit » aussi, qui aident les entreprises existantes à s'améliorer.",
-    "t": 122.05
+    "t": 116.42
    },
    {
     "speaker": "Anna",
     "text": "Par exemple, pour devenir plus numériques, ou plus durables.",
-    "t": 128.2
+    "t": 122.11
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, qu'une entreprise débute tout juste ou qu'elle existe depuis des années, il y a de l'aide pour avancer.",
-    "t": 132.82
+    "t": 125.17
    },
    {
     "speaker": "Anna",
     "text": "Le financement est une grande partie du tableau, et cela peut être déroutant.",
-    "t": 139.15
+    "t": 130.89
    },
    {
     "speaker": "Tom",
     "text": "Il y a le financement national, et il y a de grands programmes européens pour la recherche et l'innovation.",
-    "t": 144.15
+    "t": 134.6
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation aide les entreprises à se repérer dans ce labyrinthe, et à demander le bon soutien.",
-    "t": 149.96
+    "t": 140.2
    },
    {
     "speaker": "Tom",
     "text": "Cet accompagnement à lui seul peut faire la différence entre une idée qui reste sur le papier, ou qui prend vie.",
-    "t": 156.21
+    "t": 145.97
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation travaille aussi sur des secteurs entiers, pas seulement sur des entreprises isolées.",
-    "t": 162.25
+    "t": 151.85
    },
    {
     "speaker": "Tom",
     "text": "Elle se concentre sur des domaines stratégiques... comme les technologies de la santé, les technologies propres, le numérique, les matériaux, l'espace et l'alimentation.",
-    "t": 168.29
+    "t": 156.63
    },
    {
     "speaker": "Anna",
     "text": "Elle réunit les entreprises et les chercheurs dans chaque domaine, pour qu'ils puissent innover ensemble.",
-    "t": 177.75
+    "t": 166.28
    },
    {
     "speaker": "Tom",
     "text": "Ce travail d'équipe aide à bâtir des industries fortes et modernes pour le pays.",
-    "t": 183.57
+    "t": 171.02
    },
    {
     "speaker": "Anna",
     "text": "Prenons un peu de recul et demandons-nous... pourquoi est-ce important pour un résident ordinaire ?",
-    "t": 188.05
+    "t": 175.53
    },
    {
     "speaker": "Tom",
     "text": "D'abord, parce que l'innovation crée des emplois... de bons emplois, tournés vers l'avenir, pour les gens d'ici.",
-    "t": 193.34
+    "t": 180.49
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, parce qu'elle diversifie l'économie, pour que le pays ne dépende pas d'un seul secteur.",
-    "t": 200.18
+    "t": 186.51
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, parce que les produits de l'innovation améliorent la vie quotidienne... dans la santé, l'énergie, les transports et plus encore.",
-    "t": 206.35
+    "t": 191.21
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement, parce qu'une économie florissante et moderne finance les services publics dont nous dépendons tous.",
-    "t": 214.53
+    "t": 198.46
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, même si vous ne créez jamais d'entreprise, son travail touche votre avenir.",
-    "t": 221.39
+    "t": 204.11
    },
    {
     "speaker": "Anna",
     "text": "Et si vous rêvez de lancer quelque chose, voilà une porte à laquelle il vaut la peine de frapper.",
-    "t": 226.83
+    "t": 208.57
    },
    {
     "speaker": "Tom",
     "text": "Rendons cela concret.",
-    "t": 232.36
+    "t": 212.65
    },
    {
     "speaker": "Tom",
     "text": "Que peuvent retenir les gens de tout ceci ?",
-    "t": 234.6
+    "t": 214.24
    },
    {
     "speaker": "Anna",
     "text": "D'abord, si vous dirigez une entreprise, ou si vous voulez en créer une, Luxinnovation offre du soutien, des programmes et un accompagnement sur le financement.",
-    "t": 237.53
+    "t": 216.98
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, si vous avez une idée innovante, intéressez-vous au programme d'accélération de startups.",
-    "t": 247.15
+    "t": 225.02
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement, même en tant que citoyen, sachez que ce travail discret bâtit les emplois et les industries de demain.",
-    "t": 253.19
+    "t": 230.79
    },
    {
     "speaker": "Tom",
     "text": "Rassemblons tout cela.",
-    "t": 260.14
+    "t": 236.61
    },
    {
     "speaker": "Tom",
     "text": "Que faut-il retenir de Luxinnovation ?",
-    "t": 262.43
+    "t": 238.13
    },
    {
     "speaker": "Anna",
     "text": "D'abord... c'est l'agence nationale de l'innovation du Luxembourg, qui aide les entreprises et les startups à innover et à grandir.",
-    "t": 265.38
+    "t": 240.54
    },
    {
     "speaker": "Tom",
     "text": "Ensuite... elle propose des programmes comme l'accélération de startups, et aide les entreprises existantes à devenir plus numériques et plus durables.",
-    "t": 273.29
+    "t": 247.15
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... elle guide les entreprises vers le bon financement national et européen.",
-    "t": 281.08
+    "t": 254.95
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... elle renforce des secteurs stratégiques entiers en reliant les entreprises et la recherche.",
-    "t": 286.55
+    "t": 259.25
    },
    {
     "speaker": "Anna",
     "text": "L'avenir d'un pays est construit par les gens qui osent essayer des choses nouvelles.",
-    "t": 292.5
+    "t": 265.84
    },
    {
     "speaker": "Tom",
     "text": "Et Luxinnovation est là pour les aider à transformer une idée audacieuse en réalité.",
-    "t": 297.45
+    "t": 269.56
    },
    {
     "speaker": "Anna",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 302.29
-   },
-   {
-    "speaker": "Tom",
-    "text": "Prenez soin de vous, restez curieux, et à bientôt dans le prochain épisode.",
-    "t": 305.75
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 310.82
+    "text": "C'était notre épisode sur Luxinnovation.",
+    "t": 274.64
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 312.35
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 276.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 284.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 301.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 305.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 307.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 312.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 313.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 315.72
    }
   ],
   "audio_de": "podcast_luxinnovation_de.mp3",
-  "duration_de": 357.12,
+  "duration_de": 365.3,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Es ist uns eine Freude, dass Sie heute bei uns sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 7.29
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 9.35
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 12.75
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, das Land zu verstehen.",
-    "t": 17.12
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und heute schauen wir uns an, wie Luxemburg seine Zukunft aufbaut... durch Innovation.",
-    "t": 24.83
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Innovation bedeutet einfach, bessere Wege zu finden, Dinge zu tun... neue Produkte, neue Dienstleistungen, neue Ideen.",
-    "t": 30.89
+    "t": 33.02
    },
    {
     "speaker": "Tom",
     "text": "So bleibt ein kleines Land wohlhabend und schafft gute Arbeitsplätze für die nächste Generation.",
-    "t": 40.46
+    "t": 41.82
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt eine nationale Agentur, deren ganze Aufgabe es ist, Unternehmen beim Innovieren zu unterstützen.",
-    "t": 46.73
+    "t": 47.29
    },
    {
     "speaker": "Anna",
     "text": "Sie heißt Luxinnovation.",
-    "t": 54.59
+    "t": 53.69
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was ist Luxinnovation?",
-    "t": 57.32
+    "t": 56
    },
    {
     "speaker": "Anna",
     "text": "Es ist Luxemburgs nationale Innovationsagentur.",
-    "t": 60.87
+    "t": 58.22
    },
    {
     "speaker": "Anna",
     "text": "Sie unterstützt die Innovation hier seit Jahrzehnten.",
-    "t": 65.18
+    "t": 61.29
    },
    {
     "speaker": "Tom",
     "text": "Ihre Aufgabe ist es, Unternehmen die Mittel zu geben, um heute zu innovieren, damit sie für die Herausforderungen von morgen gerüstet sind.",
-    "t": 69.22
+    "t": 64.43
    },
    {
     "speaker": "Anna",
     "text": "Sie hilft Unternehmen, Start-ups und Forschungseinrichtungen dabei, zu wachsen, zu innovieren und wettbewerbsfähig zu bleiben.",
-    "t": 77.71
+    "t": 72.12
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir darüber, wem sie tatsächlich hilft, denn das ist breiter, als man denken könnte.",
-    "t": 86.35
+    "t": 79.46
    },
    {
     "speaker": "Anna",
     "text": "Sie hilft großen etablierten Unternehmen, kleinen, und brandneuen Start-ups, die nur eine Idee haben.",
-    "t": 92.76
+    "t": 84.47
    },
    {
     "speaker": "Tom",
     "text": "Und sie verbindet sie mit der Forschungswelt, die wir in unserer Folge zu Research Luxembourg behandelt haben.",
-    "t": 100.27
+    "t": 90.94
    },
    {
     "speaker": "Anna",
     "text": "Diese Verbindung ist kraftvoll... sie macht aus kluger Forschung echte Produkte, Dienstleistungen und Arbeitsplätze.",
-    "t": 106.98
+    "t": 97.12
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir über eines ihrer bekanntesten Programme, für neue Unternehmen.",
-    "t": 115.2
+    "t": 103.89
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein Beschleunigungsprogramm für Start-ups, manchmal Fit 4 Start genannt.",
-    "t": 120.19
+    "t": 108.35
    },
    {
     "speaker": "Tom",
-    "text": "Es wählt vielversprechende junge Start-ups aus und gibt ihnen Coaching, Unterstützung und eine erste Förderung, um zu wachsen.",
-    "t": 125.97
+    "text": "Seit 2015 wählt es vielversprechende junge Start-ups aus und gibt ihnen Coaching, Unterstützung und eine erste Förderung, um zu wachsen... in den Bereichen Digitales, Gesundheitstechnologien, Raumfahrt und jetzt auch Verteidigung.",
+    "t": 113.18
    },
    {
     "speaker": "Anna",
     "text": "Für einen Gründer mit einer großartigen Idee, aber wenig Erfahrung, kann diese Unterstützung den ganzen Unterschied machen.",
-    "t": 133.92
+    "t": 128.81
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt auch andere „Fit“-Programme, die bestehenden Unternehmen helfen, sich zu verbessern.",
-    "t": 142.38
+    "t": 135.72
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispiel, um digitaler oder nachhaltiger zu werden.",
-    "t": 148.6
+    "t": 141.25
    },
    {
     "speaker": "Tom",
     "text": "Ob ein Unternehmen also gerade erst anfängt oder schon seit Jahren besteht, es gibt Hilfe, um voranzukommen.",
-    "t": 153.33
+    "t": 144.57
    },
    {
     "speaker": "Anna",
     "text": "Die Förderung ist ein großer Teil des Bildes, und das kann verwirrend sein.",
-    "t": 160.53
+    "t": 150.72
    },
    {
     "speaker": "Tom",
     "text": "Es gibt nationale Förderung, und es gibt große europäische Programme für Forschung und Innovation.",
-    "t": 165.9
+    "t": 154.9
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation hilft Unternehmen, sich in diesem Labyrinth zurechtzufinden und die richtige Unterstützung zu beantragen.",
-    "t": 172.32
+    "t": 161.04
    },
    {
     "speaker": "Tom",
     "text": "Diese Begleitung allein kann den Unterschied machen, ob eine Idee auf dem Papier bleibt oder zum Leben erwacht.",
-    "t": 180.43
+    "t": 167.75
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation arbeitet auch an ganzen Branchen, nicht nur an einzelnen Unternehmen.",
-    "t": 187.22
+    "t": 174.07
    },
    {
     "speaker": "Tom",
     "text": "Sie konzentriert sich auf strategische Bereiche... wie Gesundheitstechnologien, saubere Technologien, Digitales, Materialien, Raumfahrt und Lebensmittel.",
-    "t": 193.24
+    "t": 179.07
    },
    {
     "speaker": "Anna",
     "text": "Sie bringt in jedem Bereich Unternehmen und Forscher zusammen, damit sie gemeinsam innovieren können.",
-    "t": 203.33
+    "t": 189.8
    },
    {
     "speaker": "Tom",
     "text": "Diese Teamarbeit hilft, starke, moderne Industrien für das Land aufzubauen.",
-    "t": 210.17
+    "t": 195.09
    },
    {
     "speaker": "Anna",
     "text": "Treten wir einen Schritt zurück und fragen wir uns... warum ist das für einen gewöhnlichen Einwohner wichtig?",
-    "t": 215.65
+    "t": 199.95
    },
    {
     "speaker": "Tom",
     "text": "Erstens, weil Innovation Arbeitsplätze schafft... gute, zukunftssichere Arbeitsplätze für die Menschen hier.",
-    "t": 222.38
+    "t": 206.1
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, weil sie die Wirtschaft diversifiziert, damit das Land nicht von einer einzigen Branche abhängig ist.",
-    "t": 229.36
+    "t": 213.18
    },
    {
     "speaker": "Tom",
     "text": "Drittens, weil die Produkte der Innovation das tägliche Leben verbessern... in Gesundheit, Energie, Verkehr und mehr.",
-    "t": 236.93
+    "t": 219.46
    },
    {
     "speaker": "Anna",
     "text": "Und viertens, weil eine blühende, moderne Wirtschaft die öffentlichen Dienste finanziert, auf die wir alle angewiesen sind.",
-    "t": 244.71
+    "t": 227.78
    },
    {
     "speaker": "Tom",
     "text": "Selbst wenn Sie also nie ein Unternehmen gründen, berührt ihre Arbeit Ihre Zukunft.",
-    "t": 253.06
+    "t": 234.89
    },
    {
     "speaker": "Anna",
     "text": "Und wenn Sie davon träumen, etwas zu starten, ist dies eine Tür, an die zu klopfen sich lohnt.",
-    "t": 258.76
+    "t": 239.85
    },
    {
     "speaker": "Tom",
     "text": "Machen wir es praktisch.",
-    "t": 265.58
+    "t": 245.24
    },
    {
     "speaker": "Tom",
     "text": "Was können die Menschen daraus mitnehmen?",
-    "t": 267.94
+    "t": 246.62
    },
    {
     "speaker": "Anna",
     "text": "Erstens, wenn Sie ein Unternehmen führen oder eines gründen möchten, bietet Luxinnovation Unterstützung, Programme und Beratung zur Förderung.",
-    "t": 271.06
+    "t": 248.87
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, wenn Sie eine innovative Idee haben, schauen Sie sich das Beschleunigungsprogramm für Start-ups an.",
-    "t": 280.95
+    "t": 258.57
    },
    {
     "speaker": "Anna",
     "text": "Drittens, wissen Sie auch als Bürger, dass diese stille Arbeit die Arbeitsplätze und Industrien von morgen aufbaut.",
-    "t": 287.88
+    "t": 265.04
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir es zusammen.",
-    "t": 296.01
+    "t": 272.14
    },
    {
     "speaker": "Tom",
     "text": "Was sollten sich die Menschen über Luxinnovation merken?",
-    "t": 298.43
+    "t": 273.55
    },
    {
     "speaker": "Anna",
     "text": "Erstens... es ist Luxemburgs nationale Innovationsagentur, die Unternehmen und Start-ups hilft, zu innovieren und zu wachsen.",
-    "t": 302.45
+    "t": 276.69
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... sie bietet Programme wie die Start-up-Beschleunigung an und hilft bestehenden Firmen, digitaler und nachhaltiger zu werden.",
-    "t": 311.55
+    "t": 284.92
    },
    {
     "speaker": "Anna",
     "text": "Drittens... sie führt Unternehmen zur richtigen nationalen und europäischen Förderung.",
-    "t": 319.97
+    "t": 293.37
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... sie stärkt ganze strategische Branchen, indem sie Wirtschaft und Forschung verbindet.",
-    "t": 326.04
+    "t": 298.47
    },
    {
     "speaker": "Anna",
     "text": "Die Zukunft eines Landes wird von den Menschen aufgebaut, die es wagen, Neues zu versuchen.",
-    "t": 332.41
+    "t": 305.28
    },
    {
     "speaker": "Tom",
     "text": "Und Luxinnovation ist da, um ihnen zu helfen, eine kühne Idee Wirklichkeit werden zu lassen.",
-    "t": 338.87
+    "t": 310.53
    },
    {
     "speaker": "Anna",
-    "text": "Vielen Dank, dass Sie heute zugehört haben.",
-    "t": 345.27
-   },
-   {
-    "speaker": "Tom",
-    "text": "Passen Sie auf sich auf, bleiben Sie neugierig, und bis zur nächsten Folge.",
-    "t": 348.91
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 354.06
+    "text": "Das war unsere Folge über Luxinnovation.",
+    "t": 316.23
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 355.64
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 319.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 328.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 346.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 352.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 354.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 359.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 360.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 363.77
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm zréck! Et ass eis e Plëséier, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.64
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Frontalieren, hëllefen, d'Land ze verstoen.",
-    "t": 7.68
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An haut kucke mir, wéi Lëtzebuerg seng Zukunft opbaut... duerch Innovatioun.",
-    "t": 21.47
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Innovatioun heescht einfach, besser Weeër ze fannen, fir d'Saachen ze maachen... nei Produkter, nei Servicer, nei Iddien.",
-    "t": 26.29
+    "t": 31.9
    },
    {
     "speaker": "Tom",
     "text": "Sou bleift e klengt Land wuelstänneg a schaaft gutt Aarbechtsplazen fir déi nächst Generatioun.",
-    "t": 33.44
+    "t": 39.06
    },
    {
     "speaker": "Anna",
     "text": "An et gëtt eng national Agence, deenen hir ganz Aufgab et ass, den Entreprisen ze hëllefen z'innovéieren. Si heescht Luxinnovation.",
-    "t": 39.11
+    "t": 44.09
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat ass Luxinnovation?",
-    "t": 46.41
+    "t": 51.17
    },
    {
     "speaker": "Anna",
     "text": "Et ass Lëtzebuerg seng national Innovatiounsagence. Si ënnerstëtzt d'Innovatioun hei zënter Joerzéngten.",
-    "t": 49.56
+    "t": 53.19
    },
    {
     "speaker": "Tom",
     "text": "Hir Missioun ass et, den Entreprisen d'Mëttelen ze ginn, fir haut z'innovéieren, sou datt si fir d'Erausfuerderunge vu muer bereet sinn.",
-    "t": 56.71
+    "t": 59.27
    },
    {
     "speaker": "Anna",
     "text": "Si hëlleft den Entreprisen, de Startupen an de Fuerschungsorganisatiounen, ze wuessen, z'innovéieren a konkurrenzfäeg ze bleiwen.",
-    "t": 62.99
+    "t": 65.44
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer doriwwer schwätzen, wiem si tatsächlech hëlleft, well dat ass méi breet, wéi Dir vläicht denkt.",
-    "t": 69.88
+    "t": 72.63
    },
    {
     "speaker": "Anna",
     "text": "Si hëlleft groussen etabléierten Entreprisen, klengen, an ganz neie Startupen, déi just eng Iddi hunn.",
-    "t": 74.81
+    "t": 76.83
    },
    {
     "speaker": "Tom",
     "text": "A si verbënnt si mat der Fuerschungswelt, déi mir an eiser Episod iwwer Research Luxembourg behandelt hunn.",
-    "t": 81.18
+    "t": 82.67
    },
    {
     "speaker": "Anna",
     "text": "Dës Verbindung ass mächteg... si mécht aus kluger Fuerschung richteg Produkter, Servicer an Aarbechtsplazen.",
-    "t": 86.87
+    "t": 88.34
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer iwwer ee vu senge bekanntste Programmer schwätzen, fir nei Entreprisen.",
-    "t": 93.49
+    "t": 94.05
    },
    {
     "speaker": "Anna",
     "text": "Et ass e Beschleunegungsprogramm fir Startupen, heiansdo Fit 4 Start genannt.",
-    "t": 98.04
+    "t": 97.88
    },
    {
     "speaker": "Tom",
-    "text": "Et wielt villverspriechend jonk Startupen aus a gëtt hinne Coaching, Ënnerstëtzung an eng éischt Finanzéierung, fir ze wuessen.",
-    "t": 102.9
+    "text": "Zënter 2015 wielt et villverspriechend jonk Startupen aus a gëtt hinnen Coaching, Ënnerstëtzung an eng éischt Finanzéierung, fir ze wuessen... am Digitalen, an de Gesondheetstechnologien, an der Raumfaart, an elo och an der Verdeedegung.",
+    "t": 102.4
    },
    {
     "speaker": "Anna",
     "text": "Fir e Grënner mat enger super Iddi, awer wéineg Erfarung, kann dës Ënnerstëtzung de ganzen Ënnerscheed maachen.",
-    "t": 108.7
+    "t": 113.94
    },
    {
     "speaker": "Tom",
     "text": "An et gëtt och aner „Fit“-Programmer, déi bestoenden Entreprisen hëllefen, sech ze verbesseren.",
-    "t": 114.78
+    "t": 119.95
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispill, fir méi digital, oder méi nohalteg ze ginn.",
-    "t": 119.89
+    "t": 124.38
    },
    {
     "speaker": "Tom",
     "text": "Egal also, ob eng Entreprise just ufänkt, oder schonn zënter Joere besteet, et gëtt Hëllef, fir virunzekommen.",
-    "t": 124.4
+    "t": 127.86
    },
    {
     "speaker": "Anna",
     "text": "D'Finanzéierung ass e groussen Deel vum Bild, an dat ka verwirrend sinn.",
-    "t": 130.19
+    "t": 133.71
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt national Finanzéierung, an et gi grouss europäesch Programmer fir Fuerschung an Innovatioun.",
-    "t": 134.55
+    "t": 137.72
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation hëlleft den Entreprisen, sech an dësem Labyrinth zeruechtzefannen, an déi richteg Ënnerstëtzung ze beantroen.",
-    "t": 140.08
+    "t": 142.76
    },
    {
     "speaker": "Tom",
     "text": "Dës Begleedung eleng kann den Ënnerscheed maachen, ob eng Iddi um Pabeier bleift, oder zum Liewen erwächt.",
-    "t": 146.03
+    "t": 148.64
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation schafft och un ganze Secteuren, net nëmmen un eenzelnen Entreprisen.",
-    "t": 151.8
+    "t": 154.15
    },
    {
     "speaker": "Tom",
     "text": "Si konzentréiert sech op strategesch Beräicher... wéi Gesondheetstechnologien, propper Technologien, Digitalt, Materialien, Raumfaart a Liewensmëttel.",
-    "t": 156.98
+    "t": 159.12
    },
    {
     "speaker": "Anna",
     "text": "Si bréngt an all Beräich Entreprisen a Fuerscher zesummen, sou datt si zesummen z'innovéiere kënnen.",
-    "t": 164.91
+    "t": 166.05
    },
    {
     "speaker": "Tom",
     "text": "Dës Teamaarbecht hëlleft, staark, modern Industrien fir d'Land opzebauen.",
-    "t": 170.37
+    "t": 171.41
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer en Tratt zréck maachen a froen... firwat ass dat fir en normalen Awunner wichteg?",
-    "t": 174.94
+    "t": 175.47
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, well d'Innovatioun Aarbechtsplaze schaaft... gutt, zukunftssécher Aarbechtsplaze fir d'Leit hei.",
-    "t": 179.69
+    "t": 180.2
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, well si d'Wirtschaft diversifizéiert, sou datt d'Land net vun engem eenzege Secteur ofhängeg ass.",
-    "t": 185.38
+    "t": 185.27
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, well d'Produkter vun der Innovatioun d'alldeeglecht Liewe verbesseren... an der Gesondheet, der Energie, am Transport a méi.",
-    "t": 191.73
+    "t": 191.47
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, well eng bléiend, modern Wirtschaft déi ëffentlech Servicer finanzéiert, op déi mir all ugewise sinn.",
-    "t": 198.31
+    "t": 199.4
    },
    {
     "speaker": "Tom",
     "text": "Och wann Dir also ni eng Entreprise grënnt, beréiert hir Aarbecht Är Zukunft.",
-    "t": 204.5
+    "t": 205.03
    },
    {
     "speaker": "Anna",
     "text": "A wann Dir dovun dreemt, eppes ze starten, ass dat eng Dier, un déi et sech lount ze klappen.",
-    "t": 209.19
+    "t": 209.46
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer et praktesch maachen. Wat kënnen d'Leit doraus mathuelen?",
-    "t": 213.94
+    "t": 214.26
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, wann Dir eng Entreprise féiert, oder eng grënne wëllt, bitt Luxinnovation Ënnerstëtzung, Programmer a Berodung zur Finanzéierung.",
-    "t": 219.02
+    "t": 217.2
    },
    {
     "speaker": "Tom",
     "text": "Zweetens, wann Dir eng innovativ Iddi hutt, kuckt Iech de Beschleunegungsprogramm fir Startupen un.",
-    "t": 226.77
+    "t": 224.75
    },
    {
     "speaker": "Anna",
     "text": "Drëttens, wësst och als Bierger, datt dës roueg Aarbecht d'Aarbechtsplazen an d'Industrie vu muer opbaut.",
-    "t": 232.46
+    "t": 229.66
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer et zesummebréngen. Wat sollen d'Leit sech iwwer Luxinnovation merken?",
-    "t": 238.72
+    "t": 236.32
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... et ass Lëtzebuerg seng national Innovatiounsagence, déi den Entreprisen a Startupen hëlleft, z'innovéieren a ze wuessen.",
-    "t": 244.65
+    "t": 240.41
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... si bitt Programmer wéi d'Startup-Beschleunegung un an hëlleft bestoenden Firmen, méi digital a méi nohalteg ze ginn.",
-    "t": 251.64
+    "t": 247.55
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... si féiert d'Entreprisen zu der richteger nationaler an europäescher Finanzéierung.",
-    "t": 258.91
+    "t": 254.63
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... si stäerkt ganz strategesch Secteuren, andeems si d'Wirtschaft an d'Fuerschung verbënnt.",
-    "t": 263.75
+    "t": 259.46
    },
    {
     "speaker": "Anna",
     "text": "D'Zukunft vun engem Land gëtt vun de Leit opgebaut, déi et woen, nei Saachen ze probéieren.",
-    "t": 269.28
+    "t": 264.97
    },
    {
     "speaker": "Tom",
     "text": "A Luxinnovation ass do, fir hinnen ze hëllefen, eng couragéiert Iddi Realitéit ginn ze loossen.",
-    "t": 273.89
+    "t": 269.12
    },
    {
     "speaker": "Anna",
-    "text": "Villmools merci, datt Dir haut nogelauschtert hutt.",
-    "t": 278.76
+    "text": "Dat war eis Episod iwwer Luxinnovation. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 273.69
    },
    {
     "speaker": "Tom",
-    "text": "Passt op Iech op, bleift virwëtzeg, a bis an déi nächst Episod. Äddi!",
-    "t": 281.71
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 317.32
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 287.72
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 320.52
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 38,
@@ -91462,7 +91536,7 @@ const EPISODES = [
   "title": "The Housing Portal – Help to Rent, Buy and Renovate in Luxembourg",
   "description": "What the housing portal (logement.public.lu) offers — the Ministry of Housing's one-stop site for tenants, owners and communes — tenants' rights and rental help like the rent subsidy, support for buying, building and renovating a home, the single counter for housing aids, and the push for affordable housing.",
   "audio": "podcast_logement.mp3",
-  "duration": 281.14,
+  "duration": 304.64,
   "topics": [
    "The housing portal",
    "For tenants, owners & communes",
@@ -91476,318 +91550,343 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's good to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.38
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.42
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.52
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to find their way in everyday life.",
-    "t": 14.34
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And few subjects are as important, or as stressful, as today's... housing.",
-    "t": 21.83
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Finding a place to live, paying the rent, dreaming of buying, renovating an old home.",
-    "t": 27.05
+    "t": 31.95
    },
    {
     "speaker": "Tom",
     "text": "It can feel overwhelming, and expensive.",
-    "t": 32.71
+    "t": 37.61
    },
    {
     "speaker": "Tom",
     "text": "But there's more help out there than many people realise.",
-    "t": 36.17
+    "t": 39.78
    },
    {
     "speaker": "Anna",
     "text": "And it's gathered in one place... the housing portal of the Ministry of Housing.",
-    "t": 40.06
+    "t": 42.55
    },
    {
     "speaker": "Tom",
     "text": "The website is logement dot public dot lu.",
-    "t": 45.21
+    "t": 47.49
    },
    {
     "speaker": "Anna",
     "text": "In an earlier episode we looked at one part of it, the housing observatory, which tracks prices.",
-    "t": 48.63
+    "t": 50.03
    },
    {
     "speaker": "Tom",
     "text": "Today we look at the whole portal, and especially the help it offers ordinary people.",
-    "t": 55
+    "t": 56.17
    },
    {
     "speaker": "Anna",
     "text": "It's organised around who you are, which is really helpful.",
-    "t": 60.42
+    "t": 60.68
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 64.55
-   },
-   {
-    "speaker": "Tom",
-    "text": "There's a section for tenants, one for owners, and one for communes and professionals.",
-    "t": 66.21
+    "text": "Yes. There's a section for tenants, one for owners, and one for communes and professionals.",
+    "t": 63.99
    },
    {
     "speaker": "Anna",
     "text": "Let's start with tenants, because renting is where many people begin.",
-    "t": 71.68
+    "t": 68.82
    },
    {
     "speaker": "Tom",
     "text": "The portal helps you look for a home, and understand your rights as a tenant.",
-    "t": 76.25
+    "t": 72.81
    },
    {
     "speaker": "Anna",
     "text": "It explains the rental contract, the lease, so you know what you're signing.",
-    "t": 81.14
+    "t": 76.96
    },
    {
     "speaker": "Tom",
     "text": "And crucially, it explains the financial help available to renters.",
-    "t": 86.2
+    "t": 81.54
    },
    {
     "speaker": "Anna",
     "text": "For example, there's a rent subsidy for households on lower incomes, to help with the cost of renting.",
-    "t": 90.86
+    "t": 85.34
    },
    {
     "speaker": "Tom",
-    "text": "Many people who'd qualify don't even know it exists.",
-    "t": 97.41
+    "text": "In fact, most households who could get it never apply.",
+    "t": 91.43
    },
    {
     "speaker": "Tom",
-    "text": "So this is worth checking.",
-    "t": 101.45
+    "text": "So this is really worth checking.",
+    "t": 94.48
    },
    {
     "speaker": "Anna",
     "text": "There's also social rental management, which helps bring more affordable homes onto the market.",
-    "t": 103.98
+    "t": 96.65
    },
    {
     "speaker": "Tom",
     "text": "Now let's talk about owners, and people who dream of buying.",
-    "t": 109.78
+    "t": 102.17
    },
    {
     "speaker": "Anna",
     "text": "Buying a home is a huge step, and the State offers several forms of support.",
-    "t": 113.84
+    "t": 105.45
    },
    {
     "speaker": "Tom",
     "text": "There's help linked to buying or building your first home, to make it a little more reachable.",
-    "t": 118.93
+    "t": 110.6
    },
    {
     "speaker": "Anna",
     "text": "And there's a well-known measure that reduces the registration costs when you buy a home to live in.",
-    "t": 124.26
+    "t": 115.92
    },
    {
     "speaker": "Tom",
     "text": "The portal explains who can get what, and how to apply.",
-    "t": 129.88
+    "t": 121.35
    },
    {
     "speaker": "Anna",
     "text": "And it's not only about buying.",
-    "t": 133.85
+    "t": 124.41
    },
    {
     "speaker": "Anna",
     "text": "It's also about improving the home you already have.",
-    "t": 136.51
+    "t": 126.45
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 140.13
-   },
-   {
-    "speaker": "Tom",
-    "text": "There's support for renovation, and especially for making homes more energy-efficient.",
-    "t": 141.79
+    "text": "Yes. There's support for renovation, and especially for making homes more energy-efficient.",
+    "t": 129.43
    },
    {
     "speaker": "Anna",
     "text": "That connects to Klima-Agence, from another episode... they advise, and the housing aids help pay.",
-    "t": 147.28
+    "t": 134.6
    },
    {
     "speaker": "Tom",
     "text": "So the pieces fit together... advice on one side, financial help on the other.",
-    "t": 153.88
+    "t": 140.87
    },
    {
     "speaker": "Anna",
     "text": "There's a very practical detail worth knowing... a single counter for housing aids.",
-    "t": 159.12
+    "t": 145.32
    },
    {
     "speaker": "Tom",
     "text": "A one-stop office where you can ask about, and apply for, the different housing supports.",
-    "t": 164.51
+    "t": 150.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "You can even book an appointment online, through MyGuichet.",
+    "t": 155.22
    },
    {
     "speaker": "Anna",
     "text": "So you don't have to run between many offices.",
-    "t": 170.13
+    "t": 158.54
    },
    {
     "speaker": "Anna",
     "text": "There's one door to knock on.",
-    "t": 173.64
+    "t": 160.83
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about the bigger picture, too, because housing is a national priority.",
-    "t": 176.15
+    "t": 162.72
    },
    {
     "speaker": "Anna",
     "text": "The portal explains the policy on affordable housing... building more homes that ordinary people can actually afford.",
-    "t": 181.5
+    "t": 167.14
    },
    {
     "speaker": "Tom",
     "text": "And the partnership with communes, so that towns and villages help create affordable homes locally.",
-    "t": 188.81
+    "t": 174.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Since 2026, there's also one national register where you can apply for an affordable home, online through MyGuichet.",
+    "t": 179.51
    },
    {
     "speaker": "Anna",
     "text": "It's a long road, but the direction is clear... more, and more affordable, housing.",
-    "t": 194.94
+    "t": 186.33
    },
    {
     "speaker": "Tom",
     "text": "Let's make it really practical.",
-    "t": 200.86
+    "t": 191.54
    },
    {
     "speaker": "Tom",
     "text": "What should someone do with all this?",
-    "t": 203.62
+    "t": 193.1
    },
    {
     "speaker": "Anna",
     "text": "First, if you rent and your income is modest, check whether you qualify for the rent subsidy.",
-    "t": 206.41
+    "t": 195.19
    },
    {
     "speaker": "Tom",
     "text": "Second, if you're hoping to buy or build, look at the State's support before you start.",
-    "t": 212.32
+    "t": 200.95
    },
    {
     "speaker": "Anna",
     "text": "Third, if you want to renovate, especially for energy, combine Klima-Agence advice with housing aids.",
-    "t": 217.72
+    "t": 205.7
    },
    {
     "speaker": "Tom",
     "text": "And fourth, when in doubt, contact the single counter for housing aids, and just ask.",
-    "t": 224.51
+    "t": 212.52
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it together.",
-    "t": 230.13
+    "t": 217.64
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about the housing portal?",
-    "t": 232.44
+    "t": 219.01
    },
    {
     "speaker": "Tom",
     "text": "First... logement dot public dot lu is the Ministry of Housing's one-stop portal, for tenants, owners and communes.",
-    "t": 235.77
+    "t": 221.94
    },
    {
     "speaker": "Anna",
     "text": "Second... it explains tenants' rights and rental help, like the rent subsidy.",
-    "t": 242.96
+    "t": 229.79
    },
    {
     "speaker": "Tom",
     "text": "Third... it sets out support for buying, building and renovating a home.",
-    "t": 248.32
+    "t": 234.73
    },
    {
     "speaker": "Anna",
     "text": "And fourth... there's a single counter for housing aids, and a national push for affordable housing.",
-    "t": 253.27
+    "t": 239.34
    },
    {
     "speaker": "Tom",
     "text": "A home is more than four walls.",
-    "t": 259.62
+    "t": 245.5
    },
    {
     "speaker": "Tom",
     "text": "It's security, dignity, and a place to build a life.",
-    "t": 262.37
+    "t": 247.73
    },
    {
     "speaker": "Anna",
     "text": "And knowing what help exists can bring that a little closer for many families.",
-    "t": 266.5
-   },
-   {
-    "speaker": "Tom",
-    "text": "Thank you so much for listening today.",
-    "t": 271.5
+    "t": 250.9
    },
    {
     "speaker": "Anna",
-    "text": "Take care, and see you in the next episode.",
-    "t": 274.49
+    "text": "That was our episode about the housing portal.",
+    "t": 255.47
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 277.94
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 258.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 267.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 286.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 292.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 295.16
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 279.46
+    "text": "Thank you, everyone.",
+    "t": 299.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 300.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 303.05
    }
   ],
   "questions": [
@@ -91989,896 +92088,935 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_logement_fr.mp3",
-  "duration_fr": 305.06,
+  "duration_fr": 309,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Nous sommes ravis de vous retrouver aujourd'hui.",
-    "t": 2.69
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 5.95
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 8.53
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
-    "t": 11.99
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les frontaliers, à se repérer dans la vie de tous les jours.",
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
     "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et peu de sujets sont aussi importants, ou aussi stressants, que celui d'aujourd'hui... le logement.",
-    "t": 22.81
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "Trouver un endroit où vivre, payer le loyer, rêver d'acheter, rénover une vieille maison.",
-    "t": 28.89
+    "t": 28.69
    },
    {
     "speaker": "Tom",
     "text": "Cela peut sembler écrasant, et coûteux.",
-    "t": 35.09
+    "t": 33.56
    },
    {
     "speaker": "Tom",
     "text": "Mais il existe plus d'aides que beaucoup de gens ne le pensent.",
-    "t": 38.28
+    "t": 36.11
    },
    {
     "speaker": "Anna",
     "text": "Et elles sont rassemblées en un seul endroit... le portail du logement du Ministère du Logement.",
-    "t": 41.97
+    "t": 39.56
    },
    {
     "speaker": "Tom",
     "text": "Le site est logement point public point lu.",
-    "t": 47.54
+    "t": 44.01
    },
    {
     "speaker": "Anna",
     "text": "Dans un épisode précédent, nous avions examiné une partie de ce portail, l'observatoire de l'habitat, qui suit les prix.",
-    "t": 50.52
+    "t": 46.71
    },
    {
     "speaker": "Tom",
     "text": "Aujourd'hui, nous regardons l'ensemble du portail, et surtout les aides qu'il offre aux gens ordinaires.",
-    "t": 58.34
+    "t": 52.55
    },
    {
     "speaker": "Anna",
     "text": "Il est organisé selon qui vous êtes, ce qui est vraiment pratique.",
-    "t": 64.24
+    "t": 57.78
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 68.68
-   },
-   {
-    "speaker": "Tom",
-    "text": "Il y a une section pour les locataires, une pour les propriétaires, et une pour les communes et les professionnels.",
-    "t": 70.15
+    "text": "Oui. Il y a une section pour les locataires, une pour les propriétaires, et une pour les communes et les professionnels.",
+    "t": 61.2
    },
    {
     "speaker": "Anna",
     "text": "Commençons par les locataires, car la location, c'est souvent par là que beaucoup de gens commencent.",
-    "t": 76.41
+    "t": 67.57
    },
    {
     "speaker": "Tom",
     "text": "Le portail vous aide à chercher un logement, et à comprendre vos droits en tant que locataire.",
-    "t": 82.45
+    "t": 71.98
    },
    {
     "speaker": "Anna",
     "text": "Il explique le contrat de location, le bail, pour que vous sachiez ce que vous signez.",
-    "t": 87.76
+    "t": 76.81
    },
    {
     "speaker": "Tom",
     "text": "Et surtout, il explique les aides financières disponibles pour les locataires.",
-    "t": 93.44
+    "t": 80.99
    },
    {
     "speaker": "Anna",
     "text": "Par exemple, il existe une subvention de loyer pour les ménages à revenus plus modestes, pour aider à payer le coût de la location.",
-    "t": 98.31
+    "t": 85.39
    },
    {
     "speaker": "Tom",
-    "text": "Beaucoup de personnes qui y auraient droit ne savent même pas qu'elle existe.",
-    "t": 106.17
+    "text": "En fait, la plupart des ménages qui pourraient l'obtenir ne la demandent jamais.",
+    "t": 91.83
    },
    {
     "speaker": "Tom",
-    "text": "Cela vaut donc la peine de vérifier.",
-    "t": 110.25
+    "text": "Cela vaut donc vraiment la peine de vérifier.",
+    "t": 96.13
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi la gestion locative sociale, qui aide à amener davantage de logements abordables sur le marché.",
-    "t": 113.14
+    "t": 98.69
    },
    {
     "speaker": "Tom",
     "text": "Parlons maintenant des propriétaires, et de celles et ceux qui rêvent d'acheter.",
-    "t": 119.71
+    "t": 103.84
    },
    {
     "speaker": "Anna",
     "text": "Acheter un logement est une étape énorme, et l'État propose plusieurs formes de soutien.",
-    "t": 124.18
+    "t": 108.38
    },
    {
     "speaker": "Tom",
     "text": "Il y a une aide liée à l'achat ou à la construction de votre premier logement, pour le rendre un peu plus accessible.",
-    "t": 129.66
+    "t": 112.53
    },
    {
     "speaker": "Anna",
     "text": "Et il y a une mesure bien connue qui réduit les frais d'enregistrement lorsque vous achetez un logement pour y vivre.",
-    "t": 135.61
+    "t": 118.68
    },
    {
     "speaker": "Tom",
     "text": "Le portail explique qui peut obtenir quoi, et comment faire la demande.",
-    "t": 141.54
+    "t": 123.82
    },
    {
     "speaker": "Anna",
     "text": "Et il ne s'agit pas seulement d'acheter.",
-    "t": 146.12
+    "t": 127.82
    },
    {
     "speaker": "Anna",
     "text": "Il s'agit aussi d'améliorer le logement que vous avez déjà.",
-    "t": 148.87
+    "t": 129.6
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 152.86
-   },
-   {
-    "speaker": "Tom",
-    "text": "Il existe une aide pour la rénovation, et surtout pour rendre les logements plus économes en énergie.",
-    "t": 154.33
+    "text": "Oui. Il existe une aide pour la rénovation, et surtout pour rendre les logements plus économes en énergie.",
+    "t": 132.49
    },
    {
     "speaker": "Anna",
     "text": "Cela rejoint la Klima-Agence, dont nous avons parlé dans un autre épisode... elle conseille, et les aides au logement aident à payer.",
-    "t": 159.95
+    "t": 138.49
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, les pièces s'emboîtent... le conseil d'un côté, l'aide financière de l'autre.",
-    "t": 168.01
+    "t": 144.87
    },
    {
     "speaker": "Anna",
     "text": "Il y a un détail très pratique qu'il faut connaître... un guichet unique des aides au logement.",
-    "t": 173.47
+    "t": 149.59
    },
    {
     "speaker": "Tom",
     "text": "Un guichet unique où vous pouvez vous renseigner sur les différentes aides au logement, et les demander.",
-    "t": 178.78
+    "t": 154.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous pouvez même prendre rendez-vous en ligne, via MyGuichet.",
+    "t": 159.19
    },
    {
     "speaker": "Anna",
     "text": "Vous n'avez donc pas à courir entre plusieurs bureaux.",
-    "t": 184.09
+    "t": 162.35
    },
    {
     "speaker": "Anna",
     "text": "Il y a une seule porte à laquelle frapper.",
-    "t": 187.66
+    "t": 164.74
    },
    {
     "speaker": "Tom",
     "text": "Parlons aussi du tableau d'ensemble, car le logement est une priorité nationale.",
-    "t": 190.64
+    "t": 166.86
    },
    {
     "speaker": "Anna",
     "text": "Le portail explique la politique du logement abordable... construire davantage de logements que les gens ordinaires peuvent réellement se permettre.",
-    "t": 195.63
+    "t": 171.56
    },
    {
     "speaker": "Tom",
     "text": "Et le partenariat avec les communes, pour que villes et villages contribuent à créer des logements abordables localement.",
-    "t": 203.83
+    "t": 178.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Depuis 2026, il existe aussi un registre national unique pour poser sa candidature à un logement abordable, en ligne via MyGuichet.",
+    "t": 184.72
    },
    {
     "speaker": "Anna",
     "text": "C'est un long chemin, mais la direction est claire... plus de logements, et plus abordables.",
-    "t": 210.02
+    "t": 193.25
    },
    {
     "speaker": "Tom",
     "text": "Rendons cela vraiment concret.",
-    "t": 215.95
+    "t": 198.1
    },
    {
     "speaker": "Tom",
     "text": "Que devrait faire quelqu'un avec tout cela ?",
-    "t": 218.57
+    "t": 200
    },
    {
     "speaker": "Anna",
     "text": "D'abord, si vous êtes locataire et que vos revenus sont modestes, vérifiez si vous avez droit à la subvention de loyer.",
-    "t": 221.41
+    "t": 202.32
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, si vous espérez acheter ou construire, regardez le soutien de l'État avant de commencer.",
-    "t": 228.7
+    "t": 207.95
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement, si vous voulez rénover, surtout pour l'énergie, combinez les conseils de la Klima-Agence avec les aides au logement.",
-    "t": 234.74
+    "t": 213.92
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement, en cas de doute, contactez le guichet unique des aides au logement, et posez simplement la question.",
-    "t": 242.74
+    "t": 220.51
    },
    {
     "speaker": "Anna",
-    "text": "Récapitulons.",
-    "t": 249.33
-   },
-   {
-    "speaker": "Anna",
-    "text": "Que faut-il retenir du portail du logement ?",
-    "t": 251.37
+    "text": "Récapitulons. Que faut-il retenir du portail du logement ?",
+    "t": 227.48
    },
    {
     "speaker": "Tom",
     "text": "D'abord... logement point public point lu est le portail unique du Ministère du Logement, pour les locataires, les propriétaires et les communes.",
-    "t": 254.59
+    "t": 230.67
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... il explique les droits des locataires et les aides à la location, comme la subvention de loyer.",
-    "t": 262.52
+    "t": 239.33
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... il présente le soutien pour acheter, construire et rénover un logement.",
-    "t": 269.01
+    "t": 244.98
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... il y a un guichet unique des aides au logement, et un effort national en faveur du logement abordable.",
-    "t": 274.29
+    "t": 249.97
    },
    {
     "speaker": "Tom",
     "text": "Un logement, c'est plus que quatre murs.",
-    "t": 281.55
+    "t": 256
    },
    {
     "speaker": "Tom",
     "text": "C'est la sécurité, la dignité, et un endroit où construire sa vie.",
-    "t": 284.73
+    "t": 257.97
    },
    {
     "speaker": "Anna",
     "text": "Et savoir quelles aides existent peut rapprocher un peu cela pour beaucoup de familles.",
-    "t": 289.61
-   },
-   {
-    "speaker": "Tom",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 294.32
+    "t": 262.63
    },
    {
     "speaker": "Anna",
-    "text": "Prenez soin de vous, et à très bientôt dans le prochain épisode.",
-    "t": 297.56
+    "text": "C'était notre épisode sur le portail du logement.",
+    "t": 266.4
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 301.94
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 268.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 276.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 292.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 297.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 299.15
    },
    {
     "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 303.55
+    "text": "Merci à tous.",
+    "t": 303.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 304.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 307.22
    }
   ],
   "audio_de": "podcast_logement_de.mp3",
-  "duration_de": 346.58,
+  "duration_de": 356.83,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Schön, dass Sie heute dabei sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.35
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.42
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 11.81
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnerinnen und Einwohnern, und auch den Grenzgängern, helfen, sich im Alltag zurechtzufinden.",
-    "t": 16.19
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und nur wenige Themen sind so wichtig, oder so belastend, wie das heutige... das Wohnen.",
-    "t": 25.52
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Eine Wohnung finden, die Miete zahlen, vom Kaufen träumen, ein altes Haus renovieren.",
-    "t": 31.58
+    "t": 33.16
    },
    {
     "speaker": "Tom",
     "text": "Das kann überwältigend wirken, und teuer sein.",
-    "t": 38.42
+    "t": 38.4
    },
    {
     "speaker": "Tom",
     "text": "Aber es gibt mehr Hilfe, als viele Menschen ahnen.",
-    "t": 42.06
+    "t": 41.23
    },
    {
     "speaker": "Anna",
     "text": "Und sie ist an einem Ort gebündelt... dem Wohnungsportal des Wohnungsbauministeriums.",
-    "t": 45.99
+    "t": 44.15
    },
    {
     "speaker": "Tom",
     "text": "Die Webseite lautet logement Punkt public Punkt lu.",
-    "t": 52.19
+    "t": 49.58
    },
    {
     "speaker": "Anna",
     "text": "In einer früheren Folge haben wir uns einen Teil davon angeschaut, das Wohnungsobservatorium, das die Preise verfolgt.",
-    "t": 55.96
+    "t": 53.63
    },
    {
     "speaker": "Tom",
     "text": "Heute betrachten wir das gesamte Portal, und besonders die Hilfe, die es ganz normalen Menschen bietet.",
-    "t": 64.31
+    "t": 60.56
    },
    {
     "speaker": "Anna",
     "text": "Es ist danach gegliedert, wer Sie sind, was wirklich hilfreich ist.",
-    "t": 70.89
+    "t": 66.31
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 75.93
-   },
-   {
-    "speaker": "Tom",
-    "text": "Es gibt einen Bereich für Mieter, einen für Eigentümer, und einen für Gemeinden und Fachleute.",
-    "t": 77.41
+    "text": "Ja. Es gibt einen Bereich für Mieter, einen für Eigentümer, und einen für Gemeinden und Fachleute.",
+    "t": 70.87
    },
    {
     "speaker": "Anna",
     "text": "Beginnen wir mit den Mietern, denn das Mieten ist der Punkt, an dem viele Menschen anfangen.",
-    "t": 83.54
+    "t": 77.68
    },
    {
     "speaker": "Tom",
     "text": "Das Portal hilft Ihnen, eine Wohnung zu suchen, und Ihre Rechte als Mieter zu verstehen.",
-    "t": 89.81
+    "t": 82.51
    },
    {
     "speaker": "Anna",
     "text": "Es erklärt den Mietvertrag, damit Sie wissen, was Sie unterschreiben.",
-    "t": 95.65
+    "t": 87.55
    },
    {
     "speaker": "Tom",
     "text": "Und vor allem erklärt es die finanziellen Hilfen, die Mietern zur Verfügung stehen.",
-    "t": 100.64
+    "t": 91.11
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispiel gibt es einen Mietzuschuss für Haushalte mit geringerem Einkommen, um bei den Mietkosten zu helfen.",
-    "t": 105.82
+    "t": 95.7
    },
    {
     "speaker": "Tom",
-    "text": "Viele Menschen, die Anspruch hätten, wissen gar nicht, dass es ihn gibt.",
-    "t": 113.3
+    "text": "Tatsächlich stellen die meisten Haushalte, die sie bekommen könnten, nie einen Antrag.",
+    "t": 101.95
    },
    {
     "speaker": "Tom",
-    "text": "Es lohnt sich also, das zu prüfen.",
-    "t": 118.45
+    "text": "Es lohnt sich also wirklich, das zu prüfen.",
+    "t": 107.01
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch die soziale Mietverwaltung, die hilft, mehr bezahlbaren Wohnraum auf den Markt zu bringen.",
-    "t": 121.74
+    "t": 109.45
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir nun über die Eigentümer, und über die Menschen, die vom Kaufen träumen.",
-    "t": 128.98
+    "t": 114.86
    },
    {
     "speaker": "Anna",
     "text": "Eine Wohnung zu kaufen ist ein riesiger Schritt, und der Staat bietet mehrere Formen der Unterstützung.",
-    "t": 134.51
+    "t": 119.47
    },
    {
     "speaker": "Tom",
     "text": "Es gibt eine Hilfe im Zusammenhang mit dem Kauf oder Bau Ihrer ersten Wohnung, um sie ein wenig erreichbarer zu machen.",
-    "t": 141.39
+    "t": 125.06
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt eine bekannte Maßnahme, die die Eintragungsgebühren senkt, wenn Sie eine Wohnung kaufen, um darin zu wohnen.",
-    "t": 148.52
+    "t": 131.94
    },
    {
     "speaker": "Tom",
     "text": "Das Portal erklärt, wer was bekommen kann, und wie man den Antrag stellt.",
-    "t": 156.85
+    "t": 138.54
    },
    {
     "speaker": "Anna",
     "text": "Und es geht nicht nur ums Kaufen.",
-    "t": 162.09
+    "t": 143.06
    },
    {
     "speaker": "Anna",
     "text": "Es geht auch darum, die Wohnung zu verbessern, die Sie bereits haben.",
-    "t": 165
+    "t": 144.95
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 170.06
-   },
-   {
-    "speaker": "Tom",
-    "text": "Es gibt Unterstützung für die Renovierung, und besonders dafür, Wohnungen energieeffizienter zu machen.",
-    "t": 171.55
+    "text": "Ja. Es gibt Unterstützung für die Renovierung, und besonders dafür, Wohnungen energieeffizienter zu machen.",
+    "t": 148.68
    },
    {
     "speaker": "Anna",
     "text": "Das hat mit der Klima-Agence zu tun, aus einer anderen Folge... sie berät, und die Wohnungsbeihilfen helfen beim Bezahlen.",
-    "t": 178.12
+    "t": 155.62
    },
    {
     "speaker": "Tom",
     "text": "So fügen sich die Teile zusammen... Beratung auf der einen Seite, finanzielle Hilfe auf der anderen.",
-    "t": 186.61
+    "t": 163.19
    },
    {
     "speaker": "Anna",
     "text": "Es gibt ein sehr praktisches Detail, das man kennen sollte... eine zentrale Anlaufstelle für Wohnungsbeihilfen.",
-    "t": 193.96
+    "t": 169.56
    },
    {
     "speaker": "Tom",
     "text": "Eine zentrale Anlaufstelle, wo Sie sich über die verschiedenen Wohnungshilfen informieren, und sie beantragen können.",
-    "t": 201.69
+    "t": 176.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Einen Termin können Sie sogar online buchen, über MyGuichet.",
+    "t": 182.16
    },
    {
     "speaker": "Anna",
     "text": "So müssen Sie nicht zwischen vielen Ämtern hin- und herlaufen.",
-    "t": 209
+    "t": 186.12
    },
    {
     "speaker": "Anna",
     "text": "Es gibt eine einzige Tür, an die man klopfen muss.",
-    "t": 213.48
+    "t": 189.41
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir auch über das große Ganze, denn das Wohnen ist eine nationale Priorität.",
-    "t": 217.61
+    "t": 192.64
    },
    {
     "speaker": "Anna",
     "text": "Das Portal erklärt die Politik des bezahlbaren Wohnraums... mehr Wohnungen bauen, die sich normale Menschen wirklich leisten können.",
-    "t": 223.54
+    "t": 197.7
    },
    {
     "speaker": "Tom",
     "text": "Und die Partnerschaft mit den Gemeinden, damit Städte und Dörfer helfen, vor Ort bezahlbaren Wohnraum zu schaffen.",
-    "t": 232.52
+    "t": 205.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Seit 2026 gibt es außerdem ein einziges nationales Register, über das Sie sich für eine bezahlbare Wohnung bewerben, online über MyGuichet.",
+    "t": 212.28
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein langer Weg, aber die Richtung ist klar... mehr, und bezahlbarerer, Wohnraum.",
-    "t": 239.74
+    "t": 222.26
    },
    {
     "speaker": "Tom",
     "text": "Machen wir es ganz konkret.",
-    "t": 246.51
+    "t": 228.62
    },
    {
     "speaker": "Tom",
     "text": "Was sollte jemand mit all dem tun?",
-    "t": 249.08
+    "t": 230.28
    },
    {
     "speaker": "Anna",
     "text": "Erstens: Wenn Sie mieten und Ihr Einkommen bescheiden ist, prüfen Sie, ob Sie Anspruch auf den Mietzuschuss haben.",
-    "t": 252.06
+    "t": 232.33
    },
    {
     "speaker": "Tom",
     "text": "Zweitens: Wenn Sie hoffen, zu kaufen oder zu bauen, schauen Sie sich die Unterstützung des Staates an, bevor Sie beginnen.",
-    "t": 259.94
+    "t": 239.01
    },
    {
     "speaker": "Anna",
     "text": "Drittens: Wenn Sie renovieren möchten, besonders energetisch, verbinden Sie die Beratung der Klima-Agence mit den Wohnungsbeihilfen.",
-    "t": 267.58
+    "t": 245.99
    },
    {
     "speaker": "Tom",
     "text": "Und viertens: Wenn Sie unsicher sind, wenden Sie sich an die zentrale Anlaufstelle für Wohnungsbeihilfen, und fragen Sie einfach nach.",
-    "t": 276.85
+    "t": 254.47
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir zusammen.",
-    "t": 285.18
+    "t": 262.37
    },
    {
     "speaker": "Anna",
     "text": "Was sollten sich die Menschen über das Wohnungsportal merken?",
-    "t": 287.46
+    "t": 263.7
    },
    {
     "speaker": "Tom",
     "text": "Erstens... logement Punkt public Punkt lu ist das zentrale Portal des Wohnungsbauministeriums, für Mieter, Eigentümer und Gemeinden.",
-    "t": 291.79
+    "t": 267.18
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... es erklärt die Rechte der Mieter und die Miethilfen, wie den Mietzuschuss.",
-    "t": 300.61
+    "t": 277.71
    },
    {
     "speaker": "Tom",
     "text": "Drittens... es legt die Unterstützung für den Kauf, den Bau und die Renovierung einer Wohnung dar.",
-    "t": 306.43
+    "t": 283.1
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... es gibt eine zentrale Anlaufstelle für Wohnungsbeihilfen, und einen nationalen Vorstoß für bezahlbaren Wohnraum.",
-    "t": 312.62
+    "t": 289.21
    },
    {
     "speaker": "Tom",
     "text": "Ein Zuhause ist mehr als vier Wände.",
-    "t": 321.4
+    "t": 297.17
    },
    {
     "speaker": "Tom",
     "text": "Es ist Sicherheit, Würde, und ein Ort, um ein Leben aufzubauen.",
-    "t": 324.53
+    "t": 299.51
    },
    {
     "speaker": "Anna",
     "text": "Und zu wissen, welche Hilfen es gibt, kann das für viele Familien ein Stück näher bringen.",
-    "t": 329.57
-   },
-   {
-    "speaker": "Tom",
-    "text": "Vielen Dank, dass Sie heute zugehört haben.",
-    "t": 335.94
+    "t": 303.84
    },
    {
     "speaker": "Anna",
-    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
-    "t": 339.52
+    "text": "Das war unsere Folge über das Wohnungsportal.",
+    "t": 308.16
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 343.54
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 310.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 319.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 338.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 343.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 346.05
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 345.02
+    "text": "Danke an alle.",
+    "t": 350.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 352.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 355.3
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm zréck! Et freet eis, datt Dir haut derbäi sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.38
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer dat Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, sech am Alldag zerecht ze fannen.",
-    "t": 7.42
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "A wéineg Themen sinn esou wichteg, oder esou stresseg, wéi dat vun haut... d'Wunnen.",
-    "t": 21.83
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Eng Plaz fannen fir ze wunnen, d'Loyer bezuelen, dovun dreemen ze kafen, en aalt Haus renovéieren.",
-    "t": 27.05
+    "t": 31.95
    },
    {
     "speaker": "Tom",
     "text": "Dat kann iwwerwältegend schéngen, an deier sinn. Mä et gëtt méi Hëllef, wéi vill Leit mengen.",
-    "t": 32.71
+    "t": 37.61
    },
    {
     "speaker": "Anna",
     "text": "An si ass op enger Plaz gesammelt... de Wunnengsportal vum Wunnengsbauministère.",
-    "t": 40.06
+    "t": 42.55
    },
    {
     "speaker": "Tom",
     "text": "D'Websäit ass logement Punkt public Punkt lu.",
-    "t": 45.21
+    "t": 47.49
    },
    {
     "speaker": "Anna",
     "text": "An enger fréierer Episod hu mir eis een Deel dovun ugekuckt, den Observatoire vun der Wunneng, deen d'Präisser verfollegt.",
-    "t": 48.63
+    "t": 50.03
    },
    {
     "speaker": "Tom",
     "text": "Haut kucke mir de ganze Portal un, a virun allem d'Hëllef, déi en ganz normale Leit ubitt.",
-    "t": 55
+    "t": 56.17
    },
    {
     "speaker": "Anna",
     "text": "En ass no deem organiséiert, wien Dir sidd, wat wierklech praktesch ass.",
-    "t": 60.42
+    "t": 60.68
    },
    {
     "speaker": "Tom",
     "text": "Jo. Et gëtt eng Sektioun fir Locatairen, eng fir Eegentümer, an eng fir d'Gemengen an d'Fachleit.",
-    "t": 64.55
+    "t": 63.99
    },
    {
     "speaker": "Anna",
     "text": "Fänke mir mat de Locatairen un, well d'Lounen ass do, wou vill Leit ufänken.",
-    "t": 71.68
+    "t": 68.82
    },
    {
     "speaker": "Tom",
     "text": "De Portal hëlleft Iech, eng Wunneng ze sichen, an Är Rechter als Locataire ze verstoen.",
-    "t": 76.25
+    "t": 72.81
    },
    {
     "speaker": "Anna",
     "text": "En erkläert de Locatiounskontrakt, de Bail, esou datt Dir wësst, wat Dir ënnerschreift.",
-    "t": 81.14
+    "t": 76.96
    },
    {
     "speaker": "Tom",
     "text": "A virun allem erkläert en déi finanziell Hëllef, déi de Locatairen zur Verfügung steet.",
-    "t": 86.2
+    "t": 81.54
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispill gëtt et e Loyerszuschoss fir Stéit mat méi nidderegen Akommes, fir bei de Käschte vum Lounen ze hëllefen.",
-    "t": 90.86
+    "t": 85.34
    },
    {
     "speaker": "Tom",
-    "text": "Vill Leit, déi en Usproch hätten, wëssen net emol, datt en existéiert. Et lount sech also, dat ze kucken.",
-    "t": 97.41
+    "text": "Tatsächlech froen déi meescht Haushalter, déi en kéinte kréien, en ni un. Et lount sech also wierklech, dat ze kucken.",
+    "t": 91.43
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och déi sozial Locatiounsverwaltung, déi hëlleft, méi bezuelbar Wunnenge op de Maart ze bréngen.",
-    "t": 103.98
+    "t": 96.65
    },
    {
     "speaker": "Tom",
     "text": "Schwätze mir elo iwwer d'Eegentümer, an iwwer d'Leit, déi dovun dreemen ze kafen.",
-    "t": 109.78
+    "t": 102.17
    },
    {
     "speaker": "Anna",
     "text": "Eng Wunneng ze kafen ass e risege Schrëtt, an de Staat bitt verschidde Forme vun Ënnerstëtzung un.",
-    "t": 113.84
+    "t": 105.45
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt eng Hëllef am Zesummenhang mam Kaf oder Bau vun Ärer éischter Wunneng, fir se e bësse méi erreechbar ze maachen.",
-    "t": 118.93
+    "t": 110.6
    },
    {
     "speaker": "Anna",
     "text": "An et gëtt eng bekannte Mesure, déi d'Aschreiwungskäschte reduzéiert, wann Dir eng Wunneng kaaft fir doranner ze wunnen.",
-    "t": 124.26
+    "t": 115.92
    },
    {
     "speaker": "Tom",
     "text": "De Portal erkläert, wien wat kann kréien, a wéi een de Antrag stellt.",
-    "t": 129.88
+    "t": 121.35
    },
    {
     "speaker": "Anna",
     "text": "An et geet net nëmmen ëm de Kaf. Et geet och dorëms, d'Wunneng ze verbesseren, déi Dir scho hutt.",
-    "t": 133.85
+    "t": 124.41
    },
    {
     "speaker": "Tom",
     "text": "Jo. Et gëtt Ënnerstëtzung fir d'Renovéierung, a virun allem fir Wunnengen energieeffizienter ze maachen.",
-    "t": 140.13
+    "t": 129.43
    },
    {
     "speaker": "Anna",
     "text": "Dat hänkt mat der Klima-Agence zesummen, aus enger anerer Episod... si beréit, an d'Wunnengshëllefen hëllefe beim Bezuelen.",
-    "t": 147.28
+    "t": 134.6
    },
    {
     "speaker": "Tom",
     "text": "Esou passen d'Stécker zesummen... Berodung op enger Säit, finanziell Hëllef op der anerer.",
-    "t": 153.88
+    "t": 140.87
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt en ganz prakteschen Detail, deen een sollt kennen... eng zentral Ulafstell fir Wunnengshëllefen.",
-    "t": 159.12
+    "t": 145.32
    },
    {
     "speaker": "Tom",
-    "text": "Eng zentral Ulafstell, wou Dir Iech iwwer déi verschidde Wunnengshëllefen informéiere kënnt, a se ufroe kënnt.",
-    "t": 164.51
+    "text": "Eng zentral Ulafstell, wou Dir Iech iwwer déi verschidde Wunnengshëllefen informéiere kënnt, a se ufroe kënnt. Dir kënnt souguer online e Rendez-vous huelen, iwwer MyGuichet.",
+    "t": 150.3
    },
    {
     "speaker": "Anna",
     "text": "Esou musst Dir net tëscht ville Büroe lafen. Et gëtt eng eenzeg Dier, un déi ee klappe muss.",
-    "t": 170.13
+    "t": 158.54
    },
    {
     "speaker": "Tom",
     "text": "Schwätze mir och iwwer dat grousst Ganzt, well d'Wunnen ass eng national Prioritéit.",
-    "t": 176.15
+    "t": 162.72
    },
    {
     "speaker": "Anna",
     "text": "De Portal erkläert d'Politik vum bezuelbare Wunnraum... méi Wunnenge bauen, déi sech normal Leit wierklech leeschte kënnen.",
-    "t": 181.5
+    "t": 167.14
    },
    {
     "speaker": "Tom",
-    "text": "An d'Partnerschaft mat de Gemengen, esou datt Stied an Dierfer hëllefen, lokal bezuelbare Wunnraum ze schafen.",
-    "t": 188.81
+    "text": "An d'Partnerschaft mat de Gemengen, esou datt Stied an Dierfer hëllefen, lokal bezuelbare Wunnraum ze schafen. Zënter 2026 gëtt et och een eenzegen nationale Register, iwwer deen Dir Iech fir eng bezuelbar Wunneng mellt, online iwwer MyGuichet.",
+    "t": 174.3
    },
    {
     "speaker": "Anna",
     "text": "Et ass e laange Wee, mä d'Richtung ass kloer... méi, a méi bezuelbar, Wunnraum.",
-    "t": 194.94
+    "t": 186.33
    },
    {
     "speaker": "Tom",
     "text": "Maache mir et ganz konkret. Wat soll een mat all deem maachen?",
-    "t": 200.86
+    "t": 191.54
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, wann Dir lount an Äert Akommes bescheiden ass, kuckt, ob Dir Usproch op de Loyerszuschoss hutt.",
-    "t": 206.41
+    "t": 195.19
    },
    {
     "speaker": "Tom",
     "text": "Als zweetes, wann Dir hofft ze kafen oder ze bauen, kuckt d'Ënnerstëtzung vum Staat un, ier Dir ufänkt.",
-    "t": 212.32
+    "t": 200.95
    },
    {
     "speaker": "Anna",
     "text": "Als drëttes, wann Dir renovéiere wëllt, besonnesch energetesch, kombinéiert d'Berodung vun der Klima-Agence mat de Wunnengshëllefen.",
-    "t": 217.72
+    "t": 205.7
    },
    {
     "speaker": "Tom",
     "text": "A véiertens, wann Dir am Zweiwel sidd, kontaktéiert d'zentral Ulafstell fir Wunnengshëllefen, a frot einfach no.",
-    "t": 224.51
+    "t": 212.52
    },
    {
     "speaker": "Anna",
     "text": "Faasse mir et zesummen. Wat solle sech d'Leit iwwer de Wunnengsportal mierken?",
-    "t": 230.13
+    "t": 217.64
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... logement Punkt public Punkt lu ass den zentrale Portal vum Wunnengsbauministère, fir Locatairen, Eegentümer a Gemengen.",
-    "t": 235.77
+    "t": 221.94
    },
    {
     "speaker": "Anna",
     "text": "Als zweetes... en erkläert d'Rechter vun de Locatairen an d'Lounhëllefen, wéi de Loyerszuschoss.",
-    "t": 242.96
+    "t": 229.79
    },
    {
     "speaker": "Tom",
     "text": "Als drëttes... en stellt d'Ënnerstëtzung fir de Kaf, de Bau an d'Renovéierung vun enger Wunneng duer.",
-    "t": 248.32
+    "t": 234.73
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... et gëtt eng zentral Ulafstell fir Wunnengshëllefen, an en nationale Schwong fir bezuelbare Wunnraum.",
-    "t": 253.27
+    "t": 239.34
    },
    {
     "speaker": "Tom",
     "text": "En Doheem ass méi wéi véier Maueren. Et ass Sécherheet, Wierdegkeet, an eng Plaz fir e Liewen opzebauen.",
-    "t": 259.62
+    "t": 245.5
    },
    {
     "speaker": "Anna",
-    "text": "A wëssen, wéi eng Hëllef et gëtt, kann dat fir vill Familljen e Stéck méi no bréngen.",
-    "t": 266.5
+    "text": "A wëssen, wéi eng Hëllef et gëtt, kann dat fir vill Familljen e Stéck méi no bréngen. Dat war eis Episod iwwer de Wunnengsportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 250.9
    },
    {
     "speaker": "Tom",
-    "text": "Villmools merci, datt Dir haut nogelauschtert hutt.",
-    "t": 271.5
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 299.85
    },
    {
     "speaker": "Anna",
-    "text": "Passt op Iech op, a bis an déi nächst Episod. Äddi!",
-    "t": 274.49
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 279.46
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 303.05
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 39,
@@ -92887,7 +93025,7 @@ const EPISODES = [
   "title": "The Luxembourg Space Agency – A Small Country Reaching for the Stars",
   "description": "What the Luxembourg Space Agency is and how Luxembourg became a space hub since 1985, the government support and pioneering space laws behind its growth, how space technology powers everyday life (navigation, communications, climate and disaster monitoring), the focus on doing space sustainably, and the jobs and inspiration it brings.",
   "audio": "podcast_space.mp3",
-  "duration": 312.05,
+  "duration": 328.46,
   "topics": [
    "Luxembourg in space",
    "A hub since 1985 (SES)",
@@ -92901,358 +93039,363 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's wonderful to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.73
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.77
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.88
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to discover the country.",
-    "t": 14.7
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today's topic might surprise you.",
-    "t": 21.45
+    "t": 27.49
    },
    {
     "speaker": "Tom",
     "text": "It's about Luxembourg... and space.",
-    "t": 24.47
+    "t": 29.51
    },
    {
     "speaker": "Anna",
-    "text": "Yes, space!",
-    "t": 27.6
-   },
-   {
-    "speaker": "Anna",
-    "text": "Satellites, rockets, the stars.",
-    "t": 29.91
+    "text": "Yes, space! Satellites, rockets, the stars.",
+    "t": 32.43
    },
    {
     "speaker": "Anna",
     "text": "It sounds like something for big countries only.",
-    "t": 33.35
+    "t": 35.74
    },
    {
     "speaker": "Tom",
     "text": "And yet, little Luxembourg is genuinely one of the world's space pioneers.",
-    "t": 36.76
+    "t": 38.4
    },
    {
     "speaker": "Anna",
     "text": "To guide this, there's the Luxembourg Space Agency.",
-    "t": 41.78
+    "t": 42.75
    },
    {
     "speaker": "Tom",
     "text": "So Anna, how did a small country end up in space?",
-    "t": 45.67
+    "t": 45.99
    },
    {
     "speaker": "Anna",
     "text": "The story starts back in 1985, when Luxembourg helped create a satellite company called SES.",
-    "t": 49.58
+    "t": 48.98
    },
    {
     "speaker": "Tom",
     "text": "SES became a world leader in beaming television and communications from space.",
-    "t": 56.62
+    "t": 56.07
    },
    {
     "speaker": "Anna",
     "text": "From that seed, a whole space sector has grown here over the decades.",
-    "t": 62.01
+    "t": 60.61
    },
    {
     "speaker": "Tom",
     "text": "And the numbers are striking.",
-    "t": 66.74
+    "t": 65.1
    },
    {
     "speaker": "Tom",
     "text": "In just over ten years, the sector has grown enormously.",
-    "t": 69.29
+    "t": 66.69
    },
    {
     "speaker": "Anna",
     "text": "From a handful of companies and a few hundred people, to dozens of companies and well over a thousand jobs.",
-    "t": 73.58
+    "t": 70.26
    },
    {
     "speaker": "Tom",
     "text": "That growth came from strong government support, and a pioneering legal framework.",
-    "t": 80.31
+    "t": 77.19
    },
    {
     "speaker": "Anna",
     "text": "Luxembourg was one of the first countries in Europe to make clear laws about activities in space.",
-    "t": 85.59
+    "t": 81.47
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what does the Space Agency actually do?",
-    "t": 91.64
+    "t": 87.5
    },
    {
     "speaker": "Anna",
-    "text": "It develops and supports Luxembourg's space sector... helping companies, funding, and talent.",
-    "t": 95.61
+    "text": "It develops and supports Luxembourg's space sector... helping companies, funding, and talent, for example through its national programme, LuxImpulse.",
+    "t": 90.78
    },
    {
     "speaker": "Tom",
     "text": "It works to attract space businesses to set up here, and to help local ones grow.",
-    "t": 102.07
+    "t": 101.65
    },
    {
     "speaker": "Anna",
-    "text": "And it connects Luxembourg to the big players, like the European Space Agency.",
-    "t": 107.31
+    "text": "And it connects Luxembourg to the big players, like the European Space Agency, which Luxembourg joined in 2005.",
+    "t": 106.02
    },
    {
     "speaker": "Tom",
     "text": "Now, you might be thinking... that's nice, but what has space got to do with my daily life?",
-    "t": 112.71
+    "t": 113.45
    },
    {
     "speaker": "Anna",
     "text": "Far more than you'd imagine!",
-    "t": 118.39
+    "t": 118.71
    },
    {
     "speaker": "Anna",
     "text": "Space quietly powers things we use every single day.",
-    "t": 120.9
+    "t": 120.51
    },
    {
     "speaker": "Tom",
     "text": "Think of the satellite navigation that guides your car, your bus, your delivery.",
-    "t": 124.94
+    "t": 123.96
    },
    {
     "speaker": "Anna",
     "text": "Think of weather forecasts, and the television and communications that reach remote places.",
-    "t": 130.23
+    "t": 128.33
    },
    {
     "speaker": "Tom",
     "text": "Satellites also watch over the Earth... tracking the climate, pollution, forests, and floods.",
-    "t": 136.34
+    "t": 133.92
    },
    {
     "speaker": "Anna",
     "text": "So space technology helps protect the environment, and respond to disasters.",
-    "t": 142.15
+    "t": 139.45
    },
    {
     "speaker": "Tom",
     "text": "It even helps farmers, by monitoring crops from above, as we mentioned in our agriculture episode.",
-    "t": 147.73
+    "t": 144.28
    },
    {
     "speaker": "Anna",
     "text": "And research in space can advance medicine and new materials back here on Earth.",
-    "t": 154.28
+    "t": 150.05
    },
    {
     "speaker": "Tom",
     "text": "So space isn't escapism.",
-    "t": 159.5
+    "t": 154.93
    },
    {
     "speaker": "Tom",
     "text": "It's a practical tool that improves life on the ground.",
-    "t": 162.25
+    "t": 156.76
    },
    {
     "speaker": "Anna",
     "text": "There's also a thoughtful side to Luxembourg's space strategy... sustainability.",
-    "t": 166.05
+    "t": 159.76
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 171.31
-   },
-   {
-    "speaker": "Tom",
-    "text": "It's not only about going to space, but doing it responsibly.",
-    "t": 172.97
+    "text": "Yes. It's not only about going to space, but doing it responsibly.",
+    "t": 164.73
    },
    {
     "speaker": "Anna",
     "text": "That means keeping space usable for future generations, and using space to solve challenges on Earth.",
-    "t": 177.44
+    "t": 168.8
    },
    {
     "speaker": "Tom",
     "text": "It's a mature way to think about a powerful new frontier.",
-    "t": 184.01
+    "t": 174.89
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about why this matters for ordinary residents, beyond the wonder of it.",
-    "t": 188.07
+    "t": 177.99
    },
    {
     "speaker": "Tom",
-    "text": "First, jobs.",
-    "t": 193.42
-   },
-   {
-    "speaker": "Tom",
-    "text": "The space sector creates skilled, future-facing jobs right here.",
-    "t": 195.82
+    "text": "First, jobs. The space sector creates skilled, future-facing jobs right here.",
+    "t": 182.82
    },
    {
     "speaker": "Anna",
     "text": "Second, the economy.",
-    "t": 200.26
+    "t": 188.23
    },
    {
     "speaker": "Anna",
     "text": "It diversifies the country, so it doesn't depend on just one industry.",
-    "t": 202.77
+    "t": 190.03
    },
    {
     "speaker": "Tom",
-    "text": "Third, services.",
-    "t": 207.7
-   },
-   {
-    "speaker": "Tom",
-    "text": "The technologies improve navigation, communications, weather and climate monitoring.",
-    "t": 210.16
+    "text": "Third, services. The technologies improve navigation, communications, weather and climate monitoring.",
+    "t": 194.26
    },
    {
     "speaker": "Anna",
     "text": "And fourth, inspiration.",
-    "t": 215.74
+    "t": 201.74
    },
    {
     "speaker": "Anna",
     "text": "It shows young people that, from Luxembourg, you really can reach for the stars.",
-    "t": 218.46
+    "t": 203.83
    },
    {
     "speaker": "Tom",
     "text": "That last one matters.",
-    "t": 223.79
+    "t": 208.94
    },
    {
     "speaker": "Tom",
     "text": "A child here can dream of a career in space, and find it on their doorstep.",
-    "t": 226.28
+    "t": 210.22
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 231.1
+    "t": 214.91
    },
    {
     "speaker": "Anna",
     "text": "What can people take from this?",
-    "t": 233.47
+    "t": 216.44
    },
    {
     "speaker": "Tom",
     "text": "First, know that Luxembourg is a real hub for the space industry, supported by its Space Agency.",
-    "t": 236.07
+    "t": 218.46
    },
    {
     "speaker": "Anna",
     "text": "Second, remember that space technology powers everyday things, from navigation to climate monitoring.",
-    "t": 242.31
+    "t": 224.4
    },
    {
     "speaker": "Tom",
     "text": "Third, if you, or your children, love science and technology, this is a growing world with opportunities here.",
-    "t": 249.42
+    "t": 231.57
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it together.",
-    "t": 256.15
+    "t": 238.54
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about the Luxembourg Space Agency?",
-    "t": 258.45
+    "t": 239.91
    },
    {
     "speaker": "Tom",
     "text": "First... it develops and supports Luxembourg's space sector, which has grown remarkably since the 1980s.",
-    "t": 262.45
+    "t": 243.64
    },
    {
     "speaker": "Anna",
     "text": "Second... that growth came from government support and pioneering space laws.",
-    "t": 269.49
+    "t": 250.88
    },
    {
     "speaker": "Tom",
     "text": "Third... space quietly powers daily life, from navigation and communications to climate and disaster monitoring.",
-    "t": 274.73
+    "t": 255.98
    },
    {
     "speaker": "Anna",
     "text": "And fourth... Luxembourg's strategy stresses doing space sustainably and responsibly.",
-    "t": 281.88
+    "t": 262.98
    },
    {
     "speaker": "Tom",
     "text": "It's a beautiful thought.",
-    "t": 288.37
+    "t": 268.36
    },
    {
     "speaker": "Tom",
     "text": "A tiny country, looking up, and helping shape humanity's future among the stars.",
-    "t": 290.79
+    "t": 269.89
    },
    {
     "speaker": "Anna",
     "text": "And bringing real jobs, services and inspiration back down to Earth.",
-    "t": 296.45
-   },
-   {
-    "speaker": "Tom",
-    "text": "Thank you so much for listening today.",
-    "t": 301.47
+    "t": 274.68
    },
    {
     "speaker": "Anna",
-    "text": "Take care, keep looking up, and see you in the next episode.",
-    "t": 304.46
+    "text": "That was our episode about the Luxembourg Space Agency.",
+    "t": 279.5
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 308.84
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 282.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 291.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 310.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 316.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 318.97
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 310.37
+    "text": "Thank you, everyone.",
+    "t": 323.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 324.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 326.86
    }
   ],
   "questions": [
@@ -93455,986 +93598,995 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_space_fr.mp3",
-  "duration_fr": 340.68,
+  "duration_fr": 330.11,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "C'est un plaisir de vous avoir avec nous aujourd'hui.",
-    "t": 3.09
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.71
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 9.28
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme qui parle du vivre-ensemble au Luxembourg.",
-    "t": 12.75
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les frontaliers, à découvrir le pays.",
-    "t": 16.72
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui pourrait bien vous surprendre.",
-    "t": 23.29
+    "t": 23.07
    },
    {
     "speaker": "Tom",
     "text": "Il s'agit du Luxembourg... et de l'espace.",
-    "t": 26.69
+    "t": 25.83
    },
    {
     "speaker": "Anna",
-    "text": "Oui, l'espace !",
-    "t": 30.13
-   },
-   {
-    "speaker": "Anna",
-    "text": "Les satellites, les fusées, les étoiles.",
-    "t": 32.39
+    "text": "Oui, l'espace ! Les satellites, les fusées, les étoiles.",
+    "t": 28.47
    },
    {
     "speaker": "Anna",
     "text": "On dirait quelque chose réservé aux grands pays.",
-    "t": 36.15
+    "t": 32.76
    },
    {
     "speaker": "Tom",
     "text": "Et pourtant, le petit Luxembourg est véritablement l'un des pionniers du spatial dans le monde.",
-    "t": 39.54
+    "t": 35.24
    },
    {
     "speaker": "Anna",
     "text": "Pour guider tout cela, il y a l'Agence spatiale luxembourgeoise.",
-    "t": 44.89
+    "t": 40.48
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, comment un petit pays s'est-il retrouvé dans l'espace ?",
-    "t": 49.6
+    "t": 43.96
    },
    {
     "speaker": "Anna",
     "text": "L'histoire commence en 1985, lorsque le Luxembourg a contribué à créer une société de satellites appelée SES.",
-    "t": 54.04
+    "t": 47.88
    },
    {
     "speaker": "Tom",
     "text": "SES est devenue un leader mondial de la diffusion de la télévision et des communications depuis l'espace.",
-    "t": 61.91
+    "t": 54.96
    },
    {
     "speaker": "Anna",
     "text": "À partir de cette graine, tout un secteur spatial s'est développé ici au fil des décennies.",
-    "t": 67.84
+    "t": 61.09
    },
    {
     "speaker": "Tom",
     "text": "Et les chiffres sont impressionnants.",
-    "t": 73.76
+    "t": 65.58
    },
    {
     "speaker": "Tom",
     "text": "En un peu plus de dix ans, le secteur a connu une croissance énorme.",
-    "t": 76.29
+    "t": 67.39
    },
    {
     "speaker": "Anna",
     "text": "D'une poignée d'entreprises et de quelques centaines de personnes, à des dizaines d'entreprises et bien plus de mille emplois.",
-    "t": 80.85
+    "t": 71.22
    },
    {
     "speaker": "Tom",
     "text": "Cette croissance est née d'un fort soutien du gouvernement, et d'un cadre juridique pionnier.",
-    "t": 87.58
+    "t": 77.38
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg a été l'un des premiers pays d'Europe à établir des lois claires sur les activités dans l'espace.",
-    "t": 92.75
+    "t": 82.57
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, que fait concrètement l'Agence spatiale ?",
-    "t": 99.15
+    "t": 87.8
    },
    {
     "speaker": "Anna",
-    "text": "Elle développe et soutient le secteur spatial luxembourgeois... en aidant les entreprises, le financement et les talents.",
-    "t": 102.88
+    "text": "Elle développe et soutient le secteur spatial luxembourgeois... en aidant les entreprises, le financement et les talents, par exemple à travers son programme national, LuxImpulse.",
+    "t": 91.3
    },
    {
     "speaker": "Tom",
     "text": "Elle s'efforce d'attirer des entreprises spatiales pour qu'elles s'installent ici, et d'aider celles déjà présentes à grandir.",
-    "t": 110.05
+    "t": 100.77
    },
    {
     "speaker": "Anna",
-    "text": "Et elle relie le Luxembourg aux grands acteurs, comme l'Agence spatiale européenne.",
-    "t": 116.58
+    "text": "Et elle relie le Luxembourg aux grands acteurs, comme l'Agence spatiale européenne, dont le Luxembourg est membre depuis 2005.",
+    "t": 107.56
    },
    {
     "speaker": "Tom",
     "text": "Maintenant, vous vous dites peut-être... c'est bien joli, mais qu'est-ce que l'espace a à voir avec ma vie de tous les jours ?",
-    "t": 122
+    "t": 114.35
    },
    {
     "speaker": "Anna",
     "text": "Bien plus que vous ne l'imaginez !",
-    "t": 128.48
+    "t": 120.18
    },
    {
     "speaker": "Anna",
     "text": "L'espace alimente discrètement des choses que nous utilisons chaque jour.",
-    "t": 131.12
+    "t": 121.93
    },
    {
     "speaker": "Tom",
     "text": "Pensez à la navigation par satellite qui guide votre voiture, votre bus, votre livraison.",
-    "t": 135.88
+    "t": 125.51
    },
    {
     "speaker": "Anna",
     "text": "Pensez aux prévisions météo, et à la télévision et aux communications qui atteignent les endroits reculés.",
-    "t": 141.76
+    "t": 131.08
    },
    {
     "speaker": "Tom",
     "text": "Les satellites veillent aussi sur la Terre... suivant le climat, la pollution, les forêts et les inondations.",
-    "t": 148.27
+    "t": 136.24
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, la technologie spatiale aide à protéger l'environnement, et à réagir aux catastrophes.",
-    "t": 154.62
+    "t": 143.09
    },
    {
     "speaker": "Tom",
     "text": "Elle aide même les agriculteurs, en surveillant les cultures depuis le ciel, comme nous l'avons évoqué dans notre épisode sur l'agriculture.",
-    "t": 160.91
+    "t": 148.34
    },
    {
     "speaker": "Anna",
     "text": "Et la recherche dans l'espace peut faire progresser la médecine et de nouveaux matériaux ici, sur Terre.",
-    "t": 168.48
+    "t": 155.48
    },
    {
     "speaker": "Tom",
     "text": "L'espace n'est donc pas une fuite.",
-    "t": 174.5
+    "t": 160.19
    },
    {
     "speaker": "Tom",
     "text": "C'est un outil pratique qui améliore la vie au sol.",
-    "t": 177.32
+    "t": 161.98
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi une dimension réfléchie dans la stratégie spatiale du Luxembourg... la durabilité.",
-    "t": 180.82
+    "t": 165.22
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 187.06
-   },
-   {
-    "speaker": "Tom",
-    "text": "Il ne s'agit pas seulement d'aller dans l'espace, mais de le faire de manière responsable.",
-    "t": 188.53
+    "text": "Oui. Il ne s'agit pas seulement d'aller dans l'espace, mais de le faire de manière responsable.",
+    "t": 170.41
    },
    {
     "speaker": "Anna",
     "text": "Cela signifie garder l'espace utilisable pour les générations futures, et utiliser l'espace pour résoudre des défis sur Terre.",
-    "t": 193.68
+    "t": 175.49
    },
    {
     "speaker": "Tom",
     "text": "C'est une manière mûre d'envisager une nouvelle frontière puissante.",
-    "t": 201.54
+    "t": 181.71
    },
    {
     "speaker": "Anna",
     "text": "Parlons de la raison pour laquelle cela compte pour les résidents ordinaires, au-delà de l'émerveillement.",
-    "t": 205.56
+    "t": 185.23
    },
    {
     "speaker": "Tom",
     "text": "D'abord, les emplois.",
-    "t": 211.36
+    "t": 189.78
    },
    {
     "speaker": "Tom",
     "text": "Le secteur spatial crée des emplois qualifiés et tournés vers l'avenir, ici même.",
-    "t": 213.86
+    "t": 191.23
    },
    {
     "speaker": "Anna",
-    "text": "Ensuite, l'économie.",
-    "t": 219.06
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il diversifie le pays, pour qu'il ne dépende pas d'une seule industrie.",
-    "t": 221.68
+    "text": "Ensuite, l'économie. Il diversifie le pays, pour qu'il ne dépende pas d'une seule industrie.",
+    "t": 196.58
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, les services.",
-    "t": 226.32
+    "t": 201.42
    },
    {
     "speaker": "Tom",
     "text": "Les technologies améliorent la navigation, les communications, la météo et la surveillance du climat.",
-    "t": 229.09
+    "t": 203.38
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement, l'inspiration.",
-    "t": 235.4
+    "t": 209.21
    },
    {
     "speaker": "Anna",
     "text": "Cela montre aux jeunes que, depuis le Luxembourg, on peut vraiment viser les étoiles.",
-    "t": 238.4
+    "t": 211.24
    },
    {
     "speaker": "Tom",
     "text": "Ce dernier point compte.",
-    "t": 243.86
+    "t": 215.11
    },
    {
     "speaker": "Tom",
     "text": "Un enfant ici peut rêver d'une carrière dans l'espace, et la trouver à sa porte.",
-    "t": 246.24
+    "t": 216.61
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 251.16
+    "t": 220.92
    },
    {
     "speaker": "Anna",
     "text": "Que peut-on en retenir ?",
-    "t": 253.49
+    "t": 222.26
    },
    {
     "speaker": "Tom",
     "text": "D'abord, sachez que le Luxembourg est un véritable pôle de l'industrie spatiale, soutenu par son Agence spatiale.",
-    "t": 255.78
+    "t": 223.69
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, souvenez-vous que la technologie spatiale alimente des choses du quotidien, de la navigation à la surveillance du climat.",
-    "t": 262.91
+    "t": 230.22
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, si vous, ou vos enfants, aimez la science et la technologie, c'est un univers en plein essor avec des opportunités ici.",
-    "t": 270.86
+    "t": 236.3
    },
    {
     "speaker": "Anna",
-    "text": "Récapitulons.",
-    "t": 278.81
-   },
-   {
-    "speaker": "Anna",
-    "text": "Que faut-il retenir de l'Agence spatiale luxembourgeoise ?",
-    "t": 280.85
+    "text": "Récapitulons. Que faut-il retenir de l'Agence spatiale luxembourgeoise ?",
+    "t": 244.29
    },
    {
     "speaker": "Tom",
     "text": "D'abord... elle développe et soutient le secteur spatial luxembourgeois, qui a remarquablement grandi depuis les années 1980.",
-    "t": 285.07
+    "t": 248.86
    },
    {
     "speaker": "Anna",
     "text": "Ensuite... cette croissance est née du soutien du gouvernement et de lois spatiales pionnières.",
-    "t": 292.65
+    "t": 256.15
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... l'espace alimente discrètement la vie quotidienne, de la navigation et des communications au suivi du climat et des catastrophes.",
-    "t": 298.35
+    "t": 260.6
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... la stratégie du Luxembourg insiste sur le fait de pratiquer le spatial de manière durable et responsable.",
-    "t": 306.33
+    "t": 268.75
    },
    {
     "speaker": "Tom",
     "text": "C'est une belle pensée.",
-    "t": 313.88
+    "t": 275.17
    },
    {
     "speaker": "Tom",
     "text": "Un tout petit pays, qui lève les yeux, et qui contribue à façonner l'avenir de l'humanité parmi les étoiles.",
-    "t": 316.08
+    "t": 276.61
    },
    {
     "speaker": "Anna",
     "text": "Tout en ramenant de vrais emplois, des services et de l'inspiration ici, sur Terre.",
-    "t": 322.65
-   },
-   {
-    "speaker": "Tom",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 328.16
+    "t": 282.72
    },
    {
     "speaker": "Anna",
-    "text": "Prenez soin de vous, continuez de regarder vers le ciel, et à bientôt dans le prochain épisode.",
-    "t": 331.4
+    "text": "C'était notre épisode sur la Luxembourg Space Agency.",
+    "t": 287.03
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 337.55
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 289.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 297.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 313.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 318.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 320.27
    },
    {
     "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 339.17
+    "text": "Merci à tous.",
+    "t": 324.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 325.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 328.34
    }
   ],
   "audio_de": "podcast_space_de.mp3",
-  "duration_de": 381.5,
+  "duration_de": 373.68,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Schön, dass Sie heute bei uns sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.44
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.51
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 11.9
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnerinnen und Einwohnern, und auch den Grenzgängern, helfen, das Land zu entdecken.",
-    "t": 16.28
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema könnte Sie überraschen.",
-    "t": 25.01
+    "t": 27.86
    },
    {
     "speaker": "Tom",
     "text": "Es geht um Luxemburg... und um den Weltraum.",
-    "t": 28.36
+    "t": 30.32
    },
    {
     "speaker": "Anna",
     "text": "Ja, der Weltraum!",
-    "t": 31.91
+    "t": 33.39
    },
    {
     "speaker": "Anna",
     "text": "Satelliten, Raketen, die Sterne.",
-    "t": 34.44
+    "t": 34.9
    },
    {
     "speaker": "Anna",
     "text": "Das klingt nach etwas nur für große Länder.",
-    "t": 38.19
+    "t": 37.84
    },
    {
     "speaker": "Tom",
     "text": "Und doch ist das kleine Luxemburg wirklich einer der Raumfahrtpioniere der Welt.",
-    "t": 41.61
+    "t": 40.34
    },
    {
     "speaker": "Anna",
     "text": "Um das zu lenken, gibt es die Luxemburgische Raumfahrtagentur.",
-    "t": 46.65
+    "t": 44.97
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wie ist ein kleines Land im Weltraum gelandet?",
-    "t": 51.74
+    "t": 48.68
    },
    {
     "speaker": "Anna",
     "text": "Die Geschichte beginnt im Jahr 1985, als Luxemburg mithalf, ein Satellitenunternehmen namens SES zu gründen.",
-    "t": 56.46
+    "t": 52.17
    },
    {
     "speaker": "Tom",
     "text": "SES wurde zu einem Weltmarktführer für die Übertragung von Fernsehen und Kommunikation aus dem Weltraum.",
-    "t": 65.97
+    "t": 60.35
    },
    {
     "speaker": "Anna",
     "text": "Aus diesem Samen ist hier über die Jahrzehnte ein ganzer Raumfahrtsektor gewachsen.",
-    "t": 73.06
+    "t": 67.38
    },
    {
     "speaker": "Tom",
     "text": "Und die Zahlen sind beeindruckend.",
-    "t": 78.63
+    "t": 72.21
    },
    {
     "speaker": "Tom",
     "text": "In etwas mehr als zehn Jahren ist der Sektor enorm gewachsen.",
-    "t": 81.47
+    "t": 74.23
    },
    {
     "speaker": "Anna",
     "text": "Von einer Handvoll Unternehmen und ein paar hundert Menschen zu Dutzenden von Unternehmen und weit über tausend Arbeitsplätzen.",
-    "t": 85.89
+    "t": 78.18
    },
    {
     "speaker": "Tom",
     "text": "Dieses Wachstum entstand aus starker staatlicher Unterstützung und einem wegweisenden Rechtsrahmen.",
-    "t": 94.15
+    "t": 85.17
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg war eines der ersten Länder in Europa, das klare Gesetze über Aktivitäten im Weltraum erlassen hat.",
-    "t": 100.28
+    "t": 91.05
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was macht die Raumfahrtagentur eigentlich?",
-    "t": 108.37
+    "t": 97.72
    },
    {
     "speaker": "Anna",
-    "text": "Sie entwickelt und unterstützt den luxemburgischen Raumfahrtsektor... sie hilft Unternehmen, mit Finanzierung und mit Talenten.",
-    "t": 112.48
+    "text": "Sie entwickelt und unterstützt den luxemburgischen Raumfahrtsektor... sie hilft Unternehmen, mit Finanzierung und mit Talenten, zum Beispiel über ihr nationales Programm LuxImpulse.",
+    "t": 100.84
    },
    {
     "speaker": "Tom",
     "text": "Sie arbeitet daran, Raumfahrtunternehmen anzuziehen, damit sie sich hier ansiedeln, und den hiesigen beim Wachsen zu helfen.",
-    "t": 121.03
+    "t": 111.62
    },
    {
     "speaker": "Anna",
-    "text": "Und sie verbindet Luxemburg mit den großen Akteuren, wie der Europäischen Weltraumorganisation.",
-    "t": 128.71
+    "text": "Und sie verbindet Luxemburg mit den großen Akteuren, wie der Europäischen Weltraumorganisation, der Luxemburg 2005 beigetreten ist.",
+    "t": 118.47
    },
    {
     "speaker": "Tom",
     "text": "Nun denken Sie vielleicht... das ist ja schön, aber was hat der Weltraum mit meinem Alltag zu tun?",
-    "t": 135.6
+    "t": 127.21
    },
    {
     "speaker": "Anna",
     "text": "Weit mehr, als Sie sich vorstellen!",
-    "t": 141.75
+    "t": 133.11
    },
    {
     "speaker": "Anna",
     "text": "Der Weltraum treibt ganz unauffällig Dinge an, die wir jeden Tag nutzen.",
-    "t": 145.01
+    "t": 135.21
    },
    {
     "speaker": "Tom",
     "text": "Denken Sie an die Satellitennavigation, die Ihr Auto, Ihren Bus, Ihre Lieferung leitet.",
-    "t": 150.48
+    "t": 139.33
    },
    {
     "speaker": "Anna",
     "text": "Denken Sie an die Wettervorhersage und an Fernsehen und Kommunikation, die abgelegene Orte erreichen.",
-    "t": 156.72
+    "t": 144.94
    },
    {
     "speaker": "Tom",
     "text": "Satelliten wachen auch über die Erde... sie beobachten das Klima, die Verschmutzung, die Wälder und die Überschwemmungen.",
-    "t": 164.02
+    "t": 150.81
    },
    {
     "speaker": "Anna",
     "text": "So hilft die Raumfahrttechnologie, die Umwelt zu schützen und auf Katastrophen zu reagieren.",
-    "t": 171.49
+    "t": 157.82
    },
    {
     "speaker": "Tom",
     "text": "Sie hilft sogar den Landwirten, indem sie die Felder von oben überwacht, wie wir in unserer Folge über die Landwirtschaft erwähnt haben.",
-    "t": 178.11
+    "t": 162.89
    },
    {
     "speaker": "Anna",
     "text": "Und die Forschung im Weltraum kann die Medizin und neue Materialien hier auf der Erde voranbringen.",
-    "t": 186.39
+    "t": 169.92
    },
    {
     "speaker": "Tom",
     "text": "Der Weltraum ist also keine Flucht.",
-    "t": 193.19
+    "t": 175.33
    },
    {
     "speaker": "Tom",
     "text": "Er ist ein praktisches Werkzeug, das das Leben am Boden verbessert.",
-    "t": 196.27
+    "t": 177.68
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch eine durchdachte Seite an Luxemburgs Raumfahrtstrategie... die Nachhaltigkeit.",
-    "t": 201
+    "t": 181.8
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 207.55
-   },
-   {
-    "speaker": "Tom",
-    "text": "Es geht nicht nur darum, in den Weltraum zu gehen, sondern es verantwortungsvoll zu tun.",
-    "t": 209.04
+    "text": "Ja. Es geht nicht nur darum, in den Weltraum zu gehen, sondern es verantwortungsvoll zu tun.",
+    "t": 187.52
    },
    {
     "speaker": "Anna",
     "text": "Das bedeutet, den Weltraum für künftige Generationen nutzbar zu halten und den Weltraum zu nutzen, um Herausforderungen auf der Erde zu lösen.",
-    "t": 214.84
+    "t": 192.78
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine reife Art, über eine mächtige neue Grenze nachzudenken.",
-    "t": 224.72
+    "t": 201.23
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir darüber, warum das für ganz normale Einwohner wichtig ist, über das Staunen hinaus.",
-    "t": 229.58
+    "t": 205.54
    },
    {
     "speaker": "Tom",
-    "text": "Erstens, Arbeitsplätze.",
-    "t": 236.42
-   },
-   {
-    "speaker": "Tom",
-    "text": "Der Raumfahrtsektor schafft qualifizierte, zukunftsorientierte Arbeitsplätze direkt hier.",
-    "t": 239.18
+    "text": "Erstens, Arbeitsplätze. Der Raumfahrtsektor schafft qualifizierte, zukunftsorientierte Arbeitsplätze direkt hier.",
+    "t": 211.25
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, die Wirtschaft.",
-    "t": 245.22
+    "t": 218.65
    },
    {
     "speaker": "Anna",
     "text": "Er diversifiziert das Land, damit es nicht von nur einer Branche abhängt.",
-    "t": 248.04
+    "t": 220.59
    },
    {
     "speaker": "Tom",
-    "text": "Drittens, Dienstleistungen.",
-    "t": 253.43
-   },
-   {
-    "speaker": "Tom",
-    "text": "Die Technologien verbessern Navigation, Kommunikation, Wetter und Klimaüberwachung.",
-    "t": 256.36
+    "text": "Drittens, Dienstleistungen. Die Technologien verbessern Navigation, Kommunikation, Wetter und Klimaüberwachung.",
+    "t": 224.87
    },
    {
     "speaker": "Anna",
     "text": "Und viertens, Inspiration.",
-    "t": 262.38
+    "t": 232.51
    },
    {
     "speaker": "Anna",
     "text": "Sie zeigt jungen Menschen, dass man von Luxemburg aus wirklich nach den Sternen greifen kann.",
-    "t": 265.44
+    "t": 235.07
    },
    {
     "speaker": "Tom",
     "text": "Dieser letzte Punkt zählt.",
-    "t": 271.64
+    "t": 239.96
    },
    {
     "speaker": "Tom",
     "text": "Ein Kind hier kann von einer Laufbahn in der Raumfahrt träumen und sie direkt vor der Haustür finden.",
-    "t": 274.12
+    "t": 241.69
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es konkret.",
-    "t": 280.32
+    "t": 247.23
    },
    {
     "speaker": "Anna",
     "text": "Was können die Menschen daraus mitnehmen?",
-    "t": 282.69
+    "t": 248.79
    },
    {
     "speaker": "Tom",
     "text": "Erstens: Wissen Sie, dass Luxemburg ein echter Knotenpunkt für die Raumfahrtindustrie ist, getragen von seiner Raumfahrtagentur.",
-    "t": 286.05
+    "t": 251.2
    },
    {
     "speaker": "Anna",
     "text": "Zweitens: Denken Sie daran, dass die Raumfahrttechnologie alltägliche Dinge antreibt, von der Navigation bis zur Klimaüberwachung.",
-    "t": 294.49
+    "t": 259.25
    },
    {
     "speaker": "Tom",
     "text": "Drittens: Wenn Sie, oder Ihre Kinder, Wissenschaft und Technik lieben, ist dies eine wachsende Welt mit Chancen hier.",
-    "t": 303.75
+    "t": 267.24
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir es zusammen.",
-    "t": 311.41
+    "t": 274.64
    },
    {
     "speaker": "Anna",
     "text": "Woran sollten sich die Menschen bei der Luxemburgischen Raumfahrtagentur erinnern?",
-    "t": 313.88
+    "t": 276.07
    },
    {
     "speaker": "Tom",
     "text": "Erstens... sie entwickelt und unterstützt den luxemburgischen Raumfahrtsektor, der seit den 1980er-Jahren bemerkenswert gewachsen ist.",
-    "t": 319.45
+    "t": 280.39
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... dieses Wachstum entstand aus staatlicher Unterstützung und wegweisenden Weltraumgesetzen.",
-    "t": 328.56
+    "t": 288.72
    },
    {
     "speaker": "Tom",
     "text": "Drittens... der Weltraum treibt unauffällig den Alltag an, von Navigation und Kommunikation bis zur Klima- und Katastrophenüberwachung.",
-    "t": 335.66
+    "t": 295.12
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... Luxemburgs Strategie betont, Raumfahrt nachhaltig und verantwortungsvoll zu betreiben.",
-    "t": 344.84
+    "t": 303.7
    },
    {
     "speaker": "Tom",
     "text": "Das ist ein schöner Gedanke.",
-    "t": 352.79
+    "t": 310.72
    },
    {
     "speaker": "Tom",
     "text": "Ein winziges Land, das nach oben blickt und hilft, die Zukunft der Menschheit zwischen den Sternen zu gestalten.",
-    "t": 355.36
+    "t": 312.39
    },
    {
     "speaker": "Anna",
     "text": "Und das echte Arbeitsplätze, Dienstleistungen und Inspiration zurück auf die Erde bringt.",
-    "t": 362.54
-   },
-   {
-    "speaker": "Tom",
-    "text": "Vielen Dank, dass Sie heute zugehört haben.",
-    "t": 369.11
+    "t": 318.47
    },
    {
     "speaker": "Anna",
-    "text": "Passen Sie auf sich auf, blicken Sie weiter nach oben, und bis zur nächsten Folge.",
-    "t": 372.69
+    "text": "Das war unsere Folge über die Luxembourg Space Agency.",
+    "t": 324.05
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 378.46
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 327.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 336.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 354.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 360.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 362.89
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 379.95
+    "text": "Danke an alle.",
+    "t": 367.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 368.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 372.14
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, an häerzlech wëllkomm zréck! Et freet eis, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.73
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, d'Land z'entdecken.",
-    "t": 7.77
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An d'Thema vun haut kéint Iech iwwerraschen. Et geet ëm Lëtzebuerg... an ëm de Weltraum.",
-    "t": 21.45
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Jo, de Weltraum! Satellitten, Rakéiten, d'Stären. Dat kléngt no eppes nëmme fir grouss Länner.",
-    "t": 27.6
+    "t": 32.43
    },
    {
     "speaker": "Tom",
     "text": "An trotzdem ass dat klengt Lëtzebuerg wierklech ee vun de Weltraumpionéier vun der Welt.",
-    "t": 36.76
+    "t": 38.4
    },
    {
     "speaker": "Anna",
     "text": "Fir dat ze leeden, gëtt et d'Lëtzebuerger Raumfaartagence.",
-    "t": 41.78
+    "t": 42.75
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wéi ass e klengt Land am Weltraum gelant?",
-    "t": 45.67
+    "t": 45.99
    },
    {
     "speaker": "Anna",
     "text": "D'Geschicht fänkt am Joer 1985 un, wéi Lëtzebuerg gehollef huet, eng Satellittefirma mam Numm SES ze grënnen.",
-    "t": 49.58
+    "t": 48.98
    },
    {
     "speaker": "Tom",
     "text": "SES ass zu engem Weltleader fir d'Iwwerdroe vu Fernseh a Kommunikatioun aus dem Weltraum ginn.",
-    "t": 56.62
+    "t": 56.07
    },
    {
     "speaker": "Anna",
     "text": "Aus dësem Som ass hei iwwert d'Joerzéngte e ganze Raumfaartsekteur gewuess.",
-    "t": 62.01
+    "t": 60.61
    },
    {
     "speaker": "Tom",
     "text": "An d'Zuele si beandrockend. A just iwwer zéng Joer ass de Sekteur enorm gewuess.",
-    "t": 66.74
+    "t": 65.1
    },
    {
     "speaker": "Anna",
     "text": "Vun enger Handvoll Firmen an e puer honnert Leit, op Dosende vu Firmen a wäit iwwer dausend Aarbechtsplazen.",
-    "t": 73.58
+    "t": 70.26
    },
    {
     "speaker": "Tom",
     "text": "Dëse Wuesstem ass aus enger staarker Ënnerstëtzung vun der Regierung an aus engem wegweisende juristesche Kader entstanen.",
-    "t": 80.31
+    "t": 77.19
    },
    {
     "speaker": "Anna",
     "text": "Lëtzebuerg war ee vun den éischte Länner an Europa, dat kloer Gesetzer iwwer Aktivitéiten am Weltraum gemaach huet.",
-    "t": 85.59
+    "t": 81.47
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat mécht d'Raumfaartagence eigentlech?",
-    "t": 91.64
+    "t": 87.5
    },
    {
     "speaker": "Anna",
-    "text": "Si entwéckelt an ënnerstëtzt de Lëtzebuerger Raumfaartsekteur... si hëlleft de Firmen, mat Finanzéierung a mat Talenter.",
-    "t": 95.61
+    "text": "Si entwéckelt an ënnerstëtzt de Lëtzebuerger Raumfaartsekteur... si hëlleft de Firmen, mat Finanzéierung a mat Talenter, zum Beispill iwwer hiert nationaalt Programm LuxImpulse.",
+    "t": 90.78
    },
    {
     "speaker": "Tom",
     "text": "Si schafft drun, Raumfaartfirmen unzezéien, datt si sech hei néierloossen, an deenen hei ze hëllefen ze wuessen.",
-    "t": 102.07
+    "t": 101.65
    },
    {
     "speaker": "Anna",
-    "text": "A si verbënnt Lëtzebuerg mat de grousse Spiller, wéi der Europäescher Weltraumorganisatioun.",
-    "t": 107.31
+    "text": "A si verbënnt Lëtzebuerg mat de grousse Spiller, wéi der Europäescher Weltraumorganisatioun, där Lëtzebuerg 2005 bäigetrueden ass.",
+    "t": 106.02
    },
    {
     "speaker": "Tom",
     "text": "Elo denkt Dir vläicht... dat ass jo schéin, mä wat huet de Weltraum mat mengem Alldag ze dinn?",
-    "t": 112.71
+    "t": 113.45
    },
    {
     "speaker": "Anna",
     "text": "Vill méi, wéi Dir Iech virstellt! De Weltraum dreift ganz onopfälleg Saachen un, déi mir all Dag benotzen.",
-    "t": 118.39
+    "t": 118.71
    },
    {
     "speaker": "Tom",
     "text": "Denkt un d'Satellittennavigatioun, déi Är Auto, Äre Bus, Är Liwwerung féiert.",
-    "t": 124.94
+    "t": 123.96
    },
    {
     "speaker": "Anna",
     "text": "Denkt un d'Wiedervirhersoen, an un de Fernseh an d'Kommunikatioun, déi ofgeleeën Plazen erreechen.",
-    "t": 130.23
+    "t": 128.33
    },
    {
     "speaker": "Tom",
     "text": "Satellitte waachen och iwwert d'Äerd... si verfollegen d'Klima, d'Verschmotzung, d'Bëscher an d'Iwwerschwemmungen.",
-    "t": 136.34
+    "t": 133.92
    },
    {
     "speaker": "Anna",
     "text": "Sou hëlleft d'Raumfaarttechnologie, d'Ëmwelt ze schützen an op Katastrophen ze reagéieren.",
-    "t": 142.15
+    "t": 139.45
    },
    {
     "speaker": "Tom",
     "text": "Si hëlleft souguer de Baueren, andeems si d'Felder vu uewen iwwerwaacht, wéi mir an eiser Episod iwwert d'Landwirtschaft erwäänt hunn.",
-    "t": 147.73
+    "t": 144.28
    },
    {
     "speaker": "Anna",
     "text": "An d'Fuerschung am Weltraum kann d'Medezin an nei Materialien hei op der Äerd virubréngen.",
-    "t": 154.28
+    "t": 150.05
    },
    {
     "speaker": "Tom",
     "text": "De Weltraum ass also keng Flucht. Et ass e praktescht Instrument, dat d'Liewen um Buedem verbessert.",
-    "t": 159.5
+    "t": 154.93
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och eng duerchduechte Säit u Lëtzebuergs Raumfaartstrategie... d'Nohaltegkeet.",
-    "t": 166.05
+    "t": 159.76
    },
    {
     "speaker": "Tom",
     "text": "Jo. Et geet net nëmmen drëm, an de Weltraum ze goen, mä et verantwortungsvoll ze maachen.",
-    "t": 171.31
+    "t": 164.73
    },
    {
     "speaker": "Anna",
     "text": "Dat heescht, de Weltraum fir zukünfteg Generatioune benotzbar ze halen an de Weltraum ze notzen, fir Erausfuerderungen op der Äerd ze léisen.",
-    "t": 177.44
+    "t": 168.8
    },
    {
     "speaker": "Tom",
     "text": "Dat ass eng reife Manéier, iwwer eng mächteg nei Grenz nozedenken.",
-    "t": 184.01
+    "t": 174.89
    },
    {
     "speaker": "Anna",
     "text": "Schwätze mer doriwwer, firwat dat fir ganz normal Awunner wichteg ass, iwwert d'Staunen eraus.",
-    "t": 188.07
+    "t": 177.99
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, d'Aarbechtsplazen. De Raumfaartsekteur schaaft qualifizéiert, zukunftsorientéiert Aarbechtsplazen direkt hei.",
-    "t": 193.42
+    "t": 182.82
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, d'Wirtschaft. Hien diversifizéiert d'Land, fir datt et net nëmme vun enger eenzeger Branche ofhänkt.",
-    "t": 200.26
+    "t": 188.23
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, d'Servicer. D'Technologie verbessert d'Navigatioun, d'Kommunikatioun, d'Wieder an d'Klimaiwwerwaachung.",
-    "t": 207.7
+    "t": 194.26
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, d'Inspiratioun. Si weist de jonke Leit, datt een vu Lëtzebuerg aus wierklech no de Stäre gräife kann.",
-    "t": 215.74
+    "t": 201.74
    },
    {
     "speaker": "Tom",
     "text": "Dee leschte Punkt zielt. E Kand hei kann vun enger Carrière am Weltraum dreemen an se direkt virun der Dier fannen.",
-    "t": 223.79
+    "t": 208.94
    },
    {
     "speaker": "Anna",
     "text": "Maache mer et konkret. Wat kënnen d'Leit dovun mathuelen?",
-    "t": 231.1
+    "t": 214.91
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, wësst, datt Lëtzebuerg en echte Knuetpunkt fir d'Raumfaartindustrie ass, gedroe vu senger Raumfaartagence.",
-    "t": 236.07
+    "t": 218.46
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, denkt drun, datt d'Raumfaarttechnologie alldeeglech Saachen undreift, vun der Navigatioun bis zur Klimaiwwerwaachung.",
-    "t": 242.31
+    "t": 224.4
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, wann Dir, oder Är Kanner, d'Wëssenschaft an d'Technik gär hutt, ass dat eng wuessend Welt mat Chancen hei.",
-    "t": 249.42
+    "t": 231.57
    },
    {
     "speaker": "Anna",
     "text": "Faasse mer et zesummen. Wat sollen d'Leit sech iwwer d'Lëtzebuerger Raumfaartagence erënneren?",
-    "t": 256.15
+    "t": 238.54
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... si entwéckelt an ënnerstëtzt de Lëtzebuerger Raumfaartsekteur, deen zënter den 1980er Joren bemierkenswäert gewuess ass.",
-    "t": 262.45
+    "t": 243.64
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... dëse Wuesstem ass aus der Ënnerstëtzung vun der Regierung an aus wegweisende Weltraumgesetzer entstanen.",
-    "t": 269.49
+    "t": 250.88
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... de Weltraum dreift onopfälleg den Alldag un, vun der Navigatioun an der Kommunikatioun bis zur Klima- a Katastropheniwwerwaachung.",
-    "t": 274.73
+    "t": 255.98
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... Lëtzebuergs Strategie ënnersträicht, d'Raumfaart nohalteg a verantwortungsvoll ze bedreiwen.",
-    "t": 281.88
+    "t": 262.98
    },
    {
     "speaker": "Tom",
     "text": "Dat ass e schéine Gedanken. E ganz klengt Land, dat no uewe kuckt an hëlleft, d'Zukunft vun der Mënschheet tëschent de Stären ze gestalten.",
-    "t": 288.37
+    "t": 268.36
    },
    {
     "speaker": "Anna",
-    "text": "A dat echt Aarbechtsplazen, Servicer an Inspiratioun zréck op d'Äerd bréngt.",
-    "t": 296.45
+    "text": "A dat echt Aarbechtsplazen, Servicer an Inspiratioun zréck op d'Äerd bréngt. Dat war eis Episod iwwer d'Luxembourg Space Agency. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 274.68
    },
    {
     "speaker": "Tom",
-    "text": "Villmools Merci, datt Dir haut nogelauschtert hutt.",
-    "t": 301.47
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 323.66
    },
    {
     "speaker": "Anna",
-    "text": "Passt op Iech op, kuckt weider no uewen, a bis zur nächster Episod. Äddi!",
-    "t": 304.46
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 310.37
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 326.86
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 40,
@@ -94443,7 +94595,7 @@ const EPISODES = [
   "title": "Lifelong Learning – It's Never Too Late to Learn",
   "description": "What the lifelong-learning.lu portal is, run by the INFPC: a huge catalogue of continuing-training courses from approved providers (search by domain or by profession), the chance to earn diplomas as an adult, the validation of acquired experience (VAE), financial help such as paid training leave, a focus on digital, green and soft skills, and guidance with a skills audit.",
   "audio": "podcast_lll.mp3",
-  "duration": 585.41,
+  "duration": 579.47,
   "topics": [
    "The lifelong learning portal",
    "A huge catalogue of courses",
@@ -94457,633 +94609,643 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's lovely to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.62
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.66
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.77
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to grow and to find their place.",
-    "t": 14.59
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today's topic is full of hope... the idea that we never stop learning.",
-    "t": 21.81
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "School is just the beginning.",
-    "t": 26.62
+    "t": 32.42
    },
    {
     "speaker": "Anna",
     "text": "Learning can continue through our whole lives.",
-    "t": 29.15
+    "t": 34.08
    },
    {
     "speaker": "Tom",
     "text": "A new job, a promotion, a change of career, a new language, or simply a passion to follow.",
-    "t": 32.39
+    "t": 37
    },
    {
     "speaker": "Anna",
     "text": "Maybe you missed a diploma when you were younger.",
-    "t": 38.39
+    "t": 42.75
    },
    {
     "speaker": "Anna",
     "text": "Maybe your industry is changing.",
-    "t": 41.63
+    "t": 45.12
    },
    {
     "speaker": "Anna",
     "text": "Maybe you just moved here.",
-    "t": 44.34
+    "t": 47.09
    },
    {
     "speaker": "Tom",
     "text": "Whatever your story, there is a way forward.",
-    "t": 46.76
+    "t": 48.9
    },
    {
     "speaker": "Tom",
     "text": "And in Luxembourg, there's one place that brings it all together.",
-    "t": 50.2
+    "t": 51.4
    },
    {
     "speaker": "Anna",
     "text": "It's the lifelong learning portal.",
-    "t": 54.57
+    "t": 54.89
    },
    {
     "speaker": "Anna",
     "text": "The website is lifelong dash learning dot lu.",
-    "t": 57.32
+    "t": 57.06
    },
    {
     "speaker": "Tom",
     "text": "Its motto says it beautifully... \"develop your skills throughout life\".",
-    "t": 60.88
+    "t": 60.23
    },
    {
     "speaker": "Anna",
     "text": "So Tom, what exactly is this portal?",
-    "t": 66.29
+    "t": 64.99
    },
    {
     "speaker": "Tom",
     "text": "It's the national portal for continuing training, run by the institute for continuing vocational training, the INFPC.",
-    "t": 69.71
+    "t": 67.64
    },
    {
     "speaker": "Anna",
     "text": "And its heart is an enormous catalogue of training courses.",
-    "t": 77.33
+    "t": 75.66
    },
    {
     "speaker": "Tom",
-    "text": "We're talking about more than thirteen thousand courses, from hundreds of approved training providers.",
-    "t": 81.35
+    "text": "We're talking about more than ten thousand courses, from more than three hundred approved training providers.",
+    "t": 79.27
    },
    {
     "speaker": "Anna",
     "text": "All gathered in one place, so you don't have to search across the whole internet.",
-    "t": 87.15
+    "t": 86.12
    },
    {
     "speaker": "Tom",
     "text": "And because the providers are approved, you know the offer is serious and reliable.",
-    "t": 92.14
+    "t": 90.9
    },
    {
     "speaker": "Anna",
     "text": "You can also search it in clever ways... by subject, or by the job you'd like to do.",
-    "t": 97.49
+    "t": 95.28
    },
    {
     "speaker": "Tom",
     "text": "So you can start from what interests you, or from where you want your career to go.",
-    "t": 103.18
+    "t": 100.55
    },
    {
     "speaker": "Anna",
     "text": "What kinds of subjects are we talking about?",
-    "t": 108.26
+    "t": 105.05
    },
    {
     "speaker": "Tom",
-    "text": "All sorts!",
-    "t": 111.53
-   },
-   {
-    "speaker": "Tom",
-    "text": "Computers and technology, languages, business and human resources, finance and law.",
-    "t": 113.46
+    "text": "All sorts! Computers and technology, languages, business and human resources, finance and law.",
+    "t": 107.74
    },
    {
     "speaker": "Anna",
     "text": "And personal development, quality and safety, project management, and so much more.",
-    "t": 119.28
+    "t": 114.34
    },
    {
     "speaker": "Tom",
     "text": "Whatever you want to learn, there's a good chance you'll find a course for it.",
-    "t": 125.43
+    "t": 120.01
    },
    {
     "speaker": "Anna",
     "text": "The portal is built for three groups of people.",
-    "t": 129.82
+    "t": 124.14
    },
    {
     "speaker": "Anna",
     "text": "Let's go through them.",
-    "t": 133.22
+    "t": 127.03
    },
    {
     "speaker": "Tom",
     "text": "First, individuals... people like you and me, looking to learn or to grow.",
-    "t": 135.33
+    "t": 128.51
    },
    {
     "speaker": "Anna",
     "text": "Second, companies, who want to train their teams and keep their skills up to date.",
-    "t": 140.5
+    "t": 133.57
    },
    {
     "speaker": "Tom",
     "text": "And third, training professionals, the people and organisations who actually run the courses.",
-    "t": 145.96
+    "t": 139.18
    },
    {
     "speaker": "Anna",
     "text": "Let's focus on individuals first, because there's something powerful here.",
-    "t": 151.85
+    "t": 144.54
    },
    {
     "speaker": "Tom",
     "text": "As an adult, you can do far more than just take a short course.",
-    "t": 156.67
+    "t": 149.03
    },
    {
     "speaker": "Tom",
     "text": "You can earn real, recognised diplomas.",
-    "t": 161.09
+    "t": 152.45
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 164.62
-   },
-   {
-    "speaker": "Anna",
-    "text": "Through continuing training, adults can gain proper qualifications, step by step.",
-    "t": 166.3
+    "text": "Yes. Through continuing training, adults can gain proper qualifications, step by step.",
+    "t": 154.85
    },
    {
     "speaker": "Tom",
     "text": "There's even adult apprenticeship, where you learn a trade and earn a diploma later in life.",
-    "t": 172.14
+    "t": 160.6
    },
    {
     "speaker": "Anna",
     "text": "And there are routes to secondary school diplomas, technical certificates, and higher qualifications.",
-    "t": 177.54
+    "t": 165.3
    },
    {
     "speaker": "Tom",
     "text": "There's also the master craftsman's diploma, which lets skilled workers run their own business and train apprentices.",
-    "t": 184.31
+    "t": 171.5
    },
    {
     "speaker": "Anna",
     "text": "So if life meant you missed a qualification earlier, there's a real second chance to earn it now.",
-    "t": 190.95
+    "t": 178.38
    },
    {
     "speaker": "Tom",
     "text": "And that matters, because a diploma can open doors that stay closed without one.",
-    "t": 196.84
+    "t": 183.96
    },
    {
     "speaker": "Anna",
     "text": "Now here's something I find truly wonderful... the validation of experience.",
-    "t": 201.88
+    "t": 188.71
    },
    {
     "speaker": "Tom",
     "text": "This is for people who've learned a great deal through their work and their life, but have no diploma to show it.",
-    "t": 207.23
+    "t": 193.73
    },
    {
     "speaker": "Anna",
     "text": "Think of someone who has done a job expertly for fifteen years, but never had the paper to prove it.",
-    "t": 213.27
+    "t": 199.72
    },
    {
     "speaker": "Tom",
     "text": "Through this process, that real experience can be assessed and turned into an official diploma.",
-    "t": 219.45
+    "t": 206.09
    },
    {
     "speaker": "Anna",
     "text": "So years of skill and hard work can finally be recognised, formally, on paper.",
-    "t": 225.35
+    "t": 211.72
    },
    {
     "speaker": "Tom",
     "text": "It's a way of honouring what people already know, not just what they've sat exams for.",
-    "t": 231.24
+    "t": 217.11
    },
    {
     "speaker": "Tom",
     "text": "That's powerful.",
-    "t": 236.59
+    "t": 222.42
    },
    {
     "speaker": "Anna",
     "text": "Now, learning costs time, and sometimes money.",
-    "t": 238.72
+    "t": 223.44
    },
    {
     "speaker": "Anna",
     "text": "So let's talk about the help available.",
-    "t": 242.56
+    "t": 226.4
    },
    {
     "speaker": "Tom",
     "text": "For individuals, there are special kinds of paid leave, just for following training.",
-    "t": 245.56
+    "t": 228.71
    },
    {
     "speaker": "Anna",
-    "text": "The main one is individual training leave, which lets you take paid days off work to learn.",
-    "t": 251
+    "text": "The main one is individual training leave, which lets you take paid days off work to learn... up to eighty days over your career.",
+    "t": 233.19
    },
    {
     "speaker": "Tom",
-    "text": "There's also a special leave to learn a language, which is wonderful in a country with several.",
-    "t": 256.62
+    "text": "There's also a special language leave to learn Luxembourgish, which is wonderful for anyone who wants to feel more at home here.",
+    "t": 240.57
    },
    {
     "speaker": "Anna",
     "text": "So you can take time to study, without losing all of your income while you do it.",
-    "t": 262.08
+    "t": 246.97
    },
    {
     "speaker": "Tom",
     "text": "There's more, too.",
-    "t": 267.1
+    "t": 251.69
    },
    {
     "speaker": "Tom",
     "text": "Some training costs can be deducted from your taxes.",
-    "t": 269.43
+    "t": 252.79
    },
    {
     "speaker": "Anna",
     "text": "There's support for jobseekers who need training to get back into work.",
-    "t": 273.49
+    "t": 255.87
    },
    {
     "speaker": "Tom",
     "text": "And there are reduction vouchers that lower the price of certain courses.",
-    "t": 277.95
+    "t": 259.69
    },
    {
     "speaker": "Anna",
     "text": "So cost and time, the two big barriers, are made smaller by real, practical help.",
-    "t": 282.51
+    "t": 264.09
    },
    {
     "speaker": "Tom",
     "text": "And it's not only individuals who get support.",
-    "t": 288.61
+    "t": 269.2
    },
    {
     "speaker": "Tom",
     "text": "Companies do too.",
-    "t": 292.19
+    "t": 271.5
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 294.43
-   },
-   {
-    "speaker": "Anna",
-    "text": "The State helps co-finance the training that companies give their staff.",
-    "t": 296.11
+    "text": "Yes. The State helps co-finance the training that companies give their staff.",
+    "t": 272.88
    },
    {
     "speaker": "Tom",
     "text": "So businesses are encouraged to invest in their people, and the whole country gets more skilled.",
-    "t": 300.66
+    "t": 277.76
    },
    {
     "speaker": "Anna",
     "text": "It's a shared effort... the worker, the company, and the State, all investing in skills together.",
-    "t": 306.35
+    "t": 282.97
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about why this matters so much, right now.",
-    "t": 312.84
+    "t": 289.61
    },
    {
     "speaker": "Anna",
     "text": "The world is changing fast... new technologies, the green transition, new ways of working.",
-    "t": 316.7
+    "t": 292.17
    },
    {
     "speaker": "Tom",
     "text": "Jobs are changing, and some tasks that people do today will be done differently tomorrow.",
-    "t": 323.03
+    "t": 298.55
    },
    {
     "speaker": "Anna",
     "text": "The portal even highlights the skills of the future... digital skills, green skills, and soft skills.",
-    "t": 328.58
+    "t": 303.38
    },
    {
     "speaker": "Tom",
     "text": "Digital skills help us work with new tools.",
-    "t": 335.44
+    "t": 310.84
    },
    {
     "speaker": "Tom",
     "text": "Green skills help us work more sustainably.",
-    "t": 338.88
+    "t": 313.24
    },
    {
     "speaker": "Anna",
     "text": "And soft skills means things like communication, teamwork and adaptability... human skills that never go out of date.",
-    "t": 342.32
+    "t": 315.65
    },
    {
     "speaker": "Tom",
     "text": "Keeping our skills fresh is how we stay confident, employable, and open to new chances.",
-    "t": 349.92
+    "t": 323.65
    },
    {
     "speaker": "Anna",
     "text": "And it's not only about jobs.",
-    "t": 355.56
+    "t": 329.15
    },
    {
     "speaker": "Anna",
     "text": "There's real joy in learning something new at any age.",
-    "t": 358.31
+    "t": 331.16
    },
    {
     "speaker": "Tom",
     "text": "Learning a language to talk with new neighbours.",
-    "t": 362.15
+    "t": 334.6
    },
    {
     "speaker": "Tom",
     "text": "Picking up a craft.",
-    "t": 365.53
+    "t": 336.91
    },
    {
     "speaker": "Tom",
     "text": "Understanding the world a little better.",
-    "t": 367.7
+    "t": 338.18
    },
    {
     "speaker": "Anna",
     "text": "Now, some people feel a bit lost, and don't know where to start.",
-    "t": 370.88
+    "t": 340.21
    },
    {
     "speaker": "Anna",
     "text": "The portal helps with that too.",
-    "t": 375.52
+    "t": 343.83
    },
    {
     "speaker": "Tom",
     "text": "There's a service called a skills audit, to help you understand your strengths and what suits you.",
-    "t": 378.14
+    "t": 346.11
    },
    {
     "speaker": "Anna",
     "text": "It's like taking stock of everything you can do, and using that to choose a clear next step.",
-    "t": 383.62
+    "t": 351.5
    },
    {
     "speaker": "Tom",
     "text": "And there's guidance and support for people changing direction, or returning to work after a break.",
-    "t": 389.31
+    "t": 356.97
    },
    {
     "speaker": "Anna",
     "text": "There's even a national school for adults, for those who want to go back and study.",
-    "t": 395.15
+    "t": 362.81
    },
    {
     "speaker": "Tom",
     "text": "And second-chance routes, for people who left school early and want to pick up where they stopped.",
-    "t": 400.23
+    "t": 367.21
    },
    {
     "speaker": "Anna",
     "text": "So whatever your starting point, there's a path, and someone to help you find it.",
-    "t": 405.69
+    "t": 372.37
    },
    {
     "speaker": "Tom",
     "text": "The portal also connects to useful European tools, which are worth knowing about.",
-    "t": 410.98
+    "t": 377.31
    },
    {
     "speaker": "Anna",
     "text": "For example, Europass, a kind of European skills passport, to present your skills clearly across Europe.",
-    "t": 416.22
+    "t": 381.74
    },
    {
     "speaker": "Tom",
     "text": "And common frameworks that make your language level, or your qualification, understandable in other countries.",
-    "t": 423.66
+    "t": 388.94
    },
    {
     "speaker": "Anna",
     "text": "That's really valuable in a country as international as Luxembourg, where careers often cross borders.",
-    "t": 430.28
+    "t": 394.73
    },
    {
     "speaker": "Tom",
     "text": "There's also a Training Observatory, which studies how training and the job market are changing.",
-    "t": 437.01
+    "t": 401.23
    },
    {
     "speaker": "Anna",
     "text": "So the system keeps learning about itself, and improving, based on real evidence.",
-    "t": 442.69
+    "t": 406.86
    },
    {
     "speaker": "Tom",
     "text": "And if you simply want to stay informed, there's a newsletter about training news and opportunities.",
-    "t": 448.16
+    "t": 411.96
    },
    {
     "speaker": "Anna",
     "text": "Let's gently say something encouraging here, because this topic can stir up old doubts.",
-    "t": 454.04
+    "t": 417.44
    },
    {
     "speaker": "Tom",
     "text": "Many adults carry a quiet voice that says, \"I'm too old to learn\", or \"I was never good at school\".",
-    "t": 459.53
+    "t": 422.73
    },
    {
     "speaker": "Anna",
     "text": "But learning as an adult is different.",
-    "t": 465.44
+    "t": 429
    },
    {
     "speaker": "Anna",
     "text": "You bring experience, motivation, and a real reason to be there.",
-    "t": 468.36
+    "t": 431.15
    },
    {
     "speaker": "Tom",
     "text": "And you don't have to do it all at once.",
-    "t": 473.03
+    "t": 435.09
    },
    {
     "speaker": "Tom",
     "text": "One course, one step, one small skill at a time.",
-    "t": 476.07
+    "t": 437.09
    },
    {
     "speaker": "Anna",
     "text": "Every expert was once a beginner.",
-    "t": 480.09
+    "t": 440.74
    },
    {
     "speaker": "Anna",
     "text": "And every new skill is a door you open for your future self.",
-    "t": 482.97
+    "t": 443.16
    },
    {
     "speaker": "Tom",
     "text": "So let's make this really practical.",
-    "t": 487.19
+    "t": 447.19
    },
    {
     "speaker": "Tom",
     "text": "What can people do with all of this?",
-    "t": 490.23
+    "t": 449.37
    },
    {
     "speaker": "Anna",
     "text": "First, browse the catalogue at lifelong dash learning dot lu... search by subject, or by the job you want.",
-    "t": 493.09
+    "t": 451.7
    },
    {
     "speaker": "Tom",
     "text": "Second, if you have experience but no diploma, look into validating that experience.",
-    "t": 500.34
+    "t": 459.32
    },
    {
     "speaker": "Anna",
     "text": "Third, before you enrol, check the financial help, like training leave, tax deductions and vouchers.",
-    "t": 506.06
+    "t": 464.29
    },
    {
     "speaker": "Tom",
     "text": "And fourth, if you feel unsure where to begin, ask for a skills audit, or for guidance.",
-    "t": 513.11
+    "t": 470.82
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it all together.",
-    "t": 518.66
+    "t": 476.01
    },
    {
     "speaker": "Anna",
     "text": "What should people remember?",
-    "t": 521.1
+    "t": 477.56
    },
    {
     "speaker": "Tom",
     "text": "First... lifelong dash learning dot lu is Luxembourg's national portal for continuing training, run by the INFPC.",
-    "t": 523.43
+    "t": 479.3
    },
    {
     "speaker": "Anna",
     "text": "Second... it offers a huge catalogue of courses, and even routes to real, recognised diplomas as an adult.",
-    "t": 530.94
+    "t": 487.24
    },
    {
     "speaker": "Tom",
     "text": "Third... you can validate your life experience into a diploma, and get financial help, including paid training leave.",
-    "t": 538.49
+    "t": 494.45
    },
    {
     "speaker": "Anna",
     "text": "And fourth... it offers guidance, a skills audit, and second chances, so anyone can find their next step.",
-    "t": 545.48
+    "t": 501.25
    },
    {
     "speaker": "Tom",
     "text": "Learning is one of the great joys, and one of the great equalisers, of life.",
-    "t": 552.79
+    "t": 509.08
    },
    {
     "speaker": "Anna",
     "text": "It can lift a career, rebuild confidence, and open a whole new chapter, at any age.",
-    "t": 557.72
+    "t": 513.9
    },
    {
     "speaker": "Tom",
     "text": "And in Luxembourg, the door to it is open, for everyone, whenever you're ready to walk through.",
-    "t": 563.96
+    "t": 519.29
    },
    {
     "speaker": "Anna",
     "text": "So if there's something you've always wanted to learn... maybe today is the day to begin.",
-    "t": 569.76
-   },
-   {
-    "speaker": "Tom",
-    "text": "Thank you so much for listening today.",
-    "t": 574.89
+    "t": 524.44
    },
    {
     "speaker": "Anna",
-    "text": "Take care, keep learning, and see you in the next episode.",
-    "t": 577.88
+    "text": "That was our episode about lifelong learning.",
+    "t": 529.76
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 582.19
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 532.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 542.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 561.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 567.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 569.98
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 583.72
+    "text": "Thank you, everyone.",
+    "t": 574.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 575.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 577.87
    }
   ],
   "questions": [
@@ -95129,7 +95291,7 @@ const EPISODES = [
      "A paid holiday abroad after finishing a course of more than a year"
     ],
     "correct": 0,
-    "explanation": "Individuals can benefit from special paid leave to follow training (such as individual training leave or language leave), tax deductibility, support for jobseekers' training, and reduction vouchers for some courses."
+    "explanation": "Individuals can benefit from special paid leave to follow training (such as individual training leave or language leave to learn Luxembourgish), tax deductibility, support for jobseekers' training, and reduction vouchers for some courses."
    },
    {
     "text": "Why does lifelong learning matter so much today?",
@@ -95201,7 +95363,7 @@ const EPISODES = [
      "Des vacances payées à l'étranger après une formation de plus d'un an"
     ],
     "correct": 0,
-    "explanation": "Les particuliers peuvent bénéficier de congés payés pour se former (comme le congé individuel de formation ou le congé linguistique), de la déductibilité fiscale, d'un soutien à la formation des demandeurs d'emploi, et de bons à tarif réduit pour certains cours."
+    "explanation": "Les particuliers peuvent bénéficier de congés payés pour se former (comme le congé individuel de formation ou le congé linguistique pour apprendre le luxembourgeois), de la déductibilité fiscale, d'un soutien à la formation des demandeurs d'emploi, et de bons à tarif réduit pour certains cours."
    },
    {
     "text": "Pourquoi la formation tout au long de la vie est-elle si importante aujourd'hui ?",
@@ -95270,7 +95432,7 @@ const EPISODES = [
      "Ein bezahlter Urlaub im Ausland nach einem Kurs von mehr als einem Jahr"
     ],
     "correct": 0,
-    "explanation": "Privatpersonen können bezahlten Urlaub für eine Weiterbildung in Anspruch nehmen (wie den individuellen Bildungsurlaub oder den Sprachurlaub), die steuerliche Absetzbarkeit, Unterstützung für die Weiterbildung von Arbeitsuchenden und Ermäßigungsgutscheine für bestimmte Kurse."
+    "explanation": "Privatpersonen können bezahlten Urlaub für eine Weiterbildung in Anspruch nehmen (wie den individuellen Bildungsurlaub oder den Sprachurlaub für Luxemburgisch), die steuerliche Absetzbarkeit, Unterstützung für die Weiterbildung von Arbeitsuchenden und Ermäßigungsgutscheine für bestimmte Kurse."
    },
    {
     "text": "Warum ist lebenslanges Lernen heute so wichtig?",
@@ -95285,1766 +95447,1790 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_lll_fr.mp3",
-  "duration_fr": 652.66,
+  "duration_fr": 603.66,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Nous sommes ravis de vous compter parmi nous aujourd'hui.",
-    "t": 3.09
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.78
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 9.35
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme qui porte sur le vivre-ensemble au Luxembourg.",
-    "t": 12.81
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et les frontaliers aussi, à grandir et à trouver leur place.",
-    "t": 16.99
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui est plein d'espoir... l'idée que nous n'arrêtons jamais d'apprendre.",
-    "t": 24.09
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "L'école n'est qu'un début.",
-    "t": 28.96
+    "t": 28.33
    },
    {
     "speaker": "Anna",
     "text": "L'apprentissage peut se poursuivre toute notre vie.",
-    "t": 31.26
+    "t": 29.82
    },
    {
     "speaker": "Tom",
     "text": "Un nouvel emploi, une promotion, une reconversion, une nouvelle langue, ou simplement une passion à suivre.",
-    "t": 34.99
+    "t": 32.36
    },
    {
     "speaker": "Anna",
     "text": "Peut-être avez-vous manqué un diplôme lorsque vous étiez plus jeune.",
-    "t": 41.84
+    "t": 38.61
    },
    {
     "speaker": "Anna",
     "text": "Peut-être votre secteur est-il en pleine évolution.",
-    "t": 45.92
+    "t": 41.65
    },
    {
     "speaker": "Anna",
     "text": "Peut-être venez-vous d'arriver ici.",
-    "t": 49.56
+    "t": 44.13
    },
    {
     "speaker": "Tom",
     "text": "Quelle que soit votre histoire, il existe un chemin pour avancer.",
-    "t": 52.49
+    "t": 46.09
    },
    {
     "speaker": "Tom",
     "text": "Et au Luxembourg, il y a un endroit qui rassemble tout cela.",
-    "t": 56.71
+    "t": 49.64
    },
    {
     "speaker": "Anna",
     "text": "C'est le portail de la formation tout au long de la vie.",
-    "t": 60.84
+    "t": 53.18
    },
    {
     "speaker": "Anna",
     "text": "Le site est lifelong tiret learning point lu.",
-    "t": 64.57
+    "t": 55.68
    },
    {
     "speaker": "Tom",
     "text": "Sa devise le dit avec justesse... « développez vos compétences tout au long de la vie ».",
-    "t": 67.7
+    "t": 58.9
    },
    {
     "speaker": "Anna",
     "text": "Alors Tom, qu'est-ce que c'est exactement, ce portail ?",
-    "t": 73.61
+    "t": 63.74
    },
    {
     "speaker": "Tom",
     "text": "C'est le portail national de la formation continue, géré par l'institut national pour le développement de la formation professionnelle continue, l'INFPC.",
-    "t": 77.8
+    "t": 66.53
    },
    {
     "speaker": "Anna",
     "text": "Et son cœur, c'est un immense catalogue de formations.",
-    "t": 86.51
+    "t": 75.64
    },
    {
     "speaker": "Tom",
-    "text": "Nous parlons de plus de treize mille formations, proposées par des centaines de prestataires de formation agréés.",
-    "t": 90.57
+    "text": "Nous parlons de plus de dix mille formations, proposées par plus de trois cents prestataires de formation agréés.",
+    "t": 78.36
    },
    {
     "speaker": "Anna",
     "text": "Tout est rassemblé en un seul endroit, pour que vous n'ayez pas à chercher partout sur Internet.",
-    "t": 96.81
+    "t": 84.24
    },
    {
     "speaker": "Tom",
     "text": "Et comme les prestataires sont agréés, vous savez que l'offre est sérieuse et fiable.",
-    "t": 102.3
+    "t": 88.51
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez aussi y faire des recherches de manière astucieuse... par thème, ou par le métier que vous aimeriez exercer.",
-    "t": 107.14
+    "t": 92.91
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez donc partir de ce qui vous intéresse, ou de la direction que vous voulez donner à votre carrière.",
-    "t": 114.18
+    "t": 98.59
    },
    {
     "speaker": "Anna",
     "text": "De quels types de sujets parlons-nous ?",
-    "t": 120.13
+    "t": 103.86
    },
    {
     "speaker": "Tom",
     "text": "De toutes sortes !",
-    "t": 122.75
+    "t": 105.8
    },
    {
     "speaker": "Tom",
     "text": "L'informatique et la technologie, les langues, la gestion d'entreprise et les ressources humaines, la finance et le droit.",
-    "t": 124.77
+    "t": 106.97
    },
    {
     "speaker": "Anna",
     "text": "Et le développement personnel, la qualité et la sécurité, la gestion de projet, et bien plus encore.",
-    "t": 132.03
+    "t": 113.65
    },
    {
     "speaker": "Tom",
     "text": "Quel que soit ce que vous voulez apprendre, il y a de fortes chances que vous trouviez une formation pour cela.",
-    "t": 139.09
+    "t": 118.5
    },
    {
     "speaker": "Anna",
     "text": "Le portail est conçu pour trois groupes de personnes.",
-    "t": 144.78
+    "t": 124.07
    },
    {
     "speaker": "Anna",
     "text": "Passons-les en revue.",
-    "t": 148.49
+    "t": 126.84
    },
    {
     "speaker": "Tom",
     "text": "D'abord, les particuliers... des personnes comme vous et moi, qui cherchent à apprendre ou à évoluer.",
-    "t": 150.66
+    "t": 128.25
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, les entreprises, qui veulent former leurs équipes et maintenir leurs compétences à jour.",
-    "t": 156.72
+    "t": 134.04
    },
    {
     "speaker": "Tom",
     "text": "Et troisièmement, les professionnels de la formation, les personnes et les organismes qui assurent réellement les formations.",
-    "t": 162.92
+    "t": 138.6
    },
    {
     "speaker": "Anna",
     "text": "Concentrons-nous d'abord sur les particuliers, car il y a quelque chose de puissant ici.",
-    "t": 169.74
+    "t": 145.54
    },
    {
     "speaker": "Tom",
     "text": "En tant qu'adulte, vous pouvez faire bien plus que suivre une courte formation.",
-    "t": 175.18
+    "t": 149.83
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez obtenir de vrais diplômes reconnus.",
-    "t": 179.8
+    "t": 153.77
    },
    {
     "speaker": "Anna",
-    "text": "Oui.",
-    "t": 182.93
-   },
-   {
-    "speaker": "Anna",
-    "text": "Grâce à la formation continue, les adultes peuvent acquérir de véritables qualifications, étape par étape.",
-    "t": 184.41
+    "text": "Oui. Grâce à la formation continue, les adultes peuvent acquérir de véritables qualifications, étape par étape.",
+    "t": 156.47
    },
    {
     "speaker": "Tom",
     "text": "Il existe même l'apprentissage pour adultes, où l'on apprend un métier et où l'on obtient un diplôme plus tard dans la vie.",
-    "t": 191.48
+    "t": 161.97
    },
    {
     "speaker": "Anna",
     "text": "Et il y a des parcours vers les diplômes de l'enseignement secondaire, les certificats techniques et les qualifications supérieures.",
-    "t": 197.72
+    "t": 168.14
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi le brevet de maîtrise, qui permet aux travailleurs qualifiés de diriger leur propre entreprise et de former des apprentis.",
-    "t": 204.91
+    "t": 174.48
    },
    {
     "speaker": "Anna",
     "text": "Donc, si la vie a fait que vous avez manqué une qualification plus tôt, il y a une vraie deuxième chance de l'obtenir maintenant.",
-    "t": 211.95
+    "t": 181.84
    },
    {
     "speaker": "Tom",
     "text": "Et cela compte, car un diplôme peut ouvrir des portes qui restent fermées sans lui.",
-    "t": 219.24
+    "t": 187.46
    },
    {
     "speaker": "Anna",
     "text": "Voici maintenant quelque chose que je trouve vraiment merveilleux... la validation des acquis de l'expérience.",
-    "t": 224.08
+    "t": 191.87
    },
    {
     "speaker": "Tom",
     "text": "C'est pour les personnes qui ont énormément appris grâce à leur travail et à leur vie, mais qui n'ont aucun diplôme pour le prouver.",
-    "t": 230.36
+    "t": 197.13
    },
    {
     "speaker": "Anna",
     "text": "Pensez à quelqu'un qui a exercé un métier avec expertise pendant quinze ans, mais qui n'a jamais eu le papier pour le prouver.",
-    "t": 236.96
+    "t": 203.7
    },
    {
     "speaker": "Tom",
     "text": "Grâce à ce processus, cette expérience réelle peut être évaluée et transformée en diplôme officiel.",
-    "t": 244.02
+    "t": 209.55
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, des années de savoir-faire et de travail acharné peuvent enfin être reconnues, formellement, sur le papier.",
-    "t": 250.15
+    "t": 215.78
    },
    {
     "speaker": "Tom",
     "text": "C'est une façon d'honorer ce que les gens savent déjà, et pas seulement ce pour quoi ils ont passé des examens.",
-    "t": 257.35
+    "t": 221.84
    },
    {
     "speaker": "Tom",
     "text": "C'est puissant.",
-    "t": 263.35
+    "t": 227.47
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, apprendre coûte du temps, et parfois de l'argent.",
-    "t": 265.14
+    "t": 228.68
    },
    {
     "speaker": "Anna",
     "text": "Alors parlons des aides disponibles.",
-    "t": 269.49
+    "t": 231.63
    },
    {
     "speaker": "Tom",
     "text": "Pour les particuliers, il existe des types particuliers de congés payés, uniquement pour suivre une formation.",
-    "t": 272.51
+    "t": 233.68
    },
    {
     "speaker": "Anna",
-    "text": "Le principal est le congé individuel de formation, qui vous permet de prendre des jours de congé payés pour apprendre.",
-    "t": 279.06
+    "text": "Le principal est le congé individuel de formation, qui vous permet de prendre des jours de congé payés pour apprendre... jusqu'à quatre-vingts jours sur toute votre carrière.",
+    "t": 239.76
    },
    {
     "speaker": "Tom",
-    "text": "Il y a aussi un congé spécial pour apprendre une langue, ce qui est merveilleux dans un pays qui en compte plusieurs.",
-    "t": 286.13
+    "text": "Il y a aussi un congé linguistique spécial pour apprendre le luxembourgeois, ce qui est merveilleux pour quiconque veut se sentir davantage chez soi ici.",
+    "t": 248.29
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez donc prendre le temps d'étudier, sans perdre la totalité de vos revenus pendant ce temps.",
-    "t": 292.48
+    "t": 256.34
    },
    {
     "speaker": "Tom",
     "text": "Il y a plus encore.",
-    "t": 298.3
+    "t": 260.75
    },
    {
     "speaker": "Tom",
     "text": "Certains frais de formation peuvent être déduits de vos impôts.",
-    "t": 300.56
+    "t": 262.08
    },
    {
     "speaker": "Anna",
     "text": "Il existe un soutien pour les demandeurs d'emploi qui ont besoin d'une formation pour retrouver du travail.",
-    "t": 304.34
+    "t": 265.33
    },
    {
     "speaker": "Tom",
     "text": "Et il y a des bons de réduction qui abaissent le prix de certaines formations.",
-    "t": 310.53
+    "t": 270.1
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, le coût et le temps, les deux grands obstacles, sont réduits par une aide réelle et concrète.",
-    "t": 314.84
+    "t": 274.18
    },
    {
     "speaker": "Tom",
     "text": "Et ce ne sont pas seulement les particuliers qui bénéficient d'un soutien.",
-    "t": 321.08
+    "t": 279.4
    },
    {
     "speaker": "Tom",
     "text": "Les entreprises aussi.",
-    "t": 325.19
+    "t": 282.97
    },
    {
     "speaker": "Anna",
-    "text": "Oui.",
-    "t": 327.38
-   },
-   {
-    "speaker": "Anna",
-    "text": "L'État aide à cofinancer la formation que les entreprises offrent à leur personnel.",
-    "t": 328.87
+    "text": "Oui. L'État aide à cofinancer la formation que les entreprises offrent à leur personnel.",
+    "t": 284.54
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, les entreprises sont encouragées à investir dans leurs collaborateurs, et tout le pays gagne en compétences.",
-    "t": 333.98
+    "t": 289.11
    },
    {
     "speaker": "Anna",
     "text": "C'est un effort partagé... le salarié, l'entreprise et l'État, qui investissent tous ensemble dans les compétences.",
-    "t": 340.95
+    "t": 295.06
    },
    {
     "speaker": "Tom",
     "text": "Parlons de la raison pour laquelle cela compte tant, en ce moment précis.",
-    "t": 348.24
+    "t": 301.39
    },
    {
     "speaker": "Anna",
     "text": "Le monde change vite... de nouvelles technologies, la transition verte, de nouvelles façons de travailler.",
-    "t": 352.56
+    "t": 305.71
    },
    {
     "speaker": "Tom",
     "text": "Les emplois évoluent, et certaines tâches que les gens accomplissent aujourd'hui seront réalisées différemment demain.",
-    "t": 359.23
+    "t": 311.41
    },
    {
     "speaker": "Anna",
     "text": "Le portail met même en avant les compétences de l'avenir... les compétences numériques, les compétences vertes et les compétences relationnelles.",
-    "t": 365.22
+    "t": 318.21
    },
    {
     "speaker": "Tom",
     "text": "Les compétences numériques nous aident à travailler avec de nouveaux outils.",
-    "t": 373.46
+    "t": 325.41
    },
    {
     "speaker": "Tom",
     "text": "Les compétences vertes nous aident à travailler de manière plus durable.",
-    "t": 377.57
+    "t": 329.28
    },
    {
     "speaker": "Anna",
     "text": "Et les compétences relationnelles désignent des choses comme la communication, le travail d'équipe et l'adaptabilité... des compétences humaines qui ne se démodent jamais.",
-    "t": 381.57
+    "t": 333.02
    },
    {
     "speaker": "Tom",
     "text": "Garder nos compétences à jour, c'est ainsi que nous restons confiants, employables, et ouverts à de nouvelles occasions.",
-    "t": 390.94
+    "t": 341.86
    },
    {
     "speaker": "Anna",
     "text": "Et il ne s'agit pas seulement d'emploi.",
-    "t": 397.83
+    "t": 348.86
    },
    {
     "speaker": "Anna",
     "text": "Il y a une vraie joie à apprendre quelque chose de nouveau à tout âge.",
-    "t": 400.6
+    "t": 350.63
    },
    {
     "speaker": "Tom",
     "text": "Apprendre une langue pour parler avec de nouveaux voisins.",
-    "t": 404.98
+    "t": 354.21
    },
    {
     "speaker": "Tom",
     "text": "Se mettre à un métier manuel.",
-    "t": 408.39
+    "t": 356.93
    },
    {
     "speaker": "Tom",
     "text": "Comprendre un peu mieux le monde.",
-    "t": 411.04
+    "t": 358.86
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, certaines personnes se sentent un peu perdues et ne savent pas par où commencer.",
-    "t": 413.48
+    "t": 360.81
    },
    {
     "speaker": "Anna",
     "text": "Le portail aide aussi pour cela.",
-    "t": 418.65
+    "t": 364.98
    },
    {
     "speaker": "Tom",
     "text": "Il existe un service appelé bilan de compétences, pour vous aider à comprendre vos forces et ce qui vous convient.",
-    "t": 421.36
+    "t": 366.88
    },
    {
     "speaker": "Anna",
     "text": "C'est comme faire le point sur tout ce que vous savez faire, et utiliser cela pour choisir une prochaine étape claire.",
-    "t": 427.62
+    "t": 372.96
    },
    {
     "speaker": "Tom",
     "text": "Et il y a un accompagnement et un soutien pour les personnes qui changent de cap, ou qui reprennent le travail après une pause.",
-    "t": 434.26
+    "t": 378.58
    },
    {
     "speaker": "Anna",
     "text": "Il existe même une école nationale pour adultes, pour celles et ceux qui veulent reprendre leurs études.",
-    "t": 440.72
+    "t": 384.84
    },
    {
     "speaker": "Tom",
     "text": "Et des parcours de deuxième chance, pour les personnes qui ont quitté l'école tôt et veulent reprendre là où elles s'étaient arrêtées.",
-    "t": 446.83
+    "t": 389.7
    },
    {
     "speaker": "Anna",
     "text": "Donc, quel que soit votre point de départ, il y a un chemin, et quelqu'un pour vous aider à le trouver.",
-    "t": 453.36
+    "t": 396.11
    },
    {
     "speaker": "Tom",
     "text": "Le portail est aussi relié à des outils européens utiles, qu'il vaut la peine de connaître.",
-    "t": 459.78
+    "t": 401.02
    },
    {
     "speaker": "Anna",
     "text": "Par exemple, Europass, une sorte de passeport européen des compétences, pour présenter vos compétences clairement à travers l'Europe.",
-    "t": 465.13
+    "t": 406.02
    },
    {
     "speaker": "Tom",
     "text": "Et des cadres communs qui rendent votre niveau de langue, ou votre qualification, compréhensibles dans d'autres pays.",
-    "t": 473.44
+    "t": 412.66
    },
    {
     "speaker": "Anna",
     "text": "C'est vraiment précieux dans un pays aussi international que le Luxembourg, où les carrières franchissent souvent les frontières.",
-    "t": 479.99
+    "t": 419.09
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi un Observatoire de la formation, qui étudie comment la formation et le marché du travail évoluent.",
-    "t": 487.21
+    "t": 424.89
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, le système continue d'apprendre sur lui-même, et de s'améliorer, sur la base de preuves réelles.",
-    "t": 493.49
+    "t": 430.82
    },
    {
     "speaker": "Tom",
     "text": "Et si vous voulez simplement rester informé, il existe une newsletter sur l'actualité et les opportunités de formation.",
-    "t": 500.29
+    "t": 435.92
    },
    {
     "speaker": "Anna",
     "text": "Disons maintenant quelque chose d'encourageant, avec douceur, car ce sujet peut raviver de vieux doutes.",
-    "t": 507.06
+    "t": 442.74
    },
    {
     "speaker": "Tom",
     "text": "Beaucoup d'adultes portent une petite voix qui dit : « Je suis trop vieux pour apprendre », ou « Je n'ai jamais été bon à l'école ».",
-    "t": 513.55
+    "t": 448.07
    },
    {
     "speaker": "Anna",
     "text": "Mais apprendre à l'âge adulte, c'est différent.",
-    "t": 520.3
+    "t": 455.01
    },
    {
     "speaker": "Anna",
     "text": "Vous apportez de l'expérience, de la motivation, et une vraie raison d'être là.",
-    "t": 523.74
+    "t": 457.3
    },
    {
     "speaker": "Tom",
     "text": "Et vous n'êtes pas obligé de tout faire d'un coup.",
-    "t": 529.03
+    "t": 461.54
    },
    {
     "speaker": "Tom",
     "text": "Une formation, une étape, une petite compétence à la fois.",
-    "t": 532.09
+    "t": 463.79
    },
    {
     "speaker": "Anna",
     "text": "Tout expert a un jour été un débutant.",
-    "t": 536.51
+    "t": 467.56
    },
    {
     "speaker": "Anna",
     "text": "Et chaque nouvelle compétence est une porte que vous ouvrez pour votre futur vous.",
-    "t": 539.59
+    "t": 469.67
    },
    {
     "speaker": "Tom",
     "text": "Alors rendons cela vraiment concret.",
-    "t": 544.37
+    "t": 473.31
    },
    {
     "speaker": "Tom",
     "text": "Que peuvent faire les gens avec tout cela ?",
-    "t": 547.19
+    "t": 475.43
    },
    {
     "speaker": "Anna",
     "text": "D'abord, parcourez le catalogue sur lifelong tiret learning point lu... cherchez par thème, ou par le métier que vous voulez.",
-    "t": 549.89
+    "t": 477.92
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement, si vous avez de l'expérience mais pas de diplôme, renseignez-vous sur la validation de cette expérience.",
-    "t": 557.54
+    "t": 484.66
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement, avant de vous inscrire, vérifiez les aides financières, comme le congé de formation, les déductions fiscales et les bons.",
-    "t": 564.38
+    "t": 491.14
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement, si vous ne savez pas trop par où commencer, demandez un bilan de compétences, ou un accompagnement.",
-    "t": 572.91
+    "t": 497.96
    },
    {
     "speaker": "Anna",
     "text": "Rassemblons tout cela.",
-    "t": 579.88
+    "t": 504.81
    },
    {
     "speaker": "Anna",
     "text": "Que faut-il retenir ?",
-    "t": 582.08
+    "t": 506.11
    },
    {
     "speaker": "Tom",
     "text": "Premièrement... lifelong tiret learning point lu est le portail national luxembourgeois de la formation continue, géré par l'INFPC.",
-    "t": 584.34
+    "t": 507.49
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... il offre un immense catalogue de formations, et même des parcours vers de vrais diplômes reconnus à l'âge adulte.",
-    "t": 591.85
+    "t": 517.16
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... vous pouvez faire valider votre expérience de vie en diplôme, et obtenir une aide financière, y compris un congé de formation payé.",
-    "t": 599.29
+    "t": 523.27
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... il offre un accompagnement, un bilan de compétences et des deuxièmes chances, pour que chacun puisse trouver son prochain pas.",
-    "t": 607.59
+    "t": 531.1
    },
    {
     "speaker": "Tom",
     "text": "L'apprentissage est l'une des grandes joies, et l'un des grands égalisateurs, de la vie.",
-    "t": 615.61
+    "t": 538.17
    },
    {
     "speaker": "Anna",
     "text": "Il peut faire décoller une carrière, reconstruire la confiance, et ouvrir un tout nouveau chapitre, à tout âge.",
-    "t": 620.74
+    "t": 543.54
    },
    {
     "speaker": "Tom",
     "text": "Et au Luxembourg, la porte qui y mène est ouverte, pour tout le monde, dès que vous êtes prêt à la franchir.",
-    "t": 627.81
+    "t": 549.01
    },
    {
     "speaker": "Anna",
     "text": "Alors s'il y a quelque chose que vous avez toujours voulu apprendre... peut-être qu'aujourd'hui est le jour pour commencer.",
-    "t": 634.36
-   },
-   {
-    "speaker": "Tom",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 640.82
+    "t": 554.58
    },
    {
     "speaker": "Anna",
-    "text": "Prenez soin de vous, continuez d'apprendre, et à bientôt dans le prochain épisode.",
-    "t": 644.06
+    "text": "C'était notre épisode sur la formation tout au long de la vie.",
+    "t": 560.18
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 649.52
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 563
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 570.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 587.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 592.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 593.82
    },
    {
     "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 651.14
+    "text": "Merci à tous.",
+    "t": 598.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 599.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 601.89
    }
   ],
   "audio_de": "podcast_lll_de.mp3",
-  "duration_de": 729.1,
+  "duration_de": 673.91,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Wir freuen uns sehr, dass Sie heute bei uns sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
-    "text": "Hallo an alle!",
-    "t": 7.18
+    "text": "Hallo zusammen!",
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 9.26
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 12.66
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten Einwohnerinnen und Einwohner, und auch Grenzgänger, dabei unterstützen, sich zu entwickeln und ihren Platz zu finden.",
-    "t": 17.03
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema ist voller Hoffnung... der Gedanke, dass wir nie aufhören zu lernen.",
-    "t": 27.41
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Die Schule ist nur der Anfang.",
-    "t": 33.31
+    "t": 33.02
    },
    {
     "speaker": "Anna",
     "text": "Das Lernen kann unser ganzes Leben lang weitergehen.",
-    "t": 36.06
+    "t": 34.93
    },
    {
     "speaker": "Tom",
     "text": "Ein neuer Job, eine Beförderung, ein beruflicher Neuanfang, eine neue Sprache oder einfach eine Leidenschaft, der man folgen möchte.",
-    "t": 40.17
+    "t": 38.01
    },
    {
     "speaker": "Anna",
     "text": "Vielleicht haben Sie in jungen Jahren ein Diplom verpasst.",
-    "t": 49.06
+    "t": 46.76
    },
    {
     "speaker": "Anna",
     "text": "Vielleicht verändert sich Ihre Branche.",
-    "t": 53.1
+    "t": 49.79
    },
    {
     "speaker": "Anna",
     "text": "Vielleicht sind Sie gerade erst hierhergezogen.",
-    "t": 56.09
+    "t": 52.11
    },
    {
     "speaker": "Tom",
     "text": "Was auch immer Ihre Geschichte ist, es gibt einen Weg nach vorne.",
-    "t": 59.51
+    "t": 55
    },
    {
     "speaker": "Tom",
     "text": "Und in Luxemburg gibt es einen Ort, der alles zusammenbringt.",
-    "t": 64.15
+    "t": 58.58
    },
    {
     "speaker": "Anna",
     "text": "Es ist das Portal für lebenslanges Lernen.",
-    "t": 68.66
+    "t": 62.03
    },
    {
     "speaker": "Anna",
     "text": "Die Website ist lifelong Bindestrich learning Punkt lu.",
-    "t": 72.28
+    "t": 64.59
    },
    {
     "speaker": "Tom",
     "text": "Sein Leitspruch bringt es schön auf den Punkt... „Entwickeln Sie Ihre Kompetenzen ein Leben lang\".",
-    "t": 76.43
+    "t": 68.27
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, was genau ist dieses Portal?",
-    "t": 83.01
+    "t": 73.63
    },
    {
     "speaker": "Tom",
     "text": "Es ist das nationale Portal für Weiterbildung, betrieben vom nationalen Institut für die Entwicklung der beruflichen Weiterbildung, dem INFPC.",
-    "t": 86.82
+    "t": 76.33
    },
    {
     "speaker": "Anna",
     "text": "Und sein Herzstück ist ein riesiger Katalog von Weiterbildungskursen.",
-    "t": 96.04
+    "t": 85.78
    },
    {
     "speaker": "Tom",
-    "text": "Wir sprechen von mehr als dreizehntausend Kursen, von Hunderten zugelassenen Bildungsanbietern.",
-    "t": 101.08
+    "text": "Wir sprechen von mehr als zehntausend Kursen, von mehr als dreihundert zugelassenen Bildungsanbietern.",
+    "t": 89.63
    },
    {
     "speaker": "Anna",
     "text": "Alles an einem Ort gesammelt, sodass Sie nicht im ganzen Internet suchen müssen.",
-    "t": 107.32
+    "t": 95.45
    },
    {
     "speaker": "Tom",
     "text": "Und weil die Anbieter zugelassen sind, wissen Sie, dass das Angebot seriös und zuverlässig ist.",
-    "t": 112.7
+    "t": 100.05
    },
    {
     "speaker": "Anna",
     "text": "Sie können auch auf clevere Weise suchen... nach Thema oder nach dem Beruf, den Sie gerne ausüben möchten.",
-    "t": 119.09
+    "t": 105.79
    },
    {
     "speaker": "Tom",
     "text": "So können Sie von dem ausgehen, was Sie interessiert, oder davon, wohin sich Ihre Laufbahn entwickeln soll.",
-    "t": 126.38
+    "t": 112.63
    },
    {
     "speaker": "Anna",
     "text": "Über welche Art von Themen sprechen wir?",
-    "t": 133.4
+    "t": 118.4
    },
    {
     "speaker": "Tom",
     "text": "Über alle möglichen!",
-    "t": 136.68
+    "t": 120.91
    },
    {
     "speaker": "Tom",
     "text": "Informatik und Technik, Sprachen, Betriebswirtschaft und Personalwesen, Finanzen und Recht.",
-    "t": 138.95
+    "t": 122.23
    },
    {
     "speaker": "Anna",
     "text": "Und Persönlichkeitsentwicklung, Qualität und Sicherheit, Projektmanagement und vieles mehr.",
-    "t": 145.48
+    "t": 128.28
    },
    {
     "speaker": "Tom",
     "text": "Was auch immer Sie lernen möchten, die Chancen stehen gut, dass Sie einen passenden Kurs dafür finden.",
-    "t": 152.56
+    "t": 133.82
    },
    {
     "speaker": "Anna",
     "text": "Das Portal ist für drei Gruppen von Menschen gemacht.",
-    "t": 159.11
+    "t": 139.24
    },
    {
     "speaker": "Anna",
     "text": "Gehen wir sie durch.",
-    "t": 163.15
+    "t": 142.18
    },
    {
     "speaker": "Tom",
     "text": "Erstens, Privatpersonen... Menschen wie Sie und ich, die lernen oder sich weiterentwickeln möchten.",
-    "t": 165.31
+    "t": 143.59
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, Unternehmen, die ihre Teams schulen und ihre Kompetenzen auf dem neuesten Stand halten wollen.",
-    "t": 172.72
+    "t": 150.05
    },
    {
     "speaker": "Tom",
     "text": "Und drittens, Bildungsfachleute, die Menschen und Organisationen, die die Kurse tatsächlich durchführen.",
-    "t": 180.1
+    "t": 156.08
    },
    {
     "speaker": "Anna",
     "text": "Konzentrieren wir uns zuerst auf die Privatpersonen, denn hier gibt es etwas Kraftvolles.",
-    "t": 187.09
+    "t": 162.14
    },
    {
     "speaker": "Tom",
     "text": "Als Erwachsener können Sie weit mehr tun, als nur einen kurzen Kurs zu besuchen.",
-    "t": 193.62
+    "t": 167.15
    },
    {
     "speaker": "Tom",
     "text": "Sie können echte, anerkannte Diplome erwerben.",
-    "t": 199.04
+    "t": 171.98
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 202.86
-   },
-   {
-    "speaker": "Anna",
-    "text": "Durch Weiterbildung können Erwachsene Schritt für Schritt richtige Qualifikationen erlangen.",
-    "t": 204.19
+    "text": "Ja. Durch Weiterbildung können Erwachsene Schritt für Schritt richtige Qualifikationen erlangen.",
+    "t": 174.98
    },
    {
     "speaker": "Tom",
     "text": "Es gibt sogar eine Erwachsenenausbildung, bei der man ein Handwerk erlernt und später im Leben ein Diplom erwirbt.",
-    "t": 210.16
+    "t": 180.99
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt Wege zu Sekundarschuldiplomen, technischen Abschlüssen und höheren Qualifikationen.",
-    "t": 217.27
+    "t": 187.49
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch den Meisterbrief, der es Fachkräften ermöglicht, ihr eigenes Unternehmen zu führen und Lehrlinge auszubilden.",
-    "t": 224.2
+    "t": 192.95
    },
    {
     "speaker": "Anna",
     "text": "Wenn das Leben es also so wollte, dass Sie früher eine Qualifikation verpasst haben, gibt es jetzt eine echte zweite Chance, sie zu erwerben.",
-    "t": 231.66
+    "t": 199.7
    },
    {
     "speaker": "Tom",
     "text": "Und das ist wichtig, denn ein Diplom kann Türen öffnen, die ohne es verschlossen bleiben.",
-    "t": 241.28
+    "t": 208.27
    },
    {
     "speaker": "Anna",
     "text": "Nun, hier ist etwas, das ich wirklich wunderbar finde... die Validierung von Erfahrungen.",
-    "t": 247.12
+    "t": 213.32
    },
    {
     "speaker": "Tom",
     "text": "Das ist für Menschen, die durch ihre Arbeit und ihr Leben sehr viel gelernt haben, aber kein Diplom haben, um es zu belegen.",
-    "t": 253.96
+    "t": 219.13
    },
    {
     "speaker": "Anna",
     "text": "Denken Sie an jemanden, der einen Beruf fünfzehn Jahre lang fachkundig ausgeübt hat, aber nie das Papier hatte, um es zu beweisen.",
-    "t": 261.85
+    "t": 226.34
    },
    {
     "speaker": "Tom",
     "text": "Durch dieses Verfahren kann diese echte Erfahrung bewertet und in ein offizielles Diplom umgewandelt werden.",
-    "t": 270.87
+    "t": 233.39
    },
    {
     "speaker": "Anna",
     "text": "So können jahrelanges Können und harte Arbeit endlich anerkannt werden, formell, auf dem Papier.",
-    "t": 277.75
+    "t": 239.91
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine Art, das zu würdigen, was Menschen bereits wissen, nicht nur das, wofür sie Prüfungen abgelegt haben.",
-    "t": 284.75
+    "t": 246.24
    },
    {
     "speaker": "Tom",
     "text": "Das ist kraftvoll.",
-    "t": 292.17
+    "t": 252.42
    },
    {
     "speaker": "Anna",
     "text": "Nun, Lernen kostet Zeit, und manchmal Geld.",
-    "t": 294.36
+    "t": 253.83
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir also über die verfügbare Unterstützung.",
-    "t": 298.83
+    "t": 257.19
    },
    {
     "speaker": "Tom",
     "text": "Für Privatpersonen gibt es besondere Arten von bezahltem Urlaub, nur um eine Weiterbildung zu besuchen.",
-    "t": 303.02
+    "t": 260.46
    },
    {
     "speaker": "Anna",
-    "text": "Die wichtigste ist der individuelle Bildungsurlaub, der Ihnen bezahlte freie Tage zum Lernen ermöglicht.",
-    "t": 309.84
+    "text": "Die wichtigste ist der individuelle Bildungsurlaub, der Ihnen bezahlte freie Tage zum Lernen ermöglicht... bis zu achtzig Tage im ganzen Berufsleben.",
+    "t": 266.68
    },
    {
     "speaker": "Tom",
-    "text": "Es gibt auch einen speziellen Urlaub, um eine Sprache zu lernen, was in einem Land mit mehreren Sprachen wunderbar ist.",
-    "t": 317.33
+    "text": "Es gibt auch einen speziellen Sprachurlaub, um Luxemburgisch zu lernen, was wunderbar ist für alle, die sich hier mehr zu Hause fühlen möchten.",
+    "t": 275.4
    },
    {
     "speaker": "Anna",
     "text": "So können Sie sich Zeit zum Lernen nehmen, ohne dabei Ihr gesamtes Einkommen zu verlieren.",
-    "t": 324.81
+    "t": 283.28
    },
    {
     "speaker": "Tom",
     "text": "Es gibt noch mehr.",
-    "t": 331.08
+    "t": 288.57
    },
    {
     "speaker": "Tom",
     "text": "Manche Weiterbildungskosten können von der Steuer abgesetzt werden.",
-    "t": 333.09
+    "t": 289.72
    },
    {
     "speaker": "Anna",
     "text": "Es gibt Unterstützung für Arbeitsuchende, die eine Weiterbildung brauchen, um wieder in Arbeit zu kommen.",
-    "t": 337.71
+    "t": 293.48
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt Ermäßigungsgutscheine, die den Preis bestimmter Kurse senken.",
-    "t": 344.84
+    "t": 298.96
    },
    {
     "speaker": "Anna",
     "text": "So werden Kosten und Zeit, die zwei großen Hürden, durch echte, praktische Hilfe kleiner gemacht.",
-    "t": 349.77
+    "t": 303.38
    },
    {
     "speaker": "Tom",
     "text": "Und nicht nur Privatpersonen erhalten Unterstützung.",
-    "t": 357.1
+    "t": 309.4
    },
    {
     "speaker": "Tom",
     "text": "Unternehmen auch.",
-    "t": 360.88
+    "t": 312.37
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 362.87
-   },
-   {
-    "speaker": "Anna",
-    "text": "Der Staat hilft dabei, die Weiterbildung mitzufinanzieren, die Unternehmen ihren Mitarbeitenden anbieten.",
-    "t": 364.2
+    "text": "Ja. Der Staat hilft dabei, die Weiterbildung mitzufinanzieren, die Unternehmen ihren Mitarbeitenden anbieten.",
+    "t": 313.69
    },
    {
     "speaker": "Tom",
     "text": "So werden Betriebe ermutigt, in ihre Leute zu investieren, und das ganze Land wird kompetenter.",
-    "t": 371.62
+    "t": 320.58
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine gemeinsame Anstrengung... die Beschäftigten, das Unternehmen und der Staat, die alle zusammen in Kompetenzen investieren.",
-    "t": 378.19
+    "t": 326.29
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir darüber, warum das gerade jetzt so wichtig ist.",
-    "t": 387.64
+    "t": 334.27
    },
    {
     "speaker": "Anna",
     "text": "Die Welt verändert sich schnell... neue Technologien, der grüne Wandel, neue Arbeitsweisen.",
-    "t": 392.1
+    "t": 337.53
    },
    {
     "speaker": "Tom",
     "text": "Berufe verändern sich, und manche Aufgaben, die Menschen heute erledigen, werden morgen anders erledigt.",
-    "t": 398.89
+    "t": 343.81
    },
    {
     "speaker": "Anna",
     "text": "Das Portal hebt sogar die Kompetenzen der Zukunft hervor... digitale Kompetenzen, grüne Kompetenzen und soziale Kompetenzen.",
-    "t": 405.8
+    "t": 350.18
    },
    {
     "speaker": "Tom",
     "text": "Digitale Kompetenzen helfen uns, mit neuen Werkzeugen zu arbeiten.",
-    "t": 415.22
+    "t": 358.45
    },
    {
     "speaker": "Tom",
     "text": "Grüne Kompetenzen helfen uns, nachhaltiger zu arbeiten.",
-    "t": 420.26
+    "t": 362.51
    },
    {
     "speaker": "Anna",
     "text": "Und soziale Kompetenzen meinen Dinge wie Kommunikation, Teamarbeit und Anpassungsfähigkeit... menschliche Fähigkeiten, die nie aus der Mode kommen.",
-    "t": 424.64
+    "t": 365.9
    },
    {
     "speaker": "Tom",
     "text": "Unsere Kompetenzen frisch zu halten ist der Weg, wie wir selbstbewusst, beschäftigungsfähig und offen für neue Chancen bleiben.",
-    "t": 434.92
+    "t": 375.3
    },
    {
     "speaker": "Anna",
     "text": "Und es geht nicht nur um den Beruf.",
-    "t": 443.05
+    "t": 382.59
    },
    {
     "speaker": "Anna",
     "text": "Es liegt eine echte Freude darin, in jedem Alter etwas Neues zu lernen.",
-    "t": 445.91
+    "t": 384.56
    },
    {
     "speaker": "Tom",
     "text": "Eine Sprache lernen, um mit neuen Nachbarn zu sprechen.",
-    "t": 451.51
+    "t": 389.02
    },
    {
     "speaker": "Tom",
     "text": "Ein Handwerk aufgreifen.",
-    "t": 455.59
+    "t": 392.17
    },
    {
     "speaker": "Tom",
     "text": "Die Welt ein bisschen besser verstehen.",
-    "t": 458.08
+    "t": 393.89
    },
    {
     "speaker": "Anna",
     "text": "Nun fühlen sich manche Menschen ein wenig verloren und wissen nicht, wo sie anfangen sollen.",
-    "t": 460.96
+    "t": 396.16
    },
    {
     "speaker": "Anna",
     "text": "Auch dabei hilft das Portal.",
-    "t": 467.05
+    "t": 400.77
    },
    {
     "speaker": "Tom",
     "text": "Es gibt einen Service namens Kompetenzbilanz, der Ihnen hilft, Ihre Stärken zu verstehen und das, was zu Ihnen passt.",
-    "t": 469.74
+    "t": 402.86
    },
    {
     "speaker": "Anna",
     "text": "Es ist, als würde man Bilanz über alles ziehen, was man kann, und das nutzen, um einen klaren nächsten Schritt zu wählen.",
-    "t": 477.55
+    "t": 409.89
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt Beratung und Unterstützung für Menschen, die ihre Richtung ändern oder nach einer Pause wieder ins Arbeitsleben zurückkehren.",
-    "t": 486.11
+    "t": 417.17
    },
    {
     "speaker": "Anna",
     "text": "Es gibt sogar eine nationale Schule für Erwachsene, für diejenigen, die wieder lernen möchten.",
-    "t": 494.01
+    "t": 424.8
    },
    {
     "speaker": "Tom",
     "text": "Und Wege der zweiten Chance, für Menschen, die die Schule früh verlassen haben und dort weitermachen möchten, wo sie aufgehört haben.",
-    "t": 500.68
+    "t": 430.19
    },
    {
     "speaker": "Anna",
     "text": "Egal also, wo Ihr Ausgangspunkt liegt, es gibt einen Weg, und jemanden, der Ihnen hilft, ihn zu finden.",
-    "t": 508.89
+    "t": 437.3
    },
    {
     "speaker": "Tom",
     "text": "Das Portal verbindet sich auch mit nützlichen europäischen Werkzeugen, die man kennen sollte.",
-    "t": 517.14
+    "t": 444.12
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispiel Europass, eine Art europäischer Kompetenzpass, um Ihre Kompetenzen europaweit klar darzustellen.",
-    "t": 523.02
+    "t": 449.37
    },
    {
     "speaker": "Tom",
     "text": "Und gemeinsame Rahmenwerke, die Ihr Sprachniveau oder Ihre Qualifikation in anderen Ländern verständlich machen.",
-    "t": 531.57
+    "t": 456.53
    },
    {
     "speaker": "Anna",
     "text": "Das ist in einem so internationalen Land wie Luxemburg wirklich wertvoll, wo Laufbahnen oft Grenzen überschreiten.",
-    "t": 539.08
+    "t": 463.43
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch ein Weiterbildungsobservatorium, das untersucht, wie sich Weiterbildung und Arbeitsmarkt verändern.",
-    "t": 546.94
+    "t": 469.98
    },
    {
     "speaker": "Anna",
     "text": "So lernt das System ständig über sich selbst und verbessert sich, auf der Grundlage echter Erkenntnisse.",
-    "t": 554.07
+    "t": 476.02
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie einfach nur informiert bleiben möchten, gibt es einen Newsletter über Neuigkeiten und Möglichkeiten der Weiterbildung.",
-    "t": 561.14
+    "t": 482.58
    },
    {
     "speaker": "Anna",
     "text": "Sagen wir hier behutsam etwas Ermutigendes, denn dieses Thema kann alte Zweifel aufwühlen.",
-    "t": 568.75
+    "t": 489.5
    },
    {
     "speaker": "Tom",
     "text": "Viele Erwachsene tragen eine leise Stimme in sich, die sagt: „Ich bin zu alt zum Lernen\" oder „Ich war nie gut in der Schule\".",
-    "t": 575.57
+    "t": 494.86
    },
    {
     "speaker": "Anna",
     "text": "Aber als Erwachsener zu lernen ist anders.",
-    "t": 583.44
+    "t": 503.28
    },
    {
     "speaker": "Anna",
     "text": "Sie bringen Erfahrung mit, Motivation und einen echten Grund, dort zu sein.",
-    "t": 587.12
+    "t": 505.77
    },
    {
     "speaker": "Tom",
     "text": "Und Sie müssen nicht alles auf einmal tun.",
-    "t": 592.81
+    "t": 510.66
    },
    {
     "speaker": "Tom",
     "text": "Ein Kurs, ein Schritt, eine kleine Fähigkeit nach der anderen.",
-    "t": 595.96
+    "t": 513.31
    },
    {
     "speaker": "Anna",
     "text": "Jeder Experte war einmal ein Anfänger.",
-    "t": 600.71
+    "t": 517.7
    },
    {
     "speaker": "Anna",
     "text": "Und jede neue Fähigkeit ist eine Tür, die Sie für Ihr zukünftiges Ich öffnen.",
-    "t": 604.15
+    "t": 520.05
    },
    {
     "speaker": "Tom",
     "text": "Machen wir es also ganz praktisch.",
-    "t": 609.84
+    "t": 524.93
    },
    {
     "speaker": "Tom",
     "text": "Was können die Menschen mit all dem tun?",
-    "t": 612.83
+    "t": 526.94
    },
    {
     "speaker": "Anna",
     "text": "Erstens, durchstöbern Sie den Katalog auf lifelong Bindestrich learning Punkt lu... suchen Sie nach Thema oder nach dem gewünschten Beruf.",
-    "t": 615.85
+    "t": 529.31
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, wenn Sie Erfahrung, aber kein Diplom haben, informieren Sie sich über die Validierung dieser Erfahrung.",
-    "t": 624.65
+    "t": 538.72
    },
    {
     "speaker": "Anna",
     "text": "Drittens, bevor Sie sich anmelden, prüfen Sie die finanzielle Unterstützung, wie Bildungsurlaub, Steuerabzüge und Gutscheine.",
-    "t": 631.91
+    "t": 545.69
    },
    {
     "speaker": "Tom",
     "text": "Und viertens, wenn Sie unsicher sind, wo Sie anfangen sollen, bitten Sie um eine Kompetenzbilanz oder um Beratung.",
-    "t": 641.31
+    "t": 553.44
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir alles zusammen.",
-    "t": 648.99
+    "t": 560.62
    },
    {
     "speaker": "Anna",
     "text": "Was sollten sich die Menschen merken?",
-    "t": 651.5
+    "t": 562.43
    },
    {
     "speaker": "Tom",
     "text": "Erstens... lifelong Bindestrich learning Punkt lu ist Luxemburgs nationales Portal für Weiterbildung, betrieben vom INFPC.",
-    "t": 654.49
+    "t": 564.67
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... es bietet einen riesigen Kurskatalog und sogar Wege zu echten, anerkannten Diplomen als Erwachsener.",
-    "t": 662.94
+    "t": 575.63
    },
    {
     "speaker": "Tom",
     "text": "Drittens... Sie können Ihre Lebenserfahrung in ein Diplom validieren lassen und finanzielle Unterstützung erhalten, einschließlich bezahltem Bildungsurlaub.",
-    "t": 671.04
+    "t": 583.05
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... es bietet Beratung, eine Kompetenzbilanz und zweite Chancen, sodass jeder seinen nächsten Schritt finden kann.",
-    "t": 681.31
+    "t": 592.43
    },
    {
     "speaker": "Tom",
     "text": "Lernen ist eine der großen Freuden und einer der großen Gleichmacher des Lebens.",
-    "t": 689.72
+    "t": 600.61
    },
    {
     "speaker": "Anna",
     "text": "Es kann eine Laufbahn beflügeln, Selbstvertrauen wiederaufbauen und ein ganz neues Kapitel öffnen, in jedem Alter.",
-    "t": 695.03
+    "t": 605.44
    },
    {
     "speaker": "Tom",
     "text": "Und in Luxemburg steht die Tür dazu offen, für alle, sobald Sie bereit sind, hindurchzugehen.",
-    "t": 703.34
+    "t": 612.47
    },
    {
     "speaker": "Anna",
     "text": "Wenn es also etwas gibt, das Sie immer schon lernen wollten... vielleicht ist heute der Tag, um damit zu beginnen.",
-    "t": 709.76
-   },
-   {
-    "speaker": "Tom",
-    "text": "Vielen Dank, dass Sie heute zugehört haben.",
-    "t": 717.2
+    "t": 617.77
    },
    {
     "speaker": "Anna",
-    "text": "Passen Sie auf sich auf, lernen Sie weiter, und bis zur nächsten Folge.",
-    "t": 720.77
+    "text": "Das war unsere Folge über das lebenslange Lernen.",
+    "t": 624.44
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 726.04
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 627.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 636.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 655.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 660.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 663.12
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 727.52
+    "text": "Danke an alle.",
+    "t": 668.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 669.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 672.37
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, an häerzlech wëllkomm zréck! Mir freeën eis ganz, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
     "text": "Moien alleguer!",
-    "t": 5.62
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Frontalieren, hëllefen, sech weiderzeentwéckelen an hire Plaz ze fannen.",
-    "t": 7.66
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An d'Thema vun haut ass voller Hoffnung... d'Iddi, datt mir ni ophalen ze léieren.",
-    "t": 21.81
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "D'Schoul ass nëmmen den Ufank. D'Léieren kann eist ganzt Liewe laang weidergoen.",
-    "t": 26.62
+    "t": 32.42
    },
    {
     "speaker": "Tom",
     "text": "En neie Job, eng Befërderung, eng berufflech Ëmorientéierung, eng nei Sprooch, oder einfach eng Passioun, déi een nogoe wëll.",
-    "t": 32.39
+    "t": 37
    },
    {
     "speaker": "Anna",
     "text": "Vläicht hutt Dir e Diplom verpasst, wéi Dir méi jonk waart. Vläicht ännert sech Är Branche. Vläicht sidd Dir grad eréischt hei higezunn.",
-    "t": 38.39
+    "t": 42.75
    },
    {
     "speaker": "Tom",
     "text": "Wat och ëmmer Är Geschicht ass, et gëtt e Wee no vir. An zu Lëtzebuerg gëtt et eng Plaz, déi alles zesummebréngt.",
-    "t": 46.76
+    "t": 48.9
    },
    {
     "speaker": "Anna",
     "text": "Et ass de Portal fir d'Léiere laang d'Liewen. D'Websäit ass lifelong Bindestrich learning Punkt lu.",
-    "t": 54.57
+    "t": 54.89
    },
    {
     "speaker": "Tom",
     "text": "Säi Motto seet et schéin... „Entwéckelt Är Kompetenzen e Liewe laang\".",
-    "t": 60.88
+    "t": 60.23
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, wat ass dëse Portal genau?",
-    "t": 66.29
+    "t": 64.99
    },
    {
     "speaker": "Tom",
     "text": "Et ass den nationale Portal fir Weiderbildung, gefouert vum nationalen Institut fir d'Entwécklung vun der berufflecher Weiderbildung, dem INFPC.",
-    "t": 69.71
+    "t": 67.64
    },
    {
     "speaker": "Anna",
     "text": "A säin Häerz ass en enorme Katalog vu Weiderbildungscoursen.",
-    "t": 77.33
+    "t": 75.66
    },
    {
     "speaker": "Tom",
-    "text": "Mir schwätze vu méi wéi dräizéngdausend Coursen, vun honnerte vun zougelaossene Weiderbildungsulbidder.",
-    "t": 81.35
+    "text": "Mir schwätze vu méi wéi zéngdausend Coursen, vu méi wéi dräihonnert zougelaossene Weiderbildungsulbidder.",
+    "t": 79.27
    },
    {
     "speaker": "Anna",
     "text": "Alles op enger Plaz gesammelt, esou datt Dir net am ganzen Internet musst sichen.",
-    "t": 87.15
+    "t": 86.12
    },
    {
     "speaker": "Tom",
     "text": "A well d'Ulbidder zougelooss sinn, wësst Dir, datt d'Offer eescht a verlässlech ass.",
-    "t": 92.14
+    "t": 90.9
    },
    {
     "speaker": "Anna",
     "text": "Dir kënnt och op clever Manéiere sichen... no Thema, oder nom Beruff, deen Dir gär maache wëllt.",
-    "t": 97.49
+    "t": 95.28
    },
    {
     "speaker": "Tom",
     "text": "Esou kënnt Dir vun deem ausgoen, wat Iech interesséiert, oder vun deem, wouhin Är Carrière soll goen.",
-    "t": 103.18
+    "t": 100.55
    },
    {
     "speaker": "Anna",
     "text": "Iwwer wéi eng Zorte vu Sujeten schwätze mir?",
-    "t": 108.26
+    "t": 105.05
    },
    {
     "speaker": "Tom",
     "text": "Iwwer all méiglech! Informatik an Technik, Sproochen, Betribswirtschaft a Personalwiesen, Finanzen a Recht.",
-    "t": 111.53
+    "t": 107.74
    },
    {
     "speaker": "Anna",
     "text": "A perséinlech Entwécklung, Qualitéit a Sécherheet, Projetsmanagement, a vill méi.",
-    "t": 119.28
+    "t": 114.34
    },
    {
     "speaker": "Tom",
     "text": "Wat och ëmmer Dir léiere wëllt, d'Chancë stinn gutt, datt Dir e passende Cours dofir fannt.",
-    "t": 125.43
+    "t": 120.01
    },
    {
     "speaker": "Anna",
     "text": "De Portal ass fir dräi Gruppe vu Leit gebaut. Loosst eis se duerchgoen.",
-    "t": 129.82
+    "t": 124.14
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, Privatpersounen... Leit wéi Dir an ech, déi léiere wëllen oder sech weiderentwéckele wëllen.",
-    "t": 135.33
+    "t": 128.51
    },
    {
     "speaker": "Anna",
     "text": "Als zweet, Betriber, déi hir Ekippe wëlle schoulen an hir Kompetenzen op der Héicht halen.",
-    "t": 140.5
+    "t": 133.57
    },
    {
     "speaker": "Tom",
     "text": "An als drëtt, Weiderbildungsfachleit, déi Leit an Organisatiounen, déi d'Coursë tatsächlech maachen.",
-    "t": 145.96
+    "t": 139.18
    },
    {
     "speaker": "Anna",
     "text": "Konzentréiere mer eis als éischt op d'Privatpersounen, well hei gëtt et eppes Kraaftvolles.",
-    "t": 151.85
+    "t": 144.54
    },
    {
     "speaker": "Tom",
     "text": "Als Erwuessenen kënnt Dir vill méi maachen, wéi nëmmen e kuerze Cours ze besichen. Dir kënnt richteg, unerkannten Diplomer kréien.",
-    "t": 156.67
+    "t": 149.03
    },
    {
     "speaker": "Anna",
     "text": "Jo. Duerch d'Weiderbildung kënnen Erwuessener richteg Qualifikatiounen kréien, Schrëtt fir Schrëtt.",
-    "t": 164.62
+    "t": 154.85
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt souguer eng Erwuessenen-Léier, wou ee en Handwierk léiert an e Diplom méi spéit am Liewe kritt.",
-    "t": 172.14
+    "t": 160.6
    },
    {
     "speaker": "Anna",
     "text": "An et gi Weeër zu Sekundarschoul-Diplomer, technesche Certificaten an héijere Qualifikatiounen.",
-    "t": 177.54
+    "t": 165.3
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt och de Meeschterbréif, deen et qualifizéierten Aarbechter erlaabt, hiren eegene Betrib ze féieren a Léierjongen auszebilden.",
-    "t": 184.31
+    "t": 171.5
    },
    {
     "speaker": "Anna",
     "text": "Wann d'Liewen et also esou wollt, datt Dir fréier eng Qualifikatioun verpasst hutt, gëtt et elo eng richteg zweet Chance, se ze kréien.",
-    "t": 190.95
+    "t": 178.38
    },
    {
     "speaker": "Tom",
     "text": "An dat ass wichteg, well en Diplom kann Diere maachen, déi ouni en zou bleiwen.",
-    "t": 196.84
+    "t": 183.96
    },
    {
     "speaker": "Anna",
     "text": "Elo, hei ass eppes, wat ech wierklech wonnerbar fannen... d'Validatioun vun der Erfarung.",
-    "t": 201.88
+    "t": 188.71
    },
    {
     "speaker": "Tom",
     "text": "Dat ass fir Leit, déi duerch hir Aarbecht an hiert Liewe ganz vill geléiert hunn, awer kee Diplom hunn, fir et ze beweisen.",
-    "t": 207.23
+    "t": 193.73
    },
    {
     "speaker": "Anna",
     "text": "Denkt un een, deen e Beruff fofzéng Joer laang fachkundeg ausgeüübt huet, awer ni de Pabeier hat, fir et ze beweisen.",
-    "t": 213.27
+    "t": 199.72
    },
    {
     "speaker": "Tom",
     "text": "Duerch dëse Prozess kann dës richteg Erfarung evaluéiert an an en offiziellen Diplom ëmgewandelt ginn.",
-    "t": 219.45
+    "t": 206.09
    },
    {
     "speaker": "Anna",
     "text": "Esou kënne Joeren u Kënnen an haarder Aarbecht endlech unerkannt ginn, formell, um Pabeier.",
-    "t": 225.35
+    "t": 211.72
    },
    {
     "speaker": "Tom",
     "text": "Et ass eng Manéier, dat ze éieren, wat d'Leit scho wëssen, net nëmmen dat, wofir se Examen gemaach hunn. Dat ass kraaftvoll.",
-    "t": 231.24
+    "t": 217.11
    },
    {
     "speaker": "Anna",
     "text": "Elo, Léiere kascht Zäit, an heiansdo Geld. Loosst eis also iwwer déi verfügbar Hëllef schwätzen.",
-    "t": 238.72
+    "t": 223.44
    },
    {
     "speaker": "Tom",
     "text": "Fir Privatpersoune ginn et speziell Zorte vu bezuelte Congé, just fir eng Weiderbildung ze besichen.",
-    "t": 245.56
+    "t": 228.71
    },
    {
     "speaker": "Anna",
-    "text": "Den haaptsächlechen ass den individuelle Bildungscongé, deen Iech erlaabt, bezuelten Congé ze huelen, fir ze léieren.",
-    "t": 251
+    "text": "Den haaptsächlechen ass den individuelle Bildungscongé, deen Iech erlaabt, bezuelten Congé ze huelen, fir ze léieren... bis zu achtzeg Deeg an Ärer ganzer Carrière.",
+    "t": 233.19
    },
    {
     "speaker": "Tom",
-    "text": "Et gëtt och e spezielle Congé, fir eng Sprooch ze léieren, wat an engem Land mat e puer Sprochen wonnerbar ass.",
-    "t": 256.62
+    "text": "Et gëtt och e spezielle Sproochecongé, fir Lëtzebuergesch ze léieren, wat wonnerbar ass fir jiddereen, deen sech hei méi doheem wëll fillen.",
+    "t": 240.57
    },
    {
     "speaker": "Anna",
     "text": "Esou kënnt Dir Iech Zäit huelen, fir ze studéieren, ouni derbäi Ären ganzen Akommes ze verléieren.",
-    "t": 262.08
+    "t": 246.97
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt nach méi. E puer Weiderbildungskäschte kënne vun Äre Steiren ofgesat ginn.",
-    "t": 267.1
+    "t": 251.69
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt Ënnerstëtzung fir Aarbechtssichend, déi eng Weiderbildung brauchen, fir nees an d'Aarbecht ze kommen.",
-    "t": 273.49
+    "t": 255.87
    },
    {
     "speaker": "Tom",
     "text": "An et gi Reduktiounsbongen, déi de Präis vu bestëmmte Coursen erofsetzen.",
-    "t": 277.95
+    "t": 259.69
    },
    {
     "speaker": "Anna",
     "text": "Esou ginn d'Käschten an d'Zäit, déi zwou grouss Hürden, duerch richteg, praktesch Hëllef méi kleng gemaach.",
-    "t": 282.51
+    "t": 264.09
    },
    {
     "speaker": "Tom",
     "text": "An et sinn net nëmmen d'Privatpersounen, déi Ënnerstëtzung kréien. D'Betriber och.",
-    "t": 288.61
+    "t": 269.2
    },
    {
     "speaker": "Anna",
     "text": "Jo. De Staat hëlleft, d'Weiderbildung matzefinanzéieren, déi d'Betriber hire Mataarbechter ubidden.",
-    "t": 294.43
+    "t": 272.88
    },
    {
     "speaker": "Tom",
     "text": "Esou ginn d'Betriber encouragéiert, an hir Leit ze investéieren, an dat ganzt Land gëtt méi kompetent.",
-    "t": 300.66
+    "t": 277.76
    },
    {
     "speaker": "Anna",
     "text": "Et ass eng gemeinsam Ustrengung... de Salarié, de Betrib an de Staat, déi all zesummen a Kompetenzen investéieren.",
-    "t": 306.35
+    "t": 282.97
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis driwwer schwätzen, firwat dat grad elo esou wichteg ass.",
-    "t": 312.84
+    "t": 289.61
    },
    {
     "speaker": "Anna",
     "text": "D'Welt ännert sech séier... nei Technologien, de gréngen Iwwergang, nei Aarbechtsweisen.",
-    "t": 316.7
+    "t": 292.17
    },
    {
     "speaker": "Tom",
     "text": "D'Beruffer änneren sech, an e puer Aufgaben, déi d'Leit haut maachen, ginn d'muer anescht gemaach.",
-    "t": 323.03
+    "t": 298.55
    },
    {
     "speaker": "Anna",
     "text": "De Portal hieft souguer d'Kompetenze vun der Zukunft ervir... digital Kompetenzen, gréng Kompetenzen a sozial Kompetenzen.",
-    "t": 328.58
+    "t": 303.38
    },
    {
     "speaker": "Tom",
     "text": "Digital Kompetenzen hëllefen eis, mat neie Geschir ze schaffen. Gréng Kompetenzen hëllefen eis, méi nohalteg ze schaffen.",
-    "t": 335.44
+    "t": 310.84
    },
    {
     "speaker": "Anna",
     "text": "A sozial Kompetenze menge Saache wéi Kommunikatioun, Teamaarbecht an Upassungsfäegkeet... mënschlech Fäegkeeten, déi ni aus der Moud kommen.",
-    "t": 342.32
+    "t": 315.65
    },
    {
     "speaker": "Tom",
     "text": "Eis Kompetenze frësch ze halen, ass d'Manéier, wéi mir selbstbewosst, beschäftegungsfäeg an op fir nei Chancë bleiwen.",
-    "t": 349.92
+    "t": 323.65
    },
    {
     "speaker": "Anna",
     "text": "An et geet net nëmmen ëm d'Aarbecht. Et läit eng richteg Freed dran, an all Alter eppes Neies ze léieren.",
-    "t": 355.56
+    "t": 329.15
    },
    {
     "speaker": "Tom",
     "text": "Eng Sprooch léieren, fir mat neie Noperen ze schwätzen. En Handwierk ophiewen. D'Welt e bësse besser verstoen.",
-    "t": 362.15
+    "t": 334.6
    },
    {
     "speaker": "Anna",
     "text": "Elo fillen sech e puer Leit e bësse verluer a wëssen net, wou se ufänke sollen. Och dobäi hëlleft de Portal.",
-    "t": 370.88
+    "t": 340.21
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt e Service mam Numm Kompetenzbilan, deen Iech hëlleft, Är Stäerkten ze verstoen, an dat, wat zu Iech passt.",
-    "t": 378.14
+    "t": 346.11
    },
    {
     "speaker": "Anna",
     "text": "Et ass, wéi wann ee Bilan zitt iwwer alles, wat een ka maachen, an dat benotzt, fir e kloeren nächste Schrëtt ze wielen.",
-    "t": 383.62
+    "t": 351.5
    },
    {
     "speaker": "Tom",
     "text": "An et gëtt Begleedung an Ënnerstëtzung fir Leit, déi hir Richtung änneren, oder no enger Paus nees an d'Aarbecht zréckkommen.",
-    "t": 389.31
+    "t": 356.97
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt souguer eng national Schoul fir Erwuessener, fir déi, déi nees léiere wëllen.",
-    "t": 395.15
+    "t": 362.81
    },
    {
     "speaker": "Tom",
     "text": "A Weeër vun der zweeter Chance, fir Leit, déi d'Schoul fréi verlooss hunn an do wëlle weidermaachen, wou se opgehale sinn.",
-    "t": 400.23
+    "t": 367.21
    },
    {
     "speaker": "Anna",
     "text": "Egal also, wou Ären Ausgangspunkt läit, et gëtt e Wee, an een, deen Iech hëlleft, en ze fannen.",
-    "t": 405.69
+    "t": 372.37
    },
    {
     "speaker": "Tom",
     "text": "De Portal verbënnt sech och mat nëtzlechen europäeschen Outilen, déi et wäert sinn ze kennen.",
-    "t": 410.98
+    "t": 377.31
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispill Europass, eng Zort europäesche Kompetenzpass, fir Är Kompetenzen europawäit kloer duerzestellen.",
-    "t": 416.22
+    "t": 381.74
    },
    {
     "speaker": "Tom",
     "text": "A gemeinsam Kaderen, déi Äert Sproochenniveau, oder Är Qualifikatioun, an anere Länner verständlech maachen.",
-    "t": 423.66
+    "t": 388.94
    },
    {
     "speaker": "Anna",
     "text": "Dat ass an engem esou internationale Land wéi Lëtzebuerg wierklech wäertvoll, wou Carrièren dacks d'Grenzen iwwerschreiden.",
-    "t": 430.28
+    "t": 394.73
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt och en Weiderbildungsobservatoire, deen ënnersicht, wéi sech d'Weiderbildung an den Aarbechtsmaart änneren.",
-    "t": 437.01
+    "t": 401.23
    },
    {
     "speaker": "Anna",
     "text": "Esou léiert de System ëmmer weider iwwer sech selwer a verbessert sech, op der Basis vu richtegen Erkenntnisser.",
-    "t": 442.69
+    "t": 406.86
    },
    {
     "speaker": "Tom",
     "text": "A wann Dir einfach nëmmen informéiert wëllt bleiwen, gëtt et e Newsletter iwwer Neiegkeeten a Méiglechkeete vun der Weiderbildung.",
-    "t": 448.16
+    "t": 411.96
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis hei sanft eppes Encouragéierendes soen, well dëst Thema kann al Zweiwel opwullen.",
-    "t": 454.04
+    "t": 417.44
    },
    {
     "speaker": "Tom",
     "text": "Vill Erwuessener droen eng roueg Stëmm an sech, déi seet: „Ech sinn ze al fir ze léieren\", oder „Ech war ni gutt an der Schoul\".",
-    "t": 459.53
+    "t": 422.73
    },
    {
     "speaker": "Anna",
     "text": "Mä als Erwuessenen ze léieren ass anescht. Dir bréngt Erfarung mat, Motivatioun, an e richtege Grond, do ze sinn.",
-    "t": 465.44
+    "t": 429
    },
    {
     "speaker": "Tom",
     "text": "An Dir musst net alles op eemol maachen. Ee Cours, ee Schrëtt, eng kleng Fäegkeet no der anerer.",
-    "t": 473.03
+    "t": 435.09
    },
    {
     "speaker": "Anna",
     "text": "All Expert war eemol en Ufänger. An all nei Fäegkeet ass eng Dier, déi Dir fir Äert zukünftegt Ech opmaacht.",
-    "t": 480.09
+    "t": 440.74
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis et also ganz praktesch maachen. Wat kënnen d'Leit mat all deem maachen?",
-    "t": 487.19
+    "t": 447.19
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, kuckt duerch de Katalog op lifelong Bindestrich learning Punkt lu... sicht no Thema, oder nom Beruff, deen Dir wëllt.",
-    "t": 493.09
+    "t": 451.7
    },
    {
     "speaker": "Tom",
     "text": "Als zweet, wann Dir Erfarung hutt, awer kee Diplom, informéiert Iech iwwer d'Validatioun vun dëser Erfarung.",
-    "t": 500.34
+    "t": 459.32
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt, ier Dir Iech umellt, préift d'finanziell Hëllef, wéi de Bildungscongé, d'Steierofzich an d'Bongen.",
-    "t": 506.06
+    "t": 464.29
    },
    {
     "speaker": "Tom",
     "text": "An als véiert, wann Dir net sécher sidd, wou Dir ufänke sollt, frot no engem Kompetenzbilan, oder no enger Begleedung.",
-    "t": 513.11
+    "t": 470.82
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis alles zesummebréngen. Wat sollen d'Leit sech behalen?",
-    "t": 518.66
+    "t": 476.01
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... lifelong Bindestrich learning Punkt lu ass de Lëtzebuerger nationale Portal fir Weiderbildung, gefouert vum INFPC.",
-    "t": 523.43
+    "t": 479.3
    },
    {
     "speaker": "Anna",
     "text": "Als zweet... en bitt en enorme Cours-Katalog, a souguer Weeër zu richtegen, unerkannten Diplomer als Erwuessenen.",
-    "t": 530.94
+    "t": 487.24
    },
    {
     "speaker": "Tom",
     "text": "Als drëtt... Dir kënnt Är Liewenserfarung an en Diplom validéiere loossen a finanziell Hëllef kréien, dorënner bezuelte Bildungscongé.",
-    "t": 538.49
+    "t": 494.45
    },
    {
     "speaker": "Anna",
     "text": "An als véiert... en bitt Begleedung, e Kompetenzbilan an zweet Chancen, esou datt jiddereen säin nächste Schrëtt ka fannen.",
-    "t": 545.48
+    "t": 501.25
    },
    {
     "speaker": "Tom",
     "text": "Léieren ass eng vun de grousse Freeden, an ee vun de grousse Gläichmaacher, vum Liewen.",
-    "t": 552.79
+    "t": 509.08
    },
    {
     "speaker": "Anna",
     "text": "Et kann eng Carrière beflügelen, d'Selbstvertrauen erëmopbauen, an e ganz neit Kapitel opmaachen, an all Alter.",
-    "t": 557.72
+    "t": 513.9
    },
    {
     "speaker": "Tom",
     "text": "An zu Lëtzebuerg steet d'Dier dozou op, fir jiddereen, soubal Dir bereet sidd, duerchzegoen.",
-    "t": 563.96
+    "t": 519.29
    },
    {
     "speaker": "Anna",
-    "text": "Wann et also eppes gëtt, wat Dir ëmmer schonn hutt wëlle léieren... vläicht ass haut den Dag, fir unzefänken.",
-    "t": 569.76
+    "text": "Wann et also eppes gëtt, wat Dir ëmmer schonn hutt wëlle léieren... vläicht ass haut den Dag, fir unzefänken. Dat war eis Episod iwwer dat liewenslaangt Léieren. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 524.44
    },
    {
     "speaker": "Tom",
-    "text": "Villmools Merci, datt Dir haut nogelauschtert hutt.",
-    "t": 574.89
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 574.67
    },
    {
     "speaker": "Anna",
-    "text": "Passt op Iech op, léiert weider, a bis zur nächster Episod. Äddi!",
-    "t": 577.88
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 583.72
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 577.87
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 41,
@@ -97053,7 +97239,7 @@ const EPISODES = [
   "title": "The Pensiounskeess: How Your Pension Works in Luxembourg",
   "description": "Meet the CNAP — the National Pension Insurance Office. When you can retire, how your pension is calculated, what happens to years worked abroad, and what the 2026 reform changes.",
   "audio": "podcast_cnap.mp3",
-  "duration": 982.75,
+  "duration": 920.87,
   "topics": [
    "Old-age pension at 65",
    "Early retirement at 57 or 60",
@@ -97068,1187 +97254,1077 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Hello, and welcome!",
-    "t": 0.05
+    "t": 0.65
    },
    {
     "speaker": "Anna",
     "text": "It's really nice to have you with us today.",
-    "t": 2.54
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt.",
     "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.62
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "That's a programme of living together in Luxembourg.",
-    "t": 10.72
-   },
-   {
-    "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and also cross-border workers, to discover Luxembourg — or re-discover it — and to meet new people.",
-    "t": 14.3
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 23.69
-   },
-   {
-    "speaker": "Tom",
-    "text": "And today we talk about something that concerns every single person who works in Luxembourg.",
-    "t": 25.62
+    "text": "Exactly. And today we talk about something that concerns every single person who works in Luxembourg.",
+    "t": 27.49
    },
    {
     "speaker": "Tom",
     "text": "Retirement — and the pension you receive when you stop working.",
-    "t": 31.18
+    "t": 33.55
    },
    {
     "speaker": "Anna",
     "text": "A big topic!",
-    "t": 35.26
+    "t": 37.38
    },
    {
     "speaker": "Anna",
     "text": "And there is one office at the centre of it all.",
-    "t": 37.28
+    "t": 38.58
    },
    {
     "speaker": "Anna",
     "text": "Tom, tell us its name.",
-    "t": 40.5
+    "t": 41.27
    },
    {
     "speaker": "Tom",
     "text": "In Luxembourgish, people call it the Pensiounskeess — the pension fund.",
-    "t": 43.12
+    "t": 43.33
    },
    {
     "speaker": "Tom",
     "text": "Its official name is the Caisse nationale d'assurance pension.",
-    "t": 48
+    "t": 48.28
    },
    {
     "speaker": "Tom",
     "text": "In English, the National Pension Insurance Office.",
-    "t": 52.15
+    "t": 51.79
    },
    {
     "speaker": "Tom",
     "text": "The short name is C-N-A-P.",
-    "t": 55.93
+    "t": 54.22
    },
    {
     "speaker": "Anna",
-    "text": "The CNAP.",
-    "t": 58.75
-   },
-   {
-    "speaker": "Anna",
-    "text": "And where can people find it online?",
-    "t": 60.81
+    "text": "The CNAP. And where can people find it online?",
+    "t": 56.73
    },
    {
     "speaker": "Tom",
     "text": "The website is c-n-a-p dot public dot l-u.",
-    "t": 63.65
+    "t": 60.22
    },
    {
     "speaker": "Tom",
     "text": "It's available in French, German and English, and it explains the whole pension system in clear language.",
-    "t": 67.38
+    "t": 63.33
    },
    {
     "speaker": "Anna",
-    "text": "Perfect.",
-    "t": 73.62
-   },
-   {
-    "speaker": "Anna",
-    "text": "So let's start simply.",
-    "t": 75.35
+    "text": "Perfect. So let's start simply.",
+    "t": 69.31
    },
    {
     "speaker": "Anna",
     "text": "What is the CNAP?",
-    "t": 77.77
+    "t": 71.37
    },
    {
     "speaker": "Tom",
     "text": "The CNAP is the public office that pays the pensions of the general scheme.",
-    "t": 80.1
+    "t": 73.48
    },
    {
     "speaker": "Tom",
     "text": "It exists in its current form since the first of January two thousand and nine, when four older pension funds were merged into one single fund.",
-    "t": 85.12
+    "t": 77.62
    },
    {
     "speaker": "Anna",
     "text": "One fund for everyone?",
-    "t": 93.42
+    "t": 86.19
    },
    {
     "speaker": "Tom",
     "text": "For almost everyone.",
-    "t": 95.8
+    "t": 87.76
    },
    {
     "speaker": "Tom",
     "text": "The general scheme covers all people working in Luxembourg — employees in the private sector and self-employed people.",
-    "t": 98.22
+    "t": 88.81
    },
    {
     "speaker": "Tom",
     "text": "Civil servants and public employees have their own separate scheme.",
-    "t": 105.08
+    "t": 95.26
    },
    {
     "speaker": "Anna",
     "text": "And cross-border workers?",
-    "t": 109.52
+    "t": 99.26
    },
    {
     "speaker": "Tom",
-    "text": "Yes, absolutely.",
-    "t": 111.94
-   },
-   {
-    "speaker": "Tom",
-    "text": "If you work in Luxembourg, you pay contributions in Luxembourg — it does not matter whether you live in the country or drive in every morning from France, Belgium or Germany.",
-    "t": 114.49
+    "text": "Yes, absolutely. If you work in Luxembourg, you pay contributions in Luxembourg — it does not matter whether you live in the country or drive in every morning from France, Belgium or Germany.",
+    "t": 101.03
    },
    {
     "speaker": "Tom",
     "text": "Your pension rights grow just the same.",
-    "t": 123.86
+    "t": 112.36
    },
    {
     "speaker": "Anna",
-    "text": "Good.",
-    "t": 126.95
-   },
-   {
-    "speaker": "Anna",
-    "text": "And what exactly does the CNAP do?",
-    "t": 128.48
+    "text": "Good. And what exactly does the CNAP do?",
+    "t": 114.55
    },
    {
     "speaker": "Tom",
     "text": "Its mission is to grant pension benefits in three situations.",
-    "t": 131.68
+    "t": 117.2
    },
    {
     "speaker": "Tom",
-    "text": "Old age.",
-    "t": 135.98
-   },
-   {
-    "speaker": "Tom",
-    "text": "Invalidity — when your health no longer lets you work.",
-    "t": 137.91
+    "text": "Old age. Invalidity — when your health no longer lets you work.",
+    "t": 121.37
    },
    {
     "speaker": "Tom",
     "text": "And survival — support for the family when an insured person dies.",
-    "t": 141.69
+    "t": 125.55
    },
    {
     "speaker": "Anna",
     "text": "Old age, invalidity, survival.",
-    "t": 146.26
+    "t": 129.75
    },
    {
     "speaker": "Anna",
     "text": "Before we look at each one — how is all this paid for?",
-    "t": 149.64
+    "t": 132.29
    },
    {
     "speaker": "Tom",
-    "text": "Through contributions.",
-    "t": 153.54
-   },
-   {
-    "speaker": "Tom",
-    "text": "Every month, a part of your salary goes to pension insurance.",
-    "t": 155.96
+    "text": "Through contributions. Every month, a part of your salary goes to pension insurance.",
+    "t": 135.77
    },
    {
     "speaker": "Tom",
     "text": "The cost is shared — the worker pays a part, the employer pays a part, and the State pays a part too.",
-    "t": 160.31
+    "t": 141.23
    },
    {
     "speaker": "Anna",
     "text": "So while you work, you pay in.",
-    "t": 166.58
+    "t": 147.05
    },
    {
     "speaker": "Anna",
     "text": "And later, the fund pays your pension.",
-    "t": 169.51
+    "t": 149.02
    },
    {
     "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 172.7
-   },
-   {
-    "speaker": "Tom",
-    "text": "And every month you work in Luxembourg is written down in your personal insurance record.",
-    "t": 174.63
+    "text": "Exactly. And every month you work in Luxembourg is written down in your personal insurance record.",
+    "t": 151.54
    },
    {
     "speaker": "Tom",
     "text": "That record is the foundation of everything — your pension is calculated from it.",
-    "t": 179.96
+    "t": 156.89
    },
    {
     "speaker": "Anna",
     "text": "We'll come back to that record — it sounds important.",
-    "t": 185.09
+    "t": 162.12
    },
    {
     "speaker": "Anna",
     "text": "But first, the classic case.",
-    "t": 188.73
+    "t": 165.17
    },
    {
     "speaker": "Anna",
     "text": "The old-age pension.",
-    "t": 191.75
+    "t": 167.25
    },
    {
     "speaker": "Anna",
     "text": "When can I retire?",
-    "t": 194.06
+    "t": 168.84
    },
    {
     "speaker": "Tom",
     "text": "The legal retirement age in Luxembourg is sixty-five.",
-    "t": 196.28
+    "t": 170.54
    },
    {
     "speaker": "Tom",
     "text": "To receive an old-age pension at sixty-five, you need at least ten years of insurance — one hundred and twenty months.",
-    "t": 200.38
+    "t": 173.71
    },
    {
     "speaker": "Anna",
-    "text": "Ten years.",
-    "t": 207.11
-   },
-   {
-    "speaker": "Anna",
-    "text": "And do those ten years have to be in Luxembourg?",
-    "t": 208.95
+    "text": "Ten years. And do those ten years have to be in Luxembourg?",
+    "t": 180.78
    },
    {
     "speaker": "Tom",
     "text": "No — and this is very important for our international listeners.",
-    "t": 212.31
+    "t": 184.36
    },
    {
     "speaker": "Tom",
     "text": "Insurance periods from other countries count towards the condition.",
-    "t": 216.75
+    "t": 188.54
    },
    {
     "speaker": "Tom",
     "text": "If you worked five years in Luxembourg and twenty years in Belgium, you clearly pass the ten-year test.",
-    "t": 221.05
+    "t": 192.5
    },
    {
     "speaker": "Anna",
-    "text": "That's reassuring.",
-    "t": 226.98
-   },
-   {
-    "speaker": "Anna",
-    "text": "And is the pension automatic?",
-    "t": 229.11
+    "text": "That's reassuring. And is the pension automatic?",
+    "t": 198.13
    },
    {
     "speaker": "Anna",
     "text": "Does the money simply arrive on my sixty-fifth birthday?",
-    "t": 231.66
+    "t": 201.38
    },
    {
     "speaker": "Tom",
-    "text": "No!",
-    "t": 235.35
-   },
-   {
-    "speaker": "Tom",
-    "text": "This surprises many people.",
-    "t": 236.99
+    "text": "No! This surprises many people.",
+    "t": 204.76
    },
    {
     "speaker": "Tom",
     "text": "Even if you meet all the conditions, you must apply.",
-    "t": 239.74
+    "t": 207.46
    },
    {
     "speaker": "Tom",
     "text": "You send a pension application to the CNAP — the forms are on the website.",
-    "t": 243.58
+    "t": 210.92
    },
    {
     "speaker": "Anna",
     "text": "Good to know.",
-    "t": 248.6
+    "t": 215.55
    },
    {
     "speaker": "Anna",
     "text": "Now, sixty-five is the legal age.",
-    "t": 250.44
+    "t": 216.61
    },
    {
     "speaker": "Anna",
     "text": "But I've heard that some people retire earlier.",
-    "t": 253.79
+    "t": 219.27
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 257.12
-   },
-   {
-    "speaker": "Tom",
-    "text": "There is an early old-age pension, and it has two doors.",
-    "t": 258.79
+    "text": "Yes. There is an early old-age pension, and it has two doors.",
+    "t": 222.15
    },
    {
     "speaker": "Tom",
     "text": "The first door opens at fifty-seven — for people with a very long career of forty years of compulsory insurance.",
-    "t": 262.89
+    "t": 226.45
    },
    {
     "speaker": "Tom",
     "text": "That's four hundred and eighty months of actual work.",
-    "t": 269.51
+    "t": 233.69
    },
    {
     "speaker": "Anna",
     "text": "Forty years of work by age fifty-seven.",
-    "t": 273.04
+    "t": 236.81
    },
    {
     "speaker": "Anna",
     "text": "So someone who started working very young.",
-    "t": 276.51
+    "t": 239.54
    },
    {
     "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 279.7
-   },
-   {
-    "speaker": "Tom",
-    "text": "The second door opens at sixty.",
-    "t": 281.63
+    "text": "Exactly. The second door opens at sixty.",
+    "t": 242.12
    },
    {
     "speaker": "Tom",
     "text": "There you also need forty years, but more kinds of periods count towards them — for example, certain study years or child-raising periods, together with at least ten years of real contributions.",
-    "t": 284.67
+    "t": 245.14
    },
    {
     "speaker": "Anna",
     "text": "And can I work while I receive an early pension?",
-    "t": 295.07
+    "t": 256.87
    },
    {
     "speaker": "Tom",
-    "text": "Carefully!",
-    "t": 298.35
-   },
-   {
-    "speaker": "Tom",
-    "text": "With the early pension, there are income limits.",
-    "t": 300.22
+    "text": "Carefully! With the early pension, there are income limits.",
+    "t": 259.72
    },
    {
     "speaker": "Tom",
     "text": "A small job is fine — up to one third of the minimum social wage, nothing changes.",
-    "t": 303.84
+    "t": 263.02
    },
    {
     "speaker": "Tom",
     "text": "Above that, the pension can be reduced, or even withdrawn if you earn too much.",
-    "t": 309.34
+    "t": 268.11
    },
    {
     "speaker": "Anna",
     "text": "And at sixty-five?",
-    "t": 314.69
+    "t": 272.25
    },
    {
     "speaker": "Tom",
     "text": "At sixty-five, total freedom.",
-    "t": 316.96
+    "t": 273.8
    },
    {
     "speaker": "Tom",
     "text": "Once you receive the normal old-age pension, you can work as much as you like — it has no effect on your pension amount.",
-    "t": 320
+    "t": 276.06
    },
    {
     "speaker": "Tom",
     "text": "And a nice detail — the pension contributions you pay on that new work can be reimbursed every year, on request.",
-    "t": 326.88
+    "t": 282.82
    },
    {
     "speaker": "Anna",
-    "text": "Really?",
-    "t": 333.64
-   },
-   {
-    "speaker": "Anna",
-    "text": "The system truly rewards people who stay active.",
-    "t": 335.25
+    "text": "Really? The system truly rewards people who stay active.",
+    "t": 289.25
    },
    {
     "speaker": "Anna",
     "text": "Okay — now let's open that insurance record you mentioned.",
-    "t": 338.96
+    "t": 293.15
    },
    {
     "speaker": "Anna",
     "text": "What's inside?",
-    "t": 343.02
+    "t": 296.6
    },
    {
     "speaker": "Tom",
     "text": "Think of it as your pension diary.",
-    "t": 344.95
+    "t": 297.93
    },
    {
     "speaker": "Tom",
     "text": "It lists, month by month, all your insurance periods.",
-    "t": 347.84
+    "t": 299.81
    },
    {
     "speaker": "Tom",
     "text": "Luxembourg counts in calendar months — a month counts if you worked at least sixty-four hours as an employee, or ten days as a self-employed person.",
-    "t": 351.95
+    "t": 303.25
    },
    {
     "speaker": "Anna",
     "text": "And how do I know what's written in my diary?",
-    "t": 360.16
+    "t": 312.54
    },
    {
     "speaker": "Tom",
     "text": "The CNAP sends you a career statement every year, automatically, if you were insured the year before.",
-    "t": 363.25
+    "t": 315.04
    },
    {
     "speaker": "Tom",
-    "text": "Check it!",
-    "t": 369.78
-   },
-   {
-    "speaker": "Tom",
-    "text": "Make sure your months and salaries are correct.",
-    "t": 371.51
+    "text": "Check it! Make sure your months and salaries are correct.",
+    "t": 321.31
    },
    {
     "speaker": "Tom",
     "text": "And from the age of fifty-five, the statement even shows an estimate of your future pension.",
-    "t": 374.88
+    "t": 325.02
    },
    {
     "speaker": "Anna",
     "text": "An estimate — that really helps with planning.",
-    "t": 380.66
+    "t": 330.2
    },
    {
     "speaker": "Anna",
     "text": "Now, you said some periods count even without contributions?",
-    "t": 384.1
+    "t": 333.14
    },
    {
     "speaker": "Tom",
     "text": "Yes — these are called additional periods.",
-    "t": 388.65
+    "t": 336.62
    },
    {
     "speaker": "Tom",
     "text": "For example, periods of study or vocational training between eighteen and twenty-seven.",
-    "t": 391.96
+    "t": 339.08
    },
    {
     "speaker": "Tom",
     "text": "Or the famous baby years — time spent raising young children under six.",
-    "t": 397.8
+    "t": 343.57
    },
    {
     "speaker": "Anna",
     "text": "So a parent who stayed at home with the children is not forgotten.",
-    "t": 402.64
+    "t": 347.84
    },
    {
     "speaker": "Tom",
     "text": "Not at all.",
-    "t": 406.81
+    "t": 351.74
    },
    {
     "speaker": "Tom",
     "text": "For two children, at least eight years of child-raising time can count; for three children, ten years.",
-    "t": 408.88
+    "t": 352.71
    },
    {
     "speaker": "Tom",
     "text": "There are also periods for caring for a dependent person.",
-    "t": 415.03
+    "t": 359.01
    },
    {
     "speaker": "Tom",
     "text": "These periods help you meet the conditions — they fill gaps in the career.",
-    "t": 419.02
+    "t": 362.08
    },
    {
     "speaker": "Anna",
-    "text": "That's fair.",
-    "t": 423.69
-   },
-   {
-    "speaker": "Anna",
-    "text": "Now the question everyone is waiting for.",
-    "t": 425.57
+    "text": "That's fair. Now the question everyone is waiting for.",
+    "t": 366.54
    },
    {
     "speaker": "Anna",
     "text": "How much pension will I get?",
-    "t": 428.81
+    "t": 369.78
    },
    {
     "speaker": "Tom",
     "text": "The exact calculation is complex, but the idea is simple.",
-    "t": 431.39
+    "t": 371.77
    },
    {
     "speaker": "Tom",
     "text": "Your pension has two building blocks.",
-    "t": 436.03
+    "t": 375.3
    },
    {
     "speaker": "Tom",
     "text": "The first is a flat-rate part — it depends on the length of your career, up to forty years.",
-    "t": 439.09
+    "t": 377.39
    },
    {
     "speaker": "Tom",
     "text": "The second is a proportional part — it depends on the salaries you earned during your whole career.",
-    "t": 444.55
+    "t": 383.17
    },
    {
     "speaker": "Anna",
     "text": "So — how long you worked, plus how much you earned.",
-    "t": 450.33
+    "t": 390.19
    },
    {
     "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 454.32
-   },
-   {
-    "speaker": "Tom",
-    "text": "The longer the career and the higher the income, the higher the pension.",
-    "t": 456.25
+    "text": "Exactly. The longer the career and the higher the income, the higher the pension.",
+    "t": 393.61
    },
    {
     "speaker": "Tom",
     "text": "And there is a bonus — if you work beyond a certain combination of age and career years, the rate of the proportional part goes up.",
-    "t": 460.69
+    "t": 398.25
    },
    {
     "speaker": "Tom",
     "text": "Another encouragement to stay active.",
-    "t": 468.05
+    "t": 406.17
    },
    {
     "speaker": "Anna",
     "text": "Is there a minimum?",
-    "t": 471.13
+    "t": 408.31
    },
    {
     "speaker": "Anna",
     "text": "For people with small salaries?",
-    "t": 473.13
+    "t": 409.71
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 475.92
+    "text": "Yes. With a full career of forty years, the law guarantees a minimum pension.",
+    "t": 411.8
    },
    {
     "speaker": "Tom",
-    "text": "With a full career of forty years, the law guarantees a minimum pension.",
-    "t": 477.7
-   },
-   {
-    "speaker": "Tom",
-    "text": "In May twenty twenty-five, that minimum was about two thousand three hundred and fifty euros gross per month.",
-    "t": 482.52
+    "text": "In twenty twenty-six, that minimum is a little over two thousand four hundred euros gross per month.",
+    "t": 417.5
    },
    {
     "speaker": "Tom",
     "text": "If your calculated pension is below the minimum, you receive a supplement.",
-    "t": 489.05
+    "t": 424.15
    },
    {
     "speaker": "Anna",
     "text": "And a maximum?",
-    "t": 493.91
+    "t": 428.26
    },
    {
     "speaker": "Tom",
     "text": "Yes, there is also a legal ceiling — no personal pension can go above it.",
-    "t": 495.86
+    "t": 429.62
    },
    {
     "speaker": "Tom",
     "text": "And one more thing — pensions are not frozen.",
-    "t": 500.9
+    "t": 434.07
    },
    {
     "speaker": "Tom",
     "text": "They follow the cost of living, with the index, and they are also adjusted to follow salaries.",
-    "t": 504.21
+    "t": 438.15
    },
    {
     "speaker": "Tom",
-    "text": "For example, on the first of January twenty twenty-six, pensions rose by one point five percent.",
-    "t": 510.05
+    "text": "For example, in twenty twenty-six, pensions rose by one point five percent in January, and by another two point five percent with the index in June.",
+    "t": 443.53
    },
    {
     "speaker": "Anna",
     "text": "So the pension keeps its value over time.",
-    "t": 516.62
+    "t": 452.35
    },
    {
     "speaker": "Anna",
     "text": "And I've heard pensioners also get something extra in December?",
-    "t": 519.98
+    "t": 454.97
    },
    {
     "speaker": "Tom",
     "text": "Yes — the end-of-year allowance.",
-    "t": 523.99
+    "t": 458.38
    },
    {
     "speaker": "Tom",
     "text": "People entitled to a pension on the first of December receive it.",
-    "t": 526.88
+    "t": 460.65
    },
    {
     "speaker": "Tom",
     "text": "The amount depends on the career length — in twenty twenty-six, the maximum is a bit over one thousand euros for forty years of insurance.",
-    "t": 531.34
+    "t": 464.52
    },
    {
     "speaker": "Anna",
-    "text": "Very nice.",
-    "t": 539.45
-   },
-   {
-    "speaker": "Anna",
-    "text": "Now — Luxembourg is a country of international careers.",
-    "t": 541.42
+    "text": "Very nice. Now — Luxembourg is a country of international careers.",
+    "t": 472.65
    },
    {
     "speaker": "Anna",
     "text": "I work here, but before, I worked in Portugal, or Italy, or France.",
-    "t": 545.62
+    "t": 476.72
    },
    {
     "speaker": "Anna",
     "text": "What happens to those years?",
-    "t": 551.24
+    "t": 481.03
    },
    {
     "speaker": "Tom",
     "text": "Nothing is lost — that's the golden rule.",
-    "t": 553.84
+    "t": 482.82
    },
    {
     "speaker": "Tom",
     "text": "Inside the European Union, and also Switzerland, Iceland, Liechtenstein and Norway, all your insurance periods are added together to check the conditions.",
-    "t": 557.03
+    "t": 485.24
    },
    {
     "speaker": "Tom",
     "text": "Luxembourg also has agreements with many other countries.",
-    "t": 566.05
+    "t": 494.21
    },
    {
     "speaker": "Anna",
     "text": "Added together — so my Portuguese years help me qualify in Luxembourg.",
-    "t": 570.22
+    "t": 497.68
    },
    {
     "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 575.24
-   },
-   {
-    "speaker": "Tom",
-    "text": "And then each country pays its own part — a partial pension for the years you worked there.",
-    "t": 577.17
+    "text": "Exactly. And then each country pays its own part — a partial pension for the years you worked there.",
+    "t": 502.46
    },
    {
     "speaker": "Tom",
     "text": "You can receive several pensions at the same time, from several countries.",
-    "t": 582.35
+    "t": 508.62
    },
    {
     "speaker": "Tom",
     "text": "In the end, you get one pension from each country where you built up rights.",
-    "t": 587.21
+    "t": 512.38
    },
    {
     "speaker": "Anna",
     "text": "Do I have to apply in every country separately?",
-    "t": 591.98
+    "t": 516.71
    },
    {
     "speaker": "Anna",
     "text": "That sounds like a lot of paperwork.",
-    "t": 595.34
+    "t": 519.59
    },
    {
     "speaker": "Tom",
     "text": "Good news — no.",
-    "t": 598.29
+    "t": 522.17
    },
    {
     "speaker": "Tom",
     "text": "If you live in Luxembourg, you submit one application, to the CNAP.",
-    "t": 600.51
+    "t": 523.52
    },
    {
     "speaker": "Tom",
     "text": "The CNAP then contacts the foreign pension institutions for you.",
-    "t": 605.68
+    "t": 528.7
    },
    {
     "speaker": "Tom",
     "text": "It can take some time, because the offices exchange official documents, but it is one procedure.",
-    "t": 610.41
+    "t": 532.5
    },
    {
     "speaker": "Anna",
     "text": "One application, and the offices talk to each other.",
-    "t": 616.69
+    "t": 538.59
    },
    {
     "speaker": "Anna",
-    "text": "Excellent.",
-    "t": 620.65
-   },
-   {
-    "speaker": "Anna",
-    "text": "Now let's look at the second type of pension.",
-    "t": 622.44
+    "text": "Excellent. Now let's look at the second type of pension.",
+    "t": 541.72
    },
    {
     "speaker": "Anna",
     "text": "Invalidity.",
-    "t": 625.62
+    "t": 545.92
    },
    {
     "speaker": "Tom",
     "text": "The invalidity pension is there when life takes a hard turn.",
-    "t": 627.55
+    "t": 547.31
    },
    {
     "speaker": "Tom",
     "text": "If, because of a long illness or infirmity, you can no longer work in your profession or in another job that matches your strengths, you may receive an invalidity pension — before the age of sixty-five.",
-    "t": 631.63
+    "t": 551.08
    },
    {
     "speaker": "Anna",
     "text": "What are the conditions?",
-    "t": 642.36
+    "t": 563.27
    },
    {
     "speaker": "Tom",
     "text": "In general, you need at least twelve months of insurance during the three years before the invalidity.",
-    "t": 644.65
+    "t": 564.93
    },
    {
     "speaker": "Tom",
     "text": "But — important — if the invalidity comes from an accident or a recognised occupational disease, no waiting period is needed at all.",
-    "t": 650.53
+    "t": 571.01
    },
    {
     "speaker": "Anna",
     "text": "And what happens when the person turns sixty-five?",
-    "t": 658.53
+    "t": 579.32
    },
    {
     "speaker": "Tom",
     "text": "The invalidity pension is automatically converted into an old-age pension.",
-    "t": 662.1
+    "t": 582.61
    },
    {
     "speaker": "Tom",
     "text": "It's just a change of name — the amount is not recalculated.",
-    "t": 667.1
+    "t": 587.53
    },
    {
     "speaker": "Tom",
     "text": "Nobody has to worry about that birthday.",
-    "t": 671.43
+    "t": 590.85
    },
    {
     "speaker": "Anna",
-    "text": "Good.",
-    "t": 674.65
-   },
-   {
-    "speaker": "Anna",
-    "text": "And the third type — the survival pension.",
-    "t": 676.18
+    "text": "Good. And the third type — the survival pension.",
+    "t": 593.14
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 679.59
-   },
-   {
-    "speaker": "Tom",
-    "text": "When an insured person or a pensioner dies, the family is protected.",
-    "t": 681.26
+    "text": "Yes. When an insured person or a pensioner dies, the family is protected.",
+    "t": 596.77
    },
    {
     "speaker": "Tom",
     "text": "The surviving husband or wife — and also the surviving registered partner — can receive a survival pension, calculated from the pension of the person who died.",
-    "t": 685.96
+    "t": 601.66
    },
    {
     "speaker": "Anna",
     "text": "And the children?",
-    "t": 694.78
+    "t": 610.65
    },
    {
     "speaker": "Tom",
     "text": "Children receive an orphan pension, after the death of either the father or the mother.",
-    "t": 696.71
+    "t": 611.93
    },
    {
     "speaker": "Tom",
     "text": "It is paid until the age of eighteen — and it can continue up to twenty-seven if the young person is still studying or in training for their future profession.",
-    "t": 701.86
+    "t": 616.74
    },
    {
     "speaker": "Anna",
     "text": "That's an important safety net for families.",
-    "t": 710.13
+    "t": 625.22
    },
    {
     "speaker": "Anna",
     "text": "Now, practical questions.",
-    "t": 713.46
+    "t": 627.71
    },
    {
     "speaker": "Anna",
     "text": "How is the pension actually paid?",
-    "t": 716.43
+    "t": 629.5
    },
    {
     "speaker": "Tom",
     "text": "Every month, in advance, directly to your bank account.",
-    "t": 719.23
+    "t": 631.72
    },
    {
     "speaker": "Tom",
     "text": "The CNAP publishes a payment calendar on its website, so you know the exact dates.",
-    "t": 723.34
+    "t": 635.24
    },
    {
     "speaker": "Tom",
     "text": "Small example — the January pensions are usually paid just before Christmas.",
-    "t": 729
+    "t": 640.39
    },
    {
     "speaker": "Anna",
     "text": "A nice present before the holidays!",
-    "t": 734.17
+    "t": 645.07
    },
    {
     "speaker": "Anna",
     "text": "And how do I apply, step by step?",
-    "t": 737.12
+    "t": 647.14
    },
    {
     "speaker": "Tom",
     "text": "You download the right form from c-n-a-p dot public dot l-u — or ask for it.",
-    "t": 740.36
+    "t": 649.87
    },
    {
     "speaker": "Tom",
     "text": "You fill it in, sign it, and send it by post with a bank statement showing your account.",
-    "t": 745.43
+    "t": 655.26
    },
    {
     "speaker": "Tom",
     "text": "The CNAP sends you an acknowledgement, checks your career, and may ask for documents.",
-    "t": 750.85
+    "t": 660.16
    },
    {
     "speaker": "Anna",
     "text": "And if there is a gap in my record — a year the CNAP doesn't know about?",
-    "t": 756.44
+    "t": 665.19
    },
    {
     "speaker": "Tom",
     "text": "They will ask you about it, and they can request official proof from other authorities, in Luxembourg and abroad.",
-    "t": 761.26
+    "t": 670.49
    },
    {
     "speaker": "Tom",
     "text": "That's why it's smart to check your annual career statement long before retirement — problems are easier to fix early.",
-    "t": 767.95
+    "t": 676.67
    },
    {
     "speaker": "Anna",
     "text": "Very good advice.",
-    "t": 774.54
+    "t": 683.31
    },
    {
     "speaker": "Anna",
     "text": "And while we wait for the final decision — no money?",
-    "t": 776.76
+    "t": 684.63
    },
    {
     "speaker": "Tom",
-    "text": "Don't worry.",
-    "t": 780.38
-   },
-   {
-    "speaker": "Tom",
-    "text": "If the conditions are met, the CNAP normally pays you an advance on your pension while the final calculation is being completed.",
-    "t": 782.26
+    "text": "Don't worry. If the conditions are met, the CNAP normally pays you an advance on your pension while the final calculation is being completed.",
+    "t": 688.27
    },
    {
     "speaker": "Tom",
     "text": "And many certificates — for example proof of your pension — can be requested online, including through MyGuichet dot l-u.",
-    "t": 789.82
+    "t": 697.21
    },
    {
     "speaker": "Anna",
     "text": "Now Tom, we should mention the news.",
-    "t": 797.28
+    "t": 704.92
    },
    {
     "speaker": "Anna",
     "text": "The pension system is changing a little, isn't it?",
-    "t": 800.48
+    "t": 707.22
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 804.14
-   },
-   {
-    "speaker": "Tom",
-    "text": "In December twenty twenty-five, the Chamber of Deputies adopted a reform of the pension system.",
-    "t": 805.8
+    "text": "Yes. In December twenty twenty-five, the Chamber of Deputies adopted a reform of the pension system.",
+    "t": 710.1
    },
    {
     "speaker": "Tom",
     "text": "The goal is to keep the system financially healthy for the long term — and the legal retirement age stays at sixty-five.",
-    "t": 811.98
+    "t": 717.39
    },
    {
     "speaker": "Anna",
     "text": "What are the main changes?",
-    "t": 818.73
+    "t": 723.89
    },
    {
     "speaker": "Tom",
     "text": "The overall contribution rate rises from twenty-four percent to twenty-five point five percent.",
-    "t": 821.12
+    "t": 725.65
    },
    {
     "speaker": "Tom",
     "text": "Conditions for some early pensions are adapted gradually, step by step, from July twenty twenty-six.",
-    "t": 827.14
+    "t": 730.99
    },
    {
     "speaker": "Tom",
     "text": "Study years from the age of eighteen are considered more flexibly.",
-    "t": 833.69
+    "t": 736.98
    },
    {
     "speaker": "Tom",
     "text": "And a progressive pension is introduced — a way to move into retirement gradually.",
-    "t": 838.2
+    "t": 740.31
    },
    {
     "speaker": "Anna",
     "text": "And for people who are already retired?",
-    "t": 843.49
+    "t": 745.01
    },
    {
     "speaker": "Tom",
-    "text": "Nothing changes.",
-    "t": 846.44
-   },
-   {
-    "speaker": "Tom",
-    "text": "Pensions already being paid are not affected, and the old-age pension at sixty-five stays as it is.",
-    "t": 848.61
+    "text": "Nothing changes. Pensions already being paid are not affected, and the old-age pension at sixty-five stays as it is.",
+    "t": 747.51
    },
    {
     "speaker": "Tom",
     "text": "There is even a new tax advantage for people who could retire but choose to keep working — you can request it through MyGuichet dot l-u.",
-    "t": 854.76
+    "t": 755.06
    },
    {
     "speaker": "Anna",
     "text": "So the message is — stay informed, but don't panic.",
-    "t": 862.25
+    "t": 764.09
    },
    {
     "speaker": "Anna",
     "text": "For the details, always check the official pages.",
-    "t": 866.29
+    "t": 768.22
    },
    {
     "speaker": "Tom",
-    "text": "Exactly.",
-    "t": 870.15
-   },
-   {
-    "speaker": "Tom",
-    "text": "The CNAP website has a special news section about the twenty twenty-six changes, in several languages.",
-    "t": 872.08
+    "text": "Exactly. The CNAP website has a special news section about the twenty twenty-six changes, in several languages.",
+    "t": 771.35
    },
    {
     "speaker": "Anna",
     "text": "And if someone has a personal question about their own file?",
-    "t": 878.61
+    "t": 778.51
    },
    {
     "speaker": "Tom",
     "text": "The CNAP has a pension hotline — the number is on the website.",
-    "t": 882.39
+    "t": 781.9
    },
    {
     "speaker": "Tom",
     "text": "There is also a reception desk in Luxembourg City, open Monday to Friday, and contact forms online.",
-    "t": 886.96
+    "t": 786.29
    },
    {
     "speaker": "Tom",
     "text": "And for cross-border careers, there are international information days, where specialists from Luxembourg, Germany, France and Belgium answer your questions together.",
-    "t": 893.47
+    "t": 792.57
    },
    {
     "speaker": "Anna",
     "text": "That's a great service.",
-    "t": 903.06
+    "t": 801.58
    },
    {
     "speaker": "Anna",
     "text": "Time for our little summary.",
-    "t": 905.46
+    "t": 803.04
    },
    {
     "speaker": "Anna",
     "text": "Tom — the essentials?",
-    "t": 907.9
+    "t": 804.74
    },
    {
     "speaker": "Tom",
     "text": "The Pensiounskeess — the CNAP — pays the pensions of the private sector and the self-employed.",
-    "t": 910.43
+    "t": 807.1
    },
    {
     "speaker": "Tom",
     "text": "Old-age pension at sixty-five, with at least ten years of insurance.",
-    "t": 916.27
+    "t": 812.9
    },
    {
     "speaker": "Tom",
     "text": "Early pension possible at fifty-seven or sixty with a long career.",
-    "t": 920.94
+    "t": 817.54
    },
    {
     "speaker": "Anna",
     "text": "The pension is never automatic — you must apply.",
-    "t": 925.66
+    "t": 821.37
    },
    {
     "speaker": "Anna",
     "text": "Your insurance record is your pension diary — check your annual statement, and from fifty-five it shows an estimate.",
-    "t": 929.46
+    "t": 825.19
    },
    {
     "speaker": "Tom",
     "text": "Years worked in other countries are not lost — they are added together, and each country pays its part.",
-    "t": 936.52
+    "t": 832.53
    },
    {
     "speaker": "Tom",
     "text": "One application at the CNAP is enough.",
-    "t": 942.54
+    "t": 839.02
    },
    {
     "speaker": "Anna",
     "text": "Invalidity and survival pensions protect you and your family when life is difficult.",
-    "t": 946.21
+    "t": 841.79
    },
    {
     "speaker": "Anna",
     "text": "And pensions follow the cost of living — plus a little extra at the end of the year.",
-    "t": 951.65
+    "t": 847.35
    },
    {
     "speaker": "Tom",
     "text": "And for everything — forms, the payment calendar, the reform news, the hotline — one address: c-n-a-p dot public dot l-u.",
-    "t": 957
+    "t": 852.48
    },
    {
     "speaker": "Anna",
-    "text": "Wonderful.",
-    "t": 964.75
+    "text": "Wonderful. That's the end of our journey through the pension system.",
+    "t": 862.96
    },
    {
     "speaker": "Anna",
-    "text": "That's the end of our journey through the pension system.",
-    "t": 966.59
-   },
-   {
-    "speaker": "Anna",
-    "text": "Thank you for listening — and remember, it's never too early to think about your pension.",
-    "t": 970.05
+    "text": "And remember, it's never too early to think about your pension.",
+    "t": 867.06
    },
    {
     "speaker": "Tom",
     "text": "Check that career statement!",
-    "t": 975.56
-   },
-   {
-    "speaker": "Tom",
-    "text": "Take care, everyone — goodbye!",
-    "t": 978.14
+    "t": 870.79
    },
    {
     "speaker": "Anna",
-    "text": "Goodbye!",
-    "t": 981.13
+    "text": "That was our episode about the Pensiounskeess.",
+    "t": 872.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 875.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 884.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 902.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 909.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 911.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 916.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 917.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 919.27
    }
   ],
   "questions": [
@@ -98452,2855 +98528,2674 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_cnap_fr.mp3",
-  "duration_fr": 1006.37,
+  "duration_fr": 911.44,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bienvenue !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "C'est un vrai plaisir de vous avoir avec nous aujourd'hui.",
-    "t": 2.6
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
     "text": "Bonjour à tous !",
-    "t": 6.44
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 8.55
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme du vivre-ensemble au Luxembourg.",
-    "t": 12.01
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les travailleurs frontaliers, à découvrir le Luxembourg — ou à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.54
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 25.72
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et aujourd'hui, nous parlons d'un sujet qui concerne chaque personne qui travaille au Luxembourg.",
-    "t": 27.56
+    "text": "Exactement. Et aujourd'hui, nous parlons d'un sujet qui concerne chaque personne qui travaille au Luxembourg.",
+    "t": 23.07
    },
    {
     "speaker": "Tom",
     "text": "La retraite — et la pension que vous recevez quand vous arrêtez de travailler.",
-    "t": 33.13
+    "t": 28.58
    },
    {
     "speaker": "Anna",
     "text": "Un grand sujet !",
-    "t": 37.37
+    "t": 32.81
    },
    {
     "speaker": "Anna",
     "text": "Et il y a un organisme au centre de tout cela.",
-    "t": 39.32
+    "t": 33.89
    },
    {
     "speaker": "Anna",
     "text": "Tom, dis-nous son nom.",
-    "t": 42.54
+    "t": 36.12
    },
    {
     "speaker": "Tom",
     "text": "En luxembourgeois, les gens l'appellent la Pensiounskeess — la caisse de pension.",
-    "t": 44.96
+    "t": 37.5
    },
    {
     "speaker": "Tom",
     "text": "Son nom officiel est la Caisse nationale d'assurance pension.",
-    "t": 49.71
+    "t": 42.07
    },
    {
     "speaker": "Tom",
     "text": "Le nom court, c'est C-N-A-P.",
-    "t": 53.49
+    "t": 45.46
    },
    {
     "speaker": "Anna",
-    "text": "La CNAP.",
-    "t": 56.33
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et où peut-on la trouver en ligne ?",
-    "t": 58.08
+    "text": "La CNAP. Et où peut-on la trouver en ligne ?",
+    "t": 47.68
    },
    {
     "speaker": "Tom",
     "text": "Le site internet est c-n-a-p point public point l-u.",
-    "t": 60.7
+    "t": 51.26
    },
    {
     "speaker": "Tom",
     "text": "Il est disponible en français, en allemand et en anglais, et il explique tout le système de pension dans un langage clair.",
-    "t": 64.41
+    "t": 55.6
    },
    {
     "speaker": "Anna",
-    "text": "Parfait.",
-    "t": 71.2
-   },
-   {
-    "speaker": "Anna",
-    "text": "Alors commençons simplement.",
-    "t": 72.8
+    "text": "Parfait. Alors commençons simplement.",
+    "t": 62.52
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que la CNAP ?",
-    "t": 75.33
+    "t": 64.53
    },
    {
     "speaker": "Tom",
     "text": "La CNAP est l'organisme public qui paie les pensions du régime général.",
-    "t": 77.3
+    "t": 66.58
    },
    {
     "speaker": "Tom",
     "text": "Elle existe sous sa forme actuelle depuis le premier janvier deux mille neuf, quand quatre anciennes caisses de pension ont été fusionnées en une seule caisse.",
-    "t": 81.76
+    "t": 71.21
    },
    {
     "speaker": "Anna",
     "text": "Une seule caisse pour tout le monde ?",
-    "t": 89.63
+    "t": 79.75
    },
    {
     "speaker": "Tom",
     "text": "Pour presque tout le monde.",
-    "t": 92.34
+    "t": 81.62
    },
    {
     "speaker": "Tom",
     "text": "Le régime général couvre toutes les personnes qui travaillent au Luxembourg — les salariés du secteur privé et les indépendants.",
-    "t": 94.6
+    "t": 83.03
    },
    {
     "speaker": "Tom",
     "text": "Les fonctionnaires et les employés publics ont leur propre régime séparé.",
-    "t": 101.11
+    "t": 89.93
    },
    {
     "speaker": "Anna",
     "text": "Et les travailleurs frontaliers ?",
-    "t": 105.44
+    "t": 94.2
    },
    {
     "speaker": "Tom",
-    "text": "Oui, absolument.",
-    "t": 108.01
-   },
-   {
-    "speaker": "Tom",
-    "text": "Si vous travaillez au Luxembourg, vous payez des cotisations au Luxembourg — peu importe que vous habitiez dans le pays ou que vous veniez chaque matin de France, de Belgique ou d'Allemagne.",
-    "t": 110.21
+    "text": "Oui, absolument. Si vous travaillez au Luxembourg, vous payez des cotisations au Luxembourg — peu importe que vous habitiez dans le pays ou que vous veniez chaque matin de France, de Belgique ou d'Allemagne.",
+    "t": 95.9
    },
    {
     "speaker": "Tom",
     "text": "Vos droits à pension grandissent exactement de la même façon.",
-    "t": 119.78
+    "t": 106.9
    },
    {
     "speaker": "Anna",
-    "text": "Très bien.",
-    "t": 123.58
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et que fait exactement la CNAP ?",
-    "t": 125.26
+    "text": "Très bien. Et que fait exactement la CNAP ?",
+    "t": 110.46
    },
    {
     "speaker": "Tom",
     "text": "Sa mission est d'accorder des prestations de pension dans trois situations.",
-    "t": 127.97
+    "t": 112.98
    },
    {
     "speaker": "Tom",
-    "text": "La vieillesse.",
-    "t": 132.25
-   },
-   {
-    "speaker": "Tom",
-    "text": "L'invalidité — quand votre santé ne vous permet plus de travailler.",
-    "t": 134.23
+    "text": "La vieillesse. L'invalidité — quand votre santé ne vous permet plus de travailler.",
+    "t": 116.71
    },
    {
     "speaker": "Tom",
     "text": "Et la survie — un soutien pour la famille quand une personne assurée décède.",
-    "t": 138.34
+    "t": 121.57
    },
    {
     "speaker": "Anna",
     "text": "Vieillesse, invalidité, survie.",
-    "t": 142.89
+    "t": 125.89
    },
    {
     "speaker": "Anna",
     "text": "Avant de regarder chacune d'elles — comment tout cela est-il financé ?",
-    "t": 146.42
+    "t": 129.13
    },
    {
     "speaker": "Tom",
     "text": "Par les cotisations.",
-    "t": 150.72
+    "t": 132.65
    },
    {
     "speaker": "Tom",
     "text": "Chaque mois, une partie de votre salaire va à l'assurance pension.",
-    "t": 152.81
+    "t": 134.13
    },
    {
     "speaker": "Tom",
     "text": "Le coût est partagé — le travailleur paie une partie, l'employeur paie une partie, et l'État paie une partie aussi.",
-    "t": 157.14
+    "t": 137.66
    },
    {
     "speaker": "Anna",
     "text": "Donc pendant que vous travaillez, vous cotisez.",
-    "t": 163.67
+    "t": 144.11
    },
    {
     "speaker": "Anna",
     "text": "Et plus tard, la caisse paie votre pension.",
-    "t": 167.33
+    "t": 146.48
    },
    {
     "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 170.75
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et chaque mois où vous travaillez au Luxembourg est inscrit dans votre carrière d'assurance personnelle.",
-    "t": 172.59
+    "text": "Exactement. Et chaque mois où vous travaillez au Luxembourg est inscrit dans votre carrière d'assurance personnelle.",
+    "t": 149
    },
    {
     "speaker": "Tom",
     "text": "Cette carrière est la base de tout — votre pension est calculée à partir d'elle.",
-    "t": 177.88
+    "t": 154.55
    },
    {
     "speaker": "Anna",
     "text": "Nous reviendrons sur cette carrière — elle semble importante.",
-    "t": 182.36
+    "t": 159
    },
    {
     "speaker": "Anna",
     "text": "Mais d'abord, le cas classique.",
-    "t": 186.27
+    "t": 161.82
    },
    {
     "speaker": "Anna",
     "text": "La pension de vieillesse.",
-    "t": 189.24
+    "t": 163.76
    },
    {
     "speaker": "Anna",
     "text": "Quand est-ce que je peux prendre ma retraite ?",
-    "t": 191.68
+    "t": 165.04
    },
    {
     "speaker": "Tom",
     "text": "L'âge légal de la retraite au Luxembourg est de soixante-cinq ans.",
-    "t": 194.66
+    "t": 167.18
    },
    {
     "speaker": "Tom",
     "text": "Pour recevoir une pension de vieillesse à soixante-cinq ans, il vous faut au moins dix années d'assurance — cent vingt mois.",
-    "t": 198.56
+    "t": 170.75
    },
    {
     "speaker": "Anna",
-    "text": "Dix ans.",
-    "t": 204.85
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et est-ce que ces dix années doivent être au Luxembourg ?",
-    "t": 206.45
+    "text": "Dix ans. Et est-ce que ces dix années doivent être au Luxembourg ?",
+    "t": 177.11
    },
    {
     "speaker": "Tom",
     "text": "Non — et c'est très important pour nos auditeurs internationaux.",
-    "t": 209.8
+    "t": 180.73
    },
    {
     "speaker": "Tom",
     "text": "Les périodes d'assurance dans d'autres pays comptent pour cette condition.",
-    "t": 213.73
+    "t": 184.16
    },
    {
     "speaker": "Tom",
     "text": "Si vous avez travaillé cinq ans au Luxembourg et vingt ans en Belgique, vous remplissez clairement la condition des dix ans.",
-    "t": 217.81
+    "t": 187.77
    },
    {
     "speaker": "Anna",
-    "text": "C'est rassurant.",
-    "t": 224.19
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et la pension est-elle automatique ?",
-    "t": 226.09
+    "text": "C'est rassurant. Et la pension est-elle automatique ?",
+    "t": 193.93
    },
    {
     "speaker": "Anna",
     "text": "Est-ce que l'argent arrive tout simplement le jour de mes soixante-cinq ans ?",
-    "t": 228.94
+    "t": 196.65
    },
    {
     "speaker": "Tom",
-    "text": "Non !",
-    "t": 233.18
-   },
-   {
-    "speaker": "Tom",
-    "text": "Cela surprend beaucoup de gens.",
-    "t": 234.57
+    "text": "Non ! Cela surprend beaucoup de gens.",
+    "t": 200.12
    },
    {
     "speaker": "Tom",
     "text": "Même si vous remplissez toutes les conditions, vous devez faire une demande.",
-    "t": 237.1
+    "t": 202.14
    },
    {
     "speaker": "Tom",
     "text": "Vous envoyez une demande de pension à la CNAP — les formulaires sont sur le site internet.",
-    "t": 241.63
+    "t": 205.89
    },
    {
     "speaker": "Anna",
     "text": "Bon à savoir.",
-    "t": 246.69
+    "t": 210.97
    },
    {
     "speaker": "Anna",
     "text": "Alors, soixante-cinq ans, c'est l'âge légal.",
-    "t": 248.76
+    "t": 212.07
    },
    {
     "speaker": "Anna",
     "text": "Mais j'ai entendu que certaines personnes partent à la retraite plus tôt.",
-    "t": 252.58
+    "t": 213.99
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 256.71
-   },
-   {
-    "speaker": "Tom",
-    "text": "Il existe une pension de vieillesse anticipée, et elle a deux portes.",
-    "t": 258.17
+    "text": "Oui. Il existe une pension de vieillesse anticipée, et elle a deux portes.",
+    "t": 217.24
    },
    {
     "speaker": "Tom",
     "text": "La première porte s'ouvre à cinquante-sept ans — pour les personnes avec une très longue carrière de quarante années d'assurance obligatoire.",
-    "t": 262.54
+    "t": 221.36
    },
    {
     "speaker": "Tom",
     "text": "Cela fait quatre cent quatre-vingts mois de travail effectif.",
-    "t": 269.27
+    "t": 227.49
    },
    {
     "speaker": "Anna",
     "text": "Quarante ans de travail à cinquante-sept ans.",
-    "t": 273.14
+    "t": 230.85
    },
    {
     "speaker": "Anna",
     "text": "Donc quelqu'un qui a commencé à travailler très jeune.",
-    "t": 276.24
+    "t": 232.88
    },
    {
     "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 280.11
-   },
-   {
-    "speaker": "Tom",
-    "text": "La deuxième porte s'ouvre à soixante ans.",
-    "t": 281.95
+    "text": "Exactement. La deuxième porte s'ouvre à soixante ans.",
+    "t": 235.56
    },
    {
     "speaker": "Tom",
     "text": "Là aussi, il faut quarante années, mais plus de types de périodes comptent — par exemple, certaines années d'études ou des périodes d'éducation des enfants, avec au moins dix années de cotisations réelles.",
-    "t": 284.88
+    "t": 238.59
    },
    {
     "speaker": "Anna",
     "text": "Et est-ce que je peux travailler pendant que je reçois une pension anticipée ?",
-    "t": 295.67
+    "t": 249.21
    },
    {
     "speaker": "Tom",
-    "text": "Avec prudence !",
-    "t": 299.87
-   },
-   {
-    "speaker": "Tom",
-    "text": "Avec la pension anticipée, il y a des limites de revenus.",
-    "t": 301.98
+    "text": "Avec prudence ! Avec la pension anticipée, il y a des limites de revenus.",
+    "t": 252.75
    },
    {
     "speaker": "Tom",
     "text": "Un petit travail, ça va — jusqu'à un tiers du salaire social minimum, rien ne change.",
-    "t": 306.02
+    "t": 257.06
    },
    {
     "speaker": "Tom",
     "text": "Au-dessus, la pension peut être réduite, ou même retirée si vous gagnez trop.",
-    "t": 311.72
+    "t": 261.9
    },
    {
     "speaker": "Anna",
     "text": "Et à soixante-cinq ans ?",
-    "t": 316.99
+    "t": 266.31
    },
    {
     "speaker": "Tom",
     "text": "À soixante-cinq ans, liberté totale.",
-    "t": 319.21
+    "t": 267.84
    },
    {
     "speaker": "Tom",
     "text": "Une fois que vous recevez la pension de vieillesse normale, vous pouvez travailler autant que vous voulez — cela n'a aucun effet sur le montant de votre pension.",
-    "t": 322.51
+    "t": 270.62
    },
    {
     "speaker": "Tom",
     "text": "Et un joli détail — les cotisations de pension que vous payez sur ce nouveau travail peuvent être remboursées chaque année, sur demande.",
-    "t": 330.26
+    "t": 278.6
    },
    {
     "speaker": "Anna",
-    "text": "Vraiment ?",
-    "t": 337.39
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le système récompense vraiment les personnes qui restent actives.",
-    "t": 339.08
+    "text": "Vraiment ? Le système récompense vraiment les personnes qui restent actives.",
+    "t": 285.81
    },
    {
     "speaker": "Anna",
     "text": "D'accord — maintenant, ouvrons cette carrière d'assurance dont tu as parlé.",
-    "t": 343.3
+    "t": 290.23
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce qu'il y a dedans ?",
-    "t": 347.96
+    "t": 293.54
    },
    {
     "speaker": "Tom",
     "text": "Voyez-la comme votre journal de pension.",
-    "t": 350
+    "t": 295.04
    },
    {
     "speaker": "Tom",
     "text": "Elle liste, mois par mois, toutes vos périodes d'assurance.",
-    "t": 353.04
+    "t": 297.3
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg compte en mois de calendrier — un mois compte si vous avez travaillé au moins soixante-quatre heures comme salarié, ou dix jours comme indépendant.",
-    "t": 357.37
+    "t": 300.85
    },
    {
     "speaker": "Anna",
     "text": "Et comment est-ce que je sais ce qui est écrit dans mon journal ?",
-    "t": 365.26
+    "t": 309.21
    },
    {
     "speaker": "Tom",
     "text": "La CNAP vous envoie un relevé de carrière chaque année, automatiquement, si vous étiez assuré l'année précédente.",
-    "t": 369.03
+    "t": 312.19
    },
    {
     "speaker": "Tom",
-    "text": "Vérifiez-le !",
-    "t": 375.63
-   },
-   {
-    "speaker": "Tom",
-    "text": "Assurez-vous que vos mois et vos salaires sont corrects.",
-    "t": 377.45
+    "text": "Vérifiez-le ! Assurez-vous que vos mois et vos salaires sont corrects.",
+    "t": 318.54
    },
    {
     "speaker": "Tom",
     "text": "Et à partir de cinquante-cinq ans, le relevé montre même une estimation de votre future pension.",
-    "t": 380.8
+    "t": 322.55
    },
    {
     "speaker": "Anna",
     "text": "Une estimation — cela aide vraiment à planifier.",
-    "t": 386.46
+    "t": 327.52
    },
    {
     "speaker": "Anna",
     "text": "Alors, tu as dit que certaines périodes comptent même sans cotisations ?",
-    "t": 390.12
+    "t": 330.13
    },
    {
     "speaker": "Tom",
     "text": "Oui — on les appelle les périodes complémentaires.",
-    "t": 394.79
+    "t": 333.49
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, les périodes d'études ou de formation professionnelle entre dix-huit et vingt-sept ans.",
-    "t": 398.09
+    "t": 336.34
    },
    {
     "speaker": "Tom",
     "text": "Ou les fameuses années bébé (baby-years) — le temps passé à élever de jeunes enfants de moins de six ans.",
-    "t": 403.65
+    "t": 341.78
    },
    {
     "speaker": "Anna",
     "text": "Donc un parent qui est resté à la maison avec les enfants n'est pas oublié.",
-    "t": 409.6
+    "t": 347.47
    },
    {
     "speaker": "Tom",
     "text": "Pas du tout.",
-    "t": 414.06
+    "t": 351.08
    },
    {
     "speaker": "Tom",
     "text": "Pour deux enfants, au moins huit années d'éducation des enfants peuvent compter ; pour trois enfants, dix années.",
-    "t": 415.75
+    "t": 352.01
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi des périodes pour les soins à une personne dépendante.",
-    "t": 422.1
+    "t": 358.34
    },
    {
     "speaker": "Tom",
     "text": "Ces périodes vous aident à remplir les conditions — elles comblent les trous dans la carrière.",
-    "t": 426.21
+    "t": 361.72
    },
    {
     "speaker": "Anna",
-    "text": "C'est juste.",
-    "t": 430.89
-   },
-   {
-    "speaker": "Anna",
-    "text": "Maintenant, la question que tout le monde attend.",
-    "t": 432.8
+    "text": "C'est juste. Maintenant, la question que tout le monde attend.",
+    "t": 366.43
    },
    {
     "speaker": "Anna",
     "text": "Combien de pension est-ce que je vais recevoir ?",
-    "t": 436.22
+    "t": 369.78
    },
    {
     "speaker": "Tom",
     "text": "Le calcul exact est complexe, mais l'idée est simple.",
-    "t": 439.32
+    "t": 372.15
    },
    {
     "speaker": "Tom",
     "text": "Votre pension a deux blocs.",
-    "t": 443.28
+    "t": 375.47
    },
    {
     "speaker": "Tom",
     "text": "Le premier est une part forfaitaire — elle dépend de la longueur de votre carrière, jusqu'à quarante ans.",
-    "t": 445.87
+    "t": 377.21
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième est une part proportionnelle — elle dépend des salaires que vous avez gagnés pendant toute votre carrière.",
-    "t": 451.51
+    "t": 382.08
    },
    {
     "speaker": "Anna",
     "text": "Donc — combien de temps vous avez travaillé, plus combien vous avez gagné.",
-    "t": 457.31
+    "t": 388.06
    },
    {
     "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 462.19
-   },
-   {
-    "speaker": "Tom",
-    "text": "Plus la carrière est longue et plus les revenus sont élevés, plus la pension est élevée.",
-    "t": 464.04
+    "text": "Exactement. Plus la carrière est longue et plus les revenus sont élevés, plus la pension est élevée.",
+    "t": 391.86
    },
    {
     "speaker": "Tom",
     "text": "Et il y a un bonus — si vous travaillez au-delà d'une certaine combinaison d'âge et d'années de carrière, le taux de la part proportionnelle augmente.",
-    "t": 469.16
+    "t": 397.23
    },
    {
     "speaker": "Tom",
     "text": "Encore un encouragement à rester actif.",
-    "t": 476.58
+    "t": 405.49
    },
    {
     "speaker": "Anna",
     "text": "Est-ce qu'il y a un minimum ?",
-    "t": 479.76
+    "t": 408.01
    },
    {
     "speaker": "Anna",
     "text": "Pour les personnes avec de petits salaires ?",
-    "t": 482.24
+    "t": 409.76
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 485.31
+    "text": "Oui. Avec une carrière complète de quarante ans, la loi garantit une pension minimum.",
+    "t": 411.85
    },
    {
     "speaker": "Tom",
-    "text": "Avec une carrière complète de quarante ans, la loi garantit une pension minimum.",
-    "t": 486.77
-   },
-   {
-    "speaker": "Tom",
-    "text": "En mai deux mille vingt-cinq, ce minimum était d'environ deux mille trois cent cinquante euros brut par mois.",
-    "t": 491.92
+    "text": "En deux mille vingt-six, ce minimum est d'un peu plus de deux mille quatre cents euros brut par mois.",
+    "t": 416.18
    },
    {
     "speaker": "Tom",
     "text": "Si votre pension calculée est en dessous du minimum, vous recevez un complément.",
-    "t": 497.63
+    "t": 421.37
    },
    {
     "speaker": "Anna",
     "text": "Et un maximum ?",
-    "t": 502.65
+    "t": 426.1
    },
    {
     "speaker": "Tom",
     "text": "Oui, il y a aussi un plafond légal — aucune pension personnelle ne peut aller au-dessus.",
-    "t": 504.71
+    "t": 427.45
    },
    {
     "speaker": "Tom",
     "text": "Et encore une chose — les pensions ne sont pas gelées.",
-    "t": 509.95
+    "t": 431.88
    },
    {
     "speaker": "Tom",
     "text": "Elles suivent le coût de la vie, avec l'index, et elles sont aussi ajustées pour suivre les salaires.",
-    "t": 513.26
+    "t": 434.66
    },
    {
     "speaker": "Tom",
-    "text": "Par exemple, le premier janvier deux mille vingt-six, les pensions ont augmenté de un virgule cinq pour cent.",
-    "t": 519.08
+    "text": "Par exemple, en deux mille vingt-six, les pensions ont augmenté de un virgule cinq pour cent en janvier, puis encore de deux virgule cinq pour cent avec l'index en juin.",
+    "t": 440.07
    },
    {
     "speaker": "Anna",
     "text": "Donc la pension garde sa valeur dans le temps.",
-    "t": 525.49
+    "t": 448.85
    },
    {
     "speaker": "Anna",
     "text": "Et j'ai entendu que les pensionnés reçoivent aussi quelque chose en plus en décembre ?",
-    "t": 528.96
+    "t": 450.84
    },
    {
     "speaker": "Tom",
     "text": "Oui — l'allocation de fin d'année.",
-    "t": 533.78
+    "t": 454.49
    },
    {
     "speaker": "Tom",
     "text": "Les personnes qui ont droit à une pension au premier décembre la reçoivent.",
-    "t": 536.33
+    "t": 456.6
    },
    {
     "speaker": "Tom",
     "text": "Le montant dépend de la longueur de la carrière — en deux mille vingt-six, le maximum est d'un peu plus de mille euros pour quarante années d'assurance.",
-    "t": 540.66
+    "t": 460.35
    },
    {
     "speaker": "Anna",
-    "text": "Très bien.",
-    "t": 548.08
-   },
-   {
-    "speaker": "Anna",
-    "text": "Maintenant — le Luxembourg est un pays de carrières internationales.",
-    "t": 549.76
+    "text": "Très bien. Maintenant — le Luxembourg est un pays de carrières internationales.",
+    "t": 468.12
    },
    {
     "speaker": "Anna",
     "text": "Je travaille ici, mais avant, j'ai travaillé au Portugal, ou en Italie, ou en France.",
-    "t": 554.14
+    "t": 471.84
    },
    {
     "speaker": "Anna",
     "text": "Que deviennent ces années-là ?",
-    "t": 560.58
+    "t": 475.94
    },
    {
     "speaker": "Tom",
     "text": "Rien n'est perdu — c'est la règle d'or.",
-    "t": 562.84
+    "t": 477.46
    },
    {
     "speaker": "Tom",
     "text": "À l'intérieur de l'Union européenne, et aussi en Suisse, en Islande, au Liechtenstein et en Norvège, toutes vos périodes d'assurance sont additionnées pour vérifier les conditions.",
-    "t": 565.68
+    "t": 480.07
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg a aussi des accords avec beaucoup d'autres pays.",
-    "t": 575.56
+    "t": 489.77
    },
    {
     "speaker": "Anna",
     "text": "Additionnées — donc mes années portugaises m'aident à remplir les conditions au Luxembourg.",
-    "t": 579.45
+    "t": 493.11
    },
    {
     "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 584.91
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et ensuite, chaque pays paie sa propre part — une pension partielle pour les années où vous avez travaillé là-bas.",
-    "t": 586.75
+    "text": "Exactement. Et ensuite, chaque pays paie sa propre part — une pension partielle pour les années où vous avez travaillé là-bas.",
+    "t": 497.19
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez recevoir plusieurs pensions en même temps, de plusieurs pays.",
-    "t": 592.68
+    "t": 503.9
    },
    {
     "speaker": "Tom",
     "text": "Au final, vous recevez une pension de chaque pays où vous avez construit des droits.",
-    "t": 597.28
+    "t": 507.47
    },
    {
     "speaker": "Anna",
     "text": "Est-ce que je dois faire une demande dans chaque pays séparément ?",
-    "t": 602.16
+    "t": 511.6
    },
    {
     "speaker": "Anna",
     "text": "Cela ressemble à beaucoup de paperasse.",
-    "t": 606.12
+    "t": 514.33
    },
    {
     "speaker": "Tom",
     "text": "Bonne nouvelle — non.",
-    "t": 609.29
+    "t": 516.51
    },
    {
     "speaker": "Tom",
     "text": "Si vous habitez au Luxembourg, vous envoyez une seule demande, à la CNAP.",
-    "t": 611.33
+    "t": 518.04
    },
    {
     "speaker": "Tom",
     "text": "La CNAP contacte ensuite les institutions de pension étrangères pour vous.",
-    "t": 616.31
+    "t": 523.16
    },
    {
     "speaker": "Tom",
     "text": "Cela peut prendre du temps, parce que les organismes échangent des documents officiels, mais c'est une seule procédure.",
-    "t": 620.81
+    "t": 527.39
    },
    {
     "speaker": "Anna",
     "text": "Une seule demande, et les organismes se parlent entre eux.",
-    "t": 627.61
+    "t": 533.98
    },
    {
     "speaker": "Anna",
-    "text": "Excellent.",
-    "t": 631.74
-   },
-   {
-    "speaker": "Anna",
-    "text": "Maintenant, regardons le deuxième type de pension.",
-    "t": 633.42
+    "text": "Excellent. Maintenant, regardons le deuxième type de pension.",
+    "t": 536.82
    },
    {
     "speaker": "Anna",
     "text": "L'invalidité.",
-    "t": 637.15
+    "t": 539.95
    },
    {
     "speaker": "Tom",
     "text": "La pension d'invalidité est là quand la vie prend un tournant difficile.",
-    "t": 639.24
+    "t": 541.28
    },
    {
     "speaker": "Tom",
     "text": "Si, à cause d'une longue maladie ou d'une infirmité, vous ne pouvez plus travailler dans votre profession ou dans un autre emploi qui correspond à vos forces, vous pouvez recevoir une pension d'invalidité — avant l'âge de soixante-cinq ans.",
-    "t": 643.39
+    "t": 545.13
    },
    {
     "speaker": "Anna",
     "text": "Quelles sont les conditions ?",
-    "t": 655.1
+    "t": 557.64
    },
    {
     "speaker": "Tom",
     "text": "En général, il faut au moins douze mois d'assurance pendant les trois années avant l'invalidité.",
-    "t": 657.29
+    "t": 559.17
    },
    {
     "speaker": "Tom",
     "text": "Mais — important — si l'invalidité vient d'un accident ou d'une maladie professionnelle reconnue, aucune période d'attente n'est nécessaire.",
-    "t": 662.74
+    "t": 563.82
    },
    {
     "speaker": "Anna",
     "text": "Et que se passe-t-il quand la personne atteint soixante-cinq ans ?",
-    "t": 670.04
+    "t": 571.56
    },
    {
     "speaker": "Tom",
     "text": "La pension d'invalidité est automatiquement convertie en pension de vieillesse.",
-    "t": 673.73
+    "t": 574.45
    },
    {
     "speaker": "Tom",
     "text": "C'est juste un changement de nom — le montant n'est pas recalculé.",
-    "t": 678.55
+    "t": 578.79
    },
    {
     "speaker": "Tom",
     "text": "Personne ne doit s'inquiéter pour cet anniversaire.",
-    "t": 682.28
+    "t": 582.12
    },
    {
     "speaker": "Anna",
-    "text": "Très bien.",
-    "t": 685.74
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et le troisième type — la pension de survie.",
-    "t": 687.51
+    "text": "Très bien. Et le troisième type — la pension de survie.",
+    "t": 584.82
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 690.84
-   },
-   {
-    "speaker": "Tom",
-    "text": "Quand une personne assurée ou un pensionné décède, la famille est protégée.",
-    "t": 692.62
+    "text": "Oui. Quand une personne assurée ou un pensionné décède, la famille est protégée.",
+    "t": 588.04
    },
    {
     "speaker": "Tom",
     "text": "Le mari ou la femme survivant — et aussi le partenaire enregistré survivant — peut recevoir une pension de survie, calculée à partir de la pension de la personne décédée.",
-    "t": 697.37
+    "t": 592.34
    },
    {
     "speaker": "Anna",
     "text": "Et les enfants ?",
-    "t": 706.32
+    "t": 601.87
    },
    {
     "speaker": "Tom",
     "text": "Les enfants reçoivent une pension d'orphelin, après le décès du père ou de la mère.",
-    "t": 708.12
+    "t": 603.01
    },
    {
     "speaker": "Tom",
     "text": "Elle est payée jusqu'à l'âge de dix-huit ans — et elle peut continuer jusqu'à vingt-sept ans si le jeune fait encore des études ou une formation pour sa future profession.",
-    "t": 713.11
+    "t": 607.64
    },
    {
     "speaker": "Anna",
     "text": "C'est un filet de sécurité important pour les familles.",
-    "t": 720.98
+    "t": 616.05
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, des questions pratiques.",
-    "t": 724.64
+    "t": 618.62
    },
    {
     "speaker": "Anna",
     "text": "Comment la pension est-elle payée, concrètement ?",
-    "t": 727.75
+    "t": 620.44
    },
    {
     "speaker": "Tom",
     "text": "Chaque mois, à l'avance, directement sur votre compte bancaire.",
-    "t": 731.36
+    "t": 622.91
    },
    {
     "speaker": "Tom",
     "text": "La CNAP publie un calendrier des paiements sur son site internet, donc vous connaissez les dates exactes.",
-    "t": 736.05
+    "t": 626.42
    },
    {
     "speaker": "Tom",
     "text": "Petit exemple — les pensions de janvier sont généralement payées juste avant Noël.",
-    "t": 742.02
+    "t": 632.22
    },
    {
     "speaker": "Anna",
     "text": "Un joli cadeau avant les fêtes !",
-    "t": 746.75
+    "t": 637.04
    },
    {
     "speaker": "Anna",
     "text": "Et comment est-ce que je fais ma demande, étape par étape ?",
-    "t": 749.55
+    "t": 638.67
    },
    {
     "speaker": "Tom",
     "text": "Vous téléchargez le bon formulaire sur c-n-a-p point public point l-u — ou vous le demandez.",
-    "t": 753.46
+    "t": 641.83
    },
    {
     "speaker": "Tom",
     "text": "Vous le remplissez, vous le signez, et vous l'envoyez par la poste avec un relevé bancaire qui montre votre compte.",
-    "t": 758.79
+    "t": 647.37
    },
    {
     "speaker": "Tom",
     "text": "La CNAP vous envoie un accusé de réception, vérifie votre carrière, et peut vous demander des documents.",
-    "t": 765.27
+    "t": 653.15
    },
    {
     "speaker": "Anna",
     "text": "Et s'il y a un trou dans ma carrière — une année que la CNAP ne connaît pas ?",
-    "t": 771.56
+    "t": 659.63
    },
    {
     "speaker": "Tom",
     "text": "Ils vous poseront la question, et ils peuvent demander des preuves officielles à d'autres autorités, au Luxembourg et à l'étranger.",
-    "t": 775.71
+    "t": 663.62
    },
    {
     "speaker": "Tom",
     "text": "C'est pour cela qu'il est malin de vérifier votre relevé de carrière annuel bien avant la retraite — les problèmes sont plus faciles à corriger tôt.",
-    "t": 782.59
+    "t": 670.61
    },
    {
     "speaker": "Anna",
     "text": "Très bon conseil.",
-    "t": 789.7
+    "t": 678.59
    },
    {
     "speaker": "Anna",
     "text": "Et pendant qu'on attend la décision finale — pas d'argent ?",
-    "t": 791.88
+    "t": 679.71
    },
    {
     "speaker": "Tom",
-    "text": "Pas d'inquiétude.",
-    "t": 795.56
-   },
-   {
-    "speaker": "Tom",
-    "text": "Si les conditions sont remplies, la CNAP vous paie normalement une avance sur votre pension pendant que le calcul final se termine.",
-    "t": 797.58
+    "text": "Pas d'inquiétude. Si les conditions sont remplies, la CNAP vous paie normalement une avance sur votre pension pendant que le calcul final se termine.",
+    "t": 682.91
    },
    {
     "speaker": "Tom",
     "text": "Et beaucoup de certificats — par exemple la preuve de votre pension — peuvent être demandés en ligne, y compris via MyGuichet point l-u.",
-    "t": 804.75
+    "t": 690.62
    },
    {
     "speaker": "Anna",
     "text": "Maintenant Tom, nous devons parler de l'actualité.",
-    "t": 812.13
+    "t": 698.15
    },
    {
     "speaker": "Anna",
     "text": "Le système de pension change un peu, n'est-ce pas ?",
-    "t": 816.1
+    "t": 700.68
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 819.74
-   },
-   {
-    "speaker": "Tom",
-    "text": "En décembre deux mille vingt-cinq, la Chambre des députés a adopté une réforme du système de pension.",
-    "t": 821.21
+    "text": "Oui. En décembre deux mille vingt-cinq, la Chambre des députés a adopté une réforme du système de pension.",
+    "t": 703.27
    },
    {
     "speaker": "Tom",
     "text": "Le but est de garder le système financièrement sain sur le long terme — et l'âge légal de la retraite reste à soixante-cinq ans.",
-    "t": 827.27
+    "t": 709.19
    },
    {
     "speaker": "Anna",
     "text": "Quels sont les principaux changements ?",
-    "t": 833.69
+    "t": 715.68
    },
    {
     "speaker": "Tom",
     "text": "Le taux de cotisation global passe de vingt-quatre pour cent à vingt-cinq virgule cinq pour cent.",
-    "t": 836.26
+    "t": 717.66
    },
    {
     "speaker": "Tom",
     "text": "Les conditions de certaines pensions anticipées sont adaptées progressivement, étape par étape, à partir de juillet deux mille vingt-six.",
-    "t": 841.52
+    "t": 722.97
    },
    {
     "speaker": "Tom",
     "text": "Les années d'études à partir de dix-huit ans sont prises en compte de façon plus flexible.",
-    "t": 849.19
+    "t": 730.36
    },
    {
     "speaker": "Tom",
     "text": "Et une pension progressive est introduite — une façon de passer à la retraite en douceur.",
-    "t": 854.18
+    "t": 734.9
    },
    {
     "speaker": "Anna",
     "text": "Et pour les personnes qui sont déjà à la retraite ?",
-    "t": 859.25
+    "t": 739.81
    },
    {
     "speaker": "Tom",
     "text": "Rien ne change.",
-    "t": 862.62
+    "t": 742.28
    },
    {
     "speaker": "Tom",
     "text": "Les pensions déjà en cours de paiement ne sont pas touchées, et la pension de vieillesse à soixante-cinq ans reste comme elle est.",
-    "t": 864.57
+    "t": 743.5
    },
    {
     "speaker": "Tom",
     "text": "Il y a même un nouvel avantage fiscal pour les personnes qui pourraient prendre leur retraite mais qui choisissent de continuer à travailler — vous pouvez le demander via MyGuichet point l-u.",
-    "t": 870.86
+    "t": 749.67
    },
    {
     "speaker": "Anna",
     "text": "Donc le message est — restez informés, mais pas de panique.",
-    "t": 879.54
+    "t": 759.6
    },
    {
     "speaker": "Anna",
     "text": "Pour les détails, vérifiez toujours les pages officielles.",
-    "t": 883.96
+    "t": 763.13
    },
    {
     "speaker": "Tom",
-    "text": "Exactement.",
-    "t": 888.16
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le site de la CNAP a une section d'actualités spéciale sur les changements de deux mille vingt-six, en plusieurs langues.",
-    "t": 890
+    "text": "Exactement. Le site de la CNAP a une section d'actualités spéciale sur les changements de deux mille vingt-six, en plusieurs langues.",
+    "t": 765.76
    },
    {
     "speaker": "Anna",
     "text": "Et si quelqu'un a une question personnelle sur son propre dossier ?",
-    "t": 896.39
+    "t": 773.57
    },
    {
     "speaker": "Tom",
     "text": "La CNAP a une ligne téléphonique pour les pensions — le numéro est sur le site internet.",
-    "t": 900.44
+    "t": 776.87
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi un guichet d'accueil à Luxembourg-Ville, ouvert du lundi au vendredi, et des formulaires de contact en ligne.",
-    "t": 905.48
+    "t": 782.14
    },
    {
     "speaker": "Tom",
     "text": "Et pour les carrières frontalières, il y a des journées d'information internationales, où des spécialistes du Luxembourg, d'Allemagne, de France et de Belgique répondent ensemble à vos questions.",
-    "t": 912.54
+    "t": 788.1
    },
    {
     "speaker": "Anna",
     "text": "C'est un super service.",
-    "t": 922.87
+    "t": 798.57
    },
    {
     "speaker": "Anna",
     "text": "C'est le moment de notre petit résumé.",
-    "t": 925.24
+    "t": 800.15
    },
    {
     "speaker": "Anna",
     "text": "Tom — l'essentiel ?",
-    "t": 928.31
+    "t": 802.12
    },
    {
     "speaker": "Tom",
     "text": "La Pensiounskeess — la CNAP — paie les pensions du secteur privé et des indépendants.",
-    "t": 930.55
+    "t": 803.87
    },
    {
     "speaker": "Tom",
     "text": "Pension de vieillesse à soixante-cinq ans, avec au moins dix années d'assurance.",
-    "t": 935.39
+    "t": 809.56
    },
    {
     "speaker": "Tom",
     "text": "Pension anticipée possible à cinquante-sept ou soixante ans avec une longue carrière.",
-    "t": 940.27
+    "t": 813.81
    },
    {
     "speaker": "Anna",
     "text": "La pension n'est jamais automatique — vous devez faire une demande.",
-    "t": 945.02
+    "t": 818.35
    },
    {
     "speaker": "Anna",
     "text": "Votre carrière d'assurance est votre journal de pension — vérifiez votre relevé annuel, et à partir de cinquante-cinq ans, il montre une estimation.",
-    "t": 949.22
+    "t": 821.58
    },
    {
     "speaker": "Tom",
     "text": "Les années travaillées dans d'autres pays ne sont pas perdues — elles sont additionnées, et chaque pays paie sa part.",
-    "t": 957.93
+    "t": 828.71
    },
    {
     "speaker": "Tom",
     "text": "Une seule demande à la CNAP suffit.",
-    "t": 963.95
+    "t": 834.78
    },
    {
     "speaker": "Anna",
     "text": "Les pensions d'invalidité et de survie vous protègent, vous et votre famille, quand la vie est difficile.",
-    "t": 966.65
+    "t": 837.32
    },
    {
     "speaker": "Anna",
     "text": "Et les pensions suivent le coût de la vie — avec un petit extra à la fin de l'année.",
-    "t": 973.18
+    "t": 842.67
    },
    {
     "speaker": "Tom",
     "text": "Et pour tout — les formulaires, le calendrier des paiements, les actualités de la réforme, la ligne téléphonique — une seule adresse : c-n-a-p point public point l-u.",
-    "t": 977.94
+    "t": 847.17
    },
    {
     "speaker": "Anna",
-    "text": "Merveilleux.",
-    "t": 987.4
+    "text": "Merveilleux. C'est la fin de notre voyage à travers le système de pension.",
+    "t": 859.01
    },
    {
     "speaker": "Anna",
-    "text": "C'est la fin de notre voyage à travers le système de pension.",
-    "t": 989.11
-   },
-   {
-    "speaker": "Anna",
-    "text": "Merci de nous avoir écoutés — et rappelez-vous, il n'est jamais trop tôt pour penser à votre pension.",
-    "t": 993.17
+    "text": "Et rappelez-vous, il n'est jamais trop tôt pour penser à votre pension.",
+    "t": 862.51
    },
    {
     "speaker": "Tom",
     "text": "Vérifiez ce relevé de carrière !",
-    "t": 998.99
-   },
-   {
-    "speaker": "Tom",
-    "text": "Prenez soin de vous — au revoir !",
-    "t": 1001.83
+    "t": 866.17
    },
    {
     "speaker": "Anna",
-    "text": "Au revoir !",
-    "t": 1004.49
+    "text": "C'était notre épisode sur la Pensiounskeess.",
+    "t": 868.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 870.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 878.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 895.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 899.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 901.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 905.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 907.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 909.66
    }
   ],
   "audio_de": "podcast_cnap_de.mp3",
-  "duration_de": 1136.74,
+  "duration_de": 1047.22,
   "segments_de": [
    {
     "speaker": "Anna",
     "text": "Hallo und herzlich willkommen!",
-    "t": 0.05
+    "t": 0.65
    },
    {
     "speaker": "Anna",
     "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
-    "t": 2.98
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.89
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.95
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm für das Zusammenleben in Luxemburg.",
-    "t": 12.35
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten Einwohnern, und auch Grenzgängern, helfen, Luxemburg zu entdecken — oder neu zu entdecken — und neue Menschen kennenzulernen.",
-    "t": 16.56
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
-    "text": "Genau.",
-    "t": 27.12
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und heute sprechen wir über etwas, das jeden einzelnen Menschen betrifft, der in Luxemburg arbeitet.",
-    "t": 28.69
+    "text": "Genau. Und heute sprechen wir über etwas, das jeden einzelnen Menschen betrifft, der in Luxemburg arbeitet.",
+    "t": 27.86
    },
    {
     "speaker": "Tom",
     "text": "Den Ruhestand — und die Pension, die Sie bekommen, wenn Sie aufhören zu arbeiten.",
-    "t": 35.29
+    "t": 34.62
    },
    {
     "speaker": "Anna",
     "text": "Ein großes Thema!",
-    "t": 40.79
+    "t": 39.35
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt eine Stelle, die im Mittelpunkt von allem steht.",
-    "t": 42.95
+    "t": 40.88
    },
    {
     "speaker": "Anna",
     "text": "Tom, sag uns ihren Namen.",
-    "t": 47.43
+    "t": 43.89
    },
    {
     "speaker": "Tom",
     "text": "Auf Luxemburgisch nennen die Leute sie die Pensiounskeess — die Pensionskasse.",
-    "t": 50.45
+    "t": 46.35
    },
    {
     "speaker": "Tom",
     "text": "Ihr offizieller Name ist Caisse nationale d'assurance pension.",
-    "t": 55.67
+    "t": 51.34
    },
    {
     "speaker": "Tom",
     "text": "Auf Deutsch: die Nationale Pensionsversicherungskasse.",
-    "t": 59.89
+    "t": 55.14
    },
    {
     "speaker": "Tom",
     "text": "Die Abkürzung ist C-N-A-P.",
-    "t": 64.08
+    "t": 58.44
    },
    {
     "speaker": "Anna",
-    "text": "Die CNAP.",
-    "t": 66.97
-   },
-   {
-    "speaker": "Anna",
-    "text": "Und wo finden die Leute sie im Internet?",
-    "t": 68.61
+    "text": "Die CNAP. Und wo finden die Leute sie im Internet?",
+    "t": 60.83
    },
    {
     "speaker": "Tom",
     "text": "Die Webseite ist c-n-a-p Punkt public Punkt l-u.",
-    "t": 71.87
+    "t": 65.73
    },
    {
     "speaker": "Tom",
     "text": "Sie gibt es auf Französisch, Deutsch und Englisch, und sie erklärt das ganze Pensionssystem in klarer Sprache.",
-    "t": 75.87
+    "t": 70.05
    },
    {
     "speaker": "Anna",
-    "text": "Perfekt.",
-    "t": 83.15
-   },
-   {
-    "speaker": "Anna",
-    "text": "Fangen wir also einfach an.",
-    "t": 84.84
+    "text": "Perfekt. Fangen wir also einfach an.",
+    "t": 77.1
    },
    {
     "speaker": "Anna",
     "text": "Was ist die CNAP?",
-    "t": 87.55
+    "t": 79.66
    },
    {
     "speaker": "Tom",
     "text": "Die CNAP ist die öffentliche Stelle, die die Pensionen des allgemeinen Systems auszahlt.",
-    "t": 89.61
+    "t": 81.73
    },
    {
     "speaker": "Tom",
     "text": "In ihrer heutigen Form gibt es sie seit dem ersten Januar zweitausendneun, als vier ältere Pensionskassen zu einer einzigen Kasse zusammengelegt wurden.",
-    "t": 95.29
+    "t": 87.81
    },
    {
     "speaker": "Anna",
     "text": "Eine Kasse für alle?",
-    "t": 104.2
+    "t": 96.94
    },
    {
     "speaker": "Tom",
     "text": "Für fast alle.",
-    "t": 106.49
+    "t": 98.57
    },
    {
     "speaker": "Tom",
     "text": "Das allgemeine System gilt für alle Menschen, die in Luxemburg arbeiten — Arbeitnehmer im Privatsektor und Selbstständige.",
-    "t": 108.55
+    "t": 99.7
    },
    {
     "speaker": "Tom",
     "text": "Beamte und öffentliche Angestellte haben ihr eigenes, separates System.",
-    "t": 116.41
+    "t": 108.41
    },
    {
     "speaker": "Anna",
     "text": "Und Grenzgänger?",
-    "t": 121.56
+    "t": 113.06
    },
    {
     "speaker": "Tom",
     "text": "Ja, auf jeden Fall.",
-    "t": 123.65
+    "t": 114.41
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie in Luxemburg arbeiten, zahlen Sie Beiträge in Luxemburg — egal, ob Sie im Land wohnen oder jeden Morgen aus Frankreich, Belgien oder Deutschland hereinfahren.",
-    "t": 126.11
+    "t": 116.06
    },
    {
     "speaker": "Tom",
     "text": "Ihre Pensionsrechte wachsen genau gleich.",
-    "t": 136.73
+    "t": 125.39
    },
    {
     "speaker": "Anna",
-    "text": "Gut.",
-    "t": 140.13
-   },
-   {
-    "speaker": "Anna",
-    "text": "Und was genau macht die CNAP?",
-    "t": 141.66
+    "text": "Gut. Und was genau macht die CNAP?",
+    "t": 128.14
    },
    {
     "speaker": "Tom",
     "text": "Ihre Aufgabe ist es, Pensionsleistungen in drei Situationen zu gewähren.",
-    "t": 144.25
+    "t": 131.03
    },
    {
     "speaker": "Tom",
-    "text": "Alter.",
-    "t": 149.63
-   },
-   {
-    "speaker": "Tom",
-    "text": "Invalidität — wenn Ihre Gesundheit Sie nicht mehr arbeiten lässt.",
-    "t": 151.31
+    "text": "Alter. Invalidität — wenn Ihre Gesundheit Sie nicht mehr arbeiten lässt.",
+    "t": 135.43
    },
    {
     "speaker": "Tom",
     "text": "Und Hinterbliebene — Unterstützung für die Familie, wenn eine versicherte Person stirbt.",
-    "t": 155.69
+    "t": 140.2
    },
    {
     "speaker": "Anna",
     "text": "Alter, Invalidität, Hinterbliebene.",
-    "t": 161.15
+    "t": 145.35
    },
    {
     "speaker": "Anna",
     "text": "Bevor wir uns jedes einzeln anschauen — wie wird das alles bezahlt?",
-    "t": 165.01
+    "t": 148.65
    },
    {
     "speaker": "Tom",
-    "text": "Durch Beiträge.",
-    "t": 169.81
-   },
-   {
-    "speaker": "Tom",
-    "text": "Jeden Monat geht ein Teil Ihres Gehalts an die Pensionsversicherung.",
-    "t": 171.92
+    "text": "Durch Beiträge. Jeden Monat geht ein Teil Ihres Gehalts an die Pensionsversicherung.",
+    "t": 153.06
    },
    {
     "speaker": "Tom",
     "text": "Die Kosten werden geteilt — der Arbeitnehmer zahlt einen Teil, der Arbeitgeber zahlt einen Teil, und der Staat zahlt auch einen Teil.",
-    "t": 176.62
+    "t": 158.32
    },
    {
     "speaker": "Anna",
     "text": "Also, während Sie arbeiten, zahlen Sie ein.",
-    "t": 184.98
+    "t": 166.13
    },
    {
     "speaker": "Anna",
     "text": "Und später zahlt die Kasse Ihre Pension.",
-    "t": 189.02
+    "t": 168.75
    },
    {
     "speaker": "Tom",
-    "text": "Genau.",
-    "t": 192.46
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und jeder Monat, den Sie in Luxemburg arbeiten, wird in Ihrer persönlichen Versicherungslaufbahn aufgeschrieben.",
-    "t": 194.03
+    "text": "Genau. Und jeder Monat, den Sie in Luxemburg arbeiten, wird in Ihrer persönlichen Versicherungslaufbahn aufgeschrieben.",
+    "t": 171.44
    },
    {
     "speaker": "Tom",
     "text": "Diese Laufbahn ist die Grundlage von allem — Ihre Pension wird daraus berechnet.",
-    "t": 201.32
+    "t": 178.65
    },
    {
     "speaker": "Anna",
     "text": "Auf diese Laufbahn kommen wir noch zurück — sie klingt wichtig.",
-    "t": 206.6
+    "t": 183.67
    },
    {
     "speaker": "Anna",
     "text": "Aber zuerst der klassische Fall.",
-    "t": 210.71
+    "t": 187.39
    },
    {
     "speaker": "Anna",
-    "text": "Die Altersrente.",
-    "t": 213.68
-   },
-   {
-    "speaker": "Anna",
-    "text": "Wann kann ich in Rente gehen?",
-    "t": 215.9
+    "text": "Die Altersrente. Wann kann ich in Rente gehen?",
+    "t": 189.33
    },
    {
     "speaker": "Tom",
     "text": "Das gesetzliche Rentenalter in Luxemburg ist fünfundsechzig.",
-    "t": 218.54
+    "t": 192.53
    },
    {
     "speaker": "Tom",
     "text": "Um mit fünfundsechzig eine Alterspension zu bekommen, brauchen Sie mindestens zehn Jahre Versicherung — einhundertzwanzig Monate.",
-    "t": 223.07
+    "t": 196.23
    },
    {
     "speaker": "Anna",
-    "text": "Zehn Jahre.",
-    "t": 230.89
-   },
-   {
-    "speaker": "Anna",
-    "text": "Und müssen diese zehn Jahre in Luxemburg sein?",
-    "t": 232.8
+    "text": "Zehn Jahre. Und müssen diese zehn Jahre in Luxemburg sein?",
+    "t": 203.77
    },
    {
     "speaker": "Tom",
     "text": "Nein — und das ist sehr wichtig für unsere internationalen Hörerinnen und Hörer.",
-    "t": 236.51
+    "t": 208
    },
    {
     "speaker": "Tom",
     "text": "Versicherungszeiten aus anderen Ländern zählen für diese Bedingung mit.",
-    "t": 241.75
+    "t": 212.6
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie fünf Jahre in Luxemburg und zwanzig Jahre in Belgien gearbeitet haben, bestehen Sie den Zehn-Jahres-Test ganz klar.",
-    "t": 246.48
+    "t": 216.58
    },
    {
     "speaker": "Anna",
     "text": "Das ist beruhigend.",
-    "t": 254.54
+    "t": 224.18
    },
    {
     "speaker": "Anna",
     "text": "Und kommt die Pension automatisch?",
-    "t": 256.96
+    "t": 225.45
    },
    {
     "speaker": "Anna",
     "text": "Kommt das Geld einfach an meinem fünfundsechzigsten Geburtstag an?",
-    "t": 260.09
+    "t": 227.58
    },
    {
     "speaker": "Tom",
-    "text": "Nein!",
-    "t": 264.79
-   },
-   {
-    "speaker": "Tom",
-    "text": "Das überrascht viele Menschen.",
-    "t": 266.39
+    "text": "Nein! Das überrascht viele Menschen.",
+    "t": 231.05
    },
    {
     "speaker": "Tom",
     "text": "Auch wenn Sie alle Bedingungen erfüllen, müssen Sie einen Antrag stellen.",
-    "t": 269.01
+    "t": 234.07
    },
    {
     "speaker": "Tom",
     "text": "Sie schicken einen Pensionsantrag an die CNAP — die Formulare finden Sie auf der Webseite.",
-    "t": 273.72
+    "t": 238.14
    },
    {
     "speaker": "Anna",
     "text": "Gut zu wissen.",
-    "t": 279.6
+    "t": 243.97
    },
    {
     "speaker": "Anna",
     "text": "Nun, fünfundsechzig ist das gesetzliche Alter.",
-    "t": 281.64
+    "t": 245.1
    },
    {
     "speaker": "Anna",
     "text": "Aber ich habe gehört, dass manche Menschen früher in Rente gehen.",
-    "t": 285.91
+    "t": 249.02
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 290.59
-   },
-   {
-    "speaker": "Tom",
-    "text": "Es gibt eine vorgezogene Alterspension, und sie hat zwei Türen.",
-    "t": 292.08
+    "text": "Ja. Es gibt eine vorgezogene Alterspension, und sie hat zwei Türen.",
+    "t": 252.52
    },
    {
     "speaker": "Tom",
     "text": "Die erste Tür öffnet sich mit siebenundfünfzig — für Menschen mit einer sehr langen Laufbahn von vierzig Jahren Pflichtversicherung.",
-    "t": 296.67
+    "t": 257.02
    },
    {
     "speaker": "Tom",
     "text": "Das sind vierhundertachtzig Monate echter Arbeit.",
-    "t": 304.2
+    "t": 264.03
    },
    {
     "speaker": "Anna",
     "text": "Vierzig Jahre Arbeit mit siebenundfünfzig.",
-    "t": 307.71
+    "t": 267.09
    },
    {
     "speaker": "Anna",
     "text": "Also jemand, der sehr jung angefangen hat zu arbeiten.",
-    "t": 311.39
+    "t": 269.76
    },
    {
     "speaker": "Tom",
-    "text": "Genau.",
-    "t": 315.9
-   },
-   {
-    "speaker": "Tom",
-    "text": "Die zweite Tür öffnet sich mit sechzig.",
-    "t": 317.48
+    "text": "Genau. Die zweite Tür öffnet sich mit sechzig.",
+    "t": 272.88
    },
    {
     "speaker": "Tom",
     "text": "Dort brauchen Sie auch vierzig Jahre, aber mehr Arten von Zeiten zählen dafür mit — zum Beispiel bestimmte Studienjahre oder Zeiten der Kindererziehung, zusammen mit mindestens zehn Jahren echter Beiträge.",
-    "t": 320.65
+    "t": 275.92
    },
    {
     "speaker": "Anna",
     "text": "Und darf ich arbeiten, während ich eine vorgezogene Pension bekomme?",
-    "t": 332.96
+    "t": 288.3
    },
    {
     "speaker": "Tom",
-    "text": "Vorsicht!",
-    "t": 338.02
-   },
-   {
-    "speaker": "Tom",
-    "text": "Bei der vorgezogenen Pension gibt es Einkommensgrenzen.",
-    "t": 339.82
+    "text": "Vorsicht! Bei der vorgezogenen Pension gibt es Einkommensgrenzen.",
+    "t": 292.08
    },
    {
     "speaker": "Tom",
     "text": "Ein kleiner Job ist in Ordnung — bis zu einem Drittel des sozialen Mindestlohns ändert sich nichts.",
-    "t": 343.92
+    "t": 297.08
    },
    {
     "speaker": "Tom",
     "text": "Darüber kann die Pension gekürzt werden, oder sogar gestrichen, wenn Sie zu viel verdienen.",
-    "t": 349.94
+    "t": 302.5
    },
    {
     "speaker": "Anna",
     "text": "Und mit fünfundsechzig?",
-    "t": 355.87
+    "t": 307.32
    },
    {
     "speaker": "Tom",
     "text": "Mit fünfundsechzig: totale Freiheit.",
-    "t": 358.42
+    "t": 309.07
    },
    {
     "speaker": "Tom",
     "text": "Sobald Sie die normale Alterspension bekommen, dürfen Sie so viel arbeiten, wie Sie möchten — das hat keine Auswirkung auf die Höhe Ihrer Pension.",
-    "t": 361.93
+    "t": 311.9
    },
    {
     "speaker": "Tom",
     "text": "Und ein schönes Detail — die Pensionsbeiträge, die Sie auf diese neue Arbeit zahlen, können jedes Jahr auf Antrag zurückerstattet werden.",
-    "t": 370.91
+    "t": 319.86
    },
    {
     "speaker": "Anna",
-    "text": "Wirklich?",
-    "t": 379.59
-   },
-   {
-    "speaker": "Anna",
-    "text": "Das System belohnt wirklich Menschen, die aktiv bleiben.",
-    "t": 381.23
+    "text": "Wirklich? Das System belohnt wirklich Menschen, die aktiv bleiben.",
+    "t": 327.9
    },
    {
     "speaker": "Anna",
     "text": "Okay — jetzt öffnen wir diese Versicherungslaufbahn, die du erwähnt hast.",
-    "t": 385.72
+    "t": 332.03
    },
    {
     "speaker": "Anna",
     "text": "Was steht drin?",
-    "t": 391
+    "t": 336.75
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie sich das wie Ihr Pensionstagebuch vor.",
-    "t": 393.06
+    "t": 338.19
    },
    {
     "speaker": "Tom",
     "text": "Es listet, Monat für Monat, alle Ihre Versicherungszeiten auf.",
-    "t": 396.82
+    "t": 341.4
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg zählt in Kalendermonaten — ein Monat zählt, wenn Sie mindestens vierundsechzig Stunden als Arbeitnehmer gearbeitet haben, oder zehn Tage als Selbstständiger.",
-    "t": 401.7
+    "t": 346.02
    },
    {
     "speaker": "Anna",
     "text": "Und woher weiß ich, was in meinem Tagebuch steht?",
-    "t": 412.16
+    "t": 356.02
    },
    {
     "speaker": "Tom",
     "text": "Die CNAP schickt Ihnen jedes Jahr automatisch einen Laufbahnauszug, wenn Sie im Jahr davor versichert waren.",
-    "t": 416.27
+    "t": 359.4
    },
    {
     "speaker": "Tom",
     "text": "Prüfen Sie ihn!",
-    "t": 422.87
+    "t": 366.11
    },
    {
     "speaker": "Tom",
     "text": "Achten Sie darauf, dass Ihre Monate und Gehälter korrekt sind.",
-    "t": 424.84
+    "t": 367.23
    },
    {
     "speaker": "Tom",
     "text": "Und ab dem Alter von fünfundfünfzig zeigt der Auszug sogar eine Schätzung Ihrer zukünftigen Pension.",
-    "t": 429.42
+    "t": 370.8
    },
    {
     "speaker": "Anna",
     "text": "Eine Schätzung — das hilft wirklich bei der Planung.",
-    "t": 435.92
+    "t": 376.94
    },
    {
     "speaker": "Anna",
     "text": "Nun, du hast gesagt, manche Zeiten zählen sogar ohne Beiträge?",
-    "t": 439.56
+    "t": 380.07
    },
    {
     "speaker": "Tom",
     "text": "Ja — das nennt man Ergänzungszeiten.",
-    "t": 444.94
+    "t": 384.08
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel Zeiten des Studiums oder der Berufsausbildung zwischen achtzehn und siebenundzwanzig.",
-    "t": 448.2
+    "t": 386.56
    },
    {
     "speaker": "Tom",
     "text": "Oder die berühmten Babyjahre — Zeit, in der man kleine Kinder unter sechs Jahren erzogen hat.",
-    "t": 454.53
+    "t": 393
    },
    {
     "speaker": "Anna",
     "text": "Ein Elternteil, das mit den Kindern zu Hause geblieben ist, wird also nicht vergessen.",
-    "t": 460.71
+    "t": 398.58
    },
    {
     "speaker": "Tom",
     "text": "Ganz und gar nicht.",
-    "t": 467.01
+    "t": 403.16
    },
    {
     "speaker": "Tom",
     "text": "Bei zwei Kindern können mindestens acht Jahre Kindererziehungszeit zählen; bei drei Kindern zehn Jahre.",
-    "t": 469.16
+    "t": 404.44
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch Zeiten für die Pflege einer pflegebedürftigen Person.",
-    "t": 475.78
+    "t": 410.42
    },
    {
     "speaker": "Tom",
     "text": "Diese Zeiten helfen Ihnen, die Bedingungen zu erfüllen — sie füllen Lücken in der Laufbahn.",
-    "t": 480.14
+    "t": 414.41
    },
    {
     "speaker": "Anna",
     "text": "Das ist fair.",
-    "t": 485.8
+    "t": 419.6
    },
    {
     "speaker": "Anna",
     "text": "Jetzt die Frage, auf die alle warten.",
-    "t": 487.73
+    "t": 420.66
    },
    {
     "speaker": "Anna",
     "text": "Wie viel Pension werde ich bekommen?",
-    "t": 491.26
+    "t": 422.72
    },
    {
     "speaker": "Tom",
     "text": "Die genaue Berechnung ist komplex, aber die Idee ist einfach.",
-    "t": 494.34
+    "t": 425.11
    },
    {
     "speaker": "Tom",
     "text": "Ihre Pension hat zwei Bausteine.",
-    "t": 498.83
+    "t": 428.72
    },
    {
     "speaker": "Tom",
     "text": "Der erste ist ein Pauschalteil — er hängt von der Länge Ihrer Laufbahn ab, bis zu vierzig Jahren.",
-    "t": 501.89
+    "t": 430.75
    },
    {
     "speaker": "Tom",
     "text": "Der zweite ist ein proportionaler Teil — er hängt von den Gehältern ab, die Sie während Ihrer ganzen Laufbahn verdient haben.",
-    "t": 508.04
+    "t": 436.7
    },
    {
     "speaker": "Anna",
     "text": "Also — wie lange man gearbeitet hat, plus wie viel man verdient hat.",
-    "t": 515.66
+    "t": 443.69
    },
    {
     "speaker": "Tom",
-    "text": "Genau.",
-    "t": 520.66
-   },
-   {
-    "speaker": "Tom",
-    "text": "Je länger die Laufbahn und je höher das Einkommen, desto höher die Pension.",
-    "t": 522.23
+    "text": "Genau. Je länger die Laufbahn und je höher das Einkommen, desto höher die Pension.",
+    "t": 448.42
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt einen Bonus — wenn Sie über eine bestimmte Kombination aus Alter und Laufbahnjahren hinaus arbeiten, steigt der Satz des proportionalen Teils.",
-    "t": 527.25
+    "t": 453.87
    },
    {
     "speaker": "Tom",
     "text": "Noch eine Ermutigung, aktiv zu bleiben.",
-    "t": 536.47
+    "t": 463.75
    },
    {
     "speaker": "Anna",
     "text": "Gibt es ein Minimum?",
-    "t": 539.98
+    "t": 466.33
    },
    {
     "speaker": "Anna",
     "text": "Für Menschen mit kleinen Gehältern?",
-    "t": 542.28
+    "t": 467.64
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 545.32
+    "text": "Ja. Bei einer vollen Laufbahn von vierzig Jahren garantiert das Gesetz eine Mindestpension.",
+    "t": 469.89
    },
    {
     "speaker": "Tom",
-    "text": "Bei einer vollen Laufbahn von vierzig Jahren garantiert das Gesetz eine Mindestpension.",
-    "t": 546.81
-   },
-   {
-    "speaker": "Tom",
-    "text": "Im Mai zweitausendfünfundzwanzig lag dieses Minimum bei etwa zweitausenddreihundertfünfzig Euro brutto pro Monat.",
-    "t": 552.65
+    "text": "Im Jahr zweitausendsechsundzwanzig liegt dieses Minimum bei etwas über zweitausendvierhundert Euro brutto pro Monat.",
+    "t": 476.25
    },
    {
     "speaker": "Tom",
     "text": "Wenn Ihre berechnete Pension unter dem Minimum liegt, bekommen Sie einen Zuschlag.",
-    "t": 560.05
+    "t": 483.29
    },
    {
     "speaker": "Anna",
     "text": "Und ein Maximum?",
-    "t": 565.38
+    "t": 487.95
    },
    {
     "speaker": "Tom",
     "text": "Ja, es gibt auch eine gesetzliche Obergrenze — keine persönliche Pension kann darüber liegen.",
-    "t": 567.53
+    "t": 489.38
    },
    {
     "speaker": "Tom",
     "text": "Und noch etwas — Pensionen sind nicht eingefroren.",
-    "t": 573.7
+    "t": 494.85
    },
    {
     "speaker": "Tom",
     "text": "Sie folgen den Lebenshaltungskosten, mit dem Index, und sie werden auch angepasst, um den Gehältern zu folgen.",
-    "t": 577.54
+    "t": 498.1
    },
    {
     "speaker": "Tom",
-    "text": "Zum Beispiel sind die Pensionen am ersten Januar zweitausendsechsundzwanzig um eins Komma fünf Prozent gestiegen.",
-    "t": 584.85
+    "text": "Zum Beispiel sind die Pensionen im Jahr zweitausendsechsundzwanzig im Januar um eins Komma fünf Prozent gestiegen, und im Juni mit dem Index noch einmal um zwei Komma fünf Prozent.",
+    "t": 504.39
    },
    {
     "speaker": "Anna",
     "text": "Die Pension behält also ihren Wert über die Zeit.",
-    "t": 592.05
+    "t": 515.51
    },
    {
     "speaker": "Anna",
     "text": "Und ich habe gehört, Pensionierte bekommen im Dezember auch noch etwas extra?",
-    "t": 596.11
+    "t": 518.77
    },
    {
     "speaker": "Tom",
     "text": "Ja — die Jahresendzulage.",
-    "t": 601.55
+    "t": 523.27
    },
    {
     "speaker": "Tom",
     "text": "Menschen, die am ersten Dezember Anspruch auf eine Pension haben, bekommen sie.",
-    "t": 604.32
+    "t": 525.35
    },
    {
     "speaker": "Tom",
     "text": "Der Betrag hängt von der Länge der Laufbahn ab — im Jahr zweitausendsechsundzwanzig liegt das Maximum bei etwas über eintausend Euro für vierzig Jahre Versicherung.",
-    "t": 609.92
+    "t": 529.7
    },
    {
     "speaker": "Anna",
-    "text": "Sehr schön.",
-    "t": 619.52
-   },
-   {
-    "speaker": "Anna",
-    "text": "Nun — Luxemburg ist ein Land der internationalen Laufbahnen.",
-    "t": 621.34
+    "text": "Sehr schön. Nun — Luxemburg ist ein Land der internationalen Laufbahnen.",
+    "t": 539.79
    },
    {
     "speaker": "Anna",
     "text": "Ich arbeite hier, aber vorher habe ich in Portugal gearbeitet, oder Italien, oder Frankreich.",
-    "t": 625.86
+    "t": 545.3
    },
    {
     "speaker": "Anna",
     "text": "Was passiert mit diesen Jahren?",
-    "t": 633.19
+    "t": 550.69
    },
    {
     "speaker": "Tom",
     "text": "Nichts geht verloren — das ist die goldene Regel.",
-    "t": 636.08
+    "t": 552.75
    },
    {
     "speaker": "Tom",
     "text": "Innerhalb der Europäischen Union, und auch in der Schweiz, Island, Liechtenstein und Norwegen, werden alle Ihre Versicherungszeiten zusammengezählt, um die Bedingungen zu prüfen.",
-    "t": 639.63
+    "t": 555.76
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg hat außerdem Abkommen mit vielen anderen Ländern.",
-    "t": 650.49
+    "t": 566.44
    },
    {
     "speaker": "Anna",
     "text": "Zusammengezählt — meine portugiesischen Jahre helfen mir also, mich in Luxemburg zu qualifizieren.",
-    "t": 654.74
+    "t": 569.98
    },
    {
     "speaker": "Tom",
-    "text": "Genau.",
-    "t": 661.6
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und dann zahlt jedes Land seinen eigenen Teil — eine Teilpension für die Jahre, die Sie dort gearbeitet haben.",
-    "t": 663.17
+    "text": "Genau. Und dann zahlt jedes Land seinen eigenen Teil — eine Teilpension für die Jahre, die Sie dort gearbeitet haben.",
+    "t": 576.26
    },
    {
     "speaker": "Tom",
     "text": "Sie können mehrere Pensionen gleichzeitig bekommen, aus mehreren Ländern.",
-    "t": 670.21
+    "t": 583.7
    },
    {
     "speaker": "Tom",
     "text": "Am Ende bekommen Sie eine Pension aus jedem Land, in dem Sie Rechte aufgebaut haben.",
-    "t": 675.32
+    "t": 588.15
    },
    {
     "speaker": "Anna",
     "text": "Muss ich in jedem Land einzeln einen Antrag stellen?",
-    "t": 680.78
+    "t": 592.81
    },
    {
     "speaker": "Anna",
     "text": "Das klingt nach viel Papierkram.",
-    "t": 684.74
+    "t": 595.77
    },
    {
     "speaker": "Tom",
     "text": "Gute Nachricht — nein.",
-    "t": 687.66
+    "t": 597.91
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie in Luxemburg wohnen, stellen Sie einen einzigen Antrag, bei der CNAP.",
-    "t": 690.08
+    "t": 599.7
    },
    {
     "speaker": "Tom",
     "text": "Die CNAP kontaktiert dann die ausländischen Pensionskassen für Sie.",
-    "t": 695.64
+    "t": 604.88
    },
    {
     "speaker": "Tom",
     "text": "Das kann etwas dauern, weil die Ämter offizielle Dokumente austauschen, aber es ist ein einziges Verfahren.",
-    "t": 700.01
+    "t": 609.42
    },
    {
     "speaker": "Anna",
     "text": "Ein Antrag, und die Ämter sprechen miteinander.",
-    "t": 706.81
+    "t": 615.52
    },
    {
     "speaker": "Anna",
-    "text": "Ausgezeichnet.",
-    "t": 710.8
-   },
-   {
-    "speaker": "Anna",
-    "text": "Schauen wir uns jetzt die zweite Art von Pension an.",
-    "t": 713
+    "text": "Ausgezeichnet. Schauen wir uns jetzt die zweite Art von Pension an.",
+    "t": 618.51
    },
    {
     "speaker": "Anna",
     "text": "Die Invalidität.",
-    "t": 716.99
+    "t": 623.05
    },
    {
     "speaker": "Tom",
     "text": "Die Invalidenpension ist da, wenn das Leben eine schwere Wendung nimmt.",
-    "t": 719.35
+    "t": 624.76
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie wegen einer langen Krankheit oder eines Gebrechens nicht mehr in Ihrem Beruf arbeiten können, oder in einer anderen Arbeit, die zu Ihren Kräften passt, können Sie eine Invalidenpension bekommen — vor dem Alter von fünfundsechzig.",
-    "t": 724.21
+    "t": 628.73
    },
    {
     "speaker": "Anna",
     "text": "Was sind die Bedingungen?",
-    "t": 738.09
+    "t": 642.79
    },
    {
     "speaker": "Tom",
     "text": "Im Allgemeinen brauchen Sie mindestens zwölf Monate Versicherung in den drei Jahren vor der Invalidität.",
-    "t": 740.6
+    "t": 644.47
    },
    {
     "speaker": "Tom",
     "text": "Aber — wichtig — wenn die Invalidität von einem Unfall oder einer anerkannten Berufskrankheit kommt, ist gar keine Wartezeit nötig.",
-    "t": 747.11
+    "t": 650.53
    },
    {
     "speaker": "Anna",
     "text": "Und was passiert, wenn die Person fünfundsechzig wird?",
-    "t": 755.42
+    "t": 658.62
    },
    {
     "speaker": "Tom",
     "text": "Die Invalidenpension wird automatisch in eine Alterspension umgewandelt.",
-    "t": 759.79
+    "t": 661.77
    },
    {
     "speaker": "Tom",
     "text": "Es ist nur eine Namensänderung — der Betrag wird nicht neu berechnet.",
-    "t": 765.08
+    "t": 666.25
    },
    {
     "speaker": "Tom",
     "text": "Niemand muss sich vor diesem Geburtstag fürchten.",
-    "t": 769.63
+    "t": 670.23
    },
    {
     "speaker": "Anna",
-    "text": "Gut.",
-    "t": 773.09
-   },
-   {
-    "speaker": "Anna",
-    "text": "Und die dritte Art — die Hinterbliebenenpension.",
-    "t": 774.62
+    "text": "Gut. Und die dritte Art — die Hinterbliebenenpension.",
+    "t": 672.85
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 778.26
-   },
-   {
-    "speaker": "Tom",
-    "text": "Wenn eine versicherte Person oder ein Pensionierter stirbt, ist die Familie geschützt.",
-    "t": 779.75
+    "text": "Ja. Wenn eine versicherte Person oder ein Pensionierter stirbt, ist die Familie geschützt.",
+    "t": 676.58
    },
    {
     "speaker": "Tom",
     "text": "Der überlebende Ehemann oder die überlebende Ehefrau — und auch der überlebende eingetragene Partner — kann eine Hinterbliebenenpension bekommen, berechnet aus der Pension der verstorbenen Person.",
-    "t": 785.25
+    "t": 682.52
    },
    {
     "speaker": "Anna",
     "text": "Und die Kinder?",
-    "t": 796.56
+    "t": 694.3
    },
    {
     "speaker": "Tom",
     "text": "Kinder bekommen eine Waisenpension, nach dem Tod des Vaters oder der Mutter.",
-    "t": 798.47
+    "t": 695.6
    },
    {
     "speaker": "Tom",
     "text": "Sie wird bis zum Alter von achtzehn gezahlt — und sie kann bis siebenundzwanzig weiterlaufen, wenn der junge Mensch noch studiert oder in der Ausbildung für seinen zukünftigen Beruf ist.",
-    "t": 803.8
+    "t": 699.94
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein wichtiges Sicherheitsnetz für Familien.",
-    "t": 814.13
+    "t": 710.49
    },
    {
     "speaker": "Anna",
     "text": "Jetzt praktische Fragen.",
-    "t": 818.1
+    "t": 713.27
    },
    {
     "speaker": "Anna",
     "text": "Wie wird die Pension eigentlich ausgezahlt?",
-    "t": 820.68
+    "t": 714.78
    },
    {
     "speaker": "Tom",
     "text": "Jeden Monat, im Voraus, direkt auf Ihr Bankkonto.",
-    "t": 824.36
+    "t": 717.47
    },
    {
     "speaker": "Tom",
     "text": "Die CNAP veröffentlicht einen Zahlungskalender auf ihrer Webseite, damit Sie die genauen Daten kennen.",
-    "t": 828.85
+    "t": 720.88
    },
    {
     "speaker": "Tom",
     "text": "Kleines Beispiel — die Januar-Pensionen werden normalerweise kurz vor Weihnachten gezahlt.",
-    "t": 835.24
+    "t": 727.19
    },
    {
     "speaker": "Anna",
     "text": "Ein schönes Geschenk vor den Feiertagen!",
-    "t": 841.33
+    "t": 732.79
    },
    {
     "speaker": "Anna",
     "text": "Und wie stelle ich den Antrag, Schritt für Schritt?",
-    "t": 844.64
+    "t": 735.18
    },
    {
     "speaker": "Tom",
     "text": "Sie laden das richtige Formular von c-n-a-p Punkt public Punkt l-u herunter — oder fragen danach.",
-    "t": 848.52
+    "t": 738.7
    },
    {
     "speaker": "Tom",
     "text": "Sie füllen es aus, unterschreiben es und schicken es per Post, mit einem Bankdokument, das Ihr Konto zeigt.",
-    "t": 855.18
+    "t": 746.64
    },
    {
     "speaker": "Tom",
     "text": "Die CNAP schickt Ihnen eine Empfangsbestätigung, prüft Ihre Laufbahn und kann Dokumente anfordern.",
-    "t": 862.18
+    "t": 752.89
    },
    {
     "speaker": "Anna",
     "text": "Und wenn es eine Lücke in meiner Laufbahn gibt — ein Jahr, das die CNAP nicht kennt?",
-    "t": 868.6
+    "t": 759.47
    },
    {
     "speaker": "Tom",
     "text": "Dann fragt sie Sie danach, und sie kann offizielle Nachweise von anderen Behörden anfordern, in Luxemburg und im Ausland.",
-    "t": 874.02
+    "t": 765.28
    },
    {
     "speaker": "Tom",
     "text": "Deshalb ist es klug, den jährlichen Laufbahnauszug lange vor der Rente zu prüfen — Probleme lassen sich früh leichter lösen.",
-    "t": 881.79
+    "t": 772.51
    },
    {
     "speaker": "Anna",
     "text": "Sehr guter Rat.",
-    "t": 889.3
+    "t": 779.71
    },
    {
     "speaker": "Anna",
     "text": "Und während wir auf die endgültige Entscheidung warten — kein Geld?",
-    "t": 891.47
+    "t": 781.02
    },
    {
     "speaker": "Tom",
-    "text": "Keine Sorge.",
-    "t": 895.91
-   },
-   {
-    "speaker": "Tom",
-    "text": "Wenn die Bedingungen erfüllt sind, zahlt die CNAP Ihnen normalerweise einen Vorschuss auf Ihre Pension, während die endgültige Berechnung abgeschlossen wird.",
-    "t": 897.89
+    "text": "Keine Sorge. Wenn die Bedingungen erfüllt sind, zahlt die CNAP Ihnen normalerweise einen Vorschuss auf Ihre Pension, während die endgültige Berechnung abgeschlossen wird.",
+    "t": 785.05
    },
    {
     "speaker": "Tom",
     "text": "Und viele Bescheinigungen — zum Beispiel ein Nachweis Ihrer Pension — können online angefordert werden, auch über MyGuichet Punkt l-u.",
-    "t": 907.17
+    "t": 796.34
    },
    {
     "speaker": "Anna",
     "text": "Nun, Tom, wir sollten die Neuigkeiten erwähnen.",
-    "t": 915.59
+    "t": 804.76
    },
    {
     "speaker": "Anna",
     "text": "Das Pensionssystem ändert sich ein wenig, oder?",
-    "t": 920.05
+    "t": 807.8
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 924.18
-   },
-   {
-    "speaker": "Tom",
-    "text": "Im Dezember zweitausendfünfundzwanzig hat die Abgeordnetenkammer eine Reform des Pensionssystems verabschiedet.",
-    "t": 925.67
+    "text": "Ja. Im Dezember zweitausendfünfundzwanzig hat die Abgeordnetenkammer eine Reform des Pensionssystems verabschiedet.",
+    "t": 810.76
    },
    {
     "speaker": "Tom",
     "text": "Das Ziel ist, das System langfristig finanziell gesund zu halten — und das gesetzliche Rentenalter bleibt bei fünfundsechzig.",
-    "t": 932.82
+    "t": 818.02
    },
    {
     "speaker": "Anna",
     "text": "Was sind die wichtigsten Änderungen?",
-    "t": 940.68
+    "t": 825.82
    },
    {
     "speaker": "Tom",
     "text": "Der Gesamtbeitragssatz steigt von vierundzwanzig Prozent auf fünfundzwanzig Komma fünf Prozent.",
-    "t": 943.77
+    "t": 828.11
    },
    {
     "speaker": "Tom",
     "text": "Die Bedingungen für manche vorgezogenen Pensionen werden schrittweise angepasst, Schritt für Schritt, ab Juli zweitausendsechsundzwanzig.",
-    "t": 950.1
+    "t": 834.04
    },
    {
     "speaker": "Tom",
     "text": "Studienjahre ab dem Alter von achtzehn werden flexibler berücksichtigt.",
-    "t": 958.52
+    "t": 842.29
    },
    {
     "speaker": "Tom",
     "text": "Und eine progressive Pension wird eingeführt — ein Weg, um schrittweise in den Ruhestand zu gehen.",
-    "t": 963.51
+    "t": 846.58
    },
    {
     "speaker": "Anna",
     "text": "Und für Menschen, die schon in Rente sind?",
-    "t": 970
+    "t": 852.32
    },
    {
     "speaker": "Tom",
     "text": "Nichts ändert sich.",
-    "t": 973.48
+    "t": 854.68
    },
    {
     "speaker": "Tom",
     "text": "Pensionen, die bereits gezahlt werden, sind nicht betroffen, und die Alterspension mit fünfundsechzig bleibt, wie sie ist.",
-    "t": 975.61
+    "t": 855.99
    },
    {
     "speaker": "Tom",
     "text": "Es gibt sogar einen neuen Steuervorteil für Menschen, die in Rente gehen könnten, aber weiterarbeiten möchten — Sie können ihn über MyGuichet Punkt l-u beantragen.",
-    "t": 983.56
+    "t": 862.83
    },
    {
     "speaker": "Anna",
     "text": "Die Botschaft ist also — bleiben Sie informiert, aber keine Panik.",
-    "t": 993.16
+    "t": 872.82
    },
    {
     "speaker": "Anna",
     "text": "Für die Details schauen Sie immer auf die offiziellen Seiten.",
-    "t": 997.98
+    "t": 876.85
    },
    {
     "speaker": "Tom",
-    "text": "Genau.",
-    "t": 1002.18
-   },
-   {
-    "speaker": "Tom",
-    "text": "Die Webseite der CNAP hat einen speziellen Nachrichtenbereich über die Änderungen von zweitausendsechsundzwanzig, in mehreren Sprachen.",
-    "t": 1003.75
+    "text": "Genau. Die Webseite der CNAP hat einen speziellen Nachrichtenbereich über die Änderungen von zweitausendsechsundzwanzig, in mehreren Sprachen.",
+    "t": 880.14
    },
    {
     "speaker": "Anna",
     "text": "Und wenn jemand eine persönliche Frage zu seiner eigenen Akte hat?",
-    "t": 1011.88
+    "t": 890.63
    },
    {
     "speaker": "Tom",
     "text": "Die CNAP hat eine Pensions-Hotline — die Nummer steht auf der Webseite.",
-    "t": 1016.7
+    "t": 894.35
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch einen Empfangsschalter in Luxemburg-Stadt, geöffnet von Montag bis Freitag, und Kontaktformulare online.",
-    "t": 1021.34
+    "t": 899.17
    },
    {
     "speaker": "Tom",
     "text": "Und für grenzüberschreitende Laufbahnen gibt es internationale Informationstage, bei denen Spezialisten aus Luxemburg, Deutschland, Frankreich und Belgien Ihre Fragen gemeinsam beantworten.",
-    "t": 1029.16
+    "t": 906.16
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein toller Service.",
-    "t": 1041.09
+    "t": 918.23
    },
    {
     "speaker": "Anna",
     "text": "Zeit für unsere kleine Zusammenfassung.",
-    "t": 1043.66
+    "t": 919.93
    },
    {
     "speaker": "Anna",
     "text": "Tom — das Wichtigste?",
-    "t": 1047.1
+    "t": 922.36
    },
    {
     "speaker": "Tom",
     "text": "Die Pensiounskeess — die CNAP — zahlt die Pensionen des Privatsektors und der Selbstständigen.",
-    "t": 1049.3
+    "t": 924.45
    },
    {
     "speaker": "Tom",
     "text": "Alterspension mit fünfundsechzig, mit mindestens zehn Jahren Versicherung.",
-    "t": 1055.65
+    "t": 931.78
    },
    {
     "speaker": "Tom",
     "text": "Vorgezogene Pension möglich mit siebenundfünfzig oder sechzig, bei einer langen Laufbahn.",
-    "t": 1060.89
+    "t": 936.28
    },
    {
     "speaker": "Anna",
     "text": "Die Pension kommt nie automatisch — Sie müssen einen Antrag stellen.",
-    "t": 1066.93
+    "t": 941.66
    },
    {
     "speaker": "Anna",
     "text": "Ihre Versicherungslaufbahn ist Ihr Pensionstagebuch — prüfen Sie Ihren jährlichen Auszug, und ab fünfundfünfzig zeigt er eine Schätzung.",
-    "t": 1071.75
+    "t": 945.66
    },
    {
     "speaker": "Tom",
     "text": "Jahre, die in anderen Ländern gearbeitet wurden, gehen nicht verloren — sie werden zusammengezählt, und jedes Land zahlt seinen Teil.",
-    "t": 1080.88
+    "t": 953.7
    },
    {
     "speaker": "Tom",
     "text": "Ein Antrag bei der CNAP genügt.",
-    "t": 1089.45
+    "t": 961.41
    },
    {
     "speaker": "Anna",
     "text": "Invalidenpension und Hinterbliebenenpension schützen Sie und Ihre Familie, wenn das Leben schwierig ist.",
-    "t": 1092.29
+    "t": 964.36
    },
    {
     "speaker": "Anna",
     "text": "Und die Pensionen folgen den Lebenshaltungskosten — plus ein kleines Extra am Jahresende.",
-    "t": 1099.67
+    "t": 970.27
    },
    {
     "speaker": "Tom",
     "text": "Und für alles — Formulare, den Zahlungskalender, die Nachrichten zur Reform, die Hotline — eine Adresse: c-n-a-p Punkt public Punkt l-u.",
-    "t": 1106.04
+    "t": 975.81
    },
    {
     "speaker": "Anna",
-    "text": "Wunderbar.",
-    "t": 1115.62
+    "text": "Wunderbar. Das ist das Ende unserer Reise durch das Pensionssystem.",
+    "t": 987.07
    },
    {
     "speaker": "Anna",
-    "text": "Das ist das Ende unserer Reise durch das Pensionssystem.",
-    "t": 1117.55
-   },
-   {
-    "speaker": "Anna",
-    "text": "Danke fürs Zuhören — und denken Sie daran: Es ist nie zu früh, an Ihre Pension zu denken.",
-    "t": 1121.94
+    "text": "Und denken Sie daran: Es ist nie zu früh, an Ihre Pension zu denken.",
+    "t": 991.48
    },
    {
     "speaker": "Tom",
     "text": "Prüfen Sie diesen Laufbahnauszug!",
-    "t": 1128.78
-   },
-   {
-    "speaker": "Tom",
-    "text": "Machen Sie es gut — auf Wiedersehen!",
-    "t": 1131.71
+    "t": 995.89
    },
    {
     "speaker": "Anna",
-    "text": "Auf Wiedersehen!",
-    "t": 1134.71
+    "text": "Das war unsere Folge über die Pensiounskeess.",
+    "t": 998.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 1001.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 1010.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 1028.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 1034.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 1036.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 1041.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 1042.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 1045.68
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, an häerzlech wëllkomm! Et ass wierklech schéin, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
     "text": "Moien alleguer!",
-    "t": 5.58
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass en Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Frontalieren, hëllefen, Lëtzebuerg ze entdecken — oder nei z'entdecken — an nei Leit kennenzeléieren.",
-    "t": 7.62
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "Genee. An haut schwätze mir iwwer eppes, wat jiddereen ugeet, deen zu Lëtzebuerg schafft. D'Retraite — an d'Pensioun, déi Dir kritt, wann Dir ophaalt ze schaffen.",
-    "t": 23.69
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "E grousst Thema! An et gëtt ee Büro, deen am Zentrum vun allem steet. Tom, so eis säin Numm.",
-    "t": 35.26
+    "t": 37.38
    },
    {
     "speaker": "Tom",
     "text": "Op Lëtzebuergesch soen d'Leit d'Pensiounskeess. Den offiziellen Numm ass Caisse nationale d'assurance pension — dat ass Franséisch fir national Pensiounsversécherungskeess. De kuerzen Numm ass C-N-A-P.",
-    "t": 43.12
+    "t": 43.33
    },
    {
     "speaker": "Anna",
     "text": "D'CNAP. A wou fannen d'Leit se online?",
-    "t": 58.75
+    "t": 56.73
    },
    {
     "speaker": "Tom",
     "text": "De Site ass c-n-a-p Punkt public Punkt l-u. En ass op Franséisch, Däitsch an Englesch disponibel, an en erkläert dee ganze Pensiounssystem an enger kloerer Sprooch.",
-    "t": 63.65
+    "t": 60.22
    },
    {
     "speaker": "Anna",
     "text": "Perfekt. Da fänke mir einfach un. Wat ass d'CNAP?",
-    "t": 73.62
+    "t": 69.31
    },
    {
     "speaker": "Tom",
     "text": "D'CNAP ass déi ëffentlech Keess, déi d'Pensioune vum allgemenge Regime bezilt. Si existéiert an hirer aktueller Form zënter dem éischte Januar zweedausendnéng, wéi véier al Pensiounskeesen zu enger eenzeger Keess fusionéiert goufen.",
-    "t": 80.1
+    "t": 73.48
    },
    {
     "speaker": "Anna",
     "text": "Eng Keess fir jiddereen?",
-    "t": 93.42
+    "t": 86.19
    },
    {
     "speaker": "Tom",
     "text": "Fir bal jiddereen. Den allgemenge Regime gëllt fir all d'Leit, déi zu Lëtzebuerg schaffen — Salariéen aus dem Privatsecteur an Independanten. D'Fonctionnairen an d'ëffentlech Beamten hunn hiren eegene separate Regime.",
-    "t": 95.8
+    "t": 87.76
    },
    {
     "speaker": "Anna",
     "text": "An d'Frontalieren?",
-    "t": 109.52
+    "t": 99.26
    },
    {
     "speaker": "Tom",
     "text": "Jo, absolut. Wann Dir zu Lëtzebuerg schafft, bezuelt Dir Kotisatiounen zu Lëtzebuerg — et ass egal, ob Dir am Land wunnt oder all Moien aus Frankräich, der Belsch oder Däitschland op Lëtzebuerg fuert. Är Pensiounsrechter wuesse grad d'selwecht.",
-    "t": 111.94
+    "t": 101.03
    },
    {
     "speaker": "Anna",
     "text": "Gutt. A wat genee mécht d'CNAP?",
-    "t": 126.95
+    "t": 114.55
    },
    {
     "speaker": "Tom",
     "text": "Hir Missioun ass et, Pensiounsleeschtungen an dräi Situatiounen z'accordéieren. Alter. Invaliditéit — wann Är Gesondheet Iech net méi schaffe léisst. An Iwwerliewen — Ënnerstëtzung fir d'Famill, wann eng verséchert Persoun stierft.",
-    "t": 131.68
+    "t": 117.2
    },
    {
     "speaker": "Anna",
     "text": "Alter, Invaliditéit, Iwwerliewen. Ier mer eis déi dräi eenzel ukucken — wéi gëtt dat alles bezuelt?",
-    "t": 146.26
+    "t": 129.75
    },
    {
     "speaker": "Tom",
     "text": "Duerch Kotisatiounen. All Mount geet en Deel vun Ärem Loun an d'Pensiounsversécherung. D'Käschte gi gedeelt — den Aarbechter bezilt en Deel, de Patron bezilt en Deel, an de Staat bezilt och en Deel.",
-    "t": 153.54
+    "t": 135.77
    },
    {
     "speaker": "Anna",
     "text": "Also wärend Dir schafft, bezuelt Dir an. A spéider bezilt d'Keess Är Pensioun.",
-    "t": 166.58
+    "t": 147.05
    },
    {
     "speaker": "Tom",
     "text": "Genee. An all Mount, deen Dir zu Lëtzebuerg schafft, gëtt an Ärer perséinlecher Versécherungscarrière opgeschriwwen. Dës Carrière ass d'Fundament vun allem — Är Pensioun gëtt dovun ausgerechent.",
-    "t": 172.7
+    "t": 151.54
    },
    {
     "speaker": "Anna",
     "text": "Mir kommen op déi Carrière zréck — dat kléngt wichteg. Awer fir d'éischt de klassesche Fall. D'Alterspensioun. Wéini kann ech a Pensioun goen?",
-    "t": 185.09
+    "t": 162.12
    },
    {
     "speaker": "Tom",
     "text": "De legale Pensiounsalter zu Lëtzebuerg ass fënnefasechzeg. Fir eng Alterspensioun mat fënnefasechzeg ze kréien, braucht Dir op d'mannst zéng Joer Versécherung — honnertzwanzeg Méint.",
-    "t": 196.28
+    "t": 170.54
    },
    {
     "speaker": "Anna",
     "text": "Zéng Joer. A mussen déi zéng Joer zu Lëtzebuerg sinn?",
-    "t": 207.11
+    "t": 180.78
    },
    {
     "speaker": "Tom",
     "text": "Nee — an dat ass ganz wichteg fir eis international Nolauschterer. Versécherungsperioden aus anere Länner ziele fir d'Konditioun mat. Wann Dir fënnef Joer zu Lëtzebuerg an zwanzeg Joer an der Belsch geschafft hutt, packt Dir den Zéng-Joer-Test kloer.",
-    "t": 212.31
+    "t": 184.36
    },
    {
     "speaker": "Anna",
     "text": "Dat berouegt. An ass d'Pensioun automatesch? Kënnt d'Geld einfach u mengem fënnefasechzegste Gebuertsdag un?",
-    "t": 226.98
+    "t": 198.13
    },
    {
     "speaker": "Tom",
     "text": "Nee! Dat iwwerrascht vill Leit. Och wann Dir all d'Konditiounen erfëllt, musst Dir eng Demande maachen. Dir schéckt eng Pensiounsdemande un d'CNAP — d'Formulaire sinn um Site.",
-    "t": 235.35
+    "t": 204.76
    },
    {
     "speaker": "Anna",
     "text": "Gutt ze wëssen. Elo, fënnefasechzeg ass de legalen Alter. Awer ech hu gehéiert, datt verschidde Leit méi fréi a Pensioun ginn.",
-    "t": 248.6
+    "t": 215.55
    },
    {
     "speaker": "Tom",
     "text": "Jo. Et gëtt eng virgezunn Alterspensioun, an déi huet zwou Dieren. Déi éischt Dier geet mat siwenafofzeg op — fir Leit mat enger ganz laanger Carrière vu véierzeg Joer obligatorescher Versécherung. Dat si véierhonnertachtzeg Méint effektiv Aarbecht.",
-    "t": 257.12
+    "t": 222.15
    },
    {
     "speaker": "Anna",
     "text": "Véierzeg Joer Aarbecht mat siwenafofzeg. Also een, dee ganz jonk ugefaangen huet ze schaffen.",
-    "t": 273.04
+    "t": 236.81
    },
    {
     "speaker": "Tom",
     "text": "Genee. Déi zweet Dier geet mat sechzeg op. Do braucht Dir och véierzeg Joer, awer do ziele méi Zorte vu Periode mat — zum Beispill verschidde Studiejoren oder Kannererzéiungsperioden, zesumme mat op d'mannst zéng Joer reelle Kotisatiounen.",
-    "t": 279.7
+    "t": 242.12
    },
    {
     "speaker": "Anna",
     "text": "A kann ech schaffen, wärend ech eng virgezunn Pensioun kréien?",
-    "t": 295.07
+    "t": 256.87
    },
    {
     "speaker": "Tom",
     "text": "Virsiichteg! Bei der virgezunner Pensioun ginn et Akommesgrenzen. Eng kleng Aarbecht ass an der Rei — bis zu engem Drëttel vum soziale Mindestloun ännert sech näischt. Doriwwer kann d'Pensioun reduzéiert ginn, oder souguer zréckgezunn, wann Dir ze vill verdéngt.",
-    "t": 298.35
+    "t": 259.72
    },
    {
     "speaker": "Anna",
     "text": "A mat fënnefasechzeg?",
-    "t": 314.69
+    "t": 272.25
    },
    {
     "speaker": "Tom",
     "text": "Mat fënnefasechzeg, total Fräiheet. Soubal Dir déi normal Alterspensioun kritt, kënnt Dir sou vill schaffen, wéi Dir wëllt — dat huet keen Effekt op de Betrag vun Ärer Pensioun. An e flotten Detail — d'Pensiounskotisatiounen, déi Dir op déi nei Aarbecht bezuelt, kënnen all Joer op Demande zréckbezuelt ginn.",
-    "t": 316.96
+    "t": 273.8
    },
    {
     "speaker": "Anna",
     "text": "Wierklech? De System belount wierklech d'Leit, déi aktiv bleiwen. Okay — elo maache mir déi Versécherungscarrière op, déi s de ernimmt hues. Wat ass do dran?",
-    "t": 333.64
+    "t": 289.25
    },
    {
     "speaker": "Tom",
     "text": "Stellt Iech se vir wéi Äert Pensiounsdagebuch. Et lëscht, Mount fir Mount, all Är Versécherungsperioden op. Lëtzebuerg zielt a Kalennerméint — e Mount zielt, wann Dir op d'mannst véierasechzeg Stonnen als Salarié geschafft hutt, oder zéng Deeg als Independant.",
-    "t": 344.95
+    "t": 297.93
    },
    {
     "speaker": "Anna",
     "text": "A wéi weess ech, wat a mengem Dagebuch steet?",
-    "t": 360.16
+    "t": 312.54
    },
    {
     "speaker": "Tom",
     "text": "D'CNAP schéckt Iech all Joer automatesch e Carrièresrelevé, wann Dir d'Joer virdru verséchert waart. Kontrolléiert en! Kuckt no, ob Är Méint an Är Léin richteg sinn. A vum Alter vu fënnefafofzeg Joer u weist de Relevé souguer eng Schätzung vun Ärer zukünfteger Pensioun.",
-    "t": 363.25
+    "t": 315.04
    },
    {
     "speaker": "Anna",
     "text": "Eng Schätzung — dat hëlleft wierklech beim Plangen. Elo, du hues gesot, verschidde Periode ziele souguer ouni Kotisatiounen?",
-    "t": 380.66
+    "t": 330.2
    },
    {
     "speaker": "Tom",
     "text": "Jo — dat sinn déi sougenannt Zousazperioden. Zum Beispill Periode vu Studien oder Beruffsausbildung tëscht uechtzéng a siwenanzwanzeg. Oder déi bekannt Babyjoren — Zäit, an där Dir kleng Kanner ënner sechs Joer grousszitt.",
-    "t": 388.65
+    "t": 336.62
    },
    {
     "speaker": "Anna",
     "text": "Also gëtt en Elterendeel, deen doheem bei de Kanner bliwwen ass, net vergiess.",
-    "t": 402.64
+    "t": 347.84
    },
    {
     "speaker": "Tom",
     "text": "Guer net. Fir zwee Kanner kënnen op d'mannst aacht Joer Kannererzéiungszäit zielen; fir dräi Kanner zéng Joer. Et ginn och Periode fir d'Fleeg vun enger ofhängeger Persoun. Dës Periode hëllefen Iech, d'Konditiounen z'erfëllen — si fëllen d'Lächer an der Carrière.",
-    "t": 406.81
+    "t": 351.74
    },
    {
     "speaker": "Anna",
     "text": "Dat ass fair. Elo d'Fro, op déi jidderee waart. Wéi vill Pensioun kréien ech?",
-    "t": 423.69
+    "t": 366.54
    },
    {
     "speaker": "Tom",
     "text": "Déi genee Berechnung ass komplex, awer d'Iddi ass einfach. Är Pensioun huet zwee Bausteng. Deen éischten ass e Forfait-Deel — hien hänkt vun der Längt vun Ärer Carrière of, bis zu véierzeg Joer. Deen zweeten ass e proportionalen Deel — hien hänkt vun de Léin of, déi Dir während Ärer ganzer Carrière verdéngt hutt.",
-    "t": 431.39
+    "t": 371.77
    },
    {
     "speaker": "Anna",
     "text": "Also — wéi laang Dir geschafft hutt, plus wéi vill Dir verdéngt hutt.",
-    "t": 450.33
+    "t": 390.19
    },
    {
     "speaker": "Tom",
     "text": "Genee. Wat d'Carrière méi laang ass an d'Akommes méi héich, wat d'Pensioun méi héich ass. An et gëtt e Bonus — wann Dir iwwer eng gewësse Kombinatioun vun Alter a Carrièresjoren eraus schafft, geet den Taux vum proportionalen Deel erop. Nach eng Motivatioun, fir aktiv ze bleiwen.",
-    "t": 454.32
+    "t": 393.61
    },
    {
     "speaker": "Anna",
     "text": "Gëtt et e Minimum? Fir Leit mat klenge Léin?",
-    "t": 471.13
+    "t": 408.31
    },
    {
     "speaker": "Tom",
-    "text": "Jo. Mat enger voller Carrière vu véierzeg Joer garantéiert d'Gesetz eng Minimumspensioun. Am Mee zweedausendfënnefanzwanzeg louch dee Minimum bei ongeféier zweedausenddräihonnertfofzeg Euro brutto de Mount. Wann Är ausgerechent Pensioun ënner dem Minimum läit, kritt Dir e Supplement.",
-    "t": 475.92
+    "text": "Jo. Mat enger voller Carrière vu véierzeg Joer garantéiert d'Gesetz eng Minimumspensioun. Am Joer zweedausendsechsanzwanzeg läit dee Minimum bei liicht iwwer zweedausendvéierhonnert Euro brutto de Mount. Wann Är ausgerechent Pensioun ënner dem Minimum läit, kritt Dir e Supplement.",
+    "t": 411.8
    },
    {
     "speaker": "Anna",
     "text": "An e Maximum?",
-    "t": 493.91
+    "t": 428.26
    },
    {
     "speaker": "Tom",
-    "text": "Jo, et gëtt och e legale Plaffong — keng perséinlech Pensioun kann doriwwer goen. An nach eppes — d'Pensioune sinn net agefruer. Si gi mam Index un d'Liewenskäschten ugepasst, a si ginn och un d'Entwécklung vun de Léin ugepasst. Zum Beispill sinn d'Pensiounen den éischte Januar zweedausendsechsanzwanzeg ëm ee Komma fënnef Prozent geklommen.",
-    "t": 495.86
+    "text": "Jo, et gëtt och e legale Plaffong — keng perséinlech Pensioun kann doriwwer goen. An nach eppes — d'Pensioune sinn net agefruer. Si gi mam Index un d'Liewenskäschten ugepasst, a si ginn och un d'Entwécklung vun de Léin ugepasst. Zum Beispill sinn d'Pensiounen am Joer zweedausendsechsanzwanzeg am Januar ëm ee Komma fënnef Prozent geklommen, an am Juni mam Index nach eemol ëm zwee Komma fënnef Prozent.",
+    "t": 429.62
    },
    {
     "speaker": "Anna",
     "text": "Also behält d'Pensioun hire Wäert iwwer d'Zäit. An ech hu gehéiert, d'Pensionäre kréien am Dezember och nach eppes extra?",
-    "t": 516.62
+    "t": 452.35
    },
    {
     "speaker": "Tom",
     "text": "Jo — d'Enn-vum-Joer-Zoulag. Leit, déi den éischten Dezember Recht op eng Pensioun hunn, kréie se. De Betrag hänkt vun der Längt vun der Carrière of — zweedausendsechsanzwanzeg ass de Maximum e bësse méi wéi dausend Euro fir véierzeg Joer Versécherung.",
-    "t": 523.99
+    "t": 458.38
    },
    {
     "speaker": "Anna",
     "text": "Ganz flott. Elo — Lëtzebuerg ass e Land vun internationale Carrièren. Ech schaffen hei, awer virdrun hunn ech a Portugal geschafft, oder an Italien, oder a Frankräich. Wat geschitt mat deene Joren?",
-    "t": 539.45
+    "t": 472.65
    },
    {
     "speaker": "Tom",
     "text": "Näischt geet verluer — dat ass déi gëlle Regel. Bannent der Europäescher Unioun, an och mat der Schwäiz, Island, Liechtenstein an Norwegen, ginn all Är Versécherungsperioden zesummegezielt, fir d'Konditiounen ze kontrolléieren. Lëtzebuerg huet och Accorde mat villen anere Länner.",
-    "t": 553.84
+    "t": 482.82
    },
    {
     "speaker": "Anna",
     "text": "Zesummegezielt — also hëllefe meng portugisesch Jore mir, d'Konditiounen zu Lëtzebuerg z'erfëllen.",
-    "t": 570.22
+    "t": 497.68
    },
    {
     "speaker": "Tom",
     "text": "Genee. An duerno bezilt all Land säin eegenen Deel — eng Deelpensioun fir d'Joren, déi Dir do geschafft hutt. Dir kënnt e puer Pensioune gläichzäiteg kréien, aus e puer Länner. Um Enn kritt Dir eng Pensioun vun all Land, wou Dir Rechter opgebaut hutt.",
-    "t": 575.24
+    "t": 502.46
    },
    {
     "speaker": "Anna",
     "text": "Muss ech an all Land eng separat Demande maachen? Dat kléngt no vill Pabeierskram.",
-    "t": 591.98
+    "t": 516.71
    },
    {
     "speaker": "Tom",
     "text": "Gutt Nouvelle — nee. Wann Dir zu Lëtzebuerg wunnt, gitt Dir eng eenzeg Demande of, bei der CNAP. D'CNAP kontaktéiert dann déi auslännesch Pensiounsinstitutioune fir Iech. Et kann eng Zäit daueren, well d'Büroen offiziell Dokumenter austauschen, awer et ass eng eenzeg Prozedur.",
-    "t": 598.29
+    "t": 522.17
    },
    {
     "speaker": "Anna",
     "text": "Eng Demande, an d'Büroe schwätze mateneen. Excellent. Elo kucke mir eis déi zweet Zort Pensioun un. D'Invaliditéit.",
-    "t": 616.69
+    "t": 538.59
    },
    {
     "speaker": "Tom",
     "text": "D'Invaliditéitspensioun ass do, wann d'Liewen eng schwéier Wendung hëlt. Wann Dir, wéinst enger laanger Krankheet oder Infirmitéit, net méi an Ärem Beruff schaffe kënnt, an och net an enger anerer Aarbecht, déi Äre Kräften entsprécht, kënnt Dir eng Invaliditéitspensioun kréien — virum Alter vu fënnefasechzeg.",
-    "t": 627.55
+    "t": 547.31
    },
    {
     "speaker": "Anna",
     "text": "Wat sinn d'Konditiounen?",
-    "t": 642.36
+    "t": 563.27
    },
    {
     "speaker": "Tom",
     "text": "Am Allgemenge braucht Dir op d'mannst zwielef Méint Versécherung während den dräi Joer virun der Invaliditéit. Awer — wichteg — wann d'Invaliditéit vun engem Accident oder enger unerkannter Beruffskrankheet kënnt, ass guer keng Waardezäit néideg.",
-    "t": 644.65
+    "t": 564.93
    },
    {
     "speaker": "Anna",
     "text": "A wat geschitt, wann d'Persoun fënnefasechzeg gëtt?",
-    "t": 658.53
+    "t": 579.32
    },
    {
     "speaker": "Tom",
     "text": "D'Invaliditéitspensioun gëtt automatesch an eng Alterspensioun ëmgewandelt. Et ass just den Numm, deen ännert — de Betrag gëtt net nei ausgerechent. Kee brauch sech wéinst deem Gebuertsdag Suergen ze maachen.",
-    "t": 662.1
+    "t": 582.61
    },
    {
     "speaker": "Anna",
     "text": "Gutt. An déi drëtt Zort — d'Iwwerliewenspensioun.",
-    "t": 674.65
+    "t": 593.14
    },
    {
     "speaker": "Tom",
     "text": "Jo. Wann eng verséchert Persoun oder e Pensionär stierft, ass d'Famill geschützt. Den iwwerliewende Mann oder d'iwwerliewend Fra — an och den iwwerliewende Partner aus engem agedroene Partenariat — kann eng Iwwerliewenspensioun kréien, ausgerechent vun der Pensioun vun der Persoun, déi gestuerwen ass.",
-    "t": 679.59
+    "t": 596.77
    },
    {
     "speaker": "Anna",
     "text": "An d'Kanner?",
-    "t": 694.78
+    "t": 610.65
    },
    {
     "speaker": "Tom",
     "text": "D'Kanner kréien eng Weesepensioun, nom Doud vum Papp oder vun der Mamm. Si gëtt bis zum Alter vun uechtzéng Joer bezuelt — a si ka bis siwenanzwanzeg weidergoen, wann de jonke Mënsch nach studéiert oder an der Ausbildung fir säi zukünftege Beruff ass.",
-    "t": 696.71
+    "t": 611.93
    },
    {
     "speaker": "Anna",
     "text": "Dat ass e wichtegt Sécherheetsnetz fir d'Famillen. Elo, praktesch Froen. Wéi gëtt d'Pensioun tatsächlech bezuelt?",
-    "t": 710.13
+    "t": 625.22
    },
    {
     "speaker": "Tom",
     "text": "All Mount, am Viraus, direkt op Äre Bankkont. D'CNAP publizéiert e Bezuelkalenner op hirem Site, sou datt Dir déi genee Datume kennt. E klengt Beispill — d'Januar-Pensioune gi meeschtens kuerz viru Chrëschtdag bezuelt.",
-    "t": 719.23
+    "t": 631.72
    },
    {
     "speaker": "Anna",
     "text": "E schéine Cadeau virun de Feierdeeg! A wéi maachen ech meng Demande, Schrëtt fir Schrëtt?",
-    "t": 734.17
+    "t": 645.07
    },
    {
     "speaker": "Tom",
     "text": "Dir luet dat richtegt Formulaire vu c-n-a-p Punkt public Punkt l-u erof — oder Dir frot et un. Dir fëllt et aus, ënnerschreift et a schéckt et mat der Post, mat engem Bankdokument, dat Äre Kont weist. D'CNAP schéckt Iech eng Bestätegung, datt d'Demande ukomm ass, kontrolléiert Är Carrière a freet eventuell no Dokumenter.",
-    "t": 740.36
+    "t": 649.87
    },
    {
     "speaker": "Anna",
     "text": "A wann et e Lach a menger Carrière gëtt — e Joer, dat d'CNAP net kennt?",
-    "t": 756.44
+    "t": 665.19
    },
    {
     "speaker": "Tom",
     "text": "Da stelle si Iech Froen dozou, a si kënnen offiziell Beweiser vun aneren Autoritéiten ufroen, zu Lëtzebuerg an am Ausland. Dofir ass et clever, Äre jäerleche Carrièresrelevé laang virun der Pensioun ze kontrolléieren — Problemer si méi liicht ze léisen, wa se fréi entdeckt ginn.",
-    "t": 761.26
+    "t": 670.49
    },
    {
     "speaker": "Anna",
     "text": "E ganz gudde Rot. A wärend mer op déi definitiv Decisioun waarden — keng Suen?",
-    "t": 774.54
+    "t": 683.31
    },
    {
     "speaker": "Tom",
     "text": "Keng Suergen. Wann d'Konditiounen erfëllt sinn, bezilt d'CNAP Iech normalerweis eng Avance op Är Pensioun, wärend déi definitiv Berechnung fäerdeg gemaach gëtt. A vill Attestatiounen — zum Beispill e Beweis vun Ärer Pensioun — kënnen online ugefrot ginn, och iwwer MyGuichet Punkt l-u.",
-    "t": 780.38
+    "t": 688.27
    },
    {
     "speaker": "Anna",
     "text": "Elo Tom, mir sollten d'Neiegkeeten ernimmen. De Pensiounssystem ännert sech e bëssen, oder?",
-    "t": 797.28
+    "t": 704.92
    },
    {
     "speaker": "Tom",
     "text": "Jo. Am Dezember zweedausendfënnefanzwanzeg huet d'Chamber eng Reform vum Pensiounssystem ugeholl. D'Zil ass, de System laangfristeg finanziell gesond ze halen — an de legale Pensiounsalter bleift bei fënnefasechzeg.",
-    "t": 804.14
+    "t": 710.1
    },
    {
     "speaker": "Anna",
     "text": "Wat sinn déi Haaptännerungen?",
-    "t": 818.73
+    "t": 723.89
    },
    {
     "speaker": "Tom",
     "text": "De globale Kotisatiounstaux klëmmt vu véieranzwanzeg Prozent op fënnefanzwanzeg Komma fënnef Prozent. D'Konditioune fir verschidde virgezunn Pensioune gi graduell ugepasst, Schrëtt fir Schrëtt, vum Juli zweedausendsechsanzwanzeg un. Studiejore vum Alter vun uechtzéng Joer u gi méi flexibel ugerechent. An eng progressiv Pensioun gëtt agefouert — e Wee, fir graduell an d'Pensioun ze goen.",
-    "t": 821.12
+    "t": 725.65
    },
    {
     "speaker": "Anna",
     "text": "A fir d'Leit, déi scho pensionéiert sinn?",
-    "t": 843.49
+    "t": 745.01
    },
    {
     "speaker": "Tom",
     "text": "Näischt ännert sech. Pensiounen, déi scho bezuelt ginn, sinn net betraff, an d'Alterspensioun mat fënnefasechzeg bleift, wéi se ass. Et gëtt souguer en neie Steiervirdeel fir Leit, déi a Pensioun goe kéinten, awer wielen, weiderzeschaffen — Dir kënnt en iwwer MyGuichet Punkt l-u ufroen.",
-    "t": 846.44
+    "t": 747.51
    },
    {
     "speaker": "Anna",
     "text": "Also ass d'Message — bleift informéiert, awer keng Panik. Fir d'Detailer kuckt ëmmer op déi offiziell Säiten.",
-    "t": 862.25
+    "t": 764.09
    },
    {
     "speaker": "Tom",
     "text": "Genee. De Site vun der CNAP huet eng speziell Rubrik mat Neiegkeeten iwwer d'Ännerunge vun zweedausendsechsanzwanzeg, an e puer Sproochen.",
-    "t": 870.15
+    "t": 771.35
    },
    {
     "speaker": "Anna",
     "text": "A wann een eng perséinlech Fro iwwer säin eegenen Dossier huet?",
-    "t": 878.61
+    "t": 778.51
    },
    {
     "speaker": "Tom",
     "text": "D'CNAP huet eng Pensiounshotline — d'Nummer steet um Site. Et gëtt och e Guichet an der Stad Lëtzebuerg, op vu méindes bis freides, a Kontaktformulairen online. A fir d'Carrière vu Frontalieren ginn et international Informatiounsdeeg, wou Spezialisten aus Lëtzebuerg, Däitschland, Frankräich an der Belsch Är Froen zesumme beäntweren.",
-    "t": 882.39
+    "t": 781.9
    },
    {
     "speaker": "Anna",
     "text": "Dat ass e super Service. Zäit fir eise klenge Resumé. Tom — dat Wichtegst?",
-    "t": 903.06
+    "t": 801.58
    },
    {
     "speaker": "Tom",
     "text": "D'Pensiounskeess — d'CNAP — bezilt d'Pensioune vum Privatsecteur a vun den Independanten. Alterspensioun mat fënnefasechzeg, mat op d'mannst zéng Joer Versécherung. Virgezunn Pensioun méiglech mat siwenafofzeg oder sechzeg, mat enger laanger Carrière.",
-    "t": 910.43
+    "t": 807.1
    },
    {
     "speaker": "Anna",
     "text": "D'Pensioun ass ni automatesch — Dir musst eng Demande maachen. Är Versécherungscarrière ass Äert Pensiounsdagebuch — kontrolléiert Äre jäerleche Relevé, a vu fënnefafofzeg Joer u weist en eng Schätzung.",
-    "t": 925.66
+    "t": 821.37
    },
    {
     "speaker": "Tom",
     "text": "Joren, déi Dir an anere Länner geschafft hutt, ginn net verluer — si ginn zesummegezielt, an all Land bezilt säin Deel. Eng eenzeg Demande bei der CNAP geet duer.",
-    "t": 936.52
+    "t": 832.53
    },
    {
     "speaker": "Anna",
     "text": "D'Invaliditéitspensioun an d'Iwwerliewenspensioun schützen Iech an Är Famill, wann d'Liewe schwéier ass. An d'Pensioune gi mat de Liewenskäschte mat — plus e klengen Extra um Enn vum Joer.",
-    "t": 946.21
+    "t": 841.79
    },
    {
     "speaker": "Tom",
     "text": "A fir alles — d'Formulairen, de Bezuelkalenner, d'Neiegkeeten iwwer d'Reform, d'Hotline — eng eenzeg Adress: c-n-a-p Punkt public Punkt l-u.",
-    "t": 957
+    "t": 852.48
    },
    {
     "speaker": "Anna",
-    "text": "Wonnerbar. Dat ass d'Enn vun eiser Rees duerch de Pensiounssystem. Merci fir d'Nolauschteren — an denkt drun, et ass ni ze fréi, fir un Är Pensioun ze denken.",
-    "t": 964.75
+    "text": "Wonnerbar. Dat ass d'Enn vun eiser Rees duerch de Pensiounssystem. An denkt drun, et ass ni ze fréi, fir un Är Pensioun ze denken.",
+    "t": 862.96
    },
    {
     "speaker": "Tom",
-    "text": "Kontrolléiert dee Carrièresrelevé! Maacht et gutt, alleguer — äddi!",
-    "t": 975.56
+    "text": "Kontrolléiert dee Carrièresrelevé!",
+    "t": 870.79
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 981.13
+    "text": "Dat war eis Episod iwwer d'Pensiounskeess. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 872.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 916.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 919.27
    }
-  ],
-  "status": "in_progress"
+  ]
  }
 ];

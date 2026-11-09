@@ -100,11 +100,11 @@
 
 **ANNA:** Gëtt et e Minimum? Fir Leit mat klenge Léin?
 
-**TOM:** Jo. Mat enger voller Carrière vu véierzeg Joer garantéiert d'Gesetz eng Minimumspensioun. Am Mee zweedausendfënnefanzwanzeg louch dee Minimum bei ongeféier zweedausenddräihonnertfofzeg Euro brutto de Mount. Wann Är ausgerechent Pensioun ënner dem Minimum läit, kritt Dir e Supplement.
+**TOM:** Jo. Mat enger voller Carrière vu véierzeg Joer garantéiert d'Gesetz eng Minimumspensioun. Am Joer zweedausendsechsanzwanzeg läit dee Minimum bei liicht iwwer zweedausendvéierhonnert Euro brutto de Mount. Wann Är ausgerechent Pensioun ënner dem Minimum läit, kritt Dir e Supplement.
 
 **ANNA:** An e Maximum?
 
-**TOM:** Jo, et gëtt och e legale Plaffong — keng perséinlech Pensioun kann doriwwer goen. An nach eppes — d'Pensioune sinn net agefruer. Si gi mam Index un d'Liewenskäschten ugepasst, a si ginn och un d'Entwécklung vun de Léin ugepasst. Zum Beispill sinn d'Pensiounen den éischte Januar zweedausendsechsanzwanzeg ëm ee Komma fënnef Prozent geklommen.
+**TOM:** Jo, et gëtt och e legale Plaffong — keng perséinlech Pensioun kann doriwwer goen. An nach eppes — d'Pensioune sinn net agefruer. Si gi mam Index un d'Liewenskäschten ugepasst, a si ginn och un d'Entwécklung vun de Léin ugepasst. Zum Beispill sinn d'Pensiounen am Joer zweedausendsechsanzwanzeg am Januar ëm ee Komma fënnef Prozent geklommen, an am Juni mam Index nach eemol ëm zwee Komma fënnef Prozent.
 
 **ANNA:** Also behält d'Pensioun hire Wäert iwwer d'Zäit. An ech hu gehéiert, d'Pensionäre kréien am Dezember och nach eppes extra?
 
@@ -202,4 +202,4 @@
 
 ---
 
-*Quellen: cnap.public.lu (offiziellen CNAP-Site — Säiten iwwer Pensiounen, Versécherungscarrière, Missioun, FAQ an Aktualitéit, consultéiert am Juli 2026). Zuelen: Minimumspensioun fir 40 Joer 2.350,89 EUR a soziale Mindestloun 2.703,73 EUR zum 01.05.2025; Pensiounsupassung +1,5% a Maximum vun der Enn-vum-Joer-Zoulag 1.015,20 EUR fir 2026; Reform vun der Chamber den 18. Dezember 2025 ugeholl. D'Beträg ännere sech mam Index — kuckt ëmmer op cnap.public.lu no. Nëmmen allgemeng Informatiounen, kee juristesche Rot.*
+*Quellen: cnap.public.lu (offiziellen CNAP-Site — Säiten iwwer Pensiounen, Versécherungscarrière, Missioun, FAQ an Aktualitéit, consultéiert am Juli 2026). Zuelen: Minimumspensioun fir 40 Joer 2.350,89 EUR a soziale Mindestloun 2.703,73 EUR zum 01.05.2025; Pensiounsupassung +1,5% a Maximum vun der Enn-vum-Joer-Zoulag 1.015,20 EUR fir 2026; Reform vun der Chamber den 18. Dezember 2025 ugeholl. D'Beträg ännere sech mam Index — kuckt ëmmer op cnap.public.lu no. Nëmmen allgemeng Informatiounen, kee juristesche Rot. Aktualiséierung: Minimumspensioun fir 40 Joer 2.436,04 EUR zënter der Indextranche vum 1. Juni 2026 (+2,5 %); Reform: Gesetz vum 19. Dezember 2025 (Cotisatiounstaux 25,5 % fir 2026–2032, jeeweils 8,5 %; virgezunn Pensioun mat 60: vum 1. Juli 2026 un ee Mount méi, bis 2030 aacht Méint méi). Iwwerpréift den 9. November 2026.*

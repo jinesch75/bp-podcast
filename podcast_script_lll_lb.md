@@ -19,7 +19,7 @@
 **ANNA:** Also Tom, wat ass dëse Portal genau?
 **TOM:** Et ass den nationale Portal fir Weiderbildung, gefouert vum nationalen Institut fir d'Entwécklung vun der berufflecher Weiderbildung, dem INFPC.
 **ANNA:** A säin Häerz ass en enorme Katalog vu Weiderbildungscoursen.
-**TOM:** Mir schwätze vu méi wéi dräizéngdausend Coursen, vun honnerte vun zougelaossene Weiderbildungsulbidder.
+**TOM:** Mir schwätze vu méi wéi zéngdausend Coursen, vu méi wéi dräihonnert zougelaossene Weiderbildungsulbidder.
 **ANNA:** Alles op enger Plaz gesammelt, esou datt Dir net am ganzen Internet musst sichen.
 **TOM:** A well d'Ulbidder zougelooss sinn, wësst Dir, datt d'Offer eescht a verlässlech ass.
 **ANNA:** Dir kënnt och op clever Manéiere sichen... no Thema, oder nom Beruff, deen Dir gär maache wëllt.
@@ -48,8 +48,8 @@
 **TOM:** Et ass eng Manéier, dat ze éieren, wat d'Leit scho wëssen, net nëmmen dat, wofir se Examen gemaach hunn. Dat ass kraaftvoll.
 **ANNA:** Elo, Léiere kascht Zäit, an heiansdo Geld. Loosst eis also iwwer déi verfügbar Hëllef schwätzen.
 **TOM:** Fir Privatpersoune ginn et speziell Zorte vu bezuelte Congé, just fir eng Weiderbildung ze besichen.
-**ANNA:** Den haaptsächlechen ass den individuelle Bildungscongé, deen Iech erlaabt, bezuelten Congé ze huelen, fir ze léieren.
-**TOM:** Et gëtt och e spezielle Congé, fir eng Sprooch ze léieren, wat an engem Land mat e puer Sprochen wonnerbar ass.
+**ANNA:** Den haaptsächlechen ass den individuelle Bildungscongé, deen Iech erlaabt, bezuelten Congé ze huelen, fir ze léieren... bis zu achtzeg Deeg an Ärer ganzer Carrière.
+**TOM:** Et gëtt och e spezielle Sproochecongé, fir Lëtzebuergesch ze léieren, wat wonnerbar ass fir jiddereen, deen sech hei méi doheem wëll fillen.
 **ANNA:** Esou kënnt Dir Iech Zäit huelen, fir ze studéieren, ouni derbäi Ären ganzen Akommes ze verléieren.
 **TOM:** Et gëtt nach méi. E puer Weiderbildungskäschte kënne vun Äre Steiren ofgesat ginn.
 **ANNA:** Et gëtt Ënnerstëtzung fir Aarbechtssichend, déi eng Weiderbildung brauchen, fir nees an d'Aarbecht ze kommen.
@@ -106,4 +106,4 @@
 
 ---
 
-*Quellen: lifelong-learning.lu, den nationale Portal fir liewelaangt Léieren, gefouert vum INFPC (Institut National pour le développement de la Formation Professionnelle Continue) — en duerchsichbare Katalog vu Weiderbildungscoursë vun zougelaossenen Ulbidder (Sich no Beräich oder no Beruff); Diplomer, déi iwwert d'Weiderbildung zougänglech sinn (dorënner Erwuessenen-Léier, Sekundarschoul-Diplomer, BTS an de Meeschterbréif); d'Validatioun vun der Erfarung (VAE); finanziell Hëllef fir Privatpersounen (speziell bezuelte Congéen wéi den individuelle Bildungscongé an de Sproochecongé, steierlech Ofsetzbarkeet, Ënnerstëtzung fir Aarbechtssichend, Reduktiounsbongen) an d'Matfinanzéierung vun der betrieblecher Weiderbildung; e Schwéierpunkt op digitalen, gréngen a soziale Kompetenzen; Begleedungs- an Ëmschoulungsservicer (dorënner e Kompetenzbilan, d'National Schoul fir Erwuessener a Weeër vun der zweeter Chance); europäesch Outilen wéi Europass; an den Weiderbildungsobservatoire. Nëmmen allgemeng Informatiounen — d'Konditioune fir d'Berechtegung an d'Zuelen änneren sech; bestätegt déi aktuell Detailer um Portal. Stand: Juni 2026.*
+*Quellen: lifelong-learning.lu, den nationale Portal fir liewelaangt Léieren, gefouert vum INFPC (Institut National pour le développement de la Formation Professionnelle Continue) — en duerchsichbare Katalog vu Weiderbildungscoursë vun zougelaossenen Ulbidder (Sich no Beräich oder no Beruff); Diplomer, déi iwwert d'Weiderbildung zougänglech sinn (dorënner Erwuessenen-Léier, Sekundarschoul-Diplomer, BTS an de Meeschterbréif); d'Validatioun vun der Erfarung (VAE); finanziell Hëllef fir Privatpersounen (speziell bezuelte Congéen wéi den individuelle Bildungscongé an de Sproochecongé, steierlech Ofsetzbarkeet, Ënnerstëtzung fir Aarbechtssichend, Reduktiounsbongen) an d'Matfinanzéierung vun der betrieblecher Weiderbildung; e Schwéierpunkt op digitalen, gréngen a soziale Kompetenzen; Begleedungs- an Ëmschoulungsservicer (dorënner e Kompetenzbilan, d'National Schoul fir Erwuessener a Weeër vun der zweeter Chance); europäesch Outilen wéi Europass; an den Weiderbildungsobservatoire. Nëmmen allgemeng Informatiounen — d'Konditioune fir d'Berechtegung an d'Zuelen änneren sech; bestätegt déi aktuell Detailer um Portal. Stand: Juni 2026. Gréisst vum Katalog no guichet.lu/lifelong-learning.lu (méi wéi 300 zougelaossen Ulbidder, d'Zuele variéieren); individuelle Bildungscongé: bis zu 80 Deeg pro Carrière, max. 20 Deeg an 2 Joer; de Sproochecongé (congé linguistique) gëllt nëmme fir Lëtzebuergesch ze léieren oder ze verbesseren, bis zu 200 Stonnen pro Carrière. Iwwerpréift den 9. November 2026.*

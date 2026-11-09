@@ -23,7 +23,7 @@
 **ANNA:** Es erklärt den Mietvertrag, damit Sie wissen, was Sie unterschreiben.
 **TOM:** Und vor allem erklärt es die finanziellen Hilfen, die Mietern zur Verfügung stehen.
 **ANNA:** Zum Beispiel gibt es einen Mietzuschuss für Haushalte mit geringerem Einkommen, um bei den Mietkosten zu helfen.
-**TOM:** Viele Menschen, die Anspruch hätten, wissen gar nicht, dass es ihn gibt. Es lohnt sich also, das zu prüfen.
+**TOM:** Tatsächlich stellen die meisten Haushalte, die sie bekommen könnten, nie einen Antrag. Es lohnt sich also wirklich, das zu prüfen.
 **ANNA:** Es gibt auch die soziale Mietverwaltung, die hilft, mehr bezahlbaren Wohnraum auf den Markt zu bringen.
 **TOM:** Sprechen wir nun über die Eigentümer, und über die Menschen, die vom Kaufen träumen.
 **ANNA:** Eine Wohnung zu kaufen ist ein riesiger Schritt, und der Staat bietet mehrere Formen der Unterstützung.
@@ -35,11 +35,11 @@
 **ANNA:** Das hat mit der Klima-Agence zu tun, aus einer anderen Folge... sie berät, und die Wohnungsbeihilfen helfen beim Bezahlen.
 **TOM:** So fügen sich die Teile zusammen... Beratung auf der einen Seite, finanzielle Hilfe auf der anderen.
 **ANNA:** Es gibt ein sehr praktisches Detail, das man kennen sollte... eine zentrale Anlaufstelle für Wohnungsbeihilfen.
-**TOM:** Eine zentrale Anlaufstelle, wo Sie sich über die verschiedenen Wohnungshilfen informieren, und sie beantragen können.
+**TOM:** Eine zentrale Anlaufstelle, wo Sie sich über die verschiedenen Wohnungshilfen informieren, und sie beantragen können. Einen Termin können Sie sogar online buchen, über MyGuichet.
 **ANNA:** So müssen Sie nicht zwischen vielen Ämtern hin- und herlaufen. Es gibt eine einzige Tür, an die man klopfen muss.
 **TOM:** Sprechen wir auch über das große Ganze, denn das Wohnen ist eine nationale Priorität.
 **ANNA:** Das Portal erklärt die Politik des bezahlbaren Wohnraums... mehr Wohnungen bauen, die sich normale Menschen wirklich leisten können.
-**TOM:** Und die Partnerschaft mit den Gemeinden, damit Städte und Dörfer helfen, vor Ort bezahlbaren Wohnraum zu schaffen.
+**TOM:** Und die Partnerschaft mit den Gemeinden, damit Städte und Dörfer helfen, vor Ort bezahlbaren Wohnraum zu schaffen. Seit 2026 gibt es außerdem ein einziges nationales Register, über das Sie sich für eine bezahlbare Wohnung bewerben, online über MyGuichet.
 **ANNA:** Es ist ein langer Weg, aber die Richtung ist klar... mehr, und bezahlbarerer, Wohnraum.
 **TOM:** Machen wir es ganz konkret. Was sollte jemand mit all dem tun?
 **ANNA:** Erstens: Wenn Sie mieten und Ihr Einkommen bescheiden ist, prüfen Sie, ob Sie Anspruch auf den Mietzuschuss haben.
@@ -58,4 +58,4 @@
 
 ---
 
-*Quellen: Logement.lu, logement.public.lu, des Ministère du Logement et de l'Aménagement du territoire — das Wohnungsportal, gegliedert für Mieter, Eigentümer und Gemeinden/Fachleute: eine Wohnung finden und Mieterrechte, Miethilfen (einschließlich des Mietzuschusses / subvention de loyer), der Mietvertrag, die soziale Mietverwaltung; Unterstützung beim Kauf, Bau und der Renovierung (einschließlich energieeffizienter Renovierung) und die Senkung der Eintragungsgebühren für einen Hauptwohnsitz; die zentrale Anlaufstelle für Wohnungsbeihilfen (Guichet unique des aides au logement); und die Politik des bezahlbaren Wohnraums (LOGABO, Pacte Logement) mit den Gemeinden. Das Wohnungsobservatorium (Observatoire de l'Habitat) wird in einer separaten Folge behandelt. Nur allgemeine Informationen — Anspruchsvoraussetzungen und Beträge ändern sich; bestätigen Sie die aktuellen Details beim Ministerium. Stand: Juni 2026.*
+*Quellen: Logement.lu, logement.public.lu, des Ministère du Logement et de l'Aménagement du territoire — das Wohnungsportal, gegliedert für Mieter, Eigentümer und Gemeinden/Fachleute: eine Wohnung finden und Mieterrechte, Miethilfen (einschließlich des Mietzuschusses / subvention de loyer), der Mietvertrag, die soziale Mietverwaltung; Unterstützung beim Kauf, Bau und der Renovierung (einschließlich energieeffizienter Renovierung) und die Senkung der Eintragungsgebühren für einen Hauptwohnsitz; die zentrale Anlaufstelle für Wohnungsbeihilfen (Guichet unique des aides au logement); und die Politik des bezahlbaren Wohnraums (LOGABO, Pacte Logement) mit den Gemeinden. Das Wohnungsobservatorium (Observatoire de l'Habitat) wird in einer separaten Folge behandelt. Nur allgemeine Informationen — Anspruchsvoraussetzungen und Beträge ändern sich; bestätigen Sie die aktuellen Details beim Ministerium. Stand: Juni 2026. Nationales Register für bezahlbaren Wohnraum (RENLA) seit 1. Januar 2026, über MyGuichet; Online-Termine beim Guichet unique des aides au logement; die meisten berechtigten Haushalte beantragen den Mietzuschuss nicht (Wohnungsbauministerium, 2026); im Juli 2026 kündigte die Regierung an, die Steuergutschrift „Bëllegen Akt“ auf 45.000 Euro pro Person zu erhöhen. Geprüft am 9. November 2026.*

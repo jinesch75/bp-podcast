@@ -116,6 +116,11 @@ q('ess', 'questions', 2, 'explanation', null, "Luxembourg created a legal status
 q('ess', 'questions_fr', 2, 'explanation', null, "Le Luxembourg a créé un statut légal, la société d'impact sociétal (SIS), qui permet de bâtir une véritable entreprise dont l'objet officiel est l'impact social. Il est reconnu par la loi depuis 2016, et les sociétés sont agréées par le ministère du Travail.");
 q('ess', 'questions_de', 2, 'explanation', null, "Luxemburg hat einen rechtlichen Status geschaffen, die Gesellschaft mit gesellschaftlicher Wirkung (société d'impact sociétal, SIS), mit der man ein echtes Unternehmen aufbauen kann, dessen offizieller Zweck die soziale Wirkung ist. Er ist seit 2016 gesetzlich anerkannt, und die Unternehmen werden vom Arbeitsministerium zugelassen.");
 
+// Episodes 37-41 (9 Nov 2026): language leave is for Luxembourgish
+q('lll', 'questions', 3, 'explanation', 'or language leave)', 'or language leave to learn Luxembourgish)');
+q('lll', 'questions_fr', 3, 'explanation', 'ou le congé linguistique)', 'ou le congé linguistique pour apprendre le luxembourgeois)');
+q('lll', 'questions_de', 3, 'explanation', 'oder den Sprachurlaub)', 'oder den Sprachurlaub für Luxemburgisch)');
+
 const src = fs.readFileSync(FILE, 'utf8');
 const i = src.indexOf('const EPISODES');
 const banner = src.slice(0, i);

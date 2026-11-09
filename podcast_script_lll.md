@@ -19,7 +19,7 @@
 **ANNA:** So Tom, what exactly is this portal?
 **TOM:** It's the national portal for continuing training, run by the institute for continuing vocational training, the INFPC.
 **ANNA:** And its heart is an enormous catalogue of training courses.
-**TOM:** We're talking about more than thirteen thousand courses, from hundreds of approved training providers.
+**TOM:** We're talking about more than ten thousand courses, from more than three hundred approved training providers.
 **ANNA:** All gathered in one place, so you don't have to search across the whole internet.
 **TOM:** And because the providers are approved, you know the offer is serious and reliable.
 **ANNA:** You can also search it in clever ways... by subject, or by the job you'd like to do.
@@ -48,8 +48,8 @@
 **TOM:** It's a way of honouring what people already know, not just what they've sat exams for. That's powerful.
 **ANNA:** Now, learning costs time, and sometimes money. So let's talk about the help available.
 **TOM:** For individuals, there are special kinds of paid leave, just for following training.
-**ANNA:** The main one is individual training leave, which lets you take paid days off work to learn.
-**TOM:** There's also a special leave to learn a language, which is wonderful in a country with several.
+**ANNA:** The main one is individual training leave, which lets you take paid days off work to learn... up to eighty days over your career.
+**TOM:** There's also a special language leave to learn Luxembourgish, which is wonderful for anyone who wants to feel more at home here.
 **ANNA:** So you can take time to study, without losing all of your income while you do it.
 **TOM:** There's more, too. Some training costs can be deducted from your taxes.
 **ANNA:** There's support for jobseekers who need training to get back into work.
@@ -106,4 +106,4 @@
 
 ---
 
-*Sources: lifelong-learning.lu, the national lifelong-learning portal powered by the INFPC (Institut National pour le développement de la Formation Professionnelle Continue) — a searchable catalogue of continuing-training courses from approved providers (search by domain or by profession); diplomas accessible through continuing training (including adult apprenticeship, secondary diplomas, BTS and the brevet de maîtrise); the validation of acquired experience (VAE); financial support for individuals (special paid leave such as individual training leave and language leave, tax deductibility, support for jobseekers, reduction vouchers) and co-funding of company training; a focus on digital, green and soft skills; guidance and retraining services (including a skills audit / bilan de compétences, the National School for Adults and second-chance routes); European tools such as Europass; and the Training Observatory. General information only — eligibility and figures change; confirm current details on the portal. Accurate as of June 2026.*
+*Sources: lifelong-learning.lu, the national lifelong-learning portal powered by the INFPC (Institut National pour le développement de la Formation Professionnelle Continue) — a searchable catalogue of continuing-training courses from approved providers (search by domain or by profession); diplomas accessible through continuing training (including adult apprenticeship, secondary diplomas, BTS and the brevet de maîtrise); the validation of acquired experience (VAE); financial support for individuals (special paid leave such as individual training leave and language leave, tax deductibility, support for jobseekers, reduction vouchers) and co-funding of company training; a focus on digital, green and soft skills; guidance and retraining services (including a skills audit / bilan de compétences, the National School for Adults and second-chance routes); European tools such as Europass; and the Training Observatory. General information only — eligibility and figures change; confirm current details on the portal. Accurate as of June 2026. Catalogue size from guichet.lu/lifelong-learning.lu (more than 300 approved providers, catalogue figures vary over time); individual training leave: up to 80 days per career, max. 20 days per 2 years; language leave (congé linguistique) is for learning or improving Luxembourgish only, up to 200 hours per career. Fact-checked 9 November 2026.*

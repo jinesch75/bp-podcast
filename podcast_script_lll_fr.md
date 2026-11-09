@@ -19,7 +19,7 @@
 **ANNA:** Alors Tom, qu'est-ce que c'est exactement, ce portail ?
 **TOM:** C'est le portail national de la formation continue, géré par l'institut national pour le développement de la formation professionnelle continue, l'INFPC.
 **ANNA:** Et son cœur, c'est un immense catalogue de formations.
-**TOM:** Nous parlons de plus de treize mille formations, proposées par des centaines de prestataires de formation agréés.
+**TOM:** Nous parlons de plus de dix mille formations, proposées par plus de trois cents prestataires de formation agréés.
 **ANNA:** Tout est rassemblé en un seul endroit, pour que vous n'ayez pas à chercher partout sur Internet.
 **TOM:** Et comme les prestataires sont agréés, vous savez que l'offre est sérieuse et fiable.
 **ANNA:** Vous pouvez aussi y faire des recherches de manière astucieuse... par thème, ou par le métier que vous aimeriez exercer.
@@ -48,8 +48,8 @@
 **TOM:** C'est une façon d'honorer ce que les gens savent déjà, et pas seulement ce pour quoi ils ont passé des examens. C'est puissant.
 **ANNA:** Maintenant, apprendre coûte du temps, et parfois de l'argent. Alors parlons des aides disponibles.
 **TOM:** Pour les particuliers, il existe des types particuliers de congés payés, uniquement pour suivre une formation.
-**ANNA:** Le principal est le congé individuel de formation, qui vous permet de prendre des jours de congé payés pour apprendre.
-**TOM:** Il y a aussi un congé spécial pour apprendre une langue, ce qui est merveilleux dans un pays qui en compte plusieurs.
+**ANNA:** Le principal est le congé individuel de formation, qui vous permet de prendre des jours de congé payés pour apprendre... jusqu'à quatre-vingts jours sur toute votre carrière.
+**TOM:** Il y a aussi un congé linguistique spécial pour apprendre le luxembourgeois, ce qui est merveilleux pour quiconque veut se sentir davantage chez soi ici.
 **ANNA:** Vous pouvez donc prendre le temps d'étudier, sans perdre la totalité de vos revenus pendant ce temps.
 **TOM:** Il y a plus encore. Certains frais de formation peuvent être déduits de vos impôts.
 **ANNA:** Il existe un soutien pour les demandeurs d'emploi qui ont besoin d'une formation pour retrouver du travail.
@@ -106,4 +106,4 @@
 
 ---
 
-*Sources : lifelong-learning.lu, le portail national de la formation tout au long de la vie animé par l'INFPC (Institut National pour le développement de la Formation Professionnelle Continue) — un catalogue consultable de formations continues proposées par des prestataires agréés (recherche par domaine ou par profession) ; des diplômes accessibles par la formation continue (y compris l'apprentissage pour adultes, les diplômes du secondaire, le BTS et le brevet de maîtrise) ; la validation des acquis de l'expérience (VAE) ; un soutien financier pour les particuliers (congés payés spéciaux tels que le congé individuel de formation et le congé linguistique, déductibilité fiscale, soutien aux demandeurs d'emploi, bons de réduction) et le cofinancement de la formation en entreprise ; un accent mis sur les compétences numériques, vertes et relationnelles ; des services d'accompagnement et de reconversion (y compris un bilan de compétences, l'École nationale pour adultes et des parcours de deuxième chance) ; des outils européens tels qu'Europass ; et l'Observatoire de la formation. Informations générales uniquement — les conditions d'éligibilité et les chiffres évoluent ; confirmez les détails actuels sur le portail. Exactes en date de juin 2026.*
+*Sources : lifelong-learning.lu, le portail national de la formation tout au long de la vie animé par l'INFPC (Institut National pour le développement de la Formation Professionnelle Continue) — un catalogue consultable de formations continues proposées par des prestataires agréés (recherche par domaine ou par profession) ; des diplômes accessibles par la formation continue (y compris l'apprentissage pour adultes, les diplômes du secondaire, le BTS et le brevet de maîtrise) ; la validation des acquis de l'expérience (VAE) ; un soutien financier pour les particuliers (congés payés spéciaux tels que le congé individuel de formation et le congé linguistique, déductibilité fiscale, soutien aux demandeurs d'emploi, bons de réduction) et le cofinancement de la formation en entreprise ; un accent mis sur les compétences numériques, vertes et relationnelles ; des services d'accompagnement et de reconversion (y compris un bilan de compétences, l'École nationale pour adultes et des parcours de deuxième chance) ; des outils européens tels qu'Europass ; et l'Observatoire de la formation. Informations générales uniquement — les conditions d'éligibilité et les chiffres évoluent ; confirmez les détails actuels sur le portail. Exactes en date de juin 2026. Taille du catalogue selon guichet.lu/lifelong-learning.lu (plus de 300 organismes agréés, les chiffres du catalogue varient) ; congé individuel de formation : jusqu'à 80 jours par carrière, max. 20 jours sur 2 ans ; le congé linguistique sert uniquement à apprendre ou perfectionner le luxembourgeois, jusqu'à 200 heures par carrière. Vérifié le 9 novembre 2026.*

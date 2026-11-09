@@ -75,8 +75,11 @@ def load_env():
 
 
 def die(msg):
-    print("ERROR:", msg)
-    sys.exit(1)
+    # os._exit: sys.exit inside a worker thread would only end that thread and the run would
+    # wrongly report ALL SEGMENTS DONE with sentences missing (seen on quota_exceeded, 9 Nov 2026).
+    print("ERROR:", msg, flush=True)
+    sys.stderr.flush()
+    os._exit(1)
 
 
 # ---------- script parsing (same rules as tts_batch.py) ----------

@@ -100,11 +100,11 @@
 
 **ANNA:** Gibt es ein Minimum? Für Menschen mit kleinen Gehältern?
 
-**TOM:** Ja. Bei einer vollen Laufbahn von vierzig Jahren garantiert das Gesetz eine Mindestpension. Im Mai zweitausendfünfundzwanzig lag dieses Minimum bei etwa zweitausenddreihundertfünfzig Euro brutto pro Monat. Wenn Ihre berechnete Pension unter dem Minimum liegt, bekommen Sie einen Zuschlag.
+**TOM:** Ja. Bei einer vollen Laufbahn von vierzig Jahren garantiert das Gesetz eine Mindestpension. Im Jahr zweitausendsechsundzwanzig liegt dieses Minimum bei etwas über zweitausendvierhundert Euro brutto pro Monat. Wenn Ihre berechnete Pension unter dem Minimum liegt, bekommen Sie einen Zuschlag.
 
 **ANNA:** Und ein Maximum?
 
-**TOM:** Ja, es gibt auch eine gesetzliche Obergrenze — keine persönliche Pension kann darüber liegen. Und noch etwas — Pensionen sind nicht eingefroren. Sie folgen den Lebenshaltungskosten, mit dem Index, und sie werden auch angepasst, um den Gehältern zu folgen. Zum Beispiel sind die Pensionen am ersten Januar zweitausendsechsundzwanzig um eins Komma fünf Prozent gestiegen.
+**TOM:** Ja, es gibt auch eine gesetzliche Obergrenze — keine persönliche Pension kann darüber liegen. Und noch etwas — Pensionen sind nicht eingefroren. Sie folgen den Lebenshaltungskosten, mit dem Index, und sie werden auch angepasst, um den Gehältern zu folgen. Zum Beispiel sind die Pensionen im Jahr zweitausendsechsundzwanzig im Januar um eins Komma fünf Prozent gestiegen, und im Juni mit dem Index noch einmal um zwei Komma fünf Prozent.
 
 **ANNA:** Die Pension behält also ihren Wert über die Zeit. Und ich habe gehört, Pensionierte bekommen im Dezember auch noch etwas extra?
 
@@ -202,4 +202,4 @@
 
 ---
 
-*Quellen: cnap.public.lu (offizielle Webseite der CNAP — Seiten zu Pensionen, Versicherungslaufbahn, Aufgaben, FAQ und Neuigkeiten, abgerufen im Juli 2026). Zahlen: Mindestpension für 40 Jahre 2.350,89 EUR und sozialer Mindestlohn 2.703,73 EUR, Stand 01.05.2025; Pensionsanpassung +1,5 % und Höchstbetrag der Jahresendzulage 1.015,20 EUR, Stand 2026; Reform am 18. Dezember 2025 von der Abgeordnetenkammer verabschiedet. Die Beträge ändern sich mit dem Index — prüfen Sie immer cnap.public.lu. Nur allgemeine Informationen, keine Rechtsberatung.*
+*Quellen: cnap.public.lu (offizielle Webseite der CNAP — Seiten zu Pensionen, Versicherungslaufbahn, Aufgaben, FAQ und Neuigkeiten, abgerufen im Juli 2026). Zahlen: Mindestpension für 40 Jahre 2.350,89 EUR und sozialer Mindestlohn 2.703,73 EUR, Stand 01.05.2025; Pensionsanpassung +1,5 % und Höchstbetrag der Jahresendzulage 1.015,20 EUR, Stand 2026; Reform am 18. Dezember 2025 von der Abgeordnetenkammer verabschiedet. Die Beträge ändern sich mit dem Index — prüfen Sie immer cnap.public.lu. Nur allgemeine Informationen, keine Rechtsberatung. Aktualisierung: Mindestpension für 40 Jahre 2.436,04 EUR seit der Indextranche vom 1. Juni 2026 (+2,5 %); Reform: Gesetz vom 19. Dezember 2025 (Beitragssatz 25,5 % für 2026–2032, je 8,5 %; vorgezogene Pension mit 60: ab 1. Juli 2026 ein Monat mehr, bis 2030 acht Monate mehr). Geprüft am 9. November 2026.*

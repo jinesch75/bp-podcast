@@ -23,7 +23,7 @@
 **ANNA:** That connection is powerful... turning clever research into real products, services and jobs.
 **TOM:** Let's talk about one of its best-known programmes, for new companies.
 **ANNA:** It's a startup acceleration programme, sometimes called Fit 4 Start.
-**TOM:** It selects promising young startups and gives them coaching, support, and early funding to grow.
+**TOM:** Since 2015, it has selected promising young startups and given them coaching, support, and early funding to grow... in digital, health technologies, space, and now defence too.
 **ANNA:** For a founder with a great idea but little experience, that support can make all the difference.
 **TOM:** And there are other "Fit" programmes too, helping existing companies improve.
 **ANNA:** For example, to become more digital, or more sustainable.
@@ -60,4 +60,4 @@
 
 ---
 
-*Sources: Luxinnovation, luxinnovation.lu — Luxembourg's national innovation agency, supporting companies, startups and research organisations to grow, innovate and stay competitive; programmes include the Fit 4 Start startup acceleration programme and other "Fit 4" performance programmes (such as Fit 4 Digital and Fit 4 Sustainability), guidance on national and European funding (including Horizon Europe), and support for strategic sectors/clusters connecting business and research. Promotional claims are attributed to Luxinnovation. General information only. Accurate as of June 2026.*
+*Sources: Luxinnovation, luxinnovation.lu — Luxembourg's national innovation agency, supporting companies, startups and research organisations to grow, innovate and stay competitive; programmes include the Fit 4 Start startup acceleration programme and other "Fit 4" performance programmes (such as Fit 4 Digital and Fit 4 Sustainability), guidance on national and European funding (including Horizon Europe), and support for strategic sectors/clusters connecting business and research. Promotional claims are attributed to Luxinnovation. General information only. Accurate as of June 2026. Fit 4 Start launched in 2015; the 17th edition (2026) has four verticals: digital, health tech, space and, for the first time, defence. Fit 4 Scale for scale-ups started in February 2026. Fact-checked 9 November 2026.*

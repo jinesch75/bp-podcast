@@ -22,9 +22,9 @@
 **TOM:** Dieses Wachstum entstand aus starker staatlicher Unterstützung und einem wegweisenden Rechtsrahmen.
 **ANNA:** Luxemburg war eines der ersten Länder in Europa, das klare Gesetze über Aktivitäten im Weltraum erlassen hat.
 **TOM:** Also Anna, was macht die Raumfahrtagentur eigentlich?
-**ANNA:** Sie entwickelt und unterstützt den luxemburgischen Raumfahrtsektor... sie hilft Unternehmen, mit Finanzierung und mit Talenten.
+**ANNA:** Sie entwickelt und unterstützt den luxemburgischen Raumfahrtsektor... sie hilft Unternehmen, mit Finanzierung und mit Talenten, zum Beispiel über ihr nationales Programm LuxImpulse.
 **TOM:** Sie arbeitet daran, Raumfahrtunternehmen anzuziehen, damit sie sich hier ansiedeln, und den hiesigen beim Wachsen zu helfen.
-**ANNA:** Und sie verbindet Luxemburg mit den großen Akteuren, wie der Europäischen Weltraumorganisation.
+**ANNA:** Und sie verbindet Luxemburg mit den großen Akteuren, wie der Europäischen Weltraumorganisation, der Luxemburg 2005 beigetreten ist.
 **TOM:** Nun denken Sie vielleicht... das ist ja schön, aber was hat der Weltraum mit meinem Alltag zu tun?
 **ANNA:** Weit mehr, als Sie sich vorstellen! Der Weltraum treibt ganz unauffällig Dinge an, die wir jeden Tag nutzen.
 **TOM:** Denken Sie an die Satellitennavigation, die Ihr Auto, Ihren Bus, Ihre Lieferung leitet.
@@ -60,4 +60,4 @@
 
 ---
 
-*Quellen: Luxemburgische Raumfahrtagentur (LSA), space-agency.public.lu — Luxemburgs Aufstieg zum Raumfahrtstandort seit dem Einstieg in den Sektor im Jahr 1985 (mit der Gründung von SES), getragen von starker staatlicher Finanzierung und einem wegweisenden Rechtsrahmen; die Agentur entwickelt den nationalen Raumfahrtsektor, zieht Unternehmen, Finanzierung und Talente an und unterstützt sie und arbeitet mit Partnern wie der Europäischen Weltraumorganisation zusammen; die nationale Raumfahrtstrategie betont die Nachhaltigkeit. Die Sektorzahlen (Wachstum von etwa 16 Unternehmen und ~600 Personen im Jahr 2012 auf rund 80 Unternehmen und ~1.650 Personen bis 2024) stammen von der LSA und sind entsprechend datiert; werbliche Aussagen werden der Agentur zugeschrieben. Nur allgemeine Information. Stand: Juni 2026.*
+*Quellen: Luxemburgische Raumfahrtagentur (LSA), space-agency.public.lu — Luxemburgs Aufstieg zum Raumfahrtstandort seit dem Einstieg in den Sektor im Jahr 1985 (mit der Gründung von SES), getragen von starker staatlicher Finanzierung und einem wegweisenden Rechtsrahmen; die Agentur entwickelt den nationalen Raumfahrtsektor, zieht Unternehmen, Finanzierung und Talente an und unterstützt sie und arbeitet mit Partnern wie der Europäischen Weltraumorganisation zusammen; die nationale Raumfahrtstrategie betont die Nachhaltigkeit. Die Sektorzahlen (Wachstum von etwa 16 Unternehmen und ~600 Personen im Jahr 2012 auf rund 80 Unternehmen und ~1.650 Personen bis 2024) stammen von der LSA und sind entsprechend datiert; werbliche Aussagen werden der Agentur zugeschrieben. Nur allgemeine Information. Stand: Juni 2026. LSA unter der Aufsicht des Wirtschaftsministeriums; ESA-Mitglied seit 2005; der Gesetzentwurf 8633 finanziert ESA-Programme und das nationale Programm LuxImpulse für 2026–2029; über 80 Unternehmen und Forschungseinrichtungen mit über 1.400 Beschäftigten im Jahr 2024 (Wirtschaftsministerium). Geprüft am 9. November 2026.*
