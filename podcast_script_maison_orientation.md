@@ -60,7 +60,7 @@
 
 **ANNA:** Very flexible. And where is the house, exactly?
 
-**TOM:** It's in Luxembourg City — 29, rue Aldringen. The guidance space is open Monday to Friday, from 8 in the morning to 5 in the afternoon. And there's a free phone line — 8002, 8181 — and an email, info at m-o dot l-u.
+**TOM:** It's in Luxembourg City — 29, rue Aldringen. The guidance space is open Monday to Friday, from 10 in the morning to 5 in the afternoon. And there's a free phone line — 8002, 8181 — and an email: info, at, maison dash orientation dot public dot l-u.
 
 **ANNA:** Good. Now, you said they give advice. On what topics, concretely?
 
@@ -72,7 +72,7 @@
 
 **ANNA:** Now you mentioned a special session — coaching?
 
-**TOM:** Yes. They offer a guidance coaching session, together with an interests test. The test helps you discover what really motivates you, what kind of activities suit you. This one is for students, it's voluntary, and for this you do need an appointment.
+**TOM:** Yes. They offer a guidance coaching session, together with an interests test. The test helps you discover what really motivates you, what kind of activities suit you. It's voluntary, and for this you do need an appointment, on MyGuichet.lu — in person or online. It's for young people up to 22, it's confidential, and it's offered in Luxembourgish, French, German or English.
 
 **ANNA:** An interests test — that sounds genuinely useful when you have no idea what to do.
 
@@ -108,7 +108,7 @@
 
 **ANNA:** Now, Tom — there's also a website, isn't there? For people who want to look first, from home.
 
-**TOM:** Yes, and it's a real resource on its own. The website is maison-orientation, all one word, dot public dot l-u. And it's organised around a few big themes. Let me walk through them.
+**TOM:** Yes, and it's a real resource on its own. The website is maison, dash, orientation, dot public dot l-u. And it's organised around a few big themes. Let me walk through them.
 
 **ANNA:** Please do.
 
@@ -136,7 +136,7 @@
 
 **ANNA:** So the website almost mirrors the house — every kind of question has its place.
 
-**TOM:** Exactly. And one more nice thing — the Maison de l'Orientation organises events and workshops all year. For example, workshops on how to write a CV — they even have one on making a video CV. Information evenings about studying and working abroad. And sessions for the parents of future apprentices.
+**TOM:** Exactly. And one more nice thing — the Maison de l'Orientation organises events and workshops all year. For example, workshops on writing a CV or preparing for a job interview. Information sessions about studying abroad. And events to discover different trades.
 
 **ANNA:** So there's an agenda of events too. Worth checking before you go.
 
@@ -152,7 +152,7 @@
 
 **ANNA:** Okay, Tom. Let's make it really practical. If I'm listening, and I — or my child — have one of these questions, what do I do?
 
-**TOM:** Very simple. If you want, book an appointment through MyGuichet.lu — choose online or in person. Or, if you prefer, just walk in to the Maison de l'Orientation, 29 rue Aldringen in Luxembourg City, Monday to Friday, between 8 and 5, for free and anonymous advice. And if you have a quick question, call the free line, 8002, 8181.
+**TOM:** Very simple. If you want, book an appointment through MyGuichet.lu — choose online or in person. Or, if you prefer, just walk in to the Maison de l'Orientation, 29 rue Aldringen in Luxembourg City, Monday to Friday, between 10 and 5, for free and anonymous advice. And if you have a quick question, call the free line, 8002, 8181.
 
 **ANNA:** Book on MyGuichet, or simply walk in. Easy. Short summary to finish?
 
@@ -174,4 +174,4 @@
 
 ---
 
-*Source: maison-orientation.public.lu — "La Maison de l'orientation", "Espace Conseil et Information", "Services" and "Prise de rendez-vous", Government of the Grand Duchy of Luxembourg. Address: 29, rue Aldringen, L-1118 Luxembourg. General information only — check the official website for opening hours and details.*
+*Source: maison-orientation.public.lu — "La Maison de l'orientation", "Espace Conseil et Information", "Services" and "Prise de rendez-vous", Government of the Grand Duchy of Luxembourg. Address: 29, rue Aldringen, L-1118 Luxembourg. Fact-checked 9 November 2026: Espace conseil et information page (31.08.2026: Monday–Friday 10:00–17:00; the general page of 22.01.2026 still says 8:00–17:00), e-mail info@maison-orientation.public.lu, coaching page (up to 22, LU/FR/DE/EN, in person or online, confidential), agenda. General information only — check the official website for opening hours and details.*

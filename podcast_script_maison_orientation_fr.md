@@ -60,7 +60,7 @@
 
 **ANNA :** Très souple. Et où se trouve la maison, exactement ?
 
-**TOM :** Elle est à Luxembourg-Ville — au 29, rue Aldringen. L'espace orientation est ouvert du lundi au vendredi, de 8 heures du matin à 5 heures de l'après-midi. Et il y a une ligne téléphonique gratuite — 8002, 8181 — et une adresse e-mail, info arobase m-o point l-u.
+**TOM :** Elle est à Luxembourg-Ville — au 29, rue Aldringen. L'espace orientation est ouvert du lundi au vendredi, de 10 heures du matin à 5 heures de l'après-midi. Et il y a une ligne téléphonique gratuite — 8002, 8181 — et une adresse e-mail : info, arobase, maison tiret orientation point public point l-u.
 
 **ANNA :** Bien. Maintenant, tu as dit qu'on y donne des conseils. Sur quels sujets, concrètement ?
 
@@ -72,7 +72,7 @@
 
 **ANNA :** Tu as mentionné une séance particulière — du coaching ?
 
-**TOM :** Oui. Ils proposent une séance de coaching d'orientation, avec un test des intérêts. Le test vous aide à découvrir ce qui vous motive vraiment, quel genre d'activités vous convient. Celui-ci est pour les élèves, c'est volontaire, et là, il faut un rendez-vous.
+**TOM :** Oui. Ils proposent une séance de coaching d'orientation, avec un test des intérêts. Le test vous aide à découvrir ce qui vous motive vraiment, quel genre d'activités vous convient. C'est volontaire, et là, il faut un rendez-vous, sur MyGuichet.lu — sur place ou en ligne. C'est pour les jeunes jusqu'à 22 ans, c'est confidentiel, et ça se fait en luxembourgeois, en français, en allemand ou en anglais.
 
 **ANNA :** Un test des intérêts — ça a l'air vraiment utile quand on n'a aucune idée de ce qu'on veut faire.
 
@@ -108,7 +108,7 @@
 
 **ANNA :** Maintenant, Tom — il y a aussi un site internet, n'est-ce pas ? Pour les gens qui veulent d'abord regarder, depuis chez eux.
 
-**TOM :** Oui, et c'est une vraie ressource à lui tout seul. Le site, c'est maison-orientation, tout en un seul mot, point public point l-u. Et il est organisé autour de quelques grands thèmes. Laisse-moi te les présenter.
+**TOM :** Oui, et c'est une vraie ressource à lui tout seul. Le site, c'est maison, tiret, orientation, point public point l-u. Et il est organisé autour de quelques grands thèmes. Laisse-moi te les présenter.
 
 **ANNA :** Vas-y.
 
@@ -136,7 +136,7 @@
 
 **ANNA :** Donc le site reflète presque la maison — chaque type de question a sa place.
 
-**TOM :** Exactement. Et une autre belle chose — la Maison de l'orientation organise des événements et des ateliers toute l'année. Par exemple, des ateliers sur comment rédiger un CV — ils en ont même un sur la réalisation d'un CV vidéo. Des soirées d'information sur les études et le travail à l'étranger. Et des séances pour les parents des futurs apprentis.
+**TOM :** Exactement. Et une autre belle chose — la Maison de l'orientation organise des événements et des ateliers toute l'année. Par exemple, des ateliers pour rédiger un CV ou préparer un entretien d'embauche. Des séances d'information sur les études à l'étranger. Et des événements pour découvrir différents métiers.
 
 **ANNA :** Donc il y a aussi un agenda d'événements. Ça vaut la peine de le consulter avant d'y aller.
 
@@ -152,7 +152,7 @@
 
 **ANNA :** D'accord, Tom. Rendons ça vraiment concret. Si je vous écoute, et que moi — ou mon enfant — j'ai l'une de ces questions, qu'est-ce que je fais ?
 
-**TOM :** Très simple. Si vous voulez, prenez un rendez-vous par MyGuichet.lu — choisissez en ligne ou en personne. Ou, si vous préférez, entrez tout simplement à la Maison de l'orientation, 29 rue Aldringen à Luxembourg-Ville, du lundi au vendredi, entre 8 et 5 heures, pour des conseils gratuits et anonymes. Et si vous avez une question rapide, appelez la ligne gratuite, 8002, 8181.
+**TOM :** Très simple. Si vous voulez, prenez un rendez-vous par MyGuichet.lu — choisissez en ligne ou en personne. Ou, si vous préférez, entrez tout simplement à la Maison de l'orientation, 29 rue Aldringen à Luxembourg-Ville, du lundi au vendredi, entre 10 et 5 heures, pour des conseils gratuits et anonymes. Et si vous avez une question rapide, appelez la ligne gratuite, 8002, 8181.
 
 **ANNA :** Réserver sur MyGuichet, ou simplement entrer. Facile. Un petit résumé pour finir ?
 

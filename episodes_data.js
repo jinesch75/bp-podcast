@@ -23368,7 +23368,7 @@ const EPISODES = [
   "audio": "podcast_maison_orientation.mp3",
   "title": "The Maison de l'Orientation – One Place to Help You Choose Your Path",
   "description": "The State's 'house of guidance' in the heart of Luxembourg City, where many school- and career-guidance services come together under one roof. How it works, the free and anonymous advice space, the interests-test coaching, and how to book an appointment via MyGuichet. It is there for young people from 14 to 22, but also for adults, jobseekers and newcomers, with help on studies, work, apprenticeships and recognising diplomas and experience.",
-  "duration": 698.12,
+  "duration": 712.78,
   "topics": [
    "A house of guidance",
    "One place, many services",
@@ -23652,593 +23652,598 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "The guidance space is open Monday to Friday, from 8 in the morning to 5 in the afternoon.",
-    "t": 190.21
+    "text": "The guidance space is open Monday to Friday, from 10 in the morning to 5 in the afternoon.",
+    "t": 190.2
    },
    {
     "speaker": "Tom",
-    "text": "And there's a free phone line — 8002, 8181 — and an email, info at m-o dot l-u.",
-    "t": 194.98
+    "text": "And there's a free phone line — 8002, 8181 — and an email: info, at, maison dash orientation dot public dot l-u.",
+    "t": 194.95
    },
    {
     "speaker": "Anna",
     "text": "Good. Now, you said they give advice.",
-    "t": 202.36
+    "t": 206.75
    },
    {
     "speaker": "Anna",
     "text": "On what topics, concretely?",
-    "t": 205.14
+    "t": 209.53
    },
    {
     "speaker": "Tom",
     "text": "Two big families of topics.",
-    "t": 207.18
+    "t": 211.57
    },
    {
     "speaker": "Tom",
     "text": "The first is your school path.",
-    "t": 208.75
+    "t": 213.14
    },
    {
     "speaker": "Tom",
     "text": "So — guidance about secondary school, what the different lycées offer, the choice of sections, or how to get back into a lycée.",
-    "t": 210.71
+    "t": 215.1
    },
    {
     "speaker": "Tom",
     "text": "The second is training and trades.",
-    "t": 218.2
+    "t": 222.59
    },
    {
     "speaker": "Tom",
     "text": "So — information about jobs and professions, about first work experiences, about courses, and about the apprenticeship.",
-    "t": 220.04
+    "t": 224.43
    },
    {
     "speaker": "Anna",
     "text": "So from \"which school section should I choose\" to \"how do I start an apprenticeship\".",
-    "t": 226.8
+    "t": 231.19
    },
    {
     "speaker": "Tom",
     "text": "Exactly. The whole journey from school into the world of work.",
-    "t": 231.46
+    "t": 235.85
    },
    {
     "speaker": "Anna",
     "text": "Now you mentioned a special session — coaching?",
-    "t": 234.92
+    "t": 239.31
    },
    {
     "speaker": "Tom",
     "text": "Yes. They offer a guidance coaching session, together with an interests test.",
-    "t": 237.81
+    "t": 242.2
    },
    {
     "speaker": "Tom",
     "text": "The test helps you discover what really motivates you, what kind of activities suit you.",
-    "t": 242.05
+    "t": 246.44
    },
    {
     "speaker": "Tom",
-    "text": "This one is for students, it's voluntary, and for this you do need an appointment.",
-    "t": 247.25
+    "text": "It's voluntary, and for this you do need an appointment, on MyGuichet.lu — in person or online.",
+    "t": 251.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "It's for young people up to 22, it's confidential, and it's offered in Luxembourgish, French, German or English.",
+    "t": 259.73
    },
    {
     "speaker": "Anna",
     "text": "An interests test — that sounds genuinely useful when you have no idea what to do.",
-    "t": 251.9
+    "t": 266.56
    },
    {
     "speaker": "Tom",
     "text": "It really helps.",
-    "t": 257
+    "t": 271.66
    },
    {
     "speaker": "Tom",
     "text": "Many young people don't know where to start, and a test like this gives a first direction to explore.",
-    "t": 258.13
+    "t": 272.79
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom. You said many services are under one roof.",
-    "t": 262.96
+    "t": 277.62
    },
    {
     "speaker": "Anna",
     "text": "Can you tell us who they are?",
-    "t": 266.42
+    "t": 281.08
    },
    {
     "speaker": "Tom",
     "text": "Yes, and this is the strength of the house.",
-    "t": 268.1
+    "t": 282.76
    },
    {
     "speaker": "Tom",
     "text": "Several public services sit there, and you can make an appointment with them all year — even during the school holidays — Monday to Friday.",
-    "t": 270.51
+    "t": 285.17
    },
    {
     "speaker": "Tom",
     "text": "Let me name the main ones.",
-    "t": 277.23
+    "t": 291.89
    },
    {
     "speaker": "Anna",
     "text": "Please.",
-    "t": 278.7
+    "t": 293.36
    },
    {
     "speaker": "Tom",
     "text": "First, the CePAS — the psycho-social and school support centre.",
-    "t": 279.76
+    "t": 294.42
    },
    {
     "speaker": "Tom",
     "text": "They help pupils with personal, social or school difficulties.",
-    "t": 283.84
+    "t": 298.5
    },
    {
     "speaker": "Tom",
     "text": "Second, the SIA — the service for the integration and reception of pupils in school.",
-    "t": 287.34
+    "t": 302
    },
    {
     "speaker": "Tom",
     "text": "This one is very important for newcomers: it helps foreign pupils find their place in the Luxembourg school system.",
-    "t": 293.42
+    "t": 308.08
    },
    {
     "speaker": "Anna",
     "text": "That's directly useful for families arriving from abroad.",
-    "t": 300.08
+    "t": 314.74
    },
    {
     "speaker": "Tom",
     "text": "Very much. Then, third — the ADEM career guidance service, and apprenticeship placement.",
-    "t": 303.44
+    "t": 318.1
    },
    {
     "speaker": "Tom",
     "text": "ADEM is the employment agency, and here they help with vocational orientation and finding an apprenticeship.",
-    "t": 309.29
+    "t": 323.95
    },
    {
     "speaker": "Tom",
     "text": "Fourth — the ATVA, the agency for the transition to an autonomous life.",
-    "t": 314.89
+    "t": 329.55
    },
    {
     "speaker": "Tom",
     "text": "They support young people with specific needs, to move towards independence.",
-    "t": 320.48
+    "t": 335.14
    },
    {
     "speaker": "Anna",
     "text": "So there's something even for people who need extra support.",
-    "t": 324.67
+    "t": 339.33
    },
    {
     "speaker": "Tom",
     "text": "Yes. And then, fifth — Euroguidance.",
-    "t": 327.97
+    "t": 342.63
    },
    {
     "speaker": "Tom",
     "text": "This is a European network, for those who dream of studying or working abroad.",
-    "t": 330.7
+    "t": 345.36
    },
    {
     "speaker": "Tom",
     "text": "And finally — adult guidance.",
-    "t": 334.78
+    "t": 349.44
    },
    {
     "speaker": "Tom",
     "text": "Because, as I promised, it's not only for the young.",
-    "t": 336.85
+    "t": 351.51
    },
    {
     "speaker": "Anna",
     "text": "Let's stay on that — adults.",
-    "t": 339.89
+    "t": 354.55
    },
    {
     "speaker": "Anna",
     "text": "Because many of our listeners are grown-ups, maybe thinking of changing job.",
-    "t": 341.8
+    "t": 356.46
    },
    {
     "speaker": "Tom",
     "text": "Right. So the Maison de l'Orientation also helps with changing your professional path.",
-    "t": 346.07
+    "t": 360.73
    },
    {
     "speaker": "Tom",
     "text": "If you want to re-orient, or get back into work, they can guide you.",
-    "t": 351.29
+    "t": 365.95
    },
    {
     "speaker": "Tom",
     "text": "If you want to go back to studying, or follow a training, they help.",
-    "t": 354.76
+    "t": 369.42
    },
    {
     "speaker": "Tom",
     "text": "And if you arrived from another country, they help you with two key things — getting your diplomas recognised, and validating the experience you already have.",
-    "t": 358.19
+    "t": 372.85
    },
    {
     "speaker": "Anna",
     "text": "That last point is so important for newcomers.",
-    "t": 366.76
+    "t": 381.42
    },
    {
     "speaker": "Anna",
     "text": "You might have years of experience from your home country.",
-    "t": 369.61
+    "t": 384.27
    },
    {
     "speaker": "Tom",
     "text": "Exactly. And there's an official process to turn that experience into a recognised qualification here.",
-    "t": 372.92
+    "t": 387.58
    },
    {
     "speaker": "Tom",
     "text": "The house can point you to it.",
-    "t": 378.7
+    "t": 393.36
    },
    {
     "speaker": "Anna",
     "text": "Beautiful. So really, it covers the whole of life — a teenager choosing a school section, a young adult looking for an apprenticeship, and an adult changing career or arriving from abroad.",
-    "t": 380.32
+    "t": 394.98
    },
    {
     "speaker": "Tom",
     "text": "That's the idea.",
-    "t": 392.81
+    "t": 407.47
    },
    {
     "speaker": "Tom",
     "text": "Guidance, for every stage.",
-    "t": 393.86
+    "t": 408.52
    },
    {
     "speaker": "Anna",
     "text": "Now, Tom — there's also a website, isn't there?",
-    "t": 395.6
+    "t": 410.26
    },
    {
     "speaker": "Anna",
     "text": "For people who want to look first, from home.",
-    "t": 398.53
+    "t": 413.19
    },
    {
     "speaker": "Tom",
     "text": "Yes, and it's a real resource on its own.",
-    "t": 401.29
+    "t": 415.95
    },
    {
     "speaker": "Tom",
-    "text": "The website is maison-orientation, all one word, dot public dot l-u.",
-    "t": 403.71
+    "text": "The website is maison, dash, orientation, dot public dot l-u.",
+    "t": 418.28
    },
    {
     "speaker": "Tom",
     "text": "And it's organised around a few big themes.",
-    "t": 408.33
+    "t": 423.3
    },
    {
     "speaker": "Tom",
     "text": "Let me walk through them.",
-    "t": 410.98
+    "t": 425.95
    },
    {
     "speaker": "Anna",
     "text": "Please do.",
-    "t": 412.45
+    "t": 427.41
    },
    {
     "speaker": "Tom",
     "text": "The first theme is \"My studies\".",
-    "t": 413.53
+    "t": 428.49
    },
    {
     "speaker": "Tom",
     "text": "There you find information about basic and secondary school, and a very practical thing — the calendar of open days of the lycées and the universities.",
-    "t": 415.43
+    "t": 430.39
    },
    {
     "speaker": "Anna",
     "text": "Ah, the open days — when you can visit a school and see it for yourself.",
-    "t": 424.05
+    "t": 439.01
    },
    {
     "speaker": "Tom",
     "text": "Exactly. You go, you look around, you ask questions, you get a feeling for the place.",
-    "t": 428.42
+    "t": 443.38
    },
    {
     "speaker": "Tom",
     "text": "And there's also a part called \"What to do after the bac?\" — the bac being the end-of-secondary diploma.",
-    "t": 433.73
+    "t": 448.69
    },
    {
     "speaker": "Tom",
     "text": "So, what comes next — university, a higher technical diploma, and so on.",
-    "t": 439.66
+    "t": 454.62
    },
    {
     "speaker": "Anna",
     "text": "Useful. What's the second theme?",
-    "t": 444.09
+    "t": 459.05
    },
    {
     "speaker": "Tom",
     "text": "The second is \"The world of work\".",
-    "t": 446.79
+    "t": 461.75
    },
    {
     "speaker": "Tom",
     "text": "This is about discovering jobs and professions, and your first steps into working life.",
-    "t": 448.72
+    "t": 463.68
    },
    {
     "speaker": "Tom",
     "text": "There's a special part for young people — about internships, holiday jobs, student jobs, even things like a gap year or \"work and travel\".",
-    "t": 453.25
+    "t": 468.21
    },
    {
     "speaker": "Anna",
     "text": "Oh, so for a teenager who wants a summer job, or a first experience...",
-    "t": 460.92
+    "t": 475.89
    },
    {
     "speaker": "Tom",
     "text": "...there's information made just for them.",
-    "t": 465.32
+    "t": 480.29
    },
    {
     "speaker": "Tom",
     "text": "They even have a series of brochures, called BOOST, with exactly this kind of advice.",
-    "t": 467.22
+    "t": 482.19
    },
    {
     "speaker": "Tom",
     "text": "And this theme also covers the apprenticeship, and the path \"towards employment\" — so, looking for a job.",
-    "t": 471.96
+    "t": 486.93
    },
    {
     "speaker": "Anna",
     "text": "Good. And the third theme?",
-    "t": 478.41
+    "t": 493.38
    },
    {
     "speaker": "Tom",
     "text": "The third is \"Changing your professional path\".",
-    "t": 480.17
+    "t": 495.14
    },
    {
     "speaker": "Tom",
     "text": "This is the one for adults we spoke about — help to re-orient or get back into work, going back to studies or following a training, and getting your diplomas recognised and your experience validated.",
-    "t": 482.61
+    "t": 497.58
    },
    {
     "speaker": "Anna",
     "text": "And the fourth?",
-    "t": 493.27
+    "t": 508.24
    },
    {
     "speaker": "Tom",
     "text": "The fourth is \"Help and support\".",
-    "t": 494.13
+    "t": 509.1
    },
    {
     "speaker": "Tom",
     "text": "This gathers the support for harder situations — what to do when you have difficulties, the financial and in-kind aid that exists, support for foreign pupils joining school, and support for people with specific needs.",
-    "t": 496.25
+    "t": 511.22
    },
    {
     "speaker": "Anna",
     "text": "So the website almost mirrors the house — every kind of question has its place.",
-    "t": 508.91
+    "t": 523.88
    },
    {
     "speaker": "Tom",
     "text": "Exactly. And one more nice thing — the Maison de l'Orientation organises events and workshops all year.",
-    "t": 513.76
+    "t": 528.73
    },
    {
     "speaker": "Tom",
-    "text": "For example, workshops on how to write a CV — they even have one on making a video CV.",
-    "t": 520.66
+    "text": "For example, workshops on writing a CV or preparing for a job interview.",
+    "t": 535.62
    },
    {
     "speaker": "Tom",
-    "text": "Information evenings about studying and working abroad.",
-    "t": 526.55
+    "text": "Information sessions about studying abroad.",
+    "t": 540.12
    },
    {
     "speaker": "Tom",
-    "text": "And sessions for the parents of future apprentices.",
-    "t": 529.33
+    "text": "And events to discover different trades.",
+    "t": 542.74
    },
    {
     "speaker": "Anna",
     "text": "So there's an agenda of events too.",
-    "t": 532.27
+    "t": 545.15
    },
    {
     "speaker": "Anna",
     "text": "Worth checking before you go.",
-    "t": 534.49
+    "t": 547.37
    },
    {
     "speaker": "Tom",
     "text": "Definitely. The agenda is on the website, with all the dates and places.",
-    "t": 536.41
+    "t": 549.29
    },
    {
     "speaker": "Anna",
     "text": "Is there anything for people who are really stuck, or in difficulty?",
-    "t": 541.21
+    "t": 554.09
    },
    {
     "speaker": "Tom",
     "text": "Yes. The website has a whole section for support and help — including what to do when you have difficulties, the financial and in-kind aid that exists, support for foreign pupils, and support for people with specific needs.",
-    "t": 545.09
+    "t": 557.97
    },
    {
     "speaker": "Tom",
     "text": "So you're never alone with the question.",
-    "t": 557.95
+    "t": 570.83
    },
    {
     "speaker": "Anna",
     "text": "And all of this — still free?",
-    "t": 559.98
+    "t": 572.86
    },
    {
     "speaker": "Tom",
     "text": "The guidance and information service is free.",
-    "t": 561.87
+    "t": 574.75
    },
    {
     "speaker": "Tom",
     "text": "That's the spirit of a public service like this.",
-    "t": 564.02
+    "t": 576.9
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom. Let's make it really practical.",
-    "t": 566.62
+    "t": 579.5
    },
    {
     "speaker": "Anna",
     "text": "If I'm listening, and I — or my child — have one of these questions, what do I do?",
-    "t": 569.46
+    "t": 582.34
    },
    {
     "speaker": "Tom",
     "text": "Very simple. If you want, book an appointment through MyGuichet.lu — choose online or in person.",
-    "t": 575.27
+    "t": 588.15
    },
    {
     "speaker": "Tom",
-    "text": "Or, if you prefer, just walk in to the Maison de l'Orientation, 29 rue Aldringen in Luxembourg City, Monday to Friday, between 8 and 5, for free and anonymous advice.",
-    "t": 581.5
+    "text": "Or, if you prefer, just walk in to the Maison de l'Orientation, 29 rue Aldringen in Luxembourg City, Monday to Friday, between 10 and 5, for free and anonymous advice.",
+    "t": 595.1
    },
    {
     "speaker": "Tom",
     "text": "And if you have a quick question, call the free line, 8002, 8181.",
-    "t": 592.21
+    "t": 606.44
    },
    {
     "speaker": "Anna",
     "text": "Book on MyGuichet, or simply walk in.",
-    "t": 598.49
+    "t": 613.14
    },
    {
     "speaker": "Anna",
     "text": "Easy. Short summary to finish?",
-    "t": 600.85
+    "t": 615.5
    },
    {
     "speaker": "Tom",
     "text": "Sure. The Maison de l'Orientation is a State house that brings many guidance services together in one place, in Luxembourg City.",
-    "t": 603.16
+    "t": 617.81
    },
    {
     "speaker": "Tom",
     "text": "It helps you choose your school path or your career — by understanding your abilities and interests.",
-    "t": 611.23
+    "t": 625.88
    },
    {
     "speaker": "Tom",
     "text": "The guidance space is free, and anonymous, mainly for people aged 14 to 22, but the house also helps adults and people changing career, and newcomers who need their diplomas or experience recognised.",
-    "t": 616.51
+    "t": 631.16
    },
    {
     "speaker": "Anna",
     "text": "And how to start?",
-    "t": 629.36
+    "t": 644.01
    },
    {
     "speaker": "Tom",
     "text": "Book through MyGuichet.lu, or walk in, Monday to Friday.",
-    "t": 630.88
+    "t": 645.53
    },
    {
     "speaker": "Tom",
     "text": "Free advice, and many experts under one roof.",
-    "t": 634.54
+    "t": 649.19
    },
    {
     "speaker": "Anna",
     "text": "So... if you're not sure what to study, or what to do next — you don't have to figure it out alone.",
-    "t": 637.12
+    "t": 651.77
    },
    {
     "speaker": "Anna",
     "text": "There's a whole house ready to help.",
-    "t": 643.14
+    "t": 657.79
    },
    {
     "speaker": "Tom",
     "text": "Really. Just go once, with your questions.",
-    "t": 645.41
+    "t": 660.06
    },
    {
     "speaker": "Tom",
     "text": "You'll leave with a clearer path.",
-    "t": 648.31
+    "t": 662.96
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Maison de l'Orientation.",
-    "t": 650.12
+    "t": 664.77
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 653.06
+    "t": 667.71
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 661.92
+    "t": 676.57
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 679.69
+    "t": 694.34
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 686.44
+    "t": 701.09
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 688.64
+    "t": 703.29
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 693.33
+    "t": 707.98
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 694.41
+    "t": 709.06
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 696.53
+    "t": 711.18
    }
   ],
   "questions": [
@@ -24262,7 +24267,7 @@ const EPISODES = [
      "It is open only one day per year, during a national open day in the spring, for all ages"
     ],
     "correct": 2,
-    "explanation": "The guidance space offers free, anonymous advice, mainly for people aged about 14 to 22. You can simply walk in (Monday to Friday, 8:00–17:00), or book ahead to avoid waiting."
+    "explanation": "The guidance space offers free, anonymous advice, mainly for people aged about 14 to 22. You can simply walk in (Monday to Friday, 10:00–17:00), or book ahead to avoid waiting."
    },
    {
     "text": "How do you book an appointment at the Maison de l'Orientation?",
@@ -24566,598 +24571,603 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "L'espace orientation est ouvert du lundi au vendredi, de 8 heures du matin à 5 heures de l'après-midi.",
-    "t": 189.54
+    "text": "L'espace orientation est ouvert du lundi au vendredi, de 10 heures du matin à 5 heures de l'après-midi.",
+    "t": 189.81
    },
    {
     "speaker": "Tom",
-    "text": "Et il y a une ligne téléphonique gratuite — 8002, 8181 — et une adresse e-mail, info arobase m-o point l-u.",
-    "t": 195.06
+    "text": "Et il y a une ligne téléphonique gratuite — 8002, 8181 — et une adresse e-mail : info, arobase, maison tiret orientation point public point l-u.",
+    "t": 195.34
    },
    {
     "speaker": "Anna",
     "text": "Bien. Maintenant, tu as dit qu'on y donne des conseils.",
-    "t": 205.29
+    "t": 206.46
    },
    {
     "speaker": "Anna",
     "text": "Sur quels sujets, concrètement ?",
-    "t": 208.03
+    "t": 209.2
    },
    {
     "speaker": "Tom",
     "text": "Deux grandes familles de sujets.",
-    "t": 209.84
+    "t": 211.01
    },
    {
     "speaker": "Tom",
     "text": "La première, c'est votre parcours scolaire.",
-    "t": 211.58
+    "t": 212.75
    },
    {
     "speaker": "Tom",
     "text": "Donc — des conseils sur l'enseignement secondaire, sur ce que proposent les différents lycées, sur le choix des sections, ou sur comment réintégrer un lycée.",
-    "t": 213.64
+    "t": 214.81
    },
    {
     "speaker": "Tom",
     "text": "La deuxième, c'est la formation et les métiers.",
-    "t": 221.54
+    "t": 222.71
    },
    {
     "speaker": "Tom",
     "text": "Donc — des informations sur les emplois et les professions, sur les premières expériences de travail, sur les cours, et sur l'apprentissage.",
-    "t": 223.85
+    "t": 225.02
    },
    {
     "speaker": "Anna",
     "text": "Donc de « quelle section scolaire devrais-je choisir » à « comment je commence un apprentissage ».",
-    "t": 230.79
+    "t": 231.96
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Tout le chemin, de l'école jusqu'au monde du travail.",
-    "t": 235.25
+    "t": 236.42
    },
    {
     "speaker": "Anna",
     "text": "Tu as mentionné une séance particulière — du coaching ?",
-    "t": 239.08
+    "t": 240.25
    },
    {
     "speaker": "Tom",
     "text": "Oui. Ils proposent une séance de coaching d'orientation, avec un test des intérêts.",
-    "t": 241.9
+    "t": 243.07
    },
    {
     "speaker": "Tom",
     "text": "Le test vous aide à découvrir ce qui vous motive vraiment, quel genre d'activités vous convient.",
-    "t": 245.78
+    "t": 246.95
    },
    {
     "speaker": "Tom",
-    "text": "Celui-ci est pour les élèves, c'est volontaire, et là, il faut un rendez-vous.",
-    "t": 250.74
+    "text": "C'est volontaire, et là, il faut un rendez-vous, sur MyGuichet.lu — sur place ou en ligne.",
+    "t": 251.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est pour les jeunes jusqu'à 22 ans, c'est confidentiel, et ça se fait en luxembourgeois, en français, en allemand ou en anglais.",
+    "t": 257.98
    },
    {
     "speaker": "Anna",
     "text": "Un test des intérêts — ça a l'air vraiment utile quand on n'a aucune idée de ce qu'on veut faire.",
-    "t": 254.89
+    "t": 265.54
    },
    {
     "speaker": "Tom",
     "text": "Ça aide beaucoup.",
-    "t": 259.5
+    "t": 270.15
    },
    {
     "speaker": "Tom",
     "text": "Beaucoup de jeunes ne savent pas par où commencer, et un test comme celui-ci donne une première direction à explorer.",
-    "t": 260.65
+    "t": 271.3
    },
    {
     "speaker": "Anna",
     "text": "D'accord, Tom. Tu as dit que de nombreux services sont sous le même toit.",
-    "t": 266.45
+    "t": 277.1
    },
    {
     "speaker": "Anna",
     "text": "Peux-tu nous dire lesquels ?",
-    "t": 269.6
+    "t": 280.25
    },
    {
     "speaker": "Tom",
     "text": "Oui, et c'est la force de la maison.",
-    "t": 271.07
+    "t": 281.72
    },
    {
     "speaker": "Tom",
     "text": "Plusieurs services publics y sont installés, et vous pouvez prendre rendez-vous avec eux toute l'année — même pendant les vacances scolaires — du lundi au vendredi.",
-    "t": 272.94
+    "t": 283.59
    },
    {
     "speaker": "Tom",
     "text": "Laisse-moi citer les principaux.",
-    "t": 280.86
+    "t": 291.51
    },
    {
     "speaker": "Anna",
     "text": "Je t'en prie.",
-    "t": 282.61
+    "t": 293.26
    },
    {
     "speaker": "Tom",
     "text": "D'abord, le CePAS — le centre psycho-social et d'accompagnement scolaires.",
-    "t": 283.81
+    "t": 294.46
    },
    {
     "speaker": "Tom",
     "text": "Ils aident les élèves qui ont des difficultés personnelles, sociales ou scolaires.",
-    "t": 288.04
+    "t": 298.69
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement, le SIA — le service de l'intégration et de l'accueil scolaires.",
-    "t": 292.29
+    "t": 302.94
    },
    {
     "speaker": "Tom",
     "text": "Celui-ci est très important pour les nouveaux arrivants : il aide les élèves étrangers à trouver leur place dans le système scolaire luxembourgeois.",
-    "t": 296.81
+    "t": 307.46
    },
    {
     "speaker": "Anna",
     "text": "C'est directement utile pour les familles qui arrivent de l'étranger.",
-    "t": 304.19
+    "t": 314.84
    },
    {
     "speaker": "Tom",
     "text": "Tout à fait.",
-    "t": 307.46
+    "t": 318.11
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, troisièmement — le service d'orientation professionnelle de l'ADEM, et le placement en apprentissage.",
-    "t": 308.35
+    "t": 319
    },
    {
     "speaker": "Tom",
     "text": "L'ADEM, c'est l'agence pour l'emploi, et là, ils aident pour l'orientation professionnelle et pour trouver un apprentissage.",
-    "t": 313.7
+    "t": 324.35
    },
    {
     "speaker": "Tom",
     "text": "Quatrièmement — l'ATVA, l'agence pour la transition vers une vie autonome.",
-    "t": 319.86
+    "t": 330.51
    },
    {
     "speaker": "Tom",
     "text": "Ils accompagnent les jeunes ayant des besoins spécifiques, vers l'autonomie.",
-    "t": 324.38
+    "t": 335.03
    },
    {
     "speaker": "Anna",
     "text": "Donc il y a même quelque chose pour les personnes qui ont besoin d'un soutien supplémentaire.",
-    "t": 328.6
+    "t": 339.25
    },
    {
     "speaker": "Tom",
     "text": "Oui. Et puis, cinquièmement — Euroguidance.",
-    "t": 332.63
+    "t": 343.28
    },
    {
     "speaker": "Tom",
     "text": "C'est un réseau européen, pour celles et ceux qui rêvent d'étudier ou de travailler à l'étranger.",
-    "t": 335.3
+    "t": 345.95
    },
    {
     "speaker": "Tom",
     "text": "Et enfin — l'orientation pour les adultes.",
-    "t": 340.11
+    "t": 350.76
    },
    {
     "speaker": "Tom",
     "text": "Parce que, comme je l'ai promis, ce n'est pas seulement pour les jeunes.",
-    "t": 342.35
+    "t": 353
    },
    {
     "speaker": "Anna",
     "text": "Restons là-dessus — les adultes.",
-    "t": 345.66
+    "t": 356.31
    },
    {
     "speaker": "Anna",
     "text": "Parce que beaucoup de nos auditeurs sont des grandes personnes, qui pensent peut-être à changer de métier.",
-    "t": 347.97
+    "t": 358.62
    },
    {
     "speaker": "Tom",
     "text": "Voilà. Donc la Maison de l'orientation aide aussi à changer de parcours professionnel.",
-    "t": 352.47
+    "t": 363.12
    },
    {
     "speaker": "Tom",
     "text": "Si vous voulez vous réorienter, ou retrouver un emploi, ils peuvent vous guider.",
-    "t": 356.82
+    "t": 367.47
    },
    {
     "speaker": "Tom",
     "text": "Si vous voulez reprendre des études, ou suivre une formation, ils vous aident.",
-    "t": 360.68
+    "t": 371.33
    },
    {
     "speaker": "Tom",
     "text": "Et si vous êtes arrivé d'un autre pays, ils vous aident sur deux points essentiels — faire reconnaître vos diplômes, et faire valider l'expérience que vous avez déjà.",
-    "t": 364.77
+    "t": 375.42
    },
    {
     "speaker": "Anna",
     "text": "Ce dernier point est tellement important pour les nouveaux arrivants.",
-    "t": 372.68
+    "t": 383.33
    },
    {
     "speaker": "Anna",
     "text": "On peut avoir des années d'expérience de son pays d'origine.",
-    "t": 375.63
+    "t": 386.28
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et il existe une démarche officielle pour transformer cette expérience en une qualification reconnue ici.",
-    "t": 378.51
+    "t": 389.16
    },
    {
     "speaker": "Tom",
     "text": "La maison peut vous orienter vers elle.",
-    "t": 385.29
+    "t": 395.94
    },
    {
     "speaker": "Anna",
     "text": "C'est magnifique. Donc, vraiment, ça couvre toute la vie — un adolescent qui choisit une section scolaire, un jeune adulte qui cherche un apprentissage, et un adulte qui change de carrière ou qui arrive de l'étranger.",
-    "t": 387.51
+    "t": 398.16
    },
    {
     "speaker": "Tom",
     "text": "C'est l'idée. De l'orientation, pour chaque étape.",
-    "t": 397.65
+    "t": 408.3
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, Tom — il y a aussi un site internet, n'est-ce pas ?",
-    "t": 400.63
+    "t": 411.28
    },
    {
     "speaker": "Anna",
     "text": "Pour les gens qui veulent d'abord regarder, depuis chez eux.",
-    "t": 403.42
+    "t": 414.07
    },
    {
     "speaker": "Tom",
     "text": "Oui, et c'est une vraie ressource à lui tout seul.",
-    "t": 406.11
+    "t": 416.76
    },
    {
     "speaker": "Tom",
-    "text": "Le site, c'est maison-orientation, tout en un seul mot, point public point l-u.",
-    "t": 408.81
+    "text": "Le site, c'est maison, tiret, orientation, point public point l-u.",
+    "t": 419.67
    },
    {
     "speaker": "Tom",
     "text": "Et il est organisé autour de quelques grands thèmes.",
-    "t": 413.55
+    "t": 425.05
    },
    {
     "speaker": "Tom",
     "text": "Laisse-moi te les présenter.",
-    "t": 416.07
+    "t": 427.84
    },
    {
     "speaker": "Anna",
     "text": "Vas-y.",
-    "t": 417.71
+    "t": 429.48
    },
    {
     "speaker": "Tom",
     "text": "Le premier thème, c'est « Mes études ».",
-    "t": 418.6
+    "t": 430.37
    },
    {
     "speaker": "Tom",
     "text": "Là, vous trouvez des informations sur l'école fondamentale et secondaire, et une chose très pratique — le calendrier des journées portes ouvertes des lycées et des universités.",
-    "t": 420.74
+    "t": 432.51
    },
    {
     "speaker": "Anna",
     "text": "Ah, les journées portes ouvertes — quand on peut visiter une école et la voir par soi-même.",
-    "t": 430.11
+    "t": 441.88
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Vous y allez, vous regardez autour de vous, vous posez des questions, vous vous faites une idée de l'endroit.",
-    "t": 434.66
+    "t": 446.43
    },
    {
     "speaker": "Tom",
     "text": "Et il y a aussi une partie qui s'appelle « Que faire après le bac ?",
-    "t": 440.44
+    "t": 452.21
    },
    {
     "speaker": "Tom",
     "text": "» — le bac étant le diplôme de fin du secondaire.",
-    "t": 443.8
+    "t": 455.57
    },
    {
     "speaker": "Tom",
     "text": "Donc, ce qui vient ensuite — l'université, un brevet de technicien supérieur, et ainsi de suite.",
-    "t": 446.29
+    "t": 458.06
    },
    {
     "speaker": "Anna",
     "text": "Utile. Quel est le deuxième thème ?",
-    "t": 452.03
+    "t": 463.8
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième, c'est « Le monde du travail ».",
-    "t": 454.16
+    "t": 465.93
    },
    {
     "speaker": "Tom",
     "text": "C'est pour découvrir les emplois et les métiers, et faire vos premiers pas dans la vie active.",
-    "t": 456.45
+    "t": 468.22
    },
    {
     "speaker": "Tom",
     "text": "Il y a une partie spéciale pour les jeunes — sur les stages, les jobs de vacances, les jobs étudiants, et même des choses comme une année de césure ou le « work and travel ».",
-    "t": 461.2
+    "t": 472.97
    },
    {
     "speaker": "Anna",
     "text": "Oh, donc pour un adolescent qui veut un job d'été, ou une première expérience...",
-    "t": 470.2
+    "t": 481.97
    },
    {
     "speaker": "Tom",
     "text": "...il y a des informations faites juste pour eux.",
-    "t": 474.47
+    "t": 486.24
    },
    {
     "speaker": "Tom",
     "text": "Ils ont même une série de brochures, qui s'appelle BOOST, avec exactement ce genre de conseils.",
-    "t": 476.88
+    "t": 488.65
    },
    {
     "speaker": "Tom",
     "text": "Et ce thème couvre aussi l'apprentissage, et le chemin « vers l'emploi » — donc, chercher un travail.",
-    "t": 482.09
+    "t": 493.86
    },
    {
     "speaker": "Anna",
     "text": "Bien. Et le troisième thème ?",
-    "t": 487.83
+    "t": 499.6
    },
    {
     "speaker": "Tom",
     "text": "Le troisième, c'est « Changer de parcours professionnel ».",
-    "t": 489.59
+    "t": 501.36
    },
    {
     "speaker": "Tom",
     "text": "C'est celui pour les adultes dont nous avons parlé — de l'aide pour se réorienter ou retrouver un emploi, reprendre des études ou suivre une formation, et faire reconnaître ses diplômes et valider son expérience.",
-    "t": 492.53
+    "t": 504.3
    },
    {
     "speaker": "Anna",
     "text": "Et le quatrième ?",
-    "t": 504.57
+    "t": 516.34
    },
    {
     "speaker": "Tom",
     "text": "Le quatrième, c'est « Aide et soutien ».",
-    "t": 505.86
+    "t": 517.63
    },
    {
     "speaker": "Tom",
     "text": "Il rassemble le soutien pour les situations plus difficiles — que faire quand on a des difficultés, les aides financières et en nature qui existent, le soutien pour les élèves étrangers qui rejoignent l'école, et le soutien pour les personnes ayant des besoins spécifiques.",
-    "t": 508.14
+    "t": 519.91
    },
    {
     "speaker": "Anna",
     "text": "Donc le site reflète presque la maison — chaque type de question a sa place.",
-    "t": 522.2
+    "t": 533.97
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et une autre belle chose — la Maison de l'orientation organise des événements et des ateliers toute l'année.",
-    "t": 526.65
+    "t": 538.42
    },
    {
     "speaker": "Tom",
-    "text": "Par exemple, des ateliers sur comment rédiger un CV — ils en ont même un sur la réalisation d'un CV vidéo.",
-    "t": 532.87
+    "text": "Par exemple, des ateliers pour rédiger un CV ou préparer un entretien d'embauche.",
+    "t": 545.02
    },
    {
     "speaker": "Tom",
-    "text": "Des soirées d'information sur les études et le travail à l'étranger.",
-    "t": 538.59
+    "text": "Des séances d'information sur les études à l'étranger.",
+    "t": 549.63
    },
    {
     "speaker": "Tom",
-    "text": "Et des séances pour les parents des futurs apprentis.",
-    "t": 542.21
+    "text": "Et des événements pour découvrir différents métiers.",
+    "t": 552.5
    },
    {
     "speaker": "Anna",
     "text": "Donc il y a aussi un agenda d'événements.",
-    "t": 544.94
+    "t": 555.21
    },
    {
     "speaker": "Anna",
     "text": "Ça vaut la peine de le consulter avant d'y aller.",
-    "t": 546.93
+    "t": 557.2
    },
    {
     "speaker": "Tom",
     "text": "Absolument. L'agenda est sur le site, avec toutes les dates et tous les lieux.",
-    "t": 549.26
+    "t": 559.53
    },
    {
     "speaker": "Anna",
     "text": "Y a-t-il quelque chose pour les personnes qui sont vraiment bloquées, ou en difficulté ?",
-    "t": 553.62
+    "t": 563.89
    },
    {
     "speaker": "Tom",
     "text": "Oui. Le site a toute une rubrique pour le soutien et l'aide — y compris que faire quand on a des difficultés, les aides financières et en nature qui existent, le soutien pour les élèves étrangers, et le soutien pour les personnes ayant des besoins spécifiques.",
-    "t": 557.6
+    "t": 567.87
    },
    {
     "speaker": "Tom",
     "text": "Donc vous n'êtes jamais seul face à la question.",
-    "t": 570.16
+    "t": 580.43
    },
    {
     "speaker": "Anna",
     "text": "Et tout ça — toujours gratuit ?",
-    "t": 572.77
+    "t": 583.04
    },
    {
     "speaker": "Tom",
     "text": "Le service d'orientation et d'information est gratuit.",
-    "t": 574.71
+    "t": 584.98
    },
    {
     "speaker": "Tom",
     "text": "C'est l'esprit d'un service public comme celui-ci.",
-    "t": 577.56
+    "t": 587.83
    },
    {
     "speaker": "Anna",
     "text": "D'accord, Tom. Rendons ça vraiment concret.",
-    "t": 580.24
+    "t": 590.51
    },
    {
     "speaker": "Anna",
     "text": "Si je vous écoute, et que moi — ou mon enfant — j'ai l'une de ces questions, qu'est-ce que je fais ?",
-    "t": 582.37
+    "t": 592.64
    },
    {
     "speaker": "Tom",
     "text": "Très simple. Si vous voulez, prenez un rendez-vous par MyGuichet.lu — choisissez en ligne ou en personne.",
-    "t": 586.88
+    "t": 597.15
    },
    {
     "speaker": "Tom",
-    "text": "Ou, si vous préférez, entrez tout simplement à la Maison de l'orientation, 29 rue Aldringen à Luxembourg-Ville, du lundi au vendredi, entre 8 et 5 heures, pour des conseils gratuits et anonymes.",
-    "t": 592.93
+    "text": "Ou, si vous préférez, entrez tout simplement à la Maison de l'orientation, 29 rue Aldringen à Luxembourg-Ville, du lundi au vendredi, entre 10 et 5 heures, pour des conseils gratuits et anonymes.",
+    "t": 603.62
    },
    {
     "speaker": "Tom",
     "text": "Et si vous avez une question rapide, appelez la ligne gratuite, 8002, 8181.",
-    "t": 604.43
+    "t": 615.34
    },
    {
     "speaker": "Anna",
     "text": "Réserver sur MyGuichet, ou simplement entrer.",
-    "t": 610.4
+    "t": 621.48
    },
    {
     "speaker": "Anna",
     "text": "Facile. Un petit résumé pour finir ?",
-    "t": 612.92
+    "t": 624
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. La Maison de l'orientation est une maison de l'État qui rassemble de nombreux services d'orientation en un seul endroit, à Luxembourg-Ville.",
-    "t": 615.48
+    "t": 626.56
    },
    {
     "speaker": "Tom",
     "text": "Elle vous aide à choisir votre parcours scolaire ou votre carrière — en comprenant vos capacités et vos intérêts.",
-    "t": 623.33
+    "t": 634.41
    },
    {
     "speaker": "Tom",
     "text": "L'espace orientation est gratuit, et anonyme, surtout pour les personnes âgées de 14 à 22 ans, mais la maison aide aussi les adultes et les personnes qui changent de carrière, et les nouveaux arrivants qui ont besoin de faire reconnaître leurs diplômes ou leur expérience.",
-    "t": 628.8
+    "t": 639.88
    },
    {
     "speaker": "Anna",
     "text": "Et comment commencer ?",
-    "t": 642.9
+    "t": 653.98
    },
    {
     "speaker": "Tom",
     "text": "Réservez par MyGuichet.lu, ou entrez, du lundi au vendredi.",
-    "t": 644.3
+    "t": 655.38
    },
    {
     "speaker": "Tom",
     "text": "Des conseils gratuits, et plein d'experts sous le même toit.",
-    "t": 648.66
+    "t": 659.74
    },
    {
     "speaker": "Anna",
     "text": "Alors... si vous n'êtes pas sûr de ce que vous voulez étudier, ou de quoi faire ensuite — vous n'avez pas à le découvrir tout seul.",
-    "t": 652.04
+    "t": 663.12
    },
    {
     "speaker": "Anna",
     "text": "Il y a toute une maison prête à vous aider.",
-    "t": 657.08
+    "t": 668.16
    },
    {
     "speaker": "Tom",
     "text": "Vraiment. Allez-y juste une fois, avec vos questions.",
-    "t": 659.21
+    "t": 670.29
    },
    {
     "speaker": "Tom",
     "text": "Vous repartirez avec une voie plus claire.",
-    "t": 662.45
+    "t": 673.53
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur la Maison de l'orientation.",
-    "t": 664.99
+    "t": 676.07
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 667.45
+    "t": 678.53
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 675.24
+    "t": 686.32
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 691.09
+    "t": 702.17
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 695.74
+    "t": 706.82
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 697.52
+    "t": 708.6
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 701.9
+    "t": 712.98
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 703.13
+    "t": 714.21
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 705.59
+    "t": 716.67
    }
   ],
   "segments_de": [
@@ -25433,598 +25443,603 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Der Orientierungsraum ist von Montag bis Freitag geöffnet, von 8 Uhr morgens bis 5 Uhr nachmittags.",
-    "t": 221.38
+    "text": "Der Orientierungsraum ist von Montag bis Freitag geöffnet, von 10 Uhr morgens bis 5 Uhr nachmittags.",
+    "t": 221.31
    },
    {
     "speaker": "Tom",
-    "text": "Und es gibt eine kostenlose Telefonleitung — 8002, 8181 — und eine E-Mail-Adresse, info at m-o Punkt l-u.",
+    "text": "Und es gibt eine kostenlose Telefonleitung — 8002, 8181 — und eine E-Mail-Adresse: info, at, maison Bindestrich orientation Punkt public Punkt l-u.",
     "t": 227.62
    },
    {
     "speaker": "Anna",
     "text": "Gut. Du hast gesagt, dass sie Rat geben.",
-    "t": 238.49
+    "t": 241.01
    },
    {
     "speaker": "Anna",
     "text": "Zu welchen Themen, ganz konkret?",
-    "t": 241.48
+    "t": 244
    },
    {
     "speaker": "Tom",
     "text": "Zwei große Themenbereiche.",
-    "t": 243.59
+    "t": 246.11
    },
    {
     "speaker": "Tom",
     "text": "Der erste ist Ihr schulischer Weg.",
-    "t": 245.53
+    "t": 248.05
    },
    {
     "speaker": "Tom",
     "text": "Also — Rat zur Sekundarschule, dazu, was die verschiedenen Lycées anbieten, zur Wahl der Sektionen, oder dazu, wie man wieder in ein Lycée hineinkommt.",
-    "t": 247.61
+    "t": 250.13
    },
    {
     "speaker": "Tom",
     "text": "Der zweite ist Ausbildung und Berufe.",
-    "t": 257.08
+    "t": 259.6
    },
    {
     "speaker": "Tom",
     "text": "Also — Informationen über Jobs und Berufe, über erste Arbeitserfahrungen, über Kurse und über die Lehre.",
-    "t": 259.32
+    "t": 261.84
    },
    {
     "speaker": "Anna",
     "text": "Also von „welche Schulsektion soll ich wählen\" bis „wie beginne ich eine Lehre\".",
-    "t": 267.02
+    "t": 269.54
    },
    {
     "speaker": "Tom",
     "text": "Genau. Der ganze Weg, von der Schule in die Arbeitswelt.",
-    "t": 272
+    "t": 274.52
    },
    {
     "speaker": "Anna",
     "text": "Du hast eine besondere Sitzung erwähnt — Coaching?",
-    "t": 275.62
+    "t": 278.14
    },
    {
     "speaker": "Tom",
     "text": "Ja. Sie bieten eine Orientierungs-Coaching-Sitzung an, zusammen mit einem Interessentest.",
-    "t": 278.85
+    "t": 281.37
    },
    {
     "speaker": "Tom",
     "text": "Der Test hilft Ihnen herauszufinden, was Sie wirklich motiviert, welche Art von Tätigkeiten zu Ihnen passt.",
-    "t": 284.18
+    "t": 286.7
    },
    {
     "speaker": "Tom",
-    "text": "Diese ist für Schüler, sie ist freiwillig, und dafür brauchen Sie tatsächlich einen Termin.",
-    "t": 290.25
+    "text": "Sie ist freiwillig, und dafür brauchen Sie einen Termin, über MyGuichet.lu — vor Ort oder online.",
+    "t": 293.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie ist für junge Menschen bis 22, vertraulich, und wird auf Luxemburgisch, Französisch, Deutsch oder Englisch angeboten.",
+    "t": 300.16
    },
    {
     "speaker": "Anna",
     "text": "Ein Interessentest — das klingt wirklich nützlich, wenn man keine Ahnung hat, was man tun soll.",
-    "t": 295.41
+    "t": 308.46
    },
    {
     "speaker": "Tom",
     "text": "Das hilft wirklich.",
-    "t": 300.85
+    "t": 313.9
    },
    {
     "speaker": "Tom",
     "text": "Viele junge Menschen wissen nicht, wo sie anfangen sollen, und ein Test wie dieser gibt eine erste Richtung zum Erkunden.",
-    "t": 302.18
+    "t": 315.23
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom. Du hast gesagt, dass viele Dienste unter einem Dach sind.",
-    "t": 308.56
+    "t": 321.61
    },
    {
     "speaker": "Anna",
     "text": "Kannst du uns sagen, welche das sind?",
-    "t": 312.83
+    "t": 325.88
    },
    {
     "speaker": "Tom",
     "text": "Ja, und das ist die Stärke des Hauses.",
-    "t": 315.16
+    "t": 328.21
    },
    {
     "speaker": "Tom",
     "text": "Mehrere öffentliche Dienste sitzen dort, und Sie können das ganze Jahr über einen Termin mit ihnen vereinbaren — sogar während der Schulferien — von Montag bis Freitag.",
-    "t": 317.67
+    "t": 330.72
    },
    {
     "speaker": "Tom",
     "text": "Lass mich die wichtigsten nennen.",
-    "t": 326.69
+    "t": 339.74
    },
    {
     "speaker": "Anna",
     "text": "Bitte.",
-    "t": 328.57
+    "t": 341.62
    },
    {
     "speaker": "Tom",
     "text": "Zuerst das CePAS — das psychosoziale und schulische Begleitungszentrum.",
-    "t": 329.41
+    "t": 342.46
    },
    {
     "speaker": "Tom",
     "text": "Sie helfen Schülern mit persönlichen, sozialen oder schulischen Schwierigkeiten.",
-    "t": 334.04
+    "t": 347.09
    },
    {
     "speaker": "Tom",
     "text": "Zweitens das SIA — der Dienst für die Integration und Aufnahme von Schülern in der Schule.",
-    "t": 338.48
+    "t": 351.53
    },
    {
     "speaker": "Tom",
     "text": "Dieser ist sehr wichtig für Neuankömmlinge: Er hilft ausländischen Schülern, ihren Platz im luxemburgischen Schulsystem zu finden.",
-    "t": 344.2
+    "t": 357.25
    },
    {
     "speaker": "Anna",
     "text": "Das ist direkt nützlich für Familien, die aus dem Ausland kommen.",
-    "t": 351.45
+    "t": 364.5
    },
    {
     "speaker": "Tom",
     "text": "Sehr. Dann, drittens — der Dienst für Berufsorientierung der ADEM, und die Vermittlung von Lehrstellen.",
-    "t": 354.78
+    "t": 367.83
    },
    {
     "speaker": "Tom",
     "text": "Die ADEM ist die Arbeitsagentur, und hier helfen sie bei der beruflichen Orientierung und bei der Suche nach einer Lehrstelle.",
-    "t": 362.2
+    "t": 375.25
    },
    {
     "speaker": "Tom",
     "text": "Viertens — die ATVA, die Agentur für den Übergang in ein eigenständiges Leben.",
-    "t": 369.04
+    "t": 382.09
    },
    {
     "speaker": "Tom",
     "text": "Sie begleitet junge Menschen mit besonderen Bedürfnissen auf dem Weg zur Selbstständigkeit.",
-    "t": 374.59
+    "t": 387.64
    },
    {
     "speaker": "Anna",
     "text": "Es gibt also sogar etwas für Menschen, die zusätzliche Unterstützung brauchen.",
-    "t": 379.76
+    "t": 392.81
    },
    {
     "speaker": "Tom",
     "text": "Ja. Und dann, fünftens — Euroguidance.",
-    "t": 383.93
+    "t": 396.98
    },
    {
     "speaker": "Tom",
     "text": "Das ist ein europäisches Netzwerk, für all jene, die davon träumen, im Ausland zu studieren oder zu arbeiten.",
-    "t": 386.61
+    "t": 399.66
    },
    {
     "speaker": "Tom",
     "text": "Und schließlich — die Orientierung für Erwachsene.",
-    "t": 392.8
+    "t": 405.85
    },
    {
     "speaker": "Tom",
     "text": "Denn, wie ich versprochen habe, es ist nicht nur für die Jungen.",
-    "t": 395.6
+    "t": 408.65
    },
    {
     "speaker": "Anna",
     "text": "Bleiben wir dabei — die Erwachsenen.",
-    "t": 399.11
+    "t": 412.16
    },
    {
     "speaker": "Anna",
     "text": "Denn viele unserer Zuhörer sind erwachsene Menschen, die vielleicht über einen Berufswechsel nachdenken.",
-    "t": 401.62
+    "t": 414.67
    },
    {
     "speaker": "Tom",
     "text": "Richtig. Die Maison de l'orientation hilft also auch beim Wechsel des beruflichen Weges.",
-    "t": 406.85
+    "t": 419.9
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie sich neu orientieren oder wieder in den Beruf einsteigen möchten, können sie Sie begleiten.",
-    "t": 412.44
+    "t": 425.49
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie wieder studieren oder eine Weiterbildung machen möchten, helfen sie Ihnen.",
-    "t": 417.88
+    "t": 430.93
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie aus einem anderen Land gekommen sind, helfen sie Ihnen bei zwei wichtigen Dingen — Ihre Diplome anerkennen zu lassen, und die Erfahrung, die Sie bereits haben, validieren zu lassen.",
-    "t": 421.92
+    "t": 434.97
    },
    {
     "speaker": "Anna",
     "text": "Dieser letzte Punkt ist so wichtig für Neuankömmlinge.",
-    "t": 432.19
+    "t": 445.24
    },
    {
     "speaker": "Anna",
     "text": "Man kann jahrelange Erfahrung aus seinem Heimatland mitbringen.",
-    "t": 435.03
+    "t": 448.08
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und es gibt ein offizielles Verfahren, um diese Erfahrung in eine hier anerkannte Qualifikation umzuwandeln.",
-    "t": 438.47
+    "t": 451.52
    },
    {
     "speaker": "Tom",
     "text": "Das Haus kann Ihnen den Weg dorthin zeigen.",
-    "t": 446.02
+    "t": 459.07
    },
    {
     "speaker": "Anna",
     "text": "Wunderbar. Es deckt also wirklich das ganze Leben ab — einen Jugendlichen, der eine Schulsektion wählt, einen jungen Erwachsenen, der eine Lehrstelle sucht, und einen Erwachsenen, der seine Laufbahn wechselt oder aus dem Ausland kommt.",
-    "t": 448.55
-   },
-   {
-    "speaker": "Tom",
-    "text": "Das ist die Idee.",
     "t": 461.6
    },
    {
     "speaker": "Tom",
+    "text": "Das ist die Idee.",
+    "t": 474.65
+   },
+   {
+    "speaker": "Tom",
     "text": "Orientierung, für jede Lebensphase.",
-    "t": 462.84
+    "t": 475.89
    },
    {
     "speaker": "Anna",
     "text": "Nun, Tom — es gibt auch eine Website, nicht wahr?",
-    "t": 465.28
+    "t": 478.33
    },
    {
     "speaker": "Anna",
     "text": "Für Menschen, die sich erst einmal von zu Hause aus umsehen möchten.",
-    "t": 468.88
+    "t": 481.93
    },
    {
     "speaker": "Tom",
     "text": "Ja, und sie ist für sich genommen eine echte Ressource.",
-    "t": 472.66
+    "t": 485.71
    },
    {
     "speaker": "Tom",
-    "text": "Die Website ist maison-orientation, alles in einem Wort, Punkt public Punkt l-u.",
-    "t": 475.84
+    "text": "Die Website ist maison, Bindestrich, orientation, Punkt public Punkt l-u.",
+    "t": 489.09
    },
    {
     "speaker": "Tom",
     "text": "Und sie ist um ein paar große Themen herum aufgebaut.",
-    "t": 481.76
+    "t": 494.83
    },
    {
     "speaker": "Tom",
     "text": "Lass mich sie durchgehen.",
-    "t": 484.74
+    "t": 497.88
    },
    {
     "speaker": "Anna",
     "text": "Bitte, tu das.",
-    "t": 486.29
+    "t": 499.4
    },
    {
     "speaker": "Tom",
     "text": "Das erste Thema ist „Mein Studium\".",
-    "t": 487.78
+    "t": 500.89
    },
    {
     "speaker": "Tom",
     "text": "Dort finden Sie Informationen über die Grund- und Sekundarschule, und etwas sehr Praktisches — den Kalender der Tage der offenen Tür der Lycées und der Universitäten.",
-    "t": 490.2
+    "t": 503.31
    },
    {
     "speaker": "Anna",
     "text": "Ah, die Tage der offenen Tür — wenn man eine Schule besuchen und sie selbst ansehen kann.",
-    "t": 500.1
+    "t": 513.21
    },
    {
     "speaker": "Tom",
     "text": "Genau. Sie gehen hin, Sie sehen sich um, Sie stellen Fragen, Sie bekommen ein Gefühl für den Ort.",
-    "t": 505.6
+    "t": 518.71
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt auch einen Teil mit dem Titel „Was tun nach dem Abitur?\" — das Abitur ist der Abschluss am Ende der Sekundarschule.",
-    "t": 512.08
+    "t": 525.19
    },
    {
     "speaker": "Tom",
     "text": "Also, was danach kommt — die Universität, ein höheres technisches Diplom, und so weiter.",
-    "t": 519.91
+    "t": 533.02
    },
    {
     "speaker": "Anna",
     "text": "Nützlich. Was ist das zweite Thema?",
-    "t": 525.96
+    "t": 539.07
    },
    {
     "speaker": "Tom",
     "text": "Das zweite ist „Die Arbeitswelt\".",
-    "t": 529.02
+    "t": 542.13
    },
    {
     "speaker": "Tom",
     "text": "Hier geht es darum, Jobs und Berufe zu entdecken, und um Ihre ersten Schritte ins Berufsleben.",
-    "t": 531.44
+    "t": 544.55
    },
    {
     "speaker": "Tom",
     "text": "Es gibt einen besonderen Teil für junge Menschen — über Praktika, Ferienjobs, Studentenjobs, sogar Dinge wie ein Zwischenjahr oder „Work and Travel\".",
-    "t": 536.62
+    "t": 549.73
    },
    {
     "speaker": "Anna",
     "text": "Oh, also für einen Jugendlichen, der einen Sommerjob will, oder eine erste Erfahrung...",
-    "t": 546.6
+    "t": 559.71
    },
    {
     "speaker": "Tom",
     "text": "...gibt es Informationen, die genau für sie gemacht sind.",
-    "t": 551.49
+    "t": 564.6
    },
    {
     "speaker": "Tom",
     "text": "Sie haben sogar eine Broschürenreihe, die BOOST heißt, mit genau dieser Art von Ratschlägen.",
-    "t": 554.63
+    "t": 567.74
    },
    {
     "speaker": "Tom",
     "text": "Und dieses Thema deckt auch die Lehre ab, und den Weg „in Richtung Beschäftigung\" — also die Jobsuche.",
-    "t": 560
+    "t": 573.11
    },
    {
     "speaker": "Anna",
     "text": "Gut. Und das dritte Thema?",
-    "t": 566.16
+    "t": 579.27
    },
    {
     "speaker": "Tom",
     "text": "Das dritte ist „Den beruflichen Weg wechseln\".",
-    "t": 568.1
+    "t": 581.21
    },
    {
     "speaker": "Tom",
     "text": "Das ist jenes für die Erwachsenen, über die wir gesprochen haben — Hilfe, um sich neu zu orientieren oder wieder in den Beruf einzusteigen, wieder zu studieren oder eine Weiterbildung zu machen, und seine Diplome anerkennen und seine Erfahrung validieren zu lassen.",
-    "t": 571.02
+    "t": 584.13
    },
    {
     "speaker": "Anna",
     "text": "Und das vierte?",
-    "t": 586.31
+    "t": 599.42
    },
    {
     "speaker": "Tom",
     "text": "Das vierte ist „Hilfe und Unterstützung\".",
-    "t": 587.63
+    "t": 600.74
    },
    {
     "speaker": "Tom",
     "text": "Es versammelt die Unterstützung für schwierigere Situationen — was zu tun ist, wenn man Schwierigkeiten hat, die finanziellen und sachlichen Hilfen, die es gibt, die Unterstützung für ausländische Schüler, die in die Schule kommen, und die Unterstützung für Menschen mit besonderen Bedürfnissen.",
-    "t": 590.18
+    "t": 603.29
    },
    {
     "speaker": "Anna",
     "text": "Die Website spiegelt also fast das Haus wider — jede Art von Frage hat ihren Platz.",
-    "t": 606.33
+    "t": 619.44
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und noch etwas Schönes — die Maison de l'orientation organisiert das ganze Jahr über Veranstaltungen und Workshops.",
-    "t": 611.88
+    "t": 624.99
    },
    {
     "speaker": "Tom",
-    "text": "Zum Beispiel Workshops dazu, wie man einen Lebenslauf schreibt — sie haben sogar einen über das Erstellen eines Video-Lebenslaufs.",
-    "t": 620.35
+    "text": "Zum Beispiel Workshops zum Schreiben eines Lebenslaufs oder zur Vorbereitung auf ein Vorstellungsgespräch.",
+    "t": 633.12
    },
    {
     "speaker": "Tom",
-    "text": "Informationsabende über das Studieren und Arbeiten im Ausland.",
-    "t": 627.78
+    "text": "Informationsveranstaltungen über das Studium im Ausland.",
+    "t": 639.03
    },
    {
     "speaker": "Tom",
-    "text": "Und Sitzungen für die Eltern künftiger Auszubildender.",
-    "t": 631.62
+    "text": "Und Veranstaltungen, um verschiedene Berufe zu entdecken.",
+    "t": 642.33
    },
    {
     "speaker": "Anna",
     "text": "Es gibt also auch einen Veranstaltungskalender.",
-    "t": 634.71
+    "t": 645.45
    },
    {
     "speaker": "Anna",
     "text": "Den lohnt es sich anzuschauen, bevor man hingeht.",
-    "t": 637.25
+    "t": 647.99
    },
    {
     "speaker": "Tom",
     "text": "Auf jeden Fall.",
-    "t": 640.11
+    "t": 650.85
    },
    {
     "speaker": "Tom",
     "text": "Der Kalender ist auf der Website, mit allen Daten und Orten.",
-    "t": 641.27
+    "t": 652.01
    },
    {
     "speaker": "Anna",
     "text": "Gibt es etwas für Menschen, die wirklich feststecken oder in Schwierigkeiten sind?",
-    "t": 644.97
+    "t": 655.71
    },
    {
     "speaker": "Tom",
     "text": "Ja. Die Website hat einen ganzen Bereich für Unterstützung und Hilfe — darunter, was zu tun ist, wenn man Schwierigkeiten hat, die finanziellen und sachlichen Hilfen, die es gibt, die Unterstützung für ausländische Schüler, und die Unterstützung für Menschen mit besonderen Bedürfnissen.",
-    "t": 649.36
+    "t": 660.1
    },
    {
     "speaker": "Tom",
     "text": "Sie sind also mit der Frage niemals allein.",
-    "t": 664.84
+    "t": 675.58
    },
    {
     "speaker": "Anna",
     "text": "Und das alles — immer noch kostenlos?",
-    "t": 667.52
+    "t": 678.26
    },
    {
     "speaker": "Tom",
     "text": "Der Orientierungs- und Informationsdienst ist kostenlos.",
-    "t": 670.41
+    "t": 681.15
    },
    {
     "speaker": "Tom",
     "text": "Das ist der Geist eines öffentlichen Dienstes wie diesem.",
-    "t": 674.15
+    "t": 684.89
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom. Machen wir es ganz praktisch.",
-    "t": 677.25
+    "t": 687.99
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich zuhöre, und ich — oder mein Kind — eine dieser Fragen habe, was tue ich?",
-    "t": 680.01
+    "t": 690.75
    },
    {
     "speaker": "Tom",
     "text": "Ganz einfach. Wenn Sie möchten, buchen Sie einen Termin über MyGuichet.lu — wählen Sie online oder vor Ort.",
-    "t": 686.23
+    "t": 696.97
    },
    {
     "speaker": "Tom",
-    "text": "Oder, wenn Sie es lieber mögen, gehen Sie einfach in die Maison de l'orientation, 29 rue Aldringen in Luxemburg-Stadt, von Montag bis Freitag, zwischen 8 und 5 Uhr, für kostenlosen und anonymen Rat.",
-    "t": 694.24
+    "text": "Oder, wenn Sie es lieber mögen, gehen Sie einfach in die Maison de l'orientation, 29 rue Aldringen in Luxemburg-Stadt, von Montag bis Freitag, zwischen 10 und 5 Uhr, für kostenlosen und anonymen Rat.",
+    "t": 704.81
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie eine kurze Frage haben, rufen Sie die kostenlose Leitung an, 8002, 8181.",
-    "t": 708.13
+    "t": 719.35
    },
    {
     "speaker": "Anna",
     "text": "Auf MyGuichet buchen, oder einfach hineingehen.",
-    "t": 715.44
+    "t": 726.68
    },
    {
     "speaker": "Anna",
     "text": "Einfach. Eine kurze Zusammenfassung zum Schluss?",
-    "t": 718.33
+    "t": 729.57
    },
    {
     "speaker": "Tom",
     "text": "Klar. Die Maison de l'orientation ist ein staatliches Haus, das viele Orientierungsdienste an einem einzigen Ort zusammenbringt, in Luxemburg-Stadt.",
-    "t": 721.74
+    "t": 732.98
    },
    {
     "speaker": "Tom",
     "text": "Es hilft Ihnen, Ihren schulischen Weg oder Ihre Laufbahn zu wählen — indem Sie Ihre Fähigkeiten und Interessen verstehen.",
-    "t": 731.01
+    "t": 742.25
    },
    {
     "speaker": "Tom",
     "text": "Der Orientierungsraum ist kostenlos und anonym, vor allem für Menschen im Alter von 14 bis 22 Jahren, aber das Haus hilft auch Erwachsenen und Menschen, die ihre Laufbahn wechseln, und Neuankömmlingen, die ihre Diplome oder ihre Erfahrung anerkennen lassen müssen.",
-    "t": 737.78
+    "t": 749.02
    },
    {
     "speaker": "Anna",
     "text": "Und wie fängt man an?",
-    "t": 754.07
+    "t": 765.31
    },
    {
     "speaker": "Tom",
     "text": "Buchen Sie über MyGuichet.lu, oder gehen Sie hinein, von Montag bis Freitag.",
-    "t": 755.63
+    "t": 766.87
    },
    {
     "speaker": "Tom",
     "text": "Kostenloser Rat, und viele Fachleute unter einem Dach.",
-    "t": 760.86
+    "t": 772.1
    },
    {
     "speaker": "Anna",
     "text": "Also... wenn Sie nicht sicher sind, was Sie studieren oder als Nächstes tun sollen — Sie müssen es nicht allein herausfinden.",
-    "t": 764.29
+    "t": 775.53
    },
    {
     "speaker": "Anna",
     "text": "Es gibt ein ganzes Haus, das bereit ist, Ihnen zu helfen.",
-    "t": 772.38
+    "t": 783.62
    },
    {
     "speaker": "Tom",
     "text": "Wirklich. Gehen Sie einfach einmal hin, mit Ihren Fragen.",
-    "t": 775.56
+    "t": 786.8
    },
    {
     "speaker": "Tom",
     "text": "Sie gehen mit einem klareren Weg wieder.",
-    "t": 779.92
+    "t": 791.16
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die Maison de l'orientation.",
-    "t": 782.43
+    "t": 793.67
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 785.49
+    "t": 796.73
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 794.13
+    "t": 805.37
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 811.98
+    "t": 823.22
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 817.68
+    "t": 828.92
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 819.93
+    "t": 831.17
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 824.82
+    "t": 836.06
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 825.97
+    "t": 837.21
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 829.18
+    "t": 840.42
    }
   ],
   "segments_lb": [
@@ -26165,287 +26180,287 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Et ass an der Stad Lëtzebuerg — 29, rue Aldringen. De Beräich fir d'Orientéierung ass op vu méindes bis freides, vun 8 Auer moies bis 5 Auer nomëttes. An et gëtt eng gratis Telefonsnummer — 8002, 8181 — an eng E-Mail, info at m-o Punkt l-u.",
+    "text": "Et ass an der Stad Lëtzebuerg — 29, rue Aldringen. De Beräich fir d'Orientéierung ass op vu méindes bis freides, vun 10 Auer moies bis 5 Auer nomëttes. An et gëtt eng gratis Telefonsnummer — 8002, 8181 — an eng E-Mail: info, at, maison Bindestrich orientation Punkt public Punkt l-u.",
     "t": 187.01
    },
    {
     "speaker": "Anna",
     "text": "Gutt. Du hues elo gesot, datt si Rot ginn. Iwwer wéi eng Themen, konkret?",
-    "t": 202.36
+    "t": 206.75
    },
    {
     "speaker": "Tom",
     "text": "Zwou grouss Famillje vun Themen. Déi éischt ass äre Schoulwee. Also — Orientéierung iwwer de Lycée, wat déi verschidde Lycéeën ubidden, d'Wiel vun de Sektiounen, oder wéi een nees an e Lycée erakënnt. Déi zweet ass d'Formatioun an d'Beruffer. Also — Informatioun iwwer Jobs a Beruffer, iwwer éischt Aarbechtserfarungen, iwwer Coursen, an iwwer d'Léier.",
-    "t": 207.18
+    "t": 211.57
    },
    {
     "speaker": "Anna",
     "text": "Also vun \"wéi eng Schoulsektioun soll ech wielen\" bis \"wéi fänken ech eng Léier un\".",
-    "t": 226.8
+    "t": 231.19
    },
    {
     "speaker": "Tom",
     "text": "Genau. De ganze Wee vun der Schoul an d'Aarbechtswelt.",
-    "t": 231.46
+    "t": 235.85
    },
    {
     "speaker": "Anna",
     "text": "Du hues elo eng besonnesch Sëtzung ernimmt — Coaching?",
-    "t": 234.92
+    "t": 239.31
    },
    {
     "speaker": "Tom",
-    "text": "Jo. Si bidden eng Orientéierungs-Coaching-Sëtzung un, zesumme mat engem Interessentest. Den Test hëlleft Iech z'entdecken, wat Iech wierklech motivéiert, wat fir Aktivitéiten Iech passen. Deen hei ass fir Schüler, en ass fräiwëlleg, an heifir braucht Dir e Rendez-vous.",
-    "t": 237.81
+    "text": "Jo. Si bidden eng Orientéierungs-Coaching-Sëtzung un, zesumme mat engem Interessentest. Den Test hëlleft Iech z'entdecken, wat Iech wierklech motivéiert, wat fir Aktivitéiten Iech passen. En ass fräiwëlleg, an heifir braucht Dir e Rendez-vous, iwwer MyGuichet.lu — virun Uert oder online. En ass fir jonk Leit bis 22, vertraulech, a gëtt op Lëtzebuergesch, Franséisch, Däitsch oder Englesch ugebueden.",
+    "t": 242.2
    },
    {
     "speaker": "Anna",
     "text": "En Interessentest — dat kléngt wierklech nëtzlech, wann een keng Iddi huet, wat een dee soll.",
-    "t": 251.9
+    "t": 266.56
    },
    {
     "speaker": "Tom",
     "text": "Et hëlleft wierklech. Vill jonk Leit wëssen net, wou se ufänke sollen, an esou en Test gëtt eng éischt Richtung fir z'erfuerschen.",
-    "t": 257
+    "t": 271.66
    },
    {
     "speaker": "Anna",
     "text": "Gutt, Tom. Du hues gesot, vill Déngschter sinn ënner engem Daach. Kanns du eis soen, wie si sinn?",
-    "t": 262.96
+    "t": 277.62
    },
    {
     "speaker": "Tom",
     "text": "Jo, an dat ass d'Stäerkt vum Haus. Verschidden ëffentlech Déngschter sëtzen do, an Dir kënnt e Rendez-vous mat hinne maachen d'ganzt Joer — och während de Schoulvakanzen — vu méindes bis freides. Loosse mech déi wichtegst nennen.",
-    "t": 268.1
+    "t": 282.76
    },
    {
     "speaker": "Anna",
     "text": "Wann ech gelift.",
-    "t": 278.7
+    "t": 293.36
    },
    {
     "speaker": "Tom",
     "text": "Fir d'éischt, de CePAS — den psycho-sozialen a schoulesche Begleedungszentrum. Si hëllefe Schüler mat perséinlechen, sozialen oder schouleschen Schwieregkeeten. Fir d'zweet, de SIA — den Déngscht fir d'Integratioun an den Empfang vu Schüler an der Schoul. Deen ass ganz wichteg fir Nei-Ukomm: en hëlleft auslännesche Schüler, hir Plaz am Lëtzebuerger Schoulsystem ze fannen.",
-    "t": 279.76
+    "t": 294.42
    },
    {
     "speaker": "Anna",
     "text": "Dat ass direkt nëtzlech fir Famillen, déi aus dem Ausland ukommen.",
-    "t": 300.08
+    "t": 314.74
    },
    {
     "speaker": "Tom",
     "text": "Ganz. Dann, fir d'drëtt — den ADEM-Déngscht fir Beruffsorientéierung, an d'Vermëttlung vun der Léier. D'ADEM ass d'Aarbechtsagentur, an hei hëllefe si bei der Beruffsorientéierung an dem Fanne vun enger Léier. Fir d'véiert — d'ATVA, d'Agence fir den Iwwergang an en autonomt Liewen. Si ënnerstëtze jonk Leit mat spezifesche Bedürfnisser, fir Richtung Onofhängegkeet ze goen.",
-    "t": 303.44
+    "t": 318.1
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt also souguer eppes fir Leit, déi zousätzlech Ënnerstëtzung brauchen.",
-    "t": 324.67
+    "t": 339.33
    },
    {
     "speaker": "Tom",
     "text": "Jo. An dann, fir d'fënneft — Euroguidance. Dat ass en europäescht Netzwierk, fir déi, déi dovun dreemen, am Ausland ze studéieren oder ze schaffen. A schlussendlech — d'Orientéierung fir Erwuessener. Well, wéi ech versprach hunn, ass et net nëmme fir déi Jonk.",
-    "t": 327.97
+    "t": 342.63
    },
    {
     "speaker": "Anna",
     "text": "Bleiwe mir do drop — d'Erwuessener. Well vill vun eisen Nolauschterer sinn Erwuessener, déi villäicht un e Jobwiessel denken.",
-    "t": 339.89
+    "t": 354.55
    },
    {
     "speaker": "Tom",
     "text": "Richteg. Also hëlleft d'Maison de l'orientation och beim Wiessel vun ärem berufflechen Wee. Wann Dir Iech nei orientéiere wëllt, oder nees an d'Aarbecht zréckkomme wëllt, kënne si Iech guidéieren. Wann Dir nees studéiere wëllt, oder eng Formatioun maachen, hëllefe si. A wann Dir aus engem anere Land ukomm sidd, hëllefe si Iech mat zwou Schlësselsaachen — är Diplomer unerkenne loossen, an d'Erfarung validéieren, déi Dir scho hutt.",
-    "t": 346.07
+    "t": 360.73
    },
    {
     "speaker": "Anna",
     "text": "Dee leschte Punkt ass esou wichteg fir Nei-Ukomm. Dir kënnt Joren un Erfarung aus ärem Heemechtsland hunn.",
-    "t": 366.76
+    "t": 381.42
    },
    {
     "speaker": "Tom",
     "text": "Genau. An et gëtt en offizielle Prozess, fir déi Erfarung an eng unerkannt Qualifikatioun hei ze maachen. D'Haus kann Iech den Wee weisen.",
-    "t": 372.92
+    "t": 387.58
    },
    {
     "speaker": "Anna",
     "text": "Wonnerschéin. Also wierklech, et deckt dat ganzt Liewen of — e Jugendlechen, deen eng Schoulsektioun wielt, e jonken Erwuessenen, dee no enger Léier sicht, an en Erwuessenen, dee seng Carrière wiesselt oder aus dem Ausland ukënnt.",
-    "t": 380.32
+    "t": 394.98
    },
    {
     "speaker": "Tom",
     "text": "Dat ass d'Iddi. Orientéierung, fir all Etapp.",
-    "t": 392.81
+    "t": 407.47
    },
    {
     "speaker": "Anna",
     "text": "Elo, Tom — et gëtt och eng Websäit, oder? Fir Leit, déi fir d'éischt vun doheem aus kucke wëllen.",
-    "t": 395.6
+    "t": 410.26
    },
    {
     "speaker": "Tom",
-    "text": "Jo, an et ass eng richteg Ressource fir sech. D'Websäit ass maison-orientation, alles ee Wuert, Punkt public Punkt l-u. An et ass ronderëm e puer grouss Themen organiséiert. Loosse mech se duerchgoen.",
-    "t": 401.29
+    "text": "Jo, an et ass eng richteg Ressource fir sech. D'Websäit ass maison, Bindestrich, orientation, Punkt public Punkt l-u. An et ass ronderëm e puer grouss Themen organiséiert. Loosse mech se duerchgoen.",
+    "t": 415.95
    },
    {
     "speaker": "Anna",
     "text": "Maach wann ech gelift.",
-    "t": 412.45
+    "t": 427.41
    },
    {
     "speaker": "Tom",
     "text": "Dat éischt Thema ass \"Meng Studien\". Do fannt Dir Informatioun iwwer d'Grondschoul an de Lycée, an eng ganz praktesch Saach — de Kalenner vun den Dag vun der oppener Dier vun de Lycéeën an den Unisversitéiten.",
-    "t": 413.53
+    "t": 428.49
    },
    {
     "speaker": "Anna",
     "text": "Ah, d'Dag vun der oppener Dier — wou Dir eng Schoul besiche kënnt a se selwer kucke kënnt.",
-    "t": 424.05
+    "t": 439.01
    },
    {
     "speaker": "Tom",
     "text": "Genau. Dir gitt, Dir kuckt Iech ëm, Dir stellt Froen, Dir kritt e Gefill fir d'Plaz. An et gëtt och en Deel mam Numm \"Wat maachen nom Bac?\" — de Bac ass den Diplom um Enn vum Lycée. Also, wat duerno kënnt — Universitéit, en héijen techneschen Diplom, an esou weider.",
-    "t": 428.42
+    "t": 443.38
    },
    {
     "speaker": "Anna",
     "text": "Nëtzlech. Wat ass dat zweet Thema?",
-    "t": 444.09
+    "t": 459.05
    },
    {
     "speaker": "Tom",
     "text": "Dat zweet ass \"D'Aarbechtswelt\". Hei geet et drëm, Jobs a Beruffer z'entdecken, an är éischt Schrëtt an d'Aarbechtsliewen. Et gëtt en speziellen Deel fir jonk Leit — iwwer Stagen, Vakanzejobs, Studentejobs, souguer Saache wéi e Gap Year oder \"work and travel\".",
-    "t": 446.79
+    "t": 461.75
    },
    {
     "speaker": "Anna",
     "text": "Oh, also fir e Jugendlechen, deen e Summerjob wëllt, oder eng éischt Erfarung...",
-    "t": 460.92
+    "t": 475.89
    },
    {
     "speaker": "Tom",
     "text": "...et gëtt Informatioun, déi just fir hie gemaach ass. Si hunn esouguer eng Serie vu Broschüren, mam Numm BOOST, mat genau dëser Aart vu Rot. An dëst Thema deckt och d'Léier of, an de Wee \"Richtung Beschäftegung\" — also, e Job sichen.",
-    "t": 465.32
+    "t": 480.29
    },
    {
     "speaker": "Anna",
     "text": "Gutt. An dat drëtt Thema?",
-    "t": 478.41
+    "t": 493.38
    },
    {
     "speaker": "Tom",
     "text": "Dat drëtt ass \"Säi berufflechen Wee wiesselen\". Dat ass deen fir d'Erwuessener, vun deem mir geschwat hunn — Hëllef fir sech nei z'orientéieren oder nees an d'Aarbecht zréckzekommen, nees studéieren oder eng Formatioun maachen, an seng Diplomer unerkenne loossen a seng Erfarung validéieren.",
-    "t": 480.17
+    "t": 495.14
    },
    {
     "speaker": "Anna",
     "text": "An dat véiert?",
-    "t": 493.27
+    "t": 508.24
    },
    {
     "speaker": "Tom",
     "text": "Dat véiert ass \"Hëllef an Ënnerstëtzung\". Dat sammelt d'Ënnerstëtzung fir méi schwéier Situatiounen — wat een dee maache soll, wann ee Schwieregkeeten huet, déi finanziell a materiell Hëllef, déi et gëtt, Ënnerstëtzung fir auslännesch Schüler, déi an d'Schoul kommen, an Ënnerstëtzung fir Leit mat spezifesche Bedürfnisser.",
-    "t": 494.13
+    "t": 509.1
    },
    {
     "speaker": "Anna",
     "text": "Also spigelt d'Websäit bal d'Haus — all Aart vu Fro huet hir Plaz.",
-    "t": 508.91
+    "t": 523.88
    },
    {
     "speaker": "Tom",
-    "text": "Genau. An nach eng schéin Saach — d'Maison de l'orientation organiséiert Evenementer a Workshoppen d'ganzt Joer. Zum Beispill, Workshoppen iwwer wéi een e CV schreift — si hunn esouguer een iwwer e Video-CV ze maachen. Informatiounsowender iwwer studéieren a schaffen am Ausland. A Sëtzunge fir d'Eltere vun zukünftege Léierjongen.",
-    "t": 513.76
+    "text": "Genau. An nach eng schéin Saach — d'Maison de l'orientation organiséiert Evenementer a Workshoppen d'ganzt Joer. Zum Beispill Workshoppen, fir e CV ze schreiwen oder sech op en Entretien d'embauche virzebereeden. Informatiounsversammlungen iwwer d'Studien am Ausland. An Evenementer, fir verschidde Beruffer z'entdecken.",
+    "t": 528.73
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt also och en Agenda vun Evenementer. Et lount sech, virum Higoen ze kucken.",
-    "t": 532.27
+    "t": 545.15
    },
    {
     "speaker": "Tom",
     "text": "Op alle Fall. Den Agenda ass op der Websäit, mat allen Datumer a Plazen.",
-    "t": 536.41
+    "t": 549.29
    },
    {
     "speaker": "Anna",
     "text": "Gëtt et eppes fir Leit, déi wierklech festsëtzen, oder a Schwieregkeeten sinn?",
-    "t": 541.21
+    "t": 554.09
    },
    {
     "speaker": "Tom",
     "text": "Jo. D'Websäit huet eng ganz Rubrik fir Ënnerstëtzung an Hëllef — och wat een dee maache soll, wann ee Schwieregkeeten huet, déi finanziell a materiell Hëllef, déi et gëtt, Ënnerstëtzung fir auslännesch Schüler, an Ënnerstëtzung fir Leit mat spezifesche Bedürfnisser. Also sidd Dir ni eleng mat der Fro.",
-    "t": 545.09
+    "t": 557.97
    },
    {
     "speaker": "Anna",
     "text": "An dat alles — nach ëmmer gratis?",
-    "t": 559.98
+    "t": 572.86
    },
    {
     "speaker": "Tom",
     "text": "Den Orientéierungs- an Informatiounsdéngscht ass gratis. Dat ass de Geescht vun esou engem ëffentlechen Déngscht.",
-    "t": 561.87
+    "t": 574.75
    },
    {
     "speaker": "Anna",
     "text": "Gutt, Tom. Loosse mir et wierklech praktesch maachen. Wann ech nolauschteren, an ech — oder mäi Kand — eng vun dëse Froen hunn, wat maachen ech?",
-    "t": 566.62
+    "t": 579.5
    },
    {
     "speaker": "Tom",
-    "text": "Ganz einfach. Wann Dir wëllt, buucht e Rendez-vous iwwer MyGuichet.lu — wielt online oder virun Uert. Oder, wann Dir et léiwer hutt, kommt einfach an d'Maison de l'orientation, 29 rue Aldringen an der Stad Lëtzebuerg, vu méindes bis freides, tëschent 8 an 5, fir gratis an anonyme Rot. A wann Dir eng schnell Fro hutt, rufft déi gratis Linn un, 8002, 8181.",
-    "t": 575.27
+    "text": "Ganz einfach. Wann Dir wëllt, buucht e Rendez-vous iwwer MyGuichet.lu — wielt online oder virun Uert. Oder, wann Dir et léiwer hutt, kommt einfach an d'Maison de l'orientation, 29 rue Aldringen an der Stad Lëtzebuerg, vu méindes bis freides, tëschent 10 an 5, fir gratis an anonyme Rot. A wann Dir eng schnell Fro hutt, rufft déi gratis Linn un, 8002, 8181.",
+    "t": 588.15
    },
    {
     "speaker": "Anna",
     "text": "Op MyGuichet buchen, oder einfach erakommen. Einfach. Eng kuerz Zesummefaassung zum Schluss?",
-    "t": 598.49
+    "t": 613.14
    },
    {
     "speaker": "Tom",
     "text": "Sécher. D'Maison de l'orientation ass e Staatshaus, dat vill Orientéierungsdéngschter op enger Plaz zesummebréngt, an der Stad Lëtzebuerg. Et hëlleft Iech, äre Schoulwee oder är Carrière ze wielen — andeems Dir är Fäegkeeten an Interessen verstitt. De Beräich fir d'Orientéierung ass gratis, an anonym, haaptsächlech fir Leit tëschent 14 an 22 Joer, mä d'Haus hëlleft och Erwuessener a Leit, déi d'Carrière wiesselen, an Nei-Ukomm, déi hir Diplomer oder Erfarung unerkanne loosse mussen.",
-    "t": 603.16
+    "t": 617.81
    },
    {
     "speaker": "Anna",
     "text": "A wéi ufänken?",
-    "t": 629.36
+    "t": 644.01
    },
    {
     "speaker": "Tom",
     "text": "Buucht iwwer MyGuichet.lu, oder kommt eran, vu méindes bis freides. Gratis Rot, a vill Experten ënner engem Daach.",
-    "t": 630.88
+    "t": 645.53
    },
    {
     "speaker": "Anna",
     "text": "Also... wann Dir net sécher sidd, wat Dir studéiere sollt, oder wat Dir als Nächst maache sollt — Dir musst et net eleng erausfannen. Et ass e ganzt Haus prett, fir ze hëllefen.",
-    "t": 637.12
+    "t": 651.77
    },
    {
     "speaker": "Tom",
     "text": "Wierklech. Gitt just eemol hin, mat äre Froen. Dir gitt mat engem méi kloere Wee fort.",
-    "t": 645.41
+    "t": 660.06
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer d'Maison de l'orientation. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 650.12
+    "t": 664.77
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 693.33
+    "t": 707.98
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 696.53
+    "t": 711.18
    }
   ],
   "audio_fr": "podcast_maison_orientation_fr.mp3",
-  "duration_fr": 707.37,
+  "duration_fr": 718.45,
   "title_fr": "La Maison de l'orientation – un seul endroit pour vous aider à choisir votre voie",
   "description_fr": "La « maison qui guide » de l'État, au cœur de Luxembourg-Ville, où de nombreux services d'orientation scolaire et professionnelle se réunissent sous un même toit. Comment elle fonctionne, l'espace de conseil gratuit et anonyme, le coaching avec test d'intérêts, et comment prendre rendez-vous via MyGuichet. Elle s'adresse aux jeunes de 14 à 22 ans, mais aussi aux adultes, aux demandeurs d'emploi et aux nouveaux arrivants, avec une aide sur les études, le travail, l'apprentissage et la reconnaissance des diplômes et de l'expérience.",
   "topics_fr": [
@@ -26479,7 +26494,7 @@ const EPISODES = [
      "Il n'est ouvert qu'un jour par an, lors d'une journée portes ouvertes nationale au printemps, pour tous les âges"
     ],
     "correct": 2,
-    "explanation": "L'espace d'orientation offre des conseils gratuits et anonymes, surtout pour les personnes d'environ 14 à 22 ans. Vous pouvez simplement vous y présenter (du lundi au vendredi, de 8h00 à 17h00) ou réserver à l'avance pour éviter d'attendre."
+    "explanation": "L'espace d'orientation offre des conseils gratuits et anonymes, surtout pour les personnes d'environ 14 à 22 ans. Vous pouvez simplement vous y présenter (du lundi au vendredi, de 10h00 à 17h00) ou réserver à l'avance pour éviter d'attendre."
    },
    {
     "text": "Comment prend-on rendez-vous à la Maison de l'orientation ?",
@@ -26516,7 +26531,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_maison_orientation_de.mp3",
-  "duration_de": 830.72,
+  "duration_de": 841.95,
   "title_de": "Die Maison de l'orientation – ein einziger Ort, der Ihnen hilft, Ihren Weg zu wählen",
   "description_de": "Das „Haus der Orientierung“ des Staates im Herzen von Luxemburg-Stadt, in dem viele Dienste der schulischen und beruflichen Orientierung unter einem Dach zusammenkommen. Wie es funktioniert, der kostenlose und anonyme Beratungsbereich, das Coaching mit Interessentest und wie Sie über MyGuichet einen Termin buchen. Es ist für junge Menschen von 14 bis 22 Jahren da, aber auch für Erwachsene, Arbeitsuchende und Neuankömmlinge, mit Hilfe zu Studium, Arbeit, Ausbildung und der Anerkennung von Diplomen und Erfahrung.",
   "topics_de": [
@@ -26550,7 +26565,7 @@ const EPISODES = [
      "Er ist nur einen Tag im Jahr geöffnet, bei einem nationalen Tag der offenen Tür im Frühling, für alle Altersgruppen"
     ],
     "correct": 2,
-    "explanation": "Der Orientierungsbereich bietet kostenlose, anonyme Beratung, vor allem für Menschen von etwa 14 bis 22 Jahren. Sie können einfach vorbeikommen (Montag bis Freitag, 8:00–17:00 Uhr) oder im Voraus buchen, um Wartezeiten zu vermeiden."
+    "explanation": "Der Orientierungsbereich bietet kostenlose, anonyme Beratung, vor allem für Menschen von etwa 14 bis 22 Jahren. Sie können einfach vorbeikommen (Montag bis Freitag, 10:00–17:00 Uhr) oder im Voraus buchen, um Wartezeiten zu vermeiden."
    },
    {
     "text": "Wie bucht man einen Termin in der Maison de l'orientation?",

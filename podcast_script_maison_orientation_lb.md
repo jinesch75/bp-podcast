@@ -60,7 +60,7 @@
 
 **ANNA:** Ganz flexibel. A wou ass d'Haus genau?
 
-**TOM:** Et ass an der Stad Lëtzebuerg — 29, rue Aldringen. De Beräich fir d'Orientéierung ass op vu méindes bis freides, vun 8 Auer moies bis 5 Auer nomëttes. An et gëtt eng gratis Telefonsnummer — 8002, 8181 — an eng E-Mail, info at m-o Punkt l-u.
+**TOM:** Et ass an der Stad Lëtzebuerg — 29, rue Aldringen. De Beräich fir d'Orientéierung ass op vu méindes bis freides, vun 10 Auer moies bis 5 Auer nomëttes. An et gëtt eng gratis Telefonsnummer — 8002, 8181 — an eng E-Mail: info, at, maison Bindestrich orientation Punkt public Punkt l-u.
 
 **ANNA:** Gutt. Du hues elo gesot, datt si Rot ginn. Iwwer wéi eng Themen, konkret?
 
@@ -72,7 +72,7 @@
 
 **ANNA:** Du hues elo eng besonnesch Sëtzung ernimmt — Coaching?
 
-**TOM:** Jo. Si bidden eng Orientéierungs-Coaching-Sëtzung un, zesumme mat engem Interessentest. Den Test hëlleft Iech z'entdecken, wat Iech wierklech motivéiert, wat fir Aktivitéiten Iech passen. Deen hei ass fir Schüler, en ass fräiwëlleg, an heifir braucht Dir e Rendez-vous.
+**TOM:** Jo. Si bidden eng Orientéierungs-Coaching-Sëtzung un, zesumme mat engem Interessentest. Den Test hëlleft Iech z'entdecken, wat Iech wierklech motivéiert, wat fir Aktivitéiten Iech passen. En ass fräiwëlleg, an heifir braucht Dir e Rendez-vous, iwwer MyGuichet.lu — virun Uert oder online. En ass fir jonk Leit bis 22, vertraulech, a gëtt op Lëtzebuergesch, Franséisch, Däitsch oder Englesch ugebueden.
 
 **ANNA:** En Interessentest — dat kléngt wierklech nëtzlech, wann een keng Iddi huet, wat een dee soll.
 
@@ -108,7 +108,7 @@
 
 **ANNA:** Elo, Tom — et gëtt och eng Websäit, oder? Fir Leit, déi fir d'éischt vun doheem aus kucke wëllen.
 
-**TOM:** Jo, an et ass eng richteg Ressource fir sech. D'Websäit ass maison-orientation, alles ee Wuert, Punkt public Punkt l-u. An et ass ronderëm e puer grouss Themen organiséiert. Loosse mech se duerchgoen.
+**TOM:** Jo, an et ass eng richteg Ressource fir sech. D'Websäit ass maison, Bindestrich, orientation, Punkt public Punkt l-u. An et ass ronderëm e puer grouss Themen organiséiert. Loosse mech se duerchgoen.
 
 **ANNA:** Maach wann ech gelift.
 
@@ -136,7 +136,7 @@
 
 **ANNA:** Also spigelt d'Websäit bal d'Haus — all Aart vu Fro huet hir Plaz.
 
-**TOM:** Genau. An nach eng schéin Saach — d'Maison de l'orientation organiséiert Evenementer a Workshoppen d'ganzt Joer. Zum Beispill, Workshoppen iwwer wéi een e CV schreift — si hunn esouguer een iwwer e Video-CV ze maachen. Informatiounsowender iwwer studéieren a schaffen am Ausland. A Sëtzunge fir d'Eltere vun zukünftege Léierjongen.
+**TOM:** Genau. An nach eng schéin Saach — d'Maison de l'orientation organiséiert Evenementer a Workshoppen d'ganzt Joer. Zum Beispill Workshoppen, fir e CV ze schreiwen oder sech op en Entretien d'embauche virzebereeden. Informatiounsversammlungen iwwer d'Studien am Ausland. An Evenementer, fir verschidde Beruffer z'entdecken.
 
 **ANNA:** Et gëtt also och en Agenda vun Evenementer. Et lount sech, virum Higoen ze kucken.
 
@@ -152,7 +152,7 @@
 
 **ANNA:** Gutt, Tom. Loosse mir et wierklech praktesch maachen. Wann ech nolauschteren, an ech — oder mäi Kand — eng vun dëse Froen hunn, wat maachen ech?
 
-**TOM:** Ganz einfach. Wann Dir wëllt, buucht e Rendez-vous iwwer MyGuichet.lu — wielt online oder virun Uert. Oder, wann Dir et léiwer hutt, kommt einfach an d'Maison de l'orientation, 29 rue Aldringen an der Stad Lëtzebuerg, vu méindes bis freides, tëschent 8 an 5, fir gratis an anonyme Rot. A wann Dir eng schnell Fro hutt, rufft déi gratis Linn un, 8002, 8181.
+**TOM:** Ganz einfach. Wann Dir wëllt, buucht e Rendez-vous iwwer MyGuichet.lu — wielt online oder virun Uert. Oder, wann Dir et léiwer hutt, kommt einfach an d'Maison de l'orientation, 29 rue Aldringen an der Stad Lëtzebuerg, vu méindes bis freides, tëschent 10 an 5, fir gratis an anonyme Rot. A wann Dir eng schnell Fro hutt, rufft déi gratis Linn un, 8002, 8181.
 
 **ANNA:** Op MyGuichet buchen, oder einfach erakommen. Einfach. Eng kuerz Zesummefaassung zum Schluss?
 

@@ -60,7 +60,7 @@
 
 **ANNA:** Sehr flexibel. Und wo befindet sich das Haus genau?
 
-**TOM:** Es ist in Luxemburg-Stadt — 29, rue Aldringen. Der Orientierungsraum ist von Montag bis Freitag geöffnet, von 8 Uhr morgens bis 5 Uhr nachmittags. Und es gibt eine kostenlose Telefonleitung — 8002, 8181 — und eine E-Mail-Adresse, info at m-o Punkt l-u.
+**TOM:** Es ist in Luxemburg-Stadt — 29, rue Aldringen. Der Orientierungsraum ist von Montag bis Freitag geöffnet, von 10 Uhr morgens bis 5 Uhr nachmittags. Und es gibt eine kostenlose Telefonleitung — 8002, 8181 — und eine E-Mail-Adresse: info, at, maison Bindestrich orientation Punkt public Punkt l-u.
 
 **ANNA:** Gut. Du hast gesagt, dass sie Rat geben. Zu welchen Themen, ganz konkret?
 
@@ -72,7 +72,7 @@
 
 **ANNA:** Du hast eine besondere Sitzung erwähnt — Coaching?
 
-**TOM:** Ja. Sie bieten eine Orientierungs-Coaching-Sitzung an, zusammen mit einem Interessentest. Der Test hilft Ihnen herauszufinden, was Sie wirklich motiviert, welche Art von Tätigkeiten zu Ihnen passt. Diese ist für Schüler, sie ist freiwillig, und dafür brauchen Sie tatsächlich einen Termin.
+**TOM:** Ja. Sie bieten eine Orientierungs-Coaching-Sitzung an, zusammen mit einem Interessentest. Der Test hilft Ihnen herauszufinden, was Sie wirklich motiviert, welche Art von Tätigkeiten zu Ihnen passt. Sie ist freiwillig, und dafür brauchen Sie einen Termin, über MyGuichet.lu — vor Ort oder online. Sie ist für junge Menschen bis 22, vertraulich, und wird auf Luxemburgisch, Französisch, Deutsch oder Englisch angeboten.
 
 **ANNA:** Ein Interessentest — das klingt wirklich nützlich, wenn man keine Ahnung hat, was man tun soll.
 
@@ -108,7 +108,7 @@
 
 **ANNA:** Nun, Tom — es gibt auch eine Website, nicht wahr? Für Menschen, die sich erst einmal von zu Hause aus umsehen möchten.
 
-**TOM:** Ja, und sie ist für sich genommen eine echte Ressource. Die Website ist maison-orientation, alles in einem Wort, Punkt public Punkt l-u. Und sie ist um ein paar große Themen herum aufgebaut. Lass mich sie durchgehen.
+**TOM:** Ja, und sie ist für sich genommen eine echte Ressource. Die Website ist maison, Bindestrich, orientation, Punkt public Punkt l-u. Und sie ist um ein paar große Themen herum aufgebaut. Lass mich sie durchgehen.
 
 **ANNA:** Bitte, tu das.
 
@@ -136,7 +136,7 @@
 
 **ANNA:** Die Website spiegelt also fast das Haus wider — jede Art von Frage hat ihren Platz.
 
-**TOM:** Genau. Und noch etwas Schönes — die Maison de l'orientation organisiert das ganze Jahr über Veranstaltungen und Workshops. Zum Beispiel Workshops dazu, wie man einen Lebenslauf schreibt — sie haben sogar einen über das Erstellen eines Video-Lebenslaufs. Informationsabende über das Studieren und Arbeiten im Ausland. Und Sitzungen für die Eltern künftiger Auszubildender.
+**TOM:** Genau. Und noch etwas Schönes — die Maison de l'orientation organisiert das ganze Jahr über Veranstaltungen und Workshops. Zum Beispiel Workshops zum Schreiben eines Lebenslaufs oder zur Vorbereitung auf ein Vorstellungsgespräch. Informationsveranstaltungen über das Studium im Ausland. Und Veranstaltungen, um verschiedene Berufe zu entdecken.
 
 **ANNA:** Es gibt also auch einen Veranstaltungskalender. Den lohnt es sich anzuschauen, bevor man hingeht.
 
@@ -152,7 +152,7 @@
 
 **ANNA:** Okay, Tom. Machen wir es ganz praktisch. Wenn ich zuhöre, und ich — oder mein Kind — eine dieser Fragen habe, was tue ich?
 
-**TOM:** Ganz einfach. Wenn Sie möchten, buchen Sie einen Termin über MyGuichet.lu — wählen Sie online oder vor Ort. Oder, wenn Sie es lieber mögen, gehen Sie einfach in die Maison de l'orientation, 29 rue Aldringen in Luxemburg-Stadt, von Montag bis Freitag, zwischen 8 und 5 Uhr, für kostenlosen und anonymen Rat. Und wenn Sie eine kurze Frage haben, rufen Sie die kostenlose Leitung an, 8002, 8181.
+**TOM:** Ganz einfach. Wenn Sie möchten, buchen Sie einen Termin über MyGuichet.lu — wählen Sie online oder vor Ort. Oder, wenn Sie es lieber mögen, gehen Sie einfach in die Maison de l'orientation, 29 rue Aldringen in Luxemburg-Stadt, von Montag bis Freitag, zwischen 10 und 5 Uhr, für kostenlosen und anonymen Rat. Und wenn Sie eine kurze Frage haben, rufen Sie die kostenlose Leitung an, 8002, 8181.
 
 **ANNA:** Auf MyGuichet buchen, oder einfach hineingehen. Einfach. Eine kurze Zusammenfassung zum Schluss?
 
