@@ -41,6 +41,19 @@ q('dsp_cns', 'questions', 4, 'explanation', 'you log in through the eSanté port
 q('dsp_cns', 'questions_fr', 4, 'explanation', 'vous vous connectez via le portail eSanté — ou', 'vous l\'ouvrez dans votre eSpace MyGuichet ou sur le portail eSanté — ou');
 q('dsp_cns', 'questions_de', 4, 'explanation', 'melden Sie sich über das eSanté-Portal an — oder', 'öffnen Sie es in Ihrem MyGuichet-eSpace oder auf dem eSanté-Portal — oder');
 q('dsp_cns', 'questions_lb', 4, 'explanation', 'loggt Dir Iech iwwer den eSanté-Portal an — oder', 'maacht Dir en an Ärem MyGuichet-eSpace oder um eSanté-Portal op — oder');
+// LU-Alert (9 Nov 2026): no 'cannot opt out'; sirens warn of serious danger locally or nationwide (lu-alert.lu Sirens page)
+q('lualert', 'questions', 1, 'explanation', 'you do not sign up – and cannot really opt out.', 'you do not sign up.');
+q('lualert', 'questions_fr', 1, 'explanation', 'vous ne vous inscrivez pas – et vous ne pouvez pas vraiment vous y soustraire.', 'vous ne vous inscrivez pas.');
+q('lualert', 'questions_de', 1, 'explanation', 'melden Sie sich nicht an – und können sich auch nicht wirklich abmelden.', 'melden Sie sich nicht an.');
+q('lualert', 'questions_lb', 1, 'explanation', 'schreift Dir Iech net an – an Dir kënnt Iech och net wierklech ofmellen.', 'schreift Dir Iech net an.');
+q('lualert', 'questions', 3, 2, null, 'To warn of a serious danger');
+q('lualert', 'questions_fr', 3, 2, null, "Pour avertir d'un danger grave");
+q('lualert', 'questions_de', 3, 2, null, 'Um vor einer ernsten Gefahr zu warnen');
+q('lualert', 'questions_lb', 3, 2, null, 'Fir virun enger eeschter Gefor ze warnen');
+q('lualert', 'questions', 3, 'explanation', null, 'Sirens warn the population of a serious danger – in one area or across the whole country. A long, steady tone means: get to safety and follow the news; a rising and falling tone means: go into a solid building and close doors and windows. Most alerts reach you by phone (Cell Broadcast and SMS), the app, websites and the media. The sirens are tested on the first Monday of each month, around noon.');
+q('lualert', 'questions_fr', 3, 'explanation', null, "Les sirènes avertissent la population d'un danger grave – dans une zone ou dans tout le pays. Un son long et continu veut dire : mettez-vous en sécurité et suivez les informations ; un son montant et descendant veut dire : entrez dans un bâtiment solide et fermez portes et fenêtres. La plupart des alertes vous atteignent par téléphone (Cell Broadcast et SMS), l'application, les sites internet et les médias. Les sirènes sont testées le premier lundi de chaque mois, vers midi.");
+q('lualert', 'questions_de', 3, 'explanation', null, 'Sirenen warnen die Bevölkerung vor einer ernsten Gefahr – in einem Gebiet oder im ganzen Land. Ein langer, gleichbleibender Ton heißt: in Sicherheit bringen und die Nachrichten verfolgen; ein auf- und abschwellender Ton heißt: in ein festes Gebäude gehen und Türen und Fenster schließen. Die meisten Warnungen erreichen Sie über das Telefon (Cell Broadcast und SMS), die App, Websites und die Medien. Die Sirenen werden am ersten Montag jedes Monats gegen Mittag getestet.');
+q('lualert', 'questions_lb', 3, 'explanation', null, "D'Sirene warnen d'Bevëlkerung virun enger eeschter Gefor – an enger Regioun oder am ganze Land. E laangen, gläichméissegen Toun heescht: a Sécherheet goen an d'Noriichte verfollegen; en op- an ofschwellenden Toun heescht: an e feste Gebai goen an Dieren a Fënsteren zoumaachen. Déi meescht Alarmer erreechen Iech iwwer den Handy (Cell Broadcast an SMS), d'App, d'Websäiten an d'Medien. D'Sirene ginn den éischte Méindeg vun all Mount géint Mëtteg getest.");
 
 const src = fs.readFileSync(FILE, 'utf8');
 const i = src.indexOf('const EPISODES');

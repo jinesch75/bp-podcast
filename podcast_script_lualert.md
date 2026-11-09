@@ -24,9 +24,9 @@
 
 **ANNA:** Okay. And here's the question everybody asks. Do I need to sign up, or register, to get these?
 
-**TOM:** No. And this is really important. For Cell Broadcast and for location-based SMS, you do not need to sign up. You don't give your number to anybody. If your phone is in the area when the authorities send a message, your phone is targeted automatically.
+**TOM:** No. And this is really important. For Cell Broadcast and for location-based SMS, you do not need to sign up. You don't give your number to anybody. If your phone is in the area when the authorities send a message, your phone is targeted automatically. A Cell Broadcast alert even appears when your phone is on silent — with a loud sound.
 
-**ANNA:** So I don't have to do anything, and I can't really opt out either.
+**ANNA:** So I don't have to do anything.
 
 **TOM:** Correct. That's by design — so that everybody in danger gets warned.
 
@@ -36,15 +36,15 @@
 
 **ANNA:** Sirens? Like the old air-raid sirens?
 
-**TOM:** Yes, but today the sirens are used only in one specific case — a nuclear alert. For everything else, it's the phone and the other channels.
+**TOM:** Yes, the same kind. Sirens can warn the population of a serious danger — in one area, or across the whole country. A long, steady tone means: get to safety and follow the news. A rising and falling tone means: go into a solid building and close the doors and windows. But for most alerts, it's the phone and the other channels.
 
 **ANNA:** Got it. And the mobile app — what does it add, if I already get the SMS?
 
-**TOM:** The app lets you follow all the alerts and information in one place, issued by the public authorities. You download it for free, from the Apple App Store or the Google Play Store. It's a good idea to install it.
+**TOM:** The app lets you follow all the alerts and information in one place, issued by the public authorities. You download it for free, from the Apple App Store or the Google Play Store. It's a good idea to install it. Because many less serious warnings are sent only through the app and the website, not by SMS. In the app, you can also choose which alerts you want, and add places that matter to you — like your home or your children's school.
 
 **ANNA:** Now, a practical worry. Many of us don't speak Luxembourgish. In what language do these messages arrive?
 
-**TOM:** Good question. The messages are sent in three languages — German, English and French. In the app, you receive the language you chose in the settings. By location-based SMS, you get all three languages in one message.
+**TOM:** Good question. The messages are sent in three languages — German, English and French. In the app, you receive the language you chose in the settings. With Cell Broadcast, you always get French — and also English or German, if that's your phone's language. By location-based SMS, you get all three languages in one message.
 
 **ANNA:** That's reassuring. Okay, so a message arrives. What's inside it?
 
@@ -64,7 +64,7 @@
 
 **ANNA:** Ah, the test. So if I get a message that says it's a test...
 
-**TOM:** ...then you don't need to do anything. The message will say clearly that it is a test. Luxembourg tests the system every month — and the sirens are tested on the first Monday of the month, around noon. It's normal, don't worry.
+**TOM:** ...then you don't need to do anything. The message will say clearly that it is a test. Luxembourg tests the system every month — and the sirens are tested on the first Monday of the month, around noon. It's normal, don't worry. And some tests on the phone only reach you if you switch on 'LU-Alert Test' in your phone's settings — or 'Test' in the app.
 
 **ANNA:** Very good to know. So nobody panics on a test day. Now — what kind of events can trigger an alert?
 
@@ -104,11 +104,11 @@
 
 **ANNA:** That's thoughtful. Okay, Tom — let's make it really practical. If I'm listening now, what should I do today, to be ready?
 
-**TOM:** Three simple things. One — download the LU-Alert app, from your app store, and choose your language. Two — check that your phone can receive these alerts; you can look in your phone settings, under emergency or government alerts. And three — remember the website, lu-alert dot l-u, and remember the golden rule: verify there, never share personal data.
+**TOM:** Three simple things. One — download the LU-Alert app, from your app store, and choose your language. Two — keep your phone's software up to date, and check in your phone settings, under emergency or government alerts, that it can receive these alerts. And three — remember the website, lu-alert dot l-u, and remember the golden rule: verify there, never share personal data.
 
 **ANNA:** Download the app, check your settings, remember the website. Easy. Okay, short summary to finish?
 
-**TOM:** Sure. LU-Alert is Luxembourg's national warning and information system, launched in autumn 2024. It reaches you on your phone — by Cell Broadcast and location-based SMS, with no sign-up needed — and also through the app, websites, the media and, for nuclear alerts, sirens. Messages come in German, English and French, with a level from yellow up to imminent danger, and they tell you what happened and what to do.
+**TOM:** Sure. LU-Alert is Luxembourg's national warning and information system, launched in autumn 2024. It reaches you on your phone — by Cell Broadcast and location-based SMS, with no sign-up needed — and also through the app, websites, the media and, for serious danger, sirens. Messages come in German, English and French, with a level from yellow up to imminent danger, and they tell you what happened and what to do.
 
 **ANNA:** And the safety message?
 
@@ -126,4 +126,4 @@
 
 ---
 
-*Source: lu-alert.lu/en.html and the "All about LU-Alert" pages (Warning and information system, Warning channels, Alert levels and categories), Government of the Grand Duchy of Luxembourg. General information only — always check lu-alert.lu for the details of any specific alert.*
+*Source: lu-alert.lu/en.html and the "All about LU-Alert" pages (Warning and information system, Warning channels, Alert levels and categories), Government of the Grand Duchy of Luxembourg. Fact-checked 9 November 2026 (lu-alert.lu Sirens, Mobile app, Cell Broadcast, Mobile device setup and Testing strategy pages; the Sirens page now describes local or nationwide warnings, while the channel overview still says sirens are currently only used for a nuclear alert). General information only — always check lu-alert.lu for the details of any specific alert.*

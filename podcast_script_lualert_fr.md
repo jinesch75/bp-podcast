@@ -24,9 +24,9 @@
 
 **ANNA :** D'accord. Et voici la question que tout le monde se pose. Est-ce que je dois m'inscrire, ou m'enregistrer, pour les recevoir ?
 
-**TOM :** Non. Et c'est vraiment important. Pour le Cell Broadcast et pour le SMS géolocalisé, vous n'avez pas besoin de vous inscrire. Vous ne donnez votre numéro à personne. Si votre téléphone se trouve dans la zone quand les autorités envoient un message, votre téléphone est ciblé automatiquement.
+**TOM :** Non. Et c'est vraiment important. Pour le Cell Broadcast et pour le SMS géolocalisé, vous n'avez pas besoin de vous inscrire. Vous ne donnez votre numéro à personne. Si votre téléphone se trouve dans la zone quand les autorités envoient un message, votre téléphone est ciblé automatiquement. Une alerte Cell Broadcast s'affiche même si votre téléphone est en mode silencieux — avec un son fort.
 
-**ANNA :** Donc je n'ai rien à faire, et je ne peux pas vraiment m'y soustraire non plus.
+**ANNA :** Donc je n'ai rien à faire.
 
 **TOM :** Correct. C'est voulu — pour que toutes les personnes en danger soient averties.
 
@@ -36,15 +36,15 @@
 
 **ANNA :** Les sirènes ? Comme les vieilles sirènes d'alerte aérienne ?
 
-**TOM :** Oui, mais aujourd'hui les sirènes ne sont utilisées que dans un seul cas précis — une alerte nucléaire. Pour tout le reste, c'est le téléphone et les autres canaux.
+**TOM :** Oui, le même genre. Les sirènes peuvent avertir la population d'un danger grave — dans une zone, ou dans tout le pays. Un son long et continu veut dire : mettez-vous en sécurité et suivez les informations. Un son montant et descendant veut dire : entrez dans un bâtiment solide et fermez les portes et les fenêtres. Mais pour la plupart des alertes, c'est le téléphone et les autres canaux.
 
 **ANNA :** Compris. Et l'application mobile — qu'est-ce qu'elle apporte de plus, si je reçois déjà les SMS ?
 
-**TOM :** L'application vous permet de suivre toutes les alertes et informations en un seul endroit, émises par les autorités publiques. Vous la téléchargez gratuitement, sur l'App Store d'Apple ou le Google Play Store. C'est une bonne idée de l'installer.
+**TOM :** L'application vous permet de suivre toutes les alertes et informations en un seul endroit, émises par les autorités publiques. Vous la téléchargez gratuitement, sur l'App Store d'Apple ou le Google Play Store. C'est une bonne idée de l'installer. Parce que beaucoup d'alertes moins graves sont envoyées uniquement par l'application et le site internet, pas par SMS. Dans l'application, vous pouvez aussi choisir les alertes que vous voulez, et ajouter les lieux qui comptent pour vous — comme votre domicile ou l'école de vos enfants.
 
 **ANNA :** Maintenant, une inquiétude pratique. Beaucoup d'entre nous ne parlent pas luxembourgeois. Dans quelle langue arrivent ces messages ?
 
-**TOM :** Bonne question. Les messages sont envoyés en trois langues — allemand, anglais et français. Dans l'application, vous recevez la langue que vous avez choisie dans les paramètres. Par SMS géolocalisé, vous recevez les trois langues dans un seul message.
+**TOM :** Bonne question. Les messages sont envoyés en trois langues — allemand, anglais et français. Dans l'application, vous recevez la langue que vous avez choisie dans les paramètres. Par Cell Broadcast, vous recevez toujours le français — et aussi l'anglais ou l'allemand, si c'est la langue de votre téléphone. Par SMS géolocalisé, vous recevez les trois langues dans un seul message.
 
 **ANNA :** C'est rassurant. Bon, alors un message arrive. Qu'est-ce qu'il y a dedans ?
 
@@ -64,7 +64,7 @@
 
 **ANNA :** Ah, le test. Donc si je reçois un message qui dit que c'est un test...
 
-**TOM :** ...alors vous n'avez rien à faire. Le message dira clairement que c'est un test. Le Luxembourg teste le système chaque mois — et les sirènes sont testées le premier lundi du mois, vers midi. C'est normal, pas d'inquiétude.
+**TOM :** ...alors vous n'avez rien à faire. Le message dira clairement que c'est un test. Le Luxembourg teste le système chaque mois — et les sirènes sont testées le premier lundi du mois, vers midi. C'est normal, pas d'inquiétude. Et certains tests sur le téléphone ne vous arrivent que si vous activez « LU-Alert Test » dans les paramètres de votre téléphone — ou « Test » dans l'application.
 
 **ANNA :** Très bon à savoir. Comme ça, personne ne panique un jour de test. Maintenant — quels types d'événements peuvent déclencher une alerte ?
 
@@ -104,11 +104,11 @@
 
 **ANNA :** C'est bien pensé. Bon, Tom — rendons ça vraiment pratique. Si j'écoute maintenant, qu'est-ce que je devrais faire aujourd'hui, pour être prête ?
 
-**TOM :** Trois choses simples. Un — téléchargez l'application LU-Alert, depuis votre magasin d'applications, et choisissez votre langue. Deux — vérifiez que votre téléphone peut recevoir ces alertes ; vous pouvez regarder dans les paramètres de votre téléphone, sous alertes d'urgence ou alertes gouvernementales. Et trois — retenez le site, lu-alert point l-u, et retenez la règle d'or : vérifiez là-bas, ne partagez jamais de données personnelles.
+**TOM :** Trois choses simples. Un — téléchargez l'application LU-Alert, depuis votre magasin d'applications, et choisissez votre langue. Deux — gardez le logiciel de votre téléphone à jour, et vérifiez dans les paramètres, sous alertes d'urgence ou alertes gouvernementales, qu'il peut recevoir ces alertes. Et trois — retenez le site, lu-alert point l-u, et retenez la règle d'or : vérifiez là-bas, ne partagez jamais de données personnelles.
 
 **ANNA :** Télécharger l'application, vérifier ses paramètres, retenir le site. Facile. Bon, un petit résumé pour finir ?
 
-**TOM :** Bien sûr. LU-Alert est le système national d'alerte et d'information du Luxembourg, lancé à l'automne 2024. Il vous atteint sur votre téléphone — par Cell Broadcast et SMS géolocalisé, sans inscription nécessaire — et aussi via l'application, les sites internet, les médias et, pour les alertes nucléaires, les sirènes. Les messages arrivent en allemand, en anglais et en français, avec un niveau allant du jaune jusqu'au danger imminent, et ils vous disent ce qui s'est passé et quoi faire.
+**TOM :** Bien sûr. LU-Alert est le système national d'alerte et d'information du Luxembourg, lancé à l'automne 2024. Il vous atteint sur votre téléphone — par Cell Broadcast et SMS géolocalisé, sans inscription nécessaire — et aussi via l'application, les sites internet, les médias et, en cas de danger grave, les sirènes. Les messages arrivent en allemand, en anglais et en français, avec un niveau allant du jaune jusqu'au danger imminent, et ils vous disent ce qui s'est passé et quoi faire.
 
 **ANNA :** Et le message de sécurité ?
 

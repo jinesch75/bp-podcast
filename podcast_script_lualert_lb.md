@@ -24,9 +24,9 @@
 
 **ANNA:** Okay. An hei ass d'Fro, déi jiddereen stellt. Muss ech mech aschreiwen, oder umellen, fir déi ze kréien?
 
-**TOM:** Nee. An dat ass wierklech wichteg. Fir Cell Broadcast a fir déi lokalisatiounsbaséiert SMS musst Dir Iech net aschreiwen. Dir gitt kengem Är Nummer. Wann Ären Handy an der Zon ass, wann d'Autoritéiten e Message schécken, gëtt Ären Handy automatesch erreecht.
+**TOM:** Nee. An dat ass wierklech wichteg. Fir Cell Broadcast a fir déi lokalisatiounsbaséiert SMS musst Dir Iech net aschreiwen. Dir gitt kengem Är Nummer. Wann Ären Handy an der Zon ass, wann d'Autoritéiten e Message schécken, gëtt Ären Handy automatesch erreecht. Eng Cell-Broadcast-Warnung erschéngt souguer, wann Ären Handy op lautlos ass — mat engem haarden Toun.
 
-**ANNA:** Also muss ech näischt maachen, an ech kann mech och net wierklech ofmellen.
+**ANNA:** Also muss ech näischt maachen.
 
 **TOM:** Richteg. Dat ass sou gewollt — fir datt jiddereen a Gefor gewarnt gëtt.
 
@@ -36,15 +36,15 @@
 
 **ANNA:** Sirenen? Wéi déi al Alarmsirenen?
 
-**TOM:** Jo, mä haut ginn d'Sirenen nëmmen an engem spezifesche Fall benotzt — bei engem Nuklearalarm. Fir alles anescht sinn et den Handy an déi aner Kanäl.
+**TOM:** Jo, déi selwecht Aart. D'Sirene kënnen d'Bevëlkerung virun enger eeschter Gefor warnen — an enger Regioun oder am ganze Land. E laangen, gläichméissegen Toun heescht: bréngt Iech a Sécherheet a verfollegt d'Noriichten. En op- an ofschwellenden Toun heescht: gitt an e feste Gebai a maacht Dieren a Fënsteren zou. Mä fir déi meescht Alarmer sinn et den Handy an déi aner Kanäl.
 
 **ANNA:** Verstanen. An d'App — wat bréngt se derbäi, wann ech d'SMS schonn kréien?
 
-**TOM:** An der App kënnt Dir all d'Alarmer an d'Informatiounen op enger Plaz verfollegen, erausginn vun den ëffentlechen Autoritéiten. Dir luet se gratis erof, aus dem Apple App Store oder dem Google Play Store. Et ass eng gutt Iddi, se z'installéieren.
+**TOM:** An der App kënnt Dir all d'Alarmer an d'Informatiounen op enger Plaz verfollegen, erausginn vun den ëffentlechen Autoritéiten. Dir luet se gratis erof, aus dem Apple App Store oder dem Google Play Store. Et ass eng gutt Iddi, se z'installéieren. Well vill manner eescht Warnungen nëmmen iwwer d'App an d'Websäit verschéckt ginn, net per SMS. An der App kënnt Dir och auswielen, wéi eng Alarmer Dir wëllt, a Plazen derbäisetzen, déi Iech wichteg sinn — wéi Äert Doheem oder d'Schoul vun Äre Kanner.
 
 **ANNA:** Elo eng praktesch Suerg. Vill vun eis schwätze kee Lëtzebuergesch. A wéi enger Sprooch kommen dës Messagen un?
 
-**TOM:** Gutt Fro. D'Messagen ginn an dräi Sprooche verschéckt — Däitsch, Englesch a Franséisch. An der App kritt Dir déi Sprooch, déi Dir an den Astellunge gewielt hutt. Mat der lokalisatiounsbaséierter SMS kritt Dir all dräi Sproochen an engem Message.
+**TOM:** Gutt Fro. D'Messagen ginn an dräi Sprooche verschéckt — Däitsch, Englesch a Franséisch. An der App kritt Dir déi Sprooch, déi Dir an den Astellunge gewielt hutt. Per Cell Broadcast kritt Dir ëmmer Franséisch — an och Englesch oder Däitsch, wann dat d'Sprooch vun Ärem Handy ass. Mat der lokalisatiounsbaséierter SMS kritt Dir all dräi Sproochen an engem Message.
 
 **ANNA:** Dat berouegt. Okay, also e Message kënnt un. Wat steet dran?
 
@@ -64,7 +64,7 @@
 
 **ANNA:** Ah, den Test. Also wann ech e Message kréien, deen seet, et ass en Test...
 
-**TOM:** ...da braucht Dir näischt ze maachen. De Message seet kloer, datt et en Test ass. Lëtzebuerg test de System all Mount — an d'Sirene gi den éischte Méindeg vum Mount géint Mëtteg getest. Dat ass normal, keng Suerg.
+**TOM:** ...da braucht Dir näischt ze maachen. De Message seet kloer, datt et en Test ass. Lëtzebuerg test de System all Mount — an d'Sirene gi den éischte Méindeg vum Mount géint Mëtteg getest. Dat ass normal, keng Suerg. A verschidden Tester um Handy kritt Dir nëmmen, wann Dir "LU-Alert Test" an den Handy-Astellungen aschalt — oder "Test" an der App.
 
 **ANNA:** Ganz gutt ze wëssen. Sou panikéiert keen op engem Testdag. Elo — wéi eng Evenementer kënnen en Alarm ausléisen?
 
@@ -104,11 +104,11 @@
 
 **ANNA:** Dat ass opmierksam. Okay, Tom — loosse mer et richteg praktesch maachen. Wann ech elo nolauschteren, wat soll ech haut maachen, fir prett ze sinn?
 
-**TOM:** Dräi einfach Saachen. Eent — luet d'LU-Alert-App erof, aus Ärem App Store, a wielt Är Sprooch. Zwee — kuckt no, ob Ären Handy dës Alarmer empfänke kann; Dir kënnt an den Handy-Astellunge kucken, ënner Noutfall- oder Regierungsalarmer. An dräi — behaalt d'Websäit am Kapp, lu-alert Punkt l-u, an denkt un déi gëllen Reegel: iwwerpréift do, an deelt ni perséinlech Donnéeën.
+**TOM:** Dräi einfach Saachen. Eent — luet d'LU-Alert-App erof, aus Ärem App Store, a wielt Är Sprooch. Zwee — haalt d'Software vun Ärem Handy um neiste Stand, a kuckt an den Astellungen, ënner Noutfall- oder Regierungsalarmer, ob en dës Alarmer empfänke kann. An dräi — behaalt d'Websäit am Kapp, lu-alert Punkt l-u, an denkt un déi gëllen Reegel: iwwerpréift do, an deelt ni perséinlech Donnéeën.
 
 **ANNA:** D'App eroflueden, d'Astellunge kucken, d'Websäit am Kapp behalen. Einfach. Okay, eng kuerz Zesummefaassung fir ofzeschléissen?
 
-**TOM:** Jo, gären. LU-Alert ass den nationale Warn- an Informatiounssystem vu Lëtzebuerg, lancéiert am Hierscht 2024. En erreecht Iech op Ärem Handy — iwwer Cell Broadcast a lokalisatiounsbaséiert SMS, ouni Aschreiwung — an och iwwer d'App, d'Websäiten, d'Medien an, bei Nuklearalarmer, d'Sirenen. D'Messagen kommen op Däitsch, Englesch a Franséisch, mat engem Niveau vu giel bis imminent Gefor, a si soen Iech, wat geschitt ass a wat Dir maache sollt.
+**TOM:** Jo, gären. LU-Alert ass den nationale Warn- an Informatiounssystem vu Lëtzebuerg, lancéiert am Hierscht 2024. En erreecht Iech op Ärem Handy — iwwer Cell Broadcast a lokalisatiounsbaséiert SMS, ouni Aschreiwung — an och iwwer d'App, d'Websäiten, d'Medien an, bei eeschter Gefor, d'Sirenen. D'Messagen kommen op Däitsch, Englesch a Franséisch, mat engem Niveau vu giel bis imminent Gefor, a si soen Iech, wat geschitt ass a wat Dir maache sollt.
 
 **ANNA:** An de Sécherheetsmessage?
 

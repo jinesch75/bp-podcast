@@ -214,3 +214,9 @@ Applied (Jacques: "apply all"): "Live here" contents (housing is under "Get star
 ## Fact-check Your health / DSP & CNS (9 Nov 2026)
 
 Applied (Jacques: "apply all suggestions"): "about half of doctors" → "more and more doctors and dentists" (PID); eSanté activation on MyGuichet.lu web/app with LuxTrust or Luxembourg eID (no postal code), otherwise eSanté portal / MyDSP; DSP opens in the MyGuichet eSpace; block access to certain documents + close DSP any time; organ donation wishes in the DSP; no stamp needed from inside Luxembourg + CNS letterboxes; children under 18 usually pay nothing for doctor visits. Script: `build/apply_factcheck_dsp_cns_2026_11.py`; quiz Q3/Q5 explanations via `build/apply_factcheck_quiz_2026_11.js`. Re-recorded EN/FR/DE (changed sentences only, ≈5,200 credits).
+
+## Fact-check LU-Alert (9 Nov 2026)
+
+Applied (Jacques: "apply all suggestions"): sirens now "warn of a serious danger, locally or nationwide" with the steady / rising-and-falling signals (lu-alert.lu Sirens page; the channel overview page still says "only nuclear" — flagged for the administration's review); app: less serious warnings in principle only via app + website, choose alerts and places of interest; Cell Broadcast shows even on silent with a loud sound; keep phone software up to date; CB languages (always French + EN/DE by phone language); some tests need "LU-Alert Test" / app "Test" switched on; dropped "can't really opt out". Script: `build/apply_factcheck_lualert_2026_11.py`; quiz Q2/Q4 via `build/apply_factcheck_quiz_2026_11.js`. Re-recorded EN/FR/DE (changed sentences only, ≈6,600 credits).
+
+Note (Jacques, 9 Nov 2026): after these fact-checks, every episode's script is also sent to the respective administration by email so its experts can double-check it.

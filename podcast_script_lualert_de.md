@@ -24,9 +24,9 @@
 
 **ANNA:** Okay. Und hier ist die Frage, die alle stellen. Muss ich mich anmelden oder registrieren, um diese zu bekommen?
 
-**TOM:** Nein. Und das ist wirklich wichtig. Für Cell Broadcast und für die standortbasierte SMS müssen Sie sich nicht anmelden. Sie geben niemandem Ihre Nummer. Wenn Ihr Telefon in dem Gebiet ist, wenn die Behörden eine Nachricht senden, wird Ihr Telefon automatisch erreicht.
+**TOM:** Nein. Und das ist wirklich wichtig. Für Cell Broadcast und für die standortbasierte SMS müssen Sie sich nicht anmelden. Sie geben niemandem Ihre Nummer. Wenn Ihr Telefon in dem Gebiet ist, wenn die Behörden eine Nachricht senden, wird Ihr Telefon automatisch erreicht. Eine Cell-Broadcast-Warnung erscheint sogar, wenn Ihr Telefon stummgeschaltet ist — mit einem lauten Ton.
 
-**ANNA:** Ich muss also nichts tun, und ich kann mich auch nicht wirklich abmelden.
+**ANNA:** Ich muss also nichts tun.
 
 **TOM:** Richtig. Das ist Absicht — damit alle, die in Gefahr sind, gewarnt werden.
 
@@ -36,15 +36,15 @@
 
 **ANNA:** Sirenen? Wie die alten Luftschutzsirenen?
 
-**TOM:** Ja, aber heute werden die Sirenen nur noch in einem bestimmten Fall benutzt — bei einem Nuklearalarm. Für alles andere sind es das Telefon und die anderen Kanäle.
+**TOM:** Ja, die gleiche Art. Sirenen können die Bevölkerung vor einer ernsten Gefahr warnen — in einem Gebiet oder im ganzen Land. Ein langer, gleichbleibender Ton heißt: Bringen Sie sich in Sicherheit und verfolgen Sie die Nachrichten. Ein auf- und abschwellender Ton heißt: Gehen Sie in ein festes Gebäude und schließen Sie Türen und Fenster. Aber bei den meisten Warnungen sind es das Telefon und die anderen Kanäle.
 
 **ANNA:** Verstanden. Und die mobile App — was bringt sie zusätzlich, wenn ich schon die SMS bekomme?
 
-**TOM:** Mit der App können Sie alle Warnungen und Informationen an einem Ort verfolgen, herausgegeben von den öffentlichen Behörden. Sie laden sie kostenlos herunter, im Apple App Store oder im Google Play Store. Es ist eine gute Idee, sie zu installieren.
+**TOM:** Mit der App können Sie alle Warnungen und Informationen an einem Ort verfolgen, herausgegeben von den öffentlichen Behörden. Sie laden sie kostenlos herunter, im Apple App Store oder im Google Play Store. Es ist eine gute Idee, sie zu installieren. Denn viele weniger ernste Warnungen werden nur über die App und die Website verschickt, nicht per SMS. In der App können Sie auch auswählen, welche Warnungen Sie möchten, und Orte hinzufügen, die Ihnen wichtig sind — wie Ihr Zuhause oder die Schule Ihrer Kinder.
 
 **ANNA:** Nun eine praktische Sorge. Viele von uns sprechen kein Luxemburgisch. In welcher Sprache kommen diese Nachrichten an?
 
-**TOM:** Gute Frage. Die Nachrichten werden in drei Sprachen gesendet — Deutsch, Englisch und Französisch. In der App erhalten Sie die Sprache, die Sie in den Einstellungen gewählt haben. Per standortbasierter SMS bekommen Sie alle drei Sprachen in einer Nachricht.
+**TOM:** Gute Frage. Die Nachrichten werden in drei Sprachen gesendet — Deutsch, Englisch und Französisch. In der App erhalten Sie die Sprache, die Sie in den Einstellungen gewählt haben. Per Cell Broadcast bekommen Sie immer Französisch — und dazu Englisch oder Deutsch, wenn das die Sprache Ihres Telefons ist. Per standortbasierter SMS bekommen Sie alle drei Sprachen in einer Nachricht.
 
 **ANNA:** Das ist beruhigend. Okay, eine Nachricht kommt also an. Was steht drin?
 
@@ -64,7 +64,7 @@
 
 **ANNA:** Ah, der Test. Wenn ich also eine Nachricht bekomme, die sagt, dass es ein Test ist...
 
-**TOM:** ...dann müssen Sie nichts tun. Die Nachricht sagt klar, dass es ein Test ist. Luxemburg testet das System jeden Monat — und die Sirenen werden am ersten Montag im Monat gegen Mittag getestet. Das ist normal, keine Sorge.
+**TOM:** ...dann müssen Sie nichts tun. Die Nachricht sagt klar, dass es ein Test ist. Luxemburg testet das System jeden Monat — und die Sirenen werden am ersten Montag im Monat gegen Mittag getestet. Das ist normal, keine Sorge. Und manche Tests auf dem Telefon erreichen Sie nur, wenn Sie „LU-Alert Test“ in den Telefoneinstellungen einschalten — oder „Test“ in der App.
 
 **ANNA:** Sehr gut zu wissen. So gerät an einem Testtag niemand in Panik. Nun — welche Art von Ereignissen kann eine Warnung auslösen?
 
@@ -104,11 +104,11 @@
 
 **ANNA:** Das ist gut durchdacht. Okay, Tom — machen wir es ganz praktisch. Wenn ich jetzt zuhöre, was sollte ich heute tun, um bereit zu sein?
 
-**TOM:** Drei einfache Dinge. Eins — laden Sie die LU-Alert-App herunter, aus Ihrem App-Store, und wählen Sie Ihre Sprache. Zwei — prüfen Sie, ob Ihr Telefon diese Warnungen empfangen kann; schauen Sie in Ihren Telefoneinstellungen nach, unter Notfall- oder Behördenwarnungen. Und drei — merken Sie sich die Website, lu-alert Punkt l-u, und merken Sie sich die goldene Regel: Dort überprüfen, niemals persönliche Daten weitergeben.
+**TOM:** Drei einfache Dinge. Eins — laden Sie die LU-Alert-App herunter, aus Ihrem App-Store, und wählen Sie Ihre Sprache. Zwei — halten Sie die Software Ihres Telefons aktuell, und prüfen Sie in den Einstellungen, unter Notfall- oder Behördenwarnungen, ob es diese Warnungen empfangen kann. Und drei — merken Sie sich die Website, lu-alert Punkt l-u, und merken Sie sich die goldene Regel: Dort überprüfen, niemals persönliche Daten weitergeben.
 
 **ANNA:** Die App herunterladen, die Einstellungen prüfen, die Website merken. Einfach. Okay, eine kurze Zusammenfassung zum Schluss?
 
-**TOM:** Klar. LU-Alert ist Luxemburgs nationales Warn- und Informationssystem, gestartet im Herbst 2024. Es erreicht Sie auf Ihrem Telefon — per Cell Broadcast und standortbasierter SMS, ohne Anmeldung — und auch über die App, Websites, die Medien und, bei Nuklearalarm, Sirenen. Die Nachrichten kommen auf Deutsch, Englisch und Französisch, mit einer Stufe von Gelb bis zur unmittelbaren Gefahr, und sie sagen Ihnen, was passiert ist und was zu tun ist.
+**TOM:** Klar. LU-Alert ist Luxemburgs nationales Warn- und Informationssystem, gestartet im Herbst 2024. Es erreicht Sie auf Ihrem Telefon — per Cell Broadcast und standortbasierter SMS, ohne Anmeldung — und auch über die App, Websites, die Medien und, bei ernster Gefahr, Sirenen. Die Nachrichten kommen auf Deutsch, Englisch und Französisch, mit einer Stufe von Gelb bis zur unmittelbaren Gefahr, und sie sagen Ihnen, was passiert ist und was zu tun ist.
 
 **ANNA:** Und die Sicherheitsbotschaft?
 
