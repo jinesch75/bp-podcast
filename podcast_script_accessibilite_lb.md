@@ -60,7 +60,7 @@
 
 **ANNA:** Et ass also transparent. Si mussen zouginn, wat nach net perfekt ass.
 
-**TOM:** Genau. An — dat ass wichteg — wann s du e Problem fënns, kanns du dech beschwéieren. All Säit muss der eng Manéier ginn, fir en Hindernis ze mellen. Si mussen der äntweren, normalerweis bannent engem Mount. A wann s du net zefridde bass, kanns du dech un den Informatiounsdéngscht vum Staat wenden, oder souguer un den Ombudsman — de Mediateur.
+**TOM:** Genau. An — dat ass wichteg — wann s du e Problem fënns, kanns du dech beschwéieren. Fir d'éischt kontaktéiers du d'Organisatioun selwer, mat de Kontaktdaten aus hirer Accessibilitéitserklärung. Wann dat net hëlleft, kanns du dech un den Informatiouns- a Pressedéngscht vum Staat wenden, de SIP, deen d'Accessibilitéit kontrolléiert a bannent engem Mount äntwert — oder un den Ombudsman, de Mediateur.
 
 **ANNA:** Du bass also net hëlleflos. Wann eng ëffentlech Websäit dech blockéiert, gëtt et eng Dier, un déi s du klappe kanns.
 
@@ -88,7 +88,7 @@
 
 **ANNA:** Dat mécht voll Sënn. Et ass méi schwéier a méi deier, e Lift an en alt Gebai bäizesetzen, wéi en vum éischten Dag un ze plangen.
 
-**TOM:** Genau. An dat neit Gesetz geet méi wäit wéi dat aalt. Et geet net nëmmen ëm ëffentlech Gebaier. Et deckt och ëffentlech Stroossen, a Kollektivwunnengen — Gebaier mat ville Wunnengen dran.
+**TOM:** Genau. An dat neit Gesetz geet méi wäit wéi dat aalt. Et geet net nëmmen ëm ëffentlech Gebaier. Et deckt och ëffentlech Stroossen, a Kollektivwunnengen — an neie Residenzen muss all zéngt Wunneng accessibel sinn.
 
 **ANNA:** A fir Gebaier déi schonn existéieren? Du kanns net alles iwwer Nuecht nei bauen.
 
@@ -96,7 +96,7 @@
 
 **ANNA:** Et gëtt also Zäit, mä et gëtt och e kloert Zil. Gutt. A wien ka mat all deem hëllefen — fir een deen e Gebai baut oder renovéiert?
 
-**TOM:** De Portal fir d'Infrastruktur op accessibilite.lu huet d'Reegelen, d'Prozeduren, an eng Boîte à outils. Sou kann en Architekt, eng Gemeng, oder e Besëtzer fannen, wat se brauchen, fir et richteg ze maachen. An et gëtt finanziell Hëllef: de Staat ka d'Hallschent vun de Käschte vun den Aarbechten iwwerhuelen, bis zu véieranzwanzegdausend Euro pro Plaz — wann s du den Demande virum Juli 2028 mëss.
+**TOM:** De Portal fir d'Infrastruktur op accessibilite.lu huet d'Reegelen, d'Prozeduren, an eng Boîte à outils. Sou kann en Architekt, eng Gemeng, oder e Besëtzer fannen, wat se brauchen, fir et richteg ze maachen. An et gëtt finanziell Hëllef: de Staat ka d'Hallschent vun de Käschte vun den Aarbechten iwwerhuelen, bis zu véieranzwanzegdausend Euro pro Plaz — wann s du den Demande virum Juli 2028 mëss. D'Pläng mussen éischt op Konformitéit gepréift ginn, an d'Aarbechte mussen bis Juli 2031 fäerdeg sinn.
 
 **ANNA:** Wonnerbar. Gutt, Tom — dat ass digital an Infrastruktur. Wat ass deen drëtte Beräich?
 
@@ -128,7 +128,7 @@
 
 **ANNA:** Wéi maachen ech dat?
 
-**TOM:** Online, iwwer MyGuichet.lu — déi digital Plattform vum Staat. An du kanns et souguer maachen, ouni dech anzelaggen, wann s du léiwer wëlls. Et ass also einfach, fir d'Hand ze hiewen an ze soen — dës Maschinn, dës Déngschtleeschtung, funktionéiert net fir mech.
+**TOM:** Online, iwwer MyGuichet.lu — déi digital Plattform vum Staat. An du kanns et souguer maachen, ouni dech anzelaggen, wann s du léiwer wëlls. Oder per Telefon, oder per E-Mail — oder du schécks einfach eng Foto iwwer WhatsApp, zum Beispill vun engem Billjeesautomat, deen net fir dech funktionéiert. Et ass also einfach, fir d'Hand ze hiewen an ze soen — dës Maschinn, dës Déngschtleeschtung, funktionéiert net fir mech.
 
 **ANNA:** Mir gefält, datt déi dräi Beräicher esou verbonne sinn. Du melds e feelerhafte Produit iwwer eng ëffentlech Websäit... déi selwer accessibel muss sinn... an engem Gebai dat och accessibel soll sinn.
 

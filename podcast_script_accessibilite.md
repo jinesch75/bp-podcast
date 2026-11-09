@@ -60,7 +60,7 @@
 
 **ANNA:** So it's transparent. They have to admit what's not perfect yet.
 
-**TOM:** Exactly. And — this is important — if you find a problem, you can complain. Every site must give you a way to report a barrier. They have to answer you, normally within one month. And if you're not satisfied, you can turn to the State information service, or even the ombudsman — the médiateur.
+**TOM:** Exactly. And — this is important — if you find a problem, you can complain. First, you contact the organisation, using the contact details in its accessibility declaration. If that doesn't help, you can turn to the State information and press service, the SIP, which checks accessibility and answers within a month — or to the ombudsman, the médiateur.
 
 **ANNA:** So you're not powerless. If a public website blocks you, there's a door to knock on.
 
@@ -88,7 +88,7 @@
 
 **ANNA:** That makes complete sense. It's harder and more expensive to add a lift to an old building than to plan it from day one.
 
-**TOM:** Exactly. And the new law goes further than the old one. It's not only about public buildings. It also covers public roads, and collective housing — buildings with many homes inside.
+**TOM:** Exactly. And the new law goes further than the old one. It's not only about public buildings. It also covers public roads, and collective housing — in new apartment buildings, one home in ten must be accessible.
 
 **ANNA:** And for buildings that already exist? You can't rebuild everything overnight.
 
@@ -96,7 +96,7 @@
 
 **ANNA:** So there's time, but there's also a clear target. Good. And who can help with all this — for someone building or renovating?
 
-**TOM:** The infrastructure portal on accessibilite.lu has the rules, the procedures, and a toolbox. So an architect, a commune, or an owner can find what they need to do it right. And there's money to help: the State can pay half the cost of the works, up to twenty-four thousand euros per place — if you apply before July 2028.
+**TOM:** The infrastructure portal on accessibilite.lu has the rules, the procedures, and a toolbox. So an architect, a commune, or an owner can find what they need to do it right. And there's money to help: the State can pay half the cost of the works, up to twenty-four thousand euros per place — if you apply before July 2028. The plans need a compliance check first, and the works must be finished by July 2031.
 
 **ANNA:** Lovely. Okay, Tom — that's digital, and infrastructure. What's the third area?
 
@@ -128,7 +128,7 @@
 
 **ANNA:** How do I do that?
 
-**TOM:** Online, through MyGuichet.lu — the State's digital platform. And you can even do it without logging in, if you prefer. So it's easy to raise your hand and say — this machine, this service, doesn't work for me.
+**TOM:** Online, through MyGuichet.lu — the State's digital platform. And you can even do it without logging in, if you prefer. Or by phone, or by email — or you can simply send a photo by WhatsApp, for example of a ticket machine that doesn't work for you. So it's easy to raise your hand and say — this machine, this service, doesn't work for me.
 
 **ANNA:** I love that the three areas connect like that. You report a faulty product through a public website... which itself has to be accessible... in a building that should also be accessible.
 
@@ -198,4 +198,4 @@
 
 ---
 
-*Sources: accessibilite.lu (official Government of Luxembourg accessibility hub) and its three portals — accessibilite.public.lu (digital accessibility; Law of 28 May 2019; standard EN 301 549; accessibility declarations and complaints to the SIP / ombudsman), accessibilite-infrastructure.public.lu (Law of 7 January 2022, in force 1 July 2023; universal design; existing public places accessible by 1 January 2032), and accessibilite-produits-services.public.lu (European Accessibility Act, transposed by the Law of 8 March 2023, applicable from 28 June 2025; monitored by OSAPS; reporting via MyGuichet.lu). General information only — check accessibilite.lu for the current details and exact conditions.*
+*Sources: accessibilite.lu (official Government of Luxembourg accessibility hub) and its three portals — accessibilite.public.lu (digital accessibility; Law of 28 May 2019; standard EN 301 549; accessibility declarations and complaints to the SIP / ombudsman), accessibilite-infrastructure.public.lu (Law of 7 January 2022, in force 1 July 2023; universal design; existing public places accessible by 1 January 2032), and accessibilite-produits-services.public.lu (European Accessibility Act, transposed by the Law of 8 March 2023, applicable from 28 June 2025; monitored by OSAPS; reporting via MyGuichet.lu). Fact-checked 9 November 2026 (complaint procedure: organisation first, then SIP — reply within one month — or Ombudsman; OSAPS reporting by MyGuichet.lu, form, phone, e-mail, WhatsApp, post; financial aid: 50%, max. EUR 24,000, apply by 1 July 2028, works by 1 July 2031, plan compliance check first; 10% of homes in new collective buildings accessible). General information only — check accessibilite.lu for the current details and exact conditions.*

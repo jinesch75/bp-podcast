@@ -60,7 +60,7 @@
 
 **ANNA :** Donc c'est transparent. Ils doivent reconnaître ce qui n'est pas encore parfait.
 
-**TOM :** Exactement. Et — c'est important — si vous trouvez un problème, vous pouvez vous plaindre. Chaque site doit vous donner un moyen de signaler un obstacle. Ils doivent vous répondre, normalement dans un délai d'un mois. Et si vous n'êtes pas satisfait, vous pouvez vous tourner vers le service information de l'État, ou même vers l'ombudsman — le médiateur.
+**TOM :** Exactement. Et — c'est important — si vous trouvez un problème, vous pouvez vous plaindre. D'abord, vous contactez l'organisme, avec les coordonnées indiquées dans sa déclaration d'accessibilité. Si ça n'aide pas, vous pouvez vous tourner vers le Service information et presse de l'État, le SIP, qui contrôle l'accessibilité et répond dans un délai d'un mois — ou vers l'ombudsman, le médiateur.
 
 **ANNA :** Donc vous n'êtes pas impuissant. Si un site public vous bloque, il y a une porte à laquelle frapper.
 
@@ -88,7 +88,7 @@
 
 **ANNA :** C'est tout à fait logique. C'est plus difficile et plus cher d'ajouter un ascenseur à un vieux bâtiment que de le prévoir dès le premier jour.
 
-**TOM :** Exactement. Et la nouvelle loi va plus loin que l'ancienne. Elle ne concerne pas seulement les bâtiments publics. Elle couvre aussi la voirie publique, et le logement collectif — les immeubles avec beaucoup d'habitations à l'intérieur.
+**TOM :** Exactement. Et la nouvelle loi va plus loin que l'ancienne. Elle ne concerne pas seulement les bâtiments publics. Elle couvre aussi la voirie publique, et le logement collectif — dans les nouveaux immeubles d'habitation, un logement sur dix doit être accessible.
 
 **ANNA :** Et pour les bâtiments qui existent déjà ? On ne peut pas tout reconstruire du jour au lendemain.
 
@@ -96,7 +96,7 @@
 
 **ANNA :** Donc il y a du temps, mais il y a aussi un objectif clair. Bien. Et qui peut aider avec tout ça — pour quelqu'un qui construit ou qui rénove ?
 
-**TOM :** Le portail infrastructure sur accessibilite.lu contient les règles, les procédures et une boîte à outils. Comme ça, un architecte, une commune ou un propriétaire peut trouver ce qu'il faut faire pour bien s'y prendre. Et il y a une aide financière : l'État peut payer la moitié du coût des travaux, jusqu'à vingt-quatre mille euros par lieu — si vous faites la demande avant juillet 2028.
+**TOM :** Le portail infrastructure sur accessibilite.lu contient les règles, les procédures et une boîte à outils. Comme ça, un architecte, une commune ou un propriétaire peut trouver ce qu'il faut faire pour bien s'y prendre. Et il y a une aide financière : l'État peut payer la moitié du coût des travaux, jusqu'à vingt-quatre mille euros par lieu — si vous faites la demande avant juillet 2028. Les plans doivent d'abord passer un contrôle de conformité, et les travaux doivent être terminés avant juillet 2031.
 
 **ANNA :** Super. D'accord, Tom — on a fait le numérique et l'infrastructure. Quel est le troisième domaine ?
 
@@ -128,7 +128,7 @@
 
 **ANNA :** Comment je fais ça ?
 
-**TOM :** En ligne, via MyGuichet.lu — la plateforme numérique de l'État. Et vous pouvez même le faire sans vous connecter, si vous préférez. Donc c'est facile de lever la main et de dire — cette machine, ce service, ne fonctionne pas pour moi.
+**TOM :** En ligne, via MyGuichet.lu — la plateforme numérique de l'État. Et vous pouvez même le faire sans vous connecter, si vous préférez. Ou par téléphone, ou par e-mail — ou vous pouvez simplement envoyer une photo par WhatsApp, par exemple d'un distributeur de billets qui ne fonctionne pas pour vous. Donc c'est facile de lever la main et de dire — cette machine, ce service, ne fonctionne pas pour moi.
 
 **ANNA :** J'adore que les trois domaines se relient comme ça. On signale un produit défectueux via un site public... qui doit lui-même être accessible... dans un bâtiment qui devrait aussi être accessible.
 

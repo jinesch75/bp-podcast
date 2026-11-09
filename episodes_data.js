@@ -29753,7 +29753,7 @@ const EPISODES = [
   "title": "Accessibility for Everyone – Luxembourg’s Three Promises",
   "description": "What accessibilite.lu is and the three areas it brings together: digital accessibility of public websites and apps (Law of 28 May 2019), accessible buildings, streets and housing through universal design (Law of 7 January 2022), and accessible products and services under the European Accessibility Act (applicable since 28 June 2025, monitored by OSAPS).",
   "audio": "podcast_accessibilite.mp3",
-  "duration": 764.87,
+  "duration": 787.2,
   "topics": [
    "The accessibilite.lu hub",
    "Digital accessibility (Law of 2019)",
@@ -30062,798 +30062,803 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Every site must give you a way to report a barrier.",
-    "t": 220.7
+    "text": "First, you contact the organisation, using the contact details in its accessibility declaration.",
+    "t": 221.16
    },
    {
     "speaker": "Tom",
-    "text": "They have to answer you, normally within one month.",
-    "t": 223.53
-   },
-   {
-    "speaker": "Tom",
-    "text": "And if you're not satisfied, you can turn to the State information service, or even the ombudsman — the médiateur.",
-    "t": 226.28
+    "text": "If that doesn't help, you can turn to the State information and press service, the SIP, which checks accessibility and answers within a month — or to the ombudsman, the médiateur.",
+    "t": 226.62
    },
    {
     "speaker": "Anna",
     "text": "So you're not powerless.",
-    "t": 232.64
+    "t": 237.7
    },
    {
     "speaker": "Anna",
     "text": "If a public website blocks you, there's a door to knock on.",
-    "t": 234.22
+    "t": 239.28
    },
    {
     "speaker": "Tom",
     "text": "Always. That's the whole point.",
-    "t": 237.62
+    "t": 242.68
    },
    {
     "speaker": "Tom",
     "text": "Okay — shall we go to the second area?",
-    "t": 239.71
+    "t": 244.77
    },
    {
     "speaker": "Anna",
     "text": "Yes please. We've done the digital world.",
-    "t": 242.06
+    "t": 247.12
    },
    {
     "speaker": "Anna",
     "text": "What's next?",
-    "t": 244.28
+    "t": 249.34
    },
    {
     "speaker": "Tom",
     "text": "The second area is infrastructure.",
-    "t": 245.59
+    "t": 250.65
    },
    {
     "speaker": "Tom",
     "text": "That means the physical world — buildings, public spaces, and streets.",
-    "t": 247.53
+    "t": 252.59
    },
    {
     "speaker": "Anna",
     "text": "Ah, the concrete world.",
-    "t": 251.52
+    "t": 256.58
    },
    {
     "speaker": "Anna",
     "text": "Ramps, doors, lifts.",
-    "t": 253.1
+    "t": 258.16
    },
    {
     "speaker": "Tom",
     "text": "Exactly. Can you enter the building?",
-    "t": 254.74
+    "t": 259.8
    },
    {
     "speaker": "Tom",
     "text": "Is there a ramp as well as steps?",
-    "t": 257.09
+    "t": 262.15
    },
    {
     "speaker": "Tom",
     "text": "Is the door wide enough for a wheelchair?",
-    "t": 259.22
+    "t": 264.28
    },
    {
     "speaker": "Tom",
     "text": "Is there a lift?",
-    "t": 261.21
+    "t": 266.27
    },
    {
     "speaker": "Tom",
     "text": "Are there things to help a blind person find their way?",
-    "t": 262.37
+    "t": 267.43
    },
    {
     "speaker": "Anna",
     "text": "And is there a law for this too?",
-    "t": 265.29
+    "t": 270.35
    },
    {
     "speaker": "Tom",
     "text": "There is. It's the law of the 7th of January, 2022, and it came into force on the 1st of July, 2023.",
-    "t": 267.38
+    "t": 272.44
    },
    {
     "speaker": "Tom",
     "text": "And it's built on a beautiful idea called universal design.",
-    "t": 275.62
+    "t": 280.68
    },
    {
     "speaker": "Anna",
     "text": "Universal design. What does that mean?",
-    "t": 278.87
+    "t": 283.93
    },
    {
     "speaker": "Tom",
     "text": "It means designing a place, from the very start, so that everyone can use it.",
-    "t": 281.32
+    "t": 286.38
    },
    {
     "speaker": "Tom",
     "text": "Not a special side entrance for some people, and the main entrance for the others.",
-    "t": 285.24
+    "t": 290.3
    },
    {
     "speaker": "Tom",
     "text": "One place, that works for all.",
-    "t": 289.06
+    "t": 294.12
    },
    {
     "speaker": "Anna",
     "text": "So instead of building a barrier and then fixing it later...",
-    "t": 291.04
+    "t": 296.1
    },
    {
     "speaker": "Tom",
     "text": "...you build it right the first time.",
-    "t": 294.24
+    "t": 299.3
    },
    {
     "speaker": "Tom",
     "text": "And here's the clever part — it's actually cheaper.",
-    "t": 295.85
+    "t": 300.91
    },
    {
     "speaker": "Tom",
     "text": "The United Nations says it: if you design for everyone from the beginning, it costs much less than removing barriers from a building that's already finished.",
-    "t": 298.94
+    "t": 304
    },
    {
     "speaker": "Anna",
     "text": "That makes complete sense.",
-    "t": 307.84
+    "t": 312.9
    },
    {
     "speaker": "Anna",
     "text": "It's harder and more expensive to add a lift to an old building than to plan it from day one.",
-    "t": 309.47
+    "t": 314.53
    },
    {
     "speaker": "Tom",
     "text": "Exactly. And the new law goes further than the old one.",
-    "t": 314.38
+    "t": 319.44
    },
    {
     "speaker": "Tom",
     "text": "It's not only about public buildings.",
-    "t": 317.58
+    "t": 322.64
    },
    {
     "speaker": "Tom",
-    "text": "It also covers public roads, and collective housing — buildings with many homes inside.",
-    "t": 319.58
+    "text": "It also covers public roads, and collective housing — in new apartment buildings, one home in ten must be accessible.",
+    "t": 324.59
    },
    {
     "speaker": "Anna",
     "text": "And for buildings that already exist?",
-    "t": 324.92
+    "t": 332.43
    },
    {
     "speaker": "Anna",
     "text": "You can't rebuild everything overnight.",
-    "t": 327.21
+    "t": 334.72
    },
    {
     "speaker": "Tom",
     "text": "No, and the law is realistic.",
-    "t": 329.71
+    "t": 337.22
    },
    {
     "speaker": "Tom",
     "text": "New buildings and big renovations must follow the rules now.",
-    "t": 331.73
+    "t": 339.24
    },
    {
     "speaker": "Tom",
     "text": "But for places that already exist and are open to the public, there's a deadline to become accessible — the 1st of January, 2032.",
-    "t": 335.02
+    "t": 342.53
    },
    {
     "speaker": "Anna",
     "text": "So there's time, but there's also a clear target.",
-    "t": 343.3
+    "t": 350.81
    },
    {
     "speaker": "Anna",
     "text": "Good. And who can help with all this — for someone building or renovating?",
-    "t": 346.54
+    "t": 354.05
    },
    {
     "speaker": "Tom",
     "text": "The infrastructure portal on accessibilite.lu has the rules, the procedures, and a toolbox.",
-    "t": 351.11
+    "t": 358.62
    },
    {
     "speaker": "Tom",
     "text": "So an architect, a commune, or an owner can find what they need to do it right.",
-    "t": 356.35
+    "t": 363.86
    },
    {
     "speaker": "Tom",
     "text": "And there's money to help: the State can pay half the cost of the works, up to twenty-four thousand euros per place — if you apply before July 2028.",
-    "t": 361.35
+    "t": 368.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "The plans need a compliance check first, and the works must be finished by July 2031.",
+    "t": 378.72
    },
    {
     "speaker": "Anna",
     "text": "Lovely. Okay, Tom — that's digital, and infrastructure.",
-    "t": 370.4
+    "t": 384.38
    },
    {
     "speaker": "Anna",
     "text": "What's the third area?",
-    "t": 374.17
+    "t": 388.15
    },
    {
     "speaker": "Tom",
     "text": "The third one is the newest, and maybe the most surprising.",
-    "t": 375.69
+    "t": 389.67
    },
    {
     "speaker": "Tom",
     "text": "It's the accessibility of products and services.",
-    "t": 378.68
+    "t": 392.66
    },
    {
     "speaker": "Anna",
     "text": "Products and services.",
-    "t": 381.36
+    "t": 395.34
    },
    {
     "speaker": "Anna",
     "text": "Now that sounds very broad.",
-    "t": 382.91
+    "t": 396.89
    },
    {
     "speaker": "Anna",
     "text": "What does it include?",
-    "t": 384.68
+    "t": 398.66
    },
    {
     "speaker": "Tom",
     "text": "A lot of everyday things.",
-    "t": 386.34
+    "t": 400.32
    },
    {
     "speaker": "Tom",
     "text": "Think about a bank machine — an ATM.",
-    "t": 387.77
+    "t": 401.75
    },
    {
     "speaker": "Tom",
     "text": "A ticket machine at the station.",
-    "t": 390.15
+    "t": 404.13
    },
    {
     "speaker": "Tom",
     "text": "An online shop.",
-    "t": 392.05
+    "t": 406.03
    },
    {
     "speaker": "Tom",
     "text": "A banking app.",
-    "t": 393.12
+    "t": 407.1
    },
    {
     "speaker": "Tom",
     "text": "An e-book. Smartphones and computers.",
-    "t": 394.15
+    "t": 408.13
    },
    {
     "speaker": "Tom",
     "text": "These are the products and services we all use, all the time.",
-    "t": 396.65
+    "t": 410.63
    },
    {
     "speaker": "Anna",
     "text": "And the idea is they should work for people with a disability too.",
-    "t": 400.25
+    "t": 414.23
    },
    {
     "speaker": "Tom",
     "text": "Exactly. This comes from a European law — people call it the European Accessibility Act.",
-    "t": 404.3
+    "t": 418.28
    },
    {
     "speaker": "Tom",
     "text": "Luxembourg put it into national law with the law of the 8th of March, 2023.",
-    "t": 409.93
+    "t": 423.91
    },
    {
     "speaker": "Tom",
     "text": "And it started to apply on the 28th of June, 2025.",
-    "t": 415.03
+    "t": 429.01
    },
    {
     "speaker": "Anna",
     "text": "So this one is very recent — it's basically just begun.",
-    "t": 418.86
+    "t": 432.84
    },
    {
     "speaker": "Tom",
     "text": "Just begun. And it's a real change.",
-    "t": 422.45
+    "t": 436.43
    },
    {
     "speaker": "Tom",
     "text": "For the first time, it's not only the State that has duties — it's private companies too.",
-    "t": 425
+    "t": 438.98
    },
    {
     "speaker": "Anna",
     "text": "Ah, so businesses now have to think about accessibility.",
-    "t": 430.42
+    "t": 444.4
    },
    {
     "speaker": "Tom",
     "text": "Yes. If you make or sell certain products and services, they have to be accessible.",
-    "t": 433.87
+    "t": 447.85
    },
    {
     "speaker": "Tom",
     "text": "Now — there's an exception for the very small businesses.",
-    "t": 438.57
+    "t": 452.55
    },
    {
     "speaker": "Tom",
     "text": "If a company has fewer than ten employees and a turnover under two million euros, the rules for services don't apply to it.",
-    "t": 442.68
+    "t": 456.66
    },
    {
     "speaker": "Tom",
     "text": "So the tiny shop on the corner isn't treated the same as a big bank.",
-    "t": 449.99
+    "t": 463.97
    },
    {
     "speaker": "Anna",
     "text": "That seems fair.",
-    "t": 453.85
+    "t": 467.83
    },
    {
     "speaker": "Anna",
     "text": "And who keeps an eye on all this?",
-    "t": 455.01
+    "t": 468.99
    },
    {
     "speaker": "Tom",
     "text": "There's a new office for exactly this.",
-    "t": 457
+    "t": 470.98
    },
    {
     "speaker": "Tom",
     "text": "In short it's called OSAPS — the office that watches over the accessibility of products and services.",
-    "t": 458.83
+    "t": 472.81
    },
    {
     "speaker": "Tom",
     "text": "It does two jobs.",
-    "t": 464.18
+    "t": 478.16
    },
    {
     "speaker": "Tom",
     "text": "It checks that products and services on the market follow the rules.",
-    "t": 465.58
+    "t": 479.56
    },
    {
     "speaker": "Tom",
     "text": "And it helps businesses — with guides, tools, and advice — to get it right.",
-    "t": 469.31
+    "t": 483.29
    },
    {
     "speaker": "Anna",
     "text": "So it's not only a police officer.",
-    "t": 473.98
+    "t": 487.96
    },
    {
     "speaker": "Anna",
     "text": "It's also a helper.",
-    "t": 476.08
+    "t": 490.06
    },
    {
     "speaker": "Tom",
     "text": "Both. Carrot and stick.",
-    "t": 477.68
+    "t": 491.66
    },
    {
     "speaker": "Tom",
     "text": "And here's the part for us, the citizens — if you find a product or a service that isn't accessible, you can report it.",
-    "t": 480.19
+    "t": 494.17
    },
    {
     "speaker": "Anna",
     "text": "How do I do that?",
-    "t": 486.53
+    "t": 500.51
    },
    {
     "speaker": "Tom",
     "text": "Online, through MyGuichet.lu — the State's digital platform.",
-    "t": 487.96
+    "t": 501.94
    },
    {
     "speaker": "Tom",
     "text": "And you can even do it without logging in, if you prefer.",
-    "t": 492.17
+    "t": 506.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Or by phone, or by email — or you can simply send a photo by WhatsApp, for example of a ticket machine that doesn't work for you.",
+    "t": 508.96
    },
    {
     "speaker": "Tom",
     "text": "So it's easy to raise your hand and say — this machine, this service, doesn't work for me.",
-    "t": 494.81
+    "t": 516.18
    },
    {
     "speaker": "Anna",
     "text": "I love that the three areas connect like that.",
-    "t": 500.32
+    "t": 522.65
    },
    {
     "speaker": "Anna",
     "text": "You report a faulty product through a public website... which itself has to be accessible... in a building that should also be accessible.",
-    "t": 503.01
+    "t": 525.34
    },
    {
     "speaker": "Tom",
     "text": "Exactly. It's one big circle.",
-    "t": 511.09
+    "t": 533.42
    },
    {
     "speaker": "Tom",
     "text": "Digital, infrastructure, products and services.",
-    "t": 513.15
+    "t": 535.48
    },
    {
     "speaker": "Tom",
     "text": "Three promises, one goal.",
-    "t": 515.7
+    "t": 538.03
    },
    {
     "speaker": "Anna",
     "text": "Let's make it really concrete, Tom.",
-    "t": 517.6
+    "t": 539.93
    },
    {
     "speaker": "Anna",
     "text": "Can we follow one person through a normal day?",
-    "t": 519.56
+    "t": 541.89
    },
    {
     "speaker": "Tom",
     "text": "Of course. Let's imagine someone — let's call her Maria.",
-    "t": 522.28
+    "t": 544.61
    },
    {
     "speaker": "Tom",
     "text": "Maria has low vision.",
-    "t": 525.24
+    "t": 547.57
    },
    {
     "speaker": "Tom",
     "text": "She doesn't see well.",
-    "t": 526.77
+    "t": 549.1
    },
    {
     "speaker": "Anna",
     "text": "Okay. Maria wakes up.",
-    "t": 528.05
+    "t": 550.38
    },
    {
     "speaker": "Anna",
     "text": "What's her day like, in a fully accessible Luxembourg?",
-    "t": 529.93
+    "t": 552.26
    },
    {
     "speaker": "Tom",
     "text": "She picks up her phone to check an official document.",
-    "t": 533.05
+    "t": 555.38
    },
    {
     "speaker": "Tom",
     "text": "The public website is built well — so her screen reader reads it out clearly.",
-    "t": 535.52
+    "t": 557.85
    },
    {
     "speaker": "Tom",
     "text": "That's the digital part.",
-    "t": 539.42
+    "t": 561.75
    },
    {
     "speaker": "Anna",
     "text": "Good. Then she goes out.",
-    "t": 540.96
+    "t": 563.29
    },
    {
     "speaker": "Tom",
     "text": "She walks to the commune office.",
-    "t": 542.52
+    "t": 564.85
    },
    {
     "speaker": "Tom",
     "text": "The street has guidance she can feel under her feet, the building has a clear entrance, and a lift inside.",
-    "t": 544.25
+    "t": 566.58
    },
    {
     "speaker": "Tom",
     "text": "That's the infrastructure part.",
-    "t": 550.12
+    "t": 572.45
    },
    {
     "speaker": "Anna",
     "text": "And then?",
-    "t": 551.84
+    "t": 574.17
    },
    {
     "speaker": "Tom",
     "text": "On the way home she stops at a ticket machine.",
-    "t": 552.86
+    "t": 575.19
    },
    {
     "speaker": "Tom",
     "text": "It speaks the instructions out loud, and the buttons are easy to feel.",
-    "t": 554.97
+    "t": 577.3
    },
    {
     "speaker": "Tom",
     "text": "That's the products and services part.",
-    "t": 558.78
+    "t": 581.11
    },
    {
     "speaker": "Tom",
     "text": "Maria gets through her whole day — on her own, with dignity.",
-    "t": 560.68
+    "t": 583.01
    },
    {
     "speaker": "Anna",
     "text": "Without needing to ask a stranger for help at every step.",
-    "t": 564.54
+    "t": 586.87
    },
    {
     "speaker": "Tom",
     "text": "That's the dream.",
-    "t": 567.75
+    "t": 590.08
    },
    {
     "speaker": "Tom",
     "text": "Independence and dignity.",
-    "t": 568.74
+    "t": 591.07
    },
    {
     "speaker": "Tom",
     "text": "And that's what these three laws are slowly building.",
-    "t": 570.54
+    "t": 592.87
    },
    {
     "speaker": "Anna",
     "text": "And honestly — this helps far more people than we think.",
-    "t": 573.5
+    "t": 595.83
    },
    {
     "speaker": "Anna",
     "text": "Not only people with a permanent disability.",
-    "t": 576.98
+    "t": 599.31
    },
    {
     "speaker": "Tom",
     "text": "So true. Think of a parent pushing a pram — they love a ramp too.",
-    "t": 579.73
+    "t": 602.06
    },
    {
     "speaker": "Tom",
     "text": "Think of someone with a heavy suitcase, or a broken arm.",
-    "t": 583.98
+    "t": 606.31
    },
    {
     "speaker": "Tom",
     "text": "Think of an older person whose eyes and ears are getting tired.",
-    "t": 587.28
+    "t": 609.61
    },
    {
     "speaker": "Tom",
     "text": "Accessibility helps everyone, at some point in life.",
-    "t": 590.68
+    "t": 613.01
    },
    {
     "speaker": "Anna",
     "text": "It's the classic idea — design for the people who need it most, and you make life better for absolutely everyone.",
-    "t": 593.96
+    "t": 616.29
    },
    {
     "speaker": "Tom",
     "text": "Exactly. A curb ramp was made for wheelchairs — but the whole town uses it.",
-    "t": 601.18
+    "t": 623.51
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom — let's bring it home.",
-    "t": 605.64
+    "t": 627.97
    },
    {
     "speaker": "Anna",
     "text": "If I'm listening, what should I remember, and what can I do?",
-    "t": 607.87
+    "t": 630.2
    },
    {
     "speaker": "Tom",
     "text": "Three simple things.",
-    "t": 611.17
+    "t": 633.5
    },
    {
     "speaker": "Tom",
     "text": "First — remember the website.",
-    "t": 612.38
+    "t": 634.71
    },
    {
     "speaker": "Tom",
     "text": "accessibilite dot l-u.",
-    "t": 613.91
+    "t": 636.24
    },
    {
     "speaker": "Tom",
     "text": "It's the official front door to all three areas.",
-    "t": 615.81
+    "t": 638.14
    },
    {
     "speaker": "Anna",
     "text": "accessibilite.lu. Got it.",
-    "t": 618.55
+    "t": 640.88
    },
    {
     "speaker": "Tom",
     "text": "Second — if a public website blocks you, you have the right to complain, and to get an answer.",
-    "t": 621.02
+    "t": 643.35
    },
    {
     "speaker": "Tom",
     "text": "Don't just give up — report it.",
-    "t": 626.71
+    "t": 649.04
    },
    {
     "speaker": "Anna",
     "text": "And third?",
-    "t": 628.91
+    "t": 651.24
    },
    {
     "speaker": "Tom",
     "text": "Third — if a product or a service isn't accessible, you can report that too, through MyGuichet.lu.",
-    "t": 630.08
+    "t": 652.41
    },
    {
     "speaker": "Tom",
     "text": "Your voice helps make things better, for you and for the next person.",
-    "t": 636.42
+    "t": 658.75
    },
    {
     "speaker": "Anna",
     "text": "And if you're a professional — an architect, a business owner, a website manager?",
-    "t": 640.33
+    "t": 662.66
    },
    {
     "speaker": "Tom",
     "text": "Then the website is for you in a different way.",
-    "t": 645.11
+    "t": 667.44
    },
    {
     "speaker": "Tom",
     "text": "It has the laws, the standards, the toolboxes — everything you need to do your part.",
-    "t": 647.32
+    "t": 669.65
    },
    {
     "speaker": "Tom",
     "text": "Because accessibility isn't a favour.",
-    "t": 652.44
+    "t": 674.77
    },
    {
     "speaker": "Tom",
     "text": "It's becoming the normal way to do things.",
-    "t": 654.43
+    "t": 676.76
    },
    {
     "speaker": "Anna",
     "text": "A short summary to finish?",
-    "t": 656.94
+    "t": 679.27
    },
    {
     "speaker": "Tom",
     "text": "Sure. Luxembourg has one official hub — accessibilite.lu — for three areas of accessibility.",
-    "t": 658.74
+    "t": 681.07
    },
    {
     "speaker": "Tom",
     "text": "Digital, with the law of 2019, for public websites and apps.",
-    "t": 666.11
+    "t": 688.44
    },
    {
     "speaker": "Tom",
     "text": "Infrastructure, with the law of 2022, for accessible buildings, streets, and housing, built on universal design, with a deadline of 2032 for existing public places.",
-    "t": 670.04
+    "t": 692.37
    },
    {
     "speaker": "Tom",
     "text": "And products and services, the newest, from the European Accessibility Act, applying since June 2025, watched over by the OSAPS office — with private companies now involved too.",
-    "t": 681.21
+    "t": 703.54
    },
    {
     "speaker": "Anna",
     "text": "And the message for today?",
-    "t": 692.6
+    "t": 714.93
    },
    {
     "speaker": "Tom",
     "text": "Accessibility isn't only for \"other people\".",
-    "t": 694.3
+    "t": 716.63
    },
    {
     "speaker": "Tom",
     "text": "It's for all of us — today, or tomorrow.",
-    "t": 696.47
+    "t": 718.8
    },
    {
     "speaker": "Tom",
     "text": "A world built for everyone is simply a better world to live in.",
-    "t": 699.6
+    "t": 721.93
    },
    {
     "speaker": "Anna",
     "text": "So... whether you're a citizen who hits a barrier, or a professional who builds things — remember the front door.",
-    "t": 703.14
+    "t": 725.47
    },
    {
     "speaker": "Anna",
     "text": "accessibilite.lu.",
-    "t": 710.09
+    "t": 732.42
    },
    {
     "speaker": "Tom",
     "text": "One website, three promises, and a country slowly opening every door.",
-    "t": 712.48
+    "t": 734.81
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about accessibility.",
-    "t": 716.25
+    "t": 738.58
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 718.65
+    "t": 740.98
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 728.67
+    "t": 751
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 746.44
+    "t": 768.77
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 753.19
+    "t": 775.52
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 755.39
+    "t": 777.72
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 760.08
+    "t": 782.41
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 761.16
+    "t": 783.49
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 763.28
+    "t": 785.61
    }
   ],
   "questions": [
@@ -31211,823 +31216,828 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Chaque site doit vous donner un moyen de signaler un obstacle.",
-    "t": 222.01
+    "text": "D'abord, vous contactez l'organisme, avec les coordonnées indiquées dans sa déclaration d'accessibilité.",
+    "t": 222.04
    },
    {
     "speaker": "Tom",
-    "text": "Ils doivent vous répondre, normalement dans un délai d'un mois.",
-    "t": 225.05
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et si vous n'êtes pas satisfait, vous pouvez vous tourner vers le service information de l'État, ou même vers l'ombudsman — le médiateur.",
-    "t": 228.09
+    "text": "Si ça n'aide pas, vous pouvez vous tourner vers le Service information et presse de l'État, le SIP, qui contrôle l'accessibilité et répond dans un délai d'un mois — ou vers l'ombudsman, le médiateur.",
+    "t": 227.2
    },
    {
     "speaker": "Anna",
     "text": "Donc vous n'êtes pas impuissant.",
-    "t": 234.62
+    "t": 238.58
    },
    {
     "speaker": "Anna",
     "text": "Si un site public vous bloque, il y a une porte à laquelle frapper.",
-    "t": 236.08
+    "t": 240.04
    },
    {
     "speaker": "Tom",
     "text": "Toujours. C'est tout l'intérêt.",
-    "t": 239.09
+    "t": 243.05
    },
    {
     "speaker": "Tom",
     "text": "Bon — on passe au deuxième domaine ?",
-    "t": 241.01
+    "t": 244.97
    },
    {
     "speaker": "Anna",
     "text": "Oui, s'il te plaît.",
-    "t": 242.69
+    "t": 246.65
    },
    {
     "speaker": "Anna",
     "text": "On a fait le monde numérique.",
-    "t": 243.85
+    "t": 247.81
    },
    {
     "speaker": "Anna",
     "text": "C'est quoi la suite ?",
-    "t": 245.32
+    "t": 249.28
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième domaine, c'est l'infrastructure.",
-    "t": 246.59
+    "t": 250.55
    },
    {
     "speaker": "Tom",
     "text": "Ça concerne le monde physique — les bâtiments, les espaces publics et les rues.",
-    "t": 248.78
+    "t": 252.74
    },
    {
     "speaker": "Anna",
     "text": "Ah, le monde en béton.",
-    "t": 252.9
+    "t": 256.86
    },
    {
     "speaker": "Anna",
     "text": "Les rampes, les portes, les ascenseurs.",
-    "t": 254.34
+    "t": 258.3
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Pouvez-vous entrer dans le bâtiment ?",
-    "t": 256.8
+    "t": 260.76
    },
    {
     "speaker": "Tom",
     "text": "Y a-t-il une rampe en plus des marches ?",
-    "t": 259.4
+    "t": 263.36
    },
    {
     "speaker": "Tom",
     "text": "La porte est-elle assez large pour un fauteuil roulant ?",
-    "t": 261.34
+    "t": 265.3
    },
    {
     "speaker": "Tom",
     "text": "Y a-t-il un ascenseur ?",
-    "t": 263.85
+    "t": 267.81
    },
    {
     "speaker": "Tom",
     "text": "Y a-t-il des choses pour aider une personne aveugle à trouver son chemin ?",
-    "t": 265.28
+    "t": 269.24
    },
    {
     "speaker": "Anna",
     "text": "Et y a-t-il une loi pour ça aussi ?",
-    "t": 268.75
+    "t": 272.71
    },
    {
     "speaker": "Tom",
     "text": "Il y en a une.",
-    "t": 270.72
+    "t": 274.68
    },
    {
     "speaker": "Tom",
     "text": "C'est la loi du 7 janvier 2022, et elle est entrée en vigueur le 1er juillet 2023.",
-    "t": 271.87
+    "t": 275.83
    },
    {
     "speaker": "Tom",
     "text": "Et elle repose sur une belle idée appelée la conception universelle.",
-    "t": 277.12
+    "t": 281.08
    },
    {
     "speaker": "Anna",
     "text": "La conception universelle.",
-    "t": 280.79
+    "t": 284.75
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que ça veut dire ?",
-    "t": 282.45
+    "t": 286.41
    },
    {
     "speaker": "Tom",
     "text": "Ça veut dire concevoir un lieu, dès le tout début, pour que tout le monde puisse l'utiliser.",
-    "t": 283.83
+    "t": 287.79
    },
    {
     "speaker": "Tom",
     "text": "Pas une entrée latérale spéciale pour certains, et l'entrée principale pour les autres.",
-    "t": 288.45
+    "t": 292.41
    },
    {
     "speaker": "Tom",
     "text": "Un seul lieu, qui fonctionne pour tous.",
-    "t": 292.77
+    "t": 296.73
    },
    {
     "speaker": "Anna",
     "text": "Donc au lieu de construire un obstacle et de le corriger plus tard...",
-    "t": 295.16
+    "t": 299.12
    },
    {
     "speaker": "Tom",
     "text": "...on le construit bien du premier coup.",
-    "t": 298.13
+    "t": 302.09
    },
    {
     "speaker": "Tom",
     "text": "Et voici l'astuce — en réalité, ça coûte moins cher.",
-    "t": 300.01
+    "t": 303.97
    },
    {
     "speaker": "Tom",
     "text": "Les Nations Unies le disent : si vous concevez pour tout le monde dès le départ, ça coûte bien moins cher que de retirer des obstacles d'un bâtiment déjà terminé.",
-    "t": 303.01
+    "t": 306.97
    },
    {
     "speaker": "Anna",
     "text": "C'est tout à fait logique.",
-    "t": 311.51
+    "t": 315.47
    },
    {
     "speaker": "Anna",
     "text": "C'est plus difficile et plus cher d'ajouter un ascenseur à un vieux bâtiment que de le prévoir dès le premier jour.",
-    "t": 312.86
+    "t": 316.82
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et la nouvelle loi va plus loin que l'ancienne.",
-    "t": 317.57
+    "t": 321.53
    },
    {
     "speaker": "Tom",
     "text": "Elle ne concerne pas seulement les bâtiments publics.",
-    "t": 320.8
+    "t": 324.76
    },
    {
     "speaker": "Tom",
-    "text": "Elle couvre aussi la voirie publique, et le logement collectif — les immeubles avec beaucoup d'habitations à l'intérieur.",
-    "t": 323.32
+    "text": "Elle couvre aussi la voirie publique, et le logement collectif — dans les nouveaux immeubles d'habitation, un logement sur dix doit être accessible.",
+    "t": 327.38
    },
    {
     "speaker": "Anna",
     "text": "Et pour les bâtiments qui existent déjà ?",
-    "t": 329.47
+    "t": 335.32
    },
    {
     "speaker": "Anna",
     "text": "On ne peut pas tout reconstruire du jour au lendemain.",
-    "t": 331.5
+    "t": 337.35
    },
    {
     "speaker": "Tom",
     "text": "Non, et la loi est réaliste.",
-    "t": 333.8
+    "t": 339.65
    },
    {
     "speaker": "Tom",
     "text": "Les nouveaux bâtiments et les grandes rénovations doivent respecter les règles dès maintenant.",
-    "t": 335.85
+    "t": 341.7
    },
    {
     "speaker": "Tom",
     "text": "Mais pour les lieux qui existent déjà et qui sont ouverts au public, il y a une échéance pour devenir accessibles — le 1er janvier 2032.",
-    "t": 339.95
+    "t": 345.8
    },
    {
     "speaker": "Anna",
     "text": "Donc il y a du temps, mais il y a aussi un objectif clair.",
-    "t": 347.81
+    "t": 353.66
    },
    {
     "speaker": "Anna",
     "text": "Bien. Et qui peut aider avec tout ça — pour quelqu'un qui construit ou qui rénove ?",
-    "t": 350.69
+    "t": 356.54
    },
    {
     "speaker": "Tom",
     "text": "Le portail infrastructure sur accessibilite.lu contient les règles, les procédures et une boîte à outils.",
-    "t": 354.67
+    "t": 360.52
    },
    {
     "speaker": "Tom",
     "text": "Comme ça, un architecte, une commune ou un propriétaire peut trouver ce qu'il faut faire pour bien s'y prendre.",
-    "t": 360.87
+    "t": 366.72
    },
    {
     "speaker": "Tom",
     "text": "Et il y a une aide financière : l'État peut payer la moitié du coût des travaux, jusqu'à vingt-quatre mille euros par lieu — si vous faites la demande avant juillet 2028.",
-    "t": 366.67
+    "t": 372.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les plans doivent d'abord passer un contrôle de conformité, et les travaux doivent être terminés avant juillet 2031.",
+    "t": 381.74
    },
    {
     "speaker": "Anna",
     "text": "Super. D'accord, Tom — on a fait le numérique et l'infrastructure.",
-    "t": 375.8
+    "t": 388.26
    },
    {
     "speaker": "Anna",
     "text": "Quel est le troisième domaine ?",
-    "t": 379.06
+    "t": 391.52
    },
    {
     "speaker": "Tom",
     "text": "Le troisième est le plus récent, et peut-être le plus surprenant.",
-    "t": 380.67
+    "t": 393.13
    },
    {
     "speaker": "Tom",
     "text": "C'est l'accessibilité des produits et des services.",
-    "t": 383.96
+    "t": 396.42
    },
    {
     "speaker": "Anna",
     "text": "Les produits et les services.",
-    "t": 386.95
+    "t": 399.41
    },
    {
     "speaker": "Anna",
     "text": "Là, ça paraît très large.",
-    "t": 388.58
+    "t": 401.04
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que ça comprend ?",
-    "t": 389.96
+    "t": 402.42
    },
    {
     "speaker": "Tom",
     "text": "Beaucoup de choses du quotidien.",
-    "t": 391.33
+    "t": 403.79
    },
    {
     "speaker": "Tom",
     "text": "Pensez à un distributeur de billets — un guichet automatique.",
-    "t": 393.06
+    "t": 405.52
    },
    {
     "speaker": "Tom",
     "text": "Une borne de tickets à la gare.",
-    "t": 396.42
+    "t": 408.88
    },
    {
     "speaker": "Tom",
     "text": "Une boutique en ligne.",
-    "t": 398.31
+    "t": 410.77
    },
    {
     "speaker": "Tom",
     "text": "Une application bancaire.",
-    "t": 399.6
+    "t": 412.06
    },
    {
     "speaker": "Tom",
     "text": "Un livre numérique.",
-    "t": 401.19
+    "t": 413.65
    },
    {
     "speaker": "Tom",
     "text": "Les smartphones et les ordinateurs.",
-    "t": 402.49
+    "t": 414.95
    },
    {
     "speaker": "Tom",
     "text": "Ce sont les produits et services qu'on utilise tous, tout le temps.",
-    "t": 404.54
+    "t": 417
    },
    {
     "speaker": "Anna",
     "text": "Et l'idée, c'est qu'ils devraient aussi fonctionner pour les personnes en situation de handicap.",
-    "t": 408.04
+    "t": 420.5
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Ça vient d'une loi européenne — on l'appelle l'Acte européen sur l'accessibilité.",
-    "t": 412.31
+    "t": 424.77
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg l'a transposé en droit national avec la loi du 8 mars 2023.",
-    "t": 417.71
+    "t": 430.17
    },
    {
     "speaker": "Tom",
     "text": "Et elle a commencé à s'appliquer le 28 juin 2025.",
-    "t": 422.12
+    "t": 434.58
    },
    {
     "speaker": "Anna",
     "text": "Donc celle-là est très récente — elle vient pratiquement de commencer.",
-    "t": 425.38
+    "t": 437.84
    },
    {
     "speaker": "Tom",
     "text": "Elle vient de commencer.",
-    "t": 428.76
+    "t": 441.22
    },
    {
     "speaker": "Tom",
     "text": "Et c'est un vrai changement.",
-    "t": 430.24
+    "t": 442.7
    },
    {
     "speaker": "Tom",
     "text": "Pour la première fois, ce n'est pas seulement l'État qui a des obligations — ce sont aussi les entreprises privées.",
-    "t": 431.73
+    "t": 444.19
    },
    {
     "speaker": "Anna",
     "text": "Ah, donc les entreprises doivent maintenant penser à l'accessibilité.",
-    "t": 437.3
+    "t": 449.76
    },
    {
     "speaker": "Tom",
     "text": "Oui. Si vous fabriquez ou vendez certains produits et services, ils doivent être accessibles.",
-    "t": 440.73
+    "t": 453.19
    },
    {
     "speaker": "Tom",
     "text": "Maintenant — il y a une exception pour les toutes petites entreprises.",
-    "t": 445.06
+    "t": 457.52
    },
    {
     "speaker": "Tom",
     "text": "Si une entreprise a moins de dix salariés et un chiffre d'affaires de moins de deux millions d'euros, les règles sur les services ne s'appliquent pas à elle.",
-    "t": 448.57
+    "t": 461.03
    },
    {
     "speaker": "Tom",
     "text": "Donc la petite boutique du coin n'est pas traitée comme une grande banque.",
-    "t": 456.37
+    "t": 468.83
    },
    {
     "speaker": "Anna",
     "text": "Ça paraît juste.",
-    "t": 460.11
+    "t": 472.57
    },
    {
     "speaker": "Anna",
     "text": "Et qui surveille tout ça ?",
-    "t": 461.3
+    "t": 473.76
    },
    {
     "speaker": "Tom",
     "text": "Il y a un nouvel office précisément pour ça.",
-    "t": 462.76
+    "t": 475.22
    },
    {
     "speaker": "Tom",
     "text": "En bref, on l'appelle OSAPS — l'office qui veille sur l'accessibilité des produits et des services.",
-    "t": 465.18
+    "t": 477.64
    },
    {
     "speaker": "Tom",
     "text": "Il fait deux choses.",
-    "t": 470.43
+    "t": 482.89
    },
    {
     "speaker": "Tom",
     "text": "Il vérifie que les produits et services sur le marché respectent les règles.",
-    "t": 471.69
+    "t": 484.15
    },
    {
     "speaker": "Tom",
     "text": "Et il aide les entreprises — avec des guides, des outils et des conseils — à bien faire.",
-    "t": 475.37
+    "t": 487.83
    },
    {
     "speaker": "Anna",
     "text": "Donc ce n'est pas seulement un policier.",
-    "t": 480.61
+    "t": 493.07
    },
    {
     "speaker": "Anna",
     "text": "C'est aussi un aide.",
-    "t": 482.4
+    "t": 494.86
    },
    {
     "speaker": "Tom",
     "text": "Les deux. La carotte et le bâton.",
-    "t": 483.76
+    "t": 496.22
    },
    {
     "speaker": "Tom",
     "text": "Et voici la partie qui nous concerne, nous les citoyens — si vous trouvez un produit ou un service qui n'est pas accessible, vous pouvez le signaler.",
-    "t": 485.98
+    "t": 498.44
    },
    {
     "speaker": "Anna",
     "text": "Comment je fais ça ?",
-    "t": 493.66
+    "t": 506.12
    },
    {
     "speaker": "Tom",
     "text": "En ligne, via MyGuichet.lu — la plateforme numérique de l'État.",
-    "t": 494.94
+    "t": 507.4
    },
    {
     "speaker": "Tom",
     "text": "Et vous pouvez même le faire sans vous connecter, si vous préférez.",
-    "t": 499.42
+    "t": 511.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ou par téléphone, ou par e-mail — ou vous pouvez simplement envoyer une photo par WhatsApp, par exemple d'un distributeur de billets qui ne fonctionne pas pour vous.",
+    "t": 514.98
    },
    {
     "speaker": "Tom",
     "text": "Donc c'est facile de lever la main et de dire — cette machine, ce service, ne fonctionne pas pour moi.",
-    "t": 502.35
+    "t": 523.22
    },
    {
     "speaker": "Anna",
     "text": "J'adore que les trois domaines se relient comme ça.",
-    "t": 507.66
+    "t": 528.97
    },
    {
     "speaker": "Anna",
     "text": "On signale un produit défectueux via un site public... qui doit lui-même être accessible... dans un bâtiment qui devrait aussi être accessible.",
-    "t": 509.9
+    "t": 531.21
    },
    {
     "speaker": "Tom",
     "text": "Exactement. C'est un grand cercle.",
-    "t": 517.67
+    "t": 538.98
    },
    {
     "speaker": "Tom",
     "text": "Le numérique, l'infrastructure, les produits et services.",
-    "t": 519.97
+    "t": 541.28
    },
    {
     "speaker": "Tom",
     "text": "Trois promesses, un seul but.",
-    "t": 523.35
+    "t": 544.66
    },
    {
     "speaker": "Anna",
     "text": "Rendons ça vraiment concret, Tom.",
-    "t": 525.25
+    "t": 546.56
    },
    {
     "speaker": "Anna",
     "text": "Peut-on suivre une personne tout au long d'une journée normale ?",
-    "t": 526.96
+    "t": 548.27
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Imaginons quelqu'un — appelons-la Maria.",
-    "t": 529.68
+    "t": 550.99
    },
    {
     "speaker": "Tom",
     "text": "Maria a une basse vision.",
-    "t": 533.14
+    "t": 554.45
    },
    {
     "speaker": "Tom",
     "text": "Elle voit mal.",
-    "t": 534.81
+    "t": 556.12
    },
    {
     "speaker": "Anna",
     "text": "D'accord. Maria se réveille.",
-    "t": 536.04
+    "t": 557.35
    },
    {
     "speaker": "Anna",
     "text": "À quoi ressemble sa journée, dans un Luxembourg pleinement accessible ?",
-    "t": 538.65
+    "t": 559.96
    },
    {
     "speaker": "Tom",
     "text": "Elle prend son téléphone pour consulter un document officiel.",
-    "t": 542.05
+    "t": 563.36
    },
    {
     "speaker": "Tom",
     "text": "Le site public est bien construit — donc son lecteur d'écran le lit clairement.",
-    "t": 545.03
+    "t": 566.34
    },
    {
     "speaker": "Tom",
     "text": "C'est la partie numérique.",
-    "t": 549.01
+    "t": 570.32
    },
    {
     "speaker": "Anna",
     "text": "Bien. Ensuite elle sort.",
-    "t": 550.56
+    "t": 571.87
    },
    {
     "speaker": "Tom",
     "text": "Elle marche jusqu'au bureau de la commune.",
-    "t": 551.87
+    "t": 573.18
    },
    {
     "speaker": "Tom",
     "text": "La rue a un guidage qu'elle peut sentir sous ses pieds, le bâtiment a une entrée claire, et un ascenseur à l'intérieur.",
-    "t": 554.07
+    "t": 575.38
    },
    {
     "speaker": "Tom",
     "text": "C'est la partie infrastructure.",
-    "t": 560.27
+    "t": 581.58
    },
    {
     "speaker": "Anna",
     "text": "Et ensuite ?",
-    "t": 562.14
+    "t": 583.45
    },
    {
     "speaker": "Tom",
     "text": "Sur le chemin du retour, elle s'arrête à une borne de tickets.",
-    "t": 563.22
+    "t": 584.53
    },
    {
     "speaker": "Tom",
     "text": "Elle dit les instructions à voix haute, et les boutons sont faciles à sentir.",
-    "t": 566.43
+    "t": 587.74
    },
    {
     "speaker": "Tom",
     "text": "C'est la partie produits et services.",
-    "t": 570.14
+    "t": 591.45
    },
    {
     "speaker": "Tom",
     "text": "Maria traverse toute sa journée — seule, avec dignité.",
-    "t": 572.39
+    "t": 593.7
    },
    {
     "speaker": "Anna",
     "text": "Sans avoir besoin de demander de l'aide à un inconnu à chaque étape.",
-    "t": 576.33
+    "t": 597.64
    },
    {
     "speaker": "Tom",
     "text": "C'est ça le rêve.",
-    "t": 579.58
+    "t": 600.89
    },
    {
     "speaker": "Tom",
     "text": "L'indépendance et la dignité.",
-    "t": 580.78
+    "t": 602.09
    },
    {
     "speaker": "Tom",
     "text": "Et c'est ce que ces trois lois construisent peu à peu.",
-    "t": 583.02
+    "t": 604.33
    },
    {
     "speaker": "Anna",
     "text": "Et honnêtement — ça aide bien plus de gens qu'on ne le pense.",
-    "t": 585.85
+    "t": 607.16
    },
    {
     "speaker": "Anna",
     "text": "Pas seulement les personnes avec un handicap permanent.",
-    "t": 588.88
+    "t": 610.19
    },
    {
     "speaker": "Tom",
     "text": "Tellement vrai. Pensez à un parent qui pousse une poussette — il adore une rampe lui aussi.",
-    "t": 591.49
+    "t": 612.8
    },
    {
     "speaker": "Tom",
     "text": "Pensez à quelqu'un avec une lourde valise, ou un bras cassé.",
-    "t": 596.71
+    "t": 618.02
    },
    {
     "speaker": "Tom",
     "text": "Pensez à une personne âgée dont les yeux et les oreilles se fatiguent.",
-    "t": 599.82
+    "t": 621.13
    },
    {
     "speaker": "Tom",
     "text": "L'accessibilité aide tout le monde, à un moment de la vie.",
-    "t": 603.41
+    "t": 624.72
    },
    {
     "speaker": "Anna",
     "text": "C'est l'idée classique — concevez pour les personnes qui en ont le plus besoin, et vous rendez la vie meilleure pour absolument tout le monde.",
-    "t": 606.97
+    "t": 628.28
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Une bordure abaissée a été pensée pour les fauteuils roulants — mais toute la ville l'utilise.",
-    "t": 613.05
+    "t": 634.36
    },
    {
     "speaker": "Anna",
     "text": "D'accord, Tom — concluons.",
-    "t": 618.72
+    "t": 640.03
    },
    {
     "speaker": "Anna",
     "text": "Si je suis à l'écoute, que devrais-je retenir, et que puis-je faire ?",
-    "t": 620.61
+    "t": 641.92
    },
    {
     "speaker": "Tom",
     "text": "Trois choses simples.",
-    "t": 624
+    "t": 645.31
    },
    {
     "speaker": "Tom",
     "text": "D'abord — souvenez-vous du site.",
-    "t": 625.52
+    "t": 646.83
    },
    {
     "speaker": "Tom",
     "text": "accessibilite point l-u.",
-    "t": 627.48
+    "t": 648.79
    },
    {
     "speaker": "Tom",
     "text": "C'est la porte d'entrée officielle vers les trois domaines.",
-    "t": 629.66
+    "t": 650.97
    },
    {
     "speaker": "Anna",
     "text": "accessibilite.lu. Compris.",
-    "t": 632.66
+    "t": 653.97
    },
    {
     "speaker": "Tom",
     "text": "Ensuite — si un site public vous bloque, vous avez le droit de vous plaindre, et d'obtenir une réponse.",
-    "t": 634.86
+    "t": 656.17
    },
    {
     "speaker": "Tom",
     "text": "N'abandonnez pas — signalez-le.",
-    "t": 640.2
+    "t": 661.51
    },
    {
     "speaker": "Anna",
     "text": "Et troisièmement ?",
-    "t": 642.57
+    "t": 663.88
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement — si un produit ou un service n'est pas accessible, vous pouvez aussi le signaler, via MyGuichet.lu.",
-    "t": 643.85
+    "t": 665.16
    },
    {
     "speaker": "Tom",
     "text": "Votre voix aide à améliorer les choses, pour vous et pour la personne suivante.",
-    "t": 650.48
+    "t": 671.79
    },
    {
     "speaker": "Anna",
     "text": "Et si vous êtes un professionnel — un architecte, un chef d'entreprise, un gestionnaire de site internet ?",
-    "t": 654.96
+    "t": 676.27
    },
    {
     "speaker": "Tom",
     "text": "Alors le site est fait pour vous d'une autre manière.",
-    "t": 660.23
+    "t": 681.54
    },
    {
     "speaker": "Tom",
     "text": "Il contient les lois, les normes, les boîtes à outils — tout ce qu'il vous faut pour jouer votre rôle.",
-    "t": 662.86
+    "t": 684.17
    },
    {
     "speaker": "Tom",
     "text": "Parce que l'accessibilité n'est pas une faveur.",
-    "t": 668.51
+    "t": 689.82
    },
    {
     "speaker": "Tom",
     "text": "C'est en train de devenir la façon normale de faire les choses.",
-    "t": 670.92
+    "t": 692.23
    },
    {
     "speaker": "Anna",
     "text": "Un petit résumé pour finir ?",
-    "t": 674.17
+    "t": 695.48
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Le Luxembourg a un seul portail officiel — accessibilite.lu — pour trois domaines de l'accessibilité.",
-    "t": 675.83
+    "t": 697.14
    },
    {
     "speaker": "Tom",
     "text": "Le numérique, avec la loi de 2019, pour les sites et applications publics.",
-    "t": 682.89
+    "t": 704.2
    },
    {
     "speaker": "Tom",
     "text": "L'infrastructure, avec la loi de 2022, pour des bâtiments, des rues et des logements accessibles, fondée sur la conception universelle, avec une échéance en 2032 pour les lieux publics existants.",
-    "t": 687.48
+    "t": 708.79
    },
    {
     "speaker": "Tom",
     "text": "Et les produits et services, le plus récent, issu de l'Acte européen sur l'accessibilité, applicable depuis juin 2025, surveillé par l'office OSAPS — avec les entreprises privées désormais impliquées aussi.",
-    "t": 699.3
+    "t": 720.61
    },
    {
     "speaker": "Anna",
     "text": "Et le message d'aujourd'hui ?",
-    "t": 711.3
+    "t": 732.61
    },
    {
     "speaker": "Tom",
     "text": "L'accessibilité, ce n'est pas seulement pour « les autres ».",
-    "t": 712.81
+    "t": 734.12
    },
    {
     "speaker": "Tom",
     "text": "C'est pour nous tous — aujourd'hui, ou demain.",
-    "t": 715.73
+    "t": 737.04
    },
    {
     "speaker": "Tom",
     "text": "Un monde construit pour tout le monde est tout simplement un monde meilleur à vivre.",
-    "t": 718.28
+    "t": 739.59
    },
    {
     "speaker": "Anna",
     "text": "Alors... que vous soyez un citoyen qui rencontre un obstacle, ou un professionnel qui construit des choses — souvenez-vous de la porte d'entrée.",
-    "t": 722.56
+    "t": 743.87
    },
    {
     "speaker": "Anna",
     "text": "accessibilite.lu.",
-    "t": 728.34
+    "t": 749.65
    },
    {
     "speaker": "Tom",
     "text": "Un seul site, trois promesses, et un pays qui ouvre peu à peu chaque porte.",
-    "t": 730.31
+    "t": 751.62
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'accessibilité.",
-    "t": 734.98
+    "t": 756.29
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 737.13
+    "t": 758.44
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 745.2
+    "t": 766.51
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 761.05
+    "t": 782.36
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 765.7
+    "t": 787.01
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 767.48
+    "t": 788.79
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 771.86
+    "t": 793.17
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 773.09
+    "t": 794.4
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 775.55
+    "t": 796.86
    }
   ],
   "segments_de": [
@@ -32328,803 +32338,808 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Jede Seite muss Ihnen eine Möglichkeit geben, ein Hindernis zu melden.",
-    "t": 254.14
+    "text": "Zuerst wenden Sie sich an die Stelle selbst, mit den Kontaktdaten aus ihrer Barrierefreiheitserklärung.",
+    "t": 253.69
    },
    {
     "speaker": "Tom",
-    "text": "Sie müssen Ihnen antworten, normalerweise innerhalb eines Monats.",
-    "t": 257.9
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und wenn Sie nicht zufrieden sind, können Sie sich an den Informationsdienst des Staates wenden, oder sogar an den Ombudsmann — den Mediateur.",
-    "t": 261.65
+    "text": "Wenn das nicht hilft, können Sie sich an den Informations- und Pressedienst des Staates wenden, den SIP, der die Barrierefreiheit kontrolliert und innerhalb eines Monats antwortet — oder an den Ombudsmann, den Mediateur.",
+    "t": 259.54
    },
    {
     "speaker": "Anna",
     "text": "Sie sind also nicht machtlos.",
-    "t": 269.65
+    "t": 273.33
    },
    {
     "speaker": "Anna",
     "text": "Wenn eine öffentliche Website Sie blockiert, gibt es eine Tür, an die Sie klopfen können.",
-    "t": 271.45
+    "t": 275.13
    },
    {
     "speaker": "Tom",
     "text": "Immer. Genau darum geht es.",
-    "t": 275.92
+    "t": 279.6
    },
    {
     "speaker": "Tom",
     "text": "Also — gehen wir zum zweiten Bereich?",
-    "t": 277.31
+    "t": 280.99
    },
    {
     "speaker": "Anna",
     "text": "Ja, bitte. Die digitale Welt haben wir geschafft.",
-    "t": 279.81
+    "t": 283.49
    },
    {
     "speaker": "Anna",
     "text": "Was kommt als Nächstes?",
-    "t": 283.22
+    "t": 286.9
    },
    {
     "speaker": "Tom",
     "text": "Der zweite Bereich ist die Infrastruktur.",
-    "t": 284.92
+    "t": 288.6
    },
    {
     "speaker": "Tom",
     "text": "Das betrifft die physische Welt — Gebäude, öffentliche Räume und Straßen.",
-    "t": 287.52
+    "t": 291.2
    },
    {
     "speaker": "Anna",
     "text": "Ah, die Welt aus Beton.",
-    "t": 292.03
+    "t": 295.71
    },
    {
     "speaker": "Anna",
     "text": "Rampen, Türen, Aufzüge.",
-    "t": 293.76
+    "t": 297.44
    },
    {
     "speaker": "Tom",
     "text": "Genau. Kommen Sie in das Gebäude hinein?",
-    "t": 295.84
+    "t": 299.52
    },
    {
     "speaker": "Tom",
     "text": "Gibt es eine Rampe zusätzlich zu den Stufen?",
-    "t": 298.93
+    "t": 302.61
    },
    {
     "speaker": "Tom",
     "text": "Ist die Tür breit genug für einen Rollstuhl?",
-    "t": 301.51
+    "t": 305.19
    },
    {
     "speaker": "Tom",
     "text": "Gibt es einen Aufzug?",
-    "t": 303.84
+    "t": 307.52
    },
    {
     "speaker": "Tom",
     "text": "Gibt es Dinge, die einer blinden Person helfen, ihren Weg zu finden?",
-    "t": 305.3
+    "t": 308.98
    },
    {
     "speaker": "Anna",
     "text": "Und gibt es auch dafür ein Gesetz?",
-    "t": 309.21
+    "t": 312.89
    },
    {
     "speaker": "Tom",
     "text": "Das gibt es.",
-    "t": 311.38
+    "t": 315.06
    },
    {
     "speaker": "Tom",
     "text": "Es ist das Gesetz vom 7. Januar 2022, und es ist am 1. Juli 2023 in Kraft getreten.",
-    "t": 312.45
+    "t": 316.13
    },
    {
     "speaker": "Tom",
     "text": "Und es beruht auf einer schönen Idee namens universelles Design.",
-    "t": 320.48
+    "t": 324.16
    },
    {
     "speaker": "Anna",
     "text": "Universelles Design. Was bedeutet das?",
-    "t": 324.38
+    "t": 328.06
    },
    {
     "speaker": "Tom",
     "text": "Es bedeutet, einen Ort von Anfang an so zu gestalten, dass ihn jeder benutzen kann.",
-    "t": 327.56
+    "t": 331.24
    },
    {
     "speaker": "Tom",
     "text": "Kein spezieller Seiteneingang für manche Menschen, und der Haupteingang für die anderen.",
-    "t": 332.18
+    "t": 335.86
    },
    {
     "speaker": "Tom",
     "text": "Ein Ort, der für alle funktioniert.",
-    "t": 337.01
+    "t": 340.69
    },
    {
     "speaker": "Anna",
     "text": "Also statt ein Hindernis zu bauen und es später zu beheben...",
-    "t": 339.1
+    "t": 342.78
    },
    {
     "speaker": "Tom",
     "text": "...baut man es gleich beim ersten Mal richtig.",
-    "t": 342.49
+    "t": 346.17
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist das Clevere daran — es ist sogar günstiger.",
-    "t": 344.82
+    "t": 348.5
    },
    {
     "speaker": "Tom",
     "text": "Die Vereinten Nationen sagen es: Wenn man von Anfang an für alle gestaltet, kostet es viel weniger, als Hindernisse aus einem bereits fertigen Gebäude zu entfernen.",
-    "t": 348.29
+    "t": 351.97
    },
    {
     "speaker": "Anna",
     "text": "Das ergibt absolut Sinn.",
-    "t": 357.5
+    "t": 361.18
    },
    {
     "speaker": "Anna",
     "text": "Es ist schwieriger und teurer, einen Aufzug in ein altes Gebäude einzubauen, als ihn vom ersten Tag an einzuplanen.",
-    "t": 359.24
+    "t": 362.92
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und das neue Gesetz geht weiter als das alte.",
-    "t": 366.02
+    "t": 369.7
    },
    {
     "speaker": "Tom",
     "text": "Es geht nicht nur um öffentliche Gebäude.",
-    "t": 369.85
+    "t": 373.53
    },
    {
     "speaker": "Tom",
-    "text": "Es deckt auch öffentliche Straßen ab, und kollektiven Wohnraum — Gebäude mit vielen Wohnungen darin.",
-    "t": 371.99
+    "text": "Es deckt auch öffentliche Straßen ab, und kollektiven Wohnraum — in neuen Mehrfamilienhäusern muss jede zehnte Wohnung barrierefrei sein.",
+    "t": 375.71
    },
    {
     "speaker": "Anna",
     "text": "Und für Gebäude, die bereits existieren?",
-    "t": 378.03
+    "t": 383.71
    },
    {
     "speaker": "Anna",
     "text": "Man kann nicht alles über Nacht neu bauen.",
-    "t": 380.36
+    "t": 386.04
    },
    {
     "speaker": "Tom",
     "text": "Nein, und das Gesetz ist realistisch.",
-    "t": 382.76
+    "t": 388.44
    },
    {
     "speaker": "Tom",
     "text": "Neue Gebäude und große Renovierungen müssen die Regeln ab sofort befolgen.",
-    "t": 385.2
+    "t": 390.88
    },
    {
     "speaker": "Tom",
     "text": "Aber für Orte, die bereits existieren und öffentlich zugänglich sind, gibt es eine Frist, um barrierefrei zu werden — den 1. Januar 2032.",
-    "t": 389.48
+    "t": 395.16
    },
    {
     "speaker": "Anna",
     "text": "Es gibt also Zeit, aber auch ein klares Ziel.",
-    "t": 398.7
+    "t": 404.38
    },
    {
     "speaker": "Anna",
     "text": "Gut. Und wer kann bei all dem helfen — für jemanden, der baut oder renoviert?",
-    "t": 401.95
+    "t": 407.63
    },
    {
     "speaker": "Tom",
     "text": "Das Infrastrukturportal auf accessibilite.lu enthält die Regeln, die Verfahren und einen Werkzeugkasten.",
-    "t": 407.58
+    "t": 413.26
    },
    {
     "speaker": "Tom",
     "text": "So kann ein Architekt, eine Gemeinde oder ein Eigentümer finden, was zu tun ist, um es richtig zu machen.",
-    "t": 415.42
+    "t": 421.1
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt finanzielle Hilfe: Der Staat kann die Hälfte der Kosten für die Arbeiten übernehmen, bis zu vierundzwanzigtausend Euro pro Ort — wenn Sie den Antrag vor Juli 2028 stellen.",
-    "t": 421.84
+    "t": 427.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Pläne müssen vorher auf Konformität geprüft werden, und die Arbeiten müssen bis Juli 2031 fertig sein.",
+    "t": 438.95
    },
    {
     "speaker": "Anna",
     "text": "Wunderbar. Gut, Tom — das war Digitales und Infrastruktur.",
-    "t": 432.9
+    "t": 446.15
    },
    {
     "speaker": "Anna",
     "text": "Was ist der dritte Bereich?",
-    "t": 437.62
+    "t": 450.87
    },
    {
     "speaker": "Tom",
     "text": "Der dritte ist der neueste, und vielleicht der überraschendste.",
-    "t": 439.37
+    "t": 452.62
    },
    {
     "speaker": "Tom",
     "text": "Es ist die Barrierefreiheit von Produkten und Dienstleistungen.",
-    "t": 442.77
+    "t": 456.02
    },
    {
     "speaker": "Anna",
     "text": "Produkte und Dienstleistungen.",
-    "t": 446.54
+    "t": 459.79
    },
    {
     "speaker": "Anna",
     "text": "Das klingt jetzt sehr weit gefasst.",
-    "t": 448.47
+    "t": 461.72
    },
    {
     "speaker": "Anna",
     "text": "Was umfasst das?",
-    "t": 450.51
+    "t": 463.76
    },
    {
     "speaker": "Tom",
     "text": "Viele alltägliche Dinge.",
-    "t": 452.07
+    "t": 465.32
    },
    {
     "speaker": "Tom",
     "text": "Denken Sie an einen Bankautomaten — einen Geldautomaten.",
-    "t": 453.63
+    "t": 466.88
    },
    {
     "speaker": "Tom",
     "text": "Einen Fahrkartenautomaten am Bahnhof.",
-    "t": 457.39
+    "t": 470.64
    },
    {
     "speaker": "Tom",
     "text": "Einen Online-Shop. Eine Banking-App.",
-    "t": 459.8
+    "t": 473.05
    },
    {
     "speaker": "Tom",
     "text": "Ein E-Book. Smartphones und Computer.",
-    "t": 462.23
+    "t": 475.48
    },
    {
     "speaker": "Tom",
     "text": "Das sind die Produkte und Dienstleistungen, die wir alle ständig benutzen.",
-    "t": 465.15
+    "t": 478.4
    },
    {
     "speaker": "Anna",
     "text": "Und die Idee ist, dass sie auch für Menschen mit Behinderung funktionieren sollen.",
-    "t": 468.97
+    "t": 482.22
    },
    {
     "speaker": "Tom",
     "text": "Genau. Das kommt von einem europäischen Gesetz — man nennt es den European Accessibility Act (Europäisches Barrierefreiheitsgesetz).",
-    "t": 472.97
+    "t": 486.22
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg hat es mit dem Gesetz vom 8. März 2023 in nationales Recht umgesetzt.",
-    "t": 482.86
+    "t": 496.11
    },
    {
     "speaker": "Tom",
     "text": "Und es gilt seit dem 28. Juni 2025.",
-    "t": 489.07
+    "t": 502.32
    },
    {
     "speaker": "Anna",
     "text": "Dieses ist also sehr neu — es hat im Grunde gerade erst begonnen.",
-    "t": 492.83
+    "t": 506.08
    },
    {
     "speaker": "Tom",
     "text": "Gerade erst begonnen.",
-    "t": 496.83
+    "t": 510.08
    },
    {
     "speaker": "Tom",
     "text": "Und es ist eine echte Veränderung.",
-    "t": 498.15
+    "t": 511.4
    },
    {
     "speaker": "Tom",
     "text": "Zum ersten Mal hat nicht nur der Staat Pflichten — auch private Unternehmen.",
-    "t": 500.21
+    "t": 513.46
    },
    {
     "speaker": "Anna",
     "text": "Ah, Unternehmen müssen also jetzt an Barrierefreiheit denken.",
-    "t": 504.63
+    "t": 517.88
    },
    {
     "speaker": "Tom",
     "text": "Ja. Wenn Sie bestimmte Produkte und Dienstleistungen herstellen oder verkaufen, müssen sie barrierefrei sein.",
-    "t": 508.3
+    "t": 521.55
    },
    {
     "speaker": "Tom",
     "text": "Nun — es gibt eine Ausnahme für die ganz kleinen Unternehmen.",
-    "t": 514.51
+    "t": 527.76
    },
    {
     "speaker": "Tom",
     "text": "Wenn ein Unternehmen weniger als zehn Mitarbeiter und weniger als zwei Millionen Euro Umsatz hat, gelten die Regeln für Dienstleistungen dort nicht.",
-    "t": 518.15
+    "t": 531.4
    },
    {
     "speaker": "Tom",
     "text": "Der kleine Laden an der Ecke wird also nicht wie eine große Bank behandelt.",
-    "t": 526.71
+    "t": 539.96
    },
    {
     "speaker": "Anna",
     "text": "Das scheint fair.",
-    "t": 530.86
+    "t": 544.11
    },
    {
     "speaker": "Anna",
     "text": "Und wer behält das alles im Auge?",
-    "t": 532
+    "t": 545.25
    },
    {
     "speaker": "Tom",
     "text": "Es gibt ein neues Amt genau dafür.",
-    "t": 534.05
+    "t": 547.3
    },
    {
     "speaker": "Tom",
     "text": "Kurz heißt es OSAPS — das Amt, das über die Barrierefreiheit von Produkten und Dienstleistungen wacht.",
-    "t": 536.32
+    "t": 549.57
    },
    {
     "speaker": "Tom",
     "text": "Es macht zwei Dinge.",
-    "t": 542.43
+    "t": 555.68
    },
    {
     "speaker": "Tom",
     "text": "Es prüft, ob Produkte und Dienstleistungen auf dem Markt die Regeln befolgen.",
-    "t": 543.68
+    "t": 556.93
    },
    {
     "speaker": "Tom",
     "text": "Und es hilft Unternehmen — mit Leitfäden, Werkzeugen und Beratung — es richtig zu machen.",
-    "t": 547.79
+    "t": 561.04
    },
    {
     "speaker": "Anna",
     "text": "Es ist also nicht nur ein Polizist.",
-    "t": 553.78
+    "t": 567.03
    },
    {
     "speaker": "Anna",
     "text": "Es ist auch ein Helfer.",
-    "t": 555.88
+    "t": 569.13
    },
    {
     "speaker": "Tom",
     "text": "Beides. Zuckerbrot und Peitsche.",
-    "t": 557.47
+    "t": 570.72
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist der Teil für uns, die Bürger — wenn Sie ein Produkt oder eine Dienstleistung finden, die nicht barrierefrei ist, können Sie das melden.",
-    "t": 560.2
+    "t": 573.45
    },
    {
     "speaker": "Anna",
     "text": "Wie mache ich das?",
-    "t": 568.44
+    "t": 581.69
    },
    {
     "speaker": "Tom",
     "text": "Online, über MyGuichet.lu — die digitale Plattform des Staates.",
-    "t": 569.83
+    "t": 583.08
    },
    {
     "speaker": "Tom",
     "text": "Und Sie können es sogar ohne Anmeldung tun, wenn Sie möchten.",
-    "t": 574.88
+    "t": 588.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oder per Telefon, oder per E-Mail — oder Sie schicken einfach ein Foto per WhatsApp, zum Beispiel von einem Fahrkartenautomaten, der für Sie nicht funktioniert.",
+    "t": 591.29
    },
    {
     "speaker": "Tom",
     "text": "So ist es leicht, die Hand zu heben und zu sagen — diese Maschine, diese Dienstleistung, funktioniert nicht für mich.",
-    "t": 577.84
+    "t": 600.36
    },
    {
     "speaker": "Anna",
     "text": "Ich finde es toll, dass sich die drei Bereiche so verbinden.",
-    "t": 584.58
+    "t": 607.27
    },
    {
     "speaker": "Anna",
     "text": "Man meldet ein fehlerhaftes Produkt über eine öffentliche Website... die selbst barrierefrei sein muss... in einem Gebäude, das ebenfalls barrierefrei sein sollte.",
-    "t": 587.72
+    "t": 610.41
    },
    {
     "speaker": "Tom",
     "text": "Genau. Es ist ein großer Kreis.",
-    "t": 597.31
+    "t": 620
    },
    {
     "speaker": "Tom",
     "text": "Digitales, Infrastruktur, Produkte und Dienstleistungen.",
-    "t": 599.88
+    "t": 622.57
    },
    {
     "speaker": "Tom",
     "text": "Drei Versprechen, ein Ziel.",
-    "t": 603.84
+    "t": 626.53
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es ganz konkret, Tom.",
-    "t": 605.81
+    "t": 628.5
    },
    {
     "speaker": "Anna",
     "text": "Können wir eine Person durch einen normalen Tag begleiten?",
-    "t": 607.68
+    "t": 630.37
    },
    {
     "speaker": "Tom",
     "text": "Natürlich. Stellen wir uns jemanden vor — nennen wir sie Maria.",
-    "t": 610.89
+    "t": 633.58
    },
    {
     "speaker": "Tom",
     "text": "Maria hat eine Sehschwäche.",
-    "t": 615.2
+    "t": 637.89
    },
    {
     "speaker": "Tom",
     "text": "Sie sieht schlecht.",
-    "t": 616.97
+    "t": 639.66
    },
    {
     "speaker": "Anna",
     "text": "Gut. Maria wacht auf.",
-    "t": 618.3
+    "t": 640.99
    },
    {
     "speaker": "Anna",
     "text": "Wie sieht ihr Tag aus, in einem vollständig barrierefreien Luxemburg?",
-    "t": 620.49
+    "t": 643.18
    },
    {
     "speaker": "Tom",
     "text": "Sie nimmt ihr Handy, um ein offizielles Dokument zu prüfen.",
-    "t": 624.58
+    "t": 647.27
    },
    {
     "speaker": "Tom",
     "text": "Die öffentliche Website ist gut gebaut — also liest ihr Screenreader sie klar vor.",
-    "t": 627.82
+    "t": 650.51
    },
    {
     "speaker": "Tom",
     "text": "Das ist der digitale Teil.",
-    "t": 632.68
+    "t": 655.37
    },
    {
     "speaker": "Anna",
     "text": "Gut. Dann geht sie hinaus.",
-    "t": 634.54
+    "t": 657.23
    },
    {
     "speaker": "Tom",
     "text": "Sie geht zum Gemeindeamt.",
-    "t": 636.62
+    "t": 659.31
    },
    {
     "speaker": "Tom",
     "text": "Die Straße hat eine Führung, die sie unter ihren Füßen spüren kann, das Gebäude hat einen klaren Eingang, und einen Aufzug im Inneren.",
-    "t": 638.46
+    "t": 661.15
    },
    {
     "speaker": "Tom",
     "text": "Das ist der Infrastruktur-Teil.",
-    "t": 646.45
+    "t": 669.14
    },
    {
     "speaker": "Anna",
     "text": "Und dann?",
-    "t": 648.64
+    "t": 671.33
    },
    {
     "speaker": "Tom",
     "text": "Auf dem Heimweg hält sie an einem Fahrkartenautomaten.",
-    "t": 649.66
+    "t": 672.35
    },
    {
     "speaker": "Tom",
     "text": "Er spricht die Anweisungen laut aus, und die Tasten sind leicht zu ertasten.",
-    "t": 652.83
+    "t": 675.52
    },
    {
     "speaker": "Tom",
     "text": "Das ist der Teil mit den Produkten und Dienstleistungen.",
-    "t": 657
+    "t": 679.69
    },
    {
     "speaker": "Tom",
     "text": "Maria kommt durch ihren ganzen Tag — allein, mit Würde.",
-    "t": 659.84
+    "t": 682.53
    },
    {
     "speaker": "Anna",
     "text": "Ohne bei jedem Schritt einen Fremden um Hilfe bitten zu müssen.",
-    "t": 663.71
+    "t": 686.4
    },
    {
     "speaker": "Tom",
     "text": "Das ist der Traum.",
-    "t": 667.06
+    "t": 689.75
    },
    {
     "speaker": "Tom",
     "text": "Unabhängigkeit und Würde.",
-    "t": 668.37
+    "t": 691.06
    },
    {
     "speaker": "Tom",
     "text": "Und genau das bauen diese drei Gesetze langsam auf.",
-    "t": 669.92
+    "t": 692.61
    },
    {
     "speaker": "Anna",
     "text": "Und ehrlich gesagt — das hilft weit mehr Menschen, als wir denken.",
-    "t": 672.79
+    "t": 695.48
    },
    {
     "speaker": "Anna",
     "text": "Nicht nur Menschen mit einer dauerhaften Behinderung.",
-    "t": 676.83
+    "t": 699.52
    },
    {
     "speaker": "Tom",
     "text": "So wahr. Denken Sie an einen Elternteil, der einen Kinderwagen schiebt — auch er freut sich über eine Rampe.",
-    "t": 679.58
+    "t": 702.27
    },
    {
     "speaker": "Tom",
     "text": "Denken Sie an jemanden mit einem schweren Koffer, oder einem gebrochenen Arm.",
-    "t": 687.1
+    "t": 709.79
    },
    {
     "speaker": "Tom",
     "text": "Denken Sie an einen älteren Menschen, dessen Augen und Ohren müder werden.",
-    "t": 691.41
+    "t": 714.1
    },
    {
     "speaker": "Tom",
     "text": "Barrierefreiheit hilft jedem, irgendwann im Leben.",
-    "t": 695.52
+    "t": 718.21
    },
    {
     "speaker": "Anna",
     "text": "Es ist die klassische Idee — gestalte für die Menschen, die es am meisten brauchen, und du machst das Leben für absolut alle besser.",
-    "t": 698.62
+    "t": 721.31
    },
    {
     "speaker": "Tom",
     "text": "Genau. Eine abgesenkte Bordsteinkante wurde für Rollstühle gemacht — aber die ganze Stadt nutzt sie.",
-    "t": 706.14
+    "t": 728.83
    },
    {
     "speaker": "Anna",
     "text": "Gut, Tom — bringen wir es zum Abschluss.",
-    "t": 713.39
+    "t": 736.08
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich zuhöre, was sollte ich mir merken, und was kann ich tun?",
-    "t": 716.15
+    "t": 738.84
    },
    {
     "speaker": "Tom",
     "text": "Drei einfache Dinge.",
-    "t": 719.78
+    "t": 742.47
    },
    {
     "speaker": "Tom",
     "text": "Erstens — merken Sie sich die Website.",
-    "t": 721.16
+    "t": 743.85
    },
    {
     "speaker": "Tom",
     "text": "accessibilite Punkt l-u.",
-    "t": 723.82
+    "t": 746.51
    },
    {
     "speaker": "Tom",
     "text": "Sie ist die offizielle Eingangstür zu allen drei Bereichen.",
-    "t": 726.28
+    "t": 748.97
    },
    {
     "speaker": "Anna",
     "text": "accessibilite.lu. Verstanden.",
-    "t": 729.67
+    "t": 752.36
    },
    {
     "speaker": "Tom",
     "text": "Zweitens — wenn eine öffentliche Website Sie blockiert, haben Sie das Recht, sich zu beschweren und eine Antwort zu bekommen.",
-    "t": 732.64
+    "t": 755.33
    },
    {
     "speaker": "Tom",
     "text": "Geben Sie nicht einfach auf — melden Sie es.",
-    "t": 739.42
+    "t": 762.11
    },
    {
     "speaker": "Anna",
     "text": "Und drittens?",
-    "t": 742.25
+    "t": 764.94
    },
    {
     "speaker": "Tom",
     "text": "Drittens — wenn ein Produkt oder eine Dienstleistung nicht barrierefrei ist, können Sie das ebenfalls melden, über MyGuichet.lu.",
-    "t": 743.48
+    "t": 766.17
    },
    {
     "speaker": "Tom",
     "text": "Ihre Stimme hilft, die Dinge zu verbessern, für Sie und für den nächsten Menschen.",
-    "t": 751.75
+    "t": 774.44
    },
    {
     "speaker": "Anna",
     "text": "Und wenn Sie ein Fachmann sind — ein Architekt, ein Unternehmer, ein Website-Betreiber?",
-    "t": 756.23
+    "t": 778.92
    },
    {
     "speaker": "Tom",
     "text": "Dann ist die Website auf andere Weise für Sie da.",
-    "t": 761.79
+    "t": 784.48
    },
    {
     "speaker": "Tom",
     "text": "Sie enthält die Gesetze, die Normen, die Werkzeugkästen — alles, was Sie brauchen, um Ihren Teil zu tun.",
-    "t": 764.7
+    "t": 787.39
    },
    {
     "speaker": "Tom",
     "text": "Denn Barrierefreiheit ist kein Gefallen.",
-    "t": 771.25
+    "t": 793.94
    },
    {
     "speaker": "Tom",
     "text": "Sie wird zur normalen Art, Dinge zu tun.",
-    "t": 773.85
+    "t": 796.54
    },
    {
     "speaker": "Anna",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 776.47
+    "t": 799.16
    },
    {
     "speaker": "Tom",
     "text": "Gerne. Luxemburg hat einen offiziellen Knotenpunkt — accessibilite.lu — für drei Bereiche der Barrierefreiheit.",
-    "t": 778.73
+    "t": 801.42
    },
    {
     "speaker": "Tom",
     "text": "Digitales, mit dem Gesetz von 2019, für öffentliche Websites und Apps.",
-    "t": 786.75
+    "t": 809.44
    },
    {
     "speaker": "Tom",
     "text": "Infrastruktur, mit dem Gesetz von 2022, für barrierefreie Gebäude, Straßen und Wohnungen, gegründet auf universelles Design, mit einer Frist im Jahr 2032 für bestehende öffentliche Orte.",
-    "t": 792.22
+    "t": 814.91
    },
    {
     "speaker": "Tom",
     "text": "Und Produkte und Dienstleistungen, das neueste, aus dem European Accessibility Act (Europäisches Barrierefreiheitsgesetz), gültig seit Juni 2025, überwacht vom Amt OSAPS — mit nun auch privaten Unternehmen, die einbezogen sind.",
-    "t": 806.05
+    "t": 828.74
    },
    {
     "speaker": "Anna",
     "text": "Und die Botschaft für heute?",
-    "t": 821.87
+    "t": 844.56
    },
    {
     "speaker": "Tom",
     "text": "Barrierefreiheit ist nicht nur für „andere Leute\".",
-    "t": 823.67
+    "t": 846.36
    },
    {
     "speaker": "Tom",
     "text": "Sie ist für uns alle — heute, oder morgen.",
-    "t": 826.79
+    "t": 849.48
    },
    {
     "speaker": "Tom",
     "text": "Eine Welt, die für alle gebaut ist, ist ganz einfach eine bessere Welt zum Leben.",
-    "t": 829.69
+    "t": 852.38
    },
    {
     "speaker": "Anna",
     "text": "Also... ob Sie ein Bürger sind, der auf ein Hindernis stößt, oder ein Fachmann, der Dinge baut — denken Sie an die Eingangstür.",
-    "t": 834.28
+    "t": 856.97
    },
    {
     "speaker": "Anna",
     "text": "accessibilite.lu.",
-    "t": 842.27
+    "t": 864.96
    },
    {
     "speaker": "Tom",
     "text": "Eine Website, drei Versprechen, und ein Land, das langsam jede Tür öffnet.",
-    "t": 844.49
+    "t": 867.18
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über Barrierefreiheit.",
-    "t": 849.26
+    "t": 871.95
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 851.86
+    "t": 874.55
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 860.41
+    "t": 883.1
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 878.26
+    "t": 900.95
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 883.96
+    "t": 906.65
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 886.21
+    "t": 908.9
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 891.1
+    "t": 913.79
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 892.25
+    "t": 914.94
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 895.46
+    "t": 918.15
    }
   ],
   "segments_lb": [
@@ -33265,347 +33280,347 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Genau. An — dat ass wichteg — wann s du e Problem fënns, kanns du dech beschwéieren. All Säit muss der eng Manéier ginn, fir en Hindernis ze mellen. Si mussen der äntweren, normalerweis bannent engem Mount. A wann s du net zefridde bass, kanns du dech un den Informatiounsdéngscht vum Staat wenden, oder souguer un den Ombudsman — de Mediateur.",
+    "text": "Genau. An — dat ass wichteg — wann s du e Problem fënns, kanns du dech beschwéieren. Fir d'éischt kontaktéiers du d'Organisatioun selwer, mat de Kontaktdaten aus hirer Accessibilitéitserklärung. Wann dat net hëlleft, kanns du dech un den Informatiouns- a Pressedéngscht vum Staat wenden, de SIP, deen d'Accessibilitéit kontrolléiert a bannent engem Mount äntwert — oder un den Ombudsman, de Mediateur.",
     "t": 215.89
    },
    {
     "speaker": "Anna",
     "text": "Du bass also net hëlleflos. Wann eng ëffentlech Websäit dech blockéiert, gëtt et eng Dier, un déi s du klappe kanns.",
-    "t": 232.64
+    "t": 237.7
    },
    {
     "speaker": "Tom",
     "text": "Ëmmer. Dat ass de ganze Sënn. Gutt — solle mer op deen zweete Beräich goen?",
-    "t": 237.62
+    "t": 242.68
    },
    {
     "speaker": "Anna",
     "text": "Jo gär. Mir hunn déi digital Welt gemaach. Wat kënnt als nächst?",
-    "t": 242.06
+    "t": 247.12
    },
    {
     "speaker": "Tom",
     "text": "Deen zweete Beräich ass d'Infrastruktur. Dat heescht déi physesch Welt — Gebaier, ëffentlech Plazen, a Stroossen.",
-    "t": 245.59
+    "t": 250.65
    },
    {
     "speaker": "Anna",
     "text": "Ah, déi konkret Welt. Rampen, Diren, Lifter.",
-    "t": 251.52
+    "t": 256.58
    },
    {
     "speaker": "Tom",
     "text": "Genau. Kanns du an d'Gebai erakommen? Gëtt et eng Rampe niewent de Trapen? Ass d'Dier breet genuch fir e Rollstull? Gëtt et e Lift? Gëtt et Saachen, déi engem bléinde Mënsch hëllefen, sech ze orientéieren?",
-    "t": 254.74
+    "t": 259.8
    },
    {
     "speaker": "Anna",
     "text": "A gëtt et och dofir e Gesetz?",
-    "t": 265.29
+    "t": 270.35
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt et. Et ass d'Gesetz vum 7. Januar 2022, an et ass de 1. Juli 2023 a Kraaft getrueden. An et baut op enger schéiner Iddi op, déi universellt Design heescht.",
-    "t": 267.38
+    "t": 272.44
    },
    {
     "speaker": "Anna",
     "text": "Universellt Design. Wat heescht dat?",
-    "t": 278.87
+    "t": 283.93
    },
    {
     "speaker": "Tom",
     "text": "Et heescht, eng Plaz vun Ufank un esou ze plangen, datt jiddereen se benotze kann. Net e spezielle Säiten-Agang fir munch Leit, an den Haaptagang fir déi aner. Eng Plaz, déi fir all funktionéiert.",
-    "t": 281.32
+    "t": 286.38
    },
    {
     "speaker": "Anna",
     "text": "Anstatt en Hindernis ze bauen an et duerno ze reparéieren...",
-    "t": 291.04
+    "t": 296.1
    },
    {
     "speaker": "Tom",
     "text": "...bees du et gläich d'éischte Kéier richteg. An hei ass dat Schlaues — et ass tatsächlech méi bëlleg. D'Vereenten Natiounen soen et: wann s du vun Ufank un fir jiddereen plangs, kascht et vill manner, wéi Hindernisser aus engem Gebai ze huelen, dat schonn fäerdeg ass.",
-    "t": 294.24
+    "t": 299.3
    },
    {
     "speaker": "Anna",
     "text": "Dat mécht voll Sënn. Et ass méi schwéier a méi deier, e Lift an en alt Gebai bäizesetzen, wéi en vum éischten Dag un ze plangen.",
-    "t": 307.84
+    "t": 312.9
    },
    {
     "speaker": "Tom",
-    "text": "Genau. An dat neit Gesetz geet méi wäit wéi dat aalt. Et geet net nëmmen ëm ëffentlech Gebaier. Et deckt och ëffentlech Stroossen, a Kollektivwunnengen — Gebaier mat ville Wunnengen dran.",
-    "t": 314.38
+    "text": "Genau. An dat neit Gesetz geet méi wäit wéi dat aalt. Et geet net nëmmen ëm ëffentlech Gebaier. Et deckt och ëffentlech Stroossen, a Kollektivwunnengen — an neie Residenzen muss all zéngt Wunneng accessibel sinn.",
+    "t": 319.44
    },
    {
     "speaker": "Anna",
     "text": "A fir Gebaier déi schonn existéieren? Du kanns net alles iwwer Nuecht nei bauen.",
-    "t": 324.92
+    "t": 332.43
    },
    {
     "speaker": "Tom",
     "text": "Nee, an d'Gesetz ass realistesch. Nei Gebaier a grouss Renovatioune mussen d'Reegele lo elo anhalen. Mä fir Plazen déi schonn existéieren an déi fir d'Publikum op sinn, gëtt et eng Frist, fir accessibel ze ginn — de 1. Januar 2032.",
-    "t": 329.71
+    "t": 337.22
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt also Zäit, mä et gëtt och e kloert Zil. Gutt. A wien ka mat all deem hëllefen — fir een deen e Gebai baut oder renovéiert?",
-    "t": 343.3
+    "t": 350.81
    },
    {
     "speaker": "Tom",
-    "text": "De Portal fir d'Infrastruktur op accessibilite.lu huet d'Reegelen, d'Prozeduren, an eng Boîte à outils. Sou kann en Architekt, eng Gemeng, oder e Besëtzer fannen, wat se brauchen, fir et richteg ze maachen. An et gëtt finanziell Hëllef: de Staat ka d'Hallschent vun de Käschte vun den Aarbechten iwwerhuelen, bis zu véieranzwanzegdausend Euro pro Plaz — wann s du den Demande virum Juli 2028 mëss.",
-    "t": 351.11
+    "text": "De Portal fir d'Infrastruktur op accessibilite.lu huet d'Reegelen, d'Prozeduren, an eng Boîte à outils. Sou kann en Architekt, eng Gemeng, oder e Besëtzer fannen, wat se brauchen, fir et richteg ze maachen. An et gëtt finanziell Hëllef: de Staat ka d'Hallschent vun de Käschte vun den Aarbechten iwwerhuelen, bis zu véieranzwanzegdausend Euro pro Plaz — wann s du den Demande virum Juli 2028 mëss. D'Pläng mussen éischt op Konformitéit gepréift ginn, an d'Aarbechte mussen bis Juli 2031 fäerdeg sinn.",
+    "t": 358.62
    },
    {
     "speaker": "Anna",
     "text": "Wonnerbar. Gutt, Tom — dat ass digital an Infrastruktur. Wat ass deen drëtte Beräich?",
-    "t": 370.4
+    "t": 384.38
    },
    {
     "speaker": "Tom",
     "text": "Deen drëtten ass deen neisten, a vläicht deen iwwerraschendsten. Et ass d'Accessibilitéit vu Produiten an Déngschtleeschtungen.",
-    "t": 375.69
+    "t": 389.67
    },
    {
     "speaker": "Anna",
     "text": "Produiten an Déngschtleeschtungen. Dat kléngt elo ganz breet. Wat gehéiert do dozou?",
-    "t": 381.36
+    "t": 395.34
    },
    {
     "speaker": "Tom",
     "text": "Vill alldeeglech Saachen. Denk un eng Geldautomat — en ATM. Eng Ticketmaschinn um Bahnhaff. En Online-Buttek. Eng Bank-App. En E-Book. Smartphonen a Computeren. Dat sinn d'Produiten an Déngschtleeschtungen, déi mir all benotzen, déi ganzen Zäit.",
-    "t": 386.34
+    "t": 400.32
    },
    {
     "speaker": "Anna",
     "text": "An d'Iddi ass, datt se och fir Leit mat enger Behënnerung funktionéiere sollen.",
-    "t": 400.25
+    "t": 414.23
    },
    {
     "speaker": "Tom",
     "text": "Genau. Dat kënnt vun engem europäesche Gesetz — d'Leit nennen et de European Accessibility Act. Lëtzebuerg huet et an nationaalt Recht ëmgesat mam Gesetz vum 8. Mäerz 2023. An et ass de 28. Juni 2025 ugefaangen ze gëllen.",
-    "t": 404.3
+    "t": 418.28
    },
    {
     "speaker": "Anna",
     "text": "Dëst ass also ganz rezent — et huet quasi grad eréischt ugefaangen.",
-    "t": 418.86
+    "t": 432.84
    },
    {
     "speaker": "Tom",
     "text": "Grad eréischt ugefaangen. An et ass eng richteg Verännerung. Fir d'éischte Kéier ass et net nëmmen de Staat deen Flichten huet — et sinn och privat Entreprisen.",
-    "t": 422.45
+    "t": 436.43
    },
    {
     "speaker": "Anna",
     "text": "Ah, Betriber mussen elo also un d'Accessibilitéit denken.",
-    "t": 430.42
+    "t": 444.4
    },
    {
     "speaker": "Tom",
     "text": "Jo. Wann s du gewësse Produiten an Déngschtleeschtunge méchs oder verkeefs, da mussen se accessibel sinn. Elo — et gëtt eng Ausnam fir déi ganz kleng Betriber. Wann eng Entreprise manner wéi zéng Mataarbechter an e Chiffre d'affaires ënner zwou Milliounen Euro huet, da gëllen d'Reegele fir Déngschtleeschtungen do net. Sou gëtt de klenge Buttek op der Eck net déiselwecht behandelt wéi eng grouss Bank.",
-    "t": 433.87
+    "t": 447.85
    },
    {
     "speaker": "Anna",
     "text": "Dat schéngt fair. A wien hält op all dat en A?",
-    "t": 453.85
+    "t": 467.83
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt en neit Büro genau dofir. Kuerz gesot heescht et OSAPS — d'Büro dat iwwer d'Accessibilitéit vu Produiten an Déngschtleeschtunge waacht. Et mécht zwou Aufgaben. Et kontrolléiert, datt d'Produiten an Déngschtleeschtungen um Maart d'Reegelen anhalen. An et hëlleft de Betriber — mat Guiden, Outilen, a Berodung — fir et richteg ze maachen.",
-    "t": 457
+    "t": 470.98
    },
    {
     "speaker": "Anna",
     "text": "Et ass also net nëmmen e Polizist. Et ass och en Hëllefer.",
-    "t": 473.98
+    "t": 487.96
    },
    {
     "speaker": "Tom",
     "text": "Béid. Mat Zockerbroud a Pätsch. An hei ass den Deel fir eis, d'Bierger — wann s du e Produit oder eng Déngschtleeschtung fënns déi net accessibel ass, kanns du et mellen.",
-    "t": 477.68
+    "t": 491.66
    },
    {
     "speaker": "Anna",
     "text": "Wéi maachen ech dat?",
-    "t": 486.53
+    "t": 500.51
    },
    {
     "speaker": "Tom",
-    "text": "Online, iwwer MyGuichet.lu — déi digital Plattform vum Staat. An du kanns et souguer maachen, ouni dech anzelaggen, wann s du léiwer wëlls. Et ass also einfach, fir d'Hand ze hiewen an ze soen — dës Maschinn, dës Déngschtleeschtung, funktionéiert net fir mech.",
-    "t": 487.96
+    "text": "Online, iwwer MyGuichet.lu — déi digital Plattform vum Staat. An du kanns et souguer maachen, ouni dech anzelaggen, wann s du léiwer wëlls. Oder per Telefon, oder per E-Mail — oder du schécks einfach eng Foto iwwer WhatsApp, zum Beispill vun engem Billjeesautomat, deen net fir dech funktionéiert. Et ass also einfach, fir d'Hand ze hiewen an ze soen — dës Maschinn, dës Déngschtleeschtung, funktionéiert net fir mech.",
+    "t": 501.94
    },
    {
     "speaker": "Anna",
     "text": "Mir gefält, datt déi dräi Beräicher esou verbonne sinn. Du melds e feelerhafte Produit iwwer eng ëffentlech Websäit... déi selwer accessibel muss sinn... an engem Gebai dat och accessibel soll sinn.",
-    "t": 500.32
+    "t": 522.65
    },
    {
     "speaker": "Tom",
     "text": "Genau. Et ass ee grousse Krees. Digital, Infrastruktur, Produiten an Déngschtleeschtungen. Dräi Verspriechen, ee Zil.",
-    "t": 511.09
+    "t": 533.42
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer et ganz konkret maachen, Tom. Kënne mer eng Persoun duerch en normalen Dag begleeden?",
-    "t": 517.6
+    "t": 539.93
    },
    {
     "speaker": "Tom",
     "text": "Natierlech. Stelle mer eis een vir — nenne mer si Maria. D'Maria gesäit schlecht. Si huet eng schwaach Vue.",
-    "t": 522.28
+    "t": 544.61
    },
    {
     "speaker": "Anna",
     "text": "Gutt. D'Maria wécht op. Wéi gesäit hiren Dag aus, an engem voll accessibele Lëtzebuerg?",
-    "t": 528.05
+    "t": 550.38
    },
    {
     "speaker": "Tom",
     "text": "Si hëlt hiren Handy fir en offiziellt Dokument ze kucken. Déi ëffentlech Websäit ass gutt gebaut — sou liest hir Sprooch-Liesgerät et kloer vir. Dat ass den digitalen Deel.",
-    "t": 533.05
+    "t": 555.38
    },
    {
     "speaker": "Anna",
     "text": "Gutt. Dann geet si eraus.",
-    "t": 540.96
+    "t": 563.29
    },
    {
     "speaker": "Tom",
     "text": "Si geet bei d'Gemeng. D'Strooss huet eng Féierung déi si ënnert de Féiss spiere kann, d'Gebai huet e kloeren Agang, an e Lift dran. Dat ass den Infrastruktur-Deel.",
-    "t": 542.52
+    "t": 564.85
    },
    {
     "speaker": "Anna",
     "text": "An duerno?",
-    "t": 551.84
+    "t": 574.17
    },
    {
     "speaker": "Tom",
     "text": "Um Wee heem hält si bei enger Ticketmaschinn. Si seet d'Instruktiounen haart, an d'Knäpp si liicht ze spieren. Dat ass den Deel vun de Produiten an Déngschtleeschtungen. D'Maria këmmt duerch hiren ganzen Dag — eleng, mat Wierdegkeet.",
-    "t": 552.86
+    "t": 575.19
    },
    {
     "speaker": "Anna",
     "text": "Ouni datt si bei all Schrëtt e Friemen ëm Hëllef froe muss.",
-    "t": 564.54
+    "t": 586.87
    },
    {
     "speaker": "Tom",
     "text": "Dat ass den Dram. Onofhängegkeet a Wierdegkeet. An dat ass et, wat dës dräi Gesetzer lues opbauen.",
-    "t": 567.75
+    "t": 590.08
    },
    {
     "speaker": "Anna",
     "text": "An éierlech — dat hëlleft vill méi Leit, wéi mir mengen. Net nëmme Leit mat enger permanenter Behënnerung.",
-    "t": 573.5
+    "t": 595.83
    },
    {
     "speaker": "Tom",
     "text": "Sou wouer. Denk un en Elterendeel dee Kannerwon stéisst — déi hunn och eng Rampe gär. Denk un een mat engem schwéiere Wuel, oder engem gebrachenen Aarm. Denk un en eelere Mënsch deem d'Aen an d'Oueren midd ginn. Accessibilitéit hëlleft jiddereen, iergendwann am Liewen.",
-    "t": 579.73
+    "t": 602.06
    },
    {
     "speaker": "Anna",
     "text": "Et ass déi klassesch Iddi — plang fir d'Leit déi et am meeschten brauchen, an du méchs d'Liewen besser fir absolut jiddereen.",
-    "t": 593.96
+    "t": 616.29
    },
    {
     "speaker": "Tom",
     "text": "Genau. Eng Trottoir-Rampe gouf fir Rollstill gemaach — mä déi ganz Stad benotzt se.",
-    "t": 601.18
+    "t": 623.51
    },
    {
     "speaker": "Anna",
     "text": "Gutt, Tom — loosse mer et ofschléissen. Wann ech nolauschteren, wat soll ech mer behalen, a wat kann ech maachen?",
-    "t": 605.64
+    "t": 627.97
    },
    {
     "speaker": "Tom",
     "text": "Dräi einfach Saachen. Éischtens — erënner dech un d'Websäit. accessibilite Punkt l-u. Et ass déi offiziell Virdier zu allen dräi Beräicher.",
-    "t": 611.17
+    "t": 633.5
    },
    {
     "speaker": "Anna",
     "text": "accessibilite.lu. Verstanen.",
-    "t": 618.55
+    "t": 640.88
    },
    {
     "speaker": "Tom",
     "text": "Zweetens — wann eng ëffentlech Websäit dech blockéiert, hues du d'Recht dech ze beschwéieren, an eng Äntwert ze kréien. Gëff net einfach op — meld et.",
-    "t": 621.02
+    "t": 643.35
    },
    {
     "speaker": "Anna",
     "text": "An drëttens?",
-    "t": 628.91
+    "t": 651.24
    },
    {
     "speaker": "Tom",
     "text": "Drëttens — wann e Produit oder eng Déngschtleeschtung net accessibel ass, kanns du dat och mellen, iwwer MyGuichet.lu. Deng Stëmm hëlleft, d'Saache besser ze maachen, fir dech a fir déi nächst Persoun.",
-    "t": 630.08
+    "t": 652.41
    },
    {
     "speaker": "Anna",
     "text": "A wann s du e Professionnel bass — en Architekt, e Betribsbesëtzer, e Websäit-Manager?",
-    "t": 640.33
+    "t": 662.66
    },
    {
     "speaker": "Tom",
     "text": "Da ass d'Websäit op eng aner Manéier fir dech do. Si huet d'Gesetzer, d'Standarden, d'Boîten à outils — alles, wat s du brauchs, fir däin Deel ze maachen. Well Accessibilitéit ass keng Gefällegkeet. Et gëtt déi normal Manéier, fir d'Saachen ze maachen.",
-    "t": 645.11
+    "t": 667.44
    },
    {
     "speaker": "Anna",
     "text": "Eng kuerz Zesummefaassung fir ofzeschléissen?",
-    "t": 656.94
+    "t": 679.27
    },
    {
     "speaker": "Tom",
     "text": "Gär. Lëtzebuerg huet een offizielle Knäppelpunkt — accessibilite.lu — fir dräi Beräicher vun der Accessibilitéit. Digital, mam Gesetz vun 2019, fir ëffentlech Websäiten an Apps. Infrastruktur, mam Gesetz vun 2022, fir accessibel Gebaier, Stroossen, a Wunnengen, opgebaut op universellem Design, mat enger Frist vun 2032 fir bestoend ëffentlech Plazen. A Produiten an Déngschtleeschtungen, déi neist, vum European Accessibility Act, gëllt zënter Juni 2025, iwwerwaacht vum OSAPS-Büro — mat private Betriber elo och mat dobäi.",
-    "t": 658.74
+    "t": 681.07
    },
    {
     "speaker": "Anna",
     "text": "An d'Message fir haut?",
-    "t": 692.6
+    "t": 714.93
    },
    {
     "speaker": "Tom",
     "text": "Accessibilitéit ass net nëmme fir \"aner Leit\". Et ass fir eis all — haut, oder muer. Eng Welt déi fir jiddereen gebaut ass, ass einfach eng besser Welt fir dran ze liewen.",
-    "t": 694.3
+    "t": 716.63
    },
    {
     "speaker": "Anna",
     "text": "Also... egal ob s du e Bierger bass deen op en Hindernis stéisst, oder e Professionnel deen d'Saache baut — erënner dech un d'Virdier. accessibilite.lu.",
-    "t": 703.14
+    "t": 725.47
    },
    {
     "speaker": "Tom",
     "text": "Eng Websäit, dräi Verspriechen, an e Land dat lues all Dier opmécht.",
-    "t": 712.48
+    "t": 734.81
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer d'Accessibilitéit. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 716.25
+    "t": 738.58
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 760.08
+    "t": 782.41
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 763.28
+    "t": 785.61
    }
   ],
   "audio_fr": "podcast_accessibilite_fr.mp3",
-  "duration_fr": 777.33,
+  "duration_fr": 798.64,
   "title_fr": "L'accessibilité pour tous – les trois promesses du Luxembourg",
   "description_fr": "Ce qu'est accessibilite.lu et les trois domaines qu'il rassemble : l'accessibilité numérique des sites et applications publics (loi du 28 mai 2019), des bâtiments, rues et logements accessibles grâce au design universel (loi du 7 janvier 2022), et des produits et services accessibles dans le cadre de l'Acte européen sur l'accessibilité (applicable depuis le 28 juin 2025, surveillé par l'OSAPS).",
   "topics_fr": [
@@ -33676,7 +33691,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_accessibilite_de.mp3",
-  "duration_de": 896.99,
+  "duration_de": 919.69,
   "title_de": "Barrierefreiheit für alle – Luxemburgs drei Versprechen",
   "description_de": "Was accessibilite.lu ist und die drei Bereiche, die es zusammenbringt: die digitale Barrierefreiheit öffentlicher Websites und Apps (Gesetz vom 28. Mai 2019), barrierefreie Gebäude, Straßen und Wohnungen durch universelles Design (Gesetz vom 7. Januar 2022) und barrierefreie Produkte und Dienstleistungen im Rahmen des Europäischen Rechtsakts zur Barrierefreiheit (anwendbar seit dem 28. Juni 2025, überwacht von der OSAPS).",
   "topics_de": [

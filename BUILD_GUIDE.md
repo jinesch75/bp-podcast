@@ -228,3 +228,7 @@ Applied (Jacques: "apply all suggestions"): Espace orientation hours 10:00–17:
 ## Fact-check Info-Seniors (9 Nov 2026)
 
 No errors. Applied (Jacques: "apply all"): register "still growing" instead of "complete" (infosenior.public.lu says it is completed as data arrives); COMPA paid by the National Solidarity Fund, for approved care homes / supervised housing; ala help line 26 432 432 (24/7) — added "26 432 432" to PHONE_NUMBERS in `pronunciation.py` (read digit by digit); Red Cross service named Iris. Script: `build/apply_factcheck_infosenior_2026_11.py`. Quiz unchanged. Re-recorded EN/FR/DE (changed sentences only, ≈3,300 credits). FR "C'était notre épisode sur Info-Seniors." flagged "still cut" by the checker but is complete (unchanged audio).
+
+## Fact-check Accessibility (9 Nov 2026)
+
+Applied (Jacques: "apply all"): digital complaint procedure — organisation first (contact in its accessibility declaration), then the SIP (answers within a month) or the Ombudsman; OSAPS reporting also by phone, e-mail or WhatsApp photo (no numbers); financial aid — plan compliance check first, works finished by July 2031; new collective housing — one home in ten accessible. Script: `build/apply_factcheck_accessibilite_2026_11.py`. Quiz unchanged. Re-recorded EN/FR/DE (changed sentences only, ≈3,400 credits).

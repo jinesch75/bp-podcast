@@ -60,7 +60,7 @@
 
 **ANNA:** Also ist es transparent. Sie müssen zugeben, was noch nicht perfekt ist.
 
-**TOM:** Genau. Und — das ist wichtig — wenn Sie ein Problem finden, können Sie sich beschweren. Jede Seite muss Ihnen eine Möglichkeit geben, ein Hindernis zu melden. Sie müssen Ihnen antworten, normalerweise innerhalb eines Monats. Und wenn Sie nicht zufrieden sind, können Sie sich an den Informationsdienst des Staates wenden, oder sogar an den Ombudsmann — den Mediateur.
+**TOM:** Genau. Und — das ist wichtig — wenn Sie ein Problem finden, können Sie sich beschweren. Zuerst wenden Sie sich an die Stelle selbst, mit den Kontaktdaten aus ihrer Barrierefreiheitserklärung. Wenn das nicht hilft, können Sie sich an den Informations- und Pressedienst des Staates wenden, den SIP, der die Barrierefreiheit kontrolliert und innerhalb eines Monats antwortet — oder an den Ombudsmann, den Mediateur.
 
 **ANNA:** Sie sind also nicht machtlos. Wenn eine öffentliche Website Sie blockiert, gibt es eine Tür, an die Sie klopfen können.
 
@@ -88,7 +88,7 @@
 
 **ANNA:** Das ergibt absolut Sinn. Es ist schwieriger und teurer, einen Aufzug in ein altes Gebäude einzubauen, als ihn vom ersten Tag an einzuplanen.
 
-**TOM:** Genau. Und das neue Gesetz geht weiter als das alte. Es geht nicht nur um öffentliche Gebäude. Es deckt auch öffentliche Straßen ab, und kollektiven Wohnraum — Gebäude mit vielen Wohnungen darin.
+**TOM:** Genau. Und das neue Gesetz geht weiter als das alte. Es geht nicht nur um öffentliche Gebäude. Es deckt auch öffentliche Straßen ab, und kollektiven Wohnraum — in neuen Mehrfamilienhäusern muss jede zehnte Wohnung barrierefrei sein.
 
 **ANNA:** Und für Gebäude, die bereits existieren? Man kann nicht alles über Nacht neu bauen.
 
@@ -96,7 +96,7 @@
 
 **ANNA:** Es gibt also Zeit, aber auch ein klares Ziel. Gut. Und wer kann bei all dem helfen — für jemanden, der baut oder renoviert?
 
-**TOM:** Das Infrastrukturportal auf accessibilite.lu enthält die Regeln, die Verfahren und einen Werkzeugkasten. So kann ein Architekt, eine Gemeinde oder ein Eigentümer finden, was zu tun ist, um es richtig zu machen. Und es gibt finanzielle Hilfe: Der Staat kann die Hälfte der Kosten für die Arbeiten übernehmen, bis zu vierundzwanzigtausend Euro pro Ort — wenn Sie den Antrag vor Juli 2028 stellen.
+**TOM:** Das Infrastrukturportal auf accessibilite.lu enthält die Regeln, die Verfahren und einen Werkzeugkasten. So kann ein Architekt, eine Gemeinde oder ein Eigentümer finden, was zu tun ist, um es richtig zu machen. Und es gibt finanzielle Hilfe: Der Staat kann die Hälfte der Kosten für die Arbeiten übernehmen, bis zu vierundzwanzigtausend Euro pro Ort — wenn Sie den Antrag vor Juli 2028 stellen. Die Pläne müssen vorher auf Konformität geprüft werden, und die Arbeiten müssen bis Juli 2031 fertig sein.
 
 **ANNA:** Wunderbar. Gut, Tom — das war Digitales und Infrastruktur. Was ist der dritte Bereich?
 
@@ -128,7 +128,7 @@
 
 **ANNA:** Wie mache ich das?
 
-**TOM:** Online, über MyGuichet.lu — die digitale Plattform des Staates. Und Sie können es sogar ohne Anmeldung tun, wenn Sie möchten. So ist es leicht, die Hand zu heben und zu sagen — diese Maschine, diese Dienstleistung, funktioniert nicht für mich.
+**TOM:** Online, über MyGuichet.lu — die digitale Plattform des Staates. Und Sie können es sogar ohne Anmeldung tun, wenn Sie möchten. Oder per Telefon, oder per E-Mail — oder Sie schicken einfach ein Foto per WhatsApp, zum Beispiel von einem Fahrkartenautomaten, der für Sie nicht funktioniert. So ist es leicht, die Hand zu heben und zu sagen — diese Maschine, diese Dienstleistung, funktioniert nicht für mich.
 
 **ANNA:** Ich finde es toll, dass sich die drei Bereiche so verbinden. Man meldet ein fehlerhaftes Produkt über eine öffentliche Website... die selbst barrierefrei sein muss... in einem Gebäude, das ebenfalls barrierefrei sein sollte.
 
