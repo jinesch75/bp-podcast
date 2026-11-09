@@ -44,7 +44,7 @@ NAMES = {
            (r"\bZesumme\b", "Tsézoumeu"), (r"\bVereinfachen\b", "Fèraïnnfarènn")],  # FR 5B
 }
 # Phone numbers written as plain numbers in the scripts -> read digit by digit.
-PHONE_NUMBERS = ["8002", "8181", "261210", "247-86000"]
+PHONE_NUMBERS = ["8002", "8181", "261210", "247-86000", "26 432 432"]  # 26 432 432: ala Alzheimer help line (fact-check 2026-11-09)
 # e-mail addresses (fact-check update 2026-09-30: contact@talentdesk.lu)
 AT = {"en": "at", "fr": "arobase", "de": "at", "lb": "at"}
 

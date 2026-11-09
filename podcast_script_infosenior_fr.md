@@ -34,7 +34,7 @@
 
 **TOM :** Un registre. Ça a l'air officiel. Qu'est-ce qu'il y a dedans ?
 
-**ANNA :** C'est une liste complète et fiable des services et des structures pour les personnes âgées au Luxembourg. Pour chacun, vous trouvez des informations détaillées — ce qu'est le service, les conditions pour en bénéficier, et les démarches à effectuer.
+**ANNA :** C'est une liste fiable des services et des structures agréés pour les personnes âgées au Luxembourg — et elle s'agrandit encore, au fur et à mesure que les services envoient leurs informations. Pour chacun, vous trouvez des informations détaillées — ce qu'est le service, les conditions pour en bénéficier, et les démarches à effectuer.
 
 **TOM :** Donc, pas seulement un nom et un numéro de téléphone. Ça me dit comment obtenir l'aide concrètement.
 
@@ -86,11 +86,11 @@
 
 **TOM :** À ce propos — y a-t-il des services pour des situations plus particulières ? Tout le monde n'a pas les mêmes besoins.
 
-**ANNA :** Oui, et le site web vous oriente aussi vers des services spécialisés. Laisse-moi donner quelques exemples. Pour les problèmes de mémoire et la démence, il y a un centre d'information national — l'Info-Zenter Demenz. Et il y a l'association Alzheimer, qui gère même une ligne d'aide, disponible jour et nuit, pour les situations urgentes.
+**ANNA :** Oui, et le site web vous oriente aussi vers des services spécialisés. Laisse-moi donner quelques exemples. Pour les problèmes de mémoire et la démence, il y a un centre d'information national — l'Info-Zenter Demenz. Et il y a l'association Alzheimer, qui gère même une ligne d'aide, 26 432 432, disponible jour et nuit, pour les situations urgentes.
 
 **TOM :** Une ligne 24 heures sur 24 pour Alzheimer — c'est tellement important pour les familles en détresse.
 
-**ANNA :** Ça l'est vraiment. Ensuite, pour le monde numérique — il y a une organisation qui aide les seniors à apprendre à utiliser les ordinateurs et les smartphones, pour qu'ils ne soient pas laissés de côté. Pour la solitude, il y a un service de la Croix-Rouge, où des bénévoles formés rendent régulièrement visite aux personnes isolées.
+**ANNA :** Ça l'est vraiment. Ensuite, pour le monde numérique — il y a une organisation qui aide les seniors à apprendre à utiliser les ordinateurs et les smartphones, pour qu'ils ne soient pas laissés de côté. Pour la solitude, il y a un service de la Croix-Rouge, appelé Iris, où des bénévoles formés rendent régulièrement visite aux personnes isolées.
 
 **TOM :** Juste pour leur tenir compagnie. C'est magnifique.
 
@@ -134,7 +134,7 @@
 
 **TOM :** Relier les générations — les jeunes et les moins jeunes ensemble.
 
-**ANNA :** Oui. Vieillir, ce n'est pas seulement une question de soins. C'est aussi rester actif, utile, et connecté. Et il y a aussi un soutien financier. Depuis 2026, un dispositif appelé COMPA aide les personnes qui n'ont pas assez d'argent pour payer une maison de soins ou un logement encadré.
+**ANNA :** Oui. Vieillir, ce n'est pas seulement une question de soins. C'est aussi rester actif, utile, et connecté. Et il y a aussi un soutien financier. Depuis 2026, un dispositif appelé COMPA, versé par le Fonds national de solidarité, aide les personnes qui n'ont pas assez d'argent pour payer une structure d'hébergement ou un logement encadré agréés.
 
 **TOM :** C'est important — que l'argent ne soit pas l'obstacle à recevoir des soins. D'accord, Anna, rendons ça vraiment pratique. Si j'écoute, et que moi — ou mon parent — pourrait avoir besoin d'aide, qu'est-ce que je fais ?
 

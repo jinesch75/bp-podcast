@@ -34,7 +34,7 @@
 
 **TOM:** E Register. Dat kléngt offiziell. Wat ass do dran?
 
-**ANNA:** Et ass eng komplett, zouverlässeg Lëscht vun de Servicer a Strukturen fir eeler Leit zu Lëtzebuerg. Fir all eenzelen fënnt Dir detailléiert Informatiounen — wat de Service ass, d'Konditiounen, fir en ze benotzen, an d'Schrëtt, déi Dir musst maachen.
+**ANNA:** Et ass eng zouverlässeg Lëscht vun den agreéierte Servicer a Strukturen fir eeler Leit zu Lëtzebuerg — an si gëtt nach ëmmer méi grouss, esou wéi d'Servicer hir Informatiounen aschécken. Fir all eenzelen fënnt Dir detailléiert Informatiounen — wat de Service ass, d'Konditiounen, fir en ze benotzen, an d'Schrëtt, déi Dir musst maachen.
 
 **TOM:** Also net just en Numm an eng Telefonsnummer. Et seet mer, wéi ech d'Hëllef wierklech kréien.
 
@@ -86,11 +86,11 @@
 
 **TOM:** Apropos — ginn et Servicer fir méi spezifesch Situatiounen? Net jiddwereen huet déi selwecht Besoinen.
 
-**ANNA:** Jo, an d'Websäit weist Iech och op spezialiséiert Servicer. Loosse mech e puer Beispiller ginn. Fir Gediechtnisproblemer an Demenz gëtt et en nationalen Informatiounszenter — den Info-Zenter Demenz. An et gëtt d'Alzheimer-Associatioun, déi souguer eng Hëllefslinn huet, rëm d'Auer disponibel, fir dréngend Situatiounen.
+**ANNA:** Jo, an d'Websäit weist Iech och op spezialiséiert Servicer. Loosse mech e puer Beispiller ginn. Fir Gediechtnisproblemer an Demenz gëtt et en nationalen Informatiounszenter — den Info-Zenter Demenz. An et gëtt d'Alzheimer-Associatioun, déi souguer eng Hëllefslinn huet, 26 432 432, rëm d'Auer disponibel, fir dréngend Situatiounen.
 
 **TOM:** Eng 24-Stonnen-Linn fir Alzheimer — dat ass esou wichteg fir Famillen an Nout.
 
-**ANNA:** Dat ass et wierklech. Dann, fir déi digital Welt — gëtt et eng Organisatioun, déi Senioren hëlleft, Computeren a Smartphonen ze léieren, sou datt si net zréckgelooss ginn. Géint d'Eensamkeet gëtt et e Service vum Rouden Kräiz, wou ausgebilte Fräiwëlleger reegelméisseg isoléiert Leit besichen.
+**ANNA:** Dat ass et wierklech. Dann, fir déi digital Welt — gëtt et eng Organisatioun, déi Senioren hëlleft, Computeren a Smartphonen ze léieren, sou datt si net zréckgelooss ginn. Géint d'Eensamkeet gëtt et e Service vum Rouden Kräiz, mam Numm Iris, wou ausgebilte Fräiwëlleger reegelméisseg isoléiert Leit besichen.
 
 **TOM:** Just fir hinnen Gesellschaft ze leeschten. Dat ass schéin.
 
@@ -134,7 +134,7 @@
 
 **TOM:** D'Generatioune verbannen — jonk an al zesummen.
 
-**ANNA:** Jo. D'Eelerwerden ass net just iwwer Fleeg. Et ass och iwwer aktiv, nëtzlech a verbonne bleiwen. An et gëtt och finanziell Ënnerstëtzung. Zënter 2026 hëlleft e System mam Numm COMPA de Leit, déi net genuch Geld hunn, fir e Fleegeheem oder e betreit Wunnen ze bezuelen.
+**ANNA:** Jo. D'Eelerwerden ass net just iwwer Fleeg. Et ass och iwwer aktiv, nëtzlech a verbonne bleiwen. An et gëtt och finanziell Ënnerstëtzung. Zënter 2026 hëlleft e System mam Numm COMPA, bezuelt vum Nationale Solidaritéitsfong, de Leit, déi net genuch Geld hunn, fir en agreéiert Fleegeheem oder e betreit Wunnen ze bezuelen.
 
 **TOM:** Dat ass wichteg — datt d'Geld net d'Barrière sollt sinn, fir Fleeg ze kréien. Gutt, Anna, loosse mer et wierklech praktesch maachen. Wann ech nolauschteren, an ech — oder meng Elteren — kéinten e bësse Hëllef brauchen, wat maachen ech?
 

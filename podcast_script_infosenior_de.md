@@ -34,7 +34,7 @@
 
 **TOM:** Ein Register. Das klingt offiziell. Was ist da drin?
 
-**ANNA:** Es ist eine vollständige, verlässliche Liste der Dienste und Einrichtungen für ältere Menschen in Luxemburg. Für jeden finden Sie ausführliche Informationen — was der Dienst ist, die Bedingungen für die Nutzung, und die Schritte, die Sie unternehmen müssen.
+**ANNA:** Es ist eine verlässliche Liste der zugelassenen Dienste und Einrichtungen für ältere Menschen in Luxemburg — und sie wächst noch, je mehr Dienste ihre Informationen einschicken. Für jeden finden Sie ausführliche Informationen — was der Dienst ist, die Bedingungen für die Nutzung, und die Schritte, die Sie unternehmen müssen.
 
 **TOM:** Also nicht nur ein Name und eine Telefonnummer. Es sagt mir, wie ich die Hilfe tatsächlich bekomme.
 
@@ -86,11 +86,11 @@
 
 **TOM:** Apropos — gibt es Dienste für speziellere Situationen? Nicht jeder hat die gleichen Bedürfnisse.
 
-**ANNA:** Ja, und die Webseite verweist Sie auch auf spezialisierte Dienste. Lass mich ein paar Beispiele geben. Für Gedächtnisprobleme und Demenz gibt es ein nationales Informationszentrum — das Info-Zenter Demenz. Und es gibt den Alzheimer-Verein, der sogar eine Hilfeleitung betreibt, rund um die Uhr verfügbar, für dringende Situationen.
+**ANNA:** Ja, und die Webseite verweist Sie auch auf spezialisierte Dienste. Lass mich ein paar Beispiele geben. Für Gedächtnisprobleme und Demenz gibt es ein nationales Informationszentrum — das Info-Zenter Demenz. Und es gibt den Alzheimer-Verein, der sogar eine Hilfeleitung betreibt, 26 432 432, rund um die Uhr verfügbar, für dringende Situationen.
 
 **TOM:** Eine 24-Stunden-Leitung für Alzheimer — das ist so wichtig für Familien in Not.
 
-**ANNA:** Das ist es wirklich. Dann, für die digitale Welt — es gibt eine Organisation, die Senioren hilft, den Umgang mit Computern und Smartphones zu lernen, damit sie nicht abgehängt werden. Gegen die Einsamkeit gibt es einen Dienst des Roten Kreuzes, bei dem geschulte Freiwillige regelmäßig isolierte Menschen besuchen.
+**ANNA:** Das ist es wirklich. Dann, für die digitale Welt — es gibt eine Organisation, die Senioren hilft, den Umgang mit Computern und Smartphones zu lernen, damit sie nicht abgehängt werden. Gegen die Einsamkeit gibt es einen Dienst des Roten Kreuzes, namens Iris, bei dem geschulte Freiwillige regelmäßig isolierte Menschen besuchen.
 
 **TOM:** Einfach, um ihnen Gesellschaft zu leisten. Das ist wunderschön.
 
@@ -134,7 +134,7 @@
 
 **TOM:** Die Generationen verbinden — Jung und Alt zusammen.
 
-**ANNA:** Ja. Beim Altern geht es nicht nur um Pflege. Es geht auch darum, aktiv, nützlich und verbunden zu bleiben. Und es gibt auch finanzielle Unterstützung. Seit 2026 hilft ein Programm namens COMPA Menschen, die nicht genug Geld haben, um ein Pflegeheim oder betreutes Wohnen zu bezahlen.
+**ANNA:** Ja. Beim Altern geht es nicht nur um Pflege. Es geht auch darum, aktiv, nützlich und verbunden zu bleiben. Und es gibt auch finanzielle Unterstützung. Seit 2026 hilft ein Programm namens COMPA, gezahlt vom Nationalen Solidaritätsfonds, Menschen, die nicht genug Geld haben, um ein zugelassenes Pflegeheim oder betreutes Wohnen zu bezahlen.
 
 **TOM:** Das ist wichtig — dass Geld nicht das Hindernis sein sollte, um Pflege zu bekommen. Gut, Anna, machen wir es ganz praktisch. Wenn ich zuhöre, und ich — oder mein Elternteil — vielleicht Hilfe brauche, was mache ich?
 

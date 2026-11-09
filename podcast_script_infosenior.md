@@ -34,7 +34,7 @@
 
 **TOM:** A register. That sounds official. What's inside?
 
-**ANNA:** It's a complete, reliable list of the services and structures for older people in Luxembourg. For each one, you find detailed information — what the service is, the conditions to use it, and the steps you have to take.
+**ANNA:** It's a reliable list of the approved services and structures for older people in Luxembourg — and it's still growing, as more services send in their information. For each one, you find detailed information — what the service is, the conditions to use it, and the steps you have to take.
 
 **TOM:** So not just a name and a phone number. It tells me how to actually get the help.
 
@@ -86,11 +86,11 @@
 
 **TOM:** Speaking of which — are there services for more specific situations? Not everyone has the same needs.
 
-**ANNA:** Yes, and the website points you to specialised services too. Let me give a few examples. For memory problems and dementia, there's a national information centre — the Info-Zenter Demenz. And there's the Alzheimer association, which even runs a help line, available around the clock, for urgent situations.
+**ANNA:** Yes, and the website points you to specialised services too. Let me give a few examples. For memory problems and dementia, there's a national information centre — the Info-Zenter Demenz. And there's the Alzheimer association, which even runs a help line, 26 432 432, available around the clock, for urgent situations.
 
 **TOM:** A 24-hour line for Alzheimer — that's so important for families in distress.
 
-**ANNA:** It really is. Then, for the digital world — there's an organisation that helps seniors learn to use computers and smartphones, so they're not left behind. For loneliness, there's a service of the Red Cross, where trained volunteers regularly visit isolated people.
+**ANNA:** It really is. Then, for the digital world — there's an organisation that helps seniors learn to use computers and smartphones, so they're not left behind. For loneliness, there's a service of the Red Cross, called Iris, where trained volunteers regularly visit isolated people.
 
 **TOM:** Just to keep them company. That's beautiful.
 
@@ -134,7 +134,7 @@
 
 **TOM:** Connecting the generations — young and old together.
 
-**ANNA:** Yes. Ageing isn't only about care. It's also about staying active, useful, and connected. And there's also financial support. Since 2026, a scheme called COMPA helps people who don't have enough money to pay for a care home or supervised housing.
+**ANNA:** Yes. Ageing isn't only about care. It's also about staying active, useful, and connected. And there's also financial support. Since 2026, a scheme called COMPA, paid by the National Solidarity Fund, helps people who don't have enough money to pay for an approved care home or supervised housing.
 
 **TOM:** That's important — that money shouldn't be the barrier to getting care. Okay, Anna, let's make it really practical. If I'm listening, and I — or my parent — might need some help, what do I do?
 
@@ -162,4 +162,4 @@
 
 ---
 
-*Source: infosenior.public.lu (Info-Seniors — Public Register of Services for Seniors) and mfsva.gouvernement.lu, Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees — "Elderly People" and "Senior Activities" pages. The Public Register is based on the amended law of 23 August 2023 on the quality of services for older people and has been online since 1 March 2024. Since 1 January 2026, the COMPA scheme (Complément pour personnes âgées, Fonds national de solidarité) helps people with limited resources pay for a care home or supervised housing. Information and advice: Senioren-Telefon 247-86000; mediation: SIMPA (simpa.public.lu). General information only — check infosenior.lu for the current details and conditions of each service.*
+*Source: infosenior.public.lu (Info-Seniors — Public Register of Services for Seniors) and mfsva.gouvernement.lu, Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees — "Elderly People" and "Senior Activities" pages. The Public Register is based on the amended law of 23 August 2023 on the quality of services for older people and has been online since 1 March 2024. Since 1 January 2026, the COMPA scheme (Complément pour personnes âgées, Fonds national de solidarité) helps people with limited resources pay for a care home or supervised housing. Information and advice: Senioren-Telefon 247-86000; mediation: SIMPA (simpa.public.lu). Fact-checked 9 November 2026 (infosenior.public.lu: register still being completed; COMPA under the law of 18 July 2025, paid by the FNS; ala help line 26 432 432, 24/7; Croix-Rouge Iris service). General information only — check infosenior.lu for the current details and conditions of each service.*

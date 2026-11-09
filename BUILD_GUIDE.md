@@ -224,3 +224,7 @@ Note (Jacques, 9 Nov 2026): after these fact-checks, every episode's script is a
 ## Fact-check Maison de l'Orientation (9 Nov 2026)
 
 Applied (Jacques: "apply all suggestions"): Espace orientation hours 10:00–17:00 (page of 31.08.2026; the general page of 22.01.2026 still says 8:00–17:00 — flag for the expert review); e-mail info@maison-orientation.public.lu (spoken "info, at, maison dash orientation dot public dot l-u"); website has a dash ("maison, dash, orientation, dot public dot l-u"); coaching up to 22, LU/FR/DE/EN, in person or online via MyGuichet.lu, confidential; event examples from the current agenda. Script: `build/apply_factcheck_maison_orientation_2026_11.py`; quiz Q2 explanation via `build/apply_factcheck_quiz_2026_11.js`. Re-recorded EN/FR/DE (changed sentences only, ≈4,600 credits).
+
+## Fact-check Info-Seniors (9 Nov 2026)
+
+No errors. Applied (Jacques: "apply all"): register "still growing" instead of "complete" (infosenior.public.lu says it is completed as data arrives); COMPA paid by the National Solidarity Fund, for approved care homes / supervised housing; ala help line 26 432 432 (24/7) — added "26 432 432" to PHONE_NUMBERS in `pronunciation.py` (read digit by digit); Red Cross service named Iris. Script: `build/apply_factcheck_infosenior_2026_11.py`. Quiz unchanged. Re-recorded EN/FR/DE (changed sentences only, ≈3,300 credits). FR "C'était notre épisode sur Info-Seniors." flagged "still cut" by the checker but is complete (unchanged audio).
