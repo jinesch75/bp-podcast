@@ -14,7 +14,7 @@
 **TOM:** Pour tout cela, le Luxembourg dispose d'une partie spéciale de sa sécurité sociale... l'Association d'assurance accident.
 **ANNA:** Les gens la connaissent par ses initiales en français... l'AAA, l'Association d'assurance accident.
 **TOM:** Alors Anna, qu'est-ce que l'AAA exactement ?
-**ANNA:** C'est l'organisme qui gère l'assurance du Luxembourg contre les accidents du travail et les maladies professionnelles.
+**ANNA:** C'est l'organisme qui gère l'assurance du Luxembourg contre les accidents du travail et les maladies professionnelles. Elle a été créée dès 1902.
 **TOM:** Elle fait partie du système de sécurité sociale. Elle est donc publique, et elle est là pour vous automatiquement.
 **ANNA:** Soyons clairs sur ce qu'elle couvre, car c'est plus large qu'on ne le pense.
 **TOM:** Le premier, c'est l'accident du travail lui-même... quelque chose qui vous arrive pendant que vous faites votre travail.
@@ -42,9 +42,9 @@
 **TOM:** Maintenant, rendons cela concret. Que devriez-vous réellement faire si un accident survient ?
 **ANNA:** L'essentiel, c'est que l'accident doit être déclaré à l'AAA.
 **TOM:** Pour les accidents du travail, c'est normalement votre employeur qui fait cette déclaration.
-**ANNA:** Et une grande partie de cela peut désormais se faire par voie électronique, via MyGuichet, dont nous avons parlé dans un épisode précédent.
+**ANNA:** Et cela peut désormais se faire par voie électronique, via MyGuichet, dont nous avons parlé dans un épisode précédent... aussi bien pour les accidents du travail que pour les accidents scolaires.
 **TOM:** Le système devient donc plus simple et plus rapide.
-**ANNA:** Il est aussi bon de savoir que l'AAA est là pour répondre aux questions, avec un service de contact et un guichet.
+**ANNA:** Il est aussi bon de savoir que l'AAA est là pour répondre aux questions, avec un service de contact et un guichet... et on peut même prendre rendez-vous en ligne.
 **TOM:** Vous n'êtes donc pas seul pour gérer une situation stressante.
 **ANNA:** Prenons un peu de recul. Pourquoi est-ce important, même quand la vie se passe bien ?
 **TOM:** Parce que les accidents sont, par définition, des choses que nous ne prévoyons pas. Et savoir que vous êtes couvert apporte une tranquillité d'esprit.
@@ -66,4 +66,4 @@
 
 ---
 
-*Sources : Association d'assurance accident (AAA), aaa.public.lu — fait partie de la sécurité sociale du Luxembourg (« Cité de la sécurité sociale ») ; couverture des accidents du travail, des accidents de trajet, des accidents scolaires et extrascolaires, et des maladies professionnelles ; prestations (soins médicaux, indemnisation/rentes) financées par les cotisations des employeurs avec un système de bonus-malus ; prévention en matière de sécurité et de santé au travail (recommandations, formations, l'approche « Vision Zero ») ; déclaration des accidents, de plus en plus via MyGuichet.lu. Informations générales uniquement — pour votre situation, contactez l'AAA. Exactes en date de juin 2026.*
+*Sources : Association d'assurance accident (AAA), aaa.public.lu — fait partie de la sécurité sociale du Luxembourg (« Cité de la sécurité sociale ») ; couverture des accidents du travail, des accidents de trajet, des accidents scolaires et extrascolaires, et des maladies professionnelles ; prestations (soins médicaux, indemnisation/rentes) financées par les cotisations des employeurs avec un système de bonus-malus ; prévention en matière de sécurité et de santé au travail (recommandations, formations, l'approche « Vision Zero ») ; déclaration des accidents, de plus en plus via MyGuichet.lu. Informations générales uniquement — pour votre situation, contactez l'AAA. Exactes en date de juin 2026. Mise à jour : AAA créée en 1902 ; déclaration électronique via MyGuichet.lu depuis le 30 septembre 2024 ; rendez-vous en ligne. Vérifié le 9 novembre 2026.*

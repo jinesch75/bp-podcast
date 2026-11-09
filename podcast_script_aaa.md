@@ -14,7 +14,7 @@
 **TOM:** For all of that, Luxembourg has a special part of its social security... the Accident Insurance Association.
 **ANNA:** People know it by its initials in French... AAA, the Association d'assurance accident.
 **TOM:** So Anna, what exactly is the AAA?
-**ANNA:** It is the body that runs Luxembourg's insurance against accidents at work, and occupational diseases.
+**ANNA:** It is the body that runs Luxembourg's insurance against accidents at work, and occupational diseases. It was created back in 1902.
 **TOM:** It's part of the social security system. So it's public, and it's there for you automatically.
 **ANNA:** Let's be clear about what it covers, because it's broader than people think.
 **TOM:** The first is the accident at work itself... something that happens to you while doing your job.
@@ -42,9 +42,9 @@
 **TOM:** Now let's make this practical. What should you actually do if an accident happens?
 **ANNA:** The key thing is that the accident must be declared to the AAA.
 **TOM:** For accidents at work, your employer normally makes that declaration.
-**ANNA:** And much of this can now be done electronically, through MyGuichet, which we covered in an earlier episode.
+**ANNA:** And this can now be done electronically, through MyGuichet, which we covered in an earlier episode... both for accidents at work and for school accidents.
 **TOM:** So the system is becoming simpler and faster.
-**ANNA:** It's also worth knowing the AAA is there to answer questions, with a contact service and a counter.
+**ANNA:** It's also worth knowing the AAA is there to answer questions, with a contact service and a counter... and you can even book an appointment online.
 **TOM:** So you're not alone in figuring out a stressful situation.
 **ANNA:** Let's step back. Why does this matter, even when life is going well?
 **TOM:** Because accidents are, by definition, things we don't plan for. And knowing you're covered brings peace of mind.
@@ -66,4 +66,4 @@
 
 ---
 
-*Sources: Association d'assurance accident (AAA), aaa.public.lu — part of Luxembourg's social security ("Cité de la sécurité sociale"); cover for accidents at work, commuting (trajet) accidents, school and extracurricular accidents, and occupational diseases; benefits (medical care, compensation/rentes) funded by employer contributions with a bonus-malus system; occupational safety and health prevention (recommendations, training, the "Vision Zero" approach); declaration of accidents, increasingly via MyGuichet.lu. General information only — for your situation, contact the AAA. Accurate as of June 2026.*
+*Sources: Association d'assurance accident (AAA), aaa.public.lu — part of Luxembourg's social security ("Cité de la sécurité sociale"); cover for accidents at work, commuting (trajet) accidents, school and extracurricular accidents, and occupational diseases; benefits (medical care, compensation/rentes) funded by employer contributions with a bonus-malus system; occupational safety and health prevention (recommendations, training, the "Vision Zero" approach); declaration of accidents, increasingly via MyGuichet.lu. General information only — for your situation, contact the AAA. Accurate as of June 2026. Update: AAA created in 1902; electronic declaration of work/commuting and school accidents via MyGuichet.lu since 30 September 2024; online appointments via MyGuichet.lu (aaa.public.lu, guichet.public.lu). Fact-checked 9 November 2026.*

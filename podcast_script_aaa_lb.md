@@ -14,7 +14,7 @@
 **TOM:** Fir all dat huet Lëtzebuerg e besonneschen Deel vu senger Sozialversécherung... d'Accident-Versécherung.
 **ANNA:** D'Leit kennen se ënner hire franséischen Initialen... AAA, d'Association d'assurance accident.
 **TOM:** Also Anna, wat ass d'AAA genau?
-**ANNA:** Et ass déi Instanz, déi Lëtzebuerg seng Versécherung géint Aarbechtsaccidenter a Beruffskrankheeten verwalt.
+**ANNA:** Et ass déi Instanz, déi Lëtzebuerg seng Versécherung géint Aarbechtsaccidenter a Beruffskrankheeten verwalt. Si gouf schonn 1902 gegrënnt.
 **TOM:** Si ass Deel vum Sozialversécherungssystem. Si ass also ëffentlech, a si ass automatesch fir Iech do.
 **ANNA:** Loosse mer kloer soen, wat se ofdeckt, well et ass méi breet, wéi d'Leit mengen.
 **TOM:** Dat éischt ass den Aarbechtsaccident selwer... eppes, wat Iech geschitt, während Dir Är Aarbecht maacht.
@@ -42,9 +42,9 @@
 **TOM:** Maache mer et elo praktesch. Wat sollt Dir wierklech maachen, wann en Accident geschitt?
 **ANNA:** D'Haaptsaach ass, datt den Accident bei der AAA gemellt muss ginn.
 **TOM:** Bei Aarbechtsaccidenter mécht normalerweis Ären Aarbechtgeber dës Meldung.
-**ANNA:** A vill dovun kann elo elektronesch gemaach ginn, iwwer MyGuichet, doriwwer hu mir an enger fréierer Episod geschwat.
+**ANNA:** An dat kann elo elektronesch gemaach ginn, iwwer MyGuichet, doriwwer hu mir an enger fréierer Episod geschwat... souwuel fir Aarbechtsaccidenter wéi och fir Schoulaccidenter.
 **TOM:** De System gëtt also méi einfach a méi séier.
-**ANNA:** Et ass och gutt ze wëssen, datt d'AAA do ass, fir Froen ze beäntweren, mat engem Kontaktservice an engem Schalter.
+**ANNA:** Et ass och gutt ze wëssen, datt d'AAA do ass, fir Froen ze beäntweren, mat engem Kontaktservice an engem Schalter... an et ka souguer online e Rendez-vous huelen.
 **TOM:** Dir sidd also net eleng, fir eng stresseg Situatioun ze meeschteren.
 **ANNA:** Trieden mer e Schratt zréck. Firwat ass dat wichteg, och wann d'Liewe gutt leeft?
 **TOM:** Well Accidenter sinn, per Definitioun, Saachen, déi mir net plangen. An ze wëssen, datt Dir geschützt sidd, bréngt Séilefridden.
@@ -66,4 +66,4 @@
 
 ---
 
-*Quellen: Association d'assurance accident (AAA), aaa.public.lu — Deel vu Lëtzebuerg senger Sozialversécherung („Cité de la sécurité sociale"); Schutz bei Aarbechtsaccidenter, Trajetsaccidenter (accidents de trajet), Schoul- an ausserschoulesche Accidenter, a Beruffskrankheeten; Leeschtungen (medezinesch Versuergung, Entschiedegung/Renten) finanzéiert duerch Aarbechtgeberbäiträg mat engem Bonus-Malus-System; Preventioun am Beräich Sécherheet a Gesondheet op der Aarbechtsplaz (Recommandatiounen, Formatiounen, den Usaz „Vision Zero"); Meldung vun Accidenter, ëmmer méi iwwer MyGuichet.lu. Nëmmen allgemeng Informatiounen — fir Är Situatioun, kontaktéiert d'AAA. Korrekt um Stand vu Juni 2026.*
+*Quellen: Association d'assurance accident (AAA), aaa.public.lu — Deel vu Lëtzebuerg senger Sozialversécherung („Cité de la sécurité sociale"); Schutz bei Aarbechtsaccidenter, Trajetsaccidenter (accidents de trajet), Schoul- an ausserschoulesche Accidenter, a Beruffskrankheeten; Leeschtungen (medezinesch Versuergung, Entschiedegung/Renten) finanzéiert duerch Aarbechtgeberbäiträg mat engem Bonus-Malus-System; Preventioun am Beräich Sécherheet a Gesondheet op der Aarbechtsplaz (Recommandatiounen, Formatiounen, den Usaz „Vision Zero"); Meldung vun Accidenter, ëmmer méi iwwer MyGuichet.lu. Nëmmen allgemeng Informatiounen — fir Är Situatioun, kontaktéiert d'AAA. Korrekt um Stand vu Juni 2026. Aktualiséierung: AAA 1902; MyGuichet.lu zënter 2024. Iwwerpréift den 9. November 2026.*

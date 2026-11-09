@@ -26,11 +26,11 @@
 **TOM:** Es gibt auch ein eigenes Weininstitut, mit Sitz in Remich, an der Mosel.
 **ANNA:** Luxemburg hat eine echte Weintradition entlang der Mosel... Weißweine, und den Schaumwein namens Crémant.
 **TOM:** Das Weininstitut unterstützt die Winzer, und hilft, die Qualität hoch zu halten.
-**ANNA:** Und es gibt eine Verwaltung, die über die Gesundheit und das Wohl der Tiere wacht, und über die Sicherheit unserer Lebensmittel.
+**ANNA:** Und es gibt eine Verwaltung, die über die Gesundheit und das Wohl der Tiere wacht, und über die Sicherheit unserer Lebensmittel. Sie heißt ALVA und wurde 2022 gegründet.
 **TOM:** Also vom Feld, über das Tier, bis zum Teller... bei jedem Schritt wachen Menschen darüber.
 **ANNA:** Sprechen wir über ein Thema, das schnell wächst... die biologische Landwirtschaft.
 **TOM:** Die biologische Landwirtschaft arbeitet mit der Natur, in einem geschlossenen Kreislauf, ohne synthetische Chemikalien.
-**ANNA:** Luxemburg hat einen Plan, genannt PAN-Bio, um den Anteil der biologischen Landwirtschaft im Land zu erhöhen.
+**ANNA:** Luxemburg hat einen Plan, genannt PAN-Bio, um den Anteil der biologischen Landwirtschaft im Land zu erhöhen. Der neueste läuft von 2026 bis 2030.
 **TOM:** Wenn Sie also Bio-Produkte im Geschäft sehen, steckt eine nationale Anstrengung hinter dieser Wahl.
 **ANNA:** Sprechen wir nun über etwas, das vielen am Herzen liegt... das Tierwohl.
 **TOM:** Luxemburg hat ein Tierschutzgesetz, das recht fortschrittlich ist.
@@ -62,7 +62,7 @@
 **TOM:** Und viertens, wenn Sie neugierig auf Landwirtschaft, Lebensmittel oder Wein sind, bietet das Portal verlässliche Informationen.
 **ANNA:** Bringen wir alles zusammen. Was sollten sich die Menschen merken?
 **TOM:** Erstens... das Agrarportal, agriculture Punkt public Punkt lu, deckt Landwirtschaft, Ernährung und Wein ab, vom Ministerium für Landwirtschaft, Ernährung und Weinbau.
-**ANNA:** Zweitens... spezialisierte Stellen unterstützen es... die ASTA für die technischen Dienste, das Weininstitut in Remich, und eine Stelle für das Tierwohl und die Lebensmittelsicherheit.
+**ANNA:** Zweitens... spezialisierte Stellen unterstützen es... die ASTA für die technischen Dienste, das Weininstitut in Remich, und die ALVA für das Tierwohl und die Lebensmittelsicherheit.
 **TOM:** Drittens... Luxemburg baut die biologische Landwirtschaft aus und schützt das Tierwohl per Gesetz.
 **ANNA:** Und viertens... indem wir lokale und saisonale Lebensmittel wählen, tragen wir alle zu einem gesunden Ernährungssystem bei.
 **TOM:** Lebensmittel verbinden jeden von uns mit dem Land, und miteinander.
@@ -72,4 +72,4 @@
 
 ---
 
-*Quellen: Agrarportal, agriculture.public.lu, und das Ministère de l'Agriculture, de l'Alimentation et de la Viticulture (ma.gouvernement.lu) — Informationen über Landwirtschaft, Weinbau, Lebensmittel und landwirtschaftliche Produkte; das Ministerium beaufsichtigt mehrere spezialisierte Verwaltungen, darunter die Administration des services techniques de l'agriculture (ASTA), das Institut viti-vinicole (Weininstitut) in Remich, und die für Tiergesundheit und Tierwohl sowie Lebensmittelsicherheit zuständige Stelle. Zu den Referenzen gehören der PAN-Bio-Aktionsplan für die biologische Landwirtschaft und das luxemburgische Tierschutzgesetz (das die Würde, Sicherheit und das Wohlergehen der Tiere schützt); die Landwirte werden insbesondere durch die Gemeinsame Agrarpolitik (GAP) der EU unterstützt. Nur allgemeine Informationen. Stand Juni 2026.*
+*Quellen: Agrarportal, agriculture.public.lu, und das Ministère de l'Agriculture, de l'Alimentation et de la Viticulture (ma.gouvernement.lu) — Informationen über Landwirtschaft, Weinbau, Lebensmittel und landwirtschaftliche Produkte; das Ministerium beaufsichtigt mehrere spezialisierte Verwaltungen, darunter die Administration des services techniques de l'agriculture (ASTA), das Institut viti-vinicole (Weininstitut) in Remich, und die für Tiergesundheit und Tierwohl sowie Lebensmittelsicherheit zuständige Stelle. Zu den Referenzen gehören der PAN-Bio-Aktionsplan für die biologische Landwirtschaft und das luxemburgische Tierschutzgesetz (das die Würde, Sicherheit und das Wohlergehen der Tiere schützt); die Landwirte werden insbesondere durch die Gemeinsame Agrarpolitik (GAP) der EU unterstützt. Nur allgemeine Informationen. Stand Juni 2026. Aktualisierung: ALVA (Gesetz vom 8. September 2022); PAN-Bio 2030 (2026–2030). Geprüft am 9. November 2026.*

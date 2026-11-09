@@ -23,7 +23,7 @@
 **ANNA:** So spatial planning is like a referee, and an architect, for the whole country.
 **TOM:** It's led by the Department of Spatial Planning, part of the Ministry of Housing and Spatial Planning.
 **ANNA:** Let's look at the main tools, because they're easier to grasp than they sound.
-**TOM:** The first is the master programme, a big strategic vision for how the whole country should develop.
+**TOM:** The first is the master programme, a big strategic vision for how the whole country should develop. The current one was adopted in 2023, and looks ahead to 2035.
 **ANNA:** It sets the direction... more compact towns, protected nature, good transport, balanced regions.
 **TOM:** The second tool is a set of sectoral master plans.
 **ANNA:** These are more concrete. There are plans for transport, for housing, for economic activity zones, and for landscapes.
@@ -64,4 +64,4 @@
 
 ---
 
-*Sources: Portail de l'aménagement du territoire, amenagement-territoire.public.lu, and the Département de l'aménagement du territoire (DATer), Ministère du Logement et de l'Aménagement du territoire — definition of spatial planning (actions by the State and communes to develop the territory while protecting landscapes and ensuring rational use of the soil), the Programme directeur d'aménagement du territoire (PDAT), the sectoral master plans (transport, housing, economic activity zones, landscapes), regional development and nature parks, and cross-border / Greater Region cooperation. General information only. Accurate as of June 2026.*
+*Sources: Portail de l'aménagement du territoire, amenagement-territoire.public.lu, and the Département de l'aménagement du territoire (DATer), Ministère du Logement et de l'Aménagement du territoire — definition of spatial planning (actions by the State and communes to develop the territory while protecting landscapes and ensuring rational use of the soil), the Programme directeur d'aménagement du territoire (PDAT), the sectoral master plans (transport, housing, economic activity zones, landscapes), regional development and nature parks, and cross-border / Greater Region cooperation. General information only. Accurate as of June 2026. Update: Programme directeur d'aménagement du territoire (PDAT) approved by the Government in Council on 21 June 2023, orientations to 2035; four sectoral master plans in force since 1 March 2021. Fact-checked 9 November 2026.*

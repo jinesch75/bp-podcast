@@ -17,7 +17,7 @@
 **ANNA:** SYVICOL steet fir de Syndicat des Villes et Communes Luxembourgeoises.
 **TOM:** Op Englesch ass dat ongeféier d'Association of Luxembourg Towns and Communes.
 **ANNA:** Also Tom, wat ass de SYVICOL genau, a firwat existéiert en?
-**TOM:** Et ass d'Organisatioun, déi all d'Gemenge vu Lëtzebuerg zu enger gemeinsamer Stëmm zesummebréngt.
+**TOM:** Et ass d'Organisatioun, déi all d'Gemenge vu Lëtzebuerg zu enger gemeinsamer Stëmm zesummebréngt. Si gouf 1986 gegrënnt.
 **ANNA:** Seng Aufgab ass et, déi gemeinsam Interesse vun de Gemengen ze fërderen, ze schützen an ze verdeedegen.
 **TOM:** Denkt emol doriwwer no. All Gemeng ass éischter kleng. Eleng ass hir Stëmm vläicht roueg.
 **ANNA:** Mä zesummen, duerch de SYVICOL, kënnen déi honnert Gemenge kloer a mat richtegem Gewiicht schwätzen.
@@ -62,4 +62,4 @@
 
 ---
 
-*Quellen: SYVICOL (Syndicat des Villes et Communes Luxembourgeoises), syvicol.lu — „Wie mir sinn", d'Statuten, sowéi seng Roll a seng Avisen. De SYVICOL bréngt all 100 Gemenge vu Lëtzebuerg zesummen, fir hir allgemeng a kollektiv Interessen ze fërderen, ze wahren an ze verdeedegen; en ass de privilegéierten Uspriechpartner vun der Regierung fir de kommunale Secteur, gëtt Avisen zu Gesetzesentwërf, déi d'Gemenge betreffen, fërdert d'Ofstëmmung tëscht senge Memberen, ënnerstëtzt d'kommunal Mandatären, a vertrëtt d'Gemenge national an international. Nëmmen allgemeng Informatiounen. Korrekt mam Stand Juni 2026.*
+*Quellen: SYVICOL (Syndicat des Villes et Communes Luxembourgeoises), syvicol.lu — „Wie mir sinn", d'Statuten, sowéi seng Roll a seng Avisen. De SYVICOL bréngt all 100 Gemenge vu Lëtzebuerg zesummen, fir hir allgemeng a kollektiv Interessen ze fërderen, ze wahren an ze verdeedegen; en ass de privilegéierten Uspriechpartner vun der Regierung fir de kommunale Secteur, gëtt Avisen zu Gesetzesentwërf, déi d'Gemenge betreffen, fërdert d'Ofstëmmung tëscht senge Memberen, ënnerstëtzt d'kommunal Mandatären, a vertrëtt d'Gemenge national an international. Nëmmen allgemeng Informatiounen. Korrekt mam Stand Juni 2026. Iwwerpréift: 100 Gemengen; SYVICOL 1986. Iwwerpréift den 9. November 2026.*

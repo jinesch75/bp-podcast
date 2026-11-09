@@ -26,11 +26,11 @@
 **TOM:** There is also a dedicated wine institute, based in Remich, on the Moselle river.
 **ANNA:** Luxembourg has a real wine tradition along the Moselle... white wines, and the sparkling wine called Crémant.
 **TOM:** The wine institute supports the winegrowers, and helps keep the quality high.
-**ANNA:** And there is an administration that looks after animal health and welfare, and the safety of our food.
+**ANNA:** And there is an administration that looks after animal health and welfare, and the safety of our food. It is called ALVA, and it was created in 2022.
 **TOM:** So from the field, to the animal, to the plate... each step has people watching over it.
 **ANNA:** Let's talk about a theme that's growing fast... organic farming.
 **TOM:** Organic farming works with nature, in a closed cycle, without synthetic chemicals.
-**ANNA:** Luxembourg has a plan, called PAN-Bio, to grow the share of organic farming in the country.
+**ANNA:** Luxembourg has a plan, called PAN-Bio, to grow the share of organic farming in the country. The newest one runs from 2026 to 2030.
 **TOM:** So when you see organic products in the shop, there is a national effort behind that choice.
 **ANNA:** Now let's talk about something close to many hearts... animal welfare.
 **TOM:** Luxembourg has an animal protection law that is quite advanced.
@@ -62,7 +62,7 @@
 **TOM:** And fourth, if you're curious about farming, food or wine, the portal has reliable information.
 **ANNA:** Let's bring it all together. What should people remember?
 **TOM:** First... the agriculture portal, agriculture dot public dot lu, covers farming, food and wine, from the Ministry of Agriculture, Food and Viticulture.
-**ANNA:** Second... specialised bodies support it... ASTA for technical services, the wine institute in Remich, and a body for animal welfare and food safety.
+**ANNA:** Second... specialised bodies support it... ASTA for technical services, the wine institute in Remich, and ALVA for animal welfare and food safety.
 **TOM:** Third... Luxembourg is growing organic farming and protects animal welfare by law.
 **ANNA:** And fourth... by choosing local and seasonal food, we all play a part in a healthy food system.
 **TOM:** Food connects every one of us to the land, and to each other.
@@ -72,4 +72,4 @@
 
 ---
 
-*Sources: Agriculture portal, agriculture.public.lu, and the Ministère de l'Agriculture, de l'Alimentation et de la Viticulture (ma.gouvernement.lu) — information on agriculture, viticulture, food and agricultural products; the ministry oversees several specialised administrations, including the Administration des services techniques de l'agriculture (ASTA), the Institut viti-vinicole (wine institute) in Remich, and the body responsible for animal health and welfare and food safety. References include the PAN-Bio organic-farming action plan and Luxembourg's animal protection law (which protects the dignity, safety and wellbeing of animals); farmers are supported notably through the EU Common Agricultural Policy. General information only. Accurate as of June 2026.*
+*Sources: Agriculture portal, agriculture.public.lu, and the Ministère de l'Agriculture, de l'Alimentation et de la Viticulture (ma.gouvernement.lu) — information on agriculture, viticulture, food and agricultural products; the ministry oversees several specialised administrations, including the Administration des services techniques de l'agriculture (ASTA), the Institut viti-vinicole (wine institute) in Remich, and the body responsible for animal health and welfare and food safety. References include the PAN-Bio organic-farming action plan and Luxembourg's animal protection law (which protects the dignity, safety and wellbeing of animals); farmers are supported notably through the EU Common Agricultural Policy. General information only. Accurate as of June 2026. Update: Administration luxembourgeoise vétérinaire et alimentaire (ALVA), law of 8 September 2022; PAN-Bio 2030 (2026–2030), presented December 2025. Fact-checked 9 November 2026.*

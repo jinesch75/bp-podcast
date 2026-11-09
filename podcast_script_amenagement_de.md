@@ -23,7 +23,7 @@
 **ANNA:** Raumordnung ist also wie ein Schiedsrichter und ein Architekt für das ganze Land.
 **TOM:** Sie wird von der Abteilung für Landesplanung geleitet, die zum Ministerium für Wohnungsbau und Landesplanung gehört.
 **ANNA:** Schauen wir uns die wichtigsten Instrumente an, denn sie sind leichter zu verstehen, als ihr Name vermuten lässt.
-**TOM:** Das erste ist das Leitprogramm, eine große strategische Vision dafür, wie sich das ganze Land entwickeln soll.
+**TOM:** Das erste ist das Leitprogramm, eine große strategische Vision dafür, wie sich das ganze Land entwickeln soll. Das aktuelle wurde 2023 verabschiedet und blickt bis 2035.
 **ANNA:** Es gibt die Richtung vor... kompaktere Städte, geschützte Natur, guter Verkehr, ausgewogene Regionen.
 **TOM:** Das zweite Instrument ist eine Reihe sektoraler Leitpläne.
 **ANNA:** Diese sind konkreter. Es gibt Pläne für den Verkehr, für das Wohnen, für wirtschaftliche Aktivitätszonen und für die Landschaften.
@@ -64,4 +64,4 @@
 
 ---
 
-*Quellen: Portail de l'aménagement du territoire, amenagement-territoire Punkt public Punkt lu, und das Département de l'aménagement du territoire (DATer), Ministère du Logement et de l'Aménagement du territoire — Definition der Raumordnung (Maßnahmen des Staates und der Gemeinden zur Entwicklung des Gebiets unter Schutz der Landschaften und Gewährleistung einer rationalen Nutzung des Bodens), das Programme directeur d'aménagement du territoire (PDAT), die sektoralen Leitpläne (Verkehr, Wohnen, wirtschaftliche Aktivitätszonen, Landschaften), die regionale Entwicklung und die Naturparks, sowie die grenzüberschreitende Zusammenarbeit / Großregion. Nur allgemeine Informationen. Stand: Juni 2026.*
+*Quellen: Portail de l'aménagement du territoire, amenagement-territoire Punkt public Punkt lu, und das Département de l'aménagement du territoire (DATer), Ministère du Logement et de l'Aménagement du territoire — Definition der Raumordnung (Maßnahmen des Staates und der Gemeinden zur Entwicklung des Gebiets unter Schutz der Landschaften und Gewährleistung einer rationalen Nutzung des Bodens), das Programme directeur d'aménagement du territoire (PDAT), die sektoralen Leitpläne (Verkehr, Wohnen, wirtschaftliche Aktivitätszonen, Landschaften), die regionale Entwicklung und die Naturparks, sowie die grenzüberschreitende Zusammenarbeit / Großregion. Nur allgemeine Informationen. Stand: Juni 2026. Aktualisierung: PDAT vom 21. Juni 2023, Horizont 2035; sektorielle Leitpläne seit 1. März 2021. Geprüft am 9. November 2026.*

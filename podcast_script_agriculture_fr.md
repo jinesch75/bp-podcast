@@ -26,11 +26,11 @@
 **TOM:** Il existe aussi un institut du vin dédié, basé à Remich, sur la Moselle.
 **ANNA:** Le Luxembourg a une véritable tradition viticole le long de la Moselle... des vins blancs, et le vin pétillant appelé Crémant.
 **TOM:** L'institut viti-vinicole soutient les vignerons, et aide à maintenir une qualité élevée.
-**ANNA:** Et il y a une administration qui veille sur la santé et le bien-être des animaux, et sur la sécurité de notre alimentation.
+**ANNA:** Et il y a une administration qui veille sur la santé et le bien-être des animaux, et sur la sécurité de notre alimentation. Elle s'appelle l'ALVA, et elle a été créée en 2022.
 **TOM:** Donc, du champ, à l'animal, à l'assiette... chaque étape a des personnes qui veillent sur elle.
 **ANNA:** Parlons d'un thème qui se développe rapidement... l'agriculture biologique.
 **TOM:** L'agriculture biologique travaille avec la nature, dans un cycle fermé, sans produits chimiques de synthèse.
-**ANNA:** Le Luxembourg a un plan, appelé PAN-Bio, pour augmenter la part de l'agriculture biologique dans le pays.
+**ANNA:** Le Luxembourg a un plan, appelé PAN-Bio, pour augmenter la part de l'agriculture biologique dans le pays. Le plus récent va de 2026 à 2030.
 **TOM:** Donc quand vous voyez des produits biologiques en magasin, il y a un effort national derrière ce choix.
 **ANNA:** Maintenant, parlons de quelque chose qui tient à cœur à beaucoup de gens... le bien-être animal.
 **TOM:** Le Luxembourg a une loi sur la protection des animaux qui est assez avancée.
@@ -62,7 +62,7 @@
 **TOM:** Et quatrièmement, si vous êtes curieux au sujet de l'agriculture, de l'alimentation ou du vin, le portail propose des informations fiables.
 **ANNA:** Rassemblons tout cela. Que doivent retenir les gens ?
 **TOM:** D'abord... le portail de l'agriculture, agriculture point public point lu, couvre l'agriculture, l'alimentation et le vin, du ministère de l'Agriculture, de l'Alimentation et de la Viticulture.
-**ANNA:** Ensuite... des organismes spécialisés le soutiennent... l'ASTA pour les services techniques, l'institut du vin à Remich, et un organisme pour le bien-être animal et la sécurité alimentaire.
+**ANNA:** Ensuite... des organismes spécialisés le soutiennent... l'ASTA pour les services techniques, l'institut du vin à Remich, et l'ALVA pour le bien-être animal et la sécurité alimentaire.
 **TOM:** Troisièmement... le Luxembourg développe l'agriculture biologique et protège le bien-être animal par la loi.
 **ANNA:** Et quatrièmement... en choisissant une alimentation locale et de saison, nous jouons tous un rôle dans un système alimentaire sain.
 **TOM:** L'alimentation nous relie tous à la terre, et les uns aux autres.
@@ -72,4 +72,4 @@
 
 ---
 
-*Sources : Portail de l'agriculture, agriculture.public.lu, et le ministère de l'Agriculture, de l'Alimentation et de la Viticulture (ma.gouvernement.lu) — informations sur l'agriculture, la viticulture, l'alimentation et les produits agricoles ; le ministère supervise plusieurs administrations spécialisées, dont l'Administration des services techniques de l'agriculture (ASTA), l'Institut viti-vinicole à Remich, et l'organisme responsable de la santé et du bien-être animal et de la sécurité alimentaire. Les références incluent le plan d'action PAN-Bio pour l'agriculture biologique et la loi luxembourgeoise sur la protection des animaux (qui protège la dignité, la sécurité et le bien-être des animaux) ; les agriculteurs sont soutenus notamment par la Politique agricole commune (PAC) de l'Union européenne. Informations générales uniquement. Exactes en date de juin 2026.*
+*Sources : Portail de l'agriculture, agriculture.public.lu, et le ministère de l'Agriculture, de l'Alimentation et de la Viticulture (ma.gouvernement.lu) — informations sur l'agriculture, la viticulture, l'alimentation et les produits agricoles ; le ministère supervise plusieurs administrations spécialisées, dont l'Administration des services techniques de l'agriculture (ASTA), l'Institut viti-vinicole à Remich, et l'organisme responsable de la santé et du bien-être animal et de la sécurité alimentaire. Les références incluent le plan d'action PAN-Bio pour l'agriculture biologique et la loi luxembourgeoise sur la protection des animaux (qui protège la dignité, la sécurité et le bien-être des animaux) ; les agriculteurs sont soutenus notamment par la Politique agricole commune (PAC) de l'Union européenne. Informations générales uniquement. Exactes en date de juin 2026. Mise à jour : ALVA (loi du 8 septembre 2022) ; PAN-Bio 2030 (2026–2030). Vérifié le 9 novembre 2026.*

@@ -23,7 +23,7 @@
 **ANNA:** Landesplanung ass also wéi e Schiedsriichter, an en Architekt, fir d'ganzt Land.
 **TOM:** Si gëtt vun der Departement fir Landesplanung geleet, déi zum Ministère fir Wunnengsbau a Landesplanung gehéiert.
 **ANNA:** Kucke mer eis déi wichtegst Instrumenter un, well se méi einfach ze verstoe sinn, wéi hiren Numm vermutte léisst.
-**TOM:** Dat éischt ass de Leitprogramm, eng grouss strategesch Visioun dervun, wéi d'ganzt Land sech entwéckele soll.
+**TOM:** Dat éischt ass de Leitprogramm, eng grouss strategesch Visioun dervun, wéi d'ganzt Land sech entwéckele soll. Den aktuellen ass 2023 ugeholl ginn, a kuckt bis 2035.
 **ANNA:** Et gëtt d'Richtung un... méi kompakt Stied, geschützt Natur, gudden Transport, ausgewune Regiounen.
 **TOM:** Dat zweet Instrument ass eng Rei vu sektorale Leitpläng.
 **ANNA:** Dës si méi konkret. Et gëtt Pläng fir den Transport, fir d'Wunnen, fir wirtschaftlech Aktivitéitszonen, a fir d'Landschaften.
@@ -64,4 +64,4 @@
 
 ---
 
-*Quellen: Portail de l'aménagement du territoire, amenagement-territoire Punkt public Punkt lu, an d'Département de l'aménagement du territoire (DATer), Ministère du Logement et de l'Aménagement du territoire — Definitioun vun der Landesplanung (Aktiounen vum Staat an de Gemengen fir den Territoire z'entwéckelen, wärend d'Landschafte geschützt an eng rational Notzung vum Buedem garantéiert gëtt), de Programme directeur d'aménagement du territoire (PDAT), déi sektoral Leitpläng (Transport, Wunnen, wirtschaftlech Aktivitéitszonen, Landschaften), déi regional Entwécklung an d'Naturparken, an déi grenziwwerschreidend Zesummenaarbecht / Groussregioun. Nëmmen allgemeng Informatiounen. Stand: Juni 2026.*
+*Quellen: Portail de l'aménagement du territoire, amenagement-territoire Punkt public Punkt lu, an d'Département de l'aménagement du territoire (DATer), Ministère du Logement et de l'Aménagement du territoire — Definitioun vun der Landesplanung (Aktiounen vum Staat an de Gemengen fir den Territoire z'entwéckelen, wärend d'Landschafte geschützt an eng rational Notzung vum Buedem garantéiert gëtt), de Programme directeur d'aménagement du territoire (PDAT), déi sektoral Leitpläng (Transport, Wunnen, wirtschaftlech Aktivitéitszonen, Landschaften), déi regional Entwécklung an d'Naturparken, an déi grenziwwerschreidend Zesummenaarbecht / Groussregioun. Nëmmen allgemeng Informatiounen. Stand: Juni 2026. Aktualiséierung: PDAT 2023, bis 2035. Iwwerpréift den 9. November 2026.*

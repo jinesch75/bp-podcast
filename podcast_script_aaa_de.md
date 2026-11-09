@@ -14,7 +14,7 @@
 **TOM:** Für all das hat Luxemburg einen besonderen Teil seiner Sozialversicherung... die Unfallversicherung.
 **ANNA:** Man kennt sie unter ihrem französischen Kürzel... AAA, die Association d'assurance accident.
 **TOM:** Also Anna, was genau ist die AAA?
-**ANNA:** Sie ist die Einrichtung, die Luxemburgs Versicherung gegen Arbeitsunfälle und Berufskrankheiten verwaltet.
+**ANNA:** Sie ist die Einrichtung, die Luxemburgs Versicherung gegen Arbeitsunfälle und Berufskrankheiten verwaltet. Sie wurde schon 1902 gegründet.
 **TOM:** Sie ist Teil des Sozialversicherungssystems. Sie ist also öffentlich, und sie ist automatisch für Sie da.
 **ANNA:** Lassen Sie uns klarstellen, was sie abdeckt, denn es ist breiter, als man denkt.
 **TOM:** Das Erste ist der Arbeitsunfall selbst... etwas, das Ihnen passiert, während Sie Ihre Arbeit verrichten.
@@ -42,9 +42,9 @@
 **TOM:** Machen wir es nun praktisch. Was sollten Sie tatsächlich tun, wenn ein Unfall passiert?
 **ANNA:** Das Wichtigste ist, dass der Unfall der AAA gemeldet werden muss.
 **TOM:** Bei Arbeitsunfällen macht normalerweise Ihr Arbeitgeber diese Meldung.
-**ANNA:** Und vieles davon kann jetzt elektronisch erledigt werden, über MyGuichet, worüber wir in einer früheren Folge gesprochen haben.
+**ANNA:** Und das kann jetzt elektronisch erledigt werden, über MyGuichet, worüber wir in einer früheren Folge gesprochen haben... sowohl für Arbeitsunfälle als auch für Schulunfälle.
 **TOM:** Das System wird also einfacher und schneller.
-**ANNA:** Es ist auch gut zu wissen, dass die AAA da ist, um Fragen zu beantworten, mit einem Kontaktservice und einem Schalter.
+**ANNA:** Es ist auch gut zu wissen, dass die AAA da ist, um Fragen zu beantworten, mit einem Kontaktservice und einem Schalter... und man kann sogar online einen Termin buchen.
 **TOM:** Sie sind also nicht allein, wenn Sie eine stressige Situation bewältigen müssen.
 **ANNA:** Treten wir einen Schritt zurück. Warum ist das wichtig, selbst wenn das Leben gut läuft?
 **TOM:** Weil Unfälle per Definition Dinge sind, die wir nicht einplanen. Und zu wissen, dass Sie geschützt sind, bringt Seelenfrieden.
@@ -66,4 +66,4 @@
 
 ---
 
-*Quellen: Association d'assurance accident (AAA), aaa.public.lu — Teil der Sozialversicherung Luxemburgs („Cité de la sécurité sociale"); Schutz bei Arbeitsunfällen, Wegeunfällen (accidents de trajet), Schul- und außerschulischen Unfällen sowie Berufskrankheiten; Leistungen (medizinische Versorgung, Entschädigung/Renten) finanziert durch Arbeitgeberbeiträge mit einem Bonus-Malus-System; Prävention im Bereich Sicherheit und Gesundheit am Arbeitsplatz (Empfehlungen, Schulungen, der Ansatz „Vision Zero"); Meldung von Unfällen, zunehmend über MyGuichet.lu. Nur allgemeine Informationen — für Ihre Situation wenden Sie sich an die AAA. Stand: Juni 2026.*
+*Quellen: Association d'assurance accident (AAA), aaa.public.lu — Teil der Sozialversicherung Luxemburgs („Cité de la sécurité sociale"); Schutz bei Arbeitsunfällen, Wegeunfällen (accidents de trajet), Schul- und außerschulischen Unfällen sowie Berufskrankheiten; Leistungen (medizinische Versorgung, Entschädigung/Renten) finanziert durch Arbeitgeberbeiträge mit einem Bonus-Malus-System; Prävention im Bereich Sicherheit und Gesundheit am Arbeitsplatz (Empfehlungen, Schulungen, der Ansatz „Vision Zero"); Meldung von Unfällen, zunehmend über MyGuichet.lu. Nur allgemeine Informationen — für Ihre Situation wenden Sie sich an die AAA. Stand: Juni 2026. Aktualisierung: AAA 1902 gegründet; elektronische Unfallmeldung über MyGuichet.lu seit 30. September 2024; Online-Termine. Geprüft am 9. November 2026.*

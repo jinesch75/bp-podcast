@@ -26,11 +26,11 @@
 **TOM:** Et gëtt och en eegene Wäininstitut, mat Sëtz zu Remich, op der Musel.
 **ANNA:** Lëtzebuerg huet eng richteg Wäintraditioun laanscht d'Musel... Wäisswäiner, an de Schaumwäin mam Numm Crémant.
 **TOM:** De Wäininstitut ënnerstëtzt d'Wënzer, an hëlleft, d'Qualitéit héich ze halen.
-**ANNA:** An et gëtt eng Verwaltung, déi iwwer d'Gesondheet an d'Wuelbefannen vun den Déieren waacht, an iwwer d'Sécherheet vun eisem Iessen.
+**ANNA:** An et gëtt eng Verwaltung, déi iwwer d'Gesondheet an d'Wuelbefannen vun den Déieren waacht, an iwwer d'Sécherheet vun eisem Iessen. Si heescht ALVA, a si gouf 2022 gegrënnt.
 **TOM:** Also vum Feld, iwwer d'Déier, bis op den Teller... bei all Schrëtt waachen Leit doriwwer.
 **ANNA:** Schwätze mer iwwer en Thema, dat séier wiisst... d'Bio-Landwirtschaft.
 **TOM:** D'Bio-Landwirtschaft schafft mat der Natur, an engem zouenen Zyklus, ouni syntheetesch Chemikalien.
-**ANNA:** Lëtzebuerg huet e Plang, genannt PAN-Bio, fir den Undeel vun der Bio-Landwirtschaft am Land ze erhéijen.
+**ANNA:** Lëtzebuerg huet e Plang, genannt PAN-Bio, fir den Undeel vun der Bio-Landwirtschaft am Land ze erhéijen. Dee neiste leeft vun 2026 bis 2030.
 **TOM:** Wann Dir also Bio-Produkter am Buttek gesitt, stécht eng national Ustrengung hannert dëser Wiel.
 **ANNA:** Lo schwätze mer iwwer eppes, dat villen um Häerz läit... den Déiereschutz.
 **TOM:** Lëtzebuerg huet en Déiereschutzgesetz, dat zimlech fortschrëttlech ass.
@@ -62,7 +62,7 @@
 **TOM:** A véiertens, wann Dir nei­géiereg sidd op d'Landwirtschaft, d'Liewensmëttel oder de Wäin, bitt d'Portal zouverlässeg Informatiounen.
 **ANNA:** Bréngen mer alles zesummen. Wat sollen d'Leit sech merken?
 **TOM:** Éischtens... d'Agrarportal, agriculture Punkt public Punkt lu, deckt d'Landwirtschaft, d'Ernährung an de Wäin of, vum Ministère fir Landwirtschaft, Ernährung a Wäibau.
-**ANNA:** Zweetens... spezialiséiert Stellen ënnerstëtzen et... d'ASTA fir déi technesch Déngschter, de Wäininstitut zu Remich, an eng Stell fir den Déiereschutz an d'Liewensmëttelsécherheet.
+**ANNA:** Zweetens... spezialiséiert Stellen ënnerstëtzen et... d'ASTA fir déi technesch Déngschter, de Wäininstitut zu Remich, an d'ALVA fir den Déiereschutz an d'Liewensmëttelsécherheet.
 **TOM:** Drëttens... Lëtzebuerg baut d'Bio-Landwirtschaft aus a schützt den Déiereschutz per Gesetz.
 **ANNA:** A véiertens... andeems mir lokal a saisonal Liewensmëttel wielen, droe mir all zu engem gesonden Ernährungssystem bäi.
 **TOM:** Liewensmëttel verbannen all eenzelne vun eis mam Land, an enee mam aneren.
@@ -72,4 +72,4 @@
 
 ---
 
-*Quellen: Agrarportal, agriculture.public.lu, an de Ministère de l'Agriculture, de l'Alimentation et de la Viticulture (ma.gouvernement.lu) — Informatiounen iwwer Landwirtschaft, Wäibau, Liewensmëttel a landwirtschaftlech Produkter; de Ministère iwwerwaacht méi spezialiséiert Verwaltungen, dorënner d'Administration des services techniques de l'agriculture (ASTA), den Institut viti-vinicole (Wäininstitut) zu Remich, an déi fir Déieregesondheet an Déiereschutz souwéi Liewensmëttelsécherheet zoustänneg Stell. Zu de Referenzen gehéieren de PAN-Bio-Aktiounsplang fir d'Bio-Landwirtschaft an d'lëtzebuergescht Déiereschutzgesetz (dat d'Dignitéit, d'Sécherheet an d'Wuelbefannen vun den Déiere schützt); d'Baueren ginn notamment duerch d'Gemeinsam Agrarpolitik vun der EU ënnerstëtzt. Nëmmen allgemeng Informatiounen. Stand Juni 2026.*
+*Quellen: Agrarportal, agriculture.public.lu, an de Ministère de l'Agriculture, de l'Alimentation et de la Viticulture (ma.gouvernement.lu) — Informatiounen iwwer Landwirtschaft, Wäibau, Liewensmëttel a landwirtschaftlech Produkter; de Ministère iwwerwaacht méi spezialiséiert Verwaltungen, dorënner d'Administration des services techniques de l'agriculture (ASTA), den Institut viti-vinicole (Wäininstitut) zu Remich, an déi fir Déieregesondheet an Déiereschutz souwéi Liewensmëttelsécherheet zoustänneg Stell. Zu de Referenzen gehéieren de PAN-Bio-Aktiounsplang fir d'Bio-Landwirtschaft an d'lëtzebuergescht Déiereschutzgesetz (dat d'Dignitéit, d'Sécherheet an d'Wuelbefannen vun den Déiere schützt); d'Baueren ginn notamment duerch d'Gemeinsam Agrarpolitik vun der EU ënnerstëtzt. Nëmmen allgemeng Informatiounen. Stand Juni 2026. Aktualiséierung: ALVA (2022); PAN-Bio 2030. Iwwerpréift den 9. November 2026.*

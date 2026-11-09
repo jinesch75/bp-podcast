@@ -17,7 +17,7 @@
 **ANNA:** SYVICOL signifie le Syndicat des Villes et Communes Luxembourgeoises.
 **TOM:** En anglais, cela donne à peu près l'Association of Luxembourg Towns and Communes.
 **ANNA:** Alors Tom, qu'est-ce que le SYVICOL exactement, et pourquoi existe-t-il ?
-**TOM:** C'est l'organisation qui réunit toutes les communes du Luxembourg en une seule voix commune.
+**TOM:** C'est l'organisation qui réunit toutes les communes du Luxembourg en une seule voix commune. Elle a été fondée en 1986.
 **ANNA:** Son rôle est de promouvoir, de protéger et de défendre les intérêts communs des communes.
 **TOM:** Réfléchissez-y. Chaque commune est plutôt petite. Seule, sa voix pourrait être faible.
 **ANNA:** Mais ensemble, à travers le SYVICOL, les cent communes peuvent parler clairement et avec un véritable poids.
@@ -62,4 +62,4 @@
 
 ---
 
-*Sources : SYVICOL (Syndicat des Villes et Communes Luxembourgeoises), syvicol.lu — « Qui sommes-nous », les statuts, ainsi que son rôle et ses avis. Le SYVICOL réunit l'ensemble des 100 communes du Luxembourg afin de promouvoir, sauvegarder et défendre leurs intérêts généraux et collectifs ; il est l'interlocuteur privilégié du gouvernement pour le secteur communal, rend des avis sur les projets de loi concernant les communes, favorise la concertation entre ses membres, soutient les élus locaux, et représente les communes au niveau national et international. Informations générales uniquement. Exactes en date de juin 2026.*
+*Sources : SYVICOL (Syndicat des Villes et Communes Luxembourgeoises), syvicol.lu — « Qui sommes-nous », les statuts, ainsi que son rôle et ses avis. Le SYVICOL réunit l'ensemble des 100 communes du Luxembourg afin de promouvoir, sauvegarder et défendre leurs intérêts généraux et collectifs ; il est l'interlocuteur privilégié du gouvernement pour le secteur communal, rend des avis sur les projets de loi concernant les communes, favorise la concertation entre ses membres, soutient les élus locaux, et représente les communes au niveau national et international. Informations générales uniquement. Exactes en date de juin 2026. Vérifié : 100 communes ; SYVICOL fondé en 1986. Vérifié le 9 novembre 2026.*

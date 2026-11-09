@@ -23,7 +23,7 @@
 **ANNA:** L'aménagement du territoire est donc comme un arbitre, et un architecte, pour tout le pays.
 **TOM:** Il est piloté par le Département de l'aménagement du territoire, qui fait partie du Ministère du Logement et de l'Aménagement du territoire.
 **ANNA:** Regardons les principaux outils, car ils sont plus faciles à saisir que leur nom ne le laisse penser.
-**TOM:** Le premier est le programme directeur, une grande vision stratégique de la façon dont l'ensemble du pays devrait se développer.
+**TOM:** Le premier est le programme directeur, une grande vision stratégique de la façon dont l'ensemble du pays devrait se développer. L'actuel a été adopté en 2023, et regarde jusqu'en 2035.
 **ANNA:** Il fixe le cap... des villes plus compactes, une nature protégée, de bons transports, des régions équilibrées.
 **TOM:** Le deuxième outil est un ensemble de plans directeurs sectoriels.
 **ANNA:** Ceux-ci sont plus concrets. Il y a des plans pour les transports, pour le logement, pour les zones d'activités économiques, et pour les paysages.
@@ -64,4 +64,4 @@
 
 ---
 
-*Sources : Portail de l'aménagement du territoire, amenagement-territoire point public point lu, et le Département de l'aménagement du territoire (DATer), Ministère du Logement et de l'Aménagement du territoire — définition de l'aménagement du territoire (actions de l'État et des communes pour développer le territoire tout en protégeant les paysages et en assurant une utilisation rationnelle du sol), le Programme directeur d'aménagement du territoire (PDAT), les plans directeurs sectoriels (transports, logement, zones d'activités économiques, paysages), le développement régional et les parcs naturels, et la coopération transfrontalière / Grande Région. Informations générales uniquement. À jour en juin 2026.*
+*Sources : Portail de l'aménagement du territoire, amenagement-territoire point public point lu, et le Département de l'aménagement du territoire (DATer), Ministère du Logement et de l'Aménagement du territoire — définition de l'aménagement du territoire (actions de l'État et des communes pour développer le territoire tout en protégeant les paysages et en assurant une utilisation rationnelle du sol), le Programme directeur d'aménagement du territoire (PDAT), les plans directeurs sectoriels (transports, logement, zones d'activités économiques, paysages), le développement régional et les parcs naturels, et la coopération transfrontalière / Grande Région. Informations générales uniquement. À jour en juin 2026. Mise à jour : PDAT approuvé le 21 juin 2023, horizon 2035 ; plans directeurs sectoriels en vigueur depuis le 1er mars 2021. Vérifié le 9 novembre 2026.*

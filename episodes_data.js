@@ -73812,7 +73812,7 @@ const EPISODES = [
   "title": "SYVICOL – The Voice of Luxembourg's Towns and Communes",
   "description": "What SYVICOL is, how it unites all 100 of Luxembourg's communes into one common voice, how it promotes and defends their shared interests, gives formal opinions on laws that affect them, helps communes share knowledge and supports local councillors, and why the local level matters for everyday life.",
   "audio": "podcast_syvicol.mp3",
-  "duration": 328.8,
+  "duration": 348.11,
   "topics": [
    "What SYVICOL is",
    "All 100 communes together",
@@ -73826,353 +73826,373 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's a pleasure to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.64
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.68
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.79
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to understand how the country is run.",
-    "t": 14.61
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today we are looking at a level of government that is closest to your daily life... your commune.",
-    "t": 22.09
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Your commune is your town or village administration.",
-    "t": 27.82
+    "t": 33.46
    },
    {
     "speaker": "Anna",
     "text": "It looks after so many everyday things.",
-    "t": 31.55
+    "t": 36.7
    },
    {
     "speaker": "Tom",
     "text": "Schools, local roads, water, waste collection, parks, sports halls, civil records... the list is long.",
-    "t": 34.84
+    "t": 39.38
    },
    {
     "speaker": "Anna",
     "text": "Luxembourg has one hundred communes, from the city of Luxembourg to small rural villages.",
-    "t": 41.95
+    "t": 46.41
    },
    {
     "speaker": "Tom",
     "text": "And today's organisation speaks for all of them, together.",
-    "t": 47.9
+    "t": 52.22
    },
    {
     "speaker": "Tom",
     "text": "It is called SYVICOL.",
-    "t": 51.94
+    "t": 55.24
    },
    {
     "speaker": "Anna",
     "text": "SYVICOL stands for the Syndicat des Villes et Communes Luxembourgeoises.",
-    "t": 54.36
+    "t": 56.94
    },
    {
     "speaker": "Tom",
     "text": "In English, that's roughly the Association of Luxembourg Towns and Communes.",
-    "t": 59.29
+    "t": 61.16
    },
    {
     "speaker": "Anna",
     "text": "So Tom, what exactly is SYVICOL, and why does it exist?",
-    "t": 64.19
+    "t": 65.27
    },
    {
     "speaker": "Tom",
     "text": "It is the organisation that brings together all of Luxembourg's communes into one common voice.",
-    "t": 68.92
+    "t": 68.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "It was founded in 1986.",
+    "t": 74.06
    },
    {
     "speaker": "Anna",
     "text": "Its job is to promote, protect and defend the shared interests of the communes.",
-    "t": 74.83
+    "t": 76.25
    },
    {
     "speaker": "Tom",
     "text": "Think about it.",
-    "t": 79.94
+    "t": 81.45
    },
    {
     "speaker": "Tom",
     "text": "Each commune is fairly small.",
-    "t": 81.94
+    "t": 82.37
    },
    {
     "speaker": "Tom",
     "text": "On its own, its voice might be quiet.",
-    "t": 84.75
+    "t": 84.11
    },
    {
     "speaker": "Anna",
     "text": "But together, through SYVICOL, the hundred communes can speak clearly and with real weight.",
-    "t": 87.88
+    "t": 86.13
    },
    {
     "speaker": "Tom",
     "text": "And who do they speak to, mainly?",
-    "t": 93.88
+    "t": 91.89
    },
    {
     "speaker": "Anna",
     "text": "Above all, to the national government.",
-    "t": 96.81
+    "t": 93.72
    },
    {
     "speaker": "Anna",
     "text": "SYVICOL is the government's main partner for anything that affects the communes.",
-    "t": 100.05
+    "t": 96.01
    },
    {
     "speaker": "Tom",
     "text": "So when the State plans a new law that touches local life, SYVICOL is there to represent the towns and villages.",
-    "t": 105.11
+    "t": 100.62
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about one of its most important roles... giving its opinion on new laws.",
-    "t": 111.64
+    "t": 107.19
    },
    {
     "speaker": "Tom",
     "text": "When a draft law concerns the communes, SYVICOL studies it and gives a formal opinion.",
-    "t": 117.08
+    "t": 112.2
    },
    {
     "speaker": "Anna",
     "text": "For example, on rules about water, about schools, about local finances, or about how communes are organised.",
-    "t": 122.75
+    "t": 117.05
    },
    {
     "speaker": "Tom",
     "text": "That opinion helps lawmakers understand the real, practical effects on the ground.",
-    "t": 130.52
+    "t": 124.53
    },
    {
     "speaker": "Anna",
     "text": "Because the people running a commune know what will actually work in a real town or village.",
-    "t": 135.94
+    "t": 129.38
    },
    {
     "speaker": "Tom",
     "text": "So SYVICOL is a bridge... carrying local experience up to national decisions.",
-    "t": 141.42
+    "t": 134.29
    },
    {
     "speaker": "Anna",
     "text": "It also works the other way.",
-    "t": 146.8
+    "t": 139.5
    },
    {
     "speaker": "Anna",
     "text": "It helps communes share knowledge and good practice with each other.",
-    "t": 149.33
+    "t": 141.23
    },
    {
     "speaker": "Tom",
     "text": "A small commune facing a new challenge doesn't have to invent everything alone.",
-    "t": 153.46
+    "t": 144.96
    },
    {
     "speaker": "Anna",
     "text": "Through SYVICOL, communes can consult each other, and learn from what others have tried.",
-    "t": 158.28
+    "t": 149.31
    },
    {
     "speaker": "Tom",
     "text": "There's also support for the people who actually run the communes... the local councillors.",
-    "t": 163.83
+    "t": 154.31
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 169.27
-   },
-   {
-    "speaker": "Anna",
-    "text": "Being an elected local representative is a big responsibility, and SYVICOL helps with information and training.",
-    "t": 170.95
+    "text": "Yes. Being an elected local representative is a big responsibility, and SYVICOL helps with information and training.",
+    "t": 159.07
    },
    {
     "speaker": "Tom",
     "text": "And SYVICOL represents Luxembourg's communes beyond the borders too.",
-    "t": 177.91
+    "t": 166.48
    },
    {
     "speaker": "Anna",
     "text": "At the European level, towns and regions from across Europe work together, and Luxembourg's communes have a voice there as well.",
-    "t": 182.81
+    "t": 170.61
    },
    {
     "speaker": "Tom",
     "text": "So local concerns can be heard not just nationally, but internationally.",
-    "t": 190.83
+    "t": 178.54
    },
    {
     "speaker": "Anna",
     "text": "Let's step back and ask... why does this matter for an ordinary resident?",
-    "t": 195.87
+    "t": 183.13
    },
    {
     "speaker": "Tom",
     "text": "Because the commune is where democracy is closest to you.",
-    "t": 200.62
+    "t": 187.86
    },
    {
     "speaker": "Tom",
     "text": "It shapes your street, your school, your daily surroundings.",
-    "t": 204.69
+    "t": 191.12
    },
    {
     "speaker": "Anna",
     "text": "And SYVICOL helps make sure that this local level is respected and well represented when big decisions are made.",
-    "t": 208.91
+    "t": 195.09
    },
    {
     "speaker": "Tom",
     "text": "It's a quiet but important part of how the country stays balanced... between the national and the local.",
-    "t": 215.68
+    "t": 201.53
    },
    {
     "speaker": "Anna",
     "text": "It also connects to something we care about in the Biergerpakt... taking part in local life.",
-    "t": 221.76
+    "t": 207.73
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 227.72
-   },
-   {
-    "speaker": "Tom",
-    "text": "Your commune is one of the easiest places to get involved, to be heard, and to make a difference.",
-    "t": 229.38
+    "text": "Yes. Your commune is one of the easiest places to get involved, to be heard, and to make a difference.",
+    "t": 213.18
    },
    {
     "speaker": "Anna",
     "text": "Voting in local elections, joining a commission, going to a public meeting... it all shapes your community.",
-    "t": 235.15
+    "t": 219.54
    },
    {
     "speaker": "Tom",
     "text": "And behind the scenes, SYVICOL is working so that all those communes have the tools and the voice they need.",
-    "t": 242.04
+    "t": 226.68
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 248.06
+    "t": 233.17
    },
    {
     "speaker": "Anna",
     "text": "What can someone take from this?",
-    "t": 250.43
+    "t": 234.69
    },
    {
     "speaker": "Tom",
     "text": "First, remember that your commune handles a huge part of your daily life... and you can engage with it directly.",
-    "t": 253.07
+    "t": 236.7
    },
    {
     "speaker": "Anna",
     "text": "Second, know that all the communes act together, through SYVICOL, when national decisions affect local life.",
-    "t": 259.67
+    "t": 243.64
    },
    {
     "speaker": "Tom",
     "text": "Third, if you're curious about how towns and villages are governed, SYVICOL is the place that represents them all.",
-    "t": 266.89
+    "t": 250.95
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it together.",
-    "t": 273.64
+    "t": 257.79
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about SYVICOL?",
-    "t": 275.95
+    "t": 259.18
    },
    {
     "speaker": "Tom",
     "text": "First... it is the association that unites all one hundred of Luxembourg's communes into one common voice.",
-    "t": 278.94
+    "t": 261.76
    },
    {
     "speaker": "Anna",
     "text": "Second... it promotes and defends their shared interests, and is the government's main partner on communal matters.",
-    "t": 285.58
+    "t": 268.85
    },
    {
     "speaker": "Tom",
     "text": "Third... it gives formal opinions on laws that affect the communes, carrying local experience into national decisions.",
-    "t": 292.49
+    "t": 275.92
    },
    {
     "speaker": "Anna",
     "text": "And fourth... it helps communes share knowledge, supports local councillors, and represents them in Europe.",
-    "t": 299.62
+    "t": 282.75
    },
    {
     "speaker": "Tom",
     "text": "The commune is where the country meets your front door.",
-    "t": 306.35
+    "t": 289.69
    },
    {
     "speaker": "Tom",
     "text": "And SYVICOL helps keep that level strong.",
-    "t": 309.99
+    "t": 292.45
    },
    {
     "speaker": "Anna",
     "text": "Strong local communities are the building blocks of a country where people truly live together.",
-    "t": 313.41
-   },
-   {
-    "speaker": "Tom",
-    "text": "Thank you so much for listening today.",
-    "t": 319.16
+    "t": 294.91
    },
    {
     "speaker": "Anna",
-    "text": "Take care, and see you in the next episode.",
-    "t": 322.16
+    "text": "That was our episode about SYVICOL.",
+    "t": 299.97
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 325.6
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 302.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 311.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 329.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 336.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 338.63
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 327.13
+    "text": "Thank you, everyone.",
+    "t": 343.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 344.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 346.52
    }
   ],
   "questions": [
@@ -74374,986 +74394,1015 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_syvicol_fr.mp3",
-  "duration_fr": 349.46,
+  "duration_fr": 344.69,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "C'est un plaisir de vous avoir avec nous aujourd'hui.",
-    "t": 2.69
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.31
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 8.88
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme qui parle du vivre-ensemble au Luxembourg.",
-    "t": 12.35
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les travailleurs frontaliers, à comprendre comment le pays est dirigé.",
-    "t": 16.32
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et aujourd'hui, nous nous penchons sur un niveau de gouvernement qui est le plus proche de votre vie quotidienne... votre commune.",
-    "t": 24.27
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "Votre commune est l'administration de votre ville ou de votre village.",
-    "t": 30.96
+    "t": 29.27
    },
    {
     "speaker": "Anna",
     "text": "Elle s'occupe de tellement de choses du quotidien.",
-    "t": 35.42
+    "t": 32.59
    },
    {
     "speaker": "Tom",
     "text": "Les écoles, les routes locales, l'eau, la collecte des déchets, les parcs, les halls sportifs, l'état civil... la liste est longue.",
-    "t": 38.82
+    "t": 35.21
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg compte cent communes, de la ville de Luxembourg aux petits villages ruraux.",
-    "t": 47.39
+    "t": 44.12
    },
    {
     "speaker": "Tom",
     "text": "Et l'organisation dont nous parlons aujourd'hui parle au nom de toutes, ensemble.",
-    "t": 52.85
+    "t": 48.44
    },
    {
     "speaker": "Tom",
     "text": "Elle s'appelle SYVICOL.",
-    "t": 57.49
+    "t": 52.6
    },
    {
     "speaker": "Anna",
     "text": "SYVICOL signifie le Syndicat des Villes et Communes Luxembourgeoises.",
-    "t": 59.85
+    "t": 54.26
    },
    {
     "speaker": "Tom",
     "text": "En anglais, cela donne à peu près l'Association of Luxembourg Towns and Communes.",
-    "t": 64.38
+    "t": 58
    },
    {
     "speaker": "Anna",
     "text": "Alors Tom, qu'est-ce que le SYVICOL exactement, et pourquoi existe-t-il ?",
-    "t": 69.48
+    "t": 62.52
    },
    {
     "speaker": "Tom",
     "text": "C'est l'organisation qui réunit toutes les communes du Luxembourg en une seule voix commune.",
-    "t": 74.64
+    "t": 66.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elle a été fondée en 1986.",
+    "t": 71.29
    },
    {
     "speaker": "Anna",
     "text": "Son rôle est de promouvoir, de protéger et de défendre les intérêts communs des communes.",
-    "t": 79.79
+    "t": 73.87
    },
    {
     "speaker": "Tom",
-    "text": "Réfléchissez-y.",
-    "t": 85.38
-   },
-   {
-    "speaker": "Tom",
-    "text": "Chaque commune est plutôt petite.",
-    "t": 87.45
+    "text": "Réfléchissez-y. Chaque commune est plutôt petite.",
+    "t": 78.62
    },
    {
     "speaker": "Tom",
     "text": "Seule, sa voix pourrait être faible.",
-    "t": 90.11
+    "t": 81.79
    },
    {
     "speaker": "Anna",
     "text": "Mais ensemble, à travers le SYVICOL, les cent communes peuvent parler clairement et avec un véritable poids.",
-    "t": 93.17
+    "t": 83.98
    },
    {
     "speaker": "Tom",
     "text": "Et à qui s'adressent-elles, principalement ?",
-    "t": 99.75
+    "t": 89.25
    },
    {
     "speaker": "Anna",
     "text": "Avant tout, au gouvernement national.",
-    "t": 102.94
+    "t": 91.56
    },
    {
     "speaker": "Anna",
     "text": "Le SYVICOL est le principal partenaire du gouvernement pour tout ce qui concerne les communes.",
-    "t": 106.23
+    "t": 93.72
    },
    {
     "speaker": "Tom",
     "text": "Donc, lorsque l'État prévoit une nouvelle loi qui touche à la vie locale, le SYVICOL est là pour représenter les villes et les villages.",
-    "t": 111.78
+    "t": 98.04
    },
    {
     "speaker": "Anna",
     "text": "Parlons de l'un de ses rôles les plus importants... donner son avis sur les nouvelles lois.",
-    "t": 119.2
+    "t": 105.84
    },
    {
     "speaker": "Tom",
     "text": "Lorsqu'un projet de loi concerne les communes, le SYVICOL l'étudie et rend un avis.",
-    "t": 124.26
+    "t": 110.25
    },
    {
     "speaker": "Anna",
     "text": "Par exemple, sur les règles relatives à l'eau, aux écoles, aux finances locales, ou à la manière dont les communes sont organisées.",
-    "t": 129.37
+    "t": 115.45
    },
    {
     "speaker": "Tom",
     "text": "Cet avis aide les législateurs à comprendre les effets réels et concrets sur le terrain.",
-    "t": 137.48
+    "t": 122.1
    },
    {
     "speaker": "Anna",
     "text": "Parce que les personnes qui dirigent une commune savent ce qui fonctionnera réellement dans une vraie ville ou un vrai village.",
-    "t": 142.23
+    "t": 127.34
    },
    {
     "speaker": "Tom",
     "text": "Le SYVICOL est donc un pont... qui fait remonter l'expérience locale jusqu'aux décisions nationales.",
-    "t": 148.6
+    "t": 133.02
    },
    {
     "speaker": "Anna",
     "text": "Cela fonctionne aussi dans l'autre sens.",
-    "t": 154.35
+    "t": 138.92
    },
    {
     "speaker": "Anna",
     "text": "Il aide les communes à partager leurs connaissances et leurs bonnes pratiques entre elles.",
-    "t": 157.53
+    "t": 140.95
    },
    {
     "speaker": "Tom",
     "text": "Une petite commune confrontée à un nouveau défi n'a pas à tout inventer seule.",
-    "t": 162.17
+    "t": 144.98
    },
    {
     "speaker": "Anna",
     "text": "À travers le SYVICOL, les communes peuvent se consulter et apprendre de ce que d'autres ont essayé.",
-    "t": 166.85
+    "t": 149.88
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi un soutien pour les personnes qui dirigent réellement les communes... les conseillers communaux.",
-    "t": 173.16
+    "t": 154.61
    },
    {
     "speaker": "Anna",
-    "text": "Oui.",
-    "t": 178.67
-   },
-   {
-    "speaker": "Anna",
-    "text": "Être un élu local est une grande responsabilité, et le SYVICOL apporte son aide par l'information et la formation.",
-    "t": 180.15
+    "text": "Oui. Être un élu local est une grande responsabilité, et le SYVICOL apporte son aide par l'information et la formation.",
+    "t": 159.91
    },
    {
     "speaker": "Tom",
     "text": "Et le SYVICOL représente aussi les communes du Luxembourg au-delà des frontières.",
-    "t": 187.33
+    "t": 166.23
    },
    {
     "speaker": "Anna",
     "text": "Au niveau européen, les villes et les régions de toute l'Europe travaillent ensemble, et les communes du Luxembourg y ont aussi une voix.",
-    "t": 192.15
+    "t": 170.78
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, les préoccupations locales peuvent être entendues non seulement à l'échelle nationale, mais aussi internationale.",
-    "t": 199.56
+    "t": 176.62
    },
    {
     "speaker": "Anna",
     "text": "Prenons un peu de recul et demandons-nous... pourquoi est-ce important pour un résident ordinaire ?",
-    "t": 206.52
+    "t": 183.17
    },
    {
     "speaker": "Tom",
     "text": "Parce que la commune est l'endroit où la démocratie est la plus proche de vous.",
-    "t": 211.8
+    "t": 188.13
    },
    {
     "speaker": "Tom",
     "text": "Elle façonne votre rue, votre école, votre cadre de vie quotidien.",
-    "t": 215.93
+    "t": 191.8
    },
    {
     "speaker": "Anna",
     "text": "Et le SYVICOL contribue à faire en sorte que ce niveau local soit respecté et bien représenté lorsque de grandes décisions sont prises.",
-    "t": 220.55
+    "t": 196.16
    },
    {
     "speaker": "Tom",
     "text": "C'est une partie discrète mais importante de la façon dont le pays reste équilibré... entre le national et le local.",
-    "t": 228.32
+    "t": 202.9
    },
    {
     "speaker": "Anna",
     "text": "Cela rejoint aussi quelque chose qui nous tient à cœur dans le Biergerpakt... participer à la vie locale.",
-    "t": 234.81
+    "t": 209.57
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 241.27
-   },
-   {
-    "speaker": "Tom",
-    "text": "Votre commune est l'un des endroits les plus faciles pour s'impliquer, se faire entendre et faire la différence.",
-    "t": 242.74
+    "text": "Oui. Votre commune est l'un des endroits les plus faciles pour s'impliquer, se faire entendre et faire la différence.",
+    "t": 215.19
    },
    {
     "speaker": "Anna",
     "text": "Voter aux élections communales, rejoindre une commission, assister à une réunion publique... tout cela façonne votre communauté.",
-    "t": 248.75
+    "t": 221.79
    },
    {
     "speaker": "Tom",
     "text": "Et en coulisses, le SYVICOL travaille pour que toutes ces communes disposent des outils et de la voix dont elles ont besoin.",
-    "t": 256.84
+    "t": 228.31
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 263.24
+    "t": 235.42
    },
    {
     "speaker": "Anna",
     "text": "Que peut-on retenir de tout ceci ?",
-    "t": 265.56
+    "t": 236.72
    },
    {
     "speaker": "Tom",
     "text": "D'abord, rappelez-vous que votre commune gère une grande partie de votre vie quotidienne... et que vous pouvez vous y impliquer directement.",
-    "t": 268.32
+    "t": 238.63
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, sachez que toutes les communes agissent ensemble, à travers le SYVICOL, lorsque des décisions nationales touchent à la vie locale.",
-    "t": 275.54
+    "t": 245.7
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, si vous êtes curieux de savoir comment les villes et les villages sont gouvernés, le SYVICOL est l'organisation qui les représente toutes.",
-    "t": 283.95
+    "t": 252.41
    },
    {
     "speaker": "Anna",
     "text": "Faisons la synthèse.",
-    "t": 291.75
+    "t": 260.62
    },
    {
     "speaker": "Anna",
     "text": "Que faut-il retenir au sujet du SYVICOL ?",
-    "t": 293.97
+    "t": 261.97
    },
    {
     "speaker": "Tom",
     "text": "Premièrement... c'est l'association qui unit l'ensemble des cent communes du Luxembourg en une seule voix commune.",
-    "t": 297.3
+    "t": 264.24
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... il promeut et défend leurs intérêts communs, et il est le principal partenaire du gouvernement pour les affaires communales.",
-    "t": 303.21
+    "t": 270.35
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... il rend des avis sur les lois qui concernent les communes, en portant l'expérience locale dans les décisions nationales.",
-    "t": 310.85
+    "t": 277.01
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... il aide les communes à partager leurs connaissances, soutient les conseillers communaux et les représente en Europe.",
-    "t": 317.89
+    "t": 284.42
    },
    {
     "speaker": "Tom",
     "text": "La commune, c'est là où le pays rencontre votre porte d'entrée.",
-    "t": 325.39
+    "t": 290.97
    },
    {
     "speaker": "Tom",
     "text": "Et le SYVICOL contribue à maintenir ce niveau solide.",
-    "t": 329.66
+    "t": 294.29
    },
    {
     "speaker": "Anna",
     "text": "Des communautés locales fortes sont les briques d'un pays où les gens vivent vraiment ensemble.",
-    "t": 333.48
-   },
-   {
-    "speaker": "Tom",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 338.87
+    "t": 297.58
    },
    {
     "speaker": "Anna",
-    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
-    "t": 342.11
+    "text": "C'était notre épisode sur le SYVICOL.",
+    "t": 302.04
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 346.33
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 304.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 311.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 328.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 333.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 334.84
    },
    {
     "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 347.95
+    "text": "Merci à tous.",
+    "t": 339.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 340.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 342.91
    }
   ],
   "audio_de": "podcast_syvicol_de.mp3",
-  "duration_de": 393.48,
+  "duration_de": 389.43,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Es ist uns eine Freude, Sie heute bei uns zu haben.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 7.24
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 9.31
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 12.7
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnerinnen und Einwohnern, und auch den Grenzgängern, helfen zu verstehen, wie das Land geführt wird.",
-    "t": 17.08
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und heute betrachten wir eine Regierungsebene, die Ihrem Alltag am nächsten ist... Ihre Gemeinde.",
-    "t": 26.58
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Ihre Gemeinde ist die Verwaltung Ihrer Stadt oder Ihres Dorfes.",
-    "t": 33.62
+    "t": 33.41
    },
    {
     "speaker": "Anna",
     "text": "Sie kümmert sich um so viele alltägliche Dinge.",
-    "t": 38.11
+    "t": 37.55
    },
    {
     "speaker": "Tom",
     "text": "Schulen, lokale Straßen, Wasser, Müllabfuhr, Parks, Sporthallen, das Personenstandswesen... die Liste ist lang.",
-    "t": 41.88
+    "t": 40.51
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg hat hundert Gemeinden, von der Stadt Luxemburg bis zu kleinen ländlichen Dörfern.",
-    "t": 50.3
+    "t": 48.47
    },
    {
     "speaker": "Tom",
     "text": "Und die heutige Organisation spricht für sie alle, gemeinsam.",
-    "t": 56.76
+    "t": 53.77
    },
    {
     "speaker": "Tom",
     "text": "Sie heißt SYVICOL.",
-    "t": 61.29
+    "t": 57.29
    },
    {
     "speaker": "Anna",
     "text": "SYVICOL steht für den Syndicat des Villes et Communes Luxembourgeoises.",
-    "t": 63.6
+    "t": 58.93
    },
    {
     "speaker": "Tom",
     "text": "Auf Deutsch ist das ungefähr der Verband der Städte und Gemeinden Luxemburgs.",
-    "t": 69.13
+    "t": 63.81
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, was genau ist SYVICOL, und warum gibt es ihn?",
-    "t": 74.08
+    "t": 68.31
    },
    {
     "speaker": "Tom",
     "text": "Es ist die Organisation, die alle Gemeinden Luxemburgs zu einer gemeinsamen Stimme zusammenführt.",
-    "t": 79.26
+    "t": 71.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie wurde 1986 gegründet.",
+    "t": 77.39
    },
    {
     "speaker": "Anna",
     "text": "Seine Aufgabe ist es, die gemeinsamen Interessen der Gemeinden zu fördern, zu schützen und zu verteidigen.",
-    "t": 85.45
+    "t": 80.44
    },
    {
     "speaker": "Tom",
     "text": "Denken Sie einmal darüber nach.",
-    "t": 92.98
+    "t": 86.48
    },
    {
     "speaker": "Tom",
     "text": "Jede Gemeinde ist ziemlich klein.",
-    "t": 95.65
+    "t": 88.44
    },
    {
     "speaker": "Tom",
     "text": "Für sich allein ist ihre Stimme vielleicht leise.",
-    "t": 98.64
+    "t": 90.5
    },
    {
     "speaker": "Anna",
     "text": "Aber gemeinsam, durch SYVICOL, können die hundert Gemeinden klar und mit echtem Gewicht sprechen.",
-    "t": 102.28
+    "t": 93.23
    },
    {
     "speaker": "Tom",
     "text": "Und an wen wenden sie sich hauptsächlich?",
-    "t": 109.12
+    "t": 99.23
    },
    {
     "speaker": "Anna",
     "text": "Vor allem an die nationale Regierung.",
-    "t": 112.43
+    "t": 101.54
    },
    {
     "speaker": "Anna",
     "text": "SYVICOL ist der wichtigste Partner der Regierung für alles, was die Gemeinden betrifft.",
-    "t": 115.76
+    "t": 103.87
    },
    {
     "speaker": "Tom",
     "text": "Wenn der Staat also ein neues Gesetz plant, das das lokale Leben berührt, ist SYVICOL da, um die Städte und Dörfer zu vertreten.",
-    "t": 121.87
+    "t": 108.72
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir über eine seiner wichtigsten Aufgaben... seine Stellungnahme zu neuen Gesetzen abzugeben.",
-    "t": 130.4
+    "t": 116.89
    },
    {
     "speaker": "Tom",
     "text": "Wenn ein Gesetzentwurf die Gemeinden betrifft, prüft SYVICOL ihn und gibt ein Gutachten ab.",
-    "t": 137.33
+    "t": 122.76
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispiel zu Regeln über Wasser, über Schulen, über kommunale Finanzen oder darüber, wie die Gemeinden organisiert sind.",
-    "t": 143.37
+    "t": 128.18
    },
    {
     "speaker": "Tom",
     "text": "Dieses Gutachten hilft den Gesetzgebern, die tatsächlichen, praktischen Auswirkungen vor Ort zu verstehen.",
-    "t": 152.23
+    "t": 135.56
    },
    {
     "speaker": "Anna",
     "text": "Denn die Menschen, die eine Gemeinde führen, wissen, was in einer echten Stadt oder einem echten Dorf wirklich funktionieren wird.",
-    "t": 158.98
+    "t": 142
    },
    {
     "speaker": "Tom",
     "text": "SYVICOL ist also eine Brücke... die lokale Erfahrung hinauf zu nationalen Entscheidungen trägt.",
-    "t": 167.29
+    "t": 148.87
    },
    {
     "speaker": "Anna",
     "text": "Es funktioniert auch andersherum.",
-    "t": 173.64
+    "t": 154.95
    },
    {
     "speaker": "Anna",
     "text": "Es hilft den Gemeinden, Wissen und bewährte Praktiken miteinander zu teilen.",
-    "t": 176.64
+    "t": 156.82
    },
    {
     "speaker": "Tom",
     "text": "Eine kleine Gemeinde, die vor einer neuen Herausforderung steht, muss nicht alles allein erfinden.",
-    "t": 182.19
+    "t": 161.57
    },
    {
     "speaker": "Anna",
     "text": "Durch SYVICOL können sich die Gemeinden gegenseitig beraten und von dem lernen, was andere versucht haben.",
-    "t": 188.7
+    "t": 167.26
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch Unterstützung für die Menschen, die die Gemeinden tatsächlich führen... die Gemeinderäte.",
-    "t": 196.01
+    "t": 173.16
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 202.14
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ein kommunaler Mandatsträger zu sein ist eine große Verantwortung, und SYVICOL hilft mit Information und Weiterbildung.",
-    "t": 203.46
+    "text": "Ja. Ein kommunaler Mandatsträger zu sein ist eine große Verantwortung, und SYVICOL hilft mit Information und Weiterbildung.",
+    "t": 178.67
    },
    {
     "speaker": "Tom",
     "text": "Und SYVICOL vertritt die Gemeinden Luxemburgs auch über die Grenzen hinaus.",
-    "t": 211.93
+    "t": 186.63
    },
    {
     "speaker": "Anna",
     "text": "Auf europäischer Ebene arbeiten Städte und Regionen aus ganz Europa zusammen, und die Gemeinden Luxemburgs haben auch dort eine Stimme.",
-    "t": 216.75
+    "t": 191.23
    },
    {
     "speaker": "Tom",
     "text": "So können lokale Anliegen nicht nur national, sondern auch international gehört werden.",
-    "t": 225.7
+    "t": 199.13
    },
    {
     "speaker": "Anna",
     "text": "Treten wir einen Schritt zurück und fragen wir uns... warum ist das für eine gewöhnliche Einwohnerin oder einen gewöhnlichen Einwohner wichtig?",
-    "t": 231.56
+    "t": 204.45
    },
    {
     "speaker": "Tom",
     "text": "Weil die Gemeinde der Ort ist, an dem die Demokratie Ihnen am nächsten ist.",
-    "t": 240.22
+    "t": 212.31
    },
    {
     "speaker": "Tom",
     "text": "Sie prägt Ihre Straße, Ihre Schule, Ihr tägliches Umfeld.",
-    "t": 245.13
+    "t": 216.47
    },
    {
     "speaker": "Anna",
     "text": "Und SYVICOL trägt dazu bei, dass diese lokale Ebene respektiert und gut vertreten wird, wenn große Entscheidungen getroffen werden.",
-    "t": 249.97
+    "t": 221
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein stiller, aber wichtiger Teil davon, wie das Land im Gleichgewicht bleibt... zwischen dem Nationalen und dem Lokalen.",
-    "t": 259.17
+    "t": 228.44
    },
    {
     "speaker": "Anna",
     "text": "Es knüpft auch an etwas an, das uns im Biergerpakt am Herzen liegt... am lokalen Leben teilzunehmen.",
-    "t": 266.92
+    "t": 236.24
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 274.25
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ihre Gemeinde ist einer der einfachsten Orte, um sich einzubringen, gehört zu werden und etwas zu bewirken.",
-    "t": 275.74
+    "text": "Ja. Ihre Gemeinde ist einer der einfachsten Orte, um sich einzubringen, gehört zu werden und etwas zu bewirken.",
+    "t": 242.48
    },
    {
     "speaker": "Anna",
     "text": "Bei Gemeindewahlen wählen, einer Kommission beitreten, zu einer öffentlichen Versammlung gehen... all das prägt Ihre Gemeinschaft.",
-    "t": 282.62
+    "t": 249.69
    },
    {
     "speaker": "Tom",
     "text": "Und hinter den Kulissen arbeitet SYVICOL daran, dass all diese Gemeinden die Werkzeuge und die Stimme haben, die sie brauchen.",
-    "t": 291.19
+    "t": 257.6
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es praktisch.",
-    "t": 298.75
+    "t": 264.98
    },
    {
     "speaker": "Anna",
     "text": "Was kann man daraus mitnehmen?",
-    "t": 301.16
+    "t": 266.48
    },
    {
     "speaker": "Tom",
     "text": "Erstens, denken Sie daran, dass Ihre Gemeinde einen großen Teil Ihres Alltags regelt... und dass Sie sich direkt einbringen können.",
-    "t": 304.05
+    "t": 268.33
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, wissen Sie, dass alle Gemeinden gemeinsam handeln, durch SYVICOL, wenn nationale Entscheidungen das lokale Leben betreffen.",
-    "t": 312.2
+    "t": 277.31
    },
    {
     "speaker": "Tom",
     "text": "Drittens, wenn Sie neugierig sind, wie Städte und Dörfer regiert werden, ist SYVICOL die Stelle, die sie alle vertritt.",
-    "t": 321.58
+    "t": 286.16
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir es zusammen.",
-    "t": 329.19
+    "t": 293.25
    },
    {
     "speaker": "Anna",
     "text": "Was sollten sich die Menschen über SYVICOL merken?",
-    "t": 331.66
+    "t": 294.7
    },
    {
     "speaker": "Tom",
     "text": "Erstens... es ist der Verband, der alle hundert Gemeinden Luxemburgs zu einer gemeinsamen Stimme vereint.",
-    "t": 335.52
+    "t": 297.76
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... er fördert und verteidigt ihre gemeinsamen Interessen und ist der wichtigste Partner der Regierung in kommunalen Angelegenheiten.",
-    "t": 342.05
+    "t": 304.37
    },
    {
     "speaker": "Tom",
     "text": "Drittens... er gibt Gutachten zu Gesetzen ab, die die Gemeinden betreffen, und trägt lokale Erfahrung in nationale Entscheidungen.",
-    "t": 351.25
+    "t": 312.83
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... er hilft den Gemeinden, Wissen zu teilen, unterstützt die Gemeinderäte und vertritt sie in Europa.",
-    "t": 359.31
+    "t": 321.07
    },
    {
     "speaker": "Tom",
     "text": "Die Gemeinde ist der Ort, an dem das Land auf Ihre Haustür trifft.",
-    "t": 367.06
+    "t": 328.23
    },
    {
     "speaker": "Tom",
     "text": "Und SYVICOL hilft, diese Ebene stark zu halten.",
-    "t": 371.59
+    "t": 331.82
    },
    {
     "speaker": "Anna",
     "text": "Starke lokale Gemeinschaften sind die Bausteine eines Landes, in dem die Menschen wirklich zusammenleben.",
-    "t": 375.65
-   },
-   {
-    "speaker": "Tom",
-    "text": "Vielen Dank, dass Sie heute zugehört haben.",
-    "t": 382.83
+    "t": 335
    },
    {
     "speaker": "Anna",
-    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
-    "t": 386.4
+    "text": "Das war unsere Folge über den SYVICOL.",
+    "t": 340.68
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 390.42
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 343.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 352.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 370.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 376.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 378.65
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 391.91
+    "text": "Danke an alle.",
+    "t": 383.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 384.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 387.9
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm zréck! Et ass eis eng Freed, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
     "text": "Moien alleguer!",
-    "t": 5.64
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen ze verstoen, wéi d'Land gefouert gëtt.",
-    "t": 7.68
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "A haut kucke mir eng Regierungsniveau, déi Ärem Alldag am nooste läit... Är Gemeng.",
-    "t": 22.09
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Är Gemeng ass d'Verwaltung vun Ärer Stad oder Ärem Duerf. Si këmmert sech ëm sou vill alldeeglech Saachen.",
-    "t": 27.82
+    "t": 33.46
    },
    {
     "speaker": "Tom",
     "text": "Schoulen, lokal Stroossen, Waasser, Müllofuer, Parken, Sporthalen, de Personestand... d'Lëscht ass laang.",
-    "t": 34.84
+    "t": 39.38
    },
    {
     "speaker": "Anna",
     "text": "Lëtzebuerg huet honnert Gemengen, vun der Stad Lëtzebuerg bis zu klenge ländlechen Dierfer.",
-    "t": 41.95
+    "t": 46.41
    },
    {
     "speaker": "Tom",
     "text": "An d'Organisatioun vun haut schwätzt fir si all, zesummen. Si heescht SYVICOL.",
-    "t": 47.9
+    "t": 52.22
    },
    {
     "speaker": "Anna",
     "text": "SYVICOL steet fir de Syndicat des Villes et Communes Luxembourgeoises.",
-    "t": 54.36
+    "t": 56.94
    },
    {
     "speaker": "Tom",
     "text": "Op Englesch ass dat ongeféier d'Association of Luxembourg Towns and Communes.",
-    "t": 59.29
+    "t": 61.16
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, wat ass de SYVICOL genau, a firwat existéiert en?",
-    "t": 64.19
+    "t": 65.27
    },
    {
     "speaker": "Tom",
-    "text": "Et ass d'Organisatioun, déi all d'Gemenge vu Lëtzebuerg zu enger gemeinsamer Stëmm zesummebréngt.",
-    "t": 68.92
+    "text": "Et ass d'Organisatioun, déi all d'Gemenge vu Lëtzebuerg zu enger gemeinsamer Stëmm zesummebréngt. Si gouf 1986 gegrënnt.",
+    "t": 68.91
    },
    {
     "speaker": "Anna",
     "text": "Seng Aufgab ass et, déi gemeinsam Interesse vun de Gemengen ze fërderen, ze schützen an ze verdeedegen.",
-    "t": 74.83
+    "t": 76.25
    },
    {
     "speaker": "Tom",
     "text": "Denkt emol doriwwer no. All Gemeng ass éischter kleng. Eleng ass hir Stëmm vläicht roueg.",
-    "t": 79.94
+    "t": 81.45
    },
    {
     "speaker": "Anna",
     "text": "Mä zesummen, duerch de SYVICOL, kënnen déi honnert Gemenge kloer a mat richtegem Gewiicht schwätzen.",
-    "t": 87.88
+    "t": 86.13
    },
    {
     "speaker": "Tom",
     "text": "A mat wiem schwätze si haaptsächlech?",
-    "t": 93.88
+    "t": 91.89
    },
    {
     "speaker": "Anna",
     "text": "Virun allem mat der nationaler Regierung. De SYVICOL ass den Haaptpartner vun der Regierung fir alles, wat d'Gemenge betrëfft.",
-    "t": 96.81
+    "t": 93.72
    },
    {
     "speaker": "Tom",
     "text": "Also wann de Staat e neit Gesetz plangt, dat d'lokaalt Liewen beréiert, ass de SYVICOL do, fir d'Stied an d'Dierfer ze vertrieden.",
-    "t": 105.11
+    "t": 100.62
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis iwwert eng vu senge wichtegsten Aufgabe schwätzen... säin Avis zu neie Gesetzer ze ginn.",
-    "t": 111.64
+    "t": 107.19
    },
    {
     "speaker": "Tom",
     "text": "Wann en Entworf vun engem Gesetz d'Gemenge betrëfft, studéiert de SYVICOL en a gëtt en Avis.",
-    "t": 117.08
+    "t": 112.2
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispill iwwer Reegele iwwert d'Waasser, iwwert d'Schoulen, iwwert d'lokal Finanzen, oder iwwer wéi d'Gemengen organiséiert sinn.",
-    "t": 122.75
+    "t": 117.05
    },
    {
     "speaker": "Tom",
     "text": "Dësen Avis hëlleft de Gesetzgeber, déi richteg, praktesch Auswierkungen um Terrain ze verstoen.",
-    "t": 130.52
+    "t": 124.53
    },
    {
     "speaker": "Anna",
     "text": "Well d'Leit, déi eng Gemeng féieren, wëssen, wat tatsächlech an enger richteger Stad oder engem richtegen Duerf funktionéiere wäert.",
-    "t": 135.94
+    "t": 129.38
    },
    {
     "speaker": "Tom",
     "text": "De SYVICOL ass also eng Bréck... déi déi lokal Erfarung erop bis bei déi national Decisiounen dréit.",
-    "t": 141.42
+    "t": 134.29
    },
    {
     "speaker": "Anna",
     "text": "Et funktionéiert och an déi aner Richtung. Et hëlleft de Gemengen, Wëssen a gutt Praktiken ënnerteneen ze deelen.",
-    "t": 146.8
+    "t": 139.5
    },
    {
     "speaker": "Tom",
     "text": "Eng kleng Gemeng, déi virun enger neier Erausfuerderung steet, muss net alles eleng erfannen.",
-    "t": 153.46
+    "t": 144.96
    },
    {
     "speaker": "Anna",
     "text": "Duerch de SYVICOL kënnen d'Gemenge sech géigesäiteg berode an aus deem léieren, wat anerer probéiert hunn.",
-    "t": 158.28
+    "t": 149.31
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt och Ënnerstëtzung fir d'Leit, déi d'Gemenge wierklech féieren... d'Gemengeréit.",
-    "t": 163.83
+    "t": 154.31
    },
    {
     "speaker": "Anna",
     "text": "Jo. E kommunale Mandatär ze sinn ass eng grouss Verantwortung, an de SYVICOL hëlleft mat Informatioun a Formatioun.",
-    "t": 169.27
+    "t": 159.07
    },
    {
     "speaker": "Tom",
     "text": "An de SYVICOL vertrëtt d'Gemenge vu Lëtzebuerg och iwwert d'Grenzen eraus.",
-    "t": 177.91
+    "t": 166.48
    },
    {
     "speaker": "Anna",
     "text": "Um europäeschen Niveau schaffe Stied a Regioune vun iwwerall an Europa zesummen, an d'Gemenge vu Lëtzebuerg hunn och do eng Stëmm.",
-    "t": 182.81
+    "t": 170.61
    },
    {
     "speaker": "Tom",
     "text": "Sou kënne lokal Suergen net nëmmen national, mä och international héieren ginn.",
-    "t": 190.83
+    "t": 178.54
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis e Schrëtt zréckgoen an eis froen... firwat ass dat fir en normalen Awunner wichteg?",
-    "t": 195.87
+    "t": 183.13
    },
    {
     "speaker": "Tom",
     "text": "Well d'Gemeng den Ort ass, wou d'Demokratie Iech am nooste läit. Si formt Är Strooss, Är Schoul, Ärt deeglecht Ëmfeld.",
-    "t": 200.62
+    "t": 187.86
    },
    {
     "speaker": "Anna",
     "text": "An de SYVICOL hëlleft sécherzestellen, datt dëse lokalen Niveau respektéiert a gutt vertruede gëtt, wann grouss Decisioune geholl ginn.",
-    "t": 208.91
+    "t": 195.09
    },
    {
     "speaker": "Tom",
     "text": "Et ass e rouegen, mä wichtegen Deel dovun, wéi d'Land am Gläichgewiicht bleift... tëscht dem Nationalen an dem Lokalen.",
-    "t": 215.68
+    "t": 201.53
    },
    {
     "speaker": "Anna",
     "text": "Et hänkt och mat eppes zesummen, wat eis am Biergerpakt um Häerz läit... um lokale Liewen deelzehuelen.",
-    "t": 221.76
+    "t": 207.73
    },
    {
     "speaker": "Tom",
     "text": "Jo. Är Gemeng ass ee vun den einfachsten Plazen, fir sech anzebréngen, gehéiert ze ginn, an eppes ze beweegen.",
-    "t": 227.72
+    "t": 213.18
    },
    {
     "speaker": "Anna",
     "text": "Bei de Gemengewahle wielen, enger Kommissioun bäitrieden, op eng ëffentlech Versammlung goen... dat alles formt Är Gemeinschaft.",
-    "t": 235.15
+    "t": 219.54
    },
    {
     "speaker": "Tom",
     "text": "An hannert de Kulissen schafft de SYVICOL drun, datt all dës Gemengen d'Outilen an d'Stëmm hunn, déi se brauchen.",
-    "t": 242.04
+    "t": 226.68
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis et praktesch maachen. Wat kann een dovunner mathuelen?",
-    "t": 248.06
+    "t": 233.17
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, denkt drun, datt Är Gemeng e groussen Deel vun Ärem Alldag regelt... an datt Dir Iech direkt abréngen kënnt.",
-    "t": 253.07
+    "t": 236.7
    },
    {
     "speaker": "Anna",
     "text": "Als zweet, wësst, datt all d'Gemenge zesumme handelen, duerch de SYVICOL, wann national Decisiounen d'lokaalt Liewen betreffen.",
-    "t": 259.67
+    "t": 243.64
    },
    {
     "speaker": "Tom",
     "text": "Als drëtt, wann Dir virwëtzeg sidd, wéi Stied an Dierfer regéiert ginn, ass de SYVICOL d'Plaz, déi se all vertrëtt.",
-    "t": 266.89
+    "t": 250.95
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis et zesummebréngen. Wat sollen d'Leit iwwert de SYVICOL behalen?",
-    "t": 273.64
+    "t": 257.79
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... et ass den Verband, deen all déi honnert Gemenge vu Lëtzebuerg zu enger gemeinsamer Stëmm vereent.",
-    "t": 278.94
+    "t": 261.76
    },
    {
     "speaker": "Anna",
     "text": "Als zweet... en fërdert a verdeedegt hir gemeinsam Interessen, an ass den Haaptpartner vun der Regierung an kommunalen Affären.",
-    "t": 285.58
+    "t": 268.85
    },
    {
     "speaker": "Tom",
     "text": "Als drëtt... en gëtt Avisen zu Gesetzer, déi d'Gemenge betreffen, an dréit déi lokal Erfarung an déi national Decisiounen.",
-    "t": 292.49
+    "t": 275.92
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... en hëlleft de Gemengen, Wëssen ze deelen, ënnerstëtzt d'Gemengeréit, a vertrëtt se an Europa.",
-    "t": 299.62
+    "t": 282.75
    },
    {
     "speaker": "Tom",
     "text": "D'Gemeng ass do, wou d'Land op Är Hausdier trëfft. An de SYVICOL hëlleft, dëse Niveau staark ze halen.",
-    "t": 306.35
+    "t": 289.69
    },
    {
     "speaker": "Anna",
-    "text": "Staark lokal Gemeinschafte sinn d'Bausteng vun engem Land, wou d'Leit wierklech zesummeliewen.",
-    "t": 313.41
+    "text": "Staark lokal Gemeinschafte sinn d'Bausteng vun engem Land, wou d'Leit wierklech zesummeliewen. Dat war eis Episod iwwer de SYVICOL. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 294.91
    },
    {
     "speaker": "Tom",
-    "text": "Villmools merci, datt Dir haut nogelauschtert hutt.",
-    "t": 319.16
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 343.32
    },
    {
     "speaker": "Anna",
-    "text": "Passt op Iech op, a bis an déi nächst Episod. Äddi!",
-    "t": 322.16
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 327.13
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 346.52
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 28,
@@ -75362,7 +75411,7 @@ const EPISODES = [
   "title": "Research Luxembourg – The Country's Public Research Institutions",
   "description": "What Research Luxembourg is, the main public-research players it unites (the University of Luxembourg, the institutes LIST, LIH and LISER, the funder FNR and the innovation agency Luxinnovation), the Belval innovation campus, and why public research in health, science, technology and society matters for everyday life.",
   "audio": "podcast_research.mp3",
-  "duration": 358.85,
+  "duration": 373.45,
   "topics": [
    "What Research Luxembourg is",
    "University of Luxembourg",
@@ -75376,383 +75425,403 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's wonderful to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.73
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.77
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.88
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to discover the country.",
-    "t": 14.7
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today we're discovering a side of Luxembourg that many people don't know about... research and science.",
-    "t": 21.45
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "When we think of Luxembourg, we often think of banks, or of being small.",
-    "t": 27.56
+    "t": 33.91
    },
    {
     "speaker": "Anna",
     "text": "But there's a growing world of science here too.",
-    "t": 32.58
+    "t": 37.74
    },
    {
     "speaker": "Tom",
     "text": "New medicines, clean technologies, studies of society, the digital future... all being explored by researchers in Luxembourg.",
-    "t": 35.79
+    "t": 40.56
    },
    {
     "speaker": "Anna",
     "text": "And there's a shared name that brings these efforts together.",
-    "t": 43.68
+    "t": 48.35
    },
    {
     "speaker": "Anna",
     "text": "It is called Research Luxembourg.",
-    "t": 47.41
+    "t": 51.47
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what is Research Luxembourg, exactly?",
-    "t": 50.18
+    "t": 54.01
    },
    {
     "speaker": "Anna",
     "text": "It is a joint initiative of the country's main public research players, supported by the Ministry of Higher Education and Research.",
-    "t": 54.27
+    "t": 56.77
    },
    {
     "speaker": "Tom",
     "text": "So instead of each institution working alone, they also act together, under one banner, to promote research in Luxembourg.",
-    "t": 62.04
+    "t": 64.56
    },
    {
     "speaker": "Anna",
     "text": "Its spirit is to learn, to explore, and to make a real impact for a better future.",
-    "t": 69.53
+    "t": 72.09
    },
    {
     "speaker": "Tom",
     "text": "Let's meet the main players, because each one has its own role.",
-    "t": 75.3
+    "t": 77.54
    },
    {
     "speaker": "Anna",
     "text": "The first is the University of Luxembourg.",
-    "t": 79.5
+    "t": 80.67
    },
    {
     "speaker": "Anna",
     "text": "It is the country's public university.",
-    "t": 82.72
+    "t": 83.29
    },
    {
     "speaker": "Tom",
     "text": "It's quite young... it was created in 2003.",
-    "t": 85.71
+    "t": 85.85
    },
    {
     "speaker": "Tom",
     "text": "But it has grown fast, and is very international.",
-    "t": 89.73
+    "t": 88.92
    },
    {
     "speaker": "Anna",
     "text": "It is where students study and where a great deal of research happens, across many fields.",
-    "t": 93.53
+    "t": 91.57
    },
    {
     "speaker": "Tom",
     "text": "The second is the Luxembourg Institute of Science and Technology, often called LIST.",
-    "t": 99.21
+    "t": 97.15
    },
    {
     "speaker": "Anna",
     "text": "LIST works on applied science and technology... materials, the environment, and digital tools that industry can use.",
-    "t": 104.79
+    "t": 101.6
    },
    {
     "speaker": "Tom",
     "text": "The third is the Luxembourg Institute of Health, or LIH.",
-    "t": 112.56
+    "t": 110.24
    },
    {
     "speaker": "Anna",
     "text": "As the name says, it focuses on health... medical research to better understand, prevent and treat disease.",
-    "t": 116.91
+    "t": 114.28
    },
    {
     "speaker": "Tom",
     "text": "The fourth is the Luxembourg Institute of Socio-Economic Research, or LISER.",
-    "t": 124.09
+    "t": 121.56
    },
    {
     "speaker": "Anna",
     "text": "We've met LISER before, in our episode on the Observatoire de l'Habitat.",
-    "t": 129.33
+    "t": 126.34
    },
    {
     "speaker": "Anna",
     "text": "It studies society and the economy.",
-    "t": 134.48
+    "t": 130.98
    },
    {
     "speaker": "Tom",
     "text": "Things like work, housing, education, inequality... research that helps us understand how people actually live.",
-    "t": 137.59
+    "t": 133.42
    },
    {
     "speaker": "Anna",
     "text": "The fifth player is a little different.",
-    "t": 144.47
+    "t": 140.16
    },
    {
     "speaker": "Anna",
     "text": "It is the National Research Fund, often called the FNR.",
-    "t": 147.42
+    "t": 142.26
    },
    {
     "speaker": "Tom",
     "text": "The FNR doesn't mainly do research itself.",
-    "t": 151.51
+    "t": 146.38
    },
    {
     "speaker": "Tom",
     "text": "It funds research, and supports researchers across the country.",
-    "t": 155.24
+    "t": 149.17
    },
    {
     "speaker": "Anna",
     "text": "So it's a bit like the engine room... helping good ideas get the resources they need.",
-    "t": 159.81
+    "t": 153.03
    },
    {
     "speaker": "Tom",
     "text": "And the sixth is Luxinnovation, the national innovation agency.",
-    "t": 165.03
+    "t": 157.82
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation helps connect research with businesses, so that good ideas become real products and jobs.",
-    "t": 169.87
+    "t": 161.64
    },
    {
     "speaker": "Tom",
     "text": "So together you have universities, institutes, a funder, and an innovation agency, all pulling in the same direction.",
-    "t": 176.62
+    "t": 168.75
    },
    {
     "speaker": "Anna",
     "text": "There's also a special place at the heart of all this... Belval.",
-    "t": 183.91
+    "t": 175.05
    },
    {
     "speaker": "Tom",
     "text": "Belval is a former steelworks site in the south of the country, in Esch-sur-Alzette.",
-    "t": 188.91
+    "t": 179.06
    },
    {
     "speaker": "Anna",
     "text": "Where furnaces once made steel, there is now a modern campus for research and learning.",
-    "t": 194.04
+    "t": 183.79
    },
    {
     "speaker": "Tom",
     "text": "It's a beautiful symbol... a country moving from heavy industry towards knowledge and innovation.",
-    "t": 199.5
+    "t": 189.36
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about why this matters, even for people who will never work in a laboratory.",
-    "t": 205.18
+    "t": 195.36
    },
    {
     "speaker": "Tom",
     "text": "First, because research improves daily life.",
-    "t": 210.67
+    "t": 200.73
    },
    {
     "speaker": "Tom",
     "text": "Better health, cleaner energy, smarter services.",
-    "t": 214.29
+    "t": 203.44
    },
    {
     "speaker": "Anna",
     "text": "Second, because it builds the future economy.",
-    "t": 218.37
+    "t": 206.73
    },
    {
     "speaker": "Anna",
     "text": "Good research attracts talent, companies, and good jobs.",
-    "t": 221.99
+    "t": 209.76
    },
    {
     "speaker": "Tom",
     "text": "Third, because it helps us understand ourselves... our society, our challenges, and how to face them.",
-    "t": 226.41
+    "t": 213.61
    },
    {
     "speaker": "Anna",
     "text": "And fourth, because it's a source of pride.",
-    "t": 232.76
+    "t": 220.65
    },
    {
     "speaker": "Anna",
     "text": "A small country can do world-class science.",
-    "t": 236.11
+    "t": 223.43
    },
    {
     "speaker": "Tom",
     "text": "There's also something here for young people, and for newcomers.",
-    "t": 239.46
+    "t": 226.39
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 243.66
-   },
-   {
-    "speaker": "Anna",
-    "text": "Research Luxembourg supports research careers, and helps people start a PhD or find a science job.",
-    "t": 245.35
+    "text": "Yes. Research Luxembourg supports research careers, and helps people start a PhD or find a science job.",
+    "t": 229.4
    },
    {
     "speaker": "Tom",
     "text": "So if you, or your children, are drawn to science, this whole world is open and growing.",
-    "t": 252.21
+    "t": 236.65
    },
    {
     "speaker": "Anna",
     "text": "And it's deeply international.",
-    "t": 257.78
+    "t": 242.14
    },
    {
     "speaker": "Anna",
     "text": "Researchers come from all over the world to work here, side by side.",
-    "t": 260.42
+    "t": 244.12
    },
    {
     "speaker": "Tom",
     "text": "Which fits Luxembourg perfectly... many languages, many backgrounds, one shared curiosity.",
-    "t": 264.95
+    "t": 248.04
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 271.22
+    "t": 253.82
    },
    {
     "speaker": "Anna",
     "text": "What can someone take from this?",
-    "t": 273.59
+    "t": 255.34
    },
    {
     "speaker": "Tom",
     "text": "First, know that Luxembourg has real, serious public research... in health, science, technology and society.",
-    "t": 276.23
+    "t": 257.35
    },
    {
     "speaker": "Anna",
     "text": "Second, if you're curious, you can follow Research Luxembourg's news and discoveries.",
-    "t": 283.58
+    "t": 264.71
    },
    {
     "speaker": "Tom",
     "text": "Third, if you or someone you know loves science, there are studies, PhDs and careers to explore here.",
-    "t": 289.4
+    "t": 270.07
    },
    {
     "speaker": "Anna",
     "text": "And fourth, remember that this research quietly shapes better medicines, greener tech, and wiser policies.",
-    "t": 296
+    "t": 276.23
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 303.44
+    "t": 283.02
    },
    {
     "speaker": "Tom",
     "text": "What should people remember?",
-    "t": 305.97
+    "t": 284.45
    },
    {
     "speaker": "Anna",
     "text": "First... Research Luxembourg unites the country's main public research players under one banner.",
-    "t": 308.54
+    "t": 285.88
    },
    {
     "speaker": "Tom",
     "text": "Second... they include the University of Luxembourg, the institutes LIST, LIH and LISER, the funder FNR, and Luxinnovation.",
-    "t": 315.38
+    "t": 291.96
    },
    {
     "speaker": "Anna",
     "text": "Third... much of it is gathered at Belval, a former steel site reborn as a campus of knowledge.",
-    "t": 323.65
+    "t": 300.98
    },
    {
     "speaker": "Tom",
     "text": "And fourth... this research improves health, the economy, and our understanding of society, and it welcomes new talent.",
-    "t": 329.86
+    "t": 307.7
    },
    {
     "speaker": "Anna",
     "text": "A country is not only its past.",
-    "t": 337.13
+    "t": 314.28
    },
    {
     "speaker": "Anna",
     "text": "It is also what it chooses to discover, and to build.",
-    "t": 340.12
+    "t": 316.43
    },
    {
     "speaker": "Tom",
     "text": "And Luxembourg is choosing, more and more, to build with knowledge.",
-    "t": 343.92
+    "t": 320.15
    },
    {
     "speaker": "Anna",
-    "text": "Thank you so much for listening today.",
-    "t": 348.36
-   },
-   {
-    "speaker": "Tom",
-    "text": "Take care, stay curious, and see you in the next episode.",
-    "t": 351.31
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 355.64
+    "text": "That was our episode about Research Luxembourg.",
+    "t": 323.33
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 357.33
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 326.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 336.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 355
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 361.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 363.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 368.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 369.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 371.84
    }
   ],
   "questions": [
@@ -75954,1061 +76023,1095 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_research_fr.mp3",
-  "duration_fr": 395.86,
+  "duration_fr": 375.09,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Nous sommes ravis de vous compter parmi nous aujourd'hui.",
-    "t": 2.69
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.38
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 8.95
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
-    "t": 12.41
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les travailleurs frontaliers, à découvrir le pays.",
-    "t": 16.08
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et aujourd'hui, nous découvrons une facette du Luxembourg que beaucoup de gens ne connaissent pas... la recherche et la science.",
-    "t": 23.18
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "Quand on pense au Luxembourg, on pense souvent aux banques, ou au fait qu'il est petit.",
-    "t": 30.65
+    "t": 29.29
    },
    {
     "speaker": "Anna",
     "text": "Mais il y a aussi ici un monde scientifique en pleine croissance.",
-    "t": 36.09
+    "t": 33.37
    },
    {
     "speaker": "Tom",
     "text": "De nouveaux médicaments, des technologies propres, des études sur la société, l'avenir numérique... tout cela est exploré par des chercheurs au Luxembourg.",
-    "t": 40.37
+    "t": 36.71
    },
    {
     "speaker": "Anna",
     "text": "Et il existe un nom commun qui rassemble ces efforts.",
-    "t": 49.26
+    "t": 45.22
    },
    {
     "speaker": "Anna",
     "text": "Il s'appelle Research Luxembourg.",
-    "t": 52.94
+    "t": 47.79
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qu'est-ce que Research Luxembourg, exactement ?",
-    "t": 55.81
+    "t": 50
    },
    {
     "speaker": "Anna",
     "text": "C'est une initiative conjointe des principaux acteurs de la recherche publique du pays, soutenue par le ministère de l'Enseignement supérieur et de la Recherche.",
-    "t": 60.07
+    "t": 53.23
    },
    {
     "speaker": "Tom",
     "text": "Donc, au lieu que chaque institution travaille seule, elles agissent aussi ensemble, sous une même bannière, pour promouvoir la recherche au Luxembourg.",
-    "t": 69
+    "t": 61.34
    },
    {
     "speaker": "Anna",
     "text": "Son esprit est d'apprendre, d'explorer et d'avoir un véritable impact pour un avenir meilleur.",
-    "t": 77.66
+    "t": 69.53
    },
    {
     "speaker": "Tom",
     "text": "Faisons connaissance avec les principaux acteurs, car chacun a son propre rôle.",
-    "t": 83.72
+    "t": 74.28
    },
    {
     "speaker": "Anna",
     "text": "Le premier est l'Université du Luxembourg.",
-    "t": 88.88
+    "t": 78.82
    },
    {
     "speaker": "Anna",
     "text": "C'est l'université publique du pays.",
-    "t": 92.27
+    "t": 81.03
    },
    {
     "speaker": "Tom",
     "text": "Elle est assez jeune... elle a été créée en 2003.",
-    "t": 95.36
+    "t": 83.19
    },
    {
     "speaker": "Tom",
     "text": "Mais elle a grandi vite, et elle est très internationale.",
-    "t": 99
+    "t": 86.38
    },
    {
     "speaker": "Anna",
     "text": "C'est là que les étudiants étudient et où une grande partie de la recherche se fait, dans de nombreux domaines.",
-    "t": 102.73
+    "t": 89.49
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième est le Luxembourg Institute of Science and Technology, souvent appelé LIST.",
-    "t": 108.9
+    "t": 94.85
    },
    {
     "speaker": "Anna",
     "text": "Le LIST travaille sur la science et la technologie appliquées... les matériaux, l'environnement, et les outils numériques que l'industrie peut utiliser.",
-    "t": 114.3
+    "t": 100.29
    },
    {
     "speaker": "Tom",
     "text": "Le troisième est le Luxembourg Institute of Health, ou LIH.",
-    "t": 123.16
+    "t": 107.93
    },
    {
     "speaker": "Anna",
     "text": "Comme son nom l'indique, il se concentre sur la santé... la recherche médicale pour mieux comprendre, prévenir et traiter les maladies.",
-    "t": 127.58
+    "t": 111.88
    },
    {
     "speaker": "Tom",
     "text": "Le quatrième est le Luxembourg Institute of Socio-Economic Research, ou LISER.",
-    "t": 135.78
+    "t": 119.35
    },
    {
     "speaker": "Anna",
     "text": "Nous avons déjà rencontré le LISER, dans notre épisode sur l'Observatoire de l'Habitat.",
-    "t": 140.95
+    "t": 124.44
    },
    {
     "speaker": "Anna",
     "text": "Il étudie la société et l'économie.",
-    "t": 146.79
+    "t": 128.89
    },
    {
     "speaker": "Tom",
     "text": "Des thèmes comme le travail, le logement, l'éducation, les inégalités... une recherche qui nous aide à comprendre comment les gens vivent réellement.",
-    "t": 150.01
+    "t": 131.12
    },
    {
     "speaker": "Anna",
     "text": "Le cinquième acteur est un peu différent.",
-    "t": 158.18
+    "t": 139.77
    },
    {
     "speaker": "Anna",
     "text": "C'est le Fonds National de la Recherche, souvent appelé le FNR.",
-    "t": 161.25
+    "t": 141.8
    },
    {
     "speaker": "Tom",
     "text": "Le FNR ne fait pas principalement de la recherche lui-même.",
-    "t": 165.93
+    "t": 145.75
    },
    {
     "speaker": "Tom",
     "text": "Il finance la recherche, et soutient les chercheurs dans tout le pays.",
-    "t": 169.79
+    "t": 149.03
    },
    {
     "speaker": "Anna",
     "text": "C'est donc un peu comme la salle des machines... il aide les bonnes idées à obtenir les ressources dont elles ont besoin.",
-    "t": 174.17
+    "t": 152.95
    },
    {
     "speaker": "Tom",
     "text": "Et le sixième est Luxinnovation, l'agence nationale de l'innovation.",
-    "t": 180.61
+    "t": 158.76
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation aide à relier la recherche aux entreprises, pour que les bonnes idées deviennent de vrais produits et de vrais emplois.",
-    "t": 185.14
+    "t": 162.88
    },
    {
     "speaker": "Tom",
     "text": "Donc, ensemble, vous avez des universités, des instituts, un financeur et une agence d'innovation, qui vont tous dans la même direction.",
-    "t": 192.25
+    "t": 169.18
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi un lieu particulier au cœur de tout cela... Belval.",
-    "t": 200.64
+    "t": 177.34
    },
    {
     "speaker": "Tom",
     "text": "Belval est une ancienne friche sidérurgique dans le sud du pays, à Esch-sur-Alzette.",
-    "t": 205.93
+    "t": 181.38
    },
    {
     "speaker": "Anna",
     "text": "Là où des hauts fourneaux produisaient autrefois de l'acier, il y a maintenant un campus moderne dédié à la recherche et à l'apprentissage.",
-    "t": 211.12
+    "t": 186.63
    },
    {
     "speaker": "Tom",
     "text": "C'est un beau symbole... un pays qui passe de l'industrie lourde vers le savoir et l'innovation.",
-    "t": 218.56
+    "t": 193.21
    },
    {
     "speaker": "Anna",
     "text": "Parlons de l'importance de tout cela, même pour les personnes qui ne travailleront jamais dans un laboratoire.",
-    "t": 223.78
+    "t": 198.32
    },
    {
     "speaker": "Tom",
     "text": "D'abord, parce que la recherche améliore la vie quotidienne.",
-    "t": 230.05
+    "t": 203.04
    },
    {
     "speaker": "Tom",
     "text": "Une meilleure santé, une énergie plus propre, des services plus intelligents.",
-    "t": 234.26
+    "t": 206.11
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, parce qu'elle construit l'économie de demain.",
-    "t": 239.08
+    "t": 210.5
    },
    {
     "speaker": "Anna",
     "text": "Une bonne recherche attire les talents, les entreprises et les bons emplois.",
-    "t": 242.99
+    "t": 213.01
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, parce qu'elle nous aide à nous comprendre nous-mêmes... notre société, nos défis, et comment les affronter.",
-    "t": 247.72
+    "t": 216.78
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement, parce que c'est une source de fierté.",
-    "t": 254.83
+    "t": 223.38
    },
    {
     "speaker": "Anna",
     "text": "Un petit pays peut faire de la science de niveau mondial.",
-    "t": 258.78
+    "t": 225.93
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi quelque chose ici pour les jeunes, et pour les nouveaux arrivants.",
-    "t": 262.58
+    "t": 228.72
    },
    {
     "speaker": "Anna",
-    "text": "Oui.",
-    "t": 267.13
-   },
-   {
-    "speaker": "Anna",
-    "text": "Research Luxembourg soutient les carrières dans la recherche, et aide les gens à commencer un doctorat ou à trouver un emploi scientifique.",
-    "t": 268.61
+    "text": "Oui. Research Luxembourg soutient les carrières dans la recherche, et aide les gens à commencer un doctorat ou à trouver un emploi scientifique.",
+    "t": 232.83
    },
    {
     "speaker": "Tom",
     "text": "Donc, si vous, ou vos enfants, êtes attirés par la science, tout ce monde est ouvert et en pleine croissance.",
-    "t": 276.65
+    "t": 239.46
    },
    {
     "speaker": "Anna",
     "text": "Et c'est profondément international.",
-    "t": 283.61
+    "t": 246.32
    },
    {
     "speaker": "Anna",
     "text": "Des chercheurs viennent du monde entier pour travailler ici, côte à côte.",
-    "t": 286.56
+    "t": 248.27
    },
    {
     "speaker": "Tom",
     "text": "Ce qui correspond parfaitement au Luxembourg... beaucoup de langues, beaucoup d'origines, une même curiosité partagée.",
-    "t": 291.26
+    "t": 251.87
    },
    {
     "speaker": "Anna",
-    "text": "Soyons concrets.",
-    "t": 298.33
-   },
-   {
-    "speaker": "Anna",
-    "text": "Que peut-on retenir de tout cela ?",
-    "t": 300.39
+    "text": "Soyons concrets. Que peut-on retenir de tout cela ?",
+    "t": 258.64
    },
    {
     "speaker": "Tom",
     "text": "D'abord, sachez que le Luxembourg possède une recherche publique réelle et sérieuse... dans la santé, la science, la technologie et la société.",
-    "t": 303.1
+    "t": 261.81
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, si vous êtes curieux, vous pouvez suivre l'actualité et les découvertes de Research Luxembourg.",
-    "t": 311.85
+    "t": 270.59
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, si vous, ou quelqu'un que vous connaissez, aimez la science, il y a des études, des doctorats et des carrières à explorer ici.",
-    "t": 318.76
+    "t": 275.61
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement, n'oubliez pas que cette recherche façonne discrètement de meilleurs médicaments, des technologies plus vertes et des politiques plus avisées.",
-    "t": 327
+    "t": 284.32
    },
    {
     "speaker": "Tom",
     "text": "Faisons la synthèse.",
-    "t": 335.68
+    "t": 291.88
    },
    {
     "speaker": "Tom",
     "text": "Que faut-il retenir ?",
-    "t": 337.92
+    "t": 293.27
    },
    {
     "speaker": "Anna",
     "text": "Premièrement... Research Luxembourg réunit les principaux acteurs de la recherche publique du pays sous une même bannière.",
-    "t": 340.12
+    "t": 294.79
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... on y trouve l'Université du Luxembourg, les instituts LIST, LIH et LISER, le financeur FNR, et Luxinnovation.",
-    "t": 347.96
+    "t": 300.71
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... une grande partie est rassemblée à Belval, une ancienne friche sidérurgique renée en campus du savoir.",
-    "t": 356.67
+    "t": 309.98
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... cette recherche améliore la santé, l'économie et notre compréhension de la société, et elle accueille de nouveaux talents.",
-    "t": 363.98
+    "t": 315.83
    },
    {
     "speaker": "Anna",
     "text": "Un pays n'est pas seulement son passé.",
-    "t": 371.77
+    "t": 323.49
    },
    {
     "speaker": "Anna",
     "text": "Il est aussi ce qu'il choisit de découvrir, et de construire.",
-    "t": 374.61
+    "t": 325.42
    },
    {
     "speaker": "Tom",
     "text": "Et le Luxembourg choisit, de plus en plus, de construire avec le savoir.",
-    "t": 378.92
+    "t": 328.34
    },
    {
     "speaker": "Anna",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 384.18
-   },
-   {
-    "speaker": "Tom",
-    "text": "Prenez soin de vous, restez curieux, et à bientôt dans le prochain épisode.",
-    "t": 387.65
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 392.71
+    "text": "C'était notre épisode sur Research Luxembourg.",
+    "t": 332.44
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 394.24
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 334.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 342.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 358.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 363.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 365.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 369.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 370.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 373.33
    }
   ],
   "audio_de": "podcast_research_de.mp3",
-  "duration_de": 434.38,
+  "duration_de": 423.58,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Es ist wunderbar, dass Sie heute bei uns sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 7.06
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 9.13
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 12.52
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, das Land zu entdecken.",
-    "t": 16.9
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und heute entdecken wir eine Seite Luxemburgs, die viele Menschen nicht kennen... die Forschung und die Wissenschaft.",
-    "t": 24.56
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Wenn wir an Luxemburg denken, denken wir oft an Banken oder daran, dass es klein ist.",
-    "t": 31.29
+    "t": 34.38
    },
    {
     "speaker": "Anna",
     "text": "Aber es gibt hier auch eine wachsende Welt der Wissenschaft.",
-    "t": 37.69
+    "t": 39.17
    },
    {
     "speaker": "Tom",
     "text": "Neue Medikamente, saubere Technologien, Studien über die Gesellschaft, die digitale Zukunft... all das wird von Forschern in Luxemburg erforscht.",
-    "t": 41.93
+    "t": 42.52
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt einen gemeinsamen Namen, der diese Bemühungen zusammenführt.",
-    "t": 51.41
+    "t": 52.72
    },
    {
     "speaker": "Anna",
     "text": "Er heißt Research Luxembourg.",
-    "t": 56.81
+    "t": 56.65
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was ist Research Luxembourg genau?",
-    "t": 59.63
+    "t": 58.94
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine gemeinsame Initiative der wichtigsten öffentlichen Forschungsakteure des Landes, unterstützt vom Ministerium für Hochschulwesen und Forschung.",
-    "t": 63.45
+    "t": 61.5
    },
    {
     "speaker": "Tom",
     "text": "Anstatt dass also jede Einrichtung allein arbeitet, handeln sie auch gemeinsam, unter einem Banner, um die Forschung in Luxemburg zu fördern.",
-    "t": 73.55
+    "t": 70.02
    },
    {
     "speaker": "Anna",
     "text": "Sein Geist ist es, zu lernen, zu erforschen und eine echte Wirkung für eine bessere Zukunft zu erzielen.",
-    "t": 82.31
+    "t": 78.33
    },
    {
     "speaker": "Tom",
     "text": "Lernen wir die wichtigsten Akteure kennen, denn jeder hat seine eigene Rolle.",
-    "t": 89.77
+    "t": 84.35
    },
    {
     "speaker": "Anna",
     "text": "Der erste ist die Universität Luxemburg.",
-    "t": 94.83
+    "t": 88.83
    },
    {
     "speaker": "Anna",
     "text": "Sie ist die öffentliche Universität des Landes.",
-    "t": 98.56
+    "t": 91.33
    },
    {
     "speaker": "Tom",
     "text": "Sie ist recht jung... sie wurde 2003 gegründet.",
-    "t": 102.34
+    "t": 94.3
    },
    {
     "speaker": "Tom",
     "text": "Aber sie ist schnell gewachsen und ist sehr international.",
-    "t": 106.46
+    "t": 98.16
    },
    {
     "speaker": "Anna",
     "text": "Dort studieren die Studierenden und dort findet ein großer Teil der Forschung statt, in vielen Bereichen.",
-    "t": 110.51
+    "t": 101.57
    },
    {
     "speaker": "Tom",
     "text": "Der zweite ist das Luxembourg Institute of Science and Technology, oft LIST genannt.",
-    "t": 117.41
+    "t": 107.23
    },
    {
     "speaker": "Anna",
     "text": "Das LIST arbeitet an angewandter Wissenschaft und Technologie... Materialien, Umwelt und digitale Werkzeuge, die die Industrie nutzen kann.",
-    "t": 123.14
+    "t": 112.26
    },
    {
     "speaker": "Tom",
     "text": "Der dritte ist das Luxembourg Institute of Health, oder LIH.",
-    "t": 133.36
+    "t": 121.8
    },
    {
     "speaker": "Anna",
     "text": "Wie der Name sagt, konzentriert es sich auf die Gesundheit... medizinische Forschung, um Krankheiten besser zu verstehen, vorzubeugen und zu behandeln.",
-    "t": 137.96
+    "t": 126.17
    },
    {
     "speaker": "Tom",
     "text": "Der vierte ist das Luxembourg Institute of Socio-Economic Research, oder LISER.",
-    "t": 148.2
+    "t": 135.42
    },
    {
     "speaker": "Anna",
     "text": "Wir sind dem LISER schon einmal begegnet, in unserer Folge über das Observatoire de l'Habitat.",
-    "t": 153.84
+    "t": 140.88
    },
    {
     "speaker": "Anna",
     "text": "Es untersucht die Gesellschaft und die Wirtschaft.",
-    "t": 160.59
+    "t": 145.91
    },
    {
     "speaker": "Tom",
     "text": "Dinge wie Arbeit, Wohnen, Bildung, Ungleichheit... Forschung, die uns hilft zu verstehen, wie die Menschen tatsächlich leben.",
-    "t": 164.34
+    "t": 148.88
    },
    {
     "speaker": "Anna",
     "text": "Der fünfte Akteur ist ein wenig anders.",
-    "t": 173.34
+    "t": 156.97
    },
    {
     "speaker": "Anna",
     "text": "Es ist der Fonds National de la Recherche, oft FNR genannt.",
-    "t": 176.78
+    "t": 159.4
    },
    {
     "speaker": "Tom",
     "text": "Der FNR betreibt nicht hauptsächlich selbst Forschung.",
-    "t": 181.84
+    "t": 163.82
    },
    {
     "speaker": "Tom",
     "text": "Er finanziert die Forschung und unterstützt Forscher im ganzen Land.",
-    "t": 185.84
+    "t": 167.51
    },
    {
     "speaker": "Anna",
     "text": "Er ist also ein bisschen wie der Maschinenraum... er hilft guten Ideen, die Ressourcen zu bekommen, die sie brauchen.",
-    "t": 190.28
+    "t": 171.37
    },
    {
     "speaker": "Tom",
     "text": "Und der sechste ist Luxinnovation, die nationale Innovationsagentur.",
-    "t": 197.85
+    "t": 177.7
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation hilft dabei, die Forschung mit den Unternehmen zu verbinden, damit aus guten Ideen echte Produkte und Arbeitsplätze werden.",
-    "t": 203.21
+    "t": 182.25
    },
    {
     "speaker": "Tom",
     "text": "Zusammen haben Sie also Universitäten, Institute, einen Geldgeber und eine Innovationsagentur, die alle in dieselbe Richtung ziehen.",
-    "t": 212.78
+    "t": 190.26
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch einen besonderen Ort im Herzen all dessen... Belval.",
-    "t": 221.82
+    "t": 199
    },
    {
     "speaker": "Tom",
     "text": "Belval ist ein ehemaliges Stahlwerk-Gelände im Süden des Landes, in Esch-sur-Alzette.",
-    "t": 227.44
+    "t": 203.73
    },
    {
     "speaker": "Anna",
     "text": "Wo einst Hochöfen Stahl herstellten, gibt es jetzt einen modernen Campus für Forschung und Lehre.",
-    "t": 233.32
+    "t": 209.67
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein schönes Symbol... ein Land, das sich von der Schwerindustrie hin zu Wissen und Innovation bewegt.",
-    "t": 240.3
+    "t": 215.18
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir darüber, warum das wichtig ist, sogar für Menschen, die niemals in einem Labor arbeiten werden.",
-    "t": 247.16
+    "t": 221.92
    },
    {
     "speaker": "Tom",
     "text": "Erstens, weil die Forschung das tägliche Leben verbessert.",
-    "t": 254.87
+    "t": 227.77
    },
    {
     "speaker": "Tom",
     "text": "Bessere Gesundheit, sauberere Energie, klügere Dienstleistungen.",
-    "t": 259.06
+    "t": 230.94
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, weil sie die Wirtschaft der Zukunft aufbaut.",
-    "t": 264.04
+    "t": 235.41
    },
    {
     "speaker": "Anna",
     "text": "Gute Forschung zieht Talente, Unternehmen und gute Arbeitsplätze an.",
-    "t": 268.39
+    "t": 238.72
    },
    {
     "speaker": "Tom",
     "text": "Drittens, weil sie uns hilft, uns selbst zu verstehen... unsere Gesellschaft, unsere Herausforderungen und wie wir ihnen begegnen.",
-    "t": 273.88
+    "t": 242.92
    },
    {
     "speaker": "Anna",
     "text": "Und viertens, weil sie eine Quelle des Stolzes ist.",
-    "t": 282.12
+    "t": 250.89
    },
    {
     "speaker": "Anna",
     "text": "Ein kleines Land kann Wissenschaft von Weltrang betreiben.",
-    "t": 286.18
+    "t": 254.34
    },
    {
     "speaker": "Tom",
     "text": "Es gibt hier auch etwas für junge Menschen und für Neuankömmlinge.",
-    "t": 290.42
+    "t": 257.77
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 294.68
-   },
-   {
-    "speaker": "Anna",
-    "text": "Research Luxembourg unterstützt Forschungskarrieren und hilft Menschen, ein Doktorat zu beginnen oder eine Stelle in der Wissenschaft zu finden.",
-    "t": 296.01
+    "text": "Ja. Research Luxembourg unterstützt Forschungskarrieren und hilft Menschen, ein Doktorat zu beginnen oder eine Stelle in der Wissenschaft zu finden.",
+    "t": 261.23
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie also, oder Ihre Kinder, sich für die Wissenschaft begeistern, steht diese ganze Welt offen und wächst.",
-    "t": 305.14
+    "t": 269.97
    },
    {
     "speaker": "Anna",
     "text": "Und sie ist zutiefst international.",
-    "t": 312.43
+    "t": 276.9
    },
    {
     "speaker": "Anna",
     "text": "Forscher kommen aus der ganzen Welt, um hier Seite an Seite zu arbeiten.",
-    "t": 315.54
+    "t": 279.2
    },
    {
     "speaker": "Tom",
     "text": "Was perfekt zu Luxemburg passt... viele Sprachen, viele Herkünfte, eine gemeinsame Neugier.",
-    "t": 320.93
+    "t": 283.38
    },
    {
     "speaker": "Anna",
     "text": "Werden wir konkret.",
-    "t": 327.51
+    "t": 289.74
    },
    {
     "speaker": "Anna",
     "text": "Was kann man daraus mitnehmen?",
-    "t": 329.77
+    "t": 291.13
    },
    {
     "speaker": "Tom",
     "text": "Erstens, wissen Sie, dass Luxemburg eine echte, ernsthafte öffentliche Forschung hat... in Gesundheit, Wissenschaft, Technologie und Gesellschaft.",
-    "t": 332.65
+    "t": 293.11
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, wenn Sie neugierig sind, können Sie die Nachrichten und Entdeckungen von Research Luxembourg verfolgen.",
-    "t": 342.21
+    "t": 302.87
    },
    {
     "speaker": "Tom",
     "text": "Drittens, wenn Sie oder jemand, den Sie kennen, die Wissenschaft liebt, gibt es hier Studiengänge, Doktorate und Karrieren zu erkunden.",
-    "t": 349.96
+    "t": 308.94
    },
    {
     "speaker": "Anna",
     "text": "Und viertens, denken Sie daran, dass diese Forschung im Stillen bessere Medikamente, grünere Technologien und klügere Politiken formt.",
-    "t": 359.04
+    "t": 317.22
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir alles zusammen.",
-    "t": 368.71
+    "t": 326.01
    },
    {
     "speaker": "Tom",
     "text": "Was sollte man sich merken?",
-    "t": 371.28
+    "t": 327.64
    },
    {
     "speaker": "Anna",
     "text": "Erstens... Research Luxembourg vereint die wichtigsten öffentlichen Forschungsakteure des Landes unter einem Banner.",
-    "t": 373.9
+    "t": 329.3
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... dazu gehören die Universität Luxemburg, die Institute LIST, LIH und LISER, der Geldgeber FNR und Luxinnovation.",
-    "t": 382.01
+    "t": 336.6
    },
    {
     "speaker": "Anna",
     "text": "Drittens... vieles davon ist in Belval versammelt, einem ehemaligen Stahlwerk-Gelände, das als Campus des Wissens wiedergeboren wurde.",
-    "t": 391.56
+    "t": 346.91
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... diese Forschung verbessert die Gesundheit, die Wirtschaft und unser Verständnis der Gesellschaft, und sie heißt neue Talente willkommen.",
-    "t": 400.91
+    "t": 355.05
    },
    {
     "speaker": "Anna",
     "text": "Ein Land ist nicht nur seine Vergangenheit.",
-    "t": 410.06
+    "t": 364.9
    },
    {
     "speaker": "Anna",
     "text": "Es ist auch das, was es zu entdecken und zu bauen wählt.",
-    "t": 413.46
+    "t": 367.36
    },
    {
     "speaker": "Tom",
     "text": "Und Luxemburg wählt, mehr und mehr, mit dem Wissen zu bauen.",
-    "t": 417.88
+    "t": 370.84
    },
    {
     "speaker": "Anna",
-    "text": "Vielen Dank, dass Sie uns heute zugehört haben.",
-    "t": 422.34
-   },
-   {
-    "speaker": "Tom",
-    "text": "Passen Sie auf sich auf, bleiben Sie neugierig, und bis zur nächsten Folge.",
-    "t": 426.18
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 431.33
+    "text": "Das war unsere Folge über Research Luxembourg.",
+    "t": 374.41
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 432.91
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 377.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 386.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 404.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 410.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 412.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 417.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 418.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 422.03
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien a wëllkomm zréck! Et ass wonnerbar, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien alleguerten!",
-    "t": 5.73
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, d'Land z'entdecken.",
-    "t": 7.77
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An haut entdecke mir eng Säit vu Lëtzebuerg, déi vill Leit net kennen... d'Fuerschung an d'Wëssenschaft.",
-    "t": 21.45
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Wa mir u Lëtzebuerg denken, denke mir dacks u Banken, oder drun, datt et kleng ass. Mä et gëtt hei och eng wuessend Welt vun der Wëssenschaft.",
-    "t": 27.56
+    "t": 33.91
    },
    {
     "speaker": "Tom",
     "text": "Nei Medikamenter, propper Technologien, Studien iwwert d'Gesellschaft, déi digital Zukunft... all dat gëtt vu Fuerscher zu Lëtzebuerg erfuerscht.",
-    "t": 35.79
+    "t": 40.56
    },
    {
     "speaker": "Anna",
     "text": "An et gëtt e gemeinsamen Numm, deen dës Efforten zesummebréngt. Hien heescht Research Luxembourg.",
-    "t": 43.68
+    "t": 48.35
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat ass Research Luxembourg genau?",
-    "t": 50.18
+    "t": 54.01
    },
    {
     "speaker": "Anna",
     "text": "Et ass eng gemeinsam Initiativ vun den haaptsächlechen ëffentleche Fuerschungsakteure vum Land, ënnerstëtzt vum Ministère fir Héichschoulwiesen a Fuerschung.",
-    "t": 54.27
+    "t": 56.77
    },
    {
     "speaker": "Tom",
     "text": "Anstatt datt also all Institutioun eleng schafft, handele si och zesummen, ënner enger Fändel, fir d'Fuerschung zu Lëtzebuerg ze fërderen.",
-    "t": 62.04
+    "t": 64.56
    },
    {
     "speaker": "Anna",
     "text": "Säi Geescht ass et, ze léieren, z'entdecken an en echten Impakt fir eng besser Zukunft ze hunn.",
-    "t": 69.53
+    "t": 72.09
    },
    {
     "speaker": "Tom",
     "text": "Loosse mir déi haaptsächlech Akteure kenneléieren, well jiddwereen huet seng eege Roll.",
-    "t": 75.3
+    "t": 77.54
    },
    {
     "speaker": "Anna",
     "text": "Deen éischten ass d'Universitéit Lëtzebuerg. Et ass déi ëffentlech Universitéit vum Land.",
-    "t": 79.5
+    "t": 80.67
    },
    {
     "speaker": "Tom",
     "text": "Si ass zimlech jonk... si gouf 2003 gegrënnt. Mä si ass séier gewuess, an ass ganz international.",
-    "t": 85.71
+    "t": 85.85
    },
    {
     "speaker": "Anna",
     "text": "Do studéieren d'Studenten an do geschitt e groussen Deel vun der Fuerschung, a ville Beräicher.",
-    "t": 93.53
+    "t": 91.57
    },
    {
     "speaker": "Tom",
     "text": "Deen zweeten ass de Luxembourg Institute of Science and Technology, dacks LIST genannt.",
-    "t": 99.21
+    "t": 97.15
    },
    {
     "speaker": "Anna",
     "text": "De LIST schafft un ugewandter Wëssenschaft an Technologie... Materialien, d'Ëmwelt, an digital Tools, déi d'Industrie ka benotzen.",
-    "t": 104.79
+    "t": 101.6
    },
    {
     "speaker": "Tom",
     "text": "Deen drëtten ass de Luxembourg Institute of Health, oder LIH.",
-    "t": 112.56
+    "t": 110.24
    },
    {
     "speaker": "Anna",
     "text": "Wéi den Numm seet, konzentréiert hie sech op d'Gesondheet... medizinesch Fuerschung, fir Krankheeten besser ze verstoen, virzebeugen an ze behandelen.",
-    "t": 116.91
+    "t": 114.28
    },
    {
     "speaker": "Tom",
     "text": "Deen véierten ass de Luxembourg Institute of Socio-Economic Research, oder LISER.",
-    "t": 124.09
+    "t": 121.56
    },
    {
     "speaker": "Anna",
     "text": "Mir si dem LISER schonn eng Kéier begéint, an eiser Episod iwwert den Observatoire de l'Habitat. Hien ënnersicht d'Gesellschaft an d'Wirtschaft.",
-    "t": 129.33
+    "t": 126.34
    },
    {
     "speaker": "Tom",
     "text": "Saache wéi Aarbecht, Wunnen, Bildung, Ongläichheet... Fuerschung, déi eis hëlleft ze verstoen, wéi d'Leit wierklech liewen.",
-    "t": 137.59
+    "t": 133.42
    },
    {
     "speaker": "Anna",
     "text": "Deen fënnefte Akteur ass e bësse anescht. Et ass de Fonds National de la Recherche, dacks FNR genannt.",
-    "t": 144.47
+    "t": 140.16
    },
    {
     "speaker": "Tom",
     "text": "De FNR mécht net haaptsächlech selwer Fuerschung. Hie finanzéiert d'Fuerschung, an ënnerstëtzt d'Fuerscher am ganze Land.",
-    "t": 151.51
+    "t": 146.38
    },
    {
     "speaker": "Anna",
     "text": "Hien ass also e bësse wéi de Maschinnenraum... hien hëlleft gudden Iddien, d'Ressourcen ze kréien, déi se brauchen.",
-    "t": 159.81
+    "t": 153.03
    },
    {
     "speaker": "Tom",
     "text": "An deen sechsten ass Luxinnovation, déi national Innovatiounsagence.",
-    "t": 165.03
+    "t": 157.82
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation hëlleft, d'Fuerschung mat de Betriber ze verbannen, sou datt aus gudden Iddien echt Produkter an Aarbechtsplazen ginn.",
-    "t": 169.87
+    "t": 161.64
    },
    {
     "speaker": "Tom",
     "text": "Also zesummen hutt Dir Universitéiten, Instituter, e Finanzéierer an eng Innovatiounsagence, déi all an déiselwecht Richtung zéien.",
-    "t": 176.62
+    "t": 168.75
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och e besonneschen Uert am Häerz vun all deem... Belval.",
-    "t": 183.91
+    "t": 175.05
    },
    {
     "speaker": "Tom",
     "text": "Belval ass en ehemoolegt Stahlwierk-Gelänn am Süde vum Land, zu Esch-sur-Alzette.",
-    "t": 188.91
+    "t": 179.06
    },
    {
     "speaker": "Anna",
     "text": "Wou fréier Héichiewen Stahl gemaach hunn, gëtt et elo e modernen Campus fir Fuerschung an Léieren.",
-    "t": 194.04
+    "t": 183.79
    },
    {
     "speaker": "Tom",
     "text": "Et ass e schéine Symbol... e Land, dat sech vun der Schwéierindustrie hin zum Wëssen an zur Innovatioun beweegt.",
-    "t": 199.5
+    "t": 189.36
    },
    {
     "speaker": "Anna",
     "text": "Loosse mir doriwwer schwätzen, firwat dat wichteg ass, esouguer fir Leit, déi ni an engem Labo schaffe wäerten.",
-    "t": 205.18
+    "t": 195.36
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, well d'Fuerschung dat alldeeglecht Liewe verbessert. Eng besser Gesondheet, méi propper Energie, méi schlau Servicer.",
-    "t": 210.67
+    "t": 200.73
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, well se d'Wirtschaft vun der Zukunft opbaut. Gutt Fuerschung zitt Talenter, Betriber a gutt Aarbechtsplazen un.",
-    "t": 218.37
+    "t": 206.73
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, well se eis hëlleft, eis selwer ze verstoen... eis Gesellschaft, eis Erausfuerderungen, a wéi mir hinne begéinen.",
-    "t": 226.41
+    "t": 213.61
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, well et eng Quell vu Stolz ass. E klengt Land ka Wëssenschaft op Weltniveau maachen.",
-    "t": 232.76
+    "t": 220.65
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt hei och eppes fir jonk Leit, a fir Neiukënschtleng.",
-    "t": 239.46
+    "t": 226.39
    },
    {
     "speaker": "Anna",
     "text": "Jo. Research Luxembourg ënnerstëtzt Fuerschungskarrièren, an hëlleft de Leit, en Doktorat unzefänken oder eng Wëssenschaftsplaz ze fannen.",
-    "t": 243.66
+    "t": 229.4
    },
    {
     "speaker": "Tom",
     "text": "Also wann Dir, oder Är Kanner, vun der Wëssenschaft ugezunn sidd, ass dës ganz Welt op a wiisst.",
-    "t": 252.21
+    "t": 236.65
    },
    {
     "speaker": "Anna",
     "text": "An et ass déif international. Fuerscher kommen aus der ganzer Welt, fir hei Säit u Säit ze schaffen.",
-    "t": 257.78
+    "t": 242.14
    },
    {
     "speaker": "Tom",
     "text": "Wat perfekt zu Lëtzebuerg passt... vill Sproochen, vill Hierkonften, eng gemeinsam Virwëtz.",
-    "t": 264.95
+    "t": 248.04
    },
    {
     "speaker": "Anna",
     "text": "Loosse mir et konkret maachen. Wat kann een doraus mathuelen?",
-    "t": 271.22
+    "t": 253.82
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, wësst, datt Lëtzebuerg eng echt, eescht ëffentlech Fuerschung huet... an der Gesondheet, der Wëssenschaft, der Technologie an der Gesellschaft.",
-    "t": 276.23
+    "t": 257.35
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, wann Dir virwëtzeg sidd, kënnt Dir d'Neiegkeeten an Entdeckunge vu Research Luxembourg verfollegen.",
-    "t": 283.58
+    "t": 264.71
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, wann Dir oder een, deen Dir kennt, d'Wëssenschaft gär huet, gëtt et hei Studien, Doktoraten a Karrièren z'entdecken.",
-    "t": 289.4
+    "t": 270.07
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, denkt drun, datt dës Fuerschung roueg besser Medikamenter, méi gréng Technologien a méi klug Politiken formt.",
-    "t": 296
+    "t": 276.23
    },
    {
     "speaker": "Tom",
     "text": "Loosse mir alles zesummebréngen. Wat sollen d'Leit sech mierken?",
-    "t": 303.44
+    "t": 283.02
    },
    {
     "speaker": "Anna",
     "text": "Éischtens... Research Luxembourg vereent déi haaptsächlech ëffentlech Fuerschungsakteure vum Land ënner enger Fändel.",
-    "t": 308.54
+    "t": 285.88
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... dozou gehéieren d'Universitéit Lëtzebuerg, d'Instituter LIST, LIH a LISER, de Finanzéierer FNR, a Luxinnovation.",
-    "t": 315.38
+    "t": 291.96
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... vill dovun ass zu Belval gesammelt, en ehemoolegt Stahlwierk-Gelänn, dat als Campus vum Wëssen erëmgebuer gouf.",
-    "t": 323.65
+    "t": 300.98
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... dës Fuerschung verbessert d'Gesondheet, d'Wirtschaft an eist Verständnis vun der Gesellschaft, a si begréisst nei Talenter.",
-    "t": 329.86
+    "t": 307.7
    },
    {
     "speaker": "Anna",
     "text": "E Land ass net nëmme seng Vergaangenheet. Et ass och dat, wat et wielt z'entdecken an opzebauen.",
-    "t": 337.13
+    "t": 314.28
    },
    {
     "speaker": "Tom",
     "text": "A Lëtzebuerg wielt, méi a méi, mam Wëssen ze bauen.",
-    "t": 343.92
+    "t": 320.15
    },
    {
     "speaker": "Anna",
-    "text": "Villmools merci, datt Dir eis haut nogelauschtert hutt.",
-    "t": 348.36
+    "text": "Dat war eis Episod iwwer Research Luxembourg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 323.33
    },
    {
     "speaker": "Tom",
-    "text": "Passt op iech op, bleift virwëtzeg, a bis an déi nächst Episod. Äddi!",
-    "t": 351.31
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 368.64
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 357.33
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 371.84
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 29,
@@ -77017,7 +77120,7 @@ const EPISODES = [
   "title": "The Agriculture Portal – Food, Farming and Wine in Luxembourg",
   "description": "What the agriculture portal (agriculture.public.lu) is, run by the Ministry of Agriculture, Food and Viticulture: farming, food and wine, the bodies that support them such as ASTA and the wine institute in Remich, organic farming (PAN-Bio), animal welfare and the law, the Moselle wines and Crémant, and why local and seasonal food matters.",
   "audio": "podcast_agriculture.mp3",
-  "duration": 373.32,
+  "duration": 392.96,
   "topics": [
    "The agriculture portal",
    "Farming, food & wine",
@@ -77031,388 +77134,423 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's lovely to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.62
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.66
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.77
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to feel connected to the country.",
-    "t": 14.59
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today's topic connects us all, three times a day... food.",
-    "t": 21.78
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "The bread on your table, the vegetables on your plate, the glass of wine on a Friday evening.",
-    "t": 26.02
+    "t": 31.22
    },
    {
     "speaker": "Tom",
     "text": "Behind all of that is farming, and the people who care for the land and the animals.",
-    "t": 31.95
+    "t": 36.99
    },
    {
     "speaker": "Anna",
     "text": "And there is an official place that brings all of this together... the agriculture portal.",
-    "t": 37.15
+    "t": 41.13
    },
    {
     "speaker": "Tom",
     "text": "The website is agriculture dot public dot lu.",
-    "t": 42.52
+    "t": 46.93
    },
    {
     "speaker": "Anna",
     "text": "It is run by the Ministry of Agriculture, Food and Viticulture.",
-    "t": 46.21
+    "t": 49.79
    },
    {
     "speaker": "Tom",
     "text": "\"Viticulture\" is a lovely word.",
-    "t": 50.94
+    "t": 53.83
    },
    {
     "speaker": "Tom",
     "text": "It simply means the growing of grapes, for wine.",
-    "t": 53.8
+    "t": 55.76
    },
    {
     "speaker": "Anna",
     "text": "So this portal covers three big things... farming, food, and wine.",
-    "t": 57.42
+    "t": 58.54
    },
    {
     "speaker": "Tom",
     "text": "So Anna, who actually does the work behind this ministry?",
-    "t": 62.57
+    "t": 63.74
    },
    {
     "speaker": "Anna",
     "text": "The ministry oversees several specialised administrations, each with its own role.",
-    "t": 66.77
+    "t": 66.98
    },
    {
     "speaker": "Tom",
     "text": "One of the most important is known by its initials, ASTA.",
-    "t": 72.3
+    "t": 71.95
    },
    {
     "speaker": "Anna",
     "text": "ASTA is the technical agricultural services administration.",
-    "t": 76.65
+    "t": 75.42
    },
    {
     "speaker": "Anna",
     "text": "Think of it as the science and support behind farming.",
-    "t": 81.29
+    "t": 79.6
    },
    {
     "speaker": "Tom",
     "text": "It gives farmers advice, watches the weather, and warns about crop diseases and pests.",
-    "t": 84.95
+    "t": 82.8
    },
    {
     "speaker": "Anna",
     "text": "It also supports more sustainable farming, with less chemical spraying and better use of natural fertiliser.",
-    "t": 90.48
+    "t": 87.39
    },
    {
     "speaker": "Tom",
     "text": "There is also a dedicated wine institute, based in Remich, on the Moselle river.",
-    "t": 97.46
+    "t": 94.17
    },
    {
     "speaker": "Anna",
     "text": "Luxembourg has a real wine tradition along the Moselle... white wines, and the sparkling wine called Crémant.",
-    "t": 102.79
+    "t": 99.02
    },
    {
     "speaker": "Tom",
     "text": "The wine institute supports the winegrowers, and helps keep the quality high.",
-    "t": 109.96
+    "t": 106.08
    },
    {
     "speaker": "Anna",
     "text": "And there is an administration that looks after animal health and welfare, and the safety of our food.",
-    "t": 114.96
+    "t": 110.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is called ALVA, and it was created in 2022.",
+    "t": 116.26
    },
    {
     "speaker": "Tom",
     "text": "So from the field, to the animal, to the plate... each step has people watching over it.",
-    "t": 121.06
+    "t": 120.5
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about a theme that's growing fast... organic farming.",
-    "t": 126.64
+    "t": 126.13
    },
    {
     "speaker": "Tom",
     "text": "Organic farming works with nature, in a closed cycle, without synthetic chemicals.",
-    "t": 131.21
+    "t": 130.19
    },
    {
     "speaker": "Anna",
     "text": "Luxembourg has a plan, called PAN-Bio, to grow the share of organic farming in the country.",
-    "t": 136.76
+    "t": 135.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "The newest one runs from 2026 to 2030.",
+    "t": 141.05
    },
    {
     "speaker": "Tom",
     "text": "So when you see organic products in the shop, there is a national effort behind that choice.",
-    "t": 142.94
+    "t": 144.75
    },
    {
     "speaker": "Anna",
     "text": "Now let's talk about something close to many hearts... animal welfare.",
-    "t": 148.6
+    "t": 150.12
    },
    {
     "speaker": "Tom",
     "text": "Luxembourg has an animal protection law that is quite advanced.",
-    "t": 153.38
+    "t": 154.17
    },
    {
     "speaker": "Anna",
     "text": "It protects the dignity, the safety and the wellbeing of animals, throughout their whole life.",
-    "t": 157.77
+    "t": 157.59
    },
    {
     "speaker": "Tom",
     "text": "And that's not only about farm animals.",
-    "t": 163.72
+    "t": 163.9
    },
    {
     "speaker": "Tom",
     "text": "It matters for pet owners too.",
-    "t": 166.96
+    "t": 166
    },
    {
     "speaker": "Anna",
     "text": "If you have a dog, a cat, or any animal, you have a duty to care for it properly.",
-    "t": 169.83
+    "t": 168
    },
    {
     "speaker": "Anna",
     "text": "The portal has guidance on this.",
-    "t": 175.58
+    "t": 173.15
    },
    {
     "speaker": "Tom",
     "text": "Let's come back to wine for a moment, because it's part of Luxembourg's culture.",
-    "t": 178.31
+    "t": 175.58
    },
    {
     "speaker": "Anna",
     "text": "The Moselle valley, in the east, is full of vineyards on sunny slopes.",
-    "t": 183.31
+    "t": 179.46
    },
    {
     "speaker": "Tom",
     "text": "And in summer, there are vineyard walks and activities, where you can learn how wine is made.",
-    "t": 188.19
+    "t": 183.93
    },
    {
     "speaker": "Anna",
     "text": "The portal even lists events... like nature and vineyard trails, open to everyone.",
-    "t": 193.61
+    "t": 189.3
    },
    {
     "speaker": "Tom",
     "text": "So this isn't only for farmers.",
-    "t": 199.29
+    "t": 194.88
    },
    {
     "speaker": "Tom",
     "text": "It's an invitation to discover where our food and drink come from.",
-    "t": 202.25
+    "t": 197.11
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about local and seasonal food, which is good for everyone.",
-    "t": 206.58
+    "t": 200.76
    },
    {
     "speaker": "Tom",
     "text": "Buying local, seasonal products supports the farmers near you, and often tastes better and travels less.",
-    "t": 211.33
+    "t": 204.94
    },
    {
     "speaker": "Anna",
     "text": "The ministry encourages this link between the people who produce food and the people who eat it.",
-    "t": 217.86
+    "t": 211.28
    },
    {
     "speaker": "Tom",
     "text": "A short distance from field to fork is good for the land, the economy, and the community.",
-    "t": 223.56
+    "t": 216.93
    },
    {
     "speaker": "Anna",
     "text": "Now, farming is not easy, and farmers don't do it alone.",
-    "t": 229.23
+    "t": 222.06
    },
    {
     "speaker": "Tom",
     "text": "They receive support, including aids under the European Union's Common Agricultural Policy.",
-    "t": 233.8
+    "t": 225.78
    },
    {
     "speaker": "Anna",
     "text": "We talked about European funds in another episode.",
-    "t": 239.71
+    "t": 231.04
    },
    {
     "speaker": "Anna",
     "text": "Farming is one of the big areas Europe supports.",
-    "t": 243.48
+    "t": 234.18
    },
    {
     "speaker": "Tom",
     "text": "And the ministry offers advice and training, to help farms be modern, sustainable, and resilient.",
-    "t": 247.01
+    "t": 237.34
    },
    {
     "speaker": "Anna",
     "text": "Let's step back and ask... why does all this matter for someone who never sets foot on a farm?",
-    "t": 253.43
+    "t": 243.34
    },
    {
     "speaker": "Tom",
     "text": "First, because everyone eats.",
-    "t": 259.14
+    "t": 249.16
    },
    {
     "speaker": "Tom",
     "text": "Good farming means safe, healthy, quality food on your plate.",
-    "t": 262
+    "t": 251.24
    },
    {
     "speaker": "Anna",
     "text": "Second, because farmers shape the landscape... the fields, hedges and meadows we all enjoy.",
-    "t": 266.4
+    "t": 254.54
    },
    {
     "speaker": "Tom",
     "text": "Third, because animal welfare reflects the kind of society we want to be.",
-    "t": 272.84
+    "t": 260.55
    },
    {
     "speaker": "Anna",
     "text": "And fourth, because supporting local food keeps the countryside alive, and the community strong.",
-    "t": 277.99
+    "t": 265.09
    },
    {
     "speaker": "Tom",
     "text": "So Tom, let's make it practical.",
-    "t": 284.3
+    "t": 271.51
    },
    {
     "speaker": "Tom",
     "text": "What can someone do with all this?",
-    "t": 287.56
+    "t": 273.52
    },
    {
     "speaker": "Anna",
     "text": "First, when you shop, look for local and seasonal products, and try organic ones.",
-    "t": 290.34
+    "t": 275.55
    },
    {
     "speaker": "Tom",
     "text": "Second, if you keep animals, check the portal's guidance to care for them well and within the law.",
-    "t": 296.38
+    "t": 280.45
    },
    {
     "speaker": "Anna",
     "text": "Third, in summer, visit the Moselle, take a vineyard walk, and taste a local wine or Crémant.",
-    "t": 302.15
+    "t": 286.28
    },
    {
     "speaker": "Tom",
     "text": "And fourth, if you're curious about farming, food or wine, the portal has reliable information.",
-    "t": 308.97
+    "t": 292.85
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it all together.",
-    "t": 315.16
+    "t": 298.96
    },
    {
     "speaker": "Anna",
     "text": "What should people remember?",
-    "t": 317.61
+    "t": 300.51
    },
    {
     "speaker": "Tom",
     "text": "First... the agriculture portal, agriculture dot public dot lu, covers farming, food and wine, from the Ministry of Agriculture, Food and Viticulture.",
-    "t": 319.94
+    "t": 302.25
    },
    {
     "speaker": "Anna",
-    "text": "Second... specialised bodies support it... ASTA for technical services, the wine institute in Remich, and a body for animal welfare and food safety.",
-    "t": 329.53
+    "text": "Second... specialised bodies support it... ASTA for technical services, the wine institute in Remich, and ALVA for animal welfare and food safety.",
+    "t": 312.48
    },
    {
     "speaker": "Tom",
     "text": "Third... Luxembourg is growing organic farming and protects animal welfare by law.",
-    "t": 340.24
+    "t": 322.73
    },
    {
     "speaker": "Anna",
     "text": "And fourth... by choosing local and seasonal food, we all play a part in a healthy food system.",
-    "t": 346.79
+    "t": 327.72
    },
    {
     "speaker": "Tom",
     "text": "Food connects every one of us to the land, and to each other.",
-    "t": 353.25
+    "t": 333.87
    },
    {
     "speaker": "Anna",
     "text": "And knowing the story behind our plate helps us value it, and the people who make it possible.",
-    "t": 357.32
-   },
-   {
-    "speaker": "Tom",
-    "text": "Thank you so much for listening today.",
-    "t": 362.91
+    "t": 337.15
    },
    {
     "speaker": "Anna",
-    "text": "Take care, eat well, and see you in the next episode.",
-    "t": 365.91
+    "text": "That was our episode about the agriculture portal.",
+    "t": 343.39
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 370.11
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 346.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 356.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 374.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 381.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 383.48
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 371.64
+    "text": "Thank you, everyone.",
+    "t": 388.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 389.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 391.37
    }
   ],
   "questions": [
@@ -77614,1106 +77752,1170 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_agriculture_fr.mp3",
-  "duration_fr": 412.68,
+  "duration_fr": 399.49,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "C'est un plaisir de vous avoir avec nous aujourd'hui.",
-    "t": 3.09
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.71
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 9.28
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
-    "t": 12.75
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les frontaliers, à se sentir liés au pays.",
-    "t": 16.41
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui nous concerne tous, trois fois par jour... l'alimentation.",
-    "t": 23.21
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "Le pain sur votre table, les légumes dans votre assiette, le verre de vin un vendredi soir.",
-    "t": 28.38
+    "t": 27.85
    },
    {
     "speaker": "Tom",
     "text": "Derrière tout cela, il y a l'agriculture, et les personnes qui prennent soin de la terre et des animaux.",
-    "t": 34.31
+    "t": 32.51
    },
    {
     "speaker": "Anna",
     "text": "Et il existe un endroit officiel qui rassemble tout cela... le portail de l'agriculture.",
-    "t": 40.26
+    "t": 37.88
    },
    {
     "speaker": "Tom",
     "text": "Le site internet est agriculture point public point lu.",
-    "t": 45.97
+    "t": 42.76
    },
    {
     "speaker": "Anna",
     "text": "Il est géré par le ministère de l'Agriculture, de l'Alimentation et de la Viticulture.",
-    "t": 49.72
+    "t": 46.02
    },
    {
     "speaker": "Tom",
     "text": "« Viticulture » est un joli mot.",
-    "t": 55.65
+    "t": 50.61
    },
    {
     "speaker": "Tom",
     "text": "Cela signifie simplement la culture du raisin, pour le vin.",
-    "t": 58.6
+    "t": 52.76
    },
    {
     "speaker": "Anna",
     "text": "Donc ce portail couvre trois grands domaines... l'agriculture, l'alimentation et le vin.",
-    "t": 62.71
+    "t": 56.2
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qui fait concrètement le travail derrière ce ministère ?",
-    "t": 68.79
+    "t": 60.86
    },
    {
     "speaker": "Anna",
     "text": "Le ministère supervise plusieurs administrations spécialisées, chacune avec son propre rôle.",
-    "t": 73.24
+    "t": 64.41
    },
    {
     "speaker": "Tom",
     "text": "L'une des plus importantes est connue par ses initiales, ASTA.",
-    "t": 79.61
+    "t": 69.16
    },
    {
     "speaker": "Anna",
     "text": "L'ASTA est l'administration des services techniques de l'agriculture.",
-    "t": 83.85
+    "t": 72.8
    },
    {
     "speaker": "Anna",
     "text": "Voyez-la comme la science et le soutien derrière l'agriculture.",
-    "t": 88.54
+    "t": 76.1
    },
    {
     "speaker": "Tom",
     "text": "Elle conseille les agriculteurs, surveille la météo, et alerte sur les maladies des cultures et les ravageurs.",
-    "t": 92.71
+    "t": 79.18
    },
    {
     "speaker": "Anna",
     "text": "Elle soutient aussi une agriculture plus durable, avec moins de pulvérisation chimique et un meilleur usage des engrais naturels.",
-    "t": 99.13
+    "t": 85.6
    },
    {
     "speaker": "Tom",
     "text": "Il existe aussi un institut du vin dédié, basé à Remich, sur la Moselle.",
-    "t": 106.75
+    "t": 91.79
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg a une véritable tradition viticole le long de la Moselle... des vins blancs, et le vin pétillant appelé Crémant.",
-    "t": 112.08
+    "t": 96.37
    },
    {
     "speaker": "Tom",
     "text": "L'institut viti-vinicole soutient les vignerons, et aide à maintenir une qualité élevée.",
-    "t": 119.52
+    "t": 102.51
    },
    {
     "speaker": "Anna",
     "text": "Et il y a une administration qui veille sur la santé et le bien-être des animaux, et sur la sécurité de notre alimentation.",
-    "t": 124.78
+    "t": 107.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle s'appelle l'ALVA, et elle a été créée en 2022.",
+    "t": 113.96
    },
    {
     "speaker": "Tom",
     "text": "Donc, du champ, à l'animal, à l'assiette... chaque étape a des personnes qui veillent sur elle.",
-    "t": 132.11
+    "t": 117.13
    },
    {
     "speaker": "Anna",
     "text": "Parlons d'un thème qui se développe rapidement... l'agriculture biologique.",
-    "t": 137.84
+    "t": 123.04
    },
    {
     "speaker": "Tom",
     "text": "L'agriculture biologique travaille avec la nature, dans un cycle fermé, sans produits chimiques de synthèse.",
-    "t": 142.7
+    "t": 127.14
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg a un plan, appelé PAN-Bio, pour augmenter la part de l'agriculture biologique dans le pays.",
-    "t": 149.28
+    "t": 133.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le plus récent va de 2026 à 2030.",
+    "t": 138.97
    },
    {
     "speaker": "Tom",
     "text": "Donc quand vous voyez des produits biologiques en magasin, il y a un effort national derrière ce choix.",
-    "t": 156.14
+    "t": 141.69
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, parlons de quelque chose qui tient à cœur à beaucoup de gens... le bien-être animal.",
-    "t": 161.91
+    "t": 147.56
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg a une loi sur la protection des animaux qui est assez avancée.",
-    "t": 167.86
+    "t": 152.49
    },
    {
     "speaker": "Anna",
     "text": "Elle protège la dignité, la sécurité et le bien-être des animaux, tout au long de leur vie.",
-    "t": 172.46
+    "t": 156.83
    },
    {
     "speaker": "Tom",
     "text": "Et cela ne concerne pas seulement les animaux de ferme.",
-    "t": 178.7
+    "t": 161.62
    },
    {
     "speaker": "Tom",
     "text": "Cela compte aussi pour les propriétaires d'animaux de compagnie.",
-    "t": 182.28
+    "t": 164.45
    },
    {
     "speaker": "Anna",
     "text": "Si vous avez un chien, un chat, ou n'importe quel animal, vous avez le devoir d'en prendre soin correctement.",
-    "t": 186.18
+    "t": 167.64
    },
    {
     "speaker": "Anna",
     "text": "Le portail propose des conseils à ce sujet.",
-    "t": 193.11
+    "t": 172.99
    },
    {
     "speaker": "Tom",
     "text": "Revenons un instant au vin, car il fait partie de la culture du Luxembourg.",
-    "t": 196.53
+    "t": 175.3
    },
    {
     "speaker": "Anna",
     "text": "La vallée de la Moselle, à l'est, est remplie de vignobles sur des coteaux ensoleillés.",
-    "t": 201.46
+    "t": 179.27
    },
    {
     "speaker": "Tom",
     "text": "Et en été, il y a des promenades dans les vignes et des activités, où vous pouvez apprendre comment le vin est fabriqué.",
-    "t": 207.1
+    "t": 183.46
    },
    {
     "speaker": "Anna",
     "text": "Le portail répertorie même des événements... comme des sentiers nature et viticoles, ouverts à tous.",
-    "t": 213.65
+    "t": 189.58
    },
    {
     "speaker": "Tom",
     "text": "Donc ce n'est pas seulement pour les agriculteurs.",
-    "t": 220.07
+    "t": 195.04
    },
    {
     "speaker": "Tom",
     "text": "C'est une invitation à découvrir d'où viennent notre nourriture et nos boissons.",
-    "t": 223.47
+    "t": 197.43
    },
    {
     "speaker": "Anna",
     "text": "Parlons de l'alimentation locale et de saison, qui est bonne pour tout le monde.",
-    "t": 227.84
+    "t": 201.95
    },
    {
     "speaker": "Tom",
     "text": "Acheter des produits locaux et de saison soutient les agriculteurs près de chez vous, et cela a souvent meilleur goût et voyage moins.",
-    "t": 232.71
+    "t": 205.81
    },
    {
     "speaker": "Anna",
     "text": "Le ministère encourage ce lien entre les personnes qui produisent la nourriture et celles qui la mangent.",
-    "t": 239.44
+    "t": 213
    },
    {
     "speaker": "Tom",
     "text": "Une courte distance du champ à l'assiette est bonne pour la terre, l'économie et la communauté.",
-    "t": 245.28
+    "t": 217.72
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, l'agriculture n'est pas facile, et les agriculteurs ne le font pas seuls.",
-    "t": 250.76
+    "t": 222.87
    },
    {
     "speaker": "Tom",
     "text": "Ils reçoivent un soutien, y compris des aides au titre de la Politique agricole commune (PAC) de l'Union européenne.",
-    "t": 256.54
+    "t": 227.02
    },
    {
     "speaker": "Anna",
     "text": "Nous avons parlé des fonds européens dans un autre épisode.",
-    "t": 263.46
+    "t": 233.58
    },
    {
     "speaker": "Anna",
     "text": "L'agriculture est l'un des grands domaines que l'Europe soutient.",
-    "t": 267.48
+    "t": 236.65
    },
    {
     "speaker": "Tom",
     "text": "Et le ministère propose des conseils et des formations, pour aider les exploitations à être modernes, durables et résilientes.",
-    "t": 271.37
+    "t": 239.81
    },
    {
     "speaker": "Anna",
     "text": "Prenons du recul et demandons-nous... pourquoi tout cela compte-t-il pour quelqu'un qui ne met jamais les pieds dans une ferme ?",
-    "t": 278.48
+    "t": 246.89
    },
    {
     "speaker": "Tom",
     "text": "D'abord, parce que tout le monde mange.",
-    "t": 284.74
+    "t": 252.97
    },
    {
     "speaker": "Tom",
     "text": "Une bonne agriculture signifie une nourriture sûre, saine et de qualité dans votre assiette.",
-    "t": 287.98
+    "t": 254.95
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, parce que les agriculteurs façonnent le paysage... les champs, les haies et les prairies dont nous profitons tous.",
-    "t": 293.35
+    "t": 260.27
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, parce que le bien-être animal reflète le genre de société que nous voulons être.",
-    "t": 300.77
+    "t": 266.66
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement, parce que soutenir l'alimentation locale maintient la campagne vivante, et la communauté forte.",
-    "t": 306.12
+    "t": 271.91
    },
    {
     "speaker": "Tom",
     "text": "Alors Tom, rendons cela concret.",
-    "t": 313.32
+    "t": 277.79
    },
    {
     "speaker": "Tom",
     "text": "Que peut faire quelqu'un avec tout cela ?",
-    "t": 316.38
+    "t": 280
    },
    {
     "speaker": "Anna",
     "text": "D'abord, quand vous faites vos courses, cherchez des produits locaux et de saison, et essayez les produits biologiques.",
-    "t": 319.11
+    "t": 282.07
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, si vous avez des animaux, consultez les conseils du portail pour bien en prendre soin et dans le respect de la loi.",
-    "t": 326.15
+    "t": 287.77
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement, en été, visitez la Moselle, faites une promenade dans les vignes, et goûtez un vin local ou un Crémant.",
-    "t": 333.08
+    "t": 294.86
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement, si vous êtes curieux au sujet de l'agriculture, de l'alimentation ou du vin, le portail propose des informations fiables.",
-    "t": 340.84
+    "t": 300.94
    },
    {
     "speaker": "Anna",
     "text": "Rassemblons tout cela.",
-    "t": 348.99
+    "t": 309.21
    },
    {
     "speaker": "Anna",
     "text": "Que doivent retenir les gens ?",
-    "t": 351.18
+    "t": 310.51
    },
    {
     "speaker": "Tom",
     "text": "D'abord... le portail de l'agriculture, agriculture point public point lu, couvre l'agriculture, l'alimentation et le vin, du ministère de l'Agriculture, de l'Alimentation et de la Viticulture.",
-    "t": 353.51
+    "t": 312.03
    },
    {
     "speaker": "Anna",
-    "text": "Ensuite... des organismes spécialisés le soutiennent... l'ASTA pour les services techniques, l'institut du vin à Remich, et un organisme pour le bien-être animal et la sécurité alimentaire.",
-    "t": 365.31
+    "text": "Ensuite... des organismes spécialisés le soutiennent... l'ASTA pour les services techniques, l'institut du vin à Remich, et l'ALVA pour le bien-être animal et la sécurité alimentaire.",
+    "t": 324.22
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... le Luxembourg développe l'agriculture biologique et protège le bien-être animal par la loi.",
-    "t": 376.79
+    "t": 334.15
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... en choisissant une alimentation locale et de saison, nous jouons tous un rôle dans un système alimentaire sain.",
-    "t": 382.68
+    "t": 340.23
    },
    {
     "speaker": "Tom",
     "text": "L'alimentation nous relie tous à la terre, et les uns aux autres.",
-    "t": 390.14
+    "t": 346.63
    },
    {
     "speaker": "Anna",
     "text": "Et connaître l'histoire derrière notre assiette nous aide à la valoriser, ainsi que les personnes qui la rendent possible.",
-    "t": 394.43
-   },
-   {
-    "speaker": "Tom",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 401.16
+    "t": 350.8
    },
    {
     "speaker": "Anna",
-    "text": "Prenez soin de vous, mangez bien, et à bientôt dans le prochain épisode.",
-    "t": 404.4
+    "text": "C'était notre épisode sur le portail de l'agriculture.",
+    "t": 355.93
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 409.55
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 358.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 366.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 383.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 387.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 389.64
    },
    {
     "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 411.17
+    "text": "Merci à tous.",
+    "t": 394.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 395.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 397.71
    }
   ],
   "audio_de": "podcast_agriculture_de.mp3",
-  "duration_de": 451.22,
+  "duration_de": 448.5,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Schön, dass Sie heute bei uns sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.44
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.51
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 11.9
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, sich mit dem Land verbunden zu fühlen.",
-    "t": 16.28
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema verbindet uns alle, dreimal am Tag... das Essen.",
-    "t": 24.78
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Das Brot auf Ihrem Tisch, das Gemüse auf Ihrem Teller, das Glas Wein an einem Freitagabend.",
-    "t": 30.02
+    "t": 32.23
    },
    {
     "speaker": "Tom",
     "text": "Hinter all dem steht die Landwirtschaft, und die Menschen, die sich um das Land und die Tiere kümmern.",
-    "t": 36.86
+    "t": 37.9
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt einen offiziellen Ort, der all das zusammenbringt... das Agrarportal.",
-    "t": 42.88
+    "t": 43.36
    },
    {
     "speaker": "Tom",
     "text": "Die Webseite ist agriculture Punkt public Punkt lu.",
-    "t": 48.97
+    "t": 48.44
    },
    {
     "speaker": "Anna",
     "text": "Es wird vom Ministerium für Landwirtschaft, Ernährung und Weinbau betrieben.",
-    "t": 52.92
+    "t": 52.75
    },
    {
     "speaker": "Tom",
     "text": "„Weinbau\" ist ein schönes Wort.",
-    "t": 58.49
+    "t": 57.09
    },
    {
     "speaker": "Tom",
     "text": "Es bedeutet einfach den Anbau von Trauben, für Wein.",
-    "t": 61.34
+    "t": 58.95
    },
    {
     "speaker": "Anna",
     "text": "Dieses Portal deckt also drei große Bereiche ab... Landwirtschaft, Ernährung und Wein.",
-    "t": 65.46
+    "t": 62.1
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wer macht eigentlich die Arbeit hinter diesem Ministerium?",
-    "t": 72.71
+    "t": 67.72
    },
    {
     "speaker": "Anna",
     "text": "Das Ministerium beaufsichtigt mehrere spezialisierte Verwaltungen, jede mit ihrer eigenen Rolle.",
-    "t": 77.66
+    "t": 71.82
    },
    {
     "speaker": "Tom",
     "text": "Eine der wichtigsten ist unter ihren Initialen bekannt, ASTA.",
-    "t": 84.72
+    "t": 77.58
    },
    {
     "speaker": "Anna",
     "text": "Die ASTA ist die Verwaltung der technischen Dienste der Landwirtschaft.",
-    "t": 89.29
+    "t": 81.42
    },
    {
     "speaker": "Anna",
     "text": "Stellen Sie sie sich als die Wissenschaft und Unterstützung hinter der Landwirtschaft vor.",
-    "t": 94.11
+    "t": 85.13
    },
    {
     "speaker": "Tom",
     "text": "Sie berät die Landwirte, beobachtet das Wetter, und warnt vor Pflanzenkrankheiten und Schädlingen.",
-    "t": 99.8
+    "t": 89.71
    },
    {
     "speaker": "Anna",
     "text": "Sie unterstützt auch eine nachhaltigere Landwirtschaft, mit weniger chemischem Spritzen und besserem Einsatz von natürlichem Dünger.",
-    "t": 106.19
+    "t": 95.94
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch ein eigenes Weininstitut, mit Sitz in Remich, an der Mosel.",
-    "t": 114.61
+    "t": 103.11
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg hat eine echte Weintradition entlang der Mosel... Weißweine, und den Schaumwein namens Crémant.",
-    "t": 120.01
+    "t": 107.87
    },
    {
     "speaker": "Tom",
     "text": "Das Weininstitut unterstützt die Winzer, und hilft, die Qualität hoch zu halten.",
-    "t": 128.34
+    "t": 115.4
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt eine Verwaltung, die über die Gesundheit und das Wohl der Tiere wacht, und über die Sicherheit unserer Lebensmittel.",
-    "t": 134.18
+    "t": 120.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie heißt ALVA und wurde 2022 gegründet.",
+    "t": 126.89
    },
    {
     "speaker": "Tom",
     "text": "Also vom Feld, über das Tier, bis zum Teller... bei jedem Schritt wachen Menschen darüber.",
-    "t": 142.26
+    "t": 130.8
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir über ein Thema, das schnell wächst... die biologische Landwirtschaft.",
-    "t": 148.35
+    "t": 136.37
    },
    {
     "speaker": "Tom",
     "text": "Die biologische Landwirtschaft arbeitet mit der Natur, in einem geschlossenen Kreislauf, ohne synthetische Chemikalien.",
-    "t": 154.1
+    "t": 141.12
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg hat einen Plan, genannt PAN-Bio, um den Anteil der biologischen Landwirtschaft im Land zu erhöhen.",
-    "t": 161.41
+    "t": 148.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der neueste läuft von 2026 bis 2030.",
+    "t": 155.14
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie also Bio-Produkte im Geschäft sehen, steckt eine nationale Anstrengung hinter dieser Wahl.",
-    "t": 169.52
+    "t": 159.26
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir nun über etwas, das vielen am Herzen liegt... das Tierwohl.",
-    "t": 175.78
+    "t": 164.86
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg hat ein Tierschutzgesetz, das recht fortschrittlich ist.",
-    "t": 181.29
+    "t": 169.8
    },
    {
     "speaker": "Anna",
     "text": "Es schützt die Würde, die Sicherheit und das Wohlergehen der Tiere, ihr ganzes Leben lang.",
-    "t": 185.88
+    "t": 173.58
    },
    {
     "speaker": "Tom",
     "text": "Und das betrifft nicht nur Nutztiere.",
-    "t": 192.17
+    "t": 179.36
    },
    {
     "speaker": "Tom",
     "text": "Es ist auch für Haustierbesitzer wichtig.",
-    "t": 195.16
+    "t": 181.63
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie einen Hund, eine Katze oder ein beliebiges Tier haben, haben Sie die Pflicht, sich richtig darum zu kümmern.",
-    "t": 198.34
+    "t": 184.25
    },
    {
     "speaker": "Anna",
     "text": "Das Portal bietet dazu Hinweise.",
-    "t": 206.2
+    "t": 190.7
    },
    {
     "speaker": "Tom",
     "text": "Kommen wir kurz zurück zum Wein, denn er gehört zur Kultur Luxemburgs.",
-    "t": 209.42
+    "t": 193.11
    },
    {
     "speaker": "Anna",
     "text": "Das Moseltal, im Osten, ist voller Weinberge an sonnigen Hängen.",
-    "t": 214.35
+    "t": 197.23
    },
    {
     "speaker": "Tom",
     "text": "Und im Sommer gibt es Weinbergwanderungen und Aktivitäten, bei denen Sie lernen können, wie Wein gemacht wird.",
-    "t": 219.79
+    "t": 201.73
    },
    {
     "speaker": "Anna",
     "text": "Das Portal listet sogar Veranstaltungen auf... wie Natur- und Weinbergpfade, offen für alle.",
-    "t": 226.92
+    "t": 208.29
    },
    {
     "speaker": "Tom",
     "text": "Das ist also nicht nur für Landwirte.",
-    "t": 234.03
+    "t": 214.93
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine Einladung, zu entdecken, woher unser Essen und unsere Getränke kommen.",
-    "t": 237
+    "t": 217.15
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir über lokale und saisonale Lebensmittel, die für alle gut sind.",
-    "t": 242.82
+    "t": 221.78
    },
    {
     "speaker": "Tom",
     "text": "Lokale, saisonale Produkte zu kaufen unterstützt die Landwirte in Ihrer Nähe, und schmeckt oft besser und reist weniger.",
-    "t": 248.33
+    "t": 226.38
    },
    {
     "speaker": "Anna",
     "text": "Das Ministerium fördert diese Verbindung zwischen den Menschen, die Lebensmittel produzieren, und den Menschen, die sie essen.",
-    "t": 256.08
+    "t": 233.55
    },
    {
     "speaker": "Tom",
     "text": "Ein kurzer Weg vom Feld auf den Teller ist gut für das Land, die Wirtschaft und die Gemeinschaft.",
-    "t": 264.43
+    "t": 240.51
    },
    {
     "speaker": "Anna",
     "text": "Nun, die Landwirtschaft ist nicht einfach, und die Landwirte machen es nicht allein.",
-    "t": 270.56
+    "t": 246.13
    },
    {
     "speaker": "Tom",
     "text": "Sie erhalten Unterstützung, einschließlich Beihilfen im Rahmen der Gemeinsamen Agrarpolitik (GAP) der Europäischen Union.",
-    "t": 276.51
+    "t": 250.8
    },
    {
     "speaker": "Anna",
     "text": "Wir haben in einer anderen Folge über europäische Fonds gesprochen.",
-    "t": 284.62
+    "t": 259.36
    },
    {
     "speaker": "Anna",
     "text": "Die Landwirtschaft ist einer der großen Bereiche, die Europa unterstützt.",
-    "t": 289.51
+    "t": 263.14
    },
    {
     "speaker": "Tom",
     "text": "Und das Ministerium bietet Beratung und Schulungen an, um den Betrieben zu helfen, modern, nachhaltig und widerstandsfähig zu sein.",
-    "t": 294.97
+    "t": 267.09
    },
    {
     "speaker": "Anna",
     "text": "Treten wir einen Schritt zurück und fragen uns... warum ist das alles wichtig für jemanden, der nie einen Fuß auf einen Bauernhof setzt?",
-    "t": 303.54
+    "t": 275.14
    },
    {
     "speaker": "Tom",
     "text": "Erstens, weil jeder isst.",
-    "t": 312.36
+    "t": 282.94
    },
    {
     "speaker": "Tom",
     "text": "Gute Landwirtschaft bedeutet sichere, gesunde, hochwertige Lebensmittel auf Ihrem Teller.",
-    "t": 315.11
+    "t": 284.85
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, weil die Landwirte die Landschaft prägen... die Felder, Hecken und Wiesen, an denen wir uns alle erfreuen.",
-    "t": 321.18
+    "t": 290.19
    },
    {
     "speaker": "Tom",
     "text": "Drittens, weil das Tierwohl die Art von Gesellschaft widerspiegelt, die wir sein wollen.",
-    "t": 329.33
+    "t": 297.51
    },
    {
     "speaker": "Anna",
     "text": "Und viertens, weil die Unterstützung lokaler Lebensmittel das Land lebendig hält, und die Gemeinschaft stark.",
-    "t": 335.24
+    "t": 302.47
    },
    {
     "speaker": "Tom",
     "text": "Also Tom, machen wir es praktisch.",
-    "t": 342.63
+    "t": 309.06
    },
    {
     "speaker": "Tom",
     "text": "Was kann jemand mit all dem anfangen?",
-    "t": 345.83
+    "t": 311.75
    },
    {
     "speaker": "Anna",
     "text": "Erstens, wenn Sie einkaufen, achten Sie auf lokale und saisonale Produkte, und probieren Sie Bio-Produkte.",
-    "t": 349
+    "t": 313.89
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, wenn Sie Tiere halten, schauen Sie sich die Hinweise des Portals an, um sich gut und im Rahmen des Gesetzes um sie zu kümmern.",
-    "t": 357
+    "t": 321.37
    },
    {
     "speaker": "Anna",
     "text": "Drittens, besuchen Sie im Sommer die Mosel, machen Sie eine Weinbergwanderung, und probieren Sie einen lokalen Wein oder Crémant.",
-    "t": 365.64
+    "t": 329.35
    },
    {
     "speaker": "Tom",
     "text": "Und viertens, wenn Sie neugierig auf Landwirtschaft, Lebensmittel oder Wein sind, bietet das Portal verlässliche Informationen.",
-    "t": 374.46
+    "t": 338.07
    },
    {
     "speaker": "Anna",
     "text": "Bringen wir alles zusammen.",
-    "t": 382.63
+    "t": 346.23
    },
    {
     "speaker": "Anna",
     "text": "Was sollten sich die Menschen merken?",
-    "t": 385.18
+    "t": 347.95
    },
    {
     "speaker": "Tom",
     "text": "Erstens... das Agrarportal, agriculture Punkt public Punkt lu, deckt Landwirtschaft, Ernährung und Wein ab, vom Ministerium für Landwirtschaft, Ernährung und Weinbau.",
-    "t": 388.18
+    "t": 350
    },
    {
     "speaker": "Anna",
-    "text": "Zweitens... spezialisierte Stellen unterstützen es... die ASTA für die technischen Dienste, das Weininstitut in Remich, und eine Stelle für das Tierwohl und die Lebensmittelsicherheit.",
-    "t": 399.24
+    "text": "Zweitens... spezialisierte Stellen unterstützen es... die ASTA für die technischen Dienste, das Weininstitut in Remich, und die ALVA für das Tierwohl und die Lebensmittelsicherheit.",
+    "t": 362.5
    },
    {
     "speaker": "Tom",
     "text": "Drittens... Luxemburg baut die biologische Landwirtschaft aus und schützt das Tierwohl per Gesetz.",
-    "t": 411.62
+    "t": 374.76
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... indem wir lokale und saisonale Lebensmittel wählen, tragen wir alle zu einem gesunden Ernährungssystem bei.",
-    "t": 418.57
+    "t": 380.88
    },
    {
     "speaker": "Tom",
     "text": "Lebensmittel verbinden jeden von uns mit dem Land, und miteinander.",
-    "t": 426.94
+    "t": 388.66
    },
    {
     "speaker": "Anna",
     "text": "Und die Geschichte hinter unserem Teller zu kennen hilft uns, ihn zu schätzen, und die Menschen, die ihn möglich machen.",
-    "t": 431.74
-   },
-   {
-    "speaker": "Tom",
-    "text": "Vielen Dank, dass Sie heute zugehört haben.",
-    "t": 439.6
+    "t": 392.77
    },
    {
     "speaker": "Anna",
-    "text": "Passen Sie auf sich auf, essen Sie gut, und bis zur nächsten Folge.",
-    "t": 443.18
+    "text": "Das war unsere Folge über das Landwirtschaftsportal.",
+    "t": 398.49
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 448.17
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 401.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 411.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 429.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 435.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 437.7
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 449.66
+    "text": "Danke an alle.",
+    "t": 442.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 443.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 446.95
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm zréck! Et ass flott, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.62
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, sech mam Land verbonne ze fillen.",
-    "t": 7.66
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An d'Thema vun haut verbënnt eis all, dräimol den Dag... d'Iessen.",
-    "t": 21.78
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "D'Brout op Ärem Dësch, d'Geméis op Ärem Teller, d'Glas Wäin op engem Freideg owes.",
-    "t": 26.02
+    "t": 31.22
    },
    {
     "speaker": "Tom",
     "text": "Hannert all deem stinn d'Landwirtschaft, an d'Leit, déi sech ëm d'Land an d'Déieren këmmeren.",
-    "t": 31.95
+    "t": 36.99
    },
    {
     "speaker": "Anna",
     "text": "An et gëtt en offiziellen Ort, deen all dëst zesummebréngt... d'Agrarportal.",
-    "t": 37.15
+    "t": 41.13
    },
    {
     "speaker": "Tom",
     "text": "D'Websäit ass agriculture Punkt public Punkt lu.",
-    "t": 42.52
+    "t": 46.93
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt vum Ministère fir Landwirtschaft, Ernährung a Wäibau bedriwwen.",
-    "t": 46.21
+    "t": 49.79
    },
    {
     "speaker": "Tom",
     "text": "„Wäibau\" ass e schéint Wuert. Et bedeit einfach den Ubau vun Drauwen, fir Wäin.",
-    "t": 50.94
+    "t": 53.83
    },
    {
     "speaker": "Anna",
     "text": "Dëst Portal deckt also dräi grouss Beräicher of... d'Landwirtschaft, d'Ernährung an de Wäin.",
-    "t": 57.42
+    "t": 58.54
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wien mécht eigentlech d'Aarbecht hannert dësem Ministère?",
-    "t": 62.57
+    "t": 63.74
    },
    {
     "speaker": "Anna",
     "text": "De Ministère iwwerwaacht méi spezialiséiert Verwaltungen, all mat hirer eegener Roll.",
-    "t": 66.77
+    "t": 66.98
    },
    {
     "speaker": "Tom",
     "text": "Eng vun de wichtegsten ass duerch hir Initialen bekannt, ASTA.",
-    "t": 72.3
+    "t": 71.95
    },
    {
     "speaker": "Anna",
     "text": "D'ASTA ass d'Verwaltung vun den techneschen Déngschter vun der Landwirtschaft. Stellt Iech se als d'Wëssenschaft an d'Ënnerstëtzung hannert der Landwirtschaft vir.",
-    "t": 76.65
+    "t": 75.42
    },
    {
     "speaker": "Tom",
     "text": "Si beréit d'Baueren, beobaucht d'Wieder, a warnt virun Planzekrankheeten a Schädlingen.",
-    "t": 84.95
+    "t": 82.8
    },
    {
     "speaker": "Anna",
     "text": "Si ënnerstëtzt och eng méi nohalteg Landwirtschaft, mat manner chemeschem Spritzen an engem besseren Asaz vun natierlechem Dünger.",
-    "t": 90.48
+    "t": 87.39
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt och en eegene Wäininstitut, mat Sëtz zu Remich, op der Musel.",
-    "t": 97.46
+    "t": 94.17
    },
    {
     "speaker": "Anna",
     "text": "Lëtzebuerg huet eng richteg Wäintraditioun laanscht d'Musel... Wäisswäiner, an de Schaumwäin mam Numm Crémant.",
-    "t": 102.79
+    "t": 99.02
    },
    {
     "speaker": "Tom",
     "text": "De Wäininstitut ënnerstëtzt d'Wënzer, an hëlleft, d'Qualitéit héich ze halen.",
-    "t": 109.96
+    "t": 106.08
    },
    {
     "speaker": "Anna",
-    "text": "An et gëtt eng Verwaltung, déi iwwer d'Gesondheet an d'Wuelbefannen vun den Déieren waacht, an iwwer d'Sécherheet vun eisem Iessen.",
-    "t": 114.96
+    "text": "An et gëtt eng Verwaltung, déi iwwer d'Gesondheet an d'Wuelbefannen vun den Déieren waacht, an iwwer d'Sécherheet vun eisem Iessen. Si heescht ALVA, a si gouf 2022 gegrënnt.",
+    "t": 110.55
    },
    {
     "speaker": "Tom",
     "text": "Also vum Feld, iwwer d'Déier, bis op den Teller... bei all Schrëtt waachen Leit doriwwer.",
-    "t": 121.06
+    "t": 120.5
    },
    {
     "speaker": "Anna",
     "text": "Schwätze mer iwwer en Thema, dat séier wiisst... d'Bio-Landwirtschaft.",
-    "t": 126.64
+    "t": 126.13
    },
    {
     "speaker": "Tom",
     "text": "D'Bio-Landwirtschaft schafft mat der Natur, an engem zouenen Zyklus, ouni syntheetesch Chemikalien.",
-    "t": 131.21
+    "t": 130.19
    },
    {
     "speaker": "Anna",
-    "text": "Lëtzebuerg huet e Plang, genannt PAN-Bio, fir den Undeel vun der Bio-Landwirtschaft am Land ze erhéijen.",
-    "t": 136.76
+    "text": "Lëtzebuerg huet e Plang, genannt PAN-Bio, fir den Undeel vun der Bio-Landwirtschaft am Land ze erhéijen. Dee neiste leeft vun 2026 bis 2030.",
+    "t": 135.21
    },
    {
     "speaker": "Tom",
     "text": "Wann Dir also Bio-Produkter am Buttek gesitt, stécht eng national Ustrengung hannert dëser Wiel.",
-    "t": 142.94
+    "t": 144.75
    },
    {
     "speaker": "Anna",
     "text": "Lo schwätze mer iwwer eppes, dat villen um Häerz läit... den Déiereschutz.",
-    "t": 148.6
+    "t": 150.12
    },
    {
     "speaker": "Tom",
     "text": "Lëtzebuerg huet en Déiereschutzgesetz, dat zimlech fortschrëttlech ass.",
-    "t": 153.38
+    "t": 154.17
    },
    {
     "speaker": "Anna",
     "text": "Et schützt d'Dignitéit, d'Sécherheet an d'Wuelbefannen vun den Déieren, hiert ganzt Liewen laang.",
-    "t": 157.77
+    "t": 157.59
    },
    {
     "speaker": "Tom",
     "text": "An dat betrëfft net nëmmen Notzdéieren. Et ass och fir Hausdéierebesëtzer wichteg.",
-    "t": 163.72
+    "t": 163.9
    },
    {
     "speaker": "Anna",
     "text": "Wann Dir en Hond, eng Kaz, oder iergendee Béischt hutt, hutt Dir d'Flicht, Iech richteg drëm ze këmmeren. D'Portal bitt dozou Hiweiser.",
-    "t": 169.83
+    "t": 168
    },
    {
     "speaker": "Tom",
     "text": "Komme mer kuerz zréck op de Wäin, well en zur Kultur vu Lëtzebuerg gehéiert.",
-    "t": 178.31
+    "t": 175.58
    },
    {
     "speaker": "Anna",
     "text": "D'Museldall, am Osten, ass voller Wéngerten op sonnegen Häng.",
-    "t": 183.31
+    "t": 179.46
    },
    {
     "speaker": "Tom",
     "text": "An am Summer ginn et Wéngertwanderungen an Aktivitéiten, wou Dir léiere kënnt, wéi Wäin gemaach gëtt.",
-    "t": 188.19
+    "t": 183.93
    },
    {
     "speaker": "Anna",
     "text": "D'Portal lëscht souguer Eventer op... wéi Natur- a Wéngertweeër, op fir jiddereen.",
-    "t": 193.61
+    "t": 189.3
    },
    {
     "speaker": "Tom",
     "text": "Dat ass also net nëmmen fir d'Baueren. Et ass eng Aluedung, ze entdecken, vu wou eist Iessen an eis Gedrénks kommen.",
-    "t": 199.29
+    "t": 194.88
    },
    {
     "speaker": "Anna",
     "text": "Schwätze mer iwwer lokal a saisonal Liewensmëttel, déi gutt fir jiddereen sinn.",
-    "t": 206.58
+    "t": 200.76
    },
    {
     "speaker": "Tom",
     "text": "Lokal, saisonal Produkter ze kafe ënnerstëtzt d'Baueren bei Iech an der Géigend, a schmaacht dacks besser a reest manner.",
-    "t": 211.33
+    "t": 204.94
    },
    {
     "speaker": "Anna",
     "text": "De Ministère encouragéiert dës Verbindung tëscht de Leit, déi Liewensmëttel produzéieren, an de Leit, déi se iessen.",
-    "t": 217.86
+    "t": 211.28
    },
    {
     "speaker": "Tom",
     "text": "E kuerze Wee vum Feld op den Teller ass gutt fir d'Land, d'Wirtschaft an d'Gemeinschaft.",
-    "t": 223.56
+    "t": 216.93
    },
    {
     "speaker": "Anna",
     "text": "Lo, d'Landwirtschaft ass net einfach, an d'Baueren maachen et net eleng.",
-    "t": 229.23
+    "t": 222.06
    },
    {
     "speaker": "Tom",
     "text": "Si kréien Ënnerstëtzung, dorënner Hëllefen am Kader vun der Gemeinsamer Agrarpolitik vun der Europäescher Unioun.",
-    "t": 233.8
+    "t": 225.78
    },
    {
     "speaker": "Anna",
     "text": "Mir hunn an enger anerer Episod iwwer europäesch Fongen geschwat. D'Landwirtschaft ass ee vun de grousse Beräicher, déi Europa ënnerstëtzt.",
-    "t": 239.71
+    "t": 231.04
    },
    {
     "speaker": "Tom",
     "text": "An de Ministère bitt Berodung a Formatiounen un, fir de Betriber ze hëllefen, modern, nohalteg a widderstandsfäeg ze sinn.",
-    "t": 247.01
+    "t": 237.34
    },
    {
     "speaker": "Anna",
     "text": "Trete mer e Schrëtt zréck a froen eis... firwat ass dat alles wichteg fir een, deen ni e Fouss op e Bauerenhaff setzt?",
-    "t": 253.43
+    "t": 243.34
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, well jiddereen ësst. Gutt Landwirtschaft bedeit sécher, gesond, héichwäerteg Liewensmëttel op Ärem Teller.",
-    "t": 259.14
+    "t": 249.16
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, well d'Baueren d'Landschaft präegen... d'Felder, Hecken a Wisen, un deenen mir eis all freeën.",
-    "t": 266.4
+    "t": 254.54
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, well den Déiereschutz d'Aart vu Gesellschaft widderspigelt, déi mir wëlle sinn.",
-    "t": 272.84
+    "t": 260.55
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, well d'Ënnerstëtzung vu lokale Liewensmëttel d'Land lieweg hält, an d'Gemeinschaft staark.",
-    "t": 277.99
+    "t": 265.09
    },
    {
     "speaker": "Tom",
     "text": "Also Tom, maache mer et praktesch. Wat kann een mat all deem ufänken?",
-    "t": 284.3
+    "t": 271.51
    },
    {
     "speaker": "Anna",
     "text": "Éischtens, wann Dir akafe gitt, kuckt no lokalen a saisonale Produkter, a probéiert Bio-Produkter.",
-    "t": 290.34
+    "t": 275.55
    },
    {
     "speaker": "Tom",
     "text": "Zweetens, wann Dir Déieren hutt, kuckt d'Hiweiser vun der Portal un, fir Iech gutt an am Kader vum Gesetz drëm ze këmmeren.",
-    "t": 296.38
+    "t": 280.45
    },
    {
     "speaker": "Anna",
     "text": "Drëttens, besicht am Summer d'Musel, maacht eng Wéngertwanderung, a probéiert e lokale Wäin oder Crémant.",
-    "t": 302.15
+    "t": 286.28
    },
    {
     "speaker": "Tom",
     "text": "A véiertens, wann Dir nei­géiereg sidd op d'Landwirtschaft, d'Liewensmëttel oder de Wäin, bitt d'Portal zouverlässeg Informatiounen.",
-    "t": 308.97
+    "t": 292.85
    },
    {
     "speaker": "Anna",
     "text": "Bréngen mer alles zesummen. Wat sollen d'Leit sech merken?",
-    "t": 315.16
+    "t": 298.96
    },
    {
     "speaker": "Tom",
     "text": "Éischtens... d'Agrarportal, agriculture Punkt public Punkt lu, deckt d'Landwirtschaft, d'Ernährung an de Wäin of, vum Ministère fir Landwirtschaft, Ernährung a Wäibau.",
-    "t": 319.94
+    "t": 302.25
    },
    {
     "speaker": "Anna",
-    "text": "Zweetens... spezialiséiert Stellen ënnerstëtzen et... d'ASTA fir déi technesch Déngschter, de Wäininstitut zu Remich, an eng Stell fir den Déiereschutz an d'Liewensmëttelsécherheet.",
-    "t": 329.53
+    "text": "Zweetens... spezialiséiert Stellen ënnerstëtzen et... d'ASTA fir déi technesch Déngschter, de Wäininstitut zu Remich, an d'ALVA fir den Déiereschutz an d'Liewensmëttelsécherheet.",
+    "t": 312.48
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... Lëtzebuerg baut d'Bio-Landwirtschaft aus a schützt den Déiereschutz per Gesetz.",
-    "t": 340.24
+    "t": 322.73
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... andeems mir lokal a saisonal Liewensmëttel wielen, droe mir all zu engem gesonden Ernährungssystem bäi.",
-    "t": 346.79
+    "t": 327.72
    },
    {
     "speaker": "Tom",
     "text": "Liewensmëttel verbannen all eenzelne vun eis mam Land, an enee mam aneren.",
-    "t": 353.25
+    "t": 333.87
    },
    {
     "speaker": "Anna",
-    "text": "An d'Geschicht hannert eisem Teller ze kennen hëlleft eis, e ze schätzen, an d'Leit, déi e méiglech maachen.",
-    "t": 357.32
+    "text": "An d'Geschicht hannert eisem Teller ze kennen hëlleft eis, e ze schätzen, an d'Leit, déi e méiglech maachen. Dat war eis Episod iwwer de Landwirtschaftsportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 337.15
    },
    {
     "speaker": "Tom",
-    "text": "Villmools merci, datt Dir haut nogelauschtert hutt.",
-    "t": 362.91
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 388.17
    },
    {
     "speaker": "Anna",
-    "text": "Passt op Iech op, iesst gutt, a bis an déi nächst Episod. Äddi!",
-    "t": 365.91
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 371.64
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 391.37
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 30,
@@ -78722,7 +78924,7 @@ const EPISODES = [
   "title": "Spatial Planning – How Luxembourg Plans the Use of Its Land",
   "description": "What spatial planning ('aménagement du territoire') is, how the State and communes plan Luxembourg's limited land for the long term — balancing housing, transport, the economy and nature — through the national master programme and sectoral plans, working across regions and borders, and how citizens can follow and take part.",
   "audio": "podcast_amenagement.mp3",
-  "duration": 326.02,
+  "duration": 348.03,
   "topics": [
    "What spatial planning is",
    "Balancing land for everyone",
@@ -78736,358 +78938,378 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's lovely to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.62
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.66
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.77
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to understand how the country works.",
-    "t": 14.59
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today's topic shapes the country you see around you every day... land.",
-    "t": 22.01
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Where new homes are built, where roads and trams go, where nature is protected, where companies can set up.",
-    "t": 26.82
+    "t": 32.39
    },
    {
     "speaker": "Tom",
     "text": "Luxembourg is a small country.",
-    "t": 33.62
+    "t": 39.49
    },
    {
     "speaker": "Tom",
     "text": "Land is precious, and there is only so much of it.",
-    "t": 36.53
+    "t": 41.32
    },
    {
     "speaker": "Anna",
     "text": "So how do you decide what goes where, fairly, for everyone, and for the future?",
-    "t": 40.17
+    "t": 44.17
    },
    {
     "speaker": "Tom",
     "text": "That careful balancing act has a name... spatial planning.",
-    "t": 45.65
+    "t": 48.87
    },
    {
     "speaker": "Tom",
     "text": "In French, \"l'aménagement du territoire\".",
-    "t": 49.78
+    "t": 52.68
    },
    {
     "speaker": "Anna",
     "text": "And there is an official portal for it, and a department of the State that leads it.",
-    "t": 53.36
+    "t": 55.18
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what exactly is spatial planning?",
-    "t": 58.29
+    "t": 60.17
    },
    {
     "speaker": "Anna",
     "text": "It is the set of actions taken by the State and the communes to develop the national territory, wisely.",
-    "t": 61.95
+    "t": 62.57
    },
    {
     "speaker": "Tom",
     "text": "While protecting the landscapes, using the soil rationally, and coordinating all the different needs for land.",
-    "t": 68.39
+    "t": 69.03
    },
    {
     "speaker": "Anna",
     "text": "Housing needs land.",
-    "t": 74.88
+    "t": 75.45
    },
    {
     "speaker": "Anna",
     "text": "Transport needs land.",
-    "t": 77.09
+    "t": 76.79
    },
    {
     "speaker": "Anna",
     "text": "The economy needs land.",
-    "t": 79.47
+    "t": 78.48
    },
    {
     "speaker": "Anna",
     "text": "Nature needs space too.",
-    "t": 81.98
+    "t": 80.25
    },
    {
     "speaker": "Tom",
     "text": "And without planning, these needs would collide, and the country would grow in a messy, harmful way.",
-    "t": 84.42
+    "t": 82.35
    },
    {
     "speaker": "Anna",
     "text": "So spatial planning is like a referee, and an architect, for the whole country.",
-    "t": 90.12
+    "t": 88.36
    },
    {
     "speaker": "Tom",
     "text": "It's led by the Department of Spatial Planning, part of the Ministry of Housing and Spatial Planning.",
-    "t": 95.61
+    "t": 93.2
    },
    {
     "speaker": "Anna",
     "text": "Let's look at the main tools, because they're easier to grasp than they sound.",
-    "t": 101.63
+    "t": 98.53
    },
    {
     "speaker": "Tom",
     "text": "The first is the master programme, a big strategic vision for how the whole country should develop.",
-    "t": 106.42
+    "t": 103.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "The current one was adopted in 2023, and looks ahead to 2035.",
+    "t": 109.34
    },
    {
     "speaker": "Anna",
     "text": "It sets the direction... more compact towns, protected nature, good transport, balanced regions.",
-    "t": 112.35
+    "t": 113.42
    },
    {
     "speaker": "Tom",
     "text": "The second tool is a set of sectoral master plans.",
-    "t": 119.51
+    "t": 120.24
    },
    {
     "speaker": "Anna",
     "text": "These are more concrete.",
-    "t": 123.41
+    "t": 123.22
    },
    {
     "speaker": "Anna",
     "text": "There are plans for transport, for housing, for economic activity zones, and for landscapes.",
-    "t": 125.72
+    "t": 124.79
    },
    {
     "speaker": "Tom",
     "text": "For example, a housing plan reserves land where new homes should be concentrated.",
-    "t": 132.29
+    "t": 130.78
    },
    {
     "speaker": "Anna",
     "text": "And a landscape plan protects green areas from being built over.",
-    "t": 137.65
+    "t": 135.13
    },
    {
     "speaker": "Tom",
     "text": "So these plans decide, in a coordinated way, what land is for.",
-    "t": 142.02
+    "t": 138.92
    },
    {
     "speaker": "Anna",
     "text": "There's an important idea here... building where it makes sense.",
-    "t": 146.79
+    "t": 142.48
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 150.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "Concentrating homes and activity near transport and services, instead of spreading out everywhere.",
-    "t": 152.63
+    "text": "Yes. Concentrating homes and activity near transport and services, instead of spreading out everywhere.",
+    "t": 146.52
    },
    {
     "speaker": "Anna",
     "text": "That protects the countryside, reduces traffic, and makes daily life easier.",
-    "t": 158.56
+    "t": 153.15
    },
    {
     "speaker": "Tom",
     "text": "Spatial planning also thinks in regions, not just the whole country.",
-    "t": 164.16
+    "t": 158.03
    },
    {
     "speaker": "Anna",
     "text": "Different regions have different strengths and needs... the south, the centre, the north, the east.",
-    "t": 168.75
+    "t": 161.9
    },
    {
     "speaker": "Tom",
     "text": "There are urban projects, and even nature parks, which protect beautiful regions while keeping them alive.",
-    "t": 175.22
+    "t": 167.63
    },
    {
     "speaker": "Anna",
     "text": "And because Luxembourg is small and central, planning doesn't stop at the border.",
-    "t": 181.61
+    "t": 173.73
    },
    {
     "speaker": "Tom",
-    "text": "Right.",
-    "t": 186.68
-   },
-   {
-    "speaker": "Tom",
-    "text": "So much of life here crosses borders... work, transport, housing pressure.",
-    "t": 188.32
+    "text": "Right. So much of life here crosses borders... work, transport, housing pressure.",
+    "t": 178.58
    },
    {
     "speaker": "Anna",
     "text": "So Luxembourg plans together with its neighbours, in the Greater Region, and through European programmes.",
-    "t": 193.47
+    "t": 183.51
    },
    {
     "speaker": "Tom",
     "text": "Because a tram line, a forest, or a river doesn't care about a border on a map.",
-    "t": 200.06
+    "t": 189.67
    },
    {
     "speaker": "Anna",
     "text": "Let's ask the key question... why should an ordinary resident care about all this?",
-    "t": 205.39
+    "t": 194.27
    },
    {
     "speaker": "Tom",
     "text": "First, because it shapes your daily life... your commute, your green spaces, whether housing gets built near you.",
-    "t": 210.55
+    "t": 199.42
    },
    {
     "speaker": "Anna",
     "text": "Second, because it protects what we love... landscapes, nature, the character of our towns and villages.",
-    "t": 217.21
+    "t": 206.27
    },
    {
     "speaker": "Tom",
     "text": "And third, because it's about fairness between generations... leaving a livable country to our children.",
-    "t": 224.29
+    "t": 214.93
    },
    {
     "speaker": "Anna",
     "text": "There's also a role for citizens.",
-    "t": 230.6
+    "t": 221.45
    },
    {
     "speaker": "Anna",
     "text": "Big plans often go through public consultation.",
-    "t": 233.55
+    "t": 223.58
    },
    {
     "speaker": "Tom",
     "text": "So you can inform yourself, and sometimes give your view, when a plan affects your area.",
-    "t": 237.19
+    "t": 226.68
    },
    {
     "speaker": "Anna",
     "text": "The portal publishes the plans, the strategy, and the news, openly.",
-    "t": 242.66
+    "t": 231.66
    },
    {
     "speaker": "Tom",
     "text": "So Tom, let's make it practical.",
-    "t": 247.81
+    "t": 236.98
    },
    {
     "speaker": "Tom",
     "text": "What can people take from this?",
-    "t": 251.07
+    "t": 239.01
    },
    {
     "speaker": "Anna",
     "text": "First, when you hear about a new housing zone, a transport plan, or a protected area, you'll understand the bigger picture.",
-    "t": 253.71
+    "t": 240.9
    },
    {
     "speaker": "Tom",
     "text": "Second, if a plan touches your commune, watch for public consultations and have your say.",
-    "t": 261.55
+    "t": 248.79
    },
    {
     "speaker": "Anna",
     "text": "Third, remember that the goal is balance... homes, jobs, transport and nature, all living together.",
-    "t": 267.26
+    "t": 254.2
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it together.",
-    "t": 274.57
+    "t": 261.88
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about spatial planning?",
-    "t": 276.94
+    "t": 263.1
    },
    {
     "speaker": "Anna",
     "text": "First... it's how the State and communes plan the use of Luxembourg's limited land, for the long term.",
-    "t": 280.52
+    "t": 266.02
    },
    {
     "speaker": "Tom",
     "text": "Second... it uses a national strategy and sectoral plans for transport, housing, economy and landscapes.",
-    "t": 286.94
+    "t": 272.33
    },
    {
     "speaker": "Anna",
     "text": "Third... it works across regions and across borders, because life here does too.",
-    "t": 294
+    "t": 279.35
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it shapes your daily surroundings, so it's worth following and taking part in.",
-    "t": 299.48
+    "t": 284.33
    },
    {
     "speaker": "Anna",
     "text": "The country we pass on is not an accident.",
-    "t": 304.99
+    "t": 289.56
    },
    {
     "speaker": "Anna",
     "text": "It's the sum of countless careful choices about land.",
-    "t": 308.34
+    "t": 292.36
    },
    {
     "speaker": "Tom",
     "text": "And good planning is how we make those choices wisely, together.",
-    "t": 312.09
+    "t": 296.05
    },
    {
     "speaker": "Anna",
-    "text": "Thank you so much for listening today.",
-    "t": 316.4
-   },
-   {
-    "speaker": "Tom",
-    "text": "Take care, and see you in the next episode.",
-    "t": 319.35
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 322.82
+    "text": "That was our episode about spatial planning.",
+    "t": 299.62
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 324.5
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 302.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 311.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 329.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 336.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 338.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 343.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 344.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 346.43
    }
   ],
   "questions": [
@@ -79289,1001 +79511,1040 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_amenagement_fr.mp3",
-  "duration_fr": 361.73,
+  "duration_fr": 351.14,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Nous sommes ravis de vous retrouver aujourd'hui.",
-    "t": 3.09
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.35
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 8.93
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
-    "t": 12.39
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, ainsi que les frontaliers, à comprendre comment le pays fonctionne.",
-    "t": 16.05
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui façonne le pays que vous voyez autour de vous chaque jour... le sol.",
-    "t": 23.43
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "Là où l'on construit de nouveaux logements, où passent les routes et les trams, où la nature est protégée, où les entreprises peuvent s'installer.",
-    "t": 28.62
+    "t": 28.27
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg est un petit pays.",
-    "t": 36.62
+    "t": 35.01
    },
    {
     "speaker": "Tom",
     "text": "Le sol est précieux, et il y en a une quantité limitée.",
-    "t": 39.35
+    "t": 36.95
    },
    {
     "speaker": "Anna",
     "text": "Alors comment décide-t-on de ce qui va où, de manière équitable, pour tout le monde, et pour l'avenir ?",
-    "t": 43.3
+    "t": 40.45
    },
    {
     "speaker": "Tom",
     "text": "Cet exercice d'équilibre minutieux porte un nom... l'aménagement du territoire.",
-    "t": 49.79
+    "t": 45.4
    },
    {
     "speaker": "Tom",
     "text": "En français, « l'aménagement du territoire ».",
-    "t": 54.78
+    "t": 50.26
    },
    {
     "speaker": "Anna",
     "text": "Et il existe un portail officiel à ce sujet, ainsi qu'un département de l'État qui le pilote.",
-    "t": 58.31
+    "t": 52.98
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qu'est-ce que l'aménagement du territoire au juste ?",
-    "t": 64.22
+    "t": 57.56
    },
    {
     "speaker": "Anna",
     "text": "C'est l'ensemble des actions menées par l'État et les communes pour développer le territoire national, de manière réfléchie.",
-    "t": 68.13
+    "t": 60.81
    },
    {
     "speaker": "Tom",
     "text": "Tout en protégeant les paysages, en utilisant le sol de façon rationnelle, et en coordonnant tous les différents besoins en terrain.",
-    "t": 75.08
+    "t": 66.4
    },
    {
     "speaker": "Anna",
     "text": "Le logement a besoin de sol.",
-    "t": 82.43
+    "t": 73.48
    },
    {
     "speaker": "Anna",
     "text": "Les transports ont besoin de sol.",
-    "t": 85.21
+    "t": 75.22
    },
    {
     "speaker": "Anna",
     "text": "L'économie a besoin de sol.",
-    "t": 88.02
+    "t": 77.13
    },
    {
     "speaker": "Anna",
     "text": "La nature aussi a besoin d'espace.",
-    "t": 90.86
+    "t": 78.87
    },
    {
     "speaker": "Tom",
     "text": "Et sans planification, ces besoins entreraient en conflit, et le pays se développerait de manière désordonnée et néfaste.",
-    "t": 93.95
+    "t": 81
    },
    {
     "speaker": "Anna",
     "text": "L'aménagement du territoire est donc comme un arbitre, et un architecte, pour tout le pays.",
-    "t": 100.92
+    "t": 88.4
    },
    {
     "speaker": "Tom",
     "text": "Il est piloté par le Département de l'aménagement du territoire, qui fait partie du Ministère du Logement et de l'Aménagement du territoire.",
-    "t": 106.99
+    "t": 92.77
    },
    {
     "speaker": "Anna",
     "text": "Regardons les principaux outils, car ils sont plus faciles à saisir que leur nom ne le laisse penser.",
-    "t": 114.47
+    "t": 100.05
    },
    {
     "speaker": "Tom",
     "text": "Le premier est le programme directeur, une grande vision stratégique de la façon dont l'ensemble du pays devrait se développer.",
-    "t": 120.42
+    "t": 104.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'actuel a été adopté en 2023, et regarde jusqu'en 2035.",
+    "t": 111.27
    },
    {
     "speaker": "Anna",
     "text": "Il fixe le cap... des villes plus compactes, une nature protégée, de bons transports, des régions équilibrées.",
-    "t": 127.33
+    "t": 115.88
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième outil est un ensemble de plans directeurs sectoriels.",
-    "t": 135.28
+    "t": 122.34
    },
    {
     "speaker": "Anna",
     "text": "Ceux-ci sont plus concrets.",
-    "t": 139.39
+    "t": 126.31
    },
    {
     "speaker": "Anna",
     "text": "Il y a des plans pour les transports, pour le logement, pour les zones d'activités économiques, et pour les paysages.",
-    "t": 141.79
+    "t": 127.78
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, un plan logement réserve des terrains où les nouveaux logements devraient être concentrés.",
-    "t": 148.78
+    "t": 133.25
    },
    {
     "speaker": "Anna",
     "text": "Et un plan paysage protège les espaces verts contre la construction.",
-    "t": 154.11
+    "t": 138.74
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, ces plans décident, de manière coordonnée, à quoi le sol est destiné.",
-    "t": 158.58
+    "t": 142.13
    },
    {
     "speaker": "Anna",
     "text": "Il y a ici une idée importante... construire là où cela a du sens.",
-    "t": 163.95
+    "t": 146.86
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 168.7
-   },
-   {
-    "speaker": "Tom",
-    "text": "Concentrer les logements et les activités près des transports et des services, au lieu de s'étaler partout.",
-    "t": 170.16
+    "text": "Oui. Concentrer les logements et les activités près des transports et des services, au lieu de s'étaler partout.",
+    "t": 150.79
    },
    {
     "speaker": "Anna",
     "text": "Cela protège la campagne, réduit le trafic, et facilite la vie quotidienne.",
-    "t": 175.85
+    "t": 156.6
    },
    {
     "speaker": "Tom",
     "text": "L'aménagement du territoire pense aussi en termes de régions, pas seulement du pays tout entier.",
-    "t": 181.65
+    "t": 160.67
    },
    {
     "speaker": "Anna",
     "text": "Différentes régions ont des atouts et des besoins différents... le sud, le centre, le nord, l'est.",
-    "t": 187.18
+    "t": 166.07
    },
    {
     "speaker": "Tom",
     "text": "Il y a des projets urbains, et même des parcs naturels, qui protègent de belles régions tout en les maintenant vivantes.",
-    "t": 193.62
+    "t": 171.98
    },
    {
     "speaker": "Anna",
     "text": "Et parce que le Luxembourg est petit et central, la planification ne s'arrête pas à la frontière.",
-    "t": 200.26
+    "t": 178.12
    },
    {
     "speaker": "Tom",
-    "text": "En effet.",
-    "t": 206.23
-   },
-   {
-    "speaker": "Tom",
-    "text": "Une grande partie de la vie ici traverse les frontières... le travail, les transports, la pression sur le logement.",
-    "t": 207.92
+    "text": "En effet. Une grande partie de la vie ici traverse les frontières... le travail, les transports, la pression sur le logement.",
+    "t": 183.42
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg planifie donc avec ses voisins, dans la Grande Région, et à travers des programmes européens.",
-    "t": 214.8
+    "t": 190.97
    },
    {
     "speaker": "Tom",
     "text": "Parce qu'une ligne de tram, une forêt ou une rivière ne se soucie pas d'une frontière sur une carte.",
-    "t": 221.55
+    "t": 196.08
    },
    {
     "speaker": "Anna",
     "text": "Posons la question essentielle... pourquoi un résident ordinaire devrait-il se soucier de tout cela ?",
-    "t": 227.13
+    "t": 201.91
    },
    {
     "speaker": "Tom",
     "text": "D'abord, parce que cela façonne votre vie quotidienne... vos trajets, vos espaces verts, le fait que des logements soient construits ou non près de chez vous.",
-    "t": 232.97
+    "t": 207.14
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, parce que cela protège ce que nous aimons... les paysages, la nature, le caractère de nos villes et villages.",
-    "t": 241.43
+    "t": 215.51
    },
    {
     "speaker": "Tom",
     "text": "Et enfin, parce qu'il s'agit d'équité entre les générations... laisser un pays vivable à nos enfants.",
-    "t": 249.23
+    "t": 221.51
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi un rôle pour les citoyens.",
-    "t": 255.2
+    "t": 227.04
    },
    {
     "speaker": "Anna",
     "text": "Les grands plans passent souvent par une consultation publique.",
-    "t": 258.15
+    "t": 229.04
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez donc vous informer, et parfois donner votre avis, lorsqu'un plan concerne votre région.",
-    "t": 262.17
+    "t": 232.18
    },
    {
     "speaker": "Anna",
     "text": "Le portail publie les plans, la stratégie et les actualités, de manière ouverte.",
-    "t": 268.1
+    "t": 237.38
    },
    {
     "speaker": "Tom",
     "text": "Alors Tom, rendons cela concret.",
-    "t": 273.92
+    "t": 241.71
    },
    {
     "speaker": "Tom",
     "text": "Que peut-on retenir de tout cela ?",
-    "t": 276.98
+    "t": 243.91
    },
    {
     "speaker": "Anna",
     "text": "D'abord, quand vous entendrez parler d'une nouvelle zone de logement, d'un plan de transport ou d'une zone protégée, vous comprendrez la vue d'ensemble.",
-    "t": 279.62
+    "t": 245.85
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, si un plan touche votre commune, soyez attentif aux consultations publiques et faites entendre votre voix.",
-    "t": 288.26
+    "t": 252.77
    },
    {
     "speaker": "Anna",
     "text": "Enfin, souvenez-vous que l'objectif est l'équilibre... les logements, les emplois, les transports et la nature, vivant tous ensemble.",
-    "t": 295.13
+    "t": 259.76
    },
    {
     "speaker": "Tom",
     "text": "Faisons la synthèse.",
-    "t": 303.61
+    "t": 266.29
    },
    {
     "speaker": "Tom",
     "text": "Que faut-il retenir de l'aménagement du territoire ?",
-    "t": 305.85
+    "t": 267.71
    },
    {
     "speaker": "Anna",
     "text": "Premièrement... c'est la façon dont l'État et les communes planifient l'utilisation du sol limité du Luxembourg, sur le long terme.",
-    "t": 309.27
+    "t": 270.57
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... il s'appuie sur une stratégie nationale et des plans sectoriels pour les transports, le logement, l'économie et les paysages.",
-    "t": 316.82
+    "t": 276.91
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... il fonctionne à travers les régions et au-delà des frontières, parce que la vie ici fait de même.",
-    "t": 324.73
+    "t": 285.05
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... il façonne votre cadre de vie quotidien, alors il vaut la peine de le suivre et d'y participer.",
-    "t": 331.31
+    "t": 290.3
    },
    {
     "speaker": "Anna",
     "text": "Le pays que nous transmettons n'est pas le fruit du hasard.",
-    "t": 337.81
+    "t": 297.02
    },
    {
     "speaker": "Anna",
     "text": "C'est la somme d'innombrables choix réfléchis sur le sol.",
-    "t": 341.59
+    "t": 299.95
    },
    {
     "speaker": "Tom",
     "text": "Et une bonne planification, c'est la façon dont nous faisons ces choix avec sagesse, ensemble.",
-    "t": 345.38
+    "t": 302.92
    },
    {
     "speaker": "Anna",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 351.09
-   },
-   {
-    "speaker": "Tom",
-    "text": "Prenez soin de vous, et à bientôt pour le prochain épisode.",
-    "t": 354.55
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 358.59
+    "text": "C'était notre épisode sur l'aménagement du territoire.",
+    "t": 308.14
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 360.12
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 310.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 318.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 334.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 339.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 341.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 345.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 346.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 349.37
    }
   ],
   "audio_de": "podcast_amenagement_de.mp3",
-  "duration_de": 394.37,
+  "duration_de": 393.25,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Schön, dass Sie heute bei uns sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.44
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.51
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 11.9
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen zu verstehen, wie das Land funktioniert.",
-    "t": 16.28
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema prägt das Land, das Sie jeden Tag um sich herum sehen... den Boden.",
-    "t": 24.85
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Wo neue Wohnungen gebaut werden, wo Straßen und Straßenbahnen verlaufen, wo die Natur geschützt wird, wo sich Unternehmen ansiedeln können.",
-    "t": 30.85
+    "t": 33.11
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg ist ein kleines Land.",
-    "t": 40.55
+    "t": 41.79
    },
    {
     "speaker": "Tom",
     "text": "Boden ist kostbar, und es gibt nur begrenzt davon.",
-    "t": 43.53
+    "t": 43.82
    },
    {
     "speaker": "Anna",
     "text": "Wie entscheidet man also, was wohin kommt, gerecht, für alle, und für die Zukunft?",
-    "t": 47.5
+    "t": 46.81
    },
    {
     "speaker": "Tom",
     "text": "Dieser sorgfältige Balanceakt hat einen Namen... Raumordnung.",
-    "t": 54.01
+    "t": 52.49
    },
    {
     "speaker": "Tom",
     "text": "Auf Französisch „l'aménagement du territoire\".",
-    "t": 59.36
+    "t": 56.52
    },
    {
     "speaker": "Anna",
     "text": "Und dafür gibt es ein offizielles Portal, sowie eine Abteilung des Staates, die es leitet.",
-    "t": 63.02
+    "t": 59.81
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was genau ist Raumordnung?",
-    "t": 69.86
+    "t": 65.14
    },
    {
     "speaker": "Anna",
     "text": "Es ist die Gesamtheit der Maßnahmen, die der Staat und die Gemeinden ergreifen, um das nationale Gebiet klug zu entwickeln.",
-    "t": 73.44
+    "t": 67.23
    },
    {
     "speaker": "Tom",
     "text": "Und das, während man die Landschaften schützt, den Boden rational nutzt und all die verschiedenen Bedürfnisse nach Fläche aufeinander abstimmt.",
-    "t": 81.68
+    "t": 74.2
    },
    {
     "speaker": "Anna",
     "text": "Wohnen braucht Boden.",
-    "t": 90.12
+    "t": 82.38
    },
    {
     "speaker": "Anna",
     "text": "Verkehr braucht Boden.",
-    "t": 92.49
+    "t": 84
    },
    {
     "speaker": "Anna",
     "text": "Die Wirtschaft braucht Boden.",
-    "t": 94.94
+    "t": 85.73
    },
    {
     "speaker": "Anna",
     "text": "Auch die Natur braucht Raum.",
-    "t": 97.69
+    "t": 87.56
    },
    {
     "speaker": "Tom",
     "text": "Und ohne Planung würden diese Bedürfnisse aufeinanderprallen, und das Land würde auf chaotische, schädliche Weise wachsen.",
-    "t": 100.28
+    "t": 89.5
    },
    {
     "speaker": "Anna",
     "text": "Raumordnung ist also wie ein Schiedsrichter und ein Architekt für das ganze Land.",
-    "t": 107.9
+    "t": 96.51
    },
    {
     "speaker": "Tom",
     "text": "Sie wird von der Abteilung für Landesplanung geleitet, die zum Ministerium für Wohnungsbau und Landesplanung gehört.",
-    "t": 113.56
+    "t": 101.05
    },
    {
     "speaker": "Anna",
     "text": "Schauen wir uns die wichtigsten Instrumente an, denn sie sind leichter zu verstehen, als ihr Name vermuten lässt.",
-    "t": 120.98
+    "t": 107.85
    },
    {
     "speaker": "Tom",
     "text": "Das erste ist das Leitprogramm, eine große strategische Vision dafür, wie sich das ganze Land entwickeln soll.",
-    "t": 128.4
+    "t": 113.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das aktuelle wurde 2023 verabschiedet und blickt bis 2035.",
+    "t": 120.33
    },
    {
     "speaker": "Anna",
     "text": "Es gibt die Richtung vor... kompaktere Städte, geschützte Natur, guter Verkehr, ausgewogene Regionen.",
-    "t": 135.6
+    "t": 126.17
    },
    {
     "speaker": "Tom",
     "text": "Das zweite Instrument ist eine Reihe sektoraler Leitpläne.",
-    "t": 143.55
+    "t": 133.95
    },
    {
     "speaker": "Anna",
     "text": "Diese sind konkreter.",
-    "t": 147.88
+    "t": 137.72
    },
    {
     "speaker": "Anna",
     "text": "Es gibt Pläne für den Verkehr, für das Wohnen, für wirtschaftliche Aktivitätszonen und für die Landschaften.",
-    "t": 150.32
+    "t": 139.22
    },
    {
     "speaker": "Tom",
     "text": "Ein Wohnungsplan zum Beispiel reserviert Flächen, auf denen neue Wohnungen konzentriert werden sollen.",
-    "t": 157.96
+    "t": 145.87
    },
    {
     "speaker": "Anna",
     "text": "Und ein Landschaftsplan schützt Grünflächen davor, bebaut zu werden.",
-    "t": 164.31
+    "t": 151.66
    },
    {
     "speaker": "Tom",
     "text": "Diese Pläne entscheiden also auf koordinierte Weise, wofür der Boden bestimmt ist.",
-    "t": 169.49
+    "t": 155.76
    },
    {
     "speaker": "Anna",
     "text": "Es gibt hier einen wichtigen Gedanken... dort bauen, wo es sinnvoll ist.",
-    "t": 175.02
+    "t": 160.64
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 180.41
-   },
-   {
-    "speaker": "Tom",
-    "text": "Wohnen und Aktivität in der Nähe von Verkehr und Diensten konzentrieren, anstatt sich überallhin auszubreiten.",
-    "t": 181.9
+    "text": "Ja. Wohnen und Aktivität in der Nähe von Verkehr und Diensten konzentrieren, anstatt sich überallhin auszubreiten.",
+    "t": 166.01
    },
    {
     "speaker": "Anna",
     "text": "Das schützt das Land, verringert den Verkehr und macht das tägliche Leben einfacher.",
-    "t": 189.07
+    "t": 173.91
    },
    {
     "speaker": "Tom",
     "text": "Raumordnung denkt auch in Regionen, nicht nur in Bezug auf das ganze Land.",
-    "t": 194.94
+    "t": 178.59
    },
    {
     "speaker": "Anna",
     "text": "Verschiedene Regionen haben unterschiedliche Stärken und Bedürfnisse... der Süden, das Zentrum, der Norden, der Osten.",
-    "t": 200.09
+    "t": 183.23
    },
    {
     "speaker": "Tom",
     "text": "Es gibt städtische Projekte und sogar Naturparks, die schöne Regionen schützen und sie zugleich lebendig halten.",
-    "t": 208.79
+    "t": 190.7
    },
    {
     "speaker": "Anna",
     "text": "Und weil Luxemburg klein und zentral gelegen ist, hört die Planung nicht an der Grenze auf.",
-    "t": 216.01
+    "t": 197.44
    },
    {
     "speaker": "Tom",
-    "text": "Richtig.",
-    "t": 222.54
-   },
-   {
-    "speaker": "Tom",
-    "text": "So viel vom Leben hier überschreitet Grenzen... Arbeit, Verkehr, der Druck auf den Wohnungsmarkt.",
-    "t": 224.18
+    "text": "Richtig. So viel vom Leben hier überschreitet Grenzen... Arbeit, Verkehr, der Druck auf den Wohnungsmarkt.",
+    "t": 202.51
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg plant also gemeinsam mit seinen Nachbarn, in der Großregion, und über europäische Programme.",
-    "t": 231.56
+    "t": 210.76
    },
    {
     "speaker": "Tom",
     "text": "Denn eine Straßenbahnlinie, ein Wald oder ein Fluss kümmert sich nicht um eine Grenze auf einer Karte.",
-    "t": 239.06
+    "t": 217.18
    },
    {
     "speaker": "Anna",
     "text": "Stellen wir die entscheidende Frage... warum sollte sich ein gewöhnlicher Einwohner um all das kümmern?",
-    "t": 245.79
+    "t": 223.64
    },
    {
     "speaker": "Tom",
     "text": "Erstens, weil es Ihr tägliches Leben prägt... Ihren Arbeitsweg, Ihre Grünflächen, ob in Ihrer Nähe Wohnraum gebaut wird.",
-    "t": 252.3
+    "t": 230.12
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, weil es das schützt, was wir lieben... Landschaften, Natur, den Charakter unserer Städte und Dörfer.",
-    "t": 261.16
+    "t": 238.2
    },
    {
     "speaker": "Tom",
     "text": "Und drittens, weil es um Gerechtigkeit zwischen den Generationen geht... unseren Kindern ein lebenswertes Land zu hinterlassen.",
-    "t": 270.09
+    "t": 246.14
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch eine Rolle für die Bürger.",
-    "t": 277.91
+    "t": 253.31
    },
    {
     "speaker": "Anna",
     "text": "Große Pläne durchlaufen oft eine öffentliche Konsultation.",
-    "t": 281.02
+    "t": 255.41
    },
    {
     "speaker": "Tom",
     "text": "Sie können sich also informieren und manchmal Ihre Meinung äußern, wenn ein Plan Ihre Gegend betrifft.",
-    "t": 285.79
+    "t": 259.1
    },
    {
     "speaker": "Anna",
     "text": "Das Portal veröffentlicht die Pläne, die Strategie und die Neuigkeiten, offen zugänglich.",
-    "t": 292.37
+    "t": 264.77
    },
    {
     "speaker": "Tom",
     "text": "Also Tom, machen wir es praktisch.",
-    "t": 299.08
+    "t": 270.3
    },
    {
     "speaker": "Tom",
     "text": "Was können die Menschen daraus mitnehmen?",
-    "t": 302.27
+    "t": 272.75
    },
    {
     "speaker": "Anna",
     "text": "Erstens, wenn Sie von einer neuen Wohnzone, einem Verkehrsplan oder einem Schutzgebiet hören, werden Sie das größere Bild verstehen.",
-    "t": 305.4
+    "t": 275.02
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, wenn ein Plan Ihre Gemeinde betrifft, achten Sie auf öffentliche Konsultationen und sagen Sie Ihre Meinung.",
-    "t": 314.53
+    "t": 283.42
    },
    {
     "speaker": "Anna",
     "text": "Drittens, denken Sie daran, dass das Ziel das Gleichgewicht ist... Wohnungen, Arbeitsplätze, Verkehr und Natur, die alle zusammen bestehen.",
-    "t": 322.04
+    "t": 290.47
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir es zusammen.",
-    "t": 332.81
+    "t": 299.83
    },
    {
     "speaker": "Tom",
     "text": "Was sollten sich die Menschen über die Raumordnung merken?",
-    "t": 335.23
+    "t": 301.27
    },
    {
     "speaker": "Anna",
     "text": "Erstens... so planen der Staat und die Gemeinden langfristig die Nutzung des begrenzten Bodens Luxemburgs.",
-    "t": 339.09
+    "t": 304.13
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... sie nutzt eine nationale Strategie und sektorale Pläne für Verkehr, Wohnen, Wirtschaft und Landschaften.",
-    "t": 346.36
+    "t": 311.07
    },
    {
     "speaker": "Anna",
     "text": "Drittens... sie wirkt über Regionen und über Grenzen hinweg, weil das Leben hier es auch tut.",
-    "t": 354.24
+    "t": 318.92
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... sie prägt Ihr tägliches Umfeld, deshalb lohnt es sich, sie zu verfolgen und sich daran zu beteiligen.",
-    "t": 360.84
+    "t": 325.06
    },
    {
     "speaker": "Anna",
     "text": "Das Land, das wir weitergeben, ist kein Zufall.",
-    "t": 368.46
+    "t": 332.57
    },
    {
     "speaker": "Anna",
     "text": "Es ist die Summe unzähliger sorgfältiger Entscheidungen über den Boden.",
-    "t": 372.74
+    "t": 335.44
    },
    {
     "speaker": "Tom",
     "text": "Und gute Planung ist die Art und Weise, wie wir diese Entscheidungen klug treffen, gemeinsam.",
-    "t": 377.74
+    "t": 339.66
    },
    {
     "speaker": "Anna",
-    "text": "Vielen Dank, dass Sie heute zugehört haben.",
-    "t": 383.87
-   },
-   {
-    "speaker": "Tom",
-    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
-    "t": 387.51
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 391.33
+    "text": "Das war unsere Folge über die Raumplanung.",
+    "t": 344.92
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 392.9
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 347.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 356.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 374.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 380.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 382.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 387.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 388.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 391.7
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm zréck! Et ass schéin, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien alleguerten!",
-    "t": 5.62
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen ze verstoen, wéi d'Land funktionéiert.",
-    "t": 7.66
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An dat hautegt Thema preegt d'Land, dat Dir all Dag ronderëm Iech gesitt... de Buedem.",
-    "t": 22.01
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Wou nei Wunnengen gebaut ginn, wou Stroossen an Tramen lafen, wou d'Natur geschützt gëtt, wou Betriber sech néierloosse kënnen.",
-    "t": 26.82
+    "t": 32.39
    },
    {
     "speaker": "Tom",
     "text": "Lëtzebuerg ass e klengt Land. De Buedem ass wäertvoll, an et gëtt der nëmme begrenzt vill.",
-    "t": 33.62
+    "t": 39.49
    },
    {
     "speaker": "Anna",
     "text": "Wéi entscheet ee also, wat wouhin kënnt, gerecht, fir jiddereen, a fir d'Zukunft?",
-    "t": 40.17
+    "t": 44.17
    },
    {
     "speaker": "Tom",
     "text": "Dëse suergfälteg Gläichgewiichtsakt huet en Numm... Landesplanung. Op Franséisch „l'aménagement du territoire\".",
-    "t": 45.65
+    "t": 48.87
    },
    {
     "speaker": "Anna",
     "text": "An et gëtt en offiziellt Portal dofir, an eng Departement vum Staat, déi et leet.",
-    "t": 53.36
+    "t": 55.18
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat ass Landesplanung genee?",
-    "t": 58.29
+    "t": 60.17
    },
    {
     "speaker": "Anna",
     "text": "Et ass d'Gesamtheet vun den Aktiounen, déi de Staat an d'Gemengen huelen, fir den nationale Territoire klug z'entwéckelen.",
-    "t": 61.95
+    "t": 62.57
    },
    {
     "speaker": "Tom",
     "text": "A bei deem, datt een d'Landschaften schützt, de Buedem rational benotzt, an all déi verschidde Besoinen un Terrain ofstëmmt.",
-    "t": 68.39
+    "t": 69.03
    },
    {
     "speaker": "Anna",
     "text": "Wunnen brauch Buedem. Transport brauch Buedem. D'Wirtschaft brauch Buedem. D'Natur brauch och Plaz.",
-    "t": 74.88
+    "t": 75.45
    },
    {
     "speaker": "Tom",
     "text": "A ouni Planung géifen dës Besoinen openee prallen, an d'Land géif op eng chaotesch, schiedlech Manéier wuessen.",
-    "t": 84.42
+    "t": 82.35
    },
    {
     "speaker": "Anna",
     "text": "Landesplanung ass also wéi e Schiedsriichter, an en Architekt, fir d'ganzt Land.",
-    "t": 90.12
+    "t": 88.36
    },
    {
     "speaker": "Tom",
     "text": "Si gëtt vun der Departement fir Landesplanung geleet, déi zum Ministère fir Wunnengsbau a Landesplanung gehéiert.",
-    "t": 95.61
+    "t": 93.2
    },
    {
     "speaker": "Anna",
     "text": "Kucke mer eis déi wichtegst Instrumenter un, well se méi einfach ze verstoe sinn, wéi hiren Numm vermutte léisst.",
-    "t": 101.63
+    "t": 98.53
    },
    {
     "speaker": "Tom",
-    "text": "Dat éischt ass de Leitprogramm, eng grouss strategesch Visioun dervun, wéi d'ganzt Land sech entwéckele soll.",
-    "t": 106.42
+    "text": "Dat éischt ass de Leitprogramm, eng grouss strategesch Visioun dervun, wéi d'ganzt Land sech entwéckele soll. Den aktuellen ass 2023 ugeholl ginn, a kuckt bis 2035.",
+    "t": 103.4
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt d'Richtung un... méi kompakt Stied, geschützt Natur, gudden Transport, ausgewune Regiounen.",
-    "t": 112.35
+    "t": 113.42
    },
    {
     "speaker": "Tom",
     "text": "Dat zweet Instrument ass eng Rei vu sektorale Leitpläng.",
-    "t": 119.51
+    "t": 120.24
    },
    {
     "speaker": "Anna",
     "text": "Dës si méi konkret. Et gëtt Pläng fir den Transport, fir d'Wunnen, fir wirtschaftlech Aktivitéitszonen, a fir d'Landschaften.",
-    "t": 123.41
+    "t": 123.22
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispill reservéiert e Wunnengsplang Terrain, wou nei Wunnenge sollte konzentréiert ginn.",
-    "t": 132.29
+    "t": 130.78
    },
    {
     "speaker": "Anna",
     "text": "An e Landschaftsplang schützt gréng Flächen dervun, datt se bebaut ginn.",
-    "t": 137.65
+    "t": 135.13
    },
    {
     "speaker": "Tom",
     "text": "Dës Pläng entscheeden also op eng koordinéiert Manéier, wofir de Buedem geduecht ass.",
-    "t": 142.02
+    "t": 138.92
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt hei eng wichteg Iddi... do bauen, wou et Sënn mécht.",
-    "t": 146.79
+    "t": 142.48
    },
    {
     "speaker": "Tom",
     "text": "Jo. Wunnen an Aktivitéit no beim Transport an de Servicer konzentréieren, amplaz iwwerall ze verbreeden.",
-    "t": 150.97
+    "t": 146.52
    },
    {
     "speaker": "Anna",
     "text": "Dat schützt d'Land, reduzéiert de Verkéier, a mécht den Alldag méi einfach.",
-    "t": 158.56
+    "t": 153.15
    },
    {
     "speaker": "Tom",
     "text": "Landesplanung denkt och a Regiounen, net nëmmen am ganze Land.",
-    "t": 164.16
+    "t": 158.03
    },
    {
     "speaker": "Anna",
     "text": "Verschidde Regiounen hu verschidde Stäerkten a Besoinen... de Süden, d'Zentrum, den Norden, den Osten.",
-    "t": 168.75
+    "t": 161.9
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt urban Projeten, a souguer Naturparken, déi schéi Regiounen schützen a se zugläich lieweg halen.",
-    "t": 175.22
+    "t": 167.63
    },
    {
     "speaker": "Anna",
     "text": "A well Lëtzebuerg kleng an zentral ass, hält d'Planung net un der Grenz op.",
-    "t": 181.61
+    "t": 173.73
    },
    {
     "speaker": "Tom",
     "text": "Richteg. Sou vill vum Liewen hei iwwerschreit Grenzen... d'Aarbecht, den Transport, den Drock um Wunnengsmaart.",
-    "t": 186.68
+    "t": 178.58
    },
    {
     "speaker": "Anna",
     "text": "Lëtzebuerg plangt also zesumme mat senge Noperen, an der Groussregioun, an iwwer europäesch Programmer.",
-    "t": 193.47
+    "t": 183.51
    },
    {
     "speaker": "Tom",
     "text": "Well eng Tramslinn, e Bësch, oder e Floss këmmert sech net ëm eng Grenz op enger Kaart.",
-    "t": 200.06
+    "t": 189.67
    },
    {
     "speaker": "Anna",
     "text": "Stelle mer déi entscheedend Fro... firwat sollt sech en normalen Awunner ëm dat alles këmmeren?",
-    "t": 205.39
+    "t": 194.27
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, well et Ären Alldag preegt... Äre Wee op d'Aarbecht, Är gréng Flächen, ob no bei Iech Wunnraum gebaut gëtt.",
-    "t": 210.55
+    "t": 199.42
    },
    {
     "speaker": "Anna",
     "text": "Als zweet, well et dat schützt, wat mir gär hunn... Landschaften, Natur, de Charakter vun eise Stied an Dierfer.",
-    "t": 217.21
+    "t": 206.27
    },
    {
     "speaker": "Tom",
     "text": "An als drëtt, well et ëm Gerechtegkeet tëscht de Generatioune geet... eise Kanner e liewenswäert Land ze hannerloossen.",
-    "t": 224.29
+    "t": 214.93
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och eng Roll fir d'Bierger. Grouss Pläng ginn dacks duerch eng ëffentlech Konsultatioun.",
-    "t": 230.6
+    "t": 221.45
    },
    {
     "speaker": "Tom",
     "text": "Dir kënnt Iech also informéieren, a heiansdo Är Meenung soen, wann e Plang Är Géigend betrëfft.",
-    "t": 237.19
+    "t": 226.68
    },
    {
     "speaker": "Anna",
     "text": "D'Portal publizéiert d'Pläng, d'Strategie, an d'Neiegkeeten, op eng oppe Manéier.",
-    "t": 242.66
+    "t": 231.66
    },
    {
     "speaker": "Tom",
     "text": "Also Tom, maache mer et praktesch. Wat kënnen d'Leit dovun ophuelen?",
-    "t": 247.81
+    "t": 236.98
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, wann Dir vun enger neier Wunnzon, engem Transportplang, oder enger geschützter Zon héiert, da versteet Dir dat gréissert Bild.",
-    "t": 253.71
+    "t": 240.9
    },
    {
     "speaker": "Tom",
     "text": "Als zweet, wann e Plang Är Gemeng betrëfft, passt op ëffentlech Konsultatiounen op a sot Är Meenung.",
-    "t": 261.55
+    "t": 248.79
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt, denkt drun, datt d'Zil d'Gläichgewiicht ass... Wunnengen, Aarbechtsplazen, Transport an Natur, déi all zesumme liewen.",
-    "t": 267.26
+    "t": 254.2
    },
    {
     "speaker": "Tom",
     "text": "Faasse mer et zesummen. Wat sollten d'Leit sech iwwert d'Landesplanung mierken?",
-    "t": 274.57
+    "t": 261.88
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... sou plangen de Staat an d'Gemengen op laang Siicht d'Notzung vum begrenzte Buedem vu Lëtzebuerg.",
-    "t": 280.52
+    "t": 266.02
    },
    {
     "speaker": "Tom",
     "text": "Als zweet... si benotzt eng national Strategie a sektoral Pläng fir Transport, Wunnen, Wirtschaft a Landschaften.",
-    "t": 286.94
+    "t": 272.33
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt... si schafft iwwer Regiounen an iwwer Grenzen ewech, well d'Liewen hei et och mécht.",
-    "t": 294
+    "t": 279.35
    },
    {
     "speaker": "Tom",
     "text": "An als véiert... si preegt Ären deeglechen Ëmfeld, dofir lount et sech, se ze verfollegen a matzemaachen.",
-    "t": 299.48
+    "t": 284.33
    },
    {
     "speaker": "Anna",
     "text": "D'Land, dat mir weiderginn, ass kee Zoufall. Et ass d'Zomm vun ongeziilte suergfältege Choixen iwwert de Buedem.",
-    "t": 304.99
+    "t": 289.56
    },
    {
     "speaker": "Tom",
     "text": "A gutt Planung ass d'Manéier, wéi mir dës Choixe klug treffen, zesummen.",
-    "t": 312.09
+    "t": 296.05
    },
    {
     "speaker": "Anna",
-    "text": "Villmools Merci, datt Dir haut nogelauschtert hutt.",
-    "t": 316.4
+    "text": "Dat war eis Episod iwwer d'Landesplanung. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 299.62
    },
    {
     "speaker": "Tom",
-    "text": "Passt op Iech op, a bis an déi nächst Episod. Äddi!",
-    "t": 319.35
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 343.23
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 324.5
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 346.43
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 31,
@@ -80292,7 +80553,7 @@ const EPISODES = [
   "title": "The Accident Insurance (AAA) – Cover If You Are Hurt at Work or School",
   "description": "What the Association d'assurance accident (AAA) is — Luxembourg's public accident insurance — what it covers (accidents at work, commuting accidents, school accidents and occupational diseases), the care and compensation it provides, how it is funded with a bonus-malus system, its work on prevention, and how accidents are declared.",
   "audio": "podcast_aaa.mp3",
-  "duration": 327.98,
+  "duration": 351.37,
   "topics": [
    "What the AAA is",
    "Accidents at work & commuting",
@@ -80306,368 +80567,393 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's good to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.38
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.42
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.52
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to know their rights and protections.",
-    "t": 14.34
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today's topic is reassuring to understand before you ever need it... what happens if you get hurt at work, or on the way there.",
-    "t": 21.69
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Or even if your child has an accident at school.",
-    "t": 28.98
+    "t": 35.19
    },
    {
     "speaker": "Tom",
     "text": "For all of that, Luxembourg has a special part of its social security... the Accident Insurance Association.",
-    "t": 32.53
+    "t": 38.04
    },
    {
     "speaker": "Anna",
     "text": "People know it by its initials in French... AAA, the Association d'assurance accident.",
-    "t": 39.33
+    "t": 44.98
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what exactly is the AAA?",
-    "t": 46.1
+    "t": 51.62
    },
    {
     "speaker": "Anna",
     "text": "It is the body that runs Luxembourg's insurance against accidents at work, and occupational diseases.",
-    "t": 49.68
+    "t": 53.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "It was created back in 1902.",
+    "t": 59.91
    },
    {
     "speaker": "Tom",
     "text": "It's part of the social security system.",
-    "t": 56.21
+    "t": 62.94
    },
    {
     "speaker": "Tom",
     "text": "So it's public, and it's there for you automatically.",
-    "t": 59.58
+    "t": 65.1
    },
    {
     "speaker": "Anna",
     "text": "Let's be clear about what it covers, because it's broader than people think.",
-    "t": 63.55
+    "t": 68.38
    },
    {
     "speaker": "Tom",
     "text": "The first is the accident at work itself... something that happens to you while doing your job.",
-    "t": 68.39
+    "t": 72.94
    },
    {
     "speaker": "Anna",
     "text": "The second is the commuting accident... an accident on your normal way to or from work.",
-    "t": 73.9
+    "t": 78.21
    },
    {
     "speaker": "Tom",
     "text": "So even before you arrive at the office, you're protected on that journey.",
-    "t": 79.41
+    "t": 83.77
    },
    {
     "speaker": "Anna",
     "text": "The third is accidents at school, and around school activities, for pupils and students.",
-    "t": 84.12
+    "t": 87.97
    },
    {
     "speaker": "Tom",
     "text": "So a child who is injured during school is covered too.",
-    "t": 90.38
+    "t": 93.33
    },
    {
     "speaker": "Tom",
     "text": "That's a real comfort for parents.",
-    "t": 94.24
+    "t": 96.65
    },
    {
     "speaker": "Anna",
     "text": "And the fourth is occupational diseases... illnesses caused by your work over time.",
-    "t": 97.13
+    "t": 98.6
    },
    {
     "speaker": "Tom",
     "text": "For example, certain conditions linked to particular jobs or exposures.",
-    "t": 102.55
+    "t": 103.64
    },
    {
     "speaker": "Anna",
     "text": "Now, the big question.",
-    "t": 107.72
+    "t": 107.96
    },
    {
     "speaker": "Anna",
     "text": "If something happens, what does the AAA actually do for you?",
-    "t": 110.34
+    "t": 109.45
    },
    {
     "speaker": "Tom",
     "text": "It takes care of the costs and the consequences of the accident.",
-    "t": 114.69
+    "t": 113.43
    },
    {
     "speaker": "Anna",
     "text": "That can include your medical care, and the costs of getting better.",
-    "t": 119.06
+    "t": 116.69
    },
    {
     "speaker": "Tom",
     "text": "If you can't work for a while, or if there are lasting effects, there can be financial compensation.",
-    "t": 123.55
+    "t": 120.69
    },
    {
     "speaker": "Anna",
     "text": "And in the most serious cases, including the loss of a life, there is support for the family.",
-    "t": 129.44
+    "t": 126.42
    },
    {
     "speaker": "Tom",
     "text": "So the AAA cushions the blow, so that an accident doesn't also become a financial disaster.",
-    "t": 135.56
+    "t": 132.4
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about how it's paid for, because that's interesting.",
-    "t": 141.76
+    "t": 138.01
    },
    {
     "speaker": "Tom",
     "text": "The insurance is funded mainly by employers, through contributions.",
-    "t": 146.11
+    "t": 141.19
    },
    {
     "speaker": "Anna",
     "text": "And there is a bonus-malus system... companies with fewer accidents can pay less.",
-    "t": 150.78
+    "t": 145.18
    },
    {
     "speaker": "Tom",
-    "text": "That's clever.",
-    "t": 156.17
-   },
-   {
-    "speaker": "Tom",
-    "text": "It rewards workplaces that take safety seriously.",
-    "t": 158.12
+    "text": "That's clever. It rewards workplaces that take safety seriously.",
+    "t": 150.47
    },
    {
     "speaker": "Anna",
     "text": "Which brings us to something just as important as paying out... preventing accidents in the first place.",
-    "t": 162.08
+    "t": 154.44
    },
    {
     "speaker": "Tom",
     "text": "The AAA does a lot on workplace safety and health.",
-    "t": 168.41
+    "t": 160.37
    },
    {
     "speaker": "Anna",
     "text": "It gives recommendations, training, and advice to help workplaces be safer.",
-    "t": 172.29
+    "t": 163.14
    },
    {
     "speaker": "Tom",
     "text": "There's even a vision behind it, sometimes called \"Vision Zero\"... aiming for zero serious and fatal accidents.",
-    "t": 177.75
+    "t": 168.21
    },
    {
     "speaker": "Anna",
     "text": "Because the best accident is the one that never happens.",
-    "t": 184.39
+    "t": 175.17
    },
    {
     "speaker": "Tom",
     "text": "Now let's make this practical.",
-    "t": 188.28
+    "t": 178.47
    },
    {
     "speaker": "Tom",
     "text": "What should you actually do if an accident happens?",
-    "t": 190.99
+    "t": 180.02
    },
    {
     "speaker": "Anna",
     "text": "The key thing is that the accident must be declared to the AAA.",
-    "t": 194.54
+    "t": 183.2
    },
    {
     "speaker": "Tom",
     "text": "For accidents at work, your employer normally makes that declaration.",
-    "t": 198.94
+    "t": 188.36
    },
    {
     "speaker": "Anna",
-    "text": "And much of this can now be done electronically, through MyGuichet, which we covered in an earlier episode.",
-    "t": 203.75
+    "text": "And this can now be done electronically, through MyGuichet, which we covered in an earlier episode... both for accidents at work and for school accidents.",
+    "t": 192.34
    },
    {
     "speaker": "Tom",
     "text": "So the system is becoming simpler and faster.",
-    "t": 210.28
+    "t": 202.31
    },
    {
     "speaker": "Anna",
-    "text": "It's also worth knowing the AAA is there to answer questions, with a contact service and a counter.",
-    "t": 214.01
+    "text": "It's also worth knowing the AAA is there to answer questions, with a contact service and a counter... and you can even book an appointment online.",
+    "t": 204.92
    },
    {
     "speaker": "Tom",
     "text": "So you're not alone in figuring out a stressful situation.",
-    "t": 220.32
+    "t": 213.52
    },
    {
     "speaker": "Anna",
     "text": "Let's step back.",
-    "t": 224.47
+    "t": 217.02
    },
    {
     "speaker": "Anna",
     "text": "Why does this matter, even when life is going well?",
-    "t": 226.58
+    "t": 218.25
    },
    {
     "speaker": "Tom",
     "text": "Because accidents are, by definition, things we don't plan for.",
-    "t": 230.24
+    "t": 221.39
    },
    {
     "speaker": "Tom",
     "text": "And knowing you're covered brings peace of mind.",
-    "t": 234.93
+    "t": 225.4
    },
    {
     "speaker": "Anna",
     "text": "It means a worker, a commuter, or a child at school is protected, automatically, by society.",
-    "t": 238.17
+    "t": 228.02
    },
    {
     "speaker": "Tom",
     "text": "It's solidarity in action... we all contribute, so that anyone who is hurt is supported.",
-    "t": 245.03
+    "t": 234.84
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 250.72
+    "t": 240.59
    },
    {
     "speaker": "Anna",
     "text": "What should people take from this?",
-    "t": 253.09
+    "t": 242.04
    },
    {
     "speaker": "Tom",
     "text": "First, know that accidents at work, on the way to work, and at school are covered by the AAA.",
-    "t": 255.66
+    "t": 244.05
    },
    {
     "speaker": "Anna",
     "text": "Second, if an accident happens, make sure it's declared... usually your employer or the school helps with that.",
-    "t": 261.64
+    "t": 250.2
    },
    {
     "speaker": "Tom",
     "text": "Third, take prevention seriously.",
-    "t": 268.68
+    "t": 257.54
    },
    {
     "speaker": "Tom",
     "text": "The AAA's advice can help keep your workplace safe.",
-    "t": 271.83
+    "t": 259.93
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it together.",
-    "t": 275.83
+    "t": 263.11
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about the AAA?",
-    "t": 278.14
+    "t": 264.48
    },
    {
     "speaker": "Tom",
     "text": "First... it's Luxembourg's public accident insurance, part of social security.",
-    "t": 281.24
+    "t": 267.34
    },
    {
     "speaker": "Anna",
     "text": "Second... it covers accidents at work, commuting accidents, school accidents, and occupational diseases.",
-    "t": 286.82
+    "t": 271.83
    },
    {
     "speaker": "Tom",
     "text": "Third... it pays for care and compensation, and it works hard on prevention and workplace safety.",
-    "t": 294.46
+    "t": 279.58
    },
    {
     "speaker": "Anna",
     "text": "And fourth... accidents must be declared, increasingly through MyGuichet.",
-    "t": 300.41
+    "t": 286.1
    },
    {
     "speaker": "Tom",
     "text": "We hope you never need it.",
-    "t": 305.56
+    "t": 291
    },
    {
     "speaker": "Tom",
     "text": "But it's good to know it's there, quietly protecting you.",
-    "t": 308.05
+    "t": 292.39
    },
    {
     "speaker": "Anna",
     "text": "That's what social security is... a safety net we weave together, for one another.",
-    "t": 311.91
-   },
-   {
-    "speaker": "Tom",
-    "text": "Thank you so much for listening today.",
-    "t": 317.48
+    "t": 295.72
    },
    {
     "speaker": "Anna",
-    "text": "Take care, stay safe, and see you in the next episode.",
-    "t": 320.48
+    "text": "That was our episode about the accident insurance, the AAA.",
+    "t": 300.86
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 324.79
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 304.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 314.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 332.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 339.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 341.87
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 326.32
+    "text": "Thank you, everyone.",
+    "t": 346.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 347.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 349.76
    }
   ],
   "questions": [
@@ -80870,1036 +81156,1080 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_aaa_fr.mp3",
-  "duration_fr": 352.56,
+  "duration_fr": 344.76,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Nous sommes ravis de vous retrouver aujourd'hui.",
-    "t": 3.09
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.35
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 8.93
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme qui parle du vivre-ensemble au Luxembourg.",
-    "t": 12.39
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les frontaliers, à connaître leurs droits et leurs protections.",
-    "t": 16.36
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui est rassurant à comprendre avant même d'en avoir besoin... que se passe-t-il si vous vous blessez au travail, ou sur le chemin du travail ?",
-    "t": 23.63
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "Ou même si votre enfant a un accident à l'école.",
-    "t": 31.8
+    "t": 31.09
    },
    {
     "speaker": "Tom",
     "text": "Pour tout cela, le Luxembourg dispose d'une partie spéciale de sa sécurité sociale... l'Association d'assurance accident.",
-    "t": 35.33
+    "t": 33.49
    },
    {
     "speaker": "Anna",
     "text": "Les gens la connaissent par ses initiales en français... l'AAA, l'Association d'assurance accident.",
-    "t": 42.73
+    "t": 40.03
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qu'est-ce que l'AAA exactement ?",
-    "t": 48.9
+    "t": 45.78
    },
    {
     "speaker": "Anna",
     "text": "C'est l'organisme qui gère l'assurance du Luxembourg contre les accidents du travail et les maladies professionnelles.",
-    "t": 52.08
+    "t": 48.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle a été créée dès 1902.",
+    "t": 54.26
    },
    {
     "speaker": "Tom",
     "text": "Elle fait partie du système de sécurité sociale.",
-    "t": 58.76
+    "t": 56.37
    },
    {
     "speaker": "Tom",
     "text": "Elle est donc publique, et elle est là pour vous automatiquement.",
-    "t": 62.38
+    "t": 59.04
    },
    {
     "speaker": "Anna",
     "text": "Soyons clairs sur ce qu'elle couvre, car c'est plus large qu'on ne le pense.",
-    "t": 66.04
+    "t": 62.43
    },
    {
     "speaker": "Tom",
     "text": "Le premier, c'est l'accident du travail lui-même... quelque chose qui vous arrive pendant que vous faites votre travail.",
-    "t": 70.68
+    "t": 65.91
    },
    {
     "speaker": "Anna",
     "text": "Le deuxième, c'est l'accident de trajet... un accident sur votre trajet habituel pour aller au travail ou en revenir.",
-    "t": 77.12
+    "t": 71.74
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, même avant d'arriver au bureau, vous êtes protégé sur ce trajet.",
-    "t": 84.56
+    "t": 77.98
    },
    {
     "speaker": "Anna",
     "text": "Le troisième, ce sont les accidents à l'école, et autour des activités scolaires, pour les élèves et les étudiants.",
-    "t": 89.43
+    "t": 81.72
    },
    {
     "speaker": "Tom",
     "text": "Donc un enfant qui se blesse pendant l'école est couvert aussi.",
-    "t": 96.85
+    "t": 87.16
    },
    {
     "speaker": "Tom",
     "text": "C'est un véritable réconfort pour les parents.",
-    "t": 100.62
+    "t": 90.5
    },
    {
     "speaker": "Anna",
     "text": "Et le quatrième, ce sont les maladies professionnelles... des maladies causées par votre travail au fil du temps.",
-    "t": 103.86
+    "t": 93
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, certaines affections liées à des métiers ou à des expositions particulières.",
-    "t": 110.5
+    "t": 98.55
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, la grande question.",
-    "t": 115.85
+    "t": 103.6
    },
    {
     "speaker": "Anna",
     "text": "Si quelque chose arrive, que fait réellement l'AAA pour vous ?",
-    "t": 118.72
+    "t": 105.19
    },
    {
     "speaker": "Tom",
     "text": "Elle prend en charge les coûts et les conséquences de l'accident.",
-    "t": 122.56
+    "t": 108.57
    },
    {
     "speaker": "Anna",
     "text": "Cela peut inclure vos soins médicaux, et les frais pour vous rétablir.",
-    "t": 126.15
+    "t": 111.85
    },
    {
     "speaker": "Tom",
     "text": "Si vous ne pouvez pas travailler pendant un certain temps, ou s'il y a des séquelles durables, il peut y avoir une compensation financière.",
-    "t": 130.84
+    "t": 115.34
    },
    {
     "speaker": "Anna",
     "text": "Et dans les cas les plus graves, y compris la perte d'une vie, il y a un soutien pour la famille.",
-    "t": 138.5
+    "t": 122.21
    },
    {
     "speaker": "Tom",
     "text": "L'AAA amortit donc le choc, pour qu'un accident ne devienne pas aussi une catastrophe financière.",
-    "t": 144.19
+    "t": 127.17
    },
    {
     "speaker": "Anna",
     "text": "Parlons de la façon dont elle est financée, car c'est intéressant.",
-    "t": 150.27
+    "t": 133.51
    },
    {
     "speaker": "Tom",
     "text": "L'assurance est financée principalement par les employeurs, à travers des cotisations.",
-    "t": 154.62
+    "t": 136.77
    },
    {
     "speaker": "Anna",
     "text": "Et il y a un système de bonus-malus... les entreprises qui ont moins d'accidents peuvent payer moins.",
-    "t": 159.95
+    "t": 141.53
    },
    {
     "speaker": "Tom",
-    "text": "C'est ingenieux.",
-    "t": 165.73
-   },
-   {
-    "speaker": "Tom",
-    "text": "Cela récompense les lieux de travail qui prennent la sécurité au sérieux.",
-    "t": 167.66
+    "text": "C'est ingenieux. Cela récompense les lieux de travail qui prennent la sécurité au sérieux.",
+    "t": 147.02
    },
    {
     "speaker": "Anna",
     "text": "Ce qui nous amène à quelque chose d'aussi important que l'indemnisation... prévenir les accidents dès le départ.",
-    "t": 172.01
+    "t": 152.1
    },
    {
     "speaker": "Tom",
     "text": "L'AAA fait beaucoup pour la sécurité et la santé au travail.",
-    "t": 178.49
+    "t": 157.43
    },
    {
     "speaker": "Anna",
     "text": "Elle donne des recommandations, des formations et des conseils pour aider les lieux de travail à être plus sûrs.",
-    "t": 182.49
+    "t": 160.96
    },
    {
     "speaker": "Tom",
     "text": "Il y a même une vision derrière tout cela, parfois appelée « Vision Zero »... viser zéro accident grave ou mortel.",
-    "t": 188.95
+    "t": 166.14
    },
    {
     "speaker": "Anna",
     "text": "Parce que le meilleur accident est celui qui n'arrive jamais.",
-    "t": 195.77
+    "t": 172.99
    },
    {
     "speaker": "Tom",
     "text": "Maintenant, rendons cela concret.",
-    "t": 199.48
+    "t": 175.76
    },
    {
     "speaker": "Tom",
     "text": "Que devriez-vous réellement faire si un accident survient ?",
-    "t": 202.52
+    "t": 177.76
    },
    {
     "speaker": "Anna",
     "text": "L'essentiel, c'est que l'accident doit être déclaré à l'AAA.",
-    "t": 205.98
+    "t": 181.02
    },
    {
     "speaker": "Tom",
     "text": "Pour les accidents du travail, c'est normalement votre employeur qui fait cette déclaration.",
-    "t": 210.42
+    "t": 184.63
    },
    {
     "speaker": "Anna",
-    "text": "Et une grande partie de cela peut désormais se faire par voie électronique, via MyGuichet, dont nous avons parlé dans un épisode précédent.",
-    "t": 215.55
+    "text": "Et cela peut désormais se faire par voie électronique, via MyGuichet, dont nous avons parlé dans un épisode précédent... aussi bien pour les accidents du travail que pour les accidents scolaires.",
+    "t": 189.31
    },
    {
     "speaker": "Tom",
     "text": "Le système devient donc plus simple et plus rapide.",
-    "t": 223.55
+    "t": 198.39
    },
    {
     "speaker": "Anna",
-    "text": "Il est aussi bon de savoir que l'AAA est là pour répondre aux questions, avec un service de contact et un guichet.",
-    "t": 227.04
+    "text": "Il est aussi bon de savoir que l'AAA est là pour répondre aux questions, avec un service de contact et un guichet... et on peut même prendre rendez-vous en ligne.",
+    "t": 201.39
    },
    {
     "speaker": "Tom",
     "text": "Vous n'êtes donc pas seul pour gérer une situation stressante.",
-    "t": 233.43
+    "t": 209.26
    },
    {
     "speaker": "Anna",
     "text": "Prenons un peu de recul.",
-    "t": 237.41
+    "t": 212.62
    },
    {
     "speaker": "Anna",
     "text": "Pourquoi est-ce important, même quand la vie se passe bien ?",
-    "t": 239.82
+    "t": 214
    },
    {
     "speaker": "Tom",
     "text": "Parce que les accidents sont, par définition, des choses que nous ne prévoyons pas.",
-    "t": 243.53
+    "t": 216.53
    },
    {
     "speaker": "Tom",
     "text": "Et savoir que vous êtes couvert apporte une tranquillité d'esprit.",
-    "t": 248.82
+    "t": 220.77
    },
    {
     "speaker": "Anna",
     "text": "Cela signifie qu'un travailleur, un frontalier, ou un enfant à l'école est protégé, automatiquement, par la société.",
-    "t": 252.68
+    "t": 224.58
    },
    {
     "speaker": "Tom",
     "text": "C'est la solidarité en action... nous contribuons tous, pour que toute personne blessée soit soutenue.",
-    "t": 260.56
+    "t": 230.93
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 266.52
+    "t": 236.55
    },
    {
     "speaker": "Anna",
     "text": "Que devraient retenir les gens de tout cela ?",
-    "t": 268.85
+    "t": 237.85
    },
    {
     "speaker": "Tom",
     "text": "Premièrement, sachez que les accidents au travail, sur le chemin du travail, et à l'école sont couverts par l'AAA.",
-    "t": 271.8
+    "t": 239.94
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement, si un accident arrive, assurez-vous qu'il soit déclaré... d'habitude, votre employeur ou l'école vous y aide.",
-    "t": 278.48
+    "t": 246.59
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, prenez la prévention au sérieux.",
-    "t": 286.39
+    "t": 253.1
    },
    {
     "speaker": "Tom",
     "text": "Les conseils de l'AAA peuvent aider à garder votre lieu de travail en sécurité.",
-    "t": 289.83
+    "t": 255.75
    },
    {
     "speaker": "Anna",
-    "text": "Récapitulons.",
-    "t": 294.54
-   },
-   {
-    "speaker": "Anna",
-    "text": "Que devraient retenir les gens au sujet de l'AAA ?",
-    "t": 296.58
+    "text": "Récapitulons. Que devraient retenir les gens au sujet de l'AAA ?",
+    "t": 260.8
    },
    {
     "speaker": "Tom",
     "text": "Premièrement... c'est l'assurance accident publique du Luxembourg, qui fait partie de la sécurité sociale.",
-    "t": 299.8
+    "t": 265.04
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... elle couvre les accidents du travail, les accidents de trajet, les accidents à l'école et les maladies professionnelles.",
-    "t": 306.06
+    "t": 270.76
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... elle paie les soins et l'indemnisation, et elle travaille beaucoup sur la prévention et la sécurité au travail.",
-    "t": 314.15
+    "t": 277.79
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... les accidents doivent être déclarés, de plus en plus via MyGuichet.",
-    "t": 320.96
+    "t": 284.46
    },
    {
     "speaker": "Tom",
     "text": "Nous espérons que vous n'en aurez jamais besoin.",
-    "t": 326.63
+    "t": 289.14
    },
    {
     "speaker": "Tom",
     "text": "Mais c'est bon de savoir qu'elle est là, à vous protéger discrètement.",
-    "t": 329.71
+    "t": 291.41
    },
    {
     "speaker": "Anna",
     "text": "C'est cela, la sécurité sociale... un filet de sécurité que nous tissons ensemble, les uns pour les autres.",
-    "t": 333.91
-   },
-   {
-    "speaker": "Tom",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 340.91
+    "t": 295.13
    },
    {
     "speaker": "Anna",
-    "text": "Prenez soin de vous, restez prudents, et à bientôt dans le prochain épisode.",
-    "t": 344.15
+    "text": "C'était notre épisode sur l'assurance accident, l'AAA.",
+    "t": 300.82
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 349.41
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 303.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 312.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 328.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 333.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 334.93
    },
    {
     "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 351.03
+    "text": "Merci à tous.",
+    "t": 339.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 340.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 343
    }
   ],
   "audio_de": "podcast_aaa_de.mp3",
-  "duration_de": 390.6,
+  "duration_de": 384.89,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Schön, dass Sie heute dabei sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.35
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.42
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 11.81
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnerinnen und Einwohnern, und auch den Grenzgängern, helfen, ihre Rechte und ihren Schutz zu kennen.",
-    "t": 16.19
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema ist beruhigend zu verstehen, noch bevor Sie es jemals brauchen... was passiert, wenn Sie sich bei der Arbeit oder auf dem Weg dorthin verletzen?",
-    "t": 25.78
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Oder sogar, wenn Ihr Kind in der Schule einen Unfall hat.",
-    "t": 35.36
+    "t": 36.64
    },
    {
     "speaker": "Tom",
     "text": "Für all das hat Luxemburg einen besonderen Teil seiner Sozialversicherung... die Unfallversicherung.",
-    "t": 39.84
+    "t": 40.05
    },
    {
     "speaker": "Anna",
     "text": "Man kennt sie unter ihrem französischen Kürzel... AAA, die Association d'assurance accident.",
-    "t": 46.13
+    "t": 46.26
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was genau ist die AAA?",
-    "t": 53.52
+    "t": 53.79
    },
    {
     "speaker": "Anna",
     "text": "Sie ist die Einrichtung, die Luxemburgs Versicherung gegen Arbeitsunfälle und Berufskrankheiten verwaltet.",
-    "t": 56.96
+    "t": 56.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie wurde schon 1902 gegründet.",
+    "t": 62.33
    },
    {
     "speaker": "Tom",
     "text": "Sie ist Teil des Sozialversicherungssystems.",
-    "t": 64.34
+    "t": 65.16
    },
    {
     "speaker": "Tom",
     "text": "Sie ist also öffentlich, und sie ist automatisch für Sie da.",
-    "t": 67.78
+    "t": 67.99
    },
    {
     "speaker": "Anna",
     "text": "Lassen Sie uns klarstellen, was sie abdeckt, denn es ist breiter, als man denkt.",
-    "t": 72.13
+    "t": 71.52
    },
    {
     "speaker": "Tom",
     "text": "Das Erste ist der Arbeitsunfall selbst... etwas, das Ihnen passiert, während Sie Ihre Arbeit verrichten.",
-    "t": 78.08
+    "t": 75.8
    },
    {
     "speaker": "Anna",
     "text": "Das Zweite ist der Wegeunfall... ein Unfall auf Ihrem üblichen Weg zur Arbeit oder von der Arbeit nach Hause.",
-    "t": 85.68
+    "t": 82.43
    },
    {
     "speaker": "Tom",
     "text": "So sind Sie also schon vor Ihrer Ankunft im Büro auf diesem Weg geschützt.",
-    "t": 93.16
+    "t": 89.12
    },
    {
     "speaker": "Anna",
     "text": "Das Dritte sind Unfälle in der Schule, und im Umfeld schulischer Aktivitäten, für Schülerinnen, Schüler und Studierende.",
-    "t": 98.21
+    "t": 93.31
    },
    {
     "speaker": "Tom",
     "text": "Ein Kind, das sich während der Schule verletzt, ist also auch geschützt.",
-    "t": 106.74
+    "t": 100.27
    },
    {
     "speaker": "Tom",
     "text": "Das ist ein echter Trost für die Eltern.",
-    "t": 111.58
+    "t": 104.07
    },
    {
     "speaker": "Anna",
     "text": "Und das Vierte sind die Berufskrankheiten... Krankheiten, die mit der Zeit durch Ihre Arbeit verursacht werden.",
-    "t": 114.66
+    "t": 106.54
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel bestimmte Beschwerden, die mit bestimmten Berufen oder Belastungen zusammenhängen.",
-    "t": 122.68
+    "t": 112.87
    },
    {
     "speaker": "Anna",
     "text": "Nun die große Frage.",
-    "t": 128.59
+    "t": 118.27
    },
    {
     "speaker": "Anna",
     "text": "Wenn etwas passiert, was tut die AAA tatsächlich für Sie?",
-    "t": 131.03
+    "t": 119.73
    },
    {
     "speaker": "Tom",
     "text": "Sie übernimmt die Kosten und die Folgen des Unfalls.",
-    "t": 135.76
+    "t": 124.2
    },
    {
     "speaker": "Anna",
     "text": "Das kann Ihre medizinische Versorgung umfassen, und die Kosten für Ihre Genesung.",
-    "t": 139.44
+    "t": 127.31
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie eine Zeit lang nicht arbeiten können, oder wenn es bleibende Folgen gibt, kann es eine finanzielle Entschädigung geben.",
-    "t": 145.39
+    "t": 132.14
    },
    {
     "speaker": "Anna",
     "text": "Und in den schwersten Fällen, einschließlich des Verlusts eines Lebens, gibt es Unterstützung für die Familie.",
-    "t": 153.28
+    "t": 138.82
    },
    {
     "speaker": "Tom",
     "text": "Die AAA fängt also den Schlag ab, damit ein Unfall nicht auch noch zu einer finanziellen Katastrophe wird.",
-    "t": 160.54
+    "t": 144.84
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir darüber, wie sie finanziert wird, denn das ist interessant.",
-    "t": 167.38
+    "t": 151.28
    },
    {
     "speaker": "Tom",
     "text": "Die Versicherung wird hauptsächlich von den Arbeitgebern finanziert, durch Beiträge.",
-    "t": 172.82
+    "t": 155.1
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt ein Bonus-Malus-System... Unternehmen mit weniger Unfällen können weniger zahlen.",
-    "t": 178.46
+    "t": 159.86
    },
    {
     "speaker": "Tom",
     "text": "Das ist clever.",
-    "t": 185.79
+    "t": 165.7
    },
    {
     "speaker": "Tom",
     "text": "Es belohnt Arbeitsstätten, die die Sicherheit ernst nehmen.",
-    "t": 187.86
+    "t": 166.8
    },
    {
     "speaker": "Anna",
     "text": "Was uns zu etwas führt, das genauso wichtig ist wie das Auszahlen... Unfälle von vornherein zu verhindern.",
-    "t": 192.03
+    "t": 170.23
    },
    {
     "speaker": "Tom",
     "text": "Die AAA tut viel für die Sicherheit und Gesundheit am Arbeitsplatz.",
-    "t": 200.34
+    "t": 176.4
    },
    {
     "speaker": "Anna",
     "text": "Sie gibt Empfehlungen, Schulungen und Beratung, um Arbeitsstätten sicherer zu machen.",
-    "t": 205.16
+    "t": 180.78
    },
    {
     "speaker": "Tom",
     "text": "Es gibt sogar eine Vision dahinter, manchmal „Vision Zero\" genannt... das Ziel von null schweren und tödlichen Unfällen.",
-    "t": 211.31
+    "t": 185.71
    },
    {
     "speaker": "Anna",
     "text": "Denn der beste Unfall ist der, der nie passiert.",
-    "t": 218.95
+    "t": 193.31
    },
    {
     "speaker": "Tom",
     "text": "Machen wir es nun praktisch.",
-    "t": 223.12
+    "t": 196.28
    },
    {
     "speaker": "Tom",
     "text": "Was sollten Sie tatsächlich tun, wenn ein Unfall passiert?",
-    "t": 225.68
+    "t": 197.82
    },
    {
     "speaker": "Anna",
     "text": "Das Wichtigste ist, dass der Unfall der AAA gemeldet werden muss.",
-    "t": 230.05
+    "t": 201.04
    },
    {
     "speaker": "Tom",
     "text": "Bei Arbeitsunfällen macht normalerweise Ihr Arbeitgeber diese Meldung.",
-    "t": 235.05
+    "t": 205.02
    },
    {
     "speaker": "Anna",
-    "text": "Und vieles davon kann jetzt elektronisch erledigt werden, über MyGuichet, worüber wir in einer früheren Folge gesprochen haben.",
-    "t": 239.75
+    "text": "Und das kann jetzt elektronisch erledigt werden, über MyGuichet, worüber wir in einer früheren Folge gesprochen haben... sowohl für Arbeitsunfälle als auch für Schulunfälle.",
+    "t": 208.99
    },
    {
     "speaker": "Tom",
     "text": "Das System wird also einfacher und schneller.",
-    "t": 248.51
+    "t": 219.08
    },
    {
     "speaker": "Anna",
-    "text": "Es ist auch gut zu wissen, dass die AAA da ist, um Fragen zu beantworten, mit einem Kontaktservice und einem Schalter.",
-    "t": 251.9
+    "text": "Es ist auch gut zu wissen, dass die AAA da ist, um Fragen zu beantworten, mit einem Kontaktservice und einem Schalter... und man kann sogar online einen Termin buchen.",
+    "t": 221.76
    },
    {
     "speaker": "Tom",
     "text": "Sie sind also nicht allein, wenn Sie eine stressige Situation bewältigen müssen.",
-    "t": 260.32
+    "t": 231.54
    },
    {
     "speaker": "Anna",
     "text": "Treten wir einen Schritt zurück.",
-    "t": 265.67
+    "t": 235.88
    },
    {
     "speaker": "Anna",
     "text": "Warum ist das wichtig, selbst wenn das Leben gut läuft?",
-    "t": 268.34
+    "t": 237.65
    },
    {
     "speaker": "Tom",
     "text": "Weil Unfälle per Definition Dinge sind, die wir nicht einplanen.",
-    "t": 272.82
+    "t": 241.05
    },
    {
     "speaker": "Tom",
     "text": "Und zu wissen, dass Sie geschützt sind, bringt Seelenfrieden.",
-    "t": 277.57
+    "t": 244.98
    },
    {
     "speaker": "Anna",
     "text": "Es bedeutet, dass eine Arbeitnehmerin, ein Grenzgänger oder ein Kind in der Schule geschützt ist, automatisch, durch die Gesellschaft.",
-    "t": 281.84
+    "t": 248.53
    },
    {
     "speaker": "Tom",
     "text": "Das ist Solidarität in Aktion... wir alle tragen bei, damit jeder, der verletzt wird, unterstützt wird.",
-    "t": 291.36
+    "t": 256.78
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es praktisch.",
-    "t": 298.54
+    "t": 263.01
    },
    {
     "speaker": "Anna",
     "text": "Was sollten die Menschen daraus mitnehmen?",
-    "t": 300.96
+    "t": 264.5
    },
    {
     "speaker": "Tom",
     "text": "Erstens: Wissen Sie, dass Unfälle bei der Arbeit, auf dem Weg zur Arbeit und in der Schule von der AAA abgedeckt sind.",
-    "t": 304.26
+    "t": 266.9
    },
    {
     "speaker": "Anna",
     "text": "Zweitens: Wenn ein Unfall passiert, stellen Sie sicher, dass er gemeldet wird... in der Regel hilft Ihr Arbeitgeber oder die Schule dabei.",
-    "t": 312.02
+    "t": 274.99
    },
    {
     "speaker": "Tom",
     "text": "Drittens: Nehmen Sie die Prävention ernst.",
-    "t": 321.24
+    "t": 283.06
    },
    {
     "speaker": "Tom",
     "text": "Die Ratschläge der AAA können helfen, Ihren Arbeitsplatz sicher zu halten.",
-    "t": 324.7
+    "t": 286
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir es zusammen.",
-    "t": 329.83
+    "t": 290.58
    },
    {
     "speaker": "Anna",
     "text": "Woran sollten sich die Menschen bei der AAA erinnern?",
-    "t": 332.29
+    "t": 292.01
    },
    {
     "speaker": "Tom",
     "text": "Erstens... sie ist Luxemburgs öffentliche Unfallversicherung, Teil der Sozialversicherung.",
-    "t": 336.31
+    "t": 295.82
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... sie deckt Arbeitsunfälle, Wegeunfälle, Schulunfälle und Berufskrankheiten ab.",
-    "t": 342.37
+    "t": 301.6
    },
    {
     "speaker": "Tom",
     "text": "Drittens... sie bezahlt Versorgung und Entschädigung, und sie arbeitet intensiv an der Prävention und der Sicherheit am Arbeitsplatz.",
-    "t": 349.48
+    "t": 307.89
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... Unfälle müssen gemeldet werden, zunehmend über MyGuichet.",
-    "t": 357.79
+    "t": 316.11
    },
    {
     "speaker": "Tom",
     "text": "Wir hoffen, dass Sie sie nie brauchen.",
-    "t": 364.05
+    "t": 321.67
    },
    {
     "speaker": "Tom",
     "text": "Aber es ist gut zu wissen, dass sie da ist und Sie still beschützt.",
-    "t": 367.11
+    "t": 323.63
    },
    {
     "speaker": "Anna",
     "text": "Genau das ist die Sozialversicherung... ein Sicherheitsnetz, das wir gemeinsam knüpfen, füreinander.",
-    "t": 371.55
-   },
-   {
-    "speaker": "Tom",
-    "text": "Vielen Dank, dass Sie heute zugehört haben.",
-    "t": 378.73
+    "t": 327.6
    },
    {
     "speaker": "Anna",
-    "text": "Passen Sie auf sich auf, bleiben Sie sicher, und bis zur nächsten Folge.",
-    "t": 382.3
+    "text": "Das war unsere Folge über die Unfallversicherung, die AAA.",
+    "t": 333.87
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 387.54
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 338.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 347.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 366.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 371.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 374.11
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 389.03
+    "text": "Danke an alle.",
+    "t": 379
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 380.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 383.36
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm zréck! Schéin, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.38
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Frontalieren, hëllefen, hir Rechter an hire Schutz ze kennen.",
-    "t": 7.42
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An d'Thema vun haut ass berouegend ze verstoen, ier Dir et iwwerhaapt jeemools braucht... wat geschitt, wann Dir Iech op der Aarbecht, oder um Wee dohinner, blesséiert?",
-    "t": 21.69
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Oder souguer, wann Äert Kand an der Schoul en Accident huet.",
-    "t": 28.98
+    "t": 35.19
    },
    {
     "speaker": "Tom",
     "text": "Fir all dat huet Lëtzebuerg e besonneschen Deel vu senger Sozialversécherung... d'Accident-Versécherung.",
-    "t": 32.53
+    "t": 38.04
    },
    {
     "speaker": "Anna",
     "text": "D'Leit kennen se ënner hire franséischen Initialen... AAA, d'Association d'assurance accident.",
-    "t": 39.33
+    "t": 44.98
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat ass d'AAA genau?",
-    "t": 46.1
+    "t": 51.62
    },
    {
     "speaker": "Anna",
-    "text": "Et ass déi Instanz, déi Lëtzebuerg seng Versécherung géint Aarbechtsaccidenter a Beruffskrankheeten verwalt.",
-    "t": 49.68
+    "text": "Et ass déi Instanz, déi Lëtzebuerg seng Versécherung géint Aarbechtsaccidenter a Beruffskrankheeten verwalt. Si gouf schonn 1902 gegrënnt.",
+    "t": 53.61
    },
    {
     "speaker": "Tom",
     "text": "Si ass Deel vum Sozialversécherungssystem. Si ass also ëffentlech, a si ass automatesch fir Iech do.",
-    "t": 56.21
+    "t": 62.94
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer kloer soen, wat se ofdeckt, well et ass méi breet, wéi d'Leit mengen.",
-    "t": 63.55
+    "t": 68.38
    },
    {
     "speaker": "Tom",
     "text": "Dat éischt ass den Aarbechtsaccident selwer... eppes, wat Iech geschitt, während Dir Är Aarbecht maacht.",
-    "t": 68.39
+    "t": 72.94
    },
    {
     "speaker": "Anna",
     "text": "Dat zweet ass den Trajetsaccident... en Accident op Ärem normale Wee op d'Aarbecht oder zréck.",
-    "t": 73.9
+    "t": 78.21
    },
    {
     "speaker": "Tom",
     "text": "Also souguer ier Dir am Büro ukommt, sidd Dir op dësem Wee geschützt.",
-    "t": 79.41
+    "t": 83.77
    },
    {
     "speaker": "Anna",
     "text": "Dat drëtt sinn Accidenter an der Schoul, an ronderëm d'Schoulaktivitéiten, fir Schüler a Studenten.",
-    "t": 84.12
+    "t": 87.97
    },
    {
     "speaker": "Tom",
     "text": "Also e Kand, dat sech während der Schoul blesséiert, ass och ofgedeckt. Dat ass e richtegen Trouscht fir d'Elteren.",
-    "t": 90.38
+    "t": 93.33
    },
    {
     "speaker": "Anna",
     "text": "An dat véiert sinn d'Beruffskrankheeten... Krankheeten, déi mat der Zäit duerch Är Aarbecht verursaacht ginn.",
-    "t": 97.13
+    "t": 98.6
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispill gewësse Beschwéieren, déi mat bestëmmte Beruffer oder Belaaschtungen ze dinn hunn.",
-    "t": 102.55
+    "t": 103.64
    },
    {
     "speaker": "Anna",
     "text": "Elo déi grouss Fro. Wann eppes geschitt, wat mécht d'AAA wierklech fir Iech?",
-    "t": 107.72
+    "t": 107.96
    },
    {
     "speaker": "Tom",
     "text": "Si këmmert sech ëm d'Käschten an d'Konsequenze vum Accident.",
-    "t": 114.69
+    "t": 113.43
    },
    {
     "speaker": "Anna",
     "text": "Dat kann Är medezinesch Versuergung ëmfaassen, an d'Käschte fir erëm gesond ze ginn.",
-    "t": 119.06
+    "t": 116.69
    },
    {
     "speaker": "Tom",
     "text": "Wann Dir eng Zäit laang net schaffe kënnt, oder wann et bleiwend Folgen ginn, kann et eng finanziell Entschiedegung ginn.",
-    "t": 123.55
+    "t": 120.69
    },
    {
     "speaker": "Anna",
     "text": "An an de schlëmmste Fäll, abegraff de Verloscht vun engem Liewen, gëtt et Ënnerstëtzung fir d'Famill.",
-    "t": 129.44
+    "t": 126.42
    },
    {
     "speaker": "Tom",
     "text": "D'AAA fänkt also de Schlag of, fir datt en Accident net och nach zu enger finanzieller Katastroph gëtt.",
-    "t": 135.56
+    "t": 132.4
    },
    {
     "speaker": "Anna",
     "text": "Schwätze mer doriwwer, wéi se finanzéiert gëtt, well dat ass interessant.",
-    "t": 141.76
+    "t": 138.01
    },
    {
     "speaker": "Tom",
     "text": "D'Versécherung gëtt haaptsächlech vun den Aarbechtgeber finanzéiert, duerch Bäiträg.",
-    "t": 146.11
+    "t": 141.19
    },
    {
     "speaker": "Anna",
     "text": "An et gëtt e Bonus-Malus-System... Betriber mat manner Accidenter kënne manner bezuelen.",
-    "t": 150.78
+    "t": 145.18
    },
    {
     "speaker": "Tom",
     "text": "Dat ass clever. Et belount Aarbechtsplazen, déi d'Sécherheet eescht huelen.",
-    "t": 156.17
+    "t": 150.47
    },
    {
     "speaker": "Anna",
     "text": "Wat eis zu eppes bréngt, dat genee esou wichteg ass wéi d'Auszuelen... Accidenter vun Ufank un ze verhënneren.",
-    "t": 162.08
+    "t": 154.44
    },
    {
     "speaker": "Tom",
     "text": "D'AAA mécht vill fir d'Sécherheet an d'Gesondheet op der Aarbechtsplaz.",
-    "t": 168.41
+    "t": 160.37
    },
    {
     "speaker": "Anna",
     "text": "Si gëtt Recommandatiounen, Formatiounen a Berodung, fir den Aarbechtsplazen ze hëllefen, méi sécher ze sinn.",
-    "t": 172.29
+    "t": 163.14
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt souguer eng Visioun dohannert, heiansdo „Vision Zero\" genannt... mam Zil vun null schwéieren an déidlechen Accidenter.",
-    "t": 177.75
+    "t": 168.21
    },
    {
     "speaker": "Anna",
     "text": "Well den beschten Accident ass deen, deen ni geschitt.",
-    "t": 184.39
+    "t": 175.17
    },
    {
     "speaker": "Tom",
     "text": "Maache mer et elo praktesch. Wat sollt Dir wierklech maachen, wann en Accident geschitt?",
-    "t": 188.28
+    "t": 178.47
    },
    {
     "speaker": "Anna",
     "text": "D'Haaptsaach ass, datt den Accident bei der AAA gemellt muss ginn.",
-    "t": 194.54
+    "t": 183.2
    },
    {
     "speaker": "Tom",
     "text": "Bei Aarbechtsaccidenter mécht normalerweis Ären Aarbechtgeber dës Meldung.",
-    "t": 198.94
+    "t": 188.36
    },
    {
     "speaker": "Anna",
-    "text": "A vill dovun kann elo elektronesch gemaach ginn, iwwer MyGuichet, doriwwer hu mir an enger fréierer Episod geschwat.",
-    "t": 203.75
+    "text": "An dat kann elo elektronesch gemaach ginn, iwwer MyGuichet, doriwwer hu mir an enger fréierer Episod geschwat... souwuel fir Aarbechtsaccidenter wéi och fir Schoulaccidenter.",
+    "t": 192.34
    },
    {
     "speaker": "Tom",
     "text": "De System gëtt also méi einfach a méi séier.",
-    "t": 210.28
+    "t": 202.31
    },
    {
     "speaker": "Anna",
-    "text": "Et ass och gutt ze wëssen, datt d'AAA do ass, fir Froen ze beäntweren, mat engem Kontaktservice an engem Schalter.",
-    "t": 214.01
+    "text": "Et ass och gutt ze wëssen, datt d'AAA do ass, fir Froen ze beäntweren, mat engem Kontaktservice an engem Schalter... an et ka souguer online e Rendez-vous huelen.",
+    "t": 204.92
    },
    {
     "speaker": "Tom",
     "text": "Dir sidd also net eleng, fir eng stresseg Situatioun ze meeschteren.",
-    "t": 220.32
+    "t": 213.52
    },
    {
     "speaker": "Anna",
     "text": "Trieden mer e Schratt zréck. Firwat ass dat wichteg, och wann d'Liewe gutt leeft?",
-    "t": 224.47
+    "t": 217.02
    },
    {
     "speaker": "Tom",
     "text": "Well Accidenter sinn, per Definitioun, Saachen, déi mir net plangen. An ze wëssen, datt Dir geschützt sidd, bréngt Séilefridden.",
-    "t": 230.24
+    "t": 221.39
    },
    {
     "speaker": "Anna",
     "text": "Et bedeit, datt en Aarbechter, e Frontalier, oder e Kand an der Schoul geschützt ass, automatesch, vun der Gesellschaft.",
-    "t": 238.17
+    "t": 228.02
    },
    {
     "speaker": "Tom",
     "text": "Dat ass Solidaritéit an Aktioun... mir all droen bäi, fir datt jiddereen, dee blesséiert gëtt, ënnerstëtzt gëtt.",
-    "t": 245.03
+    "t": 234.84
    },
    {
     "speaker": "Anna",
     "text": "Maache mer et praktesch. Wat sollten d'Leit doraus mathuelen?",
-    "t": 250.72
+    "t": 240.59
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, wësst, datt Accidenter op der Aarbecht, um Wee op d'Aarbecht, an an der Schoul vun der AAA ofgedeckt sinn.",
-    "t": 255.66
+    "t": 244.05
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, wann en Accident geschitt, gitt sécher, datt en gemellt gëtt... normalerweis hëlleft Ären Aarbechtgeber oder d'Schoul derbäi.",
-    "t": 261.64
+    "t": 250.2
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, huelt d'Preventioun eescht. D'Berodung vun der AAA kann hëllefen, Är Aarbechtsplaz sécher ze halen.",
-    "t": 268.68
+    "t": 257.54
    },
    {
     "speaker": "Anna",
     "text": "Bréngen mer et zesummen. Wat sollten d'Leit iwwer d'AAA behalen?",
-    "t": 275.83
+    "t": 263.11
    },
    {
     "speaker": "Tom",
     "text": "Éischtens... et ass Lëtzebuerg seng ëffentlech Accident-Versécherung, Deel vun der Sozialversécherung.",
-    "t": 281.24
+    "t": 267.34
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... si deckt Aarbechtsaccidenter, Trajetsaccidenter, Schoulaccidenter a Beruffskrankheeten of.",
-    "t": 286.82
+    "t": 271.83
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... si bezilt Versuergung an Entschiedegung, a si schafft haart un der Preventioun an der Sécherheet op der Aarbechtsplaz.",
-    "t": 294.46
+    "t": 279.58
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... Accidenter mussen gemellt ginn, ëmmer méi iwwer MyGuichet.",
-    "t": 300.41
+    "t": 286.1
    },
    {
     "speaker": "Tom",
     "text": "Mir hoffen, datt Dir se ni braucht. Mä et ass gutt ze wëssen, datt si do ass, fir Iech roueg ze beschützen.",
-    "t": 305.56
+    "t": 291
    },
    {
     "speaker": "Anna",
-    "text": "Genee dat ass d'Sozialversécherung... en Sécherheetsnetz, dat mir zesummen knëppen, fireneen.",
-    "t": 311.91
+    "text": "Genee dat ass d'Sozialversécherung... en Sécherheetsnetz, dat mir zesummen knëppen, fireneen. Dat war eis Episod iwwer d'Accidentsversécherung, d'AAA. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 295.72
    },
    {
     "speaker": "Tom",
-    "text": "Villmools merci, datt Dir haut nogelauschtert hutt.",
-    "t": 317.48
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 346.56
    },
    {
     "speaker": "Anna",
-    "text": "Passt op Iech op, bleift sécher, a bis an der nächster Episod. Äddi!",
-    "t": 320.48
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 326.32
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 349.76
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 32,

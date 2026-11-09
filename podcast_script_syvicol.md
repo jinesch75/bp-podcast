@@ -17,7 +17,7 @@
 **ANNA:** SYVICOL stands for the Syndicat des Villes et Communes Luxembourgeoises.
 **TOM:** In English, that's roughly the Association of Luxembourg Towns and Communes.
 **ANNA:** So Tom, what exactly is SYVICOL, and why does it exist?
-**TOM:** It is the organisation that brings together all of Luxembourg's communes into one common voice.
+**TOM:** It is the organisation that brings together all of Luxembourg's communes into one common voice. It was founded in 1986.
 **ANNA:** Its job is to promote, protect and defend the shared interests of the communes.
 **TOM:** Think about it. Each commune is fairly small. On its own, its voice might be quiet.
 **ANNA:** But together, through SYVICOL, the hundred communes can speak clearly and with real weight.
@@ -62,4 +62,4 @@
 
 ---
 
-*Sources: SYVICOL (Syndicat des Villes et Communes Luxembourgeoises), syvicol.lu — "Who are we", the statutes, and its role and opinions. SYVICOL brings together all 100 communes of Luxembourg to promote, safeguard and defend their general and collective interests; it is the government's privileged interlocutor for the communal sector, gives formal opinions on draft legislation affecting the communes, fosters consultation between members, supports local elected representatives, and represents the communes nationally and internationally. General information only. Accurate as of June 2026.*
+*Sources: SYVICOL (Syndicat des Villes et Communes Luxembourgeoises), syvicol.lu — "Who are we", the statutes, and its role and opinions. SYVICOL brings together all 100 communes of Luxembourg to promote, safeguard and defend their general and collective interests; it is the government's privileged interlocutor for the communal sector, gives formal opinions on draft legislation affecting the communes, fosters consultation between members, supports local elected representatives, and represents the communes nationally and internationally. General information only. Accurate as of June 2026. Checked: 100 communes (since the 2023 mergers); SYVICOL founded 1986 as a syndicate of communes; opinions on draft laws (e.g. bill 8723, May 2026). Fact-checked 9 November 2026.*

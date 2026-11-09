@@ -17,7 +17,7 @@
 **ANNA:** SYVICOL steht für den Syndicat des Villes et Communes Luxembourgeoises.
 **TOM:** Auf Deutsch ist das ungefähr der Verband der Städte und Gemeinden Luxemburgs.
 **ANNA:** Also Tom, was genau ist SYVICOL, und warum gibt es ihn?
-**TOM:** Es ist die Organisation, die alle Gemeinden Luxemburgs zu einer gemeinsamen Stimme zusammenführt.
+**TOM:** Es ist die Organisation, die alle Gemeinden Luxemburgs zu einer gemeinsamen Stimme zusammenführt. Sie wurde 1986 gegründet.
 **ANNA:** Seine Aufgabe ist es, die gemeinsamen Interessen der Gemeinden zu fördern, zu schützen und zu verteidigen.
 **TOM:** Denken Sie einmal darüber nach. Jede Gemeinde ist ziemlich klein. Für sich allein ist ihre Stimme vielleicht leise.
 **ANNA:** Aber gemeinsam, durch SYVICOL, können die hundert Gemeinden klar und mit echtem Gewicht sprechen.
@@ -62,4 +62,4 @@
 
 ---
 
-*Quellen: SYVICOL (Syndicat des Villes et Communes Luxembourgeoises), syvicol.lu — „Wer wir sind", die Statuten sowie seine Rolle und seine Gutachten. SYVICOL führt alle 100 Gemeinden Luxemburgs zusammen, um ihre allgemeinen und kollektiven Interessen zu fördern, zu wahren und zu verteidigen; er ist der bevorzugte Ansprechpartner der Regierung für den kommunalen Sektor, gibt Gutachten zu Gesetzentwürfen ab, die die Gemeinden betreffen, fördert die Abstimmung zwischen seinen Mitgliedern, unterstützt die kommunalen Mandatsträger und vertritt die Gemeinden national und international. Nur allgemeine Informationen. Stand: Juni 2026.*
+*Quellen: SYVICOL (Syndicat des Villes et Communes Luxembourgeoises), syvicol.lu — „Wer wir sind", die Statuten sowie seine Rolle und seine Gutachten. SYVICOL führt alle 100 Gemeinden Luxemburgs zusammen, um ihre allgemeinen und kollektiven Interessen zu fördern, zu wahren und zu verteidigen; er ist der bevorzugte Ansprechpartner der Regierung für den kommunalen Sektor, gibt Gutachten zu Gesetzentwürfen ab, die die Gemeinden betreffen, fördert die Abstimmung zwischen seinen Mitgliedern, unterstützt die kommunalen Mandatsträger und vertritt die Gemeinden national und international. Nur allgemeine Informationen. Stand: Juni 2026. Geprüft: 100 Gemeinden; SYVICOL 1986 gegründet. Geprüft am 9. November 2026.*
