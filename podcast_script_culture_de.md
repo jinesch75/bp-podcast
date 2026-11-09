@@ -33,8 +33,8 @@
 **ANNA:** Das sind magische Gelegenheiten, um Orte zu erkunden, die Sie sonst vielleicht nie besuchen würden.
 **TOM:** Das Portal ist aber nicht nur für das Publikum da. Es ist auch für die Menschen, die Kultur gestalten.
 **ANNA:** Das ist ein guter Punkt. Es unterstützt den Kultursektor selbst... die Künstler, die Einrichtungen, die Veranstalter.
-**TOM:** Es ist Teil eines größeren Bestrebens, die Kultur in Luxemburg zu entwickeln, mit einem langfristigen Kulturplan.
-**ANNA:** Und um Kultur zugänglicher, inklusiver und in jeder Region präsenter zu machen.
+**TOM:** Es ist Teil eines größeren Bestrebens, die Kultur in Luxemburg zu entwickeln, geleitet von einem Kulturentwicklungsplan, der bis 2028 läuft.
+**ANNA:** Und ein nationaler Aktionsplan, 2026 gestartet, soll Kultur zugänglicher, inklusiver und in jeder Region präsenter machen.
 **TOM:** Es gibt sogar eine Zusammenarbeit mit den Gemeinden, damit lokale Kultur ganz in der Nähe unterstützt wird.
 **ANNA:** Sprechen wir darüber, warum Kultur so wichtig ist, über das bloße Vergnügen hinaus.
 **TOM:** Erstens, weil sie Menschen zusammenbringt... über Sprachen, Altersgruppen und Herkunft hinweg.
@@ -42,7 +42,7 @@
 **TOM:** Zweitens, weil Kultur uns hilft, einander und uns selbst zu verstehen.
 **ANNA:** Ein Theaterstück, ein Lied, eine Ausstellung können ein Fenster zu einem anderen Leben öffnen, oder zu unserem eigenen.
 **TOM:** Und drittens, weil es einfach eine der Freuden des Lebens ist. Wir alle brauchen Schönheit und Staunen.
-**ANNA:** Und vieles davon ist erschwinglich oder sogar kostenlos, wenn Sie wissen, wo Sie suchen müssen.
+**ANNA:** Und vieles davon ist erschwinglich oder sogar kostenlos, wenn Sie wissen, wo Sie suchen müssen. Mit dem Kulturpass können Menschen mit geringem Einkommen viele Häuser kostenlos besuchen.
 **TOM:** Was genau der Sinn des Portals ist... es einfach zu machen, Kultur zu finden und daran teilzunehmen.
 **ANNA:** Werden wir konkret. Wie kann man das Kulturportal nutzen?
 **TOM:** Erstens, schauen Sie vor einem Wochenende im Agenda nach Veranstaltungen in Ihrer Nähe und probieren Sie etwas Neues aus.
@@ -62,4 +62,4 @@
 
 ---
 
-*Quellen: culture.lu — das vom Kulturministerium unterstützte Kulturportal, das die wesentlichen Informationen über das kulturelle Leben in Luxemburg zusammenfasst: ein Agenda kultureller Veranstaltungen im ganzen Land, Verzeichnisse kultureller Spielstätten und Einrichtungen (Museen, Theater, Kulturzentren), Kulturerbe (einschließlich Veranstaltungen wie der Nuit des Musées und der Europäischen Tage des Kulturerbes) sowie Unterstützung für den Kultursektor im Rahmen des Kulturentwicklungsplans Luxemburgs und der Zusammenarbeit mit den Gemeinden. Nur allgemeine Informationen. Stand: Juni 2026.*
+*Quellen: culture.lu — das vom Kulturministerium unterstützte Kulturportal, das die wesentlichen Informationen über das kulturelle Leben in Luxemburg zusammenfasst: ein Agenda kultureller Veranstaltungen im ganzen Land, Verzeichnisse kultureller Spielstätten und Einrichtungen (Museen, Theater, Kulturzentren), Kulturerbe (einschließlich Veranstaltungen wie der Nuit des Musées und der Europäischen Tage des Kulturerbes) sowie Unterstützung für den Kultursektor im Rahmen des Kulturentwicklungsplans Luxemburgs und der Zusammenarbeit mit den Gemeinden. Nur allgemeine Informationen. Stand: Juni 2026. Kulturentwicklungsplan (Kulturentwécklungsplang) 2018–2028; nationaler Aktionsplan „Zugang zur Kultur“, vorgestellt im April 2026 (2026–2030), einschließlich Kulturpass; Portal culture.lu im Mai 2026 angekündigt. Geprüft am 9. November 2026.*

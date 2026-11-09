@@ -108,6 +108,14 @@ q('cgdis', 'questions', 2, 'explanation', null, "Thousands of volunteers make up
 q('cgdis', 'questions_fr', 2, 'explanation', "Plus de 3 900 pompiers volontaires représentent environ 90 % de l'effectif opérationnel du CGDIS.", "Des milliers de volontaires représentent environ 90 % des pompiers du CGDIS (rapport annuel 2025).");
 q('cgdis', 'questions_de', 2, 'explanation', 'Mehr als 3 900 freiwillige Feuerwehrleute machen rund 90 % der einsatzfähigen Belegschaft des CGDIS aus.', 'Tausende Freiwillige machen rund 90 % der Feuerwehrleute des CGDIS aus (Jahresbericht 2025).');
 
+// Episodes 32-36 (9 Nov 2026): GOVCERT.LU and CIRCL under the NIS2 law; SIS since 2016, Ministry of Labour
+q('govcert', 'questions', 1, 'explanation', null, "GOVCERT.LU is the central contact point for IT incidents affecting the information systems of the State and of critical infrastructure operators — the systems a country cannot function without. Since Luxembourg's 2026 NIS2 law, other companies and the communes turn to its sister team, CIRCL.");
+q('govcert', 'questions_fr', 1, 'explanation', null, "Le GOVCERT.LU est le point de contact central pour les incidents informatiques touchant les systèmes d'information de l'État et des opérateurs d'infrastructures critiques — les systèmes sans lesquels un pays ne peut pas fonctionner. Depuis la loi NIS2 luxembourgeoise de 2026, les autres entreprises et les communes s'adressent à son équipe sœur, le CIRCL.");
+q('govcert', 'questions_de', 1, 'explanation', null, "GOVCERT.LU ist die zentrale Anlaufstelle für IT-Vorfälle, die die Informationssysteme des Staates und der Betreiber kritischer Infrastrukturen betreffen – die Systeme, ohne die ein Land nicht funktionieren kann. Seit dem luxemburgischen NIS2-Gesetz von 2026 wenden sich andere Unternehmen und die Gemeinden an das Schwesterteam CIRCL.");
+q('ess', 'questions', 2, 'explanation', null, "Luxembourg created a legal status, the societal impact company (société d'impact sociétal, SIS), which lets you build a real business whose official purpose is social impact. It has been recognised by law since 2016, and companies are approved by the Ministry of Labour.");
+q('ess', 'questions_fr', 2, 'explanation', null, "Le Luxembourg a créé un statut légal, la société d'impact sociétal (SIS), qui permet de bâtir une véritable entreprise dont l'objet officiel est l'impact social. Il est reconnu par la loi depuis 2016, et les sociétés sont agréées par le ministère du Travail.");
+q('ess', 'questions_de', 2, 'explanation', null, "Luxemburg hat einen rechtlichen Status geschaffen, die Gesellschaft mit gesellschaftlicher Wirkung (société d'impact sociétal, SIS), mit der man ein echtes Unternehmen aufbauen kann, dessen offizieller Zweck die soziale Wirkung ist. Er ist seit 2016 gesetzlich anerkannt, und die Unternehmen werden vom Arbeitsministerium zugelassen.");
+
 const src = fs.readFileSync(FILE, 'utf8');
 const i = src.indexOf('const EPISODES');
 const banner = src.slice(0, i);
@@ -124,6 +132,7 @@ for (const [key, field, qi, part, oldS, newS] of Q) {
   const set = (v) => { if (typeof part === 'number') qq.options[part] = v; else qq[part] = v; };
   const cur = get();
   if (oldS === null) { if (cur === newS) skipped++; else { set(newS); applied++; } continue; }
+  if (cur.includes(newS)) { skipped++; continue; } // new text may contain the old one
   const n = cur.split(oldS).length - 1;
   if (n === 0 && cur.includes(newS)) { skipped++; continue; }
   if (n !== 1) { problems.push(`${key} ${field} Q${qi + 1} ${part}: found ${n}x "${oldS}"`); continue; }

@@ -28,10 +28,10 @@
 **TOM:** Et ass also gutt fir d'Wirtschaft a gutt fir d'Gesellschaft zur selwechter Zäit.
 **ANNA:** Lëtzebuerg huet dofir souguer eng besonnesch Rechtsform geschaf.
 **TOM:** Jo. Et gëtt e Statut mam Numm Gesellschaft mat gesellschaftlecher Wierkung.
-**ANNA:** Et erlaabt et, eng richteg Entreprise ze grënnen, deem säin offiziellen Zweck de soziale Impakt ass, vum Gesetz unerkannt.
+**ANNA:** Et erlaabt et, eng richteg Entreprise ze grënnen, deem säin offiziellen Zweck de soziale Impakt ass, zënter 2016 vum Gesetz unerkannt a vum Aarbechtsministère zougelooss.
 **TOM:** Sou kann en Entrepreneur eppes opbauen, dat sech selwer dréit, mä existéiert fir Guddes ze maachen.
 **ANNA:** An genee do kënnt de Portal an d'Spill, fir Leit mat enger Iddi.
-**TOM:** De Portal erkläert d'Sozial- a Solidarwirtschaft, a wéi ee sou eng Entreprise grënnt.
+**TOM:** De Portal vum Aarbechtsministère erkläert d'Sozial- a Solidarwirtschaft a wéi ee sou eng Entreprise grënnt. An den Inkubator vum Ministère begleet Grënner gratis.
 **ANNA:** Also, wann Dir dovun dreemt, eng Entreprise ze grënnen, déi och eppes beweegt, weist hien Iech de Wee.
 **TOM:** Et ass och Deel vun enger méi grousser Bewegung. Si wiisst a ganz Europa, a gëtt souguer bei de Vereenten Natiounen unerkannt.
 **ANNA:** Well ëmmer méi Leit wëllen, datt hir Aarbecht an hir Suen eppes bedeiten.
@@ -58,4 +58,4 @@
 
 ---
 
-*Quellen: Portail de l'économie sociale et solidaire, economie-sociale-solidaire.public.lu, vum Ministère, dat fir d'Sozial- a Solidarwirtschaft zoustänneg ass — Informatiounen iwwer d'Sozial- a Solidarwirtschaft (Organisatiounen, deenen hiren éischten Zweck eng sozial oder gesellschaftlech Finalitéit a net de Profit ass: Genossenschaften, Veräiner, Géigesäitegkeetsgesellschaften, Stëftungen a Sozialentreprisen), an iwwer d'Grënnung vun enger Gesellschaft mat gesellschaftlecher Wierkung (société d'impact sociétal, SIS); agebett an de Kontext vum EU-Aktiounsplang fir d'Sozialwirtschaft an der UN-Resolutioun vun 2023 iwwer d'Sozial- a Solidarwirtschaft. Nëmmen allgemeng Informatiounen. Stand: Juni 2026.*
+*Quellen: Portail de l'économie sociale et solidaire, economie-sociale-solidaire.public.lu, vum Ministère, dat fir d'Sozial- a Solidarwirtschaft zoustänneg ass — Informatiounen iwwer d'Sozial- a Solidarwirtschaft (Organisatiounen, deenen hiren éischten Zweck eng sozial oder gesellschaftlech Finalitéit a net de Profit ass: Genossenschaften, Veräiner, Géigesäitegkeetsgesellschaften, Stëftungen a Sozialentreprisen), an iwwer d'Grënnung vun enger Gesellschaft mat gesellschaftlecher Wierkung (société d'impact sociétal, SIS); agebett an de Kontext vum EU-Aktiounsplang fir d'Sozialwirtschaft an der UN-Resolutioun vun 2023 iwwer d'Sozial- a Solidarwirtschaft. Nëmmen allgemeng Informatiounen. Stand: Juni 2026. SIS duerch d'Gesetz vum 12. Dezember 2016 geschaf; Zouloossung duerch den Aarbechtsministère (Departement Sozial- a Solidarwirtschaft), deen de Portal an de gratis Social Business Incubator bedreift; Guide fir sozial Entrepreneuren am Januar 2026 aktualiséiert; d'ULESS gouf am September 2025 zu Entrepreneurs d'Impact Luxembourg (EIL). Iwwerpréift den 9. November 2026.*

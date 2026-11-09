@@ -28,10 +28,10 @@
 **TOM:** Donc c'est bon pour l'économie et bon pour la société en même temps.
 **ANNA:** Le Luxembourg a même donné à cela une forme juridique particulière.
 **TOM:** Oui. Il existe un statut appelé société d'impact sociétal (SIS).
-**ANNA:** Il permet de créer une véritable entreprise dont l'objet officiel est l'impact social, reconnu par la loi.
+**ANNA:** Il permet de créer une véritable entreprise dont l'objet officiel est l'impact social, reconnu par la loi depuis 2016 et agréé par le ministère du Travail.
 **TOM:** Ainsi, un entrepreneur peut bâtir quelque chose qui gagne sa vie, mais qui existe pour faire le bien.
 **ANNA:** Et c'est là qu'intervient le portail, pour les personnes qui ont une idée.
-**TOM:** Le portail explique l'économie sociale et solidaire, et comment créer ce type d'entreprise.
+**TOM:** Le portail, géré par le ministère du Travail, explique l'économie sociale et solidaire et comment créer ce type d'entreprise. Et l'incubateur du ministère accompagne gratuitement les porteurs de projet.
 **ANNA:** Donc, si vous rêvez de lancer une entreprise qui fait aussi une différence, il vous montre le chemin.
 **TOM:** Cela fait aussi partie d'un mouvement plus large. Il se développe partout en Europe, et il est même reconnu aux Nations unies.
 **ANNA:** Parce que de plus en plus de gens veulent que leur travail, et leur argent, aient du sens.
@@ -58,4 +58,4 @@
 
 ---
 
-*Sources : Portail de l'économie sociale et solidaire, economie-sociale-solidaire.public.lu, du ministère en charge de l'économie sociale et solidaire — informations sur l'économie sociale et solidaire (organisations dont le but premier est une finalité sociale ou sociétale plutôt que le profit : coopératives, associations, mutuelles, fondations et entreprises sociales), et sur la création d'une société d'impact sociétal (SIS) ; situé dans le contexte du plan d'action européen pour l'économie sociale et de la résolution des Nations unies de 2023 sur l'économie sociale et solidaire. Informations générales uniquement. À jour en juin 2026.*
+*Sources : Portail de l'économie sociale et solidaire, economie-sociale-solidaire.public.lu, du ministère en charge de l'économie sociale et solidaire — informations sur l'économie sociale et solidaire (organisations dont le but premier est une finalité sociale ou sociétale plutôt que le profit : coopératives, associations, mutuelles, fondations et entreprises sociales), et sur la création d'une société d'impact sociétal (SIS) ; situé dans le contexte du plan d'action européen pour l'économie sociale et de la résolution des Nations unies de 2023 sur l'économie sociale et solidaire. Informations générales uniquement. À jour en juin 2026. SIS créée par la loi du 12 décembre 2016 ; agrément par le ministère du Travail (département de l'économie sociale et solidaire), qui gère le portail et le Social Business Incubator gratuit ; « Guide de l'entrepreneur social » mis à jour en janvier 2026 ; l'ULESS est devenue Entrepreneurs d'Impact Luxembourg (EIL) en septembre 2025. Vérifié le 9 novembre 2026.*

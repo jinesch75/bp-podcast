@@ -175,7 +175,7 @@ Episodes 1–13 were checked against the official websites; Jacques approved all
 - `python3 build/el_run_batch.py <key,key,...> en,fr,de [--budget 165]` generates + assembles many episodes in one go (parallel requests, `EL_CONCURRENCY`, default 6); it stops before the time budget and resumes where it left off (state in `/tmp/el_batch_state.json`). `tts_elevenlabs.py --estimate` prints the credits a run needs without generating.
 - `node build/replace_audio_elevenlabs.js <key,key> en,fr,de` puts a re-recording on the site when the SCRIPT CHANGED: it checks the recording matches the current `.md` scripts, copies the mp3s, replaces `segments`/`segments_fr`/`segments_de` (text + timings) and durations, and rebuilds `segments_lb` from the LB script on the new English audio. (`update_audio_elevenlabs.js` is only for unchanged text.)
 - ElevenLabs API key "Biergerpakt podcast" has its own credit limit (100,000). When it is used up, the API answers `quota_exceeded`; raise the key's limit in ElevenLabs (Developers → API keys) and re-run the batch.
-- `status: "in_progress"` on an episode shows an "In progress" badge on its card and a notice on its page (EN/FR/DE/LB strings `status_in_progress`, `in_progress_note` in `app.js`). Set/clear with `node build/set_status.js in_progress|final <from>-<to> | key,key`. Re-recorded with ElevenLabs (EN/FR/DE, final): episodes 1–13 (30 Sept 2026). Episodes 14–31 re-recorded with ElevenLabs on 9 Nov 2026 (final). In progress: 32–41 (voices to be done later).
+- `status: "in_progress"` on an episode shows an "In progress" badge on its card and a notice on its page (EN/FR/DE/LB strings `status_in_progress`, `in_progress_note` in `app.js`). Set/clear with `node build/set_status.js in_progress|final <from>-<to> | key,key`. Re-recorded with ElevenLabs (EN/FR/DE, final): episodes 1–13 (30 Sept 2026). Episodes 14–36 re-recorded with ElevenLabs on 9 Nov 2026 (final). In progress: 37–41 (voices to be done later).
 
 ## Audio quality pass (30 Sept 2026) — applies to every ElevenLabs recording
 
@@ -276,3 +276,13 @@ Jacques: "do the next 5 episodes". `build/apply_factcheck_eps27-31_2026_11.py`; 
 - 29 Agriculture: ALVA named (created 2022); PAN-Bio 2030 (2026–2030). EN 6:33, FR 6:39, DE 7:28.
 - 30 Spatial planning: PDAT adopted 2023, horizon 2035. EN 5:48, FR 5:51, DE 6:33.
 - 31 AAA: created 1902; MyGuichet declarations for work and school accidents; online appointments. EN 5:51, FR 5:45, DE 6:25.
+
+## Fact-check episodes 32–36 (9 Nov 2026) + first ElevenLabs recordings
+
+Jacques: "next 5". `build/apply_factcheck_eps32-36_2026_11.py`; quiz: GOVCERT Q2 and ESS Q3 explanations (in `build/apply_factcheck_quiz_2026_11.js`). Batch `EL_STATE=/tmp/el_state_b8.json python3 build/el_run_batch.py geoportail,govcert,culture,demenz,ess en,fr,de` (≈ 85,000 credits), put live, status final.
+- Fix: the quiz script re-applied a substring edit when the new text contained the old one (habitat Q4 explanation had the STATEC sentence 3×). Now skips when the new text is already present; habitat repaired.
+- 32 Geoportal: new 3D viewer since Dec 2025. EN 5:09, FR 5:15, DE 5:47.
+- 33 GOVCERT.LU: NIS2 law of 5 May 2026 – GOVCERT.LU (HCPN) for the State and critical entities, CIRCL for other companies and communes. EN 5:46, FR 5:56, DE 6:31.
+- 34 Culture portal: KEP 2018–2028; national action plan "Access to culture" (April 2026, to 2030); Kulturpass. EN 5:27, FR 5:24, DE 6:09.
+- 35 Info-Zenter Demenz: more than 100 services; awareness campaigns + national prevention programme; in person in Luxembourg City and sometimes elsewhere. EN 5:29, FR 5:22, DE 6:15.
+- 36 Social and solidarity economy: SIS since 2016, approved by the Ministry of Labour; portal + free Social Business Incubator. EN 5:21, FR 5:20, DE 6:02.

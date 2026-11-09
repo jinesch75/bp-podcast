@@ -18,7 +18,7 @@
 **TOM:** Stellen Sie sich das wie eine Feuerwehr vor, aber für Cyberangriffe.
 **ANNA:** Wenn es einen schweren Sicherheitsvorfall im Computerbereich gibt, reagieren sie schnell, um den Schaden zu begrenzen.
 **TOM:** Und wen genau schützen sie?
-**ANNA:** Die Informationssysteme der Regierung und anderer Betreiber kritischer Infrastrukturen, öffentliche wie private.
+**ANNA:** Die Informationssysteme des Staates und der Betreiber kritischer Infrastrukturen. Seit einem neuen Gesetz von 2026 wenden sich andere Unternehmen und die Gemeinden an das Schwesterteam CIRCL.
 **TOM:** Kritische Infrastrukturen sind die Systeme, ohne die ein Land nicht funktionieren kann... Energie, Wasser, Gesundheit, Finanzen.
 **ANNA:** GOVCERT.LU ist also die zentrale Anlaufstelle für Vorfälle, die das Land, seine Bürger oder seine Wirtschaft bedrohen könnten.
 **TOM:** Sprechen wir darüber, was sie tatsächlich tun, wenn ein Angriff passiert.
@@ -64,4 +64,4 @@
 
 ---
 
-*Quellen: GOVCERT.LU, govcert.lu — das Computer Security Incident Response Team (CSIRT) der Regierung Luxemburgs, die zentrale Anlaufstelle für IT-Vorfälle, die die Informationssysteme der Regierung und anderer Betreiber kritischer öffentlicher oder privater Infrastrukturen gefährden könnten; es reagiert auf sicherheitsrelevante Cyber-Vorfälle und mildert sie ab, baut widerstandsfähigere Infrastrukturen auf, lädt die Öffentlichkeit zur Meldung von Vorfällen ein und veröffentlicht Ankündigungen (zum Beispiel über Phishing-Bedrohungen). Nur allgemeine Informationen. Stand: Juni 2026.*
+*Quellen: GOVCERT.LU, govcert.lu — das Computer Security Incident Response Team (CSIRT) der Regierung Luxemburgs, die zentrale Anlaufstelle für IT-Vorfälle, die die Informationssysteme der Regierung und anderer Betreiber kritischer öffentlicher oder privater Infrastrukturen gefährden könnten; es reagiert auf sicherheitsrelevante Cyber-Vorfälle und mildert sie ab, baut widerstandsfähigere Infrastrukturen auf, lädt die Öffentlichkeit zur Meldung von Vorfällen ein und veröffentlicht Ankündigungen (zum Beispiel über Phishing-Bedrohungen). Nur allgemeine Informationen. Stand: Juni 2026. Nach dem NIS2-Gesetz vom 5. Mai 2026 ist GOVCERT.LU (beim HCPN) das CSIRT für den öffentlichen Sektor und kritische Einrichtungen, CIRCL für den Privatsektor, die Gemeinden und nichtstaatliche Einrichtungen; das ILR ist die zuständige Behörde. Geprüft am 9. November 2026.*

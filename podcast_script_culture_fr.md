@@ -33,8 +33,8 @@
 **ANNA:** Ce sont des occasions magiques pour explorer des lieux que vous ne visiteriez peut-être jamais autrement.
 **TOM:** Le portail n'est cependant pas seulement pour le public. Il est aussi pour celles et ceux qui font la culture.
 **ANNA:** C'est un bon point. Il soutient le secteur culturel lui-même... les artistes, les institutions, les organisateurs.
-**TOM:** Il fait partie d'un effort plus large pour développer la culture au Luxembourg, avec un plan culturel à long terme.
-**ANNA:** Et pour rendre la culture plus accessible, plus inclusive et plus présente dans chaque région.
+**TOM:** Il fait partie d'un effort plus large pour développer la culture au Luxembourg, guidé par un plan de développement culturel qui court jusqu'en 2028.
+**ANNA:** Et un plan d'action national, lancé en 2026, vise à rendre la culture plus accessible, plus inclusive et plus présente dans chaque région.
 **TOM:** Il y a même une coopération avec les communes, afin que la culture locale soit soutenue au plus près de chez soi.
 **ANNA:** Parlons de la raison pour laquelle la culture compte tant, au-delà du simple plaisir.
 **TOM:** D'abord, parce qu'elle rassemble les gens... au-delà des langues, des âges et des origines.
@@ -42,7 +42,7 @@
 **TOM:** Ensuite, parce que la culture nous aide à nous comprendre les uns les autres, et à nous comprendre nous-mêmes.
 **ANNA:** Une pièce de théâtre, une chanson, une exposition peuvent ouvrir une fenêtre sur une autre vie, ou sur la nôtre.
 **TOM:** Et troisièmement, parce que c'est tout simplement l'une des joies de la vie. Nous avons tous besoin de beauté et d'émerveillement.
-**ANNA:** Et une grande partie est abordable, voire gratuite, si vous savez où chercher.
+**ANNA:** Et une grande partie est abordable, voire gratuite, si vous savez où chercher. Avec le Kulturpass, les personnes à faibles revenus profitent gratuitement de nombreux lieux.
 **TOM:** Ce qui est tout l'intérêt du portail... rendre la culture facile à trouver et à partager.
 **ANNA:** Soyons concrets. Comment peut-on utiliser le portail culturel ?
 **TOM:** D'abord, avant un week-end, consultez l'agenda pour les événements près de chez vous, et essayez quelque chose de nouveau.
@@ -62,4 +62,4 @@
 
 ---
 
-*Sources : culture.lu — le portail culturel soutenu par le ministère de la Culture, regroupant les informations essentielles sur la vie culturelle au Luxembourg : un agenda des événements culturels à travers le pays, des listes de lieux et d'institutions culturels (musées, théâtres, centres culturels), le patrimoine (y compris des événements comme la Nuit des Musées et les journées européennes du patrimoine), et le soutien au secteur culturel dans le cadre du plan de développement culturel du Luxembourg et de la coopération avec les communes. Informations générales uniquement. À jour en juin 2026.*
+*Sources : culture.lu — le portail culturel soutenu par le ministère de la Culture, regroupant les informations essentielles sur la vie culturelle au Luxembourg : un agenda des événements culturels à travers le pays, des listes de lieux et d'institutions culturels (musées, théâtres, centres culturels), le patrimoine (y compris des événements comme la Nuit des Musées et les journées européennes du patrimoine), et le soutien au secteur culturel dans le cadre du plan de développement culturel du Luxembourg et de la coopération avec les communes. Informations générales uniquement. À jour en juin 2026. Plan de développement culturel (Kulturentwécklungsplang) 2018-2028 ; plan d'action national « Accès à la culture » présenté en avril 2026 (2026-2030), y compris le Kulturpass ; portail culture.lu annoncé en mai 2026. Vérifié le 9 novembre 2026.*

@@ -28,10 +28,10 @@
 **TOM:** So it's good for the economy and good for society at the same time.
 **ANNA:** Luxembourg has even given this a special legal form.
 **TOM:** Yes. There's a status called the societal impact company.
-**ANNA:** It lets you create a real business whose official purpose is social impact, recognised by law.
+**ANNA:** It lets you create a real business whose official purpose is social impact, recognised by law since 2016 and approved by the Ministry of Labour.
 **TOM:** So an entrepreneur can build something that earns its way, but exists to do good.
 **ANNA:** And that's where the portal comes in, for people with an idea.
-**TOM:** The portal explains the social and solidarity economy, and how to create this kind of company.
+**TOM:** The portal, run by the Ministry of Labour, explains the social and solidarity economy and how to create this kind of company. And the ministry's social business incubator offers free support to get started.
 **ANNA:** So if you dream of starting a business that also makes a difference, it shows you the path.
 **TOM:** It's part of a wider movement too. This is growing across Europe, and even recognised at the United Nations.
 **ANNA:** Because more and more people want their work, and their money, to mean something.
@@ -58,4 +58,4 @@
 
 ---
 
-*Sources: Portail de l'économie sociale et solidaire, economie-sociale-solidaire.public.lu, of the ministry responsible for the social and solidarity economy — information on the social and solidarity economy (organisations whose primary aim is a social or societal purpose rather than profit: cooperatives, associations, mutual societies, foundations and social enterprises), and on creating a societal impact company (société d'impact sociétal, SIS); set in the context of the EU Social Economy Action Plan and the 2023 UN resolution on the social and solidarity economy. General information only. Accurate as of June 2026.*
+*Sources: Portail de l'économie sociale et solidaire, economie-sociale-solidaire.public.lu, of the ministry responsible for the social and solidarity economy — information on the social and solidarity economy (organisations whose primary aim is a social or societal purpose rather than profit: cooperatives, associations, mutual societies, foundations and social enterprises), and on creating a societal impact company (société d'impact sociétal, SIS); set in the context of the EU Social Economy Action Plan and the 2023 UN resolution on the social and solidarity economy. General information only. Accurate as of June 2026. SIS created by the law of 12 December 2016; approval by the Ministry of Labour (department of the social and solidarity economy), which runs the portal and the free Social Business Incubator; guide 'How to get started' updated January 2026; ULESS became Entrepreneurs d'Impact Luxembourg (EIL) in September 2025. Fact-checked 9 November 2026.*

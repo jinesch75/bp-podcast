@@ -28,7 +28,7 @@
 **TOM:** Donc si vous achetez une maison, ou si vous êtes curieux d'un terrain, vous pouvez consulter la parcelle.
 **ANNA:** Il y a aussi des outils astucieux intégrés. Vous pouvez mesurer une distance ou une surface.
 **TOM:** Vous pouvez rechercher une adresse, et y accéder directement.
-**ANNA:** Vous pouvez même explorer certaines parties du pays en 3D, avec un modèle virtuel des bâtiments.
+**ANNA:** Depuis fin 2025, une nouvelle visionneuse 3D vous permet même d'explorer le pays en 3D, avec un modèle virtuel des bâtiments.
 **TOM:** Et vous pouvez imprimer une carte propre, ou l'enregistrer, pour une promenade, un projet ou une réunion.
 **ANNA:** Parlons de la personne à qui cela s'adresse, parce que c'est vraiment pour tout le monde.
 **TOM:** Pour un citoyen curieux, c'est une merveilleuse façon d'explorer sa ville, sa région, son pays.
@@ -60,4 +60,4 @@
 
 ---
 
-*Sources : Geoportail.lu — la plateforme nationale officielle des géodonnées gouvernementales du Grand-Duché de Luxembourg, exploitée par l'Administration du cadastre et de la topographie (ACT). Elle fournit des cartes et des couches (topographie, imagerie aérienne, cartes historiques, cadastre/registre foncier, environnement, mobilité, tourisme et plus encore), une recherche d'adresse et de parcelle, des outils de mesure et d'impression, une « Virtual City Map » en 3D, un catalogue de données et des services web ouverts (WMS/WFS). Informations générales uniquement. À jour en juin 2026.*
+*Sources : Geoportail.lu — la plateforme nationale officielle des géodonnées gouvernementales du Grand-Duché de Luxembourg, exploitée par l'Administration du cadastre et de la topographie (ACT). Elle fournit des cartes et des couches (topographie, imagerie aérienne, cartes historiques, cadastre/registre foncier, environnement, mobilité, tourisme et plus encore), une recherche d'adresse et de parcelle, des outils de mesure et d'impression, une « Virtual City Map » en 3D, un catalogue de données et des services web ouverts (WMS/WFS). Informations générales uniquement. À jour en juin 2026. Nouvelle visionneuse 3D (3d.geoportail.lu) depuis décembre 2025. Vérifié le 9 novembre 2026.*

@@ -32,15 +32,15 @@
 **TOM:** And there's just as much care for the relatives, the people who help and accompany.
 **ANNA:** Caring for someone with dementia is a profound act of love, but it can be exhausting.
 **TOM:** The centre helps relatives look after their own health too, and not to carry everything alone.
-**ANNA:** It can point you to other services, support groups, and partners across the country.
+**ANNA:** It can point you to more than a hundred services, support groups, and partners across the country.
 **TOM:** There's even a focus on prevention, which gives real hope.
 **ANNA:** Yes. Living healthily... staying active, eating well, keeping the mind and social life busy... can reduce the risk.
 **TOM:** It's not a guarantee, but the things that are good for the heart are also good for the brain.
-**ANNA:** The centre runs talks, events and a prevention programme around exactly this.
+**ANNA:** The centre runs talks, events and awareness campaigns, and there's a national dementia prevention programme too.
 **TOM:** So there's knowledge, support, and hope, all in one welcoming place.
 **ANNA:** Let's say a gentle word about reaching out, because this is a tender subject.
 **TOM:** If you're worried about yourself, or someone you love, asking for information is a sign of strength, not weakness.
-**ANNA:** And contacting the centre is simple... by phone, by email, or through their website.
+**ANNA:** And contacting the centre is simple... by phone, by email, through their website, or in person in Luxembourg City, and sometimes in other towns.
 **TOM:** They are there to listen, to inform, and to help you find your way.
 **ANNA:** Let's make it practical. What can people take from this?
 **TOM:** First, if you have worries about memory, get good information early, and a proper assessment.
@@ -62,4 +62,4 @@
 
 ---
 
-*Sources: Info-Zenter Demenz, demenz.lu — the national information and consultation centre on memory disorders and dementia, for affected persons, their relatives, health professionals and anyone interested; all consultations and documents are free. Topics include understanding dementia and how it differs from ordinary memory lapses, diagnosis, living well day to day, support for relatives, and prevention (a healthy lifestyle lowers the risk), plus events and a dementia-prevention programme. Contact: +352 26 47 00. This episode discusses a sensitive health topic and is general information only — for personal concerns, contact the Info-Zenter Demenz or a health professional. Accurate as of June 2026.*
+*Sources: Info-Zenter Demenz, demenz.lu — the national information and consultation centre on memory disorders and dementia, for affected persons, their relatives, health professionals and anyone interested; all consultations and documents are free. Topics include understanding dementia and how it differs from ordinary memory lapses, diagnosis, living well day to day, support for relatives, and prevention (a healthy lifestyle lowers the risk), plus events and a dementia-prevention programme. Contact: +352 26 47 00. This episode discusses a sensitive health topic and is general information only — for personal concerns, contact the Info-Zenter Demenz or a health professional. Accurate as of June 2026. Website demenz.lu lists more than 100 services; campaigns 'VergiessMechNet' and 'Mäi Liewen mat Demenz'; Programme Démence Prévention (pdp.lu); monthly consultations also held in Esch-sur-Alzette. Fact-checked 9 November 2026.*

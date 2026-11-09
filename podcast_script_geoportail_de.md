@@ -28,7 +28,7 @@
 **TOM:** Wenn Sie also ein Haus kaufen oder neugierig auf ein Grundstück sind, können Sie die Parzelle nachschlagen.
 **ANNA:** Es gibt auch clevere eingebaute Werkzeuge. Sie können eine Entfernung oder eine Fläche messen.
 **TOM:** Sie können nach einer Adresse suchen und direkt dorthin springen.
-**ANNA:** Sie können sogar Teile des Landes in 3D erkunden, mit einem virtuellen Modell der Gebäude.
+**ANNA:** Seit Ende 2025 können Sie mit einem neuen 3D-Viewer sogar das Land in 3D erkunden, mit einem virtuellen Modell der Gebäude.
 **TOM:** Und Sie können eine saubere Karte ausdrucken oder speichern, für einen Spaziergang, ein Projekt oder eine Besprechung.
 **ANNA:** Sprechen wir darüber, für wen das ist, denn es ist wirklich für alle.
 **TOM:** Für einen neugierigen Bürger ist es eine wunderbare Möglichkeit, seine Stadt, seine Region, sein Land zu erkunden.
@@ -60,4 +60,4 @@
 
 ---
 
-*Quellen: Geoportail.lu — die offizielle nationale Plattform für die staatlichen Geodaten des Großherzogtums Luxemburg, betrieben von der Administration du cadastre et de la topographie (ACT). Sie bietet Karten und Ebenen (Topografie, Luftbilder, historische Karten, Kataster/Grundbuch, Umwelt, Mobilität, Tourismus und mehr), eine Adress- und Parzellensuche, Mess- und Druckwerkzeuge, eine 3D-„Virtual City Map“, einen Datenkatalog und offene Webdienste (WMS/WFS). Nur allgemeine Informationen. Stand: Juni 2026.*
+*Quellen: Geoportail.lu — die offizielle nationale Plattform für die staatlichen Geodaten des Großherzogtums Luxemburg, betrieben von der Administration du cadastre et de la topographie (ACT). Sie bietet Karten und Ebenen (Topografie, Luftbilder, historische Karten, Kataster/Grundbuch, Umwelt, Mobilität, Tourismus und mehr), eine Adress- und Parzellensuche, Mess- und Druckwerkzeuge, eine 3D-„Virtual City Map“, einen Datenkatalog und offene Webdienste (WMS/WFS). Nur allgemeine Informationen. Stand: Juni 2026. Neuer 3D-Viewer (3d.geoportail.lu) seit Dezember 2025. Geprüft am 9. November 2026.*

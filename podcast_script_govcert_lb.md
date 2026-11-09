@@ -18,7 +18,7 @@
 **TOM:** Stellt Iech se vir wéi eng Pompjeeën, mä fir Cyberattacken.
 **ANNA:** Wann et e schwéieren Tëschefall am Beräich vun der Computersécherheet gëtt, reagéiere se séier, fir de Schued ze begrenzen.
 **TOM:** A wie schütze se genau?
-**ANNA:** D'Informatiounssystemer vun der Regierung, an aner Betreiber vu kritteschen Infrastrukturen, ëffentlech a privat.
+**ANNA:** D'Informatiounssystemer vum Staat a vun de Betreiber vu kritteschen Infrastrukturen. Zënter engem neie Gesetz vun 2026 wenden aner Betriber an d'Gemengen sech un d'Schwësterequipe CIRCL.
 **TOM:** Krittesch Infrastrukturen, dat sinn d'Systemer, ouni déi e Land net funktionéiere kann... Energie, Waasser, Gesondheet, Finanzen.
 **ANNA:** GOVCERT.LU ass also den zentrale Kontaktpunkt fir Tëschefäll, déi d'Land, seng Bierger oder seng Wirtschaft bedrohe kéinten.
 **TOM:** Schwätze mer doriwwer, wat se tatsächlech maachen, wann eng Attack geschitt.
@@ -64,4 +64,4 @@
 
 ---
 
-*Quellen: GOVCERT.LU, govcert.lu — d'Computer Security Incident Response Team (CSIRT) vun der Regierung vu Lëtzebuerg, den zentrale Kontaktpunkt fir IT-Tëschefäll, déi d'Informatiounssystemer vun der Regierung an anere Betreiber vu kritteschen ëffentlechen oder privaten Infrastrukturen geféierde kéinten; et reagéiert op sécherheetsrelevant Cyber-Tëschefäll an dämpft se of, baut méi widderstandsfäeg Infrastrukturen op, lued d'Ëffentlechkeet an, Tëschefäll ze mellen, a publizéiert Ukënnegungen (zum Beispill iwwer Phishing-Bedrohungen). Nëmmen allgemeng Informatiounen. Stand: Juni 2026.*
+*Quellen: GOVCERT.LU, govcert.lu — d'Computer Security Incident Response Team (CSIRT) vun der Regierung vu Lëtzebuerg, den zentrale Kontaktpunkt fir IT-Tëschefäll, déi d'Informatiounssystemer vun der Regierung an anere Betreiber vu kritteschen ëffentlechen oder privaten Infrastrukturen geféierde kéinten; et reagéiert op sécherheetsrelevant Cyber-Tëschefäll an dämpft se of, baut méi widderstandsfäeg Infrastrukturen op, lued d'Ëffentlechkeet an, Tëschefäll ze mellen, a publizéiert Ukënnegungen (zum Beispill iwwer Phishing-Bedrohungen). Nëmmen allgemeng Informatiounen. Stand: Juni 2026. No dem NIS2-Gesetz vum 5. Mee 2026 ass GOVCERT.LU (beim HCPN) den CSIRT fir den ëffentleche Secteur an d'kritesch Entitéiten, an de CIRCL fir de private Secteur, d'Gemengen an déi net-staatlech Entitéiten; den ILR ass déi zoustänneg Autoritéit. Iwwerpréift den 9. November 2026.*

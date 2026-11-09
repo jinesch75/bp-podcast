@@ -33,8 +33,8 @@
 **ANNA:** Those are magical occasions to explore places you might never otherwise visit.
 **TOM:** The portal isn't only for audiences, though. It's also for the people who make culture.
 **ANNA:** That's a good point. It supports the cultural sector itself... the artists, the institutions, the organisers.
-**TOM:** It's part of a bigger effort to develop culture in Luxembourg, with a long-term cultural plan.
-**ANNA:** And to make culture more accessible, more inclusive, and more present in every region.
+**TOM:** It's part of a bigger effort to develop culture in Luxembourg, guided by a cultural development plan that runs until 2028.
+**ANNA:** And a national action plan, launched in 2026, works to make culture more accessible, more inclusive, and more present in every region.
 **TOM:** There's even cooperation with the communes, so that local culture is supported close to home.
 **ANNA:** Let's talk about why culture matters so much, beyond simply being enjoyable.
 **TOM:** First, because it brings people together... across languages, ages and backgrounds.
@@ -42,7 +42,7 @@
 **TOM:** Second, because culture helps us understand each other, and ourselves.
 **ANNA:** A play, a song, an exhibition can open a window into another life, or our own.
 **TOM:** And third, because it's simply one of the joys of life. We all need beauty and wonder.
-**ANNA:** And much of it is affordable, or even free, if you know where to look.
+**ANNA:** And much of it is affordable, or even free, if you know where to look. With the Kulturpass, people on low incomes can enjoy many venues for free.
 **TOM:** Which is the whole point of the portal... making it easy to find and to join in.
 **ANNA:** Let's make it practical. How can someone use the culture portal?
 **TOM:** First, before a weekend, check the agenda for events near you, and try something new.
@@ -62,4 +62,4 @@
 
 ---
 
-*Sources: culture.lu — the cultural portal supported by the Ministry of Culture, grouping together essential information on cultural life in Luxembourg: an agenda of cultural events across the country, listings of cultural venues and institutions (museums, theatres, cultural centres), heritage (including events such as museum nights and European heritage days), and support for the cultural sector within Luxembourg's cultural development plan and cooperation with the communes. General information only. Accurate as of June 2026.*
+*Sources: culture.lu — the cultural portal supported by the Ministry of Culture, grouping together essential information on cultural life in Luxembourg: an agenda of cultural events across the country, listings of cultural venues and institutions (museums, theatres, cultural centres), heritage (including events such as museum nights and European heritage days), and support for the cultural sector within Luxembourg's cultural development plan and cooperation with the communes. General information only. Accurate as of June 2026. Cultural development plan (Kulturentwécklungsplang) 2018–2028; national action plan 'Access to culture' presented in April 2026 (2026–2030), including the Kulturpass; culture.lu portal announced May 2026. Fact-checked 9 November 2026.*

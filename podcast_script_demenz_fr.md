@@ -32,15 +32,15 @@
 **TOM:** Et il y a tout autant d'attention pour les proches, les personnes qui aident et qui accompagnent.
 **ANNA:** S'occuper d'une personne atteinte de démence est un profond acte d'amour, mais cela peut être épuisant.
 **TOM:** Le centre aide les proches à prendre soin de leur propre santé aussi, et à ne pas tout porter seuls.
-**ANNA:** Il peut vous orienter vers d'autres services, des groupes de soutien, et des partenaires partout dans le pays.
+**ANNA:** Il peut vous orienter vers plus d'une centaine de services, des groupes de soutien, et des partenaires partout dans le pays.
 **TOM:** Il y a même un accent mis sur la prévention, ce qui donne un véritable espoir.
 **ANNA:** Oui. Vivre sainement... rester actif, bien manger, garder l'esprit et la vie sociale occupés... peut réduire le risque.
 **TOM:** Ce n'est pas une garantie, mais ce qui est bon pour le cœur est aussi bon pour le cerveau.
-**ANNA:** Le centre organise des conférences, des événements et un programme de prévention autour précisément de cela.
+**ANNA:** Le centre organise des conférences, des événements et des campagnes de sensibilisation, et il existe aussi un programme national de prévention de la démence.
 **TOM:** Il y a donc du savoir, du soutien et de l'espoir, le tout dans un même lieu accueillant.
 **ANNA:** Disons un mot tout en douceur sur le fait de demander de l'aide, car c'est un sujet délicat.
 **TOM:** Si vous êtes inquiet pour vous-même, ou pour une personne que vous aimez, demander des informations est un signe de force, pas de faiblesse.
-**ANNA:** Et contacter le centre est simple... par téléphone, par e-mail, ou via leur site internet.
+**ANNA:** Et contacter le centre est simple... par téléphone, par e-mail, via leur site internet, ou sur place à Luxembourg-Ville, et parfois dans d'autres villes.
 **TOM:** Ils sont là pour écouter, pour informer, et pour vous aider à trouver votre chemin.
 **ANNA:** Rendons cela concret. Que peut-on retenir de tout cela ?
 **TOM:** Premièrement, si vous avez des inquiétudes concernant la mémoire, cherchez une bonne information tôt, et faites un bilan approprié.
@@ -62,4 +62,4 @@
 
 ---
 
-*Sources : Info-Zenter Demenz, demenz.lu — le centre national d'information et de consultation sur les troubles de la mémoire et la démence, pour les personnes touchées, leurs proches, les professionnels de santé et toute personne intéressée ; toutes les consultations et tous les documents sont gratuits. Les thèmes abordés incluent la compréhension de la démence et la manière dont elle se distingue des simples trous de mémoire, le diagnostic, le fait de bien vivre au quotidien, le soutien aux proches, et la prévention (un mode de vie sain réduit le risque), ainsi que des événements et un programme de prévention de la démence. Contact : +352 26 47 00. Cet épisode aborde un sujet de santé sensible et ne constitue qu'une information générale — pour des préoccupations personnelles, contactez l'Info-Zenter Demenz ou un professionnel de santé. Informations à jour en juin 2026.*
+*Sources : Info-Zenter Demenz, demenz.lu — le centre national d'information et de consultation sur les troubles de la mémoire et la démence, pour les personnes touchées, leurs proches, les professionnels de santé et toute personne intéressée ; toutes les consultations et tous les documents sont gratuits. Les thèmes abordés incluent la compréhension de la démence et la manière dont elle se distingue des simples trous de mémoire, le diagnostic, le fait de bien vivre au quotidien, le soutien aux proches, et la prévention (un mode de vie sain réduit le risque), ainsi que des événements et un programme de prévention de la démence. Contact : +352 26 47 00. Cet épisode aborde un sujet de santé sensible et ne constitue qu'une information générale — pour des préoccupations personnelles, contactez l'Info-Zenter Demenz ou un professionnel de santé. Informations à jour en juin 2026. Le site demenz.lu répertorie plus de 100 services ; campagnes « VergiessMechNet » et « Mäi Liewen mat Demenz » ; Programme Démence Prévention (pdp.lu) ; permanences mensuelles aussi à Esch-sur-Alzette. Vérifié le 9 novembre 2026.*

@@ -18,7 +18,7 @@
 **TOM:** Think of them as a fire brigade, but for cyberattacks.
 **ANNA:** When there's a serious computer security incident, they respond quickly to limit the damage.
 **TOM:** And who do they protect, exactly?
-**ANNA:** The information systems of the government, and other critical infrastructure operators, public and private.
+**ANNA:** The information systems of the State and of critical infrastructure operators. Since a new law in 2026, other companies and the communes turn to its sister team, CIRCL.
 **TOM:** Critical infrastructure means the systems a country can't function without... energy, water, health, finance.
 **ANNA:** So GOVCERT.LU is the central point of contact for incidents that could threaten the country, its citizens, or its economy.
 **TOM:** Let's talk about what they actually do when an attack happens.
@@ -64,4 +64,4 @@
 
 ---
 
-*Sources: GOVCERT.LU, govcert.lu — the Computer Security Incident Response Team (CSIRT) of the Government of Luxembourg, the central point of contact for IT incidents that could compromise the information systems of the government and other critical public or private infrastructure operators; it responds to and mitigates security-related cyber incidents, builds more resilient infrastructure, invites the public to report incidents, and publishes announcements (for example about phishing threats). General information only. Accurate as of June 2026.*
+*Sources: GOVCERT.LU, govcert.lu — the Computer Security Incident Response Team (CSIRT) of the Government of Luxembourg, the central point of contact for IT incidents that could compromise the information systems of the government and other critical public or private infrastructure operators; it responds to and mitigates security-related cyber incidents, builds more resilient infrastructure, invites the public to report incidents, and publishes announcements (for example about phishing threats). General information only. Accurate as of June 2026. Under the NIS2 law of 5 May 2026, GOVCERT.LU (part of the HCPN) is the CSIRT for the public sector and critical entities, and CIRCL for the private sector, communes and non-governmental entities; the ILR is the competent authority. Fact-checked 9 November 2026.*

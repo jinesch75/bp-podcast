@@ -33,8 +33,8 @@
 **ANNA:** Dat sinn magesch Geleeënheeten, fir Plazen z'entdecken, déi Dir soss vläicht ni géift besichen.
 **TOM:** D'Portal ass awer net nëmme fir d'Publikum do. Et ass och fir d'Leit, déi Kultur maachen.
 **ANNA:** Dat ass e gudde Punkt. Et ënnerstëtzt de Kultursecteur selwer... d'Kënschtler, d'Institutiounen, d'Organisateuren.
-**TOM:** Et ass Deel vun engem méi grousse Beméien, fir d'Kultur zu Lëtzebuerg z'entwéckelen, mat engem laangfristege Kulturplang.
-**ANNA:** A fir d'Kultur méi zougänglech, méi inklusiv a méi präsent an all Regioun ze maachen.
+**TOM:** Et ass Deel vun engem méi grousse Beméien, fir d'Kultur zu Lëtzebuerg z'entwéckelen, op Basis vum Kulturentwécklungsplang, deen bis 2028 leeft.
+**ANNA:** An en nationalen Aktiounsplang, deen 2026 lancéiert gouf, soll d'Kultur méi zougänglech, méi inklusiv a méi präsent an all Regioun maachen.
 **TOM:** Et gëtt souguer eng Zesummenaarbecht mat de Gemengen, fir datt déi lokal Kultur no bei doheem ënnerstëtzt gëtt.
 **ANNA:** Schwätze mer doriwwer, firwat Kultur esou wichteg ass, iwwert dat einfacht Vergnügen eraus.
 **TOM:** Als éischt, well se d'Leit zesummebréngt... iwwer Sproochen, Alter an Hierkonft eraus.
@@ -42,7 +42,7 @@
 **TOM:** Als zweet, well d'Kultur eis hëlleft, eis géigesäiteg ze verstoen, an eis selwer ze verstoen.
 **ANNA:** E Theaterstéck, e Lidd, eng Ausstellung kënnen e Fënster op en anert Liewen opmaachen, oder op eist eegent.
 **TOM:** An als drëtt, well et einfach eng vun de Freede vum Liewen ass. Mir brauchen all Schéinheet a Staunen.
-**ANNA:** A vill dovun ass bezuelbar, oder souguer gratis, wann Dir wësst, wou Der musst kucken.
+**ANNA:** A vill dovun ass bezuelbar, oder souguer gratis, wann Dir wësst, wou Der musst kucken. Mam Kulturpass kënne Leit mat engem klengen Akommes vill Haiser gratis besichen.
 **TOM:** Wat genee de Sënn vun der Portal ass... et einfach ze maachen, fir Kultur ze fannen a matzemaachen.
 **ANNA:** Loosse mer et praktesch maachen. Wéi kann een d'Kulturportal benotzen?
 **TOM:** Als éischt, virun engem Weekend, kuckt am Agenda no Evenementer an Ärer Géigend, a probéiert eppes Neies.
@@ -62,4 +62,4 @@
 
 ---
 
-*Quellen: culture.lu — d'Kulturportal, ënnerstëtzt vum Kulturministère, dat déi wichteg Informatiounen iwwert d'kulturt Liewen zu Lëtzebuerg zesummefaasst: en Agenda vu kulturellen Evenementer am ganze Land, Lëschte vu kulturelle Plazen an Institutiounen (Muséeën, Theateren, Kulturzentren), Kulturierwen (dorënner Evenementer ewéi d'Nuit des Musées an d'Europäesch Deeg vum Kulturierwen), an Ënnerstëtzung fir de Kultursecteur am Kader vum Kulturentwécklungsplang vu Lëtzebuerg an der Zesummenaarbecht mat de Gemengen. Nëmmen allgemeng Informatiounen. Stand: Juni 2026.*
+*Quellen: culture.lu — d'Kulturportal, ënnerstëtzt vum Kulturministère, dat déi wichteg Informatiounen iwwert d'kulturt Liewen zu Lëtzebuerg zesummefaasst: en Agenda vu kulturellen Evenementer am ganze Land, Lëschte vu kulturelle Plazen an Institutiounen (Muséeën, Theateren, Kulturzentren), Kulturierwen (dorënner Evenementer ewéi d'Nuit des Musées an d'Europäesch Deeg vum Kulturierwen), an Ënnerstëtzung fir de Kultursecteur am Kader vum Kulturentwécklungsplang vu Lëtzebuerg an der Zesummenaarbecht mat de Gemengen. Nëmmen allgemeng Informatiounen. Stand: Juni 2026. Kulturentwécklungsplang 2018–2028; nationalen Aktiounsplang „Zougang zur Kultur“, am Abrëll 2026 virgestallt (2026–2030), mam Kulturpass; Portal culture.lu am Mee 2026 ugekënnegt. Iwwerpréift den 9. November 2026.*

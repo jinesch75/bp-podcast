@@ -28,10 +28,10 @@
 **TOM:** Es ist also gut für die Wirtschaft und gut für die Gesellschaft zugleich.
 **ANNA:** Luxemburg hat dafür sogar eine besondere Rechtsform geschaffen.
 **TOM:** Ja. Es gibt einen Status namens Gesellschaft mit gesellschaftlicher Wirkung.
-**ANNA:** Sie erlaubt es, ein echtes Unternehmen zu gründen, dessen offizieller Zweck die soziale Wirkung ist, gesetzlich anerkannt.
+**ANNA:** Sie erlaubt es, ein echtes Unternehmen zu gründen, dessen offizieller Zweck die soziale Wirkung ist, gesetzlich anerkannt seit 2016 und vom Arbeitsministerium zugelassen.
 **TOM:** So kann eine Unternehmerin oder ein Unternehmer etwas aufbauen, das sich selbst trägt, aber existiert, um Gutes zu tun.
 **ANNA:** Und genau hier kommt das Portal ins Spiel, für Menschen mit einer Idee.
-**TOM:** Das Portal erklärt die Sozial- und Solidarwirtschaft und wie man ein solches Unternehmen gründet.
+**TOM:** Das Portal des Arbeitsministeriums erklärt die Sozial- und Solidarwirtschaft und wie man ein solches Unternehmen gründet. Und der Inkubator des Ministeriums begleitet Gründer kostenlos.
 **ANNA:** Wenn Sie also davon träumen, ein Unternehmen zu gründen, das auch etwas bewirkt, zeigt es Ihnen den Weg.
 **TOM:** Es ist auch Teil einer größeren Bewegung. Sie wächst in ganz Europa und wird sogar bei den Vereinten Nationen anerkannt.
 **ANNA:** Denn immer mehr Menschen möchten, dass ihre Arbeit und ihr Geld etwas bedeuten.
@@ -58,4 +58,4 @@
 
 ---
 
-*Quellen: Portail de l'économie sociale et solidaire, economie-sociale-solidaire.public.lu, des für die Sozial- und Solidarwirtschaft zuständigen Ministeriums — Informationen über die Sozial- und Solidarwirtschaft (Organisationen, deren vorrangiges Ziel ein sozialer oder gesellschaftlicher Zweck und nicht der Gewinn ist: Genossenschaften, Vereine, Gegenseitigkeitsgesellschaften, Stiftungen und Sozialunternehmen) sowie über die Gründung einer Gesellschaft mit gesellschaftlicher Wirkung (société d'impact sociétal, SIS); eingeordnet in den Kontext des EU-Aktionsplans für die Sozialwirtschaft und der UN-Resolution von 2023 zur Sozial- und Solidarwirtschaft. Nur allgemeine Informationen. Stand: Juni 2026.*
+*Quellen: Portail de l'économie sociale et solidaire, economie-sociale-solidaire.public.lu, des für die Sozial- und Solidarwirtschaft zuständigen Ministeriums — Informationen über die Sozial- und Solidarwirtschaft (Organisationen, deren vorrangiges Ziel ein sozialer oder gesellschaftlicher Zweck und nicht der Gewinn ist: Genossenschaften, Vereine, Gegenseitigkeitsgesellschaften, Stiftungen und Sozialunternehmen) sowie über die Gründung einer Gesellschaft mit gesellschaftlicher Wirkung (société d'impact sociétal, SIS); eingeordnet in den Kontext des EU-Aktionsplans für die Sozialwirtschaft und der UN-Resolution von 2023 zur Sozial- und Solidarwirtschaft. Nur allgemeine Informationen. Stand: Juni 2026. SIS durch das Gesetz vom 12. Dezember 2016 geschaffen; Zulassung durch das Arbeitsministerium (Abteilung Sozial- und Solidarwirtschaft), das das Portal und den kostenlosen Social Business Incubator betreibt; Leitfaden für Sozialunternehmer im Januar 2026 aktualisiert; die ULESS wurde im September 2025 zu Entrepreneurs d'Impact Luxembourg (EIL). Geprüft am 9. November 2026.*

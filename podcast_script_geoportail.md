@@ -28,7 +28,7 @@
 **TOM:** So if you're buying a house, or curious about a plot, you can look up the parcel.
 **ANNA:** There are also clever tools built in. You can measure a distance or an area.
 **TOM:** You can search for an address, and jump straight to it.
-**ANNA:** You can even explore parts of the country in 3D, with a virtual model of the buildings.
+**ANNA:** Since late 2025, a new 3D viewer even lets you explore the country in 3D, with a virtual model of the buildings.
 **TOM:** And you can print a clean map, or save it, for a walk, a project, or a meeting.
 **ANNA:** Let's talk about who this is for, because it really is for everyone.
 **TOM:** For a curious citizen, it's a wonderful way to explore your town, your region, your country.
@@ -60,4 +60,4 @@
 
 ---
 
-*Sources: Geoportail.lu — the official national platform for governmental geodata of the Grand Duchy of Luxembourg, operated by the Administration du cadastre et de la topographie (ACT). It provides maps and layers (topography, aerial imagery, historic maps, cadastre/land registry, environment, mobility, tourism and more), an address and parcel search, measuring and printing tools, a 3D "Virtual City Map", a data catalogue and open web services (WMS/WFS). General information only. Accurate as of June 2026.*
+*Sources: Geoportail.lu — the official national platform for governmental geodata of the Grand Duchy of Luxembourg, operated by the Administration du cadastre et de la topographie (ACT). It provides maps and layers (topography, aerial imagery, historic maps, cadastre/land registry, environment, mobility, tourism and more), an address and parcel search, measuring and printing tools, a 3D "Virtual City Map", a data catalogue and open web services (WMS/WFS). General information only. Accurate as of June 2026. New 3D viewer (3d.geoportail.lu) since December 2025. Fact-checked 9 November 2026.*

@@ -32,15 +32,15 @@
 **TOM:** An et gëtt grad esou vill Fleeg fir d'Proche, d'Leit, déi hëllefen a begleeden.
 **ANNA:** Sech ëm e Mënsch mat Demenz ze këmmeren, ass en déiwen Akt vu Léift, mä et kann ustrengend sinn.
 **TOM:** D'Zentrum hëlleft de Proche, och op hir eege Gesondheet ze oppassen, an net alles eleng ze droen.
-**ANNA:** Et kann Iech bei aner Servicer, Selbsthëllefsgruppen, a Partner am ganze Land weiderleeden.
+**ANNA:** Et kann Iech bei méi wéi honnert Servicer, Selbsthëllefsgruppen, a Partner am ganze Land weiderleeden.
 **TOM:** Et gëtt souguer e Schwéierpunkt op der Virbeugung, wat richteg Hoffnung gëtt.
 **ANNA:** Jo. Gesond liewen... aktiv bleiwen, sech gutt ernähren, de Geescht an d'sozialt Liewe beschäftegt halen... kann d'Risiko reduzéieren.
 **TOM:** Et ass keng Garantie, mä wat gutt fir d'Häerz ass, ass och gutt fir d'Gehir.
-**ANNA:** D'Zentrum organiséiert Virträg, Veranstaltungen an e Virbeugungsprogramm grad ronderëm dat.
+**ANNA:** D'Zentrum organiséiert Virträg, Veranstaltungen a Sensibiliséierungscampagnen, an et gëtt och en nationaalt Programm fir Demenz-Preventioun.
 **TOM:** Et gëtt also Wëssen, Ënnerstëtzung an Hoffnung, alles op engem awueleudegen Ort.
 **ANNA:** Loosst eis e sanft Wuert doriwwer soen, sech Hëllef ze sichen, well dat ass en delikat Thema.
 **TOM:** Wann Dir Iech ëm Iech selwer Suerge maacht, oder ëm e Mënsch, deen Dir gär hutt, ass et e Zeeche vu Stäerkt, no Informatiounen ze froen, net vu Schwächt.
-**ANNA:** An d'Zentrum ze kontaktéieren ass einfach... iwwer Telefon, iwwer E-Mail, oder iwwer hir Websäit.
+**ANNA:** An d'Zentrum ze kontaktéieren ass einfach... iwwer Telefon, iwwer E-Mail, iwwer hir Websäit, oder op der Plaz an der Stad, an heiansdo och an anere Stied.
 **TOM:** Si sinn do, fir nozelauschteren, fir ze informéieren, a fir Iech ze hëllefen, Äre Wee ze fannen.
 **ANNA:** Loosst eis et praktesch maachen. Wat kënnen d'Leit dovunner mathuelen?
 **TOM:** Éischtens, wann Dir Iech Suergen ëm d'Gedächtnis maacht, sicht Iech fréi gutt Informatiounen, an eng richteg Ofklärung.
@@ -62,4 +62,4 @@
 
 ---
 
-*Quellen: Info-Zenter Demenz, demenz.lu — dat nationaalt Informatiouns- a Berodungszentrum iwwer Gedächtnisstéierungen an Demenz, fir Betraffen, hir Proche, d'Gesondheetsfachleit an all Interesséierten; all Berodungen an Ënnerlage si gratis. Zu den Themen gehéieren d'Verstoe vun Demenz a wéi se sech vu gewéinleche Gedächtnislücken ënnerscheet, d'Diagnose, dat gutt Liewen am Alldag, d'Ënnerstëtzung fir d'Proche, an d'Virbeugung (e gesonde Liewensstil setzt d'Risiko erof), souwéi Veranstaltungen an e Programm fir Demenz-Virbeugung. Kontakt: +352 26 47 00. Dës Episod behandelt e sensibelt Gesondheetsthema an ass nëmmen eng allgemeng Informatioun — bei perséinlechen Uleies wennt Iech un den Info-Zenter Demenz oder un eng Gesondheetsfachkraaft. Stand: Juni 2026.*
+*Quellen: Info-Zenter Demenz, demenz.lu — dat nationaalt Informatiouns- a Berodungszentrum iwwer Gedächtnisstéierungen an Demenz, fir Betraffen, hir Proche, d'Gesondheetsfachleit an all Interesséierten; all Berodungen an Ënnerlage si gratis. Zu den Themen gehéieren d'Verstoe vun Demenz a wéi se sech vu gewéinleche Gedächtnislücken ënnerscheet, d'Diagnose, dat gutt Liewen am Alldag, d'Ënnerstëtzung fir d'Proche, an d'Virbeugung (e gesonde Liewensstil setzt d'Risiko erof), souwéi Veranstaltungen an e Programm fir Demenz-Virbeugung. Kontakt: +352 26 47 00. Dës Episod behandelt e sensibelt Gesondheetsthema an ass nëmmen eng allgemeng Informatioun — bei perséinlechen Uleies wennt Iech un den Info-Zenter Demenz oder un eng Gesondheetsfachkraaft. Stand: Juni 2026. D'Websäit demenz.lu weist méi wéi 100 Servicer; Campagnen „VergiessMechNet“ an „Mäi Liewen mat Demenz“; Programme Démence Prévention (pdp.lu); all Mount Sprechstonnen och zu Esch-Uelzecht. Iwwerpréift den 9. November 2026.*

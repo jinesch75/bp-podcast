@@ -28,7 +28,7 @@
 **TOM:** Wann Dir also en Haus kaaft, oder neigéiereg op e Grondstéck sidd, kënnt Dir d'Parzell nokucken.
 **ANNA:** Et ginn och clever agebaute Hëllefsmëttelen. Dir kënnt eng Distanz oder eng Fläch moossen.
 **TOM:** Dir kënnt no enger Adress sichen an direkt dohinner sprangen.
-**ANNA:** Dir kënnt souguer Deeler vum Land an 3D entdecken, mat engem virtuelle Modell vun de Gebaier.
+**ANNA:** Zënter Enn 2025 kënnt Dir mat engem neien 3D-Viewer souguer d'Land an 3D entdecken, mat engem virtuelle Modell vun de Gebaier.
 **TOM:** An Dir kënnt eng propper Kaart ausdrécken oder späicheren, fir e Spadséiergang, e Projet oder eng Versammlung.
 **ANNA:** Schwätze mer doriwwer, fir wien dat ass, well et ass wierklech fir jiddereen.
 **TOM:** Fir e neigéierege Bierger ass et eng wonnerbar Manéier, fir seng Stad, seng Regioun, säi Land z'entdecken.
@@ -60,4 +60,4 @@
 
 ---
 
-*Quellen: Geoportail.lu — déi offiziell national Plattform fir déi staatlech Geodonnéeë vum Groussherzogtum Lëtzebuerg, bedriwwe vun der Administration du cadastre et de la topographie (ACT). Si bitt Kaarten a Schichten (Topografie, Luftbiller, historesch Kaarten, Kadaster/Grondbuch, Ëmwelt, Mobilitéit, Tourismus a méi), eng Adress- a Parzellesich, Moss- an Dréckhëllefsmëttelen, eng 3D-„Virtual City Map“, e Donnéeëkatalog an oppe Webdéngschter (WMS/WFS). Nëmmen allgemeng Informatiounen. Stand: Juni 2026.*
+*Quellen: Geoportail.lu — déi offiziell national Plattform fir déi staatlech Geodonnéeë vum Groussherzogtum Lëtzebuerg, bedriwwe vun der Administration du cadastre et de la topographie (ACT). Si bitt Kaarten a Schichten (Topografie, Luftbiller, historesch Kaarten, Kadaster/Grondbuch, Ëmwelt, Mobilitéit, Tourismus a méi), eng Adress- a Parzellesich, Moss- an Dréckhëllefsmëttelen, eng 3D-„Virtual City Map“, e Donnéeëkatalog an oppe Webdéngschter (WMS/WFS). Nëmmen allgemeng Informatiounen. Stand: Juni 2026. Neien 3D-Viewer (3d.geoportail.lu) zënter Dezember 2025. Iwwerpréift den 9. November 2026.*

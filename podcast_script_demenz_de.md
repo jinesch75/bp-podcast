@@ -32,15 +32,15 @@
 **TOM:** Und es gibt ebenso viel Fürsorge für die Angehörigen, die Menschen, die helfen und begleiten.
 **ANNA:** Sich um einen Menschen mit Demenz zu kümmern, ist ein tiefer Akt der Liebe, aber es kann erschöpfend sein.
 **TOM:** Das Zentrum hilft den Angehörigen, auch auf ihre eigene Gesundheit zu achten, und nicht alles allein zu tragen.
-**ANNA:** Es kann Sie zu anderen Diensten, Selbsthilfegruppen, und Partnern im ganzen Land weiterleiten.
+**ANNA:** Es kann Sie zu mehr als hundert Diensten, Selbsthilfegruppen, und Partnern im ganzen Land weiterleiten.
 **TOM:** Es gibt sogar einen Schwerpunkt auf Vorbeugung, was echte Hoffnung gibt.
 **ANNA:** Ja. Gesund leben... aktiv bleiben, sich gut ernähren, den Geist und das soziale Leben beschäftigt halten... kann das Risiko verringern.
 **TOM:** Es ist keine Garantie, aber was gut für das Herz ist, ist auch gut für das Gehirn.
-**ANNA:** Das Zentrum veranstaltet Vorträge, Veranstaltungen und ein Vorbeugungsprogramm zu genau diesem Thema.
+**ANNA:** Das Zentrum veranstaltet Vorträge, Veranstaltungen und Sensibilisierungskampagnen, und es gibt auch ein nationales Demenz-Präventionsprogramm.
 **TOM:** Es gibt also Wissen, Unterstützung und Hoffnung, alles an einem einladenden Ort.
 **ANNA:** Sagen wir ein behutsames Wort darüber, Hilfe zu suchen, denn das ist ein heikles Thema.
 **TOM:** Wenn Sie sich um sich selbst Sorgen machen, oder um einen Menschen, den Sie lieben, ist es ein Zeichen von Stärke, nach Informationen zu fragen, nicht von Schwäche.
-**ANNA:** Und das Zentrum zu kontaktieren ist einfach... telefonisch, per E-Mail, oder über ihre Webseite.
+**ANNA:** Und das Zentrum zu kontaktieren ist einfach... telefonisch, per E-Mail, über ihre Webseite, oder vor Ort in Luxemburg-Stadt, und manchmal auch in anderen Städten.
 **TOM:** Sie sind da, um zuzuhören, um zu informieren, und um Ihnen zu helfen, Ihren Weg zu finden.
 **ANNA:** Machen wir es praktisch. Was können die Menschen daraus mitnehmen?
 **TOM:** Erstens, wenn Sie sich Sorgen um das Gedächtnis machen, holen Sie sich früh gute Informationen, und eine ordentliche Abklärung.
@@ -62,4 +62,4 @@
 
 ---
 
-*Quellen: Info-Zenter Demenz, demenz.lu — das nationale Informations- und Beratungszentrum zu Gedächtnisstörungen und Demenz, für Betroffene, ihre Angehörigen, das medizinische Fachpersonal und alle Interessierten; alle Beratungen und Unterlagen sind kostenlos. Zu den Themen gehören das Verständnis von Demenz und wie sie sich von gewöhnlichen Gedächtnislücken unterscheidet, die Diagnose, das gute Leben im Alltag, die Unterstützung für Angehörige, und die Vorbeugung (ein gesunder Lebensstil senkt das Risiko), sowie Veranstaltungen und ein Demenz-Vorbeugungsprogramm. Kontakt: +352 26 47 00. Diese Folge behandelt ein sensibles Gesundheitsthema und ist nur eine allgemeine Information — bei persönlichen Anliegen wenden Sie sich an den Info-Zenter Demenz oder an eine medizinische Fachkraft. Stand: Juni 2026.*
+*Quellen: Info-Zenter Demenz, demenz.lu — das nationale Informations- und Beratungszentrum zu Gedächtnisstörungen und Demenz, für Betroffene, ihre Angehörigen, das medizinische Fachpersonal und alle Interessierten; alle Beratungen und Unterlagen sind kostenlos. Zu den Themen gehören das Verständnis von Demenz und wie sie sich von gewöhnlichen Gedächtnislücken unterscheidet, die Diagnose, das gute Leben im Alltag, die Unterstützung für Angehörige, und die Vorbeugung (ein gesunder Lebensstil senkt das Risiko), sowie Veranstaltungen und ein Demenz-Vorbeugungsprogramm. Kontakt: +352 26 47 00. Diese Folge behandelt ein sensibles Gesundheitsthema und ist nur eine allgemeine Information — bei persönlichen Anliegen wenden Sie sich an den Info-Zenter Demenz oder an eine medizinische Fachkraft. Stand: Juni 2026. Die Website demenz.lu listet mehr als 100 Dienste; Kampagnen „VergiessMechNet“ und „Mäi Liewen mat Demenz“; Programme Démence Prévention (pdp.lu); monatliche Sprechstunden auch in Esch-sur-Alzette. Geprüft am 9. November 2026.*
