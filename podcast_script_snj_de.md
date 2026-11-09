@@ -14,7 +14,7 @@
 **TOM:** Oft kürzt man den Namen mit den Initialen ab... S, N, J.
 **ANNA:** Der SNJ hat ein schönes Motto auf Luxemburgisch... „Jonker staark maachen". Das bedeutet „junge Menschen stärken".
 **TOM:** Also Anna, was genau ist der SNJ?
-**ANNA:** Es ist ein öffentlicher Dienst des Staates, gegründet im Jahr 1964. Er unterstützt junge Menschen also seit sechzig Jahren.
+**ANNA:** Es ist ein öffentlicher Dienst des Staates, gegründet im Jahr 1964. Er unterstützt junge Menschen also seit mehr als sechzig Jahren.
 **TOM:** Und er arbeitet unter dem Ministerium für Bildung, Kinder und Jugend.
 **ANNA:** Seine große Aufgabe ist es, ein Umfeld zu schaffen, in dem sich junge Menschen positiv entwickeln können.
 **TOM:** Ihnen zu helfen, zu verantwortungsbewussten, aktiven und fürsorglichen Bürgern heranzuwachsen.
@@ -58,15 +58,15 @@
 **TOM:** Sie sorgen dafür, dass das Gesetz eingehalten wird, bereiten die Au-pairs vor und helfen, wenn es einen Konflikt gibt.
 **ANNA:** So sind sowohl der junge Mensch als auch die Familie geschützt. Mehr erfahren Sie unter au Bindestrich pair Punkt lu.
 **TOM:** Es gibt auch einen vierten Teil... jungen Menschen zuhören.
-**ANNA:** Der SNJ untersucht die Situation junger Menschen, in Zusammenarbeit mit der Universität Luxemburg.
-**TOM:** Sie führen Umfragen durch und veröffentlichen alle fünf Jahre einen großen nationalen Jugendbericht.
+**ANNA:** Der SNJ hört jungen Menschen zu, durch Umfragen und Gesprächsgruppen.
+**TOM:** Und alle fünf Jahre gibt es einen großen nationalen Jugendbericht. Er ist die Grundlage für den nationalen Plan für junge Menschen, den Jugendpakt. Der neueste läuft von 2026 bis 2030, und der SNJ hat geholfen, ihn vorzubereiten.
 **ANNA:** Sie hören auch direkt zu, über den Jugendrat, den „Jugendrot", wo junge Menschen sich zu öffentlichen Themen äußern.
 **TOM:** So wird jungen Menschen nicht nur geholfen... sie werden gehört.
 **ANNA:** Und es gibt BEE SECURE, das viele Menschen kennen.
 **TOM:** BEE SECURE fördert die sichere und verantwortungsvolle Nutzung des Internets und neuer Technologien.
 **ANNA:** Tipps, um online sicher zu bleiben, Risiken zu vermeiden und Technologie klug zu nutzen.
 **TOM:** Geben wir einen Eindruck vom Umfang des Ganzen.
-**ANNA:** Der SNJ hat fünf Bildungszentren und lokale Jugendantennen im ganzen Land für die individuelle Begleitung.
+**ANNA:** Der SNJ hat fünf Bildungszentren, dazu kommt ein neues in Esch-sur-Alzette, und lokale Jugendantennen im ganzen Land für die individuelle Begleitung.
 **TOM:** Und jedes Jahr nehmen Zehntausende junger Menschen an seinen Aktivitäten teil.
 **ANNA:** Also Tom, machen wir das praktisch. Wie kann ein junger Mensch oder ein Elternteil den SNJ tatsächlich nutzen?
 **TOM:** Erstens... wenn Sie einen jungen Menschen kennen, der unsicher ist, was er nach der Schule tun soll, kann der SNJ ihm helfen, ein Lebensprojekt aufzubauen.
@@ -86,4 +86,4 @@
 
 ---
 
-*Quellen: Service national de la jeunesse (SNJ), snj.public.lu — „The National Youth Service" und snj.gouvernement.lu; Guichet.lu. Der SNJ ist ein öffentlicher Dienst, gegründet 1964 (Aufgaben festgelegt im geänderten Gesetz vom 4. Juli 2008 über die Jugend), unter der Aufsicht des Ministers für Bildung, Kinder und Jugend; Motto „Jonker staark maachen". Die Angaben (fünf Bildungszentren, lokale Jugendantennen, Freiwilligendienst, Au-Pair-Dienst, BEE SECURE, Zusammenarbeit mit der Universität Luxemburg) stammen vom SNJ. Nur allgemeine Informationen. Stand: Juni 2026.*
+*Quellen: Service national de la jeunesse (SNJ), snj.public.lu — „The National Youth Service" und snj.gouvernement.lu; Guichet.lu. Der SNJ ist ein öffentlicher Dienst, gegründet 1964 (Aufgaben festgelegt im geänderten Gesetz vom 4. Juli 2008 über die Jugend), unter der Aufsicht des Ministers für Bildung, Kinder und Jugend; Motto „Jonker staark maachen". Die Angaben (fünf Bildungszentren, lokale Jugendantennen, Freiwilligendienst, Au-Pair-Dienst, BEE SECURE, Zusammenarbeit mit der Universität Luxemburg) stammen vom SNJ. Nur allgemeine Informationen. Stand: Juni 2026. Aktualisierung: nationaler Jugendbericht alle fünf Jahre und Jugendpakt 2026–2030, herausgegeben vom SNJ; fünf Zentren + Esch-sur-Alzette ab Ende 2026 (snj.public.lu). Geprüft am 9. November 2026.*

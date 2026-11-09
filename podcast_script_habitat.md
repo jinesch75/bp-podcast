@@ -23,7 +23,7 @@
 **ANNA:** Exactly. Its mission is to collect information, to analyse it, and then to share it openly.
 **TOM:** Collect, analyse, share. That's a good way to remember it.
 **ANNA:** And it does not work completely alone. It has a key partner... a research institute called LISER.
-**TOM:** LISER is the Luxembourg Institute of Socio-Economic Research. It is a public research centre.
+**TOM:** LISER is the Luxembourg Institute of Socio-Economic Research. It is a public research centre. And for the sale-price statistics, the Observatoire also works hand in hand with STATEC, the national statistics institute.
 **ANNA:** They bring scientific rigour... proper methods, careful analysis. So the numbers you get are solid, not guesses.
 **TOM:** Good. So what does the Observatoire actually watch? What does it measure?
 **ANNA:** Several things. First, the sale prices of homes... how much it costs to buy.
@@ -42,26 +42,26 @@
 **TOM:** Those official records are passed each month to the Observatoire, by the Registration and Domains Administration.
 **ANNA:** And they are completed with information from the Land Registry and Cadastre, for example the surface area of each apartment.
 **TOM:** So these are not adverts or estimates. They are real, completed sales. That's about as reliable as it gets.
-**ANNA:** For rents, it's a bit different. Rent data comes mostly from property listings... homes advertised for rent.
+**ANNA:** For rents, it's a bit different. Rent data comes mostly from property listings... homes advertised for rent, collected with a big property website.
 **TOM:** So rents reflect what is being asked on the market, while sale prices reflect deals that actually happened.
-**ANNA:** There is one interesting limit, though. The Observatoire publishes detailed prices for apartments, but not for houses.
+**ANNA:** There is one interesting limit, though. The Observatoire publishes detailed prices per square metre, commune by commune, for apartments... but not for houses.
 **TOM:** Why is that, Anna?
 **ANNA:** Because for apartments, there is good data on the surface area, so you can calculate a fair price per square metre.
 **TOM:** But for individual houses, that detailed surface information isn't available in the same way.
-**ANNA:** So rather than publish numbers that could mislead people, they choose not to publish detailed house prices. That's honest.
+**ANNA:** So rather than publish numbers that could mislead people, they choose not to publish detailed house prices. For houses, STATEC publishes a general price index instead. That's honest.
 **TOM:** I respect that. Better to say "we don't have reliable data" than to invent it.
 **ANNA:** Now, let's give some real numbers, so this feels concrete.
 **TOM:** Yes please. What does an apartment actually cost?
-**ANNA:** In the third quarter of 2025, an existing apartment cost on average about 7,600 euros per square metre.
-**TOM:** And a brand-new apartment, still under construction, was higher... around 10,000 euros per square metre.
+**ANNA:** In recent years, an existing apartment has cost on average well over seven thousand euros per square metre.
+**TOM:** And a brand-new apartment, still under construction, costs even more... often close to ten thousand euros per square metre.
 **ANNA:** These are averages, of course. The price depends a lot on the commune, and on the quality of the home.
 **TOM:** And the numbers move every quarter. They go up, they go down. That's exactly why the Observatoire keeps watching.
-**ANNA:** For example, in that same period, the price of existing apartments had actually fallen a little compared with the quarter before.
+**ANNA:** For example, prices fell after 2022... and since then, the market has been slowly stabilising.
 **TOM:** So the market is not just one straight line going up. It breathes... it changes.
 **ANNA:** And here is the part I love. All of this data is public, and you can explore it yourself.
-**TOM:** The statistics, broken down by commune, are published on the national open-data platform, data dot public dot lu.
+**TOM:** The statistics, broken down by commune, are published on the national open-data platform, data dot public dot lu... and on the national Geoportal too.
 **ANNA:** So you can look up your own commune, and see how prices have moved there.
-**TOM:** There is even a price simulator on the Observatoire's website, to help you get an idea.
+**TOM:** There is even a price simulator on the Observatoire's website, and a rent simulator too, to help you get an idea.
 **ANNA:** Imagine you are thinking of buying or renting in a certain town. You can check the typical prices before you start.
 **TOM:** That's real power for ordinary people. Information that used to be hard to find is now open to everyone.
 **ANNA:** The Observatoire also publishes reports and notes, written in plain language, on specific questions.
@@ -98,4 +98,4 @@
 
 ---
 
-*Sources: Observatoire de l'Habitat, Ministère du Logement et de l'Aménagement du territoire, logement.public.lu — "Observatoire de l'habitat", "Prix de vente", "Prix de location", "Publications"; data.public.lu (Observatoire de l'Habitat open data); LISER (Luxembourg Institute of Socio-Economic Research). Figures cited (e.g. existing apartments averaging about 7,605 €/m² and new-build apartments about 10,034 €/m² in Q3 2025; sale-price data from notarial deeds via the Administration de l'Enregistrement et des Domaines and the Cadastre) are from the Observatoire de l'Habitat and dated to the third quarter of 2025. Figures are updated regularly and will change. General information only. Accurate as of June 2026.*
+*Sources: Observatoire de l'Habitat, Ministère du Logement et de l'Aménagement du territoire, logement.public.lu — "Observatoire de l'habitat", "Prix de vente", "Prix de location", "Publications"; data.public.lu (Observatoire de l'Habitat open data); LISER (Luxembourg Institute of Socio-Economic Research). Figures cited (e.g. existing apartments averaging about 7,605 €/m² and new-build apartments about 10,034 €/m² in Q3 2025; sale-price data from notarial deeds via the Administration de l'Enregistrement et des Domaines and the Cadastre) are from the Observatoire de l'Habitat and dated to the third quarter of 2025. Figures are updated regularly and will change. General information only. Accurate as of June 2026. Update: since the Q3 2025 figures, prices are described durably (existing apartments well over €7,000/m², new builds often close to €10,000/m²; prices fell after 2022 and have been stabilising — Le Logement en chiffres n°20, Sept 2026; rapport d'analyse n°25, June 2026). Sale-price statistics produced jointly with STATEC (since 2013); house prices as a STATEC price index; advertised rents collected with Immotop.lu; data also on the Géoportail. Fact-checked 9 November 2026.*

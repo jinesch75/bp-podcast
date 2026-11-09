@@ -95,6 +95,14 @@ D.push(['onis', 'description', 'ONIS helps people furthest from work move forwar
 D.push(['onis', 'description_fr', "l'ONIS aide les personnes les plus éloignées de l'emploi à avancer", "l'ONIS aide les personnes les plus éloignées de l'emploi – orientées par l'ADEM – à avancer"]);
 D.push(['onis', 'description_de', 'hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen', 'hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind – von der ADEM verwiesen –, voranzukommen']);
 
+// Episodes 17-21 (9 Nov 2026)
+q('habitat', 'questions', 3, 'explanation', 'the Observatoire does not publish detailed house prices.', 'the Observatoire does not publish detailed house prices. For houses, STATEC publishes a general price index instead.');
+q('habitat', 'questions_fr', 3, 'explanation', "l'Observatoire ne diffuse pas de prix détaillés des maisons.", "l'Observatoire ne diffuse pas de prix détaillés des maisons. Pour les maisons, le STATEC publie plutôt un indice général des prix.");
+q('habitat', 'questions_de', 3, 'explanation', 'gibt das Observatoire keine detaillierten Hauspreise heraus.', 'gibt das Observatoire keine detaillierten Hauspreise heraus. Für Häuser veröffentlicht der STATEC stattdessen einen allgemeinen Preisindex.');
+q('klima', 'questions', 3, 'explanation', null, 'The Klimabonus is the national state grant scheme. It supports energy-efficient renovation, renewable heating such as heat pumps, solar panels and batteries, electric vehicles and charging stations. It was renewed in 2026, for most projects until 2030. Klima-Agence helps you find which grants apply.');
+q('klima', 'questions_fr', 3, 'explanation', null, "Le Klimabonus est le régime national d'aides de l'État. Il soutient la rénovation énergétique, le chauffage renouvelable comme les pompes à chaleur, les panneaux photovoltaïques et les batteries, les véhicules électriques et les bornes de recharge. Il a été renouvelé en 2026, pour la plupart des projets jusqu'en 2030. La Klima-Agence vous aide à trouver les aides qui s'appliquent.");
+q('klima', 'questions_de', 3, 'explanation', null, 'Der Klimabonus ist das nationale staatliche Förderprogramm. Es unterstützt energetische Sanierung, erneuerbares Heizen wie Wärmepumpen, Photovoltaikanlagen und Batterien, Elektrofahrzeuge und Ladestationen. Es wurde 2026 erneuert, für die meisten Projekte bis 2030. Die Klima-Agence hilft Ihnen, die passenden Beihilfen zu finden.');
+
 const src = fs.readFileSync(FILE, 'utf8');
 const i = src.indexOf('const EPISODES');
 const banner = src.slice(0, i);

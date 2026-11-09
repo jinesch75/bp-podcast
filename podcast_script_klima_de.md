@@ -55,8 +55,8 @@
 **ANNA:** Deshalb hilft Ihnen die Klima-Agence zu verstehen, welche Beihilfen für Ihr Projekt gelten.
 **TOM:** Es gibt sogar einen Online-Förderrechner. Sie geben Ihr Projekt ein, und er zeigt Ihnen, welche Unterstützung Sie erhalten könnten.
 **ANNA:** Ein großer Teil davon ist das nationale Förderprogramm namens Klimabonus.
-**TOM:** Der Klimabonus unterstützt Dinge wie energieeffiziente Renovierung, erneuerbares Heizen, Solarmodule, Elektrofahrzeuge und Ladestationen.
-**ANNA:** Er deckt also wirklich die meisten der Projekte ab, über die wir gerade gesprochen haben.
+**TOM:** Der Klimabonus unterstützt Dinge wie energieeffiziente Renovierung, erneuerbares Heizen wie Wärmepumpen, Solarmodule und Batterien, Elektrofahrzeuge und Ladestationen. Und er wurde 2026 erneuert, für die meisten Projekte bis 2030.
+**ANNA:** Er deckt also wirklich die meisten der Projekte ab, über die wir gerade gesprochen haben. Und bei Solarmodulen können manche Firmen den Zuschuss sogar direkt von der Rechnung abziehen.
 **TOM:** Gibt es noch andere Werkzeuge auf ihrer Website, außer dem Förderrechner?
 **ANNA:** Ja, einige sehr praktische. Es gibt einen Solarrechner, der Ihnen hilft, Module auf Ihrem eigenen Dach zu planen.
 **TOM:** Und einen Renovierungsplaner, der Ihnen hilft, die Schritte eines größeren Projekts zu durchdenken.
@@ -94,4 +94,4 @@
 
 ---
 
-*Quellen: Klima-Agence, klima-agence.lu — Startseite „Step up for your energy transition", „Über uns", „Klimabonus", „Förderprogramme" und Kontaktinformationen; Regierung des Großherzogtums Luxemburg. Die Klima-Agence ist Luxemburgs nationale Energie- und Klimaagentur (eine GIE im öffentlichen Interesse, unterstützt vom Wirtschaftsministerium, dem Ministerium für Umwelt, Klima und Biodiversität und dem Ministerium für Wohnungsbau und Raumordnung, mit der Chambre des Métiers und dem Ordre des Architectes et Ingénieurs-Conseils); bis 2022 war sie als myenergy bekannt. Beratungstelefon 8002 11 90 (Mo–Fr, 8–12 Uhr und 13–17 Uhr). Nur allgemeine Informationen — Förderregeln und Zahlen ändern sich, prüfen Sie die aktuellen Angaben daher bei der Klima-Agence. Stand: Juni 2026.*
+*Quellen: Klima-Agence, klima-agence.lu — Startseite „Step up for your energy transition", „Über uns", „Klimabonus", „Förderprogramme" und Kontaktinformationen; Regierung des Großherzogtums Luxemburg. Die Klima-Agence ist Luxemburgs nationale Energie- und Klimaagentur (eine GIE im öffentlichen Interesse, unterstützt vom Wirtschaftsministerium, dem Ministerium für Umwelt, Klima und Biodiversität und dem Ministerium für Wohnungsbau und Raumordnung, mit der Chambre des Métiers und dem Ordre des Architectes et Ingénieurs-Conseils); bis 2022 war sie als myenergy bekannt. Beratungstelefon 8002 11 90 (Mo–Fr, 8–12 Uhr und 13–17 Uhr). Nur allgemeine Informationen — Förderregeln und Zahlen ändern sich, prüfen Sie die aktuellen Angaben daher bei der Klima-Agence. Stand: Juni 2026. Aktualisierung: Klimabonus Wunnen für 2026–2030 erneuert, Klimabonus Mobilitéit bis 30. Juni 2030 verlängert; PV-Vorfinanzierung mit Abzug des Zuschusses von der Rechnung (klima-agence.lu, gouvernement.lu). Geprüft am 9. November 2026.*

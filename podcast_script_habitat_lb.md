@@ -23,7 +23,7 @@
 **ANNA:** Genau. Seng Missioun ass, Informatiounen ze sammelen, se z'analyséieren, an se dann oppen ze deelen.
 **TOM:** Sammelen, analyséieren, deelen. Dat ass eng gutt Manéier, fir et sech ze mierken.
 **ANNA:** An en schafft net komplett eleng. En huet e wichtege Partner... en Fuerschungsinstitut mam Numm LISER.
-**TOM:** LISER ass de Luxembourg Institute of Socio-Economic Research. Dat ass en ëffentlecht Fuerschungszentrum.
+**TOM:** LISER ass de Luxembourg Institute of Socio-Economic Research. Dat ass en ëffentlecht Fuerschungszentrum. A fir d'Statistike vun de Verkafspräisser schafft den Observatoire och enk mam STATEC zesummen, dem nationale Statistikinstitut.
 **ANNA:** Si bréngen déi wëssenschaftlech Rigueur... richteg Methoden, suergfälteg Analyse. Esou sinn d'Zuelen, déi Dir kritt, solid, an net just gerode.
 **TOM:** Gutt. Also wat kuckt den Observatoire eigentlech? Wat mësst en?
 **ANNA:** Verschidde Saachen. Als éischt d'Verkafspräisser vu Wunnengen... wéi vill et kascht, fir ze kafen.
@@ -42,26 +42,26 @@
 **TOM:** Dës offiziell Aufzeechnunge ginn all Mount un den Observatoire weiderginn, vun der Administration de l'Enregistrement et des Domaines.
 **ANNA:** A si gi mat Informatiounen aus dem Kadaster komplettéiert, zum Beispill d'Fläch vun all Appartement.
 **TOM:** Dat sinn also keng Annoncen oder Schätzungen. Dat sinn echt, ofgeschloss Verkeef. Méi zouverlässeg geet et bal net.
-**ANNA:** Fir d'Loyeren ass et e bësse anescht. D'Loyer-Donnéeë kommen haaptsächlech aus den Immobilienannoncen... Wunnengen, déi zur Locatioun ugebuede ginn.
+**ANNA:** Fir d'Loyeren ass et e bësse anescht. D'Loyer-Donnéeë kommen haaptsächlech aus den Immobilienannoncen... Wunnengen, déi zur Locatioun ugebuede ginn, gesammelt mat engem groussen Immobilieportal.
 **TOM:** D'Loyeren reflektéieren also dat, wat um Maart gefrot gëtt, wärend d'Verkafspräisser Deals reflektéieren, déi tatsächlech stattfonnt hunn.
-**ANNA:** Et gëtt awer eng interessant Grenz. Den Observatoire publizéiert detailléiert Präisser fir Appartementer, mä net fir Haiser.
+**ANNA:** Et gëtt awer eng interessant Grenz. Den Observatoire publizéiert detailléiert Präisser pro Quadratmeter, Gemeng fir Gemeng, fir Appartementer... mä net fir Haiser.
 **TOM:** Firwat ass dat, Anna?
 **ANNA:** Well fir Appartementer gëtt et gutt Donnéeën iwwer d'Fläch, esou datt ee e faire Präis pro Quadratmeter ka berechnen.
 **TOM:** Mä fir eenzel Haiser ass déi detailléiert Fläch-Informatioun net op déiselwecht Manéier disponibel.
-**ANNA:** Also amplaz Zuelen ze publizéieren, déi d'Leit kéinten an d'Ier féieren, entscheede si sech, keng detailléiert Hauspräisser ze publizéieren. Dat ass éierlech.
+**ANNA:** Also amplaz Zuelen ze publizéieren, déi d'Leit kéinten an d'Ier féieren, entscheede si sech, keng detailléiert Hauspräisser ze publizéieren. Fir Haiser publizéiert de STATEC amplaz en allgemengen Präisindex. Dat ass éierlech.
 **TOM:** Dat respektéieren ech. Besser ze soen "mir hu keng zouverlässeg Donnéeën", wéi se z'erfannen.
 **ANNA:** Elo loosse mer e puer richteg Zuelen ginn, esou datt et sech konkret ufillt.
 **TOM:** Jo, gär. Wat kascht en Appartement tatsächlech?
-**ANNA:** Am drëtten Trimester 2025 huet en existéierend Appartement am Duerchschnëtt ongeféier 7 600 Euro pro Quadratmeter kascht.
-**TOM:** An en ganz neit Appartement, nach am Bau, war méi héich... ronderëm 10 000 Euro pro Quadratmeter.
+**ANNA:** An de leschte Joren huet en existéierend Appartement am Duerchschnëtt däitlech méi wéi siwendausend Euro pro Quadratmeter kascht.
+**TOM:** An en ganz neit Appartement, nach am Bau, kascht nach méi... dacks bal zéngdausend Euro pro Quadratmeter.
 **ANNA:** Dat sinn natierlech Duerchschnëtter. De Präis hänkt vill vun der Gemeng of, a vun der Qualitéit vun der Wunneng.
 **TOM:** An d'Zuele beweegen sech all Trimester. Si ginn erop, si ginn erof. Dat ass genau, firwat den Observatoire weiderkuckt.
-**ANNA:** Zum Beispill, an deeselwechten Zäitraum, war de Präis vun den existéierenden Appartementer tatsächlech e bësse gefall, am Verglach mam Trimester virdrun.
+**ANNA:** Zum Beispill sinn d'Präisser no 2022 erofgaangen... an zënterhier stabiliséiert de Maart sech lues a lues.
 **TOM:** De Maart ass also net just eng gerued Linn, déi erop geet. En otemt... en ännert sech.
 **ANNA:** An hei ass den Deel, deen ech gär hunn. All dës Donnéeë sinn ëffentlech, an Dir kënnt se selwer entdecken.
-**TOM:** D'Statistiken, opgedeelt no Gemeng, ginn op der nationaler Open-Data-Plattform publizéiert, data Punkt public Punkt lu.
+**TOM:** D'Statistiken, opgedeelt no Gemeng, ginn op der nationaler Open-Data-Plattform publizéiert, data Punkt public Punkt lu... an och um nationale Geoportal.
 **ANNA:** Esou kënnt Dir Är eege Gemeng nokucken, a kucken, wéi sech d'Präisser do beweegt hunn.
-**TOM:** Et gëtt esouguer e Präissimulateur op der Internetsäit vum Observatoire, fir Iech ze hëllefen, eng Iddi ze kréien.
+**TOM:** Et gëtt esouguer e Präissimulateur op der Internetsäit vum Observatoire, an och e Loyersimulateur, fir Iech ze hëllefen, eng Iddi ze kréien.
 **ANNA:** Stellt Iech vir, Dir denkt drun, an enger gewësser Uertschaft ze kafen oder ze lounen. Dir kënnt déi typesch Präisser nokucken, ier Dir ufänkt.
 **TOM:** Dat ass richteg Muecht fir normal Leit. Informatiounen, déi fréier schwéier ze fanne waren, sinn elo fir jiddereen oppen.
 **ANNA:** Den Observatoire publizéiert och Rapporten an Notizen, an einfacher Sprooch geschriwwen, iwwer spezifesch Froen.
@@ -98,4 +98,4 @@
 
 ---
 
-*Quellen: Observatoire de l'Habitat, Ministère du Logement et de l'Aménagement du territoire, logement.public.lu — "Observatoire de l'habitat", "Prix de vente", "Prix de location", "Publications"; data.public.lu (Open Data vum Observatoire de l'Habitat); LISER (Luxembourg Institute of Socio-Economic Research). D'Chifferen (z.B. existéierend Appartementer am Duerchschnëtt ongeféier 7 605 €/m² an nei gebaut Appartementer ongeféier 10 034 €/m² am 3. Trimester 2025; Verkafspräis-Donnéeën aus den notariellen Akten iwwer d'Administration de l'Enregistrement et des Domaines an de Kadaster) sinn vum Observatoire de l'Habitat an op den drëtten Trimester 2025 datéiert. D'Chifferen ginn reegelméisseg aktualiséiert a wäerten änneren. Just allgemeng Informatiounen. Aktuell am Juni 2026.*
+*Quellen: Observatoire de l'Habitat, Ministère du Logement et de l'Aménagement du territoire, logement.public.lu — "Observatoire de l'habitat", "Prix de vente", "Prix de location", "Publications"; data.public.lu (Open Data vum Observatoire de l'Habitat); LISER (Luxembourg Institute of Socio-Economic Research). D'Chifferen (z.B. existéierend Appartementer am Duerchschnëtt ongeféier 7 605 €/m² an nei gebaut Appartementer ongeféier 10 034 €/m² am 3. Trimester 2025; Verkafspräis-Donnéeën aus den notariellen Akten iwwer d'Administration de l'Enregistrement et des Domaines an de Kadaster) sinn vum Observatoire de l'Habitat an op den drëtten Trimester 2025 datéiert. D'Chifferen ginn reegelméisseg aktualiséiert a wäerten änneren. Just allgemeng Informatiounen. Aktuell am Juni 2026. Aktualiséierung: Präisser dauerhaft formuléiert (Le Logement en chiffres Nr. 20, Sept. 2026); Statistike mam STATEC; Hauspräisindex vum STATEC; Loyeren mat Immotop.lu; Donnéeën och um Geoportal. Iwwerpréift den 9. November 2026.*

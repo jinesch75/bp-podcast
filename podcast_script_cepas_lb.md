@@ -46,7 +46,7 @@
 **TOM:** Soe mir eppes iwwer d'Käschten an d'Vertrauen, well d'Familljen sech ëm béid Suerge maachen.
 **ANNA:** D'Ënnerstëtzung ass do, fir ze hëllefen, net fir ze uerteelen. Et ass e sécheren, professionellen a fiersuergleche Raum.
 **TOM:** An e jonke Mënsch kann oppe schwätzen, am Wëssen, datt him mat Respekt nogelauschtert gëtt.
-**ANNA:** De CePAS stellt och Informatiounen iwwer bestëmmt finanziell Ugeleeënheete fir Schüler zur Verfügung, wann et relevant ass.
+**ANNA:** De CePAS këmmert sech och ëm eng finanziell Hëllef fir Schüler aus Famillje mat engem klengen Akommes... e jäerleche Subsid fir Schoulmaterial an Aktivitéiten, deen een iwwer de psycho-soziale Service vun der Schoul freet. D'Regierung plangt, en ab 2027 an eng nei, eenzeg Hëllef géint d'Liewensdeierung ze integréieren, also frot an der Schoul no, wat gëllt.
 **TOM:** Elo Anna, dat hänkt mat enger anerer Organisatioun zesummen, iwwer déi mir geschwat hunn.
 **ANNA:** Dat stëmmt. De CePAS ass och ee vun de Partner, op déi den Office National de l'Enfance fir psychologesch Ënnerstëtzung zréckgräife kann.
 **TOM:** Dës Déngschter sinn also keng getrennten Inselen. Si schaffe zesumme ronderëm de jonke Mënsch.
@@ -61,7 +61,7 @@
 **ANNA:** Drëttens... denkt drun, datt zanter 2026 d'Beroodungen och op Englesch disponibel sinn.
 **TOM:** A véiertens... dës Déngschter sinn mat anere verbonnen, wéi dem ONE, esou datt d'Hëllef kann ofgestëmmt ginn.
 **ANNA:** Loosse mir alles zesummebréngen. Wat sollt een sech iwwer de CePAS mierken?
-**TOM:** Éischtens... et ass e psycho-sozialt a schoulescht Ënnerstëtzungszentrum, dat zanter sechzeg Joer dem Wuelbefanne vu jonke Leit an der Schoul déngt.
+**TOM:** Éischtens... et ass e psycho-sozialt a schoulescht Ënnerstëtzungszentrum, dat zanter méi wéi sechzeg Joer dem Wuelbefanne vu jonke Leit an der Schoul déngt.
 **ANNA:** Zweetens... et bitt psychologesch an therapeutesch Ënnerstëtzung fir schoulesch, perséinlech a Bezéiungsproblemer.
 **TOM:** Drëttens... et gëtt séier Hëllef an all Lycée, an déifer Ënnerstëtzung a sengem Beroodungszentrum.
 **ANNA:** A véiertens... et schafft Hand an Hand mat den Elteren, de Schoulen an aneren Déngschter.
@@ -74,4 +74,4 @@
 
 ---
 
-*Quellen: Centre psycho-social et d'accompagnement scolaires (CePAS), cepas.public.lu — „Iwwer eis", de Centre de Consultation pour Jeunes et Familles (CCJF), déi schoulesch psycho-sozial Déngschter (SePAS) an de Ressourcëzentrum; ënner dem Ministère fir Educatioun, Kanner a Jugend. De CePAS gouf 1965 gegrënnt (ursprénglech als CPOS) a feiert 2025 säi 60-järegt Bestoen; zanter Januar 2026 ginn d'Beroodungen och op Englesch ugebueden. Nëmmen allgemeng Informatiounen — fir Ënnerstëtzung wennt Iech un de CePAS oder un de psycho-sozialen Déngscht vun Ärer Schoul. Aktuell am Juni 2026.*
+*Quellen: Centre psycho-social et d'accompagnement scolaires (CePAS), cepas.public.lu — „Iwwer eis", de Centre de Consultation pour Jeunes et Familles (CCJF), déi schoulesch psycho-sozial Déngschter (SePAS) an de Ressourcëzentrum; ënner dem Ministère fir Educatioun, Kanner a Jugend. De CePAS gouf 1965 gegrënnt (ursprénglech als CPOS) a feiert 2025 säi 60-järegt Bestoen; zanter Januar 2026 ginn d'Beroodungen och op Englesch ugebueden. Nëmmen allgemeng Informatiounen — fir Ënnerstëtzung wennt Iech un de CePAS oder un de psycho-sozialen Déngscht vun Ärer Schoul. Aktuell am Juni 2026. Aktualiséierung: SMFR iwwer d'SePAS; Gesetzesprojet 8716 (complément vie chère) géif se ersetzen. Iwwerpréift den 9. November 2026.*

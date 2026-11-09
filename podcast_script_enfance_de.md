@@ -63,7 +63,7 @@
 **ANNA:** Lassen Sie uns hier ein behutsames Wort sagen, denn dieses Thema kann sich schwer anfühlen.
 **TOM:** Um Hilfe zu bitten ist kein Zeichen des Versagens. Es ist ein Zeichen von Stärke und von Liebe zu Ihrem Kind.
 **ANNA:** Jede Familie hat manchmal Schwierigkeiten. Sich früh zu melden macht die Dinge oft einfacher, nicht schwerer.
-**TOM:** Und der ganze Ansatz des ONE beruht auf Respekt und Zusammenarbeit.
+**TOM:** Und der ganze Ansatz des ONE beruht auf Respekt und Zusammenarbeit. Eine große Reform des Kinder- und Jugendschutzes wird im Parlament beraten, und sie stellt diesen freiwilligen Ansatz an die erste Stelle, mit dem ONE im Mittelpunkt.
 **ANNA:** Also Tom, machen wir das konkret. Was sollten die Menschen mitnehmen?
 **TOM:** Erstens... wenn Ihre Familie eine schwere Zeit durchmacht, müssen Sie nicht alles allein bewältigen.
 **ANNA:** Zweitens... das ONE hat vierzehn regionale Büros, es gibt also Unterstützung in Ihrer Nähe.
@@ -82,4 +82,4 @@
 
 ---
 
-*Quellen: Office National de l'Enfance (ONE), officenationalenfance.lu — Startseite, „Soutien & Accompagnement", regionale Büros und Hilfsmaßnahmen (aide socio-familiale, psychische/soziale/erzieherische Unterstützung in der Familie, psychologische Unterstützung, Frühförderung, Betreuung in Einrichtungen und in Pflegefamilien); unter dem Ministerium für Bildung, Kinder und Jugend. Das ONE betreibt vierzehn regionale Kinderbüros und arbeitet auf freiwilliger, kooperativer Basis mit den Familien. Nur allgemeine Informationen — für Ihre Situation kontaktieren Sie das ONE direkt. Stand: Juni 2026.*
+*Quellen: Office National de l'Enfance (ONE), officenationalenfance.lu — Startseite, „Soutien & Accompagnement", regionale Büros und Hilfsmaßnahmen (aide socio-familiale, psychische/soziale/erzieherische Unterstützung in der Familie, psychologische Unterstützung, Frühförderung, Betreuung in Einrichtungen und in Pflegefamilien); unter dem Ministerium für Bildung, Kinder und Jugend. Das ONE betreibt vierzehn regionale Kinderbüros und arbeitet auf freiwilliger, kooperativer Basis mit den Familien. Nur allgemeine Informationen — für Ihre Situation kontaktieren Sie das ONE direkt. Stand: Juni 2026. Aktualisierung: Gesetzentwurf 7994 (Hilfe, Unterstützung und Schutz für Minderjährige, junge Erwachsene und Familien) noch im Parlament (ergänzendes Gutachten des Staatsrats vom 17.07.2026); vierzehn Regionalbüros bestätigt. Geprüft am 9. November 2026.*

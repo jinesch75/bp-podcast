@@ -63,7 +63,7 @@
 **ANNA:** Let's say a gentle word here, because this topic can feel heavy.
 **TOM:** Asking for help is not a sign of failure. It is a sign of strength, and of love for your child.
 **ANNA:** Every family struggles sometimes. Reaching out early often makes things easier, not harder.
-**TOM:** And the ONE's whole approach is built on respect and collaboration.
+**TOM:** And the ONE's whole approach is built on respect and collaboration. A big reform of child and youth protection is being discussed in Parliament, and it keeps this voluntary approach first, with the ONE at its centre.
 **ANNA:** So Tom, let's make this practical. What should people take away?
 **TOM:** First... if your family is going through a hard time, you don't have to handle it all alone.
 **ANNA:** Second... the ONE has fourteen regional offices, so there is support near where you live.
@@ -82,4 +82,4 @@
 
 ---
 
-*Sources: Office National de l'Enfance (ONE), officenationalenfance.lu — homepage, "Soutien & Accompagnement", regional offices, and help measures (aide socio-familiale, assistance psychique/sociale/éducative en famille, psychological support, early intervention, residential and foster care); under the Ministry of Education, Children and Youth. The ONE operates fourteen regional childhood offices and works on a voluntary, collaborative basis with families. General information only — for your situation, contact the ONE directly. Accurate as of June 2026.*
+*Sources: Office National de l'Enfance (ONE), officenationalenfance.lu — homepage, "Soutien & Accompagnement", regional offices, and help measures (aide socio-familiale, assistance psychique/sociale/éducative en famille, psychological support, early intervention, residential and foster care); under the Ministry of Education, Children and Youth. The ONE operates fourteen regional childhood offices and works on a voluntary, collaborative basis with families. General information only — for your situation, contact the ONE directly. Accurate as of June 2026. Update: bill 7994 'portant aide, soutien et protection aux mineurs, aux jeunes adultes et aux familles' (reform of youth protection, voluntary procedure first, measures set up by the ONE) still in Parliament (Council of State complementary opinion 17.07.2026). ONE created by the law of 16 December 2008; fourteen regional offices confirmed (officenationalenfance.lu). Fact-checked 9 November 2026.*

@@ -23,7 +23,7 @@
 **ANNA:** Genau. Seine Aufgabe ist es, Informationen zu sammeln, sie zu analysieren und sie dann offen zu teilen.
 **TOM:** Sammeln, analysieren, teilen. Das ist eine gute Art, es sich zu merken.
 **ANNA:** Und es arbeitet nicht völlig allein. Es hat einen wichtigen Partner... ein Forschungsinstitut namens LISER.
-**TOM:** LISER ist das Luxembourg Institute of Socio-Economic Research. Es ist ein öffentliches Forschungszentrum.
+**TOM:** LISER ist das Luxembourg Institute of Socio-Economic Research. Es ist ein öffentliches Forschungszentrum. Und bei den Statistiken zu den Verkaufspreisen arbeitet das Observatoire außerdem eng mit dem STATEC zusammen, dem nationalen Statistikinstitut.
 **ANNA:** Sie bringen wissenschaftliche Genauigkeit ein... saubere Methoden, sorgfältige Analyse. So sind die Zahlen, die man bekommt, fundiert und nicht geraten.
 **TOM:** Gut. Was beobachtet das Observatoire also tatsächlich? Was misst es?
 **ANNA:** Mehrere Dinge. Erstens die Verkaufspreise von Wohnungen... wie viel das Kaufen kostet.
@@ -42,26 +42,26 @@
 **TOM:** Diese offiziellen Aufzeichnungen werden jeden Monat von der Einregistrierungs- und Domänenverwaltung an das Observatoire weitergegeben.
 **ANNA:** Und sie werden mit Informationen aus dem Grundbuch und dem Cadastre ergänzt, zum Beispiel mit der Wohnfläche jeder Wohnung.
 **TOM:** Das sind also keine Anzeigen oder Schätzungen. Es sind echte, abgeschlossene Verkäufe. Verlässlicher geht es kaum.
-**ANNA:** Bei den Mieten ist es ein bisschen anders. Die Mietdaten stammen größtenteils aus Immobilienanzeigen... Wohnungen, die zur Vermietung angeboten werden.
+**ANNA:** Bei den Mieten ist es ein bisschen anders. Die Mietdaten stammen größtenteils aus Immobilienanzeigen... Wohnungen, die zur Vermietung angeboten werden, gesammelt zusammen mit einem großen Immobilienportal.
 **TOM:** Die Mieten spiegeln also wider, was auf dem Markt verlangt wird, während die Verkaufspreise tatsächlich abgeschlossene Geschäfte widerspiegeln.
-**ANNA:** Es gibt allerdings eine interessante Einschränkung. Das Observatoire veröffentlicht detaillierte Preise für Wohnungen, aber nicht für Häuser.
+**ANNA:** Es gibt allerdings eine interessante Einschränkung. Das Observatoire veröffentlicht detaillierte Quadratmeterpreise, Gemeinde für Gemeinde, für Wohnungen... aber nicht für Häuser.
 **TOM:** Warum ist das so, Anna?
 **ANNA:** Weil es für Wohnungen gute Daten zur Wohnfläche gibt, sodass man einen fairen Preis pro Quadratmeter berechnen kann.
 **TOM:** Aber für einzelne Häuser sind diese detaillierten Flächenangaben nicht auf die gleiche Weise verfügbar.
-**ANNA:** Anstatt also Zahlen zu veröffentlichen, die die Menschen in die Irre führen könnten, entscheiden sie sich dafür, keine detaillierten Hauspreise zu veröffentlichen. Das ist ehrlich.
+**ANNA:** Anstatt also Zahlen zu veröffentlichen, die die Menschen in die Irre führen könnten, entscheiden sie sich dafür, keine detaillierten Hauspreise zu veröffentlichen. Für Häuser veröffentlicht der STATEC stattdessen einen allgemeinen Preisindex. Das ist ehrlich.
 **TOM:** Das respektiere ich. Besser zu sagen „wir haben keine verlässlichen Daten", als sie zu erfinden.
 **ANNA:** Nun lassen Sie uns ein paar echte Zahlen nennen, damit es greifbar wird.
 **TOM:** Ja, bitte. Was kostet eine Wohnung tatsächlich?
-**ANNA:** Im 3. Quartal 2025 kostete eine bestehende Wohnung im Durchschnitt etwa 7 600 Euro pro Quadratmeter.
-**TOM:** Und eine brandneue Wohnung, noch im Bau, lag höher... bei etwa 10 000 Euro pro Quadratmeter.
+**ANNA:** In den letzten Jahren kostete eine bestehende Wohnung im Durchschnitt deutlich mehr als siebentausend Euro pro Quadratmeter.
+**TOM:** Und eine brandneue Wohnung, noch im Bau, kostet noch mehr... oft fast zehntausend Euro pro Quadratmeter.
 **ANNA:** Das sind natürlich Durchschnittswerte. Der Preis hängt stark von der Gemeinde ab, und von der Qualität der Wohnung.
 **TOM:** Und die Zahlen bewegen sich in jedem Quartal. Sie gehen rauf, sie gehen runter. Genau deshalb beobachtet das Observatoire ständig weiter.
-**ANNA:** Zum Beispiel war im selben Zeitraum der Preis für bestehende Wohnungen im Vergleich zum Quartal davor sogar ein wenig gesunken.
+**ANNA:** Zum Beispiel sind die Preise nach 2022 gesunken... und seitdem stabilisiert sich der Markt langsam.
 **TOM:** Der Markt ist also nicht nur eine gerade Linie nach oben. Er atmet... er verändert sich.
 **ANNA:** Und hier kommt der Teil, den ich liebe. All diese Daten sind öffentlich, und Sie können sie selbst erkunden.
-**TOM:** Die Statistiken, aufgeschlüsselt nach Gemeinde, werden auf der nationalen Open-Data-Plattform veröffentlicht, data Punkt public Punkt lu.
+**TOM:** Die Statistiken, aufgeschlüsselt nach Gemeinde, werden auf der nationalen Open-Data-Plattform veröffentlicht, data Punkt public Punkt lu... und auch auf dem nationalen Geoportal.
 **ANNA:** Sie können also Ihre eigene Gemeinde nachschlagen und sehen, wie sich die Preise dort entwickelt haben.
-**TOM:** Es gibt sogar einen Preissimulator auf der Website des Observatoire, der Ihnen hilft, sich einen Eindruck zu verschaffen.
+**TOM:** Es gibt sogar einen Preissimulator auf der Website des Observatoire, und auch einen Mietsimulator, die Ihnen helfen, sich einen Eindruck zu verschaffen.
 **ANNA:** Stellen Sie sich vor, Sie überlegen, in einer bestimmten Stadt zu kaufen oder zu mieten. Sie können die üblichen Preise prüfen, bevor Sie beginnen.
 **TOM:** Das ist echte Macht für ganz normale Menschen. Informationen, die früher schwer zu finden waren, stehen jetzt allen offen.
 **ANNA:** Das Observatoire veröffentlicht auch Berichte und Notizen, in klarer Sprache geschrieben, zu bestimmten Fragen.
@@ -98,4 +98,4 @@
 
 ---
 
-*Quellen: Observatoire de l'Habitat, Ministère du Logement et de l'Aménagement du territoire, logement.public.lu — „Observatoire de l'habitat", „Prix de vente", „Prix de location", „Publications"; data.public.lu (Open Data des Observatoire de l'Habitat); LISER (Luxembourg Institute of Socio-Economic Research). Die genannten Zahlen (z. B. bestehende Wohnungen mit durchschnittlich etwa 7 605 €/m² und Neubauwohnungen mit etwa 10 034 €/m² im 3. Quartal 2025; Verkaufspreisdaten aus notariellen Urkunden über die Administration de l'Enregistrement et des Domaines und den Cadastre) stammen vom Observatoire de l'Habitat und beziehen sich auf das 3. Quartal 2025. Die Zahlen werden regelmäßig aktualisiert und werden sich ändern. Nur allgemeine Informationen. Stand: Juni 2026.*
+*Quellen: Observatoire de l'Habitat, Ministère du Logement et de l'Aménagement du territoire, logement.public.lu — „Observatoire de l'habitat", „Prix de vente", „Prix de location", „Publications"; data.public.lu (Open Data des Observatoire de l'Habitat); LISER (Luxembourg Institute of Socio-Economic Research). Die genannten Zahlen (z. B. bestehende Wohnungen mit durchschnittlich etwa 7 605 €/m² und Neubauwohnungen mit etwa 10 034 €/m² im 3. Quartal 2025; Verkaufspreisdaten aus notariellen Urkunden über die Administration de l'Enregistrement et des Domaines und den Cadastre) stammen vom Observatoire de l'Habitat und beziehen sich auf das 3. Quartal 2025. Die Zahlen werden regelmäßig aktualisiert und werden sich ändern. Nur allgemeine Informationen. Stand: Juni 2026. Aktualisierung: Preise dauerhaft formuliert (bestehende Wohnungen deutlich über 7 000 €/m², Neubau oft fast 10 000 €/m²; Rückgang nach 2022, seitdem Stabilisierung — Le Logement en chiffres Nr. 20, Sept. 2026). Verkaufspreisstatistik gemeinsam mit dem STATEC; Hauspreisindex des STATEC; Angebotsmieten mit Immotop.lu; Daten auch im Geoportal. Geprüft am 9. November 2026.*

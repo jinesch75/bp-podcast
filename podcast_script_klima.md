@@ -17,7 +17,7 @@
 **ANNA:** Yes. Klima-Agence is Luxembourg's national partner for energy and climate matters.
 **TOM:** So Anna, what exactly is it? Is it a company?
 **ANNA:** Not a private company in the usual sense. It is a public-interest organisation, supported by the Luxembourg government.
-**TOM:** Several ministries stand behind it... the Ministry of the Economy, the Ministry of the Environment and Climate, and the Ministry of Housing.
+**TOM:** Several ministries stand behind it... the Ministry of the Economy, the Ministry of the Environment, Climate and Biodiversity, and the Ministry of Housing and Spatial Planning.
 **ANNA:** And it works together with professional bodies, like the Chamber of Skilled Trades and Crafts, and the association of architects and consulting engineers.
 **TOM:** Here's a detail some people remember. Until 2022, Klima-Agence had a different name... it was called myenergy.
 **ANNA:** So if you have heard of myenergy in the past, it is the same organisation, with a new name and a wider mission.
@@ -55,8 +55,8 @@
 **ANNA:** That's why Klima-Agence helps you understand which grants apply to your project.
 **TOM:** There is even an online subsidy simulator. You enter your project, and it shows you what support you could receive.
 **ANNA:** A big part of this is the national grant scheme called the Klimabonus.
-**TOM:** The Klimabonus supports things like energy-efficient renovation, renewable heating, solar panels, electric vehicles, and charging stations.
-**ANNA:** So it really covers most of the projects we just talked about.
+**TOM:** The Klimabonus supports things like energy-efficient renovation, renewable heating such as heat pumps, solar panels and batteries, electric vehicles, and charging stations. And it was renewed in 2026, for most projects until 2030.
+**ANNA:** So it really covers most of the projects we just talked about. And for solar panels, some companies can even take the subsidy straight off your bill.
 **TOM:** Are there other tools on their website, beyond the subsidy simulator?
 **ANNA:** Yes, some very practical ones. There is a solar simulator, to help you plan panels on your own roof.
 **TOM:** And a renovation planner, to help you think through the steps of a bigger project.
@@ -94,4 +94,4 @@
 
 ---
 
-*Sources: Klima-Agence, klima-agence.lu — homepage "Step up for your energy transition", "About us", "Klimabonus", "Subsidy programmes", and contact information; Government of the Grand Duchy of Luxembourg. Klima-Agence is Luxembourg's national energy and climate agency (a public-interest GIE supported by the Ministry of the Economy, the Ministry of the Environment, Climate and Biodiversity, and the Ministry of Housing and Spatial Planning, with the Chambre des Métiers and the Ordre des Architectes et Ingénieurs-Conseils); it was known as myenergy until 2022. Advisor line 8002 11 90 (Mon–Fri, 8am–12pm and 1pm–5pm). General information only — grant rules and figures change, so confirm current details with Klima-Agence. Accurate as of June 2026.*
+*Sources: Klima-Agence, klima-agence.lu — homepage "Step up for your energy transition", "About us", "Klimabonus", "Subsidy programmes", and contact information; Government of the Grand Duchy of Luxembourg. Klima-Agence is Luxembourg's national energy and climate agency (a public-interest GIE supported by the Ministry of the Economy, the Ministry of the Environment, Climate and Biodiversity, and the Ministry of Housing and Spatial Planning, with the Chambre des Métiers and the Ordre des Architectes et Ingénieurs-Conseils); it was known as myenergy until 2022. Advisor line 8002 11 90 (Mon–Fri, 8am–12pm and 1pm–5pm). General information only — grant rules and figures change, so confirm current details with Klima-Agence. Accurate as of June 2026. Update: Klimabonus Wunnen renewed for 2026–2030 (some works until 2035), Klimabonus Mobilitéit extended until 30 June 2030; PV pre-financing where the participating company deducts the subsidy from the invoice (klima-agence.lu, gouvernement.lu 31.12.2025 and 20.03.2026). Fact-checked 9 November 2026.*

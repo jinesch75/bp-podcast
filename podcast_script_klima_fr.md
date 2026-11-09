@@ -17,7 +17,7 @@
 **ANNA:** Oui. Klima-Agence est le partenaire national du Luxembourg pour les questions d'énergie et de climat.
 **TOM:** Alors Anna, qu'est-ce que c'est exactement ? Est-ce une entreprise ?
 **ANNA:** Pas une entreprise privée au sens habituel. C'est une organisation d'intérêt public, soutenue par le gouvernement luxembourgeois.
-**TOM:** Plusieurs ministères se trouvent derrière elle... le Ministère de l'Économie, le Ministère de l'Environnement et du Climat, et le Ministère du Logement.
+**TOM:** Plusieurs ministères se trouvent derrière elle... le Ministère de l'Économie, le Ministère de l'Environnement, du Climat et de la Biodiversité, et le Ministère du Logement et de l'Aménagement du territoire.
 **ANNA:** Et elle travaille avec des organismes professionnels, comme la Chambre des Métiers, et l'association des architectes et ingénieurs-conseils.
 **TOM:** Voici un détail dont certaines personnes se souviennent. Jusqu'en 2022, Klima-Agence portait un autre nom... elle s'appelait myenergy.
 **ANNA:** Donc si vous avez entendu parler de myenergy par le passé, c'est la même organisation, avec un nouveau nom et une mission plus large.
@@ -55,8 +55,8 @@
 **ANNA:** C'est pourquoi Klima-Agence vous aide à comprendre quelles aides s'appliquent à votre projet.
 **TOM:** Il existe même un simulateur d'aides en ligne. Vous saisissez votre projet, et il vous montre quel soutien vous pourriez recevoir.
 **ANNA:** Une grande partie de cela passe par le dispositif national d'aides appelé le Klimabonus.
-**TOM:** Le Klimabonus soutient des choses comme la rénovation énergétique, le chauffage renouvelable, les panneaux solaires, les véhicules électriques, et les bornes de recharge.
-**ANNA:** Donc il couvre vraiment la plupart des projets dont nous venons de parler.
+**TOM:** Le Klimabonus soutient des choses comme la rénovation énergétique, le chauffage renouvelable comme les pompes à chaleur, les panneaux solaires et les batteries, les véhicules électriques, et les bornes de recharge. Et il a été renouvelé en 2026, pour la plupart des projets jusqu'en 2030.
+**ANNA:** Donc il couvre vraiment la plupart des projets dont nous venons de parler. Et pour les panneaux solaires, certaines entreprises peuvent même déduire la subvention directement de votre facture.
 **TOM:** Y a-t-il d'autres outils sur leur site, au-delà du simulateur d'aides ?
 **ANNA:** Oui, certains très pratiques. Il y a un simulateur solaire, pour vous aider à planifier des panneaux sur votre propre toit.
 **TOM:** Et un planificateur de rénovation, pour vous aider à réfléchir aux étapes d'un projet plus important.
@@ -94,4 +94,4 @@
 
 ---
 
-*Sources : Klima-Agence, klima-agence.lu — page d'accueil « Step up for your energy transition », « About us », « Klimabonus », « Subsidy programmes », et informations de contact ; Gouvernement du Grand-Duché de Luxembourg. Klima-Agence est l'agence nationale de l'énergie et du climat du Luxembourg (un GIE d'intérêt public soutenu par le Ministère de l'Économie, le Ministère de l'Environnement, du Climat et de la Biodiversité, et le Ministère du Logement et de l'Aménagement du territoire, avec la Chambre des Métiers et l'Ordre des Architectes et Ingénieurs-Conseils) ; elle était connue sous le nom de myenergy jusqu'en 2022. Ligne conseillers 8002 11 90 (du lundi au vendredi, de 8h à 12h et de 13h à 17h). Informations générales uniquement — les règles et les chiffres des aides évoluent, alors confirmez les détails actuels auprès de Klima-Agence. Exactitude au mois de juin 2026.*
+*Sources : Klima-Agence, klima-agence.lu — page d'accueil « Step up for your energy transition », « About us », « Klimabonus », « Subsidy programmes », et informations de contact ; Gouvernement du Grand-Duché de Luxembourg. Klima-Agence est l'agence nationale de l'énergie et du climat du Luxembourg (un GIE d'intérêt public soutenu par le Ministère de l'Économie, le Ministère de l'Environnement, du Climat et de la Biodiversité, et le Ministère du Logement et de l'Aménagement du territoire, avec la Chambre des Métiers et l'Ordre des Architectes et Ingénieurs-Conseils) ; elle était connue sous le nom de myenergy jusqu'en 2022. Ligne conseillers 8002 11 90 (du lundi au vendredi, de 8h à 12h et de 13h à 17h). Informations générales uniquement — les règles et les chiffres des aides évoluent, alors confirmez les détails actuels auprès de Klima-Agence. Exactitude au mois de juin 2026. Mise à jour : Klimabonus Wunnen renouvelé pour 2026–2030, Klimabonus Mobilitéit prolongé jusqu'au 30 juin 2030 ; préfinancement photovoltaïque avec subvention déduite de la facture (klima-agence.lu, gouvernement.lu). Vérifié le 9 novembre 2026.*

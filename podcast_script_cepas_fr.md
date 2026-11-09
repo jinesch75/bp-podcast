@@ -46,7 +46,7 @@
 **TOM:** Disons un mot sur le coût et la confiance, car les familles s'inquiètent des deux.
 **ANNA:** Le soutien est là pour aider, pas pour juger. C'est un espace sûr, professionnel et bienveillant.
 **TOM:** Et un jeune peut s'exprimer ouvertement, en sachant qu'il est écouté avec respect.
-**ANNA:** Le CePAS fournit aussi des informations sur certaines questions financières pour les élèves, lorsque cela est pertinent.
+**ANNA:** Le CePAS gère aussi une aide financière pour les élèves de familles à faible revenu... une subvention annuelle pour le matériel et les activités scolaires, que l'on demande via le service psycho-social de l'école. Le gouvernement prévoit de l'intégrer dans une nouvelle aide unique contre la vie chère à partir de 2027, alors renseignez-vous à l'école.
 **TOM:** Alors Anna, cela rejoint une autre organisation dont nous avons parlé.
 **ANNA:** En effet. Le CePAS est aussi l'un des partenaires auxquels l'Office National de l'Enfance peut faire appel pour un soutien psychologique.
 **TOM:** Donc ces services ne sont pas des îlots séparés. Ils travaillent ensemble autour du jeune.
@@ -61,7 +61,7 @@
 **ANNA:** Troisièmement... rappelez-vous que depuis 2026, les consultations sont aussi disponibles en anglais.
 **TOM:** Et quatrièmement... ces services sont en lien avec d'autres, comme l'ONE, afin que l'aide puisse être coordonnée.
 **ANNA:** Rassemblons tout cela. Que faut-il retenir du CePAS ?
-**TOM:** Premièrement... c'est un centre de soutien psycho-social et scolaire, qui aide au bien-être des jeunes à l'école depuis soixante ans.
+**TOM:** Premièrement... c'est un centre de soutien psycho-social et scolaire, qui aide au bien-être des jeunes à l'école depuis plus de soixante ans.
 **ANNA:** Deuxièmement... il offre un soutien psychologique et thérapeutique pour des problèmes scolaires, personnels et relationnels.
 **TOM:** Troisièmement... il y a une aide rapide dans chaque lycée, et un soutien plus approfondi à son centre de consultation.
 **ANNA:** Et quatrièmement... il travaille main dans la main avec les parents, les écoles et d'autres services.
@@ -74,4 +74,4 @@
 
 ---
 
-*Sources : Centre psycho-social et d'accompagnement scolaires (CePAS), cepas.public.lu — « À propos de nous », le Centre de Consultation pour Jeunes et Familles (CCJF), les services psycho-sociaux scolaires (SePAS) et le Centre de Ressources ; sous la tutelle du Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse. Le CePAS a été fondé en 1965 (à l'origine sous le nom de CPOS) et a marqué ses 60 ans en 2025 ; depuis janvier 2026, les consultations sont aussi proposées en anglais. Informations générales uniquement — pour un soutien, contactez le CePAS ou le service psycho-social de votre école. Exactes en date de juin 2026.*
+*Sources : Centre psycho-social et d'accompagnement scolaires (CePAS), cepas.public.lu — « À propos de nous », le Centre de Consultation pour Jeunes et Familles (CCJF), les services psycho-sociaux scolaires (SePAS) et le Centre de Ressources ; sous la tutelle du Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse. Le CePAS a été fondé en 1965 (à l'origine sous le nom de CPOS) et a marqué ses 60 ans en 2025 ; depuis janvier 2026, les consultations sont aussi proposées en anglais. Informations générales uniquement — pour un soutien, contactez le CePAS ou le service psycho-social de votre école. Exactes en date de juin 2026. Mise à jour : le CePAS octroie la subvention pour ménages à faible revenu (SMFR) via les SePAS ; le projet de loi 8716 (complément vie chère, prévu au 1er janvier 2027, encore en commission) la remplacerait. Vérifié le 9 novembre 2026.*

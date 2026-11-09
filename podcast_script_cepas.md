@@ -46,7 +46,7 @@
 **TOM:** Let's say something about cost and confidence, because families worry about both.
 **ANNA:** The support is there to help, not to judge. It is a safe, professional, and caring space.
 **TOM:** And a young person can speak openly, knowing they are being listened to with respect.
-**ANNA:** CePAS also provides information on certain financial matters for pupils, when relevant.
+**ANNA:** CePAS also handles financial help for pupils from low-income families... a yearly subsidy for school materials and activities, which you ask for through the school's psycho-social service. The government plans to fold it into a new single cost-of-living help from 2027, so ask at the school what applies.
 **TOM:** Now Anna, this connects to another organisation we have talked about.
 **ANNA:** It does. CePAS is also one of the partners that the Office National de l'Enfance can call on for psychological support.
 **TOM:** So these services are not separate islands. They work together around the young person.
@@ -61,7 +61,7 @@
 **ANNA:** Third... remember that since 2026, consultations are also available in English.
 **TOM:** And fourth... these services connect with others, like the ONE, so help can be coordinated.
 **ANNA:** Let's bring it all together. What should people remember about CePAS?
-**TOM:** First... it is a psycho-social and school support centre, helping young people's wellbeing at school for sixty years.
+**TOM:** First... it is a psycho-social and school support centre, helping young people's wellbeing at school for more than sixty years.
 **ANNA:** Second... it offers psychological and therapeutic support for school, personal, and relationship problems.
 **TOM:** Third... there is quick help inside every secondary school, and deeper support at its consultation centre.
 **ANNA:** And fourth... it works hand in hand with parents, schools, and other services.
@@ -74,4 +74,4 @@
 
 ---
 
-*Sources: Centre psycho-social et d'accompagnement scolaires (CePAS), cepas.public.lu — "About us", the Centre de Consultation pour Jeunes et Familles (CCJF), the school psycho-social services (SePAS), and the Resource Centre; under the Ministry of Education, Children and Youth. CePAS was founded in 1965 (originally as the CPOS) and marked 60 years in 2025; since January 2026 consultations are also offered in English. General information only — for support, contact CePAS or your school's psycho-social service. Accurate as of June 2026.*
+*Sources: Centre psycho-social et d'accompagnement scolaires (CePAS), cepas.public.lu — "About us", the Centre de Consultation pour Jeunes et Familles (CCJF), the school psycho-social services (SePAS), and the Resource Centre; under the Ministry of Education, Children and Youth. CePAS was founded in 1965 (originally as the CPOS) and marked 60 years in 2025; since January 2026 consultations are also offered in English. General information only — for support, contact CePAS or your school's psycho-social service. Accurate as of June 2026. Update: CePAS grants the low-income household subsidy (SMFR) and the school-retention subsidy through the lycées' SePAS (cepas.public.lu); bill 8716 (complément vie chère, still in committee, planned 1 January 2027) would replace the SMFR. Fact-checked 9 November 2026.*

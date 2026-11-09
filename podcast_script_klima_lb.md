@@ -17,7 +17,7 @@
 **ANNA:** Jo. D'Klima-Agence ass de Lëtzebuerger nationale Partner fir Energie- a Klimafroen.
 **TOM:** Also Anna, wat ass dat genau? Ass dat eng Firma?
 **ANNA:** Net eng privat Firma am gewéinleche Sënn. Et ass eng Organisatioun vun ëffentlechem Interêt, ënnerstëtzt vun der Lëtzebuerger Regierung.
-**TOM:** Verschidde Ministèren stinn dohannert... de Wirtschaftsministère, de Ministère fir Ëmwelt a Klima, an de Wunnengsministère.
+**TOM:** Verschidde Ministèren stinn dohannert... de Wirtschaftsministère, de Ministère fir Ëmwelt, Klima a Biodiversitéit, an de Ministère fir Wunnengsbau a Landesplanung.
 **ANNA:** An si schafft zesumme mat professionnelle Kammeren, wéi der Chambre des Métiers, an der Associatioun vun den Architekten an de Beroodungsingenieuren.
 **TOM:** Hei ass en Detail, un dee sech verschidde Leit erënneren. Bis 2022 hat d'Klima-Agence en aneren Numm... si hat myenergy geheescht.
 **ANNA:** Wann Dir also fréier vu myenergy héieren hutt, ass et déiselwecht Organisatioun, mat engem neien Numm an enger méi breeder Missioun.
@@ -55,8 +55,8 @@
 **ANNA:** Dofir hëlleft d'Klima-Agence Iech ze verstoen, wéi eng Aiden op Äre Projet zoutreffen.
 **TOM:** Et gëtt esouguer en Online-Simulateur fir d'Subventiounen. Dir gitt Äre Projet an, an en weist Iech, wat fir eng Ënnerstëtzung Dir kéint kréien.
 **ANNA:** E groussen Deel dovun ass dat national Aidenprogramm mam Numm Klimabonus.
-**TOM:** De Klimabonus ënnerstëtzt Saache wéi energieeffizient Renovatioun, erneierbar Heizung, Solarpanneauen, elektresch Gefierer, a Luetstatiounen.
-**ANNA:** Et deckt also wierklech déi meescht vun de Projeten, iwwer déi mir just geschwat hunn.
+**TOM:** De Klimabonus ënnerstëtzt Saache wéi energieeffizient Renovatioun, erneierbar Heizung wéi Wäermepompelen, Solarpanneauen a Batterien, elektresch Gefierer, a Luetstatiounen. An en ass 2026 erneiert ginn, fir déi meescht Projete bis 2030.
+**ANNA:** Et deckt also wierklech déi meescht vun de Projeten, iwwer déi mir just geschwat hunn. A bei Solarpanneauen kënnen e puer Firmen de Subsid souguer direkt vun der Rechnung ofzéien.
 **TOM:** Gëtt et nach aner Tools op hirer Internetsäit, nieft dem Subventiounssimulateur?
 **ANNA:** Jo, e puer ganz praktesch. Et gëtt e Solarsimulateur, fir Iech ze hëllefen, Panneauen op Ärem eegene Daach ze plangen.
 **TOM:** An e Renovatiounsplaner, fir Iech ze hëllefen, d'Schrëtt vun engem méi groussen Projet duerchzedenken.
@@ -94,4 +94,4 @@
 
 ---
 
-*Quellen: Klima-Agence, klima-agence.lu — Haaptsäit "Step up for your energy transition", "About us", "Klimabonus", "Subsidy programmes", a Kontaktinformatiounen; Regierung vum Groussherzogtum Lëtzebuerg. D'Klima-Agence ass de Lëtzebuerger nationalen Energie- a Klimaagence (en GIE vun ëffentlechem Interêt, ënnerstëtzt vum Wirtschaftsministère, vum Ministère fir Ëmwelt, Klima a Biodiversitéit, a vum Wunnengs- a Raumentwécklungsministère, mat der Chambre des Métiers an dem Ordre des Architectes et Ingénieurs-Conseils); si war bis 2022 als myenergy bekannt. Beroderlinn 8002 11 90 (méindes–freides, 8–12 Auer an 13–17 Auer). Just allgemeng Informatiounen — d'Aidereegelen an d'Chifferen änneren, also confirméiert déi aktuell Detailer mat der Klima-Agence. Aktuell am Juni 2026.*
+*Quellen: Klima-Agence, klima-agence.lu — Haaptsäit "Step up for your energy transition", "About us", "Klimabonus", "Subsidy programmes", a Kontaktinformatiounen; Regierung vum Groussherzogtum Lëtzebuerg. D'Klima-Agence ass de Lëtzebuerger nationalen Energie- a Klimaagence (en GIE vun ëffentlechem Interêt, ënnerstëtzt vum Wirtschaftsministère, vum Ministère fir Ëmwelt, Klima a Biodiversitéit, a vum Wunnengs- a Raumentwécklungsministère, mat der Chambre des Métiers an dem Ordre des Architectes et Ingénieurs-Conseils); si war bis 2022 als myenergy bekannt. Beroderlinn 8002 11 90 (méindes–freides, 8–12 Auer an 13–17 Auer). Just allgemeng Informatiounen — d'Aidereegelen an d'Chifferen änneren, also confirméiert déi aktuell Detailer mat der Klima-Agence. Aktuell am Juni 2026. Aktualiséierung: Klimabonus Wunnen 2026–2030, Klimabonus Mobilitéit bis den 30. Juni 2030; PV-Virfinanzéierung (klima-agence.lu). Iwwerpréift den 9. November 2026.*

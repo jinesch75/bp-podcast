@@ -14,7 +14,7 @@
 **TOM:** D'Leit kierzen den Numm dacks mat den Initiale of... S, N, J.
 **ANNA:** De SNJ huet eng flott Devis op Lëtzebuergesch... „Jonker staark maachen". Dat heescht, jonk Leit staark maachen.
 **TOM:** Also Anna, wat ass de SNJ genau?
-**ANNA:** Et ass en ëffentlechen Déngscht vum Staat, gegrënnt am Joer 1964. Hie stëtzt jonk Leit also zanter sechzeg Joer.
+**ANNA:** Et ass en ëffentlechen Déngscht vum Staat, gegrënnt am Joer 1964. Hie stëtzt jonk Leit also zanter méi wéi sechzeg Joer.
 **TOM:** An hie schafft ënner dem Ministère fir Educatioun, Kanner a Jugend.
 **ANNA:** Seng grouss Aufgab ass et, ze hëllefen en Ëmfeld ze schafen, an deem jonk Leit sech positiv entwéckele kënnen.
 **TOM:** Hinnen ze hëllefen, fir zu verantwortungsvollen, aktiven a fiersuergleche Bierger ze ginn.
@@ -58,15 +58,15 @@
 **TOM:** Si suergen dofir, datt d'Gesetz respektéiert gëtt, bereeden d'Au-pairen vir, an hëllefen, wann et e Konflikt gëtt.
 **ANNA:** Esou sinn de jonke Mënsch an d'Famill allebéid geschützt. Méi erfaart Dir op au Strich pair Punkt lu.
 **TOM:** Et gëtt och e véierten Deel... jonke Leit nolauschteren.
-**ANNA:** De SNJ studéiert d'Situatioun vun de jonke Leit, a Zesummenaarbecht mat der University of Luxembourg.
-**TOM:** Si maachen Ëmfroen, a publizéieren all fënnef Joer e grousse nationale Rapport iwwer d'Jugend.
+**ANNA:** De SNJ lauschtert de jonke Leit no, duerch Ëmfroen an Diskussiounsgruppen.
+**TOM:** An all fënnef Joer gëtt et e grousse nationale Rapport iwwer d'Jugend. En ass d'Basis fir den nationale Plang fir jonk Leit, de Jugendpakt. Dee neiste leeft vun 2026 bis 2030, an de SNJ huet gehollef, en virzebereeden.
 **ANNA:** Si lauschteren och direkt no, iwwer de Jugendrot, de „Jugendrot", wou jonk Leit sech zu ëffentleche Sujete melden.
 **TOM:** Esou gëtt jonke Leit net nëmme gehollef... si gi gehéiert.
 **ANNA:** An et gëtt BEE SECURE, dat vill Leit kennen.
 **TOM:** BEE SECURE förderert déi sécher a verantwortungsvoll Notzung vum Internet an den neien Technologien.
 **ANNA:** Tipps, fir online sécher ze bleiwen, fir Risiken ze vermeiden, a fir d'Technologie klug ze notzen.
 **TOM:** Loosse mer eng Iddi ginn vum Ëmfang vun all deem.
-**ANNA:** De SNJ huet fënnef Bildungszentren, a lokal Jugendantennen am ganze Land fir déi individuell Begleedung.
+**ANNA:** De SNJ huet fënnef Bildungszentren, dobäi kënnt en neit zu Esch-Uelzecht, a lokal Jugendantennen am ganze Land fir déi individuell Begleedung.
 **TOM:** An all Joer huelen Zéngdausende vu jonke Leit un sengen Aktivitéiten deel.
 **ANNA:** Also Tom, loosse mer dat konkret maachen. Wéi kann e jonke Mënsch, oder en Elterendeel, de SNJ tatsächlech notzen?
 **TOM:** Als éischt... wann Dir e jonke Mënsch kennt, deen onsécher ass, wat e no der Schoul maache soll, da kann de SNJ him hëllefen, e Liewensprojet opzebauen.
@@ -86,4 +86,4 @@
 
 ---
 
-*Quellen: Service national de la jeunesse (SNJ), snj.public.lu — „The National Youth Service" an snj.gouvernement.lu; Guichet.lu. De SNJ ass en ëffentlechen Déngscht, gegrënnt 1964 (Aufgabe festgeluecht am geännerte Gesetz vum 4. Juli 2008 iwwer d'Jugend), ënner der Opsiicht vum Minister fir Educatioun, Kanner a Jugend; Devis „Jonker staark maachen". D'Detailer (fënnef Bildungszentren, lokal Jugendantennen, fräiwëllegen Déngscht, Au-Pair-Déngscht, BEE SECURE, Zesummenaarbecht mat der University of Luxembourg) kommen vum SNJ. Nëmmen allgemeng Informatiounen. Stand: Juni 2026.*
+*Quellen: Service national de la jeunesse (SNJ), snj.public.lu — „The National Youth Service" an snj.gouvernement.lu; Guichet.lu. De SNJ ass en ëffentlechen Déngscht, gegrënnt 1964 (Aufgabe festgeluecht am geännerte Gesetz vum 4. Juli 2008 iwwer d'Jugend), ënner der Opsiicht vum Minister fir Educatioun, Kanner a Jugend; Devis „Jonker staark maachen". D'Detailer (fënnef Bildungszentren, lokal Jugendantennen, fräiwëllegen Déngscht, Au-Pair-Déngscht, BEE SECURE, Zesummenaarbecht mat der University of Luxembourg) kommen vum SNJ. Nëmmen allgemeng Informatiounen. Stand: Juni 2026. Aktualiséierung: Jugendrapport all fënnef Joer a Jugendpakt 2026–2030; fënnef Zentren + Esch-Uelzecht (snj.public.lu). Iwwerpréift den 9. November 2026.*

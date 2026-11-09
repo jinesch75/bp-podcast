@@ -63,7 +63,7 @@
 **ANNA:** Disons un mot tout en douceur ici, car ce sujet peut sembler lourd.
 **TOM:** Demander de l'aide n'est pas un signe d'échec. C'est un signe de force et d'amour pour votre enfant.
 **ANNA:** Chaque famille traverse parfois des difficultés. Demander de l'aide tôt rend souvent les choses plus faciles, et non plus difficiles.
-**TOM:** Et toute l'approche de l'ONE repose sur le respect et la collaboration.
+**TOM:** Et toute l'approche de l'ONE repose sur le respect et la collaboration. Une grande réforme de la protection de l'enfance et de la jeunesse est en discussion à la Chambre des députés, et elle garde cette approche volontaire en premier, avec l'ONE au centre.
 **ANNA:** Alors Tom, rendons cela concret. Que faut-il retenir ?
 **TOM:** D'abord... si votre famille traverse une période difficile, vous n'avez pas à tout gérer seul.
 **ANNA:** Ensuite... l'ONE dispose de quatorze offices régionaux, il y a donc un soutien près de chez vous.
@@ -82,4 +82,4 @@
 
 ---
 
-*Sources : Office National de l'Enfance (ONE), officenationalenfance.lu — page d'accueil, « Soutien & Accompagnement », offices régionaux et mesures d'aide (aide socio-familiale, assistance psychique/sociale/éducative en famille, soutien psychologique, intervention précoce, accueil en institution et en famille d'accueil) ; sous le Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse. L'ONE gère quatorze offices régionaux de l'enfance et travaille sur une base volontaire et collaborative avec les familles. Informations générales uniquement — pour votre situation, contactez directement l'ONE. Exactes en date de juin 2026.*
+*Sources : Office National de l'Enfance (ONE), officenationalenfance.lu — page d'accueil, « Soutien & Accompagnement », offices régionaux et mesures d'aide (aide socio-familiale, assistance psychique/sociale/éducative en famille, soutien psychologique, intervention précoce, accueil en institution et en famille d'accueil) ; sous le Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse. L'ONE gère quatorze offices régionaux de l'enfance et travaille sur une base volontaire et collaborative avec les familles. Informations générales uniquement — pour votre situation, contactez directement l'ONE. Exactes en date de juin 2026. Mise à jour : projet de loi 7994 portant aide, soutien et protection aux mineurs, aux jeunes adultes et aux familles encore en discussion (avis complémentaire du Conseil d'État du 17.07.2026) ; quatorze offices régionaux confirmés. Vérifié le 9 novembre 2026.*

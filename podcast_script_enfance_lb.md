@@ -63,7 +63,7 @@
 **ANNA:** Loosst eis hei e behutsamt Wuert soen, well dëst Thema sech schwéier ufille kann.
 **TOM:** Ëm Hëllef ze froen ass kee Zeeche vu Versoen. Et ass e Zeeche vu Stäerkt a vu Léift fir Äert Kand.
 **ANNA:** All Famill huet heiansdo Schwieregkeeten. Sech fréi ze mellen mécht d'Saachen dacks méi einfach, net méi schwéier.
-**TOM:** An déi ganz Approche vum ONE baséiert op Respekt a Zesummenaarbecht.
+**TOM:** An déi ganz Approche vum ONE baséiert op Respekt a Zesummenaarbecht. Eng grouss Reform vum Kanner- a Jugendschutz gëtt an der Chamber diskutéiert, a si stellt dës fräiwëlleg Approche op déi éischt Plaz, mam ONE an der Mëtt.
 **ANNA:** Also Tom, maache mir dat konkret. Wat sollten d'Leit mathuelen?
 **TOM:** Als éischt... wann Är Famill eng schwéier Zäit duerchliewt, musst Dir net alles eleng meeschteren.
 **ANNA:** Als zweet... den ONE huet véierzéng regional Büroen, et gëtt also Ënnerstëtzung a Ärer Géigend.
@@ -82,4 +82,4 @@
 
 ---
 
-*Quellen: Office National de l'Enfance (ONE), officenationalenfance.lu — Startsäit, „Soutien & Accompagnement", regional Büroen an Hëllefsmoossnamen (aide socio-familiale, psychesch/sozial/erzéieresch Ënnerstëtzung an der Famill, psychologesch Ënnerstëtzung, Frühförderung, Betreiung an Institutiounen an a Fleegfamiljen); ënner dem Ministère fir Educatioun, Kanner a Jugend. Den ONE bedreift véierzéng regional Kannerbüroen a schafft op fräiwëlleger, kooperativer Basis mat de Familljen. Just allgemeng Informatiounen — fir Är Situatioun kontaktéiert den ONE direkt. Stand: Juni 2026.*
+*Quellen: Office National de l'Enfance (ONE), officenationalenfance.lu — Startsäit, „Soutien & Accompagnement", regional Büroen an Hëllefsmoossnamen (aide socio-familiale, psychesch/sozial/erzéieresch Ënnerstëtzung an der Famill, psychologesch Ënnerstëtzung, Frühförderung, Betreiung an Institutiounen an a Fleegfamiljen); ënner dem Ministère fir Educatioun, Kanner a Jugend. Den ONE bedreift véierzéng regional Kannerbüroen a schafft op fräiwëlleger, kooperativer Basis mat de Familljen. Just allgemeng Informatiounen — fir Är Situatioun kontaktéiert den ONE direkt. Stand: Juni 2026. Aktualiséierung: Gesetzesprojet 7994 nach an der Chamber; véierzéng regional Büroen confirméiert. Iwwerpréift den 9. November 2026.*

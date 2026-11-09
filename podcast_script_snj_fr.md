@@ -14,7 +14,7 @@
 **TOM:** Les gens utilisent souvent ses initiales... S, N, J.
 **ANNA:** Le SNJ a une belle devise en luxembourgeois... « Jonker staark maachen ». Cela signifie « rendre les jeunes forts ».
 **TOM:** Alors Anna, qu'est-ce que le SNJ exactement ?
-**ANNA:** C'est un service public de l'État, créé en 1964. Il soutient donc les jeunes depuis soixante ans.
+**ANNA:** C'est un service public de l'État, créé en 1964. Il soutient donc les jeunes depuis plus de soixante ans.
 **TOM:** Et il travaille sous le Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse.
 **ANNA:** Sa grande mission est d'aider à créer un environnement où les jeunes peuvent se développer de manière positive.
 **TOM:** Les aider à devenir des citoyens responsables, actifs et bienveillants.
@@ -58,15 +58,15 @@
 **TOM:** Ils veillent à ce que la loi soit respectée, préparent les au pairs, et aident s'il y a un conflit.
 **ANNA:** Ainsi, le jeune et la famille sont tous les deux protégés. Vous pouvez en savoir plus sur au tiret pair point lu.
 **TOM:** Il y a aussi une quatrième partie... écouter les jeunes.
-**ANNA:** Le SNJ étudie la situation des jeunes, en collaboration avec l'Université du Luxembourg.
-**TOM:** Ils mènent des enquêtes, et publient un grand rapport national sur la jeunesse tous les cinq ans.
+**ANNA:** Le SNJ écoute les jeunes, à travers des enquêtes et des groupes de discussion.
+**TOM:** Et tous les cinq ans, il y a un grand rapport national sur la jeunesse. C'est la base du plan national pour les jeunes, le Pacte pour la jeunesse. Le plus récent va de 2026 à 2030, et le SNJ a aidé à le préparer.
 **ANNA:** Ils écoutent aussi directement, à travers le conseil de la jeunesse, le « Jugendrot », où les jeunes s'expriment sur les sujets publics.
 **TOM:** Ainsi, les jeunes ne sont pas seulement aidés... ils sont entendus.
 **ANNA:** Et il y a BEE SECURE, que beaucoup de gens connaissent.
 **TOM:** BEE SECURE encourage l'utilisation sûre et responsable d'internet et des nouvelles technologies.
 **ANNA:** Des conseils pour rester en sécurité en ligne, pour éviter les risques, et pour utiliser la technologie de manière avisée.
 **TOM:** Donnons une idée de l'ampleur de tout cela.
-**ANNA:** Le SNJ a cinq centres éducatifs, et des antennes locales pour la jeunesse dans tout le pays pour un accompagnement individuel.
+**ANNA:** Le SNJ a cinq centres éducatifs, avec un nouveau centre à Esch-sur-Alzette, et des antennes locales pour la jeunesse dans tout le pays pour un accompagnement individuel.
 **TOM:** Et chaque année, des dizaines de milliers de jeunes participent à ses activités.
 **ANNA:** Alors Tom, rendons cela concret. Comment un jeune, ou un parent, peut-il vraiment utiliser le SNJ ?
 **TOM:** Premièrement... si vous connaissez un jeune qui ne sait pas quoi faire après l'école, le SNJ peut l'aider à construire un projet de vie.
@@ -86,4 +86,4 @@
 
 ---
 
-*Sources : Service national de la jeunesse (SNJ), snj.public.lu — « The National Youth Service » et snj.gouvernement.lu ; Guichet.lu. Le SNJ est un service public créé en 1964 (missions définies dans la loi modifiée du 4 juillet 2008 sur la jeunesse), sous l'autorité du Ministre de l'Éducation nationale, de l'Enfance et de la Jeunesse ; devise « Jonker staark maachen ». Les détails (cinq centres éducatifs, antennes locales pour la jeunesse, service volontaire, service Au Pair, BEE SECURE, coopération avec l'Université du Luxembourg) proviennent du SNJ. Informations générales uniquement. Exactes en date de juin 2026.*
+*Sources : Service national de la jeunesse (SNJ), snj.public.lu — « The National Youth Service » et snj.gouvernement.lu ; Guichet.lu. Le SNJ est un service public créé en 1964 (missions définies dans la loi modifiée du 4 juillet 2008 sur la jeunesse), sous l'autorité du Ministre de l'Éducation nationale, de l'Enfance et de la Jeunesse ; devise « Jonker staark maachen ». Les détails (cinq centres éducatifs, antennes locales pour la jeunesse, service volontaire, service Au Pair, BEE SECURE, coopération avec l'Université du Luxembourg) proviennent du SNJ. Informations générales uniquement. Exactes en date de juin 2026. Mise à jour : rapport national sur la jeunesse tous les cinq ans et Pacte pour la jeunesse 2026–2030, édité par le SNJ ; cinq centres + Esch-sur-Alzette fin 2026 (snj.public.lu). Vérifié le 9 novembre 2026.*

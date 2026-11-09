@@ -23,7 +23,7 @@
 **ANNA:** Exactement. Sa mission est de collecter les informations, de les analyser, puis de les partager ouvertement.
 **TOM:** Collecter, analyser, partager. C'est une bonne façon de le retenir.
 **ANNA:** Et il ne travaille pas tout à fait seul. Il a un partenaire clé... un institut de recherche appelé LISER.
-**TOM:** LISER, c'est le Luxembourg Institute of Socio-Economic Research. C'est un centre de recherche public.
+**TOM:** LISER, c'est le Luxembourg Institute of Socio-Economic Research. C'est un centre de recherche public. Et pour les statistiques des prix de vente, l'Observatoire travaille aussi main dans la main avec le STATEC, l'institut national de la statistique.
 **ANNA:** Ils apportent une rigueur scientifique... des méthodes rigoureuses, une analyse soignée. Ainsi, les chiffres que vous obtenez sont solides, et non des estimations au hasard.
 **TOM:** Bien. Alors, qu'est-ce que l'Observatoire observe concrètement ? Que mesure-t-il ?
 **ANNA:** Plusieurs choses. D'abord, les prix de vente des logements... combien il en coûte pour acheter.
@@ -42,26 +42,26 @@
 **TOM:** Ces actes officiels sont transmis chaque mois à l'Observatoire, par l'Administration de l'Enregistrement et des Domaines.
 **ANNA:** Et ils sont complétés par des informations issues du Cadastre, par exemple la surface de chaque appartement.
 **TOM:** Ce ne sont donc pas des annonces ou des estimations. Ce sont de vraies ventes réalisées. C'est à peu près ce qu'on peut avoir de plus fiable.
-**ANNA:** Pour les loyers, c'est un peu différent. Les données sur les loyers proviennent surtout des annonces immobilières... des logements proposés à la location.
+**ANNA:** Pour les loyers, c'est un peu différent. Les données sur les loyers proviennent surtout des annonces immobilières... des logements proposés à la location, relevés avec un grand portail immobilier.
 **TOM:** Les loyers reflètent donc ce qui est demandé sur le marché, tandis que les prix de vente reflètent des transactions qui ont réellement eu lieu.
-**ANNA:** Il y a toutefois une limite intéressante. L'Observatoire publie des prix détaillés pour les appartements, mais pas pour les maisons.
+**ANNA:** Il y a toutefois une limite intéressante. L'Observatoire publie des prix détaillés au mètre carré, commune par commune, pour les appartements... mais pas pour les maisons.
 **TOM:** Pourquoi cela, Anna ?
 **ANNA:** Parce que pour les appartements, on dispose de bonnes données sur la surface, ce qui permet de calculer un prix au mètre carré juste.
 **TOM:** Mais pour les maisons individuelles, cette information détaillée sur la surface n'est pas disponible de la même manière.
-**ANNA:** Alors, plutôt que de publier des chiffres qui pourraient induire les gens en erreur, ils choisissent de ne pas publier de prix détaillés pour les maisons. C'est honnête.
+**ANNA:** Alors, plutôt que de publier des chiffres qui pourraient induire les gens en erreur, ils choisissent de ne pas publier de prix détaillés pour les maisons. Pour les maisons, le STATEC publie plutôt un indice général des prix. C'est honnête.
 **TOM:** Je respecte cela. Mieux vaut dire « nous n'avons pas de données fiables » que de les inventer.
 **ANNA:** Maintenant, donnons quelques chiffres concrets, pour que cela devienne plus parlant.
 **TOM:** Oui, s'il vous plaît. Combien coûte réellement un appartement ?
-**ANNA:** Au 3e trimestre 2025, un appartement existant coûtait en moyenne environ 7 600 euros le mètre carré.
-**TOM:** Et un appartement tout neuf, encore en construction, coûtait plus cher... autour de 10 000 euros le mètre carré.
+**ANNA:** Ces dernières années, un appartement existant a coûté en moyenne bien plus de sept mille euros le mètre carré.
+**TOM:** Et un appartement tout neuf, encore en construction, coûte encore plus cher... souvent près de dix mille euros le mètre carré.
 **ANNA:** Ce sont des moyennes, bien sûr. Le prix dépend beaucoup de la commune, et de la qualité du logement.
 **TOM:** Et les chiffres évoluent à chaque trimestre. Ils montent, ils descendent. C'est exactement pour cela que l'Observatoire continue de surveiller.
-**ANNA:** Par exemple, sur cette même période, le prix des appartements existants avait en fait légèrement baissé par rapport au trimestre précédent.
+**ANNA:** Par exemple, les prix ont baissé après 2022... et depuis, le marché se stabilise peu à peu.
 **TOM:** Le marché n'est donc pas une simple ligne droite qui monte. Il respire... il change.
 **ANNA:** Et voici la partie que j'adore. Toutes ces données sont publiques, et vous pouvez les explorer vous-même.
-**TOM:** Les statistiques, détaillées par commune, sont publiées sur la plateforme nationale de données ouvertes, data point public point lu.
+**TOM:** Les statistiques, détaillées par commune, sont publiées sur la plateforme nationale de données ouvertes, data point public point lu... et aussi sur le Géoportail national.
 **ANNA:** Vous pouvez donc consulter votre propre commune, et voir comment les prix y ont évolué.
-**TOM:** Il y a même un simulateur de prix sur le site de l'Observatoire, pour vous aider à vous faire une idée.
+**TOM:** Il y a même un simulateur de prix sur le site de l'Observatoire, et aussi un simulateur de loyers, pour vous aider à vous faire une idée.
 **ANNA:** Imaginez que vous envisagez d'acheter ou de louer dans une certaine ville. Vous pouvez vérifier les prix habituels avant de vous lancer.
 **TOM:** C'est un vrai pouvoir pour les gens ordinaires. Des informations qui étaient autrefois difficiles à trouver sont aujourd'hui accessibles à tous.
 **ANNA:** L'Observatoire publie aussi des rapports et des notes, rédigés dans un langage clair, sur des questions précises.
@@ -98,4 +98,4 @@
 
 ---
 
-*Sources : Observatoire de l'Habitat, Ministère du Logement et de l'Aménagement du territoire, logement.public.lu — « Observatoire de l'habitat », « Prix de vente », « Prix de location », « Publications » ; data.public.lu (données ouvertes de l'Observatoire de l'Habitat) ; LISER (Luxembourg Institute of Socio-Economic Research). Les chiffres cités (par exemple des appartements existants en moyenne à environ 7 605 €/m² et des appartements neufs à environ 10 034 €/m² au 3e trimestre 2025 ; les données sur les prix de vente issues des actes notariés via l'Administration de l'Enregistrement et des Domaines et le Cadastre) proviennent de l'Observatoire de l'Habitat et sont datés du troisième trimestre 2025. Les chiffres sont mis à jour régulièrement et évolueront. Information générale uniquement. Exactes en date de juin 2026.*
+*Sources : Observatoire de l'Habitat, Ministère du Logement et de l'Aménagement du territoire, logement.public.lu — « Observatoire de l'habitat », « Prix de vente », « Prix de location », « Publications » ; data.public.lu (données ouvertes de l'Observatoire de l'Habitat) ; LISER (Luxembourg Institute of Socio-Economic Research). Les chiffres cités (par exemple des appartements existants en moyenne à environ 7 605 €/m² et des appartements neufs à environ 10 034 €/m² au 3e trimestre 2025 ; les données sur les prix de vente issues des actes notariés via l'Administration de l'Enregistrement et des Domaines et le Cadastre) proviennent de l'Observatoire de l'Habitat et sont datés du troisième trimestre 2025. Les chiffres sont mis à jour régulièrement et évolueront. Information générale uniquement. Exactes en date de juin 2026. Mise à jour : prix décrits de façon durable (appartements existants bien au-delà de 7 000 €/m², neufs souvent près de 10 000 €/m² ; baisse après 2022 puis stabilisation — Le Logement en chiffres n°20, sept. 2026). Statistiques de prix de vente produites avec le STATEC ; indice des prix des maisons du STATEC ; loyers annoncés relevés avec Immotop.lu ; données aussi sur le Géoportail. Vérifié le 9 novembre 2026.*

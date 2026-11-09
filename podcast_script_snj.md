@@ -14,7 +14,7 @@
 **TOM:** People often shorten it to its initials... S, N, J.
 **ANNA:** The SNJ has a lovely motto in Luxembourgish... "Jonker staark maachen". It means "empowering youth".
 **TOM:** So Anna, what exactly is the SNJ?
-**ANNA:** It is a public service of the State, created back in 1964. So it has been supporting young people for sixty years.
+**ANNA:** It is a public service of the State, created back in 1964. So it has been supporting young people for more than sixty years.
 **TOM:** And it works under the Ministry of Education, Children and Youth.
 **ANNA:** Its big mission is to help create an environment where young people can develop in a positive way.
 **TOM:** To help them grow into responsible, active, and caring citizens.
@@ -58,15 +58,15 @@
 **TOM:** They make sure the law is respected, prepare the au pairs, and help if there is any conflict.
 **ANNA:** So both the young person and the family are protected. You can learn more at au dash pair dot lu.
 **TOM:** There is also a fourth part... listening to young people.
-**ANNA:** The SNJ studies the situation of young people, working with the University of Luxembourg.
-**TOM:** They run surveys, and publish a big national report on youth every five years.
+**ANNA:** The SNJ listens to young people, through surveys and discussion groups.
+**TOM:** And every five years, there is a big national report on youth. It is the basis for the national plan for young people, the Youth Pact. The newest one runs from 2026 to 2030, and the SNJ helped to prepare it.
 **ANNA:** They also listen directly, through the youth council, the "Jugendrot", where young people speak up on public matters.
 **TOM:** So young people are not just helped... they are heard.
 **ANNA:** And there is BEE SECURE, which many people know.
 **TOM:** BEE SECURE promotes the safe and responsible use of the internet and new technologies.
 **ANNA:** Tips to stay safe online, to avoid risks, and to use technology wisely.
 **TOM:** Let's give a sense of the scale of all this.
-**ANNA:** The SNJ has five educational centres, and local youth antennas across the country for individual support.
+**ANNA:** The SNJ has five educational centres, with a new one coming in Esch-sur-Alzette, and local youth antennas across the country for individual support.
 **TOM:** And every year, tens of thousands of young people take part in its activities.
 **ANNA:** So Tom, let's make this practical. How can a young person, or a parent, actually use the SNJ?
 **TOM:** First... if you know a young person who is unsure what to do after school, the SNJ can help them build a life project.
@@ -86,4 +86,4 @@
 
 ---
 
-*Sources: Service national de la jeunesse (SNJ), snj.public.lu — "The National Youth Service" and snj.gouvernement.lu; Guichet.lu. The SNJ is a public service created in 1964 (missions set out in the amended law of 4 July 2008 on youth), under the Minister of National Education, Childhood and Youth; motto "Jonker staark maachen". Details (five educational centres, local youth antennas, voluntary service, Au Pair service, BEE SECURE, cooperation with the University of Luxembourg) are from the SNJ. General information only. Accurate as of June 2026.*
+*Sources: Service national de la jeunesse (SNJ), snj.public.lu — "The National Youth Service" and snj.gouvernement.lu; Guichet.lu. The SNJ is a public service created in 1964 (missions set out in the amended law of 4 July 2008 on youth), under the Minister of National Education, Childhood and Youth; motto "Jonker staark maachen". Details (five educational centres, local youth antennas, voluntary service, Au Pair service, BEE SECURE, cooperation with the University of Luxembourg) are from the SNJ. General information only. Accurate as of June 2026. Update: national youth report every five years (2025 edition) and Youth Pact 2026–2030, published by the SNJ (gouvernement.lu, Oct 2026); monitoring of youth with the OEJQS since 2022; five youth centres (Marienthal, Hollenfels, Cinqfontaines, Forum Geesseknäppchen, Lultzhausen water-sports base) plus Esch-sur-Alzette from end 2026 (snj.public.lu). Fact-checked 9 November 2026.*

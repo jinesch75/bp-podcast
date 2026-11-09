@@ -52510,7 +52510,7 @@ const EPISODES = [
   "title": "The Observatoire de l'Habitat – Understanding Luxembourg's Housing Market",
   "description": "What the Observatoire de l'Habitat is, what it watches (sale prices, rents, land and affordability), where its reliable data comes from (notarial deeds), its partnership with the research institute LISER, and how anyone can explore housing prices by commune on data.public.lu.",
   "audio": "podcast_habitat.mp3",
-  "duration": 589.37,
+  "duration": 587,
   "topics": [
    "What the Observatoire de l'Habitat is",
    "Created in 2003, Ministry of Housing",
@@ -52524,678 +52524,678 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's a pleasure to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.64
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.68
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.79
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to understand the country a little better.",
-    "t": 14.61
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today's topic is one that almost everyone in Luxembourg talks about... housing.",
-    "t": 22.09
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Where to live, how much it costs, whether to rent or buy... these are big questions, and big numbers.",
-    "t": 27.29
+    "t": 32.1
    },
    {
     "speaker": "Tom",
     "text": "But here is something many people don't know.",
-    "t": 34.22
+    "t": 39.35
    },
    {
     "speaker": "Tom",
     "text": "Luxembourg has an official body whose job is to study all of this... carefully, and with real data.",
-    "t": 37.44
+    "t": 41.58
    },
    {
     "speaker": "Anna",
     "text": "It is called the Observatoire de l'Habitat.",
-    "t": 43.79
+    "t": 48.82
    },
    {
     "speaker": "Anna",
     "text": "In English, we could say the Housing Observatory.",
-    "t": 47.03
+    "t": 51.54
    },
    {
     "speaker": "Tom",
     "text": "I like that word, \"observatory\".",
-    "t": 50.67
+    "t": 54.72
    },
    {
     "speaker": "Tom",
     "text": "It sounds like a place where people watch the stars.",
-    "t": 53.87
+    "t": 56.7
    },
    {
     "speaker": "Anna",
     "text": "It's a nice image!",
-    "t": 57.51
+    "t": 59.39
    },
    {
     "speaker": "Anna",
     "text": "But instead of watching the stars, this observatory watches the housing market.",
-    "t": 59.68
+    "t": 60.91
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what exactly is the Observatoire de l'Habitat?",
-    "t": 64.88
+    "t": 65.47
    },
    {
     "speaker": "Anna",
     "text": "It was created in 2003, inside the Ministry responsible for housing... today that is the Ministry of Housing and Spatial Planning.",
-    "t": 69.19
+    "t": 68.75
    },
    {
     "speaker": "Tom",
     "text": "And its purpose is to produce reliable information about housing in Luxembourg.",
-    "t": 77.76
+    "t": 77.73
    },
    {
     "speaker": "Anna",
     "text": "Information that helps the government plan its housing policy, and that also informs the public... people like you and me.",
-    "t": 82.89
+    "t": 82.22
    },
    {
     "speaker": "Tom",
     "text": "So it has really two jobs.",
-    "t": 90.31
+    "t": 89.79
    },
    {
     "speaker": "Tom",
     "text": "First, to support decision-makers, and second, to inform citizens.",
-    "t": 92.99
+    "t": 91.51
    },
    {
     "speaker": "Anna",
-    "text": "Exactly.",
-    "t": 98.04
-   },
-   {
-    "speaker": "Anna",
-    "text": "Its mission is to collect information, to analyse it, and then to share it openly.",
-    "t": 99.9
+    "text": "Exactly. Its mission is to collect information, to analyse it, and then to share it openly.",
+    "t": 96.23
    },
    {
     "speaker": "Tom",
     "text": "Collect, analyse, share.",
-    "t": 105.61
+    "t": 102.55
    },
    {
     "speaker": "Tom",
     "text": "That's a good way to remember it.",
-    "t": 108.6
+    "t": 104.22
    },
    {
     "speaker": "Anna",
     "text": "And it does not work completely alone.",
-    "t": 111.38
+    "t": 105.9
    },
    {
     "speaker": "Anna",
     "text": "It has a key partner... a research institute called LISER.",
-    "t": 114.42
+    "t": 108.45
    },
    {
     "speaker": "Tom",
     "text": "LISER is the Luxembourg Institute of Socio-Economic Research.",
-    "t": 118.44
+    "t": 112.56
    },
    {
     "speaker": "Tom",
     "text": "It is a public research centre.",
-    "t": 123.08
+    "t": 116.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "And for the sale-price statistics, the Observatoire also works hand in hand with STATEC, the national statistics institute.",
+    "t": 118.47
    },
    {
     "speaker": "Anna",
     "text": "They bring scientific rigour... proper methods, careful analysis.",
-    "t": 125.98
+    "t": 125.78
    },
    {
     "speaker": "Anna",
     "text": "So the numbers you get are solid, not guesses.",
-    "t": 130.98
+    "t": 129.9
    },
    {
     "speaker": "Tom",
-    "text": "Good.",
-    "t": 134.66
-   },
-   {
-    "speaker": "Tom",
-    "text": "So what does the Observatoire actually watch?",
-    "t": 136.24
+    "text": "Good. So what does the Observatoire actually watch?",
+    "t": 133.01
    },
    {
     "speaker": "Tom",
     "text": "What does it measure?",
-    "t": 139.72
+    "t": 136.41
    },
    {
     "speaker": "Anna",
-    "text": "Several things.",
-    "t": 141.9
-   },
-   {
-    "speaker": "Anna",
-    "text": "First, the sale prices of homes... how much it costs to buy.",
-    "t": 144.07
+    "text": "Several things. First, the sale prices of homes... how much it costs to buy.",
+    "t": 137.82
    },
    {
     "speaker": "Tom",
     "text": "Second, rents... how much it costs to rent a home.",
-    "t": 148.78
+    "t": 143.17
    },
    {
     "speaker": "Anna",
     "text": "Third, the price of land... building land, where new homes can go.",
-    "t": 152.75
+    "t": 146.3
    },
    {
     "speaker": "Tom",
     "text": "And it goes further than just prices, doesn't it?",
-    "t": 157.64
+    "t": 151.35
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 161.21
-   },
-   {
-    "speaker": "Anna",
-    "text": "It also studies how much building land is actually available, and who owns it.",
-    "t": 162.9
+    "text": "Yes. It also studies how much building land is actually available, and who owns it.",
+    "t": 153.65
    },
    {
     "speaker": "Tom",
     "text": "That's called land observation, or in French, the \"observation foncière\".",
-    "t": 168.25
+    "t": 158.99
    },
    {
     "speaker": "Tom",
     "text": "They even do a kind of census of building land.",
-    "t": 173.29
+    "t": 163.86
    },
    {
     "speaker": "Anna",
     "text": "It also follows how many new homes are being produced, year after year.",
-    "t": 176.93
+    "t": 166.68
    },
    {
     "speaker": "Tom",
     "text": "And there is a more human side too... the social and economic side.",
-    "t": 181.73
+    "t": 171.04
    },
    {
     "speaker": "Anna",
-    "text": "Right.",
-    "t": 186.35
-   },
-   {
-    "speaker": "Anna",
-    "text": "The Observatoire studies housing affordability... whether people can actually afford to live where they need to.",
-    "t": 187.96
+    "text": "Right. The Observatoire studies housing affordability... whether people can actually afford to live where they need to.",
+    "t": 175.14
    },
    {
     "speaker": "Tom",
     "text": "And it looks at how public policies affect the cost of housing.",
-    "t": 194.54
+    "t": 182.02
    },
    {
     "speaker": "Tom",
     "text": "So it's not just numbers, it's about real life.",
-    "t": 198.69
+    "t": 186.16
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about where these numbers come from, because that's important for trust.",
-    "t": 202.33
+    "t": 188.97
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 207.37
-   },
-   {
-    "speaker": "Tom",
-    "text": "If you give people figures, they want to know the figures are real.",
-    "t": 209.04
+    "text": "Yes. If you give people figures, they want to know the figures are real.",
+    "t": 193.53
    },
    {
     "speaker": "Anna",
     "text": "So, for sale prices, the data comes from notarial deeds.",
-    "t": 213.36
+    "t": 198.22
    },
    {
     "speaker": "Anna",
     "text": "Every time a property is sold, a notary records it officially.",
-    "t": 218.23
+    "t": 203.11
    },
    {
     "speaker": "Tom",
     "text": "Those official records are passed each month to the Observatoire, by the Registration and Domains Administration.",
-    "t": 222.76
+    "t": 207.36
    },
    {
     "speaker": "Anna",
     "text": "And they are completed with information from the Land Registry and Cadastre, for example the surface area of each apartment.",
-    "t": 229.38
+    "t": 214.23
    },
    {
     "speaker": "Tom",
     "text": "So these are not adverts or estimates.",
-    "t": 236.91
+    "t": 221.62
    },
    {
     "speaker": "Tom",
     "text": "They are real, completed sales.",
-    "t": 240.01
+    "t": 224.03
    },
    {
     "speaker": "Tom",
     "text": "That's about as reliable as it gets.",
-    "t": 243.01
+    "t": 226.62
    },
    {
     "speaker": "Anna",
     "text": "For rents, it's a bit different.",
-    "t": 246.09
+    "t": 228.77
    },
    {
     "speaker": "Anna",
-    "text": "Rent data comes mostly from property listings... homes advertised for rent.",
-    "t": 249.02
+    "text": "Rent data comes mostly from property listings... homes advertised for rent, collected with a big property website.",
+    "t": 230.67
    },
    {
     "speaker": "Tom",
     "text": "So rents reflect what is being asked on the market, while sale prices reflect deals that actually happened.",
-    "t": 254.4
+    "t": 237.92
    },
    {
     "speaker": "Anna",
     "text": "There is one interesting limit, though.",
-    "t": 260.84
+    "t": 244.64
    },
    {
     "speaker": "Anna",
-    "text": "The Observatoire publishes detailed prices for apartments, but not for houses.",
-    "t": 263.92
+    "text": "The Observatoire publishes detailed prices per square metre, commune by commune, for apartments... but not for houses.",
+    "t": 246.72
    },
    {
     "speaker": "Tom",
     "text": "Why is that, Anna?",
-    "t": 269.43
+    "t": 254.91
    },
    {
     "speaker": "Anna",
     "text": "Because for apartments, there is good data on the surface area, so you can calculate a fair price per square metre.",
-    "t": 271.67
+    "t": 256.22
    },
    {
     "speaker": "Tom",
     "text": "But for individual houses, that detailed surface information isn't available in the same way.",
-    "t": 278.69
+    "t": 263.33
    },
    {
     "speaker": "Anna",
     "text": "So rather than publish numbers that could mislead people, they choose not to publish detailed house prices.",
-    "t": 284.84
+    "t": 268.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "For houses, STATEC publishes a general price index instead.",
+    "t": 274.9
    },
    {
     "speaker": "Anna",
     "text": "That's honest.",
-    "t": 291.35
+    "t": 278.56
    },
    {
     "speaker": "Tom",
     "text": "I respect that.",
-    "t": 293.32
+    "t": 279.81
    },
    {
     "speaker": "Tom",
     "text": "Better to say \"we don't have reliable data\" than to invent it.",
-    "t": 295.52
+    "t": 280.99
    },
    {
     "speaker": "Anna",
     "text": "Now, let's give some real numbers, so this feels concrete.",
-    "t": 299.56
+    "t": 284.65
    },
    {
     "speaker": "Tom",
-    "text": "Yes please.",
-    "t": 304
-   },
-   {
-    "speaker": "Tom",
-    "text": "What does an apartment actually cost?",
-    "t": 305.93
+    "text": "Yes please. What does an apartment actually cost?",
+    "t": 288.15
    },
    {
     "speaker": "Anna",
-    "text": "In the third quarter of 2025, an existing apartment cost on average about 7,600 euros per square metre.",
-    "t": 309.15
+    "text": "In recent years, an existing apartment has cost on average well over seven thousand euros per square metre.",
+    "t": 291.34
    },
    {
     "speaker": "Tom",
-    "text": "And a brand-new apartment, still under construction, was higher... around 10,000 euros per square metre.",
-    "t": 317.37
+    "text": "And a brand-new apartment, still under construction, costs even more... often close to ten thousand euros per square metre.",
+    "t": 297.72
    },
    {
     "speaker": "Anna",
     "text": "These are averages, of course.",
-    "t": 324.08
+    "t": 305.2
    },
    {
     "speaker": "Anna",
     "text": "The price depends a lot on the commune, and on the quality of the home.",
-    "t": 327.05
+    "t": 307.09
    },
    {
     "speaker": "Tom",
     "text": "And the numbers move every quarter.",
-    "t": 331.62
+    "t": 311.31
    },
    {
     "speaker": "Tom",
     "text": "They go up, they go down.",
-    "t": 334.55
+    "t": 313.07
    },
    {
     "speaker": "Tom",
     "text": "That's exactly why the Observatoire keeps watching.",
-    "t": 337.17
+    "t": 314.82
    },
    {
     "speaker": "Anna",
-    "text": "For example, in that same period, the price of existing apartments had actually fallen a little compared with the quarter before.",
-    "t": 340.9
+    "text": "For example, prices fell after 2022... and since then, the market has been slowly stabilising.",
+    "t": 317.75
    },
    {
     "speaker": "Tom",
     "text": "So the market is not just one straight line going up.",
-    "t": 348.99
+    "t": 325.57
    },
    {
     "speaker": "Tom",
     "text": "It breathes... it changes.",
-    "t": 352.76
+    "t": 328.16
    },
    {
     "speaker": "Anna",
     "text": "And here is the part I love.",
-    "t": 355.4
+    "t": 330.53
    },
    {
     "speaker": "Anna",
     "text": "All of this data is public, and you can explore it yourself.",
-    "t": 358.04
+    "t": 332.33
    },
    {
     "speaker": "Tom",
-    "text": "The statistics, broken down by commune, are published on the national open-data platform, data dot public dot lu.",
-    "t": 362.37
+    "text": "The statistics, broken down by commune, are published on the national open-data platform, data dot public dot lu... and on the national Geoportal too.",
+    "t": 335.85
    },
    {
     "speaker": "Anna",
     "text": "So you can look up your own commune, and see how prices have moved there.",
-    "t": 369.59
+    "t": 345.28
    },
    {
     "speaker": "Tom",
-    "text": "There is even a price simulator on the Observatoire's website, to help you get an idea.",
-    "t": 374.23
+    "text": "There is even a price simulator on the Observatoire's website, and a rent simulator too, to help you get an idea.",
+    "t": 349.59
    },
    {
     "speaker": "Anna",
     "text": "Imagine you are thinking of buying or renting in a certain town.",
-    "t": 379.74
+    "t": 356.02
    },
    {
     "speaker": "Anna",
     "text": "You can check the typical prices before you start.",
-    "t": 383.94
+    "t": 359.52
    },
    {
     "speaker": "Tom",
     "text": "That's real power for ordinary people.",
-    "t": 387.6
+    "t": 362.86
    },
    {
     "speaker": "Tom",
     "text": "Information that used to be hard to find is now open to everyone.",
-    "t": 390.79
+    "t": 364.79
    },
    {
     "speaker": "Anna",
     "text": "The Observatoire also publishes reports and notes, written in plain language, on specific questions.",
-    "t": 395.21
+    "t": 368.77
    },
    {
     "speaker": "Tom",
     "text": "For example, there have been reports on how prices have changed over the very long term... going back to the 1970s.",
-    "t": 402.01
+    "t": 374.74
    },
    {
     "speaker": "Anna",
     "text": "And reports on the rental market, and even on the regulation of rents... the rules that protect tenants.",
-    "t": 409.29
+    "t": 381.8
    },
    {
     "speaker": "Tom",
     "text": "So if a topic is in the news, there's often a serious, neutral study you can read about it.",
-    "t": 415.98
+    "t": 388.76
    },
    {
     "speaker": "Anna",
     "text": "Let's come back to that word, affordability, because it matters so much here.",
-    "t": 421.91
+    "t": 393.89
    },
    {
     "speaker": "Tom",
     "text": "Affordability means... can people actually pay for their housing, without it taking over their whole budget?",
-    "t": 426.93
+    "t": 398.25
    },
    {
     "speaker": "Anna",
     "text": "The Observatoire looks at the \"effort rate\"... the share of your income that goes to housing.",
-    "t": 433.12
+    "t": 404.14
    },
    {
     "speaker": "Tom",
     "text": "And it compares Luxembourg with neighbouring countries, to put things in context.",
-    "t": 438.41
+    "t": 409.57
    },
    {
     "speaker": "Anna",
     "text": "This kind of analysis helps everyone see the real situation clearly, instead of just guessing or worrying.",
-    "t": 443.41
+    "t": 413.8
    },
    {
     "speaker": "Tom",
     "text": "And it helps the government design better policies, like support for tenants, or building more affordable homes.",
-    "t": 450.34
+    "t": 420.61
    },
    {
     "speaker": "Anna",
     "text": "Let's not forget the land side, because in a small country, land is precious.",
-    "t": 457.13
+    "t": 426.43
    },
    {
     "speaker": "Tom",
     "text": "The Observatoire studies how much building land exists, and how much of it is actually being used.",
-    "t": 462.46
+    "t": 431.23
    },
    {
     "speaker": "Anna",
     "text": "Sometimes land is available on paper, but it is not built on.",
-    "t": 468.55
+    "t": 436.96
    },
    {
     "speaker": "Anna",
     "text": "Understanding that helps plan for the future.",
-    "t": 473.1
+    "t": 441.02
    },
    {
     "speaker": "Tom",
     "text": "So in a way, the Observatoire is like a health check for the whole housing system.",
-    "t": 476.43
+    "t": 443.9
    },
    {
     "speaker": "Anna",
     "text": "That's a lovely way to put it.",
-    "t": 481.56
+    "t": 448.52
    },
    {
     "speaker": "Anna",
     "text": "It measures the temperature, it spots the trends, and it shares the diagnosis with everyone.",
-    "t": 484.15
+    "t": 450.33
    },
    {
     "speaker": "Tom",
     "text": "So Anna, let's make this practical.",
-    "t": 490.22
+    "t": 455.67
    },
    {
     "speaker": "Tom",
     "text": "How can a normal person actually use all this?",
-    "t": 493.39
+    "t": 457.97
    },
    {
     "speaker": "Anna",
     "text": "First, before you rent or buy, check the typical prices in the commune you are interested in.",
-    "t": 496.96
+    "t": 460.87
    },
    {
     "speaker": "Tom",
     "text": "Second, if you want to understand a debate in the news, look for an Observatoire report on that topic.",
-    "t": 503.05
+    "t": 466.59
    },
    {
     "speaker": "Anna",
     "text": "Third, remember that the numbers are official and neutral.",
-    "t": 509.31
+    "t": 472.66
    },
    {
     "speaker": "Anna",
     "text": "They are not trying to sell you anything.",
-    "t": 513.35
+    "t": 476.19
    },
    {
     "speaker": "Tom",
     "text": "And fourth... knowledge reduces stress.",
-    "t": 516.39
+    "t": 478.63
    },
    {
     "speaker": "Tom",
     "text": "Housing is emotional, but good information helps you make calmer decisions.",
-    "t": 519.64
+    "t": 481.26
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it all together.",
-    "t": 524.52
+    "t": 485.39
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about the Observatoire de l'Habitat?",
-    "t": 526.96
+    "t": 486.97
    },
    {
     "speaker": "Tom",
     "text": "First... it is Luxembourg's official housing observatory, created in 2003, within the Ministry of Housing.",
-    "t": 530.94
+    "t": 490.9
    },
    {
     "speaker": "Anna",
     "text": "Second... it watches sale prices, rents, land, and how affordable housing really is, with help from the research institute LISER.",
-    "t": 538.53
+    "t": 497.53
    },
    {
     "speaker": "Tom",
     "text": "Third... its data is reliable, because sale prices come from real, notarised transactions.",
-    "t": 547.19
+    "t": 507.05
    },
    {
     "speaker": "Anna",
     "text": "Fourth... the data is public.",
-    "t": 553.28
+    "t": 513.07
    },
    {
     "speaker": "Anna",
     "text": "You can explore prices by commune on data dot public dot lu, and read clear reports.",
-    "t": 556.21
+    "t": 515.77
    },
    {
     "speaker": "Tom",
     "text": "And fifth... you can use it in your own life, to make better, calmer housing decisions.",
-    "t": 562.23
+    "t": 521.58
    },
    {
     "speaker": "Anna",
     "text": "Housing can feel overwhelming.",
-    "t": 567.71
+    "t": 526.85
    },
    {
     "speaker": "Anna",
     "text": "But you are not powerless.",
-    "t": 570.38
+    "t": 528.67
    },
    {
     "speaker": "Anna",
     "text": "There is solid, honest information out there for you.",
-    "t": 572.79
+    "t": 530.73
    },
    {
     "speaker": "Tom",
     "text": "And knowing where to find it is half the battle.",
-    "t": 576.46
+    "t": 533.94
    },
    {
     "speaker": "Anna",
-    "text": "Thank you so much for listening today.",
-    "t": 579.74
-   },
-   {
-    "speaker": "Tom",
-    "text": "Take care, and see you in the next episode.",
-    "t": 582.69
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 586.16
+    "text": "That was our episode about the Observatoire de l'Habitat.",
+    "t": 536.6
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 587.84
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 540.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 550.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 568.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 575.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 577.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 582.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 583.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 585.4
    }
   ],
   "questions": [
@@ -53241,7 +53241,7 @@ const EPISODES = [
      "Because a law forbids publishing the price of a house, in order to protect the privacy of the families who sell"
     ],
     "correct": 0,
-    "explanation": "For apartments, good data on surface area allows a fair price per square metre to be calculated. That detailed information isn't available in the same way for houses, so rather than publish misleading figures, the Observatoire does not publish detailed house prices."
+    "explanation": "For apartments, good data on surface area allows a fair price per square metre to be calculated. That detailed information isn't available in the same way for houses, so rather than publish misleading figures, the Observatoire does not publish detailed house prices. For houses, STATEC publishes a general price index instead."
    },
    {
     "text": "Where can the public explore the Observatoire's housing data by commune?",
@@ -53313,7 +53313,7 @@ const EPISODES = [
      "Parce qu'une loi interdit de publier le prix d'une maison, pour protéger la vie privée des familles qui vendent"
     ],
     "correct": 0,
-    "explanation": "Pour les appartements, de bonnes données sur la surface permettent de calculer un prix au mètre carré juste. Cette information détaillée n'est pas disponible de la même façon pour les maisons ; plutôt que de publier des chiffres trompeurs, l'Observatoire ne diffuse pas de prix détaillés des maisons."
+    "explanation": "Pour les appartements, de bonnes données sur la surface permettent de calculer un prix au mètre carré juste. Cette information détaillée n'est pas disponible de la même façon pour les maisons ; plutôt que de publier des chiffres trompeurs, l'Observatoire ne diffuse pas de prix détaillés des maisons. Pour les maisons, le STATEC publie plutôt un indice général des prix."
    },
    {
     "text": "Où le public peut-il consulter les données de l'Observatoire par commune ?",
@@ -53382,7 +53382,7 @@ const EPISODES = [
      "Weil ein Gesetz verbietet, den Preis eines Hauses zu veröffentlichen, um die Privatsphäre der verkaufenden Familien zu schützen"
     ],
     "correct": 0,
-    "explanation": "Für Wohnungen ermöglichen gute Flächendaten die Berechnung eines fairen Preises pro Quadratmeter. Diese detaillierten Informationen liegen für Häuser nicht in gleicher Weise vor; statt irreführende Zahlen zu veröffentlichen, gibt das Observatoire keine detaillierten Hauspreise heraus."
+    "explanation": "Für Wohnungen ermöglichen gute Flächendaten die Berechnung eines fairen Preises pro Quadratmeter. Diese detaillierten Informationen liegen für Häuser nicht in gleicher Weise vor; statt irreführende Zahlen zu veröffentlichen, gibt das Observatoire keine detaillierten Hauspreise heraus. Für Häuser veröffentlicht der STATEC stattdessen einen allgemeinen Preisindex."
    },
    {
     "text": "Wo kann die Öffentlichkeit die Wohnungsdaten des Observatoire nach Gemeinde einsehen?",
@@ -53397,1811 +53397,1815 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_habitat_fr.mp3",
-  "duration_fr": 622.2,
+  "duration_fr": 568.61,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "C'est un plaisir de vous avoir avec nous aujourd'hui.",
-    "t": 3.09
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.71
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 9.28
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme qui parle du vivre-ensemble au Luxembourg.",
-    "t": 12.75
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, ainsi que les travailleurs frontaliers, à mieux comprendre le pays.",
-    "t": 16.72
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui est un thème dont presque tout le monde parle au Luxembourg... le logement.",
-    "t": 23.96
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "Où habiter, combien ça coûte, faut-il louer ou acheter... ce sont de grandes questions, et de grands chiffres.",
-    "t": 29.11
+    "t": 28.14
    },
    {
     "speaker": "Tom",
     "text": "Mais voici une chose que beaucoup de gens ignorent.",
-    "t": 36
+    "t": 33.64
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg dispose d'un organisme officiel dont le rôle est d'étudier tout cela... avec soin, et avec de vraies données.",
-    "t": 39.33
+    "t": 36.14
    },
    {
     "speaker": "Anna",
     "text": "Il s'appelle l'Observatoire de l'Habitat.",
-    "t": 46.3
+    "t": 43.46
    },
    {
     "speaker": "Tom",
     "text": "J'aime bien ce mot, « observatoire ».",
-    "t": 49.36
+    "t": 45.64
    },
    {
     "speaker": "Tom",
     "text": "On dirait un endroit d'où l'on observe les étoiles.",
-    "t": 52.49
+    "t": 48.08
    },
    {
     "speaker": "Anna",
     "text": "C'est une jolie image !",
-    "t": 55.82
+    "t": 51.02
    },
    {
     "speaker": "Anna",
     "text": "Mais au lieu d'observer les étoiles, cet observatoire observe le marché du logement.",
-    "t": 58.13
+    "t": 52.45
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qu'est-ce que l'Observatoire de l'Habitat, exactement ?",
-    "t": 63.75
+    "t": 56.48
    },
    {
     "speaker": "Anna",
     "text": "Il a été créé en 2003, au sein du ministère responsable du logement... aujourd'hui le Ministère du Logement et de l'Aménagement du territoire.",
-    "t": 68.15
+    "t": 60.1
    },
    {
     "speaker": "Tom",
     "text": "Et sa mission est de produire des informations fiables sur le logement au Luxembourg.",
-    "t": 76.9
+    "t": 67.04
    },
    {
     "speaker": "Anna",
     "text": "Des informations qui aident le gouvernement à planifier sa politique du logement, et qui informent aussi le public... des gens comme vous et moi.",
-    "t": 81.81
+    "t": 71.43
    },
    {
     "speaker": "Tom",
     "text": "Il a donc vraiment deux rôles.",
-    "t": 89.94
+    "t": 78.57
    },
    {
     "speaker": "Tom",
     "text": "D'abord, soutenir les décideurs, et ensuite, informer les citoyens.",
-    "t": 92.38
+    "t": 80.33
    },
    {
     "speaker": "Anna",
-    "text": "Exactement.",
-    "t": 97.53
-   },
-   {
-    "speaker": "Anna",
-    "text": "Sa mission est de collecter les informations, de les analyser, puis de les partager ouvertement.",
-    "t": 99.35
+    "text": "Exactement. Sa mission est de collecter les informations, de les analyser, puis de les partager ouvertement.",
+    "t": 84.55
    },
    {
     "speaker": "Tom",
     "text": "Collecter, analyser, partager.",
-    "t": 105.54
+    "t": 89.98
    },
    {
     "speaker": "Tom",
     "text": "C'est une bonne façon de le retenir.",
-    "t": 108.87
+    "t": 92.01
    },
    {
     "speaker": "Anna",
     "text": "Et il ne travaille pas tout à fait seul.",
-    "t": 111.74
+    "t": 94.12
    },
    {
     "speaker": "Anna",
     "text": "Il a un partenaire clé... un institut de recherche appelé LISER.",
-    "t": 114.6
+    "t": 96.09
    },
    {
     "speaker": "Tom",
     "text": "LISER, c'est le Luxembourg Institute of Socio-Economic Research.",
-    "t": 119.08
+    "t": 99.98
    },
    {
     "speaker": "Tom",
     "text": "C'est un centre de recherche public.",
-    "t": 123.86
+    "t": 104.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et pour les statistiques des prix de vente, l'Observatoire travaille aussi main dans la main avec le STATEC, l'institut national de la statistique.",
+    "t": 106.01
    },
    {
     "speaker": "Anna",
     "text": "Ils apportent une rigueur scientifique... des méthodes rigoureuses, une analyse soignée.",
-    "t": 126.81
+    "t": 113.64
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, les chiffres que vous obtenez sont solides, et non des estimations au hasard.",
-    "t": 132.45
+    "t": 118.29
    },
    {
     "speaker": "Tom",
-    "text": "Bien.",
-    "t": 138.11
-   },
-   {
-    "speaker": "Tom",
-    "text": "Alors, qu'est-ce que l'Observatoire observe concrètement ?",
-    "t": 139.6
+    "text": "Bien. Alors, qu'est-ce que l'Observatoire observe concrètement ?",
+    "t": 122.42
    },
    {
     "speaker": "Tom",
     "text": "Que mesure-t-il ?",
-    "t": 143.37
+    "t": 125.97
    },
    {
     "speaker": "Anna",
-    "text": "Plusieurs choses.",
-    "t": 145.32
-   },
-   {
-    "speaker": "Anna",
-    "text": "D'abord, les prix de vente des logements... combien il en coûte pour acheter.",
-    "t": 147.3
+    "text": "Plusieurs choses. D'abord, les prix de vente des logements... combien il en coûte pour acheter.",
+    "t": 127.3
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, les loyers... combien il en coûte pour louer un logement.",
-    "t": 152.29
+    "t": 131.99
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement, le prix du terrain... les terrains à bâtir, où de nouveaux logements peuvent être construits.",
-    "t": 156.62
+    "t": 135.83
    },
    {
     "speaker": "Tom",
     "text": "Et il va plus loin que les simples prix, n'est-ce pas ?",
-    "t": 163.04
+    "t": 140.96
    },
    {
     "speaker": "Anna",
-    "text": "Oui.",
-    "t": 166.55
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il étudie aussi quelle quantité de terrains à bâtir est réellement disponible, et à qui ils appartiennent.",
-    "t": 168.04
+    "text": "Oui. Il étudie aussi quelle quantité de terrains à bâtir est réellement disponible, et à qui ils appartiennent.",
+    "t": 143.7
    },
    {
     "speaker": "Tom",
     "text": "C'est ce qu'on appelle l'observation foncière.",
-    "t": 174.3
+    "t": 148.58
    },
    {
     "speaker": "Tom",
     "text": "Ils réalisent même une sorte de recensement des terrains à bâtir.",
-    "t": 177.54
+    "t": 150.96
    },
    {
     "speaker": "Anna",
     "text": "Il suit également le nombre de nouveaux logements produits, année après année.",
-    "t": 181.54
+    "t": 154.82
    },
    {
     "speaker": "Tom",
     "text": "Et il y a aussi un aspect plus humain... le volet social et économique.",
-    "t": 186.29
+    "t": 158.66
    },
    {
     "speaker": "Anna",
     "text": "Tout à fait.",
-    "t": 190.66
+    "t": 163.19
    },
    {
     "speaker": "Anna",
     "text": "L'Observatoire étudie l'accessibilité financière du logement... si les gens peuvent réellement se permettre de vivre là où ils en ont besoin.",
-    "t": 192.41
+    "t": 164.04
    },
    {
     "speaker": "Tom",
     "text": "Et il examine comment les politiques publiques influencent le coût du logement.",
-    "t": 200.3
+    "t": 170.74
    },
    {
     "speaker": "Tom",
     "text": "Ce ne sont donc pas seulement des chiffres, c'est la vie réelle.",
-    "t": 204.63
+    "t": 174.86
    },
    {
     "speaker": "Anna",
     "text": "Parlons de l'origine de ces chiffres, car c'est important pour la confiance.",
-    "t": 208.6
+    "t": 178.27
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 213.42
-   },
-   {
-    "speaker": "Tom",
-    "text": "Si vous donnez des chiffres aux gens, ils veulent savoir que ces chiffres sont réels.",
-    "t": 214.88
+    "text": "Oui. Si vous donnez des chiffres aux gens, ils veulent savoir que ces chiffres sont réels.",
+    "t": 181.9
    },
    {
     "speaker": "Anna",
     "text": "Alors, pour les prix de vente, les données proviennent des actes notariés.",
-    "t": 219.57
+    "t": 186.7
    },
    {
     "speaker": "Anna",
     "text": "Chaque fois qu'un bien est vendu, un notaire l'enregistre officiellement.",
-    "t": 224.72
+    "t": 189.98
    },
    {
     "speaker": "Tom",
     "text": "Ces actes officiels sont transmis chaque mois à l'Observatoire, par l'Administration de l'Enregistrement et des Domaines.",
-    "t": 229.36
+    "t": 193.26
    },
    {
     "speaker": "Anna",
     "text": "Et ils sont complétés par des informations issues du Cadastre, par exemple la surface de chaque appartement.",
-    "t": 236.05
+    "t": 199.84
    },
    {
     "speaker": "Tom",
     "text": "Ce ne sont donc pas des annonces ou des estimations.",
-    "t": 242.51
+    "t": 205.1
    },
    {
     "speaker": "Tom",
     "text": "Ce sont de vraies ventes réalisées.",
-    "t": 245.86
+    "t": 208.06
    },
    {
     "speaker": "Tom",
     "text": "C'est à peu près ce qu'on peut avoir de plus fiable.",
-    "t": 248.57
+    "t": 209.94
    },
    {
     "speaker": "Anna",
     "text": "Pour les loyers, c'est un peu différent.",
-    "t": 251.88
+    "t": 212.71
    },
    {
     "speaker": "Anna",
-    "text": "Les données sur les loyers proviennent surtout des annonces immobilières... des logements proposés à la location.",
-    "t": 255.01
+    "text": "Les données sur les loyers proviennent surtout des annonces immobilières... des logements proposés à la location, relevés avec un grand portail immobilier.",
+    "t": 214.67
    },
    {
     "speaker": "Tom",
     "text": "Les loyers reflètent donc ce qui est demandé sur le marché, tandis que les prix de vente reflètent des transactions qui ont réellement eu lieu.",
-    "t": 261.4
+    "t": 222.36
    },
    {
     "speaker": "Anna",
     "text": "Il y a toutefois une limite intéressante.",
-    "t": 268.49
+    "t": 229.88
    },
    {
     "speaker": "Anna",
-    "text": "L'Observatoire publie des prix détaillés pour les appartements, mais pas pour les maisons.",
-    "t": 271.57
+    "text": "L'Observatoire publie des prix détaillés au mètre carré, commune par commune, pour les appartements... mais pas pour les maisons.",
+    "t": 231.83
    },
    {
     "speaker": "Tom",
     "text": "Pourquoi cela, Anna ?",
-    "t": 276.92
+    "t": 238.52
    },
    {
     "speaker": "Anna",
     "text": "Parce que pour les appartements, on dispose de bonnes données sur la surface, ce qui permet de calculer un prix au mètre carré juste.",
-    "t": 279.34
+    "t": 240.08
    },
    {
     "speaker": "Tom",
     "text": "Mais pour les maisons individuelles, cette information détaillée sur la surface n'est pas disponible de la même manière.",
-    "t": 287.23
+    "t": 246.57
    },
    {
     "speaker": "Anna",
     "text": "Alors, plutôt que de publier des chiffres qui pourraient induire les gens en erreur, ils choisissent de ne pas publier de prix détaillés pour les maisons.",
-    "t": 293.71
+    "t": 252.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pour les maisons, le STATEC publie plutôt un indice général des prix.",
+    "t": 258.89
    },
    {
     "speaker": "Anna",
     "text": "C'est honnête.",
-    "t": 302.11
+    "t": 262.23
    },
    {
     "speaker": "Tom",
     "text": "Je respecte cela.",
-    "t": 304.06
+    "t": 263.38
    },
    {
     "speaker": "Tom",
     "text": "Mieux vaut dire « nous n'avons pas de données fiables » que de les inventer.",
-    "t": 306.19
+    "t": 264.82
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, donnons quelques chiffres concrets, pour que cela devienne plus parlant.",
-    "t": 310.52
+    "t": 268.66
    },
    {
     "speaker": "Tom",
     "text": "Oui, s'il vous plaît.",
-    "t": 315.74
+    "t": 272.49
    },
    {
     "speaker": "Tom",
     "text": "Combien coûte réellement un appartement ?",
-    "t": 318.09
+    "t": 273.72
    },
    {
     "speaker": "Anna",
-    "text": "Au 3e trimestre 2025, un appartement existant coûtait en moyenne environ 7 600 euros le mètre carré.",
-    "t": 320.84
+    "text": "Ces dernières années, un appartement existant a coûté en moyenne bien plus de sept mille euros le mètre carré.",
+    "t": 275.91
    },
    {
     "speaker": "Tom",
-    "text": "Et un appartement tout neuf, encore en construction, coûtait plus cher... autour de 10 000 euros le mètre carré.",
-    "t": 328.73
+    "text": "Et un appartement tout neuf, encore en construction, coûte encore plus cher... souvent près de dix mille euros le mètre carré.",
+    "t": 281.07
    },
    {
     "speaker": "Anna",
     "text": "Ce sont des moyennes, bien sûr.",
-    "t": 335.44
+    "t": 287.78
    },
    {
     "speaker": "Anna",
     "text": "Le prix dépend beaucoup de la commune, et de la qualité du logement.",
-    "t": 338.43
+    "t": 289.87
    },
    {
     "speaker": "Tom",
     "text": "Et les chiffres évoluent à chaque trimestre.",
-    "t": 342.92
+    "t": 293.16
    },
    {
     "speaker": "Tom",
     "text": "Ils montent, ils descendent.",
-    "t": 345.82
+    "t": 295.62
    },
    {
     "speaker": "Tom",
     "text": "C'est exactement pour cela que l'Observatoire continue de surveiller.",
-    "t": 348.38
+    "t": 297.53
    },
    {
     "speaker": "Anna",
-    "text": "Par exemple, sur cette même période, le prix des appartements existants avait en fait légèrement baissé par rapport au trimestre précédent.",
-    "t": 352.59
+    "text": "Par exemple, les prix ont baissé après 2022... et depuis, le marché se stabilise peu à peu.",
+    "t": 301.34
    },
    {
     "speaker": "Tom",
     "text": "Le marché n'est donc pas une simple ligne droite qui monte.",
-    "t": 360.72
+    "t": 306.2
    },
    {
     "speaker": "Tom",
     "text": "Il respire... il change.",
-    "t": 364.43
+    "t": 309.27
    },
    {
     "speaker": "Anna",
     "text": "Et voici la partie que j'adore.",
-    "t": 366.96
+    "t": 311.52
    },
    {
     "speaker": "Anna",
     "text": "Toutes ces données sont publiques, et vous pouvez les explorer vous-même.",
-    "t": 369.62
+    "t": 313.13
    },
    {
     "speaker": "Tom",
-    "text": "Les statistiques, détaillées par commune, sont publiées sur la plateforme nationale de données ouvertes, data point public point lu.",
-    "t": 374.02
+    "text": "Les statistiques, détaillées par commune, sont publiées sur la plateforme nationale de données ouvertes, data point public point lu... et aussi sur le Géoportail national.",
+    "t": 316.44
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez donc consulter votre propre commune, et voir comment les prix y ont évolué.",
-    "t": 381.66
+    "t": 326.54
    },
    {
     "speaker": "Tom",
-    "text": "Il y a même un simulateur de prix sur le site de l'Observatoire, pour vous aider à vous faire une idée.",
-    "t": 387.3
+    "text": "Il y a même un simulateur de prix sur le site de l'Observatoire, et aussi un simulateur de loyers, pour vous aider à vous faire une idée.",
+    "t": 331.04
    },
    {
     "speaker": "Anna",
     "text": "Imaginez que vous envisagez d'acheter ou de louer dans une certaine ville.",
-    "t": 393.01
+    "t": 338.21
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez vérifier les prix habituels avant de vous lancer.",
-    "t": 397.67
+    "t": 341.81
    },
    {
     "speaker": "Tom",
     "text": "C'est un vrai pouvoir pour les gens ordinaires.",
-    "t": 401.6
+    "t": 344.72
    },
    {
     "speaker": "Tom",
     "text": "Des informations qui étaient autrefois difficiles à trouver sont aujourd'hui accessibles à tous.",
-    "t": 404.78
+    "t": 346.94
    },
    {
     "speaker": "Anna",
     "text": "L'Observatoire publie aussi des rapports et des notes, rédigés dans un langage clair, sur des questions précises.",
-    "t": 410.11
+    "t": 352.39
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, il y a eu des rapports sur l'évolution des prix sur très longue période... en remontant jusqu'aux années 1970.",
-    "t": 417.24
+    "t": 357.94
    },
    {
     "speaker": "Anna",
     "text": "Et des rapports sur le marché locatif, et même sur la régulation des loyers... les règles qui protègent les locataires.",
-    "t": 424.54
+    "t": 365.4
    },
    {
     "speaker": "Tom",
     "text": "Donc si un sujet est dans l'actualité, il existe souvent une étude sérieuse et neutre que vous pouvez lire à ce propos.",
-    "t": 431.72
+    "t": 371.38
    },
    {
     "speaker": "Anna",
     "text": "Revenons à ce mot, l'accessibilité financière, car il compte tellement ici.",
-    "t": 438.27
+    "t": 378.14
    },
    {
     "speaker": "Tom",
     "text": "L'accessibilité financière, cela veut dire... les gens peuvent-ils réellement payer leur logement, sans que cela accapare tout leur budget ?",
-    "t": 443.84
+    "t": 382.28
    },
    {
     "speaker": "Anna",
     "text": "L'Observatoire examine le « taux d'effort »... la part de vos revenus qui passe dans le logement.",
-    "t": 451.51
+    "t": 389.95
    },
    {
     "speaker": "Tom",
     "text": "Et il compare le Luxembourg avec les pays voisins, pour replacer les choses dans leur contexte.",
-    "t": 457.46
+    "t": 394.95
    },
    {
     "speaker": "Anna",
     "text": "Ce type d'analyse aide tout le monde à voir clairement la situation réelle, au lieu de simplement supposer ou de s'inquiéter.",
-    "t": 462.96
+    "t": 399.95
    },
    {
     "speaker": "Tom",
     "text": "Et cela aide le gouvernement à concevoir de meilleures politiques, comme des aides pour les locataires, ou la construction de logements plus abordables.",
-    "t": 470.14
+    "t": 405.49
    },
    {
     "speaker": "Anna",
     "text": "N'oublions pas le volet foncier, car dans un petit pays, le terrain est précieux.",
-    "t": 477.87
+    "t": 412.96
    },
    {
     "speaker": "Tom",
     "text": "L'Observatoire étudie quelle quantité de terrains à bâtir existe, et quelle part en est réellement utilisée.",
-    "t": 483.22
+    "t": 416.8
    },
    {
     "speaker": "Anna",
     "text": "Parfois, un terrain est disponible sur le papier, mais il n'est pas construit.",
-    "t": 489.17
+    "t": 423.29
    },
    {
     "speaker": "Anna",
     "text": "Le comprendre aide à préparer l'avenir.",
-    "t": 494.46
+    "t": 426.79
    },
    {
     "speaker": "Tom",
     "text": "D'une certaine manière, l'Observatoire est donc comme un bilan de santé pour tout le système du logement.",
-    "t": 497.48
+    "t": 428.95
    },
    {
     "speaker": "Anna",
     "text": "C'est une très belle façon de le dire.",
-    "t": 503.45
+    "t": 434.62
    },
    {
     "speaker": "Anna",
     "text": "Il prend la température, il repère les tendances, et il partage le diagnostic avec tout le monde.",
-    "t": 506.31
+    "t": 436.54
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, rendons cela pratique.",
-    "t": 512.95
+    "t": 441.38
    },
    {
     "speaker": "Tom",
     "text": "Comment une personne ordinaire peut-elle réellement utiliser tout cela ?",
-    "t": 516.11
+    "t": 443.7
    },
    {
     "speaker": "Anna",
     "text": "D'abord, avant de louer ou d'acheter, vérifiez les prix habituels dans la commune qui vous intéresse.",
-    "t": 520.12
+    "t": 447.5
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement, si vous voulez comprendre un débat dans l'actualité, cherchez un rapport de l'Observatoire sur ce sujet.",
-    "t": 526.48
+    "t": 452.48
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement, rappelez-vous que les chiffres sont officiels et neutres.",
-    "t": 533.16
+    "t": 458.72
    },
    {
     "speaker": "Anna",
     "text": "Ils ne cherchent pas à vous vendre quoi que ce soit.",
-    "t": 537.6
+    "t": 462.12
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... le savoir réduit le stress.",
-    "t": 540.8
+    "t": 464.47
    },
    {
     "speaker": "Tom",
     "text": "Le logement est une question émotionnelle, mais une bonne information vous aide à prendre des décisions plus sereines.",
-    "t": 544.31
+    "t": 467.59
    },
    {
     "speaker": "Anna",
     "text": "Récapitulons tout cela.",
-    "t": 550.57
+    "t": 473.78
    },
    {
     "speaker": "Anna",
     "text": "Que faut-il retenir de l'Observatoire de l'Habitat ?",
-    "t": 553.08
+    "t": 475.27
    },
    {
     "speaker": "Tom",
     "text": "D'abord... c'est l'observatoire officiel du logement au Luxembourg, créé en 2003, au sein du Ministère du Logement.",
-    "t": 556.65
+    "t": 477.81
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... il surveille les prix de vente, les loyers, le foncier, et le caractère réellement abordable du logement, avec l'aide de l'institut de recherche LISER.",
-    "t": 564
+    "t": 484.79
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... ses données sont fiables, car les prix de vente proviennent de transactions réelles, passées devant notaire.",
-    "t": 574.13
+    "t": 493.15
    },
    {
     "speaker": "Anna",
     "text": "Quatrièmement... les données sont publiques.",
-    "t": 580.84
+    "t": 499.76
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez explorer les prix par commune sur data point public point lu, et lire des rapports clairs.",
-    "t": 584.12
+    "t": 502
    },
    {
     "speaker": "Tom",
     "text": "Et cinquièmement... vous pouvez l'utiliser dans votre propre vie, pour prendre de meilleures décisions, plus sereines, en matière de logement.",
-    "t": 590.28
+    "t": 507.66
    },
    {
     "speaker": "Anna",
     "text": "Le logement peut sembler accablant.",
-    "t": 597.85
+    "t": 515.1
    },
    {
     "speaker": "Anna",
     "text": "Mais vous n'êtes pas démuni.",
-    "t": 600.65
+    "t": 516.87
    },
    {
     "speaker": "Anna",
     "text": "Il existe une information solide et honnête, à votre disposition.",
-    "t": 603.06
+    "t": 518.35
    },
    {
     "speaker": "Tom",
     "text": "Et savoir où la trouver, c'est déjà la moitié du chemin.",
-    "t": 607.79
+    "t": 522.06
    },
    {
     "speaker": "Anna",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 611.59
-   },
-   {
-    "speaker": "Tom",
-    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
-    "t": 615.05
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 619.07
+    "text": "C'était notre épisode sur l'Observatoire de l'Habitat.",
+    "t": 524.97
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 620.6
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 527.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 535.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 552.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 556.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 558.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 563.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 564.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 566.83
    }
   ],
   "audio_de": "podcast_habitat_de.mp3",
-  "duration_de": 709.2,
+  "duration_de": 661.71,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Es ist uns eine Freude, dass Sie heute bei uns sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 7.29
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 9.35
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 12.75
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, das Land ein wenig besser zu verstehen.",
-    "t": 17.12
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema ist eines, über das fast jeder in Luxemburg spricht... das Wohnen.",
-    "t": 25.81
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Wo man wohnen soll, wie viel es kostet, ob man mieten oder kaufen soll... das sind große Fragen, und große Zahlen.",
-    "t": 31.85
+    "t": 32.85
    },
    {
     "speaker": "Tom",
     "text": "Aber hier ist etwas, das viele Menschen nicht wissen.",
-    "t": 40.11
+    "t": 40.36
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg hat eine offizielle Stelle, deren Aufgabe es ist, all das zu untersuchen... sorgfältig und mit echten Daten.",
-    "t": 44.04
+    "t": 43.23
    },
    {
     "speaker": "Anna",
     "text": "Sie heißt Observatoire de l'Habitat (Wohnungsobservatorium).",
-    "t": 52.06
+    "t": 50.64
    },
    {
     "speaker": "Anna",
     "text": "Auf Deutsch könnte man sagen: das Wohnungsobservatorium.",
-    "t": 57.1
+    "t": 54.86
    },
    {
     "speaker": "Tom",
     "text": "Ich mag dieses Wort, „Observatorium\".",
-    "t": 61.58
+    "t": 58.68
    },
    {
     "speaker": "Tom",
     "text": "Es klingt wie ein Ort, an dem Menschen die Sterne beobachten.",
-    "t": 64.98
+    "t": 61.42
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein schönes Bild!",
-    "t": 69.24
+    "t": 64.85
    },
    {
     "speaker": "Anna",
     "text": "Aber statt die Sterne zu beobachten, beobachtet dieses Observatorium den Wohnungsmarkt.",
-    "t": 71.84
+    "t": 66.49
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was genau ist das Observatoire de l'Habitat?",
-    "t": 78.48
+    "t": 71.77
    },
    {
     "speaker": "Anna",
     "text": "Es wurde 2003 gegründet, innerhalb des für Wohnen zuständigen Ministeriums... heute ist das das Ministerium für Wohnungsbau und Raumordnung.",
-    "t": 83.03
+    "t": 74.89
    },
    {
     "speaker": "Tom",
     "text": "Und sein Zweck ist es, verlässliche Informationen über das Wohnen in Luxemburg zu erstellen.",
-    "t": 93.43
+    "t": 84.13
    },
    {
     "speaker": "Anna",
     "text": "Informationen, die der Regierung helfen, ihre Wohnungspolitik zu planen, und die auch die Öffentlichkeit informieren... Menschen wie Sie und mich.",
-    "t": 99.58
+    "t": 89.73
    },
    {
     "speaker": "Tom",
     "text": "Es hat also eigentlich zwei Aufgaben.",
-    "t": 110.02
+    "t": 99.03
    },
    {
     "speaker": "Tom",
     "text": "Erstens, die Entscheidungsträger zu unterstützen, und zweitens, die Bürgerinnen und Bürger zu informieren.",
-    "t": 113.28
+    "t": 101.22
    },
    {
     "speaker": "Anna",
-    "text": "Genau.",
-    "t": 120.39
-   },
-   {
-    "speaker": "Anna",
-    "text": "Seine Aufgabe ist es, Informationen zu sammeln, sie zu analysieren und sie dann offen zu teilen.",
-    "t": 121.99
+    "text": "Genau. Seine Aufgabe ist es, Informationen zu sammeln, sie zu analysieren und sie dann offen zu teilen.",
+    "t": 107.72
    },
    {
     "speaker": "Tom",
     "text": "Sammeln, analysieren, teilen.",
-    "t": 129.09
+    "t": 114.37
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine gute Art, es sich zu merken.",
-    "t": 132.29
+    "t": 116.89
    },
    {
     "speaker": "Anna",
     "text": "Und es arbeitet nicht völlig allein.",
-    "t": 135.69
+    "t": 119.32
    },
    {
     "speaker": "Anna",
     "text": "Es hat einen wichtigen Partner... ein Forschungsinstitut namens LISER.",
-    "t": 138.77
+    "t": 121.42
    },
    {
     "speaker": "Tom",
     "text": "LISER ist das Luxembourg Institute of Socio-Economic Research.",
-    "t": 144.06
+    "t": 126.01
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein öffentliches Forschungszentrum.",
-    "t": 148.65
+    "t": 130.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und bei den Statistiken zu den Verkaufspreisen arbeitet das Observatoire außerdem eng mit dem STATEC zusammen, dem nationalen Statistikinstitut.",
+    "t": 132.9
    },
    {
     "speaker": "Anna",
     "text": "Sie bringen wissenschaftliche Genauigkeit ein... saubere Methoden, sorgfältige Analyse.",
-    "t": 151.81
+    "t": 142.05
    },
    {
     "speaker": "Anna",
     "text": "So sind die Zahlen, die man bekommt, fundiert und nicht geraten.",
-    "t": 158.31
+    "t": 148.3
    },
    {
     "speaker": "Tom",
-    "text": "Gut.",
-    "t": 163.46
-   },
-   {
-    "speaker": "Tom",
-    "text": "Was beobachtet das Observatoire also tatsächlich?",
-    "t": 164.95
+    "text": "Gut. Was beobachtet das Observatoire also tatsächlich?",
+    "t": 152.31
    },
    {
     "speaker": "Tom",
     "text": "Was misst es?",
-    "t": 169.17
+    "t": 155.96
    },
    {
     "speaker": "Anna",
-    "text": "Mehrere Dinge.",
-    "t": 171.12
-   },
-   {
-    "speaker": "Anna",
-    "text": "Erstens die Verkaufspreise von Wohnungen... wie viel das Kaufen kostet.",
-    "t": 173.12
+    "text": "Mehrere Dinge. Erstens die Verkaufspreise von Wohnungen... wie viel das Kaufen kostet.",
+    "t": 157.1
    },
    {
     "speaker": "Tom",
     "text": "Zweitens die Mieten... wie viel es kostet, eine Wohnung zu mieten.",
-    "t": 178.62
+    "t": 163.63
    },
    {
     "speaker": "Anna",
     "text": "Drittens den Preis für Grundstücke... Bauland, auf dem neue Wohnungen entstehen können.",
-    "t": 183.38
+    "t": 167.65
    },
    {
     "speaker": "Tom",
     "text": "Und es geht weiter als nur um die Preise, nicht wahr?",
-    "t": 190.17
+    "t": 172.93
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 194.26
-   },
-   {
-    "speaker": "Anna",
-    "text": "Es untersucht auch, wie viel Bauland tatsächlich verfügbar ist und wem es gehört.",
-    "t": 195.59
+    "text": "Ja. Es untersucht auch, wie viel Bauland tatsächlich verfügbar ist und wem es gehört.",
+    "t": 175.69
    },
    {
     "speaker": "Tom",
     "text": "Das nennt man Bodenbeobachtung, oder auf Französisch die „observation foncière\".",
-    "t": 201.61
+    "t": 180.29
    },
    {
     "speaker": "Tom",
     "text": "Sie führen sogar eine Art Zählung des Baulands durch.",
-    "t": 207.2
+    "t": 185.34
    },
    {
     "speaker": "Anna",
     "text": "Es verfolgt auch, wie viele neue Wohnungen Jahr für Jahr entstehen.",
-    "t": 210.95
+    "t": 188.35
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt auch eine menschlichere Seite... die soziale und wirtschaftliche Seite.",
-    "t": 215.95
+    "t": 192.09
    },
    {
     "speaker": "Anna",
-    "text": "Richtig.",
-    "t": 221.39
-   },
-   {
-    "speaker": "Anna",
-    "text": "Das Observatoire untersucht die Bezahlbarkeit von Wohnraum... ob die Menschen es sich tatsächlich leisten können, dort zu wohnen, wo sie es brauchen.",
-    "t": 223.01
+    "text": "Richtig. Das Observatoire untersucht die Bezahlbarkeit von Wohnraum... ob die Menschen es sich tatsächlich leisten können, dort zu wohnen, wo sie es brauchen.",
+    "t": 196.97
    },
    {
     "speaker": "Tom",
     "text": "Und es schaut sich an, wie sich die öffentliche Politik auf die Wohnkosten auswirkt.",
-    "t": 232.92
+    "t": 205.97
    },
    {
     "speaker": "Tom",
     "text": "Es geht also nicht nur um Zahlen, sondern um das echte Leben.",
-    "t": 238.2
+    "t": 210.27
    },
    {
     "speaker": "Anna",
     "text": "Reden wir darüber, woher diese Zahlen kommen, denn das ist wichtig für das Vertrauen.",
-    "t": 242.51
+    "t": 214.05
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 248.68
-   },
-   {
-    "speaker": "Tom",
-    "text": "Wenn man den Menschen Zahlen gibt, möchten sie wissen, dass die Zahlen echt sind.",
-    "t": 250.17
+    "text": "Ja. Wenn man den Menschen Zahlen gibt, möchten sie wissen, dass die Zahlen echt sind.",
+    "t": 218.94
    },
    {
     "speaker": "Anna",
     "text": "Also, bei den Verkaufspreisen stammen die Daten aus notariellen Urkunden.",
-    "t": 255.3
+    "t": 224.14
    },
    {
     "speaker": "Anna",
     "text": "Jedes Mal, wenn eine Immobilie verkauft wird, hält ein Notar das offiziell fest.",
-    "t": 261.01
+    "t": 229.01
    },
    {
     "speaker": "Tom",
     "text": "Diese offiziellen Aufzeichnungen werden jeden Monat von der Einregistrierungs- und Domänenverwaltung an das Observatoire weitergegeben.",
-    "t": 267.29
+    "t": 234.02
    },
    {
     "speaker": "Anna",
     "text": "Und sie werden mit Informationen aus dem Grundbuch und dem Cadastre ergänzt, zum Beispiel mit der Wohnfläche jeder Wohnung.",
-    "t": 275.73
+    "t": 242.3
    },
    {
     "speaker": "Tom",
     "text": "Das sind also keine Anzeigen oder Schätzungen.",
-    "t": 283.71
+    "t": 249.1
    },
    {
     "speaker": "Tom",
     "text": "Es sind echte, abgeschlossene Verkäufe.",
-    "t": 287.32
+    "t": 251.93
    },
    {
     "speaker": "Tom",
     "text": "Verlässlicher geht es kaum.",
-    "t": 290.56
+    "t": 254.56
    },
    {
     "speaker": "Anna",
     "text": "Bei den Mieten ist es ein bisschen anders.",
-    "t": 293.09
+    "t": 256.39
    },
    {
     "speaker": "Anna",
-    "text": "Die Mietdaten stammen größtenteils aus Immobilienanzeigen... Wohnungen, die zur Vermietung angeboten werden.",
-    "t": 296.34
+    "text": "Die Mietdaten stammen größtenteils aus Immobilienanzeigen... Wohnungen, die zur Vermietung angeboten werden, gesammelt zusammen mit einem großen Immobilienportal.",
+    "t": 258.61
    },
    {
     "speaker": "Tom",
     "text": "Die Mieten spiegeln also wider, was auf dem Markt verlangt wird, während die Verkaufspreise tatsächlich abgeschlossene Geschäfte widerspiegeln.",
-    "t": 304.91
+    "t": 268.46
    },
    {
     "speaker": "Anna",
     "text": "Es gibt allerdings eine interessante Einschränkung.",
-    "t": 313.22
+    "t": 276.37
    },
    {
     "speaker": "Anna",
-    "text": "Das Observatoire veröffentlicht detaillierte Preise für Wohnungen, aber nicht für Häuser.",
-    "t": 317.19
+    "text": "Das Observatoire veröffentlicht detaillierte Quadratmeterpreise, Gemeinde für Gemeinde, für Wohnungen... aber nicht für Häuser.",
+    "t": 279.05
    },
    {
     "speaker": "Tom",
     "text": "Warum ist das so, Anna?",
-    "t": 323.54
+    "t": 287.03
    },
    {
     "speaker": "Anna",
     "text": "Weil es für Wohnungen gute Daten zur Wohnfläche gibt, sodass man einen fairen Preis pro Quadratmeter berechnen kann.",
-    "t": 326.32
+    "t": 288.64
    },
    {
     "speaker": "Tom",
     "text": "Aber für einzelne Häuser sind diese detaillierten Flächenangaben nicht auf die gleiche Weise verfügbar.",
-    "t": 334.2
+    "t": 295.03
    },
    {
     "speaker": "Anna",
     "text": "Anstatt also Zahlen zu veröffentlichen, die die Menschen in die Irre führen könnten, entscheiden sie sich dafür, keine detaillierten Hauspreise zu veröffentlichen.",
-    "t": 340.49
+    "t": 300.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Für Häuser veröffentlicht der STATEC stattdessen einen allgemeinen Preisindex.",
+    "t": 309.25
    },
    {
     "speaker": "Anna",
     "text": "Das ist ehrlich.",
-    "t": 350.68
+    "t": 313.78
    },
    {
     "speaker": "Tom",
     "text": "Das respektiere ich.",
-    "t": 352.77
+    "t": 315.21
    },
    {
     "speaker": "Tom",
     "text": "Besser zu sagen „wir haben keine verlässlichen Daten\", als sie zu erfinden.",
-    "t": 355.12
+    "t": 316.68
    },
    {
     "speaker": "Anna",
     "text": "Nun lassen Sie uns ein paar echte Zahlen nennen, damit es greifbar wird.",
-    "t": 360.25
+    "t": 321.18
    },
    {
     "speaker": "Tom",
-    "text": "Ja, bitte.",
-    "t": 365.31
-   },
-   {
-    "speaker": "Tom",
-    "text": "Was kostet eine Wohnung tatsächlich?",
-    "t": 367.35
+    "text": "Ja, bitte. Was kostet eine Wohnung tatsächlich?",
+    "t": 325.11
    },
    {
     "speaker": "Anna",
-    "text": "Im 3.",
-    "t": 370.53
-   },
-   {
-    "speaker": "Anna",
-    "text": "Quartal 2025 kostete eine bestehende Wohnung im Durchschnitt etwa 7 600 Euro pro Quadratmeter.",
-    "t": 372.32
+    "text": "In den letzten Jahren kostete eine bestehende Wohnung im Durchschnitt deutlich mehr als siebentausend Euro pro Quadratmeter.",
+    "t": 328.25
    },
    {
     "speaker": "Tom",
-    "text": "Und eine brandneue Wohnung, noch im Bau, lag höher... bei etwa 10 000 Euro pro Quadratmeter.",
-    "t": 381.21
+    "text": "Und eine brandneue Wohnung, noch im Bau, kostet noch mehr... oft fast zehntausend Euro pro Quadratmeter.",
+    "t": 334.94
    },
    {
     "speaker": "Anna",
     "text": "Das sind natürlich Durchschnittswerte.",
-    "t": 388.14
+    "t": 341.62
    },
    {
     "speaker": "Anna",
     "text": "Der Preis hängt stark von der Gemeinde ab, und von der Qualität der Wohnung.",
-    "t": 391.25
+    "t": 343.8
    },
    {
     "speaker": "Tom",
     "text": "Und die Zahlen bewegen sich in jedem Quartal.",
-    "t": 396.6
+    "t": 348.3
    },
    {
     "speaker": "Tom",
     "text": "Sie gehen rauf, sie gehen runter.",
-    "t": 400.11
+    "t": 350.98
    },
    {
     "speaker": "Tom",
     "text": "Genau deshalb beobachtet das Observatoire ständig weiter.",
-    "t": 403.21
+    "t": 353.2
    },
    {
     "speaker": "Anna",
-    "text": "Zum Beispiel war im selben Zeitraum der Preis für bestehende Wohnungen im Vergleich zum Quartal davor sogar ein wenig gesunken.",
-    "t": 407.54
+    "text": "Zum Beispiel sind die Preise nach 2022 gesunken... und seitdem stabilisiert sich der Markt langsam.",
+    "t": 356.88
    },
    {
     "speaker": "Tom",
     "text": "Der Markt ist also nicht nur eine gerade Linie nach oben.",
-    "t": 415.72
+    "t": 363.69
    },
    {
     "speaker": "Tom",
     "text": "Er atmet... er verändert sich.",
-    "t": 419.69
+    "t": 366.8
    },
    {
     "speaker": "Anna",
     "text": "Und hier kommt der Teil, den ich liebe.",
-    "t": 422.64
+    "t": 369.35
    },
    {
     "speaker": "Anna",
     "text": "All diese Daten sind öffentlich, und Sie können sie selbst erkunden.",
-    "t": 425.99
+    "t": 371.53
    },
    {
     "speaker": "Tom",
-    "text": "Die Statistiken, aufgeschlüsselt nach Gemeinde, werden auf der nationalen Open-Data-Plattform veröffentlicht, data Punkt public Punkt lu.",
-    "t": 431.04
+    "text": "Die Statistiken, aufgeschlüsselt nach Gemeinde, werden auf der nationalen Open-Data-Plattform veröffentlicht, data Punkt public Punkt lu... und auch auf dem nationalen Geoportal.",
+    "t": 375.59
    },
    {
     "speaker": "Anna",
     "text": "Sie können also Ihre eigene Gemeinde nachschlagen und sehen, wie sich die Preise dort entwickelt haben.",
-    "t": 439.56
+    "t": 387.22
    },
    {
     "speaker": "Tom",
-    "text": "Es gibt sogar einen Preissimulator auf der Website des Observatoire, der Ihnen hilft, sich einen Eindruck zu verschaffen.",
-    "t": 446.29
+    "text": "Es gibt sogar einen Preissimulator auf der Website des Observatoire, und auch einen Mietsimulator, die Ihnen helfen, sich einen Eindruck zu verschaffen.",
+    "t": 392.72
    },
    {
     "speaker": "Anna",
     "text": "Stellen Sie sich vor, Sie überlegen, in einer bestimmten Stadt zu kaufen oder zu mieten.",
-    "t": 454.02
+    "t": 401.19
    },
    {
     "speaker": "Anna",
     "text": "Sie können die üblichen Preise prüfen, bevor Sie beginnen.",
-    "t": 460.49
+    "t": 406.36
    },
    {
     "speaker": "Tom",
     "text": "Das ist echte Macht für ganz normale Menschen.",
-    "t": 465.17
+    "t": 409.81
    },
    {
     "speaker": "Tom",
     "text": "Informationen, die früher schwer zu finden waren, stehen jetzt allen offen.",
-    "t": 468.48
+    "t": 412.57
    },
    {
     "speaker": "Anna",
     "text": "Das Observatoire veröffentlicht auch Berichte und Notizen, in klarer Sprache geschrieben, zu bestimmten Fragen.",
-    "t": 473.76
+    "t": 416.87
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel gab es Berichte darüber, wie sich die Preise über sehr lange Zeit verändert haben... zurück bis in die 1970er Jahre.",
-    "t": 481.78
+    "t": 423.24
    },
    {
     "speaker": "Anna",
     "text": "Und Berichte über den Mietmarkt, und sogar über die Regulierung der Mieten... die Regeln, die die Mieter schützen.",
-    "t": 490.42
+    "t": 431.04
    },
    {
     "speaker": "Tom",
     "text": "Wenn also ein Thema in den Nachrichten ist, gibt es oft eine seriöse, neutrale Studie, die man dazu lesen kann.",
-    "t": 497.95
+    "t": 438.35
    },
    {
     "speaker": "Anna",
     "text": "Kommen wir auf dieses Wort zurück, Bezahlbarkeit, denn es ist hier so wichtig.",
-    "t": 505.68
+    "t": 445.5
    },
    {
     "speaker": "Tom",
     "text": "Bezahlbarkeit bedeutet... können die Menschen ihr Wohnen tatsächlich bezahlen, ohne dass es ihr ganzes Budget verschlingt?",
-    "t": 511.19
+    "t": 450.51
    },
    {
     "speaker": "Anna",
     "text": "Das Observatoire betrachtet die „Wohnkostenbelastung / Effort-Rate\"... den Anteil Ihres Einkommens, der für das Wohnen draufgeht.",
-    "t": 518.5
+    "t": 457.57
    },
    {
     "speaker": "Tom",
     "text": "Und es vergleicht Luxemburg mit den Nachbarländern, um die Dinge in einen Zusammenhang zu setzen.",
-    "t": 527.36
+    "t": 465.19
    },
    {
     "speaker": "Anna",
     "text": "Diese Art von Analyse hilft allen, die wirkliche Lage klar zu sehen, statt nur zu raten oder sich Sorgen zu machen.",
-    "t": 533.27
+    "t": 470.42
    },
    {
     "speaker": "Tom",
     "text": "Und sie hilft der Regierung, bessere Maßnahmen zu gestalten, wie Unterstützung für Mieter oder den Bau von mehr bezahlbaren Wohnungen.",
-    "t": 541.26
+    "t": 477.57
    },
    {
     "speaker": "Anna",
     "text": "Vergessen wir die Bodenseite nicht, denn in einem kleinen Land ist Boden kostbar.",
-    "t": 549.37
+    "t": 485.3
    },
    {
     "speaker": "Tom",
     "text": "Das Observatoire untersucht, wie viel Bauland es gibt und wie viel davon tatsächlich genutzt wird.",
-    "t": 555.08
+    "t": 489.81
    },
    {
     "speaker": "Anna",
     "text": "Manchmal ist Bauland auf dem Papier vorhanden, aber es ist nicht bebaut.",
-    "t": 561.56
+    "t": 495.6
    },
    {
     "speaker": "Anna",
     "text": "Das zu verstehen hilft, für die Zukunft zu planen.",
-    "t": 567.01
+    "t": 499.76
    },
    {
     "speaker": "Tom",
     "text": "In gewisser Weise ist das Observatoire also wie eine Gesundheitsuntersuchung für das gesamte Wohnungssystem.",
-    "t": 571.27
+    "t": 503.14
    },
    {
     "speaker": "Anna",
     "text": "Das ist eine schöne Art, es auszudrücken.",
-    "t": 578.13
+    "t": 509.33
    },
    {
     "speaker": "Anna",
     "text": "Es misst die Temperatur, es erkennt die Trends, und es teilt die Diagnose mit allen.",
-    "t": 582.02
+    "t": 511.83
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, lassen Sie uns das praktisch machen.",
-    "t": 588.24
+    "t": 517.28
    },
    {
     "speaker": "Tom",
     "text": "Wie kann ein ganz normaler Mensch all das tatsächlich nutzen?",
-    "t": 592.1
+    "t": 520.05
    },
    {
     "speaker": "Anna",
     "text": "Erstens, bevor Sie mieten oder kaufen, prüfen Sie die üblichen Preise in der Gemeinde, die Sie interessiert.",
-    "t": 596.49
+    "t": 523.58
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, wenn Sie eine Debatte in den Nachrichten verstehen möchten, suchen Sie nach einem Bericht des Observatoire zu diesem Thema.",
-    "t": 604.16
+    "t": 530.34
    },
    {
     "speaker": "Anna",
     "text": "Drittens, denken Sie daran, dass die Zahlen offiziell und neutral sind.",
-    "t": 612.09
+    "t": 537.64
    },
    {
     "speaker": "Anna",
     "text": "Sie wollen Ihnen nichts verkaufen.",
-    "t": 617.77
+    "t": 542.28
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... Wissen reduziert Stress.",
-    "t": 620.81
+    "t": 544.43
    },
    {
     "speaker": "Tom",
     "text": "Wohnen ist emotional, aber gute Informationen helfen Ihnen, ruhigere Entscheidungen zu treffen.",
-    "t": 624.94
+    "t": 547.61
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir alles zusammen.",
-    "t": 631.52
+    "t": 553.36
    },
    {
     "speaker": "Anna",
     "text": "Was sollten sich die Menschen über das Observatoire de l'Habitat merken?",
-    "t": 634.02
+    "t": 555.13
    },
    {
     "speaker": "Tom",
     "text": "Erstens... es ist Luxemburgs offizielles Wohnungsobservatorium, gegründet 2003, innerhalb des Wohnungsbauministeriums.",
-    "t": 639.22
+    "t": 559.1
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... es beobachtet Verkaufspreise, Mieten, Bauland und wie bezahlbar Wohnen wirklich ist, mit Hilfe des Forschungsinstituts LISER.",
-    "t": 647.62
+    "t": 567.27
    },
    {
     "speaker": "Tom",
     "text": "Drittens... seine Daten sind verlässlich, weil die Verkaufspreise aus echten, notariell beurkundeten Transaktionen stammen.",
-    "t": 657.5
+    "t": 576.45
    },
    {
     "speaker": "Anna",
     "text": "Viertens... die Daten sind öffentlich.",
-    "t": 665.56
+    "t": 584.56
    },
    {
     "speaker": "Anna",
     "text": "Sie können die Preise nach Gemeinde auf data Punkt public Punkt lu erkunden und klare Berichte lesen.",
-    "t": 668.92
+    "t": 587.54
    },
    {
     "speaker": "Tom",
     "text": "Und fünftens... Sie können sie in Ihrem eigenen Leben nutzen, um bessere, ruhigere Wohnentscheidungen zu treffen.",
-    "t": 675.78
+    "t": 594.51
    },
    {
     "speaker": "Anna",
     "text": "Wohnen kann überwältigend wirken.",
-    "t": 683.71
+    "t": 601.83
    },
    {
     "speaker": "Anna",
     "text": "Aber Sie sind nicht machtlos.",
-    "t": 686.71
+    "t": 603.98
    },
    {
     "speaker": "Anna",
     "text": "Es gibt fundierte, ehrliche Informationen für Sie da draußen.",
-    "t": 689.3
+    "t": 605.84
    },
    {
     "speaker": "Tom",
     "text": "Und zu wissen, wo man sie findet, ist die halbe Miete.",
-    "t": 694.03
+    "t": 609.39
    },
    {
     "speaker": "Anna",
-    "text": "Vielen herzlichen Dank, dass Sie heute zugehört haben.",
-    "t": 698.14
-   },
-   {
-    "speaker": "Tom",
-    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
-    "t": 702.34
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 706.15
+    "text": "Das war unsere Folge über das Observatoire de l'Habitat.",
+    "t": 612.39
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 707.73
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 615.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 624.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 642.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 648.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 650.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 655.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 656.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 660.18
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm zréck! Et ass eng Freed, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.64
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger hëllefen, d'Land e bësse besser ze verstoen.",
-    "t": 7.68
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An den Thema vun haut ass ee, iwwer dee bal jiddereen zu Lëtzebuerg schwätzt... d'Wunnen.",
-    "t": 22.09
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Wou wunnen, wéi vill kascht et, ob ee mécht oder kaft... dat sinn déi grouss Froen, an déi grouss Zuelen.",
-    "t": 27.29
+    "t": 32.1
    },
    {
     "speaker": "Tom",
     "text": "Mä hei ass eppes, wat vill Leit net wëssen. Lëtzebuerg huet en offiziellen Organ, deem seng Aufgab et ass, dat alles z'ënnersichen... suergfälteg, a mat richtegen Donnéeën.",
-    "t": 34.22
+    "t": 39.35
    },
    {
     "speaker": "Anna",
     "text": "Et heescht den Observatoire de l'Habitat. Op Lëtzebuergesch kéinte mer soen d'Wunnengsobservatoire.",
-    "t": 43.79
+    "t": 48.82
    },
    {
     "speaker": "Tom",
     "text": "Dat Wuert gefält mer, \"Observatoire\". Et kléngt no enger Plaz, wou d'Leit d'Stäre kucken.",
-    "t": 50.67
+    "t": 54.72
    },
    {
     "speaker": "Anna",
     "text": "Dat ass e schéint Bild! Mä amplaz d'Stäre ze kucken, kuckt dëse Observatoire de Wunnengsmaart.",
-    "t": 57.51
+    "t": 59.39
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat ass den Observatoire de l'Habitat genau?",
-    "t": 64.88
+    "t": 65.47
    },
    {
     "speaker": "Anna",
     "text": "Hie gouf am Joer 2003 gegrënnt, am Ministère, deen fir d'Wunne responsabel ass... haut ass dat de Wunnengs- a Raumentwécklungsministère.",
-    "t": 69.19
+    "t": 68.75
    },
    {
     "speaker": "Tom",
     "text": "A säin Zweck ass, zouverlässeg Informatiounen iwwer d'Wunne zu Lëtzebuerg ze produzéieren.",
-    "t": 77.76
+    "t": 77.73
    },
    {
     "speaker": "Anna",
     "text": "Informatiounen, déi der Regierung hëllefen, hir Wunnengspolitik ze plangen, an déi och d'Ëffentlechkeet informéieren... Leit wéi Dir an ech.",
-    "t": 82.89
+    "t": 82.22
    },
    {
     "speaker": "Tom",
     "text": "Also huet en eigentlech zwou Aufgaben. Als éischt, d'Decisiounsträger z'ënnerstëtzen, an zweetens, d'Bierger z'informéieren.",
-    "t": 90.31
+    "t": 89.79
    },
    {
     "speaker": "Anna",
     "text": "Genau. Seng Missioun ass, Informatiounen ze sammelen, se z'analyséieren, an se dann oppen ze deelen.",
-    "t": 98.04
+    "t": 96.23
    },
    {
     "speaker": "Tom",
     "text": "Sammelen, analyséieren, deelen. Dat ass eng gutt Manéier, fir et sech ze mierken.",
-    "t": 105.61
+    "t": 102.55
    },
    {
     "speaker": "Anna",
     "text": "An en schafft net komplett eleng. En huet e wichtege Partner... en Fuerschungsinstitut mam Numm LISER.",
-    "t": 111.38
+    "t": 105.9
    },
    {
     "speaker": "Tom",
-    "text": "LISER ass de Luxembourg Institute of Socio-Economic Research. Dat ass en ëffentlecht Fuerschungszentrum.",
-    "t": 118.44
+    "text": "LISER ass de Luxembourg Institute of Socio-Economic Research. Dat ass en ëffentlecht Fuerschungszentrum. A fir d'Statistike vun de Verkafspräisser schafft den Observatoire och enk mam STATEC zesummen, dem nationale Statistikinstitut.",
+    "t": 112.56
    },
    {
     "speaker": "Anna",
     "text": "Si bréngen déi wëssenschaftlech Rigueur... richteg Methoden, suergfälteg Analyse. Esou sinn d'Zuelen, déi Dir kritt, solid, an net just gerode.",
-    "t": 125.98
+    "t": 125.78
    },
    {
     "speaker": "Tom",
     "text": "Gutt. Also wat kuckt den Observatoire eigentlech? Wat mësst en?",
-    "t": 134.66
+    "t": 133.01
    },
    {
     "speaker": "Anna",
     "text": "Verschidde Saachen. Als éischt d'Verkafspräisser vu Wunnengen... wéi vill et kascht, fir ze kafen.",
-    "t": 141.9
+    "t": 137.82
    },
    {
     "speaker": "Tom",
     "text": "Zweetens d'Loyeren... wéi vill et kascht, fir eng Wunneng ze lounen.",
-    "t": 148.78
+    "t": 143.17
    },
    {
     "speaker": "Anna",
     "text": "Drëttens de Präis vum Terrain... Bauland, wou nei Wunnenge kënne kommen.",
-    "t": 152.75
+    "t": 146.3
    },
    {
     "speaker": "Tom",
     "text": "An et geet méi wäit wéi just d'Präisser, oder?",
-    "t": 157.64
+    "t": 151.35
    },
    {
     "speaker": "Anna",
     "text": "Jo. En ënnersicht och, wéi vill Bauland tatsächlech disponibel ass, a wiem et gehéiert.",
-    "t": 161.21
+    "t": 153.65
    },
    {
     "speaker": "Tom",
     "text": "Dat heescht d'Terrainobservatioun, oder op Franséisch d'\"observation foncière\". Si maachen esouguer eng Aart Zielung vum Bauland.",
-    "t": 168.25
+    "t": 158.99
    },
    {
     "speaker": "Anna",
     "text": "En follegt och, wéi vill nei Wunnenge produzéiert ginn, Joer fir Joer.",
-    "t": 176.93
+    "t": 166.68
    },
    {
     "speaker": "Tom",
     "text": "An et gëtt och eng méi mënschlech Säit... déi sozial an ekonomesch Säit.",
-    "t": 181.73
+    "t": 171.04
    },
    {
     "speaker": "Anna",
     "text": "Richteg. Den Observatoire ënnersicht d'Bezuelbarkeet vum Wunnen... ob d'Leit sech tatsächlech leeschte kënnen, do ze wunnen, wou se musse wunnen.",
-    "t": 186.35
+    "t": 175.14
    },
    {
     "speaker": "Tom",
     "text": "An en kuckt, wéi déi ëffentlech Politik d'Käschte vum Wunne beaflosst. Et sinn also net just Zuelen, et geet ëm dat richtegt Liewen.",
-    "t": 194.54
+    "t": 182.02
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer iwwer schwätzen, wou dës Zuelen hierkommen, well dat ass wichteg fir d'Vertrauen.",
-    "t": 202.33
+    "t": 188.97
    },
    {
     "speaker": "Tom",
     "text": "Jo. Wann een de Leit Chiffere gëtt, da wëlle si wëssen, datt d'Chiffere richteg sinn.",
-    "t": 207.37
+    "t": 193.53
    },
    {
     "speaker": "Anna",
     "text": "Also, fir d'Verkafspräisser kommen d'Donnéeën aus den notariellen Akten. All Kéier wann eng Immobilie verkaaft gëtt, da reegistréiert e Notär dat offiziell.",
-    "t": 213.36
+    "t": 198.22
    },
    {
     "speaker": "Tom",
     "text": "Dës offiziell Aufzeechnunge ginn all Mount un den Observatoire weiderginn, vun der Administration de l'Enregistrement et des Domaines.",
-    "t": 222.76
+    "t": 207.36
    },
    {
     "speaker": "Anna",
     "text": "A si gi mat Informatiounen aus dem Kadaster komplettéiert, zum Beispill d'Fläch vun all Appartement.",
-    "t": 229.38
+    "t": 214.23
    },
    {
     "speaker": "Tom",
     "text": "Dat sinn also keng Annoncen oder Schätzungen. Dat sinn echt, ofgeschloss Verkeef. Méi zouverlässeg geet et bal net.",
-    "t": 236.91
+    "t": 221.62
    },
    {
     "speaker": "Anna",
-    "text": "Fir d'Loyeren ass et e bësse anescht. D'Loyer-Donnéeë kommen haaptsächlech aus den Immobilienannoncen... Wunnengen, déi zur Locatioun ugebuede ginn.",
-    "t": 246.09
+    "text": "Fir d'Loyeren ass et e bësse anescht. D'Loyer-Donnéeë kommen haaptsächlech aus den Immobilienannoncen... Wunnengen, déi zur Locatioun ugebuede ginn, gesammelt mat engem groussen Immobilieportal.",
+    "t": 228.77
    },
    {
     "speaker": "Tom",
     "text": "D'Loyeren reflektéieren also dat, wat um Maart gefrot gëtt, wärend d'Verkafspräisser Deals reflektéieren, déi tatsächlech stattfonnt hunn.",
-    "t": 254.4
+    "t": 237.92
    },
    {
     "speaker": "Anna",
-    "text": "Et gëtt awer eng interessant Grenz. Den Observatoire publizéiert detailléiert Präisser fir Appartementer, mä net fir Haiser.",
-    "t": 260.84
+    "text": "Et gëtt awer eng interessant Grenz. Den Observatoire publizéiert detailléiert Präisser pro Quadratmeter, Gemeng fir Gemeng, fir Appartementer... mä net fir Haiser.",
+    "t": 244.64
    },
    {
     "speaker": "Tom",
     "text": "Firwat ass dat, Anna?",
-    "t": 269.43
+    "t": 254.91
    },
    {
     "speaker": "Anna",
     "text": "Well fir Appartementer gëtt et gutt Donnéeën iwwer d'Fläch, esou datt ee e faire Präis pro Quadratmeter ka berechnen.",
-    "t": 271.67
+    "t": 256.22
    },
    {
     "speaker": "Tom",
     "text": "Mä fir eenzel Haiser ass déi detailléiert Fläch-Informatioun net op déiselwecht Manéier disponibel.",
-    "t": 278.69
+    "t": 263.33
    },
    {
     "speaker": "Anna",
-    "text": "Also amplaz Zuelen ze publizéieren, déi d'Leit kéinten an d'Ier féieren, entscheede si sech, keng detailléiert Hauspräisser ze publizéieren. Dat ass éierlech.",
-    "t": 284.84
+    "text": "Also amplaz Zuelen ze publizéieren, déi d'Leit kéinten an d'Ier féieren, entscheede si sech, keng detailléiert Hauspräisser ze publizéieren. Fir Haiser publizéiert de STATEC amplaz en allgemengen Präisindex. Dat ass éierlech.",
+    "t": 268.52
    },
    {
     "speaker": "Tom",
     "text": "Dat respektéieren ech. Besser ze soen \"mir hu keng zouverlässeg Donnéeën\", wéi se z'erfannen.",
-    "t": 293.32
+    "t": 279.81
    },
    {
     "speaker": "Anna",
     "text": "Elo loosse mer e puer richteg Zuelen ginn, esou datt et sech konkret ufillt.",
-    "t": 299.56
+    "t": 284.65
    },
    {
     "speaker": "Tom",
     "text": "Jo, gär. Wat kascht en Appartement tatsächlech?",
-    "t": 304
+    "t": 288.15
    },
    {
     "speaker": "Anna",
-    "text": "Am drëtten Trimester 2025 huet en existéierend Appartement am Duerchschnëtt ongeféier 7 600 Euro pro Quadratmeter kascht.",
-    "t": 309.15
+    "text": "An de leschte Joren huet en existéierend Appartement am Duerchschnëtt däitlech méi wéi siwendausend Euro pro Quadratmeter kascht.",
+    "t": 291.34
    },
    {
     "speaker": "Tom",
-    "text": "An en ganz neit Appartement, nach am Bau, war méi héich... ronderëm 10 000 Euro pro Quadratmeter.",
-    "t": 317.37
+    "text": "An en ganz neit Appartement, nach am Bau, kascht nach méi... dacks bal zéngdausend Euro pro Quadratmeter.",
+    "t": 297.72
    },
    {
     "speaker": "Anna",
     "text": "Dat sinn natierlech Duerchschnëtter. De Präis hänkt vill vun der Gemeng of, a vun der Qualitéit vun der Wunneng.",
-    "t": 324.08
+    "t": 305.2
    },
    {
     "speaker": "Tom",
     "text": "An d'Zuele beweegen sech all Trimester. Si ginn erop, si ginn erof. Dat ass genau, firwat den Observatoire weiderkuckt.",
-    "t": 331.62
+    "t": 311.31
    },
    {
     "speaker": "Anna",
-    "text": "Zum Beispill, an deeselwechten Zäitraum, war de Präis vun den existéierenden Appartementer tatsächlech e bësse gefall, am Verglach mam Trimester virdrun.",
-    "t": 340.9
+    "text": "Zum Beispill sinn d'Präisser no 2022 erofgaangen... an zënterhier stabiliséiert de Maart sech lues a lues.",
+    "t": 317.75
    },
    {
     "speaker": "Tom",
     "text": "De Maart ass also net just eng gerued Linn, déi erop geet. En otemt... en ännert sech.",
-    "t": 348.99
+    "t": 325.57
    },
    {
     "speaker": "Anna",
     "text": "An hei ass den Deel, deen ech gär hunn. All dës Donnéeë sinn ëffentlech, an Dir kënnt se selwer entdecken.",
-    "t": 355.4
+    "t": 330.53
    },
    {
     "speaker": "Tom",
-    "text": "D'Statistiken, opgedeelt no Gemeng, ginn op der nationaler Open-Data-Plattform publizéiert, data Punkt public Punkt lu.",
-    "t": 362.37
+    "text": "D'Statistiken, opgedeelt no Gemeng, ginn op der nationaler Open-Data-Plattform publizéiert, data Punkt public Punkt lu... an och um nationale Geoportal.",
+    "t": 335.85
    },
    {
     "speaker": "Anna",
     "text": "Esou kënnt Dir Är eege Gemeng nokucken, a kucken, wéi sech d'Präisser do beweegt hunn.",
-    "t": 369.59
+    "t": 345.28
    },
    {
     "speaker": "Tom",
-    "text": "Et gëtt esouguer e Präissimulateur op der Internetsäit vum Observatoire, fir Iech ze hëllefen, eng Iddi ze kréien.",
-    "t": 374.23
+    "text": "Et gëtt esouguer e Präissimulateur op der Internetsäit vum Observatoire, an och e Loyersimulateur, fir Iech ze hëllefen, eng Iddi ze kréien.",
+    "t": 349.59
    },
    {
     "speaker": "Anna",
     "text": "Stellt Iech vir, Dir denkt drun, an enger gewësser Uertschaft ze kafen oder ze lounen. Dir kënnt déi typesch Präisser nokucken, ier Dir ufänkt.",
-    "t": 379.74
+    "t": 356.02
    },
    {
     "speaker": "Tom",
     "text": "Dat ass richteg Muecht fir normal Leit. Informatiounen, déi fréier schwéier ze fanne waren, sinn elo fir jiddereen oppen.",
-    "t": 387.6
+    "t": 362.86
    },
    {
     "speaker": "Anna",
     "text": "Den Observatoire publizéiert och Rapporten an Notizen, an einfacher Sprooch geschriwwen, iwwer spezifesch Froen.",
-    "t": 395.21
+    "t": 368.77
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispill goufen et Rapporten doriwwer, wéi sech d'Präisser iwwer ganz laang Zäit verännert hunn... bis an d'1970er Joren zréck.",
-    "t": 402.01
+    "t": 374.74
    },
    {
     "speaker": "Anna",
     "text": "A Rapporten iwwer de Locatiounsmaart, an esouguer iwwer d'Reglementéierung vun de Loyeren... d'Reegelen, déi d'Locatairen schützen.",
-    "t": 409.29
+    "t": 381.8
    },
    {
     "speaker": "Tom",
     "text": "Wann en Thema also an den Noriichten ass, da gëtt et dacks eng eescht, neutral Etude, déi Dir doriwwer liese kënnt.",
-    "t": 415.98
+    "t": 388.76
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer op dat Wuert zréckkommen, d'Bezuelbarkeet, well et ass hei esou wichteg.",
-    "t": 421.91
+    "t": 393.89
    },
    {
     "speaker": "Tom",
     "text": "Bezuelbarkeet heescht... kënnen d'Leit hir Wunneng tatsächlech bezuelen, ouni datt et hire ganze Budget iwwerhëlt?",
-    "t": 426.93
+    "t": 398.25
    },
    {
     "speaker": "Anna",
     "text": "Den Observatoire kuckt den \"Effortstaux\"... den Deel vun Ärem Akommes, deen an d'Wunne geet.",
-    "t": 433.12
+    "t": 404.14
    },
    {
     "speaker": "Tom",
     "text": "An en vergläicht Lëtzebuerg mat den Nopeschlänner, fir d'Saachen an de Kontext ze setzen.",
-    "t": 438.41
+    "t": 409.57
    },
    {
     "speaker": "Anna",
     "text": "Dës Aart vun Analyse hëlleft jiddereem, déi richteg Situatioun kloer ze gesinn, amplaz just ze roden oder sech Suergen ze maachen.",
-    "t": 443.41
+    "t": 413.8
    },
    {
     "speaker": "Tom",
     "text": "An et hëlleft der Regierung, besser Politik ze gestalten, wéi Ënnerstëtzung fir Locatairen, oder méi bezuelbar Wunnengen ze bauen.",
-    "t": 450.34
+    "t": 420.61
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer d'Terrain-Säit net vergiessen, well an engem klenge Land ass Terrain wäertvoll.",
-    "t": 457.13
+    "t": 426.43
    },
    {
     "speaker": "Tom",
     "text": "Den Observatoire ënnersicht, wéi vill Bauland et gëtt, a wéi vill dovun tatsächlech genotzt gëtt.",
-    "t": 462.46
+    "t": 431.23
    },
    {
     "speaker": "Anna",
     "text": "Heiansdo ass Terrain um Pabeier disponibel, mä et gëtt net dropgebaut. Dat ze verstoen hëlleft, fir d'Zukunft ze plangen.",
-    "t": 468.55
+    "t": 436.96
    },
    {
     "speaker": "Tom",
     "text": "Op eng Aart ass den Observatoire also wéi e Gesondheetscheck fir dat ganzt Wunnengssystem.",
-    "t": 476.43
+    "t": 443.9
    },
    {
     "speaker": "Anna",
     "text": "Dat ass eng schéi Manéier, fir et auszedrécken. En mësst d'Temperatur, en erkennt d'Tendenzen, an en deelt d'Diagnos mat jidderengem.",
-    "t": 481.56
+    "t": 448.52
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, loosse mer dat praktesch maachen. Wéi kann eng normal Persoun dat alles tatsächlech notzen?",
-    "t": 490.22
+    "t": 455.67
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, ier Dir mécht oder kaaft, kuckt déi typesch Präisser an der Gemeng no, déi Iech interesséiert.",
-    "t": 496.96
+    "t": 460.87
    },
    {
     "speaker": "Tom",
     "text": "Zweetens, wann Dir eng Debatt an den Noriichte verstoe wëllt, da sicht en Observatoire-Rapport iwwer dat Thema.",
-    "t": 503.05
+    "t": 466.59
    },
    {
     "speaker": "Anna",
     "text": "Drëttens, denkt drun, datt d'Zuelen offiziell an neutral sinn. Si probéieren net, Iech eppes ze verkafen.",
-    "t": 509.31
+    "t": 472.66
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... Wëssen reduzéiert de Stress. D'Wunnen ass emotional, mä gutt Informatioun hëlleft Iech, méi roueg Decisiounen ze huelen.",
-    "t": 516.39
+    "t": 478.63
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer alles zesummebréngen. Wat sollen d'Leit iwwer den Observatoire de l'Habitat behalen?",
-    "t": 524.52
+    "t": 485.39
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... et ass de Lëtzebuerger offiziellen Wunnengsobservatoire, am Joer 2003 gegrënnt, am Wunnengsministère.",
-    "t": 530.94
+    "t": 490.9
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... en kuckt d'Verkafspräisser, d'Loyeren, den Terrain, a wéi bezuelbar d'Wunne wierklech ass, mat der Hëllef vum Fuerschungsinstitut LISER.",
-    "t": 538.53
+    "t": 497.53
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... seng Donnéeë sinn zouverlässeg, well d'Verkafspräisser aus echten, notariellen Transaktioune kommen.",
-    "t": 547.19
+    "t": 507.05
    },
    {
     "speaker": "Anna",
     "text": "Véiertens... d'Donnéeë sinn ëffentlech. Dir kënnt d'Präisser no Gemeng op data Punkt public Punkt lu entdecken, a kloer Rapporte liesen.",
-    "t": 553.28
+    "t": 513.07
    },
    {
     "speaker": "Tom",
     "text": "A fënneftens... Dir kënnt et an Ärem eegene Liewe notzen, fir besser, méi roueg Wunnengsdecisiounen ze huelen.",
-    "t": 562.23
+    "t": 521.58
    },
    {
     "speaker": "Anna",
     "text": "D'Wunne kann iwwerwältegend wierken. Mä Dir sidd net hëlleflos. Et gëtt solid, éierlech Informatioun do baussen fir Iech.",
-    "t": 567.71
+    "t": 526.85
    },
    {
     "speaker": "Tom",
     "text": "A wëssen, wou een se fënnt, ass schonn d'Halschent vun der Schluecht.",
-    "t": 576.46
+    "t": 533.94
    },
    {
     "speaker": "Anna",
-    "text": "Merci villmools, datt Dir haut nogelauschtert hutt.",
-    "t": 579.74
+    "text": "Dat war eis Episod iwwer den Observatoire de l'Habitat. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 536.6
    },
    {
     "speaker": "Tom",
-    "text": "Passt op iech op, a bis an der nächster Episod. Äddi!",
-    "t": 582.69
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 582.2
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 587.84
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 585.4
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 18,
@@ -55210,7 +55214,7 @@ const EPISODES = [
   "title": "Klima-Agence – Free Advice for Your Energy and Climate Projects",
   "description": "What Klima-Agence is (Luxembourg's national energy and climate agency, formerly myenergy), its free and independent advice on insulation, sustainable building, renewable heating, solar power and eco-mobility, the help it gives to find grants like the Klimabonus, and a warning about fake adverts.",
   "audio": "podcast_klima.mp3",
-  "duration": 546.26,
+  "duration": 539.56,
   "topics": [
    "What Klima-Agence is",
    "Free, independent advice",
@@ -55224,618 +55228,623 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's wonderful to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.73
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.77
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.88
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to feel more at home here, and to make the most of the country.",
-    "t": 14.7
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today we are looking at a topic that is on a lot of minds... energy, the climate, and our homes.",
-    "t": 23.36
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Think about it.",
-    "t": 29.62
+    "t": 34.07
    },
    {
     "speaker": "Anna",
     "text": "Heating bills, insulation, solar panels, electric cars, grants... it can feel like a lot to understand.",
-    "t": 31.55
+    "t": 35.05
    },
    {
     "speaker": "Tom",
     "text": "And it often feels expensive, and complicated.",
-    "t": 39.19
+    "t": 41.85
    },
    {
     "speaker": "Tom",
     "text": "Where do you even start?",
-    "t": 42.97
+    "t": 44.55
    },
    {
     "speaker": "Anna",
     "text": "Well, that is exactly why today's organisation exists.",
-    "t": 45.36
+    "t": 45.94
    },
    {
     "speaker": "Anna",
     "text": "It is called Klima-Agence.",
-    "t": 49.83
+    "t": 49.35
    },
    {
     "speaker": "Tom",
-    "text": "Klima-Agence.",
-    "t": 52.38
-   },
-   {
-    "speaker": "Tom",
-    "text": "The name already tells us part of the story... \"Klima\" means climate.",
-    "t": 54.42
+    "text": "Klima-Agence. The name already tells us part of the story... \"Klima\" means climate.",
+    "t": 51.68
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 59.86
-   },
-   {
-    "speaker": "Anna",
-    "text": "Klima-Agence is Luxembourg's national partner for energy and climate matters.",
-    "t": 61.55
+    "text": "Yes. Klima-Agence is Luxembourg's national partner for energy and climate matters.",
+    "t": 57.25
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what exactly is it?",
-    "t": 66.81
+    "t": 62.5
    },
    {
     "speaker": "Tom",
     "text": "Is it a company?",
-    "t": 69.81
+    "t": 64.27
    },
    {
     "speaker": "Anna",
     "text": "Not a private company in the usual sense.",
-    "t": 71.87
+    "t": 65.48
    },
    {
     "speaker": "Anna",
     "text": "It is a public-interest organisation, supported by the Luxembourg government.",
-    "t": 75.22
+    "t": 67.95
    },
    {
     "speaker": "Tom",
-    "text": "Several ministries stand behind it... the Ministry of the Economy, the Ministry of the Environment and Climate, and the Ministry of Housing.",
-    "t": 80.26
+    "text": "Several ministries stand behind it... the Ministry of the Economy, the Ministry of the Environment, Climate and Biodiversity, and the Ministry of Housing and Spatial Planning.",
+    "t": 72.86
    },
    {
     "speaker": "Anna",
     "text": "And it works together with professional bodies, like the Chamber of Skilled Trades and Crafts, and the association of architects and consulting engineers.",
-    "t": 88.3
+    "t": 83.11
    },
    {
     "speaker": "Tom",
     "text": "Here's a detail some people remember.",
-    "t": 97.59
+    "t": 92.5
    },
    {
     "speaker": "Tom",
     "text": "Until 2022, Klima-Agence had a different name... it was called myenergy.",
-    "t": 100.83
+    "t": 94.32
    },
    {
     "speaker": "Anna",
     "text": "So if you have heard of myenergy in the past, it is the same organisation, with a new name and a wider mission.",
-    "t": 106.42
+    "t": 99.7
    },
    {
     "speaker": "Tom",
     "text": "And what is that mission, exactly?",
-    "t": 113.18
+    "t": 106.33
    },
    {
     "speaker": "Anna",
     "text": "To support the whole of society in protecting the climate and in the energy transition.",
-    "t": 116.15
+    "t": 108.19
    },
    {
     "speaker": "Tom",
     "text": "The energy transition... moving away from fossil fuels, towards cleaner, more efficient energy.",
-    "t": 121.5
+    "t": 113.13
    },
    {
     "speaker": "Anna",
     "text": "Luxembourg has set national targets for 2030... using more renewable energy, using energy more efficiently, and cutting greenhouse gas emissions.",
-    "t": 127.59
+    "t": 118.58
    },
    {
     "speaker": "Tom",
     "text": "And Klima-Agence helps put those big national goals into practice, in real homes and real lives.",
-    "t": 137.83
+    "t": 128.57
    },
    {
     "speaker": "Anna",
     "text": "But here is the part I really want people to hear.",
-    "t": 143.89
+    "t": 134.46
    },
    {
     "speaker": "Anna",
     "text": "The advice they give to citizens is free.",
-    "t": 147.4
+    "t": 137.52
    },
    {
     "speaker": "Tom",
-    "text": "Free, yes.",
-    "t": 150.51
-   },
-   {
-    "speaker": "Tom",
-    "text": "And just as important... it is independent.",
-    "t": 152.68
+    "text": "Free, yes. And just as important... it is independent.",
+    "t": 140.3
    },
    {
     "speaker": "Anna",
     "text": "That means they are not trying to sell you a boiler, or a particular brand of solar panel.",
-    "t": 156.25
+    "t": 143.8
    },
    {
     "speaker": "Tom",
     "text": "They give you neutral, expert guidance, in your interest.",
-    "t": 162.05
+    "t": 148.85
    },
    {
     "speaker": "Tom",
     "text": "The service is financed by Klima-Agence itself.",
-    "t": 166
+    "t": 152.41
    },
    {
     "speaker": "Anna",
     "text": "So you can ask your questions honestly, and get an honest answer.",
-    "t": 169.78
+    "t": 155.42
    },
    {
     "speaker": "Anna",
     "text": "That is rare and valuable.",
-    "t": 174.22
+    "t": 159.49
    },
    {
     "speaker": "Tom",
     "text": "So how does a normal person actually get this advice?",
-    "t": 176.79
+    "t": 161.43
    },
    {
     "speaker": "Anna",
     "text": "You can make an appointment with an advisor.",
-    "t": 180.74
+    "t": 164.4
    },
    {
     "speaker": "Anna",
     "text": "Depending on your project, it can happen at your home, by video, or by phone.",
-    "t": 183.89
+    "t": 166.69
    },
    {
     "speaker": "Tom",
     "text": "Or you can simply call an advisor directly.",
-    "t": 189.67
+    "t": 171.49
    },
    {
     "speaker": "Tom",
     "text": "The number is 8-0-0-2, 1-1, 9-0.",
-    "t": 193.13
+    "t": 173.7
    },
    {
     "speaker": "Anna",
     "text": "And the advisors are available Monday to Friday, in the morning and in the afternoon.",
-    "t": 198.46
+    "t": 177.46
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about what they can actually help you with.",
-    "t": 203.86
+    "t": 182.34
    },
    {
     "speaker": "Tom",
     "text": "What kinds of projects?",
-    "t": 207.5
+    "t": 185.06
    },
    {
     "speaker": "Anna",
     "text": "Quite a range.",
-    "t": 209.92
+    "t": 186.78
    },
    {
     "speaker": "Anna",
     "text": "The first big one is insulating your home.",
-    "t": 211.91
+    "t": 187.93
    },
    {
     "speaker": "Tom",
     "text": "Good insulation means a warmer home in winter, a cooler home in summer, and lower heating bills.",
-    "t": 215.15
+    "t": 190.73
    },
    {
     "speaker": "Anna",
     "text": "The second is building a new home in a sustainable way... a home that uses less energy from the start.",
-    "t": 221.13
+    "t": 196.19
    },
    {
     "speaker": "Tom",
     "text": "The third is heating with renewable energy.",
-    "t": 227.46
+    "t": 203.53
    },
    {
     "speaker": "Tom",
     "text": "For example, a heat pump that draws warmth from the air or the ground.",
-    "t": 230.88
+    "t": 205.84
    },
    {
     "speaker": "Anna",
     "text": "Instead of burning oil or gas, you use the sun and the earth.",
-    "t": 235.56
+    "t": 209.88
    },
    {
     "speaker": "Anna",
     "text": "It's cleaner, and over time, often cheaper.",
-    "t": 239.91
+    "t": 213.82
    },
    {
     "speaker": "Tom",
     "text": "The fourth is generating your own clean electricity, with solar panels on your roof.",
-    "t": 243.62
+    "t": 216.78
    },
    {
     "speaker": "Anna",
     "text": "Those photovoltaic panels turn sunlight into electricity, which you can use at home or feed into the grid.",
-    "t": 249.08
+    "t": 221.04
    },
    {
     "speaker": "Tom",
     "text": "The fifth is eco-mobility... greener ways of getting around, like electric vehicles and charging stations.",
-    "t": 255.84
+    "t": 227.47
    },
    {
     "speaker": "Anna",
     "text": "And the sixth is simpler than all the others... just using less energy in your daily habits.",
-    "t": 262.43
+    "t": 234.11
    },
    {
     "speaker": "Tom",
     "text": "Small changes, every day, that are good for the planet and good for your wallet.",
-    "t": 268.34
+    "t": 240.55
    },
    {
     "speaker": "Anna",
     "text": "So whether your project is big or small, there is guidance for it.",
-    "t": 273.38
+    "t": 245.39
    },
    {
     "speaker": "Tom",
     "text": "Now Anna, let's talk about money, because these projects can be expensive.",
-    "t": 277.93
+    "t": 249.54
    },
    {
     "speaker": "Anna",
-    "text": "They can.",
-    "t": 282.86
-   },
-   {
-    "speaker": "Anna",
-    "text": "But the good news is that there are many grants and subsidies available.",
-    "t": 284.64
+    "text": "They can. But the good news is that there are many grants and subsidies available.",
+    "t": 253.88
    },
    {
     "speaker": "Tom",
     "text": "And this is another place where Klima-Agence really helps.",
-    "t": 289.03
+    "t": 258.75
    },
    {
     "speaker": "Tom",
     "text": "They guide you through the financial support.",
-    "t": 293.05
+    "t": 262.37
    },
    {
     "speaker": "Anna",
     "text": "There are subsidies from the State, from your commune, and sometimes even from energy suppliers.",
-    "t": 296.2
+    "t": 264.81
    },
    {
     "speaker": "Tom",
     "text": "Keeping track of all of those would be a nightmare on your own.",
-    "t": 302.29
+    "t": 271.05
    },
    {
     "speaker": "Anna",
     "text": "That's why Klima-Agence helps you understand which grants apply to your project.",
-    "t": 306.33
+    "t": 274.41
    },
    {
     "speaker": "Tom",
     "text": "There is even an online subsidy simulator.",
-    "t": 311.41
+    "t": 279.33
    },
    {
     "speaker": "Tom",
     "text": "You enter your project, and it shows you what support you could receive.",
-    "t": 315.12
+    "t": 281.42
    },
    {
     "speaker": "Anna",
     "text": "A big part of this is the national grant scheme called the Klimabonus.",
-    "t": 319.69
+    "t": 285.16
    },
    {
     "speaker": "Tom",
-    "text": "The Klimabonus supports things like energy-efficient renovation, renewable heating, solar panels, electric vehicles, and charging stations.",
-    "t": 324.22
+    "text": "The Klimabonus supports things like energy-efficient renovation, renewable heating such as heat pumps, solar panels and batteries, electric vehicles, and charging stations.",
+    "t": 289.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "And it was renewed in 2026, for most projects until 2030.",
+    "t": 299.38
    },
    {
     "speaker": "Anna",
     "text": "So it really covers most of the projects we just talked about.",
-    "t": 332.75
+    "t": 304.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "And for solar panels, some companies can even take the subsidy straight off your bill.",
+    "t": 307.69
    },
    {
     "speaker": "Tom",
     "text": "Are there other tools on their website, beyond the subsidy simulator?",
-    "t": 336.99
+    "t": 312.46
    },
    {
     "speaker": "Anna",
     "text": "Yes, some very practical ones.",
-    "t": 341.61
+    "t": 316.15
    },
    {
     "speaker": "Anna",
     "text": "There is a solar simulator, to help you plan panels on your own roof.",
-    "t": 344.83
+    "t": 318.1
    },
    {
     "speaker": "Tom",
     "text": "And a renovation planner, to help you think through the steps of a bigger project.",
-    "t": 349.69
+    "t": 322.13
    },
    {
     "speaker": "Anna",
     "text": "These tools are free to use, and they help you get a clearer picture before you spend any money.",
-    "t": 354.8
+    "t": 326.73
    },
    {
     "speaker": "Tom",
     "text": "Here's a question many people have.",
-    "t": 360.6
+    "t": 332.35
    },
    {
     "speaker": "Tom",
     "text": "How do I find a good, trustworthy professional to do the work?",
-    "t": 363.57
+    "t": 333.98
    },
    {
     "speaker": "Anna",
     "text": "Klima-Agence has a network of certified advisors and professionals you can look for.",
-    "t": 368.04
+    "t": 337.82
    },
    {
     "speaker": "Tom",
     "text": "So you are not just left alone to guess who is reliable.",
-    "t": 373.48
+    "t": 343
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about something I really admire about them... inclusion.",
-    "t": 377.32
+    "t": 345.86
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 381.8
-   },
-   {
-    "speaker": "Tom",
-    "text": "Their advice is meant for everyone, whatever your language, your budget, or your background.",
-    "t": 383.46
+    "text": "Yes. Their advice is meant for everyone, whatever your language, your budget, or your background.",
+    "t": 350.13
    },
    {
     "speaker": "Anna",
     "text": "And they pay special attention to people who need the most help.",
-    "t": 389.15
+    "t": 355.77
    },
    {
     "speaker": "Tom",
     "text": "For example, if energy bills are becoming hard to pay, there is support available, including through social welfare offices.",
-    "t": 393.17
+    "t": 359.37
    },
    {
     "speaker": "Anna",
     "text": "So this is not only for people building big new houses.",
-    "t": 400.74
+    "t": 366.25
    },
    {
     "speaker": "Anna",
     "text": "It is for renters, for families on a tight budget, for everyone.",
-    "t": 404.63
+    "t": 369.52
    },
    {
     "speaker": "Tom",
     "text": "Now, there's an important warning we should pass on, about trust.",
-    "t": 409.45
+    "t": 373.94
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 413.93
-   },
-   {
-    "speaker": "Anna",
-    "text": "Klima-Agence never allows private companies to use its name or its logo to sell their products.",
-    "t": 415.62
+    "text": "Yes. Klima-Agence never allows private companies to use its name or its logo to sell their products.",
+    "t": 377.59
    },
    {
     "speaker": "Tom",
     "text": "So if you see an advert or a message using the Klima-Agence name to push a sale, be careful... it is not them.",
-    "t": 421.59
+    "t": 384.42
    },
    {
     "speaker": "Anna",
     "text": "The real Klima-Agence gives free, neutral advice.",
-    "t": 428.1
+    "t": 391.91
    },
    {
     "speaker": "Anna",
     "text": "It does not run sales campaigns through other companies.",
-    "t": 432.05
+    "t": 395.3
    },
    {
     "speaker": "Tom",
     "text": "If in doubt, contact Klima-Agence directly, using the official phone number or website.",
-    "t": 435.94
+    "t": 398.77
    },
    {
     "speaker": "Anna",
     "text": "So Tom, let's make this really practical.",
-    "t": 441.91
+    "t": 404.16
    },
    {
     "speaker": "Anna",
     "text": "How should someone actually use Klima-Agence?",
-    "t": 445.51
+    "t": 406.71
    },
    {
     "speaker": "Tom",
     "text": "First... before you start any energy project, get free advice.",
-    "t": 448.81
+    "t": 410.06
    },
    {
     "speaker": "Tom",
     "text": "Ask your questions before you spend.",
-    "t": 453.52
+    "t": 414.11
    },
    {
     "speaker": "Anna",
     "text": "Second... use the online simulators to understand the subsidies and plan your solar or renovation.",
-    "t": 456.56
+    "t": 416.39
    },
    {
     "speaker": "Tom",
     "text": "Third... let them help you find the right grants, like the Klimabonus, so you don't miss any support.",
-    "t": 463.05
+    "t": 423
    },
    {
     "speaker": "Anna",
     "text": "Fourth... look for a certified professional for the actual work.",
-    "t": 469.22
+    "t": 429.05
    },
    {
     "speaker": "Tom",
     "text": "And fifth... remember it is free, independent, and on your side.",
-    "t": 473.75
+    "t": 433.46
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it all together.",
-    "t": 478.41
+    "t": 437.82
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about Klima-Agence?",
-    "t": 480.85
+    "t": 439.34
    },
    {
     "speaker": "Tom",
     "text": "First... it is Luxembourg's national agency for energy and climate, backed by the government.",
-    "t": 484.18
+    "t": 442.68
    },
    {
     "speaker": "Tom",
     "text": "It used to be called myenergy.",
-    "t": 490.22
+    "t": 447.9
    },
    {
     "speaker": "Anna",
     "text": "Second... it gives free, independent advice on insulation, building, heating, solar, and eco-mobility.",
-    "t": 493.06
+    "t": 449.72
    },
    {
     "speaker": "Tom",
     "text": "Third... it helps you find grants and subsidies, including the national Klimabonus scheme.",
-    "t": 500.73
+    "t": 458.6
    },
    {
     "speaker": "Anna",
     "text": "Fourth... you can reach an advisor by phone, by video, or at home, and use free online tools.",
-    "t": 506.41
+    "t": 464.31
    },
    {
     "speaker": "Tom",
     "text": "And fifth... be careful of anyone misusing their name to sell you something.",
-    "t": 513.45
+    "t": 470.86
    },
    {
     "speaker": "Tom",
     "text": "The real service is free.",
-    "t": 518.27
+    "t": 475.94
    },
    {
     "speaker": "Anna",
     "text": "Energy and climate can feel like huge, distant topics.",
-    "t": 520.8
+    "t": 477.9
    },
    {
     "speaker": "Anna",
     "text": "But they start at home, with small, doable steps.",
-    "t": 525.24
+    "t": 481.4
    },
    {
     "speaker": "Tom",
     "text": "And you don't have to figure it all out alone.",
-    "t": 529.26
+    "t": 485.2
    },
    {
     "speaker": "Tom",
     "text": "There is free, friendly, expert help waiting for you.",
-    "t": 532.66
+    "t": 487.46
    },
    {
     "speaker": "Anna",
-    "text": "Thank you so much for listening today.",
-    "t": 536.63
-   },
-   {
-    "speaker": "Tom",
-    "text": "Take care, and see you in the next episode.",
-    "t": 539.58
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 543.05
+    "text": "That was our episode about the Klima-Agence.",
+    "t": 491.42
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 544.73
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 493.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 502.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 521.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 527.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 530.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 534.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 535.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 537.96
    }
   ],
   "questions": [
@@ -55881,7 +55890,7 @@ const EPISODES = [
      "Luxembourg's national grant scheme for energy-efficient renovation, renewable heating, solar and electric mobility"
     ],
     "correct": 3,
-    "explanation": "The Klimabonus is the national state grant scheme. It supports energy-efficient renovation, sustainable construction, renewable heating, photovoltaic panels, soft mobility, electric vehicles and charging stations. Klima-Agence helps you find which grants apply."
+    "explanation": "The Klimabonus is the national state grant scheme. It supports energy-efficient renovation, renewable heating such as heat pumps, solar panels and batteries, electric vehicles and charging stations. It was renewed in 2026, for most projects until 2030. Klima-Agence helps you find which grants apply."
    },
    {
     "text": "If you see an advert using the Klima-Agence name to sell you a product, what should you assume?",
@@ -55954,7 +55963,7 @@ const EPISODES = [
      "Le régime national d'aides du Luxembourg pour la rénovation énergétique, le chauffage renouvelable, le solaire et la mobilité électrique"
     ],
     "correct": 3,
-    "explanation": "Le Klimabonus est le régime national d'aides de l'État. Il soutient la rénovation énergétique, la construction durable, le chauffage renouvelable, les panneaux photovoltaïques, la mobilité douce, les véhicules électriques et les bornes de recharge. La Klima-Agence vous aide à trouver les aides qui s'appliquent."
+    "explanation": "Le Klimabonus est le régime national d'aides de l'État. Il soutient la rénovation énergétique, le chauffage renouvelable comme les pompes à chaleur, les panneaux photovoltaïques et les batteries, les véhicules électriques et les bornes de recharge. Il a été renouvelé en 2026, pour la plupart des projets jusqu'en 2030. La Klima-Agence vous aide à trouver les aides qui s'appliquent."
    },
    {
     "text": "Si vous voyez une publicité utilisant le nom de la Klima-Agence pour vous vendre un produit, que devez-vous supposer ?",
@@ -56023,7 +56032,7 @@ const EPISODES = [
      "Das nationale Förderprogramm Luxemburgs für energetische Sanierung, erneuerbares Heizen, Solar und Elektromobilität"
     ],
     "correct": 3,
-    "explanation": "Der Klimabonus ist das nationale staatliche Förderprogramm. Es unterstützt energetische Sanierung, nachhaltiges Bauen, erneuerbares Heizen, Photovoltaikanlagen, sanfte Mobilität, Elektrofahrzeuge und Ladestationen. Die Klima-Agence hilft Ihnen, die passenden Beihilfen zu finden."
+    "explanation": "Der Klimabonus ist das nationale staatliche Förderprogramm. Es unterstützt energetische Sanierung, erneuerbares Heizen wie Wärmepumpen, Photovoltaikanlagen und Batterien, Elektrofahrzeuge und Ladestationen. Es wurde 2026 erneuert, für die meisten Projekte bis 2030. Die Klima-Agence hilft Ihnen, die passenden Beihilfen zu finden."
    },
    {
     "text": "Wenn Sie eine Werbung sehen, die den Namen Klima-Agence verwendet, um Ihnen ein Produkt zu verkaufen, wovon sollten Sie ausgehen?",
@@ -56038,1671 +56047,1675 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_klima_fr.mp3",
-  "duration_fr": 589.27,
+  "duration_fr": 545.72,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "C'est un vrai plaisir de vous avoir avec nous aujourd'hui.",
-    "t": 3.09
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.93
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 9.51
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
-    "t": 12.97
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les travailleurs frontaliers, à se sentir davantage chez eux ici, et à profiter pleinement du pays.",
-    "t": 16.63
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et aujourd'hui, nous abordons un sujet qui préoccupe beaucoup de monde... l'énergie, le climat, et nos logements.",
-    "t": 26.23
+    "t": 23.07
    },
    {
     "speaker": "Anna",
-    "text": "Pensez-y.",
-    "t": 32.89
-   },
-   {
-    "speaker": "Anna",
-    "text": "Les factures de chauffage, l'isolation, les panneaux solaires, les voitures électriques, les aides... cela peut sembler beaucoup à comprendre.",
-    "t": 34.75
+    "text": "Pensez-y. Les factures de chauffage, l'isolation, les panneaux solaires, les voitures électriques, les aides... cela peut sembler beaucoup à comprendre.",
+    "t": 29.67
    },
    {
     "speaker": "Tom",
     "text": "Et cela paraît souvent coûteux, et compliqué.",
-    "t": 43.91
+    "t": 39.13
    },
    {
     "speaker": "Tom",
     "text": "Par où commencer ?",
-    "t": 47.39
+    "t": 41.69
    },
    {
     "speaker": "Anna",
     "text": "Eh bien, c'est exactement pour cela que l'organisation dont nous parlons aujourd'hui existe.",
-    "t": 49.34
+    "t": 43.1
    },
    {
     "speaker": "Anna",
     "text": "Elle s'appelle Klima-Agence.",
-    "t": 54.98
+    "t": 47.09
    },
    {
     "speaker": "Tom",
-    "text": "Klima-Agence.",
-    "t": 57.51
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le nom nous en dit déjà une partie... « Klima » signifie climat.",
-    "t": 59.53
+    "text": "Klima-Agence. Le nom nous en dit déjà une partie... « Klima » signifie climat.",
+    "t": 49.04
    },
    {
     "speaker": "Anna",
-    "text": "Oui.",
-    "t": 64.62
-   },
-   {
-    "speaker": "Anna",
-    "text": "Klima-Agence est le partenaire national du Luxembourg pour les questions d'énergie et de climat.",
-    "t": 66.1
+    "text": "Oui. Klima-Agence est le partenaire national du Luxembourg pour les questions d'énergie et de climat.",
+    "t": 54.27
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qu'est-ce que c'est exactement ?",
-    "t": 71.83
+    "t": 58.83
    },
    {
     "speaker": "Tom",
     "text": "Est-ce une entreprise ?",
-    "t": 74.89
+    "t": 61.13
    },
    {
     "speaker": "Anna",
     "text": "Pas une entreprise privée au sens habituel.",
-    "t": 77.02
+    "t": 62.66
    },
    {
     "speaker": "Anna",
     "text": "C'est une organisation d'intérêt public, soutenue par le gouvernement luxembourgeois.",
-    "t": 80.38
+    "t": 64.9
    },
    {
     "speaker": "Tom",
-    "text": "Plusieurs ministères se trouvent derrière elle... le Ministère de l'Économie, le Ministère de l'Environnement et du Climat, et le Ministère du Logement.",
-    "t": 85.95
+    "text": "Plusieurs ministères se trouvent derrière elle... le Ministère de l'Économie, le Ministère de l'Environnement, du Climat et de la Biodiversité, et le Ministère du Logement et de l'Aménagement du territoire.",
+    "t": 69.11
    },
    {
     "speaker": "Anna",
     "text": "Et elle travaille avec des organismes professionnels, comme la Chambre des Métiers, et l'association des architectes et ingénieurs-conseils.",
-    "t": 93.9
+    "t": 80.65
    },
    {
     "speaker": "Tom",
     "text": "Voici un détail dont certaines personnes se souviennent.",
-    "t": 101.92
+    "t": 87.35
    },
    {
     "speaker": "Tom",
     "text": "Jusqu'en 2022, Klima-Agence portait un autre nom... elle s'appelait myenergy.",
-    "t": 105.61
+    "t": 90.27
    },
    {
     "speaker": "Anna",
     "text": "Donc si vous avez entendu parler de myenergy par le passé, c'est la même organisation, avec un nouveau nom et une mission plus large.",
-    "t": 110.98
+    "t": 95.38
    },
    {
     "speaker": "Tom",
     "text": "Et quelle est cette mission, exactement ?",
-    "t": 118.95
+    "t": 101.82
    },
    {
     "speaker": "Anna",
     "text": "Accompagner l'ensemble de la société dans la protection du climat et dans la transition énergétique.",
-    "t": 122.04
+    "t": 104.05
    },
    {
     "speaker": "Tom",
     "text": "La transition énergétique... s'éloigner des énergies fossiles, vers une énergie plus propre et plus efficace.",
-    "t": 128.04
+    "t": 109.03
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg s'est fixé des objectifs nationaux pour 2030... utiliser davantage d'énergies renouvelables, utiliser l'énergie de manière plus efficace, et réduire les émissions de gaz à effet de serre.",
-    "t": 134.72
+    "t": 116.02
    },
    {
     "speaker": "Tom",
     "text": "Et Klima-Agence aide à mettre en pratique ces grands objectifs nationaux, dans de vrais logements et de vraies vies.",
-    "t": 147.36
+    "t": 126.17
    },
    {
     "speaker": "Anna",
     "text": "Mais voici la partie que je veux vraiment que les gens entendent.",
-    "t": 153.18
+    "t": 132.73
    },
    {
     "speaker": "Anna",
     "text": "Les conseils qu'ils donnent aux citoyens sont gratuits.",
-    "t": 157.09
+    "t": 135.42
    },
    {
     "speaker": "Tom",
-    "text": "Gratuits, oui.",
-    "t": 160.73
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et tout aussi important... ils sont indépendants.",
-    "t": 162.92
+    "text": "Gratuits, oui. Et tout aussi important... ils sont indépendants.",
+    "t": 138.21
    },
    {
     "speaker": "Anna",
     "text": "Cela signifie qu'ils n'essaient pas de vous vendre une chaudière, ou une marque particulière de panneaux solaires.",
-    "t": 166.39
+    "t": 141.95
    },
    {
     "speaker": "Tom",
     "text": "Ils vous donnent des conseils neutres, d'experts, dans votre intérêt.",
-    "t": 172.83
+    "t": 146.63
    },
    {
     "speaker": "Tom",
     "text": "Le service est financé par Klima-Agence elle-même.",
-    "t": 177.07
+    "t": 150.26
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez donc poser vos questions en toute honnêteté, et obtenir une réponse honnête.",
-    "t": 180.64
+    "t": 153.42
    },
    {
     "speaker": "Anna",
     "text": "C'est rare et précieux.",
-    "t": 186.28
+    "t": 157.56
    },
    {
     "speaker": "Tom",
     "text": "Alors, comment une personne ordinaire obtient-elle concrètement ces conseils ?",
-    "t": 188.37
+    "t": 159.04
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez prendre rendez-vous avec un conseiller.",
-    "t": 193.03
+    "t": 163.34
    },
    {
     "speaker": "Anna",
     "text": "Selon votre projet, cela peut se faire à votre domicile, par vidéo, ou par téléphone.",
-    "t": 196.45
+    "t": 165.72
    },
    {
     "speaker": "Tom",
     "text": "Ou vous pouvez tout simplement appeler directement un conseiller.",
-    "t": 202.87
+    "t": 170.51
    },
    {
     "speaker": "Tom",
     "text": "Le numéro est le 8-0-0-2, 1-1, 9-0.",
-    "t": 206.64
+    "t": 173.5
    },
    {
     "speaker": "Anna",
     "text": "Et les conseillers sont disponibles du lundi au vendredi, le matin et l'après-midi.",
-    "t": 211.04
+    "t": 177.64
    },
    {
     "speaker": "Tom",
     "text": "Parlons de ce avec quoi ils peuvent réellement vous aider.",
-    "t": 216.52
+    "t": 182.05
    },
    {
     "speaker": "Tom",
     "text": "Quels types de projets ?",
-    "t": 219.83
+    "t": 185.06
    },
    {
     "speaker": "Anna",
-    "text": "Assez variés.",
-    "t": 221.92
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le premier grand sujet, c'est l'isolation de votre logement.",
-    "t": 223.8
+    "text": "Assez variés. Le premier grand sujet, c'est l'isolation de votre logement.",
+    "t": 186.55
    },
    {
     "speaker": "Tom",
     "text": "Une bonne isolation, c'est un logement plus chaud en hiver, plus frais en été, et des factures de chauffage moins élevées.",
-    "t": 228
+    "t": 190.33
    },
    {
     "speaker": "Anna",
     "text": "Le deuxième, c'est construire un nouveau logement de manière durable... un logement qui consomme moins d'énergie dès le départ.",
-    "t": 235.11
+    "t": 196.95
    },
    {
     "speaker": "Tom",
     "text": "Le troisième, c'est se chauffer avec des énergies renouvelables.",
-    "t": 242.48
+    "t": 202.74
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, une pompe à chaleur qui puise la chaleur de l'air ou du sol.",
-    "t": 246.63
+    "t": 205.98
    },
    {
     "speaker": "Anna",
     "text": "Au lieu de brûler du mazout ou du gaz, vous utilisez le soleil et la terre.",
-    "t": 251.21
+    "t": 210.04
    },
    {
     "speaker": "Anna",
     "text": "C'est plus propre, et avec le temps, souvent moins cher.",
-    "t": 256.38
+    "t": 213.61
    },
    {
     "speaker": "Tom",
     "text": "Le quatrième, c'est produire votre propre électricité propre, avec des panneaux solaires sur votre toit.",
-    "t": 260.49
+    "t": 216.67
    },
    {
     "speaker": "Anna",
     "text": "Ces panneaux photovoltaïques transforment la lumière du soleil en électricité, que vous pouvez utiliser chez vous ou injecter dans le réseau.",
-    "t": 266.62
+    "t": 222.02
    },
    {
     "speaker": "Tom",
     "text": "Le cinquième, c'est l'écomobilité... des façons plus écologiques de se déplacer, comme les véhicules électriques et les bornes de recharge.",
-    "t": 274.59
+    "t": 228.77
    },
    {
     "speaker": "Anna",
     "text": "Et le sixième est plus simple que tous les autres... tout simplement consommer moins d'énergie dans vos habitudes quotidiennes.",
-    "t": 282.52
+    "t": 236.82
    },
    {
     "speaker": "Tom",
     "text": "De petits changements, chaque jour, qui sont bons pour la planète et bons pour votre portefeuille.",
-    "t": 289.16
+    "t": 242.72
    },
    {
     "speaker": "Anna",
     "text": "Donc que votre projet soit grand ou petit, il existe un accompagnement pour lui.",
-    "t": 294.94
+    "t": 248.49
    },
    {
     "speaker": "Tom",
     "text": "Maintenant Anna, parlons d'argent, car ces projets peuvent être coûteux.",
-    "t": 300.26
+    "t": 252.56
    },
    {
     "speaker": "Anna",
-    "text": "En effet.",
-    "t": 304.97
-   },
-   {
-    "speaker": "Anna",
-    "text": "Mais la bonne nouvelle, c'est qu'il existe de nombreuses aides et subventions disponibles.",
-    "t": 306.64
+    "text": "En effet. Mais la bonne nouvelle, c'est qu'il existe de nombreuses aides et subventions disponibles.",
+    "t": 256.55
    },
    {
     "speaker": "Tom",
     "text": "Et c'est un autre domaine où Klima-Agence aide vraiment.",
-    "t": 312.16
+    "t": 261.85
    },
    {
     "speaker": "Tom",
     "text": "Ils vous guident à travers les soutiens financiers.",
-    "t": 315.49
+    "t": 264.91
    },
    {
     "speaker": "Anna",
     "text": "Il y a des subventions de l'État, de votre commune, et parfois même des fournisseurs d'énergie.",
-    "t": 318.69
+    "t": 267.74
    },
    {
     "speaker": "Tom",
     "text": "Garder une trace de tout cela serait un cauchemar tout seul.",
-    "t": 324.8
+    "t": 272.28
    },
    {
     "speaker": "Anna",
     "text": "C'est pourquoi Klima-Agence vous aide à comprendre quelles aides s'appliquent à votre projet.",
-    "t": 328.73
+    "t": 276.03
    },
    {
     "speaker": "Tom",
     "text": "Il existe même un simulateur d'aides en ligne.",
-    "t": 333.81
+    "t": 280.41
    },
    {
     "speaker": "Tom",
     "text": "Vous saisissez votre projet, et il vous montre quel soutien vous pourriez recevoir.",
-    "t": 337.08
+    "t": 283.03
    },
    {
     "speaker": "Anna",
     "text": "Une grande partie de cela passe par le dispositif national d'aides appelé le Klimabonus.",
-    "t": 342.05
+    "t": 287.8
    },
    {
     "speaker": "Tom",
-    "text": "Le Klimabonus soutient des choses comme la rénovation énergétique, le chauffage renouvelable, les panneaux solaires, les véhicules électriques, et les bornes de recharge.",
-    "t": 347.45
+    "text": "Le Klimabonus soutient des choses comme la rénovation énergétique, le chauffage renouvelable comme les pompes à chaleur, les panneaux solaires et les batteries, les véhicules électriques, et les bornes de recharge.",
+    "t": 292.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et il a été renouvelé en 2026, pour la plupart des projets jusqu'en 2030.",
+    "t": 304.49
    },
    {
     "speaker": "Anna",
     "text": "Donc il couvre vraiment la plupart des projets dont nous venons de parler.",
-    "t": 356.86
+    "t": 310.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et pour les panneaux solaires, certaines entreprises peuvent même déduire la subvention directement de votre facture.",
+    "t": 313.35
    },
    {
     "speaker": "Tom",
     "text": "Y a-t-il d'autres outils sur leur site, au-delà du simulateur d'aides ?",
-    "t": 361.28
+    "t": 318.63
    },
    {
     "speaker": "Anna",
     "text": "Oui, certains très pratiques.",
-    "t": 365.59
+    "t": 322.32
    },
    {
     "speaker": "Anna",
     "text": "Il y a un simulateur solaire, pour vous aider à planifier des panneaux sur votre propre toit.",
-    "t": 368.34
+    "t": 324.03
    },
    {
     "speaker": "Tom",
     "text": "Et un planificateur de rénovation, pour vous aider à réfléchir aux étapes d'un projet plus important.",
-    "t": 374.05
+    "t": 328.33
    },
    {
     "speaker": "Anna",
     "text": "Ces outils sont gratuits à utiliser, et ils vous aident à y voir plus clair avant de dépenser le moindre euro.",
-    "t": 379.94
+    "t": 334.2
    },
    {
     "speaker": "Tom",
     "text": "Voici une question que beaucoup de gens se posent.",
-    "t": 386.29
+    "t": 339.52
    },
    {
     "speaker": "Tom",
     "text": "Comment trouver un bon professionnel, fiable, pour réaliser les travaux ?",
-    "t": 389.75
+    "t": 341.96
    },
    {
     "speaker": "Anna",
     "text": "Klima-Agence dispose d'un réseau de conseillers et de professionnels certifiés que vous pouvez rechercher.",
-    "t": 394.55
+    "t": 346.24
    },
    {
     "speaker": "Tom",
     "text": "Vous n'êtes donc pas laissé seul à deviner qui est fiable.",
-    "t": 400.7
+    "t": 351.34
    },
    {
     "speaker": "Anna",
     "text": "Parlons de quelque chose que j'admire vraiment chez eux... l'inclusion.",
-    "t": 404.18
+    "t": 354.47
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 408.65
-   },
-   {
-    "speaker": "Tom",
-    "text": "Leurs conseils sont destinés à tout le monde, quelle que soit votre langue, votre budget, ou votre parcours.",
-    "t": 410.11
+    "text": "Oui. Leurs conseils sont destinés à tout le monde, quelle que soit votre langue, votre budget, ou votre parcours.",
+    "t": 358.29
    },
    {
     "speaker": "Anna",
     "text": "Et ils accordent une attention particulière aux personnes qui ont le plus besoin d'aide.",
-    "t": 416.73
+    "t": 364.45
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, si les factures d'énergie deviennent difficiles à payer, un soutien est disponible, notamment par l'intermédiaire des offices sociaux.",
-    "t": 421.72
+    "t": 368.3
    },
    {
     "speaker": "Anna",
     "text": "Donc ce n'est pas seulement pour les personnes qui construisent de grandes maisons neuves.",
-    "t": 429.94
+    "t": 376.38
    },
    {
     "speaker": "Anna",
     "text": "C'est pour les locataires, pour les familles au budget serré, pour tout le monde.",
-    "t": 434.65
+    "t": 380.07
    },
    {
     "speaker": "Tom",
     "text": "Maintenant, il y a un avertissement important que nous devrions transmettre, à propos de la confiance.",
-    "t": 439.8
+    "t": 383.77
    },
    {
     "speaker": "Anna",
-    "text": "Oui.",
-    "t": 445.84
-   },
-   {
-    "speaker": "Anna",
-    "text": "Klima-Agence n'autorise jamais des entreprises privées à utiliser son nom ou son logo pour vendre leurs produits.",
-    "t": 447.33
+    "text": "Oui. Klima-Agence n'autorise jamais des entreprises privées à utiliser son nom ou son logo pour vendre leurs produits.",
+    "t": 389.22
    },
    {
     "speaker": "Tom",
     "text": "Donc si vous voyez une publicité ou un message utilisant le nom Klima-Agence pour pousser une vente, soyez prudent... ce n'est pas eux.",
-    "t": 453.9
+    "t": 394.81
    },
    {
     "speaker": "Anna",
     "text": "La véritable Klima-Agence donne des conseils gratuits et neutres.",
-    "t": 461.3
+    "t": 402.26
    },
    {
     "speaker": "Anna",
     "text": "Elle ne mène pas de campagnes de vente à travers d'autres entreprises.",
-    "t": 465.74
+    "t": 405.61
    },
    {
     "speaker": "Tom",
     "text": "En cas de doute, contactez directement Klima-Agence, en utilisant le numéro de téléphone ou le site officiel.",
-    "t": 470.07
+    "t": 408.91
    },
    {
     "speaker": "Anna",
     "text": "Alors Tom, rendons cela très concret.",
-    "t": 476.91
+    "t": 415.57
    },
    {
     "speaker": "Anna",
     "text": "Comment quelqu'un devrait-il réellement utiliser Klima-Agence ?",
-    "t": 480.28
+    "t": 417.41
    },
    {
     "speaker": "Tom",
     "text": "D'abord... avant de commencer tout projet énergétique, obtenez des conseils gratuits.",
-    "t": 484.37
+    "t": 420.6
    },
    {
     "speaker": "Tom",
     "text": "Posez vos questions avant de dépenser.",
-    "t": 489.76
+    "t": 425.44
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... utilisez les simulateurs en ligne pour comprendre les aides et planifier votre projet solaire ou de rénovation.",
-    "t": 492.69
+    "t": 427.73
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... laissez-les vous aider à trouver les bonnes aides, comme le Klimabonus, pour ne manquer aucun soutien.",
-    "t": 499.87
+    "t": 433.82
    },
    {
     "speaker": "Anna",
     "text": "Quatrièmement... cherchez un professionnel certifié pour les travaux eux-mêmes.",
-    "t": 506.2
+    "t": 440.16
    },
    {
     "speaker": "Tom",
     "text": "Et cinquièmement... rappelez-vous que c'est gratuit, indépendant, et de votre côté.",
-    "t": 511.06
+    "t": 444.5
    },
    {
     "speaker": "Anna",
     "text": "Rassemblons tout cela.",
-    "t": 516.44
+    "t": 449.33
    },
    {
     "speaker": "Anna",
     "text": "Que devraient retenir les gens à propos de Klima-Agence ?",
-    "t": 518.63
+    "t": 450.68
    },
    {
     "speaker": "Tom",
     "text": "Premièrement... c'est l'agence nationale du Luxembourg pour l'énergie et le climat, soutenue par le gouvernement.",
-    "t": 522.29
+    "t": 453.39
    },
    {
     "speaker": "Tom",
     "text": "Elle s'appelait autrefois myenergy.",
-    "t": 528.56
+    "t": 459.54
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... elle donne des conseils gratuits et indépendants sur l'isolation, la construction, le chauffage, le solaire, et l'écomobilité.",
-    "t": 531.22
+    "t": 462.45
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... elle vous aide à trouver des aides et des subventions, y compris le dispositif national Klimabonus.",
-    "t": 540.42
+    "t": 469.82
    },
    {
     "speaker": "Anna",
     "text": "Quatrièmement... vous pouvez joindre un conseiller par téléphone, par vidéo, ou à domicile, et utiliser des outils en ligne gratuits.",
-    "t": 546.88
+    "t": 476.5
    },
    {
     "speaker": "Tom",
     "text": "Et cinquièmement... méfiez-vous de quiconque utilise abusivement leur nom pour vous vendre quelque chose.",
-    "t": 555.39
+    "t": 483.45
    },
    {
     "speaker": "Tom",
     "text": "Le vrai service est gratuit.",
-    "t": 560.94
+    "t": 488.87
    },
    {
     "speaker": "Anna",
     "text": "L'énergie et le climat peuvent sembler des sujets immenses et lointains.",
-    "t": 563.45
+    "t": 490.86
    },
    {
     "speaker": "Anna",
     "text": "Mais ils commencent à la maison, par de petits pas réalisables.",
-    "t": 567.75
+    "t": 494.2
    },
    {
     "speaker": "Tom",
     "text": "Et vous n'avez pas à tout comprendre seul.",
-    "t": 571.99
+    "t": 497.55
    },
    {
     "speaker": "Tom",
     "text": "Une aide gratuite, bienveillante et experte vous attend.",
-    "t": 574.9
+    "t": 499.75
    },
    {
     "speaker": "Anna",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 578.65
-   },
-   {
-    "speaker": "Tom",
-    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
-    "t": 582.12
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 586.14
+    "text": "C'était notre épisode sur la Klima-Agence.",
+    "t": 503.14
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 587.66
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 505.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 512.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 529.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 534.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 535.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 540.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 541.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 543.94
    }
   ],
   "audio_de": "podcast_klima_de.mp3",
-  "duration_de": 671.18,
+  "duration_de": 624.59,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Es ist wunderbar, dass Sie heute bei uns sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 7.06
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 9.13
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 12.52
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnerinnen und Einwohnern, und auch den Grenzgängern, helfen, sich hier mehr zu Hause zu fühlen und das Beste aus dem Land zu machen.",
-    "t": 16.9
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und heute schauen wir uns ein Thema an, das vielen am Herzen liegt... Energie, das Klima und unsere Wohnungen.",
-    "t": 28.12
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Denken Sie nur einmal nach.",
-    "t": 36.09
+    "t": 34.76
    },
    {
     "speaker": "Anna",
     "text": "Heizkosten, Dämmung, Solarmodule, Elektroautos, Beihilfen... das kann sich nach sehr viel anfühlen, das man verstehen muss.",
-    "t": 38.62
+    "t": 36.45
    },
    {
     "speaker": "Tom",
     "text": "Und es wirkt oft teuer und kompliziert.",
-    "t": 48.24
+    "t": 47.58
    },
    {
     "speaker": "Tom",
     "text": "Wo soll man überhaupt anfangen?",
-    "t": 51.46
+    "t": 50.14
    },
    {
     "speaker": "Anna",
     "text": "Nun, genau deshalb gibt es die Organisation, um die es heute geht.",
-    "t": 54.43
+    "t": 52.01
    },
    {
     "speaker": "Anna",
     "text": "Sie heißt Klima-Agence.",
-    "t": 60.03
+    "t": 56.08
    },
    {
     "speaker": "Tom",
-    "text": "Klima-Agence.",
-    "t": 62.69
-   },
-   {
-    "speaker": "Tom",
-    "text": "Der Name verrät uns schon einen Teil der Geschichte... „Klima\" bedeutet Klima.",
-    "t": 64.78
+    "text": "Klima-Agence. Der Name verrät uns schon einen Teil der Geschichte... „Klima\" bedeutet Klima.",
+    "t": 57.93
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 70.84
-   },
-   {
-    "speaker": "Anna",
-    "text": "Die Klima-Agence ist Luxemburgs nationaler Partner für Energie- und Klimafragen.",
-    "t": 72.17
+    "text": "Ja. Die Klima-Agence ist Luxemburgs nationaler Partner für Energie- und Klimafragen.",
+    "t": 64.14
    },
    {
     "speaker": "Tom",
     "text": "Also, Anna, was genau ist das?",
-    "t": 78.43
+    "t": 70.18
    },
    {
     "speaker": "Tom",
     "text": "Ist es ein Unternehmen?",
-    "t": 81.78
+    "t": 72.33
    },
    {
     "speaker": "Anna",
     "text": "Kein privates Unternehmen im üblichen Sinne.",
-    "t": 84.16
+    "t": 73.93
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine Organisation im öffentlichen Interesse, die von der luxemburgischen Regierung unterstützt wird.",
-    "t": 87.95
+    "t": 76.75
    },
    {
     "speaker": "Tom",
     "text": "Mehrere Ministerien stehen dahinter... das Wirtschaftsministerium, das Ministerium für Umwelt, Klima und Biodiversität und das Ministerium für Wohnungsbau und Raumordnung.",
-    "t": 95.28
+    "t": 82.85
    },
    {
     "speaker": "Anna",
     "text": "Und sie arbeitet mit Berufsverbänden zusammen, wie der Chambre des Métiers (Handwerkskammer) und dem Verband der Architekten und beratenden Ingenieure.",
-    "t": 106.66
+    "t": 94.23
    },
    {
     "speaker": "Tom",
     "text": "Hier ist ein Detail, an das sich manche Menschen erinnern.",
-    "t": 116.65
+    "t": 102.69
    },
    {
     "speaker": "Tom",
     "text": "Bis 2022 hatte die Klima-Agence einen anderen Namen... sie hieß myenergy.",
-    "t": 120.74
+    "t": 105.87
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie also früher schon einmal von myenergy gehört haben, dann ist das dieselbe Organisation, mit einem neuen Namen und einem breiteren Auftrag.",
-    "t": 127.02
+    "t": 112.1
    },
    {
     "speaker": "Tom",
     "text": "Und was genau ist dieser Auftrag?",
-    "t": 136.73
+    "t": 120.61
    },
    {
     "speaker": "Anna",
     "text": "Die gesamte Gesellschaft beim Klimaschutz und bei der Energiewende zu unterstützen.",
-    "t": 139.62
+    "t": 122.9
    },
    {
     "speaker": "Tom",
     "text": "Die Energiewende... weg von fossilen Brennstoffen, hin zu saubererer, effizienterer Energie.",
-    "t": 145.3
+    "t": 127.5
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg hat sich nationale Ziele für 2030 gesetzt... mehr erneuerbare Energie zu nutzen, Energie effizienter zu nutzen und die Treibhausgasemissionen zu senken.",
-    "t": 151.65
+    "t": 134.04
    },
    {
     "speaker": "Tom",
     "text": "Und die Klima-Agence hilft dabei, diese großen nationalen Ziele in die Praxis umzusetzen, in echten Wohnungen und im echten Leben.",
-    "t": 163.92
+    "t": 144.65
    },
    {
     "speaker": "Anna",
     "text": "Aber hier ist der Teil, den ich den Menschen wirklich ans Herz legen möchte.",
-    "t": 172.47
+    "t": 152.81
    },
    {
     "speaker": "Anna",
     "text": "Die Beratung, die sie den Bürgerinnen und Bürgern geben, ist kostenlos.",
-    "t": 177.71
+    "t": 156.89
    },
    {
     "speaker": "Tom",
-    "text": "Kostenlos, ja.",
-    "t": 183.24
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und genauso wichtig... sie ist unabhängig.",
-    "t": 185.61
+    "text": "Kostenlos, ja. Und genauso wichtig... sie ist unabhängig.",
+    "t": 161.17
    },
    {
     "speaker": "Anna",
     "text": "Das bedeutet, sie versuchen nicht, Ihnen einen Heizkessel oder eine bestimmte Marke von Solarmodulen zu verkaufen.",
-    "t": 189.16
+    "t": 165.08
    },
    {
     "speaker": "Tom",
     "text": "Sie geben Ihnen neutrale, fachkundige Beratung, in Ihrem Interesse.",
-    "t": 197.09
+    "t": 171.47
    },
    {
     "speaker": "Tom",
     "text": "Der Dienst wird von der Klima-Agence selbst finanziert.",
-    "t": 202.25
+    "t": 175.69
    },
    {
     "speaker": "Anna",
     "text": "Sie können Ihre Fragen also ehrlich stellen und bekommen eine ehrliche Antwort.",
-    "t": 206.29
+    "t": 179.36
    },
    {
     "speaker": "Anna",
     "text": "Das ist selten und wertvoll.",
-    "t": 211.73
+    "t": 183.81
    },
    {
     "speaker": "Tom",
     "text": "Wie bekommt ein normaler Mensch diese Beratung denn nun konkret?",
-    "t": 214.52
+    "t": 186.17
    },
    {
     "speaker": "Anna",
     "text": "Sie können einen Termin mit einer Beraterin oder einem Berater vereinbaren.",
-    "t": 219.12
+    "t": 190
    },
    {
     "speaker": "Anna",
     "text": "Je nach Ihrem Projekt kann das bei Ihnen zu Hause, per Video oder per Telefon stattfinden.",
-    "t": 224.58
+    "t": 194.39
    },
    {
     "speaker": "Tom",
     "text": "Oder Sie können einfach direkt einen Berater anrufen.",
-    "t": 231.31
+    "t": 199.79
    },
    {
     "speaker": "Tom",
     "text": "Die Nummer lautet 8-0-0-2, 1-1, 9-0.",
-    "t": 235.35
+    "t": 202.67
    },
    {
     "speaker": "Anna",
     "text": "Und die Beraterinnen und Berater sind von Montag bis Freitag erreichbar, vormittags und nachmittags.",
-    "t": 239.95
+    "t": 207.01
    },
    {
     "speaker": "Tom",
     "text": "Lassen Sie uns darüber sprechen, wobei sie Ihnen konkret helfen können.",
-    "t": 247.04
+    "t": 213.38
    },
    {
     "speaker": "Tom",
     "text": "Bei welchen Arten von Projekten?",
-    "t": 251.9
+    "t": 217.23
    },
    {
     "speaker": "Anna",
     "text": "Bei einer ganzen Reihe.",
-    "t": 254.83
+    "t": 219.21
    },
    {
     "speaker": "Anna",
     "text": "Das erste große Thema ist die Dämmung Ihrer Wohnung.",
-    "t": 257.2
+    "t": 220.7
    },
    {
     "speaker": "Tom",
     "text": "Gute Dämmung bedeutet eine wärmere Wohnung im Winter, eine kühlere Wohnung im Sommer und niedrigere Heizkosten.",
-    "t": 261.22
+    "t": 223.78
    },
    {
     "speaker": "Anna",
     "text": "Das zweite ist der Bau eines neuen Hauses auf nachhaltige Weise... ein Haus, das von Anfang an weniger Energie verbraucht.",
-    "t": 268.37
+    "t": 230.86
    },
    {
     "speaker": "Tom",
     "text": "Das dritte ist das Heizen mit erneuerbarer Energie.",
-    "t": 276.84
+    "t": 238.59
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel eine Wärmepumpe, die Wärme aus der Luft oder dem Boden gewinnt.",
-    "t": 280.52
+    "t": 241.88
    },
    {
     "speaker": "Anna",
     "text": "Statt Öl oder Gas zu verbrennen, nutzen Sie die Sonne und die Erde.",
-    "t": 285.67
+    "t": 246.3
    },
    {
     "speaker": "Anna",
     "text": "Das ist sauberer und mit der Zeit oft günstiger.",
-    "t": 290.87
+    "t": 250.34
    },
    {
     "speaker": "Tom",
     "text": "Das vierte ist, Ihren eigenen sauberen Strom zu erzeugen, mit Solarmodulen auf Ihrem Dach.",
-    "t": 294.62
+    "t": 253.71
    },
    {
     "speaker": "Anna",
     "text": "Diese Photovoltaikanlage wandelt Sonnenlicht in Strom um, den Sie zu Hause nutzen oder ins Netz einspeisen können.",
-    "t": 300.77
+    "t": 259.45
    },
    {
     "speaker": "Tom",
     "text": "Das fünfte ist die Ökomobilität... umweltfreundlichere Arten, sich fortzubewegen, wie Elektrofahrzeuge und Ladestationen.",
-    "t": 308.86
+    "t": 266.23
    },
    {
     "speaker": "Anna",
     "text": "Und das sechste ist einfacher als alle anderen... einfach im Alltag weniger Energie zu verbrauchen.",
-    "t": 317.08
+    "t": 274.09
    },
    {
     "speaker": "Tom",
     "text": "Kleine Veränderungen, jeden Tag, die gut für den Planeten und gut für den Geldbeutel sind.",
-    "t": 323.83
+    "t": 280.49
    },
    {
     "speaker": "Anna",
     "text": "Ob Ihr Projekt also groß oder klein ist, es gibt dafür eine Beratung.",
-    "t": 330.07
+    "t": 285.8
    },
    {
     "speaker": "Tom",
     "text": "Nun, Anna, lassen Sie uns über Geld sprechen, denn diese Projekte können teuer sein.",
-    "t": 335.46
+    "t": 290.16
    },
    {
     "speaker": "Anna",
     "text": "Das können sie.",
-    "t": 341.48
+    "t": 294.93
    },
    {
     "speaker": "Anna",
     "text": "Aber die gute Nachricht ist, dass es viele Beihilfen und Fördermittel gibt.",
-    "t": 343.55
+    "t": 296.06
    },
    {
     "speaker": "Tom",
     "text": "Und das ist eine weitere Stelle, an der die Klima-Agence wirklich hilft.",
-    "t": 349.05
+    "t": 300.3
    },
    {
     "speaker": "Tom",
     "text": "Sie führt Sie durch die finanzielle Unterstützung.",
-    "t": 353.92
+    "t": 304.24
    },
    {
     "speaker": "Anna",
     "text": "Es gibt Fördermittel vom Staat, von Ihrer Gemeinde und manchmal sogar von Energieversorgern.",
-    "t": 357.29
+    "t": 307.06
    },
    {
     "speaker": "Tom",
     "text": "All das im Blick zu behalten, wäre allein ein Albtraum.",
-    "t": 363.84
+    "t": 312.2
    },
    {
     "speaker": "Anna",
     "text": "Deshalb hilft Ihnen die Klima-Agence zu verstehen, welche Beihilfen für Ihr Projekt gelten.",
-    "t": 368.15
+    "t": 315.72
    },
    {
     "speaker": "Tom",
     "text": "Es gibt sogar einen Online-Förderrechner.",
-    "t": 374.66
+    "t": 321.16
    },
    {
     "speaker": "Tom",
     "text": "Sie geben Ihr Projekt ein, und er zeigt Ihnen, welche Unterstützung Sie erhalten könnten.",
-    "t": 377.88
+    "t": 323.53
    },
    {
     "speaker": "Anna",
     "text": "Ein großer Teil davon ist das nationale Förderprogramm namens Klimabonus.",
-    "t": 383.96
+    "t": 328.39
    },
    {
     "speaker": "Tom",
-    "text": "Der Klimabonus unterstützt Dinge wie energieeffiziente Renovierung, erneuerbares Heizen, Solarmodule, Elektrofahrzeuge und Ladestationen.",
-    "t": 389.56
+    "text": "Der Klimabonus unterstützt Dinge wie energieeffiziente Renovierung, erneuerbares Heizen wie Wärmepumpen, Solarmodule und Batterien, Elektrofahrzeuge und Ladestationen.",
+    "t": 333.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und er wurde 2026 erneuert, für die meisten Projekte bis 2030.",
+    "t": 344.87
    },
    {
     "speaker": "Anna",
     "text": "Er deckt also wirklich die meisten der Projekte ab, über die wir gerade gesprochen haben.",
-    "t": 398.93
+    "t": 350.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und bei Solarmodulen können manche Firmen den Zuschuss sogar direkt von der Rechnung abziehen.",
+    "t": 354.89
    },
    {
     "speaker": "Tom",
     "text": "Gibt es noch andere Werkzeuge auf ihrer Website, außer dem Förderrechner?",
-    "t": 404.86
+    "t": 360.02
    },
    {
     "speaker": "Anna",
     "text": "Ja, einige sehr praktische.",
-    "t": 410.12
+    "t": 364.34
    },
    {
     "speaker": "Anna",
     "text": "Es gibt einen Solarrechner, der Ihnen hilft, Module auf Ihrem eigenen Dach zu planen.",
-    "t": 413.25
+    "t": 366.32
    },
    {
     "speaker": "Tom",
     "text": "Und einen Renovierungsplaner, der Ihnen hilft, die Schritte eines größeren Projekts zu durchdenken.",
-    "t": 419.72
+    "t": 371.27
    },
    {
     "speaker": "Anna",
     "text": "Diese Werkzeuge sind kostenlos nutzbar, und sie helfen Ihnen, ein klareres Bild zu bekommen, bevor Sie Geld ausgeben.",
-    "t": 426.34
+    "t": 377.1
    },
    {
     "speaker": "Tom",
     "text": "Hier ist eine Frage, die viele Menschen haben.",
-    "t": 434.84
+    "t": 383.93
    },
    {
     "speaker": "Tom",
     "text": "Wie finde ich eine gute, vertrauenswürdige Fachkraft, die die Arbeit ausführt?",
-    "t": 438.57
+    "t": 386.51
    },
    {
     "speaker": "Anna",
     "text": "Die Klima-Agence hat ein Netzwerk von zertifizierten Beraterinnen, Beratern und Fachleuten, nach denen Sie suchen können.",
-    "t": 444.37
+    "t": 391.09
    },
    {
     "speaker": "Tom",
     "text": "Sie sind also nicht einfach allein gelassen und müssen raten, wer zuverlässig ist.",
-    "t": 452.7
+    "t": 398.14
    },
    {
     "speaker": "Anna",
     "text": "Lassen Sie uns über etwas sprechen, das ich an ihnen wirklich bewundere... die Inklusion.",
-    "t": 458.18
+    "t": 402.72
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 464.42
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ihre Beratung ist für alle gedacht, ganz gleich, welche Sprache, welches Budget oder welche Herkunft Sie haben.",
-    "t": 465.91
+    "text": "Ja. Ihre Beratung ist für alle gedacht, ganz gleich, welche Sprache, welches Budget oder welche Herkunft Sie haben.",
+    "t": 408.03
    },
    {
     "speaker": "Anna",
     "text": "Und sie achten besonders auf die Menschen, die die meiste Hilfe brauchen.",
-    "t": 473.44
+    "t": 415.35
    },
    {
     "speaker": "Tom",
     "text": "Wenn zum Beispiel die Energierechnungen schwer zu bezahlen werden, gibt es Unterstützung, auch über die Sozialämter.",
-    "t": 478.32
+    "t": 419.07
    },
    {
     "speaker": "Anna",
     "text": "Das ist also nicht nur für Menschen, die große neue Häuser bauen.",
-    "t": 485.7
+    "t": 425.76
    },
    {
     "speaker": "Anna",
     "text": "Es ist für Mieterinnen und Mieter, für Familien mit knappem Budget, für alle.",
-    "t": 490.58
+    "t": 429.16
    },
    {
     "speaker": "Tom",
     "text": "Nun gibt es noch eine wichtige Warnung, die wir weitergeben sollten, zum Thema Vertrauen.",
-    "t": 496.54
+    "t": 434.19
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 502.35
-   },
-   {
-    "speaker": "Anna",
-    "text": "Die Klima-Agence erlaubt es privaten Unternehmen niemals, ihren Namen oder ihr Logo zu verwenden, um ihre Produkte zu verkaufen.",
-    "t": 503.68
+    "text": "Ja. Die Klima-Agence erlaubt es privaten Unternehmen niemals, ihren Namen oder ihr Logo zu verwenden, um ihre Produkte zu verkaufen.",
+    "t": 438.92
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie also eine Werbung oder eine Nachricht sehen, die den Namen Klima-Agence benutzt, um einen Verkauf anzukurbeln, seien Sie vorsichtig... das sind nicht sie.",
-    "t": 512.92
+    "t": 447.7
    },
    {
     "speaker": "Anna",
     "text": "Die echte Klima-Agence gibt kostenlose, neutrale Beratung.",
-    "t": 522.92
+    "t": 456.72
    },
    {
     "speaker": "Anna",
     "text": "Sie führt keine Verkaufskampagnen über andere Unternehmen durch.",
-    "t": 528.07
+    "t": 460.53
    },
    {
     "speaker": "Tom",
     "text": "Im Zweifelsfall wenden Sie sich direkt an die Klima-Agence, über die offizielle Telefonnummer oder Website.",
-    "t": 532.82
+    "t": 464.11
    },
    {
     "speaker": "Anna",
     "text": "Also, Tom, lassen Sie uns das wirklich praktisch machen.",
-    "t": 539.66
+    "t": 470.68
    },
    {
     "speaker": "Anna",
     "text": "Wie sollte jemand die Klima-Agence konkret nutzen?",
-    "t": 544.13
+    "t": 474.12
    },
    {
     "speaker": "Tom",
     "text": "Erstens... bevor Sie ein Energieprojekt beginnen, holen Sie sich kostenlose Beratung.",
-    "t": 548.24
+    "t": 477.28
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie Ihre Fragen, bevor Sie Geld ausgeben.",
-    "t": 554.12
+    "t": 483.15
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... nutzen Sie die Online-Rechner, um die Beihilfen zu verstehen und Ihre Solar- oder Renovierungsprojekte zu planen.",
-    "t": 558.14
+    "t": 485.98
    },
    {
     "speaker": "Tom",
     "text": "Drittens... lassen Sie sich von ihnen helfen, die richtigen Beihilfen zu finden, wie den Klimabonus, damit Ihnen keine Unterstützung entgeht.",
-    "t": 566.8
+    "t": 493.37
    },
    {
     "speaker": "Anna",
     "text": "Viertens... suchen Sie eine zertifizierte Fachkraft für die eigentliche Arbeit.",
-    "t": 575.66
+    "t": 502.05
    },
    {
     "speaker": "Tom",
     "text": "Und fünftens... denken Sie daran, es ist kostenlos, unabhängig und auf Ihrer Seite.",
-    "t": 581.35
+    "t": 507.37
    },
    {
     "speaker": "Anna",
     "text": "Lassen Sie uns alles zusammenführen.",
-    "t": 587.5
+    "t": 512.71
    },
    {
     "speaker": "Anna",
     "text": "Was sollten sich die Menschen über die Klima-Agence merken?",
-    "t": 590.63
+    "t": 514.86
    },
    {
     "speaker": "Tom",
     "text": "Erstens... sie ist Luxemburgs nationale Agentur für Energie und Klima, von der Regierung unterstützt.",
-    "t": 594.98
+    "t": 518.23
    },
    {
     "speaker": "Tom",
     "text": "Früher hieß sie myenergy.",
-    "t": 601.96
+    "t": 524.99
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... sie gibt kostenlose, unabhängige Beratung zu Dämmung, Bauen, Heizen, Solar und Ökomobilität.",
-    "t": 604.38
+    "t": 526.99
    },
    {
     "speaker": "Tom",
     "text": "Drittens... sie hilft Ihnen, Beihilfen und Fördermittel zu finden, einschließlich des nationalen Klimabonus-Programms.",
-    "t": 613.06
+    "t": 534.96
    },
    {
     "speaker": "Anna",
     "text": "Viertens... Sie können eine Beraterin oder einen Berater per Telefon, per Video oder zu Hause erreichen und kostenlose Online-Werkzeuge nutzen.",
-    "t": 620.77
+    "t": 542.67
    },
    {
     "speaker": "Tom",
     "text": "Und fünftens... seien Sie vorsichtig bei jedem, der ihren Namen missbraucht, um Ihnen etwas zu verkaufen.",
-    "t": 631.7
+    "t": 551.86
    },
    {
     "speaker": "Tom",
     "text": "Der echte Dienst ist kostenlos.",
-    "t": 638.63
+    "t": 558.72
    },
    {
     "speaker": "Anna",
     "text": "Energie und Klima können sich wie riesige, ferne Themen anfühlen.",
-    "t": 641.45
+    "t": 560.92
    },
    {
     "speaker": "Anna",
     "text": "Aber sie beginnen zu Hause, mit kleinen, machbaren Schritten.",
-    "t": 646.78
+    "t": 565.18
    },
    {
     "speaker": "Tom",
     "text": "Und Sie müssen das nicht alles allein herausfinden.",
-    "t": 651.68
+    "t": 568.95
    },
    {
     "speaker": "Tom",
     "text": "Es wartet kostenlose, freundliche, fachkundige Hilfe auf Sie.",
-    "t": 655.3
+    "t": 571.61
    },
    {
     "speaker": "Anna",
-    "text": "Vielen herzlichen Dank, dass Sie heute zugehört haben.",
-    "t": 660.12
-   },
-   {
-    "speaker": "Tom",
-    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
-    "t": 664.32
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 668.14
+    "text": "Das war unsere Folge über die Klima-Agence.",
+    "t": 575.62
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 669.71
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 578.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 587.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 605.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 611.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 613.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 618.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 619.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 623.05
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm zréck! Et ass eng Freed, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.73
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger hëllefen, sech hei méi doheem ze fillen, an d'Beschte vum Land erauszehuelen.",
-    "t": 7.77
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An haut kucke mer op en Thema, dat ville Leit am Kapp ass... d'Energie, de Klima, an eis Heiser.",
-    "t": 23.36
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Denkt emol drun. Heizkäschten, Isolatioun, Solarpanneauen, elektresch Autoen, Aiden... dat kann no ganz vill ausgesinn, fir alles ze verstoen.",
-    "t": 29.62
+    "t": 34.07
    },
    {
     "speaker": "Tom",
     "text": "An et fillt sech dacks deier u, a komplizéiert. Wou fänkt ee iwwerhaapt un?",
-    "t": 39.19
+    "t": 41.85
    },
    {
     "speaker": "Anna",
     "text": "Genee dofir gëtt et d'Organisatioun vun haut. Si heescht Klima-Agence.",
-    "t": 45.36
+    "t": 45.94
    },
    {
     "speaker": "Tom",
     "text": "Klima-Agence. Den Numm seet eis schonn en Deel vun der Geschicht... \"Klima\" heescht Klima.",
-    "t": 52.38
+    "t": 51.68
    },
    {
     "speaker": "Anna",
     "text": "Jo. D'Klima-Agence ass de Lëtzebuerger nationale Partner fir Energie- a Klimafroen.",
-    "t": 59.86
+    "t": 57.25
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat ass dat genau? Ass dat eng Firma?",
-    "t": 66.81
+    "t": 62.5
    },
    {
     "speaker": "Anna",
     "text": "Net eng privat Firma am gewéinleche Sënn. Et ass eng Organisatioun vun ëffentlechem Interêt, ënnerstëtzt vun der Lëtzebuerger Regierung.",
-    "t": 71.87
+    "t": 65.48
    },
    {
     "speaker": "Tom",
-    "text": "Verschidde Ministèren stinn dohannert... de Wirtschaftsministère, de Ministère fir Ëmwelt a Klima, an de Wunnengsministère.",
-    "t": 80.26
+    "text": "Verschidde Ministèren stinn dohannert... de Wirtschaftsministère, de Ministère fir Ëmwelt, Klima a Biodiversitéit, an de Ministère fir Wunnengsbau a Landesplanung.",
+    "t": 72.86
    },
    {
     "speaker": "Anna",
     "text": "An si schafft zesumme mat professionnelle Kammeren, wéi der Chambre des Métiers, an der Associatioun vun den Architekten an de Beroodungsingenieuren.",
-    "t": 88.3
+    "t": 83.11
    },
    {
     "speaker": "Tom",
     "text": "Hei ass en Detail, un dee sech verschidde Leit erënneren. Bis 2022 hat d'Klima-Agence en aneren Numm... si hat myenergy geheescht.",
-    "t": 97.59
+    "t": 92.5
    },
    {
     "speaker": "Anna",
     "text": "Wann Dir also fréier vu myenergy héieren hutt, ass et déiselwecht Organisatioun, mat engem neien Numm an enger méi breeder Missioun.",
-    "t": 106.42
+    "t": 99.7
    },
    {
     "speaker": "Tom",
     "text": "A wat ass dës Missioun genau?",
-    "t": 113.18
+    "t": 106.33
    },
    {
     "speaker": "Anna",
     "text": "Déi ganz Gesellschaft z'ënnerstëtzen, fir de Klima ze schützen an an der Energiewende.",
-    "t": 116.15
+    "t": 108.19
    },
    {
     "speaker": "Tom",
     "text": "D'Energiewende... ewech vun de fossille Brennstoffer, hin zu méi propperer, méi effizienter Energie.",
-    "t": 121.5
+    "t": 113.13
    },
    {
     "speaker": "Anna",
     "text": "Lëtzebuerg huet sech national Ziler fir 2030 gesat... méi erneierbar Energie notzen, d'Energie méi effizient notzen, an d'Zäregasemissiounen reduzéieren.",
-    "t": 127.59
+    "t": 118.58
    },
    {
     "speaker": "Tom",
     "text": "An d'Klima-Agence hëlleft, dës grouss national Ziler an d'Praxis ëmzesetzen, an echte Heiser an echtem Liewen.",
-    "t": 137.83
+    "t": 128.57
    },
    {
     "speaker": "Anna",
     "text": "Mä hei ass den Deel, deen ech wierklech wëll, datt d'Leit héieren. D'Berodung, déi se de Bierger ginn, ass gratis.",
-    "t": 143.89
+    "t": 134.46
    },
    {
     "speaker": "Tom",
     "text": "Gratis, jo. A genee esou wichteg... si ass onofhängeg.",
-    "t": 150.51
+    "t": 140.3
    },
    {
     "speaker": "Anna",
     "text": "Dat heescht, si probéieren net, Iech eng Heizung ze verkafen, oder eng bestëmmte Mark vu Solarpanneauen.",
-    "t": 156.25
+    "t": 143.8
    },
    {
     "speaker": "Tom",
     "text": "Si ginn Iech neutral, fachlech Berodung, an Ärem Interêt. De Service gëtt vun der Klima-Agence selwer finanzéiert.",
-    "t": 162.05
+    "t": 148.85
    },
    {
     "speaker": "Anna",
     "text": "Esou kënnt Dir Är Froen éierlech stellen, an eng éierlech Äntwert kréien. Dat ass rar a wäertvoll.",
-    "t": 169.78
+    "t": 155.42
    },
    {
     "speaker": "Tom",
     "text": "Also wéi kënnt eng normal Persoun dës Berodung tatsächlech kréien?",
-    "t": 176.79
+    "t": 161.43
    },
    {
     "speaker": "Anna",
     "text": "Dir kënnt en Rendez-vous mat engem Beroder maachen. Jee no Ärem Projet kann et bei Iech doheem geschéien, per Video, oder per Telefon.",
-    "t": 180.74
+    "t": 164.4
    },
    {
     "speaker": "Tom",
     "text": "Oder Dir kënnt einfach en Beroder direkt uruffen. D'Nummer ass 8-0-0-2, 1-1, 9-0.",
-    "t": 189.67
+    "t": 171.49
    },
    {
     "speaker": "Anna",
     "text": "An d'Beroder si vu méindes bis freides do, moies an nomëttes.",
-    "t": 198.46
+    "t": 177.46
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer doriwwer schwätzen, bei wat se Iech tatsächlech kënnen hëllefen. Wat fir Zorte vu Projeten?",
-    "t": 203.86
+    "t": 182.34
    },
    {
     "speaker": "Anna",
     "text": "Eng ganz Rëtsch. Déi éischt grouss ass d'Isolatioun vun Ärem Heem.",
-    "t": 209.92
+    "t": 186.78
    },
    {
     "speaker": "Tom",
     "text": "Eng gutt Isolatioun heescht e méi waarmt Heem am Wanter, e méi killt Heem am Summer, a manner héich Heizkäschten.",
-    "t": 215.15
+    "t": 190.73
    },
    {
     "speaker": "Anna",
     "text": "Déi zweet ass, en neit Heem op eng nohalteg Manéier ze bauen... e Heem, dat vun Ufank un manner Energie verbraucht.",
-    "t": 221.13
+    "t": 196.19
    },
    {
     "speaker": "Tom",
     "text": "Déi drëtt ass, mat erneierbarer Energie ze heizen. Zum Beispill eng Wäermepompel, déi d'Wäermt aus der Loft oder aus dem Buedem zitt.",
-    "t": 227.46
+    "t": 203.53
    },
    {
     "speaker": "Anna",
     "text": "Amplaz Ueleg oder Gas ze verbrennen, notzt Dir d'Sonn an d'Äerd. Et ass méi propper, a mat der Zäit dacks méi bëlleg.",
-    "t": 235.56
+    "t": 209.88
    },
    {
     "speaker": "Tom",
     "text": "Déi véiert ass, Ären eegene propperen Stroum ze produzéieren, mat Solarpanneauen op Ärem Daach.",
-    "t": 243.62
+    "t": 216.78
    },
    {
     "speaker": "Anna",
     "text": "Dës Photovoltaikpanneauen maachen aus dem Sonneliicht Stroum, deen Dir doheem notze kënnt oder an d'Netz aspeise kënnt.",
-    "t": 249.08
+    "t": 221.04
    },
    {
     "speaker": "Tom",
     "text": "Déi fënneft ass d'Ökomobilitéit... méi gréng Manéieren, fir sech ze beweegen, wéi elektresch Gefierer a Luetstatiounen.",
-    "t": 255.84
+    "t": 227.47
    },
    {
     "speaker": "Anna",
     "text": "An déi sechst ass méi einfach wéi all déi aner... einfach manner Energie an Ären alldeegleche Gewunnechten ze verbrauchen.",
-    "t": 262.43
+    "t": 234.11
    },
    {
     "speaker": "Tom",
     "text": "Kleng Verännerungen, all Dag, déi gutt fir de Planéit a gutt fir Äre Portmonni sinn.",
-    "t": 268.34
+    "t": 240.55
    },
    {
     "speaker": "Anna",
     "text": "Egal also ob Äre Projet grouss oder kleng ass, et gëtt eng Berodung dofir.",
-    "t": 273.38
+    "t": 245.39
    },
    {
     "speaker": "Tom",
     "text": "Elo Anna, loosse mer iwwer Suen schwätzen, well dës Projete kënnen deier sinn.",
-    "t": 277.93
+    "t": 249.54
    },
    {
     "speaker": "Anna",
     "text": "Dat kënne se. Mä déi gutt Noriicht ass, datt et vill Aiden a Subventiounen gëtt.",
-    "t": 282.86
+    "t": 253.88
    },
    {
     "speaker": "Tom",
     "text": "An dat ass eng aner Plaz, wou d'Klima-Agence wierklech hëlleft. Si féieren Iech duerch déi finanziell Ënnerstëtzung.",
-    "t": 289.03
+    "t": 258.75
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt Subventiounen vum Staat, vun Ärer Gemeng, an heiansdo esouguer vun den Energieliwweranten.",
-    "t": 296.2
+    "t": 264.81
    },
    {
     "speaker": "Tom",
     "text": "All déi am Iwwerbléck ze behalen, wier eng eelend Aarbecht, wann Dir et eleng misst maachen.",
-    "t": 302.29
+    "t": 271.05
    },
    {
     "speaker": "Anna",
     "text": "Dofir hëlleft d'Klima-Agence Iech ze verstoen, wéi eng Aiden op Äre Projet zoutreffen.",
-    "t": 306.33
+    "t": 274.41
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt esouguer en Online-Simulateur fir d'Subventiounen. Dir gitt Äre Projet an, an en weist Iech, wat fir eng Ënnerstëtzung Dir kéint kréien.",
-    "t": 311.41
+    "t": 279.33
    },
    {
     "speaker": "Anna",
     "text": "E groussen Deel dovun ass dat national Aidenprogramm mam Numm Klimabonus.",
-    "t": 319.69
+    "t": 285.16
    },
    {
     "speaker": "Tom",
-    "text": "De Klimabonus ënnerstëtzt Saache wéi energieeffizient Renovatioun, erneierbar Heizung, Solarpanneauen, elektresch Gefierer, a Luetstatiounen.",
-    "t": 324.22
+    "text": "De Klimabonus ënnerstëtzt Saache wéi energieeffizient Renovatioun, erneierbar Heizung wéi Wäermepompelen, Solarpanneauen a Batterien, elektresch Gefierer, a Luetstatiounen. An en ass 2026 erneiert ginn, fir déi meescht Projete bis 2030.",
+    "t": 289.51
    },
    {
     "speaker": "Anna",
-    "text": "Et deckt also wierklech déi meescht vun de Projeten, iwwer déi mir just geschwat hunn.",
-    "t": 332.75
+    "text": "Et deckt also wierklech déi meescht vun de Projeten, iwwer déi mir just geschwat hunn. A bei Solarpanneauen kënnen e puer Firmen de Subsid souguer direkt vun der Rechnung ofzéien.",
+    "t": 304.19
    },
    {
     "speaker": "Tom",
     "text": "Gëtt et nach aner Tools op hirer Internetsäit, nieft dem Subventiounssimulateur?",
-    "t": 336.99
+    "t": 312.46
    },
    {
     "speaker": "Anna",
     "text": "Jo, e puer ganz praktesch. Et gëtt e Solarsimulateur, fir Iech ze hëllefen, Panneauen op Ärem eegene Daach ze plangen.",
-    "t": 341.61
+    "t": 316.15
    },
    {
     "speaker": "Tom",
     "text": "An e Renovatiounsplaner, fir Iech ze hëllefen, d'Schrëtt vun engem méi groussen Projet duerchzedenken.",
-    "t": 349.69
+    "t": 322.13
    },
    {
     "speaker": "Anna",
     "text": "Dës Tools sinn gratis ze notzen, a si hëllefen Iech, e méi kloert Bild ze kréien, ier Dir Suen ausgitt.",
-    "t": 354.8
+    "t": 326.73
    },
    {
     "speaker": "Tom",
     "text": "Hei ass eng Fro, déi vill Leit hunn. Wéi fannen ech e gudden, vertrauenswierdege Fachmann, deen d'Aarbecht mécht?",
-    "t": 360.6
+    "t": 332.35
    },
    {
     "speaker": "Anna",
     "text": "D'Klima-Agence huet en Netzwierk vu certifizéierte Beroder a Fachleit, no deenen Dir sicht kënnt.",
-    "t": 368.04
+    "t": 337.82
    },
    {
     "speaker": "Tom",
     "text": "Dir sidd also net eleng gelooss, fir ze roden, wien zouverlässeg ass.",
-    "t": 373.48
+    "t": 343
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer iwwer eppes schwätzen, wat ech wierklech un hinnen bewonneren... d'Inklusioun.",
-    "t": 377.32
+    "t": 345.86
    },
    {
     "speaker": "Tom",
     "text": "Jo. Hir Berodung ass fir jiddereen geduecht, egal wat Är Sprooch, Äre Budget, oder Är Hierkonft ass.",
-    "t": 381.8
+    "t": 350.13
    },
    {
     "speaker": "Anna",
     "text": "A si schenken eng besonnesch Opmierksamkeet de Leit, déi am meeschten Hëllef brauchen.",
-    "t": 389.15
+    "t": 355.77
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispill, wann d'Energierechnungen schwéier ze bezuele ginn, da gëtt et Ënnerstëtzung, och iwwer d'Sozialämter.",
-    "t": 393.17
+    "t": 359.37
    },
    {
     "speaker": "Anna",
     "text": "Dat ass also net just fir Leit, déi grouss nei Heiser bauen. Et ass fir Locatairen, fir Famille mat engem knappe Budget, fir jiddereen.",
-    "t": 400.74
+    "t": 366.25
    },
    {
     "speaker": "Tom",
     "text": "Elo gëtt et eng wichteg Warnung, déi mer weiderginn sollten, iwwer d'Vertrauen.",
-    "t": 409.45
+    "t": 373.94
    },
    {
     "speaker": "Anna",
     "text": "Jo. D'Klima-Agence léisst ni privat Firmen hiren Numm oder hiert Logo notzen, fir hir Produiten ze verkafen.",
-    "t": 413.93
+    "t": 377.59
    },
    {
     "speaker": "Tom",
     "text": "Wann Dir also eng Reklamm oder eng Noriicht gesitt, déi den Numm Klima-Agence notzt, fir e Verkaf ze pushen, da passt op... dat sinn net si.",
-    "t": 421.59
+    "t": 384.42
    },
    {
     "speaker": "Anna",
     "text": "Déi richteg Klima-Agence gëtt gratis, neutral Berodung. Si féiert keng Verkafskampagnen duerch aner Firmen.",
-    "t": 428.1
+    "t": 391.91
    },
    {
     "speaker": "Tom",
     "text": "Am Zweiwelsfall kontaktéiert d'Klima-Agence direkt, iwwer déi offiziell Telefonsnummer oder Internetsäit.",
-    "t": 435.94
+    "t": 398.77
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, loosse mer dat richteg praktesch maachen. Wéi soll een d'Klima-Agence tatsächlech notzen?",
-    "t": 441.91
+    "t": 404.16
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... ier Dir en Energieprojet ufänkt, kritt gratis Berodung. Stellt Är Froen, ier Dir Suen ausgitt.",
-    "t": 448.81
+    "t": 410.06
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... notzt déi Online-Simulateuren, fir d'Subventiounen ze verstoen an Är Solar- oder Renovatioun ze plangen.",
-    "t": 456.56
+    "t": 416.39
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... loosst se Iech hëllefen, déi richteg Aiden ze fannen, wéi de Klimabonus, esou datt Dir keng Ënnerstëtzung verpasst.",
-    "t": 463.05
+    "t": 423
    },
    {
     "speaker": "Anna",
     "text": "Véiertens... sicht en certifizéierte Fachmann fir déi tatsächlech Aarbecht.",
-    "t": 469.22
+    "t": 429.05
    },
    {
     "speaker": "Tom",
     "text": "A fënneftens... denkt drun, datt et gratis, onofhängeg, an op Ärer Säit ass.",
-    "t": 473.75
+    "t": 433.46
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer alles zesummebréngen. Wat sollen d'Leit iwwer d'Klima-Agence behalen?",
-    "t": 478.41
+    "t": 437.82
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... et ass de Lëtzebuerger nationalen Agence fir Energie a Klima, ënnerstëtzt vun der Regierung. Si huet fréier myenergy geheescht.",
-    "t": 484.18
+    "t": 442.68
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... si gëtt gratis, onofhängeg Berodung iwwer Isolatioun, Bauen, Heizen, Solar, an Ökomobilitéit.",
-    "t": 493.06
+    "t": 449.72
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... si hëlleft Iech, Aiden a Subventiounen ze fannen, och dat national Klimabonus-Programm.",
-    "t": 500.73
+    "t": 458.6
    },
    {
     "speaker": "Anna",
     "text": "Véiertens... Dir kënnt en Beroder per Telefon, per Video, oder doheem erreechen, a gratis Online-Tools notzen.",
-    "t": 506.41
+    "t": 464.31
    },
    {
     "speaker": "Tom",
     "text": "A fënneftens... passt op jiddereen op, deen hiren Numm mëssbraucht, fir Iech eppes ze verkafen. De richtege Service ass gratis.",
-    "t": 513.45
+    "t": 470.86
    },
    {
     "speaker": "Anna",
     "text": "Energie a Klima kënnen no risege, wäite Themen ausgesinn. Mä si fänken doheem un, mat klengen, machbare Schrëtt.",
-    "t": 520.8
+    "t": 477.9
    },
    {
     "speaker": "Tom",
     "text": "An Dir musst dat net alles eleng erausfannen. Et gëtt gratis, frëndlech, fachlech Hëllef, déi op Iech waart.",
-    "t": 529.26
+    "t": 485.2
    },
    {
     "speaker": "Anna",
-    "text": "Merci villmools, datt Dir haut nogelauschtert hutt.",
-    "t": 536.63
+    "text": "Dat war eis Episod iwwer d'Klima-Agence. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 491.42
    },
    {
     "speaker": "Tom",
-    "text": "Passt op iech op, a bis an der nächster Episod. Äddi!",
-    "t": 539.58
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 534.76
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 544.73
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 537.96
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 19,
@@ -57711,7 +57724,7 @@ const EPISODES = [
   "title": "The Service National de la Jeunesse – Empowering Young People in Luxembourg",
   "description": "What the SNJ (National Youth Service) is, its motto 'Jonker staark maachen', the youth sector it supports, its hands-on activity centres, the help it gives young people moving into working life (including the voluntary service), and how it listens to young people and promotes safe use of technology through BEE SECURE.",
   "audio": "podcast_snj.mp3",
-  "duration": 464.35,
+  "duration": 466.26,
   "topics": [
    "What the SNJ is",
    "Motto: Jonker staark maachen",
@@ -57725,518 +57738,528 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's lovely to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.62
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.66
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.77
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to understand the country and feel at home here.",
-    "t": 14.59
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today we are talking about young people, and the organisation that exists to support them.",
-    "t": 22.52
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "It is called the Service National de la Jeunesse.",
-    "t": 28.29
+    "t": 33.22
    },
    {
     "speaker": "Anna",
     "text": "In English, the National Youth Service.",
-    "t": 31.8
+    "t": 36.03
    },
    {
     "speaker": "Tom",
     "text": "People often shorten it to its initials... S, N, J.",
-    "t": 35.11
+    "t": 38.57
    },
    {
     "speaker": "Anna",
     "text": "The SNJ has a lovely motto in Luxembourgish... \"Jonker staark maachen\".",
-    "t": 40.79
+    "t": 42.28
    },
    {
     "speaker": "Anna",
     "text": "It means \"empowering youth\".",
-    "t": 46.7
+    "t": 47.25
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what exactly is the SNJ?",
-    "t": 49.25
+    "t": 49.39
    },
    {
     "speaker": "Anna",
     "text": "It is a public service of the State, created back in 1964.",
-    "t": 52.82
+    "t": 51.57
    },
    {
     "speaker": "Anna",
-    "text": "So it has been supporting young people for sixty years.",
-    "t": 57.95
+    "text": "So it has been supporting young people for more than sixty years.",
+    "t": 56.01
    },
    {
     "speaker": "Tom",
     "text": "And it works under the Ministry of Education, Children and Youth.",
-    "t": 61.86
+    "t": 59.95
    },
    {
     "speaker": "Anna",
     "text": "Its big mission is to help create an environment where young people can develop in a positive way.",
-    "t": 66.39
+    "t": 63.33
    },
    {
     "speaker": "Tom",
     "text": "To help them grow into responsible, active, and caring citizens.",
-    "t": 72.21
+    "t": 68.98
    },
    {
     "speaker": "Anna",
     "text": "And it supports them through learning experiences, based on what is called non-formal education.",
-    "t": 76.94
+    "t": 72.75
    },
    {
     "speaker": "Tom",
-    "text": "Non-formal education.",
-    "t": 82.89
-   },
-   {
-    "speaker": "Tom",
-    "text": "That's an important idea.",
-    "t": 85.42
+    "text": "Non-formal education. That's an important idea.",
+    "t": 79.07
    },
    {
     "speaker": "Tom",
     "text": "What does it mean, Anna?",
-    "t": 88.04
+    "t": 82.53
    },
    {
     "speaker": "Anna",
     "text": "It means learning that happens outside the normal classroom... through activities, projects, and real experiences.",
-    "t": 90.52
+    "t": 83.92
    },
    {
     "speaker": "Tom",
     "text": "Learning by doing, by meeting others, by trying things out.",
-    "t": 98.12
+    "t": 91.04
    },
    {
     "speaker": "Tom",
     "text": "Not exams and grades.",
-    "t": 102.47
+    "t": 94.21
    },
    {
     "speaker": "Anna",
-    "text": "Exactly.",
-    "t": 105.02
-   },
-   {
-    "speaker": "Anna",
-    "text": "And participation is voluntary.",
-    "t": 106.89
+    "text": "Exactly. And participation is voluntary.",
+    "t": 95.98
    },
    {
     "speaker": "Anna",
     "text": "Young people take part because they want to.",
-    "t": 109.84
+    "t": 99.21
    },
    {
     "speaker": "Tom",
     "text": "Let's look at what the SNJ actually offers.",
-    "t": 113.06
+    "t": 101.75
    },
    {
     "speaker": "Tom",
     "text": "I think it helps to see it in a few parts.",
-    "t": 116.7
+    "t": 104.2
    },
    {
     "speaker": "Anna",
-    "text": "Good idea.",
-    "t": 119.85
-   },
-   {
-    "speaker": "Anna",
-    "text": "The first part is supporting the whole youth sector.",
-    "t": 121.67
+    "text": "Good idea. The first part is supporting the whole youth sector.",
+    "t": 106.83
    },
    {
     "speaker": "Tom",
     "text": "The youth sector means youth centres, youth services, and youth organisations across the country.",
-    "t": 125.13
+    "t": 110.75
    },
    {
     "speaker": "Anna",
     "text": "The SNJ helps municipalities and these organisations with advice, with funding, and by connecting them together.",
-    "t": 131.17
+    "t": 116.86
    },
    {
     "speaker": "Tom",
     "text": "So behind many local youth clubs and activities, there is quiet support from the SNJ.",
-    "t": 138.92
+    "t": 124.38
    },
    {
     "speaker": "Anna",
     "text": "The second part is what they call experiences for youth.",
-    "t": 144.88
+    "t": 129.75
    },
    {
     "speaker": "Tom",
     "text": "This is where it gets fun.",
-    "t": 148.78
+    "t": 133.04
    },
    {
     "speaker": "Tom",
     "text": "The SNJ runs educational centres with themed activity programmes.",
-    "t": 151.31
+    "t": 134.43
    },
    {
     "speaker": "Anna",
     "text": "They group them under the word \"Erliewen\", which means \"to experience\".",
-    "t": 156.02
+    "t": 138.35
    },
    {
     "speaker": "Tom",
     "text": "For example, experiencing nature, at a centre in Hollenfels.",
-    "t": 160.66
+    "t": 143.17
    },
    {
     "speaker": "Anna",
     "text": "Or experiencing sport, at the centre in Lultzhausen.",
-    "t": 165.41
+    "t": 146.68
    },
    {
     "speaker": "Tom",
     "text": "There is experiencing media, where young people learn how videos are made, and how to spot manipulation online.",
-    "t": 169.52
+    "t": 150.33
    },
    {
     "speaker": "Anna",
     "text": "There is experiencing creativity, in a makerspace with new technologies.",
-    "t": 176.36
+    "t": 156.35
    },
    {
     "speaker": "Tom",
     "text": "There is experiencing teamwork, which builds cooperation and values for living together.",
-    "t": 181.71
+    "t": 161.35
    },
    {
     "speaker": "Anna",
     "text": "And experiencing human rights, at Cinqfontaines, a place of remembrance about the Holocaust.",
-    "t": 187.33
+    "t": 166.02
    },
    {
     "speaker": "Tom",
     "text": "That one is powerful.",
-    "t": 193.71
+    "t": 172.23
    },
    {
     "speaker": "Tom",
     "text": "It helps young people stand against antisemitism and racism.",
-    "t": 196.12
+    "t": 173.3
    },
    {
     "speaker": "Anna",
     "text": "There is even experiencing languages... Luxembourgish, German, French, and English, in a fun, confidence-building way.",
-    "t": 200.72
+    "t": 176.95
    },
    {
     "speaker": "Tom",
     "text": "So a young person can grow, have fun, and learn, all at the same time.",
-    "t": 209.63
+    "t": 184.84
    },
    {
     "speaker": "Anna",
     "text": "The third part is support for young people moving into working life.",
-    "t": 214.54
+    "t": 189.67
    },
    {
     "speaker": "Tom",
     "text": "This is really important, and it connects to other episodes we have done.",
-    "t": 218.93
+    "t": 193.81
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 223.71
-   },
-   {
-    "speaker": "Anna",
-    "text": "The SNJ helps young people who are at risk of dropping out of school, or who have left school early.",
-    "t": 225.39
+    "text": "Yes. The SNJ helps young people who are at risk of dropping out of school, or who have left school early.",
+    "t": 197.79
    },
    {
     "speaker": "Tom",
     "text": "And young people who have been inactive for a long time, not in school and not in work.",
-    "t": 231.72
+    "t": 204.57
    },
    {
     "speaker": "Anna",
     "text": "For them, the SNJ offers a personal, caring approach.",
-    "t": 236.87
+    "t": 209.29
    },
    {
     "speaker": "Anna",
     "text": "They help each young person build what they call a \"life project\".",
-    "t": 241.4
+    "t": 213.26
    },
    {
     "speaker": "Tom",
     "text": "A life project... a plan for the next steps, based on that person's own needs and abilities.",
-    "t": 245.49
+    "t": 217.61
    },
    {
     "speaker": "Anna",
     "text": "They offer workshops, training, and practical alternatives to just sitting at home.",
-    "t": 251.39
+    "t": 223.08
    },
    {
     "speaker": "Tom",
     "text": "One of the most special is the voluntary service.",
-    "t": 256.97
+    "t": 228.45
    },
    {
     "speaker": "Tom",
     "text": "Tell us about that, Anna.",
-    "t": 260.76
+    "t": 231.29
    },
    {
     "speaker": "Anna",
     "text": "The voluntary service lets a young person commit to a real project of general interest, for a period of time.",
-    "t": 263.34
+    "t": 232.75
    },
    {
     "speaker": "Tom",
     "text": "It is true learning by doing.",
-    "t": 270.4
+    "t": 239
    },
    {
     "speaker": "Tom",
     "text": "You gain experience, you discover what you enjoy, and you build confidence.",
-    "t": 273.15
+    "t": 240.64
    },
    {
     "speaker": "Anna",
     "text": "It can be a stepping stone... towards training, towards a job, towards finding your direction.",
-    "t": 278.22
+    "t": 244.93
    },
    {
     "speaker": "Tom",
     "text": "You can find these opportunities on websites like volontaires dot lu.",
-    "t": 284.5
+    "t": 250.95
    },
    {
     "speaker": "Anna",
     "text": "There are also discovery internships in companies, to get a real taste of the working world.",
-    "t": 289.19
+    "t": 255.08
    },
    {
     "speaker": "Tom",
     "text": "The SNJ also runs something called the Au Pair service.",
-    "t": 294.87
+    "t": 260.57
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 298.91
-   },
-   {
-    "speaker": "Anna",
-    "text": "If a young person comes to Luxembourg as an au pair, living with a host family, the SNJ supervises that.",
-    "t": 300.6
+    "text": "Yes. If a young person comes to Luxembourg as an au pair, living with a host family, the SNJ supervises that.",
+    "t": 263.81
    },
    {
     "speaker": "Tom",
     "text": "They make sure the law is respected, prepare the au pairs, and help if there is any conflict.",
-    "t": 307.86
+    "t": 271.26
    },
    {
     "speaker": "Anna",
     "text": "So both the young person and the family are protected.",
-    "t": 313.52
+    "t": 276.83
    },
    {
     "speaker": "Anna",
     "text": "You can learn more at au dash pair dot lu.",
-    "t": 317.3
+    "t": 280.21
    },
    {
     "speaker": "Tom",
     "text": "There is also a fourth part... listening to young people.",
-    "t": 320.54
+    "t": 283.31
    },
    {
     "speaker": "Anna",
-    "text": "The SNJ studies the situation of young people, working with the University of Luxembourg.",
-    "t": 324.47
+    "text": "The SNJ listens to young people, through surveys and discussion groups.",
+    "t": 286.56
    },
    {
     "speaker": "Tom",
-    "text": "They run surveys, and publish a big national report on youth every five years.",
-    "t": 330.55
+    "text": "And every five years, there is a big national report on youth.",
+    "t": 291.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is the basis for the national plan for young people, the Youth Pact.",
+    "t": 295.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "The newest one runs from 2026 to 2030, and the SNJ helped to prepare it.",
+    "t": 299.38
    },
    {
     "speaker": "Anna",
     "text": "They also listen directly, through the youth council, the \"Jugendrot\", where young people speak up on public matters.",
-    "t": 335.71
+    "t": 304.43
    },
    {
     "speaker": "Tom",
     "text": "So young people are not just helped... they are heard.",
-    "t": 342.9
+    "t": 311.13
    },
    {
     "speaker": "Anna",
     "text": "And there is BEE SECURE, which many people know.",
-    "t": 346.56
+    "t": 314.25
    },
    {
     "speaker": "Tom",
     "text": "BEE SECURE promotes the safe and responsible use of the internet and new technologies.",
-    "t": 350.18
+    "t": 317.34
    },
    {
     "speaker": "Anna",
     "text": "Tips to stay safe online, to avoid risks, and to use technology wisely.",
-    "t": 355.78
+    "t": 322.01
    },
    {
     "speaker": "Tom",
     "text": "Let's give a sense of the scale of all this.",
-    "t": 361.35
+    "t": 327.22
    },
    {
     "speaker": "Anna",
-    "text": "The SNJ has five educational centres, and local youth antennas across the country for individual support.",
-    "t": 364.53
+    "text": "The SNJ has five educational centres, with a new one coming in Esch-sur-Alzette, and local youth antennas across the country for individual support.",
+    "t": 329.35
    },
    {
     "speaker": "Tom",
     "text": "And every year, tens of thousands of young people take part in its activities.",
-    "t": 371.61
+    "t": 338.82
    },
    {
     "speaker": "Anna",
     "text": "So Tom, let's make this practical.",
-    "t": 376.65
+    "t": 343.26
    },
    {
     "speaker": "Anna",
     "text": "How can a young person, or a parent, actually use the SNJ?",
-    "t": 379.92
+    "t": 345.64
    },
    {
     "speaker": "Tom",
     "text": "First... if you know a young person who is unsure what to do after school, the SNJ can help them build a life project.",
-    "t": 384.69
+    "t": 349.85
    },
    {
     "speaker": "Anna",
     "text": "Second... if a young person wants real experience, look into the voluntary service.",
-    "t": 391.58
+    "t": 356.72
    },
    {
     "speaker": "Tom",
     "text": "Third... for fun, growth, and meeting others, explore the SNJ's activity centres and programmes.",
-    "t": 397.39
+    "t": 362.38
    },
    {
     "speaker": "Anna",
     "text": "Fourth... for safety online, BEE SECURE has practical advice for young people and parents alike.",
-    "t": 403.66
+    "t": 369.74
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 410.3
+    "t": 376.81
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about the SNJ?",
-    "t": 412.83
+    "t": 378.17
    },
    {
     "speaker": "Anna",
     "text": "First... it is Luxembourg's National Youth Service, here to empower young people, with the motto \"Jonker staark maachen\".",
-    "t": 416.36
+    "t": 381.08
    },
    {
     "speaker": "Tom",
     "text": "Second... it supports the whole youth sector, and runs rich, hands-on learning experiences.",
-    "t": 423.95
+    "t": 389.21
    },
    {
     "speaker": "Anna",
     "text": "Third... it helps young people move into working life, including through the voluntary service.",
-    "t": 430.02
+    "t": 395.13
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it listens to young people, and promotes safe use of technology through BEE SECURE.",
-    "t": 435.9
+    "t": 401.28
    },
    {
     "speaker": "Anna",
     "text": "Growing up is a journey, with ups and downs.",
-    "t": 441.76
+    "t": 406.8
    },
    {
     "speaker": "Anna",
     "text": "No young person should have to walk it alone.",
-    "t": 445.34
+    "t": 409.4
    },
    {
     "speaker": "Tom",
     "text": "And in Luxembourg, they don't have to.",
-    "t": 448.49
+    "t": 412.13
    },
    {
     "speaker": "Tom",
     "text": "The SNJ is walking beside them.",
-    "t": 451.64
+    "t": 414.08
    },
    {
     "speaker": "Anna",
-    "text": "Thank you so much for listening today.",
-    "t": 454.73
-   },
-   {
-    "speaker": "Tom",
-    "text": "Take care, and see you in the next episode.",
-    "t": 457.68
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 461.14
+    "text": "That was our episode about the Service National de la Jeunesse.",
+    "t": 416.41
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 462.83
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 419.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 429.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 447.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 454.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 456.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 461.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 462.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 464.67
    }
   ],
   "questions": [
@@ -58439,1431 +58462,1455 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_snj_fr.mp3",
-  "duration_fr": 482.11,
+  "duration_fr": 450.32,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Nous sommes ravis de vous compter parmi nous aujourd'hui.",
-    "t": 3.09
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.78
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 9.35
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme qui parle du vivre-ensemble au Luxembourg.",
-    "t": 12.81
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les frontaliers, à comprendre le pays et à se sentir chez eux ici.",
-    "t": 16.79
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et aujourd'hui, nous parlons des jeunes, et de l'organisation qui existe pour les soutenir.",
-    "t": 24.81
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "Elle s'appelle le Service National de la Jeunesse.",
-    "t": 30.42
+    "t": 27.99
    },
    {
     "speaker": "Anna",
     "text": "En anglais, le National Youth Service.",
-    "t": 33.98
+    "t": 30.28
    },
    {
     "speaker": "Tom",
     "text": "Les gens utilisent souvent ses initiales... S, N, J.",
-    "t": 37.42
+    "t": 32.64
    },
    {
     "speaker": "Anna",
     "text": "Le SNJ a une belle devise en luxembourgeois... « Jonker staark maachen ».",
-    "t": 42.57
+    "t": 36.96
    },
    {
     "speaker": "Anna",
     "text": "Cela signifie « rendre les jeunes forts ».",
-    "t": 48.52
+    "t": 42.1
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qu'est-ce que le SNJ exactement ?",
-    "t": 51.96
+    "t": 44.34
    },
    {
     "speaker": "Anna",
     "text": "C'est un service public de l'État, créé en 1964.",
-    "t": 55.45
+    "t": 47.18
    },
    {
     "speaker": "Anna",
-    "text": "Il soutient donc les jeunes depuis soixante ans.",
-    "t": 60.11
+    "text": "Il soutient donc les jeunes depuis plus de soixante ans.",
+    "t": 50.47
    },
    {
     "speaker": "Tom",
     "text": "Et il travaille sous le Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse.",
-    "t": 63.42
+    "t": 53.13
    },
    {
     "speaker": "Anna",
     "text": "Sa grande mission est d'aider à créer un environnement où les jeunes peuvent se développer de manière positive.",
-    "t": 68.92
+    "t": 57.96
    },
    {
     "speaker": "Tom",
     "text": "Les aider à devenir des citoyens responsables, actifs et bienveillants.",
-    "t": 75.08
+    "t": 63.08
    },
    {
     "speaker": "Anna",
     "text": "Et il les accompagne à travers des expériences d'apprentissage, basées sur ce qu'on appelle l'éducation non formelle.",
-    "t": 79.52
+    "t": 67.1
    },
    {
     "speaker": "Tom",
     "text": "L'éducation non formelle.",
-    "t": 86.45
+    "t": 72.86
    },
    {
     "speaker": "Tom",
     "text": "C'est une idée importante.",
-    "t": 88.91
+    "t": 74.72
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que cela veut dire, Anna ?",
-    "t": 91.39
+    "t": 76.48
    },
    {
     "speaker": "Anna",
     "text": "Cela veut dire l'apprentissage qui se fait en dehors de la salle de classe habituelle... à travers des activités, des projets et de vraies expériences.",
-    "t": 94.15
+    "t": 78.6
    },
    {
     "speaker": "Tom",
     "text": "Apprendre en faisant, en rencontrant les autres, en essayant des choses.",
-    "t": 102.81
+    "t": 86.01
    },
    {
     "speaker": "Tom",
     "text": "Pas des examens et des notes.",
-    "t": 107.36
+    "t": 90.26
    },
    {
     "speaker": "Anna",
-    "text": "Exactement.",
-    "t": 109.85
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et la participation est volontaire.",
-    "t": 111.66
+    "text": "Exactement. Et la participation est volontaire.",
+    "t": 92.14
    },
    {
     "speaker": "Anna",
     "text": "Les jeunes participent parce qu'ils en ont envie.",
-    "t": 114.75
+    "t": 94.76
    },
    {
     "speaker": "Tom",
     "text": "Regardons ce que le SNJ propose réellement.",
-    "t": 118.21
+    "t": 97.42
    },
    {
     "speaker": "Tom",
     "text": "Je pense que c'est utile de le voir en plusieurs parties.",
-    "t": 121.56
+    "t": 100.17
    },
    {
     "speaker": "Anna",
-    "text": "Bonne idée.",
-    "t": 125.16
-   },
-   {
-    "speaker": "Anna",
-    "text": "La première partie, c'est le soutien à tout le secteur de la jeunesse.",
-    "t": 126.94
+    "text": "Bonne idée. La première partie, c'est le soutien à tout le secteur de la jeunesse.",
+    "t": 103.24
    },
    {
     "speaker": "Tom",
     "text": "Le secteur de la jeunesse, ce sont les maisons des jeunes, les services pour jeunes et les organisations de jeunesse dans tout le pays.",
-    "t": 131.71
+    "t": 107.09
    },
    {
     "speaker": "Anna",
     "text": "Le SNJ aide les communes et ces organisations avec des conseils, avec des financements, et en les mettant en réseau.",
-    "t": 139.08
+    "t": 114.13
    },
    {
     "speaker": "Tom",
     "text": "Donc, derrière beaucoup de clubs de jeunes et d'activités locales, il y a un soutien discret du SNJ.",
-    "t": 146.32
+    "t": 120.42
    },
    {
     "speaker": "Anna",
     "text": "La deuxième partie, c'est ce qu'ils appellent les expériences pour les jeunes.",
-    "t": 152.63
+    "t": 126.36
    },
    {
     "speaker": "Tom",
     "text": "C'est là que cela devient amusant.",
-    "t": 157.41
+    "t": 129.78
    },
    {
     "speaker": "Tom",
     "text": "Le SNJ gère des centres éducatifs avec des programmes d'activités à thème.",
-    "t": 160.02
+    "t": 131.72
    },
    {
     "speaker": "Anna",
     "text": "Ils les regroupent sous le mot « Erliewen », qui signifie « vivre une expérience ».",
-    "t": 164.93
+    "t": 137.33
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, vivre la nature, dans un centre à Hollenfels.",
-    "t": 170.48
+    "t": 141.59
    },
    {
     "speaker": "Anna",
     "text": "Ou vivre le sport, au centre de Lultzhausen.",
-    "t": 174.9
+    "t": 145.2
    },
    {
     "speaker": "Tom",
     "text": "Il y a vivre les médias, où les jeunes apprennent comment les vidéos sont faites, et comment repérer la manipulation en ligne.",
-    "t": 178.59
+    "t": 147.95
    },
    {
     "speaker": "Anna",
     "text": "Il y a vivre la créativité, dans un makerspace avec de nouvelles technologies.",
-    "t": 185.38
+    "t": 154.5
    },
    {
     "speaker": "Tom",
     "text": "Il y a vivre le travail d'équipe, qui développe la coopération et les valeurs du vivre-ensemble.",
-    "t": 190.89
+    "t": 158.79
    },
    {
     "speaker": "Anna",
     "text": "Et vivre les droits humains, à Cinqfontaines, un lieu de mémoire sur la Shoah.",
-    "t": 196.29
-   },
-   {
-    "speaker": "Tom",
-    "text": "Celui-là est puissant.",
-    "t": 201.39
-   },
-   {
-    "speaker": "Tom",
-    "text": "Il aide les jeunes à s'opposer à l'antisémitisme et au racisme.",
-    "t": 203.5
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il y a même vivre les langues... le luxembourgeois, l'allemand, le français et l'anglais, d'une manière ludique qui donne confiance.",
-    "t": 207.52
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ainsi, un jeune peut grandir, s'amuser et apprendre, tout en même temps.",
-    "t": 215.49
-   },
-   {
-    "speaker": "Anna",
-    "text": "La troisième partie, c'est le soutien aux jeunes qui entrent dans la vie active.",
-    "t": 220.67
-   },
-   {
-    "speaker": "Tom",
-    "text": "C'est vraiment important, et cela rejoint d'autres épisodes que nous avons faits.",
-    "t": 225.64
-   },
-   {
-    "speaker": "Anna",
-    "text": "Oui.",
-    "t": 230.39
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le SNJ aide les jeunes qui risquent de décrocher de l'école, ou qui ont quitté l'école tôt.",
-    "t": 231.88
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et les jeunes qui sont restés inactifs longtemps, ni à l'école ni au travail.",
-    "t": 237.54
-   },
-   {
-    "speaker": "Anna",
-    "text": "Pour eux, le SNJ propose une approche personnelle et bienveillante.",
-    "t": 242.23
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ils aident chaque jeune à construire ce qu'ils appellent un « projet de vie ».",
-    "t": 246.98
-   },
-   {
-    "speaker": "Tom",
-    "text": "Un projet de vie... un plan pour les prochaines étapes, basé sur les besoins et les capacités propres de la personne.",
-    "t": 251.4
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ils offrent des ateliers, des formations, et des alternatives concrètes au fait de rester simplement à la maison.",
-    "t": 258.08
-   },
-   {
-    "speaker": "Tom",
-    "text": "L'une des plus spéciales, c'est le service volontaire.",
-    "t": 265.21
-   },
-   {
-    "speaker": "Tom",
-    "text": "Parle-nous-en, Anna.",
-    "t": 269.05
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le service volontaire permet à un jeune de s'engager dans un vrai projet d'intérêt général, pendant une certaine période.",
-    "t": 271.34
-   },
-   {
-    "speaker": "Tom",
-    "text": "C'est vraiment apprendre en faisant.",
-    "t": 278.76
-   },
-   {
-    "speaker": "Tom",
-    "text": "On acquiert de l'expérience, on découvre ce qu'on aime, et on prend confiance.",
-    "t": 281.26
-   },
-   {
-    "speaker": "Anna",
-    "text": "Cela peut être un tremplin... vers une formation, vers un emploi, vers la découverte de sa voie.",
-    "t": 286.37
-   },
-   {
-    "speaker": "Tom",
-    "text": "On peut trouver ces opportunités sur des sites comme volontaires point lu.",
-    "t": 292.86
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il y a aussi des stages de découverte en entreprise, pour goûter vraiment au monde du travail.",
-    "t": 297.05
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le SNJ gère aussi quelque chose qu'on appelle le service Au Pair.",
-    "t": 302.94
-   },
-   {
-    "speaker": "Anna",
-    "text": "Oui.",
-    "t": 307.25
-   },
-   {
-    "speaker": "Anna",
-    "text": "Si un jeune vient au Luxembourg comme au pair, en vivant chez une famille d'accueil, le SNJ encadre cela.",
-    "t": 308.73
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ils veillent à ce que la loi soit respectée, préparent les au pairs, et aident s'il y a un conflit.",
-    "t": 315.62
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ainsi, le jeune et la famille sont tous les deux protégés.",
-    "t": 321.06
-   },
-   {
-    "speaker": "Anna",
-    "text": "Vous pouvez en savoir plus sur au tiret pair point lu.",
-    "t": 325.03
-   },
-   {
-    "speaker": "Tom",
-    "text": "Il y a aussi une quatrième partie... écouter les jeunes.",
-    "t": 328.74
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le SNJ étudie la situation des jeunes, en collaboration avec l'Université du Luxembourg.",
-    "t": 332.6
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ils mènent des enquêtes, et publient un grand rapport national sur la jeunesse tous les cinq ans.",
-    "t": 338.95
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ils écoutent aussi directement, à travers le conseil de la jeunesse, le « Jugendrot », où les jeunes s'expriment sur les sujets publics.",
-    "t": 344.19
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ainsi, les jeunes ne sont pas seulement aidés... ils sont entendus.",
-    "t": 352.64
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et il y a BEE SECURE, que beaucoup de gens connaissent.",
-    "t": 357.03
-   },
-   {
-    "speaker": "Tom",
-    "text": "BEE SECURE encourage l'utilisation sûre et responsable d'internet et des nouvelles technologies.",
-    "t": 360.89
-   },
-   {
-    "speaker": "Anna",
-    "text": "Des conseils pour rester en sécurité en ligne, pour éviter les risques, et pour utiliser la technologie de manière avisée.",
-    "t": 366.38
-   },
-   {
-    "speaker": "Tom",
-    "text": "Donnons une idée de l'ampleur de tout cela.",
-    "t": 373.78
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le SNJ a cinq centres éducatifs, et des antennes locales pour la jeunesse dans tout le pays pour un accompagnement individuel.",
-    "t": 376.75
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et chaque année, des dizaines de milliers de jeunes participent à ses activités.",
-    "t": 384.59
-   },
-   {
-    "speaker": "Anna",
-    "text": "Alors Tom, rendons cela concret.",
-    "t": 389.43
-   },
-   {
-    "speaker": "Anna",
-    "text": "Comment un jeune, ou un parent, peut-il vraiment utiliser le SNJ ?",
-    "t": 392.61
-   },
-   {
-    "speaker": "Tom",
-    "text": "Premièrement... si vous connaissez un jeune qui ne sait pas quoi faire après l'école, le SNJ peut l'aider à construire un projet de vie.",
-    "t": 397.36
-   },
-   {
-    "speaker": "Anna",
-    "text": "Deuxièmement... si un jeune veut une vraie expérience, renseignez-vous sur le service volontaire.",
-    "t": 404.31
-   },
-   {
-    "speaker": "Tom",
-    "text": "Troisièmement... pour s'amuser, grandir et rencontrer les autres, explorez les centres d'activités et les programmes du SNJ.",
-    "t": 410.35
-   },
-   {
-    "speaker": "Anna",
-    "text": "Quatrièmement... pour la sécurité en ligne, BEE SECURE a des conseils pratiques pour les jeunes comme pour les parents.",
-    "t": 417.66
-   },
-   {
-    "speaker": "Tom",
-    "text": "Rassemblons tout cela.",
-    "t": 424.5
-   },
-   {
-    "speaker": "Tom",
-    "text": "Que doit-on retenir du SNJ ?",
-    "t": 426.78
-   },
-   {
-    "speaker": "Anna",
-    "text": "Premièrement... c'est le Service National de la Jeunesse du Luxembourg, là pour donner du pouvoir aux jeunes, avec la devise « Jonker staark maachen ».",
-    "t": 429.45
-   },
-   {
-    "speaker": "Tom",
-    "text": "Deuxièmement... il soutient tout le secteur de la jeunesse, et propose des expériences d'apprentissage riches et concrètes.",
-    "t": 438.64
-   },
-   {
-    "speaker": "Anna",
-    "text": "Troisièmement... il aide les jeunes à entrer dans la vie active, notamment à travers le service volontaire.",
-    "t": 445.44
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et quatrièmement... il écoute les jeunes, et encourage l'utilisation sûre de la technologie à travers BEE SECURE.",
-    "t": 451.88
-   },
-   {
-    "speaker": "Anna",
-    "text": "Grandir est un voyage, avec des hauts et des bas.",
-    "t": 458.5
-   },
-   {
-    "speaker": "Anna",
-    "text": "Aucun jeune ne devrait avoir à le faire seul.",
-    "t": 462.29
-   },
-   {
-    "speaker": "Tom",
-    "text": "Et au Luxembourg, ils n'ont pas à le faire.",
-    "t": 465.51
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le SNJ marche à leurs côtés.",
-    "t": 468.82
-   },
-   {
-    "speaker": "Anna",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 471.48
-   },
-   {
-    "speaker": "Tom",
-    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
-    "t": 474.95
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 478.96
-   },
-   {
-    "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 480.49
-   }
-  ],
-  "audio_de": "podcast_snj_de.mp3",
-  "duration_de": 532.25,
-  "segments_de": [
-   {
-    "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
-   },
-   {
-    "speaker": "Anna",
-    "text": "Schön, dass Sie heute bei uns sind.",
-    "t": 3.25
-   },
-   {
-    "speaker": "Tom",
-    "text": "Hallo zusammen!",
-    "t": 6.44
-   },
-   {
-    "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.51
-   },
-   {
-    "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 11.9
-   },
-   {
-    "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, das Land zu verstehen und sich hier zu Hause zu fühlen.",
-    "t": 16.28
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und heute sprechen wir über junge Menschen und über die Organisation, die es gibt, um sie zu unterstützen.",
-    "t": 25.69
-   },
-   {
-    "speaker": "Anna",
-    "text": "Sie heißt Service National de la Jeunesse.",
-    "t": 32.29
-   },
-   {
-    "speaker": "Anna",
-    "text": "Auf Englisch: National Youth Service.",
-    "t": 35.73
-   },
-   {
-    "speaker": "Tom",
-    "text": "Oft kürzt man den Namen mit den Initialen ab... S, N, J.",
-    "t": 39.13
-   },
-   {
-    "speaker": "Anna",
-    "text": "Der SNJ hat ein schönes Motto auf Luxemburgisch... „Jonker staark maachen\".",
-    "t": 44.86
-   },
-   {
-    "speaker": "Anna",
-    "text": "Das bedeutet „junge Menschen stärken\".",
-    "t": 50.99
-   },
-   {
-    "speaker": "Tom",
-    "text": "Also Anna, was genau ist der SNJ?",
-    "t": 54.18
-   },
-   {
-    "speaker": "Anna",
-    "text": "Es ist ein öffentlicher Dienst des Staates, gegründet im Jahr 1964.",
-    "t": 57.89
-   },
-   {
-    "speaker": "Anna",
-    "text": "Er unterstützt junge Menschen also seit sechzig Jahren.",
-    "t": 64.31
-   },
-   {
-    "speaker": "Tom",
-    "text": "Und er arbeitet unter dem Ministerium für Bildung, Kinder und Jugend.",
-    "t": 68.46
-   },
-   {
-    "speaker": "Anna",
-    "text": "Seine große Aufgabe ist es, ein Umfeld zu schaffen, in dem sich junge Menschen positiv entwickeln können.",
-    "t": 73.3
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ihnen zu helfen, zu verantwortungsbewussten, aktiven und fürsorglichen Bürgern heranzuwachsen.",
-    "t": 80.85
-   },
-   {
-    "speaker": "Anna",
-    "text": "Und er begleitet sie durch Lernerfahrungen, die auf der sogenannten nicht-formalen Bildung beruhen.",
-    "t": 87.32
-   },
-   {
-    "speaker": "Tom",
-    "text": "Nicht-formale Bildung.",
-    "t": 93.91
-   },
-   {
-    "speaker": "Tom",
-    "text": "Das ist ein wichtiger Gedanke.",
-    "t": 96.31
-   },
-   {
-    "speaker": "Tom",
-    "text": "Was bedeutet das, Anna?",
-    "t": 98.95
-   },
-   {
-    "speaker": "Anna",
-    "text": "Es bedeutet Lernen, das außerhalb des normalen Klassenzimmers stattfindet... durch Aktivitäten, Projekte und echte Erfahrungen.",
-    "t": 101.72
-   },
-   {
-    "speaker": "Tom",
-    "text": "Lernen durch Tun, durch das Treffen anderer, durch das Ausprobieren von Dingen.",
-    "t": 110.94
-   },
-   {
-    "speaker": "Tom",
-    "text": "Keine Prüfungen und Noten.",
-    "t": 116.29
-   },
-   {
-    "speaker": "Anna",
-    "text": "Genau.",
-    "t": 119
-   },
-   {
-    "speaker": "Anna",
-    "text": "Und die Teilnahme ist freiwillig.",
-    "t": 120.6
-   },
-   {
-    "speaker": "Anna",
-    "text": "Junge Menschen machen mit, weil sie es wollen.",
-    "t": 123.64
-   },
-   {
-    "speaker": "Tom",
-    "text": "Schauen wir uns an, was der SNJ tatsächlich anbietet.",
-    "t": 127.21
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ich finde, es hilft, es in mehreren Teilen zu sehen.",
-    "t": 131.63
-   },
-   {
-    "speaker": "Anna",
-    "text": "Gute Idee.",
-    "t": 135.74
-   },
-   {
-    "speaker": "Anna",
-    "text": "Der erste Teil ist die Unterstützung des gesamten Jugendsektors.",
-    "t": 137.78
-   },
-   {
-    "speaker": "Tom",
-    "text": "Der Jugendsektor, das sind Jugendhäuser, Jugenddienste und Jugendorganisationen im ganzen Land.",
-    "t": 142.53
-   },
-   {
-    "speaker": "Anna",
-    "text": "Der SNJ hilft den Gemeinden und diesen Organisationen mit Beratung, mit Förderung und indem er sie miteinander vernetzt.",
-    "t": 149.11
-   },
-   {
-    "speaker": "Tom",
-    "text": "Hinter vielen lokalen Jugendclubs und Aktivitäten steht also eine stille Unterstützung des SNJ.",
-    "t": 157.41
-   },
-   {
-    "speaker": "Anna",
-    "text": "Der zweite Teil ist das, was sie Erfahrungen für junge Menschen nennen.",
     "t": 164.12
    },
    {
     "speaker": "Tom",
+    "text": "Celui-là est puissant.",
+    "t": 168.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il aide les jeunes à s'opposer à l'antisémitisme et au racisme.",
+    "t": 169.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a même vivre les langues... le luxembourgeois, l'allemand, le français et l'anglais, d'une manière ludique qui donne confiance.",
+    "t": 173.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ainsi, un jeune peut grandir, s'amuser et apprendre, tout en même temps.",
+    "t": 180.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "La troisième partie, c'est le soutien aux jeunes qui entrent dans la vie active.",
+    "t": 184.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est vraiment important, et cela rejoint d'autres épisodes que nous avons faits.",
+    "t": 188.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui. Le SNJ aide les jeunes qui risquent de décrocher de l'école, ou qui ont quitté l'école tôt.",
+    "t": 192.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et les jeunes qui sont restés inactifs longtemps, ni à l'école ni au travail.",
+    "t": 197.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pour eux, le SNJ propose une approche personnelle et bienveillante.",
+    "t": 202.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils aident chaque jeune à construire ce qu'ils appellent un « projet de vie ».",
+    "t": 205.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Un projet de vie... un plan pour les prochaines étapes, basé sur les besoins et les capacités propres de la personne.",
+    "t": 209.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils offrent des ateliers, des formations, et des alternatives concrètes au fait de rester simplement à la maison.",
+    "t": 216.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'une des plus spéciales, c'est le service volontaire.",
+    "t": 221.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parle-nous-en, Anna.",
+    "t": 224.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le service volontaire permet à un jeune de s'engager dans un vrai projet d'intérêt général, pendant une certaine période.",
+    "t": 226.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est vraiment apprendre en faisant.",
+    "t": 232.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "On acquiert de l'expérience, on découvre ce qu'on aime, et on prend confiance.",
+    "t": 234.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela peut être un tremplin... vers une formation, vers un emploi, vers la découverte de sa voie.",
+    "t": 238.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "On peut trouver ces opportunités sur des sites comme volontaires point lu.",
+    "t": 243.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a aussi des stages de découverte en entreprise, pour goûter vraiment au monde du travail.",
+    "t": 247.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le SNJ gère aussi quelque chose qu'on appelle le service Au Pair.",
+    "t": 251.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui. Si un jeune vient au Luxembourg comme au pair, en vivant chez une famille d'accueil, le SNJ encadre cela.",
+    "t": 255.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ils veillent à ce que la loi soit respectée, préparent les au pairs, et aident s'il y a un conflit.",
+    "t": 261.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ainsi, le jeune et la famille sont tous les deux protégés.",
+    "t": 267.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez en savoir plus sur au tiret pair point lu.",
+    "t": 269.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a aussi une quatrième partie... écouter les jeunes.",
+    "t": 273.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le SNJ écoute les jeunes, à travers des enquêtes et des groupes de discussion.",
+    "t": 276.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et tous les cinq ans, il y a un grand rapport national sur la jeunesse.",
+    "t": 281.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est la base du plan national pour les jeunes, le Pacte pour la jeunesse.",
+    "t": 285.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le plus récent va de 2026 à 2030, et le SNJ a aidé à le préparer.",
+    "t": 289.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils écoutent aussi directement, à travers le conseil de la jeunesse, le « Jugendrot », où les jeunes s'expriment sur les sujets publics.",
+    "t": 294.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ainsi, les jeunes ne sont pas seulement aidés... ils sont entendus.",
+    "t": 301.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il y a BEE SECURE, que beaucoup de gens connaissent.",
+    "t": 304.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "BEE SECURE encourage l'utilisation sûre et responsable d'internet et des nouvelles technologies.",
+    "t": 307.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Des conseils pour rester en sécurité en ligne, pour éviter les risques, et pour utiliser la technologie de manière avisée.",
+    "t": 313.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donnons une idée de l'ampleur de tout cela.",
+    "t": 319.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le SNJ a cinq centres éducatifs, avec un nouveau centre à Esch-sur-Alzette, et des antennes locales pour la jeunesse dans tout le pays pour un accompagnement individuel.",
+    "t": 321.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et chaque année, des dizaines de milliers de jeunes participent à ses activités.",
+    "t": 331.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors Tom, rendons cela concret.",
+    "t": 335.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comment un jeune, ou un parent, peut-il vraiment utiliser le SNJ ?",
+    "t": 337.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Premièrement... si vous connaissez un jeune qui ne sait pas quoi faire après l'école, le SNJ peut l'aider à construire un projet de vie.",
+    "t": 341.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deuxièmement... si un jeune veut une vraie expérience, renseignez-vous sur le service volontaire.",
+    "t": 348.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement... pour s'amuser, grandir et rencontrer les autres, explorez les centres d'activités et les programmes du SNJ.",
+    "t": 353.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quatrièmement... pour la sécurité en ligne, BEE SECURE a des conseils pratiques pour les jeunes comme pour les parents.",
+    "t": 361.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Rassemblons tout cela.",
+    "t": 367.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que doit-on retenir du SNJ ?",
+    "t": 368.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Premièrement... c'est le Service National de la Jeunesse du Luxembourg, là pour donner du pouvoir aux jeunes, avec la devise « Jonker staark maachen ».",
+    "t": 370.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement... il soutient tout le secteur de la jeunesse, et propose des expériences d'apprentissage riches et concrètes.",
+    "t": 378.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement... il aide les jeunes à entrer dans la vie active, notamment à travers le service volontaire.",
+    "t": 385.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quatrièmement... il écoute les jeunes, et encourage l'utilisation sûre de la technologie à travers BEE SECURE.",
+    "t": 390.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Grandir est un voyage, avec des hauts et des bas.",
+    "t": 397.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aucun jeune ne devrait avoir à le faire seul.",
+    "t": 399.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et au Luxembourg, ils n'ont pas à le faire.",
+    "t": 402.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le SNJ marche à leurs côtés.",
+    "t": 404.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'était notre épisode sur le Service national de la jeunesse.",
+    "t": 407.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 410.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 417.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 434.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 438.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 440.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 444.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 446.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 448.55
+   }
+  ],
+  "audio_de": "podcast_snj_de.mp3",
+  "duration_de": 517.88,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 5.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und heute sprechen wir über junge Menschen und über die Organisation, die es gibt, um sie zu unterstützen.",
+    "t": 27.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie heißt Service National de la Jeunesse.",
+    "t": 33.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Auf Englisch: National Youth Service.",
+    "t": 36.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Oft kürzt man den Namen mit den Initialen ab... S, N, J.",
+    "t": 39.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der SNJ hat ein schönes Motto auf Luxemburgisch... „Jonker staark maachen\".",
+    "t": 43.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das bedeutet „junge Menschen stärken\".",
+    "t": 49.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Also Anna, was genau ist der SNJ?",
+    "t": 51.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist ein öffentlicher Dienst des Staates, gegründet im Jahr 1964.",
+    "t": 54.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er unterstützt junge Menschen also seit mehr als sechzig Jahren.",
+    "t": 59.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und er arbeitet unter dem Ministerium für Bildung, Kinder und Jugend.",
+    "t": 63.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Seine große Aufgabe ist es, ein Umfeld zu schaffen, in dem sich junge Menschen positiv entwickeln können.",
+    "t": 67.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ihnen zu helfen, zu verantwortungsbewussten, aktiven und fürsorglichen Bürgern heranzuwachsen.",
+    "t": 73.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und er begleitet sie durch Lernerfahrungen, die auf der sogenannten nicht-formalen Bildung beruhen.",
+    "t": 79.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nicht-formale Bildung. Das ist ein wichtiger Gedanke.",
+    "t": 84.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was bedeutet das, Anna?",
+    "t": 87.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es bedeutet Lernen, das außerhalb des normalen Klassenzimmers stattfindet... durch Aktivitäten, Projekte und echte Erfahrungen.",
+    "t": 89.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Lernen durch Tun, durch das Treffen anderer, durch das Ausprobieren von Dingen.",
+    "t": 97.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Keine Prüfungen und Noten.",
+    "t": 102.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau. Und die Teilnahme ist freiwillig.",
+    "t": 104.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Junge Menschen machen mit, weil sie es wollen.",
+    "t": 107.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Schauen wir uns an, was der SNJ tatsächlich anbietet.",
+    "t": 109.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich finde, es hilft, es in mehreren Teilen zu sehen.",
+    "t": 113.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Gute Idee. Der erste Teil ist die Unterstützung des gesamten Jugendsektors.",
+    "t": 116.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Jugendsektor, das sind Jugendhäuser, Jugenddienste und Jugendorganisationen im ganzen Land.",
+    "t": 121.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der SNJ hilft den Gemeinden und diesen Organisationen mit Beratung, mit Förderung und indem er sie miteinander vernetzt.",
+    "t": 127.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hinter vielen lokalen Jugendclubs und Aktivitäten steht also eine stille Unterstützung des SNJ.",
+    "t": 135.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der zweite Teil ist das, was sie Erfahrungen für junge Menschen nennen.",
+    "t": 142.11
+   },
+   {
+    "speaker": "Tom",
     "text": "Hier wird es spannend.",
-    "t": 169.25
+    "t": 145.99
    },
    {
     "speaker": "Tom",
     "text": "Der SNJ betreibt Bildungszentren mit thematischen Aktivitätsprogrammen.",
-    "t": 171.47
+    "t": 147.42
    },
    {
     "speaker": "Anna",
     "text": "Sie fassen sie unter dem Wort „Erliewen\" zusammen, was „erleben\" bedeutet.",
-    "t": 176.64
+    "t": 152.64
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel die Natur erleben, in einem Zentrum in Hollenfels.",
-    "t": 182.13
+    "t": 157.48
    },
    {
     "speaker": "Anna",
     "text": "Oder Sport erleben, im Zentrum in Lultzhausen.",
-    "t": 186.79
+    "t": 161.36
    },
    {
     "speaker": "Tom",
     "text": "Es gibt Medien erleben, wo junge Menschen lernen, wie Videos gemacht werden und wie man Manipulation im Internet erkennt.",
-    "t": 191.1
+    "t": 164.46
    },
    {
     "speaker": "Anna",
     "text": "Es gibt Kreativität erleben, in einem Makerspace mit neuen Technologien.",
-    "t": 198.94
+    "t": 171.8
    },
    {
     "speaker": "Tom",
     "text": "Es gibt Teamarbeit erleben, was die Zusammenarbeit und die Werte des Zusammenlebens fördert.",
-    "t": 204.82
+    "t": 176.61
    },
    {
     "speaker": "Anna",
     "text": "Und Menschenrechte erleben, in Cinqfontaines, einem Ort der Erinnerung an den Holocaust.",
-    "t": 210.84
+    "t": 181.95
    },
    {
     "speaker": "Tom",
     "text": "Das ist sehr eindrücklich.",
-    "t": 217.46
+    "t": 188.57
    },
    {
     "speaker": "Tom",
     "text": "Es hilft jungen Menschen, sich gegen Antisemitismus und Rassismus zu stellen.",
-    "t": 219.9
+    "t": 190.2
    },
    {
     "speaker": "Anna",
     "text": "Es gibt sogar Sprachen erleben... Luxemburgisch, Deutsch, Französisch und Englisch, auf eine spielerische Weise, die Selbstvertrauen schafft.",
-    "t": 225.23
+    "t": 194.73
    },
    {
     "speaker": "Tom",
     "text": "So kann ein junger Mensch wachsen, Spaß haben und lernen, alles gleichzeitig.",
-    "t": 235.61
+    "t": 203.71
    },
    {
     "speaker": "Anna",
     "text": "Der dritte Teil ist die Unterstützung junger Menschen beim Eintritt ins Berufsleben.",
-    "t": 241.18
+    "t": 208.83
    },
    {
     "speaker": "Tom",
     "text": "Das ist wirklich wichtig, und es hängt mit anderen Folgen zusammen, die wir gemacht haben.",
-    "t": 246.64
+    "t": 213.26
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 252.44
-   },
-   {
-    "speaker": "Anna",
-    "text": "Der SNJ hilft jungen Menschen, die Gefahr laufen, die Schule abzubrechen, oder die die Schule früh verlassen haben.",
-    "t": 253.77
+    "text": "Ja. Der SNJ hilft jungen Menschen, die Gefahr laufen, die Schule abzubrechen, oder die die Schule früh verlassen haben.",
+    "t": 217.92
    },
    {
     "speaker": "Tom",
     "text": "Und jungen Menschen, die lange inaktiv waren, weder in der Schule noch in der Arbeit.",
-    "t": 261.92
+    "t": 226.05
    },
    {
     "speaker": "Anna",
     "text": "Für sie bietet der SNJ einen persönlichen, fürsorglichen Ansatz.",
-    "t": 267.56
+    "t": 231.02
    },
    {
     "speaker": "Anna",
     "text": "Sie helfen jedem jungen Menschen, ein sogenanntes „Lebensprojekt\" aufzubauen.",
-    "t": 272.78
+    "t": 235.55
    },
    {
     "speaker": "Tom",
     "text": "Ein Lebensprojekt... ein Plan für die nächsten Schritte, basierend auf den eigenen Bedürfnissen und Fähigkeiten der Person.",
-    "t": 278.75
+    "t": 240.12
    },
    {
     "speaker": "Anna",
     "text": "Sie bieten Workshops, Schulungen und konkrete Alternativen dazu, einfach nur zu Hause zu sitzen.",
-    "t": 286.28
+    "t": 247.6
    },
    {
     "speaker": "Tom",
     "text": "Eine der besondersten ist der Freiwilligendienst.",
-    "t": 293.52
+    "t": 253.32
    },
    {
     "speaker": "Tom",
     "text": "Erzähl uns davon, Anna.",
-    "t": 297.05
+    "t": 256.43
    },
    {
     "speaker": "Anna",
     "text": "Der Freiwilligendienst ermöglicht es einem jungen Menschen, sich für eine bestimmte Zeit für ein echtes Projekt von allgemeinem Interesse zu engagieren.",
-    "t": 299.83
+    "t": 258.02
    },
    {
     "speaker": "Tom",
     "text": "Das ist echtes Lernen durch Tun.",
-    "t": 309.38
+    "t": 265.9
    },
    {
     "speaker": "Tom",
     "text": "Man sammelt Erfahrung, man entdeckt, was einem Freude macht, und man gewinnt Selbstvertrauen.",
-    "t": 312.15
+    "t": 268.26
    },
    {
     "speaker": "Anna",
     "text": "Es kann ein Sprungbrett sein... zu einer Ausbildung, zu einem Job, zum Finden der eigenen Richtung.",
-    "t": 318.46
+    "t": 273.73
    },
    {
     "speaker": "Tom",
     "text": "Diese Möglichkeiten finden Sie auf Webseiten wie volontaires Punkt lu.",
-    "t": 325.64
+    "t": 280.75
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch Schnupperpraktika in Unternehmen, um einen echten Eindruck von der Arbeitswelt zu bekommen.",
-    "t": 330.3
+    "t": 285.5
    },
    {
     "speaker": "Tom",
     "text": "Der SNJ betreibt auch etwas, das Au-Pair-Dienst heißt.",
-    "t": 337.16
+    "t": 291.11
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 341.54
-   },
-   {
-    "speaker": "Anna",
-    "text": "Wenn ein junger Mensch als Au-pair nach Luxemburg kommt und bei einer Gastfamilie lebt, begleitet der SNJ das.",
-    "t": 342.86
+    "text": "Ja. Wenn ein junger Mensch als Au-pair nach Luxemburg kommt und bei einer Gastfamilie lebt, begleitet der SNJ das.",
+    "t": 295.34
    },
    {
     "speaker": "Tom",
     "text": "Sie sorgen dafür, dass das Gesetz eingehalten wird, bereiten die Au-pairs vor und helfen, wenn es einen Konflikt gibt.",
-    "t": 350.37
+    "t": 302.76
    },
    {
     "speaker": "Anna",
     "text": "So sind sowohl der junge Mensch als auch die Familie geschützt.",
-    "t": 357.92
+    "t": 309.33
    },
    {
     "speaker": "Anna",
     "text": "Mehr erfahren Sie unter au Bindestrich pair Punkt lu.",
-    "t": 362.36
+    "t": 312.58
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch einen vierten Teil... jungen Menschen zuhören.",
-    "t": 366.23
+    "t": 315.97
    },
    {
     "speaker": "Anna",
-    "text": "Der SNJ untersucht die Situation junger Menschen, in Zusammenarbeit mit der Universität Luxemburg.",
-    "t": 370.38
+    "text": "Der SNJ hört jungen Menschen zu, durch Umfragen und Gesprächsgruppen.",
+    "t": 319.49
    },
    {
     "speaker": "Tom",
-    "text": "Sie führen Umfragen durch und veröffentlichen alle fünf Jahre einen großen nationalen Jugendbericht.",
-    "t": 377.66
+    "text": "Und alle fünf Jahre gibt es einen großen nationalen Jugendbericht.",
+    "t": 324.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Er ist die Grundlage für den nationalen Plan für junge Menschen, den Jugendpakt.",
+    "t": 328.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der neueste läuft von 2026 bis 2030, und der SNJ hat geholfen, ihn vorzubereiten.",
+    "t": 333.43
    },
    {
     "speaker": "Anna",
     "text": "Sie hören auch direkt zu, über den Jugendrat, den „Jugendrot\", wo junge Menschen sich zu öffentlichen Themen äußern.",
-    "t": 383.84
+    "t": 340.83
    },
    {
     "speaker": "Tom",
     "text": "So wird jungen Menschen nicht nur geholfen... sie werden gehört.",
-    "t": 391.97
+    "t": 348.27
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt BEE SECURE, das viele Menschen kennen.",
-    "t": 396.19
+    "t": 351.82
    },
    {
     "speaker": "Tom",
     "text": "BEE SECURE fördert die sichere und verantwortungsvolle Nutzung des Internets und neuer Technologien.",
-    "t": 400.09
+    "t": 354.98
    },
    {
     "speaker": "Anna",
     "text": "Tipps, um online sicher zu bleiben, Risiken zu vermeiden und Technologie klug zu nutzen.",
-    "t": 406.4
+    "t": 361.1
    },
    {
     "speaker": "Tom",
     "text": "Geben wir einen Eindruck vom Umfang des Ganzen.",
-    "t": 413.02
+    "t": 366.59
    },
    {
     "speaker": "Anna",
-    "text": "Der SNJ hat fünf Bildungszentren und lokale Jugendantennen im ganzen Land für die individuelle Begleitung.",
-    "t": 416.62
+    "text": "Der SNJ hat fünf Bildungszentren, dazu kommt ein neues in Esch-sur-Alzette, und lokale Jugendantennen im ganzen Land für die individuelle Begleitung.",
+    "t": 369.38
    },
    {
     "speaker": "Tom",
     "text": "Und jedes Jahr nehmen Zehntausende junger Menschen an seinen Aktivitäten teil.",
-    "t": 424.21
+    "t": 379.12
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, machen wir das praktisch.",
-    "t": 429.34
+    "t": 383.82
    },
    {
     "speaker": "Anna",
     "text": "Wie kann ein junger Mensch oder ein Elternteil den SNJ tatsächlich nutzen?",
-    "t": 432.69
+    "t": 386.58
    },
    {
     "speaker": "Tom",
     "text": "Erstens... wenn Sie einen jungen Menschen kennen, der unsicher ist, was er nach der Schule tun soll, kann der SNJ ihm helfen, ein Lebensprojekt aufzubauen.",
-    "t": 438.14
+    "t": 391.37
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... wenn ein junger Mensch echte Erfahrung sammeln möchte, informieren Sie sich über den Freiwilligendienst.",
-    "t": 448.04
+    "t": 400.38
    },
    {
     "speaker": "Tom",
     "text": "Drittens... für Spaß, Wachstum und das Treffen anderer, entdecken Sie die Aktivitätszentren und Programme des SNJ.",
-    "t": 455.71
+    "t": 407.34
    },
    {
     "speaker": "Anna",
     "text": "Viertens... für Sicherheit im Internet hat BEE SECURE praktische Ratschläge für junge Menschen und Eltern gleichermaßen.",
-    "t": 463.72
+    "t": 415.68
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir alles zusammen.",
-    "t": 471.63
+    "t": 422.89
    },
    {
     "speaker": "Tom",
     "text": "Was sollte man sich über den SNJ merken?",
-    "t": 474.21
+    "t": 424.44
    },
    {
     "speaker": "Anna",
     "text": "Erstens... es ist Luxemburgs Service National de la Jeunesse, da, um junge Menschen zu stärken, mit dem Motto „Jonker staark maachen\".",
-    "t": 477.78
+    "t": 427.29
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... er unterstützt den gesamten Jugendsektor und bietet reiche, praxisnahe Lernerfahrungen.",
-    "t": 486.98
+    "t": 435.62
    },
    {
     "speaker": "Anna",
     "text": "Drittens... er hilft jungen Menschen beim Eintritt ins Berufsleben, unter anderem durch den Freiwilligendienst.",
-    "t": 493.79
+    "t": 442.38
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... er hört jungen Menschen zu und fördert die sichere Nutzung von Technologie durch BEE SECURE.",
-    "t": 501.06
+    "t": 448.58
    },
    {
     "speaker": "Anna",
     "text": "Erwachsenwerden ist eine Reise, mit Höhen und Tiefen.",
-    "t": 507.45
+    "t": 456.18
    },
    {
     "speaker": "Anna",
     "text": "Kein junger Mensch sollte sie allein gehen müssen.",
-    "t": 511.89
+    "t": 459.76
    },
    {
     "speaker": "Tom",
     "text": "Und in Luxemburg muss er das nicht.",
-    "t": 515.56
+    "t": 462.61
    },
    {
     "speaker": "Tom",
     "text": "Der SNJ geht an ihrer Seite.",
-    "t": 518.49
+    "t": 464.71
    },
    {
     "speaker": "Anna",
-    "text": "Vielen Dank, dass Sie uns heute zugehört haben.",
-    "t": 521.53
-   },
-   {
-    "speaker": "Tom",
-    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
-    "t": 525.37
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 529.19
+    "text": "Das war unsere Folge über den Service National de la Jeunesse.",
+    "t": 467.17
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 530.76
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 471.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 480.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 499.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 504.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 507.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 511.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 513.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 516.33
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm zréck! Et ass wierklech flott, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.62
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner hëllefen, an och de Grenzgänger, fir d'Land ze verstoen a sech hei doheem ze fillen.",
-    "t": 7.66
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An haut schwätze mir iwwer jonk Leit, an iwwer d'Organisatioun, déi et gëtt, fir si z'ënnerstëtzen.",
-    "t": 22.52
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Si heescht de Service National de la Jeunesse. Op Englesch, den National Youth Service.",
-    "t": 28.29
+    "t": 33.22
    },
    {
     "speaker": "Tom",
     "text": "D'Leit kierzen den Numm dacks mat den Initiale of... S, N, J.",
-    "t": 35.11
+    "t": 38.57
    },
    {
     "speaker": "Anna",
     "text": "De SNJ huet eng flott Devis op Lëtzebuergesch... „Jonker staark maachen\". Dat heescht, jonk Leit staark maachen.",
-    "t": 40.79
+    "t": 42.28
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat ass de SNJ genau?",
-    "t": 49.25
+    "t": 49.39
    },
    {
     "speaker": "Anna",
-    "text": "Et ass en ëffentlechen Déngscht vum Staat, gegrënnt am Joer 1964. Hie stëtzt jonk Leit also zanter sechzeg Joer.",
-    "t": 52.82
+    "text": "Et ass en ëffentlechen Déngscht vum Staat, gegrënnt am Joer 1964. Hie stëtzt jonk Leit also zanter méi wéi sechzeg Joer.",
+    "t": 51.57
    },
    {
     "speaker": "Tom",
     "text": "An hie schafft ënner dem Ministère fir Educatioun, Kanner a Jugend.",
-    "t": 61.86
+    "t": 59.95
    },
    {
     "speaker": "Anna",
     "text": "Seng grouss Aufgab ass et, ze hëllefen en Ëmfeld ze schafen, an deem jonk Leit sech positiv entwéckele kënnen.",
-    "t": 66.39
+    "t": 63.33
    },
    {
     "speaker": "Tom",
     "text": "Hinnen ze hëllefen, fir zu verantwortungsvollen, aktiven a fiersuergleche Bierger ze ginn.",
-    "t": 72.21
+    "t": 68.98
    },
    {
     "speaker": "Anna",
     "text": "An hie begleet si duerch Léierfahrungen, déi op deem berouen, wat ee net-formal Bildung nennt.",
-    "t": 76.94
+    "t": 72.75
    },
    {
     "speaker": "Tom",
     "text": "Net-formal Bildung. Dat ass eng wichteg Iddi. Wat heescht dat, Anna?",
-    "t": 82.89
+    "t": 79.07
    },
    {
     "speaker": "Anna",
     "text": "Et heescht Léieren, dat ausserhalb vun der normaler Klass geschitt... duerch Aktivitéiten, Projeten an echt Erfahrungen.",
-    "t": 90.52
+    "t": 83.92
    },
    {
     "speaker": "Tom",
     "text": "Léieren duerch Maachen, duerch d'Begéine vun anere Leit, duerch d'Ausprobéieren vu Saachen. Keng Examen a Punkten.",
-    "t": 98.12
+    "t": 91.04
    },
    {
     "speaker": "Anna",
     "text": "Genau. An d'Participatioun ass fräiwëlleg. Jonk Leit maache mat, well se et wëllen.",
-    "t": 105.02
+    "t": 95.98
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer kucken, wat de SNJ tatsächlech ubitt. Ech mengen, et hëlleft, et a verschidden Deeler ze gesinn.",
-    "t": 113.06
+    "t": 101.75
    },
    {
     "speaker": "Anna",
     "text": "Gutt Iddi. Den éischten Deel ass d'Ënnerstëtzung vum ganze Jugendsecteur.",
-    "t": 119.85
+    "t": 106.83
    },
    {
     "speaker": "Tom",
     "text": "De Jugendsecteur, dat sinn d'Jugendhaiser, d'Jugenddéngschter an d'Jugendorganisatiounen am ganze Land.",
-    "t": 125.13
+    "t": 110.75
    },
    {
     "speaker": "Anna",
     "text": "De SNJ hëlleft de Gemengen an dësen Organisatioune mat Berodung, mat Finanzéierung, an andeems hien se matenee verbënnt.",
-    "t": 131.17
+    "t": 116.86
    },
    {
     "speaker": "Tom",
     "text": "Hannert villen lokale Jugendcluben an Aktivitéite stécht also eng roueg Ënnerstëtzung vum SNJ.",
-    "t": 138.92
+    "t": 124.38
    },
    {
     "speaker": "Anna",
     "text": "Den zweeten Deel ass dat, wat se Erfahrunge fir jonk Leit nennen.",
-    "t": 144.88
+    "t": 129.75
    },
    {
     "speaker": "Tom",
     "text": "Hei gëtt et flott. De SNJ bedreift Bildungszentren mat themateschen Aktivitéitsprogrammer.",
-    "t": 148.78
+    "t": 133.04
    },
    {
     "speaker": "Anna",
     "text": "Si fasse se ënner dem Wuert „Erliewen\" zesummen, wat „eppes erliewen\" heescht.",
-    "t": 156.02
+    "t": 138.35
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispill d'Natur erliewen, an engem Zenter zu Hollenfels.",
-    "t": 160.66
+    "t": 143.17
    },
    {
     "speaker": "Anna",
     "text": "Oder de Sport erliewen, am Zenter zu Lultzhausen.",
-    "t": 165.41
+    "t": 146.68
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt d'Medien erliewen, wou jonk Leit léieren, wéi Videoe gemaach ginn, a wéi een Manipulatioun online erkennt.",
-    "t": 169.52
+    "t": 150.33
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt d'Kreativitéit erliewen, an engem Makerspace mat neien Technologien.",
-    "t": 176.36
+    "t": 156.35
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt d'Teamaarbecht erliewen, wat d'Zesummenaarbecht an d'Wäerter vum Zesummeliewe stäerkt.",
-    "t": 181.71
+    "t": 161.35
    },
    {
     "speaker": "Anna",
     "text": "An d'Mënscherechter erliewen, zu Cinqfontaines, engem Erënnerungsuert iwwer den Holocaust.",
-    "t": 187.33
+    "t": 166.02
    },
    {
     "speaker": "Tom",
     "text": "Deen ass ganz staark. Hie hëlleft jonke Leit, sech géint Antisemitismus a Rassismus ze stellen.",
-    "t": 193.71
+    "t": 172.23
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt souguer d'Sproochen erliewen... Lëtzebuergesch, Däitsch, Franséisch an Englesch, op eng flott Manéier, déi Selbstvertrauen gëtt.",
-    "t": 200.72
+    "t": 176.95
    },
    {
     "speaker": "Tom",
     "text": "Esou kann e jonke Mënsch wuessen, Spaass hunn a léieren, alles zur selwechter Zäit.",
-    "t": 209.63
+    "t": 184.84
    },
    {
     "speaker": "Anna",
     "text": "Den drëtten Deel ass d'Ënnerstëtzung fir jonk Leit, déi an d'Aarbechtsliewen erakommen.",
-    "t": 214.54
+    "t": 189.67
    },
    {
     "speaker": "Tom",
     "text": "Dat ass wierklech wichteg, an et hänkt mat anere Episoden zesummen, déi mir gemaach hunn.",
-    "t": 218.93
+    "t": 193.81
    },
    {
     "speaker": "Anna",
     "text": "Jo. De SNJ hëlleft jonke Leit, déi a Gefor sinn, d'Schoul ofzebriechen, oder déi d'Schoul fréi verlooss hunn.",
-    "t": 223.71
+    "t": 197.79
    },
    {
     "speaker": "Tom",
     "text": "A jonke Leit, déi laang inaktiv waren, weder an der Schoul nach an der Aarbecht.",
-    "t": 231.72
+    "t": 204.57
    },
    {
     "speaker": "Anna",
     "text": "Fir si bitt de SNJ eng perséinlech, fiersuerglech Approche. Si hëllefen all jonke Mënsch, dat opzebauen, wat se e „Liewensprojet\" nennen.",
-    "t": 236.87
+    "t": 209.29
    },
    {
     "speaker": "Tom",
     "text": "E Liewensprojet... e Plang fir déi nächst Schrëtt, baséiert op den eegene Besoinen a Fäegkeete vun där Persoun.",
-    "t": 245.49
+    "t": 217.61
    },
    {
     "speaker": "Anna",
     "text": "Si bidde Workshoppen, Formatiounen, a konkret Alternativen dozou, einfach doheem ze sëtzen.",
-    "t": 251.39
+    "t": 223.08
    },
    {
     "speaker": "Tom",
     "text": "Eng vun de speziellsten ass de fräiwëllegen Déngscht. Erziel eis dovun, Anna.",
-    "t": 256.97
+    "t": 228.45
    },
    {
     "speaker": "Anna",
     "text": "De fräiwëllegen Déngscht erlaabt et engem jonke Mënsch, sech fir eng gewëss Zäit fir e richtege Projet vun allgemengem Interêt z'engagéieren.",
-    "t": 263.34
+    "t": 232.75
    },
    {
     "speaker": "Tom",
     "text": "Dat ass richtegt Léieren duerch Maachen. Een sammelt Erfahrung, een entdeckt, wat ee gär huet, an een gewënnt Selbstvertrauen.",
-    "t": 270.4
+    "t": 239
    },
    {
     "speaker": "Anna",
     "text": "Et kann e Sprongbriet sinn... Richtung Formatioun, Richtung Aarbecht, Richtung d'Fanne vu senger Richtung.",
-    "t": 278.22
+    "t": 244.93
    },
    {
     "speaker": "Tom",
     "text": "Dës Méiglechkeete fannt Dir op Websäite wéi volontaires Punkt lu.",
-    "t": 284.5
+    "t": 250.95
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och Découverte-Stagen a Betriber, fir e richtege Goût vun der Aarbechtswelt ze kréien.",
-    "t": 289.19
+    "t": 255.08
    },
    {
     "speaker": "Tom",
     "text": "De SNJ bedreift och eppes, wat den Au-Pair-Déngscht heescht.",
-    "t": 294.87
+    "t": 260.57
    },
    {
     "speaker": "Anna",
     "text": "Jo. Wann e jonke Mënsch als Au-pair op Lëtzebuerg kënnt a bei enger Gaaschtfamill wunnt, da begleet de SNJ dat.",
-    "t": 298.91
+    "t": 263.81
    },
    {
     "speaker": "Tom",
     "text": "Si suergen dofir, datt d'Gesetz respektéiert gëtt, bereeden d'Au-pairen vir, an hëllefen, wann et e Konflikt gëtt.",
-    "t": 307.86
+    "t": 271.26
    },
    {
     "speaker": "Anna",
     "text": "Esou sinn de jonke Mënsch an d'Famill allebéid geschützt. Méi erfaart Dir op au Strich pair Punkt lu.",
-    "t": 313.52
+    "t": 276.83
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt och e véierten Deel... jonke Leit nolauschteren.",
-    "t": 320.54
+    "t": 283.31
    },
    {
     "speaker": "Anna",
-    "text": "De SNJ studéiert d'Situatioun vun de jonke Leit, a Zesummenaarbecht mat der University of Luxembourg.",
-    "t": 324.47
+    "text": "De SNJ lauschtert de jonke Leit no, duerch Ëmfroen an Diskussiounsgruppen.",
+    "t": 286.56
    },
    {
     "speaker": "Tom",
-    "text": "Si maachen Ëmfroen, a publizéieren all fënnef Joer e grousse nationale Rapport iwwer d'Jugend.",
-    "t": 330.55
+    "text": "An all fënnef Joer gëtt et e grousse nationale Rapport iwwer d'Jugend. En ass d'Basis fir den nationale Plang fir jonk Leit, de Jugendpakt. Dee neiste leeft vun 2026 bis 2030, an de SNJ huet gehollef, en virzebereeden.",
+    "t": 291.4
    },
    {
     "speaker": "Anna",
     "text": "Si lauschteren och direkt no, iwwer de Jugendrot, de „Jugendrot\", wou jonk Leit sech zu ëffentleche Sujete melden.",
-    "t": 335.71
+    "t": 304.43
    },
    {
     "speaker": "Tom",
     "text": "Esou gëtt jonke Leit net nëmme gehollef... si gi gehéiert.",
-    "t": 342.9
+    "t": 311.13
    },
    {
     "speaker": "Anna",
     "text": "An et gëtt BEE SECURE, dat vill Leit kennen.",
-    "t": 346.56
+    "t": 314.25
    },
    {
     "speaker": "Tom",
     "text": "BEE SECURE förderert déi sécher a verantwortungsvoll Notzung vum Internet an den neien Technologien.",
-    "t": 350.18
+    "t": 317.34
    },
    {
     "speaker": "Anna",
     "text": "Tipps, fir online sécher ze bleiwen, fir Risiken ze vermeiden, a fir d'Technologie klug ze notzen.",
-    "t": 355.78
+    "t": 322.01
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer eng Iddi ginn vum Ëmfang vun all deem.",
-    "t": 361.35
+    "t": 327.22
    },
    {
     "speaker": "Anna",
-    "text": "De SNJ huet fënnef Bildungszentren, a lokal Jugendantennen am ganze Land fir déi individuell Begleedung.",
-    "t": 364.53
+    "text": "De SNJ huet fënnef Bildungszentren, dobäi kënnt en neit zu Esch-Uelzecht, a lokal Jugendantennen am ganze Land fir déi individuell Begleedung.",
+    "t": 329.35
    },
    {
     "speaker": "Tom",
     "text": "An all Joer huelen Zéngdausende vu jonke Leit un sengen Aktivitéiten deel.",
-    "t": 371.61
+    "t": 338.82
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, loosse mer dat konkret maachen. Wéi kann e jonke Mënsch, oder en Elterendeel, de SNJ tatsächlech notzen?",
-    "t": 376.65
+    "t": 343.26
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... wann Dir e jonke Mënsch kennt, deen onsécher ass, wat e no der Schoul maache soll, da kann de SNJ him hëllefen, e Liewensprojet opzebauen.",
-    "t": 384.69
+    "t": 349.85
    },
    {
     "speaker": "Anna",
     "text": "Als zweeten... wann e jonke Mënsch richteg Erfahrung wëll, da kuckt Iech de fräiwëllegen Déngscht un.",
-    "t": 391.58
+    "t": 356.72
    },
    {
     "speaker": "Tom",
     "text": "Als drëtten... fir Spaass, fir ze wuessen a fir aner Leit ze begéinen, entdeckt d'Aktivitéitszentren an d'Programme vum SNJ.",
-    "t": 397.39
+    "t": 362.38
    },
    {
     "speaker": "Anna",
     "text": "Als véierten... fir Sécherheet online huet BEE SECURE praktesch Rotschléi fir jonk Leit an Eltere gläichermoossen.",
-    "t": 403.66
+    "t": 369.74
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer alles zesummebréngen. Wat soll ee sech iwwer de SNJ merken?",
-    "t": 410.3
+    "t": 376.81
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... et ass de Lëtzebuerger Service National de la Jeunesse, do fir jonk Leit staark ze maachen, mat der Devis „Jonker staark maachen\".",
-    "t": 416.36
+    "t": 381.08
    },
    {
     "speaker": "Tom",
     "text": "Als zweeten... hien ënnerstëtzt de ganze Jugendsecteur, a bitt räich, praxisno Léierfahrungen.",
-    "t": 423.95
+    "t": 389.21
    },
    {
     "speaker": "Anna",
     "text": "Als drëtten... hien hëlleft jonke Leit, an d'Aarbechtsliewen erakommen, ënner anerem duerch de fräiwëllegen Déngscht.",
-    "t": 430.02
+    "t": 395.13
    },
    {
     "speaker": "Tom",
     "text": "An als véierten... hien lauschtert jonke Leit no, a förderert déi sécher Notzung vun der Technologie duerch BEE SECURE.",
-    "t": 435.9
+    "t": 401.28
    },
    {
     "speaker": "Anna",
     "text": "Grouss ze ginn ass eng Rees, mat Héichten an Déiften. Kee jonke Mënsch sollt se eleng goen mussen.",
-    "t": 441.76
+    "t": 406.8
    },
    {
     "speaker": "Tom",
     "text": "An zu Lëtzebuerg mussen se dat net. De SNJ geet niewent hinnen.",
-    "t": 448.49
+    "t": 412.13
    },
    {
     "speaker": "Anna",
-    "text": "Villmools Merci, datt Dir eis haut nogelauschtert hutt.",
-    "t": 454.73
+    "text": "Dat war eis Episod iwwer de Service national de la jeunesse. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 416.41
    },
    {
     "speaker": "Tom",
-    "text": "Passt op Iech op, a bis an der nächster Episod. Äddi!",
-    "t": 457.68
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 461.47
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 462.83
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 464.67
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 20,
@@ -59872,7 +59919,7 @@ const EPISODES = [
   "title": "The Office National de l'Enfance – Support and Protection for Children and Families",
   "description": "What the Office National de l'Enfance (ONE) is, how it works with families voluntarily and step by step to protect children's wellbeing, its fourteen regional offices, the professionals and help measures it offers (from practical and psychological support to foster care), and how to ask for help.",
   "audio": "podcast_enfance.mp3",
-  "duration": 422.38,
+  "duration": 429.69,
   "topics": [
    "What the ONE is",
    "Working with families, voluntarily",
@@ -59886,483 +59933,503 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's good to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.38
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.42
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.52
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border families too, to know what support exists here.",
-    "t": 14.34
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today's topic is a caring one... support and protection for children, young people, and families.",
-    "t": 21.63
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "We are talking about the Office National de l'Enfance.",
-    "t": 27.85
+    "t": 34.92
    },
    {
     "speaker": "Anna",
     "text": "In English, the National Childhood Office.",
-    "t": 31.75
+    "t": 38
    },
    {
     "speaker": "Tom",
     "text": "Many people shorten it to its initials... O, N, E.",
-    "t": 35.22
+    "t": 40.58
    },
    {
     "speaker": "Anna",
     "text": "So Tom, what is the ONE, and what does it do?",
-    "t": 40.81
+    "t": 44.47
    },
    {
     "speaker": "Tom",
     "text": "Its purpose is to protect the wellbeing of the child, and to support children, young people, and families who are going through difficult times.",
-    "t": 44.72
+    "t": 47.56
    },
    {
     "speaker": "Anna",
     "text": "And here is something I really want people to understand.",
-    "t": 52.58
+    "t": 55.39
    },
    {
     "speaker": "Anna",
     "text": "The ONE works with families, not against them.",
-    "t": 56.25
+    "t": 58.75
    },
    {
     "speaker": "Tom",
     "text": "That's a key point.",
-    "t": 59.84
+    "t": 61.73
    },
    {
     "speaker": "Tom",
     "text": "They aim for voluntary collaboration.",
-    "t": 61.97
+    "t": 62.97
    },
    {
     "speaker": "Tom",
     "text": "They walk beside the family, step by step.",
-    "t": 65.21
+    "t": 65.2
    },
    {
     "speaker": "Anna",
     "text": "The goal is to help the family find its own footing again, and to do what is best for the child.",
-    "t": 68.65
+    "t": 67.56
    },
    {
     "speaker": "Tom",
     "text": "So this is not about blame.",
-    "t": 74.43
+    "t": 73.36
    },
    {
     "speaker": "Tom",
     "text": "It is about support.",
-    "t": 77.14
+    "t": 75.45
    },
    {
     "speaker": "Anna",
-    "text": "Exactly.",
-    "t": 79.51
-   },
-   {
-    "speaker": "Anna",
-    "text": "Let's talk about who the ONE is for.",
-    "t": 81.37
+    "text": "Exactly. Let's talk about who the ONE is for.",
+    "t": 77.05
    },
    {
     "speaker": "Tom",
     "text": "It is for all kinds of families... two-parent families, single-parent families, adoptive families, and foster families.",
-    "t": 84.35
+    "t": 80.37
    },
    {
     "speaker": "Anna",
     "text": "And it is for children and young people, from the very youngest, up to young adults.",
-    "t": 91.41
+    "t": 86.76
    },
    {
     "speaker": "Tom",
     "text": "Now, how do you actually reach the ONE?",
-    "t": 96.96
+    "t": 91.88
    },
    {
     "speaker": "Tom",
     "text": "Where is it?",
-    "t": 100.18
+    "t": 93.95
    },
    {
     "speaker": "Anna",
     "text": "The ONE is close to people.",
-    "t": 101.98
+    "t": 94.92
    },
    {
     "speaker": "Anna",
     "text": "It has fourteen regional childhood offices spread across the whole country.",
-    "t": 104.46
+    "t": 97.01
    },
    {
     "speaker": "Tom",
     "text": "So wherever you live in Luxembourg, there is an office not too far away.",
-    "t": 109.24
+    "t": 101.76
    },
    {
     "speaker": "Anna",
     "text": "You meet them by appointment, at the office nearest your home.",
-    "t": 114.08
+    "t": 106.21
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about the people you would actually meet there.",
-    "t": 118.18
+    "t": 109.81
    },
    {
     "speaker": "Anna",
     "text": "At the heart of the ONE are professionals sometimes called intervention project coordinators.",
-    "t": 121.98
+    "t": 112.49
    },
    {
     "speaker": "Tom",
     "text": "They are psychologists, social workers, and trained educators.",
-    "t": 127.49
+    "t": 118.33
    },
    {
     "speaker": "Anna",
     "text": "When a family asks for support, one of them meets the family to understand the situation clearly.",
-    "t": 132.11
+    "t": 121.76
    },
    {
     "speaker": "Tom",
     "text": "They might visit the family at home, or hold meetings at the regional office.",
-    "t": 138.37
+    "t": 127.72
    },
    {
     "speaker": "Anna",
     "text": "Then, together with the family, they set up the help measures that fit that family's real needs.",
-    "t": 143.14
+    "t": 131.53
    },
    {
     "speaker": "Tom",
     "text": "And they keep checking... is this helping?",
-    "t": 149.32
+    "t": 137.54
    },
    {
     "speaker": "Tom",
     "text": "Do we need to try something else?",
-    "t": 152.4
+    "t": 140.25
    },
    {
     "speaker": "Anna",
     "text": "So it is a living plan, made with the family, not handed down to them.",
-    "t": 155.13
+    "t": 142.15
    },
    {
     "speaker": "Tom",
     "text": "Let's go through some of the kinds of help the ONE can put in place.",
-    "t": 159.99
+    "t": 146.81
    },
    {
     "speaker": "Anna",
     "text": "The first is what's called socio-family support.",
-    "t": 163.99
+    "t": 150.79
    },
    {
     "speaker": "Tom",
     "text": "This is practical, everyday help.",
-    "t": 167.61
+    "t": 153.8
    },
    {
     "speaker": "Tom",
     "text": "Managing the household, organising daily life, even managing the family budget.",
-    "t": 170.67
+    "t": 155.55
    },
    {
     "speaker": "Anna",
     "text": "It can be a lifeline at a hard moment... after a new baby arrives, after a separation, during an illness, or after a death.",
-    "t": 176.2
+    "t": 160.06
    },
    {
     "speaker": "Tom",
     "text": "Short-term help, to get through a difficult patch and find balance again.",
-    "t": 184.6
+    "t": 168.93
    },
    {
     "speaker": "Anna",
     "text": "The second kind is psychological, social, or educational support within the family.",
-    "t": 189.35
+    "t": 172.91
    },
    {
     "speaker": "Tom",
     "text": "This looks at the whole family together.",
-    "t": 195.3
+    "t": 178.1
    },
    {
     "speaker": "Tom",
     "text": "Setting good routines, agreeing on rules, expressing care, feeling safe.",
-    "t": 198.43
+    "t": 180.13
    },
    {
     "speaker": "Anna",
     "text": "It helps everyone find their place in the family again.",
-    "t": 203.72
+    "t": 184.96
    },
    {
     "speaker": "Anna",
     "text": "And it often happens at home.",
-    "t": 207.47
+    "t": 187.87
    },
    {
     "speaker": "Tom",
     "text": "The third kind is support from a psychologist or psychotherapist for a child or young person.",
-    "t": 210.09
+    "t": 189.92
    },
    {
     "speaker": "Anna",
     "text": "This is for personal, relational, or behavioural difficulties, for children and young people up to twenty-seven.",
-    "t": 215.75
+    "t": 195.16
    },
    {
     "speaker": "Tom",
     "text": "And for very young children, there is early intervention.",
-    "t": 223.3
+    "t": 201.63
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 227.34
-   },
-   {
-    "speaker": "Anna",
-    "text": "If a small child has difficulty with movement, speech, or development, specialists can help early.",
-    "t": 229.03
+    "text": "Yes. If a small child has difficulty with movement, speech, or development, specialists can help early.",
+    "t": 204.48
    },
    {
     "speaker": "Tom",
     "text": "Helping early can make a real difference, and can prevent bigger difficulties later.",
-    "t": 235.45
+    "t": 211.27
    },
    {
     "speaker": "Anna",
     "text": "There is also care away from home, when that becomes necessary.",
-    "t": 240.71
+    "t": 215.7
    },
    {
     "speaker": "Tom",
     "text": "Sometimes, for a while, a child cannot safely stay in the family home... for example during a serious family crisis.",
-    "t": 245.17
+    "t": 219.75
    },
    {
     "speaker": "Anna",
     "text": "In those cases, the child can be welcomed and supported, either in a care centre, or in a foster family.",
-    "t": 252.19
+    "t": 226.77
    },
    {
     "speaker": "Tom",
     "text": "And the aim, wherever possible, is to prepare the child to return home, when things are safe and ready.",
-    "t": 259.03
+    "t": 233.75
    },
    {
     "speaker": "Anna",
     "text": "Foster families deserve a special mention here.",
-    "t": 265.45
+    "t": 240.39
    },
    {
     "speaker": "Tom",
     "text": "A foster family gives a child a stable, caring home when their own family cannot, for a time.",
-    "t": 268.96
+    "t": 243.38
    },
    {
     "speaker": "Anna",
     "text": "It protects the child's wellbeing, while the birth parents work on their situation.",
-    "t": 274.66
+    "t": 248.98
    },
    {
     "speaker": "Tom",
     "text": "The ONE supports and supervises these foster families too.",
-    "t": 279.82
+    "t": 253.9
    },
    {
     "speaker": "Anna",
     "text": "Now, the big practical question.",
-    "t": 284.04
+    "t": 257.27
    },
    {
     "speaker": "Anna",
     "text": "How does a family actually ask for help?",
-    "t": 287.21
+    "t": 259.19
    },
    {
     "speaker": "Tom",
     "text": "You can contact the ONE directly, using the request-for-help form on their website.",
-    "t": 290.41
+    "t": 262.02
    },
    {
     "speaker": "Anna",
     "text": "After that, someone from the regional office nearest you will get in touch.",
-    "t": 295.76
+    "t": 266.44
    },
    {
     "speaker": "Tom",
     "text": "They will help you describe what you need, and set up the right steps.",
-    "t": 300.55
+    "t": 270.69
    },
    {
     "speaker": "Anna",
     "text": "A professional already working with the family, like a social worker, can also help start the request.",
-    "t": 304.97
+    "t": 274.58
    },
    {
     "speaker": "Tom",
     "text": "So whether you reach out yourself, or someone helps you, the door is open.",
-    "t": 311.61
+    "t": 281.03
    },
    {
     "speaker": "Anna",
     "text": "Let's say a gentle word here, because this topic can feel heavy.",
-    "t": 316.43
+    "t": 285.23
    },
    {
     "speaker": "Tom",
     "text": "Asking for help is not a sign of failure.",
-    "t": 320.85
+    "t": 289.14
    },
    {
     "speaker": "Tom",
     "text": "It is a sign of strength, and of love for your child.",
-    "t": 324.18
+    "t": 291.2
    },
    {
     "speaker": "Anna",
     "text": "Every family struggles sometimes.",
-    "t": 328.02
+    "t": 294.38
    },
    {
     "speaker": "Anna",
     "text": "Reaching out early often makes things easier, not harder.",
-    "t": 330.97
+    "t": 296.49
    },
    {
     "speaker": "Tom",
     "text": "And the ONE's whole approach is built on respect and collaboration.",
-    "t": 335.1
+    "t": 300.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "A big reform of child and youth protection is being discussed in Parliament, and it keeps this voluntary approach first, with the ONE at its centre.",
+    "t": 303.62
    },
    {
     "speaker": "Anna",
     "text": "So Tom, let's make this practical.",
-    "t": 339.43
+    "t": 311.47
    },
    {
     "speaker": "Anna",
     "text": "What should people take away?",
-    "t": 342.69
+    "t": 313.64
    },
    {
     "speaker": "Tom",
     "text": "First... if your family is going through a hard time, you don't have to handle it all alone.",
-    "t": 345.11
+    "t": 315.49
    },
    {
     "speaker": "Anna",
     "text": "Second... the ONE has fourteen regional offices, so there is support near where you live.",
-    "t": 350.62
+    "t": 320.66
    },
    {
     "speaker": "Tom",
     "text": "Third... the help is built with you, around your real needs, from practical support to psychological care.",
-    "t": 356.55
+    "t": 327.03
    },
    {
     "speaker": "Anna",
     "text": "Fourth... you can start simply, with a request-for-help form on the ONE's website.",
-    "t": 363.24
+    "t": 334.41
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it together.",
-    "t": 368.79
+    "t": 340.01
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about the ONE?",
-    "t": 371.16
+    "t": 341.17
    },
    {
     "speaker": "Anna",
     "text": "First... it protects the wellbeing of children, and supports children, young people, and families.",
-    "t": 374.36
+    "t": 343.78
    },
    {
     "speaker": "Tom",
     "text": "Second... it works with families, voluntarily, step by step, with respect.",
-    "t": 381.04
+    "t": 350.11
    },
    {
     "speaker": "Anna",
     "text": "Third... its help ranges from everyday practical support to psychological care and, when needed, foster care.",
-    "t": 386.59
+    "t": 354.78
    },
    {
     "speaker": "Tom",
     "text": "And fourth... reaching it is simple, through fourteen regional offices and a request-for-help form.",
-    "t": 393.88
+    "t": 362.07
    },
    {
     "speaker": "Anna",
     "text": "Raising children is one of the hardest and most beautiful jobs there is.",
-    "t": 399.88
+    "t": 368.98
    },
    {
     "speaker": "Anna",
     "text": "And no one should do it without support.",
-    "t": 404.58
+    "t": 372.88
    },
    {
     "speaker": "Tom",
     "text": "In Luxembourg, that support has a name... the Office National de l'Enfance.",
-    "t": 407.58
+    "t": 375.43
    },
    {
     "speaker": "Anna",
-    "text": "Thank you so much for listening today.",
-    "t": 412.75
-   },
-   {
-    "speaker": "Tom",
-    "text": "Take care, and see you in the next episode.",
-    "t": 415.71
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 419.17
+    "text": "That was our episode about the Office National de l'Enfance.",
+    "t": 380.05
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 420.85
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 383.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 392.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 411.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 417.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 420.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 424.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 425.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 428.08
    }
   ],
   "questions": [
@@ -60565,1341 +60632,1380 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_enfance_fr.mp3",
-  "duration_fr": 441.26,
+  "duration_fr": 424.91,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour et bon retour parmi nous !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Nous sommes ravis de vous compter parmi nous aujourd'hui.",
-    "t": 2.74
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.42
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 8.99
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme qui parle du vivre-ensemble au Luxembourg.",
-    "t": 12.46
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, ainsi que les familles frontalières, à connaître les aides qui existent ici.",
-    "t": 16.43
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui est plein de bienveillance... le soutien et la protection des enfants, des jeunes et des familles.",
-    "t": 24.07
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "Nous parlons de l'Office National de l'Enfance.",
-    "t": 30.54
+    "t": 30.02
    },
    {
     "speaker": "Anna",
     "text": "En anglais, le National Childhood Office.",
-    "t": 33.98
+    "t": 32.33
    },
    {
     "speaker": "Tom",
     "text": "Beaucoup de gens utilisent simplement ses initiales... O, N, E.",
-    "t": 37.71
+    "t": 34.85
    },
    {
     "speaker": "Anna",
     "text": "Alors Tom, qu'est-ce que l'ONE et que fait-il ?",
-    "t": 42.97
+    "t": 39.59
    },
    {
     "speaker": "Tom",
     "text": "Sa mission est de protéger le bien-être de l'enfant et de soutenir les enfants, les jeunes et les familles qui traversent des moments difficiles.",
-    "t": 46.23
+    "t": 42.35
    },
    {
     "speaker": "Anna",
     "text": "Et voici une chose que je tiens vraiment à faire comprendre.",
-    "t": 53.52
+    "t": 49.89
    },
    {
     "speaker": "Anna",
     "text": "L'ONE travaille avec les familles, pas contre elles.",
-    "t": 57.25
+    "t": 52.35
    },
    {
     "speaker": "Tom",
     "text": "C'est un point essentiel.",
-    "t": 60.98
+    "t": 55.18
    },
    {
     "speaker": "Tom",
     "text": "Ils visent une collaboration volontaire.",
-    "t": 63.33
+    "t": 56.97
    },
    {
     "speaker": "Tom",
     "text": "Ils avancent aux côtés de la famille, pas à pas.",
-    "t": 66.3
+    "t": 59.32
    },
    {
     "speaker": "Anna",
     "text": "L'objectif est d'aider la famille à retrouver son équilibre et à faire ce qui est le mieux pour l'enfant.",
-    "t": 69.74
+    "t": 62.26
    },
    {
     "speaker": "Tom",
     "text": "Il ne s'agit donc pas de juger.",
-    "t": 75.25
+    "t": 66.9
    },
    {
     "speaker": "Tom",
     "text": "Il s'agit de soutenir.",
-    "t": 77.87
+    "t": 68.81
    },
    {
     "speaker": "Anna",
-    "text": "Exactement.",
-    "t": 80.22
-   },
-   {
-    "speaker": "Anna",
-    "text": "Parlons de ceux à qui l'ONE s'adresse.",
-    "t": 82.04
+    "text": "Exactement. Parlons de ceux à qui l'ONE s'adresse.",
+    "t": 70.53
    },
    {
     "speaker": "Tom",
     "text": "Il s'adresse à toutes sortes de familles... les familles biparentales, les familles monoparentales, les familles adoptives et les familles d'accueil.",
-    "t": 85.1
+    "t": 73.64
    },
    {
     "speaker": "Anna",
     "text": "Et il s'adresse aux enfants et aux jeunes, des tout-petits jusqu'aux jeunes adultes.",
-    "t": 93.12
+    "t": 81.76
    },
    {
     "speaker": "Tom",
     "text": "Maintenant, comment joindre concrètement l'ONE ?",
-    "t": 98.09
+    "t": 86.17
    },
    {
     "speaker": "Tom",
     "text": "Où se trouve-t-il ?",
-    "t": 101.54
+    "t": 89.09
    },
    {
     "speaker": "Anna",
     "text": "L'ONE est proche des gens.",
-    "t": 103.55
+    "t": 90.46
    },
    {
     "speaker": "Anna",
     "text": "Il dispose de quatorze offices régionaux de l'enfance répartis dans tout le pays.",
-    "t": 105.79
+    "t": 91.99
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, où que vous habitiez au Luxembourg, il y a un office pas trop loin.",
-    "t": 110.79
+    "t": 96.28
    },
    {
     "speaker": "Anna",
     "text": "Vous les rencontrez sur rendez-vous, à l'office le plus proche de votre domicile.",
-    "t": 115.79
+    "t": 100.61
    },
    {
     "speaker": "Tom",
     "text": "Parlons des personnes que vous y rencontreriez réellement.",
-    "t": 121.01
+    "t": 104.58
    },
    {
     "speaker": "Anna",
     "text": "Au cœur de l'ONE se trouvent des professionnels parfois appelés coordinateurs de projet d'intervention.",
-    "t": 124.4
+    "t": 107.85
    },
    {
     "speaker": "Tom",
     "text": "Ce sont des psychologues, des travailleurs sociaux et des éducateurs qualifiés.",
-    "t": 130.31
+    "t": 112.88
    },
    {
     "speaker": "Anna",
     "text": "Lorsqu'une famille demande de l'aide, l'un d'eux rencontre la famille pour bien comprendre la situation.",
-    "t": 135.13
+    "t": 117.52
    },
    {
     "speaker": "Tom",
     "text": "Ils peuvent rendre visite à la famille à domicile, ou organiser des rencontres à l'office régional.",
-    "t": 141.35
+    "t": 122.24
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, avec la famille, ils mettent en place les mesures d'aide qui correspondent aux besoins réels de cette famille.",
-    "t": 147.14
+    "t": 128.01
    },
    {
     "speaker": "Tom",
     "text": "Et ils vérifient régulièrement... est-ce que cela aide ?",
-    "t": 154.12
+    "t": 133.64
    },
    {
     "speaker": "Tom",
     "text": "Faut-il essayer autre chose ?",
-    "t": 157.54
+    "t": 136.6
    },
    {
     "speaker": "Anna",
     "text": "C'est donc un plan vivant, élaboré avec la famille, et non imposé.",
-    "t": 160.09
+    "t": 138.41
    },
    {
     "speaker": "Tom",
     "text": "Passons en revue quelques types d'aide que l'ONE peut mettre en place.",
-    "t": 165.17
+    "t": 142.17
    },
    {
     "speaker": "Anna",
     "text": "Le premier est ce qu'on appelle l'aide socio-familiale.",
-    "t": 169.08
+    "t": 146.09
    },
    {
     "speaker": "Tom",
     "text": "C'est une aide pratique, au quotidien.",
-    "t": 172.88
+    "t": 149.19
    },
    {
     "speaker": "Tom",
     "text": "Gérer le ménage, organiser la vie de tous les jours, et même gérer le budget familial.",
-    "t": 175.76
+    "t": 151.54
    },
    {
     "speaker": "Anna",
     "text": "Cela peut être une bouée de sauvetage dans un moment difficile... après l'arrivée d'un bébé, après une séparation, pendant une maladie ou après un décès.",
-    "t": 181.51
+    "t": 156.84
    },
    {
     "speaker": "Tom",
     "text": "Une aide de courte durée, pour traverser une période difficile et retrouver son équilibre.",
-    "t": 190.42
+    "t": 164.29
    },
    {
     "speaker": "Anna",
     "text": "Le deuxième type est le soutien psychologique, social ou éducatif au sein de la famille.",
-    "t": 195.79
+    "t": 169.81
    },
    {
     "speaker": "Tom",
     "text": "Cela considère toute la famille ensemble.",
-    "t": 201.39
+    "t": 174.39
    },
    {
     "speaker": "Tom",
     "text": "Instaurer de bonnes habitudes, s'accorder sur des règles, exprimer de l'affection, se sentir en sécurité.",
-    "t": 204.56
+    "t": 176.82
    },
    {
     "speaker": "Anna",
     "text": "Cela aide chacun à retrouver sa place dans la famille.",
-    "t": 211.43
+    "t": 183.6
    },
    {
     "speaker": "Anna",
     "text": "Et cela se passe souvent à domicile.",
-    "t": 215.18
+    "t": 186.22
    },
    {
     "speaker": "Tom",
     "text": "Le troisième type est le soutien d'un psychologue ou d'un psychothérapeute pour un enfant ou un jeune.",
-    "t": 218.24
+    "t": 188.37
    },
    {
     "speaker": "Anna",
     "text": "C'est pour des difficultés personnelles, relationnelles ou comportementales, pour les enfants et les jeunes jusqu'à vingt-sept ans.",
-    "t": 223.53
+    "t": 193.99
    },
    {
     "speaker": "Tom",
     "text": "Et pour les tout-petits, il y a l'intervention précoce.",
-    "t": 230.81
+    "t": 200.32
    },
    {
     "speaker": "Anna",
-    "text": "Oui.",
-    "t": 234.72
-   },
-   {
-    "speaker": "Anna",
-    "text": "Si un petit enfant a des difficultés de mouvement, de langage ou de développement, des spécialistes peuvent l'aider tôt.",
-    "t": 236.21
+    "text": "Oui. Si un petit enfant a des difficultés de mouvement, de langage ou de développement, des spécialistes peuvent l'aider tôt.",
+    "t": 203.53
    },
    {
     "speaker": "Tom",
     "text": "Aider tôt peut faire une vraie différence et peut éviter de plus grandes difficultés plus tard.",
-    "t": 243.25
+    "t": 209.78
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi la prise en charge hors du domicile, lorsque cela devient nécessaire.",
-    "t": 248.31
+    "t": 215.04
    },
    {
     "speaker": "Tom",
     "text": "Parfois, pour un temps, un enfant ne peut pas rester en sécurité au domicile familial... par exemple lors d'une grave crise familiale.",
-    "t": 253.73
+    "t": 219.21
    },
    {
     "speaker": "Anna",
     "text": "Dans ces cas, l'enfant peut être accueilli et soutenu, soit dans un centre d'accueil, soit dans une famille d'accueil.",
-    "t": 261.64
+    "t": 226.3
    },
    {
     "speaker": "Tom",
     "text": "Et le but, dans la mesure du possible, est de préparer le retour de l'enfant à la maison, lorsque tout est sûr et prêt.",
-    "t": 268.83
+    "t": 231.51
    },
    {
     "speaker": "Anna",
     "text": "Les familles d'accueil méritent une mention particulière ici.",
-    "t": 275.65
+    "t": 238.32
    },
    {
     "speaker": "Tom",
     "text": "Une famille d'accueil offre à un enfant un foyer stable et bienveillant lorsque sa propre famille ne le peut pas, pour un temps.",
-    "t": 279.69
+    "t": 241.32
    },
    {
     "speaker": "Anna",
     "text": "Elle protège le bien-être de l'enfant, pendant que les parents biologiques travaillent sur leur situation.",
-    "t": 285.98
+    "t": 248.52
    },
    {
     "speaker": "Tom",
     "text": "L'ONE soutient et encadre également ces familles d'accueil.",
-    "t": 291.95
+    "t": 253.25
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, la grande question pratique.",
-    "t": 295.57
+    "t": 257.05
    },
    {
     "speaker": "Anna",
     "text": "Comment une famille demande-t-elle concrètement de l'aide ?",
-    "t": 298.88
+    "t": 258.98
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez contacter l'ONE directement, à l'aide du formulaire de demande d'aide sur leur site internet.",
-    "t": 302.43
+    "t": 261.62
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, quelqu'un de l'office régional le plus proche de chez vous prendra contact.",
-    "t": 308.16
+    "t": 266.92
    },
    {
     "speaker": "Tom",
     "text": "Ils vous aideront à décrire ce dont vous avez besoin et à mettre en place les bonnes étapes.",
-    "t": 313.66
+    "t": 270.83
    },
    {
     "speaker": "Anna",
     "text": "Un professionnel qui travaille déjà avec la famille, comme un travailleur social, peut aussi aider à lancer la demande.",
-    "t": 318.51
+    "t": 275.71
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, que vous fassiez la démarche vous-même ou que quelqu'un vous aide, la porte est ouverte.",
-    "t": 325.9
+    "t": 281.15
    },
    {
     "speaker": "Anna",
     "text": "Disons un mot tout en douceur ici, car ce sujet peut sembler lourd.",
-    "t": 331.48
+    "t": 286.79
    },
    {
     "speaker": "Tom",
     "text": "Demander de l'aide n'est pas un signe d'échec.",
-    "t": 336.09
+    "t": 290.54
    },
    {
     "speaker": "Tom",
     "text": "C'est un signe de force et d'amour pour votre enfant.",
-    "t": 339.22
+    "t": 293.09
    },
    {
     "speaker": "Anna",
     "text": "Chaque famille traverse parfois des difficultés.",
-    "t": 342.62
+    "t": 295.83
    },
    {
     "speaker": "Anna",
     "text": "Demander de l'aide tôt rend souvent les choses plus faciles, et non plus difficiles.",
-    "t": 346.22
+    "t": 298.22
    },
    {
     "speaker": "Tom",
     "text": "Et toute l'approche de l'ONE repose sur le respect et la collaboration.",
-    "t": 351.37
+    "t": 302.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une grande réforme de la protection de l'enfance et de la jeunesse est en discussion à la Chambre des députés, et elle garde cette approche volontaire en premier, avec l'ONE au centre.",
+    "t": 306.71
    },
    {
     "speaker": "Anna",
     "text": "Alors Tom, rendons cela concret.",
-    "t": 355.41
+    "t": 317.03
    },
    {
     "speaker": "Anna",
     "text": "Que faut-il retenir ?",
-    "t": 358.58
+    "t": 318.81
    },
    {
     "speaker": "Tom",
     "text": "D'abord... si votre famille traverse une période difficile, vous n'avez pas à tout gérer seul.",
-    "t": 360.85
+    "t": 320.22
    },
    {
     "speaker": "Anna",
     "text": "Ensuite... l'ONE dispose de quatorze offices régionaux, il y a donc un soutien près de chez vous.",
-    "t": 366.75
+    "t": 325.49
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... l'aide est construite avec vous, autour de vos besoins réels, du soutien pratique aux soins psychologiques.",
-    "t": 372.82
+    "t": 330.52
    },
    {
     "speaker": "Anna",
     "text": "Quatrièmement... vous pouvez commencer simplement, avec un formulaire de demande d'aide sur le site de l'ONE.",
-    "t": 379.66
+    "t": 337.16
    },
    {
     "speaker": "Tom",
     "text": "Rassemblons tout cela.",
-    "t": 386.56
+    "t": 343.5
    },
    {
     "speaker": "Tom",
     "text": "Que faut-il retenir au sujet de l'ONE ?",
-    "t": 388.85
+    "t": 345.02
    },
    {
     "speaker": "Anna",
     "text": "D'abord... il protège le bien-être des enfants et soutient les enfants, les jeunes et les familles.",
-    "t": 391.8
+    "t": 347.55
    },
    {
     "speaker": "Tom",
     "text": "Ensuite... il travaille avec les familles, de manière volontaire, pas à pas, dans le respect.",
-    "t": 397.82
+    "t": 352.64
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... son aide va du soutien pratique au quotidien aux soins psychologiques et, si nécessaire, à l'accueil en famille d'accueil.",
-    "t": 403.64
+    "t": 357.89
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... le joindre est simple, grâce à quatorze offices régionaux et à un formulaire de demande d'aide.",
-    "t": 411.66
+    "t": 364.26
    },
    {
     "speaker": "Anna",
     "text": "Élever des enfants est l'un des métiers les plus difficiles et les plus beaux qui soient.",
-    "t": 418.01
+    "t": 370.63
    },
    {
     "speaker": "Anna",
     "text": "Et personne ne devrait le faire sans soutien.",
-    "t": 422.56
+    "t": 374.39
    },
    {
     "speaker": "Tom",
     "text": "Au Luxembourg, ce soutien a un nom... l'Office National de l'Enfance.",
-    "t": 425.67
+    "t": 376.63
    },
    {
     "speaker": "Anna",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 430.64
-   },
-   {
-    "speaker": "Tom",
-    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
-    "t": 434.11
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 438.12
+    "text": "C'était notre épisode sur l'Office national de l'enfance.",
+    "t": 381.11
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 439.65
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 384.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 392.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 408.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 413.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 415.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 419.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 420.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 423.13
    }
   ],
   "audio_de": "podcast_enfance_de.mp3",
-  "duration_de": 505.44,
+  "duration_de": 489.38,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Schön, dass Sie heute dabei sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.35
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.42
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 11.81
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten Einwohnern und auch Grenzgängerfamilien helfen zu wissen, welche Unterstützung es hier gibt.",
-    "t": 16.19
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema ist ein fürsorgliches... Unterstützung und Schutz für Kinder, Jugendliche und Familien.",
-    "t": 24.69
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Wir sprechen über das Office National de l'Enfance.",
-    "t": 32.51
+    "t": 34.56
    },
    {
     "speaker": "Anna",
     "text": "Auf Deutsch das Nationale Kinderamt.",
-    "t": 36.51
+    "t": 37.62
    },
    {
     "speaker": "Tom",
     "text": "Viele Menschen kürzen es einfach mit seinen Anfangsbuchstaben ab... O, N, E.",
-    "t": 39.75
+    "t": 40.14
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, was ist das ONE und was macht es?",
-    "t": 46.28
+    "t": 45.37
    },
    {
     "speaker": "Tom",
     "text": "Sein Ziel ist es, das Wohl des Kindes zu schützen und Kinder, Jugendliche und Familien zu unterstützen, die schwierige Zeiten durchmachen.",
-    "t": 50.12
+    "t": 48.32
    },
    {
     "speaker": "Anna",
     "text": "Und hier ist etwas, das die Menschen wirklich verstehen sollen.",
-    "t": 58.92
+    "t": 56.6
    },
    {
     "speaker": "Anna",
     "text": "Das ONE arbeitet mit den Familien, nicht gegen sie.",
-    "t": 63.45
+    "t": 59.82
    },
    {
     "speaker": "Tom",
     "text": "Das ist ein wichtiger Punkt.",
-    "t": 67.69
+    "t": 63.66
    },
    {
     "speaker": "Tom",
     "text": "Sie streben eine freiwillige Zusammenarbeit an.",
-    "t": 70.15
+    "t": 65.46
    },
    {
     "speaker": "Tom",
     "text": "Sie gehen Schritt für Schritt an der Seite der Familie.",
-    "t": 73.81
+    "t": 68.27
    },
    {
     "speaker": "Anna",
     "text": "Das Ziel ist, der Familie zu helfen, wieder festen Boden unter den Füßen zu finden, und das zu tun, was für das Kind am besten ist.",
-    "t": 77.5
+    "t": 71.25
    },
    {
     "speaker": "Tom",
     "text": "Es geht also nicht um Schuldzuweisungen.",
-    "t": 87.07
+    "t": 79.17
    },
    {
     "speaker": "Tom",
     "text": "Es geht um Unterstützung.",
-    "t": 90.2
+    "t": 81.52
    },
    {
     "speaker": "Anna",
-    "text": "Genau.",
-    "t": 92.58
-   },
-   {
-    "speaker": "Anna",
-    "text": "Sprechen wir darüber, für wen das ONE da ist.",
-    "t": 94.17
+    "text": "Genau. Sprechen wir darüber, für wen das ONE da ist.",
+    "t": 83.37
    },
    {
     "speaker": "Tom",
     "text": "Es ist für alle Arten von Familien da... Familien mit zwei Elternteilen, Alleinerziehende, Adoptivfamilien und Pflegefamilien.",
-    "t": 98.01
+    "t": 87.67
    },
    {
     "speaker": "Anna",
     "text": "Und es ist für Kinder und Jugendliche da, von den ganz Kleinen bis zu jungen Erwachsenen.",
-    "t": 107.32
+    "t": 96.41
    },
    {
     "speaker": "Tom",
     "text": "Und wie erreicht man das ONE eigentlich?",
-    "t": 113.54
+    "t": 101.65
    },
    {
     "speaker": "Tom",
     "text": "Wo befindet es sich?",
-    "t": 116.69
+    "t": 104.46
    },
    {
     "speaker": "Anna",
     "text": "Das ONE ist nah bei den Menschen.",
-    "t": 118.95
+    "t": 105.86
    },
    {
     "speaker": "Anna",
     "text": "Es hat vierzehn regionale Kinderbüros im ganzen Land verteilt.",
-    "t": 121.73
+    "t": 108.24
    },
    {
     "speaker": "Tom",
     "text": "Egal also, wo Sie in Luxemburg wohnen, es gibt ein Büro nicht allzu weit entfernt.",
-    "t": 126.64
+    "t": 112.25
    },
    {
     "speaker": "Anna",
     "text": "Sie treffen sie nach Terminvereinbarung, im Büro, das Ihrem Zuhause am nächsten ist.",
-    "t": 132.68
+    "t": 117.38
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir über die Menschen, die Sie dort tatsächlich treffen würden.",
-    "t": 139.09
+    "t": 122.36
    },
    {
     "speaker": "Anna",
     "text": "Im Herzen des ONE stehen Fachkräfte, die manchmal Koordinatoren für Interventionsprojekte genannt werden.",
-    "t": 143.67
+    "t": 125.88
    },
    {
     "speaker": "Tom",
     "text": "Es sind Psychologen, Sozialarbeiter und ausgebildete Erzieher.",
-    "t": 151.18
+    "t": 132.44
    },
    {
     "speaker": "Anna",
     "text": "Wenn eine Familie um Unterstützung bittet, trifft sich eine von ihnen mit der Familie, um die Situation klar zu verstehen.",
-    "t": 155.95
+    "t": 136.69
    },
    {
     "speaker": "Tom",
     "text": "Sie könnten die Familie zu Hause besuchen oder Treffen im regionalen Büro abhalten.",
-    "t": 164.48
+    "t": 143.44
    },
    {
     "speaker": "Anna",
     "text": "Dann legen sie gemeinsam mit der Familie die Hilfsmaßnahmen fest, die zu den tatsächlichen Bedürfnissen dieser Familie passen.",
-    "t": 170.12
+    "t": 148.44
    },
    {
     "speaker": "Tom",
     "text": "Und sie überprüfen immer wieder... hilft das?",
-    "t": 178.34
+    "t": 155.36
    },
    {
     "speaker": "Tom",
     "text": "Müssen wir etwas anderes versuchen?",
-    "t": 181.87
+    "t": 158.41
    },
    {
     "speaker": "Anna",
     "text": "Es ist also ein lebendiger Plan, der mit der Familie erstellt wird, und nicht ihr vorgegeben wird.",
-    "t": 184.86
+    "t": 160.48
    },
    {
     "speaker": "Tom",
     "text": "Gehen wir einige der Hilfsarten durch, die das ONE einrichten kann.",
-    "t": 191.73
+    "t": 166.07
    },
    {
     "speaker": "Anna",
     "text": "Die erste ist die sogenannte sozial-familiäre Unterstützung.",
-    "t": 196.32
+    "t": 170.42
    },
    {
     "speaker": "Tom",
     "text": "Das ist praktische, alltägliche Hilfe.",
-    "t": 201.14
+    "t": 173.98
    },
    {
     "speaker": "Tom",
     "text": "Den Haushalt führen, das tägliche Leben organisieren, sogar das Familienbudget verwalten.",
-    "t": 204.56
+    "t": 176.73
    },
    {
     "speaker": "Anna",
     "text": "Sie kann ein Rettungsanker in einem schweren Moment sein... nach der Ankunft eines Babys, nach einer Trennung, während einer Krankheit oder nach einem Todesfall.",
-    "t": 210.6
+    "t": 182.16
    },
    {
     "speaker": "Tom",
     "text": "Kurzfristige Hilfe, um eine schwierige Phase zu überstehen und wieder ins Gleichgewicht zu finden.",
-    "t": 220.75
+    "t": 191.98
    },
    {
     "speaker": "Anna",
     "text": "Die zweite Art ist die psychologische, soziale oder erzieherische Unterstützung innerhalb der Familie.",
-    "t": 227.13
+    "t": 197.41
    },
    {
     "speaker": "Tom",
     "text": "Dabei wird die ganze Familie gemeinsam betrachtet.",
-    "t": 234.28
+    "t": 203.82
    },
    {
     "speaker": "Tom",
     "text": "Gute Abläufe schaffen, sich auf Regeln einigen, Zuneigung ausdrücken, sich sicher fühlen.",
-    "t": 238.05
+    "t": 206.81
    },
    {
     "speaker": "Anna",
     "text": "Es hilft jedem, seinen Platz in der Familie wiederzufinden.",
-    "t": 244.27
+    "t": 212.89
    },
    {
     "speaker": "Anna",
     "text": "Und es geschieht oft zu Hause.",
-    "t": 249.07
+    "t": 216.11
    },
    {
     "speaker": "Tom",
     "text": "Die dritte Art ist die Unterstützung durch einen Psychologen oder Psychotherapeuten für ein Kind oder einen Jugendlichen.",
-    "t": 251.84
+    "t": 218.1
    },
    {
     "speaker": "Anna",
     "text": "Das ist für persönliche, beziehungsbezogene oder verhaltensbezogene Schwierigkeiten, für Kinder und Jugendliche bis siebenundzwanzig Jahre.",
-    "t": 258.84
+    "t": 224.91
    },
    {
     "speaker": "Tom",
     "text": "Und für ganz kleine Kinder gibt es die Frühförderung.",
-    "t": 268.21
+    "t": 232.67
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 271.94
-   },
-   {
-    "speaker": "Anna",
-    "text": "Wenn ein kleines Kind Schwierigkeiten mit der Bewegung, der Sprache oder der Entwicklung hat, können Fachleute frühzeitig helfen.",
-    "t": 273.27
+    "text": "Ja. Wenn ein kleines Kind Schwierigkeiten mit der Bewegung, der Sprache oder der Entwicklung hat, können Fachleute frühzeitig helfen.",
+    "t": 235.79
    },
    {
     "speaker": "Tom",
     "text": "Frühzeitig zu helfen kann einen echten Unterschied machen und kann größere Schwierigkeiten später verhindern.",
-    "t": 282.02
+    "t": 244.26
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch die Betreuung außerhalb des Zuhauses, wenn das notwendig wird.",
-    "t": 288.71
+    "t": 250.78
    },
    {
     "speaker": "Tom",
     "text": "Manchmal kann ein Kind für eine Weile nicht sicher im Familienhaushalt bleiben... zum Beispiel während einer schweren Familienkrise.",
-    "t": 294.26
+    "t": 255.48
    },
    {
     "speaker": "Anna",
     "text": "In diesen Fällen kann das Kind aufgenommen und unterstützt werden, entweder in einem Betreuungszentrum oder in einer Pflegefamilie.",
-    "t": 302.24
+    "t": 262.62
    },
    {
     "speaker": "Tom",
     "text": "Und das Ziel ist, wo immer möglich, das Kind auf die Rückkehr nach Hause vorzubereiten, wenn alles sicher und bereit ist.",
-    "t": 311.03
+    "t": 269.89
    },
    {
     "speaker": "Anna",
     "text": "Pflegefamilien verdienen hier eine besondere Erwähnung.",
-    "t": 318.63
+    "t": 276.68
    },
    {
     "speaker": "Tom",
     "text": "Eine Pflegefamilie gibt einem Kind ein stabiles, liebevolles Zuhause, wenn die eigene Familie es für eine Zeit nicht kann.",
-    "t": 323.09
+    "t": 280.19
    },
    {
     "speaker": "Anna",
     "text": "Sie schützt das Wohl des Kindes, während die leiblichen Eltern an ihrer Situation arbeiten.",
-    "t": 331.15
+    "t": 287.69
    },
    {
     "speaker": "Tom",
     "text": "Das ONE unterstützt und begleitet auch diese Pflegefamilien.",
-    "t": 337.66
+    "t": 293.16
    },
    {
     "speaker": "Anna",
     "text": "Nun die große praktische Frage.",
-    "t": 341.97
+    "t": 297.16
    },
    {
     "speaker": "Anna",
     "text": "Wie bittet eine Familie eigentlich um Hilfe?",
-    "t": 344.99
+    "t": 299.18
    },
    {
     "speaker": "Tom",
     "text": "Sie können das ONE direkt kontaktieren, über das Hilfeantragsformular auf ihrer Website.",
-    "t": 348.72
+    "t": 301.99
    },
    {
     "speaker": "Anna",
     "text": "Danach wird sich jemand vom regionalen Büro in Ihrer Nähe melden.",
-    "t": 354.62
+    "t": 307.77
    },
    {
     "speaker": "Tom",
     "text": "Sie werden Ihnen helfen zu beschreiben, was Sie brauchen, und die richtigen Schritte einzurichten.",
-    "t": 359.49
+    "t": 311.59
    },
    {
     "speaker": "Anna",
     "text": "Eine Fachkraft, die bereits mit der Familie arbeitet, wie ein Sozialarbeiter, kann ebenfalls helfen, den Antrag zu starten.",
-    "t": 365.44
+    "t": 316.35
    },
    {
     "speaker": "Tom",
     "text": "Ob Sie sich also selbst melden oder jemand Ihnen hilft, die Tür steht offen.",
-    "t": 374.64
+    "t": 323.54
    },
    {
     "speaker": "Anna",
     "text": "Lassen Sie uns hier ein behutsames Wort sagen, denn dieses Thema kann sich schwer anfühlen.",
-    "t": 380.03
+    "t": 327.95
    },
    {
     "speaker": "Tom",
     "text": "Um Hilfe zu bitten ist kein Zeichen des Versagens.",
-    "t": 386.23
+    "t": 333.07
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein Zeichen von Stärke und von Liebe zu Ihrem Kind.",
-    "t": 389.98
+    "t": 336.05
    },
    {
     "speaker": "Anna",
     "text": "Jede Familie hat manchmal Schwierigkeiten.",
-    "t": 394.06
+    "t": 339.8
    },
    {
     "speaker": "Anna",
     "text": "Sich früh zu melden macht die Dinge oft einfacher, nicht schwerer.",
-    "t": 397.82
+    "t": 342.38
    },
    {
     "speaker": "Tom",
     "text": "Und der ganze Ansatz des ONE beruht auf Respekt und Zusammenarbeit.",
-    "t": 402.46
+    "t": 346.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eine große Reform des Kinder- und Jugendschutzes wird im Parlament beraten, und sie stellt diesen freiwilligen Ansatz an die erste Stelle, mit dem ONE im Mittelpunkt.",
+    "t": 350.99
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, machen wir das konkret.",
-    "t": 407.12
+    "t": 360.82
    },
    {
     "speaker": "Anna",
     "text": "Was sollten die Menschen mitnehmen?",
-    "t": 410.45
+    "t": 363.51
    },
    {
     "speaker": "Tom",
     "text": "Erstens... wenn Ihre Familie eine schwere Zeit durchmacht, müssen Sie nicht alles allein bewältigen.",
-    "t": 413.4
+    "t": 365.49
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... das ONE hat vierzehn regionale Büros, es gibt also Unterstützung in Ihrer Nähe.",
-    "t": 419.89
+    "t": 370.99
    },
    {
     "speaker": "Tom",
     "text": "Drittens... die Hilfe wird mit Ihnen aufgebaut, rund um Ihre tatsächlichen Bedürfnisse, von praktischer Unterstützung bis zur psychologischen Betreuung.",
-    "t": 426.64
+    "t": 377.44
    },
    {
     "speaker": "Anna",
     "text": "Viertens... Sie können einfach beginnen, mit einem Hilfeantragsformular auf der Website des ONE.",
-    "t": 435.86
+    "t": 386.56
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir es zusammen.",
-    "t": 443.41
+    "t": 393.24
    },
    {
     "speaker": "Tom",
     "text": "Was sollten sich die Menschen über das ONE merken?",
-    "t": 445.83
+    "t": 394.81
    },
    {
     "speaker": "Anna",
     "text": "Erstens... es schützt das Wohl der Kinder und unterstützt Kinder, Jugendliche und Familien.",
-    "t": 449.38
+    "t": 397.96
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... es arbeitet mit den Familien, freiwillig, Schritt für Schritt, mit Respekt.",
-    "t": 455.98
+    "t": 403.78
    },
    {
     "speaker": "Anna",
     "text": "Drittens... seine Hilfe reicht von alltäglicher praktischer Unterstützung bis zur psychologischen Betreuung und, wenn nötig, zur Pflege in einer Pflegefamilie.",
-    "t": 462.11
+    "t": 409.55
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... es zu erreichen ist einfach, über vierzehn regionale Büros und ein Hilfeantragsformular.",
-    "t": 472.75
+    "t": 419.06
    },
    {
     "speaker": "Anna",
     "text": "Kinder großzuziehen ist eine der schwersten und schönsten Aufgaben, die es gibt.",
-    "t": 479.85
+    "t": 426.77
    },
    {
     "speaker": "Anna",
     "text": "Und niemand sollte das ohne Unterstützung tun.",
-    "t": 485.65
+    "t": 431.52
    },
    {
     "speaker": "Tom",
     "text": "In Luxemburg hat diese Unterstützung einen Namen... das Office National de l'Enfance.",
-    "t": 489.36
+    "t": 434.34
    },
    {
     "speaker": "Anna",
-    "text": "Vielen Dank, dass Sie heute zugehört haben.",
-    "t": 494.93
-   },
-   {
-    "speaker": "Tom",
-    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
-    "t": 498.57
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 502.39
+    "text": "Das war unsere Folge über das Office National de l'Enfance.",
+    "t": 439.58
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 503.96
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 443.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 452.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 470.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 476.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 478.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 483.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 484.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 487.83
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien a wëllkomm zréck! Et freet eis, datt Dir haut dobäi sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.38
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgängerfamiljen, hëllefen ze wëssen, wéi eng Ënnerstëtzung et hei gëtt.",
-    "t": 7.42
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An d'Thema vun haut ass e fürsorglecht... Ënnerstëtzung a Schutz fir Kanner, Jugendlecher a Familljen.",
-    "t": 21.63
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Mir schwätzen iwwer den Office National de l'Enfance. Op Englesch den National Childhood Office.",
-    "t": 27.85
+    "t": 34.92
    },
    {
     "speaker": "Tom",
     "text": "Vill Leit kierzen et einfach mat senge Ufanksbuschtawen of... O, N, E.",
-    "t": 35.22
+    "t": 40.58
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, wat ass den ONE a wat mécht en?",
-    "t": 40.81
+    "t": 44.47
    },
    {
     "speaker": "Tom",
     "text": "Säin Zil ass et, d'Wuelbefannen vum Kand ze schützen an d'Kanner, d'Jugendlecher an d'Familljen ze ënnerstëtzen, déi schwéier Zäiten duerchliewen.",
-    "t": 44.72
+    "t": 47.56
    },
    {
     "speaker": "Anna",
     "text": "An hei ass eppes, wat ech wierklech wëll, datt d'Leit verstinn. Den ONE schafft mat de Familljen, net géint si.",
-    "t": 52.58
+    "t": 55.39
    },
    {
     "speaker": "Tom",
     "text": "Dat ass e wichtege Punkt. Si striewen no enger fräiwëlleger Zesummenaarbecht. Si ginn Schrëtt fir Schrëtt nieft der Famill.",
-    "t": 59.84
+    "t": 61.73
    },
    {
     "speaker": "Anna",
     "text": "D'Zil ass et, der Famill ze hëllefen, erëm festen Drëtt ze fannen, an dat ze maachen, wat fir d'Kand am beschten ass.",
-    "t": 68.65
+    "t": 67.56
    },
    {
     "speaker": "Tom",
     "text": "Et geet also net ëm Schold. Et geet ëm Ënnerstëtzung.",
-    "t": 74.43
+    "t": 73.36
    },
    {
     "speaker": "Anna",
     "text": "Genee. Loosst eis driwwer schwätzen, fir wien den ONE do ass.",
-    "t": 79.51
+    "t": 77.05
    },
    {
     "speaker": "Tom",
     "text": "En ass fir all Zort vu Familljen do... Familljen mat zwee Elteren, alleinerzéiend Familljen, Adoptivfamiljen a Fleegfamiljen.",
-    "t": 84.35
+    "t": 80.37
    },
    {
     "speaker": "Anna",
     "text": "An en ass fir Kanner a Jugendlecher do, vun de ganz Klengen bis bei jonk Erwuessener.",
-    "t": 91.41
+    "t": 86.76
    },
    {
     "speaker": "Tom",
     "text": "A wéi erreecht een den ONE elo eigentlech? Wou ass en?",
-    "t": 96.96
+    "t": 91.88
    },
    {
     "speaker": "Anna",
     "text": "Den ONE ass no bei de Leit. En huet véierzéng regional Kannerbüroen am ganze Land verdeelt.",
-    "t": 101.98
+    "t": 94.92
    },
    {
     "speaker": "Tom",
     "text": "Egal also, wou Dir zu Lëtzebuerg wunnt, et gëtt e Büro net ze wäit ewech.",
-    "t": 109.24
+    "t": 101.76
    },
    {
     "speaker": "Anna",
     "text": "Dir trefft se no Rendez-vous, am Büro, deen Ärem Doheem am nooste läit.",
-    "t": 114.08
+    "t": 106.21
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis iwwer d'Leit schwätzen, déi Dir do tatsächlech géift treffen.",
-    "t": 118.18
+    "t": 109.81
    },
    {
     "speaker": "Anna",
     "text": "Am Häerz vum ONE stinn Fachleit, déi heiansdo Koordinateuren fir Interventiounsprojeten genannt ginn.",
-    "t": 121.98
+    "t": 112.49
    },
    {
     "speaker": "Tom",
     "text": "Et sinn Psychologen, Sozialaarbechter an ausgebilte Erzéier.",
-    "t": 127.49
+    "t": 118.33
    },
    {
     "speaker": "Anna",
     "text": "Wann eng Famill ëm Ënnerstëtzung freet, trëfft sech ee vun hinnen mat der Famill, fir d'Situatioun kloer ze verstoen.",
-    "t": 132.11
+    "t": 121.76
    },
    {
     "speaker": "Tom",
     "text": "Si kéinten d'Famill doheem besichen, oder Treffen am regionale Büro halen.",
-    "t": 138.37
+    "t": 127.72
    },
    {
     "speaker": "Anna",
     "text": "Duerno leeën si zesumme mat der Famill d'Hëllefsmoossnamen fest, déi zu de richtege Besoinen vun dëser Famill passen.",
-    "t": 143.14
+    "t": 131.53
    },
    {
     "speaker": "Tom",
     "text": "A si iwwerpréiwen ëmmer erëm... hëlleft dat? Musse mir eppes anescht probéieren?",
-    "t": 149.32
+    "t": 137.54
    },
    {
     "speaker": "Anna",
     "text": "Et ass also e liewege Plang, deen mat der Famill gemaach gëtt, an net hinnen virginn gëtt.",
-    "t": 155.13
+    "t": 142.15
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis e puer vun den Zorten vun Hëllef duerchgoen, déi den ONE asetzen kann.",
-    "t": 159.99
+    "t": 146.81
    },
    {
     "speaker": "Anna",
     "text": "Déi éischt ass dat, wat sozial-familiär Ënnerstëtzung genannt gëtt.",
-    "t": 163.99
+    "t": 150.79
    },
    {
     "speaker": "Tom",
     "text": "Dat ass praktesch, alldeeglech Hëllef. De Stot féieren, dat deeglecht Liewen organiséieren, souguer de Familljebudget verwalten.",
-    "t": 167.61
+    "t": 153.8
    },
    {
     "speaker": "Anna",
     "text": "Et kann e Rettungsanker an engem schwéiere Moment sinn... no der Arrivée vun engem Boby, no enger Trennung, wärend enger Krankheet, oder no engem Doudesfall.",
-    "t": 176.2
+    "t": 160.06
    },
    {
     "speaker": "Tom",
     "text": "Kuerzfristeg Hëllef, fir eng schwéier Phas ze iwwerstoen an erëm an d'Gläichgewiicht ze fannen.",
-    "t": 184.6
+    "t": 168.93
    },
    {
     "speaker": "Anna",
     "text": "Déi zweet Zort ass déi psychologesch, sozial oder erzéieresch Ënnerstëtzung bannent der Famill.",
-    "t": 189.35
+    "t": 172.91
    },
    {
     "speaker": "Tom",
     "text": "Dobäi gëtt déi ganz Famill zesumme betruecht. Gutt Ofleef schafen, sech op Reegelen eenegen, Zoléiwecht ausdrécken, sech sécher fillen.",
-    "t": 195.3
+    "t": 178.1
    },
    {
     "speaker": "Anna",
     "text": "Et hëlleft jidderengem, säi Plaz an der Famill erëmzefannen. An et geschitt dacks doheem.",
-    "t": 203.72
+    "t": 184.96
    },
    {
     "speaker": "Tom",
     "text": "Déi drëtt Zort ass d'Ënnerstëtzung vun engem Psycholog oder Psychotherapeut fir e Kand oder e Jugendlechen.",
-    "t": 210.09
+    "t": 189.92
    },
    {
     "speaker": "Anna",
     "text": "Dat ass fir perséinlech, bezéiungsbezunne oder verhalensbezunne Schwieregkeeten, fir Kanner a Jugendlecher bis siwenanzwanzeg Joer.",
-    "t": 215.75
+    "t": 195.16
    },
    {
     "speaker": "Tom",
     "text": "A fir ganz kleng Kanner gëtt et d'Frühförderung.",
-    "t": 223.3
+    "t": 201.63
    },
    {
     "speaker": "Anna",
     "text": "Jo. Wann e klengt Kand Schwieregkeeten mat der Bewegung, der Sprooch oder der Entwécklung huet, kënne Fachleit fréi hëllefen.",
-    "t": 227.34
+    "t": 204.48
    },
    {
     "speaker": "Tom",
     "text": "Fréi ze hëllefen kann e richtegen Ënnerscheed maachen a kann méi grouss Schwieregkeeten méi spéit verhënneren.",
-    "t": 235.45
+    "t": 211.27
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och d'Betreiung ausserhalb vum Doheem, wann dat néideg gëtt.",
-    "t": 240.71
+    "t": 215.7
    },
    {
     "speaker": "Tom",
     "text": "Heiansdo kann e Kand fir eng Zäit net sécher am Familljestot bleiwen... zum Beispill wärend enger schwéierer Familljekris.",
-    "t": 245.17
+    "t": 219.75
    },
    {
     "speaker": "Anna",
     "text": "An dëse Fäll kann d'Kand opgeholl an ënnerstëtzt ginn, entweder an engem Betreiungszentrum, oder an enger Fleegfamill.",
-    "t": 252.19
+    "t": 226.77
    },
    {
     "speaker": "Tom",
     "text": "An d'Zil ass, wou ëmmer méiglech, d'Kand op d'Heemkéier virzebereeden, wann alles sécher a prett ass.",
-    "t": 259.03
+    "t": 233.75
    },
    {
     "speaker": "Anna",
     "text": "Fleegfamiljen verdéngen hei eng besonnesch Erwähnung.",
-    "t": 265.45
+    "t": 240.39
    },
    {
     "speaker": "Tom",
     "text": "Eng Fleegfamill gëtt engem Kand e stabilt, léiftvollt Doheem, wann seng eege Famill et fir eng Zäit net kann.",
-    "t": 268.96
+    "t": 243.38
    },
    {
     "speaker": "Anna",
     "text": "Si schützt d'Wuelbefannen vum Kand, wärend déi leiblech Elteren un hirer Situatioun schaffen.",
-    "t": 274.66
+    "t": 248.98
    },
    {
     "speaker": "Tom",
     "text": "Den ONE ënnerstëtzt a begleet och dës Fleegfamiljen.",
-    "t": 279.82
+    "t": 253.9
    },
    {
     "speaker": "Anna",
     "text": "Elo déi grouss praktesch Fro. Wéi freet eng Famill eigentlech ëm Hëllef?",
-    "t": 284.04
+    "t": 257.27
    },
    {
     "speaker": "Tom",
     "text": "Dir kënnt den ONE direkt kontaktéieren, mat dem Hëllefsantragsformulaire op hirer Websäit.",
-    "t": 290.41
+    "t": 262.02
    },
    {
     "speaker": "Anna",
     "text": "Duerno mellt sech een vum regionale Büro a Ärer Géigend.",
-    "t": 295.76
+    "t": 266.44
    },
    {
     "speaker": "Tom",
     "text": "Si hëllefen Iech ze beschreiwen, wat Dir braucht, an déi richteg Schrëtt anzeriichten.",
-    "t": 300.55
+    "t": 270.69
    },
    {
     "speaker": "Anna",
     "text": "Eng Fachkraaft, déi scho mat der Famill schafft, wéi e Sozialaarbechter, kann och hëllefen, den Antrag unzefänken.",
-    "t": 304.97
+    "t": 274.58
    },
    {
     "speaker": "Tom",
     "text": "Egal also, ob Dir Iech selwer mellt oder ee Iech hëlleft, d'Dier steet op.",
-    "t": 311.61
+    "t": 281.03
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis hei e behutsamt Wuert soen, well dëst Thema sech schwéier ufille kann.",
-    "t": 316.43
+    "t": 285.23
    },
    {
     "speaker": "Tom",
     "text": "Ëm Hëllef ze froen ass kee Zeeche vu Versoen. Et ass e Zeeche vu Stäerkt a vu Léift fir Äert Kand.",
-    "t": 320.85
+    "t": 289.14
    },
    {
     "speaker": "Anna",
     "text": "All Famill huet heiansdo Schwieregkeeten. Sech fréi ze mellen mécht d'Saachen dacks méi einfach, net méi schwéier.",
-    "t": 328.02
+    "t": 294.38
    },
    {
     "speaker": "Tom",
-    "text": "An déi ganz Approche vum ONE baséiert op Respekt a Zesummenaarbecht.",
-    "t": 335.1
+    "text": "An déi ganz Approche vum ONE baséiert op Respekt a Zesummenaarbecht. Eng grouss Reform vum Kanner- a Jugendschutz gëtt an der Chamber diskutéiert, a si stellt dës fräiwëlleg Approche op déi éischt Plaz, mam ONE an der Mëtt.",
+    "t": 300.11
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, maache mir dat konkret. Wat sollten d'Leit mathuelen?",
-    "t": 339.43
+    "t": 311.47
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... wann Är Famill eng schwéier Zäit duerchliewt, musst Dir net alles eleng meeschteren.",
-    "t": 345.11
+    "t": 315.49
    },
    {
     "speaker": "Anna",
     "text": "Als zweet... den ONE huet véierzéng regional Büroen, et gëtt also Ënnerstëtzung a Ärer Géigend.",
-    "t": 350.62
+    "t": 320.66
    },
    {
     "speaker": "Tom",
     "text": "Als drëtt... d'Hëllef gëtt mat Iech opgebaut, ronderëm Är richteg Besoinen, vu praktescher Ënnerstëtzung bis zu psychologescher Betreiung.",
-    "t": 356.55
+    "t": 327.03
    },
    {
     "speaker": "Anna",
     "text": "Als véiert... Dir kënnt einfach ufänken, mat engem Hëllefsantragsformulaire op der Websäit vum ONE.",
-    "t": 363.24
+    "t": 334.41
    },
    {
     "speaker": "Tom",
     "text": "Faasse mir et zesummen. Wat sollten d'Leit sech iwwer den ONE merken?",
-    "t": 368.79
+    "t": 340.01
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... en schützt d'Wuelbefannen vun de Kanner an ënnerstëtzt Kanner, Jugendlecher a Familljen.",
-    "t": 374.36
+    "t": 343.78
    },
    {
     "speaker": "Tom",
     "text": "Als zweet... en schafft mat de Familljen, fräiwëlleg, Schrëtt fir Schrëtt, mat Respekt.",
-    "t": 381.04
+    "t": 350.11
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt... seng Hëllef reecht vun alldeeglecher praktescher Ënnerstëtzung bis zu psychologescher Betreiung an, wann néideg, bis zur Betreiung an enger Fleegfamill.",
-    "t": 386.59
+    "t": 354.78
    },
    {
     "speaker": "Tom",
     "text": "An als véiert... en ze erreechen ass einfach, iwwer véierzéng regional Büroen an en Hëllefsantragsformulaire.",
-    "t": 393.88
+    "t": 362.07
    },
    {
     "speaker": "Anna",
     "text": "Kanner grouszezéien ass eng vun de schwéiersten an de schéinsten Aufgaben, déi et gëtt. A keen sollt dat ouni Ënnerstëtzung maachen.",
-    "t": 399.88
+    "t": 368.98
    },
    {
     "speaker": "Tom",
     "text": "Zu Lëtzebuerg huet dës Ënnerstëtzung en Numm... den Office National de l'Enfance.",
-    "t": 407.58
+    "t": 375.43
    },
    {
     "speaker": "Anna",
-    "text": "Villmools Merci, datt Dir haut nogelauschtert hutt.",
-    "t": 412.75
+    "text": "Dat war eis Episod iwwer den Office national de l'enfance. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 380.05
    },
    {
     "speaker": "Tom",
-    "text": "Passt op Iech op, a bis an déi nächst Episod. Äddi!",
-    "t": 415.71
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 424.88
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 420.85
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 428.08
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 21,
@@ -61908,7 +62014,7 @@ const EPISODES = [
   "title": "CePAS – Psychological and School Support for Young People",
   "description": "What CePAS (the psycho-social and school support centre) is, its sixty-year history, the consultation centre for young people aged 12–30 and their families, the quick support available inside every secondary school, consultations now also in English, and how it connects with other services.",
   "audio": "podcast_cepas.mp3",
-  "duration": 403.18,
+  "duration": 423.34,
   "topics": [
    "What CePAS is",
    "Sixty years of youth support",
@@ -61922,453 +62028,458 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's a pleasure to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.64
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.68
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.79
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border families too, to know what support is out there.",
-    "t": 14.61
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today we are talking about something close to many families' hearts... the wellbeing of young people, especially at school.",
-    "t": 21.78
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "School years can be wonderful.",
-    "t": 28.87
+    "t": 35.64
    },
    {
     "speaker": "Anna",
     "text": "But they can also be stressful, confusing, and sometimes painful.",
-    "t": 31.64
+    "t": 37.48
    },
    {
     "speaker": "Tom",
     "text": "Worries about grades, about friendships, about the future, about what is happening at home.",
-    "t": 36.48
+    "t": 42.4
    },
    {
     "speaker": "Anna",
     "text": "And that is exactly where today's organisation comes in.",
-    "t": 42.28
+    "t": 47.7
    },
    {
     "speaker": "Anna",
     "text": "It is called CePAS.",
-    "t": 46.23
+    "t": 51.14
    },
    {
     "speaker": "Tom",
-    "text": "CePAS.",
-    "t": 48.58
-   },
-   {
-    "speaker": "Tom",
-    "text": "The full name is the Centre psycho-social et d'accompagnement scolaires.",
-    "t": 50.56
+    "text": "CePAS. The full name is the Centre psycho-social et d'accompagnement scolaires.",
+    "t": 53.12
    },
    {
     "speaker": "Anna",
     "text": "In simple terms... it is a psycho-social and school support centre for young people.",
-    "t": 55.42
+    "t": 57.75
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what is the main idea behind CePAS?",
-    "t": 60.88
+    "t": 62.98
    },
    {
     "speaker": "Anna",
     "text": "Its goal is to support the personal, relational, and academic development and wellbeing of young people at school.",
-    "t": 64.77
+    "t": 65.67
    },
    {
     "speaker": "Tom",
     "text": "So not only their marks, but the whole young person... their feelings, their relationships, their confidence.",
-    "t": 71.92
+    "t": 72.61
    },
    {
     "speaker": "Anna",
     "text": "And it does this together with everyone around the young person... parents, teachers, and school staff.",
-    "t": 78.43
+    "t": 79.83
    },
    {
     "speaker": "Tom",
     "text": "I love that it has quite a history, too.",
-    "t": 85
+    "t": 86.47
    },
    {
     "speaker": "Anna",
-    "text": "It does.",
-    "t": 88.31
-   },
-   {
-    "speaker": "Anna",
-    "text": "CePAS was born back in 1965, under an earlier name.",
-    "t": 90.11
+    "text": "It does. CePAS was born back in 1965, under an earlier name.",
+    "t": 88.69
    },
    {
     "speaker": "Anna",
     "text": "So in 2025 it celebrated sixty years of supporting young people.",
-    "t": 95.06
+    "t": 93.49
    },
    {
     "speaker": "Tom",
-    "text": "Sixty years.",
-    "t": 100.19
-   },
-   {
-    "speaker": "Tom",
-    "text": "That's generations of young people who have been helped.",
-    "t": 102.32
+    "text": "Sixty years. That's generations of young people who have been helped.",
+    "t": 98.12
    },
    {
     "speaker": "Anna",
     "text": "Let's look at what CePAS actually offers.",
-    "t": 106.02
+    "t": 102.57
    },
    {
     "speaker": "Anna",
     "text": "There are a few different parts.",
-    "t": 109.35
+    "t": 105.13
    },
    {
     "speaker": "Tom",
     "text": "The first, and the one families most often turn to, is its consultation centre for young people and families.",
-    "t": 111.91
+    "t": 107.55
    },
    {
     "speaker": "Anna",
     "text": "This centre is for adolescents and young adults, roughly from twelve to thirty years old, and for their parents and families.",
-    "t": 118.57
+    "t": 114.03
    },
    {
     "speaker": "Tom",
     "text": "And what kind of help does it give?",
-    "t": 126.25
+    "t": 121.31
    },
    {
     "speaker": "Anna",
     "text": "Psychological and therapeutic support, for school problems, personal problems, or relationship problems.",
-    "t": 129.09
+    "t": 123.05
    },
    {
     "speaker": "Tom",
     "text": "So if a young person is anxious, low, struggling with friends, or overwhelmed by school, they can find a professional to talk to.",
-    "t": 136.29
+    "t": 130.12
    },
    {
     "speaker": "Anna",
     "text": "It also offers other forms of support, like psychomotor therapy, social support, and group activities.",
-    "t": 143.93
+    "t": 138.01
    },
    {
     "speaker": "Tom",
     "text": "These consultations are by appointment.",
-    "t": 151.06
+    "t": 145.07
    },
    {
     "speaker": "Tom",
     "text": "And here is a recent, welcome change.",
-    "t": 154.24
+    "t": 146.98
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 157.52
-   },
-   {
-    "speaker": "Anna",
-    "text": "Since early 2026, you can now have these consultations in English as well, not only in the country's other languages.",
-    "t": 159.21
+    "text": "Yes. Since early 2026, you can now have these consultations in English as well, not only in the country's other languages.",
+    "t": 149.51
    },
    {
     "speaker": "Tom",
     "text": "That opens the door for many more families in Luxembourg's international community.",
-    "t": 167.34
+    "t": 158.15
    },
    {
     "speaker": "Anna",
     "text": "Now, there is a second part of the support, and it lives right inside the schools.",
-    "t": 172.69
+    "t": 162.41
    },
    {
     "speaker": "Tom",
     "text": "This is the school psycho-social service, present in every secondary school.",
-    "t": 178.08
+    "t": 167.05
    },
    {
     "speaker": "Anna",
     "text": "So in each lycée, there are professionals a young person can talk to.",
-    "t": 183.1
+    "t": 171.31
    },
    {
     "speaker": "Tom",
     "text": "And an important detail... there, you often don't need an appointment.",
-    "t": 187.81
+    "t": 175.33
    },
    {
     "speaker": "Anna",
     "text": "A young person can be seen quickly, sometimes the same day.",
-    "t": 192.47
+    "t": 179.76
    },
    {
     "speaker": "Anna",
     "text": "That speed really matters in a crisis.",
-    "t": 196.78
+    "t": 183.2
    },
    {
     "speaker": "Tom",
     "text": "So think of it like two layers.",
-    "t": 200.02
+    "t": 186.01
    },
    {
     "speaker": "Tom",
     "text": "Quick help inside the school, and deeper support at the consultation centre.",
-    "t": 202.77
+    "t": 187.87
    },
    {
     "speaker": "Anna",
-    "text": "Exactly.",
-    "t": 207.64
-   },
-   {
-    "speaker": "Anna",
-    "text": "And both are there to catch a young person before a small worry becomes a big one.",
-    "t": 209.5
+    "text": "Exactly. And both are there to catch a young person before a small worry becomes a big one.",
+    "t": 192.14
    },
    {
     "speaker": "Tom",
     "text": "There is also a third part, which works behind the scenes.",
-    "t": 214.56
+    "t": 197.74
    },
    {
     "speaker": "Anna",
     "text": "Yes, a resource centre.",
-    "t": 218.69
+    "t": 200.57
    },
    {
     "speaker": "Anna",
     "text": "It supports the staff who work in the schools' psycho-social services.",
-    "t": 221.4
+    "t": 202.26
    },
    {
     "speaker": "Tom",
     "text": "It helps them develop their skills and their professional practice.",
-    "t": 225.84
+    "t": 206.76
    },
    {
     "speaker": "Anna",
     "text": "So CePAS does not only help young people directly.",
-    "t": 230.15
+    "t": 210.68
    },
    {
     "speaker": "Anna",
     "text": "It also strengthens the whole network of people who support them.",
-    "t": 233.94
+    "t": 213.97
    },
    {
     "speaker": "Tom",
     "text": "Let's say something about cost and confidence, because families worry about both.",
-    "t": 238.07
+    "t": 217.86
    },
    {
     "speaker": "Anna",
     "text": "The support is there to help, not to judge.",
-    "t": 243.22
+    "t": 222.21
    },
    {
     "speaker": "Anna",
     "text": "It is a safe, professional, and caring space.",
-    "t": 246.55
+    "t": 224.77
    },
    {
     "speaker": "Tom",
     "text": "And a young person can speak openly, knowing they are being listened to with respect.",
-    "t": 250.55
+    "t": 228.18
    },
    {
     "speaker": "Anna",
-    "text": "CePAS also provides information on certain financial matters for pupils, when relevant.",
-    "t": 255.72
+    "text": "CePAS also handles financial help for pupils from low-income families... a yearly subsidy for school materials and activities, which you ask for through the school's psycho-social service.",
+    "t": 232.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "The government plans to fold it into a new single cost-of-living help from 2027, so ask at the school what applies.",
+    "t": 244.58
    },
    {
     "speaker": "Tom",
     "text": "Now Anna, this connects to another organisation we have talked about.",
-    "t": 261.7
+    "t": 252.51
    },
    {
     "speaker": "Anna",
-    "text": "It does.",
-    "t": 266.29
-   },
-   {
-    "speaker": "Anna",
-    "text": "CePAS is also one of the partners that the Office National de l'Enfance can call on for psychological support.",
-    "t": 268.09
+    "text": "It does. CePAS is also one of the partners that the Office National de l'Enfance can call on for psychological support.",
+    "t": 256.52
    },
    {
     "speaker": "Tom",
     "text": "So these services are not separate islands.",
-    "t": 275.04
+    "t": 263.65
    },
    {
     "speaker": "Tom",
     "text": "They work together around the young person.",
-    "t": 278.53
+    "t": 266.17
    },
    {
     "speaker": "Anna",
     "text": "That's the beauty of it.",
-    "t": 281.61
+    "t": 268.56
    },
    {
     "speaker": "Anna",
     "text": "Many hands, one goal... a young person who feels supported.",
-    "t": 283.85
+    "t": 270.01
    },
    {
     "speaker": "Tom",
     "text": "Let's give a gentle, honest word about reaching out.",
-    "t": 288.29
+    "t": 274.49
    },
    {
     "speaker": "Anna",
     "text": "If you are a young person listening, and things feel heavy, please know that asking for help is brave, not weak.",
-    "t": 291.98
+    "t": 277.48
    },
    {
     "speaker": "Tom",
     "text": "And if you are a parent, noticing your child is struggling, you are not failing.",
-    "t": 298.89
+    "t": 283.54
    },
    {
     "speaker": "Tom",
     "text": "Support exists, and it works.",
-    "t": 304.06
+    "t": 287.82
    },
    {
     "speaker": "Anna",
     "text": "Talking to someone early can change the path of a whole school year, and sometimes much more.",
-    "t": 307.04
+    "t": 290.24
    },
    {
     "speaker": "Tom",
     "text": "So Tom... let's make it practical.",
-    "t": 312.79
+    "t": 296
    },
    {
     "speaker": "Tom",
     "text": "How does someone actually use CePAS?",
-    "t": 316.03
+    "t": 298.36
    },
    {
     "speaker": "Anna",
     "text": "First... if your child needs quick support, the school's psycho-social service is right there, often without an appointment.",
-    "t": 319.25
+    "t": 301.24
    },
    {
     "speaker": "Tom",
     "text": "Second... for deeper or longer support, the consultation centre welcomes young people from twelve to thirty, and their families, by appointment.",
-    "t": 326.73
+    "t": 308.94
    },
    {
     "speaker": "Anna",
     "text": "Third... remember that since 2026, consultations are also available in English.",
-    "t": 335.02
+    "t": 317.7
    },
    {
     "speaker": "Tom",
     "text": "And fourth... these services connect with others, like the ONE, so help can be coordinated.",
-    "t": 341.3
+    "t": 323.39
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it all together.",
-    "t": 347.03
+    "t": 329.26
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about CePAS?",
-    "t": 349.47
+    "t": 330.84
    },
    {
     "speaker": "Tom",
-    "text": "First... it is a psycho-social and school support centre, helping young people's wellbeing at school for sixty years.",
-    "t": 352.56
+    "text": "First... it is a psycho-social and school support centre, helping young people's wellbeing at school for more than sixty years.",
+    "t": 333.82
    },
    {
     "speaker": "Anna",
     "text": "Second... it offers psychological and therapeutic support for school, personal, and relationship problems.",
-    "t": 359.4
+    "t": 341.65
    },
    {
     "speaker": "Tom",
     "text": "Third... there is quick help inside every secondary school, and deeper support at its consultation centre.",
-    "t": 366.53
+    "t": 348.59
    },
    {
     "speaker": "Anna",
     "text": "And fourth... it works hand in hand with parents, schools, and other services.",
-    "t": 372.99
+    "t": 354.96
    },
    {
     "speaker": "Tom",
     "text": "Young people carry more than we sometimes see.",
-    "t": 378.63
+    "t": 359.86
    },
    {
     "speaker": "Tom",
     "text": "A listening ear at the right moment can mean everything.",
-    "t": 382.07
+    "t": 362.13
    },
    {
     "speaker": "Anna",
     "text": "And in Luxembourg, that listening ear has a name... CePAS.",
-    "t": 385.78
+    "t": 365.88
    },
    {
     "speaker": "Tom",
-    "text": "Thank you so much for listening today.",
-    "t": 391.02
-   },
-   {
-    "speaker": "Anna",
     "text": "And remember... if you or a young person you know is struggling, reaching out is always okay.",
-    "t": 394.02
+    "t": 370.1
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 399.97
+    "text": "That was our episode about CePAS.",
+    "t": 375.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 377.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 386.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 404.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 411.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 413.85
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 401.5
+    "text": "Thank you, everyone.",
+    "t": 418.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 419.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 421.74
    }
   ],
   "questions": [
@@ -62571,1236 +62682,1250 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_cepas_fr.mp3",
-  "duration_fr": 414.91,
+  "duration_fr": 398.63,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "C'est un plaisir de vous avoir parmi nous aujourd'hui.",
-    "t": 2.69
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.35
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 8.93
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
-    "t": 12.39
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les familles frontalières, à connaître les aides qui existent.",
-    "t": 16.05
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et aujourd'hui, nous parlons d'un sujet qui touche le cœur de beaucoup de familles... le bien-être des jeunes, surtout à l'école.",
-    "t": 23.47
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "Les années d'école peuvent être merveilleuses.",
-    "t": 30.65
+    "t": 29.69
    },
    {
     "speaker": "Anna",
     "text": "Mais elles peuvent aussi être stressantes, déroutantes, et parfois douloureuses.",
-    "t": 33.84
+    "t": 32.11
    },
    {
     "speaker": "Tom",
     "text": "Des inquiétudes au sujet des notes, des amitiés, de l'avenir, de ce qui se passe à la maison.",
-    "t": 39.19
+    "t": 36.49
    },
    {
     "speaker": "Anna",
     "text": "Et c'est exactement là qu'intervient l'organisation dont nous parlons aujourd'hui.",
-    "t": 45.26
+    "t": 42.24
    },
    {
     "speaker": "Anna",
     "text": "Elle s'appelle CePAS.",
-    "t": 49.99
+    "t": 45.74
    },
    {
     "speaker": "Tom",
-    "text": "CePAS.",
-    "t": 52.21
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le nom complet est le Centre psycho-social et d'accompagnement scolaires.",
-    "t": 54.09
+    "text": "CePAS. Le nom complet est le Centre psycho-social et d'accompagnement scolaires.",
+    "t": 47.57
    },
    {
     "speaker": "Anna",
     "text": "En termes simples... c'est un centre de soutien psycho-social et scolaire pour les jeunes.",
-    "t": 58.33
+    "t": 52.63
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, quelle est l'idée principale derrière le CePAS ?",
-    "t": 63.91
+    "t": 57.4
    },
    {
     "speaker": "Anna",
     "text": "Son but est de soutenir le développement et le bien-être personnel, relationnel et scolaire des jeunes à l'école.",
-    "t": 68.06
+    "t": 60.72
    },
    {
     "speaker": "Tom",
     "text": "Donc pas seulement leurs notes, mais le jeune dans son ensemble... ses émotions, ses relations, sa confiance.",
-    "t": 74.79
+    "t": 66.16
    },
    {
     "speaker": "Anna",
     "text": "Et il le fait avec toutes les personnes qui entourent le jeune... les parents, les enseignants et le personnel scolaire.",
-    "t": 81.65
+    "t": 72.35
    },
    {
     "speaker": "Tom",
     "text": "J'aime aussi le fait qu'il ait toute une histoire.",
-    "t": 88.45
+    "t": 78.07
    },
    {
     "speaker": "Anna",
-    "text": "En effet.",
-    "t": 91.62
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le CePAS est né en 1965, sous un nom plus ancien.",
-    "t": 93.28
+    "text": "En effet. Le CePAS est né en 1965, sous un nom plus ancien.",
+    "t": 81.73
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, en 2025, il a célébré soixante ans de soutien aux jeunes.",
-    "t": 97.99
+    "t": 86.17
    },
    {
     "speaker": "Tom",
-    "text": "Soixante ans.",
-    "t": 103.48
-   },
-   {
-    "speaker": "Tom",
-    "text": "Ce sont des générations de jeunes qui ont été aidés.",
-    "t": 105.32
+    "text": "Soixante ans. Ce sont des générations de jeunes qui ont été aidés.",
+    "t": 89.93
    },
    {
     "speaker": "Anna",
     "text": "Voyons ce que le CePAS propose concrètement.",
-    "t": 108.71
+    "t": 93.76
    },
    {
     "speaker": "Anna",
     "text": "Il y a plusieurs volets différents.",
-    "t": 112.15
+    "t": 96.04
    },
    {
     "speaker": "Tom",
     "text": "Le premier, et celui vers lequel les familles se tournent le plus souvent, est son centre de consultation pour les jeunes et les familles.",
-    "t": 114.75
+    "t": 97.91
    },
    {
     "speaker": "Anna",
     "text": "Ce centre s'adresse aux adolescents et aux jeunes adultes, environ de douze à trente ans, ainsi qu'à leurs parents et à leurs familles.",
-    "t": 122.01
+    "t": 105.02
    },
    {
     "speaker": "Tom",
     "text": "Et quel type d'aide offre-t-il ?",
-    "t": 129.5
+    "t": 111.63
    },
    {
     "speaker": "Anna",
     "text": "Un soutien psychologique et thérapeutique, pour des problèmes scolaires, des problèmes personnels ou des problèmes relationnels.",
-    "t": 131.92
+    "t": 113.72
    },
    {
     "speaker": "Tom",
     "text": "Donc si un jeune est anxieux, déprimé, en difficulté avec ses amis, ou submergé par l'école, il peut trouver un professionnel à qui parler.",
-    "t": 139.47
+    "t": 119.56
    },
    {
     "speaker": "Anna",
     "text": "Il offre aussi d'autres formes de soutien, comme la thérapie psychomotrice, le soutien social et des activités de groupe.",
-    "t": 148
+    "t": 127.45
    },
    {
     "speaker": "Tom",
     "text": "Ces consultations se font sur rendez-vous.",
-    "t": 155.44
+    "t": 133.51
    },
    {
     "speaker": "Tom",
     "text": "Et voici un changement récent et bienvenu.",
-    "t": 158.52
+    "t": 135.89
    },
    {
     "speaker": "Anna",
-    "text": "Oui.",
-    "t": 161.54
-   },
-   {
-    "speaker": "Anna",
-    "text": "Depuis début 2026, vous pouvez désormais avoir ces consultations en anglais également, et pas seulement dans les autres langues du pays.",
-    "t": 163.03
+    "text": "Oui. Depuis début 2026, vous pouvez désormais avoir ces consultations en anglais également, et pas seulement dans les autres langues du pays.",
+    "t": 138.61
    },
    {
     "speaker": "Tom",
     "text": "Cela ouvre la porte à beaucoup plus de familles au sein de la communauté internationale du Luxembourg.",
-    "t": 171.31
+    "t": 145.11
    },
    {
     "speaker": "Anna",
     "text": "Il existe maintenant un deuxième volet du soutien, et il se trouve directement au sein des écoles.",
-    "t": 177.13
+    "t": 150.13
    },
    {
     "speaker": "Tom",
     "text": "Il s'agit du service psycho-social scolaire, présent dans chaque lycée.",
-    "t": 183.11
+    "t": 154.76
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, dans chaque lycée, il y a des professionnels à qui un jeune peut parler.",
-    "t": 187.77
+    "t": 159.13
    },
    {
     "speaker": "Tom",
     "text": "Et un détail important... là, il n'est souvent pas nécessaire de prendre rendez-vous.",
-    "t": 192.92
+    "t": 162.85
    },
    {
     "speaker": "Anna",
     "text": "Un jeune peut être reçu rapidement, parfois le jour même.",
-    "t": 197.94
+    "t": 167.54
    },
    {
     "speaker": "Anna",
     "text": "Cette rapidité compte vraiment en cas de crise.",
-    "t": 202.05
+    "t": 170.63
    },
    {
     "speaker": "Tom",
     "text": "Imaginez donc deux niveaux.",
-    "t": 205.49
+    "t": 173.12
    },
    {
     "speaker": "Tom",
     "text": "Une aide rapide au sein de l'école, et un soutien plus approfondi au centre de consultation.",
-    "t": 207.91
+    "t": 174.78
    },
    {
     "speaker": "Anna",
-    "text": "Exactement.",
-    "t": 213.28
-   },
-   {
-    "speaker": "Anna",
-    "text": "Et les deux sont là pour aider un jeune avant qu'une petite inquiétude ne devienne grande.",
-    "t": 215.1
+    "text": "Exactement. Et les deux sont là pour aider un jeune avant qu'une petite inquiétude ne devienne grande.",
+    "t": 180.29
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi un troisième volet, qui travaille en coulisses.",
-    "t": 219.98
+    "t": 185.46
    },
    {
     "speaker": "Anna",
     "text": "Oui, un centre de ressources.",
-    "t": 224.02
+    "t": 188.59
    },
    {
     "speaker": "Anna",
     "text": "Il soutient le personnel qui travaille dans les services psycho-sociaux des écoles.",
-    "t": 226.78
+    "t": 190.17
    },
    {
     "speaker": "Tom",
     "text": "Il les aide à développer leurs compétences et leur pratique professionnelle.",
-    "t": 231.79
+    "t": 194.06
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, le CePAS n'aide pas seulement les jeunes directement.",
-    "t": 235.99
+    "t": 198.03
    },
    {
     "speaker": "Anna",
     "text": "Il renforce aussi tout le réseau de personnes qui les soutiennent.",
-    "t": 240.1
+    "t": 200.65
    },
    {
     "speaker": "Tom",
     "text": "Disons un mot sur le coût et la confiance, car les familles s'inquiètent des deux.",
-    "t": 244.09
+    "t": 203.67
    },
    {
     "speaker": "Anna",
     "text": "Le soutien est là pour aider, pas pour juger.",
-    "t": 248.71
+    "t": 207.85
    },
    {
     "speaker": "Anna",
     "text": "C'est un espace sûr, professionnel et bienveillant.",
-    "t": 252.22
+    "t": 210.23
    },
    {
     "speaker": "Tom",
     "text": "Et un jeune peut s'exprimer ouvertement, en sachant qu'il est écouté avec respect.",
-    "t": 256.19
+    "t": 213.05
    },
    {
     "speaker": "Anna",
-    "text": "Le CePAS fournit aussi des informations sur certaines questions financières pour les élèves, lorsque cela est pertinent.",
-    "t": 260.99
+    "text": "Le CePAS gère aussi une aide financière pour les élèves de familles à faible revenu... une subvention annuelle pour le matériel et les activités scolaires, que l'on demande via le service psycho-social de l'école.",
+    "t": 217.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le gouvernement prévoit de l'intégrer dans une nouvelle aide unique contre la vie chère à partir de 2027, alors renseignez-vous à l'école.",
+    "t": 228.25
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, cela rejoint une autre organisation dont nous avons parlé.",
-    "t": 268.03
+    "t": 234.87
    },
    {
     "speaker": "Anna",
-    "text": "En effet.",
-    "t": 272.49
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le CePAS est aussi l'un des partenaires auxquels l'Office National de l'Enfance peut faire appel pour un soutien psychologique.",
-    "t": 274.16
+    "text": "En effet. Le CePAS est aussi l'un des partenaires auxquels l'Office National de l'Enfance peut faire appel pour un soutien psychologique.",
+    "t": 239.15
    },
    {
     "speaker": "Tom",
     "text": "Donc ces services ne sont pas des îlots séparés.",
-    "t": 281.2
+    "t": 245.5
    },
    {
     "speaker": "Tom",
     "text": "Ils travaillent ensemble autour du jeune.",
-    "t": 284.53
+    "t": 248.2
    },
    {
     "speaker": "Anna",
     "text": "C'est toute la beauté de la chose.",
-    "t": 287.41
+    "t": 250.76
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup de mains, un seul objectif... un jeune qui se sent soutenu.",
-    "t": 290.12
+    "t": 252.52
    },
    {
     "speaker": "Tom",
     "text": "Disons un mot doux et sincère sur le fait de demander de l'aide.",
-    "t": 294.85
+    "t": 256.12
    },
    {
     "speaker": "Anna",
     "text": "Si vous êtes un jeune à l'écoute, et que les choses vous pèsent, sachez que demander de l'aide est courageux, et non un signe de faiblesse.",
-    "t": 298.67
+    "t": 259.41
    },
    {
     "speaker": "Tom",
     "text": "Et si vous êtes un parent qui remarque que son enfant est en difficulté, vous n'avez pas échoué.",
-    "t": 306.55
+    "t": 265.96
    },
    {
     "speaker": "Tom",
     "text": "Le soutien existe, et il fonctionne.",
-    "t": 311.99
+    "t": 271.02
    },
    {
     "speaker": "Anna",
     "text": "Parler à quelqu'un tôt peut changer le cours de toute une année scolaire, et parfois bien plus.",
-    "t": 315.15
+    "t": 273.67
    },
    {
     "speaker": "Tom",
     "text": "Alors Tom... rendons cela concret.",
-    "t": 320.74
+    "t": 278.2
    },
    {
     "speaker": "Tom",
     "text": "Comment fait-on concrètement appel au CePAS ?",
-    "t": 323.72
+    "t": 280.73
    },
    {
     "speaker": "Anna",
     "text": "D'abord... si votre enfant a besoin d'un soutien rapide, le service psycho-social scolaire est juste là, souvent sans rendez-vous.",
-    "t": 326.96
+    "t": 283.42
    },
    {
     "speaker": "Tom",
     "text": "Ensuite... pour un soutien plus approfondi ou plus long, le centre de consultation accueille les jeunes de douze à trente ans, et leurs familles, sur rendez-vous.",
-    "t": 335.04
+    "t": 289.54
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... rappelez-vous que depuis 2026, les consultations sont aussi disponibles en anglais.",
-    "t": 343.57
+    "t": 297.72
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... ces services sont en lien avec d'autres, comme l'ONE, afin que l'aide puisse être coordonnée.",
-    "t": 350.3
+    "t": 303.01
    },
    {
     "speaker": "Anna",
     "text": "Rassemblons tout cela.",
-    "t": 356.79
+    "t": 309.81
    },
    {
     "speaker": "Anna",
     "text": "Que faut-il retenir du CePAS ?",
-    "t": 358.98
+    "t": 311.1
    },
    {
     "speaker": "Tom",
-    "text": "Premièrement... c'est un centre de soutien psycho-social et scolaire, qui aide au bien-être des jeunes à l'école depuis soixante ans.",
-    "t": 361.78
+    "text": "Premièrement... c'est un centre de soutien psycho-social et scolaire, qui aide au bien-être des jeunes à l'école depuis plus de soixante ans.",
+    "t": 313.04
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... il offre un soutien psychologique et thérapeutique pour des problèmes scolaires, personnels et relationnels.",
-    "t": 368.62
+    "t": 320.43
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... il y a une aide rapide dans chaque lycée, et un soutien plus approfondi à son centre de consultation.",
-    "t": 375.82
+    "t": 326.52
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... il travaille main dans la main avec les parents, les écoles et d'autres services.",
-    "t": 382.3
+    "t": 332.9
    },
    {
     "speaker": "Tom",
     "text": "Les jeunes portent plus de choses que nous ne le voyons parfois.",
-    "t": 388.08
+    "t": 338.1
    },
    {
     "speaker": "Tom",
     "text": "Une oreille attentive au bon moment peut tout changer.",
-    "t": 391.74
+    "t": 341.47
    },
    {
     "speaker": "Anna",
     "text": "Et au Luxembourg, cette oreille attentive a un nom... CePAS.",
-    "t": 395
+    "t": 344.88
    },
    {
     "speaker": "Tom",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 400.29
-   },
-   {
-    "speaker": "Anna",
     "text": "Et souvenez-vous... si vous, ou un jeune que vous connaissez, traversez une période difficile, demander de l'aide est toujours une bonne chose.",
-    "t": 403.53
+    "t": 348.57
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 411.77
+    "text": "C'était notre épisode sur le CePAS.",
+    "t": 356.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 358.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 365.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 382.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 387.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 388.8
    },
    {
     "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 413.39
+    "text": "Merci à tous.",
+    "t": 393.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 394.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 396.87
    }
   ],
   "audio_de": "podcast_cepas_de.mp3",
-  "duration_de": 491.95,
+  "duration_de": 479.4,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Es ist uns eine Freude, Sie heute bei uns zu haben.",
-    "t": 2.74
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.73
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.79
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 12.19
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den grenzüberschreitenden Familien, dabei helfen, die vorhandenen Hilfsangebote kennenzulernen.",
-    "t": 16.56
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und heute sprechen wir über etwas, das vielen Familien sehr am Herzen liegt... das Wohlergehen junger Menschen, besonders in der Schule.",
-    "t": 27.18
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Die Schuljahre können wunderbar sein.",
-    "t": 35.6
+    "t": 35.65
    },
    {
     "speaker": "Anna",
     "text": "Aber sie können auch stressig, verwirrend und manchmal schmerzhaft sein.",
-    "t": 38.82
+    "t": 37.88
    },
    {
     "speaker": "Tom",
     "text": "Sorgen wegen der Noten, wegen Freundschaften, wegen der Zukunft, wegen dem, was zu Hause passiert.",
-    "t": 43.88
+    "t": 42.07
    },
    {
     "speaker": "Anna",
     "text": "Und genau hier kommt die Organisation ins Spiel, über die wir heute sprechen.",
-    "t": 50.88
+    "t": 48.25
    },
    {
     "speaker": "Anna",
     "text": "Sie heißt CePAS.",
-    "t": 56.43
+    "t": 52.55
    },
    {
     "speaker": "Tom",
-    "text": "CePAS.",
-    "t": 58.83
-   },
-   {
-    "speaker": "Tom",
-    "text": "Der vollständige Name ist das Centre psycho-social et d'accompagnement scolaires.",
-    "t": 60.91
+    "text": "CePAS. Der vollständige Name ist das Centre psycho-social et d'accompagnement scolaires.",
+    "t": 54.08
    },
    {
     "speaker": "Anna",
     "text": "Einfach gesagt... es ist ein psycho-soziales und schulisches Unterstützungszentrum für junge Menschen.",
-    "t": 66.13
+    "t": 60.19
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was ist die Grundidee hinter CePAS?",
-    "t": 73.02
+    "t": 66.21
    },
    {
     "speaker": "Anna",
     "text": "Sein Ziel ist es, die persönliche, zwischenmenschliche und schulische Entwicklung und das Wohlergehen junger Menschen in der Schule zu unterstützen.",
-    "t": 77.24
+    "t": 68.92
    },
    {
     "speaker": "Tom",
     "text": "Also nicht nur ihre Noten, sondern den ganzen jungen Menschen... seine Gefühle, seine Beziehungen, sein Selbstvertrauen.",
-    "t": 86.61
+    "t": 77.28
    },
    {
     "speaker": "Anna",
     "text": "Und es tut dies gemeinsam mit allen Menschen rund um den jungen Menschen... Eltern, Lehrkräften und Schulpersonal.",
-    "t": 94.52
+    "t": 84.38
    },
    {
     "speaker": "Tom",
     "text": "Mir gefällt auch, dass es eine lange Geschichte hat.",
-    "t": 102.62
+    "t": 91.52
    },
    {
     "speaker": "Anna",
-    "text": "Das stimmt.",
-    "t": 106.38
-   },
-   {
-    "speaker": "Anna",
-    "text": "CePAS entstand bereits 1965, unter einem früheren Namen.",
-    "t": 108.19
+    "text": "Das stimmt. CePAS entstand bereits 1965, unter einem früheren Namen.",
+    "t": 94.24
    },
    {
     "speaker": "Anna",
     "text": "So feierte es 2025 sechzig Jahre der Unterstützung junger Menschen.",
-    "t": 114.57
+    "t": 99.99
    },
    {
     "speaker": "Tom",
-    "text": "Sechzig Jahre.",
-    "t": 120.54
-   },
-   {
-    "speaker": "Tom",
-    "text": "Das sind Generationen von jungen Menschen, denen geholfen wurde.",
-    "t": 122.67
+    "text": "Sechzig Jahre. Das sind Generationen von jungen Menschen, denen geholfen wurde.",
+    "t": 104.87
    },
    {
     "speaker": "Anna",
     "text": "Schauen wir uns an, was CePAS tatsächlich anbietet.",
-    "t": 127.16
+    "t": 109.7
    },
    {
     "speaker": "Anna",
     "text": "Es gibt mehrere verschiedene Bereiche.",
-    "t": 132.02
+    "t": 112.76
    },
    {
     "speaker": "Tom",
     "text": "Der erste, und derjenige, an den sich Familien am häufigsten wenden, ist sein Beratungszentrum für junge Menschen und Familien.",
-    "t": 135.31
+    "t": 115.13
    },
    {
     "speaker": "Anna",
     "text": "Dieses Zentrum ist für Jugendliche und junge Erwachsene, etwa von zwölf bis dreißig Jahren, sowie für ihre Eltern und Familien.",
-    "t": 143.72
+    "t": 122.96
    },
    {
     "speaker": "Tom",
     "text": "Und welche Art von Hilfe bietet es?",
-    "t": 152.81
+    "t": 130.22
    },
    {
     "speaker": "Anna",
     "text": "Psychologische und therapeutische Unterstützung bei schulischen Problemen, persönlichen Problemen oder Beziehungsproblemen.",
-    "t": 155.87
+    "t": 132.52
    },
    {
     "speaker": "Tom",
     "text": "Wenn ein junger Mensch also ängstlich ist, niedergeschlagen, Schwierigkeiten mit Freunden hat oder von der Schule überfordert ist, kann er einen Fachmann finden, mit dem er sprechen kann.",
-    "t": 164.05
+    "t": 139.42
    },
    {
     "speaker": "Anna",
     "text": "Es bietet auch andere Formen der Unterstützung an, wie psychomotorische Therapie, soziale Unterstützung und Gruppenaktivitäten.",
-    "t": 175.2
+    "t": 150.52
    },
    {
     "speaker": "Tom",
     "text": "Diese Beratungen finden nach Terminvereinbarung statt.",
-    "t": 184.28
+    "t": 157.88
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist eine kürzliche, willkommene Änderung.",
-    "t": 188.21
+    "t": 161.08
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 192.14
-   },
-   {
-    "speaker": "Anna",
-    "text": "Seit Anfang 2026 können Sie diese Beratungen nun auch auf Englisch haben, nicht nur in den anderen Sprachen des Landes.",
-    "t": 193.47
+    "text": "Ja. Seit Anfang 2026 können Sie diese Beratungen nun auch auf Englisch haben, nicht nur in den anderen Sprachen des Landes.",
+    "t": 164.18
    },
    {
     "speaker": "Tom",
     "text": "Das öffnet die Tür für viele weitere Familien innerhalb der internationalen Gemeinschaft Luxemburgs.",
-    "t": 202.22
+    "t": 172.61
    },
    {
     "speaker": "Anna",
     "text": "Nun gibt es einen zweiten Bereich der Unterstützung, und der befindet sich direkt in den Schulen.",
-    "t": 208.6
+    "t": 178.73
    },
    {
     "speaker": "Tom",
     "text": "Das ist der schulische psycho-soziale Dienst, der in jedem Lycée (Sekundarschule) vorhanden ist.",
-    "t": 215.11
+    "t": 183.84
    },
    {
     "speaker": "Anna",
     "text": "So gibt es in jedem Lycée (Sekundarschule) Fachleute, mit denen ein junger Mensch sprechen kann.",
-    "t": 221.59
+    "t": 190.21
    },
    {
     "speaker": "Tom",
     "text": "Und ein wichtiges Detail... dort braucht man oft keinen Termin.",
-    "t": 229.01
+    "t": 195.84
    },
    {
     "speaker": "Anna",
     "text": "Ein junger Mensch kann schnell empfangen werden, manchmal noch am selben Tag.",
-    "t": 233.47
+    "t": 199.75
    },
    {
     "speaker": "Anna",
     "text": "Diese Schnelligkeit ist in einer Krise wirklich wichtig.",
-    "t": 238.74
+    "t": 203.96
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie sich also zwei Ebenen vor.",
-    "t": 242.89
+    "t": 207.29
    },
    {
     "speaker": "Tom",
     "text": "Schnelle Hilfe innerhalb der Schule, und tiefergehende Unterstützung im Beratungszentrum.",
-    "t": 246.22
+    "t": 209.81
    },
    {
     "speaker": "Anna",
-    "text": "Genau.",
-    "t": 251.97
-   },
-   {
-    "speaker": "Anna",
-    "text": "Und beide sind da, um einen jungen Menschen aufzufangen, bevor aus einer kleinen Sorge eine große wird.",
-    "t": 253.56
+    "text": "Genau. Und beide sind da, um einen jungen Menschen aufzufangen, bevor aus einer kleinen Sorge eine große wird.",
+    "t": 215.27
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch einen dritten Bereich, der hinter den Kulissen arbeitet.",
-    "t": 260.83
+    "t": 222.1
    },
    {
     "speaker": "Anna",
     "text": "Ja, ein Ressourcenzentrum.",
-    "t": 265.47
+    "t": 225.67
    },
    {
     "speaker": "Anna",
     "text": "Es unterstützt das Personal, das in den psycho-sozialen Diensten der Schulen arbeitet.",
-    "t": 268.4
+    "t": 227.62
    },
    {
     "speaker": "Tom",
     "text": "Es hilft ihnen, ihre Kompetenzen und ihre berufliche Praxis weiterzuentwickeln.",
-    "t": 274.64
+    "t": 232.43
    },
    {
     "speaker": "Anna",
     "text": "CePAS hilft also nicht nur jungen Menschen direkt.",
-    "t": 280.39
+    "t": 237.5
    },
    {
     "speaker": "Anna",
     "text": "Es stärkt auch das ganze Netzwerk von Menschen, die sie unterstützen.",
-    "t": 284.54
+    "t": 240.35
    },
    {
     "speaker": "Tom",
     "text": "Sagen wir etwas über Kosten und Vertrauen, denn Familien sorgen sich um beides.",
-    "t": 289.61
+    "t": 244.21
    },
    {
     "speaker": "Anna",
     "text": "Die Unterstützung ist da, um zu helfen, nicht um zu urteilen.",
-    "t": 295.2
+    "t": 248.85
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein sicherer, professioneller und fürsorglicher Ort.",
-    "t": 300.18
+    "t": 252.62
    },
    {
     "speaker": "Tom",
     "text": "Und ein junger Mensch kann offen sprechen, in dem Wissen, dass ihm mit Respekt zugehört wird.",
-    "t": 304.86
+    "t": 256.27
    },
    {
     "speaker": "Anna",
-    "text": "CePAS stellt auch Informationen zu bestimmten finanziellen Angelegenheiten für Schüler bereit, wenn es relevant ist.",
-    "t": 310.68
+    "text": "CePAS kümmert sich auch um eine finanzielle Hilfe für Schüler aus Familien mit geringem Einkommen... einen jährlichen Zuschuss für Schulmaterial und Aktivitäten, den man über den psycho-sozialen Dienst der Schule beantragt.",
+    "t": 261.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Regierung plant, ihn ab 2027 in eine neue, einzige Teuerungshilfe einzugliedern, fragen Sie also an der Schule nach, was gilt.",
+    "t": 274.6
    },
    {
     "speaker": "Tom",
     "text": "Nun Anna, das hängt mit einer anderen Organisation zusammen, über die wir gesprochen haben.",
-    "t": 318.99
+    "t": 283.56
    },
    {
     "speaker": "Anna",
-    "text": "Das stimmt.",
-    "t": 325.07
-   },
-   {
-    "speaker": "Anna",
-    "text": "CePAS ist auch einer der Partner, auf die das Office National de l'Enfance für psychologische Unterstützung zurückgreifen kann.",
-    "t": 326.89
+    "text": "Das stimmt. CePAS ist auch einer der Partner, auf die das Office National de l'Enfance für psychologische Unterstützung zurückgreifen kann.",
+    "t": 288.48
    },
    {
     "speaker": "Tom",
     "text": "Diese Dienste sind also keine getrennten Inseln.",
-    "t": 335.53
+    "t": 297.03
    },
    {
     "speaker": "Tom",
     "text": "Sie arbeiten gemeinsam rund um den jungen Menschen.",
-    "t": 339.26
+    "t": 299.77
    },
    {
     "speaker": "Anna",
     "text": "Das ist das Schöne daran.",
-    "t": 343.01
+    "t": 302.71
    },
    {
     "speaker": "Anna",
     "text": "Viele Hände, ein Ziel... ein junger Mensch, der sich unterstützt fühlt.",
-    "t": 345.48
+    "t": 304.22
    },
    {
     "speaker": "Tom",
     "text": "Sagen wir ein sanftes, ehrliches Wort über das Sich-Melden.",
-    "t": 351.09
+    "t": 309.21
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie ein junger Mensch sind, der zuhört, und die Dinge sich schwer anfühlen, dann wissen Sie bitte, dass um Hilfe zu bitten mutig ist, nicht schwach.",
-    "t": 355.56
+    "t": 312.71
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie ein Elternteil sind und bemerken, dass Ihr Kind Schwierigkeiten hat, dann haben Sie nicht versagt.",
-    "t": 365.58
+    "t": 321.37
    },
    {
     "speaker": "Tom",
     "text": "Unterstützung gibt es, und sie wirkt.",
-    "t": 372.57
+    "t": 327.33
    },
    {
     "speaker": "Anna",
     "text": "Frühzeitig mit jemandem zu sprechen kann den Verlauf eines ganzen Schuljahres verändern, und manchmal noch viel mehr.",
-    "t": 375.66
+    "t": 329.75
    },
    {
     "speaker": "Tom",
     "text": "Also Tom... machen wir es praktisch.",
-    "t": 383.3
+    "t": 335.9
    },
    {
     "speaker": "Tom",
     "text": "Wie nutzt man CePAS eigentlich?",
-    "t": 386.47
+    "t": 338.66
    },
    {
     "speaker": "Anna",
     "text": "Erstens... wenn Ihr Kind schnelle Unterstützung braucht, ist der schulische psycho-soziale Dienst direkt vor Ort, oft ohne Termin.",
-    "t": 389.87
+    "t": 340.68
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... für tiefergehende oder längere Unterstützung empfängt das Beratungszentrum junge Menschen von zwölf bis dreißig Jahren, und ihre Familien, nach Terminvereinbarung.",
-    "t": 398.64
+    "t": 348.96
    },
    {
     "speaker": "Anna",
     "text": "Drittens... denken Sie daran, dass seit 2026 die Beratungen auch auf Englisch verfügbar sind.",
-    "t": 409.39
+    "t": 360.51
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... diese Dienste sind mit anderen verbunden, wie dem ONE, damit die Hilfe koordiniert werden kann.",
-    "t": 417.15
+    "t": 367.26
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir alles zusammen.",
-    "t": 424.3
+    "t": 374.78
    },
    {
     "speaker": "Anna",
     "text": "Was sollte man sich über CePAS merken?",
-    "t": 426.81
+    "t": 376.52
    },
    {
     "speaker": "Tom",
-    "text": "Erstens... es ist ein psycho-soziales und schulisches Unterstützungszentrum, das seit sechzig Jahren dem Wohlergehen junger Menschen in der Schule dient.",
-    "t": 430.45
+    "text": "Erstens... es ist ein psycho-soziales und schulisches Unterstützungszentrum, das seit mehr als sechzig Jahren dem Wohlergehen junger Menschen in der Schule dient.",
+    "t": 378.9
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... es bietet psychologische und therapeutische Unterstützung bei schulischen, persönlichen und Beziehungsproblemen.",
-    "t": 439.35
+    "t": 389.74
    },
    {
     "speaker": "Tom",
     "text": "Drittens... es gibt schnelle Hilfe in jedem Lycée (Sekundarschule), und tiefergehende Unterstützung in seinem Beratungszentrum.",
-    "t": 447.82
+    "t": 397.47
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... es arbeitet Hand in Hand mit Eltern, Schulen und anderen Diensten.",
-    "t": 455.86
+    "t": 406.19
    },
    {
     "speaker": "Tom",
     "text": "Junge Menschen tragen mehr, als wir manchmal sehen.",
-    "t": 462.01
+    "t": 411.53
    },
    {
     "speaker": "Tom",
     "text": "Ein offenes Ohr im richtigen Moment kann alles bedeuten.",
-    "t": 465.89
+    "t": 414.31
    },
    {
     "speaker": "Anna",
     "text": "Und in Luxemburg hat dieses offene Ohr einen Namen... CePAS.",
-    "t": 470.02
+    "t": 417.74
    },
    {
     "speaker": "Tom",
-    "text": "Vielen Dank, dass Sie uns heute zugehört haben.",
-    "t": 475.53
-   },
-   {
-    "speaker": "Anna",
     "text": "Und denken Sie daran... wenn Sie oder ein junger Mensch, den Sie kennen, Schwierigkeiten haben, ist es immer in Ordnung, sich Hilfe zu holen.",
-    "t": 479.31
+    "t": 422.24
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 488.9
+    "text": "Das war unsere Folge über das CePAS.",
+    "t": 431.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 433.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 442.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 460.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 466.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 468.62
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 490.39
+    "text": "Danke an alle.",
+    "t": 473.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 474.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 477.87
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm zréck! Et ass eis e Plëséier, Iech haut bei eis ze hunn.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.64
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de grenziwwerschreidende Familljen, hëllefen, déi Hëllefen ze kennen, déi et gëtt.",
-    "t": 7.68
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "A vum haut schwätze mir iwwer eppes, dat ville Familljen um Häerz läit... d'Wuelbefannen vu jonke Leit, virun allem an der Schoul.",
-    "t": 21.78
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "D'Schouljoeren kënne wonnerbar sinn. Mä si kënnen och stresseg, verwirrend, an heiansdo schmäerzhaft sinn.",
-    "t": 28.87
+    "t": 35.64
    },
    {
     "speaker": "Tom",
     "text": "Suergen iwwer d'Noten, iwwer Frëndschaften, iwwer d'Zukunft, iwwer dat, wat doheem geschitt.",
-    "t": 36.48
+    "t": 42.4
    },
    {
     "speaker": "Anna",
     "text": "A genee do kënnt d'Organisatioun, vun där mir haut schwätzen, an d'Spill. Si heescht CePAS.",
-    "t": 42.28
+    "t": 47.7
    },
    {
     "speaker": "Tom",
     "text": "CePAS. Den ganzen Numm ass de Centre psycho-social et d'accompagnement scolaires.",
-    "t": 48.58
+    "t": 53.12
    },
    {
     "speaker": "Anna",
     "text": "Einfach gesot... et ass e psycho-sozialt a schoulescht Ënnerstëtzungszentrum fir jonk Leit.",
-    "t": 55.42
+    "t": 57.75
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat ass d'Haaptiddi hannert dem CePAS?",
-    "t": 60.88
+    "t": 62.98
    },
    {
     "speaker": "Anna",
     "text": "Säi Zil ass et, déi perséinlech, bezéiungs- a schoulesch Entwécklung an d'Wuelbefannen vu jonke Leit an der Schoul z'ënnerstëtzen.",
-    "t": 64.77
+    "t": 65.67
    },
    {
     "speaker": "Tom",
     "text": "Also net nëmmen hir Noten, mä dee ganze jonke Mënsch... seng Gefiller, seng Bezéiungen, säi Selbstvertrauen.",
-    "t": 71.92
+    "t": 72.61
    },
    {
     "speaker": "Anna",
     "text": "An et mécht dat zesumme mat all de Leit ronderëm de jonke Mënsch... den Elteren, de Léierpersonal an dem Schoulpersonal.",
-    "t": 78.43
+    "t": 79.83
    },
    {
     "speaker": "Tom",
     "text": "Mir gefält och, datt et eng laang Geschicht huet.",
-    "t": 85
+    "t": 86.47
    },
    {
     "speaker": "Anna",
     "text": "Dat stëmmt. De CePAS ass schonn 1965 entstanen, ënner engem méi alen Numm. Esou huet en 2025 sechzeg Joer Ënnerstëtzung vu jonke Leit gefeiert.",
-    "t": 88.31
+    "t": 88.69
    },
    {
     "speaker": "Tom",
     "text": "Sechzeg Joer. Dat si Generatioune vu jonke Leit, deenen gehollef gouf.",
-    "t": 100.19
+    "t": 98.12
    },
    {
     "speaker": "Anna",
     "text": "Kucke mir, wat de CePAS tatsächlech ubitt. Et ginn e puer verschidde Beräicher.",
-    "t": 106.02
+    "t": 102.57
    },
    {
     "speaker": "Tom",
     "text": "Deen éischten, an deen, un deen sech d'Familljen am meeschten wenden, ass säi Beroodungszentrum fir jonk Leit a Familljen.",
-    "t": 111.91
+    "t": 107.55
    },
    {
     "speaker": "Anna",
     "text": "Dëst Zentrum ass fir Jugendlecher a jonk Erwuessener, ongeféier vun zwielef bis drësseg Joer, an och fir hir Elteren a Familljen.",
-    "t": 118.57
+    "t": 114.03
    },
    {
     "speaker": "Tom",
     "text": "A wéi eng Aart vun Hëllef gëtt et?",
-    "t": 126.25
+    "t": 121.31
    },
    {
     "speaker": "Anna",
     "text": "Psychologesch an therapeutesch Ënnerstëtzung, fir schoulesch Problemer, perséinlech Problemer oder Bezéiungsproblemer.",
-    "t": 129.09
+    "t": 123.05
    },
    {
     "speaker": "Tom",
     "text": "Also wann e jonke Mënsch ängschtlech ass, gedréckt, Schwieregkeete mat Frënn huet, oder vun der Schoul iwwerfuerdert ass, da kann en e Fachmann fannen, mat deem en schwätze kann.",
-    "t": 136.29
+    "t": 130.12
    },
    {
     "speaker": "Anna",
     "text": "Et bitt och aner Forme vun Ënnerstëtzung un, wéi psychomotoresch Therapie, sozial Ënnerstëtzung a Gruppenaktivitéiten.",
-    "t": 143.93
+    "t": 138.01
    },
    {
     "speaker": "Tom",
     "text": "Dës Beroodunge geschéie no Rendez-vous. An hei ass eng rezent, wëllkomm Ännerung.",
-    "t": 151.06
+    "t": 145.07
    },
    {
     "speaker": "Anna",
     "text": "Jo. Zanter Ufank 2026 kënnt Dir dës Beroodungen elo och op Englesch hunn, net nëmmen an deenen anere Sprooche vum Land.",
-    "t": 157.52
+    "t": 149.51
    },
    {
     "speaker": "Tom",
     "text": "Dat mécht d'Dier op fir vill méi Familljen an der internationaler Gemeinschaft vu Lëtzebuerg.",
-    "t": 167.34
+    "t": 158.15
    },
    {
     "speaker": "Anna",
     "text": "Elo gëtt et en zweete Beräich vun der Ënnerstëtzung, an deen ass direkt an de Schoulen.",
-    "t": 172.69
+    "t": 162.41
    },
    {
     "speaker": "Tom",
     "text": "Dat ass de schoulesche psycho-sozialen Déngscht, deen an all Lycée present ass.",
-    "t": 178.08
+    "t": 167.05
    },
    {
     "speaker": "Anna",
     "text": "Esou ginn et an all Lycée Fachleit, mat deenen e jonke Mënsch schwätze kann.",
-    "t": 183.1
+    "t": 171.31
    },
    {
     "speaker": "Tom",
     "text": "An en wichtegt Detail... do brauch een dacks kee Rendez-vous.",
-    "t": 187.81
+    "t": 175.33
    },
    {
     "speaker": "Anna",
     "text": "E jonke Mënsch ka séier empfaange ginn, heiansdo nach deeselwechten Dag. Dës Séierheet zielt wierklech an enger Kris.",
-    "t": 192.47
+    "t": 179.76
    },
    {
     "speaker": "Tom",
     "text": "Stellt Iech also zwou Schichten vir. Séier Hëllef an der Schoul, an déifer Ënnerstëtzung am Beroodungszentrum.",
-    "t": 200.02
+    "t": 186.01
    },
    {
     "speaker": "Anna",
     "text": "Genee. A béid sinn do, fir e jonke Mënsch opzefänken, ier aus enger klenger Suerg eng grouss gëtt.",
-    "t": 207.64
+    "t": 192.14
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt och en drëtte Beräich, deen hannert de Kulisse schafft.",
-    "t": 214.56
+    "t": 197.74
    },
    {
     "speaker": "Anna",
     "text": "Jo, e Ressourcëzentrum. Et ënnerstëtzt d'Personal, dat an de psycho-sozialen Déngschter vun de Schoule schafft.",
-    "t": 218.69
+    "t": 200.57
    },
    {
     "speaker": "Tom",
     "text": "Et hëlleft hinnen, hir Kompetenzen an hir berufflech Praxis weiderzeentwéckelen.",
-    "t": 225.84
+    "t": 206.76
    },
    {
     "speaker": "Anna",
     "text": "Esou hëlleft de CePAS net nëmmen de jonke Leit direkt. Et stäerkt och dat ganzt Netzwierk vu Leit, déi si ënnerstëtzen.",
-    "t": 230.15
+    "t": 210.68
    },
    {
     "speaker": "Tom",
     "text": "Soe mir eppes iwwer d'Käschten an d'Vertrauen, well d'Familljen sech ëm béid Suerge maachen.",
-    "t": 238.07
+    "t": 217.86
    },
    {
     "speaker": "Anna",
     "text": "D'Ënnerstëtzung ass do, fir ze hëllefen, net fir ze uerteelen. Et ass e sécheren, professionellen a fiersuergleche Raum.",
-    "t": 243.22
+    "t": 222.21
    },
    {
     "speaker": "Tom",
     "text": "An e jonke Mënsch kann oppe schwätzen, am Wëssen, datt him mat Respekt nogelauschtert gëtt.",
-    "t": 250.55
+    "t": 228.18
    },
    {
     "speaker": "Anna",
-    "text": "De CePAS stellt och Informatiounen iwwer bestëmmt finanziell Ugeleeënheete fir Schüler zur Verfügung, wann et relevant ass.",
-    "t": 255.72
+    "text": "De CePAS këmmert sech och ëm eng finanziell Hëllef fir Schüler aus Famillje mat engem klengen Akommes... e jäerleche Subsid fir Schoulmaterial an Aktivitéiten, deen een iwwer de psycho-soziale Service vun der Schoul freet. D'Regierung plangt, en ab 2027 an eng nei, eenzeg Hëllef géint d'Liewensdeierung ze integréieren, also frot an der Schoul no, wat gëllt.",
+    "t": 232.64
    },
    {
     "speaker": "Tom",
     "text": "Elo Anna, dat hänkt mat enger anerer Organisatioun zesummen, iwwer déi mir geschwat hunn.",
-    "t": 261.7
+    "t": 252.51
    },
    {
     "speaker": "Anna",
     "text": "Dat stëmmt. De CePAS ass och ee vun de Partner, op déi den Office National de l'Enfance fir psychologesch Ënnerstëtzung zréckgräife kann.",
-    "t": 266.29
+    "t": 256.52
    },
    {
     "speaker": "Tom",
     "text": "Dës Déngschter sinn also keng getrennten Inselen. Si schaffe zesumme ronderëm de jonke Mënsch.",
-    "t": 275.04
+    "t": 263.65
    },
    {
     "speaker": "Anna",
     "text": "Dat ass dat Schéint dorun. Vill Hänn, ee Zil... e jonke Mënsch, deen sech ënnerstëtzt fillt.",
-    "t": 281.61
+    "t": 268.56
    },
    {
     "speaker": "Tom",
     "text": "Soe mir e sanft, éierlecht Wuert iwwer d'Sichen no Hëllef.",
-    "t": 288.29
+    "t": 274.49
    },
    {
     "speaker": "Anna",
     "text": "Wann Dir e jonke Mënsch sidd, deen nolauschtert, an d'Saache schwéier wierken, da wësst w.e.g., datt no Hëllef ze froen couragéiert ass, net schwaach.",
-    "t": 291.98
+    "t": 277.48
    },
    {
     "speaker": "Tom",
     "text": "A wann Dir en Elterendeel sidd, deen mierkt, datt säi Kand Schwieregkeeten huet, da hutt Dir net versot. Ënnerstëtzung gëtt et, a si wierkt.",
-    "t": 298.89
+    "t": 283.54
    },
    {
     "speaker": "Anna",
     "text": "Fréizäiteg mat engem ze schwätze kann de Verlaf vun engem ganze Schouljoer änneren, an heiansdo nach vill méi.",
-    "t": 307.04
+    "t": 290.24
    },
    {
     "speaker": "Tom",
     "text": "Also Tom... maache mir et praktesch. Wéi notzt een de CePAS eigentlech?",
-    "t": 312.79
+    "t": 296
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... wann Äert Kand séier Ënnerstëtzung brauch, ass de schoulesche psycho-sozialen Déngscht direkt do, dacks ouni Rendez-vous.",
-    "t": 319.25
+    "t": 301.24
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... fir méi déif oder méi laang Ënnerstëtzung empfänkt de Beroodungszentrum jonk Leit vun zwielef bis drësseg Joer, an hir Familljen, no Rendez-vous.",
-    "t": 326.73
+    "t": 308.94
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... denkt drun, datt zanter 2026 d'Beroodungen och op Englesch disponibel sinn.",
-    "t": 335.02
+    "t": 317.7
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... dës Déngschter sinn mat anere verbonnen, wéi dem ONE, esou datt d'Hëllef kann ofgestëmmt ginn.",
-    "t": 341.3
+    "t": 323.39
    },
    {
     "speaker": "Anna",
     "text": "Loosse mir alles zesummebréngen. Wat sollt een sech iwwer de CePAS mierken?",
-    "t": 347.03
+    "t": 329.26
    },
    {
     "speaker": "Tom",
-    "text": "Éischtens... et ass e psycho-sozialt a schoulescht Ënnerstëtzungszentrum, dat zanter sechzeg Joer dem Wuelbefanne vu jonke Leit an der Schoul déngt.",
-    "t": 352.56
+    "text": "Éischtens... et ass e psycho-sozialt a schoulescht Ënnerstëtzungszentrum, dat zanter méi wéi sechzeg Joer dem Wuelbefanne vu jonke Leit an der Schoul déngt.",
+    "t": 333.82
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... et bitt psychologesch an therapeutesch Ënnerstëtzung fir schoulesch, perséinlech a Bezéiungsproblemer.",
-    "t": 359.4
+    "t": 341.65
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... et gëtt séier Hëllef an all Lycée, an déifer Ënnerstëtzung a sengem Beroodungszentrum.",
-    "t": 366.53
+    "t": 348.59
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... et schafft Hand an Hand mat den Elteren, de Schoulen an aneren Déngschter.",
-    "t": 372.99
+    "t": 354.96
    },
    {
     "speaker": "Tom",
     "text": "Jonk Leit droe méi, wéi mir heiansdo gesinn. En oppent Ouer am richtege Moment kann alles bedeiten.",
-    "t": 378.63
+    "t": 359.86
    },
    {
     "speaker": "Anna",
     "text": "An zu Lëtzebuerg huet dëst oppent Ouer en Numm... CePAS.",
-    "t": 385.78
+    "t": 365.88
    },
    {
     "speaker": "Tom",
-    "text": "Villmools merci, datt Dir eis haut nogelauschtert hutt.",
-    "t": 391.02
+    "text": "An denkt drun... wann Dir oder e jonke Mënsch, deen Dir kennt, Schwieregkeeten hutt, ass et ëmmer an der Rei, sech Hëllef ze sichen.",
+    "t": 370.1
    },
    {
     "speaker": "Anna",
-    "text": "An denkt drun... wann Dir oder e jonke Mënsch, deen Dir kennt, Schwieregkeeten hutt, ass et ëmmer an der Rei, sech Hëllef ze sichen. Äddi!",
-    "t": 394.02
+    "text": "Dat war eis Episod iwwer de CePAS. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 375.64
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 401.5
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 418.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 421.74
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 22,
