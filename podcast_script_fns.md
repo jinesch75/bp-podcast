@@ -68,7 +68,7 @@
 
 **ANNA:** Ah, so this reaches a lot of ordinary households — people who work, but for whom every euro counts.
 
-**TOM:** Exactly. And the amount depends on the size of your household. A single person gets one amount, a couple more, a family more again. Right now it's roughly between one thousand eight hundred euros for a single person, up to around three thousand six hundred for a large household, each year.
+**TOM:** Exactly. And the amount depends on the size of your household. A single person gets one amount, a couple more, a family more again. For a single person, it's more than one thousand eight hundred euros a year — and more for bigger households.
 
 **ANNA:** That's a real, meaningful sum. And you said there's more attached to it?
 
@@ -80,7 +80,7 @@
 
 **ANNA:** That's thoughtful — the people who need it most don't have to fill in another form.
 
-**TOM:** Right. For everyone else, you apply each year. For the year twenty twenty-six, for example, you can apply across the whole year, up to the end of December. And the FNS even has an online calculator, so you can check if you qualify before you apply.
+**TOM:** Right. And there's a change coming. The government plans to merge these three helps — plus a new help for families with school children — into one single help, the complément vie chère, from 2027. Then you'd apply only once, and it would continue as long as you qualify. The law is still being discussed in Parliament, so check f-n-s dot l-u for the latest. For now, everyone else applies with a form — and if you got it last year, the FNS sends you a pre-filled one at the end of the year. And the FNS even has an online calculator, so you can check if you qualify before you apply.
 
 **ANNA:** A calculator — that's really helpful, so you're not applying blindly. Okay Tom — what's next on the list?
 
@@ -100,7 +100,7 @@
 
 **ANNA:** Wait — so the State pays the support that the other parent didn't?
 
-**TOM:** Within certain limits and conditions, yes. The FNS advances the unpaid maintenance, so the child and the parent aren't left with nothing. And then — this is the clever part — the FNS goes after the parent who didn't pay, to recover the money.
+**TOM:** Within certain limits and conditions, yes. The FNS advances the unpaid maintenance, so the child and the parent aren't left with nothing. And then — this is the clever part — the FNS goes after the parent who didn't pay, to recover the money. To ask for it, you need a court decision that sets the support — and a bailiff must first have tried to collect it.
 
 **ANNA:** So the State acts as a kind of guarantor, and then does the chasing itself.
 
@@ -108,7 +108,7 @@
 
 **ANNA:** That really is. Okay — how many more?
 
-**TOM:** Two more to mention. The fifth is a supplement for older people who need care. When someone goes into a care home, or assisted living, and their own income isn't enough to cover the cost, the FNS can help pay the difference.
+**TOM:** Two more to mention. The fifth is a supplement for older people who need care. When someone goes into a care home, or assisted living, and their own income isn't enough to cover the cost, the FNS can help pay the difference. It's called COMPA.
 
 **ANNA:** So an older person isn't turned away from care just because their pension is too small.
 
@@ -132,11 +132,11 @@
 
 **ANNA:** And can you do it online?
 
-**TOM:** For several things, yes — through MyGuichet.lu, the State's digital platform, with a secure login. And for the cost-of-living allowance, there's that online calculator first. But you can also do it on paper — download the form, or get it by post, fill it in, and send it back to the FNS.
+**TOM:** Partly. On the website you find the forms — and, for the cost-of-living allowance, that online calculator. But mostly, you fill in a paper form. You download it, or pick it up at the FNS counter, sign it, and send it by post or hand it in. And the social office of your commune can help you fill it in.
 
 **ANNA:** And if someone is confused, or doesn't know which help is for them?
 
-**TOM:** Then they can contact the FNS directly — by phone, by email, or in person. The offices are on the rue de la Fonderie, in Luxembourg City. And honestly, that first phone call is often the most important step. Because many people don't claim what they're entitled to — simply because they don't know it exists.
+**TOM:** Then they can contact the FNS directly — by phone, by email, or in person. The offices are on the rue de la Fonderie, in Luxembourg City — the counter is open in the mornings. And honestly, that first phone call is often the most important step. Because many people don't claim what they're entitled to — simply because they don't know it exists.
 
 **ANNA:** That's such an important point. Help that you don't know about doesn't help you.
 
@@ -180,7 +180,7 @@
 
 **ANNA:** A short summary to finish?
 
-**TOM:** Sure. The National Solidarity Fund — the FNS, fns.lu — is Luxembourg's safety net against poverty. It manages REVIS, the guaranteed minimum income; the cost-of-living allowance with the energy premium and senior aid; an income for severely disabled persons; advances on unpaid child maintenance; a supplement for older people in care; and the child-raising pension, the Mammerent. You apply on fns.lu or MyGuichet.lu — and REVIS recipients get the cost-of-living allowance automatically.
+**TOM:** Sure. The National Solidarity Fund — the FNS, fns.lu — is Luxembourg's safety net against poverty. It manages REVIS, the guaranteed minimum income; the cost-of-living allowance with the energy premium and senior aid; an income for severely disabled persons; advances on unpaid child maintenance; a supplement for older people in care; and the child-raising pension, the Mammerent. You find all the forms on fns.lu — and REVIS recipients get the cost-of-living allowance automatically.
 
 **ANNA:** And the message for today?
 
@@ -198,4 +198,4 @@
 
 ---
 
-*Sources: fns.public.lu (Fonds national de solidarité — National Solidarity Fund) and guichet.public.lu official pages, including the FNS body page and "Social parameters" (values from 1 January 2026). The FNS, under the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees, manages: the social inclusion income (REVIS); the allowance for severely disabled persons (RPGH); the cost-of-living benefit, energy allowance and financial assistance for seniors (cost-of-living benefit roughly €1,817 for a single person up to €3,637 for a household of 5+ per year; energy allowance €600–€1,200); advance on and recovery of maintenance payments; the supplement for seniors in care; and the child-raising pension ('Mammerent'). REVIS recipients receive the cost-of-living allowance, energy premium and senior aid automatically. Amounts are indexed and change over time — check the official pages on fns.lu and guichet.lu for current figures and conditions. General information only.*
+*Sources: fns.public.lu (Fonds national de solidarité — National Solidarity Fund) and guichet.public.lu official pages, including the FNS body page and "Social parameters" (values from 1 January 2026). The FNS, under the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees, manages: the social inclusion income (REVIS); the allowance for severely disabled persons (RPGH); the cost-of-living benefit, energy allowance and financial assistance for seniors (cost-of-living benefit roughly €1,817 for a single person up to €3,637 for a household of 5+ per year; energy allowance €600–€1,200); advance on and recovery of maintenance payments; the supplement for seniors in care; and the child-raising pension ('Mammerent'). REVIS recipients receive the cost-of-living allowance, energy premium and senior aid automatically. Amounts are indexed and change over time — check the official pages on fns.lu and guichet.lu for current figures and conditions. General information only. Planned 'complément vie chère' (bill 8716, still in committee on 9 November 2026, planned start 1 January 2027) would merge the cost-of-living allowance, energy premium, senior aid and the low-income school subsidy into one aid managed by the FNS. FNS applications are made on paper (by post or at the counter at 8-10, rue de la Fonderie), not on MyGuichet.lu. Fact-checked 9 November 2026.*

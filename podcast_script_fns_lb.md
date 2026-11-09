@@ -68,7 +68,7 @@
 
 **ANNA:** Ah, dat erreecht also vill gewéinlech Stéit — Leit, déi schaffen, awer fir déi all Euro zielt.
 
-**TOM:** Genau. An de Betrag hänkt vun der Gréisst vun ärem Stot of. Eng eenzel Persoun kritt ee Betrag, e Koppel méi, eng Famill nach méi. Am Moment ass et ongeféier tëscht dausendaachthonnert Euro fir eng eenzel Persoun, bis ëm déi dräidausendsechshonnert fir e groussen Stot, all Joer.
+**TOM:** Genau. An de Betrag hänkt vun der Gréisst vun ärem Stot of. Eng eenzel Persoun kritt ee Betrag, e Koppel méi, eng Famill nach méi. Fir eng eenzel Persoun sinn et méi wéi dausendaachthonnert Euro d'Joer — a méi fir méi grouss Stéit.
 
 **ANNA:** Dat ass eng richteg, bedeitend Zomm. An Dir sot, datt do nach méi drun hänkt?
 
@@ -80,7 +80,7 @@
 
 **ANNA:** Dat ass duerchduecht — déi Leit, déi et am meeschte brauchen, mussen net nach e Formulaire ausfëllen.
 
-**TOM:** Richteg. Fir all déi aner mécht Dir all Joer eng Demande. Fir d'Joer zweedausendsechsanzwanzeg zum Beispill, kënnt Dir iwwert dat ganzt Joer hi eng Demande maachen, bis Enn Dezember. An de FNS huet souguer e Rechner um Internet, sou datt Dir kontrolléiere kënnt, ob Dir en Usproch hutt, ier Dir d'Demande maacht.
+**TOM:** Richteg. An et kënnt eng Ännerung. D'Regierung plangt, dës dräi Hëllefen — plus eng nei Hëllef fir Famillje mat Schoulkanner — ab 2027 zu enger eenzeger zesummenzeleeën, dem complément vie chère. Da misst Dir nëmmen nach eng Kéier eng Demande maachen, an d'Hëllef géif weidergoen, soulaang wéi Dir en Usproch hutt. D'Gesetz gëtt nach an der Chamber diskutéiert — kuckt also op f-n-s Punkt l-u fir déi neist Informatiounen. Bis dohin maachen all déi aner eng Demande mat engem Formulaire — a wann Dir se d'lescht Joer kritt hutt, schéckt de FNS Iech um Enn vum Joer e virausgefëllte Formulaire. An de FNS huet souguer e Rechner um Internet, sou datt Dir kontrolléiere kënnt, ob Dir en Usproch hutt, ier Dir d'Demande maacht.
 
 **ANNA:** E Rechner — dat ass wierklech hëllefräich, sou datt Dir net blann eng Demande maacht. Gutt Tom — wat steet als nächst op der Lëscht?
 
@@ -100,7 +100,7 @@
 
 **ANNA:** Waart — de Staat bezuelt also den Ënnerhalt, deen deen aneren Elterendeel net bezuelt huet?
 
-**TOM:** Bannent gewësse Grenzen a Konditiounen, jo. De FNS schéisst den net bezuelten Ënnerhalt vir, sou datt d'Kand an den Elterendeel net mat näischt do stinn. An dann — dat ass dat Schlaut — geet de FNS hannert deem Elterendeel hier, deen net bezuelt huet, fir d'Geld erëmzekréien.
+**TOM:** Bannent gewësse Grenzen a Konditiounen, jo. De FNS schéisst den net bezuelten Ënnerhalt vir, sou datt d'Kand an den Elterendeel net mat näischt do stinn. An dann — dat ass dat Schlaut — geet de FNS hannert deem Elterendeel hier, deen net bezuelt huet, fir d'Geld erëmzekréien. Dofir brauch een eng Geriichtsentscheedung, déi den Ënnerhalt festleet — an en Huissier muss fir d'éischt probéiert hunn, en anzedreiwen.
 
 **ANNA:** De Staat handelt also als eng Aart Garant, an dann mécht en d'Verfollegung selwer.
 
@@ -108,7 +108,7 @@
 
 **ANNA:** Dat ass et wierklech. Gutt — wéi vill nach?
 
-**TOM:** Zwou nach ze ernimmen. Déi fënnef ass eng Ergänzung fir eeler Leit, déi Fleeg brauchen. Wann ee an en Altersheem geet, oder an en assistéiert Wunnen, an hiren eegenen Akommes net duergeet, fir d'Käschten ze decken, da kann de FNS hëllefen, den Ënnerscheed ze bezuelen.
+**TOM:** Zwou nach ze ernimmen. Déi fënnef ass eng Ergänzung fir eeler Leit, déi Fleeg brauchen. Wann ee an en Altersheem geet, oder an en assistéiert Wunnen, an hiren eegenen Akommes net duergeet, fir d'Käschten ze decken, da kann de FNS hëllefen, den Ënnerscheed ze bezuelen. Et heescht COMPA.
 
 **ANNA:** Eng eeler Persoun gëtt also net vun der Fleeg ofgewisen, just well hir Pensioun ze kleng ass.
 
@@ -132,11 +132,11 @@
 
 **ANNA:** A kann een et online maachen?
 
-**TOM:** Fir verschidde Saachen, jo — iwwer MyGuichet.lu, déi digital Plattform vum Staat, mat engem séchere Login. A fir d'Liewensdeierungszoulag gëtt et fir d'éischt deen Rechner um Internet. Awer Dir kënnt et och op Pabeier maachen — den Formulaire eroflueden, oder en iwwert d'Post kréien, en ausfëllen, an en zréck un de FNS schécken.
+**TOM:** Deelweis. Um Internetsite fannt Dir d'Formulairen — a fir d'Liewensdeierungszoulag dee Rechner um Internet. Mee meeschtens fëllt Dir e Pabeierformulaire aus. Dir luet en erof, oder huelt en um Guichet vum FNS, ënnerschreift en, a schéckt en per Post oder gitt en do of. An den Office social vun Ärer Gemeng kann Iech hëllefen, en auszefëllen.
 
 **ANNA:** A wann een duercherneen ass, oder net weess, wéi eng Hëllef fir hie passt?
 
-**TOM:** Da kann en de FNS direkt kontaktéieren — iwwer Telefon, iwwer E-Mail, oder perséinlech. D'Büroe sinn op der rue de la Fonderie, an der Stad Lëtzebuerg. An éierlech gesot, deen éischten Telefonsuruff ass dacks de wichtegste Schrëtt. Well vill Leit froen net no deem, op wat se e Recht hunn — einfach well se net wëssen, datt et existéiert.
+**TOM:** Da kann en de FNS direkt kontaktéieren — iwwer Telefon, iwwer E-Mail, oder perséinlech. D'Büroe sinn op der rue de la Fonderie, an der Stad Lëtzebuerg — de Guichet ass moies op. An éierlech gesot, deen éischten Telefonsuruff ass dacks de wichtegste Schrëtt. Well vill Leit froen net no deem, op wat se e Recht hunn — einfach well se net wëssen, datt et existéiert.
 
 **ANNA:** Dat ass sou e wichtege Punkt. Hëllef, vun där Dir net wësst, hëlleft Iech net.
 
@@ -180,7 +180,7 @@
 
 **ANNA:** E kuerze Resumé fir ofzeschléissen?
 
-**TOM:** Gär. Den Nationale Solidaritéitsfong — de FNS, fns.lu — ass d'Sécherheetsnetz vu Lëtzebuerg géint d'Aarmut. En verwalt REVIS, dat garantéiert Mindestakommes; d'Liewensdeierungszoulag mat der prime énergie an der Senioren-Hëllef; en Akommes fir schwéier behënnert Persounen; Virschëss op net bezuelten Kannerënnerhalt; eng Ergänzung fir eeler Leit an der Fleeg; an d'Kannererzéiungspensioun, d'Mammerent. Dir maacht eng Demande op fns.lu oder MyGuichet.lu — an d'REVIS-Empfänger kréien d'Liewensdeierungszoulag automatesch.
+**TOM:** Gär. Den Nationale Solidaritéitsfong — de FNS, fns.lu — ass d'Sécherheetsnetz vu Lëtzebuerg géint d'Aarmut. En verwalt REVIS, dat garantéiert Mindestakommes; d'Liewensdeierungszoulag mat der prime énergie an der Senioren-Hëllef; en Akommes fir schwéier behënnert Persounen; Virschëss op net bezuelten Kannerënnerhalt; eng Ergänzung fir eeler Leit an der Fleeg; an d'Kannererzéiungspensioun, d'Mammerent. All d'Formulairen fannt Dir op fns.lu — an d'REVIS-Empfänger kréien d'Liewensdeierungszoulag automatesch.
 
 **ANNA:** An d'Botschaft fir haut?
 
@@ -198,4 +198,4 @@
 
 ---
 
-*Sources: fns.public.lu (Fonds national de solidarité — Nationale Solidaritéitsfong) an guichet.public.lu offiziell Säiten, dorënner d'FNS-Organismus-Säit an d'"Sozial Parameter" (Wäerter vum 1. Januar 2026). De FNS, ënner dem Ministère fir Famill, Solidaritéit, Zesummeliewen an Opname vu Flüchtlingen, verwalt: den Inklusiounsakommes (REVIS); d'Allocatioun fir schwéier behënnert Persounen (RPGH); d'Liewensdeierungszoulag, d'prime énergie an d'finanziell Hëllef fir Senioren (Liewensdeierungszoulag ongeféier €1.817 fir eng eenzel Persoun bis €3.637 fir e Stot vu 5+ pro Joer; prime énergie €600–€1.200); de Virschoss op an d'Erëmkréien vun Ënnerhaltszuelungen; d'Ergänzung fir Senioren an der Fleeg; an d'Kannererzéiungspensioun ('Mammerent'). D'REVIS-Empfänger kréien d'Liewensdeierungszoulag, d'prime énergie an d'Senioren-Hëllef automatesch. D'Beträg sinn indexéiert a veränneren sech mat der Zäit — kuckt déi offiziell Säiten op fns.lu a guichet.lu fir aktuell Zuelen a Konditiounen. Nëmmen allgemeng Informatioun.*
+*Sources: fns.public.lu (Fonds national de solidarité — Nationale Solidaritéitsfong) an guichet.public.lu offiziell Säiten, dorënner d'FNS-Organismus-Säit an d'"Sozial Parameter" (Wäerter vum 1. Januar 2026). De FNS, ënner dem Ministère fir Famill, Solidaritéit, Zesummeliewen an Opname vu Flüchtlingen, verwalt: den Inklusiounsakommes (REVIS); d'Allocatioun fir schwéier behënnert Persounen (RPGH); d'Liewensdeierungszoulag, d'prime énergie an d'finanziell Hëllef fir Senioren (Liewensdeierungszoulag ongeféier €1.817 fir eng eenzel Persoun bis €3.637 fir e Stot vu 5+ pro Joer; prime énergie €600–€1.200); de Virschoss op an d'Erëmkréien vun Ënnerhaltszuelungen; d'Ergänzung fir Senioren an der Fleeg; an d'Kannererzéiungspensioun ('Mammerent'). D'REVIS-Empfänger kréien d'Liewensdeierungszoulag, d'prime énergie an d'Senioren-Hëllef automatesch. D'Beträg sinn indexéiert a veränneren sech mat der Zäit — kuckt déi offiziell Säiten op fns.lu a guichet.lu fir aktuell Zuelen a Konditiounen. Nëmmen allgemeng Informatioun. De geplangte „complément vie chère“ (Gesetzesprojet 8716, den 9. November 2026 nach an der Kommissioun, geplangte Start 1. Januar 2027) géif Liewensdeierungszoulag, prime énergie, Senioren-Hëllef an d'Subventioun fir Stéit mat klengem Akommes zesummeleeën. Demanden beim FNS op Pabeier (per Post oder um Guichet). Iwwerpréift den 9. November 2026.*

@@ -68,7 +68,7 @@
 
 **ANNA :** Ah, donc ça touche beaucoup de ménages ordinaires — des gens qui travaillent, mais pour qui chaque euro compte.
 
-**TOM :** Exactement. Et le montant dépend de la taille de votre ménage. Une personne seule reçoit un montant, un couple davantage, une famille encore plus. En ce moment, c'est à peu près entre mille huit cents euros pour une personne seule, jusqu'à environ trois mille six cents pour un grand ménage, chaque année.
+**TOM :** Exactement. Et le montant dépend de la taille de votre ménage. Une personne seule reçoit un montant, un couple davantage, une famille encore plus. Pour une personne seule, c'est plus de mille huit cents euros par an — et davantage pour les ménages plus grands.
 
 **ANNA :** C'est une somme réelle et importante. Et tu disais qu'il y a plus que ça avec ?
 
@@ -80,7 +80,7 @@
 
 **ANNA :** C'est attentionné — les personnes qui en ont le plus besoin n'ont pas à remplir un autre formulaire.
 
-**TOM :** Exact. Pour tout le monde, vous faites votre demande chaque année. Pour l'année deux mille vingt-six, par exemple, vous pouvez faire votre demande tout au long de l'année, jusqu'à la fin décembre. Et le FNS a même un calculateur en ligne, pour que vous puissiez vérifier si vous y avez droit avant de faire votre demande.
+**TOM :** Exact. Et un changement se prépare. Le gouvernement prévoit de regrouper ces trois aides — plus une nouvelle aide pour les familles avec des enfants scolarisés — en une seule, le complément vie chère, à partir de 2027. Vous n'auriez alors qu'une seule demande à faire, et l'aide continuerait tant que vous y avez droit. La loi est encore en discussion à la Chambre des députés, alors consultez f-n-s point l-u pour les dernières nouvelles. Pour l'instant, les autres font leur demande avec un formulaire — et si vous l'avez reçue l'an dernier, le FNS vous envoie un formulaire pré-rempli en fin d'année. Et le FNS a même un calculateur en ligne, pour que vous puissiez vérifier si vous y avez droit avant de faire votre demande.
 
 **ANNA :** Un calculateur — c'est vraiment utile, comme ça vous ne faites pas votre demande à l'aveugle. D'accord Tom — qu'y a-t-il ensuite sur la liste ?
 
@@ -100,7 +100,7 @@
 
 **ANNA :** Attends — donc l'État paie la pension que l'autre parent n'a pas payée ?
 
-**TOM :** Dans certaines limites et sous certaines conditions, oui. Le FNS avance la pension alimentaire impayée, pour que l'enfant et le parent ne se retrouvent pas sans rien. Et ensuite — c'est ça, l'aspect ingénieux — le FNS se retourne contre le parent qui n'a pas payé, pour récupérer l'argent.
+**TOM :** Dans certaines limites et sous certaines conditions, oui. Le FNS avance la pension alimentaire impayée, pour que l'enfant et le parent ne se retrouvent pas sans rien. Et ensuite — c'est ça, l'aspect ingénieux — le FNS se retourne contre le parent qui n'a pas payé, pour récupérer l'argent. Pour la demander, il faut une décision de justice qui fixe la pension — et un huissier doit d'abord avoir essayé de la récupérer.
 
 **ANNA :** Donc l'État agit comme une sorte de garant, et fait ensuite lui-même les démarches de recouvrement.
 
@@ -108,7 +108,7 @@
 
 **ANNA :** Ça l'est vraiment. D'accord — il en reste combien ?
 
-**TOM :** Deux encore à mentionner. La cinquième est un complément pour les personnes âgées qui ont besoin de soins. Quand quelqu'un entre dans une maison de soins, ou en logement encadré, et que son propre revenu ne suffit pas à couvrir le coût, le FNS peut aider à payer la différence.
+**TOM :** Deux encore à mentionner. La cinquième est un complément pour les personnes âgées qui ont besoin de soins. Quand quelqu'un entre dans une maison de soins, ou en logement encadré, et que son propre revenu ne suffit pas à couvrir le coût, le FNS peut aider à payer la différence. Il s'appelle le COMPA.
 
 **ANNA :** Donc une personne âgée n'est pas refusée pour des soins juste parce que sa pension est trop petite.
 
@@ -132,11 +132,11 @@
 
 **ANNA :** Et peut-on le faire en ligne ?
 
-**TOM :** Pour plusieurs choses, oui — via MyGuichet.lu, la plateforme numérique de l'État, avec une connexion sécurisée. Et pour l'allocation de vie chère, il y a d'abord ce calculateur en ligne. Mais vous pouvez aussi le faire sur papier — téléchargez le formulaire, ou recevez-le par la poste, remplissez-le, et renvoyez-le au FNS.
+**TOM :** En partie. Sur le site, vous trouvez les formulaires — et, pour l'allocation de vie chère, ce calculateur en ligne. Mais la plupart du temps, vous remplissez un formulaire papier. Vous le téléchargez, ou vous le prenez au guichet du FNS, vous le signez, et vous l'envoyez par la poste ou vous le déposez. Et l'office social de votre commune peut vous aider à le remplir.
 
 **ANNA :** Et si quelqu'un est perdu, ou ne sait pas quelle aide est faite pour lui ?
 
-**TOM :** Alors il peut contacter le FNS directement — par téléphone, par e-mail, ou en personne. Les bureaux se trouvent rue de la Fonderie, à Luxembourg-Ville. Et honnêtement, ce premier appel téléphonique est souvent l'étape la plus importante. Parce que beaucoup de gens ne demandent pas ce à quoi ils ont droit — simplement parce qu'ils ne savent pas que ça existe.
+**TOM :** Alors il peut contacter le FNS directement — par téléphone, par e-mail, ou en personne. Les bureaux se trouvent rue de la Fonderie, à Luxembourg-Ville — le guichet est ouvert le matin. Et honnêtement, ce premier appel téléphonique est souvent l'étape la plus importante. Parce que beaucoup de gens ne demandent pas ce à quoi ils ont droit — simplement parce qu'ils ne savent pas que ça existe.
 
 **ANNA :** C'est un point tellement important. Une aide dont vous ignorez l'existence ne vous aide pas.
 
@@ -180,7 +180,7 @@
 
 **ANNA :** Un petit résumé pour finir ?
 
-**TOM :** Bien sûr. Le Fonds national de solidarité — le FNS, fns.lu — est le filet de sécurité du Luxembourg contre la pauvreté. Il gère le REVIS, le revenu minimum garanti ; l'allocation de vie chère avec la prime énergie et l'aide aux seniors ; un revenu pour personnes gravement handicapées ; les avances sur les pensions alimentaires impayées ; un complément pour les personnes âgées en soins ; et la pension pour l'éducation des enfants, la Mammerent. Vous faites votre demande sur fns.lu ou MyGuichet.lu — et les bénéficiaires du REVIS reçoivent l'allocation de vie chère automatiquement.
+**TOM :** Bien sûr. Le Fonds national de solidarité — le FNS, fns.lu — est le filet de sécurité du Luxembourg contre la pauvreté. Il gère le REVIS, le revenu minimum garanti ; l'allocation de vie chère avec la prime énergie et l'aide aux seniors ; un revenu pour personnes gravement handicapées ; les avances sur les pensions alimentaires impayées ; un complément pour les personnes âgées en soins ; et la pension pour l'éducation des enfants, la Mammerent. Vous trouvez tous les formulaires sur fns.lu — et les bénéficiaires du REVIS reçoivent l'allocation de vie chère automatiquement.
 
 **ANNA :** Et le message du jour ?
 
@@ -198,4 +198,4 @@
 
 ---
 
-*Sources : fns.public.lu (Fonds national de solidarité) et les pages officielles de guichet.public.lu, y compris la page de l'organisme FNS et « Paramètres sociaux » (valeurs au 1er janvier 2026). Le FNS, sous la tutelle du Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil, gère : le revenu d'inclusion sociale (REVIS) ; le revenu pour personnes gravement handicapées (RPGH) ; l'allocation de vie chère, la prime énergie et l'aide financière pour seniors (allocation de vie chère d'environ 1 817 € pour une personne seule jusqu'à 3 637 € pour un ménage de 5 personnes et plus par an ; prime énergie de 600 à 1 200 €) ; l'avance et le recouvrement des pensions alimentaires ; le complément pour seniors en soins ; et la pension pour l'éducation des enfants (« Mammerent »). Les bénéficiaires du REVIS reçoivent l'allocation de vie chère, la prime énergie et l'aide aux seniors automatiquement. Les montants sont indexés et changent au fil du temps — consultez les pages officielles sur fns.lu et guichet.lu pour les chiffres et conditions actuels. Informations générales uniquement.*
+*Sources : fns.public.lu (Fonds national de solidarité) et les pages officielles de guichet.public.lu, y compris la page de l'organisme FNS et « Paramètres sociaux » (valeurs au 1er janvier 2026). Le FNS, sous la tutelle du Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil, gère : le revenu d'inclusion sociale (REVIS) ; le revenu pour personnes gravement handicapées (RPGH) ; l'allocation de vie chère, la prime énergie et l'aide financière pour seniors (allocation de vie chère d'environ 1 817 € pour une personne seule jusqu'à 3 637 € pour un ménage de 5 personnes et plus par an ; prime énergie de 600 à 1 200 €) ; l'avance et le recouvrement des pensions alimentaires ; le complément pour seniors en soins ; et la pension pour l'éducation des enfants (« Mammerent »). Les bénéficiaires du REVIS reçoivent l'allocation de vie chère, la prime énergie et l'aide aux seniors automatiquement. Les montants sont indexés et changent au fil du temps — consultez les pages officielles sur fns.lu et guichet.lu pour les chiffres et conditions actuels. Informations générales uniquement. Le « complément vie chère » prévu (projet de loi 8716, encore en commission le 9 novembre 2026, début prévu le 1er janvier 2027) regrouperait l'allocation de vie chère, la prime énergie, l'aide aux personnes âgées et la subvention pour ménages à faible revenu en une aide gérée par le FNS. Les demandes au FNS se font sur papier (par la poste ou au guichet, 8-10, rue de la Fonderie). Vérifié le 9 novembre 2026.*

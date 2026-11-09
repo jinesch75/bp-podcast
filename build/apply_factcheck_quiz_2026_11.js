@@ -79,6 +79,11 @@ D.push(['zukunftskeess', 'description', 'can last to 25 for students', 'can last
 D.push(['zukunftskeess', 'description_fr', "peut durer jusqu'à 25 ans pour les étudiants", "peut durer jusqu'à 25 ans pour les élèves du secondaire"]);
 D.push(['zukunftskeess', 'description_de', 'für Studierende bis 25 dauern kann', 'für Schülerinnen und Schüler der Sekundarstufe bis 25 dauern kann']);
 
+// FNS (9 Nov 2026): no MyGuichet procedure for FNS benefits
+D.push(['fns', 'description', 'Apply on fns.lu or MyGuichet.lu', 'Forms and an online calculator are on fns.lu']);
+D.push(['fns', 'description_fr', 'Faites votre demande sur fns.lu ou MyGuichet.lu', 'Formulaires et calculateur en ligne sur fns.lu']);
+D.push(['fns', 'description_de', 'Stellen Sie Ihren Antrag auf fns.lu oder MyGuichet.lu', 'Formulare und Online-Rechner auf fns.lu']);
+
 const src = fs.readFileSync(FILE, 'utf8');
 const i = src.indexOf('const EPISODES');
 const banner = src.slice(0, i);

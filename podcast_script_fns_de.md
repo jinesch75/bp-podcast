@@ -68,7 +68,7 @@
 
 **ANNA:** Ah, das erreicht also viele ganz normale Haushalte — Menschen, die arbeiten, aber für die jeder Euro zählt.
 
-**TOM:** Genau. Und der Betrag hängt von der Größe Ihres Haushalts ab. Eine alleinstehende Person bekommt einen Betrag, ein Paar mehr, eine Familie noch mehr. Im Moment liegt er ungefähr zwischen tausendachthundert Euro für eine alleinstehende Person, bis zu rund dreitausendsechshundert für einen großen Haushalt, pro Jahr.
+**TOM:** Genau. Und der Betrag hängt von der Größe Ihres Haushalts ab. Eine alleinstehende Person bekommt einen Betrag, ein Paar mehr, eine Familie noch mehr. Für eine alleinstehende Person sind es mehr als tausendachthundert Euro im Jahr — und mehr für größere Haushalte.
 
 **ANNA:** Das ist eine echte, bedeutende Summe. Und du sagtest, es hängt noch mehr daran?
 
@@ -80,7 +80,7 @@
 
 **ANNA:** Das ist rücksichtsvoll — die Menschen, die sie am meisten brauchen, müssen kein weiteres Formular ausfüllen.
 
-**TOM:** Richtig. Für alle anderen stellen Sie jedes Jahr einen Antrag. Für das Jahr zweitausendsechsundzwanzig zum Beispiel können Sie das ganze Jahr über einen Antrag stellen, bis Ende Dezember. Und der FNS hat sogar einen Online-Rechner, damit Sie prüfen können, ob Sie Anspruch haben, bevor Sie einen Antrag stellen.
+**TOM:** Richtig. Und es kommt eine Änderung. Die Regierung plant, diese drei Hilfen — plus eine neue Hilfe für Familien mit Schulkindern — ab 2027 zu einer einzigen zusammenzulegen, dem complément vie chère. Dann müssten Sie nur noch einmal einen Antrag stellen, und die Hilfe liefe weiter, solange Sie Anspruch haben. Das Gesetz wird noch im Parlament beraten — schauen Sie also auf f-n-s Punkt l-u nach dem neuesten Stand. Bis dahin stellen alle anderen ihren Antrag mit einem Formular — und wenn Sie die Zulage im letzten Jahr bekommen haben, schickt Ihnen der FNS Ende des Jahres ein vorausgefülltes Formular. Und der FNS hat sogar einen Online-Rechner, damit Sie prüfen können, ob Sie Anspruch haben, bevor Sie einen Antrag stellen.
 
 **ANNA:** Ein Rechner — das ist wirklich hilfreich, damit Sie nicht blind einen Antrag stellen. Gut, Tom — was steht als Nächstes auf der Liste?
 
@@ -100,7 +100,7 @@
 
 **ANNA:** Moment — der Staat zahlt also den Unterhalt, den der andere Elternteil nicht gezahlt hat?
 
-**TOM:** Innerhalb bestimmter Grenzen und Bedingungen, ja. Der FNS streckt den nicht gezahlten Unterhalt vor, damit das Kind und das Elternteil nicht mit nichts dastehen. Und dann — das ist der clevere Teil — geht der FNS gegen das Elternteil vor, das nicht gezahlt hat, um das Geld zurückzuholen.
+**TOM:** Innerhalb bestimmter Grenzen und Bedingungen, ja. Der FNS streckt den nicht gezahlten Unterhalt vor, damit das Kind und das Elternteil nicht mit nichts dastehen. Und dann — das ist der clevere Teil — geht der FNS gegen das Elternteil vor, das nicht gezahlt hat, um das Geld zurückzuholen. Dafür braucht es eine Gerichtsentscheidung, die den Unterhalt festlegt — und ein Gerichtsvollzieher muss zuerst versucht haben, ihn einzutreiben.
 
 **ANNA:** Der Staat handelt also als eine Art Bürge und übernimmt dann selbst das Eintreiben.
 
@@ -108,7 +108,7 @@
 
 **ANNA:** Das ist es wirklich. Gut — wie viele kommen noch?
 
-**TOM:** Zwei sind noch zu erwähnen. Die fünfte ist ein Zuschuss für ältere Menschen, die Pflege brauchen. Wenn jemand in ein Pflegeheim oder betreutes Wohnen kommt, und sein eigenes Einkommen nicht ausreicht, um die Kosten zu decken, kann der FNS helfen, die Differenz zu zahlen.
+**TOM:** Zwei sind noch zu erwähnen. Die fünfte ist ein Zuschuss für ältere Menschen, die Pflege brauchen. Wenn jemand in ein Pflegeheim oder betreutes Wohnen kommt, und sein eigenes Einkommen nicht ausreicht, um die Kosten zu decken, kann der FNS helfen, die Differenz zu zahlen. Er heißt COMPA.
 
 **ANNA:** Ein älterer Mensch wird also nicht von der Pflege abgewiesen, nur weil seine Rente zu klein ist.
 
@@ -132,11 +132,11 @@
 
 **ANNA:** Und kann man es online machen?
 
-**TOM:** Für mehrere Dinge, ja — über MyGuichet.lu, die digitale Plattform des Staates, mit einem sicheren Login. Und für die Teuerungszulage gibt es zuerst diesen Online-Rechner. Aber Sie können es auch auf Papier machen — laden Sie das Formular herunter, oder bekommen Sie es per Post, füllen Sie es aus, und schicken Sie es an den FNS zurück.
+**TOM:** Teilweise. Auf der Website finden Sie die Formulare — und für die Teuerungszulage diesen Online-Rechner. Aber meistens füllen Sie ein Papierformular aus. Sie laden es herunter oder holen es am Schalter des FNS ab, unterschreiben es, und schicken es per Post oder geben es dort ab. Und das Office social Ihrer Gemeinde kann Ihnen beim Ausfüllen helfen.
 
 **ANNA:** Und wenn jemand verwirrt ist, oder nicht weiß, welche Hilfe für ihn ist?
 
-**TOM:** Dann kann er den FNS direkt kontaktieren — telefonisch, per E-Mail, oder persönlich. Die Büros sind in der rue de la Fonderie, in Luxemburg-Stadt. Und ehrlich gesagt ist dieser erste Anruf oft der wichtigste Schritt. Denn viele Menschen beantragen nicht, worauf sie Anspruch haben — einfach weil sie nicht wissen, dass es das gibt.
+**TOM:** Dann kann er den FNS direkt kontaktieren — telefonisch, per E-Mail, oder persönlich. Die Büros sind in der rue de la Fonderie, in Luxemburg-Stadt — der Schalter ist vormittags geöffnet. Und ehrlich gesagt ist dieser erste Anruf oft der wichtigste Schritt. Denn viele Menschen beantragen nicht, worauf sie Anspruch haben — einfach weil sie nicht wissen, dass es das gibt.
 
 **ANNA:** Das ist so ein wichtiger Punkt. Eine Hilfe, von der Sie nichts wissen, hilft Ihnen nicht.
 
@@ -180,7 +180,7 @@
 
 **ANNA:** Eine kurze Zusammenfassung zum Schluss?
 
-**TOM:** Klar. Der Nationale Solidaritätsfonds — der FNS, fns.lu — ist Luxemburgs soziales Netz gegen die Armut. Er verwaltet den REVIS, das garantierte Mindesteinkommen; die Teuerungszulage mit der Energieprämie und der Seniorenhilfe; ein Einkommen für schwerbehinderte Menschen; Vorschüsse auf nicht gezahlten Kindesunterhalt; einen Zuschuss für ältere Menschen in Pflege; und die Erziehungsrente, die Mammerent. Sie stellen Ihren Antrag auf fns.lu oder MyGuichet.lu — und REVIS-Bezieher bekommen die Teuerungszulage automatisch.
+**TOM:** Klar. Der Nationale Solidaritätsfonds — der FNS, fns.lu — ist Luxemburgs soziales Netz gegen die Armut. Er verwaltet den REVIS, das garantierte Mindesteinkommen; die Teuerungszulage mit der Energieprämie und der Seniorenhilfe; ein Einkommen für schwerbehinderte Menschen; Vorschüsse auf nicht gezahlten Kindesunterhalt; einen Zuschuss für ältere Menschen in Pflege; und die Erziehungsrente, die Mammerent. Alle Formulare finden Sie auf fns.lu — und REVIS-Bezieher bekommen die Teuerungszulage automatisch.
 
 **ANNA:** Und die Botschaft für heute?
 
@@ -198,4 +198,4 @@
 
 ---
 
-*Quellen: fns.public.lu (Fonds national de solidarité — Nationaler Solidaritätsfonds) und die offiziellen Seiten von guichet.public.lu, einschließlich der FNS-Behördenseite und „Soziale Parameter" (Werte vom 1. Januar 2026). Der FNS, unter dem Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen, verwaltet: das Eingliederungseinkommen (REVIS); das Einkommen für schwerbehinderte Menschen (RPGH); die Teuerungszulage, die Energieprämie und die finanzielle Unterstützung für Senioren (Teuerungszulage ungefähr 1 817 € für eine alleinstehende Person bis zu 3 637 € für einen Haushalt von 5 oder mehr Personen pro Jahr; Energieprämie 600–1 200 €); den Vorschuss auf und die Beitreibung von Unterhaltszahlungen; den Zuschuss für Senioren in Pflege; und die Erziehungsrente („Mammerent"). REVIS-Bezieher erhalten die Teuerungszulage, die Energieprämie und die Seniorenhilfe automatisch. Die Beträge sind indexiert und ändern sich im Laufe der Zeit — prüfen Sie die offiziellen Seiten auf fns.lu und guichet.lu für aktuelle Zahlen und Bedingungen. Nur allgemeine Informationen.*
+*Quellen: fns.public.lu (Fonds national de solidarité — Nationaler Solidaritätsfonds) und die offiziellen Seiten von guichet.public.lu, einschließlich der FNS-Behördenseite und „Soziale Parameter" (Werte vom 1. Januar 2026). Der FNS, unter dem Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen, verwaltet: das Eingliederungseinkommen (REVIS); das Einkommen für schwerbehinderte Menschen (RPGH); die Teuerungszulage, die Energieprämie und die finanzielle Unterstützung für Senioren (Teuerungszulage ungefähr 1 817 € für eine alleinstehende Person bis zu 3 637 € für einen Haushalt von 5 oder mehr Personen pro Jahr; Energieprämie 600–1 200 €); den Vorschuss auf und die Beitreibung von Unterhaltszahlungen; den Zuschuss für Senioren in Pflege; und die Erziehungsrente („Mammerent"). REVIS-Bezieher erhalten die Teuerungszulage, die Energieprämie und die Seniorenhilfe automatisch. Die Beträge sind indexiert und ändern sich im Laufe der Zeit — prüfen Sie die offiziellen Seiten auf fns.lu und guichet.lu für aktuelle Zahlen und Bedingungen. Nur allgemeine Informationen. Der geplante „complément vie chère“ (Gesetzentwurf 8716, am 9. November 2026 noch im Ausschuss, geplanter Start 1. Januar 2027) würde Teuerungszulage, Energieprämie, Seniorenhilfe und den Zuschuss für Haushalte mit geringem Einkommen zu einer Hilfe des FNS zusammenlegen. Anträge beim FNS auf Papier (per Post oder am Schalter, 8-10, rue de la Fonderie). Geprüft am 9. November 2026.*
