@@ -28,7 +28,7 @@
 **TOM:** Well d'Leit déi eng Prozedur all Dag benotzen, verstinn dacks am beschten hir Problemer.
 **ANNA:** Esou kënnen d'Bierger an d'Entreprisen d'Initiativ ergräifen, an Iddien araichen, fir dem Staat seng Prozeduren ze vereinfachen.
 **TOM:** Dir hutt eppes Ëmständleches gemierkt, eppes dat méi einfach kéint sinn? Dir kënnt virschloen, wéi een et verbessert.
-**ANNA:** An dann passéiert d'Aarbecht op eng participativ, ko-kreativ Manéier... zesummen mat de Leit déi et virgeschloen hunn.
+**ANNA:** An dann passéiert d'Aarbecht op eng participativ, ko-kreativ Manéier... zesummen mat de Leit déi et virgeschloen hunn. Ministèren an Administratiounen kënnen do och hir eege Projeten publizéieren, fir d'Meenung vun de Leit ze froen.
 **TOM:** Ech mengen, et hëlleft, sech et als e Projet virzestellen deen duerch verschidde Phasen geet.
 **ANNA:** Jo. Et gëtt eng Phas fir Iddien ze deelen, an dann Phasen fir un enger Léisung ze schaffen an se ze testen.
 **TOM:** An hei ass en Detail deen ech wierklech schätzen. Dir musst Iech net fir de ganze Wee verflichten.
@@ -70,4 +70,4 @@
 
 ---
 
-*Quellen: Plattform „Zesumme Vereinfachen", zesumme-vereinfachen.lu, an de Ministère fir Digitaliséierung (mindigital.gouvernement.lu) — déi participativ Plattform fir d'Verwaltungsvereinfachung, geréiert vum Vereinfachungsrot, lancéiert 2022 als Deel vum Programm „Einfach Lëtzebuerg"; Bierger an Entreprisen kënnen Iddien araichen an un enger oder méi Projetsphasen deelhuelen, op Lëtzebuergesch, Däitsch, Franséisch oder Englesch. D'Beispill vun de Biergerréckmeldungen iwwer d'MyGuichet.lu-App kënnt vum Ministère fir Digitaliséierung. Nëmmen allgemeng Informatiounen. Stand: Juni 2026.*
+*Quellen: Plattform „Zesumme Vereinfachen", zesumme-vereinfachen.lu, an de Ministère fir Digitaliséierung (mindigital.gouvernement.lu) — déi participativ Plattform fir d'Verwaltungsvereinfachung, geréiert vum Vereinfachungsrot, lancéiert 2022 als Deel vum Programm „Einfach Lëtzebuerg"; Bierger an Entreprisen kënnen Iddien araichen an un enger oder méi Projetsphasen deelhuelen, op Lëtzebuergesch, Däitsch, Franséisch oder Englesch. D'Beispill vun de Biergerréckmeldungen iwwer d'MyGuichet.lu-App kënnt vum Ministère fir Digitaliséierung. Nëmmen allgemeng Informatiounen. Stand: Juni 2026. Aktualiséierung: Ministèren kënnen och Projeten areechen. Iwwerpréift den 9. November 2026.*

@@ -53241,7 +53241,7 @@ const EPISODES = [
      "Because a law forbids publishing the price of a house, in order to protect the privacy of the families who sell"
     ],
     "correct": 0,
-    "explanation": "For apartments, good data on surface area allows a fair price per square metre to be calculated. That detailed information isn't available in the same way for houses, so rather than publish misleading figures, the Observatoire does not publish detailed house prices. For houses, STATEC publishes a general price index instead."
+    "explanation": "For apartments, good data on surface area allows a fair price per square metre to be calculated. That detailed information isn't available in the same way for houses, so rather than publish misleading figures, the Observatoire does not publish detailed house prices. For houses, STATEC publishes a general price index instead. For houses, STATEC publishes a general price index instead."
    },
    {
     "text": "Where can the public explore the Observatoire's housing data by commune?",
@@ -53313,7 +53313,7 @@ const EPISODES = [
      "Parce qu'une loi interdit de publier le prix d'une maison, pour protéger la vie privée des familles qui vendent"
     ],
     "correct": 0,
-    "explanation": "Pour les appartements, de bonnes données sur la surface permettent de calculer un prix au mètre carré juste. Cette information détaillée n'est pas disponible de la même façon pour les maisons ; plutôt que de publier des chiffres trompeurs, l'Observatoire ne diffuse pas de prix détaillés des maisons. Pour les maisons, le STATEC publie plutôt un indice général des prix."
+    "explanation": "Pour les appartements, de bonnes données sur la surface permettent de calculer un prix au mètre carré juste. Cette information détaillée n'est pas disponible de la même façon pour les maisons ; plutôt que de publier des chiffres trompeurs, l'Observatoire ne diffuse pas de prix détaillés des maisons. Pour les maisons, le STATEC publie plutôt un indice général des prix. Pour les maisons, le STATEC publie plutôt un indice général des prix."
    },
    {
     "text": "Où le public peut-il consulter les données de l'Observatoire par commune ?",
@@ -53382,7 +53382,7 @@ const EPISODES = [
      "Weil ein Gesetz verbietet, den Preis eines Hauses zu veröffentlichen, um die Privatsphäre der verkaufenden Familien zu schützen"
     ],
     "correct": 0,
-    "explanation": "Für Wohnungen ermöglichen gute Flächendaten die Berechnung eines fairen Preises pro Quadratmeter. Diese detaillierten Informationen liegen für Häuser nicht in gleicher Weise vor; statt irreführende Zahlen zu veröffentlichen, gibt das Observatoire keine detaillierten Hauspreise heraus. Für Häuser veröffentlicht der STATEC stattdessen einen allgemeinen Preisindex."
+    "explanation": "Für Wohnungen ermöglichen gute Flächendaten die Berechnung eines fairen Preises pro Quadratmeter. Diese detaillierten Informationen liegen für Häuser nicht in gleicher Weise vor; statt irreführende Zahlen zu veröffentlichen, gibt das Observatoire keine detaillierten Hauspreise heraus. Für Häuser veröffentlicht der STATEC stattdessen einen allgemeinen Preisindex. Für Häuser veröffentlicht der STATEC stattdessen einen allgemeinen Preisindex."
    },
    {
     "text": "Wo kann die Öffentlichkeit die Wohnungsdaten des Observatoire nach Gemeinde einsehen?",
@@ -63934,7 +63934,7 @@ const EPISODES = [
   "title": "European Funds in Luxembourg – How EU Money Supports Local Projects",
   "description": "What the European Funds are, how the EU's cohesion policy invests in member countries, the main funds (regional development, the social fund, and asylum & migration), how managing authorities oversee them, what they pay for, and how organisations can take part.",
   "audio": "podcast_fondseuropeens.mp3",
-  "duration": 398.81,
+  "duration": 415.61,
   "topics": [
    "EU cohesion policy explained",
    "Regional Development Fund (FEDER)",
@@ -63948,433 +63948,458 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's a pleasure to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.64
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.68
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.79
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to understand how the country works.",
-    "t": 14.61
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today's topic might sound a little technical at first, but it touches real life... European funds.",
-    "t": 22.03
+    "t": 27.49
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 29.47
-   },
-   {
-    "speaker": "Anna",
-    "text": "We hear a lot about the European Union.",
-    "t": 31.15
+    "text": "Yes. We hear a lot about the European Union.",
+    "t": 33.58
    },
    {
     "speaker": "Anna",
     "text": "But what does it actually mean, in practice, here in Luxembourg?",
-    "t": 34.26
+    "t": 36.54
    },
    {
     "speaker": "Tom",
     "text": "Part of the answer is money.",
-    "t": 38.86
+    "t": 39.99
    },
    {
     "speaker": "Tom",
     "text": "The EU helps pay for useful projects in its member countries.",
-    "t": 41.45
+    "t": 41.42
    },
    {
     "speaker": "Anna",
     "text": "And in Luxembourg, there is an official website and team that manages this... the European Funds, or in French, the \"Fonds européens\".",
-    "t": 45.92
+    "t": 45.11
    },
    {
     "speaker": "Tom",
     "text": "So Anna, where does this money come from, and what is the idea behind it?",
-    "t": 54.82
+    "t": 55.13
    },
    {
     "speaker": "Anna",
     "text": "The European Union has something called cohesion policy.",
-    "t": 59.73
+    "t": 59.47
    },
    {
     "speaker": "Anna",
     "text": "The idea is to help regions and people develop, fairly, across Europe.",
-    "t": 63.79
+    "t": 62.76
    },
    {
     "speaker": "Tom",
     "text": "So richer and less rich regions, big challenges and small ones... the EU invests to help everyone move forward together.",
-    "t": 68.88
+    "t": 67.62
    },
    {
     "speaker": "Anna",
     "text": "And each member country, including Luxembourg, receives a share to spend on agreed goals.",
-    "t": 76.52
+    "t": 75.3
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about the main funds, because each one has its own focus.",
-    "t": 82.54
+    "t": 80.83
    },
    {
     "speaker": "Anna",
     "text": "The first is the European Regional Development Fund.",
-    "t": 87.22
+    "t": 84.52
    },
    {
     "speaker": "Anna",
     "text": "People often call it by its French initials, FEDER.",
-    "t": 90.98
+    "t": 87.83
    },
    {
     "speaker": "Tom",
     "text": "This one supports things like research, innovation, the digital economy, and the move to cleaner, low-carbon energy.",
-    "t": 94.84
+    "t": 91.28
    },
    {
     "speaker": "Anna",
     "text": "For Luxembourg, in the current period from 2021 to 2027, this fund is around twenty-one million euros.",
-    "t": 102.04
+    "t": 98.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the next period, from 2028, is already being prepared at European level.",
+    "t": 106.08
    },
    {
     "speaker": "Tom",
     "text": "The second is the European Social Fund Plus.",
-    "t": 110.25
+    "t": 111.44
    },
    {
     "speaker": "Tom",
     "text": "In French, the FSE Plus.",
-    "t": 113.94
+    "t": 113.93
    },
    {
     "speaker": "Anna",
     "text": "The clue is in the name... social.",
-    "t": 117.05
+    "t": 116.43
    },
    {
     "speaker": "Anna",
     "text": "This fund is about people.",
-    "t": 120
+    "t": 118.49
    },
    {
     "speaker": "Anna",
     "text": "Jobs, skills, training, and including people who are left behind.",
-    "t": 122.46
+    "t": 120.48
    },
    {
     "speaker": "Tom",
     "text": "It helps with employment and with fighting poverty and exclusion.",
-    "t": 127.59
+    "t": 125.43
    },
    {
     "speaker": "Anna",
     "text": "And there is a third fund worth knowing... the Asylum, Migration and Integration Fund.",
-    "t": 131.94
+    "t": 128.95
    },
    {
     "speaker": "Tom",
     "text": "That one supports welcoming and integrating people who come to Luxembourg, including those seeking asylum.",
-    "t": 137.78
+    "t": 134.53
    },
    {
     "speaker": "Anna",
     "text": "There are also funds for internal security and for managing borders.",
-    "t": 144.2
+    "t": 140.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "And there is Interreg, which supports cross-border projects with our neighbours... for example in the Greater Region.",
+    "t": 144.85
    },
    {
     "speaker": "Tom",
     "text": "So together, these funds cover the economy, people, inclusion, and safety.",
-    "t": 148.86
+    "t": 151.94
    },
    {
     "speaker": "Anna",
     "text": "Now, an important question.",
-    "t": 154.26
+    "t": 156.45
    },
    {
     "speaker": "Anna",
     "text": "Who decides how this money is spent, and who keeps it honest?",
-    "t": 157.04
+    "t": 158.17
    },
    {
     "speaker": "Tom",
     "text": "For each fund, there is what's called a managing authority.",
-    "t": 161.16
+    "t": 162.18
    },
    {
     "speaker": "Anna",
     "text": "A managing authority is the official body responsible for running the programme properly.",
-    "t": 165.16
+    "t": 165.13
    },
    {
     "speaker": "Tom",
     "text": "It chooses which projects get support, it manages the money carefully, and it checks the results.",
-    "t": 170.65
+    "t": 170.45
    },
    {
     "speaker": "Anna",
     "text": "The rule that guides them is \"sound financial management\".",
-    "t": 176.66
+    "t": 176.43
    },
    {
     "speaker": "Anna",
     "text": "In plain words... spend public money wisely and transparently.",
-    "t": 180.51
+    "t": 180.13
    },
    {
     "speaker": "Tom",
     "text": "Different ministries take on this role, depending on the fund.",
-    "t": 185.21
+    "t": 184.6
    },
    {
     "speaker": "Anna",
     "text": "For example, the fund for asylum and migration is managed by the ministry responsible for family, solidarity and welcoming people.",
-    "t": 189.59
+    "t": 187.75
    },
    {
     "speaker": "Tom",
     "text": "So the money is not just handed out.",
-    "t": 198.29
+    "t": 196.68
    },
    {
     "speaker": "Tom",
     "text": "It is planned, managed, and accounted for.",
-    "t": 201.38
+    "t": 198.65
    },
    {
     "speaker": "Anna",
     "text": "Let's make this concrete.",
-    "t": 205.02
+    "t": 201.52
    },
    {
     "speaker": "Anna",
     "text": "What does European money actually pay for, that a normal person might notice?",
-    "t": 207.44
+    "t": 203.22
    },
    {
     "speaker": "Tom",
     "text": "Think of a training programme that helps unemployed people gain new skills.",
-    "t": 212.88
+    "t": 208.42
    },
    {
     "speaker": "Anna",
     "text": "Or a project that helps a company innovate, and create good jobs.",
-    "t": 217.48
+    "t": 212.51
    },
    {
     "speaker": "Tom",
     "text": "Or support that helps newcomers learn the language and find their feet.",
-    "t": 222.18
+    "t": 216.73
    },
    {
     "speaker": "Anna",
     "text": "Or investment in cleaner energy and a greener economy.",
-    "t": 226.67
+    "t": 220.88
    },
    {
     "speaker": "Tom",
     "text": "These projects are often run by local organisations... associations, companies, public bodies.",
-    "t": 230.78
+    "t": 224.51
    },
    {
     "speaker": "Anna",
     "text": "And European funds help pay for them, alongside national money.",
-    "t": 237.19
+    "t": 230.61
    },
    {
     "speaker": "Anna",
     "text": "It's called co-financing.",
-    "t": 241.68
+    "t": 234.8
    },
    {
     "speaker": "Tom",
     "text": "So the EU rarely pays for everything.",
-    "t": 244.19
+    "t": 237
    },
    {
     "speaker": "Tom",
     "text": "It joins forces with Luxembourg to make a project possible.",
-    "t": 247.56
+    "t": 239.39
    },
    {
     "speaker": "Anna",
     "text": "Now, you might be wondering... could I, or an organisation I know, use these funds?",
-    "t": 251.87
+    "t": 242.83
    },
    {
     "speaker": "Tom",
-    "text": "Possibly, yes.",
-    "t": 258
-   },
-   {
-    "speaker": "Tom",
-    "text": "The European Funds website explains the goals, the calls for projects, and how to apply.",
-    "t": 260.33
+    "text": "Possibly, yes. The European Funds website explains the goals, the calls for projects, and how to apply.",
+    "t": 248.38
    },
    {
     "speaker": "Anna",
     "text": "If you run an association, a company, or a public project that fits the goals, you can find out how to take part.",
-    "t": 266.01
+    "t": 255.28
    },
    {
     "speaker": "Tom",
     "text": "The website also shows examples of projects that have already been funded, which is inspiring.",
-    "t": 273.52
+    "t": 262.64
    },
    {
     "speaker": "Anna",
     "text": "So this is not a closed world for experts only.",
-    "t": 279.45
+    "t": 267.9
    },
    {
     "speaker": "Anna",
     "text": "It is open, and it is explained.",
-    "t": 283.07
+    "t": 270.83
    },
    {
     "speaker": "Tom",
     "text": "Let's also say why this matters for ordinary citizens, even those who never apply.",
-    "t": 286.11
+    "t": 273.39
    },
    {
     "speaker": "Anna",
     "text": "Because this is your money too, as a European, being invested back into your community.",
-    "t": 291.64
+    "t": 278.53
    },
    {
     "speaker": "Tom",
     "text": "And because transparency matters.",
-    "t": 297.44
+    "t": 283.91
    },
    {
     "speaker": "Tom",
     "text": "You can see where it goes, and what it achieves.",
-    "t": 300.43
+    "t": 285.85
    },
    {
     "speaker": "Anna",
     "text": "It is a quiet but real example of European solidarity, landing in real projects, in real towns.",
-    "t": 303.96
+    "t": 288.6
    },
    {
     "speaker": "Tom",
     "text": "So Tom... let's make it practical.",
-    "t": 310.96
+    "t": 295.54
    },
    {
     "speaker": "Tom",
     "text": "What can someone do with this?",
-    "t": 314.2
+    "t": 297.64
    },
    {
     "speaker": "Anna",
     "text": "First... if you run an organisation or project, check the European Funds website to see if your idea fits.",
-    "t": 316.84
+    "t": 299.39
    },
    {
     "speaker": "Tom",
     "text": "Second... look at the funded projects, to understand what kinds of ideas get support.",
-    "t": 324.1
+    "t": 306.52
    },
    {
     "speaker": "Anna",
     "text": "Third... remember the main funds... the regional development fund for the economy, and the social fund for people and jobs.",
-    "t": 329.88
+    "t": 311.61
    },
    {
     "speaker": "Tom",
     "text": "And fourth... know that this money is managed carefully, by official authorities, with clear goals.",
-    "t": 337.78
+    "t": 319.49
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it all together.",
-    "t": 343.85
+    "t": 325.64
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about the European Funds?",
-    "t": 346.29
+    "t": 327.22
    },
    {
     "speaker": "Tom",
     "text": "First... the EU invests in member countries through its cohesion policy, and Luxembourg receives a share.",
-    "t": 349.86
+    "t": 330.39
    },
    {
     "speaker": "Anna",
     "text": "Second... the main funds support the economy and innovation, people and jobs, and integration.",
-    "t": 356.61
+    "t": 336.57
    },
    {
     "speaker": "Tom",
     "text": "Third... managing authorities choose and oversee projects, spending public money wisely.",
-    "t": 363.3
+    "t": 343.27
    },
    {
     "speaker": "Anna",
     "text": "And fourth... organisations can apply, and everyone can see the projects on the European Funds website.",
-    "t": 369.09
+    "t": 348.63
    },
    {
     "speaker": "Tom",
     "text": "Europe can feel far away and abstract.",
-    "t": 376.22
+    "t": 355.51
    },
    {
     "speaker": "Tom",
     "text": "But sometimes, it looks like a training course, or a new job, right next door.",
-    "t": 379.58
+    "t": 357.99
    },
    {
     "speaker": "Anna",
     "text": "And understanding that helps us see the value behind the headlines.",
-    "t": 384.77
-   },
-   {
-    "speaker": "Tom",
-    "text": "Thank you so much for listening today.",
-    "t": 389.17
+    "t": 362.49
    },
    {
     "speaker": "Anna",
-    "text": "Take care, and see you in the next episode.",
-    "t": 392.16
+    "text": "That was our episode about European funds in Luxembourg.",
+    "t": 366.35
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 395.61
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 369.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 378.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 397.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 403.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 406.12
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 397.14
+    "text": "Thank you, everyone.",
+    "t": 410.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 411.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 414.01
    }
   ],
   "questions": [
@@ -64577,1186 +64602,1230 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_fondseuropeens_fr.mp3",
-  "duration_fr": 420.46,
+  "duration_fr": 407.01,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "C'est un plaisir de vous compter parmi nous aujourd'hui.",
-    "t": 3.09
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.73
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 9.31
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
-    "t": 12.77
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et les frontaliers aussi, à comprendre comment le pays fonctionne.",
-    "t": 16.43
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui peut sembler un peu technique au premier abord, mais il touche à la vie réelle... les Fonds européens.",
-    "t": 23.81
+    "t": 23.07
    },
    {
     "speaker": "Anna",
-    "text": "Oui.",
-    "t": 30.45
-   },
-   {
-    "speaker": "Anna",
-    "text": "Nous entendons beaucoup parler de l'Union européenne.",
-    "t": 31.93
+    "text": "Oui. Nous entendons beaucoup parler de l'Union européenne.",
+    "t": 29.52
    },
    {
     "speaker": "Anna",
     "text": "Mais qu'est-ce que cela signifie réellement, en pratique, ici au Luxembourg ?",
-    "t": 35.51
+    "t": 32.17
    },
    {
     "speaker": "Tom",
     "text": "Une partie de la réponse, c'est l'argent.",
-    "t": 40.64
+    "t": 35.89
    },
    {
     "speaker": "Tom",
     "text": "L'UE aide à financer des projets utiles dans ses pays membres.",
-    "t": 43.85
+    "t": 38.25
    },
    {
     "speaker": "Anna",
     "text": "Et au Luxembourg, il y a un site officiel et une équipe qui gèrent cela... les Fonds européens.",
-    "t": 47.63
+    "t": 41.87
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, d'où vient cet argent, et quelle est l'idée derrière tout cela ?",
-    "t": 53.49
+    "t": 46.89
    },
    {
     "speaker": "Anna",
     "text": "L'Union européenne a ce que l'on appelle la politique de cohésion.",
-    "t": 58
+    "t": 50.95
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les régions et les personnes à se développer, de manière équitable, à travers l'Europe.",
-    "t": 62.13
+    "t": 54.03
    },
    {
     "speaker": "Tom",
     "text": "Donc les régions plus riches et moins riches, les grands défis et les petits... l'UE investit pour aider tout le monde à avancer ensemble.",
-    "t": 68.28
+    "t": 59.08
    },
    {
     "speaker": "Anna",
     "text": "Et chaque pays membre, y compris le Luxembourg, reçoit une part à dépenser pour des objectifs convenus.",
-    "t": 75.36
+    "t": 67.03
    },
    {
     "speaker": "Tom",
     "text": "Parlons des principaux fonds, car chacun a sa propre orientation.",
-    "t": 81.92
+    "t": 72.29
    },
    {
     "speaker": "Anna",
     "text": "Le premier est le Fonds européen de développement régional (FEDER).",
-    "t": 86.27
+    "t": 76.29
    },
    {
     "speaker": "Anna",
     "text": "On l'appelle souvent par ses initiales françaises, FEDER.",
-    "t": 90.98
+    "t": 80.05
    },
    {
     "speaker": "Tom",
     "text": "Celui-ci soutient des choses comme la recherche, l'innovation, l'économie numérique, et la transition vers une énergie plus propre et à faibles émissions de carbone.",
-    "t": 95.15
+    "t": 83.12
    },
    {
     "speaker": "Anna",
     "text": "Pour le Luxembourg, dans la période actuelle de 2021 à 2027, ce fonds représente environ vingt et un millions d'euros.",
-    "t": 104.37
+    "t": 92.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et la prochaine période, à partir de 2028, est déjà en préparation au niveau européen.",
+    "t": 98.67
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième est le Fonds social européen + (FSE+).",
-    "t": 112.45
+    "t": 103.27
    },
    {
     "speaker": "Tom",
     "text": "En français, le FSE Plus.",
-    "t": 116.67
+    "t": 107.47
    },
    {
     "speaker": "Anna",
     "text": "L'indice est dans le nom... social.",
-    "t": 119.78
+    "t": 110.09
    },
    {
     "speaker": "Anna",
     "text": "Ce fonds concerne les personnes.",
-    "t": 122.84
+    "t": 113.17
    },
    {
     "speaker": "Anna",
     "text": "Les emplois, les compétences, la formation, et l'inclusion des personnes laissées de côté.",
-    "t": 125.57
+    "t": 115.37
    },
    {
     "speaker": "Tom",
     "text": "Il aide à l'emploi et à la lutte contre la pauvreté et l'exclusion.",
-    "t": 131.97
+    "t": 119.84
    },
    {
     "speaker": "Anna",
     "text": "Et il y a un troisième fonds à connaître... le Fonds Asile, Migration et Intégration (AMIF).",
-    "t": 135.83
+    "t": 123.53
    },
    {
     "speaker": "Tom",
     "text": "Celui-là soutient l'accueil et l'intégration des personnes qui viennent au Luxembourg, y compris celles qui demandent l'asile.",
-    "t": 141.85
+    "t": 129
    },
    {
     "speaker": "Anna",
     "text": "Il existe aussi des fonds pour la sécurité intérieure et pour la gestion des frontières.",
-    "t": 148.31
+    "t": 135.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il y a Interreg, qui soutient des projets transfrontaliers avec nos voisins... par exemple dans la Grande Région.",
+    "t": 139.29
    },
    {
     "speaker": "Tom",
     "text": "Donc ensemble, ces fonds couvrent l'économie, les personnes, l'inclusion et la sécurité.",
-    "t": 153.6
+    "t": 145.31
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, une question importante.",
-    "t": 159.68
+    "t": 151.31
    },
    {
     "speaker": "Anna",
     "text": "Qui décide de la façon dont cet argent est dépensé, et qui veille à ce que tout soit honnête ?",
-    "t": 162.88
+    "t": 153.01
    },
    {
     "speaker": "Tom",
     "text": "Pour chaque fonds, il y a ce que l'on appelle une autorité de gestion.",
-    "t": 168.36
+    "t": 157.39
    },
    {
     "speaker": "Anna",
     "text": "Une autorité de gestion est l'organisme officiel chargé de gérer correctement le programme.",
-    "t": 172.63
+    "t": 161.18
    },
    {
     "speaker": "Tom",
     "text": "Elle choisit quels projets reçoivent un soutien, elle gère l'argent avec soin, et elle vérifie les résultats.",
-    "t": 178.27
+    "t": 166.01
    },
    {
     "speaker": "Anna",
     "text": "La règle qui les guide est la « bonne gestion financière ».",
-    "t": 184.38
+    "t": 172.01
    },
    {
     "speaker": "Anna",
     "text": "En clair... dépenser l'argent public de manière avisée et transparente.",
-    "t": 188.31
+    "t": 174.75
    },
    {
     "speaker": "Tom",
     "text": "Différents ministères assument ce rôle, selon le fonds.",
-    "t": 193.44
+    "t": 178.86
    },
    {
     "speaker": "Anna",
     "text": "Par exemple, le fonds pour l'asile et la migration est géré par le ministère responsable de la famille, de la solidarité et de l'accueil.",
-    "t": 197.21
+    "t": 182.14
    },
    {
     "speaker": "Tom",
     "text": "Donc l'argent n'est pas simplement distribué.",
-    "t": 205.56
+    "t": 188.65
    },
    {
     "speaker": "Tom",
     "text": "Il est planifié, géré, et il fait l'objet d'une reddition de comptes.",
-    "t": 208.65
+    "t": 191
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 213.38
+    "t": 195.32
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que l'argent européen finance réellement, qu'une personne ordinaire pourrait remarquer ?",
-    "t": 215.71
+    "t": 196.63
    },
    {
     "speaker": "Tom",
     "text": "Pensez à un programme de formation qui aide les personnes au chômage à acquérir de nouvelles compétences.",
-    "t": 221.01
+    "t": 201.03
    },
    {
     "speaker": "Anna",
     "text": "Ou à un projet qui aide une entreprise à innover, et à créer de bons emplois.",
-    "t": 226.61
+    "t": 207.12
    },
    {
     "speaker": "Tom",
     "text": "Ou à un soutien qui aide les nouveaux arrivants à apprendre la langue et à trouver leurs repères.",
-    "t": 231.65
+    "t": 211.04
    },
    {
     "speaker": "Anna",
     "text": "Ou à un investissement dans une énergie plus propre et une économie plus verte.",
-    "t": 236.42
+    "t": 215.98
    },
    {
     "speaker": "Tom",
     "text": "Ces projets sont souvent menés par des organisations locales... associations, entreprises, organismes publics.",
-    "t": 241.24
+    "t": 219.9
    },
    {
     "speaker": "Anna",
     "text": "Et les Fonds européens aident à les financer, aux côtés de l'argent national.",
-    "t": 248.26
+    "t": 226.58
    },
    {
     "speaker": "Anna",
     "text": "On appelle cela le cofinancement.",
-    "t": 253.04
+    "t": 230.4
    },
    {
     "speaker": "Tom",
     "text": "Donc l'UE finance rarement la totalité.",
-    "t": 255.74
+    "t": 232.51
    },
    {
     "speaker": "Tom",
     "text": "Elle unit ses forces avec le Luxembourg pour rendre un projet possible.",
-    "t": 258.87
+    "t": 235.31
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, vous vous demandez peut-être... pourrais-je, ou une organisation que je connais, utiliser ces fonds ?",
-    "t": 263.07
+    "t": 239.3
    },
    {
     "speaker": "Tom",
-    "text": "Possiblement, oui.",
-    "t": 269.84
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le site des Fonds européens explique les objectifs, les appels à projets, et comment faire une demande.",
-    "t": 272.13
+    "text": "Possiblement, oui. Le site des Fonds européens explique les objectifs, les appels à projets, et comment faire une demande.",
+    "t": 245.24
    },
    {
     "speaker": "Anna",
     "text": "Si vous dirigez une association, une entreprise, ou un projet public qui correspond aux objectifs, vous pouvez découvrir comment y participer.",
-    "t": 278.28
+    "t": 252.45
    },
    {
     "speaker": "Tom",
     "text": "Le site montre aussi des exemples de projets qui ont déjà été financés, ce qui est inspirant.",
-    "t": 287.21
+    "t": 259.54
    },
    {
     "speaker": "Anna",
     "text": "Donc ce n'est pas un monde fermé réservé aux seuls experts.",
-    "t": 292.92
+    "t": 264.89
    },
    {
     "speaker": "Anna",
     "text": "C'est ouvert, et c'est expliqué.",
-    "t": 297.05
+    "t": 267.55
    },
    {
     "speaker": "Tom",
     "text": "Disons aussi pourquoi cela compte pour les citoyens ordinaires, même ceux qui ne font jamais de demande.",
-    "t": 300.18
+    "t": 269.67
    },
    {
     "speaker": "Anna",
     "text": "Parce que c'est aussi votre argent, en tant qu'Européen, qui est réinvesti dans votre communauté.",
-    "t": 306.19
+    "t": 275.3
    },
    {
     "speaker": "Tom",
     "text": "Et parce que la transparence compte.",
-    "t": 312.15
+    "t": 279.84
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez voir où il va, et ce qu'il permet d'accomplir.",
-    "t": 314.92
+    "t": 281.72
    },
    {
     "speaker": "Anna",
     "text": "C'est un exemple discret mais réel de solidarité européenne, qui se concrétise dans de vrais projets, dans de vraies villes.",
-    "t": 318.83
+    "t": 284.95
    },
    {
     "speaker": "Tom",
     "text": "Alors Tom... rendons cela pratique.",
-    "t": 326.14
+    "t": 291.45
    },
    {
     "speaker": "Tom",
     "text": "Que peut-on faire avec tout ça ?",
-    "t": 329.26
+    "t": 293.9
    },
    {
     "speaker": "Anna",
     "text": "D'abord... si vous dirigez une organisation ou un projet, consultez le site des Fonds européens pour voir si votre idée correspond.",
-    "t": 331.75
+    "t": 295.67
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... regardez les projets financés, pour comprendre quels types d'idées reçoivent un soutien.",
-    "t": 339.59
+    "t": 301.7
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... souvenez-vous des principaux fonds... le fonds de développement régional pour l'économie, et le fonds social pour les personnes et les emplois.",
-    "t": 345.48
+    "t": 307.59
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... sachez que cet argent est géré avec soin, par des autorités officielles, avec des objectifs clairs.",
-    "t": 354.05
+    "t": 315.04
    },
    {
     "speaker": "Anna",
     "text": "Rassemblons tout cela.",
-    "t": 361.25
+    "t": 321.57
    },
    {
     "speaker": "Anna",
     "text": "Que devraient retenir les gens à propos des Fonds européens ?",
-    "t": 363.44
+    "t": 322.87
    },
    {
     "speaker": "Tom",
     "text": "Premièrement... l'UE investit dans les pays membres à travers sa politique de cohésion, et le Luxembourg reçoit une part.",
-    "t": 367.06
+    "t": 325.51
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... les principaux fonds soutiennent l'économie et l'innovation, les personnes et les emplois, et l'intégration.",
-    "t": 373.75
+    "t": 332.62
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... les autorités de gestion choisissent et supervisent les projets, en dépensant l'argent public de manière avisée.",
-    "t": 381.08
+    "t": 338.8
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... les organisations peuvent faire une demande, et tout le monde peut voir les projets sur le site des Fonds européens.",
-    "t": 388.09
+    "t": 346.18
    },
    {
     "speaker": "Tom",
     "text": "L'Europe peut sembler lointaine et abstraite.",
-    "t": 395.45
+    "t": 352.14
    },
    {
     "speaker": "Tom",
     "text": "Mais parfois, elle ressemble à un cours de formation, ou à un nouvel emploi, juste à côté de chez vous.",
-    "t": 398.53
+    "t": 354.64
    },
    {
     "speaker": "Anna",
     "text": "Et comprendre cela nous aide à voir la valeur qui se cache derrière les gros titres.",
-    "t": 404.97
-   },
-   {
-    "speaker": "Tom",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 409.86
+    "t": 360.05
    },
    {
     "speaker": "Anna",
-    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
-    "t": 413.1
+    "text": "C'était notre épisode sur les fonds européens au Luxembourg.",
+    "t": 363.82
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 417.32
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 366.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 374.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 390.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 395.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 397.16
    },
    {
     "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 418.94
+    "text": "Merci à tous.",
+    "t": 401.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 402.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 405.23
    }
   ],
   "audio_de": "podcast_fondseuropeens_de.mp3",
-  "duration_de": 493.78,
+  "duration_de": 486.48,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Es ist uns eine Freude, Sie heute bei uns zu haben.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 7.24
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 9.31
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 12.7
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten Einwohnern, und auch Grenzgängern, helfen zu verstehen, wie das Land funktioniert.",
-    "t": 17.08
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema mag zunächst etwas technisch klingen, aber es betrifft das echte Leben... die Europäischen Fonds.",
-    "t": 25.29
+    "t": 27.86
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 32.47
-   },
-   {
-    "speaker": "Anna",
-    "text": "Wir hören viel über die Europäische Union.",
-    "t": 33.8
+    "text": "Ja. Wir hören viel über die Europäische Union.",
+    "t": 35.19
    },
    {
     "speaker": "Anna",
     "text": "Aber was bedeutet das eigentlich, in der Praxis, hier in Luxemburg?",
-    "t": 37.55
+    "t": 38.55
    },
    {
     "speaker": "Tom",
     "text": "Ein Teil der Antwort ist Geld.",
-    "t": 42.99
+    "t": 43.04
    },
    {
     "speaker": "Tom",
     "text": "Die EU hilft, nützliche Projekte in ihren Mitgliedsländern zu finanzieren.",
-    "t": 45.74
+    "t": 45.03
    },
    {
     "speaker": "Anna",
     "text": "Und in Luxemburg gibt es eine offizielle Website und ein Team, das dies verwaltet... die Europäischen Fonds, oder auf Französisch die „Fonds européens\".",
-    "t": 51.09
+    "t": 49.93
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, woher kommt dieses Geld, und was ist die Idee dahinter?",
-    "t": 61.71
+    "t": 59.8
    },
    {
     "speaker": "Anna",
     "text": "Die Europäische Union hat etwas, das man Kohäsionspolitik nennt.",
-    "t": 66.75
+    "t": 63.92
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, Regionen und Menschen dabei zu helfen, sich gerecht in ganz Europa zu entwickeln.",
-    "t": 72.22
+    "t": 67.8
    },
    {
     "speaker": "Tom",
     "text": "Also reichere und weniger reiche Regionen, große Herausforderungen und kleine... die EU investiert, um allen zu helfen, gemeinsam voranzukommen.",
-    "t": 79.39
+    "t": 73.91
    },
    {
     "speaker": "Anna",
     "text": "Und jedes Mitgliedsland, einschließlich Luxemburg, erhält einen Anteil, den es für vereinbarte Ziele ausgeben kann.",
-    "t": 89.14
+    "t": 83.44
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir über die wichtigsten Fonds, denn jeder hat seinen eigenen Schwerpunkt.",
-    "t": 97.49
+    "t": 89.93
    },
    {
     "speaker": "Anna",
     "text": "Der erste ist der Europäische Fonds für regionale Entwicklung (EFRE/FEDER).",
-    "t": 102.76
+    "t": 94.44
    },
    {
     "speaker": "Anna",
     "text": "Man nennt ihn oft bei seinen französischen Initialen, FEDER.",
-    "t": 108.2
+    "t": 100.04
    },
    {
     "speaker": "Tom",
     "text": "Dieser unterstützt Dinge wie Forschung, Innovation, die digitale Wirtschaft, und den Übergang zu saubererer, kohlenstoffarmer Energie.",
-    "t": 112.95
+    "t": 104.04
    },
    {
     "speaker": "Anna",
     "text": "Für Luxemburg beläuft sich dieser Fonds im aktuellen Zeitraum von 2021 bis 2027 auf etwa einundzwanzig Millionen Euro.",
-    "t": 121.46
+    "t": 112.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und der nächste Zeitraum, ab 2028, wird auf europäischer Ebene schon vorbereitet.",
+    "t": 122.34
    },
    {
     "speaker": "Tom",
     "text": "Der zweite ist der Europäische Sozialfonds Plus (ESF+/FSE+).",
-    "t": 131.94
+    "t": 127.94
    },
    {
     "speaker": "Tom",
     "text": "Auf Französisch der FSE Plus.",
-    "t": 137.69
+    "t": 134.17
    },
    {
     "speaker": "Anna",
     "text": "Der Hinweis steckt im Namen... sozial.",
-    "t": 140.69
+    "t": 136.8
    },
    {
     "speaker": "Anna",
     "text": "Bei diesem Fonds geht es um Menschen.",
-    "t": 144.33
+    "t": 140.03
    },
    {
     "speaker": "Anna",
     "text": "Arbeitsplätze, Kompetenzen, Ausbildung, und die Einbeziehung von Menschen, die zurückgelassen werden.",
-    "t": 147.35
+    "t": 141.89
    },
    {
     "speaker": "Tom",
     "text": "Er hilft bei der Beschäftigung und bei der Bekämpfung von Armut und Ausgrenzung.",
-    "t": 155.24
+    "t": 148.18
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt einen dritten Fonds, den man kennen sollte... den Asyl-, Migrations- und Integrationsfonds (AMIF).",
-    "t": 160.48
+    "t": 152.92
    },
    {
     "speaker": "Tom",
     "text": "Dieser unterstützt die Aufnahme und Integration von Menschen, die nach Luxemburg kommen, einschließlich derjenigen, die Asyl suchen.",
-    "t": 169.03
+    "t": 160.13
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch Fonds für die innere Sicherheit und für die Verwaltung der Grenzen.",
-    "t": 177.25
+    "t": 167.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es gibt Interreg, das grenzüberschreitende Projekte mit unseren Nachbarn unterstützt... zum Beispiel in der Großregion.",
+    "t": 171.44
    },
    {
     "speaker": "Tom",
     "text": "Zusammen decken diese Fonds also die Wirtschaft, die Menschen, die Inklusion und die Sicherheit ab.",
-    "t": 182.38
+    "t": 178.52
    },
    {
     "speaker": "Anna",
     "text": "Nun eine wichtige Frage.",
-    "t": 188.73
+    "t": 185.2
    },
    {
     "speaker": "Anna",
     "text": "Wer entscheidet, wie dieses Geld ausgegeben wird, und wer sorgt dafür, dass alles ehrlich zugeht?",
-    "t": 191.32
+    "t": 186.8
    },
    {
     "speaker": "Tom",
     "text": "Für jeden Fonds gibt es eine sogenannte Verwaltungsbehörde.",
-    "t": 198.36
+    "t": 192.31
    },
    {
     "speaker": "Anna",
     "text": "Eine Verwaltungsbehörde ist die offizielle Stelle, die dafür verantwortlich ist, das Programm ordnungsgemäß durchzuführen.",
-    "t": 202.45
+    "t": 195.63
    },
    {
     "speaker": "Tom",
     "text": "Sie wählt aus, welche Projekte unterstützt werden, sie verwaltet das Geld sorgfältig, und sie überprüft die Ergebnisse.",
-    "t": 210.87
+    "t": 202.7
    },
    {
     "speaker": "Anna",
     "text": "Die Regel, die sie leitet, ist die „wirtschaftliche Haushaltsführung\".",
-    "t": 218.66
+    "t": 209.93
    },
    {
     "speaker": "Anna",
     "text": "Mit einfachen Worten... öffentliche Gelder klug und transparent ausgeben.",
-    "t": 223.82
+    "t": 213.59
    },
    {
     "speaker": "Tom",
     "text": "Verschiedene Ministerien übernehmen diese Rolle, je nach Fonds.",
-    "t": 229.19
+    "t": 218.31
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispiel wird der Fonds für Asyl und Migration vom Ministerium verwaltet, das für Familie, Solidarität und die Aufnahme von Menschen zuständig ist.",
-    "t": 233.76
+    "t": 222.07
    },
    {
     "speaker": "Tom",
     "text": "Das Geld wird also nicht einfach ausgeteilt.",
-    "t": 244.27
+    "t": 230.79
    },
    {
     "speaker": "Tom",
     "text": "Es wird geplant, verwaltet und es wird Rechenschaft darüber abgelegt.",
-    "t": 247.71
+    "t": 233.4
    },
    {
     "speaker": "Anna",
     "text": "Machen wir das konkret.",
-    "t": 252.46
+    "t": 237.78
    },
    {
     "speaker": "Anna",
     "text": "Was bezahlt das europäische Geld eigentlich, das eine normale Person bemerken könnte?",
-    "t": 254.86
+    "t": 239.31
    },
    {
     "speaker": "Tom",
     "text": "Denken Sie an ein Ausbildungsprogramm, das Arbeitslosen hilft, neue Kompetenzen zu erwerben.",
-    "t": 261.24
+    "t": 244.43
    },
    {
     "speaker": "Anna",
     "text": "Oder an ein Projekt, das einem Unternehmen hilft, innovativ zu sein und gute Arbeitsplätze zu schaffen.",
-    "t": 267.54
+    "t": 249.97
    },
    {
     "speaker": "Tom",
     "text": "Oder an eine Unterstützung, die Neuankömmlingen hilft, die Sprache zu lernen und sich zurechtzufinden.",
-    "t": 274.98
+    "t": 256
    },
    {
     "speaker": "Anna",
     "text": "Oder an Investitionen in sauberere Energie und eine grünere Wirtschaft.",
-    "t": 281.96
+    "t": 262.16
    },
    {
     "speaker": "Tom",
     "text": "Diese Projekte werden oft von lokalen Organisationen durchgeführt... Vereinen, Unternehmen, öffentlichen Einrichtungen.",
-    "t": 287.58
+    "t": 267.2
    },
    {
     "speaker": "Anna",
     "text": "Und die Europäischen Fonds helfen, sie zu finanzieren, zusammen mit nationalen Geldern.",
-    "t": 295.99
+    "t": 274.64
    },
    {
     "speaker": "Anna",
     "text": "Das nennt man Kofinanzierung.",
-    "t": 302.52
+    "t": 279.63
    },
    {
     "speaker": "Tom",
     "text": "Die EU bezahlt also selten alles.",
-    "t": 305.41
+    "t": 281.79
    },
    {
     "speaker": "Tom",
     "text": "Sie schließt sich mit Luxemburg zusammen, um ein Projekt möglich zu machen.",
-    "t": 308.65
+    "t": 284.42
    },
    {
     "speaker": "Anna",
     "text": "Nun fragen Sie sich vielleicht... könnte ich, oder eine Organisation, die ich kenne, diese Fonds nutzen?",
-    "t": 313.58
+    "t": 288.47
    },
    {
     "speaker": "Tom",
-    "text": "Möglicherweise, ja.",
-    "t": 321.11
-   },
-   {
-    "speaker": "Tom",
-    "text": "Die Website der Europäischen Fonds erklärt die Ziele, die Projektaufrufe, und wie man einen Antrag stellt.",
-    "t": 323.71
+    "text": "Möglicherweise, ja. Die Website der Europäischen Fonds erklärt die Ziele, die Projektaufrufe, und wie man einen Antrag stellt.",
+    "t": 295.35
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie einen Verein, ein Unternehmen oder ein öffentliches Projekt leiten, das zu den Zielen passt, können Sie herausfinden, wie Sie teilnehmen können.",
-    "t": 330.66
+    "t": 304.03
    },
    {
     "speaker": "Tom",
     "text": "Die Website zeigt auch Beispiele von Projekten, die bereits finanziert wurden, was inspirierend ist.",
-    "t": 340.9
+    "t": 312.03
    },
    {
     "speaker": "Anna",
     "text": "Das ist also keine geschlossene Welt nur für Experten.",
-    "t": 347.23
+    "t": 317.91
    },
    {
     "speaker": "Anna",
     "text": "Sie ist offen, und sie wird erklärt.",
-    "t": 351.29
+    "t": 321.13
    },
    {
     "speaker": "Tom",
     "text": "Sagen wir auch, warum das für gewöhnliche Bürger wichtig ist, selbst für diejenigen, die nie einen Antrag stellen.",
-    "t": 354.58
+    "t": 323.75
    },
    {
     "speaker": "Anna",
     "text": "Weil dies auch Ihr Geld ist, als Europäer, das wieder in Ihre Gemeinschaft investiert wird.",
-    "t": 361.77
+    "t": 330.34
    },
    {
     "speaker": "Tom",
     "text": "Und weil Transparenz wichtig ist.",
-    "t": 368.3
+    "t": 335.73
    },
    {
     "speaker": "Tom",
     "text": "Sie können sehen, wohin es geht, und was es bewirkt.",
-    "t": 371.23
+    "t": 338
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein stilles, aber echtes Beispiel europäischer Solidarität, das in echten Projekten, in echten Städten, ankommt.",
-    "t": 375.43
+    "t": 341.24
    },
    {
     "speaker": "Tom",
     "text": "Also Tom... machen wir es praktisch.",
-    "t": 384.4
+    "t": 348.55
    },
    {
     "speaker": "Tom",
     "text": "Was kann jemand damit anfangen?",
-    "t": 387.58
+    "t": 351.38
    },
    {
     "speaker": "Anna",
     "text": "Erstens... wenn Sie eine Organisation oder ein Projekt leiten, schauen Sie auf der Website der Europäischen Fonds nach, ob Ihre Idee passt.",
-    "t": 390.57
+    "t": 353.21
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... sehen Sie sich die finanzierten Projekte an, um zu verstehen, welche Arten von Ideen unterstützt werden.",
-    "t": 400.17
+    "t": 361.72
    },
    {
     "speaker": "Anna",
     "text": "Drittens... erinnern Sie sich an die wichtigsten Fonds... den Fonds für regionale Entwicklung für die Wirtschaft, und den Sozialfonds für die Menschen und die Arbeitsplätze.",
-    "t": 407.68
+    "t": 368.89
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... wissen Sie, dass dieses Geld sorgfältig verwaltet wird, von offiziellen Behörden, mit klaren Zielen.",
-    "t": 418.12
+    "t": 379.07
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir alles zusammen.",
-    "t": 425.85
+    "t": 386.62
    },
    {
     "speaker": "Anna",
     "text": "Was sollten sich die Menschen über die Europäischen Fonds merken?",
-    "t": 428.35
+    "t": 388.42
    },
    {
     "speaker": "Tom",
     "text": "Erstens... die EU investiert über ihre Kohäsionspolitik in die Mitgliedsländer, und Luxemburg erhält einen Anteil.",
-    "t": 432.82
+    "t": 392.08
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... die wichtigsten Fonds unterstützen die Wirtschaft und Innovation, die Menschen und Arbeitsplätze, und die Integration.",
-    "t": 440.75
+    "t": 400.53
    },
    {
     "speaker": "Tom",
     "text": "Drittens... die Verwaltungsbehörden wählen die Projekte aus und überwachen sie, indem sie öffentliche Gelder klug ausgeben.",
-    "t": 449.85
+    "t": 408.67
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... Organisationen können einen Antrag stellen, und jeder kann die Projekte auf der Website der Europäischen Fonds sehen.",
-    "t": 457.56
+    "t": 415.81
    },
    {
     "speaker": "Tom",
     "text": "Europa kann sich fern und abstrakt anfühlen.",
-    "t": 467.25
+    "t": 423.91
    },
    {
     "speaker": "Tom",
     "text": "Aber manchmal sieht es aus wie ein Ausbildungskurs, oder ein neuer Arbeitsplatz, gleich nebenan.",
-    "t": 470.89
+    "t": 426.77
    },
    {
     "speaker": "Anna",
     "text": "Und das zu verstehen, hilft uns, den Wert hinter den Schlagzeilen zu sehen.",
-    "t": 477.35
-   },
-   {
-    "speaker": "Tom",
-    "text": "Vielen Dank, dass Sie heute zugehört haben.",
-    "t": 483.12
+    "t": 432.32
    },
    {
     "speaker": "Anna",
-    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
-    "t": 486.7
+    "text": "Das war unsere Folge über die europäischen Fonds in Luxemburg.",
+    "t": 436.7
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 490.72
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 440.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 449.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 467.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 473.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 475.7
    },
    {
     "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 492.2
+    "text": "Danke an alle.",
+    "t": 480.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 481.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 484.95
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Salut, a wëllkomm zréck! Et ass eis e Plëséier, Iech haut bei eis ze hunn.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Salut zesummen!",
-    "t": 5.64
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen ze verstoen, wéi d'Land funktionéiert.",
-    "t": 7.68
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An d'Thema vun haut kléngt vläicht am Ufank e bësse technesch, mä et beréiert dat richtegt Liewen... d'Europäesch Fongen.",
-    "t": 22.03
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Jo. Mir héieren vill iwwert d'Europäesch Unioun. Mä wat bedeit dat tatsächlech, an der Praxis, hei zu Lëtzebuerg?",
-    "t": 29.47
+    "t": 33.58
    },
    {
     "speaker": "Tom",
     "text": "En Deel vun der Äntwert ass Suen. D'EU hëlleft, nëtzlech Projeten an hire Memberlänner ze finanzéieren.",
-    "t": 38.86
+    "t": 39.99
    },
    {
     "speaker": "Anna",
     "text": "A zu Lëtzebuerg gëtt et eng offiziell Websäit an een Team, déi dat verwalten... d'Europäesch Fongen, oder op Franséisch d'„Fonds européens\".",
-    "t": 45.92
+    "t": 45.11
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, vu wou kënnt dës Suen, a wat ass d'Iddi dohannert?",
-    "t": 54.82
+    "t": 55.13
    },
    {
     "speaker": "Anna",
     "text": "D'Europäesch Unioun huet eppes, wat een d'Kohäsiounspolitik nennt. D'Iddi ass, de Regiounen an de Leit ze hëllefen, sech gerecht uechter Europa z'entwéckelen.",
-    "t": 59.73
+    "t": 59.47
    },
    {
     "speaker": "Tom",
     "text": "Also méi räich a manner räich Regiounen, grouss Erausfuerderungen a kleng... d'EU investéiert, fir all Mënsch ze hëllefen, zesumme virunzekommen.",
-    "t": 68.88
+    "t": 67.62
    },
    {
     "speaker": "Anna",
     "text": "An all Memberland, dorënner Lëtzebuerg, kritt en Deel, deen et fir ofgemaach Ziler ausginn kann.",
-    "t": 76.52
+    "t": 75.3
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis iwwert déi wichtegst Fongen schwätzen, well all eenzelen huet säin eegene Schwéierpunkt.",
-    "t": 82.54
+    "t": 80.83
    },
    {
     "speaker": "Anna",
     "text": "Deen éischten ass de FEDER. Een nennt e dacks bei senge franséischen Initialen, FEDER.",
-    "t": 87.22
+    "t": 84.52
    },
    {
     "speaker": "Tom",
     "text": "Deen ënnerstëtzt Saachen ewéi Fuerschung, Innovatioun, déi digital Wirtschaft, an den Iwwergank zu méi propperer, kuelestoffaarmer Energie.",
-    "t": 94.84
+    "t": 91.28
    },
    {
     "speaker": "Anna",
-    "text": "Fir Lëtzebuerg beleeft sech dëse Fong an der aktueller Period vu 2021 bis 2027 op ongeféier eenanzwanzeg Milliounen Euro.",
-    "t": 102.04
+    "text": "Fir Lëtzebuerg beleeft sech dëse Fong an der aktueller Period vu 2021 bis 2027 op ongeféier eenanzwanzeg Milliounen Euro. An déi nächst Period, ab 2028, gëtt op europäeschem Niveau schonn virbereet.",
+    "t": 98.37
    },
    {
     "speaker": "Tom",
     "text": "Deen zweeten ass de FSE+. Op Franséisch de FSE Plus.",
-    "t": 110.25
+    "t": 111.44
    },
    {
     "speaker": "Anna",
     "text": "Den Hiweis stécht am Numm... sozial. Bei dësem Fong geet et ëm d'Leit. Aarbechtsplazen, Kompetenzen, Ausbildung, an d'Abezéie vu Leit, déi zréckgelooss ginn.",
-    "t": 117.05
+    "t": 116.43
    },
    {
     "speaker": "Tom",
     "text": "Hie hëlleft bei der Beschäftegung a bei der Bekämpfung vun Aarmut an Ausgrenzung.",
-    "t": 127.59
+    "t": 125.43
    },
    {
     "speaker": "Anna",
     "text": "An et gëtt en drëtte Fong, deen ee soll kennen... den Asyl-, Migratiouns- an Integratiounsfong (AMIF).",
-    "t": 131.94
+    "t": 128.95
    },
    {
     "speaker": "Tom",
     "text": "Deen do ënnerstëtzt d'Opname an d'Integratioun vu Leit, déi op Lëtzebuerg kommen, dorënner déi, déi Asyl sichen.",
-    "t": 137.78
+    "t": 134.53
    },
    {
     "speaker": "Anna",
-    "text": "Et gëtt och Fongen fir déi bannenzeg Sécherheet a fir d'Verwaltung vun de Grenzen.",
-    "t": 144.2
+    "text": "Et gëtt och Fongen fir déi bannenzeg Sécherheet a fir d'Verwaltung vun de Grenzen. An et gëtt Interreg, dat grenziwwerschreidend Projeten mat eisen Noperen ënnerstëtzt... zum Beispill an der Groussregioun.",
+    "t": 140.71
    },
    {
     "speaker": "Tom",
     "text": "Also zesummen decken dës Fongen d'Wirtschaft, d'Leit, d'Inklusioun an d'Sécherheet of.",
-    "t": 148.86
+    "t": 151.94
    },
    {
     "speaker": "Anna",
     "text": "Elo eng wichteg Fro. Wien entscheet, wéi dës Suen ausgi gëtt, a wien suergt dofir, datt alles éierlech bleift?",
-    "t": 154.26
+    "t": 156.45
    },
    {
     "speaker": "Tom",
     "text": "Fir all Fong gëtt et eng sougenannt Verwaltungsbehörd.",
-    "t": 161.16
+    "t": 162.18
    },
    {
     "speaker": "Anna",
     "text": "Eng Verwaltungsbehörd ass déi offiziell Stell, déi dofir zoustänneg ass, de Programm uerdentlech ze féieren.",
-    "t": 165.16
+    "t": 165.13
    },
    {
     "speaker": "Tom",
     "text": "Si wielt aus, wéi eng Projeten ënnerstëtzt ginn, si verwalt d'Suen suergfälteg, a si iwwerpréift d'Resultater.",
-    "t": 170.65
+    "t": 170.45
    },
    {
     "speaker": "Anna",
     "text": "D'Regel, déi se leet, ass déi „gesond Finanzgestioun\". Mat einfache Wierder... ëffentlech Suen klug an transparent ausginn.",
-    "t": 176.66
+    "t": 176.43
    },
    {
     "speaker": "Tom",
     "text": "Verschidde Ministèren iwwerhuelen dës Roll, jee no Fong.",
-    "t": 185.21
+    "t": 184.6
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispill gëtt de Fong fir Asyl a Migratioun vum Ministère verwalt, dee fir Famill, Solidaritéit an d'Opname vu Leit zoustänneg ass.",
-    "t": 189.59
+    "t": 187.75
    },
    {
     "speaker": "Tom",
     "text": "D'Suen gëtt also net einfach ausgedeelt. Si gëtt geplangt, verwalt, an et gëtt Rechenschaft doriwwer ofgeluecht.",
-    "t": 198.29
+    "t": 196.68
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis dat konkret maachen. Wat bezilt déi europäesch Suen tatsächlech, wat eng normal Persoun kéint bemierken?",
-    "t": 205.02
+    "t": 201.52
    },
    {
     "speaker": "Tom",
     "text": "Denkt un en Ausbildungsprogramm, dee schaffslose Leit hëlleft, nei Kompetenzen ze kréien.",
-    "t": 212.88
+    "t": 208.42
    },
    {
     "speaker": "Anna",
     "text": "Oder un e Projet, deen enger Firma hëlleft, innovativ ze sinn, a gutt Aarbechtsplazen ze schafen.",
-    "t": 217.48
+    "t": 212.51
    },
    {
     "speaker": "Tom",
     "text": "Oder un eng Ënnerstëtzung, déi den Neiukomm hëlleft, d'Sprooch ze léieren a sech zerechtzefannen.",
-    "t": 222.18
+    "t": 216.73
    },
    {
     "speaker": "Anna",
     "text": "Oder un Investitiounen an méi propper Energie an eng méi gréng Wirtschaft.",
-    "t": 226.67
+    "t": 220.88
    },
    {
     "speaker": "Tom",
     "text": "Dës Projeten ginn dacks vu lokalen Organisatioune gefouert... Veräiner, Firmen, ëffentlech Ariichtungen.",
-    "t": 230.78
+    "t": 224.51
    },
    {
     "speaker": "Anna",
     "text": "An d'Europäesch Fongen hëllefen, se ze finanzéieren, niewent den nationale Suen. Dat nennt een d'Kofinanzéierung.",
-    "t": 237.19
+    "t": 230.61
    },
    {
     "speaker": "Tom",
     "text": "D'EU bezilt also seelen alles. Si schléisst sech mat Lëtzebuerg zesummen, fir e Projet méiglech ze maachen.",
-    "t": 244.19
+    "t": 237
    },
    {
     "speaker": "Anna",
     "text": "Elo frot Dir Iech vläicht... kéint ech, oder eng Organisatioun, déi ech kennen, dës Fongen notzen?",
-    "t": 251.87
+    "t": 242.83
    },
    {
     "speaker": "Tom",
     "text": "Méiglecherweis, jo. D'Websäit vun den Europäesche Fongen erkläert d'Ziler, d'Projetsoprufer, a wéi een eng Demande mécht.",
-    "t": 258
+    "t": 248.38
    },
    {
     "speaker": "Anna",
     "text": "Wann Dir e Veräin, eng Firma, oder en ëffentleche Projet féiert, deen zu den Ziler passt, kënnt Dir erausfannen, wéi Dir matmaache kënnt.",
-    "t": 266.01
+    "t": 255.28
    },
    {
     "speaker": "Tom",
     "text": "D'Websäit weist och Beispiller vu Projeten, déi schonn finanzéiert goufen, wat inspiréierend ass.",
-    "t": 273.52
+    "t": 262.64
    },
    {
     "speaker": "Anna",
     "text": "Dat ass also keng zougemaach Welt nëmme fir Experten. Si ass op, a si gëtt erkläert.",
-    "t": 279.45
+    "t": 267.9
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis och soen, firwat dat fir gewéinlech Bierger wichteg ass, souguer fir déi, déi ni eng Demande maachen.",
-    "t": 286.11
+    "t": 273.39
    },
    {
     "speaker": "Anna",
     "text": "Well dat och Är Suen ass, als Europäer, déi zréck an Är Gemeinschaft investéiert gëtt.",
-    "t": 291.64
+    "t": 278.53
    },
    {
     "speaker": "Tom",
     "text": "A well d'Transparenz wichteg ass. Dir kënnt gesinn, wou se higeet, a wat se bewierkt.",
-    "t": 297.44
+    "t": 283.91
    },
    {
     "speaker": "Anna",
     "text": "Et ass e roueg mä richtegt Beispill vun europäescher Solidaritéit, dat an echte Projeten, an echte Stied, ukomm.",
-    "t": 303.96
+    "t": 288.6
    },
    {
     "speaker": "Tom",
     "text": "Also Tom... loosst eis dat praktesch maachen. Wat kann een domat ufänken?",
-    "t": 310.96
+    "t": 295.54
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... wann Dir eng Organisatioun oder e Projet féiert, kuckt op der Websäit vun den Europäesche Fongen no, ob Är Iddi passt.",
-    "t": 316.84
+    "t": 299.39
    },
    {
     "speaker": "Tom",
     "text": "Als zweet... kuckt Iech déi finanzéiert Projeten un, fir ze verstoen, wéi eng Aart vun Iddien ënnerstëtzt ginn.",
-    "t": 324.1
+    "t": 306.52
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt... erënnert Iech un déi wichtegst Fongen... de Fong fir regional Entwécklung fir d'Wirtschaft, an de Sozialfong fir d'Leit an d'Aarbechtsplazen.",
-    "t": 329.88
+    "t": 311.61
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... wësst, datt dës Suen suergfälteg verwalt gëtt, vun offizielle Behörden, mat kloren Ziler.",
-    "t": 337.78
+    "t": 319.49
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis alles zesummefaassen. Wat sollten d'Leit sech iwwert d'Europäesch Fongen erënneren?",
-    "t": 343.85
+    "t": 325.64
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... d'EU investéiert iwwert hir Kohäsiounspolitik an d'Memberlänner, a Lëtzebuerg kritt en Deel.",
-    "t": 349.86
+    "t": 330.39
    },
    {
     "speaker": "Anna",
     "text": "Als zweet... déi wichtegst Fongen ënnerstëtzen d'Wirtschaft an d'Innovatioun, d'Leit an d'Aarbechtsplazen, an d'Integratioun.",
-    "t": 356.61
+    "t": 336.57
    },
    {
     "speaker": "Tom",
     "text": "Als drëtt... d'Verwaltungsbehörde wielen d'Projeten aus an iwwerwaachen se, andeems se ëffentlech Suen klug ausginn.",
-    "t": 363.3
+    "t": 343.27
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... Organisatioune kënnen eng Demande maachen, an all Mënsch kann d'Projeten op der Websäit vun den Europäesche Fongen gesinn.",
-    "t": 369.09
+    "t": 348.63
    },
    {
     "speaker": "Tom",
     "text": "Europa kann sech wäit ewech an abstrakt undauchen. Mä heiansdo gesäit et aus ewéi en Ausbildungscours, oder eng nei Aarbechtsplaz, direkt niewendrun.",
-    "t": 376.22
+    "t": 355.51
    },
    {
     "speaker": "Anna",
-    "text": "An dat ze verstoen, hëlleft eis, de Wäert hannert den Iwwerschrëften ze gesinn.",
-    "t": 384.77
+    "text": "An dat ze verstoen, hëlleft eis, de Wäert hannert den Iwwerschrëften ze gesinn. Dat war eis Episod iwwer d'europäesch Fongen zu Lëtzebuerg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 362.49
    },
    {
     "speaker": "Tom",
-    "text": "Villmools Merci, datt Dir haut nogelauschtert hutt.",
-    "t": 389.17
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 410.81
    },
    {
     "speaker": "Anna",
-    "text": "Passt op Iech op, a bis zur nächster Episod. Äddi!",
-    "t": 392.16
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 397.14
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 414.01
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 23,
@@ -65765,7 +65834,7 @@ const EPISODES = [
   "title": "Zesumme Vereinfachen – Helping to Simplify Public Services Together",
   "description": "What the 'Zesumme Vereinfachen' platform is, how citizens and businesses can submit ideas to simplify the State's procedures, who runs it (the Ministry for Digitalisation), how you can take part in one or several phases in any of the four languages, and a real example: improving the MyGuichet app.",
   "audio": "podcast_zesumme.mp3",
-  "duration": 380.98,
+  "duration": 379.19,
   "topics": [
    "What Zesumme Vereinfachen is",
    "Simplifying procedures together",
@@ -65779,478 +65848,483 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's lovely to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.62
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.66
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.77
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to take part in the life of the country.",
-    "t": 14.59
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today we have a topic that, honestly, almost everyone has feelings about... paperwork.",
-    "t": 22.03
+    "t": 27.49
    },
    {
     "speaker": "Anna",
-    "text": "Yes!",
-    "t": 28.05
-   },
-   {
-    "speaker": "Anna",
-    "text": "Forms, procedures, administrative steps.",
-    "t": 29.73
+    "text": "Yes! Forms, procedures, administrative steps.",
+    "t": 33.05
    },
    {
     "speaker": "Anna",
     "text": "Sometimes they are simple.",
-    "t": 33.57
+    "t": 36.43
    },
    {
     "speaker": "Anna",
     "text": "And sometimes... they are not.",
-    "t": 35.99
+    "t": 38.13
    },
    {
     "speaker": "Tom",
     "text": "We have all had that moment.",
-    "t": 38.81
+    "t": 40.68
    },
    {
     "speaker": "Tom",
     "text": "A form that asks the same thing twice.",
-    "t": 41.45
+    "t": 42.5
    },
    {
     "speaker": "Tom",
     "text": "A step that makes you think... why is this so complicated?",
-    "t": 44.74
+    "t": 45.01
    },
    {
     "speaker": "Anna",
     "text": "Well, today's topic is a project that turns that frustration into something useful.",
-    "t": 48.93
+    "t": 49.28
    },
    {
     "speaker": "Tom",
     "text": "It is called Zesumme Vereinfachen.",
-    "t": 54.48
+    "t": 54.07
    },
    {
     "speaker": "Tom",
     "text": "The name is in Luxembourgish.",
-    "t": 57.44
+    "t": 55.91
    },
    {
     "speaker": "Anna",
     "text": "And it means \"simplifying together\".",
-    "t": 60.12
+    "t": 57.61
    },
    {
     "speaker": "Anna",
     "text": "I love that.",
-    "t": 63.07
+    "t": 60.16
    },
    {
     "speaker": "Anna",
     "text": "Together.",
-    "t": 65
+    "t": 61.74
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what exactly is Zesumme Vereinfachen?",
-    "t": 66.73
+    "t": 62.78
    },
    {
     "speaker": "Anna",
     "text": "It is an online platform where citizens and businesses can help make the State's procedures simpler.",
-    "t": 70.62
+    "t": 65.37
    },
    {
     "speaker": "Tom",
     "text": "So instead of just complaining about paperwork, you can actually do something about it.",
-    "t": 76.66
+    "t": 71.45
    },
    {
     "speaker": "Anna",
-    "text": "Exactly.",
-    "t": 82.23
-   },
-   {
-    "speaker": "Anna",
-    "text": "Its slogan says it beautifully... public services that make your daily life easier.",
-    "t": 84.09
+    "text": "Exactly. Its slogan says it beautifully... public services that make your daily life easier.",
+    "t": 75.74
    },
    {
     "speaker": "Tom",
     "text": "And who is behind it?",
-    "t": 89.47
+    "t": 82.21
    },
    {
     "speaker": "Anna",
     "text": "It is run by the Ministry for Digitalisation, through a body called the Simplification Council.",
-    "t": 91.73
+    "t": 83.54
    },
    {
     "speaker": "Tom",
     "text": "The platform was launched in 2022, and it is part of a bigger effort to simplify the administration.",
-    "t": 97.73
+    "t": 89.38
    },
    {
     "speaker": "Anna",
     "text": "That bigger effort even has its own name... \"Einfach Lëtzebuerg\", which means \"Simply Luxembourg\".",
-    "t": 104.48
+    "t": 95.54
    },
    {
     "speaker": "Tom",
     "text": "Let's get to the heart of it.",
-    "t": 111.34
+    "t": 102.41
    },
    {
     "speaker": "Tom",
     "text": "How does the platform actually work?",
-    "t": 113.76
+    "t": 103.66
    },
    {
     "speaker": "Anna",
     "text": "The big idea is to put the real experience of citizens and businesses at the centre.",
-    "t": 116.8
+    "t": 105.94
    },
    {
     "speaker": "Tom",
     "text": "Because the people who use a procedure every day often understand its problems best.",
-    "t": 122.18
+    "t": 110.7
    },
    {
     "speaker": "Anna",
     "text": "So citizens and businesses can take the initiative, and submit ideas to simplify the State's procedures.",
-    "t": 127.66
+    "t": 115.28
    },
    {
     "speaker": "Tom",
     "text": "You have noticed something clumsy, something that could be easier?",
-    "t": 134.37
+    "t": 122.39
    },
    {
     "speaker": "Tom",
     "text": "You can suggest how to fix it.",
-    "t": 138.79
+    "t": 126.11
    },
    {
     "speaker": "Anna",
     "text": "And then the work happens in a participatory, co-creative way... together with the people who proposed it.",
-    "t": 141.54
+    "t": 128.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ministries and administrations can also post their own projects there, to ask for people's opinions.",
+    "t": 134.48
    },
    {
     "speaker": "Tom",
     "text": "I think it helps to picture it as a project that moves through phases.",
-    "t": 148.07
+    "t": 140.52
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 152.4
-   },
-   {
-    "speaker": "Anna",
-    "text": "There is a phase for sharing ideas, and then phases for working on a solution and testing it.",
-    "t": 154.08
+    "text": "Yes. There is a phase for sharing ideas, and then phases for working on a solution and testing it.",
+    "t": 144.67
    },
    {
     "speaker": "Tom",
     "text": "And here is a detail I really appreciate.",
-    "t": 160.17
+    "t": 151.1
    },
    {
     "speaker": "Tom",
     "text": "You don't have to commit to the whole journey.",
-    "t": 163.56
+    "t": 153.31
    },
    {
     "speaker": "Anna",
-    "text": "That's right.",
-    "t": 166.74
-   },
-   {
-    "speaker": "Anna",
-    "text": "You can take part in just one phase, or several, as much as you want.",
-    "t": 168.6
+    "text": "That's right. You can take part in just one phase, or several, as much as you want.",
+    "t": 155.71
    },
    {
     "speaker": "Tom",
     "text": "So you are free.",
-    "t": 173.71
+    "t": 160.63
    },
    {
     "speaker": "Tom",
     "text": "You give what you can, when you can.",
-    "t": 175.91
+    "t": 161.81
    },
    {
     "speaker": "Tom",
     "text": "No pressure.",
-    "t": 178.86
+    "t": 163.68
    },
    {
     "speaker": "Anna",
     "text": "And the platform welcomes everyone, in all four of our languages... Luxembourgish, German, French, and English.",
-    "t": 180.83
+    "t": 164.81
    },
    {
     "speaker": "Tom",
     "text": "That really matters in a country as multilingual as Luxembourg.",
-    "t": 189.12
+    "t": 171.82
    },
    {
     "speaker": "Tom",
     "text": "Everyone can join in their own language.",
-    "t": 193.54
+    "t": 175.66
    },
    {
     "speaker": "Anna",
     "text": "Let's make this concrete.",
-    "t": 196.58
+    "t": 177.6
    },
    {
     "speaker": "Anna",
     "text": "What kind of thing could be simplified?",
-    "t": 198.99
+    "t": 179.13
    },
    {
     "speaker": "Tom",
     "text": "Imagine a form that asks for information the State already has.",
-    "t": 201.86
+    "t": 181.43
    },
    {
     "speaker": "Tom",
     "text": "Why fill it in again?",
-    "t": 206.48
+    "t": 184.8
    },
    {
     "speaker": "Anna",
     "text": "Or a procedure that involves three different offices, when one would do.",
-    "t": 208.74
+    "t": 186.22
    },
    {
     "speaker": "Tom",
     "text": "Or instructions that are hard to understand, that could be written in plain language.",
-    "t": 213.6
+    "t": 190.74
    },
    {
     "speaker": "Anna",
     "text": "A good example is digital services.",
-    "t": 218.82
+    "t": 195.35
    },
    {
     "speaker": "Anna",
     "text": "The platform has been used to help improve the MyGuichet app.",
-    "t": 222.06
+    "t": 197.87
    },
    {
     "speaker": "Tom",
     "text": "And we have talked about MyGuichet in an earlier episode.",
-    "t": 225.95
+    "t": 201.92
    },
    {
     "speaker": "Tom",
     "text": "It's the State's online counter.",
-    "t": 230.03
+    "t": 204.72
    },
    {
     "speaker": "Anna",
     "text": "So real users gave feedback, and that feedback helped shape a tool that millions of procedures pass through.",
-    "t": 232.96
+    "t": 206.82
    },
    {
     "speaker": "Tom",
     "text": "That's the magic.",
-    "t": 239.85
+    "t": 213.19
    },
    {
     "speaker": "Tom",
     "text": "One person's small suggestion can improve life for thousands.",
-    "t": 241.98
+    "t": 214.26
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about why this approach matters, beyond the paperwork itself.",
-    "t": 246.22
+    "t": 217.74
    },
    {
     "speaker": "Tom",
     "text": "First, it saves time.",
-    "t": 251.15
+    "t": 222.51
    },
    {
     "speaker": "Tom",
     "text": "Simpler procedures mean less stress, for citizens and for staff.",
-    "t": 253.76
+    "t": 224.29
    },
    {
     "speaker": "Anna",
     "text": "Second, it builds trust.",
-    "t": 258.61
+    "t": 228.02
    },
    {
     "speaker": "Anna",
     "text": "When the State listens, people feel respected, and feel part of things.",
-    "t": 261.38
+    "t": 230.32
    },
    {
     "speaker": "Tom",
     "text": "And third, it is democratic, in a quiet, everyday way.",
-    "t": 266.42
+    "t": 234.85
    },
    {
     "speaker": "Anna",
-    "text": "Yes.",
-    "t": 270.91
-   },
-   {
-    "speaker": "Anna",
-    "text": "Democracy is not only voting every few years.",
-    "t": 272.59
+    "text": "Yes. Democracy is not only voting every few years.",
+    "t": 238.43
    },
    {
     "speaker": "Anna",
     "text": "It is also helping to shape the services you use.",
-    "t": 276.32
+    "t": 242.16
    },
    {
     "speaker": "Tom",
     "text": "And that fits the spirit of the Biergerpakt perfectly... citizens and the State, working together.",
-    "t": 279.89
+    "t": 245.67
    },
    {
     "speaker": "Anna",
     "text": "There is also something hopeful here.",
-    "t": 286.07
+    "t": 252.49
    },
    {
     "speaker": "Anna",
     "text": "Frustration can be turned into improvement.",
-    "t": 288.91
+    "t": 254.45
    },
    {
     "speaker": "Tom",
     "text": "Instead of \"this is annoying\", it becomes \"here is how we could make it better\".",
-    "t": 292.11
+    "t": 257.22
    },
    {
     "speaker": "Anna",
     "text": "So Tom, let's make it practical.",
-    "t": 296.88
+    "t": 261.76
    },
    {
     "speaker": "Anna",
     "text": "How can someone actually take part?",
-    "t": 300.03
+    "t": 263.9
    },
    {
     "speaker": "Tom",
     "text": "First... next time a procedure frustrates you, write the idea down instead of just sighing.",
-    "t": 302.98
+    "t": 266.3
    },
    {
     "speaker": "Anna",
     "text": "Second... visit the Zesumme Vereinfachen platform and share your suggestion, in your own language.",
-    "t": 308.69
+    "t": 271.66
    },
    {
     "speaker": "Tom",
     "text": "Third... if you like, follow it through one or more phases, and help co-create the solution.",
-    "t": 315.04
+    "t": 278.4
    },
    {
     "speaker": "Anna",
     "text": "And fourth... remember, even a small idea can make a real difference for many people.",
-    "t": 320.71
+    "t": 284.09
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 326.44
+    "t": 289.33
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about Zesumme Vereinfachen?",
-    "t": 328.96
+    "t": 290.8
    },
    {
     "speaker": "Anna",
     "text": "First... it is a platform where citizens and businesses help simplify the State's procedures.",
-    "t": 332.83
+    "t": 294.01
    },
    {
     "speaker": "Tom",
     "text": "Second... it is run by the Ministry for Digitalisation, and launched in 2022, as part of \"Einfach Lëtzebuerg\".",
-    "t": 338.87
+    "t": 299.95
    },
    {
     "speaker": "Anna",
     "text": "Third... you can submit ideas, join one phase or many, in any of the four languages.",
-    "t": 346.51
+    "t": 307.34
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it has already helped improve real services, like the MyGuichet app.",
-    "t": 352.88
+    "t": 313.35
    },
    {
     "speaker": "Anna",
     "text": "Paperwork may never be exciting.",
-    "t": 358.12
+    "t": 318.44
    },
    {
     "speaker": "Anna",
     "text": "But the chance to make it simpler, together, is genuinely empowering.",
-    "t": 360.99
+    "t": 320.69
    },
    {
     "speaker": "Tom",
     "text": "So the next time something feels too complicated, remember... your voice can help fix it.",
-    "t": 365.89
+    "t": 325.28
    },
    {
     "speaker": "Anna",
-    "text": "Thank you so much for listening today.",
-    "t": 371.36
-   },
-   {
-    "speaker": "Tom",
-    "text": "Take care, and see you in the next episode.",
-    "t": 374.31
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 377.77
+    "text": "That was our episode about Zesumme Vereinfachen.",
+    "t": 330.27
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 379.46
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 333.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 342.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 360.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 367.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 369.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 374.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 375.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 377.6
    }
   ],
   "questions": [
@@ -66453,1271 +66527,1275 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_zesumme_fr.mp3",
-  "duration_fr": 410.47,
+  "duration_fr": 378.78,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Nous sommes ravis de vous compter parmi nous aujourd'hui.",
-    "t": 3.09
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.78
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 9.35
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
-    "t": 12.81
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, ainsi que les travailleurs frontaliers, à prendre part à la vie du pays.",
-    "t": 16.48
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et aujourd'hui, nous avons un sujet qui, honnêtement, touche presque tout le monde... la paperasse.",
-    "t": 23.94
+    "t": 23.07
    },
    {
     "speaker": "Anna",
-    "text": "Oui !",
-    "t": 30.14
-   },
-   {
-    "speaker": "Anna",
-    "text": "Les formulaires, les procédures, les démarches administratives.",
-    "t": 31.64
+    "text": "Oui ! Les formulaires, les procédures, les démarches administratives.",
+    "t": 28.38
    },
    {
     "speaker": "Anna",
     "text": "Parfois, ils sont simples.",
-    "t": 36.79
+    "t": 31.7
    },
    {
     "speaker": "Anna",
     "text": "Et parfois... ils ne le sont pas.",
-    "t": 39.44
+    "t": 33.02
    },
    {
     "speaker": "Tom",
     "text": "Nous avons tous vécu ce moment.",
-    "t": 42.14
+    "t": 35.04
    },
    {
     "speaker": "Tom",
     "text": "Un formulaire qui demande deux fois la même chose.",
-    "t": 44.74
+    "t": 37.08
    },
    {
     "speaker": "Tom",
     "text": "Une étape qui vous fait penser... pourquoi est-ce si compliqué ?",
-    "t": 48.16
+    "t": 39.67
    },
    {
     "speaker": "Anna",
     "text": "Eh bien, le sujet d'aujourd'hui est un projet qui transforme cette frustration en quelque chose d'utile.",
-    "t": 52
+    "t": 43.41
    },
    {
     "speaker": "Tom",
     "text": "Il s'appelle Zesumme Vereinfachen.",
-    "t": 58.19
+    "t": 48.27
    },
    {
     "speaker": "Tom",
     "text": "Le nom est en luxembourgeois.",
-    "t": 60.97
+    "t": 50.92
    },
    {
     "speaker": "Anna",
     "text": "Et cela signifie « simplifier ensemble ».",
-    "t": 63.5
+    "t": 52.71
    },
    {
     "speaker": "Anna",
-    "text": "J'adore ça.",
-    "t": 67.01
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ensemble.",
-    "t": 68.94
+    "text": "J'adore ça. Ensemble.",
+    "t": 54.82
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qu'est-ce que Zesumme Vereinfachen exactement ?",
-    "t": 70.75
+    "t": 56.5
    },
    {
     "speaker": "Anna",
     "text": "C'est une plateforme en ligne où les citoyens et les entreprises peuvent aider à rendre les procédures de l'État plus simples.",
-    "t": 74.62
+    "t": 59.99
    },
    {
     "speaker": "Tom",
     "text": "Donc, au lieu de simplement se plaindre de la paperasse, on peut vraiment agir.",
-    "t": 81.19
+    "t": 65.83
    },
    {
     "speaker": "Anna",
-    "text": "Exactement.",
-    "t": 86.25
-   },
-   {
-    "speaker": "Anna",
-    "text": "Son slogan le dit magnifiquement... des services publics qui vous facilitent la vie au quotidien.",
-    "t": 88.07
+    "text": "Exactement. Son slogan le dit magnifiquement... des services publics qui vous facilitent la vie au quotidien.",
+    "t": 70.51
    },
    {
     "speaker": "Tom",
     "text": "Et qui est derrière tout cela ?",
-    "t": 93.82
+    "t": 76.12
    },
    {
     "speaker": "Anna",
     "text": "C'est géré par le Ministère de la Digitalisation, à travers un organe appelé le Conseil de simplification.",
-    "t": 96.22
+    "t": 77.84
    },
    {
     "speaker": "Tom",
     "text": "La plateforme a été lancée en 2022, et elle s'inscrit dans un effort plus large de simplification administrative.",
-    "t": 102.97
+    "t": 83.2
    },
    {
     "speaker": "Anna",
     "text": "Cet effort plus large a même son propre nom... « Einfach Lëtzebuerg », qui signifie « Le Luxembourg en toute simplicité ».",
-    "t": 110.01
+    "t": 89.8
    },
    {
     "speaker": "Tom",
     "text": "Allons au cœur du sujet.",
-    "t": 118.52
+    "t": 96.92
    },
    {
     "speaker": "Tom",
     "text": "Comment la plateforme fonctionne-t-elle concrètement ?",
-    "t": 120.78
+    "t": 98.46
    },
    {
     "speaker": "Anna",
     "text": "L'idée maîtresse est de placer l'expérience réelle des citoyens et des entreprises au centre.",
-    "t": 123.98
+    "t": 101.27
    },
    {
     "speaker": "Tom",
     "text": "Parce que les personnes qui utilisent une procédure tous les jours en comprennent souvent le mieux les problèmes.",
-    "t": 129.64
+    "t": 105.84
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, les citoyens et les entreprises peuvent prendre l'initiative et soumettre des idées pour simplifier les procédures de l'État.",
-    "t": 135.04
+    "t": 111.45
    },
    {
     "speaker": "Tom",
     "text": "Vous avez remarqué quelque chose de maladroit, quelque chose qui pourrait être plus simple ?",
-    "t": 142.44
+    "t": 117.63
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez proposer comment y remédier.",
-    "t": 147.56
+    "t": 121.85
    },
    {
     "speaker": "Anna",
     "text": "Et ensuite, le travail se déroule de manière participative et co-créative... avec les personnes qui l'ont proposé.",
-    "t": 150.49
+    "t": 124.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les ministères et les administrations peuvent aussi y publier leurs propres projets, pour demander l'avis des gens.",
+    "t": 130.21
    },
    {
     "speaker": "Tom",
     "text": "Je pense qu'il est utile de se le représenter comme un projet qui avance par étapes.",
-    "t": 157.67
+    "t": 135.53
    },
    {
     "speaker": "Anna",
-    "text": "Oui.",
-    "t": 162.46
-   },
-   {
-    "speaker": "Anna",
-    "text": "Il y a une phase pour partager les idées, puis des phases pour élaborer une solution et la tester.",
-    "t": 163.95
+    "text": "Oui. Il y a une phase pour partager les idées, puis des phases pour élaborer une solution et la tester.",
+    "t": 140.26
    },
    {
     "speaker": "Tom",
     "text": "Et voici un détail que j'apprécie vraiment.",
-    "t": 169.68
+    "t": 144.87
    },
    {
     "speaker": "Tom",
     "text": "Vous n'êtes pas obligé de vous engager pour tout le parcours.",
-    "t": 172.81
+    "t": 147.15
    },
    {
     "speaker": "Anna",
-    "text": "C'est exact.",
-    "t": 176.65
-   },
-   {
-    "speaker": "Anna",
-    "text": "Vous pouvez participer à une seule phase, ou à plusieurs, autant que vous le souhaitez.",
-    "t": 178.69
+    "text": "C'est exact. Vous pouvez participer à une seule phase, ou à plusieurs, autant que vous le souhaitez.",
+    "t": 150.88
    },
    {
     "speaker": "Tom",
     "text": "Vous êtes donc libre.",
-    "t": 184.24
+    "t": 155.88
    },
    {
     "speaker": "Tom",
     "text": "Vous donnez ce que vous pouvez, quand vous le pouvez.",
-    "t": 186.33
+    "t": 157.18
    },
    {
     "speaker": "Tom",
     "text": "Sans pression.",
-    "t": 189.7
+    "t": 159.57
    },
    {
     "speaker": "Anna",
     "text": "Et la plateforme accueille tout le monde, dans nos quatre langues... le luxembourgeois, l'allemand, le français et l'anglais.",
-    "t": 191.54
+    "t": 160.78
    },
    {
     "speaker": "Tom",
     "text": "Cela compte vraiment dans un pays aussi multilingue que le Luxembourg.",
-    "t": 198.94
+    "t": 166.84
    },
    {
     "speaker": "Tom",
     "text": "Chacun peut participer dans sa propre langue.",
-    "t": 203.29
+    "t": 170.48
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 206.53
+    "t": 173.27
    },
    {
     "speaker": "Anna",
     "text": "Quel genre de chose pourrait être simplifié ?",
-    "t": 208.86
+    "t": 174.57
    },
    {
     "speaker": "Tom",
     "text": "Imaginez un formulaire qui demande une information que l'État possède déjà.",
-    "t": 212.08
+    "t": 176.79
    },
    {
     "speaker": "Tom",
     "text": "Pourquoi la saisir à nouveau ?",
-    "t": 216.61
+    "t": 180.7
    },
    {
     "speaker": "Anna",
     "text": "Ou une procédure qui implique trois bureaux différents, alors qu'un seul suffirait.",
-    "t": 219.07
+    "t": 182.5
    },
    {
     "speaker": "Tom",
     "text": "Ou des instructions difficiles à comprendre, qui pourraient être rédigées dans un langage clair.",
-    "t": 224.05
+    "t": 186.55
    },
    {
     "speaker": "Anna",
     "text": "Un bon exemple, ce sont les services numériques.",
-    "t": 229.53
+    "t": 191.57
    },
    {
     "speaker": "Anna",
     "text": "La plateforme a été utilisée pour aider à améliorer l'application MyGuichet.",
-    "t": 233.35
+    "t": 193.96
    },
    {
     "speaker": "Tom",
     "text": "Et nous avons parlé de MyGuichet dans un épisode précédent.",
-    "t": 238.32
+    "t": 197.79
    },
    {
     "speaker": "Tom",
     "text": "C'est le guichet en ligne de l'État.",
-    "t": 242.08
+    "t": 200.84
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, de vrais utilisateurs ont donné leur avis, et cet avis a aidé à façonner un outil par lequel passent des millions de démarches.",
-    "t": 244.69
+    "t": 202.78
    },
    {
     "speaker": "Tom",
     "text": "C'est ça, la magie.",
-    "t": 252.45
+    "t": 209.11
    },
    {
     "speaker": "Tom",
     "text": "La petite suggestion d'une seule personne peut améliorer la vie de milliers d'autres.",
-    "t": 254.86
+    "t": 210.5
    },
    {
     "speaker": "Anna",
     "text": "Parlons de la raison pour laquelle cette approche est importante, au-delà de la paperasse elle-même.",
-    "t": 259.62
+    "t": 214.94
    },
    {
     "speaker": "Tom",
     "text": "Premièrement, elle fait gagner du temps.",
-    "t": 265.3
+    "t": 219.32
    },
    {
     "speaker": "Tom",
     "text": "Des procédures plus simples signifient moins de stress, pour les citoyens comme pour le personnel.",
-    "t": 268.23
+    "t": 221.46
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement, elle renforce la confiance.",
-    "t": 273.94
+    "t": 227.06
    },
    {
     "speaker": "Anna",
     "text": "Quand l'État écoute, les gens se sentent respectés et se sentent partie prenante.",
-    "t": 277.38
+    "t": 229.27
    },
    {
     "speaker": "Tom",
     "text": "Et troisièmement, c'est démocratique, d'une manière discrète et quotidienne.",
-    "t": 282.53
+    "t": 233.4
    },
    {
     "speaker": "Anna",
-    "text": "Oui.",
-    "t": 287.44
-   },
-   {
-    "speaker": "Anna",
-    "text": "La démocratie, ce n'est pas seulement voter tous les quelques années.",
-    "t": 288.92
+    "text": "Oui. La démocratie, ce n'est pas seulement voter tous les quelques années.",
+    "t": 238.05
    },
    {
     "speaker": "Anna",
     "text": "C'est aussi aider à façonner les services que vous utilisez.",
-    "t": 293.36
+    "t": 242.03
    },
    {
     "speaker": "Tom",
     "text": "Et cela correspond parfaitement à l'esprit du Biergerpakt... les citoyens et l'État, travaillant ensemble.",
-    "t": 297.32
+    "t": 245.36
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi quelque chose de porteur d'espoir ici.",
-    "t": 303.42
+    "t": 251.31
    },
    {
     "speaker": "Anna",
     "text": "La frustration peut être transformée en amélioration.",
-    "t": 307.2
+    "t": 254.32
    },
    {
     "speaker": "Tom",
     "text": "Au lieu de « c'est agaçant », cela devient « voici comment nous pourrions faire mieux ».",
-    "t": 311.19
+    "t": 257.26
    },
    {
     "speaker": "Anna",
     "text": "Alors Tom, rendons cela pratique.",
-    "t": 316.46
+    "t": 262.33
    },
    {
     "speaker": "Anna",
     "text": "Comment peut-on concrètement participer ?",
-    "t": 319.74
+    "t": 264.34
    },
    {
     "speaker": "Tom",
     "text": "D'abord... la prochaine fois qu'une procédure vous frustre, notez l'idée au lieu de simplement soupirer.",
-    "t": 322.72
+    "t": 266.61
    },
    {
     "speaker": "Anna",
     "text": "Ensuite... rendez-vous sur la plateforme Zesumme Vereinfachen et partagez votre suggestion, dans votre propre langue.",
-    "t": 328.69
+    "t": 272.19
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... si vous le souhaitez, suivez-la à travers une ou plusieurs phases, et aidez à co-créer la solution.",
-    "t": 335.91
+    "t": 278.62
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... rappelez-vous, même une petite idée peut faire une réelle différence pour de nombreuses personnes.",
-    "t": 342.46
+    "t": 285.33
    },
    {
     "speaker": "Tom",
     "text": "Récapitulons tout cela.",
-    "t": 349.17
+    "t": 290.91
    },
    {
     "speaker": "Tom",
     "text": "Que faut-il retenir de Zesumme Vereinfachen ?",
-    "t": 351.59
+    "t": 292.52
    },
    {
     "speaker": "Anna",
     "text": "Premièrement... c'est une plateforme où les citoyens et les entreprises aident à simplifier les procédures de l'État.",
-    "t": 354.83
+    "t": 295.81
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... elle est gérée par le Ministère de la Digitalisation, et lancée en 2022, dans le cadre d'« Einfach Lëtzebuerg ».",
-    "t": 361.25
+    "t": 301.18
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... vous pouvez soumettre des idées, participer à une seule phase ou à plusieurs, dans n'importe laquelle des quatre langues.",
-    "t": 369.35
+    "t": 309.18
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... elle a déjà aidé à améliorer de vrais services, comme l'application MyGuichet.",
-    "t": 377.31
+    "t": 315.8
    },
    {
     "speaker": "Anna",
     "text": "La paperasse ne sera peut-être jamais passionnante.",
-    "t": 383.1
+    "t": 321.63
    },
    {
     "speaker": "Anna",
     "text": "Mais la possibilité de la simplifier, ensemble, est véritablement émancipatrice.",
-    "t": 386.83
+    "t": 323.98
    },
    {
     "speaker": "Tom",
     "text": "Alors, la prochaine fois que quelque chose vous semble trop compliqué, rappelez-vous... votre voix peut aider à y remédier.",
-    "t": 392.72
+    "t": 328.59
    },
    {
     "speaker": "Anna",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 399.82
-   },
-   {
-    "speaker": "Tom",
-    "text": "Prenez soin de vous, et à bientôt pour le prochain épisode.",
-    "t": 403.29
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 407.33
+    "text": "C'était notre épisode sur Zesumme Vereinfachen.",
+    "t": 335.43
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 408.86
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 338.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 346.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 362.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 367.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 368.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 373.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 374.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 377.02
    }
   ],
   "audio_de": "podcast_zesumme_de.mp3",
-  "duration_de": 447.46,
+  "duration_de": 424.49,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Schön, dass Sie heute bei uns sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.44
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.51
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 11.9
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnern und auch den Grenzgängern helfen, am Leben des Landes teilzunehmen.",
-    "t": 16.28
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und heute haben wir ein Thema, zu dem ehrlich gesagt fast jeder etwas zu sagen hat... der Papierkram.",
-    "t": 24.23
+    "t": 27.86
    },
    {
     "speaker": "Anna",
-    "text": "Ja!",
-    "t": 31
-   },
-   {
-    "speaker": "Anna",
-    "text": "Formulare, Verfahren, behördliche Schritte.",
-    "t": 32.38
+    "text": "Ja! Formulare, Verfahren, behördliche Schritte.",
+    "t": 33.84
    },
    {
     "speaker": "Anna",
     "text": "Manchmal sind sie einfach.",
-    "t": 36.53
+    "t": 37.88
    },
    {
     "speaker": "Anna",
     "text": "Und manchmal... sind sie es nicht.",
-    "t": 39.08
+    "t": 39.61
    },
    {
     "speaker": "Tom",
     "text": "Wir alle kennen diesen Moment.",
-    "t": 42.21
+    "t": 42.64
    },
    {
     "speaker": "Tom",
     "text": "Ein Formular, das dasselbe zweimal abfragt.",
-    "t": 44.81
+    "t": 44.52
    },
    {
     "speaker": "Tom",
     "text": "Ein Schritt, bei dem man denkt... warum ist das so kompliziert?",
-    "t": 48.69
+    "t": 47.36
    },
    {
     "speaker": "Anna",
     "text": "Nun, das heutige Thema ist ein Projekt, das diesen Frust in etwas Nützliches verwandelt.",
-    "t": 53.18
+    "t": 51.29
    },
    {
     "speaker": "Tom",
     "text": "Es heißt Zesumme Vereinfachen.",
-    "t": 59.93
+    "t": 56.94
    },
    {
     "speaker": "Tom",
     "text": "Der Name ist auf Luxemburgisch.",
-    "t": 62.64
+    "t": 58.92
    },
    {
     "speaker": "Anna",
     "text": "Und es bedeutet „gemeinsam vereinfachen\".",
-    "t": 65.36
+    "t": 61
    },
    {
     "speaker": "Anna",
     "text": "Das gefällt mir sehr.",
-    "t": 68.67
+    "t": 63.62
    },
    {
     "speaker": "Anna",
     "text": "Gemeinsam.",
-    "t": 70.94
+    "t": 65.05
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was genau ist Zesumme Vereinfachen?",
-    "t": 72.82
+    "t": 66.22
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine Online-Plattform, auf der Bürger und Unternehmen dabei helfen können, die Verfahren des Staates einfacher zu gestalten.",
-    "t": 76.75
+    "t": 68.76
    },
    {
     "speaker": "Tom",
     "text": "Anstatt sich also nur über den Papierkram zu beschweren, kann man wirklich etwas dagegen tun.",
-    "t": 85.46
+    "t": 75.98
    },
    {
     "speaker": "Anna",
-    "text": "Genau.",
-    "t": 91.41
-   },
-   {
-    "speaker": "Anna",
-    "text": "Der Slogan bringt es wunderbar auf den Punkt... öffentliche Dienste, die Ihren Alltag einfacher machen.",
-    "t": 93.01
+    "text": "Genau. Der Slogan bringt es wunderbar auf den Punkt... öffentliche Dienste, die Ihren Alltag einfacher machen.",
+    "t": 81.32
    },
    {
     "speaker": "Tom",
     "text": "Und wer steckt dahinter?",
-    "t": 99.85
+    "t": 88.3
    },
    {
     "speaker": "Anna",
     "text": "Sie wird vom Ministerium für Digitalisierung betrieben, über ein Gremium namens Vereinfachungsrat.",
-    "t": 102.24
+    "t": 89.83
    },
    {
     "speaker": "Tom",
     "text": "Die Plattform wurde 2022 gestartet und ist Teil einer größeren Anstrengung zur Verwaltungsvereinfachung.",
-    "t": 109.31
+    "t": 95.84
    },
    {
     "speaker": "Anna",
     "text": "Diese größere Anstrengung hat sogar einen eigenen Namen... „Einfach Lëtzebuerg\", was „Einfach Luxemburg\" bedeutet.",
-    "t": 117.06
+    "t": 103.34
    },
    {
     "speaker": "Tom",
     "text": "Kommen wir zum Kern der Sache.",
-    "t": 125.74
+    "t": 111.5
    },
    {
     "speaker": "Tom",
     "text": "Wie funktioniert die Plattform eigentlich?",
-    "t": 128.41
+    "t": 113.29
    },
    {
     "speaker": "Anna",
     "text": "Die zentrale Idee ist, die tatsächliche Erfahrung der Bürger und Unternehmen in den Mittelpunkt zu stellen.",
-    "t": 131.65
+    "t": 115.57
    },
    {
     "speaker": "Tom",
     "text": "Denn die Menschen, die ein Verfahren täglich nutzen, verstehen dessen Probleme oft am besten.",
-    "t": 138.93
+    "t": 121.64
    },
    {
     "speaker": "Anna",
     "text": "So können Bürger und Unternehmen die Initiative ergreifen und Ideen einreichen, um die Verfahren des Staates zu vereinfachen.",
-    "t": 144.86
+    "t": 126.85
    },
    {
     "speaker": "Tom",
     "text": "Ist Ihnen etwas Umständliches aufgefallen, etwas, das einfacher sein könnte?",
-    "t": 153.3
+    "t": 134.62
    },
    {
     "speaker": "Tom",
     "text": "Sie können vorschlagen, wie man es verbessert.",
-    "t": 159.01
+    "t": 139.7
    },
    {
     "speaker": "Anna",
     "text": "Und dann erfolgt die Arbeit auf partizipative, ko-kreative Weise... gemeinsam mit denen, die den Vorschlag gemacht haben.",
-    "t": 162.61
+    "t": 142.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ministerien und Verwaltungen können dort auch eigene Projekte veröffentlichen, um die Meinung der Menschen einzuholen.",
+    "t": 149.91
    },
    {
     "speaker": "Tom",
     "text": "Ich finde, es hilft, es sich als ein Projekt vorzustellen, das mehrere Phasen durchläuft.",
-    "t": 171.49
+    "t": 156.34
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 177.58
-   },
-   {
-    "speaker": "Anna",
-    "text": "Es gibt eine Phase zum Teilen von Ideen und dann Phasen, in denen an einer Lösung gearbeitet und diese getestet wird.",
-    "t": 178.91
+    "text": "Ja. Es gibt eine Phase zum Teilen von Ideen und dann Phasen, in denen an einer Lösung gearbeitet und diese getestet wird.",
+    "t": 161.42
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist ein Detail, das ich wirklich schätze.",
-    "t": 187.01
+    "t": 169.75
    },
    {
     "speaker": "Tom",
     "text": "Sie müssen sich nicht für den ganzen Weg verpflichten.",
-    "t": 190.7
+    "t": 172.5
    },
    {
     "speaker": "Anna",
-    "text": "Genau.",
-    "t": 194.36
-   },
-   {
-    "speaker": "Anna",
-    "text": "Sie können an nur einer Phase teilnehmen oder an mehreren, so viel Sie möchten.",
-    "t": 195.96
+    "text": "Genau. Sie können an nur einer Phase teilnehmen oder an mehreren, so viel Sie möchten.",
+    "t": 175.51
    },
    {
     "speaker": "Tom",
     "text": "Sie sind also frei.",
-    "t": 201.51
+    "t": 180.76
    },
    {
     "speaker": "Tom",
     "text": "Sie geben, was Sie können, wann Sie können.",
-    "t": 203.79
+    "t": 182.11
    },
    {
     "speaker": "Tom",
     "text": "Ohne Druck.",
-    "t": 207.46
+    "t": 184.51
    },
    {
     "speaker": "Anna",
     "text": "Und die Plattform heißt alle willkommen, in allen vier unserer Sprachen... Luxemburgisch, Deutsch, Französisch und Englisch.",
-    "t": 209.19
+    "t": 185.61
    },
    {
     "speaker": "Tom",
     "text": "Das ist wirklich wichtig in einem so mehrsprachigen Land wie Luxemburg.",
-    "t": 218.36
+    "t": 193.6
    },
    {
     "speaker": "Tom",
     "text": "Jeder kann in seiner eigenen Sprache mitmachen.",
-    "t": 222.91
+    "t": 197.87
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es konkret.",
-    "t": 226.49
+    "t": 200.52
    },
    {
     "speaker": "Anna",
     "text": "Was für eine Sache könnte vereinfacht werden?",
-    "t": 228.86
+    "t": 202.06
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie sich ein Formular vor, das nach Informationen fragt, die der Staat bereits hat.",
-    "t": 232.52
+    "t": 204.82
    },
    {
     "speaker": "Tom",
     "text": "Warum sie noch einmal eingeben?",
-    "t": 238.72
+    "t": 210.08
    },
    {
     "speaker": "Anna",
     "text": "Oder ein Verfahren, an dem drei verschiedene Ämter beteiligt sind, wo eines genügen würde.",
-    "t": 241.65
+    "t": 211.97
    },
    {
     "speaker": "Tom",
     "text": "Oder Anweisungen, die schwer zu verstehen sind und die in klarer Sprache verfasst werden könnten.",
-    "t": 248.18
+    "t": 217.19
    },
    {
     "speaker": "Anna",
     "text": "Ein gutes Beispiel sind digitale Dienste.",
-    "t": 254.58
+    "t": 222.54
    },
    {
     "speaker": "Anna",
     "text": "Die Plattform wurde genutzt, um die MyGuichet-App zu verbessern.",
-    "t": 258.26
+    "t": 225.24
    },
    {
     "speaker": "Tom",
     "text": "Und wir haben in einer früheren Folge über MyGuichet gesprochen.",
-    "t": 263.12
+    "t": 228.82
    },
    {
     "speaker": "Tom",
     "text": "Es ist der Online-Schalter des Staates.",
-    "t": 267.5
+    "t": 232.5
    },
    {
     "speaker": "Anna",
     "text": "Echte Nutzer gaben also Rückmeldungen, und diese Rückmeldungen halfen, ein Werkzeug zu gestalten, durch das Millionen von Verfahren laufen.",
-    "t": 270.41
+    "t": 235.01
    },
    {
     "speaker": "Tom",
     "text": "Das ist das Magische daran.",
-    "t": 279.78
+    "t": 242.81
    },
    {
     "speaker": "Tom",
     "text": "Der kleine Vorschlag einer Person kann das Leben für Tausende verbessern.",
-    "t": 282.31
+    "t": 244.52
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir darüber, warum dieser Ansatz wichtig ist, über den Papierkram selbst hinaus.",
-    "t": 287.02
+    "t": 248.8
    },
    {
     "speaker": "Tom",
     "text": "Erstens spart er Zeit.",
-    "t": 293.7
+    "t": 253.79
    },
    {
     "speaker": "Tom",
     "text": "Einfachere Verfahren bedeuten weniger Stress, für Bürger und für Mitarbeiter.",
-    "t": 296.14
+    "t": 255.54
    },
    {
     "speaker": "Anna",
     "text": "Zweitens schafft er Vertrauen.",
-    "t": 301.34
+    "t": 260.25
    },
    {
     "speaker": "Anna",
     "text": "Wenn der Staat zuhört, fühlen sich die Menschen respektiert und als Teil des Ganzen.",
-    "t": 304.09
+    "t": 262.17
    },
    {
     "speaker": "Tom",
     "text": "Und drittens ist es demokratisch, auf eine stille, alltägliche Weise.",
-    "t": 310.15
+    "t": 266.78
    },
    {
     "speaker": "Anna",
-    "text": "Ja.",
-    "t": 315.19
-   },
-   {
-    "speaker": "Anna",
-    "text": "Demokratie ist nicht nur das Wählen alle paar Jahre.",
-    "t": 316.52
+    "text": "Ja. Demokratie ist nicht nur das Wählen alle paar Jahre.",
+    "t": 271.28
    },
    {
     "speaker": "Anna",
     "text": "Es ist auch das Mitgestalten der Dienste, die Sie nutzen.",
-    "t": 320.63
+    "t": 275.56
    },
    {
     "speaker": "Tom",
     "text": "Und das passt perfekt zum Geist des Biergerpakt... Bürger und Staat, die zusammenarbeiten.",
-    "t": 325.07
+    "t": 278.85
    },
    {
     "speaker": "Anna",
     "text": "Es gibt hier auch etwas Hoffnungsvolles.",
-    "t": 331.74
+    "t": 283.94
    },
    {
     "speaker": "Anna",
     "text": "Frust kann in Verbesserung verwandelt werden.",
-    "t": 335.02
+    "t": 286.18
    },
    {
     "speaker": "Tom",
     "text": "Statt „das ist ärgerlich\" wird daraus „so könnten wir es besser machen\".",
-    "t": 338.64
+    "t": 288.94
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, machen wir es praktisch.",
-    "t": 343.44
+    "t": 293.54
    },
    {
     "speaker": "Anna",
     "text": "Wie kann man eigentlich teilnehmen?",
-    "t": 346.74
+    "t": 296.22
    },
    {
     "speaker": "Tom",
     "text": "Erstens... wenn Sie das nächste Mal ein Verfahren frustriert, schreiben Sie die Idee auf, anstatt nur zu seufzen.",
-    "t": 349.78
+    "t": 298.22
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... besuchen Sie die Plattform Zesumme Vereinfachen und teilen Sie Ihren Vorschlag, in Ihrer eigenen Sprache.",
-    "t": 356.82
+    "t": 305.42
    },
    {
     "speaker": "Tom",
     "text": "Drittens... wenn Sie möchten, begleiten Sie sie durch eine oder mehrere Phasen und helfen Sie, die Lösung mitzugestalten.",
-    "t": 364.55
+    "t": 312.52
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... denken Sie daran, selbst eine kleine Idee kann für viele Menschen einen echten Unterschied machen.",
-    "t": 372.33
+    "t": 319.88
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir alles zusammen.",
-    "t": 379.99
+    "t": 326.81
    },
    {
     "speaker": "Tom",
     "text": "Was sollten sich die Leute über Zesumme Vereinfachen merken?",
-    "t": 382.56
+    "t": 328.36
    },
    {
     "speaker": "Anna",
     "text": "Erstens... es ist eine Plattform, auf der Bürger und Unternehmen helfen, die Verfahren des Staates zu vereinfachen.",
-    "t": 386.69
+    "t": 331.65
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... sie wird vom Ministerium für Digitalisierung betrieben und wurde 2022 gestartet, als Teil von „Einfach Lëtzebuerg\".",
-    "t": 394.54
+    "t": 338.77
    },
    {
     "speaker": "Anna",
     "text": "Drittens... Sie können Ideen einreichen, an einer oder mehreren Phasen teilnehmen, in jeder der vier Sprachen.",
-    "t": 404.11
+    "t": 348.85
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... sie hat bereits geholfen, echte Dienste zu verbessern, wie die MyGuichet-App.",
-    "t": 412.66
+    "t": 355.81
    },
    {
     "speaker": "Anna",
     "text": "Papierkram wird vielleicht nie aufregend sein.",
-    "t": 418.7
+    "t": 361.47
    },
    {
     "speaker": "Anna",
     "text": "Aber die Chance, ihn gemeinsam einfacher zu machen, ist wirklich ermutigend.",
-    "t": 422.34
+    "t": 363.92
    },
    {
     "speaker": "Tom",
     "text": "Wenn sich also das nächste Mal etwas zu kompliziert anfühlt, denken Sie daran... Ihre Stimme kann helfen, es zu verbessern.",
-    "t": 428.16
+    "t": 368.54
    },
    {
     "speaker": "Anna",
-    "text": "Vielen Dank, dass Sie heute zugehört haben.",
-    "t": 436.94
-   },
-   {
-    "speaker": "Tom",
-    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
-    "t": 440.58
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 444.39
+    "text": "Das war unsere Folge über Zesumme Vereinfachen.",
+    "t": 375.74
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 445.97
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 378.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 387.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 405.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 411.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 413.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 418.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 419.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 422.95
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm zréck! Et ass schéin, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.62
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, um Liewen am Land deelzehuelen.",
-    "t": 7.66
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "A haut hu mir en Thema, dat éierlech gesot bal jiddereen ugeet... de Pabeierkrom.",
-    "t": 22.03
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Jo! Formulairen, Prozeduren, administrativ Schrëtt. Heiansdo sinn se einfach. An heiansdo... sinn se et net.",
-    "t": 28.05
+    "t": 33.05
    },
    {
     "speaker": "Tom",
     "text": "Mir hunn all dee Moment scho gehat. E Formulaire dee zweemol no derselwechter Saach freet. E Schrëtt deen Iech denke léisst... firwat ass dat esou komplizéiert?",
-    "t": 38.81
+    "t": 40.68
    },
    {
     "speaker": "Anna",
     "text": "Nun, dat haitegt Thema ass e Projet deen dës Frustratioun an eppes Nëtzleches verwandelt.",
-    "t": 48.93
+    "t": 49.28
    },
    {
     "speaker": "Tom",
     "text": "Et heescht Zesumme Vereinfachen. Den Numm ass op Lëtzebuergesch.",
-    "t": 54.48
+    "t": 54.07
    },
    {
     "speaker": "Anna",
     "text": "An et bedeit „zesummen vereinfachen\". Dat gefält mer immens. Zesummen.",
-    "t": 60.12
+    "t": 57.61
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat genee ass Zesumme Vereinfachen?",
-    "t": 66.73
+    "t": 62.78
    },
    {
     "speaker": "Anna",
     "text": "Et ass eng Online-Plattform, wou Bierger an Entreprisen kënnen hëllefen, dem Staat seng Prozeduren méi einfach ze maachen.",
-    "t": 70.62
+    "t": 65.37
    },
    {
     "speaker": "Tom",
     "text": "Anstatt sech also nëmmen iwwert de Pabeierkrom ze beschwéieren, kann ee wierklech eppes dogéint maachen.",
-    "t": 76.66
+    "t": 71.45
    },
    {
     "speaker": "Anna",
     "text": "Genee. Säi Slogan seet et wonnerbar... ëffentlech Servicer déi Iech den Alldag méi einfach maachen.",
-    "t": 82.23
+    "t": 75.74
    },
    {
     "speaker": "Tom",
     "text": "A wien ass dohannert?",
-    "t": 89.47
+    "t": 82.21
    },
    {
     "speaker": "Anna",
     "text": "Si gëtt vum Ministère fir Digitaliséierung gefouert, iwwert en Organ dat de Vereinfachungsrot heescht.",
-    "t": 91.73
+    "t": 83.54
    },
    {
     "speaker": "Tom",
     "text": "D'Plattform gouf 2022 lancéiert, an si ass Deel vun engem méi groussen Effort fir d'Verwaltungsvereinfachung.",
-    "t": 97.73
+    "t": 89.38
    },
    {
     "speaker": "Anna",
     "text": "Dee méi groussen Effort huet souguer säin eegenen Numm... „Einfach Lëtzebuerg\", wat „Einfach Lëtzebuerg\" bedeit.",
-    "t": 104.48
+    "t": 95.54
    },
    {
     "speaker": "Tom",
     "text": "Komme mer zum Häerz vun der Saach. Wéi funktionéiert d'Plattform eigentlech?",
-    "t": 111.34
+    "t": 102.41
    },
    {
     "speaker": "Anna",
     "text": "Déi grouss Iddi ass, déi richteg Erfarung vun de Bierger an Entreprisen an de Mëttelpunkt ze setzen.",
-    "t": 116.8
+    "t": 105.94
    },
    {
     "speaker": "Tom",
     "text": "Well d'Leit déi eng Prozedur all Dag benotzen, verstinn dacks am beschten hir Problemer.",
-    "t": 122.18
+    "t": 110.7
    },
    {
     "speaker": "Anna",
     "text": "Esou kënnen d'Bierger an d'Entreprisen d'Initiativ ergräifen, an Iddien araichen, fir dem Staat seng Prozeduren ze vereinfachen.",
-    "t": 127.66
+    "t": 115.28
    },
    {
     "speaker": "Tom",
     "text": "Dir hutt eppes Ëmständleches gemierkt, eppes dat méi einfach kéint sinn? Dir kënnt virschloen, wéi een et verbessert.",
-    "t": 134.37
+    "t": 122.39
    },
    {
     "speaker": "Anna",
-    "text": "An dann passéiert d'Aarbecht op eng participativ, ko-kreativ Manéier... zesummen mat de Leit déi et virgeschloen hunn.",
-    "t": 141.54
+    "text": "An dann passéiert d'Aarbecht op eng participativ, ko-kreativ Manéier... zesummen mat de Leit déi et virgeschloen hunn. Ministèren an Administratiounen kënnen do och hir eege Projeten publizéieren, fir d'Meenung vun de Leit ze froen.",
+    "t": 128.06
    },
    {
     "speaker": "Tom",
     "text": "Ech mengen, et hëlleft, sech et als e Projet virzestellen deen duerch verschidde Phasen geet.",
-    "t": 148.07
+    "t": 140.52
    },
    {
     "speaker": "Anna",
     "text": "Jo. Et gëtt eng Phas fir Iddien ze deelen, an dann Phasen fir un enger Léisung ze schaffen an se ze testen.",
-    "t": 152.4
+    "t": 144.67
    },
    {
     "speaker": "Tom",
     "text": "An hei ass en Detail deen ech wierklech schätzen. Dir musst Iech net fir de ganze Wee verflichten.",
-    "t": 160.17
+    "t": 151.1
    },
    {
     "speaker": "Anna",
     "text": "Dat stëmmt. Dir kënnt un nëmmen enger Phas deelhuelen, oder un e puer, esou vill wéi Dir wëllt.",
-    "t": 166.74
+    "t": 155.71
    },
    {
     "speaker": "Tom",
     "text": "Dir sidd also fräi. Dir gitt wat Dir kënnt, wann Dir kënnt. Ouni Drock.",
-    "t": 173.71
+    "t": 160.63
    },
    {
     "speaker": "Anna",
     "text": "An d'Plattform begréisst jiddereen, an all eise véier Sproochen... Lëtzebuergesch, Däitsch, Franséisch an Englesch.",
-    "t": 180.83
+    "t": 164.81
    },
    {
     "speaker": "Tom",
     "text": "Dat ass wierklech wichteg an engem Land esou méisproochegt wéi Lëtzebuerg. Jiddereen kann a senger eegener Sprooch matmaachen.",
-    "t": 189.12
+    "t": 171.82
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer dat konkret maachen. Wat fir eng Saach kéint vereinfacht ginn?",
-    "t": 196.58
+    "t": 177.6
    },
    {
     "speaker": "Tom",
     "text": "Stellt Iech e Formulaire vir deen no Informatioune freet déi de Staat scho huet. Firwat se nach eng Kéier aginn?",
-    "t": 201.86
+    "t": 181.43
    },
    {
     "speaker": "Anna",
     "text": "Oder eng Prozedur déi dräi verschidde Büroen abezitt, wou een géif duergoen.",
-    "t": 208.74
+    "t": 186.22
    },
    {
     "speaker": "Tom",
     "text": "Oder Instruktiounen déi schwéier ze verstoe sinn, déi an enger kloerer Sprooch kéinte geschriwwe ginn.",
-    "t": 213.6
+    "t": 190.74
    },
    {
     "speaker": "Anna",
     "text": "E gutt Beispill sinn déi digital Servicer. D'Plattform gouf benotzt fir d'MyGuichet-App ze verbesseren.",
-    "t": 218.82
+    "t": 195.35
    },
    {
     "speaker": "Tom",
     "text": "A mir hunn an enger fréierer Episod iwwer MyGuichet geschwat. Et ass dem Staat säin Online-Schalter.",
-    "t": 225.95
+    "t": 201.92
    },
    {
     "speaker": "Anna",
     "text": "Esou hunn richteg Benotzer Réckmeldung ginn, an déi Réckmeldung huet gehollef en Outil ze gestalten, duerch deen Millioune Prozeduren goen.",
-    "t": 232.96
+    "t": 206.82
    },
    {
     "speaker": "Tom",
     "text": "Dat ass d'Magie. Dem klenge Virschlag vun enger Persoun kann d'Liewe fir Dausende verbesseren.",
-    "t": 239.85
+    "t": 213.19
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer doriwwer schwätzen, firwat dëse Wee wichteg ass, iwwert de Pabeierkrom selwer eraus.",
-    "t": 246.22
+    "t": 217.74
    },
    {
     "speaker": "Tom",
     "text": "Éischtens spuert en Zäit. Méi einfach Prozeduren bedeite manner Stress, fir Bierger a fir d'Personal.",
-    "t": 251.15
+    "t": 222.51
    },
    {
     "speaker": "Anna",
     "text": "Zweetens schaaft en Vertrauen. Wann de Staat nolauschtert, fille sech d'Leit respektéiert, a fille sech als Deel vun de Saachen.",
-    "t": 258.61
+    "t": 228.02
    },
    {
     "speaker": "Tom",
     "text": "An drëttens ass et demokratesch, op eng roueg, alldeeglech Manéier.",
-    "t": 266.42
+    "t": 234.85
    },
    {
     "speaker": "Anna",
     "text": "Jo. Demokratie ass net nëmmen all puer Joer wielen. Et ass och hëllefen, déi Servicer ze gestalten déi Dir benotzt.",
-    "t": 270.91
+    "t": 238.43
    },
    {
     "speaker": "Tom",
     "text": "An dat passt perfekt zum Geescht vum Biergerpakt... Bierger an de Staat, déi zesummeschaffen.",
-    "t": 279.89
+    "t": 245.67
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och eppes Hoffnungsvolles hei. Frustratioun kann an Verbesserung verwandelt ginn.",
-    "t": 286.07
+    "t": 252.49
    },
    {
     "speaker": "Tom",
     "text": "Anstatt „dat ass nerveg\", gëtt et „hei ass wéi mir et besser kéinte maachen\".",
-    "t": 292.11
+    "t": 257.22
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, loosse mer dat praktesch maachen. Wéi kann ee wierklech deelhuelen?",
-    "t": 296.88
+    "t": 261.76
    },
    {
     "speaker": "Tom",
     "text": "Éischtens... d'nächst Kéier wann eng Prozedur Iech frustréiert, schreift d'Iddi op anstatt nëmmen ze sëfzen.",
-    "t": 302.98
+    "t": 266.3
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... besicht d'Plattform Zesumme Vereinfachen an deelt Äre Virschlag, a senger eegener Sprooch.",
-    "t": 308.69
+    "t": 271.66
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... wann Dir wëllt, verfollegt en duerch eng oder méi Phasen, an hëlleft d'Léisung mat ze gestalten.",
-    "t": 315.04
+    "t": 278.4
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... denkt drun, souguer eng kleng Iddi kann e richtegen Ënnerscheed fir vill Leit maachen.",
-    "t": 320.71
+    "t": 284.09
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer alles zesummebréngen. Wat sollten d'Leit sech iwwer Zesumme Vereinfachen mierken?",
-    "t": 326.44
+    "t": 289.33
    },
    {
     "speaker": "Anna",
     "text": "Éischtens... et ass eng Plattform wou Bierger an Entreprisen hëllefen, dem Staat seng Prozeduren ze vereinfachen.",
-    "t": 332.83
+    "t": 294.01
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... si gëtt vum Ministère fir Digitaliséierung gefouert, a gouf 2022 lancéiert, als Deel vun „Einfach Lëtzebuerg\".",
-    "t": 338.87
+    "t": 299.95
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... Dir kënnt Iddien araichen, un enger Phas oder ville matmaachen, an all eenzel vun de véier Sproochen.",
-    "t": 346.51
+    "t": 307.34
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... si huet schonn gehollef richteg Servicer ze verbesseren, wéi d'MyGuichet-App.",
-    "t": 352.88
+    "t": 313.35
    },
    {
     "speaker": "Anna",
     "text": "De Pabeierkrom gëtt vläicht ni spannend. Mä d'Chance fir en ze vereinfachen, zesummen, ass wierklech stäerkend.",
-    "t": 358.12
+    "t": 318.44
    },
    {
     "speaker": "Tom",
     "text": "Also d'nächst Kéier wann eppes ze komplizéiert schéngt, denkt drun... Är Stëmm kann hëllefen, et ze verbesseren.",
-    "t": 365.89
+    "t": 325.28
    },
    {
     "speaker": "Anna",
-    "text": "Villmools Merci datt Dir haut nogelauschtert hutt.",
-    "t": 371.36
+    "text": "Dat war eis Episod iwwer Zesumme Vereinfachen. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 330.27
    },
    {
     "speaker": "Tom",
-    "text": "Passt op Iech op, a bis an der nächster Episod. Äddi!",
-    "t": 374.31
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 374.4
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 379.46
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 377.6
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 24,
@@ -67726,7 +67804,7 @@ const EPISODES = [
   "title": "CGDIS and 112 – Luxembourg's Fire and Rescue Service",
   "description": "What the CGDIS (the Grand Ducal Fire and Rescue Corps) is, the emergency number 112 to know by heart, its missions (firefighting, rescue and emergency medical help), how to make a good 112 call, the thousands of volunteer firefighters, how to become a volunteer (including young people), and the first-aid courses and prevention advice it offers.",
   "audio": "podcast_cgdis.mp3",
-  "duration": 516.91,
+  "duration": 504.35,
   "topics": [
    "What the CGDIS is",
    "Call 112 in any emergency",
@@ -67740,608 +67818,613 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's good to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.38
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.42
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.52
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to feel safe and at home here.",
-    "t": 14.34
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today's topic could, one day, save a life... including maybe your own.",
-    "t": 21.41
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "We are talking about emergencies.",
-    "t": 26.4
+    "t": 32.31
    },
    {
     "speaker": "Anna",
-    "text": "A fire.",
-    "t": 29.31
-   },
-   {
-    "speaker": "Anna",
-    "text": "A car accident.",
-    "t": 31.13
+    "text": "A fire. A car accident.",
+    "t": 34.29
    },
    {
     "speaker": "Anna",
     "text": "Someone who suddenly collapses.",
-    "t": 33.28
+    "t": 36.77
    },
    {
     "speaker": "Tom",
     "text": "In those frightening moments, who comes to help?",
-    "t": 36.12
+    "t": 39.06
    },
    {
     "speaker": "Tom",
     "text": "And how do you reach them?",
-    "t": 39.58
+    "t": 41.96
    },
    {
     "speaker": "Anna",
     "text": "The answer is an organisation called the CGDIS, and a number you must never forget... 1-1-2.",
-    "t": 41.8
+    "t": 43.38
    },
    {
     "speaker": "Tom",
     "text": "Let's start with the number, because it is the most important thing in this whole episode.",
-    "t": 49.6
+    "t": 50.29
    },
    {
     "speaker": "Anna",
     "text": "In Luxembourg, in any emergency, you call 1-1-2.",
-    "t": 54.88
+    "t": 55.12
    },
    {
     "speaker": "Tom",
     "text": "It is free.",
-    "t": 59.46
+    "t": 58.65
    },
    {
     "speaker": "Tom",
     "text": "It works from any phone, even without credit.",
-    "t": 61.43
+    "t": 59.55
    },
    {
     "speaker": "Tom",
     "text": "And it works day and night, every day of the year.",
-    "t": 65.09
+    "t": 61.7
    },
    {
     "speaker": "Anna",
     "text": "You call 1-1-2 for a fire, for a serious accident, or for a medical emergency... someone badly hurt, or whose life is in danger.",
-    "t": 68.54
+    "t": 64.67
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what exactly is the CGDIS?",
-    "t": 77.64
+    "t": 73.13
    },
    {
     "speaker": "Anna",
     "text": "CGDIS stands for the Corps grand-ducal d'incendie et de secours.",
-    "t": 81.55
+    "t": 75.75
    },
    {
     "speaker": "Anna",
     "text": "In English, the Grand Ducal Fire and Rescue Corps.",
-    "t": 85.99
+    "t": 81.82
    },
    {
     "speaker": "Tom",
     "text": "It is Luxembourg's national fire and rescue service.",
-    "t": 90.1
+    "t": 85.36
    },
    {
     "speaker": "Anna",
     "text": "It was created in 2018, bringing the country's fire brigades and civil-protection services together into one single national organisation.",
-    "t": 94.07
+    "t": 88.48
    },
    {
     "speaker": "Tom",
     "text": "Before that, rescue was organised more locally.",
-    "t": 103.31
+    "t": 97.76
    },
    {
     "speaker": "Tom",
     "text": "Now it is unified, which makes help faster and more coordinated.",
-    "t": 107.2
+    "t": 100.66
    },
    {
     "speaker": "Anna",
     "text": "And it works under the Ministry of Home Affairs, alongside the communes.",
-    "t": 111.77
+    "t": 104.48
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about what the CGDIS actually does.",
-    "t": 116.52
+    "t": 109.41
    },
    {
     "speaker": "Tom",
     "text": "It has a few big missions.",
-    "t": 120.54
+    "t": 112.73
    },
    {
     "speaker": "Anna",
     "text": "The first is firefighting... putting out fires and rescuing people from them.",
-    "t": 123.14
+    "t": 114.94
    },
    {
     "speaker": "Tom",
     "text": "The second is rescue in a broad sense... road accidents, people trapped, floods, dangerous situations.",
-    "t": 128.34
+    "t": 120.18
    },
    {
     "speaker": "Anna",
     "text": "And the third is emergency medical help... the ambulances that come when someone is seriously ill or injured.",
-    "t": 135.13
+    "t": 126.94
    },
    {
     "speaker": "Tom",
     "text": "So fire, rescue, and medical emergencies all come together in one service.",
-    "t": 141.84
+    "t": 134.25
    },
    {
     "speaker": "Anna",
     "text": "Now, let's go back to that call.",
-    "t": 147.17
+    "t": 139.22
    },
    {
     "speaker": "Anna",
     "text": "When you dial 1-1-2, where does it go?",
-    "t": 150.23
+    "t": 141.11
    },
    {
     "speaker": "Tom",
     "text": "It goes to the emergency call centre, the CSU-112.",
-    "t": 153.83
+    "t": 144.23
    },
    {
     "speaker": "Tom",
     "text": "Trained operators answer, day and night.",
-    "t": 158.34
+    "t": 148.03
    },
    {
     "speaker": "Anna",
     "text": "They listen, they understand what is happening, and they send the right help to the right place.",
-    "t": 161.84
+    "t": 150.87
    },
    {
     "speaker": "Tom",
     "text": "And here is something really useful... how to make that call well, because it matters.",
-    "t": 167.64
+    "t": 156.44
    },
    {
     "speaker": "Anna",
     "text": "First, try to stay as calm as you can.",
-    "t": 172.81
+    "t": 161.57
    },
    {
     "speaker": "Anna",
     "text": "Take a breath.",
-    "t": 176.16
+    "t": 164.28
    },
    {
     "speaker": "Anna",
     "text": "The operator is there to help you.",
-    "t": 178.09
+    "t": 165.5
    },
    {
     "speaker": "Tom",
     "text": "Second, say where you are.",
-    "t": 180.82
+    "t": 167.8
    },
    {
     "speaker": "Tom",
     "text": "The exact place... the address, the town, a landmark.",
-    "t": 183.6
+    "t": 169.98
    },
    {
     "speaker": "Tom",
     "text": "Location is everything.",
-    "t": 187.91
+    "t": 173.92
    },
    {
     "speaker": "Anna",
     "text": "Third, say what has happened.",
-    "t": 190.32
+    "t": 175.84
    },
    {
     "speaker": "Anna",
-    "text": "A fire?",
-    "t": 193.08
-   },
-   {
-    "speaker": "Anna",
-    "text": "An accident?",
-    "t": 194.85
+    "text": "A fire? An accident?",
+    "t": 177.65
    },
    {
     "speaker": "Anna",
     "text": "Someone not breathing?",
-    "t": 196.78
+    "t": 179.37
    },
    {
     "speaker": "Tom",
     "text": "Fourth, say how many people are involved, and whether anyone is in danger.",
-    "t": 198.91
+    "t": 180.94
    },
    {
     "speaker": "Anna",
     "text": "And fifth, answer the operator's questions, and do not hang up until they tell you to.",
-    "t": 203.84
+    "t": 185.62
    },
    {
     "speaker": "Tom",
     "text": "The operator may even guide you on what to do while help is on the way.",
-    "t": 209.57
+    "t": 191.06
    },
    {
     "speaker": "Tom",
     "text": "So stay on the line.",
-    "t": 214.1
+    "t": 194.84
    },
    {
     "speaker": "Anna",
     "text": "There is also an important \"when not to call\".",
-    "t": 216.47
+    "t": 196.42
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 219.85
-   },
-   {
-    "speaker": "Tom",
-    "text": "1-1-2 is for real emergencies.",
-    "t": 221.51
+    "text": "Yes. 1-1-2 is for real emergencies.",
+    "t": 199.12
    },
    {
     "speaker": "Tom",
     "text": "Please don't call it for information, or for a minor problem.",
-    "t": 224.77
+    "t": 201.87
    },
    {
     "speaker": "Anna",
     "text": "Every needless call can block the line for someone whose life truly depends on it.",
-    "t": 229.08
+    "t": 205.23
    },
    {
     "speaker": "Tom",
     "text": "For non-urgent health questions, there are other options, like the on-call doctor service.",
-    "t": 234.23
+    "t": 210.07
    },
    {
     "speaker": "Anna",
     "text": "Now let's talk about the people behind the CGDIS, because their story is remarkable.",
-    "t": 239.78
+    "t": 214.99
    },
    {
     "speaker": "Tom",
     "text": "The CGDIS has professional firefighters, who do this as their full-time job.",
-    "t": 245.6
+    "t": 220.57
    },
    {
     "speaker": "Anna",
     "text": "But here is the amazing part.",
-    "t": 251.06
+    "t": 225.61
    },
    {
     "speaker": "Anna",
     "text": "It also relies on thousands of volunteers.",
-    "t": 253.71
+    "t": 227.63
    },
    {
     "speaker": "Tom",
-    "text": "More than three thousand nine hundred volunteer firefighters.",
-    "t": 257.28
+    "text": "Thousands of volunteer firefighters.",
+    "t": 230.96
    },
    {
     "speaker": "Tom",
-    "text": "That is about ninety percent of the operational force.",
-    "t": 261.41
+    "text": "About nine in ten firefighters are volunteers.",
+    "t": 232.99
    },
    {
     "speaker": "Anna",
-    "text": "Ninety percent!",
-    "t": 265.43
+    "text": "Nine in ten!",
+    "t": 235.76
    },
    {
     "speaker": "Anna",
     "text": "So most of the people who rush to help you are volunteers.",
-    "t": 267.49
+    "t": 236.99
    },
    {
     "speaker": "Tom",
     "text": "They have ordinary jobs and families.",
-    "t": 271.44
+    "t": 240.5
    },
    {
     "speaker": "Tom",
     "text": "But when the alarm sounds, they drop everything to help their neighbours.",
-    "t": 274.55
+    "t": 242.4
    },
    {
     "speaker": "Anna",
     "text": "It's a beautiful kind of solidarity.",
-    "t": 278.99
+    "t": 246.38
    },
    {
     "speaker": "Anna",
     "text": "People protecting people, freely.",
-    "t": 281.96
+    "t": 248.82
    },
    {
     "speaker": "Tom",
     "text": "Let's look briefly at how the CGDIS is organised across the country.",
-    "t": 285.12
+    "t": 251.74
    },
    {
     "speaker": "Anna",
     "text": "There are fire and rescue stations, called CIS, spread all over Luxembourg, so help is never far away.",
-    "t": 289.98
+    "t": 256.59
    },
    {
     "speaker": "Tom",
     "text": "There is a national centre, the CNIS, near Luxembourg City, which coordinates the whole system.",
-    "t": 297.51
+    "t": 263.57
    },
    {
     "speaker": "Anna",
     "text": "And there are specialised groups for difficult rescues... water rescue, dangerous materials, rescues from great heights.",
-    "t": 303.79
+    "t": 269.48
    },
    {
     "speaker": "Tom",
     "text": "The equipment is impressive too.",
-    "t": 311.77
+    "t": 277.34
    },
    {
     "speaker": "Tom",
     "text": "For example, modern aerial platforms can lift rescuers to reach people more than thirty metres up.",
-    "t": 314.7
+    "t": 279.18
    },
    {
     "speaker": "Anna",
     "text": "So a small country has a very modern, well-organised rescue service.",
-    "t": 320.96
+    "t": 284.91
    },
    {
     "speaker": "Anna",
     "text": "That's reassuring.",
-    "t": 325.89
+    "t": 288.77
    },
    {
     "speaker": "Tom",
     "text": "Now, Anna, here's something many listeners might not have thought about.",
-    "t": 328.02
+    "t": 290.41
    },
    {
     "speaker": "Tom",
     "text": "You can be part of this.",
-    "t": 332.48
+    "t": 294.4
    },
    {
     "speaker": "Anna",
-    "text": "Yes!",
-    "t": 334.9
-   },
-   {
-    "speaker": "Anna",
-    "text": "The CGDIS welcomes new volunteers.",
-    "t": 336.59
+    "text": "Yes! The CGDIS welcomes new volunteers.",
+    "t": 296.12
    },
    {
     "speaker": "Anna",
     "text": "You don't have to be a hero already... they train you.",
-    "t": 340.12
+    "t": 299.58
    },
    {
     "speaker": "Tom",
     "text": "And young people can join too, as junior firefighters, the Jeunes Pompiers, or in Luxembourgish, the Jugendpompjeeën.",
-    "t": 343.87
+    "t": 302.92
    },
    {
     "speaker": "Anna",
     "text": "There are also professional careers... as a firefighter, an officer, or in technical and administrative roles.",
-    "t": 351.26
+    "t": 310.47
    },
    {
     "speaker": "Tom",
     "text": "So if you want to serve your community in a very concrete way, this is one of the most meaningful ways to do it.",
-    "t": 358.64
+    "t": 317.73
    },
    {
     "speaker": "Anna",
     "text": "It connects to something we said in our episode on volunteering... giving your time to help others.",
-    "t": 365.06
+    "t": 324
    },
    {
     "speaker": "Tom",
     "text": "Let's also talk about training and prevention, because the CGDIS does more than respond to emergencies.",
-    "t": 370.94
+    "t": 329.97
    },
    {
     "speaker": "Anna",
     "text": "It has a national training institute, the INFS, which trains its rescuers to a high standard.",
-    "t": 377.56
+    "t": 336.71
    },
    {
     "speaker": "Tom",
     "text": "And it offers first-aid courses to the public.",
-    "t": 384.14
+    "t": 343.71
    },
    {
     "speaker": "Tom",
     "text": "Learning first aid is one of the most valuable things you can do.",
-    "t": 387.6
+    "t": 346.11
    },
    {
     "speaker": "Anna",
     "text": "Because in the first minutes of an emergency, an ordinary person nearby can make all the difference.",
-    "t": 391.93
+    "t": 349.89
    },
    {
     "speaker": "Tom",
     "text": "The CGDIS also gives fire-prevention advice... simple things that keep your home safer.",
-    "t": 398.08
+    "t": 356.04
    },
    {
     "speaker": "Anna",
     "text": "Like having working smoke detectors, knowing your exits, and being careful with candles and cooking.",
-    "t": 404.1
+    "t": 362.14
    },
    {
     "speaker": "Tom",
     "text": "And if you organise a big public event, you may need to declare it, so the rescue services can plan medical cover.",
-    "t": 410.56
+    "t": 368.17
    },
    {
     "speaker": "Anna",
     "text": "So the CGDIS is there before, during, and after an emergency.",
-    "t": 417.71
+    "t": 375.03
    },
    {
     "speaker": "Anna",
     "text": "Preventing, responding, and caring.",
-    "t": 422.95
+    "t": 379.93
    },
    {
     "speaker": "Tom",
     "text": "So Tom... let's make this really practical.",
-    "t": 426.31
+    "t": 382.54
    },
    {
     "speaker": "Tom",
     "text": "What should everyone take away?",
-    "t": 429.86
+    "t": 385.69
    },
    {
     "speaker": "Anna",
     "text": "First, and most important... in any emergency in Luxembourg, call 1-1-2.",
-    "t": 432.54
+    "t": 387.44
    },
    {
     "speaker": "Tom",
     "text": "Second, teach it to your children, and to anyone new to the country.",
-    "t": 438.56
+    "t": 392.86
    },
    {
     "speaker": "Tom",
     "text": "One-one-two.",
-    "t": 443.11
+    "t": 396.41
    },
    {
     "speaker": "Anna",
     "text": "Third, when you call, give your location clearly, say what happened, and stay on the line.",
-    "t": 445.15
+    "t": 397.59
    },
    {
     "speaker": "Tom",
     "text": "Fourth, consider learning first aid... it is a gift you give to the people around you.",
-    "t": 451.31
+    "t": 403.67
    },
    {
     "speaker": "Anna",
     "text": "And fifth, if it speaks to you, think about becoming a volunteer with the CGDIS.",
-    "t": 456.61
+    "t": 408.49
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 462.68
+    "t": 413.94
    },
    {
     "speaker": "Tom",
     "text": "What should people remember?",
-    "t": 465.21
+    "t": 415.37
    },
    {
     "speaker": "Anna",
     "text": "First... the CGDIS is Luxembourg's national fire and rescue service, created in 2018.",
-    "t": 467.78
+    "t": 416.8
    },
    {
     "speaker": "Tom",
     "text": "Second... in any emergency, you call 1-1-2, free, any phone, day or night.",
-    "t": 475.26
+    "t": 424.3
    },
    {
     "speaker": "Anna",
     "text": "Third... most of its firefighters are volunteers, and you could become one too.",
-    "t": 481.39
+    "t": 429.14
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it also trains the public and gives prevention advice, so we can all help keep each other safe.",
-    "t": 486.72
+    "t": 433.86
    },
    {
     "speaker": "Anna",
     "text": "Emergencies are frightening.",
-    "t": 493.16
+    "t": 440.38
    },
    {
     "speaker": "Anna",
     "text": "But you are not alone.",
-    "t": 495.67
+    "t": 442.22
    },
    {
     "speaker": "Anna",
     "text": "Behind that number, people are ready to come.",
-    "t": 497.89
+    "t": 443.72
    },
    {
     "speaker": "Tom",
     "text": "And knowing how to reach them, calmly and clearly, is something every one of us can learn today.",
-    "t": 501.38
+    "t": 446.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "That was our episode about the CGDIS and the emergency number 112.",
+    "t": 452.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 457.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 467.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 485.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 492.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 494.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 499.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 500.64
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 506.84
-   },
-   {
-    "speaker": "Tom",
-    "text": "Take care, stay safe, and see you in the next episode.",
-    "t": 509.48
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 513.7
-   },
-   {
-    "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 515.38
+    "t": 502.76
    }
   ],
   "questions": [
@@ -68376,7 +68459,7 @@ const EPISODES = [
      "About 90%"
     ],
     "correct": 3,
-    "explanation": "More than 3,900 volunteer firefighters make up around 90% of the CGDIS's operational workforce. They have ordinary jobs but drop everything to help when the alarm sounds."
+    "explanation": "Thousands of volunteers make up around 90% of the CGDIS's firefighters (CGDIS annual report 2025). They have ordinary jobs but drop everything to help when the alarm sounds."
    },
    {
     "text": "When you call 112, what should you do?",
@@ -68449,7 +68532,7 @@ const EPISODES = [
      "Environ 90 %"
     ],
     "correct": 3,
-    "explanation": "Plus de 3 900 pompiers volontaires représentent environ 90 % de l'effectif opérationnel du CGDIS. Ils ont un travail ordinaire mais laissent tout tomber pour aider quand l'alarme retentit."
+    "explanation": "Des milliers de volontaires représentent environ 90 % des pompiers du CGDIS (rapport annuel 2025). Ils ont un travail ordinaire mais laissent tout tomber pour aider quand l'alarme retentit."
    },
    {
     "text": "Lorsque vous appelez le 112, que devez-vous faire ?",
@@ -68518,7 +68601,7 @@ const EPISODES = [
      "Etwa 90 %"
     ],
     "correct": 3,
-    "explanation": "Mehr als 3 900 freiwillige Feuerwehrleute machen rund 90 % der einsatzfähigen Belegschaft des CGDIS aus. Sie haben einen normalen Beruf, lassen aber alles stehen und liegen, um zu helfen, wenn der Alarm ertönt."
+    "explanation": "Tausende Freiwillige machen rund 90 % der Feuerwehrleute des CGDIS aus (Jahresbericht 2025). Sie haben einen normalen Beruf, lassen aber alles stehen und liegen, um zu helfen, wenn der Alarm ertönt."
    },
    {
     "text": "Was sollten Sie tun, wenn Sie die 112 anrufen?",
@@ -68544,1621 +68627,1620 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_cgdis_fr.mp3",
-  "duration_fr": 550.68,
+  "duration_fr": 493.71,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bon retour parmi nous !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "C'est un plaisir de vous compter parmi nous aujourd'hui.",
-    "t": 3.09
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.73
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 9.31
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
-    "t": 12.77
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et aussi les frontaliers, à se sentir en sécurité et chez eux ici.",
-    "t": 16.43
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui pourrait, un jour, sauver une vie... y compris peut-être la vôtre.",
-    "t": 24.14
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "Nous parlons des urgences.",
-    "t": 29.85
+    "t": 27.72
    },
    {
     "speaker": "Anna",
-    "text": "Un incendie.",
-    "t": 32.33
-   },
-   {
-    "speaker": "Anna",
-    "text": "Un accident de voiture.",
-    "t": 34.26
+    "text": "Un incendie. Un accident de voiture.",
+    "t": 29.2
    },
    {
     "speaker": "Anna",
     "text": "Quelqu'un qui s'effondre soudainement.",
-    "t": 36.66
+    "t": 31.64
    },
    {
     "speaker": "Tom",
     "text": "Dans ces moments effrayants, qui vient à votre secours ?",
-    "t": 39.5
+    "t": 33.61
    },
    {
     "speaker": "Tom",
     "text": "Et comment les joindre ?",
-    "t": 43.25
+    "t": 36.7
    },
    {
     "speaker": "Anna",
     "text": "La réponse est une organisation appelée le CGDIS, et un numéro que vous ne devez jamais oublier... 1-1-2.",
-    "t": 45.34
+    "t": 38.22
    },
    {
     "speaker": "Tom",
     "text": "Commençons par le numéro, car c'est la chose la plus importante de tout cet épisode.",
-    "t": 53.46
+    "t": 45.61
    },
    {
     "speaker": "Anna",
     "text": "Au Luxembourg, en cas d'urgence, vous appelez le 1-1-2.",
-    "t": 58.68
+    "t": 50.13
    },
    {
     "speaker": "Tom",
-    "text": "C'est gratuit.",
-    "t": 63.48
-   },
-   {
-    "speaker": "Tom",
-    "text": "Cela fonctionne depuis n'importe quel téléphone, même sans crédit.",
-    "t": 65.34
+    "text": "C'est gratuit. Cela fonctionne depuis n'importe quel téléphone, même sans crédit.",
+    "t": 53.05
    },
    {
     "speaker": "Tom",
     "text": "Et cela fonctionne jour et nuit, tous les jours de l'année.",
-    "t": 69.85
+    "t": 57.61
    },
    {
     "speaker": "Anna",
     "text": "Vous appelez le 1-1-2 pour un incendie, pour un accident grave, ou pour une urgence médicale... une personne grièvement blessée, ou dont la vie est en danger.",
-    "t": 73.54
+    "t": 60.51
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qu'est-ce que le CGDIS exactement ?",
-    "t": 83.2
+    "t": 68.5
    },
    {
     "speaker": "Anna",
     "text": "CGDIS signifie Corps grand-ducal d'incendie et de secours.",
-    "t": 86.93
+    "t": 72.04
    },
    {
     "speaker": "Anna",
     "text": "En anglais, the Grand Ducal Fire and Rescue Corps.",
-    "t": 91.48
+    "t": 76.69
    },
    {
     "speaker": "Tom",
     "text": "C'est le service national d'incendie et de secours du Luxembourg.",
-    "t": 95.68
+    "t": 79.62
    },
    {
     "speaker": "Anna",
     "text": "Il a été créé en 2018, réunissant les corps de pompiers et les services de protection civile du pays en une seule organisation nationale.",
-    "t": 100.05
+    "t": 83.08
    },
    {
     "speaker": "Tom",
     "text": "Avant cela, les secours étaient organisés de manière plus locale.",
-    "t": 108.78
+    "t": 90.24
    },
    {
     "speaker": "Tom",
     "text": "Maintenant, c'est unifié, ce qui rend l'aide plus rapide et mieux coordonnée.",
-    "t": 113.31
+    "t": 94.11
    },
    {
     "speaker": "Anna",
     "text": "Et il travaille sous l'autorité du ministère de l'Intérieur, aux côtés des communes.",
-    "t": 118.24
+    "t": 98.61
    },
    {
     "speaker": "Tom",
     "text": "Parlons de ce que fait réellement le CGDIS.",
-    "t": 123.35
+    "t": 102.7
    },
    {
     "speaker": "Tom",
     "text": "Il a quelques grandes missions.",
-    "t": 126.76
+    "t": 106.02
    },
    {
     "speaker": "Anna",
     "text": "La première est la lutte contre les incendies... éteindre les feux et en secourir les personnes.",
-    "t": 129.14
+    "t": 107.85
    },
    {
     "speaker": "Tom",
     "text": "La deuxième est le secours au sens large... accidents de la route, personnes coincées, inondations, situations dangereuses.",
-    "t": 134.87
+    "t": 112.99
    },
    {
     "speaker": "Anna",
     "text": "Et la troisième est l'aide médicale d'urgence... les ambulances qui viennent lorsque quelqu'un est gravement malade ou blessé.",
-    "t": 142.42
+    "t": 121.21
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, l'incendie, le secours et les urgences médicales se rejoignent dans un seul service.",
-    "t": 149.31
+    "t": 127.46
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, revenons à cet appel.",
-    "t": 155.46
+    "t": 132.77
    },
    {
     "speaker": "Anna",
     "text": "Quand vous composez le 1-1-2, où aboutit-il ?",
-    "t": 158.65
+    "t": 134.51
    },
    {
     "speaker": "Tom",
     "text": "Il aboutit au centre d'appels d'urgence, le CSU-112.",
-    "t": 162.43
+    "t": 137.06
    },
    {
     "speaker": "Tom",
     "text": "Des opérateurs formés répondent, jour et nuit.",
-    "t": 166.91
+    "t": 140.73
    },
    {
     "speaker": "Anna",
     "text": "Ils écoutent, ils comprennent ce qui se passe, et ils envoient la bonne aide au bon endroit.",
-    "t": 170.42
+    "t": 143.65
    },
    {
     "speaker": "Tom",
     "text": "Et voici quelque chose de vraiment utile... comment bien passer cet appel, car cela compte.",
-    "t": 175.95
+    "t": 147.78
    },
    {
     "speaker": "Anna",
     "text": "D'abord, essayez de rester aussi calme que possible.",
-    "t": 181.77
+    "t": 152.87
    },
    {
     "speaker": "Anna",
-    "text": "Respirez.",
-    "t": 186.08
-   },
-   {
-    "speaker": "Anna",
-    "text": "L'opérateur est là pour vous aider.",
-    "t": 187.89
+    "text": "Respirez. L'opérateur est là pour vous aider.",
+    "t": 155.61
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement, dites où vous êtes.",
-    "t": 190.71
+    "t": 158.06
    },
    {
     "speaker": "Tom",
     "text": "L'endroit exact... l'adresse, la localité, un point de repère.",
-    "t": 193.55
+    "t": 160.15
    },
    {
     "speaker": "Tom",
     "text": "La localisation est essentielle.",
-    "t": 198.51
+    "t": 164.61
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement, dites ce qui s'est passé.",
-    "t": 201.28
+    "t": 166.87
    },
    {
     "speaker": "Anna",
-    "text": "Un incendie ?",
-    "t": 204.5
-   },
-   {
-    "speaker": "Anna",
-    "text": "Un accident ?",
-    "t": 206.41
+    "text": "Un incendie ? Un accident ?",
+    "t": 169.1
    },
    {
     "speaker": "Anna",
     "text": "Quelqu'un qui ne respire pas ?",
-    "t": 208.25
+    "t": 170.91
    },
    {
     "speaker": "Tom",
     "text": "Quatrièmement, dites combien de personnes sont concernées, et si quelqu'un est en danger.",
-    "t": 210.66
+    "t": 172.49
    },
    {
     "speaker": "Anna",
     "text": "Et cinquièmement, répondez aux questions de l'opérateur, et ne raccrochez pas avant qu'il vous le dise.",
-    "t": 216.04
+    "t": 177.29
    },
    {
     "speaker": "Tom",
     "text": "L'opérateur peut même vous guider sur ce qu'il faut faire pendant que les secours arrivent.",
-    "t": 222.3
+    "t": 182.08
    },
    {
     "speaker": "Tom",
     "text": "Alors restez en ligne.",
-    "t": 227.19
+    "t": 186.32
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi un important « quand ne pas appeler ».",
-    "t": 229.45
+    "t": 187.95
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 232.96
-   },
-   {
-    "speaker": "Tom",
-    "text": "Le 1-1-2 est réservé aux vraies urgences.",
-    "t": 234.42
+    "text": "Oui. Le 1-1-2 est réservé aux vraies urgences.",
+    "t": 190.68
    },
    {
     "speaker": "Tom",
     "text": "Ne l'appelez pas, s'il vous plaît, pour une information, ou pour un problème mineur.",
-    "t": 238.02
+    "t": 193.66
    },
    {
     "speaker": "Anna",
     "text": "Chaque appel inutile peut bloquer la ligne pour quelqu'un dont la vie en dépend vraiment.",
-    "t": 243.5
+    "t": 197.63
    },
    {
     "speaker": "Tom",
     "text": "Pour les questions de santé non urgentes, il existe d'autres options, comme le service du médecin de garde.",
-    "t": 248.32
+    "t": 201.61
    },
    {
     "speaker": "Anna",
     "text": "Parlons maintenant des personnes derrière le CGDIS, car leur histoire est remarquable.",
-    "t": 254.69
+    "t": 207.21
    },
    {
     "speaker": "Tom",
     "text": "Le CGDIS compte des pompiers professionnels, qui en font leur métier à plein temps.",
-    "t": 260.34
+    "t": 212.14
    },
    {
     "speaker": "Anna",
     "text": "Mais voici la partie étonnante.",
-    "t": 265.44
+    "t": 217.55
    },
    {
     "speaker": "Anna",
     "text": "Il s'appuie aussi sur des milliers de bénévoles.",
-    "t": 268.24
+    "t": 219.27
    },
    {
     "speaker": "Tom",
-    "text": "Plus de trois mille neuf cents pompiers volontaires.",
-    "t": 271.64
+    "text": "Des milliers de pompiers volontaires.",
+    "t": 221.82
    },
    {
     "speaker": "Tom",
-    "text": "Cela représente environ quatre-vingt-dix pour cent de la force opérationnelle.",
-    "t": 274.68
+    "text": "Environ neuf pompiers sur dix sont des volontaires.",
+    "t": 223.79
    },
    {
     "speaker": "Anna",
-    "text": "Quatre-vingt-dix pour cent !",
-    "t": 279.25
+    "text": "Neuf sur dix !",
+    "t": 227.13
    },
    {
     "speaker": "Anna",
     "text": "Donc la plupart des personnes qui se précipitent pour vous secourir sont des bénévoles.",
-    "t": 281.4
+    "t": 228.34
    },
    {
     "speaker": "Tom",
     "text": "Ils ont des emplois ordinaires et des familles.",
-    "t": 286.73
+    "t": 232.07
    },
    {
     "speaker": "Tom",
     "text": "Mais quand l'alarme retentit, ils laissent tout tomber pour aider leurs voisins.",
-    "t": 289.82
+    "t": 234.59
    },
    {
     "speaker": "Anna",
     "text": "C'est une belle forme de solidarité.",
-    "t": 294.24
+    "t": 238.6
    },
    {
     "speaker": "Anna",
     "text": "Des gens qui protègent des gens, librement.",
-    "t": 297.21
+    "t": 240.65
    },
    {
     "speaker": "Tom",
     "text": "Regardons brièvement comment le CGDIS est organisé à travers le pays.",
-    "t": 300.41
+    "t": 243.2
    },
    {
     "speaker": "Anna",
     "text": "Il y a des centres d'incendie et de secours, appelés CIS, répartis dans tout le Luxembourg, pour que l'aide ne soit jamais loin.",
-    "t": 305.18
+    "t": 248.12
    },
    {
     "speaker": "Tom",
     "text": "Il y a un centre national, le CNIS, près de la Ville de Luxembourg, qui coordonne l'ensemble du système.",
-    "t": 313
+    "t": 254.82
    },
    {
     "speaker": "Anna",
     "text": "Et il y a des groupes spécialisés pour les sauvetages difficiles... sauvetage aquatique, matières dangereuses, sauvetages en grande hauteur.",
-    "t": 320.02
+    "t": 261.19
    },
    {
     "speaker": "Tom",
     "text": "L'équipement est impressionnant aussi.",
-    "t": 328.19
+    "t": 268.91
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, des plateformes aériennes modernes peuvent élever les sauveteurs pour atteindre des personnes à plus de trente mètres de hauteur.",
-    "t": 330.88
+    "t": 271.05
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, un petit pays possède un service de secours très moderne et bien organisé.",
-    "t": 337.98
+    "t": 278.13
    },
    {
     "speaker": "Anna",
     "text": "C'est rassurant.",
-    "t": 343.38
+    "t": 281.84
    },
    {
     "speaker": "Tom",
     "text": "Maintenant, Anna, voici quelque chose à quoi beaucoup d'auditeurs n'ont peut-être pas pensé.",
-    "t": 345.29
+    "t": 282.96
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez en faire partie.",
-    "t": 351.02
+    "t": 287.82
    },
    {
     "speaker": "Anna",
-    "text": "Oui !",
-    "t": 353.44
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le CGDIS accueille de nouveaux bénévoles.",
-    "t": 354.94
+    "text": "Oui ! Le CGDIS accueille de nouveaux bénévoles.",
+    "t": 289.5
    },
    {
     "speaker": "Anna",
     "text": "Vous n'avez pas besoin d'être déjà un héros... ils vous forment.",
-    "t": 358.49
+    "t": 292.6
    },
    {
     "speaker": "Tom",
     "text": "Et les jeunes peuvent aussi rejoindre, comme jeunes pompiers, les « Jeunes Pompiers », ou en luxembourgeois, les « Jugendpompjeeën ».",
-    "t": 362.56
+    "t": 295.96
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi des carrières professionnelles... comme pompier, officier, ou dans des fonctions techniques et administratives.",
-    "t": 370.64
+    "t": 302.87
    },
    {
     "speaker": "Tom",
     "text": "Donc si vous voulez servir votre communauté de manière très concrète, c'est l'une des façons les plus significatives de le faire.",
-    "t": 378.04
+    "t": 309.39
    },
    {
     "speaker": "Anna",
     "text": "Cela rejoint quelque chose que nous avons dit dans notre épisode sur le bénévolat... donner de son temps pour aider les autres.",
-    "t": 385.04
+    "t": 316.07
    },
    {
     "speaker": "Tom",
     "text": "Parlons aussi de la formation et de la prévention, car le CGDIS fait plus que répondre aux urgences.",
-    "t": 392.12
+    "t": 322.3
    },
    {
     "speaker": "Anna",
     "text": "Il a un institut national de formation, l'INFS, qui forme ses secouristes à un haut niveau.",
-    "t": 398.38
+    "t": 328.85
    },
    {
     "speaker": "Tom",
     "text": "Et il propose des cours de premiers secours au public.",
-    "t": 404.94
+    "t": 334.18
    },
    {
     "speaker": "Tom",
     "text": "Apprendre les premiers secours est l'une des choses les plus précieuses que vous puissiez faire.",
-    "t": 408.49
+    "t": 337.05
    },
    {
     "speaker": "Anna",
     "text": "Parce que dans les premières minutes d'une urgence, une personne ordinaire à proximité peut faire toute la différence.",
-    "t": 413.28
+    "t": 341.54
    },
    {
     "speaker": "Tom",
     "text": "Le CGDIS donne aussi des conseils de prévention des incendies... des choses simples qui rendent votre maison plus sûre.",
-    "t": 420.04
+    "t": 347.01
    },
    {
     "speaker": "Anna",
     "text": "Comme avoir des détecteurs de fumée qui fonctionnent, connaître ses issues, et faire attention avec les bougies et la cuisine.",
-    "t": 426.68
+    "t": 355.01
    },
    {
     "speaker": "Tom",
     "text": "Et si vous organisez un grand événement public, vous devrez peut-être le déclarer, afin que les services de secours puissent prévoir une couverture médicale.",
-    "t": 434.07
+    "t": 361.01
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, le CGDIS est là avant, pendant et après une urgence.",
-    "t": 442.78
+    "t": 369.24
    },
    {
     "speaker": "Anna",
     "text": "Prévenir, intervenir, et prendre soin.",
-    "t": 447.6
+    "t": 373.21
    },
    {
     "speaker": "Tom",
     "text": "Alors Tom... rendons cela vraiment concret.",
-    "t": 451.33
+    "t": 375.54
    },
    {
     "speaker": "Tom",
     "text": "Que devrait retenir chacun ?",
-    "t": 454.66
+    "t": 378.19
    },
    {
     "speaker": "Anna",
     "text": "D'abord, et le plus important... en cas d'urgence au Luxembourg, appelez le 1-1-2.",
-    "t": 457.03
+    "t": 379.89
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement, apprenez-le à vos enfants, et à toute personne nouvelle dans le pays.",
-    "t": 463.36
+    "t": 384.61
    },
    {
     "speaker": "Tom",
     "text": "Un-un-deux.",
-    "t": 468.58
+    "t": 389.46
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement, quand vous appelez, donnez clairement votre localisation, dites ce qui s'est passé, et restez en ligne.",
-    "t": 470.2
+    "t": 390.51
    },
    {
     "speaker": "Tom",
     "text": "Quatrièmement, envisagez d'apprendre les premiers secours... c'est un cadeau que vous offrez aux personnes qui vous entourent.",
-    "t": 477.51
+    "t": 396.47
    },
    {
     "speaker": "Anna",
     "text": "Et cinquièmement, si cela vous parle, pensez à devenir bénévole au CGDIS.",
-    "t": 484.04
+    "t": 402.75
    },
    {
     "speaker": "Tom",
     "text": "Rassemblons tout cela.",
-    "t": 489.68
+    "t": 407.93
    },
    {
     "speaker": "Tom",
     "text": "Que doivent retenir les gens ?",
-    "t": 491.96
+    "t": 409.43
    },
    {
     "speaker": "Anna",
     "text": "Premièrement... le CGDIS est le service national d'incendie et de secours du Luxembourg, créé en 2018.",
-    "t": 494.25
+    "t": 411.27
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... en cas d'urgence, vous appelez le 1-1-2, gratuit, depuis n'importe quel téléphone, jour et nuit.",
-    "t": 501.78
+    "t": 417.46
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... la plupart de ses pompiers sont des bénévoles, et vous pourriez en devenir un aussi.",
-    "t": 509.51
+    "t": 424.58
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... il forme aussi le public et donne des conseils de prévention, pour que nous puissions tous nous aider à rester en sécurité.",
-    "t": 515.75
+    "t": 429.11
    },
    {
     "speaker": "Anna",
     "text": "Les urgences font peur.",
-    "t": 523.56
+    "t": 436.49
    },
    {
     "speaker": "Anna",
     "text": "Mais vous n'êtes pas seul.",
-    "t": 526.05
+    "t": 437.9
    },
    {
     "speaker": "Anna",
     "text": "Derrière ce numéro, des gens sont prêts à venir.",
-    "t": 528.38
+    "t": 439.24
    },
    {
     "speaker": "Tom",
     "text": "Et savoir comment les joindre, calmement et clairement, est quelque chose que chacun d'entre nous peut apprendre dès aujourd'hui.",
-    "t": 532.13
+    "t": 441.6
    },
    {
     "speaker": "Anna",
-    "text": "Merci infiniment de nous avoir écoutés.",
-    "t": 538.82
-   },
-   {
-    "speaker": "Tom",
-    "text": "Prenez soin de vous, restez en sécurité, et à bientôt pour le prochain épisode.",
-    "t": 542.06
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 547.54
+    "text": "C'était notre épisode sur le CGDIS et le numéro d'urgence 112.",
+    "t": 447.97
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 549.07
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 452.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 461
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 477.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 482.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 483.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 488.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 489.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 491.95
    }
   ],
   "audio_de": "podcast_cgdis_de.mp3",
-  "duration_de": 607.87,
+  "duration_de": 568.74,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Es ist schön, dass Sie heute bei uns sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.78
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.84
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 12.24
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, sich hier sicher und zu Hause zu fühlen.",
-    "t": 16.61
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema könnte eines Tages ein Leben retten... vielleicht sogar Ihr eigenes.",
-    "t": 25.18
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Wir sprechen über Notfälle.",
-    "t": 30.98
+    "t": 32.82
    },
    {
     "speaker": "Anna",
-    "text": "Ein Brand.",
-    "t": 33.64
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ein Autounfall.",
-    "t": 35.39
+    "text": "Ein Brand. Ein Autounfall.",
+    "t": 34.54
    },
    {
     "speaker": "Anna",
     "text": "Jemand, der plötzlich zusammenbricht.",
-    "t": 37.55
+    "t": 37
    },
    {
     "speaker": "Tom",
     "text": "In diesen beängstigenden Momenten, wer kommt zu Hilfe?",
-    "t": 41.05
+    "t": 39.4
    },
    {
     "speaker": "Tom",
     "text": "Und wie erreichen Sie ihn?",
-    "t": 45.07
+    "t": 42.6
    },
    {
     "speaker": "Anna",
     "text": "Die Antwort ist eine Organisation namens CGDIS, und eine Nummer, die Sie niemals vergessen dürfen... 1-1-2.",
-    "t": 47.47
+    "t": 44.21
    },
    {
     "speaker": "Tom",
     "text": "Beginnen wir mit der Nummer, denn sie ist das Wichtigste in dieser ganzen Folge.",
-    "t": 57.38
+    "t": 53.9
    },
    {
     "speaker": "Anna",
     "text": "In Luxemburg rufen Sie bei jedem Notfall die 1-1-2 an.",
-    "t": 62.42
+    "t": 58.05
    },
    {
     "speaker": "Tom",
     "text": "Sie ist kostenlos.",
-    "t": 67.84
+    "t": 61.99
    },
    {
     "speaker": "Tom",
     "text": "Sie funktioniert von jedem Telefon aus, sogar ohne Guthaben.",
-    "t": 70.14
+    "t": 63.51
    },
    {
     "speaker": "Tom",
     "text": "Und sie funktioniert Tag und Nacht, an jedem Tag des Jahres.",
-    "t": 74.76
+    "t": 67.34
    },
    {
     "speaker": "Anna",
     "text": "Sie rufen die 1-1-2 an bei einem Brand, bei einem schweren Unfall oder bei einem medizinischen Notfall... jemand, der schwer verletzt ist oder dessen Leben in Gefahr ist.",
-    "t": 79.18
+    "t": 71.04
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was genau ist das CGDIS?",
-    "t": 90.93
+    "t": 82.66
    },
    {
     "speaker": "Anna",
     "text": "CGDIS steht für Corps grand-ducal d'incendie et de secours.",
-    "t": 94.82
+    "t": 85.46
    },
    {
     "speaker": "Anna",
     "text": "Auf Englisch: the Grand Ducal Fire and Rescue Corps.",
-    "t": 99.72
+    "t": 91.5
    },
    {
     "speaker": "Tom",
     "text": "Es ist der nationale Brand- und Rettungsdienst Luxemburgs.",
-    "t": 103.99
+    "t": 95.3
    },
    {
     "speaker": "Anna",
     "text": "Es wurde 2018 gegründet und vereinte die Feuerwehren und die Zivilschutzdienste des Landes in einer einzigen nationalen Organisation.",
-    "t": 108.18
+    "t": 98.61
    },
    {
     "speaker": "Tom",
     "text": "Davor war die Rettung eher lokal organisiert.",
-    "t": 117.94
+    "t": 106.96
    },
    {
     "speaker": "Tom",
     "text": "Jetzt ist sie vereinheitlicht, was die Hilfe schneller und besser koordiniert macht.",
-    "t": 121.46
+    "t": 109.7
    },
    {
     "speaker": "Anna",
     "text": "Und es arbeitet unter dem Innenministerium, gemeinsam mit den Gemeinden.",
-    "t": 126.82
+    "t": 114.21
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir darüber, was das CGDIS tatsächlich tut.",
-    "t": 132.3
+    "t": 118.98
    },
    {
     "speaker": "Tom",
     "text": "Es hat einige große Aufgaben.",
-    "t": 136.99
+    "t": 122.73
    },
    {
     "speaker": "Anna",
     "text": "Die erste ist die Brandbekämpfung... Brände löschen und Menschen daraus retten.",
-    "t": 139.85
+    "t": 124.65
    },
    {
     "speaker": "Tom",
     "text": "Die zweite ist die Rettung im weiteren Sinne... Verkehrsunfälle, eingeschlossene Personen, Überschwemmungen, gefährliche Situationen.",
-    "t": 146.02
+    "t": 129.31
    },
    {
     "speaker": "Anna",
     "text": "Und die dritte ist die medizinische Notfallhilfe... die Krankenwagen, die kommen, wenn jemand schwer krank oder verletzt ist.",
-    "t": 155.18
+    "t": 137.8
    },
    {
     "speaker": "Tom",
     "text": "So kommen Brand, Rettung und medizinische Notfälle alle in einem Dienst zusammen.",
-    "t": 163.77
+    "t": 145.27
    },
    {
     "speaker": "Anna",
     "text": "Nun gehen wir zurück zu diesem Anruf.",
-    "t": 169.39
+    "t": 150.24
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie die 1-1-2 wählen, wo landet er?",
-    "t": 172.68
+    "t": 152.46
    },
    {
     "speaker": "Tom",
     "text": "Er landet bei der Notrufzentrale, dem CSU-112.",
-    "t": 177.01
+    "t": 155.7
    },
    {
     "speaker": "Tom",
     "text": "Geschulte Mitarbeiter antworten, Tag und Nacht.",
-    "t": 182.11
+    "t": 160.16
    },
    {
     "speaker": "Anna",
     "text": "Sie hören zu, sie verstehen, was passiert, und sie schicken die richtige Hilfe an den richtigen Ort.",
-    "t": 185.89
+    "t": 162.96
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist etwas wirklich Nützliches... wie man diesen Anruf gut macht, denn das ist wichtig.",
-    "t": 192.95
+    "t": 169.03
    },
    {
     "speaker": "Anna",
     "text": "Erstens: Versuchen Sie, so ruhig wie möglich zu bleiben.",
-    "t": 199.1
+    "t": 174.49
    },
    {
     "speaker": "Anna",
     "text": "Atmen Sie durch.",
-    "t": 203.74
+    "t": 178.57
    },
    {
     "speaker": "Anna",
     "text": "Der Mitarbeiter ist da, um Ihnen zu helfen.",
-    "t": 205.89
+    "t": 179.98
    },
    {
     "speaker": "Tom",
     "text": "Zweitens: Sagen Sie, wo Sie sind.",
-    "t": 209.78
+    "t": 182.68
    },
    {
     "speaker": "Tom",
     "text": "Den genauen Ort... die Adresse, die Ortschaft, einen Anhaltspunkt.",
-    "t": 213.15
+    "t": 185.63
    },
    {
     "speaker": "Tom",
     "text": "Der Standort ist entscheidend.",
-    "t": 218.28
+    "t": 190.65
    },
    {
     "speaker": "Anna",
     "text": "Drittens: Sagen Sie, was passiert ist.",
-    "t": 220.86
+    "t": 192.53
    },
    {
     "speaker": "Anna",
-    "text": "Ein Brand?",
-    "t": 224.76
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ein Unfall?",
-    "t": 226.52
+    "text": "Ein Brand? Ein Unfall?",
+    "t": 195.19
    },
    {
     "speaker": "Anna",
     "text": "Jemand, der nicht atmet?",
-    "t": 228.31
+    "t": 197.34
    },
    {
     "speaker": "Tom",
     "text": "Viertens: Sagen Sie, wie viele Personen betroffen sind und ob jemand in Gefahr ist.",
-    "t": 231.13
+    "t": 199.08
    },
    {
     "speaker": "Anna",
     "text": "Und fünftens: Beantworten Sie die Fragen des Mitarbeiters und legen Sie nicht auf, bis er es Ihnen sagt.",
-    "t": 237.02
+    "t": 204.24
    },
    {
     "speaker": "Tom",
     "text": "Der Mitarbeiter kann Sie sogar anleiten, was zu tun ist, während die Hilfe unterwegs ist.",
-    "t": 244.32
+    "t": 211.53
    },
    {
     "speaker": "Tom",
     "text": "Bleiben Sie also in der Leitung.",
-    "t": 250.34
+    "t": 216.45
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch ein wichtiges „wann man nicht anrufen sollte\".",
-    "t": 253.16
+    "t": 218.22
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 257.11
-   },
-   {
-    "speaker": "Tom",
-    "text": "Die 1-1-2 ist für echte Notfälle da.",
-    "t": 258.6
+    "text": "Ja. Die 1-1-2 ist für echte Notfälle da.",
+    "t": 221.68
    },
    {
     "speaker": "Tom",
     "text": "Bitte rufen Sie sie nicht für eine Auskunft oder für ein kleineres Problem an.",
-    "t": 262.51
+    "t": 225.08
    },
    {
     "speaker": "Anna",
     "text": "Jeder unnötige Anruf kann die Leitung für jemanden blockieren, dessen Leben wirklich davon abhängt.",
-    "t": 267.5
+    "t": 229.33
    },
    {
     "speaker": "Tom",
     "text": "Für nicht dringende Gesundheitsfragen gibt es andere Möglichkeiten, wie den ärztlichen Bereitschaftsdienst.",
-    "t": 274.43
+    "t": 234.83
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir nun über die Menschen hinter dem CGDIS, denn ihre Geschichte ist bemerkenswert.",
-    "t": 280.83
+    "t": 240.82
    },
    {
     "speaker": "Tom",
     "text": "Das CGDIS hat Berufsfeuerwehrleute, die dies als ihren Vollzeitberuf ausüben.",
-    "t": 287.47
+    "t": 247.02
    },
    {
     "speaker": "Anna",
     "text": "Aber hier ist der erstaunliche Teil.",
-    "t": 293.49
+    "t": 252.67
    },
    {
     "speaker": "Anna",
     "text": "Es stützt sich auch auf Tausende von Freiwilligen.",
-    "t": 296.62
+    "t": 254.81
    },
    {
     "speaker": "Tom",
-    "text": "Mehr als dreitausendneunhundert freiwillige Feuerwehrleute.",
-    "t": 300.64
+    "text": "Tausende freiwillige Feuerwehrleute.",
+    "t": 257.7
    },
    {
     "speaker": "Tom",
-    "text": "Das sind etwa neunzig Prozent der Einsatzkräfte.",
-    "t": 304.79
+    "text": "Etwa neun von zehn Feuerwehrleuten sind Freiwillige.",
+    "t": 260.09
    },
    {
     "speaker": "Anna",
-    "text": "Neunzig Prozent!",
-    "t": 308.41
+    "text": "Neun von zehn!",
+    "t": 263.33
    },
    {
     "speaker": "Anna",
     "text": "Die meisten Menschen, die zu Ihrer Hilfe eilen, sind also Freiwillige.",
-    "t": 310.74
+    "t": 264.59
    },
    {
     "speaker": "Tom",
     "text": "Sie haben gewöhnliche Berufe und Familien.",
-    "t": 316.11
+    "t": 268.18
    },
    {
     "speaker": "Tom",
     "text": "Aber wenn der Alarm ertönt, lassen sie alles stehen und liegen, um ihren Nachbarn zu helfen.",
-    "t": 319.64
+    "t": 270.61
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine schöne Form der Solidarität.",
-    "t": 325.68
+    "t": 275.74
    },
    {
     "speaker": "Anna",
     "text": "Menschen, die Menschen schützen, freiwillig.",
-    "t": 329.25
+    "t": 278.38
    },
    {
     "speaker": "Tom",
     "text": "Schauen wir kurz an, wie das CGDIS im ganzen Land organisiert ist.",
-    "t": 333.12
+    "t": 281.3
    },
    {
     "speaker": "Anna",
     "text": "Es gibt Brand- und Rettungszentren, genannt CIS, im ganzen Luxemburg verteilt, sodass die Hilfe nie weit entfernt ist.",
-    "t": 338.38
+    "t": 286.28
    },
    {
     "speaker": "Tom",
     "text": "Es gibt ein nationales Zentrum, das CNIS, nahe Luxemburg-Stadt, das das gesamte System koordiniert.",
-    "t": 347.2
+    "t": 293.62
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt spezialisierte Gruppen für schwierige Rettungen... Wasserrettung, gefährliche Stoffe, Rettungen aus großer Höhe.",
-    "t": 354.39
+    "t": 301.2
    },
    {
     "speaker": "Tom",
     "text": "Die Ausrüstung ist ebenfalls beeindruckend.",
-    "t": 363.7
+    "t": 309.18
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel können moderne Hubrettungsbühnen Retter heben, um Menschen in mehr als dreißig Metern Höhe zu erreichen.",
-    "t": 367.1
+    "t": 311.9
    },
    {
     "speaker": "Anna",
     "text": "So hat ein kleines Land einen sehr modernen, gut organisierten Rettungsdienst.",
-    "t": 374.05
+    "t": 318.81
    },
    {
     "speaker": "Anna",
     "text": "Das ist beruhigend.",
-    "t": 379.85
+    "t": 323.39
    },
    {
     "speaker": "Tom",
     "text": "Nun, Anna, hier ist etwas, woran viele Hörer vielleicht nicht gedacht haben.",
-    "t": 382.26
+    "t": 324.83
    },
    {
     "speaker": "Tom",
     "text": "Sie können ein Teil davon sein.",
-    "t": 387.95
+    "t": 329.53
    },
    {
     "speaker": "Anna",
-    "text": "Ja!",
-    "t": 390.77
-   },
-   {
-    "speaker": "Anna",
-    "text": "Das CGDIS heißt neue Freiwillige willkommen.",
-    "t": 392.14
+    "text": "Ja! Das CGDIS heißt neue Freiwillige willkommen.",
+    "t": 331.46
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen noch kein Held sein... sie bilden Sie aus.",
-    "t": 396.38
+    "t": 336.17
    },
    {
     "speaker": "Tom",
     "text": "Und auch junge Menschen können beitreten, als Jungfeuerwehrleute, die „Jeunes Pompiers\", oder auf Luxemburgisch die „Jugendpompjeeën\".",
-    "t": 400.45
+    "t": 340
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch berufliche Laufbahnen... als Feuerwehrmann, Offizier oder in technischen und administrativen Funktionen.",
-    "t": 408.73
+    "t": 348.56
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie also Ihrer Gemeinschaft auf eine sehr konkrete Weise dienen möchten, ist dies eine der sinnvollsten Möglichkeiten dazu.",
-    "t": 416.95
+    "t": 355.5
    },
    {
     "speaker": "Anna",
     "text": "Das knüpft an etwas an, das wir in unserer Folge über das Ehrenamt gesagt haben... seine Zeit zu geben, um anderen zu helfen.",
-    "t": 424.66
+    "t": 362.73
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir auch über Ausbildung und Prävention, denn das CGDIS tut mehr, als nur auf Notfälle zu reagieren.",
-    "t": 433.48
+    "t": 370.34
    },
    {
     "speaker": "Anna",
     "text": "Es hat ein nationales Ausbildungsinstitut, das INFS, das seine Retter auf hohem Niveau ausbildet.",
-    "t": 441.25
+    "t": 378.02
    },
    {
     "speaker": "Tom",
     "text": "Und es bietet der Öffentlichkeit Erste-Hilfe-Kurse an.",
-    "t": 448.8
+    "t": 385.08
    },
    {
     "speaker": "Tom",
     "text": "Erste Hilfe zu lernen ist eine der wertvollsten Dinge, die Sie tun können.",
-    "t": 452.55
+    "t": 388.5
    },
    {
     "speaker": "Anna",
     "text": "Denn in den ersten Minuten eines Notfalls kann ein gewöhnlicher Mensch in der Nähe den ganzen Unterschied machen.",
-    "t": 457.62
+    "t": 392.65
    },
    {
     "speaker": "Tom",
     "text": "Das CGDIS gibt auch Ratschläge zur Brandverhütung... einfache Dinge, die Ihr Zuhause sicherer machen.",
-    "t": 464.7
+    "t": 398.79
    },
    {
     "speaker": "Anna",
     "text": "Wie funktionierende Rauchmelder zu haben, seine Ausgänge zu kennen und vorsichtig mit Kerzen und beim Kochen zu sein.",
-    "t": 471.63
+    "t": 406.16
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie eine große öffentliche Veranstaltung organisieren, müssen Sie diese möglicherweise anmelden, damit die Rettungsdienste eine medizinische Absicherung planen können.",
-    "t": 479.45
+    "t": 412.94
    },
    {
     "speaker": "Anna",
     "text": "So ist das CGDIS vor, während und nach einem Notfall da.",
-    "t": 489.47
+    "t": 422.74
    },
    {
     "speaker": "Anna",
     "text": "Vorbeugen, eingreifen und sich kümmern.",
-    "t": 494.51
+    "t": 427.6
    },
    {
     "speaker": "Tom",
     "text": "Also Tom... machen wir das ganz praktisch.",
-    "t": 498.19
+    "t": 430.36
    },
    {
     "speaker": "Tom",
     "text": "Was sollte jeder mitnehmen?",
-    "t": 501.66
+    "t": 433.74
    },
    {
     "speaker": "Anna",
     "text": "Erstens, und am wichtigsten... rufen Sie bei jedem Notfall in Luxemburg die 1-1-2 an.",
-    "t": 504.3
+    "t": 435.43
    },
    {
     "speaker": "Tom",
     "text": "Zweitens: Bringen Sie es Ihren Kindern bei, und jedem, der neu im Land ist.",
-    "t": 511.81
+    "t": 441.92
    },
    {
     "speaker": "Tom",
     "text": "Eins-eins-zwei.",
-    "t": 517.36
+    "t": 447.37
    },
    {
     "speaker": "Anna",
     "text": "Drittens: Wenn Sie anrufen, geben Sie Ihren Standort klar an, sagen Sie, was passiert ist, und bleiben Sie in der Leitung.",
-    "t": 519.38
+    "t": 448.73
    },
    {
     "speaker": "Tom",
     "text": "Viertens: Erwägen Sie, Erste Hilfe zu lernen... es ist ein Geschenk, das Sie den Menschen um Sie herum machen.",
-    "t": 528.51
+    "t": 456.37
    },
    {
     "speaker": "Anna",
     "text": "Und fünftens: Wenn es Sie anspricht, denken Sie darüber nach, Freiwilliger beim CGDIS zu werden.",
-    "t": 535.57
+    "t": 462.84
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir alles zusammen.",
-    "t": 543.12
+    "t": 470.03
    },
    {
     "speaker": "Tom",
     "text": "Woran sollten sich die Menschen erinnern?",
-    "t": 545.69
+    "t": 471.58
    },
    {
     "speaker": "Anna",
     "text": "Erstens... das CGDIS ist der nationale Brand- und Rettungsdienst Luxemburgs, gegründet 2018.",
-    "t": 548.87
+    "t": 473.79
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... bei jedem Notfall rufen Sie die 1-1-2 an, kostenlos, von jedem Telefon, Tag und Nacht.",
-    "t": 557.33
+    "t": 481.96
    },
    {
     "speaker": "Anna",
     "text": "Drittens... die meisten seiner Feuerwehrleute sind Freiwillige, und auch Sie könnten einer werden.",
-    "t": 565.53
+    "t": 490.18
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... es bildet auch die Öffentlichkeit aus und gibt Präventionsratschläge, damit wir alle einander sicher halten können.",
-    "t": 572.17
+    "t": 496.43
    },
    {
     "speaker": "Anna",
     "text": "Notfälle sind beängstigend.",
-    "t": 580.19
+    "t": 505.17
    },
    {
     "speaker": "Anna",
     "text": "Aber Sie sind nicht allein.",
-    "t": 582.96
+    "t": 507.07
    },
    {
     "speaker": "Anna",
     "text": "Hinter dieser Nummer sind Menschen bereit zu kommen.",
-    "t": 585.45
+    "t": 508.75
    },
    {
     "speaker": "Tom",
     "text": "Und zu wissen, wie man sie erreicht, ruhig und klar, ist etwas, das jeder von uns heute lernen kann.",
-    "t": 589.31
+    "t": 511.57
    },
    {
     "speaker": "Anna",
-    "text": "Vielen Dank, dass Sie zugehört haben.",
-    "t": 596.48
-   },
-   {
-    "speaker": "Tom",
-    "text": "Passen Sie auf sich auf, bleiben Sie sicher, und bis zur nächsten Folge.",
-    "t": 599.9
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 604.83
+    "text": "Das war unsere Folge über das CGDIS und die Notrufnummer 112.",
+    "t": 517.68
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 606.41
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 522.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 531.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 549.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 555.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 557.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 562.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 563.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 567.19
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm zréck! Et ass flott, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.38
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner hëllefen, an och de Grenzgänger, fir sech hei sécher an doheem ze fillen.",
-    "t": 7.42
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An den Thema vun haut kéint engdaags e Liewe retten... vläicht souguer Äert eegent.",
-    "t": 21.41
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Mir schwätzen iwwer Noutfäll. E Brand. En Autosaccident. Een, deen op eemol zesummebrécht.",
-    "t": 26.4
+    "t": 32.31
    },
    {
     "speaker": "Tom",
     "text": "An deene beängschtegende Momenter, wien kënnt hëllefen? A wéi erreecht Dir si?",
-    "t": 36.12
+    "t": 39.06
    },
    {
     "speaker": "Anna",
     "text": "D'Äntwert ass eng Organisatioun, déi de CGDIS heescht, an eng Nummer, déi Dir ni däerft vergiessen... 1-1-2.",
-    "t": 41.8
+    "t": 43.38
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer mat der Nummer ufänken, well dat ass dat Wichtegst an dëser ganzer Episod.",
-    "t": 49.6
+    "t": 50.29
    },
    {
     "speaker": "Anna",
     "text": "Zu Lëtzebuerg, bei all Noutfall, rufft Dir d'1-1-2 un.",
-    "t": 54.88
+    "t": 55.12
    },
    {
     "speaker": "Tom",
     "text": "Et ass gratis. Et funktionéiert vun all Telefon, souguer ouni Guthaben. An et funktionéiert Dag an Nuecht, all Dag am Joer.",
-    "t": 59.46
+    "t": 58.65
    },
    {
     "speaker": "Anna",
     "text": "Dir rufft d'1-1-2 un bei engem Brand, bei engem schwéieren Accident, oder bei engem medizineschen Noutfall... een, dee schwéier blesséiert ass, oder deem säi Liewen a Gefor ass.",
-    "t": 68.54
+    "t": 64.67
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat ass de CGDIS genau?",
-    "t": 77.64
+    "t": 73.13
    },
    {
     "speaker": "Anna",
     "text": "CGDIS steet fir Corps grand-ducal d'incendie et de secours. Op Englesch, the Grand Ducal Fire and Rescue Corps.",
-    "t": 81.55
+    "t": 75.75
    },
    {
     "speaker": "Tom",
     "text": "Et ass den nationale Brand- a Rettungsdéngscht vu Lëtzebuerg.",
-    "t": 90.1
+    "t": 85.36
    },
    {
     "speaker": "Anna",
     "text": "Hie gouf 2018 gegrënnt an huet d'Pompjeeën an d'Déngschter vum Zivilschutz vum Land an eng eenzeg national Organisatioun zesummegefaasst.",
-    "t": 94.07
+    "t": 88.48
    },
    {
     "speaker": "Tom",
     "text": "Virdru war d'Rettung méi lokal organiséiert. Elo ass se vereenheetlecht, wat d'Hëllef méi séier a besser koordinéiert mécht.",
-    "t": 103.31
+    "t": 97.76
    },
    {
     "speaker": "Anna",
     "text": "An hie schafft ënner dem Innenministère, zesumme mat de Gemengen.",
-    "t": 111.77
+    "t": 104.48
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer iwwer dat schwätzen, wat de CGDIS tatsächlech mécht. Hien huet e puer grouss Aufgaben.",
-    "t": 116.52
+    "t": 109.41
    },
    {
     "speaker": "Anna",
     "text": "Déi éischt ass d'Brandbekämpfung... Bränn läschen a Leit dorausser retten.",
-    "t": 123.14
+    "t": 114.94
    },
    {
     "speaker": "Tom",
     "text": "Déi zweet ass d'Rettung am breede Sënn... Verkéiersaccidenter, agespaarte Leit, Iwwerschwemmungen, geféierlech Situatiounen.",
-    "t": 128.34
+    "t": 120.18
    },
    {
     "speaker": "Anna",
     "text": "An déi drëtt ass déi medizinesch Noutfallhëllef... d'Ambulanzen, déi kommen, wann een schwéier krank oder blesséiert ass.",
-    "t": 135.13
+    "t": 126.94
    },
    {
     "speaker": "Tom",
     "text": "Also kommen de Brand, d'Rettung an déi medizinesch Noutfäll all an engem Déngscht zesummen.",
-    "t": 141.84
+    "t": 134.25
    },
    {
     "speaker": "Anna",
     "text": "Elo, loosse mer zréck op deen Uruff goen. Wann Dir d'1-1-2 wielt, wou kënnt en un?",
-    "t": 147.17
+    "t": 139.22
    },
    {
     "speaker": "Tom",
     "text": "En kënnt bei der Noutrufzentral un, dem CSU-112. Ausgebilten Operateuren äntweren, Dag an Nuecht.",
-    "t": 153.83
+    "t": 144.23
    },
    {
     "speaker": "Anna",
     "text": "Si lauschteren, si verstinn, wat geschitt, a si schécken déi richteg Hëllef un déi richteg Plaz.",
-    "t": 161.84
+    "t": 150.87
    },
    {
     "speaker": "Tom",
     "text": "An hei ass eppes wierklech nëtzlech... wéi een deen Uruff gutt mécht, well dat ass wichteg.",
-    "t": 167.64
+    "t": 156.44
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, probéiert sou roueg ze bleiwen, wéi Dir kënnt. Otemt déif. Den Operateur ass do, fir Iech ze hëllefen.",
-    "t": 172.81
+    "t": 161.57
    },
    {
     "speaker": "Tom",
     "text": "Als zweet, sot, wou Dir sidd. Déi genee Plaz... d'Adress, d'Uertschaft, e Bezuchspunkt. D'Plaz ass entscheedend.",
-    "t": 180.82
+    "t": 167.8
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt, sot, wat geschitt ass. E Brand? En Accident? Een, dee net otemt?",
-    "t": 190.32
+    "t": 175.84
    },
    {
     "speaker": "Tom",
     "text": "Als véiert, sot, wéi vill Leit betraff sinn, an ob een a Gefor ass.",
-    "t": 198.91
+    "t": 180.94
    },
    {
     "speaker": "Anna",
     "text": "An als fënneft, äntwert op d'Froe vum Operateur, an hänkt net op, bis hien et Iech seet.",
-    "t": 203.84
+    "t": 185.62
    },
    {
     "speaker": "Tom",
     "text": "Den Operateur kann Iech souguer ulëschten, wat ze maachen ass, wärend d'Hëllef ënnerwee ass. Also bleift an der Leitung.",
-    "t": 209.57
+    "t": 191.06
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och e wichtegt „wéini net unzeruffen\".",
-    "t": 216.47
+    "t": 196.42
    },
    {
     "speaker": "Tom",
     "text": "Jo. D'1-1-2 ass fir richteg Noutfäll. W.e.g. rufft se net un fir eng Informatioun, oder fir e klenge Problem.",
-    "t": 219.85
+    "t": 199.12
    },
    {
     "speaker": "Anna",
     "text": "All onnéidegen Uruff kann d'Leitung blockéieren fir een, deem säi Liewe wierklech dovun ofhänkt.",
-    "t": 229.08
+    "t": 205.23
    },
    {
     "speaker": "Tom",
     "text": "Fir net dréngend Gesondheetsfroen gëtt et aner Méiglechkeeten, wéi den Déngscht vum Bereetschaftsdokter.",
-    "t": 234.23
+    "t": 210.07
    },
    {
     "speaker": "Anna",
     "text": "Elo, loosse mer iwwer d'Leit hannert dem CGDIS schwätzen, well hir Geschicht ass bemierkenswäert.",
-    "t": 239.78
+    "t": 214.99
    },
    {
     "speaker": "Tom",
     "text": "De CGDIS huet beruffleg Pompjeeën, déi dat als hire Vollzäitberuff maachen.",
-    "t": 245.6
+    "t": 220.57
    },
    {
     "speaker": "Anna",
     "text": "Mä hei ass deen erstaunlechen Deel. Hie stëtzt sech och op Dausende vu Fräiwëllegen.",
-    "t": 251.06
+    "t": 225.61
    },
    {
     "speaker": "Tom",
-    "text": "Méi wéi dräidausendnénghonnert fräiwëlleg Pompjeeën. Dat sinn ongeféier nonzeg Prozent vun den Asazkräften.",
-    "t": 257.28
+    "text": "Dausende fräiwëlleg Pompjeeën. Ongeféier néng vun zéng Pompjeeë sinn Fräiwëlleger.",
+    "t": 230.96
    },
    {
     "speaker": "Anna",
-    "text": "Nonzeg Prozent! Also déi meeschte Leit, déi sech beeilen, fir Iech ze hëllefen, sinn Fräiwëlleger.",
-    "t": 265.43
+    "text": "Néng vun zéng! Also déi meeschte Leit, déi sech beeilen, fir Iech ze hëllefen, sinn Fräiwëlleger.",
+    "t": 235.76
    },
    {
     "speaker": "Tom",
     "text": "Si hu gewéinlech Jobs a Famillen. Mä wann den Alarm ulaut, loosse se alles stoen, fir hiren Noperen ze hëllefen.",
-    "t": 271.44
+    "t": 240.5
    },
    {
     "speaker": "Anna",
     "text": "Et ass eng schéin Aart vu Solidaritéit. Leit, déi Leit schützen, fräiwëlleg.",
-    "t": 278.99
+    "t": 246.38
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer kuerz kucken, wéi de CGDIS am ganze Land organiséiert ass.",
-    "t": 285.12
+    "t": 251.74
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt Brand- a Rettungszentren, déi CIS heeschen, am ganze Lëtzebuerg verdeelt, sou datt d'Hëllef ni wäit ewech ass.",
-    "t": 289.98
+    "t": 256.59
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt en nationalt Zentrum, de CNIS, no bei der Stad Lëtzebuerg, dat dat ganzt System koordinéiert.",
-    "t": 297.51
+    "t": 263.57
    },
    {
     "speaker": "Anna",
     "text": "An et gëtt spezialiséiert Gruppen fir schwiereg Rettungen... Waasserrettung, geféierlech Matières, Rettungen aus grousser Héicht.",
-    "t": 303.79
+    "t": 269.48
    },
    {
     "speaker": "Tom",
     "text": "D'Ausrüstung ass och beandrockend. Zum Beispill kënne modern Liftbühnen d'Retter eropliewen, fir Leit a méi wéi drësseg Meter Héicht ze erreechen.",
-    "t": 311.77
+    "t": 277.34
    },
    {
     "speaker": "Anna",
     "text": "Also huet e klengt Land ee ganz modernen, gutt organiséierten Rettungsdéngscht. Dat ass berouegend.",
-    "t": 320.96
+    "t": 284.91
    },
    {
     "speaker": "Tom",
     "text": "Elo, Anna, hei ass eppes, woru vill Nolauschterer vläicht net geduecht hunn. Dir kënnt Deel dovun sinn.",
-    "t": 328.02
+    "t": 290.41
    },
    {
     "speaker": "Anna",
     "text": "Jo! De CGDIS hëisst nei Fräiwëlleger wëllkomm. Dir musst net schonn en Held sinn... si bilden Iech aus.",
-    "t": 334.9
+    "t": 296.12
    },
    {
     "speaker": "Tom",
     "text": "An och jonk Leit kënne bäitrieden, als Jongpompjeeën, d'„Jeunes Pompiers\", oder op Lëtzebuergesch d'„Jugendpompjeeën\".",
-    "t": 343.87
+    "t": 302.92
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och beruffleg Karriären... als Pompjee, als Offizéier, oder an techneschen an administrative Funktiounen.",
-    "t": 351.26
+    "t": 310.47
    },
    {
     "speaker": "Tom",
     "text": "Also, wann Dir Ärer Gemeinschaft op eng ganz konkret Aart wëllt déngen, ass dat eng vun de sënnvollste Manéieren, et ze maachen.",
-    "t": 358.64
+    "t": 317.73
    },
    {
     "speaker": "Anna",
     "text": "Dat knëppt un eppes un, wat mir an eiser Episod iwwer d'Benevolat gesot hunn... seng Zäit ze ginn, fir aneren ze hëllefen.",
-    "t": 365.06
+    "t": 324
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer och iwwer Ausbildung a Préventioun schwätzen, well de CGDIS mécht méi, wéi just op Noutfäll ze reagéieren.",
-    "t": 370.94
+    "t": 329.97
    },
    {
     "speaker": "Anna",
     "text": "Hien huet en nationalt Ausbildungsinstitut, den INFS, dat seng Retter op engem héijen Niveau ausbilt.",
-    "t": 377.56
+    "t": 336.71
    },
    {
     "speaker": "Tom",
     "text": "An hie bitt der Ëffentlechkeet Éischt-Hëllef-Coursen un. Éischt Hëllef ze léieren ass eng vun de wäertvollste Saachen, déi Dir maache kënnt.",
-    "t": 384.14
+    "t": 343.71
    },
    {
     "speaker": "Anna",
     "text": "Well an den éischte Minutte vun engem Noutfall kann eng gewéinlech Persoun an der Noupesch den ganzen Ënnerscheed maachen.",
-    "t": 391.93
+    "t": 349.89
    },
    {
     "speaker": "Tom",
     "text": "De CGDIS gëtt och Rotschléi fir d'Brandverhütung... einfach Saachen, déi Äert Doheem méi sécher maachen.",
-    "t": 398.08
+    "t": 356.04
    },
    {
     "speaker": "Anna",
     "text": "Wéi funktionéierend Damschmelder ze hunn, seng Ausgäng ze kennen, a virsiichteg mat Käerzen a beim Kachen ze sinn.",
-    "t": 404.1
+    "t": 362.14
    },
    {
     "speaker": "Tom",
     "text": "A wann Dir eng grouss ëffentlech Veranstaltung organiséiert, musst Dir se vläicht umellen, sou datt d'Rettungsdéngschter eng medizinesch Ofdeckung kënne plangen.",
-    "t": 410.56
+    "t": 368.17
    },
    {
     "speaker": "Anna",
     "text": "Also ass de CGDIS do virun, wärend an no engem Noutfall. Virbeugen, agräifen, a sech këmmeren.",
-    "t": 417.71
+    "t": 375.03
    },
    {
     "speaker": "Tom",
     "text": "Also Tom... loosse mer dat ganz praktesch maachen. Wat soll jiddereen mathuelen?",
-    "t": 426.31
+    "t": 382.54
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, an dat Wichtegst... bei all Noutfall zu Lëtzebuerg, rufft d'1-1-2 un.",
-    "t": 432.54
+    "t": 387.44
    },
    {
     "speaker": "Tom",
     "text": "Als zweet, léiert et Äre Kanner, an all Persoun, déi nei am Land ass. Eent-eent-zwee.",
-    "t": 438.56
+    "t": 392.86
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt, wann Dir uruft, gitt Är Plaz kloer un, sot, wat geschitt ass, a bleift an der Leitung.",
-    "t": 445.15
+    "t": 397.59
    },
    {
     "speaker": "Tom",
     "text": "Als véiert, iwwerleet Iech, Éischt Hëllef ze léieren... et ass e Kaddo, deen Dir de Leit ëm Iech erëm gitt.",
-    "t": 451.31
+    "t": 403.67
    },
    {
     "speaker": "Anna",
     "text": "An als fënneft, wann et Iech uschwätzt, denkt drun, Fräiwëlleger beim CGDIS ze ginn.",
-    "t": 456.61
+    "t": 408.49
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer alles zesummenhuelen. Wat solle sech d'Leit mierken?",
-    "t": 462.68
+    "t": 413.94
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... de CGDIS ass den nationale Brand- a Rettungsdéngscht vu Lëtzebuerg, gegrënnt 2018.",
-    "t": 467.78
+    "t": 416.8
    },
    {
     "speaker": "Tom",
     "text": "Als zweet... bei all Noutfall, rufft Dir d'1-1-2 un, gratis, vun all Telefon, Dag an Nuecht.",
-    "t": 475.26
+    "t": 424.3
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt... déi meescht vu senge Pompjeeë sinn Fräiwëlleger, an Dir kënnt och een dovu ginn.",
-    "t": 481.39
+    "t": 429.14
    },
    {
     "speaker": "Tom",
     "text": "An als véiert... hien ausbilt och d'Ëffentlechkeet a gëtt Préventiounsrotschléi, sou datt mir all eis géigesäiteg kënne sécher halen.",
-    "t": 486.72
+    "t": 433.86
    },
    {
     "speaker": "Anna",
     "text": "Noutfäll sinn beängschtegend. Mä Dir sidd net eleng. Hannert där Nummer sinn Leit bereet ze kommen.",
-    "t": 493.16
+    "t": 440.38
    },
    {
     "speaker": "Tom",
     "text": "A ze wëssen, wéi een se erreecht, roueg a kloer, ass eppes, wat jiddereen vun eis haut léiere kann.",
-    "t": 501.38
+    "t": 446.49
    },
    {
     "speaker": "Anna",
-    "text": "Villmools merci, datt Dir nogelauschtert hutt.",
-    "t": 506.84
+    "text": "Dat war eis Episod iwwer de CGDIS an d'Noutruffnummer 112. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 452.38
    },
    {
     "speaker": "Tom",
-    "text": "Passt op Iech op, bleift sécher, a bis bei der nächster Episod. Äddi!",
-    "t": 509.48
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 499.56
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 515.38
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 502.76
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 25,
@@ -70167,7 +70249,7 @@ const EPISODES = [
   "title": "STATEC and the Statistics Portal – Luxembourg in Numbers",
   "description": "What STATEC, Luxembourg's national statistics institute, does, its motto 'we count because you count', how it measures inflation through the consumer price index (which feeds the indexation of salaries and pensions), the population, the economy and wellbeing, and how anyone can explore the official figures for free on statistiques.public.lu.",
   "audio": "podcast_statec.mp3",
-  "duration": 373.46,
+  "duration": 379.92,
   "topics": [
    "What STATEC is",
    "Independent, trustworthy figures",
@@ -70181,433 +70263,443 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's lovely to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.62
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.66
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.77
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to understand the country.",
-    "t": 14.59
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today, we are going to understand the country through numbers.",
-    "t": 21.45
+    "t": 27.49
    },
    {
     "speaker": "Anna",
-    "text": "Yes!",
-    "t": 25.78
-   },
-   {
-    "speaker": "Anna",
-    "text": "How many people live here, how prices change, how the economy is doing.",
-    "t": 27.46
+    "text": "Yes! How many people live here, how prices change, how the economy is doing.",
+    "t": 31.26
    },
    {
     "speaker": "Anna",
     "text": "Facts and figures about Luxembourg.",
-    "t": 32.66
+    "t": 35.67
    },
    {
     "speaker": "Tom",
     "text": "And there is one official organisation whose whole job is to measure and share these numbers.",
-    "t": 35.66
+    "t": 37.94
    },
    {
     "speaker": "Tom",
     "text": "It is called STATEC.",
-    "t": 41.03
+    "t": 42.82
    },
    {
     "speaker": "Anna",
     "text": "STATEC is Luxembourg's national statistics institute.",
-    "t": 43.43
+    "t": 44.75
    },
    {
     "speaker": "Tom",
     "text": "It has a lovely motto... \"We count because you count.\"",
-    "t": 47.56
+    "t": 48.38
    },
    {
     "speaker": "Anna",
     "text": "I love that.",
-    "t": 52.33
+    "t": 51.69
    },
    {
     "speaker": "Anna",
     "text": "The numbers are not just for experts.",
-    "t": 54.26
+    "t": 52.62
    },
    {
     "speaker": "Anna",
     "text": "They are about people, and for people.",
-    "t": 57.39
+    "t": 54.79
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what exactly does STATEC do?",
-    "t": 60.45
+    "t": 57.83
    },
    {
     "speaker": "Anna",
     "text": "STATEC collects, produces and shares official statistics about Luxembourg... the population, the economy, prices, jobs, and much more.",
-    "t": 64.07
+    "t": 60.16
    },
    {
     "speaker": "Tom",
     "text": "It works under the Ministry of the Economy, but its statistical work is independent.",
-    "t": 74.11
+    "t": 71.07
    },
    {
     "speaker": "Anna",
     "text": "That independence matters a lot.",
-    "t": 79.78
+    "t": 75.78
    },
    {
     "speaker": "Anna",
     "text": "It means the figures are neutral and trustworthy, not bent to suit anyone.",
-    "t": 82.71
+    "t": 77.9
    },
    {
     "speaker": "Tom",
     "text": "So when STATEC says something, you can rely on it being measured carefully and honestly.",
-    "t": 87.57
+    "t": 83.14
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about the most famous number STATEC produces... inflation.",
-    "t": 93.03
+    "t": 88.09
    },
    {
     "speaker": "Tom",
     "text": "Inflation is how fast prices are rising.",
-    "t": 98.05
+    "t": 92.73
    },
    {
     "speaker": "Tom",
     "text": "STATEC measures it every month.",
-    "t": 101.45
+    "t": 95.38
    },
    {
     "speaker": "Anna",
     "text": "It does this through the consumer price index... the price of a typical basket of goods and services that households buy.",
-    "t": 104.33
+    "t": 97.39
    },
    {
     "speaker": "Tom",
     "text": "Food, rent, fuel, services.",
-    "t": 111.35
+    "t": 104.46
    },
    {
     "speaker": "Tom",
     "text": "They track how that basket's price changes over time.",
-    "t": 114.77
+    "t": 107.61
    },
    {
     "speaker": "Anna",
     "text": "And here is why it matters so much in Luxembourg.",
-    "t": 118.48
+    "t": 110.39
    },
    {
     "speaker": "Anna",
     "text": "That index is linked to the famous \"index\" system.",
-    "t": 122.07
+    "t": 113.73
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 125.76
-   },
-   {
-    "speaker": "Tom",
-    "text": "In Luxembourg, when prices rise by a certain amount, salaries and pensions are automatically increased to keep up.",
-    "t": 127.42
+    "text": "Yes. In Luxembourg, when prices rise by a certain amount, salaries and pensions are automatically increased to keep up.",
+    "t": 117.19
    },
    {
     "speaker": "Anna",
     "text": "That automatic adjustment is called indexation.",
-    "t": 134.48
+    "t": 124.97
    },
    {
     "speaker": "Anna",
     "text": "And it is based on STATEC's measurements.",
-    "t": 138.12
+    "t": 128.07
    },
    {
     "speaker": "Tom",
     "text": "So STATEC's work touches almost every wallet in the country.",
-    "t": 141.32
+    "t": 130.91
    },
    {
     "speaker": "Tom",
     "text": "That's remarkable.",
-    "t": 145.47
+    "t": 134.5
    },
    {
     "speaker": "Anna",
     "text": "It really is.",
-    "t": 147.69
+    "t": 135.89
    },
    {
     "speaker": "Anna",
     "text": "But inflation is only one of many things STATEC measures.",
-    "t": 149.78
+    "t": 136.96
    },
    {
     "speaker": "Tom",
     "text": "It also counts the population... how many of us there are, where we live, how the country is growing.",
-    "t": 154.02
+    "t": 140.53
    },
    {
     "speaker": "Anna",
     "text": "It measures the economy, with figures like the gross domestic product, often shortened to GDP.",
-    "t": 160.08
+    "t": 146.81
    },
    {
     "speaker": "Tom",
     "text": "GDP is a measure of all that the country produces.",
-    "t": 166.48
+    "t": 153.48
    },
    {
     "speaker": "Tom",
     "text": "STATEC tracks how the economy grows or slows.",
-    "t": 170.54
+    "t": 156.93
    },
    {
     "speaker": "Anna",
     "text": "It also looks at jobs and wages, at housing, at education, at the environment, and much more.",
-    "t": 174.31
+    "t": 160.1
    },
    {
     "speaker": "Tom",
     "text": "Now, here's the question many people have.",
-    "t": 181.13
+    "t": 166.47
    },
    {
     "speaker": "Tom",
     "text": "Where can I actually see all this?",
-    "t": 184.59
+    "t": 168.47
    },
    {
     "speaker": "Anna",
     "text": "On the official statistics portal.",
-    "t": 187.52
+    "t": 170.51
    },
    {
     "speaker": "Anna",
     "text": "The website is statistiques dot public dot lu.",
-    "t": 190.41
+    "t": 172.71
    },
    {
     "speaker": "Tom",
     "text": "And the best part... it is free, and open to everyone.",
-    "t": 194.14
+    "t": 176.44
    },
    {
     "speaker": "Anna",
     "text": "You can browse tables of figures by theme, read short news releases, and explore the data yourself.",
-    "t": 198.05
+    "t": 179.8
    },
    {
     "speaker": "Tom",
     "text": "There are even simple tools and simulators on the portal.",
-    "t": 204.69
+    "t": 186.29
    },
    {
     "speaker": "Anna",
     "text": "For example, tools about inflation and indexation, or to compare figures across the years.",
-    "t": 208.84
+    "t": 189.26
    },
    {
     "speaker": "Tom",
     "text": "So you don't have to be an economist.",
-    "t": 215.5
+    "t": 195.35
    },
    {
     "speaker": "Tom",
     "text": "The portal is built for curious citizens too.",
-    "t": 218.56
+    "t": 197.36
    },
    {
     "speaker": "Anna",
     "text": "STATEC also looks beyond money, at things that matter for our quality of life.",
-    "t": 222.12
+    "t": 200.11
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 227.6
-   },
-   {
-    "speaker": "Tom",
-    "text": "It publishes indicators on wellbeing, and on sustainable development.",
-    "t": 229.26
+    "text": "Yes. It publishes indicators on wellbeing, and on sustainable development.",
+    "t": 205.18
    },
    {
     "speaker": "Anna",
     "text": "Because a good society is not only about how much we produce, but about how well we live.",
-    "t": 234.15
+    "t": 210.13
    },
    {
     "speaker": "Tom",
     "text": "That's a healthy way to look at a country... with both the head and the heart.",
-    "t": 239.9
+    "t": 215.6
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about why all this matters for ordinary people, even those who never open the website.",
-    "t": 244.43
+    "t": 220.08
    },
    {
     "speaker": "Tom",
     "text": "First, because good decisions need good facts.",
-    "t": 250.52
+    "t": 226.31
    },
    {
     "speaker": "Tom",
     "text": "Governments use these numbers to plan.",
-    "t": 254.25
+    "t": 229.11
    },
    {
     "speaker": "Anna",
     "text": "Schools, hospitals, housing, transport... planning all of it needs to know how many people there are, and what they need.",
-    "t": 257.46
+    "t": 231.5
    },
    {
     "speaker": "Tom",
     "text": "Second, because it keeps the public conversation honest.",
-    "t": 265.39
+    "t": 239.29
    },
    {
     "speaker": "Anna",
     "text": "When people argue about the economy or prices, neutral figures give everyone a shared, factual starting point.",
-    "t": 269.57
+    "t": 242.47
    },
    {
     "speaker": "Tom",
     "text": "And third, because it is your right to know.",
-    "t": 276.85
+    "t": 249.45
    },
    {
     "speaker": "Tom",
     "text": "These are public facts about your own country.",
-    "t": 280.14
+    "t": 251.87
    },
    {
     "speaker": "Anna",
     "text": "Let's make this practical.",
-    "t": 283.56
+    "t": 254.28
    },
    {
     "speaker": "Anna",
     "text": "How can someone actually use STATEC?",
-    "t": 286
+    "t": 255.93
    },
    {
     "speaker": "Tom",
     "text": "First, if you hear a claim about Luxembourg in the news, you can check the real figures on the portal.",
-    "t": 289.04
+    "t": 258.53
    },
    {
     "speaker": "Anna",
     "text": "Second, if you're curious about prices, population or the economy, explore the tables and tools for free.",
-    "t": 295.17
+    "t": 264.36
    },
    {
     "speaker": "Tom",
     "text": "Third, if you're a student, a journalist, or just a curious mind, it's a goldmine of reliable information.",
-    "t": 302.61
+    "t": 271.72
    },
    {
     "speaker": "Anna",
     "text": "And fourth, remember that behind the famous \"index\" on your payslip, there is STATEC, measuring carefully.",
-    "t": 309.47
+    "t": 278.95
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 316.34
+    "t": 286.21
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about STATEC?",
-    "t": 318.86
+    "t": 287.58
    },
    {
     "speaker": "Anna",
     "text": "First... STATEC is Luxembourg's national statistics institute, independent and trustworthy, with the motto \"we count because you count\".",
-    "t": 322.15
+    "t": 290.18
    },
    {
     "speaker": "Tom",
     "text": "Second... it measures inflation, which feeds the indexation of salaries and pensions, plus population, the economy, and much more.",
-    "t": 331.52
+    "t": 299.5
    },
    {
     "speaker": "Anna",
     "text": "Third... all of it is free to explore on the portal, statistiques dot public dot lu.",
-    "t": 339.83
+    "t": 308.28
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it even measures wellbeing and sustainable development, not just money.",
-    "t": 345.63
+    "t": 314.24
    },
    {
     "speaker": "Anna",
     "text": "Numbers can feel cold.",
-    "t": 350.98
+    "t": 319.07
    },
    {
     "speaker": "Anna",
     "text": "But behind every figure is a real story about real people in this country.",
-    "t": 353.38
+    "t": 320.83
    },
    {
     "speaker": "Tom",
     "text": "And having honest, shared facts is one of the quiet foundations of a healthy democracy.",
-    "t": 358.28
+    "t": 325.43
    },
    {
     "speaker": "Anna",
-    "text": "Thank you so much for listening today.",
-    "t": 363.84
-   },
-   {
-    "speaker": "Tom",
-    "text": "Take care, and see you in the next episode.",
-    "t": 366.79
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 370.25
+    "text": "That was our episode about STATEC and the statistics portal.",
+    "t": 330.16
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 371.94
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 333.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 343.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 361.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 368.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 370.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 375.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 376.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 378.31
    }
   ],
   "questions": [
@@ -70809,1171 +70901,1185 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_statec_fr.mp3",
-  "duration_fr": 395.54,
+  "duration_fr": 366.18,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour, et bienvenue à nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Nous sommes ravis de vous compter parmi nous aujourd'hui.",
-    "t": 3.09
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 6.78
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 9.35
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme sur le vivre-ensemble au Luxembourg.",
-    "t": 12.81
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, et les travailleurs frontaliers aussi, à comprendre le pays.",
-    "t": 16.48
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et aujourd'hui, nous allons comprendre le pays à travers les chiffres.",
-    "t": 23.58
+    "t": 23.07
    },
    {
     "speaker": "Anna",
-    "text": "Oui !",
-    "t": 27.85
-   },
-   {
-    "speaker": "Anna",
-    "text": "Combien de personnes vivent ici, comment les prix évoluent, comment se porte l'économie.",
-    "t": 29.35
+    "text": "Oui ! Combien de personnes vivent ici, comment les prix évoluent, comment se porte l'économie.",
+    "t": 26.69
    },
    {
     "speaker": "Anna",
     "text": "Des faits et des chiffres sur le Luxembourg.",
-    "t": 34.95
+    "t": 31.71
    },
    {
     "speaker": "Tom",
     "text": "Et il existe un organisme officiel dont le seul métier est de mesurer et de partager ces chiffres.",
-    "t": 38.17
+    "t": 34.44
    },
    {
     "speaker": "Tom",
     "text": "Il s'appelle STATEC.",
-    "t": 43.72
+    "t": 39.92
    },
    {
     "speaker": "Anna",
     "text": "Le STATEC est l'institut national de la statistique du Luxembourg.",
-    "t": 46.05
+    "t": 41.53
    },
    {
     "speaker": "Tom",
     "text": "Il a une jolie devise... « Nous comptons parce que vous comptez ».",
-    "t": 50.6
+    "t": 45.06
    },
    {
     "speaker": "Anna",
-    "text": "J'adore cela.",
-    "t": 55.2
-   },
-   {
-    "speaker": "Anna",
-    "text": "Les chiffres ne sont pas réservés aux experts.",
-    "t": 57.17
+    "text": "J'adore cela. Les chiffres ne sont pas réservés aux experts.",
+    "t": 48.64
    },
    {
     "speaker": "Anna",
     "text": "Ils parlent des gens, et ils sont pour les gens.",
-    "t": 60.52
+    "t": 52.03
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, que fait exactement le STATEC ?",
-    "t": 63.72
+    "t": 54.45
    },
    {
     "speaker": "Anna",
     "text": "Le STATEC collecte, produit et partage les statistiques officielles sur le Luxembourg... la population, l'économie, les prix, l'emploi, et bien plus encore.",
-    "t": 67.25
+    "t": 57.02
    },
    {
     "speaker": "Tom",
     "text": "Il travaille sous l'autorité du ministère de l'Économie, mais son travail statistique est indépendant.",
-    "t": 77.76
+    "t": 65.58
    },
    {
     "speaker": "Anna",
     "text": "Cette indépendance compte beaucoup.",
-    "t": 83.66
+    "t": 71.17
    },
    {
     "speaker": "Anna",
     "text": "Cela signifie que les chiffres sont neutres et dignes de confiance, et qu'ils ne sont pas faussés pour arranger qui que ce soit.",
-    "t": 86.44
+    "t": 72.96
    },
    {
     "speaker": "Tom",
     "text": "Donc, quand le STATEC affirme quelque chose, vous pouvez être sûr que cela a été mesuré avec soin et honnêteté.",
-    "t": 93.28
+    "t": 78.99
    },
    {
     "speaker": "Anna",
     "text": "Parlons du chiffre le plus célèbre que produit le STATEC... l'inflation.",
-    "t": 99.99
+    "t": 85.67
    },
    {
     "speaker": "Tom",
     "text": "L'inflation, c'est la vitesse à laquelle les prix augmentent.",
-    "t": 104.72
+    "t": 89.64
    },
    {
     "speaker": "Tom",
     "text": "Le STATEC la mesure chaque mois.",
-    "t": 108.71
+    "t": 93.1
    },
    {
     "speaker": "Anna",
     "text": "Il le fait grâce à l'indice des prix à la consommation... le prix d'un panier type de biens et de services que les ménages achètent.",
-    "t": 111.44
+    "t": 95.32
    },
    {
     "speaker": "Tom",
     "text": "L'alimentation, le loyer, le carburant, les services.",
-    "t": 118.59
+    "t": 101.95
    },
    {
     "speaker": "Tom",
     "text": "Ils suivent l'évolution du prix de ce panier au fil du temps.",
-    "t": 123.28
+    "t": 105.26
    },
    {
     "speaker": "Anna",
     "text": "Et voici pourquoi cela compte tellement au Luxembourg.",
-    "t": 126.94
+    "t": 109.8
    },
    {
     "speaker": "Anna",
     "text": "Cet indice est lié au fameux système de l'« index ».",
-    "t": 130.67
+    "t": 112.28
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 134.71
-   },
-   {
-    "speaker": "Tom",
-    "text": "Au Luxembourg, quand les prix augmentent d'un certain montant, les salaires et les pensions sont automatiquement relevés pour suivre le rythme.",
-    "t": 136.18
+    "text": "Oui. Au Luxembourg, quand les prix augmentent d'un certain montant, les salaires et les pensions sont automatiquement relevés pour suivre le rythme.",
+    "t": 115.31
    },
    {
     "speaker": "Anna",
     "text": "Cet ajustement automatique s'appelle l'indexation.",
-    "t": 143.68
+    "t": 123.07
    },
    {
     "speaker": "Anna",
     "text": "Et il repose sur les mesures du STATEC.",
-    "t": 147.44
+    "t": 125.89
    },
    {
     "speaker": "Tom",
     "text": "Donc le travail du STATEC touche presque chaque portefeuille du pays.",
-    "t": 150.79
+    "t": 128.19
    },
    {
     "speaker": "Tom",
     "text": "C'est remarquable.",
-    "t": 155.03
+    "t": 131.88
    },
    {
     "speaker": "Anna",
     "text": "Cela l'est vraiment.",
-    "t": 157.09
+    "t": 133.29
    },
    {
     "speaker": "Anna",
     "text": "Mais l'inflation n'est qu'une chose parmi tant d'autres que mesure le STATEC.",
-    "t": 159.13
+    "t": 134.41
    },
    {
     "speaker": "Tom",
     "text": "Il compte aussi la population... combien nous sommes, où nous vivons, comment le pays grandit.",
-    "t": 163.59
+    "t": 138.08
    },
    {
     "speaker": "Anna",
     "text": "Il mesure l'économie, avec des chiffres comme le produit intérieur brut, souvent abrégé en PIB.",
-    "t": 169.26
+    "t": 143.54
    },
    {
     "speaker": "Tom",
     "text": "Le PIB est une mesure de tout ce que le pays produit.",
-    "t": 175.72
+    "t": 148.82
    },
    {
     "speaker": "Tom",
     "text": "Le STATEC suit la croissance ou le ralentissement de l'économie.",
-    "t": 179.41
+    "t": 152.07
    },
    {
     "speaker": "Anna",
     "text": "Il s'intéresse aussi à l'emploi et aux salaires, au logement, à l'éducation, à l'environnement, et bien plus encore.",
-    "t": 183.31
+    "t": 155.71
    },
    {
     "speaker": "Tom",
     "text": "Maintenant, voici la question que beaucoup de gens se posent.",
-    "t": 191.04
+    "t": 161.71
    },
    {
     "speaker": "Tom",
     "text": "Où puis-je réellement voir tout cela ?",
-    "t": 195.24
+    "t": 164.75
    },
    {
     "speaker": "Anna",
     "text": "Sur le portail officiel des statistiques.",
-    "t": 197.81
+    "t": 167.18
    },
    {
     "speaker": "Anna",
     "text": "Le site internet est statistiques point public point lu.",
-    "t": 201.05
+    "t": 169.5
    },
    {
     "speaker": "Tom",
     "text": "Et le meilleur... c'est gratuit, et ouvert à tout le monde.",
-    "t": 204.85
+    "t": 172.78
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez parcourir des tableaux de chiffres par thème, lire de courts communiqués, et explorer les données par vous-même.",
-    "t": 208.85
+    "t": 176.42
    },
    {
     "speaker": "Tom",
     "text": "Il y a même des outils simples et des simulateurs sur le portail.",
-    "t": 216.13
+    "t": 182.21
    },
    {
     "speaker": "Anna",
     "text": "Par exemple, des outils sur l'inflation et l'indexation, ou pour comparer les chiffres au fil des années.",
-    "t": 220.13
+    "t": 185.86
    },
    {
     "speaker": "Tom",
     "text": "Donc vous n'avez pas besoin d'être économiste.",
-    "t": 226.64
+    "t": 190.83
    },
    {
     "speaker": "Tom",
     "text": "Le portail est conçu aussi pour les citoyens curieux.",
-    "t": 229.88
+    "t": 193.2
    },
    {
     "speaker": "Anna",
     "text": "Le STATEC regarde également au-delà de l'argent, vers ce qui compte pour notre qualité de vie.",
-    "t": 233.49
+    "t": 196.52
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 239.51
-   },
-   {
-    "speaker": "Tom",
-    "text": "Il publie des indicateurs sur le bien-être, et sur le développement durable.",
-    "t": 240.98
+    "text": "Oui. Il publie des indicateurs sur le bien-être, et sur le développement durable.",
+    "t": 200.91
    },
    {
     "speaker": "Anna",
     "text": "Parce qu'une bonne société, ce n'est pas seulement combien nous produisons, mais combien nous vivons bien.",
-    "t": 245.66
+    "t": 205.29
    },
    {
     "speaker": "Tom",
     "text": "C'est une façon saine de regarder un pays... avec la tête et avec le cœur.",
-    "t": 251.57
+    "t": 209.8
    },
    {
     "speaker": "Anna",
     "text": "Parlons de la raison pour laquelle tout cela compte pour les gens ordinaires, même ceux qui n'ouvrent jamais le site.",
-    "t": 256.48
+    "t": 214.25
    },
    {
     "speaker": "Tom",
     "text": "D'abord, parce que les bonnes décisions ont besoin de bons faits.",
-    "t": 262.89
+    "t": 219.41
    },
    {
     "speaker": "Tom",
     "text": "Les gouvernements utilisent ces chiffres pour planifier.",
-    "t": 267.09
+    "t": 222.84
    },
    {
     "speaker": "Anna",
     "text": "Les écoles, les hôpitaux, le logement, les transports... pour planifier tout cela, il faut savoir combien de personnes il y a, et de quoi elles ont besoin.",
-    "t": 270.62
+    "t": 226.02
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, parce que cela garde le débat public honnête.",
-    "t": 280.28
+    "t": 233.85
    },
    {
     "speaker": "Anna",
     "text": "Quand les gens débattent de l'économie ou des prix, des chiffres neutres donnent à chacun un point de départ commun et factuel.",
-    "t": 284.37
+    "t": 237.03
    },
    {
     "speaker": "Tom",
     "text": "Et enfin, parce que c'est votre droit de savoir.",
-    "t": 291.3
+    "t": 242.9
    },
    {
     "speaker": "Tom",
     "text": "Ce sont des faits publics sur votre propre pays.",
-    "t": 294.94
+    "t": 245.42
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 298.25
+    "t": 248.11
    },
    {
     "speaker": "Anna",
     "text": "Comment quelqu'un peut-il réellement utiliser le STATEC ?",
-    "t": 300.58
+    "t": 249.42
    },
    {
     "speaker": "Tom",
     "text": "D'abord, si vous entendez une affirmation sur le Luxembourg dans l'actualité, vous pouvez vérifier les vrais chiffres sur le portail.",
-    "t": 304.37
+    "t": 252.33
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, si vous êtes curieux au sujet des prix, de la population ou de l'économie, explorez les tableaux et les outils gratuitement.",
-    "t": 311.86
+    "t": 258.94
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, si vous êtes étudiant, journaliste, ou simplement un esprit curieux, c'est une mine d'or d'informations fiables.",
-    "t": 320.12
+    "t": 265.54
    },
    {
     "speaker": "Anna",
     "text": "Et enfin, souvenez-vous que derrière le fameux « index » sur votre fiche de paie, il y a le STATEC, qui mesure avec soin.",
-    "t": 327.63
+    "t": 273.19
    },
    {
     "speaker": "Tom",
     "text": "Rassemblons tout cela.",
-    "t": 335.74
+    "t": 279.06
    },
    {
     "speaker": "Tom",
     "text": "Que faut-il retenir au sujet du STATEC ?",
-    "t": 338.02
+    "t": 280.54
    },
    {
     "speaker": "Anna",
     "text": "D'abord... le STATEC est l'institut national de la statistique du Luxembourg, indépendant et digne de confiance, avec la devise « nous comptons parce que vous comptez ».",
-    "t": 341.24
+    "t": 283.02
    },
    {
     "speaker": "Tom",
     "text": "Ensuite... il mesure l'inflation, qui alimente l'indexation des salaires et des pensions, ainsi que la population, l'économie, et bien plus encore.",
-    "t": 351.59
+    "t": 291.01
    },
    {
     "speaker": "Anna",
     "text": "Ensuite... tout cela est gratuit à explorer sur le portail, statistiques point public point lu.",
-    "t": 360.59
+    "t": 299.9
    },
    {
     "speaker": "Tom",
     "text": "Et enfin... il mesure même le bien-être et le développement durable, pas seulement l'argent.",
-    "t": 366.92
+    "t": 305.26
    },
    {
     "speaker": "Anna",
     "text": "Les chiffres peuvent sembler froids.",
-    "t": 372.22
+    "t": 309.96
    },
    {
     "speaker": "Anna",
     "text": "Mais derrière chaque chiffre se cache une vraie histoire de vraies personnes dans ce pays.",
-    "t": 374.89
+    "t": 311.63
    },
    {
     "speaker": "Tom",
     "text": "Et disposer de faits honnêtes et partagés est l'un des fondements discrets d'une démocratie en bonne santé.",
-    "t": 379.68
+    "t": 315.5
    },
    {
     "speaker": "Anna",
-    "text": "Merci beaucoup d'avoir écouté aujourd'hui.",
-    "t": 385.15
-   },
-   {
-    "speaker": "Tom",
-    "text": "Prenez soin de vous, et à bientôt dans le prochain épisode.",
-    "t": 388.39
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 392.41
+    "text": "C'était notre épisode sur le STATEC et le portail des statistiques.",
+    "t": 321.79
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 393.94
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 325.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 333.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 349.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 354.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 356.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 360.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 361.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 364.41
    }
   ],
   "audio_de": "podcast_statec_de.mp3",
-  "duration_de": 433.06,
+  "duration_de": 415.53,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Schön, dass Sie heute bei uns sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.44
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.51
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 11.9
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, das Land zu verstehen.",
-    "t": 16.28
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und heute werden wir das Land durch Zahlen verstehen.",
-    "t": 23.98
+    "t": 27.86
    },
    {
     "speaker": "Anna",
-    "text": "Ja!",
-    "t": 27.51
-   },
-   {
-    "speaker": "Anna",
-    "text": "Wie viele Menschen hier leben, wie sich die Preise verändern, wie es der Wirtschaft geht.",
-    "t": 28.89
+    "text": "Ja! Wie viele Menschen hier leben, wie sich die Preise verändern, wie es der Wirtschaft geht.",
+    "t": 30.8
    },
    {
     "speaker": "Anna",
     "text": "Fakten und Zahlen über Luxemburg.",
-    "t": 34.95
+    "t": 37.36
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt eine offizielle Einrichtung, deren ganze Aufgabe es ist, diese Zahlen zu messen und zu teilen.",
-    "t": 38.19
+    "t": 39.99
    },
    {
     "speaker": "Tom",
     "text": "Sie heißt STATEC.",
-    "t": 45.16
+    "t": 46.01
    },
    {
     "speaker": "Anna",
     "text": "STATEC ist das nationale Statistikinstitut Luxemburgs.",
-    "t": 47.36
+    "t": 47.65
    },
    {
     "speaker": "Tom",
     "text": "Es hat ein schönes Motto... „Wir zählen, weil Sie zählen\".",
-    "t": 52.2
+    "t": 51.62
    },
    {
     "speaker": "Anna",
     "text": "Das liebe ich.",
-    "t": 57.42
+    "t": 54.93
    },
    {
     "speaker": "Anna",
     "text": "Die Zahlen sind nicht nur für Experten.",
-    "t": 59.37
+    "t": 56.03
    },
    {
     "speaker": "Anna",
     "text": "Es geht um Menschen, und sie sind für Menschen da.",
-    "t": 62.7
+    "t": 58.36
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was macht STATEC genau?",
-    "t": 66.32
+    "t": 61.34
    },
    {
     "speaker": "Anna",
     "text": "STATEC sammelt, erstellt und teilt offizielle Statistiken über Luxemburg... die Bevölkerung, die Wirtschaft, die Preise, die Arbeitsplätze und vieles mehr.",
-    "t": 69.67
+    "t": 63.49
    },
    {
     "speaker": "Tom",
     "text": "Es arbeitet unter dem Wirtschaftsministerium, aber seine statistische Arbeit ist unabhängig.",
-    "t": 80.82
+    "t": 74.89
    },
    {
     "speaker": "Anna",
     "text": "Diese Unabhängigkeit ist sehr wichtig.",
-    "t": 86.86
+    "t": 80.34
    },
    {
     "speaker": "Anna",
     "text": "Sie bedeutet, dass die Zahlen neutral und vertrauenswürdig sind und nicht zugunsten von irgendjemandem verfälscht werden.",
-    "t": 90.39
+    "t": 82.54
    },
    {
     "speaker": "Tom",
     "text": "Wenn STATEC also etwas sagt, können Sie sich darauf verlassen, dass es sorgfältig und ehrlich gemessen wurde.",
-    "t": 98.44
+    "t": 89.23
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir über die berühmteste Zahl, die STATEC erstellt... die Inflation.",
-    "t": 105.54
+    "t": 95.58
    },
    {
     "speaker": "Tom",
     "text": "Inflation ist, wie schnell die Preise steigen.",
-    "t": 111.41
+    "t": 100.56
    },
    {
     "speaker": "Tom",
     "text": "STATEC misst sie jeden Monat.",
-    "t": 115.16
+    "t": 103.34
    },
    {
     "speaker": "Anna",
     "text": "Es tut dies über den Verbraucherpreisindex... den Preis eines typischen Korbs von Waren und Dienstleistungen, die die Haushalte kaufen.",
-    "t": 117.82
+    "t": 105.54
    },
    {
     "speaker": "Tom",
     "text": "Lebensmittel, Miete, Kraftstoff, Dienstleistungen.",
-    "t": 127.04
+    "t": 113.61
    },
    {
     "speaker": "Tom",
     "text": "Sie verfolgen, wie sich der Preis dieses Korbs im Laufe der Zeit verändert.",
-    "t": 131.7
+    "t": 117.42
    },
    {
     "speaker": "Anna",
     "text": "Und hier ist, warum das in Luxemburg so sehr zählt.",
-    "t": 136.88
+    "t": 121.59
    },
    {
     "speaker": "Anna",
     "text": "Dieser Index ist mit dem berühmten „Index\"-System verbunden.",
-    "t": 141.32
+    "t": 125.02
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 146.34
-   },
-   {
-    "speaker": "Tom",
-    "text": "In Luxemburg werden die Löhne und Renten automatisch erhöht, um Schritt zu halten, wenn die Preise um einen bestimmten Betrag steigen.",
-    "t": 147.82
+    "text": "Ja. In Luxemburg werden die Löhne und Renten automatisch erhöht, um Schritt zu halten, wenn die Preise um einen bestimmten Betrag steigen.",
+    "t": 129.37
    },
    {
     "speaker": "Anna",
     "text": "Diese automatische Anpassung nennt man Indexierung.",
-    "t": 155.93
+    "t": 138.32
    },
    {
     "speaker": "Anna",
     "text": "Und sie beruht auf den Messungen von STATEC.",
-    "t": 160.19
+    "t": 141.43
    },
    {
     "speaker": "Tom",
     "text": "Die Arbeit von STATEC berührt also fast jeden Geldbeutel im Land.",
-    "t": 163.63
+    "t": 144.02
    },
    {
     "speaker": "Tom",
     "text": "Das ist bemerkenswert.",
-    "t": 168.32
+    "t": 147.97
    },
    {
     "speaker": "Anna",
     "text": "Das ist es wirklich.",
-    "t": 170.65
+    "t": 149.56
    },
    {
     "speaker": "Anna",
     "text": "Aber die Inflation ist nur eines von vielen Dingen, die STATEC misst.",
-    "t": 172.93
+    "t": 150.98
    },
    {
     "speaker": "Tom",
     "text": "Es zählt auch die Bevölkerung... wie viele wir sind, wo wir leben, wie das Land wächst.",
-    "t": 177.97
+    "t": 154.73
    },
    {
     "speaker": "Anna",
     "text": "Es misst die Wirtschaft, mit Zahlen wie dem Bruttoinlandsprodukt, oft als BIP abgekürzt.",
-    "t": 183.75
+    "t": 159.84
    },
    {
     "speaker": "Tom",
     "text": "Das BIP ist ein Maß für alles, was das Land produziert.",
-    "t": 190.63
+    "t": 165.27
    },
    {
     "speaker": "Tom",
     "text": "STATEC verfolgt, wie die Wirtschaft wächst oder sich verlangsamt.",
-    "t": 195.07
+    "t": 169.17
    },
    {
     "speaker": "Anna",
     "text": "Es betrachtet auch Arbeitsplätze und Löhne, Wohnen, Bildung, die Umwelt und vieles mehr.",
-    "t": 199.6
+    "t": 173.01
    },
    {
     "speaker": "Tom",
     "text": "Nun, hier ist die Frage, die viele Menschen haben.",
-    "t": 206.58
+    "t": 178.99
    },
    {
     "speaker": "Tom",
     "text": "Wo kann ich das alles eigentlich sehen?",
-    "t": 210.64
+    "t": 181.8
    },
    {
     "speaker": "Anna",
     "text": "Auf dem offiziellen Statistikportal.",
-    "t": 213.75
+    "t": 183.98
    },
    {
     "speaker": "Anna",
     "text": "Die Webseite ist statistiques Punkt public Punkt lu.",
-    "t": 217.1
+    "t": 186.32
    },
    {
     "speaker": "Tom",
     "text": "Und das Beste daran... es ist kostenlos und für alle offen.",
-    "t": 221.45
+    "t": 190.18
    },
    {
     "speaker": "Anna",
     "text": "Sie können Zahlentabellen nach Thema durchstöbern, kurze Pressemitteilungen lesen und die Daten selbst erkunden.",
-    "t": 225.87
+    "t": 193.77
    },
    {
     "speaker": "Tom",
     "text": "Es gibt sogar einfache Werkzeuge und Simulatoren auf dem Portal.",
-    "t": 233.58
+    "t": 200.51
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispiel Werkzeuge über Inflation und Indexierung, oder um Zahlen über die Jahre hinweg zu vergleichen.",
-    "t": 238.26
+    "t": 204.35
    },
    {
     "speaker": "Tom",
     "text": "Sie müssen also kein Wirtschaftswissenschaftler sein.",
-    "t": 245.81
+    "t": 211.09
    },
    {
     "speaker": "Tom",
     "text": "Das Portal ist auch für neugierige Bürger gebaut.",
-    "t": 249.61
+    "t": 213.86
    },
    {
     "speaker": "Anna",
     "text": "STATEC schaut auch über das Geld hinaus, auf Dinge, die für unsere Lebensqualität wichtig sind.",
-    "t": 253.16
+    "t": 217.01
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 260.05
-   },
-   {
-    "speaker": "Tom",
-    "text": "Es veröffentlicht Indikatoren zum Wohlergehen und zur nachhaltigen Entwicklung.",
-    "t": 261.53
+    "text": "Ja. Es veröffentlicht Indikatoren zum Wohlergehen und zur nachhaltigen Entwicklung.",
+    "t": 222.88
    },
    {
     "speaker": "Anna",
     "text": "Denn eine gute Gesellschaft besteht nicht nur darin, wie viel wir produzieren, sondern darin, wie gut wir leben.",
-    "t": 266.57
+    "t": 228.12
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine gesunde Art, ein Land zu betrachten... mit dem Kopf und mit dem Herzen.",
-    "t": 274.39
+    "t": 234.38
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir darüber, warum das alles für ganz normale Menschen wichtig ist, sogar für diejenigen, die die Webseite nie öffnen.",
-    "t": 279.94
+    "t": 239.35
    },
    {
     "speaker": "Tom",
     "text": "Erstens, weil gute Entscheidungen gute Fakten brauchen.",
-    "t": 288.83
+    "t": 246.49
    },
    {
     "speaker": "Tom",
     "text": "Die Regierungen nutzen diese Zahlen zur Planung.",
-    "t": 293.07
+    "t": 249.86
    },
    {
     "speaker": "Anna",
     "text": "Schulen, Krankenhäuser, Wohnungen, Verkehr... um all das zu planen, muss man wissen, wie viele Menschen es gibt und was sie brauchen.",
-    "t": 296.64
+    "t": 252.96
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, weil es das öffentliche Gespräch ehrlich hält.",
-    "t": 306.04
+    "t": 261.52
    },
    {
     "speaker": "Anna",
     "text": "Wenn Menschen über die Wirtschaft oder die Preise streiten, geben neutrale Zahlen allen einen gemeinsamen, faktischen Ausgangspunkt.",
-    "t": 310.17
+    "t": 264.87
    },
    {
     "speaker": "Tom",
     "text": "Und drittens, weil es Ihr Recht ist, Bescheid zu wissen.",
-    "t": 318.94
+    "t": 272.23
    },
    {
     "speaker": "Tom",
     "text": "Das sind öffentliche Fakten über Ihr eigenes Land.",
-    "t": 323.14
+    "t": 275.25
    },
    {
     "speaker": "Anna",
     "text": "Machen wir das praktisch.",
-    "t": 326.71
+    "t": 278.31
    },
    {
     "speaker": "Anna",
     "text": "Wie kann jemand STATEC tatsächlich nutzen?",
-    "t": 329.18
+    "t": 279.85
    },
    {
     "speaker": "Tom",
     "text": "Erstens, wenn Sie in den Nachrichten eine Behauptung über Luxemburg hören, können Sie die echten Zahlen auf dem Portal überprüfen.",
-    "t": 332.75
+    "t": 282.82
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, wenn Sie neugierig auf Preise, Bevölkerung oder die Wirtschaft sind, erkunden Sie die Tabellen und Werkzeuge kostenlos.",
-    "t": 340.5
+    "t": 290.07
    },
    {
     "speaker": "Tom",
     "text": "Drittens, wenn Sie Student, Journalist oder einfach ein neugieriger Geist sind, ist es eine Goldgrube an verlässlichen Informationen.",
-    "t": 349.65
+    "t": 297.85
    },
    {
     "speaker": "Anna",
     "text": "Und viertens, denken Sie daran, dass hinter dem berühmten „Index\" auf Ihrer Gehaltsabrechnung STATEC steht, das sorgfältig misst.",
-    "t": 358.12
+    "t": 306.37
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir alles zusammen.",
-    "t": 367.05
+    "t": 314.48
    },
    {
     "speaker": "Tom",
     "text": "Was sollten sich die Menschen über STATEC merken?",
-    "t": 369.62
+    "t": 316.07
    },
    {
     "speaker": "Anna",
     "text": "Erstens... STATEC ist das nationale Statistikinstitut Luxemburgs, unabhängig und vertrauenswürdig, mit dem Motto „wir zählen, weil Sie zählen\".",
-    "t": 373.24
+    "t": 318.87
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... es misst die Inflation, die in die Indexierung der Löhne und Renten einfließt, sowie die Bevölkerung, die Wirtschaft und vieles mehr.",
-    "t": 384.19
+    "t": 328.85
    },
    {
     "speaker": "Anna",
     "text": "Drittens... all das kann man kostenlos auf dem Portal erkunden, statistiques Punkt public Punkt lu.",
-    "t": 393.25
+    "t": 338.34
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... es misst sogar das Wohlergehen und die nachhaltige Entwicklung, nicht nur das Geld.",
-    "t": 400.52
+    "t": 345.67
    },
    {
     "speaker": "Anna",
     "text": "Zahlen können sich kalt anfühlen.",
-    "t": 406.69
+    "t": 352.36
    },
    {
     "speaker": "Anna",
     "text": "Aber hinter jeder Zahl steht eine echte Geschichte über echte Menschen in diesem Land.",
-    "t": 409.91
+    "t": 354.42
    },
    {
     "speaker": "Tom",
     "text": "Und ehrliche, gemeinsame Fakten zu haben, ist eines der stillen Fundamente einer gesunden Demokratie.",
-    "t": 415.75
+    "t": 359.08
    },
    {
     "speaker": "Anna",
-    "text": "Vielen Dank, dass Sie heute zugehört haben.",
-    "t": 422.55
-   },
-   {
-    "speaker": "Tom",
-    "text": "Passen Sie auf sich auf, und bis zur nächsten Folge.",
-    "t": 426.19
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 430.01
+    "text": "Das war unsere Folge über das STATEC und das Statistikportal.",
+    "t": 365.59
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 431.58
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 369.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 378.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 396.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 402.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 404.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 409.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 410.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 413.99
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien, a wëllkomm zréck! Et ass flott, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.62
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwert d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, d'Land ze verstoen.",
-    "t": 7.66
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An haut wäerte mir d'Land duerch Zuelen verstoen.",
-    "t": 21.45
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Jo! Wéi vill Leit hei wunnen, wéi d'Präisser sech änneren, wéi et der Wirtschaft geet. Fakten an Zuelen iwwer Lëtzebuerg.",
-    "t": 25.78
+    "t": 31.26
    },
    {
     "speaker": "Tom",
     "text": "An et gëtt eng offiziell Organisatioun, deenen hir ganz Aufgab et ass, dës Zuelen ze moossen an ze deelen. Si heescht STATEC.",
-    "t": 35.66
+    "t": 37.94
    },
    {
     "speaker": "Anna",
     "text": "STATEC ass dat national Statistikinstitut vu Lëtzebuerg.",
-    "t": 43.43
+    "t": 44.75
    },
    {
     "speaker": "Tom",
     "text": "Et huet e schéint Motto... „Mir zielen, well Dir zielt\".",
-    "t": 47.56
+    "t": 48.38
    },
    {
     "speaker": "Anna",
     "text": "Dat hunn ech gär. D'Zuelen sinn net nëmme fir Experten. Et geet ëm d'Leit, a si sinn fir d'Leit do.",
-    "t": 52.33
+    "t": 51.69
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat mécht STATEC genau?",
-    "t": 60.45
+    "t": 57.83
    },
    {
     "speaker": "Anna",
     "text": "STATEC sammelt, produzéiert an deelt offiziell Statistiken iwwer Lëtzebuerg... d'Bevëlkerung, d'Wirtschaft, d'Präisser, d'Aarbechtsplazen, a vill méi.",
-    "t": 64.07
+    "t": 60.16
    },
    {
     "speaker": "Tom",
     "text": "Et schafft ënner dem Wirtschaftsministère, awer seng statistesch Aarbecht ass onofhängeg.",
-    "t": 74.11
+    "t": 71.07
    },
    {
     "speaker": "Anna",
     "text": "Dës Onofhängegkeet ass ganz wichteg. Si bedeit, datt d'Zuelen neutral an zouverlässeg sinn, an net verfälscht ginn, fir iergendengem ze gefalen.",
-    "t": 79.78
+    "t": 75.78
    },
    {
     "speaker": "Tom",
     "text": "Also wann STATEC eppes seet, kënnt Dir Iech drop verloossen, datt et suergfälteg an éierlech gemooss gouf.",
-    "t": 87.57
+    "t": 83.14
    },
    {
     "speaker": "Anna",
     "text": "Schwätze mir iwwert déi bekanntst Zuel, déi STATEC produzéiert... d'Inflatioun.",
-    "t": 93.03
+    "t": 88.09
    },
    {
     "speaker": "Tom",
     "text": "D'Inflatioun ass, wéi séier d'Präisser klammen. STATEC mooss se all Mount.",
-    "t": 98.05
+    "t": 92.73
    },
    {
     "speaker": "Anna",
     "text": "Et mécht dat duerch de Verbraucherpräisindex... de Präis vun engem typesche Kuerf vu Wueren an Déngschtleeschtungen, déi d'Stéit kafen.",
-    "t": 104.33
+    "t": 97.39
    },
    {
     "speaker": "Tom",
     "text": "Iessen, Loyer, Brennstoff, Déngschtleeschtungen. Si verfollegen, wéi de Präis vun deem Kuerf sech mat der Zäit ännert.",
-    "t": 111.35
+    "t": 104.46
    },
    {
     "speaker": "Anna",
     "text": "An hei ass, firwat dat zu Lëtzebuerg esou vill zielt. Dësen Index ass mam berühmten „Index\"-System verbonnen.",
-    "t": 118.48
+    "t": 110.39
    },
    {
     "speaker": "Tom",
     "text": "Jo. Zu Lëtzebuerg, wann d'Präisser ëm e bestëmmte Betrag klammen, ginn d'Léin an d'Pensioune automatesch eropgesat, fir Schrëtt ze halen.",
-    "t": 125.76
+    "t": 117.19
    },
    {
     "speaker": "Anna",
     "text": "Dës automatesch Upassung heescht Indexéierung. A si baséiert op de Moossunge vum STATEC.",
-    "t": 134.48
+    "t": 124.97
    },
    {
     "speaker": "Tom",
     "text": "Also d'Aarbecht vum STATEC beréiert bal all Portmonni am Land. Dat ass bemierkenswäert.",
-    "t": 141.32
+    "t": 130.91
    },
    {
     "speaker": "Anna",
     "text": "Dat ass et wierklech. Mä d'Inflatioun ass nëmmen eng vu ville Saachen, déi STATEC mooss.",
-    "t": 147.69
+    "t": 135.89
    },
    {
     "speaker": "Tom",
     "text": "Et zielt och d'Bevëlkerung... wéi vill mir sinn, wou mir wunnen, wéi d'Land wiisst.",
-    "t": 154.02
+    "t": 140.53
    },
    {
     "speaker": "Anna",
     "text": "Et mooss d'Wirtschaft, mat Zuelen wéi dem Bruttoinlandsprodukt, dacks als BIP ofgekierzt.",
-    "t": 160.08
+    "t": 146.81
    },
    {
     "speaker": "Tom",
     "text": "D'BIP ass e Mooss fir alles, wat d'Land produzéiert. STATEC verfollegt, wéi d'Wirtschaft wiisst oder lues gëtt.",
-    "t": 166.48
+    "t": 153.48
    },
    {
     "speaker": "Anna",
     "text": "Et kuckt och op d'Aarbechtsplazen an d'Léin, op d'Wunnen, op d'Bildung, op d'Ëmwelt, a vill méi.",
-    "t": 174.31
+    "t": 160.1
    },
    {
     "speaker": "Tom",
     "text": "Elo, hei ass d'Fro, déi vill Leit hunn. Wou kann ech dat alles tatsächlech gesinn?",
-    "t": 181.13
+    "t": 166.47
    },
    {
     "speaker": "Anna",
     "text": "Um offizielle Statistikportal. D'Websäit ass statistiques Punkt public Punkt lu.",
-    "t": 187.52
+    "t": 170.51
    },
    {
     "speaker": "Tom",
     "text": "An dat Bescht... et ass gratis, a fir jiddereen op.",
-    "t": 194.14
+    "t": 176.44
    },
    {
     "speaker": "Anna",
     "text": "Dir kënnt Zuelentabellen no Thema duerchsichen, kuerz Pressematdeelunge liesen, an d'Donnéeën selwer erfuerschen.",
-    "t": 198.05
+    "t": 179.8
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt souguer einfach Tools a Simulateuren um Portal.",
-    "t": 204.69
+    "t": 186.29
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispill Tools iwwer Inflatioun an Indexéierung, oder fir Zuelen iwwer d'Joren ze vergläichen.",
-    "t": 208.84
+    "t": 189.26
    },
    {
     "speaker": "Tom",
     "text": "Also Dir musst keen Economist sinn. De Portal ass och fir virwëtzeg Bierger gebaut.",
-    "t": 215.5
+    "t": 195.35
    },
    {
     "speaker": "Anna",
     "text": "STATEC kuckt och iwwert d'Geld eraus, op Saachen, déi fir eis Liewensqualitéit wichteg sinn.",
-    "t": 222.12
+    "t": 200.11
    },
    {
     "speaker": "Tom",
     "text": "Jo. Et publizéiert Indikateuren iwwert d'Wuelbefannen, an iwwert déi nohalteg Entwécklung.",
-    "t": 227.6
+    "t": 205.18
    },
    {
     "speaker": "Anna",
     "text": "Well eng gutt Gesellschaft ass net nëmmen, wéi vill mir produzéieren, mä wéi gutt mir liewen.",
-    "t": 234.15
+    "t": 210.13
    },
    {
     "speaker": "Tom",
     "text": "Dat ass eng gesond Manéier, e Land ze kucken... mam Kapp a mam Häerz.",
-    "t": 239.9
+    "t": 215.6
    },
    {
     "speaker": "Anna",
     "text": "Schwätze mir iwwert, firwat dat alles fir ganz normal Leit wichteg ass, souguer fir déi, déi d'Websäit ni opmaachen.",
-    "t": 244.43
+    "t": 220.08
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, well gutt Entscheedungen gutt Fakten brauchen. D'Regierunge benotzen dës Zuelen, fir ze plangen.",
-    "t": 250.52
+    "t": 226.31
    },
    {
     "speaker": "Anna",
     "text": "Schoulen, Spideeler, Wunnengen, Transport... fir dat alles ze plangen, muss een wëssen, wéi vill Leit et gëtt, a wat si brauchen.",
-    "t": 257.46
+    "t": 231.5
    },
    {
     "speaker": "Tom",
     "text": "Zweetens, well et d'ëffentlecht Gespréich éierlech hält.",
-    "t": 265.39
+    "t": 239.29
    },
    {
     "speaker": "Anna",
     "text": "Wann d'Leit iwwert d'Wirtschaft oder d'Präisser sträiden, ginn neutral Zuelen jidderengem e gemeinsamen, faktesche Startpunkt.",
-    "t": 269.57
+    "t": 242.47
    },
    {
     "speaker": "Tom",
     "text": "An drëttens, well et Äert Recht ass, et ze wëssen. Dat sinn ëffentlech Fakten iwwert Äert eegent Land.",
-    "t": 276.85
+    "t": 249.45
    },
    {
     "speaker": "Anna",
     "text": "Maache mir dat praktesch. Wéi kann een STATEC tatsächlech benotzen?",
-    "t": 283.56
+    "t": 254.28
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, wann Dir an den Noriichten eng Behaaptung iwwer Lëtzebuerg héiert, kënnt Dir déi richteg Zuelen um Portal iwwerpréiwen.",
-    "t": 289.04
+    "t": 258.53
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, wann Dir virwëtzeg op Präisser, Bevëlkerung oder d'Wirtschaft sidd, erfuerscht d'Tabellen an d'Tools gratis.",
-    "t": 295.17
+    "t": 264.36
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, wann Dir Student, Journalist, oder einfach e virwëtzege Geescht sidd, ass et eng Goldgrouf vun zouverlässegen Informatiounen.",
-    "t": 302.61
+    "t": 271.72
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, denkt drun, datt hannert dem berühmten „Index\" op Ärer Pai de STATEC steet, deen suergfälteg mooss.",
-    "t": 309.47
+    "t": 278.95
    },
    {
     "speaker": "Tom",
     "text": "Bréngen mir alles zesummen. Wat sollen d'Leit sech iwwer STATEC merken?",
-    "t": 316.34
+    "t": 286.21
    },
    {
     "speaker": "Anna",
     "text": "Éischtens... STATEC ass dat national Statistikinstitut vu Lëtzebuerg, onofhängeg an zouverlässeg, mam Motto „mir zielen, well Dir zielt\".",
-    "t": 322.15
+    "t": 290.18
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... et mooss d'Inflatioun, déi an d'Indexéierung vun de Léin a Pensioune afléisst, plus d'Bevëlkerung, d'Wirtschaft, a vill méi.",
-    "t": 331.52
+    "t": 299.5
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... dat alles ass gratis ze erfuerschen um Portal, statistiques Punkt public Punkt lu.",
-    "t": 339.83
+    "t": 308.28
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... et mooss souguer d'Wuelbefannen an déi nohalteg Entwécklung, net nëmmen d'Geld.",
-    "t": 345.63
+    "t": 314.24
    },
    {
     "speaker": "Anna",
     "text": "Zuelen kënnen sech kal upëtschen. Mä hannert all Zuel ass eng richteg Geschicht iwwer richteg Leit an dësem Land.",
-    "t": 350.98
+    "t": 319.07
    },
    {
     "speaker": "Tom",
     "text": "An éierlech, gemeinsam Fakten ze hunn, ass ee vun de roueg Fundamenter vun enger gesonder Demokratie.",
-    "t": 358.28
+    "t": 325.43
    },
    {
     "speaker": "Anna",
-    "text": "Villmools merci, datt Dir haut nogelauschtert hutt.",
-    "t": 363.84
+    "text": "Dat war eis Episod iwwer de STATEC an de Statistikportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 330.16
    },
    {
     "speaker": "Tom",
-    "text": "Passt op Iech op, a bis an der nächster Episod. Äddi!",
-    "t": 366.79
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 375.11
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 371.94
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 378.31
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 26,
@@ -71982,7 +72088,7 @@ const EPISODES = [
   "title": "The Environment Portal – emwelt.lu and Caring for Nature in Luxembourg",
   "description": "What the environment portal emwelt.lu is, run by the Ministry of the Environment, Climate and Biodiversity, the areas it covers (nature, water, air, climate, waste and more), its practical services like real-time air quality, bathing-water quality and the waste-sorting guide, and how everyone can take part in protecting nature.",
   "audio": "podcast_environnement.mp3",
-  "duration": 361.75,
+  "duration": 389.3,
   "topics": [
    "The emwelt.lu portal",
    "Ministry of the Environment",
@@ -71996,393 +72102,403 @@ const EPISODES = [
   "segments": [
    {
     "speaker": "Anna",
-    "text": "Hello, and welcome back!",
-    "t": 0.05
+    "text": "Hello, and welcome!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "It's good to have you with us today.",
-    "t": 2.78
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
    },
    {
     "speaker": "Tom",
     "text": "Hello everyone!",
-    "t": 5.38
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "This episode is part of the Biergerpakt.",
-    "t": 7.42
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
    },
    {
     "speaker": "Anna",
-    "text": "That is a programme about living together in Luxembourg.",
-    "t": 10.52
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
    },
    {
     "speaker": "Anna",
-    "text": "The idea is simple... we want to help residents, and cross-border workers too, to feel connected to the country and to its nature.",
-    "t": 14.34
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
    },
    {
     "speaker": "Tom",
     "text": "And today's topic is one we all share, wherever we come from... the environment.",
-    "t": 22.52
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "The air we breathe, the water we drink, the forests we walk in, the waste we produce.",
-    "t": 27.74
+    "t": 32.13
    },
    {
     "speaker": "Tom",
     "text": "These can feel like big, distant subjects.",
-    "t": 33.73
+    "t": 37.69
    },
    {
     "speaker": "Tom",
     "text": "But there is a single place that brings them all together for citizens.",
-    "t": 37.28
+    "t": 40.09
    },
    {
     "speaker": "Anna",
     "text": "It is the environment portal of Luxembourg.",
-    "t": 41.81
+    "t": 43.81
    },
    {
     "speaker": "Anna",
-    "text": "Its friendly name is emwelt dot lu.",
-    "t": 45.05
+    "text": "Its friendly name is emwelt dot lu... which takes you to environnement dot public dot lu.",
+    "t": 46.27
    },
    {
     "speaker": "Tom",
     "text": "\"Ëmwelt\" is the Luxembourgish word for environment.",
-    "t": 48.03
+    "t": 53.5
    },
    {
     "speaker": "Tom",
     "text": "So this is, simply, the environment portal.",
-    "t": 51.89
+    "t": 56.99
    },
    {
     "speaker": "Anna",
     "text": "So Tom, who is behind it, and what is it for?",
-    "t": 55.71
+    "t": 59.86
    },
    {
     "speaker": "Tom",
     "text": "It is run by the Ministry of the Environment, Climate and Biodiversity.",
-    "t": 59.68
+    "t": 62.73
    },
    {
     "speaker": "Anna",
     "text": "And its purpose is to inform the public about the environment and sustainable development, and to give access to environmental services.",
-    "t": 64.77
+    "t": 66.83
    },
    {
     "speaker": "Tom",
     "text": "Think of it as a single doorway into everything the State does to protect nature, and how you can take part.",
-    "t": 72.92
+    "t": 75.28
    },
    {
     "speaker": "Anna",
     "text": "Let's walk through the main areas it covers, because it is wonderfully broad.",
-    "t": 79.01
+    "t": 81.94
    },
    {
     "speaker": "Tom",
     "text": "The first is nature... biodiversity, our forests, the soil, and the species that live here.",
-    "t": 83.87
+    "t": 86.41
    },
    {
     "speaker": "Anna",
     "text": "The portal even has a whole section on the return of the wolf to Luxembourg, which is fascinating.",
-    "t": 90.04
+    "t": 92.21
    },
    {
     "speaker": "Tom",
     "text": "The second area is water... drinking water, rivers, groundwater, and wastewater.",
-    "t": 95.99
+    "t": 97.64
    },
    {
     "speaker": "Anna",
     "text": "You can even check the quality of bathing water before you go for a swim in summer.",
-    "t": 101.68
+    "t": 102.79
    },
    {
     "speaker": "Tom",
     "text": "The third area is air and noise... the quality of the air we breathe, and noise pollution.",
-    "t": 106.74
+    "t": 107.34
    },
    {
     "speaker": "Anna",
-    "text": "And there is a real-time air-quality service, so you can see live measurements.",
-    "t": 112.16
+    "text": "And there is a real-time air-quality service, with the app Meng Loft, so you can see live measurements.",
+    "t": 113
    },
    {
     "speaker": "Tom",
     "text": "The fourth area is climate and energy... protecting the climate and adapting to its changes.",
-    "t": 117.2
+    "t": 119.23
    },
    {
     "speaker": "Anna",
-    "text": "Luxembourg has a national energy and climate plan, and a strategy to adapt to a warming world.",
-    "t": 122.95
+    "text": "Luxembourg has a national energy and climate plan, and a new strategy to adapt to a warming world, adopted in 2026.",
+    "t": 125.02
    },
    {
     "speaker": "Tom",
     "text": "The fifth area is waste and resources... and this is where each of us can really make a difference.",
-    "t": 129.48
+    "t": 133.46
    },
    {
     "speaker": "Anna",
-    "text": "Yes!",
-    "t": 135.21
-   },
-   {
-    "speaker": "Anna",
-    "text": "The portal explains how to sort your waste, and the country's zero-waste strategy, \"Null Offall Lëtzebuerg\".",
-    "t": 136.9
+    "text": "Yes! The portal explains how to sort your waste, and the country's zero-waste strategy, \"Null Offall Lëtzebuerg\".",
+    "t": 140.03
    },
    {
     "speaker": "Tom",
-    "text": "There's even an app to help you know what goes in which bin.",
-    "t": 143.58
+    "text": "There's even an app, Mäin Offall, to help you know what goes in which bin.",
+    "t": 147.68
    },
    {
     "speaker": "Anna",
     "text": "There are more areas too... chemicals and safe products, fishing and hunting, and protecting the soil.",
-    "t": 147.31
+    "t": 152.28
    },
    {
     "speaker": "Tom",
     "text": "So it really is a one-stop portal for the whole environment.",
-    "t": 154.31
+    "t": 158
    },
    {
     "speaker": "Anna",
     "text": "Now, let's talk about the part I find most inviting... experiencing nature.",
-    "t": 158.51
+    "t": 161.28
    },
    {
     "speaker": "Tom",
     "text": "The portal points you to nature and forest centres, and to nature trails across the country.",
-    "t": 164.19
+    "t": 166.54
    },
    {
     "speaker": "Anna",
     "text": "So it's not only about rules and protection.",
-    "t": 169.7
+    "t": 171.79
    },
    {
     "speaker": "Anna",
     "text": "It's also an invitation to go outside and enjoy the natural world.",
-    "t": 173.01
+    "t": 174.38
    },
    {
     "speaker": "Tom",
     "text": "And enjoying nature is often the first step to wanting to protect it.",
-    "t": 177.56
+    "t": 178.66
    },
    {
     "speaker": "Anna",
     "text": "The portal is also practical, with real services for citizens and professionals.",
-    "t": 182.02
+    "t": 182.72
    },
    {
     "speaker": "Tom",
     "text": "There is a section on environmental procedures... permits, financial aids, and official forms.",
-    "t": 187.64
+    "t": 187.82
    },
    {
     "speaker": "Anna",
     "text": "So if you need an environmental permit, or a grant for a green project, you can find the way in here.",
-    "t": 193.84
+    "t": 194.14
    },
    {
     "speaker": "Tom",
     "text": "And there are useful alerts too... like reporting a pollution, or checking flood information.",
-    "t": 200.3
+    "t": 200.87
    },
    {
     "speaker": "Anna",
     "text": "Let's connect this to two earlier episodes, because the picture fits together.",
-    "t": 205.96
+    "t": 206.39
    },
    {
     "speaker": "Tom",
-    "text": "Yes.",
-    "t": 211.18
-   },
-   {
-    "speaker": "Tom",
-    "text": "For climate and energy advice at home, there's Klima-Agence, which we covered.",
-    "t": 212.84
+    "text": "Yes. For climate and energy advice at home, there's Klima-Agence, which we covered.",
+    "t": 211.04
    },
    {
     "speaker": "Anna",
     "text": "And for housing and land, there's the Observatoire de l'Habitat.",
-    "t": 217.86
+    "t": 215.83
    },
    {
     "speaker": "Anna",
     "text": "The environment portal sits alongside them.",
-    "t": 222.24
+    "t": 219.62
    },
    {
     "speaker": "Tom",
     "text": "Together, they show a country thinking carefully about its future.",
-    "t": 225.61
+    "t": 222.62
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about why this matters for each of us, in daily life.",
-    "t": 230.05
+    "t": 226.5
    },
    {
     "speaker": "Tom",
     "text": "First, because the environment is not somewhere else.",
-    "t": 234.62
+    "t": 230.59
    },
    {
     "speaker": "Tom",
     "text": "It is the air on your street and the water in your tap.",
-    "t": 238.53
+    "t": 234.08
    },
    {
     "speaker": "Anna",
     "text": "Second, because small actions add up.",
-    "t": 242.37
+    "t": 237.41
    },
    {
     "speaker": "Anna",
     "text": "Sorting waste, saving water, protecting a green space... it all counts.",
-    "t": 245.66
+    "t": 240.52
    },
    {
     "speaker": "Tom",
     "text": "And third, because being informed lets you take part... in consultations, in local projects, in everyday choices.",
-    "t": 251.19
+    "t": 246.46
    },
    {
     "speaker": "Anna",
-    "text": "The portal even highlights calls for projects to bring more nature into our towns and villages.",
-    "t": 258.27
+    "text": "The portal also shares the country's latest plans... for example a new national plan to restore nature.",
+    "t": 253.34
    },
    {
     "speaker": "Tom",
     "text": "So this is not a passive website.",
-    "t": 264.2
+    "t": 259.96
    },
    {
     "speaker": "Tom",
     "text": "It's an invitation to act, together.",
-    "t": 267.22
+    "t": 262.43
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 270.48
+    "t": 265.14
    },
    {
     "speaker": "Anna",
     "text": "How can someone use emwelt dot lu?",
-    "t": 272.86
+    "t": 266.52
    },
    {
     "speaker": "Tom",
     "text": "First, before a summer swim, check the bathing-water quality.",
-    "t": 275.72
+    "t": 269.04
    },
    {
     "speaker": "Tom",
     "text": "Before a high-pollution day, check the air.",
-    "t": 280.29
+    "t": 273.04
    },
    {
     "speaker": "Anna",
     "text": "Second, when in doubt about waste, use the sorting guide or the app to recycle correctly.",
-    "t": 283.6
+    "t": 275.32
    },
    {
     "speaker": "Tom",
     "text": "Third, if you have a green project, or need an environmental permit, look up the procedures and grants.",
-    "t": 289.49
+    "t": 281.74
    },
    {
     "speaker": "Anna",
     "text": "And fourth, to reconnect with nature, find a nearby nature trail or forest centre and simply go.",
-    "t": 296.17
+    "t": 288.58
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 302.9
+    "t": 295.28
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about the environment portal?",
-    "t": 305.43
+    "t": 296.64
    },
    {
     "speaker": "Anna",
     "text": "First... emwelt dot lu is Luxembourg's one-stop environment portal, from the Ministry of the Environment, Climate and Biodiversity.",
-    "t": 309.41
+    "t": 299.7
    },
    {
     "speaker": "Tom",
     "text": "Second... it covers nature, water, air, climate, waste, and more, with real-time information and services.",
-    "t": 317.96
+    "t": 309.25
    },
    {
     "speaker": "Anna",
     "text": "Third... it's both protective and inviting... rules and permits, but also nature trails and discovery.",
-    "t": 325.22
+    "t": 316.64
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it shows how each of us can take part, with simple daily actions and local projects.",
-    "t": 331.82
+    "t": 323.94
    },
    {
     "speaker": "Anna",
     "text": "Nature gives us so much, quietly, every day.",
-    "t": 337.99
+    "t": 330.52
    },
    {
     "speaker": "Anna",
     "text": "Caring for it is a way of caring for each other.",
-    "t": 342.14
+    "t": 333.91
    },
    {
     "speaker": "Tom",
     "text": "And it starts with knowing, and then with small, steady steps.",
-    "t": 345.38
+    "t": 336.91
    },
    {
     "speaker": "Anna",
-    "text": "Thank you so much for listening today.",
-    "t": 349.65
-   },
-   {
-    "speaker": "Tom",
-    "text": "Take care of yourselves and of our shared home.",
-    "t": 352.6
-   },
-   {
-    "speaker": "Tom",
-    "text": "See you in the next episode.",
-    "t": 355.84
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 358.55
+    "text": "That was our episode about the environment portal.",
+    "t": 340.71
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 360.23
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 343.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 352.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 370.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 377.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 379.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 384.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 385.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 387.71
    }
   ],
   "questions": [
@@ -72584,1091 +72700,1110 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_environnement_fr.mp3",
-  "duration_fr": 387.62,
+  "duration_fr": 381.99,
   "segments_fr": [
    {
     "speaker": "Anna",
-    "text": "Bonjour et bienvenue de nouveau !",
-    "t": 0.05
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Nous sommes ravis de vous retrouver aujourd'hui.",
-    "t": 2.67
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
    },
    {
     "speaker": "Tom",
-    "text": "Bonjour à toutes et à tous !",
-    "t": 5.93
+    "text": "Bonjour à tous !",
+    "t": 4.64
    },
    {
     "speaker": "Anna",
-    "text": "Cet épisode fait partie du Biergerpakt.",
-    "t": 8.51
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
    },
    {
     "speaker": "Anna",
-    "text": "C'est un programme consacré au vivre-ensemble au Luxembourg.",
-    "t": 11.97
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
    },
    {
     "speaker": "Anna",
-    "text": "L'idée est simple... nous voulons aider les résidents, ainsi que les travailleurs frontaliers, à se sentir liés au pays et à sa nature.",
-    "t": 16.01
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui est un sujet que nous partageons tous, d'où que nous venions... l'environnement.",
-    "t": 24.09
+    "t": 23.07
    },
    {
     "speaker": "Anna",
     "text": "L'air que nous respirons, l'eau que nous buvons, les forêts où nous nous promenons, les déchets que nous produisons.",
-    "t": 29.76
+    "t": 28.44
    },
    {
     "speaker": "Tom",
     "text": "Ces sujets peuvent sembler vastes et lointains.",
-    "t": 36.35
+    "t": 33.9
    },
    {
     "speaker": "Tom",
     "text": "Mais il existe un seul endroit qui les rassemble tous pour les citoyens.",
-    "t": 39.31
+    "t": 36.86
    },
    {
     "speaker": "Anna",
     "text": "C'est le portail de l'environnement du Luxembourg.",
-    "t": 43.57
+    "t": 40.83
    },
    {
     "speaker": "Anna",
-    "text": "Son nom familier est emwelt point lu.",
-    "t": 47.01
+    "text": "Son nom familier est emwelt point lu... qui vous mène à environnement point public point lu.",
+    "t": 43.18
    },
    {
     "speaker": "Tom",
     "text": "« Ëmwelt » est le mot luxembourgeois pour environnement.",
-    "t": 50.21
+    "t": 49.38
    },
    {
     "speaker": "Tom",
     "text": "Il s'agit donc, tout simplement, du portail de l'environnement.",
-    "t": 53.78
+    "t": 52.47
    },
    {
     "speaker": "Anna",
     "text": "Alors Tom, qui est derrière ce portail, et à quoi sert-il ?",
-    "t": 58.15
+    "t": 55.84
    },
    {
     "speaker": "Tom",
     "text": "Il est géré par le ministère de l'Environnement, du Climat et de la Biodiversité.",
-    "t": 62.77
+    "t": 58.8
    },
    {
     "speaker": "Anna",
     "text": "Et son but est d'informer le public sur l'environnement et le développement durable, et de donner accès à des services environnementaux.",
-    "t": 67.75
+    "t": 63.63
    },
    {
     "speaker": "Tom",
     "text": "Voyez-le comme une porte d'entrée unique vers tout ce que l'État fait pour protéger la nature, et la manière dont vous pouvez y participer.",
-    "t": 75.28
+    "t": 69.8
    },
    {
     "speaker": "Anna",
     "text": "Parcourons les principaux domaines qu'il couvre, car il est merveilleusement large.",
-    "t": 82.47
+    "t": 77.6
    },
    {
     "speaker": "Tom",
     "text": "Le premier est la nature... la biodiversité, nos forêts, le sol, et les espèces qui vivent ici.",
-    "t": 87.38
+    "t": 81.51
    },
    {
     "speaker": "Anna",
     "text": "Le portail a même une section entière sur le retour du loup au Luxembourg, ce qui est fascinant.",
-    "t": 93.75
+    "t": 88.32
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième domaine est l'eau... l'eau potable, les rivières, les eaux souterraines et les eaux usées.",
-    "t": 99.66
+    "t": 92.89
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez même vérifier la qualité des eaux de baignade avant d'aller nager en été.",
-    "t": 105.28
+    "t": 98.87
    },
    {
     "speaker": "Tom",
     "text": "Le troisième domaine est l'air et le bruit... la qualité de l'air que nous respirons, et la pollution sonore.",
-    "t": 110.36
+    "t": 102.84
    },
    {
     "speaker": "Anna",
-    "text": "Et il existe un service de qualité de l'air en temps réel, qui vous permet de voir les mesures en direct.",
-    "t": 116.43
+    "text": "Et il existe un service de qualité de l'air en temps réel, avec l'application Meng Loft, qui vous permet de voir les mesures en direct.",
+    "t": 109.05
    },
    {
     "speaker": "Tom",
     "text": "Le quatrième domaine est le climat et l'énergie... protéger le climat et s'adapter à ses changements.",
-    "t": 122.65
+    "t": 115.35
    },
    {
     "speaker": "Anna",
-    "text": "Le Luxembourg dispose d'un plan national énergie et climat, et d'une stratégie pour s'adapter à un monde qui se réchauffe.",
-    "t": 128.2
+    "text": "Le Luxembourg dispose d'un plan national énergie et climat, et d'une nouvelle stratégie pour s'adapter à un monde qui se réchauffe, adoptée en 2026.",
+    "t": 121.84
    },
    {
     "speaker": "Tom",
     "text": "Le cinquième domaine est les déchets et les ressources... et c'est là que chacun d'entre nous peut vraiment faire la différence.",
-    "t": 135.48
+    "t": 129.48
    },
    {
     "speaker": "Anna",
-    "text": "Oui !",
-    "t": 141.68
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le portail explique comment faire le tri des déchets, et présente la stratégie zéro déchet du pays, « Null Offall Lëtzebuerg ».",
-    "t": 143.19
+    "text": "Oui ! Le portail explique comment faire le tri des déchets, et présente la stratégie zéro déchet du pays, « Null Offall Lëtzebuerg ».",
+    "t": 135.98
    },
    {
     "speaker": "Tom",
-    "text": "Il existe même une application pour vous aider à savoir ce qui va dans quelle poubelle.",
-    "t": 151.09
+    "text": "Il existe même une application, Mäin Offall, pour vous aider à savoir ce qui va dans quelle poubelle.",
+    "t": 142.97
    },
    {
     "speaker": "Anna",
     "text": "Il y a encore d'autres domaines... les produits chimiques et les produits sûrs, la pêche et la chasse, et la protection du sol.",
-    "t": 155.98
+    "t": 148.41
    },
    {
     "speaker": "Tom",
     "text": "C'est donc vraiment un portail unique pour l'ensemble de l'environnement.",
-    "t": 163.31
+    "t": 155.38
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, parlons de la partie que je trouve la plus invitante... découvrir la nature.",
-    "t": 167.39
+    "t": 159.17
    },
    {
     "speaker": "Tom",
     "text": "Le portail vous oriente vers les centres nature et forêt, et vers les sentiers nature à travers le pays.",
-    "t": 173.1
+    "t": 163.45
    },
    {
     "speaker": "Anna",
     "text": "Il ne s'agit donc pas seulement de règles et de protection.",
-    "t": 178.99
+    "t": 169.46
    },
    {
     "speaker": "Anna",
     "text": "C'est aussi une invitation à sortir et à profiter du monde naturel.",
-    "t": 182.76
+    "t": 172.27
    },
    {
     "speaker": "Tom",
     "text": "Et profiter de la nature est souvent le premier pas vers l'envie de la protéger.",
-    "t": 187.38
+    "t": 176.06
    },
    {
     "speaker": "Anna",
     "text": "Le portail est aussi pratique, avec de vrais services pour les citoyens et les professionnels.",
-    "t": 191.71
+    "t": 180.05
    },
    {
     "speaker": "Tom",
     "text": "Il y a une section sur les démarches environnementales... les autorisations, les aides financières et les formulaires officiels.",
-    "t": 197.62
+    "t": 184.6
    },
    {
     "speaker": "Anna",
     "text": "Donc si vous avez besoin d'une autorisation environnementale, ou d'une aide pour un projet vert, vous pouvez trouver la marche à suivre ici.",
-    "t": 204.66
+    "t": 191.89
    },
    {
     "speaker": "Tom",
     "text": "Et il y a aussi des alertes utiles... comme signaler une pollution, ou consulter les informations sur les inondations.",
-    "t": 212.85
+    "t": 197.96
    },
    {
     "speaker": "Anna",
     "text": "Relions cela à deux épisodes précédents, car le tableau s'assemble bien.",
-    "t": 219.54
+    "t": 204.5
    },
    {
     "speaker": "Tom",
-    "text": "Oui.",
-    "t": 224.54
-   },
-   {
-    "speaker": "Tom",
-    "text": "Pour des conseils sur le climat et l'énergie à la maison, il y a Klima-Agence, dont nous avons parlé.",
-    "t": 226
+    "text": "Oui. Pour des conseils sur le climat et l'énergie à la maison, il y a Klima-Agence, dont nous avons parlé.",
+    "t": 208.43
    },
    {
     "speaker": "Anna",
     "text": "Et pour le logement et le foncier, il y a l'Observatoire de l'Habitat.",
-    "t": 231.91
+    "t": 214.58
    },
    {
     "speaker": "Anna",
     "text": "Le portail de l'environnement vient à leurs côtés.",
-    "t": 236.46
+    "t": 217.86
    },
    {
     "speaker": "Tom",
     "text": "Ensemble, ils montrent un pays qui réfléchit soigneusement à son avenir.",
-    "t": 239.99
+    "t": 220.32
    },
    {
     "speaker": "Anna",
     "text": "Parlons de la raison pour laquelle cela compte pour chacun d'entre nous, dans la vie de tous les jours.",
-    "t": 244.61
+    "t": 224.55
    },
    {
     "speaker": "Tom",
     "text": "D'abord, parce que l'environnement n'est pas ailleurs.",
-    "t": 250.27
+    "t": 228.87
    },
    {
     "speaker": "Tom",
     "text": "C'est l'air dans votre rue et l'eau de votre robinet.",
-    "t": 253.93
+    "t": 231.37
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, parce que les petites actions s'additionnent.",
-    "t": 257.06
+    "t": 234.56
    },
    {
     "speaker": "Anna",
     "text": "Faire le tri des déchets, économiser l'eau, protéger un espace vert... tout cela compte.",
-    "t": 260.84
+    "t": 237.15
    },
    {
     "speaker": "Tom",
     "text": "Et enfin, parce qu'être informé vous permet de participer... aux consultations, aux projets locaux, aux choix de tous les jours.",
-    "t": 266.96
+    "t": 242.19
    },
    {
     "speaker": "Anna",
-    "text": "Le portail met même en avant des appels à projets pour amener plus de nature dans nos villes et nos villages.",
-    "t": 274.47
+    "text": "Le portail présente aussi les derniers plans du pays... par exemple un nouveau plan national pour restaurer la nature.",
+    "t": 249.25
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est donc pas un site web passif.",
-    "t": 280.38
+    "t": 255.1
    },
    {
     "speaker": "Tom",
     "text": "C'est une invitation à agir, ensemble.",
-    "t": 283.38
+    "t": 257.23
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 286.68
+    "t": 260.1
    },
    {
     "speaker": "Anna",
     "text": "Comment peut-on utiliser emwelt point lu ?",
-    "t": 289.01
+    "t": 261.41
    },
    {
     "speaker": "Tom",
     "text": "D'abord, avant une baignade estivale, vérifiez la qualité des eaux de baignade.",
-    "t": 292.03
+    "t": 263.99
    },
    {
     "speaker": "Tom",
     "text": "Avant un jour de forte pollution, vérifiez l'air.",
-    "t": 297.29
+    "t": 268.56
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, en cas de doute sur les déchets, utilisez le guide de tri ou l'application pour recycler correctement.",
-    "t": 300.98
+    "t": 272.02
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, si vous avez un projet vert, ou besoin d'une autorisation environnementale, consultez les démarches et les aides.",
-    "t": 307.84
+    "t": 277.59
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement, pour renouer avec la nature, trouvez un sentier nature ou un centre forêt à proximité et allez-y simplement.",
-    "t": 315.26
+    "t": 284.69
    },
    {
     "speaker": "Tom",
     "text": "Rassemblons le tout.",
-    "t": 323.19
+    "t": 291.28
    },
    {
     "speaker": "Tom",
     "text": "Que faut-il retenir du portail de l'environnement ?",
-    "t": 325.28
+    "t": 292.62
    },
    {
     "speaker": "Anna",
     "text": "Premièrement... emwelt point lu est le portail unique de l'environnement du Luxembourg, du ministère de l'Environnement, du Climat et de la Biodiversité.",
-    "t": 328.56
+    "t": 295.25
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... il couvre la nature, l'eau, l'air, le climat, les déchets, et plus encore, avec des informations et des services en temps réel.",
-    "t": 337.87
+    "t": 303.27
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... il est à la fois protecteur et invitant... des règles et des autorisations, mais aussi des sentiers nature et de la découverte.",
-    "t": 346.95
+    "t": 313.56
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... il montre comment chacun d'entre nous peut participer, avec de simples actions quotidiennes et des projets locaux.",
-    "t": 355.15
+    "t": 321.15
    },
    {
     "speaker": "Anna",
     "text": "La nature nous donne tant, discrètement, chaque jour.",
-    "t": 362.26
+    "t": 328.66
    },
    {
     "speaker": "Anna",
     "text": "En prendre soin est une façon de prendre soin les uns des autres.",
-    "t": 366.3
+    "t": 331.64
    },
    {
     "speaker": "Tom",
     "text": "Et cela commence par savoir, puis par de petits pas, réguliers.",
-    "t": 370.34
+    "t": 334.9
    },
    {
     "speaker": "Anna",
-    "text": "Merci beaucoup de nous avoir écoutés aujourd'hui.",
-    "t": 374.98
-   },
-   {
-    "speaker": "Tom",
-    "text": "Prenez soin de vous et de notre maison commune.",
-    "t": 378.44
-   },
-   {
-    "speaker": "Tom",
-    "text": "À bientôt dans le prochain épisode.",
-    "t": 381.62
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi !",
-    "t": 384.48
+    "text": "C'était notre épisode sur le portail de l'environnement.",
+    "t": 338.56
    },
    {
     "speaker": "Anna",
-    "text": "Äddi !",
-    "t": 386.01
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 341.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 349.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 365.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 370.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 372.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 376.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 377.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 380.23
    }
   ],
   "audio_de": "podcast_environnement_de.mp3",
-  "duration_de": 431.33,
+  "duration_de": 427.81,
   "segments_de": [
    {
     "speaker": "Anna",
-    "text": "Hallo und herzlich willkommen zurück!",
-    "t": 0.05
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
    },
    {
     "speaker": "Anna",
-    "text": "Schön, dass Sie heute bei uns sind.",
-    "t": 3.25
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
    },
    {
     "speaker": "Tom",
     "text": "Hallo zusammen!",
-    "t": 6.44
+    "t": 5.31
    },
    {
     "speaker": "Anna",
-    "text": "Diese Folge ist Teil des Biergerpakt.",
-    "t": 8.51
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
    },
    {
     "speaker": "Anna",
-    "text": "Das ist ein Programm über das Zusammenleben in Luxemburg.",
-    "t": 11.9
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
    },
    {
     "speaker": "Anna",
-    "text": "Die Idee ist einfach... wir möchten den Einwohnern, und auch den Grenzgängern, helfen, sich mit dem Land und seiner Natur verbunden zu fühlen.",
-    "t": 16.28
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema ist eines, das wir alle teilen, woher wir auch kommen... die Umwelt.",
-    "t": 25.76
+    "t": 27.86
    },
    {
     "speaker": "Anna",
     "text": "Die Luft, die wir atmen, das Wasser, das wir trinken, die Wälder, in denen wir spazieren gehen, der Abfall, den wir erzeugen.",
-    "t": 31.96
+    "t": 33.12
    },
    {
     "speaker": "Tom",
     "text": "Diese Themen können groß und weit weg wirken.",
-    "t": 41.55
+    "t": 40.78
    },
    {
     "speaker": "Tom",
     "text": "Aber es gibt einen einzigen Ort, der sie alle für die Bürgerinnen und Bürger zusammenbringt.",
-    "t": 45.02
+    "t": 43.34
    },
    {
     "speaker": "Anna",
     "text": "Es ist das Umweltportal Luxemburgs.",
-    "t": 50.92
+    "t": 48.83
    },
    {
     "speaker": "Anna",
-    "text": "Sein vertrauter Name ist emwelt Punkt lu.",
-    "t": 54.28
+    "text": "Sein vertrauter Name ist emwelt Punkt lu... das Sie zu environnement Punkt public Punkt lu führt.",
+    "t": 51.3
    },
    {
     "speaker": "Tom",
     "text": "„Ëmwelt\" ist das luxemburgische Wort für Umwelt.",
-    "t": 57.83
+    "t": 58.47
    },
    {
     "speaker": "Tom",
     "text": "Dies ist also ganz einfach das Umweltportal.",
-    "t": 61.49
+    "t": 61.73
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, wer steckt dahinter, und wofür ist es da?",
-    "t": 65.24
+    "t": 64.56
    },
    {
     "speaker": "Tom",
     "text": "Es wird vom Ministerium für Umwelt, Klima und Biodiversität betrieben.",
-    "t": 69.68
+    "t": 68.77
    },
    {
     "speaker": "Anna",
     "text": "Und sein Zweck ist es, die Öffentlichkeit über die Umwelt und die nachhaltige Entwicklung zu informieren und Zugang zu Umweltdienstleistungen zu geben.",
-    "t": 75.08
+    "t": 73.49
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie es sich als eine einzige Eingangstür zu allem vor, was der Staat zum Schutz der Natur tut, und wie Sie sich daran beteiligen können.",
-    "t": 84.63
+    "t": 81.19
    },
    {
     "speaker": "Anna",
     "text": "Gehen wir die wichtigsten Bereiche durch, die es abdeckt, denn es ist wunderbar breit gefächert.",
-    "t": 93.25
+    "t": 90.04
    },
    {
     "speaker": "Tom",
     "text": "Der erste ist die Natur... die Biodiversität, unsere Wälder, der Boden und die Arten, die hier leben.",
-    "t": 99.76
+    "t": 95.28
    },
    {
     "speaker": "Anna",
     "text": "Das Portal hat sogar einen ganzen Bereich über die Rückkehr des Wolfs nach Luxemburg, was faszinierend ist.",
-    "t": 106.8
+    "t": 101.99
    },
    {
     "speaker": "Tom",
     "text": "Der zweite Bereich ist das Wasser... Trinkwasser, Flüsse, Grundwasser und Abwasser.",
-    "t": 114.08
+    "t": 107.88
    },
    {
     "speaker": "Anna",
     "text": "Sie können sogar die Qualität der Badegewässer überprüfen, bevor Sie im Sommer schwimmen gehen.",
-    "t": 120.77
+    "t": 113.44
    },
    {
     "speaker": "Tom",
     "text": "Der dritte Bereich ist Luft und Lärm... die Qualität der Luft, die wir atmen, und die Lärmbelastung.",
-    "t": 127.21
+    "t": 118.78
    },
    {
     "speaker": "Anna",
-    "text": "Und es gibt einen Echtzeit-Dienst zur Luftqualität, sodass Sie die Messungen live sehen können.",
-    "t": 133.74
+    "text": "Und es gibt einen Echtzeit-Dienst zur Luftqualität, mit der App Meng Loft, sodass Sie die Messungen live sehen können.",
+    "t": 125.59
    },
    {
     "speaker": "Tom",
     "text": "Der vierte Bereich ist Klima und Energie... den Klimaschutz und die Anpassung an seine Veränderungen.",
-    "t": 140
+    "t": 132.24
    },
    {
     "speaker": "Anna",
-    "text": "Luxemburg hat einen nationalen Energie- und Klimaplan und eine Strategie, um sich an eine wärmer werdende Welt anzupassen.",
-    "t": 146.55
+    "text": "Luxemburg hat einen nationalen Energie- und Klimaplan und eine neue Strategie, um sich an eine wärmer werdende Welt anzupassen, die 2026 verabschiedet wurde.",
+    "t": 138.4
    },
    {
     "speaker": "Tom",
     "text": "Der fünfte Bereich ist Abfall und Ressourcen... und hier kann jeder von uns wirklich etwas bewirken.",
-    "t": 155.28
+    "t": 149.15
    },
    {
     "speaker": "Anna",
-    "text": "Ja!",
-    "t": 161.55
-   },
-   {
-    "speaker": "Anna",
-    "text": "Das Portal erklärt, wie man die Mülltrennung vornimmt, und die Null-Abfall-Strategie des Landes, „Null Offall Lëtzebuerg\".",
-    "t": 162.92
+    "text": "Ja! Das Portal erklärt, wie man die Mülltrennung vornimmt, und die Null-Abfall-Strategie des Landes, „Null Offall Lëtzebuerg\".",
+    "t": 154.69
    },
    {
     "speaker": "Tom",
-    "text": "Es gibt sogar eine App, die Ihnen hilft zu wissen, was in welche Tonne gehört.",
-    "t": 171.18
+    "text": "Es gibt sogar eine App, Mäin Offall, die Ihnen hilft zu wissen, was in welche Tonne gehört.",
+    "t": 163.25
    },
    {
     "speaker": "Anna",
     "text": "Es gibt noch weitere Bereiche... Chemikalien und sichere Produkte, Fischerei und Jagd, und der Schutz des Bodens.",
-    "t": 176.56
+    "t": 168.71
    },
    {
     "speaker": "Tom",
     "text": "Es ist also wirklich ein zentrales Portal für die gesamte Umwelt.",
-    "t": 185.46
+    "t": 176.97
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir nun über den Teil, den ich am einladendsten finde... die Natur erleben.",
-    "t": 190.06
+    "t": 180.92
    },
    {
     "speaker": "Tom",
     "text": "Das Portal verweist Sie auf Natur- und Waldzentren und auf Naturlehrpfade im ganzen Land.",
-    "t": 196.19
+    "t": 186.35
    },
    {
     "speaker": "Anna",
     "text": "Es geht also nicht nur um Regeln und Schutz.",
-    "t": 202.39
+    "t": 191.97
    },
    {
     "speaker": "Anna",
     "text": "Es ist auch eine Einladung, nach draußen zu gehen und die natürliche Welt zu genießen.",
-    "t": 205.81
+    "t": 194.31
    },
    {
     "speaker": "Tom",
     "text": "Und die Natur zu genießen ist oft der erste Schritt, um sie schützen zu wollen.",
-    "t": 211.87
+    "t": 199
    },
    {
     "speaker": "Anna",
     "text": "Das Portal ist auch praktisch, mit echten Dienstleistungen für Bürgerinnen, Bürger und Fachleute.",
-    "t": 216.91
+    "t": 203.59
    },
    {
     "speaker": "Tom",
     "text": "Es gibt einen Bereich über Umweltverfahren... Genehmigungen, finanzielle Beihilfen und offizielle Formulare.",
-    "t": 224.11
+    "t": 209.3
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie also eine Umweltgenehmigung oder eine Beihilfe für ein grünes Projekt benötigen, finden Sie hier den Weg dorthin.",
-    "t": 231.88
+    "t": 216.57
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt auch nützliche Warnungen... wie das Melden einer Verschmutzung oder das Überprüfen von Hochwasserinformationen.",
-    "t": 240.1
+    "t": 223.64
    },
    {
     "speaker": "Anna",
     "text": "Verbinden wir dies mit zwei früheren Folgen, denn das Bild fügt sich zusammen.",
-    "t": 247.41
+    "t": 230.51
    },
    {
     "speaker": "Tom",
-    "text": "Ja.",
-    "t": 253.16
-   },
-   {
-    "speaker": "Tom",
-    "text": "Für Beratung zu Klima und Energie zu Hause gibt es Klima-Agence, über die wir gesprochen haben.",
-    "t": 254.64
+    "text": "Ja. Für Beratung zu Klima und Energie zu Hause gibt es Klima-Agence, über die wir gesprochen haben.",
+    "t": 235.03
    },
    {
     "speaker": "Anna",
     "text": "Und für Wohnen und Boden gibt es das Observatoire de l'Habitat.",
-    "t": 261.17
+    "t": 241.78
    },
    {
     "speaker": "Anna",
     "text": "Das Umweltportal steht an ihrer Seite.",
-    "t": 266.19
+    "t": 245.51
    },
    {
     "speaker": "Tom",
     "text": "Zusammen zeigen sie ein Land, das sorgfältig über seine Zukunft nachdenkt.",
-    "t": 269.72
+    "t": 248.01
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir darüber, warum dies für jeden von uns im täglichen Leben wichtig ist.",
-    "t": 274.94
+    "t": 252.72
    },
    {
     "speaker": "Tom",
     "text": "Erstens, weil die Umwelt nicht woanders ist.",
-    "t": 280.78
+    "t": 257.42
    },
    {
     "speaker": "Tom",
     "text": "Sie ist die Luft in Ihrer Straße und das Wasser in Ihrem Wasserhahn.",
-    "t": 284.44
+    "t": 260.04
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, weil sich kleine Handlungen summieren.",
-    "t": 289.04
+    "t": 264.06
    },
    {
     "speaker": "Anna",
     "text": "Mülltrennung, Wasser sparen, eine Grünfläche schützen... all das zählt.",
-    "t": 293.01
+    "t": 266.81
    },
    {
     "speaker": "Tom",
     "text": "Und drittens, weil Sie informiert sein teilnehmen lässt... an Konsultationen, an lokalen Projekten, an alltäglichen Entscheidungen.",
-    "t": 298.74
+    "t": 272.01
    },
    {
     "speaker": "Anna",
-    "text": "Das Portal hebt sogar Projektaufrufe hervor, um mehr Natur in unsere Städte und Dörfer zu bringen.",
-    "t": 307.18
+    "text": "Das Portal stellt auch die neuesten Pläne des Landes vor... zum Beispiel einen neuen nationalen Plan zur Wiederherstellung der Natur.",
+    "t": 280.53
    },
    {
     "speaker": "Tom",
     "text": "Dies ist also keine passive Website.",
-    "t": 314.49
+    "t": 288.03
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine Einladung, gemeinsam zu handeln.",
-    "t": 317.75
+    "t": 290.52
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es konkret.",
-    "t": 321.44
+    "t": 293.3
    },
    {
     "speaker": "Anna",
     "text": "Wie kann jemand emwelt Punkt lu nutzen?",
-    "t": 323.81
+    "t": 294.86
    },
    {
     "speaker": "Tom",
     "text": "Erstens, vor einem Sommerbad, überprüfen Sie die Qualität der Badegewässer.",
-    "t": 327.1
+    "t": 297.45
    },
    {
     "speaker": "Tom",
     "text": "Vor einem Tag mit hoher Verschmutzung, überprüfen Sie die Luft.",
-    "t": 332.67
+    "t": 301.87
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, wenn Sie beim Abfall im Zweifel sind, nutzen Sie den Trennleitfaden oder die App, um richtig zu recyceln.",
-    "t": 336.98
+    "t": 305.53
    },
    {
     "speaker": "Tom",
     "text": "Drittens, wenn Sie ein grünes Projekt haben oder eine Umweltgenehmigung benötigen, schauen Sie sich die Verfahren und Beihilfen an.",
-    "t": 345.04
+    "t": 312.11
    },
    {
     "speaker": "Anna",
     "text": "Und viertens, um sich wieder mit der Natur zu verbinden, finden Sie einen nahegelegenen Naturlehrpfad oder ein Waldzentrum und gehen Sie einfach hin.",
-    "t": 352.95
+    "t": 319.95
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir alles zusammen.",
-    "t": 362.39
+    "t": 329.19
    },
    {
     "speaker": "Tom",
     "text": "Was sollten sich die Menschen über das Umweltportal merken?",
-    "t": 364.96
+    "t": 330.72
    },
    {
     "speaker": "Anna",
     "text": "Erstens... emwelt Punkt lu ist Luxemburgs zentrales Umweltportal, vom Ministerium für Umwelt, Klima und Biodiversität.",
-    "t": 369.05
+    "t": 333.83
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... es deckt Natur, Wasser, Luft, Klima, Abfall und mehr ab, mit Echtzeitinformationen und Dienstleistungen.",
-    "t": 378.65
+    "t": 343.37
    },
    {
     "speaker": "Anna",
     "text": "Drittens... es ist sowohl schützend als auch einladend... Regeln und Genehmigungen, aber auch Naturlehrpfade und Entdeckung.",
-    "t": 387.29
+    "t": 352.01
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... es zeigt, wie jeder von uns teilnehmen kann, mit einfachen täglichen Handlungen und lokalen Projekten.",
-    "t": 396.55
+    "t": 359.84
    },
    {
     "speaker": "Anna",
     "text": "Die Natur gibt uns so viel, still, jeden Tag.",
-    "t": 404.32
+    "t": 367.41
    },
    {
     "speaker": "Anna",
     "text": "Sich um sie zu kümmern ist eine Art, sich umeinander zu kümmern.",
-    "t": 408.63
+    "t": 370.96
    },
    {
     "speaker": "Tom",
     "text": "Und es beginnt mit dem Wissen, und dann mit kleinen, stetigen Schritten.",
-    "t": 413.41
+    "t": 374.99
    },
    {
     "speaker": "Anna",
-    "text": "Vielen Dank, dass Sie heute zugehört haben.",
-    "t": 418.11
-   },
-   {
-    "speaker": "Tom",
-    "text": "Passen Sie auf sich und auf unser gemeinsames Zuhause auf.",
-    "t": 421.75
-   },
-   {
-    "speaker": "Tom",
-    "text": "Bis zur nächsten Folge.",
-    "t": 425.91
-   },
-   {
-    "speaker": "Tom",
-    "text": "Äddi!",
-    "t": 428.28
+    "text": "Das war unsere Folge über das Umweltportal.",
+    "t": 379.01
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 429.85
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 381.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 390.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 409.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 414.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 417.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 421.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 423.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 426.27
    }
   ],
   "segments_lb": [
    {
     "speaker": "Anna",
-    "text": "Moien a wëllkomm zréck! Et ass schéin, datt Dir haut bei eis sidd.",
-    "t": 0.05
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
    },
    {
     "speaker": "Tom",
-    "text": "Moien zesummen!",
-    "t": 5.38
+    "text": "Moien alleguer!",
+    "t": 4.45
    },
    {
     "speaker": "Anna",
-    "text": "Dës Episod ass Deel vum Biergerpakt. Dat ass e Programm iwwer d'Zesummeliewen zu Lëtzebuerg. D'Iddi ass einfach... mir wëllen den Awunner, an och de Grenzgänger, hëllefen, sech mam Land a senger Natur verbonne ze fillen.",
-    "t": 7.42
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
    },
    {
     "speaker": "Tom",
     "text": "An d'Thema vun haut ass ee, dat mir all deelen, egal vu wou mir kommen... d'Ëmwelt.",
-    "t": 22.52
+    "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "D'Loft, déi mir ootmen, d'Waasser, dat mir drénken, d'Bëscher, an deene mir spadséiere ginn, den Offall, deen mir produzéieren.",
-    "t": 27.74
+    "t": 32.13
    },
    {
     "speaker": "Tom",
     "text": "Dës Themen kënne grouss a wäit ewech wierken. Mä et gëtt eng eenzeg Plaz, déi se all fir d'Bierger zesummebréngt.",
-    "t": 33.73
+    "t": 37.69
    },
    {
     "speaker": "Anna",
-    "text": "Et ass d'Ëmweltportal vu Lëtzebuerg. Säi vertraute Numm ass emwelt Punkt lu.",
-    "t": 41.81
+    "text": "Et ass d'Ëmweltportal vu Lëtzebuerg. Säi vertraute Numm ass emwelt Punkt lu... deen Iech op environnement Punkt public Punkt lu féiert.",
+    "t": 43.81
    },
    {
     "speaker": "Tom",
     "text": "„Ëmwelt\" ass dat lëtzebuergescht Wuert fir Ëmwelt. Dat ass also, ganz einfach, d'Ëmweltportal.",
-    "t": 48.03
+    "t": 53.5
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, wien stécht dohannert, a wofir ass et do?",
-    "t": 55.71
+    "t": 59.86
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt vum Ministère fir Ëmwelt, Klima a Biodiversitéit bedriwwen.",
-    "t": 59.68
+    "t": 62.73
    },
    {
     "speaker": "Anna",
     "text": "A säin Zweck ass et, d'Ëffentlechkeet iwwer d'Ëmwelt an déi nohalteg Entwécklung ze informéieren, an Zougang zu Ëmweltservicer ze ginn.",
-    "t": 64.77
+    "t": 66.83
    },
    {
     "speaker": "Tom",
     "text": "Stellt Iech et als eng eenzeg Agangsdier zu allem vir, wat de Staat fir de Schutz vun der Natur mécht, a wéi Dir matmaache kënnt.",
-    "t": 72.92
+    "t": 75.28
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis duerch déi wichtegst Beräicher goen, déi et ofdeckt, well et ass wonnerbar breet.",
-    "t": 79.01
+    "t": 81.94
    },
    {
     "speaker": "Tom",
     "text": "Den éischten ass d'Natur... d'Biodiversitéit, eis Bëscher, de Buedem, an d'Aarten, déi hei liewen.",
-    "t": 83.87
+    "t": 86.41
    },
    {
     "speaker": "Anna",
     "text": "D'Portal huet souguer e ganze Beräich iwwer d'Réckkéier vum Wollef zu Lëtzebuerg, wat faszinéierend ass.",
-    "t": 90.04
+    "t": 92.21
    },
    {
     "speaker": "Tom",
     "text": "Den zweete Beräich ass d'Waasser... Drénkwaasser, Flëss, Grondwaasser an Ofwaasser.",
-    "t": 95.99
+    "t": 97.64
    },
    {
     "speaker": "Anna",
     "text": "Dir kënnt souguer d'Qualitéit vum Buedwaasser iwwerpréiwen, ier Dir am Summer schwamme gitt.",
-    "t": 101.68
+    "t": 102.79
    },
    {
     "speaker": "Tom",
     "text": "Den drëtte Beräich ass Loft a Kaméidi... d'Qualitéit vun der Loft, déi mir ootmen, an d'Kaméidiverschmotzung.",
-    "t": 106.74
+    "t": 107.34
    },
    {
     "speaker": "Anna",
-    "text": "An et gëtt e Service fir d'Loftqualitéit an Echtzäit, sou datt Dir d'Moossunge live gesi kënnt.",
-    "t": 112.16
+    "text": "An et gëtt e Service fir d'Loftqualitéit an Echtzäit, mat der App Meng Loft, sou datt Dir d'Moossunge live gesi kënnt.",
+    "t": 113
    },
    {
     "speaker": "Tom",
     "text": "De véierte Beräich ass Klima an Energie... de Klima schützen a sech u seng Verännerungen unzepassen.",
-    "t": 117.2
+    "t": 119.23
    },
    {
     "speaker": "Anna",
-    "text": "Lëtzebuerg huet en nationalen Energie- a Klimaplang, an eng Strategie, fir sech un eng méi waarm Welt unzepassen.",
-    "t": 122.95
+    "text": "Lëtzebuerg huet en nationalen Energie- a Klimaplang, an eng nei Strategie, fir sech un eng méi waarm Welt unzepassen, déi 2026 ugeholl gouf.",
+    "t": 125.02
    },
    {
     "speaker": "Tom",
     "text": "De fënnefte Beräich ass Offall a Ressourcen... an hei kann all eenzelne vun eis wierklech eppes beweegen.",
-    "t": 129.48
+    "t": 133.46
    },
    {
     "speaker": "Anna",
     "text": "Jo! D'Portal erkläert, wéi een den Offall trennt, an d'Null-Offall-Strategie vum Land, „Null Offall Lëtzebuerg\".",
-    "t": 135.21
+    "t": 140.03
    },
    {
     "speaker": "Tom",
-    "text": "Et gëtt souguer eng App, déi Iech hëlleft ze wëssen, wat an déi wéi eng Tonn gehéiert.",
-    "t": 143.58
+    "text": "Et gëtt souguer eng App, Mäin Offall, déi Iech hëlleft ze wëssen, wat an déi wéi eng Tonn gehéiert.",
+    "t": 147.68
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt nach méi Beräicher... Chemikalien a sécher Produkter, Fëscherei a Juegd, an de Schutz vum Buedem.",
-    "t": 147.31
+    "t": 152.28
    },
    {
     "speaker": "Tom",
     "text": "Et ass also wierklech eng zentral Portal fir déi ganz Ëmwelt.",
-    "t": 154.31
+    "t": 158
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis elo iwwer den Deel schwätzen, deen ech am meeschten alueeden fannen... d'Natur erliewen.",
-    "t": 158.51
+    "t": 161.28
    },
    {
     "speaker": "Tom",
     "text": "D'Portal weist Iech op Natur- a Bëschzentren, an op Naturlehrpäder am ganze Land.",
-    "t": 164.19
+    "t": 166.54
    },
    {
     "speaker": "Anna",
     "text": "Et geet also net nëmmen ëm Reegelen a Schutz. Et ass och eng Alueedung, no baussen ze goen an déi natierlech Welt ze genéissen.",
-    "t": 169.7
+    "t": 171.79
    },
    {
     "speaker": "Tom",
     "text": "An d'Natur ze genéissen ass dacks den éischte Schrëtt, fir se schütze ze wëllen.",
-    "t": 177.56
+    "t": 178.66
    },
    {
     "speaker": "Anna",
     "text": "D'Portal ass och praktesch, mat richtege Servicer fir d'Bierger an d'Fachleit.",
-    "t": 182.02
+    "t": 182.72
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt e Beräich iwwer Ëmweltprozeduren... Genehmegungen, finanziell Hëllefen an offiziell Formulairen.",
-    "t": 187.64
+    "t": 187.82
    },
    {
     "speaker": "Anna",
     "text": "Wann Dir also eng Ëmweltgenehmegung braucht, oder eng Hëllef fir e gréngt Projet, kënnt Dir hei de Wee fannen.",
-    "t": 193.84
+    "t": 194.14
    },
    {
     "speaker": "Tom",
     "text": "An et gëtt och nëtzlech Alarmer... wéi eng Verschmotzung ze mellen, oder Iwwerschwemmungsinformatiounen ze iwwerpréiwen.",
-    "t": 200.3
+    "t": 200.87
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis dat mat zwou fréieren Episoden verbannen, well d'Bild passt zesummen.",
-    "t": 205.96
+    "t": 206.39
    },
    {
     "speaker": "Tom",
     "text": "Jo. Fir Rotschléi zu Klima an Energie doheem gëtt et Klima-Agence, iwwer déi mir geschwat hunn.",
-    "t": 211.18
+    "t": 211.04
    },
    {
     "speaker": "Anna",
     "text": "A fir Wunnen a Buedem gëtt et den Observatoire de l'Habitat. D'Ëmweltportal steet u senger Säit.",
-    "t": 217.86
+    "t": 215.83
    },
    {
     "speaker": "Tom",
     "text": "Zesumme weisen se e Land, dat suergfälteg iwwer seng Zukunft nodenkt.",
-    "t": 225.61
+    "t": 222.62
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis driwwer schwätzen, firwat dat fir all eenzelne vun eis am Alldag wichteg ass.",
-    "t": 230.05
+    "t": 226.5
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, well d'Ëmwelt net anzwousch anescht ass. Et ass d'Loft an Ärer Strooss an d'Waasser an Ärem Krunn.",
-    "t": 234.62
+    "t": 230.59
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, well kleng Handlungen sech bäieneen addéieren. Offall trennen, Waasser spueren, eng gréng Plaz schützen... dat alles zielt.",
-    "t": 242.37
+    "t": 237.41
    },
    {
     "speaker": "Tom",
     "text": "An drëttens, well informéiert ze sinn Iech matmaache léisst... un Konsultatiounen, u lokale Projeten, un alldeegleche Choixen.",
-    "t": 251.19
+    "t": 246.46
    },
    {
     "speaker": "Anna",
-    "text": "D'Portal hieft souguer Projetsopruff ervir, fir méi Natur an eis Stied an Dierfer ze bréngen.",
-    "t": 258.27
+    "text": "D'Portal stellt och déi neiste Pläng vum Land vir... zum Beispill en neien nationale Plang fir d'Natur ze restauréieren.",
+    "t": 253.34
    },
    {
     "speaker": "Tom",
     "text": "Dat ass also keng passiv Websäit. Et ass eng Alueedung, zesummen ze handelen.",
-    "t": 264.2
+    "t": 259.96
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis et praktesch maachen. Wéi kann een emwelt Punkt lu benotzen?",
-    "t": 270.48
+    "t": 265.14
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, virun engem Summerbad, iwwerpréift d'Qualitéit vum Buedwaasser. Virun engem Dag mat héijer Verschmotzung, iwwerpréift d'Loft.",
-    "t": 275.72
+    "t": 269.04
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, wann Dir beim Offall am Zweiwel sidd, benotzt de Trennguide oder d'App, fir richteg ze recycléieren.",
-    "t": 283.6
+    "t": 275.32
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, wann Dir e gréngt Projet hutt, oder eng Ëmweltgenehmegung braucht, kuckt d'Prozeduren an d'Hëllefen no.",
-    "t": 289.49
+    "t": 281.74
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, fir Iech erëm mat der Natur ze verbannen, fannt e Naturlehrpad oder e Bëschzentrum an der Géigend an gitt einfach hin.",
-    "t": 296.17
+    "t": 288.58
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis alles zesummebréngen. Wat sollen d'Leit sech iwwer d'Ëmweltportal mierken?",
-    "t": 302.9
+    "t": 295.28
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... emwelt Punkt lu ass Lëtzebuergs zentrual Ëmweltportal, vum Ministère fir Ëmwelt, Klima a Biodiversitéit.",
-    "t": 309.41
+    "t": 299.7
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... et deckt Natur, Waasser, Loft, Klima, Offall a méi of, mat Echtzäitinformatiounen a Servicer.",
-    "t": 317.96
+    "t": 309.25
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... et ass souwuel schützend wéi och alueedend... Reegelen a Genehmegungen, mä och Naturlehrpäder an Entdeckung.",
-    "t": 325.22
+    "t": 316.64
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... et weist, wéi all eenzelne vun eis matmaache kann, mat einfachen alldeegleche Handlungen a lokale Projeten.",
-    "t": 331.82
+    "t": 323.94
    },
    {
     "speaker": "Anna",
     "text": "D'Natur gëtt eis sou vill, roueg, all Dag. Suerg ëm si ze droen ass eng Manéier, Suerg ëmenee ze droen.",
-    "t": 337.99
+    "t": 330.52
    },
    {
     "speaker": "Tom",
     "text": "An et fänkt mam Wëssen un, an dann mat klengen, stännege Schrëtt.",
-    "t": 345.38
+    "t": 336.91
    },
    {
     "speaker": "Anna",
-    "text": "Villmools merci, datt Dir haut nogelauschtert hutt.",
-    "t": 349.65
+    "text": "Dat war eis Episod iwwer den Ëmweltportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
+    "t": 340.71
    },
    {
     "speaker": "Tom",
-    "text": "Passt op Iech an op eist gemeinsamt Doheem op. Bis an déi nächst Episod. Äddi!",
-    "t": 352.6
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 384.51
    },
    {
     "speaker": "Anna",
-    "text": "Äddi!",
-    "t": 360.23
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 387.71
    }
-  ],
-  "status": "in_progress"
+  ]
  },
  {
   "id": 27,

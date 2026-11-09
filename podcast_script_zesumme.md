@@ -28,7 +28,7 @@
 **TOM:** Because the people who use a procedure every day often understand its problems best.
 **ANNA:** So citizens and businesses can take the initiative, and submit ideas to simplify the State's procedures.
 **TOM:** You have noticed something clumsy, something that could be easier? You can suggest how to fix it.
-**ANNA:** And then the work happens in a participatory, co-creative way... together with the people who proposed it.
+**ANNA:** And then the work happens in a participatory, co-creative way... together with the people who proposed it. Ministries and administrations can also post their own projects there, to ask for people's opinions.
 **TOM:** I think it helps to picture it as a project that moves through phases.
 **ANNA:** Yes. There is a phase for sharing ideas, and then phases for working on a solution and testing it.
 **TOM:** And here is a detail I really appreciate. You don't have to commit to the whole journey.
@@ -70,4 +70,4 @@
 
 ---
 
-*Sources: "Zesumme Vereinfachen" platform, zesumme-vereinfachen.lu, and the Ministry for Digitalisation (mindigital.gouvernement.lu) — the participatory administrative-simplification platform managed by the Simplification Council, launched in 2022 as part of the "Einfach Lëtzebuerg" programme; citizens and businesses can submit ideas and take part in one or several project phases, in Luxembourgish, German, French or English. The example of citizen feedback on the MyGuichet.lu app is from the Ministry for Digitalisation. General information only. Accurate as of June 2026.*
+*Sources: "Zesumme Vereinfachen" platform, zesumme-vereinfachen.lu, and the Ministry for Digitalisation (mindigital.gouvernement.lu) — the participatory administrative-simplification platform managed by the Simplification Council, launched in 2022 as part of the "Einfach Lëtzebuerg" programme; citizens and businesses can submit ideas and take part in one or several project phases, in Luxembourgish, German, French or English. The example of citizen feedback on the MyGuichet.lu app is from the Ministry for Digitalisation. General information only. Accurate as of June 2026. Update: ministries and administrations can also submit projects for stakeholder feedback; platform managed by the Council for Simplification (mindigital.gouvernement.lu). Fact-checked 9 November 2026.*

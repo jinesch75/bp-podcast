@@ -45,8 +45,8 @@
 **ANNA:** Now let's talk about the people behind the CGDIS, because their story is remarkable.
 **TOM:** The CGDIS has professional firefighters, who do this as their full-time job.
 **ANNA:** But here is the amazing part. It also relies on thousands of volunteers.
-**TOM:** More than three thousand nine hundred volunteer firefighters. That is about ninety percent of the operational force.
-**ANNA:** Ninety percent! So most of the people who rush to help you are volunteers.
+**TOM:** Thousands of volunteer firefighters. About nine in ten firefighters are volunteers.
+**ANNA:** Nine in ten! So most of the people who rush to help you are volunteers.
 **TOM:** They have ordinary jobs and families. But when the alarm sounds, they drop everything to help their neighbours.
 **ANNA:** It's a beautiful kind of solidarity. People protecting people, freely.
 **TOM:** Let's look briefly at how the CGDIS is organised across the country.
@@ -88,4 +88,4 @@
 
 ---
 
-*Sources: Corps grand-ducal d'incendie et de secours (CGDIS), 112.public.lu — emergency number 112, the CSU-112 emergency call centre, the fire and rescue stations (CIS) and National Fire and Rescue Centre (CNIS), specialised intervention groups (GIS), volunteering and recruitment (including the Jeunes Pompiers / Jugendpompjeeën), the national rescue training institute (INFS), first-aid courses and prevention advice. The CGDIS is Luxembourg's national fire and rescue service, created in 2018 from the country's fire brigades and civil-protection services, under the Ministry of Home Affairs; it counts more than 3,900 volunteer operational members (around 90% of its operational workforce, per the CGDIS, 2026). In a real emergency, always call 112. General information only. Accurate as of June 2026.*
+*Sources: Corps grand-ducal d'incendie et de secours (CGDIS), 112.public.lu — emergency number 112, the CSU-112 emergency call centre, the fire and rescue stations (CIS) and National Fire and Rescue Centre (CNIS), specialised intervention groups (GIS), volunteering and recruitment (including the Jeunes Pompiers / Jugendpompjeeën), the national rescue training institute (INFS), first-aid courses and prevention advice. The CGDIS is Luxembourg's national fire and rescue service, created in 2018 from the country's fire brigades and civil-protection services, under the Ministry of Home Affairs; it counts more than 3,900 volunteer operational members (around 90% of its operational workforce, per the CGDIS, 2026). In a real emergency, always call 112. General information only. Accurate as of June 2026. Update: CGDIS annual report 2025 (presented 16 July 2026): 6,890 volunteer and 694 professional firefighters; 75,814 interventions; 258,036 emergency calls — the script now says 'about nine in ten firefighters are volunteers'. Fact-checked 9 November 2026.*

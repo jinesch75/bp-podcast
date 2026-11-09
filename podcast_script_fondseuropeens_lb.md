@@ -20,13 +20,13 @@
 **TOM:** Loosst eis iwwert déi wichtegst Fongen schwätzen, well all eenzelen huet säin eegene Schwéierpunkt.
 **ANNA:** Deen éischten ass de FEDER. Een nennt e dacks bei senge franséischen Initialen, FEDER.
 **TOM:** Deen ënnerstëtzt Saachen ewéi Fuerschung, Innovatioun, déi digital Wirtschaft, an den Iwwergank zu méi propperer, kuelestoffaarmer Energie.
-**ANNA:** Fir Lëtzebuerg beleeft sech dëse Fong an der aktueller Period vu 2021 bis 2027 op ongeféier eenanzwanzeg Milliounen Euro.
+**ANNA:** Fir Lëtzebuerg beleeft sech dëse Fong an der aktueller Period vu 2021 bis 2027 op ongeféier eenanzwanzeg Milliounen Euro. An déi nächst Period, ab 2028, gëtt op europäeschem Niveau schonn virbereet.
 **TOM:** Deen zweeten ass de FSE+. Op Franséisch de FSE Plus.
 **ANNA:** Den Hiweis stécht am Numm... sozial. Bei dësem Fong geet et ëm d'Leit. Aarbechtsplazen, Kompetenzen, Ausbildung, an d'Abezéie vu Leit, déi zréckgelooss ginn.
 **TOM:** Hie hëlleft bei der Beschäftegung a bei der Bekämpfung vun Aarmut an Ausgrenzung.
 **ANNA:** An et gëtt en drëtte Fong, deen ee soll kennen... den Asyl-, Migratiouns- an Integratiounsfong (AMIF).
 **TOM:** Deen do ënnerstëtzt d'Opname an d'Integratioun vu Leit, déi op Lëtzebuerg kommen, dorënner déi, déi Asyl sichen.
-**ANNA:** Et gëtt och Fongen fir déi bannenzeg Sécherheet a fir d'Verwaltung vun de Grenzen.
+**ANNA:** Et gëtt och Fongen fir déi bannenzeg Sécherheet a fir d'Verwaltung vun de Grenzen. An et gëtt Interreg, dat grenziwwerschreidend Projeten mat eisen Noperen ënnerstëtzt... zum Beispill an der Groussregioun.
 **TOM:** Also zesummen decken dës Fongen d'Wirtschaft, d'Leit, d'Inklusioun an d'Sécherheet of.
 **ANNA:** Elo eng wichteg Fro. Wien entscheet, wéi dës Suen ausgi gëtt, a wien suergt dofir, datt alles éierlech bleift?
 **TOM:** Fir all Fong gëtt et eng sougenannt Verwaltungsbehörd.
@@ -70,4 +70,4 @@
 
 ---
 
-*Quellen: Fonds européens, fonds-europeens.public.lu — Iwwerbléck iwwert d'EU-Strukturfongen an -Programmer zu Lëtzebuerg (FEDER/ERDF, FSE+/ESF+, AMIF, ISF, BMVI), strategesch Ziler, Projeten a Verwaltungsbehörden. Déi zitéiert Budgetzuelen (z. B. FEDER vun ongeféier 21 Milliounen Euro a FSE+ vun ongeféier 9 Milliounen Euro fir Lëtzebuerg an der Period 2021–2027; AMIF-Gesamtsumm vun ongeféier 27,9 Milliounen Euro) kommen vu fonds-europeens.public.lu fir d'Programmplanungsperiod 2021–2027 a si ongeféier Wäerter; d'Verwaltungsbehörd vum AMIF ass de Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. Nëmmen allgemeng Informatiounen. Zoutreffend mam Stand Juni 2026.*
+*Quellen: Fonds européens, fonds-europeens.public.lu — Iwwerbléck iwwert d'EU-Strukturfongen an -Programmer zu Lëtzebuerg (FEDER/ERDF, FSE+/ESF+, AMIF, ISF, BMVI), strategesch Ziler, Projeten a Verwaltungsbehörden. Déi zitéiert Budgetzuelen (z. B. FEDER vun ongeféier 21 Milliounen Euro a FSE+ vun ongeféier 9 Milliounen Euro fir Lëtzebuerg an der Period 2021–2027; AMIF-Gesamtsumm vun ongeféier 27,9 Milliounen Euro) kommen vu fonds-europeens.public.lu fir d'Programmplanungsperiod 2021–2027 a si ongeféier Wäerter; d'Verwaltungsbehörd vum AMIF ass de Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. Nëmmen allgemeng Informatiounen. Zoutreffend mam Stand Juni 2026. Aktualiséierung: Interreg derbäi. Iwwerpréift den 9. November 2026.*

@@ -20,13 +20,13 @@
 **TOM:** Let's talk about the main funds, because each one has its own focus.
 **ANNA:** The first is the European Regional Development Fund. People often call it by its French initials, FEDER.
 **TOM:** This one supports things like research, innovation, the digital economy, and the move to cleaner, low-carbon energy.
-**ANNA:** For Luxembourg, in the current period from 2021 to 2027, this fund is around twenty-one million euros.
+**ANNA:** For Luxembourg, in the current period from 2021 to 2027, this fund is around twenty-one million euros. And the next period, from 2028, is already being prepared at European level.
 **TOM:** The second is the European Social Fund Plus. In French, the FSE Plus.
 **ANNA:** The clue is in the name... social. This fund is about people. Jobs, skills, training, and including people who are left behind.
 **TOM:** It helps with employment and with fighting poverty and exclusion.
 **ANNA:** And there is a third fund worth knowing... the Asylum, Migration and Integration Fund.
 **TOM:** That one supports welcoming and integrating people who come to Luxembourg, including those seeking asylum.
-**ANNA:** There are also funds for internal security and for managing borders.
+**ANNA:** There are also funds for internal security and for managing borders. And there is Interreg, which supports cross-border projects with our neighbours... for example in the Greater Region.
 **TOM:** So together, these funds cover the economy, people, inclusion, and safety.
 **ANNA:** Now, an important question. Who decides how this money is spent, and who keeps it honest?
 **TOM:** For each fund, there is what's called a managing authority.
@@ -70,4 +70,4 @@
 
 ---
 
-*Sources: Fonds européens, fonds-europeens.public.lu — overview of the EU Structural Funds and programmes in Luxembourg (FEDER/ERDF, FSE+/ESF+, AMIF, ISF, BMVI), strategic objectives, projects, and managing authorities. Budget figures cited (e.g. FEDER around €21 million and FSE+ around €9 million for Luxembourg in the 2021–2027 period; AMIF total around €27.9 million) are from fonds-europeens.public.lu for the 2021–2027 programming period and are approximate; the AMIF managing authority is the Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. General information only. Accurate as of June 2026.*
+*Sources: Fonds européens, fonds-europeens.public.lu — overview of the EU Structural Funds and programmes in Luxembourg (FEDER/ERDF, FSE+/ESF+, AMIF, ISF, BMVI), strategic objectives, projects, and managing authorities. Budget figures cited (e.g. FEDER around €21 million and FSE+ around €9 million for Luxembourg in the 2021–2027 period; AMIF total around €27.9 million) are from fonds-europeens.public.lu for the 2021–2027 programming period and are approximate; the AMIF managing authority is the Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. General information only. Accurate as of June 2026. Update: Interreg (incl. Interreg Grande Région small-projects calls 2026) added; programmes 2021–2027 with FEDER, FSE+, AMIF, ISF, BMVI, Interreg (fonds-europeens.public.lu, 2026). Fact-checked 9 November 2026.*

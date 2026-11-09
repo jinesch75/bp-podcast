@@ -12,7 +12,7 @@
 **TOM:** Et le sujet d'aujourd'hui est un sujet que nous partageons tous, d'où que nous venions... l'environnement.
 **ANNA:** L'air que nous respirons, l'eau que nous buvons, les forêts où nous nous promenons, les déchets que nous produisons.
 **TOM:** Ces sujets peuvent sembler vastes et lointains. Mais il existe un seul endroit qui les rassemble tous pour les citoyens.
-**ANNA:** C'est le portail de l'environnement du Luxembourg. Son nom familier est emwelt point lu.
+**ANNA:** C'est le portail de l'environnement du Luxembourg. Son nom familier est emwelt point lu... qui vous mène à environnement point public point lu.
 **TOM:** « Ëmwelt » est le mot luxembourgeois pour environnement. Il s'agit donc, tout simplement, du portail de l'environnement.
 **ANNA:** Alors Tom, qui est derrière ce portail, et à quoi sert-il ?
 **TOM:** Il est géré par le ministère de l'Environnement, du Climat et de la Biodiversité.
@@ -24,12 +24,12 @@
 **TOM:** Le deuxième domaine est l'eau... l'eau potable, les rivières, les eaux souterraines et les eaux usées.
 **ANNA:** Vous pouvez même vérifier la qualité des eaux de baignade avant d'aller nager en été.
 **TOM:** Le troisième domaine est l'air et le bruit... la qualité de l'air que nous respirons, et la pollution sonore.
-**ANNA:** Et il existe un service de qualité de l'air en temps réel, qui vous permet de voir les mesures en direct.
+**ANNA:** Et il existe un service de qualité de l'air en temps réel, avec l'application Meng Loft, qui vous permet de voir les mesures en direct.
 **TOM:** Le quatrième domaine est le climat et l'énergie... protéger le climat et s'adapter à ses changements.
-**ANNA:** Le Luxembourg dispose d'un plan national énergie et climat, et d'une stratégie pour s'adapter à un monde qui se réchauffe.
+**ANNA:** Le Luxembourg dispose d'un plan national énergie et climat, et d'une nouvelle stratégie pour s'adapter à un monde qui se réchauffe, adoptée en 2026.
 **TOM:** Le cinquième domaine est les déchets et les ressources... et c'est là que chacun d'entre nous peut vraiment faire la différence.
 **ANNA:** Oui ! Le portail explique comment faire le tri des déchets, et présente la stratégie zéro déchet du pays, « Null Offall Lëtzebuerg ».
-**TOM:** Il existe même une application pour vous aider à savoir ce qui va dans quelle poubelle.
+**TOM:** Il existe même une application, Mäin Offall, pour vous aider à savoir ce qui va dans quelle poubelle.
 **ANNA:** Il y a encore d'autres domaines... les produits chimiques et les produits sûrs, la pêche et la chasse, et la protection du sol.
 **TOM:** C'est donc vraiment un portail unique pour l'ensemble de l'environnement.
 **ANNA:** Maintenant, parlons de la partie que je trouve la plus invitante... découvrir la nature.
@@ -48,7 +48,7 @@
 **TOM:** D'abord, parce que l'environnement n'est pas ailleurs. C'est l'air dans votre rue et l'eau de votre robinet.
 **ANNA:** Ensuite, parce que les petites actions s'additionnent. Faire le tri des déchets, économiser l'eau, protéger un espace vert... tout cela compte.
 **TOM:** Et enfin, parce qu'être informé vous permet de participer... aux consultations, aux projets locaux, aux choix de tous les jours.
-**ANNA:** Le portail met même en avant des appels à projets pour amener plus de nature dans nos villes et nos villages.
+**ANNA:** Le portail présente aussi les derniers plans du pays... par exemple un nouveau plan national pour restaurer la nature.
 **TOM:** Ce n'est donc pas un site web passif. C'est une invitation à agir, ensemble.
 **ANNA:** Rendons cela concret. Comment peut-on utiliser emwelt point lu ?
 **TOM:** D'abord, avant une baignade estivale, vérifiez la qualité des eaux de baignade. Avant un jour de forte pollution, vérifiez l'air.
@@ -68,4 +68,4 @@
 
 ---
 
-*Sources : Portail de l'environnement / emwelt.lu, environnement.public.lu, du ministère de l'Environnement, du Climat et de la Biodiversité — sections sur la nature et la biodiversité, l'eau, l'air et le bruit, le climat et l'énergie, les déchets et les ressources (« Null Offall Lëtzebuerg »), les substances chimiques, la pêche et la chasse, la découverte de la nature (centres nature et forêt, sentiers nature), et les démarches environnementales (autorisations, aides, formulaires) ; ainsi que des services tels que la qualité de l'air en temps réel, la qualité des eaux de baignade, les informations sur les inondations et la pollution, et le guide de tri des déchets. Informations générales uniquement. À jour en juin 2026.*
+*Sources : Portail de l'environnement / emwelt.lu, environnement.public.lu, du ministère de l'Environnement, du Climat et de la Biodiversité — sections sur la nature et la biodiversité, l'eau, l'air et le bruit, le climat et l'énergie, les déchets et les ressources (« Null Offall Lëtzebuerg »), les substances chimiques, la pêche et la chasse, la découverte de la nature (centres nature et forêt, sentiers nature), et les démarches environnementales (autorisations, aides, formulaires) ; ainsi que des services tels que la qualité de l'air en temps réel, la qualité des eaux de baignade, les informations sur les inondations et la pollution, et le guide de tri des déchets. Informations générales uniquement. À jour en juin 2026. Mise à jour : emwelt.lu mène à environnement.public.lu ; applis Meng Loft et Mäin Offall ; stratégie d'adaptation 2025–2035 (22.04.2026) ; plan national de restauration de la nature (sept. 2026). Vérifié le 9 novembre 2026.*

@@ -20,13 +20,13 @@
 **TOM:** Parlons des principaux fonds, car chacun a sa propre orientation.
 **ANNA:** Le premier est le Fonds européen de développement régional (FEDER). On l'appelle souvent par ses initiales françaises, FEDER.
 **TOM:** Celui-ci soutient des choses comme la recherche, l'innovation, l'économie numérique, et la transition vers une énergie plus propre et à faibles émissions de carbone.
-**ANNA:** Pour le Luxembourg, dans la période actuelle de 2021 à 2027, ce fonds représente environ vingt et un millions d'euros.
+**ANNA:** Pour le Luxembourg, dans la période actuelle de 2021 à 2027, ce fonds représente environ vingt et un millions d'euros. Et la prochaine période, à partir de 2028, est déjà en préparation au niveau européen.
 **TOM:** Le deuxième est le Fonds social européen + (FSE+). En français, le FSE Plus.
 **ANNA:** L'indice est dans le nom... social. Ce fonds concerne les personnes. Les emplois, les compétences, la formation, et l'inclusion des personnes laissées de côté.
 **TOM:** Il aide à l'emploi et à la lutte contre la pauvreté et l'exclusion.
 **ANNA:** Et il y a un troisième fonds à connaître... le Fonds Asile, Migration et Intégration (AMIF).
 **TOM:** Celui-là soutient l'accueil et l'intégration des personnes qui viennent au Luxembourg, y compris celles qui demandent l'asile.
-**ANNA:** Il existe aussi des fonds pour la sécurité intérieure et pour la gestion des frontières.
+**ANNA:** Il existe aussi des fonds pour la sécurité intérieure et pour la gestion des frontières. Et il y a Interreg, qui soutient des projets transfrontaliers avec nos voisins... par exemple dans la Grande Région.
 **TOM:** Donc ensemble, ces fonds couvrent l'économie, les personnes, l'inclusion et la sécurité.
 **ANNA:** Maintenant, une question importante. Qui décide de la façon dont cet argent est dépensé, et qui veille à ce que tout soit honnête ?
 **TOM:** Pour chaque fonds, il y a ce que l'on appelle une autorité de gestion.
@@ -70,4 +70,4 @@
 
 ---
 
-*Sources : Fonds européens, fonds-europeens.public.lu — présentation des Fonds structurels et des programmes de l'UE au Luxembourg (FEDER/ERDF, FSE+/ESF+, AMIF, ISF, BMVI), objectifs stratégiques, projets et autorités de gestion. Les chiffres budgétaires cités (par exemple le FEDER d'environ 21 millions d'euros et le FSE+ d'environ 9 millions d'euros pour le Luxembourg pour la période 2021-2027 ; le total de l'AMIF d'environ 27,9 millions d'euros) proviennent de fonds-europeens.public.lu pour la période de programmation 2021-2027 et sont approximatifs ; l'autorité de gestion de l'AMIF est le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. Informations générales uniquement. Exactes en date de juin 2026.*
+*Sources : Fonds européens, fonds-europeens.public.lu — présentation des Fonds structurels et des programmes de l'UE au Luxembourg (FEDER/ERDF, FSE+/ESF+, AMIF, ISF, BMVI), objectifs stratégiques, projets et autorités de gestion. Les chiffres budgétaires cités (par exemple le FEDER d'environ 21 millions d'euros et le FSE+ d'environ 9 millions d'euros pour le Luxembourg pour la période 2021-2027 ; le total de l'AMIF d'environ 27,9 millions d'euros) proviennent de fonds-europeens.public.lu pour la période de programmation 2021-2027 et sont approximatifs ; l'autorité de gestion de l'AMIF est le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. Informations générales uniquement. Exactes en date de juin 2026. Mise à jour : Interreg ajouté (fonds-europeens.public.lu, 2026). Vérifié le 9 novembre 2026.*

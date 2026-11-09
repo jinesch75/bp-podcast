@@ -12,7 +12,7 @@
 **TOM:** And today's topic is one we all share, wherever we come from... the environment.
 **ANNA:** The air we breathe, the water we drink, the forests we walk in, the waste we produce.
 **TOM:** These can feel like big, distant subjects. But there is a single place that brings them all together for citizens.
-**ANNA:** It is the environment portal of Luxembourg. Its friendly name is emwelt dot lu.
+**ANNA:** It is the environment portal of Luxembourg. Its friendly name is emwelt dot lu... which takes you to environnement dot public dot lu.
 **TOM:** "Ëmwelt" is the Luxembourgish word for environment. So this is, simply, the environment portal.
 **ANNA:** So Tom, who is behind it, and what is it for?
 **TOM:** It is run by the Ministry of the Environment, Climate and Biodiversity.
@@ -24,12 +24,12 @@
 **TOM:** The second area is water... drinking water, rivers, groundwater, and wastewater.
 **ANNA:** You can even check the quality of bathing water before you go for a swim in summer.
 **TOM:** The third area is air and noise... the quality of the air we breathe, and noise pollution.
-**ANNA:** And there is a real-time air-quality service, so you can see live measurements.
+**ANNA:** And there is a real-time air-quality service, with the app Meng Loft, so you can see live measurements.
 **TOM:** The fourth area is climate and energy... protecting the climate and adapting to its changes.
-**ANNA:** Luxembourg has a national energy and climate plan, and a strategy to adapt to a warming world.
+**ANNA:** Luxembourg has a national energy and climate plan, and a new strategy to adapt to a warming world, adopted in 2026.
 **TOM:** The fifth area is waste and resources... and this is where each of us can really make a difference.
 **ANNA:** Yes! The portal explains how to sort your waste, and the country's zero-waste strategy, "Null Offall Lëtzebuerg".
-**TOM:** There's even an app to help you know what goes in which bin.
+**TOM:** There's even an app, Mäin Offall, to help you know what goes in which bin.
 **ANNA:** There are more areas too... chemicals and safe products, fishing and hunting, and protecting the soil.
 **TOM:** So it really is a one-stop portal for the whole environment.
 **ANNA:** Now, let's talk about the part I find most inviting... experiencing nature.
@@ -48,7 +48,7 @@
 **TOM:** First, because the environment is not somewhere else. It is the air on your street and the water in your tap.
 **ANNA:** Second, because small actions add up. Sorting waste, saving water, protecting a green space... it all counts.
 **TOM:** And third, because being informed lets you take part... in consultations, in local projects, in everyday choices.
-**ANNA:** The portal even highlights calls for projects to bring more nature into our towns and villages.
+**ANNA:** The portal also shares the country's latest plans... for example a new national plan to restore nature.
 **TOM:** So this is not a passive website. It's an invitation to act, together.
 **ANNA:** Let's make it practical. How can someone use emwelt dot lu?
 **TOM:** First, before a summer swim, check the bathing-water quality. Before a high-pollution day, check the air.
@@ -68,4 +68,4 @@
 
 ---
 
-*Sources: Portail de l'environnement / emwelt.lu, environnement.public.lu, of the Ministère de l'Environnement, du Climat et de la Biodiversité — sections on nature and biodiversity, water, air and noise, climate and energy, waste and resources ("Null Offall Lëtzebuerg"), chemical substances, fishing and hunting, experiencing nature (nature and forest centres, nature trails), and environmental procedures (permits, grants, forms); plus services such as real-time air quality, bathing-water quality, flood and pollution information, and the waste-sorting guide. General information only. Accurate as of June 2026.*
+*Sources: Portail de l'environnement / emwelt.lu, environnement.public.lu, of the Ministère de l'Environnement, du Climat et de la Biodiversité — sections on nature and biodiversity, water, air and noise, climate and energy, waste and resources ("Null Offall Lëtzebuerg"), chemical substances, fishing and hunting, experiencing nature (nature and forest centres, nature trails), and environmental procedures (permits, grants, forms); plus services such as real-time air quality, bathing-water quality, flood and pollution information, and the waste-sorting guide. General information only. Accurate as of June 2026. Update: emwelt.lu redirects to environnement.public.lu; apps 'Meng Loft' (air) and 'Mäin Offall' (waste); national climate adaptation strategy 2025–2035 adopted 22 April 2026; national nature restoration plan (Sept 2026); no 'calls for projects for nature in towns' found on the portal. Fact-checked 9 November 2026.*

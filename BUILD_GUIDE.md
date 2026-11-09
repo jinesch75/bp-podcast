@@ -175,7 +175,7 @@ Episodes 1–13 were checked against the official websites; Jacques approved all
 - `python3 build/el_run_batch.py <key,key,...> en,fr,de [--budget 165]` generates + assembles many episodes in one go (parallel requests, `EL_CONCURRENCY`, default 6); it stops before the time budget and resumes where it left off (state in `/tmp/el_batch_state.json`). `tts_elevenlabs.py --estimate` prints the credits a run needs without generating.
 - `node build/replace_audio_elevenlabs.js <key,key> en,fr,de` puts a re-recording on the site when the SCRIPT CHANGED: it checks the recording matches the current `.md` scripts, copies the mp3s, replaces `segments`/`segments_fr`/`segments_de` (text + timings) and durations, and rebuilds `segments_lb` from the LB script on the new English audio. (`update_audio_elevenlabs.js` is only for unchanged text.)
 - ElevenLabs API key "Biergerpakt podcast" has its own credit limit (100,000). When it is used up, the API answers `quota_exceeded`; raise the key's limit in ElevenLabs (Developers → API keys) and re-run the batch.
-- `status: "in_progress"` on an episode shows an "In progress" badge on its card and a notice on its page (EN/FR/DE/LB strings `status_in_progress`, `in_progress_note` in `app.js`). Set/clear with `node build/set_status.js in_progress|final <from>-<to> | key,key`. Re-recorded with ElevenLabs (EN/FR/DE, final): episodes 1–13 (30 Sept 2026). Episodes 14–21 re-recorded with ElevenLabs on 9 Nov 2026 (final). In progress: 22–41 (voices to be done later).
+- `status: "in_progress"` on an episode shows an "In progress" badge on its card and a notice on its page (EN/FR/DE/LB strings `status_in_progress`, `in_progress_note` in `app.js`). Set/clear with `node build/set_status.js in_progress|final <from>-<to> | key,key`. Re-recorded with ElevenLabs (EN/FR/DE, final): episodes 1–13 (30 Sept 2026). Episodes 14–26 re-recorded with ElevenLabs on 9 Nov 2026 (final). In progress: 27–41 (voices to be done later).
 
 ## Audio quality pass (30 Sept 2026) — applies to every ElevenLabs recording
 
@@ -258,3 +258,12 @@ Jacques: "do the next 5 episodes" (applied directly, as all earlier suggestions 
 - 20 ONE: hedged mention of youth-protection reform bill 7994 (still in Parliament). EN 7:10, FR 7:05, DE 8:09.
 - 21 CePAS: "more than sixty years"; low-income school subsidy (SMFR) via SePAS + planned complément vie chère (bill 8716). EN 7:03, FR 6:39, DE 7:59.
 ⚠ Re-check FNS, CePAS (bill 8716) and ONE (bill 7994) when those laws are voted.
+
+## Fact-check episodes 22–26 (9 Nov 2026) + first ElevenLabs recordings
+
+Jacques: "do the next 5". All changes in `build/apply_factcheck_eps22-26_2026_11.py` (uses `lib_factcheck.py`; `build/show_turns.py <key> "phrase"…` prints the matching turns in EN/FR/DE/LB — /tmp is wiped when the VM restarts, keep helpers in build/). Quiz: CGDIS Q3 explanation. Batch: `EL_STATE=/tmp/el_state_b6.json python3 build/el_run_batch.py fondseuropeens,zesumme,cgdis,statec,environnement en,fr,de` (≈ 92,000 credits), put live, status final.
+- 22 European funds: Interreg (Greater Region) added; next EU period from 2028 being prepared. EN 6:56, FR 6:47, DE 8:06.
+- 23 Zesumme Vereinfachen: ministries/administrations can also post projects for feedback. EN 6:19, FR 6:19, DE 7:04.
+- 24 CGDIS: wrong "more than 3,900 volunteers" → "thousands… about nine in ten firefighters are volunteers" (annual report 2025: 6,890 volunteers, 694 professionals); quiz explanation too. EN 8:24, FR 8:14, DE 9:29.
+- 25 STATEC: no change (footer note only). EN 6:20, FR 6:06, DE 6:56.
+- 26 Environment portal: emwelt.lu → environnement.public.lu; apps Meng Loft / Mäin Offall; adaptation strategy adopted 2026; "calls for projects for nature in towns" (not found) → national nature restoration plan. EN 6:29, FR 6:22, DE 7:08. FR listening check flags the "Null Offall Lëtzebuerg" sentence (2:16) — Luxembourgish name, check by ear.

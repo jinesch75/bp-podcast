@@ -12,7 +12,7 @@
 **TOM:** Und das heutige Thema ist eines, das wir alle teilen, woher wir auch kommen... die Umwelt.
 **ANNA:** Die Luft, die wir atmen, das Wasser, das wir trinken, die Wälder, in denen wir spazieren gehen, der Abfall, den wir erzeugen.
 **TOM:** Diese Themen können groß und weit weg wirken. Aber es gibt einen einzigen Ort, der sie alle für die Bürgerinnen und Bürger zusammenbringt.
-**ANNA:** Es ist das Umweltportal Luxemburgs. Sein vertrauter Name ist emwelt Punkt lu.
+**ANNA:** Es ist das Umweltportal Luxemburgs. Sein vertrauter Name ist emwelt Punkt lu... das Sie zu environnement Punkt public Punkt lu führt.
 **TOM:** „Ëmwelt" ist das luxemburgische Wort für Umwelt. Dies ist also ganz einfach das Umweltportal.
 **ANNA:** Also Tom, wer steckt dahinter, und wofür ist es da?
 **TOM:** Es wird vom Ministerium für Umwelt, Klima und Biodiversität betrieben.
@@ -24,12 +24,12 @@
 **TOM:** Der zweite Bereich ist das Wasser... Trinkwasser, Flüsse, Grundwasser und Abwasser.
 **ANNA:** Sie können sogar die Qualität der Badegewässer überprüfen, bevor Sie im Sommer schwimmen gehen.
 **TOM:** Der dritte Bereich ist Luft und Lärm... die Qualität der Luft, die wir atmen, und die Lärmbelastung.
-**ANNA:** Und es gibt einen Echtzeit-Dienst zur Luftqualität, sodass Sie die Messungen live sehen können.
+**ANNA:** Und es gibt einen Echtzeit-Dienst zur Luftqualität, mit der App Meng Loft, sodass Sie die Messungen live sehen können.
 **TOM:** Der vierte Bereich ist Klima und Energie... den Klimaschutz und die Anpassung an seine Veränderungen.
-**ANNA:** Luxemburg hat einen nationalen Energie- und Klimaplan und eine Strategie, um sich an eine wärmer werdende Welt anzupassen.
+**ANNA:** Luxemburg hat einen nationalen Energie- und Klimaplan und eine neue Strategie, um sich an eine wärmer werdende Welt anzupassen, die 2026 verabschiedet wurde.
 **TOM:** Der fünfte Bereich ist Abfall und Ressourcen... und hier kann jeder von uns wirklich etwas bewirken.
 **ANNA:** Ja! Das Portal erklärt, wie man die Mülltrennung vornimmt, und die Null-Abfall-Strategie des Landes, „Null Offall Lëtzebuerg".
-**TOM:** Es gibt sogar eine App, die Ihnen hilft zu wissen, was in welche Tonne gehört.
+**TOM:** Es gibt sogar eine App, Mäin Offall, die Ihnen hilft zu wissen, was in welche Tonne gehört.
 **ANNA:** Es gibt noch weitere Bereiche... Chemikalien und sichere Produkte, Fischerei und Jagd, und der Schutz des Bodens.
 **TOM:** Es ist also wirklich ein zentrales Portal für die gesamte Umwelt.
 **ANNA:** Sprechen wir nun über den Teil, den ich am einladendsten finde... die Natur erleben.
@@ -48,7 +48,7 @@
 **TOM:** Erstens, weil die Umwelt nicht woanders ist. Sie ist die Luft in Ihrer Straße und das Wasser in Ihrem Wasserhahn.
 **ANNA:** Zweitens, weil sich kleine Handlungen summieren. Mülltrennung, Wasser sparen, eine Grünfläche schützen... all das zählt.
 **TOM:** Und drittens, weil Sie informiert sein teilnehmen lässt... an Konsultationen, an lokalen Projekten, an alltäglichen Entscheidungen.
-**ANNA:** Das Portal hebt sogar Projektaufrufe hervor, um mehr Natur in unsere Städte und Dörfer zu bringen.
+**ANNA:** Das Portal stellt auch die neuesten Pläne des Landes vor... zum Beispiel einen neuen nationalen Plan zur Wiederherstellung der Natur.
 **TOM:** Dies ist also keine passive Website. Es ist eine Einladung, gemeinsam zu handeln.
 **ANNA:** Machen wir es konkret. Wie kann jemand emwelt Punkt lu nutzen?
 **TOM:** Erstens, vor einem Sommerbad, überprüfen Sie die Qualität der Badegewässer. Vor einem Tag mit hoher Verschmutzung, überprüfen Sie die Luft.
@@ -68,4 +68,4 @@
 
 ---
 
-*Quellen: Portail de l'environnement / emwelt.lu, environnement.public.lu, des Ministeriums für Umwelt, Klima und Biodiversität — Bereiche zu Natur und Biodiversität, Wasser, Luft und Lärm, Klima und Energie, Abfall und Ressourcen („Null Offall Lëtzebuerg"), chemische Stoffe, Fischerei und Jagd, die Natur erleben (Natur- und Waldzentren, Naturlehrpfade) und Umweltverfahren (Genehmigungen, Beihilfen, Formulare); sowie Dienstleistungen wie Luftqualität in Echtzeit, Qualität der Badegewässer, Hochwasser- und Verschmutzungsinformationen und der Leitfaden zur Mülltrennung. Nur allgemeine Informationen. Stand Juni 2026.*
+*Quellen: Portail de l'environnement / emwelt.lu, environnement.public.lu, des Ministeriums für Umwelt, Klima und Biodiversität — Bereiche zu Natur und Biodiversität, Wasser, Luft und Lärm, Klima und Energie, Abfall und Ressourcen („Null Offall Lëtzebuerg"), chemische Stoffe, Fischerei und Jagd, die Natur erleben (Natur- und Waldzentren, Naturlehrpfade) und Umweltverfahren (Genehmigungen, Beihilfen, Formulare); sowie Dienstleistungen wie Luftqualität in Echtzeit, Qualität der Badegewässer, Hochwasser- und Verschmutzungsinformationen und der Leitfaden zur Mülltrennung. Nur allgemeine Informationen. Stand Juni 2026. Aktualisierung: emwelt.lu führt zu environnement.public.lu; Apps Meng Loft und Mäin Offall; Anpassungsstrategie 2025–2035 (22.04.2026); nationaler Wiederherstellungsplan (Sept. 2026). Geprüft am 9. November 2026.*

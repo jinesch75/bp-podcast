@@ -28,7 +28,7 @@
 **TOM:** Denn die Menschen, die ein Verfahren täglich nutzen, verstehen dessen Probleme oft am besten.
 **ANNA:** So können Bürger und Unternehmen die Initiative ergreifen und Ideen einreichen, um die Verfahren des Staates zu vereinfachen.
 **TOM:** Ist Ihnen etwas Umständliches aufgefallen, etwas, das einfacher sein könnte? Sie können vorschlagen, wie man es verbessert.
-**ANNA:** Und dann erfolgt die Arbeit auf partizipative, ko-kreative Weise... gemeinsam mit denen, die den Vorschlag gemacht haben.
+**ANNA:** Und dann erfolgt die Arbeit auf partizipative, ko-kreative Weise... gemeinsam mit denen, die den Vorschlag gemacht haben. Ministerien und Verwaltungen können dort auch eigene Projekte veröffentlichen, um die Meinung der Menschen einzuholen.
 **TOM:** Ich finde, es hilft, es sich als ein Projekt vorzustellen, das mehrere Phasen durchläuft.
 **ANNA:** Ja. Es gibt eine Phase zum Teilen von Ideen und dann Phasen, in denen an einer Lösung gearbeitet und diese getestet wird.
 **TOM:** Und hier ist ein Detail, das ich wirklich schätze. Sie müssen sich nicht für den ganzen Weg verpflichten.
@@ -70,4 +70,4 @@
 
 ---
 
-*Quellen: Plattform „Zesumme Vereinfachen", zesumme-vereinfachen.lu, und das Ministerium für Digitalisierung (mindigital.gouvernement.lu) — die partizipative Plattform zur Verwaltungsvereinfachung, verwaltet vom Vereinfachungsrat, gestartet 2022 als Teil des Programms „Einfach Lëtzebuerg"; Bürger und Unternehmen können Ideen einreichen und an einer oder mehreren Projektphasen teilnehmen, auf Luxemburgisch, Deutsch, Französisch oder Englisch. Das Beispiel der Bürgerrückmeldungen zur MyGuichet.lu-App stammt vom Ministerium für Digitalisierung. Nur allgemeine Informationen. Stand: Juni 2026.*
+*Quellen: Plattform „Zesumme Vereinfachen", zesumme-vereinfachen.lu, und das Ministerium für Digitalisierung (mindigital.gouvernement.lu) — die partizipative Plattform zur Verwaltungsvereinfachung, verwaltet vom Vereinfachungsrat, gestartet 2022 als Teil des Programms „Einfach Lëtzebuerg"; Bürger und Unternehmen können Ideen einreichen und an einer oder mehreren Projektphasen teilnehmen, auf Luxemburgisch, Deutsch, Französisch oder Englisch. Das Beispiel der Bürgerrückmeldungen zur MyGuichet.lu-App stammt vom Ministerium für Digitalisierung. Nur allgemeine Informationen. Stand: Juni 2026. Aktualisierung: Ministerien und Verwaltungen können ebenfalls Projekte einreichen. Geprüft am 9. November 2026.*

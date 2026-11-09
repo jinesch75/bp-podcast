@@ -12,7 +12,7 @@
 **TOM:** An d'Thema vun haut ass ee, dat mir all deelen, egal vu wou mir kommen... d'Ëmwelt.
 **ANNA:** D'Loft, déi mir ootmen, d'Waasser, dat mir drénken, d'Bëscher, an deene mir spadséiere ginn, den Offall, deen mir produzéieren.
 **TOM:** Dës Themen kënne grouss a wäit ewech wierken. Mä et gëtt eng eenzeg Plaz, déi se all fir d'Bierger zesummebréngt.
-**ANNA:** Et ass d'Ëmweltportal vu Lëtzebuerg. Säi vertraute Numm ass emwelt Punkt lu.
+**ANNA:** Et ass d'Ëmweltportal vu Lëtzebuerg. Säi vertraute Numm ass emwelt Punkt lu... deen Iech op environnement Punkt public Punkt lu féiert.
 **TOM:** „Ëmwelt" ass dat lëtzebuergescht Wuert fir Ëmwelt. Dat ass also, ganz einfach, d'Ëmweltportal.
 **ANNA:** Also Tom, wien stécht dohannert, a wofir ass et do?
 **TOM:** Et gëtt vum Ministère fir Ëmwelt, Klima a Biodiversitéit bedriwwen.
@@ -24,12 +24,12 @@
 **TOM:** Den zweete Beräich ass d'Waasser... Drénkwaasser, Flëss, Grondwaasser an Ofwaasser.
 **ANNA:** Dir kënnt souguer d'Qualitéit vum Buedwaasser iwwerpréiwen, ier Dir am Summer schwamme gitt.
 **TOM:** Den drëtte Beräich ass Loft a Kaméidi... d'Qualitéit vun der Loft, déi mir ootmen, an d'Kaméidiverschmotzung.
-**ANNA:** An et gëtt e Service fir d'Loftqualitéit an Echtzäit, sou datt Dir d'Moossunge live gesi kënnt.
+**ANNA:** An et gëtt e Service fir d'Loftqualitéit an Echtzäit, mat der App Meng Loft, sou datt Dir d'Moossunge live gesi kënnt.
 **TOM:** De véierte Beräich ass Klima an Energie... de Klima schützen a sech u seng Verännerungen unzepassen.
-**ANNA:** Lëtzebuerg huet en nationalen Energie- a Klimaplang, an eng Strategie, fir sech un eng méi waarm Welt unzepassen.
+**ANNA:** Lëtzebuerg huet en nationalen Energie- a Klimaplang, an eng nei Strategie, fir sech un eng méi waarm Welt unzepassen, déi 2026 ugeholl gouf.
 **TOM:** De fënnefte Beräich ass Offall a Ressourcen... an hei kann all eenzelne vun eis wierklech eppes beweegen.
 **ANNA:** Jo! D'Portal erkläert, wéi een den Offall trennt, an d'Null-Offall-Strategie vum Land, „Null Offall Lëtzebuerg".
-**TOM:** Et gëtt souguer eng App, déi Iech hëlleft ze wëssen, wat an déi wéi eng Tonn gehéiert.
+**TOM:** Et gëtt souguer eng App, Mäin Offall, déi Iech hëlleft ze wëssen, wat an déi wéi eng Tonn gehéiert.
 **ANNA:** Et gëtt nach méi Beräicher... Chemikalien a sécher Produkter, Fëscherei a Juegd, an de Schutz vum Buedem.
 **TOM:** Et ass also wierklech eng zentral Portal fir déi ganz Ëmwelt.
 **ANNA:** Loosst eis elo iwwer den Deel schwätzen, deen ech am meeschten alueeden fannen... d'Natur erliewen.
@@ -48,7 +48,7 @@
 **TOM:** Als éischt, well d'Ëmwelt net anzwousch anescht ass. Et ass d'Loft an Ärer Strooss an d'Waasser an Ärem Krunn.
 **ANNA:** Zweetens, well kleng Handlungen sech bäieneen addéieren. Offall trennen, Waasser spueren, eng gréng Plaz schützen... dat alles zielt.
 **TOM:** An drëttens, well informéiert ze sinn Iech matmaache léisst... un Konsultatiounen, u lokale Projeten, un alldeegleche Choixen.
-**ANNA:** D'Portal hieft souguer Projetsopruff ervir, fir méi Natur an eis Stied an Dierfer ze bréngen.
+**ANNA:** D'Portal stellt och déi neiste Pläng vum Land vir... zum Beispill en neien nationale Plang fir d'Natur ze restauréieren.
 **TOM:** Dat ass also keng passiv Websäit. Et ass eng Alueedung, zesummen ze handelen.
 **ANNA:** Loosst eis et praktesch maachen. Wéi kann een emwelt Punkt lu benotzen?
 **TOM:** Als éischt, virun engem Summerbad, iwwerpréift d'Qualitéit vum Buedwaasser. Virun engem Dag mat héijer Verschmotzung, iwwerpréift d'Loft.
@@ -68,4 +68,4 @@
 
 ---
 
-*Quellen: Portail de l'environnement / emwelt.lu, environnement.public.lu, vum Ministère fir Ëmwelt, Klima a Biodiversitéit — Beräicher zu Natur a Biodiversitéit, Waasser, Loft a Kaméidi, Klima an Energie, Offall a Ressourcen („Null Offall Lëtzebuerg"), chemesch Stoffer, Fëscherei a Juegd, d'Natur erliewen (Natur- a Bëschzentren, Naturlehrpäder), an Ëmweltprozeduren (Genehmegungen, Hëllefen, Formulairen); souwéi Servicer wéi Loftqualitéit an Echtzäit, Qualitéit vum Buedwaasser, Iwwerschwemmungs- a Verschmotzungsinformatiounen, an de Trennguide fir den Offall. Nëmmen allgemeng Informatiounen. Stand Juni 2026.*
+*Quellen: Portail de l'environnement / emwelt.lu, environnement.public.lu, vum Ministère fir Ëmwelt, Klima a Biodiversitéit — Beräicher zu Natur a Biodiversitéit, Waasser, Loft a Kaméidi, Klima an Energie, Offall a Ressourcen („Null Offall Lëtzebuerg"), chemesch Stoffer, Fëscherei a Juegd, d'Natur erliewen (Natur- a Bëschzentren, Naturlehrpäder), an Ëmweltprozeduren (Genehmegungen, Hëllefen, Formulairen); souwéi Servicer wéi Loftqualitéit an Echtzäit, Qualitéit vum Buedwaasser, Iwwerschwemmungs- a Verschmotzungsinformatiounen, an de Trennguide fir den Offall. Nëmmen allgemeng Informatiounen. Stand Juni 2026. Aktualiséierung: emwelt.lu → environnement.public.lu; Meng Loft, Mäin Offall; Adaptatiounsstrategie 2026; Restauratiounsplang. Iwwerpréift den 9. November 2026.*

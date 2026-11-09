@@ -45,8 +45,8 @@
 **ANNA:** Sprechen wir nun über die Menschen hinter dem CGDIS, denn ihre Geschichte ist bemerkenswert.
 **TOM:** Das CGDIS hat Berufsfeuerwehrleute, die dies als ihren Vollzeitberuf ausüben.
 **ANNA:** Aber hier ist der erstaunliche Teil. Es stützt sich auch auf Tausende von Freiwilligen.
-**TOM:** Mehr als dreitausendneunhundert freiwillige Feuerwehrleute. Das sind etwa neunzig Prozent der Einsatzkräfte.
-**ANNA:** Neunzig Prozent! Die meisten Menschen, die zu Ihrer Hilfe eilen, sind also Freiwillige.
+**TOM:** Tausende freiwillige Feuerwehrleute. Etwa neun von zehn Feuerwehrleuten sind Freiwillige.
+**ANNA:** Neun von zehn! Die meisten Menschen, die zu Ihrer Hilfe eilen, sind also Freiwillige.
 **TOM:** Sie haben gewöhnliche Berufe und Familien. Aber wenn der Alarm ertönt, lassen sie alles stehen und liegen, um ihren Nachbarn zu helfen.
 **ANNA:** Es ist eine schöne Form der Solidarität. Menschen, die Menschen schützen, freiwillig.
 **TOM:** Schauen wir kurz an, wie das CGDIS im ganzen Land organisiert ist.
@@ -88,4 +88,4 @@
 
 ---
 
-*Quellen: Corps grand-ducal d'incendie et de secours (CGDIS), 112.public.lu — die Notrufnummer 112, die Notrufzentrale CSU-112, die Brand- und Rettungszentren (CIS) und das Nationale Brand- und Rettungszentrum (CNIS), die spezialisierten Einsatzgruppen (GIS), das Ehrenamt und die Rekrutierung (einschließlich der Jeunes Pompiers / Jugendpompjeeën), das nationale Ausbildungsinstitut für Rettungskräfte (INFS), die Erste-Hilfe-Kurse und die Präventionsratschläge. Das CGDIS ist der nationale Brand- und Rettungsdienst Luxemburgs, gegründet 2018 aus den Feuerwehren und Zivilschutzdiensten des Landes, unter dem Innenministerium; es zählt mehr als 3.900 freiwillige Einsatzkräfte (etwa 90 % seiner operativen Belegschaft, laut CGDIS, 2026). Rufen Sie in einem echten Notfall immer die 112 an. Nur allgemeine Information. Stand: Juni 2026.*
+*Quellen: Corps grand-ducal d'incendie et de secours (CGDIS), 112.public.lu — die Notrufnummer 112, die Notrufzentrale CSU-112, die Brand- und Rettungszentren (CIS) und das Nationale Brand- und Rettungszentrum (CNIS), die spezialisierten Einsatzgruppen (GIS), das Ehrenamt und die Rekrutierung (einschließlich der Jeunes Pompiers / Jugendpompjeeën), das nationale Ausbildungsinstitut für Rettungskräfte (INFS), die Erste-Hilfe-Kurse und die Präventionsratschläge. Das CGDIS ist der nationale Brand- und Rettungsdienst Luxemburgs, gegründet 2018 aus den Feuerwehren und Zivilschutzdiensten des Landes, unter dem Innenministerium; es zählt mehr als 3.900 freiwillige Einsatzkräfte (etwa 90 % seiner operativen Belegschaft, laut CGDIS, 2026). Rufen Sie in einem echten Notfall immer die 112 an. Nur allgemeine Information. Stand: Juni 2026. Aktualisierung: CGDIS-Jahresbericht 2025: 6 890 freiwillige und 694 Berufsfeuerwehrleute. Geprüft am 9. November 2026.*

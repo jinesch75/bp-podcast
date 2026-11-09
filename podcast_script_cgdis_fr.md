@@ -45,8 +45,8 @@
 **ANNA:** Parlons maintenant des personnes derrière le CGDIS, car leur histoire est remarquable.
 **TOM:** Le CGDIS compte des pompiers professionnels, qui en font leur métier à plein temps.
 **ANNA:** Mais voici la partie étonnante. Il s'appuie aussi sur des milliers de bénévoles.
-**TOM:** Plus de trois mille neuf cents pompiers volontaires. Cela représente environ quatre-vingt-dix pour cent de la force opérationnelle.
-**ANNA:** Quatre-vingt-dix pour cent ! Donc la plupart des personnes qui se précipitent pour vous secourir sont des bénévoles.
+**TOM:** Des milliers de pompiers volontaires. Environ neuf pompiers sur dix sont des volontaires.
+**ANNA:** Neuf sur dix ! Donc la plupart des personnes qui se précipitent pour vous secourir sont des bénévoles.
 **TOM:** Ils ont des emplois ordinaires et des familles. Mais quand l'alarme retentit, ils laissent tout tomber pour aider leurs voisins.
 **ANNA:** C'est une belle forme de solidarité. Des gens qui protègent des gens, librement.
 **TOM:** Regardons brièvement comment le CGDIS est organisé à travers le pays.
@@ -88,4 +88,4 @@
 
 ---
 
-*Sources : Corps grand-ducal d'incendie et de secours (CGDIS), 112.public.lu — le numéro d'urgence 112, le centre d'appels d'urgence CSU-112, les centres d'incendie et de secours (CIS) et le Centre national d'incendie et de secours (CNIS), les groupes d'intervention spécialisés (GIS), le bénévolat et le recrutement (y compris les Jeunes Pompiers / Jugendpompjeeën), l'institut national de formation des secours (INFS), les cours de premiers secours et les conseils de prévention. Le CGDIS est le service national d'incendie et de secours du Luxembourg, créé en 2018 à partir des corps de pompiers et des services de protection civile du pays, sous l'autorité du ministère de l'Intérieur ; il compte plus de 3.900 membres opérationnels volontaires (environ 90 % de son effectif opérationnel, selon le CGDIS, 2026). En cas d'urgence réelle, appelez toujours le 112. Information générale uniquement. Exact en date de juin 2026.*
+*Sources : Corps grand-ducal d'incendie et de secours (CGDIS), 112.public.lu — le numéro d'urgence 112, le centre d'appels d'urgence CSU-112, les centres d'incendie et de secours (CIS) et le Centre national d'incendie et de secours (CNIS), les groupes d'intervention spécialisés (GIS), le bénévolat et le recrutement (y compris les Jeunes Pompiers / Jugendpompjeeën), l'institut national de formation des secours (INFS), les cours de premiers secours et les conseils de prévention. Le CGDIS est le service national d'incendie et de secours du Luxembourg, créé en 2018 à partir des corps de pompiers et des services de protection civile du pays, sous l'autorité du ministère de l'Intérieur ; il compte plus de 3.900 membres opérationnels volontaires (environ 90 % de son effectif opérationnel, selon le CGDIS, 2026). En cas d'urgence réelle, appelez toujours le 112. Information générale uniquement. Exact en date de juin 2026. Mise à jour : rapport annuel 2025 du CGDIS : 6 890 pompiers volontaires et 694 professionnels. Vérifié le 9 novembre 2026.*

@@ -103,6 +103,11 @@ q('klima', 'questions', 3, 'explanation', null, 'The Klimabonus is the national 
 q('klima', 'questions_fr', 3, 'explanation', null, "Le Klimabonus est le régime national d'aides de l'État. Il soutient la rénovation énergétique, le chauffage renouvelable comme les pompes à chaleur, les panneaux photovoltaïques et les batteries, les véhicules électriques et les bornes de recharge. Il a été renouvelé en 2026, pour la plupart des projets jusqu'en 2030. La Klima-Agence vous aide à trouver les aides qui s'appliquent.");
 q('klima', 'questions_de', 3, 'explanation', null, 'Der Klimabonus ist das nationale staatliche Förderprogramm. Es unterstützt energetische Sanierung, erneuerbares Heizen wie Wärmepumpen, Photovoltaikanlagen und Batterien, Elektrofahrzeuge und Ladestationen. Es wurde 2026 erneuert, für die meisten Projekte bis 2030. Die Klima-Agence hilft Ihnen, die passenden Beihilfen zu finden.');
 
+// Episodes 22-26 (9 Nov 2026): CGDIS volunteer share without a stale number
+q('cgdis', 'questions', 2, 'explanation', null, "Thousands of volunteers make up around 90% of the CGDIS's firefighters (CGDIS annual report 2025). They have ordinary jobs but drop everything to help when the alarm sounds.");
+q('cgdis', 'questions_fr', 2, 'explanation', "Plus de 3 900 pompiers volontaires représentent environ 90 % de l'effectif opérationnel du CGDIS.", "Des milliers de volontaires représentent environ 90 % des pompiers du CGDIS (rapport annuel 2025).");
+q('cgdis', 'questions_de', 2, 'explanation', 'Mehr als 3 900 freiwillige Feuerwehrleute machen rund 90 % der einsatzfähigen Belegschaft des CGDIS aus.', 'Tausende Freiwillige machen rund 90 % der Feuerwehrleute des CGDIS aus (Jahresbericht 2025).');
+
 const src = fs.readFileSync(FILE, 'utf8');
 const i = src.indexOf('const EPISODES');
 const banner = src.slice(0, i);

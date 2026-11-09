@@ -45,8 +45,8 @@
 **ANNA:** Elo, loosse mer iwwer d'Leit hannert dem CGDIS schwätzen, well hir Geschicht ass bemierkenswäert.
 **TOM:** De CGDIS huet beruffleg Pompjeeën, déi dat als hire Vollzäitberuff maachen.
 **ANNA:** Mä hei ass deen erstaunlechen Deel. Hie stëtzt sech och op Dausende vu Fräiwëllegen.
-**TOM:** Méi wéi dräidausendnénghonnert fräiwëlleg Pompjeeën. Dat sinn ongeféier nonzeg Prozent vun den Asazkräften.
-**ANNA:** Nonzeg Prozent! Also déi meeschte Leit, déi sech beeilen, fir Iech ze hëllefen, sinn Fräiwëlleger.
+**TOM:** Dausende fräiwëlleg Pompjeeën. Ongeféier néng vun zéng Pompjeeë sinn Fräiwëlleger.
+**ANNA:** Néng vun zéng! Also déi meeschte Leit, déi sech beeilen, fir Iech ze hëllefen, sinn Fräiwëlleger.
 **TOM:** Si hu gewéinlech Jobs a Famillen. Mä wann den Alarm ulaut, loosse se alles stoen, fir hiren Noperen ze hëllefen.
 **ANNA:** Et ass eng schéin Aart vu Solidaritéit. Leit, déi Leit schützen, fräiwëlleg.
 **TOM:** Loosse mer kuerz kucken, wéi de CGDIS am ganze Land organiséiert ass.
@@ -88,4 +88,4 @@
 
 ---
 
-*Quellen: Corps grand-ducal d'incendie et de secours (CGDIS), 112.public.lu — d'Noutrufnummer 112, d'Noutrufzentral CSU-112, d'Brand- a Rettungszentren (CIS) an dat National Brand- a Rettungszentrum (CNIS), déi spezialiséiert Asazgruppen (GIS), d'Benevolat an d'Rekrutéierung (dorënner d'Jeunes Pompiers / Jugendpompjeeën), dat national Ausbildungsinstitut fir d'Rettungskräften (INFS), d'Éischt-Hëllef-Coursen an d'Préventiounsrotschléi. De CGDIS ass den nationale Brand- a Rettungsdéngscht vu Lëtzebuerg, gegrënnt 2018 aus de Pompjeeën an den Zivilschutzdéngschter vum Land, ënner dem Innenministère; hien zielt méi wéi 3.900 fräiwëlleg Asazkräften (ongeféier 90 % vu senger operationeller Belegschaft, laut CGDIS, 2026). Bei engem richtegen Noutfall, rufft ëmmer d'112 un. Nëmmen allgemeng Informatioun. Stand: Juni 2026.*
+*Quellen: Corps grand-ducal d'incendie et de secours (CGDIS), 112.public.lu — d'Noutrufnummer 112, d'Noutrufzentral CSU-112, d'Brand- a Rettungszentren (CIS) an dat National Brand- a Rettungszentrum (CNIS), déi spezialiséiert Asazgruppen (GIS), d'Benevolat an d'Rekrutéierung (dorënner d'Jeunes Pompiers / Jugendpompjeeën), dat national Ausbildungsinstitut fir d'Rettungskräften (INFS), d'Éischt-Hëllef-Coursen an d'Préventiounsrotschléi. De CGDIS ass den nationale Brand- a Rettungsdéngscht vu Lëtzebuerg, gegrënnt 2018 aus de Pompjeeën an den Zivilschutzdéngschter vum Land, ënner dem Innenministère; hien zielt méi wéi 3.900 fräiwëlleg Asazkräften (ongeféier 90 % vu senger operationeller Belegschaft, laut CGDIS, 2026). Bei engem richtegen Noutfall, rufft ëmmer d'112 un. Nëmmen allgemeng Informatioun. Stand: Juni 2026. Aktualiséierung: CGDIS-Joresbericht 2025: 6 890 Fräiwëlleger, 694 Beruffspompjeeën. Iwwerpréift den 9. November 2026.*

@@ -28,7 +28,7 @@
 **TOM:** Parce que les personnes qui utilisent une procédure tous les jours en comprennent souvent le mieux les problèmes.
 **ANNA:** Ainsi, les citoyens et les entreprises peuvent prendre l'initiative et soumettre des idées pour simplifier les procédures de l'État.
 **TOM:** Vous avez remarqué quelque chose de maladroit, quelque chose qui pourrait être plus simple ? Vous pouvez proposer comment y remédier.
-**ANNA:** Et ensuite, le travail se déroule de manière participative et co-créative... avec les personnes qui l'ont proposé.
+**ANNA:** Et ensuite, le travail se déroule de manière participative et co-créative... avec les personnes qui l'ont proposé. Les ministères et les administrations peuvent aussi y publier leurs propres projets, pour demander l'avis des gens.
 **TOM:** Je pense qu'il est utile de se le représenter comme un projet qui avance par étapes.
 **ANNA:** Oui. Il y a une phase pour partager les idées, puis des phases pour élaborer une solution et la tester.
 **TOM:** Et voici un détail que j'apprécie vraiment. Vous n'êtes pas obligé de vous engager pour tout le parcours.
@@ -70,4 +70,4 @@
 
 ---
 
-*Sources : plateforme « Zesumme Vereinfachen », zesumme-vereinfachen.lu, et le Ministère de la Digitalisation (mindigital.gouvernement.lu) — la plateforme participative de simplification administrative gérée par le Conseil de simplification, lancée en 2022 dans le cadre du programme « Einfach Lëtzebuerg » ; les citoyens et les entreprises peuvent soumettre des idées et prendre part à une ou plusieurs phases de projet, en luxembourgeois, allemand, français ou anglais. L'exemple des retours des citoyens sur l'application MyGuichet.lu provient du Ministère de la Digitalisation. Informations générales uniquement. Exactes en date de juin 2026.*
+*Sources : plateforme « Zesumme Vereinfachen », zesumme-vereinfachen.lu, et le Ministère de la Digitalisation (mindigital.gouvernement.lu) — la plateforme participative de simplification administrative gérée par le Conseil de simplification, lancée en 2022 dans le cadre du programme « Einfach Lëtzebuerg » ; les citoyens et les entreprises peuvent soumettre des idées et prendre part à une ou plusieurs phases de projet, en luxembourgeois, allemand, français ou anglais. L'exemple des retours des citoyens sur l'application MyGuichet.lu provient du Ministère de la Digitalisation. Informations générales uniquement. Exactes en date de juin 2026. Mise à jour : les ministères et administrations peuvent aussi y soumettre des projets (mindigital.gouvernement.lu). Vérifié le 9 novembre 2026.*
