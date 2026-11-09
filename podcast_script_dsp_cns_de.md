@@ -22,7 +22,7 @@
 
 **TOM:** Warum ist das nützlich? Mein Arzt kennt meine Krankengeschichte doch schon.
 
-**ANNA:** Ihr Arzt schon — aber andere, die Sie behandeln, vielleicht nicht. Stellen Sie sich vor, Sie kommen nachts ins Krankenhaus, und Ihr eigener Arzt ist nicht da. Mit dem DSP kann der diensthabende Arzt Ihre wichtigsten Informationen sehen. Ihre Allergien, Ihre aktuellen Medikamente... Das kann sehr wichtig sein, sogar lebensrettend. Und es vermeidet, dieselbe Untersuchung zweimal zu machen, weil das Ergebnis schon da ist.
+**ANNA:** Ihr Arzt schon — aber andere, die Sie behandeln, vielleicht nicht. Stellen Sie sich vor, Sie kommen nachts ins Krankenhaus, und Ihr eigener Arzt ist nicht da. Mit dem DSP kann der diensthabende Arzt Ihre wichtigsten Informationen sehen. Ihre Allergien, Ihre aktuellen Medikamente... Das kann sehr wichtig sein, sogar lebensrettend. Und es vermeidet, dieselbe Untersuchung zweimal zu machen, weil das Ergebnis schon da ist. Sie können darin sogar Ihre Wünsche zur Organspende festhalten.
 
 **TOM:** Ah, das ist die Kernidee. Alle, die mich versorgen, sehen dieselbe Akte.
 
@@ -34,15 +34,15 @@
 
 **TOM:** Die Kontrolle — wie?
 
-**ANNA:** Sie, der Patient, entscheiden, wer in Ihr DSP schauen darf. Sie geben den Zugang, und Sie können ihn wieder entziehen. Sie können sehen, wer Ihre Akte eingesehen hat. Sie können sogar bestimmte Dokumente verbergen, wenn Sie möchten. Es ist also Ihre Akte, und Sie halten die Schlüssel in der Hand.
+**ANNA:** Sie, der Patient, entscheiden, wer in Ihr DSP schauen darf. Sie geben den Zugang, und Sie können ihn wieder entziehen. Sie können sehen, wer Ihre Akte eingesehen hat. Sie können sogar den Zugang zu bestimmten Dokumenten sperren — und Sie können Ihr DSP jederzeit schließen. Es ist also Ihre Akte, und Sie halten die Schlüssel in der Hand.
 
 **TOM:** Das gefällt mir. Sie gehört mir, und ich entscheide. Wie eröffne ich denn nun konkret ein DSP?
 
-**ANNA:** Gute Nachricht — Sie müssen es nicht eröffnen. Wenn Sie bei der luxemburgischen Krankenversicherung angemeldet sind, wird Ihr DSP automatisch angelegt. Um es selbst online zu nutzen, aktivieren Sie Ihr „eSanté-Konto“. Und das können Sie direkt über MyGuichet.lu machen.
+**ANNA:** Gute Nachricht — Sie müssen es nicht eröffnen. Wenn Sie bei der luxemburgischen Krankenversicherung angemeldet sind, wird Ihr DSP automatisch angelegt. Um es selbst online zu nutzen, aktivieren Sie Ihr „eSanté-Konto“. Mit LuxTrust oder einem luxemburgischen Personalausweis geht das mit ein paar Klicks auf MyGuichet.lu — auf der Website oder in der App — ohne auf einen Code per Post zu warten. Sonst können Sie es auf dem eSanté-Portal oder in der App MyDSP aktivieren.
 
 **TOM:** Das ist super. Und wenn es aktiv ist, wie schaue ich hinein?
 
-**ANNA:** Sie melden sich online bei Ihrem DSP an, über das eSanté-Portal. Und es gibt auch eine mobile App — sie heißt MyDSP — damit Sie Ihre Gesundheitsakte vom Telefon aus prüfen können.
+**ANNA:** Dann können Sie Ihr DSP direkt in Ihrem MyGuichet-eSpace öffnen, oder auf dem eSanté-Portal. Und es gibt auch eine mobile App — sie heißt MyDSP — damit Sie Ihre Gesundheitsakte vom Telefon aus prüfen können.
 
 **TOM:** Sehr praktisch. Also, um die erste Hälfte zusammenzufassen — das DSP ist meine kostenlose, sichere Online-Gesundheitsakte, betrieben von der Agence eSanté, sie hilft allen, die mich versorgen, zusammenzuarbeiten, ich kontrolliere, wer sie sieht, und ich aktiviere sie über MyGuichet.
 
@@ -54,15 +54,15 @@
 
 **TOM:** Gut. Jetzt der Teil, der viele Neuankömmlinge verwirrt. Wenn ich hier zum Arzt gehe... zahle ich, oder nicht?
 
-**ANNA:** Richtig, das ist der wichtige Teil. Traditionell zahlen Sie zuerst beim Arzt, und dann zahlt die CNS Ihnen das meiste davon zurück. Aber heute nutzt etwa die Hälfte der Ärzte die „sofortige Direktzahlung“. Dann zahlen Sie nur Ihren eigenen kleinen Anteil, und die CNS zahlt dem Arzt den Rest sofort.
+**ANNA:** Richtig, das ist der wichtige Teil. Traditionell zahlen Sie zuerst beim Arzt, und dann zahlt die CNS Ihnen das meiste davon zurück. Aber heute nutzen immer mehr Ärzte und Zahnärzte die „sofortige Direktzahlung“. Dann zahlen Sie nur Ihren eigenen kleinen Anteil, und die CNS zahlt dem Arzt den Rest sofort.
 
 **TOM:** Ich zahle also entweder den vollen Preis und bekomme später Geld zurück — oder, mit der Direktzahlung, nur meinen Anteil.
 
-**ANNA:** Genau. Die CNS erstattet einen großen Teil der Kosten — bei den meisten Leistungen sind es etwa achtzig bis hundert Prozent. Sie tragen also einen kleinen Teil selbst, und der Rest kommt zu Ihnen zurück.
+**ANNA:** Genau. Die CNS erstattet einen großen Teil der Kosten — bei den meisten Leistungen sind es etwa achtzig bis hundert Prozent. Sie tragen also einen kleinen Teil selbst, und der Rest kommt zu Ihnen zurück. Und für Kinder unter achtzehn gibt es meistens gar nichts zu zahlen.
 
 **TOM:** Und wie bekomme ich das Geld zurück? Was mache ich mit der Rechnung?
 
-**ANNA:** Ganz einfach. Der Arzt gibt Ihnen eine Rechnung — auf Papier — und Sie bezahlen sie. Dann schicken Sie diese bezahlte Originalrechnung an die CNS. Sie können sie per Post schicken, oder in einen ihrer Briefkästen werfen. Und wenn Ihr Arzt Ihnen eine digitale Rechnung gibt, können Sie sie mit ein paar Klicks einreichen — in der App der CNS, der GesondheetsApp, oder auf MyGuichet.lu. Die CNS überweist die Rückerstattung dann direkt auf Ihr Bankkonto.
+**ANNA:** Ganz einfach. Der Arzt gibt Ihnen eine Rechnung — auf Papier — und Sie bezahlen sie. Dann schicken Sie diese bezahlte Originalrechnung an die CNS. Sie können sie per Post schicken — innerhalb Luxemburgs brauchen Sie nicht einmal eine Briefmarke — oder in einen ihrer Briefkästen werfen. Und wenn Ihr Arzt Ihnen eine digitale Rechnung gibt, können Sie sie mit ein paar Klicks einreichen — in der App der CNS, der GesondheetsApp, oder auf MyGuichet.lu. Die CNS überweist die Rückerstattung dann direkt auf Ihr Bankkonto.
 
 **TOM:** Direkt auf mein Bankkonto. Wie lange dauert das?
 

@@ -32,6 +32,15 @@ q('workinluxembourg', 'questions_fr', 2, 0 + 2, 'et environ 11 000 candidats pr�
 q('workinluxembourg', 'questions_fr', 2, 'explanation', "et le vivier compte déjà environ 11 000 candidats présélectionnés par l'ADEM.", "et chaque profil de candidat est présélectionné par l'ADEM. Le Job Board se concentre sur les métiers en pénurie.");
 q('workinluxembourg', 'questions_de', 2, 0 + 2, 'und rund 11 000 vorausgewählten Kandidaten', 'und von ADEM vorab geprüften Kandidaten');
 q('workinluxembourg', 'questions_de', 2, 'explanation', 'und der Pool umfasst bereits rund 11 000 von ADEM vorausgewählte Kandidaten.', 'und jedes Kandidatenprofil wird von ADEM vorab geprüft. Das Job Board konzentriert sich auf Mangelberufe.');
+// DSP-CNS (9 Nov 2026): no 'about half' figure; DSP also opens in the MyGuichet eSpace
+q('dsp_cns', 'questions', 2, 'explanation', 'About half of doctors now use immediate direct payment:', 'More and more doctors and dentists use immediate direct payment:');
+q('dsp_cns', 'questions_fr', 2, 'explanation', 'Environ la moitié des médecins utilisent désormais le paiement immédiat direct :', 'De plus en plus de médecins et de dentistes utilisent le paiement immédiat direct :');
+q('dsp_cns', 'questions_de', 2, 'explanation', 'Etwa die Hälfte der Ärzte nutzt inzwischen die sofortige Direktzahlung:', 'Immer mehr Ärzte und Zahnärzte nutzen die sofortige Direktzahlung:');
+q('dsp_cns', 'questions_lb', 2, 'explanation', "Ongeféier d'Hallschent vun den Dokteren benotzt elo den direkte Paiement:", 'Ëmmer méi Dokteren an Zänndokteren benotzen den direkte Paiement:');
+q('dsp_cns', 'questions', 4, 'explanation', 'you log in through the eSanté portal — or use', 'you open it in your MyGuichet eSpace or on the eSanté portal — or use');
+q('dsp_cns', 'questions_fr', 4, 'explanation', 'vous vous connectez via le portail eSanté — ou', 'vous l\'ouvrez dans votre eSpace MyGuichet ou sur le portail eSanté — ou');
+q('dsp_cns', 'questions_de', 4, 'explanation', 'melden Sie sich über das eSanté-Portal an — oder', 'öffnen Sie es in Ihrem MyGuichet-eSpace oder auf dem eSanté-Portal — oder');
+q('dsp_cns', 'questions_lb', 4, 'explanation', 'loggt Dir Iech iwwer den eSanté-Portal an — oder', 'maacht Dir en an Ärem MyGuichet-eSpace oder um eSanté-Portal op — oder');
 
 const src = fs.readFileSync(FILE, 'utf8');
 const i = src.indexOf('const EPISODES');

@@ -22,7 +22,7 @@
 
 **TOM:** Also firwat ass dat nëtzlech? Mäin Dokter kennt meng Geschicht jo schonn.
 
-**ANNA:** Ären Dokter jo — mä aner Leit, déi Iech behandelen, vläicht net. Stellt Iech vir, Dir gitt nuets an d'Spidol, an Ären eegenen Dokter ass net do. Mam DSP kann den Dokter vu Garde Är wesentlech Informatioune gesinn. Är Allergien, Är aktuell Medikamenter... Dat ka ganz wichteg sinn, souguer liewensrettend. An et verhënnert, datt deeselwechten Examen zweemol gemaach gëtt, well d'Resultat schonn do ass.
+**ANNA:** Ären Dokter jo — mä aner Leit, déi Iech behandelen, vläicht net. Stellt Iech vir, Dir gitt nuets an d'Spidol, an Ären eegenen Dokter ass net do. Mam DSP kann den Dokter vu Garde Är wesentlech Informatioune gesinn. Är Allergien, Är aktuell Medikamenter... Dat ka ganz wichteg sinn, souguer liewensrettend. An et verhënnert, datt deeselwechten Examen zweemol gemaach gëtt, well d'Resultat schonn do ass. Dir kënnt do souguer Är Wënsch zum Don vun Organer festhalen.
 
 **TOM:** Ah, dat ass déi zentral Iddi. All d'Leit, déi sech ëm mech këmmeren, gesinn deeselwechten Dossier.
 
@@ -34,15 +34,15 @@
 
 **TOM:** D'Kontroll, wéi dat?
 
-**ANNA:** Et sidd Dir, de Patient, deen decidéiert, wien an Ären DSP kucke kann. Dir gitt den Zougang, an Dir kënnt en och erëm ewechhuelen. Dir kënnt gesinn, wien Ären Dossier consultéiert huet. Dir kënnt souguer verschidde Dokumenter verstoppen, wann Dir wëllt. Also ass et Ären Dossier, an Dir hutt d'Schlësselen an der Hand.
+**ANNA:** Et sidd Dir, de Patient, deen decidéiert, wien an Ären DSP kucke kann. Dir gitt den Zougang, an Dir kënnt en och erëm ewechhuelen. Dir kënnt gesinn, wien Ären Dossier consultéiert huet. Dir kënnt souguer den Zougang zu verschiddenen Dokumenter spären — an Dir kënnt Ären DSP zu all Moment zoumaachen. Also ass et Ären Dossier, an Dir hutt d'Schlësselen an der Hand.
 
 **TOM:** Dat gefält mer. En ass mäin, an ech decidéieren. Wéi maachen ech dann elo en DSP op?
 
-**ANNA:** Gutt Nouvelle — Dir musst en net opmaachen. Wann Dir bei der Lëtzebuerger Gesondheetskeess affiliéiert sidd, gëtt Ären DSP automatesch ugeluecht. Fir en selwer online ze benotzen, aktivéiert Dir Ären "eSanté-Kont". An dat kënnt Dir direkt iwwer MyGuichet.lu maachen.
+**ANNA:** Gutt Nouvelle — Dir musst en net opmaachen. Wann Dir bei der Lëtzebuerger Gesondheetskeess affiliéiert sidd, gëtt Ären DSP automatesch ugeluecht. Fir en selwer online ze benotzen, aktivéiert Dir Ären "eSanté-Kont". Mat LuxTrust oder enger Lëtzebuerger Identitéitskaart geet dat mat e puer Klicken op MyGuichet.lu — op der Websäit oder an der App — ouni op e Code mat der Post ze waarden. Soss kënnt Dir en um eSanté-Portal oder an der App MyDSP aktivéieren.
 
 **TOM:** Dat ass super. A wann en aktiv ass, wéi kucken ech en?
 
-**ANNA:** Dir loggt Iech online an Ären DSP an, iwwer den eSanté-Portal. An et gëtt och eng mobil App — si heescht MyDSP — sou datt Dir Äre Gesondheetsdossier vum Handy aus kucke kënnt.
+**ANNA:** Da kënnt Dir Ären DSP direkt an Ärem MyGuichet-eSpace opmaachen, oder um eSanté-Portal. An et gëtt och eng mobil App — si heescht MyDSP — sou datt Dir Äre Gesondheetsdossier vum Handy aus kucke kënnt.
 
 **TOM:** Ganz praktesch. Also, fir déi éischt Hallschent zesummenzefaassen — den DSP ass mäi gratis, séchere Gesondheetsdossier online, gefouert vun der Agence eSanté, en hëlleft alle Leit, déi mech behandelen, zesummenzeschaffen, ech kontrolléieren, wien en gesäit, an ech aktivéieren en iwwer MyGuichet.
 
@@ -54,15 +54,15 @@
 
 **TOM:** Gutt. Elo deen Deel, deen vill nei Leit duercherneebréngt. Wann ech hei bei den Dokter ginn... bezuelen ech, oder net?
 
-**ANNA:** Genee, dat ass dee wichtegen Deel. Traditionell bezuelt Dir fir d'éischt den Dokter, an duerno bezilt d'CNS Iech dat meescht zeréck. Mä haut benotzt ongeféier d'Hallschent vun den Dokteren den "direkte Sofortpaiement", de Paiement immédiat direct. Da bezuelt Dir just Ären eegene klengen Undeel, an d'CNS bezilt dem Dokter de Rescht direkt.
+**ANNA:** Genee, dat ass dee wichtegen Deel. Traditionell bezuelt Dir fir d'éischt den Dokter, an duerno bezilt d'CNS Iech dat meescht zeréck. Mä haut benotze ëmmer méi Dokteren an Zänndokteren den "direkte Sofortpaiement", de Paiement immédiat direct. Da bezuelt Dir just Ären eegene klengen Undeel, an d'CNS bezilt dem Dokter de Rescht direkt.
 
 **TOM:** Also entweder bezuelen ech de vollen Präis a kréie méi spéit Suen zeréck — oder, mam direkte Paiement, bezuelen ech just mäin Undeel.
 
-**ANNA:** Genee. D'CNS rembourséiert e groussen Deel vun de Käschten — fir déi meescht Soinen sinn et ronn achtzeg bis honnert Prozent. Also drot Dir e klengen Deel selwer, an de Rescht kënnt bei Iech zeréck.
+**ANNA:** Genee. D'CNS rembourséiert e groussen Deel vun de Käschten — fir déi meescht Soinen sinn et ronn achtzeg bis honnert Prozent. Also drot Dir e klengen Deel selwer, an de Rescht kënnt bei Iech zeréck. A fir Kanner ënner uechtzéng ass meeschtens guer näischt ze bezuelen.
 
 **TOM:** A wéi kréien ech dës Suen zeréck? Wat maachen ech mat der Rechnung?
 
-**ANNA:** Einfach. Den Dokter gëtt Iech eng Faktur — eng Rechnung op Pabeier — an Dir bezuelt se. Da schéckt Dir déi original, bezuelte Faktur un d'CNS. Dir kënnt se mat der Post schécken, oder an eng vun hire Boîten deposéieren. A wann Ären Dokter Iech eng digital Rechnung gëtt, kënnt Dir se mat e puer Klicken eraschécken — an der App vun der CNS, der GesondheetsApp, oder op MyGuichet.lu. D'CNS iwwerweist de Remboursement dann direkt op Äre Bankkont.
+**ANNA:** Einfach. Den Dokter gëtt Iech eng Faktur — eng Rechnung op Pabeier — an Dir bezuelt se. Da schéckt Dir déi original, bezuelte Faktur un d'CNS. Dir kënnt se mat der Post schécken — bannent Lëtzebuerg braucht Dir net emol eng Timber — oder an eng vun hire Bréifkëschten deposéieren. A wann Ären Dokter Iech eng digital Rechnung gëtt, kënnt Dir se mat e puer Klicken eraschécken — an der App vun der CNS, der GesondheetsApp, oder op MyGuichet.lu. D'CNS iwwerweist de Remboursement dann direkt op Äre Bankkont.
 
 **TOM:** Direkt op mäi Bankkont. Wéi laang dauert dat?
 

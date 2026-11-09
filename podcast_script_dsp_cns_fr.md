@@ -22,7 +22,7 @@
 
 **TOM :** Alors, pourquoi c'est utile ? Mon médecin connaît déjà mon historique.
 
-**ANNA :** Votre médecin, oui — mais les autres personnes qui vous soignent, peut-être pas. Imaginez que vous alliez à l'hôpital la nuit, et que votre propre médecin ne soit pas là. Avec le DSP, le médecin de garde peut voir vos informations essentielles. Vos allergies, vos médicaments actuels... Ça peut être très important, même vital. Et ça évite de refaire deux fois le même examen, parce que le résultat est déjà là.
+**ANNA :** Votre médecin, oui — mais les autres personnes qui vous soignent, peut-être pas. Imaginez que vous alliez à l'hôpital la nuit, et que votre propre médecin ne soit pas là. Avec le DSP, le médecin de garde peut voir vos informations essentielles. Vos allergies, vos médicaments actuels... Ça peut être très important, même vital. Et ça évite de refaire deux fois le même examen, parce que le résultat est déjà là. Vous pouvez même y noter vos souhaits concernant le don d'organes.
 
 **TOM :** Ah, c'est l'idée clé. Toutes les personnes qui s'occupent de moi peuvent voir le même dossier.
 
@@ -34,15 +34,15 @@
 
 **TOM :** Je contrôle comment ?
 
-**ANNA :** C'est vous, le patient, qui décidez qui peut consulter votre DSP. Vous donnez l'accès, et vous pouvez le retirer. Vous pouvez voir qui a consulté votre dossier. Vous pouvez même masquer certains documents si vous le souhaitez. Donc c'est votre dossier, et c'est vous qui avez les clés.
+**ANNA :** C'est vous, le patient, qui décidez qui peut consulter votre DSP. Vous donnez l'accès, et vous pouvez le retirer. Vous pouvez voir qui a consulté votre dossier. Vous pouvez même bloquer l'accès à certains documents — et vous pouvez fermer votre DSP à tout moment. Donc c'est votre dossier, et c'est vous qui avez les clés.
 
 **TOM :** J'aime bien. C'est à moi, et c'est moi qui décide. Alors comment j'ouvre concrètement un DSP ?
 
-**ANNA :** Bonne nouvelle — vous n'avez pas besoin de l'ouvrir. Si vous êtes affilié à l'assurance maladie luxembourgeoise, votre DSP est créé automatiquement. Pour l'utiliser vous-même en ligne, vous activez votre « compte eSanté ». Et vous pouvez le faire directement via MyGuichet.lu.
+**ANNA :** Bonne nouvelle — vous n'avez pas besoin de l'ouvrir. Si vous êtes affilié à l'assurance maladie luxembourgeoise, votre DSP est créé automatiquement. Pour l'utiliser vous-même en ligne, vous activez votre « compte eSanté ». Avec LuxTrust ou une carte d'identité luxembourgeoise, vous pouvez le faire en quelques clics sur MyGuichet.lu — sur le site ou dans l'application — sans attendre un code par la poste. Sinon, vous pouvez l'activer sur le portail eSanté ou dans l'application MyDSP.
 
 **TOM :** C'est super. Et une fois qu'il est actif, comment je le consulte ?
 
-**ANNA :** Vous vous connectez à votre DSP en ligne, via le portail eSanté. Et il y a aussi une application mobile — elle s'appelle MyDSP — pour consulter votre dossier de santé depuis votre téléphone.
+**ANNA :** Ensuite, vous pouvez ouvrir votre DSP directement dans votre eSpace MyGuichet, ou sur le portail eSanté. Et il y a aussi une application mobile — elle s'appelle MyDSP — pour consulter votre dossier de santé depuis votre téléphone.
 
 **TOM :** Très pratique. Alors, pour résumer la première moitié — le DSP est mon dossier de santé en ligne, gratuit et sécurisé, géré par l'Agence eSanté, il aide tous mes soignants à travailler ensemble, je contrôle qui le voit, et je l'active via MyGuichet.
 
@@ -54,15 +54,15 @@
 
 **TOM :** Bien. Maintenant, la partie qui déroute beaucoup de nouveaux arrivants. Quand je vais chez le médecin ici... je paie, ou pas ?
 
-**ANNA :** Voilà, c'est la partie importante. Traditionnellement, vous payez d'abord le médecin, et ensuite la CNS vous rembourse la plus grande partie. Mais aujourd'hui, environ la moitié des médecins utilisent le « paiement immédiat direct ». Dans ce cas, vous ne payez que votre petite part, et la CNS paie le reste au médecin tout de suite.
+**ANNA :** Voilà, c'est la partie importante. Traditionnellement, vous payez d'abord le médecin, et ensuite la CNS vous rembourse la plus grande partie. Mais aujourd'hui, de plus en plus de médecins et de dentistes utilisent le « paiement immédiat direct ». Dans ce cas, vous ne payez que votre petite part, et la CNS paie le reste au médecin tout de suite.
 
 **TOM :** Donc soit je paie le prix complet et je récupère l'argent plus tard — soit, avec le paiement direct, je ne paie que ma part.
 
-**ANNA :** Exactement. La CNS rembourse une grande partie du coût — pour la plupart des soins, c'est environ quatre-vingts à cent pour cent. Donc vous supportez une petite partie vous-même, et le reste vous revient.
+**ANNA :** Exactement. La CNS rembourse une grande partie du coût — pour la plupart des soins, c'est environ quatre-vingts à cent pour cent. Donc vous supportez une petite partie vous-même, et le reste vous revient. Et pour les enfants de moins de dix-huit ans, il n'y a en général rien à payer.
 
 **TOM :** Et comment je récupère cet argent ? Qu'est-ce que je fais de la facture ?
 
-**ANNA :** Simple. Le médecin vous donne une facture — une facture papier — et vous la payez. Ensuite, vous envoyez cette facture originale, acquittée, à la CNS. Vous pouvez l'envoyer par la poste, ou la déposer dans une de leurs boîtes. Et si votre médecin vous donne une facture digitale, vous pouvez l'envoyer en quelques clics — dans l'application de la CNS, la GesondheetsApp, ou sur MyGuichet.lu. La CNS verse ensuite le remboursement directement sur votre compte bancaire.
+**ANNA :** Simple. Le médecin vous donne une facture — une facture papier — et vous la payez. Ensuite, vous envoyez cette facture originale, acquittée, à la CNS. Vous pouvez l'envoyer par la poste — depuis le Luxembourg, vous n'avez même pas besoin de timbre — ou la déposer dans une de leurs boîtes aux lettres. Et si votre médecin vous donne une facture digitale, vous pouvez l'envoyer en quelques clics — dans l'application de la CNS, la GesondheetsApp, ou sur MyGuichet.lu. La CNS verse ensuite le remboursement directement sur votre compte bancaire.
 
 **TOM :** Directement sur mon compte bancaire. Combien de temps ça prend ?
 

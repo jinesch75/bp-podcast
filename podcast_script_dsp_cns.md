@@ -22,7 +22,7 @@
 
 **TOM:** So why is this useful? My doctor already knows my history.
 
-**ANNA:** Your doctor does — but other people who treat you may not. Imagine you go to the hospital at night, and your own doctor is not there. With the DSP, the doctor on duty can see your essential information. Your allergies, your current medication... That can be very important, even life-saving. And it avoids repeating the same exam twice, because the result is already there.
+**ANNA:** Your doctor does — but other people who treat you may not. Imagine you go to the hospital at night, and your own doctor is not there. With the DSP, the doctor on duty can see your essential information. Your allergies, your current medication... That can be very important, even life-saving. And it avoids repeating the same exam twice, because the result is already there. You can even write down your wishes about organ donation in it.
 
 **TOM:** Ah, that's the key idea. All the people caring for me can see the same file.
 
@@ -34,15 +34,15 @@
 
 **TOM:** In control how?
 
-**ANNA:** It's you, the patient, who decides who can look at your DSP. You give access, and you can take it away. You can see who consulted your file. You can even hide certain documents if you want. So it's your file, and you hold the keys.
+**ANNA:** It's you, the patient, who decides who can look at your DSP. You give access, and you can take it away. You can see who consulted your file. You can even block access to certain documents — and you can close your DSP at any time. So it's your file, and you hold the keys.
 
 **TOM:** I like that. It's mine, and I decide. So how do I actually open a DSP?
 
-**ANNA:** Good news — you don't need to open it. If you're affiliated to the Luxembourg health insurance, your DSP is created automatically. To use it yourself online, you activate your "eSanté account". And you can do that directly through MyGuichet.lu.
+**ANNA:** Good news — you don't need to open it. If you're affiliated to the Luxembourg health insurance, your DSP is created automatically. To use it yourself online, you activate your "eSanté account". With LuxTrust or a Luxembourg ID card, you can do that in a few clicks on MyGuichet.lu — on the website or in the app — without waiting for a code by post. Otherwise, you can activate it on the eSanté portal or in the MyDSP app.
 
 **TOM:** That's great. And once it's active, how do I look at it?
 
-**ANNA:** You log in to your DSP online, through the eSanté portal. And there's also a mobile app — it's called MyDSP — so you can check your health file from your phone.
+**ANNA:** Then you can open your DSP right in your MyGuichet eSpace, or on the eSanté portal. And there's also a mobile app — it's called MyDSP — so you can check your health file from your phone.
 
 **TOM:** Very practical. So, to sum up the first half — the DSP is my free, secure, online health file, run by the Agence eSanté, it helps all my carers work together, I control who sees it, and I activate it through MyGuichet.
 
@@ -54,15 +54,15 @@
 
 **TOM:** Good. Now, the part that confuses a lot of newcomers. When I go to the doctor here... do I pay, or not?
 
-**ANNA:** Right, this is the important part. Traditionally, you pay the doctor first, and then the CNS pays you back most of it. But today, about half of doctors use "immediate direct payment". Then you only pay your own small share, and the CNS pays the doctor the rest straight away.
+**ANNA:** Right, this is the important part. Traditionally, you pay the doctor first, and then the CNS pays you back most of it. But today, more and more doctors and dentists use "immediate direct payment". Then you only pay your own small share, and the CNS pays the doctor the rest straight away.
 
 **TOM:** So either I pay the full price and get money back later — or, with direct payment, I only pay my share.
 
-**ANNA:** Exactly. The CNS reimburses a large part of the cost — for most care it's around eighty to one hundred percent. So you carry a small part yourself, and the rest comes back to you.
+**ANNA:** Exactly. The CNS reimburses a large part of the cost — for most care it's around eighty to one hundred percent. So you carry a small part yourself, and the rest comes back to you. And for children under eighteen, there's usually nothing to pay at all.
 
 **TOM:** And how do I get that money back? What do I do with the bill?
 
-**ANNA:** Simple. The doctor gives you an invoice — a paper bill — and you pay it. Then you send that original, paid invoice to the CNS. You can send it by post, or drop it in one of their boxes. And if your doctor gives you a digital invoice, you can send it with a few clicks — in the CNS app, the GesondheetsApp, or on MyGuichet.lu. The CNS then pays the reimbursement straight into your bank account.
+**ANNA:** Simple. The doctor gives you an invoice — a paper bill — and you pay it. Then you send that original, paid invoice to the CNS. You can send it by post — from inside Luxembourg, you don't even need a stamp — or drop it in one of their letterboxes. And if your doctor gives you a digital invoice, you can send it with a few clicks — in the CNS app, the GesondheetsApp, or on MyGuichet.lu. The CNS then pays the reimbursement straight into your bank account.
 
 **TOM:** Into my bank account directly. How long does it take?
 
@@ -114,4 +114,4 @@
 
 ---
 
-*Sources: esante.lu (Agence eSanté — Dossier de Soins Partagé / MyDSP), cns.public.lu (Caisse Nationale de Santé — reimbursements, third-party payment, social third-party payment), and guichet.public.lu/en (activation of the eSanté account / DSP via MyGuichet.lu). General information, not medical or financial advice — check the official sites for your personal situation.*
+*Sources: esante.lu (Agence eSanté — Dossier de Soins Partagé / MyDSP), cns.public.lu (Caisse Nationale de Santé — reimbursements, third-party payment, social third-party payment), and guichet.public.lu/en (activation of the eSanté account / DSP via MyGuichet.lu). Fact-checked 9 November 2026: guichet.public.lu DSP page (26.05.2026: activation on MyGuichet.lu web/app with LuxTrust or Luxembourg eID; DSP in the MyGuichet eSpace), cns.public.lu (PID 26.10.2026, digitised invoices 01.09.2026), esante.lu (organ donation wishes in the DSP). General information, not medical or financial advice — check the official sites for your personal situation.*
