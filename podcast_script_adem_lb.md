@@ -39,7 +39,7 @@
 **ANNA:** Du mells dech op MyGuichet Punkt lu un. Dat ass déi sécher Onlineplattform vum Staat, iwwer déi mer an enger fréierer Episod geschwat hunn.
 **TOM:** D'Plattform féiert dech Schrëtt fir Schrëtt. Du gëss Informatiounen iwwer däi Profil, an iwwer d'Aart vu Job, déi s du sichs.
 **ANNA:** Du kanns och deng Dokumenter direkt eroplueden, esou datt alles op enger Plaz ass.
-**TOM:** A fir dech anzeloggen, brauchs du en sécheren Authentifikatiounsgerät, wéi e LuxTrust-Produkt.
+**TOM:** A fir dech anzeloggen, brauchs du en sécheren Authentifikatiounsgerät, wéi e LuxTrust-Produkt, oder deng Lëtzebuerger elektronesch Identitéitskaart.
 **ANNA:** Dat ass deeselwechte séchere Login, deen s du fir vill offiziell Servicer zu Lëtzebuerg benotzs.
 **TOM:** A wann een léiwer eng Persoun trëfft, vis-à-vis?
 **ANNA:** Da gëtt et déi zweet Méiglechkeet... sech perséinlech an enger ADEM-Agence umellen.
@@ -58,7 +58,7 @@
 **TOM:** Du kanns och däi CV do eroplueden, esou datt d'Patronen dech fanne kënnen.
 **ANNA:** Da ginn et Formatiounen a Beschäftegungsmoossnamen, déi no dengem Profil an dengen Bedierfnesser erausgesicht ginn.
 **TOM:** An et gëtt eppes, wat den Employment Club heescht, oder?
-**ANNA:** Jo. Do kanns du Computere benotzen an Hëllef kréien, fir däi CV virzebereeden. Praktesch, handfest Ënnerstëtzung.
+**ANNA:** Jo. Do kanns du Computere benotzen, Hëllef bei dengem CV an dengem Motivatiounsbréif kréien, souguer eng Foto fir de CV maache loossen, an u Gruppenworkshoppen deelhuelen. Praktesch, handfest Ënnerstëtzung.
 **TOM:** Also ass d'Umeldung net just eng Formalitéit. Si erschléisst richteg, konkret Hëllef.
 **ANNA:** Genau. Mä natierlech kommen mat der Hëllef och e puer Flichten.
 **TOM:** Dat ass fair. Wann s du dech umells, seet s du, datt s du aktiv no Aarbecht siche wäerts.
@@ -73,11 +73,11 @@
 **ANNA:** An hei ass déi wichteg Reegel. Fir d'Aarbechtslosegeld ze froen, muss du dech als éischt als Aarbechtssichenden bei der ADEM umellen.
 **TOM:** Wann däin Dossier als Aarbechtssichenden eemol op ass, kuckt d'ADEM automatesch, ob s du e Recht op Leeschtunge kéings hunn, op Basis vun denger Situatioun.
 **ANNA:** Also kënnt d'Umeldung als éischt... an da follegt d'Fro vum Geld.
-**TOM:** An et gëtt gutt Neiegkeeten, wéi s du d'Ufro méchs. Zënter kuerzem ass d'Ufro fir d'Aarbechtslosegeld komplett online.
+**TOM:** An et gëtt gutt Neiegkeeten, wéi s du d'Ufro méchs. Wann s du d'Konditiounen erfëlls, schéckt d'ADEM der e Bréif, an du fëlls deng Demande online aus, op MyGuichet.lu.
 **ANNA:** Dat heescht manner Pabeier a gespuerten Zäit. Du kanns méi dovun vun doheem aus maachen.
 **TOM:** Loosse mer elo e bësse Opmierksamkeet op déi jonk Nolauschterer leeën, well Lëtzebuerg huet eng speziell Verspriechung fir si.
 **ANNA:** Si heescht d'Jugendgarantie. D'Zil ass, datt all jonke Mënsch, am Alter vu siechzéng bis drësseg, eng konkret Léisung ugebuede kritt, fir an d'Aarbechtsliewen anzeklammen.
-**TOM:** An et gëtt e kloren Zäitkader... bannent véier Méint nodeems s du dech bei der ADEM ugemellt hues.
+**TOM:** An et gëtt e kloren Zäitkader... bannent véier Méint nodeems s du dech bei der ADEM ugemellt hues. An an den éischte sechs Méint gesäis du däi perséinleche Beroder all Mount.
 **ANNA:** Déi Léisung kéint e Job sinn, mä et kéint och eng Formatioun sinn, oder en aneren Schrëtt, deen dech no vir bréngt.
 **TOM:** Also wann s du jonk bass an net sécher bass, wat s du als Nächst maache solls, ass d'ADEM eng ganz gutt Plaz, fir unzefänken.
 **ANNA:** D'ADEM huet och eng spezialiséiert Ënnerstëtzung fir Leit mat enger Behënnerung, oder mat enger reduzéierter Aarbechtsfäegkeet.
@@ -91,9 +91,9 @@
 **ANNA:** Et gëtt och Ënnerstëtzung fir international Recrutement, iwwer e Service mam Numm Work in Luxembourg.
 **TOM:** An zënter 2026 gëtt et souguer eng national Websäit, workinluxembourg.com. Si hëlleft de Firmen hei, Talenter ze fannen, an hëlleft de Leit am Ausland, Méiglechkeeten am Land z'entdecken.
 **ANNA:** Tom, ier mer ophalen, gëtt et e Sécherheetspunkt, deen mer wierklech erwäine sollten.
-**TOM:** Jo, e wichtegen. Heiansdo schécken Escroke falsch E-Maile, déi virgewen, d'ADEM ze sinn, a si froen no Suen fir e Job oder e Visa.
+**TOM:** Jo, e wichtegen. Heiansdo schécken Escroke falsch E-Mailen oder maache falsch Konten op de soziale Netzwierker, déi virgi, d'ADEM ze sinn. Si froen no Suen fir e Job oder e Visa — oder si froen dech, op e Link ze klicken an deng perséinlech Donnéeën ze bestätegen.
 **ANNA:** Denkt w.e.g. kloer drun... d'ADEM freet Iech ni, fir e Job oder e Visa ze bezuelen. De Service ass gratis.
-**TOM:** Wann iech iergendeen am Numm vun der ADEM no enger Bezuelung freet, ass et e Bedruch. Bezuelt net, an deelt Är Donnéeën net.
+**TOM:** Wann iergendeen dech am Numm vun der ADEM no enger Bezuelung oder no perséinlechen Donnéeë freet, ass et e Bedruch. Bezuel net, klick net, a kuck d'offiziell Kanäl vun der ADEM op hirer Websäit no.
 **ANNA:** Nach eng praktesch Saach... d'Sproochen. Fir mat der ADEM ëmzegoen, sollt Dir mindestens eng vun de Verwaltungssprooche vu Lëtzebuerg schwätzen... Lëtzebuergesch, Franséisch, oder Däitsch, oder soss Englesch.
 **TOM:** A wann Dir dat net maacht, kënnt Dir een, deem Dir vertraut a deen et schwätzt, matbréngen, fir Iech wärend Äre Rendez-vouse ze hëllefen.
 **ANNA:** Also loosse mer alles zesummebréngen. Wat sollen d'Leit iwwer d'ADEM behalen?

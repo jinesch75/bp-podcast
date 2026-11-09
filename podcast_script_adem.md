@@ -39,7 +39,7 @@
 **ANNA:** You register on MyGuichet dot lu. That is the State's secure online platform that we talked about in an earlier episode.
 **TOM:** The platform guides you step by step. You give information about your profile, and the kind of job you are looking for.
 **ANNA:** You can also upload your documents directly, so everything is in one place.
-**TOM:** And to log in, you need a secure authentication device, like a LuxTrust product.
+**TOM:** And to log in, you need a secure authentication device, like a LuxTrust product, or your Luxembourg electronic ID card.
 **ANNA:** That is the same secure login you use for many official services in Luxembourg.
 **TOM:** What if someone prefers to meet a person, face to face?
 **ANNA:** Then there is the second way... registering in person at an ADEM agency.
@@ -58,7 +58,7 @@
 **TOM:** You can also upload your CV there, so employers can find you.
 **ANNA:** Then there are training courses and employment measures, chosen according to your profile and your needs.
 **TOM:** And there is something called the Employment Club, right?
-**ANNA:** Yes. There you can use computers and get help preparing your CV. Practical, hands-on support.
+**ANNA:** Yes. There you can use computers, get help with your CV and cover letter, even have a photo taken for your CV, and join group workshops. Practical, hands-on support.
 **TOM:** So registration is not just a formality. It unlocks real, concrete help.
 **ANNA:** Exactly. But of course, with help come some responsibilities too.
 **TOM:** That's fair. When you register, you are saying you will actively look for work.
@@ -73,11 +73,11 @@
 **ANNA:** And here is the important rule. To apply for unemployment benefit, you must first be registered as a jobseeker with ADEM.
 **TOM:** Once your jobseeker file is open, ADEM checks automatically whether you may be entitled to benefits, based on your situation.
 **ANNA:** So registration comes first... then the benefit question follows.
-**TOM:** And there is good news on how you apply. Recently, applying for unemployment benefit became fully online.
+**TOM:** And there is good news on how you apply. If you meet the conditions, ADEM sends you a letter, and you complete your application online, on MyGuichet.lu.
 **ANNA:** That means less paperwork, and time saved. You can do more of it from home.
 **TOM:** Let's give some attention to younger listeners now, because Luxembourg has a special promise for them.
 **ANNA:** It's called the Youth Guarantee. The goal is that every young person, aged sixteen to thirty, is offered a concrete solution to enter working life.
-**TOM:** And there's a clear timeframe... within four months of registering with ADEM.
+**TOM:** And there's a clear timeframe... within four months of registering with ADEM. And during the first six months, you meet your personal counsellor every month.
 **ANNA:** That solution might be a job, but it could also be training, or another step that moves you forward.
 **TOM:** So if you are young and unsure what to do next, ADEM is a very good place to start.
 **ANNA:** ADEM also has dedicated support for people with a disability, or with reduced work capacity.
@@ -91,9 +91,9 @@
 **ANNA:** There is also support for international recruitment, through a service called Work in Luxembourg.
 **TOM:** And since 2026 there's even a national website, workinluxembourg.com. It helps companies here find talent, and helps people abroad discover opportunities in the country.
 **ANNA:** Tom, before we finish, there is one safety point we really should mention.
-**TOM:** Yes, an important one. Sometimes scammers send fake emails pretending to be ADEM, and they ask for money for a job or a visa.
+**TOM:** Yes, an important one. Sometimes scammers send fake emails or create fake social-media accounts pretending to be ADEM. They ask for money for a job or a visa — or they ask you to click a link and confirm your personal details.
 **ANNA:** Please remember this clearly... ADEM never asks you to pay for a job or a visa. The service is free.
-**TOM:** If anyone asks you for payment in ADEM's name, it is a scam. Don't pay, and don't share your details.
+**TOM:** If anyone asks you for payment or personal details in ADEM's name, it is a scam. Don't pay, don't click, and check ADEM's official channels on its website.
 **ANNA:** One more practical thing... languages. To deal with ADEM, you should speak at least one of Luxembourg's administrative languages... Luxembourgish, French, or German, or else English.
 **TOM:** And if you don't, you can bring someone you trust who does, to help you during your appointments.
 **ANNA:** So let's bring it all together. What should people remember about ADEM?
@@ -110,4 +110,4 @@
 
 ---
 
-*Sources: Agence pour le développement de l'emploi (ADEM), adem.public.lu — "How to register as a jobseeker", "Your rights and obligations", "Applying for unemployment benefits", "Youth Guarantee", "Working with disabilities", "Financial support for employers", and the ADEM homepage; Guichet.lu, "Registering as a jobseeker". Figures (e.g. 19,907 available resident jobseekers as of 30 November 2025, +6.9% year-on-year) are from ADEM and dated accordingly. General information only — for your personal situation, contact ADEM directly. Accurate as of June 2026.*
+*Sources: Agence pour le développement de l'emploi (ADEM), adem.public.lu — "How to register as a jobseeker", "Your rights and obligations", "Applying for unemployment benefits", "Youth Guarantee", "Working with disabilities", "Financial support for employers", and the ADEM homepage; Guichet.lu, "Registering as a jobseeker". Figures (e.g. 19,907 available resident jobseekers as of 30 November 2025, +6.9% year-on-year) are from ADEM and dated accordingly. Fact-checked 9 November 2026 (ADEM phishing alert 02.10.2026 and fake social-media accounts 09.09.2026; unemployment benefit application via MyGuichet.lu after ADEM's letter; Youth Guarantee monthly counsellor meetings; Club Emploi; login with LuxTrust or eID per Guichet.lu). General information only — for your personal situation, contact ADEM directly. Accurate as of June 2026.*

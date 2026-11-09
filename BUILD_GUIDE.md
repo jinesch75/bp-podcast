@@ -232,3 +232,7 @@ No errors. Applied (Jacques: "apply all"): register "still growing" instead of "
 ## Fact-check Accessibility (9 Nov 2026)
 
 Applied (Jacques: "apply all"): digital complaint procedure — organisation first (contact in its accessibility declaration), then the SIP (answers within a month) or the Ombudsman; OSAPS reporting also by phone, e-mail or WhatsApp photo (no numbers); financial aid — plan compliance check first, works finished by July 2031; new collective housing — one home in ten accessible. Script: `build/apply_factcheck_accessibilite_2026_11.py`. Quiz unchanged. Re-recorded EN/FR/DE (changed sentences only, ≈3,400 credits).
+
+## Fact-check ADEM (9 Nov 2026)
+
+No errors. Applied (Jacques: "apply all"): scams now include fake e-mails / social-media accounts and phishing for personal details (ADEM alerts 02.10.2026 and 09.09.2026), "don't pay, don't click, check ADEM's official channels"; login with LuxTrust or Luxembourg eID; unemployment benefit — ADEM's letter, then the application on MyGuichet.lu; Youth Guarantee — monthly counsellor meetings in the first six months; Club Emploi — CV and cover letter, CV photo, group workshops. Script: `build/apply_factcheck_adem_2026_11.py`. Quiz unchanged. Re-recorded EN/FR/DE (changed sentences only, ≈3,500 credits).

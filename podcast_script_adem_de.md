@@ -39,7 +39,7 @@
 **ANNA:** Sie melden sich auf MyGuichet Punkt lu an. Das ist die sichere Online-Plattform des Staates, über die wir in einer früheren Folge gesprochen haben.
 **TOM:** Die Plattform führt Sie Schritt für Schritt. Sie geben Informationen zu Ihrem Profil und zu der Art von Job, den Sie suchen.
 **ANNA:** Sie können auch Ihre Dokumente direkt hochladen, sodass alles an einem Ort ist.
-**TOM:** Und um sich anzumelden, brauchen Sie ein sicheres Authentifizierungsmittel, wie ein LuxTrust-Produkt.
+**TOM:** Und um sich anzumelden, brauchen Sie ein sicheres Authentifizierungsmittel, wie ein LuxTrust-Produkt, oder Ihren luxemburgischen elektronischen Personalausweis.
 **ANNA:** Das ist derselbe sichere Login, den Sie für viele offizielle Dienste in Luxemburg verwenden.
 **TOM:** Was ist, wenn jemand lieber eine Person trifft, von Angesicht zu Angesicht?
 **ANNA:** Dann gibt es den zweiten Weg... die Anmeldung persönlich in einer ADEM-Agentur.
@@ -58,7 +58,7 @@
 **TOM:** Sie können dort auch Ihren Lebenslauf hochladen, sodass Arbeitgeber Sie finden können.
 **ANNA:** Dann gibt es Weiterbildungskurse und Beschäftigungsmaßnahmen, ausgewählt nach Ihrem Profil und Ihren Bedürfnissen.
 **TOM:** Und es gibt etwas, das Beschäftigungsclub heißt, richtig?
-**ANNA:** Ja. Dort können Sie Computer nutzen und Hilfe bei der Erstellung Ihres Lebenslaufs bekommen. Praktische, handfeste Unterstützung.
+**ANNA:** Ja. Dort können Sie Computer nutzen, Hilfe bei Lebenslauf und Anschreiben bekommen, sogar ein Foto für Ihren Lebenslauf machen lassen, und an Gruppenworkshops teilnehmen. Praktische, handfeste Unterstützung.
 **TOM:** Die Anmeldung ist also nicht nur eine Formalität. Sie schaltet echte, konkrete Hilfe frei.
 **ANNA:** Genau. Aber mit der Hilfe kommen natürlich auch einige Pflichten.
 **TOM:** Das ist fair. Wenn Sie sich anmelden, sagen Sie, dass Sie aktiv nach Arbeit suchen werden.
@@ -73,11 +73,11 @@
 **ANNA:** Und hier ist die wichtige Regel. Um Arbeitslosengeld zu beantragen, müssen Sie zuerst als Arbeitssuchender bei der ADEM angemeldet sein.
 **TOM:** Sobald Ihre Akte als Arbeitssuchender eröffnet ist, prüft die ADEM automatisch, ob Sie aufgrund Ihrer Situation einen Anspruch auf Leistungen haben.
 **ANNA:** Die Anmeldung kommt also zuerst... dann folgt die Frage nach der Leistung.
-**TOM:** Und es gibt gute Nachrichten dazu, wie Sie den Antrag stellen. Seit Kurzem ist der Antrag auf Arbeitslosengeld vollständig online.
+**TOM:** Und es gibt gute Nachrichten dazu, wie Sie den Antrag stellen. Wenn Sie die Bedingungen erfüllen, schickt Ihnen die ADEM einen Brief, und Sie vervollständigen Ihren Antrag online, auf MyGuichet.lu.
 **ANNA:** Das bedeutet weniger Papierkram und gesparte Zeit. Sie können mehr davon von zu Hause aus erledigen.
 **TOM:** Schenken wir nun den jüngeren Zuhörern etwas Aufmerksamkeit, denn Luxemburg hat ein besonderes Versprechen für sie.
 **ANNA:** Es heißt die Jugendgarantie. Das Ziel ist, dass jedem jungen Menschen, im Alter von sechzehn bis dreißig Jahren, eine konkrete Lösung angeboten wird, um ins Berufsleben einzutreten.
-**TOM:** Und es gibt einen klaren Zeitrahmen... innerhalb von vier Monaten nach der Anmeldung bei der ADEM.
+**TOM:** Und es gibt einen klaren Zeitrahmen... innerhalb von vier Monaten nach der Anmeldung bei der ADEM. Und in den ersten sechs Monaten treffen Sie Ihren persönlichen Berater jeden Monat.
 **ANNA:** Diese Lösung könnte ein Job sein, aber es könnte auch eine Weiterbildung sein oder ein anderer Schritt, der Sie voranbringt.
 **TOM:** Wenn Sie also jung sind und sich nicht sicher sind, was Sie als Nächstes tun sollen, ist die ADEM ein sehr guter Ausgangspunkt.
 **ANNA:** Die ADEM hat auch eine eigene Unterstützung für Menschen mit einer Behinderung oder mit einer verminderten Arbeitsfähigkeit.
@@ -91,9 +91,9 @@
 **ANNA:** Es gibt auch Unterstützung bei der internationalen Rekrutierung, durch einen Dienst namens Work in Luxembourg.
 **TOM:** Und seit 2026 gibt es sogar eine nationale Website, workinluxembourg.com. Sie hilft Unternehmen hier, Talente zu finden, und hilft Menschen im Ausland, Chancen im Land zu entdecken.
 **ANNA:** Tom, bevor wir zum Schluss kommen, gibt es einen Sicherheitshinweis, den wir wirklich erwähnen sollten.
-**TOM:** Ja, einen wichtigen. Manchmal senden Betrüger gefälschte E-Mails und geben vor, die ADEM zu sein, und sie verlangen Geld für einen Job oder ein Visum.
+**TOM:** Ja, einen wichtigen. Manchmal senden Betrüger gefälschte E-Mails oder erstellen gefälschte Konten in sozialen Netzwerken und geben vor, die ADEM zu sein. Sie verlangen Geld für einen Job oder ein Visum — oder sie bitten Sie, auf einen Link zu klicken und Ihre persönlichen Daten zu bestätigen.
 **ANNA:** Bitte merken Sie sich das ganz klar... die ADEM verlangt niemals, dass Sie für einen Job oder ein Visum bezahlen. Der Dienst ist kostenlos.
-**TOM:** Wenn jemand Sie im Namen der ADEM um eine Zahlung bittet, ist das Betrug. Zahlen Sie nicht und geben Sie Ihre Daten nicht weiter.
+**TOM:** Wenn jemand Sie im Namen der ADEM um eine Zahlung oder persönliche Daten bittet, ist das Betrug. Zahlen Sie nicht, klicken Sie nicht, und prüfen Sie die offiziellen Kanäle der ADEM auf ihrer Website.
 **ANNA:** Noch eine praktische Sache... Sprachen. Um mit der ADEM zu verkehren, sollten Sie mindestens eine der Verwaltungssprachen Luxemburgs sprechen... Luxemburgisch, Französisch oder Deutsch, oder sonst Englisch.
 **TOM:** Und wenn nicht, können Sie jemanden mitbringen, dem Sie vertrauen und der das kann, um Ihnen während Ihrer Termine zu helfen.
 **ANNA:** Fassen wir also alles zusammen. Was sollten sich die Menschen über die ADEM merken?

@@ -39,7 +39,7 @@
 **ANNA:** Vous vous inscrivez sur MyGuichet point lu. C'est la plateforme en ligne sécurisée de l'État, dont nous avons parlé dans un épisode précédent.
 **TOM:** La plateforme vous guide étape par étape. Vous donnez des informations sur votre profil, et sur le type d'emploi que vous recherchez.
 **ANNA:** Vous pouvez aussi téléverser vos documents directement, comme ça tout est au même endroit.
-**TOM:** Et pour vous connecter, vous avez besoin d'un dispositif d'authentification sécurisé, comme un produit LuxTrust.
+**TOM:** Et pour vous connecter, vous avez besoin d'un dispositif d'authentification sécurisé, comme un produit LuxTrust, ou votre carte d'identité électronique luxembourgeoise.
 **ANNA:** C'est le même identifiant sécurisé que vous utilisez pour de nombreux services officiels au Luxembourg.
 **TOM:** Et si quelqu'un préfère rencontrer une personne, en face à face ?
 **ANNA:** Alors il y a la deuxième façon... s'inscrire en personne dans une agence de l'ADEM.
@@ -58,7 +58,7 @@
 **TOM:** Vous pouvez aussi y téléverser votre CV, pour que les employeurs puissent vous trouver.
 **ANNA:** Ensuite, il y a des formations et des mesures pour l'emploi, choisies selon votre profil et vos besoins.
 **TOM:** Et il y a aussi ce qu'on appelle le Club de l'emploi, c'est bien ça ?
-**ANNA:** Oui. Là, vous pouvez utiliser des ordinateurs et recevoir de l'aide pour préparer votre CV. Un soutien pratique et concret.
+**ANNA:** Oui. Là, vous pouvez utiliser des ordinateurs, recevoir de l'aide pour votre CV et votre lettre de motivation, même faire prendre une photo pour votre CV, et participer à des ateliers en groupe. Un soutien pratique et concret.
 **TOM:** Donc l'inscription n'est pas qu'une formalité. Elle donne accès à une aide réelle et concrète.
 **ANNA:** Exactement. Mais bien sûr, avec l'aide viennent aussi quelques responsabilités.
 **TOM:** C'est normal. Quand vous vous inscrivez, vous dites que vous allez chercher activement du travail.
@@ -73,11 +73,11 @@
 **ANNA:** Et voici la règle importante. Pour demander l'indemnité de chômage, vous devez d'abord être inscrit comme demandeur d'emploi auprès de l'ADEM.
 **TOM:** Une fois votre dossier de demandeur d'emploi ouvert, l'ADEM vérifie automatiquement si vous pouvez avoir droit à des indemnités, selon votre situation.
 **ANNA:** Donc l'inscription vient en premier... ensuite vient la question de l'indemnité.
-**TOM:** Et il y a une bonne nouvelle sur la façon de faire la demande. Récemment, la demande d'indemnité de chômage est devenue entièrement en ligne.
+**TOM:** Et il y a une bonne nouvelle sur la façon de faire la demande. Si vous remplissez les conditions, l'ADEM vous envoie un courrier, et vous complétez votre demande en ligne, sur MyGuichet.lu.
 **ANNA:** Cela veut dire moins de paperasse, et du temps gagné. Vous pouvez en faire une plus grande partie depuis chez vous.
 **TOM:** Tournons-nous maintenant vers nos auditeurs plus jeunes, parce que le Luxembourg a une promesse spéciale pour eux.
 **ANNA:** Cela s'appelle la Garantie Jeunesse. L'objectif, c'est que chaque jeune, âgé de seize à trente ans, se voie proposer une solution concrète pour entrer dans la vie active.
-**TOM:** Et il y a un délai clair... dans les quatre mois suivant l'inscription à l'ADEM.
+**TOM:** Et il y a un délai clair... dans les quatre mois suivant l'inscription à l'ADEM. Et pendant les six premiers mois, vous rencontrez votre conseiller personnel tous les mois.
 **ANNA:** Cette solution peut être un emploi, mais cela peut aussi être une formation, ou une autre étape qui vous fait avancer.
 **TOM:** Donc si vous êtes jeune et que vous ne savez pas trop quoi faire ensuite, l'ADEM est un très bon point de départ.
 **ANNA:** L'ADEM propose aussi un accompagnement dédié aux personnes en situation de handicap, ou avec une capacité de travail réduite.
@@ -91,9 +91,9 @@
 **ANNA:** Il y a aussi un soutien pour le recrutement international, à travers un service appelé Work in Luxembourg.
 **TOM:** Et depuis 2026, il y a même un site national, workinluxembourg.com. Il aide les entreprises d'ici à trouver des talents, et aide les personnes à l'étranger à découvrir des opportunités dans le pays.
 **ANNA:** Tom, avant de terminer, il y a un point de sécurité que nous devrions vraiment mentionner.
-**TOM:** Oui, un point important. Parfois, des escrocs envoient de faux courriels en se faisant passer pour l'ADEM, et ils demandent de l'argent pour un emploi ou un visa.
+**TOM:** Oui, un point important. Parfois, des escrocs envoient de faux courriels ou créent de faux comptes sur les réseaux sociaux en se faisant passer pour l'ADEM. Ils demandent de l'argent pour un emploi ou un visa — ou ils vous demandent de cliquer sur un lien et de confirmer vos données personnelles.
 **ANNA:** Retenez bien ceci... l'ADEM ne vous demande jamais de payer pour un emploi ou un visa. Le service est gratuit.
-**TOM:** Si quelqu'un vous demande un paiement au nom de l'ADEM, c'est une arnaque. Ne payez pas, et ne communiquez pas vos données.
+**TOM:** Si quelqu'un vous demande un paiement ou des données personnelles au nom de l'ADEM, c'est une arnaque. Ne payez pas, ne cliquez pas, et vérifiez les canaux officiels de l'ADEM sur son site.
 **ANNA:** Encore une chose pratique... les langues. Pour traiter avec l'ADEM, vous devriez parler au moins une des langues administratives du Luxembourg... le luxembourgeois, le français, ou l'allemand, ou alors l'anglais.
 **TOM:** Et si ce n'est pas le cas, vous pouvez amener une personne de confiance qui les parle, pour vous aider pendant vos rendez-vous.
 **ANNA:** Alors, rassemblons tout cela. Qu'est-ce que les gens devraient retenir sur l'ADEM ?
