@@ -59,6 +59,26 @@ q('maison_orientation', 'questions', 1, 'explanation', 'Monday to Friday, 8:00�
 q('maison_orientation', 'questions_fr', 1, 'explanation', 'du lundi au vendredi, de 8h00 à 17h00', 'du lundi au vendredi, de 10h00 à 17h00');
 q('maison_orientation', 'questions_de', 1, 'explanation', 'Montag bis Freitag, 8:00–17:00 Uhr', 'Montag bis Freitag, 10:00–17:00 Uhr');
 
+// Zukunftskeess (9 Nov 2026): law 8746 in force 1 Jan 2027 – durable amounts, no cents
+q('zukunftskeess', 'questions', 1, 'text', '(about €1,740)', '(more than €1,700)');
+q('zukunftskeess', 'questions_fr', 1, 'text', '(environ 1 740 €)', '(plus de 1 700 €)');
+q('zukunftskeess', 'questions_de', 1, 'text', '(etwa 1.740 €)', '(mehr als 1.700 €)');
+q('zukunftskeess', 'questions', 1, 0, 'of about €580', 'of nearly €600');
+q('zukunftskeess', 'questions_fr', 1, 0, "d'environ 580 €", 'de près de 600 €');
+q('zukunftskeess', 'questions_de', 1, 0, 'von etwa 580 €', 'von fast 600 €');
+q('zukunftskeess', 'questions', 1, 'explanation', null, 'The birth allowance totals more than €1,700, paid in three independent instalments of nearly €600 – prenatal, birth and postnatal – each tied to completing the medical examinations for mother and baby. From January 2027 it rises with the cost of living.');
+q('zukunftskeess', 'questions_fr', 1, 'explanation', null, "L'allocation de naissance s'élève au total à plus de 1 700 €, payée en trois tranches indépendantes de près de 600 € – prénatale, de naissance et postnatale – chacune liée à la réalisation des examens médicaux pour la mère et le bébé. À partir de janvier 2027, elle suit le coût de la vie.");
+q('zukunftskeess', 'questions_de', 1, 'explanation', null, 'Die Geburtszulage beträgt insgesamt mehr als 1.700 €, gezahlt in drei unabhängigen Raten von fast 600 € – vorgeburtlich, Geburt und nachgeburtlich – jede gebunden an die ärztlichen Untersuchungen für Mutter und Baby. Ab Januar 2027 steigt sie mit den Lebenshaltungskosten.');
+q('zukunftskeess', 'questions', 3, 'explanation', '(around €115 for ages 6–11 and €235 for 12 and over)', '(from 2027: more than €175 for ages 6–11 and more than €325 for 12 and over)');
+q('zukunftskeess', 'questions_fr', 3, 'explanation', '(environ 115 € pour les 6-11 ans et 235 € pour les 12 ans et plus)', '(à partir de 2027 : plus de 175 € pour les 6-11 ans et plus de 325 € pour les 12 ans et plus)');
+q('zukunftskeess', 'questions_de', 3, 'explanation', '(etwa 115 € für 6- bis 11-Jährige und 235 € für 12 Jahre und älter)', '(ab 2027: mehr als 175 € für 6- bis 11-Jährige und mehr als 325 € für 12 Jahre und älter)');
+
+// Episode descriptions: [key, field, old, new]
+const D = [];
+D.push(['zukunftskeess', 'description', 'can last to 25 for students', 'can last to 25 for pupils still in secondary school']);
+D.push(['zukunftskeess', 'description_fr', "peut durer jusqu'à 25 ans pour les étudiants", "peut durer jusqu'à 25 ans pour les élèves du secondaire"]);
+D.push(['zukunftskeess', 'description_de', 'für Studierende bis 25 dauern kann', 'für Schülerinnen und Schüler der Sekundarstufe bis 25 dauern kann']);
+
 const src = fs.readFileSync(FILE, 'utf8');
 const i = src.indexOf('const EPISODES');
 const banner = src.slice(0, i);
@@ -79,6 +99,14 @@ for (const [key, field, qi, part, oldS, newS] of Q) {
   if (n === 0 && cur.includes(newS)) { skipped++; continue; }
   if (n !== 1) { problems.push(`${key} ${field} Q${qi + 1} ${part}: found ${n}x "${oldS}"`); continue; }
   set(cur.replace(oldS, newS)); applied++;
+}
+
+for (const [key, field, oldS, newS] of D) {
+  const ep = E.find(e => e.key === key); const cur = ep && ep[field];
+  if (!cur) { problems.push(`${key} ${field}: not found`); continue; }
+  if (cur.includes(newS)) { skipped++; continue; }
+  if (cur.split(oldS).length - 1 !== 1) { problems.push(`${key} ${field}: "${oldS}" not found once`); continue; }
+  ep[field] = cur.replace(oldS, newS); applied++;
 }
 problems.forEach(p => console.log('PROBLEM', p));
 console.log(`quiz edits: ${applied} applied, ${skipped} already done, ${problems.length} problems`);

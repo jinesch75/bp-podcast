@@ -11,7 +11,7 @@ makes restarts free. Prints DONE ALL when every pair is assembled.
 """
 import json, os, subprocess, sys, time
 ROOT = os.getcwd()
-STATE = "/tmp/el_batch_state.json"
+STATE = os.environ.get("EL_STATE", "/tmp/el_batch_state.json")
 t0 = time.time()
 keys, langs = sys.argv[1].split(","), sys.argv[2].split(",")
 budget = float(sys.argv[sys.argv.index("--budget") + 1]) if "--budget" in sys.argv else 160.0

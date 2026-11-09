@@ -30,11 +30,11 @@
 
 **TOM:** Geboort, all Mount, an Schoulufank. Loosse mer se eent no deem aneren huelen. Fänk mat der Geboort un.
 
-**ANNA:** Also, d'Geboortsprime — op Franséisch d'prime de naissance. Et ass e fixe Betrag, deen ronderëm d'Geboort vun engem Kand bezuelt gëtt. Den Total ass ongeféier dausendsiwenhonnertvéierzeg Euro.
+**ANNA:** Also, d'Geboortsprime — op Franséisch d'prime de naissance. Et ass e fixe Betrag, deen ronderëm d'Geboort vun engem Kand bezuelt gëtt. Den Total ass méi wéi dausendsiwenhonnert Euro — an ab 2027 geet en mat de Liewenskäschten erop.
 
 **TOM:** Dat ass eng richteg Hëllef, genee dann, wann eng Famill se brauch. A gëtt et alles op eemol bezuelt?
 
-**ANNA:** Nee — an dat ass de clevere Punkt. Et kënnt an dräi gläiche Stécker, vu ronderëm fënnefhonnertachtzeg Euro pro Stéck. An all Stéck ass mam Këmmere ëm Mamm a Boby verbonnen.
+**ANNA:** Nee — an dat ass de clevere Punkt. Et kënnt an dräi gläiche Stécker, vu bal sechshonnert Euro pro Stéck. An all Stéck ass mam Këmmere ëm Mamm a Boby verbonnen.
 
 **TOM:** Erziel mer iwwer déi dräi Stécker.
 
@@ -62,7 +62,7 @@
 
 **TOM:** Also souwäit d'Kand nach an der Schoul ass, geet d'Ënnerstëtzung weider. A wéi vill ass et?
 
-**ANNA:** Et ass pro Kand, pro Mount festgeluecht. Am Moment ass et e bësse méi wéi dräihonnert Euro pro Kand all Mount. An hei e Schlësselpunkt — et wiisst, wéi d'Kand méi al gëtt.
+**ANNA:** Et ass pro Kand, pro Mount festgeluecht. An et gëtt eng gutt Noriicht: En neit Gesetz hieft et ab Januar 2027 un. Vun do un ass et méi wéi dräihonnertfofzeg Euro pro Kand all Mount. An hei e Schlësselpunkt — et wiisst, wéi d'Kand méi al gëtt.
 
 **TOM:** Et wiisst? Wéi funktionéiert dat?
 
@@ -70,11 +70,11 @@
 
 **TOM:** Dat mécht Sënn — Teenager sinn deier! Also kritt e jonkt Kand de Basisbetrag, e Kand iwwer sechs e bësse méi, an e Kand iwwer zwielef erëm méi.
 
-**ANNA:** Genau. Elo — eng Saach, déi ech éierlech soe muss. Dës Betrag sinn un d'Liewenskäschte gebonnen. Si ginn iwwer d'Zäit erop, mat deem, wat een den Index nennt. Also fir déi genee Zuel vun haut, kuckste op déi offiziell Säit — et ass d'Säit "Sozialparameter" op guichet Punkt l-u.
+**ANNA:** Genau. Elo — eng Saach, déi ech éierlech soe muss. Dës Betrag sinn un d'Liewenskäschte gebonnen. Si ginn iwwer d'Zäit erop, mat deem, wat een den Index nennt. An ab 2027 gëllt dat och fir d'Geboortsprime, d'Schoulufanksallocatioun an d'Spezialallocatioun fir Kanner mat enger Behënnerung. Also fir déi genee Zuel vun haut, kuckste op déi offiziell Säit — et ass d'Säit "Sozialparameter" op guichet Punkt l-u.
 
 **TOM:** Gutt. Mir ginn d'Iddi, mä déi genee Zuel — kuck ëmmer déi offiziell Quell no. Wéini ginn d'Suen tatsächlech all Mount bezuelt?
 
-**ANNA:** All Mount, an spéitstens bis de fënnefanzwanzegste vum Mount. Si landen op dengem Bankkont deen Dag oder deen drop. Also ass et regelméisseg, zouverlässeg Suen, op déi s du dech verloosse kanns.
+**ANNA:** All Mount, an spéitstens bis de fënnefanzwanzegste vum Mount. Si landen op dengem Bankkont deen Dag oder deen drop — oder een, zwee Deeg méi spéit bei enger Bank am Ausland. Also ass et regelméisseg, zouverlässeg Suen, op déi s du dech verloosse kanns.
 
 **TOM:** A muss ech all Mount nach eng Kéier dofir froen?
 
@@ -90,7 +90,7 @@
 
 **TOM:** Automatesch. Dat hunn ech gär. A wéini kënnt se un?
 
-**ANNA:** Am August, just virum Schouljoer. An de Betrag hänkt vum Alter vum Kand of. Fir Kanner vu sechs bis eelef ass et ronderëm honnertfofzéng Euro. Fir Kanner zwielef an eeler ass et ronderëm zweehonnertfënnefandrësseg Euro.
+**ANNA:** Am August, just virum Schouljoer. An de Betrag hänkt vum Alter vum Kand of. Mam neie Gesetz ass et ab 2027 méi wéi honnertfënnefasiwwenzeg Euro fir Kanner vu sechs bis eelef. A méi wéi dräihonnertfënnefanzwanzeg Euro fir Kanner zwielef an eeler.
 
 **TOM:** Also erëm — eelert Kand, méi grousse Betrag. Déi selwecht Logik.
 
@@ -106,7 +106,7 @@
 
 **TOM:** Also bass du net méi schlecht drun. Du gëss bis op dat lëtzebuergescht Niveau opgestockt.
 
-**ANNA:** Dat ass d'Iddi. An et funktionéiert och fir Pensionéierter — e pensionéierte Grenzgänger mat enger lëtzebuergescher Pensioun behält d'Recht op d'Kannergeld.
+**ANNA:** Dat ass d'Iddi. An et funktionéiert och fir Pensionéierter — e pensionéierte Grenzgänger mat enger lëtzebuergescher Pensioun behält d'Recht op d'Kannergeld. An ab 2027 mécht en neit Gesetz nach eng Saach kloer: D'Kanner vun dengem Mann, denger Fra oder dengem Partner kënnen och zielen — wa si haaptsächlech bei dir wunnen, oder wann s du weise kanns, datt s du wierklech fir si suergs.
 
 **TOM:** Dat ass berouegend fir vill Familljen. Elo — loosse mer driwwer schwätzen, wéi s du tatsächlech mat der Zukunftskeess ëmgees. Ass dat vill Pabeierkrom?
 
@@ -114,7 +114,7 @@
 
 **TOM:** Ah, MyGuichet.lu — doriwwer hu mer an enger anerer Episod geschwat.
 
-**ANNA:** Genau — et ass d'Online-Dier zur Verwaltung. An doriwwer kanns du och Dokumenter un d'Zukunftskeess schécken, deng Bankdaten änneren, oder e Bezuelungszertifikat kréien. Et gëtt esouguer en Online-Assistent, deen dech Schrëtt fir Schrëtt duerch d'Kannergeld-Demande féiert.
+**ANNA:** Genau — et ass d'Online-Dier zur Verwaltung. An doriwwer kanns du och Dokumenter un d'Zukunftskeess schécken, oder deng Bankdaten änneren. Et gëtt esouguer en Online-Assistent, deen dech Schrëtt fir Schrëtt duerch d'Kannergeld-Demande féiert. A wann s du e Bezuelungszertifikat brauchs, gëtt et en einfache Online-Formulaire op der Websäit vun der Zukunftskeess.
 
 **TOM:** A wann sech ee mam Online net wuel fillt?
 
@@ -142,7 +142,7 @@
 
 **TOM:** Spannend! Also wou kënnt d'Zukunftskeess ran, vun Ufank un?
 
-**ANNA:** Souguer virun der Geboort. Während der Schwangerschaft geet d'Mamm op hir Kontrollen, an d'Zännvisitt — an dat mécht dat éischt Stéck vun der Geboortsprime op, de pränatalen Deel. Ongeféier fënnefhonnertachtzeg Euro.
+**ANNA:** Souguer virun der Geboort. Während der Schwangerschaft geet d'Mamm op hir Kontrollen, an d'Zännvisitt — an dat mécht dat éischt Stéck vun der Geboortsprime op, de pränatalen Deel. Bal sechshonnert Euro.
 
 **TOM:** Dann kënnt d'Boby.
 
@@ -150,7 +150,7 @@
 
 **TOM:** A vun do un fänkt d'monatlecht Suen un.
 
-**ANNA:** All Mount, bis de fënnefanzwanzegsten — e bësse méi wéi dräihonnert Euro, automatesch. Dann, iwwer déi éischt zwee Joren, bréngen si d'Boby op seng medezinesch Kontrollen, an dat schalt dat drëtt Stéck vun der Geboortsprime fräi.
+**ANNA:** All Mount, bis de fënnefanzwanzegsten — méi wéi dräihonnertfofzeg Euro, automatesch. Dann, iwwer déi éischt zwee Joren, bréngen si d'Boby op seng medezinesch Kontrollen, an dat schalt dat drëtt Stéck vun der Geboortsprime fräi.
 
 **TOM:** Also an den éischten zwee Joren hu se all dräi Stécker vun der Geboortsprime kritt, plus d'monatlecht Kannergeld.
 
@@ -170,7 +170,7 @@
 
 **TOM:** An drëttens?
 
-**ANNA:** Drëttens — hal deng Daten aktuell, virun allem däi Bankkont an deng Situatioun. A wann däi Kand uechtzéng gëtt, mä an der Schoul bleift, schéck de Formulaire zréck, fir d'Allocatioun bis op fënnefanzwanzeg weidergoen ze loossen.
+**ANNA:** Drëttens — hal deng Daten aktuell, virun allem däi Bankkont an deng Situatioun. A wann däi Kand uechtzéng gëtt, mä an der Schoul bleift, schéck de Formulaire zréck, fir d'Allocatioun bis op fënnefanzwanzeg weidergoen ze loossen — dat geet elo och online, op MyGuichet.lu.
 
 **TOM:** A fir d'Grenzgänger?
 
@@ -178,7 +178,7 @@
 
 **TOM:** E kuerze Resumé fir ofzeschléissen?
 
-**ANNA:** Gär. D'Zukunftskeess — den Zukunftsfong fir d'Kanner, cae.lu — ass de Staatsbüro fir d'Familljeleeschtungen zu Lëtzebuerg. Dräi Haaptleeschtungen. Eng Geboortsprime vun ongeféier dausendsiwenhonnert Euro, an dräi Stécker, un d'Gesondheetskontrolle gebonnen. E monatlecht Kannergeld fir all Kand — e bësse méi wéi dräihonnert Euro — dat mat sechs Joer a mat zwielef Joer wiisst, a bis op fënnefanzwanzeg daueren kann, wann d'Kand an der Schoul bleift. An eng Schoulufanksallocatioun all August, automatesch. Plus en Elterencongé-Akommes, Betreiungs-Chèquen, an extra Hëllef fir Kanner mat besonnesche Besoinen.
+**ANNA:** Gär. D'Zukunftskeess — den Zukunftsfong fir d'Kanner, cae.lu — ass de Staatsbüro fir d'Familljeleeschtungen zu Lëtzebuerg. Dräi Haaptleeschtungen. Eng Geboortsprime vu méi wéi dausendsiwenhonnert Euro, an dräi Stécker, un d'Gesondheetskontrolle gebonnen. E monatlecht Kannergeld fir all Kand — méi wéi dräihonnertfofzeg Euro ab 2027 — dat mat sechs Joer a mat zwielef Joer wiisst, a bis op fënnefanzwanzeg daueren kann, wann d'Kand an der Schoul bleift. An eng Schoulufanksallocatioun all August, automatesch. Plus en Elterencongé-Akommes, Betreiungs-Chèquen, an extra Hëllef fir Kanner mat besonnesche Besoinen.
 
 **TOM:** An d'Message fir haut?
 
@@ -194,4 +194,4 @@
 
 ---
 
-*Quellen: cae.public.lu (Caisse pour l'avenir des enfants / Zukunftskeess — den Zukunftsfong fir d'Kanner) an d'offiziell Säite vu guichet.public.lu "Kannergeld", "Geboortsprime" an "Sozialparameter" (Wäerter vum 1. Januar 2026; Kannergeld neit System €307,35 pro Kand/Mount, +€23,23 vu sechs Joer un an +€57,99 vun zwielef Joer un; Schoulufanksallocatioun €115 fir d'Alter 6–11 an €235 fir 12+; Geboortsprime €1.740,09 an dräi Tranchë vu €580,03; speziell Zousazallocatioun fir Kanner mat enger Behënnerung €200). D'Betrag sinn indexéiert an änneren sech mat der Zäit — kuck déi offiziell Säit "Sozialparameter" op guichet.lu fir déi aktuell Zuelen. Nëmmen allgemeng Informatioun.*
+*Quellen: cae.public.lu (Caisse pour l'avenir des enfants / Zukunftskeess), offiziell Säite vu guichet.public.lu (Kannergeld, Geboortsprime, Sozialparameter vum 1. Juni 2026, Index 992,24: 315,04 € pro Kand/Mount, +23,81 € ab 6 Joer, +59,44 € ab 12 Joer; Schoulufanksallocatioun 115 € / 235 €; Geboortsprime 1.740,09 € an dräi Tranchë vu 580,03 €; Spezialallocatioun 200 €) an d'Gesetz Nr. 8746 (gestëmmt den 15. Oktober 2026, a Kraaft den 1. Januar 2027): +45 € pro Kand/Mount an +15 € méi ab 12 Joer; Schoulufanksallocatioun 175 € (6–11) an 325 € (ab 12); Indexéierung och fir Geboortsprime, Schoulufanksallocatioun a Spezialallocatioun; Kanner vum Partner vun engem Grenzgänger (chd.lu, Dossier 8746). D'Beträg sinn indexéiert — kuckt d'Säit „Sozialparameter" op guichet.lu. Allgemeng Informatioun. Iwwerpréift den 9. November 2026.*

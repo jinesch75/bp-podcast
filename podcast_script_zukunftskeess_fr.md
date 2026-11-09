@@ -30,11 +30,11 @@
 
 **TOM :** Naissance, mensuelle et rentrée scolaire. Prenons-les une par une. Commençons par la naissance.
 
-**ANNA :** Alors, l'allocation de naissance — c'est un montant fixe payé autour de la naissance d'un enfant. Le total est d'environ mille sept cent quarante euros.
+**ANNA :** Alors, l'allocation de naissance — c'est un montant fixe payé autour de la naissance d'un enfant. Le total est de plus de mille sept cents euros — et à partir de 2027, il suit le coût de la vie.
 
 **TOM :** C'est une vraie aide, juste au moment où une famille en a besoin. Et est-ce qu'elle est payée en une seule fois ?
 
-**ANNA :** Non — et c'est là que c'est astucieux. Elle arrive en trois parts égales, d'environ cinq cent quatre-vingts euros chacune. Et chaque part est liée au fait de prendre soin de la maman et du bébé.
+**ANNA :** Non — et c'est là que c'est astucieux. Elle arrive en trois parts égales, de près de six cents euros chacune. Et chaque part est liée au fait de prendre soin de la maman et du bébé.
 
 **TOM :** Parle-moi des trois parts.
 
@@ -62,7 +62,7 @@
 
 **TOM :** Donc tant que l'enfant est encore à l'école, le soutien continue. Et de combien s'agit-il ?
 
-**ANNA :** Elle est fixée par enfant, par mois. En ce moment, c'est un peu plus de trois cents euros par enfant chaque mois. Et voici un point clé — elle augmente à mesure que l'enfant grandit.
+**ANNA :** Elle est fixée par enfant, par mois. Et il y a une bonne nouvelle : une nouvelle loi l'augmente à partir de janvier 2027. Dès lors, c'est plus de trois cent cinquante euros par enfant chaque mois. Et voici un point clé — elle augmente encore à mesure que l'enfant grandit.
 
 **TOM :** Elle augmente ? Comment ça marche ?
 
@@ -70,11 +70,11 @@
 
 **TOM :** C'est logique — les adolescents coûtent cher ! Donc un jeune enfant reçoit le montant de base, un enfant de plus de six ans reçoit un peu plus, et un enfant de plus de douze ans reçoit encore plus.
 
-**ANNA :** Exactement. Maintenant — une chose sur laquelle je dois être honnête. Ces montants sont liés au coût de la vie. Ils augmentent avec le temps, avec ce qu'on appelle l'index. Donc pour le chiffre exact d'aujourd'hui, tu consultes la page officielle — c'est la page « paramètres sociaux » sur guichet point l-u.
+**ANNA :** Exactement. Maintenant — une chose sur laquelle je dois être honnête. Ces montants sont liés au coût de la vie. Ils augmentent avec le temps, avec ce qu'on appelle l'index. Et à partir de 2027, c'est aussi le cas pour l'allocation de naissance, l'allocation de rentrée scolaire, et l'allocation spéciale pour les enfants en situation de handicap. Donc pour le chiffre exact d'aujourd'hui, tu consultes la page officielle — c'est la page « paramètres sociaux » sur guichet point l-u.
 
 **TOM :** Bien. On donne l'idée, mais le chiffre précis — toujours vérifier la source officielle. Quand l'argent est-il vraiment payé chaque mois ?
 
-**ANNA :** Chaque mois, et au plus tard le vingt-cinq du mois. Il arrive sur ton compte bancaire ce jour-là ou le lendemain. Donc c'est un argent régulier et fiable, sur lequel tu peux compter.
+**ANNA :** Chaque mois, et au plus tard le vingt-cinq du mois. Il arrive sur ton compte bancaire ce jour-là ou le lendemain — ou un ou deux jours plus tard avec une banque à l'étranger. Donc c'est un argent régulier et fiable, sur lequel tu peux compter.
 
 **TOM :** Et dois-je le redemander chaque mois ?
 
@@ -90,7 +90,7 @@
 
 **TOM :** Automatiquement. J'adore ça. Et quand arrive-t-elle ?
 
-**ANNA :** En août, juste avant l'année scolaire. Et le montant dépend de l'âge de l'enfant. Pour les enfants de six à onze ans, c'est environ cent quinze euros. Pour les enfants de douze ans et plus, c'est environ deux cent trente-cinq euros.
+**ANNA :** En août, juste avant l'année scolaire. Et le montant dépend de l'âge de l'enfant. Avec la nouvelle loi, à partir de 2027, c'est plus de cent soixante-quinze euros pour les enfants de six à onze ans. Et plus de trois cent vingt-cinq euros pour les enfants de douze ans et plus.
 
 **TOM :** Donc là encore — enfant plus âgé, montant plus élevé. La même logique.
 
@@ -106,7 +106,7 @@
 
 **TOM :** Donc tu n'es pas perdant. Tu es complété jusqu'au niveau luxembourgeois.
 
-**ANNA :** C'est l'idée. Et ça marche aussi pour les pensionnés — un frontalier retraité avec une pension luxembourgeoise garde le droit à l'allocation familiale.
+**ANNA :** C'est l'idée. Et ça marche aussi pour les pensionnés — un frontalier retraité avec une pension luxembourgeoise garde le droit à l'allocation familiale. Et à partir de 2027, une nouvelle loi précise encore une chose : les enfants de ton mari, de ta femme ou de ton partenaire peuvent aussi compter — s'ils vivent principalement avec toi, ou si tu peux montrer que tu subviens vraiment à leurs besoins.
 
 **TOM :** C'est rassurant pour beaucoup de familles. Maintenant — parlons de la manière dont on traite concrètement avec la Zukunftskeess. Est-ce beaucoup de paperasse ?
 
@@ -114,7 +114,7 @@
 
 **TOM :** Ah, MyGuichet.lu — on en a parlé dans un autre épisode.
 
-**ANNA :** Exactement — c'est la porte en ligne vers l'administration. Et par ce biais, tu peux aussi envoyer des documents à la Zukunftskeess, changer tes coordonnées bancaires, ou obtenir un certificat de paiement. Il y a même un assistant en ligne qui te guide pas à pas dans la demande d'allocation familiale.
+**ANNA :** Exactement — c'est la porte en ligne vers l'administration. Et par ce biais, tu peux aussi envoyer des documents à la Zukunftskeess, ou changer tes coordonnées bancaires. Il y a même un assistant en ligne qui te guide pas à pas dans la demande d'allocation familiale. Et si tu as besoin d'un certificat de paiement, il y a un simple formulaire en ligne sur le site de la Zukunftskeess.
 
 **TOM :** Et si quelqu'un n'est pas à l'aise en ligne ?
 
@@ -142,7 +142,7 @@
 
 **TOM :** Passionnant ! Alors où intervient la Zukunftskeess, dès le tout début ?
 
-**ANNA :** Même avant la naissance. Pendant la grossesse, la maman va à ses examens, et à la visite dentaire — et cela ouvre la première part de l'allocation de naissance, la part prénatale. Environ cinq cent quatre-vingts euros.
+**ANNA :** Même avant la naissance. Pendant la grossesse, la maman va à ses examens, et à la visite dentaire — et cela ouvre la première part de l'allocation de naissance, la part prénatale. Près de six cents euros.
 
 **TOM :** Puis le bébé arrive.
 
@@ -150,7 +150,7 @@
 
 **TOM :** Et à partir de là, l'argent mensuel commence.
 
-**ANNA :** Chaque mois, pour le vingt-cinq — un peu plus de trois cents euros, automatiquement. Ensuite, au cours des deux premières années, ils emmènent le bébé à ses examens médicaux, et cela débloque la troisième part de l'allocation de naissance.
+**ANNA :** Chaque mois, pour le vingt-cinq — plus de trois cent cinquante euros, automatiquement. Ensuite, au cours des deux premières années, ils emmènent le bébé à ses examens médicaux, et cela débloque la troisième part de l'allocation de naissance.
 
 **TOM :** Donc en deux ans, ils ont reçu les trois parts de l'allocation de naissance, plus l'allocation mensuelle.
 
@@ -170,7 +170,7 @@
 
 **TOM :** Et troisièmement ?
 
-**ANNA :** Troisièmement — garde tes informations à jour, surtout ton compte bancaire et ta situation. Et si ton enfant a dix-huit ans mais reste à l'école, renvoie le formulaire pour que l'allocation continue jusqu'à vingt-cinq ans.
+**ANNA :** Troisièmement — garde tes informations à jour, surtout ton compte bancaire et ta situation. Et si ton enfant a dix-huit ans mais reste à l'école, renvoie le formulaire pour que l'allocation continue jusqu'à vingt-cinq ans — tu peux maintenant le faire en ligne aussi, sur MyGuichet.lu.
 
 **TOM :** Et pour les frontaliers ?
 
@@ -178,7 +178,7 @@
 
 **TOM :** Un petit résumé pour finir ?
 
-**ANNA :** Bien sûr. La Zukunftskeess — la Caisse pour l'avenir des enfants, cae.lu — est l'organisme de l'État pour les prestations familiales au Luxembourg. Trois principales. Une allocation de naissance d'environ mille sept cents euros, en trois parts, liée aux contrôles de santé. Une allocation familiale mensuelle pour chaque enfant — un peu plus de trois cents euros — qui augmente à six ans et à douze ans, et qui peut durer jusqu'à vingt-cinq ans si l'enfant reste à l'école. Et une allocation de rentrée scolaire chaque août, automatiquement. Plus le revenu du congé parental, le chèque-service accueil, et une aide supplémentaire pour les enfants ayant des besoins particuliers.
+**ANNA :** Bien sûr. La Zukunftskeess — la Caisse pour l'avenir des enfants, cae.lu — est l'organisme de l'État pour les prestations familiales au Luxembourg. Trois principales. Une allocation de naissance de plus de mille sept cents euros, en trois parts, liée aux contrôles de santé. Une allocation familiale mensuelle pour chaque enfant — plus de trois cent cinquante euros à partir de 2027 — qui augmente à six ans et à douze ans, et qui peut durer jusqu'à vingt-cinq ans si l'enfant reste à l'école. Et une allocation de rentrée scolaire chaque août, automatiquement. Plus le revenu du congé parental, le chèque-service accueil, et une aide supplémentaire pour les enfants ayant des besoins particuliers.
 
 **TOM :** Et le message d'aujourd'hui ?
 
@@ -194,4 +194,4 @@
 
 ---
 
-*Sources : cae.public.lu (Caisse pour l'avenir des enfants / Zukunftskeess) et les pages officielles de guichet.public.lu « Allocation familiale », « Allocation de naissance » et « Paramètres sociaux » (valeurs au 1er janvier 2026 ; allocation familiale nouveau système 307,35 € par enfant/mois, +23,23 € à partir de 6 ans et +57,99 € à partir de 12 ans ; allocation de rentrée scolaire 115 € pour les 6-11 ans et 235 € pour les 12 ans et plus ; allocation de naissance 1 740,09 € en trois tranches de 580,03 € ; allocation spéciale supplémentaire pour les enfants en situation de handicap 200 €). Les montants sont indexés et changent au fil du temps — consultez la page officielle « paramètres sociaux » sur guichet.lu pour les chiffres actuels. Information générale uniquement.*
+*Sources : cae.public.lu (Caisse pour l'avenir des enfants / Zukunftskeess), pages officielles de guichet.public.lu « Allocation familiale », « Allocation de naissance » et « Paramètres sociaux » (paramètres sociaux IGSS au 1er juin 2026, indice 992,24 : allocation familiale 315,04 € par enfant/mois, +23,81 € dès 6 ans, +59,44 € dès 12 ans ; allocation de rentrée scolaire 115 € / 235 € ; allocation de naissance 1 740,09 € en trois tranches de 580,03 € ; allocation spéciale supplémentaire 200 €), et loi n° 8746 (votée le 15 octobre 2026, en vigueur le 1er janvier 2027) : allocation familiale +45 € par enfant/mois et +15 € de plus dès 12 ans ; allocation de rentrée scolaire 175 € (6-11 ans) et 325 € (12 ans et plus) ; indexation étendue aux allocations de naissance, de rentrée scolaire et spéciale supplémentaire ; enfants du conjoint ou partenaire d'un frontalier (dossier chd.lu 8746). Les montants sont indexés — consultez la page « Paramètres sociaux » sur guichet.lu pour les chiffres actuels. Information générale. Vérifié le 9 novembre 2026.*

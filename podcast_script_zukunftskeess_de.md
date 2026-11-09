@@ -30,11 +30,11 @@
 
 **TOM:** Geburt, monatlich und Schulanfang. Nehmen wir sie einzeln durch. Fangen wir mit der Geburt an.
 
-**ANNA:** Also, die Geburtszulage — das ist ein fester Betrag, der rund um die Geburt eines Kindes gezahlt wird. Insgesamt sind das etwa eintausendsiebenhundertvierzig Euro.
+**ANNA:** Also, die Geburtszulage — das ist ein fester Betrag, der rund um die Geburt eines Kindes gezahlt wird. Insgesamt sind das mehr als eintausendsiebenhundert Euro — und ab 2027 steigt sie mit den Lebenshaltungskosten.
 
 **TOM:** Das ist eine echte Hilfe, genau dann, wenn eine Familie sie braucht. Und wird sie auf einmal gezahlt?
 
-**ANNA:** Nein — und das ist das Clevere daran. Sie kommt in drei gleichen Teilen, von je etwa fünfhundertachtzig Euro. Und jeder Teil ist daran gebunden, sich um Mutter und Baby zu kümmern.
+**ANNA:** Nein — und das ist das Clevere daran. Sie kommt in drei gleichen Teilen, von je fast sechshundert Euro. Und jeder Teil ist daran gebunden, sich um Mutter und Baby zu kümmern.
 
 **TOM:** Erzähl mir von den drei Teilen.
 
@@ -62,7 +62,7 @@
 
 **TOM:** Solange das Kind also noch zur Schule geht, läuft die Unterstützung weiter. Und wie viel ist es?
 
-**ANNA:** Es wird pro Kind, pro Monat festgelegt. Im Moment sind es etwas mehr als dreihundert Euro pro Kind jeden Monat. Und hier ein wichtiger Punkt — es steigt, während das Kind älter wird.
+**ANNA:** Es wird pro Kind, pro Monat festgelegt. Und es gibt gute Nachrichten: Ein neues Gesetz erhöht es ab Januar 2027. Ab dann sind es mehr als dreihundertfünfzig Euro pro Kind jeden Monat. Und hier ein wichtiger Punkt — es steigt, während das Kind älter wird.
 
 **TOM:** Es steigt? Wie funktioniert das?
 
@@ -70,11 +70,11 @@
 
 **TOM:** Das ergibt Sinn — Teenager sind teuer! Ein kleines Kind bekommt also den Grundbetrag, ein Kind über sechs bekommt etwas mehr, und ein Kind über zwölf bekommt noch mehr.
 
-**ANNA:** Genau. Jetzt — eine Sache, bei der ich ehrlich sein muss. Diese Beträge sind an die Lebenshaltungskosten gebunden. Sie steigen mit der Zeit, mit dem sogenannten Index. Für die genaue Zahl von heute schaust du also auf die offizielle Seite — das ist die Seite „soziale Parameter" auf guichet Punkt l-u.
+**ANNA:** Genau. Jetzt — eine Sache, bei der ich ehrlich sein muss. Diese Beträge sind an die Lebenshaltungskosten gebunden. Sie steigen mit der Zeit, mit dem sogenannten Index. Und ab 2027 gilt das auch für die Geburtszulage, die Schulanfangszulage und die Sonderzulage für Kinder mit einer Behinderung. Für die genaue Zahl von heute schaust du also auf die offizielle Seite — das ist die Seite „soziale Parameter" auf guichet Punkt l-u.
 
 **TOM:** Gut. Wir geben die Idee, aber die genaue Zahl — immer die offizielle Quelle prüfen. Wann wird das Geld eigentlich jeden Monat gezahlt?
 
-**ANNA:** Jeden Monat, und spätestens bis zum fünfundzwanzigsten des Monats. Es landet an diesem Tag oder am nächsten auf deinem Bankkonto. Es ist also regelmäßiges, verlässliches Geld, auf das du dich verlassen kannst.
+**ANNA:** Jeden Monat, und spätestens bis zum fünfundzwanzigsten des Monats. Es landet an diesem Tag oder am nächsten auf deinem Bankkonto — oder ein, zwei Tage später bei einer Bank im Ausland. Es ist also regelmäßiges, verlässliches Geld, auf das du dich verlassen kannst.
 
 **TOM:** Und muss ich es jeden Monat neu beantragen?
 
@@ -90,7 +90,7 @@
 
 **TOM:** Automatisch. Das gefällt mir. Und wann kommt sie?
 
-**ANNA:** Im August, kurz vor dem Schuljahr. Und der Betrag hängt vom Alter des Kindes ab. Für Kinder von sechs bis elf Jahren sind es etwa einhundertfünfzehn Euro. Für Kinder ab zwölf Jahren sind es etwa zweihundertfünfunddreißig Euro.
+**ANNA:** Im August, kurz vor dem Schuljahr. Und der Betrag hängt vom Alter des Kindes ab. Mit dem neuen Gesetz sind es ab 2027 mehr als einhundertfünfundsiebzig Euro für Kinder von sechs bis elf Jahren. Und mehr als dreihundertfünfundzwanzig Euro für Kinder ab zwölf Jahren.
 
 **TOM:** Also auch hier — älteres Kind, höherer Betrag. Dieselbe Logik.
 
@@ -106,7 +106,7 @@
 
 **TOM:** Du stehst also nicht schlechter da. Du wirst auf das luxemburgische Niveau aufgestockt.
 
-**ANNA:** Das ist die Idee. Und es funktioniert auch für Rentner — ein pensionierter Grenzgänger mit einer luxemburgischen Rente behält den Anspruch auf das Kindergeld.
+**ANNA:** Das ist die Idee. Und es funktioniert auch für Rentner — ein pensionierter Grenzgänger mit einer luxemburgischen Rente behält den Anspruch auf das Kindergeld. Und ab 2027 stellt ein neues Gesetz noch etwas klar: Auch die Kinder deines Mannes, deiner Frau oder deines Partners können zählen — wenn sie hauptsächlich bei dir leben, oder wenn du zeigen kannst, dass du wirklich für sie sorgst.
 
 **TOM:** Das ist beruhigend für viele Familien. Jetzt — reden wir darüber, wie man eigentlich mit der Zukunftskeess umgeht. Ist es viel Papierkram?
 
@@ -114,7 +114,7 @@
 
 **TOM:** Ah, MyGuichet.lu — darüber haben wir in einer anderen Folge gesprochen.
 
-**ANNA:** Genau — es ist die Online-Tür zur Verwaltung. Und darüber kannst du auch Dokumente an die Zukunftskeess schicken, deine Bankdaten ändern, oder eine Zahlungsbescheinigung bekommen. Es gibt sogar einen Online-Assistenten, der dich Schritt für Schritt durch den Kindergeldantrag führt.
+**ANNA:** Genau — es ist die Online-Tür zur Verwaltung. Und darüber kannst du auch Dokumente an die Zukunftskeess schicken, oder deine Bankdaten ändern. Es gibt sogar einen Online-Assistenten, der dich Schritt für Schritt durch den Kindergeldantrag führt. Und wenn du eine Zahlungsbescheinigung brauchst, gibt es ein einfaches Online-Formular auf der Website der Zukunftskeess.
 
 **TOM:** Und wenn sich jemand online nicht wohlfühlt?
 
@@ -142,7 +142,7 @@
 
 **TOM:** Aufregend! Wo kommt die Zukunftskeess also ins Spiel, ganz von Anfang an?
 
-**ANNA:** Schon vor der Geburt. Während der Schwangerschaft geht die Mutter zu ihren Untersuchungen, und zum Zahnarztbesuch — und das öffnet den ersten Teil der Geburtszulage, den vorgeburtlichen Teil. Etwa fünfhundertachtzig Euro.
+**ANNA:** Schon vor der Geburt. Während der Schwangerschaft geht die Mutter zu ihren Untersuchungen, und zum Zahnarztbesuch — und das öffnet den ersten Teil der Geburtszulage, den vorgeburtlichen Teil. Fast sechshundert Euro.
 
 **TOM:** Dann kommt das Baby.
 
@@ -150,7 +150,7 @@
 
 **TOM:** Und von da an beginnt das monatliche Geld.
 
-**ANNA:** Jeden Monat, bis zum fünfundzwanzigsten — etwas mehr als dreihundert Euro, automatisch. Dann, über die ersten beiden Jahre, bringen sie das Baby zu seinen ärztlichen Untersuchungen, und das schaltet den dritten Teil der Geburtszulage frei.
+**ANNA:** Jeden Monat, bis zum fünfundzwanzigsten — mehr als dreihundertfünfzig Euro, automatisch. Dann, über die ersten beiden Jahre, bringen sie das Baby zu seinen ärztlichen Untersuchungen, und das schaltet den dritten Teil der Geburtszulage frei.
 
 **TOM:** In den ersten beiden Jahren haben sie also alle drei Teile der Geburtszulage bekommen, plus das monatliche Kindergeld.
 
@@ -170,7 +170,7 @@
 
 **TOM:** Und drittens?
 
-**ANNA:** Drittens — halte deine Daten aktuell, vor allem dein Bankkonto und deine Situation. Und wenn dein Kind achtzehn wird, aber in der Schule bleibt, schick das Formular zurück, damit das Kindergeld bis fünfundzwanzig weiterläuft.
+**ANNA:** Drittens — halte deine Daten aktuell, vor allem dein Bankkonto und deine Situation. Und wenn dein Kind achtzehn wird, aber in der Schule bleibt, schick das Formular zurück, damit das Kindergeld bis fünfundzwanzig weiterläuft — das geht jetzt auch online, auf MyGuichet.lu.
 
 **TOM:** Und für die Grenzgänger?
 
@@ -178,7 +178,7 @@
 
 **TOM:** Eine kurze Zusammenfassung zum Schluss?
 
-**ANNA:** Klar. Die Zukunftskeess — die Zukunftskasse (Caisse pour l'avenir des enfants), cae.lu — ist die staatliche Stelle für Familienleistungen in Luxemburg. Drei wichtige. Eine Geburtszulage von etwa eintausendsiebenhundert Euro, in drei Teilen, an Gesundheitskontrollen gebunden. Ein monatliches Kindergeld für jedes Kind — etwas mehr als dreihundert Euro — das mit sechs und mit zwölf Jahren steigt, und bis fünfundzwanzig dauern kann, wenn das Kind in der Schule bleibt. Und eine Schulanfangszulage jeden August, automatisch. Dazu das Einkommen für den Elternurlaub, Betreuungsgutscheine, und zusätzliche Hilfe für Kinder mit besonderen Bedürfnissen.
+**ANNA:** Klar. Die Zukunftskeess — die Zukunftskasse (Caisse pour l'avenir des enfants), cae.lu — ist die staatliche Stelle für Familienleistungen in Luxemburg. Drei wichtige. Eine Geburtszulage von mehr als eintausendsiebenhundert Euro, in drei Teilen, an Gesundheitskontrollen gebunden. Ein monatliches Kindergeld für jedes Kind — mehr als dreihundertfünfzig Euro ab 2027 — das mit sechs und mit zwölf Jahren steigt, und bis fünfundzwanzig dauern kann, wenn das Kind in der Schule bleibt. Und eine Schulanfangszulage jeden August, automatisch. Dazu das Einkommen für den Elternurlaub, Betreuungsgutscheine, und zusätzliche Hilfe für Kinder mit besonderen Bedürfnissen.
 
 **TOM:** Und die Botschaft für heute?
 
@@ -194,4 +194,4 @@
 
 ---
 
-*Quellen: cae.public.lu (Caisse pour l'avenir des enfants / Zukunftskeess — die Zukunftskasse) und die offiziellen Seiten von guichet.public.lu „Kindergeld", „Geburtszulage" und „Soziale Parameter" (Werte zum 1. Januar 2026; Kindergeld neues System 307,35 € pro Kind/Monat, +23,23 € ab 6 Jahren und +57,99 € ab 12 Jahren; Schulanfangszulage 115 € für 6- bis 11-Jährige und 235 € für 12 Jahre und älter; Geburtszulage 1.740,09 € in drei Raten zu je 580,03 €; besondere Zusatzzulage für Kinder mit einer Behinderung 200 €). Die Beträge sind indexiert und ändern sich im Laufe der Zeit — prüfen Sie die offizielle Seite „soziale Parameter" auf guichet.lu für die aktuellen Zahlen. Nur allgemeine Informationen.*
+*Quellen: cae.public.lu (Caisse pour l'avenir des enfants / Zukunftskeess), offizielle Seiten von guichet.public.lu „Kindergeld", „Geburtszulage" und „Soziale Parameter" (IGSS-Sozialparameter am 1. Juni 2026, Index 992,24: Kindergeld 315,04 € pro Kind/Monat, +23,81 € ab 6 Jahren, +59,44 € ab 12 Jahren; Schulanfangszulage 115 € / 235 €; Geburtszulage 1.740,09 € in drei Raten von 580,03 €; Sonderzulage 200 €) sowie Gesetz Nr. 8746 (verabschiedet am 15. Oktober 2026, in Kraft am 1. Januar 2027): Kindergeld +45 € pro Kind/Monat und +15 € zusätzlich ab 12 Jahren; Schulanfangszulage 175 € (6–11) und 325 € (ab 12); Indexierung auch für Geburtszulage, Schulanfangszulage und Sonderzulage; Kinder des Ehe- oder Lebenspartners eines Grenzgängers (chd.lu, Dossier 8746). Die Beträge sind indexiert — aktuelle Zahlen auf der Seite „Soziale Parameter" auf guichet.lu. Allgemeine Informationen. Geprüft am 9. November 2026.*

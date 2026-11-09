@@ -30,11 +30,11 @@
 
 **TOM:** Birth, monthly, and back-to-school. Let's take them one at a time. Start with the birth.
 
-**ANNA:** So, the birth allowance — in French, the prime de naissance. It's a flat amount paid around the birth of a child. The total is about one thousand seven hundred and forty euros.
+**ANNA:** So, the birth allowance — in French, the prime de naissance. It's a flat amount paid around the birth of a child. The total is more than one thousand seven hundred euros — and from 2027, it rises with the cost of living.
 
 **TOM:** That's a real help, right when a family needs it. And is it paid all at once?
 
-**ANNA:** No — and this is the clever part. It comes in three equal parts, of about five hundred and eighty euros each. And each part is linked to taking care of mother and baby.
+**ANNA:** No — and this is the clever part. It comes in three equal parts, of nearly six hundred euros each. And each part is linked to taking care of mother and baby.
 
 **TOM:** Tell me about the three parts.
 
@@ -62,7 +62,7 @@
 
 **TOM:** So as long as the child is still at school, the support keeps going. And how much is it?
 
-**ANNA:** It's set per child, per month. Right now it's a bit over three hundred euros per child each month. And here's a key point — it grows as the child gets older.
+**ANNA:** It's set per child, per month. And there's good news: a new law raises it from January 2027. From then on, it's more than three hundred and fifty euros per child each month. And here's a key point — it grows as the child gets older.
 
 **TOM:** It grows? How does that work?
 
@@ -70,11 +70,11 @@
 
 **TOM:** That makes sense — teenagers are expensive! So a young child gets the base amount, a child over six gets a bit more, and a child over twelve gets more again.
 
-**ANNA:** Exactly. Now — one thing I should be honest about. These amounts are tied to the cost of living. They go up over time, with what's called the index. So for the exact figure today, you check the official page — it's the "social parameters" page on guichet dot l-u.
+**ANNA:** Exactly. Now — one thing I should be honest about. These amounts are tied to the cost of living. They go up over time, with what's called the index. And from 2027, the same goes for the birth allowance, the back-to-school allowance, and the extra allowance for children with a disability. So for the exact figure today, you check the official page — it's the "social parameters" page on guichet dot l-u.
 
 **TOM:** Good. We give the idea, but the precise number — always check the official source. When is the money actually paid each month?
 
-**ANNA:** Every month, and at the latest by the twenty-fifth of the month. It lands in your bank account that day or the next. So it's regular, reliable money you can count on.
+**ANNA:** Every month, and at the latest by the twenty-fifth of the month. It lands in your bank account that day or the next — or a day or two later with a bank abroad. So it's regular, reliable money you can count on.
 
 **TOM:** And do I have to ask for it again every month?
 
@@ -90,7 +90,7 @@
 
 **TOM:** Automatically. I love that. And when does it arrive?
 
-**ANNA:** In August, just before the school year. And the amount depends on the child's age. For children from six to eleven, it's around one hundred and fifteen euros. For children twelve and over, it's around two hundred and thirty-five euros.
+**ANNA:** In August, just before the school year. And the amount depends on the child's age. With the new law, from 2027 it's more than one hundred and seventy-five euros for children from six to eleven. And more than three hundred and twenty-five euros for children twelve and over.
 
 **TOM:** So again — older child, bigger amount. The same logic.
 
@@ -106,7 +106,7 @@
 
 **TOM:** So you're not worse off. You get topped up to the Luxembourg level.
 
-**ANNA:** That's the idea. And it works for pensioners too — a retired cross-border worker with a Luxembourg pension keeps the right to the family allowance.
+**ANNA:** That's the idea. And it works for pensioners too — a retired cross-border worker with a Luxembourg pension keeps the right to the family allowance. And from 2027, a new law makes one more thing clear: the children of your husband, wife or partner can count too — if they mainly live with you, or if you can show that you really support them.
 
 **TOM:** That's reassuring for a lot of families. Now — let's talk about how you actually deal with the Zukunftskeess. Is it a lot of paperwork?
 
@@ -114,7 +114,7 @@
 
 **TOM:** Ah, MyGuichet.lu — we've talked about that in another episode.
 
-**ANNA:** Exactly — it's the online door to the administration. And through it you can also send documents to the Zukunftskeess, change your bank details, or get a payment certificate. There's even an online assistant that guides you through the family allowance application, step by step.
+**ANNA:** Exactly — it's the online door to the administration. And through it you can also send documents to the Zukunftskeess, or change your bank details. There's even an online assistant that guides you through the family allowance application, step by step. And if you need a payment certificate, there's a simple online form on the Zukunftskeess website.
 
 **TOM:** And if someone isn't comfortable online?
 
@@ -142,7 +142,7 @@
 
 **TOM:** Exciting! So where does the Zukunftskeess come in, from the very start?
 
-**ANNA:** Even before the birth. During the pregnancy, the mother goes to her check-ups, and the dental visit — and that opens the first part of the birth allowance, the prenatal part. About five hundred and eighty euros.
+**ANNA:** Even before the birth. During the pregnancy, the mother goes to her check-ups, and the dental visit — and that opens the first part of the birth allowance, the prenatal part. Nearly six hundred euros.
 
 **TOM:** Then the baby arrives.
 
@@ -150,7 +150,7 @@
 
 **TOM:** And from then on, the monthly money starts.
 
-**ANNA:** Every month, by the twenty-fifth — a bit over three hundred euros, automatically. Then, over the first two years, they take the baby to its medical check-ups, and that unlocks the third part of the birth allowance.
+**ANNA:** Every month, by the twenty-fifth — more than three hundred and fifty euros, automatically. Then, over the first two years, they take the baby to its medical check-ups, and that unlocks the third part of the birth allowance.
 
 **TOM:** So in the first two years, they've received all three parts of the birth allowance, plus the monthly allowance.
 
@@ -170,7 +170,7 @@
 
 **TOM:** And third?
 
-**ANNA:** Third — keep your details up to date, especially your bank account and your situation. And if your child turns eighteen but stays in school, send back the form to keep the allowance going up to twenty-five.
+**ANNA:** Third — keep your details up to date, especially your bank account and your situation. And if your child turns eighteen but stays in school, send back the form to keep the allowance going up to twenty-five — you can now do it online too, on MyGuichet.lu.
 
 **TOM:** And for cross-border workers?
 
@@ -178,7 +178,7 @@
 
 **TOM:** A short summary to finish?
 
-**ANNA:** Sure. The Zukunftskeess — the Children's Future Fund, cae.lu — is the State office for family benefits in Luxembourg. Three main ones. A birth allowance of about one thousand seven hundred euros, in three parts, linked to health check-ups. A monthly family allowance for each child — a bit over three hundred euros — that grows at age six and age twelve, and can last until twenty-five if the child stays in school. And a back-to-school allowance each August, automatically. Plus parental leave income, childcare vouchers, and extra help for children with special needs.
+**ANNA:** Sure. The Zukunftskeess — the Children's Future Fund, cae.lu — is the State office for family benefits in Luxembourg. Three main ones. A birth allowance of more than one thousand seven hundred euros, in three parts, linked to health check-ups. A monthly family allowance for each child — more than three hundred and fifty euros from 2027 — that grows at age six and age twelve, and can last until twenty-five if the child stays in school. And a back-to-school allowance each August, automatically. Plus parental leave income, childcare vouchers, and extra help for children with special needs.
 
 **TOM:** And the message for today?
 
@@ -194,4 +194,4 @@
 
 ---
 
-*Sources: cae.public.lu (Caisse pour l'avenir des enfants / Zukunftskeess — the Children's Future Fund) and guichet.public.lu official pages "Family allowance", "Birth allowance" and "Social parameters" (values from 1 January 2026; family allowance new system €307.35 per child/month, +€23.23 from age 6 and +€57.99 from age 12; back-to-school allowance €115 for ages 6–11 and €235 for 12+; birth allowance €1,740.09 in three instalments of €580.03; special supplementary allowance for children with a disability €200). Amounts are indexed and change over time — check the official "social parameters" page on guichet.lu for the current figures. General information only.*
+*Sources: cae.public.lu (Caisse pour l'avenir des enfants / Zukunftskeess — the Children's Future Fund), guichet.public.lu official pages "Family allowance", "Birth allowance" and "Social parameters" (IGSS social parameters at 1 June 2026, index 992.24: family allowance €315.04 per child/month, +€23.81 from age 6, +€59.44 from age 12; back-to-school allowance €115 / €235; birth allowance €1,740.09 in three instalments of €580.03; special supplementary allowance €200), and law no. 8746 (voted 15 October 2026, in force 1 January 2027): family allowance +€45 per child/month and +€15 more from age 12; back-to-school allowance €175 (6–11) and €325 (12+); indexation extended to the birth, back-to-school and special supplementary allowances; children of a cross-border worker's spouse or partner (chd.lu dossier 8746). Amounts are indexed and change over time — check the official "social parameters" page on guichet.lu for the current figures. General information only. Fact-checked 9 November 2026.*
