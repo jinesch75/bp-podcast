@@ -121,6 +121,29 @@ q('lll', 'questions', 3, 'explanation', 'or language leave)', 'or language leave
 q('lll', 'questions_fr', 3, 'explanation', 'ou le congé linguistique)', 'ou le congé linguistique pour apprendre le luxembourgeois)');
 q('lll', 'questions_de', 3, 'explanation', 'oder den Sprachurlaub)', 'oder den Sprachurlaub für Luxemburgisch)');
 
+// House of the Greater Region (10 Nov 2026): almost 12 million, commuter shares, in Esch since 2015
+q('granderegion', 'questions', 0, 'explanation', 'with 11.8 million inhabitants', 'with almost 12 million inhabitants');
+q('granderegion', 'questions_fr', 0, 'explanation', "avec 11,8 millions d'habitants", "avec près de 12 millions d'habitants");
+q('granderegion', 'questions_de', 0, 'explanation', '11,8 Millionen Einwohnern', 'fast 12 Millionen Einwohnern');
+q('granderegion', 'questions', 1, 'explanation', 'Around half live in France and roughly three-quarters work in Luxembourg.', 'More than half live in France and more than four out of five work in Luxembourg.');
+q('granderegion', 'questions_fr', 1, 'explanation', 'La moitié environ vit en France et à peu près les trois quarts travaillent au Luxembourg.', 'Plus de la moitié vivent en France et plus de quatre sur cinq travaillent au Luxembourg.');
+q('granderegion', 'questions_de', 1, 'explanation', 'Rund die Hälfte lebt in Frankreich und etwa drei Viertel arbeiten in Luxemburg.', 'Mehr als die Hälfte lebt in Frankreich, und mehr als vier von fünf arbeiten in Luxemburg.');
+q('granderegion', 'questions', 2, 2, '(opened 2015)', '(since 2015)');
+q('granderegion', 'questions_fr', 2, 2, '(ouvert en 2015)', '(depuis 2015)');
+q('granderegion', 'questions_de', 2, 2, '(2015 eröffnet)', '(seit 2015)');
+q('granderegion', 'questions', 2, 'explanation', 'Opened in 2015 in Esch-sur-Alzette, the House', 'In Esch-sur-Alzette since 2015 (and a shared office in Luxembourg City since 1999), the House');
+q('granderegion', 'questions_fr', 2, 'explanation', 'Ouverte en 2015 à Esch-sur-Alzette, la Maison', 'Installée à Esch-sur-Alzette depuis 2015 (et bureau commun à Luxembourg-Ville depuis 1999), la Maison');
+q('granderegion', 'questions_de', 2, 'explanation', 'Das 2015 in Esch an der Alzette eröffnete Haus der Großregion ist', 'Das Haus der Großregion – seit 2015 in Esch an der Alzette, davor seit 1999 ein gemeinsames Büro in Luxemburg-Stadt – ist');
+D.push(['granderegion', 'description', '11.8 million people', 'almost 12 million people']);
+D.push(['granderegion', 'description', 'in Esch-sur-Alzette, opened in 2015, which hosts', 'in Esch-sur-Alzette (there since 2015), which hosts']);
+D.push(['granderegion', 'description_fr', "11,8 millions d'habitants", "près de 12 millions d'habitants"]);
+D.push(['granderegion', 'description_fr', 'à Esch-sur-Alzette, ouverte en 2015, qui accueille', 'à Esch-sur-Alzette (installée depuis 2015), qui accueille']);
+D.push(['granderegion', 'description_de', '11,8 Millionen Menschen', 'fast 12 Millionen Menschen']);
+D.push(['granderegion', 'description_de', 'in Esch an der Alzette, das 2015 eröffnet wurde und', 'in Esch an der Alzette, das seit 2015 dort ansässig ist und']);
+
+// --only=key1,key2 limits the run to those episodes (older entries may no longer match after balance_quiz_answers reshuffled options)
+const ONLY = ((process.argv.find(a => a.startsWith('--only=')) || '').slice(7)).split(',').filter(Boolean);
+if (ONLY.length) { for (const L of [Q, D]) { const keep = L.filter(x => ONLY.includes(x[0])); L.length = 0; L.push(...keep); } }
 const src = fs.readFileSync(FILE, 'utf8');
 const i = src.indexOf('const EPISODES');
 const banner = src.slice(0, i);

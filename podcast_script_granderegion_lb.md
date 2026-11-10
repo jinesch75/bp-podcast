@@ -22,15 +22,15 @@
 
 **TOM:** Also läit Lëtzebuerg genau am Zentrum vun alldem.
 
-**ANNA:** Genau am Häerz. An et ass grouss. Mir schwätzen iwwer méi wéi fënnefachtsechszeg dausend Quadratkilometer, an iwwer eelef Komma aacht Milliounen Leit, déi do liewen.
+**ANNA:** Genau am Häerz. An et ass grouss. Mir schwätzen iwwer méi wéi fënnefachtsechszeg dausend Quadratkilometer, a bal zwielef Milliounen Leit, déi do liewen.
 
-**TOM:** Eelef Komma aacht Milliounen. Dat sinn der vill Leit. A si iwwerschreiden dës Grenzen déi ganzen Zäit, oder?
+**TOM:** Bal zwielef Milliounen. Dat sinn der vill Leit. A si iwwerschreiden dës Grenzen déi ganzen Zäit, oder?
 
 **ANNA:** Déi ganzen Zäit. An hei ass d'Zuel, déi fir Lëtzebuerg wierklech wichteg ass — ongeféier zweehonnert siwwenzeg dausend Leit iwwerschreiden all eenzelen Dag eng Grenz, fir schaffen ze goen.
 
 **TOM:** Zweehonnert siwwenzeg dausend, all Dag.
 
-**ANNA:** All Dag. Dat ass déi héchst Zuel u Frontalieren iwwerall an Europa. An hei ass en opfälleg Detail — ongeféier d'Halschent vun dëse Frontalieren wunnt a Frankräich, a ronn dräi Véierel vun hinnen all kommen zu Lëtzebuerg schaffen.
+**ANNA:** All Dag. Dat ass déi héchst Zuel u Frontalieren iwwerall an Europa. An hei ass en opfälleg Detail — méi wéi d'Halschent vun hinnen wunnt a Frankräich, a méi wéi véier vu fënnef kommen zu Lëtzebuerg schaffen.
 
 **TOM:** Also fir Lëtzebuerg ass dat keng abstrakt Iddi. D'Groussregioun ass, ganz wuertwiertlech, wien hei all Moie schaffe kënnt.
 
@@ -42,11 +42,11 @@
 
 **TOM:** A wou ass et?
 
-**ANNA:** Et ass hei zu Lëtzebuerg — zu Esch-sur-Alzette, am Süden. Um Boulevard J.F. Kennedy. Et huet am Joer zweedausendfofzéng opgemaach.
+**ANNA:** Et ass hei zu Lëtzebuerg — zu Esch-sur-Alzette, am Süden. Um Boulevard J.F. Kennedy. Zënter zweedausendfofzéng ass et zu Esch. Virdrun, zënter nonzénghonnertnénganonzeg, war et e méi klengt gemeinsamt Büro an der Stad Lëtzebuerg.
 
-**TOM:** Also ass et nach zimmlech jonk — ongeféier zéng Joer al.
+**TOM:** D'Iddi ass also méi al wéi d'Gebai.
 
-**ANNA:** Jonk, jo. Et gouf geschaf als e Plaz fir Rencontre, Austausch a Kommunikatioun — een eenzegt Dach fir all d'Leit, déi un der grenziwwerschreidender Zesummenaarbecht schaffen.
+**ANNA:** Genee. Et gouf geschaf als e Plaz fir Rencontre, Austausch a Kommunikatioun — een eenzegt Dach fir all d'Leit, déi un der grenziwwerschreidender Zesummenaarbecht schaffen.
 
 **TOM:** Also amplaz datt all een iwwer véier Länner verstreet ass, hu si ee gemeinsamt Haus.
 
@@ -58,9 +58,9 @@
 
 **TOM:** Elo, Anna, du hues "Sommet" gesot. Dat kléngt wichteg. Wat ass de Sommet vun der Groussregioun?
 
-**ANNA:** De Sommet ass déi héchst politesch Dësch. Et ass do, wou d'Chefen vun all dëse Regiounen sech zesummesetzen, fir d'Richtung ze setzen. Also — de Premierminister vu Lëtzebuerg, d'Ministerpresidente vun den däitsche Regiounen, vun der Wallonie, d'Cheffe vun der franséischer Säit, an esou weider. Si treffe sech als de Sommet.
+**ANNA:** De Sommet ass déi héchst politesch Dësch. Et ass do, wou d'Chefen vun all dëse Regiounen sech zesummesetzen, fir d'Richtung ze setzen. Also — e Member vun der Lëtzebuerger Regierung, d'Ministerpresidente vun den däitsche Regiounen a vun der Wallonie, Vertrieder vun der franséischer Säit, an esou weider. Si treffe sech als de Sommet.
 
-**TOM:** Also déi richteg Regierungschefen, ronderëm ee Dësch.
+**TOM:** Also déi héchst politesch Cheffen, ronderëm ee Dësch.
 
 **ANNA:** Ronderëm ee Dësch. Si setzen d'Strategie fir d'Zesummenaarbecht. An d'Féierung wiesselt — all Regioun ass un der Rei, de Sommet ze presidéieren, fir véieranzwanzeg Méint, zwee Joer op eemol.
 
@@ -106,7 +106,7 @@
 
 **TOM:** Also dat noosten Spidol, och wann et an engem anere Land ass, kann däi Spidol sinn.
 
-**ANNA:** An deene Gebidder, jo. Wann s du en Accident hues, kënnt déi noost Ambulanz — net déi noost Ambulanz an dengem eegene Land. Wann d'Minutten zielen, ass dat alles.
+**ANNA:** An deene Gebidder, jo. An op verschiddene Plazen, wann s du en Accident hues, kann d'Noutfallequipe vun der anerer Säit vun der Grenz kommen, wann se méi no ass. Wann d'Minutten zielen, ass dat alles.
 
 **TOM:** Dat ass esou eng mënschlech Aart, fir iwwer eng Grenz ze denken. Gutt — wat ass mat der Bildung?
 
@@ -134,7 +134,7 @@
 
 **TOM:** Also huet et sech Stéck fir Stéck opgebaut.
 
-**ANNA:** Stéck fir Stéck. An eng grouss Etapp war nonzénghonnert fënnefannonzeg — den alleréischte Sommet vun de Chefen, hei zu Lëtzebuerg ofgehalen, zu Mondorf-les-Bains. Dat ass, wéi et wierklech eng richteg Partnerschaft gouf. An dann, am Joer zweedausendfofzéng, huet et säi physescht Doheem kritt — d'Haus zu Esch.
+**ANNA:** Stéck fir Stéck. An eng grouss Etapp war nonzénghonnert fënnefannonzeg — den alleréischte Sommet vun de Chefen, hei zu Lëtzebuerg ofgehalen, zu Mondorf-les-Bains. Dat ass, wéi et wierklech eng richteg Partnerschaft gouf. An dann, am Joer zweedausendfofzéng, huet et säi gréissert Doheem kritt — d'Haus zu Esch.
 
 **TOM:** Vun enger Iddi tëscht zwee Länner, bis op véier Länner mat engem gemeinsamen Haus. Dat ass eng schéi Rees.
 
@@ -170,11 +170,11 @@
 
 **TOM:** An drëttens?
 
-**ANNA:** Drëttens — wann s du méi wëlls léieren, gëtt et eng Plaz fir nozekucken. Den offiziellen Internetsite — granderegion Punkt net. Do fënns du d'Reesplaner, d'Ausbildungstools, d'Informatiounen, an de Kontakt fir d'Haus selwer, zu Esch-sur-Alzette.
+**ANNA:** Drëttens — wann s du méi wëlls léieren, gëtt et eng Plaz fir nozekucken. Den offiziellen Internetsite — granderegion Punkt net. Do fënns du d'Reesplaner, d'Ausbildungstools, d'Informatiounen, an de Kontakt fir d'Haus selwer, zu Esch-sur-Alzette. An an der Rubrik Entdecken fënns du souguer de Biergerpakt.
 
 **TOM:** Eng kuerz Zesummefaassung fir of ze schléissen?
 
-**ANNA:** Sécher. D'Groussregioun bréngt fënnef Regiounen a véier Länner zesummen — Lëtzebuerg, plus Deeler vu Frankräich, Däitschland a Belgien — iwwer eelef Milliounen Leit, an de gréisste Flux vu Frontalieren an Europa. Si gëtt vum Haus vun der Groussregioun koordinéiert, zu Esch-sur-Alzette, dat am Joer zweedausendfofzéng opgemaach huet an de Sekretariat vum Sommet a verschidde Partner ënnerbréngt. Zesummen maache si den Alldag iwwer d'Grenze méi einfach — bei der Aarbecht, beim Transport, bei der Gesondheet, beim Studium an der Kultur. An du kanns alles op granderegion.net fannen.
+**ANNA:** Sécher. D'Groussregioun bréngt fënnef Regiounen a véier Länner zesummen — Lëtzebuerg, plus Deeler vu Frankräich, Däitschland a Belgien — iwwer eelef Milliounen Leit, an de gréisste Flux vu Frontalieren an Europa. Si gëtt vum Haus vun der Groussregioun koordinéiert, dat zënter zweedausendfofzéng zu Esch-sur-Alzette ass an de Sekretariat vum Sommet a verschidde Partner ënnerbréngt. Zesummen maache si den Alldag iwwer d'Grenze méi einfach — bei der Aarbecht, beim Transport, bei der Gesondheet, beim Studium an der Kultur. An du kanns alles op granderegion.net fannen.
 
 **TOM:** An d'Message fir haut?
 
@@ -190,4 +190,4 @@
 
 ---
 
-*Quellen: granderegion.net (offiziellen Internetsite vun der Groussregioun / Sekretariat vum Sommet). D'Groussregioun: 5 Regiounen, 4 Länner, 3 Sproochen — Lëtzebuerg, d'Lothréngen (Grand Est, Frankräich), d'Saarland an d'Rheinland-Pfalz (Däitschland), d'Wallonie, d'Fédération Wallonie-Bruxelles an déi däitschsproocheg Gemeinschaft vu Belgien; 65.401 km²; 11,8 Milliounen Awunner; ongeféier 270.000 alldeeglech Frontalieren (déi meescht an Europa). Urspréng an enger franséisch-däitscher Kommissioun vun 1969; Lëtzebuerg ass 1971 derbäikomm; éischte Sommet zu Mondorf-les-Bains 1995; Sekretariat vum Sommet 2013 geschaf (EGTC/GECT no Lëtzebuerger Recht). D'Haus vun der Groussregioun (Maison de la Grande Région / Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, huet 2015 opgemaach an ënnerbréngt de Sekretariat vum EGTC-Sommet, de Sekretariat vum Wirtschafts- a Sozialcomité, d'Verwaltungsautoritéit vun Interreg, d'Vertriedung vun der Rheinland-Pfalz, EuRegio SaarLorLux+, QuattroPole an den Institut vun der Groussregioun. D'Universitéit vun der Groussregioun (UniGR) verbënnt 7 Universitéiten (dovun ee associéierte Partner) mat méi wéi 141.000 Studenten. Nëmmen allgemeng Informatioun — kuck granderegion.net fir aktuell Detailer.*
+*Quellen: granderegion.net (offiziellen Internetsite vun der Groussregioun / Sekretariat vum Sommet). D'Groussregioun: 5 Regiounen, 4 Länner, 3 Sproochen — Lëtzebuerg, d'Lothréngen (Grand Est, Frankräich), d'Saarland an d'Rheinland-Pfalz (Däitschland), d'Wallonie, d'Fédération Wallonie-Bruxelles an déi däitschsproocheg Gemeinschaft vu Belgien; 65.401 km²; 11,8 Milliounen Awunner; ongeféier 270.000 alldeeglech Frontalieren (déi meescht an Europa). Urspréng an enger franséisch-däitscher Kommissioun vun 1969; Lëtzebuerg ass 1971 derbäikomm; éischte Sommet zu Mondorf-les-Bains 1995; Sekretariat vum Sommet 2013 geschaf (EGTC/GECT no Lëtzebuerger Recht). D'Haus vun der Groussregioun (Maison de la Grande Région / Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, huet 2015 opgemaach an ënnerbréngt de Sekretariat vum EGTC-Sommet, de Sekretariat vum Wirtschafts- a Sozialcomité, d'Verwaltungsautoritéit vun Interreg, d'Vertriedung vun der Rheinland-Pfalz, EuRegio SaarLorLux+, QuattroPole an den Institut vun der Groussregioun. D'Universitéit vun der Groussregioun (UniGR) verbënnt 7 Universitéiten (dovun ee associéierte Partner) mat méi wéi 141.000 Studenten. Nëmmen allgemeng Informatioun — kuck granderegion.net fir aktuell Detailer. Iwwerpréift den 10. November 2026: 11,8 Milliounen Awunner den 1. Januar 2023 (gesot „bal zwielef Milliounen“); 276.360 Frontalieren am Joer 2024 (IBA-OIE), dovun ronn 230.000 zu Lëtzebuerg (STATEC, 4. Trimester 2024); d'Haus war zënter 1999 e gemeinsamt Büro an der Stad an ass de 17. Juni 2015 op Esch-sur-Alzette geplënnert; Lëtzebuerg ass beim Sommet de Moment duerch e Member vun der Regierung vertrueden; grenziwwerschreidend Noutfallhëllef a verschiddene Grenzgebidder (franséisch-belsch Konventioun 2007); de Biergerpakt gëtt op granderegion.net virgestallt (Entdecken).*

@@ -22,15 +22,15 @@
 
 **TOM :** Donc le Luxembourg se trouve juste au centre de tout ça.
 
-**ANNA :** En plein cœur. Et c'est grand. On parle de plus de soixante-cinq mille kilomètres carrés, et de plus de onze virgule huit millions de personnes qui y vivent.
+**ANNA :** En plein cœur. Et c'est grand. On parle de plus de soixante-cinq mille kilomètres carrés, et de près de douze millions de personnes qui y vivent.
 
-**TOM :** Onze virgule huit millions. Ça fait beaucoup de monde. Et ces gens franchissent ces frontières tout le temps, n'est-ce pas ?
+**TOM :** Près de douze millions. Ça fait beaucoup de monde. Et ces gens franchissent ces frontières tout le temps, n'est-ce pas ?
 
 **ANNA :** Tout le temps. Et voici le chiffre qui compte vraiment pour le Luxembourg — environ deux cent soixante-dix mille personnes franchissent une frontière chaque jour pour aller travailler.
 
 **TOM :** Deux cent soixante-dix mille, chaque jour.
 
-**ANNA :** Chaque jour. C'est le plus grand nombre de travailleurs frontaliers de toute l'Europe. Et voici un détail frappant — environ la moitié de ces frontaliers vivent en France, et à peu près les trois quarts d'entre eux viennent travailler au Luxembourg.
+**ANNA :** Chaque jour. C'est le plus grand nombre de travailleurs frontaliers de toute l'Europe. Et voici un détail frappant — plus de la moitié d'entre eux vivent en France, et plus de quatre sur cinq viennent travailler au Luxembourg.
 
 **TOM :** Donc pour le Luxembourg, ce n'est pas une idée abstraite. La Grande Région, c'est littéralement celles et ceux qui viennent travailler ici chaque matin.
 
@@ -42,11 +42,11 @@
 
 **TOM :** Et où se trouve-t-elle ?
 
-**ANNA :** Elle est ici au Luxembourg — à Esch-sur-Alzette, dans le sud. Sur le boulevard J.F. Kennedy. Elle a ouvert en deux mille quinze.
+**ANNA :** Elle est ici au Luxembourg — à Esch-sur-Alzette, dans le sud. Sur le boulevard J.F. Kennedy. Elle est à Esch depuis deux mille quinze. Avant cela, depuis mille neuf cent quatre-vingt-dix-neuf, c'était un bureau commun plus petit, à Luxembourg-Ville.
 
-**TOM :** Donc elle est assez jeune — environ dix ans.
+**TOM :** Donc l'idée est plus ancienne que le bâtiment.
 
-**ANNA :** Jeune, oui. Elle a été créée comme un lieu de rencontre, d'échange et de communication — un seul toit pour toutes les personnes qui travaillent sur la coopération transfrontalière.
+**ANNA :** Exactement. Elle a été créée comme un lieu de rencontre, d'échange et de communication — un seul toit pour toutes les personnes qui travaillent sur la coopération transfrontalière.
 
 **TOM :** Donc au lieu d'avoir tout le monde dispersé dans quatre pays, ils ont une maison commune.
 
@@ -58,9 +58,9 @@
 
 **TOM :** Maintenant Anna, tu as dit « Sommet ». Ça a l'air important. Qu'est-ce que le Sommet de la Grande Région ?
 
-**ANNA :** Le Sommet, c'est la table politique au plus haut niveau. C'est là que les dirigeants de toutes ces régions s'assoient ensemble pour fixer le cap. Donc — le Premier ministre du Luxembourg, les Ministres-présidents des régions allemandes, de la Wallonie, les dirigeants du côté français, et ainsi de suite. Ils se réunissent en tant que Sommet.
+**ANNA :** Le Sommet, c'est la table politique au plus haut niveau. C'est là que les dirigeants de toutes ces régions s'assoient ensemble pour fixer le cap. Donc — un membre du gouvernement luxembourgeois, les Ministres-présidents des régions allemandes et de la Wallonie, des représentants du côté français, et ainsi de suite. Ils se réunissent en tant que Sommet.
 
-**TOM :** Donc les véritables chefs de gouvernement, autour d'une même table.
+**TOM :** Donc les plus hauts responsables politiques, autour d'une même table.
 
 **ANNA :** Autour d'une même table. Ils fixent la stratégie pour travailler ensemble. Et la présidence tourne — chaque région prend son tour à la tête du Sommet, pour vingt-quatre mois, deux ans à la fois.
 
@@ -106,7 +106,7 @@
 
 **TOM :** Donc l'hôpital le plus proche, même s'il est dans un autre pays, peut être ton hôpital.
 
-**ANNA :** Dans ces zones, oui. Si tu as un accident, c'est l'ambulance la plus proche qui vient — pas l'ambulance la plus proche dans ton propre pays. Quand chaque minute compte, ça change tout.
+**ANNA :** Dans ces zones, oui. Et à certains endroits, si tu as un accident, l'équipe d'urgence de l'autre côté de la frontière peut venir, si elle est plus proche. Quand chaque minute compte, ça change tout.
 
 **TOM :** C'est une façon tellement humaine de penser une frontière. D'accord — et l'éducation ?
 
@@ -134,7 +134,7 @@
 
 **TOM :** Donc ça s'est construit pièce par pièce.
 
-**ANNA :** Pièce par pièce. Et une grande étape a été mille neuf cent quatre-vingt-quinze — le tout premier Sommet des dirigeants, tenu ici au Luxembourg, à Mondorf-les-Bains. C'est là que c'est vraiment devenu un véritable partenariat. Et puis, en deux mille quinze, il a obtenu son foyer physique — la Maison à Esch.
+**ANNA :** Pièce par pièce. Et une grande étape a été mille neuf cent quatre-vingt-quinze — le tout premier Sommet des dirigeants, tenu ici au Luxembourg, à Mondorf-les-Bains. C'est là que c'est vraiment devenu un véritable partenariat. Et puis, en deux mille quinze, il a obtenu un foyer plus grand — la Maison à Esch.
 
 **TOM :** D'une idée entre deux pays, à quatre pays avec une maison commune. C'est tout un parcours.
 
@@ -170,11 +170,11 @@
 
 **TOM :** Et troisièmement ?
 
-**ANNA :** Troisièmement — si vous voulez en savoir plus, il y a un seul endroit où regarder. Le site officiel — granderegion point net. Vous y trouverez les calculateurs d'itinéraires, les outils de formation, les informations, et le contact de la Maison elle-même, à Esch-sur-Alzette.
+**ANNA :** Troisièmement — si vous voulez en savoir plus, il y a un seul endroit où regarder. Le site officiel — granderegion point net. Vous y trouverez les calculateurs d'itinéraires, les outils de formation, les informations, et le contact de la Maison elle-même, à Esch-sur-Alzette. Et dans la rubrique Découvrir, vous trouverez même le Biergerpakt.
 
 **TOM :** Un petit résumé pour finir ?
 
-**ANNA :** Bien sûr. La Grande Région réunit cinq régions dans quatre pays — le Luxembourg, plus des parties de la France, de l'Allemagne et de la Belgique — plus de onze millions de personnes, et le plus grand flux de travailleurs frontaliers d'Europe. Elle est coordonnée depuis la Maison de la Grande Région, à Esch-sur-Alzette, qui a ouvert en deux mille quinze et accueille le Secrétariat du Sommet ainsi que plusieurs partenaires. Ensemble, ils rendent la vie quotidienne au-delà des frontières plus facile — dans le travail, les transports, la santé, les études et la culture. Et vous pouvez tout trouver sur granderegion.net.
+**ANNA :** Bien sûr. La Grande Région réunit cinq régions dans quatre pays — le Luxembourg, plus des parties de la France, de l'Allemagne et de la Belgique — plus de onze millions de personnes, et le plus grand flux de travailleurs frontaliers d'Europe. Elle est coordonnée depuis la Maison de la Grande Région, installée à Esch-sur-Alzette depuis deux mille quinze, qui accueille le Secrétariat du Sommet ainsi que plusieurs partenaires. Ensemble, ils rendent la vie quotidienne au-delà des frontières plus facile — dans le travail, les transports, la santé, les études et la culture. Et vous pouvez tout trouver sur granderegion.net.
 
 **TOM :** Et le message du jour ?
 
@@ -190,4 +190,4 @@
 
 ---
 
-*Sources : granderegion.net (site officiel de la Grande Région / Secrétariat du Sommet). La Grande Région : 5 régions, 4 pays, 3 langues — le Luxembourg, la Lorraine (Grand Est, France), la Sarre et la Rhénanie-Palatinat (Allemagne), la Wallonie, la Fédération Wallonie-Bruxelles et la Communauté germanophone de Belgique ; 65 401 km² ; 11,8 millions d'habitants ; environ 270 000 travailleurs frontaliers quotidiens (le plus grand nombre d'Europe). Origines dans une commission franco-allemande de 1969 ; le Luxembourg a rejoint en 1971 ; premier Sommet à Mondorf-les-Bains en 1995 ; Secrétariat du Sommet créé en 2013 (GECT de droit luxembourgeois). La Maison de la Grande Région (Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, a ouvert en 2015 et accueille le Secrétariat du Sommet du GECT, le secrétariat du Comité économique et social, l'autorité de gestion Interreg, la représentation de la Rhénanie-Palatinat, EuRegio SaarLorLux+, QuattroPole et l'Institut de la Grande Région. L'Université de la Grande Région (UniGR) relie 7 universités (dont un partenaire associé) et plus de 141 000 étudiants. Informations générales uniquement — voir granderegion.net pour les détails actuels.*
+*Sources : granderegion.net (site officiel de la Grande Région / Secrétariat du Sommet). La Grande Région : 5 régions, 4 pays, 3 langues — le Luxembourg, la Lorraine (Grand Est, France), la Sarre et la Rhénanie-Palatinat (Allemagne), la Wallonie, la Fédération Wallonie-Bruxelles et la Communauté germanophone de Belgique ; 65 401 km² ; 11,8 millions d'habitants ; environ 270 000 travailleurs frontaliers quotidiens (le plus grand nombre d'Europe). Origines dans une commission franco-allemande de 1969 ; le Luxembourg a rejoint en 1971 ; premier Sommet à Mondorf-les-Bains en 1995 ; Secrétariat du Sommet créé en 2013 (GECT de droit luxembourgeois). La Maison de la Grande Région (Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, a ouvert en 2015 et accueille le Secrétariat du Sommet du GECT, le secrétariat du Comité économique et social, l'autorité de gestion Interreg, la représentation de la Rhénanie-Palatinat, EuRegio SaarLorLux+, QuattroPole et l'Institut de la Grande Région. L'Université de la Grande Région (UniGR) relie 7 universités (dont un partenaire associé) et plus de 141 000 étudiants. Informations générales uniquement — voir granderegion.net pour les détails actuels. Vérifié le 10 novembre 2026 : 11,8 millions d'habitants au 1er janvier 2023 (dit « près de douze millions ») ; 276 360 frontaliers en 2024 (IBA-OIE), dont environ 230 000 travaillent au Luxembourg (STATEC, 4e trimestre 2024) ; la Maison était depuis 1999 un bureau commun à Luxembourg-Ville et a déménagé à Esch-sur-Alzette le 17 juin 2015 ; le Luxembourg est actuellement représenté au Sommet par un membre du gouvernement ; aide médicale urgente transfrontalière dans certaines zones (convention franco-belge de 2007) ; le Biergerpakt est présenté sur granderegion.net (Découvrir).*

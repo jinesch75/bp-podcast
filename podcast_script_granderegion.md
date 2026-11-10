@@ -22,15 +22,15 @@
 
 **TOM:** So Luxembourg sits right at the centre of all of it.
 
-**ANNA:** Right at the heart. And it's big. We're talking about more than sixty-five thousand square kilometres, and over eleven point eight million people living there.
+**ANNA:** Right at the heart. And it's big. We're talking about more than sixty-five thousand square kilometres, and almost twelve million people living there.
 
-**TOM:** Eleven point eight million. That's a lot of people. And they cross these borders all the time, don't they?
+**TOM:** Almost twelve million. That's a lot of people. And they cross these borders all the time, don't they?
 
 **ANNA:** All the time. And here's the number that really matters for Luxembourg — about two hundred and seventy thousand people cross a border every single day to go to work.
 
 **TOM:** Two hundred and seventy thousand, every day.
 
-**ANNA:** Every day. That's the highest number of cross-border commuters anywhere in Europe. And here's a striking detail — about half of those commuters live in France, and around three-quarters of all of them come to work in Luxembourg.
+**ANNA:** Every day. That's the highest number of cross-border commuters anywhere in Europe. And here's a striking detail — more than half of them live in France, and more than four out of five come to work in Luxembourg.
 
 **TOM:** So for Luxembourg, this isn't an abstract idea. The Greater Region is, quite literally, who comes to work here every morning.
 
@@ -42,11 +42,11 @@
 
 **TOM:** And where is it?
 
-**ANNA:** It's here in Luxembourg — in Esch-sur-Alzette, in the south. On the boulevard J.F. Kennedy. It opened in twenty fifteen.
+**ANNA:** It's here in Luxembourg — in Esch-sur-Alzette, in the south. On the boulevard J.F. Kennedy. It's been in Esch since twenty fifteen. Before that, from nineteen ninety-nine, it was a smaller shared office in Luxembourg City.
 
-**TOM:** So it's quite young — about ten years old.
+**TOM:** So the idea is older than the building.
 
-**ANNA:** Young, yes. It was created as a place for meeting, exchange, and communication — a single roof for all the people working on cross-border cooperation.
+**ANNA:** Exactly. It was created as a place for meeting, exchange, and communication — a single roof for all the people working on cross-border cooperation.
 
 **TOM:** So instead of everyone scattered across four countries, they have one shared house.
 
@@ -58,9 +58,9 @@
 
 **TOM:** Now Anna, you said "Summit". That sounds important. What is the Summit of the Greater Region?
 
-**ANNA:** The Summit is the top political table. It's where the leaders of all these regions sit down together to set the direction. So — the Prime Minister of Luxembourg, the Minister-Presidents of the German regions, of Wallonia, the leaders from the French side, and so on. They meet as the Summit.
+**ANNA:** The Summit is the top political table. It's where the leaders of all these regions sit down together to set the direction. So — a member of the Luxembourg government, the Minister-Presidents of the German regions and of Wallonia, representatives from the French side, and so on. They meet as the Summit.
 
-**TOM:** So the actual heads of government, around one table.
+**TOM:** So the top political leaders, around one table.
 
 **ANNA:** Around one table. They set the strategy for working together. And the leadership rotates — each region takes a turn chairing the Summit, for twenty-four months, two years at a time.
 
@@ -106,7 +106,7 @@
 
 **TOM:** So the nearest hospital, even if it's in another country, can be your hospital.
 
-**ANNA:** In those areas, yes. If you have an accident, the closest ambulance comes — not the closest ambulance in your own country. When minutes matter, that's everything.
+**ANNA:** In those areas, yes. And in some places, if you have an accident, the emergency team from across the border can come, if it's closer. When minutes matter, that's everything.
 
 **TOM:** That's such a human way to think about a border. Okay — what about education?
 
@@ -134,7 +134,7 @@
 
 **TOM:** So it built up piece by piece.
 
-**ANNA:** Piece by piece. And a big milestone was nineteen ninety-five — the very first Summit of the leaders, held here in Luxembourg, in Mondorf-les-Bains. That's when it really became a proper partnership. And then, in twenty fifteen, it got its physical home — the House in Esch.
+**ANNA:** Piece by piece. And a big milestone was nineteen ninety-five — the very first Summit of the leaders, held here in Luxembourg, in Mondorf-les-Bains. That's when it really became a proper partnership. And then, in twenty fifteen, it got its bigger home — the House in Esch.
 
 **TOM:** From an idea between two countries, to four countries with a shared house. That's quite a journey.
 
@@ -170,11 +170,11 @@
 
 **TOM:** And third?
 
-**ANNA:** Third — if you want to learn more, there's one place to look. The official website — granderegion dot net. There you'll find the journey planners, the training tools, the information, and the contact for the House itself, in Esch-sur-Alzette.
+**ANNA:** Third — if you want to learn more, there's one place to look. The official website — granderegion dot net. There you'll find the journey planners, the training tools, the information, and the contact for the House itself, in Esch-sur-Alzette. And in the Discover section, you'll even find the Biergerpakt.
 
 **TOM:** A short summary to finish?
 
-**ANNA:** Sure. The Greater Region brings together five regions in four countries — Luxembourg, plus parts of France, Germany and Belgium — over eleven million people, and the biggest flow of cross-border workers in Europe. It's coordinated from the House of the Greater Region, in Esch-sur-Alzette, which opened in twenty fifteen and hosts the Summit Secretariat and several partners. Together they make daily life across the borders easier — in work, transport, health, study and culture. And you can find it all at granderegion.net.
+**ANNA:** Sure. The Greater Region brings together five regions in four countries — Luxembourg, plus parts of France, Germany and Belgium — over eleven million people, and the biggest flow of cross-border workers in Europe. It's coordinated from the House of the Greater Region, in Esch-sur-Alzette since twenty fifteen, which hosts the Summit Secretariat and several partners. Together they make daily life across the borders easier — in work, transport, health, study and culture. And you can find it all at granderegion.net.
 
 **TOM:** And the message for today?
 
@@ -190,4 +190,4 @@
 
 ---
 
-*Sources: granderegion.net (official website of the Greater Region / Summit Secretariat). The Greater Region: 5 regions, 4 countries, 3 languages — Luxembourg, Lorraine (Grand Est, France), Saarland and Rhineland-Palatinate (Germany), Wallonia, the Wallonia-Brussels Federation and the German-speaking Community of Belgium; 65,401 km²; 11.8 million inhabitants; about 270,000 daily cross-border commuters (the most in Europe). Origins in a 1969 Franco-German commission; Luxembourg joined in 1971; first Summit in Mondorf-les-Bains in 1995; Summit Secretariat created in 2013 (EGTC/GECT under Luxembourg law). The House of the Greater Region (Maison de la Grande Région / Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, opened in 2015 and hosts the EGTC Summit Secretariat, the Economic and Social Committee secretariat, the Interreg managing authority, the representation of Rhineland-Palatinate, EuRegio SaarLorLux+, QuattroPole and the Institut de la Grande Région. The University of the Greater Region (UniGR) links 7 universities (including one associated partner) with more than 141,000 students. General information only — see granderegion.net for current details.*
+*Sources: granderegion.net (official website of the Greater Region / Summit Secretariat). The Greater Region: 5 regions, 4 countries, 3 languages — Luxembourg, Lorraine (Grand Est, France), Saarland and Rhineland-Palatinate (Germany), Wallonia, the Wallonia-Brussels Federation and the German-speaking Community of Belgium; 65,401 km²; 11.8 million inhabitants; about 270,000 daily cross-border commuters (the most in Europe). Origins in a 1969 Franco-German commission; Luxembourg joined in 1971; first Summit in Mondorf-les-Bains in 1995; Summit Secretariat created in 2013 (EGTC/GECT under Luxembourg law). The House of the Greater Region (Maison de la Grande Région / Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, opened in 2015 and hosts the EGTC Summit Secretariat, the Economic and Social Committee secretariat, the Interreg managing authority, the representation of Rhineland-Palatinate, EuRegio SaarLorLux+, QuattroPole and the Institut de la Grande Région. The University of the Greater Region (UniGR) links 7 universities (including one associated partner) with more than 141,000 students. General information only — see granderegion.net for current details. Fact-checked 10 November 2026: 11.8 million inhabitants on 1 January 2023 (spoken as 'almost twelve million'); 276,360 cross-border workers in 2024 (IBA-OIE), about 230,000 of them working in Luxembourg (STATEC, Q4 2024); the House began in 1999 as a shared office in Luxembourg City and moved to Esch-sur-Alzette on 17 June 2015; Luxembourg is currently represented at the Summit by a member of the government; cross-border emergency medical aid in some border areas (Franco-Belgian convention 2007); the Biergerpakt is presented on granderegion.net (Discover).*

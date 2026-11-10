@@ -22,15 +22,15 @@
 
 **TOM:** Luxemburg liegt also genau im Zentrum von allem.
 
-**ANNA:** Genau im Herzen. Und sie ist groß. Wir sprechen von mehr als fünfundsechzigtausend Quadratkilometern und über elf Komma acht Millionen Menschen, die dort leben.
+**ANNA:** Genau im Herzen. Und sie ist groß. Wir sprechen von mehr als fünfundsechzigtausend Quadratkilometern und fast zwölf Millionen Menschen, die dort leben.
 
-**TOM:** Elf Komma acht Millionen. Das sind viele Menschen. Und die überqueren ständig diese Grenzen, oder?
+**TOM:** Fast zwölf Millionen. Das sind viele Menschen. Und die überqueren ständig diese Grenzen, oder?
 
 **ANNA:** Ständig. Und hier ist die Zahl, die für Luxemburg wirklich zählt — etwa zweihundertsiebzigtausend Menschen überqueren jeden einzelnen Tag eine Grenze, um zur Arbeit zu fahren.
 
 **TOM:** Zweihundertsiebzigtausend, jeden Tag.
 
-**ANNA:** Jeden Tag. Das ist die höchste Zahl an Grenzgängern in ganz Europa. Und hier noch ein bemerkenswertes Detail — etwa die Hälfte dieser Grenzgänger lebt in Frankreich, und ungefähr drei Viertel von ihnen kommen zum Arbeiten nach Luxemburg.
+**ANNA:** Jeden Tag. Das ist die höchste Zahl an Grenzgängern in ganz Europa. Und hier noch ein bemerkenswertes Detail — mehr als die Hälfte von ihnen lebt in Frankreich, und mehr als vier von fünf kommen zum Arbeiten nach Luxemburg.
 
 **TOM:** Für Luxemburg ist das also keine abstrakte Idee. Die Großregion ist, ganz buchstäblich, wer hier jeden Morgen zur Arbeit kommt.
 
@@ -42,11 +42,11 @@
 
 **TOM:** Und wo ist es?
 
-**ANNA:** Es ist hier in Luxemburg — in Esch-sur-Alzette, im Süden. Am Boulevard J.F. Kennedy. Es wurde zweitausendfünfzehn eröffnet.
+**ANNA:** Es ist hier in Luxemburg — in Esch-sur-Alzette, im Süden. Am Boulevard J.F. Kennedy. Seit zweitausendfünfzehn ist es in Esch. Davor, seit neunzehnhundertneunundneunzig, war es ein kleineres gemeinsames Büro in Luxemburg-Stadt.
 
-**TOM:** Es ist also ziemlich jung — etwa zehn Jahre alt.
+**TOM:** Die Idee ist also älter als das Gebäude.
 
-**ANNA:** Jung, ja. Es wurde als ein Ort der Begegnung, des Austauschs und der Kommunikation geschaffen — ein gemeinsames Dach für all die Menschen, die an der grenzüberschreitenden Zusammenarbeit arbeiten.
+**ANNA:** Genau. Es wurde als ein Ort der Begegnung, des Austauschs und der Kommunikation geschaffen — ein gemeinsames Dach für all die Menschen, die an der grenzüberschreitenden Zusammenarbeit arbeiten.
 
 **TOM:** Statt dass alle über vier Länder verstreut sind, haben sie also ein gemeinsames Haus.
 
@@ -58,9 +58,9 @@
 
 **TOM:** Anna, du hast „Gipfel" gesagt. Das klingt wichtig. Was ist der Gipfel der Großregion?
 
-**ANNA:** Der Gipfel ist der oberste politische Tisch. Dort setzen sich die Spitzen all dieser Regionen zusammen, um die Richtung vorzugeben. Also — der Premierminister von Luxemburg, die Ministerpräsidenten der deutschen Regionen, der Wallonie, die Spitzen von der französischen Seite und so weiter. Sie treffen sich als der Gipfel.
+**ANNA:** Der Gipfel ist der oberste politische Tisch. Dort setzen sich die Spitzen all dieser Regionen zusammen, um die Richtung vorzugeben. Also — ein Mitglied der luxemburgischen Regierung, die Ministerpräsidenten der deutschen Regionen und der Wallonie, Vertreter von der französischen Seite und so weiter. Sie treffen sich als der Gipfel.
 
-**TOM:** Also die tatsächlichen Regierungschefs, an einem Tisch.
+**TOM:** Also die obersten politischen Spitzen, an einem Tisch.
 
 **ANNA:** An einem Tisch. Sie legen die Strategie für die Zusammenarbeit fest. Und der Vorsitz wechselt — jede Region übernimmt abwechselnd den Vorsitz des Gipfels, für vierundzwanzig Monate, jeweils zwei Jahre lang.
 
@@ -106,7 +106,7 @@
 
 **TOM:** Das nächstgelegene Krankenhaus, selbst wenn es in einem anderen Land liegt, kann also dein Krankenhaus sein.
 
-**ANNA:** In diesen Gebieten, ja. Wenn du einen Unfall hast, kommt der nächste Krankenwagen — nicht der nächste Krankenwagen in deinem eigenen Land. Wenn Minuten zählen, ist das alles.
+**ANNA:** In diesen Gebieten, ja. Und an manchen Orten kann bei einem Unfall das Rettungsteam von der anderen Seite der Grenze kommen, wenn es näher ist. Wenn Minuten zählen, ist das alles.
 
 **TOM:** Das ist so eine menschliche Art, über eine Grenze nachzudenken. Okay — was ist mit der Bildung?
 
@@ -134,7 +134,7 @@
 
 **TOM:** Es ist also Stück für Stück gewachsen.
 
-**ANNA:** Stück für Stück. Und ein großer Meilenstein war neunzehnhundertfünfundneunzig — der allererste Gipfel der Spitzen, der hier in Luxemburg stattfand, in Mondorf-les-Bains. Da wurde es wirklich zu einer richtigen Partnerschaft. Und dann, zweitausendfünfzehn, bekam es sein physisches Zuhause — das Haus in Esch.
+**ANNA:** Stück für Stück. Und ein großer Meilenstein war neunzehnhundertfünfundneunzig — der allererste Gipfel der Spitzen, der hier in Luxemburg stattfand, in Mondorf-les-Bains. Da wurde es wirklich zu einer richtigen Partnerschaft. Und dann, zweitausendfünfzehn, bekam es sein größeres Zuhause — das Haus in Esch.
 
 **TOM:** Von einer Idee zwischen zwei Ländern zu vier Ländern mit einem gemeinsamen Haus. Das ist eine ziemliche Reise.
 
@@ -170,11 +170,11 @@
 
 **TOM:** Und drittens?
 
-**ANNA:** Drittens — wenn du mehr erfahren möchtest, gibt es einen Ort, an dem du nachschauen kannst. Die offizielle Website — granderegion Punkt net. Dort findest du die Reiseplaner, die Ausbildungswerkzeuge, die Informationen und den Kontakt zum Haus selbst, in Esch-sur-Alzette.
+**ANNA:** Drittens — wenn du mehr erfahren möchtest, gibt es einen Ort, an dem du nachschauen kannst. Die offizielle Website — granderegion Punkt net. Dort findest du die Reiseplaner, die Ausbildungswerkzeuge, die Informationen und den Kontakt zum Haus selbst, in Esch-sur-Alzette. Und in der Rubrik Entdecken findest du sogar den Biergerpakt.
 
 **TOM:** Eine kurze Zusammenfassung zum Schluss?
 
-**ANNA:** Klar. Die Großregion bringt fünf Regionen in vier Ländern zusammen — Luxemburg, dazu Teile von Frankreich, Deutschland und Belgien — über elf Millionen Menschen und den größten Strom an Grenzgängern in Europa. Sie wird vom Haus der Großregion aus koordiniert, in Esch-sur-Alzette, das zweitausendfünfzehn eröffnet wurde und das Gipfelsekretariat sowie mehrere Partner beherbergt. Gemeinsam machen sie den Alltag über die Grenzen hinweg einfacher — bei der Arbeit, im Verkehr, in der Gesundheit, im Studium und in der Kultur. Und das alles findest du auf granderegion.net.
+**ANNA:** Klar. Die Großregion bringt fünf Regionen in vier Ländern zusammen — Luxemburg, dazu Teile von Frankreich, Deutschland und Belgien — über elf Millionen Menschen und den größten Strom an Grenzgängern in Europa. Sie wird vom Haus der Großregion aus koordiniert, das seit zweitausendfünfzehn in Esch-sur-Alzette ist und das Gipfelsekretariat sowie mehrere Partner beherbergt. Gemeinsam machen sie den Alltag über die Grenzen hinweg einfacher — bei der Arbeit, im Verkehr, in der Gesundheit, im Studium und in der Kultur. Und das alles findest du auf granderegion.net.
 
 **TOM:** Und die Botschaft für heute?
 
@@ -190,4 +190,4 @@
 
 ---
 
-*Quellen: granderegion.net (offizielle Website der Großregion / Gipfelsekretariat). Die Großregion: 5 Regionen, 4 Länder, 3 Sprachen — Luxemburg, Lothringen (Grand Est, Frankreich), Saarland und Rheinland-Pfalz (Deutschland), Wallonie, die Föderation Wallonie-Brüssel und die Deutschsprachige Gemeinschaft Belgiens; 65.401 km²; 11,8 Millionen Einwohner; etwa 270.000 tägliche Grenzgänger (die meisten in Europa). Ursprünge in einer deutsch-französischen Kommission von 1969; Luxemburg trat 1971 bei; erster Gipfel in Mondorf-les-Bains 1995; Gipfelsekretariat 2013 gegründet (EVTZ/GECT nach luxemburgischem Recht). Das Haus der Großregion (Maison de la Grande Région / Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, wurde 2015 eröffnet und beherbergt das EVTZ-Gipfelsekretariat, das Sekretariat des Wirtschafts- und Sozialausschusses, die Interreg-Verwaltungsbehörde, die Vertretung von Rheinland-Pfalz, EuRegio SaarLorLux+, QuattroPole und das Institut der Großregion. Die Universität der Großregion (UniGR) verbindet 7 Universitäten (davon ein assoziierter Partner) mit mehr als 141.000 Studierenden. Nur allgemeine Informationen — aktuelle Details siehe granderegion.net.*
+*Quellen: granderegion.net (offizielle Website der Großregion / Gipfelsekretariat). Die Großregion: 5 Regionen, 4 Länder, 3 Sprachen — Luxemburg, Lothringen (Grand Est, Frankreich), Saarland und Rheinland-Pfalz (Deutschland), Wallonie, die Föderation Wallonie-Brüssel und die Deutschsprachige Gemeinschaft Belgiens; 65.401 km²; 11,8 Millionen Einwohner; etwa 270.000 tägliche Grenzgänger (die meisten in Europa). Ursprünge in einer deutsch-französischen Kommission von 1969; Luxemburg trat 1971 bei; erster Gipfel in Mondorf-les-Bains 1995; Gipfelsekretariat 2013 gegründet (EVTZ/GECT nach luxemburgischem Recht). Das Haus der Großregion (Maison de la Grande Région / Haus der Großregion), 11 boulevard J.F. Kennedy, Esch-sur-Alzette, wurde 2015 eröffnet und beherbergt das EVTZ-Gipfelsekretariat, das Sekretariat des Wirtschafts- und Sozialausschusses, die Interreg-Verwaltungsbehörde, die Vertretung von Rheinland-Pfalz, EuRegio SaarLorLux+, QuattroPole und das Institut der Großregion. Die Universität der Großregion (UniGR) verbindet 7 Universitäten (davon ein assoziierter Partner) mit mehr als 141.000 Studierenden. Nur allgemeine Informationen — aktuelle Details siehe granderegion.net. Geprüft am 10. November 2026: 11,8 Millionen Einwohner am 1. Januar 2023 (gesprochen „fast zwölf Millionen“); 276.360 Grenzgänger im Jahr 2024 (IBA-OIE), davon rund 230.000 in Luxemburg beschäftigt (STATEC, 4. Quartal 2024); das Haus war seit 1999 ein gemeinsames Büro in Luxemburg-Stadt und zog am 17. Juni 2015 nach Esch-sur-Alzette; Luxemburg ist beim Gipfel derzeit durch ein Regierungsmitglied vertreten; grenzüberschreitende Notfallhilfe in manchen Grenzgebieten (französisch-belgisches Abkommen 2007); der Biergerpakt wird auf granderegion.net vorgestellt (Entdecken).*

@@ -7,3 +7,6 @@ build/el_test/
 __pycache__/
 build/__pycache__/
 archive/**/*.mp3
+
+# Partner contact list (personal data, keep out of the public repo)
+Biergerpakt_Podcast_Contacts_relecture.xlsx
