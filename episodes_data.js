@@ -6362,11 +6362,11 @@ const EPISODES = [
     "text": "How is a volunteer defined in the episode?",
     "options": [
      "A paid part-time worker who is employed by a charity or association and receives a small salary for their time",
-     "Someone who, of their own free will and without being paid, does something in the service of others or of the community",
      "A government employee who is asked by the State to help in communes, schools and hospitals as part of their job",
+     "Someone who, of their own free will and without being paid, does something in the service of others or of the community",
      "Someone who is required to help the community, for example by a court order or as a condition for receiving benefits"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "A volunteer gives the time they want – a little, a lot, or passionately – of their own free will and without being paid, in the service of others or of the community."
    },
    {
@@ -6374,43 +6374,43 @@ const EPISODES = [
     "options": [
      "About 5% – one person in twenty, placing Luxembourg near the bottom in Europe",
      "About 70% – more than two people in three, the highest share in the whole of Europe",
-     "About 35% – more than one person in three, placing Luxembourg fourth in Europe",
-     "About 10% – one person in ten, roughly the European average at that time"
+     "About 10% – one person in ten, roughly the European average at that time",
+     "About 35% – more than one person in three, placing Luxembourg fourth in Europe"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "In 2022 about 35% of the population volunteered – more than one in three – which put Luxembourg fourth in all of Europe. There is even a Volunteering Day every 5 December."
    },
    {
     "text": "What is the central organisation and website for volunteering in Luxembourg?",
     "options": [
-     "The Agence du Bénévolat, with its website benevolat.lu",
      "The town hall of each commune, with no central website",
+     "The Agence du Bénévolat, with its website benevolat.lu",
      "ADEM, the employment agency, with its website adem.lu",
      "The Ministry of Finance, through the MyGuichet.lu portal"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "The Agence du Bénévolat promotes volunteering since 2002. Its website benevolat.lu is a meeting point where associations looking for help and people who want to give time find each other."
    },
    {
     "text": "Do you need a long-term commitment to volunteer?",
     "options": [
      "Yes – you must commit to full weekends for a whole year, because associations need to plan their teams",
-     "No – you give the time you want, and many missions are one-time or short (an afternoon, a day, an event)",
      "Yes, at least one year – short missions of an afternoon or a day are not counted as volunteering",
+     "No – you give the time you want, and many missions are one-time or short (an afternoon, a day, an event)",
      "Yes, at least three months, with a signed contract and a fixed number of hours every single week"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "You do not need a long commitment. Many missions on benevolat.lu are for a single event or a single day – helping at a gala, marshalling a race, helping at a summer party – so anyone with a busy life can take part."
    },
    {
     "text": "What simple method does the episode suggest for getting started as a volunteer?",
     "options": [
+     "Think about what you enjoy, register for free on benevolat.lu, and offer your help for a mission you like",
      "Sign a one-year contract with an association first, then wait to be told which mission you will do",
      "Wait until an organisation contacts you by post, since volunteers are chosen from the national register",
-     "Apply for a paid position at the Agence du Bénévolat and follow its training before helping anywhere",
-     "Think about what you enjoy, register for free on benevolat.lu, and offer your help for a mission you like"
+     "Apply for a paid position at the Agence du Bénévolat and follow its training before helping anywhere"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "The Agence du Bénévolat suggests: first think about what cause, activity and time suit you; then register for free on benevolat.lu; then browse the missions and offer your help. The organisation then contacts you."
    }
   ],
@@ -8009,11 +8009,11 @@ const EPISODES = [
     "text": "Comment un bénévole est-il défini dans l'épisode ?",
     "options": [
      "Un travailleur à temps partiel employé par une œuvre caritative ou une association, qui reçoit un petit salaire pour son temps",
-     "Une personne qui, de son plein gré et sans être payée, fait quelque chose au service des autres ou de la communauté",
      "Un fonctionnaire à qui l'État demande d'aider dans les communes, les écoles et les hôpitaux dans le cadre de son travail",
+     "Une personne qui, de son plein gré et sans être payée, fait quelque chose au service des autres ou de la communauté",
      "Quelqu'un qui est obligé d'aider la communauté, par exemple sur décision d'un tribunal ou comme condition pour toucher des aides"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Un bénévole donne le temps qu'il veut – un peu, beaucoup, ou passionnément – de son plein gré et sans être payé, au service des autres ou de la communauté."
    },
    {
@@ -8021,43 +8021,43 @@ const EPISODES = [
     "options": [
      "Environ 5 % – à peine une personne sur vingt, ce qui place le Luxembourg parmi les derniers pays d'Europe",
      "Environ 70 % – plus de deux personnes sur trois, la part la plus élevée de toute l'Europe",
-     "Environ 35 % – plus d'une personne sur trois, plaçant le Luxembourg au quatrième rang en Europe",
-     "Environ 10 % – une personne sur dix, à peu près la moyenne européenne à ce moment-là"
+     "Environ 10 % – une personne sur dix, à peu près la moyenne européenne à ce moment-là",
+     "Environ 35 % – plus d'une personne sur trois, plaçant le Luxembourg au quatrième rang en Europe"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "En 2022, environ 35 % de la population a fait du bénévolat – plus d'une personne sur trois – ce qui place le Luxembourg au quatrième rang de toute l'Europe. Il existe même une Journée du bénévolat chaque 5 décembre."
    },
    {
     "text": "Quels sont l'organisation centrale et le site internet du bénévolat au Luxembourg ?",
     "options": [
-     "L'Agence du Bénévolat, avec son site benevolat.lu",
      "La maison communale de chaque commune, sans site central",
+     "L'Agence du Bénévolat, avec son site benevolat.lu",
      "L'ADEM, l'agence pour l'emploi, avec son site adem.lu",
      "Le ministère des Finances, via le portail MyGuichet.lu"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "L'Agence du Bénévolat promeut le bénévolat depuis 2002. Son site benevolat.lu est un point de rencontre où les associations qui cherchent de l'aide et les personnes qui veulent donner du temps se trouvent."
    },
    {
     "text": "Faut-il un engagement à long terme pour faire du bénévolat ?",
     "options": [
      "Oui – il faut s'engager des week-ends entiers pendant toute une année, car les associations doivent planifier leurs équipes longtemps à l'avance",
-     "Non – vous donnez le temps que vous voulez, et beaucoup de missions sont ponctuelles ou courtes (un après-midi, une journée, un événement)",
      "Oui, au moins un an – les missions courtes d'un après-midi ou d'une journée ne comptent pas comme du bénévolat",
+     "Non – vous donnez le temps que vous voulez, et beaucoup de missions sont ponctuelles ou courtes (un après-midi, une journée, un événement)",
      "Oui, au moins trois mois, avec un contrat signé et un nombre d'heures fixe chaque semaine"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Vous n'avez pas besoin d'un engagement long. Beaucoup de missions sur benevolat.lu concernent un seul événement ou une seule journée – aider à un gala, être signaleur pour une course, donner un coup de main à une fête d'été – donc toute personne avec une vie bien remplie peut participer."
    },
    {
     "text": "Quelle méthode simple l'épisode propose-t-il pour commencer le bénévolat ?",
     "options": [
+     "Réfléchir à ce que vous aimez, vous inscrire gratuitement sur benevolat.lu, et proposer votre aide pour une mission qui vous plaît",
      "Signer d'abord un contrat d'un an avec une association, puis attendre qu'on vous dise quelle mission vous ferez",
      "Attendre qu'une organisation vous contacte par courrier, car les bénévoles sont choisis au hasard dans le registre national des résidents",
-     "Postuler à un poste rémunéré à l'Agence du Bénévolat et suivre sa formation avant d'aider où que ce soit",
-     "Réfléchir à ce que vous aimez, vous inscrire gratuitement sur benevolat.lu, et proposer votre aide pour une mission qui vous plaît"
+     "Postuler à un poste rémunéré à l'Agence du Bénévolat et suivre sa formation avant d'aider où que ce soit"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "L'Agence du Bénévolat suggère : d'abord réfléchir à la cause, l'activité et le temps qui vous conviennent ; ensuite vous inscrire gratuitement sur benevolat.lu ; puis parcourir les missions et proposer votre aide. L'organisation vous contacte ensuite."
    }
   ],
@@ -8080,11 +8080,11 @@ const EPISODES = [
     "text": "Wie wird ein Freiwilliger in der Folge definiert?",
     "options": [
      "Eine bezahlte Teilzeitkraft, die bei einer Hilfsorganisation oder einem Verein angestellt ist und ein kleines Gehalt bekommt",
-     "Jemand, der aus freiem Willen und ohne bezahlt zu werden etwas im Dienst anderer oder der Gemeinschaft tut",
      "Ein Staatsbeamter, der im Rahmen seiner Arbeit vom Staat gebeten wird, in Gemeinden, Schulen und Krankenhäusern zu helfen",
+     "Jemand, der aus freiem Willen und ohne bezahlt zu werden etwas im Dienst anderer oder der Gemeinschaft tut",
      "Jemand, der der Gemeinschaft helfen muss, zum Beispiel auf gerichtliche Anordnung oder als Bedingung für staatliche Leistungen"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Ein Freiwilliger gibt die Zeit, die er möchte – ein wenig, viel, oder mit Leidenschaft – aus freiem Willen und ohne bezahlt zu werden, im Dienst anderer oder der Gemeinschaft."
    },
    {
@@ -8092,43 +8092,43 @@ const EPISODES = [
     "options": [
      "Etwa 5 % – jeder Zwanzigste, womit Luxemburg zu den Schlusslichtern in Europa gehört",
      "Etwa 70 % – mehr als zwei von drei Menschen, der höchste Anteil in ganz Europa",
-     "Etwa 35 % – mehr als jeder Dritte, was Luxemburg auf Platz vier in Europa bringt",
-     "Etwa 10 % – jeder Zehnte, ungefähr der europäische Durchschnitt zu dieser Zeit"
+     "Etwa 10 % – jeder Zehnte, ungefähr der europäische Durchschnitt zu dieser Zeit",
+     "Etwa 35 % – mehr als jeder Dritte, was Luxemburg auf Platz vier in Europa bringt"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "2022 haben etwa 35 % der Bevölkerung Freiwilligenarbeit geleistet – mehr als jeder Dritte – was Luxemburg auf Platz vier in ganz Europa brachte. Es gibt sogar jedes Jahr am 5. Dezember einen Tag des Ehrenamts."
    },
    {
     "text": "Was ist die zentrale Organisation und Website für Freiwilligenarbeit in Luxemburg?",
     "options": [
-     "Die Agence du Bénévolat, mit ihrer Website benevolat.lu",
      "Das Rathaus jeder Gemeinde, ohne zentrale Website",
+     "Die Agence du Bénévolat, mit ihrer Website benevolat.lu",
      "Die ADEM, die Arbeitsagentur, mit ihrer Website adem.lu",
      "Das Finanzministerium, über das Portal MyGuichet.lu"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Die Agence du Bénévolat fördert die Freiwilligenarbeit seit 2002. Ihre Website benevolat.lu ist ein Treffpunkt, an dem Vereine, die Hilfe suchen, und Menschen, die Zeit geben möchten, zueinanderfinden."
    },
    {
     "text": "Brauchen Sie eine langfristige Verpflichtung, um sich freiwillig zu engagieren?",
     "options": [
      "Ja – Sie müssen sich ein ganzes Jahr lang für ganze Wochenenden verpflichten, weil die Vereine ihre Teams lange im Voraus planen müssen",
-     "Nein – Sie geben die Zeit, die Sie möchten, und viele Einsätze sind einmalig oder kurz (ein Nachmittag, ein Tag, eine Veranstaltung)",
      "Ja, mindestens ein Jahr – kurze Einsätze von einem Nachmittag oder einem Tag gelten nicht als Freiwilligenarbeit",
+     "Nein – Sie geben die Zeit, die Sie möchten, und viele Einsätze sind einmalig oder kurz (ein Nachmittag, ein Tag, eine Veranstaltung)",
      "Ja, mindestens drei Monate, mit einem unterschriebenen Vertrag und einer festen Stundenzahl jede Woche"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Sie brauchen keine langfristige Verpflichtung. Viele Einsätze auf benevolat.lu gelten für eine einzige Veranstaltung oder einen einzigen Tag – bei einer Gala helfen, Streckenposten bei einem Rennen sein, bei einem Sommerfest mithelfen – so kann jeder mit einem vollen Alltag mitmachen."
    },
    {
     "text": "Welche einfache Methode schlägt die Folge vor, um als Freiwilliger anzufangen?",
     "options": [
+     "Überlegen, was Ihnen Freude macht, sich kostenlos auf benevolat.lu registrieren, und Ihre Hilfe für einen Einsatz anbieten, der Ihnen gefällt",
      "Zuerst einen Einjahresvertrag mit einem Verein unterschreiben und dann warten, welcher Einsatz Ihnen zugeteilt wird",
      "Warten, bis eine Organisation Sie per Post kontaktiert, da Freiwillige aus dem nationalen Register ausgewählt werden",
-     "Sich auf eine bezahlte Stelle bei der Agence du Bénévolat bewerben und deren mehrwöchige Schulung machen, bevor Sie irgendwo helfen dürfen",
-     "Überlegen, was Ihnen Freude macht, sich kostenlos auf benevolat.lu registrieren, und Ihre Hilfe für einen Einsatz anbieten, der Ihnen gefällt"
+     "Sich auf eine bezahlte Stelle bei der Agence du Bénévolat bewerben und deren mehrwöchige Schulung machen, bevor Sie irgendwo helfen dürfen"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "Die Agence du Bénévolat schlägt vor: Überlegen Sie zuerst, welche Sache, Aktivität und Zeit zu Ihnen passen; registrieren Sie sich dann kostenlos auf benevolat.lu; schauen Sie die Einsätze durch und bieten Sie Ihre Hilfe an. Die Organisation meldet sich dann bei Ihnen."
    }
   ],
@@ -8152,11 +8152,11 @@ const EPISODES = [
     "text": "Wéi gëtt e Benevole an der Episod definéiert?",
     "options": [
      "Eng bezuelten Hallefzäitkraaft, déi bei enger karitativer Organisatioun oder engem Veräin ugestallt ass an e klenge Loun kritt",
-     "Een, deen aus fräie Stécker an ouni bezuelt ze ginn eppes am Déngscht vun aneren oder vun der Gemeinschaft mécht",
      "E Staatsbeamten, deen am Kader vu senger Aarbecht vum Staat gefrot gëtt, an de Gemengen, Schoulen a Spideeler ze hëllefen",
+     "Een, deen aus fräie Stécker an ouni bezuelt ze ginn eppes am Déngscht vun aneren oder vun der Gemeinschaft mécht",
      "Een, deen der Gemeinschaft muss hëllefen, zum Beispill op Uerder vun engem Geriicht oder als Konditioun fir Hëllefen ze kréien"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "E Benevole gëtt d'Zäit, déi e wëllt – e bëssen, vill, oder mat Passioun – aus fräie Stécker an ouni bezuelt ze ginn, am Déngscht vun aneren oder vun der Gemeinschaft."
    },
    {
@@ -8164,43 +8164,43 @@ const EPISODES = [
     "options": [
      "Ongeféier 5 % – eng Persoun vun zwanzeg, domat ass Lëtzebuerg bei de Leschten an Europa",
      "Ongeféier 70 % – méi wéi zwou Persoune vun dräi, den héchsten Undeel an ganz Europa",
-     "Ongeféier 35% – méi wéi eng Persoun op dräi, wat Lëtzebuerg op déi véiert Plaz an Europa setzt",
-     "Ongeféier 10 % – eng Persoun vun zéng, ongeféier den europäeschen Duerchschnëtt zu där Zäit"
+     "Ongeféier 10 % – eng Persoun vun zéng, ongeféier den europäeschen Duerchschnëtt zu där Zäit",
+     "Ongeféier 35% – méi wéi eng Persoun op dräi, wat Lëtzebuerg op déi véiert Plaz an Europa setzt"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Am Joer 2022 hunn ongeféier 35% vun der Bevëlkerung Benevolat gemaach – méi wéi eng Persoun op dräi – wat Lëtzebuerg op déi véiert Plaz a ganz Europa gesat huet. Et gëtt souguer all 5. Dezember en Dag vum Benevolat."
    },
    {
     "text": "Wat ass déi zentral Organisatioun a Websäit fir de Benevolat zu Lëtzebuerg?",
     "options": [
-     "D'Agence du Bénévolat, mat hirer Websäit benevolat.lu",
      "D'Gemengenhaus vun all Gemeng, ouni zentral Websäit",
+     "D'Agence du Bénévolat, mat hirer Websäit benevolat.lu",
      "D'ADEM, d'Aarbechtsagence, mat hirer Websäit adem.lu",
      "De Finanzministère, iwwer de Portal MyGuichet.lu"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "D'Agence du Bénévolat promouvéiert de Benevolat zanter 2002. Hir Websäit benevolat.lu ass eng Treffplaz, wou Associatiounen, déi Hëllef sichen, a Leit, déi Zäit gi wëllen, sech fannen."
    },
    {
     "text": "Braucht Dir e laangfristegt Engagement, fir Benevolat ze maachen?",
     "options": [
      "Jo – Dir musst Iech e ganzt Joer fir ganz Weekender engagéieren, well d'Veräiner hir Ekippe laang am Viraus musse plangen",
-     "Nee – Dir gitt d'Zäit, déi Dir wëllt, a vill Missioune sinn eemoleg oder kuerz (een Nomëtteg, een Dag, een Evenement)",
      "Jo, op d'mannst ee Joer – kuerz Missioune vun engem Nomëtteg oder engem Dag zielen net als Benevolat",
+     "Nee – Dir gitt d'Zäit, déi Dir wëllt, a vill Missioune sinn eemoleg oder kuerz (een Nomëtteg, een Dag, een Evenement)",
      "Jo, op d'mannst dräi Méint, mat engem ënnerschriwwene Kontrakt an enger fixer Zuel u Stonnen all Woch"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Dir braucht kee laangt Engagement. Vill Missiounen op benevolat.lu si fir een eenzegt Evenement oder een eenzegen Dag – bei engem Gala hëllefen, Commissaire bei engem Rennen sinn, bei engem Summerfest mat upaken – sou datt jiddereen mat engem voller Alldag ka matmaachen."
    },
    {
     "text": "Wéi eng einfach Method proposéiert d'Episod, fir als Benevole unzefänken?",
     "options": [
+     "Iwwerleeën, wat Iech Freed mécht, Iech gratis op benevolat.lu umellen, an Är Hëllef fir eng Missioun ubidden, déi Iech gefält",
      "Fir d'éischt e Kontrakt vun engem Joer mat engem Veräin ënnerschreiwen, an dann ofwaarden, wéi eng Missioun Dir kritt",
      "Waarden, bis eng Organisatioun Iech per Post kontaktéiert, well d'Fräiwëlleg aus dem nationale Register ausgewielt ginn",
-     "Sech fir eng bezuelte Plaz bei der Agence du Bénévolat mellen an hir Formatioun vu puer Wochen maachen, ier Dir iergendwou hëllefe kënnt",
-     "Iwwerleeën, wat Iech Freed mécht, Iech gratis op benevolat.lu umellen, an Är Hëllef fir eng Missioun ubidden, déi Iech gefält"
+     "Sech fir eng bezuelte Plaz bei der Agence du Bénévolat mellen an hir Formatioun vu puer Wochen maachen, ier Dir iergendwou hëllefe kënnt"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "D'Agence du Bénévolat proposéiert: iwwerleet fir d'éischt, wéi eng Saach, wéi eng Aktivitéit a wéi vill Zäit zu Iech passen; mellt Iech dann gratis op benevolat.lu un; kuckt duerch d'Missiounen a bitt Är Hëllef un. D'Organisatioun kontaktéiert Iech dann."
    }
   ]
@@ -8796,43 +8796,43 @@ const EPISODES = [
     "options": [
      "An online shop for baby products, run by the State, where parents can buy equipment at lower prices",
      "A school for children aged 3 to 12, where parents can also attend lessons in the evening",
-     "A “parents’ forum” – a welcoming place for discussion, information and support for all parents",
-     "A political party for parents that campaigns for more childcare places and family allowances"
+     "A political party for parents that campaigns for more childcare places and family allowances",
+     "A “parents’ forum” – a welcoming place for discussion, information and support for all parents"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "“Elteren” means parents and “Forum” a place to meet, so Eltereforum is a parents’ forum: a friendly, generalist place where any parent can ask questions, learn and meet other parents – no special reason needed."
    },
    {
     "text": "Who coordinates the Eltereforum?",
     "options": [
      "A single local parents' association in Luxembourg City, which runs all the forums as volunteers",
-     "The Ministry of Education, Children and Youth – it is a public service of the Luxembourg State",
      "The national health insurance (CNS), as part of its prevention programme for young families",
+     "The Ministry of Education, Children and Youth – it is a public service of the Luxembourg State",
      "A private company that organises courses for parents and charges a fee for each activity"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The Eltereforum is coordinated by the Ministry of Education, Children and Youth, with the guiding idea “Strong parents, strong children” – supported, confident parents help their children do better."
    },
    {
     "text": "From when does the Eltereforum support parents?",
     "options": [
+     "From the start of the “parental project” – even before birth – all the way until the child is grown",
      "Only during the teenage years, when questions about school, screens and friendships become harder",
      "Only once the child starts school, because before that families are followed by the maternity ward",
-     "Only from ages 0 to 3 – after that, parents are sent to the school's own support services",
-     "From the start of the “parental project” – even before birth – all the way until the child is grown"
+     "Only from ages 0 to 3 – after that, parents are sent to the school's own support services"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "It supports parents along the whole journey: from when you are planning or expecting a baby, through every stage of childhood, until the child becomes an adult."
    },
    {
     "text": "What happens if a parent comes with a serious, specific problem that the Eltereforum cannot treat itself?",
     "options": [
-     "The team listens and guides them to the right specialised service",
      "They are asked to come back later, once the problem has become less serious",
+     "The team listens and guides them to the right specialised service",
      "Its own doctors provide medical therapy and treatment on site",
      "Nothing — the Eltereforum only organises social events and parties for parents"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "The Eltereforum is generalist — it does not give specialised treatment. But the team listens and points you to the right specialised service, so it is also a door that sends you in the right direction."
    },
    {
@@ -8840,10 +8840,10 @@ const EPISODES = [
     "options": [
      "An online shop for children's clothes and toys, with discounts reserved for members of the forums",
      "Only the phone number of the Ministry – the activities themselves are announced by post to each family",
-     "An information platform with the agenda of all activities, evenings and courses at the different forums",
-     "A social network reserved for teachers, where they discuss pupils' progress with each other"
+     "A social network reserved for teachers, where they discuss pupils' progress with each other",
+     "An information platform with the agenda of all activities, evenings and courses at the different forums"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "eltereforum.lu is an information platform in itself, and its agenda shows the calendar of all activities, evenings and courses at the different regional forums — so you can see what is happening near you."
    }
   ],
@@ -10208,43 +10208,43 @@ const EPISODES = [
     "options": [
      "Une boutique en ligne de produits pour bébés, gérée par l'État, où les parents achètent du matériel moins cher",
      "Une école pour les enfants de 3 à 12 ans, où les parents peuvent aussi suivre des cours le soir",
-     "Un « forum des parents » – un lieu accueillant d'échange, d'information et de soutien pour tous les parents",
-     "Un parti politique de parents qui milite pour plus de places d'accueil et d'allocations familiales"
+     "Un parti politique de parents qui milite pour plus de places d'accueil et d'allocations familiales",
+     "Un « forum des parents » – un lieu accueillant d'échange, d'information et de soutien pour tous les parents"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "« Elteren » signifie parents et « Forum » un lieu de rencontre, donc Eltereforum est un forum des parents : un lieu convivial et généraliste où chaque parent peut poser des questions, apprendre et rencontrer d'autres parents – sans avoir besoin d'une raison particulière."
    },
    {
     "text": "Qui coordonne l'Eltereforum ?",
     "options": [
      "Une seule association locale de parents de Luxembourg-Ville, qui gère tous les forums du pays de manière entièrement bénévole",
-     "Le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse – c'est un service public de l'État luxembourgeois",
      "La Caisse nationale de santé (CNS), dans le cadre de son programme de prévention pour les jeunes familles",
+     "Le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse – c'est un service public de l'État luxembourgeois",
      "Une entreprise privée qui organise des cours pour parents et fait payer chaque activité"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "L'Eltereforum est coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse, avec l'idée directrice « Parents forts, enfants forts » – des parents soutenus et confiants aident leurs enfants à mieux s'épanouir."
    },
    {
     "text": "À partir de quand l'Eltereforum soutient-il les parents ?",
     "options": [
+     "Dès le début du « projet parental » – même avant la naissance – et jusqu'à ce que l'enfant devienne adulte",
      "Seulement pendant l'adolescence, quand les questions sur l'école, les écrans et les amitiés deviennent plus difficiles",
      "Seulement à partir de l'entrée à l'école, car avant, les familles sont suivies par la maternité",
-     "Seulement de 0 à 3 ans – ensuite, les parents sont envoyés vers les services de soutien de l'école",
-     "Dès le début du « projet parental » – même avant la naissance – et jusqu'à ce que l'enfant devienne adulte"
+     "Seulement de 0 à 3 ans – ensuite, les parents sont envoyés vers les services de soutien de l'école"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "Il soutient les parents tout au long du parcours : dès que vous planifiez ou attendez un bébé, à travers toutes les étapes de l'enfance, jusqu'à ce que l'enfant devienne adulte."
    },
    {
     "text": "Que se passe-t-il si un parent vient avec un problème sérieux et spécifique que l'Eltereforum ne peut pas traiter lui-même ?",
     "options": [
-     "L'équipe l'écoute et l'oriente vers le bon service spécialisé",
      "On leur demande de revenir plus tard, quand le problème sera moins grave",
+     "L'équipe l'écoute et l'oriente vers le bon service spécialisé",
      "Ses propres médecins proposent une thérapie et des soins sur place",
      "Rien — l'Eltereforum organise seulement des rencontres festives pour les parents"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "L'Eltereforum est généraliste — il ne propose pas de traitement spécialisé. Mais l'équipe vous écoute et vous indique le bon service spécialisé ; c'est donc aussi une porte qui vous envoie dans la bonne direction."
    },
    {
@@ -10252,10 +10252,10 @@ const EPISODES = [
     "options": [
      "Une boutique en ligne de vêtements et de jouets pour enfants, avec des réductions réservées aux membres des forums",
      "Seulement le numéro de téléphone du ministère – les activités elles-mêmes sont annoncées par courrier à chaque famille",
-     "Une plateforme d'information avec l'agenda de toutes les activités, soirées et cours des différents forums",
-     "Un réseau social réservé aux enseignants, où ils discutent entre eux des progrès des élèves"
+     "Un réseau social réservé aux enseignants, où ils discutent entre eux des progrès des élèves",
+     "Une plateforme d'information avec l'agenda de toutes les activités, soirées et cours des différents forums"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "eltereforum.lu est une plateforme d'information en soi, et son agenda montre le calendrier de toutes les activités, soirées et cours des différents forums régionaux — vous pouvez donc voir ce qui se passe près de chez vous."
    }
   ],
@@ -10279,43 +10279,43 @@ const EPISODES = [
     "options": [
      "Ein staatlicher Online-Shop für Babyprodukte, in dem Eltern Ausstattung günstiger kaufen können",
      "Eine Schule für Kinder von 3 bis 12 Jahren, in der auch die Eltern abends Unterricht besuchen können",
-     "Ein „Elternforum“ – ein einladender Ort für Austausch, Information und Unterstützung für alle Eltern",
-     "Eine politische Partei für Eltern, die sich für mehr Betreuungsplätze und Familienleistungen einsetzt"
+     "Eine politische Partei für Eltern, die sich für mehr Betreuungsplätze und Familienleistungen einsetzt",
+     "Ein „Elternforum“ – ein einladender Ort für Austausch, Information und Unterstützung für alle Eltern"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "„Elteren“ bedeutet Eltern und „Forum“ ein Ort der Begegnung – das Eltereforum ist also ein Elternforum: ein freundlicher, generalistischer Ort, an dem alle Eltern Fragen stellen, lernen und andere Eltern treffen können – ohne besonderen Grund."
    },
    {
     "text": "Wer koordiniert das Eltereforum?",
     "options": [
      "Ein einziger lokaler Elternverein in Luxemburg-Stadt, der alle Foren ehrenamtlich betreibt",
-     "Das Ministerium für Bildung, Kinder und Jugend – es ist ein öffentlicher Dienst des luxemburgischen Staates",
      "Die nationale Gesundheitskasse (CNS), im Rahmen ihres Präventionsprogramms für junge Familien",
+     "Das Ministerium für Bildung, Kinder und Jugend – es ist ein öffentlicher Dienst des luxemburgischen Staates",
      "Ein privates Unternehmen, das Kurse für Eltern organisiert und für jede einzelne Aktivität Geld verlangt"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Das Eltereforum wird vom Ministerium für Bildung, Kinder und Jugend koordiniert, mit dem Leitgedanken „Starke Eltern, starke Kinder“ – unterstützte, selbstsichere Eltern helfen auch ihren Kindern."
    },
    {
     "text": "Ab wann unterstützt das Eltereforum Eltern?",
     "options": [
+     "Ab dem Beginn des „Elternprojekts“ – schon vor der Geburt – den ganzen Weg, bis das Kind erwachsen ist",
      "Nur in der Jugendzeit, wenn Fragen zu Schule, Bildschirmen und Freundschaften schwieriger werden",
      "Erst ab dem Schulbeginn des Kindes, weil Familien vorher von der Entbindungsstation betreut werden",
-     "Nur von 0 bis 3 Jahren – danach werden die Eltern an die eigenen Unterstützungsdienste der Schule verwiesen",
-     "Ab dem Beginn des „Elternprojekts“ – schon vor der Geburt – den ganzen Weg, bis das Kind erwachsen ist"
+     "Nur von 0 bis 3 Jahren – danach werden die Eltern an die eigenen Unterstützungsdienste der Schule verwiesen"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "Es unterstützt Eltern auf der ganzen Reise: von der Planung oder Erwartung eines Babys, durch alle Phasen der Kindheit, bis das Kind erwachsen ist."
    },
    {
     "text": "Was passiert, wenn Eltern mit einem ernsten, speziellen Problem kommen, das das Eltereforum selbst nicht behandeln kann?",
     "options": [
-     "Das Team hört zu und begleitet sie zum richtigen spezialisierten Dienst",
      "Sie werden gebeten, später wiederzukommen, wenn das Problem weniger ernst ist",
+     "Das Team hört zu und begleitet sie zum richtigen spezialisierten Dienst",
      "Seine eigenen Ärzte bieten vor Ort eine medizinische Therapie und Behandlung an",
      "Nichts — das Eltereforum organisiert nur gesellige Treffen und Feste für Eltern"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Das Eltereforum ist generalistisch — es bietet keine spezialisierte Behandlung an. Aber das Team hört zu und zeigt Ihnen den richtigen spezialisierten Dienst, es ist also auch eine Tür, die Sie in die richtige Richtung schickt."
    },
    {
@@ -10323,10 +10323,10 @@ const EPISODES = [
     "options": [
      "Ein Online-Shop für Kinderkleidung und Spielzeug, mit Rabatten nur für Mitglieder der Foren",
      "Nur die Telefonnummer des Ministeriums – die Aktivitäten selbst werden jeder Familie per Post angekündigt",
-     "Eine Informationsplattform mit der Agenda aller Aktivitäten, Abende und Kurse in den verschiedenen Foren",
-     "Ein soziales Netzwerk nur für Lehrkräfte, in dem sie sich über die Fortschritte der Schüler austauschen"
+     "Ein soziales Netzwerk nur für Lehrkräfte, in dem sie sich über die Fortschritte der Schüler austauschen",
+     "Eine Informationsplattform mit der Agenda aller Aktivitäten, Abende und Kurse in den verschiedenen Foren"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "eltereforum.lu ist selbst eine Informationsplattform, und die Agenda zeigt den Kalender aller Aktivitäten, Abende und Kurse in den verschiedenen regionalen Foren — so sehen Sie, was in Ihrer Nähe passiert."
    }
   ],
@@ -10351,43 +10351,43 @@ const EPISODES = [
     "options": [
      "En Online-Buttek fir Bebeesprodukter, vum Staat geréiert, wou Elteren Equipement a Kleeder méi bëlleg kafe kënnen",
      "Eng Schoul fir Kanner vun 3 bis 12 Joer, wou d'Elteren owes och Coursë besiche kënnen",
-     "E \"Forum fir Elteren\" – eng wëllkommend Plaz fir Austausch, Informatioun an Ënnerstëtzung fir all Elteren",
-     "Eng politesch Partei fir Elteren, déi sech fir méi Betreiungsplazen a Familljenallocatiounen asetzt"
+     "Eng politesch Partei fir Elteren, déi sech fir méi Betreiungsplazen a Familljenallocatiounen asetzt",
+     "E \"Forum fir Elteren\" – eng wëllkommend Plaz fir Austausch, Informatioun an Ënnerstëtzung fir all Elteren"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "\"Elteren\" si Mamm a Papp, an e \"Forum\" ass eng Plaz fir sech ze treffen. Den Eltereforum ass also e Forum fir Elteren: eng frëndlech, generalistesch Plaz, wou all Elterendeel Froe stellen, léieren an aner Elteren treffe kann – ouni speziellen Grond."
    },
    {
     "text": "Wie koordinéiert den Eltereforum?",
     "options": [
      "Eng eenzeg lokal Elterevereenegung an der Stad Lëtzebuerg, déi all d'Foren op fräiwëlleger Basis organiséiert",
-     "De Ministère fir Educatioun, Kanner a Jugend – et ass en ëffentleche Service vum Lëtzebuerger Staat",
      "D'national Gesondheetskeess (CNS), am Kader vun hirem Präventiounsprogramm fir jonk Familljen",
+     "De Ministère fir Educatioun, Kanner a Jugend – et ass en ëffentleche Service vum Lëtzebuerger Staat",
      "Eng privat Firma, déi Coursen fir Elteren organiséiert a fir all Aktivitéit Suen hëlt"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Den Eltereforum gëtt vum Ministère fir Educatioun, Kanner a Jugend koordinéiert, mat der Leetiddi \"Staark Elteren, staark Kanner\" – ënnerstëtzten, séchere Elteren hëllefen hire Kanner, et besser ze hunn."
    },
    {
     "text": "Vu wéini un ënnerstëtzt den Eltereforum d'Elteren?",
     "options": [
+     "Vum Ufank vum \"Projet als Elteren\" un – souguer virun der Gebuert – bis d'Kand grouss ass",
      "Just während der Pubertéit, wann d'Froen iwwer d'Schoul, d'Ecranen an d'Frëndschafte méi schwiereg ginn",
      "Eréischt wann d'Kand an d'Schoul geet, well d'Famillje virdrun vun der Maternitéit suivéiert ginn",
-     "Just vun 0 bis 3 Joer – duerno ginn d'Elteren un d'Ënnerstëtzungsservicer vun der Schoul verwisen",
-     "Vum Ufank vum \"Projet als Elteren\" un – souguer virun der Gebuert – bis d'Kand grouss ass"
+     "Just vun 0 bis 3 Joer – duerno ginn d'Elteren un d'Ënnerstëtzungsservicer vun der Schoul verwisen"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "En ënnerstëtzt d'Elteren op dem ganze Wee: vum Moment un, wou Dir e Bebee plangt oder waart, duerch all Etapp vun der Kandheet, bis d'Kand erwuesse gëtt."
    },
    {
     "text": "Wat geschitt, wann en Elterendeel mat engem eeschten, spezifesche Problem kënnt, deen den Eltereforum net selwer behandele kann?",
     "options": [
-     "D'Equipe lauschtert no a begleet en zum richtege spezialiséierte Service",
      "Si gi gefrot, méi spéit erëmzekommen, wann de Problem manner eescht ass",
+     "D'Equipe lauschtert no a begleet en zum richtege spezialiséierte Service",
      "Seng eegen Dokteren bidden op der Plaz eng medezinesch Therapie a Behandlung un",
      "Näischt — den Eltereforum organiséiert just gesellesch Treffen a Fester fir Elteren"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Den Eltereforum ass generalistesch — e gëtt keng spezialiséiert Behandlung. Mä d'Equipe lauschtert no a weist Iech de Wee zum richtege spezialiséierte Service, sou datt en och eng Dier ass, déi Iech an déi richteg Richtung schéckt."
    },
    {
@@ -10395,10 +10395,10 @@ const EPISODES = [
     "options": [
      "En Online-Buttek fir Kannerkleeder a Spillsaachen, mat Reduktiounen nëmme fir Membere vun de Foren",
      "Just d'Telefonsnummer vum Ministère – d'Aktivitéite selwer ginn all Famill per Post matgedeelt",
-     "Eng Informatiounsplattform mat dem Agenda vun allen Aktivitéiten, Owender a Coursen an deene verschiddene Foren",
-     "E soziaalt Netzwierk just fir Enseignanten, wou si sech ënnerteneen iwwer d'Fortschrëtter vun de Schüler austauschen"
+     "E soziaalt Netzwierk just fir Enseignanten, wou si sech ënnerteneen iwwer d'Fortschrëtter vun de Schüler austauschen",
+     "Eng Informatiounsplattform mat dem Agenda vun allen Aktivitéiten, Owender a Coursen an deene verschiddene Foren"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "eltereforum.lu ass selwer eng Informatiounsplattform, an den Agenda weist de Kalenner vun allen Aktivitéiten, Owender a Coursen an deene verschiddene regionale Foren — sou gesitt Dir, wat bei Iech an der Géigend leeft."
    }
   ]
@@ -17136,45 +17136,45 @@ const EPISODES = [
    {
     "text": "What is the Work in Luxembourg portal?",
     "options": [
-     "An official, government-led website that is a single gateway to working and living in Luxembourg",
      "A private recruitment agency that charges candidates a fee to find them a job in Luxembourg",
      "A social network for tourists who want to share travel tips and photos from Luxembourg",
-     "A bank for international workers that opens salary accounts before they arrive in the country"
+     "A bank for international workers that opens salary accounts before they arrive in the country",
+     "An official, government-led website that is a single gateway to working and living in Luxembourg"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Work in Luxembourg (workinluxembourg.com) is an official, government-led initiative – a single point of entry bringing together information on working and living in Luxembourg, plus a job board, mainly aimed at international talent and employers."
    },
    {
     "text": "What are the three main sections of the portal?",
     "options": [
      "Buy, Sell, and Rent a flat",
-     "News, Sports, and Weather today",
      "Work here, Live here, and Get started",
+     "News, Sports, and Weather today",
      "Visa, Tax, and Pension forms"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The portal is organised into 'Work here' (the job market, sectors, careers, working conditions), 'Live here' (housing, family, education, health, culture) and 'Get started' (immigration/permits, job search, housing and a relocation guide, plus an Employer Toolkit)."
    },
    {
     "text": "How does the portal's Job Board work?",
     "options": [
      "It collects job offers automatically from random websites around the world, without checking whether they are still open",
-     "It only shows jobs in the public sector, such as ministries and communes, reserved for people who speak Luxembourgish",
      "It is linked to ADEM's international recruitment platform, with vacancies updated daily and candidates pre-screened by ADEM",
+     "It only shows jobs in the public sector, such as ministries and communes, reserved for people who speak Luxembourgish",
      "You must pay a monthly subscription to see the job offers, and companies can only contact candidates who have paid"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "The Job Board is connected directly to ADEM (the national public employment service) and its international recruitment platform. Vacancies are updated daily, you can create a profile and apply, and every candidate profile is pre-screened by ADEM. The board focuses on shortage occupations."
    },
    {
     "text": "What is the Talent Desk?",
     "options": [
-     "A shop desk in Luxembourg City where newcomers can buy office furniture and equipment at a discount",
      "A service offering personalised, human support to guide talent (and companies) through the administrative and integration steps",
+     "A shop desk in Luxembourg City where newcomers can buy office furniture and equipment at a discount",
      "An online quiz about Luxembourg's history and culture that candidates must pass before they can apply for a job",
      "A telephone help line only for tourists, giving information about hotels, museums and public transport"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "The Talent Desk complements the website with personalised, human support: it informs, advises and guides international talent through the administrative and integration process, connects them to the right institutions, and also supports companies with international recruitment."
    },
    {
@@ -17182,10 +17182,10 @@ const EPISODES = [
     "options": [
      "Because all immigration to Luxembourg is automatic, so anyone from anywhere can move and start working the next day",
      "Because there are no rules at all for non-EU workers in Luxembourg, so no permit or paperwork is ever needed for any job",
-     "Because non-EU professionals pay no income tax in Luxembourg during their first five years, whatever job they do",
-     "Because for jobs on Luxembourg's 'shortage occupations' list, non-EU professionals can benefit from faster immigration procedures"
+     "Because for jobs on Luxembourg's 'shortage occupations' list, non-EU professionals can benefit from faster immigration procedures",
+     "Because non-EU professionals pay no income tax in Luxembourg during their first five years, whatever job they do"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Luxembourg publishes a list of 'shortage occupations' – jobs where workers are most needed. For professionals from outside the EU working in these occupations, immigration procedures can be faster and smoother."
    }
   ],
@@ -17634,45 +17634,45 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que le portail Work in Luxembourg ?",
     "options": [
-     "Un site officiel, mis en place par l'État, qui est une porte d'entrée unique pour travailler et vivre au Luxembourg",
      "Une agence de recrutement privée qui fait payer les candidats pour leur trouver un emploi au Luxembourg",
      "Un réseau social pour touristes qui veulent partager des conseils de voyage et des photos du Luxembourg",
-     "Une banque pour travailleurs internationaux, qui ouvre des comptes salaire avant même leur arrivée dans le pays"
+     "Une banque pour travailleurs internationaux, qui ouvre des comptes salaire avant même leur arrivée dans le pays",
+     "Un site officiel, mis en place par l'État, qui est une porte d'entrée unique pour travailler et vivre au Luxembourg"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Work in Luxembourg (workinluxembourg.com) est une initiative officielle, mise en place par l'État – un point d'entrée unique qui rassemble les informations sur le travail et la vie au Luxembourg, avec en plus un job board, principalement destiné aux talents internationaux et aux employeurs."
    },
    {
     "text": "Quelles sont les trois sections principales du portail ?",
     "options": [
      "Acheter, Vendre et Louer un appartement",
-     "Actualités, Sports et Météo du jour",
      "Work here, Live here et Get started",
+     "Actualités, Sports et Météo du jour",
      "Formulaires Visa, Impôts et Pension"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Le portail est organisé en « Work here » (le marché du travail, les secteurs, les carrières, les conditions de travail), « Live here » (logement, famille, éducation, santé, culture) et « Get started » (immigration/titres de séjour, recherche d'emploi, logement et un guide de relocation, ainsi qu'un Employer Toolkit)."
    },
    {
     "text": "Comment fonctionne le Job Board du portail ?",
     "options": [
      "Il collecte automatiquement des offres sur des sites pris au hasard dans le monde, sans vérifier si elles sont encore ouvertes",
-     "Il ne montre que des postes du secteur public, comme les ministères et les communes, et ces postes sont réservés aux personnes qui parlent luxembourgeois",
      "Il est relié à la plateforme de recrutement international de l'ADEM, avec des offres mises à jour chaque jour et des candidats présélectionnés par l'ADEM",
+     "Il ne montre que des postes du secteur public, comme les ministères et les communes, et ces postes sont réservés aux personnes qui parlent luxembourgeois",
      "Il faut payer un abonnement mensuel pour voir les offres, et les entreprises ne peuvent contacter que les candidats qui ont payé"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Le Job Board est connecté directement à l'ADEM (le service public de l'emploi national) et à sa plateforme de recrutement international. Les offres sont mises à jour chaque jour, vous pouvez créer un profil et postuler, et chaque profil de candidat est présélectionné par l'ADEM. Le Job Board se concentre sur les métiers en pénurie."
    },
    {
     "text": "Qu'est-ce que le Talent Desk ?",
     "options": [
-     "Un comptoir à Luxembourg-Ville où les nouveaux arrivants achètent du mobilier et du matériel de bureau à prix réduit",
      "Un service offrant un accompagnement personnalisé et humain pour guider les talents (et les entreprises) à travers les démarches administratives et d'intégration",
+     "Un comptoir à Luxembourg-Ville où les nouveaux arrivants achètent du mobilier et du matériel de bureau à prix réduit",
      "Un quiz en ligne sur l'histoire et la culture du Luxembourg que les candidats doivent réussir avant de postuler",
      "Une ligne d'assistance téléphonique réservée aux touristes, avec des informations pratiques sur les hôtels, les musées, les restaurants et les transports"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Le Talent Desk complète le site par un accompagnement personnalisé et humain : il informe, conseille et guide les talents internationaux à travers les démarches administratives et d'intégration, les met en relation avec les bonnes institutions, et soutient aussi les entreprises dans leur recrutement international."
    },
    {
@@ -17680,10 +17680,10 @@ const EPISODES = [
     "options": [
      "Parce que toute immigration au Luxembourg est automatique, donc n'importe qui peut venir et commencer à travailler le lendemain",
      "Parce qu'il n'existe aucune règle pour les travailleurs non européens au Luxembourg, donc aucun permis de travail ni aucun papier n'est jamais nécessaire, quel que soit le métier",
-     "Parce que les professionnels non européens ne paient pas d'impôt sur le revenu au Luxembourg pendant cinq ans, quel que soit leur emploi",
-     "Parce que pour les emplois figurant sur la liste des « métiers en pénurie » du Luxembourg, les professionnels hors UE peuvent bénéficier de démarches d'immigration plus rapides"
+     "Parce que pour les emplois figurant sur la liste des « métiers en pénurie » du Luxembourg, les professionnels hors UE peuvent bénéficier de démarches d'immigration plus rapides",
+     "Parce que les professionnels non européens ne paient pas d'impôt sur le revenu au Luxembourg pendant cinq ans, quel que soit leur emploi"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Le Luxembourg publie une liste des « métiers en pénurie » – les métiers où les travailleurs sont le plus nécessaires. Pour les professionnels venus de l'extérieur de l'UE travaillant dans ces métiers, les démarches d'immigration peuvent être plus rapides et plus simples."
    }
   ],
@@ -17705,45 +17705,45 @@ const EPISODES = [
    {
     "text": "Was ist das Portal Work in Luxembourg?",
     "options": [
-     "Eine offizielle, staatlich geführte Website, die eine einzige Eingangstür zum Arbeiten und Leben in Luxemburg ist",
      "Eine private Personalvermittlung, die Bewerbern viel Geld dafür berechnet, ihnen einen Job in Luxemburg zu finden",
      "Ein soziales Netzwerk für Touristen, die Reisetipps und Fotos aus Luxemburg teilen möchten",
-     "Eine Bank für internationale Arbeitskräfte, die Gehaltskonten eröffnet, bevor sie ins Land kommen"
+     "Eine Bank für internationale Arbeitskräfte, die Gehaltskonten eröffnet, bevor sie ins Land kommen",
+     "Eine offizielle, staatlich geführte Website, die eine einzige Eingangstür zum Arbeiten und Leben in Luxemburg ist"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Work in Luxembourg (workinluxembourg.com) ist eine offizielle, staatlich geführte Initiative – eine einzige Anlaufstelle, die Informationen zum Arbeiten und Leben in Luxemburg sowie ein Job Board bündelt und sich vor allem an internationale Fachkräfte und Arbeitgeber richtet."
    },
    {
     "text": "Was sind die drei Hauptbereiche des Portals?",
     "options": [
      "Kaufen, Verkaufen und Wohnung mieten",
-     "Nachrichten, Sport und Wetter von heute",
      "Work here, Live here und Get started",
+     "Nachrichten, Sport und Wetter von heute",
      "Formulare zu Visum, Steuern und Rente"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Das Portal ist in „Work here“ (Arbeitsmarkt, Branchen, Karrieren, Arbeitsbedingungen), „Live here“ (Wohnen, Familie, Bildung, Gesundheit, Kultur) und „Get started“ (Einwanderung/Aufenthaltstitel, Jobsuche, Wohnen und ein Umzugsleitfaden sowie ein Employer Toolkit) gegliedert."
    },
    {
     "text": "Wie funktioniert das Job Board des Portals?",
     "options": [
      "Er sammelt automatisch Stellenangebote von beliebigen Websites weltweit, ohne zu prüfen, ob sie noch offen sind",
-     "Er zeigt nur Stellen im öffentlichen Dienst, etwa in Ministerien und Gemeinden, und diese Stellen sind nur für Menschen, die fließend Luxemburgisch sprechen",
      "Es ist mit der internationalen Rekrutierungsplattform von ADEM verbunden, mit täglich aktualisierten Stellen und von ADEM vorab geprüften Kandidaten",
+     "Er zeigt nur Stellen im öffentlichen Dienst, etwa in Ministerien und Gemeinden, und diese Stellen sind nur für Menschen, die fließend Luxemburgisch sprechen",
      "Man muss ein Monatsabo zahlen, um die Angebote zu sehen, und Firmen können nur Kandidaten kontaktieren, die bezahlt haben"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Das Job Board ist direkt mit ADEM (dem nationalen öffentlichen Arbeitsvermittlungsdienst) und seiner internationalen Rekrutierungsplattform verbunden. Die Stellen werden täglich aktualisiert, Sie können ein Profil erstellen und sich bewerben, und jedes Kandidatenprofil wird von ADEM vorab geprüft. Das Job Board konzentriert sich auf Mangelberufe."
    },
    {
     "text": "Was ist der Talent Desk?",
     "options": [
-     "Ein Verkaufsstand in Luxemburg-Stadt, an dem Neuankömmlinge Büromöbel und Ausstattung vergünstigt kaufen",
      "Ein Dienst, der persönliche, menschliche Unterstützung bietet, um Fachkräfte (und Unternehmen) durch die administrativen und integrativen Schritte zu begleiten",
+     "Ein Verkaufsstand in Luxemburg-Stadt, an dem Neuankömmlinge Büromöbel und Ausstattung vergünstigt kaufen",
      "Ein Online-Quiz über Geschichte, Sprachen und Kultur Luxemburgs, das alle Bewerber bestehen müssen, bevor sie sich überhaupt auf eine Stelle bewerben dürfen",
      "Eine Telefon-Hotline nur für Touristen, mit Informationen zu Hotels, Museen und öffentlichem Verkehr"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Der Talent Desk ergänzt die Website durch persönliche, menschliche Unterstützung: Er informiert, berät und begleitet internationale Fachkräfte durch den administrativen und integrativen Prozess, vermittelt sie an die richtigen Institutionen und unterstützt auch Unternehmen bei der internationalen Rekrutierung."
    },
    {
@@ -17751,10 +17751,10 @@ const EPISODES = [
     "options": [
      "Weil jede Einwanderung nach Luxemburg automatisch ist, sodass jeder von überall kommen und am nächsten Tag arbeiten kann",
      "Weil es für Arbeitnehmer aus Nicht-EU-Ländern in Luxemburg gar keine Regeln gibt, also nie eine Genehmigung nötig ist",
-     "Weil Fachkräfte aus Nicht-EU-Ländern in den ersten fünf Jahren in Luxemburg überhaupt keine Einkommensteuer zahlen, egal in welchem Beruf sie arbeiten",
-     "Weil für Jobs auf Luxemburgs Liste der „Mangelberufe“ Fachkräfte von außerhalb der EU von schnelleren Einwanderungsverfahren profitieren können"
+     "Weil für Jobs auf Luxemburgs Liste der „Mangelberufe“ Fachkräfte von außerhalb der EU von schnelleren Einwanderungsverfahren profitieren können",
+     "Weil Fachkräfte aus Nicht-EU-Ländern in den ersten fünf Jahren in Luxemburg überhaupt keine Einkommensteuer zahlen, egal in welchem Beruf sie arbeiten"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Luxemburg veröffentlicht eine Liste der „Mangelberufe“ – Berufe, in denen Arbeitskräfte am dringendsten gebraucht werden. Für Fachkräfte von außerhalb der EU, die in diesen Berufen arbeiten, können die Einwanderungsverfahren schneller und reibungsloser sein."
    }
   ],
@@ -18444,32 +18444,32 @@ const EPISODES = [
     "options": [
      "A private insurance contract that pays extra costs not covered by the national health insurance (CNS)",
      "A paper booklet in which each doctor writes down your treatments, and that you must bring to every single appointment",
-     "A tax file held by the administration that lists all your medical expenses so you can deduct them",
-     "A free, personal and secure electronic health file that brings your health information together in one place"
+     "A free, personal and secure electronic health file that brings your health information together in one place",
+     "A tax file held by the administration that lists all your medical expenses so you can deduct them"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "The DSP is a free, personal and secure online health file run by the Agence eSanté. It gathers your treatments, results, reports and allergies so everyone treating you works from the same picture."
    },
    {
     "text": "Who decides who can look at your DSP?",
     "options": [
      "Only your general practitioner, who decides which other doctors may open the file",
-     "Your employer, who needs to know about your health to plan your work",
      "You, the patient – you give and remove access and can see who consulted your file",
+     "Your employer, who needs to know about your health to plan your work",
      "The Ministry of Health, which grants access to doctors and hospitals case by case"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "You are in control: you decide who can access your DSP, you can withdraw access, see who consulted it, and even hide certain documents. It’s your file and you hold the keys."
    },
    {
     "text": "For a normal visit to the doctor, how does payment usually work with the CNS?",
     "options": [
-     "The CNS pays you in cash at the reception desk, and the doctor then sends the bill to your employer",
      "Either you pay only your share (immediate direct payment), or you pay first and the CNS reimburses most of it",
+     "The CNS pays you in cash at the reception desk, and the doctor then sends the bill to your employer",
      "The visit is always completely free, because the CNS pays the doctor directly for every consultation",
      "You pay nothing at the doctor's, and the CNS later deducts the whole cost of the visit from your monthly salary"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "More and more doctors and dentists use immediate direct payment: you pay only your own share and the CNS pays the doctor the rest. Otherwise you pay first, send the invoice to the CNS, and it reimburses most of it (around 80–100%) – usually within a few weeks for a paper bill, or a few days for a digital one."
    },
    {
@@ -18477,21 +18477,21 @@ const EPISODES = [
     "options": [
      "The State pays nothing at all, and you pay the whole price of your medicine yourself",
      "You always pay the full price at the pharmacy and then claim the money back from the CNS later",
-     "You pay double at the pharmacy, and the CNS refunds half of it at the end of the year",
-     "You pay only your small share, and the pharmacy settles the rest directly with the CNS"
+     "You pay only your small share, and the pharmacy settles the rest directly with the CNS",
+     "You pay double at the pharmacy, and the CNS refunds half of it at the end of the year"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "With third-party payment (“tiers payant”), used at the pharmacy and for hospital stays, you only pay your small share and the provider bills the CNS directly for the rest."
    },
    {
     "text": "How can you activate your eSanté account, to use your DSP online?",
     "options": [
-     "Directly through MyGuichet.lu — and then check your file online or with the MyDSP mobile app",
      "You cannot activate it yourself – only your doctor can open your account and show you the file",
      "Only in person at a hospital reception desk, with your passport and your social security card",
-     "Only by waiting for an activation code, which the CNS sends by post once a year"
+     "Only by waiting for an activation code, which the CNS sends by post once a year",
+     "Directly through MyGuichet.lu — and then check your file online or with the MyDSP mobile app"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "You can activate your eSanté account directly through MyGuichet.lu. Once it is active, you open it in your MyGuichet eSpace or on the eSanté portal — or use the MyDSP mobile app on your phone."
    }
   ],
@@ -20098,32 +20098,32 @@ const EPISODES = [
     "options": [
      "Un contrat d'assurance privée qui paie les frais supplémentaires non couverts par la Caisse nationale de santé (CNS)",
      "Un carnet papier dans lequel chaque médecin note vos traitements, et que vous devez apporter à chaque rendez-vous",
-     "Un dossier fiscal tenu par l'administration des contributions, qui liste toutes vos dépenses médicales pour que vous puissiez les déduire",
-     "Un dossier de santé électronique gratuit, personnel et sécurisé qui rassemble vos informations de santé en un seul endroit"
+     "Un dossier de santé électronique gratuit, personnel et sécurisé qui rassemble vos informations de santé en un seul endroit",
+     "Un dossier fiscal tenu par l'administration des contributions, qui liste toutes vos dépenses médicales pour que vous puissiez les déduire"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Le DSP est un dossier de santé en ligne gratuit, personnel et sécurisé, géré par l'Agence eSanté. Il rassemble vos traitements, résultats, rapports et allergies pour que tous ceux qui vous soignent travaillent à partir de la même image."
    },
    {
     "text": "Qui décide qui peut consulter votre DSP ?",
     "options": [
      "Seulement votre médecin généraliste, qui décide quels autres médecins peuvent ouvrir le dossier",
-     "Votre employeur, qui doit connaître votre santé pour organiser votre travail",
      "Vous, le patient – vous donnez et retirez l'accès et pouvez voir qui a consulté votre dossier",
+     "Votre employeur, qui doit connaître votre santé pour organiser votre travail",
      "Le ministère de la Santé, qui donne l'accès aux médecins et aux hôpitaux au cas par cas"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "C'est vous qui contrôlez : vous décidez qui peut accéder à votre DSP, vous pouvez retirer l'accès, voir qui l'a consulté, et même masquer certains documents. C'est votre dossier et c'est vous qui avez les clés."
    },
    {
     "text": "Pour une visite normale chez le médecin, comment fonctionne généralement le paiement avec la CNS ?",
     "options": [
-     "La CNS vous paie en espèces à l'accueil, puis le médecin envoie la facture à votre employeur",
      "Soit vous ne payez que votre part (paiement immédiat direct), soit vous payez d'abord et la CNS vous rembourse la plus grande partie",
+     "La CNS vous paie en espèces à l'accueil, puis le médecin envoie la facture à votre employeur",
      "La visite est toujours entièrement gratuite, car la CNS paie directement le médecin pour chaque consultation",
      "Vous ne payez rien chez le médecin, et la CNS retient ensuite la totalité du coût de la visite directement sur votre salaire du mois suivant"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "De plus en plus de médecins et de dentistes utilisent le paiement immédiat direct : vous ne payez que votre part et la CNS paie le reste au médecin. Sinon, vous payez d'abord, vous envoyez la facture à la CNS, et elle vous rembourse la plus grande partie (environ 80 à 100 %) – en général en quelques semaines pour une facture papier, ou en quelques jours pour une facture digitale."
    },
    {
@@ -20131,21 +20131,21 @@ const EPISODES = [
     "options": [
      "L'État ne paie rien du tout, et vous payez vous-même le prix total de vos médicaments",
      "Vous payez toujours le prix complet à la pharmacie, puis vous vous faites rembourser plus tard par la CNS",
-     "Vous payez le double à la pharmacie, et la CNS vous en rembourse la moitié en fin d'année",
-     "Vous ne payez que votre petite part, et la pharmacie règle le reste directement avec la CNS"
+     "Vous ne payez que votre petite part, et la pharmacie règle le reste directement avec la CNS",
+     "Vous payez le double à la pharmacie, et la CNS vous en rembourse la moitié en fin d'année"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Avec le tiers payant, utilisé à la pharmacie et pour les séjours à l'hôpital, vous ne payez que votre petite part et le prestataire facture le reste directement à la CNS."
    },
    {
     "text": "Comment pouvez-vous activer votre compte eSanté, pour utiliser votre DSP en ligne ?",
     "options": [
-     "Directement via MyGuichet.lu — puis consulter votre dossier en ligne ou avec l'application mobile MyDSP",
      "Vous ne pouvez pas l'activer vous-même – seul votre médecin peut ouvrir votre compte et vous montrer le dossier",
      "Uniquement en personne à l'accueil d'un hôpital, avec votre passeport et votre carte de sécurité sociale",
-     "Uniquement en attendant un code d'activation que la CNS envoie par la poste une fois par an"
+     "Uniquement en attendant un code d'activation que la CNS envoie par la poste une fois par an",
+     "Directement via MyGuichet.lu — puis consulter votre dossier en ligne ou avec l'application mobile MyDSP"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Vous pouvez activer votre compte eSanté directement via MyGuichet.lu. Une fois qu'il est actif, vous l'ouvrez dans votre eSpace MyGuichet ou sur le portail eSanté — ou vous utilisez l'application mobile MyDSP sur votre téléphone."
    }
   ],
@@ -20167,32 +20167,32 @@ const EPISODES = [
     "options": [
      "Ein privater Versicherungsvertrag, der Zusatzkosten zahlt, die die nationale Gesundheitskasse (CNS) nicht übernimmt",
      "Ein Heft aus Papier, in das jeder Arzt Ihre Behandlungen von Hand einträgt und das Sie zu jedem einzelnen Termin mitbringen müssen",
-     "Eine Steuerakte der Verwaltung, in der alle Ihre Gesundheitsausgaben aufgelistet sind, damit Sie sie absetzen können",
-     "Eine kostenlose, persönliche und sichere elektronische Gesundheitsakte, die Ihre Gesundheitsinformationen an einem Ort zusammenführt"
+     "Eine kostenlose, persönliche und sichere elektronische Gesundheitsakte, die Ihre Gesundheitsinformationen an einem Ort zusammenführt",
+     "Eine Steuerakte der Verwaltung, in der alle Ihre Gesundheitsausgaben aufgelistet sind, damit Sie sie absetzen können"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Das DSP ist eine kostenlose, persönliche und sichere Online-Gesundheitsakte, betrieben von der Agence eSanté. Sie sammelt Ihre Behandlungen, Ergebnisse, Berichte und Allergien, damit alle, die Sie behandeln, mit demselben Bild arbeiten."
    },
    {
     "text": "Wer entscheidet, wer in Ihr DSP schauen darf?",
     "options": [
      "Nur Ihr Hausarzt, der entscheidet, welche anderen Ärzte die Akte öffnen dürfen",
-     "Ihr Arbeitgeber, der über Ihre Gesundheit Bescheid wissen muss, um Ihre Arbeit zu planen",
      "Sie, der Patient – Sie geben und entziehen den Zugang und können sehen, wer Ihre Akte eingesehen hat",
+     "Ihr Arbeitgeber, der über Ihre Gesundheit Bescheid wissen muss, um Ihre Arbeit zu planen",
      "Das Gesundheitsministerium, das Ärzten und Krankenhäusern von Fall zu Fall den Zugang gewährt"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Sie haben die Kontrolle: Sie entscheiden, wer auf Ihr DSP zugreifen darf, Sie können den Zugang entziehen, sehen, wer die Akte eingesehen hat, und sogar bestimmte Dokumente verbergen. Es ist Ihre Akte, und Sie halten die Schlüssel."
    },
    {
     "text": "Wie funktioniert die Bezahlung bei einem normalen Arztbesuch üblicherweise mit der CNS?",
     "options": [
-     "Die CNS zahlt Ihnen am Empfang Bargeld aus, und der Arzt schickt die Rechnung dann an Ihren Arbeitgeber",
      "Entweder zahlen Sie nur Ihren Anteil (Direktzahlung), oder Sie zahlen zuerst und die CNS erstattet das meiste",
+     "Die CNS zahlt Ihnen am Empfang Bargeld aus, und der Arzt schickt die Rechnung dann an Ihren Arbeitgeber",
      "Der Besuch ist immer völlig kostenlos, weil die CNS den Arzt für jede Konsultation direkt bezahlt",
      "Sie zahlen beim Arzt nichts, und die CNS zieht die gesamten Kosten des Besuchs später von Ihrem Monatsgehalt ab"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Immer mehr Ärzte und Zahnärzte nutzen die sofortige Direktzahlung: Sie zahlen nur Ihren Anteil, und die CNS zahlt dem Arzt den Rest. Sonst zahlen Sie zuerst, schicken die Rechnung an die CNS, und diese erstattet das meiste (etwa 80–100 %) – meist innerhalb weniger Wochen bei einer Papierrechnung oder weniger Tage bei einer digitalen Rechnung."
    },
    {
@@ -20200,21 +20200,21 @@ const EPISODES = [
     "options": [
      "Der Staat zahlt gar nichts, und Sie zahlen den vollen Preis Ihrer Medikamente selbst",
      "Sie zahlen in der Apotheke immer den vollen Preis und holen sich das Geld später bei der CNS zurück",
-     "Sie zahlen in der Apotheke das Doppelte, und die CNS erstattet Ihnen am Jahresende die Hälfte",
-     "Sie zahlen nur Ihren kleinen Anteil, und die Apotheke rechnet den Rest direkt mit der CNS ab"
+     "Sie zahlen nur Ihren kleinen Anteil, und die Apotheke rechnet den Rest direkt mit der CNS ab",
+     "Sie zahlen in der Apotheke das Doppelte, und die CNS erstattet Ihnen am Jahresende die Hälfte"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Beim Drittzahlersystem („tiers payant“), das in der Apotheke und bei Krankenhausaufenthalten gilt, zahlen Sie nur Ihren kleinen Anteil, und der Anbieter rechnet den Rest direkt mit der CNS ab."
    },
    {
     "text": "Wie können Sie Ihr eSanté-Konto aktivieren, um Ihr DSP online zu nutzen?",
     "options": [
-     "Direkt über MyGuichet.lu — und dann Ihre Akte online oder mit der mobilen App MyDSP einsehen",
      "Sie können es nicht selbst aktivieren – nur Ihr Arzt kann Ihr Konto eröffnen und Ihnen die Akte zeigen",
      "Nur persönlich am Empfang eines Krankenhauses, mit Ihrem Reisepass und Ihrer Sozialversicherungskarte",
-     "Nur indem Sie auf einen Aktivierungscode warten, den die CNS einmal im Jahr per Post schickt"
+     "Nur indem Sie auf einen Aktivierungscode warten, den die CNS einmal im Jahr per Post schickt",
+     "Direkt über MyGuichet.lu — und dann Ihre Akte online oder mit der mobilen App MyDSP einsehen"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Sie können Ihr eSanté-Konto direkt über MyGuichet.lu aktivieren. Sobald es aktiv ist, öffnen Sie es in Ihrem MyGuichet-eSpace oder auf dem eSanté-Portal — oder nutzen die mobile App MyDSP auf Ihrem Telefon."
    }
   ],
@@ -20236,32 +20236,32 @@ const EPISODES = [
     "options": [
      "E private Versécherungskontrakt, deen extra Käschte bezilt, déi d'national Gesondheetskeess (CNS) net iwwerhëlt",
      "E Pabeierheft, an deem all Dokter Är Behandlunge mat der Hand opschreift, an dat Dir bei all eenzege Rendez-vous musst matbréngen",
-     "E Steierdossier vun der Administratioun, an deem all Är medezinesch Ausgaben opgelëscht sinn, fir se ofzesetzen",
-     "E gratis, perséinlechen a sécheren elektronesche Gesondheetsdossier, deen Är Gesondheetsinformatiounen op enger Plaz zesummebréngt"
+     "E gratis, perséinlechen a sécheren elektronesche Gesondheetsdossier, deen Är Gesondheetsinformatiounen op enger Plaz zesummebréngt",
+     "E Steierdossier vun der Administratioun, an deem all Är medezinesch Ausgaben opgelëscht sinn, fir se ofzesetzen"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Den DSP ass e gratis, perséinlechen a sécheren Online-Gesondheetsdossier, gefouert vun der Agence eSanté. E sammelt Är Behandlungen, Resultater, Rapporten an Allergien, sou datt jiddereen, deen Iech behandelt, mam selwechte Bild schafft."
    },
    {
     "text": "Wien decidéiert, wien an Ären DSP kucke kann?",
     "options": [
      "Just Ären Hausdokter, deen eleng decidéiert, wéi eng aner Dokteren a Spideeler den Dossier opmaache däerfen",
-     "Ären Employeur, deen iwwer Är Gesondheet muss Bescheed wëssen, fir Är Aarbecht ze plangen",
      "Dir, de Patient – Dir gitt an huelt den Zougang, an Dir kënnt gesinn, wien Ären Dossier consultéiert huet",
+     "Ären Employeur, deen iwwer Är Gesondheet muss Bescheed wëssen, fir Är Aarbecht ze plangen",
      "De Gesondheetsministère, deen den Dokteren an de Spideeler vu Fall zu Fall Zougang gëtt"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Dir hutt d'Kontroll: Dir decidéiert, wien Zougang zu Ärem DSP huet, Dir kënnt den Zougang zerécken, gesinn, wien en consultéiert huet, a souguer verschidde Dokumenter verstoppen. Et ass Ären Dossier, an Dir hutt d'Schlësselen."
    },
    {
     "text": "Wéi funktionéiert d'Bezuele bei enger normaler Visite beim Dokter mat der CNS normalerweis?",
     "options": [
-     "D'CNS bezilt Iech op der Receptioun cash, an den Dokter schéckt d'Rechnung duerno un Ären Employeur",
      "Entweder just Ären Undeel (direkte Paiement), oder fir d'éischt bezuelen an d'CNS rembourséiert dat meescht",
+     "D'CNS bezilt Iech op der Receptioun cash, an den Dokter schéckt d'Rechnung duerno un Ären Employeur",
      "De Besuch ass ëmmer ganz gratis, well d'CNS den Dokter fir all Konsultatioun direkt bezilt",
      "Dir bezuelt beim Dokter näischt, an d'CNS zitt spéider déi ganz Käschte vum Besuch direkt vun Ärem Méintsloun of"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Ëmmer méi Dokteren an Zänndokteren benotzen den direkte Paiement: Dir bezuelt just Ären Undeel, an d'CNS bezilt dem Dokter de Rescht. Soss bezuelt Dir fir d'éischt, schéckt d'Rechnung un d'CNS, a si rembourséiert dat meescht (ronn 80–100%) – meeschtens bannent e puer Wochen fir eng Rechnung op Pabeier, oder e puer Deeg fir eng digital Rechnung."
    },
    {
@@ -20269,21 +20269,21 @@ const EPISODES = [
     "options": [
      "De Staat bezilt guer näischt, an Dir bezuelt de ganze Präis vun Äre Medikamenter selwer",
      "Dir bezuelt an der Apdikt ëmmer de ganze Präis a kritt d'Suen dann spéider vun der CNS zeréck",
-     "Dir bezuelt an der Apdikt duebel, an d'CNS rembourséiert Iech d'Halschent um Enn vum Joer",
-     "Dir bezuelt nëmmen Äre klengen Undeel, an d'Apdikt reegelt de Rescht direkt mat der CNS"
+     "Dir bezuelt nëmmen Äre klengen Undeel, an d'Apdikt reegelt de Rescht direkt mat der CNS",
+     "Dir bezuelt an der Apdikt duebel, an d'CNS rembourséiert Iech d'Halschent um Enn vum Joer"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Mam Tiers payant, deen an der Apdikt a bei Spidolsopenthalter benotzt gëtt, bezuelt Dir nëmmen Äre klengen Undeel, an d'Apdikt oder d'Spidol facturéiert de Rescht direkt un d'CNS."
    },
    {
     "text": "Wéi kënnt Dir Ären eSanté-Kont aktivéieren, fir Ären DSP online ze benotzen?",
     "options": [
-     "Direkt iwwer MyGuichet.lu — an duerno kuckt Dir Ären Dossier online oder mat der mobiler App MyDSP",
      "Dir kënnt en net selwer aktivéieren – just Ären Dokter kann Äre Kont opmaachen an Iech den Dossier weisen",
      "Just perséinlech op der Receptioun vun engem Spidol, mat Ärem Pass an Ärer Sozialversécherungskaart",
-     "Just andeems Dir op en Aktivéierungscode waart, deen d'CNS eemol am Joer mat der Post schéckt"
+     "Just andeems Dir op en Aktivéierungscode waart, deen d'CNS eemol am Joer mat der Post schéckt",
+     "Direkt iwwer MyGuichet.lu — an duerno kuckt Dir Ären Dossier online oder mat der mobiler App MyDSP"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Dir kënnt Ären eSanté-Kont direkt iwwer MyGuichet.lu aktivéieren. Wann en aktiv ass, maacht Dir en an Ärem MyGuichet-eSpace oder um eSanté-Portal op — oder Dir benotzt d'mobil App MyDSP op Ärem Handy."
    }
   ],
@@ -21136,45 +21136,45 @@ const EPISODES = [
    {
     "text": "What is LU-Alert?",
     "options": [
-     "Luxembourg’s national public warning and information system, launched in autumn 2024",
      "A private weather app that you subscribe to, which sends storm and flood warnings for a fee",
      "A social media account run by the Grand Ducal Police to share news about traffic and events",
-     "An insurance scheme that pays compensation to households after storms, floods or other disasters"
+     "An insurance scheme that pays compensation to households after storms, floods or other disasters",
+     "Luxembourg’s national public warning and information system, launched in autumn 2024"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "“LU-Alert” combines “LU” (the country code for Luxembourg) and “Alert”. It is the national warning and information system for the population, deployed in autumn 2024 to warn people about dangerous events."
    },
    {
     "text": "Do you need to sign up to receive alerts by Cell Broadcast or location-based SMS?",
     "options": [
-     "Yes – you must first register your mobile number on lu-alert.lu to receive any alerts at all",
      "No – there is no registration; any phone in the targeted area is reached automatically",
+     "Yes – you must first register your mobile number on lu-alert.lu to receive any alerts at all",
      "Yes, but only cross-border workers, whose phones use foreign networks",
      "No registration is needed, but you pay a small annual fee through your mobile phone operator"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "For Cell Broadcast and location-based SMS you do not sign up. If your phone is in the area when the authorities send a message, it is targeted automatically. (For the mobile app, you simply download it.)"
    },
    {
     "text": "In which languages are LU-Alert messages sent?",
     "options": [
-     "German, English and French",
      "Luxembourgish, French and German",
      "French and Portuguese",
-     "English and Luxembourgish"
+     "English and Luxembourgish",
+     "German, English and French"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Warning and information messages are issued in German, English and French, so English speakers are covered."
    },
    {
     "text": "When are sirens used in the LU-Alert system?",
     "options": [
      "For every weather warning, day or night",
-     "Every day at noon, as a short test",
      "To warn of a serious danger",
+     "Every day at noon, as a short test",
      "Whenever the mobile network is down"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Sirens warn the population of a serious danger – in one area or across the whole country. A long, steady tone means: get to safety and follow the news; a rising and falling tone means: go into a solid building and close doors and windows. Most alerts reach you by phone (Cell Broadcast and SMS), the app, websites and the media. The sirens are tested on the first Monday of each month, around noon."
    },
    {
@@ -21182,10 +21182,10 @@ const EPISODES = [
     "options": [
      "Reply to the SMS with your name, address and date of birth, so that the authorities can confirm who you are and where you live",
      "Click on the link in the message and log in with your LuxTrust details to verify that it is real",
-     "Call the phone number shown in the message and give your bank details so the sender can be checked",
-     "Remember that the authorities never ask for personal data, and check whether the alert is listed on lu-alert.lu"
+     "Remember that the authorities never ask for personal data, and check whether the alert is listed on lu-alert.lu",
+     "Call the phone number shown in the message and give your bank details so the sender can be checked"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Public authorities never ask for personal data, and messages normally contain no clickable link. If you are unsure, verify the alert on lu-alert.lu – and never share personal data."
    }
   ],
@@ -23163,45 +23163,45 @@ const EPISODES = [
    {
     "text": "Qu'est-ce que LU-Alert ?",
     "options": [
-     "Le système national d'alerte et d'information de la population du Luxembourg, lancé à l'automne 2024",
      "Une application météo privée à laquelle on s'abonne, qui envoie des alertes tempête et inondation contre paiement",
      "Un compte sur les réseaux sociaux de la Police grand-ducale pour partager des infos sur la circulation et les événements",
-     "Un système d'assurance qui indemnise les ménages après des tempêtes, des inondations ou d'autres catastrophes"
+     "Un système d'assurance qui indemnise les ménages après des tempêtes, des inondations ou d'autres catastrophes",
+     "Le système national d'alerte et d'information de la population du Luxembourg, lancé à l'automne 2024"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "« LU-Alert » combine « LU » (le code pays du Luxembourg) et « Alert ». C'est le système national d'alerte et d'information de la population, déployé à l'automne 2024 pour avertir les gens des événements dangereux."
    },
    {
     "text": "Faut-il s'inscrire pour recevoir les alertes par Cell Broadcast ou par SMS géolocalisé ?",
     "options": [
-     "Oui – vous devez d'abord enregistrer votre numéro de portable sur lu-alert.lu pour recevoir la moindre alerte",
      "Non – il n'y a pas d'inscription ; tout téléphone présent dans la zone ciblée est atteint automatiquement",
+     "Oui – vous devez d'abord enregistrer votre numéro de portable sur lu-alert.lu pour recevoir la moindre alerte",
      "Oui, mais seulement les frontaliers, dont les téléphones utilisent des réseaux étrangers",
      "Aucune inscription n'est nécessaire, mais vous payez une petite redevance annuelle via votre opérateur mobile"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Pour le Cell Broadcast et le SMS géolocalisé, vous ne vous inscrivez pas. Si votre téléphone est dans la zone quand les autorités envoient un message, il est ciblé automatiquement. (Pour l'application mobile, il suffit de la télécharger.)"
    },
    {
     "text": "Dans quelles langues les messages LU-Alert sont-ils envoyés ?",
     "options": [
-     "En allemand, en anglais et en français",
      "Luxembourgeois, français, allemand et portugais",
      "Français et portugais",
-     "Anglais et luxembourgeois"
+     "Anglais et luxembourgeois",
+     "En allemand, en anglais et en français"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Les messages d'alerte et d'information sont émis en allemand, en anglais et en français, donc les francophones sont couverts."
    },
    {
     "text": "Quand les sirènes sont-elles utilisées dans le système LU-Alert ?",
     "options": [
      "Pour chaque alerte météo, de jour comme de nuit",
-     "Tous les jours à midi, pour un court test",
      "Pour avertir d'un danger grave",
+     "Tous les jours à midi, pour un court test",
      "Chaque fois que le réseau mobile est en panne"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Les sirènes avertissent la population d'un danger grave – dans une zone ou dans tout le pays. Un son long et continu veut dire : mettez-vous en sécurité et suivez les informations ; un son montant et descendant veut dire : entrez dans un bâtiment solide et fermez portes et fenêtres. La plupart des alertes vous atteignent par téléphone (Cell Broadcast et SMS), l'application, les sites internet et les médias. Les sirènes sont testées le premier lundi de chaque mois, vers midi."
    },
    {
@@ -23209,10 +23209,10 @@ const EPISODES = [
     "options": [
      "Répondre au SMS avec votre nom, votre adresse et votre date de naissance, pour que les autorités confirment qui vous êtes et où vous habitez",
      "Cliquer sur le lien du message et vous connecter avec vos identifiants LuxTrust pour vérifier qu'il est authentique",
-     "Appeler le numéro indiqué dans le message et donner vos coordonnées bancaires pour que l'expéditeur soit vérifié",
-     "Retenir que les autorités ne demandent jamais de données personnelles, et vérifier si l'alerte figure sur lu-alert.lu"
+     "Retenir que les autorités ne demandent jamais de données personnelles, et vérifier si l'alerte figure sur lu-alert.lu",
+     "Appeler le numéro indiqué dans le message et donner vos coordonnées bancaires pour que l'expéditeur soit vérifié"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Les autorités publiques ne demandent jamais de données personnelles, et les messages ne contiennent normalement pas de lien cliquable. En cas de doute, vérifiez l'alerte sur lu-alert.lu – et ne partagez jamais de données personnelles."
    }
   ],
@@ -23234,45 +23234,45 @@ const EPISODES = [
    {
     "text": "Was ist LU-Alert?",
     "options": [
-     "Luxemburgs nationales Warn- und Informationssystem für die Bevölkerung, gestartet im Herbst 2024",
      "Eine private Wetter-App im Abonnement, die gegen Gebühr Sturm- und Hochwasserwarnungen verschickt",
      "Ein Social-Media-Konto der Großherzoglichen Polizei, das Neuigkeiten zu Verkehr und Veranstaltungen teilt",
-     "Eine Versicherung, die Haushalte nach Stürmen, Überschwemmungen oder anderen Katastrophen entschädigt"
+     "Eine Versicherung, die Haushalte nach Stürmen, Überschwemmungen oder anderen Katastrophen entschädigt",
+     "Luxemburgs nationales Warn- und Informationssystem für die Bevölkerung, gestartet im Herbst 2024"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "„LU-Alert“ verbindet „LU“ (den Ländercode für Luxemburg) und „Alert“. Es ist das nationale Warn- und Informationssystem für die Bevölkerung, eingeführt im Herbst 2024, um Menschen vor gefährlichen Ereignissen zu warnen."
    },
    {
     "text": "Müssen Sie sich anmelden, um Warnungen per Cell Broadcast oder standortbasierter SMS zu erhalten?",
     "options": [
-     "Ja – Sie müssen zuerst Ihre Handynummer auf lu-alert.lu registrieren, um überhaupt Warnungen zu erhalten",
      "Nein – es gibt keine Registrierung; jedes Telefon im Zielgebiet wird automatisch erreicht",
+     "Ja – Sie müssen zuerst Ihre Handynummer auf lu-alert.lu registrieren, um überhaupt Warnungen zu erhalten",
      "Ja, aber nur Grenzgänger, deren Telefone ausländische Netze nutzen",
      "Eine Anmeldung ist nicht nötig, aber Sie zahlen eine kleine Jahresgebühr über Ihren Mobilfunkanbieter"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Für Cell Broadcast und standortbasierte SMS melden Sie sich nicht an. Wenn Ihr Telefon im Gebiet ist, wenn die Behörden eine Nachricht senden, wird es automatisch erreicht. (Die mobile App laden Sie einfach herunter.)"
    },
    {
     "text": "In welchen Sprachen werden die LU-Alert-Nachrichten gesendet?",
     "options": [
-     "Deutsch, Englisch und Französisch",
      "Luxemburgisch, Französisch und Deutsch",
      "Französisch und Portugiesisch",
-     "Englisch und Luxemburgisch"
+     "Englisch und Luxemburgisch",
+     "Deutsch, Englisch und Französisch"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "Warn- und Informationsnachrichten werden auf Deutsch, Englisch und Französisch herausgegeben, sodass auch Deutschsprachige abgedeckt sind."
    },
    {
     "text": "Wann werden im LU-Alert-System Sirenen eingesetzt?",
     "options": [
      "Bei jeder Wetterwarnung, Tag und Nacht",
-     "Jeden Tag um zwölf Uhr, als kurzer Test",
      "Um vor einer ernsten Gefahr zu warnen",
+     "Jeden Tag um zwölf Uhr, als kurzer Test",
      "Immer wenn das Mobilfunknetz ausfällt"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "Sirenen warnen die Bevölkerung vor einer ernsten Gefahr – in einem Gebiet oder im ganzen Land. Ein langer, gleichbleibender Ton heißt: in Sicherheit bringen und die Nachrichten verfolgen; ein auf- und abschwellender Ton heißt: in ein festes Gebäude gehen und Türen und Fenster schließen. Die meisten Warnungen erreichen Sie über das Telefon (Cell Broadcast und SMS), die App, Websites und die Medien. Die Sirenen werden am ersten Montag jedes Monats gegen Mittag getestet."
    },
    {
@@ -23280,10 +23280,10 @@ const EPISODES = [
     "options": [
      "Auf die SMS mit Name, Adresse und Geburtsdatum antworten, damit die Behörden bestätigen können, wer Sie sind und wo Sie wohnen",
      "Auf den Link in der Nachricht klicken und sich mit Ihren LuxTrust-Daten anmelden, um zu prüfen, ob sie echt ist",
-     "Die in der Nachricht angegebene Nummer anrufen und Ihre Bankdaten nennen, damit der Absender überprüft werden kann",
-     "Daran denken, dass die Behörden nie nach persönlichen Daten fragen, und prüfen, ob die Warnung auf lu-alert.lu aufgeführt ist"
+     "Daran denken, dass die Behörden nie nach persönlichen Daten fragen, und prüfen, ob die Warnung auf lu-alert.lu aufgeführt ist",
+     "Die in der Nachricht angegebene Nummer anrufen und Ihre Bankdaten nennen, damit der Absender überprüft werden kann"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Öffentliche Behörden fragen nie nach persönlichen Daten, und die Nachrichten enthalten normalerweise keinen anklickbaren Link. Wenn Sie unsicher sind, überprüfen Sie die Warnung auf lu-alert.lu – und geben Sie niemals persönliche Daten weiter."
    }
   ],
@@ -23307,45 +23307,45 @@ const EPISODES = [
    {
     "text": "Wat ass LU-Alert?",
     "options": [
-     "Den nationale Warn- an Informatiounssystem vu Lëtzebuerg fir d'Bevëlkerung, lancéiert am Hierscht 2024",
      "Eng privat Wieder-App am Abonnement, déi géint Bezuelung Stuerm- an Héichwaasserwarnunge verschéckt",
      "E Konto op de soziale Medie vun der Grand-ducal Police, fir Neiegkeeten iwwer de Verkéier an Evenementer ze deelen",
-     "Eng Versécherung, déi Stéit no Stierm, Iwwerschwemmungen oder anere Katastrophen entschiedegt"
+     "Eng Versécherung, déi Stéit no Stierm, Iwwerschwemmungen oder anere Katastrophen entschiedegt",
+     "Den nationale Warn- an Informatiounssystem vu Lëtzebuerg fir d'Bevëlkerung, lancéiert am Hierscht 2024"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "\"LU-Alert\" kombinéiert \"LU\" (de Landescode vu Lëtzebuerg) an \"Alert\". Et ass den nationale Warn- an Informatiounssystem fir d'Bevëlkerung, agefouert am Hierscht 2024, fir d'Leit viru geféierlechen Evenementer ze warnen."
    },
    {
     "text": "Musst Dir Iech aschreiwen, fir Alarmer iwwer Cell Broadcast oder lokalisatiounsbaséiert SMS ze kréien?",
     "options": [
-     "Jo – Dir musst fir d'éischt Är Handysnummer op lu-alert.lu registréieren, fir iwwerhaapt Warnungen ze kréien",
      "Nee – et gëtt keng Aschreiwung; all Handy an der betraffener Zon gëtt automatesch erreecht",
+     "Jo – Dir musst fir d'éischt Är Handysnummer op lu-alert.lu registréieren, fir iwwerhaapt Warnungen ze kréien",
      "Jo, mä just d'Frontalieren, well hir Telefone auslännesch Netzer benotzen",
      "Et brauch een sech net unzemellen, mä Dir bezuelt eng kleng Joresgebühr iwwer Ären Handysoperateur"
     ],
-    "correct": 1,
+    "correct": 0,
     "explanation": "Fir Cell Broadcast a lokalisatiounsbaséiert SMS schreift Dir Iech net an. Wann Ären Handy an der Zon ass, wann d'Autoritéiten e Message schécken, gëtt en automatesch erreecht. (D'App luet Dir einfach erof.)"
    },
    {
     "text": "A wéi enge Sprooche ginn d'LU-Alert-Messagen verschéckt?",
     "options": [
-     "Op Däitsch, Englesch a Franséisch",
      "Lëtzebuergesch, Franséisch an Däitsch",
      "Franséisch a Portugisesch",
-     "Englesch a Lëtzebuergesch"
+     "Englesch a Lëtzebuergesch",
+     "Op Däitsch, Englesch a Franséisch"
     ],
-    "correct": 0,
+    "correct": 3,
     "explanation": "D'Warn- an Informatiounsmessagen ginn op Däitsch, Englesch a Franséisch erausginn, sou datt och engleschsproocheg Leit ofgedeckt sinn."
    },
    {
     "text": "Wéini ginn d'Sirenen am LU-Alert-System benotzt?",
     "options": [
      "Bei all Wiederwarnung, Dag an Nuecht",
-     "All Dag um zwielef Auer, als kuerzen Test",
      "Fir virun enger eeschter Gefor ze warnen",
+     "All Dag um zwielef Auer, als kuerzen Test",
      "All Kéier, wann d'Handysnetz ausfält"
     ],
-    "correct": 2,
+    "correct": 1,
     "explanation": "D'Sirene warnen d'Bevëlkerung virun enger eeschter Gefor – an enger Regioun oder am ganze Land. E laangen, gläichméissegen Toun heescht: a Sécherheet goen an d'Noriichte verfollegen; en op- an ofschwellenden Toun heescht: an e feste Gebai goen an Dieren a Fënsteren zoumaachen. Déi meescht Alarmer erreechen Iech iwwer den Handy (Cell Broadcast an SMS), d'App, d'Websäiten an d'Medien. D'Sirene ginn den éischte Méindeg vun all Mount géint Mëtteg getest."
    },
    {
@@ -23353,10 +23353,10 @@ const EPISODES = [
     "options": [
      "Op d'SMS mat Ärem Numm, Ärer Adress an Ärem Gebuertsdatum äntweren, fir datt d'Autoritéite bestätege kënnen, wien Dir sidd a wou Dir wunnt",
      "Op de Link am Message klicken an Iech mat Ären LuxTrust-Donnéeën aloggen, fir ze kucken, ob e richteg ass",
-     "D'Nummer aus dem Message uruffen an Är Bankdonnéeë ginn, fir datt den Ofsender iwwerpréift ka ginn",
-     "Drun denken, datt d'Autoritéiten ni no perséinlechen Donnéeë froen, a kucken, ob den Alarm op lu-alert.lu steet"
+     "Drun denken, datt d'Autoritéiten ni no perséinlechen Donnéeë froen, a kucken, ob den Alarm op lu-alert.lu steet",
+     "D'Nummer aus dem Message uruffen an Är Bankdonnéeë ginn, fir datt den Ofsender iwwerpréift ka ginn"
     ],
-    "correct": 3,
+    "correct": 2,
     "explanation": "Déi ëffentlech Autoritéite froen ni no perséinlechen Donnéeën, an d'Messagen enthalen normalerweis kee klickbare Link. Wann Dir net sécher sidd, iwwerpréift den Alarm op lu-alert.lu – an deelt ni perséinlech Donnéeën."
    }
   ]
@@ -24251,55 +24251,55 @@ const EPISODES = [
     "text": "What is the Maison de l'Orientation?",
     "options": [
      "A private tutoring company that helps pupils prepare for exams and charges by the hour",
-     "A State service that brings many school- and career-guidance services together in one place",
      "A university in Luxembourg City where young people can study guidance and psychology",
-     "An employment agency for adults only, where jobseekers must register before they can receive any benefits"
+     "An employment agency for adults only, where jobseekers must register before they can receive any benefits",
+     "A State service that brings many school- and career-guidance services together in one place"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "It is a public administration that gathers, under one roof in Luxembourg City, many public services working on school and career guidance, for any citizen who wants help choosing their path."
    },
    {
     "text": "What is the walk-in guidance space (“Espace Orientation”) like?",
     "options": [
+     "It is free and anonymous, mainly for people aged 14 to 22, and you can come without an appointment",
      "It costs 50 euros per visit, and you always need an appointment that must be booked several weeks in advance",
      "It is only for Luxembourg citizens over 25 who have already finished their studies or training",
-     "It is free and anonymous, mainly for people aged 14 to 22, and you can come without an appointment",
      "It is open only one day per year, during a national open day in the spring, for all ages"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The guidance space offers free, anonymous advice, mainly for people aged about 14 to 22. You can simply walk in (Monday to Friday, 10:00–17:00), or book ahead to avoid waiting."
    },
    {
     "text": "How do you book an appointment at the Maison de l'Orientation?",
     "options": [
+     "Online through MyGuichet.lu, choosing an online or an in-person appointment",
      "By sending a letter by post to the Maison de l'Orientation and waiting for a reply",
      "Only by visiting in person first, since no appointments can be made online or by phone",
-     "Online through MyGuichet.lu, choosing an online or an in-person appointment",
      "Through your bank, which forwards your request to the Maison de l'Orientation"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Appointments are booked online via MyGuichet.lu, where you choose an online/video or an in-person meeting. Booking is possible with or without authentication."
    },
    {
     "text": "What does the orientation coaching session include?",
     "options": [
-     "A guidance coaching session with an interests test – voluntary and by appointment",
      "A written exam that you must pass before you are allowed to choose a school or training",
      "A compulsory medical check, which every pupil must complete before leaving secondary school",
+     "A guidance coaching session with an interests test – voluntary and by appointment",
      "A paid private lesson with a teacher who prepares you for your final exams"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The coaching session comes with an interests test that helps you discover what motivates you and which activities suit you. It is aimed at students, is voluntary, and requires an appointment."
    },
    {
     "text": "Besides young pupils, who else can the Maison de l'Orientation help?",
     "options": [
      "Only primary school children and their teachers – older pupils and adults are sent to other services, such as ADEM or the universities",
+     "Adults changing career and newcomers too – including getting diplomas recognised and experience validated, via services such as ADEM guidance, CePAS, SIA and Euroguidance",
      "Only company owners who want to recruit apprentices, through a dedicated service that matches businesses with young people looking for training",
-     "Nobody else – it only hands out leaflets about schools and trainings, and anyone with questions about recognising diplomas, changing careers or finding a job must go to their commune instead",
-     "Adults changing career and newcomers too – including getting diplomas recognised and experience validated, via services such as ADEM guidance, CePAS, SIA and Euroguidance"
+     "Nobody else – it only hands out leaflets about schools and trainings, and anyone with questions about recognising diplomas, changing careers or finding a job must go to their commune instead"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Beyond pupils aged 14–22, the house helps adults re-orienting or returning to study, and newcomers who need diplomas recognised or experience validated, through services such as ADEM career guidance, CePAS, SIA, ATVA and Euroguidance."
    }
   ],
@@ -26478,55 +26478,55 @@ const EPISODES = [
     "text": "Qu'est-ce que la Maison de l'orientation ?",
     "options": [
      "Une entreprise privée de soutien scolaire qui aide les élèves à préparer leurs examens et facture à l'heure",
-     "Un service de l'État qui rassemble en un seul endroit de nombreux services d'orientation scolaire et professionnelle",
      "Une université à Luxembourg-Ville où les jeunes peuvent étudier l'orientation et la psychologie",
-     "Une agence pour l'emploi réservée aux adultes, où les demandeurs d'emploi doivent s'inscrire avant de toucher la moindre aide"
+     "Une agence pour l'emploi réservée aux adultes, où les demandeurs d'emploi doivent s'inscrire avant de toucher la moindre aide",
+     "Un service de l'État qui rassemble en un seul endroit de nombreux services d'orientation scolaire et professionnelle"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Il s'agit d'une administration publique qui réunit, sous un même toit à Luxembourg-Ville, de nombreux services publics œuvrant à l'orientation scolaire et professionnelle, pour tout citoyen qui souhaite être aidé à choisir sa voie."
    },
    {
     "text": "Comment se présente l'espace d'accueil pour l'orientation (« Espace orientation ») ?",
     "options": [
+     "Il est gratuit et anonyme, surtout pour les personnes de 14 à 22 ans, et vous pouvez venir sans rendez-vous",
      "Il coûte 50 euros par visite, et il faut toujours un rendez-vous réservé plusieurs semaines à l'avance",
      "Il est réservé aux citoyens luxembourgeois de plus de 25 ans ayant déjà terminé leurs études ou leur formation",
-     "Il est gratuit et anonyme, surtout pour les personnes de 14 à 22 ans, et vous pouvez venir sans rendez-vous",
      "Il n'est ouvert qu'un jour par an, lors d'une journée portes ouvertes nationale au printemps, pour tous les âges"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "L'espace d'orientation offre des conseils gratuits et anonymes, surtout pour les personnes d'environ 14 à 22 ans. Vous pouvez simplement vous y présenter (du lundi au vendredi, de 10h00 à 17h00) ou réserver à l'avance pour éviter d'attendre."
    },
    {
     "text": "Comment prend-on rendez-vous à la Maison de l'orientation ?",
     "options": [
+     "En ligne via MyGuichet.lu, en choisissant un rendez-vous en ligne ou en personne",
      "En envoyant une lettre par la poste à la Maison de l'orientation et en attendant une réponse",
      "Uniquement en passant d'abord sur place, car on ne peut prendre rendez-vous ni en ligne ni par téléphone",
-     "En ligne via MyGuichet.lu, en choisissant un rendez-vous en ligne ou en personne",
      "Par l'intermédiaire de votre banque, qui transmet votre demande à la Maison de l'orientation"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Les rendez-vous se prennent en ligne via MyGuichet.lu, où vous choisissez un rendez-vous en ligne/vidéo ou en personne. La réservation est possible avec ou sans authentification."
    },
    {
     "text": "Que comprend la séance de coaching d'orientation ?",
     "options": [
-     "Une séance de coaching d'orientation avec un test d'intérêts – volontaire et sur rendez-vous",
      "Un examen écrit que vous devez réussir avant d'avoir le droit de choisir une école ou une formation",
      "Un contrôle médical obligatoire que chaque élève doit passer avant de quitter l'enseignement secondaire",
+     "Une séance de coaching d'orientation avec un test d'intérêts – volontaire et sur rendez-vous",
      "Un cours particulier payant avec un enseignant qui vous prépare à vos examens de fin d'études"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "La séance de coaching s'accompagne d'un test d'intérêts qui vous aide à découvrir ce qui vous motive et quelles activités vous conviennent. Elle s'adresse aux élèves, est volontaire et nécessite un rendez-vous."
    },
    {
     "text": "Outre les jeunes élèves, qui d'autre la Maison de l'orientation peut-elle aider ?",
     "options": [
      "Seulement les enfants de l'école fondamentale et leurs enseignants – les élèves plus âgés et les adultes sont envoyés vers d'autres services, comme l'ADEM ou les universités",
+     "Les adultes en reconversion et aussi les nouveaux arrivants – y compris pour faire reconnaître des diplômes et valider une expérience, via des services tels que l'orientation de l'ADEM, le CePAS, le SIA et Euroguidance",
      "Seulement les chefs d'entreprise qui veulent recruter des apprentis, grâce à un service dédié qui met en relation les entreprises et les jeunes cherchant une formation",
-     "Personne d'autre – elle distribue seulement des brochures sur les écoles et les formations, et toute question sur la reconnaissance des diplômes, les reconversions professionnelles ou la recherche d'emploi doit être posée à la commune",
-     "Les adultes en reconversion et aussi les nouveaux arrivants – y compris pour faire reconnaître des diplômes et valider une expérience, via des services tels que l'orientation de l'ADEM, le CePAS, le SIA et Euroguidance"
+     "Personne d'autre – elle distribue seulement des brochures sur les écoles et les formations, et toute question sur la reconnaissance des diplômes, les reconversions professionnelles ou la recherche d'emploi doit être posée à la commune"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Au-delà des élèves de 14 à 22 ans, la maison aide les adultes en réorientation ou qui reprennent des études, ainsi que les nouveaux arrivants qui ont besoin de faire reconnaître des diplômes ou de valider une expérience, à travers des services tels que l'orientation professionnelle de l'ADEM, le CePAS, le SIA, l'ATVA et Euroguidance."
    }
   ],
@@ -26549,55 +26549,55 @@ const EPISODES = [
     "text": "Was ist die Maison de l'orientation?",
     "options": [
      "Eine private Nachhilfefirma, die Schüler auf Prüfungen vorbereitet und stundenweise abrechnet",
-     "Ein staatlicher Dienst, der viele Dienste der schulischen und beruflichen Orientierung an einem Ort zusammenbringt",
      "Eine Universität in Luxemburg-Stadt, an der junge Menschen Orientierung und Psychologie studieren können",
-     "Eine Arbeitsagentur nur für Erwachsene, bei der sich Arbeitssuchende anmelden müssen, bevor sie irgendeine Leistung erhalten"
+     "Eine Arbeitsagentur nur für Erwachsene, bei der sich Arbeitssuchende anmelden müssen, bevor sie irgendeine Leistung erhalten",
+     "Ein staatlicher Dienst, der viele Dienste der schulischen und beruflichen Orientierung an einem Ort zusammenbringt"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Es handelt sich um eine öffentliche Verwaltung, die in Luxemburg-Stadt unter einem Dach viele öffentliche Dienste zusammenbringt, die an der schulischen und beruflichen Orientierung arbeiten, für jeden Bürger, der bei der Wahl seines Weges Hilfe sucht."
    },
    {
     "text": "Wie sieht der Empfangsbereich für die Orientierung („Espace orientation“) aus?",
     "options": [
+     "Er ist kostenlos und anonym, vor allem für Menschen von 14 bis 22 Jahren, und Sie können ohne Termin kommen",
      "Er kostet 50 Euro pro Besuch, und man braucht immer einen Termin, der mehrere Wochen im Voraus gebucht werden muss",
      "Er ist nur für luxemburgische Staatsbürger über 25, die ihr Studium oder ihre Ausbildung bereits abgeschlossen haben",
-     "Er ist kostenlos und anonym, vor allem für Menschen von 14 bis 22 Jahren, und Sie können ohne Termin kommen",
      "Er ist nur einen Tag im Jahr geöffnet, bei einem nationalen Tag der offenen Tür im Frühling, für alle Altersgruppen"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Der Orientierungsbereich bietet kostenlose, anonyme Beratung, vor allem für Menschen von etwa 14 bis 22 Jahren. Sie können einfach vorbeikommen (Montag bis Freitag, 10:00–17:00 Uhr) oder im Voraus buchen, um Wartezeiten zu vermeiden."
    },
    {
     "text": "Wie bucht man einen Termin in der Maison de l'orientation?",
     "options": [
+     "Online über MyGuichet.lu, indem Sie einen Online- oder einen persönlichen Termin wählen",
      "Indem Sie einen Brief per Post an die Maison de l'orientation schicken und auf eine Antwort warten",
      "Nur indem Sie zuerst persönlich vorbeikommen, da Termine weder online noch telefonisch möglich sind",
-     "Online über MyGuichet.lu, indem Sie einen Online- oder einen persönlichen Termin wählen",
      "Über Ihre Bank, die Ihre Anfrage an die Maison de l'orientation weiterleitet"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Termine werden online über MyGuichet.lu gebucht, wo Sie ein Online-/Videogespräch oder ein persönliches Treffen wählen. Die Buchung ist mit oder ohne Authentifizierung möglich."
    },
    {
     "text": "Was umfasst die Coaching-Sitzung zur Orientierung?",
     "options": [
-     "Eine Coaching-Sitzung zur Orientierung mit einem Interessentest – freiwillig und nach Termin",
      "Eine schriftliche Prüfung, die Sie bestehen müssen, bevor Sie eine Schule oder Ausbildung wählen dürfen",
      "Eine verpflichtende ärztliche Untersuchung, die jeder Schüler vor dem Verlassen der Sekundarschule machen muss",
+     "Eine Coaching-Sitzung zur Orientierung mit einem Interessentest – freiwillig und nach Termin",
      "Eine bezahlte Privatstunde bei einem Lehrer, der Sie auf Ihre Abschlussprüfungen vorbereitet"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Die Coaching-Sitzung beinhaltet einen Interessentest, der Ihnen hilft zu entdecken, was Sie motiviert und welche Tätigkeiten zu Ihnen passen. Sie richtet sich an Schüler, ist freiwillig und erfordert einen Termin."
    },
    {
     "text": "Wem kann die Maison de l'orientation außer jungen Schülern noch helfen?",
     "options": [
      "Nur Grundschulkinder und ihre Lehrkräfte – ältere Schüler und Erwachsene werden an andere Dienste verwiesen, etwa die ADEM oder die Universitäten",
+     "Erwachsenen in einer beruflichen Neuorientierung und auch Neuankömmlingen – einschließlich der Anerkennung von Diplomen und der Validierung von Erfahrung, über Dienste wie die Orientierung der ADEM, das CePAS, das SIA und Euroguidance",
      "Nur Unternehmer, die Auszubildende einstellen möchten, über einen eigenen Dienst, der Betriebe mit jungen Menschen auf Ausbildungssuche zusammenbringt",
-     "Niemand sonst – sie verteilt nur Broschüren über Schulen und Ausbildungen, und wer Fragen zur Anerkennung von Diplomen, zu einem Berufswechsel, zur Validierung von Erfahrung oder zur Jobsuche hat, muss sich an seine Gemeinde wenden",
-     "Erwachsenen in einer beruflichen Neuorientierung und auch Neuankömmlingen – einschließlich der Anerkennung von Diplomen und der Validierung von Erfahrung, über Dienste wie die Orientierung der ADEM, das CePAS, das SIA und Euroguidance"
+     "Niemand sonst – sie verteilt nur Broschüren über Schulen und Ausbildungen, und wer Fragen zur Anerkennung von Diplomen, zu einem Berufswechsel, zur Validierung von Erfahrung oder zur Jobsuche hat, muss sich an seine Gemeinde wenden"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Über Schüler von 14 bis 22 Jahren hinaus hilft das Haus Erwachsenen, die sich neu orientieren oder zum Studium zurückkehren, sowie Neuankömmlingen, die Diplome anerkennen oder Erfahrung validieren lassen müssen, über Dienste wie die berufliche Orientierung der ADEM, das CePAS, das SIA, die ATVA und Euroguidance."
    }
   ],
@@ -27470,56 +27470,56 @@ const EPISODES = [
    {
     "text": "What is Info-Seniors (infosenior.lu)?",
     "options": [
-     "The State's official information portal for older people in Luxembourg, run by the Ministry of Family",
      "A private chain of retirement homes that runs several care homes across Luxembourg and the Greater Region",
      "A pension savings account offered by the State, into which older people can pay extra money each month",
+     "The State's official information portal for older people in Luxembourg, run by the Ministry of Family",
      "A social network for retirees, where older people can meet, chat and organise trips together"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Info-Seniors, at infosenior.lu, is the official public information portal for older people, run by the Ministry of Family Affairs – not a private company. It is for seniors, their families, professionals and anyone interested."
    },
    {
     "text": "What is special about the services listed in the Public Register of Services for Seniors?",
     "options": [
      "Anyone can add their own service to the list, without any checks by the State",
+     "They are all approved (“agréé”) by the State and subject to regular quality checks",
      "They are only services located in Luxembourg City, since the register is run by the capital",
-     "They are ranked by price only, from the cheapest to the most expensive",
-     "They are all approved (“agréé”) by the State and subject to regular quality checks"
+     "They are ranked by price only, from the cheapest to the most expensive"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "The register lists only services approved by the Ministry (with an “agrément”). To be approved, providers must meet quality requirements, and the Ministry carries out regular checks – so a listed service has been vetted by the State. The register is based on the law of 23 August 2023, has been online since 1 March 2024 and is updated regularly."
    },
    {
     "text": "For each service, what information does the register give you?",
     "options": [
      "Only a phone number and the opening hours of each service",
+     "What the service is, the conditions to use it, and the steps to take",
      "Only customer reviews and a star rating given by other users",
-     "Nothing – you must visit each service in person to learn anything about it",
-     "What the service is, the conditions to use it, and the steps to take"
+     "Nothing – you must visit each service in person to learn anything about it"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "For every approved service the register explains what it is, the conditions for accessing it, and the steps to take – so you know not just the name, but how to actually obtain the help."
    },
    {
     "text": "Which of these is an example of a service you can find through Info-Seniors?",
     "options": [
+     "Telecare (a call-for-help button) and meals on wheels delivered to your home",
      "Free flight tickets for retirees who want to visit family abroad once a year",
      "A tax-free shopping card for people over 65 to use in supermarkets",
-     "Telecare (a call-for-help button) and meals on wheels delivered to your home",
      "A car-leasing discount for older drivers, with free insurance included"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "The register covers care homes, assisted living, day care centres, home help and nursing, meals on wheels, telecare (a telealarm button), and senior activities such as the Clubs Aktiv Plus – all aimed at helping people stay independent at home as long as possible."
    },
    {
     "text": "If you don't know who to ask, or you have a disagreement with a service, what can help?",
     "options": [
      "Nothing – if you have a disagreement, you have to sort it out with the service on your own",
-     "A national information and mediation service that can guide you and help find a solution",
      "Only a private lawyer, because the State does not offer any mediation for seniors' services",
-     "You must first move to a care home, where the staff will handle all questions for you"
+     "You must first move to a care home, where the staff will handle all questions for you",
+     "A national information and mediation service that can guide you and help find a solution"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Besides the website and the register, you can call the Senioren-Telefon (247-86000) for information and advice, and SIMPA, the national information and mediation service for older people, can guide you and help resolve a disagreement with a service – so you are never left on your own."
    }
   ],
@@ -29617,56 +29617,56 @@ const EPISODES = [
    {
     "text": "Qu'est-ce qu'Info-Seniors (infosenior.lu) ?",
     "options": [
-     "Le portail d'information officiel de l'État pour les personnes âgées au Luxembourg, géré par le ministère de la Famille",
      "Une chaîne privée de maisons de retraite qui gère plusieurs maisons de soins au Luxembourg et dans la Grande Région",
      "Un compte d'épargne-pension proposé par l'État, sur lequel les personnes âgées peuvent verser un peu d'argent chaque mois",
+     "Le portail d'information officiel de l'État pour les personnes âgées au Luxembourg, géré par le ministère de la Famille",
      "Un réseau social pour retraités, où les personnes âgées peuvent se rencontrer, discuter et organiser des voyages"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Info-Seniors, sur infosenior.lu, est le portail d'information public officiel pour les personnes âgées, géré par le ministère de la Famille – et non une entreprise privée. Il s'adresse aux seniors, à leurs familles, aux professionnels et à toute personne intéressée."
    },
    {
     "text": "Qu'y a-t-il de particulier dans les services figurant au Registre public des services pour personnes âgées ?",
     "options": [
      "N'importe qui peut ajouter son propre service à la liste, sans aucun contrôle de l'État",
+     "Ils sont tous agréés par l'État et soumis à des contrôles de qualité réguliers",
      "Ce sont uniquement des services situés à Luxembourg-Ville, car le registre est géré par la capitale",
-     "Ils sont classés uniquement selon leur prix, du moins cher au plus cher",
-     "Ils sont tous agréés par l'État et soumis à des contrôles de qualité réguliers"
+     "Ils sont classés uniquement selon leur prix, du moins cher au plus cher"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Le registre ne liste que les services agréés par le ministère (avec un « agrément »). Pour être agréés, les prestataires doivent répondre à des exigences de qualité, et le ministère effectue des contrôles réguliers – ainsi, un service répertorié a été vérifié par l'État. Le registre repose sur la loi du 23 août 2023, est en ligne depuis le 1er mars 2024 et est mis à jour régulièrement."
    },
    {
     "text": "Pour chaque service, quelles informations le registre vous donne-t-il ?",
     "options": [
      "Seulement un numéro de téléphone et les horaires d'ouverture de chaque service",
+     "Ce qu'est le service, les conditions pour en bénéficier et les démarches à effectuer",
      "Seulement des avis de clients et une note en étoiles donnée par d'autres utilisateurs",
-     "Rien – vous devez vous rendre dans chaque service pour en apprendre quoi que ce soit",
-     "Ce qu'est le service, les conditions pour en bénéficier et les démarches à effectuer"
+     "Rien – vous devez vous rendre dans chaque service pour en apprendre quoi que ce soit"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Pour chaque service agréé, le registre explique ce qu'il est, les conditions pour y accéder et les démarches à effectuer – vous connaissez ainsi non seulement le nom, mais aussi la manière d'obtenir réellement l'aide."
    },
    {
     "text": "Lequel de ces éléments est un exemple de service que vous pouvez trouver via Info-Seniors ?",
     "options": [
+     "La télévigilance (un bouton d'appel à l'aide) et les repas sur roues livrés à votre domicile",
      "Des billets d'avion gratuits pour les retraités qui veulent rendre visite à leur famille à l'étranger une fois par an",
      "Une carte d'achat sans taxes pour les plus de 65 ans, à utiliser dans les supermarchés",
-     "La télévigilance (un bouton d'appel à l'aide) et les repas sur roues livrés à votre domicile",
      "Une réduction sur le leasing automobile pour les conducteurs âgés, avec assurance gratuite incluse"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Le registre couvre les maisons de soins, les logements encadrés, les centres d'accueil de jour, l'aide et les soins à domicile, les repas sur roues, la télévigilance (un bouton de téléalarme) et les activités pour seniors comme les Clubs Aktiv Plus – le tout visant à aider les personnes à rester autonomes chez elles le plus longtemps possible."
    },
    {
     "text": "Si vous ne savez pas à qui vous adresser, ou si vous avez un désaccord avec un service, qu'est-ce qui peut vous aider ?",
     "options": [
      "Rien – en cas de désaccord, vous devez régler le problème seul avec le service",
-     "Un service national d'information et de médiation qui peut vous orienter et vous aider à trouver une solution",
      "Seulement un avocat privé, car l'État ne propose aucune médiation pour les services aux seniors",
-     "Vous devez d'abord emménager dans une maison de soins, où le personnel gérera ensuite toutes les questions à votre place"
+     "Vous devez d'abord emménager dans une maison de soins, où le personnel gérera ensuite toutes les questions à votre place",
+     "Un service national d'information et de médiation qui peut vous orienter et vous aider à trouver une solution"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Outre le site web et le registre, vous pouvez appeler le Senioren-Telefon (247-86000) pour vous informer et vous faire conseiller, et le SIMPA, le service national d'information et de médiation pour personnes âgées, peut vous orienter et vous aider à résoudre un désaccord avec un service – vous n'êtes donc jamais laissé seul."
    }
   ],
@@ -29688,56 +29688,56 @@ const EPISODES = [
    {
     "text": "Was ist Info-Seniors (infosenior.lu)?",
     "options": [
-     "Das offizielle Informationsportal des Staates für ältere Menschen in Luxemburg, betrieben vom Familienministerium",
      "Eine private Kette von Seniorenheimen, die mehrere Pflegeheime in Luxemburg und der Großregion betreibt",
      "Ein staatliches Rentensparkonto, auf das ältere Menschen jeden Monat zusätzlich Geld einzahlen können",
+     "Das offizielle Informationsportal des Staates für ältere Menschen in Luxemburg, betrieben vom Familienministerium",
      "Ein soziales Netzwerk für Rentner, in dem sich ältere Menschen treffen, austauschen und gemeinsam Reisen und Ausflüge planen"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Info-Seniors, unter infosenior.lu, ist das offizielle öffentliche Informationsportal für ältere Menschen, betrieben vom Familienministerium – kein privates Unternehmen. Es ist für Senioren, ihre Familien, Fachkräfte und alle Interessierten."
    },
    {
     "text": "Was ist das Besondere an den im Öffentlichen Register der Seniorendienste aufgeführten Diensten?",
     "options": [
      "Jeder kann seinen eigenen Dienst in die Liste eintragen, ganz ohne Kontrolle oder Zulassung durch den Staat",
+     "Sie sind alle vom Staat zugelassen („agréé“) und unterliegen regelmäßigen Qualitätskontrollen",
      "Es sind nur Dienste in Luxemburg-Stadt, da das Register von der Hauptstadt geführt wird",
-     "Sie sind nur nach Preis sortiert, vom günstigsten bis zum teuersten",
-     "Sie sind alle vom Staat zugelassen („agréé“) und unterliegen regelmäßigen Qualitätskontrollen"
+     "Sie sind nur nach Preis sortiert, vom günstigsten bis zum teuersten"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Das Register führt nur Dienste auf, die vom Ministerium zugelassen sind (mit einem „agrément“). Um zugelassen zu werden, müssen die Anbieter Qualitätsanforderungen erfüllen, und das Ministerium führt regelmäßige Kontrollen durch – ein aufgeführter Dienst wurde also vom Staat geprüft. Das Register beruht auf dem Gesetz vom 23. August 2023, ist seit dem 1. März 2024 online und wird regelmäßig aktualisiert."
    },
    {
     "text": "Welche Informationen gibt Ihnen das Register zu jedem Dienst?",
     "options": [
      "Nur eine Telefonnummer und die Öffnungszeiten jedes Dienstes",
+     "Was der Dienst ist, die Bedingungen für seine Nutzung und die zu unternehmenden Schritte",
      "Nur Kundenbewertungen und eine Sternebewertung anderer Nutzer",
-     "Nichts – Sie müssen jeden Dienst einzeln persönlich besuchen, um überhaupt etwas zu erfahren",
-     "Was der Dienst ist, die Bedingungen für seine Nutzung und die zu unternehmenden Schritte"
+     "Nichts – Sie müssen jeden Dienst einzeln persönlich besuchen, um überhaupt etwas zu erfahren"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Für jeden zugelassenen Dienst erklärt das Register, was er ist, die Bedingungen für den Zugang und die zu unternehmenden Schritte – so kennen Sie nicht nur den Namen, sondern auch, wie Sie die Hilfe tatsächlich erhalten."
    },
    {
     "text": "Welches dieser Beispiele ist ein Dienst, den Sie über Info-Seniors finden können?",
     "options": [
+     "Telealarm (ein Hilferuf-Knopf) und Essen auf Rädern, das zu Ihnen nach Hause geliefert wird",
      "Kostenlose Flugtickets für Rentner, die einmal im Jahr ihre Familie im Ausland besuchen möchten",
      "Eine steuerfreie Einkaufskarte für Menschen über 65 für den Supermarkt",
-     "Telealarm (ein Hilferuf-Knopf) und Essen auf Rädern, das zu Ihnen nach Hause geliefert wird",
      "Ein Rabatt auf Autoleasing für ältere Fahrer, inklusive kostenloser Versicherung"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Das Register umfasst Pflegeheime, betreutes Wohnen, Tagesbetreuungszentren, Haushaltshilfe und Pflege zu Hause, Essen auf Rädern, Telealarm (einen Telealarm-Knopf) und Seniorenaktivitäten wie die Clubs Aktiv Plus – alles mit dem Ziel, Menschen so lange wie möglich selbstständig zu Hause leben zu lassen."
    },
    {
     "text": "Wenn Sie nicht wissen, an wen Sie sich wenden sollen, oder wenn Sie eine Meinungsverschiedenheit mit einem Dienst haben, was kann helfen?",
     "options": [
      "Nichts – bei einer Meinungsverschiedenheit müssen Sie das ganz allein und ohne jede Hilfe mit dem Dienst klären",
-     "Ein nationaler Informations- und Mediationsdienst, der Sie orientieren und bei der Suche nach einer Lösung helfen kann",
      "Nur ein privater Anwalt, weil der Staat keine Schlichtung für Seniorendienste anbietet",
-     "Sie müssen zuerst in ein Pflegeheim ziehen, wo das Personal alle Fragen für Sie regelt"
+     "Sie müssen zuerst in ein Pflegeheim ziehen, wo das Personal alle Fragen für Sie regelt",
+     "Ein nationaler Informations- und Mediationsdienst, der Sie orientieren und bei der Suche nach einer Lösung helfen kann"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Neben der Webseite und dem Register können Sie das Senioren-Telefon (247-86000) für Information und Beratung anrufen, und SIMPA, der nationale Informations- und Mediationsdienst für ältere Menschen, kann Sie orientieren und helfen, eine Meinungsverschiedenheit mit einem Dienst zu lösen – so werden Sie nie allein gelassen."
    }
   ],
@@ -30865,56 +30865,56 @@ const EPISODES = [
    {
     "text": "What is accessibilite.lu?",
     "options": [
-     "The official Government of Luxembourg hub that brings together three areas of accessibility: digital, infrastructure, and products & services",
      "A private company that sells accessibility equipment such as ramps, lifts and screen readers to homes and businesses across Luxembourg",
      "An online application where people with a disability apply for benefits and follow the status of their payments from the State",
+     "The official Government of Luxembourg hub that brings together three areas of accessibility: digital, infrastructure, and products & services",
      "A map of wheelchair-friendly restaurants, shops and cafés in Luxembourg, based on ratings and comments from the public and from local businesses"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "accessibilite.lu is the official public hub of the Government of Luxembourg. It opens onto three portals: digital accessibility, infrastructure accessibility, and accessibility of products and services."
    },
    {
     "text": "Under the law of 28 May 2019 on digital accessibility, who must make their websites and mobile apps accessible?",
     "options": [
      "Every private website in Luxembourg, including blogs and small shops",
+     "Public sector bodies – the State, the communes and public-law bodies",
      "Only online shops that sell products to customers in the European Union",
-     "Only social media platforms with more than a million users",
-     "Public sector bodies – the State, the communes and public-law bodies"
+     "Only social media platforms with more than a million users"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "The law of 28 May 2019 requires public sector websites and mobile apps (the State, communes and public-law bodies) to be accessible, following the European standard EN 301 549."
    },
    {
     "text": "What are the four key principles of digital accessibility?",
     "options": [
+     "Perceivable, operable, understandable and robust",
      "Fast, modern, colourful and easy to remember",
      "Private, secure, encrypted and regularly backed-up",
-     "Perceivable, operable, understandable and robust",
      "Mobile, desktop, tablet and smartwatch compatible"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Accessible digital content must be perceivable (e.g. text descriptions for images), operable (e.g. usable with a keyboard), understandable (clear and predictable) and robust (works with assistive technologies)."
    },
    {
     "text": "What idea is the infrastructure law of 7 January 2022 built on, and what is the deadline for existing public places?",
     "options": [
-     "Universal design – places usable by everyone from the start; existing public places accessible by 1 January 2032",
      "Separate entrances and special rooms for disabled people; existing public places must be adapted by 2025",
      "Demolishing and rebuilding all old public buildings; existing public places must be replaced by 2030",
+     "Universal design – places usable by everyone from the start; existing public places accessible by 1 January 2032",
      "Voluntary guidelines that owners can follow if they wish; there is no deadline at all for existing public places"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "The law (in force since 1 July 2023) is based on universal design – designing places usable by everyone from the start. New builds and major works must comply now; existing places open to the public must be accessible by 1 January 2032."
    },
    {
     "text": "The accessibility of products and services comes from the European Accessibility Act. Since when does it apply, and how can you report a product or service that isn't accessible?",
     "options": [
      "Since 2019; by calling the police, who forward your report to the ministry",
-     "Since 28 June 2025; online via MyGuichet.lu (to the OSAPS office)",
      "Since 2030; only by sending a letter to the European Commission",
-     "It does not apply in Luxembourg yet; reports are not possible"
+     "It does not apply in Luxembourg yet; reports are not possible",
+     "Since 28 June 2025; online via MyGuichet.lu (to the OSAPS office)"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Luxembourg transposed the European Accessibility Act (Law of 8 March 2023), applicable since 28 June 2025. The OSAPS office monitors compliance, and anyone can report a non-accessible product or service online via MyGuichet.lu."
    }
   ],
@@ -33637,56 +33637,56 @@ const EPISODES = [
    {
     "text": "Qu'est-ce qu'accessibilite.lu ?",
     "options": [
-     "Le portail officiel du Gouvernement du Luxembourg qui rassemble trois domaines de l'accessibilité : le numérique, les infrastructures, et les produits et services",
      "Une entreprise privée qui vend du matériel d'accessibilité comme des rampes, des ascenseurs et des lecteurs d'écran aux particuliers et aux entreprises au Luxembourg",
      "Une application en ligne où les personnes en situation de handicap demandent des aides et suivent l'état de leurs paiements de l'État",
+     "Le portail officiel du Gouvernement du Luxembourg qui rassemble trois domaines de l'accessibilité : le numérique, les infrastructures, et les produits et services",
      "Une carte des restaurants, magasins et cafés accessibles en fauteuil roulant au Luxembourg, basée sur les notes et les commentaires du public et des commerces locaux"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "accessibilite.lu est le portail officiel du Gouvernement du Luxembourg. Il ouvre sur trois portails : l'accessibilité numérique, l'accessibilité des infrastructures, et l'accessibilité des produits et services."
    },
    {
     "text": "En vertu de la loi du 28 mai 2019 sur l'accessibilité numérique, qui doit rendre ses sites web et applications mobiles accessibles ?",
     "options": [
      "Tous les sites privés du Luxembourg, y compris les blogs et les petites boutiques",
+     "Les organismes du secteur public – l'État, les communes et les organismes de droit public",
      "Seulement les boutiques en ligne qui vendent des produits à des clients de l'Union européenne",
-     "Seulement les réseaux sociaux de plus d'un million d'utilisateurs",
-     "Les organismes du secteur public – l'État, les communes et les organismes de droit public"
+     "Seulement les réseaux sociaux de plus d'un million d'utilisateurs"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "La loi du 28 mai 2019 exige que les sites web et applications mobiles du secteur public (l'État, les communes et les organismes de droit public) soient accessibles, selon la norme européenne EN 301 549."
    },
    {
     "text": "Quels sont les quatre principes clés de l'accessibilité numérique ?",
     "options": [
+     "Perceptible, utilisable, compréhensible et robuste",
      "Rapide, moderne, coloré et facile à retenir",
      "Privé, sécurisé, chiffré et sauvegardé régulièrement",
-     "Perceptible, utilisable, compréhensible et robuste",
      "Compatible mobile, ordinateur, tablette et montre connectée"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Un contenu numérique accessible doit être perceptible (par exemple, des descriptions textuelles pour les images), utilisable (par exemple, utilisable au clavier), compréhensible (clair et prévisible) et robuste (fonctionne avec les technologies d'assistance)."
    },
    {
     "text": "Sur quelle idée repose la loi du 7 janvier 2022 sur les infrastructures, et quelle est l'échéance pour les lieux publics existants ?",
     "options": [
-     "Le design universel – des lieux utilisables par tous dès le départ ; les lieux publics existants accessibles d'ici le 1er janvier 2032",
      "Des entrées séparées et des salles spéciales pour les personnes handicapées ; les lieux publics existants doivent être adaptés d'ici 2025",
      "Démolir et reconstruire tous les anciens bâtiments publics ; les lieux publics existants doivent être remplacés d'ici 2030",
+     "Le design universel – des lieux utilisables par tous dès le départ ; les lieux publics existants accessibles d'ici le 1er janvier 2032",
      "Des recommandations facultatives que les propriétaires suivent s'ils le souhaitent ; aucune échéance pour les lieux publics existants"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "La loi (en vigueur depuis le 1er juillet 2023) repose sur le design universel – concevoir des lieux utilisables par tous dès le départ. Les nouvelles constructions et les gros travaux doivent désormais s'y conformer ; les lieux existants ouverts au public doivent être accessibles d'ici le 1er janvier 2032."
    },
    {
     "text": "L'accessibilité des produits et services découle de l'Acte européen sur l'accessibilité. Depuis quand s'applique-t-il, et comment pouvez-vous signaler un produit ou un service qui n'est pas accessible ?",
     "options": [
      "Depuis 2019 ; en appelant la police, qui transmet votre signalement au ministère",
-     "Depuis le 28 juin 2025 ; en ligne via MyGuichet.lu (auprès du bureau OSAPS)",
      "Depuis 2030 ; uniquement par lettre à la Commission européenne",
-     "Il ne s'applique pas encore au Luxembourg ; aucun signalement n'est possible"
+     "Il ne s'applique pas encore au Luxembourg ; aucun signalement n'est possible",
+     "Depuis le 28 juin 2025 ; en ligne via MyGuichet.lu (auprès du bureau OSAPS)"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Le Luxembourg a transposé l'Acte européen sur l'accessibilité (loi du 8 mars 2023), applicable depuis le 28 juin 2025. Le bureau OSAPS surveille la conformité, et toute personne peut signaler un produit ou un service non accessible en ligne via MyGuichet.lu."
    }
   ],
@@ -33708,56 +33708,56 @@ const EPISODES = [
    {
     "text": "Was ist accessibilite.lu?",
     "options": [
-     "Das offizielle Portal der Regierung von Luxemburg, das drei Bereiche der Barrierefreiheit zusammenbringt: das Digitale, die Infrastruktur und die Produkte und Dienstleistungen",
      "Ein privates Unternehmen, das Hilfsmittel für Barrierefreiheit wie Rampen, Aufzüge und Screenreader an Haushalte und Firmen in ganz Luxemburg verkauft",
      "Eine Online-Anwendung, über die Menschen mit Behinderung Leistungen beantragen und den Stand ihrer staatlichen Zahlungen verfolgen",
+     "Das offizielle Portal der Regierung von Luxemburg, das drei Bereiche der Barrierefreiheit zusammenbringt: das Digitale, die Infrastruktur und die Produkte und Dienstleistungen",
      "Eine Karte rollstuhlgerechter Restaurants, Geschäfte und Cafés in ganz Luxemburg, auf Grundlage von Bewertungen und Kommentaren der Öffentlichkeit und der lokalen Betriebe"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "accessibilite.lu ist das offizielle Portal der Regierung von Luxemburg. Es öffnet sich auf drei Portale: die digitale Barrierefreiheit, die Barrierefreiheit der Infrastruktur und die Barrierefreiheit von Produkten und Dienstleistungen."
    },
    {
     "text": "Wer muss nach dem Gesetz vom 28. Mai 2019 über die digitale Barrierefreiheit seine Websites und mobilen Apps barrierefrei machen?",
     "options": [
      "Jede private Website in Luxemburg, einschließlich Blogs und kleiner Shops",
+     "Stellen des öffentlichen Sektors – der Staat, die Gemeinden und öffentlich-rechtliche Einrichtungen",
      "Nur Online-Shops, die Produkte an Kunden in der Europäischen Union verkaufen und mehr als zehn Mitarbeiter haben",
-     "Nur soziale Netzwerke mit mehr als einer Million Nutzern",
-     "Stellen des öffentlichen Sektors – der Staat, die Gemeinden und öffentlich-rechtliche Einrichtungen"
+     "Nur soziale Netzwerke mit mehr als einer Million Nutzern"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "Das Gesetz vom 28. Mai 2019 verlangt, dass Websites und mobile Apps des öffentlichen Sektors (der Staat, die Gemeinden und öffentlich-rechtliche Einrichtungen) barrierefrei sind, gemäß der europäischen Norm EN 301 549."
    },
    {
     "text": "Was sind die vier Grundprinzipien der digitalen Barrierefreiheit?",
     "options": [
+     "Wahrnehmbar, bedienbar, verständlich und robust",
      "Schnell, modern, farbenfroh und leicht zu merken",
      "Privat, sicher, verschlüsselt und regelmäßig gesichert",
-     "Wahrnehmbar, bedienbar, verständlich und robust",
      "Kompatibel mit Handy, Computer, Tablet und Smartwatch"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "Barrierefreie digitale Inhalte müssen wahrnehmbar sein (z. B. Textbeschreibungen für Bilder), bedienbar (z. B. mit der Tastatur nutzbar), verständlich (klar und vorhersehbar) und robust (funktioniert mit assistiven Technologien)."
    },
    {
     "text": "Auf welcher Idee beruht das Infrastrukturgesetz vom 7. Januar 2022, und was ist die Frist für bestehende öffentliche Orte?",
     "options": [
-     "Universelles Design – Orte, die von Anfang an von allen nutzbar sind; bestehende öffentliche Orte bis zum 1. Januar 2032 barrierefrei",
      "Getrennte Eingänge und besondere Räume für Menschen mit Behinderung; bestehende öffentliche Orte müssen bis 2025 angepasst sein",
      "Abriss und Neubau aller alten öffentlichen Gebäude; bestehende öffentliche Orte müssen bis 2030 ersetzt sein",
+     "Universelles Design – Orte, die von Anfang an von allen nutzbar sind; bestehende öffentliche Orte bis zum 1. Januar 2032 barrierefrei",
      "Freiwillige Leitlinien, denen Eigentümer folgen können, wenn sie wollen; für bestehende öffentliche Orte gibt es überhaupt keine Frist"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Das Gesetz (in Kraft seit dem 1. Juli 2023) beruht auf dem universellen Design – Orte so zu gestalten, dass sie von Anfang an von allen nutzbar sind. Neubauten und größere Arbeiten müssen jetzt konform sein; bestehende, der Öffentlichkeit zugängliche Orte müssen bis zum 1. Januar 2032 barrierefrei sein."
    },
    {
     "text": "Die Barrierefreiheit von Produkten und Dienstleistungen ergibt sich aus dem Europäischen Rechtsakt zur Barrierefreiheit. Seit wann gilt er, und wie können Sie ein Produkt oder eine Dienstleistung melden, das bzw. die nicht barrierefrei ist?",
     "options": [
      "Seit 2019; indem Sie die Polizei anrufen, die Ihre Meldung an das Ministerium weiterleitet",
-     "Seit dem 28. Juni 2025; online über MyGuichet.lu (an die Stelle OSAPS)",
      "Seit 2030; nur per Brief an die Europäische Kommission",
-     "Er gilt in Luxemburg noch nicht; Meldungen sind nicht möglich"
+     "Er gilt in Luxemburg noch nicht; Meldungen sind nicht möglich",
+     "Seit dem 28. Juni 2025; online über MyGuichet.lu (an die Stelle OSAPS)"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Luxemburg hat den Europäischen Rechtsakt zur Barrierefreiheit umgesetzt (Gesetz vom 8. März 2023), anwendbar seit dem 28. Juni 2025. Die Stelle OSAPS überwacht die Einhaltung, und jeder kann ein nicht barrierefreies Produkt oder eine nicht barrierefreie Dienstleistung online über MyGuichet.lu melden."
    }
   ],
@@ -38384,12 +38384,12 @@ const EPISODES = [
    {
     "text": "What is ADEM?",
     "options": [
+     "Luxembourg's free, public employment service that helps jobseekers and employers",
      "A private recruitment company that you pay to find a job for you",
      "A bank that pays out salaries on behalf of Luxembourg employers",
-     "A trade union that defends workers in conflicts with their employer",
-     "Luxembourg's free, public employment service that helps jobseekers and employers"
+     "A trade union that defends workers in conflicts with their employer"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "ADEM, the “Agence pour le développement de l’emploi”, is Luxembourg's public employment service. It is free and sits between people looking for work and employers looking for staff."
    },
    {
@@ -38397,43 +38397,43 @@ const EPISODES = [
     "options": [
      "Only by post, with a paper form and a copy of your contract",
      "Only by turning up at any ADEM office, without an appointment",
-     "Online via MyGuichet.lu with a secure login, or in person by appointment",
-     "Through your bank, which sends your details to ADEM for you"
+     "Through your bank, which sends your details to ADEM for you",
+     "Online via MyGuichet.lu with a secure login, or in person by appointment"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "You can register online on MyGuichet.lu using a secure login such as LuxTrust, or in person at one of ADEM's offices (Luxembourg, Esch-Belval or Diekirch) after booking an appointment on 247-88888."
    },
    {
     "text": "What do you get once you are registered with ADEM?",
     "options": [
-     "A personal advisor, access to the JobBoard, training and support",
      "Nothing until you find a job yourself; ADEM only keeps your name on file",
+     "A personal advisor, access to the JobBoard, training and support",
      "A guaranteed job within one week, chosen for you by ADEM",
      "A monthly allowance straight away, whatever your situation"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Registration opens the door to ADEM's services: a personal referent advisor, access to the JobBoard of vacancies, training and employment measures, and practical help such as the Employment Club."
    },
    {
     "text": "What must you do before you can apply for unemployment benefit?",
     "options": [
+     "First register as a jobseeker with ADEM",
      "Pay a registration fee at your commune",
      "Already have a signed new job contract",
-     "Wait two years after losing your job",
-     "First register as a jobseeker with ADEM"
+     "Wait two years after losing your job"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "To apply for unemployment benefit (“indemnité de chômage”), you must first be registered as a jobseeker. ADEM then checks automatically whether you may be entitled, and applications are now fully online."
    },
    {
     "text": "What does the Youth Guarantee promise young people?",
     "options": [
      "A free place at the University of Luxembourg for every young person who registers with ADEM",
-     "A tailored solution to enter working life within four months of registering with ADEM",
      "A cash prize of several thousand euros for young people who find a job on their own",
+     "A tailored solution to enter working life within four months of registering with ADEM",
      "A guaranteed permanent job in the civil service, for life, after a short training course"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "The Youth Guarantee aims to offer every young person aged 16 to 30 a concrete solution – a job, training or another step – to enter working life within four months of registering with ADEM."
    }
   ],
@@ -38456,12 +38456,12 @@ const EPISODES = [
    {
     "text": "Qu’est-ce que l’ADEM ?",
     "options": [
+     "Le service public de l’emploi du Luxembourg, gratuit, qui aide demandeurs d’emploi et employeurs",
      "Une entreprise de recrutement privée que vous payez chaque mois pour qu'elle vous trouve un emploi",
      "Une banque qui verse les salaires pour le compte des employeurs luxembourgeois",
-     "Un syndicat qui défend les salariés en conflit avec leur employeur",
-     "Le service public de l’emploi du Luxembourg, gratuit, qui aide demandeurs d’emploi et employeurs"
+     "Un syndicat qui défend les salariés en conflit avec leur employeur"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "L’ADEM, l’« Agence pour le développement de l’emploi », est le service public de l’emploi du Luxembourg. Elle est gratuite et fait le lien entre les personnes qui cherchent un emploi et les employeurs qui cherchent du personnel."
    },
    {
@@ -38469,43 +38469,43 @@ const EPISODES = [
     "options": [
      "Uniquement par courrier, avec un formulaire papier rempli à la main et une copie de votre dernier contrat",
      "Uniquement en vous présentant dans une agence de l'ADEM, sans rendez-vous",
-     "En ligne via MyGuichet.lu avec une authentification sécurisée, ou en personne sur rendez-vous",
-     "Par votre banque, qui transmet vos données à l'ADEM à votre place"
+     "Par votre banque, qui transmet vos données à l'ADEM à votre place",
+     "En ligne via MyGuichet.lu avec une authentification sécurisée, ou en personne sur rendez-vous"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Vous pouvez vous inscrire en ligne sur MyGuichet.lu avec une authentification sécurisée comme LuxTrust, ou en personne dans l’une des agences de l’ADEM (Luxembourg, Esch-Belval ou Diekirch) après avoir pris rendez-vous au 247-88888."
    },
    {
     "text": "Que recevez-vous une fois inscrit auprès de l’ADEM ?",
     "options": [
-     "Un conseiller personnel, l’accès au JobBoard, des formations et un accompagnement",
      "Rien tant que vous ne trouvez pas d'emploi vous-même ; l'ADEM garde seulement votre nom",
+     "Un conseiller personnel, l’accès au JobBoard, des formations et un accompagnement",
      "Un emploi garanti en une semaine, choisi pour vous par l'ADEM",
      "Une allocation mensuelle tout de suite, quelle que soit votre situation"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "L’inscription ouvre l’accès aux services de l’ADEM : un conseiller référent personnel, l’accès au JobBoard des offres d’emploi, des formations et des mesures pour l’emploi, ainsi qu’une aide pratique comme le Club de l’emploi."
    },
    {
     "text": "Que devez-vous faire avant de pouvoir demander l’indemnité de chômage ?",
     "options": [
+     "Vous inscrire d’abord comme demandeur d’emploi auprès de l’ADEM",
      "Payer des frais d'inscription à la commune",
      "Avoir déjà signé un nouveau contrat de travail",
-     "Attendre deux ans après la perte de votre dernier emploi",
-     "Vous inscrire d’abord comme demandeur d’emploi auprès de l’ADEM"
+     "Attendre deux ans après la perte de votre dernier emploi"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "Pour demander l’indemnité de chômage, vous devez d’abord être inscrit comme demandeur d’emploi. L’ADEM vérifie ensuite automatiquement si vous pouvez y prétendre, et la demande se fait désormais entièrement en ligne."
    },
    {
     "text": "Que promet la Garantie Jeunesse aux jeunes ?",
     "options": [
      "Une place gratuite à l'Université du Luxembourg pour chaque jeune qui s'inscrit à l'ADEM",
-     "Une solution sur mesure pour entrer dans la vie active dans les quatre mois suivant l’inscription à l’ADEM",
      "Une prime de plusieurs milliers d'euros pour les jeunes qui trouvent un emploi par eux-mêmes, sans aide",
+     "Une solution sur mesure pour entrer dans la vie active dans les quatre mois suivant l’inscription à l’ADEM",
      "Un emploi garanti à vie dans la fonction publique, après une courte formation"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "La Garantie Jeunesse vise à offrir à chaque jeune de 16 à 30 ans une solution concrète – un emploi, une formation ou une autre étape – pour entrer dans la vie active dans les quatre mois suivant son inscription à l’ADEM."
    }
   ],
@@ -38525,12 +38525,12 @@ const EPISODES = [
    {
     "text": "Was ist die ADEM?",
     "options": [
+     "Der kostenlose, öffentliche Arbeitsvermittlungsdienst Luxemburgs, der Arbeitsuchende und Arbeitgeber unterstützt",
      "Ein privates Personalvermittlungsunternehmen, das Sie jeden Monat bezahlen, damit es Ihnen einen Job findet",
      "Eine Bank, die im Auftrag luxemburgischer Arbeitgeber die Gehälter auszahlt",
-     "Eine Gewerkschaft, die Arbeitnehmer in Konflikten mit ihrem Arbeitgeber verteidigt",
-     "Der kostenlose, öffentliche Arbeitsvermittlungsdienst Luxemburgs, der Arbeitsuchende und Arbeitgeber unterstützt"
+     "Eine Gewerkschaft, die Arbeitnehmer in Konflikten mit ihrem Arbeitgeber verteidigt"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "Die ADEM, die „Agence pour le développement de l’emploi“, ist der öffentliche Arbeitsvermittlungsdienst Luxemburgs. Sie ist kostenlos und vermittelt zwischen Menschen, die Arbeit suchen, und Arbeitgebern, die Personal suchen."
    },
    {
@@ -38538,43 +38538,43 @@ const EPISODES = [
     "options": [
      "Nur per Post, mit einem Papierformular und einer Kopie Ihres Vertrags",
      "Nur indem Sie ohne Termin und ohne Anmeldung in einer beliebigen ADEM-Geschäftsstelle erscheinen",
-     "Online über MyGuichet.lu mit einem sicheren Login, oder persönlich nach Terminvereinbarung",
-     "Über Ihre Bank, die Ihre Daten für Sie an die ADEM weiterleitet"
+     "Über Ihre Bank, die Ihre Daten für Sie an die ADEM weiterleitet",
+     "Online über MyGuichet.lu mit einem sicheren Login, oder persönlich nach Terminvereinbarung"
     ],
-    "correct": 2,
+    "correct": 3,
     "explanation": "Sie können sich online auf MyGuichet.lu mit einem sicheren Login wie LuxTrust registrieren, oder persönlich in einer der ADEM-Agenturen (Luxemburg, Esch-Belval oder Diekirch) nach Terminvereinbarung unter 247-88888."
    },
    {
     "text": "Was erhalten Sie, sobald Sie bei der ADEM registriert sind?",
     "options": [
-     "Einen persönlichen Berater, Zugang zum JobBoard, Weiterbildungen und Unterstützung",
      "Nichts, bis Sie selbst einen Job finden; die ADEM speichert nur Ihren Namen",
+     "Einen persönlichen Berater, Zugang zum JobBoard, Weiterbildungen und Unterstützung",
      "Einen garantierten Job innerhalb einer Woche, den die ADEM für Sie aussucht",
      "Sofort eine monatliche Zahlung, unabhängig von Ihrer Situation"
     ],
-    "correct": 0,
+    "correct": 1,
     "explanation": "Die Registrierung öffnet den Zugang zu den Leistungen der ADEM: einen persönlichen Referenzberater, Zugang zum JobBoard mit Stellenangeboten, Weiterbildungen und Beschäftigungsmaßnahmen sowie praktische Hilfe wie den Beschäftigungsclub."
    },
    {
     "text": "Was müssen Sie tun, bevor Sie Arbeitslosengeld beantragen können?",
     "options": [
+     "Sich zuerst bei der ADEM als Arbeitsuchender registrieren",
      "Eine Anmeldegebühr bei der Gemeinde zahlen",
      "Bereits einen neuen Arbeitsvertrag unterschrieben haben",
-     "Nach dem Jobverlust zwei Jahre warten",
-     "Sich zuerst bei der ADEM als Arbeitsuchender registrieren"
+     "Nach dem Jobverlust zwei Jahre warten"
     ],
-    "correct": 3,
+    "correct": 0,
     "explanation": "Um Arbeitslosengeld zu beantragen, müssen Sie zuerst als Arbeitsuchender registriert sein. Die ADEM prüft dann automatisch, ob Sie Anspruch haben könnten, und der Antrag erfolgt jetzt vollständig online."
    },
    {
     "text": "Was verspricht die Jugendgarantie jungen Menschen?",
     "options": [
      "Einen kostenlosen Studienplatz an der Universität Luxemburg für jeden jungen Menschen, der sich bei der ADEM anmeldet",
-     "Eine maßgeschneiderte Lösung für den Einstieg ins Berufsleben innerhalb von vier Monaten nach der Registrierung bei der ADEM",
      "Eine Geldprämie von mehreren tausend Euro für junge Menschen, die selbst einen Job finden",
+     "Eine maßgeschneiderte Lösung für den Einstieg ins Berufsleben innerhalb von vier Monaten nach der Registrierung bei der ADEM",
      "Eine garantierte Stelle auf Lebenszeit im öffentlichen Dienst, nach einer kurzen Schulung"
     ],
-    "correct": 1,
+    "correct": 2,
     "explanation": "Die Jugendgarantie soll jedem jungen Menschen zwischen 16 und 30 Jahren eine konkrete Lösung bieten – eine Stelle, eine Weiterbildung oder einen anderen Schritt – um innerhalb von vier Monaten nach der Registrierung bei der ADEM ins Berufsleben einzusteigen."
    }
   ],
@@ -51876,56 +51876,56 @@ const EPISODES = [
    {
     "text": "What is the role of the National Social Inclusion Office (ONIS)?",
     "options": [
+     "It handles the 'inclusion' side of REVIS – helping people furthest from work move forward",
      "It pays out old-age pensions and survivors' pensions to former employees in Luxembourg",
      "It manages passports, identity cards and residence permits for new residents",
-     "It handles the 'inclusion' side of REVIS – helping people furthest from work move forward",
      "It collects taxes and social contributions from employers and the self-employed"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "ONIS is the government administration responsible for the 'inclusion' side of REVIS (the social inclusion income). Created by the 2018 REVIS law and operating since 2019, its mission is to stabilise and activate people furthest from the labour market."
    },
    {
     "text": "REVIS has two sides. Who does what?",
     "options": [
-     "The National Solidarity Fund (FNS) pays the money; ONIS handles the inclusion and activation",
      "ONIS pays the money every month, and the FNS looks for jobs and training for the person",
      "Both sides are paid and organised by the communes, depending on where the person lives",
+     "The National Solidarity Fund (FNS) pays the money; ONIS handles the inclusion and activation",
      "REVIS is only a monthly cheque from the State; there is no support or inclusion side at all"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "REVIS – the social inclusion income – has two sides: the National Solidarity Fund (FNS) pays the monthly money, while the inclusion side is handled by ADEM for people ready to look for work, and by ONIS for people who are still far from work, helping them move back toward work and society."
    },
    {
     "text": "What is the difference between stabilisation and activation measures?",
     "options": [
      "They are the same thing under two names: both simply mean receiving the REVIS money each month without any other step",
+     "Stabilisation measures help someone not yet ready for work (health, personal difficulties); activation measures are steps toward work (skills, experience)",
      "Stabilisation measures are for companies that hire REVIS recipients; activation measures are for schools and young pupils",
-     "Activation always comes first, with a full-time job placement; stabilisation only starts after a person has worked for a year",
-     "Stabilisation measures help someone not yet ready for work (health, personal difficulties); activation measures are steps toward work (skills, experience)"
+     "Activation always comes first, with a full-time job placement; stabilisation only starts after a person has worked for a year"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "ONIS works at the person's pace: stabilisation measures come first for those not yet ready for a job (sorting out health, personal or daily-life difficulties), then activation measures take steps toward work, such as building skills and gaining experience."
    },
    {
     "text": "When you receive REVIS, how does ONIS work with you?",
     "options": [
      "It sends you one letter with a list of job websites, and after that there is no further contact or personal follow-up",
-     "You sign a collaboration declaration and are paired with a regional social inclusion agent (ARIS), with whom you build a personal activation plan",
      "You must find a full-time job on your own within one week, or you lose the REVIS benefit and have to apply again from the start",
-     "You are assigned to one central office in the capital, where a different person sees you each time, without a personal plan"
+     "You are assigned to one central office in the capital, where a different person sees you each time, without a personal plan",
+     "You sign a collaboration declaration and are paired with a regional social inclusion agent (ARIS), with whom you build a personal activation plan"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "If ADEM refers you to ONIS, you are invited to an information meeting, sign a collaboration declaration (a mutual commitment), and are paired with a regional social inclusion agent (ARIS) working in a local social office. Together you build a personal activation plan tailored to your situation."
    },
    {
     "text": "What is the underlying spirit of ONIS's work?",
     "options": [
      "To put pressure on people without a job, with sanctions as the main tool to push them back to work",
-     "To accompany people back toward work and society at their own pace – 'inclusion, not abandonment'",
      "To reduce the number of benefit recipients as fast as possible, whatever the person's situation",
-     "To replace the National Solidarity Fund and take over all its payments within the next few years"
+     "To replace the National Solidarity Fund and take over all its payments within the next few years",
+     "To accompany people back toward work and society at their own pace – 'inclusion, not abandonment'"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "The aim is to accompany, not to abandon: REVIS asks for participation (the collaboration declaration), but the design is to support each person at their own pace around their own obstacles, so a minimum income becomes a bridge back to inclusion rather than a dead end."
    }
   ],
@@ -52374,56 +52374,56 @@ const EPISODES = [
    {
     "text": "Quel est le rôle de l'Office national d'inclusion sociale (ONIS) ?",
     "options": [
+     "Il s'occupe du volet « inclusion » du REVIS – aider les personnes les plus éloignées de l'emploi à avancer",
      "Il verse les pensions de vieillesse et de survie aux anciens salariés au Luxembourg",
      "Il gère les passeports, les cartes d'identité et les titres de séjour des nouveaux résidents du pays",
-     "Il s'occupe du volet « inclusion » du REVIS – aider les personnes les plus éloignées de l'emploi à avancer",
      "Il perçoit les impôts et les cotisations sociales des employeurs et des indépendants"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "L'ONIS est l'administration de l'État responsable du volet « inclusion » du REVIS (le revenu d'inclusion sociale). Créé par la loi REVIS de 2018 et opérationnel depuis 2019, sa mission est de stabiliser et d'activer les personnes les plus éloignées du marché du travail."
    },
    {
     "text": "Le REVIS a deux facettes. Qui fait quoi ?",
     "options": [
-     "Le Fonds national de solidarité (FNS) verse l'argent ; l'ONIS s'occupe de l'inclusion et de l'activation",
      "L'ONIS verse l'argent chaque mois, et le FNS cherche des emplois et des formations pour la personne",
      "Les deux volets sont payés et organisés par les communes, selon l'endroit où vit la personne",
+     "Le Fonds national de solidarité (FNS) verse l'argent ; l'ONIS s'occupe de l'inclusion et de l'activation",
      "Le REVIS n'est qu'un chèque mensuel de l'État ; il n'y a aucun volet d'accompagnement ou d'inclusion prévu"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Le REVIS – le revenu d'inclusion sociale – a deux facettes : le Fonds national de solidarité (FNS) verse l'argent chaque mois, tandis que le volet inclusion est assuré par l'ADEM pour les personnes prêtes à chercher un emploi, et par l'ONIS pour celles qui sont encore éloignées du travail, en les aidant à se rapprocher à nouveau du travail et de la société."
    },
    {
     "text": "Quelle est la différence entre les mesures de stabilisation et les mesures d'activation ?",
     "options": [
      "C'est la même chose sous deux noms : les deux signifient simplement toucher le REVIS chaque mois sans autre démarche",
+     "Les mesures de stabilisation aident une personne pas encore prête pour l'emploi (santé, difficultés personnelles) ; les mesures d'activation sont des étapes vers l'emploi (compétences, expérience)",
      "Les mesures de stabilisation s'adressent aux entreprises qui embauchent des bénéficiaires du REVIS ; les mesures d'activation visent surtout les écoles, les élèves et leurs enseignants",
-     "L'activation vient toujours en premier, avec un placement à plein temps ; la stabilisation ne commence qu'après un an de travail",
-     "Les mesures de stabilisation aident une personne pas encore prête pour l'emploi (santé, difficultés personnelles) ; les mesures d'activation sont des étapes vers l'emploi (compétences, expérience)"
+     "L'activation vient toujours en premier, avec un placement à plein temps ; la stabilisation ne commence qu'après un an de travail"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "L'ONIS travaille au rythme de la personne : les mesures de stabilisation viennent d'abord pour celles qui ne sont pas encore prêtes pour un emploi (régler des difficultés de santé, personnelles ou de la vie quotidienne), puis les mesures d'activation engagent des étapes vers le travail, comme développer des compétences et acquérir de l'expérience."
    },
    {
     "text": "Lorsque vous percevez le REVIS, comment l'ONIS travaille-t-il avec vous ?",
     "options": [
      "Il vous envoie une lettre avec une liste de sites d'emploi, puis il n'y a plus aucun contact ni suivi personnel",
-     "Vous signez une déclaration de collaboration et vous êtes mis en relation avec un agent régional d'inclusion sociale (ARIS), avec qui vous construisez un plan d'activation personnel",
      "Vous devez trouver seul un emploi à plein temps en une semaine, sinon vous perdez le REVIS et devez refaire toute la demande",
-     "Vous êtes rattaché à un seul bureau central dans la capitale, où une personne différente vous reçoit à chaque fois, sans plan personnel ni suivi régulier de votre situation"
+     "Vous êtes rattaché à un seul bureau central dans la capitale, où une personne différente vous reçoit à chaque fois, sans plan personnel ni suivi régulier de votre situation",
+     "Vous signez une déclaration de collaboration et vous êtes mis en relation avec un agent régional d'inclusion sociale (ARIS), avec qui vous construisez un plan d'activation personnel"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Si l'ADEM vous oriente vers l'ONIS, vous êtes invité à une réunion d'information, vous signez une déclaration de collaboration (un engagement mutuel), et vous êtes mis en relation avec un agent régional d'inclusion sociale (ARIS) travaillant dans un office social local. Ensemble, vous construisez un plan d'activation personnel adapté à votre situation."
    },
    {
     "text": "Quel est l'esprit qui sous-tend le travail de l'ONIS ?",
     "options": [
      "Mettre la pression sur les personnes sans emploi, avec les sanctions comme principal outil pour les ramener au travail",
-     "Accompagner les personnes vers le travail et la société à leur propre rythme – « l'inclusion, pas l'abandon »",
      "Réduire le plus vite possible le nombre de bénéficiaires, quelle que soit la situation de la personne",
-     "Remplacer le Fonds national de solidarité et reprendre tous ses paiements dans les prochaines années"
+     "Remplacer le Fonds national de solidarité et reprendre tous ses paiements dans les prochaines années",
+     "Accompagner les personnes vers le travail et la société à leur propre rythme – « l'inclusion, pas l'abandon »"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "L'objectif est d'accompagner, pas d'abandonner : le REVIS demande une participation (la déclaration de collaboration), mais l'idée est de soutenir chaque personne à son propre rythme, autour de ses propres obstacles, pour qu'un revenu minimum devienne un pont vers l'inclusion plutôt qu'une impasse."
    }
   ],
@@ -52445,56 +52445,56 @@ const EPISODES = [
    {
     "text": "Welche Rolle hat das Nationale Amt für soziale Eingliederung (ONIS)?",
     "options": [
+     "Es kümmert sich um die „Eingliederungsseite“ des REVIS – es hilft den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen",
      "Es zahlt Alters-, Invaliden- und Hinterbliebenenrenten an ehemalige Arbeitnehmer und ihre Familien in Luxemburg aus",
      "Es verwaltet Reisepässe, Personalausweise und Aufenthaltstitel für neue Einwohner",
-     "Es kümmert sich um die „Eingliederungsseite“ des REVIS – es hilft den Menschen, die am weitesten von der Arbeit entfernt sind, voranzukommen",
      "Es zieht Steuern und Sozialbeiträge von Arbeitgebern und Selbstständigen ein"
     ],
-    "correct": 2,
+    "correct": 0,
     "explanation": "ONIS ist die staatliche Verwaltung, die für die „Eingliederungsseite“ des REVIS (des Eingliederungseinkommens) zuständig ist. Durch das REVIS-Gesetz von 2018 geschaffen und seit 2019 tätig, ist ihre Aufgabe, Menschen, die dem Arbeitsmarkt am fernsten stehen, zu stabilisieren und zu aktivieren."
    },
    {
     "text": "Das REVIS hat zwei Seiten. Wer macht was?",
     "options": [
-     "Der Nationale Solidaritätsfonds (FNS) zahlt das Geld; ONIS kümmert sich um Eingliederung und Aktivierung",
      "Das ONIS zahlt jeden Monat das Geld, und der FNS sucht Arbeit und Weiterbildung für die Person",
      "Beide Seiten werden von den Gemeinden bezahlt und organisiert, je nach Wohnort der Person",
+     "Der Nationale Solidaritätsfonds (FNS) zahlt das Geld; ONIS kümmert sich um Eingliederung und Aktivierung",
      "Das REVIS ist nur ein monatlicher Scheck des Staates; eine Begleit- oder Inklusionsseite gibt es gar nicht"
     ],
-    "correct": 0,
+    "correct": 2,
     "explanation": "Das REVIS – das Eingliederungseinkommen – hat zwei Seiten: Der Nationale Solidaritätsfonds (FNS) zahlt das Geld jeden Monat aus, während die Eingliederungsseite für Menschen, die bereit sind, Arbeit zu suchen, von der ADEM übernommen wird, und für Menschen, die noch weit von der Arbeit entfernt sind, von ONIS – das ihnen hilft, sich wieder der Arbeit und der Gesellschaft anzunähern."
    },
    {
     "text": "Was ist der Unterschied zwischen Stabilisierungs- und Aktivierungsmaßnahmen?",
     "options": [
      "Es ist dasselbe unter zwei Namen: Beides bedeutet einfach, jeden Monat das REVIS-Geld ohne weitere Schritte zu bekommen",
+     "Stabilisierungsmaßnahmen helfen jemandem, der noch nicht bereit für eine Arbeit ist (Gesundheit, persönliche Schwierigkeiten); Aktivierungsmaßnahmen sind Schritte in Richtung Arbeit (Fähigkeiten, Erfahrung)",
      "Stabilisierungsmaßnahmen sind für Firmen gedacht, die REVIS-Bezieher einstellen; Aktivierungsmaßnahmen richten sich dagegen vor allem an Schulen, junge Schüler und ihre Lehrkräfte",
-     "Aktivierung kommt immer zuerst, mit einer Vollzeitstelle; Stabilisierung beginnt erst, nachdem jemand ein Jahr gearbeitet hat",
-     "Stabilisierungsmaßnahmen helfen jemandem, der noch nicht bereit für eine Arbeit ist (Gesundheit, persönliche Schwierigkeiten); Aktivierungsmaßnahmen sind Schritte in Richtung Arbeit (Fähigkeiten, Erfahrung)"
+     "Aktivierung kommt immer zuerst, mit einer Vollzeitstelle; Stabilisierung beginnt erst, nachdem jemand ein Jahr gearbeitet hat"
     ],
-    "correct": 3,
+    "correct": 1,
     "explanation": "ONIS arbeitet im Tempo der Person: Stabilisierungsmaßnahmen kommen zuerst für diejenigen, die noch nicht bereit für eine Arbeit sind (gesundheitliche, persönliche oder alltägliche Schwierigkeiten klären), dann setzen Aktivierungsmaßnahmen Schritte in Richtung Arbeit, etwa Fähigkeiten aufbauen und Erfahrung sammeln."
    },
    {
     "text": "Wenn Sie REVIS beziehen, wie arbeitet ONIS mit Ihnen?",
     "options": [
      "Es schickt Ihnen einen Brief mit einer Liste von Jobportalen, danach gibt es keinen Kontakt und keine persönliche Begleitung mehr",
-     "Sie unterschreiben eine Kooperationserklärung und werden einem regionalen Eingliederungsagenten (ARIS) zugeordnet, mit dem Sie einen persönlichen Aktivierungsplan erstellen",
      "Sie müssen innerhalb einer Woche allein eine Vollzeitstelle finden, sonst verlieren Sie das REVIS und müssen ganz neu beantragen",
-     "Sie werden einem einzigen zentralen Büro in der Hauptstadt zugeteilt, wo Sie jedes Mal jemand anderes empfängt, ohne persönlichen Plan und ohne regelmäßige Begleitung"
+     "Sie werden einem einzigen zentralen Büro in der Hauptstadt zugeteilt, wo Sie jedes Mal jemand anderes empfängt, ohne persönlichen Plan und ohne regelmäßige Begleitung",
+     "Sie unterschreiben eine Kooperationserklärung und werden einem regionalen Eingliederungsagenten (ARIS) zugeordnet, mit dem Sie einen persönlichen Aktivierungsplan erstellen"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Wenn die ADEM Sie an ONIS verweist, werden Sie zu einer Informationsversammlung eingeladen, unterschreiben eine Kooperationserklärung (eine gegenseitige Verpflichtung) und werden einem regionalen Eingliederungsagenten (ARIS) zugeordnet, der in einem örtlichen Sozialamt arbeitet. Gemeinsam erstellen Sie einen persönlichen Aktivierungsplan, der auf Ihre Situation zugeschnitten ist."
    },
    {
     "text": "Was ist der zugrunde liegende Geist der Arbeit von ONIS?",
     "options": [
      "Druck auf Menschen ohne Arbeit ausüben, mit Sanktionen als wichtigstem Mittel, um sie möglichst schnell zurück in den Job zu bringen",
-     "Menschen in ihrem eigenen Tempo zurück zu Arbeit und Gesellschaft zu begleiten – „Eingliederung, nicht im Stich lassen“",
      "Die Zahl der Leistungsbezieher so schnell wie möglich senken, egal in welcher Lage die Person ist",
-     "Den Nationalen Solidaritätsfonds ersetzen und in den nächsten Jahren alle seine Zahlungen übernehmen"
+     "Den Nationalen Solidaritätsfonds ersetzen und in den nächsten Jahren alle seine Zahlungen übernehmen",
+     "Menschen in ihrem eigenen Tempo zurück zu Arbeit und Gesellschaft zu begleiten – „Eingliederung, nicht im Stich lassen“"
     ],
-    "correct": 1,
+    "correct": 3,
     "explanation": "Das Ziel ist zu begleiten, nicht im Stich zu lassen: Das REVIS verlangt Mitwirkung (die Kooperationserklärung), aber der Ansatz ist, jede Person in ihrem eigenen Tempo rund um ihre eigenen Hindernisse zu unterstützen, damit ein Mindesteinkommen zu einer Brücke zurück in die Gesellschaft wird statt zu einer Sackgasse."
    }
   ],
@@ -101195,6 +101195,2231 @@ const EPISODES = [
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
     "t": 919.27
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "key": "ebl",
+  "number": "Episode 42",
+  "title": "EBL – Environmental Advice for Luxembourg's Communes",
+  "description": "Meet the Ëmweltberodung Lëtzebuerg — the association that helps communes protect the environment. Infographics, a free tool library, greener events, a campaign without pesticides, and workshops for schools.",
+  "audio": "podcast_ebl.mp3",
+  "duration": 469.11,
+  "topics": [
+   "What the EBL is",
+   "Advice for the communes",
+   "Climate Pact & Nature Pact",
+   "Infographics & publications",
+   "Material to borrow",
+   "Ouni Pestiziden",
+   "Green Events & Gutt Geschier",
+   "Workshops for schools"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome!",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "And today we meet an organisation that works quietly in the background... but you have probably seen its work in your own commune.",
+    "t": 27.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Maybe a colourful poster in the town hall.",
+    "t": 34.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Or a page about saving water in your commune's magazine.",
+    "t": 37.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "There's a good chance it came from the EBL.",
+    "t": 40.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "EBL stands for Ëmweltberodung Lëtzebuerg.",
+    "t": 42.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "In English, that means \"Environmental Advice Luxembourg\".",
+    "t": 46.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "\"Ëmwelt\" is the Luxembourgish word for environment, and \"Berodung\" means advice.",
+    "t": 50.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "So Tom, what exactly is the EBL?",
+    "t": 54.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "It's a non-profit association, created in 1992.",
+    "t": 57.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "It's neutral and independent, and it gives advice on protecting the environment.",
+    "t": 61.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "And who does it advise?",
+    "t": 65.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mainly the communes.",
+    "t": 67.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "But also associations, public and private institutions, businesses, and environmental advisers.",
+    "t": 69.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Most of Luxembourg's communes are members.",
+    "t": 74.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Together, they are home to the vast majority of the people living in the country.",
+    "t": 77.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "So even if you've never heard the name, the EBL probably works with your commune.",
+    "t": 81.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "How is it financed?",
+    "t": 86.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Through the membership fees of its members, and through an agreement with the Ministry of the Environment, Climate and Biodiversity.",
+    "t": 87.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Why do communes need this kind of help?",
+    "t": 95.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Because a lot of environmental work happens locally.",
+    "t": 98.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Waste, water, green spaces, energy in public buildings, events in the village...",
+    "t": 100.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "And a small commune can't have an expert for every topic.",
+    "t": 105.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Exactly. The EBL is a network.",
+    "t": 109.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Communes share ideas and experience, and they don't have to reinvent the wheel each time.",
+    "t": 112.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's also a meeting point for the environmental advisers who work in the communes.",
+    "t": 116.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "And if a commune wants to create its own environmental service, the EBL can help... from defining the tasks to recruiting an environmental adviser.",
+    "t": 121.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's talk about the Climate Pact and the Nature Pact.",
+    "t": 130.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "These are agreements between the State and the communes.",
+    "t": 133.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "The communes commit to concrete measures for the climate and for nature.",
+    "t": 136.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the EBL supports the communes in these pacts, with training, practical exchanges and ideas.",
+    "t": 140.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Now, let's look at what the EBL actually does.",
+    "t": 146.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "There's a lot!",
+    "t": 148.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "First, training. The EBL organises seminars, workshops and conferences, often together with partners.",
+    "t": 149.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "For example, conferences on more circular construction... how to build, and take buildings apart, in a way that wastes fewer resources.",
+    "t": 158.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second, publications. The EBL is famous for its infographics.",
+    "t": 165.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "These are simple, colourful pages that explain one topic.",
+    "t": 170.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "The value of an old tree.",
+    "t": 174.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Using rainwater in the garden.",
+    "t": 175.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Saving energy with the right heating.",
+    "t": 177.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Many are available in several languages, and communes can print them in their magazine or share them online.",
+    "t": 179.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third, material to borrow.",
+    "t": 186.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "There's an energy measuring kit, a device that finds the hidden electricity eaters in your home, and a CO2 meter for the air in a room.",
+    "t": 188.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "And there are teaching kits too, like one about the living soil, and one about our rivers and lakes.",
+    "t": 195.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fourth, campaigns. The EBL coordinates several national campaigns.",
+    "t": 201.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "One of the best known is \"Ouni Pestiziden\"... that means \"without pesticides\".",
+    "t": 206.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "It's supported by around twenty Luxembourg partners.",
+    "t": 211.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "It shows that green spaces and gardens can be beautiful without chemical pesticides.",
+    "t": 214.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Since 2016, communes in Luxembourg are no longer allowed to use pesticides on public spaces.",
+    "t": 220.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "And many private gardeners want to do the same.",
+    "t": 226.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "The website ounipestiziden dot l-u has tips and good examples for your own garden.",
+    "t": 229.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Another project is Green Events.",
+    "t": 234.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxembourg has so many village parties, festivals and sports events.",
+    "t": 236.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Green Events helps organisers make their event more sustainable.",
+    "t": 240.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Less waste, local products, reusable cups, better mobility...",
+    "t": 244.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "It was launched by the environment ministry, and it's coordinated by the EBL together with the SuperDrecksKëscht.",
+    "t": 248.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "And the most sustainable events can get the Green Events label.",
+    "t": 254.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "So if you help organise a party for your club, have a look at greenevents dot l-u.",
+    "t": 258.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "I also love the idea of Gutt Geschier.",
+    "t": 263.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "\"Geschier\" means tools.",
+    "t": 266.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "It's a library of tools.",
+    "t": 268.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Instead of buying a drill that you use twice a year, you can borrow one, for free.",
+    "t": 269.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's open to everyone, residents and associations.",
+    "t": 274.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "You'll find the borrowing points on guttgeschier dot l-u.",
+    "t": 278.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "There's even a project for greener websites, called Grénge Web, and one that gives unused school material a second life.",
+    "t": 281.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "And for children, there's a lot too.",
+    "t": 288.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "The EBL offers workshops for school classes.",
+    "t": 290.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "In one of them, children follow the journey of a T-shirt and learn about plastic in the oceans.",
+    "t": 293.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "And a new one takes classes to a farm, to learn about healthy food, soil and biodiversity.",
+    "t": 298.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "The EBL has also published children's books in Luxembourgish, for example about zero waste, and about pollinating insects like bees.",
+    "t": 304.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "So teachers and childcare services can find good material here.",
+    "t": 312.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's make it practical.",
+    "t": 316.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "How can you, as a resident, benefit from the EBL?",
+    "t": 317.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "First, look out for the EBL infographics in your commune's magazine.",
+    "t": 321.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "They are full of small, easy steps.",
+    "t": 325.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second, if you need a tool, try Gutt Geschier before you buy.",
+    "t": 328.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third, if your association organises an event, think about the Green Events label.",
+    "t": 331.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fourth, if you're a teacher, look at the workshops and teaching kits.",
+    "t": 337.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fifth, ask your commune about its environmental service or its environment commission.",
+    "t": 341.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Many communes welcome residents who want to get involved.",
+    "t": 347.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's a lovely way to meet your neighbours, by the way.",
+    "t": 351.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Very Biergerpakt!",
+    "t": 353.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "And if you're looking for a job in the environment, the EBL also shares green job offers with its network.",
+    "t": 355.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "You can follow the EBL's news through its newsletter, which comes out a few times a year, or on social media.",
+    "t": 361.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "The website is e-b-l dot l-u.",
+    "t": 367.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's mostly in Luxembourgish, with some material in French, German and English.",
+    "t": 370.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "And you can write to info at e-b-l dot l-u.",
+    "t": 375.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's bring it together.",
+    "t": 378.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "What should people remember about the EBL?",
+    "t": 379.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "First... it's a neutral, non-profit association that gives environmental advice, mainly to the communes.",
+    "t": 382.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second... most communes are members, so its work reaches almost everyone in Luxembourg.",
+    "t": 389.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third... it offers training, infographics, material to borrow and workshops for schools.",
+    "t": 395.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fourth... it runs campaigns and projects like Ouni Pestiziden, Green Events and Gutt Geschier, which everyone can use.",
+    "t": 400.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Protecting the environment often starts with small steps, close to home.",
+    "t": 409.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it's easier when we take them together, in our commune.",
+    "t": 413.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "That was our episode about the EBL, the Ëmweltberodung Lëtzebuerg.",
+    "t": 417.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 423.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 432.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 450.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 457.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 459.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 464.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care... and see you next time!",
+    "t": 465.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 467.5
+   }
+  ],
+  "questions": [
+   {
+    "text": "Who does the EBL mainly advise?",
+    "options": [
+     "Private households, one by one",
+     "The communes, as well as associations and businesses",
+     "Only farmers and winegrowers",
+     "Only schools and their teachers"
+    ],
+    "correct": 1,
+    "explanation": "The EBL is a neutral, non-profit association that advises mainly the communes, but also associations, institutions, businesses and environmental advisers."
+   },
+   {
+    "text": "What is the EBL?",
+    "options": [
+     "A government ministry",
+     "A private consulting company",
+     "A neutral, non-profit association founded in 1992",
+     "A European Union agency"
+    ],
+    "correct": 2,
+    "explanation": "The Ëmweltberodung Lëtzebuerg is an independent, non-profit association (a.s.b.l.) created in 1992."
+   },
+   {
+    "text": "What is the aim of the campaign \"Ouni Pestiziden\"?",
+    "options": [
+     "Sell organic fertiliser to gardeners at lower prices",
+     "Ban all gardening in public parks during summer",
+     "Count the insects in every Luxembourg garden",
+     "Show that green spaces and gardens can be beautiful without chemical pesticides"
+    ],
+    "correct": 3,
+    "explanation": "\"Ouni Pestiziden\" means \"without pesticides\". The campaign, coordinated by the EBL, shows alternatives for public and private green spaces."
+   },
+   {
+    "text": "What is Gutt Geschier?",
+    "options": [
+     "A library where everyone can borrow tools for free",
+     "A shop selling second-hand kitchen dishes",
+     "A label for sustainable village parties",
+     "A repair café that only fixes bicycles"
+    ],
+    "correct": 0,
+    "explanation": "Gutt Geschier is a tool library: residents and associations can borrow tools for DIY and gardening, free of charge."
+   },
+   {
+    "text": "Your football club organises a summer party. Which EBL project can help make it more sustainable?",
+    "options": [
+     "Grénge Web",
+     "Green Events",
+     "The Nature Pact",
+     "The soil teaching kit"
+    ],
+    "correct": 1,
+    "explanation": "Green Events, coordinated by the EBL with the SuperDrecksKëscht, supports organisers and awards a label to particularly sustainable events."
+   }
+  ],
+  "categories": [
+   "energy",
+   "civic"
+  ],
+  "title_fr": "L'EBL – Le conseil en environnement pour les communes du Luxembourg",
+  "description_fr": "Découvrez l'Ëmweltberodung Lëtzebuerg — l'association qui aide les communes à protéger l'environnement. Infographies, une bibliothèque d'outils gratuite, des événements plus verts, une campagne sans pesticides et des ateliers pour les écoles.",
+  "topics_fr": [
+   "Ce qu'est l'EBL",
+   "Des conseils pour les communes",
+   "Pacte Climat et Pacte Nature",
+   "Infographies et publications",
+   "Du matériel à emprunter",
+   "Ouni Pestiziden",
+   "Green Events et Gutt Geschier",
+   "Des ateliers pour les écoles"
+  ],
+  "questions_fr": [
+   {
+    "text": "Qui l'EBL conseille-t-elle principalement ?",
+    "options": [
+     "Les ménages privés, un par un",
+     "Les communes, ainsi que des associations et des entreprises",
+     "Uniquement les agriculteurs et les vignerons",
+     "Uniquement les écoles et leurs enseignants"
+    ],
+    "correct": 1,
+    "explanation": "L'EBL est une association neutre et sans but lucratif qui conseille surtout les communes, mais aussi des associations, des institutions, des entreprises et des conseillers en environnement."
+   },
+   {
+    "text": "Qu'est-ce que l'EBL ?",
+    "options": [
+     "Un ministère",
+     "Un bureau de conseil privé",
+     "Une association neutre, sans but lucratif, fondée en 1992",
+     "Une agence de l'Union européenne"
+    ],
+    "correct": 2,
+    "explanation": "L'Ëmweltberodung Lëtzebuerg est une association sans but lucratif (a.s.b.l.) indépendante, créée en 1992."
+   },
+   {
+    "text": "Quel est le but de la campagne « Ouni Pestiziden » ?",
+    "options": [
+     "Vendre de l'engrais bio aux jardiniers à des prix plus bas",
+     "Interdire tout jardinage dans les parcs publics en été",
+     "Compter les insectes dans chaque jardin du Luxembourg",
+     "Montrer que les espaces verts et les jardins peuvent être beaux sans pesticides chimiques"
+    ],
+    "correct": 3,
+    "explanation": "« Ouni Pestiziden » veut dire « sans pesticides ». La campagne, coordonnée par l'EBL, montre des alternatives pour les espaces verts publics et privés."
+   },
+   {
+    "text": "Qu'est-ce que Gutt Geschier ?",
+    "options": [
+     "Une bibliothèque où chacun peut emprunter des outils gratuitement",
+     "Un magasin de vaisselle de cuisine d'occasion",
+     "Un label pour des fêtes de village durables",
+     "Un repair café qui ne répare que des vélos"
+    ],
+    "correct": 0,
+    "explanation": "Gutt Geschier est une bibliothèque d'outils : habitants et associations peuvent emprunter gratuitement des outils de bricolage et de jardinage."
+   },
+   {
+    "text": "Votre club de football organise une fête d'été. Quel projet de l'EBL peut l'aider à la rendre plus durable ?",
+    "options": [
+     "Grénge Web",
+     "Green Events",
+     "Le Pacte Nature",
+     "La valise pédagogique sur le sol"
+    ],
+    "correct": 1,
+    "explanation": "Green Events, coordonné par l'EBL avec la SuperDrecksKëscht, accompagne les organisateurs et décerne un label aux événements particulièrement durables."
+   }
+  ],
+  "title_de": "Die EBL – Umweltberatung für Luxemburgs Gemeinden",
+  "description_de": "Lernen Sie die Ëmweltberodung Lëtzebuerg kennen — den Verein, der Gemeinden beim Umweltschutz hilft. Infografiken, eine kostenlose Werkzeug-Bibliothek, grünere Feste, eine Kampagne ohne Pestizide und Workshops für Schulen.",
+  "topics_de": [
+   "Was die EBL ist",
+   "Beratung für die Gemeinden",
+   "Klimapakt & Naturpakt",
+   "Infografiken & Veröffentlichungen",
+   "Material zum Ausleihen",
+   "Ouni Pestiziden",
+   "Green Events & Gutt Geschier",
+   "Workshops für Schulen"
+  ],
+  "questions_de": [
+   {
+    "text": "Wen berät die EBL hauptsächlich?",
+    "options": [
+     "Private Haushalte, einen nach dem anderen",
+     "Die Gemeinden, sowie Vereine und Unternehmen",
+     "Nur Landwirte und Winzer",
+     "Nur Schulen und ihre Lehrkräfte"
+    ],
+    "correct": 1,
+    "explanation": "Die EBL ist ein neutraler, gemeinnütziger Verein, der vor allem die Gemeinden berät, aber auch Vereine, Einrichtungen, Unternehmen und Umweltberater."
+   },
+   {
+    "text": "Was ist die EBL?",
+    "options": [
+     "Ein Ministerium",
+     "Ein privates Beratungsunternehmen",
+     "Ein neutraler, gemeinnütziger Verein, gegründet 1992",
+     "Eine Agentur der Europäischen Union"
+    ],
+    "correct": 2,
+    "explanation": "Die Ëmweltberodung Lëtzebuerg ist ein unabhängiger, gemeinnütziger Verein (a.s.b.l.), gegründet 1992."
+   },
+   {
+    "text": "Was ist das Ziel der Kampagne „Ouni Pestiziden\"?",
+    "options": [
+     "Bio-Dünger günstiger an Gärtner verkaufen",
+     "Im Sommer jede Gartenarbeit in öffentlichen Parks verbieten",
+     "Die Insekten in jedem Garten Luxemburgs zählen",
+     "Zeigen, dass Grünflächen und Gärten ohne chemische Pestizide schön sein können"
+    ],
+    "correct": 3,
+    "explanation": "„Ouni Pestiziden\" heißt „ohne Pestizide\". Die von der EBL koordinierte Kampagne zeigt Alternativen für öffentliche und private Grünflächen."
+   },
+   {
+    "text": "Was ist Gutt Geschier?",
+    "options": [
+     "Eine Bibliothek, in der alle kostenlos Werkzeug ausleihen können",
+     "Ein Geschäft für gebrauchtes Küchengeschirr",
+     "Ein Label für nachhaltige Dorffeste",
+     "Ein Repair-Café, das nur Fahrräder repariert"
+    ],
+    "correct": 0,
+    "explanation": "Gutt Geschier ist eine Werkzeug-Bibliothek: Einwohner und Vereine können kostenlos Werkzeug zum Heimwerken und Gärtnern ausleihen."
+   },
+   {
+    "text": "Ihr Fußballverein organisiert ein Sommerfest. Welches EBL-Projekt kann helfen, es nachhaltiger zu machen?",
+    "options": [
+     "Grénge Web",
+     "Green Events",
+     "Der Naturpakt",
+     "Der pädagogische Bodenkoffer"
+    ],
+    "correct": 1,
+    "explanation": "Green Events, koordiniert von der EBL mit der SuperDrecksKëscht, begleitet Veranstalter und vergibt ein Label an besonders nachhaltige Veranstaltungen."
+   }
+  ],
+  "audio_fr": "podcast_ebl_fr.mp3",
+  "duration_fr": 464.09,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à tous !",
+    "t": 4.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 5.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et aujourd'hui, nous découvrons une organisation qui travaille discrètement en coulisses... mais vous avez sans doute déjà vu son travail dans votre propre commune.",
+    "t": 23.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Peut-être une affiche colorée à la mairie.",
+    "t": 30.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ou une page sur les économies d'eau dans le magazine de votre commune.",
+    "t": 32.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a de fortes chances qu'elle vienne de l'EBL.",
+    "t": 36.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "EBL veut dire Ëmweltberodung Lëtzebuerg.",
+    "t": 38.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "En français, cela signifie « Conseil en environnement Luxembourg ».",
+    "t": 42.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "« Ëmwelt » est le mot luxembourgeois pour environnement, et « Berodung » veut dire conseil.",
+    "t": 45.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors Tom, qu'est-ce que l'EBL, exactement ?",
+    "t": 50.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est une association sans but lucratif, créée en 1992.",
+    "t": 53.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elle est neutre et indépendante, et elle donne des conseils pour protéger l'environnement.",
+    "t": 57.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et qui conseille-t-elle ?",
+    "t": 62.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Surtout les communes.",
+    "t": 64.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mais aussi des associations, des institutions publiques et privées, des entreprises, et des conseillers en environnement.",
+    "t": 65.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "La plupart des communes du Luxembourg sont membres.",
+    "t": 72.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensemble, elles abritent la très grande majorité des habitants du pays.",
+    "t": 74.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc même si vous n'avez jamais entendu ce nom, l'EBL travaille probablement avec votre commune.",
+    "t": 77.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Comment est-elle financée ?",
+    "t": 83.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Par les cotisations de ses membres, et par une convention avec le Ministère de l'Environnement, du Climat et de la Biodiversité.",
+    "t": 84.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pourquoi les communes ont-elles besoin de ce genre d'aide ?",
+    "t": 91.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parce qu'une grande partie du travail pour l'environnement se fait au niveau local.",
+    "t": 94.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les déchets, l'eau, les espaces verts, l'énergie dans les bâtiments publics, les fêtes du village...",
+    "t": 98.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et une petite commune ne peut pas avoir un expert pour chaque sujet.",
+    "t": 104.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Exactement. L'EBL est un réseau.",
+    "t": 107.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les communes partagent leurs idées et leur expérience, et elles n'ont pas besoin de réinventer la roue à chaque fois.",
+    "t": 110.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est aussi un lieu de rencontre pour les conseillers en environnement qui travaillent dans les communes.",
+    "t": 116.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et si une commune veut créer son propre service écologique, l'EBL peut l'aider... de la définition des tâches jusqu'au recrutement d'un conseiller en environnement.",
+    "t": 120.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parlons du Pacte Climat et du Pacte Nature.",
+    "t": 129.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce sont des accords entre l'État et les communes.",
+    "t": 132.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les communes s'engagent à prendre des mesures concrètes pour le climat et pour la nature.",
+    "t": 134.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et l'EBL accompagne les communes dans ces pactes, avec des formations, des échanges pratiques et des idées.",
+    "t": 139.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Maintenant, regardons ce que fait concrètement l'EBL.",
+    "t": 145.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a beaucoup de choses !",
+    "t": 148.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'abord, la formation.",
+    "t": 150.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'EBL organise des séminaires, des ateliers et des conférences, souvent avec des partenaires.",
+    "t": 151.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Par exemple, des conférences sur une construction plus circulaire... comment construire, et démonter les bâtiments, en gaspillant moins de ressources.",
+    "t": 156.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, les publications.",
+    "t": 164.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'EBL est connue pour ses infographies.",
+    "t": 166.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce sont des pages simples et colorées qui expliquent un seul sujet.",
+    "t": 168.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "La valeur d'un vieil arbre.",
+    "t": 172.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Utiliser l'eau de pluie au jardin.",
+    "t": 174.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Économiser de l'énergie en chauffant correctement.",
+    "t": 176.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Beaucoup existent en plusieurs langues, et les communes peuvent les imprimer dans leur magazine ou les partager en ligne.",
+    "t": 179.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement, du matériel à emprunter.",
+    "t": 184.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a une valise de mesure de l'énergie, un appareil qui trouve les gaspilleurs d'électricité cachés dans votre maison, et un appareil qui mesure le CO2 dans l'air d'une pièce.",
+    "t": 187.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il y a aussi des valises pédagogiques, comme une sur le sol vivant, et une sur nos rivières et nos lacs.",
+    "t": 195.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quatrièmement, les campagnes.",
+    "t": 201.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'EBL coordonne plusieurs campagnes nationales.",
+    "t": 203.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'une des plus connues est « Ouni Pestiziden »... cela veut dire « sans pesticides ».",
+    "t": 206.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elle est soutenue par une vingtaine de partenaires luxembourgeois.",
+    "t": 211.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elle montre que les espaces verts et les jardins peuvent être beaux sans pesticides chimiques.",
+    "t": 214.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Depuis 2016, les communes au Luxembourg n'ont plus le droit d'utiliser des pesticides sur les espaces publics.",
+    "t": 219.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et beaucoup de jardiniers privés veulent faire de même.",
+    "t": 224.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le site ounipestiziden point l-u propose des conseils et de bons exemples pour votre propre jardin.",
+    "t": 227.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un autre projet s'appelle Green Events.",
+    "t": 233.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le Luxembourg a tellement de fêtes de village, de festivals et d'événements sportifs.",
+    "t": 235.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Green Events aide les organisateurs à rendre leur événement plus durable.",
+    "t": 239.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moins de déchets, des produits locaux, des gobelets réutilisables, une meilleure mobilité...",
+    "t": 243.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le projet a été lancé par le ministère de l'Environnement, et il est coordonné par l'EBL avec la SuperDrecksKëscht.",
+    "t": 249.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et les événements les plus durables peuvent obtenir le label Green Events.",
+    "t": 255.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc si vous aidez à organiser une fête pour votre club, jetez un œil à greenevents point l-u.",
+    "t": 259
+   },
+   {
+    "speaker": "Anna",
+    "text": "J'adore aussi l'idée de Gutt Geschier.",
+    "t": 264.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "« Geschier » veut dire outils.",
+    "t": 266.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est une bibliothèque d'outils.",
+    "t": 267.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Au lieu d'acheter une perceuse que vous utilisez deux fois par an, vous pouvez en emprunter une, gratuitement.",
+    "t": 269.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle est ouverte à tout le monde, aux habitants comme aux associations.",
+    "t": 275.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous trouverez les points de prêt sur guttgeschier point l-u.",
+    "t": 278.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a même un projet pour des sites web plus verts, appelé Grénge Web, et un autre qui donne une seconde vie au matériel scolaire inutilisé.",
+    "t": 281.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et pour les enfants, il y a aussi beaucoup de choses.",
+    "t": 289.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'EBL propose des ateliers pour les classes.",
+    "t": 292.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dans l'un d'eux, les enfants suivent le voyage d'un t-shirt et découvrent le problème du plastique dans les océans.",
+    "t": 295.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et un nouvel atelier emmène les classes dans une ferme, pour découvrir l'alimentation saine, le sol et la biodiversité.",
+    "t": 301
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'EBL a aussi publié des livres pour enfants en luxembourgeois, par exemple sur le zéro déchet, et sur les insectes pollinisateurs comme les abeilles.",
+    "t": 307.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les enseignants et les structures d'accueil peuvent donc y trouver du bon matériel.",
+    "t": 315.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Soyons concrets. Comment pouvez-vous, en tant qu'habitant, profiter de l'EBL ?",
+    "t": 319.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'abord, repérez les infographies de l'EBL dans le magazine de votre commune.",
+    "t": 324.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elles sont pleines de petits gestes faciles.",
+    "t": 328.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ensuite, si vous avez besoin d'un outil, essayez Gutt Geschier avant d'acheter.",
+    "t": 331.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement, si votre association organise un événement, pensez au label Green Events.",
+    "t": 336.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quatrièmement, si vous êtes enseignant, regardez les ateliers et les valises pédagogiques.",
+    "t": 340.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et cinquièmement, renseignez-vous auprès de votre commune sur son service écologique ou sa commission de l'environnement.",
+    "t": 346.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Beaucoup de communes accueillent volontiers les habitants qui veulent s'engager.",
+    "t": 351.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est d'ailleurs une belle façon de rencontrer ses voisins.",
+    "t": 355.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Très Biergerpakt !",
+    "t": 358
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et si vous cherchez un emploi dans l'environnement, l'EBL partage aussi des offres d'emplois verts avec son réseau.",
+    "t": 359.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous pouvez suivre l'actualité de l'EBL grâce à sa newsletter, qui paraît quelques fois par an, ou sur les réseaux sociaux.",
+    "t": 365.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le site web est e-b-l point l-u.",
+    "t": 371.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est surtout en luxembourgeois, avec une partie du matériel en français, en allemand et en anglais.",
+    "t": 374.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et vous pouvez écrire à info arobase e-b-l point l-u.",
+    "t": 379.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Résumons. Que faut-il retenir sur l'EBL ?",
+    "t": 383.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Premièrement... c'est une association neutre et sans but lucratif qui donne des conseils en environnement, surtout aux communes.",
+    "t": 386.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deuxièmement... la plupart des communes sont membres, donc son travail touche presque tout le monde au Luxembourg.",
+    "t": 393.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement... elle propose des formations, des infographies, du matériel à emprunter et des ateliers pour les écoles.",
+    "t": 398.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et quatrièmement... elle mène des campagnes et des projets comme Ouni Pestiziden, Green Events et Gutt Geschier, que tout le monde peut utiliser.",
+    "t": 405.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Protéger l'environnement commence souvent par de petits pas, près de chez soi.",
+    "t": 412.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et c'est plus facile quand on les fait ensemble, dans notre commune.",
+    "t": 416.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'était notre épisode sur l'EBL, l'Ëmweltberodung Lëtzebuerg.",
+    "t": 419.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 423.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 431.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 447.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 452.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 454.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 458.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous... et à la prochaine !",
+    "t": 459.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 462.31
+   }
+  ],
+  "audio_de": "podcast_ebl_de.mp3",
+  "duration_de": 519.5,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 5.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und heute lernen wir eine Organisation kennen, die leise im Hintergrund arbeitet... aber ihre Arbeit haben Sie wahrscheinlich schon in Ihrer eigenen Gemeinde gesehen.",
+    "t": 27.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielleicht ein buntes Plakat im Rathaus.",
+    "t": 37.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oder eine Seite über das Wassersparen in der Zeitschrift Ihrer Gemeinde.",
+    "t": 40.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gut möglich, dass sie von der EBL kam.",
+    "t": 44.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "EBL steht für Ëmweltberodung Lëtzebuerg.",
+    "t": 46.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Auf Deutsch heißt das „Umweltberatung Luxemburg\".",
+    "t": 50.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "„Ëmwelt\" ist das luxemburgische Wort für Umwelt, und „Berodung\" bedeutet Beratung.",
+    "t": 53.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, was genau ist die EBL?",
+    "t": 59.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie ist ein gemeinnütziger Verein, gegründet 1992.",
+    "t": 61.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie ist neutral und unabhängig, und sie berät zum Schutz der Umwelt.",
+    "t": 66.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und wen berät sie?",
+    "t": 70.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vor allem die Gemeinden.",
+    "t": 71.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aber auch Vereine, öffentliche und private Einrichtungen, Unternehmen und Umweltberater.",
+    "t": 73.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die meisten Gemeinden Luxemburgs sind Mitglied.",
+    "t": 79.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zusammen leben in ihnen die allermeisten Menschen des Landes.",
+    "t": 81.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Auch wenn Sie den Namen noch nie gehört haben: Die EBL arbeitet wahrscheinlich mit Ihrer Gemeinde zusammen.",
+    "t": 85.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wie wird sie finanziert?",
+    "t": 92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Durch die Beiträge ihrer Mitglieder und durch eine Konvention mit dem Ministerium für Umwelt, Klima und Biodiversität.",
+    "t": 93.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Warum brauchen Gemeinden diese Art von Hilfe?",
+    "t": 101.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Weil viel Umweltarbeit vor Ort passiert.",
+    "t": 104.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Abfall, Wasser, Grünflächen, Energie in öffentlichen Gebäuden, Feste im Dorf...",
+    "t": 107.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und eine kleine Gemeinde kann nicht für jedes Thema einen Experten haben.",
+    "t": 112.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Genau. Die EBL ist ein Netzwerk.",
+    "t": 116.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Gemeinden teilen Ideen und Erfahrungen, und sie müssen das Rad nicht jedes Mal neu erfinden.",
+    "t": 119.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie ist auch ein Treffpunkt für die Umweltberater, die in den Gemeinden arbeiten.",
+    "t": 125.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wenn eine Gemeinde einen eigenen Umweltdienst gründen möchte, kann die EBL helfen... von der Festlegung der Aufgaben bis zur Einstellung eines Umweltberaters.",
+    "t": 129.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sprechen wir über den Klimapakt und den Naturpakt.",
+    "t": 139.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das sind Abkommen zwischen dem Staat und den Gemeinden.",
+    "t": 143.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Gemeinden verpflichten sich zu konkreten Maßnahmen für das Klima und für die Natur.",
+    "t": 146.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die EBL begleitet die Gemeinden bei diesen Pakten, mit Schulungen, praktischem Austausch und Ideen.",
+    "t": 151.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Schauen wir uns jetzt an, was die EBL konkret macht.",
+    "t": 157.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist eine ganze Menge!",
+    "t": 161.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens, Weiterbildung. Die EBL organisiert Seminare, Workshops und Konferenzen, oft zusammen mit Partnern.",
+    "t": 162.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zum Beispiel Konferenzen über kreislauforientiertes Bauen... wie man Gebäude baut und wieder abbaut, und dabei weniger Ressourcen verschwendet.",
+    "t": 171.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens, Veröffentlichungen. Die EBL ist bekannt für ihre Infografiken.",
+    "t": 180.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das sind einfache, bunte Seiten, die ein einziges Thema erklären.",
+    "t": 185.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Der Wert eines alten Baumes.",
+    "t": 189.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Regenwasser im Garten nutzen.",
+    "t": 191.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Energie sparen durch richtiges Heizen.",
+    "t": 193.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Viele gibt es in mehreren Sprachen, und die Gemeinden können sie in ihrer Zeitschrift abdrucken oder online teilen.",
+    "t": 195.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens, Material zum Ausleihen.",
+    "t": 201.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt einen Energie-Messkoffer, ein Gerät, das die versteckten Stromfresser in Ihrem Zuhause findet, und ein Gerät, das den CO2-Gehalt der Luft in einem Raum misst.",
+    "t": 204.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es gibt auch pädagogische Koffer, zum Beispiel einen über den lebendigen Boden und einen über unsere Flüsse und Seen.",
+    "t": 214.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Viertens, Kampagnen. Die EBL koordiniert mehrere nationale Kampagnen.",
+    "t": 221.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eine der bekanntesten ist „Ouni Pestiziden\"... das heißt „ohne Pestizide\".",
+    "t": 226.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie wird von rund zwanzig luxemburgischen Partnern unterstützt.",
+    "t": 232.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie zeigt, dass Grünflächen und Gärten auch ohne chemische Pestizide schön sein können.",
+    "t": 235.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Seit 2016 dürfen die Gemeinden in Luxemburg auf öffentlichen Flächen keine Pestizide mehr einsetzen.",
+    "t": 241.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und viele private Gärtner möchten es genauso machen.",
+    "t": 247.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Webseite ounipestiziden Punkt l-u bietet Tipps und gute Beispiele für Ihren eigenen Garten.",
+    "t": 250.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein anderes Projekt heißt Green Events.",
+    "t": 257.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxemburg hat so viele Dorffeste, Festivals und Sportveranstaltungen.",
+    "t": 259.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Green Events hilft Veranstaltern, ihr Fest nachhaltiger zu gestalten.",
+    "t": 263.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Weniger Abfall, lokale Produkte, Mehrwegbecher, bessere Mobilität...",
+    "t": 268.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Projekt wurde vom Umweltministerium gestartet und wird von der EBL zusammen mit der SuperDrecksKëscht koordiniert.",
+    "t": 273.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und die nachhaltigsten Veranstaltungen können das Green-Events-Label bekommen.",
+    "t": 280.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn Sie also ein Fest für Ihren Verein mitorganisieren, schauen Sie auf greenevents Punkt l-u vorbei.",
+    "t": 284.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ich mag auch die Idee von Gutt Geschier sehr.",
+    "t": 290.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "„Geschier\" bedeutet Werkzeug.",
+    "t": 293.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist eine Werkzeug-Bibliothek.",
+    "t": 295.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Statt eine Bohrmaschine zu kaufen, die Sie zweimal im Jahr benutzen, können Sie sich eine ausleihen, kostenlos.",
+    "t": 298.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie steht allen offen, Einwohnern und Vereinen.",
+    "t": 304.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Ausleihstellen finden Sie auf guttgeschier Punkt l-u.",
+    "t": 307.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt sogar ein Projekt für grünere Webseiten, Grénge Web, und eines, das unbenutztem Schulmaterial ein zweites Leben schenkt.",
+    "t": 311.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und für Kinder gibt es auch viel.",
+    "t": 319.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die EBL bietet Workshops für Schulklassen an.",
+    "t": 321.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "In einem davon verfolgen die Kinder die Reise eines T-Shirts und lernen etwas über Plastik in den Ozeanen.",
+    "t": 324.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und ein neuer Workshop führt die Klassen auf einen Bauernhof, wo sie etwas über gesunde Ernährung, den Boden und die Artenvielfalt lernen.",
+    "t": 331.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die EBL hat auch Kinderbücher auf Luxemburgisch herausgegeben, zum Beispiel über Null Abfall und über bestäubende Insekten wie Bienen.",
+    "t": 338.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Lehrkräfte und Betreuungseinrichtungen finden hier also gutes Material.",
+    "t": 347.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Werden wir praktisch.",
+    "t": 352.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie können Sie als Einwohner von der EBL profitieren?",
+    "t": 353.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens, achten Sie auf die Infografiken der EBL in der Zeitschrift Ihrer Gemeinde.",
+    "t": 356.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie sind voller kleiner, einfacher Schritte.",
+    "t": 362.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens, wenn Sie ein Werkzeug brauchen, versuchen Sie es bei Gutt Geschier, bevor Sie eines kaufen.",
+    "t": 365.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens, wenn Ihr Verein eine Veranstaltung organisiert, denken Sie an das Green-Events-Label.",
+    "t": 371.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Viertens, wenn Sie Lehrerin oder Lehrer sind, schauen Sie sich die Workshops und die pädagogischen Koffer an.",
+    "t": 376.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und fünftens, fragen Sie bei Ihrer Gemeinde nach ihrem Umweltdienst oder ihrer Umweltkommission.",
+    "t": 383.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Viele Gemeinden freuen sich über Einwohner, die sich engagieren möchten.",
+    "t": 389.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist übrigens eine schöne Art, seine Nachbarn kennenzulernen.",
+    "t": 393.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ganz im Sinne des Biergerpakt!",
+    "t": 396.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und wenn Sie eine Stelle im Umweltbereich suchen: Die EBL teilt auch grüne Stellenangebote mit ihrem Netzwerk.",
+    "t": 398.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Neuigkeiten der EBL können Sie über ihren Newsletter verfolgen, der ein paar Mal im Jahr erscheint, oder in den sozialen Medien.",
+    "t": 405.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Webseite ist e-b-l Punkt l-u.",
+    "t": 413.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie ist größtenteils auf Luxemburgisch, mit einem Teil des Materials auf Französisch, Deutsch und Englisch.",
+    "t": 416.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und Sie können an info at e-b-l Punkt l-u schreiben.",
+    "t": 422.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fassen wir zusammen.",
+    "t": 426.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was sollte man über die EBL wissen?",
+    "t": 428.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens... sie ist ein neutraler, gemeinnütziger Verein, der vor allem die Gemeinden in Umweltfragen berät.",
+    "t": 430.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens... die meisten Gemeinden sind Mitglied, deshalb erreicht ihre Arbeit fast alle Menschen in Luxemburg.",
+    "t": 437.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens... sie bietet Weiterbildungen, Infografiken, Material zum Ausleihen und Workshops für Schulen.",
+    "t": 445.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und viertens... sie führt Kampagnen und Projekte wie Ouni Pestiziden, Green Events und Gutt Geschier durch, die alle nutzen können.",
+    "t": 451.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Umweltschutz beginnt oft mit kleinen Schritten, ganz in der Nähe.",
+    "t": 460.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es ist leichter, wenn wir sie gemeinsam gehen, in unserer Gemeinde.",
+    "t": 464.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das war unsere Folge über die EBL, die Ëmweltberodung Lëtzebuerg.",
+    "t": 467.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 473.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 482.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 500.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 506.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 508.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 513.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
+    "t": 514.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 517.95
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien alleguer!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "A haut léiere mir eng Organisatioun kennen, déi roueg am Hannergrond schafft... mä hir Aarbecht hutt Dir bestëmmt schonn an Ärer eegener Gemeng gesinn.",
+    "t": 27.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vläicht eng faarweg Affiche an der Gemeng. Oder eng Säit iwwer d'Waasserspueren am Gemengebuet.",
+    "t": 34.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et ka gutt sinn, datt déi vun der EBL koum.",
+    "t": 40.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "EBL steet fir Ëmweltberodung Lëtzebuerg.",
+    "t": 42.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "„Ëmwelt\" ass d'Natur an d'Ëmfeld, an „Berodung\" heescht, datt een engem e gudde Rot gëtt.",
+    "t": 50.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Also Tom, wat ass d'EBL genee?",
+    "t": 54.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et ass eng Associatioun sans but lucratif, gegrënnt 1992. Si ass neutral an onofhängeg, a si beréit zum Schutz vun der Ëmwelt.",
+    "t": 57.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "A wien beréit si?",
+    "t": 65.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Virun allem d'Gemengen. Mä och Veräiner, ëffentlech a privat Institutiounen, Entreprisen an Ëmweltberoder.",
+    "t": 67.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Déi meescht Gemengen zu Lëtzebuerg si Member. Zesumme wunnen do déi allermeescht Leit vum Land.",
+    "t": 74.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Och wann Dir den Numm nach ni héieren hutt: D'EBL schafft wahrscheinlech mat Ärer Gemeng zesummen.",
+    "t": 81.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wéi gëtt si finanzéiert?",
+    "t": 86.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Iwwer d'Cotisatioune vun hire Memberen, an iwwer eng Konventioun mam Ministère fir Ëmwelt, Klima a Biodiversitéit.",
+    "t": 87.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Firwat brauchen d'Gemengen esou eng Hëllef?",
+    "t": 95.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Well vill Ëmweltaarbecht lokal geschitt. Offall, Waasser, gréng Flächen, Energie an ëffentleche Gebaier, Fester am Duerf...",
+    "t": 98.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "An eng kleng Gemeng ka net fir all Theema en Expert hunn.",
+    "t": 105.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Genee. D'EBL ass e Reseau. D'Gemengen deelen Iddien an Erfarungen, a si mussen d'Rad net all Kéier nei erfannen.",
+    "t": 109.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ass och e Treffpunkt fir d'Ëmweltberoder, déi an de Gemenge schaffen.",
+    "t": 116.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wann eng Gemeng hiren eegene Service écologique wëll opbauen, kann d'EBL hëllefen... vun der Definitioun vun den Aufgaben bis zum Astelle vun engem Ëmweltberoder.",
+    "t": 121.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schwätze mir iwwer de Klimapakt an den Naturpakt.",
+    "t": 130.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat sinn Ofkommes tëscht dem Staat an de Gemengen. D'Gemenge verflichte sech zu konkrete Mesuren fir d'Klima a fir d'Natur.",
+    "t": 133.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "An d'EBL begleet d'Gemengen bei dëse Pakten, mat Formatiounen, praktesche Échangen an Iddien.",
+    "t": 140.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kucke mer elo, wat d'EBL konkret mécht. Dat ass eng ganz Rëtsch!",
+    "t": 146.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Éischtens, Formatiounen. D'EBL organiséiert Seminairen, Workshoppen a Konferenzen, dacks zesumme mat Partner.",
+    "t": 149.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zum Beispill Konferenzen iwwer méi kreeslafgerecht Bauen... wéi een Haiser baut an erëm ofbaut, an dobäi manner Ressourcë verschwent.",
+    "t": 158.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens, Publikatiounen. D'EBL ass bekannt fir hir Infografiken.",
+    "t": 165.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat sinn einfach, faarweg Säiten, déi een eenzegt Theema erklären. De Wäert vun engem ale Bam. Reewaasser am Gaart notzen. Energie spuere mat richtegem Hëtzen.",
+    "t": 170.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vill gëtt et a méi Sproochen, an d'Gemenge kënnen se an hirem Buet drécken oder online deelen.",
+    "t": 179.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens, Material fir auszeléinen. Et gëtt e Miesskoffer fir d'Energie, en Apparat, deen déi verstoppte Stroumfréisser doheem fënnt, an en Apparat, deen de CO2 an der Loft vun engem Raum moosst.",
+    "t": 186.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et ginn och pedagogesch Koffere, zum Beispill een iwwer de liewege Buedem, an een iwwer eis Flëss a Séien.",
+    "t": 195.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Véiertens, Campagnen. D'EBL koordinéiert e puer national Campagnen.",
+    "t": 201.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eng vun de bekanntsten ass „Ouni Pestiziden\".",
+    "t": 206.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si gëtt vun ëm déi zwanzeg Lëtzebuerger Partner ënnerstëtzt. Si weist, datt gréng Flächen a Gäert och ouni chemesch Pestiziden schéi kënne sinn.",
+    "t": 211.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zanter 2016 däerfen d'Gemengen zu Lëtzebuerg op ëffentleche Plazen keng Pestiziden méi asetzen. A vill privat Gäertner wëllen et genee esou maachen.",
+    "t": 220.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Websäit ounipestiziden Punkt l-u huet Tipps a gutt Beispiller fir Ären eegene Gaart.",
+    "t": 229.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "En anere Projet heescht Green Events. Lëtzebuerg huet esou vill Duerffester, Festivallen a Sportsevenementer.",
+    "t": 234.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Green Events hëlleft den Organisateuren, hiert Fest méi nohalteg ze gestalten. Manner Offall, lokal Produiten, Gobelete fir ze widderbenotzen, eng besser Mobilitéit...",
+    "t": 240.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "De Projet gouf vum Ëmweltministère lancéiert, an en gëtt vun der EBL zesumme mat der SuperDrecksKëscht koordinéiert.",
+    "t": 248.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "An déi nohaltegst Evenementer kënnen de Green-Events-Label kréien. Wann Dir also e Fest fir Äre Veräin mat organiséiert, kuckt op greenevents Punkt l-u.",
+    "t": 254.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ech fannen och d'Iddi vu Gutt Geschier ganz flott.",
+    "t": 263.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et ass eng Bibliothéik fir Geschier. Amplaz eng Buermaschinn ze kafen, déi Dir zweemol am Joer braucht, kënnt Dir eng léinen, gratis.",
+    "t": 268.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si steet jidderengem op, Awunner a Veräiner. D'Ausléinplazen fannt Dir op guttgeschier Punkt l-u.",
+    "t": 274.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt souguer e Projet fir méi gréng Websäiten, Grénge Web, an een, deen onbenotzte Schoulmaterial en zweet Liewe schenkt.",
+    "t": 281.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "A fir d'Kanner gëtt et och vill.",
+    "t": 288.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'EBL bitt Workshoppe fir Schoulklassen un. An engem dovun verfollegen d'Kanner d'Rees vun engem T-Shirt a léieren eppes iwwer de Plastik an den Ozeaner.",
+    "t": 290.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "An en neie Workshop bréngt d'Klassen op e Bauerenhaff, wou se eppes iwwer gesond Ernärung, de Buedem an d'Biodiversitéit léieren.",
+    "t": 298.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'EBL huet och Kannerbicher op Lëtzebuergesch erausginn, zum Beispill iwwer Null Offall, an iwwer Bestëbserinsekte wéi d'Bienen.",
+    "t": 304.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Enseignanten a Betreiungsstrukture fannen hei also gutt Material.",
+    "t": 312.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gi mer praktesch. Wéi kënnt Dir als Awunner vun der EBL profitéieren?",
+    "t": 316.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Éischtens, kuckt no den Infografike vun der EBL am Buet vun Ärer Gemeng. Si si voller klenger, einfacher Schrëtt.",
+    "t": 321.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweetens, wann Dir Geschier braucht, probéiert et mat Gutt Geschier, éier Dir eppes kaaft.",
+    "t": 328.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drëttens, wann Äre Veräin en Evenement organiséiert, denkt un de Green-Events-Label.",
+    "t": 331.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Véiertens, wann Dir Enseignant sidd, kuckt Iech d'Workshoppen an d'pedagogesch Koffere un.",
+    "t": 337.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "A fënneftens, frot bei Ärer Gemeng no hirem Ëmweltservice oder hirer Ëmweltkommissioun. Vill Gemenge freeë sech iwwer Awunner, déi sech engagéiere wëllen.",
+    "t": 341.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass iwwregens eng schéin Aart, seng Noperen kennenzeléieren. Ganz Biergerpakt!",
+    "t": 351.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "A wann Dir eng Aarbecht am Ëmweltberäich sicht: D'EBL deelt och gréng Aarbechtsoffere mat hirem Reseau.",
+    "t": 355.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'News vun der EBL kënnt Dir iwwer hiren Newsletter suivéieren, deen e puermol am Joer erauskënnt, oder op de soziale Medien.",
+    "t": 361.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Websäit ass e-b-l Punkt l-u. Si ass meeschtens op Lëtzebuergesch, mat engem Deel vum Material op Franséisch, Däitsch an Englesch.",
+    "t": 367.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "An Dir kënnt un info at e-b-l Punkt l-u schreiwen.",
+    "t": 375.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Loosse mer et zesummefaassen. Wat sollt ee sech iwwer d'EBL mierken?",
+    "t": 378.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Éischtens... et ass eng neutral Associatioun sans but lucratif, déi virun allem d'Gemengen an Ëmweltfroe beréit.",
+    "t": 382.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens... déi meescht Gemenge si Member, dofir erreecht hir Aarbecht bal jiddereen zu Lëtzebuerg.",
+    "t": 389.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens... si bitt Formatiounen, Infografiken, Material fir auszeléinen a Workshoppe fir d'Schoulen un.",
+    "t": 395.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "A véiertens... si féiert Campagnen a Projeten duerch wéi Ouni Pestiziden, Green Events a Gutt Geschier, déi jiddereen notze kann.",
+    "t": 400.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ëmweltschutz fänkt dacks mat klenge Schrëtt un, ganz no bei eis.",
+    "t": 409.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et ass méi einfach, wa mir se zesumme maachen, an eiser Gemeng. Dat war eis Episode iwwer d'EBL, d'Ëmweltberodung Lëtzebuerg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
+    "t": 413.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
+    "t": 464.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 467.5
    }
   ]
  }

@@ -41,13 +41,13 @@ File names never change, so browsers may keep playing/using an old cached copy a
 - EN `.md` scripts of ALL other episodes got the new intro/outro applied (scripts + Word doc only — their audio/segments/translations are NOT yet updated; do this per-episode later like eps 1–5).
 - **Review pages**: `node build/make_review.js key1,key2` generates fully isolated per-episode pages under `review/<key>-<token>/` (one-episode `episodes_data.js` slice; app.js/svg/audio referenced from root via `../../`; tokens persist in `build/review_tokens.json`). Live at `https://bp-podcast-production.up.railway.app/review/<slug>/` after push.
 
-## Episodes (41 so far)
+## Episodes (42 so far)
 
 (Clarvia (ex-42) was removed from the site on 30 Sept 2026 at Jacques's request; its scripts and build files are kept in `archive/clarvia/` — the audio there is git-ignored.)
 
 (+ 40:lll — lifelong-learning.lu, a longer ~10-min episode, tagged `work`. + 41:cnap — Pensiounskeess/CNAP pension system, ~16-min, tagged `seniors,social,crossborder`, native EN/FR/DE audio + LB read-along.)
 
-id:key (order changed Sept 2026, `build/reorder_episodes.js`) — 1:myguichet, 2:luxtrust, 3:benevolat, 4:eltereforum, 5:digitalinclusion, 6:workinluxembourg, 7:dsp_cns, 8:lualert, 9:maison_orientation, 10:infosenior, 11:accessibilite, 12:granderegion, 13:adem, 14:zukunftskeess, 15:fns, 16:onis, 17:habitat, 18:klima, 19:snj, 20:enfance, 21:cepas, 22:fondseuropeens, 23:zesumme, 24:cgdis, 25:statec, 26:environnement, 27:syvicol, 28:research, 29:agriculture, 30:amenagement, 31:aaa, 32:geoportail, 33:govcert, 34:culture, 35:demenz, 36:ess, 37:luxinnovation, 38:logement, 39:space, 40:lll, 41:cnap.
+id:key (order changed Sept 2026, `build/reorder_episodes.js`) — 1:myguichet, 2:luxtrust, 3:benevolat, 4:eltereforum, 5:digitalinclusion, 6:workinluxembourg, 7:dsp_cns, 8:lualert, 9:maison_orientation, 10:infosenior, 11:accessibilite, 12:granderegion, 13:adem, 14:zukunftskeess, 15:fns, 16:onis, 17:habitat, 18:klima, 19:snj, 20:enfance, 21:cepas, 22:fondseuropeens, 23:zesumme, 24:cgdis, 25:statec, 26:environnement, 27:syvicol, 28:research, 29:agriculture, 30:amenagement, 31:aaa, 32:geoportail, 33:govcert, 34:culture, 35:demenz, 36:ess, 37:luxinnovation, 38:logement, 39:space, 40:lll, 41:cnap, 42:ebl.
 
 Batch tip: episodes 19-23 were built five at a time. `build/tts_batch.py` now also generates English (pass langs as 4th arg, e.g. `python3 build/tts_batch.py 40 snj,enfance,cepas en,fr,de`). Content for a batch: one `new_content_en.json` (with a `categories` field per episode) + two subagents → `tr_new_fr.json`/`tr_new_de.json`, then `build/inject_5.js`.
 
@@ -298,3 +298,12 @@ Jacques: "do the rest". `build/apply_factcheck_eps37-41_2026_11.py`; quiz: LLL Q
 - The API key "Biergerpakt podcast" hit its 300,000-credit limit during LLL FR. Remaining ≈ 50,000 credits (LLL FR/DE, CNAP EN/FR/DE). After raising the limit: re-run the same batch command (state b9 keeps the done parts; if /tmp was wiped, cached sentences in build/el_cache are reused at no cost), then `replace_audio_elevenlabs.js lll,cnap en,fr,de`, `set_status.js final lll,cnap`, `make_review.js`.
 - Fix: `die()` in `build/tts_elevenlabs.py` now uses `os._exit(1)`. Before, a quota error inside a worker thread only ended that thread, the run printed ALL SEGMENTS DONE with sentences missing and the batch marked LLL FR as done (the broken file stayed in /tmp, never went live).
 - Jacques raised the key's limit the same evening; LLL FR/DE and CNAP EN/FR/DE recorded with the same batch command, put live, status final (batch total ≈ 75,000 credits).
+
+## Episode 42 — EBL / Ëmweltberodung Lëtzebuerg (10 Nov 2026)
+
+New episode on ebl.lu (Jacques: "add a new episode about https://www.ebl.lu/"). ebl.lu blocks automated fetchers (robots), so it was researched in the built-in browser: EBL pages (founded 1992, neutral non-profit, member communes ≈ 95% of the population — scripted as "most communes… the vast majority of residents", no count per the no-stale-figures rule; funded by fees + agreement with the environment ministry since 1994), Projeten (Klimapakt, Naturpakt, Ouni Pestiziden, Green Events with SDK, Gutt Geschier, Grénge Web, Mol nach emol, school workshops Precious Ocean / Wuerzelwierk, children's books), Material/Ausléinen, Green Job, newsletter, contact (info@ebl.lu).
+- Scripts `podcast_script_ebl{,_fr,_de,_lb}.md` — 71 turns each, standard intro/outro, ~8 min. Content (titles, descriptions, topics, quiz) in `build/ebl_content.json`; wrong answers written to match the right ones in length, so no quiz_distractors file.
+- `pronunciation.py`: "EBL" added to LETTERS (E-B-L); "Ëmweltberodung" → EN "Um-velt-beh-roh-doong", FR "Eumvèlt-bérodoung" (DE as written) — not A/B tested, check by ear.
+- Recorded: `EL_STATE=/tmp/el_state_ebl.json python3 build/el_run_batch.py ebl en,fr,de` (≈ 22,200 credits); faster-whisper had to be reinstalled on the VM (`pip install faster-whisper --break-system-packages`), listening check then clean in EN/FR/DE.
+- Injected with `node build/inject_ebl.js` (adds the episode with content, categories energy + civic) followed by `node build/replace_audio_elevenlabs.js ebl en,fr,de` (audio, segments, durations, segments_lb), then `balance_quiz_answers.js --write`, `bump_version.js`, `make_review.js ebl`. Durations: EN 7:49, FR 7:44, DE 8:39. Backup: `episodes_data.pre_ebl.js`.
+- This inject + replace pair is the simplest pattern for any NEW ElevenLabs episode.

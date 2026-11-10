@@ -18,7 +18,7 @@ EMERGENCY_112 = {"en": "one-one-two", "fr": "cent-douze", "de": "eins-eins-zwei"
 
 # Acronyms said letter by letter -> written "C-N-S" so every voice spells them.
 LETTERS = ["CNS", "FNS", "SNJ", "CNAP", "AAA", "DSP", "CGDIS", "CSU", "CIS", "CNIS", "INFS", "INFPC",
-           "ASBL", "ONE", "FNR", "LIH", "SES", "IMD", "FSE", "ESF", "GAP", "SIA", "ATVA", "OTP", "QR",
+           "ASBL", "EBL", "ONE", "FNR", "LIH", "SES", "IMD", "FSE", "ESF", "GAP", "SIA", "ATVA", "OTP", "QR",
            "ID", "CV", "SMS", "GDP", "PIB", "BIP", "VAT", "TVA", "ATM", "AVC", "EU", "UE"]
 LETTERS_LANG = {"en": ["IT", "AI"], "fr": ["IA"], "de": ["IT", "KI"]}
 # Acronyms said as a word -> written in normal case so no voice spells them out.
@@ -36,12 +36,14 @@ EMPHASIS = {"en": ["NOT", "AND"], "fr": ["PAS", "ET"], "de": ["NICHT", "UND"]}
 # Everything not listed here was judged fine as written.
 NAMES = {
     "en": [(r"(?i)\bZukunftskeess\b", "Tsoo-koonfts-kayss"),                  # EN 1B
-           (r"(?i)\bPensiounskeess\b", "Pen-see-ouns-kayss")],                # EN 2B
+           (r"(?i)\bPensiounskeess\b", "Pen-see-ouns-kayss"),                # EN 2B
+           (r"\bËmweltberodung\b", "Um-velt-beh-roh-doong")],                # EBL ep (2026-11-10), check by ear
     "fr": [(r"\bÄddi\b", "Addi"),                                             # no "Ä" in French
            (r"(?i)\bZukunftskeess\b", "Tsoukounftskéss"),                     # FR 1B
            (r"(?i)\bPensiounskeess\b", "Pènnsiounskéss"),                     # FR 2B
            (r"(?i)\bEltereforum\b", "Eltèreu-forum"),                         # FR 3B
-           (r"\bZesumme\b", "Tsézoumeu"), (r"\bVereinfachen\b", "Fèraïnnfarènn")],  # FR 5B
+           (r"\bZesumme\b", "Tsézoumeu"), (r"\bVereinfachen\b", "Fèraïnnfarènn"),  # FR 5B
+           (r"\bËmweltberodung\b", "Eumvèlt-bérodoung")],                    # EBL ep (2026-11-10), check by ear
 }
 # Phone numbers written as plain numbers in the scripts -> read digit by digit.
 PHONE_NUMBERS = ["8002", "8181", "261210", "247-86000", "26 432 432"]  # 26 432 432: ala Alzheimer help line (fact-check 2026-11-09)

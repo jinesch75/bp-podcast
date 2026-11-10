@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "EBL – Environmental Advice for Luxembourg's Communes",
+  "description": "Meet the Ëmweltberodung Lëtzebuerg — the association that helps communes protect the environment. Infographics, a free tool library, greener events, a campaign without pesticides, and workshops for schools.",
+  "topics": [
+   "What the EBL is",
+   "Advice for the communes",
+   "Climate Pact & Nature Pact",
+   "Infographics & publications",
+   "Material to borrow",
+   "Ouni Pestiziden",
+   "Green Events & Gutt Geschier",
+   "Workshops for schools"
+  ],
+  "questions": [
+   {
+    "text": "Who does the EBL mainly advise?",
+    "options": [
+     "Private households, one by one",
+     "The communes, as well as associations and businesses",
+     "Only farmers and winegrowers",
+     "Only schools and their teachers"
+    ],
+    "correct": 1,
+    "explanation": "The EBL is a neutral, non-profit association that advises mainly the communes, but also associations, institutions, businesses and environmental advisers."
+   },
+   {
+    "text": "What is the EBL?",
+    "options": [
+     "A government ministry",
+     "A private consulting company",
+     "A neutral, non-profit association founded in 1992",
+     "A European Union agency"
+    ],
+    "correct": 2,
+    "explanation": "The Ëmweltberodung Lëtzebuerg is an independent, non-profit association (a.s.b.l.) created in 1992."
+   },
+   {
+    "text": "What is the aim of the campaign \"Ouni Pestiziden\"?",
+    "options": [
+     "Show that green spaces and gardens can be beautiful without chemical pesticides",
+     "Sell organic fertiliser to gardeners at lower prices",
+     "Ban all gardening in public parks during summer",
+     "Count the insects in every Luxembourg garden"
+    ],
+    "correct": 0,
+    "explanation": "\"Ouni Pestiziden\" means \"without pesticides\". The campaign, coordinated by the EBL, shows alternatives for public and private green spaces."
+   },
+   {
+    "text": "What is Gutt Geschier?",
+    "options": [
+     "A shop selling second-hand kitchen dishes",
+     "A label for sustainable village parties",
+     "A repair café that only fixes bicycles",
+     "A library where everyone can borrow tools for free"
+    ],
+    "correct": 3,
+    "explanation": "Gutt Geschier is a tool library: residents and associations can borrow tools for DIY and gardening, free of charge."
+   },
+   {
+    "text": "Your football club organises a summer party. Which EBL project can help make it more sustainable?",
+    "options": [
+     "Grénge Web",
+     "Green Events",
+     "The Nature Pact",
+     "The soil teaching kit"
+    ],
+    "correct": 1,
+    "explanation": "Green Events, coordinated by the EBL with the SuperDrecksKëscht, supports organisers and awards a label to particularly sustainable events."
+   }
+  ]
+ },
+ "fr": {
+  "title": "L'EBL – Le conseil en environnement pour les communes du Luxembourg",
+  "description": "Découvrez l'Ëmweltberodung Lëtzebuerg — l'association qui aide les communes à protéger l'environnement. Infographies, une bibliothèque d'outils gratuite, des événements plus verts, une campagne sans pesticides et des ateliers pour les écoles.",
+  "topics": [
+   "Ce qu'est l'EBL",
+   "Des conseils pour les communes",
+   "Pacte Climat et Pacte Nature",
+   "Infographies et publications",
+   "Du matériel à emprunter",
+   "Ouni Pestiziden",
+   "Green Events et Gutt Geschier",
+   "Des ateliers pour les écoles"
+  ],
+  "questions": [
+   {
+    "text": "Qui l'EBL conseille-t-elle principalement ?",
+    "options": [
+     "Les ménages privés, un par un",
+     "Les communes, ainsi que des associations et des entreprises",
+     "Uniquement les agriculteurs et les vignerons",
+     "Uniquement les écoles et leurs enseignants"
+    ],
+    "correct": 1,
+    "explanation": "L'EBL est une association neutre et sans but lucratif qui conseille surtout les communes, mais aussi des associations, des institutions, des entreprises et des conseillers en environnement."
+   },
+   {
+    "text": "Qu'est-ce que l'EBL ?",
+    "options": [
+     "Un ministère",
+     "Un bureau de conseil privé",
+     "Une association neutre, sans but lucratif, fondée en 1992",
+     "Une agence de l'Union européenne"
+    ],
+    "correct": 2,
+    "explanation": "L'Ëmweltberodung Lëtzebuerg est une association sans but lucratif (a.s.b.l.) indépendante, créée en 1992."
+   },
+   {
+    "text": "Quel est le but de la campagne « Ouni Pestiziden » ?",
+    "options": [
+     "Montrer que les espaces verts et les jardins peuvent être beaux sans pesticides chimiques",
+     "Vendre de l'engrais bio aux jardiniers à des prix plus bas",
+     "Interdire tout jardinage dans les parcs publics en été",
+     "Compter les insectes dans chaque jardin du Luxembourg"
+    ],
+    "correct": 0,
+    "explanation": "« Ouni Pestiziden » veut dire « sans pesticides ». La campagne, coordonnée par l'EBL, montre des alternatives pour les espaces verts publics et privés."
+   },
+   {
+    "text": "Qu'est-ce que Gutt Geschier ?",
+    "options": [
+     "Un magasin de vaisselle de cuisine d'occasion",
+     "Un label pour des fêtes de village durables",
+     "Un repair café qui ne répare que des vélos",
+     "Une bibliothèque où chacun peut emprunter des outils gratuitement"
+    ],
+    "correct": 3,
+    "explanation": "Gutt Geschier est une bibliothèque d'outils : habitants et associations peuvent emprunter gratuitement des outils de bricolage et de jardinage."
+   },
+   {
+    "text": "Votre club de football organise une fête d'été. Quel projet de l'EBL peut l'aider à la rendre plus durable ?",
+    "options": [
+     "Grénge Web",
+     "Green Events",
+     "Le Pacte Nature",
+     "La valise pédagogique sur le sol"
+    ],
+    "correct": 1,
+    "explanation": "Green Events, coordonné par l'EBL avec la SuperDrecksKëscht, accompagne les organisateurs et décerne un label aux événements particulièrement durables."
+   }
+  ]
+ },
+ "de": {
+  "title": "Die EBL – Umweltberatung für Luxemburgs Gemeinden",
+  "description": "Lernen Sie die Ëmweltberodung Lëtzebuerg kennen — den Verein, der Gemeinden beim Umweltschutz hilft. Infografiken, eine kostenlose Werkzeug-Bibliothek, grünere Feste, eine Kampagne ohne Pestizide und Workshops für Schulen.",
+  "topics": [
+   "Was die EBL ist",
+   "Beratung für die Gemeinden",
+   "Klimapakt & Naturpakt",
+   "Infografiken & Veröffentlichungen",
+   "Material zum Ausleihen",
+   "Ouni Pestiziden",
+   "Green Events & Gutt Geschier",
+   "Workshops für Schulen"
+  ],
+  "questions": [
+   {
+    "text": "Wen berät die EBL hauptsächlich?",
+    "options": [
+     "Private Haushalte, einen nach dem anderen",
+     "Die Gemeinden, sowie Vereine und Unternehmen",
+     "Nur Landwirte und Winzer",
+     "Nur Schulen und ihre Lehrkräfte"
+    ],
+    "correct": 1,
+    "explanation": "Die EBL ist ein neutraler, gemeinnütziger Verein, der vor allem die Gemeinden berät, aber auch Vereine, Einrichtungen, Unternehmen und Umweltberater."
+   },
+   {
+    "text": "Was ist die EBL?",
+    "options": [
+     "Ein Ministerium",
+     "Ein privates Beratungsunternehmen",
+     "Ein neutraler, gemeinnütziger Verein, gegründet 1992",
+     "Eine Agentur der Europäischen Union"
+    ],
+    "correct": 2,
+    "explanation": "Die Ëmweltberodung Lëtzebuerg ist ein unabhängiger, gemeinnütziger Verein (a.s.b.l.), gegründet 1992."
+   },
+   {
+    "text": "Was ist das Ziel der Kampagne „Ouni Pestiziden\"?",
+    "options": [
+     "Zeigen, dass Grünflächen und Gärten ohne chemische Pestizide schön sein können",
+     "Bio-Dünger günstiger an Gärtner verkaufen",
+     "Im Sommer jede Gartenarbeit in öffentlichen Parks verbieten",
+     "Die Insekten in jedem Garten Luxemburgs zählen"
+    ],
+    "correct": 0,
+    "explanation": "„Ouni Pestiziden\" heißt „ohne Pestizide\". Die von der EBL koordinierte Kampagne zeigt Alternativen für öffentliche und private Grünflächen."
+   },
+   {
+    "text": "Was ist Gutt Geschier?",
+    "options": [
+     "Ein Geschäft für gebrauchtes Küchengeschirr",
+     "Ein Label für nachhaltige Dorffeste",
+     "Ein Repair-Café, das nur Fahrräder repariert",
+     "Eine Bibliothek, in der alle kostenlos Werkzeug ausleihen können"
+    ],
+    "correct": 3,
+    "explanation": "Gutt Geschier ist eine Werkzeug-Bibliothek: Einwohner und Vereine können kostenlos Werkzeug zum Heimwerken und Gärtnern ausleihen."
+   },
+   {
+    "text": "Ihr Fußballverein organisiert ein Sommerfest. Welches EBL-Projekt kann helfen, es nachhaltiger zu machen?",
+    "options": [
+     "Grénge Web",
+     "Green Events",
+     "Der Naturpakt",
+     "Der pädagogische Bodenkoffer"
+    ],
+    "correct": 1,
+    "explanation": "Green Events, koordiniert von der EBL mit der SuperDrecksKëscht, begleitet Veranstalter und vergibt ein Label an besonders nachhaltige Veranstaltungen."
+   }
+  ]
+ }
+}
