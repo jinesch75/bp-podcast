@@ -10,3 +10,6 @@ archive/**/*.mp3
 
 # Partner contact list (personal data, keep out of the public repo)
 Biergerpakt_Podcast_Contacts_relecture.xlsx
+
+# Partner review documents (internal)
+Relecture partenaires/

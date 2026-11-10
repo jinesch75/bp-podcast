@@ -315,3 +315,7 @@ Episode 12 had been skipped in the November round (no review page). Checked agai
 ## Hesitations removed — MyGuichet (10 Nov 2026)
 
 Jacques: spoken hesitations ("Nice. And, hmm... what can I…", "Mmm,", "..." pauses) sound awkward with the ElevenLabs voices — **avoid them in scripts**: no "hmm"/"mmm"/"uh", no "..." pauses; use a comma, colon or full stop instead. Applied to MyGuichet with `build/apply_nofillers_myguichet_2026_11.py` (24 edits per language, EN/FR/DE/LB, turn counts unchanged, idempotent). Re-recorded (changed sentences + neighbours, ≈11,200 credits, listening check clean), put live with `replace_audio_elevenlabs.js`. New durations: EN 7:47, FR 8:09, DE 9:03. Other episodes still contain such hesitations.
+
+## Partner review documents (10 Nov 2026)
+
+`node build/make_review_doc.js <key>[,<key>…]` writes `Relecture partenaires/Biergerpakt_Capsule_<key>_relecture.docx` (folder git-ignored): French instructions + review link (from `build/review_tokens.json`), then per language (FR, DE, EN) the script from `podcast_script_<key>{_fr,_de,}.md` and the quiz from `episodes_data.js` (correct answer highlighted in green, explanations). Check first that the scripts match the recorded audio. Partners are now told about "capsules audio" (Jacques, 10 Nov 2026). Partner contact list: `Biergerpakt_Podcast_Contacts_relecture.xlsx` (git-ignored, personal data).
