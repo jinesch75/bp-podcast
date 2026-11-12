@@ -130,7 +130,7 @@
 
 **TOM:** The third is "Changing your professional path". This is the one for adults we spoke about — help to re-orient or get back into work, going back to studies or following a training, and getting your diplomas recognised and your experience validated.
 
-**ANNA:** And the fourth?
+**ANNA:** And what's the fourth theme?
 
 **TOM:** The fourth is "Help and support". This gathers the support for harder situations — what to do when you have difficulties, the financial and in-kind aid that exists, support for foreign pupils joining school, and support for people with specific needs.
 
@@ -158,7 +158,7 @@
 
 **TOM:** Sure. The Maison de l'Orientation is a State house that brings many guidance services together in one place, in Luxembourg City. It helps you choose your school path or your career — by understanding your abilities and interests. The guidance space is free, and anonymous, mainly for people aged 14 to 22, but the house also helps adults and people changing career, and newcomers who need their diplomas or experience recognised.
 
-**ANNA:** And how to start?
+**ANNA:** And what's the best way to get started?
 
 **TOM:** Book through MyGuichet.lu, or walk in, Monday to Friday. Free advice, and many experts under one roof.
 

@@ -130,7 +130,7 @@
 
 **TOM:** Das dritte ist „Den beruflichen Weg wechseln". Das ist jenes für die Erwachsenen, über die wir gesprochen haben — Hilfe, um sich neu zu orientieren oder wieder in den Beruf einzusteigen, wieder zu studieren oder eine Weiterbildung zu machen, und seine Diplome anerkennen und seine Erfahrung validieren zu lassen.
 
-**ANNA:** Und das vierte?
+**ANNA:** Und was ist das vierte Thema?
 
 **TOM:** Das vierte ist „Hilfe und Unterstützung". Es versammelt die Unterstützung für schwierigere Situationen — was zu tun ist, wenn man Schwierigkeiten hat, die finanziellen und sachlichen Hilfen, die es gibt, die Unterstützung für ausländische Schüler, die in die Schule kommen, und die Unterstützung für Menschen mit besonderen Bedürfnissen.
 
@@ -158,7 +158,7 @@
 
 **TOM:** Klar. Die Maison de l'orientation ist ein staatliches Haus, das viele Orientierungsdienste an einem einzigen Ort zusammenbringt, in Luxemburg-Stadt. Es hilft Ihnen, Ihren schulischen Weg oder Ihre Laufbahn zu wählen — indem Sie Ihre Fähigkeiten und Interessen verstehen. Der Orientierungsraum ist kostenlos und anonym, vor allem für Menschen im Alter von 14 bis 22 Jahren, aber das Haus hilft auch Erwachsenen und Menschen, die ihre Laufbahn wechseln, und Neuankömmlingen, die ihre Diplome oder ihre Erfahrung anerkennen lassen müssen.
 
-**ANNA:** Und wie fängt man an?
+**ANNA:** Und wie fängt man am besten an?
 
 **TOM:** Buchen Sie über MyGuichet.lu, oder gehen Sie hinein, von Montag bis Freitag. Kostenloser Rat, und viele Fachleute unter einem Dach.
 

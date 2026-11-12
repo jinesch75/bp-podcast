@@ -130,7 +130,7 @@
 
 **TOM :** Le troisième, c'est « Changer de parcours professionnel ». C'est celui pour les adultes dont nous avons parlé — de l'aide pour se réorienter ou retrouver un emploi, reprendre des études ou suivre une formation, et faire reconnaître ses diplômes et valider son expérience.
 
-**ANNA :** Et le quatrième ?
+**ANNA :** Et quel est le quatrième thème ?
 
 **TOM :** Le quatrième, c'est « Aide et soutien ». Il rassemble le soutien pour les situations plus difficiles — que faire quand on a des difficultés, les aides financières et en nature qui existent, le soutien pour les élèves étrangers qui rejoignent l'école, et le soutien pour les personnes ayant des besoins spécifiques.
 
@@ -158,7 +158,7 @@
 
 **TOM :** Bien sûr. La Maison de l'orientation est une maison de l'État qui rassemble de nombreux services d'orientation en un seul endroit, à Luxembourg-Ville. Elle vous aide à choisir votre parcours scolaire ou votre carrière — en comprenant vos capacités et vos intérêts. L'espace orientation est gratuit, et anonyme, surtout pour les personnes âgées de 14 à 22 ans, mais la maison aide aussi les adultes et les personnes qui changent de carrière, et les nouveaux arrivants qui ont besoin de faire reconnaître leurs diplômes ou leur expérience.
 
-**ANNA :** Et comment commencer ?
+**ANNA :** Et concrètement, comment est-ce qu'on commence ?
 
 **TOM :** Réservez par MyGuichet.lu, ou entrez, du lundi au vendredi. Des conseils gratuits, et plein d'experts sous le même toit.
 

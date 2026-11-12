@@ -130,7 +130,7 @@
 
 **TOM:** Dat drëtt ass "Säi berufflechen Wee wiesselen". Dat ass deen fir d'Erwuessener, vun deem mir geschwat hunn — Hëllef fir sech nei z'orientéieren oder nees an d'Aarbecht zréckzekommen, nees studéieren oder eng Formatioun maachen, an seng Diplomer unerkenne loossen a seng Erfarung validéieren.
 
-**ANNA:** An dat véiert?
+**ANNA:** A wat ass dat véiert Thema?
 
 **TOM:** Dat véiert ass "Hëllef an Ënnerstëtzung". Dat sammelt d'Ënnerstëtzung fir méi schwéier Situatiounen — wat een dee maache soll, wann ee Schwieregkeeten huet, déi finanziell a materiell Hëllef, déi et gëtt, Ënnerstëtzung fir auslännesch Schüler, déi an d'Schoul kommen, an Ënnerstëtzung fir Leit mat spezifesche Bedürfnisser.
 
@@ -158,7 +158,7 @@
 
 **TOM:** Sécher. D'Maison de l'orientation ass e Staatshaus, dat vill Orientéierungsdéngschter op enger Plaz zesummebréngt, an der Stad Lëtzebuerg. Et hëlleft Iech, äre Schoulwee oder är Carrière ze wielen — andeems Dir är Fäegkeeten an Interessen verstitt. De Beräich fir d'Orientéierung ass gratis, an anonym, haaptsächlech fir Leit tëschent 14 an 22 Joer, mä d'Haus hëlleft och Erwuessener a Leit, déi d'Carrière wiesselen, an Nei-Ukomm, déi hir Diplomer oder Erfarung unerkanne loosse mussen.
 
-**ANNA:** A wéi ufänken?
+**ANNA:** A wéi fänkt een am beschten un?
 
 **TOM:** Buucht iwwer MyGuichet.lu, oder kommt eran, vu méindes bis freides. Gratis Rot, a vill Experten ënner engem Daach.
 

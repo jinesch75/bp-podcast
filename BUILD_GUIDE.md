@@ -319,3 +319,14 @@ Jacques: spoken hesitations ("Nice. And, hmm... what can I…", "Mmm,", "..." pa
 ## Partner review documents (10 Nov 2026)
 
 `node build/make_review_doc.js <key>[,<key>…]` writes `Relecture partenaires/Biergerpakt_Capsule_<key>_relecture.docx` (folder git-ignored): French instructions + review link (from `build/review_tokens.json`), then per language (FR, DE, EN) the script from `podcast_script_<key>{_fr,_de,}.md` and the quiz from `episodes_data.js` (correct answer highlighted in green, explanations). Check first that the scripts match the recorded audio. Partners are now told about "capsules audio" (Jacques, 10 Nov 2026). Partner contact list: `Biergerpakt_Podcast_Contacts_relecture.xlsx` (git-ignored, personal data).
+
+## Voice fixes — Maison de l'orientation (12 Nov 2026)
+
+Jacques heard two bad lines by Anna ("And the fourth?" too loud, "And how to start?" squeaky) and wanted French names said the French way.
+- Lines lengthened so the voice has context: "And what's the fourth theme?" / "And what's the best way to get started?" (+ FR/DE/LB equivalents) — `build/apply_voicefix_maison_orientation_2026_11.py`.
+- **New QC tools** (keep using them after each recording):
+  - `build/voice_qc.py <key> <lang>` measures every sentence (pace, pitch, pitch spread, loudness, voicing, whisper confidence) and lists sentences that sound unlike the rest of that host's voice (it flagged both lines Jacques heard). Results in `/tmp/voice_qc_<key>_<lang>.json`; resumable (`BUDGET=` seconds).
+  - `build/best_take.py <key> <lang> <i,i>` records 3 extra takes (seeds 1241–1243) and keeps the one closest to the host's normal profile (writes `el_cache/reseed.json`); then re-run `el_run_batch.py` (0 credits) and `replace_audio_elevenlabs.js`.
+  - `build/match_pron.py <key> <lang> [start]` for sentences containing a French name: keeps the take whose pronunciation (whisper word timing + MFCC/DTW, same voice) is closest to the approved A/B reference.
+- Pronunciation A/B (`build/pron_fr_words_test.py`, files `build/el_test/pron_maison_en_AB.mp3`, `pron_lycee_en_AB.mp3`): Jacques chose "Maison de l'Orientation" **as written** and **"leessay"** for lycée/lycées → EN rule in `pronunciation.py`. (CePAS EN also says "lycée": the rule applies at its next re-recording.)
+- Retakes kept: EN 7 (plus 6 name sentences), FR 11, DE 5. ≈ 5,000 credits in total (incl. A/B tests). New durations: EN 11:54, FR 11:59, DE 14:03.

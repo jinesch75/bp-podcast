@@ -37,7 +37,8 @@ EMPHASIS = {"en": ["NOT", "AND"], "fr": ["PAS", "ET"], "de": ["NICHT", "UND"]}
 NAMES = {
     "en": [(r"(?i)\bZukunftskeess\b", "Tsoo-koonfts-kayss"),                  # EN 1B
            (r"(?i)\bPensiounskeess\b", "Pen-see-ouns-kayss"),                # EN 2B
-           (r"\bËmweltberodung\b", "Um-velt-beh-roh-doong")],                # EBL ep (2026-11-10), check by ear
+           (r"\bËmweltberodung\b", "Um-velt-beh-roh-doong"),                 # EBL ep (2026-11-10), check by ear
+           (r"(?i)\blycées?\b", "leessay")],                                  # Jacques's A/B choice C (2026-11-12)
     "fr": [(r"\bÄddi\b", "Addi"),                                             # no "Ä" in French
            (r"(?i)\bZukunftskeess\b", "Tsoukounftskéss"),                     # FR 1B
            (r"(?i)\bPensiounskeess\b", "Pènnsiounskéss"),                     # FR 2B
