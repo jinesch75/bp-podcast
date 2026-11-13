@@ -13,14 +13,15 @@ key, lang = sys.argv[1], sys.argv[2]
 START = int(sys.argv[3]) if len(sys.argv) > 3 else 0   # resume from this sentence index
 # name -> (pattern in the script, carrier sentence of the approved reference, words to locate)
 TERMS = {"en": [("maison de l'orientation", r"(?i)maison de l.orientation", "It's called the Maison de l'Orientation, in Luxembourg City."),
-                ("lycée", r"(?i)\blycées?\b", "You can ask how to get back into a leessay.")]}[lang]
+                ("lycée", r"(?i)\blycées?\b", "You can ask how to get back into a leessay."),
+                ("accessibilité", r"\baccessibilite\b", "Remember the website: accessibilité dot L-U.")]}[lang]
 el.load_env(); api = os.environ["ELEVENLABS_API_KEY"].strip()
 voices = json.loads(el.request("GET", "/voices", api))["voices"]
 vids = {r: el.resolve_voice(r, lang, voices)[0] for r in ("Anna", "Tom")}
 from faster_whisper import WhisperModel
 wm = WhisperModel("small", device="cpu", compute_type="int8")
 def norm(t): return re.sub(r"[^a-zàâçéèêëîïôûùü' ]", "", t.lower().replace("’", "'"))
-ALT = {"lycée": ["lycée", "lycées", "lice", "licy", "lisa", "lisae", "lices", "lysee", "lisée", "leessay", "lissay", "lease", "lisse", "lessay", "lisey"]}
+ALT = {"accessibilité": ["accessibilité", "accessibilite", "accessibility", "accessibilities"], "lycée": ["lycée", "lycées", "lice", "licy", "lisa", "lisae", "lices", "lysee", "lisée", "leessay", "lissay", "lease", "lisse", "lessay", "lisey"]}
 def locate(path, target):
     segs, _ = wm.transcribe(path, language=lang, word_timestamps=True, beam_size=5)
     words = [w for s in segs for w in s.words]

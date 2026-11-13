@@ -182,11 +182,11 @@
 
 **TOM :** Bien sûr. Le Luxembourg a un seul portail officiel — accessibilite.lu — pour trois domaines de l'accessibilité. Le numérique, avec la loi de 2019, pour les sites et applications publics. L'infrastructure, avec la loi de 2022, pour des bâtiments, des rues et des logements accessibles, fondée sur la conception universelle, avec une échéance en 2032 pour les lieux publics existants. Et les produits et services, le plus récent, issu de l'Acte européen sur l'accessibilité, applicable depuis juin 2025, surveillé par l'office OSAPS — avec les entreprises privées désormais impliquées aussi.
 
-**ANNA :** Et le message d'aujourd'hui ?
+**ANNA :** Et quel est le message à retenir aujourd'hui ?
 
 **TOM :** L'accessibilité, ce n'est pas seulement pour « les autres ». C'est pour nous tous — aujourd'hui, ou demain. Un monde construit pour tout le monde est tout simplement un monde meilleur à vivre.
 
-**ANNA :** Alors... que vous soyez un citoyen qui rencontre un obstacle, ou un professionnel qui construit des choses — souvenez-vous de la porte d'entrée. accessibilite.lu.
+**ANNA :** Alors, que vous soyez un citoyen qui rencontre un obstacle, ou un professionnel qui construit des choses — souvenez-vous de la porte d'entrée. accessibilite.lu.
 
 **TOM :** Un seul site, trois promesses, et un pays qui ouvre peu à peu chaque porte.
 

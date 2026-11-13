@@ -182,11 +182,11 @@
 
 **TOM:** Gerne. Luxemburg hat einen offiziellen Knotenpunkt — accessibilite.lu — für drei Bereiche der Barrierefreiheit. Digitales, mit dem Gesetz von 2019, für öffentliche Websites und Apps. Infrastruktur, mit dem Gesetz von 2022, für barrierefreie Gebäude, Straßen und Wohnungen, gegründet auf universelles Design, mit einer Frist im Jahr 2032 für bestehende öffentliche Orte. Und Produkte und Dienstleistungen, das neueste, aus dem European Accessibility Act (Europäisches Barrierefreiheitsgesetz), gültig seit Juni 2025, überwacht vom Amt OSAPS — mit nun auch privaten Unternehmen, die einbezogen sind.
 
-**ANNA:** Und die Botschaft für heute?
+**ANNA:** Und was ist die wichtigste Botschaft für heute?
 
 **TOM:** Barrierefreiheit ist nicht nur für „andere Leute". Sie ist für uns alle — heute, oder morgen. Eine Welt, die für alle gebaut ist, ist ganz einfach eine bessere Welt zum Leben.
 
-**ANNA:** Also... ob Sie ein Bürger sind, der auf ein Hindernis stößt, oder ein Fachmann, der Dinge baut — denken Sie an die Eingangstür. accessibilite.lu.
+**ANNA:** Also, ob Sie ein Bürger sind, der auf ein Hindernis stößt, oder ein Fachmann, der Dinge baut — denken Sie an die Eingangstür. accessibilite.lu.
 
 **TOM:** Eine Website, drei Versprechen, und ein Land, das langsam jede Tür öffnet.
 

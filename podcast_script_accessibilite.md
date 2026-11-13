@@ -182,11 +182,11 @@
 
 **TOM:** Sure. Luxembourg has one official hub — accessibilite.lu — for three areas of accessibility. Digital, with the law of 2019, for public websites and apps. Infrastructure, with the law of 2022, for accessible buildings, streets, and housing, built on universal design, with a deadline of 2032 for existing public places. And products and services, the newest, from the European Accessibility Act, applying since June 2025, watched over by the OSAPS office — with private companies now involved too.
 
-**ANNA:** And the message for today?
+**ANNA:** And what's the one message to remember from today?
 
 **TOM:** Accessibility isn't only for "other people". It's for all of us — today, or tomorrow. A world built for everyone is simply a better world to live in.
 
-**ANNA:** So... whether you're a citizen who hits a barrier, or a professional who builds things — remember the front door. accessibilite.lu.
+**ANNA:** So, whether you're a citizen who hits a barrier, or a professional who builds things — remember the front door. accessibilite.lu.
 
 **TOM:** One website, three promises, and a country slowly opening every door.
 

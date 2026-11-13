@@ -334,3 +334,10 @@ Jacques heard two bad lines by Anna ("And the fourth?" too loud, "And how to sta
 ## Official ministry name — Info-Seniors, FNS, ONIS (13 Nov 2026)
 
 Jacques: use the ministry's official name, not "the Ministry of Family". Fixed in Info-Seniors line 21 (`build/apply_ministry_name_infosenior_2026_11.py`) and, by the same standing rule, FNS line 23 and ONIS line 41 (`build/apply_ministry_name_fns_onis_2026_11.py`), EN/FR/DE/LB. These were the only short forms left in any script's spoken lines. Re-recorded the changed sentences (≈2,500 credits), put live with `replace_audio_elevenlabs.js infosenior,fns,onis en,fr,de`.
+
+## Accessibility voice fixes (13 Nov 2026)
+
+- Anna's "And the message for today?" sounded wrong → "And what's the one message to remember from today?" (+ FR/DE/LB); "So..." pause in her next line removed. `build/apply_voicefix_accessibilite_2026_11.py`.
+- Website said the French way in English: Jacques's A/B choice A → EN rule `accessibilite` → "accessibilité" in `pronunciation.py` (A/B file `build/el_test/pron_accessibilite_en_AB.mp3`, made with the new generic `build/pron_ab.py`). `match_pron.py` now also handles it.
+- "agrément" (Info-Seniors EN): A/B tested, Jacques: leave as is.
+- Voice QC (EN): 6 odd-sounding sentences retaken with `best_take.py`. ≈ 3,500 credits in total. New durations: EN 13:12, FR 13:20, DE 15:21.

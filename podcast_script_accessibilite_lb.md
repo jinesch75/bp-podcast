@@ -182,11 +182,11 @@
 
 **TOM:** Gär. Lëtzebuerg huet een offizielle Knäppelpunkt — accessibilite.lu — fir dräi Beräicher vun der Accessibilitéit. Digital, mam Gesetz vun 2019, fir ëffentlech Websäiten an Apps. Infrastruktur, mam Gesetz vun 2022, fir accessibel Gebaier, Stroossen, a Wunnengen, opgebaut op universellem Design, mat enger Frist vun 2032 fir bestoend ëffentlech Plazen. A Produiten an Déngschtleeschtungen, déi neist, vum European Accessibility Act, gëllt zënter Juni 2025, iwwerwaacht vum OSAPS-Büro — mat private Betriber elo och mat dobäi.
 
-**ANNA:** An d'Message fir haut?
+**ANNA:** A wat ass de wichtegste Message fir haut?
 
 **TOM:** Accessibilitéit ass net nëmme fir "aner Leit". Et ass fir eis all — haut, oder muer. Eng Welt déi fir jiddereen gebaut ass, ass einfach eng besser Welt fir dran ze liewen.
 
-**ANNA:** Also... egal ob s du e Bierger bass deen op en Hindernis stéisst, oder e Professionnel deen d'Saache baut — erënner dech un d'Virdier. accessibilite.lu.
+**ANNA:** Also, egal ob s du e Bierger bass deen op en Hindernis stéisst, oder e Professionnel deen d'Saache baut — erënner dech un d'Virdier. accessibilite.lu.
 
 **TOM:** Eng Websäit, dräi Verspriechen, an e Land dat lues all Dier opmécht.
 

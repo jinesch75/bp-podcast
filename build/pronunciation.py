@@ -38,7 +38,8 @@ NAMES = {
     "en": [(r"(?i)\bZukunftskeess\b", "Tsoo-koonfts-kayss"),                  # EN 1B
            (r"(?i)\bPensiounskeess\b", "Pen-see-ouns-kayss"),                # EN 2B
            (r"\bËmweltberodung\b", "Um-velt-beh-roh-doong"),                 # EBL ep (2026-11-10), check by ear
-           (r"(?i)\blycées?\b", "leessay")],                                  # Jacques's A/B choice C (2026-11-12)
+           (r"(?i)\blycées?\b", "leessay"),                                  # Jacques's A/B choice C (2026-11-12)
+           (r"\baccessibilite\b", "accessibilité")],                         # website said the French way, A/B choice A (2026-11-13)
     "fr": [(r"\bÄddi\b", "Addi"),                                             # no "Ä" in French
            (r"(?i)\bZukunftskeess\b", "Tsoukounftskéss"),                     # FR 1B
            (r"(?i)\bPensiounskeess\b", "Pènnsiounskéss"),                     # FR 2B
