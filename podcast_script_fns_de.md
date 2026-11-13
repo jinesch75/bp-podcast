@@ -20,7 +20,7 @@
 
 **ANNA:** Der Nationale Solidaritätsfonds. Das ist ein schöner Name. Fangen wir einfach an. Was ist das?
 
-**TOM:** Der FNS ist eine öffentliche Stelle, deren ganze Aufgabe es ist, Menschen zu helfen, die finanziell in Schwierigkeiten sind. Er gehört zum Familienministerium. Und seine Aufgabe ist, ganz einfach gesagt, der Kampf gegen die Armut.
+**TOM:** Der FNS ist eine öffentliche Stelle, deren ganze Aufgabe es ist, Menschen zu helfen, die finanziell in Schwierigkeiten sind. Er gehört zum Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Und seine Aufgabe ist, ganz einfach gesagt, der Kampf gegen die Armut.
 
 **ANNA:** Das ist also das soziale Netz des Landes.
 

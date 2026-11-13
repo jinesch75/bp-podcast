@@ -18,7 +18,7 @@
 
 **TOM:** infosenior.lu. A wien ass do dohannert?
 
-**ANNA:** De Staat féiert et — d'Familljeministère. Et ass also eng offiziell, ëffentlech Quell. Net eng privat Firma, déi Iech eppes wëll verkafen.
+**ANNA:** De Staat féiert et — de Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. Et ass also eng offiziell, ëffentlech Quell. Net eng privat Firma, déi Iech eppes wëll verkafen.
 
 **TOM:** Gutt ze wëssen. A fir wie ass et? Just fir d'eeler Leit selwer?
 

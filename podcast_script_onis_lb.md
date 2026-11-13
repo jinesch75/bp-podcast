@@ -38,7 +38,7 @@
 
 **TOM:** Loosse mir d'Basis kucken. Wat fir en Office ass den ONIS, offiziell?
 
-**ANNA:** Et ass eng Staatsverwaltung, ënnert dem Familljeministère. Hie gouf duerch déi grouss REVIS-Reform geschaaf — d'Gesetz vun zwee-dausend-uechtzéng — an huet ufanks zwee-dausend-nonzéng seng Aarbecht ugefaangen. Hien huet eigentlech e méi ale Service ersat, deen virdrun eng ähnlech Aarbecht gemaach huet.
+**ANNA:** Et ass eng Staatsverwaltung, ënnert dem Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. Hie gouf duerch déi grouss REVIS-Reform geschaaf — d'Gesetz vun zwee-dausend-uechtzéng — an huet ufanks zwee-dausend-nonzéng seng Aarbecht ugefaangen. Hien huet eigentlech e méi ale Service ersat, deen virdrun eng ähnlech Aarbecht gemaach huet.
 
 **TOM:** Also ass hie relativ jonk, mä op méi ale Fundamenter gebaut.
 

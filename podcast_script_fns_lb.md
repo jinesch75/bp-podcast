@@ -20,7 +20,7 @@
 
 **ANNA:** Den Nationale Solidaritéitsfong. Dat ass e schéinen Numm. Loosse mer einfach ufänken. Wat ass dat?
 
-**TOM:** De FNS ass en ëffentleche Büro, deem säin eenzegen Job et ass, Leit ze hëllefen, déi finanziell Schwieregkeeten hunn. En ass ënner dem Familljeministère. A seng Missioun, ganz einfach gesot, ass de Kampf géint d'Aarmut.
+**TOM:** De FNS ass en ëffentleche Büro, deem säin eenzegen Job et ass, Leit ze hëllefen, déi finanziell Schwieregkeeten hunn. En ass ënner dem Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. A seng Missioun, ganz einfach gesot, ass de Kampf géint d'Aarmut.
 
 **ANNA:** Dat ass also d'Sécherheetsnetz vum Land.
 

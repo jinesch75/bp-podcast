@@ -18,7 +18,7 @@
 
 **TOM:** infosenior.lu. And who is behind it?
 
-**ANNA:** It's run by the State — by the Ministry of Family. So it's an official, public source. Not a private company trying to sell you something.
+**ANNA:** It's run by the State — by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. So it's an official, public source. Not a private company trying to sell you something.
 
 **TOM:** Good to know. And who is it for? Only for older people themselves?
 

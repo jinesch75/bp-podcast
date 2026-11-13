@@ -38,7 +38,7 @@
 
 **TOM:** Let's get the basics. What kind of office is ONIS, officially?
 
-**ANNA:** It's a government administration, under the Ministry of Family. It was created by the big REVIS reform — the law of twenty eighteen — and it started its work at the beginning of twenty nineteen. It actually replaced an older service that did similar work before.
+**ANNA:** It's a government administration, under the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. It was created by the big REVIS reform — the law of twenty eighteen — and it started its work at the beginning of twenty nineteen. It actually replaced an older service that did similar work before.
 
 **TOM:** So it's relatively young, but built on older foundations.
 

@@ -330,3 +330,7 @@ Jacques heard two bad lines by Anna ("And the fourth?" too loud, "And how to sta
   - `build/match_pron.py <key> <lang> [start]` for sentences containing a French name: keeps the take whose pronunciation (whisper word timing + MFCC/DTW, same voice) is closest to the approved A/B reference.
 - Pronunciation A/B (`build/pron_fr_words_test.py`, files `build/el_test/pron_maison_en_AB.mp3`, `pron_lycee_en_AB.mp3`): Jacques chose "Maison de l'Orientation" **as written** and **"leessay"** for lycée/lycées → EN rule in `pronunciation.py`. (CePAS EN also says "lycée": the rule applies at its next re-recording.)
 - Retakes kept: EN 7 (plus 6 name sentences), FR 11, DE 5. ≈ 5,000 credits in total (incl. A/B tests). New durations: EN 11:54, FR 11:59, DE 14:03.
+
+## Official ministry name — Info-Seniors, FNS, ONIS (13 Nov 2026)
+
+Jacques: use the ministry's official name, not "the Ministry of Family". Fixed in Info-Seniors line 21 (`build/apply_ministry_name_infosenior_2026_11.py`) and, by the same standing rule, FNS line 23 and ONIS line 41 (`build/apply_ministry_name_fns_onis_2026_11.py`), EN/FR/DE/LB. These were the only short forms left in any script's spoken lines. Re-recorded the changed sentences (≈2,500 credits), put live with `replace_audio_elevenlabs.js infosenior,fns,onis en,fr,de`.

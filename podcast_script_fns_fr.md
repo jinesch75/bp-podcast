@@ -20,7 +20,7 @@
 
 **ANNA :** Le Fonds national de solidarité. C'est un beau nom. Commençons simplement. Qu'est-ce que c'est ?
 
-**TOM :** Le FNS est un organisme public dont tout le travail est d'aider les personnes qui rencontrent des difficultés financières. Il dépend du ministère de la Famille. Et sa mission, très simplement, c'est la lutte contre la pauvreté.
+**TOM :** Le FNS est un organisme public dont tout le travail est d'aider les personnes qui rencontrent des difficultés financières. Il dépend du Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. Et sa mission, très simplement, c'est la lutte contre la pauvreté.
 
 **ANNA :** Donc c'est le filet de sécurité du pays.
 

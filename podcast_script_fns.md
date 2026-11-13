@@ -20,7 +20,7 @@
 
 **ANNA:** The National Solidarity Fund. That's a beautiful name. Let's start simply. What is it?
 
-**TOM:** The FNS is a public office whose whole job is to help people who are struggling financially. It's run under the Ministry of Family. And its mission, very simply, is the fight against poverty.
+**TOM:** The FNS is a public office whose whole job is to help people who are struggling financially. It's run under the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. And its mission, very simply, is the fight against poverty.
 
 **ANNA:** So this is the country's safety net.
 

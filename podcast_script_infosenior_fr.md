@@ -18,7 +18,7 @@
 
 **TOM :** infosenior.lu. Et qui est derrière tout ça ?
 
-**ANNA :** C'est géré par l'État — par le ministère de la Famille. C'est donc une source officielle et publique. Pas une entreprise privée qui essaie de vous vendre quelque chose.
+**ANNA :** C'est géré par l'État — par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. C'est donc une source officielle et publique. Pas une entreprise privée qui essaie de vous vendre quelque chose.
 
 **TOM :** Bon à savoir. Et à qui ça s'adresse ? Seulement aux personnes âgées elles-mêmes ?
 

@@ -38,7 +38,7 @@
 
 **TOM :** Voyons les bases. Quel genre d'office est l'ONIS, officiellement ?
 
-**ANNA :** C'est une administration de l'État, qui relève du ministère de la Famille. Il a été créé par la grande réforme du REVIS — la loi de deux mille dix-huit — et il a commencé son travail au début de deux mille dix-neuf. En réalité, il a remplacé un ancien service qui faisait un travail semblable avant lui.
+**ANNA :** C'est une administration de l'État, qui relève du Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. Il a été créé par la grande réforme du REVIS — la loi de deux mille dix-huit — et il a commencé son travail au début de deux mille dix-neuf. En réalité, il a remplacé un ancien service qui faisait un travail semblable avant lui.
 
 **TOM :** Donc il est relativement jeune, mais bâti sur des fondations plus anciennes.
 

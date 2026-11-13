@@ -18,7 +18,7 @@
 
 **TOM:** infosenior.lu. Und wer steckt dahinter?
 
-**ANNA:** Er wird vom Staat betrieben — vom Familienministerium. Es ist also eine offizielle, öffentliche Quelle. Kein privates Unternehmen, das Ihnen etwas verkaufen will.
+**ANNA:** Er wird vom Staat betrieben — vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Es ist also eine offizielle, öffentliche Quelle. Kein privates Unternehmen, das Ihnen etwas verkaufen will.
 
 **TOM:** Gut zu wissen. Und für wen ist das? Nur für die älteren Menschen selbst?
 

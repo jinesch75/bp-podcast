@@ -26658,7 +26658,7 @@ const EPISODES = [
   "audio": "podcast_infosenior.mp3",
   "title": "Info-Seniors – Finding the Right Help for Older People",
   "description": "The State's official information portal for older people in Luxembourg, infosenior.lu, run by the Ministry of Family. At its heart is the Public Register of senior services that are approved and quality-checked — care homes, assisted living, day care, home help, meals on wheels, telecare and activities. Who it helps and how, plus support around dementia, isolation and mediation, and where to turn to find the right help for a loved one.",
-  "duration": 692.19,
+  "duration": 697.16,
   "topics": [
    "The infosenior.lu portal",
    "Run by the Ministry of Family",
@@ -26742,773 +26742,773 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "It's run by the State — by the Ministry of Family.",
+    "text": "It's run by the State — by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
     "t": 55.3
    },
    {
     "speaker": "Anna",
     "text": "So it's an official, public source.",
-    "t": 58.24
+    "t": 63.11
    },
    {
     "speaker": "Anna",
     "text": "Not a private company trying to sell you something.",
-    "t": 60.53
+    "t": 65.38
    },
    {
     "speaker": "Tom",
     "text": "Good to know.",
-    "t": 63.36
+    "t": 68.31
    },
    {
     "speaker": "Tom",
     "text": "And who is it for?",
-    "t": 64.23
+    "t": 69.18
    },
    {
     "speaker": "Tom",
     "text": "Only for older people themselves?",
-    "t": 65.25
+    "t": 70.2
    },
    {
     "speaker": "Anna",
     "text": "No, and this is important.",
-    "t": 67.12
+    "t": 72.07
    },
    {
     "speaker": "Anna",
     "text": "It's for seniors, yes — but also for their families, for the professionals who work with them, and really, for anyone interested.",
-    "t": 68.86
+    "t": 73.81
    },
    {
     "speaker": "Anna",
     "text": "So if you are worried about an ageing parent, or a neighbour, this is for you too.",
-    "t": 76.22
+    "t": 81.17
    },
    {
     "speaker": "Tom",
     "text": "That's reassuring. Because often it's the children, or the family, who go looking for help.",
-    "t": 81.07
+    "t": 86.02
    },
    {
     "speaker": "Anna",
     "text": "Exactly. Especially for cross-border workers — maybe your parents live in another country, and you want to understand what exists here.",
-    "t": 86.56
+    "t": 91.51
    },
    {
     "speaker": "Anna",
     "text": "Or the opposite — you work here, and you're arranging help for a parent in Luxembourg.",
-    "t": 94.89
+    "t": 99.84
    },
    {
     "speaker": "Tom",
     "text": "So, what do you actually find on the website?",
-    "t": 100.52
+    "t": 105.47
    },
    {
     "speaker": "Tom",
     "text": "What's the heart of it?",
-    "t": 103.06
+    "t": 108.01
    },
    {
     "speaker": "Anna",
     "text": "The heart of it is something called the Public Register of Services for Seniors.",
-    "t": 104.4
+    "t": 109.35
    },
    {
     "speaker": "Tom",
     "text": "A register. That sounds official.",
-    "t": 108.85
+    "t": 113.8
    },
    {
     "speaker": "Tom",
     "text": "What's inside?",
-    "t": 110.79
+    "t": 115.74
    },
    {
     "speaker": "Anna",
     "text": "It's a reliable list of the approved services and structures for older people in Luxembourg — and it's still growing, as more services send in their information.",
-    "t": 111.89
+    "t": 116.84
    },
    {
     "speaker": "Anna",
     "text": "For each one, you find detailed information — what the service is, the conditions to use it, and the steps you have to take.",
-    "t": 121.03
+    "t": 125.98
    },
    {
     "speaker": "Tom",
     "text": "So not just a name and a phone number.",
-    "t": 129.38
+    "t": 134.33
    },
    {
     "speaker": "Tom",
     "text": "It tells me how to actually get the help.",
-    "t": 131.41
+    "t": 136.36
    },
    {
     "speaker": "Anna",
     "text": "Exactly. What it is, who can use it, and how to start.",
-    "t": 133.63
+    "t": 138.58
    },
    {
     "speaker": "Anna",
     "text": "That's the useful part.",
-    "t": 137.64
+    "t": 142.59
    },
    {
     "speaker": "Tom",
     "text": "Now you said \"register\" and \"official\".",
-    "t": 139.34
+    "t": 144.29
    },
    {
     "speaker": "Tom",
     "text": "Is there something special about which services are listed?",
-    "t": 141.53
+    "t": 146.48
    },
    {
     "speaker": "Anna",
     "text": "Yes — and this is really the key point.",
-    "t": 144.33
+    "t": 149.28
    },
    {
     "speaker": "Anna",
     "text": "The register only lists services that are approved by the State.",
-    "t": 146.61
+    "t": 151.56
    },
    {
     "speaker": "Anna",
     "text": "In French, we say they have an \"agrément\".",
-    "t": 150.34
+    "t": 155.29
    },
    {
     "speaker": "Tom",
     "text": "An agrément. So, an official authorisation.",
-    "t": 153.04
+    "t": 157.99
    },
    {
     "speaker": "Anna",
     "text": "Right. In Luxembourg, anyone who offers care, accommodation, help or guidance to older people must have this approval from the Ministry.",
-    "t": 155.88
+    "t": 160.83
    },
    {
     "speaker": "Anna",
     "text": "To get it, they have to meet quality requirements.",
-    "t": 164.75
+    "t": 169.7
    },
    {
     "speaker": "Anna",
     "text": "And the Ministry carries out regular checks.",
-    "t": 167.75
+    "t": 172.7
    },
    {
     "speaker": "Tom",
     "text": "So if a service is in the register...",
-    "t": 170.6
+    "t": 175.55
    },
    {
     "speaker": "Anna",
     "text": "...it has been checked and approved by the State.",
-    "t": 172.79
+    "t": 177.74
    },
    {
     "speaker": "Anna",
     "text": "That's a real guarantee of quality.",
-    "t": 175.28
+    "t": 180.23
    },
    {
     "speaker": "Anna",
     "text": "You're not picking a name at random from the internet.",
-    "t": 177.53
+    "t": 182.48
    },
    {
     "speaker": "Tom",
     "text": "That's a big deal, especially for something as sensitive as caring for a parent.",
-    "t": 180.46
+    "t": 185.41
    },
    {
     "speaker": "Tom",
     "text": "And how recent is this register?",
-    "t": 184.66
+    "t": 189.61
    },
    {
     "speaker": "Anna",
     "text": "It's based on a law from 2023, and the register has been online since the first of March, 2024.",
-    "t": 186.57
+    "t": 191.52
    },
    {
     "speaker": "Anna",
     "text": "And it's updated regularly, so the information stays reliable and up to date.",
-    "t": 193.27
+    "t": 198.22
    },
    {
     "speaker": "Tom",
     "text": "Perfect. Okay, Anna — let's get concrete.",
-    "t": 197.88
+    "t": 202.83
    },
    {
     "speaker": "Tom",
     "text": "What kind of services can I find there?",
-    "t": 200.53
+    "t": 205.48
    },
    {
     "speaker": "Anna",
     "text": "A whole range, for every level of need.",
-    "t": 202.41
+    "t": 207.36
    },
    {
     "speaker": "Anna",
     "text": "Let me go through the main ones.",
-    "t": 205.12
+    "t": 210.07
    },
    {
     "speaker": "Anna",
     "text": "First — care homes, the residential structures, for people who can no longer live at home.",
-    "t": 206.97
+    "t": 211.92
    },
    {
     "speaker": "Tom",
     "text": "Okay, the classic retirement or care home.",
-    "t": 212.9
+    "t": 217.85
    },
    {
     "speaker": "Anna",
     "text": "Yes. Then — assisted living, where you have your own home but with support and security nearby.",
-    "t": 215.19
+    "t": 220.14
    },
    {
     "speaker": "Anna",
     "text": "Then — day care centres, where a senior can spend the day, with activities and company, and go home in the evening.",
-    "t": 221.1
+    "t": 226.05
    },
    {
     "speaker": "Tom",
     "text": "Ah, that's nice for someone who's still at home but shouldn't be alone all day.",
-    "t": 228.11
+    "t": 233.06
    },
    {
     "speaker": "Anna",
     "text": "Exactly. And it also gives the family a break.",
-    "t": 231.78
+    "t": 236.73
    },
    {
     "speaker": "Anna",
     "text": "Then there's help at home — household help, and nursing care that comes to you.",
-    "t": 235.02
+    "t": 239.97
    },
    {
     "speaker": "Anna",
     "text": "There's \"meals on wheels\" — warm meals delivered to your door.",
-    "t": 239.61
+    "t": 244.56
    },
    {
     "speaker": "Tom",
     "text": "Meals on wheels.",
-    "t": 243.71
+    "t": 248.66
    },
    {
     "speaker": "Tom",
     "text": "That's a lovely, practical one.",
-    "t": 244.78
+    "t": 249.73
    },
    {
     "speaker": "Anna",
     "text": "And there's telecare — sometimes called a telealarm.",
-    "t": 246.8
+    "t": 251.75
    },
    {
     "speaker": "Anna",
     "text": "It's a little device, often a button you wear, that lets you call for help immediately if you fall or feel unwell.",
-    "t": 250
+    "t": 254.95
    },
    {
     "speaker": "Tom",
     "text": "So you can stay at home, but with a safety net.",
-    "t": 256.75
+    "t": 261.7
    },
    {
     "speaker": "Tom",
     "text": "That gives real peace of mind.",
-    "t": 259.33
+    "t": 264.28
    },
    {
     "speaker": "Anna",
     "text": "That's the idea.",
-    "t": 260.99
+    "t": 265.94
    },
    {
     "speaker": "Anna",
     "text": "The goal of all of this — and it's the goal of the whole national policy — is to let people stay independent, at home, for as long as possible.",
-    "t": 262.14
+    "t": 267.09
    },
    {
     "speaker": "Tom",
     "text": "And you mentioned activities too?",
-    "t": 271.26
+    "t": 276.21
    },
    {
     "speaker": "Anna",
     "text": "Yes. Beyond care, there are senior activities — for staying active, learning, and meeting people.",
-    "t": 273.09
+    "t": 278.04
    },
    {
     "speaker": "Anna",
     "text": "For example, there are the Clubs Aktiv Plus, the senior clubs all around the country, where older people meet, do activities, and stay connected.",
-    "t": 279.48
+    "t": 284.43
    },
    {
     "speaker": "Tom",
     "text": "Because staying active and social is part of staying healthy.",
-    "t": 288.68
+    "t": 293.63
    },
    {
     "speaker": "Anna",
     "text": "Completely. Loneliness is a real risk as we age.",
-    "t": 291.66
+    "t": 296.61
    },
    {
     "speaker": "Anna",
     "text": "And that's one of the things the system tries hard to prevent.",
-    "t": 295.09
+    "t": 300.04
    },
    {
     "speaker": "Tom",
     "text": "Speaking of which — are there services for more specific situations?",
-    "t": 298.4
+    "t": 303.35
    },
    {
     "speaker": "Tom",
     "text": "Not everyone has the same needs.",
-    "t": 302.79
+    "t": 307.74
    },
    {
     "speaker": "Anna",
     "text": "Yes, and the website points you to specialised services too.",
-    "t": 304.68
+    "t": 309.63
    },
    {
     "speaker": "Anna",
     "text": "Let me give a few examples.",
-    "t": 307.94
+    "t": 312.89
    },
    {
     "speaker": "Anna",
     "text": "For memory problems and dementia, there's a national information centre — the Info-Zenter Demenz.",
-    "t": 309.68
+    "t": 314.63
    },
    {
     "speaker": "Anna",
     "text": "And there's the Alzheimer association, which even runs a help line, 26 432 432, available around the clock, for urgent situations.",
-    "t": 316.28
+    "t": 321.23
    },
    {
     "speaker": "Tom",
     "text": "A 24-hour line for Alzheimer — that's so important for families in distress.",
-    "t": 327.95
+    "t": 332.9
    },
    {
     "speaker": "Anna",
     "text": "It really is.",
-    "t": 332.3
+    "t": 337.25
    },
    {
     "speaker": "Anna",
     "text": "Then, for the digital world — there's an organisation that helps seniors learn to use computers and smartphones, so they're not left behind.",
-    "t": 333.47
+    "t": 338.42
    },
    {
     "speaker": "Anna",
     "text": "For loneliness, there's a service of the Red Cross, called Iris, where trained volunteers regularly visit isolated people.",
-    "t": 341.99
+    "t": 346.94
    },
    {
     "speaker": "Tom",
     "text": "Just to keep them company.",
-    "t": 349.85
+    "t": 354.8
    },
    {
     "speaker": "Tom",
     "text": "That's beautiful.",
-    "t": 351.18
+    "t": 356.13
    },
    {
     "speaker": "Anna",
     "text": "It is. And for very difficult moments — there's palliative care and end-of-life support, and there's information about your rights and wishes for the end of life.",
-    "t": 352.32
+    "t": 357.27
    },
    {
     "speaker": "Anna",
     "text": "So the system covers the whole journey, with respect.",
-    "t": 361.62
+    "t": 366.57
    },
    {
     "speaker": "Tom",
     "text": "That's a caring approach.",
-    "t": 364.82
+    "t": 369.77
    },
    {
     "speaker": "Tom",
     "text": "And is there a place that works on the knowledge itself — research, training for the people who care?",
-    "t": 366.23
+    "t": 371.18
    },
    {
     "speaker": "Anna",
     "text": "Yes. There's a competence centre for ageing, called GERO, that has existed for more than thirty-five years.",
-    "t": 371.3
+    "t": 376.25
    },
    {
     "speaker": "Anna",
     "text": "It does three things — activities and learning for seniors, continuing education for care professionals, and research on ageing.",
-    "t": 377.78
+    "t": 382.73
    },
    {
     "speaker": "Anna",
     "text": "So the quality keeps improving over time.",
-    "t": 386.15
+    "t": 391.1
    },
    {
     "speaker": "Tom",
     "text": "So it's not standing still.",
-    "t": 388.87
+    "t": 393.82
    },
    {
     "speaker": "Tom",
     "text": "Good. Anna, let's make this very real.",
-    "t": 390.4
+    "t": 395.35
    },
    {
     "speaker": "Tom",
     "text": "Can we take an example?",
-    "t": 392.49
+    "t": 397.44
    },
    {
     "speaker": "Anna",
     "text": "Of course. Let's imagine your mother is eighty, she lives alone, and she's still quite independent — but you're starting to worry a little.",
-    "t": 393.94
+    "t": 398.89
    },
    {
     "speaker": "Tom",
     "text": "A very common situation.",
-    "t": 401.69
+    "t": 406.64
    },
    {
     "speaker": "Tom",
     "text": "So what does Info-Seniors do for me?",
-    "t": 403.23
+    "t": 408.18
    },
    {
     "speaker": "Anna",
     "text": "You go to the website, and you look at what fits.",
-    "t": 405.22
+    "t": 410.17
    },
    {
     "speaker": "Anna",
     "text": "Maybe, first, just meals on wheels, so she eats well every day.",
-    "t": 408.04
+    "t": 412.99
    },
    {
     "speaker": "Anna",
     "text": "Maybe a telecare button, for safety, in case she falls.",
-    "t": 411.9
+    "t": 416.85
    },
    {
     "speaker": "Anna",
     "text": "Maybe a Club Aktiv Plus nearby, so she sees people every week.",
-    "t": 415.18
+    "t": 420.13
    },
    {
     "speaker": "Tom",
     "text": "So I can build a kind of package — a little help here, a little there — to keep her safely at home.",
-    "t": 418.99
+    "t": 423.94
    },
    {
     "speaker": "Anna",
     "text": "Exactly. And later, if she needs more, you already know where to look — day care a few days a week, then more home nursing, and only much later, if needed, a care home.",
-    "t": 424.57
+    "t": 429.52
    },
    {
     "speaker": "Anna",
     "text": "Step by step, at her pace.",
-    "t": 436.09
+    "t": 441.04
    },
    {
     "speaker": "Tom",
     "text": "And for each of those, the register tells me the conditions and the steps.",
-    "t": 438.12
+    "t": 443.07
    },
    {
     "speaker": "Anna",
     "text": "For each one.",
-    "t": 441.96
+    "t": 446.91
    },
    {
     "speaker": "Anna",
     "text": "So instead of panicking, you have a calm, clear map.",
-    "t": 443.11
+    "t": 448.06
    },
    {
     "speaker": "Tom",
     "text": "I really like that — a calm, clear map.",
-    "t": 446.5
+    "t": 451.45
    },
    {
     "speaker": "Tom",
     "text": "And if my mother doesn't speak much, or is afraid of technology?",
-    "t": 449.02
+    "t": 453.97
    },
    {
     "speaker": "Anna",
     "text": "Then the digital-skills service can help her learn, gently.",
-    "t": 452.3
+    "t": 457.25
    },
    {
     "speaker": "Anna",
     "text": "Or a volunteer can visit.",
-    "t": 455.59
+    "t": 460.54
    },
    {
     "speaker": "Anna",
     "text": "The point is, there's almost always something — you just have to know it exists.",
-    "t": 457.3
+    "t": 462.25
    },
    {
     "speaker": "Anna",
     "text": "And that's exactly what the portal is for — so you know it exists.",
-    "t": 462.38
+    "t": 467.33
    },
    {
     "speaker": "Tom",
     "text": "Now, Anna — a practical worry.",
-    "t": 466.83
+    "t": 471.78
    },
    {
     "speaker": "Tom",
     "text": "What if I have a problem with a service?",
-    "t": 469.1
+    "t": 474.05
    },
    {
     "speaker": "Tom",
     "text": "Or I just don't know who to ask?",
-    "t": 471.02
+    "t": 475.97
    },
    {
     "speaker": "Anna",
     "text": "Good question. You can simply call the Senioren-Telefon, 247-86000, for information and advice.",
-    "t": 472.94
+    "t": 477.89
    },
    {
     "speaker": "Anna",
     "text": "And if there's a disagreement with a service, there's SIMPA, the national information and mediation service — a neutral place that helps you find a solution.",
-    "t": 480.45
+    "t": 485.4
    },
    {
     "speaker": "Tom",
     "text": "So you're never completely on your own with it.",
-    "t": 489.37
+    "t": 494.32
    },
    {
     "speaker": "Anna",
     "text": "Never. Between the website, the register, and that information and mediation service, there's always a door to knock on.",
-    "t": 491.64
+    "t": 496.59
    },
    {
     "speaker": "Tom",
     "text": "Let's zoom out for a second.",
-    "t": 499.21
+    "t": 504.16
    },
    {
     "speaker": "Tom",
     "text": "You said this is part of a bigger policy.",
-    "t": 500.78
+    "t": 505.73
    },
    {
     "speaker": "Tom",
     "text": "What's the big idea?",
-    "t": 502.86
+    "t": 507.81
    },
    {
     "speaker": "Anna",
     "text": "The big idea is what they call \"ageing well\".",
-    "t": 504.19
+    "t": 509.14
    },
    {
     "speaker": "Anna",
     "text": "The State wants older people to live as independently as possible, for as long as possible — and to stay part of society, not pushed to the side.",
-    "t": 506.87
+    "t": 511.82
    },
    {
     "speaker": "Anna",
     "text": "So the work covers many things — preparing for retirement, lifelong learning, volunteering, fighting isolation, the digital world, and connecting the generations.",
-    "t": 516.08
+    "t": 521.03
    },
    {
     "speaker": "Tom",
     "text": "Connecting the generations — young and old together.",
-    "t": 527.22
+    "t": 532.17
    },
    {
     "speaker": "Anna",
     "text": "Yes. Ageing isn't only about care.",
-    "t": 529.97
+    "t": 534.92
    },
    {
     "speaker": "Anna",
     "text": "It's also about staying active, useful, and connected.",
-    "t": 532.49
+    "t": 537.44
    },
    {
     "speaker": "Anna",
     "text": "And there's also financial support.",
-    "t": 535.76
+    "t": 540.71
    },
    {
     "speaker": "Anna",
     "text": "Since 2026, a scheme called COMPA, paid by the National Solidarity Fund, helps people who don't have enough money to pay for an approved care home or supervised housing.",
-    "t": 538.27
+    "t": 543.22
    },
    {
     "speaker": "Tom",
     "text": "That's important — that money shouldn't be the barrier to getting care.",
-    "t": 549.31
+    "t": 554.26
    },
    {
     "speaker": "Tom",
     "text": "Okay, Anna, let's make it really practical.",
-    "t": 552.85
+    "t": 557.8
    },
    {
     "speaker": "Tom",
     "text": "If I'm listening, and I — or my parent — might need some help, what do I do?",
-    "t": 555.79
+    "t": 560.74
    },
    {
     "speaker": "Anna",
     "text": "Very simple. Go to the website — infosenior dot l-u.",
-    "t": 559.91
+    "t": 564.86
    },
    {
     "speaker": "Anna",
     "text": "Look through the Public Register to find approved services — a care home, day care, help at home, meals, telecare — whatever fits the need.",
-    "t": 564.27
+    "t": 569.22
    },
    {
     "speaker": "Anna",
     "text": "For each one, you'll see what it is, the conditions, and the steps to take.",
-    "t": 573.33
+    "t": 578.28
    },
    {
     "speaker": "Anna",
     "text": "And if you're not sure, use the information and mediation service to be guided.",
-    "t": 578.14
+    "t": 583.09
    },
    {
     "speaker": "Tom",
     "text": "And because it's official, I can trust what I find there.",
-    "t": 582.82
+    "t": 587.77
    },
    {
     "speaker": "Anna",
     "text": "Exactly. Official, free, and quality-checked.",
-    "t": 585.72
+    "t": 590.67
    },
    {
     "speaker": "Anna",
     "text": "That's the whole point.",
-    "t": 589.52
+    "t": 594.47
    },
    {
     "speaker": "Tom",
     "text": "Short summary to finish?",
-    "t": 591
+    "t": 595.95
    },
    {
     "speaker": "Anna",
     "text": "Sure. Info-Seniors, on infosenior dot l-u, is the State's information portal for older people in Luxembourg.",
-    "t": 592.58
+    "t": 597.53
    },
    {
     "speaker": "Anna",
     "text": "Its heart is the Public Register of Services for Seniors — a reliable, regularly updated list of services approved and checked by the Ministry.",
-    "t": 600.31
+    "t": 605.26
    },
    {
     "speaker": "Anna",
     "text": "You'll find care homes, assisted living, day care, home help and nursing, meals on wheels, telecare, and senior activities — with the conditions and the steps for each.",
-    "t": 610.03
+    "t": 614.98
    },
    {
     "speaker": "Tom",
     "text": "And the message for today?",
-    "t": 620.81
+    "t": 625.76
    },
    {
     "speaker": "Anna",
     "text": "When it comes to growing older — yours, or a loved one's — you don't have to search blindly.",
-    "t": 622.29
+    "t": 627.24
    },
    {
     "speaker": "Anna",
     "text": "There's one official, trustworthy place to start, and there's help to guide you.",
-    "t": 627.62
+    "t": 632.57
    },
    {
     "speaker": "Tom",
     "text": "So... whether it's for yourself, your parents, or a neighbour — remember the name.",
-    "t": 631.58
+    "t": 636.53
    },
    {
     "speaker": "Tom",
     "text": "Info-Seniors. infosenior.lu.",
-    "t": 636.54
+    "t": 641.49
    },
    {
     "speaker": "Anna",
     "text": "Really. One website, and a whole network of support behind it.",
-    "t": 639.65
+    "t": 644.6
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about Info-Seniors.",
-    "t": 643.85
+    "t": 648.8
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 646.31
+    "t": 651.26
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 655.99
+    "t": 660.94
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 673.76
+    "t": 678.71
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 680.51
+    "t": 685.46
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 682.71
+    "t": 687.66
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 687.4
+    "t": 692.35
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 688.48
+    "t": 693.44
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 690.6
+    "t": 695.56
    }
   ],
   "questions": [
@@ -27587,822 +27587,822 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Anna",
     "text": "Et le sujet d'aujourd'hui touche presque chaque famille, tôt ou tard.",
-    "t": 22.97
+    "t": 23.03
    },
    {
     "speaker": "Anna",
     "text": "Il s'agit de vieillir — et d'un service qui vous aide à trouver le bon soutien.",
-    "t": 26.06
+    "t": 26.12
    },
    {
     "speaker": "Anna",
     "text": "Il s'appelle Info-Seniors.",
-    "t": 29.72
+    "t": 29.78
    },
    {
     "speaker": "Tom",
     "text": "Info-Seniors. D'accord, Anna, commençons simplement.",
-    "t": 31.57
+    "t": 31.63
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que c'est ?",
-    "t": 34.7
+    "t": 34.76
    },
    {
     "speaker": "Anna",
     "text": "Alors, Info-Seniors est le service d'information officiel pour les personnes âgées au Luxembourg.",
-    "t": 35.83
+    "t": 35.89
    },
    {
     "speaker": "Anna",
     "text": "Sa maison sur Internet est un site web — infosenior point l-u.",
-    "t": 40.17
+    "t": 40.23
    },
    {
     "speaker": "Tom",
     "text": "infosenior.lu. Et qui est derrière tout ça ?",
-    "t": 44.05
+    "t": 44.11
    },
    {
     "speaker": "Anna",
-    "text": "C'est géré par l'État — par le ministère de la Famille.",
-    "t": 47.3
+    "text": "C'est géré par l'État — par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 47.36
    },
    {
     "speaker": "Anna",
     "text": "C'est donc une source officielle et publique.",
-    "t": 49.89
+    "t": 52.78
    },
    {
     "speaker": "Anna",
     "text": "Pas une entreprise privée qui essaie de vous vendre quelque chose.",
-    "t": 52
+    "t": 54.96
    },
    {
     "speaker": "Tom",
     "text": "Bon à savoir.",
-    "t": 54.91
+    "t": 57.93
    },
    {
     "speaker": "Tom",
     "text": "Et à qui ça s'adresse ?",
-    "t": 56.05
+    "t": 59.07
    },
    {
     "speaker": "Tom",
     "text": "Seulement aux personnes âgées elles-mêmes ?",
-    "t": 57.45
+    "t": 60.47
    },
    {
     "speaker": "Anna",
     "text": "Non, et c'est important.",
-    "t": 59.8
+    "t": 62.82
    },
    {
     "speaker": "Anna",
     "text": "C'est pour les seniors, oui — mais aussi pour leurs familles, pour les professionnels qui travaillent avec eux, et vraiment, pour toute personne intéressée.",
-    "t": 61.18
+    "t": 64.2
    },
    {
     "speaker": "Anna",
     "text": "Donc, si vous vous inquiétez pour un parent qui vieillit, ou pour un voisin, c'est aussi pour vous.",
-    "t": 67.96
+    "t": 70.98
    },
    {
     "speaker": "Tom",
     "text": "C'est rassurant. Parce que souvent, ce sont les enfants, ou la famille, qui partent à la recherche d'aide.",
-    "t": 72.1
+    "t": 75.12
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Surtout pour les frontaliers — peut-être que vos parents vivent dans un autre pays, et vous voulez comprendre ce qui existe ici.",
-    "t": 77.65
+    "t": 80.67
    },
    {
     "speaker": "Anna",
     "text": "Ou l'inverse — vous travaillez ici, et vous organisez de l'aide pour un parent au Luxembourg.",
-    "t": 83.97
+    "t": 86.99
    },
    {
     "speaker": "Tom",
     "text": "Alors, qu'est-ce qu'on trouve réellement sur le site web ?",
-    "t": 88.35
+    "t": 91.37
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce qui en est le cœur ?",
-    "t": 91.35
+    "t": 94.37
    },
    {
     "speaker": "Anna",
     "text": "Le cœur, c'est ce qu'on appelle le Registre public des services pour personnes âgées.",
-    "t": 92.96
+    "t": 95.98
    },
    {
     "speaker": "Tom",
     "text": "Un registre. Ça a l'air officiel.",
-    "t": 96.94
+    "t": 99.96
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce qu'il y a dedans ?",
-    "t": 99.17
+    "t": 102.19
    },
    {
     "speaker": "Anna",
     "text": "C'est une liste fiable des services et des structures agréés pour les personnes âgées au Luxembourg — et elle s'agrandit encore, au fur et à mesure que les services envoient leurs informations.",
-    "t": 100.52
+    "t": 103.54
    },
    {
     "speaker": "Anna",
     "text": "Pour chacun, vous trouvez des informations détaillées — ce qu'est le service, les conditions pour en bénéficier, et les démarches à effectuer.",
-    "t": 109.65
+    "t": 112.67
    },
    {
     "speaker": "Tom",
     "text": "Donc, pas seulement un nom et un numéro de téléphone.",
-    "t": 116.66
+    "t": 119.68
    },
    {
     "speaker": "Tom",
     "text": "Ça me dit comment obtenir l'aide concrètement.",
-    "t": 119.45
+    "t": 122.47
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Ce que c'est, qui peut en bénéficier, et comment commencer.",
-    "t": 121.98
+    "t": 125
    },
    {
     "speaker": "Anna",
     "text": "C'est ça, la partie utile.",
-    "t": 125.58
+    "t": 128.6
    },
    {
     "speaker": "Tom",
     "text": "Tu as dit « registre » et « officiel ».",
-    "t": 127.29
+    "t": 130.31
    },
    {
     "speaker": "Tom",
     "text": "Y a-t-il quelque chose de particulier concernant les services qui y sont inscrits ?",
-    "t": 129.94
+    "t": 132.96
    },
    {
     "speaker": "Anna",
     "text": "Oui — et c'est vraiment le point clé.",
-    "t": 133.97
+    "t": 136.99
    },
    {
     "speaker": "Anna",
     "text": "Le registre ne liste que les services qui sont agréés par l'État.",
-    "t": 135.4
+    "t": 138.42
    },
    {
     "speaker": "Anna",
     "text": "En français, on dit qu'ils ont un « agrément ».",
-    "t": 138.64
+    "t": 141.65
    },
    {
     "speaker": "Tom",
     "text": "Un agrément. Donc, une autorisation officielle.",
-    "t": 141
+    "t": 144.01
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Au Luxembourg, toute personne qui propose des soins, un hébergement, de l'aide ou un accompagnement aux personnes âgées doit avoir cet agrément du ministère.",
-    "t": 144.26
+    "t": 147.27
    },
    {
     "speaker": "Anna",
     "text": "Pour l'obtenir, elle doit répondre à des exigences de qualité.",
-    "t": 152.72
+    "t": 155.73
    },
    {
     "speaker": "Anna",
     "text": "Et le ministère effectue des contrôles réguliers.",
-    "t": 155.72
+    "t": 158.73
    },
    {
     "speaker": "Tom",
     "text": "Donc, si un service est dans le registre...",
-    "t": 158.13
+    "t": 161.14
    },
    {
     "speaker": "Anna",
     "text": "...c'est qu'il a été contrôlé et agréé par l'État.",
-    "t": 160.4
+    "t": 163.41
    },
    {
     "speaker": "Anna",
     "text": "C'est une vraie garantie de qualité.",
-    "t": 163.02
+    "t": 166.03
    },
    {
     "speaker": "Anna",
     "text": "Vous ne choisissez pas un nom au hasard sur Internet.",
-    "t": 164.94
+    "t": 167.95
    },
    {
     "speaker": "Tom",
     "text": "C'est important, surtout pour quelque chose d'aussi sensible que de s'occuper d'un parent.",
-    "t": 167.6
+    "t": 170.61
    },
    {
     "speaker": "Tom",
     "text": "Et il date de quand, ce registre ?",
-    "t": 171.91
+    "t": 174.92
    },
    {
     "speaker": "Anna",
     "text": "Il repose sur une loi de 2023, et le registre est en ligne depuis le premier mars 2024.",
-    "t": 173.96
+    "t": 176.97
    },
    {
     "speaker": "Anna",
     "text": "Et il est mis à jour régulièrement, pour que les informations restent fiables et à jour.",
-    "t": 178.44
+    "t": 181.45
    },
    {
     "speaker": "Tom",
     "text": "Parfait. D'accord, Anna — soyons concrets.",
-    "t": 182.5
+    "t": 185.51
    },
    {
     "speaker": "Tom",
     "text": "Quel genre de services je peux y trouver ?",
-    "t": 185.28
+    "t": 188.29
    },
    {
     "speaker": "Anna",
     "text": "Toute une gamme, pour chaque niveau de besoin.",
-    "t": 187.55
+    "t": 190.56
    },
    {
     "speaker": "Anna",
     "text": "Laisse-moi passer en revue les principaux.",
-    "t": 189.81
+    "t": 192.82
    },
    {
     "speaker": "Anna",
     "text": "D'abord — les maisons de soins, les structures d'hébergement, pour les personnes qui ne peuvent plus vivre chez elles.",
-    "t": 191.79
+    "t": 194.8
    },
    {
     "speaker": "Tom",
     "text": "D'accord, la maison de retraite ou de soins classique.",
-    "t": 196.72
+    "t": 199.73
    },
    {
     "speaker": "Anna",
     "text": "Oui. Ensuite — le logement encadré, où vous avez votre propre logement mais avec un soutien et une sécurité à proximité.",
-    "t": 199.49
+    "t": 202.5
    },
    {
     "speaker": "Anna",
     "text": "Ensuite — les centres de jour, où un senior peut passer la journée, avec des activités et de la compagnie, et rentrer chez lui le soir.",
-    "t": 204.93
+    "t": 207.94
    },
    {
     "speaker": "Tom",
     "text": "Ah, c'est bien pour quelqu'un qui est encore chez lui mais qui ne devrait pas rester seul toute la journée.",
-    "t": 211.41
+    "t": 214.42
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Et ça donne aussi un répit à la famille.",
-    "t": 216.07
+    "t": 219.08
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, il y a l'aide à domicile — l'aide ménagère, et les soins infirmiers qui viennent chez vous.",
-    "t": 218.74
+    "t": 221.75
    },
    {
     "speaker": "Anna",
     "text": "Il y a les « repas sur roues » — des repas chauds livrés à votre porte.",
-    "t": 223.46
+    "t": 226.47
    },
    {
     "speaker": "Tom",
     "text": "Les repas sur roues.",
-    "t": 227.36
+    "t": 230.37
    },
    {
     "speaker": "Tom",
     "text": "C'est une belle idée, très pratique.",
-    "t": 228.64
+    "t": 231.65
    },
    {
     "speaker": "Anna",
     "text": "Et il y a la téléassistance — qu'on appelle parfois télé-alarme.",
-    "t": 230.69
+    "t": 233.7
    },
    {
     "speaker": "Anna",
     "text": "C'est un petit appareil, souvent un bouton que vous portez sur vous, qui vous permet d'appeler à l'aide immédiatement si vous tombez ou si vous ne vous sentez pas bien.",
-    "t": 233.84
+    "t": 236.85
    },
    {
     "speaker": "Tom",
     "text": "Donc, vous pouvez rester chez vous, mais avec un filet de sécurité.",
-    "t": 240.78
+    "t": 243.79
    },
    {
     "speaker": "Tom",
     "text": "Ça apporte une vraie tranquillité d'esprit.",
-    "t": 244.16
+    "t": 247.17
    },
    {
     "speaker": "Anna",
     "text": "C'est l'idée. Le but de tout ça — et c'est le but de toute la politique nationale — c'est de permettre aux gens de rester autonomes, chez eux, le plus longtemps possible.",
-    "t": 246.66
+    "t": 249.67
    },
    {
     "speaker": "Tom",
     "text": "Et tu as aussi parlé d'activités ?",
-    "t": 255.09
+    "t": 258.1
    },
    {
     "speaker": "Anna",
     "text": "Oui. Au-delà des soins, il y a des activités pour seniors — pour rester actif, apprendre, et rencontrer du monde.",
-    "t": 257.03
+    "t": 260.04
    },
    {
     "speaker": "Anna",
     "text": "Par exemple, il y a les Clubs Aktiv Plus, les clubs seniors dans tout le pays, où les personnes âgées se retrouvent, font des activités, et gardent le contact.",
-    "t": 262.81
+    "t": 265.82
    },
    {
     "speaker": "Tom",
     "text": "Parce que rester actif et entouré fait partie du fait de rester en bonne santé.",
-    "t": 271.04
+    "t": 274.05
    },
    {
     "speaker": "Anna",
     "text": "Tout à fait.",
-    "t": 275.33
+    "t": 278.34
    },
    {
     "speaker": "Anna",
     "text": "La solitude est un vrai risque en vieillissant.",
-    "t": 276.18
+    "t": 279.19
    },
    {
     "speaker": "Anna",
     "text": "Et c'est l'une des choses que le système essaie vraiment d'éviter.",
-    "t": 278.45
+    "t": 281.46
    },
    {
     "speaker": "Tom",
     "text": "À ce propos — y a-t-il des services pour des situations plus particulières ?",
-    "t": 281.37
+    "t": 284.38
    },
    {
     "speaker": "Tom",
     "text": "Tout le monde n'a pas les mêmes besoins.",
-    "t": 285.22
+    "t": 288.23
    },
    {
     "speaker": "Anna",
     "text": "Oui, et le site web vous oriente aussi vers des services spécialisés.",
-    "t": 287.37
+    "t": 290.38
    },
    {
     "speaker": "Anna",
     "text": "Laisse-moi donner quelques exemples.",
-    "t": 290.63
+    "t": 293.64
    },
    {
     "speaker": "Anna",
     "text": "Pour les problèmes de mémoire et la démence, il y a un centre d'information national — l'Info-Zenter Demenz.",
-    "t": 292.35
+    "t": 295.36
    },
    {
     "speaker": "Anna",
     "text": "Et il y a l'association Alzheimer, qui gère même une ligne d'aide, 26 432 432, disponible jour et nuit, pour les situations urgentes.",
-    "t": 298.03
+    "t": 301.04
    },
    {
     "speaker": "Tom",
     "text": "Une ligne 24 heures sur 24 pour Alzheimer — c'est tellement important pour les familles en détresse.",
-    "t": 306.55
+    "t": 309.56
    },
    {
     "speaker": "Anna",
     "text": "Ça l'est vraiment.",
-    "t": 311.88
+    "t": 314.89
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, pour le monde numérique — il y a une organisation qui aide les seniors à apprendre à utiliser les ordinateurs et les smartphones, pour qu'ils ne soient pas laissés de côté.",
-    "t": 312.88
+    "t": 315.89
    },
    {
     "speaker": "Anna",
     "text": "Pour la solitude, il y a un service de la Croix-Rouge, appelé Iris, où des bénévoles formés rendent régulièrement visite aux personnes isolées.",
-    "t": 321.52
+    "t": 324.53
    },
    {
     "speaker": "Tom",
     "text": "Juste pour leur tenir compagnie.",
-    "t": 328.72
+    "t": 331.73
    },
    {
     "speaker": "Tom",
     "text": "C'est magnifique.",
-    "t": 330.65
+    "t": 333.66
    },
    {
     "speaker": "Anna",
     "text": "Ça l'est. Et pour les moments très difficiles — il y a les soins palliatifs et l'accompagnement en fin de vie, et il y a des informations sur vos droits et vos volontés pour la fin de vie.",
-    "t": 331.91
+    "t": 334.92
    },
    {
     "speaker": "Anna",
     "text": "Donc, le système couvre tout le parcours, avec respect.",
-    "t": 341.12
+    "t": 344.13
    },
    {
     "speaker": "Tom",
     "text": "C'est une approche bienveillante.",
-    "t": 344.02
+    "t": 347.03
    },
    {
     "speaker": "Tom",
     "text": "Et y a-t-il un endroit qui travaille sur le savoir lui-même — la recherche, la formation des personnes qui s'occupent des autres ?",
-    "t": 345.81
+    "t": 348.82
    },
    {
     "speaker": "Anna",
     "text": "Oui. Il y a un centre de compétences sur le vieillissement, appelé GERO, qui existe depuis plus de trente-cinq ans.",
-    "t": 352.35
+    "t": 355.36
    },
    {
     "speaker": "Anna",
     "text": "Il fait trois choses — des activités et de l'apprentissage pour les seniors, la formation continue des professionnels de soins, et la recherche sur le vieillissement.",
-    "t": 357.22
+    "t": 360.23
    },
    {
     "speaker": "Anna",
     "text": "Donc la qualité continue de s'améliorer au fil du temps.",
-    "t": 364.23
+    "t": 367.24
    },
    {
     "speaker": "Tom",
     "text": "Donc, ça n'est pas figé.",
-    "t": 366.99
+    "t": 370
    },
    {
     "speaker": "Tom",
     "text": "Bien. Anna, rendons ça très concret.",
-    "t": 368.49
+    "t": 371.5
    },
    {
     "speaker": "Tom",
     "text": "Peut-on prendre un exemple ?",
-    "t": 370.8
+    "t": 373.81
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. Imaginons que ta mère a quatre-vingts ans, qu'elle vit seule, et qu'elle est encore assez autonome — mais que tu commences à t'inquiéter un peu.",
-    "t": 372.38
+    "t": 375.39
    },
    {
     "speaker": "Tom",
     "text": "Une situation très courante.",
-    "t": 379.45
+    "t": 382.46
    },
    {
     "speaker": "Tom",
     "text": "Alors, qu'est-ce qu'Info-Seniors fait pour moi ?",
-    "t": 381.18
+    "t": 384.19
    },
    {
     "speaker": "Anna",
     "text": "Tu vas sur le site web, et tu regardes ce qui convient.",
-    "t": 383.7
+    "t": 386.71
    },
    {
     "speaker": "Anna",
     "text": "Peut-être, d'abord, juste les repas sur roues, pour qu'elle mange bien tous les jours.",
-    "t": 386.2
+    "t": 389.21
    },
    {
     "speaker": "Anna",
     "text": "Peut-être un bouton de téléassistance, pour la sécurité, au cas où elle tomberait.",
-    "t": 389.84
+    "t": 392.85
    },
    {
     "speaker": "Anna",
     "text": "Peut-être un Club Aktiv Plus à proximité, pour qu'elle voie du monde chaque semaine.",
-    "t": 393.78
+    "t": 396.79
    },
    {
     "speaker": "Tom",
     "text": "Donc, je peux construire une sorte de package — un peu d'aide ici, un peu là — pour la garder chez elle en sécurité.",
-    "t": 397.85
+    "t": 400.86
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Et plus tard, si elle a besoin de plus, tu sais déjà où chercher — un centre de jour quelques jours par semaine, puis plus de soins infirmiers à domicile, et seulement bien plus tard, si nécessaire, une maison de soins.",
-    "t": 403.94
+    "t": 406.95
    },
    {
     "speaker": "Anna",
     "text": "Étape par étape, à son rythme.",
-    "t": 414.53
+    "t": 417.54
    },
    {
     "speaker": "Tom",
     "text": "Et pour chacun, le registre me dit les conditions et les démarches.",
-    "t": 416.58
+    "t": 419.59
    },
    {
     "speaker": "Anna",
     "text": "Pour chacun. Donc, au lieu de paniquer, tu as une carte claire et apaisante.",
-    "t": 419.89
+    "t": 422.9
    },
    {
     "speaker": "Tom",
     "text": "J'aime vraiment ça — une carte claire et apaisante.",
-    "t": 423.48
+    "t": 426.49
    },
    {
     "speaker": "Tom",
     "text": "Et si ma mère ne parle pas beaucoup, ou qu'elle a peur de la technologie ?",
-    "t": 426.41
+    "t": 429.42
    },
    {
     "speaker": "Anna",
     "text": "Alors, le service de compétences numériques peut l'aider à apprendre, en douceur.",
-    "t": 429.8
+    "t": 432.81
    },
    {
     "speaker": "Anna",
     "text": "Ou un bénévole peut lui rendre visite.",
-    "t": 433.68
+    "t": 436.69
    },
    {
     "speaker": "Anna",
     "text": "Le fait est qu'il y a presque toujours quelque chose — il faut juste savoir que ça existe.",
-    "t": 435.63
+    "t": 438.64
    },
    {
     "speaker": "Anna",
     "text": "Et c'est exactement à ça que sert le portail — pour que vous sachiez que ça existe.",
-    "t": 439.7
+    "t": 442.71
    },
    {
     "speaker": "Tom",
     "text": "Maintenant, Anna — une inquiétude pratique.",
-    "t": 444.08
+    "t": 447.09
    },
    {
     "speaker": "Tom",
     "text": "Et si j'ai un problème avec un service ?",
-    "t": 446.64
+    "t": 449.65
    },
    {
     "speaker": "Tom",
     "text": "Ou si je ne sais tout simplement pas à qui m'adresser ?",
-    "t": 448.62
+    "t": 451.63
    },
    {
     "speaker": "Anna",
     "text": "Bonne question. Vous pouvez tout simplement appeler le Senioren-Telefon, au 247-86000, pour vous informer et vous faire conseiller.",
-    "t": 451.41
+    "t": 454.42
    },
    {
     "speaker": "Anna",
     "text": "Et s'il y a un désaccord avec un service, il y a le SIMPA, le service national d'information et de médiation — un endroit neutre qui vous aide à trouver une solution.",
-    "t": 458.89
+    "t": 461.9
    },
    {
     "speaker": "Tom",
     "text": "Donc, on n'est jamais complètement seul avec ça.",
-    "t": 466.98
+    "t": 469.99
    },
    {
     "speaker": "Anna",
     "text": "Jamais. Entre le site web, le registre, et ce service d'information et de médiation, il y a toujours une porte à laquelle frapper.",
-    "t": 469.69
+    "t": 472.7
    },
    {
     "speaker": "Tom",
     "text": "Prenons un peu de recul.",
-    "t": 476.58
+    "t": 479.59
    },
    {
     "speaker": "Tom",
     "text": "Tu as dit que ça fait partie d'une politique plus large.",
-    "t": 478.08
+    "t": 481.09
    },
    {
     "speaker": "Tom",
     "text": "Quelle est la grande idée ?",
-    "t": 480.78
+    "t": 483.79
    },
    {
     "speaker": "Anna",
     "text": "La grande idée, c'est ce qu'on appelle « bien vieillir ».",
-    "t": 482.27
+    "t": 485.28
    },
    {
     "speaker": "Anna",
     "text": "L'État veut que les personnes âgées vivent de la manière la plus autonome possible, le plus longtemps possible — et qu'elles restent une partie de la société, sans être mises de côté.",
-    "t": 484.79
+    "t": 487.8
    },
    {
     "speaker": "Anna",
     "text": "Donc, le travail couvre beaucoup de choses — la préparation à la retraite, l'apprentissage tout au long de la vie, le bénévolat, la lutte contre l'isolement, le monde numérique, et le lien entre les générations.",
-    "t": 493.38
+    "t": 496.39
    },
    {
     "speaker": "Tom",
     "text": "Relier les générations — les jeunes et les moins jeunes ensemble.",
-    "t": 503.17
+    "t": 506.18
    },
    {
     "speaker": "Anna",
     "text": "Oui. Vieillir, ce n'est pas seulement une question de soins.",
-    "t": 507.07
+    "t": 510.08
    },
    {
     "speaker": "Anna",
     "text": "C'est aussi rester actif, utile, et connecté.",
-    "t": 509.86
+    "t": 512.87
    },
    {
     "speaker": "Anna",
     "text": "Et il y a aussi un soutien financier.",
-    "t": 512.81
+    "t": 515.82
    },
    {
     "speaker": "Anna",
     "text": "Depuis 2026, un dispositif appelé COMPA, versé par le Fonds national de solidarité, aide les personnes qui n'ont pas assez d'argent pour payer une structure d'hébergement ou un logement encadré agréés.",
-    "t": 514.77
+    "t": 517.78
    },
    {
     "speaker": "Tom",
     "text": "C'est important — que l'argent ne soit pas l'obstacle à recevoir des soins.",
-    "t": 524.66
+    "t": 527.67
    },
    {
     "speaker": "Tom",
     "text": "D'accord, Anna, rendons ça vraiment pratique.",
-    "t": 528.3
+    "t": 531.31
    },
    {
     "speaker": "Tom",
     "text": "Si j'écoute, et que moi — ou mon parent — pourrait avoir besoin d'aide, qu'est-ce que je fais ?",
-    "t": 530.57
+    "t": 533.58
    },
    {
     "speaker": "Anna",
     "text": "Très simple. Allez sur le site web — infosenior point l-u.",
-    "t": 535.3
+    "t": 538.31
    },
    {
     "speaker": "Anna",
     "text": "Parcourez le Registre public pour trouver des services agréés — une maison de soins, un centre de jour, de l'aide à domicile, des repas, la téléassistance — ce qui correspond au besoin.",
-    "t": 538.62
+    "t": 541.63
    },
    {
     "speaker": "Anna",
     "text": "Pour chacun, vous verrez ce que c'est, les conditions, et les démarches à effectuer.",
-    "t": 548.21
+    "t": 551.22
    },
    {
     "speaker": "Anna",
     "text": "Et si vous n'êtes pas sûr, utilisez le service d'information et de médiation pour être orienté.",
-    "t": 552.06
+    "t": 555.07
    },
    {
     "speaker": "Tom",
     "text": "Et comme c'est officiel, je peux faire confiance à ce que j'y trouve.",
-    "t": 556.77
+    "t": 559.78
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Officiel, gratuit, et contrôlé sur le plan de la qualité.",
-    "t": 560.09
+    "t": 563.1
    },
    {
     "speaker": "Anna",
     "text": "C'est tout l'intérêt.",
-    "t": 563.82
+    "t": 566.83
    },
    {
     "speaker": "Tom",
     "text": "Un petit résumé pour finir ?",
-    "t": 565.13
+    "t": 568.14
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. Info-Seniors, sur infosenior point l-u, est le portail d'information de l'État pour les personnes âgées au Luxembourg.",
-    "t": 566.92
+    "t": 569.93
    },
    {
     "speaker": "Anna",
     "text": "Son cœur, c'est le Registre public des services pour personnes âgées — une liste fiable, mise à jour régulièrement, de services agréés et contrôlés par le ministère.",
-    "t": 573.51
+    "t": 576.52
    },
    {
     "speaker": "Anna",
     "text": "Vous y trouverez des maisons de soins, du logement encadré, des centres de jour, de l'aide et des soins à domicile, des repas sur roues, de la téléassistance, et des activités pour seniors — avec les conditions et les démarches pour chacun.",
-    "t": 581.86
+    "t": 584.87
    },
    {
     "speaker": "Tom",
     "text": "Et le message pour aujourd'hui ?",
-    "t": 594.5
+    "t": 597.51
    },
    {
     "speaker": "Anna",
     "text": "Quand il s'agit de vieillir — pour vous, ou pour un proche — vous n'avez pas à chercher à l'aveugle.",
-    "t": 596.18
+    "t": 599.19
    },
    {
     "speaker": "Anna",
     "text": "Il existe un seul endroit officiel et fiable pour commencer, et il y a de l'aide pour vous guider.",
-    "t": 600.65
+    "t": 603.66
    },
    {
     "speaker": "Tom",
     "text": "Donc... que ce soit pour vous-même, vos parents, ou un voisin — retenez le nom.",
-    "t": 605.02
+    "t": 608.03
    },
    {
     "speaker": "Tom",
     "text": "Info-Seniors. infosenior.lu.",
-    "t": 609.11
+    "t": 612.12
    },
    {
     "speaker": "Anna",
     "text": "Vraiment. Un seul site web, et tout un réseau de soutien derrière.",
-    "t": 612.18
+    "t": 615.19
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur Info-Seniors.",
-    "t": 615.83
+    "t": 618.84
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 617.82
+    "t": 620.83
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 625.7
+    "t": 628.71
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 641.57
+    "t": 644.58
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 646.22
+    "t": 649.23
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 648
+    "t": 651.01
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 652.38
+    "t": 655.39
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 653.61
+    "t": 656.62
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 656.07
+    "t": 659.08
    }
   ],
   "segments_de": [
@@ -28424,837 +28424,837 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Anna",
     "text": "Und das Thema von heute betrifft früher oder später fast jede Familie.",
-    "t": 27.65
+    "t": 27.67
    },
    {
     "speaker": "Anna",
     "text": "Es geht ums Älterwerden — und um einen Dienst, der Ihnen hilft, die richtige Unterstützung zu finden.",
-    "t": 31.65
+    "t": 31.67
    },
    {
     "speaker": "Anna",
     "text": "Er heißt Info-Seniors.",
-    "t": 37.39
+    "t": 37.41
    },
    {
     "speaker": "Tom",
     "text": "Info-Seniors. Gut, Anna, fangen wir ganz einfach an.",
-    "t": 39.31
+    "t": 39.33
    },
    {
     "speaker": "Tom",
     "text": "Was ist das?",
-    "t": 42.5
+    "t": 42.52
    },
    {
     "speaker": "Anna",
     "text": "Also, Info-Seniors ist der offizielle Informationsdienst für ältere Menschen in Luxemburg.",
-    "t": 43.6
+    "t": 43.62
    },
    {
     "speaker": "Anna",
     "text": "Sein Zuhause im Internet ist eine Webseite — infosenior Punkt l-u.",
-    "t": 49.31
+    "t": 49.33
    },
    {
     "speaker": "Tom",
     "text": "infosenior.lu. Und wer steckt dahinter?",
-    "t": 54.7
+    "t": 54.72
    },
    {
     "speaker": "Anna",
-    "text": "Er wird vom Staat betrieben — vom Familienministerium.",
-    "t": 57.74
+    "text": "Er wird vom Staat betrieben — vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 57.76
    },
    {
     "speaker": "Anna",
     "text": "Es ist also eine offizielle, öffentliche Quelle.",
-    "t": 61.6
+    "t": 66.64
    },
    {
     "speaker": "Anna",
     "text": "Kein privates Unternehmen, das Ihnen etwas verkaufen will.",
-    "t": 64.43
+    "t": 69.68
    },
    {
     "speaker": "Tom",
     "text": "Gut zu wissen.",
-    "t": 67.85
+    "t": 73.14
    },
    {
     "speaker": "Tom",
     "text": "Und für wen ist das?",
-    "t": 68.94
+    "t": 74.23
    },
    {
     "speaker": "Tom",
     "text": "Nur für die älteren Menschen selbst?",
-    "t": 70.26
+    "t": 75.55
    },
    {
     "speaker": "Anna",
     "text": "Nein, und das ist wichtig.",
-    "t": 72.31
+    "t": 77.6
    },
    {
     "speaker": "Anna",
     "text": "Es ist für Senioren, ja — aber auch für ihre Familien, für die Fachkräfte, die mit ihnen arbeiten, und wirklich für alle Interessierten.",
-    "t": 74.19
+    "t": 79.48
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie sich also um einen älter werdenden Elternteil oder einen Nachbarn sorgen, ist das auch für Sie.",
-    "t": 81.88
+    "t": 87.17
    },
    {
     "speaker": "Tom",
     "text": "Das ist beruhigend.",
-    "t": 87.48
+    "t": 92.77
    },
    {
     "speaker": "Tom",
     "text": "Denn oft sind es die Kinder oder die Familie, die nach Hilfe suchen.",
-    "t": 88.75
+    "t": 94.04
    },
    {
     "speaker": "Anna",
     "text": "Genau. Besonders für Grenzgänger — vielleicht leben Ihre Eltern in einem anderen Land, und Sie möchten verstehen, was es hier gibt.",
-    "t": 92.3
+    "t": 97.59
    },
    {
     "speaker": "Anna",
     "text": "Oder umgekehrt — Sie arbeiten hier und organisieren Hilfe für einen Elternteil in Luxemburg.",
-    "t": 99.92
+    "t": 105.21
    },
    {
     "speaker": "Tom",
     "text": "Also, was findet man eigentlich auf der Webseite?",
-    "t": 105.87
+    "t": 111.16
    },
    {
     "speaker": "Tom",
     "text": "Was ist das Herzstück davon?",
-    "t": 108.75
+    "t": 114.04
    },
    {
     "speaker": "Anna",
     "text": "Das Herzstück ist etwas, das man das Öffentliche Register der Seniorendienste nennt.",
-    "t": 110.6
+    "t": 115.89
    },
    {
     "speaker": "Tom",
     "text": "Ein Register. Das klingt offiziell.",
-    "t": 115.25
+    "t": 120.54
    },
    {
     "speaker": "Tom",
     "text": "Was ist da drin?",
-    "t": 117.67
+    "t": 122.96
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine verlässliche Liste der zugelassenen Dienste und Einrichtungen für ältere Menschen in Luxemburg — und sie wächst noch, je mehr Dienste ihre Informationen einschicken.",
-    "t": 118.93
+    "t": 124.22
    },
    {
     "speaker": "Anna",
     "text": "Für jeden finden Sie ausführliche Informationen — was der Dienst ist, die Bedingungen für die Nutzung, und die Schritte, die Sie unternehmen müssen.",
-    "t": 128.62
+    "t": 133.91
    },
    {
     "speaker": "Tom",
     "text": "Also nicht nur ein Name und eine Telefonnummer.",
-    "t": 137.96
+    "t": 143.25
    },
    {
     "speaker": "Tom",
     "text": "Es sagt mir, wie ich die Hilfe tatsächlich bekomme.",
-    "t": 140.53
+    "t": 145.82
    },
    {
     "speaker": "Anna",
     "text": "Genau. Was es ist, wer es nutzen kann, und wie man anfängt.",
-    "t": 143.41
+    "t": 148.7
    },
    {
     "speaker": "Anna",
     "text": "Das ist der nützliche Teil.",
-    "t": 147.33
+    "t": 152.62
    },
    {
     "speaker": "Tom",
     "text": "Du hast nun „Register\" und „offiziell\" gesagt.",
-    "t": 149.3
+    "t": 154.59
    },
    {
     "speaker": "Tom",
     "text": "Gibt es etwas Besonderes daran, welche Dienste aufgeführt werden?",
-    "t": 152.61
+    "t": 157.9
    },
    {
     "speaker": "Anna",
     "text": "Ja — und das ist wirklich der entscheidende Punkt.",
-    "t": 156.25
+    "t": 161.54
    },
    {
     "speaker": "Anna",
     "text": "Das Register führt nur Dienste auf, die vom Staat anerkannt sind.",
-    "t": 159.36
+    "t": 164.65
    },
    {
     "speaker": "Anna",
     "text": "Auf Französisch sagt man, sie haben einen „agrément\".",
-    "t": 162.96
+    "t": 168.25
    },
    {
     "speaker": "Tom",
     "text": "Einen agrément. Also eine offizielle Zulassung.",
-    "t": 166.18
+    "t": 171.47
    },
    {
     "speaker": "Anna",
     "text": "Richtig. In Luxemburg muss jeder, der älteren Menschen Pflege, Unterkunft, Hilfe oder Begleitung anbietet, diese Anerkennung des Ministeriums haben.",
-    "t": 169.37
+    "t": 174.66
    },
    {
     "speaker": "Anna",
     "text": "Um sie zu bekommen, muss er Qualitätsanforderungen erfüllen.",
-    "t": 178.47
+    "t": 183.76
    },
    {
     "speaker": "Anna",
     "text": "Und das Ministerium führt regelmäßige Kontrollen durch.",
-    "t": 181.98
+    "t": 187.27
    },
    {
     "speaker": "Tom",
     "text": "Wenn also ein Dienst im Register steht...",
-    "t": 185.3
+    "t": 190.59
    },
    {
     "speaker": "Anna",
     "text": "...dann wurde er vom Staat geprüft und anerkannt.",
-    "t": 187.65
+    "t": 192.94
    },
    {
     "speaker": "Anna",
     "text": "Das ist eine echte Qualitätsgarantie.",
-    "t": 190.38
+    "t": 195.67
    },
    {
     "speaker": "Anna",
     "text": "Sie wählen nicht einfach einen Namen zufällig aus dem Internet.",
-    "t": 192.85
+    "t": 198.14
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine wichtige Sache, besonders bei etwas so Sensiblem wie der Pflege eines Elternteils.",
-    "t": 196.33
+    "t": 201.62
    },
    {
     "speaker": "Tom",
     "text": "Und wie aktuell ist dieses Register?",
-    "t": 201.63
+    "t": 206.92
    },
    {
     "speaker": "Anna",
     "text": "Es beruht auf einem Gesetz von 2023, und das Register ist seit dem ersten März 2024 online.",
-    "t": 203.76
+    "t": 209.05
    },
    {
     "speaker": "Anna",
     "text": "Und es wird regelmäßig aktualisiert, damit die Informationen verlässlich und auf dem neuesten Stand bleiben.",
-    "t": 210.91
+    "t": 216.2
    },
    {
     "speaker": "Tom",
     "text": "Perfekt. Gut, Anna — werden wir konkret.",
-    "t": 216.73
+    "t": 222.02
    },
    {
     "speaker": "Tom",
     "text": "Welche Art von Diensten kann ich dort finden?",
-    "t": 220.07
+    "t": 225.36
    },
    {
     "speaker": "Anna",
     "text": "Eine ganze Bandbreite, für jede Bedarfsstufe.",
-    "t": 222.48
+    "t": 227.77
    },
    {
     "speaker": "Anna",
     "text": "Lass mich die wichtigsten durchgehen.",
-    "t": 225.43
+    "t": 230.72
    },
    {
     "speaker": "Anna",
     "text": "Zuerst — die Pflegeheime, die Wohneinrichtungen, für Menschen, die nicht mehr zu Hause leben können.",
-    "t": 227.48
+    "t": 232.77
    },
    {
     "speaker": "Tom",
     "text": "Gut, das klassische Alters- oder Pflegeheim.",
-    "t": 233.56
+    "t": 238.85
    },
    {
     "speaker": "Anna",
     "text": "Ja. Dann — das betreute Wohnen, wo Sie Ihre eigene Wohnung haben, aber mit Unterstützung und Sicherheit in der Nähe.",
-    "t": 236.42
+    "t": 241.71
    },
    {
     "speaker": "Anna",
     "text": "Dann — die Tagesstätten, wo ein Senior den Tag verbringen kann, mit Aktivitäten und Gesellschaft, und abends nach Hause geht.",
-    "t": 244.27
+    "t": 249.56
    },
    {
     "speaker": "Tom",
     "text": "Ah, das ist schön für jemanden, der noch zu Hause ist, aber nicht den ganzen Tag allein sein sollte.",
-    "t": 252.29
+    "t": 257.58
    },
    {
     "speaker": "Anna",
     "text": "Genau. Und es verschafft auch der Familie eine Verschnaufpause.",
-    "t": 257.66
+    "t": 262.95
    },
    {
     "speaker": "Anna",
     "text": "Dann gibt es die Hilfe zu Hause — Haushaltshilfe, und Pflege, die zu Ihnen kommt.",
-    "t": 261.47
+    "t": 266.76
    },
    {
     "speaker": "Anna",
     "text": "Es gibt „Essen auf Rädern\" — warme Mahlzeiten, die an Ihre Tür geliefert werden.",
-    "t": 266.54
+    "t": 271.83
    },
    {
     "speaker": "Tom",
     "text": "Essen auf Rädern.",
-    "t": 271.64
+    "t": 276.93
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine schöne, praktische Sache.",
-    "t": 273.03
+    "t": 278.32
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt die Notrufhilfe — manchmal Telealarm genannt.",
-    "t": 275.27
+    "t": 280.56
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein kleines Gerät, oft ein Knopf, den Sie tragen, mit dem Sie sofort um Hilfe rufen können, wenn Sie stürzen oder sich unwohl fühlen.",
-    "t": 279.3
+    "t": 284.59
    },
    {
     "speaker": "Tom",
     "text": "Sie können also zu Hause bleiben, aber mit einem Sicherheitsnetz.",
-    "t": 287.24
+    "t": 292.53
    },
    {
     "speaker": "Tom",
     "text": "Das gibt echte Sicherheit und Ruhe.",
-    "t": 290.88
+    "t": 296.17
    },
    {
     "speaker": "Anna",
     "text": "Das ist die Idee.",
-    "t": 293
+    "t": 298.29
    },
    {
     "speaker": "Anna",
     "text": "Das Ziel von all dem — und das ist das Ziel der gesamten nationalen Politik — ist es, den Menschen zu ermöglichen, so lange wie möglich selbstständig zu Hause zu bleiben.",
-    "t": 294.27
+    "t": 299.56
    },
    {
     "speaker": "Tom",
     "text": "Und du hast auch Aktivitäten erwähnt?",
-    "t": 304.56
+    "t": 309.85
    },
    {
     "speaker": "Anna",
     "text": "Ja. Über die Pflege hinaus gibt es Aktivitäten für Senioren — um aktiv zu bleiben, zu lernen, und Menschen zu treffen.",
-    "t": 306.9
+    "t": 312.19
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispiel gibt es die Clubs Aktiv Plus, die Seniorenclubs im ganzen Land, wo ältere Menschen sich treffen, Aktivitäten machen, und in Verbindung bleiben.",
-    "t": 314.38
+    "t": 319.67
    },
    {
     "speaker": "Tom",
     "text": "Weil aktiv und gesellig zu bleiben ein Teil davon ist, gesund zu bleiben.",
-    "t": 324.09
+    "t": 329.38
    },
    {
     "speaker": "Anna",
     "text": "Völlig richtig. Einsamkeit ist ein echtes Risiko, wenn wir älter werden.",
-    "t": 328.32
+    "t": 333.61
    },
    {
     "speaker": "Anna",
     "text": "Und das ist eine der Sachen, die das System mit aller Kraft zu verhindern versucht.",
-    "t": 332.84
+    "t": 338.13
    },
    {
     "speaker": "Tom",
     "text": "Apropos — gibt es Dienste für speziellere Situationen?",
-    "t": 337.16
+    "t": 342.45
    },
    {
     "speaker": "Tom",
     "text": "Nicht jeder hat die gleichen Bedürfnisse.",
-    "t": 340.71
+    "t": 346
    },
    {
     "speaker": "Anna",
     "text": "Ja, und die Webseite verweist Sie auch auf spezialisierte Dienste.",
-    "t": 342.89
+    "t": 348.18
    },
    {
     "speaker": "Anna",
     "text": "Lass mich ein paar Beispiele geben.",
-    "t": 346.71
+    "t": 352
    },
    {
     "speaker": "Anna",
     "text": "Für Gedächtnisprobleme und Demenz gibt es ein nationales Informationszentrum — das Info-Zenter Demenz.",
-    "t": 348.59
+    "t": 353.88
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt den Alzheimer-Verein, der sogar eine Hilfeleitung betreibt, 26 432 432, rund um die Uhr verfügbar, für dringende Situationen.",
-    "t": 355.37
+    "t": 360.66
    },
    {
     "speaker": "Tom",
     "text": "Eine 24-Stunden-Leitung für Alzheimer — das ist so wichtig für Familien in Not.",
-    "t": 365.11
+    "t": 370.4
    },
    {
     "speaker": "Anna",
     "text": "Das ist es wirklich.",
-    "t": 370.25
+    "t": 375.54
    },
    {
     "speaker": "Anna",
     "text": "Dann, für die digitale Welt — es gibt eine Organisation, die Senioren hilft, den Umgang mit Computern und Smartphones zu lernen, damit sie nicht abgehängt werden.",
-    "t": 371.58
+    "t": 376.87
    },
    {
     "speaker": "Anna",
     "text": "Gegen die Einsamkeit gibt es einen Dienst des Roten Kreuzes, namens Iris, bei dem geschulte Freiwillige regelmäßig isolierte Menschen besuchen.",
-    "t": 381.13
+    "t": 386.42
    },
    {
     "speaker": "Tom",
     "text": "Einfach, um ihnen Gesellschaft zu leisten.",
-    "t": 389.71
+    "t": 395
    },
    {
     "speaker": "Tom",
     "text": "Das ist wunderschön.",
-    "t": 391.96
+    "t": 397.25
    },
    {
     "speaker": "Anna",
     "text": "Das ist es.",
-    "t": 393.38
+    "t": 398.67
    },
    {
     "speaker": "Anna",
     "text": "Und für sehr schwierige Momente — es gibt die Palliativpflege und die Begleitung am Lebensende, und es gibt Informationen über Ihre Rechte und Wünsche für das Lebensende.",
-    "t": 394.46
+    "t": 399.75
    },
    {
     "speaker": "Anna",
     "text": "Das System deckt also den ganzen Weg ab, mit Respekt.",
-    "t": 405.27
+    "t": 410.56
    },
    {
     "speaker": "Tom",
     "text": "Das ist ein fürsorglicher Ansatz.",
-    "t": 408.93
+    "t": 414.22
    },
    {
     "speaker": "Tom",
     "text": "Und gibt es einen Ort, der am Wissen selbst arbeitet — Forschung, Ausbildung für die Menschen, die pflegen?",
-    "t": 411.05
+    "t": 416.34
    },
    {
     "speaker": "Anna",
     "text": "Ja. Es gibt ein Kompetenzzentrum für das Altern, GERO, das seit mehr als fünfunddreißig Jahren besteht.",
-    "t": 417.06
+    "t": 422.35
    },
    {
     "speaker": "Anna",
     "text": "Es macht drei Dinge — Aktivitäten und Lernen für Senioren, Weiterbildung für Pflegefachkräfte, und Forschung über das Altern.",
-    "t": 424.02
+    "t": 429.31
    },
    {
     "speaker": "Anna",
     "text": "So verbessert sich die Qualität im Laufe der Zeit immer weiter.",
-    "t": 432.17
+    "t": 437.46
    },
    {
     "speaker": "Tom",
     "text": "Es bleibt also nicht stehen.",
-    "t": 435.77
+    "t": 441.06
    },
    {
     "speaker": "Tom",
     "text": "Gut. Anna, machen wir das ganz greifbar.",
-    "t": 437.39
+    "t": 442.68
    },
    {
     "speaker": "Tom",
     "text": "Können wir ein Beispiel nehmen?",
-    "t": 440.55
+    "t": 445.84
    },
    {
     "speaker": "Anna",
     "text": "Natürlich. Stellen wir uns vor, deine Mutter ist achtzig, sie lebt allein, und sie ist noch ziemlich selbstständig — aber du fängst an, dir ein wenig Sorgen zu machen.",
-    "t": 442.18
+    "t": 447.47
    },
    {
     "speaker": "Tom",
     "text": "Eine sehr häufige Situation.",
-    "t": 451.49
+    "t": 456.78
    },
    {
     "speaker": "Tom",
     "text": "Was macht Info-Seniors also für mich?",
-    "t": 453.45
+    "t": 458.74
    },
    {
     "speaker": "Anna",
     "text": "Du gehst auf die Webseite, und du schaust dir an, was passt.",
-    "t": 455.68
+    "t": 460.97
    },
    {
     "speaker": "Anna",
     "text": "Vielleicht, zuerst, einfach Essen auf Rädern, damit sie jeden Tag gut isst.",
-    "t": 458.57
+    "t": 463.86
    },
    {
     "speaker": "Anna",
     "text": "Vielleicht einen Notrufknopf, zur Sicherheit, falls sie stürzt.",
-    "t": 463.78
+    "t": 469.07
    },
    {
     "speaker": "Anna",
     "text": "Vielleicht einen Club Aktiv Plus in der Nähe, damit sie jede Woche Menschen sieht.",
-    "t": 467.41
+    "t": 472.7
    },
    {
     "speaker": "Tom",
     "text": "Ich kann also eine Art Paket zusammenstellen — ein bisschen Hilfe hier, ein bisschen dort — um sie sicher zu Hause zu halten.",
-    "t": 471.67
+    "t": 476.96
    },
    {
     "speaker": "Anna",
     "text": "Genau. Und später, wenn sie mehr braucht, weißt du schon, wo du suchen musst — eine Tagesstätte ein paar Tage pro Woche, dann mehr häusliche Pflege, und erst viel später, falls nötig, ein Pflegeheim.",
-    "t": 479.12
+    "t": 484.41
    },
    {
     "speaker": "Anna",
     "text": "Schritt für Schritt, in ihrem Tempo.",
-    "t": 490.73
+    "t": 496.02
    },
    {
     "speaker": "Tom",
     "text": "Und für jeden davon sagt mir das Register die Bedingungen und die Schritte.",
-    "t": 493.05
+    "t": 498.34
    },
    {
     "speaker": "Anna",
     "text": "Für jeden einzelnen.",
-    "t": 497.04
+    "t": 502.33
    },
    {
     "speaker": "Anna",
     "text": "Statt in Panik zu geraten, hast du also eine ruhige, klare Landkarte.",
-    "t": 498.49
+    "t": 503.78
    },
    {
     "speaker": "Tom",
     "text": "Das gefällt mir wirklich — eine ruhige, klare Landkarte.",
-    "t": 502.8
+    "t": 508.09
    },
    {
     "speaker": "Tom",
     "text": "Und wenn meine Mutter nicht viel spricht, oder Angst vor der Technik hat?",
-    "t": 506.55
+    "t": 511.84
    },
    {
     "speaker": "Anna",
     "text": "Dann kann der Dienst für digitale Kompetenzen ihr helfen, sanft zu lernen.",
-    "t": 510.15
+    "t": 515.44
    },
    {
     "speaker": "Anna",
     "text": "Oder ein Freiwilliger kann sie besuchen.",
-    "t": 514.65
+    "t": 519.94
    },
    {
     "speaker": "Anna",
     "text": "Der Punkt ist, es gibt fast immer etwas — man muss nur wissen, dass es existiert.",
-    "t": 516.94
+    "t": 522.23
    },
    {
     "speaker": "Anna",
     "text": "Und genau dafür ist das Portal da — damit Sie wissen, dass es existiert.",
-    "t": 521.94
+    "t": 527.23
    },
    {
     "speaker": "Tom",
     "text": "Nun, Anna — eine praktische Sorge.",
-    "t": 526.77
+    "t": 532.06
    },
    {
     "speaker": "Tom",
     "text": "Was, wenn ich ein Problem mit einem Dienst habe?",
-    "t": 529.25
+    "t": 534.54
    },
    {
     "speaker": "Tom",
     "text": "Oder ich einfach nicht weiß, wen ich fragen soll?",
-    "t": 531.59
+    "t": 536.88
    },
    {
     "speaker": "Anna",
     "text": "Gute Frage. Sie können einfach das Senioren-Telefon anrufen, 247-86000, für Information und Beratung.",
-    "t": 534.04
+    "t": 539.33
    },
    {
     "speaker": "Anna",
     "text": "Und wenn es eine Meinungsverschiedenheit mit einem Dienst gibt, gibt es SIMPA, den nationalen Informations- und Vermittlungsdienst — einen neutralen Ort, der Ihnen hilft, eine Lösung zu finden.",
-    "t": 542.75
+    "t": 548.04
    },
    {
     "speaker": "Tom",
     "text": "Man ist damit also nie ganz allein.",
-    "t": 553.6
+    "t": 558.89
    },
    {
     "speaker": "Anna",
     "text": "Nie. Zwischen der Webseite, dem Register, und diesem Informations- und Vermittlungsdienst gibt es immer eine Tür, an die man klopfen kann.",
-    "t": 555.83
+    "t": 561.12
    },
    {
     "speaker": "Tom",
     "text": "Treten wir einen Moment einen Schritt zurück.",
-    "t": 564
+    "t": 569.29
    },
    {
     "speaker": "Tom",
     "text": "Du hast gesagt, das ist Teil einer größeren Politik.",
-    "t": 566.33
+    "t": 571.62
    },
    {
     "speaker": "Tom",
     "text": "Was ist die große Idee?",
-    "t": 569.54
+    "t": 574.83
    },
    {
     "speaker": "Anna",
     "text": "Die große Idee ist das, was man „gutes Altern\" nennt.",
-    "t": 571.1
+    "t": 576.39
    },
    {
     "speaker": "Anna",
     "text": "Der Staat möchte, dass ältere Menschen so selbstständig wie möglich leben, so lange wie möglich — und ein Teil der Gesellschaft bleiben, nicht an den Rand gedrängt werden.",
-    "t": 574.62
+    "t": 579.91
    },
    {
     "speaker": "Anna",
     "text": "Die Arbeit deckt also viele Dinge ab — die Vorbereitung auf den Ruhestand, das lebenslange Lernen, das Ehrenamt, den Kampf gegen die Vereinsamung, die digitale Welt, und die Verbindung der Generationen.",
-    "t": 583.43
+    "t": 588.72
    },
    {
     "speaker": "Tom",
     "text": "Die Generationen verbinden — Jung und Alt zusammen.",
-    "t": 595.38
+    "t": 600.67
    },
    {
     "speaker": "Anna",
     "text": "Ja. Beim Altern geht es nicht nur um Pflege.",
-    "t": 598.76
+    "t": 604.05
    },
    {
     "speaker": "Anna",
     "text": "Es geht auch darum, aktiv, nützlich und verbunden zu bleiben.",
-    "t": 601.76
+    "t": 607.05
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt auch finanzielle Unterstützung.",
-    "t": 605.52
+    "t": 610.81
    },
    {
     "speaker": "Anna",
     "text": "Seit 2026 hilft ein Programm namens COMPA, gezahlt vom Nationalen Solidaritätsfonds, Menschen, die nicht genug Geld haben, um ein zugelassenes Pflegeheim oder betreutes Wohnen zu bezahlen.",
-    "t": 608.04
+    "t": 613.33
    },
    {
     "speaker": "Tom",
     "text": "Das ist wichtig — dass Geld nicht das Hindernis sein sollte, um Pflege zu bekommen.",
-    "t": 620.14
+    "t": 625.43
    },
    {
     "speaker": "Tom",
     "text": "Gut, Anna, machen wir es ganz praktisch.",
-    "t": 624.63
+    "t": 629.92
    },
    {
     "speaker": "Tom",
     "text": "Wenn ich zuhöre, und ich — oder mein Elternteil — vielleicht Hilfe brauche, was mache ich?",
-    "t": 627.16
+    "t": 632.45
    },
    {
     "speaker": "Anna",
     "text": "Ganz einfach. Gehen Sie auf die Webseite — infosenior Punkt l-u.",
-    "t": 633.06
+    "t": 638.35
    },
    {
     "speaker": "Anna",
     "text": "Durchsuchen Sie das Öffentliche Register, um anerkannte Dienste zu finden — ein Pflegeheim, eine Tagesstätte, Hilfe zu Hause, Mahlzeiten, Notrufhilfe — was auch immer zum Bedarf passt.",
-    "t": 638.1
+    "t": 643.39
    },
    {
     "speaker": "Anna",
     "text": "Für jeden sehen Sie, was es ist, die Bedingungen, und die Schritte, die zu unternehmen sind.",
-    "t": 650.46
+    "t": 655.75
    },
    {
     "speaker": "Anna",
     "text": "Und wenn Sie sich nicht sicher sind, nutzen Sie den Informations- und Vermittlungsdienst, um sich orientieren zu lassen.",
-    "t": 655.29
+    "t": 660.58
    },
    {
     "speaker": "Tom",
     "text": "Und weil es offiziell ist, kann ich dem, was ich dort finde, vertrauen.",
-    "t": 661.6
+    "t": 666.89
    },
    {
     "speaker": "Anna",
     "text": "Genau. Offiziell, kostenlos, und qualitätsgeprüft.",
-    "t": 665.38
+    "t": 670.67
    },
    {
     "speaker": "Anna",
     "text": "Darum geht es im Kern.",
-    "t": 669.42
+    "t": 674.71
    },
    {
     "speaker": "Tom",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 671.06
+    "t": 676.35
    },
    {
     "speaker": "Anna",
     "text": "Klar. Info-Seniors, auf infosenior Punkt l-u, ist das Informationsportal des Staates für ältere Menschen in Luxemburg.",
-    "t": 673.31
+    "t": 678.6
    },
    {
     "speaker": "Anna",
     "text": "Sein Herzstück ist das Öffentliche Register der Seniorendienste — eine verlässliche, regelmäßig aktualisierte Liste von Diensten, die vom Ministerium anerkannt und geprüft sind.",
-    "t": 681.47
+    "t": 686.76
    },
    {
     "speaker": "Anna",
     "text": "Sie finden Pflegeheime, betreutes Wohnen, Tagesstätten, häusliche Hilfe und Pflege, Essen auf Rädern, Notrufhilfe, und Aktivitäten für Senioren — mit den Bedingungen und den Schritten für jeden einzelnen.",
-    "t": 691.78
+    "t": 697.07
    },
    {
     "speaker": "Tom",
     "text": "Und die Botschaft für heute?",
-    "t": 705.47
+    "t": 710.76
    },
    {
     "speaker": "Anna",
     "text": "Wenn es ums Älterwerden geht — Ihres oder das eines geliebten Menschen — müssen Sie nicht blind suchen.",
-    "t": 707.09
+    "t": 712.38
    },
    {
     "speaker": "Anna",
     "text": "Es gibt einen einzigen offiziellen, vertrauenswürdigen Ort, um anzufangen, und es gibt Hilfe, die Sie begleitet.",
-    "t": 713.12
+    "t": 718.41
    },
    {
     "speaker": "Tom",
     "text": "Also... ob für Sie selbst, Ihre Eltern, oder einen Nachbarn — merken Sie sich den Namen.",
-    "t": 719.16
+    "t": 724.45
    },
    {
     "speaker": "Tom",
     "text": "Info-Seniors. infosenior.lu.",
-    "t": 724.96
+    "t": 730.25
    },
    {
     "speaker": "Anna",
     "text": "Wirklich. Eine Webseite, und ein ganzes Netz an Unterstützung dahinter.",
-    "t": 728.61
+    "t": 733.9
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über Info-Seniors.",
-    "t": 733.25
+    "t": 738.54
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 735.78
+    "t": 741.07
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 744.54
+    "t": 749.83
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 762.39
+    "t": 767.68
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 768.09
+    "t": 773.38
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 770.34
+    "t": 775.63
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 775.23
+    "t": 780.52
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 776.38
+    "t": 781.67
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 779.59
+    "t": 784.88
    }
   ],
   "segments_lb": [
@@ -29290,362 +29290,362 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "De Staat féiert et — d'Familljeministère. Et ass also eng offiziell, ëffentlech Quell. Net eng privat Firma, déi Iech eppes wëll verkafen.",
+    "text": "De Staat féiert et — de Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. Et ass also eng offiziell, ëffentlech Quell. Net eng privat Firma, déi Iech eppes wëll verkafen.",
     "t": 55.3
    },
    {
     "speaker": "Tom",
     "text": "Gutt ze wëssen. A fir wie ass et? Just fir d'eeler Leit selwer?",
-    "t": 63.36
+    "t": 68.31
    },
    {
     "speaker": "Anna",
     "text": "Nee, an dat ass wichteg. Et ass fir d'Senioren, jo — awer och fir hir Famillen, fir d'Fachleit, déi mat hinne schaffen, an eigentlech fir all interesséierte Mënsch. Wann Dir Iech also Suergen ëm en eeler Elterendeel maacht, oder ëm en Noper, dann ass et och fir Iech.",
-    "t": 67.12
+    "t": 72.07
    },
    {
     "speaker": "Tom",
     "text": "Dat ass berouegend. Well dacks sinn et d'Kanner, oder d'Famill, déi no Hëllef sichen.",
-    "t": 81.07
+    "t": 86.02
    },
    {
     "speaker": "Anna",
     "text": "Genau. Virun allem fir Grenzgänger — vläicht wunnen Är Elteren an engem anere Land, an Dir wëllt verstoen, wat hei besteet. Oder ëmgedréint — Dir schafft hei, an Dir organiséiert Hëllef fir en Elterendeel zu Lëtzebuerg.",
-    "t": 86.56
+    "t": 91.51
    },
    {
     "speaker": "Tom",
     "text": "Also, wat fënnt een eigentlech op der Websäit? Wat ass den Häerz dovun?",
-    "t": 100.52
+    "t": 105.47
    },
    {
     "speaker": "Anna",
     "text": "Den Häerz dovun ass eppes, wat een d'Ëffentlecht Register vun de Servicer fir Senioren nennt.",
-    "t": 104.4
+    "t": 109.35
    },
    {
     "speaker": "Tom",
     "text": "E Register. Dat kléngt offiziell. Wat ass do dran?",
-    "t": 108.85
+    "t": 113.8
    },
    {
     "speaker": "Anna",
     "text": "Et ass eng zouverlässeg Lëscht vun den agreéierte Servicer a Strukturen fir eeler Leit zu Lëtzebuerg — an si gëtt nach ëmmer méi grouss, esou wéi d'Servicer hir Informatiounen aschécken. Fir all eenzelen fënnt Dir detailléiert Informatiounen — wat de Service ass, d'Konditiounen, fir en ze benotzen, an d'Schrëtt, déi Dir musst maachen.",
-    "t": 111.89
+    "t": 116.84
    },
    {
     "speaker": "Tom",
     "text": "Also net just en Numm an eng Telefonsnummer. Et seet mer, wéi ech d'Hëllef wierklech kréien.",
-    "t": 129.38
+    "t": 134.33
    },
    {
     "speaker": "Anna",
     "text": "Genau. Wat et ass, wie kann et benotzen, a wéi een ufänkt. Dat ass den nëtzlechen Deel.",
-    "t": 133.63
+    "t": 138.58
    },
    {
     "speaker": "Tom",
     "text": "Du hues elo \"Register\" an \"offiziell\" gesot. Ass do eppes Besonnesches drun, wéi eng Servicer opgelëscht sinn?",
-    "t": 139.34
+    "t": 144.29
    },
    {
     "speaker": "Anna",
     "text": "Jo — an dat ass wierklech de Schlësselpunkt. De Register lëscht just Servicer op, déi vum Staat agreéiert sinn. Op Franséisch seet ee, si hunn en \"agrément\".",
-    "t": 144.33
+    "t": 149.28
    },
    {
     "speaker": "Tom",
     "text": "En agrément. Also eng offiziell Autorisatioun.",
-    "t": 153.04
+    "t": 157.99
    },
    {
     "speaker": "Anna",
     "text": "Richteg. Zu Lëtzebuerg muss jiddwereen, dee Fleeg, Logement, Hëllef oder Begleedung fir eeler Leit ubitt, dës Genehmegung vum Ministère hunn. Fir se ze kréien, mussen si Qualitéitsufuerderunge erfëllen. An de Ministère mécht reegelméisseg Kontrollen.",
-    "t": 155.88
+    "t": 160.83
    },
    {
     "speaker": "Tom",
     "text": "Also wann e Service am Register ass...",
-    "t": 170.6
+    "t": 175.55
    },
    {
     "speaker": "Anna",
     "text": "...da gouf e vum Staat kontrolléiert an agreéiert. Dat ass eng richteg Qualitéitsgarantie. Dir wielt net e Numm zoufälleg aus dem Internet.",
-    "t": 172.79
+    "t": 177.74
    },
    {
     "speaker": "Tom",
     "text": "Dat ass eng grouss Saach, virun allem fir eppes esou Sensibles, wéi sech ëm en Elterendeel ze këmmeren. A wéi rezent ass dëse Register?",
-    "t": 180.46
+    "t": 185.41
    },
    {
     "speaker": "Anna",
     "text": "Hie baséiert op engem Gesetz vun 2023, an de Register ass zënter dem éischte Mäerz 2024 online. An e gëtt reegelméisseg aktualiséiert, sou datt d'Informatioune zouverlässeg an aktuell bleiwen.",
-    "t": 186.57
+    "t": 191.52
    },
    {
     "speaker": "Tom",
     "text": "Perfekt. Gutt, Anna — loosse mer konkret ginn. Wéi eng Servicer fannen ech do?",
-    "t": 197.88
+    "t": 202.83
    },
    {
     "speaker": "Anna",
     "text": "Eng ganz Palett, fir all Niveau vum Besoin. Loosse mech d'Haaptsaache duerchgoen. Als éischt — Fleegeheemer, déi residentiell Strukturen, fir Leit, déi net méi doheem kënne wunnen.",
-    "t": 202.41
+    "t": 207.36
    },
    {
     "speaker": "Tom",
     "text": "Gutt, dat klassescht Pensiouns- oder Fleegeheem.",
-    "t": 212.9
+    "t": 217.85
    },
    {
     "speaker": "Anna",
     "text": "Jo. Dann — betreit Wunnen, wou Dir Är eege Wunneng hutt, awer mat Ënnerstëtzung a Sécherheet an der Noperschaft. Dann — Dagesfleegezentren, wou e Senior den Dag ka verbréngen, mat Aktivitéiten a Gesellschaft, an owes heem geet.",
-    "t": 215.19
+    "t": 220.14
    },
    {
     "speaker": "Tom",
     "text": "Ah, dat ass schéin fir een, deen nach doheem ass, awer net de ganzen Dag eleng soll sinn.",
-    "t": 228.11
+    "t": 233.06
    },
    {
     "speaker": "Anna",
     "text": "Genau. An et gëtt der Famill och eng Paus. Da gëtt et Hëllef doheem — Stéckhëllef, a Fleeg, déi bei Iech kënnt. Et gëtt \"Iesse op Rieder\" — waarm Iessen un Är Dier geliwwert.",
-    "t": 231.78
+    "t": 236.73
    },
    {
     "speaker": "Tom",
     "text": "Iesse op Rieder. Dat ass eng schéi, praktesch Saach.",
-    "t": 243.71
+    "t": 248.66
    },
    {
     "speaker": "Anna",
     "text": "An et gëtt Teleassistenz — heiansdo Telealarm genannt. Et ass e klengt Apparat, dacks e Knäppchen, deen Dir undréit, deen Iech erlaabt, direkt no Hëllef ze rufen, wann Dir falt oder Iech net gutt fillt.",
-    "t": 246.8
+    "t": 251.75
    },
    {
     "speaker": "Tom",
     "text": "Also kann ee doheem bleiwen, awer mat engem Sécherheetsnetz. Dat gëtt richteg Rou am Kapp.",
-    "t": 256.75
+    "t": 261.7
    },
    {
     "speaker": "Anna",
     "text": "Dat ass d'Iddi. D'Zil vun all deem — an et ass d'Zil vun der ganzer nationaler Politik — ass et, d'Leit esou laang wéi méiglech onofhängeg, doheem, bleiwen ze loossen.",
-    "t": 260.99
+    "t": 265.94
    },
    {
     "speaker": "Tom",
     "text": "An du hues och Aktivitéiten erwähnt?",
-    "t": 271.26
+    "t": 276.21
    },
    {
     "speaker": "Anna",
     "text": "Jo. Iwwer d'Fleeg eraus gëtt et Senioren-Aktivitéiten — fir aktiv ze bleiwen, ze léieren, a Leit kennenzeléieren. Zum Beispill gëtt et d'Clubs Aktiv Plus, d'Seniorencluben am ganze Land, wou eeler Leit sech treffen, Aktivitéite maachen, a verbonne bleiwen.",
-    "t": 273.09
+    "t": 278.04
    },
    {
     "speaker": "Tom",
     "text": "Well aktiv a sozial ze bleiwen ass Deel dovun, gesond ze bleiwen.",
-    "t": 288.68
+    "t": 293.63
    },
    {
     "speaker": "Anna",
     "text": "Komplett. Eensamkeet ass e richtege Risiko, wa mer eeler ginn. An dat ass eng vun de Saachen, déi de System sech vill Méi gëtt ze verhënneren.",
-    "t": 291.66
+    "t": 296.61
    },
    {
     "speaker": "Tom",
     "text": "Apropos — ginn et Servicer fir méi spezifesch Situatiounen? Net jiddwereen huet déi selwecht Besoinen.",
-    "t": 298.4
+    "t": 303.35
    },
    {
     "speaker": "Anna",
     "text": "Jo, an d'Websäit weist Iech och op spezialiséiert Servicer. Loosse mech e puer Beispiller ginn. Fir Gediechtnisproblemer an Demenz gëtt et en nationalen Informatiounszenter — den Info-Zenter Demenz. An et gëtt d'Alzheimer-Associatioun, déi souguer eng Hëllefslinn huet, 26 432 432, rëm d'Auer disponibel, fir dréngend Situatiounen.",
-    "t": 304.68
+    "t": 309.63
    },
    {
     "speaker": "Tom",
     "text": "Eng 24-Stonnen-Linn fir Alzheimer — dat ass esou wichteg fir Famillen an Nout.",
-    "t": 327.95
+    "t": 332.9
    },
    {
     "speaker": "Anna",
     "text": "Dat ass et wierklech. Dann, fir déi digital Welt — gëtt et eng Organisatioun, déi Senioren hëlleft, Computeren a Smartphonen ze léieren, sou datt si net zréckgelooss ginn. Géint d'Eensamkeet gëtt et e Service vum Rouden Kräiz, mam Numm Iris, wou ausgebilte Fräiwëlleger reegelméisseg isoléiert Leit besichen.",
-    "t": 332.3
+    "t": 337.25
    },
    {
     "speaker": "Tom",
     "text": "Just fir hinnen Gesellschaft ze leeschten. Dat ass schéin.",
-    "t": 349.85
+    "t": 354.8
    },
    {
     "speaker": "Anna",
     "text": "Dat ass et. A fir ganz schwéier Momenter — gëtt et palliativ Fleeg an Enn-vum-Liewen-Begleedung, an et gëtt Informatiounen iwwer Är Rechter a Wënsch fir d'Liewensenn. Sou deckt de System de ganze Wee of, mat Respekt.",
-    "t": 352.32
+    "t": 357.27
    },
    {
     "speaker": "Tom",
     "text": "Dat ass eng fürsuerglech Approche. A gëtt et eng Plaz, déi um Wëssen selwer schafft — Fuerschung, Ausbildung fir d'Leit, déi pfleegen?",
-    "t": 364.82
+    "t": 369.77
    },
    {
     "speaker": "Anna",
     "text": "Jo. Et gëtt e Kompetenzzenter fir d'Eelerwerden, de GERO, dee säit méi wéi fënnefandrësseg Joer existéiert. Et mécht dräi Saachen — Aktivitéiten a Léieren fir Senioren, Weiderbildung fir d'Fleegefachleit, a Fuerschung iwwer d'Eelerwerden. Sou verbessert sech d'Qualitéit ëmmer weider mat der Zäit.",
-    "t": 371.3
+    "t": 376.25
    },
    {
     "speaker": "Tom",
     "text": "Also bleift et net stoen. Gutt. Anna, loosse mer dat ganz konkret maachen. Kënne mer e Beispill huelen?",
-    "t": 388.87
+    "t": 393.82
    },
    {
     "speaker": "Anna",
     "text": "Natierlech. Stelle mer eis vir, Är Mamm ass aachtzeg, si wunnt eleng, a si ass nach zimmlech onofhängeg — awer Dir fänkt un, Iech e bësse Suergen ze maachen.",
-    "t": 393.94
+    "t": 398.89
    },
    {
     "speaker": "Tom",
     "text": "Eng ganz heefeg Situatioun. Also wat mécht Info-Seniors fir mech?",
-    "t": 401.69
+    "t": 406.64
    },
    {
     "speaker": "Anna",
     "text": "Dir gitt op d'Websäit, an Dir kuckt, wat passt. Vläicht, als éischt, just Iesse op Rieder, sou datt si all Dag gutt iesst. Vläicht en Teleassistenz-Knäppchen, fir d'Sécherheet, am Fall wou si falt. Vläicht e Club Aktiv Plus an der Noperschaft, sou datt si all Woch Leit gesäit.",
-    "t": 405.22
+    "t": 410.17
    },
    {
     "speaker": "Tom",
     "text": "Also kann ech eng Aart Pak bauen — e bësse Hëllef hei, e bësse do — fir si sécher doheem ze halen.",
-    "t": 418.99
+    "t": 423.94
    },
    {
     "speaker": "Anna",
     "text": "Genau. A méi spéit, wann si méi brauch, da wësst Dir scho, wou kucken — Dagesfleeg e puer Deeg an der Woch, da méi Fleeg doheem, an eréischt vill méi spéit, wann néideg, e Fleegeheem. Schrëtt fir Schrëtt, an hirem Tempo.",
-    "t": 424.57
+    "t": 429.52
    },
    {
     "speaker": "Tom",
     "text": "A fir all eenzel dovun seet mer de Register d'Konditiounen an d'Schrëtt.",
-    "t": 438.12
+    "t": 443.07
    },
    {
     "speaker": "Anna",
     "text": "Fir all eenzelen. Sou hutt Dir, amplaz a Panik ze geroden, eng roueg, kloer Kaart.",
-    "t": 441.96
+    "t": 446.91
    },
    {
     "speaker": "Tom",
     "text": "Dat gefält mer wierklech — eng roueg, kloer Kaart. A wann meng Mamm net vill schwätzt, oder Angscht virun der Technik huet?",
-    "t": 446.5
+    "t": 451.45
    },
    {
     "speaker": "Anna",
     "text": "Da kann de Service fir digital Fäegkeeten hir hëllefen, et sanft ze léieren. Oder e Fräiwëllege kann op Besuch kommen. De Punkt ass, et gëtt bal ëmmer eppes — Dir musst just wëssen, datt et existéiert. An dat ass genau, fir wat de Portal do ass — datt Dir wësst, datt et existéiert.",
-    "t": 452.3
+    "t": 457.25
    },
    {
     "speaker": "Tom",
     "text": "Elo, Anna — eng praktesch Suerg. Wat ass, wann ech e Problem mat engem Service hunn? Oder ech weess einfach net, wie froen?",
-    "t": 466.83
+    "t": 471.78
    },
    {
     "speaker": "Anna",
     "text": "Gutt Fro. Dir kënnt einfach d'Senioren-Telefon uruffen, op 247-86000, fir Informatioun a Berodung. A wann et eng Meenungsverschiddenheet mat engem Service gëtt, da gëtt et de SIMPA, den nationale Service fir Informatioun a Mediatioun — eng neutral Plaz, déi Iech hëlleft, eng Léisung ze fannen.",
-    "t": 472.94
+    "t": 477.89
    },
    {
     "speaker": "Tom",
     "text": "Also ass een ni komplett eleng domat.",
-    "t": 489.37
+    "t": 494.32
    },
    {
     "speaker": "Anna",
     "text": "Ni. Tëscht der Websäit, dem Register, an dësem Informatiouns- a Mediatiounsservice gëtt et ëmmer eng Dier, un déi ee klappe kann.",
-    "t": 491.64
+    "t": 496.59
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer eng Sekonn erauszoomen. Du hues gesot, dat ass Deel vun enger méi grousser Politik. Wat ass déi grouss Iddi?",
-    "t": 499.21
+    "t": 504.16
    },
    {
     "speaker": "Anna",
     "text": "Déi grouss Iddi ass dat, wat ee \"gutt eelerwerden\" nennt. De Staat wëll, datt eeler Leit esou onofhängeg wéi méiglech liewen, esou laang wéi méiglech — a Bestanddeel vun der Gesellschaft bleiwen, net op d'Säit gestouss. Sou deckt d'Aarbecht vill Saachen of — sech op d'Pensioun virbereeden, lieweslaangt Léieren, Benevolat, géint d'Isolatioun kämpfen, déi digital Welt, an d'Generatioune verbannen.",
-    "t": 504.19
+    "t": 509.14
    },
    {
     "speaker": "Tom",
     "text": "D'Generatioune verbannen — jonk an al zesummen.",
-    "t": 527.22
+    "t": 532.17
    },
    {
     "speaker": "Anna",
     "text": "Jo. D'Eelerwerden ass net just iwwer Fleeg. Et ass och iwwer aktiv, nëtzlech a verbonne bleiwen. An et gëtt och finanziell Ënnerstëtzung. Zënter 2026 hëlleft e System mam Numm COMPA, bezuelt vum Nationale Solidaritéitsfong, de Leit, déi net genuch Geld hunn, fir en agreéiert Fleegeheem oder e betreit Wunnen ze bezuelen.",
-    "t": 529.97
+    "t": 534.92
    },
    {
     "speaker": "Tom",
     "text": "Dat ass wichteg — datt d'Geld net d'Barrière sollt sinn, fir Fleeg ze kréien. Gutt, Anna, loosse mer et wierklech praktesch maachen. Wann ech nolauschteren, an ech — oder meng Elteren — kéinten e bësse Hëllef brauchen, wat maachen ech?",
-    "t": 549.31
+    "t": 554.26
    },
    {
     "speaker": "Anna",
     "text": "Ganz einfach. Gitt op d'Websäit — infosenior Punkt l-u. Kuckt duerch d'Ëffentlecht Register, fir agreéiert Servicer ze fannen — e Fleegeheem, Dagesfleeg, Hëllef doheem, Iessen, Teleassistenz — wat och ëmmer zum Besoin passt. Fir all eenzelen gesitt Dir, wat et ass, d'Konditiounen, an d'Schrëtt, déi ze maache sinn. A wann Dir net sécher sidd, benotzt den Informatiouns- a Mediatiounsservice, fir gefouert ze ginn.",
-    "t": 559.91
+    "t": 564.86
    },
    {
     "speaker": "Tom",
     "text": "A well et offiziell ass, kann ech deem vertrauen, wat ech do fannen.",
-    "t": 582.82
+    "t": 587.77
    },
    {
     "speaker": "Anna",
     "text": "Genau. Offiziell, gratis, a qualitéitskontrolléiert. Dat ass de ganze Sënn dovun.",
-    "t": 585.72
+    "t": 590.67
    },
    {
     "speaker": "Tom",
     "text": "E kuerze Resumé fir ofzeschléissen?",
-    "t": 591
+    "t": 595.95
    },
    {
     "speaker": "Anna",
     "text": "Gär. Info-Seniors, op infosenior Punkt l-u, ass de Staat säin Informatiounsportal fir eeler Leit zu Lëtzebuerg. Säin Häerz ass d'Ëffentlecht Register vun de Servicer fir Senioren — eng zouverlässeg, reegelméisseg aktualiséiert Lëscht vun de Servicer, déi vum Ministère agreéiert a kontrolléiert sinn. Dir fannt Fleegeheemer, betreit Wunnen, Dagesfleeg, Hëllef doheem a Fleeg, Iesse op Rieder, Teleassistenz, a Senioren-Aktivitéiten — mat de Konditiounen an de Schrëtt fir all eenzelen.",
-    "t": 592.58
+    "t": 597.53
    },
    {
     "speaker": "Tom",
     "text": "An d'Message fir haut?",
-    "t": 620.81
+    "t": 625.76
    },
    {
     "speaker": "Anna",
     "text": "Wann et ëm d'Eelerwerden geet — Ärt, oder dat vun engem léiwe Mënsch — da musst Dir net blann sichen. Et gëtt eng offiziell, vertrauenswierdeg Plaz, fir unzefänken, an et gëtt Hëllef, fir Iech ze féieren.",
-    "t": 622.29
+    "t": 627.24
    },
    {
     "speaker": "Tom",
     "text": "Also... egal ob et fir Iech selwer, Är Elteren, oder en Noper ass — merkt Iech den Numm. Info-Seniors. infosenior.lu.",
-    "t": 631.58
+    "t": 636.53
    },
    {
     "speaker": "Anna",
     "text": "Wierklech. Eng Websäit, an e ganzt Netzwierk vun Ënnerstëtzung dohannert. Dat war eis Episod iwwer Info-Seniors. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 639.65
+    "t": 644.6
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 687.4
+    "t": 692.35
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 690.6
+    "t": 695.56
    }
   ],
   "audio_fr": "podcast_infosenior_fr.mp3",
-  "duration_fr": 657.84,
+  "duration_fr": 660.85,
   "title_fr": "Info-Seniors – trouver la bonne aide pour les personnes âgées",
   "description_fr": "Le portail d'information officiel de l'État pour les personnes âgées au Luxembourg, infosenior.lu, géré par le ministère de la Famille. En son cœur : le Registre public des services pour personnes âgées, agréés et contrôlés en qualité — maisons de soins, logement encadré, accueil de jour, aide à domicile, repas sur roues, télévigilance et activités. Qui il aide et comment, ainsi qu'un soutien autour de la démence, de l'isolement et de la médiation, et vers qui se tourner pour trouver la bonne aide pour un proche.",
   "topics_fr": [
@@ -29716,7 +29716,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_infosenior_de.mp3",
-  "duration_de": 781.14,
+  "duration_de": 786.42,
   "title_de": "Info-Seniors – die richtige Hilfe für ältere Menschen finden",
   "description_de": "Das offizielle Informationsportal des Staates für ältere Menschen in Luxemburg, infosenior.lu, betrieben vom Familienministerium. Im Mittelpunkt steht das Öffentliche Register der Seniorendienste, die zugelassen und auf Qualität geprüft sind — Pflegeheime, betreutes Wohnen, Tagesbetreuung, Haushaltshilfe, Essen auf Rädern, Telealarm und Aktivitäten. Wem es hilft und wie, dazu Unterstützung rund um Demenz, Isolation und Mediation, und an wen Sie sich wenden, um die richtige Hilfe für einen Angehörigen zu finden.",
   "topics_de": [
@@ -44691,7 +44691,7 @@ const EPISODES = [
   "title": "The National Solidarity Fund – Luxembourg’s Safety Net",
   "description": "The Fonds national de solidarité (FNS, fns.lu) is Luxembourg’s safety net against poverty. It manages the social inclusion income (REVIS), the cost-of-living allowance with the energy premium and senior aid, an income for severely disabled persons, advances on unpaid child maintenance, a supplement for older people in care, and the child-raising pension (‘Mammerent’). Forms and an online calculator are on fns.lu – and REVIS recipients get the cost-of-living allowance automatically.",
   "audio": "podcast_fns.mp3",
-  "duration": 828.58,
+  "duration": 832.6,
   "topics": [
    "The FNS – the State safety net",
    "REVIS – guaranteed minimum income",
@@ -44795,1013 +44795,1013 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "It's run under the Ministry of Family.",
-    "t": 60.46
+    "text": "It's run under the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 60.7
    },
    {
     "speaker": "Tom",
     "text": "And its mission, very simply, is the fight against poverty.",
-    "t": 62.6
+    "t": 66.53
    },
    {
     "speaker": "Anna",
     "text": "So this is the country's safety net.",
-    "t": 66.28
+    "t": 70.29
    },
    {
     "speaker": "Tom",
     "text": "That's exactly the right word.",
-    "t": 68.7
+    "t": 72.71
    },
    {
     "speaker": "Tom",
     "text": "A safety net.",
-    "t": 70.22
+    "t": 74.23
    },
    {
     "speaker": "Tom",
     "text": "When someone's income is too low to live with dignity — because of a job loss, an illness, old age, a separation, or simply low pay — the FNS is there.",
-    "t": 71.45
+    "t": 75.46
    },
    {
     "speaker": "Tom",
     "text": "Its home on the internet is f-n-s dot l-u.",
-    "t": 80.98
+    "t": 84.99
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. And it's official — the State.",
-    "t": 83.88
+    "t": 87.89
    },
    {
     "speaker": "Tom",
     "text": "Completely official. Not a charity, not a private fund.",
-    "t": 87.52
+    "t": 91.53
    },
    {
     "speaker": "Tom",
     "text": "It's the State, organising solidarity for everyone who needs it.",
-    "t": 91.5
+    "t": 95.51
    },
    {
     "speaker": "Anna",
     "text": "Okay. So who is it for?",
-    "t": 94.82
+    "t": 98.83
    },
    {
     "speaker": "Anna",
     "text": "Who can knock on this door?",
-    "t": 97.19
+    "t": 101.2
    },
    {
     "speaker": "Tom",
     "text": "Mostly people who live in Luxembourg and whose income is modest, or who are in a difficult situation.",
-    "t": 98.94
+    "t": 102.95
    },
    {
     "speaker": "Tom",
     "text": "Now — the FNS doesn't do just one thing.",
-    "t": 104.91
+    "t": 108.92
    },
    {
     "speaker": "Tom",
     "text": "It manages a whole set of different helps.",
-    "t": 107.07
+    "t": 111.08
    },
    {
     "speaker": "Tom",
     "text": "Let me walk through the main ones.",
-    "t": 109.95
+    "t": 113.96
    },
    {
     "speaker": "Anna",
     "text": "Yes, let's go through them one by one.",
-    "t": 111.85
+    "t": 115.86
    },
    {
     "speaker": "Anna",
     "text": "Where do we start?",
-    "t": 113.84
+    "t": 117.85
    },
    {
     "speaker": "Tom",
     "text": "Let's start with the biggest one.",
-    "t": 115.3
+    "t": 119.31
    },
    {
     "speaker": "Tom",
     "text": "It's called the social inclusion income — in French, the revenu d'inclusion sociale.",
-    "t": 116.97
+    "t": 120.98
    },
    {
     "speaker": "Tom",
     "text": "The short name is REVIS.",
-    "t": 122.59
+    "t": 126.6
    },
    {
     "speaker": "Anna",
     "text": "REVIS. What is it?",
-    "t": 124.38
+    "t": 128.39
    },
    {
     "speaker": "Tom",
     "text": "REVIS is the guaranteed minimum income.",
-    "t": 125.88
+    "t": 129.89
    },
    {
     "speaker": "Tom",
     "text": "The idea is simple but powerful — in Luxembourg, nobody should fall below a certain basic level.",
-    "t": 128.45
+    "t": 132.46
    },
    {
     "speaker": "Tom",
     "text": "If your household income is under that level, REVIS tops you up to it.",
-    "t": 134.68
+    "t": 138.69
    },
    {
     "speaker": "Anna",
     "text": "So it makes sure you always have a minimum to live on.",
-    "t": 138.57
+    "t": 142.58
    },
    {
     "speaker": "Tom",
     "text": "Exactly. A floor, below which the State doesn't let you fall.",
-    "t": 141.74
+    "t": 145.75
    },
    {
     "speaker": "Tom",
     "text": "The amount depends on your household — how many adults, how many children.",
-    "t": 145.93
+    "t": 149.94
    },
    {
     "speaker": "Tom",
     "text": "There's a base amount for the first adult, more for a second adult, and an amount for each child.",
-    "t": 149.71
+    "t": 153.72
    },
    {
     "speaker": "Anna",
     "text": "So a single person gets one level, and a bigger family gets more, because they need more.",
-    "t": 155.8
+    "t": 159.81
    },
    {
     "speaker": "Tom",
     "text": "Precisely. It's calculated for the whole household, and it counts the income you already have.",
-    "t": 161.45
+    "t": 165.46
    },
    {
     "speaker": "Tom",
     "text": "REVIS fills the gap between what you have and the minimum you're entitled to.",
-    "t": 167.02
+    "t": 171.03
    },
    {
     "speaker": "Anna",
     "text": "And is it only money?",
-    "t": 171.7
+    "t": 175.71
    },
    {
     "speaker": "Anna",
     "text": "Or is there more to it?",
-    "t": 173.15
+    "t": 177.16
    },
    {
     "speaker": "Tom",
     "text": "That's the clever part of REVIS.",
-    "t": 174.74
+    "t": 178.75
    },
    {
     "speaker": "Tom",
     "text": "It's not only a cheque.",
-    "t": 176.46
+    "t": 180.47
    },
    {
     "speaker": "Tom",
     "text": "The word \"inclusion\" is important.",
-    "t": 177.91
+    "t": 181.92
    },
    {
     "speaker": "Tom",
     "text": "There's also a side that helps people get back on their feet — activation, they call it.",
-    "t": 180.12
+    "t": 184.13
    },
    {
     "speaker": "Tom",
     "text": "Support to find work, training, or useful activity, so the help is a bridge, not a dead end.",
-    "t": 184.8
+    "t": 188.81
    },
    {
     "speaker": "Anna",
     "text": "I like that — money to live on, and a hand to move forward.",
-    "t": 191.4
+    "t": 195.41
    },
    {
     "speaker": "Tom",
     "text": "That's the whole philosophy.",
-    "t": 195.06
+    "t": 199.07
    },
    {
     "speaker": "Tom",
     "text": "And if someone takes part in an activation measure — like community work as part of their plan — there can be an activation allowance on top.",
-    "t": 196.55
+    "t": 200.56
    },
    {
     "speaker": "Anna",
     "text": "Good. So that's REVIS — the minimum income.",
-    "t": 204.35
+    "t": 208.36
    },
    {
     "speaker": "Anna",
     "text": "What's the second big help?",
-    "t": 207.64
+    "t": 211.65
    },
    {
     "speaker": "Tom",
     "text": "The second is something many more people can get — the cost-of-living allowance.",
-    "t": 209.78
+    "t": 213.79
    },
    {
     "speaker": "Tom",
     "text": "In French, the allocation de vie chère.",
-    "t": 214.68
+    "t": 218.69
    },
    {
     "speaker": "Anna",
     "text": "The cost-of-living allowance.",
-    "t": 217.1
+    "t": 221.11
    },
    {
     "speaker": "Anna",
     "text": "Tell me about it.",
-    "t": 218.93
+    "t": 222.94
    },
    {
     "speaker": "Tom",
     "text": "It's a yearly payment to help modest-income households with the rising cost of everyday life.",
-    "t": 220.35
+    "t": 224.36
    },
    {
     "speaker": "Tom",
     "text": "And here's the key — you don't have to be on REVIS to get it.",
-    "t": 226.07
+    "t": 230.08
    },
    {
     "speaker": "Tom",
     "text": "You can be working, on a small or medium salary, and still qualify, as long as your income is under a certain limit.",
-    "t": 229.52
+    "t": 233.53
    },
    {
     "speaker": "Anna",
     "text": "Ah, so this reaches a lot of ordinary households — people who work, but for whom every euro counts.",
-    "t": 236.23
+    "t": 240.24
    },
    {
     "speaker": "Tom",
     "text": "Exactly. And the amount depends on the size of your household.",
-    "t": 242.85
+    "t": 246.86
    },
    {
     "speaker": "Tom",
     "text": "A single person gets one amount, a couple more, a family more again.",
-    "t": 246.67
+    "t": 250.68
    },
    {
     "speaker": "Tom",
     "text": "For a single person, it's more than one thousand eight hundred euros a year — and more for bigger households.",
-    "t": 251.9
+    "t": 255.91
    },
    {
     "speaker": "Anna",
     "text": "That's a real, meaningful sum.",
-    "t": 257.79
+    "t": 261.8
    },
    {
     "speaker": "Anna",
     "text": "And you said there's more attached to it?",
-    "t": 259.8
+    "t": 263.81
    },
    {
     "speaker": "Tom",
     "text": "Yes — and this is important with today's energy prices.",
-    "t": 262.01
+    "t": 266.02
    },
    {
     "speaker": "Tom",
     "text": "Together with the cost-of-living allowance, there's an energy premium — extra help with heating and electricity bills.",
-    "t": 265.72
+    "t": 269.73
    },
    {
     "speaker": "Tom",
     "text": "And for older people on a small income, there can be an extra financial aid for seniors as well.",
-    "t": 273.41
+    "t": 277.42
    },
    {
     "speaker": "Anna",
     "text": "So one application can open three doors — cost-of-living, energy, and senior aid.",
-    "t": 278.68
+    "t": 282.69
    },
    {
     "speaker": "Tom",
     "text": "One application, yes.",
-    "t": 284.21
+    "t": 288.22
    },
    {
     "speaker": "Tom",
     "text": "And here's a wonderful detail — if you already receive REVIS, you don't even have to apply.",
-    "t": 285.67
+    "t": 289.68
    },
    {
     "speaker": "Tom",
     "text": "The cost-of-living allowance, the energy premium, and the senior aid come to you automatically.",
-    "t": 290.95
+    "t": 294.96
    },
    {
     "speaker": "Anna",
     "text": "That's thoughtful — the people who need it most don't have to fill in another form.",
-    "t": 296.2
+    "t": 300.21
    },
    {
     "speaker": "Tom",
     "text": "Right. And there's a change coming.",
-    "t": 300.77
+    "t": 304.78
    },
    {
     "speaker": "Tom",
     "text": "The government plans to merge these three helps — plus a new help for families with school children — into one single help, the complément vie chère, from 2027.",
-    "t": 302.07
+    "t": 306.08
    },
    {
     "speaker": "Tom",
     "text": "Then you'd apply only once, and it would continue as long as you qualify.",
-    "t": 313.5
+    "t": 317.51
    },
    {
     "speaker": "Tom",
     "text": "The law is still being discussed in Parliament, so check f-n-s dot l-u for the latest.",
-    "t": 317.77
+    "t": 321.78
    },
    {
     "speaker": "Tom",
     "text": "For now, everyone else applies with a form — and if you got it last year, the FNS sends you a pre-filled one at the end of the year.",
-    "t": 322.35
+    "t": 326.36
    },
    {
     "speaker": "Tom",
     "text": "And the FNS even has an online calculator, so you can check if you qualify before you apply.",
-    "t": 329.63
+    "t": 333.64
    },
    {
     "speaker": "Anna",
     "text": "A calculator — that's really helpful, so you're not applying blindly.",
-    "t": 335.94
+    "t": 339.95
    },
    {
     "speaker": "Anna",
     "text": "Okay Tom — what's next on the list?",
-    "t": 340.1
+    "t": 344.11
    },
    {
     "speaker": "Tom",
     "text": "The third help is for people living with a serious disability.",
-    "t": 342.68
+    "t": 346.69
    },
    {
     "speaker": "Tom",
     "text": "It's the income for severely disabled persons — in French, the revenu pour personnes gravement handicapées.",
-    "t": 346.16
+    "t": 350.17
    },
    {
     "speaker": "Anna",
     "text": "So a dedicated income for people who can't work because of a serious disability.",
-    "t": 353.09
+    "t": 357.1
    },
    {
     "speaker": "Tom",
     "text": "Exactly. For a person whose disability means they can't earn a living in the ordinary job market, the FNS provides a guaranteed income, so they too have a secure floor to stand on.",
-    "t": 357.82
+    "t": 361.83
    },
    {
     "speaker": "Anna",
     "text": "That's solidarity in the truest sense.",
-    "t": 369.2
+    "t": 373.21
    },
    {
     "speaker": "Anna",
     "text": "What comes next?",
-    "t": 371.59
+    "t": 375.6
    },
    {
     "speaker": "Tom",
     "text": "The fourth one is very different, and very practical.",
-    "t": 373.06
+    "t": 377.07
    },
    {
     "speaker": "Tom",
     "text": "It's about maintenance payments — what a parent is supposed to pay for their child after a separation.",
-    "t": 376.96
+    "t": 380.97
    },
    {
     "speaker": "Tom",
     "text": "In French, the pension alimentaire.",
-    "t": 382.69
+    "t": 386.7
    },
    {
     "speaker": "Anna",
     "text": "Ah — child support.",
-    "t": 385.08
+    "t": 389.09
    },
    {
     "speaker": "Anna",
     "text": "And what happens when it isn't paid?",
-    "t": 386.88
+    "t": 390.89
    },
    {
     "speaker": "Tom",
     "text": "That's exactly the problem the FNS solves.",
-    "t": 389.15
+    "t": 393.16
    },
    {
     "speaker": "Tom",
     "text": "Imagine a separated parent — often a mother — who is owed child support, but the other parent simply doesn't pay.",
-    "t": 391.79
+    "t": 395.8
    },
    {
     "speaker": "Tom",
     "text": "The child suffers.",
-    "t": 399.07
+    "t": 403.08
    },
    {
     "speaker": "Tom",
     "text": "So the FNS can step in, and advance that money.",
-    "t": 400.49
+    "t": 404.5
    },
    {
     "speaker": "Anna",
     "text": "Wait — so the State pays the support that the other parent didn't?",
-    "t": 403.76
+    "t": 407.77
    },
    {
     "speaker": "Tom",
     "text": "Within certain limits and conditions, yes.",
-    "t": 408
+    "t": 412.01
    },
    {
     "speaker": "Tom",
     "text": "The FNS advances the unpaid maintenance, so the child and the parent aren't left with nothing.",
-    "t": 410.22
+    "t": 414.23
    },
    {
     "speaker": "Tom",
     "text": "And then — this is the clever part — the FNS goes after the parent who didn't pay, to recover the money.",
-    "t": 415.78
+    "t": 419.79
    },
    {
     "speaker": "Tom",
     "text": "To ask for it, you need a court decision that sets the support — and a bailiff must first have tried to collect it.",
-    "t": 423.22
+    "t": 427.23
    },
    {
     "speaker": "Anna",
     "text": "So the State acts as a kind of guarantor, and then does the chasing itself.",
-    "t": 429.72
+    "t": 433.73
    },
    {
     "speaker": "Tom",
     "text": "Exactly. The vulnerable parent doesn't have to fight alone.",
-    "t": 434.46
+    "t": 438.47
    },
    {
     "speaker": "Tom",
     "text": "The FNS takes on that burden.",
-    "t": 437.93
+    "t": 441.94
    },
    {
     "speaker": "Tom",
     "text": "It's one of the most human things the Fund does.",
-    "t": 439.88
+    "t": 443.89
    },
    {
     "speaker": "Anna",
     "text": "That really is.",
-    "t": 442.89
+    "t": 446.9
    },
    {
     "speaker": "Anna",
     "text": "Okay — how many more?",
-    "t": 444.07
+    "t": 448.08
    },
    {
     "speaker": "Tom",
     "text": "Two more to mention.",
-    "t": 445.8
+    "t": 449.81
    },
    {
     "speaker": "Tom",
     "text": "The fifth is a supplement for older people who need care.",
-    "t": 446.99
+    "t": 451
    },
    {
     "speaker": "Tom",
     "text": "When someone goes into a care home, or assisted living, and their own income isn't enough to cover the cost, the FNS can help pay the difference.",
-    "t": 450.29
+    "t": 454.3
    },
    {
     "speaker": "Tom",
     "text": "It's called COMPA.",
-    "t": 458.78
+    "t": 462.79
    },
    {
     "speaker": "Anna",
     "text": "So an older person isn't turned away from care just because their pension is too small.",
-    "t": 460.23
+    "t": 464.24
    },
    {
     "speaker": "Tom",
     "text": "That's the idea.",
-    "t": 465.52
+    "t": 469.53
    },
    {
     "speaker": "Tom",
     "text": "Care according to need, not only according to your bank balance.",
-    "t": 466.72
+    "t": 470.73
    },
    {
     "speaker": "Tom",
     "text": "The Fund tops up what's missing, so dignity in old age is protected.",
-    "t": 470.07
+    "t": 474.08
    },
    {
     "speaker": "Anna",
     "text": "And the sixth?",
-    "t": 474.56
+    "t": 478.57
    },
    {
     "speaker": "Tom",
     "text": "The sixth is the child-raising pension.",
-    "t": 475.87
+    "t": 479.88
    },
    {
     "speaker": "Tom",
     "text": "In Luxembourgish, people call it the \"Mammerent\".",
-    "t": 478.43
+    "t": 482.44
    },
    {
     "speaker": "Tom",
     "text": "It's a small monthly amount for parents — historically mothers — who spent years raising children and so built up less pension of their own.",
-    "t": 481.72
+    "t": 485.73
    },
    {
     "speaker": "Anna",
     "text": "Ah — so it recognises the years given to raising a family.",
-    "t": 489.06
+    "t": 493.07
    },
    {
     "speaker": "Tom",
     "text": "Exactly. It's a way of saying — that work mattered too.",
-    "t": 492.96
+    "t": 496.97
    },
    {
     "speaker": "Tom",
     "text": "It's a modest amount each month, but it honours those years.",
-    "t": 497.23
+    "t": 501.24
    },
    {
     "speaker": "Anna",
     "text": "So let's gather them up.",
-    "t": 500.45
+    "t": 504.46
    },
    {
     "speaker": "Anna",
     "text": "We have REVIS, the minimum income.",
-    "t": 501.97
+    "t": 505.98
    },
    {
     "speaker": "Anna",
     "text": "The cost-of-living allowance, with energy premium and senior aid.",
-    "t": 504.82
+    "t": 508.83
    },
    {
     "speaker": "Anna",
     "text": "The income for severely disabled persons.",
-    "t": 508.55
+    "t": 512.56
    },
    {
     "speaker": "Anna",
     "text": "The advance on maintenance payments.",
-    "t": 511.35
+    "t": 515.36
    },
    {
     "speaker": "Anna",
     "text": "The supplement for older people in care.",
-    "t": 513.76
+    "t": 517.77
    },
    {
     "speaker": "Anna",
     "text": "And the child-raising pension, the Mammerent.",
-    "t": 516.19
+    "t": 520.2
    },
    {
     "speaker": "Tom",
     "text": "Six helps, one office.",
-    "t": 519.43
+    "t": 523.44
    },
    {
     "speaker": "Tom",
     "text": "And behind them all, one single idea — that in Luxembourg, no one should be left to fall.",
-    "t": 521.47
+    "t": 525.48
    },
    {
     "speaker": "Anna",
     "text": "Tom, let me ask the practical question.",
-    "t": 527.09
+    "t": 531.1
    },
    {
     "speaker": "Anna",
     "text": "How does someone actually apply?",
-    "t": 529.7
+    "t": 533.71
    },
    {
     "speaker": "Anna",
     "text": "It sounds like it could be complicated.",
-    "t": 531.94
+    "t": 535.95
    },
    {
     "speaker": "Tom",
     "text": "It's more approachable than people fear.",
-    "t": 534.27
+    "t": 538.28
    },
    {
     "speaker": "Tom",
     "text": "Everything starts at the website, f-n-s dot l-u.",
-    "t": 536.48
+    "t": 540.49
    },
    {
     "speaker": "Tom",
     "text": "There you find each help explained, with the conditions, and the forms.",
-    "t": 539.6
+    "t": 543.61
    },
    {
     "speaker": "Anna",
     "text": "And can you do it online?",
-    "t": 543.51
+    "t": 547.52
    },
    {
     "speaker": "Tom",
     "text": "Partly. On the website you find the forms — and, for the cost-of-living allowance, that online calculator.",
-    "t": 545.27
+    "t": 549.28
    },
    {
     "speaker": "Tom",
     "text": "But mostly, you fill in a paper form.",
-    "t": 552.55
+    "t": 556.56
    },
    {
     "speaker": "Tom",
     "text": "You download it, or pick it up at the FNS counter, sign it, and send it by post or hand it in.",
-    "t": 554.64
+    "t": 558.65
    },
    {
     "speaker": "Tom",
     "text": "And the social office of your commune can help you fill it in.",
-    "t": 559.94
+    "t": 563.95
    },
    {
     "speaker": "Anna",
     "text": "And if someone is confused, or doesn't know which help is for them?",
-    "t": 563.17
+    "t": 567.18
    },
    {
     "speaker": "Tom",
     "text": "Then they can contact the FNS directly — by phone, by email, or in person.",
-    "t": 567.08
+    "t": 571.09
    },
    {
     "speaker": "Tom",
     "text": "The offices are on the rue de la Fonderie, in Luxembourg City — the counter is open in the mornings.",
-    "t": 572.43
+    "t": 576.44
    },
    {
     "speaker": "Tom",
     "text": "And honestly, that first phone call is often the most important step.",
-    "t": 578.05
+    "t": 582.06
    },
    {
     "speaker": "Tom",
     "text": "Because many people don't claim what they're entitled to — simply because they don't know it exists.",
-    "t": 582.16
+    "t": 586.17
    },
    {
     "speaker": "Anna",
     "text": "That's such an important point.",
-    "t": 587.54
+    "t": 591.55
    },
    {
     "speaker": "Anna",
     "text": "Help that you don't know about doesn't help you.",
-    "t": 589.49
+    "t": 593.5
    },
    {
     "speaker": "Tom",
     "text": "That's the whole reason we're doing this episode.",
-    "t": 592.2
+    "t": 596.21
    },
    {
     "speaker": "Tom",
     "text": "There is money and support waiting — but you have to reach for it.",
-    "t": 594.35
+    "t": 598.36
    },
    {
     "speaker": "Anna",
     "text": "Let's make it real, Tom.",
-    "t": 598.27
+    "t": 602.28
    },
    {
     "speaker": "Anna",
     "text": "Can we follow one person?",
-    "t": 599.85
+    "t": 603.86
    },
    {
     "speaker": "Tom",
     "text": "Of course. Let's imagine a woman — let's call her Sofia.",
-    "t": 601.69
+    "t": 605.7
    },
    {
     "speaker": "Tom",
     "text": "She's recently separated, she has two young children, and she works part-time on a small salary.",
-    "t": 605.77
+    "t": 609.78
    },
    {
     "speaker": "Anna",
     "text": "A very real situation.",
-    "t": 611.16
+    "t": 615.17
    },
    {
     "speaker": "Anna",
     "text": "Where does the FNS come in for Sofia?",
-    "t": 612.94
+    "t": 616.95
    },
    {
     "speaker": "Tom",
     "text": "In several places at once.",
-    "t": 615.46
+    "t": 619.47
    },
    {
     "speaker": "Tom",
     "text": "First — her income is low, so she may qualify for the cost-of-living allowance, with the energy premium, to help through the year.",
-    "t": 616.96
+    "t": 620.97
    },
    {
     "speaker": "Anna",
     "text": "That's the yearly boost.",
-    "t": 624.12
+    "t": 628.13
    },
    {
     "speaker": "Tom",
     "text": "Yes. Second — her ex-partner is supposed to pay child support, but he's stopped.",
-    "t": 625.86
+    "t": 629.87
    },
    {
     "speaker": "Tom",
     "text": "So the FNS can advance that maintenance, and chase him for it — so her children don't go without.",
-    "t": 631.15
+    "t": 635.16
    },
    {
     "speaker": "Anna",
     "text": "That takes a huge weight off her shoulders.",
-    "t": 636.86
+    "t": 640.87
    },
    {
     "speaker": "Tom",
     "text": "A huge weight.",
-    "t": 639.28
+    "t": 643.29
    },
    {
     "speaker": "Tom",
     "text": "And third — if even with her salary the household is still below the minimum, REVIS can top her up to that floor — and at the same time, help her with training or finding more work.",
-    "t": 640.64
+    "t": 644.65
    },
    {
     "speaker": "Anna",
     "text": "So from one office, Sofia gets a yearly allowance, her children's support secured, and a guaranteed minimum with a path forward.",
-    "t": 652.12
+    "t": 656.13
    },
    {
     "speaker": "Tom",
     "text": "All from one place.",
-    "t": 660.13
+    "t": 664.14
    },
    {
     "speaker": "Tom",
     "text": "That's the power of having a single solidarity fund.",
-    "t": 661.57
+    "t": 665.58
    },
    {
     "speaker": "Tom",
     "text": "It can wrap several supports around the same family.",
-    "t": 664.3
+    "t": 668.31
    },
    {
     "speaker": "Anna",
     "text": "And the key, again, is that she has to know to ask.",
-    "t": 667.28
+    "t": 671.29
    },
    {
     "speaker": "Tom",
     "text": "That's the key.",
-    "t": 670.79
+    "t": 674.8
    },
    {
     "speaker": "Tom",
     "text": "Which is why, if you take one thing from today — it's this.",
-    "t": 671.84
+    "t": 675.85
    },
    {
     "speaker": "Tom",
     "text": "If money is tight, don't suffer in silence.",
-    "t": 675.47
+    "t": 679.48
    },
    {
     "speaker": "Tom",
     "text": "Check the FNS.",
-    "t": 678.78
+    "t": 682.79
    },
    {
     "speaker": "Tom",
     "text": "You may be entitled to far more than you think.",
-    "t": 680.24
+    "t": 684.25
    },
    {
     "speaker": "Anna",
     "text": "Okay Tom, let's bring it home.",
-    "t": 682.88
+    "t": 686.89
    },
    {
     "speaker": "Anna",
     "text": "If I'm listening, and things are difficult, what do I do?",
-    "t": 684.84
+    "t": 688.85
    },
    {
     "speaker": "Tom",
     "text": "Three simple steps.",
-    "t": 688.15
+    "t": 692.16
    },
    {
     "speaker": "Tom",
     "text": "First — go to the website, f-n-s dot l-u.",
-    "t": 689.35
+    "t": 693.36
    },
    {
     "speaker": "Tom",
     "text": "Look at the helps, and see which ones fit your situation.",
-    "t": 693.04
+    "t": 697.05
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. Got it.",
-    "t": 696.41
+    "t": 700.42
    },
    {
     "speaker": "Tom",
     "text": "Second — if your income is modest, use the cost-of-living calculator, and apply.",
-    "t": 698.5
+    "t": 702.51
    },
    {
     "speaker": "Tom",
     "text": "And if you're on REVIS already, remember — that one comes automatically.",
-    "t": 703.78
+    "t": 707.79
    },
    {
     "speaker": "Anna",
     "text": "And third?",
-    "t": 708.01
+    "t": 712.02
    },
    {
     "speaker": "Tom",
     "text": "Third — if you're not sure, just contact them.",
-    "t": 709.18
+    "t": 713.19
    },
    {
     "speaker": "Tom",
     "text": "A phone call, an email, a visit.",
-    "t": 711.59
+    "t": 715.6
    },
    {
     "speaker": "Tom",
     "text": "Ask the question.",
-    "t": 713.67
+    "t": 717.68
    },
    {
     "speaker": "Tom",
     "text": "There's no shame in solidarity — that's literally what the Fund is for.",
-    "t": 714.96
+    "t": 718.97
    },
    {
     "speaker": "Anna",
     "text": "A short summary to finish?",
-    "t": 719.04
+    "t": 723.05
    },
    {
     "speaker": "Tom",
     "text": "Sure. The National Solidarity Fund — the FNS, fns.lu — is Luxembourg's safety net against poverty.",
-    "t": 720.84
+    "t": 724.85
    },
    {
     "speaker": "Tom",
     "text": "It manages REVIS, the guaranteed minimum income; the cost-of-living allowance with the energy premium and senior aid; an income for severely disabled persons; advances on unpaid child maintenance; a supplement for older people in care; and the child-raising pension, the Mammerent.",
-    "t": 728.45
+    "t": 732.46
    },
    {
     "speaker": "Tom",
     "text": "You find all the forms on fns.lu — and REVIS recipients get the cost-of-living allowance automatically.",
-    "t": 744.79
+    "t": 748.8
    },
    {
     "speaker": "Anna",
     "text": "And the message for today?",
-    "t": 751.67
+    "t": 755.68
    },
    {
     "speaker": "Tom",
     "text": "Solidarity in Luxembourg isn't just a word — it's an office, with a budget, and a phone number.",
-    "t": 753.37
+    "t": 757.38
    },
    {
     "speaker": "Tom",
     "text": "If life gets hard, that net is real, and it's there for you.",
-    "t": 759.45
+    "t": 763.46
    },
    {
     "speaker": "Tom",
     "text": "You only have to reach for it.",
-    "t": 763.57
+    "t": 767.58
    },
    {
     "speaker": "Anna",
     "text": "So... if you, or someone you know, is struggling — remember the name.",
-    "t": 765.07
+    "t": 769.08
    },
    {
     "speaker": "Anna",
     "text": "The National Solidarity Fund.",
-    "t": 770.55
+    "t": 774.56
    },
    {
     "speaker": "Anna",
     "text": "fns.lu.",
-    "t": 772.66
+    "t": 776.67
    },
    {
     "speaker": "Tom",
     "text": "One fund, holding up everyone who needs it.",
-    "t": 774.52
+    "t": 778.53
    },
    {
     "speaker": "Tom",
     "text": "That's what solidarity means.",
-    "t": 777.32
+    "t": 781.33
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the National Solidarity Fund.",
-    "t": 779.15
+    "t": 783.16
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 782.37
+    "t": 786.38
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 791.86
+    "t": 795.87
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 810.15
+    "t": 814.16
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 816.9
+    "t": 820.91
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 819.1
+    "t": 823.11
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 823.79
+    "t": 827.8
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 824.87
+    "t": 828.89
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 826.99
+    "t": 831.01
    }
   ],
   "questions": [
@@ -45880,1062 +45880,1062 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et le sujet d'aujourd'hui est, je crois, l'un des plus importants de tous.",
-    "t": 23.07
+    "t": 23.13
    },
    {
     "speaker": "Tom",
     "text": "Il parle de solidarité — de l'aide qui est là quand la vie devient difficile.",
-    "t": 28.27
+    "t": 28.33
    },
    {
     "speaker": "Anna",
     "text": "Et il y a un organisme au cœur de tout ça.",
-    "t": 33.15
+    "t": 33.21
    },
    {
     "speaker": "Anna",
     "text": "Tom, comment s'appelle-t-il ?",
-    "t": 35.19
+    "t": 35.25
    },
    {
     "speaker": "Tom",
     "text": "Il s'appelle le Fonds national de solidarité.",
-    "t": 36.77
+    "t": 36.83
    },
    {
     "speaker": "Tom",
     "text": "Les gens disent souvent juste le nom court — F-N-S.",
-    "t": 39.41
+    "t": 39.47
    },
    {
     "speaker": "Anna",
     "text": "Le Fonds national de solidarité.",
-    "t": 43.81
+    "t": 43.87
    },
    {
     "speaker": "Anna",
     "text": "C'est un beau nom.",
-    "t": 45.89
+    "t": 45.95
    },
    {
     "speaker": "Anna",
     "text": "Commençons simplement. Qu'est-ce que c'est ?",
-    "t": 46.93
+    "t": 46.99
    },
    {
     "speaker": "Tom",
     "text": "Le FNS est un organisme public dont tout le travail est d'aider les personnes qui rencontrent des difficultés financières.",
-    "t": 49.13
+    "t": 49.19
    },
    {
     "speaker": "Tom",
-    "text": "Il dépend du ministère de la Famille.",
-    "t": 56.01
+    "text": "Il dépend du Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 55.67
    },
    {
     "speaker": "Tom",
     "text": "Et sa mission, très simplement, c'est la lutte contre la pauvreté.",
-    "t": 58.1
+    "t": 61.04
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est le filet de sécurité du pays.",
-    "t": 61.62
+    "t": 64.56
    },
    {
     "speaker": "Tom",
     "text": "C'est exactement le bon mot.",
-    "t": 63.86
+    "t": 66.8
    },
    {
     "speaker": "Tom",
     "text": "Un filet de sécurité.",
-    "t": 65.55
+    "t": 68.49
    },
    {
     "speaker": "Tom",
     "text": "Quand le revenu de quelqu'un est trop bas pour vivre dignement — à cause d'une perte d'emploi, d'une maladie, de la vieillesse, d'une séparation, ou tout simplement d'un faible salaire — le FNS est là.",
-    "t": 67.13
+    "t": 70.07
    },
    {
     "speaker": "Tom",
     "text": "Sa maison sur internet, c'est f-n-s point l-u.",
-    "t": 77.75
+    "t": 80.69
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. Et c'est officiel — c'est l'État.",
-    "t": 81.23
+    "t": 84.17
    },
    {
     "speaker": "Tom",
     "text": "Tout à fait officiel.",
-    "t": 84.51
+    "t": 87.45
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas une association caritative, ni un fonds privé.",
-    "t": 85.92
+    "t": 88.86
    },
    {
     "speaker": "Tom",
     "text": "C'est l'État, qui organise la solidarité pour toutes celles et ceux qui en ont besoin.",
-    "t": 89.33
+    "t": 92.27
    },
    {
     "speaker": "Anna",
     "text": "D'accord. Alors, à qui s'adresse-t-il ?",
-    "t": 94.12
+    "t": 97.06
    },
    {
     "speaker": "Anna",
     "text": "Qui peut frapper à cette porte ?",
-    "t": 97.08
+    "t": 100.02
    },
    {
     "speaker": "Tom",
     "text": "Surtout les personnes qui vivent au Luxembourg et dont le revenu est modeste, ou qui se trouvent dans une situation difficile.",
-    "t": 98.72
+    "t": 101.66
    },
    {
     "speaker": "Tom",
     "text": "Maintenant — le FNS ne fait pas qu'une seule chose.",
-    "t": 105.39
+    "t": 108.33
    },
    {
     "speaker": "Tom",
     "text": "Il gère tout un ensemble d'aides différentes.",
-    "t": 108.49
+    "t": 111.43
    },
    {
     "speaker": "Tom",
     "text": "Laisse-moi te présenter les principales.",
-    "t": 110.99
+    "t": 113.93
    },
    {
     "speaker": "Anna",
     "text": "Oui, passons-les en revue une par une.",
-    "t": 113.14
+    "t": 116.08
    },
    {
     "speaker": "Anna",
     "text": "Par où commençons-nous ?",
-    "t": 115.29
+    "t": 118.23
    },
    {
     "speaker": "Tom",
     "text": "Commençons par la plus importante.",
-    "t": 116.76
+    "t": 119.7
    },
    {
     "speaker": "Tom",
     "text": "Elle s'appelle le revenu d'inclusion sociale.",
-    "t": 118.71
+    "t": 121.65
    },
    {
     "speaker": "Tom",
     "text": "Le nom court, c'est REVIS.",
-    "t": 121.13
+    "t": 124.07
    },
    {
     "speaker": "Anna",
     "text": "REVIS. Qu'est-ce que c'est ?",
-    "t": 123.02
+    "t": 125.96
    },
    {
     "speaker": "Tom",
     "text": "Le REVIS, c'est le revenu minimum garanti.",
-    "t": 125.14
+    "t": 128.08
    },
    {
     "speaker": "Tom",
     "text": "L'idée est simple mais puissante — au Luxembourg, personne ne devrait tomber en dessous d'un certain niveau de base.",
-    "t": 127.94
+    "t": 130.88
    },
    {
     "speaker": "Tom",
     "text": "Si le revenu de votre ménage est en dessous de ce niveau, le REVIS le complète pour l'atteindre.",
-    "t": 134.2
+    "t": 137.14
    },
    {
     "speaker": "Anna",
     "text": "Donc ça garantit que vous avez toujours un minimum pour vivre.",
-    "t": 139.81
+    "t": 142.75
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Un seuil, en dessous duquel l'État ne vous laisse pas tomber.",
-    "t": 142.83
+    "t": 145.77
    },
    {
     "speaker": "Tom",
     "text": "Le montant dépend de votre ménage — combien d'adultes, combien d'enfants.",
-    "t": 146.88
+    "t": 149.82
    },
    {
     "speaker": "Tom",
     "text": "Il y a un montant de base pour le premier adulte, davantage pour un second adulte, et un montant pour chaque enfant.",
-    "t": 150.94
+    "t": 153.88
    },
    {
     "speaker": "Anna",
     "text": "Donc une personne seule reçoit un niveau, et une famille plus grande reçoit davantage, parce qu'elle a besoin de plus.",
-    "t": 157.24
+    "t": 160.18
    },
    {
     "speaker": "Tom",
     "text": "Précisément. C'est calculé pour l'ensemble du ménage, et ça tient compte du revenu que vous avez déjà.",
-    "t": 162.81
+    "t": 165.75
    },
    {
     "speaker": "Tom",
     "text": "Le REVIS comble l'écart entre ce que vous avez et le minimum auquel vous avez droit.",
-    "t": 168.33
+    "t": 171.27
    },
    {
     "speaker": "Anna",
     "text": "Et est-ce que c'est seulement de l'argent ?",
-    "t": 173.51
+    "t": 176.45
    },
    {
     "speaker": "Anna",
     "text": "Ou est-ce qu'il y a plus que ça ?",
-    "t": 175.48
+    "t": 178.42
    },
    {
     "speaker": "Tom",
     "text": "C'est ça, l'aspect ingénieux du REVIS.",
-    "t": 177.54
+    "t": 180.48
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas seulement un chèque.",
-    "t": 179.81
+    "t": 182.75
    },
    {
     "speaker": "Tom",
     "text": "Le mot « inclusion » est important.",
-    "t": 181.51
+    "t": 184.45
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi un volet qui aide les gens à se remettre debout — l'activation, comme on l'appelle.",
-    "t": 183.72
+    "t": 186.66
    },
    {
     "speaker": "Tom",
     "text": "Un soutien pour trouver un emploi, une formation, ou une activité utile, pour que l'aide soit un pont, et non une impasse.",
-    "t": 188.55
+    "t": 191.49
    },
    {
     "speaker": "Anna",
     "text": "J'aime bien ça — de l'argent pour vivre, et une main tendue pour avancer.",
-    "t": 195.84
+    "t": 198.78
    },
    {
     "speaker": "Tom",
     "text": "C'est toute la philosophie.",
-    "t": 199.58
+    "t": 202.52
    },
    {
     "speaker": "Tom",
     "text": "Et si quelqu'un participe à une mesure d'activation — comme un travail communautaire dans le cadre de son projet — il peut y avoir une indemnité d'activation en plus.",
-    "t": 201.14
+    "t": 204.08
    },
    {
     "speaker": "Anna",
     "text": "Bien. Donc voilà le REVIS — le revenu minimum.",
-    "t": 209.67
+    "t": 212.61
    },
    {
     "speaker": "Anna",
     "text": "Quelle est la deuxième grande aide ?",
-    "t": 213.36
+    "t": 216.3
    },
    {
     "speaker": "Tom",
     "text": "La deuxième est quelque chose que beaucoup plus de gens peuvent obtenir — l'allocation de vie chère.",
-    "t": 215.08
+    "t": 218.02
    },
    {
     "speaker": "Anna",
     "text": "L'allocation de vie chère.",
-    "t": 220.87
+    "t": 223.81
    },
    {
     "speaker": "Anna",
     "text": "Parle-m'en.",
-    "t": 222.33
+    "t": 225.27
    },
    {
     "speaker": "Tom",
     "text": "C'est un versement annuel pour aider les ménages à revenu modeste face à la hausse du coût de la vie quotidienne.",
-    "t": 223.28
+    "t": 226.22
    },
    {
     "speaker": "Tom",
     "text": "Et voici le point clé — vous n'avez pas besoin de toucher le REVIS pour l'obtenir.",
-    "t": 229.18
+    "t": 232.12
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez travailler, avoir un petit ou un moyen salaire, et y avoir droit quand même, tant que votre revenu est en dessous d'une certaine limite.",
-    "t": 233.59
+    "t": 236.53
    },
    {
     "speaker": "Anna",
     "text": "Ah, donc ça touche beaucoup de ménages ordinaires — des gens qui travaillent, mais pour qui chaque euro compte.",
-    "t": 240.96
+    "t": 243.9
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et le montant dépend de la taille de votre ménage.",
-    "t": 246.04
+    "t": 248.98
    },
    {
     "speaker": "Tom",
     "text": "Une personne seule reçoit un montant, un couple davantage, une famille encore plus.",
-    "t": 249.42
+    "t": 252.36
    },
    {
     "speaker": "Tom",
     "text": "Pour une personne seule, c'est plus de mille huit cents euros par an — et davantage pour les ménages plus grands.",
-    "t": 254.11
+    "t": 257.05
    },
    {
     "speaker": "Anna",
     "text": "C'est une somme réelle et importante.",
-    "t": 259.91
+    "t": 262.85
    },
    {
     "speaker": "Anna",
     "text": "Et tu disais qu'il y a plus que ça avec ?",
-    "t": 262.1
+    "t": 265.04
    },
    {
     "speaker": "Tom",
     "text": "Oui — et c'est important avec les prix de l'énergie d'aujourd'hui.",
-    "t": 264.28
+    "t": 267.22
    },
    {
     "speaker": "Tom",
     "text": "Avec l'allocation de vie chère, il y a une prime énergie — une aide supplémentaire pour les factures de chauffage et d'électricité.",
-    "t": 267.5
+    "t": 270.44
    },
    {
     "speaker": "Tom",
     "text": "Et pour les personnes âgées à faible revenu, il peut y avoir aussi une aide financière supplémentaire pour les seniors.",
-    "t": 274.83
+    "t": 277.77
    },
    {
     "speaker": "Anna",
     "text": "Donc une seule demande peut ouvrir trois portes — la vie chère, l'énergie, et l'aide aux seniors.",
-    "t": 280.81
+    "t": 283.75
    },
    {
     "speaker": "Tom",
     "text": "Une seule demande, oui.",
-    "t": 286.09
+    "t": 289.03
    },
    {
     "speaker": "Tom",
     "text": "Et voici un détail merveilleux — si vous touchez déjà le REVIS, vous n'avez même pas besoin de faire de demande.",
-    "t": 287.72
+    "t": 290.66
    },
    {
     "speaker": "Tom",
     "text": "L'allocation de vie chère, la prime énergie, et l'aide aux seniors vous parviennent automatiquement.",
-    "t": 293.45
+    "t": 296.39
    },
    {
     "speaker": "Anna",
     "text": "C'est attentionné — les personnes qui en ont le plus besoin n'ont pas à remplir un autre formulaire.",
-    "t": 299.15
+    "t": 302.09
    },
    {
     "speaker": "Tom",
     "text": "Exact. Et un changement se prépare.",
-    "t": 303.99
+    "t": 306.93
    },
    {
     "speaker": "Tom",
     "text": "Le gouvernement prévoit de regrouper ces trois aides — plus une nouvelle aide pour les familles avec des enfants scolarisés — en une seule, le complément vie chère, à partir de 2027.",
-    "t": 306.46
+    "t": 309.4
    },
    {
     "speaker": "Tom",
     "text": "Vous n'auriez alors qu'une seule demande à faire, et l'aide continuerait tant que vous y avez droit.",
-    "t": 316.45
+    "t": 319.39
    },
    {
     "speaker": "Tom",
     "text": "La loi est encore en discussion à la Chambre des députés, alors consultez f-n-s point l-u pour les dernières nouvelles.",
-    "t": 320.98
+    "t": 323.92
    },
    {
     "speaker": "Tom",
     "text": "Pour l'instant, les autres font leur demande avec un formulaire — et si vous l'avez reçue l'an dernier, le FNS vous envoie un formulaire pré-rempli en fin d'année.",
-    "t": 327.64
+    "t": 330.58
    },
    {
     "speaker": "Tom",
     "text": "Et le FNS a même un calculateur en ligne, pour que vous puissiez vérifier si vous y avez droit avant de faire votre demande.",
-    "t": 335.97
+    "t": 338.91
    },
    {
     "speaker": "Anna",
     "text": "Un calculateur — c'est vraiment utile, comme ça vous ne faites pas votre demande à l'aveugle.",
-    "t": 342.41
+    "t": 345.35
    },
    {
     "speaker": "Anna",
     "text": "D'accord Tom — qu'y a-t-il ensuite sur la liste ?",
-    "t": 346.3
+    "t": 349.24
    },
    {
     "speaker": "Tom",
     "text": "La troisième aide est pour les personnes qui vivent avec un handicap grave.",
-    "t": 348.82
+    "t": 351.76
    },
    {
     "speaker": "Tom",
     "text": "C'est le revenu pour personnes gravement handicapées.",
-    "t": 352.73
+    "t": 355.67
    },
    {
     "speaker": "Anna",
     "text": "Donc un revenu dédié aux personnes qui ne peuvent pas travailler à cause d'un handicap grave.",
-    "t": 355.75
+    "t": 358.69
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Pour une personne dont le handicap fait qu'elle ne peut pas gagner sa vie sur le marché du travail ordinaire, le FNS fournit un revenu garanti, pour qu'elle aussi ait un seuil sûr sur lequel s'appuyer.",
-    "t": 360.07
+    "t": 363.01
    },
    {
     "speaker": "Anna",
     "text": "C'est la solidarité au sens le plus vrai.",
-    "t": 371.43
+    "t": 374.37
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce qui vient ensuite ?",
-    "t": 373.65
+    "t": 376.59
    },
    {
     "speaker": "Tom",
     "text": "La quatrième est très différente, et très concrète.",
-    "t": 375.36
+    "t": 378.3
    },
    {
     "speaker": "Tom",
     "text": "Elle concerne la pension alimentaire — ce qu'un parent est censé payer pour son enfant après une séparation.",
-    "t": 378.46
+    "t": 381.4
    },
    {
     "speaker": "Anna",
     "text": "Ah — la pension pour l'enfant.",
-    "t": 383.74
+    "t": 386.68
    },
    {
     "speaker": "Anna",
     "text": "Et que se passe-t-il quand elle n'est pas payée ?",
-    "t": 385.58
+    "t": 388.52
    },
    {
     "speaker": "Tom",
     "text": "C'est exactement le problème que le FNS résout.",
-    "t": 387.87
+    "t": 390.81
    },
    {
     "speaker": "Tom",
     "text": "Imaginez un parent séparé — souvent une mère — à qui une pension alimentaire est due, mais l'autre parent ne paie tout simplement pas.",
-    "t": 390.69
+    "t": 393.63
    },
    {
     "speaker": "Tom",
     "text": "L'enfant en souffre.",
-    "t": 398.15
+    "t": 401.09
    },
    {
     "speaker": "Tom",
     "text": "Alors le FNS peut intervenir, et avancer cet argent.",
-    "t": 399.7
+    "t": 402.64
    },
    {
     "speaker": "Anna",
     "text": "Attends — donc l'État paie la pension que l'autre parent n'a pas payée ?",
-    "t": 403.45
+    "t": 406.39
    },
    {
     "speaker": "Tom",
     "text": "Dans certaines limites et sous certaines conditions, oui.",
-    "t": 407.08
+    "t": 410.02
    },
    {
     "speaker": "Tom",
     "text": "Le FNS avance la pension alimentaire impayée, pour que l'enfant et le parent ne se retrouvent pas sans rien.",
-    "t": 410.32
+    "t": 413.26
    },
    {
     "speaker": "Tom",
     "text": "Et ensuite — c'est ça, l'aspect ingénieux — le FNS se retourne contre le parent qui n'a pas payé, pour récupérer l'argent.",
-    "t": 416.69
+    "t": 419.63
    },
    {
     "speaker": "Tom",
     "text": "Pour la demander, il faut une décision de justice qui fixe la pension — et un huissier doit d'abord avoir essayé de la récupérer.",
-    "t": 424.26
+    "t": 427.2
    },
    {
     "speaker": "Anna",
     "text": "Donc l'État agit comme une sorte de garant, et fait ensuite lui-même les démarches de recouvrement.",
-    "t": 431.11
+    "t": 434.05
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Le parent vulnérable n'a pas à se battre seul.",
-    "t": 435.49
+    "t": 438.43
    },
    {
     "speaker": "Tom",
     "text": "Le FNS prend ce fardeau sur lui.",
-    "t": 439.15
+    "t": 442.09
    },
    {
     "speaker": "Tom",
     "text": "C'est l'une des choses les plus humaines que fait le Fonds.",
-    "t": 441.71
+    "t": 444.65
    },
    {
     "speaker": "Anna",
     "text": "Ça l'est vraiment.",
-    "t": 444.56
+    "t": 447.5
    },
    {
     "speaker": "Anna",
     "text": "D'accord — il en reste combien ?",
-    "t": 445.57
+    "t": 448.51
    },
    {
     "speaker": "Tom",
     "text": "Deux encore à mentionner.",
-    "t": 447.42
+    "t": 450.36
    },
    {
     "speaker": "Tom",
     "text": "La cinquième est un complément pour les personnes âgées qui ont besoin de soins.",
-    "t": 449.02
+    "t": 451.96
    },
    {
     "speaker": "Tom",
     "text": "Quand quelqu'un entre dans une maison de soins, ou en logement encadré, et que son propre revenu ne suffit pas à couvrir le coût, le FNS peut aider à payer la différence.",
-    "t": 452.67
+    "t": 455.61
    },
    {
     "speaker": "Tom",
     "text": "Il s'appelle le COMPA.",
-    "t": 462.41
+    "t": 465.35
    },
    {
     "speaker": "Anna",
     "text": "Donc une personne âgée n'est pas refusée pour des soins juste parce que sa pension est trop petite.",
-    "t": 464.17
+    "t": 467.11
    },
    {
     "speaker": "Tom",
     "text": "C'est l'idée. Des soins selon les besoins, et pas seulement selon votre compte en banque.",
-    "t": 468.79
+    "t": 471.73
    },
    {
     "speaker": "Tom",
     "text": "Le Fonds complète ce qui manque, pour que la dignité dans la vieillesse soit protégée.",
-    "t": 473.29
+    "t": 476.23
    },
    {
     "speaker": "Anna",
     "text": "Et la sixième ?",
-    "t": 478.13
+    "t": 481.07
    },
    {
     "speaker": "Tom",
     "text": "La sixième, c'est la pension pour l'éducation des enfants.",
-    "t": 479.39
+    "t": 482.33
    },
    {
     "speaker": "Tom",
     "text": "En luxembourgeois, les gens l'appellent la « Mammerent ».",
-    "t": 482.7
+    "t": 485.64
    },
    {
     "speaker": "Tom",
     "text": "C'est un petit montant mensuel pour les parents — historiquement les mères — qui ont passé des années à élever des enfants et qui ont donc constitué moins de pension pour eux-mêmes.",
-    "t": 485.91
+    "t": 488.85
    },
    {
     "speaker": "Anna",
     "text": "Ah — donc ça reconnaît les années consacrées à élever une famille.",
-    "t": 494.81
+    "t": 497.75
    },
    {
     "speaker": "Tom",
     "text": "Exactement. C'est une façon de dire — ce travail comptait aussi.",
-    "t": 498.1
+    "t": 501.04
    },
    {
     "speaker": "Tom",
     "text": "C'est un montant modeste chaque mois, mais il honore ces années.",
-    "t": 502.06
+    "t": 505
    },
    {
     "speaker": "Anna",
     "text": "Alors récapitulons-les. Nous avons le REVIS, le revenu minimum.",
-    "t": 505.71
+    "t": 508.65
    },
    {
     "speaker": "Anna",
     "text": "L'allocation de vie chère, avec la prime énergie et l'aide aux seniors.",
-    "t": 509.38
+    "t": 512.32
    },
    {
     "speaker": "Anna",
     "text": "Le revenu pour personnes gravement handicapées.",
-    "t": 513.03
+    "t": 515.97
    },
    {
     "speaker": "Anna",
     "text": "L'avance sur la pension alimentaire.",
-    "t": 515.39
+    "t": 518.33
    },
    {
     "speaker": "Anna",
     "text": "Le complément pour les personnes âgées en soins.",
-    "t": 517.28
+    "t": 520.22
    },
    {
     "speaker": "Anna",
     "text": "Et la pension pour l'éducation des enfants, la Mammerent.",
-    "t": 519.59
+    "t": 522.53
    },
    {
     "speaker": "Tom",
     "text": "Six aides, un seul organisme.",
-    "t": 522.72
+    "t": 525.66
    },
    {
     "speaker": "Tom",
     "text": "Et derrière elles toutes, une seule idée — qu'au Luxembourg, personne ne devrait être laissé à l'abandon.",
-    "t": 525.02
+    "t": 527.96
    },
    {
     "speaker": "Anna",
     "text": "Tom, laisse-moi poser la question pratique.",
-    "t": 530.8
+    "t": 533.74
    },
    {
     "speaker": "Anna",
     "text": "Comment fait-on concrètement une demande ?",
-    "t": 532.79
+    "t": 535.73
    },
    {
     "speaker": "Anna",
     "text": "On dirait que ça pourrait être compliqué.",
-    "t": 534.82
+    "t": 537.76
    },
    {
     "speaker": "Tom",
     "text": "C'est plus accessible que les gens ne le craignent.",
-    "t": 536.82
+    "t": 539.76
    },
    {
     "speaker": "Tom",
     "text": "Tout commence sur le site internet, f-n-s point l-u.",
-    "t": 539.34
+    "t": 542.28
    },
    {
     "speaker": "Tom",
     "text": "Là, vous trouvez chaque aide expliquée, avec les conditions, et les formulaires.",
-    "t": 543.16
+    "t": 546.1
    },
    {
     "speaker": "Anna",
     "text": "Et peut-on le faire en ligne ?",
-    "t": 547.6
+    "t": 550.54
    },
    {
     "speaker": "Tom",
     "text": "En partie. Sur le site, vous trouvez les formulaires — et, pour l'allocation de vie chère, ce calculateur en ligne.",
-    "t": 549.18
+    "t": 552.12
    },
    {
     "speaker": "Tom",
     "text": "Mais la plupart du temps, vous remplissez un formulaire papier.",
-    "t": 555.28
+    "t": 558.22
    },
    {
     "speaker": "Tom",
     "text": "Vous le téléchargez, ou vous le prenez au guichet du FNS, vous le signez, et vous l'envoyez par la poste ou vous le déposez.",
-    "t": 558.2
+    "t": 561.14
    },
    {
     "speaker": "Tom",
     "text": "Et l'office social de votre commune peut vous aider à le remplir.",
-    "t": 565.23
+    "t": 568.17
    },
    {
     "speaker": "Anna",
     "text": "Et si quelqu'un est perdu, ou ne sait pas quelle aide est faite pour lui ?",
-    "t": 568.92
+    "t": 571.86
    },
    {
     "speaker": "Tom",
     "text": "Alors il peut contacter le FNS directement — par téléphone, par e-mail, ou en personne.",
-    "t": 572.34
+    "t": 575.28
    },
    {
     "speaker": "Tom",
     "text": "Les bureaux se trouvent rue de la Fonderie, à Luxembourg-Ville — le guichet est ouvert le matin.",
-    "t": 577.47
+    "t": 580.41
    },
    {
     "speaker": "Tom",
     "text": "Et honnêtement, ce premier appel téléphonique est souvent l'étape la plus importante.",
-    "t": 582.6
+    "t": 585.54
    },
    {
     "speaker": "Tom",
     "text": "Parce que beaucoup de gens ne demandent pas ce à quoi ils ont droit — simplement parce qu'ils ne savent pas que ça existe.",
-    "t": 586.97
+    "t": 589.91
    },
    {
     "speaker": "Anna",
     "text": "C'est un point tellement important.",
-    "t": 592.85
+    "t": 595.79
    },
    {
     "speaker": "Anna",
     "text": "Une aide dont vous ignorez l'existence ne vous aide pas.",
-    "t": 594.6
+    "t": 597.54
    },
    {
     "speaker": "Tom",
     "text": "C'est toute la raison pour laquelle nous faisons cet épisode.",
-    "t": 597.4
+    "t": 600.34
    },
    {
     "speaker": "Tom",
     "text": "Il y a de l'argent et du soutien qui attendent — mais il faut tendre la main pour les prendre.",
-    "t": 600.36
+    "t": 603.3
    },
    {
     "speaker": "Anna",
     "text": "Rendons ça concret, Tom.",
-    "t": 605.13
+    "t": 608.07
    },
    {
     "speaker": "Anna",
     "text": "Peut-on suivre une personne ?",
-    "t": 606.67
+    "t": 609.61
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Imaginons une femme — appelons-la Sofia.",
-    "t": 608.22
+    "t": 611.16
    },
    {
     "speaker": "Tom",
     "text": "Elle s'est récemment séparée, elle a deux jeunes enfants, et elle travaille à temps partiel avec un petit salaire.",
-    "t": 611.41
+    "t": 614.35
    },
    {
     "speaker": "Anna",
     "text": "Une situation très réelle.",
-    "t": 617.24
+    "t": 620.18
    },
    {
     "speaker": "Anna",
     "text": "Où le FNS intervient-il pour Sofia ?",
-    "t": 618.89
+    "t": 621.83
    },
    {
     "speaker": "Tom",
     "text": "À plusieurs endroits à la fois.",
-    "t": 621.49
+    "t": 624.43
    },
    {
     "speaker": "Tom",
     "text": "D'abord — son revenu est faible, donc elle peut avoir droit à l'allocation de vie chère, avec la prime énergie, pour l'aider tout au long de l'année.",
-    "t": 623.23
+    "t": 626.17
    },
    {
     "speaker": "Anna",
     "text": "C'est le coup de pouce annuel.",
-    "t": 630.82
+    "t": 633.76
    },
    {
     "speaker": "Tom",
     "text": "Oui. Ensuite — son ex-partenaire est censé payer une pension alimentaire, mais il a arrêté.",
-    "t": 632.52
+    "t": 635.46
    },
    {
     "speaker": "Tom",
     "text": "Alors le FNS peut avancer cette pension, et la lui réclamer — pour que ses enfants ne manquent de rien.",
-    "t": 638.18
+    "t": 641.12
    },
    {
     "speaker": "Anna",
     "text": "Ça lui enlève un poids énorme des épaules.",
-    "t": 643.72
+    "t": 646.66
    },
    {
     "speaker": "Tom",
     "text": "Un poids énorme.",
-    "t": 646.23
+    "t": 649.17
    },
    {
     "speaker": "Tom",
     "text": "Et troisièmement — si même avec son salaire le ménage est toujours en dessous du minimum, le REVIS peut la compléter jusqu'à ce seuil — et en même temps, l'aider avec une formation ou la recherche de plus de travail.",
-    "t": 647.84
+    "t": 650.78
    },
    {
     "speaker": "Anna",
     "text": "Donc, depuis un seul organisme, Sofia obtient une allocation annuelle, la pension de ses enfants sécurisée, et un minimum garanti avec un chemin pour avancer.",
-    "t": 659.74
+    "t": 662.68
    },
    {
     "speaker": "Tom",
     "text": "Tout depuis un seul endroit.",
-    "t": 668.47
+    "t": 671.41
    },
    {
     "speaker": "Tom",
     "text": "C'est la force d'avoir un fonds de solidarité unique.",
-    "t": 670.18
+    "t": 673.12
    },
    {
     "speaker": "Tom",
     "text": "Il peut envelopper plusieurs soutiens autour de la même famille.",
-    "t": 673.34
+    "t": 676.28
    },
    {
     "speaker": "Anna",
     "text": "Et la clé, encore une fois, c'est qu'elle doit savoir qu'elle peut demander.",
-    "t": 676.71
+    "t": 679.65
    },
    {
     "speaker": "Tom",
     "text": "C'est ça, la clé.",
-    "t": 680.17
+    "t": 683.11
    },
    {
     "speaker": "Tom",
     "text": "C'est pourquoi, si vous ne retenez qu'une seule chose d'aujourd'hui — c'est celle-ci.",
-    "t": 681.43
+    "t": 684.37
    },
    {
     "speaker": "Tom",
     "text": "Si l'argent manque, ne souffrez pas en silence.",
-    "t": 685.58
+    "t": 688.52
    },
    {
     "speaker": "Tom",
     "text": "Renseignez-vous auprès du FNS.",
-    "t": 688.2
+    "t": 691.14
    },
    {
     "speaker": "Tom",
     "text": "Vous avez peut-être droit à bien plus que vous ne le pensez.",
-    "t": 690.36
+    "t": 693.3
    },
    {
     "speaker": "Anna",
     "text": "D'accord Tom, concluons.",
-    "t": 693.49
+    "t": 696.43
    },
    {
     "speaker": "Anna",
     "text": "Si je vous écoute, et que les choses sont difficiles, qu'est-ce que je fais ?",
-    "t": 695.15
+    "t": 698.09
    },
    {
     "speaker": "Tom",
     "text": "Trois étapes simples.",
-    "t": 698.57
+    "t": 701.51
    },
    {
     "speaker": "Tom",
     "text": "D'abord — allez sur le site internet, f-n-s point l-u.",
-    "t": 700.06
+    "t": 703
    },
    {
     "speaker": "Tom",
     "text": "Regardez les aides, et voyez lesquelles correspondent à votre situation.",
-    "t": 704.75
+    "t": 707.69
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. Compris.",
-    "t": 709.04
+    "t": 711.98
    },
    {
     "speaker": "Tom",
     "text": "Ensuite — si votre revenu est modeste, utilisez le calculateur de la vie chère, et faites votre demande.",
-    "t": 711.02
+    "t": 713.96
    },
    {
     "speaker": "Tom",
     "text": "Et si vous touchez déjà le REVIS, souvenez-vous — celle-là arrive automatiquement.",
-    "t": 717.58
+    "t": 720.52
    },
    {
     "speaker": "Anna",
     "text": "Et troisièmement ?",
-    "t": 722.11
+    "t": 725.05
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement — si vous n'êtes pas sûr, contactez-les tout simplement.",
-    "t": 723.39
+    "t": 726.33
    },
    {
     "speaker": "Tom",
     "text": "Un appel téléphonique, un e-mail, une visite.",
-    "t": 727.15
+    "t": 730.09
    },
    {
     "speaker": "Tom",
     "text": "Posez la question.",
-    "t": 729.74
+    "t": 732.68
    },
    {
     "speaker": "Tom",
     "text": "Il n'y a aucune honte à la solidarité — c'est littéralement à ça que sert le Fonds.",
-    "t": 730.91
+    "t": 733.85
    },
    {
     "speaker": "Anna",
     "text": "Un petit résumé pour finir ?",
-    "t": 735.84
+    "t": 738.78
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Le Fonds national de solidarité — le FNS, fns.lu — est le filet de sécurité du Luxembourg contre la pauvreté.",
-    "t": 737.5
+    "t": 740.44
    },
    {
     "speaker": "Tom",
     "text": "Il gère le REVIS, le revenu minimum garanti ; l'allocation de vie chère avec la prime énergie et l'aide aux seniors ; un revenu pour personnes gravement handicapées ; les avances sur les pensions alimentaires impayées ; un complément pour les personnes âgées en soins ; et la pension pour l'éducation des enfants, la Mammerent.",
-    "t": 747.11
+    "t": 750.05
    },
    {
     "speaker": "Tom",
     "text": "Vous trouvez tous les formulaires sur fns.lu — et les bénéficiaires du REVIS reçoivent l'allocation de vie chère automatiquement.",
-    "t": 764.88
+    "t": 767.82
    },
    {
     "speaker": "Anna",
     "text": "Et le message du jour ?",
-    "t": 772.66
+    "t": 775.6
    },
    {
     "speaker": "Tom",
     "text": "La solidarité au Luxembourg n'est pas juste un mot — c'est un organisme, avec un budget, et un numéro de téléphone.",
-    "t": 774.09
+    "t": 777.03
    },
    {
     "speaker": "Tom",
     "text": "Si la vie devient difficile, ce filet est réel, et il est là pour vous.",
-    "t": 780.94
+    "t": 783.88
    },
    {
     "speaker": "Tom",
     "text": "Il vous suffit de tendre la main pour le prendre.",
-    "t": 785.2
+    "t": 788.14
    },
    {
     "speaker": "Anna",
     "text": "Alors... si vous, ou quelqu'un que vous connaissez, êtes en difficulté — souvenez-vous du nom.",
-    "t": 787.74
+    "t": 790.68
    },
    {
     "speaker": "Anna",
     "text": "Le Fonds national de solidarité.",
-    "t": 791.85
+    "t": 794.79
    },
    {
     "speaker": "Anna",
     "text": "fns.lu.",
-    "t": 793.78
+    "t": 796.72
    },
    {
     "speaker": "Tom",
     "text": "Un seul fonds, qui soutient tous ceux qui en ont besoin.",
-    "t": 795.38
+    "t": 798.32
    },
    {
     "speaker": "Tom",
     "text": "C'est ça, la solidarité.",
-    "t": 798.46
+    "t": 801.4
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le Fonds national de solidarité.",
-    "t": 800.23
+    "t": 803.17
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 803.3
+    "t": 806.24
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 811.28
+    "t": 814.22
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 827.73
+    "t": 830.67
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 832.38
+    "t": 835.32
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 834.16
+    "t": 837.1
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 838.54
+    "t": 841.48
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 839.77
+    "t": 842.71
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 842.23
+    "t": 845.17
    }
   ],
   "segments_de": [
@@ -46957,1077 +46957,1077 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und das Thema von heute ist, glaube ich, eines der wichtigsten überhaupt.",
-    "t": 27.86
+    "t": 27.88
    },
    {
     "speaker": "Tom",
     "text": "Es geht um Solidarität — um die Hilfe, die da ist, wenn das Leben schwer wird.",
-    "t": 32.59
+    "t": 32.61
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt eine Stelle, die im Herzen davon steht.",
-    "t": 37.17
+    "t": 37.19
    },
    {
     "speaker": "Anna",
     "text": "Tom, wie heißt sie?",
-    "t": 40.03
+    "t": 40.05
    },
    {
     "speaker": "Tom",
     "text": "Sie heißt der Nationale Solidaritätsfonds.",
-    "t": 42.19
+    "t": 42.21
    },
    {
     "speaker": "Tom",
     "text": "Die Leute sagen oft nur den kurzen Namen — F-N-S.",
-    "t": 45.04
+    "t": 45.06
    },
    {
     "speaker": "Anna",
     "text": "Der Nationale Solidaritätsfonds.",
-    "t": 48.88
+    "t": 48.9
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein schöner Name.",
-    "t": 51.2
+    "t": 51.22
    },
    {
     "speaker": "Anna",
     "text": "Fangen wir einfach an.",
-    "t": 52.75
+    "t": 52.77
    },
    {
     "speaker": "Anna",
     "text": "Was ist das?",
-    "t": 54.11
+    "t": 54.13
    },
    {
     "speaker": "Tom",
     "text": "Der FNS ist eine öffentliche Stelle, deren ganze Aufgabe es ist, Menschen zu helfen, die finanziell in Schwierigkeiten sind.",
-    "t": 55.26
+    "t": 55.28
    },
    {
     "speaker": "Tom",
-    "text": "Er gehört zum Familienministerium.",
-    "t": 63.3
+    "text": "Er gehört zum Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 63.23
    },
    {
     "speaker": "Tom",
     "text": "Und seine Aufgabe ist, ganz einfach gesagt, der Kampf gegen die Armut.",
-    "t": 65.61
+    "t": 70.16
    },
    {
     "speaker": "Anna",
     "text": "Das ist also das soziale Netz des Landes.",
-    "t": 69.81
+    "t": 74.76
    },
    {
     "speaker": "Tom",
     "text": "Das ist genau das richtige Wort.",
-    "t": 72.48
+    "t": 77.43
    },
    {
     "speaker": "Tom",
     "text": "Ein soziales Netz.",
-    "t": 74.53
+    "t": 79.48
    },
    {
     "speaker": "Tom",
     "text": "Wenn jemandes Einkommen zu niedrig ist, um in Würde zu leben — wegen eines Arbeitsplatzverlusts, einer Krankheit, des Alters, einer Trennung, oder einfach wegen eines niedrigen Lohns — dann ist der FNS da.",
-    "t": 75.97
+    "t": 80.92
    },
    {
     "speaker": "Tom",
     "text": "Sein Zuhause im Internet ist f-n-s Punkt l-u.",
-    "t": 89.03
+    "t": 93.98
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. Und es ist offiziell — der Staat.",
-    "t": 92.62
+    "t": 97.57
    },
    {
     "speaker": "Tom",
     "text": "Vollkommen offiziell. Keine Wohltätigkeitsorganisation, kein privater Fonds.",
-    "t": 96.81
+    "t": 101.76
    },
    {
     "speaker": "Tom",
     "text": "Es ist der Staat, der Solidarität für alle organisiert, die sie brauchen.",
-    "t": 102.12
+    "t": 107.07
    },
    {
     "speaker": "Anna",
     "text": "Gut. Also, für wen ist er da?",
-    "t": 106.5
+    "t": 111.45
    },
    {
     "speaker": "Anna",
     "text": "Wer darf an diese Tür klopfen?",
-    "t": 108.66
+    "t": 113.61
    },
    {
     "speaker": "Tom",
     "text": "Vor allem Menschen, die in Luxemburg leben und deren Einkommen bescheiden ist, oder die sich in einer schwierigen Lage befinden.",
-    "t": 110.67
+    "t": 115.62
    },
    {
     "speaker": "Tom",
     "text": "Aber — der FNS macht nicht nur eine Sache.",
-    "t": 118.19
+    "t": 123.14
    },
    {
     "speaker": "Tom",
     "text": "Er verwaltet eine ganze Reihe verschiedener Hilfen.",
-    "t": 121.47
+    "t": 126.42
    },
    {
     "speaker": "Tom",
     "text": "Lass mich die wichtigsten durchgehen.",
-    "t": 124.18
+    "t": 129.13
    },
    {
     "speaker": "Anna",
     "text": "Ja, gehen wir sie eine nach der anderen durch.",
-    "t": 126.21
+    "t": 131.16
    },
    {
     "speaker": "Anna",
     "text": "Wo fangen wir an?",
-    "t": 128.96
+    "t": 133.91
    },
    {
     "speaker": "Tom",
     "text": "Fangen wir mit der größten an.",
-    "t": 130.36
+    "t": 135.31
    },
    {
     "speaker": "Tom",
     "text": "Sie heißt das Eingliederungseinkommen — auf Französisch das revenu d'inclusion sociale.",
-    "t": 132.23
+    "t": 137.18
    },
    {
     "speaker": "Tom",
     "text": "Der kurze Name ist REVIS.",
-    "t": 138.79
+    "t": 143.74
    },
    {
     "speaker": "Anna",
     "text": "REVIS. Was ist das?",
-    "t": 140.49
+    "t": 145.44
    },
    {
     "speaker": "Tom",
     "text": "Der REVIS ist das garantierte Mindesteinkommen.",
-    "t": 142.91
+    "t": 147.86
    },
    {
     "speaker": "Tom",
     "text": "Die Idee ist einfach, aber kraftvoll — in Luxemburg sollte niemand unter ein bestimmtes Grundniveau fallen.",
-    "t": 146.12
+    "t": 151.07
    },
    {
     "speaker": "Tom",
     "text": "Wenn das Einkommen Ihres Haushalts unter diesem Niveau liegt, stockt der REVIS es bis dahin auf.",
-    "t": 152.59
+    "t": 157.54
    },
    {
     "speaker": "Anna",
     "text": "Er sorgt also dafür, dass Sie immer ein Minimum zum Leben haben.",
-    "t": 158.2
+    "t": 163.15
    },
    {
     "speaker": "Tom",
     "text": "Genau. Eine Schwelle, unter die der Staat Sie nicht fallen lässt.",
-    "t": 161.82
+    "t": 166.77
    },
    {
     "speaker": "Tom",
     "text": "Der Betrag hängt von Ihrem Haushalt ab — wie viele Erwachsene, wie viele Kinder.",
-    "t": 165.59
+    "t": 170.54
    },
    {
     "speaker": "Tom",
     "text": "Es gibt einen Grundbetrag für den ersten Erwachsenen, mehr für einen zweiten Erwachsenen, und einen Betrag für jedes Kind.",
-    "t": 170.67
+    "t": 175.62
    },
    {
     "speaker": "Anna",
     "text": "Eine alleinstehende Person bekommt also ein Niveau, und eine größere Familie bekommt mehr, weil sie mehr braucht.",
-    "t": 177.95
+    "t": 182.9
    },
    {
     "speaker": "Tom",
     "text": "Ganz genau. Es wird für den gesamten Haushalt berechnet, und es zählt das Einkommen mit, das Sie bereits haben.",
-    "t": 184.25
+    "t": 189.2
    },
    {
     "speaker": "Tom",
     "text": "Der REVIS füllt die Lücke zwischen dem, was Sie haben, und dem Minimum, auf das Sie Anspruch haben.",
-    "t": 190.38
+    "t": 195.33
    },
    {
     "speaker": "Anna",
     "text": "Und ist es nur Geld?",
-    "t": 195.91
+    "t": 200.86
    },
    {
     "speaker": "Anna",
     "text": "Oder steckt mehr dahinter?",
-    "t": 197.32
+    "t": 202.27
    },
    {
     "speaker": "Tom",
     "text": "Das ist der clevere Teil des REVIS.",
-    "t": 199.02
+    "t": 203.97
    },
    {
     "speaker": "Tom",
     "text": "Es ist nicht nur ein Scheck.",
-    "t": 201.39
+    "t": 206.34
    },
    {
     "speaker": "Tom",
     "text": "Das Wort „Eingliederung\" ist wichtig.",
-    "t": 202.89
+    "t": 207.84
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch eine Seite, die Menschen hilft, wieder auf die Beine zu kommen — Aktivierung, nennt man das.",
-    "t": 205.25
+    "t": 210.2
    },
    {
     "speaker": "Tom",
     "text": "Unterstützung, um Arbeit, eine Ausbildung oder eine nützliche Tätigkeit zu finden, damit die Hilfe eine Brücke ist und keine Sackgasse.",
-    "t": 210.99
+    "t": 215.94
    },
    {
     "speaker": "Anna",
     "text": "Das gefällt mir — Geld zum Leben, und eine helfende Hand, um voranzukommen.",
-    "t": 219.59
+    "t": 224.54
    },
    {
     "speaker": "Tom",
     "text": "Das ist die ganze Philosophie.",
-    "t": 224.41
+    "t": 229.36
    },
    {
     "speaker": "Tom",
     "text": "Und wenn jemand an einer Aktivierungsmaßnahme teilnimmt — wie etwa gemeinnützige Arbeit als Teil seines Plans — kann es obendrauf noch eine Aktivierungszulage geben.",
-    "t": 226.39
+    "t": 231.34
    },
    {
     "speaker": "Anna",
     "text": "Gut. Das ist also der REVIS — das Mindesteinkommen.",
-    "t": 236.25
+    "t": 241.2
    },
    {
     "speaker": "Anna",
     "text": "Was ist die zweite große Hilfe?",
-    "t": 239.92
+    "t": 244.87
    },
    {
     "speaker": "Tom",
     "text": "Die zweite ist etwas, das viel mehr Menschen bekommen können — die Teuerungszulage.",
-    "t": 242.12
+    "t": 247.07
    },
    {
     "speaker": "Tom",
     "text": "Auf Französisch die allocation de vie chère.",
-    "t": 247
+    "t": 251.95
    },
    {
     "speaker": "Anna",
     "text": "Die Teuerungszulage. Erzähl mir davon.",
-    "t": 249.98
+    "t": 254.93
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine jährliche Zahlung, um Haushalten mit bescheidenem Einkommen bei den steigenden Kosten des täglichen Lebens zu helfen.",
-    "t": 253.06
+    "t": 258.01
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist der entscheidende Punkt — Sie müssen nicht REVIS beziehen, um sie zu bekommen.",
-    "t": 260.85
+    "t": 265.8
    },
    {
     "speaker": "Tom",
     "text": "Sie können arbeiten, einen kleinen oder mittleren Lohn haben, und trotzdem Anspruch haben, solange Ihr Einkommen unter einer bestimmten Grenze liegt.",
-    "t": 265.7
+    "t": 270.65
    },
    {
     "speaker": "Anna",
     "text": "Ah, das erreicht also viele ganz normale Haushalte — Menschen, die arbeiten, aber für die jeder Euro zählt.",
-    "t": 274.59
+    "t": 279.54
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und der Betrag hängt von der Größe Ihres Haushalts ab.",
-    "t": 281.58
+    "t": 286.53
    },
    {
     "speaker": "Tom",
     "text": "Eine alleinstehende Person bekommt einen Betrag, ein Paar mehr, eine Familie noch mehr.",
-    "t": 286.01
+    "t": 290.96
    },
    {
     "speaker": "Tom",
     "text": "Für eine alleinstehende Person sind es mehr als tausendachthundert Euro im Jahr — und mehr für größere Haushalte.",
-    "t": 291.45
+    "t": 296.4
    },
    {
     "speaker": "Anna",
     "text": "Das ist eine echte, bedeutende Summe.",
-    "t": 298.15
+    "t": 303.1
    },
    {
     "speaker": "Anna",
     "text": "Und du sagtest, es hängt noch mehr daran?",
-    "t": 300.47
+    "t": 305.42
    },
    {
     "speaker": "Tom",
     "text": "Ja — und das ist wichtig bei den heutigen Energiepreisen.",
-    "t": 303.02
+    "t": 307.97
    },
    {
     "speaker": "Tom",
     "text": "Zusammen mit der Teuerungszulage gibt es eine Energieprämie — zusätzliche Hilfe bei den Heiz- und Stromrechnungen.",
-    "t": 306.31
+    "t": 311.26
    },
    {
     "speaker": "Tom",
     "text": "Und für ältere Menschen mit kleinem Einkommen kann es auch noch eine zusätzliche finanzielle Unterstützung für Senioren geben.",
-    "t": 313.5
+    "t": 318.45
    },
    {
     "speaker": "Anna",
     "text": "Ein einziger Antrag kann also drei Türen öffnen — Teuerungszulage, Energie und Seniorenhilfe.",
-    "t": 320.31
+    "t": 325.26
    },
    {
     "speaker": "Tom",
     "text": "Ein einziger Antrag, ja.",
-    "t": 326.74
+    "t": 331.69
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist ein wunderbares Detail — wenn Sie bereits REVIS beziehen, müssen Sie nicht einmal einen Antrag stellen.",
-    "t": 328.39
+    "t": 333.34
    },
    {
     "speaker": "Tom",
     "text": "Die Teuerungszulage, die Energieprämie und die Seniorenhilfe kommen automatisch zu Ihnen.",
-    "t": 335.15
+    "t": 340.1
    },
    {
     "speaker": "Anna",
     "text": "Das ist rücksichtsvoll — die Menschen, die sie am meisten brauchen, müssen kein weiteres Formular ausfüllen.",
-    "t": 341.16
+    "t": 346.11
    },
    {
     "speaker": "Tom",
     "text": "Richtig. Und es kommt eine Änderung.",
-    "t": 347.18
+    "t": 352.13
    },
    {
     "speaker": "Tom",
     "text": "Die Regierung plant, diese drei Hilfen — plus eine neue Hilfe für Familien mit Schulkindern — ab 2027 zu einer einzigen zusammenzulegen, dem complément vie chère.",
-    "t": 349.75
+    "t": 354.7
    },
    {
     "speaker": "Tom",
     "text": "Dann müssten Sie nur noch einmal einen Antrag stellen, und die Hilfe liefe weiter, solange Sie Anspruch haben.",
-    "t": 361.91
+    "t": 366.86
    },
    {
     "speaker": "Tom",
     "text": "Das Gesetz wird noch im Parlament beraten — schauen Sie also auf f-n-s Punkt l-u nach dem neuesten Stand.",
-    "t": 367.54
+    "t": 372.49
    },
    {
     "speaker": "Tom",
     "text": "Bis dahin stellen alle anderen ihren Antrag mit einem Formular — und wenn Sie die Zulage im letzten Jahr bekommen haben, schickt Ihnen der FNS Ende des Jahres ein vorausgefülltes Formular.",
-    "t": 374.8
+    "t": 379.75
    },
    {
     "speaker": "Tom",
     "text": "Und der FNS hat sogar einen Online-Rechner, damit Sie prüfen können, ob Sie Anspruch haben, bevor Sie einen Antrag stellen.",
-    "t": 386.2
+    "t": 391.15
    },
    {
     "speaker": "Anna",
     "text": "Ein Rechner — das ist wirklich hilfreich, damit Sie nicht blind einen Antrag stellen.",
-    "t": 393.37
+    "t": 398.32
    },
    {
     "speaker": "Anna",
     "text": "Gut, Tom — was steht als Nächstes auf der Liste?",
-    "t": 398.17
+    "t": 403.12
    },
    {
     "speaker": "Tom",
     "text": "Die dritte Hilfe ist für Menschen, die mit einer schweren Behinderung leben.",
-    "t": 401.43
+    "t": 406.38
    },
    {
     "speaker": "Tom",
     "text": "Es ist das Einkommen für schwerbehinderte Menschen — auf Französisch das revenu pour personnes gravement handicapées.",
-    "t": 405.34
+    "t": 410.29
    },
    {
     "speaker": "Anna",
     "text": "Also ein eigenes Einkommen für Menschen, die wegen einer schweren Behinderung nicht arbeiten können.",
-    "t": 412.86
+    "t": 417.81
    },
    {
     "speaker": "Tom",
     "text": "Genau. Für eine Person, deren Behinderung dazu führt, dass sie auf dem normalen Arbeitsmarkt ihren Lebensunterhalt nicht verdienen kann, stellt der FNS ein garantiertes Einkommen bereit, damit auch sie eine sichere Schwelle hat, auf der sie stehen kann.",
-    "t": 417.87
+    "t": 422.82
    },
    {
     "speaker": "Anna",
     "text": "Das ist Solidarität im wahrsten Sinne.",
-    "t": 433.02
+    "t": 437.97
    },
    {
     "speaker": "Anna",
     "text": "Was kommt als Nächstes?",
-    "t": 435.53
+    "t": 440.48
    },
    {
     "speaker": "Tom",
     "text": "Die vierte ist sehr anders, und sehr praktisch.",
-    "t": 437.28
+    "t": 442.23
    },
    {
     "speaker": "Tom",
     "text": "Es geht um den Unterhalt — das, was ein Elternteil nach einer Trennung für sein Kind zahlen soll.",
-    "t": 440.15
+    "t": 445.1
    },
    {
     "speaker": "Tom",
     "text": "Auf Französisch die pension alimentaire.",
-    "t": 445.62
+    "t": 450.57
    },
    {
     "speaker": "Anna",
     "text": "Ah — der Kindesunterhalt.",
-    "t": 448.37
+    "t": 453.32
    },
    {
     "speaker": "Anna",
     "text": "Und was passiert, wenn er nicht gezahlt wird?",
-    "t": 450.61
+    "t": 455.56
    },
    {
     "speaker": "Tom",
     "text": "Das ist genau das Problem, das der FNS löst.",
-    "t": 453.06
+    "t": 458.01
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie sich ein getrennt lebendes Elternteil vor — oft eine Mutter — dem Kindesunterhalt zusteht, aber der andere Elternteil zahlt einfach nicht.",
-    "t": 456.55
+    "t": 461.5
    },
    {
     "speaker": "Tom",
     "text": "Das Kind leidet darunter.",
-    "t": 465.43
+    "t": 470.38
    },
    {
     "speaker": "Tom",
     "text": "Also kann der FNS eingreifen und dieses Geld vorstrecken.",
-    "t": 467.08
+    "t": 472.03
    },
    {
     "speaker": "Anna",
     "text": "Moment — der Staat zahlt also den Unterhalt, den der andere Elternteil nicht gezahlt hat?",
-    "t": 471.02
+    "t": 475.97
    },
    {
     "speaker": "Tom",
     "text": "Innerhalb bestimmter Grenzen und Bedingungen, ja.",
-    "t": 476.59
+    "t": 481.54
    },
    {
     "speaker": "Tom",
     "text": "Der FNS streckt den nicht gezahlten Unterhalt vor, damit das Kind und das Elternteil nicht mit nichts dastehen.",
-    "t": 479.52
+    "t": 484.47
    },
    {
     "speaker": "Tom",
     "text": "Und dann — das ist der clevere Teil — geht der FNS gegen das Elternteil vor, das nicht gezahlt hat, um das Geld zurückzuholen.",
-    "t": 486.77
+    "t": 491.72
    },
    {
     "speaker": "Tom",
     "text": "Dafür braucht es eine Gerichtsentscheidung, die den Unterhalt festlegt — und ein Gerichtsvollzieher muss zuerst versucht haben, ihn einzutreiben.",
-    "t": 495.55
+    "t": 500.5
    },
    {
     "speaker": "Anna",
     "text": "Der Staat handelt also als eine Art Bürge und übernimmt dann selbst das Eintreiben.",
-    "t": 503.22
+    "t": 508.17
    },
    {
     "speaker": "Tom",
     "text": "Genau. Das schutzbedürftige Elternteil muss nicht allein kämpfen.",
-    "t": 508.08
+    "t": 513.03
    },
    {
     "speaker": "Tom",
     "text": "Der FNS nimmt diese Last auf sich.",
-    "t": 512.79
+    "t": 517.74
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine der menschlichsten Sachen, die der Fonds tut.",
-    "t": 515.46
+    "t": 520.41
    },
    {
     "speaker": "Anna",
     "text": "Das ist es wirklich.",
-    "t": 518.63
+    "t": 523.58
    },
    {
     "speaker": "Anna",
     "text": "Gut — wie viele kommen noch?",
-    "t": 519.98
+    "t": 524.93
    },
    {
     "speaker": "Tom",
     "text": "Zwei sind noch zu erwähnen.",
-    "t": 522.09
+    "t": 527.04
    },
    {
     "speaker": "Tom",
     "text": "Die fünfte ist ein Zuschuss für ältere Menschen, die Pflege brauchen.",
-    "t": 523.82
+    "t": 528.77
    },
    {
     "speaker": "Tom",
     "text": "Wenn jemand in ein Pflegeheim oder betreutes Wohnen kommt, und sein eigenes Einkommen nicht ausreicht, um die Kosten zu decken, kann der FNS helfen, die Differenz zu zahlen.",
-    "t": 527.58
+    "t": 532.53
    },
    {
     "speaker": "Tom",
     "text": "Er heißt COMPA.",
-    "t": 538.48
+    "t": 543.43
    },
    {
     "speaker": "Anna",
     "text": "Ein älterer Mensch wird also nicht von der Pflege abgewiesen, nur weil seine Rente zu klein ist.",
-    "t": 539.74
+    "t": 544.69
    },
    {
     "speaker": "Tom",
     "text": "Das ist die Idee.",
-    "t": 545
+    "t": 549.95
    },
    {
     "speaker": "Tom",
     "text": "Pflege nach Bedarf, und nicht nur nach Ihrem Kontostand.",
-    "t": 546.24
+    "t": 551.19
    },
    {
     "speaker": "Tom",
     "text": "Der Fonds stockt auf, was fehlt, damit die Würde im Alter geschützt ist.",
-    "t": 549.64
+    "t": 554.59
    },
    {
     "speaker": "Anna",
     "text": "Und die sechste?",
-    "t": 554.08
+    "t": 559.03
    },
    {
     "speaker": "Tom",
     "text": "Die sechste ist die Erziehungsrente.",
-    "t": 555.39
+    "t": 560.34
    },
    {
     "speaker": "Tom",
     "text": "Auf Luxemburgisch nennen die Leute sie die „Mammerent\".",
-    "t": 557.59
+    "t": 562.54
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein kleiner monatlicher Betrag für Eltern — historisch gesehen Mütter — die jahrelang Kinder großgezogen und deshalb selbst weniger Rente aufgebaut haben.",
-    "t": 560.84
+    "t": 565.79
    },
    {
     "speaker": "Anna",
     "text": "Ah — sie würdigt also die Jahre, die man dem Großziehen einer Familie gewidmet hat.",
-    "t": 570.34
+    "t": 575.29
    },
    {
     "speaker": "Tom",
     "text": "Genau. Es ist eine Art zu sagen — auch diese Arbeit war wichtig.",
-    "t": 575.4
+    "t": 580.35
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein bescheidener Betrag jeden Monat, aber er ehrt diese Jahre.",
-    "t": 580.38
+    "t": 585.33
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir sie also zusammen.",
-    "t": 584.53
+    "t": 589.48
    },
    {
     "speaker": "Anna",
     "text": "Wir haben den REVIS, das Mindesteinkommen.",
-    "t": 586.38
+    "t": 591.33
    },
    {
     "speaker": "Anna",
     "text": "Die Teuerungszulage, mit der Energieprämie und der Seniorenhilfe.",
-    "t": 589.26
+    "t": 594.21
    },
    {
     "speaker": "Anna",
     "text": "Das Einkommen für schwerbehinderte Menschen.",
-    "t": 593.56
+    "t": 598.51
    },
    {
     "speaker": "Anna",
     "text": "Den Vorschuss auf den Unterhalt.",
-    "t": 596.22
+    "t": 601.17
    },
    {
     "speaker": "Anna",
     "text": "Den Zuschuss für ältere Menschen in Pflege.",
-    "t": 598.29
+    "t": 603.24
    },
    {
     "speaker": "Anna",
     "text": "Und die Erziehungsrente, die Mammerent.",
-    "t": 600.73
+    "t": 605.68
    },
    {
     "speaker": "Tom",
     "text": "Sechs Hilfen, eine Stelle.",
-    "t": 603.67
+    "t": 608.62
    },
    {
     "speaker": "Tom",
     "text": "Und hinter ihnen allen eine einzige Idee — dass in Luxemburg niemand fallen gelassen werden sollte.",
-    "t": 605.64
+    "t": 610.59
    },
    {
     "speaker": "Anna",
     "text": "Tom, lass mich die praktische Frage stellen.",
-    "t": 611.55
+    "t": 616.5
    },
    {
     "speaker": "Anna",
     "text": "Wie stellt man eigentlich einen Antrag?",
-    "t": 614.23
+    "t": 619.18
    },
    {
     "speaker": "Anna",
     "text": "Das klingt, als könnte es kompliziert sein.",
-    "t": 616.71
+    "t": 621.66
    },
    {
     "speaker": "Tom",
     "text": "Es ist zugänglicher, als die Leute befürchten.",
-    "t": 619.34
+    "t": 624.29
    },
    {
     "speaker": "Tom",
     "text": "Alles beginnt auf der Webseite, f-n-s Punkt l-u.",
-    "t": 621.79
+    "t": 626.74
    },
    {
     "speaker": "Tom",
     "text": "Dort finden Sie jede Hilfe erklärt, mit den Bedingungen und den Formularen.",
-    "t": 625.87
+    "t": 630.82
    },
    {
     "speaker": "Anna",
     "text": "Und kann man es online machen?",
-    "t": 630.21
+    "t": 635.16
    },
    {
     "speaker": "Tom",
     "text": "Teilweise. Auf der Website finden Sie die Formulare — und für die Teuerungszulage diesen Online-Rechner.",
-    "t": 632.06
+    "t": 637.01
    },
    {
     "speaker": "Tom",
     "text": "Aber meistens füllen Sie ein Papierformular aus.",
-    "t": 638.77
+    "t": 643.72
    },
    {
     "speaker": "Tom",
     "text": "Sie laden es herunter oder holen es am Schalter des FNS ab, unterschreiben es, und schicken es per Post oder geben es dort ab.",
-    "t": 641.71
+    "t": 646.66
    },
    {
     "speaker": "Tom",
     "text": "Und das Office social Ihrer Gemeinde kann Ihnen beim Ausfüllen helfen.",
-    "t": 649.61
+    "t": 654.56
    },
    {
     "speaker": "Anna",
     "text": "Und wenn jemand verwirrt ist, oder nicht weiß, welche Hilfe für ihn ist?",
-    "t": 653.56
+    "t": 658.51
    },
    {
     "speaker": "Tom",
     "text": "Dann kann er den FNS direkt kontaktieren — telefonisch, per E-Mail, oder persönlich.",
-    "t": 657.97
+    "t": 662.92
    },
    {
     "speaker": "Tom",
     "text": "Die Büros sind in der rue de la Fonderie, in Luxemburg-Stadt — der Schalter ist vormittags geöffnet.",
-    "t": 663.76
+    "t": 668.71
    },
    {
     "speaker": "Tom",
     "text": "Und ehrlich gesagt ist dieser erste Anruf oft der wichtigste Schritt.",
-    "t": 670.01
+    "t": 674.96
    },
    {
     "speaker": "Tom",
     "text": "Denn viele Menschen beantragen nicht, worauf sie Anspruch haben — einfach weil sie nicht wissen, dass es das gibt.",
-    "t": 674.55
+    "t": 679.5
    },
    {
     "speaker": "Anna",
     "text": "Das ist so ein wichtiger Punkt.",
-    "t": 680.68
+    "t": 685.63
    },
    {
     "speaker": "Anna",
     "text": "Eine Hilfe, von der Sie nichts wissen, hilft Ihnen nicht.",
-    "t": 682.8
+    "t": 687.75
    },
    {
     "speaker": "Tom",
     "text": "Das ist der ganze Grund, warum wir diese Folge machen.",
-    "t": 686.46
+    "t": 691.41
    },
    {
     "speaker": "Tom",
     "text": "Es gibt Geld und Unterstützung, die warten — aber Sie müssen danach greifen.",
-    "t": 689.32
+    "t": 694.27
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es konkret, Tom.",
-    "t": 693.86
+    "t": 698.81
    },
    {
     "speaker": "Anna",
     "text": "Können wir einer Person folgen?",
-    "t": 695.47
+    "t": 700.42
    },
    {
     "speaker": "Tom",
     "text": "Natürlich. Stellen wir uns eine Frau vor — nennen wir sie Sofia.",
-    "t": 697.54
+    "t": 702.49
    },
    {
     "speaker": "Tom",
     "text": "Sie hat sich vor Kurzem getrennt, sie hat zwei kleine Kinder, und sie arbeitet in Teilzeit mit einem kleinen Lohn.",
-    "t": 702.49
+    "t": 707.44
    },
    {
     "speaker": "Anna",
     "text": "Eine sehr reale Situation.",
-    "t": 709.09
+    "t": 714.04
    },
    {
     "speaker": "Anna",
     "text": "Wo kommt der FNS für Sofia ins Spiel?",
-    "t": 711.13
+    "t": 716.08
    },
    {
     "speaker": "Tom",
     "text": "An mehreren Stellen zugleich.",
-    "t": 713.87
+    "t": 718.82
    },
    {
     "speaker": "Tom",
     "text": "Erstens — ihr Einkommen ist niedrig, also könnte sie Anspruch auf die Teuerungszulage haben, mit der Energieprämie, um ihr durchs Jahr zu helfen.",
-    "t": 715.77
+    "t": 720.72
    },
    {
     "speaker": "Anna",
     "text": "Das ist der jährliche Schub.",
-    "t": 725.36
+    "t": 730.31
    },
    {
     "speaker": "Tom",
     "text": "Ja. Zweitens — ihr Ex-Partner soll Kindesunterhalt zahlen, aber er hat aufgehört.",
-    "t": 727.02
+    "t": 731.97
    },
    {
     "speaker": "Tom",
     "text": "Also kann der FNS diesen Unterhalt vorstrecken und ihn von ihm eintreiben — damit ihren Kindern nichts fehlt.",
-    "t": 732.48
+    "t": 737.43
    },
    {
     "speaker": "Anna",
     "text": "Das nimmt ihr eine riesige Last von den Schultern.",
-    "t": 739.11
+    "t": 744.06
    },
    {
     "speaker": "Tom",
     "text": "Eine riesige Last.",
-    "t": 741.98
+    "t": 746.93
    },
    {
     "speaker": "Tom",
     "text": "Und drittens — wenn der Haushalt selbst mit ihrem Lohn noch unter dem Minimum liegt, kann der REVIS sie bis zu dieser Schwelle aufstocken — und ihr zugleich mit einer Ausbildung oder bei der Suche nach mehr Arbeit helfen.",
-    "t": 743.33
+    "t": 748.28
    },
    {
     "speaker": "Anna",
     "text": "Von einer einzigen Stelle bekommt Sofia also eine jährliche Zulage, den Unterhalt ihrer Kinder gesichert, und ein garantiertes Minimum mit einem Weg nach vorne.",
-    "t": 755.8
+    "t": 760.75
    },
    {
     "speaker": "Tom",
     "text": "Alles von einem einzigen Ort.",
-    "t": 765.56
+    "t": 770.51
    },
    {
     "speaker": "Tom",
     "text": "Das ist die Stärke eines einzigen Solidaritätsfonds.",
-    "t": 767.54
+    "t": 772.49
    },
    {
     "speaker": "Tom",
     "text": "Er kann mehrere Hilfen um dieselbe Familie legen.",
-    "t": 770.73
+    "t": 775.68
    },
    {
     "speaker": "Anna",
     "text": "Und der Schlüssel ist, wieder einmal, dass sie wissen muss, dass sie fragen kann.",
-    "t": 773.87
+    "t": 778.82
    },
    {
     "speaker": "Tom",
     "text": "Das ist der Schlüssel.",
-    "t": 778.61
+    "t": 783.56
    },
    {
     "speaker": "Tom",
     "text": "Deshalb gilt, wenn Sie heute eine Sache mitnehmen — dann diese.",
-    "t": 779.94
+    "t": 784.89
    },
    {
     "speaker": "Tom",
     "text": "Wenn das Geld knapp ist, leiden Sie nicht im Stillen.",
-    "t": 783.54
+    "t": 788.49
    },
    {
     "speaker": "Tom",
     "text": "Erkundigen Sie sich beim FNS.",
-    "t": 786.55
+    "t": 791.5
    },
    {
     "speaker": "Tom",
     "text": "Sie haben vielleicht Anspruch auf viel mehr, als Sie denken.",
-    "t": 788.83
+    "t": 793.78
    },
    {
     "speaker": "Anna",
     "text": "Gut, Tom, bringen wir es zum Abschluss.",
-    "t": 792.12
+    "t": 797.07
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich zuhöre, und die Dinge sind schwierig, was mache ich?",
-    "t": 794.47
+    "t": 799.42
    },
    {
     "speaker": "Tom",
     "text": "Drei einfache Schritte.",
-    "t": 798.67
+    "t": 803.62
    },
    {
     "speaker": "Tom",
     "text": "Erstens — gehen Sie auf die Webseite, f-n-s Punkt l-u.",
-    "t": 800.2
+    "t": 805.15
    },
    {
     "speaker": "Tom",
     "text": "Schauen Sie sich die Hilfen an, und sehen Sie, welche zu Ihrer Situation passen.",
-    "t": 805.24
+    "t": 810.19
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. Verstanden.",
-    "t": 809.56
+    "t": 814.51
    },
    {
     "speaker": "Tom",
     "text": "Zweitens — wenn Ihr Einkommen bescheiden ist, nutzen Sie den Teuerungszulage-Rechner und stellen Sie einen Antrag.",
-    "t": 811.95
+    "t": 816.9
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie bereits REVIS beziehen, denken Sie daran — die kommt automatisch.",
-    "t": 818.58
+    "t": 823.53
    },
    {
     "speaker": "Anna",
     "text": "Und drittens?",
-    "t": 822.98
+    "t": 827.93
    },
    {
     "speaker": "Tom",
     "text": "Drittens — wenn Sie unsicher sind, kontaktieren Sie sie einfach.",
-    "t": 824.21
+    "t": 829.16
    },
    {
     "speaker": "Tom",
     "text": "Ein Anruf, eine E-Mail, ein Besuch.",
-    "t": 827.98
+    "t": 832.93
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie die Frage.",
-    "t": 830.75
+    "t": 835.7
    },
    {
     "speaker": "Tom",
     "text": "Es ist keine Schande, Solidarität in Anspruch zu nehmen — genau dafür ist der Fonds da.",
-    "t": 832.17
+    "t": 837.12
    },
    {
     "speaker": "Anna",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 837.44
+    "t": 842.39
    },
    {
     "speaker": "Tom",
     "text": "Klar. Der Nationale Solidaritätsfonds — der FNS, fns.lu — ist Luxemburgs soziales Netz gegen die Armut.",
-    "t": 839.7
+    "t": 844.65
    },
    {
     "speaker": "Tom",
     "text": "Er verwaltet den REVIS, das garantierte Mindesteinkommen; die Teuerungszulage mit der Energieprämie und der Seniorenhilfe; ein Einkommen für schwerbehinderte Menschen; Vorschüsse auf nicht gezahlten Kindesunterhalt; einen Zuschuss für ältere Menschen in Pflege; und die Erziehungsrente, die Mammerent.",
-    "t": 848.52
+    "t": 853.47
    },
    {
     "speaker": "Tom",
     "text": "Alle Formulare finden Sie auf fns.lu — und REVIS-Bezieher bekommen die Teuerungszulage automatisch.",
-    "t": 869.02
+    "t": 873.97
    },
    {
     "speaker": "Anna",
     "text": "Und die Botschaft für heute?",
-    "t": 876.66
+    "t": 881.61
    },
    {
     "speaker": "Tom",
     "text": "Solidarität in Luxemburg ist nicht nur ein Wort — es ist eine Stelle, mit einem Budget und einer Telefonnummer.",
-    "t": 878.46
+    "t": 883.41
    },
    {
     "speaker": "Tom",
     "text": "Wenn das Leben schwer wird, ist dieses Netz echt, und es ist für Sie da.",
-    "t": 884.87
+    "t": 889.82
    },
    {
     "speaker": "Tom",
     "text": "Sie müssen nur danach greifen.",
-    "t": 889.27
+    "t": 894.22
    },
    {
     "speaker": "Anna",
     "text": "Also... wenn Sie, oder jemand, den Sie kennen, in Schwierigkeiten ist — merken Sie sich den Namen.",
-    "t": 891.05
+    "t": 896
    },
    {
     "speaker": "Anna",
     "text": "Der Nationale Solidaritätsfonds.",
-    "t": 898.63
+    "t": 903.58
    },
    {
     "speaker": "Anna",
     "text": "fns.lu.",
-    "t": 900.94
+    "t": 905.89
    },
    {
     "speaker": "Tom",
     "text": "Ein Fonds, der alle trägt, die ihn brauchen.",
-    "t": 903.14
+    "t": 908.09
    },
    {
     "speaker": "Tom",
     "text": "Das bedeutet Solidarität.",
-    "t": 905.83
+    "t": 910.78
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über den Nationalen Solidaritätsfonds.",
-    "t": 908.07
+    "t": 913.02
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 911.66
+    "t": 916.61
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 920.59
+    "t": 925.54
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 938.92
+    "t": 943.87
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 944.62
+    "t": 949.57
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 946.87
+    "t": 951.82
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 951.76
+    "t": 956.71
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 952.91
+    "t": 957.86
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 956.12
+    "t": 961.07
    }
   ],
   "segments_lb": [
@@ -48068,447 +48068,447 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "De FNS ass en ëffentleche Büro, deem säin eenzegen Job et ass, Leit ze hëllefen, déi finanziell Schwieregkeeten hunn. En ass ënner dem Familljeministère. A seng Missioun, ganz einfach gesot, ass de Kampf géint d'Aarmut.",
+    "text": "De FNS ass en ëffentleche Büro, deem säin eenzegen Job et ass, Leit ze hëllefen, déi finanziell Schwieregkeeten hunn. En ass ënner dem Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. A seng Missioun, ganz einfach gesot, ass de Kampf géint d'Aarmut.",
     "t": 55.1
    },
    {
     "speaker": "Anna",
     "text": "Dat ass also d'Sécherheetsnetz vum Land.",
-    "t": 66.28
+    "t": 70.29
    },
    {
     "speaker": "Tom",
     "text": "Dat ass genau dat richtegt Wuert. E Sécherheetsnetz. Wann engem säin Akommes ze niddreg ass, fir an Wierdegkeet ze liewen — wéinst engem Jobverloscht, enger Krankheet, dem Alter, enger Trennung, oder einfach engem klenge Loun — da ass de FNS do. Säin Doheem am Internet ass f-n-s Punkt l-u.",
-    "t": 68.7
+    "t": 72.71
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. An et ass offiziell — de Staat.",
-    "t": 83.88
+    "t": 87.89
    },
    {
     "speaker": "Tom",
     "text": "Komplett offiziell. Keng Wuelfaartsorganisatioun, kee privaten Fong. Et ass de Staat, deen d'Solidaritéit fir jiddwereen organiséiert, deen et brauch.",
-    "t": 87.52
+    "t": 91.53
    },
    {
     "speaker": "Anna",
     "text": "Gutt. Fir wie ass et dann? Wie kann un dës Dier klappen?",
-    "t": 94.82
+    "t": 98.83
    },
    {
     "speaker": "Tom",
     "text": "Virun allem Leit, déi zu Lëtzebuerg wunnen an deenen hiren Akommes bescheiden ass, oder déi an enger schwiereger Situatioun sinn. Elo — de FNS mécht net just eng Saach. En verwalt eng ganz Rei verschidde Hëllefen. Loosst mech d'Haaptsaachen duerchgoen.",
-    "t": 98.94
+    "t": 102.95
    },
    {
     "speaker": "Anna",
     "text": "Jo, loosse mer se eng no der anerer duerchgoen. Wou fänke mer un?",
-    "t": 111.85
+    "t": 115.86
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer mat der gréisster ufänken. Si heescht den Inklusiounsakommes — op Franséisch, de revenu d'inclusion sociale. Den kuerzen Numm ass REVIS.",
-    "t": 115.3
+    "t": 119.31
    },
    {
     "speaker": "Anna",
     "text": "REVIS. Wat ass dat?",
-    "t": 124.38
+    "t": 128.39
    },
    {
     "speaker": "Tom",
     "text": "REVIS ass dat garantéiert Mindestakommes. D'Iddi ass einfach awer staark — zu Lëtzebuerg soll keen ënner e gewësse Grondniveau falen. Wann ärem Stot säin Akommes ënner deem Niveau läit, da fëllt REVIS et bis dohinner op.",
-    "t": 125.88
+    "t": 129.89
    },
    {
     "speaker": "Anna",
     "text": "Et garantéiert also, datt Dir ëmmer e Minimum hutt, fir ze liewen.",
-    "t": 138.57
+    "t": 142.58
    },
    {
     "speaker": "Tom",
     "text": "Genau. E Buedem, ënner deen de Staat Iech net falen léisst. De Betrag hänkt vun ärem Stot of — wéi vill Erwuessener, wéi vill Kanner. Et gëtt e Basisbetrag fir deen éischten Erwuessenen, méi fir en zweeten Erwuessenen, an e Betrag fir all Kand.",
-    "t": 141.74
+    "t": 145.75
    },
    {
     "speaker": "Anna",
     "text": "Eng eenzel Persoun kritt also een Niveau, an eng méi grouss Famill kritt méi, well se méi brauch.",
-    "t": 155.8
+    "t": 159.81
    },
    {
     "speaker": "Tom",
     "text": "Genau. Et gëtt fir de ganze Stot berechent, an et zielt dat Akommes mat, dat Dir scho hutt. REVIS fëllt d'Lück tëscht deem, wat Dir hutt, an dem Minimum, op deen Dir e Recht hutt.",
-    "t": 161.45
+    "t": 165.46
    },
    {
     "speaker": "Anna",
     "text": "An ass et just Geld? Oder steet do nach méi dohannert?",
-    "t": 171.7
+    "t": 175.71
    },
    {
     "speaker": "Tom",
     "text": "Dat ass dat Schlaut um REVIS. Et ass net nëmmen e Scheck. D'Wuert \"Inklusioun\" ass wichteg. Et gëtt och eng Säit, déi de Leit hëlleft, erëm op d'Bee ze kommen — Aktivéierung, nennen se dat. Ënnerstëtzung, fir Aarbecht, eng Formatioun, oder eng nëtzlech Aktivitéit ze fannen, sou datt d'Hëllef eng Bréck ass, an net eng Sakgaass.",
-    "t": 174.74
+    "t": 178.75
    },
    {
     "speaker": "Anna",
     "text": "Dat gefält mer — Geld fir ze liewen, an eng Hand, fir virunzekommen.",
-    "t": 191.4
+    "t": 195.41
    },
    {
     "speaker": "Tom",
     "text": "Dat ass déi ganz Philosophie. A wann ee bei enger Aktivéierungsmoossnam matmécht — wéi gemengschaftlech Aarbecht als Deel vu sengem Plang — da kann et eng Aktivéierungsallocatioun uewendrop ginn.",
-    "t": 195.06
+    "t": 199.07
    },
    {
     "speaker": "Anna",
     "text": "Gutt. Dat ass also REVIS — d'Mindestakommes. Wat ass déi zweet grouss Hëllef?",
-    "t": 204.35
+    "t": 208.36
    },
    {
     "speaker": "Tom",
     "text": "Déi zweet ass eppes, wat vill méi Leit kënne kréien — d'Liewensdeierungszoulag. Op Franséisch, d'allocation de vie chère.",
-    "t": 209.78
+    "t": 213.79
    },
    {
     "speaker": "Anna",
     "text": "D'Liewensdeierungszoulag. Erziel mer dovun.",
-    "t": 217.1
+    "t": 221.11
    },
    {
     "speaker": "Tom",
     "text": "Et ass eng jäerlech Bezuelung, fir Stéit mat bescheidenem Akommes mat deene klammende Käschte vum Alldag ze hëllefen. An hei ass de Schlëssel — Dir musst net op REVIS sinn, fir se ze kréien. Dir kënnt schaffen, e klengen oder mëttlere Loun hunn, an trotzdeem en Usproch hunn, soulaang ärem Akommes ënner enger gewësser Grenz läit.",
-    "t": 220.35
+    "t": 224.36
    },
    {
     "speaker": "Anna",
     "text": "Ah, dat erreecht also vill gewéinlech Stéit — Leit, déi schaffen, awer fir déi all Euro zielt.",
-    "t": 236.23
+    "t": 240.24
    },
    {
     "speaker": "Tom",
     "text": "Genau. An de Betrag hänkt vun der Gréisst vun ärem Stot of. Eng eenzel Persoun kritt ee Betrag, e Koppel méi, eng Famill nach méi. Fir eng eenzel Persoun sinn et méi wéi dausendaachthonnert Euro d'Joer — a méi fir méi grouss Stéit.",
-    "t": 242.85
+    "t": 246.86
    },
    {
     "speaker": "Anna",
     "text": "Dat ass eng richteg, bedeitend Zomm. An Dir sot, datt do nach méi drun hänkt?",
-    "t": 257.79
+    "t": 261.8
    },
    {
     "speaker": "Tom",
     "text": "Jo — an dat ass wichteg mat den Energiepräisser vun haut. Zesumme mat der Liewensdeierungszoulag gëtt et eng prime énergie — extra Hëllef mat de Käschte fir d'Heizung an de Stroum. A fir eeler Leit mat engem klengen Akommes kann et och eng extra finanziell Hëllef fir Senioren ginn.",
-    "t": 262.01
+    "t": 266.02
    },
    {
     "speaker": "Anna",
     "text": "Eng Demande kann also dräi Diere opmaachen — Liewensdeierung, Energie, an Senioren-Hëllef.",
-    "t": 278.68
+    "t": 282.69
    },
    {
     "speaker": "Tom",
     "text": "Eng Demande, jo. An hei ass en wonnerbaren Detail — wann Dir scho REVIS kritt, da musst Dir net emol eng Demande maachen. D'Liewensdeierungszoulag, d'prime énergie, an d'Senioren-Hëllef kommen automatesch zu Iech.",
-    "t": 284.21
+    "t": 288.22
    },
    {
     "speaker": "Anna",
     "text": "Dat ass duerchduecht — déi Leit, déi et am meeschte brauchen, mussen net nach e Formulaire ausfëllen.",
-    "t": 296.2
+    "t": 300.21
    },
    {
     "speaker": "Tom",
     "text": "Richteg. An et kënnt eng Ännerung. D'Regierung plangt, dës dräi Hëllefen — plus eng nei Hëllef fir Famillje mat Schoulkanner — ab 2027 zu enger eenzeger zesummenzeleeën, dem complément vie chère. Da misst Dir nëmmen nach eng Kéier eng Demande maachen, an d'Hëllef géif weidergoen, soulaang wéi Dir en Usproch hutt. D'Gesetz gëtt nach an der Chamber diskutéiert — kuckt also op f-n-s Punkt l-u fir déi neist Informatiounen. Bis dohin maachen all déi aner eng Demande mat engem Formulaire — a wann Dir se d'lescht Joer kritt hutt, schéckt de FNS Iech um Enn vum Joer e virausgefëllte Formulaire. An de FNS huet souguer e Rechner um Internet, sou datt Dir kontrolléiere kënnt, ob Dir en Usproch hutt, ier Dir d'Demande maacht.",
-    "t": 300.77
+    "t": 304.78
    },
    {
     "speaker": "Anna",
     "text": "E Rechner — dat ass wierklech hëllefräich, sou datt Dir net blann eng Demande maacht. Gutt Tom — wat steet als nächst op der Lëscht?",
-    "t": 335.94
+    "t": 339.95
    },
    {
     "speaker": "Tom",
     "text": "Déi drëtt Hëllef ass fir Leit, déi mat enger schwéierer Behënnerung liewen. Et ass den Akommes fir schwéier behënnert Persounen — op Franséisch, de revenu pour personnes gravement handicapées.",
-    "t": 342.68
+    "t": 346.69
    },
    {
     "speaker": "Anna",
     "text": "En eegenen Akommes also fir Leit, déi wéinst enger schwéierer Behënnerung net schaffe kënnen.",
-    "t": 353.09
+    "t": 357.1
    },
    {
     "speaker": "Tom",
     "text": "Genau. Fir eng Persoun, deem hir Behënnerung heescht, datt si um normale Aarbechtsmaart net hire Liewensënnerhalt verdénge kann, gëtt de FNS e garantéierten Akommes, sou datt och si e sécheren Buedem ënner de Féiss hunn.",
-    "t": 357.82
+    "t": 361.83
    },
    {
     "speaker": "Anna",
     "text": "Dat ass Solidaritéit am richtege Sënn. Wat kënnt duerno?",
-    "t": 369.2
+    "t": 373.21
    },
    {
     "speaker": "Tom",
     "text": "Déi véiert ass ganz anescht, a ganz praktesch. Et geet ëm Ënnerhaltszuelungen — wat en Elterendeel fir säi Kand nom enger Trennung soll bezuelen. Op Franséisch, d'pension alimentaire.",
-    "t": 373.06
+    "t": 377.07
    },
    {
     "speaker": "Anna",
     "text": "Ah — Kannerënnerhalt. A wat geschitt, wann en net bezuelt gëtt?",
-    "t": 385.08
+    "t": 389.09
    },
    {
     "speaker": "Tom",
     "text": "Dat ass genau de Problem, deen de FNS léist. Stellt Iech en getrennten Elterendeel vir — dacks eng Mamm — déi en Usproch op Kannerënnerhalt huet, awer deen aneren Elterendeel bezuelt einfach net. D'Kand leit drënner. Sou kann de FNS aspréngen, an dat Geld virschéissen.",
-    "t": 389.15
+    "t": 393.16
    },
    {
     "speaker": "Anna",
     "text": "Waart — de Staat bezuelt also den Ënnerhalt, deen deen aneren Elterendeel net bezuelt huet?",
-    "t": 403.76
+    "t": 407.77
    },
    {
     "speaker": "Tom",
     "text": "Bannent gewësse Grenzen a Konditiounen, jo. De FNS schéisst den net bezuelten Ënnerhalt vir, sou datt d'Kand an den Elterendeel net mat näischt do stinn. An dann — dat ass dat Schlaut — geet de FNS hannert deem Elterendeel hier, deen net bezuelt huet, fir d'Geld erëmzekréien. Dofir brauch een eng Geriichtsentscheedung, déi den Ënnerhalt festleet — an en Huissier muss fir d'éischt probéiert hunn, en anzedreiwen.",
-    "t": 408
+    "t": 412.01
    },
    {
     "speaker": "Anna",
     "text": "De Staat handelt also als eng Aart Garant, an dann mécht en d'Verfollegung selwer.",
-    "t": 429.72
+    "t": 433.73
    },
    {
     "speaker": "Tom",
     "text": "Genau. Den uerme Elterendeel muss net eleng kämpfen. De FNS hëlt déi Laascht op sech. Dat ass eng vun de mënschlechste Saachen, déi de Fong mécht.",
-    "t": 434.46
+    "t": 438.47
    },
    {
     "speaker": "Anna",
     "text": "Dat ass et wierklech. Gutt — wéi vill nach?",
-    "t": 442.89
+    "t": 446.9
    },
    {
     "speaker": "Tom",
     "text": "Zwou nach ze ernimmen. Déi fënnef ass eng Ergänzung fir eeler Leit, déi Fleeg brauchen. Wann ee an en Altersheem geet, oder an en assistéiert Wunnen, an hiren eegenen Akommes net duergeet, fir d'Käschten ze decken, da kann de FNS hëllefen, den Ënnerscheed ze bezuelen. Et heescht COMPA.",
-    "t": 445.8
+    "t": 449.81
    },
    {
     "speaker": "Anna",
     "text": "Eng eeler Persoun gëtt also net vun der Fleeg ofgewisen, just well hir Pensioun ze kleng ass.",
-    "t": 460.23
+    "t": 464.24
    },
    {
     "speaker": "Tom",
     "text": "Dat ass d'Iddi. Fleeg no Bedierfnes, net just no ärem Bankkonto. De Fong fëllt dat op, wat feelt, sou datt d'Wierdegkeet am Alter geschützt ass.",
-    "t": 465.52
+    "t": 469.53
    },
    {
     "speaker": "Anna",
     "text": "An déi sechst?",
-    "t": 474.56
+    "t": 478.57
    },
    {
     "speaker": "Tom",
     "text": "Déi sechst ass d'Kannererzéiungspensioun. Op Lëtzebuergesch nennen d'Leit se d'\"Mammerent\". Et ass e klenge méindleche Betrag fir Elteren — historesch fir Mammen — déi Jore laang Kanner grouss gezunn hunn an doduerch manner eege Pensioun opgebaut hunn.",
-    "t": 475.87
+    "t": 479.88
    },
    {
     "speaker": "Anna",
     "text": "Ah — et erkennt also déi Joren un, déi een dem Grousszéie vun enger Famill gewidmet huet.",
-    "t": 489.06
+    "t": 493.07
    },
    {
     "speaker": "Tom",
     "text": "Genau. Et ass eng Manéier ze soen — déi Aarbecht huet och gezielt. Et ass e bescheidene Betrag all Mount, awer en éiert déi Joren.",
-    "t": 492.96
+    "t": 496.97
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer se zesummefaassen. Mir hunn REVIS, d'Mindestakommes. D'Liewensdeierungszoulag, mat der prime énergie an der Senioren-Hëllef. Den Akommes fir schwéier behënnert Persounen. De Virschoss op d'Ënnerhaltszuelungen. D'Ergänzung fir eeler Leit an der Fleeg. An d'Kannererzéiungspensioun, d'Mammerent.",
-    "t": 500.45
+    "t": 504.46
    },
    {
     "speaker": "Tom",
     "text": "Sechs Hëllefen, ee Büro. An hannert hinnen alleguer, eng eenzeg Iddi — datt zu Lëtzebuerg keen soll falegelooss ginn.",
-    "t": 519.43
+    "t": 523.44
    },
    {
     "speaker": "Anna",
     "text": "Tom, loosst mech déi praktesch Fro stellen. Wéi mécht ee wierklech eng Demande? Et kléngt, wéi wann et komplizéiert kéint sinn.",
-    "t": 527.09
+    "t": 531.1
    },
    {
     "speaker": "Tom",
     "text": "Et ass méi zougänglech, wéi d'Leit fäerten. Alles fänkt um Internetsite un, f-n-s Punkt l-u. Do fannt Dir all Hëllef erkläert, mat de Konditiounen, an de Formulairen.",
-    "t": 534.27
+    "t": 538.28
    },
    {
     "speaker": "Anna",
     "text": "A kann een et online maachen?",
-    "t": 543.51
+    "t": 547.52
    },
    {
     "speaker": "Tom",
     "text": "Deelweis. Um Internetsite fannt Dir d'Formulairen — a fir d'Liewensdeierungszoulag dee Rechner um Internet. Mee meeschtens fëllt Dir e Pabeierformulaire aus. Dir luet en erof, oder huelt en um Guichet vum FNS, ënnerschreift en, a schéckt en per Post oder gitt en do of. An den Office social vun Ärer Gemeng kann Iech hëllefen, en auszefëllen.",
-    "t": 545.27
+    "t": 549.28
    },
    {
     "speaker": "Anna",
     "text": "A wann een duercherneen ass, oder net weess, wéi eng Hëllef fir hie passt?",
-    "t": 563.17
+    "t": 567.18
    },
    {
     "speaker": "Tom",
     "text": "Da kann en de FNS direkt kontaktéieren — iwwer Telefon, iwwer E-Mail, oder perséinlech. D'Büroe sinn op der rue de la Fonderie, an der Stad Lëtzebuerg — de Guichet ass moies op. An éierlech gesot, deen éischten Telefonsuruff ass dacks de wichtegste Schrëtt. Well vill Leit froen net no deem, op wat se e Recht hunn — einfach well se net wëssen, datt et existéiert.",
-    "t": 567.08
+    "t": 571.09
    },
    {
     "speaker": "Anna",
     "text": "Dat ass sou e wichtege Punkt. Hëllef, vun där Dir net wësst, hëlleft Iech net.",
-    "t": 587.54
+    "t": 591.55
    },
    {
     "speaker": "Tom",
     "text": "Dat ass de ganze Grond, firwat mer dës Episod maachen. Et ass Geld an Ënnerstëtzung do, déi waarden — awer Dir musst d'Hand duerno ausstrecken.",
-    "t": 592.2
+    "t": 596.21
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer et real maachen, Tom. Kënne mer enger eenzeler Persoun nogoen?",
-    "t": 598.27
+    "t": 602.28
    },
    {
     "speaker": "Tom",
     "text": "Natierlech. Stelle mer eis eng Fra vir — nenne mer se Sofia. Si ass viru kuerzem getrennt, si huet zwee kleng Kanner, an si schafft Deelzäit fir e klenge Loun.",
-    "t": 601.69
+    "t": 605.7
    },
    {
     "speaker": "Anna",
     "text": "Eng ganz real Situatioun. Wou kënnt de FNS fir d'Sofia an d'Spill?",
-    "t": 611.16
+    "t": 615.17
    },
    {
     "speaker": "Tom",
     "text": "Op verschiddene Plazen op eemol. Fir d'éischt — hiren Akommes ass niddreg, sou datt si en Usproch op d'Liewensdeierungszoulag kéint hunn, mat der prime énergie, fir hir duerch d'Joer ze hëllefen.",
-    "t": 615.46
+    "t": 619.47
    },
    {
     "speaker": "Anna",
     "text": "Dat ass deen jäerleche Boost.",
-    "t": 624.12
+    "t": 628.13
    },
    {
     "speaker": "Tom",
     "text": "Jo. Fir d'zweet — hiren Ex-Partner sollt Kannerënnerhalt bezuelen, awer en huet opgehalen. Sou kann de FNS deen Ënnerhalt virschéissen, an hannert him hiergoen — sou datt hir Kanner net ouni dostinn.",
-    "t": 625.86
+    "t": 629.87
    },
    {
     "speaker": "Anna",
     "text": "Dat hëlt eng riseg Laascht vun hire Schëlleren.",
-    "t": 636.86
+    "t": 640.87
    },
    {
     "speaker": "Tom",
     "text": "Eng riseg Laascht. A fir d'drëtt — wann de Stot souguer mat hirem Loun nach ënner dem Minimum ass, da kann REVIS hir bis op deen Buedem opfëllen — an zur selwechter Zäit hir mat enger Formatioun oder mam méi Aarbecht fannen hëllefen.",
-    "t": 639.28
+    "t": 643.29
    },
    {
     "speaker": "Anna",
     "text": "Vun engem eenzege Büro kritt d'Sofia also eng jäerlech Zoulag, den Ënnerhalt fir hir Kanner geséchert, an e garantéierte Minimum mat engem Wee no vir.",
-    "t": 652.12
+    "t": 656.13
    },
    {
     "speaker": "Tom",
     "text": "Alles vun enger eenzeger Plaz. Dat ass d'Kraaft, en eenzege Solidaritéitsfong ze hunn. En kann e puer Ënnerstëtzunge ronderëm déiselwecht Famill leeën.",
-    "t": 660.13
+    "t": 664.14
    },
    {
     "speaker": "Anna",
     "text": "An de Schlëssel ass erëm, datt si muss wëssen, fir ze froen.",
-    "t": 667.28
+    "t": 671.29
    },
    {
     "speaker": "Tom",
     "text": "Dat ass de Schlëssel. An dofir, wann Dir eng Saach vun haut mathuelt — da ass et dës. Wann d'Geld knapp ass, leit net a Stëllt. Kuckt beim FNS no. Dir kéint e Recht op vill méi hunn, wéi Dir denkt.",
-    "t": 670.79
+    "t": 674.8
    },
    {
     "speaker": "Anna",
     "text": "Gutt Tom, loosse mer et ofschléissen. Wann ech nolauschteren, an d'Saache si schwéier, wat maachen ech?",
-    "t": 682.88
+    "t": 686.89
    },
    {
     "speaker": "Tom",
     "text": "Dräi einfach Schrëtt. Fir d'éischt — gitt op den Internetsite, f-n-s Punkt l-u. Kuckt der d'Hëllefen un, a kuckt, wéi eng zu ärer Situatioun passen.",
-    "t": 688.15
+    "t": 692.16
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. Verstanen.",
-    "t": 696.41
+    "t": 700.42
    },
    {
     "speaker": "Tom",
     "text": "Fir d'zweet — wann ärem Akommes bescheiden ass, benotzt de Liewensdeierungs-Rechner, a maacht eng Demande. A wann Dir scho REVIS kritt, da denkt drun — déi do kënnt automatesch.",
-    "t": 698.5
+    "t": 702.51
    },
    {
     "speaker": "Anna",
     "text": "A fir d'drëtt?",
-    "t": 708.01
+    "t": 712.02
    },
    {
     "speaker": "Tom",
     "text": "Fir d'drëtt — wann Dir net sécher sidd, kontaktéiert se einfach. En Telefonsuruff, eng E-Mail, e Besuch. Stellt d'Fro. Et ass keng Schan an der Solidaritéit — dofir ass de Fong wuertwiertlech do.",
-    "t": 709.18
+    "t": 713.19
    },
    {
     "speaker": "Anna",
     "text": "E kuerze Resumé fir ofzeschléissen?",
-    "t": 719.04
+    "t": 723.05
    },
    {
     "speaker": "Tom",
     "text": "Gär. Den Nationale Solidaritéitsfong — de FNS, fns.lu — ass d'Sécherheetsnetz vu Lëtzebuerg géint d'Aarmut. En verwalt REVIS, dat garantéiert Mindestakommes; d'Liewensdeierungszoulag mat der prime énergie an der Senioren-Hëllef; en Akommes fir schwéier behënnert Persounen; Virschëss op net bezuelten Kannerënnerhalt; eng Ergänzung fir eeler Leit an der Fleeg; an d'Kannererzéiungspensioun, d'Mammerent. All d'Formulairen fannt Dir op fns.lu — an d'REVIS-Empfänger kréien d'Liewensdeierungszoulag automatesch.",
-    "t": 720.84
+    "t": 724.85
    },
    {
     "speaker": "Anna",
     "text": "An d'Botschaft fir haut?",
-    "t": 751.67
+    "t": 755.68
    },
    {
     "speaker": "Tom",
     "text": "Solidaritéit zu Lëtzebuerg ass net just e Wuert — et ass e Büro, mat engem Budget, an enger Telefonsnummer. Wann d'Liewen schwéier gëtt, ass dat Netz real, an et ass do fir Iech. Dir musst just d'Hand duerno ausstrecken.",
-    "t": 753.37
+    "t": 757.38
    },
    {
     "speaker": "Anna",
     "text": "Also... wann Dir, oder een, deen Dir kennt, Schwieregkeeten huet — denkt un den Numm. Den Nationale Solidaritéitsfong. fns.lu.",
-    "t": 765.07
+    "t": 769.08
    },
    {
     "speaker": "Tom",
     "text": "Ee Fong, deen jiddwereen hält, deen et brauch. Dat heescht Solidaritéit.",
-    "t": 774.52
+    "t": 778.53
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer den Nationale Solidaritéitsfong. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 779.15
+    "t": 783.16
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 823.79
+    "t": 827.8
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 826.99
+    "t": 831.01
    }
   ],
   "audio_fr": "podcast_fns_fr.mp3",
-  "duration_fr": 843.99,
+  "duration_fr": 846.94,
   "title_fr": "Le Fonds national de solidarité – le filet de sécurité du Luxembourg",
   "description_fr": "Le Fonds national de solidarité (FNS, fns.lu) est le filet de sécurité du Luxembourg contre la pauvreté. Il gère le revenu d'inclusion sociale (REVIS), l'allocation de vie chère avec la prime énergie et l'aide aux personnes âgées, un revenu pour personnes gravement handicapées, des avances sur pensions alimentaires impayées, un complément pour les personnes âgées en soins, et la pension pour l'éducation des enfants (« Mammerent »). Formulaires et calculateur en ligne sur fns.lu – et les bénéficiaires du REVIS reçoivent l'allocation de vie chère automatiquement.",
   "topics_fr": [
@@ -48579,7 +48579,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_fns_de.mp3",
-  "duration_de": 957.65,
+  "duration_de": 962.61,
   "title_de": "Der Nationale Solidaritätsfonds – Luxemburgs soziales Netz",
   "description_de": "Der Nationale Solidaritätsfonds (Fonds national de solidarité, FNS, fns.lu) ist Luxemburgs soziales Netz gegen Armut. Er verwaltet das Eingliederungseinkommen (REVIS), die Teuerungszulage mit der Energieprämie und der Seniorenhilfe, ein Einkommen für schwer behinderte Menschen, Vorschüsse auf nicht gezahlte Unterhaltsleistungen, einen Zuschlag für ältere Menschen in Pflege und die Erziehungspension („Mammerent“). Formulare und Online-Rechner auf fns.lu – und REVIS-Empfänger erhalten die Teuerungszulage automatisch.",
   "topics_de": [
@@ -48660,7 +48660,7 @@ const EPISODES = [
   "title": "The National Social Inclusion Office – More Than a Cheque",
   "description": "The Office national d'inclusion sociale (ONIS) is the government office that handles the 'inclusion' side of REVIS, Luxembourg's social inclusion income. While the National Solidarity Fund (FNS) pays the money, ONIS helps people furthest from work – referred by ADEM – move forward – through stabilisation measures first, then activation measures. You sign a collaboration declaration, are paired with a regional social inclusion agent (ARIS) near your home, and together build a personal activation plan. Created by the 2018 REVIS law, it began work in 2019. More at onis.gouvernement.lu.",
   "audio": "podcast_onis.mp3",
-  "duration": 805.85,
+  "duration": 810.71,
   "topics": [
    "ONIS & the inclusion side of REVIS",
    "Money (FNS) vs inclusion (ONIS)",
@@ -48874,898 +48874,898 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "It's a government administration, under the Ministry of Family.",
+    "text": "It's a government administration, under the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
     "t": 142.12
    },
    {
     "speaker": "Anna",
     "text": "It was created by the big REVIS reform — the law of twenty eighteen — and it started its work at the beginning of twenty nineteen.",
-    "t": 145.71
+    "t": 150.05
    },
    {
     "speaker": "Anna",
     "text": "It actually replaced an older service that did similar work before.",
-    "t": 153.64
+    "t": 158.51
    },
    {
     "speaker": "Tom",
     "text": "So it's relatively young, but built on older foundations.",
-    "t": 157.82
+    "t": 162.69
    },
    {
     "speaker": "Anna",
     "text": "Yes. And its mission, in plain words, is to help the people who are furthest from the job market take steps back toward it — at their own pace.",
-    "t": 161.01
+    "t": 165.88
    },
    {
     "speaker": "Tom",
     "text": "Furthest from the job market.",
-    "t": 170.56
+    "t": 175.43
    },
    {
     "speaker": "Tom",
     "text": "Who do you mean by that?",
-    "t": 172.38
+    "t": 177.25
    },
    {
     "speaker": "Anna",
     "text": "People who, for all kinds of reasons, can't simply walk into a job tomorrow.",
-    "t": 173.71
+    "t": 178.58
    },
    {
     "speaker": "Anna",
     "text": "Maybe someone has been out of work for a very long time.",
-    "t": 178.17
+    "t": 183.04
    },
    {
     "speaker": "Anna",
     "text": "Maybe there's a health problem, or a difficult family situation, or housing troubles, or a loss of confidence.",
-    "t": 181.27
+    "t": 186.14
    },
    {
     "speaker": "Anna",
     "text": "Life can knock people down in many ways.",
-    "t": 188.01
+    "t": 192.88
    },
    {
     "speaker": "Tom",
     "text": "So it's not just \"go and find a job\".",
-    "t": 190.73
+    "t": 195.6
    },
    {
     "speaker": "Tom",
     "text": "The obstacles can be much deeper.",
-    "t": 192.99
+    "t": 197.86
    },
    {
     "speaker": "Anna",
     "text": "Much deeper. And that's the wisdom of how ONIS works.",
-    "t": 195.58
+    "t": 200.45
    },
    {
     "speaker": "Anna",
     "text": "It doesn't treat everyone the same.",
-    "t": 199.14
+    "t": 204.01
    },
    {
     "speaker": "Anna",
     "text": "It recognises that before some people can look for work, they first need to stabilise their life.",
-    "t": 201.14
+    "t": 206.01
    },
    {
     "speaker": "Tom",
     "text": "Stabilise. That's an interesting word.",
-    "t": 207.18
+    "t": 212.05
    },
    {
     "speaker": "Tom",
     "text": "Can you unpack it?",
-    "t": 209.04
+    "t": 213.91
    },
    {
     "speaker": "Anna",
     "text": "Of course. ONIS works with two kinds of measures.",
-    "t": 210.33
+    "t": 215.2
    },
    {
     "speaker": "Anna",
     "text": "The first kind are called stabilisation measures.",
-    "t": 213.7
+    "t": 218.57
    },
    {
     "speaker": "Anna",
     "text": "These are for someone who isn't ready for a job yet — because there are other things to sort out first.",
-    "t": 216.76
+    "t": 221.63
    },
    {
     "speaker": "Anna",
     "text": "Health, personal difficulties, getting daily life back on track.",
-    "t": 222.54
+    "t": 227.41
    },
    {
     "speaker": "Tom",
     "text": "So first, help me stand up steadily.",
-    "t": 226.77
+    "t": 231.64
    },
    {
     "speaker": "Anna",
     "text": "First, help you stand.",
-    "t": 228.97
+    "t": 233.84
    },
    {
     "speaker": "Anna",
     "text": "And then, the second kind — activation measures.",
-    "t": 231.09
+    "t": 235.96
    },
    {
     "speaker": "Anna",
     "text": "These are the steps toward work and activity.",
-    "t": 235.22
+    "t": 240.09
    },
    {
     "speaker": "Anna",
     "text": "Building skills, gaining experience, getting back into a rhythm.",
-    "t": 238.49
+    "t": 243.36
    },
    {
     "speaker": "Tom",
     "text": "So stabilisation first, then activation.",
-    "t": 242.9
+    "t": 247.77
    },
    {
     "speaker": "Tom",
     "text": "It meets people where they actually are.",
-    "t": 245.49
+    "t": 250.36
    },
    {
     "speaker": "Anna",
     "text": "Exactly. It's not one-size-fits-all.",
-    "t": 247.62
+    "t": 252.49
    },
    {
     "speaker": "Anna",
     "text": "It's a path shaped around each individual person, and how they're developing.",
-    "t": 250.51
+    "t": 255.38
    },
    {
     "speaker": "Tom",
     "text": "Okay, let's make it practical.",
-    "t": 254.74
+    "t": 259.61
    },
    {
     "speaker": "Tom",
     "text": "If I'm a person who starts receiving REVIS, what actually happens with ONIS?",
-    "t": 256.71
+    "t": 261.58
    },
    {
     "speaker": "Tom",
     "text": "Walk me through it.",
-    "t": 261.45
+    "t": 266.32
    },
    {
     "speaker": "Anna",
     "text": "Sure. It actually starts at ADEM.",
-    "t": 262.71
+    "t": 267.58
    },
    {
     "speaker": "Anna",
     "text": "If you're under sixty-five and able to work, ADEM first looks at your situation.",
-    "t": 265.24
+    "t": 270.11
    },
    {
     "speaker": "Anna",
     "text": "If you're ready for a job, ADEM accompanies you.",
-    "t": 270.05
+    "t": 274.92
    },
    {
     "speaker": "Anna",
     "text": "But if there are other difficulties to deal with first, ADEM sends you to ONIS.",
-    "t": 273.24
+    "t": 278.11
    },
    {
     "speaker": "Anna",
     "text": "Then ONIS invites you to an information meeting — and there, you sign something called a collaboration declaration.",
-    "t": 278.18
+    "t": 283.05
    },
    {
     "speaker": "Tom",
     "text": "A collaboration declaration.",
-    "t": 284.96
+    "t": 289.83
    },
    {
     "speaker": "Tom",
     "text": "That sounds formal.",
-    "t": 286.42
+    "t": 291.29
    },
    {
     "speaker": "Tom",
     "text": "What does it mean, really?",
-    "t": 287.7
+    "t": 292.57
    },
    {
     "speaker": "Anna",
     "text": "In simple terms, it's a mutual promise.",
-    "t": 289.28
+    "t": 294.15
    },
    {
     "speaker": "Anna",
     "text": "You agree to take part — to work together on your situation.",
-    "t": 291.88
+    "t": 296.75
    },
    {
     "speaker": "Anna",
     "text": "And the State agrees to support you.",
-    "t": 296.12
+    "t": 300.99
    },
    {
     "speaker": "Anna",
     "text": "It's a two-way street.",
-    "t": 298.36
+    "t": 303.23
    },
    {
     "speaker": "Anna",
     "text": "You're not just receiving; you're participating.",
-    "t": 300.07
+    "t": 304.94
    },
    {
     "speaker": "Tom",
     "text": "So it's a partnership, written down.",
-    "t": 303.21
+    "t": 308.08
    },
    {
     "speaker": "Anna",
     "text": "A partnership. And then comes the part I find really thoughtful.",
-    "t": 305.5
+    "t": 310.37
    },
    {
     "speaker": "Anna",
     "text": "You're paired with a person — a regional social inclusion agent.",
-    "t": 309.64
+    "t": 314.51
    },
    {
     "speaker": "Anna",
     "text": "In French, an \"agent régional d'inclusion sociale\", an ARIS.",
-    "t": 313.8
+    "t": 318.67
    },
    {
     "speaker": "Tom",
     "text": "A regional agent.",
-    "t": 318.48
+    "t": 323.35
    },
    {
     "speaker": "Tom",
     "text": "So a real human being, assigned to help you.",
-    "t": 319.73
+    "t": 324.6
    },
    {
     "speaker": "Anna",
     "text": "A real human being, who becomes your guide.",
-    "t": 322.34
+    "t": 327.21
    },
    {
     "speaker": "Anna",
     "text": "And \"regional\" matters — these agents work inside the local social offices, around the country.",
-    "t": 325.44
+    "t": 330.31
    },
    {
     "speaker": "Anna",
     "text": "So you're not sent to one big building in the capital.",
-    "t": 331.06
+    "t": 335.93
    },
    {
     "speaker": "Anna",
     "text": "You're helped close to where you live.",
-    "t": 333.97
+    "t": 338.84
    },
    {
     "speaker": "Tom",
     "text": "That's important. Help that's local, and personal.",
-    "t": 336.13
+    "t": 341
    },
    {
     "speaker": "Anna",
     "text": "Very. And together, you and your agent build something called an activation plan.",
-    "t": 339.3
+    "t": 344.17
    },
    {
     "speaker": "Anna",
     "text": "It's a personal plan — your situation, your difficulties, your goals, and the concrete steps to move forward.",
-    "t": 345.87
+    "t": 350.74
    },
    {
     "speaker": "Anna",
     "text": "The plan is set for up to a year at a time, and it can be changed whenever your situation changes.",
-    "t": 352.55
+    "t": 357.42
    },
    {
     "speaker": "Tom",
     "text": "So the plan is built with you, not handed to you.",
-    "t": 358.41
+    "t": 363.28
    },
    {
     "speaker": "Anna",
     "text": "With you. That's the heart of it.",
-    "t": 361.15
+    "t": 366.02
    },
    {
     "speaker": "Anna",
     "text": "It's your plan.",
-    "t": 363.2
+    "t": 368.07
    },
    {
     "speaker": "Anna",
     "text": "The agent brings the knowledge and the options; you bring your life and your hopes.",
-    "t": 364.43
+    "t": 369.3
    },
    {
     "speaker": "Anna",
     "text": "Together, you map the road.",
-    "t": 369.24
+    "t": 374.11
    },
    {
     "speaker": "Tom",
     "text": "And what kind of steps might be in that plan?",
-    "t": 371.74
+    "t": 376.61
    },
    {
     "speaker": "Tom",
     "text": "Give me some examples.",
-    "t": 373.9
+    "t": 378.77
    },
    {
     "speaker": "Anna",
     "text": "It depends entirely on the person.",
-    "t": 375.35
+    "t": 380.22
    },
    {
     "speaker": "Anna",
     "text": "For someone who needs stabilising first, it might be about health, or sorting out practical problems, or rebuilding a daily structure.",
-    "t": 377.54
+    "t": 382.41
    },
    {
     "speaker": "Anna",
     "text": "For someone closer to work, it might be training, or gaining experience.",
-    "t": 386
+    "t": 390.87
    },
    {
     "speaker": "Tom",
     "text": "And the work experience — how does that happen if you don't have a job yet?",
-    "t": 390.28
+    "t": 395.15
    },
    {
     "speaker": "Anna",
     "text": "One of the tools is a temporary placement in a useful, community role — with a host organisation, for example an association.",
-    "t": 394.17
+    "t": 399.04
    },
    {
     "speaker": "Anna",
     "text": "You contribute, you're active, you build experience and confidence — and that can become a stepping stone toward a real job.",
-    "t": 402.23
+    "t": 407.1
    },
    {
     "speaker": "Anna",
     "text": "And for that work, you receive an activation allowance — based on the minimum wage, for the hours you work.",
-    "t": 409.79
+    "t": 414.66
    },
    {
     "speaker": "Tom",
     "text": "So you're doing something meaningful, and at the same time preparing yourself.",
-    "t": 416.54
+    "t": 421.41
    },
    {
     "speaker": "Anna",
     "text": "Exactly. It's dignity and preparation in one.",
-    "t": 420.59
+    "t": 425.46
    },
    {
     "speaker": "Anna",
     "text": "You're not sitting at home feeling useless.",
-    "t": 423.59
+    "t": 428.46
    },
    {
     "speaker": "Anna",
     "text": "You're contributing, and growing.",
-    "t": 425.94
+    "t": 430.81
    },
    {
     "speaker": "Tom",
     "text": "Anna, I want to ask the honest question some listeners will have.",
-    "t": 428.33
+    "t": 433.2
    },
    {
     "speaker": "Tom",
     "text": "Is this about helping people — or is it about checking up on them, making sure they're not being lazy?",
-    "t": 431.9
+    "t": 436.77
    },
    {
     "speaker": "Anna",
     "text": "That's a fair question, and an important one.",
-    "t": 437.77
+    "t": 442.64
    },
    {
     "speaker": "Anna",
     "text": "The honest answer is — the spirit of it is help, not punishment.",
-    "t": 440.48
+    "t": 445.35
    },
    {
     "speaker": "Anna",
     "text": "The whole design is to accompany people, at their own pace, around their own obstacles.",
-    "t": 445.31
+    "t": 450.18
    },
    {
     "speaker": "Anna",
     "text": "It's true that REVIS asks for participation — that's the collaboration declaration — and if someone repeatedly refuses to take part, the payment can be reduced or suspended.",
-    "t": 451.24
+    "t": 456.11
    },
    {
     "speaker": "Anna",
     "text": "But the aim isn't to catch people out.",
-    "t": 462.31
+    "t": 467.18
    },
    {
     "speaker": "Anna",
     "text": "The aim is to not abandon them.",
-    "t": 465.14
+    "t": 470.01
    },
    {
     "speaker": "Tom",
     "text": "To not abandon them.",
-    "t": 467.74
+    "t": 472.61
    },
    {
     "speaker": "Tom",
     "text": "Because just sending money, and nothing else...",
-    "t": 469.06
+    "t": 473.93
    },
    {
     "speaker": "Anna",
     "text": "...can leave a person stuck and alone for years.",
-    "t": 471.84
+    "t": 476.71
    },
    {
     "speaker": "Anna",
     "text": "And that's the trap REVIS and ONIS are trying to avoid.",
-    "t": 474.96
+    "t": 479.83
    },
    {
     "speaker": "Anna",
     "text": "Money keeps you afloat.",
-    "t": 478.12
+    "t": 482.99
    },
    {
     "speaker": "Anna",
     "text": "But inclusion — a guide, a plan, a path — that's what helps you move.",
-    "t": 479.82
+    "t": 484.69
    },
    {
     "speaker": "Tom",
     "text": "That really reframes it.",
-    "t": 484.91
+    "t": 489.78
    },
    {
     "speaker": "Tom",
     "text": "The cheque is the floor; ONIS is the staircase.",
-    "t": 486.26
+    "t": 491.13
    },
    {
     "speaker": "Anna",
     "text": "The cheque is the floor; ONIS is the staircase.",
-    "t": 489.67
+    "t": 494.54
    },
    {
     "speaker": "Anna",
     "text": "I'll borrow that.",
-    "t": 492.46
+    "t": 497.33
    },
    {
     "speaker": "Tom",
     "text": "Let's make it concrete with a person.",
-    "t": 493.88
+    "t": 498.75
    },
    {
     "speaker": "Tom",
     "text": "Can we?",
-    "t": 495.86
+    "t": 500.73
    },
    {
     "speaker": "Anna",
     "text": "Let's. Imagine a man — let's call him Paulo.",
-    "t": 496.79
+    "t": 501.66
    },
    {
     "speaker": "Anna",
     "text": "He's been out of work for several years.",
-    "t": 499.37
+    "t": 504.24
    },
    {
     "speaker": "Anna",
     "text": "He lost his job, then his confidence, and slowly he drifted far from the labour market.",
-    "t": 501.56
+    "t": 506.43
    },
    {
     "speaker": "Tom",
     "text": "A story that's more common than people think.",
-    "t": 507.51
+    "t": 512.38
    },
    {
     "speaker": "Anna",
     "text": "Far more common.",
-    "t": 509.85
+    "t": 514.72
    },
    {
     "speaker": "Anna",
     "text": "So Paulo applies for REVIS.",
-    "t": 511.15
+    "t": 516.02
    },
    {
     "speaker": "Anna",
     "text": "The FNS sorts out the money side — he gets the minimum income, so he can live.",
-    "t": 513.28
+    "t": 518.15
    },
    {
     "speaker": "Anna",
     "text": "ADEM looks at his situation, sees that he isn't ready for a job yet, and sends him to ONIS.",
-    "t": 518.59
+    "t": 523.46
    },
    {
     "speaker": "Anna",
     "text": "And that's when ONIS enters his life.",
-    "t": 525.05
+    "t": 529.92
    },
    {
     "speaker": "Tom",
     "text": "He's invited to a meeting.",
-    "t": 527.14
+    "t": 532.01
    },
    {
     "speaker": "Anna",
     "text": "He's invited, he signs the collaboration declaration, and he's paired with a regional agent near his home.",
-    "t": 528.82
+    "t": 533.69
    },
    {
     "speaker": "Anna",
     "text": "They sit down together.",
-    "t": 535.19
+    "t": 540.06
    },
    {
     "speaker": "Anna",
     "text": "And at first, it's clear Paulo isn't ready to job-hunt — he's exhausted, a bit lost.",
-    "t": 536.87
+    "t": 541.74
    },
    {
     "speaker": "Anna",
     "text": "So the plan starts with stabilisation.",
-    "t": 542.42
+    "t": 547.29
    },
    {
     "speaker": "Tom",
     "text": "Help him stand up first.",
-    "t": 545.04
+    "t": 549.91
    },
    {
     "speaker": "Anna",
     "text": "Help him stand.",
-    "t": 546.62
+    "t": 551.49
    },
    {
     "speaker": "Anna",
     "text": "Then, step by step, as he stabilises, the plan moves toward activation.",
-    "t": 548.19
+    "t": 553.06
    },
    {
     "speaker": "Anna",
     "text": "Maybe a placement in a community organisation, to get back into a rhythm and rebuild his confidence.",
-    "t": 553.63
+    "t": 558.5
    },
    {
     "speaker": "Anna",
     "text": "Then some training.",
-    "t": 559.45
+    "t": 564.32
    },
    {
     "speaker": "Tom",
     "text": "And one day, perhaps, a real job.",
-    "t": 560.85
+    "t": 565.72
    },
    {
     "speaker": "Anna",
     "text": "That's the goal.",
-    "t": 563.04
+    "t": 567.91
    },
    {
     "speaker": "Anna",
     "text": "And even if it takes time, Paulo is no longer alone with it.",
-    "t": 564.15
+    "t": 569.02
    },
    {
     "speaker": "Anna",
     "text": "He has a plan, and a person walking beside him.",
-    "t": 568.13
+    "t": 573
    },
    {
     "speaker": "Anna",
     "text": "That changes everything.",
-    "t": 571.26
+    "t": 576.13
    },
    {
     "speaker": "Tom",
     "text": "It really does.",
-    "t": 572.91
+    "t": 577.78
    },
    {
     "speaker": "Tom",
     "text": "The difference between drifting, and being accompanied.",
-    "t": 573.94
+    "t": 578.81
    },
    {
     "speaker": "Anna",
     "text": "That's the whole difference.",
-    "t": 577.05
+    "t": 581.92
    },
    {
     "speaker": "Anna",
     "text": "And it's what \"inclusion\" really means — not leaving anyone outside.",
-    "t": 578.61
+    "t": 583.48
    },
    {
     "speaker": "Tom",
     "text": "Let's zoom out for a second.",
-    "t": 582.99
+    "t": 587.86
    },
    {
     "speaker": "Tom",
     "text": "Why does this matter for society as a whole, not just for the individual?",
-    "t": 584.4
+    "t": 589.27
    },
    {
     "speaker": "Anna",
     "text": "Because when someone moves from being stuck, to being active and included, everybody gains.",
-    "t": 588.31
+    "t": 593.18
    },
    {
     "speaker": "Anna",
     "text": "The person regains dignity and income.",
-    "t": 594.14
+    "t": 599.01
    },
    {
     "speaker": "Anna",
     "text": "Their family is more stable.",
-    "t": 596.8
+    "t": 601.67
    },
    {
     "speaker": "Anna",
     "text": "And society keeps a member connected, contributing, instead of lost.",
-    "t": 598.66
+    "t": 603.53
    },
    {
     "speaker": "Anna",
     "text": "Inclusion is good for the person, and good for all of us.",
-    "t": 603.59
+    "t": 608.46
    },
    {
     "speaker": "Tom",
     "text": "A society is stronger when nobody is written off.",
-    "t": 607.46
+    "t": 612.33
    },
    {
     "speaker": "Anna",
     "text": "When nobody is written off.",
-    "t": 610.25
+    "t": 615.12
    },
    {
     "speaker": "Anna",
     "text": "That's the quiet philosophy behind ONIS.",
-    "t": 611.88
+    "t": 616.75
    },
    {
     "speaker": "Tom",
     "text": "Okay Anna, let's bring it home.",
-    "t": 614.51
+    "t": 619.38
    },
    {
     "speaker": "Tom",
     "text": "If I'm listening, and this touches me, or someone I know — what should I take away?",
-    "t": 616.42
+    "t": 621.29
    },
    {
     "speaker": "Anna",
     "text": "A few simple things.",
-    "t": 620.85
+    "t": 625.72
    },
    {
     "speaker": "Anna",
     "text": "First — if you receive REVIS, ONIS is not your enemy.",
-    "t": 622.29
+    "t": 627.16
    },
    {
     "speaker": "Anna",
     "text": "It's the part of REVIS that's there to help you move forward, with a real person and a personal plan.",
-    "t": 626.01
+    "t": 630.88
    },
    {
     "speaker": "Tom",
     "text": "The inclusion side, not just the money side.",
-    "t": 632.16
+    "t": 637.03
    },
    {
     "speaker": "Anna",
     "text": "Second — it works at your pace.",
-    "t": 634.72
+    "t": 639.59
    },
    {
     "speaker": "Anna",
     "text": "If you need to stabilise first, that's allowed, that's normal.",
-    "t": 637.39
+    "t": 642.26
    },
    {
     "speaker": "Anna",
     "text": "Stabilisation comes before activation.",
-    "t": 640.83
+    "t": 645.7
    },
    {
     "speaker": "Anna",
     "text": "Nobody is pushed faster than they can go.",
-    "t": 643.67
+    "t": 648.54
    },
    {
     "speaker": "Anna",
     "text": "And in some situations — for example if you look after a young child and have no childcare, if you care for a family member, or for health reasons — you can be exempted for a while.",
-    "t": 646.19
+    "t": 651.06
    },
    {
     "speaker": "Tom",
     "text": "And third?",
-    "t": 657.71
+    "t": 662.58
    },
    {
     "speaker": "Anna",
     "text": "Third — you're not alone.",
-    "t": 658.66
+    "t": 663.53
    },
    {
     "speaker": "Anna",
     "text": "You get a regional agent, close to home, who builds the plan with you.",
-    "t": 660.66
+    "t": 665.53
    },
    {
     "speaker": "Anna",
     "text": "If you ever feel lost in the system, that agent is your point of contact.",
-    "t": 664.91
+    "t": 669.78
    },
    {
     "speaker": "Tom",
     "text": "And where can people learn more?",
-    "t": 669.9
+    "t": 674.77
    },
    {
     "speaker": "Anna",
     "text": "The official website is onis — that's o-n-i-s — dot gouvernement dot l-u.",
-    "t": 671.57
+    "t": 676.44
    },
    {
     "speaker": "Anna",
     "text": "And for the REVIS benefit itself, the information is on guichet dot l-u, and the money side is the National Solidarity Fund, which we covered in another episode.",
-    "t": 678.03
+    "t": 682.9
    },
    {
     "speaker": "Tom",
     "text": "A short summary to finish?",
-    "t": 688.62
+    "t": 693.49
    },
    {
     "speaker": "Anna",
     "text": "Sure. ONIS, the National Social Inclusion Office, is the government office that handles the \"inclusion\" side of REVIS, Luxembourg's social inclusion income.",
-    "t": 690.19
+    "t": 695.06
    },
    {
     "speaker": "Anna",
     "text": "While the National Solidarity Fund pays the money, ONIS helps the people furthest from work — the ones ADEM sends to it — move forward — through stabilisation measures first, then activation measures.",
-    "t": 700.1
+    "t": 704.97
    },
    {
     "speaker": "Anna",
     "text": "You sign a collaboration declaration, you're paired with a regional social inclusion agent near your home, and together you build a personal activation plan.",
-    "t": 713.05
+    "t": 717.92
    },
    {
     "speaker": "Anna",
     "text": "The spirit is to accompany, not to abandon.",
-    "t": 723.16
+    "t": 728.03
    },
    {
     "speaker": "Tom",
     "text": "And the message for today?",
-    "t": 726.42
+    "t": 731.29
    },
    {
     "speaker": "Anna",
     "text": "That a minimum income is only half of solidarity.",
-    "t": 727.9
+    "t": 732.77
    },
    {
     "speaker": "Anna",
     "text": "The other half is inclusion — a hand, a plan, and a path back.",
-    "t": 731.05
+    "t": 735.92
    },
    {
     "speaker": "Anna",
     "text": "Money keeps you standing; inclusion helps you walk.",
-    "t": 736.09
+    "t": 740.96
    },
    {
     "speaker": "Tom",
     "text": "So... whether it's for you, or for someone you care about — remember, behind the REVIS cheque there's also a helping hand.",
-    "t": 739.81
+    "t": 744.68
    },
    {
     "speaker": "Tom",
     "text": "The National Social Inclusion Office.",
-    "t": 747.57
+    "t": 752.44
    },
    {
     "speaker": "Tom",
     "text": "ONIS.",
-    "t": 749.72
+    "t": 754.59
    },
    {
     "speaker": "Anna",
     "text": "Half the help is the money.",
-    "t": 750.67
+    "t": 755.54
    },
    {
     "speaker": "Anna",
     "text": "The other half is not being left alone.",
-    "t": 752.31
+    "t": 757.18
    },
    {
     "speaker": "Anna",
     "text": "That's worth knowing.",
-    "t": 754.58
+    "t": 759.45
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the National Social Inclusion Office.",
-    "t": 756.04
+    "t": 760.91
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 759.61
+    "t": 764.48
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 769.12
+    "t": 773.99
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 787.4
+    "t": 792.27
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 794.15
+    "t": 799.02
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 796.35
+    "t": 801.22
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 801.04
+    "t": 805.91
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 802.12
+    "t": 807
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 804.24
+    "t": 809.12
    }
   ],
   "segments_fr": [
@@ -49787,1072 +49787,1072 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Anna",
     "text": "Et aujourd'hui, nous parlons d'un office qui a une mission très douce, très humaine.",
-    "t": 23.21
+    "t": 23.27
    },
    {
     "speaker": "Anna",
     "text": "Il s'appelle l'Office national d'inclusion sociale.",
-    "t": 27.35
+    "t": 27.41
    },
    {
     "speaker": "Tom",
     "text": "L'Office national d'inclusion sociale.",
-    "t": 30.07
+    "t": 30.13
    },
    {
     "speaker": "Tom",
     "text": "On utilise le nom court — O-N-I-S.",
-    "t": 32.36
+    "t": 32.42
    },
    {
     "speaker": "Anna",
     "text": "ONIS. C'est ça.",
-    "t": 35.81
+    "t": 35.87
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, dans un épisode précédent, nous avons parlé du Fonds national de solidarité, et d'une prestation qui s'appelle le REVIS — le revenu d'inclusion sociale.",
-    "t": 37.65
+    "t": 37.71
    },
    {
     "speaker": "Tom",
     "text": "Y a-t-il un lien ?",
-    "t": 46.82
+    "t": 46.88
    },
    {
     "speaker": "Anna",
     "text": "Il y a un lien direct — et c'est la clé pour comprendre l'ONIS.",
-    "t": 48.08
+    "t": 48.14
    },
    {
     "speaker": "Anna",
     "text": "Tu te souviens, le REVIS, c'est le revenu minimum garanti du Luxembourg.",
-    "t": 51
+    "t": 51.06
    },
    {
     "speaker": "Anna",
     "text": "Si les revenus de ton ménage sont trop faibles, le REVIS les complète jusqu'à un niveau de base.",
-    "t": 54.55
+    "t": 54.61
    },
    {
     "speaker": "Tom",
     "text": "Oui — le plancher en dessous duquel l'État ne te laisse pas tomber.",
-    "t": 58.88
+    "t": 58.94
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Mais voilà le point important.",
-    "t": 62.57
+    "t": 62.63
    },
    {
     "speaker": "Anna",
     "text": "Le nom complet, ce n'est pas seulement « revenu minimum ».",
-    "t": 64.77
+    "t": 64.83
    },
    {
     "speaker": "Anna",
     "text": "C'est le « revenu d'inclusion sociale ».",
-    "t": 67.62
+    "t": 67.68
    },
    {
     "speaker": "Anna",
     "text": "Et ce mot — inclusion — c'est tout l'enjeu.",
-    "t": 69.59
+    "t": 69.65
    },
    {
     "speaker": "Anna",
     "text": "Le REVIS a deux facettes.",
-    "t": 71.79
+    "t": 71.85
    },
    {
     "speaker": "Tom",
     "text": "Deux facettes. Raconte-moi.",
-    "t": 73.41
+    "t": 73.47
    },
    {
     "speaker": "Anna",
     "text": "Une facette, c'est l'argent — le chèque chaque mois.",
-    "t": 75.4
+    "t": 75.46
    },
    {
     "speaker": "Anna",
     "text": "Cette partie-là est versée par le Fonds national de solidarité, le FNS.",
-    "t": 78.35
+    "t": 78.41
    },
    {
     "speaker": "Anna",
     "text": "Mais la deuxième facette est tout aussi importante.",
-    "t": 82.89
+    "t": 82.95
    },
    {
     "speaker": "Anna",
     "text": "C'est aider la personne à retrouver son chemin — vers le travail, vers l'activité, vers le fait de faire à nouveau partie de la société.",
-    "t": 85.55
+    "t": 85.61
    },
    {
     "speaker": "Tom",
     "text": "Et cette deuxième facette — celle de l'inclusion — c'est la mission de l'ONIS.",
-    "t": 92.16
+    "t": 92.22
    },
    {
     "speaker": "Anna",
     "text": "En partie — et c'est important.",
-    "t": 96.67
+    "t": 96.73
    },
    {
     "speaker": "Anna",
     "text": "Le FNS s'occupe de l'argent.",
-    "t": 98.61
+    "t": 98.67
    },
    {
     "speaker": "Anna",
     "text": "Pour les personnes prêtes à chercher un emploi, le volet inclusion, c'est l'ADEM, l'agence pour l'emploi.",
-    "t": 100.59
+    "t": 100.65
    },
    {
     "speaker": "Anna",
     "text": "Mais pour les personnes encore éloignées du travail, c'est l'ONIS — il s'occupe des personnes, et de leur chemin vers l'avenir.",
-    "t": 105.44
+    "t": 105.5
    },
    {
     "speaker": "Anna",
     "text": "Le REVIS n'est pas censé être un chèque que tu reçois pour toujours, seul chez toi.",
-    "t": 111.24
+    "t": 111.3
    },
    {
     "speaker": "Anna",
     "text": "Il est censé être un pont.",
-    "t": 115.06
+    "t": 115.12
    },
    {
     "speaker": "Tom",
     "text": "J'adore cette distinction.",
-    "t": 116.69
+    "t": 116.75
    },
    {
     "speaker": "Tom",
     "text": "Donc l'ONIS, c'est l'office qui marche à tes côtés sur le pont.",
-    "t": 118.41
+    "t": 118.47
    },
    {
     "speaker": "Anna",
     "text": "Joliment dit. C'est exactement ce qu'il fait.",
-    "t": 121.82
+    "t": 121.88
    },
    {
     "speaker": "Tom",
     "text": "Voyons les bases.",
-    "t": 124.89
+    "t": 124.95
    },
    {
     "speaker": "Tom",
     "text": "Quel genre d'office est l'ONIS, officiellement ?",
-    "t": 126.2
+    "t": 126.26
    },
    {
     "speaker": "Anna",
-    "text": "C'est une administration de l'État, qui relève du ministère de la Famille.",
-    "t": 129.02
+    "text": "C'est une administration de l'État, qui relève du Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 129.08
    },
    {
     "speaker": "Anna",
     "text": "Il a été créé par la grande réforme du REVIS — la loi de deux mille dix-huit — et il a commencé son travail au début de deux mille dix-neuf.",
-    "t": 132.75
+    "t": 135.96
    },
    {
     "speaker": "Anna",
     "text": "En réalité, il a remplacé un ancien service qui faisait un travail semblable avant lui.",
-    "t": 139.32
+    "t": 143.22
    },
    {
     "speaker": "Tom",
     "text": "Donc il est relativement jeune, mais bâti sur des fondations plus anciennes.",
-    "t": 143.4
+    "t": 147.3
    },
    {
     "speaker": "Anna",
     "text": "Oui. Et sa mission, en mots simples, c'est d'aider les personnes les plus éloignées du marché de l'emploi à faire des pas pour s'en rapprocher — à leur propre rythme.",
-    "t": 147.68
+    "t": 151.58
    },
    {
     "speaker": "Tom",
     "text": "Les plus éloignées du marché de l'emploi.",
-    "t": 154.84
+    "t": 158.74
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que tu entends par là ?",
-    "t": 156.94
+    "t": 160.84
    },
    {
     "speaker": "Anna",
     "text": "Des personnes qui, pour toutes sortes de raisons, ne peuvent pas simplement décrocher un emploi du jour au lendemain.",
-    "t": 158.65
+    "t": 162.55
    },
    {
     "speaker": "Anna",
     "text": "Peut-être que quelqu'un est sans travail depuis très longtemps.",
-    "t": 163.31
+    "t": 167.21
    },
    {
     "speaker": "Anna",
     "text": "Peut-être qu'il y a un problème de santé, ou une situation familiale difficile, ou des soucis de logement, ou une perte de confiance.",
-    "t": 165.95
+    "t": 169.85
    },
    {
     "speaker": "Anna",
     "text": "La vie peut frapper les gens de bien des manières.",
-    "t": 172.6
+    "t": 176.5
    },
    {
     "speaker": "Tom",
     "text": "Donc ce n'est pas seulement « va trouver un emploi ».",
-    "t": 174.93
+    "t": 178.83
    },
    {
     "speaker": "Tom",
     "text": "Les obstacles peuvent être bien plus profonds.",
-    "t": 177.63
+    "t": 181.53
    },
    {
     "speaker": "Anna",
     "text": "Bien plus profonds.",
-    "t": 180.42
+    "t": 184.32
    },
    {
     "speaker": "Anna",
     "text": "Et c'est là toute la sagesse de la manière dont l'ONIS travaille.",
-    "t": 181.66
+    "t": 185.56
    },
    {
     "speaker": "Anna",
     "text": "Il ne traite pas tout le monde de la même façon.",
-    "t": 184.68
+    "t": 188.58
    },
    {
     "speaker": "Anna",
     "text": "Il reconnaît qu'avant de pouvoir chercher du travail, certaines personnes ont d'abord besoin de stabiliser leur vie.",
-    "t": 186.92
+    "t": 190.82
    },
    {
     "speaker": "Tom",
     "text": "Stabiliser. C'est un mot intéressant.",
-    "t": 192.2
+    "t": 196.1
    },
    {
     "speaker": "Tom",
     "text": "Tu peux le développer ?",
-    "t": 194.81
+    "t": 198.71
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. L'ONIS travaille avec deux types de mesures.",
-    "t": 196.25
+    "t": 200.15
    },
    {
     "speaker": "Anna",
     "text": "Le premier type s'appelle les mesures de stabilisation.",
-    "t": 198.89
+    "t": 202.79
    },
    {
     "speaker": "Anna",
     "text": "Elles sont destinées à quelqu'un qui n'est pas encore prêt pour un emploi — parce qu'il y a d'autres choses à régler d'abord.",
-    "t": 201.59
+    "t": 205.49
    },
    {
     "speaker": "Anna",
     "text": "La santé, des difficultés personnelles, remettre la vie quotidienne sur les rails.",
-    "t": 206.47
+    "t": 210.37
    },
    {
     "speaker": "Tom",
     "text": "Donc d'abord, aide-moi à tenir debout solidement.",
-    "t": 210.8
+    "t": 214.7
    },
    {
     "speaker": "Anna",
     "text": "D'abord, t'aider à tenir debout.",
-    "t": 213.79
+    "t": 217.69
    },
    {
     "speaker": "Anna",
     "text": "Et ensuite, le deuxième type — les mesures d'activation.",
-    "t": 215.49
+    "t": 219.39
    },
    {
     "speaker": "Anna",
     "text": "Ce sont les pas vers le travail et l'activité.",
-    "t": 218.54
+    "t": 222.44
    },
    {
     "speaker": "Anna",
     "text": "Développer des compétences, acquérir de l'expérience, retrouver un rythme.",
-    "t": 220.89
+    "t": 224.79
    },
    {
     "speaker": "Tom",
     "text": "Donc d'abord la stabilisation, puis l'activation.",
-    "t": 225.09
+    "t": 228.99
    },
    {
     "speaker": "Tom",
     "text": "On rejoint les gens là où ils en sont vraiment.",
-    "t": 227.81
+    "t": 231.71
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Ce n'est pas une solution unique pour tous.",
-    "t": 230.23
+    "t": 234.13
    },
    {
     "speaker": "Anna",
     "text": "C'est un chemin façonné autour de chaque personne, et de la façon dont elle évolue.",
-    "t": 233.11
+    "t": 237.01
    },
    {
     "speaker": "Tom",
     "text": "D'accord, rendons ça concret.",
-    "t": 237.39
+    "t": 241.29
    },
    {
     "speaker": "Tom",
     "text": "Si je suis une personne qui commence à toucher le REVIS, qu'est-ce qui se passe vraiment avec l'ONIS ?",
-    "t": 239.35
+    "t": 243.25
    },
    {
     "speaker": "Tom",
     "text": "Explique-moi étape par étape.",
-    "t": 244.23
+    "t": 248.13
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. En fait, ça commence à l'ADEM.",
-    "t": 246.34
+    "t": 250.24
    },
    {
     "speaker": "Anna",
     "text": "Si tu as moins de soixante-cinq ans et que tu peux travailler, l'ADEM examine d'abord ta situation.",
-    "t": 248.53
+    "t": 252.43
    },
    {
     "speaker": "Anna",
     "text": "Si tu es prêt pour un emploi, c'est l'ADEM qui t'accompagne.",
-    "t": 253.27
+    "t": 257.17
    },
    {
     "speaker": "Anna",
     "text": "Mais s'il y a d'abord d'autres difficultés à régler, l'ADEM t'oriente vers l'ONIS.",
-    "t": 256.19
+    "t": 260.09
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, l'ONIS t'invite à une réunion d'information — et là, tu signes quelque chose qu'on appelle une déclaration de collaboration.",
-    "t": 260.18
+    "t": 264.08
    },
    {
     "speaker": "Tom",
     "text": "Une déclaration de collaboration.",
-    "t": 266.43
+    "t": 270.33
    },
    {
     "speaker": "Tom",
     "text": "Ça a l'air formel.",
-    "t": 268.42
+    "t": 272.32
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que ça veut dire, au fond ?",
-    "t": 269.7
+    "t": 273.6
    },
    {
     "speaker": "Anna",
     "text": "En termes simples, c'est une promesse mutuelle.",
-    "t": 271.56
+    "t": 275.46
    },
    {
     "speaker": "Anna",
     "text": "Tu t'engages à participer — à travailler ensemble sur ta situation.",
-    "t": 274.06
+    "t": 277.96
    },
    {
     "speaker": "Anna",
     "text": "Et l'État s'engage à te soutenir.",
-    "t": 277.99
+    "t": 281.89
    },
    {
     "speaker": "Anna",
     "text": "C'est à double sens.",
-    "t": 279.78
+    "t": 283.68
    },
    {
     "speaker": "Anna",
     "text": "Tu ne fais pas que recevoir ; tu participes.",
-    "t": 281.19
+    "t": 285.09
    },
    {
     "speaker": "Tom",
     "text": "Donc c'est un partenariat, mis par écrit.",
-    "t": 283.7
+    "t": 287.6
    },
    {
     "speaker": "Anna",
     "text": "Un partenariat. Et ensuite vient la partie que je trouve vraiment bien pensée.",
-    "t": 286.08
+    "t": 289.98
    },
    {
     "speaker": "Anna",
     "text": "On t'associe à une personne — un agent régional d'inclusion sociale.",
-    "t": 290.26
+    "t": 294.16
    },
    {
     "speaker": "Anna",
     "text": "Un ARIS.",
-    "t": 293.81
+    "t": 297.71
    },
    {
     "speaker": "Tom",
     "text": "Un agent régional.",
-    "t": 294.94
+    "t": 298.84
    },
    {
     "speaker": "Tom",
     "text": "Donc un véritable être humain, désigné pour t'aider.",
-    "t": 296.39
+    "t": 300.29
    },
    {
     "speaker": "Anna",
     "text": "Un véritable être humain, qui devient ton guide.",
-    "t": 299.29
+    "t": 303.19
    },
    {
     "speaker": "Anna",
     "text": "Et le mot « régional » compte — ces agents travaillent au sein des offices sociaux locaux, partout dans le pays.",
-    "t": 301.53
+    "t": 305.43
    },
    {
     "speaker": "Anna",
     "text": "Donc on ne t'envoie pas dans un grand bâtiment de la capitale.",
-    "t": 307.04
+    "t": 310.94
    },
    {
     "speaker": "Anna",
     "text": "On t'aide près de chez toi.",
-    "t": 309.75
+    "t": 313.65
    },
    {
     "speaker": "Tom",
     "text": "C'est important. Une aide locale, et personnelle.",
-    "t": 311.21
+    "t": 315.11
    },
    {
     "speaker": "Anna",
     "text": "Très. Et ensemble, ton agent et toi, vous construisez quelque chose qu'on appelle un plan d'activation.",
-    "t": 314.58
+    "t": 318.48
    },
    {
     "speaker": "Anna",
     "text": "C'est un plan personnel — ta situation, tes difficultés, tes objectifs, et les étapes concrètes pour avancer.",
-    "t": 319.75
+    "t": 323.65
    },
    {
     "speaker": "Anna",
     "text": "Le plan est fixé pour un an au maximum, et il peut être modifié dès que ta situation change.",
-    "t": 326.09
+    "t": 329.99
    },
    {
     "speaker": "Tom",
     "text": "Donc le plan est construit avec toi, et non pas remis tout fait.",
-    "t": 331.32
+    "t": 335.22
    },
    {
     "speaker": "Anna",
     "text": "Avec toi. C'est là tout le cœur.",
-    "t": 334.97
+    "t": 338.87
    },
    {
     "speaker": "Anna",
     "text": "C'est ton plan.",
-    "t": 337.5
+    "t": 341.4
    },
    {
     "speaker": "Anna",
     "text": "L'agent apporte les connaissances et les options ; toi, tu apportes ta vie et tes espoirs.",
-    "t": 338.42
+    "t": 342.32
    },
    {
     "speaker": "Anna",
     "text": "Ensemble, vous tracez la route.",
-    "t": 343.27
+    "t": 347.17
    },
    {
     "speaker": "Tom",
     "text": "Et quel genre d'étapes pourrait-il y avoir dans ce plan ?",
-    "t": 345.2
+    "t": 349.1
    },
    {
     "speaker": "Tom",
     "text": "Donne-moi quelques exemples.",
-    "t": 348.28
+    "t": 352.18
    },
    {
     "speaker": "Anna",
     "text": "Ça dépend entièrement de la personne.",
-    "t": 350.11
+    "t": 354.01
    },
    {
     "speaker": "Anna",
     "text": "Pour quelqu'un qui a d'abord besoin de se stabiliser, ça peut concerner la santé, ou régler des problèmes pratiques, ou reconstruire une structure quotidienne.",
-    "t": 351.99
+    "t": 355.88
    },
    {
     "speaker": "Anna",
     "text": "Pour quelqu'un de plus proche du travail, ça peut être une formation, ou l'acquisition d'une expérience.",
-    "t": 359.69
+    "t": 363.58
    },
    {
     "speaker": "Tom",
     "text": "Et l'expérience professionnelle — comment ça se passe si tu n'as pas encore d'emploi ?",
-    "t": 364.33
+    "t": 368.22
    },
    {
     "speaker": "Anna",
     "text": "L'un des outils, c'est un placement temporaire dans une activité utile, au service de la collectivité — dans un organisme d'accueil, par exemple une association.",
-    "t": 368.43
+    "t": 372.32
    },
    {
     "speaker": "Anna",
     "text": "Tu contribues, tu es actif, tu acquiers de l'expérience et de la confiance — et ça peut devenir un tremplin vers un vrai emploi.",
-    "t": 376.36
+    "t": 380.25
    },
    {
     "speaker": "Anna",
     "text": "Et pour ce travail, tu reçois une allocation d'activation — calculée sur le salaire minimum, selon les heures que tu travailles.",
-    "t": 382.74
+    "t": 386.63
    },
    {
     "speaker": "Tom",
     "text": "Donc tu fais quelque chose qui a du sens, et en même temps tu te prépares.",
-    "t": 388.96
+    "t": 392.85
    },
    {
     "speaker": "Anna",
     "text": "Exactement. C'est de la dignité et de la préparation en une seule chose.",
-    "t": 392.89
+    "t": 396.78
    },
    {
     "speaker": "Anna",
     "text": "Tu n'es pas assis chez toi à te sentir inutile.",
-    "t": 396.54
+    "t": 400.43
    },
    {
     "speaker": "Anna",
     "text": "Tu contribues, et tu grandis.",
-    "t": 398.99
+    "t": 402.88
    },
    {
     "speaker": "Tom",
     "text": "Anna, je veux poser la question honnête que certains auditeurs vont se poser.",
-    "t": 401.08
+    "t": 404.97
    },
    {
     "speaker": "Tom",
     "text": "Est-ce qu'il s'agit d'aider les gens — ou est-ce qu'il s'agit de les surveiller, de vérifier qu'ils ne sont pas paresseux ?",
-    "t": 405.38
+    "t": 409.27
    },
    {
     "speaker": "Anna",
     "text": "C'est une question légitime, et importante.",
-    "t": 411.43
+    "t": 415.32
    },
    {
     "speaker": "Anna",
     "text": "La réponse honnête, c'est que l'esprit de tout ça, c'est l'aide, pas la sanction.",
-    "t": 414.06
+    "t": 417.95
    },
    {
     "speaker": "Anna",
     "text": "Toute la conception vise à accompagner les personnes, à leur propre rythme, autour de leurs propres obstacles.",
-    "t": 418.5
+    "t": 422.39
    },
    {
     "speaker": "Anna",
     "text": "C'est vrai que le REVIS demande une participation — c'est la déclaration de collaboration — et si quelqu'un refuse plusieurs fois de participer, le paiement peut être réduit ou suspendu.",
-    "t": 423.88
+    "t": 427.77
    },
    {
     "speaker": "Anna",
     "text": "Mais le but n'est pas de prendre les gens en défaut.",
-    "t": 432.44
+    "t": 436.33
    },
    {
     "speaker": "Anna",
     "text": "Le but, c'est de ne pas les abandonner.",
-    "t": 434.71
+    "t": 438.6
    },
    {
     "speaker": "Tom",
     "text": "De ne pas les abandonner.",
-    "t": 436.83
+    "t": 440.72
    },
    {
     "speaker": "Tom",
     "text": "Parce que se contenter d'envoyer de l'argent, et rien d'autre...",
-    "t": 438.24
+    "t": 442.13
    },
    {
     "speaker": "Anna",
     "text": "...peut laisser une personne coincée et seule pendant des années.",
-    "t": 441.2
+    "t": 445.09
    },
    {
     "speaker": "Anna",
     "text": "Et c'est justement le piège que le REVIS et l'ONIS essaient d'éviter.",
-    "t": 444.02
+    "t": 447.91
    },
    {
     "speaker": "Anna",
     "text": "L'argent te maintient à flot.",
-    "t": 447.16
+    "t": 451.05
    },
    {
     "speaker": "Anna",
     "text": "Mais l'inclusion — un guide, un plan, un chemin — c'est ça qui t'aide à avancer.",
-    "t": 448.7
+    "t": 452.59
    },
    {
     "speaker": "Tom",
     "text": "Ça change vraiment la perspective.",
-    "t": 453.05
+    "t": 456.94
    },
    {
     "speaker": "Tom",
     "text": "Le chèque, c'est le plancher ; l'ONIS, c'est l'escalier.",
-    "t": 455.15
+    "t": 459.04
    },
    {
     "speaker": "Anna",
     "text": "Le chèque, c'est le plancher ; l'ONIS, c'est l'escalier.",
-    "t": 458.69
+    "t": 462.58
    },
    {
     "speaker": "Anna",
     "text": "Je te l'emprunte.",
-    "t": 462.69
+    "t": 466.58
    },
    {
     "speaker": "Tom",
     "text": "Rendons ça concret avec une personne.",
-    "t": 463.84
+    "t": 467.73
    },
    {
     "speaker": "Tom",
     "text": "On peut ?",
-    "t": 466.01
+    "t": 469.9
    },
    {
     "speaker": "Anna",
     "text": "Allons-y. Imaginons un homme — appelons-le Paulo.",
-    "t": 466.92
+    "t": 470.81
    },
    {
     "speaker": "Anna",
     "text": "Il est sans travail depuis plusieurs années.",
-    "t": 469.84
+    "t": 473.73
    },
    {
     "speaker": "Anna",
     "text": "Il a perdu son emploi, puis sa confiance, et peu à peu il s'est éloigné du marché du travail.",
-    "t": 471.99
+    "t": 475.88
    },
    {
     "speaker": "Tom",
     "text": "Une histoire plus courante qu'on ne le pense.",
-    "t": 477.21
+    "t": 481.1
    },
    {
     "speaker": "Anna",
     "text": "Bien plus courante.",
-    "t": 479.58
+    "t": 483.47
    },
    {
     "speaker": "Anna",
     "text": "Donc Paulo demande le REVIS.",
-    "t": 480.84
+    "t": 484.73
    },
    {
     "speaker": "Anna",
     "text": "Le FNS règle le côté argent — il reçoit le revenu minimum, et donc il peut vivre.",
-    "t": 482.78
+    "t": 486.67
    },
    {
     "speaker": "Anna",
     "text": "L'ADEM examine sa situation, voit qu'il n'est pas encore prêt pour un emploi, et l'oriente vers l'ONIS.",
-    "t": 487.44
+    "t": 491.33
    },
    {
     "speaker": "Anna",
     "text": "Et c'est là que l'ONIS entre dans sa vie.",
-    "t": 492.45
+    "t": 496.35
    },
    {
     "speaker": "Tom",
     "text": "Il est invité à un rendez-vous.",
-    "t": 494.52
+    "t": 498.42
    },
    {
     "speaker": "Anna",
     "text": "Il est invité, il signe la déclaration de collaboration, et on l'associe à un agent régional près de chez lui.",
-    "t": 496.46
+    "t": 500.36
    },
    {
     "speaker": "Anna",
     "text": "Ils s'assoient ensemble.",
-    "t": 501.55
+    "t": 505.45
    },
    {
     "speaker": "Anna",
     "text": "Et au début, c'est clair que Paulo n'est pas prêt à chercher du travail — il est épuisé, un peu perdu.",
-    "t": 502.86
+    "t": 506.76
    },
    {
     "speaker": "Anna",
     "text": "Donc le plan commence par la stabilisation.",
-    "t": 507.93
+    "t": 511.83
    },
    {
     "speaker": "Tom",
     "text": "L'aider d'abord à tenir debout.",
-    "t": 510.3
+    "t": 514.2
    },
    {
     "speaker": "Anna",
     "text": "L'aider à tenir debout.",
-    "t": 512.49
+    "t": 516.39
    },
    {
     "speaker": "Anna",
     "text": "Puis, pas à pas, à mesure qu'il se stabilise, le plan évolue vers l'activation.",
-    "t": 513.86
+    "t": 517.76
    },
    {
     "speaker": "Anna",
     "text": "Peut-être un placement dans une association, pour retrouver un rythme et reconstruire sa confiance.",
-    "t": 518
+    "t": 521.9
    },
    {
     "speaker": "Anna",
     "text": "Puis une formation.",
-    "t": 522.46
+    "t": 526.36
    },
    {
     "speaker": "Tom",
     "text": "Et un jour, peut-être, un vrai emploi.",
-    "t": 523.83
+    "t": 527.73
    },
    {
     "speaker": "Anna",
     "text": "C'est l'objectif. Et même si ça prend du temps, Paulo n'est plus seul face à tout ça.",
-    "t": 526.24
+    "t": 530.14
    },
    {
     "speaker": "Anna",
     "text": "Il a un plan, et une personne qui marche à ses côtés.",
-    "t": 531.08
+    "t": 534.98
    },
    {
     "speaker": "Anna",
     "text": "Ça change tout.",
-    "t": 533.68
+    "t": 537.58
    },
    {
     "speaker": "Tom",
     "text": "C'est vrai. La différence entre dériver, et être accompagné.",
-    "t": 534.81
+    "t": 538.71
    },
    {
     "speaker": "Anna",
     "text": "C'est toute la différence.",
-    "t": 538.74
+    "t": 542.64
    },
    {
     "speaker": "Anna",
     "text": "Et c'est ce que veut vraiment dire « inclusion » — ne laisser personne à l'écart.",
-    "t": 540.13
+    "t": 544.03
    },
    {
     "speaker": "Tom",
     "text": "Prenons un peu de recul un instant.",
-    "t": 544.21
+    "t": 548.11
    },
    {
     "speaker": "Tom",
     "text": "Pourquoi est-ce important pour la société dans son ensemble, et pas seulement pour l'individu ?",
-    "t": 546.06
+    "t": 549.96
    },
    {
     "speaker": "Anna",
     "text": "Parce que quand quelqu'un passe d'une situation de blocage à une vie active et incluse, tout le monde y gagne.",
-    "t": 550.59
+    "t": 554.49
    },
    {
     "speaker": "Anna",
     "text": "La personne retrouve sa dignité et un revenu.",
-    "t": 555.92
+    "t": 559.82
    },
    {
     "speaker": "Anna",
     "text": "Sa famille est plus stable.",
-    "t": 558.3
+    "t": 562.2
    },
    {
     "speaker": "Anna",
     "text": "Et la société garde un membre connecté, qui contribue, au lieu de le perdre.",
-    "t": 559.88
+    "t": 563.78
    },
    {
     "speaker": "Anna",
     "text": "L'inclusion est bonne pour la personne, et bonne pour nous tous.",
-    "t": 563.71
+    "t": 567.61
    },
    {
     "speaker": "Tom",
     "text": "Une société est plus forte quand personne n'est laissé pour compte.",
-    "t": 566.89
+    "t": 570.79
    },
    {
     "speaker": "Anna",
     "text": "Quand personne n'est laissé pour compte.",
-    "t": 570.51
+    "t": 574.41
    },
    {
     "speaker": "Anna",
     "text": "C'est la philosophie discrète qui se trouve derrière l'ONIS.",
-    "t": 572.36
+    "t": 576.26
    },
    {
     "speaker": "Tom",
     "text": "D'accord Anna, concluons.",
-    "t": 575.4
+    "t": 579.3
    },
    {
     "speaker": "Tom",
     "text": "Si je suis en train d'écouter, et que ça me touche, moi ou quelqu'un que je connais — qu'est-ce que je devrais retenir ?",
-    "t": 577.17
+    "t": 581.07
    },
    {
     "speaker": "Anna",
     "text": "Quelques choses simples.",
-    "t": 583.3
+    "t": 587.2
    },
    {
     "speaker": "Anna",
     "text": "D'abord — si tu touches le REVIS, l'ONIS n'est pas ton ennemi.",
-    "t": 584.63
+    "t": 588.53
    },
    {
     "speaker": "Anna",
     "text": "C'est la partie du REVIS qui est là pour t'aider à avancer, avec une vraie personne et un plan personnel.",
-    "t": 587.93
+    "t": 591.83
    },
    {
     "speaker": "Tom",
     "text": "Le côté inclusion, pas seulement le côté argent.",
-    "t": 592.87
+    "t": 596.77
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement — ça fonctionne à ton rythme.",
-    "t": 596
+    "t": 599.9
    },
    {
     "speaker": "Anna",
     "text": "Si tu as d'abord besoin de te stabiliser, c'est permis, c'est normal.",
-    "t": 598.33
+    "t": 602.23
    },
    {
     "speaker": "Anna",
     "text": "La stabilisation vient avant l'activation.",
-    "t": 602.27
+    "t": 606.17
    },
    {
     "speaker": "Anna",
     "text": "Personne n'est poussé plus vite qu'il ne peut aller.",
-    "t": 604.64
+    "t": 608.54
    },
    {
     "speaker": "Anna",
     "text": "Et dans certaines situations — par exemple si tu t'occupes d'un jeune enfant sans solution de garde, si tu t'occupes d'un proche, ou pour des raisons de santé — tu peux être dispensé pendant un temps.",
-    "t": 606.86
+    "t": 610.76
    },
    {
     "speaker": "Tom",
     "text": "Et troisièmement ?",
-    "t": 616.24
+    "t": 620.14
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement — tu n'es pas seul.",
-    "t": 617.52
+    "t": 621.42
    },
    {
     "speaker": "Anna",
     "text": "Tu as un agent régional, près de chez toi, qui construit le plan avec toi.",
-    "t": 619.46
+    "t": 623.36
    },
    {
     "speaker": "Anna",
     "text": "Si jamais tu te sens perdu dans le système, cet agent est ton point de contact.",
-    "t": 622.93
+    "t": 626.83
    },
    {
     "speaker": "Tom",
     "text": "Et où peut-on en apprendre davantage ?",
-    "t": 627.03
+    "t": 630.93
    },
    {
     "speaker": "Anna",
     "text": "Le site officiel, c'est onis — c'est-à-dire o-n-i-s — point gouvernement point l-u.",
-    "t": 629.27
+    "t": 633.17
    },
    {
     "speaker": "Anna",
     "text": "Et pour la prestation REVIS elle-même, les informations sont sur guichet point l-u, et le côté argent, c'est le Fonds national de solidarité, dont nous avons parlé dans un autre épisode.",
-    "t": 634.35
+    "t": 638.25
    },
    {
     "speaker": "Tom",
     "text": "Un petit résumé pour finir ?",
-    "t": 643.4
+    "t": 647.3
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. L'ONIS, l'Office national d'inclusion sociale, c'est l'office de l'État qui s'occupe du côté « inclusion » du REVIS, le revenu d'inclusion sociale du Luxembourg.",
-    "t": 645.19
+    "t": 649.09
    },
    {
     "speaker": "Anna",
     "text": "Alors que le Fonds national de solidarité verse l'argent, l'ONIS aide les personnes les plus éloignées du travail — celles que l'ADEM oriente vers lui — à avancer — d'abord par des mesures de stabilisation, puis par des mesures d'activation.",
-    "t": 653.35
+    "t": 657.25
    },
    {
     "speaker": "Anna",
     "text": "Tu signes une déclaration de collaboration, on t'associe à un agent régional d'inclusion sociale près de chez toi, et ensemble vous construisez un plan d'activation personnel.",
-    "t": 664.77
+    "t": 668.67
    },
    {
     "speaker": "Anna",
     "text": "L'esprit, c'est d'accompagner, pas d'abandonner.",
-    "t": 672.71
+    "t": 676.6
    },
    {
     "speaker": "Tom",
     "text": "Et le message pour aujourd'hui ?",
-    "t": 675.27
+    "t": 679.16
    },
    {
     "speaker": "Anna",
     "text": "Qu'un revenu minimum n'est que la moitié de la solidarité.",
-    "t": 676.95
+    "t": 680.84
    },
    {
     "speaker": "Anna",
     "text": "L'autre moitié, c'est l'inclusion — une main tendue, un plan, et un chemin de retour.",
-    "t": 679.9
+    "t": 683.79
    },
    {
     "speaker": "Anna",
     "text": "L'argent te maintient debout ; l'inclusion t'aide à marcher.",
-    "t": 684.54
+    "t": 688.43
    },
    {
     "speaker": "Tom",
     "text": "Alors... que ce soit pour toi, ou pour quelqu'un qui te tient à cœur — souviens-toi, derrière le chèque du REVIS, il y a aussi une main tendue.",
-    "t": 687.65
+    "t": 691.54
    },
    {
     "speaker": "Tom",
     "text": "L'Office national d'inclusion sociale.",
-    "t": 695.33
+    "t": 699.22
    },
    {
     "speaker": "Tom",
     "text": "ONIS.",
-    "t": 697.68
+    "t": 701.57
    },
    {
     "speaker": "Anna",
     "text": "La moitié de l'aide, c'est l'argent.",
-    "t": 698.72
+    "t": 702.61
    },
    {
     "speaker": "Anna",
     "text": "L'autre moitié, c'est ne pas être laissé seul.",
-    "t": 700.45
+    "t": 704.34
    },
    {
     "speaker": "Anna",
     "text": "Ça vaut la peine de le savoir.",
-    "t": 702.96
+    "t": 706.85
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'Office national d'inclusion sociale.",
-    "t": 704.4
+    "t": 708.29
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 707.35
+    "t": 711.24
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 715.42
+    "t": 719.31
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 731.87
+    "t": 735.76
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 736.52
+    "t": 740.41
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 738.3
+    "t": 742.19
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 742.68
+    "t": 746.57
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 743.91
+    "t": 747.8
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 746.37
+    "t": 750.26
    }
   ],
   "segments_de": [
@@ -50874,1077 +50874,1077 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Anna",
     "text": "Und heute sprechen wir über ein Amt mit einer sehr sanften, sehr menschlichen Aufgabe.",
-    "t": 28.06
+    "t": 28.08
    },
    {
     "speaker": "Anna",
     "text": "Es heißt das Nationale Amt für soziale Inklusion.",
-    "t": 32.9
+    "t": 32.92
    },
    {
     "speaker": "Tom",
     "text": "Das Nationale Amt für soziale Inklusion.",
-    "t": 36.43
+    "t": 36.45
    },
    {
     "speaker": "Tom",
     "text": "Auf Französisch das Office national d'inclusion sociale.",
-    "t": 39.19
+    "t": 39.21
    },
    {
     "speaker": "Tom",
     "text": "Die Leute benutzen den Kurznamen — O-N-I-S.",
-    "t": 42.86
+    "t": 42.88
    },
    {
     "speaker": "Anna",
     "text": "ONIS. Genau.",
-    "t": 46.5
+    "t": 46.52
    },
    {
     "speaker": "Tom",
     "text": "Anna, in einer früheren Folge haben wir über den Nationalen Solidaritätsfonds gesprochen, und über eine Leistung namens REVIS — das Eingliederungseinkommen.",
-    "t": 48.43
+    "t": 48.45
    },
    {
     "speaker": "Tom",
     "text": "Hängt das zusammen?",
-    "t": 57.91
+    "t": 57.93
    },
    {
     "speaker": "Anna",
     "text": "Es hängt direkt zusammen — und das ist der Schlüssel, um ONIS zu verstehen.",
-    "t": 59.2
+    "t": 59.22
    },
    {
     "speaker": "Anna",
     "text": "Erinnerst du dich, REVIS ist Luxemburgs garantiertes Mindesteinkommen.",
-    "t": 63.2
+    "t": 63.22
    },
    {
     "speaker": "Anna",
     "text": "Wenn das Einkommen deines Haushalts zu niedrig ist, stockt REVIS dich auf ein Grundniveau auf.",
-    "t": 67.85
+    "t": 67.87
    },
    {
     "speaker": "Tom",
     "text": "Ja — die Untergrenze, unter die der Staat dich nicht fallen lässt.",
-    "t": 73.18
+    "t": 73.2
    },
    {
     "speaker": "Anna",
     "text": "Richtig. Aber jetzt kommt's.",
-    "t": 77.12
+    "t": 77.14
    },
    {
     "speaker": "Anna",
     "text": "Der vollständige Name ist nicht einfach nur „Mindesteinkommen\".",
-    "t": 79.82
+    "t": 79.84
    },
    {
     "speaker": "Anna",
     "text": "Es ist das „Eingliederungseinkommen\".",
-    "t": 83.76
+    "t": 83.78
    },
    {
     "speaker": "Anna",
     "text": "Und dieses Wort — Eingliederung — ist der eigentliche Kern.",
-    "t": 86
+    "t": 86.02
    },
    {
     "speaker": "Anna",
     "text": "REVIS hat zwei Seiten.",
-    "t": 89.85
+    "t": 89.87
    },
    {
     "speaker": "Tom",
     "text": "Zwei Seiten. Erzähl mir.",
-    "t": 91.58
+    "t": 91.6
    },
    {
     "speaker": "Anna",
     "text": "Die eine Seite ist das Geld — der Scheck jeden Monat.",
-    "t": 93.35
+    "t": 93.37
    },
    {
     "speaker": "Anna",
     "text": "Diesen Teil zahlt der Nationale Solidaritätsfonds, der FNS.",
-    "t": 96.86
+    "t": 96.88
    },
    {
     "speaker": "Anna",
     "text": "Aber die zweite Seite ist genauso wichtig.",
-    "t": 101.2
+    "t": 101.22
    },
    {
     "speaker": "Anna",
     "text": "Sie hilft der Person, ihren Weg zurückzufinden — zurück in Richtung Arbeit, in Richtung Aktivität, dahin, wieder Teil der Gesellschaft zu sein.",
-    "t": 103.78
+    "t": 103.8
    },
    {
     "speaker": "Tom",
     "text": "Und diese zweite Seite — die Inklusionsseite — ist die Aufgabe von ONIS.",
-    "t": 114.74
+    "t": 114.76
    },
    {
     "speaker": "Anna",
     "text": "Teilweise — und das ist wichtig.",
-    "t": 119.6
+    "t": 119.62
    },
    {
     "speaker": "Anna",
     "text": "Der FNS kümmert sich um das Geld.",
-    "t": 122.41
+    "t": 122.43
    },
    {
     "speaker": "Anna",
     "text": "Für Menschen, die bereit sind, eine Arbeit zu suchen, ist die Inklusionsseite die ADEM, die Arbeitsagentur.",
-    "t": 124.53
+    "t": 124.55
    },
    {
     "speaker": "Anna",
     "text": "Aber für Menschen, die noch weit von der Arbeit entfernt sind, ist es ONIS — es kümmert sich um die Menschen und ihren Weg nach vorn.",
-    "t": 130.74
+    "t": 130.76
    },
    {
     "speaker": "Anna",
     "text": "REVIS ist nicht als Scheck gedacht, den du für immer bekommst, allein zu Hause.",
-    "t": 137.72
+    "t": 137.74
    },
    {
     "speaker": "Anna",
     "text": "Es ist als Brücke gedacht.",
-    "t": 142.37
+    "t": 142.39
    },
    {
     "speaker": "Tom",
     "text": "Diese Unterscheidung gefällt mir.",
-    "t": 144.39
+    "t": 144.41
    },
    {
     "speaker": "Tom",
     "text": "ONIS ist also das Amt, das mit dir über die Brücke geht.",
-    "t": 146.36
+    "t": 146.38
    },
    {
     "speaker": "Anna",
     "text": "Schön gesagt. Genau das tut es.",
-    "t": 149.73
+    "t": 149.75
    },
    {
     "speaker": "Tom",
     "text": "Lass uns das Grundsätzliche klären.",
-    "t": 152.26
+    "t": 152.28
    },
    {
     "speaker": "Tom",
     "text": "Was für ein Amt ist ONIS eigentlich, offiziell?",
-    "t": 154.53
+    "t": 154.55
    },
    {
     "speaker": "Anna",
-    "text": "Es ist eine staatliche Verwaltung, unter dem Familienministerium.",
-    "t": 157.35
+    "text": "Es ist eine staatliche Verwaltung, unter dem Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 157.37
    },
    {
     "speaker": "Anna",
     "text": "Es wurde durch die große REVIS-Reform geschaffen — das Gesetz von zweitausendachtzehn — und es hat seine Arbeit Anfang zweitausendneunzehn aufgenommen.",
-    "t": 160.93
+    "t": 164.61
    },
    {
     "speaker": "Anna",
     "text": "Es hat tatsächlich einen älteren Dienst ersetzt, der vorher ähnliche Arbeit gemacht hat.",
-    "t": 170.67
+    "t": 172.76
    },
    {
     "speaker": "Tom",
     "text": "Es ist also relativ jung, aber auf älteren Fundamenten gebaut.",
-    "t": 175.56
+    "t": 177.65
    },
    {
     "speaker": "Anna",
     "text": "Ja. Und seine Aufgabe ist, schlicht gesagt, den Menschen zu helfen, die am weitesten vom Arbeitsmarkt entfernt sind, Schritte dorthin zurück zu machen — in ihrem eigenen Tempo.",
-    "t": 179.43
+    "t": 181.52
    },
    {
     "speaker": "Tom",
     "text": "Am weitesten vom Arbeitsmarkt entfernt.",
-    "t": 190.5
+    "t": 192.59
    },
    {
     "speaker": "Tom",
     "text": "Wen meinst du damit?",
-    "t": 193.12
+    "t": 195.21
    },
    {
     "speaker": "Anna",
     "text": "Menschen, die aus ganz unterschiedlichen Gründen nicht einfach morgen eine Arbeit antreten können.",
-    "t": 194.56
+    "t": 196.65
    },
    {
     "speaker": "Anna",
     "text": "Vielleicht ist jemand schon sehr lange ohne Arbeit.",
-    "t": 199.55
+    "t": 201.64
    },
    {
     "speaker": "Anna",
     "text": "Vielleicht gibt es ein Gesundheitsproblem, oder eine schwierige Familiensituation, oder Probleme mit der Wohnung, oder einen Verlust an Selbstvertrauen.",
-    "t": 202.45
+    "t": 204.54
    },
    {
     "speaker": "Anna",
     "text": "Das Leben kann Menschen auf viele Arten zu Boden werfen.",
-    "t": 211.94
+    "t": 214.03
    },
    {
     "speaker": "Tom",
     "text": "Es geht also nicht nur darum, „geh und such dir eine Arbeit\".",
-    "t": 215.2
+    "t": 217.29
    },
    {
     "speaker": "Tom",
     "text": "Die Hindernisse können viel tiefer liegen.",
-    "t": 218.61
+    "t": 220.7
    },
    {
     "speaker": "Anna",
     "text": "Viel tiefer. Und genau darin liegt die Klugheit, wie ONIS arbeitet.",
-    "t": 221
+    "t": 223.09
    },
    {
     "speaker": "Anna",
     "text": "Es behandelt nicht alle gleich.",
-    "t": 226.22
+    "t": 228.31
    },
    {
     "speaker": "Anna",
     "text": "Es erkennt an, dass manche Menschen, bevor sie nach Arbeit suchen können, zuerst ihr Leben stabilisieren müssen.",
-    "t": 228.23
+    "t": 230.32
    },
    {
     "speaker": "Tom",
     "text": "Stabilisieren. Das ist ein interessantes Wort.",
-    "t": 234.38
+    "t": 236.47
    },
    {
     "speaker": "Tom",
     "text": "Kannst du das erklären?",
-    "t": 237.28
+    "t": 239.37
    },
    {
     "speaker": "Anna",
     "text": "Natürlich. ONIS arbeitet mit zwei Arten von Maßnahmen.",
-    "t": 238.75
+    "t": 240.84
    },
    {
     "speaker": "Anna",
     "text": "Die erste Art nennt man Stabilisierungsmaßnahmen.",
-    "t": 242.7
+    "t": 244.79
    },
    {
     "speaker": "Anna",
     "text": "Sie sind für jemanden, der noch nicht bereit für eine Arbeit ist — weil zuerst andere Dinge geklärt werden müssen.",
-    "t": 245.73
+    "t": 247.82
    },
    {
     "speaker": "Anna",
     "text": "Gesundheit, persönliche Schwierigkeiten, den Alltag wieder in den Griff bekommen.",
-    "t": 251.46
+    "t": 253.55
    },
    {
     "speaker": "Tom",
     "text": "Also zuerst: hilf mir, sicher auf die Beine zu kommen.",
-    "t": 256.21
+    "t": 258.3
    },
    {
     "speaker": "Anna",
     "text": "Zuerst: hilf dir, zu stehen.",
-    "t": 259.31
+    "t": 261.4
    },
    {
     "speaker": "Anna",
     "text": "Und dann, die zweite Art — Aktivierungsmaßnahmen.",
-    "t": 261.22
+    "t": 263.31
    },
    {
     "speaker": "Anna",
     "text": "Das sind die Schritte in Richtung Arbeit und Aktivität.",
-    "t": 264.88
+    "t": 266.97
    },
    {
     "speaker": "Anna",
     "text": "Fähigkeiten aufbauen, Erfahrung sammeln, wieder in einen Rhythmus kommen.",
-    "t": 268.32
+    "t": 270.41
    },
    {
     "speaker": "Tom",
     "text": "Also zuerst Stabilisierung, dann Aktivierung.",
-    "t": 273.33
+    "t": 275.42
    },
    {
     "speaker": "Tom",
     "text": "Es holt die Menschen dort ab, wo sie wirklich stehen.",
-    "t": 276.55
+    "t": 278.64
    },
    {
     "speaker": "Anna",
     "text": "Genau. Es ist kein Einheitsmodell für alle.",
-    "t": 279.39
+    "t": 281.48
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein Weg, der um jede einzelne Person herum gestaltet wird, und um ihre Entwicklung.",
-    "t": 282.32
+    "t": 284.41
    },
    {
     "speaker": "Tom",
     "text": "Gut, machen wir es konkret.",
-    "t": 287.56
+    "t": 289.65
    },
    {
     "speaker": "Tom",
     "text": "Wenn ich eine Person bin, die anfängt, REVIS zu bekommen, was passiert dann eigentlich mit ONIS?",
-    "t": 289.5
+    "t": 291.59
    },
    {
     "speaker": "Tom",
     "text": "Führ mich Schritt für Schritt durch.",
-    "t": 294.72
+    "t": 296.81
    },
    {
     "speaker": "Anna",
     "text": "Gern. Eigentlich beginnt es bei der ADEM.",
-    "t": 296.67
+    "t": 298.76
    },
    {
     "speaker": "Anna",
     "text": "Wenn du unter fünfundsechzig bist und arbeiten kannst, schaut sich die ADEM zuerst deine Situation an.",
-    "t": 299.37
+    "t": 301.46
    },
    {
     "speaker": "Anna",
     "text": "Wenn du bereit für eine Arbeit bist, begleitet dich die ADEM.",
-    "t": 305.1
+    "t": 307.19
    },
    {
     "speaker": "Anna",
     "text": "Aber wenn es zuerst andere Schwierigkeiten zu lösen gibt, schickt dich die ADEM zu ONIS.",
-    "t": 309.05
+    "t": 311.14
    },
    {
     "speaker": "Anna",
     "text": "Dann lädt dich ONIS zu einer Informationsversammlung ein — und dort unterschreibst du etwas, das Kooperationserklärung heißt.",
-    "t": 314.56
+    "t": 316.65
    },
    {
     "speaker": "Tom",
     "text": "Eine Kooperationserklärung. Das klingt formell.",
-    "t": 321.89
+    "t": 323.98
    },
    {
     "speaker": "Tom",
     "text": "Was bedeutet das eigentlich, wirklich?",
-    "t": 324.91
+    "t": 327
    },
    {
     "speaker": "Anna",
     "text": "Ganz einfach gesagt, ist es ein gegenseitiges Versprechen.",
-    "t": 327.05
+    "t": 329.14
    },
    {
     "speaker": "Anna",
     "text": "Du erklärst dich bereit, mitzumachen — gemeinsam an deiner Situation zu arbeiten.",
-    "t": 330.28
+    "t": 332.37
    },
    {
     "speaker": "Anna",
     "text": "Und der Staat erklärt sich bereit, dich zu unterstützen.",
-    "t": 335.12
+    "t": 337.21
    },
    {
     "speaker": "Anna",
     "text": "Es geht in beide Richtungen.",
-    "t": 338.21
+    "t": 340.3
    },
    {
     "speaker": "Anna",
     "text": "Du bekommst nicht nur; du beteiligst dich.",
-    "t": 339.91
+    "t": 342
    },
    {
     "speaker": "Tom",
     "text": "Es ist also eine Partnerschaft, schriftlich festgehalten.",
-    "t": 342.62
+    "t": 344.71
    },
    {
     "speaker": "Anna",
     "text": "Eine Partnerschaft. Und dann kommt der Teil, den ich wirklich durchdacht finde.",
-    "t": 345.85
+    "t": 347.94
    },
    {
     "speaker": "Anna",
     "text": "Du wirst einer Person zur Seite gestellt — einem regionalen Sozialinklusionsagenten.",
-    "t": 350.35
+    "t": 352.44
    },
    {
     "speaker": "Anna",
     "text": "Auf Französisch ein „agent régional d'inclusion sociale\", ein ARIS.",
-    "t": 355.25
+    "t": 357.34
    },
    {
     "speaker": "Tom",
     "text": "Ein regionaler Agent.",
-    "t": 360.38
+    "t": 362.47
    },
    {
     "speaker": "Tom",
     "text": "Also ein echter Mensch, der dir zugeteilt wird, um dir zu helfen.",
-    "t": 362.12
+    "t": 364.21
    },
    {
     "speaker": "Anna",
     "text": "Ein echter Mensch, der zu deinem Begleiter wird.",
-    "t": 365.6
+    "t": 367.69
    },
    {
     "speaker": "Anna",
     "text": "Und „regional\" ist wichtig — diese Agenten arbeiten in den lokalen Sozialämtern, überall im Land.",
-    "t": 368.26
+    "t": 370.35
    },
    {
     "speaker": "Anna",
     "text": "Du wirst also nicht in ein großes Gebäude in der Hauptstadt geschickt.",
-    "t": 375.55
+    "t": 377.64
    },
    {
     "speaker": "Anna",
     "text": "Dir wird in der Nähe deines Wohnorts geholfen.",
-    "t": 379.22
+    "t": 381.31
    },
    {
     "speaker": "Tom",
     "text": "Das ist wichtig.",
-    "t": 382.19
+    "t": 384.28
    },
    {
     "speaker": "Tom",
     "text": "Hilfe, die örtlich ist, und persönlich.",
-    "t": 383.45
+    "t": 385.54
    },
    {
     "speaker": "Anna",
     "text": "Sehr. Und gemeinsam baut ihr, du und dein Agent, etwas auf, das Aktivierungsplan heißt.",
-    "t": 386.05
+    "t": 388.14
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein persönlicher Plan — deine Situation, deine Schwierigkeiten, deine Ziele, und die konkreten Schritte, um voranzukommen.",
-    "t": 392.27
+    "t": 394.36
    },
    {
     "speaker": "Anna",
     "text": "Der Plan gilt jeweils höchstens ein Jahr, und er kann jederzeit geändert werden, wenn sich deine Situation ändert.",
-    "t": 400.55
+    "t": 402.64
    },
    {
     "speaker": "Tom",
     "text": "Der Plan wird also mit dir aufgebaut, nicht dir überreicht.",
-    "t": 407.06
+    "t": 409.15
    },
    {
     "speaker": "Anna",
     "text": "Mit dir. Das ist der Kern davon.",
-    "t": 410.58
+    "t": 412.67
    },
    {
     "speaker": "Anna",
     "text": "Es ist dein Plan.",
-    "t": 413.33
+    "t": 415.42
    },
    {
     "speaker": "Anna",
     "text": "Der Agent bringt das Wissen und die Möglichkeiten ein; du bringst dein Leben und deine Hoffnungen ein.",
-    "t": 414.63
+    "t": 416.72
    },
    {
     "speaker": "Anna",
     "text": "Gemeinsam zeichnet ihr den Weg.",
-    "t": 420.12
+    "t": 422.21
    },
    {
     "speaker": "Tom",
     "text": "Und welche Art von Schritten könnte in so einem Plan stehen?",
-    "t": 422.4
+    "t": 424.49
    },
    {
     "speaker": "Tom",
     "text": "Gib mir ein paar Beispiele.",
-    "t": 425.71
+    "t": 427.8
    },
    {
     "speaker": "Anna",
     "text": "Das hängt ganz von der Person ab.",
-    "t": 427.48
+    "t": 429.57
    },
    {
     "speaker": "Anna",
     "text": "Für jemanden, der zuerst Stabilisierung braucht, könnte es um Gesundheit gehen, oder darum, praktische Probleme zu klären, oder eine tägliche Struktur wieder aufzubauen.",
-    "t": 429.52
+    "t": 431.61
    },
    {
     "speaker": "Anna",
     "text": "Für jemanden, der näher an der Arbeit ist, könnte es um eine Ausbildung gehen, oder darum, Erfahrung zu sammeln.",
-    "t": 439.03
+    "t": 441.12
    },
    {
     "speaker": "Tom",
     "text": "Und die Arbeitserfahrung — wie geht das, wenn man noch keine Arbeit hat?",
-    "t": 445.49
+    "t": 447.58
    },
    {
     "speaker": "Anna",
     "text": "Eines der Mittel ist ein zeitlich begrenzter Einsatz in einer nützlichen, gemeinnützigen Tätigkeit — bei einer Gastorganisation, zum Beispiel einem Verein.",
-    "t": 449.4
+    "t": 451.49
    },
    {
     "speaker": "Anna",
     "text": "Du trägst etwas bei, du bist aktiv, du sammelst Erfahrung und Selbstvertrauen — und das kann zu einem Sprungbrett in eine echte Arbeit werden.",
-    "t": 458.75
+    "t": 460.84
    },
    {
     "speaker": "Anna",
     "text": "Und für diese Arbeit bekommst du eine Aktivierungszulage — berechnet auf Basis des Mindestlohns, für die Stunden, die du arbeitest.",
-    "t": 467.26
+    "t": 469.35
    },
    {
     "speaker": "Tom",
     "text": "Du tust also etwas Sinnvolles, und bereitest dich gleichzeitig vor.",
-    "t": 475.15
+    "t": 477.24
    },
    {
     "speaker": "Anna",
     "text": "Genau. Es ist Würde und Vorbereitung in einem.",
-    "t": 479.14
+    "t": 481.23
    },
    {
     "speaker": "Anna",
     "text": "Du sitzt nicht zu Hause und fühlst dich nutzlos.",
-    "t": 482.28
+    "t": 484.37
    },
    {
     "speaker": "Anna",
     "text": "Du trägst etwas bei und wächst.",
-    "t": 485.05
+    "t": 487.14
    },
    {
     "speaker": "Tom",
     "text": "Anna, ich möchte die ehrliche Frage stellen, die manche Zuhörer haben werden.",
-    "t": 487.67
+    "t": 489.76
    },
    {
     "speaker": "Tom",
     "text": "Geht es darum, Menschen zu helfen — oder geht es darum, sie zu kontrollieren, sicherzustellen, dass sie nicht faul sind?",
-    "t": 492.1
+    "t": 494.19
    },
    {
     "speaker": "Anna",
     "text": "Das ist eine berechtigte Frage, und eine wichtige.",
-    "t": 498.56
+    "t": 500.65
    },
    {
     "speaker": "Anna",
     "text": "Die ehrliche Antwort ist — der Geist davon ist Hilfe, nicht Bestrafung.",
-    "t": 501.52
+    "t": 503.61
    },
    {
     "speaker": "Anna",
     "text": "Der ganze Aufbau ist darauf ausgelegt, Menschen zu begleiten, in ihrem eigenen Tempo, um ihre eigenen Hindernisse herum.",
-    "t": 506.64
+    "t": 508.73
    },
    {
     "speaker": "Anna",
     "text": "Es stimmt, dass REVIS Mitwirkung verlangt — das ist die Kooperationserklärung — und wenn jemand wiederholt nicht mitmacht, kann die Zahlung gekürzt oder ausgesetzt werden.",
-    "t": 514.05
+    "t": 516.14
    },
    {
     "speaker": "Anna",
     "text": "Aber das Ziel ist nicht, Menschen zu ertappen.",
-    "t": 523.9
+    "t": 525.99
    },
    {
     "speaker": "Anna",
     "text": "Das Ziel ist, sie nicht im Stich zu lassen.",
-    "t": 526.4
+    "t": 528.49
    },
    {
     "speaker": "Tom",
     "text": "Sie nicht im Stich zu lassen.",
-    "t": 529.08
+    "t": 531.17
    },
    {
     "speaker": "Tom",
     "text": "Denn nur Geld zu schicken, und sonst nichts...",
-    "t": 530.78
+    "t": 532.87
    },
    {
     "speaker": "Anna",
     "text": "...kann eine Person über Jahre festgefahren und allein lassen.",
-    "t": 533.58
+    "t": 535.67
    },
    {
     "speaker": "Anna",
     "text": "Und genau das ist die Falle, die REVIS und ONIS zu vermeiden versuchen.",
-    "t": 536.87
+    "t": 538.96
    },
    {
     "speaker": "Anna",
     "text": "Geld hält dich über Wasser.",
-    "t": 540.95
+    "t": 543.04
    },
    {
     "speaker": "Anna",
     "text": "Aber Inklusion — ein Begleiter, ein Plan, ein Weg — das ist es, was dir hilft, dich zu bewegen.",
-    "t": 542.57
+    "t": 544.66
    },
    {
     "speaker": "Tom",
     "text": "Das rückt es wirklich in ein anderes Licht.",
-    "t": 549.41
+    "t": 551.5
    },
    {
     "speaker": "Tom",
     "text": "Der Scheck ist der Boden; ONIS ist die Treppe.",
-    "t": 551.87
+    "t": 553.96
    },
    {
     "speaker": "Anna",
     "text": "Der Scheck ist der Boden; ONIS ist die Treppe.",
-    "t": 554.83
+    "t": 556.92
    },
    {
     "speaker": "Anna",
     "text": "Das übernehme ich.",
-    "t": 557.85
+    "t": 559.94
    },
    {
     "speaker": "Tom",
     "text": "Machen wir es konkret an einer Person.",
-    "t": 559.3
+    "t": 561.39
    },
    {
     "speaker": "Tom",
     "text": "Dürfen wir?",
-    "t": 561.39
+    "t": 563.48
    },
    {
     "speaker": "Anna",
     "text": "Machen wir. Stell dir einen Mann vor — nennen wir ihn Paulo.",
-    "t": 562.44
+    "t": 564.53
    },
    {
     "speaker": "Anna",
     "text": "Er ist seit mehreren Jahren ohne Arbeit.",
-    "t": 566.84
+    "t": 568.93
    },
    {
     "speaker": "Anna",
     "text": "Er hat seine Arbeit verloren, dann sein Selbstvertrauen, und langsam ist er weit vom Arbeitsmarkt abgedriftet.",
-    "t": 569.38
+    "t": 571.47
    },
    {
     "speaker": "Tom",
     "text": "Eine Geschichte, die häufiger ist, als die Leute denken.",
-    "t": 576.27
+    "t": 578.36
    },
    {
     "speaker": "Anna",
     "text": "Viel häufiger. Also beantragt Paulo REVIS.",
-    "t": 579.42
+    "t": 581.51
    },
    {
     "speaker": "Anna",
     "text": "Der FNS regelt die Geldseite — er bekommt das Mindesteinkommen, damit er leben kann.",
-    "t": 582.6
+    "t": 584.69
    },
    {
     "speaker": "Anna",
     "text": "Die ADEM schaut sich seine Situation an, sieht, dass er noch nicht bereit für eine Arbeit ist, und schickt ihn zu ONIS.",
-    "t": 587.92
+    "t": 590.01
    },
    {
     "speaker": "Anna",
     "text": "Und dann tritt ONIS in sein Leben.",
-    "t": 595.14
+    "t": 597.23
    },
    {
     "speaker": "Tom",
     "text": "Er wird zu einem Treffen eingeladen.",
-    "t": 597.48
+    "t": 599.57
    },
    {
     "speaker": "Anna",
     "text": "Er wird eingeladen, er unterschreibt die Kooperationserklärung, und er wird einem regionalen Agenten in der Nähe seines Wohnorts zugeteilt.",
-    "t": 599.59
+    "t": 601.68
    },
    {
     "speaker": "Anna",
     "text": "Sie setzen sich zusammen.",
-    "t": 607.26
+    "t": 609.35
    },
    {
     "speaker": "Anna",
     "text": "Und am Anfang ist klar, dass Paulo nicht bereit ist, Arbeit zu suchen — er ist erschöpft, ein bisschen verloren.",
-    "t": 608.85
+    "t": 610.94
    },
    {
     "speaker": "Anna",
     "text": "Also beginnt der Plan mit Stabilisierung.",
-    "t": 615.28
+    "t": 617.37
    },
    {
     "speaker": "Tom",
     "text": "Ihm zuerst helfen, auf die Beine zu kommen.",
-    "t": 617.88
+    "t": 619.97
    },
    {
     "speaker": "Anna",
     "text": "Ihm helfen, zu stehen.",
-    "t": 620.51
+    "t": 622.6
    },
    {
     "speaker": "Anna",
     "text": "Dann, Schritt für Schritt, während er sich stabilisiert, bewegt sich der Plan in Richtung Aktivierung.",
-    "t": 622.14
+    "t": 624.23
    },
    {
     "speaker": "Anna",
     "text": "Vielleicht ein Einsatz in einer gemeinnützigen Organisation, um wieder in einen Rhythmus zu kommen und sein Selbstvertrauen wiederaufzubauen.",
-    "t": 627.88
+    "t": 629.97
    },
    {
     "speaker": "Anna",
     "text": "Dann eine Ausbildung.",
-    "t": 635.31
+    "t": 637.4
    },
    {
     "speaker": "Tom",
     "text": "Und eines Tages vielleicht eine echte Arbeit.",
-    "t": 636.94
+    "t": 639.03
    },
    {
     "speaker": "Anna",
     "text": "Das ist das Ziel.",
-    "t": 639.68
+    "t": 641.77
    },
    {
     "speaker": "Anna",
     "text": "Und selbst wenn es Zeit braucht, ist Paulo damit nicht mehr allein.",
-    "t": 641.02
+    "t": 643.11
    },
    {
     "speaker": "Anna",
     "text": "Er hat einen Plan, und einen Menschen, der an seiner Seite geht.",
-    "t": 644.63
+    "t": 646.72
    },
    {
     "speaker": "Anna",
     "text": "Das verändert alles.",
-    "t": 648.37
+    "t": 650.46
    },
    {
     "speaker": "Tom",
     "text": "Das tut es wirklich.",
-    "t": 650.01
+    "t": 652.1
    },
    {
     "speaker": "Tom",
     "text": "Der Unterschied zwischen Abdriften und Begleitetwerden.",
-    "t": 651.39
+    "t": 653.48
    },
    {
     "speaker": "Anna",
     "text": "Das ist der ganze Unterschied.",
-    "t": 654.44
+    "t": 656.53
    },
    {
     "speaker": "Anna",
     "text": "Und genau das bedeutet „Inklusion\" wirklich — niemanden draußen lassen.",
-    "t": 656.2
+    "t": 658.29
    },
    {
     "speaker": "Tom",
     "text": "Treten wir einen Moment einen Schritt zurück.",
-    "t": 661.73
+    "t": 663.82
    },
    {
     "speaker": "Tom",
     "text": "Warum ist das wichtig für die Gesellschaft als Ganzes, nicht nur für den Einzelnen?",
-    "t": 664.09
+    "t": 666.18
    },
    {
     "speaker": "Anna",
     "text": "Weil alle gewinnen, wenn jemand von festgefahren zu aktiv und eingebunden gelangt.",
-    "t": 668.66
+    "t": 670.75
    },
    {
     "speaker": "Anna",
     "text": "Die Person gewinnt Würde und Einkommen zurück.",
-    "t": 673.45
+    "t": 675.54
    },
    {
     "speaker": "Anna",
     "text": "Ihre Familie ist stabiler.",
-    "t": 676.18
+    "t": 678.27
    },
    {
     "speaker": "Anna",
     "text": "Und die Gesellschaft behält ein Mitglied verbunden, beitragend, statt verloren.",
-    "t": 678.09
+    "t": 680.18
    },
    {
     "speaker": "Anna",
     "text": "Inklusion ist gut für die Person, und gut für uns alle.",
-    "t": 683.01
+    "t": 685.1
    },
    {
     "speaker": "Tom",
     "text": "Eine Gesellschaft ist stärker, wenn niemand abgeschrieben wird.",
-    "t": 686.7
+    "t": 688.79
    },
    {
     "speaker": "Anna",
     "text": "Wenn niemand abgeschrieben wird.",
-    "t": 690.15
+    "t": 692.24
    },
    {
     "speaker": "Anna",
     "text": "Das ist die stille Philosophie hinter ONIS.",
-    "t": 692.29
+    "t": 694.38
    },
    {
     "speaker": "Tom",
     "text": "Gut, Anna, bringen wir es auf den Punkt.",
-    "t": 695.16
+    "t": 697.25
    },
    {
     "speaker": "Tom",
     "text": "Wenn ich zuhöre, und das betrifft mich, oder jemanden, den ich kenne — was sollte ich mitnehmen?",
-    "t": 697.89
+    "t": 699.98
    },
    {
     "speaker": "Anna",
     "text": "Ein paar einfache Dinge.",
-    "t": 704.29
+    "t": 706.38
    },
    {
     "speaker": "Anna",
     "text": "Erstens — wenn du REVIS bekommst, ist ONIS nicht dein Feind.",
-    "t": 705.81
+    "t": 707.9
    },
    {
     "speaker": "Anna",
     "text": "Es ist der Teil von REVIS, der da ist, um dir zu helfen, voranzukommen, mit einem echten Menschen und einem persönlichen Plan.",
-    "t": 709.92
+    "t": 712.01
    },
    {
     "speaker": "Tom",
     "text": "Die Inklusionsseite, nicht nur die Geldseite.",
-    "t": 717.08
+    "t": 719.17
    },
    {
     "speaker": "Anna",
     "text": "Zweitens — es arbeitet in deinem Tempo.",
-    "t": 720.11
+    "t": 722.2
    },
    {
     "speaker": "Anna",
     "text": "Wenn du dich zuerst stabilisieren musst, ist das erlaubt, das ist normal.",
-    "t": 723.01
+    "t": 725.1
    },
    {
     "speaker": "Anna",
     "text": "Stabilisierung kommt vor Aktivierung.",
-    "t": 727.75
+    "t": 729.84
    },
    {
     "speaker": "Anna",
     "text": "Niemand wird schneller gedrängt, als er gehen kann.",
-    "t": 730.13
+    "t": 732.22
    },
    {
     "speaker": "Anna",
     "text": "Und in manchen Situationen — zum Beispiel wenn du ein kleines Kind ohne Betreuungsplatz versorgst, einen Angehörigen pflegst, oder aus gesundheitlichen Gründen — kannst du für eine Weile davon befreit werden.",
-    "t": 732.82
+    "t": 734.91
    },
    {
     "speaker": "Tom",
     "text": "Und drittens?",
-    "t": 744.52
+    "t": 746.61
    },
    {
     "speaker": "Anna",
     "text": "Drittens — du bist nicht allein.",
-    "t": 745.7
+    "t": 747.79
    },
    {
     "speaker": "Anna",
     "text": "Du bekommst einen regionalen Agenten, in der Nähe deines Wohnorts, der den Plan mit dir aufbaut.",
-    "t": 748.26
+    "t": 750.35
    },
    {
     "speaker": "Anna",
     "text": "Wenn du dich jemals im System verloren fühlst, ist dieser Agent dein Ansprechpartner.",
-    "t": 754.03
+    "t": 756.12
    },
    {
     "speaker": "Tom",
     "text": "Und wo können die Leute mehr erfahren?",
-    "t": 759.14
+    "t": 761.23
    },
    {
     "speaker": "Anna",
     "text": "Die offizielle Website ist onis — also o-n-i-s — Punkt gouvernement Punkt l-u.",
-    "t": 761.41
+    "t": 763.5
    },
    {
     "speaker": "Anna",
     "text": "Und für die REVIS-Leistung selbst gibt es die Informationen auf guichet Punkt l-u, und die Geldseite ist der Nationale Solidaritätsfonds, den wir in einer anderen Folge behandelt haben.",
-    "t": 768.85
+    "t": 770.94
    },
    {
     "speaker": "Tom",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 779.91
+    "t": 782
    },
    {
     "speaker": "Anna",
     "text": "Klar. ONIS, das Nationale Amt für soziale Inklusion, ist das staatliche Amt, das die „Inklusionsseite\" von REVIS regelt, Luxemburgs Eingliederungseinkommen.",
-    "t": 782.16
+    "t": 784.25
    },
    {
     "speaker": "Anna",
     "text": "Während der Nationale Solidaritätsfonds das Geld zahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind — denen, die die ADEM zu ihm schickt — voranzukommen — zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen.",
-    "t": 793.26
+    "t": 795.35
    },
    {
     "speaker": "Anna",
     "text": "Du unterschreibst eine Kooperationserklärung, du wirst einem regionalen Sozialinklusionsagenten in der Nähe deines Wohnorts zugeteilt, und gemeinsam baut ihr einen persönlichen Aktivierungsplan auf.",
-    "t": 807.72
+    "t": 809.81
    },
    {
     "speaker": "Anna",
     "text": "Der Geist ist, zu begleiten, nicht im Stich zu lassen.",
-    "t": 818.9
+    "t": 820.99
    },
    {
     "speaker": "Tom",
     "text": "Und die Botschaft für heute?",
-    "t": 822.86
+    "t": 824.95
    },
    {
     "speaker": "Anna",
     "text": "Dass ein Mindesteinkommen nur die Hälfte der Solidarität ist.",
-    "t": 824.48
+    "t": 826.57
    },
    {
     "speaker": "Anna",
     "text": "Die andere Hälfte ist Inklusion — eine Hand, ein Plan, und ein Weg zurück.",
-    "t": 827.97
+    "t": 830.06
    },
    {
     "speaker": "Anna",
     "text": "Geld hält dich aufrecht; Inklusion hilft dir, zu gehen.",
-    "t": 834.05
+    "t": 836.14
    },
    {
     "speaker": "Tom",
     "text": "Also... ob für dich, oder für jemanden, der dir am Herzen liegt — denk daran, hinter dem REVIS-Scheck steht auch eine helfende Hand.",
-    "t": 837.96
+    "t": 840.05
    },
    {
     "speaker": "Tom",
     "text": "Das Nationale Amt für soziale Inklusion.",
-    "t": 846.84
+    "t": 848.93
    },
    {
     "speaker": "Tom",
     "text": "ONIS.",
-    "t": 849.63
+    "t": 851.72
    },
    {
     "speaker": "Anna",
     "text": "Die Hälfte der Hilfe ist das Geld.",
-    "t": 850.6
-   },
-   {
-    "speaker": "Anna",
-    "text": "Die andere Hälfte ist, nicht allein gelassen zu werden.",
     "t": 852.69
    },
    {
     "speaker": "Anna",
+    "text": "Die andere Hälfte ist, nicht allein gelassen zu werden.",
+    "t": 854.78
+   },
+   {
+    "speaker": "Anna",
     "text": "Das ist gut zu wissen.",
-    "t": 855.8
+    "t": 857.89
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Nationale Amt für soziale Inklusion.",
-    "t": 857.4
+    "t": 859.49
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 861.47
+    "t": 863.56
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 870.95
+    "t": 873.04
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 889.28
+    "t": 891.37
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 894.98
+    "t": 897.07
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 897.23
+    "t": 899.32
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 902.12
+    "t": 904.21
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 903.27
+    "t": 905.36
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 906.48
+    "t": 908.57
    }
   ],
   "questions": [
@@ -52087,352 +52087,352 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Et ass eng Staatsverwaltung, ënnert dem Familljeministère. Hie gouf duerch déi grouss REVIS-Reform geschaaf — d'Gesetz vun zwee-dausend-uechtzéng — an huet ufanks zwee-dausend-nonzéng seng Aarbecht ugefaangen. Hien huet eigentlech e méi ale Service ersat, deen virdrun eng ähnlech Aarbecht gemaach huet.",
+    "text": "Et ass eng Staatsverwaltung, ënnert dem Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. Hie gouf duerch déi grouss REVIS-Reform geschaaf — d'Gesetz vun zwee-dausend-uechtzéng — an huet ufanks zwee-dausend-nonzéng seng Aarbecht ugefaangen. Hien huet eigentlech e méi ale Service ersat, deen virdrun eng ähnlech Aarbecht gemaach huet.",
     "t": 142.12
    },
    {
     "speaker": "Tom",
     "text": "Also ass hie relativ jonk, mä op méi ale Fundamenter gebaut.",
-    "t": 157.82
+    "t": 162.69
    },
    {
     "speaker": "Anna",
     "text": "Jo. A seng Missioun, an einfache Wierder, ass deene Leit ze hëllefen, déi am wäitsten ewech vum Aarbechtsmaart sinn, Schrëtt zréck dohinner ze maachen — an hirem eegene Rhythmus.",
-    "t": 161.01
+    "t": 165.88
    },
    {
     "speaker": "Tom",
     "text": "Am wäitsten ewech vum Aarbechtsmaart. Wie mengs du domat?",
-    "t": 170.56
+    "t": 175.43
    },
    {
     "speaker": "Anna",
     "text": "Leit, déi aus alle méigleche Grënn net einfach muer an eng Aarbecht goe kënnen. Vläicht ass een eng ganz laang Zäit ouni Aarbecht. Vläicht gëtt et e Gesondheetsproblem, oder eng schwiereg Famillesituatioun, oder Suergen ëm d'Wunneng, oder e Verloscht u Selbstvertrauen. D'Liewe kann d'Leit op vill Manéieren ëmgehäen.",
-    "t": 173.71
+    "t": 178.58
    },
    {
     "speaker": "Tom",
     "text": "Also ass et net just \"gitt eng Aarbecht sichen\". D'Hindernisser kënne vill méi déif sinn.",
-    "t": 190.73
+    "t": 195.6
    },
    {
     "speaker": "Anna",
     "text": "Vill méi déif. An dat ass d'Wäisheet, wéi den ONIS schafft. Hien behandelt net jiddereen d'selwecht. Hien erkennt, datt verschidde Leit, ier se eng Aarbecht sichen, fir d'éischt hiert Liewe musse stabiliséieren.",
-    "t": 195.58
+    "t": 200.45
    },
    {
     "speaker": "Tom",
     "text": "Stabiliséieren. Dat ass en interessant Wuert. Kanns du dat ophuelen?",
-    "t": 207.18
+    "t": 212.05
    },
    {
     "speaker": "Anna",
     "text": "Natierlech. Den ONIS schafft mat zwou Zorte vu Mesuren. Déi éischt Zort heesche Stabiliséierungsmesuren. Déi sinn fir een, deen nach net prett ass fir eng Aarbecht — well et anert Saache gëtt, déi fir d'éischt ze regele sinn. D'Gesondheet, perséinlech Schwieregkeeten, den Alldag erëm an d'Rei kréien.",
-    "t": 210.33
+    "t": 215.2
    },
    {
     "speaker": "Tom",
     "text": "Also als éischt, hëllef mer, fest op de Féiss ze stoen.",
-    "t": 226.77
+    "t": 231.64
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, hëllef der, ze stoen. An dann, déi zweet Zort — d'Aktivéierungsmesuren. Dat sinn d'Schrëtt Richtung Aarbecht an Aktivitéit. Kompetenzen opbauen, Erfahrung sammelen, erëm an e Rhythmus kommen.",
-    "t": 228.97
+    "t": 233.84
    },
    {
     "speaker": "Tom",
     "text": "Also Stabiliséierung als éischt, dann d'Aktivéierung. Et trëfft d'Leit do, wou se wierklech sinn.",
-    "t": 242.9
+    "t": 247.77
    },
    {
     "speaker": "Anna",
     "text": "Genau. Et ass net eng eenheetlech Léisung fir jiddereen. Et ass e Wee, deen ëm all eenzel Persoun erëm geformt gëtt, a wéi se sech entwéckelt.",
-    "t": 247.62
+    "t": 252.49
    },
    {
     "speaker": "Tom",
     "text": "Gutt, loosse mir et praktesch maachen. Wann ech eng Persoun sinn, déi ufänkt REVIS ze kréien, wat geschitt da konkret mam ONIS? Féier mech do duerch.",
-    "t": 254.74
+    "t": 259.61
    },
    {
     "speaker": "Anna",
     "text": "Gär. Eigentlech fänkt et bei der ADEM un. Wann s du ënner fënnefasechzeg bass a schaffe kanns, kuckt d'ADEM fir d'éischt deng Situatioun un. Wann s du prett bass fir eng Aarbecht, begleet dech d'ADEM. Mä wann et fir d'éischt aner Schwieregkeeten ze léisen gëtt, schéckt d'ADEM dech bei den ONIS. Dann invitéiert den ONIS dech op eng Informatiounsversammlung — an do ënnerschreifs du eppes wat eng Kollaboratiounserklärung (déclaration de collaboration) heescht.",
-    "t": 262.71
+    "t": 267.58
    },
    {
     "speaker": "Tom",
     "text": "Eng Kollaboratiounserklärung. Dat kléngt formell. Wat heescht dat, wierklech?",
-    "t": 284.96
+    "t": 289.83
    },
    {
     "speaker": "Anna",
     "text": "Einfach gesot, et ass e géigesäitegt Verspriechen. Du sees zou, matzemaachen — zesummen un denger Situatioun ze schaffen. An de Staat seet zou, dech ze ënnerstëtzen. Et ass eng Strooss an zwou Richtungen. Du kriss net nëmmen; du mécht mat.",
-    "t": 289.28
+    "t": 294.15
    },
    {
     "speaker": "Tom",
     "text": "Also ass et eng Partnerschaft, opgeschriwwen.",
-    "t": 303.21
+    "t": 308.08
    },
    {
     "speaker": "Anna",
     "text": "Eng Partnerschaft. An dann kënnt den Deel, deen ech wierklech duerchduecht fannen. Du gëss mat enger Persoun zesummegesat — engem regionalen Agent fir sozial Inklusioun. Op Franséisch, en \"agent régional d'inclusion sociale\", en ARIS.",
-    "t": 305.5
+    "t": 310.37
    },
    {
     "speaker": "Tom",
     "text": "E regionalen Agent. Also e richtege Mënsch, deen dir hëllefe soll.",
-    "t": 318.48
+    "t": 323.35
    },
    {
     "speaker": "Anna",
     "text": "E richtege Mënsch, deen däi Guide gëtt. An \"regional\" ass wichteg — dës Agente schaffen an de lokale Sozialämter, am ganze Land. Also gëss du net an ee grousst Gebai an der Haaptstad geschéckt. Dir gëtt no bei där Plaz gehollef, wou s du wunns.",
-    "t": 322.34
+    "t": 327.21
    },
    {
     "speaker": "Tom",
     "text": "Dat ass wichteg. Hëllef, déi lokal ass, a perséinlech.",
-    "t": 336.13
+    "t": 341
    },
    {
     "speaker": "Anna",
     "text": "Ganz. An zesummen, du an däin Agent, baut dir eppes op wat en Aktivéierungsplang (plan d'activation) heescht. Et ass e perséinleche Plang — deng Situatioun, deng Schwieregkeeten, deng Ziler, an déi konkret Schrëtt fir no vir ze kommen. De Plang gëllt all Kéier héchstens ee Joer, an e kann ëmmer geännert ginn, wann deng Situatioun sech ännert.",
-    "t": 339.3
+    "t": 344.17
    },
    {
     "speaker": "Tom",
     "text": "Also gëtt de Plang mat dir gebaut, net dir iwwerreecht.",
-    "t": 358.41
+    "t": 363.28
    },
    {
     "speaker": "Anna",
     "text": "Mat dir. Dat ass d'Häerz vun der Saach. Et ass däi Plang. Den Agent bréngt d'Wëssen an d'Méiglechkeeten; du bréngs däi Liewen an deng Hoffnungen. Zesummen zeechent dir de Wee.",
-    "t": 361.15
+    "t": 366.02
    },
    {
     "speaker": "Tom",
     "text": "A wat fir Schrëtt kéinten an deem Plang sinn? Gëff mer e puer Beispiller.",
-    "t": 371.74
+    "t": 376.61
    },
    {
     "speaker": "Anna",
     "text": "Et hänkt ganz vun der Persoun of. Fir een, deen sech fir d'éischt stabiliséiere muss, kéint et ëm d'Gesondheet goen, oder ëm praktesch Problemer ze léisen, oder e Alldag nees opzebauen. Fir een, deen méi no bei der Aarbecht ass, kéint et eng Formatioun sinn, oder Erfahrung ze sammelen.",
-    "t": 375.35
+    "t": 380.22
    },
    {
     "speaker": "Tom",
     "text": "An d'Aarbechtserfahrung — wéi geschitt dat, wann s du nach keng Aarbecht hues?",
-    "t": 390.28
+    "t": 395.15
    },
    {
     "speaker": "Anna",
     "text": "Eng vun den Hëllefsmëttelen ass eng zäitweileg Plaz an enger nëtzlecher Roll fir d'Gemeinschaft — bei enger Gaaschtorganisatioun, zum Beispill enger Asbl. Du dréis bäi, du bass aktiv, du baus Erfahrung a Selbstvertrauen op — an dat kann e Schrëtt Richtung enger richteger Aarbecht ginn. A fir déi Aarbecht kriss du eng Aktivéierungsallocatioun — op Basis vum Mindestloun, fir d'Stonnen, déi s du schaffs.",
-    "t": 394.17
+    "t": 399.04
    },
    {
     "speaker": "Tom",
     "text": "Also méchs du eppes Sënnvolles, a bereets dech zur selwechter Zäit vir.",
-    "t": 416.54
+    "t": 421.41
    },
    {
     "speaker": "Anna",
     "text": "Genau. Et ass Wierdegkeet a Virbereedung an engem. Du sëtz net doheem a fills dech onnëtzlech. Du dréis bäi, a waakss.",
-    "t": 420.59
+    "t": 425.46
    },
    {
     "speaker": "Tom",
     "text": "Anna, ech wëll déi éierlech Fro stellen, déi verschidden Nolauschterer hu wäerten. Geet et drëm, de Leit ze hëllefen — oder geet et drëm, se ze kontrolléieren, fir sécher ze sinn, datt se net faul sinn?",
-    "t": 428.33
+    "t": 433.2
    },
    {
     "speaker": "Anna",
     "text": "Dat ass eng faire Fro, an eng wichteg. Déi éierlech Äntwert ass — de Geescht dervun ass Hëllef, net Strof. Dat ganzt Konzept ass, d'Leit ze begleeden, an hirem eegene Rhythmus, ronderëm hir eege Hindernisser. Et ass wouer, datt REVIS Matmaache verlaangt — dat ass d'Kollaboratiounserklärung — a wann een ëmmer erëm refuséiert matzemaachen, kann d'Bezuelung reduzéiert oder ausgesat ginn. Mä d'Zil ass net, d'Leit z'erwëschen. D'Zil ass, se net am Stach ze loossen.",
-    "t": 437.77
+    "t": 442.64
    },
    {
     "speaker": "Tom",
     "text": "Se net am Stach loossen. Well just Suen ze schécken, an näischt anescht...",
-    "t": 467.74
+    "t": 472.61
    },
    {
     "speaker": "Anna",
     "text": "...kann eng Persoun jorelaang festgehäit an eleng loossen. An dat ass d'Fal, déi REVIS an den ONIS probéieren ze vermeiden. Suen halen dech iwwer Waasser. Mä d'Inklusioun — e Guide, e Plang, e Wee — dat ass et, wat dir hëlleft dech ze beweegen.",
-    "t": 471.84
+    "t": 476.71
    },
    {
     "speaker": "Tom",
     "text": "Dat stellt et wierklech an en aneren Liicht. De Scheck ass de Buedem; den ONIS ass d'Trap.",
-    "t": 484.91
+    "t": 489.78
    },
    {
     "speaker": "Anna",
     "text": "De Scheck ass de Buedem; den ONIS ass d'Trap. Dat léinen ech mer.",
-    "t": 489.67
+    "t": 494.54
    },
    {
     "speaker": "Tom",
     "text": "Loosse mir et mat enger Persoun konkret maachen. Kënne mer?",
-    "t": 493.88
+    "t": 498.75
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer. Stell der e Mann vir — nenne mer e Paulo. Hien ass scho méi Joren ouni Aarbecht. Hien huet seng Aarbecht verluer, dann säi Selbstvertrauen, a lues ass hien wäit ewech vum Aarbechtsmaart gedriff.",
-    "t": 496.79
+    "t": 501.66
    },
    {
     "speaker": "Tom",
     "text": "Eng Geschicht, déi méi heefeg ass, wéi d'Leit mengen.",
-    "t": 507.51
+    "t": 512.38
    },
    {
     "speaker": "Anna",
     "text": "Vill méi heefeg. Also bewaarbt sech de Paulo fir REVIS. De FNS reegelt d'Suenesäit — hie kritt den Mindestakommes, sou datt hie liewe kann. D'ADEM kuckt seng Situatioun un, gesäit, datt hien nach net prett ass fir eng Aarbecht, a schéckt hien bei den ONIS. An dann trëtt den ONIS a säi Liewen.",
-    "t": 509.85
+    "t": 514.72
    },
    {
     "speaker": "Tom",
     "text": "Hie gëtt op eng Versammlung agelueden.",
-    "t": 527.14
+    "t": 532.01
    },
    {
     "speaker": "Anna",
     "text": "Hie gëtt agelueden, hien ënnerschreift d'Kollaboratiounserklärung, an hie gëtt mat engem regionalen Agent no bei sengem Doheem zesummegesat. Si setzen sech zesummen. An am Ufank ass et kloer, datt de Paulo net prett ass fir eng Aarbecht ze sichen — hien ass ausgepompelt, e bësse verluer. Also fänkt de Plang mat der Stabiliséierung un.",
-    "t": 528.82
+    "t": 533.69
    },
    {
     "speaker": "Tom",
     "text": "Hëllef him als éischt, op d'Féiss ze kommen.",
-    "t": 545.04
+    "t": 549.91
    },
    {
     "speaker": "Anna",
     "text": "Hëllef him ze stoen. Dann, Schrëtt fir Schrëtt, wéi hie sech stabiliséiert, beweegt de Plang sech Richtung Aktivéierung. Vläicht eng Plaz an enger Organisatioun fir d'Gemeinschaft, fir erëm an e Rhythmus ze kommen a säi Selbstvertrauen nees opzebauen. Dann eng Formatioun.",
-    "t": 546.62
+    "t": 551.49
    },
    {
     "speaker": "Tom",
     "text": "An enges Daags, vläicht, eng richteg Aarbecht.",
-    "t": 560.85
+    "t": 565.72
    },
    {
     "speaker": "Anna",
     "text": "Dat ass d'Zil. A souguer wann et Zäit brauch, ass de Paulo net méi eleng domat. Hien huet e Plang, an eng Persoun, déi niewent him geet. Dat verännert alles.",
-    "t": 563.04
+    "t": 567.91
    },
    {
     "speaker": "Tom",
     "text": "Dat mécht et wierklech. Den Ënnerscheed tëscht Driwwen, an begleet ze ginn.",
-    "t": 572.91
+    "t": 577.78
    },
    {
     "speaker": "Anna",
     "text": "Dat ass de ganzen Ënnerscheed. An dat ass et, wat \"Inklusioun\" wierklech heescht — keen dobaussen ze loossen.",
-    "t": 577.05
+    "t": 581.92
    },
    {
     "speaker": "Tom",
     "text": "Loosse mir e Moment erauszommen. Firwat ass dat wichteg fir d'Gesellschaft am Ganzen, net just fir den Eenzelnen?",
-    "t": 582.99
+    "t": 587.86
    },
    {
     "speaker": "Anna",
     "text": "Well wann een vum Festsetzen zu aktiv an abegraff iwwergeet, gewënnt jiddereen. D'Persoun kritt Wierdegkeet an Akommes zréck. Hir Famill ass méi stabil. An d'Gesellschaft hält e Member verbonnen, deen bäidréit, amplaz verluer. D'Inklusioun ass gutt fir d'Persoun, a gutt fir eis all.",
-    "t": 588.31
+    "t": 593.18
    },
    {
     "speaker": "Tom",
     "text": "Eng Gesellschaft ass méi staark, wann keen ofgeschriwwe gëtt.",
-    "t": 607.46
+    "t": 612.33
    },
    {
     "speaker": "Anna",
     "text": "Wann keen ofgeschriwwe gëtt. Dat ass déi roueg Philosophie hannert dem ONIS.",
-    "t": 610.25
+    "t": 615.12
    },
    {
     "speaker": "Tom",
     "text": "Gutt Anna, loosse mir et ofschléissen. Wann ech nolauschteren, an dat mech beréiert, oder een deen ech kennen — wat soll ech mathuelen?",
-    "t": 614.51
+    "t": 619.38
    },
    {
     "speaker": "Anna",
     "text": "E puer einfach Saachen. Éischtens — wann s du REVIS kriss, ass den ONIS net däi Feind. Et ass deen Deel vu REVIS, deen do ass, fir dir ze hëllefen no vir ze kommen, mat enger richteger Persoun an engem perséinleche Plang.",
-    "t": 620.85
+    "t": 625.72
    },
    {
     "speaker": "Tom",
     "text": "D'Inklusiounssäit, net just d'Suenesäit.",
-    "t": 632.16
+    "t": 637.03
    },
    {
     "speaker": "Anna",
     "text": "Zweetens — et schafft an dengem Rhythmus. Wann s du dech fir d'éischt stabiliséiere muss, dann ass dat erlaabt, dat ass normal. D'Stabiliséierung kënnt virun der Aktivéierung. Keen gëtt méi séier gedréckt, wéi hie ka goen. An a verschiddene Situatiounen — zum Beispill wann s du dech ëm e klengt Kand ouni Betreiungsplaz këmmers, ëm e Familljemember, oder aus gesondheetleche Grënn — kanns du eng Zäit laang dispenséiert ginn.",
-    "t": 634.72
+    "t": 639.59
    },
    {
     "speaker": "Tom",
     "text": "An drëttens?",
-    "t": 657.71
+    "t": 662.58
    },
    {
     "speaker": "Anna",
     "text": "Drëttens — du bass net eleng. Du kriss e regionalen Agent, no bei dengem Doheem, deen de Plang mat dir baut. Wann s du dech jeemools verluer fills am System, ass deen Agent däi Kontaktpunkt.",
-    "t": 658.66
+    "t": 663.53
    },
    {
     "speaker": "Tom",
     "text": "A wou kënnen d'Leit méi gewuer ginn?",
-    "t": 669.9
+    "t": 674.77
    },
    {
     "speaker": "Anna",
     "text": "Déi offiziell Websäit ass onis — dat ass o-n-i-s — Punkt gouvernement Punkt l-u. A fir d'REVIS-Leeschtung selwer ass d'Informatioun op guichet Punkt l-u, an d'Suenesäit ass den Nationale Solidaritéitsfong, deen mir an enger anerer Episod behandelt hunn.",
-    "t": 671.57
+    "t": 676.44
    },
    {
     "speaker": "Tom",
     "text": "E kuerzen Resumé fir ofzeschléissen?",
-    "t": 688.62
+    "t": 693.49
    },
    {
     "speaker": "Anna",
     "text": "Gär. Den ONIS, den Nationalen Office fir sozial Inklusioun, ass deen Office vum Staat, deen sech ëm d'\"Inklusiounssäit\" vu REVIS këmmert, dem Inklusiounsakommes vu Lëtzebuerg. Wärend den Nationale Solidaritéitsfong d'Suen bezuelt, hëlleft den ONIS deene Leit, déi am wäitsten ewech vun der Aarbecht sinn — deenen, déi d'ADEM bei hie schéckt — no vir ze kommen — fir d'éischt duerch Stabiliséierungsmesuren, dann duerch Aktivéierungsmesuren. Du ënnerschreifs eng Kollaboratiounserklärung, du gëss mat engem regionalen Agent fir sozial Inklusioun no bei dengem Doheem zesummegesat, an zesummen baut dir e perséinlechen Aktivéierungsplang. De Geescht ass ze begleeden, net am Stach ze loossen.",
-    "t": 690.19
+    "t": 695.06
    },
    {
     "speaker": "Tom",
     "text": "An d'Message fir haut?",
-    "t": 726.42
+    "t": 731.29
    },
    {
     "speaker": "Anna",
     "text": "Datt en Mindestakommes nëmmen d'Halschent vun der Solidaritéit ass. Déi aner Halschent ass d'Inklusioun — eng Hand, e Plang, an e Wee zréck. Suen halen dech op de Féiss; d'Inklusioun hëlleft der ze goen.",
-    "t": 727.9
+    "t": 732.77
    },
    {
     "speaker": "Tom",
     "text": "Also... egal ob et fir dech ass, oder fir een deen dir um Häerz läit — denk drun, hannert dem REVIS-Scheck gëtt et och eng hëllefend Hand. Den Nationalen Office fir sozial Inklusioun. ONIS.",
-    "t": 739.81
+    "t": 744.68
    },
    {
     "speaker": "Anna",
     "text": "D'Halschent vun der Hëllef sinn d'Suen. Déi aner Halschent ass, net eleng gelooss ze ginn. Dat ass et wäert ze wëssen. Dat war eis Episod iwwer den Nationalen Office fir sozial Inklusioun. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 750.67
+    "t": 755.54
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 801.04
+    "t": 805.91
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 804.24
+    "t": 809.12
    }
   ],
   "audio_fr": "podcast_onis_fr.mp3",
-  "duration_fr": 748.15,
+  "duration_fr": 752.04,
   "title_fr": "L'Office national d'inclusion sociale – bien plus qu'un chèque",
   "description_fr": "L'Office national d'inclusion sociale (ONIS) est l'administration de l'État qui s'occupe du volet « inclusion » du REVIS, le revenu d'inclusion sociale du Luxembourg. Tandis que le Fonds national de solidarité (FNS) verse l'argent, l'ONIS aide les personnes les plus éloignées de l'emploi – orientées par l'ADEM – à avancer – d'abord par des mesures de stabilisation, puis par des mesures d'activation. Vous signez une déclaration de collaboration, vous êtes mis en relation avec un agent régional d'inclusion sociale (ARIS) près de chez vous, et ensemble vous construisez un plan d'activation personnel. Créé par la loi REVIS de 2018, il a commencé son travail en 2019. Plus d'informations sur onis.gouvernement.lu.",
   "topics_fr": [
@@ -52503,7 +52503,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_onis_de.mp3",
-  "duration_de": 908.02,
+  "duration_de": 910.11,
   "title_de": "Das Nationale Amt für soziale Eingliederung – mehr als ein Scheck",
   "description_de": "Das Nationale Amt für soziale Eingliederung (Office national d'inclusion sociale, ONIS) ist die staatliche Behörde, die sich um die „Eingliederungsseite“ des REVIS kümmert, Luxemburgs Eingliederungseinkommen. Während der Nationale Solidaritätsfonds (FNS) das Geld auszahlt, hilft ONIS den Menschen, die am weitesten von der Arbeit entfernt sind – von der ADEM verwiesen –, voranzukommen – zuerst durch Stabilisierungsmaßnahmen, dann durch Aktivierungsmaßnahmen. Sie unterschreiben eine Kooperationserklärung, werden einem regionalen Eingliederungsagenten (ARIS) in Ihrer Nähe zugeordnet, und gemeinsam erstellen Sie einen persönlichen Aktivierungsplan. Durch das REVIS-Gesetz von 2018 geschaffen, nahm es 2019 seine Arbeit auf. Mehr unter onis.gouvernement.lu.",
   "topics_de": [
