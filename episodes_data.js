@@ -103505,7 +103505,7 @@ const EPISODES = [
   "title": "Lëtz prepare – Ready for 72 Hours",
   "description": "Would you be ready if the power went off for three days? Discover Lëtz prepare, Luxembourg's National Resilience Strategy, and the guide to 72 hours of self-sufficiency: warnings, a checklist for your home, and a personal emergency plan.",
   "audio": "podcast_letzprepare.mp3",
-  "duration": 509.94,
+  "duration": 509.96,
   "topics": [
    "The National Resilience Strategy",
    "What resilience means",
@@ -103830,397 +103830,397 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Or simply the radio in your car.",
-    "t": 224.22
+    "t": 224.26
    },
    {
     "speaker": "Tom",
     "text": "The emergency numbers stay the same: 112 for the fire and rescue services, and 1-1-3 for the police.",
-    "t": 226.53
+    "t": 226.57
    },
    {
     "speaker": "Anna",
     "text": "But only for a real emergency.",
-    "t": 232.73
+    "t": 232.77
    },
    {
     "speaker": "Anna",
     "text": "In a crisis, keep your phone calls short, so the lines stay free for the emergency services.",
-    "t": 234.82
+    "t": 234.86
    },
    {
     "speaker": "Tom",
     "text": "And one more rule: check information before you share it.",
-    "t": 240.51
+    "t": 240.55
    },
    {
     "speaker": "Tom",
     "text": "Trust the official sources, like infocrise dot l-u, and don't pass on rumours.",
-    "t": 243.55
+    "t": 243.59
    },
    {
     "speaker": "Anna",
     "text": "Now the checklist.",
-    "t": 248.29
+    "t": 248.33
    },
    {
     "speaker": "Anna",
     "text": "What should I have at home?",
-    "t": 249.59
+    "t": 249.63
    },
    {
     "speaker": "Tom",
     "text": "First, water. The guide says: at least three litres per person, per day.",
-    "t": 251.25
+    "t": 251.29
    },
    {
     "speaker": "Anna",
     "text": "So for three days, that's nine litres for each person.",
-    "t": 257.31
+    "t": 257.35
    },
    {
     "speaker": "Anna",
     "text": "For a family of four, thirty-six litres.",
-    "t": 261
+    "t": 261.04
    },
    {
     "speaker": "Tom",
     "text": "Then food that keeps for a long time and is easy to eat.",
-    "t": 263.8
+    "t": 263.84
    },
    {
     "speaker": "Tom",
     "text": "Tins, biscuits, nuts, energy bars.",
-    "t": 266.48
+    "t": 266.52
    },
    {
     "speaker": "Tom",
     "text": "And don't forget a tin opener!",
-    "t": 269.41
+    "t": 269.45
    },
    {
     "speaker": "Anna",
     "text": "And food for your pets, if you have any.",
-    "t": 271.79
+    "t": 271.83
    },
    {
     "speaker": "Tom",
     "text": "A small gas stove can help too.",
-    "t": 274.14
+    "t": 274.18
    },
    {
     "speaker": "Tom",
     "text": "But be careful: never use a barbecue or a generator inside the house.",
-    "t": 275.8
+    "t": 275.84
    },
    {
     "speaker": "Tom",
     "text": "The fumes can kill.",
-    "t": 279.74
+    "t": 279.78
    },
    {
     "speaker": "Anna",
     "text": "Next, light and warmth.",
-    "t": 281.19
+    "t": 281.23
    },
    {
     "speaker": "Anna",
     "text": "A torch with spare batteries, candles with matches, and blankets or sleeping bags.",
-    "t": 283.56
+    "t": 283.6
    },
    {
     "speaker": "Tom",
     "text": "For your health: a first aid kit, and the medicines you take regularly.",
-    "t": 289.42
+    "t": 289.46
    },
    {
     "speaker": "Anna",
     "text": "Hygiene products too: toilet paper, wet wipes and disinfectant gel.",
-    "t": 293.8
+    "t": 293.84
    },
    {
     "speaker": "Tom",
     "text": "Then information and energy: the radio we mentioned, and a power bank to charge your phone.",
-    "t": 298.63
+    "t": 298.67
    },
    {
     "speaker": "Anna",
     "text": "And something people often forget: cash.",
-    "t": 303.47
+    "t": 303.51
    },
    {
     "speaker": "Anna",
     "text": "If the power is off, paying by card may not work.",
-    "t": 306.46
+    "t": 306.5
    },
    {
     "speaker": "Tom",
     "text": "Good point. And keep copies of your important documents, like identity papers and insurance contracts, in a waterproof pouch.",
-    "t": 310.09
+    "t": 310.13
    },
    {
     "speaker": "Anna",
     "text": "That's a long list.",
-    "t": 317.23
+    "t": 317.27
    },
    {
     "speaker": "Anna",
     "text": "Do I have to buy everything tomorrow?",
-    "t": 318.64
+    "t": 318.68
    },
    {
     "speaker": "Tom",
     "text": "No. You probably have many of these things at home already.",
-    "t": 320.9
+    "t": 320.94
    },
    {
     "speaker": "Tom",
     "text": "The checklist helps you see what is missing.",
-    "t": 324.54
+    "t": 324.58
    },
    {
     "speaker": "Anna",
     "text": "And the guide says: check your kit at least twice a year, for example the expiry dates.",
-    "t": 327.36
+    "t": 327.4
    },
    {
     "speaker": "Tom",
     "text": "Now the fourth part, the personal emergency plan.",
-    "t": 332.95
+    "t": 332.99
    },
    {
     "speaker": "Tom",
     "text": "What is that?",
-    "t": 335.57
+    "t": 335.61
    },
    {
     "speaker": "Anna",
     "text": "It's a form that you fill in together with the people you live with, and that you share with family and friends.",
-    "t": 336.58
+    "t": 336.62
    },
    {
     "speaker": "Tom",
     "text": "What goes into it?",
-    "t": 342.64
+    "t": 342.68
    },
    {
     "speaker": "Anna",
     "text": "Who lives in the home, with phone numbers, and medical information like allergies and regular medication.",
-    "t": 343.92
+    "t": 343.96
    },
    {
     "speaker": "Tom",
     "text": "And practical things about the home.",
-    "t": 350.5
+    "t": 350.54
    },
    {
     "speaker": "Tom",
     "text": "Where is the main water valve?",
-    "t": 352.24
+    "t": 352.28
    },
    {
     "speaker": "Tom",
     "text": "Where is the circuit breaker?",
-    "t": 353.99
+    "t": 354.03
    },
    {
     "speaker": "Tom",
     "text": "Where is the fire extinguisher?",
-    "t": 355.76
+    "t": 355.8
    },
    {
     "speaker": "Tom",
     "text": "How do you open the garage door without electricity?",
-    "t": 357.73
+    "t": 357.77
    },
    {
     "speaker": "Anna",
     "text": "I have no idea how to open my garage without electricity!",
-    "t": 360.3
+    "t": 360.34
    },
    {
     "speaker": "Tom",
     "text": "Then it's good to find out now, and not in the dark.",
-    "t": 364.01
+    "t": 364.05
    },
    {
     "speaker": "Anna",
     "text": "The plan also asks: where do we meet if we cannot go home and the phones don't work?",
-    "t": 367.08
+    "t": 367.12
    },
    {
     "speaker": "Anna",
     "text": "You write down two meeting places.",
-    "t": 372.97
+    "t": 373.01
    },
    {
     "speaker": "Tom",
     "text": "And who collects the children from school if the parents can't?",
-    "t": 375.22
+    "t": 375.26
    },
    {
     "speaker": "Tom",
     "text": "How do I get home from work without a car or public transport?",
-    "t": 378.34
+    "t": 378.38
    },
    {
     "speaker": "Anna",
     "text": "There's also a part about the neighbourhood.",
-    "t": 381.84
+    "t": 381.88
    },
    {
     "speaker": "Anna",
     "text": "Who could help me?",
-    "t": 383.92
+    "t": 383.96
    },
    {
     "speaker": "Anna",
     "text": "And who might need my help?",
-    "t": 385.13
+    "t": 385.17
    },
    {
     "speaker": "Tom",
     "text": "Maybe a neighbour knows first aid.",
-    "t": 387.08
+    "t": 387.12
    },
    {
     "speaker": "Tom",
     "text": "And maybe an older neighbour lives alone and would be glad if someone knocked on the door.",
-    "t": 388.96
+    "t": 389
    },
    {
     "speaker": "Anna",
     "text": "That's very Biergerpakt, actually.",
-    "t": 393.29
+    "t": 393.33
    },
    {
     "speaker": "Anna",
     "text": "When we know our neighbours, everyone is stronger.",
-    "t": 395.47
+    "t": 395.51
    },
    {
     "speaker": "Tom",
     "text": "And keep the plan on paper too, not only on your phone.",
-    "t": 398.22
+    "t": 398.26
    },
    {
     "speaker": "Tom",
     "text": "A battery can run out.",
-    "t": 401.29
+    "t": 401.32
    },
    {
     "speaker": "Anna",
     "text": "Where can people find all this?",
-    "t": 402.97
+    "t": 403
    },
    {
     "speaker": "Tom",
     "text": "On letzprepare dot l-u.",
-    "t": 405.04
+    "t": 405.07
    },
    {
     "speaker": "Tom",
     "text": "You can download the guide, the checklist and the emergency plan for free.",
-    "t": 407.21
+    "t": 407.24
    },
    {
     "speaker": "Anna",
     "text": "They exist in five languages: Luxembourgish, French, German, English and Portuguese.",
-    "t": 411.18
+    "t": 411.21
    },
    {
     "speaker": "Tom",
     "text": "And for advice on specific situations, like a power cut, a flood or a nuclear alert, there's the website infocrise dot l-u.",
-    "t": 417.59
+    "t": 417.62
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it together.",
-    "t": 426.58
+    "t": 426.61
    },
    {
     "speaker": "Anna",
     "text": "What should people remember?",
-    "t": 428.05
+    "t": 428.08
    },
    {
     "speaker": "Tom",
     "text": "First: Lëtz prepare is Luxembourg's National Resilience Strategy.",
-    "t": 430.02
+    "t": 430.05
    },
    {
     "speaker": "Tom",
     "text": "Being prepared is a task for the State, and for all of us.",
-    "t": 434.18
+    "t": 434.21
    },
    {
     "speaker": "Anna",
     "text": "Second: every household should be able to manage on its own for 72 hours.",
-    "t": 438.13
+    "t": 438.16
    },
    {
     "speaker": "Tom",
     "text": "Third: think of water, food, light, a radio, your medicines, some cash, and copies of your documents.",
-    "t": 443.33
+    "t": 443.36
    },
    {
     "speaker": "Anna",
     "text": "And fourth: fill in your personal emergency plan together with your family, and talk to your neighbours.",
-    "t": 450.2
+    "t": 450.23
    },
    {
     "speaker": "Tom",
     "text": "A little preparation today makes a big difference tomorrow.",
-    "t": 457.13
+    "t": 457.16
    },
    {
     "speaker": "Anna",
     "text": "And together, we are stronger.",
-    "t": 460.1
+    "t": 460.13
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about Lëtz prepare.",
-    "t": 461.94
+    "t": 461.97
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 464.27
+    "t": 464.3
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 473.1
+    "t": 473.13
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 491.38
+    "t": 491.41
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 498.13
+    "t": 498.16
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 500.33
+    "t": 500.36
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 505.02
+    "t": 505.05
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 506.19
+    "t": 506.22
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 508.33
+    "t": 508.36
    }
   ],
   "questions": [
@@ -106004,222 +106004,222 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "D'Noutruffnummere bleiwen déi selwecht: 112 fir d'Rettungsdéngschter, an 1-1-3 fir d'Police.",
-    "t": 226.53
+    "t": 226.57
    },
    {
     "speaker": "Anna",
     "text": "Awer nëmme fir e richtegen Noutfall. Telefonéiert an enger Kris nëmme kuerz, fir datt d'Leitunge fir d'Rettungsdéngschter fräi bleiwen.",
-    "t": 232.73
+    "t": 232.77
    },
    {
     "speaker": "Tom",
     "text": "An nach eng Reegel: Kontrolléiert Informatiounen, ier Dir se deelt. Vertraut den offizielle Quellen, wéi infocrise Punkt l-u, a gitt keng Rumeure weider.",
-    "t": 240.51
+    "t": 240.55
    },
    {
     "speaker": "Anna",
     "text": "Elo d'Checklëscht. Wat sollt ech doheem hunn?",
-    "t": 248.29
+    "t": 248.33
    },
    {
     "speaker": "Tom",
     "text": "Fir d'éischt Waasser. De Guide seet: op d'mannst dräi Liter pro Persoun a pro Dag.",
-    "t": 251.25
+    "t": 251.29
    },
    {
     "speaker": "Anna",
     "text": "Fir dräi Deeg sinn dat also néng Liter pro Persoun. Fir eng Famill vu véier Leit, sechsandrësseg Liter.",
-    "t": 257.31
+    "t": 257.35
    },
    {
     "speaker": "Tom",
     "text": "Dann Liewensmëttel, déi sech laang halen an einfach z'iesse sinn. Konserven, Kichelcher, Nëss, Energieriegelen. A vergiesst den Doseschlëssel net!",
-    "t": 263.8
+    "t": 263.84
    },
    {
     "speaker": "Anna",
     "text": "An Fudder fir Är Hausdéieren, wann Dir der hutt.",
-    "t": 271.79
+    "t": 271.83
    },
    {
     "speaker": "Tom",
     "text": "E klenge Gaskocher kann och hëllefen. Awer opgepasst: Benotzt ni e Grill oder e Generator am Haus. Den Damp kann déidlech sinn.",
-    "t": 274.14
+    "t": 274.18
    },
    {
     "speaker": "Anna",
     "text": "Dono Luucht a Wäermt. Eng Täscheluucht mat Ersatzbatterien, Käerze mat Fixspéin, an Decken oder Schlofsäck.",
-    "t": 281.19
+    "t": 281.23
    },
    {
     "speaker": "Tom",
     "text": "Fir d'Gesondheet: eng Éischt-Hëllef-Këscht, an d'Medikamenter, déi Dir reegelméisseg huelt.",
-    "t": 289.42
+    "t": 289.46
    },
    {
     "speaker": "Anna",
     "text": "Och Hygiènesartikelen: Toilettëpabeier, fiicht Dicher an Desinfektiounsgel.",
-    "t": 293.8
+    "t": 293.84
    },
    {
     "speaker": "Tom",
     "text": "Dann Informatioun an Energie: de Radio, vun deem mir geschwat hunn, an eng Powerbank, fir Ären Handy opzelueden.",
-    "t": 298.63
+    "t": 298.67
    },
    {
     "speaker": "Anna",
     "text": "An eppes, wat een dacks vergësst: Boergeld. Ouni Stroum fonctionnéiert d'Bezuele mat der Kaart vläicht net.",
-    "t": 303.47
+    "t": 303.51
    },
    {
     "speaker": "Tom",
     "text": "Gudde Punkt. A versuergt Kopië vun Äre wichtegen Dokumenter, wéi Ausweiser a Versécherungskontrakter, an enger waasserdichter Täsch.",
-    "t": 310.09
+    "t": 310.13
    },
    {
     "speaker": "Anna",
     "text": "Dat ass eng laang Lëscht. Muss ech muer alles kafen?",
-    "t": 317.23
+    "t": 317.27
    },
    {
     "speaker": "Tom",
     "text": "Nee. Vill dovun hutt Dir wahrscheinlech schonn doheem. D'Checklëscht hëlleft Iech ze gesinn, wat feelt.",
-    "t": 320.9
+    "t": 320.94
    },
    {
     "speaker": "Anna",
     "text": "An de Guide seet: Kontrolléiert Äre Kit op d'mannst zweemol am Joer, zum Beispill d'Verfallsdatumen.",
-    "t": 327.36
+    "t": 327.4
    },
    {
     "speaker": "Tom",
     "text": "Elo de véierten Deel, de perséinlechen Noutfallplang. Wat ass dat?",
-    "t": 332.95
+    "t": 332.99
    },
    {
     "speaker": "Anna",
     "text": "Dat ass e Formulaire, deen Dir zesumme mat de Leit ausfëllt, mat deenen Dir wunnt, an deen Dir mat Famill a Frënn deelt.",
-    "t": 336.58
+    "t": 336.62
    },
    {
     "speaker": "Tom",
     "text": "Wat steet dodran?",
-    "t": 342.64
+    "t": 342.68
    },
    {
     "speaker": "Anna",
     "text": "Wien am Stot lieft, mat Telefonsnummeren, a medezinesch Informatioune wéi Allergien a reegelméisseg Medikamenter.",
-    "t": 343.92
+    "t": 343.96
    },
    {
     "speaker": "Tom",
     "text": "A praktesch Saachen iwwer d'Wunneng. Wou ass den Haaptkrunn fir d'Waasser? Wou ass de Sécherungskaste? Wou ass de Feierläscher? Wéi mécht een d'Garagepaart ouni Stroum op?",
-    "t": 350.5
+    "t": 350.54
    },
    {
     "speaker": "Anna",
     "text": "Ech hu keng Anung, wéi ech meng Garage ouni Stroum opmaachen!",
-    "t": 360.3
+    "t": 360.34
    },
    {
     "speaker": "Tom",
     "text": "Dann ass et gutt, dat elo erauszefannen, an net am Däischteren.",
-    "t": 364.01
+    "t": 364.05
    },
    {
     "speaker": "Anna",
     "text": "De Plang freet och: Wou treffe mir eis, wa mir net heem kënnen an d'Telefonen net ginn? Dir schreift zwou Plazen op, wou Dir Iech trefft.",
-    "t": 367.08
+    "t": 367.12
    },
    {
     "speaker": "Tom",
     "text": "A wien hëlt d'Kanner an der Schoul of, wann d'Eltere net kënnen? Wéi kommen ech ouni Auto an ouni ëffentlechen Transport vun der Aarbecht heem?",
-    "t": 375.22
+    "t": 375.26
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och en Deel iwwer d'Noperschaft. Wie kéint mir hëllefen? A wie kéint meng Hëllef brauchen?",
-    "t": 381.84
+    "t": 381.88
    },
    {
     "speaker": "Tom",
     "text": "Vläicht kennt en Noper sech mat Éischter Hëllef aus. A vläicht lieft eng eeler Nopesch eleng a géif sech freeën, wann een un hir Dier klappt.",
-    "t": 387.08
+    "t": 387.12
    },
    {
     "speaker": "Anna",
     "text": "Dat ass eigentlech ganz Biergerpakt. Wa mir eis Nopere kennen, si mir all méi staark.",
-    "t": 393.29
+    "t": 393.33
    },
    {
     "speaker": "Tom",
     "text": "A versuergt de Plang och op Pabeier, net nëmmen um Handy. En Akku ka eidel ginn.",
-    "t": 398.22
+    "t": 398.26
    },
    {
     "speaker": "Anna",
     "text": "Wou fënnt een dat alles?",
-    "t": 402.97
+    "t": 403
    },
    {
     "speaker": "Tom",
     "text": "Op letzprepare Punkt l-u. Do kënnt Dir de Guide, d'Checklëscht an den Noutfallplang gratis eroflueden.",
-    "t": 405.04
+    "t": 405.07
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt se a fënnef Sproochen: Lëtzebuergesch, Franséisch, Däitsch, Englesch a Portugisesch.",
-    "t": 411.18
+    "t": 411.21
    },
    {
     "speaker": "Tom",
     "text": "A fir Rotschléi zu bestëmmte Situatiounen, wéi enger Stroumpann, engem Héichwaasser oder engem Atomalarm, gëtt et de Site infocrise Punkt l-u.",
-    "t": 417.59
+    "t": 417.62
    },
    {
     "speaker": "Anna",
     "text": "Faasse mir zesummen. Wat sollt ee sech mierken?",
-    "t": 426.58
+    "t": 426.61
    },
    {
     "speaker": "Tom",
     "text": "Éischtens: Lëtz prepare ass d'National Resilienzstrategie vu Lëtzebuerg. Virbereet ze sinn ass eng Aufgab fir de Staat, a fir eis all.",
-    "t": 430.02
+    "t": 430.05
    },
    {
     "speaker": "Anna",
     "text": "Zweetens: All Stot sollt 72 Stonne laang eleng eens gi kënnen.",
-    "t": 438.13
+    "t": 438.16
    },
    {
     "speaker": "Tom",
     "text": "Drëttens: Denkt u Waasser, Liewensmëttel, Luucht, e Radio, Är Medikamenter, e bësse Boergeld a Kopië vun Ären Dokumenter.",
-    "t": 443.33
+    "t": 443.36
    },
    {
     "speaker": "Anna",
     "text": "A véiertens: Fëllt Äre perséinlechen Noutfallplang zesumme mat Ärer Famill aus, a schwätzt mat Ären Noperen.",
-    "t": 450.2
+    "t": 450.23
    },
    {
     "speaker": "Tom",
     "text": "E bësse Virbereedung haut mécht muer e groussen Ënnerscheed.",
-    "t": 457.13
+    "t": 457.16
    },
    {
     "speaker": "Anna",
     "text": "An zesumme si mir méi staark. Dat war eis Episode iwwer Lëtz prepare. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
-    "t": 460.1
+    "t": 460.13
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 505.02
+    "t": 505.05
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 508.33
+    "t": 508.36
    }
   ]
  }
