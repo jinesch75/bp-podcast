@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "Lëtz prepare – Ready for 72 Hours",
+  "description": "Would you be ready if the power went off for three days? Discover Lëtz prepare, Luxembourg's National Resilience Strategy, and the guide to 72 hours of self-sufficiency: warnings, a checklist for your home, and a personal emergency plan.",
+  "topics": [
+   "The National Resilience Strategy",
+   "What resilience means",
+   "The eight pillars",
+   "The campaign \"Bass du prett?\"",
+   "LU-Alert & the warning colours",
+   "The 72-hour checklist",
+   "The personal emergency plan",
+   "Neighbours helping each other"
+  ],
+  "questions": [
+   {
+    "text": "What is Lëtz prepare?",
+    "options": [
+     "A mobile app that sends weather warnings",
+     "Luxembourg's National Resilience Strategy",
+     "A training course for volunteer firefighters",
+     "An insurance against damage after floods"
+    ],
+    "correct": 1,
+    "explanation": "Lëtz prepare is the name of Luxembourg's first National Resilience Strategy, coordinated by the High Commission for National Protection. Its motto is \"Together, for our protection.\""
+   },
+   {
+    "text": "According to the guide, how long should every household be able to manage on its own in a crisis?",
+    "options": [
+     "For the first 12 hours",
+     "For the first 24 hours",
+     "For the first 72 hours",
+     "For the first two weeks"
+    ],
+    "correct": 2,
+    "explanation": "The guide is called \"My guide to 72 hours of self-sufficiency\". 72 hours is three days: in a big crisis, the emergency services may not be able to help everyone immediately."
+   },
+   {
+    "text": "How much drinking water does the guide recommend keeping at home?",
+    "options": [
+     "At least three litres per person, per day",
+     "At least one litre per person, per day",
+     "At least three litres per household, per day",
+     "At least ten litres per person, per week"
+    ],
+    "correct": 0,
+    "explanation": "The guide recommends at least three litres of water per person, per day. For three days, that is nine litres for each person."
+   },
+   {
+    "text": "Why is a radio with batteries, or a wind-up radio, on the checklist?",
+    "options": [
+     "Because it is needed to call 112 in an emergency",
+     "Because warnings on mobile phones are sent only at night",
+     "Because the sirens are switched on by radio signal",
+     "Because it still works when the power and the internet are off"
+    ],
+    "correct": 3,
+    "explanation": "During a power cut, the internet and other services may stop working. A radio with batteries, a wind-up radio or a car radio still lets you follow official information."
+   },
+   {
+    "text": "Which of these belongs in the personal emergency plan?",
+    "options": [
+     "The secret codes of your bank cards",
+     "Two meeting places if you cannot go home",
+     "Your shopping list for the next week",
+     "The dates of your next holidays"
+    ],
+    "correct": 1,
+    "explanation": "The personal emergency plan lists, among other things, the people in the household, medical information, where the water valve and circuit breaker are, people in the neighbourhood, important numbers, and two meeting places."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Lëtz prepare – Prêts pour 72 heures",
+  "description": "Seriez-vous prêt si le courant était coupé pendant trois jours ? Découvrez Lëtz prepare, la Stratégie nationale de résilience du Luxembourg, et le guide 72 heures d'autonomie : les alertes, une checklist pour la maison et un plan personnel d'urgence.",
+  "topics": [
+   "La Stratégie nationale de résilience",
+   "Ce que veut dire résilience",
+   "Les huit piliers",
+   "La campagne « Bass du prett ? »",
+   "LU-Alert et les couleurs d'alerte",
+   "La checklist pour 72 heures",
+   "Le plan personnel d'urgence",
+   "L'entraide entre voisins"
+  ],
+  "questions": [
+   {
+    "text": "Qu'est-ce que Lëtz prepare ?",
+    "options": [
+     "Une application mobile qui envoie des alertes météo",
+     "La Stratégie nationale de résilience du Luxembourg",
+     "Une formation pour les pompiers volontaires",
+     "Une assurance contre les dégâts après une inondation"
+    ],
+    "correct": 1,
+    "explanation": "Lëtz prepare est le nom de la première Stratégie nationale de résilience du Luxembourg, coordonnée par le Haut-Commissariat à la Protection nationale. Sa devise : « Ensemble, pour nous protéger. »"
+   },
+   {
+    "text": "D'après le guide, combien de temps chaque ménage devrait-il pouvoir se débrouiller seul en cas de crise ?",
+    "options": [
+     "Pendant les 12 premières heures",
+     "Pendant les 24 premières heures",
+     "Pendant les 72 premières heures",
+     "Pendant les deux premières semaines"
+    ],
+    "correct": 2,
+    "explanation": "Le guide s'appelle « Mon guide 72h d'autonomie ». 72 heures, c'est trois jours : dans une grande crise, les secours ne pourront peut-être pas aider tout le monde immédiatement."
+   },
+   {
+    "text": "Quelle quantité d'eau potable le guide recommande-t-il de garder à la maison ?",
+    "options": [
+     "Au moins trois litres par personne et par jour",
+     "Au moins un litre par personne et par jour",
+     "Au moins trois litres par ménage et par jour",
+     "Au moins dix litres par personne et par semaine"
+    ],
+    "correct": 0,
+    "explanation": "Le guide recommande au moins trois litres d'eau par personne et par jour. Pour trois jours, cela fait neuf litres par personne."
+   },
+   {
+    "text": "Pourquoi une radio à piles, ou à manivelle, figure-t-elle sur la checklist ?",
+    "options": [
+     "Parce qu'il en faut une pour appeler le 112 en cas d'urgence",
+     "Parce que les alertes sur téléphone sont envoyées seulement la nuit",
+     "Parce que les sirènes sont déclenchées par un signal radio",
+     "Parce qu'elle fonctionne encore sans courant et sans internet"
+    ],
+    "correct": 3,
+    "explanation": "Pendant une panne de courant, internet et d'autres services peuvent s'arrêter. Une radio à piles, à manivelle ou l'autoradio permet de suivre les informations officielles."
+   },
+   {
+    "text": "Qu'est-ce qui a sa place dans le plan personnel d'urgence ?",
+    "options": [
+     "Les codes secrets de vos cartes bancaires",
+     "Deux lieux de rencontre si vous ne pouvez pas rentrer",
+     "Votre liste de courses pour la semaine prochaine",
+     "Les dates de vos prochaines vacances"
+    ],
+    "correct": 1,
+    "explanation": "Le plan personnel d'urgence indique entre autres les personnes du ménage, des informations médicales, où se trouvent la vanne d'eau et le disjoncteur, des personnes du voisinage, les numéros importants et deux lieux de rencontre."
+   }
+  ]
+ },
+ "de": {
+  "title": "Lëtz prepare – Bereit für 72 Stunden",
+  "description": "Wären Sie vorbereitet, wenn der Strom drei Tage lang ausfällt? Entdecken Sie Lëtz prepare, die Nationale Resilienzstrategie Luxemburgs, und den Leitfaden für 72 Stunden Autonomie: Warnungen, eine Checkliste für zu Hause und ein persönlicher Notfallplan.",
+  "topics": [
+   "Die Nationale Resilienzstrategie",
+   "Was Resilienz bedeutet",
+   "Die acht Säulen",
+   "Die Kampagne „Bass du prett?\"",
+   "LU-Alert & die Warnfarben",
+   "Die Checkliste für 72 Stunden",
+   "Der persönliche Notfallplan",
+   "Nachbarn helfen einander"
+  ],
+  "questions": [
+   {
+    "text": "Was ist Lëtz prepare?",
+    "options": [
+     "Eine Handy-App, die Wetterwarnungen verschickt",
+     "Die Nationale Resilienzstrategie Luxemburgs",
+     "Ein Lehrgang für freiwillige Feuerwehrleute",
+     "Eine Versicherung gegen Schäden nach Hochwasser"
+    ],
+    "correct": 1,
+    "explanation": "Lëtz prepare ist der Name der ersten Nationalen Resilienzstrategie Luxemburgs, koordiniert vom Hochkommissariat für nationalen Schutz. Ihr Motto: „Gemeinsam, um uns zu schützen.\""
+   },
+   {
+    "text": "Wie lange sollte laut Leitfaden jeder Haushalt in einer Krise allein zurechtkommen können?",
+    "options": [
+     "In den ersten 12 Stunden",
+     "In den ersten 24 Stunden",
+     "In den ersten 72 Stunden",
+     "In den ersten zwei Wochen"
+    ],
+    "correct": 2,
+    "explanation": "Der Leitfaden heißt „Mein Leitfaden für 72 Stunden Autonomie\". 72 Stunden sind drei Tage: In einer großen Krise können die Rettungsdienste vielleicht nicht allen sofort helfen."
+   },
+   {
+    "text": "Wie viel Trinkwasser sollte man laut Leitfaden zu Hause haben?",
+    "options": [
+     "Mindestens drei Liter pro Person und Tag",
+     "Mindestens einen Liter pro Person und Tag",
+     "Mindestens drei Liter pro Haushalt und Tag",
+     "Mindestens zehn Liter pro Person und Woche"
+    ],
+    "correct": 0,
+    "explanation": "Der Leitfaden empfiehlt mindestens drei Liter Wasser pro Person und Tag. Für drei Tage sind das neun Liter pro Person."
+   },
+   {
+    "text": "Warum steht ein Radio mit Batterien, oder ein Kurbelradio, auf der Checkliste?",
+    "options": [
+     "Weil man es braucht, um im Notfall die 112 anzurufen",
+     "Weil Warnungen auf dem Handy nur nachts verschickt werden",
+     "Weil die Sirenen durch ein Funksignal ausgelöst werden",
+     "Weil es auch ohne Strom und ohne Internet funktioniert"
+    ],
+    "correct": 3,
+    "explanation": "Bei einem Stromausfall können das Internet und andere Dienste ausfallen. Mit einem Batterie-, Kurbel- oder Autoradio kann man die offiziellen Informationen weiter verfolgen."
+   },
+   {
+    "text": "Was gehört in den persönlichen Notfallplan?",
+    "options": [
+     "Die Geheimzahlen Ihrer Bankkarten",
+     "Zwei Treffpunkte, falls Sie nicht nach Hause können",
+     "Ihre Einkaufsliste für die nächste Woche",
+     "Die Daten Ihres nächsten Urlaubs"
+    ],
+    "correct": 1,
+    "explanation": "Im persönlichen Notfallplan stehen unter anderem die Personen im Haushalt, medizinische Informationen, wo Wasserhaupthahn und Sicherungskasten sind, Personen aus der Nachbarschaft, wichtige Nummern und zwei Treffpunkte."
+   }
+  ]
+ }
+}

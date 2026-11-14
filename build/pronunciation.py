@@ -39,13 +39,24 @@ NAMES = {
            (r"(?i)\bPensiounskeess\b", "Pen-see-ouns-kayss"),                # EN 2B
            (r"\bËmweltberodung\b", "Um-velt-beh-roh-doong"),                 # EBL ep (2026-11-10), check by ear
            (r"(?i)\blycées?\b", "leessay"),                                  # Jacques's A/B choice C (2026-11-12)
-           (r"\baccessibilite\b", "accessibilité")],                         # website said the French way, A/B choice A (2026-11-13)
+           (r"\baccessibilite\b", "accessibilité"),
+           (r"(?i)\bl[ëe]tz ?prepare\b", "Let's prepare"),                  # Lëtz prepare ep (2026-11-14), check by ear
+           (r"\bLëtz\b", "Lets"),
+           (r"\bBass du prett\b", "Bass doo prett"),
+           (r"\binfocrise\b", "info-creeze"),
+           (r"\b113\b", "one one three")],                         # website said the French way, A/B choice A (2026-11-13)
     "fr": [(r"\bÄddi\b", "Addi"),                                             # no "Ä" in French
            (r"(?i)\bZukunftskeess\b", "Tsoukounftskéss"),                     # FR 1B
            (r"(?i)\bPensiounskeess\b", "Pènnsiounskéss"),                     # FR 2B
            (r"(?i)\bEltereforum\b", "Eltèreu-forum"),                         # FR 3B
            (r"\bZesumme\b", "Tsézoumeu"), (r"\bVereinfachen\b", "Fèraïnnfarènn"),  # FR 5B
-           (r"\bËmweltberodung\b", "Eumvèlt-bérodoung")],                    # EBL ep (2026-11-10), check by ear
+           (r"\bËmweltberodung\b", "Eumvèlt-bérodoung"),                     # EBL ep (2026-11-10), check by ear
+           (r"(?i)\bl[ëe]tz ?prepare\b", "Lets pri-pair"),                   # Lëtz prepare ep (2026-11-14), check by ear
+           (r"\bLëtz\b", "Lets"),
+           (r"\bBass du prett\b", "Bass dou prèt")],
+    "de": [(r"(?i)\bl[ëe]tz ?prepare\b", "Lets pripär"),                    # Lëtz prepare ep (2026-11-14), check by ear
+           (r"\bLëtz\b", "Lets"),
+           (r"\binfocrise\b", "Info-Kriis")],
 }
 # Phone numbers written as plain numbers in the scripts -> read digit by digit.
 PHONE_NUMBERS = ["8002", "8181", "261210", "247-86000", "26 432 432"]  # 26 432 432: ala Alzheimer help line (fact-check 2026-11-09)

@@ -41,13 +41,13 @@ File names never change, so browsers may keep playing/using an old cached copy a
 - EN `.md` scripts of ALL other episodes got the new intro/outro applied (scripts + Word doc only — their audio/segments/translations are NOT yet updated; do this per-episode later like eps 1–5).
 - **Review pages**: `node build/make_review.js key1,key2` generates fully isolated per-episode pages under `review/<key>-<token>/` (one-episode `episodes_data.js` slice; app.js/svg/audio referenced from root via `../../`; tokens persist in `build/review_tokens.json`). Live at `https://bp-podcast-production.up.railway.app/review/<slug>/` after push.
 
-## Episodes (42 so far)
+## Episodes (43 so far)
 
 (Clarvia (ex-42) was removed from the site on 30 Sept 2026 at Jacques's request; its scripts and build files are kept in `archive/clarvia/` — the audio there is git-ignored.)
 
 (+ 40:lll — lifelong-learning.lu, a longer ~10-min episode, tagged `work`. + 41:cnap — Pensiounskeess/CNAP pension system, ~16-min, tagged `seniors,social,crossborder`, native EN/FR/DE audio + LB read-along.)
 
-id:key (order changed Sept 2026, `build/reorder_episodes.js`) — 1:myguichet, 2:luxtrust, 3:benevolat, 4:eltereforum, 5:digitalinclusion, 6:workinluxembourg, 7:dsp_cns, 8:lualert, 9:maison_orientation, 10:infosenior, 11:accessibilite, 12:granderegion, 13:adem, 14:zukunftskeess, 15:fns, 16:onis, 17:habitat, 18:klima, 19:snj, 20:enfance, 21:cepas, 22:fondseuropeens, 23:zesumme, 24:cgdis, 25:statec, 26:environnement, 27:syvicol, 28:research, 29:agriculture, 30:amenagement, 31:aaa, 32:geoportail, 33:govcert, 34:culture, 35:demenz, 36:ess, 37:luxinnovation, 38:logement, 39:space, 40:lll, 41:cnap, 42:ebl.
+id:key (order changed Sept 2026, `build/reorder_episodes.js`) — 1:myguichet, 2:luxtrust, 3:benevolat, 4:eltereforum, 5:digitalinclusion, 6:workinluxembourg, 7:dsp_cns, 8:lualert, 9:maison_orientation, 10:infosenior, 11:accessibilite, 12:granderegion, 13:adem, 14:zukunftskeess, 15:fns, 16:onis, 17:habitat, 18:klima, 19:snj, 20:enfance, 21:cepas, 22:fondseuropeens, 23:zesumme, 24:cgdis, 25:statec, 26:environnement, 27:syvicol, 28:research, 29:agriculture, 30:amenagement, 31:aaa, 32:geoportail, 33:govcert, 34:culture, 35:demenz, 36:ess, 37:luxinnovation, 38:logement, 39:space, 40:lll, 41:cnap, 42:ebl, 43:letzprepare.
 
 Batch tip: episodes 19-23 were built five at a time. `build/tts_batch.py` now also generates English (pass langs as 4th arg, e.g. `python3 build/tts_batch.py 40 snj,enfance,cepas en,fr,de`). Content for a batch: one `new_content_en.json` (with a `categories` field per episode) + two subagents → `tr_new_fr.json`/`tr_new_de.json`, then `build/inject_5.js`.
 
@@ -341,3 +341,12 @@ Jacques: use the ministry's official name, not "the Ministry of Family". Fixed i
 - Website said the French way in English: Jacques's A/B choice A → EN rule `accessibilite` → "accessibilité" in `pronunciation.py` (A/B file `build/el_test/pron_accessibilite_en_AB.mp3`, made with the new generic `build/pron_ab.py`). `match_pron.py` now also handles it.
 - "agrément" (Info-Seniors EN): A/B tested, Jacques: leave as is.
 - Voice QC (EN): 6 odd-sounding sentences retaken with `best_take.py`. ≈ 3,500 credits in total. New durations: EN 13:12, FR 13:20, DE 15:21.
+
+## Episode 43 — Lëtz prepare / 72-hour guide (14 Nov 2026)
+
+New episode on letzprepare.public.lu (Jacques: "create an episode about letzprepare", guide page). Sources: home page + FAQ (National Resilience Strategy, launched 2025, HCPN, eight pillars, slogan), news of 09.10.2026 (guide + campaign "Bass du prett?"), and the three October 2026 PDFs (guide, 72-hour checklist, personal emergency plan; EN and DE read, FR titles from fr/guide.html — the FR guide PDF could not be fetched).
+- Scripts `podcast_script_letzprepare{,_fr,_de,_lb}.md` — 77 turns each, standard intro/outro, no hesitations/"..." pauses. Only durable figures: 72 hours, at least 3 litres of water per person per day, kit check twice a year, 112/113. LB titles and motto are free translations (the official LB guide was not read) — check against the LB version before LB goes live.
+- Content in `build/letzprepare_content.json` (wrong answers matched in length; no quiz_distractors file). Categories: safety + civic.
+- `pronunciation.py` (all NOT A/B tested — check by ear): "Lëtz prepare"/"letzprepare" → EN "Let's prepare", FR "Lets pri-pair", DE "Lets pripär"; "Bass du prett" → EN "Bass doo prett", FR "Bass dou prèt"; "infocrise" → EN "info-creeze", DE "Info-Kriis"; EN "113" → "one one three" (scripts write 1-1-3 in EN/DE/LB, 113 in FR).
+- Recorded: `EL_STATE=/tmp/el_state_letz.json python3 build/el_run_batch.py letzprepare en,fr,de` (≈ 24,000 credits; listening check re-generated 3 FR and 1 DE sentence, nothing left to check by ear). `voice_qc.py` was NOT run (librosa missing on the VM).
+- `node build/inject_letzprepare.js` → `replace_audio_elevenlabs.js letzprepare en,fr,de` → `balance_quiz_answers.js --write` → `bump_version.js` → `make_review.js letzprepare` → review/letzprepare-7e85b794e5/. Durations: EN 8:30, FR 8:24, DE 9:25. Backup: `episodes_data.pre_letzprepare.js`.
