@@ -352,3 +352,7 @@ New episode on letzprepare.public.lu (Jacques: "create an episode about letzprep
 - `node build/inject_letzprepare.js` → `replace_audio_elevenlabs.js letzprepare en,fr,de` → `balance_quiz_answers.js --write` → `bump_version.js` → `make_review.js letzprepare` → review/letzprepare-7e85b794e5/. Durations: EN 8:30, FR 8:24, DE 9:25. Backup: `episodes_data.pre_letzprepare.js`.
 
 - 15 Nov 2026: Jacques heard Anna's "Or a wind-up radio." (EN, sentence 61) sounding off; `voice_qc.py` (librosa reinstalled) flagged it too (pitch). Retaken with `best_take.py letzprepare en 61` (≈ 60 credits), rebuilt, put live. EN now 8:30 (509.96 s). QC also flagged EN #2 "Hello everyone!" (loud), #6 "Anna, a question to start." and #27 "Who is behind the strategy?" (pitch) — not retaken.
+
+## Video page — Lëtz prepare (15 Nov 2026)
+
+Jacques asked for the English episode as a motion graphics video and a separate page to share it. `video/letzprepare/` holds `index.html` (standalone page, noindex, not linked from the site), `letzprepare_en.mp4` (1080p, 8:30, 27 MB, captions burnt in, built in the cloud session with a Python/Skia renderer from the episode segments — render scripts saved in `build/video/`: engine.py, scenes_letzprepare_en.py (imported as `scenes`), render.py; they need skia-python, the Font Awesome free solid font, and segs.json + audio.pcm extracted from the episode) and `poster.jpg`. Live at https://bp-podcast-production.up.railway.app/video/letzprepare/ after push. If the English audio is re-recorded, the video must be re-rendered.
