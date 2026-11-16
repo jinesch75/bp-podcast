@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """A/B listening file for one French word in the English voices (Jacques picks by ear).
 python3 build/pron_ab.py <name> "<French reference sentence>" "<English carrier with {x}>" opt1 opt2 ...
--> build/el_test/pron_<name>_en_AB.mp3 : French reference (Lucie), then each option by Anna, then Tom; timestamps printed."""
+-> build/el_test/pron_<name>_en_AB.mp3 : reference in REF_LANG (default fr), then each option by Anna, then Tom; timestamps printed."""
 import hashlib, importlib.util, json, os, subprocess, sys
 spec = importlib.util.spec_from_file_location("el", "build/tts_elevenlabs.py"); el = importlib.util.module_from_spec(spec); spec.loader.exec_module(el)
 name, fr_ref, carrier, opts = sys.argv[1], sys.argv[2], sys.argv[3], sys.argv[4:]
@@ -14,7 +14,8 @@ def clip(role, lang, text):
     if not os.path.exists(p): open(p, "wb").write(el.request("POST", f"/text-to-speech/{vid}", key, body, query="?output_format=mp3_44100_128"))
     return p
 def dur(p): return float(subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",p],capture_output=True,text=True).stdout)
-parts = [("French reference (Lucie)", clip("Anna", "fr", fr_ref))]
+REF = os.environ.get("REF_LANG", "fr")
+parts = [(f"{REF.upper()} reference (Anna's {REF} voice)", clip("Anna", REF, fr_ref))]
 for i, o in enumerate(opts):
     parts += [(f"{chr(65+i)} Anna: {o}", clip("Anna", "en", carrier.format(x=o))), (f"{chr(65+i)} Tom: {o}", clip("Tom", "en", carrier.format(x=o)))]
 t = 0.0; inputs = []; lines = []

@@ -363,3 +363,11 @@ Jacques asked for the English episode as a motion graphics video and a separate 
 - EN "In German, the Haus der Großregion." took a French accent from the French name before it → "And in German, it's the Haus der Großregion."; take chosen with the new `build/pick_word_take.py` (whisper word confidence for "German": 0.37 before, 0.94 now; seed 1262 kept because 1263 said "Großrégion").
 - Tom's short "And where is it?" (wrong pitch) → "And where can you find it?" (DE "Und wo findet man es?", LB "A wou fënnt een et?"; FR already a full question). `build/apply_voicefix_granderegion_2026_11.py`.
 - Voice QC EN: 6 more short lines retaken (incl. Tom's "And third?"). ≈ 1,300 credits. EN 13:45, FR 12:39, DE 15:21.
+
+## Zukunftskeess voice fixes (16 Nov 2026)
+
+- `cae.lu` always spelled out: new rule `cae` → "C-A-E" in `pronunciation.py` (all languages) → "C-A-E dot L-U / point L-U / Punkt L-U".
+- EN Zukunftskeess → "Tsoo-koonfts-kehs" (Jacques's A/B choice C, closest to the German voice; was "Tsoo-koonfts-kayss"). EN "allocation de rentrée scolaire" → "allo-cah-syon de ron-tray sko-lair" (choice B). A/B files `build/el_test/pron_zukunftskeess_en_AB.mp3`, `pron_rentree_en_AB.mp3` (`pron_ab.py` now takes `REF_LANG=de|fr`).
+- Tom's "Anna, tell us its name." dropped the name → "Tell us its name, Anna." (EN), take picked with `pick_word_take.py` (p(Anna) 0.48 → 0.90). `build/apply_voicefix_zukunftskeess_2026_11.py`.
+- "Luxembourg" said the French way: new `build/lux_en_vs_fr.py` compares each "Luxembourg" with an English and a French-style reference by the same voice (whisper confidence can't tell, same spelling). None came out closer to French after the re-recording; the 3 least English ones were retaken (`THRESH=-1.0 … --fix`). `pick_word_take.py` now has `"*"` + `MIN_P` to scan all sentences with a word; `match_pron.py` has `ONLY`, `SCORE_ONLY`, `MAX_D`.
+- Pitch of "No. You apply once…" (Anna, f0 225 vs her median 196) + 8 other odd short lines retaken with `best_take.py`. ≈ 6,500 credits in total. EN 14:55, FR 13:37, DE 16:09.

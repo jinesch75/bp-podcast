@@ -14,7 +14,12 @@ START = int(sys.argv[3]) if len(sys.argv) > 3 else 0   # resume from this senten
 # name -> (pattern in the script, carrier sentence of the approved reference, words to locate)
 TERMS = {"en": [("maison de l'orientation", r"(?i)maison de l.orientation", "It's called the Maison de l'Orientation, in Luxembourg City."),
                 ("lycée", r"(?i)\blycées?\b", "You can ask how to get back into a leessay."),
-                ("accessibilité", r"\baccessibilite\b", "Remember the website: accessibilité dot L-U.")]}[lang]
+                ("accessibilité", r"\baccessibilite\b", "Remember the website: accessibilité dot L-U."),
+                ("luxembourg", r"\bLuxembourg\b(?! City)", "I live and work in Luxembourg, a small country in Europe.")]}[lang]
+# ONLY=<term> restricts to one term; SCORE_ONLY=1 just prints the current takes' distances; MAX_D=<x> retakes only
+# sentences whose current distance is above x (e.g. the few "Luxembourg" said the French way)
+ONLY = os.environ.get("ONLY"); SCORE_ONLY = os.environ.get("SCORE_ONLY") == "1"; MAX_D = float(os.environ.get("MAX_D", "0"))
+if ONLY: TERMS = [t for t in TERMS if t[0] == ONLY]
 el.load_env(); api = os.environ["ELEVENLABS_API_KEY"].strip()
 voices = json.loads(el.request("GET", "/voices", api))["voices"]
 vids = {r: el.resolve_voice(r, lang, voices)[0] for r in ("Anna", "Tom")}
@@ -70,6 +75,13 @@ for i, s in enumerate(segs):
     base = hashlib.sha1(json.dumps([vids[s["speaker"]], body], sort_keys=True).encode()).hexdigest()[:20] + ".mp3"
     if not os.path.exists(os.path.join(el.CACHE, base)): continue      # not recorded yet: run el_run_batch first
     cur = reseed.get(base, base)
+    if SCORE_ONLY or MAX_D:
+        pc = os.path.join(el.CACHE, cur); ds = []
+        for name, _ in terms:
+            sp = locate(pc, name); ds.append(dtw(mfcc(pc, sp), ref[(name, s["speaker"])]) if sp else 9)
+        d0 = float(np.mean(ds))
+        if SCORE_ONLY or d0 <= MAX_D:
+            print(f"#{i} {s['speaker']}: current {d0:.2f}  {s['text'][:70]!r}", flush=True); continue
     cands = list(dict.fromkeys([cur] + [tts(s["speaker"], dict(body, seed=sd)) for sd in (1251, 1252, 1253)]))
     scored = []
     for c in cands:

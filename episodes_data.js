@@ -40711,7 +40711,7 @@ const EPISODES = [
   "title": "The Zukunftskeess – Money and Support for Your Children",
   "description": "The Caisse pour l’avenir des enfants (Children’s Future Fund, cae.lu) is the State fund for family benefits in Luxembourg: the birth allowance (paid in three parts linked to health check-ups), the monthly family allowance that grows at ages 6 and 12 and can last to 25 for pupils still in secondary school, and the automatic back-to-school allowance – plus parental-leave income, childcare vouchers and extra help for children with a disability. Applications go through MyGuichet.lu.",
   "audio": "podcast_zukunftskeess.mp3",
-  "duration": 893.94,
+  "duration": 894.64,
   "topics": [
    "The Zukunftskeess (CAE)",
    "Birth allowance in 3 parts",
@@ -40756,1077 +40756,1077 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "And today's topic is one that brings a lot of joy, and also a lot of questions.",
-    "t": 26.9
+    "t": 28.17
    },
    {
     "speaker": "Anna",
     "text": "It's about children — and the money and support the State gives to families.",
-    "t": 31.72
+    "t": 32.99
    },
    {
     "speaker": "Tom",
     "text": "And there's one office at the centre of all this.",
-    "t": 36.49
+    "t": 37.76
    },
    {
     "speaker": "Tom",
-    "text": "Anna, tell us its name.",
-    "t": 39.46
+    "text": "Tell us its name, Anna.",
+    "t": 40.54
    },
    {
     "speaker": "Anna",
     "text": "It's called the Zukunftskeess.",
-    "t": 40.74
+    "t": 42.01
    },
    {
     "speaker": "Anna",
     "text": "In English we can say the Children's Future Fund.",
-    "t": 43.05
+    "t": 44.27
    },
    {
     "speaker": "Anna",
     "text": "In French it's the Caisse pour l'avenir des enfants.",
-    "t": 46.01
+    "t": 47.07
    },
    {
     "speaker": "Anna",
     "text": "People also use the short name — C-A-E.",
-    "t": 49.24
+    "t": 50.3
    },
    {
     "speaker": "Tom",
     "text": "Zukunftskeess. That's a lovely name — the \"future fund\".",
-    "t": 52.52
+    "t": 53.58
    },
    {
     "speaker": "Tom",
     "text": "Let's start simply.",
-    "t": 56.31
+    "t": 57.64
    },
    {
     "speaker": "Tom",
     "text": "What is it?",
-    "t": 57.5
+    "t": 58.88
    },
    {
     "speaker": "Anna",
     "text": "The Zukunftskeess is the official State fund that pays family benefits in Luxembourg.",
-    "t": 58.44
+    "t": 59.82
    },
    {
     "speaker": "Anna",
     "text": "So, the money for raising children.",
-    "t": 63.9
+    "t": 65.4
    },
    {
     "speaker": "Anna",
     "text": "Its home on the internet is c-a-e dot l-u.",
-    "t": 65.96
+    "t": 67.46
    },
    {
     "speaker": "Tom",
     "text": "cae.lu. And it's official — it's the State.",
-    "t": 69.52
+    "t": 71.02
    },
    {
     "speaker": "Anna",
     "text": "Completely official. It's part of the social security system.",
-    "t": 73.12
+    "t": 74.44
    },
    {
     "speaker": "Anna",
     "text": "Not a private company.",
-    "t": 76.99
+    "t": 78.31
    },
    {
     "speaker": "Anna",
     "text": "And it handles all the main benefits connected to having and raising children.",
-    "t": 78.77
+    "t": 80.09
    },
    {
     "speaker": "Tom",
     "text": "Okay. So if I have a baby, or I have children already, this is the office that helps me.",
-    "t": 82.95
+    "t": 84.27
    },
    {
     "speaker": "Anna",
     "text": "Exactly. Let me give you the big picture first.",
-    "t": 88.39
+    "t": 89.71
    },
    {
     "speaker": "Anna",
     "text": "There are really three main money benefits.",
-    "t": 91.42
+    "t": 92.74
    },
    {
     "speaker": "Anna",
     "text": "The birth allowance, around the time the baby is born.",
-    "t": 93.99
+    "t": 95.31
    },
    {
     "speaker": "Anna",
     "text": "The family allowance, every month as the child grows.",
-    "t": 97.05
+    "t": 98.37
    },
    {
     "speaker": "Anna",
     "text": "And the back-to-school allowance, once a year for school.",
-    "t": 100.91
+    "t": 102.23
    },
    {
     "speaker": "Tom",
     "text": "Birth, monthly, and back-to-school.",
-    "t": 104.21
+    "t": 105.53
    },
    {
     "speaker": "Tom",
     "text": "Let's take them one at a time.",
-    "t": 106.73
+    "t": 108.05
    },
    {
     "speaker": "Tom",
     "text": "Start with the birth.",
-    "t": 108.2
+    "t": 109.52
    },
    {
     "speaker": "Anna",
     "text": "So, the birth allowance — in French, the prime de naissance.",
-    "t": 109.61
+    "t": 110.93
    },
    {
     "speaker": "Anna",
     "text": "It's a flat amount paid around the birth of a child.",
-    "t": 113.84
+    "t": 115.16
    },
    {
     "speaker": "Anna",
     "text": "The total is more than one thousand seven hundred euros — and from 2027, it rises with the cost of living.",
-    "t": 116.82
+    "t": 118.14
    },
    {
     "speaker": "Tom",
     "text": "That's a real help, right when a family needs it.",
-    "t": 124.8
+    "t": 126.12
    },
    {
     "speaker": "Tom",
     "text": "And is it paid all at once?",
-    "t": 127.25
+    "t": 128.57
    },
    {
     "speaker": "Anna",
     "text": "No — and this is the clever part.",
-    "t": 129.13
+    "t": 130.45
    },
    {
     "speaker": "Anna",
     "text": "It comes in three equal parts, of nearly six hundred euros each.",
-    "t": 131.58
+    "t": 132.73
    },
    {
     "speaker": "Anna",
     "text": "And each part is linked to taking care of mother and baby.",
-    "t": 135.91
+    "t": 137.06
    },
    {
     "speaker": "Tom",
     "text": "Tell me about the three parts.",
-    "t": 139.47
+    "t": 140.62
    },
    {
     "speaker": "Anna",
     "text": "The first is the prenatal allowance — before the birth.",
-    "t": 141.21
+    "t": 142.36
    },
    {
     "speaker": "Anna",
     "text": "To get it, the expectant mother goes to her medical check-ups during pregnancy — examinations with the doctor, and also a dental check.",
-    "t": 144.94
+    "t": 146.09
    },
    {
     "speaker": "Tom",
     "text": "So the first part rewards looking after yourself, and the baby, during pregnancy.",
-    "t": 154.86
+    "t": 156.01
    },
    {
     "speaker": "Anna",
     "text": "Exactly. The second part is the birth allowance itself — paid after the birth, with a check-up for the mother.",
-    "t": 159.27
+    "t": 160.42
    },
    {
     "speaker": "Anna",
     "text": "And the third part is the postnatal allowance — paid after the child's medical check-ups in the first two years of life.",
-    "t": 165.91
+    "t": 167.06
    },
    {
     "speaker": "Tom",
     "text": "Ah, I see the idea.",
-    "t": 173.43
+    "t": 174.58
    },
    {
     "speaker": "Tom",
     "text": "The money is tied to health checks — for mum and for baby.",
-    "t": 175.06
+    "t": 176.21
    },
    {
     "speaker": "Anna",
     "text": "That's the whole philosophy.",
-    "t": 178.36
+    "t": 179.51
    },
    {
     "speaker": "Anna",
     "text": "It's not only money — it's a gentle way to make sure mother and child see the doctor at the right times.",
-    "t": 180.18
+    "t": 181.33
    },
    {
     "speaker": "Anna",
     "text": "And here's a nice detail — the three parts are independent.",
-    "t": 186.22
+    "t": 187.37
    },
    {
     "speaker": "Anna",
     "text": "If you miss the conditions for one part, you can still receive the others.",
-    "t": 189.87
+    "t": 191.02
    },
    {
     "speaker": "Tom",
     "text": "Good to know.",
-    "t": 194.13
+    "t": 195.28
    },
    {
     "speaker": "Tom",
     "text": "And how long do you have to apply?",
-    "t": 194.96
+    "t": 196.16
    },
    {
     "speaker": "Anna",
     "text": "Generally within one year — for the first two parts, within a year of the birth.",
-    "t": 196.78
+    "t": 197.98
    },
    {
     "speaker": "Anna",
     "text": "And for the postnatal part, within a year of the child's second birthday.",
-    "t": 201.67
+    "t": 202.87
    },
    {
     "speaker": "Anna",
     "text": "The forms come from your doctor, the maternity hospital, or the commune — and you send them to the Zukunftskeess.",
-    "t": 205.95
+    "t": 207.15
    },
    {
     "speaker": "Tom",
     "text": "Perfect. Okay — that's the birth.",
-    "t": 214.36
+    "t": 215.37
    },
    {
     "speaker": "Tom",
     "text": "Now the big one, I think.",
-    "t": 216.24
+    "t": 217.25
    },
    {
     "speaker": "Tom",
     "text": "The monthly family allowance.",
-    "t": 217.95
+    "t": 218.96
    },
    {
     "speaker": "Anna",
     "text": "Yes. This is the one most people know.",
-    "t": 219.83
+    "t": 220.84
    },
    {
     "speaker": "Anna",
     "text": "In Luxembourgish people often just say \"Kannergeld\" — children's money.",
-    "t": 222.47
+    "t": 223.48
    },
    {
     "speaker": "Anna",
     "text": "It's paid every single month, for each child.",
-    "t": 227.1
+    "t": 228.11
    },
    {
     "speaker": "Tom",
     "text": "From when to when?",
-    "t": 229.88
+    "t": 230.89
    },
    {
     "speaker": "Anna",
     "text": "From the month the child is born, until they turn eighteen.",
-    "t": 231.25
+    "t": 232.26
    },
    {
     "speaker": "Anna",
     "text": "And — this is important — it can continue up to the age of twenty-five if the young person is still in secondary school, or doing an apprenticeship.",
-    "t": 234.83
+    "t": 235.84
    },
    {
     "speaker": "Tom",
     "text": "So as long as the child is still at school, the support keeps going.",
-    "t": 244.21
+    "t": 245.22
    },
    {
     "speaker": "Tom",
     "text": "And how much is it?",
-    "t": 247.85
+    "t": 248.86
    },
    {
     "speaker": "Anna",
     "text": "It's set per child, per month.",
-    "t": 249.11
+    "t": 250.04
    },
    {
     "speaker": "Anna",
     "text": "And there's good news: a new law raises it from January 2027.",
-    "t": 251.15
+    "t": 252.08
    },
    {
     "speaker": "Anna",
     "text": "From then on, it's more than three hundred and fifty euros per child each month.",
-    "t": 256.51
+    "t": 257.44
    },
    {
     "speaker": "Anna",
     "text": "And here's a key point — it grows as the child gets older.",
-    "t": 260.95
+    "t": 261.88
    },
    {
     "speaker": "Tom",
     "text": "It grows? How does that work?",
-    "t": 265.14
+    "t": 266.07
    },
    {
     "speaker": "Anna",
     "text": "There are two steps up.",
-    "t": 266.72
+    "t": 267.65
    },
    {
     "speaker": "Anna",
     "text": "The amount increases when the child turns six.",
-    "t": 268.21
+    "t": 269.14
    },
    {
     "speaker": "Anna",
     "text": "And it increases again when the child turns twelve.",
-    "t": 271.38
+    "t": 272.31
    },
    {
     "speaker": "Anna",
     "text": "The idea is simple — older children cost more.",
-    "t": 274.53
+    "t": 275.46
    },
    {
     "speaker": "Tom",
     "text": "That makes sense — teenagers are expensive!",
-    "t": 278.34
+    "t": 279.27
    },
    {
     "speaker": "Tom",
     "text": "So a young child gets the base amount, a child over six gets a bit more, and a child over twelve gets more again.",
-    "t": 280.94
+    "t": 281.87
    },
    {
     "speaker": "Anna",
     "text": "Exactly. Now — one thing I should be honest about.",
-    "t": 287.19
+    "t": 288.12
    },
    {
     "speaker": "Anna",
     "text": "These amounts are tied to the cost of living.",
-    "t": 290.86
+    "t": 291.79
    },
    {
     "speaker": "Anna",
     "text": "They go up over time, with what's called the index.",
-    "t": 293.21
+    "t": 294.14
    },
    {
     "speaker": "Anna",
     "text": "And from 2027, the same goes for the birth allowance, the back-to-school allowance, and the extra allowance for children with a disability.",
-    "t": 296.68
+    "t": 297.61
    },
    {
     "speaker": "Anna",
     "text": "So for the exact figure today, you check the official page — it's the \"social parameters\" page on guichet dot l-u.",
-    "t": 305.68
+    "t": 306.61
    },
    {
     "speaker": "Tom",
     "text": "Good. We give the idea, but the precise number — always check the official source.",
-    "t": 313.24
+    "t": 314.17
    },
    {
     "speaker": "Tom",
     "text": "When is the money actually paid each month?",
-    "t": 318.82
+    "t": 319.75
    },
    {
     "speaker": "Anna",
     "text": "Every month, and at the latest by the twenty-fifth of the month.",
-    "t": 320.85
+    "t": 321.78
    },
    {
     "speaker": "Anna",
     "text": "It lands in your bank account that day or the next — or a day or two later with a bank abroad.",
-    "t": 324.27
+    "t": 325.2
    },
    {
     "speaker": "Anna",
     "text": "So it's regular, reliable money you can count on.",
-    "t": 329.74
+    "t": 330.67
    },
    {
     "speaker": "Tom",
     "text": "And do I have to ask for it again every month?",
-    "t": 332.85
+    "t": 333.78
    },
    {
     "speaker": "Anna",
     "text": "No. You apply once, when the child is born or when you arrive in Luxembourg.",
-    "t": 335.07
+    "t": 336
    },
    {
     "speaker": "Anna",
     "text": "After that it just comes automatically.",
-    "t": 339.95
+    "t": 339.71
    },
    {
     "speaker": "Anna",
     "text": "You only need to tell the Zukunftskeess if something changes.",
-    "t": 342.35
+    "t": 342.06
    },
    {
     "speaker": "Tom",
     "text": "Okay. So that's birth, and monthly.",
-    "t": 346.39
+    "t": 345.88
    },
    {
     "speaker": "Tom",
     "text": "Now the third — back-to-school.",
-    "t": 349.04
+    "t": 348.53
    },
    {
     "speaker": "Anna",
     "text": "Yes — the back-to-school allowance.",
-    "t": 351.03
+    "t": 350.52
    },
    {
     "speaker": "Anna",
     "text": "In French, the allocation de rentrée scolaire.",
-    "t": 353.27
+    "t": 352.5
    },
    {
     "speaker": "Anna",
     "text": "It's an extra amount, once a year, to help with the cost of going back to school.",
-    "t": 356.09
+    "t": 356.2
    },
    {
     "speaker": "Anna",
     "text": "Books, bags, supplies.",
-    "t": 360.89
+    "t": 360.72
    },
    {
     "speaker": "Tom",
     "text": "Every parent knows that August feeling — buying everything for the new school year.",
-    "t": 363.14
+    "t": 362.97
    },
    {
     "speaker": "Anna",
     "text": "Exactly. And here's the good news — you don't have to apply for it separately.",
-    "t": 367.24
+    "t": 367.07
    },
    {
     "speaker": "Anna",
     "text": "If your child already gets the family allowance, the back-to-school allowance comes automatically.",
-    "t": 372.21
+    "t": 372.04
    },
    {
     "speaker": "Tom",
     "text": "Automatically. I love that.",
-    "t": 378.15
+    "t": 377.99
    },
    {
     "speaker": "Tom",
     "text": "And when does it arrive?",
-    "t": 379.91
+    "t": 379.75
    },
    {
     "speaker": "Anna",
     "text": "In August, just before the school year.",
-    "t": 381.35
+    "t": 381.19
    },
    {
     "speaker": "Anna",
     "text": "And the amount depends on the child's age.",
-    "t": 383.91
+    "t": 383.75
    },
    {
     "speaker": "Anna",
     "text": "With the new law, from 2027 it's more than one hundred and seventy-five euros for children from six to eleven.",
-    "t": 386.27
+    "t": 386.11
    },
    {
     "speaker": "Anna",
     "text": "And more than three hundred and twenty-five euros for children twelve and over.",
-    "t": 393.77
+    "t": 393.61
    },
    {
     "speaker": "Tom",
     "text": "So again — older child, bigger amount.",
-    "t": 398.25
+    "t": 398.09
    },
    {
     "speaker": "Tom",
     "text": "The same logic.",
-    "t": 400.4
+    "t": 400.24
    },
    {
     "speaker": "Anna",
     "text": "The same logic all the way through.",
-    "t": 401.64
+    "t": 401.48
    },
    {
     "speaker": "Anna",
     "text": "Younger children, base amounts.",
-    "t": 403.61
+    "t": 403.45
    },
    {
     "speaker": "Anna",
     "text": "Older children, more support.",
-    "t": 405.86
+    "t": 405.7
    },
    {
     "speaker": "Tom",
     "text": "Anna, let me ask about a worry many families have.",
-    "t": 408.06
+    "t": 407.9
    },
    {
     "speaker": "Tom",
     "text": "What about cross-border workers?",
-    "t": 411.01
+    "t": 410.85
    },
    {
     "speaker": "Tom",
     "text": "People who work in Luxembourg but live in France, Belgium, or Germany?",
-    "t": 412.73
+    "t": 412.57
    },
    {
     "speaker": "Anna",
     "text": "Great question — and very important here, because so many people commute.",
-    "t": 416.79
+    "t": 416.63
    },
    {
     "speaker": "Anna",
     "text": "The short answer is — yes, if you work in Luxembourg and pay into the Luxembourg social security system, your children can have the right to the family allowance, even if they live across the border.",
-    "t": 421.54
+    "t": 421.38
    },
    {
     "speaker": "Tom",
     "text": "Even if the children live in another country?",
-    "t": 434.04
+    "t": 433.88
    },
    {
     "speaker": "Anna",
     "text": "Even then. This comes from European rules.",
-    "t": 436.28
+    "t": 436.12
    },
    {
     "speaker": "Anna",
     "text": "Now, there's a detail — if you already receive a family benefit in your country of residence, Luxembourg doesn't pay twice.",
-    "t": 439.4
+    "t": 439.24
    },
    {
     "speaker": "Anna",
     "text": "It pays the difference — what they call a differential supplement — so you receive the higher of the two.",
-    "t": 446.69
+    "t": 446.43
    },
    {
     "speaker": "Tom",
     "text": "So you're not worse off.",
-    "t": 452.65
+    "t": 452.39
    },
    {
     "speaker": "Tom",
     "text": "You get topped up to the Luxembourg level.",
-    "t": 454.05
+    "t": 453.79
    },
    {
     "speaker": "Anna",
     "text": "That's the idea.",
-    "t": 456.19
+    "t": 455.93
    },
    {
     "speaker": "Anna",
     "text": "And it works for pensioners too — a retired cross-border worker with a Luxembourg pension keeps the right to the family allowance.",
-    "t": 457.43
+    "t": 457.17
    },
    {
     "speaker": "Anna",
     "text": "And from 2027, a new law makes one more thing clear: the children of your husband, wife or partner can count too — if they mainly live with you, or if you can show that you really support them.",
-    "t": 465.09
+    "t": 465.43
    },
    {
     "speaker": "Tom",
     "text": "That's reassuring for a lot of families.",
-    "t": 478.58
+    "t": 478.92
    },
    {
     "speaker": "Tom",
     "text": "Now — let's talk about how you actually deal with the Zukunftskeess.",
-    "t": 480.68
+    "t": 481.02
    },
    {
     "speaker": "Tom",
     "text": "Is it a lot of paperwork?",
-    "t": 484.52
+    "t": 485.24
    },
    {
     "speaker": "Anna",
     "text": "It's much easier than it used to be.",
-    "t": 486.08
+    "t": 486.82
    },
    {
     "speaker": "Anna",
     "text": "Most things can be done online, through MyGuichet.lu — the State's digital platform.",
-    "t": 488.17
+    "t": 488.91
    },
    {
     "speaker": "Anna",
     "text": "You can apply for the family allowance there, with a secure login like LuxTrust or the eID card.",
-    "t": 494.12
+    "t": 494.85
    },
    {
     "speaker": "Tom",
     "text": "Ah, MyGuichet.lu — we've talked about that in another episode.",
-    "t": 500.47
+    "t": 501.2
    },
    {
     "speaker": "Anna",
     "text": "Exactly — it's the online door to the administration.",
-    "t": 505.07
+    "t": 505.8
    },
    {
     "speaker": "Anna",
     "text": "And through it you can also send documents to the Zukunftskeess, or change your bank details.",
-    "t": 508.64
+    "t": 509.37
    },
    {
     "speaker": "Anna",
     "text": "There's even an online assistant that guides you through the family allowance application, step by step.",
-    "t": 514.66
+    "t": 514.95
    },
    {
     "speaker": "Anna",
     "text": "And if you need a payment certificate, there's a simple online form on the Zukunftskeess website.",
-    "t": 520.68
+    "t": 520.97
    },
    {
     "speaker": "Tom",
     "text": "And if someone isn't comfortable online?",
-    "t": 527.48
+    "t": 527.91
    },
    {
     "speaker": "Anna",
     "text": "Then you can still do it on paper.",
-    "t": 529.55
+    "t": 529.98
    },
    {
     "speaker": "Anna",
     "text": "The forms are on the website, and also at the commune.",
-    "t": 531.47
+    "t": 531.9
    },
    {
     "speaker": "Anna",
     "text": "You fill them in and send them by post.",
-    "t": 534.81
+    "t": 535.24
    },
    {
     "speaker": "Anna",
     "text": "And if you have questions, you can call the Zukunftskeess, or visit their offices — they're on the Boulevard Royal, in Luxembourg City.",
-    "t": 537.34
+    "t": 537.77
    },
    {
     "speaker": "Tom",
     "text": "So there's always a way — online, by post, or in person.",
-    "t": 545.41
+    "t": 546.18
    },
    {
     "speaker": "Tom",
     "text": "Now Anna, are these three benefits everything the Zukunftskeess does?",
-    "t": 549.85
+    "t": 550.62
    },
    {
     "speaker": "Tom",
     "text": "Or is there more?",
-    "t": 553.87
+    "t": 554.82
    },
    {
     "speaker": "Anna",
     "text": "There's more. Let me mention two other important things it's involved in.",
-    "t": 555.03
+    "t": 556.06
    },
    {
     "speaker": "Anna",
     "text": "First — for parents who take time off work to look after a young child, there's parental leave, and the Zukunftskeess pays the parental leave income during that time.",
-    "t": 559.16
+    "t": 560.19
    },
    {
     "speaker": "Tom",
     "text": "So when a mum or dad pauses their job for the baby, they're not left with nothing.",
-    "t": 569.15
+    "t": 570.52
    },
    {
     "speaker": "Anna",
     "text": "Right — there's a replacement income while they're on parental leave.",
-    "t": 573.59
+    "t": 574.96
    },
    {
     "speaker": "Anna",
     "text": "And second — there's the childcare voucher, the chèque-service accueil.",
-    "t": 577.59
+    "t": 578.96
    },
    {
     "speaker": "Anna",
     "text": "It makes crèches, day care, and supervised activities cheaper for families.",
-    "t": 582.47
+    "t": 583.84
    },
    {
     "speaker": "Tom",
     "text": "So that's help with the cost of childcare — which can be a huge expense.",
-    "t": 587.3
+    "t": 588.67
    },
    {
     "speaker": "Anna",
     "text": "A huge expense, yes.",
-    "t": 591.91
+    "t": 593.28
    },
    {
     "speaker": "Anna",
     "text": "So the Zukunftskeess really sits at the centre of family life — from pregnancy, to the baby years, to school, to childcare, to time off work.",
-    "t": 593.59
+    "t": 595.2
    },
    {
     "speaker": "Tom",
     "text": "And there's also extra support for children with special needs, isn't there?",
-    "t": 603.55
+    "t": 604.95
    },
    {
     "speaker": "Anna",
     "text": "There is. For a child with a disability, there's a special supplementary allowance on top of the normal family allowance.",
-    "t": 607.77
+    "t": 609.17
    },
    {
     "speaker": "Anna",
     "text": "So families who need more help, get more help.",
-    "t": 614.72
+    "t": 616.12
    },
    {
     "speaker": "Tom",
     "text": "That's a caring system.",
-    "t": 617.79
+    "t": 619.19
    },
    {
     "speaker": "Tom",
     "text": "Anna, let's make it really concrete.",
-    "t": 619.11
+    "t": 620.52
    },
    {
     "speaker": "Tom",
     "text": "Can we follow one family?",
-    "t": 621.33
+    "t": 622.74
    },
    {
     "speaker": "Anna",
     "text": "Of course. Let's imagine a couple — they're expecting their first baby.",
-    "t": 623.28
+    "t": 624.69
    },
    {
     "speaker": "Tom",
     "text": "Exciting! So where does the Zukunftskeess come in, from the very start?",
-    "t": 627.67
+    "t": 629.08
    },
    {
     "speaker": "Anna",
     "text": "Even before the birth.",
-    "t": 632.53
-   },
-   {
-    "speaker": "Anna",
-    "text": "During the pregnancy, the mother goes to her check-ups, and the dental visit — and that opens the first part of the birth allowance, the prenatal part.",
     "t": 633.95
    },
    {
     "speaker": "Anna",
+    "text": "During the pregnancy, the mother goes to her check-ups, and the dental visit — and that opens the first part of the birth allowance, the prenatal part.",
+    "t": 635.37
+   },
+   {
+    "speaker": "Anna",
     "text": "Nearly six hundred euros.",
-    "t": 643.66
+    "t": 645.08
    },
    {
     "speaker": "Tom",
     "text": "Then the baby arrives.",
-    "t": 645.99
+    "t": 647.41
    },
    {
     "speaker": "Anna",
     "text": "The baby arrives.",
-    "t": 647.52
+    "t": 648.94
    },
    {
     "speaker": "Anna",
     "text": "They register the birth at the commune, and that triggers the second part of the birth allowance.",
-    "t": 648.88
+    "t": 650.3
    },
    {
     "speaker": "Anna",
     "text": "And they make one application for the monthly family allowance — through MyGuichet.lu.",
-    "t": 654.09
+    "t": 655.51
    },
    {
     "speaker": "Tom",
     "text": "And from then on, the monthly money starts.",
-    "t": 660.66
+    "t": 662.08
    },
    {
     "speaker": "Anna",
     "text": "Every month, by the twenty-fifth — more than three hundred and fifty euros, automatically.",
-    "t": 663.01
+    "t": 664.43
    },
    {
     "speaker": "Anna",
     "text": "Then, over the first two years, they take the baby to its medical check-ups, and that unlocks the third part of the birth allowance.",
-    "t": 668.67
+    "t": 670.09
    },
    {
     "speaker": "Tom",
     "text": "So in the first two years, they've received all three parts of the birth allowance, plus the monthly allowance.",
-    "t": 676.33
+    "t": 677.74
    },
    {
     "speaker": "Anna",
     "text": "Exactly. The child turns six — the monthly amount goes up a step, and the back-to-school allowance begins each August.",
-    "t": 682.14
+    "t": 683.55
    },
    {
     "speaker": "Anna",
     "text": "The child turns twelve — another step up.",
-    "t": 689.95
+    "t": 691.36
    },
    {
     "speaker": "Anna",
     "text": "And it all continues, right through school, possibly to age twenty-five.",
-    "t": 693.06
+    "t": 694.47
    },
    {
     "speaker": "Tom",
     "text": "And the parents only really did one big thing — they applied once, and kept their details up to date.",
-    "t": 697.5
+    "t": 698.91
    },
    {
     "speaker": "Anna",
     "text": "That's the beauty of it.",
-    "t": 703.81
+    "t": 705.22
    },
    {
     "speaker": "Anna",
     "text": "Apply once, keep your information current, and the support flows.",
-    "t": 705.41
+    "t": 706.79
    },
    {
     "speaker": "Anna",
     "text": "Calm and predictable, through the whole childhood.",
-    "t": 710.16
+    "t": 711.54
    },
    {
     "speaker": "Tom",
     "text": "I really like that picture.",
-    "t": 713.85
+    "t": 715.23
    },
    {
     "speaker": "Tom",
     "text": "Okay Anna — let's bring it home.",
-    "t": 715.13
+    "t": 716.51
    },
    {
     "speaker": "Tom",
     "text": "If I'm listening, and I have children, or one on the way — what should I do?",
-    "t": 717.55
+    "t": 718.93
    },
    {
     "speaker": "Anna",
     "text": "Three simple steps.",
-    "t": 721.6
+    "t": 722.98
    },
    {
     "speaker": "Anna",
     "text": "First — go to the website, c-a-e dot l-u, or to MyGuichet.lu.",
-    "t": 723.26
+    "t": 724.64
    },
    {
     "speaker": "Anna",
     "text": "That's where everything starts.",
-    "t": 728.87
+    "t": 730.25
    },
    {
     "speaker": "Tom",
     "text": "cae.lu. Got it.",
-    "t": 730.88
+    "t": 732.08
    },
    {
     "speaker": "Anna",
     "text": "Second — if you're expecting, start the birth allowance early, by going to your check-ups, and apply for the monthly family allowance when the baby is born.",
-    "t": 732.71
+    "t": 733.89
    },
    {
     "speaker": "Anna",
     "text": "You only do it once.",
-    "t": 741.49
+    "t": 742.67
    },
    {
     "speaker": "Tom",
     "text": "And third?",
-    "t": 743.44
+    "t": 744.62
    },
    {
     "speaker": "Anna",
     "text": "Third — keep your details up to date, especially your bank account and your situation.",
-    "t": 744.39
+    "t": 745.58
    },
    {
     "speaker": "Anna",
     "text": "And if your child turns eighteen but stays in school, send back the form to keep the allowance going up to twenty-five — you can now do it online too, on MyGuichet.lu.",
-    "t": 749.62
+    "t": 750.81
    },
    {
     "speaker": "Tom",
     "text": "And for cross-border workers?",
-    "t": 760.71
+    "t": 761.9
    },
    {
     "speaker": "Anna",
     "text": "Same office, same website.",
-    "t": 762.28
+    "t": 763.47
    },
    {
     "speaker": "Anna",
     "text": "If you work in Luxembourg, your children may have the right too — so don't assume you're not eligible.",
-    "t": 764.67
+    "t": 765.86
    },
    {
     "speaker": "Anna",
     "text": "Check with the Zukunftskeess.",
-    "t": 770.46
+    "t": 771.67
    },
    {
     "speaker": "Tom",
     "text": "A short summary to finish?",
-    "t": 772.52
+    "t": 773.89
    },
    {
     "speaker": "Anna",
     "text": "Sure. The Zukunftskeess — the Children's Future Fund, cae.lu — is the State office for family benefits in Luxembourg.",
-    "t": 774.09
+    "t": 775.46
    },
    {
     "speaker": "Anna",
     "text": "Three main ones.",
-    "t": 783.61
+    "t": 785.08
    },
    {
     "speaker": "Anna",
     "text": "A birth allowance of more than one thousand seven hundred euros, in three parts, linked to health check-ups.",
-    "t": 785.09
+    "t": 786.56
    },
    {
     "speaker": "Anna",
     "text": "A monthly family allowance for each child — more than three hundred and fifty euros from 2027 — that grows at age six and age twelve, and can last until twenty-five if the child stays in school.",
-    "t": 792.75
+    "t": 794.22
    },
    {
     "speaker": "Anna",
     "text": "And a back-to-school allowance each August, automatically.",
-    "t": 807.28
+    "t": 808.75
    },
    {
     "speaker": "Anna",
     "text": "Plus parental leave income, childcare vouchers, and extra help for children with special needs.",
-    "t": 810.94
+    "t": 812.41
    },
    {
     "speaker": "Tom",
     "text": "And the message for today?",
-    "t": 817.14
+    "t": 818.61
    },
    {
     "speaker": "Anna",
     "text": "If you have children in Luxembourg, this support is yours by right — and it's easier to get than people think.",
-    "t": 818.62
+    "t": 820.09
    },
    {
     "speaker": "Anna",
     "text": "One office, one website, and a system that walks beside your family for years.",
-    "t": 824.75
+    "t": 826.22
    },
    {
     "speaker": "Tom",
     "text": "So... whether you're a new parent, an old hand, or a cross-border worker — remember the name.",
-    "t": 829.77
+    "t": 831.24
    },
    {
     "speaker": "Tom",
     "text": "The Zukunftskeess. cae.lu.",
-    "t": 836.1
+    "t": 837.57
    },
    {
     "speaker": "Anna",
     "text": "One fund, looking after the future of your children.",
-    "t": 838.71
+    "t": 840.56
    },
    {
     "speaker": "Anna",
     "text": "That's exactly what the name says.",
-    "t": 842.07
+    "t": 843.92
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Zukunftskeess.",
-    "t": 844
+    "t": 845.85
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 847
+    "t": 848.83
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 857.23
+    "t": 857.91
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 875.51
+    "t": 876.19
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 882.26
+    "t": 882.94
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 884.46
+    "t": 885.14
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 889.15
+    "t": 889.83
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 890.23
+    "t": 890.92
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 892.35
+    "t": 893.04
    }
   ],
   "questions": [
@@ -41905,1072 +41905,1072 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Anna",
     "text": "Et le sujet d'aujourd'hui en est un qui apporte beaucoup de joie, et aussi beaucoup de questions.",
-    "t": 23
+    "t": 23.06
    },
    {
     "speaker": "Anna",
     "text": "Il s'agit des enfants — et de l'argent et du soutien que l'État donne aux familles.",
-    "t": 27.26
+    "t": 27.32
    },
    {
     "speaker": "Tom",
     "text": "Et il y a un organisme au cœur de tout cela.",
-    "t": 31.39
+    "t": 31.45
    },
    {
     "speaker": "Tom",
     "text": "Anna, dis-nous son nom.",
-    "t": 33.8
+    "t": 33.86
    },
    {
     "speaker": "Anna",
     "text": "Elle s'appelle la Zukunftskeess.",
-    "t": 35.57
+    "t": 35.63
    },
    {
     "speaker": "Anna",
     "text": "En français, c'est la Caisse pour l'avenir des enfants.",
-    "t": 37.79
+    "t": 37.85
    },
    {
     "speaker": "Anna",
     "text": "Les gens utilisent aussi le nom court — C-A-E.",
-    "t": 40.23
+    "t": 40.29
    },
    {
     "speaker": "Tom",
     "text": "Zukunftskeess. C'est un joli nom — la « caisse pour l'avenir ».",
-    "t": 43.8
+    "t": 43.86
    },
    {
     "speaker": "Tom",
     "text": "Commençons simplement. Qu'est-ce que c'est ?",
-    "t": 47.51
+    "t": 47.64
    },
    {
     "speaker": "Anna",
     "text": "La Zukunftskeess est la caisse officielle de l'État qui verse les prestations familiales au Luxembourg.",
-    "t": 50.07
+    "t": 50.2
    },
    {
     "speaker": "Anna",
     "text": "Donc, l'argent pour élever les enfants.",
-    "t": 55.02
+    "t": 55.15
    },
    {
     "speaker": "Anna",
     "text": "Sa maison sur internet, c'est c-a-e point l-u.",
-    "t": 56.96
+    "t": 57.09
    },
    {
     "speaker": "Tom",
     "text": "cae.lu. Et c'est officiel — c'est l'État.",
-    "t": 60.35
+    "t": 60.48
    },
    {
     "speaker": "Anna",
     "text": "Tout à fait officiel.",
-    "t": 63.54
+    "t": 64.49
    },
    {
     "speaker": "Anna",
     "text": "Cela fait partie du système de la sécurité sociale.",
-    "t": 64.92
+    "t": 65.87
    },
    {
     "speaker": "Anna",
     "text": "Ce n'est pas une entreprise privée.",
-    "t": 67.5
+    "t": 68.45
    },
    {
     "speaker": "Anna",
     "text": "Et elle gère toutes les principales prestations liées au fait d'avoir et d'élever des enfants.",
-    "t": 69.41
+    "t": 70.36
    },
    {
     "speaker": "Tom",
     "text": "D'accord. Donc si j'ai un bébé, ou si j'ai déjà des enfants, c'est l'organisme qui m'aide.",
-    "t": 73.78
+    "t": 74.73
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Laisse-moi d'abord te donner une vue d'ensemble.",
-    "t": 79.05
+    "t": 80
    },
    {
     "speaker": "Anna",
     "text": "Il y a vraiment trois grandes prestations en argent.",
-    "t": 81.75
+    "t": 82.7
    },
    {
     "speaker": "Anna",
     "text": "L'allocation de naissance, autour du moment où le bébé naît.",
-    "t": 84.18
+    "t": 85.13
    },
    {
     "speaker": "Anna",
     "text": "L'allocation familiale, chaque mois pendant que l'enfant grandit.",
-    "t": 86.88
+    "t": 87.83
    },
    {
     "speaker": "Anna",
     "text": "Et l'allocation de rentrée scolaire, une fois par an pour l'école.",
-    "t": 90.49
+    "t": 91.44
    },
    {
     "speaker": "Tom",
     "text": "Naissance, mensuelle et rentrée scolaire.",
-    "t": 93.56
+    "t": 94.51
    },
    {
     "speaker": "Tom",
     "text": "Prenons-les une par une.",
-    "t": 96.11
+    "t": 97.06
    },
    {
     "speaker": "Tom",
     "text": "Commençons par la naissance.",
-    "t": 97.81
+    "t": 98.76
    },
    {
     "speaker": "Anna",
     "text": "Alors, l'allocation de naissance — c'est un montant fixe payé autour de la naissance d'un enfant.",
-    "t": 99.73
+    "t": 100.68
    },
    {
     "speaker": "Anna",
     "text": "Le total est de plus de mille sept cents euros — et à partir de 2027, il suit le coût de la vie.",
-    "t": 104.46
+    "t": 105.41
    },
    {
     "speaker": "Tom",
     "text": "C'est une vraie aide, juste au moment où une famille en a besoin.",
-    "t": 109.39
+    "t": 110.34
    },
    {
     "speaker": "Tom",
     "text": "Et est-ce qu'elle est payée en une seule fois ?",
-    "t": 113.42
+    "t": 114.37
    },
    {
     "speaker": "Anna",
     "text": "Non — et c'est là que c'est astucieux.",
-    "t": 115.78
+    "t": 116.73
    },
    {
     "speaker": "Anna",
     "text": "Elle arrive en trois parts égales, de près de six cents euros chacune.",
-    "t": 117.36
+    "t": 118.31
    },
    {
     "speaker": "Anna",
     "text": "Et chaque part est liée au fait de prendre soin de la maman et du bébé.",
-    "t": 120.83
+    "t": 121.78
    },
    {
     "speaker": "Tom",
     "text": "Parle-moi des trois parts.",
-    "t": 124.19
+    "t": 125.14
    },
    {
     "speaker": "Anna",
     "text": "La première, c'est l'allocation prénatale — avant la naissance.",
-    "t": 125.73
+    "t": 126.68
    },
    {
     "speaker": "Anna",
     "text": "Pour l'obtenir, la future maman se rend à ses examens médicaux pendant la grossesse — des examens chez le médecin, et aussi un contrôle dentaire.",
-    "t": 128.95
+    "t": 129.9
    },
    {
     "speaker": "Tom",
     "text": "Donc la première part récompense le fait de prendre soin de soi, et du bébé, pendant la grossesse.",
-    "t": 135.57
+    "t": 136.52
    },
    {
     "speaker": "Anna",
     "text": "Exactement. La deuxième part, c'est l'allocation de naissance proprement dite — payée après la naissance, avec un examen pour la maman.",
-    "t": 140.94
+    "t": 141.89
    },
    {
     "speaker": "Anna",
     "text": "Et la troisième part, c'est l'allocation postnatale — payée après les examens médicaux de l'enfant pendant les deux premières années de vie.",
-    "t": 147.29
+    "t": 148.24
    },
    {
     "speaker": "Tom",
     "text": "Ah, je vois l'idée.",
-    "t": 154.26
+    "t": 155.21
    },
    {
     "speaker": "Tom",
     "text": "L'argent est lié aux contrôles de santé — pour la maman et pour le bébé.",
-    "t": 155.62
+    "t": 156.57
    },
    {
     "speaker": "Anna",
     "text": "C'est toute la philosophie.",
-    "t": 159.36
+    "t": 160.31
    },
    {
     "speaker": "Anna",
     "text": "Ce n'est pas seulement de l'argent — c'est une façon douce de s'assurer que la maman et l'enfant voient le médecin aux bons moments.",
-    "t": 160.84
+    "t": 161.79
    },
    {
     "speaker": "Anna",
     "text": "Et voici un joli détail — les trois parts sont indépendantes.",
-    "t": 166.41
+    "t": 167.36
    },
    {
     "speaker": "Anna",
     "text": "Si tu ne remplis pas les conditions pour une part, tu peux quand même recevoir les autres.",
-    "t": 169.65
+    "t": 170.6
    },
    {
     "speaker": "Tom",
     "text": "Bon à savoir.",
-    "t": 173.9
+    "t": 174.85
    },
    {
     "speaker": "Tom",
     "text": "Et combien de temps a-t-on pour faire la demande ?",
-    "t": 175.05
+    "t": 176
    },
    {
     "speaker": "Anna",
     "text": "En général dans un délai d'un an — pour les deux premières parts, dans l'année qui suit la naissance.",
-    "t": 177.46
+    "t": 178.41
    },
    {
     "speaker": "Anna",
     "text": "Et pour la part postnatale, dans l'année qui suit le deuxième anniversaire de l'enfant.",
-    "t": 182.08
+    "t": 183.03
    },
    {
     "speaker": "Anna",
     "text": "Les formulaires viennent de ton médecin, de la maternité, ou de la commune — et tu les envoies à la Zukunftskeess.",
-    "t": 185.88
+    "t": 186.83
    },
    {
     "speaker": "Tom",
     "text": "Parfait. D'accord — voilà pour la naissance.",
-    "t": 192.33
+    "t": 193.28
    },
    {
     "speaker": "Tom",
     "text": "Maintenant la grande, je pense.",
-    "t": 195.04
+    "t": 195.99
    },
    {
     "speaker": "Tom",
     "text": "L'allocation familiale mensuelle.",
-    "t": 196.94
+    "t": 197.89
    },
    {
     "speaker": "Anna",
     "text": "Oui. C'est celle que la plupart des gens connaissent.",
-    "t": 199.14
+    "t": 200.09
    },
    {
     "speaker": "Anna",
     "text": "En luxembourgeois, les gens disent souvent simplement « Kannergeld » — l'argent des enfants.",
-    "t": 201.6
+    "t": 202.55
    },
    {
     "speaker": "Anna",
     "text": "Elle est payée chaque mois, pour chaque enfant.",
-    "t": 205.89
+    "t": 206.84
    },
    {
     "speaker": "Tom",
     "text": "De quand à quand ?",
-    "t": 208.25
+    "t": 209.2
    },
    {
     "speaker": "Anna",
     "text": "Du mois de la naissance de l'enfant, jusqu'à ses dix-huit ans.",
-    "t": 209.61
+    "t": 210.56
    },
    {
     "speaker": "Anna",
     "text": "Et — c'est important — elle peut continuer jusqu'à l'âge de vingt-cinq ans si le jeune est encore au lycée, ou s'il fait un apprentissage.",
-    "t": 212.52
+    "t": 213.47
    },
    {
     "speaker": "Tom",
     "text": "Donc tant que l'enfant est encore à l'école, le soutien continue.",
-    "t": 219.32
+    "t": 220.27
    },
    {
     "speaker": "Tom",
     "text": "Et de combien s'agit-il ?",
-    "t": 222.71
+    "t": 223.66
    },
    {
     "speaker": "Anna",
     "text": "Elle est fixée par enfant, par mois.",
-    "t": 224.53
+    "t": 225.48
    },
    {
     "speaker": "Anna",
     "text": "Et il y a une bonne nouvelle : une nouvelle loi l'augmente à partir de janvier 2027.",
-    "t": 226.59
+    "t": 227.54
    },
    {
     "speaker": "Anna",
     "text": "Dès lors, c'est plus de trois cent cinquante euros par enfant chaque mois.",
-    "t": 231.53
+    "t": 232.48
    },
    {
     "speaker": "Anna",
     "text": "Et voici un point clé — elle augmente encore à mesure que l'enfant grandit.",
-    "t": 234.97
+    "t": 235.92
    },
    {
     "speaker": "Tom",
     "text": "Elle augmente ? Comment ça marche ?",
-    "t": 238.86
+    "t": 239.81
    },
    {
     "speaker": "Anna",
     "text": "Il y a deux paliers.",
-    "t": 241.01
+    "t": 241.96
    },
    {
     "speaker": "Anna",
     "text": "Le montant augmente quand l'enfant a six ans.",
-    "t": 242.18
+    "t": 243.13
    },
    {
     "speaker": "Anna",
     "text": "Et il augmente encore quand l'enfant a douze ans.",
-    "t": 244.71
+    "t": 245.66
    },
    {
     "speaker": "Anna",
     "text": "L'idée est simple — les enfants plus âgés coûtent plus cher.",
-    "t": 246.91
+    "t": 247.86
    },
    {
     "speaker": "Tom",
     "text": "C'est logique — les adolescents coûtent cher !",
-    "t": 250.13
+    "t": 251.08
    },
    {
     "speaker": "Tom",
     "text": "Donc un jeune enfant reçoit le montant de base, un enfant de plus de six ans reçoit un peu plus, et un enfant de plus de douze ans reçoit encore plus.",
-    "t": 252.65
+    "t": 253.7
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Maintenant — une chose sur laquelle je dois être honnête.",
-    "t": 260.45
+    "t": 261.5
    },
    {
     "speaker": "Anna",
     "text": "Ces montants sont liés au coût de la vie.",
-    "t": 263.91
+    "t": 264.96
    },
    {
     "speaker": "Anna",
     "text": "Ils augmentent avec le temps, avec ce qu'on appelle l'index.",
-    "t": 265.9
+    "t": 266.95
    },
    {
     "speaker": "Anna",
     "text": "Et à partir de 2027, c'est aussi le cas pour l'allocation de naissance, l'allocation de rentrée scolaire, et l'allocation spéciale pour les enfants en situation de handicap.",
-    "t": 268.88
+    "t": 269.93
    },
    {
     "speaker": "Anna",
     "text": "Donc pour le chiffre exact d'aujourd'hui, tu consultes la page officielle — c'est la page « paramètres sociaux » sur guichet point l-u.",
-    "t": 278.05
+    "t": 279.1
    },
    {
     "speaker": "Tom",
     "text": "Bien. On donne l'idée, mais le chiffre précis — toujours vérifier la source officielle.",
-    "t": 284.64
+    "t": 285.69
    },
    {
     "speaker": "Tom",
     "text": "Quand l'argent est-il vraiment payé chaque mois ?",
-    "t": 289.36
+    "t": 290.41
    },
    {
     "speaker": "Anna",
     "text": "Chaque mois, et au plus tard le vingt-cinq du mois.",
-    "t": 291.83
+    "t": 292.88
    },
    {
     "speaker": "Anna",
     "text": "Il arrive sur ton compte bancaire ce jour-là ou le lendemain — ou un ou deux jours plus tard avec une banque à l'étranger.",
-    "t": 294.2
+    "t": 295.25
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est un argent régulier et fiable, sur lequel tu peux compter.",
-    "t": 299.73
+    "t": 300.78
    },
    {
     "speaker": "Tom",
     "text": "Et dois-je le redemander chaque mois ?",
-    "t": 303.16
+    "t": 304.21
    },
    {
     "speaker": "Anna",
     "text": "Non. Tu fais la demande une fois, quand l'enfant naît ou quand tu arrives au Luxembourg.",
-    "t": 305.25
+    "t": 306.3
    },
    {
     "speaker": "Anna",
     "text": "Après ça, ça arrive automatiquement.",
-    "t": 309.51
+    "t": 310.56
    },
    {
     "speaker": "Anna",
     "text": "Tu dois seulement prévenir la Zukunftskeess si quelque chose change.",
-    "t": 311.35
+    "t": 312.4
    },
    {
     "speaker": "Tom",
     "text": "D'accord. Donc voilà la naissance, et le mensuel.",
-    "t": 314.72
+    "t": 315.77
    },
    {
     "speaker": "Tom",
     "text": "Maintenant la troisième — la rentrée scolaire.",
-    "t": 317.72
+    "t": 318.77
    },
    {
     "speaker": "Anna",
     "text": "Oui — l'allocation de rentrée scolaire.",
-    "t": 320.35
+    "t": 321.4
    },
    {
     "speaker": "Anna",
     "text": "C'est un montant supplémentaire, une fois par an, pour aider à payer le coût de la rentrée.",
-    "t": 322.45
+    "t": 323.5
    },
    {
     "speaker": "Anna",
     "text": "Les livres, les sacs, les fournitures.",
-    "t": 326.6
+    "t": 327.65
    },
    {
     "speaker": "Tom",
     "text": "Tous les parents connaissent cette sensation du mois d'août — acheter tout pour la nouvelle année scolaire.",
-    "t": 329.1
+    "t": 330.15
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Et voici la bonne nouvelle — tu n'as pas besoin de la demander séparément.",
-    "t": 334.04
+    "t": 335.09
    },
    {
     "speaker": "Anna",
     "text": "Si ton enfant reçoit déjà l'allocation familiale, l'allocation de rentrée scolaire arrive automatiquement.",
-    "t": 338.57
+    "t": 339.62
    },
    {
     "speaker": "Tom",
     "text": "Automatiquement. J'adore ça.",
-    "t": 344
+    "t": 345.05
    },
    {
     "speaker": "Tom",
     "text": "Et quand arrive-t-elle ?",
-    "t": 346.21
+    "t": 347.26
    },
    {
     "speaker": "Anna",
     "text": "En août, juste avant l'année scolaire.",
-    "t": 347.66
+    "t": 348.71
    },
    {
     "speaker": "Anna",
     "text": "Et le montant dépend de l'âge de l'enfant.",
-    "t": 349.73
+    "t": 350.78
    },
    {
     "speaker": "Anna",
     "text": "Avec la nouvelle loi, à partir de 2027, c'est plus de cent soixante-quinze euros pour les enfants de six à onze ans.",
-    "t": 351.67
+    "t": 352.72
    },
    {
     "speaker": "Anna",
     "text": "Et plus de trois cent vingt-cinq euros pour les enfants de douze ans et plus.",
-    "t": 357.81
+    "t": 358.86
    },
    {
     "speaker": "Tom",
     "text": "Donc là encore — enfant plus âgé, montant plus élevé.",
-    "t": 361.59
+    "t": 362.64
    },
    {
     "speaker": "Tom",
     "text": "La même logique.",
-    "t": 364.92
+    "t": 365.97
    },
    {
     "speaker": "Anna",
     "text": "La même logique du début à la fin.",
-    "t": 366.21
+    "t": 367.26
    },
    {
     "speaker": "Anna",
     "text": "Enfants plus jeunes, montants de base.",
-    "t": 367.98
+    "t": 369.03
    },
    {
     "speaker": "Anna",
     "text": "Enfants plus âgés, plus de soutien.",
-    "t": 370.11
+    "t": 371.16
    },
    {
     "speaker": "Tom",
     "text": "Anna, laisse-moi poser une question sur une inquiétude que beaucoup de familles ont.",
-    "t": 372.43
+    "t": 373.48
    },
    {
     "speaker": "Tom",
     "text": "Qu'en est-il des frontaliers ?",
-    "t": 376.54
+    "t": 377.59
    },
    {
     "speaker": "Tom",
     "text": "Les personnes qui travaillent au Luxembourg mais qui vivent en France, en Belgique ou en Allemagne ?",
-    "t": 378.22
+    "t": 379.27
    },
    {
     "speaker": "Anna",
     "text": "Excellente question — et très importante ici, parce que tant de gens font la navette.",
-    "t": 383.55
+    "t": 384.6
    },
    {
     "speaker": "Anna",
     "text": "La réponse courte est — oui, si tu travailles au Luxembourg et que tu cotises au système de sécurité sociale luxembourgeois, tes enfants peuvent avoir droit à l'allocation familiale, même s'ils vivent de l'autre côté de la frontière.",
-    "t": 387.39
+    "t": 388.44
    },
    {
     "speaker": "Tom",
     "text": "Même si les enfants vivent dans un autre pays ?",
-    "t": 398.74
+    "t": 399.79
    },
    {
     "speaker": "Anna",
     "text": "Même là. Cela vient des règles européennes.",
-    "t": 401.38
+    "t": 402.43
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, il y a un détail — si tu reçois déjà une prestation familiale dans ton pays de résidence, le Luxembourg ne paie pas deux fois.",
-    "t": 404.05
+    "t": 405.1
    },
    {
     "speaker": "Anna",
     "text": "Il paie la différence — ce qu'on appelle un complément différentiel — pour que tu reçoives le plus élevé des deux.",
-    "t": 410.85
+    "t": 411.9
    },
    {
     "speaker": "Tom",
     "text": "Donc tu n'es pas perdant.",
-    "t": 416.33
+    "t": 417.38
    },
    {
     "speaker": "Tom",
     "text": "Tu es complété jusqu'au niveau luxembourgeois.",
-    "t": 417.81
+    "t": 418.86
    },
    {
     "speaker": "Anna",
     "text": "C'est l'idée. Et ça marche aussi pour les pensionnés — un frontalier retraité avec une pension luxembourgeoise garde le droit à l'allocation familiale.",
-    "t": 420.58
+    "t": 421.63
    },
    {
     "speaker": "Anna",
     "text": "Et à partir de 2027, une nouvelle loi précise encore une chose : les enfants de ton mari, de ta femme ou de ton partenaire peuvent aussi compter — s'ils vivent principalement avec toi, ou si tu peux montrer que tu subviens vraiment à leurs besoins.",
-    "t": 429.03
+    "t": 430.08
    },
    {
     "speaker": "Tom",
     "text": "C'est rassurant pour beaucoup de familles.",
-    "t": 441.63
+    "t": 442.68
    },
    {
     "speaker": "Tom",
     "text": "Maintenant — parlons de la manière dont on traite concrètement avec la Zukunftskeess.",
-    "t": 443.64
+    "t": 444.69
    },
    {
     "speaker": "Tom",
     "text": "Est-ce beaucoup de paperasse ?",
-    "t": 448.12
+    "t": 449.17
    },
    {
     "speaker": "Anna",
     "text": "C'est bien plus facile qu'avant.",
-    "t": 450.02
+    "t": 451.07
    },
    {
     "speaker": "Anna",
     "text": "La plupart des choses peuvent se faire en ligne, via MyGuichet.lu — la plateforme numérique de l'État.",
-    "t": 451.67
+    "t": 452.72
    },
    {
     "speaker": "Anna",
     "text": "Tu peux y demander l'allocation familiale, avec une connexion sécurisée comme LuxTrust ou la carte eID.",
-    "t": 457.13
+    "t": 458.18
    },
    {
     "speaker": "Tom",
     "text": "Ah, MyGuichet.lu — on en a parlé dans un autre épisode.",
-    "t": 462.69
+    "t": 463.74
    },
    {
     "speaker": "Anna",
     "text": "Exactement — c'est la porte en ligne vers l'administration.",
-    "t": 466.6
+    "t": 467.65
    },
    {
     "speaker": "Anna",
     "text": "Et par ce biais, tu peux aussi envoyer des documents à la Zukunftskeess, ou changer tes coordonnées bancaires.",
-    "t": 470.2
+    "t": 471.25
    },
    {
     "speaker": "Anna",
     "text": "Il y a même un assistant en ligne qui te guide pas à pas dans la demande d'allocation familiale.",
-    "t": 475.63
+    "t": 476.68
    },
    {
     "speaker": "Anna",
     "text": "Et si tu as besoin d'un certificat de paiement, il y a un simple formulaire en ligne sur le site de la Zukunftskeess.",
-    "t": 480.24
+    "t": 481.29
    },
    {
     "speaker": "Tom",
     "text": "Et si quelqu'un n'est pas à l'aise en ligne ?",
-    "t": 485.82
+    "t": 486.87
    },
    {
     "speaker": "Anna",
     "text": "Alors tu peux toujours le faire sur papier.",
-    "t": 488.09
+    "t": 489.14
    },
    {
     "speaker": "Anna",
     "text": "Les formulaires sont sur le site, et aussi à la commune.",
-    "t": 490.09
+    "t": 491.14
    },
    {
     "speaker": "Anna",
     "text": "Tu les remplis et tu les envoies par la poste.",
-    "t": 493.08
+    "t": 494.13
    },
    {
     "speaker": "Anna",
     "text": "Et si tu as des questions, tu peux appeler la Zukunftskeess, ou te rendre dans ses bureaux — ils sont au Boulevard Royal, à Luxembourg-Ville.",
-    "t": 495.32
+    "t": 496.37
    },
    {
     "speaker": "Tom",
     "text": "Donc il y a toujours un moyen — en ligne, par la poste, ou en personne.",
-    "t": 502.34
+    "t": 503.39
    },
    {
     "speaker": "Tom",
     "text": "Maintenant Anna, ces trois prestations sont-elles tout ce que fait la Zukunftskeess ?",
-    "t": 506.51
+    "t": 507.56
    },
    {
     "speaker": "Tom",
     "text": "Ou y a-t-il plus ?",
-    "t": 510.87
+    "t": 511.92
    },
    {
     "speaker": "Anna",
     "text": "Il y a plus.",
-    "t": 512.37
+    "t": 513.42
    },
    {
     "speaker": "Anna",
     "text": "Laisse-moi mentionner deux autres choses importantes dans lesquelles elle intervient.",
-    "t": 513.39
+    "t": 514.44
    },
    {
     "speaker": "Anna",
     "text": "D'abord — pour les parents qui prennent un congé pour s'occuper d'un jeune enfant, il y a le congé parental, et la Zukunftskeess verse le revenu du congé parental pendant cette période.",
-    "t": 517.21
+    "t": 518.26
    },
    {
     "speaker": "Tom",
     "text": "Donc quand une maman ou un papa met son travail en pause pour le bébé, il ne se retrouve pas sans rien.",
-    "t": 525.88
+    "t": 526.93
    },
    {
     "speaker": "Anna",
     "text": "C'est ça — il y a un revenu de remplacement pendant le congé parental.",
-    "t": 531.14
+    "t": 532.19
    },
    {
     "speaker": "Anna",
     "text": "Et deuxièmement — il y a le chèque-service accueil.",
-    "t": 534.75
+    "t": 535.8
    },
    {
     "speaker": "Anna",
     "text": "Il rend les crèches, les garderies et les activités encadrées moins chères pour les familles.",
-    "t": 537.14
+    "t": 538.19
    },
    {
     "speaker": "Tom",
     "text": "Donc c'est une aide pour le coût de la garde d'enfants — qui peut être une énorme dépense.",
-    "t": 541.77
+    "t": 542.82
    },
    {
     "speaker": "Anna",
     "text": "Une énorme dépense, oui.",
-    "t": 547.11
+    "t": 548.16
    },
    {
     "speaker": "Anna",
     "text": "Donc la Zukunftskeess se trouve vraiment au cœur de la vie de famille — de la grossesse, aux années bébé, à l'école, à la garde d'enfants, au congé du travail.",
-    "t": 548.51
+    "t": 549.56
    },
    {
     "speaker": "Tom",
     "text": "Et il y a aussi un soutien supplémentaire pour les enfants ayant des besoins particuliers, n'est-ce pas ?",
-    "t": 557.6
+    "t": 558.65
    },
    {
     "speaker": "Anna",
     "text": "Oui. Pour un enfant en situation de handicap, il y a une allocation spéciale supplémentaire en plus de l'allocation familiale normale.",
-    "t": 563.03
+    "t": 564.08
    },
    {
     "speaker": "Anna",
     "text": "Donc les familles qui ont besoin de plus d'aide en reçoivent plus.",
-    "t": 568.74
+    "t": 569.79
    },
    {
     "speaker": "Tom",
     "text": "C'est un système bienveillant.",
-    "t": 571.78
+    "t": 572.83
    },
    {
     "speaker": "Tom",
     "text": "Anna, rendons cela bien concret.",
-    "t": 573.54
+    "t": 574.59
    },
    {
     "speaker": "Tom",
     "text": "Peut-on suivre une famille ?",
-    "t": 575.65
+    "t": 576.7
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. Imaginons un couple — ils attendent leur premier bébé.",
-    "t": 577.28
+    "t": 578.33
    },
    {
     "speaker": "Tom",
     "text": "Passionnant ! Alors où intervient la Zukunftskeess, dès le tout début ?",
-    "t": 580.55
+    "t": 581.6
    },
    {
     "speaker": "Anna",
     "text": "Même avant la naissance.",
-    "t": 584.87
+    "t": 585.92
    },
    {
     "speaker": "Anna",
     "text": "Pendant la grossesse, la maman va à ses examens, et à la visite dentaire — et cela ouvre la première part de l'allocation de naissance, la part prénatale.",
-    "t": 586.31
+    "t": 587.36
    },
    {
     "speaker": "Anna",
     "text": "Près de six cents euros.",
-    "t": 594.11
+    "t": 595.16
    },
    {
     "speaker": "Tom",
     "text": "Puis le bébé arrive.",
-    "t": 595.6
+    "t": 596.65
    },
    {
     "speaker": "Anna",
     "text": "Le bébé arrive.",
-    "t": 597.19
+    "t": 598.24
    },
    {
     "speaker": "Anna",
     "text": "Ils déclarent la naissance à la commune, et cela déclenche la deuxième part de l'allocation de naissance.",
-    "t": 598.44
+    "t": 599.49
    },
    {
     "speaker": "Anna",
     "text": "Et ils font une demande pour l'allocation familiale mensuelle — via MyGuichet.lu.",
-    "t": 603.35
+    "t": 604.36
    },
    {
     "speaker": "Tom",
     "text": "Et à partir de là, l'argent mensuel commence.",
-    "t": 607.96
+    "t": 608.97
    },
    {
     "speaker": "Anna",
     "text": "Chaque mois, pour le vingt-cinq — plus de trois cent cinquante euros, automatiquement.",
-    "t": 610.74
+    "t": 611.75
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, au cours des deux premières années, ils emmènent le bébé à ses examens médicaux, et cela débloque la troisième part de l'allocation de naissance.",
-    "t": 614.48
+    "t": 615.49
    },
    {
     "speaker": "Tom",
     "text": "Donc en deux ans, ils ont reçu les trois parts de l'allocation de naissance, plus l'allocation mensuelle.",
-    "t": 621.61
+    "t": 622.62
    },
    {
     "speaker": "Anna",
     "text": "Exactement. L'enfant a six ans — le montant mensuel monte d'un palier, et l'allocation de rentrée scolaire commence chaque août.",
-    "t": 627.54
+    "t": 628.55
    },
    {
     "speaker": "Anna",
     "text": "L'enfant a douze ans — un autre palier.",
-    "t": 633.82
+    "t": 634.83
    },
    {
     "speaker": "Anna",
     "text": "Et tout continue, tout au long de l'école, peut-être jusqu'à vingt-cinq ans.",
-    "t": 636.15
+    "t": 637.16
    },
    {
     "speaker": "Tom",
     "text": "Et les parents n'ont vraiment fait qu'une seule grande chose — ils ont fait la demande une fois, et ils ont tenu leurs informations à jour.",
-    "t": 639.87
+    "t": 640.88
    },
    {
     "speaker": "Anna",
     "text": "C'est ça qui est beau.",
-    "t": 646.61
+    "t": 647.62
    },
    {
     "speaker": "Anna",
     "text": "Faire la demande une fois, garder tes informations à jour, et le soutien arrive.",
-    "t": 647.77
+    "t": 648.78
    },
    {
     "speaker": "Anna",
     "text": "Calme et prévisible, pendant toute l'enfance.",
-    "t": 652.32
+    "t": 653.32
    },
    {
     "speaker": "Tom",
     "text": "J'aime vraiment cette image.",
-    "t": 654.99
+    "t": 655.99
    },
    {
     "speaker": "Tom",
     "text": "D'accord Anna — concluons.",
-    "t": 656.77
+    "t": 657.77
    },
    {
     "speaker": "Tom",
     "text": "Si je suis en train d'écouter, et que j'ai des enfants, ou un en route — que dois-je faire ?",
-    "t": 658.81
+    "t": 659.81
    },
    {
     "speaker": "Anna",
     "text": "Trois étapes simples.",
-    "t": 663.71
+    "t": 664.71
    },
    {
     "speaker": "Anna",
     "text": "D'abord — va sur le site, c-a-e point l-u, ou sur MyGuichet.lu.",
-    "t": 665.02
+    "t": 666.02
    },
    {
     "speaker": "Anna",
     "text": "C'est là que tout commence.",
-    "t": 670
+    "t": 671
    },
    {
     "speaker": "Tom",
     "text": "cae.lu. Compris.",
-    "t": 671.55
+    "t": 672.55
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement — si tu attends un enfant, commence tôt l'allocation de naissance, en allant à tes examens, et demande l'allocation familiale mensuelle quand le bébé naît.",
-    "t": 673.31
+    "t": 674.62
    },
    {
     "speaker": "Anna",
     "text": "Tu ne le fais qu'une seule fois.",
-    "t": 681.32
+    "t": 682.63
    },
    {
     "speaker": "Tom",
     "text": "Et troisièmement ?",
-    "t": 683.06
+    "t": 684.37
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement — garde tes informations à jour, surtout ton compte bancaire et ta situation.",
-    "t": 684.34
+    "t": 685.65
    },
    {
     "speaker": "Anna",
     "text": "Et si ton enfant a dix-huit ans mais reste à l'école, renvoie le formulaire pour que l'allocation continue jusqu'à vingt-cinq ans — tu peux maintenant le faire en ligne aussi, sur MyGuichet.lu.",
-    "t": 688.88
+    "t": 690.19
    },
    {
     "speaker": "Tom",
     "text": "Et pour les frontaliers ?",
-    "t": 698.43
+    "t": 699.74
    },
    {
     "speaker": "Anna",
     "text": "Même organisme, même site.",
-    "t": 699.88
+    "t": 701.19
    },
    {
     "speaker": "Anna",
     "text": "Si tu travailles au Luxembourg, tes enfants peuvent aussi avoir droit — alors ne suppose pas que tu n'es pas éligible.",
-    "t": 701.71
+    "t": 703.02
    },
    {
     "speaker": "Anna",
     "text": "Renseigne-toi auprès de la Zukunftskeess.",
-    "t": 707.59
+    "t": 708.9
    },
    {
     "speaker": "Tom",
     "text": "Un petit résumé pour finir ?",
-    "t": 710.11
+    "t": 711.42
    },
    {
     "speaker": "Anna",
     "text": "Bien sûr. La Zukunftskeess — la Caisse pour l'avenir des enfants, cae.lu — est l'organisme de l'État pour les prestations familiales au Luxembourg.",
-    "t": 711.9
+    "t": 713.21
    },
    {
     "speaker": "Anna",
     "text": "Trois principales. Une allocation de naissance de plus de mille sept cents euros, en trois parts, liée aux contrôles de santé.",
-    "t": 720.32
+    "t": 721.63
    },
    {
     "speaker": "Anna",
     "text": "Une allocation familiale mensuelle pour chaque enfant — plus de trois cent cinquante euros à partir de 2027 — qui augmente à six ans et à douze ans, et qui peut durer jusqu'à vingt-cinq ans si l'enfant reste à l'école.",
-    "t": 727.27
+    "t": 728.58
    },
    {
     "speaker": "Anna",
     "text": "Et une allocation de rentrée scolaire chaque août, automatiquement.",
-    "t": 737.38
+    "t": 738.69
    },
    {
     "speaker": "Anna",
     "text": "Plus le revenu du congé parental, le chèque-service accueil, et une aide supplémentaire pour les enfants ayant des besoins particuliers.",
-    "t": 741.01
+    "t": 742.32
    },
    {
     "speaker": "Tom",
     "text": "Et le message d'aujourd'hui ?",
-    "t": 747.41
+    "t": 748.72
    },
    {
     "speaker": "Anna",
     "text": "Si tu as des enfants au Luxembourg, ce soutien est ton droit — et c'est plus facile à obtenir que les gens ne le pensent.",
-    "t": 748.96
+    "t": 750.27
    },
    {
     "speaker": "Anna",
     "text": "Un organisme, un site, et un système qui accompagne ta famille pendant des années.",
-    "t": 754.46
+    "t": 755.77
    },
    {
     "speaker": "Tom",
     "text": "Alors... que tu sois un nouveau parent, un parent expérimenté, ou un frontalier — retiens le nom.",
-    "t": 758.57
+    "t": 759.88
    },
    {
     "speaker": "Tom",
     "text": "La Zukunftskeess. cae.lu.",
-    "t": 764.74
+    "t": 765.98
    },
    {
     "speaker": "Anna",
     "text": "Une caisse, qui veille sur l'avenir de tes enfants.",
-    "t": 767.84
+    "t": 769.67
    },
    {
     "speaker": "Anna",
     "text": "C'est exactement ce que dit le nom.",
-    "t": 770.21
+    "t": 772.04
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur la Zukunftskeess.",
-    "t": 772.09
+    "t": 773.92
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 774.52
+    "t": 776.35
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 782.35
+    "t": 784.18
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 798.8
+    "t": 800.63
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 803.45
+    "t": 805.28
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 805.23
+    "t": 807.06
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 809.61
+    "t": 811.44
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 810.84
+    "t": 812.67
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 813.3
+    "t": 815.13
    }
   ],
   "segments_de": [
@@ -42992,1082 +42992,1082 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Anna",
     "text": "Und das heutige Thema bringt viel Freude, und auch viele Fragen.",
-    "t": 27.3
+    "t": 27.32
    },
    {
     "speaker": "Anna",
     "text": "Es geht um Kinder — und um das Geld und die Unterstützung, die der Staat den Familien gibt.",
-    "t": 31.04
+    "t": 31.06
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt eine Stelle, die im Zentrum von all dem steht.",
-    "t": 36.72
+    "t": 36.74
    },
    {
     "speaker": "Tom",
     "text": "Anna, sag uns ihren Namen.",
-    "t": 39.91
+    "t": 39.93
    },
    {
     "speaker": "Anna",
     "text": "Sie heißt die Zukunftskeess.",
-    "t": 42.16
+    "t": 42.18
    },
    {
     "speaker": "Anna",
     "text": "Auf Deutsch ist das die Zukunftskasse (Caisse pour l'avenir des enfants).",
-    "t": 44.27
+    "t": 44.29
    },
    {
     "speaker": "Anna",
     "text": "Die Leute benutzen auch den Kurznamen — C-A-E.",
-    "t": 48.31
+    "t": 48.33
    },
    {
     "speaker": "Tom",
     "text": "Zukunftskeess. Das ist ein schöner Name — die „Zukunftskasse\".",
-    "t": 52.23
+    "t": 52.25
    },
    {
     "speaker": "Tom",
     "text": "Fangen wir einfach an.",
-    "t": 56.39
+    "t": 56.41
    },
    {
     "speaker": "Tom",
     "text": "Was ist das?",
-    "t": 57.67
+    "t": 57.69
    },
    {
     "speaker": "Anna",
     "text": "Die Zukunftskeess ist die offizielle staatliche Kasse, die in Luxemburg die Familienleistungen auszahlt.",
-    "t": 58.8
+    "t": 58.82
    },
    {
     "speaker": "Anna",
     "text": "Also das Geld für die Erziehung der Kinder.",
-    "t": 64.54
+    "t": 64.56
    },
    {
     "speaker": "Anna",
     "text": "Ihr Zuhause im Internet ist c-a-e Punkt l-u.",
-    "t": 67.03
+    "t": 67.05
    },
    {
     "speaker": "Tom",
     "text": "cae.lu. Und es ist offiziell — es ist der Staat.",
-    "t": 70.91
+    "t": 70.93
    },
    {
     "speaker": "Anna",
     "text": "Vollkommen offiziell. Es ist Teil des Sozialversicherungssystems.",
-    "t": 74.95
+    "t": 75.16
    },
    {
     "speaker": "Anna",
     "text": "Kein privates Unternehmen.",
-    "t": 79.33
+    "t": 79.54
    },
    {
     "speaker": "Anna",
     "text": "Und sie kümmert sich um alle wichtigen Leistungen, die mit dem Bekommen und Großziehen von Kindern zusammenhängen.",
-    "t": 81.2
+    "t": 81.41
    },
    {
     "speaker": "Tom",
     "text": "Okay. Wenn ich also ein Baby bekomme, oder schon Kinder habe, dann ist das die Stelle, die mir hilft.",
-    "t": 87.2
+    "t": 87.41
    },
    {
     "speaker": "Anna",
     "text": "Genau. Lass mich dir zuerst den Überblick geben.",
-    "t": 94
+    "t": 94.21
    },
    {
     "speaker": "Anna",
     "text": "Es gibt eigentlich drei wichtige Geldleistungen.",
-    "t": 97.26
+    "t": 97.47
    },
    {
     "speaker": "Anna",
     "text": "Die Geburtszulage, um die Zeit herum, in der das Baby geboren wird.",
-    "t": 99.9
+    "t": 100.11
    },
    {
     "speaker": "Anna",
     "text": "Das Kindergeld, jeden Monat, während das Kind aufwächst.",
-    "t": 104.02
+    "t": 104.23
    },
    {
     "speaker": "Anna",
     "text": "Und die Schulanfangszulage, einmal im Jahr für die Schule.",
-    "t": 108.08
+    "t": 108.29
    },
    {
     "speaker": "Tom",
     "text": "Geburt, monatlich und Schulanfang.",
-    "t": 111.75
+    "t": 111.96
    },
    {
     "speaker": "Tom",
     "text": "Nehmen wir sie einzeln durch.",
-    "t": 114.66
+    "t": 114.87
    },
    {
     "speaker": "Tom",
     "text": "Fangen wir mit der Geburt an.",
-    "t": 116.41
+    "t": 116.62
    },
    {
     "speaker": "Anna",
     "text": "Also, die Geburtszulage — das ist ein fester Betrag, der rund um die Geburt eines Kindes gezahlt wird.",
-    "t": 118.19
+    "t": 118.4
    },
    {
     "speaker": "Anna",
     "text": "Insgesamt sind das mehr als eintausendsiebenhundert Euro — und ab 2027 steigt sie mit den Lebenshaltungskosten.",
-    "t": 125.37
+    "t": 125.58
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine echte Hilfe, genau dann, wenn eine Familie sie braucht.",
-    "t": 133.32
+    "t": 133.53
    },
    {
     "speaker": "Tom",
     "text": "Und wird sie auf einmal gezahlt?",
-    "t": 137.39
+    "t": 137.6
    },
    {
     "speaker": "Anna",
     "text": "Nein — und das ist das Clevere daran.",
-    "t": 139.37
+    "t": 139.58
    },
    {
     "speaker": "Anna",
     "text": "Sie kommt in drei gleichen Teilen, von je fast sechshundert Euro.",
-    "t": 142.06
+    "t": 142.27
    },
    {
     "speaker": "Anna",
     "text": "Und jeder Teil ist daran gebunden, sich um Mutter und Baby zu kümmern.",
-    "t": 145.91
+    "t": 146.12
    },
    {
     "speaker": "Tom",
     "text": "Erzähl mir von den drei Teilen.",
-    "t": 150.13
+    "t": 150.34
    },
    {
     "speaker": "Anna",
     "text": "Der erste ist die vorgeburtliche Zulage — vor der Geburt.",
-    "t": 152.04
+    "t": 152.25
    },
    {
     "speaker": "Anna",
     "text": "Um sie zu bekommen, geht die werdende Mutter während der Schwangerschaft zu ihren ärztlichen Untersuchungen — Untersuchungen beim Arzt, und auch eine zahnärztliche Kontrolle.",
-    "t": 156.3
+    "t": 156.51
    },
    {
     "speaker": "Tom",
     "text": "Der erste Teil belohnt also, dass man während der Schwangerschaft auf sich, und auf das Baby, achtet.",
-    "t": 166.2
+    "t": 166.41
    },
    {
     "speaker": "Anna",
     "text": "Genau. Der zweite Teil ist die Geburtszulage selbst — gezahlt nach der Geburt, mit einer Untersuchung für die Mutter.",
-    "t": 172.08
+    "t": 172.29
    },
    {
     "speaker": "Anna",
     "text": "Und der dritte Teil ist die nachgeburtliche Zulage — gezahlt nach den ärztlichen Untersuchungen des Kindes in den ersten beiden Lebensjahren.",
-    "t": 179.41
+    "t": 179.62
    },
    {
     "speaker": "Tom",
     "text": "Ah, ich sehe die Idee.",
-    "t": 187.97
+    "t": 188.18
    },
    {
     "speaker": "Tom",
     "text": "Das Geld ist an Gesundheitskontrollen gebunden — für die Mutter und für das Baby.",
-    "t": 189.54
+    "t": 189.75
    },
    {
     "speaker": "Anna",
     "text": "Das ist die ganze Philosophie.",
-    "t": 194.09
+    "t": 194.3
    },
    {
     "speaker": "Anna",
     "text": "Es ist nicht nur Geld — es ist eine sanfte Art, sicherzustellen, dass Mutter und Kind zur richtigen Zeit zum Arzt gehen.",
-    "t": 196.02
+    "t": 196.23
    },
    {
     "speaker": "Anna",
     "text": "Und hier ein schönes Detail — die drei Teile sind unabhängig.",
-    "t": 202.71
+    "t": 202.92
    },
    {
     "speaker": "Anna",
     "text": "Wenn du die Bedingungen für einen Teil nicht erfüllst, kannst du die anderen trotzdem bekommen.",
-    "t": 206.73
+    "t": 206.94
    },
    {
     "speaker": "Tom",
     "text": "Gut zu wissen.",
-    "t": 211.99
+    "t": 212.2
    },
    {
     "speaker": "Tom",
     "text": "Und wie lange hat man Zeit für den Antrag?",
-    "t": 213
+    "t": 213.21
    },
    {
     "speaker": "Anna",
     "text": "In der Regel innerhalb eines Jahres — für die ersten beiden Teile, innerhalb eines Jahres nach der Geburt.",
-    "t": 215.48
+    "t": 215.69
    },
    {
     "speaker": "Anna",
     "text": "Und für den nachgeburtlichen Teil, innerhalb eines Jahres nach dem zweiten Geburtstag des Kindes.",
-    "t": 221.84
+    "t": 222.05
    },
    {
     "speaker": "Anna",
     "text": "Die Formulare bekommst du von deinem Arzt, von der Geburtsklinik, oder von der Gemeinde — und du schickst sie an die Zukunftskeess.",
-    "t": 227.53
+    "t": 227.74
    },
    {
     "speaker": "Tom",
     "text": "Perfekt. Okay — das war die Geburt.",
-    "t": 235.17
+    "t": 235.38
    },
    {
     "speaker": "Tom",
     "text": "Jetzt die große, denke ich.",
-    "t": 237.98
+    "t": 238.19
    },
    {
     "speaker": "Tom",
     "text": "Das monatliche Kindergeld.",
-    "t": 239.49
+    "t": 239.7
    },
    {
     "speaker": "Anna",
     "text": "Ja. Das ist die, die die meisten Leute kennen.",
-    "t": 241.38
+    "t": 241.59
    },
    {
     "speaker": "Anna",
     "text": "Auf Luxemburgisch sagen die Leute oft einfach „Kannergeld\" — Kindergeld.",
-    "t": 244.79
+    "t": 245
    },
    {
     "speaker": "Anna",
     "text": "Es wird jeden einzelnen Monat gezahlt, für jedes Kind.",
-    "t": 249.74
+    "t": 249.95
    },
    {
     "speaker": "Tom",
     "text": "Von wann bis wann?",
-    "t": 253.45
+    "t": 253.66
    },
    {
     "speaker": "Anna",
     "text": "Ab dem Monat, in dem das Kind geboren wird, bis es achtzehn wird.",
-    "t": 254.78
+    "t": 254.99
    },
    {
     "speaker": "Anna",
     "text": "Und — das ist wichtig — es kann bis zum Alter von fünfundzwanzig Jahren weiterlaufen, wenn der junge Mensch noch im Gymnasium ist, oder eine Lehre macht.",
-    "t": 258.59
+    "t": 258.8
    },
    {
     "speaker": "Tom",
     "text": "Solange das Kind also noch zur Schule geht, läuft die Unterstützung weiter.",
-    "t": 268.11
+    "t": 268.32
    },
    {
     "speaker": "Tom",
     "text": "Und wie viel ist es?",
-    "t": 272.12
+    "t": 272.33
    },
    {
     "speaker": "Anna",
     "text": "Es wird pro Kind, pro Monat festgelegt.",
-    "t": 273.56
+    "t": 273.77
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt gute Nachrichten: Ein neues Gesetz erhöht es ab Januar 2027.",
-    "t": 276.34
+    "t": 276.55
    },
    {
     "speaker": "Anna",
     "text": "Ab dann sind es mehr als dreihundertfünfzig Euro pro Kind jeden Monat.",
-    "t": 281.98
+    "t": 282.19
    },
    {
     "speaker": "Anna",
     "text": "Und hier ein wichtiger Punkt — es steigt, während das Kind älter wird.",
-    "t": 286.35
+    "t": 286.56
    },
    {
     "speaker": "Tom",
     "text": "Es steigt? Wie funktioniert das?",
-    "t": 291.46
+    "t": 291.67
    },
    {
     "speaker": "Anna",
     "text": "Es gibt zwei Stufen nach oben.",
-    "t": 293.84
+    "t": 294.05
    },
    {
     "speaker": "Anna",
     "text": "Der Betrag erhöht sich, wenn das Kind sechs wird.",
-    "t": 295.72
+    "t": 295.93
    },
    {
     "speaker": "Anna",
     "text": "Und er erhöht sich noch einmal, wenn das Kind zwölf wird.",
-    "t": 298.44
+    "t": 298.65
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist einfach — ältere Kinder kosten mehr.",
-    "t": 301.64
+    "t": 301.85
    },
    {
     "speaker": "Tom",
     "text": "Das ergibt Sinn — Teenager sind teuer!",
-    "t": 305.15
+    "t": 305.36
    },
    {
     "speaker": "Tom",
     "text": "Ein kleines Kind bekommt also den Grundbetrag, ein Kind über sechs bekommt etwas mehr, und ein Kind über zwölf bekommt noch mehr.",
-    "t": 307.69
+    "t": 307.9
    },
    {
     "speaker": "Anna",
     "text": "Genau. Jetzt — eine Sache, bei der ich ehrlich sein muss.",
-    "t": 314.96
+    "t": 315.17
    },
    {
     "speaker": "Anna",
     "text": "Diese Beträge sind an die Lebenshaltungskosten gebunden.",
-    "t": 318.61
+    "t": 318.82
    },
    {
     "speaker": "Anna",
     "text": "Sie steigen mit der Zeit, mit dem sogenannten Index.",
-    "t": 321.77
+    "t": 321.98
    },
    {
     "speaker": "Anna",
     "text": "Und ab 2027 gilt das auch für die Geburtszulage, die Schulanfangszulage und die Sonderzulage für Kinder mit einer Behinderung.",
-    "t": 325.46
+    "t": 325.67
    },
    {
     "speaker": "Anna",
     "text": "Für die genaue Zahl von heute schaust du also auf die offizielle Seite — das ist die Seite „soziale Parameter\" auf guichet Punkt l-u.",
-    "t": 334.01
+    "t": 334.22
    },
    {
     "speaker": "Tom",
     "text": "Gut. Wir geben die Idee, aber die genaue Zahl — immer die offizielle Quelle prüfen.",
-    "t": 342.29
+    "t": 342.5
    },
    {
     "speaker": "Tom",
     "text": "Wann wird das Geld eigentlich jeden Monat gezahlt?",
-    "t": 347.8
+    "t": 348.01
    },
    {
     "speaker": "Anna",
     "text": "Jeden Monat, und spätestens bis zum fünfundzwanzigsten des Monats.",
-    "t": 350.53
+    "t": 350.74
    },
    {
     "speaker": "Anna",
     "text": "Es landet an diesem Tag oder am nächsten auf deinem Bankkonto — oder ein, zwei Tage später bei einer Bank im Ausland.",
-    "t": 354.77
+    "t": 354.98
    },
    {
     "speaker": "Anna",
     "text": "Es ist also regelmäßiges, verlässliches Geld, auf das du dich verlassen kannst.",
-    "t": 361.66
+    "t": 361.87
    },
    {
     "speaker": "Tom",
     "text": "Und muss ich es jeden Monat neu beantragen?",
-    "t": 366.26
+    "t": 366.47
    },
    {
     "speaker": "Anna",
     "text": "Nein. Du beantragst es einmal, wenn das Kind geboren wird oder wenn du nach Luxemburg kommst.",
-    "t": 368.76
+    "t": 368.97
    },
    {
     "speaker": "Anna",
     "text": "Danach kommt es einfach automatisch.",
-    "t": 374.22
+    "t": 374.43
    },
    {
     "speaker": "Anna",
     "text": "Du musst die Zukunftskeess nur informieren, wenn sich etwas ändert.",
-    "t": 376.56
+    "t": 376.77
    },
    {
     "speaker": "Tom",
     "text": "Okay. Das waren also Geburt und monatlich.",
-    "t": 380.26
+    "t": 380.47
    },
    {
     "speaker": "Tom",
     "text": "Jetzt die dritte — der Schulanfang.",
-    "t": 383.3
+    "t": 383.51
    },
    {
     "speaker": "Anna",
     "text": "Ja — die Schulanfangszulage.",
-    "t": 385.59
+    "t": 385.8
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein zusätzlicher Betrag, einmal im Jahr, um die Kosten des Schulanfangs zu unterstützen.",
-    "t": 388.24
+    "t": 388.45
    },
    {
     "speaker": "Anna",
     "text": "Bücher, Taschen, Schulsachen.",
-    "t": 393.38
+    "t": 393.59
    },
    {
     "speaker": "Tom",
     "text": "Jedes Elternteil kennt dieses Gefühl im August — alles für das neue Schuljahr zu kaufen.",
-    "t": 396.25
+    "t": 396.46
    },
    {
     "speaker": "Anna",
     "text": "Genau. Und hier die gute Nachricht — du musst sie nicht extra beantragen.",
-    "t": 401.78
+    "t": 401.99
    },
    {
     "speaker": "Anna",
     "text": "Wenn dein Kind schon das Kindergeld bekommt, kommt die Schulanfangszulage automatisch.",
-    "t": 406.54
+    "t": 406.75
    },
    {
     "speaker": "Tom",
     "text": "Automatisch. Das gefällt mir.",
-    "t": 411.1
+    "t": 411.31
    },
    {
     "speaker": "Tom",
     "text": "Und wann kommt sie?",
-    "t": 413.14
+    "t": 413.35
    },
    {
     "speaker": "Anna",
     "text": "Im August, kurz vor dem Schuljahr.",
-    "t": 414.52
+    "t": 414.73
    },
    {
     "speaker": "Anna",
     "text": "Und der Betrag hängt vom Alter des Kindes ab.",
-    "t": 416.79
+    "t": 417
    },
    {
     "speaker": "Anna",
     "text": "Mit dem neuen Gesetz sind es ab 2027 mehr als einhundertfünfundsiebzig Euro für Kinder von sechs bis elf Jahren.",
-    "t": 419.44
+    "t": 419.65
    },
    {
     "speaker": "Anna",
     "text": "Und mehr als dreihundertfünfundzwanzig Euro für Kinder ab zwölf Jahren.",
-    "t": 427.5
+    "t": 427.71
    },
    {
     "speaker": "Tom",
     "text": "Also auch hier — älteres Kind, höherer Betrag.",
-    "t": 431.87
+    "t": 432.08
    },
    {
     "speaker": "Tom",
     "text": "Dieselbe Logik.",
-    "t": 435.29
+    "t": 435.5
    },
    {
     "speaker": "Anna",
     "text": "Dieselbe Logik durchgehend.",
-    "t": 436.6
+    "t": 436.81
    },
    {
     "speaker": "Anna",
     "text": "Jüngere Kinder, Grundbeträge.",
-    "t": 438.36
+    "t": 438.57
    },
    {
     "speaker": "Anna",
     "text": "Ältere Kinder, mehr Unterstützung.",
-    "t": 440.64
+    "t": 440.85
    },
    {
     "speaker": "Tom",
     "text": "Anna, lass mich nach einer Sorge fragen, die viele Familien haben.",
-    "t": 443.32
+    "t": 443.53
    },
    {
     "speaker": "Tom",
     "text": "Was ist mit den Grenzgängern?",
-    "t": 447.27
+    "t": 447.48
    },
    {
     "speaker": "Tom",
     "text": "Menschen, die in Luxemburg arbeiten, aber in Frankreich, Belgien oder Deutschland leben?",
-    "t": 448.98
+    "t": 449.19
    },
    {
     "speaker": "Anna",
     "text": "Tolle Frage — und hier sehr wichtig, weil so viele Menschen pendeln.",
-    "t": 453.8
+    "t": 454.01
    },
    {
     "speaker": "Anna",
     "text": "Die kurze Antwort ist — ja, wenn du in Luxemburg arbeitest und in das luxemburgische Sozialversicherungssystem einzahlst, können deine Kinder Anspruch auf das Kindergeld haben, auch wenn sie jenseits der Grenze leben.",
-    "t": 458.12
+    "t": 458.33
    },
    {
     "speaker": "Tom",
     "text": "Auch wenn die Kinder in einem anderen Land leben?",
-    "t": 470.78
+    "t": 470.99
    },
    {
     "speaker": "Anna",
     "text": "Auch dann. Das kommt von den europäischen Regeln.",
-    "t": 473.45
+    "t": 473.66
    },
    {
     "speaker": "Anna",
     "text": "Jetzt gibt es ein Detail — wenn du in deinem Wohnland schon eine Familienleistung bekommst, zahlt Luxemburg nicht doppelt.",
-    "t": 476.67
+    "t": 476.88
    },
    {
     "speaker": "Anna",
     "text": "Es zahlt die Differenz — den sogenannten Unterschiedsbetrag — sodass du den höheren der beiden bekommst.",
-    "t": 483.41
+    "t": 483.62
    },
    {
     "speaker": "Tom",
     "text": "Du stehst also nicht schlechter da.",
-    "t": 489.61
+    "t": 489.82
    },
    {
     "speaker": "Tom",
     "text": "Du wirst auf das luxemburgische Niveau aufgestockt.",
-    "t": 491.72
+    "t": 491.93
    },
    {
     "speaker": "Anna",
     "text": "Das ist die Idee.",
-    "t": 494.89
+    "t": 495.1
    },
    {
     "speaker": "Anna",
     "text": "Und es funktioniert auch für Rentner — ein pensionierter Grenzgänger mit einer luxemburgischen Rente behält den Anspruch auf das Kindergeld.",
-    "t": 496.23
+    "t": 496.44
    },
    {
     "speaker": "Anna",
     "text": "Und ab 2027 stellt ein neues Gesetz noch etwas klar: Auch die Kinder deines Mannes, deiner Frau oder deines Partners können zählen — wenn sie hauptsächlich bei dir leben, oder wenn du zeigen kannst, dass du wirklich für sie sorgst.",
-    "t": 503.47
+    "t": 503.68
    },
    {
     "speaker": "Tom",
     "text": "Das ist beruhigend für viele Familien.",
-    "t": 518.51
+    "t": 518.72
    },
    {
     "speaker": "Tom",
     "text": "Jetzt — reden wir darüber, wie man eigentlich mit der Zukunftskeess umgeht.",
-    "t": 520.73
+    "t": 520.94
    },
    {
     "speaker": "Tom",
     "text": "Ist es viel Papierkram?",
-    "t": 525.1
+    "t": 525.31
    },
    {
     "speaker": "Anna",
     "text": "Es ist viel einfacher als früher.",
-    "t": 526.86
+    "t": 527.07
    },
    {
     "speaker": "Anna",
     "text": "Die meisten Dinge kann man online erledigen, über MyGuichet.lu — die digitale Plattform des Staates.",
-    "t": 528.82
+    "t": 529.03
    },
    {
     "speaker": "Anna",
     "text": "Du kannst dort das Kindergeld beantragen, mit einer sicheren Anmeldung wie LuxTrust oder der eID-Karte.",
-    "t": 535.88
+    "t": 536.09
    },
    {
     "speaker": "Tom",
     "text": "Ah, MyGuichet.lu — darüber haben wir in einer anderen Folge gesprochen.",
-    "t": 542.64
+    "t": 542.85
    },
    {
     "speaker": "Anna",
     "text": "Genau — es ist die Online-Tür zur Verwaltung.",
-    "t": 547.68
+    "t": 547.89
    },
    {
     "speaker": "Anna",
     "text": "Und darüber kannst du auch Dokumente an die Zukunftskeess schicken, oder deine Bankdaten ändern.",
-    "t": 550.8
+    "t": 551.01
    },
    {
     "speaker": "Anna",
     "text": "Es gibt sogar einen Online-Assistenten, der dich Schritt für Schritt durch den Kindergeldantrag führt.",
-    "t": 555.57
+    "t": 555.78
    },
    {
     "speaker": "Anna",
     "text": "Und wenn du eine Zahlungsbescheinigung brauchst, gibt es ein einfaches Online-Formular auf der Website der Zukunftskeess.",
-    "t": 560.69
+    "t": 560.9
    },
    {
     "speaker": "Tom",
     "text": "Und wenn sich jemand online nicht wohlfühlt?",
-    "t": 567.21
+    "t": 567.42
    },
    {
     "speaker": "Anna",
     "text": "Dann kannst du es immer noch auf Papier machen.",
-    "t": 569.6
+    "t": 569.81
    },
    {
     "speaker": "Anna",
     "text": "Die Formulare sind auf der Website, und auch bei der Gemeinde.",
-    "t": 572.1
+    "t": 572.31
    },
    {
     "speaker": "Anna",
     "text": "Du füllst sie aus und schickst sie per Post.",
-    "t": 575.24
+    "t": 575.45
    },
    {
     "speaker": "Anna",
     "text": "Und wenn du Fragen hast, kannst du die Zukunftskeess anrufen, oder ihre Büros besuchen — sie sind am Boulevard Royal, in Luxemburg-Stadt.",
-    "t": 577.7
+    "t": 577.91
    },
    {
     "speaker": "Tom",
     "text": "Es gibt also immer einen Weg — online, per Post oder persönlich.",
-    "t": 586.36
+    "t": 586.57
    },
    {
     "speaker": "Tom",
     "text": "Jetzt Anna, sind diese drei Leistungen alles, was die Zukunftskeess macht?",
-    "t": 590.68
+    "t": 590.89
    },
    {
     "speaker": "Tom",
     "text": "Oder gibt es mehr?",
-    "t": 595.32
+    "t": 595.53
    },
    {
     "speaker": "Anna",
     "text": "Es gibt mehr.",
-    "t": 596.65
+    "t": 596.86
    },
    {
     "speaker": "Anna",
     "text": "Lass mich zwei weitere wichtige Dinge erwähnen, an denen sie beteiligt ist.",
-    "t": 597.64
+    "t": 597.85
    },
    {
     "speaker": "Anna",
     "text": "Erstens — für Eltern, die sich vom Job freinehmen, um sich um ein kleines Kind zu kümmern, gibt es den Elternurlaub, und die Zukunftskeess zahlt während dieser Zeit das Einkommen für den Elternurlaub.",
-    "t": 601.97
+    "t": 602.18
    },
    {
     "speaker": "Tom",
     "text": "Wenn also eine Mama oder ein Papa für das Baby den Job pausiert, steht sie oder er nicht mit nichts da.",
-    "t": 613.88
+    "t": 614.09
    },
    {
     "speaker": "Anna",
     "text": "Richtig — es gibt ein Ersatzeinkommen, während sie im Elternurlaub sind.",
-    "t": 620.23
+    "t": 620.44
    },
    {
     "speaker": "Anna",
     "text": "Und zweitens — es gibt den Betreuungsgutschein, den chèque-service accueil.",
-    "t": 624.52
+    "t": 624.73
    },
    {
     "speaker": "Anna",
     "text": "Er macht Kinderkrippen, Tagesbetreuung und betreute Aktivitäten für Familien günstiger.",
-    "t": 629.94
+    "t": 630.15
    },
    {
     "speaker": "Tom",
     "text": "Das ist also eine Hilfe bei den Kosten für die Kinderbetreuung — die eine riesige Ausgabe sein kann.",
-    "t": 635.08
+    "t": 635.29
    },
    {
     "speaker": "Anna",
     "text": "Eine riesige Ausgabe, ja.",
-    "t": 640.78
+    "t": 640.99
    },
    {
     "speaker": "Anna",
     "text": "Die Zukunftskeess steht also wirklich im Zentrum des Familienlebens — von der Schwangerschaft, über die Babyjahre, die Schule, die Kinderbetreuung, bis zur Auszeit vom Job.",
-    "t": 642.64
+    "t": 642.85
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt auch zusätzliche Unterstützung für Kinder mit besonderen Bedürfnissen, nicht wahr?",
-    "t": 654.22
+    "t": 654.43
    },
    {
     "speaker": "Anna",
     "text": "Die gibt es.",
-    "t": 659.12
+    "t": 659.33
    },
    {
     "speaker": "Anna",
     "text": "Für ein Kind mit einer Behinderung gibt es eine besondere Zusatzzulage zusätzlich zum normalen Kindergeld.",
-    "t": 660.19
+    "t": 660.4
    },
    {
     "speaker": "Anna",
     "text": "Familien, die mehr Hilfe brauchen, bekommen also mehr Hilfe.",
-    "t": 666.52
+    "t": 666.73
    },
    {
     "speaker": "Tom",
     "text": "Das ist ein fürsorgliches System.",
-    "t": 670.32
+    "t": 670.53
    },
    {
     "speaker": "Tom",
     "text": "Anna, machen wir es ganz konkret.",
-    "t": 672.54
+    "t": 672.75
    },
    {
     "speaker": "Tom",
     "text": "Können wir eine Familie verfolgen?",
-    "t": 674.88
+    "t": 675.09
    },
    {
     "speaker": "Anna",
     "text": "Natürlich. Stellen wir uns ein Paar vor — sie erwarten ihr erstes Baby.",
-    "t": 676.86
+    "t": 677.07
    },
    {
     "speaker": "Tom",
     "text": "Aufregend! Wo kommt die Zukunftskeess also ins Spiel, ganz von Anfang an?",
-    "t": 681.28
+    "t": 681.49
    },
    {
     "speaker": "Anna",
     "text": "Schon vor der Geburt.",
-    "t": 686.18
+    "t": 686.39
    },
    {
     "speaker": "Anna",
     "text": "Während der Schwangerschaft geht die Mutter zu ihren Untersuchungen, und zum Zahnarztbesuch — und das öffnet den ersten Teil der Geburtszulage, den vorgeburtlichen Teil.",
-    "t": 687.66
+    "t": 687.87
    },
    {
     "speaker": "Anna",
     "text": "Fast sechshundert Euro.",
-    "t": 697
+    "t": 697.21
    },
    {
     "speaker": "Tom",
     "text": "Dann kommt das Baby.",
-    "t": 698.93
+    "t": 699.14
    },
    {
     "speaker": "Anna",
     "text": "Das Baby kommt.",
-    "t": 700.43
+    "t": 700.64
    },
    {
     "speaker": "Anna",
     "text": "Sie melden die Geburt bei der Gemeinde an, und das löst den zweiten Teil der Geburtszulage aus.",
-    "t": 701.7
+    "t": 701.91
    },
    {
     "speaker": "Anna",
     "text": "Und sie stellen einen Antrag auf das monatliche Kindergeld — über MyGuichet.lu.",
-    "t": 707.07
+    "t": 707.28
    },
    {
     "speaker": "Tom",
     "text": "Und von da an beginnt das monatliche Geld.",
-    "t": 713.13
+    "t": 713.34
    },
    {
     "speaker": "Anna",
     "text": "Jeden Monat, bis zum fünfundzwanzigsten — mehr als dreihundertfünfzig Euro, automatisch.",
-    "t": 715.66
+    "t": 715.87
    },
    {
     "speaker": "Anna",
     "text": "Dann, über die ersten beiden Jahre, bringen sie das Baby zu seinen ärztlichen Untersuchungen, und das schaltet den dritten Teil der Geburtszulage frei.",
-    "t": 721.78
+    "t": 721.99
    },
    {
     "speaker": "Tom",
     "text": "In den ersten beiden Jahren haben sie also alle drei Teile der Geburtszulage bekommen, plus das monatliche Kindergeld.",
-    "t": 730.07
+    "t": 730.28
    },
    {
     "speaker": "Anna",
     "text": "Genau. Das Kind wird sechs — der monatliche Betrag steigt um eine Stufe, und die Schulanfangszulage beginnt jeden August.",
-    "t": 736.99
+    "t": 737.2
    },
    {
     "speaker": "Anna",
     "text": "Das Kind wird zwölf — eine weitere Stufe nach oben.",
-    "t": 744.97
+    "t": 745.18
    },
    {
     "speaker": "Anna",
     "text": "Und alles läuft weiter, die ganze Schulzeit hindurch, möglicherweise bis zum Alter von fünfundzwanzig Jahren.",
-    "t": 748.13
+    "t": 748.34
    },
    {
     "speaker": "Tom",
     "text": "Und die Eltern haben eigentlich nur eine große Sache gemacht — sie haben einmal den Antrag gestellt, und ihre Daten aktuell gehalten.",
-    "t": 755.11
+    "t": 755.32
    },
    {
     "speaker": "Anna",
     "text": "Das ist das Schöne daran.",
-    "t": 761.89
+    "t": 762.1
    },
    {
     "speaker": "Anna",
     "text": "Einmal beantragen, deine Informationen aktuell halten, und die Unterstützung fließt.",
-    "t": 763.43
+    "t": 763.64
    },
    {
     "speaker": "Anna",
     "text": "Ruhig und vorhersehbar, durch die ganze Kindheit.",
-    "t": 768.59
+    "t": 768.8
    },
    {
     "speaker": "Tom",
     "text": "Dieses Bild gefällt mir wirklich.",
-    "t": 771.97
+    "t": 772.18
    },
    {
     "speaker": "Tom",
     "text": "Okay Anna — bringen wir es auf den Punkt.",
-    "t": 773.81
+    "t": 774.02
    },
    {
     "speaker": "Tom",
     "text": "Wenn ich gerade zuhöre, und Kinder habe, oder eines unterwegs ist — was soll ich tun?",
-    "t": 776.47
+    "t": 776.68
    },
    {
     "speaker": "Anna",
     "text": "Drei einfache Schritte.",
-    "t": 782.11
+    "t": 782.32
    },
    {
     "speaker": "Anna",
     "text": "Erstens — geh auf die Website, c-a-e Punkt l-u, oder auf MyGuichet.lu.",
-    "t": 783.65
+    "t": 783.86
    },
    {
     "speaker": "Anna",
     "text": "Da fängt alles an.",
-    "t": 791.44
+    "t": 791.65
    },
    {
     "speaker": "Tom",
     "text": "cae.lu. Verstanden.",
-    "t": 792.87
+    "t": 793.08
    },
    {
     "speaker": "Anna",
     "text": "Zweitens — wenn du ein Kind erwartest, beginne früh mit der Geburtszulage, indem du zu deinen Untersuchungen gehst, und beantrage das monatliche Kindergeld, wenn das Baby geboren wird.",
-    "t": 795.08
+    "t": 795.66
    },
    {
     "speaker": "Anna",
     "text": "Du machst es nur einmal.",
-    "t": 805.85
+    "t": 806.43
    },
    {
     "speaker": "Tom",
     "text": "Und drittens?",
-    "t": 807.77
+    "t": 808.35
    },
    {
     "speaker": "Anna",
     "text": "Drittens — halte deine Daten aktuell, vor allem dein Bankkonto und deine Situation.",
-    "t": 808.95
+    "t": 809.53
    },
    {
     "speaker": "Anna",
     "text": "Und wenn dein Kind achtzehn wird, aber in der Schule bleibt, schick das Formular zurück, damit das Kindergeld bis fünfundzwanzig weiterläuft — das geht jetzt auch online, auf MyGuichet.lu.",
-    "t": 814.83
+    "t": 815.41
    },
    {
     "speaker": "Tom",
     "text": "Und für die Grenzgänger?",
-    "t": 826.24
+    "t": 826.82
    },
    {
     "speaker": "Anna",
     "text": "Dieselbe Stelle, dieselbe Website.",
-    "t": 827.8
+    "t": 828.38
    },
    {
     "speaker": "Anna",
     "text": "Wenn du in Luxemburg arbeitest, können deine Kinder auch Anspruch haben — geh also nicht davon aus, dass du nicht berechtigt bist.",
-    "t": 829.99
+    "t": 830.57
    },
    {
     "speaker": "Anna",
     "text": "Erkundige dich bei der Zukunftskeess.",
-    "t": 837.46
+    "t": 838.04
    },
    {
     "speaker": "Tom",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 840.17
+    "t": 840.75
    },
    {
     "speaker": "Anna",
     "text": "Klar. Die Zukunftskeess — die Zukunftskasse (Caisse pour l'avenir des enfants), cae.lu — ist die staatliche Stelle für Familienleistungen in Luxemburg.",
-    "t": 842.42
+    "t": 843
    },
    {
     "speaker": "Anna",
     "text": "Drei wichtige. Eine Geburtszulage von mehr als eintausendsiebenhundert Euro, in drei Teilen, an Gesundheitskontrollen gebunden.",
-    "t": 853.24
+    "t": 854.65
    },
    {
     "speaker": "Anna",
     "text": "Ein monatliches Kindergeld für jedes Kind — mehr als dreihundertfünfzig Euro ab 2027 — das mit sechs und mit zwölf Jahren steigt, und bis fünfundzwanzig dauern kann, wenn das Kind in der Schule bleibt.",
-    "t": 861.12
+    "t": 862.53
    },
    {
     "speaker": "Anna",
     "text": "Und eine Schulanfangszulage jeden August, automatisch.",
-    "t": 874.29
+    "t": 875.7
    },
    {
     "speaker": "Anna",
     "text": "Dazu das Einkommen für den Elternurlaub, Betreuungsgutscheine, und zusätzliche Hilfe für Kinder mit besonderen Bedürfnissen.",
-    "t": 878.48
+    "t": 879.89
    },
    {
     "speaker": "Tom",
     "text": "Und die Botschaft für heute?",
-    "t": 886.37
+    "t": 887.78
    },
    {
     "speaker": "Anna",
     "text": "Wenn du Kinder in Luxemburg hast, steht dir diese Unterstützung von Rechts wegen zu — und sie ist leichter zu bekommen, als die Leute denken.",
-    "t": 887.99
+    "t": 889.4
    },
    {
     "speaker": "Anna",
     "text": "Eine Stelle, eine Website, und ein System, das jahrelang an der Seite deiner Familie geht.",
-    "t": 895.61
+    "t": 897.02
    },
    {
     "speaker": "Tom",
     "text": "Also... ob du ein frischgebackenes Elternteil bist, ein alter Hase, oder ein Grenzgänger — merk dir den Namen.",
-    "t": 901.25
+    "t": 902.66
    },
    {
     "speaker": "Tom",
     "text": "Die Zukunftskeess. cae.lu.",
-    "t": 908.56
+    "t": 909.95
    },
    {
     "speaker": "Anna",
     "text": "Eine Kasse, die sich um die Zukunft deiner Kinder kümmert.",
-    "t": 911.98
+    "t": 914.1
    },
    {
     "speaker": "Anna",
     "text": "Genau das sagt der Name.",
-    "t": 915.1
+    "t": 917.22
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die Zukunftskeess.",
-    "t": 916.91
+    "t": 919.03
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 920.15
+    "t": 922.27
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 929.39
+    "t": 931.51
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 947.72
+    "t": 949.84
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 953.42
+    "t": 955.54
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 955.67
+    "t": 957.79
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 960.56
+    "t": 962.68
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 961.71
+    "t": 963.83
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 964.92
+    "t": 967.04
    }
   ],
   "segments_lb": [
@@ -44089,456 +44089,456 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "An et gëtt ee Büro, deen am Mëttelpunkt vun all deem steet. Anna, sag eis säin Numm.",
-    "t": 36.49
+    "t": 37.76
    },
    {
     "speaker": "Anna",
     "text": "Et heescht d'Zukunftskeess. Op Däitsch kéint een soen den Zukunftsfong fir d'Kanner. Op Franséisch ass et d'Caisse pour l'avenir des enfants. D'Leit benotzen och de kuerzen Numm — C-A-E.",
-    "t": 40.74
+    "t": 42.01
    },
    {
     "speaker": "Tom",
     "text": "Zukunftskeess. Dat ass e schéinen Numm — d'Keess fir d'Zukunft. Loosse mer einfach ufänken. Wat ass dat?",
-    "t": 52.52
+    "t": 53.58
    },
    {
     "speaker": "Anna",
     "text": "D'Zukunftskeess ass den offizielle Staatsfong, dee zu Lëtzebuerg d'Familljeleeschtungen auszilt. Also d'Suen fir d'Kanner grouss ze zéien. Säin Heem am Internet ass c-a-e Punkt l-u.",
-    "t": 58.44
+    "t": 59.82
    },
    {
     "speaker": "Tom",
     "text": "cae.lu. An et ass offiziell — et ass de Staat.",
-    "t": 69.52
+    "t": 71.02
    },
    {
     "speaker": "Anna",
     "text": "Komplett offiziell. Et ass Deel vun der sozialer Sécherheet. Keng privat Firma. An et këmmert sech ëm all déi wichteg Leeschtungen, déi mam Kannerkréien an Opzéie verbonne sinn.",
-    "t": 73.12
+    "t": 74.44
    },
    {
     "speaker": "Tom",
     "text": "Okay. Also wann ech e Boby kréien, oder schonn Kanner hunn, ass dat de Büro, deen mer hëlleft.",
-    "t": 82.95
+    "t": 84.27
    },
    {
     "speaker": "Anna",
     "text": "Genau. Loosse mech der fir d'éischt e grousse Bléck ginn. Et gi wierklech dräi Haaptleeschtungen u Suen. D'Geboortsprime, ronderëm d'Zäit, wann d'Boby gebuer gëtt. D'Kannergeld, all Mount, wéi d'Kand grouss gëtt. An d'Schoulufanksallocatioun, eemol am Joer fir d'Schoul.",
-    "t": 88.39
+    "t": 89.71
    },
    {
     "speaker": "Tom",
     "text": "Geboort, all Mount, an Schoulufank. Loosse mer se eent no deem aneren huelen. Fänk mat der Geboort un.",
-    "t": 104.21
+    "t": 105.53
    },
    {
     "speaker": "Anna",
     "text": "Also, d'Geboortsprime — op Franséisch d'prime de naissance. Et ass e fixe Betrag, deen ronderëm d'Geboort vun engem Kand bezuelt gëtt. Den Total ass méi wéi dausendsiwenhonnert Euro — an ab 2027 geet en mat de Liewenskäschten erop.",
-    "t": 109.61
+    "t": 110.93
    },
    {
     "speaker": "Tom",
     "text": "Dat ass eng richteg Hëllef, genee dann, wann eng Famill se brauch. A gëtt et alles op eemol bezuelt?",
-    "t": 124.8
+    "t": 126.12
    },
    {
     "speaker": "Anna",
     "text": "Nee — an dat ass de clevere Punkt. Et kënnt an dräi gläiche Stécker, vu bal sechshonnert Euro pro Stéck. An all Stéck ass mam Këmmere ëm Mamm a Boby verbonnen.",
-    "t": 129.13
+    "t": 130.45
    },
    {
     "speaker": "Tom",
     "text": "Erziel mer iwwer déi dräi Stécker.",
-    "t": 139.47
+    "t": 140.62
    },
    {
     "speaker": "Anna",
     "text": "Dat éischt ass d'pränatal Allocatioun — virun der Geboort. Fir et ze kréien, geet déi schwanger Mamm op hir medezinesch Kontrollen während der Schwangerschaft — Untersuchunge beim Dokter, an och eng Zännkontroll.",
-    "t": 141.21
+    "t": 142.36
    },
    {
     "speaker": "Tom",
     "text": "Also belount dat éischt Stéck, datt ee sech ëm sech selwer këmmert, an ëm d'Boby, während der Schwangerschaft.",
-    "t": 154.86
+    "t": 156.01
    },
    {
     "speaker": "Anna",
     "text": "Genau. Dat zweet Stéck ass d'Geboortsallocatioun selwer — bezuelt no der Geboort, mat enger Kontroll fir d'Mamm. An dat drëtt Stéck ass d'postnatal Allocatioun — bezuelt no de medezinesche Kontrolle vum Kand an den éischten zwee Liewensjoren.",
-    "t": 159.27
+    "t": 160.42
    },
    {
     "speaker": "Tom",
     "text": "Ah, ech gesinn d'Iddi. D'Suen sinn un d'Gesondheetskontrolle gebonnen — fir d'Mamm a fir d'Boby.",
-    "t": 173.43
+    "t": 174.58
    },
    {
     "speaker": "Anna",
     "text": "Dat ass déi ganz Philosophie. Et sinn net just Suen — et ass eng zaart Manéier, fir sécherzestellen, datt Mamm a Kand zur richteger Zäit beim Dokter sinn. An hei e schéinen Detail — déi dräi Stécker sinn onofhängeg. Wann s du d'Konditioune fir ee Stéck verpasss, kanns du nach ëmmer déi aner kréien.",
-    "t": 178.36
+    "t": 179.51
    },
    {
     "speaker": "Tom",
     "text": "Gutt ze wëssen. A wéi laang huet een Zäit, fir et ze froen?",
-    "t": 194.13
+    "t": 195.28
    },
    {
     "speaker": "Anna",
     "text": "Allgemeng bannent engem Joer — fir déi éischt zwee Stécker, bannent engem Joer no der Geboort. A fir den postnatalen Deel, bannent engem Joer no dem zweete Gebuertsdag vum Kand. D'Formulairë kommen vun dengem Dokter, der Maternité, oder der Gemeng — an du schéckst se un d'Zukunftskeess.",
-    "t": 196.78
+    "t": 197.98
    },
    {
     "speaker": "Tom",
     "text": "Perfekt. Okay — dat ass d'Geboort. Elo déi grouss, mengen ech. D'monatlecht Kannergeld.",
-    "t": 214.36
+    "t": 215.37
    },
    {
     "speaker": "Anna",
     "text": "Jo. Dat ass deen, deen déi meescht Leit kennen. Op Lëtzebuergesch seet een dacks just \"Kannergeld\". Et gëtt all eenzele Mount bezuelt, fir all Kand.",
-    "t": 219.83
+    "t": 220.84
    },
    {
     "speaker": "Tom",
     "text": "Vu wéini bis wéini?",
-    "t": 229.88
+    "t": 230.89
    },
    {
     "speaker": "Anna",
     "text": "Vum Mount, wou d'Kand gebuer gëtt, bis et uechtzéng gëtt. An — dat ass wichteg — et kann bis op den Alter vu fënnefanzwanzeg weidergoen, wann de jonke Mënsch nach am Lycée ass, oder eng Léier mécht.",
-    "t": 231.25
+    "t": 232.26
    },
    {
     "speaker": "Tom",
     "text": "Also souwäit d'Kand nach an der Schoul ass, geet d'Ënnerstëtzung weider. A wéi vill ass et?",
-    "t": 244.21
+    "t": 245.22
    },
    {
     "speaker": "Anna",
     "text": "Et ass pro Kand, pro Mount festgeluecht. An et gëtt eng gutt Noriicht: En neit Gesetz hieft et ab Januar 2027 un. Vun do un ass et méi wéi dräihonnertfofzeg Euro pro Kand all Mount. An hei e Schlësselpunkt — et wiisst, wéi d'Kand méi al gëtt.",
-    "t": 249.11
+    "t": 250.04
    },
    {
     "speaker": "Tom",
     "text": "Et wiisst? Wéi funktionéiert dat?",
-    "t": 265.14
+    "t": 266.07
    },
    {
     "speaker": "Anna",
     "text": "Et ginn zwee Schrëtt no uewen. De Betrag klëmmt, wann d'Kand sechs gëtt. An et klëmmt nach eng Kéier, wann d'Kand zwielef gëtt. D'Iddi ass einfach — méi al Kanner kaschten méi.",
-    "t": 266.72
+    "t": 267.65
    },
    {
     "speaker": "Tom",
     "text": "Dat mécht Sënn — Teenager sinn deier! Also kritt e jonkt Kand de Basisbetrag, e Kand iwwer sechs e bësse méi, an e Kand iwwer zwielef erëm méi.",
-    "t": 278.34
+    "t": 279.27
    },
    {
     "speaker": "Anna",
     "text": "Genau. Elo — eng Saach, déi ech éierlech soe muss. Dës Betrag sinn un d'Liewenskäschte gebonnen. Si ginn iwwer d'Zäit erop, mat deem, wat een den Index nennt. An ab 2027 gëllt dat och fir d'Geboortsprime, d'Schoulufanksallocatioun an d'Spezialallocatioun fir Kanner mat enger Behënnerung. Also fir déi genee Zuel vun haut, kuckste op déi offiziell Säit — et ass d'Säit \"Sozialparameter\" op guichet Punkt l-u.",
-    "t": 287.19
+    "t": 288.12
    },
    {
     "speaker": "Tom",
     "text": "Gutt. Mir ginn d'Iddi, mä déi genee Zuel — kuck ëmmer déi offiziell Quell no. Wéini ginn d'Suen tatsächlech all Mount bezuelt?",
-    "t": 313.24
+    "t": 314.17
    },
    {
     "speaker": "Anna",
     "text": "All Mount, an spéitstens bis de fënnefanzwanzegste vum Mount. Si landen op dengem Bankkont deen Dag oder deen drop — oder een, zwee Deeg méi spéit bei enger Bank am Ausland. Also ass et regelméisseg, zouverlässeg Suen, op déi s du dech verloosse kanns.",
-    "t": 320.85
+    "t": 321.78
    },
    {
     "speaker": "Tom",
     "text": "A muss ech all Mount nach eng Kéier dofir froen?",
-    "t": 332.85
+    "t": 333.78
    },
    {
     "speaker": "Anna",
     "text": "Nee. Du freegs eemol, wann d'Kand gebuer gëtt oder wann s du zu Lëtzebuerg ukënns. Duerno kënnt et just automatesch. Du muss der Zukunftskeess nëmmen Bescheed soen, wann sech eppes ännert.",
-    "t": 335.07
+    "t": 336
    },
    {
     "speaker": "Tom",
     "text": "Okay. Also dat ass d'Geboort, an all Mount. Elo dat drëtt — de Schoulufank.",
-    "t": 346.39
+    "t": 345.88
    },
    {
     "speaker": "Anna",
     "text": "Jo — d'Schoulufanksallocatioun. Op Franséisch d'allocation de rentrée scolaire. Et ass en extra Betrag, eemol am Joer, fir mat de Käschte vum Schoulufank ze hëllefen. Bicher, Tasch, Schoulmaterial.",
-    "t": 351.03
+    "t": 350.52
    },
    {
     "speaker": "Tom",
     "text": "All Elteren kennen dat August-Gefill — alles fir dat neit Schouljoer kafen.",
-    "t": 363.14
+    "t": 362.97
    },
    {
     "speaker": "Anna",
     "text": "Genau. An hei déi gutt Noriicht — du muss net separat dofir froen. Wann däi Kand schonn d'Kannergeld kritt, kënnt d'Schoulufanksallocatioun automatesch.",
-    "t": 367.24
+    "t": 367.07
    },
    {
     "speaker": "Tom",
     "text": "Automatesch. Dat hunn ech gär. A wéini kënnt se un?",
-    "t": 378.15
+    "t": 377.99
    },
    {
     "speaker": "Anna",
     "text": "Am August, just virum Schouljoer. An de Betrag hänkt vum Alter vum Kand of. Mam neie Gesetz ass et ab 2027 méi wéi honnertfënnefasiwwenzeg Euro fir Kanner vu sechs bis eelef. A méi wéi dräihonnertfënnefanzwanzeg Euro fir Kanner zwielef an eeler.",
-    "t": 381.35
+    "t": 381.19
    },
    {
     "speaker": "Tom",
     "text": "Also erëm — eelert Kand, méi grousse Betrag. Déi selwecht Logik.",
-    "t": 398.25
+    "t": 398.09
    },
    {
     "speaker": "Anna",
     "text": "Déi selwecht Logik duerch an duerch. Méi jonk Kanner, Basisbetrag. Méi al Kanner, méi Ënnerstëtzung.",
-    "t": 401.64
+    "t": 401.48
    },
    {
     "speaker": "Tom",
     "text": "Anna, loosse mech iwwer eng Suerg froen, déi vill Familljen hunn. Wat ass mat de Grenzgänger? Leit, déi zu Lëtzebuerg schaffen, mä a Frankräich, der Belsch oder Däitschland wunnen?",
-    "t": 408.06
+    "t": 407.9
    },
    {
     "speaker": "Anna",
     "text": "Eng super Fro — a ganz wichteg hei, well sou vill Leit pendelen. Déi kuerz Äntwert ass — jo, wann s du zu Lëtzebuerg schaffs an an déi lëtzebuergesch sozial Sécherheet abezuels, kënnen deng Kanner d'Recht op d'Kannergeld hunn, och wa se iwwer der Grenz wunnen.",
-    "t": 416.79
+    "t": 416.63
    },
    {
     "speaker": "Tom",
     "text": "Och wann d'Kanner an engem anere Land wunnen?",
-    "t": 434.04
+    "t": 433.88
    },
    {
     "speaker": "Anna",
     "text": "Och dann. Dat kënnt vun den europäesche Reegelen. Elo, et gëtt en Detail — wann s du schonn eng Familljeleeschtung an dengem Wunnland kriss, bezilt Lëtzebuerg net duebel. Et bezilt den Ënnerscheed — wat een e Differenzbetrag nennt — sou datt s du den héije vun deenen zwee kriss.",
-    "t": 436.28
+    "t": 436.12
    },
    {
     "speaker": "Tom",
     "text": "Also bass du net méi schlecht drun. Du gëss bis op dat lëtzebuergescht Niveau opgestockt.",
-    "t": 452.65
+    "t": 452.39
    },
    {
     "speaker": "Anna",
     "text": "Dat ass d'Iddi. An et funktionéiert och fir Pensionéierter — e pensionéierte Grenzgänger mat enger lëtzebuergescher Pensioun behält d'Recht op d'Kannergeld. An ab 2027 mécht en neit Gesetz nach eng Saach kloer: D'Kanner vun dengem Mann, denger Fra oder dengem Partner kënnen och zielen — wa si haaptsächlech bei dir wunnen, oder wann s du weise kanns, datt s du wierklech fir si suergs.",
-    "t": 456.19
+    "t": 455.93
    },
    {
     "speaker": "Tom",
     "text": "Dat ass berouegend fir vill Familljen. Elo — loosse mer driwwer schwätzen, wéi s du tatsächlech mat der Zukunftskeess ëmgees. Ass dat vill Pabeierkrom?",
-    "t": 478.58
+    "t": 478.92
    },
    {
     "speaker": "Anna",
     "text": "Et ass vill méi einfach, wéi et fréier war. Déi meescht Saache kann ee online maachen, iwwer MyGuichet.lu — déi digital Plattform vum Staat. Du kanns do d'Kannergeld ufroen, mat engem séchere Login wéi LuxTrust oder der eID-Kaart.",
-    "t": 486.08
+    "t": 486.82
    },
    {
     "speaker": "Tom",
     "text": "Ah, MyGuichet.lu — doriwwer hu mer an enger anerer Episod geschwat.",
-    "t": 500.47
+    "t": 501.2
    },
    {
     "speaker": "Anna",
     "text": "Genau — et ass d'Online-Dier zur Verwaltung. An doriwwer kanns du och Dokumenter un d'Zukunftskeess schécken, oder deng Bankdaten änneren. Et gëtt esouguer en Online-Assistent, deen dech Schrëtt fir Schrëtt duerch d'Kannergeld-Demande féiert. A wann s du e Bezuelungszertifikat brauchs, gëtt et en einfache Online-Formulaire op der Websäit vun der Zukunftskeess.",
-    "t": 505.07
+    "t": 505.8
    },
    {
     "speaker": "Tom",
     "text": "A wann sech ee mam Online net wuel fillt?",
-    "t": 527.48
+    "t": 527.91
    },
    {
     "speaker": "Anna",
     "text": "Da kanns du et nach ëmmer op Pabeier maachen. D'Formulairë sinn op der Internetsäit, an och op der Gemeng. Du fëlls se aus a schécks se mat der Post. A wann s du Froen hues, kanns du d'Zukunftskeess uruffen, oder hir Büroe besichen — si sinn um Boulevard Royal, an der Stad Lëtzebuerg.",
-    "t": 529.55
+    "t": 529.98
    },
    {
     "speaker": "Tom",
     "text": "Also gëtt et ëmmer e Wee — online, mat der Post, oder perséinlech. Elo Anna, sinn dës dräi Leeschtungen alles, wat d'Zukunftskeess mécht? Oder gëtt et méi?",
-    "t": 545.41
+    "t": 546.18
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt méi. Loosse mech zwou aner wichteg Saache nennen, an deenen se involvéiert ass. Fir d'éischt — fir Elteren, déi sech eng Paus vun der Aarbecht huelen, fir sech ëm e klengt Kand ze këmmeren, gëtt et den Elterencongé, an d'Zukunftskeess bezilt während där Zäit den Elterencongé-Akommes.",
-    "t": 555.03
+    "t": 556.06
    },
    {
     "speaker": "Tom",
     "text": "Also wann eng Mamm oder e Papp seng Aarbecht fir d'Boby pauséiert, bleiwen si net mat näischt.",
-    "t": 569.15
+    "t": 570.52
    },
    {
     "speaker": "Anna",
     "text": "Richteg — et gëtt en Ersatzakommes, während se am Elterencongé sinn. An zweetens — et gëtt de Betreiungs-Chèque, de chèque-service accueil. Hie mécht d'Crèchen, d'Foyeren an d'iwwerwaachten Aktivitéite bëlleg fir d'Familljen.",
-    "t": 573.59
+    "t": 574.96
    },
    {
     "speaker": "Tom",
     "text": "Also dat ass Hëllef mat de Käschte vun der Kannerbetreiung — wat eng riseg Ausgab ka sinn.",
-    "t": 587.3
+    "t": 588.67
    },
    {
     "speaker": "Anna",
     "text": "Eng riseg Ausgab, jo. Also sëtzt d'Zukunftskeess wierklech am Mëttelpunkt vum Familljeliewen — vun der Schwangerschaft, iwwer d'Boby-Joren, bis zur Schoul, zur Kannerbetreiung, bis zur Paus vun der Aarbecht.",
-    "t": 591.91
+    "t": 593.28
    },
    {
     "speaker": "Tom",
     "text": "An et gëtt och extra Ënnerstëtzung fir Kanner mat besonnesche Besoinen, oder?",
-    "t": 603.55
+    "t": 604.95
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt. Fir e Kand mat enger Behënnerung gëtt et eng speziell Zousazallocatioun uewen op dat normaalt Kannergeld. Also Familljen, déi méi Hëllef brauchen, kréie méi Hëllef.",
-    "t": 607.77
+    "t": 609.17
    },
    {
     "speaker": "Tom",
     "text": "Dat ass e fërsuergend System. Anna, loosse mer et ganz konkret maachen. Kënne mer enger Famill nogoen?",
-    "t": 617.79
+    "t": 619.19
    },
    {
     "speaker": "Anna",
     "text": "Natierlech. Loosse mer eis e Koppel virstellen — si erwaarden hiert éischt Boby.",
-    "t": 623.28
+    "t": 624.69
    },
    {
     "speaker": "Tom",
     "text": "Spannend! Also wou kënnt d'Zukunftskeess ran, vun Ufank un?",
-    "t": 627.67
+    "t": 629.08
    },
    {
     "speaker": "Anna",
     "text": "Souguer virun der Geboort. Während der Schwangerschaft geet d'Mamm op hir Kontrollen, an d'Zännvisitt — an dat mécht dat éischt Stéck vun der Geboortsprime op, de pränatalen Deel. Bal sechshonnert Euro.",
-    "t": 632.53
+    "t": 633.95
    },
    {
     "speaker": "Tom",
     "text": "Dann kënnt d'Boby.",
-    "t": 645.99
+    "t": 647.41
    },
    {
     "speaker": "Anna",
     "text": "D'Boby kënnt. Si mellen d'Geboort op der Gemeng, an dat léist dat zweet Stéck vun der Geboortsprime aus. A si maachen eng Demande fir dat monatlecht Kannergeld — iwwer MyGuichet.lu.",
-    "t": 647.52
+    "t": 648.94
    },
    {
     "speaker": "Tom",
     "text": "A vun do un fänkt d'monatlecht Suen un.",
-    "t": 660.66
+    "t": 662.08
    },
    {
     "speaker": "Anna",
     "text": "All Mount, bis de fënnefanzwanzegsten — méi wéi dräihonnertfofzeg Euro, automatesch. Dann, iwwer déi éischt zwee Joren, bréngen si d'Boby op seng medezinesch Kontrollen, an dat schalt dat drëtt Stéck vun der Geboortsprime fräi.",
-    "t": 663.01
+    "t": 664.43
    },
    {
     "speaker": "Tom",
     "text": "Also an den éischten zwee Joren hu se all dräi Stécker vun der Geboortsprime kritt, plus d'monatlecht Kannergeld.",
-    "t": 676.33
+    "t": 677.74
    },
    {
     "speaker": "Anna",
     "text": "Genau. D'Kand gëtt sechs — de monatleche Betrag geet ee Schrëtt erop, an d'Schoulufanksallocatioun fänkt all August un. D'Kand gëtt zwielef — nach ee Schrëtt erop. An et geet alles weider, riicht duerch d'Schoul, méiglecherweis bis op fënnefanzwanzeg.",
-    "t": 682.14
+    "t": 683.55
    },
    {
     "speaker": "Tom",
     "text": "An d'Elteren hunn eigentlech nëmmen eng grouss Saach gemaach — si hunn eemol gefrot, an hir Daten op deem neiste Stand gehalen.",
-    "t": 697.5
+    "t": 698.91
    },
    {
     "speaker": "Anna",
     "text": "Dat ass d'Schéint dorun. Eemol froen, deng Informatiounen aktuell halen, an d'Ënnerstëtzung fléisst. Roueg a virausgesinnbar, duerch déi ganz Kandheet.",
-    "t": 703.81
+    "t": 705.22
    },
    {
     "speaker": "Tom",
     "text": "Dat Bild hunn ech wierklech gär. Okay Anna — loosse mer et op de Punkt bréngen. Wann ech nolauschteren, an ech hu Kanner, oder een um Wee — wat soll ech maachen?",
-    "t": 713.85
+    "t": 715.23
    },
    {
     "speaker": "Anna",
     "text": "Dräi einfach Schrëtt. Fir d'éischt — gees op d'Internetsäit, c-a-e Punkt l-u, oder op MyGuichet.lu. Do fänkt alles un.",
-    "t": 721.6
+    "t": 722.98
    },
    {
     "speaker": "Tom",
     "text": "cae.lu. Verstanen.",
-    "t": 730.88
+    "t": 732.08
    },
    {
     "speaker": "Anna",
     "text": "Zweetens — wann s du an Erwaardung bass, fänk d'Geboortsprime fréi un, andeems s du op deng Kontrolle gees, a frot d'monatlecht Kannergeld un, wann d'Boby gebuer ass. Du méchs et nëmmen eemol.",
-    "t": 732.71
+    "t": 733.89
    },
    {
     "speaker": "Tom",
     "text": "An drëttens?",
-    "t": 743.44
+    "t": 744.62
    },
    {
     "speaker": "Anna",
     "text": "Drëttens — hal deng Daten aktuell, virun allem däi Bankkont an deng Situatioun. A wann däi Kand uechtzéng gëtt, mä an der Schoul bleift, schéck de Formulaire zréck, fir d'Allocatioun bis op fënnefanzwanzeg weidergoen ze loossen — dat geet elo och online, op MyGuichet.lu.",
-    "t": 744.39
+    "t": 745.58
    },
    {
     "speaker": "Tom",
     "text": "A fir d'Grenzgänger?",
-    "t": 760.71
+    "t": 761.9
    },
    {
     "speaker": "Anna",
     "text": "Deeselwechte Büro, déiselwecht Internetsäit. Wann s du zu Lëtzebuerg schaffs, kënnen deng Kanner och d'Recht hunn — also huel net un, datt s du net berechtegt bass. Frot bei der Zukunftskeess no.",
-    "t": 762.28
+    "t": 763.47
    },
    {
     "speaker": "Tom",
     "text": "E kuerze Resumé fir ofzeschléissen?",
-    "t": 772.52
+    "t": 773.89
    },
    {
     "speaker": "Anna",
     "text": "Gär. D'Zukunftskeess — den Zukunftsfong fir d'Kanner, cae.lu — ass de Staatsbüro fir d'Familljeleeschtungen zu Lëtzebuerg. Dräi Haaptleeschtungen. Eng Geboortsprime vu méi wéi dausendsiwenhonnert Euro, an dräi Stécker, un d'Gesondheetskontrolle gebonnen. E monatlecht Kannergeld fir all Kand — méi wéi dräihonnertfofzeg Euro ab 2027 — dat mat sechs Joer a mat zwielef Joer wiisst, a bis op fënnefanzwanzeg daueren kann, wann d'Kand an der Schoul bleift. An eng Schoulufanksallocatioun all August, automatesch. Plus en Elterencongé-Akommes, Betreiungs-Chèquen, an extra Hëllef fir Kanner mat besonnesche Besoinen.",
-    "t": 774.09
+    "t": 775.46
    },
    {
     "speaker": "Tom",
     "text": "An d'Message fir haut?",
-    "t": 817.14
+    "t": 818.61
    },
    {
     "speaker": "Anna",
     "text": "Wann s du Kanner zu Lëtzebuerg hues, ass dës Ënnerstëtzung dengs vu Rechts wéinst — an et ass méi einfach ze kréien, wéi d'Leit mengen. Ee Büro, eng Internetsäit, an e System, dee jorelaang nieft denger Famill geet.",
-    "t": 818.62
+    "t": 820.09
    },
    {
     "speaker": "Tom",
     "text": "Also... egal ob s du en neie Papp oder eng nei Mamm bass, schonn erfueren, oder e Grenzgänger — denk un den Numm. D'Zukunftskeess. cae.lu.",
-    "t": 829.77
+    "t": 831.24
    },
    {
     "speaker": "Anna",
     "text": "Ee Fong, dee sech ëm d'Zukunft vun dengem Kanner këmmert. Dat ass genee dat, wat den Numm seet. Dat war eis Episod iwwer d'Zukunftskeess. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 838.71
+    "t": 840.56
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 889.15
+    "t": 889.83
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 892.35
+    "t": 893.04
    }
   ],
   "audio_fr": "podcast_zukunftskeess_fr.mp3",
-  "duration_fr": 815.07,
+  "duration_fr": 816.9,
   "title_fr": "La Zukunftskeess – argent et soutien pour vos enfants",
   "description_fr": "La Caisse pour l'avenir des enfants (Zukunftskeess, cae.lu) est la caisse de l'État pour les prestations familiales au Luxembourg : l'allocation de naissance (payée en trois parts liées aux examens médicaux), l'allocation familiale mensuelle qui augmente à 6 et 12 ans et peut durer jusqu'à 25 ans pour les élèves du secondaire, et l'allocation de rentrée scolaire automatique – ainsi que le revenu du congé parental, les chèques-service accueil et une aide supplémentaire pour les enfants en situation de handicap. Les demandes se font via MyGuichet.lu.",
   "topics_fr": [
@@ -44609,7 +44609,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_zukunftskeess_de.mp3",
-  "duration_de": 966.45,
+  "duration_de": 968.57,
   "title_de": "Die Zukunftskeess – Geld und Unterstützung für Ihre Kinder",
   "description_de": "Die Zukunftskeess (Caisse pour l'avenir des enfants, cae.lu) ist die staatliche Kasse für Familienleistungen in Luxemburg: die Geburtszulage (in drei Teilen gezahlt, gebunden an die ärztlichen Untersuchungen), das monatliche Kindergeld, das mit 6 und 12 Jahren steigt und für Schülerinnen und Schüler der Sekundarstufe bis 25 dauern kann, und die automatische Schulanfangszulage – sowie das Einkommen während des Elternurlaubs, die Betreuungsgutscheine und zusätzliche Hilfe für Kinder mit einer Behinderung. Die Anträge laufen über MyGuichet.lu.",
   "topics_de": [

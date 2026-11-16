@@ -35,7 +35,8 @@ EMPHASIS = {"en": ["NOT", "AND"], "fr": ["PAS", "ET"], "de": ["NICHT", "UND"]}
 # Luxembourgish names: phonetic spellings chosen by Jacques from the A/B test (2026-09-30).
 # Everything not listed here was judged fine as written.
 NAMES = {
-    "en": [(r"(?i)\bZukunftskeess\b", "Tsoo-koonfts-kayss"),                  # EN 1B
+    "en": [(r"(?i)\bZukunftskeess\b", "Tsoo-koonfts-kehs"),                   # A/B choice C, closer to German (2026-11-16; was "Tsoo-koonfts-kayss")
+           (r"(?i)\ballocation de rentrée scolaire\b", "allo-cah-syon de ron-tray sko-lair"),  # A/B choice B (2026-11-16)
            (r"(?i)\bPensiounskeess\b", "Pen-see-ouns-kayss"),                # EN 2B
            (r"\bËmweltberodung\b", "Um-velt-beh-roh-doong"),                 # EBL ep (2026-11-10), check by ear
            (r"(?i)\blycées?\b", "leessay"),                                  # Jacques's A/B choice C (2026-11-12)
@@ -90,6 +91,8 @@ def rules(lang):
         # general .lu rule (Jacques, 2026-09-30): always "dot L-U", never "lu"
         (r"(\w)\.lu\b", r"\1 " + dot + " L-U"),
         (r"\b(" + dot + r") lu\b", r"\1 L-U"),
+        # cae.lu (Zukunftskeess) always spelled out: "C-A-E dot L-U" (Jacques, 2026-11-16)
+        (r"\bcae\b", "C-A-E"),
         # GouvID app (fact-check 2026-11-02): "Gouv I-D"
         (r"\bGouvID\b", "Gouv I-D"),
         (r"(\w)\.(com|net|org|eu)\b", r"\1 " + dot + r" \2"),

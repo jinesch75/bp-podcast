@@ -12,7 +12,7 @@
 
 **ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people. And today's topic is one that brings a lot of joy, and also a lot of questions. It's about children — and the money and support the State gives to families.
 
-**TOM:** And there's one office at the centre of all this. Anna, tell us its name.
+**TOM:** And there's one office at the centre of all this. Tell us its name, Anna.
 
 **ANNA:** It's called the Zukunftskeess. In English we can say the Children's Future Fund. In French it's the Caisse pour l'avenir des enfants. People also use the short name — C-A-E.
 

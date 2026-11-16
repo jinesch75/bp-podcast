@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Pick the take where one English word sounds most English (e.g. "German" read with a French accent after a
+"""Pick the take where one English word sounds most English (start "*" + MIN_P=0.8: scan all sentences with the word) (e.g. "German" read with a French accent after a
 French name). python3 build/pick_word_take.py <key> <lang> "<start of sentence>" <word>
 Candidates: current take + seeds 1261-1263. Score = whisper (small, language=<lang>) word probability of <word>;
 the take must pass the normal word check. Winner -> build/el_cache/reseed.json; re-run el_run_batch.py afterwards."""
@@ -7,6 +7,8 @@ import hashlib, importlib.util, json, os, re, sys
 spec = importlib.util.spec_from_file_location("el", os.path.join("build", "tts_elevenlabs.py"))
 el = importlib.util.module_from_spec(spec); spec.loader.exec_module(el)
 key, lang, start, word = sys.argv[1:5]
+# start "*" = every sentence containing <word>; then only sentences whose current take scores below MIN_P are retaken
+MIN_P = float(os.environ.get("MIN_P", "1.1"))
 el.load_env(); api = os.environ["ELEVENLABS_API_KEY"].strip()
 voices = json.loads(el.request("GET", "/voices", api))["voices"]
 from faster_whisper import WhisperModel
@@ -14,7 +16,9 @@ wm = WhisperModel("small", device="cpu", compute_type="int8")
 for spk, txt in el.read_turns(key, lang):
     sents = el.merge_short(el.split_sentences(txt))
     for j, s in enumerate(sents):
-        if not s.startswith(start): continue
+        if start == "*":
+            if not re.search(r"\b" + re.escape(word) + r"\b", s): continue
+        elif not s.startswith(start): continue
         vid = el.resolve_voice(spk, lang, voices)[0]
         body = {"text": el.spoken(s, lang), "model_id": "eleven_multilingual_v2", "voice_settings": el.VOICE_SETTINGS, "seed": 1234}
         if sents[max(0, j - 2):j]: body["previous_text"] = el.spoken(" ".join(sents[max(0, j - 2):j]), lang)
@@ -23,6 +27,7 @@ for spk, txt in el.read_turns(key, lang):
         base = h(body); rpath = os.path.join(el.CACHE, "reseed.json"); reseed = json.load(open(rpath))
         cur = reseed.get(base, base); best = None
         for sd in (None, 1261, 1262, 1263):
+            if sd and best and best[0] >= MIN_P: break
             c = cur if sd is None else h(dict(body, seed=sd)); p = os.path.join(el.CACHE, c)
             if not os.path.exists(p):
                 open(p, "wb").write(el.request("POST", f"/text-to-speech/{vid}", api, dict(body, seed=sd), query="?output_format=mp3_44100_128"))
