@@ -41,6 +41,7 @@ NAMES = {
            (r"\bËmweltberodung\b", "Um-velt-beh-roh-doong"),                 # EBL ep (2026-11-10), check by ear
            (r"(?i)\blycées?\b", "leessay"),                                  # Jacques's A/B choice C (2026-11-12)
            (r"\baccessibilite\b", "accessibilité"),
+           (r"(?i)\bklima-agence\b", "Clima-Agence"),                       # A/B choice B: Anna said "Kly-ma" (2026-11-16)
            (r"(?i)\bl[ëe]tz ?prepare\b", "Let's prepare"),                  # Lëtz prepare ep (2026-11-14), check by ear
            (r"\bLëtz\b", "Lets"),
            (r"\bBass du prett\b", "Bass doo prett"),

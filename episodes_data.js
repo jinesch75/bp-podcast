@@ -55294,7 +55294,7 @@ const EPISODES = [
   "title": "Klima-Agence – Free Advice for Your Energy and Climate Projects",
   "description": "What Klima-Agence is (Luxembourg's national energy and climate agency, formerly myenergy), its free and independent advice on insulation, sustainable building, renewable heating, solar power and eco-mobility, the help it gives to find grants like the Klimabonus, and a warning about fake adverts.",
   "audio": "podcast_klima.mp3",
-  "duration": 539.56,
+  "duration": 538.57,
   "topics": [
    "What Klima-Agence is",
    "Free, independent advice",
@@ -55369,562 +55369,562 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "It is called Klima-Agence.",
-    "t": 49.35
+    "t": 49.32
    },
    {
     "speaker": "Tom",
     "text": "Klima-Agence. The name already tells us part of the story... \"Klima\" means climate.",
-    "t": 51.68
+    "t": 51.56
    },
    {
     "speaker": "Anna",
     "text": "Yes. Klima-Agence is Luxembourg's national partner for energy and climate matters.",
-    "t": 57.25
+    "t": 57.12
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what exactly is it?",
-    "t": 62.5
+    "t": 62.67
    },
    {
     "speaker": "Tom",
     "text": "Is it a company?",
-    "t": 64.27
+    "t": 64.44
    },
    {
     "speaker": "Anna",
     "text": "Not a private company in the usual sense.",
-    "t": 65.48
+    "t": 65.65
    },
    {
     "speaker": "Anna",
     "text": "It is a public-interest organisation, supported by the Luxembourg government.",
-    "t": 67.95
+    "t": 68.12
    },
    {
     "speaker": "Tom",
     "text": "Several ministries stand behind it... the Ministry of the Economy, the Ministry of the Environment, Climate and Biodiversity, and the Ministry of Housing and Spatial Planning.",
-    "t": 72.86
+    "t": 73.03
    },
    {
     "speaker": "Anna",
     "text": "And it works together with professional bodies, like the Chamber of Skilled Trades and Crafts, and the association of architects and consulting engineers.",
-    "t": 83.11
+    "t": 83.28
    },
    {
     "speaker": "Tom",
     "text": "Here's a detail some people remember.",
-    "t": 92.5
+    "t": 92.67
    },
    {
     "speaker": "Tom",
     "text": "Until 2022, Klima-Agence had a different name... it was called myenergy.",
-    "t": 94.32
+    "t": 94.48
    },
    {
     "speaker": "Anna",
     "text": "So if you have heard of myenergy in the past, it is the same organisation, with a new name and a wider mission.",
-    "t": 99.7
+    "t": 99.75
    },
    {
     "speaker": "Tom",
     "text": "And what is that mission, exactly?",
-    "t": 106.33
+    "t": 106.38
    },
    {
     "speaker": "Anna",
     "text": "To support the whole of society in protecting the climate and in the energy transition.",
-    "t": 108.19
+    "t": 108.24
    },
    {
     "speaker": "Tom",
     "text": "The energy transition... moving away from fossil fuels, towards cleaner, more efficient energy.",
-    "t": 113.13
+    "t": 113.18
    },
    {
     "speaker": "Anna",
     "text": "Luxembourg has set national targets for 2030... using more renewable energy, using energy more efficiently, and cutting greenhouse gas emissions.",
-    "t": 118.58
+    "t": 118.63
    },
    {
     "speaker": "Tom",
     "text": "And Klima-Agence helps put those big national goals into practice, in real homes and real lives.",
-    "t": 128.57
+    "t": 128.62
    },
    {
     "speaker": "Anna",
     "text": "But here is the part I really want people to hear.",
-    "t": 134.46
+    "t": 134.52
    },
    {
     "speaker": "Anna",
     "text": "The advice they give to citizens is free.",
-    "t": 137.52
+    "t": 137.58
    },
    {
     "speaker": "Tom",
     "text": "Free, yes. And just as important... it is independent.",
-    "t": 140.3
+    "t": 140.36
    },
    {
     "speaker": "Anna",
     "text": "That means they are not trying to sell you a boiler, or a particular brand of solar panel.",
-    "t": 143.8
+    "t": 143.86
    },
    {
     "speaker": "Tom",
     "text": "They give you neutral, expert guidance, in your interest.",
-    "t": 148.85
+    "t": 148.91
    },
    {
     "speaker": "Tom",
     "text": "The service is financed by Klima-Agence itself.",
-    "t": 152.41
+    "t": 152.54
    },
    {
     "speaker": "Anna",
     "text": "So you can ask your questions honestly, and get an honest answer.",
-    "t": 155.42
+    "t": 155.6
    },
    {
     "speaker": "Anna",
     "text": "That is rare and valuable.",
-    "t": 159.49
+    "t": 159.67
    },
    {
     "speaker": "Tom",
     "text": "So how does a normal person actually get this advice?",
-    "t": 161.43
+    "t": 161.61
    },
    {
     "speaker": "Anna",
     "text": "You can make an appointment with an advisor.",
-    "t": 164.4
+    "t": 164.58
    },
    {
     "speaker": "Anna",
     "text": "Depending on your project, it can happen at your home, by video, or by phone.",
-    "t": 166.69
+    "t": 166.87
    },
    {
     "speaker": "Tom",
     "text": "Or you can simply call an advisor directly.",
-    "t": 171.49
+    "t": 171.67
    },
    {
     "speaker": "Tom",
     "text": "The number is 8-0-0-2, 1-1, 9-0.",
-    "t": 173.7
+    "t": 173.88
    },
    {
     "speaker": "Anna",
     "text": "And the advisors are available Monday to Friday, in the morning and in the afternoon.",
-    "t": 177.46
+    "t": 177.64
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about what they can actually help you with.",
-    "t": 182.34
+    "t": 182.52
    },
    {
     "speaker": "Tom",
     "text": "What kinds of projects?",
-    "t": 185.06
+    "t": 185.24
    },
    {
     "speaker": "Anna",
     "text": "Quite a range.",
-    "t": 186.78
+    "t": 186.96
    },
    {
     "speaker": "Anna",
     "text": "The first big one is insulating your home.",
-    "t": 187.93
+    "t": 188.11
    },
    {
     "speaker": "Tom",
     "text": "Good insulation means a warmer home in winter, a cooler home in summer, and lower heating bills.",
-    "t": 190.73
+    "t": 190.91
    },
    {
     "speaker": "Anna",
     "text": "The second is building a new home in a sustainable way... a home that uses less energy from the start.",
-    "t": 196.19
+    "t": 196.37
    },
    {
     "speaker": "Tom",
     "text": "The third is heating with renewable energy.",
-    "t": 203.53
+    "t": 203.71
    },
    {
     "speaker": "Tom",
     "text": "For example, a heat pump that draws warmth from the air or the ground.",
-    "t": 205.84
+    "t": 206.02
    },
    {
     "speaker": "Anna",
     "text": "Instead of burning oil or gas, you use the sun and the earth.",
-    "t": 209.88
+    "t": 210.06
    },
    {
     "speaker": "Anna",
     "text": "It's cleaner, and over time, often cheaper.",
-    "t": 213.82
+    "t": 214
    },
    {
     "speaker": "Tom",
     "text": "The fourth is generating your own clean electricity, with solar panels on your roof.",
-    "t": 216.78
+    "t": 216.96
    },
    {
     "speaker": "Anna",
     "text": "Those photovoltaic panels turn sunlight into electricity, which you can use at home or feed into the grid.",
-    "t": 221.04
+    "t": 221.22
    },
    {
     "speaker": "Tom",
     "text": "The fifth is eco-mobility... greener ways of getting around, like electric vehicles and charging stations.",
-    "t": 227.47
+    "t": 227.65
    },
    {
     "speaker": "Anna",
     "text": "And the sixth is simpler than all the others... just using less energy in your daily habits.",
-    "t": 234.11
+    "t": 234.29
    },
    {
     "speaker": "Tom",
     "text": "Small changes, every day, that are good for the planet and good for your wallet.",
-    "t": 240.55
+    "t": 240.73
    },
    {
     "speaker": "Anna",
     "text": "So whether your project is big or small, there is guidance for it.",
-    "t": 245.39
+    "t": 245.57
    },
    {
     "speaker": "Tom",
     "text": "Now Anna, let's talk about money, because these projects can be expensive.",
-    "t": 249.54
+    "t": 249.72
    },
    {
     "speaker": "Anna",
     "text": "They can. But the good news is that there are many grants and subsidies available.",
-    "t": 253.88
+    "t": 254.06
    },
    {
     "speaker": "Tom",
     "text": "And this is another place where Klima-Agence really helps.",
-    "t": 258.75
+    "t": 258.93
    },
    {
     "speaker": "Tom",
     "text": "They guide you through the financial support.",
-    "t": 262.37
+    "t": 262.44
    },
    {
     "speaker": "Anna",
     "text": "There are subsidies from the State, from your commune, and sometimes even from energy suppliers.",
-    "t": 264.81
+    "t": 264.95
    },
    {
     "speaker": "Tom",
     "text": "Keeping track of all of those would be a nightmare on your own.",
-    "t": 271.05
+    "t": 271.19
    },
    {
     "speaker": "Anna",
     "text": "That's why Klima-Agence helps you understand which grants apply to your project.",
-    "t": 274.41
+    "t": 274.55
    },
    {
     "speaker": "Tom",
     "text": "There is even an online subsidy simulator.",
-    "t": 279.33
+    "t": 279.47
    },
    {
     "speaker": "Tom",
     "text": "You enter your project, and it shows you what support you could receive.",
-    "t": 281.42
+    "t": 281.56
    },
    {
     "speaker": "Anna",
     "text": "A big part of this is the national grant scheme called the Klimabonus.",
-    "t": 285.16
+    "t": 285.3
    },
    {
     "speaker": "Tom",
     "text": "The Klimabonus supports things like energy-efficient renovation, renewable heating such as heat pumps, solar panels and batteries, electric vehicles, and charging stations.",
-    "t": 289.51
+    "t": 289.65
    },
    {
     "speaker": "Tom",
     "text": "And it was renewed in 2026, for most projects until 2030.",
-    "t": 299.38
+    "t": 299.52
    },
    {
     "speaker": "Anna",
     "text": "So it really covers most of the projects we just talked about.",
-    "t": 304.19
+    "t": 304.33
    },
    {
     "speaker": "Anna",
     "text": "And for solar panels, some companies can even take the subsidy straight off your bill.",
-    "t": 307.69
+    "t": 307.83
    },
    {
     "speaker": "Tom",
     "text": "Are there other tools on their website, beyond the subsidy simulator?",
-    "t": 312.46
+    "t": 312.6
    },
    {
     "speaker": "Anna",
     "text": "Yes, some very practical ones.",
-    "t": 316.15
+    "t": 316.29
    },
    {
     "speaker": "Anna",
     "text": "There is a solar simulator, to help you plan panels on your own roof.",
-    "t": 318.1
+    "t": 318.24
    },
    {
     "speaker": "Tom",
     "text": "And a renovation planner, to help you think through the steps of a bigger project.",
-    "t": 322.13
+    "t": 322.27
    },
    {
     "speaker": "Anna",
     "text": "These tools are free to use, and they help you get a clearer picture before you spend any money.",
-    "t": 326.73
+    "t": 326.87
    },
    {
     "speaker": "Tom",
     "text": "Here's a question many people have.",
-    "t": 332.35
+    "t": 332.49
    },
    {
     "speaker": "Tom",
     "text": "How do I find a good, trustworthy professional to do the work?",
-    "t": 333.98
+    "t": 334.12
    },
    {
     "speaker": "Anna",
     "text": "Klima-Agence has a network of certified advisors and professionals you can look for.",
-    "t": 337.82
+    "t": 337.96
    },
    {
     "speaker": "Tom",
     "text": "So you are not just left alone to guess who is reliable.",
-    "t": 343
+    "t": 342.83
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about something I really admire about them... inclusion.",
-    "t": 345.86
+    "t": 345.69
    },
    {
     "speaker": "Tom",
     "text": "Yes. Their advice is meant for everyone, whatever your language, your budget, or your background.",
-    "t": 350.13
+    "t": 349.96
    },
    {
     "speaker": "Anna",
     "text": "And they pay special attention to people who need the most help.",
-    "t": 355.77
+    "t": 355.6
    },
    {
     "speaker": "Tom",
     "text": "For example, if energy bills are becoming hard to pay, there is support available, including through social welfare offices.",
-    "t": 359.37
+    "t": 359.2
    },
    {
     "speaker": "Anna",
     "text": "So this is not only for people building big new houses.",
-    "t": 366.25
+    "t": 366.08
    },
    {
     "speaker": "Anna",
     "text": "It is for renters, for families on a tight budget, for everyone.",
-    "t": 369.52
+    "t": 369.35
    },
    {
     "speaker": "Tom",
     "text": "Now, there's an important warning we should pass on, about trust.",
-    "t": 373.94
+    "t": 373.77
    },
    {
     "speaker": "Anna",
     "text": "Yes. Klima-Agence never allows private companies to use its name or its logo to sell their products.",
-    "t": 377.59
+    "t": 377.42
    },
    {
     "speaker": "Tom",
     "text": "So if you see an advert or a message using the Klima-Agence name to push a sale, be careful... it is not them.",
-    "t": 384.42
+    "t": 383.93
    },
    {
     "speaker": "Anna",
     "text": "The real Klima-Agence gives free, neutral advice.",
-    "t": 391.91
+    "t": 390.88
    },
    {
     "speaker": "Anna",
     "text": "It does not run sales campaigns through other companies.",
-    "t": 395.3
+    "t": 394.04
    },
    {
     "speaker": "Tom",
     "text": "If in doubt, contact Klima-Agence directly, using the official phone number or website.",
-    "t": 398.77
+    "t": 397.53
    },
    {
     "speaker": "Anna",
     "text": "So Tom, let's make this really practical.",
-    "t": 404.16
+    "t": 402.94
    },
    {
     "speaker": "Anna",
     "text": "How should someone actually use Klima-Agence?",
-    "t": 406.71
+    "t": 405.49
    },
    {
     "speaker": "Tom",
     "text": "First... before you start any energy project, get free advice.",
-    "t": 410.06
+    "t": 408.73
    },
    {
     "speaker": "Tom",
     "text": "Ask your questions before you spend.",
-    "t": 414.11
+    "t": 412.78
    },
    {
     "speaker": "Anna",
     "text": "Second... use the online simulators to understand the subsidies and plan your solar or renovation.",
-    "t": 416.39
+    "t": 415.06
    },
    {
     "speaker": "Tom",
     "text": "Third... let them help you find the right grants, like the Klimabonus, so you don't miss any support.",
-    "t": 423
+    "t": 421.67
    },
    {
     "speaker": "Anna",
     "text": "Fourth... look for a certified professional for the actual work.",
-    "t": 429.05
+    "t": 427.72
    },
    {
     "speaker": "Tom",
     "text": "And fifth... remember it is free, independent, and on your side.",
-    "t": 433.46
+    "t": 432.13
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it all together.",
-    "t": 437.82
+    "t": 436.49
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about Klima-Agence?",
-    "t": 439.34
+    "t": 438.01
    },
    {
     "speaker": "Tom",
     "text": "First... it is Luxembourg's national agency for energy and climate, backed by the government.",
-    "t": 442.68
+    "t": 441.25
    },
    {
     "speaker": "Tom",
     "text": "It used to be called myenergy.",
-    "t": 447.9
+    "t": 446.47
    },
    {
     "speaker": "Anna",
     "text": "Second... it gives free, independent advice on insulation, building, heating, solar, and eco-mobility.",
-    "t": 449.72
+    "t": 448.29
    },
    {
     "speaker": "Tom",
     "text": "Third... it helps you find grants and subsidies, including the national Klimabonus scheme.",
-    "t": 458.6
+    "t": 457.17
    },
    {
     "speaker": "Anna",
     "text": "Fourth... you can reach an advisor by phone, by video, or at home, and use free online tools.",
-    "t": 464.31
+    "t": 462.88
    },
    {
     "speaker": "Tom",
     "text": "And fifth... be careful of anyone misusing their name to sell you something.",
-    "t": 470.86
+    "t": 469.43
    },
    {
     "speaker": "Tom",
     "text": "The real service is free.",
-    "t": 475.94
+    "t": 474.51
    },
    {
     "speaker": "Anna",
     "text": "Energy and climate can feel like huge, distant topics.",
-    "t": 477.9
+    "t": 476.47
    },
    {
     "speaker": "Anna",
     "text": "But they start at home, with small, doable steps.",
-    "t": 481.4
+    "t": 479.97
    },
    {
     "speaker": "Tom",
     "text": "And you don't have to figure it all out alone.",
-    "t": 485.2
+    "t": 483.77
    },
    {
     "speaker": "Tom",
     "text": "There is free, friendly, expert help waiting for you.",
-    "t": 487.46
+    "t": 486.03
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Klima-Agence.",
-    "t": 491.42
+    "t": 489.99
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 493.92
+    "t": 492.46
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 502.84
+    "t": 501.83
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 521.12
+    "t": 520.11
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 527.87
+    "t": 526.86
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 530.07
+    "t": 529.06
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 534.76
+    "t": 533.75
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 535.84
+    "t": 534.84
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 537.96
+    "t": 536.96
    }
   ],
   "questions": [
@@ -57408,392 +57408,392 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Klima-Agence. Den Numm seet eis schonn en Deel vun der Geschicht... \"Klima\" heescht Klima.",
-    "t": 51.68
+    "t": 51.56
    },
    {
     "speaker": "Anna",
     "text": "Jo. D'Klima-Agence ass de Lëtzebuerger nationale Partner fir Energie- a Klimafroen.",
-    "t": 57.25
+    "t": 57.12
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat ass dat genau? Ass dat eng Firma?",
-    "t": 62.5
+    "t": 62.67
    },
    {
     "speaker": "Anna",
     "text": "Net eng privat Firma am gewéinleche Sënn. Et ass eng Organisatioun vun ëffentlechem Interêt, ënnerstëtzt vun der Lëtzebuerger Regierung.",
-    "t": 65.48
+    "t": 65.65
    },
    {
     "speaker": "Tom",
     "text": "Verschidde Ministèren stinn dohannert... de Wirtschaftsministère, de Ministère fir Ëmwelt, Klima a Biodiversitéit, an de Ministère fir Wunnengsbau a Landesplanung.",
-    "t": 72.86
+    "t": 73.03
    },
    {
     "speaker": "Anna",
     "text": "An si schafft zesumme mat professionnelle Kammeren, wéi der Chambre des Métiers, an der Associatioun vun den Architekten an de Beroodungsingenieuren.",
-    "t": 83.11
+    "t": 83.28
    },
    {
     "speaker": "Tom",
     "text": "Hei ass en Detail, un dee sech verschidde Leit erënneren. Bis 2022 hat d'Klima-Agence en aneren Numm... si hat myenergy geheescht.",
-    "t": 92.5
+    "t": 92.67
    },
    {
     "speaker": "Anna",
     "text": "Wann Dir also fréier vu myenergy héieren hutt, ass et déiselwecht Organisatioun, mat engem neien Numm an enger méi breeder Missioun.",
-    "t": 99.7
+    "t": 99.75
    },
    {
     "speaker": "Tom",
     "text": "A wat ass dës Missioun genau?",
-    "t": 106.33
+    "t": 106.38
    },
    {
     "speaker": "Anna",
     "text": "Déi ganz Gesellschaft z'ënnerstëtzen, fir de Klima ze schützen an an der Energiewende.",
-    "t": 108.19
+    "t": 108.24
    },
    {
     "speaker": "Tom",
     "text": "D'Energiewende... ewech vun de fossille Brennstoffer, hin zu méi propperer, méi effizienter Energie.",
-    "t": 113.13
+    "t": 113.18
    },
    {
     "speaker": "Anna",
     "text": "Lëtzebuerg huet sech national Ziler fir 2030 gesat... méi erneierbar Energie notzen, d'Energie méi effizient notzen, an d'Zäregasemissiounen reduzéieren.",
-    "t": 118.58
+    "t": 118.63
    },
    {
     "speaker": "Tom",
     "text": "An d'Klima-Agence hëlleft, dës grouss national Ziler an d'Praxis ëmzesetzen, an echte Heiser an echtem Liewen.",
-    "t": 128.57
+    "t": 128.62
    },
    {
     "speaker": "Anna",
     "text": "Mä hei ass den Deel, deen ech wierklech wëll, datt d'Leit héieren. D'Berodung, déi se de Bierger ginn, ass gratis.",
-    "t": 134.46
+    "t": 134.52
    },
    {
     "speaker": "Tom",
     "text": "Gratis, jo. A genee esou wichteg... si ass onofhängeg.",
-    "t": 140.3
+    "t": 140.36
    },
    {
     "speaker": "Anna",
     "text": "Dat heescht, si probéieren net, Iech eng Heizung ze verkafen, oder eng bestëmmte Mark vu Solarpanneauen.",
-    "t": 143.8
+    "t": 143.86
    },
    {
     "speaker": "Tom",
     "text": "Si ginn Iech neutral, fachlech Berodung, an Ärem Interêt. De Service gëtt vun der Klima-Agence selwer finanzéiert.",
-    "t": 148.85
+    "t": 148.91
    },
    {
     "speaker": "Anna",
     "text": "Esou kënnt Dir Är Froen éierlech stellen, an eng éierlech Äntwert kréien. Dat ass rar a wäertvoll.",
-    "t": 155.42
+    "t": 155.6
    },
    {
     "speaker": "Tom",
     "text": "Also wéi kënnt eng normal Persoun dës Berodung tatsächlech kréien?",
-    "t": 161.43
+    "t": 161.61
    },
    {
     "speaker": "Anna",
     "text": "Dir kënnt en Rendez-vous mat engem Beroder maachen. Jee no Ärem Projet kann et bei Iech doheem geschéien, per Video, oder per Telefon.",
-    "t": 164.4
+    "t": 164.58
    },
    {
     "speaker": "Tom",
     "text": "Oder Dir kënnt einfach en Beroder direkt uruffen. D'Nummer ass 8-0-0-2, 1-1, 9-0.",
-    "t": 171.49
+    "t": 171.67
    },
    {
     "speaker": "Anna",
     "text": "An d'Beroder si vu méindes bis freides do, moies an nomëttes.",
-    "t": 177.46
+    "t": 177.64
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer doriwwer schwätzen, bei wat se Iech tatsächlech kënnen hëllefen. Wat fir Zorte vu Projeten?",
-    "t": 182.34
+    "t": 182.52
    },
    {
     "speaker": "Anna",
     "text": "Eng ganz Rëtsch. Déi éischt grouss ass d'Isolatioun vun Ärem Heem.",
-    "t": 186.78
+    "t": 186.96
    },
    {
     "speaker": "Tom",
     "text": "Eng gutt Isolatioun heescht e méi waarmt Heem am Wanter, e méi killt Heem am Summer, a manner héich Heizkäschten.",
-    "t": 190.73
+    "t": 190.91
    },
    {
     "speaker": "Anna",
     "text": "Déi zweet ass, en neit Heem op eng nohalteg Manéier ze bauen... e Heem, dat vun Ufank un manner Energie verbraucht.",
-    "t": 196.19
+    "t": 196.37
    },
    {
     "speaker": "Tom",
     "text": "Déi drëtt ass, mat erneierbarer Energie ze heizen. Zum Beispill eng Wäermepompel, déi d'Wäermt aus der Loft oder aus dem Buedem zitt.",
-    "t": 203.53
+    "t": 203.71
    },
    {
     "speaker": "Anna",
     "text": "Amplaz Ueleg oder Gas ze verbrennen, notzt Dir d'Sonn an d'Äerd. Et ass méi propper, a mat der Zäit dacks méi bëlleg.",
-    "t": 209.88
+    "t": 210.06
    },
    {
     "speaker": "Tom",
     "text": "Déi véiert ass, Ären eegene propperen Stroum ze produzéieren, mat Solarpanneauen op Ärem Daach.",
-    "t": 216.78
+    "t": 216.96
    },
    {
     "speaker": "Anna",
     "text": "Dës Photovoltaikpanneauen maachen aus dem Sonneliicht Stroum, deen Dir doheem notze kënnt oder an d'Netz aspeise kënnt.",
-    "t": 221.04
+    "t": 221.22
    },
    {
     "speaker": "Tom",
     "text": "Déi fënneft ass d'Ökomobilitéit... méi gréng Manéieren, fir sech ze beweegen, wéi elektresch Gefierer a Luetstatiounen.",
-    "t": 227.47
+    "t": 227.65
    },
    {
     "speaker": "Anna",
     "text": "An déi sechst ass méi einfach wéi all déi aner... einfach manner Energie an Ären alldeegleche Gewunnechten ze verbrauchen.",
-    "t": 234.11
+    "t": 234.29
    },
    {
     "speaker": "Tom",
     "text": "Kleng Verännerungen, all Dag, déi gutt fir de Planéit a gutt fir Äre Portmonni sinn.",
-    "t": 240.55
+    "t": 240.73
    },
    {
     "speaker": "Anna",
     "text": "Egal also ob Äre Projet grouss oder kleng ass, et gëtt eng Berodung dofir.",
-    "t": 245.39
+    "t": 245.57
    },
    {
     "speaker": "Tom",
     "text": "Elo Anna, loosse mer iwwer Suen schwätzen, well dës Projete kënnen deier sinn.",
-    "t": 249.54
+    "t": 249.72
    },
    {
     "speaker": "Anna",
     "text": "Dat kënne se. Mä déi gutt Noriicht ass, datt et vill Aiden a Subventiounen gëtt.",
-    "t": 253.88
+    "t": 254.06
    },
    {
     "speaker": "Tom",
     "text": "An dat ass eng aner Plaz, wou d'Klima-Agence wierklech hëlleft. Si féieren Iech duerch déi finanziell Ënnerstëtzung.",
-    "t": 258.75
+    "t": 258.93
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt Subventiounen vum Staat, vun Ärer Gemeng, an heiansdo esouguer vun den Energieliwweranten.",
-    "t": 264.81
+    "t": 264.95
    },
    {
     "speaker": "Tom",
     "text": "All déi am Iwwerbléck ze behalen, wier eng eelend Aarbecht, wann Dir et eleng misst maachen.",
-    "t": 271.05
+    "t": 271.19
    },
    {
     "speaker": "Anna",
     "text": "Dofir hëlleft d'Klima-Agence Iech ze verstoen, wéi eng Aiden op Äre Projet zoutreffen.",
-    "t": 274.41
+    "t": 274.55
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt esouguer en Online-Simulateur fir d'Subventiounen. Dir gitt Äre Projet an, an en weist Iech, wat fir eng Ënnerstëtzung Dir kéint kréien.",
-    "t": 279.33
+    "t": 279.47
    },
    {
     "speaker": "Anna",
     "text": "E groussen Deel dovun ass dat national Aidenprogramm mam Numm Klimabonus.",
-    "t": 285.16
+    "t": 285.3
    },
    {
     "speaker": "Tom",
     "text": "De Klimabonus ënnerstëtzt Saache wéi energieeffizient Renovatioun, erneierbar Heizung wéi Wäermepompelen, Solarpanneauen a Batterien, elektresch Gefierer, a Luetstatiounen. An en ass 2026 erneiert ginn, fir déi meescht Projete bis 2030.",
-    "t": 289.51
+    "t": 289.65
    },
    {
     "speaker": "Anna",
     "text": "Et deckt also wierklech déi meescht vun de Projeten, iwwer déi mir just geschwat hunn. A bei Solarpanneauen kënnen e puer Firmen de Subsid souguer direkt vun der Rechnung ofzéien.",
-    "t": 304.19
+    "t": 304.33
    },
    {
     "speaker": "Tom",
     "text": "Gëtt et nach aner Tools op hirer Internetsäit, nieft dem Subventiounssimulateur?",
-    "t": 312.46
+    "t": 312.6
    },
    {
     "speaker": "Anna",
     "text": "Jo, e puer ganz praktesch. Et gëtt e Solarsimulateur, fir Iech ze hëllefen, Panneauen op Ärem eegene Daach ze plangen.",
-    "t": 316.15
+    "t": 316.29
    },
    {
     "speaker": "Tom",
     "text": "An e Renovatiounsplaner, fir Iech ze hëllefen, d'Schrëtt vun engem méi groussen Projet duerchzedenken.",
-    "t": 322.13
+    "t": 322.27
    },
    {
     "speaker": "Anna",
     "text": "Dës Tools sinn gratis ze notzen, a si hëllefen Iech, e méi kloert Bild ze kréien, ier Dir Suen ausgitt.",
-    "t": 326.73
+    "t": 326.87
    },
    {
     "speaker": "Tom",
     "text": "Hei ass eng Fro, déi vill Leit hunn. Wéi fannen ech e gudden, vertrauenswierdege Fachmann, deen d'Aarbecht mécht?",
-    "t": 332.35
+    "t": 332.49
    },
    {
     "speaker": "Anna",
     "text": "D'Klima-Agence huet en Netzwierk vu certifizéierte Beroder a Fachleit, no deenen Dir sicht kënnt.",
-    "t": 337.82
+    "t": 337.96
    },
    {
     "speaker": "Tom",
     "text": "Dir sidd also net eleng gelooss, fir ze roden, wien zouverlässeg ass.",
-    "t": 343
+    "t": 342.83
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer iwwer eppes schwätzen, wat ech wierklech un hinnen bewonneren... d'Inklusioun.",
-    "t": 345.86
+    "t": 345.69
    },
    {
     "speaker": "Tom",
     "text": "Jo. Hir Berodung ass fir jiddereen geduecht, egal wat Är Sprooch, Äre Budget, oder Är Hierkonft ass.",
-    "t": 350.13
+    "t": 349.96
    },
    {
     "speaker": "Anna",
     "text": "A si schenken eng besonnesch Opmierksamkeet de Leit, déi am meeschten Hëllef brauchen.",
-    "t": 355.77
+    "t": 355.6
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispill, wann d'Energierechnungen schwéier ze bezuele ginn, da gëtt et Ënnerstëtzung, och iwwer d'Sozialämter.",
-    "t": 359.37
+    "t": 359.2
    },
    {
     "speaker": "Anna",
     "text": "Dat ass also net just fir Leit, déi grouss nei Heiser bauen. Et ass fir Locatairen, fir Famille mat engem knappe Budget, fir jiddereen.",
-    "t": 366.25
+    "t": 366.08
    },
    {
     "speaker": "Tom",
     "text": "Elo gëtt et eng wichteg Warnung, déi mer weiderginn sollten, iwwer d'Vertrauen.",
-    "t": 373.94
+    "t": 373.77
    },
    {
     "speaker": "Anna",
     "text": "Jo. D'Klima-Agence léisst ni privat Firmen hiren Numm oder hiert Logo notzen, fir hir Produiten ze verkafen.",
-    "t": 377.59
+    "t": 377.42
    },
    {
     "speaker": "Tom",
     "text": "Wann Dir also eng Reklamm oder eng Noriicht gesitt, déi den Numm Klima-Agence notzt, fir e Verkaf ze pushen, da passt op... dat sinn net si.",
-    "t": 384.42
+    "t": 383.93
    },
    {
     "speaker": "Anna",
     "text": "Déi richteg Klima-Agence gëtt gratis, neutral Berodung. Si féiert keng Verkafskampagnen duerch aner Firmen.",
-    "t": 391.91
+    "t": 390.88
    },
    {
     "speaker": "Tom",
     "text": "Am Zweiwelsfall kontaktéiert d'Klima-Agence direkt, iwwer déi offiziell Telefonsnummer oder Internetsäit.",
-    "t": 398.77
+    "t": 397.53
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, loosse mer dat richteg praktesch maachen. Wéi soll een d'Klima-Agence tatsächlech notzen?",
-    "t": 404.16
+    "t": 402.94
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... ier Dir en Energieprojet ufänkt, kritt gratis Berodung. Stellt Är Froen, ier Dir Suen ausgitt.",
-    "t": 410.06
+    "t": 408.73
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... notzt déi Online-Simulateuren, fir d'Subventiounen ze verstoen an Är Solar- oder Renovatioun ze plangen.",
-    "t": 416.39
+    "t": 415.06
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... loosst se Iech hëllefen, déi richteg Aiden ze fannen, wéi de Klimabonus, esou datt Dir keng Ënnerstëtzung verpasst.",
-    "t": 423
+    "t": 421.67
    },
    {
     "speaker": "Anna",
     "text": "Véiertens... sicht en certifizéierte Fachmann fir déi tatsächlech Aarbecht.",
-    "t": 429.05
+    "t": 427.72
    },
    {
     "speaker": "Tom",
     "text": "A fënneftens... denkt drun, datt et gratis, onofhängeg, an op Ärer Säit ass.",
-    "t": 433.46
+    "t": 432.13
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer alles zesummebréngen. Wat sollen d'Leit iwwer d'Klima-Agence behalen?",
-    "t": 437.82
+    "t": 436.49
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... et ass de Lëtzebuerger nationalen Agence fir Energie a Klima, ënnerstëtzt vun der Regierung. Si huet fréier myenergy geheescht.",
-    "t": 442.68
+    "t": 441.25
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... si gëtt gratis, onofhängeg Berodung iwwer Isolatioun, Bauen, Heizen, Solar, an Ökomobilitéit.",
-    "t": 449.72
+    "t": 448.29
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... si hëlleft Iech, Aiden a Subventiounen ze fannen, och dat national Klimabonus-Programm.",
-    "t": 458.6
+    "t": 457.17
    },
    {
     "speaker": "Anna",
     "text": "Véiertens... Dir kënnt en Beroder per Telefon, per Video, oder doheem erreechen, a gratis Online-Tools notzen.",
-    "t": 464.31
+    "t": 462.88
    },
    {
     "speaker": "Tom",
     "text": "A fënneftens... passt op jiddereen op, deen hiren Numm mëssbraucht, fir Iech eppes ze verkafen. De richtege Service ass gratis.",
-    "t": 470.86
+    "t": 469.43
    },
    {
     "speaker": "Anna",
     "text": "Energie a Klima kënnen no risege, wäite Themen ausgesinn. Mä si fänken doheem un, mat klengen, machbare Schrëtt.",
-    "t": 477.9
+    "t": 476.47
    },
    {
     "speaker": "Tom",
     "text": "An Dir musst dat net alles eleng erausfannen. Et gëtt gratis, frëndlech, fachlech Hëllef, déi op Iech waart.",
-    "t": 485.2
+    "t": 483.77
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer d'Klima-Agence. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 491.42
+    "t": 489.99
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 534.76
+    "t": 533.75
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 537.96
+    "t": 536.96
    }
   ]
  },
@@ -72168,7 +72168,7 @@ const EPISODES = [
   "title": "The Environment Portal – emwelt.lu and Caring for Nature in Luxembourg",
   "description": "What the environment portal emwelt.lu is, run by the Ministry of the Environment, Climate and Biodiversity, the areas it covers (nature, water, air, climate, waste and more), its practical services like real-time air quality, bathing-water quality and the waste-sorting guide, and how everyone can take part in protecting nature.",
   "audio": "podcast_environnement.mp3",
-  "duration": 389.3,
+  "duration": 389.2,
   "topics": [
    "The emwelt.lu portal",
    "Ministry of the Environment",
@@ -72398,187 +72398,187 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "And for housing and land, there's the Observatoire de l'Habitat.",
-    "t": 215.83
+    "t": 215.71
    },
    {
     "speaker": "Anna",
     "text": "The environment portal sits alongside them.",
-    "t": 219.62
+    "t": 219.5
    },
    {
     "speaker": "Tom",
     "text": "Together, they show a country thinking carefully about its future.",
-    "t": 222.62
+    "t": 222.5
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about why this matters for each of us, in daily life.",
-    "t": 226.5
+    "t": 226.38
    },
    {
     "speaker": "Tom",
     "text": "First, because the environment is not somewhere else.",
-    "t": 230.59
+    "t": 230.47
    },
    {
     "speaker": "Tom",
     "text": "It is the air on your street and the water in your tap.",
-    "t": 234.08
+    "t": 233.96
    },
    {
     "speaker": "Anna",
     "text": "Second, because small actions add up.",
-    "t": 237.41
+    "t": 237.29
    },
    {
     "speaker": "Anna",
     "text": "Sorting waste, saving water, protecting a green space... it all counts.",
-    "t": 240.52
+    "t": 240.4
    },
    {
     "speaker": "Tom",
     "text": "And third, because being informed lets you take part... in consultations, in local projects, in everyday choices.",
-    "t": 246.46
+    "t": 246.34
    },
    {
     "speaker": "Anna",
     "text": "The portal also shares the country's latest plans... for example a new national plan to restore nature.",
-    "t": 253.34
+    "t": 253.22
    },
    {
     "speaker": "Tom",
     "text": "So this is not a passive website.",
-    "t": 259.96
+    "t": 259.84
    },
    {
     "speaker": "Tom",
     "text": "It's an invitation to act, together.",
-    "t": 262.43
+    "t": 262.31
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 265.14
+    "t": 265.02
    },
    {
     "speaker": "Anna",
     "text": "How can someone use emwelt dot lu?",
-    "t": 266.52
+    "t": 266.4
    },
    {
     "speaker": "Tom",
     "text": "First, before a summer swim, check the bathing-water quality.",
-    "t": 269.04
+    "t": 268.92
    },
    {
     "speaker": "Tom",
     "text": "Before a high-pollution day, check the air.",
-    "t": 273.04
+    "t": 272.92
    },
    {
     "speaker": "Anna",
     "text": "Second, when in doubt about waste, use the sorting guide or the app to recycle correctly.",
-    "t": 275.32
+    "t": 275.2
    },
    {
     "speaker": "Tom",
     "text": "Third, if you have a green project, or need an environmental permit, look up the procedures and grants.",
-    "t": 281.74
+    "t": 281.62
    },
    {
     "speaker": "Anna",
     "text": "And fourth, to reconnect with nature, find a nearby nature trail or forest centre and simply go.",
-    "t": 288.58
+    "t": 288.46
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 295.28
+    "t": 295.16
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about the environment portal?",
-    "t": 296.64
+    "t": 296.52
    },
    {
     "speaker": "Anna",
     "text": "First... emwelt dot lu is Luxembourg's one-stop environment portal, from the Ministry of the Environment, Climate and Biodiversity.",
-    "t": 299.7
+    "t": 299.58
    },
    {
     "speaker": "Tom",
     "text": "Second... it covers nature, water, air, climate, waste, and more, with real-time information and services.",
-    "t": 309.25
+    "t": 309.13
    },
    {
     "speaker": "Anna",
     "text": "Third... it's both protective and inviting... rules and permits, but also nature trails and discovery.",
-    "t": 316.64
+    "t": 316.52
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it shows how each of us can take part, with simple daily actions and local projects.",
-    "t": 323.94
+    "t": 323.82
    },
    {
     "speaker": "Anna",
     "text": "Nature gives us so much, quietly, every day.",
-    "t": 330.52
+    "t": 330.4
    },
    {
     "speaker": "Anna",
     "text": "Caring for it is a way of caring for each other.",
-    "t": 333.91
+    "t": 333.79
    },
    {
     "speaker": "Tom",
     "text": "And it starts with knowing, and then with small, steady steps.",
-    "t": 336.91
+    "t": 336.79
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the environment portal.",
-    "t": 340.71
+    "t": 340.59
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 343.43
+    "t": 343.31
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 352.59
+    "t": 352.47
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 370.87
+    "t": 370.75
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 377.62
+    "t": 377.5
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 379.82
+    "t": 379.7
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 384.51
+    "t": 384.39
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 385.59
+    "t": 385.48
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 387.71
+    "t": 387.6
    }
   ],
   "questions": [
@@ -73771,117 +73771,117 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "A fir Wunnen a Buedem gëtt et den Observatoire de l'Habitat. D'Ëmweltportal steet u senger Säit.",
-    "t": 215.83
+    "t": 215.71
    },
    {
     "speaker": "Tom",
     "text": "Zesumme weisen se e Land, dat suergfälteg iwwer seng Zukunft nodenkt.",
-    "t": 222.62
+    "t": 222.5
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis driwwer schwätzen, firwat dat fir all eenzelne vun eis am Alldag wichteg ass.",
-    "t": 226.5
+    "t": 226.38
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, well d'Ëmwelt net anzwousch anescht ass. Et ass d'Loft an Ärer Strooss an d'Waasser an Ärem Krunn.",
-    "t": 230.59
+    "t": 230.47
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, well kleng Handlungen sech bäieneen addéieren. Offall trennen, Waasser spueren, eng gréng Plaz schützen... dat alles zielt.",
-    "t": 237.41
+    "t": 237.29
    },
    {
     "speaker": "Tom",
     "text": "An drëttens, well informéiert ze sinn Iech matmaache léisst... un Konsultatiounen, u lokale Projeten, un alldeegleche Choixen.",
-    "t": 246.46
+    "t": 246.34
    },
    {
     "speaker": "Anna",
     "text": "D'Portal stellt och déi neiste Pläng vum Land vir... zum Beispill en neien nationale Plang fir d'Natur ze restauréieren.",
-    "t": 253.34
+    "t": 253.22
    },
    {
     "speaker": "Tom",
     "text": "Dat ass also keng passiv Websäit. Et ass eng Alueedung, zesummen ze handelen.",
-    "t": 259.96
+    "t": 259.84
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis et praktesch maachen. Wéi kann een emwelt Punkt lu benotzen?",
-    "t": 265.14
+    "t": 265.02
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, virun engem Summerbad, iwwerpréift d'Qualitéit vum Buedwaasser. Virun engem Dag mat héijer Verschmotzung, iwwerpréift d'Loft.",
-    "t": 269.04
+    "t": 268.92
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, wann Dir beim Offall am Zweiwel sidd, benotzt de Trennguide oder d'App, fir richteg ze recycléieren.",
-    "t": 275.32
+    "t": 275.2
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, wann Dir e gréngt Projet hutt, oder eng Ëmweltgenehmegung braucht, kuckt d'Prozeduren an d'Hëllefen no.",
-    "t": 281.74
+    "t": 281.62
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, fir Iech erëm mat der Natur ze verbannen, fannt e Naturlehrpad oder e Bëschzentrum an der Géigend an gitt einfach hin.",
-    "t": 288.58
+    "t": 288.46
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis alles zesummebréngen. Wat sollen d'Leit sech iwwer d'Ëmweltportal mierken?",
-    "t": 295.28
+    "t": 295.16
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... emwelt Punkt lu ass Lëtzebuergs zentrual Ëmweltportal, vum Ministère fir Ëmwelt, Klima a Biodiversitéit.",
-    "t": 299.7
+    "t": 299.58
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... et deckt Natur, Waasser, Loft, Klima, Offall a méi of, mat Echtzäitinformatiounen a Servicer.",
-    "t": 309.25
+    "t": 309.13
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... et ass souwuel schützend wéi och alueedend... Reegelen a Genehmegungen, mä och Naturlehrpäder an Entdeckung.",
-    "t": 316.64
+    "t": 316.52
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... et weist, wéi all eenzelne vun eis matmaache kann, mat einfachen alldeegleche Handlungen a lokale Projeten.",
-    "t": 323.94
+    "t": 323.82
    },
    {
     "speaker": "Anna",
     "text": "D'Natur gëtt eis sou vill, roueg, all Dag. Suerg ëm si ze droen ass eng Manéier, Suerg ëmenee ze droen.",
-    "t": 330.52
+    "t": 330.4
    },
    {
     "speaker": "Tom",
     "text": "An et fänkt mam Wëssen un, an dann mat klengen, stännege Schrëtt.",
-    "t": 336.91
+    "t": 336.79
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer den Ëmweltportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 340.71
+    "t": 340.59
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 384.51
+    "t": 384.39
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 387.71
+    "t": 387.6
    }
   ]
  },
@@ -83852,7 +83852,7 @@ const EPISODES = [
   "title": "GOVCERT.LU – Defending Luxembourg Against Cyberattacks",
   "description": "What GOVCERT.LU is — the Government of Luxembourg's cyber incident response team (CSIRT) — how it defends the country's critical systems, responds to and analyses cyberattacks, why cybersecurity is a shared responsibility, how anyone can report an incident, and simple habits to stay safe, especially against phishing.",
   "audio": "podcast_govcert.mp3",
-  "duration": 346.36,
+  "duration": 346.1,
   "topics": [
    "What GOVCERT.LU is",
    "A 'fire brigade' for cyberattacks",
@@ -84077,172 +84077,172 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "So a healthy dose of caution online is one of the best protections you have.",
-    "t": 182.72
+    "t": 182.44
    },
    {
     "speaker": "Tom",
     "text": "Let's give some simple, everyday cyber-safety habits, in that spirit.",
-    "t": 187.36
+    "t": 187.08
    },
    {
     "speaker": "Anna",
     "text": "First, be suspicious of urgent messages asking for passwords, payments or personal details.",
-    "t": 191.6
+    "t": 191.32
    },
    {
     "speaker": "Tom",
     "text": "Second, check the real address behind a link before you click, and don't trust a message just because it looks official.",
-    "t": 197.76
+    "t": 197.48
    },
    {
     "speaker": "Anna",
     "text": "Third, use strong, different passwords, and turn on two-step verification where you can.",
-    "t": 204.56
+    "t": 204.28
    },
    {
     "speaker": "Tom",
     "text": "And fourth, keep your devices and apps updated... updates often fix security holes.",
-    "t": 210.4
+    "t": 210.12
    },
    {
     "speaker": "Anna",
     "text": "Let's step back.",
-    "t": 215.83
+    "t": 215.55
    },
    {
     "speaker": "Anna",
     "text": "Why does an organisation like GOVCERT.LU matter for ordinary people?",
-    "t": 216.99
+    "t": 216.71
    },
    {
     "speaker": "Tom",
     "text": "Because the systems they protect are the ones your daily life depends on.",
-    "t": 221.6
+    "t": 221.32
    },
    {
     "speaker": "Anna",
     "text": "A safe hospital network, a working bank, reliable public services... cybersecurity keeps them standing.",
-    "t": 225.9
+    "t": 225.62
    },
    {
     "speaker": "Tom",
     "text": "And in a small, highly connected country, that quiet defence is more important than ever.",
-    "t": 233.33
+    "t": 233.05
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 238.32
+    "t": 238.04
    },
    {
     "speaker": "Anna",
     "text": "What can people take from this?",
-    "t": 239.85
+    "t": 239.57
    },
    {
     "speaker": "Tom",
     "text": "First, know that Luxembourg has a national cyber-defence team responding to serious attacks.",
-    "t": 241.87
+    "t": 241.59
    },
    {
     "speaker": "Anna",
     "text": "Second, remember that security is collective... if you see a suspicious incident, you can report it.",
-    "t": 247.48
+    "t": 247.2
    },
    {
     "speaker": "Tom",
     "text": "Third, follow simple habits to protect yourself, especially against phishing.",
-    "t": 254.33
+    "t": 254.05
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it together.",
-    "t": 259.07
+    "t": 258.79
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about GOVCERT.LU?",
-    "t": 260.54
+    "t": 260.26
    },
    {
     "speaker": "Tom",
     "text": "First... it's the government's cyber incident response team, defending Luxembourg's critical systems.",
-    "t": 263.56
+    "t": 263.28
    },
    {
     "speaker": "Anna",
     "text": "Second... it responds to attacks, analyses them, and builds stronger, more resilient defences.",
-    "t": 269.69
+    "t": 269.41
    },
    {
     "speaker": "Tom",
     "text": "Third... cybersecurity is a shared responsibility, and you can report incidents you discover.",
-    "t": 275.91
+    "t": 275.63
    },
    {
     "speaker": "Anna",
     "text": "And fourth... watch out for phishing, and follow simple habits to stay safe online.",
-    "t": 281.63
+    "t": 281.35
    },
    {
     "speaker": "Tom",
     "text": "The digital world brings amazing things.",
-    "t": 286.78
+    "t": 286.5
    },
    {
     "speaker": "Tom",
     "text": "But like any city, it needs guardians.",
-    "t": 289.13
+    "t": 288.85
    },
    {
     "speaker": "Anna",
     "text": "And knowing they're there, and doing our own small part, keeps us all a little safer.",
-    "t": 291.57
+    "t": 291.29
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about GOVCERT.LU.",
-    "t": 297.11
+    "t": 296.83
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 300.35
+    "t": 300.07
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 309.64
+    "t": 309.36
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 327.92
+    "t": 327.64
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 334.67
+    "t": 334.39
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 336.87
+    "t": 336.59
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 341.56
+    "t": 341.28
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 342.64
+    "t": 342.37
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 344.76
+    "t": 344.49
    }
   ],
   "questions": [
@@ -85376,117 +85376,117 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Eng gesond Portioun Virsiicht online ass also ee vun de beschte Schutz, deen Dir hutt.",
-    "t": 182.72
+    "t": 182.44
    },
    {
     "speaker": "Tom",
     "text": "Gi mer an deem Sënn e puer einfach alldeeglech Gewunnechten fir d'Cybersécherheet.",
-    "t": 187.36
+    "t": 187.08
    },
    {
     "speaker": "Anna",
     "text": "Éischtens, sidd mësstrauesch bei drénglechen Noriichten, déi no Passwierder, Bezuelungen oder perséinlechen Donnéeë froen.",
-    "t": 191.6
+    "t": 191.32
    },
    {
     "speaker": "Tom",
     "text": "Zweetens, kontrolléiert déi richteg Adress hannert engem Link, ier Dir klickt, a vertraut enger Noriicht net nëmmen, well se offiziell ausgesäit.",
-    "t": 197.76
+    "t": 197.48
    },
    {
     "speaker": "Anna",
     "text": "Drëttens, benotzt staark, ënnerschiddlech Passwierder, an aktivéiert d'Verifizéierung an zwee Schrëtt, wou Dir kënnt.",
-    "t": 204.56
+    "t": 204.28
    },
    {
     "speaker": "Tom",
     "text": "A véiertens, haalt Är Apparater an Apps op dem neiste Stand... Updates maache dacks Sécherheetslächer zou.",
-    "t": 210.4
+    "t": 210.12
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer e Schrëtt zréckginn. Firwat ass eng Organisatioun wéi GOVCERT.LU fir ganz normal Leit wichteg?",
-    "t": 215.83
+    "t": 215.55
    },
    {
     "speaker": "Tom",
     "text": "Well d'Systemer, déi se schützen, genau déi sinn, vun deenen Ären Alldag ofhänkt.",
-    "t": 221.6
+    "t": 221.32
    },
    {
     "speaker": "Anna",
     "text": "En séchert Spidolsnetz, eng funktionéierend Bank, zouverléisseg ëffentlech Servicer... d'Cybersécherheet hält se op de Been.",
-    "t": 225.9
+    "t": 225.62
    },
    {
     "speaker": "Tom",
     "text": "An an engem klengen, héich vernetzte Land ass déi roueg Verdeedegung méi wichteg wéi jee.",
-    "t": 233.33
+    "t": 233.05
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer et praktesch maachen. Wat kënnen d'Leit doraus mathuelen?",
-    "t": 238.32
+    "t": 238.04
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, wësst, datt Lëtzebuerg eng national Cyber-Verdeedegungsequipe huet, déi op schwéier Attacken reagéiert.",
-    "t": 241.87
+    "t": 241.59
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, denkt drun, datt Sécherheet gemeinsam ass... wann Dir en verdächtegen Tëschefall gesitt, kënnt Dir en mellen.",
-    "t": 247.48
+    "t": 247.2
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, befollegt einfach Gewunnechten, fir Iech ze schützen, virun allem géint Phishing.",
-    "t": 254.33
+    "t": 254.05
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer et zesummefaassen. Wat sollten d'Leit sech iwwer GOVCERT.LU merken?",
-    "t": 259.07
+    "t": 258.79
    },
    {
     "speaker": "Tom",
     "text": "Éischtens... et ass d'Cyber-Noutfallequipe vun der Regierung, déi d'krittesch Systemer vu Lëtzebuerg verdeedegt.",
-    "t": 263.56
+    "t": 263.28
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... si reagéiert op Attacken, analyséiert se, a baut méi staark a méi widderstandsfäeg Verdeedegungen op.",
-    "t": 269.69
+    "t": 269.41
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... d'Cybersécherheet ass eng gedeelt Verantwortung, an Dir kënnt Tëschefäll mellen, déi Dir entdeckt.",
-    "t": 275.91
+    "t": 275.63
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... passt op Phishing op, a befollegt einfach Gewunnechten, fir online sécher ze bleiwen.",
-    "t": 281.63
+    "t": 281.35
    },
    {
     "speaker": "Tom",
     "text": "Déi digital Welt bréngt wonnerbar Saachen. Mä wéi all Stad brauch se Wiechter.",
-    "t": 286.78
+    "t": 286.5
    },
    {
     "speaker": "Anna",
     "text": "A wëssen, datt se do sinn, an eisen eegene klengen Deel ze leeschten, mécht eis all e bësse méi sécher. Dat war eis Episod iwwer GOVCERT.LU. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 291.57
+    "t": 291.29
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 341.56
+    "t": 341.28
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 344.76
+    "t": 344.49
    }
   ]
  },
@@ -91616,7 +91616,7 @@ const EPISODES = [
   "title": "The Housing Portal – Help to Rent, Buy and Renovate in Luxembourg",
   "description": "What the housing portal (logement.public.lu) offers — the Ministry of Housing's one-stop site for tenants, owners and communes — tenants' rights and rental help like the rent subsidy, support for buying, building and renovating a home, the single counter for housing aids, and the push for affordable housing.",
   "audio": "podcast_logement.mp3",
-  "duration": 304.64,
+  "duration": 305.19,
   "topics": [
    "The housing portal",
    "For tenants, owners & communes",
@@ -91796,177 +91796,177 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "So the pieces fit together... advice on one side, financial help on the other.",
-    "t": 140.87
+    "t": 141.37
    },
    {
     "speaker": "Anna",
     "text": "There's a very practical detail worth knowing... a single counter for housing aids.",
-    "t": 145.32
+    "t": 145.82
    },
    {
     "speaker": "Tom",
     "text": "A one-stop office where you can ask about, and apply for, the different housing supports.",
-    "t": 150.3
+    "t": 150.8
    },
    {
     "speaker": "Tom",
     "text": "You can even book an appointment online, through MyGuichet.",
-    "t": 155.22
+    "t": 155.72
    },
    {
     "speaker": "Anna",
     "text": "So you don't have to run between many offices.",
-    "t": 158.54
+    "t": 159.04
    },
    {
     "speaker": "Anna",
     "text": "There's one door to knock on.",
-    "t": 160.83
+    "t": 161.33
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about the bigger picture, too, because housing is a national priority.",
-    "t": 162.72
+    "t": 163.22
    },
    {
     "speaker": "Anna",
     "text": "The portal explains the policy on affordable housing... building more homes that ordinary people can actually afford.",
-    "t": 167.14
+    "t": 167.64
    },
    {
     "speaker": "Tom",
     "text": "And the partnership with communes, so that towns and villages help create affordable homes locally.",
-    "t": 174.3
+    "t": 174.8
    },
    {
     "speaker": "Tom",
     "text": "Since 2026, there's also one national register where you can apply for an affordable home, online through MyGuichet.",
-    "t": 179.51
+    "t": 180.01
    },
    {
     "speaker": "Anna",
     "text": "It's a long road, but the direction is clear... more, and more affordable, housing.",
-    "t": 186.33
+    "t": 186.83
    },
    {
     "speaker": "Tom",
     "text": "Let's make it really practical.",
-    "t": 191.54
+    "t": 192.04
    },
    {
     "speaker": "Tom",
     "text": "What should someone do with all this?",
-    "t": 193.1
+    "t": 193.6
    },
    {
     "speaker": "Anna",
     "text": "First, if you rent and your income is modest, check whether you qualify for the rent subsidy.",
-    "t": 195.19
+    "t": 195.69
    },
    {
     "speaker": "Tom",
     "text": "Second, if you're hoping to buy or build, look at the State's support before you start.",
-    "t": 200.95
+    "t": 201.45
    },
    {
     "speaker": "Anna",
     "text": "Third, if you want to renovate, especially for energy, combine Klima-Agence advice with housing aids.",
-    "t": 205.7
+    "t": 206.2
    },
    {
     "speaker": "Tom",
     "text": "And fourth, when in doubt, contact the single counter for housing aids, and just ask.",
-    "t": 212.52
+    "t": 213.04
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it together.",
-    "t": 217.64
+    "t": 218.16
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about the housing portal?",
-    "t": 219.01
+    "t": 219.53
    },
    {
     "speaker": "Tom",
     "text": "First... logement dot public dot lu is the Ministry of Housing's one-stop portal, for tenants, owners and communes.",
-    "t": 221.94
+    "t": 222.46
    },
    {
     "speaker": "Anna",
     "text": "Second... it explains tenants' rights and rental help, like the rent subsidy.",
-    "t": 229.79
+    "t": 230.31
    },
    {
     "speaker": "Tom",
     "text": "Third... it sets out support for buying, building and renovating a home.",
-    "t": 234.73
+    "t": 235.25
    },
    {
     "speaker": "Anna",
     "text": "And fourth... there's a single counter for housing aids, and a national push for affordable housing.",
-    "t": 239.34
+    "t": 239.86
    },
    {
     "speaker": "Tom",
     "text": "A home is more than four walls.",
-    "t": 245.5
+    "t": 246.02
    },
    {
     "speaker": "Tom",
     "text": "It's security, dignity, and a place to build a life.",
-    "t": 247.73
+    "t": 248.25
    },
    {
     "speaker": "Anna",
     "text": "And knowing what help exists can bring that a little closer for many families.",
-    "t": 250.9
+    "t": 251.42
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the housing portal.",
-    "t": 255.47
+    "t": 255.99
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 258.16
+    "t": 258.68
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 267.92
+    "t": 268.44
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 286.21
+    "t": 286.73
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 292.96
+    "t": 293.48
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 295.16
+    "t": 295.68
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 299.85
+    "t": 300.37
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 300.93
+    "t": 301.46
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 303.05
+    "t": 303.58
    }
   ],
   "questions": [
@@ -92989,112 +92989,112 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Esou passen d'Stécker zesummen... Berodung op enger Säit, finanziell Hëllef op der anerer.",
-    "t": 140.87
+    "t": 141.37
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt en ganz prakteschen Detail, deen een sollt kennen... eng zentral Ulafstell fir Wunnengshëllefen.",
-    "t": 145.32
+    "t": 145.82
    },
    {
     "speaker": "Tom",
     "text": "Eng zentral Ulafstell, wou Dir Iech iwwer déi verschidde Wunnengshëllefen informéiere kënnt, a se ufroe kënnt. Dir kënnt souguer online e Rendez-vous huelen, iwwer MyGuichet.",
-    "t": 150.3
+    "t": 150.8
    },
    {
     "speaker": "Anna",
     "text": "Esou musst Dir net tëscht ville Büroe lafen. Et gëtt eng eenzeg Dier, un déi ee klappe muss.",
-    "t": 158.54
+    "t": 159.04
    },
    {
     "speaker": "Tom",
     "text": "Schwätze mir och iwwer dat grousst Ganzt, well d'Wunnen ass eng national Prioritéit.",
-    "t": 162.72
+    "t": 163.22
    },
    {
     "speaker": "Anna",
     "text": "De Portal erkläert d'Politik vum bezuelbare Wunnraum... méi Wunnenge bauen, déi sech normal Leit wierklech leeschte kënnen.",
-    "t": 167.14
+    "t": 167.64
    },
    {
     "speaker": "Tom",
     "text": "An d'Partnerschaft mat de Gemengen, esou datt Stied an Dierfer hëllefen, lokal bezuelbare Wunnraum ze schafen. Zënter 2026 gëtt et och een eenzegen nationale Register, iwwer deen Dir Iech fir eng bezuelbar Wunneng mellt, online iwwer MyGuichet.",
-    "t": 174.3
+    "t": 174.8
    },
    {
     "speaker": "Anna",
     "text": "Et ass e laange Wee, mä d'Richtung ass kloer... méi, a méi bezuelbar, Wunnraum.",
-    "t": 186.33
+    "t": 186.83
    },
    {
     "speaker": "Tom",
     "text": "Maache mir et ganz konkret. Wat soll een mat all deem maachen?",
-    "t": 191.54
+    "t": 192.04
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, wann Dir lount an Äert Akommes bescheiden ass, kuckt, ob Dir Usproch op de Loyerszuschoss hutt.",
-    "t": 195.19
+    "t": 195.69
    },
    {
     "speaker": "Tom",
     "text": "Als zweetes, wann Dir hofft ze kafen oder ze bauen, kuckt d'Ënnerstëtzung vum Staat un, ier Dir ufänkt.",
-    "t": 200.95
+    "t": 201.45
    },
    {
     "speaker": "Anna",
     "text": "Als drëttes, wann Dir renovéiere wëllt, besonnesch energetesch, kombinéiert d'Berodung vun der Klima-Agence mat de Wunnengshëllefen.",
-    "t": 205.7
+    "t": 206.2
    },
    {
     "speaker": "Tom",
     "text": "A véiertens, wann Dir am Zweiwel sidd, kontaktéiert d'zentral Ulafstell fir Wunnengshëllefen, a frot einfach no.",
-    "t": 212.52
+    "t": 213.04
    },
    {
     "speaker": "Anna",
     "text": "Faasse mir et zesummen. Wat solle sech d'Leit iwwer de Wunnengsportal mierken?",
-    "t": 217.64
+    "t": 218.16
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... logement Punkt public Punkt lu ass den zentrale Portal vum Wunnengsbauministère, fir Locatairen, Eegentümer a Gemengen.",
-    "t": 221.94
+    "t": 222.46
    },
    {
     "speaker": "Anna",
     "text": "Als zweetes... en erkläert d'Rechter vun de Locatairen an d'Lounhëllefen, wéi de Loyerszuschoss.",
-    "t": 229.79
+    "t": 230.31
    },
    {
     "speaker": "Tom",
     "text": "Als drëttes... en stellt d'Ënnerstëtzung fir de Kaf, de Bau an d'Renovéierung vun enger Wunneng duer.",
-    "t": 234.73
+    "t": 235.25
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... et gëtt eng zentral Ulafstell fir Wunnengshëllefen, an en nationale Schwong fir bezuelbare Wunnraum.",
-    "t": 239.34
+    "t": 239.86
    },
    {
     "speaker": "Tom",
     "text": "En Doheem ass méi wéi véier Maueren. Et ass Sécherheet, Wierdegkeet, an eng Plaz fir e Liewen opzebauen.",
-    "t": 245.5
+    "t": 246.02
    },
    {
     "speaker": "Anna",
     "text": "A wëssen, wéi eng Hëllef et gëtt, kann dat fir vill Familljen e Stéck méi no bréngen. Dat war eis Episod iwwer de Wunnengsportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 250.9
+    "t": 251.42
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 299.85
+    "t": 300.37
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 303.05
+    "t": 303.58
    }
   ]
  },

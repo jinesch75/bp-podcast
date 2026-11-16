@@ -372,3 +372,7 @@ Jacques asked for the English episode as a motion graphics video and a separate 
 - "Luxembourg" said the French way: new `build/lux_en_vs_fr.py` compares each "Luxembourg" with an English and a French-style reference by the same voice (whisper confidence can't tell, same spelling). None came out closer to French after the re-recording; the 3 least English ones were retaken (`THRESH=-1.0 … --fix`). `pick_word_take.py` now has `"*"` + `MIN_P` to scan all sentences with a word; `match_pron.py` has `ONLY`, `SCORE_ONLY`, `MAX_D`.
 - Pitch of "No. You apply once…" (Anna, f0 225 vs her median 196) + 8 other odd short lines retaken with `best_take.py`. ≈ 6,500 credits in total. EN 14:55, FR 13:37, DE 16:09.
 - Follow-up (same day): EN Zukunftskeess still not good → Jacques: say it only once by Anna and once by Tom at the start, then "the CAE" (spoken C-A-E; "CAE" added to LETTERS) — `build/apply_cae_name_zukunftskeess_2026_11.py` (14 lines, EN only; Anna's intro now ends "the CAE. That's what we'll call it today."). Tom's closing "So..." pause removed. ≈ 2,800 credits. EN 14:51.
+
+## Klima-Agence in English (16 Nov 2026)
+
+Anna said "Kly-ma", Tom "clee-ma" (Jacques: Tom is right). A/B (`REF_LANG=en REF_ROLE=Tom python3 build/pron_ab.py klima …`, file `build/el_test/pron_klima_en_AB.mp3`) → choice B: EN rule `klima-agence` → "Clima-Agence" (also the website). Re-recorded the EN sentences in klima, environnement, govcert, logement (≈ 2,200 credits), put live with `replace_audio_elevenlabs.js … en`. "Klimabonus" unchanged.

@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "The Housing Portal – Help to Rent, Buy and Renovate in Luxembourg",
   "description": "What the housing portal (logement.public.lu) offers — the Ministry of Housing's one-stop site for tenants, owners and communes — tenants' rights and rental help like the rent subsidy, support for buying, building and renovating a home, the single counter for housing aids, and the push for affordable housing.",
   "audio": "../../podcast_logement.mp3",
-  "duration": 304.64,
+  "duration": 305.19,
   "topics": [
    "The housing portal",
    "For tenants, owners & communes",
@@ -186,177 +186,177 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "So the pieces fit together... advice on one side, financial help on the other.",
-    "t": 140.87
+    "t": 141.37
    },
    {
     "speaker": "Anna",
     "text": "There's a very practical detail worth knowing... a single counter for housing aids.",
-    "t": 145.32
+    "t": 145.82
    },
    {
     "speaker": "Tom",
     "text": "A one-stop office where you can ask about, and apply for, the different housing supports.",
-    "t": 150.3
+    "t": 150.8
    },
    {
     "speaker": "Tom",
     "text": "You can even book an appointment online, through MyGuichet.",
-    "t": 155.22
+    "t": 155.72
    },
    {
     "speaker": "Anna",
     "text": "So you don't have to run between many offices.",
-    "t": 158.54
+    "t": 159.04
    },
    {
     "speaker": "Anna",
     "text": "There's one door to knock on.",
-    "t": 160.83
+    "t": 161.33
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about the bigger picture, too, because housing is a national priority.",
-    "t": 162.72
+    "t": 163.22
    },
    {
     "speaker": "Anna",
     "text": "The portal explains the policy on affordable housing... building more homes that ordinary people can actually afford.",
-    "t": 167.14
+    "t": 167.64
    },
    {
     "speaker": "Tom",
     "text": "And the partnership with communes, so that towns and villages help create affordable homes locally.",
-    "t": 174.3
+    "t": 174.8
    },
    {
     "speaker": "Tom",
     "text": "Since 2026, there's also one national register where you can apply for an affordable home, online through MyGuichet.",
-    "t": 179.51
+    "t": 180.01
    },
    {
     "speaker": "Anna",
     "text": "It's a long road, but the direction is clear... more, and more affordable, housing.",
-    "t": 186.33
+    "t": 186.83
    },
    {
     "speaker": "Tom",
     "text": "Let's make it really practical.",
-    "t": 191.54
+    "t": 192.04
    },
    {
     "speaker": "Tom",
     "text": "What should someone do with all this?",
-    "t": 193.1
+    "t": 193.6
    },
    {
     "speaker": "Anna",
     "text": "First, if you rent and your income is modest, check whether you qualify for the rent subsidy.",
-    "t": 195.19
+    "t": 195.69
    },
    {
     "speaker": "Tom",
     "text": "Second, if you're hoping to buy or build, look at the State's support before you start.",
-    "t": 200.95
+    "t": 201.45
    },
    {
     "speaker": "Anna",
     "text": "Third, if you want to renovate, especially for energy, combine Klima-Agence advice with housing aids.",
-    "t": 205.7
+    "t": 206.2
    },
    {
     "speaker": "Tom",
     "text": "And fourth, when in doubt, contact the single counter for housing aids, and just ask.",
-    "t": 212.52
+    "t": 213.04
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it together.",
-    "t": 217.64
+    "t": 218.16
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about the housing portal?",
-    "t": 219.01
+    "t": 219.53
    },
    {
     "speaker": "Tom",
     "text": "First... logement dot public dot lu is the Ministry of Housing's one-stop portal, for tenants, owners and communes.",
-    "t": 221.94
+    "t": 222.46
    },
    {
     "speaker": "Anna",
     "text": "Second... it explains tenants' rights and rental help, like the rent subsidy.",
-    "t": 229.79
+    "t": 230.31
    },
    {
     "speaker": "Tom",
     "text": "Third... it sets out support for buying, building and renovating a home.",
-    "t": 234.73
+    "t": 235.25
    },
    {
     "speaker": "Anna",
     "text": "And fourth... there's a single counter for housing aids, and a national push for affordable housing.",
-    "t": 239.34
+    "t": 239.86
    },
    {
     "speaker": "Tom",
     "text": "A home is more than four walls.",
-    "t": 245.5
+    "t": 246.02
    },
    {
     "speaker": "Tom",
     "text": "It's security, dignity, and a place to build a life.",
-    "t": 247.73
+    "t": 248.25
    },
    {
     "speaker": "Anna",
     "text": "And knowing what help exists can bring that a little closer for many families.",
-    "t": 250.9
+    "t": 251.42
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the housing portal.",
-    "t": 255.47
+    "t": 255.99
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 258.16
+    "t": 258.68
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 267.92
+    "t": 268.44
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 286.21
+    "t": 286.73
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 292.96
+    "t": 293.48
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 295.16
+    "t": 295.68
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 299.85
+    "t": 300.37
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 300.93
+    "t": 301.46
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 303.05
+    "t": 303.58
    }
   ],
   "questions": [
@@ -1379,112 +1379,112 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Esou passen d'Stécker zesummen... Berodung op enger Säit, finanziell Hëllef op der anerer.",
-    "t": 140.87
+    "t": 141.37
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt en ganz prakteschen Detail, deen een sollt kennen... eng zentral Ulafstell fir Wunnengshëllefen.",
-    "t": 145.32
+    "t": 145.82
    },
    {
     "speaker": "Tom",
     "text": "Eng zentral Ulafstell, wou Dir Iech iwwer déi verschidde Wunnengshëllefen informéiere kënnt, a se ufroe kënnt. Dir kënnt souguer online e Rendez-vous huelen, iwwer MyGuichet.",
-    "t": 150.3
+    "t": 150.8
    },
    {
     "speaker": "Anna",
     "text": "Esou musst Dir net tëscht ville Büroe lafen. Et gëtt eng eenzeg Dier, un déi ee klappe muss.",
-    "t": 158.54
+    "t": 159.04
    },
    {
     "speaker": "Tom",
     "text": "Schwätze mir och iwwer dat grousst Ganzt, well d'Wunnen ass eng national Prioritéit.",
-    "t": 162.72
+    "t": 163.22
    },
    {
     "speaker": "Anna",
     "text": "De Portal erkläert d'Politik vum bezuelbare Wunnraum... méi Wunnenge bauen, déi sech normal Leit wierklech leeschte kënnen.",
-    "t": 167.14
+    "t": 167.64
    },
    {
     "speaker": "Tom",
     "text": "An d'Partnerschaft mat de Gemengen, esou datt Stied an Dierfer hëllefen, lokal bezuelbare Wunnraum ze schafen. Zënter 2026 gëtt et och een eenzegen nationale Register, iwwer deen Dir Iech fir eng bezuelbar Wunneng mellt, online iwwer MyGuichet.",
-    "t": 174.3
+    "t": 174.8
    },
    {
     "speaker": "Anna",
     "text": "Et ass e laange Wee, mä d'Richtung ass kloer... méi, a méi bezuelbar, Wunnraum.",
-    "t": 186.33
+    "t": 186.83
    },
    {
     "speaker": "Tom",
     "text": "Maache mir et ganz konkret. Wat soll een mat all deem maachen?",
-    "t": 191.54
+    "t": 192.04
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, wann Dir lount an Äert Akommes bescheiden ass, kuckt, ob Dir Usproch op de Loyerszuschoss hutt.",
-    "t": 195.19
+    "t": 195.69
    },
    {
     "speaker": "Tom",
     "text": "Als zweetes, wann Dir hofft ze kafen oder ze bauen, kuckt d'Ënnerstëtzung vum Staat un, ier Dir ufänkt.",
-    "t": 200.95
+    "t": 201.45
    },
    {
     "speaker": "Anna",
     "text": "Als drëttes, wann Dir renovéiere wëllt, besonnesch energetesch, kombinéiert d'Berodung vun der Klima-Agence mat de Wunnengshëllefen.",
-    "t": 205.7
+    "t": 206.2
    },
    {
     "speaker": "Tom",
     "text": "A véiertens, wann Dir am Zweiwel sidd, kontaktéiert d'zentral Ulafstell fir Wunnengshëllefen, a frot einfach no.",
-    "t": 212.52
+    "t": 213.04
    },
    {
     "speaker": "Anna",
     "text": "Faasse mir et zesummen. Wat solle sech d'Leit iwwer de Wunnengsportal mierken?",
-    "t": 217.64
+    "t": 218.16
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... logement Punkt public Punkt lu ass den zentrale Portal vum Wunnengsbauministère, fir Locatairen, Eegentümer a Gemengen.",
-    "t": 221.94
+    "t": 222.46
    },
    {
     "speaker": "Anna",
     "text": "Als zweetes... en erkläert d'Rechter vun de Locatairen an d'Lounhëllefen, wéi de Loyerszuschoss.",
-    "t": 229.79
+    "t": 230.31
    },
    {
     "speaker": "Tom",
     "text": "Als drëttes... en stellt d'Ënnerstëtzung fir de Kaf, de Bau an d'Renovéierung vun enger Wunneng duer.",
-    "t": 234.73
+    "t": 235.25
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... et gëtt eng zentral Ulafstell fir Wunnengshëllefen, an en nationale Schwong fir bezuelbare Wunnraum.",
-    "t": 239.34
+    "t": 239.86
    },
    {
     "speaker": "Tom",
     "text": "En Doheem ass méi wéi véier Maueren. Et ass Sécherheet, Wierdegkeet, an eng Plaz fir e Liewen opzebauen.",
-    "t": 245.5
+    "t": 246.02
    },
    {
     "speaker": "Anna",
     "text": "A wëssen, wéi eng Hëllef et gëtt, kann dat fir vill Familljen e Stéck méi no bréngen. Dat war eis Episod iwwer de Wunnengsportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 250.9
+    "t": 251.42
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 299.85
+    "t": 300.37
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 303.05
+    "t": 303.58
    }
   ]
  }

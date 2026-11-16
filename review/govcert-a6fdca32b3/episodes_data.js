@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "GOVCERT.LU – Defending Luxembourg Against Cyberattacks",
   "description": "What GOVCERT.LU is — the Government of Luxembourg's cyber incident response team (CSIRT) — how it defends the country's critical systems, responds to and analyses cyberattacks, why cybersecurity is a shared responsibility, how anyone can report an incident, and simple habits to stay safe, especially against phishing.",
   "audio": "../../podcast_govcert.mp3",
-  "duration": 346.36,
+  "duration": 346.1,
   "topics": [
    "What GOVCERT.LU is",
    "A 'fire brigade' for cyberattacks",
@@ -231,172 +231,172 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "So a healthy dose of caution online is one of the best protections you have.",
-    "t": 182.72
+    "t": 182.44
    },
    {
     "speaker": "Tom",
     "text": "Let's give some simple, everyday cyber-safety habits, in that spirit.",
-    "t": 187.36
+    "t": 187.08
    },
    {
     "speaker": "Anna",
     "text": "First, be suspicious of urgent messages asking for passwords, payments or personal details.",
-    "t": 191.6
+    "t": 191.32
    },
    {
     "speaker": "Tom",
     "text": "Second, check the real address behind a link before you click, and don't trust a message just because it looks official.",
-    "t": 197.76
+    "t": 197.48
    },
    {
     "speaker": "Anna",
     "text": "Third, use strong, different passwords, and turn on two-step verification where you can.",
-    "t": 204.56
+    "t": 204.28
    },
    {
     "speaker": "Tom",
     "text": "And fourth, keep your devices and apps updated... updates often fix security holes.",
-    "t": 210.4
+    "t": 210.12
    },
    {
     "speaker": "Anna",
     "text": "Let's step back.",
-    "t": 215.83
+    "t": 215.55
    },
    {
     "speaker": "Anna",
     "text": "Why does an organisation like GOVCERT.LU matter for ordinary people?",
-    "t": 216.99
+    "t": 216.71
    },
    {
     "speaker": "Tom",
     "text": "Because the systems they protect are the ones your daily life depends on.",
-    "t": 221.6
+    "t": 221.32
    },
    {
     "speaker": "Anna",
     "text": "A safe hospital network, a working bank, reliable public services... cybersecurity keeps them standing.",
-    "t": 225.9
+    "t": 225.62
    },
    {
     "speaker": "Tom",
     "text": "And in a small, highly connected country, that quiet defence is more important than ever.",
-    "t": 233.33
+    "t": 233.05
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 238.32
+    "t": 238.04
    },
    {
     "speaker": "Anna",
     "text": "What can people take from this?",
-    "t": 239.85
+    "t": 239.57
    },
    {
     "speaker": "Tom",
     "text": "First, know that Luxembourg has a national cyber-defence team responding to serious attacks.",
-    "t": 241.87
+    "t": 241.59
    },
    {
     "speaker": "Anna",
     "text": "Second, remember that security is collective... if you see a suspicious incident, you can report it.",
-    "t": 247.48
+    "t": 247.2
    },
    {
     "speaker": "Tom",
     "text": "Third, follow simple habits to protect yourself, especially against phishing.",
-    "t": 254.33
+    "t": 254.05
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it together.",
-    "t": 259.07
+    "t": 258.79
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about GOVCERT.LU?",
-    "t": 260.54
+    "t": 260.26
    },
    {
     "speaker": "Tom",
     "text": "First... it's the government's cyber incident response team, defending Luxembourg's critical systems.",
-    "t": 263.56
+    "t": 263.28
    },
    {
     "speaker": "Anna",
     "text": "Second... it responds to attacks, analyses them, and builds stronger, more resilient defences.",
-    "t": 269.69
+    "t": 269.41
    },
    {
     "speaker": "Tom",
     "text": "Third... cybersecurity is a shared responsibility, and you can report incidents you discover.",
-    "t": 275.91
+    "t": 275.63
    },
    {
     "speaker": "Anna",
     "text": "And fourth... watch out for phishing, and follow simple habits to stay safe online.",
-    "t": 281.63
+    "t": 281.35
    },
    {
     "speaker": "Tom",
     "text": "The digital world brings amazing things.",
-    "t": 286.78
+    "t": 286.5
    },
    {
     "speaker": "Tom",
     "text": "But like any city, it needs guardians.",
-    "t": 289.13
+    "t": 288.85
    },
    {
     "speaker": "Anna",
     "text": "And knowing they're there, and doing our own small part, keeps us all a little safer.",
-    "t": 291.57
+    "t": 291.29
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about GOVCERT.LU.",
-    "t": 297.11
+    "t": 296.83
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 300.35
+    "t": 300.07
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 309.64
+    "t": 309.36
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 327.92
+    "t": 327.64
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 334.67
+    "t": 334.39
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 336.87
+    "t": 336.59
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 341.56
+    "t": 341.28
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 342.64
+    "t": 342.37
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 344.76
+    "t": 344.49
    }
   ],
   "questions": [
@@ -1530,117 +1530,117 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Eng gesond Portioun Virsiicht online ass also ee vun de beschte Schutz, deen Dir hutt.",
-    "t": 182.72
+    "t": 182.44
    },
    {
     "speaker": "Tom",
     "text": "Gi mer an deem Sënn e puer einfach alldeeglech Gewunnechten fir d'Cybersécherheet.",
-    "t": 187.36
+    "t": 187.08
    },
    {
     "speaker": "Anna",
     "text": "Éischtens, sidd mësstrauesch bei drénglechen Noriichten, déi no Passwierder, Bezuelungen oder perséinlechen Donnéeë froen.",
-    "t": 191.6
+    "t": 191.32
    },
    {
     "speaker": "Tom",
     "text": "Zweetens, kontrolléiert déi richteg Adress hannert engem Link, ier Dir klickt, a vertraut enger Noriicht net nëmmen, well se offiziell ausgesäit.",
-    "t": 197.76
+    "t": 197.48
    },
    {
     "speaker": "Anna",
     "text": "Drëttens, benotzt staark, ënnerschiddlech Passwierder, an aktivéiert d'Verifizéierung an zwee Schrëtt, wou Dir kënnt.",
-    "t": 204.56
+    "t": 204.28
    },
    {
     "speaker": "Tom",
     "text": "A véiertens, haalt Är Apparater an Apps op dem neiste Stand... Updates maache dacks Sécherheetslächer zou.",
-    "t": 210.4
+    "t": 210.12
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer e Schrëtt zréckginn. Firwat ass eng Organisatioun wéi GOVCERT.LU fir ganz normal Leit wichteg?",
-    "t": 215.83
+    "t": 215.55
    },
    {
     "speaker": "Tom",
     "text": "Well d'Systemer, déi se schützen, genau déi sinn, vun deenen Ären Alldag ofhänkt.",
-    "t": 221.6
+    "t": 221.32
    },
    {
     "speaker": "Anna",
     "text": "En séchert Spidolsnetz, eng funktionéierend Bank, zouverléisseg ëffentlech Servicer... d'Cybersécherheet hält se op de Been.",
-    "t": 225.9
+    "t": 225.62
    },
    {
     "speaker": "Tom",
     "text": "An an engem klengen, héich vernetzte Land ass déi roueg Verdeedegung méi wichteg wéi jee.",
-    "t": 233.33
+    "t": 233.05
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer et praktesch maachen. Wat kënnen d'Leit doraus mathuelen?",
-    "t": 238.32
+    "t": 238.04
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, wësst, datt Lëtzebuerg eng national Cyber-Verdeedegungsequipe huet, déi op schwéier Attacken reagéiert.",
-    "t": 241.87
+    "t": 241.59
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, denkt drun, datt Sécherheet gemeinsam ass... wann Dir en verdächtegen Tëschefall gesitt, kënnt Dir en mellen.",
-    "t": 247.48
+    "t": 247.2
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, befollegt einfach Gewunnechten, fir Iech ze schützen, virun allem géint Phishing.",
-    "t": 254.33
+    "t": 254.05
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer et zesummefaassen. Wat sollten d'Leit sech iwwer GOVCERT.LU merken?",
-    "t": 259.07
+    "t": 258.79
    },
    {
     "speaker": "Tom",
     "text": "Éischtens... et ass d'Cyber-Noutfallequipe vun der Regierung, déi d'krittesch Systemer vu Lëtzebuerg verdeedegt.",
-    "t": 263.56
+    "t": 263.28
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... si reagéiert op Attacken, analyséiert se, a baut méi staark a méi widderstandsfäeg Verdeedegungen op.",
-    "t": 269.69
+    "t": 269.41
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... d'Cybersécherheet ass eng gedeelt Verantwortung, an Dir kënnt Tëschefäll mellen, déi Dir entdeckt.",
-    "t": 275.91
+    "t": 275.63
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... passt op Phishing op, a befollegt einfach Gewunnechten, fir online sécher ze bleiwen.",
-    "t": 281.63
+    "t": 281.35
    },
    {
     "speaker": "Tom",
     "text": "Déi digital Welt bréngt wonnerbar Saachen. Mä wéi all Stad brauch se Wiechter.",
-    "t": 286.78
+    "t": 286.5
    },
    {
     "speaker": "Anna",
     "text": "A wëssen, datt se do sinn, an eisen eegene klengen Deel ze leeschten, mécht eis all e bësse méi sécher. Dat war eis Episod iwwer GOVCERT.LU. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 291.57
+    "t": 291.29
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 341.56
+    "t": 341.28
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 344.76
+    "t": 344.49
    }
   ]
  }

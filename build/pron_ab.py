@@ -14,8 +14,8 @@ def clip(role, lang, text):
     if not os.path.exists(p): open(p, "wb").write(el.request("POST", f"/text-to-speech/{vid}", key, body, query="?output_format=mp3_44100_128"))
     return p
 def dur(p): return float(subprocess.run(["ffprobe","-v","error","-show_entries","format=duration","-of","csv=p=0",p],capture_output=True,text=True).stdout)
-REF = os.environ.get("REF_LANG", "fr")
-parts = [(f"{REF.upper()} reference (Anna's {REF} voice)", clip("Anna", REF, fr_ref))]
+REF = os.environ.get("REF_LANG", "fr"); REF_ROLE = os.environ.get("REF_ROLE", "Anna")   # REF_LANG=en REF_ROLE=Tom: Tom's English voice as reference
+parts = [(f"{REF.upper()} reference ({REF_ROLE}'s {REF} voice)", clip(REF_ROLE, REF, fr_ref))]
 for i, o in enumerate(opts):
     parts += [(f"{chr(65+i)} Anna: {o}", clip("Anna", "en", carrier.format(x=o))), (f"{chr(65+i)} Tom: {o}", clip("Tom", "en", carrier.format(x=o)))]
 t = 0.0; inputs = []; lines = []
