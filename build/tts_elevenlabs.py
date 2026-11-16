@@ -91,6 +91,8 @@ def split_sentences(t):
     for p in parts:  # glue punctuation-only fragments (a lone ») onto the previous sentence
         if merged and re.search(r"\b\d{1,2}\.$", merged[-1]) and re.match(months, p):
             merged[-1] += " " + p   # German dates "am 28. Mai 2019" are one sentence
+        elif merged and re.search(r"\bJ\.\s?F\.$", merged[-1]):
+            merged[-1] += " " + p   # "boulevard J.F. Kennedy" is one sentence (Jacques, 2026-11-16)
         elif re.search(r'[0-9A-Za-zÀ-ÿ]', p) or not merged:
             merged.append(p)
         else:

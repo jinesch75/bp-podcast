@@ -40,7 +40,7 @@
 
 **ANNA:** Ja. Also, all diese Zusammenarbeit zwischen vier Ländern braucht einen Ort zum Leben. Und dieser Ort ist ein echtes Gebäude — das Haus der Großregion. Auf Französisch die Maison de la Grande Région. Auf Deutsch das Haus der Großregion.
 
-**TOM:** Und wo ist es?
+**TOM:** Und wo findet man es?
 
 **ANNA:** Es ist hier in Luxemburg — in Esch-sur-Alzette, im Süden. Am Boulevard J.F. Kennedy. Seit zweitausendfünfzehn ist es in Esch. Davor, seit neunzehnhundertneunundneunzig, war es ein kleineres gemeinsames Büro in Luxemburg-Stadt.
 

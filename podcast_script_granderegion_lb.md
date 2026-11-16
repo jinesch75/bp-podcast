@@ -40,7 +40,7 @@
 
 **ANNA:** Jo. Also, dës ganz Zesummenaarbecht tëscht véier Länner brauch e Plaz, fir ze liewen. An dee Plaz ass e richtegt Gebai — d'Haus vun der Groussregioun. Op Franséisch d'Maison de la Grande Région. Op Däitsch d'Haus der Großregion.
 
-**TOM:** A wou ass et?
+**TOM:** A wou fënnt een et?
 
 **ANNA:** Et ass hei zu Lëtzebuerg — zu Esch-sur-Alzette, am Süden. Um Boulevard J.F. Kennedy. Zënter zweedausendfofzéng ass et zu Esch. Virdrun, zënter nonzénghonnertnénganonzeg, war et e méi klengt gemeinsamt Büro an der Stad Lëtzebuerg.
 

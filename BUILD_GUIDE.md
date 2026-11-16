@@ -356,3 +356,10 @@ New episode on letzprepare.public.lu (Jacques: "create an episode about letzprep
 ## Video page — Lëtz prepare (15 Nov 2026)
 
 Jacques asked for the English episode as a motion graphics video and a separate page to share it. `video/letzprepare/` holds `index.html` (standalone page, noindex, not linked from the site), `letzprepare_en.mp4` (1080p, 8:30, 27 MB, captions burnt in, built in the cloud session with a Python/Skia renderer from the episode segments — render scripts saved in `build/video/`: engine.py, scenes_letzprepare_en.py (imported as `scenes`), render.py; they need skia-python, the Font Awesome free solid font, and segs.json + audio.pcm extracted from the episode) and `poster.jpg`. Live at https://bp-podcast-production.up.railway.app/video/letzprepare/ after push. If the English audio is re-recorded, the video must be re-rendered.
+
+## Greater Region voice fixes (16 Nov 2026)
+
+- `split_sentences` (tts_elevenlabs.py) no longer splits after "J.F." → "On the boulevard J.F. Kennedy." is one sentence (EN/FR/DE; the voice used to pause/skip a beat). Applies to all future recordings.
+- EN "In German, the Haus der Großregion." took a French accent from the French name before it → "And in German, it's the Haus der Großregion."; take chosen with the new `build/pick_word_take.py` (whisper word confidence for "German": 0.37 before, 0.94 now; seed 1262 kept because 1263 said "Großrégion").
+- Tom's short "And where is it?" (wrong pitch) → "And where can you find it?" (DE "Und wo findet man es?", LB "A wou fënnt een et?"; FR already a full question). `build/apply_voicefix_granderegion_2026_11.py`.
+- Voice QC EN: 6 more short lines retaken (incl. Tom's "And third?"). ≈ 1,300 credits. EN 13:45, FR 12:39, DE 15:21.

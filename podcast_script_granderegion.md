@@ -38,9 +38,9 @@
 
 **TOM:** Okay. So that's the "what". Now tell me about the home — the House of the Greater Region.
 
-**ANNA:** Yes. So, all this cooperation between four countries needs a place to live. And that place is a real building — the House of the Greater Region. In French, the Maison de la Grande Région. In German, the Haus der Großregion.
+**ANNA:** Yes. So, all this cooperation between four countries needs a place to live. And that place is a real building — the House of the Greater Region. In French, the Maison de la Grande Région. And in German, it's the Haus der Großregion.
 
-**TOM:** And where is it?
+**TOM:** And where can you find it?
 
 **ANNA:** It's here in Luxembourg — in Esch-sur-Alzette, in the south. On the boulevard J.F. Kennedy. It's been in Esch since twenty fifteen. Before that, from nineteen ninety-nine, it was a smaller shared office in Luxembourg City.
 
