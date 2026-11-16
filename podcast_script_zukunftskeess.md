@@ -14,11 +14,11 @@
 
 **TOM:** And there's one office at the centre of all this. Tell us its name, Anna.
 
-**ANNA:** It's called the Zukunftskeess. In English we can say the Children's Future Fund. In French it's the Caisse pour l'avenir des enfants. People also use the short name — C-A-E.
+**ANNA:** It's called the Zukunftskeess. In English we can say the Children's Future Fund. In French it's the Caisse pour l'avenir des enfants. People also use the short name — the CAE. That's what we'll call it today.
 
 **TOM:** Zukunftskeess. That's a lovely name — the "future fund". Let's start simply. What is it?
 
-**ANNA:** The Zukunftskeess is the official State fund that pays family benefits in Luxembourg. So, the money for raising children. Its home on the internet is c-a-e dot l-u.
+**ANNA:** The CAE is the official State fund that pays family benefits in Luxembourg. So, the money for raising children. Its home on the internet is c-a-e dot l-u.
 
 **TOM:** cae.lu. And it's official — it's the State.
 
@@ -50,7 +50,7 @@
 
 **TOM:** Good to know. And how long do you have to apply?
 
-**ANNA:** Generally within one year — for the first two parts, within a year of the birth. And for the postnatal part, within a year of the child's second birthday. The forms come from your doctor, the maternity hospital, or the commune — and you send them to the Zukunftskeess.
+**ANNA:** Generally within one year — for the first two parts, within a year of the birth. And for the postnatal part, within a year of the child's second birthday. The forms come from your doctor, the maternity hospital, or the commune — and you send them to the CAE.
 
 **TOM:** Perfect. Okay — that's the birth. Now the big one, I think. The monthly family allowance.
 
@@ -78,7 +78,7 @@
 
 **TOM:** And do I have to ask for it again every month?
 
-**ANNA:** No. You apply once, when the child is born or when you arrive in Luxembourg. After that it just comes automatically. You only need to tell the Zukunftskeess if something changes.
+**ANNA:** No. You apply once, when the child is born or when you arrive in Luxembourg. After that it just comes automatically. You only need to tell the CAE if something changes.
 
 **TOM:** Okay. So that's birth, and monthly. Now the third — back-to-school.
 
@@ -108,21 +108,21 @@
 
 **ANNA:** That's the idea. And it works for pensioners too — a retired cross-border worker with a Luxembourg pension keeps the right to the family allowance. And from 2027, a new law makes one more thing clear: the children of your husband, wife or partner can count too — if they mainly live with you, or if you can show that you really support them.
 
-**TOM:** That's reassuring for a lot of families. Now — let's talk about how you actually deal with the Zukunftskeess. Is it a lot of paperwork?
+**TOM:** That's reassuring for a lot of families. Now — let's talk about how you actually deal with the CAE. Is it a lot of paperwork?
 
 **ANNA:** It's much easier than it used to be. Most things can be done online, through MyGuichet.lu — the State's digital platform. You can apply for the family allowance there, with a secure login like LuxTrust or the eID card.
 
 **TOM:** Ah, MyGuichet.lu — we've talked about that in another episode.
 
-**ANNA:** Exactly — it's the online door to the administration. And through it you can also send documents to the Zukunftskeess, or change your bank details. There's even an online assistant that guides you through the family allowance application, step by step. And if you need a payment certificate, there's a simple online form on the Zukunftskeess website.
+**ANNA:** Exactly — it's the online door to the administration. And through it you can also send documents to the CAE, or change your bank details. There's even an online assistant that guides you through the family allowance application, step by step. And if you need a payment certificate, there's a simple online form on the CAE website.
 
 **TOM:** And if someone isn't comfortable online?
 
-**ANNA:** Then you can still do it on paper. The forms are on the website, and also at the commune. You fill them in and send them by post. And if you have questions, you can call the Zukunftskeess, or visit their offices — they're on the Boulevard Royal, in Luxembourg City.
+**ANNA:** Then you can still do it on paper. The forms are on the website, and also at the commune. You fill them in and send them by post. And if you have questions, you can call the CAE, or visit their offices — they're on the Boulevard Royal, in Luxembourg City.
 
-**TOM:** So there's always a way — online, by post, or in person. Now Anna, are these three benefits everything the Zukunftskeess does? Or is there more?
+**TOM:** So there's always a way — online, by post, or in person. Now Anna, are these three benefits everything the CAE does? Or is there more?
 
-**ANNA:** There's more. Let me mention two other important things it's involved in. First — for parents who take time off work to look after a young child, there's parental leave, and the Zukunftskeess pays the parental leave income during that time.
+**ANNA:** There's more. Let me mention two other important things it's involved in. First — for parents who take time off work to look after a young child, there's parental leave, and the CAE pays the parental leave income during that time.
 
 **TOM:** So when a mum or dad pauses their job for the baby, they're not left with nothing.
 
@@ -130,7 +130,7 @@
 
 **TOM:** So that's help with the cost of childcare — which can be a huge expense.
 
-**ANNA:** A huge expense, yes. So the Zukunftskeess really sits at the centre of family life — from pregnancy, to the baby years, to school, to childcare, to time off work.
+**ANNA:** A huge expense, yes. So the CAE really sits at the centre of family life — from pregnancy, to the baby years, to school, to childcare, to time off work.
 
 **TOM:** And there's also extra support for children with special needs, isn't there?
 
@@ -140,7 +140,7 @@
 
 **ANNA:** Of course. Let's imagine a couple — they're expecting their first baby.
 
-**TOM:** Exciting! So where does the Zukunftskeess come in, from the very start?
+**TOM:** Exciting! So where does the CAE come in, from the very start?
 
 **ANNA:** Even before the birth. During the pregnancy, the mother goes to her check-ups, and the dental visit — and that opens the first part of the birth allowance, the prenatal part. Nearly six hundred euros.
 
@@ -174,19 +174,19 @@
 
 **TOM:** And for cross-border workers?
 
-**ANNA:** Same office, same website. If you work in Luxembourg, your children may have the right too — so don't assume you're not eligible. Check with the Zukunftskeess.
+**ANNA:** Same office, same website. If you work in Luxembourg, your children may have the right too — so don't assume you're not eligible. Check with the CAE.
 
 **TOM:** A short summary to finish?
 
-**ANNA:** Sure. The Zukunftskeess — the Children's Future Fund, cae.lu — is the State office for family benefits in Luxembourg. Three main ones. A birth allowance of more than one thousand seven hundred euros, in three parts, linked to health check-ups. A monthly family allowance for each child — more than three hundred and fifty euros from 2027 — that grows at age six and age twelve, and can last until twenty-five if the child stays in school. And a back-to-school allowance each August, automatically. Plus parental leave income, childcare vouchers, and extra help for children with special needs.
+**ANNA:** Sure. The CAE — the Children's Future Fund, cae.lu — is the State office for family benefits in Luxembourg. Three main ones. A birth allowance of more than one thousand seven hundred euros, in three parts, linked to health check-ups. A monthly family allowance for each child — more than three hundred and fifty euros from 2027 — that grows at age six and age twelve, and can last until twenty-five if the child stays in school. And a back-to-school allowance each August, automatically. Plus parental leave income, childcare vouchers, and extra help for children with special needs.
 
 **TOM:** And the message for today?
 
 **ANNA:** If you have children in Luxembourg, this support is yours by right — and it's easier to get than people think. One office, one website, and a system that walks beside your family for years.
 
-**TOM:** So... whether you're a new parent, an old hand, or a cross-border worker — remember the name. The Zukunftskeess. cae.lu.
+**TOM:** So, whether you're a new parent, an old hand, or a cross-border worker — remember the name. The CAE. cae.lu.
 
-**ANNA:** One fund, looking after the future of your children. That's exactly what the name says. That was our episode about the Zukunftskeess. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** One fund, looking after the future of your children. That's exactly what the name says. That was our episode about the CAE. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 
 **TOM:** Thank you, everyone. Take care... and see you next time!
 
