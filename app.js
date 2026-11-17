@@ -471,16 +471,6 @@ function renderEpisodeDetail() {
 
   updateLangButtons();
   renderTranscript();
-
-  // Topics
-  var chips = document.getElementById('ep-topics');
-  chips.innerHTML = '';
-  epTopics(ep).forEach(function (tp) {
-    var c = document.createElement('div');
-    c.className = 'topic-chip';
-    c.textContent = tp;
-    chips.appendChild(c);
-  });
 }
 
 // ── Transcript (always the chosen UI language) ───────────
