@@ -380,3 +380,7 @@ Anna said "Kly-ma", Tom "clee-ma" (Jacques: Tom is right). A/B (`REF_LANG=en REF
 ## LISER / STATEC / observation foncière in English (17 Nov 2026)
 
 Jacques's A/B choices (files `build/el_test/pron_{liser,fonciere,statec}_en_AB.mp3`): EN "LISER" → "Lyser" (English way, D), "STATEC" → "Statek" (French way, D) via `WORDS_LANG["en"]`; "observation foncière" → "observassion fonsyère" (C) in `NAMES["en"]`. FR/DE unchanged. Habitat EN: two "..." pauses removed (LISER lines). Re-recorded the EN sentences of habitat, research and statec (≈ 2,900 credits), put live with `replace_audio_elevenlabs.js … en`.
+
+## SNJ motto in English (17 Nov 2026)
+
+Jacques: the English voice can't say "Jonker staark maachen" → left out of the EN spoken lines, only the English motto "empowering youth" (2 lines, Anna; "..." pauses there removed). `build/apply_motto_snj_2026_11.py`; sources footer keeps the original. FR/DE unchanged. ≈ 130 credits.

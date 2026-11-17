@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "The Service National de la Jeunesse – Empowering Young People in Luxembourg",
   "description": "What the SNJ (National Youth Service) is, its motto 'Jonker staark maachen', the youth sector it supports, its hands-on activity centres, the help it gives young people moving into working life (including the voluntary service), and how it listens to young people and promotes safe use of technology through BEE SECURE.",
   "audio": "../../podcast_snj.mp3",
-  "duration": 466.26,
+  "duration": 460.2,
   "topics": [
    "What the SNJ is",
    "Motto: Jonker staark maachen",
@@ -70,478 +70,473 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "The SNJ has a lovely motto in Luxembourgish... \"Jonker staark maachen\".",
+    "text": "The SNJ has a lovely motto: \"empowering youth\".",
     "t": 42.28
-   },
-   {
-    "speaker": "Anna",
-    "text": "It means \"empowering youth\".",
-    "t": 47.25
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what exactly is the SNJ?",
-    "t": 49.39
+    "t": 45.96
    },
    {
     "speaker": "Anna",
     "text": "It is a public service of the State, created back in 1964.",
-    "t": 51.57
+    "t": 48.14
    },
    {
     "speaker": "Anna",
     "text": "So it has been supporting young people for more than sixty years.",
-    "t": 56.01
+    "t": 52.58
    },
    {
     "speaker": "Tom",
     "text": "And it works under the Ministry of Education, Children and Youth.",
-    "t": 59.95
+    "t": 56.52
    },
    {
     "speaker": "Anna",
     "text": "Its big mission is to help create an environment where young people can develop in a positive way.",
-    "t": 63.33
+    "t": 59.9
    },
    {
     "speaker": "Tom",
     "text": "To help them grow into responsible, active, and caring citizens.",
-    "t": 68.98
+    "t": 65.55
    },
    {
     "speaker": "Anna",
     "text": "And it supports them through learning experiences, based on what is called non-formal education.",
-    "t": 72.75
+    "t": 69.32
    },
    {
     "speaker": "Tom",
     "text": "Non-formal education. That's an important idea.",
-    "t": 79.07
+    "t": 75.64
    },
    {
     "speaker": "Tom",
     "text": "What does it mean, Anna?",
-    "t": 82.53
+    "t": 79.1
    },
    {
     "speaker": "Anna",
     "text": "It means learning that happens outside the normal classroom... through activities, projects, and real experiences.",
-    "t": 83.92
+    "t": 80.49
    },
    {
     "speaker": "Tom",
     "text": "Learning by doing, by meeting others, by trying things out.",
-    "t": 91.04
+    "t": 87.61
    },
    {
     "speaker": "Tom",
     "text": "Not exams and grades.",
-    "t": 94.21
+    "t": 90.78
    },
    {
     "speaker": "Anna",
     "text": "Exactly. And participation is voluntary.",
-    "t": 95.98
+    "t": 92.55
    },
    {
     "speaker": "Anna",
     "text": "Young people take part because they want to.",
-    "t": 99.21
+    "t": 95.78
    },
    {
     "speaker": "Tom",
     "text": "Let's look at what the SNJ actually offers.",
-    "t": 101.75
+    "t": 98.32
    },
    {
     "speaker": "Tom",
     "text": "I think it helps to see it in a few parts.",
-    "t": 104.2
+    "t": 100.77
    },
    {
     "speaker": "Anna",
     "text": "Good idea. The first part is supporting the whole youth sector.",
-    "t": 106.83
+    "t": 103.4
    },
    {
     "speaker": "Tom",
     "text": "The youth sector means youth centres, youth services, and youth organisations across the country.",
-    "t": 110.75
+    "t": 107.32
    },
    {
     "speaker": "Anna",
     "text": "The SNJ helps municipalities and these organisations with advice, with funding, and by connecting them together.",
-    "t": 116.86
+    "t": 113.43
    },
    {
     "speaker": "Tom",
     "text": "So behind many local youth clubs and activities, there is quiet support from the SNJ.",
-    "t": 124.38
+    "t": 120.95
    },
    {
     "speaker": "Anna",
     "text": "The second part is what they call experiences for youth.",
-    "t": 129.75
+    "t": 126.32
    },
    {
     "speaker": "Tom",
     "text": "This is where it gets fun.",
-    "t": 133.04
+    "t": 129.61
    },
    {
     "speaker": "Tom",
     "text": "The SNJ runs educational centres with themed activity programmes.",
-    "t": 134.43
+    "t": 131
    },
    {
     "speaker": "Anna",
     "text": "They group them under the word \"Erliewen\", which means \"to experience\".",
-    "t": 138.35
+    "t": 134.92
    },
    {
     "speaker": "Tom",
     "text": "For example, experiencing nature, at a centre in Hollenfels.",
-    "t": 143.17
+    "t": 139.74
    },
    {
     "speaker": "Anna",
     "text": "Or experiencing sport, at the centre in Lultzhausen.",
-    "t": 146.68
+    "t": 143.25
    },
    {
     "speaker": "Tom",
     "text": "There is experiencing media, where young people learn how videos are made, and how to spot manipulation online.",
-    "t": 150.33
+    "t": 146.9
    },
    {
     "speaker": "Anna",
     "text": "There is experiencing creativity, in a makerspace with new technologies.",
-    "t": 156.35
+    "t": 152.92
    },
    {
     "speaker": "Tom",
     "text": "There is experiencing teamwork, which builds cooperation and values for living together.",
-    "t": 161.35
+    "t": 157.92
    },
    {
     "speaker": "Anna",
     "text": "And experiencing human rights, at Cinqfontaines, a place of remembrance about the Holocaust.",
-    "t": 166.02
+    "t": 162.59
    },
    {
     "speaker": "Tom",
     "text": "That one is powerful.",
-    "t": 172.23
+    "t": 168.8
    },
    {
     "speaker": "Tom",
     "text": "It helps young people stand against antisemitism and racism.",
-    "t": 173.3
+    "t": 169.87
    },
    {
     "speaker": "Anna",
     "text": "There is even experiencing languages... Luxembourgish, German, French, and English, in a fun, confidence-building way.",
-    "t": 176.95
+    "t": 173.52
    },
    {
     "speaker": "Tom",
     "text": "So a young person can grow, have fun, and learn, all at the same time.",
-    "t": 184.84
+    "t": 181.41
    },
    {
     "speaker": "Anna",
     "text": "The third part is support for young people moving into working life.",
-    "t": 189.67
+    "t": 186.24
    },
    {
     "speaker": "Tom",
     "text": "This is really important, and it connects to other episodes we have done.",
-    "t": 193.81
+    "t": 190.38
    },
    {
     "speaker": "Anna",
     "text": "Yes. The SNJ helps young people who are at risk of dropping out of school, or who have left school early.",
-    "t": 197.79
+    "t": 194.36
    },
    {
     "speaker": "Tom",
     "text": "And young people who have been inactive for a long time, not in school and not in work.",
-    "t": 204.57
+    "t": 201.14
    },
    {
     "speaker": "Anna",
     "text": "For them, the SNJ offers a personal, caring approach.",
-    "t": 209.29
+    "t": 205.86
    },
    {
     "speaker": "Anna",
     "text": "They help each young person build what they call a \"life project\".",
-    "t": 213.26
+    "t": 209.83
    },
    {
     "speaker": "Tom",
     "text": "A life project... a plan for the next steps, based on that person's own needs and abilities.",
-    "t": 217.61
+    "t": 214.18
    },
    {
     "speaker": "Anna",
     "text": "They offer workshops, training, and practical alternatives to just sitting at home.",
-    "t": 223.08
+    "t": 219.65
    },
    {
     "speaker": "Tom",
     "text": "One of the most special is the voluntary service.",
-    "t": 228.45
+    "t": 225.02
    },
    {
     "speaker": "Tom",
     "text": "Tell us about that, Anna.",
-    "t": 231.29
+    "t": 227.86
    },
    {
     "speaker": "Anna",
     "text": "The voluntary service lets a young person commit to a real project of general interest, for a period of time.",
-    "t": 232.75
+    "t": 229.32
    },
    {
     "speaker": "Tom",
     "text": "It is true learning by doing.",
-    "t": 239
+    "t": 235.57
    },
    {
     "speaker": "Tom",
     "text": "You gain experience, you discover what you enjoy, and you build confidence.",
-    "t": 240.64
+    "t": 237.21
    },
    {
     "speaker": "Anna",
     "text": "It can be a stepping stone... towards training, towards a job, towards finding your direction.",
-    "t": 244.93
+    "t": 241.5
    },
    {
     "speaker": "Tom",
     "text": "You can find these opportunities on websites like volontaires dot lu.",
-    "t": 250.95
+    "t": 247.52
    },
    {
     "speaker": "Anna",
     "text": "There are also discovery internships in companies, to get a real taste of the working world.",
-    "t": 255.08
+    "t": 251.65
    },
    {
     "speaker": "Tom",
     "text": "The SNJ also runs something called the Au Pair service.",
-    "t": 260.57
+    "t": 257.14
    },
    {
     "speaker": "Anna",
     "text": "Yes. If a young person comes to Luxembourg as an au pair, living with a host family, the SNJ supervises that.",
-    "t": 263.81
+    "t": 260.38
    },
    {
     "speaker": "Tom",
     "text": "They make sure the law is respected, prepare the au pairs, and help if there is any conflict.",
-    "t": 271.26
+    "t": 267.83
    },
    {
     "speaker": "Anna",
     "text": "So both the young person and the family are protected.",
-    "t": 276.83
+    "t": 273.4
    },
    {
     "speaker": "Anna",
     "text": "You can learn more at au dash pair dot lu.",
-    "t": 280.21
+    "t": 276.78
    },
    {
     "speaker": "Tom",
     "text": "There is also a fourth part... listening to young people.",
-    "t": 283.31
+    "t": 279.88
    },
    {
     "speaker": "Anna",
     "text": "The SNJ listens to young people, through surveys and discussion groups.",
-    "t": 286.56
+    "t": 283.13
    },
    {
     "speaker": "Tom",
     "text": "And every five years, there is a big national report on youth.",
-    "t": 291.4
+    "t": 287.97
    },
    {
     "speaker": "Tom",
     "text": "It is the basis for the national plan for young people, the Youth Pact.",
-    "t": 295.13
+    "t": 291.7
    },
    {
     "speaker": "Tom",
     "text": "The newest one runs from 2026 to 2030, and the SNJ helped to prepare it.",
-    "t": 299.38
+    "t": 295.95
    },
    {
     "speaker": "Anna",
     "text": "They also listen directly, through the youth council, the \"Jugendrot\", where young people speak up on public matters.",
-    "t": 304.43
+    "t": 301
    },
    {
     "speaker": "Tom",
     "text": "So young people are not just helped... they are heard.",
-    "t": 311.13
+    "t": 307.7
    },
    {
     "speaker": "Anna",
     "text": "And there is BEE SECURE, which many people know.",
-    "t": 314.25
+    "t": 310.82
    },
    {
     "speaker": "Tom",
     "text": "BEE SECURE promotes the safe and responsible use of the internet and new technologies.",
-    "t": 317.34
+    "t": 313.91
    },
    {
     "speaker": "Anna",
     "text": "Tips to stay safe online, to avoid risks, and to use technology wisely.",
-    "t": 322.01
+    "t": 318.58
    },
    {
     "speaker": "Tom",
     "text": "Let's give a sense of the scale of all this.",
-    "t": 327.22
+    "t": 323.79
    },
    {
     "speaker": "Anna",
     "text": "The SNJ has five educational centres, with a new one coming in Esch-sur-Alzette, and local youth antennas across the country for individual support.",
-    "t": 329.35
+    "t": 325.92
    },
    {
     "speaker": "Tom",
     "text": "And every year, tens of thousands of young people take part in its activities.",
-    "t": 338.82
+    "t": 335.39
    },
    {
     "speaker": "Anna",
     "text": "So Tom, let's make this practical.",
-    "t": 343.26
+    "t": 339.83
    },
    {
     "speaker": "Anna",
     "text": "How can a young person, or a parent, actually use the SNJ?",
-    "t": 345.64
+    "t": 342.21
    },
    {
     "speaker": "Tom",
     "text": "First... if you know a young person who is unsure what to do after school, the SNJ can help them build a life project.",
-    "t": 349.85
+    "t": 346.42
    },
    {
     "speaker": "Anna",
     "text": "Second... if a young person wants real experience, look into the voluntary service.",
-    "t": 356.72
+    "t": 353.29
    },
    {
     "speaker": "Tom",
     "text": "Third... for fun, growth, and meeting others, explore the SNJ's activity centres and programmes.",
-    "t": 362.38
+    "t": 358.95
    },
    {
     "speaker": "Anna",
     "text": "Fourth... for safety online, BEE SECURE has practical advice for young people and parents alike.",
-    "t": 369.74
+    "t": 366.31
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 376.81
+    "t": 373.38
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about the SNJ?",
-    "t": 378.17
+    "t": 374.74
    },
    {
     "speaker": "Anna",
-    "text": "First... it is Luxembourg's National Youth Service, here to empower young people, with the motto \"Jonker staark maachen\".",
-    "t": 381.08
+    "text": "First, it is Luxembourg's National Youth Service, with the motto \"empowering youth\".",
+    "t": 377.65
    },
    {
     "speaker": "Tom",
     "text": "Second... it supports the whole youth sector, and runs rich, hands-on learning experiences.",
-    "t": 389.21
+    "t": 383.13
    },
    {
     "speaker": "Anna",
     "text": "Third... it helps young people move into working life, including through the voluntary service.",
-    "t": 395.13
+    "t": 389.05
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it listens to young people, and promotes safe use of technology through BEE SECURE.",
-    "t": 401.28
+    "t": 395.2
    },
    {
     "speaker": "Anna",
     "text": "Growing up is a journey, with ups and downs.",
-    "t": 406.8
+    "t": 400.72
    },
    {
     "speaker": "Anna",
     "text": "No young person should have to walk it alone.",
-    "t": 409.4
+    "t": 403.32
    },
    {
     "speaker": "Tom",
     "text": "And in Luxembourg, they don't have to.",
-    "t": 412.13
+    "t": 406.05
    },
    {
     "speaker": "Tom",
     "text": "The SNJ is walking beside them.",
-    "t": 414.08
+    "t": 408
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Service National de la Jeunesse.",
-    "t": 416.41
+    "t": 410.33
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 419.99
+    "t": 413.91
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 429.54
+    "t": 423.46
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 447.83
+    "t": 441.75
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 454.58
+    "t": 448.5
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 456.78
+    "t": 450.7
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 461.47
+    "t": 455.39
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 462.55
+    "t": 456.48
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 464.67
+    "t": 458.6
    }
   ],
   "questions": [
@@ -1845,352 +1840,352 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Also Anna, wat ass de SNJ genau?",
-    "t": 49.39
+    "t": 45.96
    },
    {
     "speaker": "Anna",
     "text": "Et ass en ëffentlechen Déngscht vum Staat, gegrënnt am Joer 1964. Hie stëtzt jonk Leit also zanter méi wéi sechzeg Joer.",
-    "t": 51.57
+    "t": 48.14
    },
    {
     "speaker": "Tom",
     "text": "An hie schafft ënner dem Ministère fir Educatioun, Kanner a Jugend.",
-    "t": 59.95
+    "t": 56.52
    },
    {
     "speaker": "Anna",
     "text": "Seng grouss Aufgab ass et, ze hëllefen en Ëmfeld ze schafen, an deem jonk Leit sech positiv entwéckele kënnen.",
-    "t": 63.33
+    "t": 59.9
    },
    {
     "speaker": "Tom",
     "text": "Hinnen ze hëllefen, fir zu verantwortungsvollen, aktiven a fiersuergleche Bierger ze ginn.",
-    "t": 68.98
+    "t": 65.55
    },
    {
     "speaker": "Anna",
     "text": "An hie begleet si duerch Léierfahrungen, déi op deem berouen, wat ee net-formal Bildung nennt.",
-    "t": 72.75
+    "t": 69.32
    },
    {
     "speaker": "Tom",
     "text": "Net-formal Bildung. Dat ass eng wichteg Iddi. Wat heescht dat, Anna?",
-    "t": 79.07
+    "t": 75.64
    },
    {
     "speaker": "Anna",
     "text": "Et heescht Léieren, dat ausserhalb vun der normaler Klass geschitt... duerch Aktivitéiten, Projeten an echt Erfahrungen.",
-    "t": 83.92
+    "t": 80.49
    },
    {
     "speaker": "Tom",
     "text": "Léieren duerch Maachen, duerch d'Begéine vun anere Leit, duerch d'Ausprobéieren vu Saachen. Keng Examen a Punkten.",
-    "t": 91.04
+    "t": 87.61
    },
    {
     "speaker": "Anna",
     "text": "Genau. An d'Participatioun ass fräiwëlleg. Jonk Leit maache mat, well se et wëllen.",
-    "t": 95.98
+    "t": 92.55
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer kucken, wat de SNJ tatsächlech ubitt. Ech mengen, et hëlleft, et a verschidden Deeler ze gesinn.",
-    "t": 101.75
+    "t": 98.32
    },
    {
     "speaker": "Anna",
     "text": "Gutt Iddi. Den éischten Deel ass d'Ënnerstëtzung vum ganze Jugendsecteur.",
-    "t": 106.83
+    "t": 103.4
    },
    {
     "speaker": "Tom",
     "text": "De Jugendsecteur, dat sinn d'Jugendhaiser, d'Jugenddéngschter an d'Jugendorganisatiounen am ganze Land.",
-    "t": 110.75
+    "t": 107.32
    },
    {
     "speaker": "Anna",
     "text": "De SNJ hëlleft de Gemengen an dësen Organisatioune mat Berodung, mat Finanzéierung, an andeems hien se matenee verbënnt.",
-    "t": 116.86
+    "t": 113.43
    },
    {
     "speaker": "Tom",
     "text": "Hannert villen lokale Jugendcluben an Aktivitéite stécht also eng roueg Ënnerstëtzung vum SNJ.",
-    "t": 124.38
+    "t": 120.95
    },
    {
     "speaker": "Anna",
     "text": "Den zweeten Deel ass dat, wat se Erfahrunge fir jonk Leit nennen.",
-    "t": 129.75
+    "t": 126.32
    },
    {
     "speaker": "Tom",
     "text": "Hei gëtt et flott. De SNJ bedreift Bildungszentren mat themateschen Aktivitéitsprogrammer.",
-    "t": 133.04
+    "t": 129.61
    },
    {
     "speaker": "Anna",
     "text": "Si fasse se ënner dem Wuert „Erliewen\" zesummen, wat „eppes erliewen\" heescht.",
-    "t": 138.35
+    "t": 134.92
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispill d'Natur erliewen, an engem Zenter zu Hollenfels.",
-    "t": 143.17
+    "t": 139.74
    },
    {
     "speaker": "Anna",
     "text": "Oder de Sport erliewen, am Zenter zu Lultzhausen.",
-    "t": 146.68
+    "t": 143.25
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt d'Medien erliewen, wou jonk Leit léieren, wéi Videoe gemaach ginn, a wéi een Manipulatioun online erkennt.",
-    "t": 150.33
+    "t": 146.9
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt d'Kreativitéit erliewen, an engem Makerspace mat neien Technologien.",
-    "t": 156.35
+    "t": 152.92
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt d'Teamaarbecht erliewen, wat d'Zesummenaarbecht an d'Wäerter vum Zesummeliewe stäerkt.",
-    "t": 161.35
+    "t": 157.92
    },
    {
     "speaker": "Anna",
     "text": "An d'Mënscherechter erliewen, zu Cinqfontaines, engem Erënnerungsuert iwwer den Holocaust.",
-    "t": 166.02
+    "t": 162.59
    },
    {
     "speaker": "Tom",
     "text": "Deen ass ganz staark. Hie hëlleft jonke Leit, sech géint Antisemitismus a Rassismus ze stellen.",
-    "t": 172.23
+    "t": 168.8
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt souguer d'Sproochen erliewen... Lëtzebuergesch, Däitsch, Franséisch an Englesch, op eng flott Manéier, déi Selbstvertrauen gëtt.",
-    "t": 176.95
+    "t": 173.52
    },
    {
     "speaker": "Tom",
     "text": "Esou kann e jonke Mënsch wuessen, Spaass hunn a léieren, alles zur selwechter Zäit.",
-    "t": 184.84
+    "t": 181.41
    },
    {
     "speaker": "Anna",
     "text": "Den drëtten Deel ass d'Ënnerstëtzung fir jonk Leit, déi an d'Aarbechtsliewen erakommen.",
-    "t": 189.67
+    "t": 186.24
    },
    {
     "speaker": "Tom",
     "text": "Dat ass wierklech wichteg, an et hänkt mat anere Episoden zesummen, déi mir gemaach hunn.",
-    "t": 193.81
+    "t": 190.38
    },
    {
     "speaker": "Anna",
     "text": "Jo. De SNJ hëlleft jonke Leit, déi a Gefor sinn, d'Schoul ofzebriechen, oder déi d'Schoul fréi verlooss hunn.",
-    "t": 197.79
+    "t": 194.36
    },
    {
     "speaker": "Tom",
     "text": "A jonke Leit, déi laang inaktiv waren, weder an der Schoul nach an der Aarbecht.",
-    "t": 204.57
+    "t": 201.14
    },
    {
     "speaker": "Anna",
     "text": "Fir si bitt de SNJ eng perséinlech, fiersuerglech Approche. Si hëllefen all jonke Mënsch, dat opzebauen, wat se e „Liewensprojet\" nennen.",
-    "t": 209.29
+    "t": 205.86
    },
    {
     "speaker": "Tom",
     "text": "E Liewensprojet... e Plang fir déi nächst Schrëtt, baséiert op den eegene Besoinen a Fäegkeete vun där Persoun.",
-    "t": 217.61
+    "t": 214.18
    },
    {
     "speaker": "Anna",
     "text": "Si bidde Workshoppen, Formatiounen, a konkret Alternativen dozou, einfach doheem ze sëtzen.",
-    "t": 223.08
+    "t": 219.65
    },
    {
     "speaker": "Tom",
     "text": "Eng vun de speziellsten ass de fräiwëllegen Déngscht. Erziel eis dovun, Anna.",
-    "t": 228.45
+    "t": 225.02
    },
    {
     "speaker": "Anna",
     "text": "De fräiwëllegen Déngscht erlaabt et engem jonke Mënsch, sech fir eng gewëss Zäit fir e richtege Projet vun allgemengem Interêt z'engagéieren.",
-    "t": 232.75
+    "t": 229.32
    },
    {
     "speaker": "Tom",
     "text": "Dat ass richtegt Léieren duerch Maachen. Een sammelt Erfahrung, een entdeckt, wat ee gär huet, an een gewënnt Selbstvertrauen.",
-    "t": 239
+    "t": 235.57
    },
    {
     "speaker": "Anna",
     "text": "Et kann e Sprongbriet sinn... Richtung Formatioun, Richtung Aarbecht, Richtung d'Fanne vu senger Richtung.",
-    "t": 244.93
+    "t": 241.5
    },
    {
     "speaker": "Tom",
     "text": "Dës Méiglechkeete fannt Dir op Websäite wéi volontaires Punkt lu.",
-    "t": 250.95
+    "t": 247.52
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och Découverte-Stagen a Betriber, fir e richtege Goût vun der Aarbechtswelt ze kréien.",
-    "t": 255.08
+    "t": 251.65
    },
    {
     "speaker": "Tom",
     "text": "De SNJ bedreift och eppes, wat den Au-Pair-Déngscht heescht.",
-    "t": 260.57
+    "t": 257.14
    },
    {
     "speaker": "Anna",
     "text": "Jo. Wann e jonke Mënsch als Au-pair op Lëtzebuerg kënnt a bei enger Gaaschtfamill wunnt, da begleet de SNJ dat.",
-    "t": 263.81
+    "t": 260.38
    },
    {
     "speaker": "Tom",
     "text": "Si suergen dofir, datt d'Gesetz respektéiert gëtt, bereeden d'Au-pairen vir, an hëllefen, wann et e Konflikt gëtt.",
-    "t": 271.26
+    "t": 267.83
    },
    {
     "speaker": "Anna",
     "text": "Esou sinn de jonke Mënsch an d'Famill allebéid geschützt. Méi erfaart Dir op au Strich pair Punkt lu.",
-    "t": 276.83
+    "t": 273.4
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt och e véierten Deel... jonke Leit nolauschteren.",
-    "t": 283.31
+    "t": 279.88
    },
    {
     "speaker": "Anna",
     "text": "De SNJ lauschtert de jonke Leit no, duerch Ëmfroen an Diskussiounsgruppen.",
-    "t": 286.56
+    "t": 283.13
    },
    {
     "speaker": "Tom",
     "text": "An all fënnef Joer gëtt et e grousse nationale Rapport iwwer d'Jugend. En ass d'Basis fir den nationale Plang fir jonk Leit, de Jugendpakt. Dee neiste leeft vun 2026 bis 2030, an de SNJ huet gehollef, en virzebereeden.",
-    "t": 291.4
+    "t": 287.97
    },
    {
     "speaker": "Anna",
     "text": "Si lauschteren och direkt no, iwwer de Jugendrot, de „Jugendrot\", wou jonk Leit sech zu ëffentleche Sujete melden.",
-    "t": 304.43
+    "t": 301
    },
    {
     "speaker": "Tom",
     "text": "Esou gëtt jonke Leit net nëmme gehollef... si gi gehéiert.",
-    "t": 311.13
+    "t": 307.7
    },
    {
     "speaker": "Anna",
     "text": "An et gëtt BEE SECURE, dat vill Leit kennen.",
-    "t": 314.25
+    "t": 310.82
    },
    {
     "speaker": "Tom",
     "text": "BEE SECURE förderert déi sécher a verantwortungsvoll Notzung vum Internet an den neien Technologien.",
-    "t": 317.34
+    "t": 313.91
    },
    {
     "speaker": "Anna",
     "text": "Tipps, fir online sécher ze bleiwen, fir Risiken ze vermeiden, a fir d'Technologie klug ze notzen.",
-    "t": 322.01
+    "t": 318.58
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer eng Iddi ginn vum Ëmfang vun all deem.",
-    "t": 327.22
+    "t": 323.79
    },
    {
     "speaker": "Anna",
     "text": "De SNJ huet fënnef Bildungszentren, dobäi kënnt en neit zu Esch-Uelzecht, a lokal Jugendantennen am ganze Land fir déi individuell Begleedung.",
-    "t": 329.35
+    "t": 325.92
    },
    {
     "speaker": "Tom",
     "text": "An all Joer huelen Zéngdausende vu jonke Leit un sengen Aktivitéiten deel.",
-    "t": 338.82
+    "t": 335.39
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, loosse mer dat konkret maachen. Wéi kann e jonke Mënsch, oder en Elterendeel, de SNJ tatsächlech notzen?",
-    "t": 343.26
+    "t": 339.83
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... wann Dir e jonke Mënsch kennt, deen onsécher ass, wat e no der Schoul maache soll, da kann de SNJ him hëllefen, e Liewensprojet opzebauen.",
-    "t": 349.85
+    "t": 346.42
    },
    {
     "speaker": "Anna",
     "text": "Als zweeten... wann e jonke Mënsch richteg Erfahrung wëll, da kuckt Iech de fräiwëllegen Déngscht un.",
-    "t": 356.72
+    "t": 353.29
    },
    {
     "speaker": "Tom",
     "text": "Als drëtten... fir Spaass, fir ze wuessen a fir aner Leit ze begéinen, entdeckt d'Aktivitéitszentren an d'Programme vum SNJ.",
-    "t": 362.38
+    "t": 358.95
    },
    {
     "speaker": "Anna",
     "text": "Als véierten... fir Sécherheet online huet BEE SECURE praktesch Rotschléi fir jonk Leit an Eltere gläichermoossen.",
-    "t": 369.74
+    "t": 366.31
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer alles zesummebréngen. Wat soll ee sech iwwer de SNJ merken?",
-    "t": 376.81
+    "t": 373.38
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... et ass de Lëtzebuerger Service National de la Jeunesse, do fir jonk Leit staark ze maachen, mat der Devis „Jonker staark maachen\".",
-    "t": 381.08
+    "t": 377.65
    },
    {
     "speaker": "Tom",
     "text": "Als zweeten... hien ënnerstëtzt de ganze Jugendsecteur, a bitt räich, praxisno Léierfahrungen.",
-    "t": 389.21
+    "t": 383.13
    },
    {
     "speaker": "Anna",
     "text": "Als drëtten... hien hëlleft jonke Leit, an d'Aarbechtsliewen erakommen, ënner anerem duerch de fräiwëllegen Déngscht.",
-    "t": 395.13
+    "t": 389.05
    },
    {
     "speaker": "Tom",
     "text": "An als véierten... hien lauschtert jonke Leit no, a förderert déi sécher Notzung vun der Technologie duerch BEE SECURE.",
-    "t": 401.28
+    "t": 395.2
    },
    {
     "speaker": "Anna",
     "text": "Grouss ze ginn ass eng Rees, mat Héichten an Déiften. Kee jonke Mënsch sollt se eleng goen mussen.",
-    "t": 406.8
+    "t": 400.72
    },
    {
     "speaker": "Tom",
     "text": "An zu Lëtzebuerg mussen se dat net. De SNJ geet niewent hinnen.",
-    "t": 412.13
+    "t": 406.05
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer de Service national de la jeunesse. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 416.41
+    "t": 410.33
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 461.47
+    "t": 455.39
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 464.67
+    "t": 458.6
    }
   ]
  }

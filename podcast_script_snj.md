@@ -12,7 +12,7 @@
 **TOM:** And today we are talking about young people, and the organisation that exists to support them.
 **ANNA:** It is called the Service National de la Jeunesse. In English, the National Youth Service.
 **TOM:** People often shorten it to its initials... S, N, J.
-**ANNA:** The SNJ has a lovely motto in Luxembourgish... "Jonker staark maachen". It means "empowering youth".
+**ANNA:** The SNJ has a lovely motto: "empowering youth".
 **TOM:** So Anna, what exactly is the SNJ?
 **ANNA:** It is a public service of the State, created back in 1964. So it has been supporting young people for more than sixty years.
 **TOM:** And it works under the Ministry of Education, Children and Youth.
@@ -74,7 +74,7 @@
 **TOM:** Third... for fun, growth, and meeting others, explore the SNJ's activity centres and programmes.
 **ANNA:** Fourth... for safety online, BEE SECURE has practical advice for young people and parents alike.
 **TOM:** Let's bring it all together. What should people remember about the SNJ?
-**ANNA:** First... it is Luxembourg's National Youth Service, here to empower young people, with the motto "Jonker staark maachen".
+**ANNA:** First, it is Luxembourg's National Youth Service, with the motto "empowering youth".
 **TOM:** Second... it supports the whole youth sector, and runs rich, hands-on learning experiences.
 **ANNA:** Third... it helps young people move into working life, including through the voluntary service.
 **TOM:** And fourth... it listens to young people, and promotes safe use of technology through BEE SECURE.
