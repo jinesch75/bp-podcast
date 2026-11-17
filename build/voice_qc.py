@@ -49,6 +49,13 @@ if len(res) == len(meta):
             for r in rs:
                 z = (r[fld] - med) / mad
                 if abs(z) > 3.5: flags.setdefault(r["i"], []).append(f"{fld} {r[fld]} (z {z:+.1f})")
+    # statements (ending with ".") whose melody rises at the end sound like questions / "off" (Jacques, ONIS 2026-11-17)
+    for spk in {r["speaker"] for r in rows}:
+        st = [r for r in rows if r["speaker"] == spk and r["text"].rstrip().endswith(".")]
+        a = np.array([r["tail"] for r in st]); med = np.median(a); mad = np.median(np.abs(a - med)) * 1.4826 + 1e-6
+        for r in st:
+            z = (r["tail"] - med) / mad
+            if z > 2.5: flags.setdefault(r["i"], []).append(f"rising end on a statement (tail {r['tail']:+.2f}, z {z:+.1f})")
     for r in rows:
         if r["logprob"] < -0.8: flags.setdefault(r["i"], []).append(f"unclear (whisper {r['logprob']}: '{r['heard']}')")
     for i in sorted(flags):

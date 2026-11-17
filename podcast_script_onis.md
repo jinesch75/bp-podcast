@@ -98,7 +98,7 @@
 
 **TOM:** So you're doing something meaningful, and at the same time preparing yourself.
 
-**ANNA:** Exactly. It's dignity and preparation in one. You're not sitting at home feeling useless. You're contributing, and growing.
+**ANNA:** Exactly — it gives dignity and preparation at the same time. You're not sitting at home feeling useless. You're contributing, and growing.
 
 **TOM:** Anna, I want to ask the honest question some listeners will have. Is this about helping people — or is it about checking up on them, making sure they're not being lazy?
 

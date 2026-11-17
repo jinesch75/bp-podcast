@@ -21,10 +21,17 @@ def feats(p, text):
     y, sr = librosa.load(p, sr=16000); yt, _ = librosa.effects.trim(y, top_db=35); dur = len(yt) / sr
     f0, _, _ = librosa.pyin(yt, fmin=70, fmax=420, sr=sr, frame_length=1024); f = f0[~np.isnan(f0)]
     st = 12 * np.log2(f / np.median(f)) if len(f) > 5 else np.array([0.0])
-    return {"rate": len(re.sub(r"\W", "", text)) / max(dur, 0.1), "f0": float(np.median(f)) if len(f) else 0,
+    tail = st[-max(3, len(st) // 6):]
+    return {"tail": float(np.mean(tail) - np.median(st)), "rate": len(re.sub(r"\W", "", text)) / max(dur, 0.1), "f0": float(np.median(f)) if len(f) else 0,
             "spread": float(np.std(st)), "rms": float(20 * np.log10(np.sqrt(np.mean(yt ** 2)) + 1e-9)), "voiced": len(f) / max(len(f0), 1)}
-def dist(fe, spk):
-    return float(np.sqrt(sum(((fe[f] - prof[spk][f][0]) / prof[spk][f][1]) ** 2 for f in FIELDS)))
+TAIL = {}
+for spk in ("Anna", "Tom"):   # end-of-sentence melody of statements: a rising end sounds like a question
+    a = np.array([v["tail"] for v in qc.values() if v["speaker"] == spk and v["text"].rstrip().endswith(".")])
+    TAIL[spk] = (np.median(a), np.median(np.abs(a - np.median(a))) * 1.4826 + 1e-6)
+def dist(fe, spk, statement=False):
+    d = sum(((fe[f] - prof[spk][f][0]) / prof[spk][f][1]) ** 2 for f in FIELDS)
+    if statement: d += max(0.0, (fe["tail"] - TAIL[spk][0]) / TAIL[spk][1]) ** 2
+    return float(np.sqrt(d))
 el.load_env(); api = os.environ["ELEVENLABS_API_KEY"].strip()
 voices = json.loads(el.request("GET", "/voices", api))["voices"]
 vids = {r: el.resolve_voice(r, lang, voices)[0] for r in ("Anna", "Tom")}
@@ -52,7 +59,7 @@ for i in idx:
             sd = json.loads(json.dumps(body)); sd["seed"] = [1241, 1242, 1243][cands.index(c) - 1]
             open(p, "wb").write(el.request("POST", f"/text-to-speech/{vids[s['speaker']]}", api, sd, query="?output_format=mp3_44100_128")); credits += len(spoken)
         heard = el.transcribe(p, lang, "small"); bad = el.asr_problem(spoken, heard)
-        d = dist(feats(p, spoken), s["speaker"]) + (100 if bad else 0) + (100 if el.is_cut(p) else 0)
+        d = dist(feats(p, spoken), s["speaker"], s["text"].rstrip().endswith(".")) + (100 if bad else 0) + (100 if el.is_cut(p) else 0)
         report.append(f"{d:6.1f}{' *' if c == cur else '  '}"); 
         if best is None or d < best[0] - (0.5 if c != cur else 0): best = (d, c)
     if best[1] != cur:

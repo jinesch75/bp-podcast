@@ -403,3 +403,7 @@ Jacques: "C-G-D-I-S" is cumbersome → said only in the introduction (line 15), 
 ## Hosts addressing themselves (17 Nov 2026)
 
 Tom said "So Tom, let's make it practical" in agriculture, amenagement, cepas, cgdis, fondseuropeens; Anna said "So Anna, what is…" in demenz. The other host answers each time → only the name changed ("So Anna…" / "So Tom…"), "..." after it removed. EN/FR/DE/LB, `build/apply_vocative_fix_2026_11.py`. No self-address left in any episode. ≈ 1,500 credits.
+
+## ONIS pitch pass (17 Nov 2026)
+
+Jacques: "Exactly. It's dignity…" sounded off. EN line reworded "Exactly — it gives dignity and preparation at the same time." (metrics rated the old take normal; trust the ear). `voice_qc.py` now also flags statements whose melody rises at the end (`tail`), and `best_take.py` penalises a rising end on statements. Retakes kept: EN 16, FR 18, DE 11. ≈ 5,400 credits. FR "Le REVIS a deux facettes." still a known ASR false positive.
