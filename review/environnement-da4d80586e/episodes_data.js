@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "The Environment Portal – emwelt.lu and Caring for Nature in Luxembourg",
   "description": "What the environment portal emwelt.lu is, run by the Ministry of the Environment, Climate and Biodiversity, the areas it covers (nature, water, air, climate, waste and more), its practical services like real-time air quality, bathing-water quality and the waste-sorting guide, and how everyone can take part in protecting nature.",
   "audio": "../../podcast_environnement.mp3",
-  "duration": 389.2,
+  "duration": 385.54,
   "topics": [
    "The emwelt.lu portal",
    "Ministry of the Environment",
@@ -160,263 +160,263 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Yes! The portal explains how to sort your waste, and the country's zero-waste strategy, \"Null Offall Lëtzebuerg\".",
+    "text": "Yes! The portal explains how to sort your waste, and the country's zero-waste strategy.",
     "t": 140.03
    },
    {
     "speaker": "Tom",
-    "text": "There's even an app, Mäin Offall, to help you know what goes in which bin.",
-    "t": 147.68
+    "text": "There's even an app to help you know what goes in which bin.",
+    "t": 145.8
    },
    {
     "speaker": "Anna",
     "text": "There are more areas too... chemicals and safe products, fishing and hunting, and protecting the soil.",
-    "t": 152.28
+    "t": 148.98
    },
    {
     "speaker": "Tom",
     "text": "So it really is a one-stop portal for the whole environment.",
-    "t": 158
+    "t": 154.7
    },
    {
     "speaker": "Anna",
     "text": "Now, let's talk about the part I find most inviting... experiencing nature.",
-    "t": 161.28
+    "t": 157.98
    },
    {
     "speaker": "Tom",
     "text": "The portal points you to nature and forest centres, and to nature trails across the country.",
-    "t": 166.54
+    "t": 163.24
    },
    {
     "speaker": "Anna",
     "text": "So it's not only about rules and protection.",
-    "t": 171.79
+    "t": 168.49
    },
    {
     "speaker": "Anna",
     "text": "It's also an invitation to go outside and enjoy the natural world.",
-    "t": 174.38
+    "t": 171.08
    },
    {
     "speaker": "Tom",
     "text": "And enjoying nature is often the first step to wanting to protect it.",
-    "t": 178.66
+    "t": 175.36
    },
    {
     "speaker": "Anna",
     "text": "The portal is also practical, with real services for citizens and professionals.",
-    "t": 182.72
+    "t": 179.42
    },
    {
     "speaker": "Tom",
     "text": "There is a section on environmental procedures... permits, financial aids, and official forms.",
-    "t": 187.82
+    "t": 184.52
    },
    {
     "speaker": "Anna",
     "text": "So if you need an environmental permit, or a grant for a green project, you can find the way in here.",
-    "t": 194.14
+    "t": 190.84
    },
    {
     "speaker": "Tom",
     "text": "And there are useful alerts too... like reporting a pollution, or checking flood information.",
-    "t": 200.87
+    "t": 197.57
    },
    {
     "speaker": "Anna",
     "text": "Let's connect this to two earlier episodes, because the picture fits together.",
-    "t": 206.39
+    "t": 203.09
    },
    {
     "speaker": "Tom",
     "text": "Yes. For climate and energy advice at home, there's Klima-Agence, which we covered.",
-    "t": 211.04
+    "t": 207.74
    },
    {
     "speaker": "Anna",
     "text": "And for housing and land, there's the Observatoire de l'Habitat.",
-    "t": 215.71
+    "t": 212.41
    },
    {
     "speaker": "Anna",
     "text": "The environment portal sits alongside them.",
-    "t": 219.5
+    "t": 216.2
    },
    {
     "speaker": "Tom",
     "text": "Together, they show a country thinking carefully about its future.",
-    "t": 222.5
+    "t": 219.2
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about why this matters for each of us, in daily life.",
-    "t": 226.38
+    "t": 223.08
    },
    {
     "speaker": "Tom",
     "text": "First, because the environment is not somewhere else.",
-    "t": 230.47
+    "t": 227.17
    },
    {
     "speaker": "Tom",
     "text": "It is the air on your street and the water in your tap.",
-    "t": 233.96
+    "t": 230.66
    },
    {
     "speaker": "Anna",
     "text": "Second, because small actions add up.",
-    "t": 237.29
+    "t": 233.99
    },
    {
     "speaker": "Anna",
     "text": "Sorting waste, saving water, protecting a green space... it all counts.",
-    "t": 240.4
+    "t": 236.71
    },
    {
     "speaker": "Tom",
     "text": "And third, because being informed lets you take part... in consultations, in local projects, in everyday choices.",
-    "t": 246.34
+    "t": 242.65
    },
    {
     "speaker": "Anna",
     "text": "The portal also shares the country's latest plans... for example a new national plan to restore nature.",
-    "t": 253.22
+    "t": 249.53
    },
    {
     "speaker": "Tom",
     "text": "So this is not a passive website.",
-    "t": 259.84
+    "t": 256.15
    },
    {
     "speaker": "Tom",
     "text": "It's an invitation to act, together.",
-    "t": 262.31
+    "t": 258.62
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 265.02
+    "t": 261.31
    },
    {
     "speaker": "Anna",
     "text": "How can someone use emwelt dot lu?",
-    "t": 266.4
+    "t": 262.7
    },
    {
     "speaker": "Tom",
     "text": "First, before a summer swim, check the bathing-water quality.",
-    "t": 268.92
+    "t": 265.22
    },
    {
     "speaker": "Tom",
     "text": "Before a high-pollution day, check the air.",
-    "t": 272.92
+    "t": 269.22
    },
    {
     "speaker": "Anna",
     "text": "Second, when in doubt about waste, use the sorting guide or the app to recycle correctly.",
-    "t": 275.2
+    "t": 271.5
    },
    {
     "speaker": "Tom",
     "text": "Third, if you have a green project, or need an environmental permit, look up the procedures and grants.",
-    "t": 281.62
+    "t": 277.92
    },
    {
     "speaker": "Anna",
     "text": "And fourth, to reconnect with nature, find a nearby nature trail or forest centre and simply go.",
-    "t": 288.46
+    "t": 284.76
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 295.16
+    "t": 291.46
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about the environment portal?",
-    "t": 296.52
+    "t": 292.87
    },
    {
     "speaker": "Anna",
     "text": "First... emwelt dot lu is Luxembourg's one-stop environment portal, from the Ministry of the Environment, Climate and Biodiversity.",
-    "t": 299.58
+    "t": 295.93
    },
    {
     "speaker": "Tom",
     "text": "Second... it covers nature, water, air, climate, waste, and more, with real-time information and services.",
-    "t": 309.13
+    "t": 305.48
    },
    {
     "speaker": "Anna",
     "text": "Third... it's both protective and inviting... rules and permits, but also nature trails and discovery.",
-    "t": 316.52
+    "t": 312.87
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it shows how each of us can take part, with simple daily actions and local projects.",
-    "t": 323.82
+    "t": 320.17
    },
    {
     "speaker": "Anna",
     "text": "Nature gives us so much, quietly, every day.",
-    "t": 330.4
+    "t": 326.75
    },
    {
     "speaker": "Anna",
     "text": "Caring for it is a way of caring for each other.",
-    "t": 333.79
+    "t": 330.14
    },
    {
     "speaker": "Tom",
     "text": "And it starts with knowing, and then with small, steady steps.",
-    "t": 336.79
+    "t": 333.14
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the environment portal.",
-    "t": 340.59
+    "t": 336.94
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 343.31
+    "t": 339.66
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 352.47
+    "t": 348.82
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 370.75
+    "t": 367.1
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 377.5
+    "t": 373.85
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 379.7
+    "t": 376.05
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 384.39
+    "t": 380.74
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 385.48
+    "t": 381.83
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 387.6
+    "t": 383.95
    }
   ],
   "questions": [
@@ -618,7 +618,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "../../podcast_environnement_fr.mp3",
-  "duration_fr": 381.99,
+  "duration_fr": 381.81,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -638,391 +638,391 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui est un sujet que nous partageons tous, d'où que nous venions... l'environnement.",
-    "t": 23.07
+    "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "L'air que nous respirons, l'eau que nous buvons, les forêts où nous nous promenons, les déchets que nous produisons.",
-    "t": 28.44
+    "t": 28.5
    },
    {
     "speaker": "Tom",
     "text": "Ces sujets peuvent sembler vastes et lointains.",
-    "t": 33.9
+    "t": 33.96
    },
    {
     "speaker": "Tom",
     "text": "Mais il existe un seul endroit qui les rassemble tous pour les citoyens.",
-    "t": 36.86
+    "t": 36.67
    },
    {
     "speaker": "Anna",
     "text": "C'est le portail de l'environnement du Luxembourg.",
-    "t": 40.83
+    "t": 40.64
    },
    {
     "speaker": "Anna",
     "text": "Son nom familier est emwelt point lu... qui vous mène à environnement point public point lu.",
-    "t": 43.18
+    "t": 42.99
    },
    {
     "speaker": "Tom",
     "text": "« Ëmwelt » est le mot luxembourgeois pour environnement.",
-    "t": 49.38
+    "t": 49.19
    },
    {
     "speaker": "Tom",
     "text": "Il s'agit donc, tout simplement, du portail de l'environnement.",
-    "t": 52.47
+    "t": 52.28
    },
    {
     "speaker": "Anna",
     "text": "Alors Tom, qui est derrière ce portail, et à quoi sert-il ?",
-    "t": 55.84
+    "t": 55.65
    },
    {
     "speaker": "Tom",
     "text": "Il est géré par le ministère de l'Environnement, du Climat et de la Biodiversité.",
-    "t": 58.8
+    "t": 58.61
    },
    {
     "speaker": "Anna",
     "text": "Et son but est d'informer le public sur l'environnement et le développement durable, et de donner accès à des services environnementaux.",
-    "t": 63.63
+    "t": 63.44
    },
    {
     "speaker": "Tom",
     "text": "Voyez-le comme une porte d'entrée unique vers tout ce que l'État fait pour protéger la nature, et la manière dont vous pouvez y participer.",
-    "t": 69.8
+    "t": 69.61
    },
    {
     "speaker": "Anna",
     "text": "Parcourons les principaux domaines qu'il couvre, car il est merveilleusement large.",
-    "t": 77.6
+    "t": 77.41
    },
    {
     "speaker": "Tom",
     "text": "Le premier est la nature... la biodiversité, nos forêts, le sol, et les espèces qui vivent ici.",
-    "t": 81.51
+    "t": 81.32
    },
    {
     "speaker": "Anna",
     "text": "Le portail a même une section entière sur le retour du loup au Luxembourg, ce qui est fascinant.",
-    "t": 88.32
+    "t": 88.13
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième domaine est l'eau... l'eau potable, les rivières, les eaux souterraines et les eaux usées.",
-    "t": 92.89
+    "t": 92.7
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez même vérifier la qualité des eaux de baignade avant d'aller nager en été.",
-    "t": 98.87
+    "t": 98.68
    },
    {
     "speaker": "Tom",
     "text": "Le troisième domaine est l'air et le bruit... la qualité de l'air que nous respirons, et la pollution sonore.",
-    "t": 102.84
+    "t": 102.65
    },
    {
     "speaker": "Anna",
     "text": "Et il existe un service de qualité de l'air en temps réel, avec l'application Meng Loft, qui vous permet de voir les mesures en direct.",
-    "t": 109.05
+    "t": 108.86
    },
    {
     "speaker": "Tom",
     "text": "Le quatrième domaine est le climat et l'énergie... protéger le climat et s'adapter à ses changements.",
-    "t": 115.35
+    "t": 115.16
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg dispose d'un plan national énergie et climat, et d'une nouvelle stratégie pour s'adapter à un monde qui se réchauffe, adoptée en 2026.",
-    "t": 121.84
+    "t": 121.65
    },
    {
     "speaker": "Tom",
     "text": "Le cinquième domaine est les déchets et les ressources... et c'est là que chacun d'entre nous peut vraiment faire la différence.",
-    "t": 129.48
+    "t": 129.29
    },
    {
     "speaker": "Anna",
     "text": "Oui ! Le portail explique comment faire le tri des déchets, et présente la stratégie zéro déchet du pays, « Null Offall Lëtzebuerg ».",
-    "t": 135.98
+    "t": 135.79
    },
    {
     "speaker": "Tom",
     "text": "Il existe même une application, Mäin Offall, pour vous aider à savoir ce qui va dans quelle poubelle.",
-    "t": 142.97
+    "t": 142.78
    },
    {
     "speaker": "Anna",
     "text": "Il y a encore d'autres domaines... les produits chimiques et les produits sûrs, la pêche et la chasse, et la protection du sol.",
-    "t": 148.41
+    "t": 148.22
    },
    {
     "speaker": "Tom",
     "text": "C'est donc vraiment un portail unique pour l'ensemble de l'environnement.",
-    "t": 155.38
+    "t": 155.19
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, parlons de la partie que je trouve la plus invitante... découvrir la nature.",
-    "t": 159.17
+    "t": 158.98
    },
    {
     "speaker": "Tom",
     "text": "Le portail vous oriente vers les centres nature et forêt, et vers les sentiers nature à travers le pays.",
-    "t": 163.45
+    "t": 163.26
    },
    {
     "speaker": "Anna",
     "text": "Il ne s'agit donc pas seulement de règles et de protection.",
-    "t": 169.46
+    "t": 169.27
    },
    {
     "speaker": "Anna",
     "text": "C'est aussi une invitation à sortir et à profiter du monde naturel.",
-    "t": 172.27
+    "t": 172.08
    },
    {
     "speaker": "Tom",
     "text": "Et profiter de la nature est souvent le premier pas vers l'envie de la protéger.",
-    "t": 176.06
+    "t": 175.87
    },
    {
     "speaker": "Anna",
     "text": "Le portail est aussi pratique, avec de vrais services pour les citoyens et les professionnels.",
-    "t": 180.05
+    "t": 179.86
    },
    {
     "speaker": "Tom",
     "text": "Il y a une section sur les démarches environnementales... les autorisations, les aides financières et les formulaires officiels.",
-    "t": 184.6
+    "t": 184.41
    },
    {
     "speaker": "Anna",
     "text": "Donc si vous avez besoin d'une autorisation environnementale, ou d'une aide pour un projet vert, vous pouvez trouver la marche à suivre ici.",
-    "t": 191.89
+    "t": 191.7
    },
    {
     "speaker": "Tom",
     "text": "Et il y a aussi des alertes utiles... comme signaler une pollution, ou consulter les informations sur les inondations.",
-    "t": 197.96
+    "t": 197.77
    },
    {
     "speaker": "Anna",
     "text": "Relions cela à deux épisodes précédents, car le tableau s'assemble bien.",
-    "t": 204.5
+    "t": 204.31
    },
    {
     "speaker": "Tom",
     "text": "Oui. Pour des conseils sur le climat et l'énergie à la maison, il y a Klima-Agence, dont nous avons parlé.",
-    "t": 208.43
+    "t": 208.24
    },
    {
     "speaker": "Anna",
     "text": "Et pour le logement et le foncier, il y a l'Observatoire de l'Habitat.",
-    "t": 214.58
+    "t": 214.39
    },
    {
     "speaker": "Anna",
     "text": "Le portail de l'environnement vient à leurs côtés.",
-    "t": 217.86
+    "t": 217.67
    },
    {
     "speaker": "Tom",
     "text": "Ensemble, ils montrent un pays qui réfléchit soigneusement à son avenir.",
-    "t": 220.32
+    "t": 220.13
    },
    {
     "speaker": "Anna",
     "text": "Parlons de la raison pour laquelle cela compte pour chacun d'entre nous, dans la vie de tous les jours.",
-    "t": 224.55
+    "t": 224.36
    },
    {
     "speaker": "Tom",
     "text": "D'abord, parce que l'environnement n'est pas ailleurs.",
-    "t": 228.87
+    "t": 228.68
    },
    {
     "speaker": "Tom",
     "text": "C'est l'air dans votre rue et l'eau de votre robinet.",
-    "t": 231.37
+    "t": 231.18
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, parce que les petites actions s'additionnent.",
-    "t": 234.56
+    "t": 234.37
    },
    {
     "speaker": "Anna",
     "text": "Faire le tri des déchets, économiser l'eau, protéger un espace vert... tout cela compte.",
-    "t": 237.15
+    "t": 236.96
    },
    {
     "speaker": "Tom",
     "text": "Et enfin, parce qu'être informé vous permet de participer... aux consultations, aux projets locaux, aux choix de tous les jours.",
-    "t": 242.19
+    "t": 242
    },
    {
     "speaker": "Anna",
     "text": "Le portail présente aussi les derniers plans du pays... par exemple un nouveau plan national pour restaurer la nature.",
-    "t": 249.25
+    "t": 249.06
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est donc pas un site web passif.",
-    "t": 255.1
+    "t": 254.91
    },
    {
     "speaker": "Tom",
     "text": "C'est une invitation à agir, ensemble.",
-    "t": 257.23
+    "t": 257.21
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 260.1
+    "t": 260.08
    },
    {
     "speaker": "Anna",
     "text": "Comment peut-on utiliser emwelt point lu ?",
-    "t": 261.41
+    "t": 261.39
    },
    {
     "speaker": "Tom",
     "text": "D'abord, avant une baignade estivale, vérifiez la qualité des eaux de baignade.",
-    "t": 263.99
+    "t": 263.97
    },
    {
     "speaker": "Tom",
     "text": "Avant un jour de forte pollution, vérifiez l'air.",
-    "t": 268.56
+    "t": 268.54
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, en cas de doute sur les déchets, utilisez le guide de tri ou l'application pour recycler correctement.",
-    "t": 272.02
+    "t": 272
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, si vous avez un projet vert, ou besoin d'une autorisation environnementale, consultez les démarches et les aides.",
-    "t": 277.59
+    "t": 277.57
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement, pour renouer avec la nature, trouvez un sentier nature ou un centre forêt à proximité et allez-y simplement.",
-    "t": 284.69
+    "t": 284.67
    },
    {
     "speaker": "Tom",
     "text": "Rassemblons le tout.",
-    "t": 291.28
+    "t": 291.26
    },
    {
     "speaker": "Tom",
     "text": "Que faut-il retenir du portail de l'environnement ?",
-    "t": 292.62
+    "t": 292.6
    },
    {
     "speaker": "Anna",
     "text": "Premièrement... emwelt point lu est le portail unique de l'environnement du Luxembourg, du ministère de l'Environnement, du Climat et de la Biodiversité.",
-    "t": 295.25
+    "t": 295.23
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... il couvre la nature, l'eau, l'air, le climat, les déchets, et plus encore, avec des informations et des services en temps réel.",
-    "t": 303.27
+    "t": 303.25
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... il est à la fois protecteur et invitant... des règles et des autorisations, mais aussi des sentiers nature et de la découverte.",
-    "t": 313.56
+    "t": 313.54
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... il montre comment chacun d'entre nous peut participer, avec de simples actions quotidiennes et des projets locaux.",
-    "t": 321.15
+    "t": 321.13
    },
    {
     "speaker": "Anna",
     "text": "La nature nous donne tant, discrètement, chaque jour.",
-    "t": 328.66
+    "t": 328.64
    },
    {
     "speaker": "Anna",
     "text": "En prendre soin est une façon de prendre soin les uns des autres.",
-    "t": 331.64
+    "t": 331.45
    },
    {
     "speaker": "Tom",
     "text": "Et cela commence par savoir, puis par de petits pas, réguliers.",
-    "t": 334.9
+    "t": 334.71
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le portail de l'environnement.",
-    "t": 338.56
+    "t": 338.37
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 341.12
+    "t": 340.93
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 349.28
+    "t": 349.09
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 365.73
+    "t": 365.54
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 370.38
+    "t": 370.19
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 372.16
+    "t": 371.97
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 376.54
+    "t": 376.35
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 377.77
+    "t": 377.58
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 380.23
+    "t": 380.04
    }
   ],
   "audio_de": "../../podcast_environnement_de.mp3",
-  "duration_de": 427.81,
+  "duration_de": 427.1,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -1042,387 +1042,387 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema ist eines, das wir alle teilen, woher wir auch kommen... die Umwelt.",
-    "t": 27.86
+    "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Die Luft, die wir atmen, das Wasser, das wir trinken, die Wälder, in denen wir spazieren gehen, der Abfall, den wir erzeugen.",
-    "t": 33.12
+    "t": 33.14
    },
    {
     "speaker": "Tom",
     "text": "Diese Themen können groß und weit weg wirken.",
-    "t": 40.78
+    "t": 40.8
    },
    {
     "speaker": "Tom",
     "text": "Aber es gibt einen einzigen Ort, der sie alle für die Bürgerinnen und Bürger zusammenbringt.",
-    "t": 43.34
+    "t": 43.36
    },
    {
     "speaker": "Anna",
     "text": "Es ist das Umweltportal Luxemburgs.",
-    "t": 48.83
+    "t": 48.85
    },
    {
     "speaker": "Anna",
     "text": "Sein vertrauter Name ist emwelt Punkt lu... das Sie zu environnement Punkt public Punkt lu führt.",
-    "t": 51.3
+    "t": 51.32
    },
    {
     "speaker": "Tom",
     "text": "„Ëmwelt\" ist das luxemburgische Wort für Umwelt.",
-    "t": 58.47
+    "t": 58.49
    },
    {
     "speaker": "Tom",
     "text": "Dies ist also ganz einfach das Umweltportal.",
-    "t": 61.73
+    "t": 61.75
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, wer steckt dahinter, und wofür ist es da?",
-    "t": 64.56
+    "t": 64.58
    },
    {
     "speaker": "Tom",
     "text": "Es wird vom Ministerium für Umwelt, Klima und Biodiversität betrieben.",
-    "t": 68.77
+    "t": 68.07
    },
    {
     "speaker": "Anna",
     "text": "Und sein Zweck ist es, die Öffentlichkeit über die Umwelt und die nachhaltige Entwicklung zu informieren und Zugang zu Umweltdienstleistungen zu geben.",
-    "t": 73.49
+    "t": 72.79
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie es sich als eine einzige Eingangstür zu allem vor, was der Staat zum Schutz der Natur tut, und wie Sie sich daran beteiligen können.",
-    "t": 81.19
+    "t": 80.49
    },
    {
     "speaker": "Anna",
     "text": "Gehen wir die wichtigsten Bereiche durch, die es abdeckt, denn es ist wunderbar breit gefächert.",
-    "t": 90.04
+    "t": 89.34
    },
    {
     "speaker": "Tom",
     "text": "Der erste ist die Natur... die Biodiversität, unsere Wälder, der Boden und die Arten, die hier leben.",
-    "t": 95.28
+    "t": 94.58
    },
    {
     "speaker": "Anna",
     "text": "Das Portal hat sogar einen ganzen Bereich über die Rückkehr des Wolfs nach Luxemburg, was faszinierend ist.",
-    "t": 101.99
+    "t": 101.29
    },
    {
     "speaker": "Tom",
     "text": "Der zweite Bereich ist das Wasser... Trinkwasser, Flüsse, Grundwasser und Abwasser.",
-    "t": 107.88
+    "t": 107.18
    },
    {
     "speaker": "Anna",
     "text": "Sie können sogar die Qualität der Badegewässer überprüfen, bevor Sie im Sommer schwimmen gehen.",
-    "t": 113.44
+    "t": 112.74
    },
    {
     "speaker": "Tom",
     "text": "Der dritte Bereich ist Luft und Lärm... die Qualität der Luft, die wir atmen, und die Lärmbelastung.",
-    "t": 118.78
+    "t": 118.08
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt einen Echtzeit-Dienst zur Luftqualität, mit der App Meng Loft, sodass Sie die Messungen live sehen können.",
-    "t": 125.59
+    "t": 124.89
    },
    {
     "speaker": "Tom",
     "text": "Der vierte Bereich ist Klima und Energie... den Klimaschutz und die Anpassung an seine Veränderungen.",
-    "t": 132.24
+    "t": 131.54
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg hat einen nationalen Energie- und Klimaplan und eine neue Strategie, um sich an eine wärmer werdende Welt anzupassen, die 2026 verabschiedet wurde.",
-    "t": 138.4
+    "t": 137.7
    },
    {
     "speaker": "Tom",
     "text": "Der fünfte Bereich ist Abfall und Ressourcen... und hier kann jeder von uns wirklich etwas bewirken.",
-    "t": 149.15
+    "t": 148.45
    },
    {
     "speaker": "Anna",
     "text": "Ja! Das Portal erklärt, wie man die Mülltrennung vornimmt, und die Null-Abfall-Strategie des Landes, „Null Offall Lëtzebuerg\".",
-    "t": 154.69
+    "t": 153.99
    },
    {
     "speaker": "Tom",
     "text": "Es gibt sogar eine App, Mäin Offall, die Ihnen hilft zu wissen, was in welche Tonne gehört.",
-    "t": 163.25
+    "t": 162.55
    },
    {
     "speaker": "Anna",
     "text": "Es gibt noch weitere Bereiche... Chemikalien und sichere Produkte, Fischerei und Jagd, und der Schutz des Bodens.",
-    "t": 168.71
+    "t": 168.01
    },
    {
     "speaker": "Tom",
     "text": "Es ist also wirklich ein zentrales Portal für die gesamte Umwelt.",
-    "t": 176.97
+    "t": 176.27
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir nun über den Teil, den ich am einladendsten finde... die Natur erleben.",
-    "t": 180.92
+    "t": 180.22
    },
    {
     "speaker": "Tom",
     "text": "Das Portal verweist Sie auf Natur- und Waldzentren und auf Naturlehrpfade im ganzen Land.",
-    "t": 186.35
+    "t": 185.65
    },
    {
     "speaker": "Anna",
     "text": "Es geht also nicht nur um Regeln und Schutz.",
-    "t": 191.97
+    "t": 191.27
    },
    {
     "speaker": "Anna",
     "text": "Es ist auch eine Einladung, nach draußen zu gehen und die natürliche Welt zu genießen.",
-    "t": 194.31
+    "t": 193.61
    },
    {
     "speaker": "Tom",
     "text": "Und die Natur zu genießen ist oft der erste Schritt, um sie schützen zu wollen.",
-    "t": 199
+    "t": 198.3
    },
    {
     "speaker": "Anna",
     "text": "Das Portal ist auch praktisch, mit echten Dienstleistungen für Bürgerinnen, Bürger und Fachleute.",
-    "t": 203.59
+    "t": 202.89
    },
    {
     "speaker": "Tom",
     "text": "Es gibt einen Bereich über Umweltverfahren... Genehmigungen, finanzielle Beihilfen und offizielle Formulare.",
-    "t": 209.3
+    "t": 208.6
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie also eine Umweltgenehmigung oder eine Beihilfe für ein grünes Projekt benötigen, finden Sie hier den Weg dorthin.",
-    "t": 216.57
+    "t": 215.87
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt auch nützliche Warnungen... wie das Melden einer Verschmutzung oder das Überprüfen von Hochwasserinformationen.",
-    "t": 223.64
+    "t": 222.94
    },
    {
     "speaker": "Anna",
     "text": "Verbinden wir dies mit zwei früheren Folgen, denn das Bild fügt sich zusammen.",
-    "t": 230.51
+    "t": 229.81
    },
    {
     "speaker": "Tom",
     "text": "Ja. Für Beratung zu Klima und Energie zu Hause gibt es Klima-Agence, über die wir gesprochen haben.",
-    "t": 235.03
+    "t": 234.33
    },
    {
     "speaker": "Anna",
     "text": "Und für Wohnen und Boden gibt es das Observatoire de l'Habitat.",
-    "t": 241.78
+    "t": 241.08
    },
    {
     "speaker": "Anna",
     "text": "Das Umweltportal steht an ihrer Seite.",
-    "t": 245.51
+    "t": 244.81
    },
    {
     "speaker": "Tom",
     "text": "Zusammen zeigen sie ein Land, das sorgfältig über seine Zukunft nachdenkt.",
-    "t": 248.01
+    "t": 247.31
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir darüber, warum dies für jeden von uns im täglichen Leben wichtig ist.",
-    "t": 252.72
+    "t": 252.02
    },
    {
     "speaker": "Tom",
     "text": "Erstens, weil die Umwelt nicht woanders ist.",
-    "t": 257.42
+    "t": 256.72
    },
    {
     "speaker": "Tom",
     "text": "Sie ist die Luft in Ihrer Straße und das Wasser in Ihrem Wasserhahn.",
-    "t": 260.04
+    "t": 259.34
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, weil sich kleine Handlungen summieren.",
-    "t": 264.06
+    "t": 263.36
    },
    {
     "speaker": "Anna",
     "text": "Mülltrennung, Wasser sparen, eine Grünfläche schützen... all das zählt.",
-    "t": 266.81
+    "t": 266.11
    },
    {
     "speaker": "Tom",
     "text": "Und drittens, weil Sie informiert sein teilnehmen lässt... an Konsultationen, an lokalen Projekten, an alltäglichen Entscheidungen.",
-    "t": 272.01
+    "t": 271.31
    },
    {
     "speaker": "Anna",
     "text": "Das Portal stellt auch die neuesten Pläne des Landes vor... zum Beispiel einen neuen nationalen Plan zur Wiederherstellung der Natur.",
-    "t": 280.53
+    "t": 279.83
    },
    {
     "speaker": "Tom",
     "text": "Dies ist also keine passive Website.",
-    "t": 288.03
+    "t": 287.33
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine Einladung, gemeinsam zu handeln.",
-    "t": 290.52
+    "t": 289.82
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es konkret.",
-    "t": 293.3
+    "t": 292.6
    },
    {
     "speaker": "Anna",
     "text": "Wie kann jemand emwelt Punkt lu nutzen?",
-    "t": 294.86
+    "t": 294.16
    },
    {
     "speaker": "Tom",
     "text": "Erstens, vor einem Sommerbad, überprüfen Sie die Qualität der Badegewässer.",
-    "t": 297.45
+    "t": 296.75
    },
    {
     "speaker": "Tom",
     "text": "Vor einem Tag mit hoher Verschmutzung, überprüfen Sie die Luft.",
-    "t": 301.87
+    "t": 301.17
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, wenn Sie beim Abfall im Zweifel sind, nutzen Sie den Trennleitfaden oder die App, um richtig zu recyceln.",
-    "t": 305.53
+    "t": 304.83
    },
    {
     "speaker": "Tom",
     "text": "Drittens, wenn Sie ein grünes Projekt haben oder eine Umweltgenehmigung benötigen, schauen Sie sich die Verfahren und Beihilfen an.",
-    "t": 312.11
+    "t": 311.41
    },
    {
     "speaker": "Anna",
     "text": "Und viertens, um sich wieder mit der Natur zu verbinden, finden Sie einen nahegelegenen Naturlehrpfad oder ein Waldzentrum und gehen Sie einfach hin.",
-    "t": 319.95
+    "t": 319.25
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir alles zusammen.",
-    "t": 329.19
+    "t": 328.49
    },
    {
     "speaker": "Tom",
     "text": "Was sollten sich die Menschen über das Umweltportal merken?",
-    "t": 330.72
+    "t": 330.02
    },
    {
     "speaker": "Anna",
     "text": "Erstens... emwelt Punkt lu ist Luxemburgs zentrales Umweltportal, vom Ministerium für Umwelt, Klima und Biodiversität.",
-    "t": 333.83
+    "t": 333.13
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... es deckt Natur, Wasser, Luft, Klima, Abfall und mehr ab, mit Echtzeitinformationen und Dienstleistungen.",
-    "t": 343.37
+    "t": 342.67
    },
    {
     "speaker": "Anna",
     "text": "Drittens... es ist sowohl schützend als auch einladend... Regeln und Genehmigungen, aber auch Naturlehrpfade und Entdeckung.",
-    "t": 352.01
+    "t": 351.31
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... es zeigt, wie jeder von uns teilnehmen kann, mit einfachen täglichen Handlungen und lokalen Projekten.",
-    "t": 359.84
+    "t": 359.14
    },
    {
     "speaker": "Anna",
     "text": "Die Natur gibt uns so viel, still, jeden Tag.",
-    "t": 367.41
+    "t": 366.71
    },
    {
     "speaker": "Anna",
     "text": "Sich um sie zu kümmern ist eine Art, sich umeinander zu kümmern.",
-    "t": 370.96
+    "t": 370.26
    },
    {
     "speaker": "Tom",
     "text": "Und es beginnt mit dem Wissen, und dann mit kleinen, stetigen Schritten.",
-    "t": 374.99
+    "t": 374.29
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Umweltportal.",
-    "t": 379.01
+    "t": 378.31
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 381.77
+    "t": 381.07
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 390.74
+    "t": 390.04
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 409.07
+    "t": 408.37
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 414.77
+    "t": 414.07
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 417.02
+    "t": 416.32
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 421.91
+    "t": 421.21
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 423.06
+    "t": 422.36
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 426.27
+    "t": 425.57
    }
   ],
   "segments_lb": [
@@ -1544,182 +1544,182 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Et gëtt souguer eng App, Mäin Offall, déi Iech hëlleft ze wëssen, wat an déi wéi eng Tonn gehéiert.",
-    "t": 147.68
+    "t": 145.8
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt nach méi Beräicher... Chemikalien a sécher Produkter, Fëscherei a Juegd, an de Schutz vum Buedem.",
-    "t": 152.28
+    "t": 148.98
    },
    {
     "speaker": "Tom",
     "text": "Et ass also wierklech eng zentral Portal fir déi ganz Ëmwelt.",
-    "t": 158
+    "t": 154.7
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis elo iwwer den Deel schwätzen, deen ech am meeschten alueeden fannen... d'Natur erliewen.",
-    "t": 161.28
+    "t": 157.98
    },
    {
     "speaker": "Tom",
     "text": "D'Portal weist Iech op Natur- a Bëschzentren, an op Naturlehrpäder am ganze Land.",
-    "t": 166.54
+    "t": 163.24
    },
    {
     "speaker": "Anna",
     "text": "Et geet also net nëmmen ëm Reegelen a Schutz. Et ass och eng Alueedung, no baussen ze goen an déi natierlech Welt ze genéissen.",
-    "t": 171.79
+    "t": 168.49
    },
    {
     "speaker": "Tom",
     "text": "An d'Natur ze genéissen ass dacks den éischte Schrëtt, fir se schütze ze wëllen.",
-    "t": 178.66
+    "t": 175.36
    },
    {
     "speaker": "Anna",
     "text": "D'Portal ass och praktesch, mat richtege Servicer fir d'Bierger an d'Fachleit.",
-    "t": 182.72
+    "t": 179.42
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt e Beräich iwwer Ëmweltprozeduren... Genehmegungen, finanziell Hëllefen an offiziell Formulairen.",
-    "t": 187.82
+    "t": 184.52
    },
    {
     "speaker": "Anna",
     "text": "Wann Dir also eng Ëmweltgenehmegung braucht, oder eng Hëllef fir e gréngt Projet, kënnt Dir hei de Wee fannen.",
-    "t": 194.14
+    "t": 190.84
    },
    {
     "speaker": "Tom",
     "text": "An et gëtt och nëtzlech Alarmer... wéi eng Verschmotzung ze mellen, oder Iwwerschwemmungsinformatiounen ze iwwerpréiwen.",
-    "t": 200.87
+    "t": 197.57
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis dat mat zwou fréieren Episoden verbannen, well d'Bild passt zesummen.",
-    "t": 206.39
+    "t": 203.09
    },
    {
     "speaker": "Tom",
     "text": "Jo. Fir Rotschléi zu Klima an Energie doheem gëtt et Klima-Agence, iwwer déi mir geschwat hunn.",
-    "t": 211.04
+    "t": 207.74
    },
    {
     "speaker": "Anna",
     "text": "A fir Wunnen a Buedem gëtt et den Observatoire de l'Habitat. D'Ëmweltportal steet u senger Säit.",
-    "t": 215.71
+    "t": 212.41
    },
    {
     "speaker": "Tom",
     "text": "Zesumme weisen se e Land, dat suergfälteg iwwer seng Zukunft nodenkt.",
-    "t": 222.5
+    "t": 219.2
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis driwwer schwätzen, firwat dat fir all eenzelne vun eis am Alldag wichteg ass.",
-    "t": 226.38
+    "t": 223.08
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, well d'Ëmwelt net anzwousch anescht ass. Et ass d'Loft an Ärer Strooss an d'Waasser an Ärem Krunn.",
-    "t": 230.47
+    "t": 227.17
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, well kleng Handlungen sech bäieneen addéieren. Offall trennen, Waasser spueren, eng gréng Plaz schützen... dat alles zielt.",
-    "t": 237.29
+    "t": 233.99
    },
    {
     "speaker": "Tom",
     "text": "An drëttens, well informéiert ze sinn Iech matmaache léisst... un Konsultatiounen, u lokale Projeten, un alldeegleche Choixen.",
-    "t": 246.34
+    "t": 242.65
    },
    {
     "speaker": "Anna",
     "text": "D'Portal stellt och déi neiste Pläng vum Land vir... zum Beispill en neien nationale Plang fir d'Natur ze restauréieren.",
-    "t": 253.22
+    "t": 249.53
    },
    {
     "speaker": "Tom",
     "text": "Dat ass also keng passiv Websäit. Et ass eng Alueedung, zesummen ze handelen.",
-    "t": 259.84
+    "t": 256.15
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis et praktesch maachen. Wéi kann een emwelt Punkt lu benotzen?",
-    "t": 265.02
+    "t": 261.31
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, virun engem Summerbad, iwwerpréift d'Qualitéit vum Buedwaasser. Virun engem Dag mat héijer Verschmotzung, iwwerpréift d'Loft.",
-    "t": 268.92
+    "t": 265.22
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, wann Dir beim Offall am Zweiwel sidd, benotzt de Trennguide oder d'App, fir richteg ze recycléieren.",
-    "t": 275.2
+    "t": 271.5
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, wann Dir e gréngt Projet hutt, oder eng Ëmweltgenehmegung braucht, kuckt d'Prozeduren an d'Hëllefen no.",
-    "t": 281.62
+    "t": 277.92
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, fir Iech erëm mat der Natur ze verbannen, fannt e Naturlehrpad oder e Bëschzentrum an der Géigend an gitt einfach hin.",
-    "t": 288.46
+    "t": 284.76
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis alles zesummebréngen. Wat sollen d'Leit sech iwwer d'Ëmweltportal mierken?",
-    "t": 295.16
+    "t": 291.46
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... emwelt Punkt lu ass Lëtzebuergs zentrual Ëmweltportal, vum Ministère fir Ëmwelt, Klima a Biodiversitéit.",
-    "t": 299.58
+    "t": 295.93
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... et deckt Natur, Waasser, Loft, Klima, Offall a méi of, mat Echtzäitinformatiounen a Servicer.",
-    "t": 309.13
+    "t": 305.48
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... et ass souwuel schützend wéi och alueedend... Reegelen a Genehmegungen, mä och Naturlehrpäder an Entdeckung.",
-    "t": 316.52
+    "t": 312.87
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... et weist, wéi all eenzelne vun eis matmaache kann, mat einfachen alldeegleche Handlungen a lokale Projeten.",
-    "t": 323.82
+    "t": 320.17
    },
    {
     "speaker": "Anna",
     "text": "D'Natur gëtt eis sou vill, roueg, all Dag. Suerg ëm si ze droen ass eng Manéier, Suerg ëmenee ze droen.",
-    "t": 330.4
+    "t": 326.75
    },
    {
     "speaker": "Tom",
     "text": "An et fänkt mam Wëssen un, an dann mat klengen, stännege Schrëtt.",
-    "t": 336.79
+    "t": 333.14
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer den Ëmweltportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 340.59
+    "t": 336.94
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 384.39
+    "t": 380.74
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 387.6
+    "t": 383.95
    }
   ]
  }

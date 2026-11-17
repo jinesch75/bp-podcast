@@ -414,3 +414,7 @@ Jacques: "Exactly. It's dignity…" sounded off. EN line reworded "Exactly — i
 - Closing "…The National Solidarity Fund. fns.lu." — the lone "fns.lu." was cut off → one sentence "…remember the name: the National Solidarity Fund, fns.lu." (EN/FR/DE/LB). New rule `fns` → "F-N-S" (all languages, like `cae`).
 - Short questions made fuller (EN/FR/DE/LB): "Let's start simply: what exactly is it?", "And is it only money, or is there more to it?", "And what's the third step?", "And what's the one message to remember from today?".
 - Voice QC EN/FR/DE + retakes (EN 13, FR 7, DE 7). `best_take.py` now saves after each sentence (long FR sentences can hit the 180 s limit). ≈ 6,500 credits. EN 13:52, FR 14:08, DE 16:07.
+
+## Environment portal (17 Nov 2026)
+
+EN: "Null Offall Lëtzebuerg" and "Mäin Offall" left out of the spoken lines ("the country's zero-waste strategy", "an app to help you know what goes in which bin"); sources footer keeps them. `build/apply_waste_names_environnement_2026_11.py`. Voice QC EN/FR/DE, retakes EN 4, FR 3, DE 1. ≈ 1,200 credits.

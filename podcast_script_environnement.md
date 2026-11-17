@@ -28,8 +28,8 @@
 **TOM:** The fourth area is climate and energy... protecting the climate and adapting to its changes.
 **ANNA:** Luxembourg has a national energy and climate plan, and a new strategy to adapt to a warming world, adopted in 2026.
 **TOM:** The fifth area is waste and resources... and this is where each of us can really make a difference.
-**ANNA:** Yes! The portal explains how to sort your waste, and the country's zero-waste strategy, "Null Offall Lëtzebuerg".
-**TOM:** There's even an app, Mäin Offall, to help you know what goes in which bin.
+**ANNA:** Yes! The portal explains how to sort your waste, and the country's zero-waste strategy.
+**TOM:** There's even an app to help you know what goes in which bin.
 **ANNA:** There are more areas too... chemicals and safe products, fishing and hunting, and protecting the soil.
 **TOM:** So it really is a one-stop portal for the whole environment.
 **ANNA:** Now, let's talk about the part I find most inviting... experiencing nature.
