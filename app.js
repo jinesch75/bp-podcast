@@ -37,7 +37,7 @@ const I18N = {
     episodes_h1: 'The Biergerpakt Podcast – All Episodes',
     episodes_intro: 'Choose an episode, listen along with the full script, then take the quiz to earn your personal certificate.',
     btn_listen_quiz: 'Listen & take the quiz →',
-    filter_heading: 'Browse by topic',
+    filter_heading: 'Topic',
     filter_all: 'All topics',
     eps_count: '{n} of {total} episodes',
     btn_all_episodes: '← All episodes',
@@ -96,7 +96,7 @@ const I18N = {
     episodes_h1: 'Le podcast Biergerpakt – tous les épisodes',
     episodes_intro: 'Choisissez un épisode, écoutez-le en suivant le script complet, puis répondez au quiz pour obtenir votre certificat personnel.',
     btn_listen_quiz: 'Écouter et faire le quiz →',
-    filter_heading: 'Parcourir par sujet',
+    filter_heading: 'Sujet',
     filter_all: 'Tous les sujets',
     eps_count: '{n} sur {total} épisodes',
     btn_all_episodes: '← Tous les épisodes',
@@ -155,7 +155,7 @@ const I18N = {
     episodes_h1: 'Der Biergerpakt-Podcast – alle Folgen',
     episodes_intro: 'Wählen Sie eine Folge, hören Sie mit dem vollständigen Skript mit und absolvieren Sie dann das Quiz, um Ihr persönliches Zertifikat zu erhalten.',
     btn_listen_quiz: 'Anhören & Quiz machen →',
-    filter_heading: 'Nach Thema stöbern',
+    filter_heading: 'Thema',
     filter_all: 'Alle Themen',
     eps_count: '{n} von {total} Folgen',
     btn_all_episodes: '← Alle Folgen',
@@ -214,7 +214,7 @@ const I18N = {
     episodes_h1: 'De Biergerpakt-Podcast – all Episoden',
     episodes_intro: 'Wielt eng Episode, lauschtert se mam komplette Skript mat, a maacht dann de Quiz fir Äre perséinleche Certificat ze kréien.',
     btn_listen_quiz: 'Lauschteren & Quiz maachen →',
-    filter_heading: 'No Thema kucken',
+    filter_heading: 'Thema',
     filter_all: 'All Themen',
     eps_count: '{n} vu(n) {total} Episoden',
     btn_all_episodes: '← All Episoden',
@@ -393,29 +393,25 @@ function episodeMatchesFilter(ep) {
   return (ep.categories || []).indexOf(selectedCat) >= 0;
 }
 function renderFilterBar() {
-  var bar = document.getElementById('filter-bar');
-  if (!bar) return;
-  bar.innerHTML = '';
-  var all = document.createElement('button');
-  all.type = 'button';
-  all.className = 'filter-chip' + (selectedCat === null ? ' active' : '');
+  // Topic filter = one compact dropdown (single-select; "All topics" clears it).
+  var sel = document.getElementById('filter-select');
+  if (!sel) return;
+  sel.innerHTML = '';
+  var all = document.createElement('option');
+  all.value = '';
   all.textContent = t('filter_all');
-  all.addEventListener('click', function () { selectedCat = null; renderEpisodeList(); });
-  bar.appendChild(all);
+  sel.appendChild(all);
   CATEGORIES.forEach(function (c) {
     var count = EPISODES.filter(function (e) { return (e.categories || []).indexOf(c.id) >= 0; }).length;
     if (!count) return;   // hide categories with no episodes yet
-    var chip = document.createElement('button');
-    chip.type = 'button';
-    chip.className = 'filter-chip' + (selectedCat === c.id ? ' active' : '');
-    chip.innerHTML = esc(catLabel(c.id)) + ' <span class="chip-count">' + count + '</span>';
-    chip.addEventListener('click', function () {
-      // single-select: pick this topic, or click the active one again to clear back to "All"
-      selectedCat = (selectedCat === c.id) ? null : c.id;
-      renderEpisodeList();
-    });
-    bar.appendChild(chip);
+    var opt = document.createElement('option');
+    opt.value = c.id;
+    opt.textContent = catLabel(c.id) + ' (' + count + ')';
+    sel.appendChild(opt);
   });
+  sel.value = selectedCat || '';
+  sel.classList.toggle('active', !!selectedCat);
+  sel.onchange = function () { selectedCat = sel.value || null; renderEpisodeList(); };
 }
 function renderEpisodeList() {
   renderFilterBar();
@@ -423,21 +419,20 @@ function renderEpisodeList() {
   grid.innerHTML = '';
   var shown = EPISODES.filter(episodeMatchesFilter);
   shown.forEach(function (ep) {
-    var tags = (ep.categories || []).map(function (c) {
-      return '<span class="cat-tag">' + esc(catLabel(c)) + '</span>';
-    }).join('');
-    var card = document.createElement('div');
+    // One compact row per episode: number · title · arrow. The whole row is the button.
+    var row = document.createElement('button');
     var inProgress = ep.status === 'in_progress';
-    card.className = 'ep-list-card' + (inProgress ? ' in-progress' : '');
-    card.innerHTML =
-      '<div class="ep-list-badges"><span class="ep-list-badge">' + esc(epNumber(ep)) + '</span>' +
-      (inProgress ? '<span class="ep-status-badge">' + esc(t('status_in_progress')) + '</span>' : '') + '</div>' +
-      '<div class="ep-list-title">' + esc(epField(ep, 'title')) + '</div>' +
-      '<div class="ep-list-desc">' + esc(epField(ep, 'description')) + '</div>' +
-      '<div class="cat-tags">' + tags + '</div>' +
-      '<button class="btn ep-list-btn">' + esc(t('btn_listen_quiz')) + '</button>';
-    card.querySelector('button').addEventListener('click', function () { selectEpisode(ep.id); });
-    grid.appendChild(card);
+    row.type = 'button';
+    row.className = 'ep-row' + (inProgress ? ' in-progress' : '');
+    row.title = epField(ep, 'description');   // full description on hover
+    row.setAttribute('aria-label', epNumber(ep) + ': ' + epField(ep, 'title'));
+    row.innerHTML =
+      '<span class="ep-row-num">' + esc(String(ep.number).replace(/\D/g, '')) + '</span>' +
+      '<span class="ep-row-title">' + esc(epField(ep, 'title')) + '</span>' +
+      (inProgress ? '<span class="ep-status-badge">' + esc(t('status_in_progress')) + '</span>' : '') +
+      '<span class="ep-row-go" aria-hidden="true">&rsaquo;</span>';
+    row.addEventListener('click', function () { selectEpisode(ep.id); });
+    grid.appendChild(row);
   });
   var cnt = document.getElementById('filter-count');
   if (cnt) cnt.textContent = t('eps_count', { n: shown.length, total: EPISODES.length });
