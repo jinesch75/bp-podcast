@@ -18,7 +18,7 @@
 
 **TOM:** It's called the National Solidarity Fund. In French, the Fonds national de solidarité. People often just say the short name — F-N-S.
 
-**ANNA:** The National Solidarity Fund. That's a beautiful name. Let's start simply. What is it?
+**ANNA:** The National Solidarity Fund. That's a beautiful name. Let's start simply: what exactly is it?
 
 **TOM:** The FNS is a public office whose whole job is to help people who are struggling financially. It's run under the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. And its mission, very simply, is the fight against poverty.
 
@@ -32,7 +32,7 @@
 
 **ANNA:** Okay. So who is it for? Who can knock on this door?
 
-**TOM:** Mostly people who live in Luxembourg and whose income is modest, or who are in a difficult situation. Now — the FNS doesn't do just one thing. It manages a whole set of different helps. Let me walk through the main ones.
+**TOM:** Mostly people who live in Luxembourg and whose income is modest, or who are in a difficult situation. Now, the FNS doesn't do just one thing. It manages a whole set of different helps. Let me walk through the main ones.
 
 **ANNA:** Yes, let's go through them one by one. Where do we start?
 
@@ -50,7 +50,7 @@
 
 **TOM:** Precisely. It's calculated for the whole household, and it counts the income you already have. REVIS fills the gap between what you have and the minimum you're entitled to.
 
-**ANNA:** And is it only money? Or is there more to it?
+**ANNA:** And is it only money, or is there more to it?
 
 **TOM:** That's the clever part of REVIS. It's not only a cheque. The word "inclusion" is important. There's also a side that helps people get back on their feet — activation, they call it. Support to find work, training, or useful activity, so the help is a bridge, not a dead end.
 
@@ -84,7 +84,7 @@
 
 **ANNA:** A calculator — that's really helpful, so you're not applying blindly. Okay Tom — what's next on the list?
 
-**TOM:** The third help is for people living with a serious disability. It's the income for severely disabled persons — in French, the revenu pour personnes gravement handicapées.
+**TOM:** The third help is for people living with a serious disability. It's the income for severely disabled persons.
 
 **ANNA:** So a dedicated income for people who can't work because of a serious disability.
 
@@ -174,7 +174,7 @@
 
 **TOM:** Second — if your income is modest, use the cost-of-living calculator, and apply. And if you're on REVIS already, remember — that one comes automatically.
 
-**ANNA:** And third?
+**ANNA:** And what's the third step?
 
 **TOM:** Third — if you're not sure, just contact them. A phone call, an email, a visit. Ask the question. There's no shame in solidarity — that's literally what the Fund is for.
 
@@ -182,11 +182,11 @@
 
 **TOM:** Sure. The National Solidarity Fund — the FNS, fns.lu — is Luxembourg's safety net against poverty. It manages REVIS, the guaranteed minimum income; the cost-of-living allowance with the energy premium and senior aid; an income for severely disabled persons; advances on unpaid child maintenance; a supplement for older people in care; and the child-raising pension, the Mammerent. You find all the forms on fns.lu — and REVIS recipients get the cost-of-living allowance automatically.
 
-**ANNA:** And the message for today?
+**ANNA:** And what's the one message to remember from today?
 
 **TOM:** Solidarity in Luxembourg isn't just a word — it's an office, with a budget, and a phone number. If life gets hard, that net is real, and it's there for you. You only have to reach for it.
 
-**ANNA:** So... if you, or someone you know, is struggling — remember the name. The National Solidarity Fund. fns.lu.
+**ANNA:** So, if you, or someone you know, is struggling, remember the name: the National Solidarity Fund, fns.lu.
 
 **TOM:** One fund, holding up everyone who needs it. That's what solidarity means.
 

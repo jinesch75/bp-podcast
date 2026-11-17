@@ -18,7 +18,7 @@
 
 **TOM :** Il s'appelle le Fonds national de solidarité. Les gens disent souvent juste le nom court — F-N-S.
 
-**ANNA :** Le Fonds national de solidarité. C'est un beau nom. Commençons simplement. Qu'est-ce que c'est ?
+**ANNA :** Le Fonds national de solidarité. C'est un beau nom. Commençons simplement : qu'est-ce que c'est exactement ?
 
 **TOM :** Le FNS est un organisme public dont tout le travail est d'aider les personnes qui rencontrent des difficultés financières. Il dépend du Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. Et sa mission, très simplement, c'est la lutte contre la pauvreté.
 
@@ -50,7 +50,7 @@
 
 **TOM :** Précisément. C'est calculé pour l'ensemble du ménage, et ça tient compte du revenu que vous avez déjà. Le REVIS comble l'écart entre ce que vous avez et le minimum auquel vous avez droit.
 
-**ANNA :** Et est-ce que c'est seulement de l'argent ? Ou est-ce qu'il y a plus que ça ?
+**ANNA :** Et est-ce que c'est seulement de l'argent, ou est-ce qu'il y a plus que ça ?
 
 **TOM :** C'est ça, l'aspect ingénieux du REVIS. Ce n'est pas seulement un chèque. Le mot « inclusion » est important. Il y a aussi un volet qui aide les gens à se remettre debout — l'activation, comme on l'appelle. Un soutien pour trouver un emploi, une formation, ou une activité utile, pour que l'aide soit un pont, et non une impasse.
 
@@ -174,7 +174,7 @@
 
 **TOM :** Ensuite — si votre revenu est modeste, utilisez le calculateur de la vie chère, et faites votre demande. Et si vous touchez déjà le REVIS, souvenez-vous — celle-là arrive automatiquement.
 
-**ANNA :** Et troisièmement ?
+**ANNA :** Et quelle est la troisième étape ?
 
 **TOM :** Troisièmement — si vous n'êtes pas sûr, contactez-les tout simplement. Un appel téléphonique, un e-mail, une visite. Posez la question. Il n'y a aucune honte à la solidarité — c'est littéralement à ça que sert le Fonds.
 
@@ -182,11 +182,11 @@
 
 **TOM :** Bien sûr. Le Fonds national de solidarité — le FNS, fns.lu — est le filet de sécurité du Luxembourg contre la pauvreté. Il gère le REVIS, le revenu minimum garanti ; l'allocation de vie chère avec la prime énergie et l'aide aux seniors ; un revenu pour personnes gravement handicapées ; les avances sur les pensions alimentaires impayées ; un complément pour les personnes âgées en soins ; et la pension pour l'éducation des enfants, la Mammerent. Vous trouvez tous les formulaires sur fns.lu — et les bénéficiaires du REVIS reçoivent l'allocation de vie chère automatiquement.
 
-**ANNA :** Et le message du jour ?
+**ANNA :** Et quel est le message à retenir aujourd'hui ?
 
 **TOM :** La solidarité au Luxembourg n'est pas juste un mot — c'est un organisme, avec un budget, et un numéro de téléphone. Si la vie devient difficile, ce filet est réel, et il est là pour vous. Il vous suffit de tendre la main pour le prendre.
 
-**ANNA :** Alors... si vous, ou quelqu'un que vous connaissez, êtes en difficulté — souvenez-vous du nom. Le Fonds national de solidarité. fns.lu.
+**ANNA :** Alors, si vous, ou quelqu'un que vous connaissez, êtes en difficulté, souvenez-vous du nom : le Fonds national de solidarité, fns.lu.
 
 **TOM :** Un seul fonds, qui soutient tous ceux qui en ont besoin. C'est ça, la solidarité.
 

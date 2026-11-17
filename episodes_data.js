@@ -44696,7 +44696,7 @@ const EPISODES = [
   "title": "The National Solidarity Fund – Luxembourg’s Safety Net",
   "description": "The Fonds national de solidarité (FNS, fns.lu) is Luxembourg’s safety net against poverty. It manages the social inclusion income (REVIS), the cost-of-living allowance with the energy premium and senior aid, an income for severely disabled persons, advances on unpaid child maintenance, a supplement for older people in care, and the child-raising pension (‘Mammerent’). Forms and an online calculator are on fns.lu – and REVIS recipients get the cost-of-living allowance automatically.",
   "audio": "podcast_fns.mp3",
-  "duration": 832.6,
+  "duration": 831.43,
   "topics": [
    "The FNS – the State safety net",
    "REVIS – guaranteed minimum income",
@@ -44785,1028 +44785,1008 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Let's start simply.",
-    "t": 52.46
-   },
-   {
-    "speaker": "Anna",
-    "text": "What is it?",
-    "t": 53.92
+    "text": "Let's start simply: what exactly is it?",
+    "t": 52.57
    },
    {
     "speaker": "Tom",
     "text": "The FNS is a public office whose whole job is to help people who are struggling financially.",
-    "t": 55.1
+    "t": 55.44
    },
    {
     "speaker": "Tom",
     "text": "It's run under the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
-    "t": 60.7
+    "t": 61.04
    },
    {
     "speaker": "Tom",
     "text": "And its mission, very simply, is the fight against poverty.",
-    "t": 66.53
+    "t": 66.87
    },
    {
     "speaker": "Anna",
     "text": "So this is the country's safety net.",
-    "t": 70.29
+    "t": 70.63
    },
    {
     "speaker": "Tom",
     "text": "That's exactly the right word.",
-    "t": 72.71
+    "t": 73.05
    },
    {
     "speaker": "Tom",
     "text": "A safety net.",
-    "t": 74.23
+    "t": 74.57
    },
    {
     "speaker": "Tom",
     "text": "When someone's income is too low to live with dignity — because of a job loss, an illness, old age, a separation, or simply low pay — the FNS is there.",
-    "t": 75.46
+    "t": 75.8
    },
    {
     "speaker": "Tom",
     "text": "Its home on the internet is f-n-s dot l-u.",
-    "t": 84.99
+    "t": 85.33
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. And it's official — the State.",
-    "t": 87.89
+    "t": 88.23
    },
    {
     "speaker": "Tom",
     "text": "Completely official. Not a charity, not a private fund.",
-    "t": 91.53
+    "t": 91.82
    },
    {
     "speaker": "Tom",
     "text": "It's the State, organising solidarity for everyone who needs it.",
-    "t": 95.51
+    "t": 95.4
    },
    {
     "speaker": "Anna",
     "text": "Okay. So who is it for?",
-    "t": 98.83
+    "t": 98.72
    },
    {
     "speaker": "Anna",
     "text": "Who can knock on this door?",
-    "t": 101.2
+    "t": 101.09
    },
    {
     "speaker": "Tom",
     "text": "Mostly people who live in Luxembourg and whose income is modest, or who are in a difficult situation.",
-    "t": 102.95
+    "t": 102.84
    },
    {
     "speaker": "Tom",
-    "text": "Now — the FNS doesn't do just one thing.",
-    "t": 108.92
+    "text": "Now, the FNS doesn't do just one thing.",
+    "t": 108.93
    },
    {
     "speaker": "Tom",
     "text": "It manages a whole set of different helps.",
-    "t": 111.08
+    "t": 111.88
    },
    {
     "speaker": "Tom",
     "text": "Let me walk through the main ones.",
-    "t": 113.96
+    "t": 114.69
    },
    {
     "speaker": "Anna",
     "text": "Yes, let's go through them one by one.",
-    "t": 115.86
+    "t": 116.59
    },
    {
     "speaker": "Anna",
     "text": "Where do we start?",
-    "t": 117.85
+    "t": 118.58
    },
    {
     "speaker": "Tom",
     "text": "Let's start with the biggest one.",
-    "t": 119.31
+    "t": 120.04
    },
    {
     "speaker": "Tom",
     "text": "It's called the social inclusion income — in French, the revenu d'inclusion sociale.",
-    "t": 120.98
+    "t": 121.71
    },
    {
     "speaker": "Tom",
     "text": "The short name is REVIS.",
-    "t": 126.6
+    "t": 127.33
    },
    {
     "speaker": "Anna",
     "text": "REVIS. What is it?",
-    "t": 128.39
+    "t": 129.12
    },
    {
     "speaker": "Tom",
     "text": "REVIS is the guaranteed minimum income.",
-    "t": 129.89
+    "t": 130.62
    },
    {
     "speaker": "Tom",
     "text": "The idea is simple but powerful — in Luxembourg, nobody should fall below a certain basic level.",
-    "t": 132.46
+    "t": 133.19
    },
    {
     "speaker": "Tom",
     "text": "If your household income is under that level, REVIS tops you up to it.",
-    "t": 138.69
+    "t": 139.42
    },
    {
     "speaker": "Anna",
     "text": "So it makes sure you always have a minimum to live on.",
-    "t": 142.58
+    "t": 143.31
    },
    {
     "speaker": "Tom",
     "text": "Exactly. A floor, below which the State doesn't let you fall.",
-    "t": 145.75
+    "t": 146.48
    },
    {
     "speaker": "Tom",
     "text": "The amount depends on your household — how many adults, how many children.",
-    "t": 149.94
+    "t": 150.88
    },
    {
     "speaker": "Tom",
     "text": "There's a base amount for the first adult, more for a second adult, and an amount for each child.",
-    "t": 153.72
+    "t": 154.66
    },
    {
     "speaker": "Anna",
     "text": "So a single person gets one level, and a bigger family gets more, because they need more.",
-    "t": 159.81
+    "t": 160.75
    },
    {
     "speaker": "Tom",
     "text": "Precisely. It's calculated for the whole household, and it counts the income you already have.",
-    "t": 165.46
+    "t": 166.4
    },
    {
     "speaker": "Tom",
     "text": "REVIS fills the gap between what you have and the minimum you're entitled to.",
-    "t": 171.03
+    "t": 171.97
    },
    {
     "speaker": "Anna",
-    "text": "And is it only money?",
-    "t": 175.71
-   },
-   {
-    "speaker": "Anna",
-    "text": "Or is there more to it?",
-    "t": 177.16
+    "text": "And is it only money, or is there more to it?",
+    "t": 176.65
    },
    {
     "speaker": "Tom",
     "text": "That's the clever part of REVIS.",
-    "t": 178.75
+    "t": 179.51
    },
    {
     "speaker": "Tom",
     "text": "It's not only a cheque.",
-    "t": 180.47
+    "t": 181.31
    },
    {
     "speaker": "Tom",
     "text": "The word \"inclusion\" is important.",
-    "t": 181.92
+    "t": 182.76
    },
    {
     "speaker": "Tom",
     "text": "There's also a side that helps people get back on their feet — activation, they call it.",
-    "t": 184.13
+    "t": 184.97
    },
    {
     "speaker": "Tom",
     "text": "Support to find work, training, or useful activity, so the help is a bridge, not a dead end.",
-    "t": 188.81
+    "t": 189.65
    },
    {
     "speaker": "Anna",
     "text": "I like that — money to live on, and a hand to move forward.",
-    "t": 195.41
+    "t": 196.25
    },
    {
     "speaker": "Tom",
     "text": "That's the whole philosophy.",
-    "t": 199.07
+    "t": 199.91
    },
    {
     "speaker": "Tom",
     "text": "And if someone takes part in an activation measure — like community work as part of their plan — there can be an activation allowance on top.",
-    "t": 200.56
+    "t": 201.44
    },
    {
     "speaker": "Anna",
     "text": "Good. So that's REVIS — the minimum income.",
-    "t": 208.36
+    "t": 209.24
    },
    {
     "speaker": "Anna",
     "text": "What's the second big help?",
-    "t": 211.65
+    "t": 212.53
    },
    {
     "speaker": "Tom",
     "text": "The second is something many more people can get — the cost-of-living allowance.",
-    "t": 213.79
+    "t": 214.67
    },
    {
     "speaker": "Tom",
     "text": "In French, the allocation de vie chère.",
-    "t": 218.69
+    "t": 219.57
    },
    {
     "speaker": "Anna",
     "text": "The cost-of-living allowance.",
-    "t": 221.11
+    "t": 221.99
    },
    {
     "speaker": "Anna",
     "text": "Tell me about it.",
-    "t": 222.94
+    "t": 223.82
    },
    {
     "speaker": "Tom",
     "text": "It's a yearly payment to help modest-income households with the rising cost of everyday life.",
-    "t": 224.36
+    "t": 225.24
    },
    {
     "speaker": "Tom",
     "text": "And here's the key — you don't have to be on REVIS to get it.",
-    "t": 230.08
+    "t": 230.96
    },
    {
     "speaker": "Tom",
     "text": "You can be working, on a small or medium salary, and still qualify, as long as your income is under a certain limit.",
-    "t": 233.53
+    "t": 234.41
    },
    {
     "speaker": "Anna",
     "text": "Ah, so this reaches a lot of ordinary households — people who work, but for whom every euro counts.",
-    "t": 240.24
+    "t": 241.12
    },
    {
     "speaker": "Tom",
     "text": "Exactly. And the amount depends on the size of your household.",
-    "t": 246.86
+    "t": 247.74
    },
    {
     "speaker": "Tom",
     "text": "A single person gets one amount, a couple more, a family more again.",
-    "t": 250.68
+    "t": 251.56
    },
    {
     "speaker": "Tom",
     "text": "For a single person, it's more than one thousand eight hundred euros a year — and more for bigger households.",
-    "t": 255.91
+    "t": 256.79
    },
    {
     "speaker": "Anna",
     "text": "That's a real, meaningful sum.",
-    "t": 261.8
+    "t": 262.68
    },
    {
     "speaker": "Anna",
     "text": "And you said there's more attached to it?",
-    "t": 263.81
+    "t": 264.69
    },
    {
     "speaker": "Tom",
     "text": "Yes — and this is important with today's energy prices.",
-    "t": 266.02
+    "t": 266.9
    },
    {
     "speaker": "Tom",
     "text": "Together with the cost-of-living allowance, there's an energy premium — extra help with heating and electricity bills.",
-    "t": 269.73
+    "t": 270.61
    },
    {
     "speaker": "Tom",
     "text": "And for older people on a small income, there can be an extra financial aid for seniors as well.",
-    "t": 277.42
+    "t": 278.3
    },
    {
     "speaker": "Anna",
     "text": "So one application can open three doors — cost-of-living, energy, and senior aid.",
-    "t": 282.69
+    "t": 283.57
    },
    {
     "speaker": "Tom",
     "text": "One application, yes.",
-    "t": 288.22
+    "t": 289.1
    },
    {
     "speaker": "Tom",
     "text": "And here's a wonderful detail — if you already receive REVIS, you don't even have to apply.",
-    "t": 289.68
+    "t": 290.56
    },
    {
     "speaker": "Tom",
     "text": "The cost-of-living allowance, the energy premium, and the senior aid come to you automatically.",
-    "t": 294.96
+    "t": 295.84
    },
    {
     "speaker": "Anna",
     "text": "That's thoughtful — the people who need it most don't have to fill in another form.",
-    "t": 300.21
+    "t": 301.09
    },
    {
     "speaker": "Tom",
     "text": "Right. And there's a change coming.",
-    "t": 304.78
+    "t": 305.66
    },
    {
     "speaker": "Tom",
     "text": "The government plans to merge these three helps — plus a new help for families with school children — into one single help, the complément vie chère, from 2027.",
-    "t": 306.08
+    "t": 306.96
    },
    {
     "speaker": "Tom",
     "text": "Then you'd apply only once, and it would continue as long as you qualify.",
-    "t": 317.51
+    "t": 318.39
    },
    {
     "speaker": "Tom",
     "text": "The law is still being discussed in Parliament, so check f-n-s dot l-u for the latest.",
-    "t": 321.78
+    "t": 322.66
    },
    {
     "speaker": "Tom",
     "text": "For now, everyone else applies with a form — and if you got it last year, the FNS sends you a pre-filled one at the end of the year.",
-    "t": 326.36
+    "t": 327.24
    },
    {
     "speaker": "Tom",
     "text": "And the FNS even has an online calculator, so you can check if you qualify before you apply.",
-    "t": 333.64
+    "t": 334.52
    },
    {
     "speaker": "Anna",
     "text": "A calculator — that's really helpful, so you're not applying blindly.",
-    "t": 339.95
+    "t": 340.83
    },
    {
     "speaker": "Anna",
     "text": "Okay Tom — what's next on the list?",
-    "t": 344.11
+    "t": 344.99
    },
    {
     "speaker": "Tom",
     "text": "The third help is for people living with a serious disability.",
-    "t": 346.69
+    "t": 347.57
    },
    {
     "speaker": "Tom",
-    "text": "It's the income for severely disabled persons — in French, the revenu pour personnes gravement handicapées.",
-    "t": 350.17
+    "text": "It's the income for severely disabled persons.",
+    "t": 351.05
    },
    {
     "speaker": "Anna",
     "text": "So a dedicated income for people who can't work because of a serious disability.",
-    "t": 357.1
+    "t": 353.92
    },
    {
     "speaker": "Tom",
     "text": "Exactly. For a person whose disability means they can't earn a living in the ordinary job market, the FNS provides a guaranteed income, so they too have a secure floor to stand on.",
-    "t": 361.83
+    "t": 358.65
    },
    {
     "speaker": "Anna",
     "text": "That's solidarity in the truest sense.",
-    "t": 373.21
+    "t": 370.03
    },
    {
     "speaker": "Anna",
     "text": "What comes next?",
-    "t": 375.6
+    "t": 372.42
    },
    {
     "speaker": "Tom",
     "text": "The fourth one is very different, and very practical.",
-    "t": 377.07
+    "t": 373.89
    },
    {
     "speaker": "Tom",
     "text": "It's about maintenance payments — what a parent is supposed to pay for their child after a separation.",
-    "t": 380.97
+    "t": 377.79
    },
    {
     "speaker": "Tom",
     "text": "In French, the pension alimentaire.",
-    "t": 386.7
+    "t": 383.52
    },
    {
     "speaker": "Anna",
     "text": "Ah — child support.",
-    "t": 389.09
+    "t": 385.91
    },
    {
     "speaker": "Anna",
     "text": "And what happens when it isn't paid?",
-    "t": 390.89
+    "t": 387.16
    },
    {
     "speaker": "Tom",
     "text": "That's exactly the problem the FNS solves.",
-    "t": 393.16
+    "t": 389.43
    },
    {
     "speaker": "Tom",
     "text": "Imagine a separated parent — often a mother — who is owed child support, but the other parent simply doesn't pay.",
-    "t": 395.8
+    "t": 392.07
    },
    {
     "speaker": "Tom",
     "text": "The child suffers.",
-    "t": 403.08
+    "t": 399.35
    },
    {
     "speaker": "Tom",
     "text": "So the FNS can step in, and advance that money.",
-    "t": 404.5
+    "t": 400.62
    },
    {
     "speaker": "Anna",
     "text": "Wait — so the State pays the support that the other parent didn't?",
-    "t": 407.77
+    "t": 403.89
    },
    {
     "speaker": "Tom",
     "text": "Within certain limits and conditions, yes.",
-    "t": 412.01
+    "t": 408.13
    },
    {
     "speaker": "Tom",
     "text": "The FNS advances the unpaid maintenance, so the child and the parent aren't left with nothing.",
-    "t": 414.23
+    "t": 410.82
    },
    {
     "speaker": "Tom",
     "text": "And then — this is the clever part — the FNS goes after the parent who didn't pay, to recover the money.",
-    "t": 419.79
+    "t": 416.38
    },
    {
     "speaker": "Tom",
     "text": "To ask for it, you need a court decision that sets the support — and a bailiff must first have tried to collect it.",
-    "t": 427.23
+    "t": 423.82
    },
    {
     "speaker": "Anna",
     "text": "So the State acts as a kind of guarantor, and then does the chasing itself.",
-    "t": 433.73
+    "t": 430.32
    },
    {
     "speaker": "Tom",
     "text": "Exactly. The vulnerable parent doesn't have to fight alone.",
-    "t": 438.47
+    "t": 435.06
    },
    {
     "speaker": "Tom",
     "text": "The FNS takes on that burden.",
-    "t": 441.94
+    "t": 438.53
    },
    {
     "speaker": "Tom",
     "text": "It's one of the most human things the Fund does.",
-    "t": 443.89
+    "t": 440.48
    },
    {
     "speaker": "Anna",
     "text": "That really is.",
-    "t": 446.9
+    "t": 443.49
    },
    {
     "speaker": "Anna",
     "text": "Okay — how many more?",
-    "t": 448.08
+    "t": 444.67
    },
    {
     "speaker": "Tom",
     "text": "Two more to mention.",
-    "t": 449.81
+    "t": 446.4
    },
    {
     "speaker": "Tom",
     "text": "The fifth is a supplement for older people who need care.",
-    "t": 451
+    "t": 447.59
    },
    {
     "speaker": "Tom",
     "text": "When someone goes into a care home, or assisted living, and their own income isn't enough to cover the cost, the FNS can help pay the difference.",
-    "t": 454.3
+    "t": 450.89
    },
    {
     "speaker": "Tom",
     "text": "It's called COMPA.",
-    "t": 462.79
+    "t": 459.38
    },
    {
     "speaker": "Anna",
     "text": "So an older person isn't turned away from care just because their pension is too small.",
-    "t": 464.24
+    "t": 460.83
    },
    {
     "speaker": "Tom",
     "text": "That's the idea.",
-    "t": 469.53
+    "t": 466.11
    },
    {
     "speaker": "Tom",
     "text": "Care according to need, not only according to your bank balance.",
-    "t": 470.73
+    "t": 467.31
    },
    {
     "speaker": "Tom",
     "text": "The Fund tops up what's missing, so dignity in old age is protected.",
-    "t": 474.08
+    "t": 470.66
    },
    {
     "speaker": "Anna",
     "text": "And the sixth?",
-    "t": 478.57
+    "t": 475.15
    },
    {
     "speaker": "Tom",
     "text": "The sixth is the child-raising pension.",
-    "t": 479.88
+    "t": 476.46
    },
    {
     "speaker": "Tom",
     "text": "In Luxembourgish, people call it the \"Mammerent\".",
-    "t": 482.44
+    "t": 479.02
    },
    {
     "speaker": "Tom",
     "text": "It's a small monthly amount for parents — historically mothers — who spent years raising children and so built up less pension of their own.",
-    "t": 485.73
+    "t": 482.31
    },
    {
     "speaker": "Anna",
     "text": "Ah — so it recognises the years given to raising a family.",
-    "t": 493.07
+    "t": 489.65
    },
    {
     "speaker": "Tom",
     "text": "Exactly. It's a way of saying — that work mattered too.",
-    "t": 496.97
+    "t": 493.55
    },
    {
     "speaker": "Tom",
     "text": "It's a modest amount each month, but it honours those years.",
-    "t": 501.24
+    "t": 497.82
    },
    {
     "speaker": "Anna",
     "text": "So let's gather them up.",
-    "t": 504.46
+    "t": 501.04
    },
    {
     "speaker": "Anna",
     "text": "We have REVIS, the minimum income.",
-    "t": 505.98
+    "t": 502.57
    },
    {
     "speaker": "Anna",
     "text": "The cost-of-living allowance, with energy premium and senior aid.",
-    "t": 508.83
+    "t": 505.42
    },
    {
     "speaker": "Anna",
     "text": "The income for severely disabled persons.",
-    "t": 512.56
+    "t": 509.15
    },
    {
     "speaker": "Anna",
     "text": "The advance on maintenance payments.",
-    "t": 515.36
+    "t": 511.95
    },
    {
     "speaker": "Anna",
     "text": "The supplement for older people in care.",
-    "t": 517.77
+    "t": 514.36
    },
    {
     "speaker": "Anna",
     "text": "And the child-raising pension, the Mammerent.",
-    "t": 520.2
+    "t": 516.79
    },
    {
     "speaker": "Tom",
     "text": "Six helps, one office.",
-    "t": 523.44
+    "t": 520.03
    },
    {
     "speaker": "Tom",
     "text": "And behind them all, one single idea — that in Luxembourg, no one should be left to fall.",
-    "t": 525.48
+    "t": 522.07
    },
    {
     "speaker": "Anna",
     "text": "Tom, let me ask the practical question.",
-    "t": 531.1
+    "t": 527.69
    },
    {
     "speaker": "Anna",
     "text": "How does someone actually apply?",
-    "t": 533.71
+    "t": 530.3
    },
    {
     "speaker": "Anna",
     "text": "It sounds like it could be complicated.",
-    "t": 535.95
+    "t": 532.54
    },
    {
     "speaker": "Tom",
     "text": "It's more approachable than people fear.",
-    "t": 538.28
+    "t": 534.87
    },
    {
     "speaker": "Tom",
     "text": "Everything starts at the website, f-n-s dot l-u.",
-    "t": 540.49
+    "t": 537.08
    },
    {
     "speaker": "Tom",
     "text": "There you find each help explained, with the conditions, and the forms.",
-    "t": 543.61
+    "t": 540.2
    },
    {
     "speaker": "Anna",
     "text": "And can you do it online?",
-    "t": 547.52
+    "t": 544.11
    },
    {
     "speaker": "Tom",
     "text": "Partly. On the website you find the forms — and, for the cost-of-living allowance, that online calculator.",
-    "t": 549.28
+    "t": 545.87
    },
    {
     "speaker": "Tom",
     "text": "But mostly, you fill in a paper form.",
-    "t": 556.56
+    "t": 553.15
    },
    {
     "speaker": "Tom",
     "text": "You download it, or pick it up at the FNS counter, sign it, and send it by post or hand it in.",
-    "t": 558.65
+    "t": 555.24
    },
    {
     "speaker": "Tom",
     "text": "And the social office of your commune can help you fill it in.",
-    "t": 563.95
+    "t": 560.54
    },
    {
     "speaker": "Anna",
     "text": "And if someone is confused, or doesn't know which help is for them?",
-    "t": 567.18
+    "t": 563.77
    },
    {
     "speaker": "Tom",
     "text": "Then they can contact the FNS directly — by phone, by email, or in person.",
-    "t": 571.09
+    "t": 567.68
    },
    {
     "speaker": "Tom",
     "text": "The offices are on the rue de la Fonderie, in Luxembourg City — the counter is open in the mornings.",
-    "t": 576.44
+    "t": 573.03
    },
    {
     "speaker": "Tom",
     "text": "And honestly, that first phone call is often the most important step.",
-    "t": 582.06
+    "t": 578.65
    },
    {
     "speaker": "Tom",
     "text": "Because many people don't claim what they're entitled to — simply because they don't know it exists.",
-    "t": 586.17
+    "t": 582.76
    },
    {
     "speaker": "Anna",
     "text": "That's such an important point.",
-    "t": 591.55
+    "t": 588.14
    },
    {
     "speaker": "Anna",
     "text": "Help that you don't know about doesn't help you.",
-    "t": 593.5
+    "t": 590.09
    },
    {
     "speaker": "Tom",
     "text": "That's the whole reason we're doing this episode.",
-    "t": 596.21
+    "t": 592.8
    },
    {
     "speaker": "Tom",
     "text": "There is money and support waiting — but you have to reach for it.",
-    "t": 598.36
+    "t": 594.95
    },
    {
     "speaker": "Anna",
     "text": "Let's make it real, Tom.",
-    "t": 602.28
+    "t": 598.87
    },
    {
     "speaker": "Anna",
     "text": "Can we follow one person?",
-    "t": 603.86
+    "t": 600.44
    },
    {
     "speaker": "Tom",
     "text": "Of course. Let's imagine a woman — let's call her Sofia.",
-    "t": 605.7
+    "t": 602.28
    },
    {
     "speaker": "Tom",
     "text": "She's recently separated, she has two young children, and she works part-time on a small salary.",
-    "t": 609.78
+    "t": 606.36
    },
    {
     "speaker": "Anna",
     "text": "A very real situation.",
-    "t": 615.17
+    "t": 611.75
    },
    {
     "speaker": "Anna",
     "text": "Where does the FNS come in for Sofia?",
-    "t": 616.95
+    "t": 613.53
    },
    {
     "speaker": "Tom",
     "text": "In several places at once.",
-    "t": 619.47
+    "t": 616.05
    },
    {
     "speaker": "Tom",
     "text": "First — her income is low, so she may qualify for the cost-of-living allowance, with the energy premium, to help through the year.",
-    "t": 620.97
+    "t": 617.72
    },
    {
     "speaker": "Anna",
     "text": "That's the yearly boost.",
-    "t": 628.13
+    "t": 624.88
    },
    {
     "speaker": "Tom",
     "text": "Yes. Second — her ex-partner is supposed to pay child support, but he's stopped.",
-    "t": 629.87
+    "t": 626.62
    },
    {
     "speaker": "Tom",
     "text": "So the FNS can advance that maintenance, and chase him for it — so her children don't go without.",
-    "t": 635.16
+    "t": 631.91
    },
    {
     "speaker": "Anna",
     "text": "That takes a huge weight off her shoulders.",
-    "t": 640.87
+    "t": 637.62
    },
    {
     "speaker": "Tom",
     "text": "A huge weight.",
-    "t": 643.29
+    "t": 640.04
    },
    {
     "speaker": "Tom",
     "text": "And third — if even with her salary the household is still below the minimum, REVIS can top her up to that floor — and at the same time, help her with training or finding more work.",
-    "t": 644.65
+    "t": 641.4
    },
    {
     "speaker": "Anna",
     "text": "So from one office, Sofia gets a yearly allowance, her children's support secured, and a guaranteed minimum with a path forward.",
-    "t": 656.13
+    "t": 652.88
    },
    {
     "speaker": "Tom",
     "text": "All from one place.",
-    "t": 664.14
+    "t": 660.89
    },
    {
     "speaker": "Tom",
     "text": "That's the power of having a single solidarity fund.",
-    "t": 665.58
+    "t": 662.33
    },
    {
     "speaker": "Tom",
     "text": "It can wrap several supports around the same family.",
-    "t": 668.31
+    "t": 665.06
    },
    {
     "speaker": "Anna",
     "text": "And the key, again, is that she has to know to ask.",
-    "t": 671.29
+    "t": 668.04
    },
    {
     "speaker": "Tom",
     "text": "That's the key.",
-    "t": 674.8
+    "t": 671.55
    },
    {
     "speaker": "Tom",
     "text": "Which is why, if you take one thing from today — it's this.",
-    "t": 675.85
+    "t": 672.6
    },
    {
     "speaker": "Tom",
     "text": "If money is tight, don't suffer in silence.",
-    "t": 679.48
+    "t": 676.23
    },
    {
     "speaker": "Tom",
     "text": "Check the FNS.",
-    "t": 682.79
+    "t": 679.54
    },
    {
     "speaker": "Tom",
     "text": "You may be entitled to far more than you think.",
-    "t": 684.25
+    "t": 680.96
    },
    {
     "speaker": "Anna",
     "text": "Okay Tom, let's bring it home.",
-    "t": 686.89
+    "t": 683.6
    },
    {
     "speaker": "Anna",
     "text": "If I'm listening, and things are difficult, what do I do?",
-    "t": 688.85
+    "t": 685.56
    },
    {
     "speaker": "Tom",
     "text": "Three simple steps.",
-    "t": 692.16
+    "t": 688.87
    },
    {
     "speaker": "Tom",
     "text": "First — go to the website, f-n-s dot l-u.",
-    "t": 693.36
+    "t": 690.07
    },
    {
     "speaker": "Tom",
     "text": "Look at the helps, and see which ones fit your situation.",
-    "t": 697.05
+    "t": 693.76
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. Got it.",
-    "t": 700.42
+    "t": 697.13
    },
    {
     "speaker": "Tom",
     "text": "Second — if your income is modest, use the cost-of-living calculator, and apply.",
-    "t": 702.51
+    "t": 699.27
    },
    {
     "speaker": "Tom",
     "text": "And if you're on REVIS already, remember — that one comes automatically.",
-    "t": 707.79
+    "t": 704.55
    },
    {
     "speaker": "Anna",
-    "text": "And third?",
-    "t": 712.02
+    "text": "And what's the third step?",
+    "t": 708.78
    },
    {
     "speaker": "Tom",
     "text": "Third — if you're not sure, just contact them.",
-    "t": 713.19
+    "t": 710.49
    },
    {
     "speaker": "Tom",
     "text": "A phone call, an email, a visit.",
-    "t": 715.6
+    "t": 713.09
    },
    {
     "speaker": "Tom",
     "text": "Ask the question.",
-    "t": 717.68
+    "t": 715.17
    },
    {
     "speaker": "Tom",
     "text": "There's no shame in solidarity — that's literally what the Fund is for.",
-    "t": 718.97
+    "t": 716.55
    },
    {
     "speaker": "Anna",
     "text": "A short summary to finish?",
-    "t": 723.05
+    "t": 720.63
    },
    {
     "speaker": "Tom",
     "text": "Sure. The National Solidarity Fund — the FNS, fns.lu — is Luxembourg's safety net against poverty.",
-    "t": 724.85
+    "t": 722.43
    },
    {
     "speaker": "Tom",
     "text": "It manages REVIS, the guaranteed minimum income; the cost-of-living allowance with the energy premium and senior aid; an income for severely disabled persons; advances on unpaid child maintenance; a supplement for older people in care; and the child-raising pension, the Mammerent.",
-    "t": 732.46
+    "t": 730.73
    },
    {
     "speaker": "Tom",
     "text": "You find all the forms on fns.lu — and REVIS recipients get the cost-of-living allowance automatically.",
-    "t": 748.8
+    "t": 747.06
    },
    {
     "speaker": "Anna",
-    "text": "And the message for today?",
-    "t": 755.68
+    "text": "And what's the one message to remember from today?",
+    "t": 754.37
    },
    {
     "speaker": "Tom",
     "text": "Solidarity in Luxembourg isn't just a word — it's an office, with a budget, and a phone number.",
-    "t": 757.38
+    "t": 757.37
    },
    {
     "speaker": "Tom",
     "text": "If life gets hard, that net is real, and it's there for you.",
-    "t": 763.46
+    "t": 763.45
    },
    {
     "speaker": "Tom",
     "text": "You only have to reach for it.",
-    "t": 767.58
+    "t": 767.57
    },
    {
     "speaker": "Anna",
-    "text": "So... if you, or someone you know, is struggling — remember the name.",
-    "t": 769.08
-   },
-   {
-    "speaker": "Anna",
-    "text": "The National Solidarity Fund.",
-    "t": 774.56
-   },
-   {
-    "speaker": "Anna",
-    "text": "fns.lu.",
-    "t": 776.67
+    "text": "So, if you, or someone you know, is struggling, remember the name: the National Solidarity Fund, fns.lu.",
+    "t": 769.47
    },
    {
     "speaker": "Tom",
     "text": "One fund, holding up everyone who needs it.",
-    "t": 778.53
+    "t": 777.35
    },
    {
     "speaker": "Tom",
     "text": "That's what solidarity means.",
-    "t": 781.33
+    "t": 780.15
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the National Solidarity Fund.",
-    "t": 783.16
+    "t": 781.98
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 786.38
+    "t": 785.2
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 795.87
+    "t": 794.69
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 814.16
+    "t": 812.98
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 820.91
+    "t": 819.73
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 823.11
+    "t": 821.93
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 827.8
+    "t": 826.62
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 828.89
+    "t": 827.71
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 831.01
+    "t": 829.83
    }
   ],
   "questions": [
@@ -45939,1008 +45919,993 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Commençons simplement. Qu'est-ce que c'est ?",
-    "t": 46.99
+    "text": "Commençons simplement : qu'est-ce que c'est exactement ?",
+    "t": 46.98
    },
    {
     "speaker": "Tom",
     "text": "Le FNS est un organisme public dont tout le travail est d'aider les personnes qui rencontrent des difficultés financières.",
-    "t": 49.19
+    "t": 50.93
    },
    {
     "speaker": "Tom",
     "text": "Il dépend du Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 55.67
+    "t": 57.41
    },
    {
     "speaker": "Tom",
     "text": "Et sa mission, très simplement, c'est la lutte contre la pauvreté.",
-    "t": 61.04
+    "t": 62.78
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est le filet de sécurité du pays.",
-    "t": 64.56
+    "t": 66.3
    },
    {
     "speaker": "Tom",
     "text": "C'est exactement le bon mot.",
-    "t": 66.8
+    "t": 68.53
    },
    {
     "speaker": "Tom",
     "text": "Un filet de sécurité.",
-    "t": 68.49
+    "t": 70.22
    },
    {
     "speaker": "Tom",
     "text": "Quand le revenu de quelqu'un est trop bas pour vivre dignement — à cause d'une perte d'emploi, d'une maladie, de la vieillesse, d'une séparation, ou tout simplement d'un faible salaire — le FNS est là.",
-    "t": 70.07
+    "t": 71.8
    },
    {
     "speaker": "Tom",
     "text": "Sa maison sur internet, c'est f-n-s point l-u.",
-    "t": 80.69
+    "t": 82.42
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. Et c'est officiel — c'est l'État.",
-    "t": 84.17
+    "t": 85.9
    },
    {
     "speaker": "Tom",
     "text": "Tout à fait officiel.",
-    "t": 87.45
+    "t": 89.41
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas une association caritative, ni un fonds privé.",
-    "t": 88.86
+    "t": 90.78
    },
    {
     "speaker": "Tom",
     "text": "C'est l'État, qui organise la solidarité pour toutes celles et ceux qui en ont besoin.",
-    "t": 92.27
+    "t": 94.19
    },
    {
     "speaker": "Anna",
     "text": "D'accord. Alors, à qui s'adresse-t-il ?",
-    "t": 97.06
+    "t": 98.98
    },
    {
     "speaker": "Anna",
     "text": "Qui peut frapper à cette porte ?",
-    "t": 100.02
+    "t": 101.94
    },
    {
     "speaker": "Tom",
     "text": "Surtout les personnes qui vivent au Luxembourg et dont le revenu est modeste, ou qui se trouvent dans une situation difficile.",
-    "t": 101.66
+    "t": 103.58
    },
    {
     "speaker": "Tom",
     "text": "Maintenant — le FNS ne fait pas qu'une seule chose.",
-    "t": 108.33
+    "t": 110.25
    },
    {
     "speaker": "Tom",
     "text": "Il gère tout un ensemble d'aides différentes.",
-    "t": 111.43
+    "t": 113.35
    },
    {
     "speaker": "Tom",
     "text": "Laisse-moi te présenter les principales.",
-    "t": 113.93
+    "t": 115.85
    },
    {
     "speaker": "Anna",
     "text": "Oui, passons-les en revue une par une.",
-    "t": 116.08
+    "t": 118
    },
    {
     "speaker": "Anna",
     "text": "Par où commençons-nous ?",
-    "t": 118.23
+    "t": 120.15
    },
    {
     "speaker": "Tom",
     "text": "Commençons par la plus importante.",
-    "t": 119.7
+    "t": 121.62
    },
    {
     "speaker": "Tom",
     "text": "Elle s'appelle le revenu d'inclusion sociale.",
-    "t": 121.65
+    "t": 123.57
    },
    {
     "speaker": "Tom",
     "text": "Le nom court, c'est REVIS.",
-    "t": 124.07
+    "t": 125.99
    },
    {
     "speaker": "Anna",
     "text": "REVIS. Qu'est-ce que c'est ?",
-    "t": 125.96
+    "t": 127.88
    },
    {
     "speaker": "Tom",
     "text": "Le REVIS, c'est le revenu minimum garanti.",
-    "t": 128.08
+    "t": 130
    },
    {
     "speaker": "Tom",
     "text": "L'idée est simple mais puissante — au Luxembourg, personne ne devrait tomber en dessous d'un certain niveau de base.",
-    "t": 130.88
+    "t": 132.8
    },
    {
     "speaker": "Tom",
     "text": "Si le revenu de votre ménage est en dessous de ce niveau, le REVIS le complète pour l'atteindre.",
-    "t": 137.14
+    "t": 139.06
    },
    {
     "speaker": "Anna",
     "text": "Donc ça garantit que vous avez toujours un minimum pour vivre.",
-    "t": 142.75
+    "t": 144.67
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Un seuil, en dessous duquel l'État ne vous laisse pas tomber.",
-    "t": 145.77
+    "t": 147.69
    },
    {
     "speaker": "Tom",
     "text": "Le montant dépend de votre ménage — combien d'adultes, combien d'enfants.",
-    "t": 149.82
+    "t": 151.74
    },
    {
     "speaker": "Tom",
     "text": "Il y a un montant de base pour le premier adulte, davantage pour un second adulte, et un montant pour chaque enfant.",
-    "t": 153.88
+    "t": 155.8
    },
    {
     "speaker": "Anna",
     "text": "Donc une personne seule reçoit un niveau, et une famille plus grande reçoit davantage, parce qu'elle a besoin de plus.",
-    "t": 160.18
+    "t": 162.1
    },
    {
     "speaker": "Tom",
     "text": "Précisément. C'est calculé pour l'ensemble du ménage, et ça tient compte du revenu que vous avez déjà.",
-    "t": 165.75
+    "t": 167.67
    },
    {
     "speaker": "Tom",
     "text": "Le REVIS comble l'écart entre ce que vous avez et le minimum auquel vous avez droit.",
-    "t": 171.27
+    "t": 173.19
    },
    {
     "speaker": "Anna",
-    "text": "Et est-ce que c'est seulement de l'argent ?",
-    "t": 176.45
-   },
-   {
-    "speaker": "Anna",
-    "text": "Ou est-ce qu'il y a plus que ça ?",
-    "t": 178.42
+    "text": "Et est-ce que c'est seulement de l'argent, ou est-ce qu'il y a plus que ça ?",
+    "t": 178.37
    },
    {
     "speaker": "Tom",
     "text": "C'est ça, l'aspect ingénieux du REVIS.",
-    "t": 180.48
+    "t": 181.86
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas seulement un chèque.",
-    "t": 182.75
+    "t": 184.13
    },
    {
     "speaker": "Tom",
     "text": "Le mot « inclusion » est important.",
-    "t": 184.45
+    "t": 185.89
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi un volet qui aide les gens à se remettre debout — l'activation, comme on l'appelle.",
-    "t": 186.66
+    "t": 188.1
    },
    {
     "speaker": "Tom",
     "text": "Un soutien pour trouver un emploi, une formation, ou une activité utile, pour que l'aide soit un pont, et non une impasse.",
-    "t": 191.49
+    "t": 192.93
    },
    {
     "speaker": "Anna",
     "text": "J'aime bien ça — de l'argent pour vivre, et une main tendue pour avancer.",
-    "t": 198.78
+    "t": 200.22
    },
    {
     "speaker": "Tom",
     "text": "C'est toute la philosophie.",
-    "t": 202.52
+    "t": 203.96
    },
    {
     "speaker": "Tom",
     "text": "Et si quelqu'un participe à une mesure d'activation — comme un travail communautaire dans le cadre de son projet — il peut y avoir une indemnité d'activation en plus.",
-    "t": 204.08
+    "t": 205.52
    },
    {
     "speaker": "Anna",
     "text": "Bien. Donc voilà le REVIS — le revenu minimum.",
-    "t": 212.61
+    "t": 214.05
    },
    {
     "speaker": "Anna",
     "text": "Quelle est la deuxième grande aide ?",
-    "t": 216.3
+    "t": 216.91
    },
    {
     "speaker": "Tom",
     "text": "La deuxième est quelque chose que beaucoup plus de gens peuvent obtenir — l'allocation de vie chère.",
-    "t": 218.02
+    "t": 218.63
    },
    {
     "speaker": "Anna",
     "text": "L'allocation de vie chère.",
-    "t": 223.81
+    "t": 224.42
    },
    {
     "speaker": "Anna",
     "text": "Parle-m'en.",
-    "t": 225.27
+    "t": 225.88
    },
    {
     "speaker": "Tom",
     "text": "C'est un versement annuel pour aider les ménages à revenu modeste face à la hausse du coût de la vie quotidienne.",
-    "t": 226.22
+    "t": 226.83
    },
    {
     "speaker": "Tom",
     "text": "Et voici le point clé — vous n'avez pas besoin de toucher le REVIS pour l'obtenir.",
-    "t": 232.12
+    "t": 232.73
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez travailler, avoir un petit ou un moyen salaire, et y avoir droit quand même, tant que votre revenu est en dessous d'une certaine limite.",
-    "t": 236.53
+    "t": 237.14
    },
    {
     "speaker": "Anna",
     "text": "Ah, donc ça touche beaucoup de ménages ordinaires — des gens qui travaillent, mais pour qui chaque euro compte.",
-    "t": 243.9
+    "t": 244.51
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et le montant dépend de la taille de votre ménage.",
-    "t": 248.98
+    "t": 249.59
    },
    {
     "speaker": "Tom",
     "text": "Une personne seule reçoit un montant, un couple davantage, une famille encore plus.",
-    "t": 252.36
+    "t": 252.97
    },
    {
     "speaker": "Tom",
     "text": "Pour une personne seule, c'est plus de mille huit cents euros par an — et davantage pour les ménages plus grands.",
-    "t": 257.05
+    "t": 257.66
    },
    {
     "speaker": "Anna",
     "text": "C'est une somme réelle et importante.",
-    "t": 262.85
+    "t": 263.46
    },
    {
     "speaker": "Anna",
     "text": "Et tu disais qu'il y a plus que ça avec ?",
-    "t": 265.04
+    "t": 265.65
    },
    {
     "speaker": "Tom",
     "text": "Oui — et c'est important avec les prix de l'énergie d'aujourd'hui.",
-    "t": 267.22
+    "t": 267.83
    },
    {
     "speaker": "Tom",
     "text": "Avec l'allocation de vie chère, il y a une prime énergie — une aide supplémentaire pour les factures de chauffage et d'électricité.",
-    "t": 270.44
+    "t": 271.05
    },
    {
     "speaker": "Tom",
     "text": "Et pour les personnes âgées à faible revenu, il peut y avoir aussi une aide financière supplémentaire pour les seniors.",
-    "t": 277.77
+    "t": 278.38
    },
    {
     "speaker": "Anna",
     "text": "Donc une seule demande peut ouvrir trois portes — la vie chère, l'énergie, et l'aide aux seniors.",
-    "t": 283.75
+    "t": 284.36
    },
    {
     "speaker": "Tom",
     "text": "Une seule demande, oui.",
-    "t": 289.03
+    "t": 289.64
    },
    {
     "speaker": "Tom",
     "text": "Et voici un détail merveilleux — si vous touchez déjà le REVIS, vous n'avez même pas besoin de faire de demande.",
-    "t": 290.66
+    "t": 291.18
    },
    {
     "speaker": "Tom",
     "text": "L'allocation de vie chère, la prime énergie, et l'aide aux seniors vous parviennent automatiquement.",
-    "t": 296.39
+    "t": 296.91
    },
    {
     "speaker": "Anna",
     "text": "C'est attentionné — les personnes qui en ont le plus besoin n'ont pas à remplir un autre formulaire.",
-    "t": 302.09
+    "t": 302.61
    },
    {
     "speaker": "Tom",
     "text": "Exact. Et un changement se prépare.",
-    "t": 306.93
+    "t": 307.45
    },
    {
     "speaker": "Tom",
     "text": "Le gouvernement prévoit de regrouper ces trois aides — plus une nouvelle aide pour les familles avec des enfants scolarisés — en une seule, le complément vie chère, à partir de 2027.",
-    "t": 309.4
+    "t": 309.87
    },
    {
     "speaker": "Tom",
     "text": "Vous n'auriez alors qu'une seule demande à faire, et l'aide continuerait tant que vous y avez droit.",
-    "t": 319.39
+    "t": 319.86
    },
    {
     "speaker": "Tom",
     "text": "La loi est encore en discussion à la Chambre des députés, alors consultez f-n-s point l-u pour les dernières nouvelles.",
-    "t": 323.92
+    "t": 324.39
    },
    {
     "speaker": "Tom",
     "text": "Pour l'instant, les autres font leur demande avec un formulaire — et si vous l'avez reçue l'an dernier, le FNS vous envoie un formulaire pré-rempli en fin d'année.",
-    "t": 330.58
+    "t": 331.05
    },
    {
     "speaker": "Tom",
     "text": "Et le FNS a même un calculateur en ligne, pour que vous puissiez vérifier si vous y avez droit avant de faire votre demande.",
-    "t": 338.91
+    "t": 339.38
    },
    {
     "speaker": "Anna",
     "text": "Un calculateur — c'est vraiment utile, comme ça vous ne faites pas votre demande à l'aveugle.",
-    "t": 345.35
+    "t": 345.82
    },
    {
     "speaker": "Anna",
     "text": "D'accord Tom — qu'y a-t-il ensuite sur la liste ?",
-    "t": 349.24
+    "t": 349.71
    },
    {
     "speaker": "Tom",
     "text": "La troisième aide est pour les personnes qui vivent avec un handicap grave.",
-    "t": 351.76
+    "t": 352.23
    },
    {
     "speaker": "Tom",
     "text": "C'est le revenu pour personnes gravement handicapées.",
-    "t": 355.67
+    "t": 356.14
    },
    {
     "speaker": "Anna",
     "text": "Donc un revenu dédié aux personnes qui ne peuvent pas travailler à cause d'un handicap grave.",
-    "t": 358.69
+    "t": 359.16
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Pour une personne dont le handicap fait qu'elle ne peut pas gagner sa vie sur le marché du travail ordinaire, le FNS fournit un revenu garanti, pour qu'elle aussi ait un seuil sûr sur lequel s'appuyer.",
-    "t": 363.01
+    "t": 363.48
    },
    {
     "speaker": "Anna",
     "text": "C'est la solidarité au sens le plus vrai.",
-    "t": 374.37
+    "t": 374.84
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce qui vient ensuite ?",
-    "t": 376.59
+    "t": 377.06
    },
    {
     "speaker": "Tom",
     "text": "La quatrième est très différente, et très concrète.",
-    "t": 378.3
+    "t": 378.77
    },
    {
     "speaker": "Tom",
     "text": "Elle concerne la pension alimentaire — ce qu'un parent est censé payer pour son enfant après une séparation.",
-    "t": 381.4
+    "t": 381.87
    },
    {
     "speaker": "Anna",
     "text": "Ah — la pension pour l'enfant.",
-    "t": 386.68
+    "t": 387.15
    },
    {
     "speaker": "Anna",
     "text": "Et que se passe-t-il quand elle n'est pas payée ?",
-    "t": 388.52
+    "t": 388.99
    },
    {
     "speaker": "Tom",
     "text": "C'est exactement le problème que le FNS résout.",
-    "t": 390.81
+    "t": 391.28
    },
    {
     "speaker": "Tom",
     "text": "Imaginez un parent séparé — souvent une mère — à qui une pension alimentaire est due, mais l'autre parent ne paie tout simplement pas.",
-    "t": 393.63
+    "t": 394.1
    },
    {
     "speaker": "Tom",
     "text": "L'enfant en souffre.",
-    "t": 401.09
+    "t": 401.56
    },
    {
     "speaker": "Tom",
     "text": "Alors le FNS peut intervenir, et avancer cet argent.",
-    "t": 402.64
+    "t": 403.11
    },
    {
     "speaker": "Anna",
     "text": "Attends — donc l'État paie la pension que l'autre parent n'a pas payée ?",
-    "t": 406.39
+    "t": 406.86
    },
    {
     "speaker": "Tom",
     "text": "Dans certaines limites et sous certaines conditions, oui.",
-    "t": 410.02
+    "t": 410.49
    },
    {
     "speaker": "Tom",
     "text": "Le FNS avance la pension alimentaire impayée, pour que l'enfant et le parent ne se retrouvent pas sans rien.",
-    "t": 413.26
+    "t": 413.73
    },
    {
     "speaker": "Tom",
     "text": "Et ensuite — c'est ça, l'aspect ingénieux — le FNS se retourne contre le parent qui n'a pas payé, pour récupérer l'argent.",
-    "t": 419.63
+    "t": 420.1
    },
    {
     "speaker": "Tom",
     "text": "Pour la demander, il faut une décision de justice qui fixe la pension — et un huissier doit d'abord avoir essayé de la récupérer.",
-    "t": 427.2
+    "t": 427.67
    },
    {
     "speaker": "Anna",
     "text": "Donc l'État agit comme une sorte de garant, et fait ensuite lui-même les démarches de recouvrement.",
-    "t": 434.05
+    "t": 434.52
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Le parent vulnérable n'a pas à se battre seul.",
-    "t": 438.43
+    "t": 438.9
    },
    {
     "speaker": "Tom",
     "text": "Le FNS prend ce fardeau sur lui.",
-    "t": 442.09
+    "t": 442.56
    },
    {
     "speaker": "Tom",
     "text": "C'est l'une des choses les plus humaines que fait le Fonds.",
-    "t": 444.65
+    "t": 445.12
    },
    {
     "speaker": "Anna",
     "text": "Ça l'est vraiment.",
-    "t": 447.5
+    "t": 447.97
    },
    {
     "speaker": "Anna",
     "text": "D'accord — il en reste combien ?",
-    "t": 448.51
+    "t": 448.91
    },
    {
     "speaker": "Tom",
     "text": "Deux encore à mentionner.",
-    "t": 450.36
+    "t": 450.76
    },
    {
     "speaker": "Tom",
     "text": "La cinquième est un complément pour les personnes âgées qui ont besoin de soins.",
-    "t": 451.96
+    "t": 452.36
    },
    {
     "speaker": "Tom",
     "text": "Quand quelqu'un entre dans une maison de soins, ou en logement encadré, et que son propre revenu ne suffit pas à couvrir le coût, le FNS peut aider à payer la différence.",
-    "t": 455.61
+    "t": 456.01
    },
    {
     "speaker": "Tom",
     "text": "Il s'appelle le COMPA.",
-    "t": 465.35
+    "t": 465.75
    },
    {
     "speaker": "Anna",
     "text": "Donc une personne âgée n'est pas refusée pour des soins juste parce que sa pension est trop petite.",
-    "t": 467.11
+    "t": 467.51
    },
    {
     "speaker": "Tom",
     "text": "C'est l'idée. Des soins selon les besoins, et pas seulement selon votre compte en banque.",
-    "t": 471.73
+    "t": 472.13
    },
    {
     "speaker": "Tom",
     "text": "Le Fonds complète ce qui manque, pour que la dignité dans la vieillesse soit protégée.",
-    "t": 476.23
+    "t": 476.63
    },
    {
     "speaker": "Anna",
     "text": "Et la sixième ?",
-    "t": 481.07
+    "t": 481.47
    },
    {
     "speaker": "Tom",
     "text": "La sixième, c'est la pension pour l'éducation des enfants.",
-    "t": 482.33
+    "t": 482.73
    },
    {
     "speaker": "Tom",
     "text": "En luxembourgeois, les gens l'appellent la « Mammerent ».",
-    "t": 485.64
+    "t": 486.04
    },
    {
     "speaker": "Tom",
     "text": "C'est un petit montant mensuel pour les parents — historiquement les mères — qui ont passé des années à élever des enfants et qui ont donc constitué moins de pension pour eux-mêmes.",
-    "t": 488.85
+    "t": 489.25
    },
    {
     "speaker": "Anna",
     "text": "Ah — donc ça reconnaît les années consacrées à élever une famille.",
-    "t": 497.75
+    "t": 498.15
    },
    {
     "speaker": "Tom",
     "text": "Exactement. C'est une façon de dire — ce travail comptait aussi.",
-    "t": 501.04
+    "t": 501.44
    },
    {
     "speaker": "Tom",
     "text": "C'est un montant modeste chaque mois, mais il honore ces années.",
-    "t": 505
+    "t": 505.4
    },
    {
     "speaker": "Anna",
     "text": "Alors récapitulons-les. Nous avons le REVIS, le revenu minimum.",
-    "t": 508.65
+    "t": 509.05
    },
    {
     "speaker": "Anna",
     "text": "L'allocation de vie chère, avec la prime énergie et l'aide aux seniors.",
-    "t": 512.32
+    "t": 512.72
    },
    {
     "speaker": "Anna",
     "text": "Le revenu pour personnes gravement handicapées.",
-    "t": 515.97
+    "t": 516.37
    },
    {
     "speaker": "Anna",
     "text": "L'avance sur la pension alimentaire.",
-    "t": 518.33
+    "t": 518.73
    },
    {
     "speaker": "Anna",
     "text": "Le complément pour les personnes âgées en soins.",
-    "t": 520.22
+    "t": 520.62
    },
    {
     "speaker": "Anna",
     "text": "Et la pension pour l'éducation des enfants, la Mammerent.",
-    "t": 522.53
+    "t": 522.93
    },
    {
     "speaker": "Tom",
     "text": "Six aides, un seul organisme.",
-    "t": 525.66
+    "t": 526.06
    },
    {
     "speaker": "Tom",
     "text": "Et derrière elles toutes, une seule idée — qu'au Luxembourg, personne ne devrait être laissé à l'abandon.",
-    "t": 527.96
+    "t": 528.36
    },
    {
     "speaker": "Anna",
     "text": "Tom, laisse-moi poser la question pratique.",
-    "t": 533.74
+    "t": 534.14
    },
    {
     "speaker": "Anna",
     "text": "Comment fait-on concrètement une demande ?",
-    "t": 535.73
+    "t": 536.12
    },
    {
     "speaker": "Anna",
     "text": "On dirait que ça pourrait être compliqué.",
-    "t": 537.76
+    "t": 538.15
    },
    {
     "speaker": "Tom",
     "text": "C'est plus accessible que les gens ne le craignent.",
-    "t": 539.76
+    "t": 540.15
    },
    {
     "speaker": "Tom",
     "text": "Tout commence sur le site internet, f-n-s point l-u.",
-    "t": 542.28
+    "t": 542.67
    },
    {
     "speaker": "Tom",
     "text": "Là, vous trouvez chaque aide expliquée, avec les conditions, et les formulaires.",
-    "t": 546.1
+    "t": 546.49
    },
    {
     "speaker": "Anna",
     "text": "Et peut-on le faire en ligne ?",
-    "t": 550.54
+    "t": 550.93
    },
    {
     "speaker": "Tom",
     "text": "En partie. Sur le site, vous trouvez les formulaires — et, pour l'allocation de vie chère, ce calculateur en ligne.",
-    "t": 552.12
+    "t": 552.51
    },
    {
     "speaker": "Tom",
     "text": "Mais la plupart du temps, vous remplissez un formulaire papier.",
-    "t": 558.22
+    "t": 558.61
    },
    {
     "speaker": "Tom",
     "text": "Vous le téléchargez, ou vous le prenez au guichet du FNS, vous le signez, et vous l'envoyez par la poste ou vous le déposez.",
-    "t": 561.14
+    "t": 561.53
    },
    {
     "speaker": "Tom",
     "text": "Et l'office social de votre commune peut vous aider à le remplir.",
-    "t": 568.17
+    "t": 568.56
    },
    {
     "speaker": "Anna",
     "text": "Et si quelqu'un est perdu, ou ne sait pas quelle aide est faite pour lui ?",
-    "t": 571.86
+    "t": 572.25
    },
    {
     "speaker": "Tom",
     "text": "Alors il peut contacter le FNS directement — par téléphone, par e-mail, ou en personne.",
-    "t": 575.28
+    "t": 575.67
    },
    {
     "speaker": "Tom",
     "text": "Les bureaux se trouvent rue de la Fonderie, à Luxembourg-Ville — le guichet est ouvert le matin.",
-    "t": 580.41
+    "t": 580.8
    },
    {
     "speaker": "Tom",
     "text": "Et honnêtement, ce premier appel téléphonique est souvent l'étape la plus importante.",
-    "t": 585.54
+    "t": 585.93
    },
    {
     "speaker": "Tom",
     "text": "Parce que beaucoup de gens ne demandent pas ce à quoi ils ont droit — simplement parce qu'ils ne savent pas que ça existe.",
-    "t": 589.91
+    "t": 590.3
    },
    {
     "speaker": "Anna",
     "text": "C'est un point tellement important.",
-    "t": 595.79
+    "t": 596.18
    },
    {
     "speaker": "Anna",
     "text": "Une aide dont vous ignorez l'existence ne vous aide pas.",
-    "t": 597.54
+    "t": 597.93
    },
    {
     "speaker": "Tom",
     "text": "C'est toute la raison pour laquelle nous faisons cet épisode.",
-    "t": 600.34
+    "t": 600.73
    },
    {
     "speaker": "Tom",
     "text": "Il y a de l'argent et du soutien qui attendent — mais il faut tendre la main pour les prendre.",
-    "t": 603.3
+    "t": 603.69
    },
    {
     "speaker": "Anna",
     "text": "Rendons ça concret, Tom.",
-    "t": 608.07
+    "t": 608.46
    },
    {
     "speaker": "Anna",
     "text": "Peut-on suivre une personne ?",
-    "t": 609.61
+    "t": 610
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Imaginons une femme — appelons-la Sofia.",
-    "t": 611.16
+    "t": 611.55
    },
    {
     "speaker": "Tom",
     "text": "Elle s'est récemment séparée, elle a deux jeunes enfants, et elle travaille à temps partiel avec un petit salaire.",
-    "t": 614.35
+    "t": 614.74
    },
    {
     "speaker": "Anna",
     "text": "Une situation très réelle.",
-    "t": 620.18
+    "t": 620.57
    },
    {
     "speaker": "Anna",
     "text": "Où le FNS intervient-il pour Sofia ?",
-    "t": 621.83
+    "t": 622.22
    },
    {
     "speaker": "Tom",
     "text": "À plusieurs endroits à la fois.",
-    "t": 624.43
+    "t": 624.82
    },
    {
     "speaker": "Tom",
     "text": "D'abord — son revenu est faible, donc elle peut avoir droit à l'allocation de vie chère, avec la prime énergie, pour l'aider tout au long de l'année.",
-    "t": 626.17
+    "t": 626.56
    },
    {
     "speaker": "Anna",
     "text": "C'est le coup de pouce annuel.",
-    "t": 633.76
+    "t": 634.15
    },
    {
     "speaker": "Tom",
     "text": "Oui. Ensuite — son ex-partenaire est censé payer une pension alimentaire, mais il a arrêté.",
-    "t": 635.46
+    "t": 635.85
    },
    {
     "speaker": "Tom",
     "text": "Alors le FNS peut avancer cette pension, et la lui réclamer — pour que ses enfants ne manquent de rien.",
-    "t": 641.12
+    "t": 641.51
    },
    {
     "speaker": "Anna",
     "text": "Ça lui enlève un poids énorme des épaules.",
-    "t": 646.66
+    "t": 647.05
    },
    {
     "speaker": "Tom",
     "text": "Un poids énorme.",
-    "t": 649.17
+    "t": 649.56
    },
    {
     "speaker": "Tom",
     "text": "Et troisièmement — si même avec son salaire le ménage est toujours en dessous du minimum, le REVIS peut la compléter jusqu'à ce seuil — et en même temps, l'aider avec une formation ou la recherche de plus de travail.",
-    "t": 650.78
+    "t": 651.17
    },
    {
     "speaker": "Anna",
     "text": "Donc, depuis un seul organisme, Sofia obtient une allocation annuelle, la pension de ses enfants sécurisée, et un minimum garanti avec un chemin pour avancer.",
-    "t": 662.68
+    "t": 663.07
    },
    {
     "speaker": "Tom",
     "text": "Tout depuis un seul endroit.",
-    "t": 671.41
+    "t": 671.8
    },
    {
     "speaker": "Tom",
     "text": "C'est la force d'avoir un fonds de solidarité unique.",
-    "t": 673.12
+    "t": 673.51
    },
    {
     "speaker": "Tom",
     "text": "Il peut envelopper plusieurs soutiens autour de la même famille.",
-    "t": 676.28
+    "t": 676.67
    },
    {
     "speaker": "Anna",
     "text": "Et la clé, encore une fois, c'est qu'elle doit savoir qu'elle peut demander.",
-    "t": 679.65
+    "t": 680.04
    },
    {
     "speaker": "Tom",
     "text": "C'est ça, la clé.",
-    "t": 683.11
+    "t": 683.5
    },
    {
     "speaker": "Tom",
     "text": "C'est pourquoi, si vous ne retenez qu'une seule chose d'aujourd'hui — c'est celle-ci.",
-    "t": 684.37
+    "t": 684.76
    },
    {
     "speaker": "Tom",
     "text": "Si l'argent manque, ne souffrez pas en silence.",
-    "t": 688.52
+    "t": 688.91
    },
    {
     "speaker": "Tom",
     "text": "Renseignez-vous auprès du FNS.",
-    "t": 691.14
+    "t": 691.53
    },
    {
     "speaker": "Tom",
     "text": "Vous avez peut-être droit à bien plus que vous ne le pensez.",
-    "t": 693.3
+    "t": 693.69
    },
    {
     "speaker": "Anna",
     "text": "D'accord Tom, concluons.",
-    "t": 696.43
+    "t": 696.82
    },
    {
     "speaker": "Anna",
     "text": "Si je vous écoute, et que les choses sont difficiles, qu'est-ce que je fais ?",
-    "t": 698.09
+    "t": 698.48
    },
    {
     "speaker": "Tom",
     "text": "Trois étapes simples.",
-    "t": 701.51
+    "t": 701.9
    },
    {
     "speaker": "Tom",
     "text": "D'abord — allez sur le site internet, f-n-s point l-u.",
-    "t": 703
+    "t": 703.39
    },
    {
     "speaker": "Tom",
     "text": "Regardez les aides, et voyez lesquelles correspondent à votre situation.",
-    "t": 707.69
+    "t": 708.08
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. Compris.",
-    "t": 711.98
+    "t": 712.37
    },
    {
     "speaker": "Tom",
     "text": "Ensuite — si votre revenu est modeste, utilisez le calculateur de la vie chère, et faites votre demande.",
-    "t": 713.96
+    "t": 714.4
    },
    {
     "speaker": "Tom",
     "text": "Et si vous touchez déjà le REVIS, souvenez-vous — celle-là arrive automatiquement.",
-    "t": 720.52
+    "t": 720.96
    },
    {
     "speaker": "Anna",
-    "text": "Et troisièmement ?",
-    "t": 725.05
+    "text": "Et quelle est la troisième étape ?",
+    "t": 725.49
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement — si vous n'êtes pas sûr, contactez-les tout simplement.",
-    "t": 726.33
+    "t": 727.2
    },
    {
     "speaker": "Tom",
     "text": "Un appel téléphonique, un e-mail, une visite.",
-    "t": 730.09
+    "t": 730.96
    },
    {
     "speaker": "Tom",
     "text": "Posez la question.",
-    "t": 732.68
+    "t": 733.55
    },
    {
     "speaker": "Tom",
     "text": "Il n'y a aucune honte à la solidarité — c'est littéralement à ça que sert le Fonds.",
-    "t": 733.85
+    "t": 734.72
    },
    {
     "speaker": "Anna",
     "text": "Un petit résumé pour finir ?",
-    "t": 738.78
+    "t": 739.65
    },
    {
     "speaker": "Tom",
     "text": "Bien sûr. Le Fonds national de solidarité — le FNS, fns.lu — est le filet de sécurité du Luxembourg contre la pauvreté.",
-    "t": 740.44
+    "t": 741.31
    },
    {
     "speaker": "Tom",
     "text": "Il gère le REVIS, le revenu minimum garanti ; l'allocation de vie chère avec la prime énergie et l'aide aux seniors ; un revenu pour personnes gravement handicapées ; les avances sur les pensions alimentaires impayées ; un complément pour les personnes âgées en soins ; et la pension pour l'éducation des enfants, la Mammerent.",
-    "t": 750.05
+    "t": 750.11
    },
    {
     "speaker": "Tom",
     "text": "Vous trouvez tous les formulaires sur fns.lu — et les bénéficiaires du REVIS reçoivent l'allocation de vie chère automatiquement.",
-    "t": 767.82
+    "t": 767.77
    },
    {
     "speaker": "Anna",
-    "text": "Et le message du jour ?",
+    "text": "Et quel est le message à retenir aujourd'hui ?",
     "t": 775.6
    },
    {
     "speaker": "Tom",
     "text": "La solidarité au Luxembourg n'est pas juste un mot — c'est un organisme, avec un budget, et un numéro de téléphone.",
-    "t": 777.03
+    "t": 777.84
    },
    {
     "speaker": "Tom",
     "text": "Si la vie devient difficile, ce filet est réel, et il est là pour vous.",
-    "t": 783.88
+    "t": 784.69
    },
    {
     "speaker": "Tom",
     "text": "Il vous suffit de tendre la main pour le prendre.",
-    "t": 788.14
+    "t": 788.95
    },
    {
     "speaker": "Anna",
-    "text": "Alors... si vous, ou quelqu'un que vous connaissez, êtes en difficulté — souvenez-vous du nom.",
-    "t": 790.68
-   },
-   {
-    "speaker": "Anna",
-    "text": "Le Fonds national de solidarité.",
-    "t": 794.79
-   },
-   {
-    "speaker": "Anna",
-    "text": "fns.lu.",
-    "t": 796.72
+    "text": "Alors, si vous, ou quelqu'un que vous connaissez, êtes en difficulté, souvenez-vous du nom : le Fonds national de solidarité, fns.lu.",
+    "t": 791.49
    },
    {
     "speaker": "Tom",
     "text": "Un seul fonds, qui soutient tous ceux qui en ont besoin.",
-    "t": 798.32
+    "t": 799.83
    },
    {
     "speaker": "Tom",
     "text": "C'est ça, la solidarité.",
-    "t": 801.4
+    "t": 802.91
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le Fonds national de solidarité.",
-    "t": 803.17
+    "t": 804.68
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 806.24
+    "t": 807.75
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 814.22
+    "t": 815.73
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 830.67
+    "t": 832.18
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 835.32
+    "t": 836.83
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 837.1
+    "t": 838.61
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 841.48
+    "t": 842.99
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 842.71
+    "t": 844.22
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 845.17
+    "t": 846.68
    }
   ],
   "segments_de": [
@@ -46997,1042 +46962,1022 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Sie heißt der Nationale Solidaritätsfonds.",
-    "t": 42.21
+    "t": 41.79
    },
    {
     "speaker": "Tom",
     "text": "Die Leute sagen oft nur den kurzen Namen — F-N-S.",
-    "t": 45.06
+    "t": 44.64
    },
    {
     "speaker": "Anna",
     "text": "Der Nationale Solidaritätsfonds.",
-    "t": 48.9
+    "t": 48.48
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein schöner Name.",
-    "t": 51.22
+    "t": 50.8
    },
    {
     "speaker": "Anna",
-    "text": "Fangen wir einfach an.",
-    "t": 52.77
-   },
-   {
-    "speaker": "Anna",
-    "text": "Was ist das?",
-    "t": 54.13
+    "text": "Fangen wir einfach an: Was ist das genau?",
+    "t": 52.5
    },
    {
     "speaker": "Tom",
     "text": "Der FNS ist eine öffentliche Stelle, deren ganze Aufgabe es ist, Menschen zu helfen, die finanziell in Schwierigkeiten sind.",
-    "t": 55.28
+    "t": 55.7
    },
    {
     "speaker": "Tom",
     "text": "Er gehört zum Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 63.23
+    "t": 63.65
    },
    {
     "speaker": "Tom",
     "text": "Und seine Aufgabe ist, ganz einfach gesagt, der Kampf gegen die Armut.",
-    "t": 70.16
+    "t": 70.58
    },
    {
     "speaker": "Anna",
     "text": "Das ist also das soziale Netz des Landes.",
-    "t": 74.76
+    "t": 75.18
    },
    {
     "speaker": "Tom",
     "text": "Das ist genau das richtige Wort.",
-    "t": 77.43
+    "t": 77.85
    },
    {
     "speaker": "Tom",
     "text": "Ein soziales Netz.",
-    "t": 79.48
+    "t": 79.9
    },
    {
     "speaker": "Tom",
     "text": "Wenn jemandes Einkommen zu niedrig ist, um in Würde zu leben — wegen eines Arbeitsplatzverlusts, einer Krankheit, des Alters, einer Trennung, oder einfach wegen eines niedrigen Lohns — dann ist der FNS da.",
-    "t": 80.92
+    "t": 81.34
    },
    {
     "speaker": "Tom",
     "text": "Sein Zuhause im Internet ist f-n-s Punkt l-u.",
-    "t": 93.98
+    "t": 94.4
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. Und es ist offiziell — der Staat.",
-    "t": 97.57
+    "t": 97.99
    },
    {
     "speaker": "Tom",
     "text": "Vollkommen offiziell. Keine Wohltätigkeitsorganisation, kein privater Fonds.",
-    "t": 101.76
+    "t": 102.19
    },
    {
     "speaker": "Tom",
     "text": "Es ist der Staat, der Solidarität für alle organisiert, die sie brauchen.",
-    "t": 107.07
+    "t": 107.5
    },
    {
     "speaker": "Anna",
     "text": "Gut. Also, für wen ist er da?",
-    "t": 111.45
+    "t": 111.88
    },
    {
     "speaker": "Anna",
     "text": "Wer darf an diese Tür klopfen?",
-    "t": 113.61
+    "t": 114.04
    },
    {
     "speaker": "Tom",
     "text": "Vor allem Menschen, die in Luxemburg leben und deren Einkommen bescheiden ist, oder die sich in einer schwierigen Lage befinden.",
-    "t": 115.62
+    "t": 116.05
    },
    {
     "speaker": "Tom",
     "text": "Aber — der FNS macht nicht nur eine Sache.",
-    "t": 123.14
+    "t": 123.57
    },
    {
     "speaker": "Tom",
     "text": "Er verwaltet eine ganze Reihe verschiedener Hilfen.",
-    "t": 126.42
+    "t": 126.85
    },
    {
     "speaker": "Tom",
     "text": "Lass mich die wichtigsten durchgehen.",
-    "t": 129.13
+    "t": 129.56
    },
    {
     "speaker": "Anna",
     "text": "Ja, gehen wir sie eine nach der anderen durch.",
-    "t": 131.16
+    "t": 131.59
    },
    {
     "speaker": "Anna",
     "text": "Wo fangen wir an?",
-    "t": 133.91
+    "t": 134.34
    },
    {
     "speaker": "Tom",
     "text": "Fangen wir mit der größten an.",
-    "t": 135.31
+    "t": 135.74
    },
    {
     "speaker": "Tom",
     "text": "Sie heißt das Eingliederungseinkommen — auf Französisch das revenu d'inclusion sociale.",
-    "t": 137.18
+    "t": 137.61
    },
    {
     "speaker": "Tom",
     "text": "Der kurze Name ist REVIS.",
-    "t": 143.74
+    "t": 144.17
    },
    {
     "speaker": "Anna",
     "text": "REVIS. Was ist das?",
-    "t": 145.44
+    "t": 145.87
    },
    {
     "speaker": "Tom",
     "text": "Der REVIS ist das garantierte Mindesteinkommen.",
-    "t": 147.86
+    "t": 148.29
    },
    {
     "speaker": "Tom",
     "text": "Die Idee ist einfach, aber kraftvoll — in Luxemburg sollte niemand unter ein bestimmtes Grundniveau fallen.",
-    "t": 151.07
+    "t": 151.5
    },
    {
     "speaker": "Tom",
     "text": "Wenn das Einkommen Ihres Haushalts unter diesem Niveau liegt, stockt der REVIS es bis dahin auf.",
-    "t": 157.54
+    "t": 157.97
    },
    {
     "speaker": "Anna",
     "text": "Er sorgt also dafür, dass Sie immer ein Minimum zum Leben haben.",
-    "t": 163.15
+    "t": 163.58
    },
    {
     "speaker": "Tom",
     "text": "Genau. Eine Schwelle, unter die der Staat Sie nicht fallen lässt.",
-    "t": 166.77
+    "t": 167.2
    },
    {
     "speaker": "Tom",
     "text": "Der Betrag hängt von Ihrem Haushalt ab — wie viele Erwachsene, wie viele Kinder.",
-    "t": 170.54
+    "t": 170.97
    },
    {
     "speaker": "Tom",
     "text": "Es gibt einen Grundbetrag für den ersten Erwachsenen, mehr für einen zweiten Erwachsenen, und einen Betrag für jedes Kind.",
-    "t": 175.62
+    "t": 176.05
    },
    {
     "speaker": "Anna",
     "text": "Eine alleinstehende Person bekommt also ein Niveau, und eine größere Familie bekommt mehr, weil sie mehr braucht.",
-    "t": 182.9
+    "t": 183.33
    },
    {
     "speaker": "Tom",
     "text": "Ganz genau. Es wird für den gesamten Haushalt berechnet, und es zählt das Einkommen mit, das Sie bereits haben.",
-    "t": 189.2
+    "t": 189.63
    },
    {
     "speaker": "Tom",
     "text": "Der REVIS füllt die Lücke zwischen dem, was Sie haben, und dem Minimum, auf das Sie Anspruch haben.",
-    "t": 195.33
+    "t": 195.76
    },
    {
     "speaker": "Anna",
-    "text": "Und ist es nur Geld?",
-    "t": 200.86
-   },
-   {
-    "speaker": "Anna",
-    "text": "Oder steckt mehr dahinter?",
-    "t": 202.27
+    "text": "Und ist es nur Geld, oder steckt mehr dahinter?",
+    "t": 201.29
    },
    {
     "speaker": "Tom",
     "text": "Das ist der clevere Teil des REVIS.",
-    "t": 203.97
+    "t": 204.2
    },
    {
     "speaker": "Tom",
     "text": "Es ist nicht nur ein Scheck.",
-    "t": 206.34
+    "t": 206.57
    },
    {
     "speaker": "Tom",
     "text": "Das Wort „Eingliederung\" ist wichtig.",
-    "t": 207.84
+    "t": 208.15
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch eine Seite, die Menschen hilft, wieder auf die Beine zu kommen — Aktivierung, nennt man das.",
-    "t": 210.2
+    "t": 210.51
    },
    {
     "speaker": "Tom",
     "text": "Unterstützung, um Arbeit, eine Ausbildung oder eine nützliche Tätigkeit zu finden, damit die Hilfe eine Brücke ist und keine Sackgasse.",
-    "t": 215.94
+    "t": 216.25
    },
    {
     "speaker": "Anna",
     "text": "Das gefällt mir — Geld zum Leben, und eine helfende Hand, um voranzukommen.",
-    "t": 224.54
+    "t": 224.85
    },
    {
     "speaker": "Tom",
     "text": "Das ist die ganze Philosophie.",
-    "t": 229.36
+    "t": 229.67
    },
    {
     "speaker": "Tom",
     "text": "Und wenn jemand an einer Aktivierungsmaßnahme teilnimmt — wie etwa gemeinnützige Arbeit als Teil seines Plans — kann es obendrauf noch eine Aktivierungszulage geben.",
-    "t": 231.34
+    "t": 231.65
    },
    {
     "speaker": "Anna",
     "text": "Gut. Das ist also der REVIS — das Mindesteinkommen.",
-    "t": 241.2
+    "t": 241.51
    },
    {
     "speaker": "Anna",
     "text": "Was ist die zweite große Hilfe?",
-    "t": 244.87
+    "t": 245.18
    },
    {
     "speaker": "Tom",
     "text": "Die zweite ist etwas, das viel mehr Menschen bekommen können — die Teuerungszulage.",
-    "t": 247.07
+    "t": 247.38
    },
    {
     "speaker": "Tom",
     "text": "Auf Französisch die allocation de vie chère.",
-    "t": 251.95
+    "t": 252.26
    },
    {
     "speaker": "Anna",
     "text": "Die Teuerungszulage. Erzähl mir davon.",
-    "t": 254.93
+    "t": 255.24
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine jährliche Zahlung, um Haushalten mit bescheidenem Einkommen bei den steigenden Kosten des täglichen Lebens zu helfen.",
-    "t": 258.01
+    "t": 258.32
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist der entscheidende Punkt — Sie müssen nicht REVIS beziehen, um sie zu bekommen.",
-    "t": 265.8
+    "t": 266.11
    },
    {
     "speaker": "Tom",
     "text": "Sie können arbeiten, einen kleinen oder mittleren Lohn haben, und trotzdem Anspruch haben, solange Ihr Einkommen unter einer bestimmten Grenze liegt.",
-    "t": 270.65
+    "t": 270.96
    },
    {
     "speaker": "Anna",
     "text": "Ah, das erreicht also viele ganz normale Haushalte — Menschen, die arbeiten, aber für die jeder Euro zählt.",
-    "t": 279.54
+    "t": 279.85
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und der Betrag hängt von der Größe Ihres Haushalts ab.",
-    "t": 286.53
+    "t": 286.84
    },
    {
     "speaker": "Tom",
     "text": "Eine alleinstehende Person bekommt einen Betrag, ein Paar mehr, eine Familie noch mehr.",
-    "t": 290.96
+    "t": 291.27
    },
    {
     "speaker": "Tom",
     "text": "Für eine alleinstehende Person sind es mehr als tausendachthundert Euro im Jahr — und mehr für größere Haushalte.",
-    "t": 296.4
+    "t": 296.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist eine echte, bedeutende Summe.",
-    "t": 303.1
+    "t": 303.41
    },
    {
     "speaker": "Anna",
     "text": "Und du sagtest, es hängt noch mehr daran?",
-    "t": 305.42
+    "t": 305.73
    },
    {
     "speaker": "Tom",
     "text": "Ja — und das ist wichtig bei den heutigen Energiepreisen.",
-    "t": 307.97
+    "t": 308.28
    },
    {
     "speaker": "Tom",
     "text": "Zusammen mit der Teuerungszulage gibt es eine Energieprämie — zusätzliche Hilfe bei den Heiz- und Stromrechnungen.",
-    "t": 311.26
+    "t": 311.57
    },
    {
     "speaker": "Tom",
     "text": "Und für ältere Menschen mit kleinem Einkommen kann es auch noch eine zusätzliche finanzielle Unterstützung für Senioren geben.",
-    "t": 318.45
+    "t": 318.76
    },
    {
     "speaker": "Anna",
     "text": "Ein einziger Antrag kann also drei Türen öffnen — Teuerungszulage, Energie und Seniorenhilfe.",
-    "t": 325.26
+    "t": 325.57
    },
    {
     "speaker": "Tom",
     "text": "Ein einziger Antrag, ja.",
-    "t": 331.69
+    "t": 332
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist ein wunderbares Detail — wenn Sie bereits REVIS beziehen, müssen Sie nicht einmal einen Antrag stellen.",
-    "t": 333.34
+    "t": 333.62
    },
    {
     "speaker": "Tom",
     "text": "Die Teuerungszulage, die Energieprämie und die Seniorenhilfe kommen automatisch zu Ihnen.",
-    "t": 340.1
+    "t": 340.38
    },
    {
     "speaker": "Anna",
     "text": "Das ist rücksichtsvoll — die Menschen, die sie am meisten brauchen, müssen kein weiteres Formular ausfüllen.",
-    "t": 346.11
+    "t": 346.39
    },
    {
     "speaker": "Tom",
     "text": "Richtig. Und es kommt eine Änderung.",
-    "t": 352.13
+    "t": 352.41
    },
    {
     "speaker": "Tom",
     "text": "Die Regierung plant, diese drei Hilfen — plus eine neue Hilfe für Familien mit Schulkindern — ab 2027 zu einer einzigen zusammenzulegen, dem complément vie chère.",
-    "t": 354.7
+    "t": 354.98
    },
    {
     "speaker": "Tom",
     "text": "Dann müssten Sie nur noch einmal einen Antrag stellen, und die Hilfe liefe weiter, solange Sie Anspruch haben.",
-    "t": 366.86
+    "t": 367.14
    },
    {
     "speaker": "Tom",
     "text": "Das Gesetz wird noch im Parlament beraten — schauen Sie also auf f-n-s Punkt l-u nach dem neuesten Stand.",
-    "t": 372.49
+    "t": 372.77
    },
    {
     "speaker": "Tom",
     "text": "Bis dahin stellen alle anderen ihren Antrag mit einem Formular — und wenn Sie die Zulage im letzten Jahr bekommen haben, schickt Ihnen der FNS Ende des Jahres ein vorausgefülltes Formular.",
-    "t": 379.75
+    "t": 380.03
    },
    {
     "speaker": "Tom",
     "text": "Und der FNS hat sogar einen Online-Rechner, damit Sie prüfen können, ob Sie Anspruch haben, bevor Sie einen Antrag stellen.",
-    "t": 391.15
+    "t": 391.43
    },
    {
     "speaker": "Anna",
     "text": "Ein Rechner — das ist wirklich hilfreich, damit Sie nicht blind einen Antrag stellen.",
-    "t": 398.32
+    "t": 398.6
    },
    {
     "speaker": "Anna",
     "text": "Gut, Tom — was steht als Nächstes auf der Liste?",
-    "t": 403.12
+    "t": 403.4
    },
    {
     "speaker": "Tom",
     "text": "Die dritte Hilfe ist für Menschen, die mit einer schweren Behinderung leben.",
-    "t": 406.38
+    "t": 406.66
    },
    {
     "speaker": "Tom",
     "text": "Es ist das Einkommen für schwerbehinderte Menschen — auf Französisch das revenu pour personnes gravement handicapées.",
-    "t": 410.29
+    "t": 410.57
    },
    {
     "speaker": "Anna",
     "text": "Also ein eigenes Einkommen für Menschen, die wegen einer schweren Behinderung nicht arbeiten können.",
-    "t": 417.81
+    "t": 418.09
    },
    {
     "speaker": "Tom",
     "text": "Genau. Für eine Person, deren Behinderung dazu führt, dass sie auf dem normalen Arbeitsmarkt ihren Lebensunterhalt nicht verdienen kann, stellt der FNS ein garantiertes Einkommen bereit, damit auch sie eine sichere Schwelle hat, auf der sie stehen kann.",
-    "t": 422.82
+    "t": 423.1
    },
    {
     "speaker": "Anna",
     "text": "Das ist Solidarität im wahrsten Sinne.",
-    "t": 437.97
+    "t": 438.25
    },
    {
     "speaker": "Anna",
     "text": "Was kommt als Nächstes?",
-    "t": 440.48
+    "t": 440.76
    },
    {
     "speaker": "Tom",
     "text": "Die vierte ist sehr anders, und sehr praktisch.",
-    "t": 442.23
+    "t": 442.51
    },
    {
     "speaker": "Tom",
     "text": "Es geht um den Unterhalt — das, was ein Elternteil nach einer Trennung für sein Kind zahlen soll.",
-    "t": 445.1
+    "t": 445.38
    },
    {
     "speaker": "Tom",
     "text": "Auf Französisch die pension alimentaire.",
-    "t": 450.57
+    "t": 450.85
    },
    {
     "speaker": "Anna",
     "text": "Ah — der Kindesunterhalt.",
-    "t": 453.32
+    "t": 453.6
    },
    {
     "speaker": "Anna",
     "text": "Und was passiert, wenn er nicht gezahlt wird?",
-    "t": 455.56
+    "t": 455.84
    },
    {
     "speaker": "Tom",
     "text": "Das ist genau das Problem, das der FNS löst.",
-    "t": 458.01
+    "t": 458.29
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie sich ein getrennt lebendes Elternteil vor — oft eine Mutter — dem Kindesunterhalt zusteht, aber der andere Elternteil zahlt einfach nicht.",
-    "t": 461.5
+    "t": 461.78
    },
    {
     "speaker": "Tom",
     "text": "Das Kind leidet darunter.",
-    "t": 470.38
+    "t": 470.66
    },
    {
     "speaker": "Tom",
     "text": "Also kann der FNS eingreifen und dieses Geld vorstrecken.",
-    "t": 472.03
+    "t": 472.31
    },
    {
     "speaker": "Anna",
     "text": "Moment — der Staat zahlt also den Unterhalt, den der andere Elternteil nicht gezahlt hat?",
-    "t": 475.97
+    "t": 476.25
    },
    {
     "speaker": "Tom",
     "text": "Innerhalb bestimmter Grenzen und Bedingungen, ja.",
-    "t": 481.54
+    "t": 481.82
    },
    {
     "speaker": "Tom",
     "text": "Der FNS streckt den nicht gezahlten Unterhalt vor, damit das Kind und das Elternteil nicht mit nichts dastehen.",
-    "t": 484.47
+    "t": 484.75
    },
    {
     "speaker": "Tom",
     "text": "Und dann — das ist der clevere Teil — geht der FNS gegen das Elternteil vor, das nicht gezahlt hat, um das Geld zurückzuholen.",
-    "t": 491.72
+    "t": 492
    },
    {
     "speaker": "Tom",
     "text": "Dafür braucht es eine Gerichtsentscheidung, die den Unterhalt festlegt — und ein Gerichtsvollzieher muss zuerst versucht haben, ihn einzutreiben.",
-    "t": 500.5
+    "t": 500.78
    },
    {
     "speaker": "Anna",
     "text": "Der Staat handelt also als eine Art Bürge und übernimmt dann selbst das Eintreiben.",
-    "t": 508.17
+    "t": 508.45
    },
    {
     "speaker": "Tom",
     "text": "Genau. Das schutzbedürftige Elternteil muss nicht allein kämpfen.",
-    "t": 513.03
+    "t": 513.31
    },
    {
     "speaker": "Tom",
     "text": "Der FNS nimmt diese Last auf sich.",
-    "t": 517.74
+    "t": 518.02
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine der menschlichsten Sachen, die der Fonds tut.",
-    "t": 520.41
+    "t": 520.69
    },
    {
     "speaker": "Anna",
     "text": "Das ist es wirklich.",
-    "t": 523.58
+    "t": 523.86
    },
    {
     "speaker": "Anna",
     "text": "Gut — wie viele kommen noch?",
-    "t": 524.93
+    "t": 525.21
    },
    {
     "speaker": "Tom",
     "text": "Zwei sind noch zu erwähnen.",
-    "t": 527.04
+    "t": 527.32
    },
    {
     "speaker": "Tom",
     "text": "Die fünfte ist ein Zuschuss für ältere Menschen, die Pflege brauchen.",
-    "t": 528.77
+    "t": 529.05
    },
    {
     "speaker": "Tom",
     "text": "Wenn jemand in ein Pflegeheim oder betreutes Wohnen kommt, und sein eigenes Einkommen nicht ausreicht, um die Kosten zu decken, kann der FNS helfen, die Differenz zu zahlen.",
-    "t": 532.53
+    "t": 532.81
    },
    {
     "speaker": "Tom",
     "text": "Er heißt COMPA.",
-    "t": 543.43
+    "t": 543.71
    },
    {
     "speaker": "Anna",
     "text": "Ein älterer Mensch wird also nicht von der Pflege abgewiesen, nur weil seine Rente zu klein ist.",
-    "t": 544.69
+    "t": 545.01
    },
    {
     "speaker": "Tom",
     "text": "Das ist die Idee.",
-    "t": 549.95
+    "t": 550.27
    },
    {
     "speaker": "Tom",
     "text": "Pflege nach Bedarf, und nicht nur nach Ihrem Kontostand.",
-    "t": 551.19
+    "t": 551.51
    },
    {
     "speaker": "Tom",
     "text": "Der Fonds stockt auf, was fehlt, damit die Würde im Alter geschützt ist.",
-    "t": 554.59
+    "t": 554.91
    },
    {
     "speaker": "Anna",
     "text": "Und die sechste?",
-    "t": 559.03
+    "t": 559.35
    },
    {
     "speaker": "Tom",
     "text": "Die sechste ist die Erziehungsrente.",
-    "t": 560.34
+    "t": 560.66
    },
    {
     "speaker": "Tom",
     "text": "Auf Luxemburgisch nennen die Leute sie die „Mammerent\".",
-    "t": 562.54
+    "t": 562.86
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein kleiner monatlicher Betrag für Eltern — historisch gesehen Mütter — die jahrelang Kinder großgezogen und deshalb selbst weniger Rente aufgebaut haben.",
-    "t": 565.79
+    "t": 566.11
    },
    {
     "speaker": "Anna",
     "text": "Ah — sie würdigt also die Jahre, die man dem Großziehen einer Familie gewidmet hat.",
-    "t": 575.29
+    "t": 575.61
    },
    {
     "speaker": "Tom",
     "text": "Genau. Es ist eine Art zu sagen — auch diese Arbeit war wichtig.",
-    "t": 580.35
+    "t": 580.67
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein bescheidener Betrag jeden Monat, aber er ehrt diese Jahre.",
-    "t": 585.33
+    "t": 585.65
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir sie also zusammen.",
-    "t": 589.48
+    "t": 589.8
    },
    {
     "speaker": "Anna",
     "text": "Wir haben den REVIS, das Mindesteinkommen.",
-    "t": 591.33
+    "t": 591.65
    },
    {
     "speaker": "Anna",
     "text": "Die Teuerungszulage, mit der Energieprämie und der Seniorenhilfe.",
-    "t": 594.21
+    "t": 594.53
    },
    {
     "speaker": "Anna",
     "text": "Das Einkommen für schwerbehinderte Menschen.",
-    "t": 598.51
+    "t": 598.83
    },
    {
     "speaker": "Anna",
     "text": "Den Vorschuss auf den Unterhalt.",
-    "t": 601.17
+    "t": 601.49
    },
    {
     "speaker": "Anna",
     "text": "Den Zuschuss für ältere Menschen in Pflege.",
-    "t": 603.24
+    "t": 603.56
    },
    {
     "speaker": "Anna",
     "text": "Und die Erziehungsrente, die Mammerent.",
-    "t": 605.68
+    "t": 606
    },
    {
     "speaker": "Tom",
     "text": "Sechs Hilfen, eine Stelle.",
-    "t": 608.62
+    "t": 608.94
    },
    {
     "speaker": "Tom",
     "text": "Und hinter ihnen allen eine einzige Idee — dass in Luxemburg niemand fallen gelassen werden sollte.",
-    "t": 610.59
+    "t": 610.91
    },
    {
     "speaker": "Anna",
     "text": "Tom, lass mich die praktische Frage stellen.",
-    "t": 616.5
+    "t": 616.82
    },
    {
     "speaker": "Anna",
     "text": "Wie stellt man eigentlich einen Antrag?",
-    "t": 619.18
+    "t": 619.5
    },
    {
     "speaker": "Anna",
     "text": "Das klingt, als könnte es kompliziert sein.",
-    "t": 621.66
+    "t": 621.98
    },
    {
     "speaker": "Tom",
     "text": "Es ist zugänglicher, als die Leute befürchten.",
-    "t": 624.29
+    "t": 624.61
    },
    {
     "speaker": "Tom",
     "text": "Alles beginnt auf der Webseite, f-n-s Punkt l-u.",
-    "t": 626.74
+    "t": 627.06
    },
    {
     "speaker": "Tom",
     "text": "Dort finden Sie jede Hilfe erklärt, mit den Bedingungen und den Formularen.",
-    "t": 630.82
+    "t": 631.14
    },
    {
     "speaker": "Anna",
     "text": "Und kann man es online machen?",
-    "t": 635.16
+    "t": 635.48
    },
    {
     "speaker": "Tom",
     "text": "Teilweise. Auf der Website finden Sie die Formulare — und für die Teuerungszulage diesen Online-Rechner.",
-    "t": 637.01
+    "t": 637.33
    },
    {
     "speaker": "Tom",
     "text": "Aber meistens füllen Sie ein Papierformular aus.",
-    "t": 643.72
+    "t": 644.04
    },
    {
     "speaker": "Tom",
     "text": "Sie laden es herunter oder holen es am Schalter des FNS ab, unterschreiben es, und schicken es per Post oder geben es dort ab.",
-    "t": 646.66
+    "t": 646.98
    },
    {
     "speaker": "Tom",
     "text": "Und das Office social Ihrer Gemeinde kann Ihnen beim Ausfüllen helfen.",
-    "t": 654.56
+    "t": 654.88
    },
    {
     "speaker": "Anna",
     "text": "Und wenn jemand verwirrt ist, oder nicht weiß, welche Hilfe für ihn ist?",
-    "t": 658.51
+    "t": 658.83
    },
    {
     "speaker": "Tom",
     "text": "Dann kann er den FNS direkt kontaktieren — telefonisch, per E-Mail, oder persönlich.",
-    "t": 662.92
+    "t": 663.24
    },
    {
     "speaker": "Tom",
     "text": "Die Büros sind in der rue de la Fonderie, in Luxemburg-Stadt — der Schalter ist vormittags geöffnet.",
-    "t": 668.71
+    "t": 669.03
    },
    {
     "speaker": "Tom",
     "text": "Und ehrlich gesagt ist dieser erste Anruf oft der wichtigste Schritt.",
-    "t": 674.96
+    "t": 675.28
    },
    {
     "speaker": "Tom",
     "text": "Denn viele Menschen beantragen nicht, worauf sie Anspruch haben — einfach weil sie nicht wissen, dass es das gibt.",
-    "t": 679.5
+    "t": 679.82
    },
    {
     "speaker": "Anna",
     "text": "Das ist so ein wichtiger Punkt.",
-    "t": 685.63
+    "t": 685.95
    },
    {
     "speaker": "Anna",
     "text": "Eine Hilfe, von der Sie nichts wissen, hilft Ihnen nicht.",
-    "t": 687.75
+    "t": 688.07
    },
    {
     "speaker": "Tom",
     "text": "Das ist der ganze Grund, warum wir diese Folge machen.",
-    "t": 691.41
+    "t": 691.73
    },
    {
     "speaker": "Tom",
     "text": "Es gibt Geld und Unterstützung, die warten — aber Sie müssen danach greifen.",
-    "t": 694.27
+    "t": 694.59
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es konkret, Tom.",
-    "t": 698.81
+    "t": 699.13
    },
    {
     "speaker": "Anna",
     "text": "Können wir einer Person folgen?",
-    "t": 700.42
+    "t": 700.74
    },
    {
     "speaker": "Tom",
     "text": "Natürlich. Stellen wir uns eine Frau vor — nennen wir sie Sofia.",
-    "t": 702.49
+    "t": 702.81
    },
    {
     "speaker": "Tom",
     "text": "Sie hat sich vor Kurzem getrennt, sie hat zwei kleine Kinder, und sie arbeitet in Teilzeit mit einem kleinen Lohn.",
-    "t": 707.44
+    "t": 707.76
    },
    {
     "speaker": "Anna",
     "text": "Eine sehr reale Situation.",
-    "t": 714.04
+    "t": 714.36
    },
    {
     "speaker": "Anna",
     "text": "Wo kommt der FNS für Sofia ins Spiel?",
-    "t": 716.08
+    "t": 716.4
    },
    {
     "speaker": "Tom",
     "text": "An mehreren Stellen zugleich.",
-    "t": 718.82
+    "t": 719.14
    },
    {
     "speaker": "Tom",
     "text": "Erstens — ihr Einkommen ist niedrig, also könnte sie Anspruch auf die Teuerungszulage haben, mit der Energieprämie, um ihr durchs Jahr zu helfen.",
-    "t": 720.72
+    "t": 721.04
    },
    {
     "speaker": "Anna",
     "text": "Das ist der jährliche Schub.",
-    "t": 730.31
+    "t": 730.63
    },
    {
     "speaker": "Tom",
     "text": "Ja. Zweitens — ihr Ex-Partner soll Kindesunterhalt zahlen, aber er hat aufgehört.",
-    "t": 731.97
+    "t": 732.29
    },
    {
     "speaker": "Tom",
     "text": "Also kann der FNS diesen Unterhalt vorstrecken und ihn von ihm eintreiben — damit ihren Kindern nichts fehlt.",
-    "t": 737.43
+    "t": 737.75
    },
    {
     "speaker": "Anna",
     "text": "Das nimmt ihr eine riesige Last von den Schultern.",
-    "t": 744.06
+    "t": 744.38
    },
    {
     "speaker": "Tom",
     "text": "Eine riesige Last.",
-    "t": 746.93
+    "t": 747.25
    },
    {
     "speaker": "Tom",
     "text": "Und drittens — wenn der Haushalt selbst mit ihrem Lohn noch unter dem Minimum liegt, kann der REVIS sie bis zu dieser Schwelle aufstocken — und ihr zugleich mit einer Ausbildung oder bei der Suche nach mehr Arbeit helfen.",
-    "t": 748.28
+    "t": 748.6
    },
    {
     "speaker": "Anna",
     "text": "Von einer einzigen Stelle bekommt Sofia also eine jährliche Zulage, den Unterhalt ihrer Kinder gesichert, und ein garantiertes Minimum mit einem Weg nach vorne.",
-    "t": 760.75
+    "t": 761.07
    },
    {
     "speaker": "Tom",
     "text": "Alles von einem einzigen Ort.",
-    "t": 770.51
+    "t": 770.83
    },
    {
     "speaker": "Tom",
     "text": "Das ist die Stärke eines einzigen Solidaritätsfonds.",
-    "t": 772.49
+    "t": 772.81
    },
    {
     "speaker": "Tom",
     "text": "Er kann mehrere Hilfen um dieselbe Familie legen.",
-    "t": 775.68
+    "t": 776
    },
    {
     "speaker": "Anna",
     "text": "Und der Schlüssel ist, wieder einmal, dass sie wissen muss, dass sie fragen kann.",
-    "t": 778.82
+    "t": 779.14
    },
    {
     "speaker": "Tom",
     "text": "Das ist der Schlüssel.",
-    "t": 783.56
+    "t": 783.88
    },
    {
     "speaker": "Tom",
     "text": "Deshalb gilt, wenn Sie heute eine Sache mitnehmen — dann diese.",
-    "t": 784.89
+    "t": 785.21
    },
    {
     "speaker": "Tom",
     "text": "Wenn das Geld knapp ist, leiden Sie nicht im Stillen.",
-    "t": 788.49
+    "t": 788.81
    },
    {
     "speaker": "Tom",
     "text": "Erkundigen Sie sich beim FNS.",
-    "t": 791.5
+    "t": 791.82
    },
    {
     "speaker": "Tom",
     "text": "Sie haben vielleicht Anspruch auf viel mehr, als Sie denken.",
-    "t": 793.78
+    "t": 794.1
    },
    {
     "speaker": "Anna",
     "text": "Gut, Tom, bringen wir es zum Abschluss.",
-    "t": 797.07
+    "t": 797.39
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich zuhöre, und die Dinge sind schwierig, was mache ich?",
-    "t": 799.42
+    "t": 799.74
    },
    {
     "speaker": "Tom",
     "text": "Drei einfache Schritte.",
-    "t": 803.62
+    "t": 803.94
    },
    {
     "speaker": "Tom",
     "text": "Erstens — gehen Sie auf die Webseite, f-n-s Punkt l-u.",
-    "t": 805.15
+    "t": 805.47
    },
    {
     "speaker": "Tom",
     "text": "Schauen Sie sich die Hilfen an, und sehen Sie, welche zu Ihrer Situation passen.",
-    "t": 810.19
+    "t": 810.51
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. Verstanden.",
-    "t": 814.51
+    "t": 814.83
    },
    {
     "speaker": "Tom",
     "text": "Zweitens — wenn Ihr Einkommen bescheiden ist, nutzen Sie den Teuerungszulage-Rechner und stellen Sie einen Antrag.",
-    "t": 816.9
+    "t": 817.8
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie bereits REVIS beziehen, denken Sie daran — die kommt automatisch.",
-    "t": 823.53
+    "t": 824.43
    },
    {
     "speaker": "Anna",
-    "text": "Und drittens?",
-    "t": 827.93
+    "text": "Und was ist der dritte Schritt?",
+    "t": 828.83
    },
    {
     "speaker": "Tom",
     "text": "Drittens — wenn Sie unsicher sind, kontaktieren Sie sie einfach.",
-    "t": 829.16
+    "t": 831.74
    },
    {
     "speaker": "Tom",
     "text": "Ein Anruf, eine E-Mail, ein Besuch.",
-    "t": 832.93
+    "t": 835.51
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie die Frage.",
-    "t": 835.7
+    "t": 838.44
    },
    {
     "speaker": "Tom",
     "text": "Es ist keine Schande, Solidarität in Anspruch zu nehmen — genau dafür ist der Fonds da.",
-    "t": 837.12
+    "t": 839.86
    },
    {
     "speaker": "Anna",
     "text": "Eine kurze Zusammenfassung zum Schluss?",
-    "t": 842.39
+    "t": 845.13
    },
    {
     "speaker": "Tom",
     "text": "Klar. Der Nationale Solidaritätsfonds — der FNS, fns.lu — ist Luxemburgs soziales Netz gegen die Armut.",
-    "t": 844.65
+    "t": 847.39
    },
    {
     "speaker": "Tom",
     "text": "Er verwaltet den REVIS, das garantierte Mindesteinkommen; die Teuerungszulage mit der Energieprämie und der Seniorenhilfe; ein Einkommen für schwerbehinderte Menschen; Vorschüsse auf nicht gezahlten Kindesunterhalt; einen Zuschuss für ältere Menschen in Pflege; und die Erziehungsrente, die Mammerent.",
-    "t": 853.47
+    "t": 856.71
    },
    {
     "speaker": "Tom",
     "text": "Alle Formulare finden Sie auf fns.lu — und REVIS-Bezieher bekommen die Teuerungszulage automatisch.",
-    "t": 873.97
+    "t": 877.14
    },
    {
     "speaker": "Anna",
-    "text": "Und die Botschaft für heute?",
-    "t": 881.61
+    "text": "Und was ist die wichtigste Botschaft für heute?",
+    "t": 884.93
    },
    {
     "speaker": "Tom",
     "text": "Solidarität in Luxemburg ist nicht nur ein Wort — es ist eine Stelle, mit einem Budget und einer Telefonnummer.",
-    "t": 883.41
+    "t": 887.6
    },
    {
     "speaker": "Tom",
     "text": "Wenn das Leben schwer wird, ist dieses Netz echt, und es ist für Sie da.",
-    "t": 889.82
+    "t": 894.01
    },
    {
     "speaker": "Tom",
     "text": "Sie müssen nur danach greifen.",
-    "t": 894.22
+    "t": 898.41
    },
    {
     "speaker": "Anna",
-    "text": "Also... wenn Sie, oder jemand, den Sie kennen, in Schwierigkeiten ist — merken Sie sich den Namen.",
-    "t": 896
-   },
-   {
-    "speaker": "Anna",
-    "text": "Der Nationale Solidaritätsfonds.",
-    "t": 903.58
-   },
-   {
-    "speaker": "Anna",
-    "text": "fns.lu.",
-    "t": 905.89
+    "text": "Also, wenn Sie, oder jemand, den Sie kennen, in Schwierigkeiten ist, merken Sie sich den Namen: der Nationale Solidaritätsfonds, fns.lu.",
+    "t": 900.19
    },
    {
     "speaker": "Tom",
     "text": "Ein Fonds, der alle trägt, die ihn brauchen.",
-    "t": 908.09
+    "t": 912.38
    },
    {
     "speaker": "Tom",
     "text": "Das bedeutet Solidarität.",
-    "t": 910.78
+    "t": 915.07
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über den Nationalen Solidaritätsfonds.",
-    "t": 913.02
+    "t": 917.17
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 916.61
+    "t": 920.76
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 925.54
+    "t": 929.69
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 943.87
+    "t": 948.02
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 949.57
+    "t": 953.72
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 951.82
+    "t": 955.97
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 956.71
+    "t": 960.86
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 957.86
+    "t": 962.01
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 961.07
+    "t": 965.22
    }
   ],
   "segments_lb": [
@@ -48068,452 +48013,452 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Den Nationale Solidaritéitsfong. Dat ass e schéinen Numm. Loosse mer einfach ufänken. Wat ass dat?",
+    "text": "Den Nationale Solidaritéitsfong. Dat ass e schéinen Numm. Loosse mer einfach ufänken: wat ass dat genau?",
     "t": 49.04
    },
    {
     "speaker": "Tom",
     "text": "De FNS ass en ëffentleche Büro, deem säin eenzegen Job et ass, Leit ze hëllefen, déi finanziell Schwieregkeeten hunn. En ass ënner dem Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. A seng Missioun, ganz einfach gesot, ass de Kampf géint d'Aarmut.",
-    "t": 55.1
+    "t": 55.44
    },
    {
     "speaker": "Anna",
     "text": "Dat ass also d'Sécherheetsnetz vum Land.",
-    "t": 70.29
+    "t": 70.63
    },
    {
     "speaker": "Tom",
     "text": "Dat ass genau dat richtegt Wuert. E Sécherheetsnetz. Wann engem säin Akommes ze niddreg ass, fir an Wierdegkeet ze liewen — wéinst engem Jobverloscht, enger Krankheet, dem Alter, enger Trennung, oder einfach engem klenge Loun — da ass de FNS do. Säin Doheem am Internet ass f-n-s Punkt l-u.",
-    "t": 72.71
+    "t": 73.05
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. An et ass offiziell — de Staat.",
-    "t": 87.89
+    "t": 88.23
    },
    {
     "speaker": "Tom",
     "text": "Komplett offiziell. Keng Wuelfaartsorganisatioun, kee privaten Fong. Et ass de Staat, deen d'Solidaritéit fir jiddwereen organiséiert, deen et brauch.",
-    "t": 91.53
+    "t": 91.82
    },
    {
     "speaker": "Anna",
     "text": "Gutt. Fir wie ass et dann? Wie kann un dës Dier klappen?",
-    "t": 98.83
+    "t": 98.72
    },
    {
     "speaker": "Tom",
     "text": "Virun allem Leit, déi zu Lëtzebuerg wunnen an deenen hiren Akommes bescheiden ass, oder déi an enger schwiereger Situatioun sinn. Elo — de FNS mécht net just eng Saach. En verwalt eng ganz Rei verschidde Hëllefen. Loosst mech d'Haaptsaachen duerchgoen.",
-    "t": 102.95
+    "t": 102.84
    },
    {
     "speaker": "Anna",
     "text": "Jo, loosse mer se eng no der anerer duerchgoen. Wou fänke mer un?",
-    "t": 115.86
+    "t": 116.59
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer mat der gréisster ufänken. Si heescht den Inklusiounsakommes — op Franséisch, de revenu d'inclusion sociale. Den kuerzen Numm ass REVIS.",
-    "t": 119.31
+    "t": 120.04
    },
    {
     "speaker": "Anna",
     "text": "REVIS. Wat ass dat?",
-    "t": 128.39
+    "t": 129.12
    },
    {
     "speaker": "Tom",
     "text": "REVIS ass dat garantéiert Mindestakommes. D'Iddi ass einfach awer staark — zu Lëtzebuerg soll keen ënner e gewësse Grondniveau falen. Wann ärem Stot säin Akommes ënner deem Niveau läit, da fëllt REVIS et bis dohinner op.",
-    "t": 129.89
+    "t": 130.62
    },
    {
     "speaker": "Anna",
     "text": "Et garantéiert also, datt Dir ëmmer e Minimum hutt, fir ze liewen.",
-    "t": 142.58
+    "t": 143.31
    },
    {
     "speaker": "Tom",
     "text": "Genau. E Buedem, ënner deen de Staat Iech net falen léisst. De Betrag hänkt vun ärem Stot of — wéi vill Erwuessener, wéi vill Kanner. Et gëtt e Basisbetrag fir deen éischten Erwuessenen, méi fir en zweeten Erwuessenen, an e Betrag fir all Kand.",
-    "t": 145.75
+    "t": 146.48
    },
    {
     "speaker": "Anna",
     "text": "Eng eenzel Persoun kritt also een Niveau, an eng méi grouss Famill kritt méi, well se méi brauch.",
-    "t": 159.81
+    "t": 160.75
    },
    {
     "speaker": "Tom",
     "text": "Genau. Et gëtt fir de ganze Stot berechent, an et zielt dat Akommes mat, dat Dir scho hutt. REVIS fëllt d'Lück tëscht deem, wat Dir hutt, an dem Minimum, op deen Dir e Recht hutt.",
-    "t": 165.46
+    "t": 166.4
    },
    {
     "speaker": "Anna",
-    "text": "An ass et just Geld? Oder steet do nach méi dohannert?",
-    "t": 175.71
+    "text": "An ass et just Geld, oder steet do nach méi dohannert?",
+    "t": 176.65
    },
    {
     "speaker": "Tom",
     "text": "Dat ass dat Schlaut um REVIS. Et ass net nëmmen e Scheck. D'Wuert \"Inklusioun\" ass wichteg. Et gëtt och eng Säit, déi de Leit hëlleft, erëm op d'Bee ze kommen — Aktivéierung, nennen se dat. Ënnerstëtzung, fir Aarbecht, eng Formatioun, oder eng nëtzlech Aktivitéit ze fannen, sou datt d'Hëllef eng Bréck ass, an net eng Sakgaass.",
-    "t": 178.75
+    "t": 179.51
    },
    {
     "speaker": "Anna",
     "text": "Dat gefält mer — Geld fir ze liewen, an eng Hand, fir virunzekommen.",
-    "t": 195.41
+    "t": 196.25
    },
    {
     "speaker": "Tom",
     "text": "Dat ass déi ganz Philosophie. A wann ee bei enger Aktivéierungsmoossnam matmécht — wéi gemengschaftlech Aarbecht als Deel vu sengem Plang — da kann et eng Aktivéierungsallocatioun uewendrop ginn.",
-    "t": 199.07
+    "t": 199.91
    },
    {
     "speaker": "Anna",
     "text": "Gutt. Dat ass also REVIS — d'Mindestakommes. Wat ass déi zweet grouss Hëllef?",
-    "t": 208.36
+    "t": 209.24
    },
    {
     "speaker": "Tom",
     "text": "Déi zweet ass eppes, wat vill méi Leit kënne kréien — d'Liewensdeierungszoulag. Op Franséisch, d'allocation de vie chère.",
-    "t": 213.79
+    "t": 214.67
    },
    {
     "speaker": "Anna",
     "text": "D'Liewensdeierungszoulag. Erziel mer dovun.",
-    "t": 221.11
+    "t": 221.99
    },
    {
     "speaker": "Tom",
     "text": "Et ass eng jäerlech Bezuelung, fir Stéit mat bescheidenem Akommes mat deene klammende Käschte vum Alldag ze hëllefen. An hei ass de Schlëssel — Dir musst net op REVIS sinn, fir se ze kréien. Dir kënnt schaffen, e klengen oder mëttlere Loun hunn, an trotzdeem en Usproch hunn, soulaang ärem Akommes ënner enger gewësser Grenz läit.",
-    "t": 224.36
+    "t": 225.24
    },
    {
     "speaker": "Anna",
     "text": "Ah, dat erreecht also vill gewéinlech Stéit — Leit, déi schaffen, awer fir déi all Euro zielt.",
-    "t": 240.24
+    "t": 241.12
    },
    {
     "speaker": "Tom",
     "text": "Genau. An de Betrag hänkt vun der Gréisst vun ärem Stot of. Eng eenzel Persoun kritt ee Betrag, e Koppel méi, eng Famill nach méi. Fir eng eenzel Persoun sinn et méi wéi dausendaachthonnert Euro d'Joer — a méi fir méi grouss Stéit.",
-    "t": 246.86
+    "t": 247.74
    },
    {
     "speaker": "Anna",
     "text": "Dat ass eng richteg, bedeitend Zomm. An Dir sot, datt do nach méi drun hänkt?",
-    "t": 261.8
+    "t": 262.68
    },
    {
     "speaker": "Tom",
     "text": "Jo — an dat ass wichteg mat den Energiepräisser vun haut. Zesumme mat der Liewensdeierungszoulag gëtt et eng prime énergie — extra Hëllef mat de Käschte fir d'Heizung an de Stroum. A fir eeler Leit mat engem klengen Akommes kann et och eng extra finanziell Hëllef fir Senioren ginn.",
-    "t": 266.02
+    "t": 266.9
    },
    {
     "speaker": "Anna",
     "text": "Eng Demande kann also dräi Diere opmaachen — Liewensdeierung, Energie, an Senioren-Hëllef.",
-    "t": 282.69
+    "t": 283.57
    },
    {
     "speaker": "Tom",
     "text": "Eng Demande, jo. An hei ass en wonnerbaren Detail — wann Dir scho REVIS kritt, da musst Dir net emol eng Demande maachen. D'Liewensdeierungszoulag, d'prime énergie, an d'Senioren-Hëllef kommen automatesch zu Iech.",
-    "t": 288.22
+    "t": 289.1
    },
    {
     "speaker": "Anna",
     "text": "Dat ass duerchduecht — déi Leit, déi et am meeschte brauchen, mussen net nach e Formulaire ausfëllen.",
-    "t": 300.21
+    "t": 301.09
    },
    {
     "speaker": "Tom",
     "text": "Richteg. An et kënnt eng Ännerung. D'Regierung plangt, dës dräi Hëllefen — plus eng nei Hëllef fir Famillje mat Schoulkanner — ab 2027 zu enger eenzeger zesummenzeleeën, dem complément vie chère. Da misst Dir nëmmen nach eng Kéier eng Demande maachen, an d'Hëllef géif weidergoen, soulaang wéi Dir en Usproch hutt. D'Gesetz gëtt nach an der Chamber diskutéiert — kuckt also op f-n-s Punkt l-u fir déi neist Informatiounen. Bis dohin maachen all déi aner eng Demande mat engem Formulaire — a wann Dir se d'lescht Joer kritt hutt, schéckt de FNS Iech um Enn vum Joer e virausgefëllte Formulaire. An de FNS huet souguer e Rechner um Internet, sou datt Dir kontrolléiere kënnt, ob Dir en Usproch hutt, ier Dir d'Demande maacht.",
-    "t": 304.78
+    "t": 305.66
    },
    {
     "speaker": "Anna",
     "text": "E Rechner — dat ass wierklech hëllefräich, sou datt Dir net blann eng Demande maacht. Gutt Tom — wat steet als nächst op der Lëscht?",
-    "t": 339.95
+    "t": 340.83
    },
    {
     "speaker": "Tom",
     "text": "Déi drëtt Hëllef ass fir Leit, déi mat enger schwéierer Behënnerung liewen. Et ass den Akommes fir schwéier behënnert Persounen — op Franséisch, de revenu pour personnes gravement handicapées.",
-    "t": 346.69
+    "t": 347.57
    },
    {
     "speaker": "Anna",
     "text": "En eegenen Akommes also fir Leit, déi wéinst enger schwéierer Behënnerung net schaffe kënnen.",
-    "t": 357.1
+    "t": 353.92
    },
    {
     "speaker": "Tom",
     "text": "Genau. Fir eng Persoun, deem hir Behënnerung heescht, datt si um normale Aarbechtsmaart net hire Liewensënnerhalt verdénge kann, gëtt de FNS e garantéierten Akommes, sou datt och si e sécheren Buedem ënner de Féiss hunn.",
-    "t": 361.83
+    "t": 358.65
    },
    {
     "speaker": "Anna",
     "text": "Dat ass Solidaritéit am richtege Sënn. Wat kënnt duerno?",
-    "t": 373.21
+    "t": 370.03
    },
    {
     "speaker": "Tom",
     "text": "Déi véiert ass ganz anescht, a ganz praktesch. Et geet ëm Ënnerhaltszuelungen — wat en Elterendeel fir säi Kand nom enger Trennung soll bezuelen. Op Franséisch, d'pension alimentaire.",
-    "t": 377.07
+    "t": 373.89
    },
    {
     "speaker": "Anna",
     "text": "Ah — Kannerënnerhalt. A wat geschitt, wann en net bezuelt gëtt?",
-    "t": 389.09
+    "t": 385.91
    },
    {
     "speaker": "Tom",
     "text": "Dat ass genau de Problem, deen de FNS léist. Stellt Iech en getrennten Elterendeel vir — dacks eng Mamm — déi en Usproch op Kannerënnerhalt huet, awer deen aneren Elterendeel bezuelt einfach net. D'Kand leit drënner. Sou kann de FNS aspréngen, an dat Geld virschéissen.",
-    "t": 393.16
+    "t": 389.43
    },
    {
     "speaker": "Anna",
     "text": "Waart — de Staat bezuelt also den Ënnerhalt, deen deen aneren Elterendeel net bezuelt huet?",
-    "t": 407.77
+    "t": 403.89
    },
    {
     "speaker": "Tom",
     "text": "Bannent gewësse Grenzen a Konditiounen, jo. De FNS schéisst den net bezuelten Ënnerhalt vir, sou datt d'Kand an den Elterendeel net mat näischt do stinn. An dann — dat ass dat Schlaut — geet de FNS hannert deem Elterendeel hier, deen net bezuelt huet, fir d'Geld erëmzekréien. Dofir brauch een eng Geriichtsentscheedung, déi den Ënnerhalt festleet — an en Huissier muss fir d'éischt probéiert hunn, en anzedreiwen.",
-    "t": 412.01
+    "t": 408.13
    },
    {
     "speaker": "Anna",
     "text": "De Staat handelt also als eng Aart Garant, an dann mécht en d'Verfollegung selwer.",
-    "t": 433.73
+    "t": 430.32
    },
    {
     "speaker": "Tom",
     "text": "Genau. Den uerme Elterendeel muss net eleng kämpfen. De FNS hëlt déi Laascht op sech. Dat ass eng vun de mënschlechste Saachen, déi de Fong mécht.",
-    "t": 438.47
+    "t": 435.06
    },
    {
     "speaker": "Anna",
     "text": "Dat ass et wierklech. Gutt — wéi vill nach?",
-    "t": 446.9
+    "t": 443.49
    },
    {
     "speaker": "Tom",
     "text": "Zwou nach ze ernimmen. Déi fënnef ass eng Ergänzung fir eeler Leit, déi Fleeg brauchen. Wann ee an en Altersheem geet, oder an en assistéiert Wunnen, an hiren eegenen Akommes net duergeet, fir d'Käschten ze decken, da kann de FNS hëllefen, den Ënnerscheed ze bezuelen. Et heescht COMPA.",
-    "t": 449.81
+    "t": 446.4
    },
    {
     "speaker": "Anna",
     "text": "Eng eeler Persoun gëtt also net vun der Fleeg ofgewisen, just well hir Pensioun ze kleng ass.",
-    "t": 464.24
+    "t": 460.83
    },
    {
     "speaker": "Tom",
     "text": "Dat ass d'Iddi. Fleeg no Bedierfnes, net just no ärem Bankkonto. De Fong fëllt dat op, wat feelt, sou datt d'Wierdegkeet am Alter geschützt ass.",
-    "t": 469.53
+    "t": 466.11
    },
    {
     "speaker": "Anna",
     "text": "An déi sechst?",
-    "t": 478.57
+    "t": 475.15
    },
    {
     "speaker": "Tom",
     "text": "Déi sechst ass d'Kannererzéiungspensioun. Op Lëtzebuergesch nennen d'Leit se d'\"Mammerent\". Et ass e klenge méindleche Betrag fir Elteren — historesch fir Mammen — déi Jore laang Kanner grouss gezunn hunn an doduerch manner eege Pensioun opgebaut hunn.",
-    "t": 479.88
+    "t": 476.46
    },
    {
     "speaker": "Anna",
     "text": "Ah — et erkennt also déi Joren un, déi een dem Grousszéie vun enger Famill gewidmet huet.",
-    "t": 493.07
+    "t": 489.65
    },
    {
     "speaker": "Tom",
     "text": "Genau. Et ass eng Manéier ze soen — déi Aarbecht huet och gezielt. Et ass e bescheidene Betrag all Mount, awer en éiert déi Joren.",
-    "t": 496.97
+    "t": 493.55
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer se zesummefaassen. Mir hunn REVIS, d'Mindestakommes. D'Liewensdeierungszoulag, mat der prime énergie an der Senioren-Hëllef. Den Akommes fir schwéier behënnert Persounen. De Virschoss op d'Ënnerhaltszuelungen. D'Ergänzung fir eeler Leit an der Fleeg. An d'Kannererzéiungspensioun, d'Mammerent.",
-    "t": 504.46
+    "t": 501.04
    },
    {
     "speaker": "Tom",
     "text": "Sechs Hëllefen, ee Büro. An hannert hinnen alleguer, eng eenzeg Iddi — datt zu Lëtzebuerg keen soll falegelooss ginn.",
-    "t": 523.44
+    "t": 520.03
    },
    {
     "speaker": "Anna",
     "text": "Tom, loosst mech déi praktesch Fro stellen. Wéi mécht ee wierklech eng Demande? Et kléngt, wéi wann et komplizéiert kéint sinn.",
-    "t": 531.1
+    "t": 527.69
    },
    {
     "speaker": "Tom",
     "text": "Et ass méi zougänglech, wéi d'Leit fäerten. Alles fänkt um Internetsite un, f-n-s Punkt l-u. Do fannt Dir all Hëllef erkläert, mat de Konditiounen, an de Formulairen.",
-    "t": 538.28
+    "t": 534.87
    },
    {
     "speaker": "Anna",
     "text": "A kann een et online maachen?",
-    "t": 547.52
+    "t": 544.11
    },
    {
     "speaker": "Tom",
     "text": "Deelweis. Um Internetsite fannt Dir d'Formulairen — a fir d'Liewensdeierungszoulag dee Rechner um Internet. Mee meeschtens fëllt Dir e Pabeierformulaire aus. Dir luet en erof, oder huelt en um Guichet vum FNS, ënnerschreift en, a schéckt en per Post oder gitt en do of. An den Office social vun Ärer Gemeng kann Iech hëllefen, en auszefëllen.",
-    "t": 549.28
+    "t": 545.87
    },
    {
     "speaker": "Anna",
     "text": "A wann een duercherneen ass, oder net weess, wéi eng Hëllef fir hie passt?",
-    "t": 567.18
+    "t": 563.77
    },
    {
     "speaker": "Tom",
     "text": "Da kann en de FNS direkt kontaktéieren — iwwer Telefon, iwwer E-Mail, oder perséinlech. D'Büroe sinn op der rue de la Fonderie, an der Stad Lëtzebuerg — de Guichet ass moies op. An éierlech gesot, deen éischten Telefonsuruff ass dacks de wichtegste Schrëtt. Well vill Leit froen net no deem, op wat se e Recht hunn — einfach well se net wëssen, datt et existéiert.",
-    "t": 571.09
+    "t": 567.68
    },
    {
     "speaker": "Anna",
     "text": "Dat ass sou e wichtege Punkt. Hëllef, vun där Dir net wësst, hëlleft Iech net.",
-    "t": 591.55
+    "t": 588.14
    },
    {
     "speaker": "Tom",
     "text": "Dat ass de ganze Grond, firwat mer dës Episod maachen. Et ass Geld an Ënnerstëtzung do, déi waarden — awer Dir musst d'Hand duerno ausstrecken.",
-    "t": 596.21
+    "t": 592.8
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer et real maachen, Tom. Kënne mer enger eenzeler Persoun nogoen?",
-    "t": 602.28
+    "t": 598.87
    },
    {
     "speaker": "Tom",
     "text": "Natierlech. Stelle mer eis eng Fra vir — nenne mer se Sofia. Si ass viru kuerzem getrennt, si huet zwee kleng Kanner, an si schafft Deelzäit fir e klenge Loun.",
-    "t": 605.7
+    "t": 602.28
    },
    {
     "speaker": "Anna",
     "text": "Eng ganz real Situatioun. Wou kënnt de FNS fir d'Sofia an d'Spill?",
-    "t": 615.17
+    "t": 611.75
    },
    {
     "speaker": "Tom",
     "text": "Op verschiddene Plazen op eemol. Fir d'éischt — hiren Akommes ass niddreg, sou datt si en Usproch op d'Liewensdeierungszoulag kéint hunn, mat der prime énergie, fir hir duerch d'Joer ze hëllefen.",
-    "t": 619.47
+    "t": 616.05
    },
    {
     "speaker": "Anna",
     "text": "Dat ass deen jäerleche Boost.",
-    "t": 628.13
+    "t": 624.88
    },
    {
     "speaker": "Tom",
     "text": "Jo. Fir d'zweet — hiren Ex-Partner sollt Kannerënnerhalt bezuelen, awer en huet opgehalen. Sou kann de FNS deen Ënnerhalt virschéissen, an hannert him hiergoen — sou datt hir Kanner net ouni dostinn.",
-    "t": 629.87
+    "t": 626.62
    },
    {
     "speaker": "Anna",
     "text": "Dat hëlt eng riseg Laascht vun hire Schëlleren.",
-    "t": 640.87
+    "t": 637.62
    },
    {
     "speaker": "Tom",
     "text": "Eng riseg Laascht. A fir d'drëtt — wann de Stot souguer mat hirem Loun nach ënner dem Minimum ass, da kann REVIS hir bis op deen Buedem opfëllen — an zur selwechter Zäit hir mat enger Formatioun oder mam méi Aarbecht fannen hëllefen.",
-    "t": 643.29
+    "t": 640.04
    },
    {
     "speaker": "Anna",
     "text": "Vun engem eenzege Büro kritt d'Sofia also eng jäerlech Zoulag, den Ënnerhalt fir hir Kanner geséchert, an e garantéierte Minimum mat engem Wee no vir.",
-    "t": 656.13
+    "t": 652.88
    },
    {
     "speaker": "Tom",
     "text": "Alles vun enger eenzeger Plaz. Dat ass d'Kraaft, en eenzege Solidaritéitsfong ze hunn. En kann e puer Ënnerstëtzunge ronderëm déiselwecht Famill leeën.",
-    "t": 664.14
+    "t": 660.89
    },
    {
     "speaker": "Anna",
     "text": "An de Schlëssel ass erëm, datt si muss wëssen, fir ze froen.",
-    "t": 671.29
+    "t": 668.04
    },
    {
     "speaker": "Tom",
     "text": "Dat ass de Schlëssel. An dofir, wann Dir eng Saach vun haut mathuelt — da ass et dës. Wann d'Geld knapp ass, leit net a Stëllt. Kuckt beim FNS no. Dir kéint e Recht op vill méi hunn, wéi Dir denkt.",
-    "t": 674.8
+    "t": 671.55
    },
    {
     "speaker": "Anna",
     "text": "Gutt Tom, loosse mer et ofschléissen. Wann ech nolauschteren, an d'Saache si schwéier, wat maachen ech?",
-    "t": 686.89
+    "t": 683.6
    },
    {
     "speaker": "Tom",
     "text": "Dräi einfach Schrëtt. Fir d'éischt — gitt op den Internetsite, f-n-s Punkt l-u. Kuckt der d'Hëllefen un, a kuckt, wéi eng zu ärer Situatioun passen.",
-    "t": 692.16
+    "t": 688.87
    },
    {
     "speaker": "Anna",
     "text": "fns.lu. Verstanen.",
-    "t": 700.42
+    "t": 697.13
    },
    {
     "speaker": "Tom",
     "text": "Fir d'zweet — wann ärem Akommes bescheiden ass, benotzt de Liewensdeierungs-Rechner, a maacht eng Demande. A wann Dir scho REVIS kritt, da denkt drun — déi do kënnt automatesch.",
-    "t": 702.51
+    "t": 699.27
    },
    {
     "speaker": "Anna",
-    "text": "A fir d'drëtt?",
-    "t": 712.02
+    "text": "A wat ass den drëtte Schrëtt?",
+    "t": 708.78
    },
    {
     "speaker": "Tom",
     "text": "Fir d'drëtt — wann Dir net sécher sidd, kontaktéiert se einfach. En Telefonsuruff, eng E-Mail, e Besuch. Stellt d'Fro. Et ass keng Schan an der Solidaritéit — dofir ass de Fong wuertwiertlech do.",
-    "t": 713.19
+    "t": 710.49
    },
    {
     "speaker": "Anna",
     "text": "E kuerze Resumé fir ofzeschléissen?",
-    "t": 723.05
+    "t": 720.63
    },
    {
     "speaker": "Tom",
     "text": "Gär. Den Nationale Solidaritéitsfong — de FNS, fns.lu — ass d'Sécherheetsnetz vu Lëtzebuerg géint d'Aarmut. En verwalt REVIS, dat garantéiert Mindestakommes; d'Liewensdeierungszoulag mat der prime énergie an der Senioren-Hëllef; en Akommes fir schwéier behënnert Persounen; Virschëss op net bezuelten Kannerënnerhalt; eng Ergänzung fir eeler Leit an der Fleeg; an d'Kannererzéiungspensioun, d'Mammerent. All d'Formulairen fannt Dir op fns.lu — an d'REVIS-Empfänger kréien d'Liewensdeierungszoulag automatesch.",
-    "t": 724.85
+    "t": 722.43
    },
    {
     "speaker": "Anna",
-    "text": "An d'Botschaft fir haut?",
-    "t": 755.68
+    "text": "A wat ass déi wichtegst Botschaft fir haut?",
+    "t": 754.37
    },
    {
     "speaker": "Tom",
     "text": "Solidaritéit zu Lëtzebuerg ass net just e Wuert — et ass e Büro, mat engem Budget, an enger Telefonsnummer. Wann d'Liewen schwéier gëtt, ass dat Netz real, an et ass do fir Iech. Dir musst just d'Hand duerno ausstrecken.",
-    "t": 757.38
+    "t": 757.37
    },
    {
     "speaker": "Anna",
-    "text": "Also... wann Dir, oder een, deen Dir kennt, Schwieregkeeten huet — denkt un den Numm. Den Nationale Solidaritéitsfong. fns.lu.",
-    "t": 769.08
+    "text": "Also, wann Dir, oder een, deen Dir kennt, Schwieregkeeten huet, denkt un den Numm: den Nationale Solidaritéitsfong, fns.lu.",
+    "t": 769.47
    },
    {
     "speaker": "Tom",
     "text": "Ee Fong, deen jiddwereen hält, deen et brauch. Dat heescht Solidaritéit.",
-    "t": 778.53
+    "t": 777.35
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer den Nationale Solidaritéitsfong. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 783.16
+    "t": 781.98
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 827.8
+    "t": 826.62
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 831.01
+    "t": 829.83
    }
   ],
   "audio_fr": "podcast_fns_fr.mp3",
-  "duration_fr": 846.94,
+  "duration_fr": 848.46,
   "title_fr": "Le Fonds national de solidarité – le filet de sécurité du Luxembourg",
   "description_fr": "Le Fonds national de solidarité (FNS, fns.lu) est le filet de sécurité du Luxembourg contre la pauvreté. Il gère le revenu d'inclusion sociale (REVIS), l'allocation de vie chère avec la prime énergie et l'aide aux personnes âgées, un revenu pour personnes gravement handicapées, des avances sur pensions alimentaires impayées, un complément pour les personnes âgées en soins, et la pension pour l'éducation des enfants (« Mammerent »). Formulaires et calculateur en ligne sur fns.lu – et les bénéficiaires du REVIS reçoivent l'allocation de vie chère automatiquement.",
   "topics_fr": [
@@ -48584,7 +48529,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_fns_de.mp3",
-  "duration_de": 962.61,
+  "duration_de": 966.77,
   "title_de": "Der Nationale Solidaritätsfonds – Luxemburgs soziales Netz",
   "description_de": "Der Nationale Solidaritätsfonds (Fonds national de solidarité, FNS, fns.lu) ist Luxemburgs soziales Netz gegen Armut. Er verwaltet das Eingliederungseinkommen (REVIS), die Teuerungszulage mit der Energieprämie und der Seniorenhilfe, ein Einkommen für schwer behinderte Menschen, Vorschüsse auf nicht gezahlte Unterhaltsleistungen, einen Zuschlag für ältere Menschen in Pflege und die Erziehungspension („Mammerent“). Formulare und Online-Rechner auf fns.lu – und REVIS-Empfänger erhalten die Teuerungszulage automatisch.",
   "topics_de": [

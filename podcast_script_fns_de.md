@@ -18,7 +18,7 @@
 
 **TOM:** Sie heißt der Nationale Solidaritätsfonds. Die Leute sagen oft nur den kurzen Namen — F-N-S.
 
-**ANNA:** Der Nationale Solidaritätsfonds. Das ist ein schöner Name. Fangen wir einfach an. Was ist das?
+**ANNA:** Der Nationale Solidaritätsfonds. Das ist ein schöner Name. Fangen wir einfach an: Was ist das genau?
 
 **TOM:** Der FNS ist eine öffentliche Stelle, deren ganze Aufgabe es ist, Menschen zu helfen, die finanziell in Schwierigkeiten sind. Er gehört zum Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Und seine Aufgabe ist, ganz einfach gesagt, der Kampf gegen die Armut.
 
@@ -50,7 +50,7 @@
 
 **TOM:** Ganz genau. Es wird für den gesamten Haushalt berechnet, und es zählt das Einkommen mit, das Sie bereits haben. Der REVIS füllt die Lücke zwischen dem, was Sie haben, und dem Minimum, auf das Sie Anspruch haben.
 
-**ANNA:** Und ist es nur Geld? Oder steckt mehr dahinter?
+**ANNA:** Und ist es nur Geld, oder steckt mehr dahinter?
 
 **TOM:** Das ist der clevere Teil des REVIS. Es ist nicht nur ein Scheck. Das Wort „Eingliederung" ist wichtig. Es gibt auch eine Seite, die Menschen hilft, wieder auf die Beine zu kommen — Aktivierung, nennt man das. Unterstützung, um Arbeit, eine Ausbildung oder eine nützliche Tätigkeit zu finden, damit die Hilfe eine Brücke ist und keine Sackgasse.
 
@@ -174,7 +174,7 @@
 
 **TOM:** Zweitens — wenn Ihr Einkommen bescheiden ist, nutzen Sie den Teuerungszulage-Rechner und stellen Sie einen Antrag. Und wenn Sie bereits REVIS beziehen, denken Sie daran — die kommt automatisch.
 
-**ANNA:** Und drittens?
+**ANNA:** Und was ist der dritte Schritt?
 
 **TOM:** Drittens — wenn Sie unsicher sind, kontaktieren Sie sie einfach. Ein Anruf, eine E-Mail, ein Besuch. Stellen Sie die Frage. Es ist keine Schande, Solidarität in Anspruch zu nehmen — genau dafür ist der Fonds da.
 
@@ -182,11 +182,11 @@
 
 **TOM:** Klar. Der Nationale Solidaritätsfonds — der FNS, fns.lu — ist Luxemburgs soziales Netz gegen die Armut. Er verwaltet den REVIS, das garantierte Mindesteinkommen; die Teuerungszulage mit der Energieprämie und der Seniorenhilfe; ein Einkommen für schwerbehinderte Menschen; Vorschüsse auf nicht gezahlten Kindesunterhalt; einen Zuschuss für ältere Menschen in Pflege; und die Erziehungsrente, die Mammerent. Alle Formulare finden Sie auf fns.lu — und REVIS-Bezieher bekommen die Teuerungszulage automatisch.
 
-**ANNA:** Und die Botschaft für heute?
+**ANNA:** Und was ist die wichtigste Botschaft für heute?
 
 **TOM:** Solidarität in Luxemburg ist nicht nur ein Wort — es ist eine Stelle, mit einem Budget und einer Telefonnummer. Wenn das Leben schwer wird, ist dieses Netz echt, und es ist für Sie da. Sie müssen nur danach greifen.
 
-**ANNA:** Also... wenn Sie, oder jemand, den Sie kennen, in Schwierigkeiten ist — merken Sie sich den Namen. Der Nationale Solidaritätsfonds. fns.lu.
+**ANNA:** Also, wenn Sie, oder jemand, den Sie kennen, in Schwierigkeiten ist, merken Sie sich den Namen: der Nationale Solidaritätsfonds, fns.lu.
 
 **TOM:** Ein Fonds, der alle trägt, die ihn brauchen. Das bedeutet Solidarität.
 

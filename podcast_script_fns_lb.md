@@ -18,7 +18,7 @@
 
 **TOM:** En heescht den Nationale Solidaritéitsfong. Op Franséisch, de Fonds national de solidarité. D'Leit soen dacks just den kuerzen Numm — F-N-S.
 
-**ANNA:** Den Nationale Solidaritéitsfong. Dat ass e schéinen Numm. Loosse mer einfach ufänken. Wat ass dat?
+**ANNA:** Den Nationale Solidaritéitsfong. Dat ass e schéinen Numm. Loosse mer einfach ufänken: wat ass dat genau?
 
 **TOM:** De FNS ass en ëffentleche Büro, deem säin eenzegen Job et ass, Leit ze hëllefen, déi finanziell Schwieregkeeten hunn. En ass ënner dem Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. A seng Missioun, ganz einfach gesot, ass de Kampf géint d'Aarmut.
 
@@ -50,7 +50,7 @@
 
 **TOM:** Genau. Et gëtt fir de ganze Stot berechent, an et zielt dat Akommes mat, dat Dir scho hutt. REVIS fëllt d'Lück tëscht deem, wat Dir hutt, an dem Minimum, op deen Dir e Recht hutt.
 
-**ANNA:** An ass et just Geld? Oder steet do nach méi dohannert?
+**ANNA:** An ass et just Geld, oder steet do nach méi dohannert?
 
 **TOM:** Dat ass dat Schlaut um REVIS. Et ass net nëmmen e Scheck. D'Wuert "Inklusioun" ass wichteg. Et gëtt och eng Säit, déi de Leit hëlleft, erëm op d'Bee ze kommen — Aktivéierung, nennen se dat. Ënnerstëtzung, fir Aarbecht, eng Formatioun, oder eng nëtzlech Aktivitéit ze fannen, sou datt d'Hëllef eng Bréck ass, an net eng Sakgaass.
 
@@ -174,7 +174,7 @@
 
 **TOM:** Fir d'zweet — wann ärem Akommes bescheiden ass, benotzt de Liewensdeierungs-Rechner, a maacht eng Demande. A wann Dir scho REVIS kritt, da denkt drun — déi do kënnt automatesch.
 
-**ANNA:** A fir d'drëtt?
+**ANNA:** A wat ass den drëtte Schrëtt?
 
 **TOM:** Fir d'drëtt — wann Dir net sécher sidd, kontaktéiert se einfach. En Telefonsuruff, eng E-Mail, e Besuch. Stellt d'Fro. Et ass keng Schan an der Solidaritéit — dofir ass de Fong wuertwiertlech do.
 
@@ -182,11 +182,11 @@
 
 **TOM:** Gär. Den Nationale Solidaritéitsfong — de FNS, fns.lu — ass d'Sécherheetsnetz vu Lëtzebuerg géint d'Aarmut. En verwalt REVIS, dat garantéiert Mindestakommes; d'Liewensdeierungszoulag mat der prime énergie an der Senioren-Hëllef; en Akommes fir schwéier behënnert Persounen; Virschëss op net bezuelten Kannerënnerhalt; eng Ergänzung fir eeler Leit an der Fleeg; an d'Kannererzéiungspensioun, d'Mammerent. All d'Formulairen fannt Dir op fns.lu — an d'REVIS-Empfänger kréien d'Liewensdeierungszoulag automatesch.
 
-**ANNA:** An d'Botschaft fir haut?
+**ANNA:** A wat ass déi wichtegst Botschaft fir haut?
 
 **TOM:** Solidaritéit zu Lëtzebuerg ass net just e Wuert — et ass e Büro, mat engem Budget, an enger Telefonsnummer. Wann d'Liewen schwéier gëtt, ass dat Netz real, an et ass do fir Iech. Dir musst just d'Hand duerno ausstrecken.
 
-**ANNA:** Also... wann Dir, oder een, deen Dir kennt, Schwieregkeeten huet — denkt un den Numm. Den Nationale Solidaritéitsfong. fns.lu.
+**ANNA:** Also, wann Dir, oder een, deen Dir kennt, Schwieregkeeten huet, denkt un den Numm: den Nationale Solidaritéitsfong, fns.lu.
 
 **TOM:** Ee Fong, deen jiddwereen hält, deen et brauch. Dat heescht Solidaritéit.
 

@@ -407,3 +407,10 @@ Tom said "So Tom, let's make it practical" in agriculture, amenagement, cepas, c
 ## ONIS pitch pass (17 Nov 2026)
 
 Jacques: "Exactly. It's dignity…" sounded off. EN line reworded "Exactly — it gives dignity and preparation at the same time." (metrics rated the old take normal; trust the ear). `voice_qc.py` now also flags statements whose melody rises at the end (`tail`), and `best_take.py` penalises a rising end on statements. Retakes kept: EN 16, FR 18, DE 11. ≈ 5,400 credits. FR "Le REVIS a deux facettes." still a known ASR false positive.
+
+## FNS voice fixes (17 Nov 2026)
+
+- EN "Now — the FNS doesn't…" ("Now" was cut) → "Now, the FNS…" (p(Now) 0.96). EN French term "revenu pour personnes gravement handicapées" removed (DE/LB keep it).
+- Closing "…The National Solidarity Fund. fns.lu." — the lone "fns.lu." was cut off → one sentence "…remember the name: the National Solidarity Fund, fns.lu." (EN/FR/DE/LB). New rule `fns` → "F-N-S" (all languages, like `cae`).
+- Short questions made fuller (EN/FR/DE/LB): "Let's start simply: what exactly is it?", "And is it only money, or is there more to it?", "And what's the third step?", "And what's the one message to remember from today?".
+- Voice QC EN/FR/DE + retakes (EN 13, FR 7, DE 7). `best_take.py` now saves after each sentence (long FR sentences can hit the 180 s limit). ≈ 6,500 credits. EN 13:52, FR 14:08, DE 16:07.

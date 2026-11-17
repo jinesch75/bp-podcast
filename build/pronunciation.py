@@ -96,6 +96,8 @@ def rules(lang):
         (r"\b(" + dot + r") lu\b", r"\1 L-U"),
         # cae.lu (Zukunftskeess) always spelled out: "C-A-E dot L-U" (Jacques, 2026-11-16)
         (r"\bcae\b", "C-A-E"),
+        # fns.lu likewise spelled out: "F-N-S dot L-U" (Jacques, 2026-11-17; "fns.lu" was cut off)
+        (r"\bfns\b", "F-N-S"),
         # GouvID app (fact-check 2026-11-02): "Gouv I-D"
         (r"\bGouvID\b", "Gouv I-D"),
         (r"(\w)\.(com|net|org|eu)\b", r"\1 " + dot + r" \2"),
