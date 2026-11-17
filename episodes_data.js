@@ -52590,7 +52590,7 @@ const EPISODES = [
   "title": "The Observatoire de l'Habitat – Understanding Luxembourg's Housing Market",
   "description": "What the Observatoire de l'Habitat is, what it watches (sale prices, rents, land and affordability), where its reliable data comes from (notarial deeds), its partnership with the research institute LISER, and how anyone can explore housing prices by commune on data.public.lu.",
   "audio": "podcast_habitat.mp3",
-  "duration": 587,
+  "duration": 587.1,
   "topics": [
    "What the Observatoire de l'Habitat is",
    "Created in 2003, Ministry of Housing",
@@ -52734,548 +52734,548 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "It has a key partner... a research institute called LISER.",
-    "t": 108.45
+    "text": "It has a key partner: a research institute called LISER.",
+    "t": 108.23
    },
    {
     "speaker": "Tom",
     "text": "LISER is the Luxembourg Institute of Socio-Economic Research.",
-    "t": 112.56
+    "t": 112.67
    },
    {
     "speaker": "Tom",
     "text": "It is a public research centre.",
-    "t": 116.51
+    "t": 116.43
    },
    {
     "speaker": "Tom",
     "text": "And for the sale-price statistics, the Observatoire also works hand in hand with STATEC, the national statistics institute.",
-    "t": 118.47
+    "t": 118.39
    },
    {
     "speaker": "Anna",
     "text": "They bring scientific rigour... proper methods, careful analysis.",
-    "t": 125.78
+    "t": 126.1
    },
    {
     "speaker": "Anna",
     "text": "So the numbers you get are solid, not guesses.",
-    "t": 129.9
+    "t": 130.22
    },
    {
     "speaker": "Tom",
     "text": "Good. So what does the Observatoire actually watch?",
-    "t": 133.01
+    "t": 133.33
    },
    {
     "speaker": "Tom",
     "text": "What does it measure?",
-    "t": 136.41
+    "t": 136.73
    },
    {
     "speaker": "Anna",
     "text": "Several things. First, the sale prices of homes... how much it costs to buy.",
-    "t": 137.82
+    "t": 138.14
    },
    {
     "speaker": "Tom",
     "text": "Second, rents... how much it costs to rent a home.",
-    "t": 143.17
+    "t": 143.49
    },
    {
     "speaker": "Anna",
     "text": "Third, the price of land... building land, where new homes can go.",
-    "t": 146.3
+    "t": 146.62
    },
    {
     "speaker": "Tom",
     "text": "And it goes further than just prices, doesn't it?",
-    "t": 151.35
+    "t": 151.67
    },
    {
     "speaker": "Anna",
     "text": "Yes. It also studies how much building land is actually available, and who owns it.",
-    "t": 153.65
+    "t": 153.97
    },
    {
     "speaker": "Tom",
     "text": "That's called land observation, or in French, the \"observation foncière\".",
-    "t": 158.99
+    "t": 159.31
    },
    {
     "speaker": "Tom",
     "text": "They even do a kind of census of building land.",
-    "t": 163.86
+    "t": 163.96
    },
    {
     "speaker": "Anna",
     "text": "It also follows how many new homes are being produced, year after year.",
-    "t": 166.68
+    "t": 166.94
    },
    {
     "speaker": "Tom",
     "text": "And there is a more human side too... the social and economic side.",
-    "t": 171.04
+    "t": 171.3
    },
    {
     "speaker": "Anna",
     "text": "Right. The Observatoire studies housing affordability... whether people can actually afford to live where they need to.",
-    "t": 175.14
+    "t": 175.4
    },
    {
     "speaker": "Tom",
     "text": "And it looks at how public policies affect the cost of housing.",
-    "t": 182.02
+    "t": 182.28
    },
    {
     "speaker": "Tom",
     "text": "So it's not just numbers, it's about real life.",
-    "t": 186.16
+    "t": 186.42
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about where these numbers come from, because that's important for trust.",
-    "t": 188.97
+    "t": 189.23
    },
    {
     "speaker": "Tom",
     "text": "Yes. If you give people figures, they want to know the figures are real.",
-    "t": 193.53
+    "t": 193.79
    },
    {
     "speaker": "Anna",
     "text": "So, for sale prices, the data comes from notarial deeds.",
-    "t": 198.22
+    "t": 198.48
    },
    {
     "speaker": "Anna",
     "text": "Every time a property is sold, a notary records it officially.",
-    "t": 203.11
+    "t": 203.37
    },
    {
     "speaker": "Tom",
     "text": "Those official records are passed each month to the Observatoire, by the Registration and Domains Administration.",
-    "t": 207.36
+    "t": 207.62
    },
    {
     "speaker": "Anna",
     "text": "And they are completed with information from the Land Registry and Cadastre, for example the surface area of each apartment.",
-    "t": 214.23
+    "t": 214.49
    },
    {
     "speaker": "Tom",
     "text": "So these are not adverts or estimates.",
-    "t": 221.62
+    "t": 221.88
    },
    {
     "speaker": "Tom",
     "text": "They are real, completed sales.",
-    "t": 224.03
+    "t": 224.29
    },
    {
     "speaker": "Tom",
     "text": "That's about as reliable as it gets.",
-    "t": 226.62
+    "t": 226.88
    },
    {
     "speaker": "Anna",
     "text": "For rents, it's a bit different.",
-    "t": 228.77
+    "t": 229.03
    },
    {
     "speaker": "Anna",
     "text": "Rent data comes mostly from property listings... homes advertised for rent, collected with a big property website.",
-    "t": 230.67
+    "t": 230.93
    },
    {
     "speaker": "Tom",
     "text": "So rents reflect what is being asked on the market, while sale prices reflect deals that actually happened.",
-    "t": 237.92
+    "t": 238.18
    },
    {
     "speaker": "Anna",
     "text": "There is one interesting limit, though.",
-    "t": 244.64
+    "t": 244.9
    },
    {
     "speaker": "Anna",
     "text": "The Observatoire publishes detailed prices per square metre, commune by commune, for apartments... but not for houses.",
-    "t": 246.72
+    "t": 246.98
    },
    {
     "speaker": "Tom",
     "text": "Why is that, Anna?",
-    "t": 254.91
+    "t": 255.17
    },
    {
     "speaker": "Anna",
     "text": "Because for apartments, there is good data on the surface area, so you can calculate a fair price per square metre.",
-    "t": 256.22
+    "t": 256.48
    },
    {
     "speaker": "Tom",
     "text": "But for individual houses, that detailed surface information isn't available in the same way.",
-    "t": 263.33
+    "t": 263.59
    },
    {
     "speaker": "Anna",
     "text": "So rather than publish numbers that could mislead people, they choose not to publish detailed house prices.",
-    "t": 268.52
+    "t": 268.78
    },
    {
     "speaker": "Anna",
     "text": "For houses, STATEC publishes a general price index instead.",
-    "t": 274.9
+    "t": 274.88
    },
    {
     "speaker": "Anna",
     "text": "That's honest.",
-    "t": 278.56
+    "t": 278.42
    },
    {
     "speaker": "Tom",
     "text": "I respect that.",
-    "t": 279.81
+    "t": 279.67
    },
    {
     "speaker": "Tom",
     "text": "Better to say \"we don't have reliable data\" than to invent it.",
-    "t": 280.99
+    "t": 280.85
    },
    {
     "speaker": "Anna",
     "text": "Now, let's give some real numbers, so this feels concrete.",
-    "t": 284.65
+    "t": 284.51
    },
    {
     "speaker": "Tom",
     "text": "Yes please. What does an apartment actually cost?",
-    "t": 288.15
+    "t": 288.01
    },
    {
     "speaker": "Anna",
     "text": "In recent years, an existing apartment has cost on average well over seven thousand euros per square metre.",
-    "t": 291.34
+    "t": 291.2
    },
    {
     "speaker": "Tom",
     "text": "And a brand-new apartment, still under construction, costs even more... often close to ten thousand euros per square metre.",
-    "t": 297.72
+    "t": 297.58
    },
    {
     "speaker": "Anna",
     "text": "These are averages, of course.",
-    "t": 305.2
+    "t": 305.06
    },
    {
     "speaker": "Anna",
     "text": "The price depends a lot on the commune, and on the quality of the home.",
-    "t": 307.09
+    "t": 306.95
    },
    {
     "speaker": "Tom",
     "text": "And the numbers move every quarter.",
-    "t": 311.31
+    "t": 311.17
    },
    {
     "speaker": "Tom",
     "text": "They go up, they go down.",
-    "t": 313.07
+    "t": 312.93
    },
    {
     "speaker": "Tom",
     "text": "That's exactly why the Observatoire keeps watching.",
-    "t": 314.82
+    "t": 314.68
    },
    {
     "speaker": "Anna",
     "text": "For example, prices fell after 2022... and since then, the market has been slowly stabilising.",
-    "t": 317.75
+    "t": 317.61
    },
    {
     "speaker": "Tom",
     "text": "So the market is not just one straight line going up.",
-    "t": 325.57
+    "t": 325.43
    },
    {
     "speaker": "Tom",
     "text": "It breathes... it changes.",
-    "t": 328.16
+    "t": 328.02
    },
    {
     "speaker": "Anna",
     "text": "And here is the part I love.",
-    "t": 330.53
+    "t": 330.39
    },
    {
     "speaker": "Anna",
     "text": "All of this data is public, and you can explore it yourself.",
-    "t": 332.33
+    "t": 332.19
    },
    {
     "speaker": "Tom",
     "text": "The statistics, broken down by commune, are published on the national open-data platform, data dot public dot lu... and on the national Geoportal too.",
-    "t": 335.85
+    "t": 335.71
    },
    {
     "speaker": "Anna",
     "text": "So you can look up your own commune, and see how prices have moved there.",
-    "t": 345.28
+    "t": 345.14
    },
    {
     "speaker": "Tom",
     "text": "There is even a price simulator on the Observatoire's website, and a rent simulator too, to help you get an idea.",
-    "t": 349.59
+    "t": 349.45
    },
    {
     "speaker": "Anna",
     "text": "Imagine you are thinking of buying or renting in a certain town.",
-    "t": 356.02
+    "t": 355.88
    },
    {
     "speaker": "Anna",
     "text": "You can check the typical prices before you start.",
-    "t": 359.52
+    "t": 359.38
    },
    {
     "speaker": "Tom",
     "text": "That's real power for ordinary people.",
-    "t": 362.86
+    "t": 362.72
    },
    {
     "speaker": "Tom",
     "text": "Information that used to be hard to find is now open to everyone.",
-    "t": 364.79
+    "t": 364.65
    },
    {
     "speaker": "Anna",
     "text": "The Observatoire also publishes reports and notes, written in plain language, on specific questions.",
-    "t": 368.77
+    "t": 368.63
    },
    {
     "speaker": "Tom",
     "text": "For example, there have been reports on how prices have changed over the very long term... going back to the 1970s.",
-    "t": 374.74
+    "t": 374.6
    },
    {
     "speaker": "Anna",
     "text": "And reports on the rental market, and even on the regulation of rents... the rules that protect tenants.",
-    "t": 381.8
+    "t": 381.66
    },
    {
     "speaker": "Tom",
     "text": "So if a topic is in the news, there's often a serious, neutral study you can read about it.",
-    "t": 388.76
+    "t": 388.62
    },
    {
     "speaker": "Anna",
     "text": "Let's come back to that word, affordability, because it matters so much here.",
-    "t": 393.89
+    "t": 393.75
    },
    {
     "speaker": "Tom",
     "text": "Affordability means... can people actually pay for their housing, without it taking over their whole budget?",
-    "t": 398.25
+    "t": 398.11
    },
    {
     "speaker": "Anna",
     "text": "The Observatoire looks at the \"effort rate\"... the share of your income that goes to housing.",
-    "t": 404.14
+    "t": 404
    },
    {
     "speaker": "Tom",
     "text": "And it compares Luxembourg with neighbouring countries, to put things in context.",
-    "t": 409.57
+    "t": 409.43
    },
    {
     "speaker": "Anna",
     "text": "This kind of analysis helps everyone see the real situation clearly, instead of just guessing or worrying.",
-    "t": 413.8
+    "t": 413.66
    },
    {
     "speaker": "Tom",
     "text": "And it helps the government design better policies, like support for tenants, or building more affordable homes.",
-    "t": 420.61
+    "t": 420.47
    },
    {
     "speaker": "Anna",
     "text": "Let's not forget the land side, because in a small country, land is precious.",
-    "t": 426.43
+    "t": 426.29
    },
    {
     "speaker": "Tom",
     "text": "The Observatoire studies how much building land exists, and how much of it is actually being used.",
-    "t": 431.23
+    "t": 431.09
    },
    {
     "speaker": "Anna",
     "text": "Sometimes land is available on paper, but it is not built on.",
-    "t": 436.96
+    "t": 436.82
    },
    {
     "speaker": "Anna",
     "text": "Understanding that helps plan for the future.",
-    "t": 441.02
+    "t": 440.88
    },
    {
     "speaker": "Tom",
     "text": "So in a way, the Observatoire is like a health check for the whole housing system.",
-    "t": 443.9
+    "t": 443.76
    },
    {
     "speaker": "Anna",
     "text": "That's a lovely way to put it.",
-    "t": 448.52
+    "t": 448.38
    },
    {
     "speaker": "Anna",
     "text": "It measures the temperature, it spots the trends, and it shares the diagnosis with everyone.",
-    "t": 450.33
+    "t": 450.19
    },
    {
     "speaker": "Tom",
     "text": "So Anna, let's make this practical.",
-    "t": 455.67
+    "t": 455.53
    },
    {
     "speaker": "Tom",
     "text": "How can a normal person actually use all this?",
-    "t": 457.97
+    "t": 457.83
    },
    {
     "speaker": "Anna",
     "text": "First, before you rent or buy, check the typical prices in the commune you are interested in.",
-    "t": 460.87
+    "t": 460.73
    },
    {
     "speaker": "Tom",
     "text": "Second, if you want to understand a debate in the news, look for an Observatoire report on that topic.",
-    "t": 466.59
+    "t": 466.45
    },
    {
     "speaker": "Anna",
     "text": "Third, remember that the numbers are official and neutral.",
-    "t": 472.66
+    "t": 472.52
    },
    {
     "speaker": "Anna",
     "text": "They are not trying to sell you anything.",
-    "t": 476.19
+    "t": 476.05
    },
    {
     "speaker": "Tom",
     "text": "And fourth... knowledge reduces stress.",
-    "t": 478.63
+    "t": 478.49
    },
    {
     "speaker": "Tom",
     "text": "Housing is emotional, but good information helps you make calmer decisions.",
-    "t": 481.26
+    "t": 481.12
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it all together.",
-    "t": 485.39
+    "t": 485.25
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about the Observatoire de l'Habitat?",
-    "t": 486.97
+    "t": 486.83
    },
    {
     "speaker": "Tom",
     "text": "First... it is Luxembourg's official housing observatory, created in 2003, within the Ministry of Housing.",
-    "t": 490.9
+    "t": 490.76
    },
    {
     "speaker": "Anna",
-    "text": "Second... it watches sale prices, rents, land, and how affordable housing really is, with help from the research institute LISER.",
-    "t": 497.53
+    "text": "Second, it watches sale prices, rents, land, and how affordable housing really is, with help from the research institute LISER.",
+    "t": 497.39
    },
    {
     "speaker": "Tom",
     "text": "Third... its data is reliable, because sale prices come from real, notarised transactions.",
-    "t": 507.05
+    "t": 507.13
    },
    {
     "speaker": "Anna",
     "text": "Fourth... the data is public.",
-    "t": 513.07
+    "t": 513.15
    },
    {
     "speaker": "Anna",
     "text": "You can explore prices by commune on data dot public dot lu, and read clear reports.",
-    "t": 515.77
+    "t": 515.85
    },
    {
     "speaker": "Tom",
     "text": "And fifth... you can use it in your own life, to make better, calmer housing decisions.",
-    "t": 521.58
+    "t": 521.66
    },
    {
     "speaker": "Anna",
     "text": "Housing can feel overwhelming.",
-    "t": 526.85
+    "t": 526.93
    },
    {
     "speaker": "Anna",
     "text": "But you are not powerless.",
-    "t": 528.67
+    "t": 528.75
    },
    {
     "speaker": "Anna",
     "text": "There is solid, honest information out there for you.",
-    "t": 530.73
+    "t": 530.81
    },
    {
     "speaker": "Tom",
     "text": "And knowing where to find it is half the battle.",
-    "t": 533.94
+    "t": 534.02
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Observatoire de l'Habitat.",
-    "t": 536.6
+    "t": 536.68
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 540.03
+    "t": 540.11
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 550.28
+    "t": 550.36
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 568.56
+    "t": 568.64
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 575.31
+    "t": 575.39
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 577.51
+    "t": 577.59
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 582.2
+    "t": 582.28
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 583.28
+    "t": 583.37
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 585.4
+    "t": 585.49
    }
   ],
   "questions": [
@@ -54928,362 +54928,362 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "LISER ass de Luxembourg Institute of Socio-Economic Research. Dat ass en ëffentlecht Fuerschungszentrum. A fir d'Statistike vun de Verkafspräisser schafft den Observatoire och enk mam STATEC zesummen, dem nationale Statistikinstitut.",
-    "t": 112.56
+    "t": 112.67
    },
    {
     "speaker": "Anna",
     "text": "Si bréngen déi wëssenschaftlech Rigueur... richteg Methoden, suergfälteg Analyse. Esou sinn d'Zuelen, déi Dir kritt, solid, an net just gerode.",
-    "t": 125.78
+    "t": 126.1
    },
    {
     "speaker": "Tom",
     "text": "Gutt. Also wat kuckt den Observatoire eigentlech? Wat mësst en?",
-    "t": 133.01
+    "t": 133.33
    },
    {
     "speaker": "Anna",
     "text": "Verschidde Saachen. Als éischt d'Verkafspräisser vu Wunnengen... wéi vill et kascht, fir ze kafen.",
-    "t": 137.82
+    "t": 138.14
    },
    {
     "speaker": "Tom",
     "text": "Zweetens d'Loyeren... wéi vill et kascht, fir eng Wunneng ze lounen.",
-    "t": 143.17
+    "t": 143.49
    },
    {
     "speaker": "Anna",
     "text": "Drëttens de Präis vum Terrain... Bauland, wou nei Wunnenge kënne kommen.",
-    "t": 146.3
+    "t": 146.62
    },
    {
     "speaker": "Tom",
     "text": "An et geet méi wäit wéi just d'Präisser, oder?",
-    "t": 151.35
+    "t": 151.67
    },
    {
     "speaker": "Anna",
     "text": "Jo. En ënnersicht och, wéi vill Bauland tatsächlech disponibel ass, a wiem et gehéiert.",
-    "t": 153.65
+    "t": 153.97
    },
    {
     "speaker": "Tom",
     "text": "Dat heescht d'Terrainobservatioun, oder op Franséisch d'\"observation foncière\". Si maachen esouguer eng Aart Zielung vum Bauland.",
-    "t": 158.99
+    "t": 159.31
    },
    {
     "speaker": "Anna",
     "text": "En follegt och, wéi vill nei Wunnenge produzéiert ginn, Joer fir Joer.",
-    "t": 166.68
+    "t": 166.94
    },
    {
     "speaker": "Tom",
     "text": "An et gëtt och eng méi mënschlech Säit... déi sozial an ekonomesch Säit.",
-    "t": 171.04
+    "t": 171.3
    },
    {
     "speaker": "Anna",
     "text": "Richteg. Den Observatoire ënnersicht d'Bezuelbarkeet vum Wunnen... ob d'Leit sech tatsächlech leeschte kënnen, do ze wunnen, wou se musse wunnen.",
-    "t": 175.14
+    "t": 175.4
    },
    {
     "speaker": "Tom",
     "text": "An en kuckt, wéi déi ëffentlech Politik d'Käschte vum Wunne beaflosst. Et sinn also net just Zuelen, et geet ëm dat richtegt Liewen.",
-    "t": 182.02
+    "t": 182.28
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer iwwer schwätzen, wou dës Zuelen hierkommen, well dat ass wichteg fir d'Vertrauen.",
-    "t": 188.97
+    "t": 189.23
    },
    {
     "speaker": "Tom",
     "text": "Jo. Wann een de Leit Chiffere gëtt, da wëlle si wëssen, datt d'Chiffere richteg sinn.",
-    "t": 193.53
+    "t": 193.79
    },
    {
     "speaker": "Anna",
     "text": "Also, fir d'Verkafspräisser kommen d'Donnéeën aus den notariellen Akten. All Kéier wann eng Immobilie verkaaft gëtt, da reegistréiert e Notär dat offiziell.",
-    "t": 198.22
+    "t": 198.48
    },
    {
     "speaker": "Tom",
     "text": "Dës offiziell Aufzeechnunge ginn all Mount un den Observatoire weiderginn, vun der Administration de l'Enregistrement et des Domaines.",
-    "t": 207.36
+    "t": 207.62
    },
    {
     "speaker": "Anna",
     "text": "A si gi mat Informatiounen aus dem Kadaster komplettéiert, zum Beispill d'Fläch vun all Appartement.",
-    "t": 214.23
+    "t": 214.49
    },
    {
     "speaker": "Tom",
     "text": "Dat sinn also keng Annoncen oder Schätzungen. Dat sinn echt, ofgeschloss Verkeef. Méi zouverlässeg geet et bal net.",
-    "t": 221.62
+    "t": 221.88
    },
    {
     "speaker": "Anna",
     "text": "Fir d'Loyeren ass et e bësse anescht. D'Loyer-Donnéeë kommen haaptsächlech aus den Immobilienannoncen... Wunnengen, déi zur Locatioun ugebuede ginn, gesammelt mat engem groussen Immobilieportal.",
-    "t": 228.77
+    "t": 229.03
    },
    {
     "speaker": "Tom",
     "text": "D'Loyeren reflektéieren also dat, wat um Maart gefrot gëtt, wärend d'Verkafspräisser Deals reflektéieren, déi tatsächlech stattfonnt hunn.",
-    "t": 237.92
+    "t": 238.18
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt awer eng interessant Grenz. Den Observatoire publizéiert detailléiert Präisser pro Quadratmeter, Gemeng fir Gemeng, fir Appartementer... mä net fir Haiser.",
-    "t": 244.64
+    "t": 244.9
    },
    {
     "speaker": "Tom",
     "text": "Firwat ass dat, Anna?",
-    "t": 254.91
+    "t": 255.17
    },
    {
     "speaker": "Anna",
     "text": "Well fir Appartementer gëtt et gutt Donnéeën iwwer d'Fläch, esou datt ee e faire Präis pro Quadratmeter ka berechnen.",
-    "t": 256.22
+    "t": 256.48
    },
    {
     "speaker": "Tom",
     "text": "Mä fir eenzel Haiser ass déi detailléiert Fläch-Informatioun net op déiselwecht Manéier disponibel.",
-    "t": 263.33
+    "t": 263.59
    },
    {
     "speaker": "Anna",
     "text": "Also amplaz Zuelen ze publizéieren, déi d'Leit kéinten an d'Ier féieren, entscheede si sech, keng detailléiert Hauspräisser ze publizéieren. Fir Haiser publizéiert de STATEC amplaz en allgemengen Präisindex. Dat ass éierlech.",
-    "t": 268.52
+    "t": 268.78
    },
    {
     "speaker": "Tom",
     "text": "Dat respektéieren ech. Besser ze soen \"mir hu keng zouverlässeg Donnéeën\", wéi se z'erfannen.",
-    "t": 279.81
+    "t": 279.67
    },
    {
     "speaker": "Anna",
     "text": "Elo loosse mer e puer richteg Zuelen ginn, esou datt et sech konkret ufillt.",
-    "t": 284.65
+    "t": 284.51
    },
    {
     "speaker": "Tom",
     "text": "Jo, gär. Wat kascht en Appartement tatsächlech?",
-    "t": 288.15
+    "t": 288.01
    },
    {
     "speaker": "Anna",
     "text": "An de leschte Joren huet en existéierend Appartement am Duerchschnëtt däitlech méi wéi siwendausend Euro pro Quadratmeter kascht.",
-    "t": 291.34
+    "t": 291.2
    },
    {
     "speaker": "Tom",
     "text": "An en ganz neit Appartement, nach am Bau, kascht nach méi... dacks bal zéngdausend Euro pro Quadratmeter.",
-    "t": 297.72
+    "t": 297.58
    },
    {
     "speaker": "Anna",
     "text": "Dat sinn natierlech Duerchschnëtter. De Präis hänkt vill vun der Gemeng of, a vun der Qualitéit vun der Wunneng.",
-    "t": 305.2
+    "t": 305.06
    },
    {
     "speaker": "Tom",
     "text": "An d'Zuele beweegen sech all Trimester. Si ginn erop, si ginn erof. Dat ass genau, firwat den Observatoire weiderkuckt.",
-    "t": 311.31
+    "t": 311.17
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispill sinn d'Präisser no 2022 erofgaangen... an zënterhier stabiliséiert de Maart sech lues a lues.",
-    "t": 317.75
+    "t": 317.61
    },
    {
     "speaker": "Tom",
     "text": "De Maart ass also net just eng gerued Linn, déi erop geet. En otemt... en ännert sech.",
-    "t": 325.57
+    "t": 325.43
    },
    {
     "speaker": "Anna",
     "text": "An hei ass den Deel, deen ech gär hunn. All dës Donnéeë sinn ëffentlech, an Dir kënnt se selwer entdecken.",
-    "t": 330.53
+    "t": 330.39
    },
    {
     "speaker": "Tom",
     "text": "D'Statistiken, opgedeelt no Gemeng, ginn op der nationaler Open-Data-Plattform publizéiert, data Punkt public Punkt lu... an och um nationale Geoportal.",
-    "t": 335.85
+    "t": 335.71
    },
    {
     "speaker": "Anna",
     "text": "Esou kënnt Dir Är eege Gemeng nokucken, a kucken, wéi sech d'Präisser do beweegt hunn.",
-    "t": 345.28
+    "t": 345.14
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt esouguer e Präissimulateur op der Internetsäit vum Observatoire, an och e Loyersimulateur, fir Iech ze hëllefen, eng Iddi ze kréien.",
-    "t": 349.59
+    "t": 349.45
    },
    {
     "speaker": "Anna",
     "text": "Stellt Iech vir, Dir denkt drun, an enger gewësser Uertschaft ze kafen oder ze lounen. Dir kënnt déi typesch Präisser nokucken, ier Dir ufänkt.",
-    "t": 356.02
+    "t": 355.88
    },
    {
     "speaker": "Tom",
     "text": "Dat ass richteg Muecht fir normal Leit. Informatiounen, déi fréier schwéier ze fanne waren, sinn elo fir jiddereen oppen.",
-    "t": 362.86
+    "t": 362.72
    },
    {
     "speaker": "Anna",
     "text": "Den Observatoire publizéiert och Rapporten an Notizen, an einfacher Sprooch geschriwwen, iwwer spezifesch Froen.",
-    "t": 368.77
+    "t": 368.63
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispill goufen et Rapporten doriwwer, wéi sech d'Präisser iwwer ganz laang Zäit verännert hunn... bis an d'1970er Joren zréck.",
-    "t": 374.74
+    "t": 374.6
    },
    {
     "speaker": "Anna",
     "text": "A Rapporten iwwer de Locatiounsmaart, an esouguer iwwer d'Reglementéierung vun de Loyeren... d'Reegelen, déi d'Locatairen schützen.",
-    "t": 381.8
+    "t": 381.66
    },
    {
     "speaker": "Tom",
     "text": "Wann en Thema also an den Noriichten ass, da gëtt et dacks eng eescht, neutral Etude, déi Dir doriwwer liese kënnt.",
-    "t": 388.76
+    "t": 388.62
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer op dat Wuert zréckkommen, d'Bezuelbarkeet, well et ass hei esou wichteg.",
-    "t": 393.89
+    "t": 393.75
    },
    {
     "speaker": "Tom",
     "text": "Bezuelbarkeet heescht... kënnen d'Leit hir Wunneng tatsächlech bezuelen, ouni datt et hire ganze Budget iwwerhëlt?",
-    "t": 398.25
+    "t": 398.11
    },
    {
     "speaker": "Anna",
     "text": "Den Observatoire kuckt den \"Effortstaux\"... den Deel vun Ärem Akommes, deen an d'Wunne geet.",
-    "t": 404.14
+    "t": 404
    },
    {
     "speaker": "Tom",
     "text": "An en vergläicht Lëtzebuerg mat den Nopeschlänner, fir d'Saachen an de Kontext ze setzen.",
-    "t": 409.57
+    "t": 409.43
    },
    {
     "speaker": "Anna",
     "text": "Dës Aart vun Analyse hëlleft jiddereem, déi richteg Situatioun kloer ze gesinn, amplaz just ze roden oder sech Suergen ze maachen.",
-    "t": 413.8
+    "t": 413.66
    },
    {
     "speaker": "Tom",
     "text": "An et hëlleft der Regierung, besser Politik ze gestalten, wéi Ënnerstëtzung fir Locatairen, oder méi bezuelbar Wunnengen ze bauen.",
-    "t": 420.61
+    "t": 420.47
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer d'Terrain-Säit net vergiessen, well an engem klenge Land ass Terrain wäertvoll.",
-    "t": 426.43
+    "t": 426.29
    },
    {
     "speaker": "Tom",
     "text": "Den Observatoire ënnersicht, wéi vill Bauland et gëtt, a wéi vill dovun tatsächlech genotzt gëtt.",
-    "t": 431.23
+    "t": 431.09
    },
    {
     "speaker": "Anna",
     "text": "Heiansdo ass Terrain um Pabeier disponibel, mä et gëtt net dropgebaut. Dat ze verstoen hëlleft, fir d'Zukunft ze plangen.",
-    "t": 436.96
+    "t": 436.82
    },
    {
     "speaker": "Tom",
     "text": "Op eng Aart ass den Observatoire also wéi e Gesondheetscheck fir dat ganzt Wunnengssystem.",
-    "t": 443.9
+    "t": 443.76
    },
    {
     "speaker": "Anna",
     "text": "Dat ass eng schéi Manéier, fir et auszedrécken. En mësst d'Temperatur, en erkennt d'Tendenzen, an en deelt d'Diagnos mat jidderengem.",
-    "t": 448.52
+    "t": 448.38
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, loosse mer dat praktesch maachen. Wéi kann eng normal Persoun dat alles tatsächlech notzen?",
-    "t": 455.67
+    "t": 455.53
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, ier Dir mécht oder kaaft, kuckt déi typesch Präisser an der Gemeng no, déi Iech interesséiert.",
-    "t": 460.87
+    "t": 460.73
    },
    {
     "speaker": "Tom",
     "text": "Zweetens, wann Dir eng Debatt an den Noriichte verstoe wëllt, da sicht en Observatoire-Rapport iwwer dat Thema.",
-    "t": 466.59
+    "t": 466.45
    },
    {
     "speaker": "Anna",
     "text": "Drëttens, denkt drun, datt d'Zuelen offiziell an neutral sinn. Si probéieren net, Iech eppes ze verkafen.",
-    "t": 472.66
+    "t": 472.52
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... Wëssen reduzéiert de Stress. D'Wunnen ass emotional, mä gutt Informatioun hëlleft Iech, méi roueg Decisiounen ze huelen.",
-    "t": 478.63
+    "t": 478.49
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer alles zesummebréngen. Wat sollen d'Leit iwwer den Observatoire de l'Habitat behalen?",
-    "t": 485.39
+    "t": 485.25
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... et ass de Lëtzebuerger offiziellen Wunnengsobservatoire, am Joer 2003 gegrënnt, am Wunnengsministère.",
-    "t": 490.9
+    "t": 490.76
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... en kuckt d'Verkafspräisser, d'Loyeren, den Terrain, a wéi bezuelbar d'Wunne wierklech ass, mat der Hëllef vum Fuerschungsinstitut LISER.",
-    "t": 497.53
+    "t": 497.39
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... seng Donnéeë sinn zouverlässeg, well d'Verkafspräisser aus echten, notariellen Transaktioune kommen.",
-    "t": 507.05
+    "t": 507.13
    },
    {
     "speaker": "Anna",
     "text": "Véiertens... d'Donnéeë sinn ëffentlech. Dir kënnt d'Präisser no Gemeng op data Punkt public Punkt lu entdecken, a kloer Rapporte liesen.",
-    "t": 513.07
+    "t": 513.15
    },
    {
     "speaker": "Tom",
     "text": "A fënneftens... Dir kënnt et an Ärem eegene Liewe notzen, fir besser, méi roueg Wunnengsdecisiounen ze huelen.",
-    "t": 521.58
+    "t": 521.66
    },
    {
     "speaker": "Anna",
     "text": "D'Wunne kann iwwerwältegend wierken. Mä Dir sidd net hëlleflos. Et gëtt solid, éierlech Informatioun do baussen fir Iech.",
-    "t": 526.85
+    "t": 526.93
    },
    {
     "speaker": "Tom",
     "text": "A wëssen, wou een se fënnt, ass schonn d'Halschent vun der Schluecht.",
-    "t": 533.94
+    "t": 534.02
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer den Observatoire de l'Habitat. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 536.6
+    "t": 536.68
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 582.2
+    "t": 582.28
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 585.4
+    "t": 585.49
    }
   ]
  },
@@ -70329,7 +70329,7 @@ const EPISODES = [
   "title": "STATEC and the Statistics Portal – Luxembourg in Numbers",
   "description": "What STATEC, Luxembourg's national statistics institute, does, its motto 'we count because you count', how it measures inflation through the consumer price index (which feeds the indexation of salaries and pensions), the population, the economy and wellbeing, and how anyone can explore the official figures for free on statistiques.public.lu.",
   "audio": "podcast_statec.mp3",
-  "duration": 379.92,
+  "duration": 378.85,
   "topics": [
    "What STATEC is",
    "Independent, trustworthy figures",
@@ -70394,392 +70394,392 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "It is called STATEC.",
-    "t": 42.82
+    "t": 42.81
    },
    {
     "speaker": "Anna",
     "text": "STATEC is Luxembourg's national statistics institute.",
-    "t": 44.75
+    "t": 44.73
    },
    {
     "speaker": "Tom",
     "text": "It has a lovely motto... \"We count because you count.\"",
-    "t": 48.38
+    "t": 48.47
    },
    {
     "speaker": "Anna",
     "text": "I love that.",
-    "t": 51.69
+    "t": 51.78
    },
    {
     "speaker": "Anna",
     "text": "The numbers are not just for experts.",
-    "t": 52.62
+    "t": 52.71
    },
    {
     "speaker": "Anna",
     "text": "They are about people, and for people.",
-    "t": 54.79
+    "t": 54.88
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what exactly does STATEC do?",
-    "t": 57.83
+    "t": 57.92
    },
    {
     "speaker": "Anna",
     "text": "STATEC collects, produces and shares official statistics about Luxembourg... the population, the economy, prices, jobs, and much more.",
-    "t": 60.16
+    "t": 60.32
    },
    {
     "speaker": "Tom",
     "text": "It works under the Ministry of the Economy, but its statistical work is independent.",
-    "t": 71.07
+    "t": 70.06
    },
    {
     "speaker": "Anna",
     "text": "That independence matters a lot.",
-    "t": 75.78
+    "t": 74.77
    },
    {
     "speaker": "Anna",
     "text": "It means the figures are neutral and trustworthy, not bent to suit anyone.",
-    "t": 77.9
+    "t": 76.89
    },
    {
     "speaker": "Tom",
     "text": "So when STATEC says something, you can rely on it being measured carefully and honestly.",
-    "t": 83.14
+    "t": 82.13
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about the most famous number STATEC produces... inflation.",
-    "t": 88.09
+    "t": 86.94
    },
    {
     "speaker": "Tom",
     "text": "Inflation is how fast prices are rising.",
-    "t": 92.73
+    "t": 91.57
    },
    {
     "speaker": "Tom",
     "text": "STATEC measures it every month.",
-    "t": 95.38
+    "t": 94.23
    },
    {
     "speaker": "Anna",
     "text": "It does this through the consumer price index... the price of a typical basket of goods and services that households buy.",
-    "t": 97.39
+    "t": 96.42
    },
    {
     "speaker": "Tom",
     "text": "Food, rent, fuel, services.",
-    "t": 104.46
+    "t": 103.49
    },
    {
     "speaker": "Tom",
     "text": "They track how that basket's price changes over time.",
-    "t": 107.61
+    "t": 106.64
    },
    {
     "speaker": "Anna",
     "text": "And here is why it matters so much in Luxembourg.",
-    "t": 110.39
+    "t": 109.42
    },
    {
     "speaker": "Anna",
     "text": "That index is linked to the famous \"index\" system.",
-    "t": 113.73
+    "t": 112.76
    },
    {
     "speaker": "Tom",
     "text": "Yes. In Luxembourg, when prices rise by a certain amount, salaries and pensions are automatically increased to keep up.",
-    "t": 117.19
+    "t": 116.22
    },
    {
     "speaker": "Anna",
     "text": "That automatic adjustment is called indexation.",
-    "t": 124.97
+    "t": 124
    },
    {
     "speaker": "Anna",
     "text": "And it is based on STATEC's measurements.",
-    "t": 128.07
+    "t": 127.1
    },
    {
     "speaker": "Tom",
     "text": "So STATEC's work touches almost every wallet in the country.",
-    "t": 130.91
+    "t": 129.93
    },
    {
     "speaker": "Tom",
     "text": "That's remarkable.",
-    "t": 134.5
+    "t": 133.41
    },
    {
     "speaker": "Anna",
     "text": "It really is.",
-    "t": 135.89
+    "t": 134.8
    },
    {
     "speaker": "Anna",
     "text": "But inflation is only one of many things STATEC measures.",
-    "t": 136.96
+    "t": 135.87
    },
    {
     "speaker": "Tom",
     "text": "It also counts the population... how many of us there are, where we live, how the country is growing.",
-    "t": 140.53
+    "t": 139.19
    },
    {
     "speaker": "Anna",
     "text": "It measures the economy, with figures like the gross domestic product, often shortened to GDP.",
-    "t": 146.81
+    "t": 145.47
    },
    {
     "speaker": "Tom",
     "text": "GDP is a measure of all that the country produces.",
-    "t": 153.48
+    "t": 152.14
    },
    {
     "speaker": "Tom",
     "text": "STATEC tracks how the economy grows or slows.",
-    "t": 156.93
+    "t": 155.63
    },
    {
     "speaker": "Anna",
     "text": "It also looks at jobs and wages, at housing, at education, at the environment, and much more.",
-    "t": 160.1
+    "t": 158.84
    },
    {
     "speaker": "Tom",
     "text": "Now, here's the question many people have.",
-    "t": 166.47
+    "t": 165.21
    },
    {
     "speaker": "Tom",
     "text": "Where can I actually see all this?",
-    "t": 168.47
+    "t": 167.21
    },
    {
     "speaker": "Anna",
     "text": "On the official statistics portal.",
-    "t": 170.51
+    "t": 169.25
    },
    {
     "speaker": "Anna",
     "text": "The website is statistiques dot public dot lu.",
-    "t": 172.71
+    "t": 171.45
    },
    {
     "speaker": "Tom",
     "text": "And the best part... it is free, and open to everyone.",
-    "t": 176.44
+    "t": 175.18
    },
    {
     "speaker": "Anna",
     "text": "You can browse tables of figures by theme, read short news releases, and explore the data yourself.",
-    "t": 179.8
+    "t": 178.54
    },
    {
     "speaker": "Tom",
     "text": "There are even simple tools and simulators on the portal.",
-    "t": 186.29
+    "t": 185.03
    },
    {
     "speaker": "Anna",
     "text": "For example, tools about inflation and indexation, or to compare figures across the years.",
-    "t": 189.26
+    "t": 188
    },
    {
     "speaker": "Tom",
     "text": "So you don't have to be an economist.",
-    "t": 195.35
+    "t": 194.09
    },
    {
     "speaker": "Tom",
     "text": "The portal is built for curious citizens too.",
-    "t": 197.36
+    "t": 196.1
    },
    {
     "speaker": "Anna",
     "text": "STATEC also looks beyond money, at things that matter for our quality of life.",
-    "t": 200.11
+    "t": 198.85
    },
    {
     "speaker": "Tom",
     "text": "Yes. It publishes indicators on wellbeing, and on sustainable development.",
-    "t": 205.18
+    "t": 203.78
    },
    {
     "speaker": "Anna",
     "text": "Because a good society is not only about how much we produce, but about how well we live.",
-    "t": 210.13
+    "t": 208.73
    },
    {
     "speaker": "Tom",
     "text": "That's a healthy way to look at a country... with both the head and the heart.",
-    "t": 215.6
+    "t": 214.2
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about why all this matters for ordinary people, even those who never open the website.",
-    "t": 220.08
+    "t": 218.68
    },
    {
     "speaker": "Tom",
     "text": "First, because good decisions need good facts.",
-    "t": 226.31
+    "t": 224.91
    },
    {
     "speaker": "Tom",
     "text": "Governments use these numbers to plan.",
-    "t": 229.11
+    "t": 227.71
    },
    {
     "speaker": "Anna",
     "text": "Schools, hospitals, housing, transport... planning all of it needs to know how many people there are, and what they need.",
-    "t": 231.5
+    "t": 230.1
    },
    {
     "speaker": "Tom",
     "text": "Second, because it keeps the public conversation honest.",
-    "t": 239.29
+    "t": 237.89
    },
    {
     "speaker": "Anna",
     "text": "When people argue about the economy or prices, neutral figures give everyone a shared, factual starting point.",
-    "t": 242.47
+    "t": 241.07
    },
    {
     "speaker": "Tom",
     "text": "And third, because it is your right to know.",
-    "t": 249.45
+    "t": 248.05
    },
    {
     "speaker": "Tom",
     "text": "These are public facts about your own country.",
-    "t": 251.87
+    "t": 250.47
    },
    {
     "speaker": "Anna",
     "text": "Let's make this practical.",
-    "t": 254.28
+    "t": 252.88
    },
    {
     "speaker": "Anna",
     "text": "How can someone actually use STATEC?",
-    "t": 255.93
+    "t": 254.53
    },
    {
     "speaker": "Tom",
     "text": "First, if you hear a claim about Luxembourg in the news, you can check the real figures on the portal.",
-    "t": 258.53
+    "t": 257.03
    },
    {
     "speaker": "Anna",
     "text": "Second, if you're curious about prices, population or the economy, explore the tables and tools for free.",
-    "t": 264.36
+    "t": 262.86
    },
    {
     "speaker": "Tom",
     "text": "Third, if you're a student, a journalist, or just a curious mind, it's a goldmine of reliable information.",
-    "t": 271.72
+    "t": 270.22
    },
    {
     "speaker": "Anna",
     "text": "And fourth, remember that behind the famous \"index\" on your payslip, there is STATEC, measuring carefully.",
-    "t": 278.95
+    "t": 277.45
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 286.21
+    "t": 284.36
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about STATEC?",
-    "t": 287.58
+    "t": 285.66
    },
    {
     "speaker": "Anna",
     "text": "First... STATEC is Luxembourg's national statistics institute, independent and trustworthy, with the motto \"we count because you count\".",
-    "t": 290.18
+    "t": 288.28
    },
    {
     "speaker": "Tom",
     "text": "Second... it measures inflation, which feeds the indexation of salaries and pensions, plus population, the economy, and much more.",
-    "t": 299.5
+    "t": 297.89
    },
    {
     "speaker": "Anna",
     "text": "Third... all of it is free to explore on the portal, statistiques dot public dot lu.",
-    "t": 308.28
+    "t": 306.67
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it even measures wellbeing and sustainable development, not just money.",
-    "t": 314.24
+    "t": 312.63
    },
    {
     "speaker": "Anna",
     "text": "Numbers can feel cold.",
-    "t": 319.07
+    "t": 317.46
    },
    {
     "speaker": "Anna",
     "text": "But behind every figure is a real story about real people in this country.",
-    "t": 320.83
+    "t": 319.22
    },
    {
     "speaker": "Tom",
     "text": "And having honest, shared facts is one of the quiet foundations of a healthy democracy.",
-    "t": 325.43
+    "t": 323.82
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about STATEC and the statistics portal.",
-    "t": 330.16
+    "t": 328.55
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 333.72
+    "t": 332.11
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 343.19
+    "t": 342.13
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 361.47
+    "t": 360.41
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 368.22
+    "t": 367.16
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 370.42
+    "t": 369.36
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 375.11
+    "t": 374.05
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 376.19
+    "t": 375.14
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 378.31
+    "t": 377.26
    }
   ],
   "questions": [
@@ -71897,267 +71897,267 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "STATEC ass dat national Statistikinstitut vu Lëtzebuerg.",
-    "t": 44.75
+    "t": 44.73
    },
    {
     "speaker": "Tom",
     "text": "Et huet e schéint Motto... „Mir zielen, well Dir zielt\".",
-    "t": 48.38
+    "t": 48.47
    },
    {
     "speaker": "Anna",
     "text": "Dat hunn ech gär. D'Zuelen sinn net nëmme fir Experten. Et geet ëm d'Leit, a si sinn fir d'Leit do.",
-    "t": 51.69
+    "t": 51.78
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat mécht STATEC genau?",
-    "t": 57.83
+    "t": 57.92
    },
    {
     "speaker": "Anna",
     "text": "STATEC sammelt, produzéiert an deelt offiziell Statistiken iwwer Lëtzebuerg... d'Bevëlkerung, d'Wirtschaft, d'Präisser, d'Aarbechtsplazen, a vill méi.",
-    "t": 60.16
+    "t": 60.32
    },
    {
     "speaker": "Tom",
     "text": "Et schafft ënner dem Wirtschaftsministère, awer seng statistesch Aarbecht ass onofhängeg.",
-    "t": 71.07
+    "t": 70.06
    },
    {
     "speaker": "Anna",
     "text": "Dës Onofhängegkeet ass ganz wichteg. Si bedeit, datt d'Zuelen neutral an zouverlässeg sinn, an net verfälscht ginn, fir iergendengem ze gefalen.",
-    "t": 75.78
+    "t": 74.77
    },
    {
     "speaker": "Tom",
     "text": "Also wann STATEC eppes seet, kënnt Dir Iech drop verloossen, datt et suergfälteg an éierlech gemooss gouf.",
-    "t": 83.14
+    "t": 82.13
    },
    {
     "speaker": "Anna",
     "text": "Schwätze mir iwwert déi bekanntst Zuel, déi STATEC produzéiert... d'Inflatioun.",
-    "t": 88.09
+    "t": 86.94
    },
    {
     "speaker": "Tom",
     "text": "D'Inflatioun ass, wéi séier d'Präisser klammen. STATEC mooss se all Mount.",
-    "t": 92.73
+    "t": 91.57
    },
    {
     "speaker": "Anna",
     "text": "Et mécht dat duerch de Verbraucherpräisindex... de Präis vun engem typesche Kuerf vu Wueren an Déngschtleeschtungen, déi d'Stéit kafen.",
-    "t": 97.39
+    "t": 96.42
    },
    {
     "speaker": "Tom",
     "text": "Iessen, Loyer, Brennstoff, Déngschtleeschtungen. Si verfollegen, wéi de Präis vun deem Kuerf sech mat der Zäit ännert.",
-    "t": 104.46
+    "t": 103.49
    },
    {
     "speaker": "Anna",
     "text": "An hei ass, firwat dat zu Lëtzebuerg esou vill zielt. Dësen Index ass mam berühmten „Index\"-System verbonnen.",
-    "t": 110.39
+    "t": 109.42
    },
    {
     "speaker": "Tom",
     "text": "Jo. Zu Lëtzebuerg, wann d'Präisser ëm e bestëmmte Betrag klammen, ginn d'Léin an d'Pensioune automatesch eropgesat, fir Schrëtt ze halen.",
-    "t": 117.19
+    "t": 116.22
    },
    {
     "speaker": "Anna",
     "text": "Dës automatesch Upassung heescht Indexéierung. A si baséiert op de Moossunge vum STATEC.",
-    "t": 124.97
+    "t": 124
    },
    {
     "speaker": "Tom",
     "text": "Also d'Aarbecht vum STATEC beréiert bal all Portmonni am Land. Dat ass bemierkenswäert.",
-    "t": 130.91
+    "t": 129.93
    },
    {
     "speaker": "Anna",
     "text": "Dat ass et wierklech. Mä d'Inflatioun ass nëmmen eng vu ville Saachen, déi STATEC mooss.",
-    "t": 135.89
+    "t": 134.8
    },
    {
     "speaker": "Tom",
     "text": "Et zielt och d'Bevëlkerung... wéi vill mir sinn, wou mir wunnen, wéi d'Land wiisst.",
-    "t": 140.53
+    "t": 139.19
    },
    {
     "speaker": "Anna",
     "text": "Et mooss d'Wirtschaft, mat Zuelen wéi dem Bruttoinlandsprodukt, dacks als BIP ofgekierzt.",
-    "t": 146.81
+    "t": 145.47
    },
    {
     "speaker": "Tom",
     "text": "D'BIP ass e Mooss fir alles, wat d'Land produzéiert. STATEC verfollegt, wéi d'Wirtschaft wiisst oder lues gëtt.",
-    "t": 153.48
+    "t": 152.14
    },
    {
     "speaker": "Anna",
     "text": "Et kuckt och op d'Aarbechtsplazen an d'Léin, op d'Wunnen, op d'Bildung, op d'Ëmwelt, a vill méi.",
-    "t": 160.1
+    "t": 158.84
    },
    {
     "speaker": "Tom",
     "text": "Elo, hei ass d'Fro, déi vill Leit hunn. Wou kann ech dat alles tatsächlech gesinn?",
-    "t": 166.47
+    "t": 165.21
    },
    {
     "speaker": "Anna",
     "text": "Um offizielle Statistikportal. D'Websäit ass statistiques Punkt public Punkt lu.",
-    "t": 170.51
+    "t": 169.25
    },
    {
     "speaker": "Tom",
     "text": "An dat Bescht... et ass gratis, a fir jiddereen op.",
-    "t": 176.44
+    "t": 175.18
    },
    {
     "speaker": "Anna",
     "text": "Dir kënnt Zuelentabellen no Thema duerchsichen, kuerz Pressematdeelunge liesen, an d'Donnéeën selwer erfuerschen.",
-    "t": 179.8
+    "t": 178.54
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt souguer einfach Tools a Simulateuren um Portal.",
-    "t": 186.29
+    "t": 185.03
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispill Tools iwwer Inflatioun an Indexéierung, oder fir Zuelen iwwer d'Joren ze vergläichen.",
-    "t": 189.26
+    "t": 188
    },
    {
     "speaker": "Tom",
     "text": "Also Dir musst keen Economist sinn. De Portal ass och fir virwëtzeg Bierger gebaut.",
-    "t": 195.35
+    "t": 194.09
    },
    {
     "speaker": "Anna",
     "text": "STATEC kuckt och iwwert d'Geld eraus, op Saachen, déi fir eis Liewensqualitéit wichteg sinn.",
-    "t": 200.11
+    "t": 198.85
    },
    {
     "speaker": "Tom",
     "text": "Jo. Et publizéiert Indikateuren iwwert d'Wuelbefannen, an iwwert déi nohalteg Entwécklung.",
-    "t": 205.18
+    "t": 203.78
    },
    {
     "speaker": "Anna",
     "text": "Well eng gutt Gesellschaft ass net nëmmen, wéi vill mir produzéieren, mä wéi gutt mir liewen.",
-    "t": 210.13
+    "t": 208.73
    },
    {
     "speaker": "Tom",
     "text": "Dat ass eng gesond Manéier, e Land ze kucken... mam Kapp a mam Häerz.",
-    "t": 215.6
+    "t": 214.2
    },
    {
     "speaker": "Anna",
     "text": "Schwätze mir iwwert, firwat dat alles fir ganz normal Leit wichteg ass, souguer fir déi, déi d'Websäit ni opmaachen.",
-    "t": 220.08
+    "t": 218.68
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, well gutt Entscheedungen gutt Fakten brauchen. D'Regierunge benotzen dës Zuelen, fir ze plangen.",
-    "t": 226.31
+    "t": 224.91
    },
    {
     "speaker": "Anna",
     "text": "Schoulen, Spideeler, Wunnengen, Transport... fir dat alles ze plangen, muss een wëssen, wéi vill Leit et gëtt, a wat si brauchen.",
-    "t": 231.5
+    "t": 230.1
    },
    {
     "speaker": "Tom",
     "text": "Zweetens, well et d'ëffentlecht Gespréich éierlech hält.",
-    "t": 239.29
+    "t": 237.89
    },
    {
     "speaker": "Anna",
     "text": "Wann d'Leit iwwert d'Wirtschaft oder d'Präisser sträiden, ginn neutral Zuelen jidderengem e gemeinsamen, faktesche Startpunkt.",
-    "t": 242.47
+    "t": 241.07
    },
    {
     "speaker": "Tom",
     "text": "An drëttens, well et Äert Recht ass, et ze wëssen. Dat sinn ëffentlech Fakten iwwert Äert eegent Land.",
-    "t": 249.45
+    "t": 248.05
    },
    {
     "speaker": "Anna",
     "text": "Maache mir dat praktesch. Wéi kann een STATEC tatsächlech benotzen?",
-    "t": 254.28
+    "t": 252.88
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, wann Dir an den Noriichten eng Behaaptung iwwer Lëtzebuerg héiert, kënnt Dir déi richteg Zuelen um Portal iwwerpréiwen.",
-    "t": 258.53
+    "t": 257.03
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, wann Dir virwëtzeg op Präisser, Bevëlkerung oder d'Wirtschaft sidd, erfuerscht d'Tabellen an d'Tools gratis.",
-    "t": 264.36
+    "t": 262.86
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, wann Dir Student, Journalist, oder einfach e virwëtzege Geescht sidd, ass et eng Goldgrouf vun zouverlässegen Informatiounen.",
-    "t": 271.72
+    "t": 270.22
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, denkt drun, datt hannert dem berühmten „Index\" op Ärer Pai de STATEC steet, deen suergfälteg mooss.",
-    "t": 278.95
+    "t": 277.45
    },
    {
     "speaker": "Tom",
     "text": "Bréngen mir alles zesummen. Wat sollen d'Leit sech iwwer STATEC merken?",
-    "t": 286.21
+    "t": 284.36
    },
    {
     "speaker": "Anna",
     "text": "Éischtens... STATEC ass dat national Statistikinstitut vu Lëtzebuerg, onofhängeg an zouverlässeg, mam Motto „mir zielen, well Dir zielt\".",
-    "t": 290.18
+    "t": 288.28
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... et mooss d'Inflatioun, déi an d'Indexéierung vun de Léin a Pensioune afléisst, plus d'Bevëlkerung, d'Wirtschaft, a vill méi.",
-    "t": 299.5
+    "t": 297.89
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... dat alles ass gratis ze erfuerschen um Portal, statistiques Punkt public Punkt lu.",
-    "t": 308.28
+    "t": 306.67
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... et mooss souguer d'Wuelbefannen an déi nohalteg Entwécklung, net nëmmen d'Geld.",
-    "t": 314.24
+    "t": 312.63
    },
    {
     "speaker": "Anna",
     "text": "Zuelen kënnen sech kal upëtschen. Mä hannert all Zuel ass eng richteg Geschicht iwwer richteg Leit an dësem Land.",
-    "t": 319.07
+    "t": 317.46
    },
    {
     "speaker": "Tom",
     "text": "An éierlech, gemeinsam Fakten ze hunn, ass ee vun de roueg Fundamenter vun enger gesonder Demokratie.",
-    "t": 325.43
+    "t": 323.82
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer de STATEC an de Statistikportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 330.16
+    "t": 328.55
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 375.11
+    "t": 374.05
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 378.31
+    "t": 377.26
    }
   ]
  },
@@ -75491,7 +75491,7 @@ const EPISODES = [
   "title": "Research Luxembourg – The Country's Public Research Institutions",
   "description": "What Research Luxembourg is, the main public-research players it unites (the University of Luxembourg, the institutes LIST, LIH and LISER, the funder FNR and the innovation agency Luxinnovation), the Belval innovation campus, and why public research in health, science, technology and society matters for everyday life.",
   "audio": "podcast_research.mp3",
-  "duration": 373.45,
+  "duration": 373.63,
   "topics": [
    "What Research Luxembourg is",
    "University of Luxembourg",
@@ -75641,267 +75641,267 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "We've met LISER before, in our episode on the Observatoire de l'Habitat.",
-    "t": 126.34
+    "t": 126.4
    },
    {
     "speaker": "Anna",
     "text": "It studies society and the economy.",
-    "t": 130.98
+    "t": 131.05
    },
    {
     "speaker": "Tom",
     "text": "Things like work, housing, education, inequality... research that helps us understand how people actually live.",
-    "t": 133.42
+    "t": 133.49
    },
    {
     "speaker": "Anna",
     "text": "The fifth player is a little different.",
-    "t": 140.16
+    "t": 140.23
    },
    {
     "speaker": "Anna",
     "text": "It is the National Research Fund, often called the FNR.",
-    "t": 142.26
+    "t": 142.33
    },
    {
     "speaker": "Tom",
     "text": "The FNR doesn't mainly do research itself.",
-    "t": 146.38
+    "t": 146.45
    },
    {
     "speaker": "Tom",
     "text": "It funds research, and supports researchers across the country.",
-    "t": 149.17
+    "t": 149.24
    },
    {
     "speaker": "Anna",
     "text": "So it's a bit like the engine room... helping good ideas get the resources they need.",
-    "t": 153.03
+    "t": 153.1
    },
    {
     "speaker": "Tom",
     "text": "And the sixth is Luxinnovation, the national innovation agency.",
-    "t": 157.82
+    "t": 157.89
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation helps connect research with businesses, so that good ideas become real products and jobs.",
-    "t": 161.64
+    "t": 161.71
    },
    {
     "speaker": "Tom",
     "text": "So together you have universities, institutes, a funder, and an innovation agency, all pulling in the same direction.",
-    "t": 168.75
+    "t": 168.82
    },
    {
     "speaker": "Anna",
     "text": "There's also a special place at the heart of all this... Belval.",
-    "t": 175.05
+    "t": 175.12
    },
    {
     "speaker": "Tom",
     "text": "Belval is a former steelworks site in the south of the country, in Esch-sur-Alzette.",
-    "t": 179.06
+    "t": 179.13
    },
    {
     "speaker": "Anna",
     "text": "Where furnaces once made steel, there is now a modern campus for research and learning.",
-    "t": 183.79
+    "t": 183.86
    },
    {
     "speaker": "Tom",
     "text": "It's a beautiful symbol... a country moving from heavy industry towards knowledge and innovation.",
-    "t": 189.36
+    "t": 189.43
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about why this matters, even for people who will never work in a laboratory.",
-    "t": 195.36
+    "t": 195.43
    },
    {
     "speaker": "Tom",
     "text": "First, because research improves daily life.",
-    "t": 200.73
+    "t": 200.8
    },
    {
     "speaker": "Tom",
     "text": "Better health, cleaner energy, smarter services.",
-    "t": 203.44
+    "t": 203.51
    },
    {
     "speaker": "Anna",
     "text": "Second, because it builds the future economy.",
-    "t": 206.73
+    "t": 206.8
    },
    {
     "speaker": "Anna",
     "text": "Good research attracts talent, companies, and good jobs.",
-    "t": 209.76
+    "t": 209.83
    },
    {
     "speaker": "Tom",
     "text": "Third, because it helps us understand ourselves... our society, our challenges, and how to face them.",
-    "t": 213.61
+    "t": 213.68
    },
    {
     "speaker": "Anna",
     "text": "And fourth, because it's a source of pride.",
-    "t": 220.65
+    "t": 220.72
    },
    {
     "speaker": "Anna",
     "text": "A small country can do world-class science.",
-    "t": 223.43
+    "t": 223.5
    },
    {
     "speaker": "Tom",
     "text": "There's also something here for young people, and for newcomers.",
-    "t": 226.39
+    "t": 226.46
    },
    {
     "speaker": "Anna",
     "text": "Yes. Research Luxembourg supports research careers, and helps people start a PhD or find a science job.",
-    "t": 229.4
+    "t": 229.47
    },
    {
     "speaker": "Tom",
     "text": "So if you, or your children, are drawn to science, this whole world is open and growing.",
-    "t": 236.65
+    "t": 236.72
    },
    {
     "speaker": "Anna",
     "text": "And it's deeply international.",
-    "t": 242.14
+    "t": 242.21
    },
    {
     "speaker": "Anna",
     "text": "Researchers come from all over the world to work here, side by side.",
-    "t": 244.12
+    "t": 244.19
    },
    {
     "speaker": "Tom",
     "text": "Which fits Luxembourg perfectly... many languages, many backgrounds, one shared curiosity.",
-    "t": 248.04
+    "t": 248.11
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 253.82
+    "t": 253.89
    },
    {
     "speaker": "Anna",
     "text": "What can someone take from this?",
-    "t": 255.34
+    "t": 255.41
    },
    {
     "speaker": "Tom",
     "text": "First, know that Luxembourg has real, serious public research... in health, science, technology and society.",
-    "t": 257.35
+    "t": 257.42
    },
    {
     "speaker": "Anna",
     "text": "Second, if you're curious, you can follow Research Luxembourg's news and discoveries.",
-    "t": 264.71
+    "t": 264.78
    },
    {
     "speaker": "Tom",
     "text": "Third, if you or someone you know loves science, there are studies, PhDs and careers to explore here.",
-    "t": 270.07
+    "t": 270.14
    },
    {
     "speaker": "Anna",
     "text": "And fourth, remember that this research quietly shapes better medicines, greener tech, and wiser policies.",
-    "t": 276.23
+    "t": 276.3
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 283.02
+    "t": 283.09
    },
    {
     "speaker": "Tom",
     "text": "What should people remember?",
-    "t": 284.45
+    "t": 284.52
    },
    {
     "speaker": "Anna",
     "text": "First... Research Luxembourg unites the country's main public research players under one banner.",
-    "t": 285.88
+    "t": 285.95
    },
    {
     "speaker": "Tom",
     "text": "Second... they include the University of Luxembourg, the institutes LIST, LIH and LISER, the funder FNR, and Luxinnovation.",
-    "t": 291.96
+    "t": 292.03
    },
    {
     "speaker": "Anna",
     "text": "Third... much of it is gathered at Belval, a former steel site reborn as a campus of knowledge.",
-    "t": 300.98
+    "t": 301.17
    },
    {
     "speaker": "Tom",
     "text": "And fourth... this research improves health, the economy, and our understanding of society, and it welcomes new talent.",
-    "t": 307.7
+    "t": 307.89
    },
    {
     "speaker": "Anna",
     "text": "A country is not only its past.",
-    "t": 314.28
+    "t": 314.47
    },
    {
     "speaker": "Anna",
     "text": "It is also what it chooses to discover, and to build.",
-    "t": 316.43
+    "t": 316.62
    },
    {
     "speaker": "Tom",
     "text": "And Luxembourg is choosing, more and more, to build with knowledge.",
-    "t": 320.15
+    "t": 320.34
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about Research Luxembourg.",
-    "t": 323.33
+    "t": 323.52
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 326.07
+    "t": 326.26
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 336.71
+    "t": 336.9
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 355
+    "t": 355.19
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 361.75
+    "t": 361.94
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 363.95
+    "t": 364.14
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 368.64
+    "t": 368.83
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 369.72
+    "t": 369.92
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 371.84
+    "t": 372.04
    }
   ],
   "questions": [
@@ -77009,187 +77009,187 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Mir si dem LISER schonn eng Kéier begéint, an eiser Episod iwwert den Observatoire de l'Habitat. Hien ënnersicht d'Gesellschaft an d'Wirtschaft.",
-    "t": 126.34
+    "t": 126.4
    },
    {
     "speaker": "Tom",
     "text": "Saache wéi Aarbecht, Wunnen, Bildung, Ongläichheet... Fuerschung, déi eis hëlleft ze verstoen, wéi d'Leit wierklech liewen.",
-    "t": 133.42
+    "t": 133.49
    },
    {
     "speaker": "Anna",
     "text": "Deen fënnefte Akteur ass e bësse anescht. Et ass de Fonds National de la Recherche, dacks FNR genannt.",
-    "t": 140.16
+    "t": 140.23
    },
    {
     "speaker": "Tom",
     "text": "De FNR mécht net haaptsächlech selwer Fuerschung. Hie finanzéiert d'Fuerschung, an ënnerstëtzt d'Fuerscher am ganze Land.",
-    "t": 146.38
+    "t": 146.45
    },
    {
     "speaker": "Anna",
     "text": "Hien ass also e bësse wéi de Maschinnenraum... hien hëlleft gudden Iddien, d'Ressourcen ze kréien, déi se brauchen.",
-    "t": 153.03
+    "t": 153.1
    },
    {
     "speaker": "Tom",
     "text": "An deen sechsten ass Luxinnovation, déi national Innovatiounsagence.",
-    "t": 157.82
+    "t": 157.89
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation hëlleft, d'Fuerschung mat de Betriber ze verbannen, sou datt aus gudden Iddien echt Produkter an Aarbechtsplazen ginn.",
-    "t": 161.64
+    "t": 161.71
    },
    {
     "speaker": "Tom",
     "text": "Also zesummen hutt Dir Universitéiten, Instituter, e Finanzéierer an eng Innovatiounsagence, déi all an déiselwecht Richtung zéien.",
-    "t": 168.75
+    "t": 168.82
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och e besonneschen Uert am Häerz vun all deem... Belval.",
-    "t": 175.05
+    "t": 175.12
    },
    {
     "speaker": "Tom",
     "text": "Belval ass en ehemoolegt Stahlwierk-Gelänn am Süde vum Land, zu Esch-sur-Alzette.",
-    "t": 179.06
+    "t": 179.13
    },
    {
     "speaker": "Anna",
     "text": "Wou fréier Héichiewen Stahl gemaach hunn, gëtt et elo e modernen Campus fir Fuerschung an Léieren.",
-    "t": 183.79
+    "t": 183.86
    },
    {
     "speaker": "Tom",
     "text": "Et ass e schéine Symbol... e Land, dat sech vun der Schwéierindustrie hin zum Wëssen an zur Innovatioun beweegt.",
-    "t": 189.36
+    "t": 189.43
    },
    {
     "speaker": "Anna",
     "text": "Loosse mir doriwwer schwätzen, firwat dat wichteg ass, esouguer fir Leit, déi ni an engem Labo schaffe wäerten.",
-    "t": 195.36
+    "t": 195.43
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, well d'Fuerschung dat alldeeglecht Liewe verbessert. Eng besser Gesondheet, méi propper Energie, méi schlau Servicer.",
-    "t": 200.73
+    "t": 200.8
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, well se d'Wirtschaft vun der Zukunft opbaut. Gutt Fuerschung zitt Talenter, Betriber a gutt Aarbechtsplazen un.",
-    "t": 206.73
+    "t": 206.8
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, well se eis hëlleft, eis selwer ze verstoen... eis Gesellschaft, eis Erausfuerderungen, a wéi mir hinne begéinen.",
-    "t": 213.61
+    "t": 213.68
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, well et eng Quell vu Stolz ass. E klengt Land ka Wëssenschaft op Weltniveau maachen.",
-    "t": 220.65
+    "t": 220.72
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt hei och eppes fir jonk Leit, a fir Neiukënschtleng.",
-    "t": 226.39
+    "t": 226.46
    },
    {
     "speaker": "Anna",
     "text": "Jo. Research Luxembourg ënnerstëtzt Fuerschungskarrièren, an hëlleft de Leit, en Doktorat unzefänken oder eng Wëssenschaftsplaz ze fannen.",
-    "t": 229.4
+    "t": 229.47
    },
    {
     "speaker": "Tom",
     "text": "Also wann Dir, oder Är Kanner, vun der Wëssenschaft ugezunn sidd, ass dës ganz Welt op a wiisst.",
-    "t": 236.65
+    "t": 236.72
    },
    {
     "speaker": "Anna",
     "text": "An et ass déif international. Fuerscher kommen aus der ganzer Welt, fir hei Säit u Säit ze schaffen.",
-    "t": 242.14
+    "t": 242.21
    },
    {
     "speaker": "Tom",
     "text": "Wat perfekt zu Lëtzebuerg passt... vill Sproochen, vill Hierkonften, eng gemeinsam Virwëtz.",
-    "t": 248.04
+    "t": 248.11
    },
    {
     "speaker": "Anna",
     "text": "Loosse mir et konkret maachen. Wat kann een doraus mathuelen?",
-    "t": 253.82
+    "t": 253.89
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, wësst, datt Lëtzebuerg eng echt, eescht ëffentlech Fuerschung huet... an der Gesondheet, der Wëssenschaft, der Technologie an der Gesellschaft.",
-    "t": 257.35
+    "t": 257.42
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, wann Dir virwëtzeg sidd, kënnt Dir d'Neiegkeeten an Entdeckunge vu Research Luxembourg verfollegen.",
-    "t": 264.71
+    "t": 264.78
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, wann Dir oder een, deen Dir kennt, d'Wëssenschaft gär huet, gëtt et hei Studien, Doktoraten a Karrièren z'entdecken.",
-    "t": 270.07
+    "t": 270.14
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, denkt drun, datt dës Fuerschung roueg besser Medikamenter, méi gréng Technologien a méi klug Politiken formt.",
-    "t": 276.23
+    "t": 276.3
    },
    {
     "speaker": "Tom",
     "text": "Loosse mir alles zesummebréngen. Wat sollen d'Leit sech mierken?",
-    "t": 283.02
+    "t": 283.09
    },
    {
     "speaker": "Anna",
     "text": "Éischtens... Research Luxembourg vereent déi haaptsächlech ëffentlech Fuerschungsakteure vum Land ënner enger Fändel.",
-    "t": 285.88
+    "t": 285.95
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... dozou gehéieren d'Universitéit Lëtzebuerg, d'Instituter LIST, LIH a LISER, de Finanzéierer FNR, a Luxinnovation.",
-    "t": 291.96
+    "t": 292.03
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... vill dovun ass zu Belval gesammelt, en ehemoolegt Stahlwierk-Gelänn, dat als Campus vum Wëssen erëmgebuer gouf.",
-    "t": 300.98
+    "t": 301.17
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... dës Fuerschung verbessert d'Gesondheet, d'Wirtschaft an eist Verständnis vun der Gesellschaft, a si begréisst nei Talenter.",
-    "t": 307.7
+    "t": 307.89
    },
    {
     "speaker": "Anna",
     "text": "E Land ass net nëmme seng Vergaangenheet. Et ass och dat, wat et wielt z'entdecken an opzebauen.",
-    "t": 314.28
+    "t": 314.47
    },
    {
     "speaker": "Tom",
     "text": "A Lëtzebuerg wielt, méi a méi, mam Wëssen ze bauen.",
-    "t": 320.15
+    "t": 320.34
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer Research Luxembourg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 323.33
+    "t": 323.52
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 368.64
+    "t": 368.83
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 371.84
+    "t": 372.04
    }
   ]
  },

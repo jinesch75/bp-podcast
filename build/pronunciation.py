@@ -27,7 +27,8 @@ WORDS = {"ADEM": "Adem", "REVIS": "Revis", "ONIS": "Onis", "SYVICOL": "Syvicol",
          "BOOST": "Boost", "BEE SECURE": "Bee Secure", "UNESCO": "Unesco", "IBAN": "Iban",
          "PIN": "Pin", "CSIRT": "C-Sirt", "PAN-Bio": "Pan-Bio",
          "SIMPA": "Simpa", "COMPA": "Compa"}
-WORDS_LANG = {"en": {"FEDER": "Feder"}, "fr": {"FEDER": "Féder"}, "de": {"FEDER": "Feder"}}
+# EN LISER/STATEC: Jacques's A/B choices D/D (2026-11-17)
+WORDS_LANG = {"en": {"FEDER": "Feder", "LISER": "Lyser", "STATEC": "Statek"}, "fr": {"FEDER": "Féder"}, "de": {"FEDER": "Feder"}}
 # Capitals used only for emphasis ("you do NOT need") -> normal words.
 EMPHASIS = {"en": ["NOT", "AND"], "fr": ["PAS", "ET"], "de": ["NICHT", "UND"]}
 # Names. Biergerpakt, MyGuichet, Guichet, LuxTrust, matricule, eSpace were approved by ear in the
@@ -41,7 +42,8 @@ NAMES = {
            (r"\bËmweltberodung\b", "Um-velt-beh-roh-doong"),                 # EBL ep (2026-11-10), check by ear
            (r"(?i)\blycées?\b", "leessay"),                                  # Jacques's A/B choice C (2026-11-12)
            (r"\baccessibilite\b", "accessibilité"),
-           (r"(?i)\bklima-agence\b", "Clima-Agence"),                       # A/B choice B: Anna said "Kly-ma" (2026-11-16)
+           (r"(?i)\bklima-agence\b", "Clima-Agence"),
+           (r"(?i)\bobservation foncière\b", "observassion fonsyère"),       # A/B choice C (2026-11-17)                       # A/B choice B: Anna said "Kly-ma" (2026-11-16)
            (r"(?i)\bl[ëe]tz ?prepare\b", "Let's prepare"),                  # Lëtz prepare ep (2026-11-14), check by ear
            (r"\bLëtz\b", "Lets"),
            (r"\bBass du prett\b", "Bass doo prett"),

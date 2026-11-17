@@ -376,3 +376,7 @@ Jacques asked for the English episode as a motion graphics video and a separate 
 ## Klima-Agence in English (16 Nov 2026)
 
 Anna said "Kly-ma", Tom "clee-ma" (Jacques: Tom is right). A/B (`REF_LANG=en REF_ROLE=Tom python3 build/pron_ab.py klima …`, file `build/el_test/pron_klima_en_AB.mp3`) → choice B: EN rule `klima-agence` → "Clima-Agence" (also the website). Re-recorded the EN sentences in klima, environnement, govcert, logement (≈ 2,200 credits), put live with `replace_audio_elevenlabs.js … en`. "Klimabonus" unchanged.
+
+## LISER / STATEC / observation foncière in English (17 Nov 2026)
+
+Jacques's A/B choices (files `build/el_test/pron_{liser,fonciere,statec}_en_AB.mp3`): EN "LISER" → "Lyser" (English way, D), "STATEC" → "Statek" (French way, D) via `WORDS_LANG["en"]`; "observation foncière" → "observassion fonsyère" (C) in `NAMES["en"]`. FR/DE unchanged. Habitat EN: two "..." pauses removed (LISER lines). Re-recorded the EN sentences of habitat, research and statec (≈ 2,900 credits), put live with `replace_audio_elevenlabs.js … en`.

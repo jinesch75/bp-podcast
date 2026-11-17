@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "Research Luxembourg – The Country's Public Research Institutions",
   "description": "What Research Luxembourg is, the main public-research players it unites (the University of Luxembourg, the institutes LIST, LIH and LISER, the funder FNR and the innovation agency Luxinnovation), the Belval innovation campus, and why public research in health, science, technology and society matters for everyday life.",
   "audio": "../../podcast_research.mp3",
-  "duration": 373.45,
+  "duration": 373.63,
   "topics": [
    "What Research Luxembourg is",
    "University of Luxembourg",
@@ -156,267 +156,267 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "We've met LISER before, in our episode on the Observatoire de l'Habitat.",
-    "t": 126.34
+    "t": 126.4
    },
    {
     "speaker": "Anna",
     "text": "It studies society and the economy.",
-    "t": 130.98
+    "t": 131.05
    },
    {
     "speaker": "Tom",
     "text": "Things like work, housing, education, inequality... research that helps us understand how people actually live.",
-    "t": 133.42
+    "t": 133.49
    },
    {
     "speaker": "Anna",
     "text": "The fifth player is a little different.",
-    "t": 140.16
+    "t": 140.23
    },
    {
     "speaker": "Anna",
     "text": "It is the National Research Fund, often called the FNR.",
-    "t": 142.26
+    "t": 142.33
    },
    {
     "speaker": "Tom",
     "text": "The FNR doesn't mainly do research itself.",
-    "t": 146.38
+    "t": 146.45
    },
    {
     "speaker": "Tom",
     "text": "It funds research, and supports researchers across the country.",
-    "t": 149.17
+    "t": 149.24
    },
    {
     "speaker": "Anna",
     "text": "So it's a bit like the engine room... helping good ideas get the resources they need.",
-    "t": 153.03
+    "t": 153.1
    },
    {
     "speaker": "Tom",
     "text": "And the sixth is Luxinnovation, the national innovation agency.",
-    "t": 157.82
+    "t": 157.89
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation helps connect research with businesses, so that good ideas become real products and jobs.",
-    "t": 161.64
+    "t": 161.71
    },
    {
     "speaker": "Tom",
     "text": "So together you have universities, institutes, a funder, and an innovation agency, all pulling in the same direction.",
-    "t": 168.75
+    "t": 168.82
    },
    {
     "speaker": "Anna",
     "text": "There's also a special place at the heart of all this... Belval.",
-    "t": 175.05
+    "t": 175.12
    },
    {
     "speaker": "Tom",
     "text": "Belval is a former steelworks site in the south of the country, in Esch-sur-Alzette.",
-    "t": 179.06
+    "t": 179.13
    },
    {
     "speaker": "Anna",
     "text": "Where furnaces once made steel, there is now a modern campus for research and learning.",
-    "t": 183.79
+    "t": 183.86
    },
    {
     "speaker": "Tom",
     "text": "It's a beautiful symbol... a country moving from heavy industry towards knowledge and innovation.",
-    "t": 189.36
+    "t": 189.43
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about why this matters, even for people who will never work in a laboratory.",
-    "t": 195.36
+    "t": 195.43
    },
    {
     "speaker": "Tom",
     "text": "First, because research improves daily life.",
-    "t": 200.73
+    "t": 200.8
    },
    {
     "speaker": "Tom",
     "text": "Better health, cleaner energy, smarter services.",
-    "t": 203.44
+    "t": 203.51
    },
    {
     "speaker": "Anna",
     "text": "Second, because it builds the future economy.",
-    "t": 206.73
+    "t": 206.8
    },
    {
     "speaker": "Anna",
     "text": "Good research attracts talent, companies, and good jobs.",
-    "t": 209.76
+    "t": 209.83
    },
    {
     "speaker": "Tom",
     "text": "Third, because it helps us understand ourselves... our society, our challenges, and how to face them.",
-    "t": 213.61
+    "t": 213.68
    },
    {
     "speaker": "Anna",
     "text": "And fourth, because it's a source of pride.",
-    "t": 220.65
+    "t": 220.72
    },
    {
     "speaker": "Anna",
     "text": "A small country can do world-class science.",
-    "t": 223.43
+    "t": 223.5
    },
    {
     "speaker": "Tom",
     "text": "There's also something here for young people, and for newcomers.",
-    "t": 226.39
+    "t": 226.46
    },
    {
     "speaker": "Anna",
     "text": "Yes. Research Luxembourg supports research careers, and helps people start a PhD or find a science job.",
-    "t": 229.4
+    "t": 229.47
    },
    {
     "speaker": "Tom",
     "text": "So if you, or your children, are drawn to science, this whole world is open and growing.",
-    "t": 236.65
+    "t": 236.72
    },
    {
     "speaker": "Anna",
     "text": "And it's deeply international.",
-    "t": 242.14
+    "t": 242.21
    },
    {
     "speaker": "Anna",
     "text": "Researchers come from all over the world to work here, side by side.",
-    "t": 244.12
+    "t": 244.19
    },
    {
     "speaker": "Tom",
     "text": "Which fits Luxembourg perfectly... many languages, many backgrounds, one shared curiosity.",
-    "t": 248.04
+    "t": 248.11
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 253.82
+    "t": 253.89
    },
    {
     "speaker": "Anna",
     "text": "What can someone take from this?",
-    "t": 255.34
+    "t": 255.41
    },
    {
     "speaker": "Tom",
     "text": "First, know that Luxembourg has real, serious public research... in health, science, technology and society.",
-    "t": 257.35
+    "t": 257.42
    },
    {
     "speaker": "Anna",
     "text": "Second, if you're curious, you can follow Research Luxembourg's news and discoveries.",
-    "t": 264.71
+    "t": 264.78
    },
    {
     "speaker": "Tom",
     "text": "Third, if you or someone you know loves science, there are studies, PhDs and careers to explore here.",
-    "t": 270.07
+    "t": 270.14
    },
    {
     "speaker": "Anna",
     "text": "And fourth, remember that this research quietly shapes better medicines, greener tech, and wiser policies.",
-    "t": 276.23
+    "t": 276.3
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 283.02
+    "t": 283.09
    },
    {
     "speaker": "Tom",
     "text": "What should people remember?",
-    "t": 284.45
+    "t": 284.52
    },
    {
     "speaker": "Anna",
     "text": "First... Research Luxembourg unites the country's main public research players under one banner.",
-    "t": 285.88
+    "t": 285.95
    },
    {
     "speaker": "Tom",
     "text": "Second... they include the University of Luxembourg, the institutes LIST, LIH and LISER, the funder FNR, and Luxinnovation.",
-    "t": 291.96
+    "t": 292.03
    },
    {
     "speaker": "Anna",
     "text": "Third... much of it is gathered at Belval, a former steel site reborn as a campus of knowledge.",
-    "t": 300.98
+    "t": 301.17
    },
    {
     "speaker": "Tom",
     "text": "And fourth... this research improves health, the economy, and our understanding of society, and it welcomes new talent.",
-    "t": 307.7
+    "t": 307.89
    },
    {
     "speaker": "Anna",
     "text": "A country is not only its past.",
-    "t": 314.28
+    "t": 314.47
    },
    {
     "speaker": "Anna",
     "text": "It is also what it chooses to discover, and to build.",
-    "t": 316.43
+    "t": 316.62
    },
    {
     "speaker": "Tom",
     "text": "And Luxembourg is choosing, more and more, to build with knowledge.",
-    "t": 320.15
+    "t": 320.34
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about Research Luxembourg.",
-    "t": 323.33
+    "t": 323.52
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 326.07
+    "t": 326.26
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 336.71
+    "t": 336.9
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 355
+    "t": 355.19
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 361.75
+    "t": 361.94
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 363.95
+    "t": 364.14
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 368.64
+    "t": 368.83
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 369.72
+    "t": 369.92
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 371.84
+    "t": 372.04
    }
   ],
   "questions": [
@@ -1524,187 +1524,187 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Mir si dem LISER schonn eng Kéier begéint, an eiser Episod iwwert den Observatoire de l'Habitat. Hien ënnersicht d'Gesellschaft an d'Wirtschaft.",
-    "t": 126.34
+    "t": 126.4
    },
    {
     "speaker": "Tom",
     "text": "Saache wéi Aarbecht, Wunnen, Bildung, Ongläichheet... Fuerschung, déi eis hëlleft ze verstoen, wéi d'Leit wierklech liewen.",
-    "t": 133.42
+    "t": 133.49
    },
    {
     "speaker": "Anna",
     "text": "Deen fënnefte Akteur ass e bësse anescht. Et ass de Fonds National de la Recherche, dacks FNR genannt.",
-    "t": 140.16
+    "t": 140.23
    },
    {
     "speaker": "Tom",
     "text": "De FNR mécht net haaptsächlech selwer Fuerschung. Hie finanzéiert d'Fuerschung, an ënnerstëtzt d'Fuerscher am ganze Land.",
-    "t": 146.38
+    "t": 146.45
    },
    {
     "speaker": "Anna",
     "text": "Hien ass also e bësse wéi de Maschinnenraum... hien hëlleft gudden Iddien, d'Ressourcen ze kréien, déi se brauchen.",
-    "t": 153.03
+    "t": 153.1
    },
    {
     "speaker": "Tom",
     "text": "An deen sechsten ass Luxinnovation, déi national Innovatiounsagence.",
-    "t": 157.82
+    "t": 157.89
    },
    {
     "speaker": "Anna",
     "text": "Luxinnovation hëlleft, d'Fuerschung mat de Betriber ze verbannen, sou datt aus gudden Iddien echt Produkter an Aarbechtsplazen ginn.",
-    "t": 161.64
+    "t": 161.71
    },
    {
     "speaker": "Tom",
     "text": "Also zesummen hutt Dir Universitéiten, Instituter, e Finanzéierer an eng Innovatiounsagence, déi all an déiselwecht Richtung zéien.",
-    "t": 168.75
+    "t": 168.82
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och e besonneschen Uert am Häerz vun all deem... Belval.",
-    "t": 175.05
+    "t": 175.12
    },
    {
     "speaker": "Tom",
     "text": "Belval ass en ehemoolegt Stahlwierk-Gelänn am Süde vum Land, zu Esch-sur-Alzette.",
-    "t": 179.06
+    "t": 179.13
    },
    {
     "speaker": "Anna",
     "text": "Wou fréier Héichiewen Stahl gemaach hunn, gëtt et elo e modernen Campus fir Fuerschung an Léieren.",
-    "t": 183.79
+    "t": 183.86
    },
    {
     "speaker": "Tom",
     "text": "Et ass e schéine Symbol... e Land, dat sech vun der Schwéierindustrie hin zum Wëssen an zur Innovatioun beweegt.",
-    "t": 189.36
+    "t": 189.43
    },
    {
     "speaker": "Anna",
     "text": "Loosse mir doriwwer schwätzen, firwat dat wichteg ass, esouguer fir Leit, déi ni an engem Labo schaffe wäerten.",
-    "t": 195.36
+    "t": 195.43
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, well d'Fuerschung dat alldeeglecht Liewe verbessert. Eng besser Gesondheet, méi propper Energie, méi schlau Servicer.",
-    "t": 200.73
+    "t": 200.8
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, well se d'Wirtschaft vun der Zukunft opbaut. Gutt Fuerschung zitt Talenter, Betriber a gutt Aarbechtsplazen un.",
-    "t": 206.73
+    "t": 206.8
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, well se eis hëlleft, eis selwer ze verstoen... eis Gesellschaft, eis Erausfuerderungen, a wéi mir hinne begéinen.",
-    "t": 213.61
+    "t": 213.68
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, well et eng Quell vu Stolz ass. E klengt Land ka Wëssenschaft op Weltniveau maachen.",
-    "t": 220.65
+    "t": 220.72
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt hei och eppes fir jonk Leit, a fir Neiukënschtleng.",
-    "t": 226.39
+    "t": 226.46
    },
    {
     "speaker": "Anna",
     "text": "Jo. Research Luxembourg ënnerstëtzt Fuerschungskarrièren, an hëlleft de Leit, en Doktorat unzefänken oder eng Wëssenschaftsplaz ze fannen.",
-    "t": 229.4
+    "t": 229.47
    },
    {
     "speaker": "Tom",
     "text": "Also wann Dir, oder Är Kanner, vun der Wëssenschaft ugezunn sidd, ass dës ganz Welt op a wiisst.",
-    "t": 236.65
+    "t": 236.72
    },
    {
     "speaker": "Anna",
     "text": "An et ass déif international. Fuerscher kommen aus der ganzer Welt, fir hei Säit u Säit ze schaffen.",
-    "t": 242.14
+    "t": 242.21
    },
    {
     "speaker": "Tom",
     "text": "Wat perfekt zu Lëtzebuerg passt... vill Sproochen, vill Hierkonften, eng gemeinsam Virwëtz.",
-    "t": 248.04
+    "t": 248.11
    },
    {
     "speaker": "Anna",
     "text": "Loosse mir et konkret maachen. Wat kann een doraus mathuelen?",
-    "t": 253.82
+    "t": 253.89
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, wësst, datt Lëtzebuerg eng echt, eescht ëffentlech Fuerschung huet... an der Gesondheet, der Wëssenschaft, der Technologie an der Gesellschaft.",
-    "t": 257.35
+    "t": 257.42
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, wann Dir virwëtzeg sidd, kënnt Dir d'Neiegkeeten an Entdeckunge vu Research Luxembourg verfollegen.",
-    "t": 264.71
+    "t": 264.78
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, wann Dir oder een, deen Dir kennt, d'Wëssenschaft gär huet, gëtt et hei Studien, Doktoraten a Karrièren z'entdecken.",
-    "t": 270.07
+    "t": 270.14
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, denkt drun, datt dës Fuerschung roueg besser Medikamenter, méi gréng Technologien a méi klug Politiken formt.",
-    "t": 276.23
+    "t": 276.3
    },
    {
     "speaker": "Tom",
     "text": "Loosse mir alles zesummebréngen. Wat sollen d'Leit sech mierken?",
-    "t": 283.02
+    "t": 283.09
    },
    {
     "speaker": "Anna",
     "text": "Éischtens... Research Luxembourg vereent déi haaptsächlech ëffentlech Fuerschungsakteure vum Land ënner enger Fändel.",
-    "t": 285.88
+    "t": 285.95
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... dozou gehéieren d'Universitéit Lëtzebuerg, d'Instituter LIST, LIH a LISER, de Finanzéierer FNR, a Luxinnovation.",
-    "t": 291.96
+    "t": 292.03
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... vill dovun ass zu Belval gesammelt, en ehemoolegt Stahlwierk-Gelänn, dat als Campus vum Wëssen erëmgebuer gouf.",
-    "t": 300.98
+    "t": 301.17
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... dës Fuerschung verbessert d'Gesondheet, d'Wirtschaft an eist Verständnis vun der Gesellschaft, a si begréisst nei Talenter.",
-    "t": 307.7
+    "t": 307.89
    },
    {
     "speaker": "Anna",
     "text": "E Land ass net nëmme seng Vergaangenheet. Et ass och dat, wat et wielt z'entdecken an opzebauen.",
-    "t": 314.28
+    "t": 314.47
    },
    {
     "speaker": "Tom",
     "text": "A Lëtzebuerg wielt, méi a méi, mam Wëssen ze bauen.",
-    "t": 320.15
+    "t": 320.34
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer Research Luxembourg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 323.33
+    "t": 323.52
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 368.64
+    "t": 368.83
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 371.84
+    "t": 372.04
    }
   ]
  }

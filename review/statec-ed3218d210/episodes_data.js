@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "STATEC and the Statistics Portal – Luxembourg in Numbers",
   "description": "What STATEC, Luxembourg's national statistics institute, does, its motto 'we count because you count', how it measures inflation through the consumer price index (which feeds the indexation of salaries and pensions), the population, the economy and wellbeing, and how anyone can explore the official figures for free on statistiques.public.lu.",
   "audio": "../../podcast_statec.mp3",
-  "duration": 379.92,
+  "duration": 378.85,
   "topics": [
    "What STATEC is",
    "Independent, trustworthy figures",
@@ -71,392 +71,392 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "It is called STATEC.",
-    "t": 42.82
+    "t": 42.81
    },
    {
     "speaker": "Anna",
     "text": "STATEC is Luxembourg's national statistics institute.",
-    "t": 44.75
+    "t": 44.73
    },
    {
     "speaker": "Tom",
     "text": "It has a lovely motto... \"We count because you count.\"",
-    "t": 48.38
+    "t": 48.47
    },
    {
     "speaker": "Anna",
     "text": "I love that.",
-    "t": 51.69
+    "t": 51.78
    },
    {
     "speaker": "Anna",
     "text": "The numbers are not just for experts.",
-    "t": 52.62
+    "t": 52.71
    },
    {
     "speaker": "Anna",
     "text": "They are about people, and for people.",
-    "t": 54.79
+    "t": 54.88
    },
    {
     "speaker": "Tom",
     "text": "So Anna, what exactly does STATEC do?",
-    "t": 57.83
+    "t": 57.92
    },
    {
     "speaker": "Anna",
     "text": "STATEC collects, produces and shares official statistics about Luxembourg... the population, the economy, prices, jobs, and much more.",
-    "t": 60.16
+    "t": 60.32
    },
    {
     "speaker": "Tom",
     "text": "It works under the Ministry of the Economy, but its statistical work is independent.",
-    "t": 71.07
+    "t": 70.06
    },
    {
     "speaker": "Anna",
     "text": "That independence matters a lot.",
-    "t": 75.78
+    "t": 74.77
    },
    {
     "speaker": "Anna",
     "text": "It means the figures are neutral and trustworthy, not bent to suit anyone.",
-    "t": 77.9
+    "t": 76.89
    },
    {
     "speaker": "Tom",
     "text": "So when STATEC says something, you can rely on it being measured carefully and honestly.",
-    "t": 83.14
+    "t": 82.13
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about the most famous number STATEC produces... inflation.",
-    "t": 88.09
+    "t": 86.94
    },
    {
     "speaker": "Tom",
     "text": "Inflation is how fast prices are rising.",
-    "t": 92.73
+    "t": 91.57
    },
    {
     "speaker": "Tom",
     "text": "STATEC measures it every month.",
-    "t": 95.38
+    "t": 94.23
    },
    {
     "speaker": "Anna",
     "text": "It does this through the consumer price index... the price of a typical basket of goods and services that households buy.",
-    "t": 97.39
+    "t": 96.42
    },
    {
     "speaker": "Tom",
     "text": "Food, rent, fuel, services.",
-    "t": 104.46
+    "t": 103.49
    },
    {
     "speaker": "Tom",
     "text": "They track how that basket's price changes over time.",
-    "t": 107.61
+    "t": 106.64
    },
    {
     "speaker": "Anna",
     "text": "And here is why it matters so much in Luxembourg.",
-    "t": 110.39
+    "t": 109.42
    },
    {
     "speaker": "Anna",
     "text": "That index is linked to the famous \"index\" system.",
-    "t": 113.73
+    "t": 112.76
    },
    {
     "speaker": "Tom",
     "text": "Yes. In Luxembourg, when prices rise by a certain amount, salaries and pensions are automatically increased to keep up.",
-    "t": 117.19
+    "t": 116.22
    },
    {
     "speaker": "Anna",
     "text": "That automatic adjustment is called indexation.",
-    "t": 124.97
+    "t": 124
    },
    {
     "speaker": "Anna",
     "text": "And it is based on STATEC's measurements.",
-    "t": 128.07
+    "t": 127.1
    },
    {
     "speaker": "Tom",
     "text": "So STATEC's work touches almost every wallet in the country.",
-    "t": 130.91
+    "t": 129.93
    },
    {
     "speaker": "Tom",
     "text": "That's remarkable.",
-    "t": 134.5
+    "t": 133.41
    },
    {
     "speaker": "Anna",
     "text": "It really is.",
-    "t": 135.89
+    "t": 134.8
    },
    {
     "speaker": "Anna",
     "text": "But inflation is only one of many things STATEC measures.",
-    "t": 136.96
+    "t": 135.87
    },
    {
     "speaker": "Tom",
     "text": "It also counts the population... how many of us there are, where we live, how the country is growing.",
-    "t": 140.53
+    "t": 139.19
    },
    {
     "speaker": "Anna",
     "text": "It measures the economy, with figures like the gross domestic product, often shortened to GDP.",
-    "t": 146.81
+    "t": 145.47
    },
    {
     "speaker": "Tom",
     "text": "GDP is a measure of all that the country produces.",
-    "t": 153.48
+    "t": 152.14
    },
    {
     "speaker": "Tom",
     "text": "STATEC tracks how the economy grows or slows.",
-    "t": 156.93
+    "t": 155.63
    },
    {
     "speaker": "Anna",
     "text": "It also looks at jobs and wages, at housing, at education, at the environment, and much more.",
-    "t": 160.1
+    "t": 158.84
    },
    {
     "speaker": "Tom",
     "text": "Now, here's the question many people have.",
-    "t": 166.47
+    "t": 165.21
    },
    {
     "speaker": "Tom",
     "text": "Where can I actually see all this?",
-    "t": 168.47
+    "t": 167.21
    },
    {
     "speaker": "Anna",
     "text": "On the official statistics portal.",
-    "t": 170.51
+    "t": 169.25
    },
    {
     "speaker": "Anna",
     "text": "The website is statistiques dot public dot lu.",
-    "t": 172.71
+    "t": 171.45
    },
    {
     "speaker": "Tom",
     "text": "And the best part... it is free, and open to everyone.",
-    "t": 176.44
+    "t": 175.18
    },
    {
     "speaker": "Anna",
     "text": "You can browse tables of figures by theme, read short news releases, and explore the data yourself.",
-    "t": 179.8
+    "t": 178.54
    },
    {
     "speaker": "Tom",
     "text": "There are even simple tools and simulators on the portal.",
-    "t": 186.29
+    "t": 185.03
    },
    {
     "speaker": "Anna",
     "text": "For example, tools about inflation and indexation, or to compare figures across the years.",
-    "t": 189.26
+    "t": 188
    },
    {
     "speaker": "Tom",
     "text": "So you don't have to be an economist.",
-    "t": 195.35
+    "t": 194.09
    },
    {
     "speaker": "Tom",
     "text": "The portal is built for curious citizens too.",
-    "t": 197.36
+    "t": 196.1
    },
    {
     "speaker": "Anna",
     "text": "STATEC also looks beyond money, at things that matter for our quality of life.",
-    "t": 200.11
+    "t": 198.85
    },
    {
     "speaker": "Tom",
     "text": "Yes. It publishes indicators on wellbeing, and on sustainable development.",
-    "t": 205.18
+    "t": 203.78
    },
    {
     "speaker": "Anna",
     "text": "Because a good society is not only about how much we produce, but about how well we live.",
-    "t": 210.13
+    "t": 208.73
    },
    {
     "speaker": "Tom",
     "text": "That's a healthy way to look at a country... with both the head and the heart.",
-    "t": 215.6
+    "t": 214.2
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about why all this matters for ordinary people, even those who never open the website.",
-    "t": 220.08
+    "t": 218.68
    },
    {
     "speaker": "Tom",
     "text": "First, because good decisions need good facts.",
-    "t": 226.31
+    "t": 224.91
    },
    {
     "speaker": "Tom",
     "text": "Governments use these numbers to plan.",
-    "t": 229.11
+    "t": 227.71
    },
    {
     "speaker": "Anna",
     "text": "Schools, hospitals, housing, transport... planning all of it needs to know how many people there are, and what they need.",
-    "t": 231.5
+    "t": 230.1
    },
    {
     "speaker": "Tom",
     "text": "Second, because it keeps the public conversation honest.",
-    "t": 239.29
+    "t": 237.89
    },
    {
     "speaker": "Anna",
     "text": "When people argue about the economy or prices, neutral figures give everyone a shared, factual starting point.",
-    "t": 242.47
+    "t": 241.07
    },
    {
     "speaker": "Tom",
     "text": "And third, because it is your right to know.",
-    "t": 249.45
+    "t": 248.05
    },
    {
     "speaker": "Tom",
     "text": "These are public facts about your own country.",
-    "t": 251.87
+    "t": 250.47
    },
    {
     "speaker": "Anna",
     "text": "Let's make this practical.",
-    "t": 254.28
+    "t": 252.88
    },
    {
     "speaker": "Anna",
     "text": "How can someone actually use STATEC?",
-    "t": 255.93
+    "t": 254.53
    },
    {
     "speaker": "Tom",
     "text": "First, if you hear a claim about Luxembourg in the news, you can check the real figures on the portal.",
-    "t": 258.53
+    "t": 257.03
    },
    {
     "speaker": "Anna",
     "text": "Second, if you're curious about prices, population or the economy, explore the tables and tools for free.",
-    "t": 264.36
+    "t": 262.86
    },
    {
     "speaker": "Tom",
     "text": "Third, if you're a student, a journalist, or just a curious mind, it's a goldmine of reliable information.",
-    "t": 271.72
+    "t": 270.22
    },
    {
     "speaker": "Anna",
     "text": "And fourth, remember that behind the famous \"index\" on your payslip, there is STATEC, measuring carefully.",
-    "t": 278.95
+    "t": 277.45
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 286.21
+    "t": 284.36
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about STATEC?",
-    "t": 287.58
+    "t": 285.66
    },
    {
     "speaker": "Anna",
     "text": "First... STATEC is Luxembourg's national statistics institute, independent and trustworthy, with the motto \"we count because you count\".",
-    "t": 290.18
+    "t": 288.28
    },
    {
     "speaker": "Tom",
     "text": "Second... it measures inflation, which feeds the indexation of salaries and pensions, plus population, the economy, and much more.",
-    "t": 299.5
+    "t": 297.89
    },
    {
     "speaker": "Anna",
     "text": "Third... all of it is free to explore on the portal, statistiques dot public dot lu.",
-    "t": 308.28
+    "t": 306.67
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it even measures wellbeing and sustainable development, not just money.",
-    "t": 314.24
+    "t": 312.63
    },
    {
     "speaker": "Anna",
     "text": "Numbers can feel cold.",
-    "t": 319.07
+    "t": 317.46
    },
    {
     "speaker": "Anna",
     "text": "But behind every figure is a real story about real people in this country.",
-    "t": 320.83
+    "t": 319.22
    },
    {
     "speaker": "Tom",
     "text": "And having honest, shared facts is one of the quiet foundations of a healthy democracy.",
-    "t": 325.43
+    "t": 323.82
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about STATEC and the statistics portal.",
-    "t": 330.16
+    "t": 328.55
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 333.72
+    "t": 332.11
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 343.19
+    "t": 342.13
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 361.47
+    "t": 360.41
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 368.22
+    "t": 367.16
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 370.42
+    "t": 369.36
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 375.11
+    "t": 374.05
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 376.19
+    "t": 375.14
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 378.31
+    "t": 377.26
    }
   ],
   "questions": [
@@ -1574,267 +1574,267 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "STATEC ass dat national Statistikinstitut vu Lëtzebuerg.",
-    "t": 44.75
+    "t": 44.73
    },
    {
     "speaker": "Tom",
     "text": "Et huet e schéint Motto... „Mir zielen, well Dir zielt\".",
-    "t": 48.38
+    "t": 48.47
    },
    {
     "speaker": "Anna",
     "text": "Dat hunn ech gär. D'Zuelen sinn net nëmme fir Experten. Et geet ëm d'Leit, a si sinn fir d'Leit do.",
-    "t": 51.69
+    "t": 51.78
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wat mécht STATEC genau?",
-    "t": 57.83
+    "t": 57.92
    },
    {
     "speaker": "Anna",
     "text": "STATEC sammelt, produzéiert an deelt offiziell Statistiken iwwer Lëtzebuerg... d'Bevëlkerung, d'Wirtschaft, d'Präisser, d'Aarbechtsplazen, a vill méi.",
-    "t": 60.16
+    "t": 60.32
    },
    {
     "speaker": "Tom",
     "text": "Et schafft ënner dem Wirtschaftsministère, awer seng statistesch Aarbecht ass onofhängeg.",
-    "t": 71.07
+    "t": 70.06
    },
    {
     "speaker": "Anna",
     "text": "Dës Onofhängegkeet ass ganz wichteg. Si bedeit, datt d'Zuelen neutral an zouverlässeg sinn, an net verfälscht ginn, fir iergendengem ze gefalen.",
-    "t": 75.78
+    "t": 74.77
    },
    {
     "speaker": "Tom",
     "text": "Also wann STATEC eppes seet, kënnt Dir Iech drop verloossen, datt et suergfälteg an éierlech gemooss gouf.",
-    "t": 83.14
+    "t": 82.13
    },
    {
     "speaker": "Anna",
     "text": "Schwätze mir iwwert déi bekanntst Zuel, déi STATEC produzéiert... d'Inflatioun.",
-    "t": 88.09
+    "t": 86.94
    },
    {
     "speaker": "Tom",
     "text": "D'Inflatioun ass, wéi séier d'Präisser klammen. STATEC mooss se all Mount.",
-    "t": 92.73
+    "t": 91.57
    },
    {
     "speaker": "Anna",
     "text": "Et mécht dat duerch de Verbraucherpräisindex... de Präis vun engem typesche Kuerf vu Wueren an Déngschtleeschtungen, déi d'Stéit kafen.",
-    "t": 97.39
+    "t": 96.42
    },
    {
     "speaker": "Tom",
     "text": "Iessen, Loyer, Brennstoff, Déngschtleeschtungen. Si verfollegen, wéi de Präis vun deem Kuerf sech mat der Zäit ännert.",
-    "t": 104.46
+    "t": 103.49
    },
    {
     "speaker": "Anna",
     "text": "An hei ass, firwat dat zu Lëtzebuerg esou vill zielt. Dësen Index ass mam berühmten „Index\"-System verbonnen.",
-    "t": 110.39
+    "t": 109.42
    },
    {
     "speaker": "Tom",
     "text": "Jo. Zu Lëtzebuerg, wann d'Präisser ëm e bestëmmte Betrag klammen, ginn d'Léin an d'Pensioune automatesch eropgesat, fir Schrëtt ze halen.",
-    "t": 117.19
+    "t": 116.22
    },
    {
     "speaker": "Anna",
     "text": "Dës automatesch Upassung heescht Indexéierung. A si baséiert op de Moossunge vum STATEC.",
-    "t": 124.97
+    "t": 124
    },
    {
     "speaker": "Tom",
     "text": "Also d'Aarbecht vum STATEC beréiert bal all Portmonni am Land. Dat ass bemierkenswäert.",
-    "t": 130.91
+    "t": 129.93
    },
    {
     "speaker": "Anna",
     "text": "Dat ass et wierklech. Mä d'Inflatioun ass nëmmen eng vu ville Saachen, déi STATEC mooss.",
-    "t": 135.89
+    "t": 134.8
    },
    {
     "speaker": "Tom",
     "text": "Et zielt och d'Bevëlkerung... wéi vill mir sinn, wou mir wunnen, wéi d'Land wiisst.",
-    "t": 140.53
+    "t": 139.19
    },
    {
     "speaker": "Anna",
     "text": "Et mooss d'Wirtschaft, mat Zuelen wéi dem Bruttoinlandsprodukt, dacks als BIP ofgekierzt.",
-    "t": 146.81
+    "t": 145.47
    },
    {
     "speaker": "Tom",
     "text": "D'BIP ass e Mooss fir alles, wat d'Land produzéiert. STATEC verfollegt, wéi d'Wirtschaft wiisst oder lues gëtt.",
-    "t": 153.48
+    "t": 152.14
    },
    {
     "speaker": "Anna",
     "text": "Et kuckt och op d'Aarbechtsplazen an d'Léin, op d'Wunnen, op d'Bildung, op d'Ëmwelt, a vill méi.",
-    "t": 160.1
+    "t": 158.84
    },
    {
     "speaker": "Tom",
     "text": "Elo, hei ass d'Fro, déi vill Leit hunn. Wou kann ech dat alles tatsächlech gesinn?",
-    "t": 166.47
+    "t": 165.21
    },
    {
     "speaker": "Anna",
     "text": "Um offizielle Statistikportal. D'Websäit ass statistiques Punkt public Punkt lu.",
-    "t": 170.51
+    "t": 169.25
    },
    {
     "speaker": "Tom",
     "text": "An dat Bescht... et ass gratis, a fir jiddereen op.",
-    "t": 176.44
+    "t": 175.18
    },
    {
     "speaker": "Anna",
     "text": "Dir kënnt Zuelentabellen no Thema duerchsichen, kuerz Pressematdeelunge liesen, an d'Donnéeën selwer erfuerschen.",
-    "t": 179.8
+    "t": 178.54
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt souguer einfach Tools a Simulateuren um Portal.",
-    "t": 186.29
+    "t": 185.03
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispill Tools iwwer Inflatioun an Indexéierung, oder fir Zuelen iwwer d'Joren ze vergläichen.",
-    "t": 189.26
+    "t": 188
    },
    {
     "speaker": "Tom",
     "text": "Also Dir musst keen Economist sinn. De Portal ass och fir virwëtzeg Bierger gebaut.",
-    "t": 195.35
+    "t": 194.09
    },
    {
     "speaker": "Anna",
     "text": "STATEC kuckt och iwwert d'Geld eraus, op Saachen, déi fir eis Liewensqualitéit wichteg sinn.",
-    "t": 200.11
+    "t": 198.85
    },
    {
     "speaker": "Tom",
     "text": "Jo. Et publizéiert Indikateuren iwwert d'Wuelbefannen, an iwwert déi nohalteg Entwécklung.",
-    "t": 205.18
+    "t": 203.78
    },
    {
     "speaker": "Anna",
     "text": "Well eng gutt Gesellschaft ass net nëmmen, wéi vill mir produzéieren, mä wéi gutt mir liewen.",
-    "t": 210.13
+    "t": 208.73
    },
    {
     "speaker": "Tom",
     "text": "Dat ass eng gesond Manéier, e Land ze kucken... mam Kapp a mam Häerz.",
-    "t": 215.6
+    "t": 214.2
    },
    {
     "speaker": "Anna",
     "text": "Schwätze mir iwwert, firwat dat alles fir ganz normal Leit wichteg ass, souguer fir déi, déi d'Websäit ni opmaachen.",
-    "t": 220.08
+    "t": 218.68
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, well gutt Entscheedungen gutt Fakten brauchen. D'Regierunge benotzen dës Zuelen, fir ze plangen.",
-    "t": 226.31
+    "t": 224.91
    },
    {
     "speaker": "Anna",
     "text": "Schoulen, Spideeler, Wunnengen, Transport... fir dat alles ze plangen, muss een wëssen, wéi vill Leit et gëtt, a wat si brauchen.",
-    "t": 231.5
+    "t": 230.1
    },
    {
     "speaker": "Tom",
     "text": "Zweetens, well et d'ëffentlecht Gespréich éierlech hält.",
-    "t": 239.29
+    "t": 237.89
    },
    {
     "speaker": "Anna",
     "text": "Wann d'Leit iwwert d'Wirtschaft oder d'Präisser sträiden, ginn neutral Zuelen jidderengem e gemeinsamen, faktesche Startpunkt.",
-    "t": 242.47
+    "t": 241.07
    },
    {
     "speaker": "Tom",
     "text": "An drëttens, well et Äert Recht ass, et ze wëssen. Dat sinn ëffentlech Fakten iwwert Äert eegent Land.",
-    "t": 249.45
+    "t": 248.05
    },
    {
     "speaker": "Anna",
     "text": "Maache mir dat praktesch. Wéi kann een STATEC tatsächlech benotzen?",
-    "t": 254.28
+    "t": 252.88
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, wann Dir an den Noriichten eng Behaaptung iwwer Lëtzebuerg héiert, kënnt Dir déi richteg Zuelen um Portal iwwerpréiwen.",
-    "t": 258.53
+    "t": 257.03
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, wann Dir virwëtzeg op Präisser, Bevëlkerung oder d'Wirtschaft sidd, erfuerscht d'Tabellen an d'Tools gratis.",
-    "t": 264.36
+    "t": 262.86
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, wann Dir Student, Journalist, oder einfach e virwëtzege Geescht sidd, ass et eng Goldgrouf vun zouverlässegen Informatiounen.",
-    "t": 271.72
+    "t": 270.22
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, denkt drun, datt hannert dem berühmten „Index\" op Ärer Pai de STATEC steet, deen suergfälteg mooss.",
-    "t": 278.95
+    "t": 277.45
    },
    {
     "speaker": "Tom",
     "text": "Bréngen mir alles zesummen. Wat sollen d'Leit sech iwwer STATEC merken?",
-    "t": 286.21
+    "t": 284.36
    },
    {
     "speaker": "Anna",
     "text": "Éischtens... STATEC ass dat national Statistikinstitut vu Lëtzebuerg, onofhängeg an zouverlässeg, mam Motto „mir zielen, well Dir zielt\".",
-    "t": 290.18
+    "t": 288.28
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... et mooss d'Inflatioun, déi an d'Indexéierung vun de Léin a Pensioune afléisst, plus d'Bevëlkerung, d'Wirtschaft, a vill méi.",
-    "t": 299.5
+    "t": 297.89
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... dat alles ass gratis ze erfuerschen um Portal, statistiques Punkt public Punkt lu.",
-    "t": 308.28
+    "t": 306.67
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... et mooss souguer d'Wuelbefannen an déi nohalteg Entwécklung, net nëmmen d'Geld.",
-    "t": 314.24
+    "t": 312.63
    },
    {
     "speaker": "Anna",
     "text": "Zuelen kënnen sech kal upëtschen. Mä hannert all Zuel ass eng richteg Geschicht iwwer richteg Leit an dësem Land.",
-    "t": 319.07
+    "t": 317.46
    },
    {
     "speaker": "Tom",
     "text": "An éierlech, gemeinsam Fakten ze hunn, ass ee vun de roueg Fundamenter vun enger gesonder Demokratie.",
-    "t": 325.43
+    "t": 323.82
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer de STATEC an de Statistikportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 330.16
+    "t": 328.55
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 375.11
+    "t": 374.05
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 378.31
+    "t": 377.26
    }
   ]
  }

@@ -22,7 +22,7 @@
 **TOM:** So it has really two jobs. First, to support decision-makers, and second, to inform citizens.
 **ANNA:** Exactly. Its mission is to collect information, to analyse it, and then to share it openly.
 **TOM:** Collect, analyse, share. That's a good way to remember it.
-**ANNA:** And it does not work completely alone. It has a key partner... a research institute called LISER.
+**ANNA:** And it does not work completely alone. It has a key partner: a research institute called LISER.
 **TOM:** LISER is the Luxembourg Institute of Socio-Economic Research. It is a public research centre. And for the sale-price statistics, the Observatoire also works hand in hand with STATEC, the national statistics institute.
 **ANNA:** They bring scientific rigour... proper methods, careful analysis. So the numbers you get are solid, not guesses.
 **TOM:** Good. So what does the Observatoire actually watch? What does it measure?
@@ -86,7 +86,7 @@
 **TOM:** And fourth... knowledge reduces stress. Housing is emotional, but good information helps you make calmer decisions.
 **ANNA:** Let's bring it all together. What should people remember about the Observatoire de l'Habitat?
 **TOM:** First... it is Luxembourg's official housing observatory, created in 2003, within the Ministry of Housing.
-**ANNA:** Second... it watches sale prices, rents, land, and how affordable housing really is, with help from the research institute LISER.
+**ANNA:** Second, it watches sale prices, rents, land, and how affordable housing really is, with help from the research institute LISER.
 **TOM:** Third... its data is reliable, because sale prices come from real, notarised transactions.
 **ANNA:** Fourth... the data is public. You can explore prices by commune on data dot public dot lu, and read clear reports.
 **TOM:** And fifth... you can use it in your own life, to make better, calmer housing decisions.
