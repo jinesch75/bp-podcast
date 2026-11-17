@@ -9,9 +9,9 @@
 **ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
 **ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
-**TOM:** Und das heutige Thema ist ein fürsorgliches... Unterstützung und Schutz für Kinder, Jugendliche und Familien.
+**TOM:** Und das heutige Thema ist ein fürsorgliches: Unterstützung und Schutz für Kinder, Jugendliche und Familien.
 **ANNA:** Wir sprechen über das Office National de l'Enfance. Auf Deutsch das Nationale Kinderamt.
-**TOM:** Viele Menschen kürzen es einfach mit seinen Anfangsbuchstaben ab... O, N, E.
+**TOM:** Viele Menschen kürzen es einfach mit seinen Anfangsbuchstaben ab: O, N, E.
 **ANNA:** Also Tom, was ist das ONE und was macht es?
 **TOM:** Sein Ziel ist es, das Wohl des Kindes zu schützen und Kinder, Jugendliche und Familien zu unterstützen, die schwierige Zeiten durchmachen.
 **ANNA:** Und hier ist etwas, das die Menschen wirklich verstehen sollen. Das ONE arbeitet mit den Familien, nicht gegen sie.
@@ -19,7 +19,7 @@
 **ANNA:** Das Ziel ist, der Familie zu helfen, wieder festen Boden unter den Füßen zu finden, und das zu tun, was für das Kind am besten ist.
 **TOM:** Es geht also nicht um Schuldzuweisungen. Es geht um Unterstützung.
 **ANNA:** Genau. Sprechen wir darüber, für wen das ONE da ist.
-**TOM:** Es ist für alle Arten von Familien da... Familien mit zwei Elternteilen, Alleinerziehende, Adoptivfamilien und Pflegefamilien.
+**TOM:** Es ist für alle Arten von Familien da: Familien mit zwei Elternteilen, Alleinerziehende, Adoptivfamilien und Pflegefamilien.
 **ANNA:** Und es ist für Kinder und Jugendliche da, von den ganz Kleinen bis zu jungen Erwachsenen.
 **TOM:** Und wie erreicht man das ONE eigentlich? Wo befindet es sich?
 **ANNA:** Das ONE ist nah bei den Menschen. Es hat vierzehn regionale Kinderbüros im ganzen Land verteilt.
@@ -31,12 +31,12 @@
 **ANNA:** Wenn eine Familie um Unterstützung bittet, trifft sich eine von ihnen mit der Familie, um die Situation klar zu verstehen.
 **TOM:** Sie könnten die Familie zu Hause besuchen oder Treffen im regionalen Büro abhalten.
 **ANNA:** Dann legen sie gemeinsam mit der Familie die Hilfsmaßnahmen fest, die zu den tatsächlichen Bedürfnissen dieser Familie passen.
-**TOM:** Und sie überprüfen immer wieder... hilft das? Müssen wir etwas anderes versuchen?
+**TOM:** Und sie überprüfen immer wieder: Hilft das? Müssen wir etwas anderes versuchen?
 **ANNA:** Es ist also ein lebendiger Plan, der mit der Familie erstellt wird, und nicht ihr vorgegeben wird.
 **TOM:** Gehen wir einige der Hilfsarten durch, die das ONE einrichten kann.
 **ANNA:** Die erste ist die sogenannte sozial-familiäre Unterstützung.
 **TOM:** Das ist praktische, alltägliche Hilfe. Den Haushalt führen, das tägliche Leben organisieren, sogar das Familienbudget verwalten.
-**ANNA:** Sie kann ein Rettungsanker in einem schweren Moment sein... nach der Ankunft eines Babys, nach einer Trennung, während einer Krankheit oder nach einem Todesfall.
+**ANNA:** Sie kann ein Rettungsanker in einem schweren Moment sein, nach der Ankunft eines Babys, nach einer Trennung, während einer Krankheit oder nach einem Todesfall.
 **TOM:** Kurzfristige Hilfe, um eine schwierige Phase zu überstehen und wieder ins Gleichgewicht zu finden.
 **ANNA:** Die zweite Art ist die psychologische, soziale oder erzieherische Unterstützung innerhalb der Familie.
 **TOM:** Dabei wird die ganze Familie gemeinsam betrachtet. Gute Abläufe schaffen, sich auf Regeln einigen, Zuneigung ausdrücken, sich sicher fühlen.
@@ -47,7 +47,7 @@
 **ANNA:** Ja. Wenn ein kleines Kind Schwierigkeiten mit der Bewegung, der Sprache oder der Entwicklung hat, können Fachleute frühzeitig helfen.
 **TOM:** Frühzeitig zu helfen kann einen echten Unterschied machen und kann größere Schwierigkeiten später verhindern.
 **ANNA:** Es gibt auch die Betreuung außerhalb des Zuhauses, wenn das notwendig wird.
-**TOM:** Manchmal kann ein Kind für eine Weile nicht sicher im Familienhaushalt bleiben... zum Beispiel während einer schweren Familienkrise.
+**TOM:** Manchmal kann ein Kind für eine Weile nicht sicher im Familienhaushalt bleiben, zum Beispiel während einer schweren Familienkrise.
 **ANNA:** In diesen Fällen kann das Kind aufgenommen und unterstützt werden, entweder in einem Betreuungszentrum oder in einer Pflegefamilie.
 **TOM:** Und das Ziel ist, wo immer möglich, das Kind auf die Rückkehr nach Hause vorzubereiten, wenn alles sicher und bereit ist.
 **ANNA:** Pflegefamilien verdienen hier eine besondere Erwähnung.
@@ -65,19 +65,19 @@
 **ANNA:** Jede Familie hat manchmal Schwierigkeiten. Sich früh zu melden macht die Dinge oft einfacher, nicht schwerer.
 **TOM:** Und der ganze Ansatz des ONE beruht auf Respekt und Zusammenarbeit. Eine große Reform des Kinder- und Jugendschutzes wird im Parlament beraten, und sie stellt diesen freiwilligen Ansatz an die erste Stelle, mit dem ONE im Mittelpunkt.
 **ANNA:** Also Tom, machen wir das konkret. Was sollten die Menschen mitnehmen?
-**TOM:** Erstens... wenn Ihre Familie eine schwere Zeit durchmacht, müssen Sie nicht alles allein bewältigen.
-**ANNA:** Zweitens... das ONE hat vierzehn regionale Büros, es gibt also Unterstützung in Ihrer Nähe.
-**TOM:** Drittens... die Hilfe wird mit Ihnen aufgebaut, rund um Ihre tatsächlichen Bedürfnisse, von praktischer Unterstützung bis zur psychologischen Betreuung.
-**ANNA:** Viertens... Sie können einfach beginnen, mit einem Hilfeantragsformular auf der Website des ONE.
+**TOM:** Erstens, wenn Ihre Familie eine schwere Zeit durchmacht, müssen Sie nicht alles allein bewältigen.
+**ANNA:** Zweitens, das ONE hat vierzehn regionale Büros, es gibt also Unterstützung in Ihrer Nähe.
+**TOM:** Drittens, die Hilfe wird mit Ihnen aufgebaut, rund um Ihre tatsächlichen Bedürfnisse, von praktischer Unterstützung bis zur psychologischen Betreuung.
+**ANNA:** Viertens. Sie können einfach beginnen, mit einem Hilfeantragsformular auf der Website des ONE.
 **TOM:** Fassen wir es zusammen. Was sollten sich die Menschen über das ONE merken?
-**ANNA:** Erstens... es schützt das Wohl der Kinder und unterstützt Kinder, Jugendliche und Familien.
-**TOM:** Zweitens... es arbeitet mit den Familien, freiwillig, Schritt für Schritt, mit Respekt.
-**ANNA:** Drittens... seine Hilfe reicht von alltäglicher praktischer Unterstützung bis zur psychologischen Betreuung und, wenn nötig, zur Pflege in einer Pflegefamilie.
-**TOM:** Und viertens... es zu erreichen ist einfach, über vierzehn regionale Büros und ein Hilfeantragsformular.
+**ANNA:** Erstens, es schützt das Wohl der Kinder und unterstützt Kinder, Jugendliche und Familien.
+**TOM:** Zweitens, es arbeitet mit den Familien, freiwillig, Schritt für Schritt, mit Respekt.
+**ANNA:** Drittens, seine Hilfe reicht von alltäglicher praktischer Unterstützung bis zur psychologischen Betreuung und, wenn nötig, zur Pflege in einer Pflegefamilie.
+**TOM:** Und viertens, es zu erreichen ist einfach, über vierzehn regionale Büros und ein Hilfeantragsformular.
 **ANNA:** Kinder großzuziehen ist eine der schwersten und schönsten Aufgaben, die es gibt. Und niemand sollte das ohne Unterstützung tun.
-**TOM:** In Luxemburg hat diese Unterstützung einen Namen... das Office National de l'Enfance.
+**TOM:** In Luxemburg hat diese Unterstützung einen Namen: das Office National de l'Enfance.
 **ANNA:** Das war unsere Folge über das Office National de l'Enfance. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
-**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**TOM:** Danke an alle. Passen Sie auf sich auf, und bis zum nächsten Mal!
 **ANNA:** Vielen Dank fürs Zuhören.
 
 ---

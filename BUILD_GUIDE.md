@@ -385,3 +385,7 @@ Jacques's A/B choices (files `build/el_test/pron_{liser,fonciere,statec}_en_AB.m
 
 Jacques: the English voice can't say "Jonker staark maachen" → left out of the EN spoken lines, only the English motto "empowering youth" (2 lines, Anna; "..." pauses there removed). `build/apply_motto_snj_2026_11.py`; sources footer keeps the original. FR/DE unchanged. ≈ 130 credits.
 - Follow-up (same day): glitch at the start of Tom's "BEE SECURE promotes…" (turn started directly on "Bee"; all 4 takes weak) → "Yes, BEE SECURE promotes…". All 15 "..." pauses removed from the SNJ EN script (`build/apply_nofillers_snj_2026_11.py`; e.g. 1 s gap after "Fourth..."). `pick_word_take.py` now takes a regex word (e.g. "Bee?"). ≈ 1,500 credits. EN 7:37.
+
+## ONE (enfance) quality pass (17 Nov 2026)
+
+Jacques: recording quality not good → all 16 "..." pauses removed per language (new reusable `build/remove_ellipses.py <key> [langs] [--dry]`; then 5 hand-picked colons: initials "O, N, E", list of family types, "is this helping?", "has a name: the Office…", "a caring one: support…"). Tom's short "Where is it?" merged: "Now, how do you actually reach the ONE, and where can you find it?" (EN). Voice QC on EN/FR/DE + `best_take.py` on flagged lines (EN 6, FR 7, DE 1). NB: after a script edit that merges/splits sentences, re-check indices before `best_take.py` (they shift). ≈ 7,000 credits. EN 7:05, FR 7:03, DE 8:08. DE was already clean.

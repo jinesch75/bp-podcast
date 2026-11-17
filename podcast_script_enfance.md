@@ -9,9 +9,9 @@
 **ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
 **ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
-**TOM:** And today's topic is a caring one... support and protection for children, young people, and families.
+**TOM:** And today's topic is a caring one: support and protection for children, young people, and families.
 **ANNA:** We are talking about the Office National de l'Enfance. In English, the National Childhood Office.
-**TOM:** Many people shorten it to its initials... O, N, E.
+**TOM:** Many people shorten it to its initials: O, N, E.
 **ANNA:** So Tom, what is the ONE, and what does it do?
 **TOM:** Its purpose is to protect the wellbeing of the child, and to support children, young people, and families who are going through difficult times.
 **ANNA:** And here is something I really want people to understand. The ONE works with families, not against them.
@@ -19,9 +19,9 @@
 **ANNA:** The goal is to help the family find its own footing again, and to do what is best for the child.
 **TOM:** So this is not about blame. It is about support.
 **ANNA:** Exactly. Let's talk about who the ONE is for.
-**TOM:** It is for all kinds of families... two-parent families, single-parent families, adoptive families, and foster families.
+**TOM:** It is for all kinds of families: two-parent families, single-parent families, adoptive families, and foster families.
 **ANNA:** And it is for children and young people, from the very youngest, up to young adults.
-**TOM:** Now, how do you actually reach the ONE? Where is it?
+**TOM:** Now, how do you actually reach the ONE, and where can you find it?
 **ANNA:** The ONE is close to people. It has fourteen regional childhood offices spread across the whole country.
 **TOM:** So wherever you live in Luxembourg, there is an office not too far away.
 **ANNA:** You meet them by appointment, at the office nearest your home.
@@ -31,12 +31,12 @@
 **ANNA:** When a family asks for support, one of them meets the family to understand the situation clearly.
 **TOM:** They might visit the family at home, or hold meetings at the regional office.
 **ANNA:** Then, together with the family, they set up the help measures that fit that family's real needs.
-**TOM:** And they keep checking... is this helping? Do we need to try something else?
+**TOM:** And they keep checking: is this helping? Do we need to try something else?
 **ANNA:** So it is a living plan, made with the family, not handed down to them.
 **TOM:** Let's go through some of the kinds of help the ONE can put in place.
 **ANNA:** The first is what's called socio-family support.
 **TOM:** This is practical, everyday help. Managing the household, organising daily life, even managing the family budget.
-**ANNA:** It can be a lifeline at a hard moment... after a new baby arrives, after a separation, during an illness, or after a death.
+**ANNA:** It can be a lifeline at a hard moment, after a new baby arrives, after a separation, during an illness, or after a death.
 **TOM:** Short-term help, to get through a difficult patch and find balance again.
 **ANNA:** The second kind is psychological, social, or educational support within the family.
 **TOM:** This looks at the whole family together. Setting good routines, agreeing on rules, expressing care, feeling safe.
@@ -47,7 +47,7 @@
 **ANNA:** Yes. If a small child has difficulty with movement, speech, or development, specialists can help early.
 **TOM:** Helping early can make a real difference, and can prevent bigger difficulties later.
 **ANNA:** There is also care away from home, when that becomes necessary.
-**TOM:** Sometimes, for a while, a child cannot safely stay in the family home... for example during a serious family crisis.
+**TOM:** Sometimes, for a while, a child cannot safely stay in the family home, for example during a serious family crisis.
 **ANNA:** In those cases, the child can be welcomed and supported, either in a care centre, or in a foster family.
 **TOM:** And the aim, wherever possible, is to prepare the child to return home, when things are safe and ready.
 **ANNA:** Foster families deserve a special mention here.
@@ -65,19 +65,19 @@
 **ANNA:** Every family struggles sometimes. Reaching out early often makes things easier, not harder.
 **TOM:** And the ONE's whole approach is built on respect and collaboration. A big reform of child and youth protection is being discussed in Parliament, and it keeps this voluntary approach first, with the ONE at its centre.
 **ANNA:** So Tom, let's make this practical. What should people take away?
-**TOM:** First... if your family is going through a hard time, you don't have to handle it all alone.
-**ANNA:** Second... the ONE has fourteen regional offices, so there is support near where you live.
-**TOM:** Third... the help is built with you, around your real needs, from practical support to psychological care.
-**ANNA:** Fourth... you can start simply, with a request-for-help form on the ONE's website.
+**TOM:** First, if your family is going through a hard time, you don't have to handle it all alone.
+**ANNA:** Second, the ONE has fourteen regional offices, so there is support near where you live.
+**TOM:** Third, the help is built with you, around your real needs, from practical support to psychological care.
+**ANNA:** Fourth, you can start simply, with a request-for-help form on the ONE's website.
 **TOM:** Let's bring it together. What should people remember about the ONE?
-**ANNA:** First... it protects the wellbeing of children, and supports children, young people, and families.
-**TOM:** Second... it works with families, voluntarily, step by step, with respect.
-**ANNA:** Third... its help ranges from everyday practical support to psychological care and, when needed, foster care.
-**TOM:** And fourth... reaching it is simple, through fourteen regional offices and a request-for-help form.
+**ANNA:** First, it protects the wellbeing of children, and supports children, young people, and families.
+**TOM:** Second, it works with families, voluntarily, step by step, with respect.
+**ANNA:** Third, its help ranges from everyday practical support to psychological care and, when needed, foster care.
+**TOM:** And fourth, reaching it is simple, through fourteen regional offices and a request-for-help form.
 **ANNA:** Raising children is one of the hardest and most beautiful jobs there is. And no one should do it without support.
-**TOM:** In Luxembourg, that support has a name... the Office National de l'Enfance.
+**TOM:** In Luxembourg, that support has a name: the Office National de l'Enfance.
 **ANNA:** That was our episode about the Office National de l'Enfance. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
-**TOM:** Thank you, everyone. Take care... and see you next time!
+**TOM:** Thank you, everyone. Take care, and see you next time!
 **ANNA:** Thank you so much for listening.
 
 ---
