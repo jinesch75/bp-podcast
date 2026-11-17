@@ -384,3 +384,4 @@ Jacques's A/B choices (files `build/el_test/pron_{liser,fonciere,statec}_en_AB.m
 ## SNJ motto in English (17 Nov 2026)
 
 Jacques: the English voice can't say "Jonker staark maachen" → left out of the EN spoken lines, only the English motto "empowering youth" (2 lines, Anna; "..." pauses there removed). `build/apply_motto_snj_2026_11.py`; sources footer keeps the original. FR/DE unchanged. ≈ 130 credits.
+- Follow-up (same day): glitch at the start of Tom's "BEE SECURE promotes…" (turn started directly on "Bee"; all 4 takes weak) → "Yes, BEE SECURE promotes…". All 15 "..." pauses removed from the SNJ EN script (`build/apply_nofillers_snj_2026_11.py`; e.g. 1 s gap after "Fourth..."). `pick_word_take.py` now takes a regex word (e.g. "Bee?"). ≈ 1,500 credits. EN 7:37.

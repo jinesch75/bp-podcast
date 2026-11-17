@@ -33,7 +33,7 @@ for spk, txt in el.read_turns(key, lang):
                 open(p, "wb").write(el.request("POST", f"/text-to-speech/{vid}", api, dict(body, seed=sd), query="?output_format=mp3_44100_128"))
             segs, _ = wm.transcribe(p, language=lang, word_timestamps=True, beam_size=5)
             ws = [w for x in segs for w in x.words]
-            pr = max([w.probability for w in ws if re.sub(r"\W", "", w.word).lower() == word.lower()] + [0])
+            pr = max([w.probability for w in ws if re.fullmatch(word, re.sub(r"\W", "", w.word), re.I)] + [0])   # <word> may be a regex, e.g. "Bee?"
             ok = not el.is_cut(p) and not el.asr_problem(body["text"], el.transcribe(p, lang, "small"))
             print(f"  {'current' if sd is None else 'seed ' + str(sd)}: p({word}) = {pr:.2f}{'' if ok else '  (fails word check)'}  heard: {' '.join(w.word.strip() for w in ws)}")
             if ok and (best is None or pr > best[0] + (0.05 if sd else 0)): best = (pr, c)
