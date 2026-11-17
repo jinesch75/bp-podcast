@@ -69,7 +69,7 @@
 **ANNA:** Wéi funktionéierend Damschmelder ze hunn, seng Ausgäng ze kennen, a virsiichteg mat Käerzen a beim Kachen ze sinn.
 **TOM:** A wann Dir eng grouss ëffentlech Veranstaltung organiséiert, musst Dir se vläicht umellen, sou datt d'Rettungsdéngschter eng medizinesch Ofdeckung kënne plangen.
 **ANNA:** Also ass de Rettungsdéngscht do virun, wärend an no engem Noutfall. Virbeugen, agräifen, a sech këmmeren.
-**TOM:** Also Tom... loosse mer dat ganz praktesch maachen. Wat soll jiddereen mathuelen?
+**TOM:** Also Anna, loosse mer dat ganz praktesch maachen. Wat soll jiddereen mathuelen?
 **ANNA:** Als éischt, an dat Wichtegst... bei all Noutfall zu Lëtzebuerg, rufft d'1-1-2 un.
 **TOM:** Als zweet, léiert et Äre Kanner, an all Persoun, déi nei am Land ass. Eent-eent-zwee.
 **ANNA:** Als drëtt, wann Dir uruft, gitt Är Plaz kloer un, sot, wat geschitt ass, a bleift an der Leitung.

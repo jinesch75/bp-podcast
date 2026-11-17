@@ -55,7 +55,7 @@
 **ANNA:** Zweetens, well d'Baueren d'Landschaft präegen... d'Felder, Hecken a Wisen, un deenen mir eis all freeën.
 **TOM:** Drëttens, well den Déiereschutz d'Aart vu Gesellschaft widderspigelt, déi mir wëlle sinn.
 **ANNA:** A véiertens, well d'Ënnerstëtzung vu lokale Liewensmëttel d'Land lieweg hält, an d'Gemeinschaft staark.
-**TOM:** Also Tom, maache mer et praktesch. Wat kann een mat all deem ufänken?
+**TOM:** Also Anna, maache mer et praktesch. Wat kann een mat all deem ufänken?
 **ANNA:** Éischtens, wann Dir akafe gitt, kuckt no lokalen a saisonale Produkter, a probéiert Bio-Produkter.
 **TOM:** Zweetens, wann Dir Déieren hutt, kuckt d'Hiweiser vun der Portal un, fir Iech gutt an am Kader vum Gesetz drëm ze këmmeren.
 **ANNA:** Drëttens, besicht am Summer d'Musel, maacht eng Wéngertwanderung, a probéiert e lokale Wäin oder Crémant.

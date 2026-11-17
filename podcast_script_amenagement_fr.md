@@ -47,7 +47,7 @@
 **ANNA:** Il y a aussi un rôle pour les citoyens. Les grands plans passent souvent par une consultation publique.
 **TOM:** Vous pouvez donc vous informer, et parfois donner votre avis, lorsqu'un plan concerne votre région.
 **ANNA:** Le portail publie les plans, la stratégie et les actualités, de manière ouverte.
-**TOM:** Alors Tom, rendons cela concret. Que peut-on retenir de tout cela ?
+**TOM:** Alors Anna, rendons cela concret. Que peut-on retenir de tout cela ?
 **ANNA:** D'abord, quand vous entendrez parler d'une nouvelle zone de logement, d'un plan de transport ou d'une zone protégée, vous comprendrez la vue d'ensemble.
 **TOM:** Ensuite, si un plan touche votre commune, soyez attentif aux consultations publiques et faites entendre votre voix.
 **ANNA:** Enfin, souvenez-vous que l'objectif est l'équilibre... les logements, les emplois, les transports et la nature, vivant tous ensemble.

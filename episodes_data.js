@@ -62084,7 +62084,7 @@ const EPISODES = [
   "title": "CePAS – Psychological and School Support for Young People",
   "description": "What CePAS (the psycho-social and school support centre) is, its sixty-year history, the consultation centre for young people aged 12–30 and their families, the quick support available inside every secondary school, consultations now also in English, and how it connects with other services.",
   "audio": "podcast_cepas.mp3",
-  "duration": 423.97,
+  "duration": 423.68,
   "topics": [
    "What CePAS is",
    "Sixty years of youth support",
@@ -62428,128 +62428,128 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "So Tom... let's make it practical.",
+    "text": "So Anna, let's make it practical.",
     "t": 296.61
    },
    {
     "speaker": "Tom",
     "text": "How does someone actually use CePAS?",
-    "t": 298.97
+    "t": 298.85
    },
    {
     "speaker": "Anna",
     "text": "First... if your child needs quick support, the school's psycho-social service is right there, often without an appointment.",
-    "t": 301.85
+    "t": 301.58
    },
    {
     "speaker": "Tom",
     "text": "Second... for deeper or longer support, the consultation centre welcomes young people from twelve to thirty, and their families, by appointment.",
-    "t": 309.55
+    "t": 309.28
    },
    {
     "speaker": "Anna",
     "text": "Third... remember that since 2026, consultations are also available in English.",
-    "t": 318.31
+    "t": 318.04
    },
    {
     "speaker": "Tom",
     "text": "And fourth... these services connect with others, like the ONE, so help can be coordinated.",
-    "t": 324
+    "t": 323.73
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it all together.",
-    "t": 329.87
+    "t": 329.6
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about CePAS?",
-    "t": 331.45
+    "t": 331.18
    },
    {
     "speaker": "Tom",
     "text": "First... it is a psycho-social and school support centre, helping young people's wellbeing at school for more than sixty years.",
-    "t": 334.43
+    "t": 334.16
    },
    {
     "speaker": "Anna",
     "text": "Second... it offers psychological and therapeutic support for school, personal, and relationship problems.",
-    "t": 342.26
+    "t": 341.99
    },
    {
     "speaker": "Tom",
     "text": "Third... there is quick help inside every secondary school, and deeper support at its consultation centre.",
-    "t": 349.2
+    "t": 348.93
    },
    {
     "speaker": "Anna",
     "text": "And fourth... it works hand in hand with parents, schools, and other services.",
-    "t": 355.57
+    "t": 355.3
    },
    {
     "speaker": "Tom",
     "text": "Young people carry more than we sometimes see.",
-    "t": 360.47
+    "t": 360.2
    },
    {
     "speaker": "Tom",
     "text": "A listening ear at the right moment can mean everything.",
-    "t": 362.74
+    "t": 362.47
    },
    {
     "speaker": "Anna",
     "text": "And in Luxembourg, that listening ear has a name... CePAS.",
-    "t": 366.49
+    "t": 366.22
    },
    {
     "speaker": "Tom",
     "text": "And remember... if you or a young person you know is struggling, reaching out is always okay.",
-    "t": 370.71
+    "t": 370.44
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about CePAS.",
-    "t": 376.25
+    "t": 375.98
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 378.34
+    "t": 378.07
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 387.23
+    "t": 386.96
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 405.51
+    "t": 405.24
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 412.26
+    "t": 411.99
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 414.46
+    "t": 414.19
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 419.15
+    "t": 418.88
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 420.24
+    "t": 419.97
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 422.36
+    "t": 422.09
    }
   ],
   "questions": [
@@ -62752,7 +62752,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_cepas_fr.mp3",
-  "duration_fr": 398.63,
+  "duration_fr": 398.45,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -62772,446 +62772,446 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
     "text": "Et aujourd'hui, nous parlons d'un sujet qui touche le cœur de beaucoup de familles... le bien-être des jeunes, surtout à l'école.",
-    "t": 23.07
+    "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "Les années d'école peuvent être merveilleuses.",
-    "t": 29.69
+    "t": 29.75
    },
    {
     "speaker": "Anna",
     "text": "Mais elles peuvent aussi être stressantes, déroutantes, et parfois douloureuses.",
-    "t": 32.11
+    "t": 32.17
    },
    {
     "speaker": "Tom",
     "text": "Des inquiétudes au sujet des notes, des amitiés, de l'avenir, de ce qui se passe à la maison.",
-    "t": 36.49
+    "t": 36.55
    },
    {
     "speaker": "Anna",
     "text": "Et c'est exactement là qu'intervient l'organisation dont nous parlons aujourd'hui.",
-    "t": 42.24
+    "t": 42.3
    },
    {
     "speaker": "Anna",
     "text": "Elle s'appelle CePAS.",
-    "t": 45.74
+    "t": 45.8
    },
    {
     "speaker": "Tom",
     "text": "CePAS. Le nom complet est le Centre psycho-social et d'accompagnement scolaires.",
-    "t": 47.57
+    "t": 47.63
    },
    {
     "speaker": "Anna",
     "text": "En termes simples... c'est un centre de soutien psycho-social et scolaire pour les jeunes.",
-    "t": 52.63
+    "t": 52.69
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, quelle est l'idée principale derrière le CePAS ?",
-    "t": 57.4
+    "t": 57.46
    },
    {
     "speaker": "Anna",
     "text": "Son but est de soutenir le développement et le bien-être personnel, relationnel et scolaire des jeunes à l'école.",
-    "t": 60.72
+    "t": 60.78
    },
    {
     "speaker": "Tom",
     "text": "Donc pas seulement leurs notes, mais le jeune dans son ensemble... ses émotions, ses relations, sa confiance.",
-    "t": 66.16
+    "t": 66.22
    },
    {
     "speaker": "Anna",
     "text": "Et il le fait avec toutes les personnes qui entourent le jeune... les parents, les enseignants et le personnel scolaire.",
-    "t": 72.35
+    "t": 72.41
    },
    {
     "speaker": "Tom",
     "text": "J'aime aussi le fait qu'il ait toute une histoire.",
-    "t": 78.07
+    "t": 78.13
    },
    {
     "speaker": "Anna",
     "text": "En effet. Le CePAS est né en 1965, sous un nom plus ancien.",
-    "t": 81.73
+    "t": 81.79
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, en 2025, il a célébré soixante ans de soutien aux jeunes.",
-    "t": 86.17
+    "t": 86.23
    },
    {
     "speaker": "Tom",
     "text": "Soixante ans. Ce sont des générations de jeunes qui ont été aidés.",
-    "t": 89.93
+    "t": 89.99
    },
    {
     "speaker": "Anna",
     "text": "Voyons ce que le CePAS propose concrètement.",
-    "t": 93.76
+    "t": 93.82
    },
    {
     "speaker": "Anna",
     "text": "Il y a plusieurs volets différents.",
-    "t": 96.04
+    "t": 96.1
    },
    {
     "speaker": "Tom",
     "text": "Le premier, et celui vers lequel les familles se tournent le plus souvent, est son centre de consultation pour les jeunes et les familles.",
-    "t": 97.91
+    "t": 97.97
    },
    {
     "speaker": "Anna",
     "text": "Ce centre s'adresse aux adolescents et aux jeunes adultes, environ de douze à trente ans, ainsi qu'à leurs parents et à leurs familles.",
-    "t": 105.02
+    "t": 105.08
    },
    {
     "speaker": "Tom",
     "text": "Et quel type d'aide offre-t-il ?",
-    "t": 111.63
+    "t": 111.69
    },
    {
     "speaker": "Anna",
     "text": "Un soutien psychologique et thérapeutique, pour des problèmes scolaires, des problèmes personnels ou des problèmes relationnels.",
-    "t": 113.72
+    "t": 113.78
    },
    {
     "speaker": "Tom",
     "text": "Donc si un jeune est anxieux, déprimé, en difficulté avec ses amis, ou submergé par l'école, il peut trouver un professionnel à qui parler.",
-    "t": 119.56
+    "t": 119.62
    },
    {
     "speaker": "Anna",
     "text": "Il offre aussi d'autres formes de soutien, comme la thérapie psychomotrice, le soutien social et des activités de groupe.",
-    "t": 127.45
+    "t": 127.51
    },
    {
     "speaker": "Tom",
     "text": "Ces consultations se font sur rendez-vous.",
-    "t": 133.51
+    "t": 133.57
    },
    {
     "speaker": "Tom",
     "text": "Et voici un changement récent et bienvenu.",
-    "t": 135.89
+    "t": 135.95
    },
    {
     "speaker": "Anna",
     "text": "Oui. Depuis début 2026, vous pouvez désormais avoir ces consultations en anglais également, et pas seulement dans les autres langues du pays.",
-    "t": 138.61
+    "t": 138.67
    },
    {
     "speaker": "Tom",
     "text": "Cela ouvre la porte à beaucoup plus de familles au sein de la communauté internationale du Luxembourg.",
-    "t": 145.11
+    "t": 145.17
    },
    {
     "speaker": "Anna",
     "text": "Il existe maintenant un deuxième volet du soutien, et il se trouve directement au sein des écoles.",
-    "t": 150.13
+    "t": 150.19
    },
    {
     "speaker": "Tom",
     "text": "Il s'agit du service psycho-social scolaire, présent dans chaque lycée.",
-    "t": 154.76
+    "t": 154.82
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, dans chaque lycée, il y a des professionnels à qui un jeune peut parler.",
-    "t": 159.13
+    "t": 159.19
    },
    {
     "speaker": "Tom",
     "text": "Et un détail important... là, il n'est souvent pas nécessaire de prendre rendez-vous.",
-    "t": 162.85
+    "t": 162.91
    },
    {
     "speaker": "Anna",
     "text": "Un jeune peut être reçu rapidement, parfois le jour même.",
-    "t": 167.54
+    "t": 167.6
    },
    {
     "speaker": "Anna",
     "text": "Cette rapidité compte vraiment en cas de crise.",
-    "t": 170.63
+    "t": 170.69
    },
    {
     "speaker": "Tom",
     "text": "Imaginez donc deux niveaux.",
-    "t": 173.12
+    "t": 173.18
    },
    {
     "speaker": "Tom",
     "text": "Une aide rapide au sein de l'école, et un soutien plus approfondi au centre de consultation.",
-    "t": 174.78
+    "t": 174.84
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Et les deux sont là pour aider un jeune avant qu'une petite inquiétude ne devienne grande.",
-    "t": 180.29
+    "t": 180.35
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi un troisième volet, qui travaille en coulisses.",
-    "t": 185.46
+    "t": 185.52
    },
    {
     "speaker": "Anna",
     "text": "Oui, un centre de ressources.",
-    "t": 188.59
+    "t": 188.65
    },
    {
     "speaker": "Anna",
     "text": "Il soutient le personnel qui travaille dans les services psycho-sociaux des écoles.",
-    "t": 190.17
+    "t": 190.23
    },
    {
     "speaker": "Tom",
     "text": "Il les aide à développer leurs compétences et leur pratique professionnelle.",
-    "t": 194.06
+    "t": 194.12
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, le CePAS n'aide pas seulement les jeunes directement.",
-    "t": 198.03
+    "t": 198.09
    },
    {
     "speaker": "Anna",
     "text": "Il renforce aussi tout le réseau de personnes qui les soutiennent.",
-    "t": 200.65
+    "t": 200.71
    },
    {
     "speaker": "Tom",
     "text": "Disons un mot sur le coût et la confiance, car les familles s'inquiètent des deux.",
-    "t": 203.67
+    "t": 203.73
    },
    {
     "speaker": "Anna",
     "text": "Le soutien est là pour aider, pas pour juger.",
-    "t": 207.85
+    "t": 207.91
    },
    {
     "speaker": "Anna",
     "text": "C'est un espace sûr, professionnel et bienveillant.",
-    "t": 210.23
+    "t": 210.29
    },
    {
     "speaker": "Tom",
     "text": "Et un jeune peut s'exprimer ouvertement, en sachant qu'il est écouté avec respect.",
-    "t": 213.05
+    "t": 213.11
    },
    {
     "speaker": "Anna",
     "text": "Le CePAS gère aussi une aide financière pour les élèves de familles à faible revenu... une subvention annuelle pour le matériel et les activités scolaires, que l'on demande via le service psycho-social de l'école.",
-    "t": 217.71
+    "t": 217.77
    },
    {
     "speaker": "Anna",
     "text": "Le gouvernement prévoit de l'intégrer dans une nouvelle aide unique contre la vie chère à partir de 2027, alors renseignez-vous à l'école.",
-    "t": 228.25
+    "t": 228.31
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, cela rejoint une autre organisation dont nous avons parlé.",
-    "t": 234.87
+    "t": 234.93
    },
    {
     "speaker": "Anna",
     "text": "En effet. Le CePAS est aussi l'un des partenaires auxquels l'Office National de l'Enfance peut faire appel pour un soutien psychologique.",
-    "t": 239.15
+    "t": 239.21
    },
    {
     "speaker": "Tom",
     "text": "Donc ces services ne sont pas des îlots séparés.",
-    "t": 245.5
+    "t": 245.56
    },
    {
     "speaker": "Tom",
     "text": "Ils travaillent ensemble autour du jeune.",
-    "t": 248.2
+    "t": 248.26
    },
    {
     "speaker": "Anna",
     "text": "C'est toute la beauté de la chose.",
-    "t": 250.76
+    "t": 250.82
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup de mains, un seul objectif... un jeune qui se sent soutenu.",
-    "t": 252.52
+    "t": 252.58
    },
    {
     "speaker": "Tom",
     "text": "Disons un mot doux et sincère sur le fait de demander de l'aide.",
-    "t": 256.12
+    "t": 256.18
    },
    {
     "speaker": "Anna",
     "text": "Si vous êtes un jeune à l'écoute, et que les choses vous pèsent, sachez que demander de l'aide est courageux, et non un signe de faiblesse.",
-    "t": 259.41
+    "t": 259.47
    },
    {
     "speaker": "Tom",
     "text": "Et si vous êtes un parent qui remarque que son enfant est en difficulté, vous n'avez pas échoué.",
-    "t": 265.96
+    "t": 266.02
    },
    {
     "speaker": "Tom",
     "text": "Le soutien existe, et il fonctionne.",
-    "t": 271.02
+    "t": 271.08
    },
    {
     "speaker": "Anna",
     "text": "Parler à quelqu'un tôt peut changer le cours de toute une année scolaire, et parfois bien plus.",
-    "t": 273.67
+    "t": 273.73
    },
    {
     "speaker": "Tom",
-    "text": "Alors Tom... rendons cela concret.",
-    "t": 278.2
+    "text": "Alors Anna, rendons cela concret.",
+    "t": 278.26
    },
    {
     "speaker": "Tom",
     "text": "Comment fait-on concrètement appel au CePAS ?",
-    "t": 280.73
+    "t": 280.55
    },
    {
     "speaker": "Anna",
     "text": "D'abord... si votre enfant a besoin d'un soutien rapide, le service psycho-social scolaire est juste là, souvent sans rendez-vous.",
-    "t": 283.42
+    "t": 283.22
    },
    {
     "speaker": "Tom",
     "text": "Ensuite... pour un soutien plus approfondi ou plus long, le centre de consultation accueille les jeunes de douze à trente ans, et leurs familles, sur rendez-vous.",
-    "t": 289.54
+    "t": 289.34
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... rappelez-vous que depuis 2026, les consultations sont aussi disponibles en anglais.",
-    "t": 297.72
+    "t": 297.52
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... ces services sont en lien avec d'autres, comme l'ONE, afin que l'aide puisse être coordonnée.",
-    "t": 303.01
+    "t": 302.81
    },
    {
     "speaker": "Anna",
     "text": "Rassemblons tout cela.",
-    "t": 309.81
+    "t": 309.61
    },
    {
     "speaker": "Anna",
     "text": "Que faut-il retenir du CePAS ?",
-    "t": 311.1
+    "t": 310.9
    },
    {
     "speaker": "Tom",
     "text": "Premièrement... c'est un centre de soutien psycho-social et scolaire, qui aide au bien-être des jeunes à l'école depuis plus de soixante ans.",
-    "t": 313.04
+    "t": 312.84
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... il offre un soutien psychologique et thérapeutique pour des problèmes scolaires, personnels et relationnels.",
-    "t": 320.43
+    "t": 320.23
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... il y a une aide rapide dans chaque lycée, et un soutien plus approfondi à son centre de consultation.",
-    "t": 326.52
+    "t": 326.32
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... il travaille main dans la main avec les parents, les écoles et d'autres services.",
-    "t": 332.9
+    "t": 332.7
    },
    {
     "speaker": "Tom",
     "text": "Les jeunes portent plus de choses que nous ne le voyons parfois.",
-    "t": 338.1
+    "t": 337.9
    },
    {
     "speaker": "Tom",
     "text": "Une oreille attentive au bon moment peut tout changer.",
-    "t": 341.47
+    "t": 341.27
    },
    {
     "speaker": "Anna",
     "text": "Et au Luxembourg, cette oreille attentive a un nom... CePAS.",
-    "t": 344.88
+    "t": 344.68
    },
    {
     "speaker": "Tom",
     "text": "Et souvenez-vous... si vous, ou un jeune que vous connaissez, traversez une période difficile, demander de l'aide est toujours une bonne chose.",
-    "t": 348.57
+    "t": 348.37
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le CePAS.",
-    "t": 356.22
+    "t": 356.02
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 358.21
+    "t": 358.01
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 365.92
+    "t": 365.72
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 382.37
+    "t": 382.17
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 387.02
+    "t": 386.82
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 388.8
+    "t": 388.6
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 393.18
+    "t": 392.98
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 394.41
+    "t": 394.21
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 396.87
+    "t": 396.67
    }
   ],
   "audio_de": "podcast_cepas_de.mp3",
-  "duration_de": 479.4,
+  "duration_de": 478.48,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -63231,442 +63231,442 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
     "text": "Und heute sprechen wir über etwas, das vielen Familien sehr am Herzen liegt... das Wohlergehen junger Menschen, besonders in der Schule.",
-    "t": 27.86
+    "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Die Schuljahre können wunderbar sein.",
-    "t": 35.65
+    "t": 35.67
    },
    {
     "speaker": "Anna",
     "text": "Aber sie können auch stressig, verwirrend und manchmal schmerzhaft sein.",
-    "t": 37.88
+    "t": 37.9
    },
    {
     "speaker": "Tom",
     "text": "Sorgen wegen der Noten, wegen Freundschaften, wegen der Zukunft, wegen dem, was zu Hause passiert.",
-    "t": 42.07
+    "t": 42.09
    },
    {
     "speaker": "Anna",
     "text": "Und genau hier kommt die Organisation ins Spiel, über die wir heute sprechen.",
-    "t": 48.25
+    "t": 48.27
    },
    {
     "speaker": "Anna",
     "text": "Sie heißt CePAS.",
-    "t": 52.55
+    "t": 52.57
    },
    {
     "speaker": "Tom",
     "text": "CePAS. Der vollständige Name ist das Centre psycho-social et d'accompagnement scolaires.",
-    "t": 54.08
+    "t": 54.1
    },
    {
     "speaker": "Anna",
     "text": "Einfach gesagt... es ist ein psycho-soziales und schulisches Unterstützungszentrum für junge Menschen.",
-    "t": 60.19
+    "t": 60.21
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was ist die Grundidee hinter CePAS?",
-    "t": 66.21
+    "t": 66.23
    },
    {
     "speaker": "Anna",
     "text": "Sein Ziel ist es, die persönliche, zwischenmenschliche und schulische Entwicklung und das Wohlergehen junger Menschen in der Schule zu unterstützen.",
-    "t": 68.92
+    "t": 68.94
    },
    {
     "speaker": "Tom",
     "text": "Also nicht nur ihre Noten, sondern den ganzen jungen Menschen... seine Gefühle, seine Beziehungen, sein Selbstvertrauen.",
-    "t": 77.28
+    "t": 77.3
    },
    {
     "speaker": "Anna",
     "text": "Und es tut dies gemeinsam mit allen Menschen rund um den jungen Menschen... Eltern, Lehrkräften und Schulpersonal.",
-    "t": 84.38
+    "t": 84.4
    },
    {
     "speaker": "Tom",
     "text": "Mir gefällt auch, dass es eine lange Geschichte hat.",
-    "t": 91.52
+    "t": 91.54
    },
    {
     "speaker": "Anna",
     "text": "Das stimmt. CePAS entstand bereits 1965, unter einem früheren Namen.",
-    "t": 94.24
+    "t": 94.26
    },
    {
     "speaker": "Anna",
     "text": "So feierte es 2025 sechzig Jahre der Unterstützung junger Menschen.",
-    "t": 99.99
+    "t": 100.01
    },
    {
     "speaker": "Tom",
     "text": "Sechzig Jahre. Das sind Generationen von jungen Menschen, denen geholfen wurde.",
-    "t": 104.87
+    "t": 104.89
    },
    {
     "speaker": "Anna",
     "text": "Schauen wir uns an, was CePAS tatsächlich anbietet.",
-    "t": 109.7
+    "t": 109.72
    },
    {
     "speaker": "Anna",
     "text": "Es gibt mehrere verschiedene Bereiche.",
-    "t": 112.76
+    "t": 112.78
    },
    {
     "speaker": "Tom",
     "text": "Der erste, und derjenige, an den sich Familien am häufigsten wenden, ist sein Beratungszentrum für junge Menschen und Familien.",
-    "t": 115.13
+    "t": 115.15
    },
    {
     "speaker": "Anna",
     "text": "Dieses Zentrum ist für Jugendliche und junge Erwachsene, etwa von zwölf bis dreißig Jahren, sowie für ihre Eltern und Familien.",
-    "t": 122.96
+    "t": 122.98
    },
    {
     "speaker": "Tom",
     "text": "Und welche Art von Hilfe bietet es?",
-    "t": 130.22
+    "t": 130.24
    },
    {
     "speaker": "Anna",
     "text": "Psychologische und therapeutische Unterstützung bei schulischen Problemen, persönlichen Problemen oder Beziehungsproblemen.",
-    "t": 132.52
+    "t": 132.54
    },
    {
     "speaker": "Tom",
     "text": "Wenn ein junger Mensch also ängstlich ist, niedergeschlagen, Schwierigkeiten mit Freunden hat oder von der Schule überfordert ist, kann er einen Fachmann finden, mit dem er sprechen kann.",
-    "t": 139.42
+    "t": 139.44
    },
    {
     "speaker": "Anna",
     "text": "Es bietet auch andere Formen der Unterstützung an, wie psychomotorische Therapie, soziale Unterstützung und Gruppenaktivitäten.",
-    "t": 150.52
+    "t": 150.54
    },
    {
     "speaker": "Tom",
     "text": "Diese Beratungen finden nach Terminvereinbarung statt.",
-    "t": 157.88
+    "t": 157.9
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist eine kürzliche, willkommene Änderung.",
-    "t": 161.08
+    "t": 161.1
    },
    {
     "speaker": "Anna",
     "text": "Ja. Seit Anfang 2026 können Sie diese Beratungen nun auch auf Englisch haben, nicht nur in den anderen Sprachen des Landes.",
-    "t": 164.18
+    "t": 164.2
    },
    {
     "speaker": "Tom",
     "text": "Das öffnet die Tür für viele weitere Familien innerhalb der internationalen Gemeinschaft Luxemburgs.",
-    "t": 172.61
+    "t": 172.63
    },
    {
     "speaker": "Anna",
     "text": "Nun gibt es einen zweiten Bereich der Unterstützung, und der befindet sich direkt in den Schulen.",
-    "t": 178.73
+    "t": 178.75
    },
    {
     "speaker": "Tom",
     "text": "Das ist der schulische psycho-soziale Dienst, der in jedem Lycée (Sekundarschule) vorhanden ist.",
-    "t": 183.84
+    "t": 183.86
    },
    {
     "speaker": "Anna",
     "text": "So gibt es in jedem Lycée (Sekundarschule) Fachleute, mit denen ein junger Mensch sprechen kann.",
-    "t": 190.21
+    "t": 190.23
    },
    {
     "speaker": "Tom",
     "text": "Und ein wichtiges Detail... dort braucht man oft keinen Termin.",
-    "t": 195.84
+    "t": 195.86
    },
    {
     "speaker": "Anna",
     "text": "Ein junger Mensch kann schnell empfangen werden, manchmal noch am selben Tag.",
-    "t": 199.75
+    "t": 199.77
    },
    {
     "speaker": "Anna",
     "text": "Diese Schnelligkeit ist in einer Krise wirklich wichtig.",
-    "t": 203.96
+    "t": 203.98
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie sich also zwei Ebenen vor.",
-    "t": 207.29
+    "t": 207.31
    },
    {
     "speaker": "Tom",
     "text": "Schnelle Hilfe innerhalb der Schule, und tiefergehende Unterstützung im Beratungszentrum.",
-    "t": 209.81
+    "t": 209.83
    },
    {
     "speaker": "Anna",
     "text": "Genau. Und beide sind da, um einen jungen Menschen aufzufangen, bevor aus einer kleinen Sorge eine große wird.",
-    "t": 215.27
+    "t": 215.29
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch einen dritten Bereich, der hinter den Kulissen arbeitet.",
-    "t": 222.1
+    "t": 222.12
    },
    {
     "speaker": "Anna",
     "text": "Ja, ein Ressourcenzentrum.",
-    "t": 225.67
+    "t": 225.69
    },
    {
     "speaker": "Anna",
     "text": "Es unterstützt das Personal, das in den psycho-sozialen Diensten der Schulen arbeitet.",
-    "t": 227.62
+    "t": 227.64
    },
    {
     "speaker": "Tom",
     "text": "Es hilft ihnen, ihre Kompetenzen und ihre berufliche Praxis weiterzuentwickeln.",
-    "t": 232.43
+    "t": 232.45
    },
    {
     "speaker": "Anna",
     "text": "CePAS hilft also nicht nur jungen Menschen direkt.",
-    "t": 237.5
+    "t": 237.52
    },
    {
     "speaker": "Anna",
     "text": "Es stärkt auch das ganze Netzwerk von Menschen, die sie unterstützen.",
-    "t": 240.35
+    "t": 240.37
    },
    {
     "speaker": "Tom",
     "text": "Sagen wir etwas über Kosten und Vertrauen, denn Familien sorgen sich um beides.",
-    "t": 244.21
+    "t": 244.23
    },
    {
     "speaker": "Anna",
     "text": "Die Unterstützung ist da, um zu helfen, nicht um zu urteilen.",
-    "t": 248.85
+    "t": 248.87
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein sicherer, professioneller und fürsorglicher Ort.",
-    "t": 252.62
+    "t": 252.64
    },
    {
     "speaker": "Tom",
     "text": "Und ein junger Mensch kann offen sprechen, in dem Wissen, dass ihm mit Respekt zugehört wird.",
-    "t": 256.27
+    "t": 256.29
    },
    {
     "speaker": "Anna",
     "text": "CePAS kümmert sich auch um eine finanzielle Hilfe für Schüler aus Familien mit geringem Einkommen... einen jährlichen Zuschuss für Schulmaterial und Aktivitäten, den man über den psycho-sozialen Dienst der Schule beantragt.",
-    "t": 261.39
+    "t": 261.41
    },
    {
     "speaker": "Anna",
     "text": "Die Regierung plant, ihn ab 2027 in eine neue, einzige Teuerungshilfe einzugliedern, fragen Sie also an der Schule nach, was gilt.",
-    "t": 274.6
+    "t": 274.62
    },
    {
     "speaker": "Tom",
     "text": "Nun Anna, das hängt mit einer anderen Organisation zusammen, über die wir gesprochen haben.",
-    "t": 283.56
+    "t": 283.58
    },
    {
     "speaker": "Anna",
     "text": "Das stimmt. CePAS ist auch einer der Partner, auf die das Office National de l'Enfance für psychologische Unterstützung zurückgreifen kann.",
-    "t": 288.48
+    "t": 288.5
    },
    {
     "speaker": "Tom",
     "text": "Diese Dienste sind also keine getrennten Inseln.",
-    "t": 297.03
+    "t": 297.05
    },
    {
     "speaker": "Tom",
     "text": "Sie arbeiten gemeinsam rund um den jungen Menschen.",
-    "t": 299.77
+    "t": 299.79
    },
    {
     "speaker": "Anna",
     "text": "Das ist das Schöne daran.",
-    "t": 302.71
+    "t": 302.73
    },
    {
     "speaker": "Anna",
     "text": "Viele Hände, ein Ziel... ein junger Mensch, der sich unterstützt fühlt.",
-    "t": 304.22
+    "t": 304.24
    },
    {
     "speaker": "Tom",
     "text": "Sagen wir ein sanftes, ehrliches Wort über das Sich-Melden.",
-    "t": 309.21
+    "t": 309.23
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie ein junger Mensch sind, der zuhört, und die Dinge sich schwer anfühlen, dann wissen Sie bitte, dass um Hilfe zu bitten mutig ist, nicht schwach.",
-    "t": 312.71
+    "t": 312.73
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie ein Elternteil sind und bemerken, dass Ihr Kind Schwierigkeiten hat, dann haben Sie nicht versagt.",
-    "t": 321.37
+    "t": 321.39
    },
    {
     "speaker": "Tom",
     "text": "Unterstützung gibt es, und sie wirkt.",
-    "t": 327.33
+    "t": 327.35
    },
    {
     "speaker": "Anna",
     "text": "Frühzeitig mit jemandem zu sprechen kann den Verlauf eines ganzen Schuljahres verändern, und manchmal noch viel mehr.",
-    "t": 329.75
+    "t": 329.77
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom... machen wir es praktisch.",
-    "t": 335.9
+    "text": "Also Anna, machen wir es praktisch.",
+    "t": 335.92
    },
    {
     "speaker": "Tom",
     "text": "Wie nutzt man CePAS eigentlich?",
-    "t": 338.66
+    "t": 337.71
    },
    {
     "speaker": "Anna",
     "text": "Erstens... wenn Ihr Kind schnelle Unterstützung braucht, ist der schulische psycho-soziale Dienst direkt vor Ort, oft ohne Termin.",
-    "t": 340.68
+    "t": 339.75
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... für tiefergehende oder längere Unterstützung empfängt das Beratungszentrum junge Menschen von zwölf bis dreißig Jahren, und ihre Familien, nach Terminvereinbarung.",
-    "t": 348.96
+    "t": 348.03
    },
    {
     "speaker": "Anna",
     "text": "Drittens... denken Sie daran, dass seit 2026 die Beratungen auch auf Englisch verfügbar sind.",
-    "t": 360.51
+    "t": 359.58
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... diese Dienste sind mit anderen verbunden, wie dem ONE, damit die Hilfe koordiniert werden kann.",
-    "t": 367.26
+    "t": 366.33
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir alles zusammen.",
-    "t": 374.78
+    "t": 373.85
    },
    {
     "speaker": "Anna",
     "text": "Was sollte man sich über CePAS merken?",
-    "t": 376.52
+    "t": 375.59
    },
    {
     "speaker": "Tom",
     "text": "Erstens... es ist ein psycho-soziales und schulisches Unterstützungszentrum, das seit mehr als sechzig Jahren dem Wohlergehen junger Menschen in der Schule dient.",
-    "t": 378.9
+    "t": 377.97
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... es bietet psychologische und therapeutische Unterstützung bei schulischen, persönlichen und Beziehungsproblemen.",
-    "t": 389.74
+    "t": 388.81
    },
    {
     "speaker": "Tom",
     "text": "Drittens... es gibt schnelle Hilfe in jedem Lycée (Sekundarschule), und tiefergehende Unterstützung in seinem Beratungszentrum.",
-    "t": 397.47
+    "t": 396.54
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... es arbeitet Hand in Hand mit Eltern, Schulen und anderen Diensten.",
-    "t": 406.19
+    "t": 405.26
    },
    {
     "speaker": "Tom",
     "text": "Junge Menschen tragen mehr, als wir manchmal sehen.",
-    "t": 411.53
+    "t": 410.6
    },
    {
     "speaker": "Tom",
     "text": "Ein offenes Ohr im richtigen Moment kann alles bedeuten.",
-    "t": 414.31
+    "t": 413.38
    },
    {
     "speaker": "Anna",
     "text": "Und in Luxemburg hat dieses offene Ohr einen Namen... CePAS.",
-    "t": 417.74
+    "t": 416.81
    },
    {
     "speaker": "Tom",
     "text": "Und denken Sie daran... wenn Sie oder ein junger Mensch, den Sie kennen, Schwierigkeiten haben, ist es immer in Ordnung, sich Hilfe zu holen.",
-    "t": 422.24
+    "t": 421.31
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das CePAS.",
-    "t": 431.06
+    "t": 430.13
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 433.51
+    "t": 432.58
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 442.34
+    "t": 441.41
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 460.67
+    "t": 459.74
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 466.37
+    "t": 465.44
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 468.62
+    "t": 467.69
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 473.51
+    "t": 472.58
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 474.66
+    "t": 473.73
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 477.87
+    "t": 476.94
    }
   ],
   "segments_lb": [
@@ -63917,83 +63917,83 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom... maache mir et praktesch. Wéi notzt een de CePAS eigentlech?",
+    "text": "Also Anna, maache mir et praktesch. Wéi notzt een de CePAS eigentlech?",
     "t": 296.61
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... wann Äert Kand séier Ënnerstëtzung brauch, ass de schoulesche psycho-sozialen Déngscht direkt do, dacks ouni Rendez-vous.",
-    "t": 301.85
+    "t": 301.58
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... fir méi déif oder méi laang Ënnerstëtzung empfänkt de Beroodungszentrum jonk Leit vun zwielef bis drësseg Joer, an hir Familljen, no Rendez-vous.",
-    "t": 309.55
+    "t": 309.28
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... denkt drun, datt zanter 2026 d'Beroodungen och op Englesch disponibel sinn.",
-    "t": 318.31
+    "t": 318.04
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... dës Déngschter sinn mat anere verbonnen, wéi dem ONE, esou datt d'Hëllef kann ofgestëmmt ginn.",
-    "t": 324
+    "t": 323.73
    },
    {
     "speaker": "Anna",
     "text": "Loosse mir alles zesummebréngen. Wat sollt een sech iwwer de CePAS mierken?",
-    "t": 329.87
+    "t": 329.6
    },
    {
     "speaker": "Tom",
     "text": "Éischtens... et ass e psycho-sozialt a schoulescht Ënnerstëtzungszentrum, dat zanter méi wéi sechzeg Joer dem Wuelbefanne vu jonke Leit an der Schoul déngt.",
-    "t": 334.43
+    "t": 334.16
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... et bitt psychologesch an therapeutesch Ënnerstëtzung fir schoulesch, perséinlech a Bezéiungsproblemer.",
-    "t": 342.26
+    "t": 341.99
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... et gëtt séier Hëllef an all Lycée, an déifer Ënnerstëtzung a sengem Beroodungszentrum.",
-    "t": 349.2
+    "t": 348.93
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... et schafft Hand an Hand mat den Elteren, de Schoulen an aneren Déngschter.",
-    "t": 355.57
+    "t": 355.3
    },
    {
     "speaker": "Tom",
     "text": "Jonk Leit droe méi, wéi mir heiansdo gesinn. En oppent Ouer am richtege Moment kann alles bedeiten.",
-    "t": 360.47
+    "t": 360.2
    },
    {
     "speaker": "Anna",
     "text": "An zu Lëtzebuerg huet dëst oppent Ouer en Numm... CePAS.",
-    "t": 366.49
+    "t": 366.22
    },
    {
     "speaker": "Tom",
     "text": "An denkt drun... wann Dir oder e jonke Mënsch, deen Dir kennt, Schwieregkeeten hutt, ass et ëmmer an der Rei, sech Hëllef ze sichen.",
-    "t": 370.71
+    "t": 370.44
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer de CePAS. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 376.25
+    "t": 375.98
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 419.15
+    "t": 418.88
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 422.36
+    "t": 422.09
    }
   ]
  },
@@ -64004,7 +64004,7 @@ const EPISODES = [
   "title": "European Funds in Luxembourg – How EU Money Supports Local Projects",
   "description": "What the European Funds are, how the EU's cohesion policy invests in member countries, the main funds (regional development, the social fund, and asylum & migration), how managing authorities oversee them, what they pay for, and how organisations can take part.",
   "audio": "podcast_fondseuropeens.mp3",
-  "duration": 415.61,
+  "duration": 415.16,
   "topics": [
    "EU cohesion policy explained",
    "Regional Development Fund (FEDER)",
@@ -64353,123 +64353,123 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "So Tom... let's make it practical.",
+    "text": "So Anna, let's make it practical.",
     "t": 295.54
    },
    {
     "speaker": "Tom",
     "text": "What can someone do with this?",
-    "t": 297.64
+    "t": 297.19
    },
    {
     "speaker": "Anna",
     "text": "First... if you run an organisation or project, check the European Funds website to see if your idea fits.",
-    "t": 299.39
+    "t": 298.95
    },
    {
     "speaker": "Tom",
     "text": "Second... look at the funded projects, to understand what kinds of ideas get support.",
-    "t": 306.52
+    "t": 306.08
    },
    {
     "speaker": "Anna",
     "text": "Third... remember the main funds... the regional development fund for the economy, and the social fund for people and jobs.",
-    "t": 311.61
+    "t": 311.17
    },
    {
     "speaker": "Tom",
     "text": "And fourth... know that this money is managed carefully, by official authorities, with clear goals.",
-    "t": 319.49
+    "t": 319.05
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it all together.",
-    "t": 325.64
+    "t": 325.2
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about the European Funds?",
-    "t": 327.22
+    "t": 326.78
    },
    {
     "speaker": "Tom",
     "text": "First... the EU invests in member countries through its cohesion policy, and Luxembourg receives a share.",
-    "t": 330.39
+    "t": 329.95
    },
    {
     "speaker": "Anna",
     "text": "Second... the main funds support the economy and innovation, people and jobs, and integration.",
-    "t": 336.57
+    "t": 336.13
    },
    {
     "speaker": "Tom",
     "text": "Third... managing authorities choose and oversee projects, spending public money wisely.",
-    "t": 343.27
+    "t": 342.83
    },
    {
     "speaker": "Anna",
     "text": "And fourth... organisations can apply, and everyone can see the projects on the European Funds website.",
-    "t": 348.63
+    "t": 348.19
    },
    {
     "speaker": "Tom",
     "text": "Europe can feel far away and abstract.",
-    "t": 355.51
+    "t": 355.07
    },
    {
     "speaker": "Tom",
     "text": "But sometimes, it looks like a training course, or a new job, right next door.",
-    "t": 357.99
+    "t": 357.55
    },
    {
     "speaker": "Anna",
     "text": "And understanding that helps us see the value behind the headlines.",
-    "t": 362.49
+    "t": 362.05
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about European funds in Luxembourg.",
-    "t": 366.35
+    "t": 365.91
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 369.82
+    "t": 369.38
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 378.89
+    "t": 378.45
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 397.17
+    "t": 396.73
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 403.92
+    "t": 403.48
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 406.12
+    "t": 405.68
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 410.81
+    "t": 410.37
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 411.89
+    "t": 411.46
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 414.01
+    "t": 413.58
    }
   ],
   "questions": [
@@ -64672,7 +64672,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_fondseuropeens_fr.mp3",
-  "duration_fr": 407.01,
+  "duration_fr": 406.94,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -64692,446 +64692,446 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui peut sembler un peu technique au premier abord, mais il touche à la vie réelle... les Fonds européens.",
-    "t": 23.07
+    "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "Oui. Nous entendons beaucoup parler de l'Union européenne.",
-    "t": 29.52
+    "t": 29.58
    },
    {
     "speaker": "Anna",
     "text": "Mais qu'est-ce que cela signifie réellement, en pratique, ici au Luxembourg ?",
-    "t": 32.17
+    "t": 32.23
    },
    {
     "speaker": "Tom",
     "text": "Une partie de la réponse, c'est l'argent.",
-    "t": 35.89
+    "t": 35.95
    },
    {
     "speaker": "Tom",
     "text": "L'UE aide à financer des projets utiles dans ses pays membres.",
-    "t": 38.25
+    "t": 38.31
    },
    {
     "speaker": "Anna",
     "text": "Et au Luxembourg, il y a un site officiel et une équipe qui gèrent cela... les Fonds européens.",
-    "t": 41.87
+    "t": 41.93
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, d'où vient cet argent, et quelle est l'idée derrière tout cela ?",
-    "t": 46.89
+    "t": 46.95
    },
    {
     "speaker": "Anna",
     "text": "L'Union européenne a ce que l'on appelle la politique de cohésion.",
-    "t": 50.95
+    "t": 51.01
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les régions et les personnes à se développer, de manière équitable, à travers l'Europe.",
-    "t": 54.03
+    "t": 54.09
    },
    {
     "speaker": "Tom",
     "text": "Donc les régions plus riches et moins riches, les grands défis et les petits... l'UE investit pour aider tout le monde à avancer ensemble.",
-    "t": 59.08
+    "t": 59.14
    },
    {
     "speaker": "Anna",
     "text": "Et chaque pays membre, y compris le Luxembourg, reçoit une part à dépenser pour des objectifs convenus.",
-    "t": 67.03
+    "t": 67.09
    },
    {
     "speaker": "Tom",
     "text": "Parlons des principaux fonds, car chacun a sa propre orientation.",
-    "t": 72.29
+    "t": 72.35
    },
    {
     "speaker": "Anna",
     "text": "Le premier est le Fonds européen de développement régional (FEDER).",
-    "t": 76.29
+    "t": 76.35
    },
    {
     "speaker": "Anna",
     "text": "On l'appelle souvent par ses initiales françaises, FEDER.",
-    "t": 80.05
+    "t": 80.11
    },
    {
     "speaker": "Tom",
     "text": "Celui-ci soutient des choses comme la recherche, l'innovation, l'économie numérique, et la transition vers une énergie plus propre et à faibles émissions de carbone.",
-    "t": 83.12
+    "t": 83.18
    },
    {
     "speaker": "Anna",
     "text": "Pour le Luxembourg, dans la période actuelle de 2021 à 2027, ce fonds représente environ vingt et un millions d'euros.",
-    "t": 92.33
+    "t": 92.39
    },
    {
     "speaker": "Anna",
     "text": "Et la prochaine période, à partir de 2028, est déjà en préparation au niveau européen.",
-    "t": 98.67
+    "t": 98.73
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième est le Fonds social européen + (FSE+).",
-    "t": 103.27
+    "t": 103.33
    },
    {
     "speaker": "Tom",
     "text": "En français, le FSE Plus.",
-    "t": 107.47
+    "t": 107.53
    },
    {
     "speaker": "Anna",
     "text": "L'indice est dans le nom... social.",
-    "t": 110.09
+    "t": 110.15
    },
    {
     "speaker": "Anna",
     "text": "Ce fonds concerne les personnes.",
-    "t": 113.17
+    "t": 113.23
    },
    {
     "speaker": "Anna",
     "text": "Les emplois, les compétences, la formation, et l'inclusion des personnes laissées de côté.",
-    "t": 115.37
+    "t": 115.43
    },
    {
     "speaker": "Tom",
     "text": "Il aide à l'emploi et à la lutte contre la pauvreté et l'exclusion.",
-    "t": 119.84
+    "t": 119.9
    },
    {
     "speaker": "Anna",
     "text": "Et il y a un troisième fonds à connaître... le Fonds Asile, Migration et Intégration (AMIF).",
-    "t": 123.53
+    "t": 123.59
    },
    {
     "speaker": "Tom",
     "text": "Celui-là soutient l'accueil et l'intégration des personnes qui viennent au Luxembourg, y compris celles qui demandent l'asile.",
-    "t": 129
+    "t": 129.06
    },
    {
     "speaker": "Anna",
     "text": "Il existe aussi des fonds pour la sécurité intérieure et pour la gestion des frontières.",
-    "t": 135.48
+    "t": 135.54
    },
    {
     "speaker": "Anna",
     "text": "Et il y a Interreg, qui soutient des projets transfrontaliers avec nos voisins... par exemple dans la Grande Région.",
-    "t": 139.29
+    "t": 139.35
    },
    {
     "speaker": "Tom",
     "text": "Donc ensemble, ces fonds couvrent l'économie, les personnes, l'inclusion et la sécurité.",
-    "t": 145.31
+    "t": 145.37
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, une question importante.",
-    "t": 151.31
+    "t": 151.37
    },
    {
     "speaker": "Anna",
     "text": "Qui décide de la façon dont cet argent est dépensé, et qui veille à ce que tout soit honnête ?",
-    "t": 153.01
+    "t": 153.07
    },
    {
     "speaker": "Tom",
     "text": "Pour chaque fonds, il y a ce que l'on appelle une autorité de gestion.",
-    "t": 157.39
+    "t": 157.45
    },
    {
     "speaker": "Anna",
     "text": "Une autorité de gestion est l'organisme officiel chargé de gérer correctement le programme.",
-    "t": 161.18
+    "t": 161.24
    },
    {
     "speaker": "Tom",
     "text": "Elle choisit quels projets reçoivent un soutien, elle gère l'argent avec soin, et elle vérifie les résultats.",
-    "t": 166.01
+    "t": 166.07
    },
    {
     "speaker": "Anna",
     "text": "La règle qui les guide est la « bonne gestion financière ».",
-    "t": 172.01
+    "t": 172.07
    },
    {
     "speaker": "Anna",
     "text": "En clair... dépenser l'argent public de manière avisée et transparente.",
-    "t": 174.75
+    "t": 174.81
    },
    {
     "speaker": "Tom",
     "text": "Différents ministères assument ce rôle, selon le fonds.",
-    "t": 178.86
+    "t": 178.92
    },
    {
     "speaker": "Anna",
     "text": "Par exemple, le fonds pour l'asile et la migration est géré par le ministère responsable de la famille, de la solidarité et de l'accueil.",
-    "t": 182.14
+    "t": 182.2
    },
    {
     "speaker": "Tom",
     "text": "Donc l'argent n'est pas simplement distribué.",
-    "t": 188.65
+    "t": 188.71
    },
    {
     "speaker": "Tom",
     "text": "Il est planifié, géré, et il fait l'objet d'une reddition de comptes.",
-    "t": 191
+    "t": 191.06
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 195.32
+    "t": 195.38
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que l'argent européen finance réellement, qu'une personne ordinaire pourrait remarquer ?",
-    "t": 196.63
+    "t": 196.69
    },
    {
     "speaker": "Tom",
     "text": "Pensez à un programme de formation qui aide les personnes au chômage à acquérir de nouvelles compétences.",
-    "t": 201.03
+    "t": 201.09
    },
    {
     "speaker": "Anna",
     "text": "Ou à un projet qui aide une entreprise à innover, et à créer de bons emplois.",
-    "t": 207.12
+    "t": 207.18
    },
    {
     "speaker": "Tom",
     "text": "Ou à un soutien qui aide les nouveaux arrivants à apprendre la langue et à trouver leurs repères.",
-    "t": 211.04
+    "t": 211.1
    },
    {
     "speaker": "Anna",
     "text": "Ou à un investissement dans une énergie plus propre et une économie plus verte.",
-    "t": 215.98
+    "t": 216.04
    },
    {
     "speaker": "Tom",
     "text": "Ces projets sont souvent menés par des organisations locales... associations, entreprises, organismes publics.",
-    "t": 219.9
+    "t": 219.96
    },
    {
     "speaker": "Anna",
     "text": "Et les Fonds européens aident à les financer, aux côtés de l'argent national.",
-    "t": 226.58
+    "t": 226.64
    },
    {
     "speaker": "Anna",
     "text": "On appelle cela le cofinancement.",
-    "t": 230.4
+    "t": 230.46
    },
    {
     "speaker": "Tom",
     "text": "Donc l'UE finance rarement la totalité.",
-    "t": 232.51
+    "t": 232.57
    },
    {
     "speaker": "Tom",
     "text": "Elle unit ses forces avec le Luxembourg pour rendre un projet possible.",
-    "t": 235.31
+    "t": 235.37
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, vous vous demandez peut-être... pourrais-je, ou une organisation que je connais, utiliser ces fonds ?",
-    "t": 239.3
+    "t": 239.36
    },
    {
     "speaker": "Tom",
     "text": "Possiblement, oui. Le site des Fonds européens explique les objectifs, les appels à projets, et comment faire une demande.",
-    "t": 245.24
+    "t": 245.3
    },
    {
     "speaker": "Anna",
     "text": "Si vous dirigez une association, une entreprise, ou un projet public qui correspond aux objectifs, vous pouvez découvrir comment y participer.",
-    "t": 252.45
+    "t": 252.51
    },
    {
     "speaker": "Tom",
     "text": "Le site montre aussi des exemples de projets qui ont déjà été financés, ce qui est inspirant.",
-    "t": 259.54
+    "t": 259.6
    },
    {
     "speaker": "Anna",
     "text": "Donc ce n'est pas un monde fermé réservé aux seuls experts.",
-    "t": 264.89
+    "t": 264.95
    },
    {
     "speaker": "Anna",
     "text": "C'est ouvert, et c'est expliqué.",
-    "t": 267.55
+    "t": 267.61
    },
    {
     "speaker": "Tom",
     "text": "Disons aussi pourquoi cela compte pour les citoyens ordinaires, même ceux qui ne font jamais de demande.",
-    "t": 269.67
+    "t": 269.73
    },
    {
     "speaker": "Anna",
     "text": "Parce que c'est aussi votre argent, en tant qu'Européen, qui est réinvesti dans votre communauté.",
-    "t": 275.3
+    "t": 275.36
    },
    {
     "speaker": "Tom",
     "text": "Et parce que la transparence compte.",
-    "t": 279.84
+    "t": 279.9
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez voir où il va, et ce qu'il permet d'accomplir.",
-    "t": 281.72
+    "t": 281.78
    },
    {
     "speaker": "Anna",
     "text": "C'est un exemple discret mais réel de solidarité européenne, qui se concrétise dans de vrais projets, dans de vraies villes.",
-    "t": 284.95
+    "t": 285.01
    },
    {
     "speaker": "Tom",
-    "text": "Alors Tom... rendons cela pratique.",
-    "t": 291.45
+    "text": "Alors Anna, rendons cela pratique.",
+    "t": 291.51
    },
    {
     "speaker": "Tom",
     "text": "Que peut-on faire avec tout ça ?",
-    "t": 293.9
+    "t": 293.81
    },
    {
     "speaker": "Anna",
     "text": "D'abord... si vous dirigez une organisation ou un projet, consultez le site des Fonds européens pour voir si votre idée correspond.",
-    "t": 295.67
+    "t": 295.59
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... regardez les projets financés, pour comprendre quels types d'idées reçoivent un soutien.",
-    "t": 301.7
+    "t": 301.62
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... souvenez-vous des principaux fonds... le fonds de développement régional pour l'économie, et le fonds social pour les personnes et les emplois.",
-    "t": 307.59
+    "t": 307.51
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... sachez que cet argent est géré avec soin, par des autorités officielles, avec des objectifs clairs.",
-    "t": 315.04
+    "t": 314.96
    },
    {
     "speaker": "Anna",
     "text": "Rassemblons tout cela.",
-    "t": 321.57
+    "t": 321.49
    },
    {
     "speaker": "Anna",
     "text": "Que devraient retenir les gens à propos des Fonds européens ?",
-    "t": 322.87
+    "t": 322.79
    },
    {
     "speaker": "Tom",
     "text": "Premièrement... l'UE investit dans les pays membres à travers sa politique de cohésion, et le Luxembourg reçoit une part.",
-    "t": 325.51
+    "t": 325.43
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... les principaux fonds soutiennent l'économie et l'innovation, les personnes et les emplois, et l'intégration.",
-    "t": 332.62
+    "t": 332.54
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... les autorités de gestion choisissent et supervisent les projets, en dépensant l'argent public de manière avisée.",
-    "t": 338.8
+    "t": 338.72
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... les organisations peuvent faire une demande, et tout le monde peut voir les projets sur le site des Fonds européens.",
-    "t": 346.18
+    "t": 346.1
    },
    {
     "speaker": "Tom",
     "text": "L'Europe peut sembler lointaine et abstraite.",
-    "t": 352.14
+    "t": 352.06
    },
    {
     "speaker": "Tom",
     "text": "Mais parfois, elle ressemble à un cours de formation, ou à un nouvel emploi, juste à côté de chez vous.",
-    "t": 354.64
+    "t": 354.56
    },
    {
     "speaker": "Anna",
     "text": "Et comprendre cela nous aide à voir la valeur qui se cache derrière les gros titres.",
-    "t": 360.05
+    "t": 359.97
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur les fonds européens au Luxembourg.",
-    "t": 363.82
+    "t": 363.74
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 366.85
+    "t": 366.77
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 374.28
+    "t": 374.2
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 390.73
+    "t": 390.65
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 395.38
+    "t": 395.3
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 397.16
+    "t": 397.08
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 401.54
+    "t": 401.46
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 402.77
+    "t": 402.69
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 405.23
+    "t": 405.15
    }
   ],
   "audio_de": "podcast_fondseuropeens_de.mp3",
-  "duration_de": 486.48,
+  "duration_de": 485.8,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -65151,442 +65151,442 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema mag zunächst etwas technisch klingen, aber es betrifft das echte Leben... die Europäischen Fonds.",
-    "t": 27.86
+    "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Ja. Wir hören viel über die Europäische Union.",
-    "t": 35.19
+    "t": 35.21
    },
    {
     "speaker": "Anna",
     "text": "Aber was bedeutet das eigentlich, in der Praxis, hier in Luxemburg?",
-    "t": 38.55
+    "t": 38.57
    },
    {
     "speaker": "Tom",
     "text": "Ein Teil der Antwort ist Geld.",
-    "t": 43.04
+    "t": 43.06
    },
    {
     "speaker": "Tom",
     "text": "Die EU hilft, nützliche Projekte in ihren Mitgliedsländern zu finanzieren.",
-    "t": 45.03
+    "t": 45.05
    },
    {
     "speaker": "Anna",
     "text": "Und in Luxemburg gibt es eine offizielle Website und ein Team, das dies verwaltet... die Europäischen Fonds, oder auf Französisch die „Fonds européens\".",
-    "t": 49.93
+    "t": 49.95
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, woher kommt dieses Geld, und was ist die Idee dahinter?",
-    "t": 59.8
+    "t": 59.82
    },
    {
     "speaker": "Anna",
     "text": "Die Europäische Union hat etwas, das man Kohäsionspolitik nennt.",
-    "t": 63.92
+    "t": 63.94
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, Regionen und Menschen dabei zu helfen, sich gerecht in ganz Europa zu entwickeln.",
-    "t": 67.8
+    "t": 67.82
    },
    {
     "speaker": "Tom",
     "text": "Also reichere und weniger reiche Regionen, große Herausforderungen und kleine... die EU investiert, um allen zu helfen, gemeinsam voranzukommen.",
-    "t": 73.91
+    "t": 73.93
    },
    {
     "speaker": "Anna",
     "text": "Und jedes Mitgliedsland, einschließlich Luxemburg, erhält einen Anteil, den es für vereinbarte Ziele ausgeben kann.",
-    "t": 83.44
+    "t": 83.46
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir über die wichtigsten Fonds, denn jeder hat seinen eigenen Schwerpunkt.",
-    "t": 89.93
+    "t": 89.95
    },
    {
     "speaker": "Anna",
     "text": "Der erste ist der Europäische Fonds für regionale Entwicklung (EFRE/FEDER).",
-    "t": 94.44
+    "t": 94.46
    },
    {
     "speaker": "Anna",
     "text": "Man nennt ihn oft bei seinen französischen Initialen, FEDER.",
-    "t": 100.04
+    "t": 100.06
    },
    {
     "speaker": "Tom",
     "text": "Dieser unterstützt Dinge wie Forschung, Innovation, die digitale Wirtschaft, und den Übergang zu saubererer, kohlenstoffarmer Energie.",
-    "t": 104.04
+    "t": 104.06
    },
    {
     "speaker": "Anna",
     "text": "Für Luxemburg beläuft sich dieser Fonds im aktuellen Zeitraum von 2021 bis 2027 auf etwa einundzwanzig Millionen Euro.",
-    "t": 112.95
+    "t": 112.97
    },
    {
     "speaker": "Anna",
     "text": "Und der nächste Zeitraum, ab 2028, wird auf europäischer Ebene schon vorbereitet.",
-    "t": 122.34
+    "t": 122.36
    },
    {
     "speaker": "Tom",
     "text": "Der zweite ist der Europäische Sozialfonds Plus (ESF+/FSE+).",
-    "t": 127.94
+    "t": 127.96
    },
    {
     "speaker": "Tom",
     "text": "Auf Französisch der FSE Plus.",
-    "t": 134.17
+    "t": 134.19
    },
    {
     "speaker": "Anna",
     "text": "Der Hinweis steckt im Namen... sozial.",
-    "t": 136.8
+    "t": 136.82
    },
    {
     "speaker": "Anna",
     "text": "Bei diesem Fonds geht es um Menschen.",
-    "t": 140.03
+    "t": 140.05
    },
    {
     "speaker": "Anna",
     "text": "Arbeitsplätze, Kompetenzen, Ausbildung, und die Einbeziehung von Menschen, die zurückgelassen werden.",
-    "t": 141.89
+    "t": 141.91
    },
    {
     "speaker": "Tom",
     "text": "Er hilft bei der Beschäftigung und bei der Bekämpfung von Armut und Ausgrenzung.",
-    "t": 148.18
+    "t": 148.2
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt einen dritten Fonds, den man kennen sollte... den Asyl-, Migrations- und Integrationsfonds (AMIF).",
-    "t": 152.92
+    "t": 152.94
    },
    {
     "speaker": "Tom",
     "text": "Dieser unterstützt die Aufnahme und Integration von Menschen, die nach Luxemburg kommen, einschließlich derjenigen, die Asyl suchen.",
-    "t": 160.13
+    "t": 160.15
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch Fonds für die innere Sicherheit und für die Verwaltung der Grenzen.",
-    "t": 167.5
+    "t": 167.52
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt Interreg, das grenzüberschreitende Projekte mit unseren Nachbarn unterstützt... zum Beispiel in der Großregion.",
-    "t": 171.44
+    "t": 171.46
    },
    {
     "speaker": "Tom",
     "text": "Zusammen decken diese Fonds also die Wirtschaft, die Menschen, die Inklusion und die Sicherheit ab.",
-    "t": 178.52
+    "t": 178.54
    },
    {
     "speaker": "Anna",
     "text": "Nun eine wichtige Frage.",
-    "t": 185.2
+    "t": 185.22
    },
    {
     "speaker": "Anna",
     "text": "Wer entscheidet, wie dieses Geld ausgegeben wird, und wer sorgt dafür, dass alles ehrlich zugeht?",
-    "t": 186.8
+    "t": 186.82
    },
    {
     "speaker": "Tom",
     "text": "Für jeden Fonds gibt es eine sogenannte Verwaltungsbehörde.",
-    "t": 192.31
+    "t": 192.33
    },
    {
     "speaker": "Anna",
     "text": "Eine Verwaltungsbehörde ist die offizielle Stelle, die dafür verantwortlich ist, das Programm ordnungsgemäß durchzuführen.",
-    "t": 195.63
+    "t": 195.65
    },
    {
     "speaker": "Tom",
     "text": "Sie wählt aus, welche Projekte unterstützt werden, sie verwaltet das Geld sorgfältig, und sie überprüft die Ergebnisse.",
-    "t": 202.7
+    "t": 202.72
    },
    {
     "speaker": "Anna",
     "text": "Die Regel, die sie leitet, ist die „wirtschaftliche Haushaltsführung\".",
-    "t": 209.93
+    "t": 209.95
    },
    {
     "speaker": "Anna",
     "text": "Mit einfachen Worten... öffentliche Gelder klug und transparent ausgeben.",
-    "t": 213.59
+    "t": 213.61
    },
    {
     "speaker": "Tom",
     "text": "Verschiedene Ministerien übernehmen diese Rolle, je nach Fonds.",
-    "t": 218.31
+    "t": 218.33
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispiel wird der Fonds für Asyl und Migration vom Ministerium verwaltet, das für Familie, Solidarität und die Aufnahme von Menschen zuständig ist.",
-    "t": 222.07
+    "t": 222.09
    },
    {
     "speaker": "Tom",
     "text": "Das Geld wird also nicht einfach ausgeteilt.",
-    "t": 230.79
+    "t": 230.81
    },
    {
     "speaker": "Tom",
     "text": "Es wird geplant, verwaltet und es wird Rechenschaft darüber abgelegt.",
-    "t": 233.4
+    "t": 233.42
    },
    {
     "speaker": "Anna",
     "text": "Machen wir das konkret.",
-    "t": 237.78
+    "t": 237.8
    },
    {
     "speaker": "Anna",
     "text": "Was bezahlt das europäische Geld eigentlich, das eine normale Person bemerken könnte?",
-    "t": 239.31
+    "t": 239.33
    },
    {
     "speaker": "Tom",
     "text": "Denken Sie an ein Ausbildungsprogramm, das Arbeitslosen hilft, neue Kompetenzen zu erwerben.",
-    "t": 244.43
+    "t": 244.45
    },
    {
     "speaker": "Anna",
     "text": "Oder an ein Projekt, das einem Unternehmen hilft, innovativ zu sein und gute Arbeitsplätze zu schaffen.",
-    "t": 249.97
+    "t": 249.99
    },
    {
     "speaker": "Tom",
     "text": "Oder an eine Unterstützung, die Neuankömmlingen hilft, die Sprache zu lernen und sich zurechtzufinden.",
-    "t": 256
+    "t": 256.02
    },
    {
     "speaker": "Anna",
     "text": "Oder an Investitionen in sauberere Energie und eine grünere Wirtschaft.",
-    "t": 262.16
+    "t": 262.18
    },
    {
     "speaker": "Tom",
     "text": "Diese Projekte werden oft von lokalen Organisationen durchgeführt... Vereinen, Unternehmen, öffentlichen Einrichtungen.",
-    "t": 267.2
+    "t": 267.22
    },
    {
     "speaker": "Anna",
     "text": "Und die Europäischen Fonds helfen, sie zu finanzieren, zusammen mit nationalen Geldern.",
-    "t": 274.64
+    "t": 274.66
    },
    {
     "speaker": "Anna",
     "text": "Das nennt man Kofinanzierung.",
-    "t": 279.63
+    "t": 279.65
    },
    {
     "speaker": "Tom",
     "text": "Die EU bezahlt also selten alles.",
-    "t": 281.79
+    "t": 281.81
    },
    {
     "speaker": "Tom",
     "text": "Sie schließt sich mit Luxemburg zusammen, um ein Projekt möglich zu machen.",
-    "t": 284.42
+    "t": 284.44
    },
    {
     "speaker": "Anna",
     "text": "Nun fragen Sie sich vielleicht... könnte ich, oder eine Organisation, die ich kenne, diese Fonds nutzen?",
-    "t": 288.47
+    "t": 288.49
    },
    {
     "speaker": "Tom",
     "text": "Möglicherweise, ja. Die Website der Europäischen Fonds erklärt die Ziele, die Projektaufrufe, und wie man einen Antrag stellt.",
-    "t": 295.35
+    "t": 295.37
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie einen Verein, ein Unternehmen oder ein öffentliches Projekt leiten, das zu den Zielen passt, können Sie herausfinden, wie Sie teilnehmen können.",
-    "t": 304.03
+    "t": 304.05
    },
    {
     "speaker": "Tom",
     "text": "Die Website zeigt auch Beispiele von Projekten, die bereits finanziert wurden, was inspirierend ist.",
-    "t": 312.03
+    "t": 312.05
    },
    {
     "speaker": "Anna",
     "text": "Das ist also keine geschlossene Welt nur für Experten.",
-    "t": 317.91
+    "t": 317.93
    },
    {
     "speaker": "Anna",
     "text": "Sie ist offen, und sie wird erklärt.",
-    "t": 321.13
+    "t": 321.15
    },
    {
     "speaker": "Tom",
     "text": "Sagen wir auch, warum das für gewöhnliche Bürger wichtig ist, selbst für diejenigen, die nie einen Antrag stellen.",
-    "t": 323.75
+    "t": 323.77
    },
    {
     "speaker": "Anna",
     "text": "Weil dies auch Ihr Geld ist, als Europäer, das wieder in Ihre Gemeinschaft investiert wird.",
-    "t": 330.34
+    "t": 330.36
    },
    {
     "speaker": "Tom",
     "text": "Und weil Transparenz wichtig ist.",
-    "t": 335.73
+    "t": 335.75
    },
    {
     "speaker": "Tom",
     "text": "Sie können sehen, wohin es geht, und was es bewirkt.",
-    "t": 338
+    "t": 338.02
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein stilles, aber echtes Beispiel europäischer Solidarität, das in echten Projekten, in echten Städten, ankommt.",
-    "t": 341.24
+    "t": 341.26
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom... machen wir es praktisch.",
-    "t": 348.55
+    "text": "Also Anna, machen wir es praktisch.",
+    "t": 348.57
    },
    {
     "speaker": "Tom",
     "text": "Was kann jemand damit anfangen?",
-    "t": 351.38
+    "t": 350.65
    },
    {
     "speaker": "Anna",
     "text": "Erstens... wenn Sie eine Organisation oder ein Projekt leiten, schauen Sie auf der Website der Europäischen Fonds nach, ob Ihre Idee passt.",
-    "t": 353.21
+    "t": 352.51
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... sehen Sie sich die finanzierten Projekte an, um zu verstehen, welche Arten von Ideen unterstützt werden.",
-    "t": 361.72
+    "t": 361.02
    },
    {
     "speaker": "Anna",
     "text": "Drittens... erinnern Sie sich an die wichtigsten Fonds... den Fonds für regionale Entwicklung für die Wirtschaft, und den Sozialfonds für die Menschen und die Arbeitsplätze.",
-    "t": 368.89
+    "t": 368.19
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... wissen Sie, dass dieses Geld sorgfältig verwaltet wird, von offiziellen Behörden, mit klaren Zielen.",
-    "t": 379.07
+    "t": 378.37
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir alles zusammen.",
-    "t": 386.62
+    "t": 385.92
    },
    {
     "speaker": "Anna",
     "text": "Was sollten sich die Menschen über die Europäischen Fonds merken?",
-    "t": 388.42
+    "t": 387.72
    },
    {
     "speaker": "Tom",
     "text": "Erstens... die EU investiert über ihre Kohäsionspolitik in die Mitgliedsländer, und Luxemburg erhält einen Anteil.",
-    "t": 392.08
+    "t": 391.38
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... die wichtigsten Fonds unterstützen die Wirtschaft und Innovation, die Menschen und Arbeitsplätze, und die Integration.",
-    "t": 400.53
+    "t": 399.83
    },
    {
     "speaker": "Tom",
     "text": "Drittens... die Verwaltungsbehörden wählen die Projekte aus und überwachen sie, indem sie öffentliche Gelder klug ausgeben.",
-    "t": 408.67
+    "t": 407.97
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... Organisationen können einen Antrag stellen, und jeder kann die Projekte auf der Website der Europäischen Fonds sehen.",
-    "t": 415.81
+    "t": 415.11
    },
    {
     "speaker": "Tom",
     "text": "Europa kann sich fern und abstrakt anfühlen.",
-    "t": 423.91
+    "t": 423.21
    },
    {
     "speaker": "Tom",
     "text": "Aber manchmal sieht es aus wie ein Ausbildungskurs, oder ein neuer Arbeitsplatz, gleich nebenan.",
-    "t": 426.77
+    "t": 426.07
    },
    {
     "speaker": "Anna",
     "text": "Und das zu verstehen, hilft uns, den Wert hinter den Schlagzeilen zu sehen.",
-    "t": 432.32
+    "t": 431.62
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die europäischen Fonds in Luxemburg.",
-    "t": 436.7
+    "t": 436
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 440.49
+    "t": 439.79
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 449.42
+    "t": 448.72
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 467.75
+    "t": 467.05
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 473.45
+    "t": 472.75
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 475.7
+    "t": 475
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 480.59
+    "t": 479.89
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 481.74
+    "t": 481.04
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 484.95
+    "t": 484.25
    }
   ],
   "segments_lb": [
@@ -65827,73 +65827,73 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom... loosst eis dat praktesch maachen. Wat kann een domat ufänken?",
+    "text": "Also Anna, loosst eis dat praktesch maachen. Wat kann een domat ufänken?",
     "t": 295.54
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... wann Dir eng Organisatioun oder e Projet féiert, kuckt op der Websäit vun den Europäesche Fongen no, ob Är Iddi passt.",
-    "t": 299.39
+    "t": 298.95
    },
    {
     "speaker": "Tom",
     "text": "Als zweet... kuckt Iech déi finanzéiert Projeten un, fir ze verstoen, wéi eng Aart vun Iddien ënnerstëtzt ginn.",
-    "t": 306.52
+    "t": 306.08
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt... erënnert Iech un déi wichtegst Fongen... de Fong fir regional Entwécklung fir d'Wirtschaft, an de Sozialfong fir d'Leit an d'Aarbechtsplazen.",
-    "t": 311.61
+    "t": 311.17
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... wësst, datt dës Suen suergfälteg verwalt gëtt, vun offizielle Behörden, mat kloren Ziler.",
-    "t": 319.49
+    "t": 319.05
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis alles zesummefaassen. Wat sollten d'Leit sech iwwert d'Europäesch Fongen erënneren?",
-    "t": 325.64
+    "t": 325.2
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... d'EU investéiert iwwert hir Kohäsiounspolitik an d'Memberlänner, a Lëtzebuerg kritt en Deel.",
-    "t": 330.39
+    "t": 329.95
    },
    {
     "speaker": "Anna",
     "text": "Als zweet... déi wichtegst Fongen ënnerstëtzen d'Wirtschaft an d'Innovatioun, d'Leit an d'Aarbechtsplazen, an d'Integratioun.",
-    "t": 336.57
+    "t": 336.13
    },
    {
     "speaker": "Tom",
     "text": "Als drëtt... d'Verwaltungsbehörde wielen d'Projeten aus an iwwerwaachen se, andeems se ëffentlech Suen klug ausginn.",
-    "t": 343.27
+    "t": 342.83
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... Organisatioune kënnen eng Demande maachen, an all Mënsch kann d'Projeten op der Websäit vun den Europäesche Fongen gesinn.",
-    "t": 348.63
+    "t": 348.19
    },
    {
     "speaker": "Tom",
     "text": "Europa kann sech wäit ewech an abstrakt undauchen. Mä heiansdo gesäit et aus ewéi en Ausbildungscours, oder eng nei Aarbechtsplaz, direkt niewendrun.",
-    "t": 355.51
+    "t": 355.07
    },
    {
     "speaker": "Anna",
     "text": "An dat ze verstoen, hëlleft eis, de Wäert hannert den Iwwerschrëften ze gesinn. Dat war eis Episod iwwer d'europäesch Fongen zu Lëtzebuerg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 362.49
+    "t": 362.05
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 410.81
+    "t": 410.37
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 414.01
+    "t": 413.58
    }
   ]
  },
@@ -67864,7 +67864,7 @@ const EPISODES = [
   "title": "CGDIS and 112 – Luxembourg's Fire and Rescue Service",
   "description": "What the CGDIS (the Grand Ducal Fire and Rescue Corps) is, the emergency number 112 to know by heart, its missions (firefighting, rescue and emergency medical help), how to make a good 112 call, the thousands of volunteer firefighters, how to become a volunteer (including young people), and the first-aid courses and prevention advice it offers.",
   "audio": "podcast_cgdis.mp3",
-  "duration": 498.83,
+  "duration": 498.89,
   "topics": [
    "What the CGDIS is",
    "Call 112 in any emergency",
@@ -68353,138 +68353,138 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "So Tom... let's make this really practical.",
+    "text": "So Anna, let's make this really practical.",
     "t": 377.2
    },
    {
     "speaker": "Tom",
     "text": "What should everyone take away?",
-    "t": 380.35
+    "t": 380.13
    },
    {
     "speaker": "Anna",
     "text": "First, and most important... in any emergency in Luxembourg, call 1-1-2.",
-    "t": 382.1
+    "t": 382.16
    },
    {
     "speaker": "Tom",
     "text": "Second, teach it to your children, and to anyone new to the country.",
-    "t": 387.52
+    "t": 387.58
    },
    {
     "speaker": "Tom",
     "text": "One-one-two.",
-    "t": 391.07
+    "t": 391.13
    },
    {
     "speaker": "Anna",
     "text": "Third, when you call, give your location clearly, say what happened, and stay on the line.",
-    "t": 392.25
+    "t": 392.31
    },
    {
     "speaker": "Tom",
     "text": "Fourth, consider learning first aid... it is a gift you give to the people around you.",
-    "t": 398.33
+    "t": 398.39
    },
    {
     "speaker": "Anna",
     "text": "And fifth, if it speaks to you, think about becoming a volunteer firefighter.",
-    "t": 403.15
+    "t": 403.21
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 408.18
+    "t": 408.24
    },
    {
     "speaker": "Tom",
     "text": "What should people remember?",
-    "t": 409.61
+    "t": 409.67
    },
    {
     "speaker": "Anna",
     "text": "First... the CGDIS is Luxembourg's national fire and rescue service, created in 2018.",
-    "t": 411.04
+    "t": 411.1
    },
    {
     "speaker": "Tom",
     "text": "Second... in any emergency, you call 1-1-2, free, any phone, day or night.",
-    "t": 418.54
+    "t": 418.6
    },
    {
     "speaker": "Anna",
     "text": "Third... most of its firefighters are volunteers, and you could become one too.",
-    "t": 423.38
+    "t": 423.44
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it also trains the public and gives prevention advice, so we can all help keep each other safe.",
-    "t": 428.1
+    "t": 428.16
    },
    {
     "speaker": "Anna",
     "text": "Emergencies are frightening.",
-    "t": 434.62
+    "t": 434.68
    },
    {
     "speaker": "Anna",
     "text": "But you are not alone.",
-    "t": 436.46
+    "t": 436.52
    },
    {
     "speaker": "Anna",
     "text": "Behind that number, people are ready to come.",
-    "t": 437.96
+    "t": 438.02
    },
    {
     "speaker": "Tom",
     "text": "And knowing how to reach them, calmly and clearly, is something every one of us can learn today.",
-    "t": 440.73
+    "t": 440.79
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about Luxembourg's fire and rescue corps and the emergency number 112.",
-    "t": 446.62
+    "t": 446.68
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 452.64
+    "t": 452.7
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 462.09
+    "t": 462.15
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 480.38
+    "t": 480.44
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 487.13
+    "t": 487.19
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 489.33
+    "t": 489.39
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 494.02
+    "t": 494.08
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 495.11
+    "t": 495.17
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 497.23
+    "t": 497.29
    }
   ],
   "questions": [
@@ -68687,7 +68687,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_cgdis_fr.mp3",
-  "duration_fr": 487.08,
+  "duration_fr": 487.21,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -69156,142 +69156,142 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Alors Tom... rendons cela vraiment concret.",
+    "text": "Alors Anna, rendons cela vraiment concret.",
     "t": 370.29
    },
    {
     "speaker": "Tom",
     "text": "Que devrait retenir chacun ?",
-    "t": 372.94
+    "t": 372.86
    },
    {
     "speaker": "Anna",
     "text": "D'abord, et le plus important... en cas d'urgence au Luxembourg, appelez le 1-1-2.",
-    "t": 374.64
+    "t": 374.76
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement, apprenez-le à vos enfants, et à toute personne nouvelle dans le pays.",
-    "t": 379.36
+    "t": 379.48
    },
    {
     "speaker": "Tom",
     "text": "Un-un-deux.",
-    "t": 384.21
+    "t": 384.33
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement, quand vous appelez, donnez clairement votre localisation, dites ce qui s'est passé, et restez en ligne.",
-    "t": 385.26
+    "t": 385.38
    },
    {
     "speaker": "Tom",
     "text": "Quatrièmement, envisagez d'apprendre les premiers secours... c'est un cadeau que vous offrez aux personnes qui vous entourent.",
-    "t": 391.22
+    "t": 391.34
    },
    {
     "speaker": "Anna",
     "text": "Et cinquièmement, si cela vous parle, pensez à devenir pompier volontaire.",
-    "t": 397.5
+    "t": 397.62
    },
    {
     "speaker": "Tom",
     "text": "Rassemblons tout cela.",
-    "t": 401.16
+    "t": 401.28
    },
    {
     "speaker": "Tom",
     "text": "Que doivent retenir les gens ?",
-    "t": 402.66
+    "t": 402.78
    },
    {
     "speaker": "Anna",
     "text": "Premièrement... le CGDIS est le service national d'incendie et de secours du Luxembourg, créé en 2018.",
-    "t": 404.5
+    "t": 404.62
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... en cas d'urgence, vous appelez le 1-1-2, gratuit, depuis n'importe quel téléphone, jour et nuit.",
-    "t": 410.69
+    "t": 410.81
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... la plupart de ses pompiers sont des bénévoles, et vous pourriez en devenir un aussi.",
-    "t": 417.81
+    "t": 417.93
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... il forme aussi le public et donne des conseils de prévention, pour que nous puissions tous nous aider à rester en sécurité.",
-    "t": 422.34
+    "t": 422.46
    },
    {
     "speaker": "Anna",
     "text": "Les urgences font peur.",
-    "t": 429.72
+    "t": 429.84
    },
    {
     "speaker": "Anna",
     "text": "Mais vous n'êtes pas seul.",
-    "t": 431.13
+    "t": 431.25
    },
    {
     "speaker": "Anna",
     "text": "Derrière ce numéro, des gens sont prêts à venir.",
-    "t": 432.47
+    "t": 432.59
    },
    {
     "speaker": "Tom",
     "text": "Et savoir comment les joindre, calmement et clairement, est quelque chose que chacun d'entre nous peut apprendre dès aujourd'hui.",
-    "t": 434.83
+    "t": 434.95
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le corps grand-ducal d'incendie et de secours et le numéro d'urgence 112.",
-    "t": 441.2
+    "t": 441.32
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 446.42
+    "t": 446.54
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 454.37
+    "t": 454.49
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 470.82
+    "t": 470.94
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 475.47
+    "t": 475.59
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 477.25
+    "t": 477.37
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 481.63
+    "t": 481.75
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 482.86
+    "t": 482.98
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 485.32
+    "t": 485.44
    }
   ],
   "audio_de": "podcast_cgdis_de.mp3",
-  "duration_de": 561.61,
+  "duration_de": 560.72,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -69770,138 +69770,138 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom... machen wir das ganz praktisch.",
+    "text": "Also Anna, machen wir das ganz praktisch.",
     "t": 422.89
    },
    {
     "speaker": "Tom",
     "text": "Was sollte jeder mitnehmen?",
-    "t": 426.27
+    "t": 425.4
    },
    {
     "speaker": "Anna",
     "text": "Erstens, und am wichtigsten... rufen Sie bei jedem Notfall in Luxemburg die 1-1-2 an.",
-    "t": 427.96
+    "t": 427.06
    },
    {
     "speaker": "Tom",
     "text": "Zweitens: Bringen Sie es Ihren Kindern bei, und jedem, der neu im Land ist.",
-    "t": 434.45
+    "t": 433.55
    },
    {
     "speaker": "Tom",
     "text": "Eins-eins-zwei.",
-    "t": 439.9
+    "t": 439
    },
    {
     "speaker": "Anna",
     "text": "Drittens: Wenn Sie anrufen, geben Sie Ihren Standort klar an, sagen Sie, was passiert ist, und bleiben Sie in der Leitung.",
-    "t": 441.26
+    "t": 440.36
    },
    {
     "speaker": "Tom",
     "text": "Viertens: Erwägen Sie, Erste Hilfe zu lernen... es ist ein Geschenk, das Sie den Menschen um Sie herum machen.",
-    "t": 448.9
+    "t": 448
    },
    {
     "speaker": "Anna",
     "text": "Und fünftens: Wenn es Sie anspricht, denken Sie darüber nach, Freiwilliger beim Rettungskorps zu werden.",
-    "t": 455.37
+    "t": 454.47
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir alles zusammen.",
-    "t": 461.8
+    "t": 460.9
    },
    {
     "speaker": "Tom",
     "text": "Woran sollten sich die Menschen erinnern?",
-    "t": 463.35
+    "t": 462.45
    },
    {
     "speaker": "Anna",
     "text": "Erstens... das CGDIS ist der nationale Brand- und Rettungsdienst Luxemburgs, gegründet 2018.",
-    "t": 465.56
+    "t": 464.66
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... bei jedem Notfall rufen Sie die 1-1-2 an, kostenlos, von jedem Telefon, Tag und Nacht.",
-    "t": 473.73
+    "t": 472.83
    },
    {
     "speaker": "Anna",
     "text": "Drittens... die meisten seiner Feuerwehrleute sind Freiwillige, und auch Sie könnten einer werden.",
-    "t": 481.95
+    "t": 481.05
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... es bildet auch die Öffentlichkeit aus und gibt Präventionsratschläge, damit wir alle einander sicher halten können.",
-    "t": 488.2
+    "t": 487.3
    },
    {
     "speaker": "Anna",
     "text": "Notfälle sind beängstigend.",
-    "t": 496.94
+    "t": 496.04
    },
    {
     "speaker": "Anna",
     "text": "Aber Sie sind nicht allein.",
-    "t": 498.84
+    "t": 497.94
    },
    {
     "speaker": "Anna",
     "text": "Hinter dieser Nummer sind Menschen bereit zu kommen.",
-    "t": 500.52
+    "t": 499.62
    },
    {
     "speaker": "Tom",
     "text": "Und zu wissen, wie man sie erreicht, ruhig und klar, ist etwas, das jeder von uns heute lernen kann.",
-    "t": 503.34
+    "t": 502.44
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das großherzogliche Feuerwehr- und Rettungskorps und die Notrufnummer 112.",
-    "t": 509.45
+    "t": 508.55
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 515.85
+    "t": 514.95
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 524.54
+    "t": 523.64
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 542.87
+    "t": 541.97
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 548.57
+    "t": 547.67
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 550.82
+    "t": 549.92
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 555.71
+    "t": 554.81
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 556.86
+    "t": 555.96
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 560.07
+    "t": 559.17
    }
   ],
   "segments_lb": [
@@ -70222,83 +70222,83 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom... loosse mer dat ganz praktesch maachen. Wat soll jiddereen mathuelen?",
+    "text": "Also Anna, loosse mer dat ganz praktesch maachen. Wat soll jiddereen mathuelen?",
     "t": 377.2
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, an dat Wichtegst... bei all Noutfall zu Lëtzebuerg, rufft d'1-1-2 un.",
-    "t": 382.1
+    "t": 382.16
    },
    {
     "speaker": "Tom",
     "text": "Als zweet, léiert et Äre Kanner, an all Persoun, déi nei am Land ass. Eent-eent-zwee.",
-    "t": 387.52
+    "t": 387.58
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt, wann Dir uruft, gitt Är Plaz kloer un, sot, wat geschitt ass, a bleift an der Leitung.",
-    "t": 392.25
+    "t": 392.31
    },
    {
     "speaker": "Tom",
     "text": "Als véiert, iwwerleet Iech, Éischt Hëllef ze léieren... et ass e Kaddo, deen Dir de Leit ëm Iech erëm gitt.",
-    "t": 398.33
+    "t": 398.39
    },
    {
     "speaker": "Anna",
     "text": "An als fënneft, wann et Iech uschwätzt, denkt drun, Fräiwëlleger beim Rettungsdéngscht ze ginn.",
-    "t": 403.15
+    "t": 403.21
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer alles zesummenhuelen. Wat solle sech d'Leit mierken?",
-    "t": 408.18
+    "t": 408.24
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... de CGDIS ass den nationale Brand- a Rettungsdéngscht vu Lëtzebuerg, gegrënnt 2018.",
-    "t": 411.04
+    "t": 411.1
    },
    {
     "speaker": "Tom",
     "text": "Als zweet... bei all Noutfall, rufft Dir d'1-1-2 un, gratis, vun all Telefon, Dag an Nuecht.",
-    "t": 418.54
+    "t": 418.6
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt... déi meescht vu senge Pompjeeë sinn Fräiwëlleger, an Dir kënnt och een dovu ginn.",
-    "t": 423.38
+    "t": 423.44
    },
    {
     "speaker": "Tom",
     "text": "An als véiert... hien ausbilt och d'Ëffentlechkeet a gëtt Préventiounsrotschléi, sou datt mir all eis géigesäiteg kënne sécher halen.",
-    "t": 428.1
+    "t": 428.16
    },
    {
     "speaker": "Anna",
     "text": "Noutfäll sinn beängschtegend. Mä Dir sidd net eleng. Hannert där Nummer sinn Leit bereet ze kommen.",
-    "t": 434.62
+    "t": 434.68
    },
    {
     "speaker": "Tom",
     "text": "A ze wëssen, wéi een se erreecht, roueg a kloer, ass eppes, wat jiddereen vun eis haut léiere kann.",
-    "t": 440.73
+    "t": 440.79
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer de Rettungsdéngscht an d'Noutruffnummer 112. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 446.62
+    "t": 446.68
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 494.02
+    "t": 494.08
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 497.23
+    "t": 497.29
    }
   ]
  },
@@ -77180,7 +77180,7 @@ const EPISODES = [
   "title": "The Agriculture Portal – Food, Farming and Wine in Luxembourg",
   "description": "What the agriculture portal (agriculture.public.lu) is, run by the Ministry of Agriculture, Food and Viticulture: farming, food and wine, the bodies that support them such as ASTA and the wine institute in Remich, organic farming (PAN-Bio), animal welfare and the law, the Moselle wines and Crémant, and why local and seasonal food matters.",
   "audio": "podcast_agriculture.mp3",
-  "duration": 392.96,
+  "duration": 393.09,
   "topics": [
    "The agriculture portal",
    "Farming, food & wine",
@@ -77499,118 +77499,118 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "So Tom, let's make it practical.",
+    "text": "So Anna, let's make it practical.",
     "t": 271.51
    },
    {
     "speaker": "Tom",
     "text": "What can someone do with all this?",
-    "t": 273.52
+    "t": 273.79
    },
    {
     "speaker": "Anna",
     "text": "First, when you shop, look for local and seasonal products, and try organic ones.",
-    "t": 275.55
+    "t": 275.66
    },
    {
     "speaker": "Tom",
     "text": "Second, if you keep animals, check the portal's guidance to care for them well and within the law.",
-    "t": 280.45
+    "t": 280.56
    },
    {
     "speaker": "Anna",
     "text": "Third, in summer, visit the Moselle, take a vineyard walk, and taste a local wine or Crémant.",
-    "t": 286.28
+    "t": 286.39
    },
    {
     "speaker": "Tom",
     "text": "And fourth, if you're curious about farming, food or wine, the portal has reliable information.",
-    "t": 292.85
+    "t": 292.96
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it all together.",
-    "t": 298.96
+    "t": 299.07
    },
    {
     "speaker": "Anna",
     "text": "What should people remember?",
-    "t": 300.51
+    "t": 300.62
    },
    {
     "speaker": "Tom",
     "text": "First... the agriculture portal, agriculture dot public dot lu, covers farming, food and wine, from the Ministry of Agriculture, Food and Viticulture.",
-    "t": 302.25
+    "t": 302.36
    },
    {
     "speaker": "Anna",
     "text": "Second... specialised bodies support it... ASTA for technical services, the wine institute in Remich, and ALVA for animal welfare and food safety.",
-    "t": 312.48
+    "t": 312.59
    },
    {
     "speaker": "Tom",
     "text": "Third... Luxembourg is growing organic farming and protects animal welfare by law.",
-    "t": 322.73
+    "t": 322.84
    },
    {
     "speaker": "Anna",
     "text": "And fourth... by choosing local and seasonal food, we all play a part in a healthy food system.",
-    "t": 327.72
+    "t": 327.83
    },
    {
     "speaker": "Tom",
     "text": "Food connects every one of us to the land, and to each other.",
-    "t": 333.87
+    "t": 333.98
    },
    {
     "speaker": "Anna",
     "text": "And knowing the story behind our plate helps us value it, and the people who make it possible.",
-    "t": 337.15
+    "t": 337.26
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the agriculture portal.",
-    "t": 343.39
+    "t": 343.5
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 346.56
+    "t": 346.67
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 356.25
+    "t": 356.36
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 374.53
+    "t": 374.64
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 381.28
+    "t": 381.39
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 383.48
+    "t": 383.59
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 388.17
+    "t": 388.28
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 389.25
+    "t": 389.37
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 391.37
+    "t": 391.49
    }
   ],
   "questions": [
@@ -77812,7 +77812,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_agriculture_fr.mp3",
-  "duration_fr": 399.49,
+  "duration_fr": 399.6,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -77832,411 +77832,411 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui nous concerne tous, trois fois par jour... l'alimentation.",
-    "t": 23.07
+    "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "Le pain sur votre table, les légumes dans votre assiette, le verre de vin un vendredi soir.",
-    "t": 27.85
+    "t": 27.91
    },
    {
     "speaker": "Tom",
     "text": "Derrière tout cela, il y a l'agriculture, et les personnes qui prennent soin de la terre et des animaux.",
-    "t": 32.51
+    "t": 32.57
    },
    {
     "speaker": "Anna",
     "text": "Et il existe un endroit officiel qui rassemble tout cela... le portail de l'agriculture.",
-    "t": 37.88
+    "t": 37.94
    },
    {
     "speaker": "Tom",
     "text": "Le site internet est agriculture point public point lu.",
-    "t": 42.76
+    "t": 42.82
    },
    {
     "speaker": "Anna",
     "text": "Il est géré par le ministère de l'Agriculture, de l'Alimentation et de la Viticulture.",
-    "t": 46.02
+    "t": 46.08
    },
    {
     "speaker": "Tom",
     "text": "« Viticulture » est un joli mot.",
-    "t": 50.61
+    "t": 50.67
    },
    {
     "speaker": "Tom",
     "text": "Cela signifie simplement la culture du raisin, pour le vin.",
-    "t": 52.76
+    "t": 52.82
    },
    {
     "speaker": "Anna",
     "text": "Donc ce portail couvre trois grands domaines... l'agriculture, l'alimentation et le vin.",
-    "t": 56.2
+    "t": 56.26
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qui fait concrètement le travail derrière ce ministère ?",
-    "t": 60.86
+    "t": 60.92
    },
    {
     "speaker": "Anna",
     "text": "Le ministère supervise plusieurs administrations spécialisées, chacune avec son propre rôle.",
-    "t": 64.41
+    "t": 64.47
    },
    {
     "speaker": "Tom",
     "text": "L'une des plus importantes est connue par ses initiales, ASTA.",
-    "t": 69.16
+    "t": 69.22
    },
    {
     "speaker": "Anna",
     "text": "L'ASTA est l'administration des services techniques de l'agriculture.",
-    "t": 72.8
+    "t": 72.86
    },
    {
     "speaker": "Anna",
     "text": "Voyez-la comme la science et le soutien derrière l'agriculture.",
-    "t": 76.1
+    "t": 76.16
    },
    {
     "speaker": "Tom",
     "text": "Elle conseille les agriculteurs, surveille la météo, et alerte sur les maladies des cultures et les ravageurs.",
-    "t": 79.18
+    "t": 79.24
    },
    {
     "speaker": "Anna",
     "text": "Elle soutient aussi une agriculture plus durable, avec moins de pulvérisation chimique et un meilleur usage des engrais naturels.",
-    "t": 85.6
+    "t": 85.66
    },
    {
     "speaker": "Tom",
     "text": "Il existe aussi un institut du vin dédié, basé à Remich, sur la Moselle.",
-    "t": 91.79
+    "t": 91.85
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg a une véritable tradition viticole le long de la Moselle... des vins blancs, et le vin pétillant appelé Crémant.",
-    "t": 96.37
+    "t": 96.43
    },
    {
     "speaker": "Tom",
     "text": "L'institut viti-vinicole soutient les vignerons, et aide à maintenir une qualité élevée.",
-    "t": 102.51
+    "t": 102.57
    },
    {
     "speaker": "Anna",
     "text": "Et il y a une administration qui veille sur la santé et le bien-être des animaux, et sur la sécurité de notre alimentation.",
-    "t": 107.59
+    "t": 107.65
    },
    {
     "speaker": "Anna",
     "text": "Elle s'appelle l'ALVA, et elle a été créée en 2022.",
-    "t": 113.96
+    "t": 114.02
    },
    {
     "speaker": "Tom",
     "text": "Donc, du champ, à l'animal, à l'assiette... chaque étape a des personnes qui veillent sur elle.",
-    "t": 117.13
+    "t": 117.19
    },
    {
     "speaker": "Anna",
     "text": "Parlons d'un thème qui se développe rapidement... l'agriculture biologique.",
-    "t": 123.04
+    "t": 123.1
    },
    {
     "speaker": "Tom",
     "text": "L'agriculture biologique travaille avec la nature, dans un cycle fermé, sans produits chimiques de synthèse.",
-    "t": 127.14
+    "t": 127.2
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg a un plan, appelé PAN-Bio, pour augmenter la part de l'agriculture biologique dans le pays.",
-    "t": 133.88
+    "t": 133.94
    },
    {
     "speaker": "Anna",
     "text": "Le plus récent va de 2026 à 2030.",
-    "t": 138.97
+    "t": 139.03
    },
    {
     "speaker": "Tom",
     "text": "Donc quand vous voyez des produits biologiques en magasin, il y a un effort national derrière ce choix.",
-    "t": 141.69
+    "t": 141.75
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, parlons de quelque chose qui tient à cœur à beaucoup de gens... le bien-être animal.",
-    "t": 147.56
+    "t": 147.62
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg a une loi sur la protection des animaux qui est assez avancée.",
-    "t": 152.49
+    "t": 152.55
    },
    {
     "speaker": "Anna",
     "text": "Elle protège la dignité, la sécurité et le bien-être des animaux, tout au long de leur vie.",
-    "t": 156.83
+    "t": 156.89
    },
    {
     "speaker": "Tom",
     "text": "Et cela ne concerne pas seulement les animaux de ferme.",
-    "t": 161.62
+    "t": 161.68
    },
    {
     "speaker": "Tom",
     "text": "Cela compte aussi pour les propriétaires d'animaux de compagnie.",
-    "t": 164.45
+    "t": 164.51
    },
    {
     "speaker": "Anna",
     "text": "Si vous avez un chien, un chat, ou n'importe quel animal, vous avez le devoir d'en prendre soin correctement.",
-    "t": 167.64
+    "t": 167.7
    },
    {
     "speaker": "Anna",
     "text": "Le portail propose des conseils à ce sujet.",
-    "t": 172.99
+    "t": 173.05
    },
    {
     "speaker": "Tom",
     "text": "Revenons un instant au vin, car il fait partie de la culture du Luxembourg.",
-    "t": 175.3
+    "t": 175.36
    },
    {
     "speaker": "Anna",
     "text": "La vallée de la Moselle, à l'est, est remplie de vignobles sur des coteaux ensoleillés.",
-    "t": 179.27
+    "t": 179.33
    },
    {
     "speaker": "Tom",
     "text": "Et en été, il y a des promenades dans les vignes et des activités, où vous pouvez apprendre comment le vin est fabriqué.",
-    "t": 183.46
+    "t": 183.52
    },
    {
     "speaker": "Anna",
     "text": "Le portail répertorie même des événements... comme des sentiers nature et viticoles, ouverts à tous.",
-    "t": 189.58
+    "t": 189.64
    },
    {
     "speaker": "Tom",
     "text": "Donc ce n'est pas seulement pour les agriculteurs.",
-    "t": 195.04
+    "t": 195.1
    },
    {
     "speaker": "Tom",
     "text": "C'est une invitation à découvrir d'où viennent notre nourriture et nos boissons.",
-    "t": 197.43
+    "t": 197.49
    },
    {
     "speaker": "Anna",
     "text": "Parlons de l'alimentation locale et de saison, qui est bonne pour tout le monde.",
-    "t": 201.95
+    "t": 202.01
    },
    {
     "speaker": "Tom",
     "text": "Acheter des produits locaux et de saison soutient les agriculteurs près de chez vous, et cela a souvent meilleur goût et voyage moins.",
-    "t": 205.81
+    "t": 205.87
    },
    {
     "speaker": "Anna",
     "text": "Le ministère encourage ce lien entre les personnes qui produisent la nourriture et celles qui la mangent.",
-    "t": 213
+    "t": 213.06
    },
    {
     "speaker": "Tom",
     "text": "Une courte distance du champ à l'assiette est bonne pour la terre, l'économie et la communauté.",
-    "t": 217.72
+    "t": 217.78
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, l'agriculture n'est pas facile, et les agriculteurs ne le font pas seuls.",
-    "t": 222.87
+    "t": 222.93
    },
    {
     "speaker": "Tom",
     "text": "Ils reçoivent un soutien, y compris des aides au titre de la Politique agricole commune (PAC) de l'Union européenne.",
-    "t": 227.02
+    "t": 227.08
    },
    {
     "speaker": "Anna",
     "text": "Nous avons parlé des fonds européens dans un autre épisode.",
-    "t": 233.58
+    "t": 233.64
    },
    {
     "speaker": "Anna",
     "text": "L'agriculture est l'un des grands domaines que l'Europe soutient.",
-    "t": 236.65
+    "t": 236.71
    },
    {
     "speaker": "Tom",
     "text": "Et le ministère propose des conseils et des formations, pour aider les exploitations à être modernes, durables et résilientes.",
-    "t": 239.81
+    "t": 239.87
    },
    {
     "speaker": "Anna",
     "text": "Prenons du recul et demandons-nous... pourquoi tout cela compte-t-il pour quelqu'un qui ne met jamais les pieds dans une ferme ?",
-    "t": 246.89
+    "t": 246.95
    },
    {
     "speaker": "Tom",
     "text": "D'abord, parce que tout le monde mange.",
-    "t": 252.97
+    "t": 253.03
    },
    {
     "speaker": "Tom",
     "text": "Une bonne agriculture signifie une nourriture sûre, saine et de qualité dans votre assiette.",
-    "t": 254.95
+    "t": 255.01
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, parce que les agriculteurs façonnent le paysage... les champs, les haies et les prairies dont nous profitons tous.",
-    "t": 260.27
+    "t": 260.33
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, parce que le bien-être animal reflète le genre de société que nous voulons être.",
-    "t": 266.66
+    "t": 266.72
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement, parce que soutenir l'alimentation locale maintient la campagne vivante, et la communauté forte.",
-    "t": 271.91
+    "t": 271.97
    },
    {
     "speaker": "Tom",
-    "text": "Alors Tom, rendons cela concret.",
-    "t": 277.79
+    "text": "Alors Anna, rendons cela concret.",
+    "t": 277.85
    },
    {
     "speaker": "Tom",
     "text": "Que peut faire quelqu'un avec tout cela ?",
-    "t": 280
+    "t": 280.09
    },
    {
     "speaker": "Anna",
     "text": "D'abord, quand vous faites vos courses, cherchez des produits locaux et de saison, et essayez les produits biologiques.",
-    "t": 282.07
+    "t": 282.18
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, si vous avez des animaux, consultez les conseils du portail pour bien en prendre soin et dans le respect de la loi.",
-    "t": 287.77
+    "t": 287.88
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement, en été, visitez la Moselle, faites une promenade dans les vignes, et goûtez un vin local ou un Crémant.",
-    "t": 294.86
+    "t": 294.97
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement, si vous êtes curieux au sujet de l'agriculture, de l'alimentation ou du vin, le portail propose des informations fiables.",
-    "t": 300.94
+    "t": 301.05
    },
    {
     "speaker": "Anna",
     "text": "Rassemblons tout cela.",
-    "t": 309.21
+    "t": 309.32
    },
    {
     "speaker": "Anna",
     "text": "Que doivent retenir les gens ?",
-    "t": 310.51
+    "t": 310.62
    },
    {
     "speaker": "Tom",
     "text": "D'abord... le portail de l'agriculture, agriculture point public point lu, couvre l'agriculture, l'alimentation et le vin, du ministère de l'Agriculture, de l'Alimentation et de la Viticulture.",
-    "t": 312.03
+    "t": 312.14
    },
    {
     "speaker": "Anna",
     "text": "Ensuite... des organismes spécialisés le soutiennent... l'ASTA pour les services techniques, l'institut du vin à Remich, et l'ALVA pour le bien-être animal et la sécurité alimentaire.",
-    "t": 324.22
+    "t": 324.33
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... le Luxembourg développe l'agriculture biologique et protège le bien-être animal par la loi.",
-    "t": 334.15
+    "t": 334.26
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... en choisissant une alimentation locale et de saison, nous jouons tous un rôle dans un système alimentaire sain.",
-    "t": 340.23
+    "t": 340.34
    },
    {
     "speaker": "Tom",
     "text": "L'alimentation nous relie tous à la terre, et les uns aux autres.",
-    "t": 346.63
+    "t": 346.74
    },
    {
     "speaker": "Anna",
     "text": "Et connaître l'histoire derrière notre assiette nous aide à la valoriser, ainsi que les personnes qui la rendent possible.",
-    "t": 350.8
+    "t": 350.91
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le portail de l'agriculture.",
-    "t": 355.93
+    "t": 356.04
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 358.6
+    "t": 358.71
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 366.76
+    "t": 366.87
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 383.21
+    "t": 383.32
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 387.86
+    "t": 387.97
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 389.64
+    "t": 389.75
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 394.02
+    "t": 394.13
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 395.25
+    "t": 395.36
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 397.71
+    "t": 397.82
    }
   ],
   "audio_de": "podcast_agriculture_de.mp3",
-  "duration_de": 448.5,
+  "duration_de": 448.1,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -78256,407 +78256,407 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema verbindet uns alle, dreimal am Tag... das Essen.",
-    "t": 27.86
+    "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Das Brot auf Ihrem Tisch, das Gemüse auf Ihrem Teller, das Glas Wein an einem Freitagabend.",
-    "t": 32.23
+    "t": 32.25
    },
    {
     "speaker": "Tom",
     "text": "Hinter all dem steht die Landwirtschaft, und die Menschen, die sich um das Land und die Tiere kümmern.",
-    "t": 37.9
+    "t": 37.92
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt einen offiziellen Ort, der all das zusammenbringt... das Agrarportal.",
-    "t": 43.36
+    "t": 43.38
    },
    {
     "speaker": "Tom",
     "text": "Die Webseite ist agriculture Punkt public Punkt lu.",
-    "t": 48.44
+    "t": 48.46
    },
    {
     "speaker": "Anna",
     "text": "Es wird vom Ministerium für Landwirtschaft, Ernährung und Weinbau betrieben.",
-    "t": 52.75
+    "t": 52.77
    },
    {
     "speaker": "Tom",
     "text": "„Weinbau\" ist ein schönes Wort.",
-    "t": 57.09
+    "t": 57.11
    },
    {
     "speaker": "Tom",
     "text": "Es bedeutet einfach den Anbau von Trauben, für Wein.",
-    "t": 58.95
+    "t": 58.97
    },
    {
     "speaker": "Anna",
     "text": "Dieses Portal deckt also drei große Bereiche ab... Landwirtschaft, Ernährung und Wein.",
-    "t": 62.1
+    "t": 62.12
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, wer macht eigentlich die Arbeit hinter diesem Ministerium?",
-    "t": 67.72
+    "t": 67.74
    },
    {
     "speaker": "Anna",
     "text": "Das Ministerium beaufsichtigt mehrere spezialisierte Verwaltungen, jede mit ihrer eigenen Rolle.",
-    "t": 71.82
+    "t": 71.84
    },
    {
     "speaker": "Tom",
     "text": "Eine der wichtigsten ist unter ihren Initialen bekannt, ASTA.",
-    "t": 77.58
+    "t": 77.6
    },
    {
     "speaker": "Anna",
     "text": "Die ASTA ist die Verwaltung der technischen Dienste der Landwirtschaft.",
-    "t": 81.42
+    "t": 81.44
    },
    {
     "speaker": "Anna",
     "text": "Stellen Sie sie sich als die Wissenschaft und Unterstützung hinter der Landwirtschaft vor.",
-    "t": 85.13
+    "t": 85.15
    },
    {
     "speaker": "Tom",
     "text": "Sie berät die Landwirte, beobachtet das Wetter, und warnt vor Pflanzenkrankheiten und Schädlingen.",
-    "t": 89.71
+    "t": 89.73
    },
    {
     "speaker": "Anna",
     "text": "Sie unterstützt auch eine nachhaltigere Landwirtschaft, mit weniger chemischem Spritzen und besserem Einsatz von natürlichem Dünger.",
-    "t": 95.94
+    "t": 95.96
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch ein eigenes Weininstitut, mit Sitz in Remich, an der Mosel.",
-    "t": 103.11
+    "t": 103.13
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg hat eine echte Weintradition entlang der Mosel... Weißweine, und den Schaumwein namens Crémant.",
-    "t": 107.87
+    "t": 107.89
    },
    {
     "speaker": "Tom",
     "text": "Das Weininstitut unterstützt die Winzer, und hilft, die Qualität hoch zu halten.",
-    "t": 115.4
+    "t": 115.42
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt eine Verwaltung, die über die Gesundheit und das Wohl der Tiere wacht, und über die Sicherheit unserer Lebensmittel.",
-    "t": 120.31
+    "t": 120.33
    },
    {
     "speaker": "Anna",
     "text": "Sie heißt ALVA und wurde 2022 gegründet.",
-    "t": 126.89
+    "t": 126.91
    },
    {
     "speaker": "Tom",
     "text": "Also vom Feld, über das Tier, bis zum Teller... bei jedem Schritt wachen Menschen darüber.",
-    "t": 130.8
+    "t": 130.82
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir über ein Thema, das schnell wächst... die biologische Landwirtschaft.",
-    "t": 136.37
+    "t": 136.39
    },
    {
     "speaker": "Tom",
     "text": "Die biologische Landwirtschaft arbeitet mit der Natur, in einem geschlossenen Kreislauf, ohne synthetische Chemikalien.",
-    "t": 141.12
+    "t": 141.14
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg hat einen Plan, genannt PAN-Bio, um den Anteil der biologischen Landwirtschaft im Land zu erhöhen.",
-    "t": 148.27
+    "t": 148.29
    },
    {
     "speaker": "Anna",
     "text": "Der neueste läuft von 2026 bis 2030.",
-    "t": 155.14
+    "t": 155.16
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie also Bio-Produkte im Geschäft sehen, steckt eine nationale Anstrengung hinter dieser Wahl.",
-    "t": 159.26
+    "t": 159.28
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir nun über etwas, das vielen am Herzen liegt... das Tierwohl.",
-    "t": 164.86
+    "t": 164.88
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg hat ein Tierschutzgesetz, das recht fortschrittlich ist.",
-    "t": 169.8
+    "t": 169.82
    },
    {
     "speaker": "Anna",
     "text": "Es schützt die Würde, die Sicherheit und das Wohlergehen der Tiere, ihr ganzes Leben lang.",
-    "t": 173.58
+    "t": 173.6
    },
    {
     "speaker": "Tom",
     "text": "Und das betrifft nicht nur Nutztiere.",
-    "t": 179.36
+    "t": 179.38
    },
    {
     "speaker": "Tom",
     "text": "Es ist auch für Haustierbesitzer wichtig.",
-    "t": 181.63
+    "t": 181.65
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie einen Hund, eine Katze oder ein beliebiges Tier haben, haben Sie die Pflicht, sich richtig darum zu kümmern.",
-    "t": 184.25
+    "t": 184.27
    },
    {
     "speaker": "Anna",
     "text": "Das Portal bietet dazu Hinweise.",
-    "t": 190.7
+    "t": 190.72
    },
    {
     "speaker": "Tom",
     "text": "Kommen wir kurz zurück zum Wein, denn er gehört zur Kultur Luxemburgs.",
-    "t": 193.11
+    "t": 193.13
    },
    {
     "speaker": "Anna",
     "text": "Das Moseltal, im Osten, ist voller Weinberge an sonnigen Hängen.",
-    "t": 197.23
+    "t": 197.25
    },
    {
     "speaker": "Tom",
     "text": "Und im Sommer gibt es Weinbergwanderungen und Aktivitäten, bei denen Sie lernen können, wie Wein gemacht wird.",
-    "t": 201.73
+    "t": 201.75
    },
    {
     "speaker": "Anna",
     "text": "Das Portal listet sogar Veranstaltungen auf... wie Natur- und Weinbergpfade, offen für alle.",
-    "t": 208.29
+    "t": 208.31
    },
    {
     "speaker": "Tom",
     "text": "Das ist also nicht nur für Landwirte.",
-    "t": 214.93
+    "t": 214.95
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine Einladung, zu entdecken, woher unser Essen und unsere Getränke kommen.",
-    "t": 217.15
+    "t": 217.17
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir über lokale und saisonale Lebensmittel, die für alle gut sind.",
-    "t": 221.78
+    "t": 221.8
    },
    {
     "speaker": "Tom",
     "text": "Lokale, saisonale Produkte zu kaufen unterstützt die Landwirte in Ihrer Nähe, und schmeckt oft besser und reist weniger.",
-    "t": 226.38
+    "t": 226.4
    },
    {
     "speaker": "Anna",
     "text": "Das Ministerium fördert diese Verbindung zwischen den Menschen, die Lebensmittel produzieren, und den Menschen, die sie essen.",
-    "t": 233.55
+    "t": 233.57
    },
    {
     "speaker": "Tom",
     "text": "Ein kurzer Weg vom Feld auf den Teller ist gut für das Land, die Wirtschaft und die Gemeinschaft.",
-    "t": 240.51
+    "t": 240.53
    },
    {
     "speaker": "Anna",
     "text": "Nun, die Landwirtschaft ist nicht einfach, und die Landwirte machen es nicht allein.",
-    "t": 246.13
+    "t": 246.15
    },
    {
     "speaker": "Tom",
     "text": "Sie erhalten Unterstützung, einschließlich Beihilfen im Rahmen der Gemeinsamen Agrarpolitik (GAP) der Europäischen Union.",
-    "t": 250.8
+    "t": 250.82
    },
    {
     "speaker": "Anna",
     "text": "Wir haben in einer anderen Folge über europäische Fonds gesprochen.",
-    "t": 259.36
+    "t": 259.38
    },
    {
     "speaker": "Anna",
     "text": "Die Landwirtschaft ist einer der großen Bereiche, die Europa unterstützt.",
-    "t": 263.14
+    "t": 263.16
    },
    {
     "speaker": "Tom",
     "text": "Und das Ministerium bietet Beratung und Schulungen an, um den Betrieben zu helfen, modern, nachhaltig und widerstandsfähig zu sein.",
-    "t": 267.09
+    "t": 267.11
    },
    {
     "speaker": "Anna",
     "text": "Treten wir einen Schritt zurück und fragen uns... warum ist das alles wichtig für jemanden, der nie einen Fuß auf einen Bauernhof setzt?",
-    "t": 275.14
+    "t": 275.16
    },
    {
     "speaker": "Tom",
     "text": "Erstens, weil jeder isst.",
-    "t": 282.94
+    "t": 282.96
    },
    {
     "speaker": "Tom",
     "text": "Gute Landwirtschaft bedeutet sichere, gesunde, hochwertige Lebensmittel auf Ihrem Teller.",
-    "t": 284.85
+    "t": 284.87
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, weil die Landwirte die Landschaft prägen... die Felder, Hecken und Wiesen, an denen wir uns alle erfreuen.",
-    "t": 290.19
+    "t": 290.21
    },
    {
     "speaker": "Tom",
     "text": "Drittens, weil das Tierwohl die Art von Gesellschaft widerspiegelt, die wir sein wollen.",
-    "t": 297.51
+    "t": 297.53
    },
    {
     "speaker": "Anna",
     "text": "Und viertens, weil die Unterstützung lokaler Lebensmittel das Land lebendig hält, und die Gemeinschaft stark.",
-    "t": 302.47
+    "t": 302.49
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom, machen wir es praktisch.",
-    "t": 309.06
+    "text": "Also Anna, machen wir es praktisch.",
+    "t": 309.08
    },
    {
     "speaker": "Tom",
     "text": "Was kann jemand mit all dem anfangen?",
-    "t": 311.75
+    "t": 311.34
    },
    {
     "speaker": "Anna",
     "text": "Erstens, wenn Sie einkaufen, achten Sie auf lokale und saisonale Produkte, und probieren Sie Bio-Produkte.",
-    "t": 313.89
+    "t": 313.5
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, wenn Sie Tiere halten, schauen Sie sich die Hinweise des Portals an, um sich gut und im Rahmen des Gesetzes um sie zu kümmern.",
-    "t": 321.37
+    "t": 320.98
    },
    {
     "speaker": "Anna",
     "text": "Drittens, besuchen Sie im Sommer die Mosel, machen Sie eine Weinbergwanderung, und probieren Sie einen lokalen Wein oder Crémant.",
-    "t": 329.35
+    "t": 328.96
    },
    {
     "speaker": "Tom",
     "text": "Und viertens, wenn Sie neugierig auf Landwirtschaft, Lebensmittel oder Wein sind, bietet das Portal verlässliche Informationen.",
-    "t": 338.07
+    "t": 337.68
    },
    {
     "speaker": "Anna",
     "text": "Bringen wir alles zusammen.",
-    "t": 346.23
+    "t": 345.84
    },
    {
     "speaker": "Anna",
     "text": "Was sollten sich die Menschen merken?",
-    "t": 347.95
+    "t": 347.56
    },
    {
     "speaker": "Tom",
     "text": "Erstens... das Agrarportal, agriculture Punkt public Punkt lu, deckt Landwirtschaft, Ernährung und Wein ab, vom Ministerium für Landwirtschaft, Ernährung und Weinbau.",
-    "t": 350
+    "t": 349.61
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... spezialisierte Stellen unterstützen es... die ASTA für die technischen Dienste, das Weininstitut in Remich, und die ALVA für das Tierwohl und die Lebensmittelsicherheit.",
-    "t": 362.5
+    "t": 362.11
    },
    {
     "speaker": "Tom",
     "text": "Drittens... Luxemburg baut die biologische Landwirtschaft aus und schützt das Tierwohl per Gesetz.",
-    "t": 374.76
+    "t": 374.37
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... indem wir lokale und saisonale Lebensmittel wählen, tragen wir alle zu einem gesunden Ernährungssystem bei.",
-    "t": 380.88
+    "t": 380.49
    },
    {
     "speaker": "Tom",
     "text": "Lebensmittel verbinden jeden von uns mit dem Land, und miteinander.",
-    "t": 388.66
+    "t": 388.27
    },
    {
     "speaker": "Anna",
     "text": "Und die Geschichte hinter unserem Teller zu kennen hilft uns, ihn zu schätzen, und die Menschen, die ihn möglich machen.",
-    "t": 392.77
+    "t": 392.38
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Landwirtschaftsportal.",
-    "t": 398.49
+    "t": 398.1
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 401.66
+    "t": 401.27
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 411.42
+    "t": 411.03
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 429.75
+    "t": 429.36
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 435.45
+    "t": 435.06
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 437.7
+    "t": 437.31
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 442.59
+    "t": 442.2
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 443.74
+    "t": 443.35
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 446.95
+    "t": 446.56
    }
   ],
   "segments_lb": [
@@ -78907,73 +78907,73 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom, maache mer et praktesch. Wat kann een mat all deem ufänken?",
+    "text": "Also Anna, maache mer et praktesch. Wat kann een mat all deem ufänken?",
     "t": 271.51
    },
    {
     "speaker": "Anna",
     "text": "Éischtens, wann Dir akafe gitt, kuckt no lokalen a saisonale Produkter, a probéiert Bio-Produkter.",
-    "t": 275.55
+    "t": 275.66
    },
    {
     "speaker": "Tom",
     "text": "Zweetens, wann Dir Déieren hutt, kuckt d'Hiweiser vun der Portal un, fir Iech gutt an am Kader vum Gesetz drëm ze këmmeren.",
-    "t": 280.45
+    "t": 280.56
    },
    {
     "speaker": "Anna",
     "text": "Drëttens, besicht am Summer d'Musel, maacht eng Wéngertwanderung, a probéiert e lokale Wäin oder Crémant.",
-    "t": 286.28
+    "t": 286.39
    },
    {
     "speaker": "Tom",
     "text": "A véiertens, wann Dir nei­géiereg sidd op d'Landwirtschaft, d'Liewensmëttel oder de Wäin, bitt d'Portal zouverlässeg Informatiounen.",
-    "t": 292.85
+    "t": 292.96
    },
    {
     "speaker": "Anna",
     "text": "Bréngen mer alles zesummen. Wat sollen d'Leit sech merken?",
-    "t": 298.96
+    "t": 299.07
    },
    {
     "speaker": "Tom",
     "text": "Éischtens... d'Agrarportal, agriculture Punkt public Punkt lu, deckt d'Landwirtschaft, d'Ernährung an de Wäin of, vum Ministère fir Landwirtschaft, Ernährung a Wäibau.",
-    "t": 302.25
+    "t": 302.36
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... spezialiséiert Stellen ënnerstëtzen et... d'ASTA fir déi technesch Déngschter, de Wäininstitut zu Remich, an d'ALVA fir den Déiereschutz an d'Liewensmëttelsécherheet.",
-    "t": 312.48
+    "t": 312.59
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... Lëtzebuerg baut d'Bio-Landwirtschaft aus a schützt den Déiereschutz per Gesetz.",
-    "t": 322.73
+    "t": 322.84
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... andeems mir lokal a saisonal Liewensmëttel wielen, droe mir all zu engem gesonden Ernährungssystem bäi.",
-    "t": 327.72
+    "t": 327.83
    },
    {
     "speaker": "Tom",
     "text": "Liewensmëttel verbannen all eenzelne vun eis mam Land, an enee mam aneren.",
-    "t": 333.87
+    "t": 333.98
    },
    {
     "speaker": "Anna",
     "text": "An d'Geschicht hannert eisem Teller ze kennen hëlleft eis, e ze schätzen, an d'Leit, déi e méiglech maachen. Dat war eis Episod iwwer de Landwirtschaftsportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 337.15
+    "t": 337.26
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 388.17
+    "t": 388.28
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 391.37
+    "t": 391.49
    }
   ]
  },
@@ -78984,7 +78984,7 @@ const EPISODES = [
   "title": "Spatial Planning – How Luxembourg Plans the Use of Its Land",
   "description": "What spatial planning ('aménagement du territoire') is, how the State and communes plan Luxembourg's limited land for the long term — balancing housing, transport, the economy and nature — through the national master programme and sectoral plans, working across regions and borders, and how citizens can follow and take part.",
   "audio": "podcast_amenagement.mp3",
-  "duration": 348.03,
+  "duration": 347.92,
   "topics": [
    "What spatial planning is",
    "Balancing land for everyone",
@@ -79258,118 +79258,118 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "So Tom, let's make it practical.",
+    "text": "So Anna, let's make it practical.",
     "t": 236.98
    },
    {
     "speaker": "Tom",
     "text": "What can people take from this?",
-    "t": 239.01
+    "t": 239.11
    },
    {
     "speaker": "Anna",
     "text": "First, when you hear about a new housing zone, a transport plan, or a protected area, you'll understand the bigger picture.",
-    "t": 240.9
+    "t": 240.79
    },
    {
     "speaker": "Tom",
     "text": "Second, if a plan touches your commune, watch for public consultations and have your say.",
-    "t": 248.79
+    "t": 248.68
    },
    {
     "speaker": "Anna",
     "text": "Third, remember that the goal is balance... homes, jobs, transport and nature, all living together.",
-    "t": 254.2
+    "t": 254.09
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it together.",
-    "t": 261.88
+    "t": 261.77
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about spatial planning?",
-    "t": 263.1
+    "t": 262.99
    },
    {
     "speaker": "Anna",
     "text": "First... it's how the State and communes plan the use of Luxembourg's limited land, for the long term.",
-    "t": 266.02
+    "t": 265.91
    },
    {
     "speaker": "Tom",
     "text": "Second... it uses a national strategy and sectoral plans for transport, housing, economy and landscapes.",
-    "t": 272.33
+    "t": 272.22
    },
    {
     "speaker": "Anna",
     "text": "Third... it works across regions and across borders, because life here does too.",
-    "t": 279.35
+    "t": 279.24
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it shapes your daily surroundings, so it's worth following and taking part in.",
-    "t": 284.33
+    "t": 284.22
    },
    {
     "speaker": "Anna",
     "text": "The country we pass on is not an accident.",
-    "t": 289.56
+    "t": 289.45
    },
    {
     "speaker": "Anna",
     "text": "It's the sum of countless careful choices about land.",
-    "t": 292.36
+    "t": 292.25
    },
    {
     "speaker": "Tom",
     "text": "And good planning is how we make those choices wisely, together.",
-    "t": 296.05
+    "t": 295.94
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about spatial planning.",
-    "t": 299.62
+    "t": 299.51
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 302.03
+    "t": 301.92
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 311.31
+    "t": 311.2
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 329.59
+    "t": 329.48
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 336.34
+    "t": 336.23
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 338.54
+    "t": 338.43
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 343.23
+    "t": 343.12
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 344.31
+    "t": 344.21
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 346.43
+    "t": 346.33
    }
   ],
   "questions": [
@@ -79571,7 +79571,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_amenagement_fr.mp3",
-  "duration_fr": 351.14,
+  "duration_fr": 351.35,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -79591,366 +79591,366 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui façonne le pays que vous voyez autour de vous chaque jour... le sol.",
-    "t": 23.07
+    "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "Là où l'on construit de nouveaux logements, où passent les routes et les trams, où la nature est protégée, où les entreprises peuvent s'installer.",
-    "t": 28.27
+    "t": 28.33
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg est un petit pays.",
-    "t": 35.01
+    "t": 35.07
    },
    {
     "speaker": "Tom",
     "text": "Le sol est précieux, et il y en a une quantité limitée.",
-    "t": 36.95
+    "t": 37.01
    },
    {
     "speaker": "Anna",
     "text": "Alors comment décide-t-on de ce qui va où, de manière équitable, pour tout le monde, et pour l'avenir ?",
-    "t": 40.45
+    "t": 40.51
    },
    {
     "speaker": "Tom",
     "text": "Cet exercice d'équilibre minutieux porte un nom... l'aménagement du territoire.",
-    "t": 45.4
+    "t": 45.46
    },
    {
     "speaker": "Tom",
     "text": "En français, « l'aménagement du territoire ».",
-    "t": 50.26
+    "t": 50.32
    },
    {
     "speaker": "Anna",
     "text": "Et il existe un portail officiel à ce sujet, ainsi qu'un département de l'État qui le pilote.",
-    "t": 52.98
+    "t": 53.04
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qu'est-ce que l'aménagement du territoire au juste ?",
-    "t": 57.56
+    "t": 57.62
    },
    {
     "speaker": "Anna",
     "text": "C'est l'ensemble des actions menées par l'État et les communes pour développer le territoire national, de manière réfléchie.",
-    "t": 60.81
+    "t": 60.87
    },
    {
     "speaker": "Tom",
     "text": "Tout en protégeant les paysages, en utilisant le sol de façon rationnelle, et en coordonnant tous les différents besoins en terrain.",
-    "t": 66.4
+    "t": 66.46
    },
    {
     "speaker": "Anna",
     "text": "Le logement a besoin de sol.",
-    "t": 73.48
+    "t": 73.54
    },
    {
     "speaker": "Anna",
     "text": "Les transports ont besoin de sol.",
-    "t": 75.22
+    "t": 75.28
    },
    {
     "speaker": "Anna",
     "text": "L'économie a besoin de sol.",
-    "t": 77.13
+    "t": 77.19
    },
    {
     "speaker": "Anna",
     "text": "La nature aussi a besoin d'espace.",
-    "t": 78.87
+    "t": 78.93
    },
    {
     "speaker": "Tom",
     "text": "Et sans planification, ces besoins entreraient en conflit, et le pays se développerait de manière désordonnée et néfaste.",
-    "t": 81
+    "t": 81.06
    },
    {
     "speaker": "Anna",
     "text": "L'aménagement du territoire est donc comme un arbitre, et un architecte, pour tout le pays.",
-    "t": 88.4
+    "t": 88.46
    },
    {
     "speaker": "Tom",
     "text": "Il est piloté par le Département de l'aménagement du territoire, qui fait partie du Ministère du Logement et de l'Aménagement du territoire.",
-    "t": 92.77
+    "t": 92.83
    },
    {
     "speaker": "Anna",
     "text": "Regardons les principaux outils, car ils sont plus faciles à saisir que leur nom ne le laisse penser.",
-    "t": 100.05
+    "t": 100.11
    },
    {
     "speaker": "Tom",
     "text": "Le premier est le programme directeur, une grande vision stratégique de la façon dont l'ensemble du pays devrait se développer.",
-    "t": 104.96
+    "t": 105.02
    },
    {
     "speaker": "Tom",
     "text": "L'actuel a été adopté en 2023, et regarde jusqu'en 2035.",
-    "t": 111.27
+    "t": 111.33
    },
    {
     "speaker": "Anna",
     "text": "Il fixe le cap... des villes plus compactes, une nature protégée, de bons transports, des régions équilibrées.",
-    "t": 115.88
+    "t": 115.94
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième outil est un ensemble de plans directeurs sectoriels.",
-    "t": 122.34
+    "t": 122.4
    },
    {
     "speaker": "Anna",
     "text": "Ceux-ci sont plus concrets.",
-    "t": 126.31
+    "t": 126.37
    },
    {
     "speaker": "Anna",
     "text": "Il y a des plans pour les transports, pour le logement, pour les zones d'activités économiques, et pour les paysages.",
-    "t": 127.78
+    "t": 127.84
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, un plan logement réserve des terrains où les nouveaux logements devraient être concentrés.",
-    "t": 133.25
+    "t": 133.31
    },
    {
     "speaker": "Anna",
     "text": "Et un plan paysage protège les espaces verts contre la construction.",
-    "t": 138.74
+    "t": 138.8
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, ces plans décident, de manière coordonnée, à quoi le sol est destiné.",
-    "t": 142.13
+    "t": 142.19
    },
    {
     "speaker": "Anna",
     "text": "Il y a ici une idée importante... construire là où cela a du sens.",
-    "t": 146.86
+    "t": 146.92
    },
    {
     "speaker": "Tom",
     "text": "Oui. Concentrer les logements et les activités près des transports et des services, au lieu de s'étaler partout.",
-    "t": 150.79
+    "t": 150.85
    },
    {
     "speaker": "Anna",
     "text": "Cela protège la campagne, réduit le trafic, et facilite la vie quotidienne.",
-    "t": 156.6
+    "t": 156.66
    },
    {
     "speaker": "Tom",
     "text": "L'aménagement du territoire pense aussi en termes de régions, pas seulement du pays tout entier.",
-    "t": 160.67
+    "t": 160.73
    },
    {
     "speaker": "Anna",
     "text": "Différentes régions ont des atouts et des besoins différents... le sud, le centre, le nord, l'est.",
-    "t": 166.07
+    "t": 166.13
    },
    {
     "speaker": "Tom",
     "text": "Il y a des projets urbains, et même des parcs naturels, qui protègent de belles régions tout en les maintenant vivantes.",
-    "t": 171.98
+    "t": 172.04
    },
    {
     "speaker": "Anna",
     "text": "Et parce que le Luxembourg est petit et central, la planification ne s'arrête pas à la frontière.",
-    "t": 178.12
+    "t": 178.18
    },
    {
     "speaker": "Tom",
     "text": "En effet. Une grande partie de la vie ici traverse les frontières... le travail, les transports, la pression sur le logement.",
-    "t": 183.42
+    "t": 183.48
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg planifie donc avec ses voisins, dans la Grande Région, et à travers des programmes européens.",
-    "t": 190.97
+    "t": 191.03
    },
    {
     "speaker": "Tom",
     "text": "Parce qu'une ligne de tram, une forêt ou une rivière ne se soucie pas d'une frontière sur une carte.",
-    "t": 196.08
+    "t": 196.14
    },
    {
     "speaker": "Anna",
     "text": "Posons la question essentielle... pourquoi un résident ordinaire devrait-il se soucier de tout cela ?",
-    "t": 201.91
+    "t": 201.97
    },
    {
     "speaker": "Tom",
     "text": "D'abord, parce que cela façonne votre vie quotidienne... vos trajets, vos espaces verts, le fait que des logements soient construits ou non près de chez vous.",
-    "t": 207.14
+    "t": 207.2
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, parce que cela protège ce que nous aimons... les paysages, la nature, le caractère de nos villes et villages.",
-    "t": 215.51
+    "t": 215.57
    },
    {
     "speaker": "Tom",
     "text": "Et enfin, parce qu'il s'agit d'équité entre les générations... laisser un pays vivable à nos enfants.",
-    "t": 221.51
+    "t": 221.57
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi un rôle pour les citoyens.",
-    "t": 227.04
+    "t": 227.1
    },
    {
     "speaker": "Anna",
     "text": "Les grands plans passent souvent par une consultation publique.",
-    "t": 229.04
+    "t": 229.1
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez donc vous informer, et parfois donner votre avis, lorsqu'un plan concerne votre région.",
-    "t": 232.18
+    "t": 232.24
    },
    {
     "speaker": "Anna",
     "text": "Le portail publie les plans, la stratégie et les actualités, de manière ouverte.",
-    "t": 237.38
+    "t": 237.44
    },
    {
     "speaker": "Tom",
-    "text": "Alors Tom, rendons cela concret.",
-    "t": 241.71
+    "text": "Alors Anna, rendons cela concret.",
+    "t": 241.77
    },
    {
     "speaker": "Tom",
     "text": "Que peut-on retenir de tout cela ?",
-    "t": 243.91
+    "t": 244.07
    },
    {
     "speaker": "Anna",
     "text": "D'abord, quand vous entendrez parler d'une nouvelle zone de logement, d'un plan de transport ou d'une zone protégée, vous comprendrez la vue d'ensemble.",
-    "t": 245.85
+    "t": 246.05
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, si un plan touche votre commune, soyez attentif aux consultations publiques et faites entendre votre voix.",
-    "t": 252.77
+    "t": 252.97
    },
    {
     "speaker": "Anna",
     "text": "Enfin, souvenez-vous que l'objectif est l'équilibre... les logements, les emplois, les transports et la nature, vivant tous ensemble.",
-    "t": 259.76
+    "t": 259.96
    },
    {
     "speaker": "Tom",
     "text": "Faisons la synthèse.",
-    "t": 266.29
+    "t": 266.49
    },
    {
     "speaker": "Tom",
     "text": "Que faut-il retenir de l'aménagement du territoire ?",
-    "t": 267.71
+    "t": 267.91
    },
    {
     "speaker": "Anna",
     "text": "Premièrement... c'est la façon dont l'État et les communes planifient l'utilisation du sol limité du Luxembourg, sur le long terme.",
-    "t": 270.57
+    "t": 270.77
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... il s'appuie sur une stratégie nationale et des plans sectoriels pour les transports, le logement, l'économie et les paysages.",
-    "t": 276.91
+    "t": 277.11
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... il fonctionne à travers les régions et au-delà des frontières, parce que la vie ici fait de même.",
-    "t": 285.05
+    "t": 285.25
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... il façonne votre cadre de vie quotidien, alors il vaut la peine de le suivre et d'y participer.",
-    "t": 290.3
+    "t": 290.5
    },
    {
     "speaker": "Anna",
     "text": "Le pays que nous transmettons n'est pas le fruit du hasard.",
-    "t": 297.02
+    "t": 297.22
    },
    {
     "speaker": "Anna",
     "text": "C'est la somme d'innombrables choix réfléchis sur le sol.",
-    "t": 299.95
+    "t": 300.15
    },
    {
     "speaker": "Tom",
     "text": "Et une bonne planification, c'est la façon dont nous faisons ces choix avec sagesse, ensemble.",
-    "t": 302.92
+    "t": 303.12
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'aménagement du territoire.",
-    "t": 308.14
+    "t": 308.34
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 310.83
+    "t": 311.03
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 318.42
+    "t": 318.62
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 334.87
+    "t": 335.07
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 339.52
+    "t": 339.72
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 341.3
+    "t": 341.5
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 345.68
+    "t": 345.88
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 346.91
+    "t": 347.11
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 349.37
+    "t": 349.57
    }
   ],
   "audio_de": "podcast_amenagement_de.mp3",
-  "duration_de": 393.25,
+  "duration_de": 393.06,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -79970,362 +79970,362 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema prägt das Land, das Sie jeden Tag um sich herum sehen... den Boden.",
-    "t": 27.86
+    "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Wo neue Wohnungen gebaut werden, wo Straßen und Straßenbahnen verlaufen, wo die Natur geschützt wird, wo sich Unternehmen ansiedeln können.",
-    "t": 33.11
+    "t": 33.13
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg ist ein kleines Land.",
-    "t": 41.79
+    "t": 41.81
    },
    {
     "speaker": "Tom",
     "text": "Boden ist kostbar, und es gibt nur begrenzt davon.",
-    "t": 43.82
+    "t": 43.84
    },
    {
     "speaker": "Anna",
     "text": "Wie entscheidet man also, was wohin kommt, gerecht, für alle, und für die Zukunft?",
-    "t": 46.81
+    "t": 46.83
    },
    {
     "speaker": "Tom",
     "text": "Dieser sorgfältige Balanceakt hat einen Namen... Raumordnung.",
-    "t": 52.49
+    "t": 52.51
    },
    {
     "speaker": "Tom",
     "text": "Auf Französisch „l'aménagement du territoire\".",
-    "t": 56.52
+    "t": 56.54
    },
    {
     "speaker": "Anna",
     "text": "Und dafür gibt es ein offizielles Portal, sowie eine Abteilung des Staates, die es leitet.",
-    "t": 59.81
+    "t": 59.83
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was genau ist Raumordnung?",
-    "t": 65.14
+    "t": 65.16
    },
    {
     "speaker": "Anna",
     "text": "Es ist die Gesamtheit der Maßnahmen, die der Staat und die Gemeinden ergreifen, um das nationale Gebiet klug zu entwickeln.",
-    "t": 67.23
+    "t": 67.25
    },
    {
     "speaker": "Tom",
     "text": "Und das, während man die Landschaften schützt, den Boden rational nutzt und all die verschiedenen Bedürfnisse nach Fläche aufeinander abstimmt.",
-    "t": 74.2
+    "t": 74.22
    },
    {
     "speaker": "Anna",
     "text": "Wohnen braucht Boden.",
-    "t": 82.38
+    "t": 82.4
    },
    {
     "speaker": "Anna",
     "text": "Verkehr braucht Boden.",
-    "t": 84
+    "t": 84.02
    },
    {
     "speaker": "Anna",
     "text": "Die Wirtschaft braucht Boden.",
-    "t": 85.73
+    "t": 85.75
    },
    {
     "speaker": "Anna",
     "text": "Auch die Natur braucht Raum.",
-    "t": 87.56
+    "t": 87.58
    },
    {
     "speaker": "Tom",
     "text": "Und ohne Planung würden diese Bedürfnisse aufeinanderprallen, und das Land würde auf chaotische, schädliche Weise wachsen.",
-    "t": 89.5
+    "t": 89.52
    },
    {
     "speaker": "Anna",
     "text": "Raumordnung ist also wie ein Schiedsrichter und ein Architekt für das ganze Land.",
-    "t": 96.51
+    "t": 96.53
    },
    {
     "speaker": "Tom",
     "text": "Sie wird von der Abteilung für Landesplanung geleitet, die zum Ministerium für Wohnungsbau und Landesplanung gehört.",
-    "t": 101.05
+    "t": 101.07
    },
    {
     "speaker": "Anna",
     "text": "Schauen wir uns die wichtigsten Instrumente an, denn sie sind leichter zu verstehen, als ihr Name vermuten lässt.",
-    "t": 107.85
+    "t": 107.87
    },
    {
     "speaker": "Tom",
     "text": "Das erste ist das Leitprogramm, eine große strategische Vision dafür, wie sich das ganze Land entwickeln soll.",
-    "t": 113.81
+    "t": 113.83
    },
    {
     "speaker": "Tom",
     "text": "Das aktuelle wurde 2023 verabschiedet und blickt bis 2035.",
-    "t": 120.33
+    "t": 120.35
    },
    {
     "speaker": "Anna",
     "text": "Es gibt die Richtung vor... kompaktere Städte, geschützte Natur, guter Verkehr, ausgewogene Regionen.",
-    "t": 126.17
+    "t": 126.19
    },
    {
     "speaker": "Tom",
     "text": "Das zweite Instrument ist eine Reihe sektoraler Leitpläne.",
-    "t": 133.95
+    "t": 133.97
    },
    {
     "speaker": "Anna",
     "text": "Diese sind konkreter.",
-    "t": 137.72
+    "t": 137.74
    },
    {
     "speaker": "Anna",
     "text": "Es gibt Pläne für den Verkehr, für das Wohnen, für wirtschaftliche Aktivitätszonen und für die Landschaften.",
-    "t": 139.22
+    "t": 139.24
    },
    {
     "speaker": "Tom",
     "text": "Ein Wohnungsplan zum Beispiel reserviert Flächen, auf denen neue Wohnungen konzentriert werden sollen.",
-    "t": 145.87
+    "t": 145.89
    },
    {
     "speaker": "Anna",
     "text": "Und ein Landschaftsplan schützt Grünflächen davor, bebaut zu werden.",
-    "t": 151.66
+    "t": 151.68
    },
    {
     "speaker": "Tom",
     "text": "Diese Pläne entscheiden also auf koordinierte Weise, wofür der Boden bestimmt ist.",
-    "t": 155.76
+    "t": 155.78
    },
    {
     "speaker": "Anna",
     "text": "Es gibt hier einen wichtigen Gedanken... dort bauen, wo es sinnvoll ist.",
-    "t": 160.64
+    "t": 160.66
    },
    {
     "speaker": "Tom",
     "text": "Ja. Wohnen und Aktivität in der Nähe von Verkehr und Diensten konzentrieren, anstatt sich überallhin auszubreiten.",
-    "t": 166.01
+    "t": 166.03
    },
    {
     "speaker": "Anna",
     "text": "Das schützt das Land, verringert den Verkehr und macht das tägliche Leben einfacher.",
-    "t": 173.91
+    "t": 173.93
    },
    {
     "speaker": "Tom",
     "text": "Raumordnung denkt auch in Regionen, nicht nur in Bezug auf das ganze Land.",
-    "t": 178.59
+    "t": 178.61
    },
    {
     "speaker": "Anna",
     "text": "Verschiedene Regionen haben unterschiedliche Stärken und Bedürfnisse... der Süden, das Zentrum, der Norden, der Osten.",
-    "t": 183.23
+    "t": 183.25
    },
    {
     "speaker": "Tom",
     "text": "Es gibt städtische Projekte und sogar Naturparks, die schöne Regionen schützen und sie zugleich lebendig halten.",
-    "t": 190.7
+    "t": 190.72
    },
    {
     "speaker": "Anna",
     "text": "Und weil Luxemburg klein und zentral gelegen ist, hört die Planung nicht an der Grenze auf.",
-    "t": 197.44
+    "t": 197.46
    },
    {
     "speaker": "Tom",
     "text": "Richtig. So viel vom Leben hier überschreitet Grenzen... Arbeit, Verkehr, der Druck auf den Wohnungsmarkt.",
-    "t": 202.51
+    "t": 202.53
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg plant also gemeinsam mit seinen Nachbarn, in der Großregion, und über europäische Programme.",
-    "t": 210.76
+    "t": 210.78
    },
    {
     "speaker": "Tom",
     "text": "Denn eine Straßenbahnlinie, ein Wald oder ein Fluss kümmert sich nicht um eine Grenze auf einer Karte.",
-    "t": 217.18
+    "t": 217.2
    },
    {
     "speaker": "Anna",
     "text": "Stellen wir die entscheidende Frage... warum sollte sich ein gewöhnlicher Einwohner um all das kümmern?",
-    "t": 223.64
+    "t": 223.66
    },
    {
     "speaker": "Tom",
     "text": "Erstens, weil es Ihr tägliches Leben prägt... Ihren Arbeitsweg, Ihre Grünflächen, ob in Ihrer Nähe Wohnraum gebaut wird.",
-    "t": 230.12
+    "t": 230.14
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, weil es das schützt, was wir lieben... Landschaften, Natur, den Charakter unserer Städte und Dörfer.",
-    "t": 238.2
+    "t": 238.22
    },
    {
     "speaker": "Tom",
     "text": "Und drittens, weil es um Gerechtigkeit zwischen den Generationen geht... unseren Kindern ein lebenswertes Land zu hinterlassen.",
-    "t": 246.14
+    "t": 246.16
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch eine Rolle für die Bürger.",
-    "t": 253.31
+    "t": 253.33
    },
    {
     "speaker": "Anna",
     "text": "Große Pläne durchlaufen oft eine öffentliche Konsultation.",
-    "t": 255.41
+    "t": 255.43
    },
    {
     "speaker": "Tom",
     "text": "Sie können sich also informieren und manchmal Ihre Meinung äußern, wenn ein Plan Ihre Gegend betrifft.",
-    "t": 259.1
+    "t": 259.12
    },
    {
     "speaker": "Anna",
     "text": "Das Portal veröffentlicht die Pläne, die Strategie und die Neuigkeiten, offen zugänglich.",
-    "t": 264.77
+    "t": 264.79
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom, machen wir es praktisch.",
-    "t": 270.3
+    "text": "Also Anna, machen wir es praktisch.",
+    "t": 270.32
    },
    {
     "speaker": "Tom",
     "text": "Was können die Menschen daraus mitnehmen?",
-    "t": 272.75
+    "t": 272.68
    },
    {
     "speaker": "Anna",
     "text": "Erstens, wenn Sie von einer neuen Wohnzone, einem Verkehrsplan oder einem Schutzgebiet hören, werden Sie das größere Bild verstehen.",
-    "t": 275.02
+    "t": 274.84
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, wenn ein Plan Ihre Gemeinde betrifft, achten Sie auf öffentliche Konsultationen und sagen Sie Ihre Meinung.",
-    "t": 283.42
+    "t": 283.24
    },
    {
     "speaker": "Anna",
     "text": "Drittens, denken Sie daran, dass das Ziel das Gleichgewicht ist... Wohnungen, Arbeitsplätze, Verkehr und Natur, die alle zusammen bestehen.",
-    "t": 290.47
+    "t": 290.29
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir es zusammen.",
-    "t": 299.83
+    "t": 299.65
    },
    {
     "speaker": "Tom",
     "text": "Was sollten sich die Menschen über die Raumordnung merken?",
-    "t": 301.27
+    "t": 301.09
    },
    {
     "speaker": "Anna",
     "text": "Erstens... so planen der Staat und die Gemeinden langfristig die Nutzung des begrenzten Bodens Luxemburgs.",
-    "t": 304.13
+    "t": 303.95
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... sie nutzt eine nationale Strategie und sektorale Pläne für Verkehr, Wohnen, Wirtschaft und Landschaften.",
-    "t": 311.07
+    "t": 310.89
    },
    {
     "speaker": "Anna",
     "text": "Drittens... sie wirkt über Regionen und über Grenzen hinweg, weil das Leben hier es auch tut.",
-    "t": 318.92
+    "t": 318.74
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... sie prägt Ihr tägliches Umfeld, deshalb lohnt es sich, sie zu verfolgen und sich daran zu beteiligen.",
-    "t": 325.06
+    "t": 324.88
    },
    {
     "speaker": "Anna",
     "text": "Das Land, das wir weitergeben, ist kein Zufall.",
-    "t": 332.57
+    "t": 332.39
    },
    {
     "speaker": "Anna",
     "text": "Es ist die Summe unzähliger sorgfältiger Entscheidungen über den Boden.",
-    "t": 335.44
+    "t": 335.26
    },
    {
     "speaker": "Tom",
     "text": "Und gute Planung ist die Art und Weise, wie wir diese Entscheidungen klug treffen, gemeinsam.",
-    "t": 339.66
+    "t": 339.48
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die Raumplanung.",
-    "t": 344.92
+    "t": 344.74
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 347.58
+    "t": 347.4
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 356.17
+    "t": 355.99
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 374.5
+    "t": 374.32
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 380.2
+    "t": 380.02
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 382.45
+    "t": 382.27
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 387.34
+    "t": 387.16
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 388.49
+    "t": 388.31
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 391.7
+    "t": 391.52
    }
   ],
   "segments_lb": [
@@ -80536,73 +80536,73 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom, maache mer et praktesch. Wat kënnen d'Leit dovun ophuelen?",
+    "text": "Also Anna, maache mer et praktesch. Wat kënnen d'Leit dovun ophuelen?",
     "t": 236.98
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, wann Dir vun enger neier Wunnzon, engem Transportplang, oder enger geschützter Zon héiert, da versteet Dir dat gréissert Bild.",
-    "t": 240.9
+    "t": 240.79
    },
    {
     "speaker": "Tom",
     "text": "Als zweet, wann e Plang Är Gemeng betrëfft, passt op ëffentlech Konsultatiounen op a sot Är Meenung.",
-    "t": 248.79
+    "t": 248.68
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt, denkt drun, datt d'Zil d'Gläichgewiicht ass... Wunnengen, Aarbechtsplazen, Transport an Natur, déi all zesumme liewen.",
-    "t": 254.2
+    "t": 254.09
    },
    {
     "speaker": "Tom",
     "text": "Faasse mer et zesummen. Wat sollten d'Leit sech iwwert d'Landesplanung mierken?",
-    "t": 261.88
+    "t": 261.77
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... sou plangen de Staat an d'Gemengen op laang Siicht d'Notzung vum begrenzte Buedem vu Lëtzebuerg.",
-    "t": 266.02
+    "t": 265.91
    },
    {
     "speaker": "Tom",
     "text": "Als zweet... si benotzt eng national Strategie a sektoral Pläng fir Transport, Wunnen, Wirtschaft a Landschaften.",
-    "t": 272.33
+    "t": 272.22
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt... si schafft iwwer Regiounen an iwwer Grenzen ewech, well d'Liewen hei et och mécht.",
-    "t": 279.35
+    "t": 279.24
    },
    {
     "speaker": "Tom",
     "text": "An als véiert... si preegt Ären deeglechen Ëmfeld, dofir lount et sech, se ze verfollegen a matzemaachen.",
-    "t": 284.33
+    "t": 284.22
    },
    {
     "speaker": "Anna",
     "text": "D'Land, dat mir weiderginn, ass kee Zoufall. Et ass d'Zomm vun ongeziilte suergfältege Choixen iwwert de Buedem.",
-    "t": 289.56
+    "t": 289.45
    },
    {
     "speaker": "Tom",
     "text": "A gutt Planung ass d'Manéier, wéi mir dës Choixe klug treffen, zesummen.",
-    "t": 296.05
+    "t": 295.94
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer d'Landesplanung. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 299.62
+    "t": 299.51
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 343.23
+    "t": 343.12
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 346.43
+    "t": 346.33
    }
   ]
  },
@@ -87026,7 +87026,7 @@ const EPISODES = [
   "title": "Info-Zenter Demenz – Help and Hope Around Dementia",
   "description": "What the Info-Zenter Demenz is — Luxembourg's free national information and advice centre on memory problems and dementia — who it helps, how it explains dementia and diagnosis, the support it offers people affected and their relatives, and how a healthy lifestyle can lower the risk.",
   "audio": "podcast_demenz.mp3",
-  "duration": 329.17,
+  "duration": 329.2,
   "topics": [
    "What the centre is",
    "Free national information & advice",
@@ -87100,298 +87100,298 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "So Anna, what is the Info-Zenter Demenz?",
+    "text": "So Tom, what is the Info-Zenter Demenz?",
     "t": 56.35
    },
    {
     "speaker": "Tom",
     "text": "It is the national centre for information and advice on memory problems and dementia.",
-    "t": 59.02
+    "t": 59.04
    },
    {
     "speaker": "Anna",
     "text": "It's there for everyone touched by this... the person affected, their relatives, health professionals, and anyone with questions.",
-    "t": 63.35
+    "t": 63.37
    },
    {
     "speaker": "Tom",
     "text": "And here is something really important.",
-    "t": 71.56
+    "t": 71.58
    },
    {
     "speaker": "Tom",
     "text": "All of its advice and its materials are free.",
-    "t": 73.75
+    "t": 73.77
    },
    {
     "speaker": "Anna",
     "text": "So cost is never a barrier to getting good information and support.",
-    "t": 76.44
+    "t": 76.46
    },
    {
     "speaker": "Tom",
     "text": "Let's gently talk about what dementia actually is, because understanding helps.",
-    "t": 80.7
+    "t": 80.72
    },
    {
     "speaker": "Anna",
     "text": "Dementia is not a normal part of getting old.",
-    "t": 85
+    "t": 85.02
    },
    {
     "speaker": "Anna",
     "text": "It's a condition that affects memory, thinking and daily life.",
-    "t": 88.01
+    "t": 88.03
    },
    {
     "speaker": "Tom",
     "text": "And not every memory slip is dementia.",
-    "t": 91.97
+    "t": 91.99
    },
    {
     "speaker": "Tom",
     "text": "We all forget a name or where we put the keys.",
-    "t": 94.02
+    "t": 94.04
    },
    {
     "speaker": "Anna",
     "text": "That's a key message from the centre.",
-    "t": 96.24
+    "t": 96.26
    },
    {
     "speaker": "Anna",
     "text": "There's a difference between ordinary memory lapses and dementia.",
-    "t": 98.39
+    "t": 98.41
    },
    {
     "speaker": "Tom",
     "text": "So if you're worried, the right step is not to panic, but to seek good information, and a proper assessment.",
-    "t": 102.13
+    "t": 102.15
    },
    {
     "speaker": "Anna",
     "text": "The centre can explain how a diagnosis works, and what the next steps can be.",
-    "t": 108.96
+    "t": 108.98
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about the support for the person who is affected.",
-    "t": 114.01
+    "t": 114.03
    },
    {
     "speaker": "Anna",
     "text": "The centre offers guidance on living well... staying calm, talking openly, and adapting daily life.",
-    "t": 117.19
+    "t": 117.21
    },
    {
     "speaker": "Tom",
     "text": "It covers practical questions too, like work, driving, and planning for the future.",
-    "t": 124.42
+    "t": 124.44
    },
    {
     "speaker": "Anna",
     "text": "Because a diagnosis is not the end of a meaningful life.",
-    "t": 129.1
+    "t": 129.12
    },
    {
     "speaker": "Anna",
     "text": "With support, people can live well for a long time.",
-    "t": 132.69
+    "t": 132.71
    },
    {
     "speaker": "Tom",
     "text": "And there's just as much care for the relatives, the people who help and accompany.",
-    "t": 136.27
+    "t": 136.29
    },
    {
     "speaker": "Anna",
     "text": "Caring for someone with dementia is a profound act of love, but it can be exhausting.",
-    "t": 140.59
+    "t": 140.61
    },
    {
     "speaker": "Tom",
     "text": "The centre helps relatives look after their own health too, and not to carry everything alone.",
-    "t": 145.71
+    "t": 145.73
    },
    {
     "speaker": "Anna",
     "text": "It can point you to more than a hundred services, support groups, and partners across the country.",
-    "t": 150.99
+    "t": 151.01
    },
    {
     "speaker": "Tom",
     "text": "There's even a focus on prevention, which gives real hope.",
-    "t": 157.14
+    "t": 157.16
    },
    {
     "speaker": "Anna",
     "text": "Yes. Living healthily... staying active, eating well, keeping the mind and social life busy... can reduce the risk.",
-    "t": 160.5
+    "t": 160.52
    },
    {
     "speaker": "Tom",
     "text": "It's not a guarantee, but the things that are good for the heart are also good for the brain.",
-    "t": 168.47
+    "t": 168.49
    },
    {
     "speaker": "Anna",
     "text": "The centre runs talks, events and awareness campaigns, and there's a national dementia prevention programme too.",
-    "t": 173.6
+    "t": 173.62
    },
    {
     "speaker": "Tom",
     "text": "So there's knowledge, support, and hope, all in one welcoming place.",
-    "t": 180.48
+    "t": 180.5
    },
    {
     "speaker": "Anna",
     "text": "Let's say a gentle word about reaching out, because this is a tender subject.",
-    "t": 185.12
+    "t": 185.14
    },
    {
     "speaker": "Tom",
     "text": "If you're worried about yourself, or someone you love, asking for information is a sign of strength, not weakness.",
-    "t": 189.69
+    "t": 189.71
    },
    {
     "speaker": "Anna",
     "text": "And contacting the centre is simple... by phone, by email, through their website, or in person in Luxembourg City, and sometimes in other towns.",
-    "t": 196.29
+    "t": 196.31
    },
    {
     "speaker": "Tom",
     "text": "They are there to listen, to inform, and to help you find your way.",
-    "t": 206.85
+    "t": 206.87
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 210.78
+    "t": 210.8
    },
    {
     "speaker": "Anna",
     "text": "What can people take from this?",
-    "t": 212.31
+    "t": 212.33
    },
    {
     "speaker": "Tom",
     "text": "First, if you have worries about memory, get good information early, and a proper assessment.",
-    "t": 214.33
+    "t": 214.35
    },
    {
     "speaker": "Anna",
     "text": "Second, if a loved one is affected, remember to care for yourself as well, and ask for support.",
-    "t": 219.66
+    "t": 219.68
    },
    {
     "speaker": "Tom",
     "text": "Third, healthy living helps protect the brain, so it's never too early to take care of yourself.",
-    "t": 225.87
+    "t": 225.89
    },
    {
     "speaker": "Anna",
     "text": "And fourth, remember the centre's help is national, and it's free.",
-    "t": 230.72
+    "t": 230.74
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it together.",
-    "t": 234.74
+    "t": 234.76
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about the Info-Zenter Demenz?",
-    "t": 235.9
+    "t": 235.92
    },
    {
     "speaker": "Anna",
     "text": "First... it's Luxembourg's national centre for information and advice on memory problems and dementia.",
-    "t": 239.02
+    "t": 239.04
    },
    {
     "speaker": "Tom",
     "text": "Second... it supports those affected, their relatives, and professionals, and its services are free.",
-    "t": 245.49
+    "t": 245.51
    },
    {
     "speaker": "Anna",
     "text": "Third... it explains diagnosis, helps people live well, and supports the carers too.",
-    "t": 251.85
+    "t": 251.87
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it promotes prevention, because a healthy life lowers the risk.",
-    "t": 257.91
+    "t": 257.93
    },
    {
     "speaker": "Anna",
     "text": "Dementia can feel like a frightening word.",
-    "t": 263.02
+    "t": 263.04
    },
    {
     "speaker": "Anna",
     "text": "But knowledge, support and kindness change everything.",
-    "t": 265.64
+    "t": 265.66
    },
    {
     "speaker": "Tom",
     "text": "And in Luxembourg, that support has a warm and open door.",
-    "t": 269.15
+    "t": 269.17
    },
    {
     "speaker": "Anna",
     "text": "This was a sensitive topic, so please be gentle with yourself.",
-    "t": 272.13
+    "t": 272.15
    },
    {
     "speaker": "Tom",
     "text": "And if you or someone you love is affected, reaching out for help is always okay.",
-    "t": 275.6
+    "t": 275.62
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Info-Zenter Demenz.",
-    "t": 280.13
+    "t": 280.15
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 283.1
+    "t": 283.12
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 292.44
+    "t": 292.46
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 310.72
+    "t": 310.74
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 317.47
+    "t": 317.49
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 319.67
+    "t": 319.69
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 324.36
+    "t": 324.38
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 325.44
+    "t": 325.47
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 327.56
+    "t": 327.59
    }
   ],
   "questions": [
@@ -87594,7 +87594,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_demenz_fr.mp3",
-  "duration_fr": 321.62,
+  "duration_fr": 321.59,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -87614,341 +87614,341 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui touche beaucoup de familles, souvent en silence... les pertes de mémoire, et la démence.",
-    "t": 23.07
+    "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "Comme nous vivons plus longtemps, nous serons de plus en plus nombreux à connaître quelqu'un de concerné... un parent, un grand-parent, un conjoint, un ami.",
-    "t": 29.51
+    "t": 29.57
    },
    {
     "speaker": "Tom",
     "text": "Et cela peut être effrayant et solitaire, à la fois pour la personne et pour ceux qui l'aiment.",
-    "t": 37.25
+    "t": 37.31
    },
    {
     "speaker": "Anna",
     "text": "Mais personne ne doit y faire face seul.",
-    "t": 42.17
+    "t": 42.23
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg dispose d'un centre national dédié précisément à cela.",
-    "t": 44.14
+    "t": 44.2
    },
    {
     "speaker": "Tom",
     "text": "Il s'appelle l'Info-Zenter Demenz... le Centre d'information sur la démence.",
-    "t": 47.72
+    "t": 47.78
    },
    {
     "speaker": "Anna",
-    "text": "Alors Anna, qu'est-ce que l'Info-Zenter Demenz ?",
-    "t": 52.03
+    "text": "Alors Tom, qu'est-ce que l'Info-Zenter Demenz ?",
+    "t": 52.09
    },
    {
     "speaker": "Tom",
     "text": "C'est le centre national d'information et de conseil sur les troubles de la mémoire et la démence.",
-    "t": 54.66
+    "t": 54.62
    },
    {
     "speaker": "Anna",
     "text": "Il est là pour toutes les personnes concernées... la personne touchée, ses proches, les professionnels de santé, et toute personne qui se pose des questions.",
-    "t": 59.78
+    "t": 59.74
    },
    {
     "speaker": "Tom",
     "text": "Et voici quelque chose de vraiment important.",
-    "t": 68.53
+    "t": 68.49
    },
    {
     "speaker": "Tom",
     "text": "Tous ses conseils et tous ses documents sont gratuits.",
-    "t": 70.87
+    "t": 70.83
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, le coût n'est jamais un obstacle pour obtenir une bonne information et un bon soutien.",
-    "t": 74.07
+    "t": 74.03
    },
    {
     "speaker": "Tom",
     "text": "Parlons doucement de ce qu'est réellement la démence, car comprendre, cela aide.",
-    "t": 78.51
+    "t": 78.47
    },
    {
     "speaker": "Anna",
     "text": "La démence ne fait pas partie du vieillissement normal.",
-    "t": 83.54
+    "t": 83.5
    },
    {
     "speaker": "Anna",
     "text": "C'est une maladie qui affecte la mémoire, la pensée et la vie quotidienne.",
-    "t": 86.21
+    "t": 86.17
    },
    {
     "speaker": "Tom",
     "text": "Et tous les oublis ne sont pas une démence.",
-    "t": 89.99
+    "t": 89.95
    },
    {
     "speaker": "Tom",
     "text": "Nous oublions tous un nom ou l'endroit où nous avons posé nos clés.",
-    "t": 92.23
+    "t": 92.19
    },
    {
     "speaker": "Anna",
     "text": "C'est un message clé du centre.",
-    "t": 95.83
+    "t": 95.79
    },
    {
     "speaker": "Anna",
     "text": "Il y a une différence entre de simples trous de mémoire et la démence.",
-    "t": 97.51
+    "t": 97.47
    },
    {
     "speaker": "Tom",
     "text": "Donc, si vous êtes inquiet, la bonne démarche n'est pas de paniquer, mais de chercher une bonne information, et un bilan approprié.",
-    "t": 101.12
+    "t": 101.08
    },
    {
     "speaker": "Anna",
     "text": "Le centre peut expliquer comment se déroule un diagnostic, et quelles peuvent être les étapes suivantes.",
-    "t": 108.19
+    "t": 108.15
    },
    {
     "speaker": "Tom",
     "text": "Parlons du soutien apporté à la personne concernée.",
-    "t": 112.99
+    "t": 112.95
    },
    {
     "speaker": "Anna",
     "text": "Le centre offre des conseils pour bien vivre... rester calme, parler ouvertement, et adapter la vie quotidienne.",
-    "t": 115.8
+    "t": 115.76
    },
    {
     "speaker": "Tom",
     "text": "Il aborde aussi des questions pratiques, comme le travail, la conduite, et la préparation de l'avenir.",
-    "t": 122.05
+    "t": 122.01
    },
    {
     "speaker": "Anna",
     "text": "Car un diagnostic n'est pas la fin d'une vie qui a du sens.",
-    "t": 127.47
+    "t": 127.43
    },
    {
     "speaker": "Anna",
     "text": "Avec du soutien, on peut bien vivre pendant longtemps.",
-    "t": 130.2
+    "t": 130.16
    },
    {
     "speaker": "Tom",
     "text": "Et il y a tout autant d'attention pour les proches, les personnes qui aident et qui accompagnent.",
-    "t": 133.1
+    "t": 133.06
    },
    {
     "speaker": "Anna",
     "text": "S'occuper d'une personne atteinte de démence est un profond acte d'amour, mais cela peut être épuisant.",
-    "t": 138.19
+    "t": 138.15
    },
    {
     "speaker": "Tom",
     "text": "Le centre aide les proches à prendre soin de leur propre santé aussi, et à ne pas tout porter seuls.",
-    "t": 142.81
+    "t": 142.77
    },
    {
     "speaker": "Anna",
     "text": "Il peut vous orienter vers plus d'une centaine de services, des groupes de soutien, et des partenaires partout dans le pays.",
-    "t": 148.73
+    "t": 148.69
    },
    {
     "speaker": "Tom",
     "text": "Il y a même un accent mis sur la prévention, ce qui donne un véritable espoir.",
-    "t": 154.5
+    "t": 154.46
    },
    {
     "speaker": "Anna",
     "text": "Oui. Vivre sainement... rester actif, bien manger, garder l'esprit et la vie sociale occupés... peut réduire le risque.",
-    "t": 158.85
+    "t": 158.81
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas une garantie, mais ce qui est bon pour le cœur est aussi bon pour le cerveau.",
-    "t": 164.73
+    "t": 164.69
    },
    {
     "speaker": "Anna",
     "text": "Le centre organise des conférences, des événements et des campagnes de sensibilisation, et il existe aussi un programme national de prévention de la démence.",
-    "t": 169.68
+    "t": 169.64
    },
    {
     "speaker": "Tom",
     "text": "Il y a donc du savoir, du soutien et de l'espoir, le tout dans un même lieu accueillant.",
-    "t": 177.32
+    "t": 177.28
    },
    {
     "speaker": "Anna",
     "text": "Disons un mot tout en douceur sur le fait de demander de l'aide, car c'est un sujet délicat.",
-    "t": 182.51
+    "t": 182.47
    },
    {
     "speaker": "Tom",
     "text": "Si vous êtes inquiet pour vous-même, ou pour une personne que vous aimez, demander des informations est un signe de force, pas de faiblesse.",
-    "t": 186.79
+    "t": 186.75
    },
    {
     "speaker": "Anna",
     "text": "Et contacter le centre est simple... par téléphone, par e-mail, via leur site internet, ou sur place à Luxembourg-Ville, et parfois dans d'autres villes.",
-    "t": 194.54
+    "t": 194.5
    },
    {
     "speaker": "Tom",
     "text": "Ils sont là pour écouter, pour informer, et pour vous aider à trouver votre chemin.",
-    "t": 202.52
+    "t": 202.48
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 207.19
+    "t": 207.15
    },
    {
     "speaker": "Anna",
     "text": "Que peut-on retenir de tout cela ?",
-    "t": 208.49
+    "t": 208.45
    },
    {
     "speaker": "Tom",
     "text": "Premièrement, si vous avez des inquiétudes concernant la mémoire, cherchez une bonne information tôt, et faites un bilan approprié.",
-    "t": 210.3
+    "t": 210.26
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement, si un proche est concerné, n'oubliez pas de prendre soin de vous aussi, et demandez du soutien.",
-    "t": 217.53
+    "t": 217.49
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, une vie saine aide à protéger le cerveau, donc il n'est jamais trop tôt pour prendre soin de soi.",
-    "t": 222.8
+    "t": 222.76
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement, rappelez-vous que l'aide du centre est nationale, et qu'elle est gratuite.",
-    "t": 228.61
+    "t": 228.57
    },
    {
     "speaker": "Tom",
     "text": "Récapitulons ensemble. Que faut-il retenir de l'Info-Zenter Demenz ?",
-    "t": 232.99
+    "t": 232.95
    },
    {
     "speaker": "Anna",
     "text": "Premièrement... c'est le centre national du Luxembourg pour l'information et le conseil sur les troubles de la mémoire et la démence.",
-    "t": 237.39
+    "t": 237.35
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... il soutient les personnes touchées, leurs proches, et les professionnels, et ses services sont gratuits.",
-    "t": 243.37
+    "t": 243.33
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... il explique le diagnostic, aide les gens à bien vivre, et soutient aussi les aidants.",
-    "t": 250.2
+    "t": 250.16
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... il fait la promotion de la prévention, car une vie saine réduit le risque.",
-    "t": 255.07
+    "t": 255.03
    },
    {
     "speaker": "Anna",
     "text": "La démence peut sembler un mot effrayant.",
-    "t": 260.27
+    "t": 260.23
    },
    {
     "speaker": "Anna",
     "text": "Mais le savoir, le soutien et la bienveillance changent tout.",
-    "t": 262.24
+    "t": 262.2
    },
    {
     "speaker": "Tom",
     "text": "Et au Luxembourg, ce soutien a une porte chaleureuse et ouverte.",
-    "t": 265.66
+    "t": 265.62
    },
    {
     "speaker": "Anna",
     "text": "C'était un sujet sensible, alors soyez doux avec vous-même.",
-    "t": 269.29
+    "t": 269.25
    },
    {
     "speaker": "Tom",
     "text": "Et si vous ou une personne que vous aimez êtes concernés, demander de l'aide est toujours une bonne chose.",
-    "t": 272.47
+    "t": 272.43
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'Info-Zenter Demenz.",
-    "t": 278.51
+    "t": 278.47
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 280.94
+    "t": 280.9
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 288.9
+    "t": 288.86
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 305.35
+    "t": 305.31
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 310
+    "t": 309.96
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 311.78
+    "t": 311.74
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 316.16
+    "t": 316.12
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 317.39
+    "t": 317.35
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 319.85
+    "t": 319.81
    }
   ],
   "audio_de": "podcast_demenz_de.mp3",
-  "duration_de": 374.83,
+  "duration_de": 375.07,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -87968,342 +87968,342 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema berührt viele Familien, oft im Stillen... Gedächtnisverlust und Demenz.",
-    "t": 27.86
+    "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Da wir immer älter werden, kennen immer mehr von uns jemanden, der betroffen ist... ein Elternteil, einen Großelternteil, einen Partner, einen Freund.",
-    "t": 33.92
+    "t": 33.94
    },
    {
     "speaker": "Tom",
     "text": "Und das kann beängstigend und einsam sein, sowohl für die betroffene Person als auch für die, die sie lieben.",
-    "t": 42.73
+    "t": 42.75
    },
    {
     "speaker": "Anna",
     "text": "Aber niemand muss dem allein gegenüberstehen.",
-    "t": 49.11
+    "t": 49.13
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg hat ein nationales Zentrum, das sich genau darum kümmert.",
-    "t": 51.68
+    "t": 51.7
    },
    {
     "speaker": "Tom",
     "text": "Es heißt Info-Zenter Demenz... das Informationszentrum für Demenz.",
-    "t": 55.85
+    "t": 55.87
    },
    {
     "speaker": "Anna",
-    "text": "Also Anna, was ist der Info-Zenter Demenz?",
-    "t": 60.51
+    "text": "Also Tom, was ist der Info-Zenter Demenz?",
+    "t": 60.53
    },
    {
     "speaker": "Tom",
     "text": "Es ist das nationale Zentrum für Information und Beratung zu Gedächtnisproblemen und Demenz.",
-    "t": 63.09
+    "t": 63.33
    },
    {
     "speaker": "Anna",
     "text": "Es ist für alle da, die davon berührt sind... die betroffene Person, ihre Angehörigen, das medizinische Fachpersonal, und jeden, der Fragen hat.",
-    "t": 68.74
+    "t": 68.98
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist etwas wirklich Wichtiges.",
-    "t": 78.27
+    "t": 78.51
    },
    {
     "speaker": "Tom",
     "text": "All seine Beratung und seine Unterlagen sind kostenlos.",
-    "t": 80.71
+    "t": 80.95
    },
    {
     "speaker": "Anna",
     "text": "So sind die Kosten nie ein Hindernis, um gute Informationen und Unterstützung zu erhalten.",
-    "t": 84.2
+    "t": 84.44
    },
    {
     "speaker": "Tom",
     "text": "Lassen Sie uns behutsam darüber sprechen, was Demenz eigentlich ist, denn Verstehen hilft.",
-    "t": 89.18
+    "t": 89.42
    },
    {
     "speaker": "Anna",
     "text": "Demenz ist kein normaler Teil des Älterwerdens.",
-    "t": 94.36
+    "t": 94.6
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine Erkrankung, die das Gedächtnis, das Denken und das tägliche Leben beeinträchtigt.",
-    "t": 97.26
+    "t": 97.5
    },
    {
     "speaker": "Tom",
     "text": "Und nicht jeder Gedächtnisaussetzer ist Demenz.",
-    "t": 102.66
+    "t": 102.9
    },
    {
     "speaker": "Tom",
     "text": "Wir alle vergessen einmal einen Namen oder wo wir die Schlüssel hingelegt haben.",
-    "t": 105.56
+    "t": 105.8
    },
    {
     "speaker": "Anna",
     "text": "Das ist eine zentrale Botschaft des Zentrums.",
-    "t": 109.87
+    "t": 110.11
    },
    {
     "speaker": "Anna",
     "text": "Es gibt einen Unterschied zwischen gewöhnlichen Gedächtnislücken und Demenz.",
-    "t": 112.63
+    "t": 112.87
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie sich also Sorgen machen, ist der richtige Schritt nicht, in Panik zu geraten, sondern gute Informationen zu suchen, und eine ordentliche Abklärung.",
-    "t": 116.75
+    "t": 116.99
    },
    {
     "speaker": "Anna",
     "text": "Das Zentrum kann erklären, wie eine Diagnose abläuft, und welche die nächsten Schritte sein können.",
-    "t": 125.47
+    "t": 125.71
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir über die Unterstützung für die betroffene Person.",
-    "t": 130.85
+    "t": 131.09
    },
    {
     "speaker": "Anna",
     "text": "Das Zentrum bietet Orientierung für ein gutes Leben... ruhig bleiben, offen sprechen, und den Alltag anpassen.",
-    "t": 134.18
+    "t": 134.42
    },
    {
     "speaker": "Tom",
     "text": "Es behandelt auch praktische Fragen, wie Arbeit, Autofahren, und die Planung der Zukunft.",
-    "t": 141.15
+    "t": 141.39
    },
    {
     "speaker": "Anna",
     "text": "Denn eine Diagnose ist nicht das Ende eines erfüllten Lebens.",
-    "t": 146.81
+    "t": 147.05
    },
    {
     "speaker": "Anna",
     "text": "Mit Unterstützung können Menschen lange gut leben.",
-    "t": 150.78
+    "t": 151.02
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt ebenso viel Fürsorge für die Angehörigen, die Menschen, die helfen und begleiten.",
-    "t": 153.75
+    "t": 153.99
    },
    {
     "speaker": "Anna",
     "text": "Sich um einen Menschen mit Demenz zu kümmern, ist ein tiefer Akt der Liebe, aber es kann erschöpfend sein.",
-    "t": 158.93
+    "t": 159.17
    },
    {
     "speaker": "Tom",
     "text": "Das Zentrum hilft den Angehörigen, auch auf ihre eigene Gesundheit zu achten, und nicht alles allein zu tragen.",
-    "t": 164.99
+    "t": 165.23
    },
    {
     "speaker": "Anna",
     "text": "Es kann Sie zu mehr als hundert Diensten, Selbsthilfegruppen, und Partnern im ganzen Land weiterleiten.",
-    "t": 171.56
+    "t": 171.8
    },
    {
     "speaker": "Tom",
     "text": "Es gibt sogar einen Schwerpunkt auf Vorbeugung, was echte Hoffnung gibt.",
-    "t": 177.65
+    "t": 177.89
    },
    {
     "speaker": "Anna",
     "text": "Ja. Gesund leben... aktiv bleiben, sich gut ernähren, den Geist und das soziale Leben beschäftigt halten... kann das Risiko verringern.",
-    "t": 181.89
+    "t": 182.13
    },
    {
     "speaker": "Tom",
     "text": "Es ist keine Garantie, aber was gut für das Herz ist, ist auch gut für das Gehirn.",
-    "t": 192.19
+    "t": 192.43
    },
    {
     "speaker": "Anna",
     "text": "Das Zentrum veranstaltet Vorträge, Veranstaltungen und Sensibilisierungskampagnen, und es gibt auch ein nationales Demenz-Präventionsprogramm.",
-    "t": 196.89
+    "t": 197.13
    },
    {
     "speaker": "Tom",
     "text": "Es gibt also Wissen, Unterstützung und Hoffnung, alles an einem einladenden Ort.",
-    "t": 205.21
+    "t": 205.45
    },
    {
     "speaker": "Anna",
     "text": "Sagen wir ein behutsames Wort darüber, Hilfe zu suchen, denn das ist ein heikles Thema.",
-    "t": 210.23
+    "t": 210.47
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie sich um sich selbst Sorgen machen, oder um einen Menschen, den Sie lieben, ist es ein Zeichen von Stärke, nach Informationen zu fragen, nicht von Schwäche.",
-    "t": 215.06
+    "t": 215.3
    },
    {
     "speaker": "Anna",
     "text": "Und das Zentrum zu kontaktieren ist einfach... telefonisch, per E-Mail, über ihre Webseite, oder vor Ort in Luxemburg-Stadt, und manchmal auch in anderen Städten.",
-    "t": 224.33
+    "t": 224.57
    },
    {
     "speaker": "Tom",
     "text": "Sie sind da, um zuzuhören, um zu informieren, und um Ihnen zu helfen, Ihren Weg zu finden.",
-    "t": 235.57
+    "t": 235.81
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es praktisch.",
-    "t": 241.12
+    "t": 241.36
    },
    {
     "speaker": "Anna",
     "text": "Was können die Menschen daraus mitnehmen?",
-    "t": 242.6
+    "t": 242.84
    },
    {
     "speaker": "Tom",
     "text": "Erstens, wenn Sie sich Sorgen um das Gedächtnis machen, holen Sie sich früh gute Informationen, und eine ordentliche Abklärung.",
-    "t": 245.02
+    "t": 245.26
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, wenn ein geliebter Mensch betroffen ist, denken Sie daran, auch für sich selbst zu sorgen, und bitten Sie um Unterstützung.",
-    "t": 252.33
+    "t": 252.57
    },
    {
     "speaker": "Tom",
     "text": "Drittens, ein gesundes Leben hilft, das Gehirn zu schützen, also ist es nie zu früh, auf sich selbst zu achten.",
-    "t": 259.87
+    "t": 260.11
    },
    {
     "speaker": "Anna",
     "text": "Und viertens, denken Sie daran, dass die Hilfe des Zentrums landesweit ist, und dass sie kostenlos ist.",
-    "t": 266.5
+    "t": 266.74
    },
    {
     "speaker": "Tom",
     "text": "Bringen wir es zusammen.",
-    "t": 272.65
+    "t": 272.89
    },
    {
     "speaker": "Tom",
     "text": "Was sollten sich die Menschen über den Info-Zenter Demenz merken?",
-    "t": 274.1
+    "t": 274.34
    },
    {
     "speaker": "Anna",
     "text": "Erstens... es ist Luxemburgs nationales Zentrum für Information und Beratung zu Gedächtnisproblemen und Demenz.",
-    "t": 277.81
+    "t": 278.05
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... es unterstützt die Betroffenen, ihre Angehörigen, und die Fachleute, und seine Leistungen sind kostenlos.",
-    "t": 285.09
+    "t": 285.33
    },
    {
     "speaker": "Anna",
     "text": "Drittens... es erklärt die Diagnose, hilft den Menschen, gut zu leben, und unterstützt auch die Pflegenden.",
-    "t": 292.9
+    "t": 293.14
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... es fördert die Vorbeugung, denn ein gesundes Leben senkt das Risiko.",
-    "t": 299.6
+    "t": 299.84
    },
    {
     "speaker": "Anna",
     "text": "Demenz kann sich wie ein beängstigendes Wort anfühlen.",
-    "t": 304.88
+    "t": 305.12
    },
    {
     "speaker": "Anna",
     "text": "Aber Wissen, Unterstützung und Freundlichkeit verändern alles.",
-    "t": 307.91
+    "t": 308.15
    },
    {
     "speaker": "Tom",
     "text": "Und in Luxemburg hat diese Unterstützung eine warme und offene Tür.",
-    "t": 312.18
+    "t": 312.42
    },
    {
     "speaker": "Anna",
     "text": "Das war ein sensibles Thema, also seien Sie sanft mit sich selbst.",
-    "t": 316.26
+    "t": 316.5
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie oder ein geliebter Mensch betroffen sind, ist es immer in Ordnung, um Hilfe zu bitten.",
-    "t": 320.45
+    "t": 320.69
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Info-Zenter Demenz.",
-    "t": 325.78
+    "t": 326.02
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 329.05
+    "t": 329.29
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 337.75
+    "t": 337.99
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 356.08
+    "t": 356.32
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 361.78
+    "t": 362.02
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 364.03
+    "t": 364.27
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 368.92
+    "t": 369.16
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 370.07
+    "t": 370.31
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 373.28
+    "t": 373.52
    }
   ],
   "segments_lb": [
@@ -88349,228 +88349,228 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Also Anna, wat ass den Info-Zenter Demenz?",
+    "text": "Also Tom, wat ass den Info-Zenter Demenz?",
     "t": 56.35
    },
    {
     "speaker": "Tom",
     "text": "Et ass dat nationaalt Zentrum fir Informatioun a Berodung iwwer Gedächtnisproblemer an Demenz.",
-    "t": 59.02
+    "t": 59.04
    },
    {
     "speaker": "Anna",
     "text": "Et ass fir jiddereen do, deen dovunner beréiert ass... déi betraff Persoun, hir Proche, d'Gesondheetsfachleit, an jiddereen, deen Froen huet.",
-    "t": 63.35
+    "t": 63.37
    },
    {
     "speaker": "Tom",
     "text": "An hei ass eppes ganz Wichteges. All seng Berodung a seng Ënnerlage si gratis.",
-    "t": 71.56
+    "t": 71.58
    },
    {
     "speaker": "Anna",
     "text": "Sou sinn d'Käschten ni en Hindernis, fir gutt Informatiounen an Ënnerstëtzung ze kréien.",
-    "t": 76.44
+    "t": 76.46
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis sanft doriwwer schwätzen, wat Demenz eigentlech ass, well Verstoen hëlleft.",
-    "t": 80.7
+    "t": 80.72
    },
    {
     "speaker": "Anna",
     "text": "Demenz ass kee normalen Deel vum Eelerwerden. Et ass eng Krankheet, déi d'Gedächtnis, d'Denken an den Alldag beaflosst.",
-    "t": 85
+    "t": 85.02
    },
    {
     "speaker": "Tom",
     "text": "An net all Vergiessen ass Demenz. Mir vergiessen all emol en Numm oder wou mir de Schlëssel higeluecht hunn.",
-    "t": 91.97
+    "t": 91.99
    },
    {
     "speaker": "Anna",
     "text": "Dat ass eng zentral Message vum Zentrum. Et gëtt en Ënnerscheed tëscht gewéinleche Gedächtnislücken an Demenz.",
-    "t": 96.24
+    "t": 96.26
    },
    {
     "speaker": "Tom",
     "text": "Also wann Dir Iech Suerge maacht, ass de richtege Schrëtt net, a Panik ze geroden, mä gutt Informatiounen ze sichen, an eng richteg Ofklärung.",
-    "t": 102.13
+    "t": 102.15
    },
    {
     "speaker": "Anna",
     "text": "D'Zentrum kann erklären, wéi eng Diagnose ofleeft, a wat déi nächst Schrëtt kënne sinn.",
-    "t": 108.96
+    "t": 108.98
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis iwwert d'Ënnerstëtzung fir déi betraff Persoun schwätzen.",
-    "t": 114.01
+    "t": 114.03
    },
    {
     "speaker": "Anna",
     "text": "D'Zentrum bitt Orientéierung fir gutt ze liewen... roueg ze bleiwen, offen ze schwätzen, an den Alldag unzepassen.",
-    "t": 117.19
+    "t": 117.21
    },
    {
     "speaker": "Tom",
     "text": "Et behandelt och praktesch Froen, wéi d'Aarbecht, d'Autofueren, an d'Planung vun der Zukunft.",
-    "t": 124.42
+    "t": 124.44
    },
    {
     "speaker": "Anna",
     "text": "Well eng Diagnose net d'Enn vun engem sënnvolle Liewen ass. Mat Ënnerstëtzung kënnen d'Mënsche laang gutt liewen.",
-    "t": 129.1
+    "t": 129.12
    },
    {
     "speaker": "Tom",
     "text": "An et gëtt grad esou vill Fleeg fir d'Proche, d'Leit, déi hëllefen a begleeden.",
-    "t": 136.27
+    "t": 136.29
    },
    {
     "speaker": "Anna",
     "text": "Sech ëm e Mënsch mat Demenz ze këmmeren, ass en déiwen Akt vu Léift, mä et kann ustrengend sinn.",
-    "t": 140.59
+    "t": 140.61
    },
    {
     "speaker": "Tom",
     "text": "D'Zentrum hëlleft de Proche, och op hir eege Gesondheet ze oppassen, an net alles eleng ze droen.",
-    "t": 145.71
+    "t": 145.73
    },
    {
     "speaker": "Anna",
     "text": "Et kann Iech bei méi wéi honnert Servicer, Selbsthëllefsgruppen, a Partner am ganze Land weiderleeden.",
-    "t": 150.99
+    "t": 151.01
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt souguer e Schwéierpunkt op der Virbeugung, wat richteg Hoffnung gëtt.",
-    "t": 157.14
+    "t": 157.16
    },
    {
     "speaker": "Anna",
     "text": "Jo. Gesond liewen... aktiv bleiwen, sech gutt ernähren, de Geescht an d'sozialt Liewe beschäftegt halen... kann d'Risiko reduzéieren.",
-    "t": 160.5
+    "t": 160.52
    },
    {
     "speaker": "Tom",
     "text": "Et ass keng Garantie, mä wat gutt fir d'Häerz ass, ass och gutt fir d'Gehir.",
-    "t": 168.47
+    "t": 168.49
    },
    {
     "speaker": "Anna",
     "text": "D'Zentrum organiséiert Virträg, Veranstaltungen a Sensibiliséierungscampagnen, an et gëtt och en nationaalt Programm fir Demenz-Preventioun.",
-    "t": 173.6
+    "t": 173.62
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt also Wëssen, Ënnerstëtzung an Hoffnung, alles op engem awueleudegen Ort.",
-    "t": 180.48
+    "t": 180.5
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis e sanft Wuert doriwwer soen, sech Hëllef ze sichen, well dat ass en delikat Thema.",
-    "t": 185.12
+    "t": 185.14
    },
    {
     "speaker": "Tom",
     "text": "Wann Dir Iech ëm Iech selwer Suerge maacht, oder ëm e Mënsch, deen Dir gär hutt, ass et e Zeeche vu Stäerkt, no Informatiounen ze froen, net vu Schwächt.",
-    "t": 189.69
+    "t": 189.71
    },
    {
     "speaker": "Anna",
     "text": "An d'Zentrum ze kontaktéieren ass einfach... iwwer Telefon, iwwer E-Mail, iwwer hir Websäit, oder op der Plaz an der Stad, an heiansdo och an anere Stied.",
-    "t": 196.29
+    "t": 196.31
    },
    {
     "speaker": "Tom",
     "text": "Si sinn do, fir nozelauschteren, fir ze informéieren, a fir Iech ze hëllefen, Äre Wee ze fannen.",
-    "t": 206.85
+    "t": 206.87
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis et praktesch maachen. Wat kënnen d'Leit dovunner mathuelen?",
-    "t": 210.78
+    "t": 210.8
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, wann Dir Iech Suergen ëm d'Gedächtnis maacht, sicht Iech fréi gutt Informatiounen, an eng richteg Ofklärung.",
-    "t": 214.33
+    "t": 214.35
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, wann e léiwe Mënsch betraff ass, denkt drun, och fir Iech selwer ze suergen, a freet no Ënnerstëtzung.",
-    "t": 219.66
+    "t": 219.68
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, e gesond Liewen hëlleft, d'Gehir ze schützen, also ass et ni ze fréi, op sech selwer ze oppassen.",
-    "t": 225.87
+    "t": 225.89
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, denkt drun, datt d'Hëllef vum Zentrum national ass, an datt se gratis ass.",
-    "t": 230.72
+    "t": 230.74
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis et zesummebréngen. Wat sollen d'Leit sech iwwert den Info-Zenter Demenz merken?",
-    "t": 234.74
+    "t": 234.76
    },
    {
     "speaker": "Anna",
     "text": "Éischtens... et ass Lëtzebuerg säin nationaalt Zentrum fir Informatioun a Berodung iwwer Gedächtnisproblemer an Demenz.",
-    "t": 239.02
+    "t": 239.04
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... et ënnerstëtzt déi Betraffen, hir Proche, an d'Fachleit, a seng Servicer si gratis.",
-    "t": 245.49
+    "t": 245.51
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... et erkläert d'Diagnose, hëlleft de Leit gutt ze liewen, an ënnerstëtzt och d'Fleegepersounen.",
-    "t": 251.85
+    "t": 251.87
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... et fërdert d'Virbeugung, well e gesond Liewen d'Risiko erofsetzt.",
-    "t": 257.91
+    "t": 257.93
    },
    {
     "speaker": "Anna",
     "text": "Demenz kann sech wéi en angschtmaachend Wuert ufillen. Mä Wëssen, Ënnerstëtzung a Frëndlechkeet änneren alles.",
-    "t": 263.02
+    "t": 263.04
    },
    {
     "speaker": "Tom",
     "text": "An zu Lëtzebuerg huet dës Ënnerstëtzung eng waarm an oppen Dier.",
-    "t": 269.15
+    "t": 269.17
    },
    {
     "speaker": "Anna",
     "text": "Dat war e sensibelt Thema, also sidd sanft mat Iech selwer.",
-    "t": 272.13
+    "t": 272.15
    },
    {
     "speaker": "Tom",
     "text": "A wann Dir oder e Mënsch, deen Dir gär hutt, betraff sidd, ass et ëmmer an der Rei, no Hëllef ze froen.",
-    "t": 275.6
+    "t": 275.62
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer den Info-Zenter Demenz. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 280.13
+    "t": 280.15
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 324.36
+    "t": 324.38
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 327.56
+    "t": 327.59
    }
   ]
  },

@@ -14,7 +14,7 @@
 **TOM:** And it can be frightening and lonely, both for the person and for those who love them.
 **ANNA:** But no one has to face it alone. Luxembourg has a national centre dedicated to exactly this.
 **TOM:** It's called the Info-Zenter Demenz... the Dementia Information Centre.
-**ANNA:** So Anna, what is the Info-Zenter Demenz?
+**ANNA:** So Tom, what is the Info-Zenter Demenz?
 **TOM:** It is the national centre for information and advice on memory problems and dementia.
 **ANNA:** It's there for everyone touched by this... the person affected, their relatives, health professionals, and anyone with questions.
 **TOM:** And here is something really important. All of its advice and its materials are free.

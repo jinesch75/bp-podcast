@@ -55,7 +55,7 @@
 **ANNA:** Ensuite, parce que les agriculteurs façonnent le paysage... les champs, les haies et les prairies dont nous profitons tous.
 **TOM:** Troisièmement, parce que le bien-être animal reflète le genre de société que nous voulons être.
 **ANNA:** Et quatrièmement, parce que soutenir l'alimentation locale maintient la campagne vivante, et la communauté forte.
-**TOM:** Alors Tom, rendons cela concret. Que peut faire quelqu'un avec tout cela ?
+**TOM:** Alors Anna, rendons cela concret. Que peut faire quelqu'un avec tout cela ?
 **ANNA:** D'abord, quand vous faites vos courses, cherchez des produits locaux et de saison, et essayez les produits biologiques.
 **TOM:** Ensuite, si vous avez des animaux, consultez les conseils du portail pour bien en prendre soin et dans le respect de la loi.
 **ANNA:** Troisièmement, en été, visitez la Moselle, faites une promenade dans les vignes, et goûtez un vin local ou un Crémant.

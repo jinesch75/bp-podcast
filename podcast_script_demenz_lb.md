@@ -14,7 +14,7 @@
 **TOM:** An dat kann angschtmaachend an eesam sinn, souwuel fir d'Persoun wéi fir déi, déi se gär hunn.
 **ANNA:** Mä keen muss deem eleng géigeniwwerstoen. Lëtzebuerg huet en nationaalt Zentrum, dat sech genau ëm dat këmmert.
 **TOM:** Et heescht Info-Zenter Demenz... den Informatiounszentrum fir Demenz.
-**ANNA:** Also Anna, wat ass den Info-Zenter Demenz?
+**ANNA:** Also Tom, wat ass den Info-Zenter Demenz?
 **TOM:** Et ass dat nationaalt Zentrum fir Informatioun a Berodung iwwer Gedächtnisproblemer an Demenz.
 **ANNA:** Et ass fir jiddereen do, deen dovunner beréiert ass... déi betraff Persoun, hir Proche, d'Gesondheetsfachleit, an jiddereen, deen Froen huet.
 **TOM:** An hei ass eppes ganz Wichteges. All seng Berodung a seng Ënnerlage si gratis.

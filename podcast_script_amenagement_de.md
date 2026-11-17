@@ -47,7 +47,7 @@
 **ANNA:** Es gibt auch eine Rolle für die Bürger. Große Pläne durchlaufen oft eine öffentliche Konsultation.
 **TOM:** Sie können sich also informieren und manchmal Ihre Meinung äußern, wenn ein Plan Ihre Gegend betrifft.
 **ANNA:** Das Portal veröffentlicht die Pläne, die Strategie und die Neuigkeiten, offen zugänglich.
-**TOM:** Also Tom, machen wir es praktisch. Was können die Menschen daraus mitnehmen?
+**TOM:** Also Anna, machen wir es praktisch. Was können die Menschen daraus mitnehmen?
 **ANNA:** Erstens, wenn Sie von einer neuen Wohnzone, einem Verkehrsplan oder einem Schutzgebiet hören, werden Sie das größere Bild verstehen.
 **TOM:** Zweitens, wenn ein Plan Ihre Gemeinde betrifft, achten Sie auf öffentliche Konsultationen und sagen Sie Ihre Meinung.
 **ANNA:** Drittens, denken Sie daran, dass das Ziel das Gleichgewicht ist... Wohnungen, Arbeitsplätze, Verkehr und Natur, die alle zusammen bestehen.

@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "CePAS – Psychological and School Support for Young People",
   "description": "What CePAS (the psycho-social and school support centre) is, its sixty-year history, the consultation centre for young people aged 12–30 and their families, the quick support available inside every secondary school, consultations now also in English, and how it connects with other services.",
   "audio": "../../podcast_cepas.mp3",
-  "duration": 423.97,
+  "duration": 423.68,
   "topics": [
    "What CePAS is",
    "Sixty years of youth support",
@@ -350,128 +350,128 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "So Tom... let's make it practical.",
+    "text": "So Anna, let's make it practical.",
     "t": 296.61
    },
    {
     "speaker": "Tom",
     "text": "How does someone actually use CePAS?",
-    "t": 298.97
+    "t": 298.85
    },
    {
     "speaker": "Anna",
     "text": "First... if your child needs quick support, the school's psycho-social service is right there, often without an appointment.",
-    "t": 301.85
+    "t": 301.58
    },
    {
     "speaker": "Tom",
     "text": "Second... for deeper or longer support, the consultation centre welcomes young people from twelve to thirty, and their families, by appointment.",
-    "t": 309.55
+    "t": 309.28
    },
    {
     "speaker": "Anna",
     "text": "Third... remember that since 2026, consultations are also available in English.",
-    "t": 318.31
+    "t": 318.04
    },
    {
     "speaker": "Tom",
     "text": "And fourth... these services connect with others, like the ONE, so help can be coordinated.",
-    "t": 324
+    "t": 323.73
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it all together.",
-    "t": 329.87
+    "t": 329.6
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about CePAS?",
-    "t": 331.45
+    "t": 331.18
    },
    {
     "speaker": "Tom",
     "text": "First... it is a psycho-social and school support centre, helping young people's wellbeing at school for more than sixty years.",
-    "t": 334.43
+    "t": 334.16
    },
    {
     "speaker": "Anna",
     "text": "Second... it offers psychological and therapeutic support for school, personal, and relationship problems.",
-    "t": 342.26
+    "t": 341.99
    },
    {
     "speaker": "Tom",
     "text": "Third... there is quick help inside every secondary school, and deeper support at its consultation centre.",
-    "t": 349.2
+    "t": 348.93
    },
    {
     "speaker": "Anna",
     "text": "And fourth... it works hand in hand with parents, schools, and other services.",
-    "t": 355.57
+    "t": 355.3
    },
    {
     "speaker": "Tom",
     "text": "Young people carry more than we sometimes see.",
-    "t": 360.47
+    "t": 360.2
    },
    {
     "speaker": "Tom",
     "text": "A listening ear at the right moment can mean everything.",
-    "t": 362.74
+    "t": 362.47
    },
    {
     "speaker": "Anna",
     "text": "And in Luxembourg, that listening ear has a name... CePAS.",
-    "t": 366.49
+    "t": 366.22
    },
    {
     "speaker": "Tom",
     "text": "And remember... if you or a young person you know is struggling, reaching out is always okay.",
-    "t": 370.71
+    "t": 370.44
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about CePAS.",
-    "t": 376.25
+    "t": 375.98
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 378.34
+    "t": 378.07
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 387.23
+    "t": 386.96
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 405.51
+    "t": 405.24
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 412.26
+    "t": 411.99
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 414.46
+    "t": 414.19
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 419.15
+    "t": 418.88
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 420.24
+    "t": 419.97
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 422.36
+    "t": 422.09
    }
   ],
   "questions": [
@@ -674,7 +674,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "../../podcast_cepas_fr.mp3",
-  "duration_fr": 398.63,
+  "duration_fr": 398.45,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -694,446 +694,446 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
     "text": "Et aujourd'hui, nous parlons d'un sujet qui touche le cœur de beaucoup de familles... le bien-être des jeunes, surtout à l'école.",
-    "t": 23.07
+    "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "Les années d'école peuvent être merveilleuses.",
-    "t": 29.69
+    "t": 29.75
    },
    {
     "speaker": "Anna",
     "text": "Mais elles peuvent aussi être stressantes, déroutantes, et parfois douloureuses.",
-    "t": 32.11
+    "t": 32.17
    },
    {
     "speaker": "Tom",
     "text": "Des inquiétudes au sujet des notes, des amitiés, de l'avenir, de ce qui se passe à la maison.",
-    "t": 36.49
+    "t": 36.55
    },
    {
     "speaker": "Anna",
     "text": "Et c'est exactement là qu'intervient l'organisation dont nous parlons aujourd'hui.",
-    "t": 42.24
+    "t": 42.3
    },
    {
     "speaker": "Anna",
     "text": "Elle s'appelle CePAS.",
-    "t": 45.74
+    "t": 45.8
    },
    {
     "speaker": "Tom",
     "text": "CePAS. Le nom complet est le Centre psycho-social et d'accompagnement scolaires.",
-    "t": 47.57
+    "t": 47.63
    },
    {
     "speaker": "Anna",
     "text": "En termes simples... c'est un centre de soutien psycho-social et scolaire pour les jeunes.",
-    "t": 52.63
+    "t": 52.69
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, quelle est l'idée principale derrière le CePAS ?",
-    "t": 57.4
+    "t": 57.46
    },
    {
     "speaker": "Anna",
     "text": "Son but est de soutenir le développement et le bien-être personnel, relationnel et scolaire des jeunes à l'école.",
-    "t": 60.72
+    "t": 60.78
    },
    {
     "speaker": "Tom",
     "text": "Donc pas seulement leurs notes, mais le jeune dans son ensemble... ses émotions, ses relations, sa confiance.",
-    "t": 66.16
+    "t": 66.22
    },
    {
     "speaker": "Anna",
     "text": "Et il le fait avec toutes les personnes qui entourent le jeune... les parents, les enseignants et le personnel scolaire.",
-    "t": 72.35
+    "t": 72.41
    },
    {
     "speaker": "Tom",
     "text": "J'aime aussi le fait qu'il ait toute une histoire.",
-    "t": 78.07
+    "t": 78.13
    },
    {
     "speaker": "Anna",
     "text": "En effet. Le CePAS est né en 1965, sous un nom plus ancien.",
-    "t": 81.73
+    "t": 81.79
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, en 2025, il a célébré soixante ans de soutien aux jeunes.",
-    "t": 86.17
+    "t": 86.23
    },
    {
     "speaker": "Tom",
     "text": "Soixante ans. Ce sont des générations de jeunes qui ont été aidés.",
-    "t": 89.93
+    "t": 89.99
    },
    {
     "speaker": "Anna",
     "text": "Voyons ce que le CePAS propose concrètement.",
-    "t": 93.76
+    "t": 93.82
    },
    {
     "speaker": "Anna",
     "text": "Il y a plusieurs volets différents.",
-    "t": 96.04
+    "t": 96.1
    },
    {
     "speaker": "Tom",
     "text": "Le premier, et celui vers lequel les familles se tournent le plus souvent, est son centre de consultation pour les jeunes et les familles.",
-    "t": 97.91
+    "t": 97.97
    },
    {
     "speaker": "Anna",
     "text": "Ce centre s'adresse aux adolescents et aux jeunes adultes, environ de douze à trente ans, ainsi qu'à leurs parents et à leurs familles.",
-    "t": 105.02
+    "t": 105.08
    },
    {
     "speaker": "Tom",
     "text": "Et quel type d'aide offre-t-il ?",
-    "t": 111.63
+    "t": 111.69
    },
    {
     "speaker": "Anna",
     "text": "Un soutien psychologique et thérapeutique, pour des problèmes scolaires, des problèmes personnels ou des problèmes relationnels.",
-    "t": 113.72
+    "t": 113.78
    },
    {
     "speaker": "Tom",
     "text": "Donc si un jeune est anxieux, déprimé, en difficulté avec ses amis, ou submergé par l'école, il peut trouver un professionnel à qui parler.",
-    "t": 119.56
+    "t": 119.62
    },
    {
     "speaker": "Anna",
     "text": "Il offre aussi d'autres formes de soutien, comme la thérapie psychomotrice, le soutien social et des activités de groupe.",
-    "t": 127.45
+    "t": 127.51
    },
    {
     "speaker": "Tom",
     "text": "Ces consultations se font sur rendez-vous.",
-    "t": 133.51
+    "t": 133.57
    },
    {
     "speaker": "Tom",
     "text": "Et voici un changement récent et bienvenu.",
-    "t": 135.89
+    "t": 135.95
    },
    {
     "speaker": "Anna",
     "text": "Oui. Depuis début 2026, vous pouvez désormais avoir ces consultations en anglais également, et pas seulement dans les autres langues du pays.",
-    "t": 138.61
+    "t": 138.67
    },
    {
     "speaker": "Tom",
     "text": "Cela ouvre la porte à beaucoup plus de familles au sein de la communauté internationale du Luxembourg.",
-    "t": 145.11
+    "t": 145.17
    },
    {
     "speaker": "Anna",
     "text": "Il existe maintenant un deuxième volet du soutien, et il se trouve directement au sein des écoles.",
-    "t": 150.13
+    "t": 150.19
    },
    {
     "speaker": "Tom",
     "text": "Il s'agit du service psycho-social scolaire, présent dans chaque lycée.",
-    "t": 154.76
+    "t": 154.82
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, dans chaque lycée, il y a des professionnels à qui un jeune peut parler.",
-    "t": 159.13
+    "t": 159.19
    },
    {
     "speaker": "Tom",
     "text": "Et un détail important... là, il n'est souvent pas nécessaire de prendre rendez-vous.",
-    "t": 162.85
+    "t": 162.91
    },
    {
     "speaker": "Anna",
     "text": "Un jeune peut être reçu rapidement, parfois le jour même.",
-    "t": 167.54
+    "t": 167.6
    },
    {
     "speaker": "Anna",
     "text": "Cette rapidité compte vraiment en cas de crise.",
-    "t": 170.63
+    "t": 170.69
    },
    {
     "speaker": "Tom",
     "text": "Imaginez donc deux niveaux.",
-    "t": 173.12
+    "t": 173.18
    },
    {
     "speaker": "Tom",
     "text": "Une aide rapide au sein de l'école, et un soutien plus approfondi au centre de consultation.",
-    "t": 174.78
+    "t": 174.84
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Et les deux sont là pour aider un jeune avant qu'une petite inquiétude ne devienne grande.",
-    "t": 180.29
+    "t": 180.35
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi un troisième volet, qui travaille en coulisses.",
-    "t": 185.46
+    "t": 185.52
    },
    {
     "speaker": "Anna",
     "text": "Oui, un centre de ressources.",
-    "t": 188.59
+    "t": 188.65
    },
    {
     "speaker": "Anna",
     "text": "Il soutient le personnel qui travaille dans les services psycho-sociaux des écoles.",
-    "t": 190.17
+    "t": 190.23
    },
    {
     "speaker": "Tom",
     "text": "Il les aide à développer leurs compétences et leur pratique professionnelle.",
-    "t": 194.06
+    "t": 194.12
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, le CePAS n'aide pas seulement les jeunes directement.",
-    "t": 198.03
+    "t": 198.09
    },
    {
     "speaker": "Anna",
     "text": "Il renforce aussi tout le réseau de personnes qui les soutiennent.",
-    "t": 200.65
+    "t": 200.71
    },
    {
     "speaker": "Tom",
     "text": "Disons un mot sur le coût et la confiance, car les familles s'inquiètent des deux.",
-    "t": 203.67
+    "t": 203.73
    },
    {
     "speaker": "Anna",
     "text": "Le soutien est là pour aider, pas pour juger.",
-    "t": 207.85
+    "t": 207.91
    },
    {
     "speaker": "Anna",
     "text": "C'est un espace sûr, professionnel et bienveillant.",
-    "t": 210.23
+    "t": 210.29
    },
    {
     "speaker": "Tom",
     "text": "Et un jeune peut s'exprimer ouvertement, en sachant qu'il est écouté avec respect.",
-    "t": 213.05
+    "t": 213.11
    },
    {
     "speaker": "Anna",
     "text": "Le CePAS gère aussi une aide financière pour les élèves de familles à faible revenu... une subvention annuelle pour le matériel et les activités scolaires, que l'on demande via le service psycho-social de l'école.",
-    "t": 217.71
+    "t": 217.77
    },
    {
     "speaker": "Anna",
     "text": "Le gouvernement prévoit de l'intégrer dans une nouvelle aide unique contre la vie chère à partir de 2027, alors renseignez-vous à l'école.",
-    "t": 228.25
+    "t": 228.31
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, cela rejoint une autre organisation dont nous avons parlé.",
-    "t": 234.87
+    "t": 234.93
    },
    {
     "speaker": "Anna",
     "text": "En effet. Le CePAS est aussi l'un des partenaires auxquels l'Office National de l'Enfance peut faire appel pour un soutien psychologique.",
-    "t": 239.15
+    "t": 239.21
    },
    {
     "speaker": "Tom",
     "text": "Donc ces services ne sont pas des îlots séparés.",
-    "t": 245.5
+    "t": 245.56
    },
    {
     "speaker": "Tom",
     "text": "Ils travaillent ensemble autour du jeune.",
-    "t": 248.2
+    "t": 248.26
    },
    {
     "speaker": "Anna",
     "text": "C'est toute la beauté de la chose.",
-    "t": 250.76
+    "t": 250.82
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup de mains, un seul objectif... un jeune qui se sent soutenu.",
-    "t": 252.52
+    "t": 252.58
    },
    {
     "speaker": "Tom",
     "text": "Disons un mot doux et sincère sur le fait de demander de l'aide.",
-    "t": 256.12
+    "t": 256.18
    },
    {
     "speaker": "Anna",
     "text": "Si vous êtes un jeune à l'écoute, et que les choses vous pèsent, sachez que demander de l'aide est courageux, et non un signe de faiblesse.",
-    "t": 259.41
+    "t": 259.47
    },
    {
     "speaker": "Tom",
     "text": "Et si vous êtes un parent qui remarque que son enfant est en difficulté, vous n'avez pas échoué.",
-    "t": 265.96
+    "t": 266.02
    },
    {
     "speaker": "Tom",
     "text": "Le soutien existe, et il fonctionne.",
-    "t": 271.02
+    "t": 271.08
    },
    {
     "speaker": "Anna",
     "text": "Parler à quelqu'un tôt peut changer le cours de toute une année scolaire, et parfois bien plus.",
-    "t": 273.67
+    "t": 273.73
    },
    {
     "speaker": "Tom",
-    "text": "Alors Tom... rendons cela concret.",
-    "t": 278.2
+    "text": "Alors Anna, rendons cela concret.",
+    "t": 278.26
    },
    {
     "speaker": "Tom",
     "text": "Comment fait-on concrètement appel au CePAS ?",
-    "t": 280.73
+    "t": 280.55
    },
    {
     "speaker": "Anna",
     "text": "D'abord... si votre enfant a besoin d'un soutien rapide, le service psycho-social scolaire est juste là, souvent sans rendez-vous.",
-    "t": 283.42
+    "t": 283.22
    },
    {
     "speaker": "Tom",
     "text": "Ensuite... pour un soutien plus approfondi ou plus long, le centre de consultation accueille les jeunes de douze à trente ans, et leurs familles, sur rendez-vous.",
-    "t": 289.54
+    "t": 289.34
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... rappelez-vous que depuis 2026, les consultations sont aussi disponibles en anglais.",
-    "t": 297.72
+    "t": 297.52
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... ces services sont en lien avec d'autres, comme l'ONE, afin que l'aide puisse être coordonnée.",
-    "t": 303.01
+    "t": 302.81
    },
    {
     "speaker": "Anna",
     "text": "Rassemblons tout cela.",
-    "t": 309.81
+    "t": 309.61
    },
    {
     "speaker": "Anna",
     "text": "Que faut-il retenir du CePAS ?",
-    "t": 311.1
+    "t": 310.9
    },
    {
     "speaker": "Tom",
     "text": "Premièrement... c'est un centre de soutien psycho-social et scolaire, qui aide au bien-être des jeunes à l'école depuis plus de soixante ans.",
-    "t": 313.04
+    "t": 312.84
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... il offre un soutien psychologique et thérapeutique pour des problèmes scolaires, personnels et relationnels.",
-    "t": 320.43
+    "t": 320.23
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... il y a une aide rapide dans chaque lycée, et un soutien plus approfondi à son centre de consultation.",
-    "t": 326.52
+    "t": 326.32
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... il travaille main dans la main avec les parents, les écoles et d'autres services.",
-    "t": 332.9
+    "t": 332.7
    },
    {
     "speaker": "Tom",
     "text": "Les jeunes portent plus de choses que nous ne le voyons parfois.",
-    "t": 338.1
+    "t": 337.9
    },
    {
     "speaker": "Tom",
     "text": "Une oreille attentive au bon moment peut tout changer.",
-    "t": 341.47
+    "t": 341.27
    },
    {
     "speaker": "Anna",
     "text": "Et au Luxembourg, cette oreille attentive a un nom... CePAS.",
-    "t": 344.88
+    "t": 344.68
    },
    {
     "speaker": "Tom",
     "text": "Et souvenez-vous... si vous, ou un jeune que vous connaissez, traversez une période difficile, demander de l'aide est toujours une bonne chose.",
-    "t": 348.57
+    "t": 348.37
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le CePAS.",
-    "t": 356.22
+    "t": 356.02
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 358.21
+    "t": 358.01
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 365.92
+    "t": 365.72
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 382.37
+    "t": 382.17
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 387.02
+    "t": 386.82
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 388.8
+    "t": 388.6
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 393.18
+    "t": 392.98
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 394.41
+    "t": 394.21
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 396.87
+    "t": 396.67
    }
   ],
   "audio_de": "../../podcast_cepas_de.mp3",
-  "duration_de": 479.4,
+  "duration_de": 478.48,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -1153,442 +1153,442 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
     "text": "Und heute sprechen wir über etwas, das vielen Familien sehr am Herzen liegt... das Wohlergehen junger Menschen, besonders in der Schule.",
-    "t": 27.86
+    "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Die Schuljahre können wunderbar sein.",
-    "t": 35.65
+    "t": 35.67
    },
    {
     "speaker": "Anna",
     "text": "Aber sie können auch stressig, verwirrend und manchmal schmerzhaft sein.",
-    "t": 37.88
+    "t": 37.9
    },
    {
     "speaker": "Tom",
     "text": "Sorgen wegen der Noten, wegen Freundschaften, wegen der Zukunft, wegen dem, was zu Hause passiert.",
-    "t": 42.07
+    "t": 42.09
    },
    {
     "speaker": "Anna",
     "text": "Und genau hier kommt die Organisation ins Spiel, über die wir heute sprechen.",
-    "t": 48.25
+    "t": 48.27
    },
    {
     "speaker": "Anna",
     "text": "Sie heißt CePAS.",
-    "t": 52.55
+    "t": 52.57
    },
    {
     "speaker": "Tom",
     "text": "CePAS. Der vollständige Name ist das Centre psycho-social et d'accompagnement scolaires.",
-    "t": 54.08
+    "t": 54.1
    },
    {
     "speaker": "Anna",
     "text": "Einfach gesagt... es ist ein psycho-soziales und schulisches Unterstützungszentrum für junge Menschen.",
-    "t": 60.19
+    "t": 60.21
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was ist die Grundidee hinter CePAS?",
-    "t": 66.21
+    "t": 66.23
    },
    {
     "speaker": "Anna",
     "text": "Sein Ziel ist es, die persönliche, zwischenmenschliche und schulische Entwicklung und das Wohlergehen junger Menschen in der Schule zu unterstützen.",
-    "t": 68.92
+    "t": 68.94
    },
    {
     "speaker": "Tom",
     "text": "Also nicht nur ihre Noten, sondern den ganzen jungen Menschen... seine Gefühle, seine Beziehungen, sein Selbstvertrauen.",
-    "t": 77.28
+    "t": 77.3
    },
    {
     "speaker": "Anna",
     "text": "Und es tut dies gemeinsam mit allen Menschen rund um den jungen Menschen... Eltern, Lehrkräften und Schulpersonal.",
-    "t": 84.38
+    "t": 84.4
    },
    {
     "speaker": "Tom",
     "text": "Mir gefällt auch, dass es eine lange Geschichte hat.",
-    "t": 91.52
+    "t": 91.54
    },
    {
     "speaker": "Anna",
     "text": "Das stimmt. CePAS entstand bereits 1965, unter einem früheren Namen.",
-    "t": 94.24
+    "t": 94.26
    },
    {
     "speaker": "Anna",
     "text": "So feierte es 2025 sechzig Jahre der Unterstützung junger Menschen.",
-    "t": 99.99
+    "t": 100.01
    },
    {
     "speaker": "Tom",
     "text": "Sechzig Jahre. Das sind Generationen von jungen Menschen, denen geholfen wurde.",
-    "t": 104.87
+    "t": 104.89
    },
    {
     "speaker": "Anna",
     "text": "Schauen wir uns an, was CePAS tatsächlich anbietet.",
-    "t": 109.7
+    "t": 109.72
    },
    {
     "speaker": "Anna",
     "text": "Es gibt mehrere verschiedene Bereiche.",
-    "t": 112.76
+    "t": 112.78
    },
    {
     "speaker": "Tom",
     "text": "Der erste, und derjenige, an den sich Familien am häufigsten wenden, ist sein Beratungszentrum für junge Menschen und Familien.",
-    "t": 115.13
+    "t": 115.15
    },
    {
     "speaker": "Anna",
     "text": "Dieses Zentrum ist für Jugendliche und junge Erwachsene, etwa von zwölf bis dreißig Jahren, sowie für ihre Eltern und Familien.",
-    "t": 122.96
+    "t": 122.98
    },
    {
     "speaker": "Tom",
     "text": "Und welche Art von Hilfe bietet es?",
-    "t": 130.22
+    "t": 130.24
    },
    {
     "speaker": "Anna",
     "text": "Psychologische und therapeutische Unterstützung bei schulischen Problemen, persönlichen Problemen oder Beziehungsproblemen.",
-    "t": 132.52
+    "t": 132.54
    },
    {
     "speaker": "Tom",
     "text": "Wenn ein junger Mensch also ängstlich ist, niedergeschlagen, Schwierigkeiten mit Freunden hat oder von der Schule überfordert ist, kann er einen Fachmann finden, mit dem er sprechen kann.",
-    "t": 139.42
+    "t": 139.44
    },
    {
     "speaker": "Anna",
     "text": "Es bietet auch andere Formen der Unterstützung an, wie psychomotorische Therapie, soziale Unterstützung und Gruppenaktivitäten.",
-    "t": 150.52
+    "t": 150.54
    },
    {
     "speaker": "Tom",
     "text": "Diese Beratungen finden nach Terminvereinbarung statt.",
-    "t": 157.88
+    "t": 157.9
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist eine kürzliche, willkommene Änderung.",
-    "t": 161.08
+    "t": 161.1
    },
    {
     "speaker": "Anna",
     "text": "Ja. Seit Anfang 2026 können Sie diese Beratungen nun auch auf Englisch haben, nicht nur in den anderen Sprachen des Landes.",
-    "t": 164.18
+    "t": 164.2
    },
    {
     "speaker": "Tom",
     "text": "Das öffnet die Tür für viele weitere Familien innerhalb der internationalen Gemeinschaft Luxemburgs.",
-    "t": 172.61
+    "t": 172.63
    },
    {
     "speaker": "Anna",
     "text": "Nun gibt es einen zweiten Bereich der Unterstützung, und der befindet sich direkt in den Schulen.",
-    "t": 178.73
+    "t": 178.75
    },
    {
     "speaker": "Tom",
     "text": "Das ist der schulische psycho-soziale Dienst, der in jedem Lycée (Sekundarschule) vorhanden ist.",
-    "t": 183.84
+    "t": 183.86
    },
    {
     "speaker": "Anna",
     "text": "So gibt es in jedem Lycée (Sekundarschule) Fachleute, mit denen ein junger Mensch sprechen kann.",
-    "t": 190.21
+    "t": 190.23
    },
    {
     "speaker": "Tom",
     "text": "Und ein wichtiges Detail... dort braucht man oft keinen Termin.",
-    "t": 195.84
+    "t": 195.86
    },
    {
     "speaker": "Anna",
     "text": "Ein junger Mensch kann schnell empfangen werden, manchmal noch am selben Tag.",
-    "t": 199.75
+    "t": 199.77
    },
    {
     "speaker": "Anna",
     "text": "Diese Schnelligkeit ist in einer Krise wirklich wichtig.",
-    "t": 203.96
+    "t": 203.98
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie sich also zwei Ebenen vor.",
-    "t": 207.29
+    "t": 207.31
    },
    {
     "speaker": "Tom",
     "text": "Schnelle Hilfe innerhalb der Schule, und tiefergehende Unterstützung im Beratungszentrum.",
-    "t": 209.81
+    "t": 209.83
    },
    {
     "speaker": "Anna",
     "text": "Genau. Und beide sind da, um einen jungen Menschen aufzufangen, bevor aus einer kleinen Sorge eine große wird.",
-    "t": 215.27
+    "t": 215.29
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch einen dritten Bereich, der hinter den Kulissen arbeitet.",
-    "t": 222.1
+    "t": 222.12
    },
    {
     "speaker": "Anna",
     "text": "Ja, ein Ressourcenzentrum.",
-    "t": 225.67
+    "t": 225.69
    },
    {
     "speaker": "Anna",
     "text": "Es unterstützt das Personal, das in den psycho-sozialen Diensten der Schulen arbeitet.",
-    "t": 227.62
+    "t": 227.64
    },
    {
     "speaker": "Tom",
     "text": "Es hilft ihnen, ihre Kompetenzen und ihre berufliche Praxis weiterzuentwickeln.",
-    "t": 232.43
+    "t": 232.45
    },
    {
     "speaker": "Anna",
     "text": "CePAS hilft also nicht nur jungen Menschen direkt.",
-    "t": 237.5
+    "t": 237.52
    },
    {
     "speaker": "Anna",
     "text": "Es stärkt auch das ganze Netzwerk von Menschen, die sie unterstützen.",
-    "t": 240.35
+    "t": 240.37
    },
    {
     "speaker": "Tom",
     "text": "Sagen wir etwas über Kosten und Vertrauen, denn Familien sorgen sich um beides.",
-    "t": 244.21
+    "t": 244.23
    },
    {
     "speaker": "Anna",
     "text": "Die Unterstützung ist da, um zu helfen, nicht um zu urteilen.",
-    "t": 248.85
+    "t": 248.87
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein sicherer, professioneller und fürsorglicher Ort.",
-    "t": 252.62
+    "t": 252.64
    },
    {
     "speaker": "Tom",
     "text": "Und ein junger Mensch kann offen sprechen, in dem Wissen, dass ihm mit Respekt zugehört wird.",
-    "t": 256.27
+    "t": 256.29
    },
    {
     "speaker": "Anna",
     "text": "CePAS kümmert sich auch um eine finanzielle Hilfe für Schüler aus Familien mit geringem Einkommen... einen jährlichen Zuschuss für Schulmaterial und Aktivitäten, den man über den psycho-sozialen Dienst der Schule beantragt.",
-    "t": 261.39
+    "t": 261.41
    },
    {
     "speaker": "Anna",
     "text": "Die Regierung plant, ihn ab 2027 in eine neue, einzige Teuerungshilfe einzugliedern, fragen Sie also an der Schule nach, was gilt.",
-    "t": 274.6
+    "t": 274.62
    },
    {
     "speaker": "Tom",
     "text": "Nun Anna, das hängt mit einer anderen Organisation zusammen, über die wir gesprochen haben.",
-    "t": 283.56
+    "t": 283.58
    },
    {
     "speaker": "Anna",
     "text": "Das stimmt. CePAS ist auch einer der Partner, auf die das Office National de l'Enfance für psychologische Unterstützung zurückgreifen kann.",
-    "t": 288.48
+    "t": 288.5
    },
    {
     "speaker": "Tom",
     "text": "Diese Dienste sind also keine getrennten Inseln.",
-    "t": 297.03
+    "t": 297.05
    },
    {
     "speaker": "Tom",
     "text": "Sie arbeiten gemeinsam rund um den jungen Menschen.",
-    "t": 299.77
+    "t": 299.79
    },
    {
     "speaker": "Anna",
     "text": "Das ist das Schöne daran.",
-    "t": 302.71
+    "t": 302.73
    },
    {
     "speaker": "Anna",
     "text": "Viele Hände, ein Ziel... ein junger Mensch, der sich unterstützt fühlt.",
-    "t": 304.22
+    "t": 304.24
    },
    {
     "speaker": "Tom",
     "text": "Sagen wir ein sanftes, ehrliches Wort über das Sich-Melden.",
-    "t": 309.21
+    "t": 309.23
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie ein junger Mensch sind, der zuhört, und die Dinge sich schwer anfühlen, dann wissen Sie bitte, dass um Hilfe zu bitten mutig ist, nicht schwach.",
-    "t": 312.71
+    "t": 312.73
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie ein Elternteil sind und bemerken, dass Ihr Kind Schwierigkeiten hat, dann haben Sie nicht versagt.",
-    "t": 321.37
+    "t": 321.39
    },
    {
     "speaker": "Tom",
     "text": "Unterstützung gibt es, und sie wirkt.",
-    "t": 327.33
+    "t": 327.35
    },
    {
     "speaker": "Anna",
     "text": "Frühzeitig mit jemandem zu sprechen kann den Verlauf eines ganzen Schuljahres verändern, und manchmal noch viel mehr.",
-    "t": 329.75
+    "t": 329.77
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom... machen wir es praktisch.",
-    "t": 335.9
+    "text": "Also Anna, machen wir es praktisch.",
+    "t": 335.92
    },
    {
     "speaker": "Tom",
     "text": "Wie nutzt man CePAS eigentlich?",
-    "t": 338.66
+    "t": 337.71
    },
    {
     "speaker": "Anna",
     "text": "Erstens... wenn Ihr Kind schnelle Unterstützung braucht, ist der schulische psycho-soziale Dienst direkt vor Ort, oft ohne Termin.",
-    "t": 340.68
+    "t": 339.75
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... für tiefergehende oder längere Unterstützung empfängt das Beratungszentrum junge Menschen von zwölf bis dreißig Jahren, und ihre Familien, nach Terminvereinbarung.",
-    "t": 348.96
+    "t": 348.03
    },
    {
     "speaker": "Anna",
     "text": "Drittens... denken Sie daran, dass seit 2026 die Beratungen auch auf Englisch verfügbar sind.",
-    "t": 360.51
+    "t": 359.58
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... diese Dienste sind mit anderen verbunden, wie dem ONE, damit die Hilfe koordiniert werden kann.",
-    "t": 367.26
+    "t": 366.33
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir alles zusammen.",
-    "t": 374.78
+    "t": 373.85
    },
    {
     "speaker": "Anna",
     "text": "Was sollte man sich über CePAS merken?",
-    "t": 376.52
+    "t": 375.59
    },
    {
     "speaker": "Tom",
     "text": "Erstens... es ist ein psycho-soziales und schulisches Unterstützungszentrum, das seit mehr als sechzig Jahren dem Wohlergehen junger Menschen in der Schule dient.",
-    "t": 378.9
+    "t": 377.97
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... es bietet psychologische und therapeutische Unterstützung bei schulischen, persönlichen und Beziehungsproblemen.",
-    "t": 389.74
+    "t": 388.81
    },
    {
     "speaker": "Tom",
     "text": "Drittens... es gibt schnelle Hilfe in jedem Lycée (Sekundarschule), und tiefergehende Unterstützung in seinem Beratungszentrum.",
-    "t": 397.47
+    "t": 396.54
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... es arbeitet Hand in Hand mit Eltern, Schulen und anderen Diensten.",
-    "t": 406.19
+    "t": 405.26
    },
    {
     "speaker": "Tom",
     "text": "Junge Menschen tragen mehr, als wir manchmal sehen.",
-    "t": 411.53
+    "t": 410.6
    },
    {
     "speaker": "Tom",
     "text": "Ein offenes Ohr im richtigen Moment kann alles bedeuten.",
-    "t": 414.31
+    "t": 413.38
    },
    {
     "speaker": "Anna",
     "text": "Und in Luxemburg hat dieses offene Ohr einen Namen... CePAS.",
-    "t": 417.74
+    "t": 416.81
    },
    {
     "speaker": "Tom",
     "text": "Und denken Sie daran... wenn Sie oder ein junger Mensch, den Sie kennen, Schwierigkeiten haben, ist es immer in Ordnung, sich Hilfe zu holen.",
-    "t": 422.24
+    "t": 421.31
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das CePAS.",
-    "t": 431.06
+    "t": 430.13
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 433.51
+    "t": 432.58
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 442.34
+    "t": 441.41
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 460.67
+    "t": 459.74
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 466.37
+    "t": 465.44
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 468.62
+    "t": 467.69
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 473.51
+    "t": 472.58
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 474.66
+    "t": 473.73
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 477.87
+    "t": 476.94
    }
   ],
   "segments_lb": [
@@ -1839,83 +1839,83 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom... maache mir et praktesch. Wéi notzt een de CePAS eigentlech?",
+    "text": "Also Anna, maache mir et praktesch. Wéi notzt een de CePAS eigentlech?",
     "t": 296.61
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... wann Äert Kand séier Ënnerstëtzung brauch, ass de schoulesche psycho-sozialen Déngscht direkt do, dacks ouni Rendez-vous.",
-    "t": 301.85
+    "t": 301.58
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... fir méi déif oder méi laang Ënnerstëtzung empfänkt de Beroodungszentrum jonk Leit vun zwielef bis drësseg Joer, an hir Familljen, no Rendez-vous.",
-    "t": 309.55
+    "t": 309.28
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... denkt drun, datt zanter 2026 d'Beroodungen och op Englesch disponibel sinn.",
-    "t": 318.31
+    "t": 318.04
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... dës Déngschter sinn mat anere verbonnen, wéi dem ONE, esou datt d'Hëllef kann ofgestëmmt ginn.",
-    "t": 324
+    "t": 323.73
    },
    {
     "speaker": "Anna",
     "text": "Loosse mir alles zesummebréngen. Wat sollt een sech iwwer de CePAS mierken?",
-    "t": 329.87
+    "t": 329.6
    },
    {
     "speaker": "Tom",
     "text": "Éischtens... et ass e psycho-sozialt a schoulescht Ënnerstëtzungszentrum, dat zanter méi wéi sechzeg Joer dem Wuelbefanne vu jonke Leit an der Schoul déngt.",
-    "t": 334.43
+    "t": 334.16
    },
    {
     "speaker": "Anna",
     "text": "Zweetens... et bitt psychologesch an therapeutesch Ënnerstëtzung fir schoulesch, perséinlech a Bezéiungsproblemer.",
-    "t": 342.26
+    "t": 341.99
    },
    {
     "speaker": "Tom",
     "text": "Drëttens... et gëtt séier Hëllef an all Lycée, an déifer Ënnerstëtzung a sengem Beroodungszentrum.",
-    "t": 349.2
+    "t": 348.93
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... et schafft Hand an Hand mat den Elteren, de Schoulen an aneren Déngschter.",
-    "t": 355.57
+    "t": 355.3
    },
    {
     "speaker": "Tom",
     "text": "Jonk Leit droe méi, wéi mir heiansdo gesinn. En oppent Ouer am richtege Moment kann alles bedeiten.",
-    "t": 360.47
+    "t": 360.2
    },
    {
     "speaker": "Anna",
     "text": "An zu Lëtzebuerg huet dëst oppent Ouer en Numm... CePAS.",
-    "t": 366.49
+    "t": 366.22
    },
    {
     "speaker": "Tom",
     "text": "An denkt drun... wann Dir oder e jonke Mënsch, deen Dir kennt, Schwieregkeeten hutt, ass et ëmmer an der Rei, sech Hëllef ze sichen.",
-    "t": 370.71
+    "t": 370.44
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer de CePAS. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 376.25
+    "t": 375.98
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 419.15
+    "t": 418.88
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 422.36
+    "t": 422.09
    }
   ]
  }

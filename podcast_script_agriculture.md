@@ -55,7 +55,7 @@
 **ANNA:** Second, because farmers shape the landscape... the fields, hedges and meadows we all enjoy.
 **TOM:** Third, because animal welfare reflects the kind of society we want to be.
 **ANNA:** And fourth, because supporting local food keeps the countryside alive, and the community strong.
-**TOM:** So Tom, let's make it practical. What can someone do with all this?
+**TOM:** So Anna, let's make it practical. What can someone do with all this?
 **ANNA:** First, when you shop, look for local and seasonal products, and try organic ones.
 **TOM:** Second, if you keep animals, check the portal's guidance to care for them well and within the law.
 **ANNA:** Third, in summer, visit the Moselle, take a vineyard walk, and taste a local wine or Crémant.

@@ -69,7 +69,7 @@
 **ANNA:** Like having working smoke detectors, knowing your exits, and being careful with candles and cooking.
 **TOM:** And if you organise a big public event, you may need to declare it, so the rescue services can plan medical cover.
 **ANNA:** So the rescue corps is there before, during, and after an emergency. Preventing, responding, and caring.
-**TOM:** So Tom... let's make this really practical. What should everyone take away?
+**TOM:** So Anna, let's make this really practical. What should everyone take away?
 **ANNA:** First, and most important... in any emergency in Luxembourg, call 1-1-2.
 **TOM:** Second, teach it to your children, and to anyone new to the country. One-one-two.
 **ANNA:** Third, when you call, give your location clearly, say what happened, and stay on the line.

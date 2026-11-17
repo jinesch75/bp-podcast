@@ -53,7 +53,7 @@
 **ANNA:** Because this is your money too, as a European, being invested back into your community.
 **TOM:** And because transparency matters. You can see where it goes, and what it achieves.
 **ANNA:** It is a quiet but real example of European solidarity, landing in real projects, in real towns.
-**TOM:** So Tom... let's make it practical. What can someone do with this?
+**TOM:** So Anna, let's make it practical. What can someone do with this?
 **ANNA:** First... if you run an organisation or project, check the European Funds website to see if your idea fits.
 **TOM:** Second... look at the funded projects, to understand what kinds of ideas get support.
 **ANNA:** Third... remember the main funds... the regional development fund for the economy, and the social fund for people and jobs.

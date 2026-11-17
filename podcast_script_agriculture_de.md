@@ -55,7 +55,7 @@
 **ANNA:** Zweitens, weil die Landwirte die Landschaft prägen... die Felder, Hecken und Wiesen, an denen wir uns alle erfreuen.
 **TOM:** Drittens, weil das Tierwohl die Art von Gesellschaft widerspiegelt, die wir sein wollen.
 **ANNA:** Und viertens, weil die Unterstützung lokaler Lebensmittel das Land lebendig hält, und die Gemeinschaft stark.
-**TOM:** Also Tom, machen wir es praktisch. Was kann jemand mit all dem anfangen?
+**TOM:** Also Anna, machen wir es praktisch. Was kann jemand mit all dem anfangen?
 **ANNA:** Erstens, wenn Sie einkaufen, achten Sie auf lokale und saisonale Produkte, und probieren Sie Bio-Produkte.
 **TOM:** Zweitens, wenn Sie Tiere halten, schauen Sie sich die Hinweise des Portals an, um sich gut und im Rahmen des Gesetzes um sie zu kümmern.
 **ANNA:** Drittens, besuchen Sie im Sommer die Mosel, machen Sie eine Weinbergwanderung, und probieren Sie einen lokalen Wein oder Crémant.

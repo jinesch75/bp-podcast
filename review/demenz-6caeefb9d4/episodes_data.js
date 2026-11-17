@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "Info-Zenter Demenz – Help and Hope Around Dementia",
   "description": "What the Info-Zenter Demenz is — Luxembourg's free national information and advice centre on memory problems and dementia — who it helps, how it explains dementia and diagnosis, the support it offers people affected and their relatives, and how a healthy lifestyle can lower the risk.",
   "audio": "../../podcast_demenz.mp3",
-  "duration": 329.17,
+  "duration": 329.2,
   "topics": [
    "What the centre is",
    "Free national information & advice",
@@ -80,298 +80,298 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "So Anna, what is the Info-Zenter Demenz?",
+    "text": "So Tom, what is the Info-Zenter Demenz?",
     "t": 56.35
    },
    {
     "speaker": "Tom",
     "text": "It is the national centre for information and advice on memory problems and dementia.",
-    "t": 59.02
+    "t": 59.04
    },
    {
     "speaker": "Anna",
     "text": "It's there for everyone touched by this... the person affected, their relatives, health professionals, and anyone with questions.",
-    "t": 63.35
+    "t": 63.37
    },
    {
     "speaker": "Tom",
     "text": "And here is something really important.",
-    "t": 71.56
+    "t": 71.58
    },
    {
     "speaker": "Tom",
     "text": "All of its advice and its materials are free.",
-    "t": 73.75
+    "t": 73.77
    },
    {
     "speaker": "Anna",
     "text": "So cost is never a barrier to getting good information and support.",
-    "t": 76.44
+    "t": 76.46
    },
    {
     "speaker": "Tom",
     "text": "Let's gently talk about what dementia actually is, because understanding helps.",
-    "t": 80.7
+    "t": 80.72
    },
    {
     "speaker": "Anna",
     "text": "Dementia is not a normal part of getting old.",
-    "t": 85
+    "t": 85.02
    },
    {
     "speaker": "Anna",
     "text": "It's a condition that affects memory, thinking and daily life.",
-    "t": 88.01
+    "t": 88.03
    },
    {
     "speaker": "Tom",
     "text": "And not every memory slip is dementia.",
-    "t": 91.97
+    "t": 91.99
    },
    {
     "speaker": "Tom",
     "text": "We all forget a name or where we put the keys.",
-    "t": 94.02
+    "t": 94.04
    },
    {
     "speaker": "Anna",
     "text": "That's a key message from the centre.",
-    "t": 96.24
+    "t": 96.26
    },
    {
     "speaker": "Anna",
     "text": "There's a difference between ordinary memory lapses and dementia.",
-    "t": 98.39
+    "t": 98.41
    },
    {
     "speaker": "Tom",
     "text": "So if you're worried, the right step is not to panic, but to seek good information, and a proper assessment.",
-    "t": 102.13
+    "t": 102.15
    },
    {
     "speaker": "Anna",
     "text": "The centre can explain how a diagnosis works, and what the next steps can be.",
-    "t": 108.96
+    "t": 108.98
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about the support for the person who is affected.",
-    "t": 114.01
+    "t": 114.03
    },
    {
     "speaker": "Anna",
     "text": "The centre offers guidance on living well... staying calm, talking openly, and adapting daily life.",
-    "t": 117.19
+    "t": 117.21
    },
    {
     "speaker": "Tom",
     "text": "It covers practical questions too, like work, driving, and planning for the future.",
-    "t": 124.42
+    "t": 124.44
    },
    {
     "speaker": "Anna",
     "text": "Because a diagnosis is not the end of a meaningful life.",
-    "t": 129.1
+    "t": 129.12
    },
    {
     "speaker": "Anna",
     "text": "With support, people can live well for a long time.",
-    "t": 132.69
+    "t": 132.71
    },
    {
     "speaker": "Tom",
     "text": "And there's just as much care for the relatives, the people who help and accompany.",
-    "t": 136.27
+    "t": 136.29
    },
    {
     "speaker": "Anna",
     "text": "Caring for someone with dementia is a profound act of love, but it can be exhausting.",
-    "t": 140.59
+    "t": 140.61
    },
    {
     "speaker": "Tom",
     "text": "The centre helps relatives look after their own health too, and not to carry everything alone.",
-    "t": 145.71
+    "t": 145.73
    },
    {
     "speaker": "Anna",
     "text": "It can point you to more than a hundred services, support groups, and partners across the country.",
-    "t": 150.99
+    "t": 151.01
    },
    {
     "speaker": "Tom",
     "text": "There's even a focus on prevention, which gives real hope.",
-    "t": 157.14
+    "t": 157.16
    },
    {
     "speaker": "Anna",
     "text": "Yes. Living healthily... staying active, eating well, keeping the mind and social life busy... can reduce the risk.",
-    "t": 160.5
+    "t": 160.52
    },
    {
     "speaker": "Tom",
     "text": "It's not a guarantee, but the things that are good for the heart are also good for the brain.",
-    "t": 168.47
+    "t": 168.49
    },
    {
     "speaker": "Anna",
     "text": "The centre runs talks, events and awareness campaigns, and there's a national dementia prevention programme too.",
-    "t": 173.6
+    "t": 173.62
    },
    {
     "speaker": "Tom",
     "text": "So there's knowledge, support, and hope, all in one welcoming place.",
-    "t": 180.48
+    "t": 180.5
    },
    {
     "speaker": "Anna",
     "text": "Let's say a gentle word about reaching out, because this is a tender subject.",
-    "t": 185.12
+    "t": 185.14
    },
    {
     "speaker": "Tom",
     "text": "If you're worried about yourself, or someone you love, asking for information is a sign of strength, not weakness.",
-    "t": 189.69
+    "t": 189.71
    },
    {
     "speaker": "Anna",
     "text": "And contacting the centre is simple... by phone, by email, through their website, or in person in Luxembourg City, and sometimes in other towns.",
-    "t": 196.29
+    "t": 196.31
    },
    {
     "speaker": "Tom",
     "text": "They are there to listen, to inform, and to help you find your way.",
-    "t": 206.85
+    "t": 206.87
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 210.78
+    "t": 210.8
    },
    {
     "speaker": "Anna",
     "text": "What can people take from this?",
-    "t": 212.31
+    "t": 212.33
    },
    {
     "speaker": "Tom",
     "text": "First, if you have worries about memory, get good information early, and a proper assessment.",
-    "t": 214.33
+    "t": 214.35
    },
    {
     "speaker": "Anna",
     "text": "Second, if a loved one is affected, remember to care for yourself as well, and ask for support.",
-    "t": 219.66
+    "t": 219.68
    },
    {
     "speaker": "Tom",
     "text": "Third, healthy living helps protect the brain, so it's never too early to take care of yourself.",
-    "t": 225.87
+    "t": 225.89
    },
    {
     "speaker": "Anna",
     "text": "And fourth, remember the centre's help is national, and it's free.",
-    "t": 230.72
+    "t": 230.74
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it together.",
-    "t": 234.74
+    "t": 234.76
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about the Info-Zenter Demenz?",
-    "t": 235.9
+    "t": 235.92
    },
    {
     "speaker": "Anna",
     "text": "First... it's Luxembourg's national centre for information and advice on memory problems and dementia.",
-    "t": 239.02
+    "t": 239.04
    },
    {
     "speaker": "Tom",
     "text": "Second... it supports those affected, their relatives, and professionals, and its services are free.",
-    "t": 245.49
+    "t": 245.51
    },
    {
     "speaker": "Anna",
     "text": "Third... it explains diagnosis, helps people live well, and supports the carers too.",
-    "t": 251.85
+    "t": 251.87
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it promotes prevention, because a healthy life lowers the risk.",
-    "t": 257.91
+    "t": 257.93
    },
    {
     "speaker": "Anna",
     "text": "Dementia can feel like a frightening word.",
-    "t": 263.02
+    "t": 263.04
    },
    {
     "speaker": "Anna",
     "text": "But knowledge, support and kindness change everything.",
-    "t": 265.64
+    "t": 265.66
    },
    {
     "speaker": "Tom",
     "text": "And in Luxembourg, that support has a warm and open door.",
-    "t": 269.15
+    "t": 269.17
    },
    {
     "speaker": "Anna",
     "text": "This was a sensitive topic, so please be gentle with yourself.",
-    "t": 272.13
+    "t": 272.15
    },
    {
     "speaker": "Tom",
     "text": "And if you or someone you love is affected, reaching out for help is always okay.",
-    "t": 275.6
+    "t": 275.62
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Info-Zenter Demenz.",
-    "t": 280.13
+    "t": 280.15
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 283.1
+    "t": 283.12
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 292.44
+    "t": 292.46
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 310.72
+    "t": 310.74
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 317.47
+    "t": 317.49
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 319.67
+    "t": 319.69
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 324.36
+    "t": 324.38
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 325.44
+    "t": 325.47
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 327.56
+    "t": 327.59
    }
   ],
   "questions": [
@@ -574,7 +574,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "../../podcast_demenz_fr.mp3",
-  "duration_fr": 321.62,
+  "duration_fr": 321.59,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -594,341 +594,341 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui touche beaucoup de familles, souvent en silence... les pertes de mémoire, et la démence.",
-    "t": 23.07
+    "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "Comme nous vivons plus longtemps, nous serons de plus en plus nombreux à connaître quelqu'un de concerné... un parent, un grand-parent, un conjoint, un ami.",
-    "t": 29.51
+    "t": 29.57
    },
    {
     "speaker": "Tom",
     "text": "Et cela peut être effrayant et solitaire, à la fois pour la personne et pour ceux qui l'aiment.",
-    "t": 37.25
+    "t": 37.31
    },
    {
     "speaker": "Anna",
     "text": "Mais personne ne doit y faire face seul.",
-    "t": 42.17
+    "t": 42.23
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg dispose d'un centre national dédié précisément à cela.",
-    "t": 44.14
+    "t": 44.2
    },
    {
     "speaker": "Tom",
     "text": "Il s'appelle l'Info-Zenter Demenz... le Centre d'information sur la démence.",
-    "t": 47.72
+    "t": 47.78
    },
    {
     "speaker": "Anna",
-    "text": "Alors Anna, qu'est-ce que l'Info-Zenter Demenz ?",
-    "t": 52.03
+    "text": "Alors Tom, qu'est-ce que l'Info-Zenter Demenz ?",
+    "t": 52.09
    },
    {
     "speaker": "Tom",
     "text": "C'est le centre national d'information et de conseil sur les troubles de la mémoire et la démence.",
-    "t": 54.66
+    "t": 54.62
    },
    {
     "speaker": "Anna",
     "text": "Il est là pour toutes les personnes concernées... la personne touchée, ses proches, les professionnels de santé, et toute personne qui se pose des questions.",
-    "t": 59.78
+    "t": 59.74
    },
    {
     "speaker": "Tom",
     "text": "Et voici quelque chose de vraiment important.",
-    "t": 68.53
+    "t": 68.49
    },
    {
     "speaker": "Tom",
     "text": "Tous ses conseils et tous ses documents sont gratuits.",
-    "t": 70.87
+    "t": 70.83
    },
    {
     "speaker": "Anna",
     "text": "Ainsi, le coût n'est jamais un obstacle pour obtenir une bonne information et un bon soutien.",
-    "t": 74.07
+    "t": 74.03
    },
    {
     "speaker": "Tom",
     "text": "Parlons doucement de ce qu'est réellement la démence, car comprendre, cela aide.",
-    "t": 78.51
+    "t": 78.47
    },
    {
     "speaker": "Anna",
     "text": "La démence ne fait pas partie du vieillissement normal.",
-    "t": 83.54
+    "t": 83.5
    },
    {
     "speaker": "Anna",
     "text": "C'est une maladie qui affecte la mémoire, la pensée et la vie quotidienne.",
-    "t": 86.21
+    "t": 86.17
    },
    {
     "speaker": "Tom",
     "text": "Et tous les oublis ne sont pas une démence.",
-    "t": 89.99
+    "t": 89.95
    },
    {
     "speaker": "Tom",
     "text": "Nous oublions tous un nom ou l'endroit où nous avons posé nos clés.",
-    "t": 92.23
+    "t": 92.19
    },
    {
     "speaker": "Anna",
     "text": "C'est un message clé du centre.",
-    "t": 95.83
+    "t": 95.79
    },
    {
     "speaker": "Anna",
     "text": "Il y a une différence entre de simples trous de mémoire et la démence.",
-    "t": 97.51
+    "t": 97.47
    },
    {
     "speaker": "Tom",
     "text": "Donc, si vous êtes inquiet, la bonne démarche n'est pas de paniquer, mais de chercher une bonne information, et un bilan approprié.",
-    "t": 101.12
+    "t": 101.08
    },
    {
     "speaker": "Anna",
     "text": "Le centre peut expliquer comment se déroule un diagnostic, et quelles peuvent être les étapes suivantes.",
-    "t": 108.19
+    "t": 108.15
    },
    {
     "speaker": "Tom",
     "text": "Parlons du soutien apporté à la personne concernée.",
-    "t": 112.99
+    "t": 112.95
    },
    {
     "speaker": "Anna",
     "text": "Le centre offre des conseils pour bien vivre... rester calme, parler ouvertement, et adapter la vie quotidienne.",
-    "t": 115.8
+    "t": 115.76
    },
    {
     "speaker": "Tom",
     "text": "Il aborde aussi des questions pratiques, comme le travail, la conduite, et la préparation de l'avenir.",
-    "t": 122.05
+    "t": 122.01
    },
    {
     "speaker": "Anna",
     "text": "Car un diagnostic n'est pas la fin d'une vie qui a du sens.",
-    "t": 127.47
+    "t": 127.43
    },
    {
     "speaker": "Anna",
     "text": "Avec du soutien, on peut bien vivre pendant longtemps.",
-    "t": 130.2
+    "t": 130.16
    },
    {
     "speaker": "Tom",
     "text": "Et il y a tout autant d'attention pour les proches, les personnes qui aident et qui accompagnent.",
-    "t": 133.1
+    "t": 133.06
    },
    {
     "speaker": "Anna",
     "text": "S'occuper d'une personne atteinte de démence est un profond acte d'amour, mais cela peut être épuisant.",
-    "t": 138.19
+    "t": 138.15
    },
    {
     "speaker": "Tom",
     "text": "Le centre aide les proches à prendre soin de leur propre santé aussi, et à ne pas tout porter seuls.",
-    "t": 142.81
+    "t": 142.77
    },
    {
     "speaker": "Anna",
     "text": "Il peut vous orienter vers plus d'une centaine de services, des groupes de soutien, et des partenaires partout dans le pays.",
-    "t": 148.73
+    "t": 148.69
    },
    {
     "speaker": "Tom",
     "text": "Il y a même un accent mis sur la prévention, ce qui donne un véritable espoir.",
-    "t": 154.5
+    "t": 154.46
    },
    {
     "speaker": "Anna",
     "text": "Oui. Vivre sainement... rester actif, bien manger, garder l'esprit et la vie sociale occupés... peut réduire le risque.",
-    "t": 158.85
+    "t": 158.81
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas une garantie, mais ce qui est bon pour le cœur est aussi bon pour le cerveau.",
-    "t": 164.73
+    "t": 164.69
    },
    {
     "speaker": "Anna",
     "text": "Le centre organise des conférences, des événements et des campagnes de sensibilisation, et il existe aussi un programme national de prévention de la démence.",
-    "t": 169.68
+    "t": 169.64
    },
    {
     "speaker": "Tom",
     "text": "Il y a donc du savoir, du soutien et de l'espoir, le tout dans un même lieu accueillant.",
-    "t": 177.32
+    "t": 177.28
    },
    {
     "speaker": "Anna",
     "text": "Disons un mot tout en douceur sur le fait de demander de l'aide, car c'est un sujet délicat.",
-    "t": 182.51
+    "t": 182.47
    },
    {
     "speaker": "Tom",
     "text": "Si vous êtes inquiet pour vous-même, ou pour une personne que vous aimez, demander des informations est un signe de force, pas de faiblesse.",
-    "t": 186.79
+    "t": 186.75
    },
    {
     "speaker": "Anna",
     "text": "Et contacter le centre est simple... par téléphone, par e-mail, via leur site internet, ou sur place à Luxembourg-Ville, et parfois dans d'autres villes.",
-    "t": 194.54
+    "t": 194.5
    },
    {
     "speaker": "Tom",
     "text": "Ils sont là pour écouter, pour informer, et pour vous aider à trouver votre chemin.",
-    "t": 202.52
+    "t": 202.48
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 207.19
+    "t": 207.15
    },
    {
     "speaker": "Anna",
     "text": "Que peut-on retenir de tout cela ?",
-    "t": 208.49
+    "t": 208.45
    },
    {
     "speaker": "Tom",
     "text": "Premièrement, si vous avez des inquiétudes concernant la mémoire, cherchez une bonne information tôt, et faites un bilan approprié.",
-    "t": 210.3
+    "t": 210.26
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement, si un proche est concerné, n'oubliez pas de prendre soin de vous aussi, et demandez du soutien.",
-    "t": 217.53
+    "t": 217.49
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, une vie saine aide à protéger le cerveau, donc il n'est jamais trop tôt pour prendre soin de soi.",
-    "t": 222.8
+    "t": 222.76
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement, rappelez-vous que l'aide du centre est nationale, et qu'elle est gratuite.",
-    "t": 228.61
+    "t": 228.57
    },
    {
     "speaker": "Tom",
     "text": "Récapitulons ensemble. Que faut-il retenir de l'Info-Zenter Demenz ?",
-    "t": 232.99
+    "t": 232.95
    },
    {
     "speaker": "Anna",
     "text": "Premièrement... c'est le centre national du Luxembourg pour l'information et le conseil sur les troubles de la mémoire et la démence.",
-    "t": 237.39
+    "t": 237.35
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... il soutient les personnes touchées, leurs proches, et les professionnels, et ses services sont gratuits.",
-    "t": 243.37
+    "t": 243.33
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... il explique le diagnostic, aide les gens à bien vivre, et soutient aussi les aidants.",
-    "t": 250.2
+    "t": 250.16
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... il fait la promotion de la prévention, car une vie saine réduit le risque.",
-    "t": 255.07
+    "t": 255.03
    },
    {
     "speaker": "Anna",
     "text": "La démence peut sembler un mot effrayant.",
-    "t": 260.27
+    "t": 260.23
    },
    {
     "speaker": "Anna",
     "text": "Mais le savoir, le soutien et la bienveillance changent tout.",
-    "t": 262.24
+    "t": 262.2
    },
    {
     "speaker": "Tom",
     "text": "Et au Luxembourg, ce soutien a une porte chaleureuse et ouverte.",
-    "t": 265.66
+    "t": 265.62
    },
    {
     "speaker": "Anna",
     "text": "C'était un sujet sensible, alors soyez doux avec vous-même.",
-    "t": 269.29
+    "t": 269.25
    },
    {
     "speaker": "Tom",
     "text": "Et si vous ou une personne que vous aimez êtes concernés, demander de l'aide est toujours une bonne chose.",
-    "t": 272.47
+    "t": 272.43
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'Info-Zenter Demenz.",
-    "t": 278.51
+    "t": 278.47
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 280.94
+    "t": 280.9
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 288.9
+    "t": 288.86
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 305.35
+    "t": 305.31
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 310
+    "t": 309.96
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 311.78
+    "t": 311.74
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 316.16
+    "t": 316.12
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 317.39
+    "t": 317.35
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 319.85
+    "t": 319.81
    }
   ],
   "audio_de": "../../podcast_demenz_de.mp3",
-  "duration_de": 374.83,
+  "duration_de": 375.07,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -948,342 +948,342 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema berührt viele Familien, oft im Stillen... Gedächtnisverlust und Demenz.",
-    "t": 27.86
+    "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Da wir immer älter werden, kennen immer mehr von uns jemanden, der betroffen ist... ein Elternteil, einen Großelternteil, einen Partner, einen Freund.",
-    "t": 33.92
+    "t": 33.94
    },
    {
     "speaker": "Tom",
     "text": "Und das kann beängstigend und einsam sein, sowohl für die betroffene Person als auch für die, die sie lieben.",
-    "t": 42.73
+    "t": 42.75
    },
    {
     "speaker": "Anna",
     "text": "Aber niemand muss dem allein gegenüberstehen.",
-    "t": 49.11
+    "t": 49.13
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg hat ein nationales Zentrum, das sich genau darum kümmert.",
-    "t": 51.68
+    "t": 51.7
    },
    {
     "speaker": "Tom",
     "text": "Es heißt Info-Zenter Demenz... das Informationszentrum für Demenz.",
-    "t": 55.85
+    "t": 55.87
    },
    {
     "speaker": "Anna",
-    "text": "Also Anna, was ist der Info-Zenter Demenz?",
-    "t": 60.51
+    "text": "Also Tom, was ist der Info-Zenter Demenz?",
+    "t": 60.53
    },
    {
     "speaker": "Tom",
     "text": "Es ist das nationale Zentrum für Information und Beratung zu Gedächtnisproblemen und Demenz.",
-    "t": 63.09
+    "t": 63.33
    },
    {
     "speaker": "Anna",
     "text": "Es ist für alle da, die davon berührt sind... die betroffene Person, ihre Angehörigen, das medizinische Fachpersonal, und jeden, der Fragen hat.",
-    "t": 68.74
+    "t": 68.98
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist etwas wirklich Wichtiges.",
-    "t": 78.27
+    "t": 78.51
    },
    {
     "speaker": "Tom",
     "text": "All seine Beratung und seine Unterlagen sind kostenlos.",
-    "t": 80.71
+    "t": 80.95
    },
    {
     "speaker": "Anna",
     "text": "So sind die Kosten nie ein Hindernis, um gute Informationen und Unterstützung zu erhalten.",
-    "t": 84.2
+    "t": 84.44
    },
    {
     "speaker": "Tom",
     "text": "Lassen Sie uns behutsam darüber sprechen, was Demenz eigentlich ist, denn Verstehen hilft.",
-    "t": 89.18
+    "t": 89.42
    },
    {
     "speaker": "Anna",
     "text": "Demenz ist kein normaler Teil des Älterwerdens.",
-    "t": 94.36
+    "t": 94.6
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine Erkrankung, die das Gedächtnis, das Denken und das tägliche Leben beeinträchtigt.",
-    "t": 97.26
+    "t": 97.5
    },
    {
     "speaker": "Tom",
     "text": "Und nicht jeder Gedächtnisaussetzer ist Demenz.",
-    "t": 102.66
+    "t": 102.9
    },
    {
     "speaker": "Tom",
     "text": "Wir alle vergessen einmal einen Namen oder wo wir die Schlüssel hingelegt haben.",
-    "t": 105.56
+    "t": 105.8
    },
    {
     "speaker": "Anna",
     "text": "Das ist eine zentrale Botschaft des Zentrums.",
-    "t": 109.87
+    "t": 110.11
    },
    {
     "speaker": "Anna",
     "text": "Es gibt einen Unterschied zwischen gewöhnlichen Gedächtnislücken und Demenz.",
-    "t": 112.63
+    "t": 112.87
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie sich also Sorgen machen, ist der richtige Schritt nicht, in Panik zu geraten, sondern gute Informationen zu suchen, und eine ordentliche Abklärung.",
-    "t": 116.75
+    "t": 116.99
    },
    {
     "speaker": "Anna",
     "text": "Das Zentrum kann erklären, wie eine Diagnose abläuft, und welche die nächsten Schritte sein können.",
-    "t": 125.47
+    "t": 125.71
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir über die Unterstützung für die betroffene Person.",
-    "t": 130.85
+    "t": 131.09
    },
    {
     "speaker": "Anna",
     "text": "Das Zentrum bietet Orientierung für ein gutes Leben... ruhig bleiben, offen sprechen, und den Alltag anpassen.",
-    "t": 134.18
+    "t": 134.42
    },
    {
     "speaker": "Tom",
     "text": "Es behandelt auch praktische Fragen, wie Arbeit, Autofahren, und die Planung der Zukunft.",
-    "t": 141.15
+    "t": 141.39
    },
    {
     "speaker": "Anna",
     "text": "Denn eine Diagnose ist nicht das Ende eines erfüllten Lebens.",
-    "t": 146.81
+    "t": 147.05
    },
    {
     "speaker": "Anna",
     "text": "Mit Unterstützung können Menschen lange gut leben.",
-    "t": 150.78
+    "t": 151.02
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt ebenso viel Fürsorge für die Angehörigen, die Menschen, die helfen und begleiten.",
-    "t": 153.75
+    "t": 153.99
    },
    {
     "speaker": "Anna",
     "text": "Sich um einen Menschen mit Demenz zu kümmern, ist ein tiefer Akt der Liebe, aber es kann erschöpfend sein.",
-    "t": 158.93
+    "t": 159.17
    },
    {
     "speaker": "Tom",
     "text": "Das Zentrum hilft den Angehörigen, auch auf ihre eigene Gesundheit zu achten, und nicht alles allein zu tragen.",
-    "t": 164.99
+    "t": 165.23
    },
    {
     "speaker": "Anna",
     "text": "Es kann Sie zu mehr als hundert Diensten, Selbsthilfegruppen, und Partnern im ganzen Land weiterleiten.",
-    "t": 171.56
+    "t": 171.8
    },
    {
     "speaker": "Tom",
     "text": "Es gibt sogar einen Schwerpunkt auf Vorbeugung, was echte Hoffnung gibt.",
-    "t": 177.65
+    "t": 177.89
    },
    {
     "speaker": "Anna",
     "text": "Ja. Gesund leben... aktiv bleiben, sich gut ernähren, den Geist und das soziale Leben beschäftigt halten... kann das Risiko verringern.",
-    "t": 181.89
+    "t": 182.13
    },
    {
     "speaker": "Tom",
     "text": "Es ist keine Garantie, aber was gut für das Herz ist, ist auch gut für das Gehirn.",
-    "t": 192.19
+    "t": 192.43
    },
    {
     "speaker": "Anna",
     "text": "Das Zentrum veranstaltet Vorträge, Veranstaltungen und Sensibilisierungskampagnen, und es gibt auch ein nationales Demenz-Präventionsprogramm.",
-    "t": 196.89
+    "t": 197.13
    },
    {
     "speaker": "Tom",
     "text": "Es gibt also Wissen, Unterstützung und Hoffnung, alles an einem einladenden Ort.",
-    "t": 205.21
+    "t": 205.45
    },
    {
     "speaker": "Anna",
     "text": "Sagen wir ein behutsames Wort darüber, Hilfe zu suchen, denn das ist ein heikles Thema.",
-    "t": 210.23
+    "t": 210.47
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie sich um sich selbst Sorgen machen, oder um einen Menschen, den Sie lieben, ist es ein Zeichen von Stärke, nach Informationen zu fragen, nicht von Schwäche.",
-    "t": 215.06
+    "t": 215.3
    },
    {
     "speaker": "Anna",
     "text": "Und das Zentrum zu kontaktieren ist einfach... telefonisch, per E-Mail, über ihre Webseite, oder vor Ort in Luxemburg-Stadt, und manchmal auch in anderen Städten.",
-    "t": 224.33
+    "t": 224.57
    },
    {
     "speaker": "Tom",
     "text": "Sie sind da, um zuzuhören, um zu informieren, und um Ihnen zu helfen, Ihren Weg zu finden.",
-    "t": 235.57
+    "t": 235.81
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es praktisch.",
-    "t": 241.12
+    "t": 241.36
    },
    {
     "speaker": "Anna",
     "text": "Was können die Menschen daraus mitnehmen?",
-    "t": 242.6
+    "t": 242.84
    },
    {
     "speaker": "Tom",
     "text": "Erstens, wenn Sie sich Sorgen um das Gedächtnis machen, holen Sie sich früh gute Informationen, und eine ordentliche Abklärung.",
-    "t": 245.02
+    "t": 245.26
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, wenn ein geliebter Mensch betroffen ist, denken Sie daran, auch für sich selbst zu sorgen, und bitten Sie um Unterstützung.",
-    "t": 252.33
+    "t": 252.57
    },
    {
     "speaker": "Tom",
     "text": "Drittens, ein gesundes Leben hilft, das Gehirn zu schützen, also ist es nie zu früh, auf sich selbst zu achten.",
-    "t": 259.87
+    "t": 260.11
    },
    {
     "speaker": "Anna",
     "text": "Und viertens, denken Sie daran, dass die Hilfe des Zentrums landesweit ist, und dass sie kostenlos ist.",
-    "t": 266.5
+    "t": 266.74
    },
    {
     "speaker": "Tom",
     "text": "Bringen wir es zusammen.",
-    "t": 272.65
+    "t": 272.89
    },
    {
     "speaker": "Tom",
     "text": "Was sollten sich die Menschen über den Info-Zenter Demenz merken?",
-    "t": 274.1
+    "t": 274.34
    },
    {
     "speaker": "Anna",
     "text": "Erstens... es ist Luxemburgs nationales Zentrum für Information und Beratung zu Gedächtnisproblemen und Demenz.",
-    "t": 277.81
+    "t": 278.05
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... es unterstützt die Betroffenen, ihre Angehörigen, und die Fachleute, und seine Leistungen sind kostenlos.",
-    "t": 285.09
+    "t": 285.33
    },
    {
     "speaker": "Anna",
     "text": "Drittens... es erklärt die Diagnose, hilft den Menschen, gut zu leben, und unterstützt auch die Pflegenden.",
-    "t": 292.9
+    "t": 293.14
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... es fördert die Vorbeugung, denn ein gesundes Leben senkt das Risiko.",
-    "t": 299.6
+    "t": 299.84
    },
    {
     "speaker": "Anna",
     "text": "Demenz kann sich wie ein beängstigendes Wort anfühlen.",
-    "t": 304.88
+    "t": 305.12
    },
    {
     "speaker": "Anna",
     "text": "Aber Wissen, Unterstützung und Freundlichkeit verändern alles.",
-    "t": 307.91
+    "t": 308.15
    },
    {
     "speaker": "Tom",
     "text": "Und in Luxemburg hat diese Unterstützung eine warme und offene Tür.",
-    "t": 312.18
+    "t": 312.42
    },
    {
     "speaker": "Anna",
     "text": "Das war ein sensibles Thema, also seien Sie sanft mit sich selbst.",
-    "t": 316.26
+    "t": 316.5
    },
    {
     "speaker": "Tom",
     "text": "Und wenn Sie oder ein geliebter Mensch betroffen sind, ist es immer in Ordnung, um Hilfe zu bitten.",
-    "t": 320.45
+    "t": 320.69
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Info-Zenter Demenz.",
-    "t": 325.78
+    "t": 326.02
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 329.05
+    "t": 329.29
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 337.75
+    "t": 337.99
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 356.08
+    "t": 356.32
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 361.78
+    "t": 362.02
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 364.03
+    "t": 364.27
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 368.92
+    "t": 369.16
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 370.07
+    "t": 370.31
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 373.28
+    "t": 373.52
    }
   ],
   "segments_lb": [
@@ -1329,228 +1329,228 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Also Anna, wat ass den Info-Zenter Demenz?",
+    "text": "Also Tom, wat ass den Info-Zenter Demenz?",
     "t": 56.35
    },
    {
     "speaker": "Tom",
     "text": "Et ass dat nationaalt Zentrum fir Informatioun a Berodung iwwer Gedächtnisproblemer an Demenz.",
-    "t": 59.02
+    "t": 59.04
    },
    {
     "speaker": "Anna",
     "text": "Et ass fir jiddereen do, deen dovunner beréiert ass... déi betraff Persoun, hir Proche, d'Gesondheetsfachleit, an jiddereen, deen Froen huet.",
-    "t": 63.35
+    "t": 63.37
    },
    {
     "speaker": "Tom",
     "text": "An hei ass eppes ganz Wichteges. All seng Berodung a seng Ënnerlage si gratis.",
-    "t": 71.56
+    "t": 71.58
    },
    {
     "speaker": "Anna",
     "text": "Sou sinn d'Käschten ni en Hindernis, fir gutt Informatiounen an Ënnerstëtzung ze kréien.",
-    "t": 76.44
+    "t": 76.46
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis sanft doriwwer schwätzen, wat Demenz eigentlech ass, well Verstoen hëlleft.",
-    "t": 80.7
+    "t": 80.72
    },
    {
     "speaker": "Anna",
     "text": "Demenz ass kee normalen Deel vum Eelerwerden. Et ass eng Krankheet, déi d'Gedächtnis, d'Denken an den Alldag beaflosst.",
-    "t": 85
+    "t": 85.02
    },
    {
     "speaker": "Tom",
     "text": "An net all Vergiessen ass Demenz. Mir vergiessen all emol en Numm oder wou mir de Schlëssel higeluecht hunn.",
-    "t": 91.97
+    "t": 91.99
    },
    {
     "speaker": "Anna",
     "text": "Dat ass eng zentral Message vum Zentrum. Et gëtt en Ënnerscheed tëscht gewéinleche Gedächtnislücken an Demenz.",
-    "t": 96.24
+    "t": 96.26
    },
    {
     "speaker": "Tom",
     "text": "Also wann Dir Iech Suerge maacht, ass de richtege Schrëtt net, a Panik ze geroden, mä gutt Informatiounen ze sichen, an eng richteg Ofklärung.",
-    "t": 102.13
+    "t": 102.15
    },
    {
     "speaker": "Anna",
     "text": "D'Zentrum kann erklären, wéi eng Diagnose ofleeft, a wat déi nächst Schrëtt kënne sinn.",
-    "t": 108.96
+    "t": 108.98
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis iwwert d'Ënnerstëtzung fir déi betraff Persoun schwätzen.",
-    "t": 114.01
+    "t": 114.03
    },
    {
     "speaker": "Anna",
     "text": "D'Zentrum bitt Orientéierung fir gutt ze liewen... roueg ze bleiwen, offen ze schwätzen, an den Alldag unzepassen.",
-    "t": 117.19
+    "t": 117.21
    },
    {
     "speaker": "Tom",
     "text": "Et behandelt och praktesch Froen, wéi d'Aarbecht, d'Autofueren, an d'Planung vun der Zukunft.",
-    "t": 124.42
+    "t": 124.44
    },
    {
     "speaker": "Anna",
     "text": "Well eng Diagnose net d'Enn vun engem sënnvolle Liewen ass. Mat Ënnerstëtzung kënnen d'Mënsche laang gutt liewen.",
-    "t": 129.1
+    "t": 129.12
    },
    {
     "speaker": "Tom",
     "text": "An et gëtt grad esou vill Fleeg fir d'Proche, d'Leit, déi hëllefen a begleeden.",
-    "t": 136.27
+    "t": 136.29
    },
    {
     "speaker": "Anna",
     "text": "Sech ëm e Mënsch mat Demenz ze këmmeren, ass en déiwen Akt vu Léift, mä et kann ustrengend sinn.",
-    "t": 140.59
+    "t": 140.61
    },
    {
     "speaker": "Tom",
     "text": "D'Zentrum hëlleft de Proche, och op hir eege Gesondheet ze oppassen, an net alles eleng ze droen.",
-    "t": 145.71
+    "t": 145.73
    },
    {
     "speaker": "Anna",
     "text": "Et kann Iech bei méi wéi honnert Servicer, Selbsthëllefsgruppen, a Partner am ganze Land weiderleeden.",
-    "t": 150.99
+    "t": 151.01
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt souguer e Schwéierpunkt op der Virbeugung, wat richteg Hoffnung gëtt.",
-    "t": 157.14
+    "t": 157.16
    },
    {
     "speaker": "Anna",
     "text": "Jo. Gesond liewen... aktiv bleiwen, sech gutt ernähren, de Geescht an d'sozialt Liewe beschäftegt halen... kann d'Risiko reduzéieren.",
-    "t": 160.5
+    "t": 160.52
    },
    {
     "speaker": "Tom",
     "text": "Et ass keng Garantie, mä wat gutt fir d'Häerz ass, ass och gutt fir d'Gehir.",
-    "t": 168.47
+    "t": 168.49
    },
    {
     "speaker": "Anna",
     "text": "D'Zentrum organiséiert Virträg, Veranstaltungen a Sensibiliséierungscampagnen, an et gëtt och en nationaalt Programm fir Demenz-Preventioun.",
-    "t": 173.6
+    "t": 173.62
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt also Wëssen, Ënnerstëtzung an Hoffnung, alles op engem awueleudegen Ort.",
-    "t": 180.48
+    "t": 180.5
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis e sanft Wuert doriwwer soen, sech Hëllef ze sichen, well dat ass en delikat Thema.",
-    "t": 185.12
+    "t": 185.14
    },
    {
     "speaker": "Tom",
     "text": "Wann Dir Iech ëm Iech selwer Suerge maacht, oder ëm e Mënsch, deen Dir gär hutt, ass et e Zeeche vu Stäerkt, no Informatiounen ze froen, net vu Schwächt.",
-    "t": 189.69
+    "t": 189.71
    },
    {
     "speaker": "Anna",
     "text": "An d'Zentrum ze kontaktéieren ass einfach... iwwer Telefon, iwwer E-Mail, iwwer hir Websäit, oder op der Plaz an der Stad, an heiansdo och an anere Stied.",
-    "t": 196.29
+    "t": 196.31
    },
    {
     "speaker": "Tom",
     "text": "Si sinn do, fir nozelauschteren, fir ze informéieren, a fir Iech ze hëllefen, Äre Wee ze fannen.",
-    "t": 206.85
+    "t": 206.87
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis et praktesch maachen. Wat kënnen d'Leit dovunner mathuelen?",
-    "t": 210.78
+    "t": 210.8
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, wann Dir Iech Suergen ëm d'Gedächtnis maacht, sicht Iech fréi gutt Informatiounen, an eng richteg Ofklärung.",
-    "t": 214.33
+    "t": 214.35
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, wann e léiwe Mënsch betraff ass, denkt drun, och fir Iech selwer ze suergen, a freet no Ënnerstëtzung.",
-    "t": 219.66
+    "t": 219.68
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, e gesond Liewen hëlleft, d'Gehir ze schützen, also ass et ni ze fréi, op sech selwer ze oppassen.",
-    "t": 225.87
+    "t": 225.89
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, denkt drun, datt d'Hëllef vum Zentrum national ass, an datt se gratis ass.",
-    "t": 230.72
+    "t": 230.74
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis et zesummebréngen. Wat sollen d'Leit sech iwwert den Info-Zenter Demenz merken?",
-    "t": 234.74
+    "t": 234.76
    },
    {
     "speaker": "Anna",
     "text": "Éischtens... et ass Lëtzebuerg säin nationaalt Zentrum fir Informatioun a Berodung iwwer Gedächtnisproblemer an Demenz.",
-    "t": 239.02
+    "t": 239.04
    },
    {
     "speaker": "Tom",
     "text": "Zweetens... et ënnerstëtzt déi Betraffen, hir Proche, an d'Fachleit, a seng Servicer si gratis.",
-    "t": 245.49
+    "t": 245.51
    },
    {
     "speaker": "Anna",
     "text": "Drëttens... et erkläert d'Diagnose, hëlleft de Leit gutt ze liewen, an ënnerstëtzt och d'Fleegepersounen.",
-    "t": 251.85
+    "t": 251.87
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... et fërdert d'Virbeugung, well e gesond Liewen d'Risiko erofsetzt.",
-    "t": 257.91
+    "t": 257.93
    },
    {
     "speaker": "Anna",
     "text": "Demenz kann sech wéi en angschtmaachend Wuert ufillen. Mä Wëssen, Ënnerstëtzung a Frëndlechkeet änneren alles.",
-    "t": 263.02
+    "t": 263.04
    },
    {
     "speaker": "Tom",
     "text": "An zu Lëtzebuerg huet dës Ënnerstëtzung eng waarm an oppen Dier.",
-    "t": 269.15
+    "t": 269.17
    },
    {
     "speaker": "Anna",
     "text": "Dat war e sensibelt Thema, also sidd sanft mat Iech selwer.",
-    "t": 272.13
+    "t": 272.15
    },
    {
     "speaker": "Tom",
     "text": "A wann Dir oder e Mënsch, deen Dir gär hutt, betraff sidd, ass et ëmmer an der Rei, no Hëllef ze froen.",
-    "t": 275.6
+    "t": 275.62
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer den Info-Zenter Demenz. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 280.13
+    "t": 280.15
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 324.36
+    "t": 324.38
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 327.56
+    "t": 327.59
    }
   ]
  }

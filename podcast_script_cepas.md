@@ -55,7 +55,7 @@
 **ANNA:** If you are a young person listening, and things feel heavy, please know that asking for help is brave, not weak.
 **TOM:** And if you are a parent, noticing your child is struggling, you are not failing. Support exists, and it works.
 **ANNA:** Talking to someone early can change the path of a whole school year, and sometimes much more.
-**TOM:** So Tom... let's make it practical. How does someone actually use CePAS?
+**TOM:** So Anna, let's make it practical. How does someone actually use CePAS?
 **ANNA:** First... if your child needs quick support, the school's psycho-social service is right there, often without an appointment.
 **TOM:** Second... for deeper or longer support, the consultation centre welcomes young people from twelve to thirty, and their families, by appointment.
 **ANNA:** Third... remember that since 2026, consultations are also available in English.

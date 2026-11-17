@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "CGDIS and 112 – Luxembourg's Fire and Rescue Service",
   "description": "What the CGDIS (the Grand Ducal Fire and Rescue Corps) is, the emergency number 112 to know by heart, its missions (firefighting, rescue and emergency medical help), how to make a good 112 call, the thousands of volunteer firefighters, how to become a volunteer (including young people), and the first-aid courses and prevention advice it offers.",
   "audio": "../../podcast_cgdis.mp3",
-  "duration": 498.83,
+  "duration": 498.89,
   "topics": [
    "What the CGDIS is",
    "Call 112 in any emergency",
@@ -495,138 +495,138 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "So Tom... let's make this really practical.",
+    "text": "So Anna, let's make this really practical.",
     "t": 377.2
    },
    {
     "speaker": "Tom",
     "text": "What should everyone take away?",
-    "t": 380.35
+    "t": 380.13
    },
    {
     "speaker": "Anna",
     "text": "First, and most important... in any emergency in Luxembourg, call 1-1-2.",
-    "t": 382.1
+    "t": 382.16
    },
    {
     "speaker": "Tom",
     "text": "Second, teach it to your children, and to anyone new to the country.",
-    "t": 387.52
+    "t": 387.58
    },
    {
     "speaker": "Tom",
     "text": "One-one-two.",
-    "t": 391.07
+    "t": 391.13
    },
    {
     "speaker": "Anna",
     "text": "Third, when you call, give your location clearly, say what happened, and stay on the line.",
-    "t": 392.25
+    "t": 392.31
    },
    {
     "speaker": "Tom",
     "text": "Fourth, consider learning first aid... it is a gift you give to the people around you.",
-    "t": 398.33
+    "t": 398.39
    },
    {
     "speaker": "Anna",
     "text": "And fifth, if it speaks to you, think about becoming a volunteer firefighter.",
-    "t": 403.15
+    "t": 403.21
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it all together.",
-    "t": 408.18
+    "t": 408.24
    },
    {
     "speaker": "Tom",
     "text": "What should people remember?",
-    "t": 409.61
+    "t": 409.67
    },
    {
     "speaker": "Anna",
     "text": "First... the CGDIS is Luxembourg's national fire and rescue service, created in 2018.",
-    "t": 411.04
+    "t": 411.1
    },
    {
     "speaker": "Tom",
     "text": "Second... in any emergency, you call 1-1-2, free, any phone, day or night.",
-    "t": 418.54
+    "t": 418.6
    },
    {
     "speaker": "Anna",
     "text": "Third... most of its firefighters are volunteers, and you could become one too.",
-    "t": 423.38
+    "t": 423.44
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it also trains the public and gives prevention advice, so we can all help keep each other safe.",
-    "t": 428.1
+    "t": 428.16
    },
    {
     "speaker": "Anna",
     "text": "Emergencies are frightening.",
-    "t": 434.62
+    "t": 434.68
    },
    {
     "speaker": "Anna",
     "text": "But you are not alone.",
-    "t": 436.46
+    "t": 436.52
    },
    {
     "speaker": "Anna",
     "text": "Behind that number, people are ready to come.",
-    "t": 437.96
+    "t": 438.02
    },
    {
     "speaker": "Tom",
     "text": "And knowing how to reach them, calmly and clearly, is something every one of us can learn today.",
-    "t": 440.73
+    "t": 440.79
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about Luxembourg's fire and rescue corps and the emergency number 112.",
-    "t": 446.62
+    "t": 446.68
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 452.64
+    "t": 452.7
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 462.09
+    "t": 462.15
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 480.38
+    "t": 480.44
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 487.13
+    "t": 487.19
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 489.33
+    "t": 489.39
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 494.02
+    "t": 494.08
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 495.11
+    "t": 495.17
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 497.23
+    "t": 497.29
    }
   ],
   "questions": [
@@ -829,7 +829,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "../../podcast_cgdis_fr.mp3",
-  "duration_fr": 487.08,
+  "duration_fr": 487.21,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -1298,142 +1298,142 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Alors Tom... rendons cela vraiment concret.",
+    "text": "Alors Anna, rendons cela vraiment concret.",
     "t": 370.29
    },
    {
     "speaker": "Tom",
     "text": "Que devrait retenir chacun ?",
-    "t": 372.94
+    "t": 372.86
    },
    {
     "speaker": "Anna",
     "text": "D'abord, et le plus important... en cas d'urgence au Luxembourg, appelez le 1-1-2.",
-    "t": 374.64
+    "t": 374.76
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement, apprenez-le à vos enfants, et à toute personne nouvelle dans le pays.",
-    "t": 379.36
+    "t": 379.48
    },
    {
     "speaker": "Tom",
     "text": "Un-un-deux.",
-    "t": 384.21
+    "t": 384.33
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement, quand vous appelez, donnez clairement votre localisation, dites ce qui s'est passé, et restez en ligne.",
-    "t": 385.26
+    "t": 385.38
    },
    {
     "speaker": "Tom",
     "text": "Quatrièmement, envisagez d'apprendre les premiers secours... c'est un cadeau que vous offrez aux personnes qui vous entourent.",
-    "t": 391.22
+    "t": 391.34
    },
    {
     "speaker": "Anna",
     "text": "Et cinquièmement, si cela vous parle, pensez à devenir pompier volontaire.",
-    "t": 397.5
+    "t": 397.62
    },
    {
     "speaker": "Tom",
     "text": "Rassemblons tout cela.",
-    "t": 401.16
+    "t": 401.28
    },
    {
     "speaker": "Tom",
     "text": "Que doivent retenir les gens ?",
-    "t": 402.66
+    "t": 402.78
    },
    {
     "speaker": "Anna",
     "text": "Premièrement... le CGDIS est le service national d'incendie et de secours du Luxembourg, créé en 2018.",
-    "t": 404.5
+    "t": 404.62
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... en cas d'urgence, vous appelez le 1-1-2, gratuit, depuis n'importe quel téléphone, jour et nuit.",
-    "t": 410.69
+    "t": 410.81
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... la plupart de ses pompiers sont des bénévoles, et vous pourriez en devenir un aussi.",
-    "t": 417.81
+    "t": 417.93
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... il forme aussi le public et donne des conseils de prévention, pour que nous puissions tous nous aider à rester en sécurité.",
-    "t": 422.34
+    "t": 422.46
    },
    {
     "speaker": "Anna",
     "text": "Les urgences font peur.",
-    "t": 429.72
+    "t": 429.84
    },
    {
     "speaker": "Anna",
     "text": "Mais vous n'êtes pas seul.",
-    "t": 431.13
+    "t": 431.25
    },
    {
     "speaker": "Anna",
     "text": "Derrière ce numéro, des gens sont prêts à venir.",
-    "t": 432.47
+    "t": 432.59
    },
    {
     "speaker": "Tom",
     "text": "Et savoir comment les joindre, calmement et clairement, est quelque chose que chacun d'entre nous peut apprendre dès aujourd'hui.",
-    "t": 434.83
+    "t": 434.95
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le corps grand-ducal d'incendie et de secours et le numéro d'urgence 112.",
-    "t": 441.2
+    "t": 441.32
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 446.42
+    "t": 446.54
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 454.37
+    "t": 454.49
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 470.82
+    "t": 470.94
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 475.47
+    "t": 475.59
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 477.25
+    "t": 477.37
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 481.63
+    "t": 481.75
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 482.86
+    "t": 482.98
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 485.32
+    "t": 485.44
    }
   ],
   "audio_de": "../../podcast_cgdis_de.mp3",
-  "duration_de": 561.61,
+  "duration_de": 560.72,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -1912,138 +1912,138 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom... machen wir das ganz praktisch.",
+    "text": "Also Anna, machen wir das ganz praktisch.",
     "t": 422.89
    },
    {
     "speaker": "Tom",
     "text": "Was sollte jeder mitnehmen?",
-    "t": 426.27
+    "t": 425.4
    },
    {
     "speaker": "Anna",
     "text": "Erstens, und am wichtigsten... rufen Sie bei jedem Notfall in Luxemburg die 1-1-2 an.",
-    "t": 427.96
+    "t": 427.06
    },
    {
     "speaker": "Tom",
     "text": "Zweitens: Bringen Sie es Ihren Kindern bei, und jedem, der neu im Land ist.",
-    "t": 434.45
+    "t": 433.55
    },
    {
     "speaker": "Tom",
     "text": "Eins-eins-zwei.",
-    "t": 439.9
+    "t": 439
    },
    {
     "speaker": "Anna",
     "text": "Drittens: Wenn Sie anrufen, geben Sie Ihren Standort klar an, sagen Sie, was passiert ist, und bleiben Sie in der Leitung.",
-    "t": 441.26
+    "t": 440.36
    },
    {
     "speaker": "Tom",
     "text": "Viertens: Erwägen Sie, Erste Hilfe zu lernen... es ist ein Geschenk, das Sie den Menschen um Sie herum machen.",
-    "t": 448.9
+    "t": 448
    },
    {
     "speaker": "Anna",
     "text": "Und fünftens: Wenn es Sie anspricht, denken Sie darüber nach, Freiwilliger beim Rettungskorps zu werden.",
-    "t": 455.37
+    "t": 454.47
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir alles zusammen.",
-    "t": 461.8
+    "t": 460.9
    },
    {
     "speaker": "Tom",
     "text": "Woran sollten sich die Menschen erinnern?",
-    "t": 463.35
+    "t": 462.45
    },
    {
     "speaker": "Anna",
     "text": "Erstens... das CGDIS ist der nationale Brand- und Rettungsdienst Luxemburgs, gegründet 2018.",
-    "t": 465.56
+    "t": 464.66
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... bei jedem Notfall rufen Sie die 1-1-2 an, kostenlos, von jedem Telefon, Tag und Nacht.",
-    "t": 473.73
+    "t": 472.83
    },
    {
     "speaker": "Anna",
     "text": "Drittens... die meisten seiner Feuerwehrleute sind Freiwillige, und auch Sie könnten einer werden.",
-    "t": 481.95
+    "t": 481.05
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... es bildet auch die Öffentlichkeit aus und gibt Präventionsratschläge, damit wir alle einander sicher halten können.",
-    "t": 488.2
+    "t": 487.3
    },
    {
     "speaker": "Anna",
     "text": "Notfälle sind beängstigend.",
-    "t": 496.94
+    "t": 496.04
    },
    {
     "speaker": "Anna",
     "text": "Aber Sie sind nicht allein.",
-    "t": 498.84
+    "t": 497.94
    },
    {
     "speaker": "Anna",
     "text": "Hinter dieser Nummer sind Menschen bereit zu kommen.",
-    "t": 500.52
+    "t": 499.62
    },
    {
     "speaker": "Tom",
     "text": "Und zu wissen, wie man sie erreicht, ruhig und klar, ist etwas, das jeder von uns heute lernen kann.",
-    "t": 503.34
+    "t": 502.44
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das großherzogliche Feuerwehr- und Rettungskorps und die Notrufnummer 112.",
-    "t": 509.45
+    "t": 508.55
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 515.85
+    "t": 514.95
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 524.54
+    "t": 523.64
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 542.87
+    "t": 541.97
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 548.57
+    "t": 547.67
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 550.82
+    "t": 549.92
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 555.71
+    "t": 554.81
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 556.86
+    "t": 555.96
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 560.07
+    "t": 559.17
    }
   ],
   "segments_lb": [
@@ -2364,83 +2364,83 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom... loosse mer dat ganz praktesch maachen. Wat soll jiddereen mathuelen?",
+    "text": "Also Anna, loosse mer dat ganz praktesch maachen. Wat soll jiddereen mathuelen?",
     "t": 377.2
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, an dat Wichtegst... bei all Noutfall zu Lëtzebuerg, rufft d'1-1-2 un.",
-    "t": 382.1
+    "t": 382.16
    },
    {
     "speaker": "Tom",
     "text": "Als zweet, léiert et Äre Kanner, an all Persoun, déi nei am Land ass. Eent-eent-zwee.",
-    "t": 387.52
+    "t": 387.58
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt, wann Dir uruft, gitt Är Plaz kloer un, sot, wat geschitt ass, a bleift an der Leitung.",
-    "t": 392.25
+    "t": 392.31
    },
    {
     "speaker": "Tom",
     "text": "Als véiert, iwwerleet Iech, Éischt Hëllef ze léieren... et ass e Kaddo, deen Dir de Leit ëm Iech erëm gitt.",
-    "t": 398.33
+    "t": 398.39
    },
    {
     "speaker": "Anna",
     "text": "An als fënneft, wann et Iech uschwätzt, denkt drun, Fräiwëlleger beim Rettungsdéngscht ze ginn.",
-    "t": 403.15
+    "t": 403.21
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer alles zesummenhuelen. Wat solle sech d'Leit mierken?",
-    "t": 408.18
+    "t": 408.24
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... de CGDIS ass den nationale Brand- a Rettungsdéngscht vu Lëtzebuerg, gegrënnt 2018.",
-    "t": 411.04
+    "t": 411.1
    },
    {
     "speaker": "Tom",
     "text": "Als zweet... bei all Noutfall, rufft Dir d'1-1-2 un, gratis, vun all Telefon, Dag an Nuecht.",
-    "t": 418.54
+    "t": 418.6
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt... déi meescht vu senge Pompjeeë sinn Fräiwëlleger, an Dir kënnt och een dovu ginn.",
-    "t": 423.38
+    "t": 423.44
    },
    {
     "speaker": "Tom",
     "text": "An als véiert... hien ausbilt och d'Ëffentlechkeet a gëtt Préventiounsrotschléi, sou datt mir all eis géigesäiteg kënne sécher halen.",
-    "t": 428.1
+    "t": 428.16
    },
    {
     "speaker": "Anna",
     "text": "Noutfäll sinn beängschtegend. Mä Dir sidd net eleng. Hannert där Nummer sinn Leit bereet ze kommen.",
-    "t": 434.62
+    "t": 434.68
    },
    {
     "speaker": "Tom",
     "text": "A ze wëssen, wéi een se erreecht, roueg a kloer, ass eppes, wat jiddereen vun eis haut léiere kann.",
-    "t": 440.73
+    "t": 440.79
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer de Rettungsdéngscht an d'Noutruffnummer 112. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 446.62
+    "t": 446.68
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 494.02
+    "t": 494.08
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 497.23
+    "t": 497.29
    }
   ]
  }

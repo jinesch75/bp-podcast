@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "European Funds in Luxembourg – How EU Money Supports Local Projects",
   "description": "What the European Funds are, how the EU's cohesion policy invests in member countries, the main funds (regional development, the social fund, and asylum & migration), how managing authorities oversee them, what they pay for, and how organisations can take part.",
   "audio": "../../podcast_fondseuropeens.mp3",
-  "duration": 415.61,
+  "duration": 415.16,
   "topics": [
    "EU cohesion policy explained",
    "Regional Development Fund (FEDER)",
@@ -355,123 +355,123 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "So Tom... let's make it practical.",
+    "text": "So Anna, let's make it practical.",
     "t": 295.54
    },
    {
     "speaker": "Tom",
     "text": "What can someone do with this?",
-    "t": 297.64
+    "t": 297.19
    },
    {
     "speaker": "Anna",
     "text": "First... if you run an organisation or project, check the European Funds website to see if your idea fits.",
-    "t": 299.39
+    "t": 298.95
    },
    {
     "speaker": "Tom",
     "text": "Second... look at the funded projects, to understand what kinds of ideas get support.",
-    "t": 306.52
+    "t": 306.08
    },
    {
     "speaker": "Anna",
     "text": "Third... remember the main funds... the regional development fund for the economy, and the social fund for people and jobs.",
-    "t": 311.61
+    "t": 311.17
    },
    {
     "speaker": "Tom",
     "text": "And fourth... know that this money is managed carefully, by official authorities, with clear goals.",
-    "t": 319.49
+    "t": 319.05
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it all together.",
-    "t": 325.64
+    "t": 325.2
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about the European Funds?",
-    "t": 327.22
+    "t": 326.78
    },
    {
     "speaker": "Tom",
     "text": "First... the EU invests in member countries through its cohesion policy, and Luxembourg receives a share.",
-    "t": 330.39
+    "t": 329.95
    },
    {
     "speaker": "Anna",
     "text": "Second... the main funds support the economy and innovation, people and jobs, and integration.",
-    "t": 336.57
+    "t": 336.13
    },
    {
     "speaker": "Tom",
     "text": "Third... managing authorities choose and oversee projects, spending public money wisely.",
-    "t": 343.27
+    "t": 342.83
    },
    {
     "speaker": "Anna",
     "text": "And fourth... organisations can apply, and everyone can see the projects on the European Funds website.",
-    "t": 348.63
+    "t": 348.19
    },
    {
     "speaker": "Tom",
     "text": "Europe can feel far away and abstract.",
-    "t": 355.51
+    "t": 355.07
    },
    {
     "speaker": "Tom",
     "text": "But sometimes, it looks like a training course, or a new job, right next door.",
-    "t": 357.99
+    "t": 357.55
    },
    {
     "speaker": "Anna",
     "text": "And understanding that helps us see the value behind the headlines.",
-    "t": 362.49
+    "t": 362.05
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about European funds in Luxembourg.",
-    "t": 366.35
+    "t": 365.91
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 369.82
+    "t": 369.38
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 378.89
+    "t": 378.45
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 397.17
+    "t": 396.73
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 403.92
+    "t": 403.48
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 406.12
+    "t": 405.68
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 410.81
+    "t": 410.37
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 411.89
+    "t": 411.46
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 414.01
+    "t": 413.58
    }
   ],
   "questions": [
@@ -674,7 +674,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "../../podcast_fondseuropeens_fr.mp3",
-  "duration_fr": 407.01,
+  "duration_fr": 406.94,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -694,446 +694,446 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui peut sembler un peu technique au premier abord, mais il touche à la vie réelle... les Fonds européens.",
-    "t": 23.07
+    "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "Oui. Nous entendons beaucoup parler de l'Union européenne.",
-    "t": 29.52
+    "t": 29.58
    },
    {
     "speaker": "Anna",
     "text": "Mais qu'est-ce que cela signifie réellement, en pratique, ici au Luxembourg ?",
-    "t": 32.17
+    "t": 32.23
    },
    {
     "speaker": "Tom",
     "text": "Une partie de la réponse, c'est l'argent.",
-    "t": 35.89
+    "t": 35.95
    },
    {
     "speaker": "Tom",
     "text": "L'UE aide à financer des projets utiles dans ses pays membres.",
-    "t": 38.25
+    "t": 38.31
    },
    {
     "speaker": "Anna",
     "text": "Et au Luxembourg, il y a un site officiel et une équipe qui gèrent cela... les Fonds européens.",
-    "t": 41.87
+    "t": 41.93
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, d'où vient cet argent, et quelle est l'idée derrière tout cela ?",
-    "t": 46.89
+    "t": 46.95
    },
    {
     "speaker": "Anna",
     "text": "L'Union européenne a ce que l'on appelle la politique de cohésion.",
-    "t": 50.95
+    "t": 51.01
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les régions et les personnes à se développer, de manière équitable, à travers l'Europe.",
-    "t": 54.03
+    "t": 54.09
    },
    {
     "speaker": "Tom",
     "text": "Donc les régions plus riches et moins riches, les grands défis et les petits... l'UE investit pour aider tout le monde à avancer ensemble.",
-    "t": 59.08
+    "t": 59.14
    },
    {
     "speaker": "Anna",
     "text": "Et chaque pays membre, y compris le Luxembourg, reçoit une part à dépenser pour des objectifs convenus.",
-    "t": 67.03
+    "t": 67.09
    },
    {
     "speaker": "Tom",
     "text": "Parlons des principaux fonds, car chacun a sa propre orientation.",
-    "t": 72.29
+    "t": 72.35
    },
    {
     "speaker": "Anna",
     "text": "Le premier est le Fonds européen de développement régional (FEDER).",
-    "t": 76.29
+    "t": 76.35
    },
    {
     "speaker": "Anna",
     "text": "On l'appelle souvent par ses initiales françaises, FEDER.",
-    "t": 80.05
+    "t": 80.11
    },
    {
     "speaker": "Tom",
     "text": "Celui-ci soutient des choses comme la recherche, l'innovation, l'économie numérique, et la transition vers une énergie plus propre et à faibles émissions de carbone.",
-    "t": 83.12
+    "t": 83.18
    },
    {
     "speaker": "Anna",
     "text": "Pour le Luxembourg, dans la période actuelle de 2021 à 2027, ce fonds représente environ vingt et un millions d'euros.",
-    "t": 92.33
+    "t": 92.39
    },
    {
     "speaker": "Anna",
     "text": "Et la prochaine période, à partir de 2028, est déjà en préparation au niveau européen.",
-    "t": 98.67
+    "t": 98.73
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième est le Fonds social européen + (FSE+).",
-    "t": 103.27
+    "t": 103.33
    },
    {
     "speaker": "Tom",
     "text": "En français, le FSE Plus.",
-    "t": 107.47
+    "t": 107.53
    },
    {
     "speaker": "Anna",
     "text": "L'indice est dans le nom... social.",
-    "t": 110.09
+    "t": 110.15
    },
    {
     "speaker": "Anna",
     "text": "Ce fonds concerne les personnes.",
-    "t": 113.17
+    "t": 113.23
    },
    {
     "speaker": "Anna",
     "text": "Les emplois, les compétences, la formation, et l'inclusion des personnes laissées de côté.",
-    "t": 115.37
+    "t": 115.43
    },
    {
     "speaker": "Tom",
     "text": "Il aide à l'emploi et à la lutte contre la pauvreté et l'exclusion.",
-    "t": 119.84
+    "t": 119.9
    },
    {
     "speaker": "Anna",
     "text": "Et il y a un troisième fonds à connaître... le Fonds Asile, Migration et Intégration (AMIF).",
-    "t": 123.53
+    "t": 123.59
    },
    {
     "speaker": "Tom",
     "text": "Celui-là soutient l'accueil et l'intégration des personnes qui viennent au Luxembourg, y compris celles qui demandent l'asile.",
-    "t": 129
+    "t": 129.06
    },
    {
     "speaker": "Anna",
     "text": "Il existe aussi des fonds pour la sécurité intérieure et pour la gestion des frontières.",
-    "t": 135.48
+    "t": 135.54
    },
    {
     "speaker": "Anna",
     "text": "Et il y a Interreg, qui soutient des projets transfrontaliers avec nos voisins... par exemple dans la Grande Région.",
-    "t": 139.29
+    "t": 139.35
    },
    {
     "speaker": "Tom",
     "text": "Donc ensemble, ces fonds couvrent l'économie, les personnes, l'inclusion et la sécurité.",
-    "t": 145.31
+    "t": 145.37
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, une question importante.",
-    "t": 151.31
+    "t": 151.37
    },
    {
     "speaker": "Anna",
     "text": "Qui décide de la façon dont cet argent est dépensé, et qui veille à ce que tout soit honnête ?",
-    "t": 153.01
+    "t": 153.07
    },
    {
     "speaker": "Tom",
     "text": "Pour chaque fonds, il y a ce que l'on appelle une autorité de gestion.",
-    "t": 157.39
+    "t": 157.45
    },
    {
     "speaker": "Anna",
     "text": "Une autorité de gestion est l'organisme officiel chargé de gérer correctement le programme.",
-    "t": 161.18
+    "t": 161.24
    },
    {
     "speaker": "Tom",
     "text": "Elle choisit quels projets reçoivent un soutien, elle gère l'argent avec soin, et elle vérifie les résultats.",
-    "t": 166.01
+    "t": 166.07
    },
    {
     "speaker": "Anna",
     "text": "La règle qui les guide est la « bonne gestion financière ».",
-    "t": 172.01
+    "t": 172.07
    },
    {
     "speaker": "Anna",
     "text": "En clair... dépenser l'argent public de manière avisée et transparente.",
-    "t": 174.75
+    "t": 174.81
    },
    {
     "speaker": "Tom",
     "text": "Différents ministères assument ce rôle, selon le fonds.",
-    "t": 178.86
+    "t": 178.92
    },
    {
     "speaker": "Anna",
     "text": "Par exemple, le fonds pour l'asile et la migration est géré par le ministère responsable de la famille, de la solidarité et de l'accueil.",
-    "t": 182.14
+    "t": 182.2
    },
    {
     "speaker": "Tom",
     "text": "Donc l'argent n'est pas simplement distribué.",
-    "t": 188.65
+    "t": 188.71
    },
    {
     "speaker": "Tom",
     "text": "Il est planifié, géré, et il fait l'objet d'une reddition de comptes.",
-    "t": 191
+    "t": 191.06
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 195.32
+    "t": 195.38
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que l'argent européen finance réellement, qu'une personne ordinaire pourrait remarquer ?",
-    "t": 196.63
+    "t": 196.69
    },
    {
     "speaker": "Tom",
     "text": "Pensez à un programme de formation qui aide les personnes au chômage à acquérir de nouvelles compétences.",
-    "t": 201.03
+    "t": 201.09
    },
    {
     "speaker": "Anna",
     "text": "Ou à un projet qui aide une entreprise à innover, et à créer de bons emplois.",
-    "t": 207.12
+    "t": 207.18
    },
    {
     "speaker": "Tom",
     "text": "Ou à un soutien qui aide les nouveaux arrivants à apprendre la langue et à trouver leurs repères.",
-    "t": 211.04
+    "t": 211.1
    },
    {
     "speaker": "Anna",
     "text": "Ou à un investissement dans une énergie plus propre et une économie plus verte.",
-    "t": 215.98
+    "t": 216.04
    },
    {
     "speaker": "Tom",
     "text": "Ces projets sont souvent menés par des organisations locales... associations, entreprises, organismes publics.",
-    "t": 219.9
+    "t": 219.96
    },
    {
     "speaker": "Anna",
     "text": "Et les Fonds européens aident à les financer, aux côtés de l'argent national.",
-    "t": 226.58
+    "t": 226.64
    },
    {
     "speaker": "Anna",
     "text": "On appelle cela le cofinancement.",
-    "t": 230.4
+    "t": 230.46
    },
    {
     "speaker": "Tom",
     "text": "Donc l'UE finance rarement la totalité.",
-    "t": 232.51
+    "t": 232.57
    },
    {
     "speaker": "Tom",
     "text": "Elle unit ses forces avec le Luxembourg pour rendre un projet possible.",
-    "t": 235.31
+    "t": 235.37
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, vous vous demandez peut-être... pourrais-je, ou une organisation que je connais, utiliser ces fonds ?",
-    "t": 239.3
+    "t": 239.36
    },
    {
     "speaker": "Tom",
     "text": "Possiblement, oui. Le site des Fonds européens explique les objectifs, les appels à projets, et comment faire une demande.",
-    "t": 245.24
+    "t": 245.3
    },
    {
     "speaker": "Anna",
     "text": "Si vous dirigez une association, une entreprise, ou un projet public qui correspond aux objectifs, vous pouvez découvrir comment y participer.",
-    "t": 252.45
+    "t": 252.51
    },
    {
     "speaker": "Tom",
     "text": "Le site montre aussi des exemples de projets qui ont déjà été financés, ce qui est inspirant.",
-    "t": 259.54
+    "t": 259.6
    },
    {
     "speaker": "Anna",
     "text": "Donc ce n'est pas un monde fermé réservé aux seuls experts.",
-    "t": 264.89
+    "t": 264.95
    },
    {
     "speaker": "Anna",
     "text": "C'est ouvert, et c'est expliqué.",
-    "t": 267.55
+    "t": 267.61
    },
    {
     "speaker": "Tom",
     "text": "Disons aussi pourquoi cela compte pour les citoyens ordinaires, même ceux qui ne font jamais de demande.",
-    "t": 269.67
+    "t": 269.73
    },
    {
     "speaker": "Anna",
     "text": "Parce que c'est aussi votre argent, en tant qu'Européen, qui est réinvesti dans votre communauté.",
-    "t": 275.3
+    "t": 275.36
    },
    {
     "speaker": "Tom",
     "text": "Et parce que la transparence compte.",
-    "t": 279.84
+    "t": 279.9
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez voir où il va, et ce qu'il permet d'accomplir.",
-    "t": 281.72
+    "t": 281.78
    },
    {
     "speaker": "Anna",
     "text": "C'est un exemple discret mais réel de solidarité européenne, qui se concrétise dans de vrais projets, dans de vraies villes.",
-    "t": 284.95
+    "t": 285.01
    },
    {
     "speaker": "Tom",
-    "text": "Alors Tom... rendons cela pratique.",
-    "t": 291.45
+    "text": "Alors Anna, rendons cela pratique.",
+    "t": 291.51
    },
    {
     "speaker": "Tom",
     "text": "Que peut-on faire avec tout ça ?",
-    "t": 293.9
+    "t": 293.81
    },
    {
     "speaker": "Anna",
     "text": "D'abord... si vous dirigez une organisation ou un projet, consultez le site des Fonds européens pour voir si votre idée correspond.",
-    "t": 295.67
+    "t": 295.59
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... regardez les projets financés, pour comprendre quels types d'idées reçoivent un soutien.",
-    "t": 301.7
+    "t": 301.62
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... souvenez-vous des principaux fonds... le fonds de développement régional pour l'économie, et le fonds social pour les personnes et les emplois.",
-    "t": 307.59
+    "t": 307.51
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... sachez que cet argent est géré avec soin, par des autorités officielles, avec des objectifs clairs.",
-    "t": 315.04
+    "t": 314.96
    },
    {
     "speaker": "Anna",
     "text": "Rassemblons tout cela.",
-    "t": 321.57
+    "t": 321.49
    },
    {
     "speaker": "Anna",
     "text": "Que devraient retenir les gens à propos des Fonds européens ?",
-    "t": 322.87
+    "t": 322.79
    },
    {
     "speaker": "Tom",
     "text": "Premièrement... l'UE investit dans les pays membres à travers sa politique de cohésion, et le Luxembourg reçoit une part.",
-    "t": 325.51
+    "t": 325.43
    },
    {
     "speaker": "Anna",
     "text": "Deuxièmement... les principaux fonds soutiennent l'économie et l'innovation, les personnes et les emplois, et l'intégration.",
-    "t": 332.62
+    "t": 332.54
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement... les autorités de gestion choisissent et supervisent les projets, en dépensant l'argent public de manière avisée.",
-    "t": 338.8
+    "t": 338.72
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement... les organisations peuvent faire une demande, et tout le monde peut voir les projets sur le site des Fonds européens.",
-    "t": 346.18
+    "t": 346.1
    },
    {
     "speaker": "Tom",
     "text": "L'Europe peut sembler lointaine et abstraite.",
-    "t": 352.14
+    "t": 352.06
    },
    {
     "speaker": "Tom",
     "text": "Mais parfois, elle ressemble à un cours de formation, ou à un nouvel emploi, juste à côté de chez vous.",
-    "t": 354.64
+    "t": 354.56
    },
    {
     "speaker": "Anna",
     "text": "Et comprendre cela nous aide à voir la valeur qui se cache derrière les gros titres.",
-    "t": 360.05
+    "t": 359.97
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur les fonds européens au Luxembourg.",
-    "t": 363.82
+    "t": 363.74
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 366.85
+    "t": 366.77
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 374.28
+    "t": 374.2
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 390.73
+    "t": 390.65
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 395.38
+    "t": 395.3
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 397.16
+    "t": 397.08
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 401.54
+    "t": 401.46
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 402.77
+    "t": 402.69
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 405.23
+    "t": 405.15
    }
   ],
   "audio_de": "../../podcast_fondseuropeens_de.mp3",
-  "duration_de": 486.48,
+  "duration_de": 485.8,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -1153,442 +1153,442 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema mag zunächst etwas technisch klingen, aber es betrifft das echte Leben... die Europäischen Fonds.",
-    "t": 27.86
+    "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Ja. Wir hören viel über die Europäische Union.",
-    "t": 35.19
+    "t": 35.21
    },
    {
     "speaker": "Anna",
     "text": "Aber was bedeutet das eigentlich, in der Praxis, hier in Luxemburg?",
-    "t": 38.55
+    "t": 38.57
    },
    {
     "speaker": "Tom",
     "text": "Ein Teil der Antwort ist Geld.",
-    "t": 43.04
+    "t": 43.06
    },
    {
     "speaker": "Tom",
     "text": "Die EU hilft, nützliche Projekte in ihren Mitgliedsländern zu finanzieren.",
-    "t": 45.03
+    "t": 45.05
    },
    {
     "speaker": "Anna",
     "text": "Und in Luxemburg gibt es eine offizielle Website und ein Team, das dies verwaltet... die Europäischen Fonds, oder auf Französisch die „Fonds européens\".",
-    "t": 49.93
+    "t": 49.95
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, woher kommt dieses Geld, und was ist die Idee dahinter?",
-    "t": 59.8
+    "t": 59.82
    },
    {
     "speaker": "Anna",
     "text": "Die Europäische Union hat etwas, das man Kohäsionspolitik nennt.",
-    "t": 63.92
+    "t": 63.94
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, Regionen und Menschen dabei zu helfen, sich gerecht in ganz Europa zu entwickeln.",
-    "t": 67.8
+    "t": 67.82
    },
    {
     "speaker": "Tom",
     "text": "Also reichere und weniger reiche Regionen, große Herausforderungen und kleine... die EU investiert, um allen zu helfen, gemeinsam voranzukommen.",
-    "t": 73.91
+    "t": 73.93
    },
    {
     "speaker": "Anna",
     "text": "Und jedes Mitgliedsland, einschließlich Luxemburg, erhält einen Anteil, den es für vereinbarte Ziele ausgeben kann.",
-    "t": 83.44
+    "t": 83.46
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir über die wichtigsten Fonds, denn jeder hat seinen eigenen Schwerpunkt.",
-    "t": 89.93
+    "t": 89.95
    },
    {
     "speaker": "Anna",
     "text": "Der erste ist der Europäische Fonds für regionale Entwicklung (EFRE/FEDER).",
-    "t": 94.44
+    "t": 94.46
    },
    {
     "speaker": "Anna",
     "text": "Man nennt ihn oft bei seinen französischen Initialen, FEDER.",
-    "t": 100.04
+    "t": 100.06
    },
    {
     "speaker": "Tom",
     "text": "Dieser unterstützt Dinge wie Forschung, Innovation, die digitale Wirtschaft, und den Übergang zu saubererer, kohlenstoffarmer Energie.",
-    "t": 104.04
+    "t": 104.06
    },
    {
     "speaker": "Anna",
     "text": "Für Luxemburg beläuft sich dieser Fonds im aktuellen Zeitraum von 2021 bis 2027 auf etwa einundzwanzig Millionen Euro.",
-    "t": 112.95
+    "t": 112.97
    },
    {
     "speaker": "Anna",
     "text": "Und der nächste Zeitraum, ab 2028, wird auf europäischer Ebene schon vorbereitet.",
-    "t": 122.34
+    "t": 122.36
    },
    {
     "speaker": "Tom",
     "text": "Der zweite ist der Europäische Sozialfonds Plus (ESF+/FSE+).",
-    "t": 127.94
+    "t": 127.96
    },
    {
     "speaker": "Tom",
     "text": "Auf Französisch der FSE Plus.",
-    "t": 134.17
+    "t": 134.19
    },
    {
     "speaker": "Anna",
     "text": "Der Hinweis steckt im Namen... sozial.",
-    "t": 136.8
+    "t": 136.82
    },
    {
     "speaker": "Anna",
     "text": "Bei diesem Fonds geht es um Menschen.",
-    "t": 140.03
+    "t": 140.05
    },
    {
     "speaker": "Anna",
     "text": "Arbeitsplätze, Kompetenzen, Ausbildung, und die Einbeziehung von Menschen, die zurückgelassen werden.",
-    "t": 141.89
+    "t": 141.91
    },
    {
     "speaker": "Tom",
     "text": "Er hilft bei der Beschäftigung und bei der Bekämpfung von Armut und Ausgrenzung.",
-    "t": 148.18
+    "t": 148.2
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt einen dritten Fonds, den man kennen sollte... den Asyl-, Migrations- und Integrationsfonds (AMIF).",
-    "t": 152.92
+    "t": 152.94
    },
    {
     "speaker": "Tom",
     "text": "Dieser unterstützt die Aufnahme und Integration von Menschen, die nach Luxemburg kommen, einschließlich derjenigen, die Asyl suchen.",
-    "t": 160.13
+    "t": 160.15
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch Fonds für die innere Sicherheit und für die Verwaltung der Grenzen.",
-    "t": 167.5
+    "t": 167.52
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt Interreg, das grenzüberschreitende Projekte mit unseren Nachbarn unterstützt... zum Beispiel in der Großregion.",
-    "t": 171.44
+    "t": 171.46
    },
    {
     "speaker": "Tom",
     "text": "Zusammen decken diese Fonds also die Wirtschaft, die Menschen, die Inklusion und die Sicherheit ab.",
-    "t": 178.52
+    "t": 178.54
    },
    {
     "speaker": "Anna",
     "text": "Nun eine wichtige Frage.",
-    "t": 185.2
+    "t": 185.22
    },
    {
     "speaker": "Anna",
     "text": "Wer entscheidet, wie dieses Geld ausgegeben wird, und wer sorgt dafür, dass alles ehrlich zugeht?",
-    "t": 186.8
+    "t": 186.82
    },
    {
     "speaker": "Tom",
     "text": "Für jeden Fonds gibt es eine sogenannte Verwaltungsbehörde.",
-    "t": 192.31
+    "t": 192.33
    },
    {
     "speaker": "Anna",
     "text": "Eine Verwaltungsbehörde ist die offizielle Stelle, die dafür verantwortlich ist, das Programm ordnungsgemäß durchzuführen.",
-    "t": 195.63
+    "t": 195.65
    },
    {
     "speaker": "Tom",
     "text": "Sie wählt aus, welche Projekte unterstützt werden, sie verwaltet das Geld sorgfältig, und sie überprüft die Ergebnisse.",
-    "t": 202.7
+    "t": 202.72
    },
    {
     "speaker": "Anna",
     "text": "Die Regel, die sie leitet, ist die „wirtschaftliche Haushaltsführung\".",
-    "t": 209.93
+    "t": 209.95
    },
    {
     "speaker": "Anna",
     "text": "Mit einfachen Worten... öffentliche Gelder klug und transparent ausgeben.",
-    "t": 213.59
+    "t": 213.61
    },
    {
     "speaker": "Tom",
     "text": "Verschiedene Ministerien übernehmen diese Rolle, je nach Fonds.",
-    "t": 218.31
+    "t": 218.33
    },
    {
     "speaker": "Anna",
     "text": "Zum Beispiel wird der Fonds für Asyl und Migration vom Ministerium verwaltet, das für Familie, Solidarität und die Aufnahme von Menschen zuständig ist.",
-    "t": 222.07
+    "t": 222.09
    },
    {
     "speaker": "Tom",
     "text": "Das Geld wird also nicht einfach ausgeteilt.",
-    "t": 230.79
+    "t": 230.81
    },
    {
     "speaker": "Tom",
     "text": "Es wird geplant, verwaltet und es wird Rechenschaft darüber abgelegt.",
-    "t": 233.4
+    "t": 233.42
    },
    {
     "speaker": "Anna",
     "text": "Machen wir das konkret.",
-    "t": 237.78
+    "t": 237.8
    },
    {
     "speaker": "Anna",
     "text": "Was bezahlt das europäische Geld eigentlich, das eine normale Person bemerken könnte?",
-    "t": 239.31
+    "t": 239.33
    },
    {
     "speaker": "Tom",
     "text": "Denken Sie an ein Ausbildungsprogramm, das Arbeitslosen hilft, neue Kompetenzen zu erwerben.",
-    "t": 244.43
+    "t": 244.45
    },
    {
     "speaker": "Anna",
     "text": "Oder an ein Projekt, das einem Unternehmen hilft, innovativ zu sein und gute Arbeitsplätze zu schaffen.",
-    "t": 249.97
+    "t": 249.99
    },
    {
     "speaker": "Tom",
     "text": "Oder an eine Unterstützung, die Neuankömmlingen hilft, die Sprache zu lernen und sich zurechtzufinden.",
-    "t": 256
+    "t": 256.02
    },
    {
     "speaker": "Anna",
     "text": "Oder an Investitionen in sauberere Energie und eine grünere Wirtschaft.",
-    "t": 262.16
+    "t": 262.18
    },
    {
     "speaker": "Tom",
     "text": "Diese Projekte werden oft von lokalen Organisationen durchgeführt... Vereinen, Unternehmen, öffentlichen Einrichtungen.",
-    "t": 267.2
+    "t": 267.22
    },
    {
     "speaker": "Anna",
     "text": "Und die Europäischen Fonds helfen, sie zu finanzieren, zusammen mit nationalen Geldern.",
-    "t": 274.64
+    "t": 274.66
    },
    {
     "speaker": "Anna",
     "text": "Das nennt man Kofinanzierung.",
-    "t": 279.63
+    "t": 279.65
    },
    {
     "speaker": "Tom",
     "text": "Die EU bezahlt also selten alles.",
-    "t": 281.79
+    "t": 281.81
    },
    {
     "speaker": "Tom",
     "text": "Sie schließt sich mit Luxemburg zusammen, um ein Projekt möglich zu machen.",
-    "t": 284.42
+    "t": 284.44
    },
    {
     "speaker": "Anna",
     "text": "Nun fragen Sie sich vielleicht... könnte ich, oder eine Organisation, die ich kenne, diese Fonds nutzen?",
-    "t": 288.47
+    "t": 288.49
    },
    {
     "speaker": "Tom",
     "text": "Möglicherweise, ja. Die Website der Europäischen Fonds erklärt die Ziele, die Projektaufrufe, und wie man einen Antrag stellt.",
-    "t": 295.35
+    "t": 295.37
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie einen Verein, ein Unternehmen oder ein öffentliches Projekt leiten, das zu den Zielen passt, können Sie herausfinden, wie Sie teilnehmen können.",
-    "t": 304.03
+    "t": 304.05
    },
    {
     "speaker": "Tom",
     "text": "Die Website zeigt auch Beispiele von Projekten, die bereits finanziert wurden, was inspirierend ist.",
-    "t": 312.03
+    "t": 312.05
    },
    {
     "speaker": "Anna",
     "text": "Das ist also keine geschlossene Welt nur für Experten.",
-    "t": 317.91
+    "t": 317.93
    },
    {
     "speaker": "Anna",
     "text": "Sie ist offen, und sie wird erklärt.",
-    "t": 321.13
+    "t": 321.15
    },
    {
     "speaker": "Tom",
     "text": "Sagen wir auch, warum das für gewöhnliche Bürger wichtig ist, selbst für diejenigen, die nie einen Antrag stellen.",
-    "t": 323.75
+    "t": 323.77
    },
    {
     "speaker": "Anna",
     "text": "Weil dies auch Ihr Geld ist, als Europäer, das wieder in Ihre Gemeinschaft investiert wird.",
-    "t": 330.34
+    "t": 330.36
    },
    {
     "speaker": "Tom",
     "text": "Und weil Transparenz wichtig ist.",
-    "t": 335.73
+    "t": 335.75
    },
    {
     "speaker": "Tom",
     "text": "Sie können sehen, wohin es geht, und was es bewirkt.",
-    "t": 338
+    "t": 338.02
    },
    {
     "speaker": "Anna",
     "text": "Es ist ein stilles, aber echtes Beispiel europäischer Solidarität, das in echten Projekten, in echten Städten, ankommt.",
-    "t": 341.24
+    "t": 341.26
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom... machen wir es praktisch.",
-    "t": 348.55
+    "text": "Also Anna, machen wir es praktisch.",
+    "t": 348.57
    },
    {
     "speaker": "Tom",
     "text": "Was kann jemand damit anfangen?",
-    "t": 351.38
+    "t": 350.65
    },
    {
     "speaker": "Anna",
     "text": "Erstens... wenn Sie eine Organisation oder ein Projekt leiten, schauen Sie auf der Website der Europäischen Fonds nach, ob Ihre Idee passt.",
-    "t": 353.21
+    "t": 352.51
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... sehen Sie sich die finanzierten Projekte an, um zu verstehen, welche Arten von Ideen unterstützt werden.",
-    "t": 361.72
+    "t": 361.02
    },
    {
     "speaker": "Anna",
     "text": "Drittens... erinnern Sie sich an die wichtigsten Fonds... den Fonds für regionale Entwicklung für die Wirtschaft, und den Sozialfonds für die Menschen und die Arbeitsplätze.",
-    "t": 368.89
+    "t": 368.19
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... wissen Sie, dass dieses Geld sorgfältig verwaltet wird, von offiziellen Behörden, mit klaren Zielen.",
-    "t": 379.07
+    "t": 378.37
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir alles zusammen.",
-    "t": 386.62
+    "t": 385.92
    },
    {
     "speaker": "Anna",
     "text": "Was sollten sich die Menschen über die Europäischen Fonds merken?",
-    "t": 388.42
+    "t": 387.72
    },
    {
     "speaker": "Tom",
     "text": "Erstens... die EU investiert über ihre Kohäsionspolitik in die Mitgliedsländer, und Luxemburg erhält einen Anteil.",
-    "t": 392.08
+    "t": 391.38
    },
    {
     "speaker": "Anna",
     "text": "Zweitens... die wichtigsten Fonds unterstützen die Wirtschaft und Innovation, die Menschen und Arbeitsplätze, und die Integration.",
-    "t": 400.53
+    "t": 399.83
    },
    {
     "speaker": "Tom",
     "text": "Drittens... die Verwaltungsbehörden wählen die Projekte aus und überwachen sie, indem sie öffentliche Gelder klug ausgeben.",
-    "t": 408.67
+    "t": 407.97
    },
    {
     "speaker": "Anna",
     "text": "Und viertens... Organisationen können einen Antrag stellen, und jeder kann die Projekte auf der Website der Europäischen Fonds sehen.",
-    "t": 415.81
+    "t": 415.11
    },
    {
     "speaker": "Tom",
     "text": "Europa kann sich fern und abstrakt anfühlen.",
-    "t": 423.91
+    "t": 423.21
    },
    {
     "speaker": "Tom",
     "text": "Aber manchmal sieht es aus wie ein Ausbildungskurs, oder ein neuer Arbeitsplatz, gleich nebenan.",
-    "t": 426.77
+    "t": 426.07
    },
    {
     "speaker": "Anna",
     "text": "Und das zu verstehen, hilft uns, den Wert hinter den Schlagzeilen zu sehen.",
-    "t": 432.32
+    "t": 431.62
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die europäischen Fonds in Luxemburg.",
-    "t": 436.7
+    "t": 436
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 440.49
+    "t": 439.79
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 449.42
+    "t": 448.72
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 467.75
+    "t": 467.05
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 473.45
+    "t": 472.75
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 475.7
+    "t": 475
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 480.59
+    "t": 479.89
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 481.74
+    "t": 481.04
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 484.95
+    "t": 484.25
    }
   ],
   "segments_lb": [
@@ -1829,73 +1829,73 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom... loosst eis dat praktesch maachen. Wat kann een domat ufänken?",
+    "text": "Also Anna, loosst eis dat praktesch maachen. Wat kann een domat ufänken?",
     "t": 295.54
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... wann Dir eng Organisatioun oder e Projet féiert, kuckt op der Websäit vun den Europäesche Fongen no, ob Är Iddi passt.",
-    "t": 299.39
+    "t": 298.95
    },
    {
     "speaker": "Tom",
     "text": "Als zweet... kuckt Iech déi finanzéiert Projeten un, fir ze verstoen, wéi eng Aart vun Iddien ënnerstëtzt ginn.",
-    "t": 306.52
+    "t": 306.08
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt... erënnert Iech un déi wichtegst Fongen... de Fong fir regional Entwécklung fir d'Wirtschaft, an de Sozialfong fir d'Leit an d'Aarbechtsplazen.",
-    "t": 311.61
+    "t": 311.17
    },
    {
     "speaker": "Tom",
     "text": "A véiertens... wësst, datt dës Suen suergfälteg verwalt gëtt, vun offizielle Behörden, mat kloren Ziler.",
-    "t": 319.49
+    "t": 319.05
    },
    {
     "speaker": "Anna",
     "text": "Loosst eis alles zesummefaassen. Wat sollten d'Leit sech iwwert d'Europäesch Fongen erënneren?",
-    "t": 325.64
+    "t": 325.2
    },
    {
     "speaker": "Tom",
     "text": "Als éischt... d'EU investéiert iwwert hir Kohäsiounspolitik an d'Memberlänner, a Lëtzebuerg kritt en Deel.",
-    "t": 330.39
+    "t": 329.95
    },
    {
     "speaker": "Anna",
     "text": "Als zweet... déi wichtegst Fongen ënnerstëtzen d'Wirtschaft an d'Innovatioun, d'Leit an d'Aarbechtsplazen, an d'Integratioun.",
-    "t": 336.57
+    "t": 336.13
    },
    {
     "speaker": "Tom",
     "text": "Als drëtt... d'Verwaltungsbehörde wielen d'Projeten aus an iwwerwaachen se, andeems se ëffentlech Suen klug ausginn.",
-    "t": 343.27
+    "t": 342.83
    },
    {
     "speaker": "Anna",
     "text": "A véiertens... Organisatioune kënnen eng Demande maachen, an all Mënsch kann d'Projeten op der Websäit vun den Europäesche Fongen gesinn.",
-    "t": 348.63
+    "t": 348.19
    },
    {
     "speaker": "Tom",
     "text": "Europa kann sech wäit ewech an abstrakt undauchen. Mä heiansdo gesäit et aus ewéi en Ausbildungscours, oder eng nei Aarbechtsplaz, direkt niewendrun.",
-    "t": 355.51
+    "t": 355.07
    },
    {
     "speaker": "Anna",
     "text": "An dat ze verstoen, hëlleft eis, de Wäert hannert den Iwwerschrëften ze gesinn. Dat war eis Episod iwwer d'europäesch Fongen zu Lëtzebuerg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 362.49
+    "t": 362.05
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 410.81
+    "t": 410.37
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 414.01
+    "t": 413.58
    }
   ]
  }

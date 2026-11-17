@@ -47,7 +47,7 @@
 **ANNA:** There's also a role for citizens. Big plans often go through public consultation.
 **TOM:** So you can inform yourself, and sometimes give your view, when a plan affects your area.
 **ANNA:** The portal publishes the plans, the strategy, and the news, openly.
-**TOM:** So Tom, let's make it practical. What can people take from this?
+**TOM:** So Anna, let's make it practical. What can people take from this?
 **ANNA:** First, when you hear about a new housing zone, a transport plan, or a protected area, you'll understand the bigger picture.
 **TOM:** Second, if a plan touches your commune, watch for public consultations and have your say.
 **ANNA:** Third, remember that the goal is balance... homes, jobs, transport and nature, all living together.

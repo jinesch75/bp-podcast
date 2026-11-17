@@ -69,7 +69,7 @@
 **ANNA:** Comme avoir des détecteurs de fumée qui fonctionnent, connaître ses issues, et faire attention avec les bougies et la cuisine.
 **TOM:** Et si vous organisez un grand événement public, vous devrez peut-être le déclarer, afin que les services de secours puissent prévoir une couverture médicale.
 **ANNA:** Ainsi, le corps de secours est là avant, pendant et après une urgence. Prévenir, intervenir, et prendre soin.
-**TOM:** Alors Tom... rendons cela vraiment concret. Que devrait retenir chacun ?
+**TOM:** Alors Anna, rendons cela vraiment concret. Que devrait retenir chacun ?
 **ANNA:** D'abord, et le plus important... en cas d'urgence au Luxembourg, appelez le 1-1-2.
 **TOM:** Deuxièmement, apprenez-le à vos enfants, et à toute personne nouvelle dans le pays. Un-un-deux.
 **ANNA:** Troisièmement, quand vous appelez, donnez clairement votre localisation, dites ce qui s'est passé, et restez en ligne.

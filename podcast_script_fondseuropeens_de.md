@@ -53,7 +53,7 @@
 **ANNA:** Weil dies auch Ihr Geld ist, als Europäer, das wieder in Ihre Gemeinschaft investiert wird.
 **TOM:** Und weil Transparenz wichtig ist. Sie können sehen, wohin es geht, und was es bewirkt.
 **ANNA:** Es ist ein stilles, aber echtes Beispiel europäischer Solidarität, das in echten Projekten, in echten Städten, ankommt.
-**TOM:** Also Tom... machen wir es praktisch. Was kann jemand damit anfangen?
+**TOM:** Also Anna, machen wir es praktisch. Was kann jemand damit anfangen?
 **ANNA:** Erstens... wenn Sie eine Organisation oder ein Projekt leiten, schauen Sie auf der Website der Europäischen Fonds nach, ob Ihre Idee passt.
 **TOM:** Zweitens... sehen Sie sich die finanzierten Projekte an, um zu verstehen, welche Arten von Ideen unterstützt werden.
 **ANNA:** Drittens... erinnern Sie sich an die wichtigsten Fonds... den Fonds für regionale Entwicklung für die Wirtschaft, und den Sozialfonds für die Menschen und die Arbeitsplätze.

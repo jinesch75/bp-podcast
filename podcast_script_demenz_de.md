@@ -14,7 +14,7 @@
 **TOM:** Und das kann beängstigend und einsam sein, sowohl für die betroffene Person als auch für die, die sie lieben.
 **ANNA:** Aber niemand muss dem allein gegenüberstehen. Luxemburg hat ein nationales Zentrum, das sich genau darum kümmert.
 **TOM:** Es heißt Info-Zenter Demenz... das Informationszentrum für Demenz.
-**ANNA:** Also Anna, was ist der Info-Zenter Demenz?
+**ANNA:** Also Tom, was ist der Info-Zenter Demenz?
 **TOM:** Es ist das nationale Zentrum für Information und Beratung zu Gedächtnisproblemen und Demenz.
 **ANNA:** Es ist für alle da, die davon berührt sind... die betroffene Person, ihre Angehörigen, das medizinische Fachpersonal, und jeden, der Fragen hat.
 **TOM:** Und hier ist etwas wirklich Wichtiges. All seine Beratung und seine Unterlagen sind kostenlos.

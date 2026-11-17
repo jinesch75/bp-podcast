@@ -69,7 +69,7 @@
 **ANNA:** Wie funktionierende Rauchmelder zu haben, seine Ausgänge zu kennen und vorsichtig mit Kerzen und beim Kochen zu sein.
 **TOM:** Und wenn Sie eine große öffentliche Veranstaltung organisieren, müssen Sie diese möglicherweise anmelden, damit die Rettungsdienste eine medizinische Absicherung planen können.
 **ANNA:** So ist das Rettungskorps vor, während und nach einem Notfall da. Vorbeugen, eingreifen und sich kümmern.
-**TOM:** Also Tom... machen wir das ganz praktisch. Was sollte jeder mitnehmen?
+**TOM:** Also Anna, machen wir das ganz praktisch. Was sollte jeder mitnehmen?
 **ANNA:** Erstens, und am wichtigsten... rufen Sie bei jedem Notfall in Luxemburg die 1-1-2 an.
 **TOM:** Zweitens: Bringen Sie es Ihren Kindern bei, und jedem, der neu im Land ist. Eins-eins-zwei.
 **ANNA:** Drittens: Wenn Sie anrufen, geben Sie Ihren Standort klar an, sagen Sie, was passiert ist, und bleiben Sie in der Leitung.

@@ -53,7 +53,7 @@
 **ANNA:** Well dat och Är Suen ass, als Europäer, déi zréck an Är Gemeinschaft investéiert gëtt.
 **TOM:** A well d'Transparenz wichteg ass. Dir kënnt gesinn, wou se higeet, a wat se bewierkt.
 **ANNA:** Et ass e roueg mä richtegt Beispill vun europäescher Solidaritéit, dat an echte Projeten, an echte Stied, ukomm.
-**TOM:** Also Tom... loosst eis dat praktesch maachen. Wat kann een domat ufänken?
+**TOM:** Also Anna, loosst eis dat praktesch maachen. Wat kann een domat ufänken?
 **ANNA:** Als éischt... wann Dir eng Organisatioun oder e Projet féiert, kuckt op der Websäit vun den Europäesche Fongen no, ob Är Iddi passt.
 **TOM:** Als zweet... kuckt Iech déi finanzéiert Projeten un, fir ze verstoen, wéi eng Aart vun Iddien ënnerstëtzt ginn.
 **ANNA:** Als drëtt... erënnert Iech un déi wichtegst Fongen... de Fong fir regional Entwécklung fir d'Wirtschaft, an de Sozialfong fir d'Leit an d'Aarbechtsplazen.

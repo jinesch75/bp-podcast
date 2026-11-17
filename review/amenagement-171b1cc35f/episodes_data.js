@@ -6,7 +6,7 @@ const EPISODES = [
   "title": "Spatial Planning – How Luxembourg Plans the Use of Its Land",
   "description": "What spatial planning ('aménagement du territoire') is, how the State and communes plan Luxembourg's limited land for the long term — balancing housing, transport, the economy and nature — through the national master programme and sectoral plans, working across regions and borders, and how citizens can follow and take part.",
   "audio": "../../podcast_amenagement.mp3",
-  "duration": 348.03,
+  "duration": 347.92,
   "topics": [
    "What spatial planning is",
    "Balancing land for everyone",
@@ -280,118 +280,118 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "So Tom, let's make it practical.",
+    "text": "So Anna, let's make it practical.",
     "t": 236.98
    },
    {
     "speaker": "Tom",
     "text": "What can people take from this?",
-    "t": 239.01
+    "t": 239.11
    },
    {
     "speaker": "Anna",
     "text": "First, when you hear about a new housing zone, a transport plan, or a protected area, you'll understand the bigger picture.",
-    "t": 240.9
+    "t": 240.79
    },
    {
     "speaker": "Tom",
     "text": "Second, if a plan touches your commune, watch for public consultations and have your say.",
-    "t": 248.79
+    "t": 248.68
    },
    {
     "speaker": "Anna",
     "text": "Third, remember that the goal is balance... homes, jobs, transport and nature, all living together.",
-    "t": 254.2
+    "t": 254.09
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it together.",
-    "t": 261.88
+    "t": 261.77
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about spatial planning?",
-    "t": 263.1
+    "t": 262.99
    },
    {
     "speaker": "Anna",
     "text": "First... it's how the State and communes plan the use of Luxembourg's limited land, for the long term.",
-    "t": 266.02
+    "t": 265.91
    },
    {
     "speaker": "Tom",
     "text": "Second... it uses a national strategy and sectoral plans for transport, housing, economy and landscapes.",
-    "t": 272.33
+    "t": 272.22
    },
    {
     "speaker": "Anna",
     "text": "Third... it works across regions and across borders, because life here does too.",
-    "t": 279.35
+    "t": 279.24
    },
    {
     "speaker": "Tom",
     "text": "And fourth... it shapes your daily surroundings, so it's worth following and taking part in.",
-    "t": 284.33
+    "t": 284.22
    },
    {
     "speaker": "Anna",
     "text": "The country we pass on is not an accident.",
-    "t": 289.56
+    "t": 289.45
    },
    {
     "speaker": "Anna",
     "text": "It's the sum of countless careful choices about land.",
-    "t": 292.36
+    "t": 292.25
    },
    {
     "speaker": "Tom",
     "text": "And good planning is how we make those choices wisely, together.",
-    "t": 296.05
+    "t": 295.94
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about spatial planning.",
-    "t": 299.62
+    "t": 299.51
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 302.03
+    "t": 301.92
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 311.31
+    "t": 311.2
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 329.59
+    "t": 329.48
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 336.34
+    "t": 336.23
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 338.54
+    "t": 338.43
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 343.23
+    "t": 343.12
    },
    {
     "speaker": "Tom",
     "text": "Take care... and see you next time!",
-    "t": 344.31
+    "t": 344.21
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 346.43
+    "t": 346.33
    }
   ],
   "questions": [
@@ -593,7 +593,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "../../podcast_amenagement_fr.mp3",
-  "duration_fr": 351.14,
+  "duration_fr": 351.35,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -613,366 +613,366 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
     "text": "Et le sujet d'aujourd'hui façonne le pays que vous voyez autour de vous chaque jour... le sol.",
-    "t": 23.07
+    "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "Là où l'on construit de nouveaux logements, où passent les routes et les trams, où la nature est protégée, où les entreprises peuvent s'installer.",
-    "t": 28.27
+    "t": 28.33
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg est un petit pays.",
-    "t": 35.01
+    "t": 35.07
    },
    {
     "speaker": "Tom",
     "text": "Le sol est précieux, et il y en a une quantité limitée.",
-    "t": 36.95
+    "t": 37.01
    },
    {
     "speaker": "Anna",
     "text": "Alors comment décide-t-on de ce qui va où, de manière équitable, pour tout le monde, et pour l'avenir ?",
-    "t": 40.45
+    "t": 40.51
    },
    {
     "speaker": "Tom",
     "text": "Cet exercice d'équilibre minutieux porte un nom... l'aménagement du territoire.",
-    "t": 45.4
+    "t": 45.46
    },
    {
     "speaker": "Tom",
     "text": "En français, « l'aménagement du territoire ».",
-    "t": 50.26
+    "t": 50.32
    },
    {
     "speaker": "Anna",
     "text": "Et il existe un portail officiel à ce sujet, ainsi qu'un département de l'État qui le pilote.",
-    "t": 52.98
+    "t": 53.04
    },
    {
     "speaker": "Tom",
     "text": "Alors Anna, qu'est-ce que l'aménagement du territoire au juste ?",
-    "t": 57.56
+    "t": 57.62
    },
    {
     "speaker": "Anna",
     "text": "C'est l'ensemble des actions menées par l'État et les communes pour développer le territoire national, de manière réfléchie.",
-    "t": 60.81
+    "t": 60.87
    },
    {
     "speaker": "Tom",
     "text": "Tout en protégeant les paysages, en utilisant le sol de façon rationnelle, et en coordonnant tous les différents besoins en terrain.",
-    "t": 66.4
+    "t": 66.46
    },
    {
     "speaker": "Anna",
     "text": "Le logement a besoin de sol.",
-    "t": 73.48
+    "t": 73.54
    },
    {
     "speaker": "Anna",
     "text": "Les transports ont besoin de sol.",
-    "t": 75.22
+    "t": 75.28
    },
    {
     "speaker": "Anna",
     "text": "L'économie a besoin de sol.",
-    "t": 77.13
+    "t": 77.19
    },
    {
     "speaker": "Anna",
     "text": "La nature aussi a besoin d'espace.",
-    "t": 78.87
+    "t": 78.93
    },
    {
     "speaker": "Tom",
     "text": "Et sans planification, ces besoins entreraient en conflit, et le pays se développerait de manière désordonnée et néfaste.",
-    "t": 81
+    "t": 81.06
    },
    {
     "speaker": "Anna",
     "text": "L'aménagement du territoire est donc comme un arbitre, et un architecte, pour tout le pays.",
-    "t": 88.4
+    "t": 88.46
    },
    {
     "speaker": "Tom",
     "text": "Il est piloté par le Département de l'aménagement du territoire, qui fait partie du Ministère du Logement et de l'Aménagement du territoire.",
-    "t": 92.77
+    "t": 92.83
    },
    {
     "speaker": "Anna",
     "text": "Regardons les principaux outils, car ils sont plus faciles à saisir que leur nom ne le laisse penser.",
-    "t": 100.05
+    "t": 100.11
    },
    {
     "speaker": "Tom",
     "text": "Le premier est le programme directeur, une grande vision stratégique de la façon dont l'ensemble du pays devrait se développer.",
-    "t": 104.96
+    "t": 105.02
    },
    {
     "speaker": "Tom",
     "text": "L'actuel a été adopté en 2023, et regarde jusqu'en 2035.",
-    "t": 111.27
+    "t": 111.33
    },
    {
     "speaker": "Anna",
     "text": "Il fixe le cap... des villes plus compactes, une nature protégée, de bons transports, des régions équilibrées.",
-    "t": 115.88
+    "t": 115.94
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième outil est un ensemble de plans directeurs sectoriels.",
-    "t": 122.34
+    "t": 122.4
    },
    {
     "speaker": "Anna",
     "text": "Ceux-ci sont plus concrets.",
-    "t": 126.31
+    "t": 126.37
    },
    {
     "speaker": "Anna",
     "text": "Il y a des plans pour les transports, pour le logement, pour les zones d'activités économiques, et pour les paysages.",
-    "t": 127.78
+    "t": 127.84
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, un plan logement réserve des terrains où les nouveaux logements devraient être concentrés.",
-    "t": 133.25
+    "t": 133.31
    },
    {
     "speaker": "Anna",
     "text": "Et un plan paysage protège les espaces verts contre la construction.",
-    "t": 138.74
+    "t": 138.8
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, ces plans décident, de manière coordonnée, à quoi le sol est destiné.",
-    "t": 142.13
+    "t": 142.19
    },
    {
     "speaker": "Anna",
     "text": "Il y a ici une idée importante... construire là où cela a du sens.",
-    "t": 146.86
+    "t": 146.92
    },
    {
     "speaker": "Tom",
     "text": "Oui. Concentrer les logements et les activités près des transports et des services, au lieu de s'étaler partout.",
-    "t": 150.79
+    "t": 150.85
    },
    {
     "speaker": "Anna",
     "text": "Cela protège la campagne, réduit le trafic, et facilite la vie quotidienne.",
-    "t": 156.6
+    "t": 156.66
    },
    {
     "speaker": "Tom",
     "text": "L'aménagement du territoire pense aussi en termes de régions, pas seulement du pays tout entier.",
-    "t": 160.67
+    "t": 160.73
    },
    {
     "speaker": "Anna",
     "text": "Différentes régions ont des atouts et des besoins différents... le sud, le centre, le nord, l'est.",
-    "t": 166.07
+    "t": 166.13
    },
    {
     "speaker": "Tom",
     "text": "Il y a des projets urbains, et même des parcs naturels, qui protègent de belles régions tout en les maintenant vivantes.",
-    "t": 171.98
+    "t": 172.04
    },
    {
     "speaker": "Anna",
     "text": "Et parce que le Luxembourg est petit et central, la planification ne s'arrête pas à la frontière.",
-    "t": 178.12
+    "t": 178.18
    },
    {
     "speaker": "Tom",
     "text": "En effet. Une grande partie de la vie ici traverse les frontières... le travail, les transports, la pression sur le logement.",
-    "t": 183.42
+    "t": 183.48
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg planifie donc avec ses voisins, dans la Grande Région, et à travers des programmes européens.",
-    "t": 190.97
+    "t": 191.03
    },
    {
     "speaker": "Tom",
     "text": "Parce qu'une ligne de tram, une forêt ou une rivière ne se soucie pas d'une frontière sur une carte.",
-    "t": 196.08
+    "t": 196.14
    },
    {
     "speaker": "Anna",
     "text": "Posons la question essentielle... pourquoi un résident ordinaire devrait-il se soucier de tout cela ?",
-    "t": 201.91
+    "t": 201.97
    },
    {
     "speaker": "Tom",
     "text": "D'abord, parce que cela façonne votre vie quotidienne... vos trajets, vos espaces verts, le fait que des logements soient construits ou non près de chez vous.",
-    "t": 207.14
+    "t": 207.2
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, parce que cela protège ce que nous aimons... les paysages, la nature, le caractère de nos villes et villages.",
-    "t": 215.51
+    "t": 215.57
    },
    {
     "speaker": "Tom",
     "text": "Et enfin, parce qu'il s'agit d'équité entre les générations... laisser un pays vivable à nos enfants.",
-    "t": 221.51
+    "t": 221.57
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi un rôle pour les citoyens.",
-    "t": 227.04
+    "t": 227.1
    },
    {
     "speaker": "Anna",
     "text": "Les grands plans passent souvent par une consultation publique.",
-    "t": 229.04
+    "t": 229.1
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez donc vous informer, et parfois donner votre avis, lorsqu'un plan concerne votre région.",
-    "t": 232.18
+    "t": 232.24
    },
    {
     "speaker": "Anna",
     "text": "Le portail publie les plans, la stratégie et les actualités, de manière ouverte.",
-    "t": 237.38
+    "t": 237.44
    },
    {
     "speaker": "Tom",
-    "text": "Alors Tom, rendons cela concret.",
-    "t": 241.71
+    "text": "Alors Anna, rendons cela concret.",
+    "t": 241.77
    },
    {
     "speaker": "Tom",
     "text": "Que peut-on retenir de tout cela ?",
-    "t": 243.91
+    "t": 244.07
    },
    {
     "speaker": "Anna",
     "text": "D'abord, quand vous entendrez parler d'une nouvelle zone de logement, d'un plan de transport ou d'une zone protégée, vous comprendrez la vue d'ensemble.",
-    "t": 245.85
+    "t": 246.05
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, si un plan touche votre commune, soyez attentif aux consultations publiques et faites entendre votre voix.",
-    "t": 252.77
+    "t": 252.97
    },
    {
     "speaker": "Anna",
     "text": "Enfin, souvenez-vous que l'objectif est l'équilibre... les logements, les emplois, les transports et la nature, vivant tous ensemble.",
-    "t": 259.76
+    "t": 259.96
    },
    {
     "speaker": "Tom",
     "text": "Faisons la synthèse.",
-    "t": 266.29
+    "t": 266.49
    },
    {
     "speaker": "Tom",
     "text": "Que faut-il retenir de l'aménagement du territoire ?",
-    "t": 267.71
+    "t": 267.91
    },
    {
     "speaker": "Anna",
     "text": "Premièrement... c'est la façon dont l'État et les communes planifient l'utilisation du sol limité du Luxembourg, sur le long terme.",
-    "t": 270.57
+    "t": 270.77
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement... il s'appuie sur une stratégie nationale et des plans sectoriels pour les transports, le logement, l'économie et les paysages.",
-    "t": 276.91
+    "t": 277.11
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement... il fonctionne à travers les régions et au-delà des frontières, parce que la vie ici fait de même.",
-    "t": 285.05
+    "t": 285.25
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement... il façonne votre cadre de vie quotidien, alors il vaut la peine de le suivre et d'y participer.",
-    "t": 290.3
+    "t": 290.5
    },
    {
     "speaker": "Anna",
     "text": "Le pays que nous transmettons n'est pas le fruit du hasard.",
-    "t": 297.02
+    "t": 297.22
    },
    {
     "speaker": "Anna",
     "text": "C'est la somme d'innombrables choix réfléchis sur le sol.",
-    "t": 299.95
+    "t": 300.15
    },
    {
     "speaker": "Tom",
     "text": "Et une bonne planification, c'est la façon dont nous faisons ces choix avec sagesse, ensemble.",
-    "t": 302.92
+    "t": 303.12
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'aménagement du territoire.",
-    "t": 308.14
+    "t": 308.34
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 310.83
+    "t": 311.03
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 318.42
+    "t": 318.62
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 334.87
+    "t": 335.07
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 339.52
+    "t": 339.72
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 341.3
+    "t": 341.5
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 345.68
+    "t": 345.88
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 346.91
+    "t": 347.11
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 349.37
+    "t": 349.57
    }
   ],
   "audio_de": "../../podcast_amenagement_de.mp3",
-  "duration_de": 393.25,
+  "duration_de": 393.06,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -992,362 +992,362 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
     "text": "Und das heutige Thema prägt das Land, das Sie jeden Tag um sich herum sehen... den Boden.",
-    "t": 27.86
+    "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Wo neue Wohnungen gebaut werden, wo Straßen und Straßenbahnen verlaufen, wo die Natur geschützt wird, wo sich Unternehmen ansiedeln können.",
-    "t": 33.11
+    "t": 33.13
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg ist ein kleines Land.",
-    "t": 41.79
+    "t": 41.81
    },
    {
     "speaker": "Tom",
     "text": "Boden ist kostbar, und es gibt nur begrenzt davon.",
-    "t": 43.82
+    "t": 43.84
    },
    {
     "speaker": "Anna",
     "text": "Wie entscheidet man also, was wohin kommt, gerecht, für alle, und für die Zukunft?",
-    "t": 46.81
+    "t": 46.83
    },
    {
     "speaker": "Tom",
     "text": "Dieser sorgfältige Balanceakt hat einen Namen... Raumordnung.",
-    "t": 52.49
+    "t": 52.51
    },
    {
     "speaker": "Tom",
     "text": "Auf Französisch „l'aménagement du territoire\".",
-    "t": 56.52
+    "t": 56.54
    },
    {
     "speaker": "Anna",
     "text": "Und dafür gibt es ein offizielles Portal, sowie eine Abteilung des Staates, die es leitet.",
-    "t": 59.81
+    "t": 59.83
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, was genau ist Raumordnung?",
-    "t": 65.14
+    "t": 65.16
    },
    {
     "speaker": "Anna",
     "text": "Es ist die Gesamtheit der Maßnahmen, die der Staat und die Gemeinden ergreifen, um das nationale Gebiet klug zu entwickeln.",
-    "t": 67.23
+    "t": 67.25
    },
    {
     "speaker": "Tom",
     "text": "Und das, während man die Landschaften schützt, den Boden rational nutzt und all die verschiedenen Bedürfnisse nach Fläche aufeinander abstimmt.",
-    "t": 74.2
+    "t": 74.22
    },
    {
     "speaker": "Anna",
     "text": "Wohnen braucht Boden.",
-    "t": 82.38
+    "t": 82.4
    },
    {
     "speaker": "Anna",
     "text": "Verkehr braucht Boden.",
-    "t": 84
+    "t": 84.02
    },
    {
     "speaker": "Anna",
     "text": "Die Wirtschaft braucht Boden.",
-    "t": 85.73
+    "t": 85.75
    },
    {
     "speaker": "Anna",
     "text": "Auch die Natur braucht Raum.",
-    "t": 87.56
+    "t": 87.58
    },
    {
     "speaker": "Tom",
     "text": "Und ohne Planung würden diese Bedürfnisse aufeinanderprallen, und das Land würde auf chaotische, schädliche Weise wachsen.",
-    "t": 89.5
+    "t": 89.52
    },
    {
     "speaker": "Anna",
     "text": "Raumordnung ist also wie ein Schiedsrichter und ein Architekt für das ganze Land.",
-    "t": 96.51
+    "t": 96.53
    },
    {
     "speaker": "Tom",
     "text": "Sie wird von der Abteilung für Landesplanung geleitet, die zum Ministerium für Wohnungsbau und Landesplanung gehört.",
-    "t": 101.05
+    "t": 101.07
    },
    {
     "speaker": "Anna",
     "text": "Schauen wir uns die wichtigsten Instrumente an, denn sie sind leichter zu verstehen, als ihr Name vermuten lässt.",
-    "t": 107.85
+    "t": 107.87
    },
    {
     "speaker": "Tom",
     "text": "Das erste ist das Leitprogramm, eine große strategische Vision dafür, wie sich das ganze Land entwickeln soll.",
-    "t": 113.81
+    "t": 113.83
    },
    {
     "speaker": "Tom",
     "text": "Das aktuelle wurde 2023 verabschiedet und blickt bis 2035.",
-    "t": 120.33
+    "t": 120.35
    },
    {
     "speaker": "Anna",
     "text": "Es gibt die Richtung vor... kompaktere Städte, geschützte Natur, guter Verkehr, ausgewogene Regionen.",
-    "t": 126.17
+    "t": 126.19
    },
    {
     "speaker": "Tom",
     "text": "Das zweite Instrument ist eine Reihe sektoraler Leitpläne.",
-    "t": 133.95
+    "t": 133.97
    },
    {
     "speaker": "Anna",
     "text": "Diese sind konkreter.",
-    "t": 137.72
+    "t": 137.74
    },
    {
     "speaker": "Anna",
     "text": "Es gibt Pläne für den Verkehr, für das Wohnen, für wirtschaftliche Aktivitätszonen und für die Landschaften.",
-    "t": 139.22
+    "t": 139.24
    },
    {
     "speaker": "Tom",
     "text": "Ein Wohnungsplan zum Beispiel reserviert Flächen, auf denen neue Wohnungen konzentriert werden sollen.",
-    "t": 145.87
+    "t": 145.89
    },
    {
     "speaker": "Anna",
     "text": "Und ein Landschaftsplan schützt Grünflächen davor, bebaut zu werden.",
-    "t": 151.66
+    "t": 151.68
    },
    {
     "speaker": "Tom",
     "text": "Diese Pläne entscheiden also auf koordinierte Weise, wofür der Boden bestimmt ist.",
-    "t": 155.76
+    "t": 155.78
    },
    {
     "speaker": "Anna",
     "text": "Es gibt hier einen wichtigen Gedanken... dort bauen, wo es sinnvoll ist.",
-    "t": 160.64
+    "t": 160.66
    },
    {
     "speaker": "Tom",
     "text": "Ja. Wohnen und Aktivität in der Nähe von Verkehr und Diensten konzentrieren, anstatt sich überallhin auszubreiten.",
-    "t": 166.01
+    "t": 166.03
    },
    {
     "speaker": "Anna",
     "text": "Das schützt das Land, verringert den Verkehr und macht das tägliche Leben einfacher.",
-    "t": 173.91
+    "t": 173.93
    },
    {
     "speaker": "Tom",
     "text": "Raumordnung denkt auch in Regionen, nicht nur in Bezug auf das ganze Land.",
-    "t": 178.59
+    "t": 178.61
    },
    {
     "speaker": "Anna",
     "text": "Verschiedene Regionen haben unterschiedliche Stärken und Bedürfnisse... der Süden, das Zentrum, der Norden, der Osten.",
-    "t": 183.23
+    "t": 183.25
    },
    {
     "speaker": "Tom",
     "text": "Es gibt städtische Projekte und sogar Naturparks, die schöne Regionen schützen und sie zugleich lebendig halten.",
-    "t": 190.7
+    "t": 190.72
    },
    {
     "speaker": "Anna",
     "text": "Und weil Luxemburg klein und zentral gelegen ist, hört die Planung nicht an der Grenze auf.",
-    "t": 197.44
+    "t": 197.46
    },
    {
     "speaker": "Tom",
     "text": "Richtig. So viel vom Leben hier überschreitet Grenzen... Arbeit, Verkehr, der Druck auf den Wohnungsmarkt.",
-    "t": 202.51
+    "t": 202.53
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg plant also gemeinsam mit seinen Nachbarn, in der Großregion, und über europäische Programme.",
-    "t": 210.76
+    "t": 210.78
    },
    {
     "speaker": "Tom",
     "text": "Denn eine Straßenbahnlinie, ein Wald oder ein Fluss kümmert sich nicht um eine Grenze auf einer Karte.",
-    "t": 217.18
+    "t": 217.2
    },
    {
     "speaker": "Anna",
     "text": "Stellen wir die entscheidende Frage... warum sollte sich ein gewöhnlicher Einwohner um all das kümmern?",
-    "t": 223.64
+    "t": 223.66
    },
    {
     "speaker": "Tom",
     "text": "Erstens, weil es Ihr tägliches Leben prägt... Ihren Arbeitsweg, Ihre Grünflächen, ob in Ihrer Nähe Wohnraum gebaut wird.",
-    "t": 230.12
+    "t": 230.14
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, weil es das schützt, was wir lieben... Landschaften, Natur, den Charakter unserer Städte und Dörfer.",
-    "t": 238.2
+    "t": 238.22
    },
    {
     "speaker": "Tom",
     "text": "Und drittens, weil es um Gerechtigkeit zwischen den Generationen geht... unseren Kindern ein lebenswertes Land zu hinterlassen.",
-    "t": 246.14
+    "t": 246.16
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch eine Rolle für die Bürger.",
-    "t": 253.31
+    "t": 253.33
    },
    {
     "speaker": "Anna",
     "text": "Große Pläne durchlaufen oft eine öffentliche Konsultation.",
-    "t": 255.41
+    "t": 255.43
    },
    {
     "speaker": "Tom",
     "text": "Sie können sich also informieren und manchmal Ihre Meinung äußern, wenn ein Plan Ihre Gegend betrifft.",
-    "t": 259.1
+    "t": 259.12
    },
    {
     "speaker": "Anna",
     "text": "Das Portal veröffentlicht die Pläne, die Strategie und die Neuigkeiten, offen zugänglich.",
-    "t": 264.77
+    "t": 264.79
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom, machen wir es praktisch.",
-    "t": 270.3
+    "text": "Also Anna, machen wir es praktisch.",
+    "t": 270.32
    },
    {
     "speaker": "Tom",
     "text": "Was können die Menschen daraus mitnehmen?",
-    "t": 272.75
+    "t": 272.68
    },
    {
     "speaker": "Anna",
     "text": "Erstens, wenn Sie von einer neuen Wohnzone, einem Verkehrsplan oder einem Schutzgebiet hören, werden Sie das größere Bild verstehen.",
-    "t": 275.02
+    "t": 274.84
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, wenn ein Plan Ihre Gemeinde betrifft, achten Sie auf öffentliche Konsultationen und sagen Sie Ihre Meinung.",
-    "t": 283.42
+    "t": 283.24
    },
    {
     "speaker": "Anna",
     "text": "Drittens, denken Sie daran, dass das Ziel das Gleichgewicht ist... Wohnungen, Arbeitsplätze, Verkehr und Natur, die alle zusammen bestehen.",
-    "t": 290.47
+    "t": 290.29
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir es zusammen.",
-    "t": 299.83
+    "t": 299.65
    },
    {
     "speaker": "Tom",
     "text": "Was sollten sich die Menschen über die Raumordnung merken?",
-    "t": 301.27
+    "t": 301.09
    },
    {
     "speaker": "Anna",
     "text": "Erstens... so planen der Staat und die Gemeinden langfristig die Nutzung des begrenzten Bodens Luxemburgs.",
-    "t": 304.13
+    "t": 303.95
    },
    {
     "speaker": "Tom",
     "text": "Zweitens... sie nutzt eine nationale Strategie und sektorale Pläne für Verkehr, Wohnen, Wirtschaft und Landschaften.",
-    "t": 311.07
+    "t": 310.89
    },
    {
     "speaker": "Anna",
     "text": "Drittens... sie wirkt über Regionen und über Grenzen hinweg, weil das Leben hier es auch tut.",
-    "t": 318.92
+    "t": 318.74
    },
    {
     "speaker": "Tom",
     "text": "Und viertens... sie prägt Ihr tägliches Umfeld, deshalb lohnt es sich, sie zu verfolgen und sich daran zu beteiligen.",
-    "t": 325.06
+    "t": 324.88
    },
    {
     "speaker": "Anna",
     "text": "Das Land, das wir weitergeben, ist kein Zufall.",
-    "t": 332.57
+    "t": 332.39
    },
    {
     "speaker": "Anna",
     "text": "Es ist die Summe unzähliger sorgfältiger Entscheidungen über den Boden.",
-    "t": 335.44
+    "t": 335.26
    },
    {
     "speaker": "Tom",
     "text": "Und gute Planung ist die Art und Weise, wie wir diese Entscheidungen klug treffen, gemeinsam.",
-    "t": 339.66
+    "t": 339.48
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die Raumplanung.",
-    "t": 344.92
+    "t": 344.74
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 347.58
+    "t": 347.4
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 356.17
+    "t": 355.99
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 374.5
+    "t": 374.32
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 380.2
+    "t": 380.02
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 382.45
+    "t": 382.27
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 387.34
+    "t": 387.16
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 388.49
+    "t": 388.31
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 391.7
+    "t": 391.52
    }
   ],
   "segments_lb": [
@@ -1558,73 +1558,73 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "Also Tom, maache mer et praktesch. Wat kënnen d'Leit dovun ophuelen?",
+    "text": "Also Anna, maache mer et praktesch. Wat kënnen d'Leit dovun ophuelen?",
     "t": 236.98
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, wann Dir vun enger neier Wunnzon, engem Transportplang, oder enger geschützter Zon héiert, da versteet Dir dat gréissert Bild.",
-    "t": 240.9
+    "t": 240.79
    },
    {
     "speaker": "Tom",
     "text": "Als zweet, wann e Plang Är Gemeng betrëfft, passt op ëffentlech Konsultatiounen op a sot Är Meenung.",
-    "t": 248.79
+    "t": 248.68
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt, denkt drun, datt d'Zil d'Gläichgewiicht ass... Wunnengen, Aarbechtsplazen, Transport an Natur, déi all zesumme liewen.",
-    "t": 254.2
+    "t": 254.09
    },
    {
     "speaker": "Tom",
     "text": "Faasse mer et zesummen. Wat sollten d'Leit sech iwwert d'Landesplanung mierken?",
-    "t": 261.88
+    "t": 261.77
    },
    {
     "speaker": "Anna",
     "text": "Als éischt... sou plangen de Staat an d'Gemengen op laang Siicht d'Notzung vum begrenzte Buedem vu Lëtzebuerg.",
-    "t": 266.02
+    "t": 265.91
    },
    {
     "speaker": "Tom",
     "text": "Als zweet... si benotzt eng national Strategie a sektoral Pläng fir Transport, Wunnen, Wirtschaft a Landschaften.",
-    "t": 272.33
+    "t": 272.22
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt... si schafft iwwer Regiounen an iwwer Grenzen ewech, well d'Liewen hei et och mécht.",
-    "t": 279.35
+    "t": 279.24
    },
    {
     "speaker": "Tom",
     "text": "An als véiert... si preegt Ären deeglechen Ëmfeld, dofir lount et sech, se ze verfollegen a matzemaachen.",
-    "t": 284.33
+    "t": 284.22
    },
    {
     "speaker": "Anna",
     "text": "D'Land, dat mir weiderginn, ass kee Zoufall. Et ass d'Zomm vun ongeziilte suergfältege Choixen iwwert de Buedem.",
-    "t": 289.56
+    "t": 289.45
    },
    {
     "speaker": "Tom",
     "text": "A gutt Planung ass d'Manéier, wéi mir dës Choixe klug treffen, zesummen.",
-    "t": 296.05
+    "t": 295.94
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer d'Landesplanung. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 299.62
+    "t": 299.51
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 343.23
+    "t": 343.12
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 346.43
+    "t": 346.33
    }
   ]
  }

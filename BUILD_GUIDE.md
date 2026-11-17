@@ -399,3 +399,7 @@ Jacques: recording quality not good → all 16 "..." pauses removed per language
 ## CGDIS said less often (17 Nov 2026)
 
 Jacques: "C-G-D-I-S" is cumbersome → said only in the introduction (line 15), the name explanation (21) and the summary (79), 3× instead of 14×; elsewhere "the rescue corps" / "it" / "they" / "volunteer firefighter" (FR "le corps de secours", DE "das Rettungskorps", LB "de Rettungsdéngscht"; outro "Luxembourg's fire and rescue corps"). `build/apply_fewer_cgdis_2026_11.py`, EN/FR/DE/LB. ≈ 4,400 credits. EN 8:19, FR 8:07, DE 9:22.
+
+## Hosts addressing themselves (17 Nov 2026)
+
+Tom said "So Tom, let's make it practical" in agriculture, amenagement, cepas, cgdis, fondseuropeens; Anna said "So Anna, what is…" in demenz. The other host answers each time → only the name changed ("So Anna…" / "So Tom…"), "..." after it removed. EN/FR/DE/LB, `build/apply_vocative_fix_2026_11.py`. No self-address left in any episode. ≈ 1,500 credits.

@@ -55,7 +55,7 @@
 **ANNA:** Si vous êtes un jeune à l'écoute, et que les choses vous pèsent, sachez que demander de l'aide est courageux, et non un signe de faiblesse.
 **TOM:** Et si vous êtes un parent qui remarque que son enfant est en difficulté, vous n'avez pas échoué. Le soutien existe, et il fonctionne.
 **ANNA:** Parler à quelqu'un tôt peut changer le cours de toute une année scolaire, et parfois bien plus.
-**TOM:** Alors Tom... rendons cela concret. Comment fait-on concrètement appel au CePAS ?
+**TOM:** Alors Anna, rendons cela concret. Comment fait-on concrètement appel au CePAS ?
 **ANNA:** D'abord... si votre enfant a besoin d'un soutien rapide, le service psycho-social scolaire est juste là, souvent sans rendez-vous.
 **TOM:** Ensuite... pour un soutien plus approfondi ou plus long, le centre de consultation accueille les jeunes de douze à trente ans, et leurs familles, sur rendez-vous.
 **ANNA:** Troisièmement... rappelez-vous que depuis 2026, les consultations sont aussi disponibles en anglais.

@@ -55,7 +55,7 @@
 **ANNA:** Wenn Sie ein junger Mensch sind, der zuhört, und die Dinge sich schwer anfühlen, dann wissen Sie bitte, dass um Hilfe zu bitten mutig ist, nicht schwach.
 **TOM:** Und wenn Sie ein Elternteil sind und bemerken, dass Ihr Kind Schwierigkeiten hat, dann haben Sie nicht versagt. Unterstützung gibt es, und sie wirkt.
 **ANNA:** Frühzeitig mit jemandem zu sprechen kann den Verlauf eines ganzen Schuljahres verändern, und manchmal noch viel mehr.
-**TOM:** Also Tom... machen wir es praktisch. Wie nutzt man CePAS eigentlich?
+**TOM:** Also Anna, machen wir es praktisch. Wie nutzt man CePAS eigentlich?
 **ANNA:** Erstens... wenn Ihr Kind schnelle Unterstützung braucht, ist der schulische psycho-soziale Dienst direkt vor Ort, oft ohne Termin.
 **TOM:** Zweitens... für tiefergehende oder längere Unterstützung empfängt das Beratungszentrum junge Menschen von zwölf bis dreißig Jahren, und ihre Familien, nach Terminvereinbarung.
 **ANNA:** Drittens... denken Sie daran, dass seit 2026 die Beratungen auch auf Englisch verfügbar sind.

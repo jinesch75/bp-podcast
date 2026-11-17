@@ -47,7 +47,7 @@
 **ANNA:** Et gëtt och eng Roll fir d'Bierger. Grouss Pläng ginn dacks duerch eng ëffentlech Konsultatioun.
 **TOM:** Dir kënnt Iech also informéieren, a heiansdo Är Meenung soen, wann e Plang Är Géigend betrëfft.
 **ANNA:** D'Portal publizéiert d'Pläng, d'Strategie, an d'Neiegkeeten, op eng oppe Manéier.
-**TOM:** Also Tom, maache mer et praktesch. Wat kënnen d'Leit dovun ophuelen?
+**TOM:** Also Anna, maache mer et praktesch. Wat kënnen d'Leit dovun ophuelen?
 **ANNA:** Als éischt, wann Dir vun enger neier Wunnzon, engem Transportplang, oder enger geschützter Zon héiert, da versteet Dir dat gréissert Bild.
 **TOM:** Als zweet, wann e Plang Är Gemeng betrëfft, passt op ëffentlech Konsultatiounen op a sot Är Meenung.
 **ANNA:** Als drëtt, denkt drun, datt d'Zil d'Gläichgewiicht ass... Wunnengen, Aarbechtsplazen, Transport an Natur, déi all zesumme liewen.

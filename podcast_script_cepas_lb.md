@@ -55,7 +55,7 @@
 **ANNA:** Wann Dir e jonke Mënsch sidd, deen nolauschtert, an d'Saache schwéier wierken, da wësst w.e.g., datt no Hëllef ze froen couragéiert ass, net schwaach.
 **TOM:** A wann Dir en Elterendeel sidd, deen mierkt, datt säi Kand Schwieregkeeten huet, da hutt Dir net versot. Ënnerstëtzung gëtt et, a si wierkt.
 **ANNA:** Fréizäiteg mat engem ze schwätze kann de Verlaf vun engem ganze Schouljoer änneren, an heiansdo nach vill méi.
-**TOM:** Also Tom... maache mir et praktesch. Wéi notzt een de CePAS eigentlech?
+**TOM:** Also Anna, maache mir et praktesch. Wéi notzt een de CePAS eigentlech?
 **ANNA:** Als éischt... wann Äert Kand séier Ënnerstëtzung brauch, ass de schoulesche psycho-sozialen Déngscht direkt do, dacks ouni Rendez-vous.
 **TOM:** Zweetens... fir méi déif oder méi laang Ënnerstëtzung empfänkt de Beroodungszentrum jonk Leit vun zwielef bis drësseg Joer, an hir Familljen, no Rendez-vous.
 **ANNA:** Drëttens... denkt drun, datt zanter 2026 d'Beroodungen och op Englesch disponibel sinn.

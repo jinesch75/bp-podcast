@@ -53,7 +53,7 @@
 **ANNA:** Parce que c'est aussi votre argent, en tant qu'Européen, qui est réinvesti dans votre communauté.
 **TOM:** Et parce que la transparence compte. Vous pouvez voir où il va, et ce qu'il permet d'accomplir.
 **ANNA:** C'est un exemple discret mais réel de solidarité européenne, qui se concrétise dans de vrais projets, dans de vraies villes.
-**TOM:** Alors Tom... rendons cela pratique. Que peut-on faire avec tout ça ?
+**TOM:** Alors Anna, rendons cela pratique. Que peut-on faire avec tout ça ?
 **ANNA:** D'abord... si vous dirigez une organisation ou un projet, consultez le site des Fonds européens pour voir si votre idée correspond.
 **TOM:** Deuxièmement... regardez les projets financés, pour comprendre quels types d'idées reçoivent un soutien.
 **ANNA:** Troisièmement... souvenez-vous des principaux fonds... le fonds de développement régional pour l'économie, et le fonds social pour les personnes et les emplois.
