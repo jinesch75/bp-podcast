@@ -14,7 +14,7 @@
 **TOM:** Nous avons tous vécu ce moment. Un formulaire qui demande deux fois la même chose. Une étape qui vous fait penser... pourquoi est-ce si compliqué ?
 **ANNA:** Eh bien, le sujet d'aujourd'hui est un projet qui transforme cette frustration en quelque chose d'utile.
 **TOM:** Il s'appelle Zesumme Vereinfachen. Le nom est en luxembourgeois.
-**ANNA:** Et cela signifie « simplifier ensemble ». J'adore ça. Ensemble.
+**ANNA:** Et cela signifie « simplifier ensemble ». J'adore cette idée — le faire ensemble.
 **TOM:** Alors Anna, qu'est-ce que Zesumme Vereinfachen exactement ?
 **ANNA:** C'est une plateforme en ligne où les citoyens et les entreprises peuvent aider à rendre les procédures de l'État plus simples.
 **TOM:** Donc, au lieu de simplement se plaindre de la paperasse, on peut vraiment agir.

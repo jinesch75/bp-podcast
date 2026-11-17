@@ -14,8 +14,8 @@
 **TOM:** We have all had that moment. A form that asks the same thing twice. A step that makes you think... why is this so complicated?
 **ANNA:** Well, today's topic is a project that turns that frustration into something useful.
 **TOM:** It is called Zesumme Vereinfachen. The name is in Luxembourgish.
-**ANNA:** And it means "simplifying together". I love that. Together.
-**TOM:** So Anna, what exactly is Zesumme Vereinfachen?
+**ANNA:** And it means "simplifying together". I love that idea — doing it together.
+**TOM:** So Anna, what exactly is this project?
 **ANNA:** It is an online platform where citizens and businesses can help make the State's procedures simpler.
 **TOM:** So instead of just complaining about paperwork, you can actually do something about it.
 **ANNA:** Exactly. Its slogan says it beautifully... public services that make your daily life easier.
@@ -54,17 +54,17 @@
 **TOM:** Instead of "this is annoying", it becomes "here is how we could make it better".
 **ANNA:** So Tom, let's make it practical. How can someone actually take part?
 **TOM:** First... next time a procedure frustrates you, write the idea down instead of just sighing.
-**ANNA:** Second... visit the Zesumme Vereinfachen platform and share your suggestion, in your own language.
+**ANNA:** Second, visit the platform and share your suggestion, in your own language.
 **TOM:** Third... if you like, follow it through one or more phases, and help co-create the solution.
 **ANNA:** And fourth... remember, even a small idea can make a real difference for many people.
-**TOM:** Let's bring it all together. What should people remember about Zesumme Vereinfachen?
+**TOM:** Let's bring it all together. What should people remember about the platform?
 **ANNA:** First... it is a platform where citizens and businesses help simplify the State's procedures.
 **TOM:** Second... it is run by the Ministry for Digitalisation, and launched in 2022, as part of "Einfach Lëtzebuerg".
 **ANNA:** Third... you can submit ideas, join one phase or many, in any of the four languages.
 **TOM:** And fourth... it has already helped improve real services, like the MyGuichet app.
 **ANNA:** Paperwork may never be exciting. But the chance to make it simpler, together, is genuinely empowering.
 **TOM:** So the next time something feels too complicated, remember... your voice can help fix it.
-**ANNA:** That was our episode about Zesumme Vereinfachen. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** That was our episode about this platform for simpler public services. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.
 

@@ -14,7 +14,7 @@
 **TOM:** Mir hunn all dee Moment scho gehat. E Formulaire dee zweemol no derselwechter Saach freet. E Schrëtt deen Iech denke léisst... firwat ass dat esou komplizéiert?
 **ANNA:** Nun, dat haitegt Thema ass e Projet deen dës Frustratioun an eppes Nëtzleches verwandelt.
 **TOM:** Et heescht Zesumme Vereinfachen. Den Numm ass op Lëtzebuergesch.
-**ANNA:** An et bedeit „zesummen vereinfachen". Dat gefält mer immens. Zesummen.
+**ANNA:** An et bedeit „zesummen vereinfachen". D'Iddi gefält mer immens — et zesummen ze maachen.
 **TOM:** Also Anna, wat genee ass Zesumme Vereinfachen?
 **ANNA:** Et ass eng Online-Plattform, wou Bierger an Entreprisen kënnen hëllefen, dem Staat seng Prozeduren méi einfach ze maachen.
 **TOM:** Anstatt sech also nëmmen iwwert de Pabeierkrom ze beschwéieren, kann ee wierklech eppes dogéint maachen.

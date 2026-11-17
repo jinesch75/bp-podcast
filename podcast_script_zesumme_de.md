@@ -14,7 +14,7 @@
 **TOM:** Wir alle kennen diesen Moment. Ein Formular, das dasselbe zweimal abfragt. Ein Schritt, bei dem man denkt... warum ist das so kompliziert?
 **ANNA:** Nun, das heutige Thema ist ein Projekt, das diesen Frust in etwas Nützliches verwandelt.
 **TOM:** Es heißt Zesumme Vereinfachen. Der Name ist auf Luxemburgisch.
-**ANNA:** Und es bedeutet „gemeinsam vereinfachen". Das gefällt mir sehr. Gemeinsam.
+**ANNA:** Und es bedeutet „gemeinsam vereinfachen". Die Idee gefällt mir sehr — es gemeinsam zu machen.
 **TOM:** Also Anna, was genau ist Zesumme Vereinfachen?
 **ANNA:** Es ist eine Online-Plattform, auf der Bürger und Unternehmen dabei helfen können, die Verfahren des Staates einfacher zu gestalten.
 **TOM:** Anstatt sich also nur über den Papierkram zu beschweren, kann man wirklich etwas dagegen tun.
