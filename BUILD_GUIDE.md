@@ -395,3 +395,7 @@ Jacques: recording quality not good → all 16 "..." pauses removed per language
 
 "millions of procedures" → "hundreds" (EN/FR/DE/LB, `build/apply_hundreds_zesumme_2026_11.py`). EN name: A/B with the German voice as reference (`build/el_test/pron_zesumme_en_AB.mp3`) → Jacques chose "as written"; the 5 EN sentences got the take closest to that reference (`ONLY="zesumme vereinfachen" match_pron.py zesumme en`; the outro take had the name unrecognisable). ≈ 1,300 credits.
 - Follow-up (same day): Anna's "I love that. Together." (lone one-word sentence, sounded disconnected) → "I love that idea — doing it together." (+ FR/DE/LB). EN: the name only once (Tom's introduction), then "this project" / "the platform" / outro "about this platform for simpler public services" (`build/apply_voicefix_zesumme_2026_11.py`). Voice QC EN + 8 retakes. ≈ 1,500 credits.
+
+## CGDIS said less often (17 Nov 2026)
+
+Jacques: "C-G-D-I-S" is cumbersome → said only in the introduction (line 15), the name explanation (21) and the summary (79), 3× instead of 14×; elsewhere "the rescue corps" / "it" / "they" / "volunteer firefighter" (FR "le corps de secours", DE "das Rettungskorps", LB "de Rettungsdéngscht"; outro "Luxembourg's fire and rescue corps"). `build/apply_fewer_cgdis_2026_11.py`, EN/FR/DE/LB. ≈ 4,400 credits. EN 8:19, FR 8:07, DE 9:22.

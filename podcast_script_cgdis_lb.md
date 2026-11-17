@@ -17,13 +17,13 @@
 **ANNA:** Zu Lëtzebuerg, bei all Noutfall, rufft Dir d'1-1-2 un.
 **TOM:** Et ass gratis. Et funktionéiert vun all Telefon, souguer ouni Guthaben. An et funktionéiert Dag an Nuecht, all Dag am Joer.
 **ANNA:** Dir rufft d'1-1-2 un bei engem Brand, bei engem schwéieren Accident, oder bei engem medizineschen Noutfall... een, dee schwéier blesséiert ass, oder deem säi Liewen a Gefor ass.
-**TOM:** Also Anna, wat ass de CGDIS genau?
+**TOM:** Also Anna, wat ass dës Organisatioun genau?
 **ANNA:** CGDIS steet fir Corps grand-ducal d'incendie et de secours. Op Englesch, the Grand Ducal Fire and Rescue Corps.
 **TOM:** Et ass den nationale Brand- a Rettungsdéngscht vu Lëtzebuerg.
 **ANNA:** Hie gouf 2018 gegrënnt an huet d'Pompjeeën an d'Déngschter vum Zivilschutz vum Land an eng eenzeg national Organisatioun zesummegefaasst.
 **TOM:** Virdru war d'Rettung méi lokal organiséiert. Elo ass se vereenheetlecht, wat d'Hëllef méi séier a besser koordinéiert mécht.
 **ANNA:** An hie schafft ënner dem Innenministère, zesumme mat de Gemengen.
-**TOM:** Loosse mer iwwer dat schwätzen, wat de CGDIS tatsächlech mécht. Hien huet e puer grouss Aufgaben.
+**TOM:** Loosse mer iwwer dat schwätzen, wat de Rettungsdéngscht tatsächlech mécht. Hien huet e puer grouss Aufgaben.
 **ANNA:** Déi éischt ass d'Brandbekämpfung... Bränn läschen a Leit dorausser retten.
 **TOM:** Déi zweet ass d'Rettung am breede Sënn... Verkéiersaccidenter, agespaarte Leit, Iwwerschwemmungen, geféierlech Situatiounen.
 **ANNA:** An déi drëtt ass déi medizinesch Noutfallhëllef... d'Ambulanzen, déi kommen, wann een schwéier krank oder blesséiert ass.
@@ -42,39 +42,39 @@
 **TOM:** Jo. D'1-1-2 ass fir richteg Noutfäll. W.e.g. rufft se net un fir eng Informatioun, oder fir e klenge Problem.
 **ANNA:** All onnéidegen Uruff kann d'Leitung blockéieren fir een, deem säi Liewe wierklech dovun ofhänkt.
 **TOM:** Fir net dréngend Gesondheetsfroen gëtt et aner Méiglechkeeten, wéi den Déngscht vum Bereetschaftsdokter.
-**ANNA:** Elo, loosse mer iwwer d'Leit hannert dem CGDIS schwätzen, well hir Geschicht ass bemierkenswäert.
-**TOM:** De CGDIS huet beruffleg Pompjeeën, déi dat als hire Vollzäitberuff maachen.
+**ANNA:** Elo, loosse mer iwwer d'Leit hannert dem Rettungsdéngscht schwätzen, well hir Geschicht ass bemierkenswäert.
+**TOM:** Hien huet beruffleg Pompjeeën, déi dat als hire Vollzäitberuff maachen.
 **ANNA:** Mä hei ass deen erstaunlechen Deel. Hie stëtzt sech och op Dausende vu Fräiwëllegen.
 **TOM:** Dausende fräiwëlleg Pompjeeën. Ongeféier néng vun zéng Pompjeeë sinn Fräiwëlleger.
 **ANNA:** Néng vun zéng! Also déi meeschte Leit, déi sech beeilen, fir Iech ze hëllefen, sinn Fräiwëlleger.
 **TOM:** Si hu gewéinlech Jobs a Famillen. Mä wann den Alarm ulaut, loosse se alles stoen, fir hiren Noperen ze hëllefen.
 **ANNA:** Et ass eng schéin Aart vu Solidaritéit. Leit, déi Leit schützen, fräiwëlleg.
-**TOM:** Loosse mer kuerz kucken, wéi de CGDIS am ganze Land organiséiert ass.
+**TOM:** Loosse mer kuerz kucken, wéi de Rettungsdéngscht am ganze Land organiséiert ass.
 **ANNA:** Et gëtt Brand- a Rettungszentren, déi CIS heeschen, am ganze Lëtzebuerg verdeelt, sou datt d'Hëllef ni wäit ewech ass.
 **TOM:** Et gëtt en nationalt Zentrum, de CNIS, no bei der Stad Lëtzebuerg, dat dat ganzt System koordinéiert.
 **ANNA:** An et gëtt spezialiséiert Gruppen fir schwiereg Rettungen... Waasserrettung, geféierlech Matières, Rettungen aus grousser Héicht.
 **TOM:** D'Ausrüstung ass och beandrockend. Zum Beispill kënne modern Liftbühnen d'Retter eropliewen, fir Leit a méi wéi drësseg Meter Héicht ze erreechen.
 **ANNA:** Also huet e klengt Land ee ganz modernen, gutt organiséierten Rettungsdéngscht. Dat ass berouegend.
 **TOM:** Elo, Anna, hei ass eppes, woru vill Nolauschterer vläicht net geduecht hunn. Dir kënnt Deel dovun sinn.
-**ANNA:** Jo! De CGDIS hëisst nei Fräiwëlleger wëllkomm. Dir musst net schonn en Held sinn... si bilden Iech aus.
+**ANNA:** Jo! De Rettungsdéngscht hëisst nei Fräiwëlleger wëllkomm. Dir musst net schonn en Held sinn... si bilden Iech aus.
 **TOM:** An och jonk Leit kënne bäitrieden, als Jongpompjeeën, d'„Jeunes Pompiers", oder op Lëtzebuergesch d'„Jugendpompjeeën".
 **ANNA:** Et gëtt och beruffleg Karriären... als Pompjee, als Offizéier, oder an techneschen an administrative Funktiounen.
 **TOM:** Also, wann Dir Ärer Gemeinschaft op eng ganz konkret Aart wëllt déngen, ass dat eng vun de sënnvollste Manéieren, et ze maachen.
 **ANNA:** Dat knëppt un eppes un, wat mir an eiser Episod iwwer d'Benevolat gesot hunn... seng Zäit ze ginn, fir aneren ze hëllefen.
-**TOM:** Loosse mer och iwwer Ausbildung a Préventioun schwätzen, well de CGDIS mécht méi, wéi just op Noutfäll ze reagéieren.
+**TOM:** Loosse mer och iwwer Ausbildung a Préventioun schwätzen, well de Rettungsdéngscht mécht méi, wéi just op Noutfäll ze reagéieren.
 **ANNA:** Hien huet en nationalt Ausbildungsinstitut, den INFS, dat seng Retter op engem héijen Niveau ausbilt.
 **TOM:** An hie bitt der Ëffentlechkeet Éischt-Hëllef-Coursen un. Éischt Hëllef ze léieren ass eng vun de wäertvollste Saachen, déi Dir maache kënnt.
 **ANNA:** Well an den éischte Minutte vun engem Noutfall kann eng gewéinlech Persoun an der Noupesch den ganzen Ënnerscheed maachen.
-**TOM:** De CGDIS gëtt och Rotschléi fir d'Brandverhütung... einfach Saachen, déi Äert Doheem méi sécher maachen.
+**TOM:** De Rettungsdéngscht gëtt och Rotschléi fir d'Brandverhütung... einfach Saachen, déi Äert Doheem méi sécher maachen.
 **ANNA:** Wéi funktionéierend Damschmelder ze hunn, seng Ausgäng ze kennen, a virsiichteg mat Käerzen a beim Kachen ze sinn.
 **TOM:** A wann Dir eng grouss ëffentlech Veranstaltung organiséiert, musst Dir se vläicht umellen, sou datt d'Rettungsdéngschter eng medizinesch Ofdeckung kënne plangen.
-**ANNA:** Also ass de CGDIS do virun, wärend an no engem Noutfall. Virbeugen, agräifen, a sech këmmeren.
+**ANNA:** Also ass de Rettungsdéngscht do virun, wärend an no engem Noutfall. Virbeugen, agräifen, a sech këmmeren.
 **TOM:** Also Tom... loosse mer dat ganz praktesch maachen. Wat soll jiddereen mathuelen?
 **ANNA:** Als éischt, an dat Wichtegst... bei all Noutfall zu Lëtzebuerg, rufft d'1-1-2 un.
 **TOM:** Als zweet, léiert et Äre Kanner, an all Persoun, déi nei am Land ass. Eent-eent-zwee.
 **ANNA:** Als drëtt, wann Dir uruft, gitt Är Plaz kloer un, sot, wat geschitt ass, a bleift an der Leitung.
 **TOM:** Als véiert, iwwerleet Iech, Éischt Hëllef ze léieren... et ass e Kaddo, deen Dir de Leit ëm Iech erëm gitt.
-**ANNA:** An als fënneft, wann et Iech uschwätzt, denkt drun, Fräiwëlleger beim CGDIS ze ginn.
+**ANNA:** An als fënneft, wann et Iech uschwätzt, denkt drun, Fräiwëlleger beim Rettungsdéngscht ze ginn.
 **TOM:** Loosse mer alles zesummenhuelen. Wat solle sech d'Leit mierken?
 **ANNA:** Als éischt... de CGDIS ass den nationale Brand- a Rettungsdéngscht vu Lëtzebuerg, gegrënnt 2018.
 **TOM:** Als zweet... bei all Noutfall, rufft Dir d'1-1-2 un, gratis, vun all Telefon, Dag an Nuecht.
@@ -82,7 +82,7 @@
 **TOM:** An als véiert... hien ausbilt och d'Ëffentlechkeet a gëtt Préventiounsrotschléi, sou datt mir all eis géigesäiteg kënne sécher halen.
 **ANNA:** Noutfäll sinn beängschtegend. Mä Dir sidd net eleng. Hannert där Nummer sinn Leit bereet ze kommen.
 **TOM:** A ze wëssen, wéi een se erreecht, roueg a kloer, ass eppes, wat jiddereen vun eis haut léiere kann.
-**ANNA:** Dat war eis Episod iwwer de CGDIS an d'Noutruffnummer 112. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
+**ANNA:** Dat war eis Episod iwwer de Rettungsdéngscht an d'Noutruffnummer 112. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
 **TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
 **ANNA:** Villmools Merci fir d'Nolauschteren.
 

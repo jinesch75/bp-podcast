@@ -17,13 +17,13 @@
 **ANNA:** In Luxembourg, in any emergency, you call 1-1-2.
 **TOM:** It is free. It works from any phone, even without credit. And it works day and night, every day of the year.
 **ANNA:** You call 1-1-2 for a fire, for a serious accident, or for a medical emergency... someone badly hurt, or whose life is in danger.
-**TOM:** So Anna, what exactly is the CGDIS?
+**TOM:** So Anna, what exactly is this organisation?
 **ANNA:** CGDIS stands for the Corps grand-ducal d'incendie et de secours. In English, the Grand Ducal Fire and Rescue Corps.
 **TOM:** It is Luxembourg's national fire and rescue service.
 **ANNA:** It was created in 2018, bringing the country's fire brigades and civil-protection services together into one single national organisation.
 **TOM:** Before that, rescue was organised more locally. Now it is unified, which makes help faster and more coordinated.
 **ANNA:** And it works under the Ministry of Home Affairs, alongside the communes.
-**TOM:** Let's talk about what the CGDIS actually does. It has a few big missions.
+**TOM:** Let's talk about what the rescue corps actually does. It has a few big missions.
 **ANNA:** The first is firefighting... putting out fires and rescuing people from them.
 **TOM:** The second is rescue in a broad sense... road accidents, people trapped, floods, dangerous situations.
 **ANNA:** And the third is emergency medical help... the ambulances that come when someone is seriously ill or injured.
@@ -42,39 +42,39 @@
 **TOM:** Yes. 1-1-2 is for real emergencies. Please don't call it for information, or for a minor problem.
 **ANNA:** Every needless call can block the line for someone whose life truly depends on it.
 **TOM:** For non-urgent health questions, there are other options, like the on-call doctor service.
-**ANNA:** Now let's talk about the people behind the CGDIS, because their story is remarkable.
-**TOM:** The CGDIS has professional firefighters, who do this as their full-time job.
+**ANNA:** Now let's talk about the people behind the rescue corps, because their story is remarkable.
+**TOM:** It has professional firefighters, who do this as their full-time job.
 **ANNA:** But here is the amazing part. It also relies on thousands of volunteers.
 **TOM:** Thousands of volunteer firefighters. About nine in ten firefighters are volunteers.
 **ANNA:** Nine in ten! So most of the people who rush to help you are volunteers.
 **TOM:** They have ordinary jobs and families. But when the alarm sounds, they drop everything to help their neighbours.
 **ANNA:** It's a beautiful kind of solidarity. People protecting people, freely.
-**TOM:** Let's look briefly at how the CGDIS is organised across the country.
+**TOM:** Let's look briefly at how the rescue corps is organised across the country.
 **ANNA:** There are fire and rescue stations, called CIS, spread all over Luxembourg, so help is never far away.
 **TOM:** There is a national centre, the CNIS, near Luxembourg City, which coordinates the whole system.
 **ANNA:** And there are specialised groups for difficult rescues... water rescue, dangerous materials, rescues from great heights.
 **TOM:** The equipment is impressive too. For example, modern aerial platforms can lift rescuers to reach people more than thirty metres up.
 **ANNA:** So a small country has a very modern, well-organised rescue service. That's reassuring.
 **TOM:** Now, Anna, here's something many listeners might not have thought about. You can be part of this.
-**ANNA:** Yes! The CGDIS welcomes new volunteers. You don't have to be a hero already... they train you.
+**ANNA:** Yes! The rescue corps welcomes new volunteers. You don't have to be a hero already... they train you.
 **TOM:** And young people can join too, as junior firefighters, the Jeunes Pompiers, or in Luxembourgish, the Jugendpompjeeën.
 **ANNA:** There are also professional careers... as a firefighter, an officer, or in technical and administrative roles.
 **TOM:** So if you want to serve your community in a very concrete way, this is one of the most meaningful ways to do it.
 **ANNA:** It connects to something we said in our episode on volunteering... giving your time to help others.
-**TOM:** Let's also talk about training and prevention, because the CGDIS does more than respond to emergencies.
+**TOM:** Let's also talk about training and prevention, because the firefighters do more than respond to emergencies.
 **ANNA:** It has a national training institute, the INFS, which trains its rescuers to a high standard.
 **TOM:** And it offers first-aid courses to the public. Learning first aid is one of the most valuable things you can do.
 **ANNA:** Because in the first minutes of an emergency, an ordinary person nearby can make all the difference.
-**TOM:** The CGDIS also gives fire-prevention advice... simple things that keep your home safer.
+**TOM:** They also give fire-prevention advice... simple things that keep your home safer.
 **ANNA:** Like having working smoke detectors, knowing your exits, and being careful with candles and cooking.
 **TOM:** And if you organise a big public event, you may need to declare it, so the rescue services can plan medical cover.
-**ANNA:** So the CGDIS is there before, during, and after an emergency. Preventing, responding, and caring.
+**ANNA:** So the rescue corps is there before, during, and after an emergency. Preventing, responding, and caring.
 **TOM:** So Tom... let's make this really practical. What should everyone take away?
 **ANNA:** First, and most important... in any emergency in Luxembourg, call 1-1-2.
 **TOM:** Second, teach it to your children, and to anyone new to the country. One-one-two.
 **ANNA:** Third, when you call, give your location clearly, say what happened, and stay on the line.
 **TOM:** Fourth, consider learning first aid... it is a gift you give to the people around you.
-**ANNA:** And fifth, if it speaks to you, think about becoming a volunteer with the CGDIS.
+**ANNA:** And fifth, if it speaks to you, think about becoming a volunteer firefighter.
 **TOM:** Let's bring it all together. What should people remember?
 **ANNA:** First... the CGDIS is Luxembourg's national fire and rescue service, created in 2018.
 **TOM:** Second... in any emergency, you call 1-1-2, free, any phone, day or night.
@@ -82,7 +82,7 @@
 **TOM:** And fourth... it also trains the public and gives prevention advice, so we can all help keep each other safe.
 **ANNA:** Emergencies are frightening. But you are not alone. Behind that number, people are ready to come.
 **TOM:** And knowing how to reach them, calmly and clearly, is something every one of us can learn today.
-**ANNA:** That was our episode about the CGDIS and the emergency number 112. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
+**ANNA:** That was our episode about Luxembourg's fire and rescue corps and the emergency number 112. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 **TOM:** Thank you, everyone. Take care... and see you next time!
 **ANNA:** Thank you so much for listening.
 

@@ -17,13 +17,13 @@
 **ANNA:** In Luxemburg rufen Sie bei jedem Notfall die 1-1-2 an.
 **TOM:** Sie ist kostenlos. Sie funktioniert von jedem Telefon aus, sogar ohne Guthaben. Und sie funktioniert Tag und Nacht, an jedem Tag des Jahres.
 **ANNA:** Sie rufen die 1-1-2 an bei einem Brand, bei einem schweren Unfall oder bei einem medizinischen Notfall... jemand, der schwer verletzt ist oder dessen Leben in Gefahr ist.
-**TOM:** Also Anna, was genau ist das CGDIS?
+**TOM:** Also Anna, was genau ist diese Organisation?
 **ANNA:** CGDIS steht für Corps grand-ducal d'incendie et de secours. Auf Englisch: the Grand Ducal Fire and Rescue Corps.
 **TOM:** Es ist der nationale Brand- und Rettungsdienst Luxemburgs.
 **ANNA:** Es wurde 2018 gegründet und vereinte die Feuerwehren und die Zivilschutzdienste des Landes in einer einzigen nationalen Organisation.
 **TOM:** Davor war die Rettung eher lokal organisiert. Jetzt ist sie vereinheitlicht, was die Hilfe schneller und besser koordiniert macht.
 **ANNA:** Und es arbeitet unter dem Innenministerium, gemeinsam mit den Gemeinden.
-**TOM:** Sprechen wir darüber, was das CGDIS tatsächlich tut. Es hat einige große Aufgaben.
+**TOM:** Sprechen wir darüber, was das Rettungskorps tatsächlich tut. Es hat einige große Aufgaben.
 **ANNA:** Die erste ist die Brandbekämpfung... Brände löschen und Menschen daraus retten.
 **TOM:** Die zweite ist die Rettung im weiteren Sinne... Verkehrsunfälle, eingeschlossene Personen, Überschwemmungen, gefährliche Situationen.
 **ANNA:** Und die dritte ist die medizinische Notfallhilfe... die Krankenwagen, die kommen, wenn jemand schwer krank oder verletzt ist.
@@ -42,39 +42,39 @@
 **TOM:** Ja. Die 1-1-2 ist für echte Notfälle da. Bitte rufen Sie sie nicht für eine Auskunft oder für ein kleineres Problem an.
 **ANNA:** Jeder unnötige Anruf kann die Leitung für jemanden blockieren, dessen Leben wirklich davon abhängt.
 **TOM:** Für nicht dringende Gesundheitsfragen gibt es andere Möglichkeiten, wie den ärztlichen Bereitschaftsdienst.
-**ANNA:** Sprechen wir nun über die Menschen hinter dem CGDIS, denn ihre Geschichte ist bemerkenswert.
-**TOM:** Das CGDIS hat Berufsfeuerwehrleute, die dies als ihren Vollzeitberuf ausüben.
+**ANNA:** Sprechen wir nun über die Menschen hinter dem Rettungskorps, denn ihre Geschichte ist bemerkenswert.
+**TOM:** Es hat Berufsfeuerwehrleute, die dies als ihren Vollzeitberuf ausüben.
 **ANNA:** Aber hier ist der erstaunliche Teil. Es stützt sich auch auf Tausende von Freiwilligen.
 **TOM:** Tausende freiwillige Feuerwehrleute. Etwa neun von zehn Feuerwehrleuten sind Freiwillige.
 **ANNA:** Neun von zehn! Die meisten Menschen, die zu Ihrer Hilfe eilen, sind also Freiwillige.
 **TOM:** Sie haben gewöhnliche Berufe und Familien. Aber wenn der Alarm ertönt, lassen sie alles stehen und liegen, um ihren Nachbarn zu helfen.
 **ANNA:** Es ist eine schöne Form der Solidarität. Menschen, die Menschen schützen, freiwillig.
-**TOM:** Schauen wir kurz an, wie das CGDIS im ganzen Land organisiert ist.
+**TOM:** Schauen wir kurz an, wie das Rettungskorps im ganzen Land organisiert ist.
 **ANNA:** Es gibt Brand- und Rettungszentren, genannt CIS, im ganzen Luxemburg verteilt, sodass die Hilfe nie weit entfernt ist.
 **TOM:** Es gibt ein nationales Zentrum, das CNIS, nahe Luxemburg-Stadt, das das gesamte System koordiniert.
 **ANNA:** Und es gibt spezialisierte Gruppen für schwierige Rettungen... Wasserrettung, gefährliche Stoffe, Rettungen aus großer Höhe.
 **TOM:** Die Ausrüstung ist ebenfalls beeindruckend. Zum Beispiel können moderne Hubrettungsbühnen Retter heben, um Menschen in mehr als dreißig Metern Höhe zu erreichen.
 **ANNA:** So hat ein kleines Land einen sehr modernen, gut organisierten Rettungsdienst. Das ist beruhigend.
 **TOM:** Nun, Anna, hier ist etwas, woran viele Hörer vielleicht nicht gedacht haben. Sie können ein Teil davon sein.
-**ANNA:** Ja! Das CGDIS heißt neue Freiwillige willkommen. Sie müssen noch kein Held sein... sie bilden Sie aus.
+**ANNA:** Ja! Das Rettungskorps heißt neue Freiwillige willkommen. Sie müssen noch kein Held sein... sie bilden Sie aus.
 **TOM:** Und auch junge Menschen können beitreten, als Jungfeuerwehrleute, die „Jeunes Pompiers", oder auf Luxemburgisch die „Jugendpompjeeën".
 **ANNA:** Es gibt auch berufliche Laufbahnen... als Feuerwehrmann, Offizier oder in technischen und administrativen Funktionen.
 **TOM:** Wenn Sie also Ihrer Gemeinschaft auf eine sehr konkrete Weise dienen möchten, ist dies eine der sinnvollsten Möglichkeiten dazu.
 **ANNA:** Das knüpft an etwas an, das wir in unserer Folge über das Ehrenamt gesagt haben... seine Zeit zu geben, um anderen zu helfen.
-**TOM:** Sprechen wir auch über Ausbildung und Prävention, denn das CGDIS tut mehr, als nur auf Notfälle zu reagieren.
+**TOM:** Sprechen wir auch über Ausbildung und Prävention, denn das Rettungskorps tut mehr, als nur auf Notfälle zu reagieren.
 **ANNA:** Es hat ein nationales Ausbildungsinstitut, das INFS, das seine Retter auf hohem Niveau ausbildet.
 **TOM:** Und es bietet der Öffentlichkeit Erste-Hilfe-Kurse an. Erste Hilfe zu lernen ist eine der wertvollsten Dinge, die Sie tun können.
 **ANNA:** Denn in den ersten Minuten eines Notfalls kann ein gewöhnlicher Mensch in der Nähe den ganzen Unterschied machen.
-**TOM:** Das CGDIS gibt auch Ratschläge zur Brandverhütung... einfache Dinge, die Ihr Zuhause sicherer machen.
+**TOM:** Das Rettungskorps gibt auch Ratschläge zur Brandverhütung... einfache Dinge, die Ihr Zuhause sicherer machen.
 **ANNA:** Wie funktionierende Rauchmelder zu haben, seine Ausgänge zu kennen und vorsichtig mit Kerzen und beim Kochen zu sein.
 **TOM:** Und wenn Sie eine große öffentliche Veranstaltung organisieren, müssen Sie diese möglicherweise anmelden, damit die Rettungsdienste eine medizinische Absicherung planen können.
-**ANNA:** So ist das CGDIS vor, während und nach einem Notfall da. Vorbeugen, eingreifen und sich kümmern.
+**ANNA:** So ist das Rettungskorps vor, während und nach einem Notfall da. Vorbeugen, eingreifen und sich kümmern.
 **TOM:** Also Tom... machen wir das ganz praktisch. Was sollte jeder mitnehmen?
 **ANNA:** Erstens, und am wichtigsten... rufen Sie bei jedem Notfall in Luxemburg die 1-1-2 an.
 **TOM:** Zweitens: Bringen Sie es Ihren Kindern bei, und jedem, der neu im Land ist. Eins-eins-zwei.
 **ANNA:** Drittens: Wenn Sie anrufen, geben Sie Ihren Standort klar an, sagen Sie, was passiert ist, und bleiben Sie in der Leitung.
 **TOM:** Viertens: Erwägen Sie, Erste Hilfe zu lernen... es ist ein Geschenk, das Sie den Menschen um Sie herum machen.
-**ANNA:** Und fünftens: Wenn es Sie anspricht, denken Sie darüber nach, Freiwilliger beim CGDIS zu werden.
+**ANNA:** Und fünftens: Wenn es Sie anspricht, denken Sie darüber nach, Freiwilliger beim Rettungskorps zu werden.
 **TOM:** Fassen wir alles zusammen. Woran sollten sich die Menschen erinnern?
 **ANNA:** Erstens... das CGDIS ist der nationale Brand- und Rettungsdienst Luxemburgs, gegründet 2018.
 **TOM:** Zweitens... bei jedem Notfall rufen Sie die 1-1-2 an, kostenlos, von jedem Telefon, Tag und Nacht.
@@ -82,7 +82,7 @@
 **TOM:** Und viertens... es bildet auch die Öffentlichkeit aus und gibt Präventionsratschläge, damit wir alle einander sicher halten können.
 **ANNA:** Notfälle sind beängstigend. Aber Sie sind nicht allein. Hinter dieser Nummer sind Menschen bereit zu kommen.
 **TOM:** Und zu wissen, wie man sie erreicht, ruhig und klar, ist etwas, das jeder von uns heute lernen kann.
-**ANNA:** Das war unsere Folge über das CGDIS und die Notrufnummer 112. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**ANNA:** Das war unsere Folge über das großherzogliche Feuerwehr- und Rettungskorps und die Notrufnummer 112. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
 **TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
 **ANNA:** Vielen Dank fürs Zuhören.
 
