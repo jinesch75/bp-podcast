@@ -42,7 +42,7 @@
 **TOM:** Oder Anweisungen, die schwer zu verstehen sind und die in klarer Sprache verfasst werden könnten.
 **ANNA:** Ein gutes Beispiel sind digitale Dienste. Die Plattform wurde genutzt, um die MyGuichet-App zu verbessern.
 **TOM:** Und wir haben in einer früheren Folge über MyGuichet gesprochen. Es ist der Online-Schalter des Staates.
-**ANNA:** Echte Nutzer gaben also Rückmeldungen, und diese Rückmeldungen halfen, ein Werkzeug zu gestalten, durch das Millionen von Verfahren laufen.
+**ANNA:** Echte Nutzer gaben also Rückmeldungen, und diese Rückmeldungen halfen, ein Werkzeug zu gestalten, durch das Hunderte von Verfahren laufen.
 **TOM:** Das ist das Magische daran. Der kleine Vorschlag einer Person kann das Leben für Tausende verbessern.
 **ANNA:** Sprechen wir darüber, warum dieser Ansatz wichtig ist, über den Papierkram selbst hinaus.
 **TOM:** Erstens spart er Zeit. Einfachere Verfahren bedeuten weniger Stress, für Bürger und für Mitarbeiter.

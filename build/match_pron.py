@@ -15,7 +15,8 @@ START = int(sys.argv[3]) if len(sys.argv) > 3 else 0   # resume from this senten
 TERMS = {"en": [("maison de l'orientation", r"(?i)maison de l.orientation", "It's called the Maison de l'Orientation, in Luxembourg City."),
                 ("lycée", r"(?i)\blycées?\b", "You can ask how to get back into a leessay."),
                 ("accessibilité", r"\baccessibilite\b", "Remember the website: accessibilité dot L-U."),
-                ("luxembourg", r"\bLuxembourg\b(?! City)", "I live and work in Luxembourg, a small country in Europe.")]}[lang]
+                ("luxembourg", r"\bLuxembourg\b(?! City)", "I live and work in Luxembourg, a small country in Europe."),
+                ("zesumme vereinfachen", r"\bZesumme Vereinfachen\b", "It is called Zesumme Vereinfachen.")]}[lang]
 # ONLY=<term> restricts to one term; SCORE_ONLY=1 just prints the current takes' distances; MAX_D=<x> retakes only
 # sentences whose current distance is above x (e.g. the few "Luxembourg" said the French way)
 ONLY = os.environ.get("ONLY"); SCORE_ONLY = os.environ.get("SCORE_ONLY") == "1"; MAX_D = float(os.environ.get("MAX_D", "0"))

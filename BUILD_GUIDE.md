@@ -390,3 +390,7 @@ Jacques: the English voice can't say "Jonker staark maachen" → left out of the
 
 Jacques: recording quality not good → all 16 "..." pauses removed per language (new reusable `build/remove_ellipses.py <key> [langs] [--dry]`; then 5 hand-picked colons: initials "O, N, E", list of family types, "is this helping?", "has a name: the Office…", "a caring one: support…"). Tom's short "Where is it?" merged: "Now, how do you actually reach the ONE, and where can you find it?" (EN). Voice QC on EN/FR/DE + `best_take.py` on flagged lines (EN 6, FR 7, DE 1). NB: after a script edit that merges/splits sentences, re-check indices before `best_take.py` (they shift). ≈ 7,000 credits. EN 7:05, FR 7:03, DE 8:08. DE was already clean.
 - CePAS EN (17 Nov 2026): the one "lycée" sentence re-recorded with the EN "leessay" rule (Maison de l'orientation choice) + take matched to the reference (`ONLY=lycée match_pron.py cepas en`), ≈ 280 credits.
+
+## Zesumme Vereinfachen (17 Nov 2026)
+
+"millions of procedures" → "hundreds" (EN/FR/DE/LB, `build/apply_hundreds_zesumme_2026_11.py`). EN name: A/B with the German voice as reference (`build/el_test/pron_zesumme_en_AB.mp3`) → Jacques chose "as written"; the 5 EN sentences got the take closest to that reference (`ONLY="zesumme vereinfachen" match_pron.py zesumme en`; the outro take had the name unrecognisable). ≈ 1,300 credits.

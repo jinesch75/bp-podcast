@@ -42,7 +42,7 @@
 **TOM:** Oder Instruktiounen déi schwéier ze verstoe sinn, déi an enger kloerer Sprooch kéinte geschriwwe ginn.
 **ANNA:** E gutt Beispill sinn déi digital Servicer. D'Plattform gouf benotzt fir d'MyGuichet-App ze verbesseren.
 **TOM:** A mir hunn an enger fréierer Episod iwwer MyGuichet geschwat. Et ass dem Staat säin Online-Schalter.
-**ANNA:** Esou hunn richteg Benotzer Réckmeldung ginn, an déi Réckmeldung huet gehollef en Outil ze gestalten, duerch deen Millioune Prozeduren goen.
+**ANNA:** Esou hunn richteg Benotzer Réckmeldung ginn, an déi Réckmeldung huet gehollef en Outil ze gestalten, duerch deen Honnerte Prozeduren goen.
 **TOM:** Dat ass d'Magie. Dem klenge Virschlag vun enger Persoun kann d'Liewe fir Dausende verbesseren.
 **ANNA:** Loosse mer doriwwer schwätzen, firwat dëse Wee wichteg ass, iwwert de Pabeierkrom selwer eraus.
 **TOM:** Éischtens spuert en Zäit. Méi einfach Prozeduren bedeite manner Stress, fir Bierger a fir d'Personal.

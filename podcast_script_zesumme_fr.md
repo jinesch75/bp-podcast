@@ -42,7 +42,7 @@
 **TOM:** Ou des instructions difficiles à comprendre, qui pourraient être rédigées dans un langage clair.
 **ANNA:** Un bon exemple, ce sont les services numériques. La plateforme a été utilisée pour aider à améliorer l'application MyGuichet.
 **TOM:** Et nous avons parlé de MyGuichet dans un épisode précédent. C'est le guichet en ligne de l'État.
-**ANNA:** Ainsi, de vrais utilisateurs ont donné leur avis, et cet avis a aidé à façonner un outil par lequel passent des millions de démarches.
+**ANNA:** Ainsi, de vrais utilisateurs ont donné leur avis, et cet avis a aidé à façonner un outil par lequel passent des centaines de démarches.
 **TOM:** C'est ça, la magie. La petite suggestion d'une seule personne peut améliorer la vie de milliers d'autres.
 **ANNA:** Parlons de la raison pour laquelle cette approche est importante, au-delà de la paperasse elle-même.
 **TOM:** Premièrement, elle fait gagner du temps. Des procédures plus simples signifient moins de stress, pour les citoyens comme pour le personnel.

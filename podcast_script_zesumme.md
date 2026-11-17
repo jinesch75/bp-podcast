@@ -42,7 +42,7 @@
 **TOM:** Or instructions that are hard to understand, that could be written in plain language.
 **ANNA:** A good example is digital services. The platform has been used to help improve the MyGuichet app.
 **TOM:** And we have talked about MyGuichet in an earlier episode. It's the State's online counter.
-**ANNA:** So real users gave feedback, and that feedback helped shape a tool that millions of procedures pass through.
+**ANNA:** So real users gave feedback, and that feedback helped shape a tool that hundreds of procedures pass through.
 **TOM:** That's the magic. One person's small suggestion can improve life for thousands.
 **ANNA:** Let's talk about why this approach matters, beyond the paperwork itself.
 **TOM:** First, it saves time. Simpler procedures mean less stress, for citizens and for staff.
