@@ -9,21 +9,21 @@
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
 **ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
-**TOM:** Et aujourd'hui, nous nous penchons sur une autre manière de faire des affaires... une manière où le profit n'est pas le seul objectif.
+**TOM:** Et aujourd'hui, nous nous penchons sur une autre manière de faire des affaires, une manière où le profit n'est pas le seul objectif.
 **ANNA:** Quand nous pensons à une entreprise, nous pensons généralement à gagner de l'argent. Et c'est normal et nécessaire.
-**TOM:** Mais que se passerait-il si une entreprise existait surtout pour faire le bien... pour aider les gens, ou la planète ?
-**ANNA:** C'est le cœur du sujet d'aujourd'hui... l'économie sociale et solidaire.
+**TOM:** Mais que se passerait-il si une entreprise existait surtout pour faire le bien, pour aider les gens, ou la planète ?
+**ANNA:** C'est le cœur du sujet d'aujourd'hui, l'économie sociale et solidaire.
 **TOM:** Et le Luxembourg dispose d'un portail officiel qui lui est dédié.
 **ANNA:** Alors Tom, qu'est-ce que l'économie sociale et solidaire ?
 **TOM:** C'est le monde des organisations dont le premier but est un bénéfice social ou sociétal, et pas seulement le profit.
 **ANNA:** Le profit compte toujours, car une organisation doit survivre. Mais c'est un moyen, pas le but principal.
 **TOM:** Pensez aux coopératives, aux associations, aux mutuelles, aux fondations et aux entreprises sociales.
 **ANNA:** Vous en connaissez probablement déjà certaines sans vous en rendre compte.
-**TOM:** Un service de soins géré par une association à but non lucratif, un magasin coopératif, une œuvre caritative qui exerce aussi une activité économique... voilà des exemples.
+**TOM:** Un service de soins géré par une association à but non lucratif, un magasin coopératif, une œuvre caritative qui exerce aussi une activité économique, voilà des exemples.
 **ANNA:** Elles créent de vrais emplois, de vrais produits et services, mais elles réinvestissent dans leur mission.
 **TOM:** Parlons de l'importance de cela pour un pays.
 **ANNA:** D'abord, parce que cela place les personnes et la planète au centre de l'économie.
-**TOM:** Ensuite, parce que cela répond souvent à des besoins que les entreprises ordinaires négligent... l'inclusion, le soin aux autres, l'environnement.
+**TOM:** Ensuite, parce que cela répond souvent à des besoins que les entreprises ordinaires négligent, l'inclusion, le soin aux autres, l'environnement.
 **ANNA:** Et enfin, parce que cela crée des emplois, y compris pour des personnes qui ont du mal à entrer sur le marché du travail classique.
 **TOM:** Donc c'est bon pour l'économie et bon pour la société en même temps.
 **ANNA:** Le Luxembourg a même donné à cela une forme juridique particulière.
@@ -41,19 +41,19 @@
 **ANNA:** Troisièmement, en tant que personne dans le besoin. De nombreuses organisations de l'économie sociale offrent des soins, du soutien et de l'inclusion.
 **TOM:** Et quatrièmement, en tant que rêveur. Si vous avez une idée pour résoudre un problème, cela pourrait être votre moyen de la réaliser.
 **ANNA:** C'est un rappel que l'économie ne se résume pas à la concurrence. C'est aussi la coopération et la solidarité.
-**TOM:** Ce qui s'accorde merveilleusement avec l'esprit du Biergerpakt... vivre ensemble, et veiller les uns sur les autres.
+**TOM:** Ce qui s'accorde merveilleusement avec l'esprit du Biergerpakt, vivre ensemble, et veiller les uns sur les autres.
 **ANNA:** Rendons cela concret. Qu'est-ce que les gens peuvent en retenir ?
 **TOM:** D'abord, remarquez les organisations de l'économie sociale autour de vous, et envisagez de les soutenir.
 **ANNA:** Ensuite, si vous voulez un travail qui a du sens, regardez du côté de ce secteur.
 **TOM:** Troisièmement, si vous avez une idée pour faire le bien à travers une entreprise, explorez le statut de société d'impact sociétal (SIS) sur le portail.
 **ANNA:** Faisons la synthèse. Que devraient retenir les gens à propos de l'économie sociale et solidaire ?
-**TOM:** Premièrement... c'est la partie de l'économie où le but social ou sociétal passe en premier, et pas seulement le profit.
-**ANNA:** Deuxièmement... elle comprend les coopératives, les associations, les fondations et les entreprises sociales.
-**TOM:** Troisièmement... le Luxembourg dispose d'un statut juridique, la société d'impact sociétal (SIS), pour officialiser tout cela.
-**ANNA:** Et quatrièmement... le portail explique tout et aide les gens à créer ce type d'entreprise.
+**TOM:** Premièrement, c'est la partie de l'économie où le but social ou sociétal passe en premier, et pas seulement le profit.
+**ANNA:** Deuxièmement, elle comprend les coopératives, les associations, les fondations et les entreprises sociales.
+**TOM:** Troisièmement, le Luxembourg dispose d'un statut juridique, la société d'impact sociétal (SIS), pour officialiser tout cela.
+**ANNA:** Et quatrièmement, le portail explique tout et aide les gens à créer ce type d'entreprise.
 **TOM:** L'argent est un outil puissant. Et quand nous le dirigeons vers le bien commun, des choses merveilleuses peuvent arriver.
 **ANNA:** Une économie plus bienveillante n'est pas un rêve. Elle est déjà là, à l'œuvre discrètement, tout autour de nous. C'était notre épisode sur l'économie sociale et solidaire. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
-**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**TOM:** Merci à tous. Prenez soin de vous, et à la prochaine !
 **ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---

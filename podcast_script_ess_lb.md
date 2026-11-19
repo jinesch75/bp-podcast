@@ -9,21 +9,21 @@
 **ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 **TOM:** Moien alleguer!
 **ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
-**TOM:** A haut kucke mir eng aner Aart a Weis fir ze wirtschaften... eng, bei där de Profit net dat eenzegt Zil ass.
+**TOM:** A haut kucke mir eng aner Aart a Weis fir ze wirtschaften, eng, bei där de Profit net dat eenzegt Zil ass.
 **ANNA:** Wa mir un eng Entreprise denken, denke mir meeschtens drun, Suen ze verdéngen. An dat ass normal an néideg.
-**TOM:** Mä wat wier, wann eng Entreprise virun allem do wier fir Guddes ze maachen... fir de Leit ze hëllefen, oder dem Planéit?
-**ANNA:** Dat ass de Kär vun eisem haitegen Thema... d'Sozial- a Solidarwirtschaft.
+**TOM:** Mä wat wier, wann eng Entreprise virun allem do wier fir Guddes ze maachen, fir de Leit ze hëllefen, oder dem Planéit?
+**ANNA:** Dat ass de Kär vun eisem haitegen Thema, d'Sozial- a Solidarwirtschaft.
 **TOM:** A Lëtzebuerg huet dofir en eegene offizielle Portal.
 **ANNA:** Also Tom, wat ass d'Sozial- a Solidarwirtschaft?
 **TOM:** Et ass d'Welt vun den Organisatiounen, deenen hiren éischten Zweck e soziale oder gesellschaftleche Notze ass, net just de Profit.
 **ANNA:** De Profit ass nach ëmmer wichteg, well eng Organisatioun muss iwwerliewen. Mä et ass e Mëttel, net dat Haaptziel.
 **TOM:** Denkt un Genossenschaften, Veräiner, Géigesäitegkeetsgesellschaften, Stëftungen a Sozialentreprisen.
 **ANNA:** Dir kennt der wahrscheinlech schonn e puer, ouni datt Dir et gemierkt hutt.
-**TOM:** E Fleegdéngscht, deen vun engem gemengnëtzege Veräin gefouert gëtt, e Genossenschaftslueden, eng Wohltätegkeetsorganisatioun, déi och eng Entreprise féiert... dat sinn Beispiller.
+**TOM:** E Fleegdéngscht, deen vun engem gemengnëtzege Veräin gefouert gëtt, e Genossenschaftslueden, eng Wohltätegkeetsorganisatioun, déi och eng Entreprise féiert, dat sinn Beispiller.
 **ANNA:** Si schafen richteg Aarbechtsplazen, richteg Produiten an Déngschtleeschtungen, mä si investéieren erëm an hir Missioun.
 **TOM:** Loosst eis driwwer schwätzen, firwat dat fir e Land wichteg ass.
 **ANNA:** Als éischt, well et d'Mënschen an de Planéit an den Zentrum vun der Wirtschaft setzt.
-**TOM:** Als zweet, well et dacks Bedierfnesser deckt, déi gewéinlech Entreprisen iwwersinn... Inklusioun, Fleeg, d'Ëmwelt.
+**TOM:** Als zweet, well et dacks Bedierfnesser deckt, déi gewéinlech Entreprisen iwwersinn. Inklusioun, Fleeg, d'Ëmwelt.
 **ANNA:** An als drëtt, well et Aarbechtsplazen schaaft, och fir Leit, déi et schwéier hunn, op den normalen Aarbechtsmaart ze kommen.
 **TOM:** Et ass also gutt fir d'Wirtschaft a gutt fir d'Gesellschaft zur selwechter Zäit.
 **ANNA:** Lëtzebuerg huet dofir souguer eng besonnesch Rechtsform geschaf.
@@ -41,19 +41,19 @@
 **ANNA:** Als drëtt, als Mënsch a Nout. Vill Organisatiounen vun der Sozialwirtschaft bidden Fleeg, Ënnerstëtzung an Inklusioun.
 **TOM:** An als véiert, als Dreemer. Wann Dir eng Iddi hutt fir e Problem ze léisen, kéint dat Äre Wee sinn fir se ze verwierklechen.
 **ANNA:** Et ass eng Erënnerung drun, datt et an der Wirtschaft net nëmmen ëm Concurrence geet. Et geet och ëm Zesummenaarbecht a Solidaritéit.
-**TOM:** Wat wonnerbar zum Geescht vum Biergerpakt passt... zesummeliewen, an openee oppassen.
+**TOM:** Wat wonnerbar zum Geescht vum Biergerpakt passt, zesummeliewen, an openee oppassen.
 **ANNA:** Maache mir et praktesch. Wat kënnen d'Leit dovunner mathuelen?
 **TOM:** Als éischt, gitt Uecht op d'Organisatiounen vun der Sozialwirtschaft ronderëm Iech, an iwwerleet, si z'ënnerstëtzen.
 **ANNA:** Als zweet, wann Dir eng Aarbecht mat Sënn wëllt, kuckt op dëse Secteur.
 **TOM:** Als drëtt, wann Dir eng Iddi hutt fir duerch eng Entreprise Guddes ze maachen, erkonnt de Statut vun der Gesellschaft mat gesellschaftlecher Wierkung um Portal.
 **ANNA:** Faasse mir et zesummen. Wat sollten d'Leit sech iwwer d'Sozial- a Solidarwirtschaft merken?
-**TOM:** Als éischt... et ass den Deel vun der Wirtschaft, wou de soziale oder gesellschaftlechen Zweck u éischter Stell steet, net just de Profit.
-**ANNA:** Als zweet... dozou gehéieren Genossenschaften, Veräiner, Stëftungen a Sozialentreprisen.
-**TOM:** Als drëtt... Lëtzebuerg huet e Rechtsstatut, d'Gesellschaft mat gesellschaftlecher Wierkung, fir dat offiziell ze maachen.
-**ANNA:** An als véiert... de Portal erkläert dat alles an hëlleft de Leit, sou eng Entreprise ze grënnen.
+**TOM:** Als éischt, et ass den Deel vun der Wirtschaft, wou de soziale oder gesellschaftlechen Zweck u éischter Stell steet, net just de Profit.
+**ANNA:** Als zweet, dozou gehéieren Genossenschaften, Veräiner, Stëftungen a Sozialentreprisen.
+**TOM:** Als drëtt. Lëtzebuerg huet e Rechtsstatut, d'Gesellschaft mat gesellschaftlecher Wierkung, fir dat offiziell ze maachen.
+**ANNA:** An als véiert, de Portal erkläert dat alles an hëlleft de Leit, sou eng Entreprise ze grënnen.
 **TOM:** Suen sinn e mächtegt Instrument. A wa mir se op d'Gemengewuel riichten, kënne wonnerbar Saache geschéien.
 **ANNA:** Eng frëndlech Wirtschaft ass keen Dram. Si ass scho do, roueg um Wierken, ronderëm eis. Dat war eis Episod iwwer d'Sozial- a Solidarwirtschaft. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
-**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**TOM:** Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!
 **ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---

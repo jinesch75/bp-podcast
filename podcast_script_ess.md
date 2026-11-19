@@ -9,21 +9,21 @@
 **ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
 **ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
-**TOM:** And today we look at a different way of doing business... one where profit is not the only goal.
+**TOM:** And today we look at a different way of doing business: one where profit is not the only goal.
 **ANNA:** When we think of a company, we usually think of making money. And that's normal and necessary.
-**TOM:** But what if a business existed mainly to do good... to help people, or the planet?
-**ANNA:** That's the heart of today's topic... the social and solidarity economy.
+**TOM:** But what if a business existed mainly to do good: to help people, or the planet?
+**ANNA:** That's the heart of today's topic: the social and solidarity economy.
 **TOM:** And Luxembourg has an official portal dedicated to it.
 **ANNA:** So Tom, what is the social and solidarity economy?
 **TOM:** It's the world of organisations whose first purpose is a social or societal benefit, not just profit.
 **ANNA:** Profit still matters, because an organisation must survive. But it's a means, not the main aim.
 **TOM:** Think of cooperatives, associations, mutual societies, foundations, and social enterprises.
 **ANNA:** You probably already know some of them without realising it.
-**TOM:** A care service run by a non-profit, a cooperative shop, a charity that also runs a business... these are examples.
+**TOM:** A care service run by a non-profit, a cooperative shop, a charity that also runs a business — these are examples.
 **ANNA:** They create real jobs, real products and services, but they reinvest in their mission.
 **TOM:** Let's talk about why this matters for a country.
 **ANNA:** First, because it puts people and the planet at the centre of the economy.
-**TOM:** Second, because it often serves needs that ordinary business overlooks... inclusion, care, the environment.
+**TOM:** Second, because it often serves needs that ordinary business overlooks: inclusion, care, the environment.
 **ANNA:** And third, because it creates jobs, including for people who find it hard to enter the normal job market.
 **TOM:** So it's good for the economy and good for society at the same time.
 **ANNA:** Luxembourg has even given this a special legal form.
@@ -41,19 +41,19 @@
 **ANNA:** Third, as someone in need. Many social-economy organisations provide care, support and inclusion.
 **TOM:** And fourth, as a dreamer. If you have an idea to solve a problem, this could be your way to do it.
 **ANNA:** It's a reminder that the economy is not only about competition. It's also about cooperation and solidarity.
-**TOM:** Which fits the spirit of the Biergerpakt beautifully... living together, and looking out for one another.
+**TOM:** Which fits the spirit of the Biergerpakt beautifully: living together, and looking out for one another.
 **ANNA:** Let's make it practical. What can people take from this?
 **TOM:** First, notice the social-economy organisations around you, and consider supporting them.
 **ANNA:** Second, if you want work with meaning, look at this sector.
 **TOM:** Third, if you have an idea to do good through business, explore the societal impact company status on the portal.
 **ANNA:** Let's bring it together. What should people remember about the social and solidarity economy?
-**TOM:** First... it's the part of the economy where social or societal purpose comes first, not just profit.
-**ANNA:** Second... it includes cooperatives, associations, foundations and social enterprises.
-**TOM:** Third... Luxembourg has a legal status, the societal impact company, to make this official.
-**ANNA:** And fourth... the portal explains it all and helps people create such a business.
+**TOM:** First, it's the part of the economy where social or societal purpose comes first, not just profit.
+**ANNA:** Second, it includes cooperatives, associations, foundations and social enterprises.
+**TOM:** Third, Luxembourg has a legal status — the societal impact company — to make this official.
+**ANNA:** And fourth, the portal explains it all and helps people create such a business.
 **TOM:** Money is a powerful tool. And when we point it at the common good, wonderful things can happen.
 **ANNA:** A kinder economy isn't a dream. It's already here, quietly working, all around us. That was our episode about the social and solidarity economy. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
-**TOM:** Thank you, everyone. Take care... and see you next time!
+**TOM:** Thank you, everyone. Take care, and see you next time!
 **ANNA:** Thank you so much for listening.
 
 ---

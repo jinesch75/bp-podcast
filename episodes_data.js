@@ -88616,7 +88616,7 @@ const EPISODES = [
   "title": "The Social and Solidarity Economy – Business with a Purpose",
   "description": "What the social and solidarity economy is — organisations whose first aim is a social or societal benefit rather than only profit, such as cooperatives, associations, foundations and social enterprises — Luxembourg's 'societal impact company' status, and how the portal helps people create a business that does good.",
   "audio": "podcast_ess.mp3",
-  "duration": 321.28,
+  "duration": 323.71,
   "topics": [
    "Business beyond profit",
    "Cooperatives, associations & more",
@@ -88660,338 +88660,338 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "And today we look at a different way of doing business... one where profit is not the only goal.",
+    "text": "And today we look at a different way of doing business: one where profit is not the only goal.",
     "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "When we think of a company, we usually think of making money.",
-    "t": 32.96
+    "t": 33.93
    },
    {
     "speaker": "Anna",
     "text": "And that's normal and necessary.",
-    "t": 36.54
+    "t": 37.51
    },
    {
     "speaker": "Tom",
-    "text": "But what if a business existed mainly to do good... to help people, or the planet?",
-    "t": 38.71
+    "text": "But what if a business existed mainly to do good: to help people, or the planet?",
+    "t": 39.68
    },
    {
     "speaker": "Anna",
-    "text": "That's the heart of today's topic... the social and solidarity economy.",
-    "t": 43.46
+    "text": "That's the heart of today's topic: the social and solidarity economy.",
+    "t": 44.37
    },
    {
     "speaker": "Tom",
     "text": "And Luxembourg has an official portal dedicated to it.",
-    "t": 48.44
+    "t": 49.21
    },
    {
     "speaker": "Anna",
     "text": "So Tom, what is the social and solidarity economy?",
-    "t": 51.52
+    "t": 52.29
    },
    {
     "speaker": "Tom",
     "text": "It's the world of organisations whose first purpose is a social or societal benefit, not just profit.",
-    "t": 55.24
+    "t": 56.01
    },
    {
     "speaker": "Anna",
     "text": "Profit still matters, because an organisation must survive.",
-    "t": 62.04
+    "t": 62.81
    },
    {
     "speaker": "Anna",
     "text": "But it's a means, not the main aim.",
-    "t": 66.52
+    "t": 67.29
    },
    {
     "speaker": "Tom",
     "text": "Think of cooperatives, associations, mutual societies, foundations, and social enterprises.",
-    "t": 69.14
+    "t": 69.91
    },
    {
     "speaker": "Anna",
     "text": "You probably already know some of them without realising it.",
-    "t": 75.03
+    "t": 75.8
    },
    {
     "speaker": "Tom",
-    "text": "A care service run by a non-profit, a cooperative shop, a charity that also runs a business... these are examples.",
-    "t": 78.44
+    "text": "A care service run by a non-profit, a cooperative shop, a charity that also runs a business — these are examples.",
+    "t": 79.21
    },
    {
     "speaker": "Anna",
     "text": "They create real jobs, real products and services, but they reinvest in their mission.",
-    "t": 85.67
+    "t": 86.31
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about why this matters for a country.",
-    "t": 90.94
+    "t": 91.58
    },
    {
     "speaker": "Anna",
     "text": "First, because it puts people and the planet at the centre of the economy.",
-    "t": 93.15
+    "t": 93.79
    },
    {
     "speaker": "Tom",
-    "text": "Second, because it often serves needs that ordinary business overlooks... inclusion, care, the environment.",
-    "t": 97.34
+    "text": "Second, because it often serves needs that ordinary business overlooks: inclusion, care, the environment.",
+    "t": 97.98
    },
    {
     "speaker": "Anna",
     "text": "And third, because it creates jobs, including for people who find it hard to enter the normal job market.",
-    "t": 103.48
+    "t": 105.4
    },
    {
     "speaker": "Tom",
     "text": "So it's good for the economy and good for society at the same time.",
-    "t": 109.71
+    "t": 111.63
    },
    {
     "speaker": "Anna",
     "text": "Luxembourg has even given this a special legal form.",
-    "t": 113.69
+    "t": 115.61
    },
    {
     "speaker": "Tom",
     "text": "Yes. There's a status called the societal impact company.",
-    "t": 117.09
+    "t": 119.01
    },
    {
     "speaker": "Anna",
     "text": "It lets you create a real business whose official purpose is social impact, recognised by law since 2016 and approved by the Ministry of Labour.",
-    "t": 120.57
+    "t": 122.35
    },
    {
     "speaker": "Tom",
     "text": "So an entrepreneur can build something that earns its way, but exists to do good.",
-    "t": 130.53
+    "t": 132.31
    },
    {
     "speaker": "Anna",
     "text": "And that's where the portal comes in, for people with an idea.",
-    "t": 135.23
+    "t": 137.01
    },
    {
     "speaker": "Tom",
     "text": "The portal, run by the Ministry of Labour, explains the social and solidarity economy and how to create this kind of company.",
-    "t": 138.73
+    "t": 140.51
    },
    {
     "speaker": "Tom",
     "text": "And the ministry's social business incubator offers free support to get started.",
-    "t": 146.35
+    "t": 148.13
    },
    {
     "speaker": "Anna",
     "text": "So if you dream of starting a business that also makes a difference, it shows you the path.",
-    "t": 151.08
+    "t": 152.86
    },
    {
     "speaker": "Tom",
     "text": "It's part of a wider movement too.",
-    "t": 156.42
+    "t": 158.2
    },
    {
     "speaker": "Tom",
     "text": "This is growing across Europe, and even recognised at the United Nations.",
-    "t": 158.41
+    "t": 160.19
    },
    {
     "speaker": "Anna",
     "text": "Because more and more people want their work, and their money, to mean something.",
-    "t": 162.43
+    "t": 164.21
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it down to earth.",
-    "t": 166.8
+    "t": 168.58
    },
    {
     "speaker": "Tom",
     "text": "How does this touch an ordinary person's life?",
-    "t": 168.04
+    "t": 169.96
    },
    {
     "speaker": "Anna",
     "text": "First, as a customer.",
-    "t": 171.03
+    "t": 172.95
    },
    {
     "speaker": "Anna",
     "text": "When you choose a cooperative or a social enterprise, your money supports a mission.",
-    "t": 172.75
+    "t": 174.67
    },
    {
     "speaker": "Tom",
     "text": "Second, as a worker.",
-    "t": 177.75
+    "t": 179.67
    },
    {
     "speaker": "Tom",
     "text": "These organisations offer jobs with a strong sense of purpose.",
-    "t": 179.4
+    "t": 181.32
    },
    {
     "speaker": "Anna",
     "text": "Third, as someone in need.",
-    "t": 182.81
+    "t": 184.73
    },
    {
     "speaker": "Anna",
     "text": "Many social-economy organisations provide care, support and inclusion.",
-    "t": 184.73
+    "t": 186.65
    },
    {
     "speaker": "Tom",
     "text": "And fourth, as a dreamer.",
-    "t": 189.88
+    "t": 191.8
    },
    {
     "speaker": "Tom",
     "text": "If you have an idea to solve a problem, this could be your way to do it.",
-    "t": 191.67
+    "t": 193.59
    },
    {
     "speaker": "Anna",
     "text": "It's a reminder that the economy is not only about competition.",
-    "t": 195.53
+    "t": 197.45
    },
    {
     "speaker": "Anna",
     "text": "It's also about cooperation and solidarity.",
-    "t": 199.31
+    "t": 201.23
    },
    {
     "speaker": "Tom",
-    "text": "Which fits the spirit of the Biergerpakt beautifully... living together, and looking out for one another.",
-    "t": 202.52
+    "text": "Which fits the spirit of the Biergerpakt beautifully: living together, and looking out for one another.",
+    "t": 204.44
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 209.28
+    "t": 211.12
    },
    {
     "speaker": "Anna",
     "text": "What can people take from this?",
-    "t": 210.81
+    "t": 212.55
    },
    {
     "speaker": "Tom",
     "text": "First, notice the social-economy organisations around you, and consider supporting them.",
-    "t": 212.83
+    "t": 214.57
    },
    {
     "speaker": "Anna",
     "text": "Second, if you want work with meaning, look at this sector.",
-    "t": 218.25
+    "t": 219.99
    },
    {
     "speaker": "Tom",
     "text": "Third, if you have an idea to do good through business, explore the societal impact company status on the portal.",
-    "t": 222.16
+    "t": 223.9
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it together.",
-    "t": 229.85
+    "t": 230.88
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about the social and solidarity economy?",
-    "t": 231.22
+    "t": 232.25
    },
    {
     "speaker": "Tom",
-    "text": "First... it's the part of the economy where social or societal purpose comes first, not just profit.",
-    "t": 235.2
+    "text": "First, it's the part of the economy where social or societal purpose comes first, not just profit.",
+    "t": 236.23
    },
    {
     "speaker": "Anna",
-    "text": "Second... it includes cooperatives, associations, foundations and social enterprises.",
-    "t": 242.11
+    "text": "Second, it includes cooperatives, associations, foundations and social enterprises.",
+    "t": 242.9
    },
    {
     "speaker": "Tom",
-    "text": "Third... Luxembourg has a legal status, the societal impact company, to make this official.",
-    "t": 247.72
+    "text": "Third, Luxembourg has a legal status — the societal impact company — to make this official.",
+    "t": 248.89
    },
    {
     "speaker": "Anna",
-    "text": "And fourth... the portal explains it all and helps people create such a business.",
-    "t": 253.56
+    "text": "And fourth, the portal explains it all and helps people create such a business.",
+    "t": 255.8
    },
    {
     "speaker": "Tom",
     "text": "Money is a powerful tool.",
-    "t": 258.78
+    "t": 261.1
    },
    {
     "speaker": "Tom",
     "text": "And when we point it at the common good, wonderful things can happen.",
-    "t": 260.89
+    "t": 263.21
    },
    {
     "speaker": "Anna",
     "text": "A kinder economy isn't a dream.",
-    "t": 264.58
+    "t": 266.9
    },
    {
     "speaker": "Anna",
     "text": "It's already here, quietly working, all around us.",
-    "t": 266.93
+    "t": 269.25
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the social and solidarity economy.",
-    "t": 270.77
+    "t": 273.09
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 274.39
+    "t": 276.71
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 284.56
+    "t": 286.88
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 302.84
+    "t": 305.16
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 309.59
+    "t": 311.91
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 311.79
+    "t": 314.11
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 316.48
+    "t": 318.8
    },
    {
     "speaker": "Tom",
-    "text": "Take care... and see you next time!",
-    "t": 317.56
+    "text": "Take care, and see you next time!",
+    "t": 319.97
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 319.68
+    "t": 322.11
    }
   ],
   "questions": [
@@ -89194,7 +89194,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_ess_fr.mp3",
-  "duration_fr": 319.69,
+  "duration_fr": 317.41,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -89214,356 +89214,356 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
-    "text": "Et aujourd'hui, nous nous penchons sur une autre manière de faire des affaires... une manière où le profit n'est pas le seul objectif.",
-    "t": 23.07
+    "text": "Et aujourd'hui, nous nous penchons sur une autre manière de faire des affaires, une manière où le profit n'est pas le seul objectif.",
+    "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "Quand nous pensons à une entreprise, nous pensons généralement à gagner de l'argent.",
-    "t": 29.57
+    "t": 29.37
    },
    {
     "speaker": "Anna",
     "text": "Et c'est normal et nécessaire.",
-    "t": 33.22
+    "t": 33.02
    },
    {
     "speaker": "Tom",
-    "text": "Mais que se passerait-il si une entreprise existait surtout pour faire le bien... pour aider les gens, ou la planète ?",
-    "t": 35.12
+    "text": "Mais que se passerait-il si une entreprise existait surtout pour faire le bien, pour aider les gens, ou la planète ?",
+    "t": 34.92
    },
    {
     "speaker": "Anna",
-    "text": "C'est le cœur du sujet d'aujourd'hui... l'économie sociale et solidaire.",
-    "t": 41.37
+    "text": "C'est le cœur du sujet d'aujourd'hui, l'économie sociale et solidaire.",
+    "t": 41.5
    },
    {
     "speaker": "Tom",
     "text": "Et le Luxembourg dispose d'un portail officiel qui lui est dédié.",
-    "t": 45.62
+    "t": 45.27
    },
    {
     "speaker": "Anna",
     "text": "Alors Tom, qu'est-ce que l'économie sociale et solidaire ?",
-    "t": 49.3
+    "t": 48.95
    },
    {
     "speaker": "Tom",
     "text": "C'est le monde des organisations dont le premier but est un bénéfice social ou sociétal, et pas seulement le profit.",
-    "t": 52.24
+    "t": 51.89
    },
    {
     "speaker": "Anna",
     "text": "Le profit compte toujours, car une organisation doit survivre.",
-    "t": 58.69
+    "t": 58.34
    },
    {
     "speaker": "Anna",
     "text": "Mais c'est un moyen, pas le but principal.",
-    "t": 61.85
+    "t": 61.5
    },
    {
     "speaker": "Tom",
     "text": "Pensez aux coopératives, aux associations, aux mutuelles, aux fondations et aux entreprises sociales.",
-    "t": 64.17
+    "t": 63.82
    },
    {
     "speaker": "Anna",
     "text": "Vous en connaissez probablement déjà certaines sans vous en rendre compte.",
-    "t": 70.35
+    "t": 70
    },
    {
     "speaker": "Tom",
-    "text": "Un service de soins géré par une association à but non lucratif, un magasin coopératif, une œuvre caritative qui exerce aussi une activité économique... voilà des exemples.",
-    "t": 74.05
+    "text": "Un service de soins géré par une association à but non lucratif, un magasin coopératif, une œuvre caritative qui exerce aussi une activité économique, voilà des exemples.",
+    "t": 73.7
    },
    {
     "speaker": "Anna",
     "text": "Elles créent de vrais emplois, de vrais produits et services, mais elles réinvestissent dans leur mission.",
-    "t": 84.25
+    "t": 84.14
    },
    {
     "speaker": "Tom",
     "text": "Parlons de l'importance de cela pour un pays.",
-    "t": 89.3
+    "t": 89.19
    },
    {
     "speaker": "Anna",
     "text": "D'abord, parce que cela place les personnes et la planète au centre de l'économie.",
-    "t": 91.73
+    "t": 91.62
    },
    {
     "speaker": "Tom",
-    "text": "Ensuite, parce que cela répond souvent à des besoins que les entreprises ordinaires négligent... l'inclusion, le soin aux autres, l'environnement.",
-    "t": 95.59
+    "text": "Ensuite, parce que cela répond souvent à des besoins que les entreprises ordinaires négligent, l'inclusion, le soin aux autres, l'environnement.",
+    "t": 95.48
    },
    {
     "speaker": "Anna",
     "text": "Et enfin, parce que cela crée des emplois, y compris pour des personnes qui ont du mal à entrer sur le marché du travail classique.",
-    "t": 104.14
+    "t": 104.08
    },
    {
     "speaker": "Tom",
     "text": "Donc c'est bon pour l'économie et bon pour la société en même temps.",
-    "t": 109.95
+    "t": 109.89
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg a même donné à cela une forme juridique particulière.",
-    "t": 113.51
+    "t": 113.45
    },
    {
     "speaker": "Tom",
     "text": "Oui. Il existe un statut appelé société d'impact sociétal (SIS).",
-    "t": 117.04
+    "t": 116.98
    },
    {
     "speaker": "Anna",
     "text": "Il permet de créer une véritable entreprise dont l'objet officiel est l'impact social, reconnu par la loi depuis 2016 et agréé par le ministère du Travail.",
-    "t": 121.86
+    "t": 121.8
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, un entrepreneur peut bâtir quelque chose qui gagne sa vie, mais qui existe pour faire le bien.",
-    "t": 130.18
+    "t": 130.12
    },
    {
     "speaker": "Anna",
     "text": "Et c'est là qu'intervient le portail, pour les personnes qui ont une idée.",
-    "t": 136.07
+    "t": 136.01
    },
    {
     "speaker": "Tom",
     "text": "Le portail, géré par le ministère du Travail, explique l'économie sociale et solidaire et comment créer ce type d'entreprise.",
-    "t": 139.49
+    "t": 139.43
    },
    {
     "speaker": "Tom",
     "text": "Et l'incubateur du ministère accompagne gratuitement les porteurs de projet.",
-    "t": 146.89
+    "t": 146.83
    },
    {
     "speaker": "Anna",
     "text": "Donc, si vous rêvez de lancer une entreprise qui fait aussi une différence, il vous montre le chemin.",
-    "t": 151.29
+    "t": 151.23
    },
    {
     "speaker": "Tom",
     "text": "Cela fait aussi partie d'un mouvement plus large.",
-    "t": 156.28
+    "t": 156.22
    },
    {
     "speaker": "Tom",
     "text": "Il se développe partout en Europe, et il est même reconnu aux Nations unies.",
-    "t": 158.75
+    "t": 158.69
    },
    {
     "speaker": "Anna",
     "text": "Parce que de plus en plus de gens veulent que leur travail, et leur argent, aient du sens.",
-    "t": 162.95
+    "t": 162.89
    },
    {
     "speaker": "Tom",
     "text": "Revenons à la réalité.",
-    "t": 167.09
+    "t": 167.03
    },
    {
     "speaker": "Tom",
     "text": "En quoi cela touche-t-il la vie d'une personne ordinaire ?",
-    "t": 168.61
+    "t": 168.55
    },
    {
     "speaker": "Anna",
     "text": "D'abord, en tant que client.",
-    "t": 171.76
+    "t": 171.7
    },
    {
     "speaker": "Anna",
     "text": "Lorsque vous choisissez une coopérative ou une entreprise sociale, votre argent soutient une mission.",
-    "t": 173.3
+    "t": 173.24
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, en tant que travailleur.",
-    "t": 178.44
+    "t": 178.38
    },
    {
     "speaker": "Tom",
     "text": "Ces organisations offrent des emplois avec un fort sens du but.",
-    "t": 180.43
+    "t": 180.25
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement, en tant que personne dans le besoin.",
-    "t": 184.43
+    "t": 184.25
    },
    {
     "speaker": "Anna",
     "text": "De nombreuses organisations de l'économie sociale offrent des soins, du soutien et de l'inclusion.",
-    "t": 186.84
+    "t": 186.66
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement, en tant que rêveur.",
-    "t": 192.08
+    "t": 191.9
    },
    {
     "speaker": "Tom",
     "text": "Si vous avez une idée pour résoudre un problème, cela pourrait être votre moyen de la réaliser.",
-    "t": 194.3
+    "t": 194.12
    },
    {
     "speaker": "Anna",
     "text": "C'est un rappel que l'économie ne se résume pas à la concurrence.",
-    "t": 199.34
+    "t": 199.16
    },
    {
     "speaker": "Anna",
     "text": "C'est aussi la coopération et la solidarité.",
-    "t": 202.41
+    "t": 202.23
    },
    {
     "speaker": "Tom",
-    "text": "Ce qui s'accorde merveilleusement avec l'esprit du Biergerpakt... vivre ensemble, et veiller les uns sur les autres.",
-    "t": 204.94
+    "text": "Ce qui s'accorde merveilleusement avec l'esprit du Biergerpakt, vivre ensemble, et veiller les uns sur les autres.",
+    "t": 204.76
    },
    {
     "speaker": "Anna",
     "text": "Rendons cela concret.",
-    "t": 211.45
+    "t": 211.07
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que les gens peuvent en retenir ?",
-    "t": 212.77
+    "t": 212.39
    },
    {
     "speaker": "Tom",
     "text": "D'abord, remarquez les organisations de l'économie sociale autour de vous, et envisagez de les soutenir.",
-    "t": 214.72
+    "t": 214.34
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, si vous voulez un travail qui a du sens, regardez du côté de ce secteur.",
-    "t": 220.37
+    "t": 219.99
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, si vous avez une idée pour faire le bien à travers une entreprise, explorez le statut de société d'impact sociétal (SIS) sur le portail.",
-    "t": 224.54
+    "t": 224.16
    },
    {
     "speaker": "Anna",
     "text": "Faisons la synthèse.",
-    "t": 233.36
+    "t": 232.98
    },
    {
     "speaker": "Anna",
     "text": "Que devraient retenir les gens à propos de l'économie sociale et solidaire ?",
-    "t": 234.64
+    "t": 234.26
    },
    {
     "speaker": "Tom",
-    "text": "Premièrement... c'est la partie de l'économie où le but social ou sociétal passe en premier, et pas seulement le profit.",
-    "t": 238.08
+    "text": "Premièrement, c'est la partie de l'économie où le but social ou sociétal passe en premier, et pas seulement le profit.",
+    "t": 237.7
    },
    {
     "speaker": "Anna",
-    "text": "Deuxièmement... elle comprend les coopératives, les associations, les fondations et les entreprises sociales.",
-    "t": 244.48
+    "text": "Deuxièmement, elle comprend les coopératives, les associations, les fondations et les entreprises sociales.",
+    "t": 243.87
    },
    {
     "speaker": "Tom",
-    "text": "Troisièmement... le Luxembourg dispose d'un statut juridique, la société d'impact sociétal (SIS), pour officialiser tout cela.",
-    "t": 250.52
+    "text": "Troisièmement, le Luxembourg dispose d'un statut juridique, la société d'impact sociétal (SIS), pour officialiser tout cela.",
+    "t": 249.63
    },
    {
     "speaker": "Anna",
-    "text": "Et quatrièmement... le portail explique tout et aide les gens à créer ce type d'entreprise.",
-    "t": 258.8
+    "text": "Et quatrièmement, le portail explique tout et aide les gens à créer ce type d'entreprise.",
+    "t": 257.26
    },
    {
     "speaker": "Tom",
     "text": "L'argent est un outil puissant.",
-    "t": 263.84
+    "t": 261.72
    },
    {
     "speaker": "Tom",
     "text": "Et quand nous le dirigeons vers le bien commun, des choses merveilleuses peuvent arriver.",
-    "t": 265.76
+    "t": 263.64
    },
    {
     "speaker": "Anna",
     "text": "Une économie plus bienveillante n'est pas un rêve.",
-    "t": 270.11
+    "t": 267.99
    },
    {
     "speaker": "Anna",
     "text": "Elle est déjà là, à l'œuvre discrètement, tout autour de nous.",
-    "t": 272.69
+    "t": 270.57
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'économie sociale et solidaire.",
-    "t": 276.17
+    "t": 274.05
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 278.87
+    "t": 276.75
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 286.96
+    "t": 284.84
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 303.41
+    "t": 301.29
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 308.06
+    "t": 305.94
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 309.84
+    "t": 307.72
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 314.22
+    "t": 312.1
    },
    {
     "speaker": "Tom",
-    "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 315.45
+    "text": "Prenez soin de vous, et à la prochaine !",
+    "t": 313.35
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 317.91
+    "t": 315.64
    }
   ],
   "audio_de": "podcast_ess_de.mp3",
-  "duration_de": 362.42,
+  "duration_de": 359.63,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -89583,352 +89583,362 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
-    "text": "Und heute schauen wir uns eine andere Art des Wirtschaftens an... eine, bei der der Gewinn nicht das einzige Ziel ist.",
-    "t": 27.86
+    "text": "Und heute schauen wir uns eine andere Art des Wirtschaftens an, eine, bei der der Gewinn nicht das einzige Ziel ist.",
+    "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Wenn wir an ein Unternehmen denken, denken wir meist daran, Geld zu verdienen.",
-    "t": 34.41
+    "t": 34.23
    },
    {
     "speaker": "Anna",
     "text": "Und das ist normal und notwendig.",
-    "t": 38.18
+    "t": 38
    },
    {
     "speaker": "Tom",
-    "text": "Aber was wäre, wenn ein Unternehmen vor allem dafür da wäre, Gutes zu tun... Menschen zu helfen oder dem Planeten?",
-    "t": 40.77
+    "text": "Aber was wäre, wenn ein Unternehmen vor allem dafür da wäre, Gutes zu tun.",
+    "t": 40.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Menschen zu helfen oder dem Planeten?",
+    "t": 44.78
    },
    {
     "speaker": "Anna",
-    "text": "Das ist der Kern unseres heutigen Themas... die Sozial- und Solidarwirtschaft.",
-    "t": 47.76
+    "text": "Das ist der Kern unseres heutigen Themas, die Sozial- und Solidarwirtschaft.",
+    "t": 47.16
    },
    {
     "speaker": "Tom",
     "text": "Und Luxemburg hat dafür ein eigenes offizielles Portal.",
-    "t": 53.27
+    "t": 52.11
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, was ist die Sozial- und Solidarwirtschaft?",
-    "t": 56.71
+    "t": 55.55
    },
    {
     "speaker": "Tom",
     "text": "Es ist die Welt der Organisationen, deren erstes Ziel ein sozialer oder gesellschaftlicher Nutzen ist, nicht nur der Gewinn.",
-    "t": 60.62
+    "t": 59.46
    },
    {
     "speaker": "Anna",
     "text": "Der Gewinn ist weiterhin wichtig, denn eine Organisation muss überleben.",
-    "t": 68.24
+    "t": 67.08
    },
    {
     "speaker": "Anna",
     "text": "Aber er ist ein Mittel, nicht das Hauptziel.",
-    "t": 72.47
+    "t": 71.31
    },
    {
     "speaker": "Tom",
     "text": "Denken Sie an Genossenschaften, Vereine, Gegenseitigkeitsgesellschaften, Stiftungen und Sozialunternehmen.",
-    "t": 75.48
+    "t": 74.32
    },
    {
     "speaker": "Anna",
     "text": "Wahrscheinlich kennen Sie einige davon bereits, ohne es zu merken.",
-    "t": 82.25
+    "t": 81.09
    },
    {
     "speaker": "Tom",
-    "text": "Ein Pflegedienst, der von einem gemeinnützigen Verein betrieben wird, ein Genossenschaftsladen, eine Wohltätigkeitsorganisation, die auch ein Unternehmen führt... das sind Beispiele.",
-    "t": 86.1
+    "text": "Ein Pflegedienst, der von einem gemeinnützigen Verein betrieben wird, ein Genossenschaftsladen, eine Wohltätigkeitsorganisation, die auch ein Unternehmen führt, das sind Beispiele.",
+    "t": 84.79
    },
    {
     "speaker": "Anna",
     "text": "Sie schaffen echte Arbeitsplätze, echte Produkte und Dienstleistungen, aber sie investieren in ihre Mission zurück.",
-    "t": 97.28
+    "t": 95.75
    },
    {
     "speaker": "Tom",
     "text": "Lassen Sie uns darüber sprechen, warum das für ein Land wichtig ist.",
-    "t": 104.78
+    "t": 103.25
    },
    {
     "speaker": "Anna",
     "text": "Erstens, weil es die Menschen und den Planeten in den Mittelpunkt der Wirtschaft stellt.",
-    "t": 108.71
+    "t": 107.18
    },
    {
     "speaker": "Tom",
-    "text": "Zweitens, weil es oft Bedürfnisse erfüllt, die gewöhnliche Unternehmen übersehen... Inklusion, Fürsorge, die Umwelt.",
-    "t": 113.79
+    "text": "Zweitens, weil es oft Bedürfnisse erfüllt, die gewöhnliche Unternehmen übersehen.",
+    "t": 112.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Inklusion, Fürsorge, die Umwelt.",
+    "t": 116.82
    },
    {
     "speaker": "Anna",
     "text": "Und drittens, weil es Arbeitsplätze schafft, auch für Menschen, die es schwer haben, auf dem normalen Arbeitsmarkt Fuß zu fassen.",
-    "t": 121.29
+    "t": 119.84
    },
    {
     "speaker": "Tom",
     "text": "Es ist also gut für die Wirtschaft und gut für die Gesellschaft zugleich.",
-    "t": 128.02
+    "t": 126.57
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg hat dafür sogar eine besondere Rechtsform geschaffen.",
-    "t": 132.07
+    "t": 130.62
    },
    {
     "speaker": "Tom",
     "text": "Ja. Es gibt einen Status namens Gesellschaft mit gesellschaftlicher Wirkung.",
-    "t": 135.57
+    "t": 134.12
    },
    {
     "speaker": "Anna",
     "text": "Sie erlaubt es, ein echtes Unternehmen zu gründen, dessen offizieller Zweck die soziale Wirkung ist, gesetzlich anerkannt seit 2016 und vom Arbeitsministerium zugelassen.",
-    "t": 140.54
+    "t": 139.09
    },
    {
     "speaker": "Tom",
     "text": "So kann eine Unternehmerin oder ein Unternehmer etwas aufbauen, das sich selbst trägt, aber existiert, um Gutes zu tun.",
-    "t": 150.78
+    "t": 149.33
    },
    {
     "speaker": "Anna",
     "text": "Und genau hier kommt das Portal ins Spiel, für Menschen mit einer Idee.",
-    "t": 158.37
+    "t": 156.92
    },
    {
     "speaker": "Tom",
     "text": "Das Portal des Arbeitsministeriums erklärt die Sozial- und Solidarwirtschaft und wie man ein solches Unternehmen gründet.",
-    "t": 162.96
+    "t": 161.51
    },
    {
     "speaker": "Tom",
     "text": "Und der Inkubator des Ministeriums begleitet Gründer kostenlos.",
-    "t": 170.04
+    "t": 168.59
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie also davon träumen, ein Unternehmen zu gründen, das auch etwas bewirkt, zeigt es Ihnen den Weg.",
-    "t": 174.28
+    "t": 172.83
    },
    {
     "speaker": "Tom",
     "text": "Es ist auch Teil einer größeren Bewegung.",
-    "t": 179.97
+    "t": 178.52
    },
    {
     "speaker": "Tom",
     "text": "Sie wächst in ganz Europa und wird sogar bei den Vereinten Nationen anerkannt.",
-    "t": 182.69
+    "t": 181.24
    },
    {
     "speaker": "Anna",
     "text": "Denn immer mehr Menschen möchten, dass ihre Arbeit und ihr Geld etwas bedeuten.",
-    "t": 187.3
+    "t": 185.85
    },
    {
     "speaker": "Tom",
     "text": "Kommen wir auf den Boden zurück.",
-    "t": 191.6
+    "t": 190.15
    },
    {
     "speaker": "Tom",
     "text": "Wie berührt das das Leben eines gewöhnlichen Menschen?",
-    "t": 193.42
+    "t": 191.97
    },
    {
     "speaker": "Anna",
     "text": "Erstens, als Kundin oder Kunde.",
-    "t": 196.58
+    "t": 195.13
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie eine Genossenschaft oder ein Sozialunternehmen wählen, unterstützt Ihr Geld eine Mission.",
-    "t": 198.91
+    "t": 197.46
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, als Arbeitnehmerin oder Arbeitnehmer.",
-    "t": 204.36
+    "t": 202.91
    },
    {
     "speaker": "Tom",
     "text": "Diese Organisationen bieten Arbeitsplätze mit einem starken Sinn.",
-    "t": 207.55
+    "t": 206.1
    },
    {
     "speaker": "Anna",
     "text": "Drittens, als Mensch in Not.",
-    "t": 211.37
+    "t": 209.92
    },
    {
     "speaker": "Anna",
     "text": "Viele Organisationen der Sozialwirtschaft bieten Pflege, Unterstützung und Inklusion.",
-    "t": 213.56
+    "t": 212.11
    },
    {
     "speaker": "Tom",
     "text": "Und viertens, als Träumerin oder Träumer.",
-    "t": 218.78
+    "t": 217.33
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie eine Idee haben, um ein Problem zu lösen, könnte dies Ihr Weg sein, sie zu verwirklichen.",
-    "t": 221.99
+    "t": 220.54
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine Erinnerung daran, dass es in der Wirtschaft nicht nur um Wettbewerb geht.",
-    "t": 227.39
+    "t": 225.94
    },
    {
     "speaker": "Anna",
     "text": "Es geht auch um Zusammenarbeit und Solidarität.",
-    "t": 231.48
+    "t": 230.03
    },
    {
     "speaker": "Tom",
-    "text": "Was wunderbar zum Geist des Biergerpakt passt... zusammenleben und aufeinander achten.",
-    "t": 234.7
+    "text": "Was wunderbar zum Geist des Biergerpakt passt, zusammenleben und aufeinander achten.",
+    "t": 233.25
    },
    {
     "speaker": "Anna",
     "text": "Machen wir es praktisch.",
-    "t": 239.95
+    "t": 238.36
    },
    {
     "speaker": "Anna",
     "text": "Was können die Menschen daraus mitnehmen?",
-    "t": 241.43
+    "t": 239.87
    },
    {
     "speaker": "Tom",
     "text": "Erstens, nehmen Sie die Organisationen der Sozialwirtschaft um Sie herum wahr und überlegen Sie, sie zu unterstützen.",
-    "t": 243.85
+    "t": 242.29
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, wenn Sie eine Arbeit mit Sinn möchten, schauen Sie sich diesen Sektor an.",
-    "t": 250.97
+    "t": 249.41
    },
    {
     "speaker": "Tom",
     "text": "Drittens, wenn Sie eine Idee haben, durch ein Unternehmen Gutes zu tun, erkunden Sie den Status der Gesellschaft mit gesellschaftlicher Wirkung auf dem Portal.",
-    "t": 255.73
+    "t": 254.17
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir zusammen.",
-    "t": 264.92
+    "t": 263.36
    },
    {
     "speaker": "Anna",
     "text": "Was sollten sich die Menschen über die Sozial- und Solidarwirtschaft merken?",
-    "t": 266.3
+    "t": 264.74
    },
    {
     "speaker": "Tom",
-    "text": "Erstens... es ist der Teil der Wirtschaft, in dem der soziale oder gesellschaftliche Zweck an erster Stelle steht, nicht nur der Gewinn.",
-    "t": 270.58
+    "text": "Erstens, es ist der Teil der Wirtschaft, in dem der soziale oder gesellschaftliche Zweck an erster Stelle steht, nicht nur der Gewinn.",
+    "t": 269.02
    },
    {
     "speaker": "Anna",
-    "text": "Zweitens... dazu gehören Genossenschaften, Vereine, Stiftungen und Sozialunternehmen.",
-    "t": 278.72
+    "text": "Zweitens, dazu gehören Genossenschaften, Vereine, Stiftungen und Sozialunternehmen.",
+    "t": 277.21
    },
    {
     "speaker": "Tom",
-    "text": "Drittens... Luxemburg hat einen Rechtsstatus, die Gesellschaft mit gesellschaftlicher Wirkung, um dies offiziell zu machen.",
-    "t": 284.56
+    "text": "Drittens. Luxemburg hat einen Rechtsstatus, die Gesellschaft mit gesellschaftlicher Wirkung, um dies offiziell zu machen.",
+    "t": 282.56
    },
    {
     "speaker": "Anna",
-    "text": "Und viertens... das Portal erklärt das alles und hilft den Menschen, ein solches Unternehmen zu gründen.",
-    "t": 291.85
+    "text": "Und viertens, das Portal erklärt das alles und hilft den Menschen, ein solches Unternehmen zu gründen.",
+    "t": 289.86
    },
    {
     "speaker": "Tom",
     "text": "Geld ist ein mächtiges Werkzeug.",
-    "t": 298.33
+    "t": 296.01
    },
    {
     "speaker": "Tom",
     "text": "Und wenn wir es auf das Gemeinwohl ausrichten, können wunderbare Dinge geschehen.",
-    "t": 300.69
+    "t": 298.37
    },
    {
     "speaker": "Anna",
     "text": "Eine freundlichere Wirtschaft ist kein Traum.",
-    "t": 305.22
+    "t": 302.9
    },
    {
     "speaker": "Anna",
     "text": "Sie ist bereits da, leise am Wirken, überall um uns herum.",
-    "t": 307.92
+    "t": 305.6
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die Sozial- und Solidarwirtschaft.",
-    "t": 312.62
+    "t": 310.3
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 316.36
+    "t": 314.04
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 325.35
+    "t": 323.03
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 343.68
+    "t": 341.36
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 349.38
+    "t": 347.06
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 351.63
+    "t": 349.31
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 356.52
+    "t": 354.2
    },
    {
     "speaker": "Tom",
-    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 357.67
+    "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
+    "t": 355.3
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 360.88
+    "t": 358.09
    }
   ],
   "segments_lb": [
@@ -89949,233 +89959,233 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "A haut kucke mir eng aner Aart a Weis fir ze wirtschaften... eng, bei där de Profit net dat eenzegt Zil ass.",
+    "text": "A haut kucke mir eng aner Aart a Weis fir ze wirtschaften, eng, bei där de Profit net dat eenzegt Zil ass.",
     "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Wa mir un eng Entreprise denken, denke mir meeschtens drun, Suen ze verdéngen. An dat ass normal an néideg.",
-    "t": 32.96
+    "t": 33.93
    },
    {
     "speaker": "Tom",
-    "text": "Mä wat wier, wann eng Entreprise virun allem do wier fir Guddes ze maachen... fir de Leit ze hëllefen, oder dem Planéit?",
-    "t": 38.71
+    "text": "Mä wat wier, wann eng Entreprise virun allem do wier fir Guddes ze maachen, fir de Leit ze hëllefen, oder dem Planéit?",
+    "t": 39.68
    },
    {
     "speaker": "Anna",
-    "text": "Dat ass de Kär vun eisem haitegen Thema... d'Sozial- a Solidarwirtschaft.",
-    "t": 43.46
+    "text": "Dat ass de Kär vun eisem haitegen Thema, d'Sozial- a Solidarwirtschaft.",
+    "t": 44.37
    },
    {
     "speaker": "Tom",
     "text": "A Lëtzebuerg huet dofir en eegene offizielle Portal.",
-    "t": 48.44
+    "t": 49.21
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, wat ass d'Sozial- a Solidarwirtschaft?",
-    "t": 51.52
+    "t": 52.29
    },
    {
     "speaker": "Tom",
     "text": "Et ass d'Welt vun den Organisatiounen, deenen hiren éischten Zweck e soziale oder gesellschaftleche Notze ass, net just de Profit.",
-    "t": 55.24
+    "t": 56.01
    },
    {
     "speaker": "Anna",
     "text": "De Profit ass nach ëmmer wichteg, well eng Organisatioun muss iwwerliewen. Mä et ass e Mëttel, net dat Haaptziel.",
-    "t": 62.04
+    "t": 62.81
    },
    {
     "speaker": "Tom",
     "text": "Denkt un Genossenschaften, Veräiner, Géigesäitegkeetsgesellschaften, Stëftungen a Sozialentreprisen.",
-    "t": 69.14
+    "t": 69.91
    },
    {
     "speaker": "Anna",
     "text": "Dir kennt der wahrscheinlech schonn e puer, ouni datt Dir et gemierkt hutt.",
-    "t": 75.03
+    "t": 75.8
    },
    {
     "speaker": "Tom",
-    "text": "E Fleegdéngscht, deen vun engem gemengnëtzege Veräin gefouert gëtt, e Genossenschaftslueden, eng Wohltätegkeetsorganisatioun, déi och eng Entreprise féiert... dat sinn Beispiller.",
-    "t": 78.44
+    "text": "E Fleegdéngscht, deen vun engem gemengnëtzege Veräin gefouert gëtt, e Genossenschaftslueden, eng Wohltätegkeetsorganisatioun, déi och eng Entreprise féiert, dat sinn Beispiller.",
+    "t": 79.21
    },
    {
     "speaker": "Anna",
     "text": "Si schafen richteg Aarbechtsplazen, richteg Produiten an Déngschtleeschtungen, mä si investéieren erëm an hir Missioun.",
-    "t": 85.67
+    "t": 86.31
    },
    {
     "speaker": "Tom",
     "text": "Loosst eis driwwer schwätzen, firwat dat fir e Land wichteg ass.",
-    "t": 90.94
+    "t": 91.58
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, well et d'Mënschen an de Planéit an den Zentrum vun der Wirtschaft setzt.",
-    "t": 93.15
+    "t": 93.79
    },
    {
     "speaker": "Tom",
-    "text": "Als zweet, well et dacks Bedierfnesser deckt, déi gewéinlech Entreprisen iwwersinn... Inklusioun, Fleeg, d'Ëmwelt.",
-    "t": 97.34
+    "text": "Als zweet, well et dacks Bedierfnesser deckt, déi gewéinlech Entreprisen iwwersinn. Inklusioun, Fleeg, d'Ëmwelt.",
+    "t": 97.98
    },
    {
     "speaker": "Anna",
     "text": "An als drëtt, well et Aarbechtsplazen schaaft, och fir Leit, déi et schwéier hunn, op den normalen Aarbechtsmaart ze kommen.",
-    "t": 103.48
+    "t": 105.4
    },
    {
     "speaker": "Tom",
     "text": "Et ass also gutt fir d'Wirtschaft a gutt fir d'Gesellschaft zur selwechter Zäit.",
-    "t": 109.71
+    "t": 111.63
    },
    {
     "speaker": "Anna",
     "text": "Lëtzebuerg huet dofir souguer eng besonnesch Rechtsform geschaf.",
-    "t": 113.69
+    "t": 115.61
    },
    {
     "speaker": "Tom",
     "text": "Jo. Et gëtt e Statut mam Numm Gesellschaft mat gesellschaftlecher Wierkung.",
-    "t": 117.09
+    "t": 119.01
    },
    {
     "speaker": "Anna",
     "text": "Et erlaabt et, eng richteg Entreprise ze grënnen, deem säin offiziellen Zweck de soziale Impakt ass, zënter 2016 vum Gesetz unerkannt a vum Aarbechtsministère zougelooss.",
-    "t": 120.57
+    "t": 122.35
    },
    {
     "speaker": "Tom",
     "text": "Sou kann en Entrepreneur eppes opbauen, dat sech selwer dréit, mä existéiert fir Guddes ze maachen.",
-    "t": 130.53
+    "t": 132.31
    },
    {
     "speaker": "Anna",
     "text": "An genee do kënnt de Portal an d'Spill, fir Leit mat enger Iddi.",
-    "t": 135.23
+    "t": 137.01
    },
    {
     "speaker": "Tom",
     "text": "De Portal vum Aarbechtsministère erkläert d'Sozial- a Solidarwirtschaft a wéi ee sou eng Entreprise grënnt. An den Inkubator vum Ministère begleet Grënner gratis.",
-    "t": 138.73
+    "t": 140.51
    },
    {
     "speaker": "Anna",
     "text": "Also, wann Dir dovun dreemt, eng Entreprise ze grënnen, déi och eppes beweegt, weist hien Iech de Wee.",
-    "t": 151.08
+    "t": 152.86
    },
    {
     "speaker": "Tom",
     "text": "Et ass och Deel vun enger méi grousser Bewegung. Si wiisst a ganz Europa, a gëtt souguer bei de Vereenten Natiounen unerkannt.",
-    "t": 156.42
+    "t": 158.2
    },
    {
     "speaker": "Anna",
     "text": "Well ëmmer méi Leit wëllen, datt hir Aarbecht an hir Suen eppes bedeiten.",
-    "t": 162.43
+    "t": 164.21
    },
    {
     "speaker": "Tom",
     "text": "Komme mir op de Buedem zréck. Wéi beréiert dat d'Liewe vun engem gewéinleche Mënsch?",
-    "t": 166.8
+    "t": 168.58
    },
    {
     "speaker": "Anna",
     "text": "Als éischt, als Client. Wann Dir eng Genossenschaft oder eng Sozialentreprise wielt, ënnerstëtzt Är Suen eng Missioun.",
-    "t": 171.03
+    "t": 172.95
    },
    {
     "speaker": "Tom",
     "text": "Als zweet, als Aarbechtnehmer. Dës Organisatiounen bidden Aarbechtsplazen mat engem staarke Sënn.",
-    "t": 177.75
+    "t": 179.67
    },
    {
     "speaker": "Anna",
     "text": "Als drëtt, als Mënsch a Nout. Vill Organisatiounen vun der Sozialwirtschaft bidden Fleeg, Ënnerstëtzung an Inklusioun.",
-    "t": 182.81
+    "t": 184.73
    },
    {
     "speaker": "Tom",
     "text": "An als véiert, als Dreemer. Wann Dir eng Iddi hutt fir e Problem ze léisen, kéint dat Äre Wee sinn fir se ze verwierklechen.",
-    "t": 189.88
+    "t": 191.8
    },
    {
     "speaker": "Anna",
     "text": "Et ass eng Erënnerung drun, datt et an der Wirtschaft net nëmmen ëm Concurrence geet. Et geet och ëm Zesummenaarbecht a Solidaritéit.",
-    "t": 195.53
+    "t": 197.45
    },
    {
     "speaker": "Tom",
-    "text": "Wat wonnerbar zum Geescht vum Biergerpakt passt... zesummeliewen, an openee oppassen.",
-    "t": 202.52
+    "text": "Wat wonnerbar zum Geescht vum Biergerpakt passt, zesummeliewen, an openee oppassen.",
+    "t": 204.44
    },
    {
     "speaker": "Anna",
     "text": "Maache mir et praktesch. Wat kënnen d'Leit dovunner mathuelen?",
-    "t": 209.28
+    "t": 211.12
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, gitt Uecht op d'Organisatiounen vun der Sozialwirtschaft ronderëm Iech, an iwwerleet, si z'ënnerstëtzen.",
-    "t": 212.83
+    "t": 214.57
    },
    {
     "speaker": "Anna",
     "text": "Als zweet, wann Dir eng Aarbecht mat Sënn wëllt, kuckt op dëse Secteur.",
-    "t": 218.25
+    "t": 219.99
    },
    {
     "speaker": "Tom",
     "text": "Als drëtt, wann Dir eng Iddi hutt fir duerch eng Entreprise Guddes ze maachen, erkonnt de Statut vun der Gesellschaft mat gesellschaftlecher Wierkung um Portal.",
-    "t": 222.16
+    "t": 223.9
    },
    {
     "speaker": "Anna",
     "text": "Faasse mir et zesummen. Wat sollten d'Leit sech iwwer d'Sozial- a Solidarwirtschaft merken?",
-    "t": 229.85
+    "t": 230.88
    },
    {
     "speaker": "Tom",
-    "text": "Als éischt... et ass den Deel vun der Wirtschaft, wou de soziale oder gesellschaftlechen Zweck u éischter Stell steet, net just de Profit.",
-    "t": 235.2
+    "text": "Als éischt, et ass den Deel vun der Wirtschaft, wou de soziale oder gesellschaftlechen Zweck u éischter Stell steet, net just de Profit.",
+    "t": 236.23
    },
    {
     "speaker": "Anna",
-    "text": "Als zweet... dozou gehéieren Genossenschaften, Veräiner, Stëftungen a Sozialentreprisen.",
-    "t": 242.11
+    "text": "Als zweet, dozou gehéieren Genossenschaften, Veräiner, Stëftungen a Sozialentreprisen.",
+    "t": 242.9
    },
    {
     "speaker": "Tom",
-    "text": "Als drëtt... Lëtzebuerg huet e Rechtsstatut, d'Gesellschaft mat gesellschaftlecher Wierkung, fir dat offiziell ze maachen.",
-    "t": 247.72
+    "text": "Als drëtt. Lëtzebuerg huet e Rechtsstatut, d'Gesellschaft mat gesellschaftlecher Wierkung, fir dat offiziell ze maachen.",
+    "t": 248.89
    },
    {
     "speaker": "Anna",
-    "text": "An als véiert... de Portal erkläert dat alles an hëlleft de Leit, sou eng Entreprise ze grënnen.",
-    "t": 253.56
+    "text": "An als véiert, de Portal erkläert dat alles an hëlleft de Leit, sou eng Entreprise ze grënnen.",
+    "t": 255.8
    },
    {
     "speaker": "Tom",
     "text": "Suen sinn e mächtegt Instrument. A wa mir se op d'Gemengewuel riichten, kënne wonnerbar Saache geschéien.",
-    "t": 258.78
+    "t": 261.1
    },
    {
     "speaker": "Anna",
     "text": "Eng frëndlech Wirtschaft ass keen Dram. Si ass scho do, roueg um Wierken, ronderëm eis. Dat war eis Episod iwwer d'Sozial- a Solidarwirtschaft. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 264.58
+    "t": 266.9
    },
    {
     "speaker": "Tom",
-    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 316.48
+    "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
+    "t": 318.8
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 319.68
+    "t": 322.11
    }
   ]
  },

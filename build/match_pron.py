@@ -16,7 +16,8 @@ TERMS = {"en": [("maison de l'orientation", r"(?i)maison de l.orientation", "It'
                 ("lycée", r"(?i)\blycées?\b", "You can ask how to get back into a leessay."),
                 ("accessibilité", r"\baccessibilite\b", "Remember the website: accessibilité dot L-U."),
                 ("luxembourg", r"\bLuxembourg\b(?! City)", "I live and work in Luxembourg, a small country in Europe."),
-                ("zesumme vereinfachen", r"\bZesumme Vereinfachen\b", "It is called Zesumme Vereinfachen.")]}[lang]
+                ("zesumme vereinfachen", r"\bZesumme Vereinfachen\b", "It is called Zesumme Vereinfachen."),
+                ("status", r"\bstatus\b", "The company has a special legal status.")]}[lang]
 # ONLY=<term> restricts to one term; SCORE_ONLY=1 just prints the current takes' distances; MAX_D=<x> retakes only
 # sentences whose current distance is above x (e.g. the few "Luxembourg" said the French way)
 ONLY = os.environ.get("ONLY"); SCORE_ONLY = os.environ.get("SCORE_ONLY") == "1"; MAX_D = float(os.environ.get("MAX_D", "0"))

@@ -460,3 +460,7 @@ Tom's "…and have a lot of fun with... maps." had a strange pause → "…fun w
 - "Luxembourg" sounded odd: `lux_en_vs_fr.py` scores all occurrences English-like (incl. Tom's "a side of Luxembourg", -2.04 — re-recorded anyway with the pause change); retook Anna's 4 least English ones (`INCLUDE=6 THRESH=-1.0 … --fix`; new `INCLUDE` option). If Jacques still hears it, the issue is stress, not French accent → consider an EN respelling A/B test.
 - Tom's closing "…to build with knowledge." faded (last word -8…-12 dB in all takes) → "And more and more, Luxembourg is choosing knowledge to build its future." (-2 dB). New `build/last_word_take.py` (keeps the take with the loudest last word).
 - Voice QC + retakes (EN 6, FR 0 extra, DE 2). ≈ 8,000 credits. EN 6:15, FR 6:13, DE 6:58.
+
+## Social & solidarity economy (19 Nov 2026)
+
+EN "status" (societal impact company) sounded strange → 3 sentences re-taken against a plain "status" reference (`ONLY=status match_pron.py ess en`, new term), Tom's line now heard p(status)=0.99. "..." pauses removed (11/language; EN 7 colons/dashes by hand), voice QC + retakes (EN 1, FR 1, DE 1). ≈ 4,600 credits.
