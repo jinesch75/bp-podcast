@@ -38,7 +38,8 @@ EMPHASIS = {"en": ["NOT", "AND"], "fr": ["PAS", "ET"], "de": ["NICHT", "UND"]}
 NAMES = {
     "en": [(r"(?i)\bZukunftskeess\b", "Tsoo-koonfts-kehs"),                   # A/B choice C, closer to German (2026-11-16; was "Tsoo-koonfts-kayss")
            (r"(?i)\ballocation de rentrée scolaire\b", "allo-cah-syon de ron-tray sko-lair"),  # A/B choice B (2026-11-16)
-           (r"(?i)\bPensiounskeess\b", "Pen-see-ouns-kayss"),                # EN 2B
+           (r"(?i)\bPensiounskeess\b", "Pen-si-yons-kees"),
+           (r"(?i)\bCaisse nationale d'assurance pension\b", "Kess nassyonal dassuranss pansyon"),  # A/B choice B (2026-11-19)                  # Jacques, 2026-11-19 (was "Pen-see-ouns-kayss")
            (r"\bËmweltberodung\b", "Um-velt-beh-roh-doong"),                 # EBL ep (2026-11-10), check by ear
            (r"(?i)\blycées?\b", "leessay"),                                  # Jacques's A/B choice C (2026-11-12)
            (r"\baccessibilite\b", "accessibilité"),

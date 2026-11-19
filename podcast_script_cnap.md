@@ -34,7 +34,7 @@
 
 **TOM:** Yes, absolutely. If you work in Luxembourg, you pay contributions in Luxembourg — it does not matter whether you live in the country or drive in every morning from France, Belgium or Germany. Your pension rights grow just the same.
 
-**ANNA:** Good. And what exactly does the CNAP do?
+**ANNA:** Good — and what exactly does the CNAP do?
 
 **TOM:** Its mission is to grant pension benefits in three situations. Old age. Invalidity — when your health no longer lets you work. And survival — support for the family when an insured person dies.
 
@@ -196,7 +196,7 @@
 
 **ANNA:** That was our episode about the Pensiounskeess. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 
-**TOM:** Thank you, everyone. Take care... and see you next time!
+**TOM:** Thank you, everyone. Take care, and see you next time!
 
 **ANNA:** Thank you so much for listening.
 

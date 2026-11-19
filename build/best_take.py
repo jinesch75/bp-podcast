@@ -57,7 +57,8 @@ for i in idx:
         p = os.path.join(el.CACHE, c)
         if not os.path.exists(p):
             sd = json.loads(json.dumps(body)); sd["seed"] = [1241, 1242, 1243][cands.index(c) - 1]
-            open(p, "wb").write(el.request("POST", f"/text-to-speech/{vids[s['speaker']]}", api, sd, query="?output_format=mp3_44100_128")); credits += len(spoken)
+            audio = el.request("POST", f"/text-to-speech/{vids[s['speaker']]}", api, sd, query="?output_format=mp3_44100_128")
+            open(p + ".part", "wb").write(audio); os.replace(p + ".part", p); credits += len(spoken)   # atomic: a cut-off run leaves no broken file
         heard = el.transcribe(p, lang, "small"); bad = el.asr_problem(spoken, heard)
         d = dist(feats(p, spoken), s["speaker"], s["text"].rstrip().endswith(".")) + (100 if bad else 0) + (100 if el.is_cut(p) else 0)
         report.append(f"{d:6.1f}{' *' if c == cur else '  '}"); 
