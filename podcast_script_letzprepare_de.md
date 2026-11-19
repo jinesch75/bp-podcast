@@ -57,7 +57,7 @@
 **ANNA:** Das ist eine lange Liste. Muss ich morgen alles kaufen?
 **TOM:** Nein. Vieles davon haben Sie wahrscheinlich schon zu Hause. Die Checkliste hilft Ihnen zu sehen, was fehlt.
 **ANNA:** Und der Leitfaden sagt: Überprüfen Sie Ihr Kit mindestens zweimal im Jahr, zum Beispiel die Haltbarkeitsdaten.
-**TOM:** Jetzt der vierte Teil, der persönliche Notfallplan. Was ist das?
+**TOM:** Jetzt der vierte Teil, der persönliche Notfallplan. Was ist das genau?
 **ANNA:** Das ist ein Formular, das Sie zusammen mit den Menschen ausfüllen, mit denen Sie wohnen, und das Sie mit Familie und Freunden teilen.
 **TOM:** Was steht darin?
 **ANNA:** Wer im Haushalt lebt, mit Telefonnummern, und medizinische Informationen wie Allergien und regelmäßige Medikamente.

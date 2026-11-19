@@ -468,3 +468,7 @@ EN "status" (societal impact company) sounded strange → 3 sentences re-taken a
 ## Luxinnovation (19 Nov 2026)
 
 Tom's "Research Luxembourg" sounded odd: spelling A/B (`build/el_test/pron_researchlux_en_AB.mp3`) → Jacques: as written; sentence re-taken, most English take kept (`INCLUDE=18 THRESH=5 lux_en_vs_fr.py luxinnovation --fix`, -1.32 → -1.88). "..." pauses removed (13/language; EN 7 colons/dashes by hand), voice QC + retakes (EN 3, DE 1; FR clean). ≈ 5,500 credits.
+
+## Lëtz prepare (19 Nov 2026)
+
+No "..." pauses in this episode. Rebuilt with the new CLEAN rule; voice QC + retakes (EN 2, FR 13, DE 8). DE Tom's "Was ist das?" bad in every take → "Was ist das genau?". ≈ 2,800 credits.
