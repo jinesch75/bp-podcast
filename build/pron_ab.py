@@ -10,6 +10,8 @@ os.makedirs("build/el_test/pfw", exist_ok=True)
 def clip(role, lang, text):
     vid, _ = el.resolve_voice(role, lang, voices)
     body = {"text": text, "model_id": "eleven_multilingual_v2", "voice_settings": el.VOICE_SETTINGS, "seed": 1234}
+    if lang == "lb":   # Luxembourgish reference: eleven_v3 supports lb (REF_LANG=lb)
+        body = {"text": text, "model_id": "eleven_v3", "voice_settings": el.VOICE_SETTINGS, "seed": 1234, "language_code": "lb"}
     h = hashlib.sha1(json.dumps([vid, body], sort_keys=True).encode()).hexdigest()[:16]; p = f"build/el_test/pfw/{h}.mp3"
     if not os.path.exists(p): open(p, "wb").write(el.request("POST", f"/text-to-speech/{vid}", key, body, query="?output_format=mp3_44100_128"))
     return p

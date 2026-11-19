@@ -101310,7 +101310,7 @@ const EPISODES = [
   "title": "EBL – Environmental Advice for Luxembourg's Communes",
   "description": "Meet the Ëmweltberodung Lëtzebuerg — the association that helps communes protect the environment. Infographics, a free tool library, greener events, a campaign without pesticides, and workshops for schools.",
   "audio": "podcast_ebl.mp3",
-  "duration": 464.07,
+  "duration": 463.78,
   "topics": [
    "What the EBL is",
    "Advice for the communes",
@@ -101380,487 +101380,487 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "In English, that means \"Environmental Advice Luxembourg\".",
-    "t": 46.63
+    "t": 46.44
    },
    {
     "speaker": "Tom",
     "text": "So the name says exactly what it does: it gives advice on the environment.",
-    "t": 50.41
+    "t": 50.12
    },
    {
     "speaker": "Anna",
     "text": "So Tom, what exactly is the EBL?",
-    "t": 55.04
+    "t": 54.75
    },
    {
     "speaker": "Tom",
     "text": "It's a non-profit association, created in 1992.",
-    "t": 57.83
+    "t": 57.54
    },
    {
     "speaker": "Tom",
     "text": "It's neutral and independent, and it gives advice on protecting the environment.",
-    "t": 61.55
+    "t": 61.26
    },
    {
     "speaker": "Anna",
     "text": "And who does it advise?",
-    "t": 65.97
+    "t": 65.68
    },
    {
     "speaker": "Tom",
     "text": "Mainly the communes.",
-    "t": 67.69
+    "t": 67.4
    },
    {
     "speaker": "Tom",
     "text": "But also associations, public and private institutions, businesses, and environmental advisers.",
-    "t": 69.08
+    "t": 68.79
    },
    {
     "speaker": "Anna",
     "text": "Most of Luxembourg's communes are members.",
-    "t": 74.53
+    "t": 74.24
    },
    {
     "speaker": "Anna",
     "text": "Together, they are home to the vast majority of the people living in the country.",
-    "t": 77.4
+    "t": 77.11
    },
    {
     "speaker": "Tom",
     "text": "So even if you've never heard the name, the EBL probably works with your commune.",
-    "t": 81.95
+    "t": 81.66
    },
    {
     "speaker": "Anna",
     "text": "How is it financed?",
-    "t": 86.37
+    "t": 86.08
    },
    {
     "speaker": "Tom",
     "text": "Through the membership fees of its members, and through an agreement with the Ministry of the Environment, Climate and Biodiversity.",
-    "t": 88.07
+    "t": 87.78
    },
    {
     "speaker": "Anna",
     "text": "Why do communes need this kind of help?",
-    "t": 95.56
+    "t": 95.27
    },
    {
     "speaker": "Tom",
     "text": "Because a lot of environmental work happens locally.",
-    "t": 98.15
+    "t": 97.86
    },
    {
     "speaker": "Tom",
     "text": "Waste, water, green spaces, energy in public buildings, events in the village.",
-    "t": 100.71
+    "t": 100.42
    },
    {
     "speaker": "Anna",
     "text": "And a small commune can't have an expert for every topic.",
-    "t": 105.47
+    "t": 105.18
    },
    {
     "speaker": "Tom",
     "text": "Exactly. The EBL is a network.",
-    "t": 108.87
+    "t": 108.58
    },
    {
     "speaker": "Tom",
     "text": "Communes share ideas and experience, and they don't have to reinvent the wheel each time.",
-    "t": 111.66
+    "t": 111.37
    },
    {
     "speaker": "Anna",
     "text": "It's also a meeting point for the environmental advisers who work in the communes.",
-    "t": 116.15
+    "t": 115.86
    },
    {
     "speaker": "Tom",
     "text": "And if a commune wants to create its own environmental service, the EBL can help, from defining the tasks to recruiting an environmental adviser.",
-    "t": 120.79
+    "t": 120.5
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about the Climate Pact and the Nature Pact.",
-    "t": 130.26
+    "t": 129.97
    },
    {
     "speaker": "Tom",
     "text": "These are agreements between the State and the communes.",
-    "t": 133.34
+    "t": 133.05
    },
    {
     "speaker": "Tom",
     "text": "The communes commit to concrete measures for the climate and for nature.",
-    "t": 136.25
+    "t": 135.96
    },
    {
     "speaker": "Anna",
     "text": "And the EBL supports the communes in these pacts, with training, practical exchanges and ideas.",
-    "t": 140.33
+    "t": 140.04
    },
    {
     "speaker": "Tom",
     "text": "Now, let's look at what the EBL actually does.",
-    "t": 146.61
+    "t": 146.32
    },
    {
     "speaker": "Tom",
     "text": "There's a lot!",
-    "t": 149.35
+    "t": 149.06
    },
    {
     "speaker": "Anna",
     "text": "First, training. The EBL organises seminars, workshops and conferences, often together with partners.",
-    "t": 150.63
+    "t": 150.34
    },
    {
     "speaker": "Tom",
     "text": "For example, conferences on more circular construction, how to build, and take buildings apart, in a way that wastes fewer resources.",
-    "t": 158.81
+    "t": 158.52
    },
    {
     "speaker": "Anna",
     "text": "Second, publications. The EBL is famous for its infographics.",
-    "t": 166.42
+    "t": 166.13
    },
    {
     "speaker": "Tom",
     "text": "These are simple, colourful pages that explain one topic.",
-    "t": 171.47
+    "t": 171.18
    },
    {
     "speaker": "Tom",
     "text": "The value of an old tree.",
-    "t": 174.7
+    "t": 174.41
    },
    {
     "speaker": "Tom",
     "text": "Using rainwater in the garden.",
-    "t": 176.23
+    "t": 175.94
    },
    {
     "speaker": "Tom",
     "text": "Saving energy with the right heating.",
-    "t": 178.2
+    "t": 177.91
    },
    {
     "speaker": "Anna",
     "text": "Many are available in several languages, and communes can print them in their magazine or share them online.",
-    "t": 180.43
+    "t": 180.14
    },
    {
     "speaker": "Tom",
     "text": "Third, material to borrow.",
-    "t": 186.8
+    "t": 186.51
    },
    {
     "speaker": "Tom",
     "text": "There's an energy measuring kit, a device that finds the hidden electricity eaters in your home, and a CO2 meter for the air in a room.",
-    "t": 188.65
+    "t": 188.36
    },
    {
     "speaker": "Anna",
     "text": "And there are teaching kits too, like one about the living soil, and one about our rivers and lakes.",
-    "t": 196.05
+    "t": 195.76
    },
    {
     "speaker": "Tom",
     "text": "Fourth, campaigns. The EBL coordinates several national campaigns.",
-    "t": 202.16
+    "t": 201.87
    },
    {
     "speaker": "Anna",
     "text": "One of the best known is the campaign for gardens \"without pesticides\".",
-    "t": 206.86
+    "t": 206.57
    },
    {
     "speaker": "Tom",
     "text": "It's supported by around twenty Luxembourg partners.",
-    "t": 211.25
+    "t": 210.96
    },
    {
     "speaker": "Tom",
     "text": "It shows that green spaces and gardens can be beautiful without chemical pesticides.",
-    "t": 214.36
+    "t": 214.07
    },
    {
     "speaker": "Anna",
     "text": "Since 2016, communes in Luxembourg are no longer allowed to use pesticides on public spaces.",
-    "t": 219.9
+    "t": 219.61
    },
    {
     "speaker": "Anna",
     "text": "And many private gardeners want to do the same.",
-    "t": 226.33
+    "t": 226.04
    },
    {
     "speaker": "Tom",
     "text": "The website ounipestiziden dot l-u has tips and good examples for your own garden.",
-    "t": 229.46
+    "t": 229.17
    },
    {
     "speaker": "Anna",
     "text": "Another project is Green Events.",
-    "t": 234.06
+    "t": 233.77
    },
    {
     "speaker": "Anna",
     "text": "Luxembourg has so many village parties, festivals and sports events.",
-    "t": 236.26
+    "t": 235.97
    },
    {
     "speaker": "Tom",
     "text": "Green Events helps organisers make their event more sustainable.",
-    "t": 240.79
+    "t": 240.5
    },
    {
     "speaker": "Tom",
     "text": "Less waste, local products, reusable cups, better mobility.",
-    "t": 244.12
+    "t": 243.83
    },
    {
     "speaker": "Anna",
     "text": "It was launched by the environment ministry, and it's coordinated by the EBL together with the national waste-prevention programme.",
-    "t": 248.18
+    "t": 247.89
    },
    {
     "speaker": "Tom",
     "text": "And the most sustainable events can get the Green Events label.",
-    "t": 255.62
+    "t": 255.33
    },
    {
     "speaker": "Tom",
     "text": "So if you help organise a party for your club, have a look at greenevents dot l-u.",
-    "t": 259.06
+    "t": 258.77
    },
    {
     "speaker": "Anna",
     "text": "I also love another project: sharing tools.",
-    "t": 264.28
+    "t": 263.99
    },
    {
     "speaker": "Tom",
     "text": "It's a library of tools.",
-    "t": 267.71
+    "t": 267.42
    },
    {
     "speaker": "Tom",
     "text": "Instead of buying a drill that you use twice a year, you can borrow one, for free.",
-    "t": 269.08
+    "t": 268.79
    },
    {
     "speaker": "Anna",
     "text": "It's open to everyone, residents and associations.",
-    "t": 273.83
+    "t": 273.54
    },
    {
     "speaker": "Anna",
     "text": "You'll find the borrowing points on guttgeschier dot l-u.",
-    "t": 277.42
+    "t": 277.13
    },
    {
     "speaker": "Tom",
     "text": "There's even a project for greener websites, and one that gives unused school material a second life.",
-    "t": 281.05
+    "t": 280.76
    },
    {
     "speaker": "Anna",
     "text": "And for children, there's a lot too.",
-    "t": 287.12
+    "t": 286.83
    },
    {
     "speaker": "Tom",
     "text": "The EBL offers workshops for school classes.",
-    "t": 289.33
+    "t": 289.04
    },
    {
     "speaker": "Tom",
     "text": "In one of them, children follow the journey of a T-shirt and learn about plastic in the oceans.",
-    "t": 292.02
+    "t": 291.73
    },
    {
     "speaker": "Anna",
     "text": "And a new one takes classes to a farm, to learn about healthy food, soil and biodiversity.",
-    "t": 297.23
+    "t": 296.94
    },
    {
     "speaker": "Tom",
     "text": "The EBL has also published children's books in Luxembourgish, for example about zero waste, and about pollinating insects like bees.",
-    "t": 303.21
+    "t": 302.92
    },
    {
     "speaker": "Anna",
     "text": "So teachers and childcare services can find good material here.",
-    "t": 311.1
+    "t": 310.81
    },
    {
     "speaker": "Tom",
     "text": "Let's make it practical.",
-    "t": 315.03
+    "t": 314.74
    },
    {
     "speaker": "Tom",
     "text": "How can you, as a resident, benefit from the EBL?",
-    "t": 316.31
+    "t": 316.02
    },
    {
     "speaker": "Anna",
     "text": "First, look out for the EBL infographics in your commune's magazine.",
-    "t": 319.46
+    "t": 319.17
    },
    {
     "speaker": "Anna",
     "text": "They are full of small, easy steps.",
-    "t": 324
+    "t": 323.71
    },
    {
     "speaker": "Tom",
     "text": "Second, if you need a tool, try the tool library before you buy.",
-    "t": 326.65
+    "t": 326.36
    },
    {
     "speaker": "Anna",
     "text": "Third, if your association organises an event, think about the Green Events label.",
-    "t": 330.67
+    "t": 330.38
    },
    {
     "speaker": "Tom",
     "text": "Fourth, if you're a teacher, look at the workshops and teaching kits.",
-    "t": 336.15
+    "t": 335.86
    },
    {
     "speaker": "Anna",
     "text": "And fifth, ask your commune about its environmental service or its environment commission.",
-    "t": 340.74
+    "t": 340.45
    },
    {
     "speaker": "Anna",
     "text": "Many communes welcome residents who want to get involved.",
-    "t": 346.59
+    "t": 346.3
    },
    {
     "speaker": "Tom",
     "text": "That's a lovely way to meet your neighbours, by the way.",
-    "t": 350.19
+    "t": 349.9
    },
    {
     "speaker": "Tom",
     "text": "Very Biergerpakt!",
-    "t": 352.51
+    "t": 352.22
    },
    {
     "speaker": "Anna",
     "text": "And if you're looking for a job in the environment, the EBL also shares green job offers with its network.",
-    "t": 354.07
+    "t": 353.78
    },
    {
     "speaker": "Tom",
     "text": "You can follow the EBL's news through its newsletter, which comes out a few times a year, or on social media.",
-    "t": 360.71
+    "t": 360.42
    },
    {
     "speaker": "Anna",
     "text": "The website is e-b-l dot l-u.",
-    "t": 366.45
+    "t": 366.16
    },
    {
     "speaker": "Anna",
     "text": "It's mostly in Luxembourgish, with some material in French, German and English.",
-    "t": 369.45
+    "t": 369.16
    },
    {
     "speaker": "Tom",
     "text": "And you can write to info at e-b-l dot l-u.",
-    "t": 374.66
+    "t": 374.37
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it together.",
-    "t": 377.14
+    "t": 376.85
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about the EBL?",
-    "t": 378.54
+    "t": 378.25
    },
    {
     "speaker": "Tom",
     "text": "First, it's a neutral, non-profit association that gives environmental advice, mainly to the communes.",
-    "t": 381.3
+    "t": 381.01
    },
    {
     "speaker": "Anna",
     "text": "Second, most communes are members, so its work reaches almost everyone in Luxembourg.",
-    "t": 388.37
+    "t": 388.08
    },
    {
     "speaker": "Tom",
     "text": "Third, it offers training, infographics, material to borrow and workshops for schools.",
-    "t": 393.98
+    "t": 393.69
    },
    {
     "speaker": "Anna",
     "text": "And fourth, it runs campaigns and projects like gardens without pesticides, Green Events and the tool library, which everyone can use.",
-    "t": 399.18
+    "t": 398.89
    },
    {
     "speaker": "Tom",
     "text": "Protecting the environment often starts with small steps, close to home.",
-    "t": 407.58
+    "t": 407.29
    },
    {
     "speaker": "Anna",
     "text": "And it's easier when we take them together, in our commune.",
-    "t": 411.69
+    "t": 411.4
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the EBL.",
-    "t": 415.05
+    "t": 414.76
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 417.66
+    "t": 417.37
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 427.23
+    "t": 426.94
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 445.51
+    "t": 445.22
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 452.26
+    "t": 451.97
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 454.46
+    "t": 454.17
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 459.15
+    "t": 458.86
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 460.32
+    "t": 460.03
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 462.46
+    "t": 462.17
    }
   ],
   "questions": [
@@ -103194,322 +103194,322 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "„Ëmwelt\" ass d'Natur an d'Ëmfeld, an „Berodung\" heescht, datt een engem e gudde Rot gëtt.",
-    "t": 50.41
+    "t": 50.12
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, wat ass d'EBL genee?",
-    "t": 55.04
+    "t": 54.75
    },
    {
     "speaker": "Tom",
     "text": "Et ass eng Associatioun sans but lucratif, gegrënnt 1992. Si ass neutral an onofhängeg, a si beréit zum Schutz vun der Ëmwelt.",
-    "t": 57.83
+    "t": 57.54
    },
    {
     "speaker": "Anna",
     "text": "A wien beréit si?",
-    "t": 65.97
+    "t": 65.68
    },
    {
     "speaker": "Tom",
     "text": "Virun allem d'Gemengen. Mä och Veräiner, ëffentlech a privat Institutiounen, Entreprisen an Ëmweltberoder.",
-    "t": 67.69
+    "t": 67.4
    },
    {
     "speaker": "Anna",
     "text": "Déi meescht Gemengen zu Lëtzebuerg si Member. Zesumme wunnen do déi allermeescht Leit vum Land.",
-    "t": 74.53
+    "t": 74.24
    },
    {
     "speaker": "Tom",
     "text": "Och wann Dir den Numm nach ni héieren hutt: D'EBL schafft wahrscheinlech mat Ärer Gemeng zesummen.",
-    "t": 81.95
+    "t": 81.66
    },
    {
     "speaker": "Anna",
     "text": "Wéi gëtt si finanzéiert?",
-    "t": 86.37
+    "t": 86.08
    },
    {
     "speaker": "Tom",
     "text": "Iwwer d'Cotisatioune vun hire Memberen, an iwwer eng Konventioun mam Ministère fir Ëmwelt, Klima a Biodiversitéit.",
-    "t": 88.07
+    "t": 87.78
    },
    {
     "speaker": "Anna",
     "text": "Firwat brauchen d'Gemengen esou eng Hëllef?",
-    "t": 95.56
+    "t": 95.27
    },
    {
     "speaker": "Tom",
     "text": "Well vill Ëmweltaarbecht lokal geschitt. Offall, Waasser, gréng Flächen, Energie an ëffentleche Gebaier, Fester am Duerf.",
-    "t": 98.15
+    "t": 97.86
    },
    {
     "speaker": "Anna",
     "text": "An eng kleng Gemeng ka net fir all Theema en Expert hunn.",
-    "t": 105.47
+    "t": 105.18
    },
    {
     "speaker": "Tom",
     "text": "Genee. D'EBL ass e Reseau. D'Gemengen deelen Iddien an Erfarungen, a si mussen d'Rad net all Kéier nei erfannen.",
-    "t": 108.87
+    "t": 108.58
    },
    {
     "speaker": "Anna",
     "text": "Et ass och e Treffpunkt fir d'Ëmweltberoder, déi an de Gemenge schaffen.",
-    "t": 116.15
+    "t": 115.86
    },
    {
     "speaker": "Tom",
     "text": "A wann eng Gemeng hiren eegene Service écologique wëll opbauen, kann d'EBL hëllefen, vun der Definitioun vun den Aufgaben bis zum Astelle vun engem Ëmweltberoder.",
-    "t": 120.79
+    "t": 120.5
    },
    {
     "speaker": "Anna",
     "text": "Schwätze mir iwwer de Klimapakt an den Naturpakt.",
-    "t": 130.26
+    "t": 129.97
    },
    {
     "speaker": "Tom",
     "text": "Dat sinn Ofkommes tëscht dem Staat an de Gemengen. D'Gemenge verflichte sech zu konkrete Mesuren fir d'Klima a fir d'Natur.",
-    "t": 133.34
+    "t": 133.05
    },
    {
     "speaker": "Anna",
     "text": "An d'EBL begleet d'Gemengen bei dëse Pakten, mat Formatiounen, praktesche Échangen an Iddien.",
-    "t": 140.33
+    "t": 140.04
    },
    {
     "speaker": "Tom",
     "text": "Kucke mer elo, wat d'EBL konkret mécht. Dat ass eng ganz Rëtsch!",
-    "t": 146.61
+    "t": 146.32
    },
    {
     "speaker": "Anna",
     "text": "Éischtens, Formatiounen. D'EBL organiséiert Seminairen, Workshoppen a Konferenzen, dacks zesumme mat Partner.",
-    "t": 150.63
+    "t": 150.34
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispill Konferenzen iwwer méi kreeslafgerecht Bauen, wéi een Haiser baut an erëm ofbaut, an dobäi manner Ressourcë verschwent.",
-    "t": 158.81
+    "t": 158.52
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, Publikatiounen. D'EBL ass bekannt fir hir Infografiken.",
-    "t": 166.42
+    "t": 166.13
    },
    {
     "speaker": "Tom",
     "text": "Dat sinn einfach, faarweg Säiten, déi een eenzegt Theema erklären. De Wäert vun engem ale Bam. Reewaasser am Gaart notzen. Energie spuere mat richtegem Hëtzen.",
-    "t": 171.47
+    "t": 171.18
    },
    {
     "speaker": "Anna",
     "text": "Vill gëtt et a méi Sproochen, an d'Gemenge kënnen se an hirem Buet drécken oder online deelen.",
-    "t": 180.43
+    "t": 180.14
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, Material fir auszeléinen. Et gëtt e Miesskoffer fir d'Energie, en Apparat, deen déi verstoppte Stroumfréisser doheem fënnt, an en Apparat, deen de CO2 an der Loft vun engem Raum moosst.",
-    "t": 186.8
+    "t": 186.51
    },
    {
     "speaker": "Anna",
     "text": "An et ginn och pedagogesch Koffere, zum Beispill een iwwer de liewege Buedem, an een iwwer eis Flëss a Séien.",
-    "t": 196.05
+    "t": 195.76
    },
    {
     "speaker": "Tom",
     "text": "Véiertens, Campagnen. D'EBL koordinéiert e puer national Campagnen.",
-    "t": 202.16
+    "t": 201.87
    },
    {
     "speaker": "Anna",
     "text": "Eng vun de bekanntsten ass „Ouni Pestiziden\".",
-    "t": 206.86
+    "t": 206.57
    },
    {
     "speaker": "Tom",
     "text": "Si gëtt vun ëm déi zwanzeg Lëtzebuerger Partner ënnerstëtzt. Si weist, datt gréng Flächen a Gäert och ouni chemesch Pestiziden schéi kënne sinn.",
-    "t": 211.25
+    "t": 210.96
    },
    {
     "speaker": "Anna",
     "text": "Zanter 2016 däerfen d'Gemengen zu Lëtzebuerg op ëffentleche Plazen keng Pestiziden méi asetzen. A vill privat Gäertner wëllen et genee esou maachen.",
-    "t": 219.9
+    "t": 219.61
    },
    {
     "speaker": "Tom",
     "text": "D'Websäit ounipestiziden Punkt l-u huet Tipps a gutt Beispiller fir Ären eegene Gaart.",
-    "t": 229.46
+    "t": 229.17
    },
    {
     "speaker": "Anna",
     "text": "En anere Projet heescht Green Events. Lëtzebuerg huet esou vill Duerffester, Festivallen a Sportsevenementer.",
-    "t": 234.06
+    "t": 233.77
    },
    {
     "speaker": "Tom",
     "text": "Green Events hëlleft den Organisateuren, hiert Fest méi nohalteg ze gestalten. Manner Offall, lokal Produiten, Gobelete fir ze widderbenotzen, eng besser Mobilitéit.",
-    "t": 240.79
+    "t": 240.5
    },
    {
     "speaker": "Anna",
     "text": "De Projet gouf vum Ëmweltministère lancéiert, an en gëtt vun der EBL zesumme mat der SuperDrecksKëscht koordinéiert.",
-    "t": 248.18
+    "t": 247.89
    },
    {
     "speaker": "Tom",
     "text": "An déi nohaltegst Evenementer kënnen de Green-Events-Label kréien. Wann Dir also e Fest fir Äre Veräin mat organiséiert, kuckt op greenevents Punkt l-u.",
-    "t": 255.62
+    "t": 255.33
    },
    {
     "speaker": "Anna",
     "text": "Ech fannen och d'Iddi vu Gutt Geschier ganz flott.",
-    "t": 264.28
+    "t": 263.99
    },
    {
     "speaker": "Tom",
     "text": "Et ass eng Bibliothéik fir Geschier. Amplaz eng Buermaschinn ze kafen, déi Dir zweemol am Joer braucht, kënnt Dir eng léinen, gratis.",
-    "t": 267.71
+    "t": 267.42
    },
    {
     "speaker": "Anna",
     "text": "Si steet jidderengem op, Awunner a Veräiner. D'Ausléinplazen fannt Dir op guttgeschier Punkt l-u.",
-    "t": 273.83
+    "t": 273.54
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt souguer e Projet fir méi gréng Websäiten, Grénge Web, an een, deen onbenotzte Schoulmaterial en zweet Liewe schenkt.",
-    "t": 281.05
+    "t": 280.76
    },
    {
     "speaker": "Anna",
     "text": "A fir d'Kanner gëtt et och vill.",
-    "t": 287.12
+    "t": 286.83
    },
    {
     "speaker": "Tom",
     "text": "D'EBL bitt Workshoppe fir Schoulklassen un. An engem dovun verfollegen d'Kanner d'Rees vun engem T-Shirt a léieren eppes iwwer de Plastik an den Ozeaner.",
-    "t": 289.33
+    "t": 289.04
    },
    {
     "speaker": "Anna",
     "text": "An en neie Workshop bréngt d'Klassen op e Bauerenhaff, wou se eppes iwwer gesond Ernärung, de Buedem an d'Biodiversitéit léieren.",
-    "t": 297.23
+    "t": 296.94
    },
    {
     "speaker": "Tom",
     "text": "D'EBL huet och Kannerbicher op Lëtzebuergesch erausginn, zum Beispill iwwer Null Offall, an iwwer Bestëbserinsekte wéi d'Bienen.",
-    "t": 303.21
+    "t": 302.92
    },
    {
     "speaker": "Anna",
     "text": "Enseignanten a Betreiungsstrukture fannen hei also gutt Material.",
-    "t": 311.1
+    "t": 310.81
    },
    {
     "speaker": "Tom",
     "text": "Gi mer praktesch. Wéi kënnt Dir als Awunner vun der EBL profitéieren?",
-    "t": 315.03
+    "t": 314.74
    },
    {
     "speaker": "Anna",
     "text": "Éischtens, kuckt no den Infografike vun der EBL am Buet vun Ärer Gemeng. Si si voller klenger, einfacher Schrëtt.",
-    "t": 319.46
+    "t": 319.17
    },
    {
     "speaker": "Tom",
     "text": "Zweetens, wann Dir Geschier braucht, probéiert et mat Gutt Geschier, éier Dir eppes kaaft.",
-    "t": 326.65
+    "t": 326.36
    },
    {
     "speaker": "Anna",
     "text": "Drëttens, wann Äre Veräin en Evenement organiséiert, denkt un de Green-Events-Label.",
-    "t": 330.67
+    "t": 330.38
    },
    {
     "speaker": "Tom",
     "text": "Véiertens, wann Dir Enseignant sidd, kuckt Iech d'Workshoppen an d'pedagogesch Koffere un.",
-    "t": 336.15
+    "t": 335.86
    },
    {
     "speaker": "Anna",
     "text": "A fënneftens, frot bei Ärer Gemeng no hirem Ëmweltservice oder hirer Ëmweltkommissioun. Vill Gemenge freeë sech iwwer Awunner, déi sech engagéiere wëllen.",
-    "t": 340.74
+    "t": 340.45
    },
    {
     "speaker": "Tom",
     "text": "Dat ass iwwregens eng schéin Aart, seng Noperen kennenzeléieren. Ganz Biergerpakt!",
-    "t": 350.19
+    "t": 349.9
    },
    {
     "speaker": "Anna",
     "text": "A wann Dir eng Aarbecht am Ëmweltberäich sicht: D'EBL deelt och gréng Aarbechtsoffere mat hirem Reseau.",
-    "t": 354.07
+    "t": 353.78
    },
    {
     "speaker": "Tom",
     "text": "D'News vun der EBL kënnt Dir iwwer hiren Newsletter suivéieren, deen e puermol am Joer erauskënnt, oder op de soziale Medien.",
-    "t": 360.71
+    "t": 360.42
    },
    {
     "speaker": "Anna",
     "text": "D'Websäit ass e-b-l Punkt l-u. Si ass meeschtens op Lëtzebuergesch, mat engem Deel vum Material op Franséisch, Däitsch an Englesch.",
-    "t": 366.45
+    "t": 366.16
    },
    {
     "speaker": "Tom",
     "text": "An Dir kënnt un info at e-b-l Punkt l-u schreiwen.",
-    "t": 374.66
+    "t": 374.37
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer et zesummefaassen. Wat sollt ee sech iwwer d'EBL mierken?",
-    "t": 377.14
+    "t": 376.85
    },
    {
     "speaker": "Tom",
     "text": "Éischtens, et ass eng neutral Associatioun sans but lucratif, déi virun allem d'Gemengen an Ëmweltfroe beréit.",
-    "t": 381.3
+    "t": 381.01
    },
    {
     "speaker": "Anna",
     "text": "Zweetens, déi meescht Gemenge si Member, dofir erreecht hir Aarbecht bal jiddereen zu Lëtzebuerg.",
-    "t": 388.37
+    "t": 388.08
    },
    {
     "speaker": "Tom",
     "text": "Drëttens, si bitt Formatiounen, Infografiken, Material fir auszeléinen a Workshoppe fir d'Schoulen un.",
-    "t": 393.98
+    "t": 393.69
    },
    {
     "speaker": "Anna",
     "text": "A véiertens, si féiert Campagnen a Projeten duerch wéi Ouni Pestiziden, Green Events a Gutt Geschier, déi jiddereen notze kann.",
-    "t": 399.18
+    "t": 398.89
    },
    {
     "speaker": "Tom",
     "text": "Ëmweltschutz fänkt dacks mat klenge Schrëtt un, ganz no bei eis.",
-    "t": 407.58
+    "t": 407.29
    },
    {
     "speaker": "Anna",
     "text": "An et ass méi einfach, wa mir se zesumme maachen, an eiser Gemeng. Dat war eis Episode iwwer d'EBL, d'Ëmweltberodung Lëtzebuerg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
-    "t": 411.69
+    "t": 411.4
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 459.15
+    "t": 458.86
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 462.46
+    "t": 462.17
    }
   ]
  },

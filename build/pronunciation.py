@@ -41,6 +41,7 @@ NAMES = {
            (r"(?i)\bPensiounskeess\b", "Pen-si-yons-kees"),
            (r"\banalyses (them|it|what|the)\b", r"analyzes \1"),            # verb, not the noun "an-AL-uh-seez" (govcert, 2026-11-19)
            (r"(?i)\bCaisse nationale d'assurance pension\b", "Kess nassyonal dassuranss pansyon"),  # A/B choice B (2026-11-19)                  # Jacques, 2026-11-19 (was "Pen-see-ouns-kayss")
+           (r"\bËmweltberodung Lëtzebuerg\b", "Emvelt-berodung Letze-burg"),  # A/B choice E (2026-11-19)
            (r"\bËmweltberodung\b", "Um-velt-beh-roh-doong"),                 # EBL ep (2026-11-10), check by ear
            (r"(?i)\blycées?\b", "leessay"),                                  # Jacques's A/B choice C (2026-11-12)
            (r"\baccessibilite\b", "accessibilité"),
