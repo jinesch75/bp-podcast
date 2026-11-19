@@ -40,6 +40,9 @@ const I18N = {
     filter_heading: 'Topic',
     filter_all: 'All topics',
     eps_count: '{n} of {total} episodes',
+    view_by_topic: 'Show episodes by topic',
+    view_full_list: 'Show the full list',
+    topics_count: '{n} topics · {total} episodes',
     btn_all_episodes: '← All episodes',
     listen_title: '🎧 Listen to this episode',
     player_hint: 'Press play and the script below will highlight along with the audio. Click any line to jump to that point.',
@@ -99,6 +102,9 @@ const I18N = {
     filter_heading: 'Sujet',
     filter_all: 'Tous les sujets',
     eps_count: '{n} sur {total} épisodes',
+    view_by_topic: 'Afficher les épisodes par sujet',
+    view_full_list: 'Afficher la liste complète',
+    topics_count: '{n} sujets · {total} épisodes',
     btn_all_episodes: '← Tous les épisodes',
     listen_title: '🎧 Écouter cet épisode',
     player_hint: 'Appuyez sur lecture et le script ci-dessous se surlignera au rythme de l’audio. Cliquez sur une ligne pour y accéder directement.',
@@ -158,6 +164,9 @@ const I18N = {
     filter_heading: 'Thema',
     filter_all: 'Alle Themen',
     eps_count: '{n} von {total} Folgen',
+    view_by_topic: 'Folgen nach Thema anzeigen',
+    view_full_list: 'Ganze Liste anzeigen',
+    topics_count: '{n} Themen · {total} Folgen',
     btn_all_episodes: '← Alle Folgen',
     listen_title: '🎧 Diese Folge anhören',
     player_hint: 'Drücken Sie auf Wiedergabe, und das Skript unten wird im Takt des Audios hervorgehoben. Klicken Sie auf eine Zeile, um direkt dorthin zu springen.',
@@ -217,6 +226,9 @@ const I18N = {
     filter_heading: 'Thema',
     filter_all: 'All Themen',
     eps_count: '{n} vu(n) {total} Episoden',
+    view_by_topic: 'Episoden no Thema weisen',
+    view_full_list: 'Ganz Lëscht weisen',
+    topics_count: '{n} Themen · {total} Episoden',
     btn_all_episodes: '← All Episoden',
     listen_title: '🎧 Dës Episode lauschteren',
     player_hint: 'Dréckt op Play an de Skript hei ënnen gëtt am Takt vum Audio ervirgehuewen. Klickt op eng Zeil fir direkt dohinner ze sprangen.',
@@ -295,6 +307,8 @@ function catLabel(id) {
   return c ? (c[currentLang] || c.en) : id;
 }
 let selectedCat = null;   // single active topic filter; null = show all
+// List view: false = one row per episode (default); true = grouped by topic, an episode appears under each of its topics
+let viewByTopic = false;   // the site always opens on the full list
 
 function t(key, vars) {
   var s = (I18N[currentLang] && I18N[currentLang][key]) || I18N.en[key] || key;
@@ -413,29 +427,64 @@ function renderFilterBar() {
   sel.classList.toggle('active', !!selectedCat);
   sel.onchange = function () { selectedCat = sel.value || null; renderEpisodeList(); };
 }
+function episodeRow(ep) {
+  // One compact row per episode: number · title · arrow. The whole row is the button.
+  var row = document.createElement('button');
+  var inProgress = ep.status === 'in_progress';
+  row.type = 'button';
+  row.className = 'ep-row' + (inProgress ? ' in-progress' : '');
+  row.title = epField(ep, 'description');   // full description on hover
+  row.setAttribute('aria-label', epNumber(ep) + ': ' + epField(ep, 'title'));
+  row.innerHTML =
+    '<span class="ep-row-num">' + esc(String(ep.number).replace(/\D/g, '')) + '</span>' +
+    '<span class="ep-row-title">' + esc(epField(ep, 'title')) + '</span>' +
+    (inProgress ? '<span class="ep-status-badge">' + esc(t('status_in_progress')) + '</span>' : '') +
+    '<span class="ep-row-go" aria-hidden="true">&rsaquo;</span>';
+  row.addEventListener('click', function () { selectEpisode(ep.id); });
+  return row;
+}
+function renderViewToggle() {
+  var btn = document.getElementById('view-toggle');
+  if (!btn) return;
+  btn.textContent = viewByTopic ? t('view_full_list') : t('view_by_topic');
+  btn.classList.toggle('active', viewByTopic);
+  btn.setAttribute('aria-pressed', viewByTopic ? 'true' : 'false');
+  btn.onclick = function () {
+    viewByTopic = !viewByTopic;
+    renderEpisodeList();
+  };
+}
 function renderEpisodeList() {
   renderFilterBar();
+  renderViewToggle();
   var grid = document.getElementById('episode-grid');
   grid.innerHTML = '';
+  grid.classList.toggle('by-topic', viewByTopic);
   var shown = EPISODES.filter(episodeMatchesFilter);
-  shown.forEach(function (ep) {
-    // One compact row per episode: number · title · arrow. The whole row is the button.
-    var row = document.createElement('button');
-    var inProgress = ep.status === 'in_progress';
-    row.type = 'button';
-    row.className = 'ep-row' + (inProgress ? ' in-progress' : '');
-    row.title = epField(ep, 'description');   // full description on hover
-    row.setAttribute('aria-label', epNumber(ep) + ': ' + epField(ep, 'title'));
-    row.innerHTML =
-      '<span class="ep-row-num">' + esc(String(ep.number).replace(/\D/g, '')) + '</span>' +
-      '<span class="ep-row-title">' + esc(epField(ep, 'title')) + '</span>' +
-      (inProgress ? '<span class="ep-status-badge">' + esc(t('status_in_progress')) + '</span>' : '') +
-      '<span class="ep-row-go" aria-hidden="true">&rsaquo;</span>';
-    row.addEventListener('click', function () { selectEpisode(ep.id); });
-    grid.appendChild(row);
-  });
   var cnt = document.getElementById('filter-count');
-  if (cnt) cnt.textContent = t('eps_count', { n: shown.length, total: EPISODES.length });
+  if (!viewByTopic) {
+    shown.forEach(function (ep) { grid.appendChild(episodeRow(ep)); });
+    if (cnt) cnt.textContent = t('eps_count', { n: shown.length, total: EPISODES.length });
+    return;
+  }
+  // Grouped view: one section per topic (in CATEGORIES order); episodes with several topics are repeated.
+  var groups = 0;
+  CATEGORIES.forEach(function (c) {
+    if (selectedCat && selectedCat !== c.id) return;
+    var eps = EPISODES.filter(function (e) { return (e.categories || []).indexOf(c.id) >= 0; });
+    if (!eps.length) return;
+    groups++;
+    var sec = document.createElement('section');
+    sec.className = 'topic-group';
+    var h = document.createElement('h2');
+    h.className = 'topic-group-head';
+    h.innerHTML = esc(catLabel(c.id)) + ' <span class="topic-group-count">' + eps.length + '</span>';
+    sec.appendChild(h);
+    eps.forEach(function (ep) { sec.appendChild(episodeRow(ep)); });
+    grid.appendChild(sec);
+  });
+  if (cnt) cnt.textContent = selectedCat ? t('eps_count', { n: shown.length, total: EPISODES.length })
+                                         : t('topics_count', { n: groups, total: shown.length });
 }
 
 // ── Select episode ───────────────────────────────────────

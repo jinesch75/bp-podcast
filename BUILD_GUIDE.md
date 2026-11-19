@@ -485,3 +485,7 @@ Jacques: avoid Luxembourgish terms (badly pronounced) → EN/FR/DE spoken lines 
 ## European funds (19 Nov 2026)
 
 Jacques: "integration" → "living together" (Tom's AMIF line, summary line; official fund name "Asylum, Migration and Integration Fund" kept); FEDER amount ("around twenty-one million euros") removed — no amounts for the other funds, avoids stale figures. `build/apply_fondseuropeens_2026_11.py` (EN/FR/DE/LB). "..." pauses removed (18/language; EN 9 colons/dashes by hand), voice QC + retakes (EN 0, FR 10, DE 5). ≈ 10,000 credits.
+
+## Episode list: "Show episodes by topic" view (19 Nov 2026)
+
+Jacques: a second way to browse. A toggle button next to the topic dropdown (`#view-toggle`, i18n `view_by_topic` / `view_full_list` / `topics_count` in EN/FR/DE/LB) switches the landing page between the full list (default; the site always opens on it) and a grouped view: one section per topic in `CATEGORIES` order, each with its episodes — an episode with several topics appears in each of its sections (43 episodes → 69 rows in 15 groups). The dropdown still works in both views (grouped view + a topic = that one group). Code: `episodeRow()`, `renderViewToggle()`, `renderEpisodeList()` in app.js; CSS `.view-toggle`, `.topic-group*` in index.html. Tested with jsdom.

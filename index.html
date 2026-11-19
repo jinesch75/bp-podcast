@@ -6,8 +6,8 @@
   <title>Biergerpakt Podcast &ndash; Listen, Learn &amp; Earn Your Certificate</title>
   <link rel="icon" type="image/svg+xml" href="favicon.svg">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-  <script src="episodes_data.js?v=202611191519" defer></script>
-  <script src="app.js?v=202611191519" defer></script>
+  <script src="episodes_data.js?v=202611191534" defer></script>
+  <script src="app.js?v=202611191534" defer></script>
   <style>
     :root {
       --orange: #E84600;
@@ -116,6 +116,15 @@
     .filter-select:focus { outline: none; border-color: var(--orange); box-shadow: 0 0 0 3px rgba(232,70,0,0.1); }
     .filter-select.active { border-color: var(--orange); color: var(--orange-dark); }
     .filter-count { font-size: 0.8rem; color: var(--text-muted); }
+    .filter-pick { flex-wrap: wrap; }
+    .view-toggle { background: white; border: 1.5px solid var(--border); color: var(--dark); padding: 9px 14px; border-radius: 9px; font-family: inherit; font-size: 0.88rem; font-weight: 700; cursor: pointer; transition: border-color 0.15s, background 0.15s, color 0.15s; }
+    .view-toggle:hover, .view-toggle:focus-visible { border-color: var(--orange); outline: none; }
+    .view-toggle.active { background: var(--orange-light); border-color: var(--orange); color: var(--orange-dark); }
+    /* Grouped-by-topic view */
+    #episode-grid.by-topic { background: none; box-shadow: none; border-radius: 0; overflow: visible; }
+    .topic-group { background: white; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); overflow: hidden; margin-bottom: 18px; }
+    .topic-group-head { margin: 0; padding: 12px 18px; font-size: 0.95rem; font-weight: 800; color: var(--orange-dark); background: var(--orange-light); border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 8px; }
+    .topic-group-count { font-size: 0.75rem; font-weight: 800; color: var(--text-sub); background: white; border-radius: 999px; padding: 2px 8px; }
 
     /* Episode list: one compact row per episode */
     #episode-grid { background: white; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); overflow: hidden; }
@@ -323,6 +332,7 @@
       <div class="filter-pick">
         <label class="filter-head" id="filter-heading" for="filter-select" data-i18n="filter_heading">Topic</label>
         <select class="filter-select" id="filter-select"></select>
+        <button type="button" class="view-toggle" id="view-toggle" aria-pressed="false">Show episodes by topic</button>
       </div>
       <div class="filter-count" id="filter-count"></div>
     </div>
