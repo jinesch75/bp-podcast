@@ -9,7 +9,7 @@
 **ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
 **ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
-**TOM:** Und das heutige Thema könnte Sie überraschen. Es geht um Luxemburg... und um den Weltraum.
+**TOM:** Und das heutige Thema könnte Sie überraschen. Es geht um Luxemburg, und um den Weltraum.
 **ANNA:** Ja, der Weltraum! Satelliten, Raketen, die Sterne. Das klingt nach etwas nur für große Länder.
 **TOM:** Und doch ist das kleine Luxemburg wirklich einer der Raumfahrtpioniere der Welt.
 **ANNA:** Um das zu lenken, gibt es die Luxemburgische Raumfahrtagentur.
@@ -22,19 +22,19 @@
 **TOM:** Dieses Wachstum entstand aus starker staatlicher Unterstützung und einem wegweisenden Rechtsrahmen.
 **ANNA:** Luxemburg war eines der ersten Länder in Europa, das klare Gesetze über Aktivitäten im Weltraum erlassen hat.
 **TOM:** Also Anna, was macht die Raumfahrtagentur eigentlich?
-**ANNA:** Sie entwickelt und unterstützt den luxemburgischen Raumfahrtsektor... sie hilft Unternehmen, mit Finanzierung und mit Talenten, zum Beispiel über ihr nationales Programm LuxImpulse.
+**ANNA:** Sie entwickelt und unterstützt den luxemburgischen Raumfahrtsektor, sie hilft Unternehmen, mit Finanzierung und mit Talenten, zum Beispiel über ihr nationales Programm LuxImpulse.
 **TOM:** Sie arbeitet daran, Raumfahrtunternehmen anzuziehen, damit sie sich hier ansiedeln, und den hiesigen beim Wachsen zu helfen.
 **ANNA:** Und sie verbindet Luxemburg mit den großen Akteuren, wie der Europäischen Weltraumorganisation, der Luxemburg 2005 beigetreten ist.
-**TOM:** Nun denken Sie vielleicht... das ist ja schön, aber was hat der Weltraum mit meinem Alltag zu tun?
+**TOM:** Nun denken Sie vielleicht, das ist ja schön, aber was hat der Weltraum mit meinem Alltag zu tun?
 **ANNA:** Weit mehr, als Sie sich vorstellen! Der Weltraum treibt ganz unauffällig Dinge an, die wir jeden Tag nutzen.
 **TOM:** Denken Sie an die Satellitennavigation, die Ihr Auto, Ihren Bus, Ihre Lieferung leitet.
 **ANNA:** Denken Sie an die Wettervorhersage und an Fernsehen und Kommunikation, die abgelegene Orte erreichen.
-**TOM:** Satelliten wachen auch über die Erde... sie beobachten das Klima, die Verschmutzung, die Wälder und die Überschwemmungen.
+**TOM:** Satelliten wachen auch über die Erde, sie beobachten das Klima, die Verschmutzung, die Wälder und die Überschwemmungen.
 **ANNA:** So hilft die Raumfahrttechnologie, die Umwelt zu schützen und auf Katastrophen zu reagieren.
 **TOM:** Sie hilft sogar den Landwirten, indem sie die Felder von oben überwacht, wie wir in unserer Folge über die Landwirtschaft erwähnt haben.
 **ANNA:** Und die Forschung im Weltraum kann die Medizin und neue Materialien hier auf der Erde voranbringen.
 **TOM:** Der Weltraum ist also keine Flucht. Er ist ein praktisches Werkzeug, das das Leben am Boden verbessert.
-**ANNA:** Es gibt auch eine durchdachte Seite an Luxemburgs Raumfahrtstrategie... die Nachhaltigkeit.
+**ANNA:** Es gibt auch eine durchdachte Seite an Luxemburgs Raumfahrtstrategie, die Nachhaltigkeit.
 **TOM:** Ja. Es geht nicht nur darum, in den Weltraum zu gehen, sondern es verantwortungsvoll zu tun.
 **ANNA:** Das bedeutet, den Weltraum für künftige Generationen nutzbar zu halten und den Weltraum zu nutzen, um Herausforderungen auf der Erde zu lösen.
 **TOM:** Das ist eine reife Art, über eine mächtige neue Grenze nachzudenken.
@@ -49,13 +49,13 @@
 **ANNA:** Zweitens: Denken Sie daran, dass die Raumfahrttechnologie alltägliche Dinge antreibt, von der Navigation bis zur Klimaüberwachung.
 **TOM:** Drittens: Wenn Sie, oder Ihre Kinder, Wissenschaft und Technik lieben, ist dies eine wachsende Welt mit Chancen hier.
 **ANNA:** Fassen wir es zusammen. Woran sollten sich die Menschen bei der Luxemburgischen Raumfahrtagentur erinnern?
-**TOM:** Erstens... sie entwickelt und unterstützt den luxemburgischen Raumfahrtsektor, der seit den 1980er-Jahren bemerkenswert gewachsen ist.
-**ANNA:** Zweitens... dieses Wachstum entstand aus staatlicher Unterstützung und wegweisenden Weltraumgesetzen.
-**TOM:** Drittens... der Weltraum treibt unauffällig den Alltag an, von Navigation und Kommunikation bis zur Klima- und Katastrophenüberwachung.
-**ANNA:** Und viertens... Luxemburgs Strategie betont, Raumfahrt nachhaltig und verantwortungsvoll zu betreiben.
+**TOM:** Erstens, sie entwickelt und unterstützt den luxemburgischen Raumfahrtsektor, der seit den 1980er-Jahren bemerkenswert gewachsen ist.
+**ANNA:** Zweitens, dieses Wachstum entstand aus staatlicher Unterstützung und wegweisenden Weltraumgesetzen.
+**TOM:** Drittens, der Weltraum treibt unauffällig den Alltag an, von Navigation und Kommunikation bis zur Klima- und Katastrophenüberwachung.
+**ANNA:** Und viertens. Luxemburgs Strategie betont, Raumfahrt nachhaltig und verantwortungsvoll zu betreiben.
 **TOM:** Das ist ein schöner Gedanke. Ein winziges Land, das nach oben blickt und hilft, die Zukunft der Menschheit zwischen den Sternen zu gestalten.
 **ANNA:** Und das echte Arbeitsplätze, Dienstleistungen und Inspiration zurück auf die Erde bringt. Das war unsere Folge über die Luxembourg Space Agency. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
-**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**TOM:** Danke an alle. Passen Sie auf sich auf, und bis zum nächsten Mal!
 **ANNA:** Vielen Dank fürs Zuhören.
 
 ---

@@ -9,7 +9,7 @@
 **ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 **TOM:** Moien alleguer!
 **ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
-**TOM:** An d'Thema vun haut kéint Iech iwwerraschen. Et geet ëm Lëtzebuerg... an ëm de Weltraum.
+**TOM:** An d'Thema vun haut kéint Iech iwwerraschen. Et geet ëm Lëtzebuerg, an ëm de Weltraum.
 **ANNA:** Jo, de Weltraum! Satellitten, Rakéiten, d'Stären. Dat kléngt no eppes nëmme fir grouss Länner.
 **TOM:** An trotzdem ass dat klengt Lëtzebuerg wierklech ee vun de Weltraumpionéier vun der Welt.
 **ANNA:** Fir dat ze leeden, gëtt et d'Lëtzebuerger Raumfaartagence.
@@ -22,19 +22,19 @@
 **TOM:** Dëse Wuesstem ass aus enger staarker Ënnerstëtzung vun der Regierung an aus engem wegweisende juristesche Kader entstanen.
 **ANNA:** Lëtzebuerg war ee vun den éischte Länner an Europa, dat kloer Gesetzer iwwer Aktivitéiten am Weltraum gemaach huet.
 **TOM:** Also Anna, wat mécht d'Raumfaartagence eigentlech?
-**ANNA:** Si entwéckelt an ënnerstëtzt de Lëtzebuerger Raumfaartsekteur... si hëlleft de Firmen, mat Finanzéierung a mat Talenter, zum Beispill iwwer hiert nationaalt Programm LuxImpulse.
+**ANNA:** Si entwéckelt an ënnerstëtzt de Lëtzebuerger Raumfaartsekteur, si hëlleft de Firmen, mat Finanzéierung a mat Talenter, zum Beispill iwwer hiert nationaalt Programm LuxImpulse.
 **TOM:** Si schafft drun, Raumfaartfirmen unzezéien, datt si sech hei néierloossen, an deenen hei ze hëllefen ze wuessen.
 **ANNA:** A si verbënnt Lëtzebuerg mat de grousse Spiller, wéi der Europäescher Weltraumorganisatioun, där Lëtzebuerg 2005 bäigetrueden ass.
-**TOM:** Elo denkt Dir vläicht... dat ass jo schéin, mä wat huet de Weltraum mat mengem Alldag ze dinn?
+**TOM:** Elo denkt Dir vläicht, dat ass jo schéin, mä wat huet de Weltraum mat mengem Alldag ze dinn?
 **ANNA:** Vill méi, wéi Dir Iech virstellt! De Weltraum dreift ganz onopfälleg Saachen un, déi mir all Dag benotzen.
 **TOM:** Denkt un d'Satellittennavigatioun, déi Är Auto, Äre Bus, Är Liwwerung féiert.
 **ANNA:** Denkt un d'Wiedervirhersoen, an un de Fernseh an d'Kommunikatioun, déi ofgeleeën Plazen erreechen.
-**TOM:** Satellitte waachen och iwwert d'Äerd... si verfollegen d'Klima, d'Verschmotzung, d'Bëscher an d'Iwwerschwemmungen.
+**TOM:** Satellitte waachen och iwwert d'Äerd, si verfollegen d'Klima, d'Verschmotzung, d'Bëscher an d'Iwwerschwemmungen.
 **ANNA:** Sou hëlleft d'Raumfaarttechnologie, d'Ëmwelt ze schützen an op Katastrophen ze reagéieren.
 **TOM:** Si hëlleft souguer de Baueren, andeems si d'Felder vu uewen iwwerwaacht, wéi mir an eiser Episod iwwert d'Landwirtschaft erwäänt hunn.
 **ANNA:** An d'Fuerschung am Weltraum kann d'Medezin an nei Materialien hei op der Äerd virubréngen.
 **TOM:** De Weltraum ass also keng Flucht. Et ass e praktescht Instrument, dat d'Liewen um Buedem verbessert.
-**ANNA:** Et gëtt och eng duerchduechte Säit u Lëtzebuergs Raumfaartstrategie... d'Nohaltegkeet.
+**ANNA:** Et gëtt och eng duerchduechte Säit u Lëtzebuergs Raumfaartstrategie, d'Nohaltegkeet.
 **TOM:** Jo. Et geet net nëmmen drëm, an de Weltraum ze goen, mä et verantwortungsvoll ze maachen.
 **ANNA:** Dat heescht, de Weltraum fir zukünfteg Generatioune benotzbar ze halen an de Weltraum ze notzen, fir Erausfuerderungen op der Äerd ze léisen.
 **TOM:** Dat ass eng reife Manéier, iwwer eng mächteg nei Grenz nozedenken.
@@ -49,13 +49,13 @@
 **ANNA:** Zweetens, denkt drun, datt d'Raumfaarttechnologie alldeeglech Saachen undreift, vun der Navigatioun bis zur Klimaiwwerwaachung.
 **TOM:** Drëttens, wann Dir, oder Är Kanner, d'Wëssenschaft an d'Technik gär hutt, ass dat eng wuessend Welt mat Chancen hei.
 **ANNA:** Faasse mer et zesummen. Wat sollen d'Leit sech iwwer d'Lëtzebuerger Raumfaartagence erënneren?
-**TOM:** Als éischt... si entwéckelt an ënnerstëtzt de Lëtzebuerger Raumfaartsekteur, deen zënter den 1980er Joren bemierkenswäert gewuess ass.
-**ANNA:** Zweetens... dëse Wuesstem ass aus der Ënnerstëtzung vun der Regierung an aus wegweisende Weltraumgesetzer entstanen.
-**TOM:** Drëttens... de Weltraum dreift onopfälleg den Alldag un, vun der Navigatioun an der Kommunikatioun bis zur Klima- a Katastropheniwwerwaachung.
-**ANNA:** A véiertens... Lëtzebuergs Strategie ënnersträicht, d'Raumfaart nohalteg a verantwortungsvoll ze bedreiwen.
+**TOM:** Als éischt, si entwéckelt an ënnerstëtzt de Lëtzebuerger Raumfaartsekteur, deen zënter den 1980er Joren bemierkenswäert gewuess ass.
+**ANNA:** Zweetens, dëse Wuesstem ass aus der Ënnerstëtzung vun der Regierung an aus wegweisende Weltraumgesetzer entstanen.
+**TOM:** Drëttens, de Weltraum dreift onopfälleg den Alldag un, vun der Navigatioun an der Kommunikatioun bis zur Klima- a Katastropheniwwerwaachung.
+**ANNA:** A véiertens. Lëtzebuergs Strategie ënnersträicht, d'Raumfaart nohalteg a verantwortungsvoll ze bedreiwen.
 **TOM:** Dat ass e schéine Gedanken. E ganz klengt Land, dat no uewe kuckt an hëlleft, d'Zukunft vun der Mënschheet tëschent de Stären ze gestalten.
 **ANNA:** A dat echt Aarbechtsplazen, Servicer an Inspiratioun zréck op d'Äerd bréngt. Dat war eis Episod iwwer d'Luxembourg Space Agency. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
-**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**TOM:** Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!
 **ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---

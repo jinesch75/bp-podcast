@@ -9,7 +9,7 @@
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
 **ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
-**TOM:** Et le sujet d'aujourd'hui pourrait bien vous surprendre. Il s'agit du Luxembourg... et de l'espace.
+**TOM:** Et le sujet d'aujourd'hui pourrait bien vous surprendre. Il s'agit du Luxembourg, et de l'espace.
 **ANNA:** Oui, l'espace ! Les satellites, les fusées, les étoiles. On dirait quelque chose réservé aux grands pays.
 **TOM:** Et pourtant, le petit Luxembourg est véritablement l'un des pionniers du spatial dans le monde.
 **ANNA:** Pour guider tout cela, il y a l'Agence spatiale luxembourgeoise.
@@ -22,19 +22,19 @@
 **TOM:** Cette croissance est née d'un fort soutien du gouvernement, et d'un cadre juridique pionnier.
 **ANNA:** Le Luxembourg a été l'un des premiers pays d'Europe à établir des lois claires sur les activités dans l'espace.
 **TOM:** Alors Anna, que fait concrètement l'Agence spatiale ?
-**ANNA:** Elle développe et soutient le secteur spatial luxembourgeois... en aidant les entreprises, le financement et les talents, par exemple à travers son programme national, LuxImpulse.
+**ANNA:** Elle développe et soutient le secteur spatial luxembourgeois, en aidant les entreprises, le financement et les talents, par exemple à travers son programme national, LuxImpulse.
 **TOM:** Elle s'efforce d'attirer des entreprises spatiales pour qu'elles s'installent ici, et d'aider celles déjà présentes à grandir.
 **ANNA:** Et elle relie le Luxembourg aux grands acteurs, comme l'Agence spatiale européenne, dont le Luxembourg est membre depuis 2005.
-**TOM:** Maintenant, vous vous dites peut-être... c'est bien joli, mais qu'est-ce que l'espace a à voir avec ma vie de tous les jours ?
+**TOM:** Maintenant, vous vous dites peut-être, c'est bien joli, mais qu'est-ce que l'espace a à voir avec ma vie de tous les jours ?
 **ANNA:** Bien plus que vous ne l'imaginez ! L'espace alimente discrètement des choses que nous utilisons chaque jour.
 **TOM:** Pensez à la navigation par satellite qui guide votre voiture, votre bus, votre livraison.
 **ANNA:** Pensez aux prévisions météo, et à la télévision et aux communications qui atteignent les endroits reculés.
-**TOM:** Les satellites veillent aussi sur la Terre... suivant le climat, la pollution, les forêts et les inondations.
+**TOM:** Les satellites veillent aussi sur la Terre, suivant le climat, la pollution, les forêts et les inondations.
 **ANNA:** Ainsi, la technologie spatiale aide à protéger l'environnement, et à réagir aux catastrophes.
 **TOM:** Elle aide même les agriculteurs, en surveillant les cultures depuis le ciel, comme nous l'avons évoqué dans notre épisode sur l'agriculture.
 **ANNA:** Et la recherche dans l'espace peut faire progresser la médecine et de nouveaux matériaux ici, sur Terre.
 **TOM:** L'espace n'est donc pas une fuite. C'est un outil pratique qui améliore la vie au sol.
-**ANNA:** Il y a aussi une dimension réfléchie dans la stratégie spatiale du Luxembourg... la durabilité.
+**ANNA:** Il y a aussi une dimension réfléchie dans la stratégie spatiale du Luxembourg, la durabilité.
 **TOM:** Oui. Il ne s'agit pas seulement d'aller dans l'espace, mais de le faire de manière responsable.
 **ANNA:** Cela signifie garder l'espace utilisable pour les générations futures, et utiliser l'espace pour résoudre des défis sur Terre.
 **TOM:** C'est une manière mûre d'envisager une nouvelle frontière puissante.
@@ -49,13 +49,13 @@
 **ANNA:** Ensuite, souvenez-vous que la technologie spatiale alimente des choses du quotidien, de la navigation à la surveillance du climat.
 **TOM:** Troisièmement, si vous, ou vos enfants, aimez la science et la technologie, c'est un univers en plein essor avec des opportunités ici.
 **ANNA:** Récapitulons. Que faut-il retenir de l'Agence spatiale luxembourgeoise ?
-**TOM:** D'abord... elle développe et soutient le secteur spatial luxembourgeois, qui a remarquablement grandi depuis les années 1980.
-**ANNA:** Ensuite... cette croissance est née du soutien du gouvernement et de lois spatiales pionnières.
-**TOM:** Troisièmement... l'espace alimente discrètement la vie quotidienne, de la navigation et des communications au suivi du climat et des catastrophes.
-**ANNA:** Et quatrièmement... la stratégie du Luxembourg insiste sur le fait de pratiquer le spatial de manière durable et responsable.
+**TOM:** D'abord, elle développe et soutient le secteur spatial luxembourgeois, qui a remarquablement grandi depuis les années 1980.
+**ANNA:** Ensuite, cette croissance est née du soutien du gouvernement et de lois spatiales pionnières.
+**TOM:** Troisièmement, l'espace alimente discrètement la vie quotidienne, de la navigation et des communications au suivi du climat et des catastrophes.
+**ANNA:** Et quatrièmement, la stratégie du Luxembourg insiste sur le fait de pratiquer le spatial de manière durable et responsable.
 **TOM:** C'est une belle pensée. Un tout petit pays, qui lève les yeux, et qui contribue à façonner l'avenir de l'humanité parmi les étoiles.
 **ANNA:** Tout en ramenant de vrais emplois, des services et de l'inspiration ici, sur Terre. C'était notre épisode sur la Luxembourg Space Agency. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
-**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**TOM:** Merci à tous. Prenez soin de vous, et à la prochaine !
 **ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---

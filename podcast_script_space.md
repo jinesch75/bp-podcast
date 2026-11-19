@@ -9,7 +9,7 @@
 **ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
 **ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
-**TOM:** And today's topic might surprise you. It's about Luxembourg... and space.
+**TOM:** And today's topic might surprise you. It's about Luxembourg — and space.
 **ANNA:** Yes, space! Satellites, rockets, the stars. It sounds like something for big countries only.
 **TOM:** And yet, little Luxembourg is genuinely one of the world's space pioneers.
 **ANNA:** To guide this, there's the Luxembourg Space Agency.
@@ -22,19 +22,19 @@
 **TOM:** That growth came from strong government support, and a pioneering legal framework.
 **ANNA:** Luxembourg was one of the first countries in Europe to make clear laws about activities in space.
 **TOM:** So Anna, what does the Space Agency actually do?
-**ANNA:** It develops and supports Luxembourg's space sector... helping companies, funding, and talent, for example through its national programme, LuxImpulse.
+**ANNA:** It develops and supports Luxembourg's space sector — helping companies, funding, and talent — for example through its national programme, LuxImpulse.
 **TOM:** It works to attract space businesses to set up here, and to help local ones grow.
 **ANNA:** And it connects Luxembourg to the big players, like the European Space Agency, which Luxembourg joined in 2005.
-**TOM:** Now, you might be thinking... that's nice, but what has space got to do with my daily life?
+**TOM:** Now, you might be thinking: that's nice, but what has space got to do with my daily life?
 **ANNA:** Far more than you'd imagine! Space quietly powers things we use every single day.
 **TOM:** Think of the satellite navigation that guides your car, your bus, your delivery.
 **ANNA:** Think of weather forecasts, and the television and communications that reach remote places.
-**TOM:** Satellites also watch over the Earth... tracking the climate, pollution, forests, and floods.
+**TOM:** Satellites also watch over the Earth: tracking the climate, pollution, forests, and floods.
 **ANNA:** So space technology helps protect the environment, and respond to disasters.
 **TOM:** It even helps farmers, by monitoring crops from above, as we mentioned in our agriculture episode.
 **ANNA:** And research in space can advance medicine and new materials back here on Earth.
 **TOM:** So space isn't escapism. It's a practical tool that improves life on the ground.
-**ANNA:** There's also a thoughtful side to Luxembourg's space strategy... sustainability.
+**ANNA:** There's also a thoughtful side to Luxembourg's space strategy: sustainability.
 **TOM:** Yes. It's not only about going to space, but doing it responsibly.
 **ANNA:** That means keeping space usable for future generations, and using space to solve challenges on Earth.
 **TOM:** It's a mature way to think about a powerful new frontier.
@@ -49,13 +49,13 @@
 **ANNA:** Second, remember that space technology powers everyday things, from navigation to climate monitoring.
 **TOM:** Third, if you, or your children, love science and technology, this is a growing world with opportunities here.
 **ANNA:** Let's bring it together. What should people remember about the Luxembourg Space Agency?
-**TOM:** First... it develops and supports Luxembourg's space sector, which has grown remarkably since the 1980s.
-**ANNA:** Second... that growth came from government support and pioneering space laws.
-**TOM:** Third... space quietly powers daily life, from navigation and communications to climate and disaster monitoring.
-**ANNA:** And fourth... Luxembourg's strategy stresses doing space sustainably and responsibly.
+**TOM:** First, it develops and supports Luxembourg's space sector, which has grown remarkably since the 1980s.
+**ANNA:** Second, that growth came from government support and pioneering space laws.
+**TOM:** Third, space quietly powers daily life, from navigation and communications to climate and disaster monitoring.
+**ANNA:** And fourth, Luxembourg's strategy stresses doing space sustainably and responsibly.
 **TOM:** It's a beautiful thought. A tiny country, looking up, and helping shape humanity's future among the stars.
 **ANNA:** And bringing real jobs, services and inspiration back down to Earth. That was our episode about the Luxembourg Space Agency. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
-**TOM:** Thank you, everyone. Take care... and see you next time!
+**TOM:** Thank you, everyone. Take care, and see you next time!
 **ANNA:** Thank you so much for listening.
 
 ---

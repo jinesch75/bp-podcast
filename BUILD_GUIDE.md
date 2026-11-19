@@ -477,3 +477,7 @@ No "..." pauses in this episode. Rebuilt with the new CLEAN rule; voice QC + ret
 
 Jacques: avoid Luxembourgish terms (badly pronounced) → EN/FR/DE spoken lines say "Ëmweltberodung Lëtzebuerg" only once (Anna's explanation at the start, as Jacques asked), the "Ëmwelt/Berodung" explanation (→ "the name says exactly what it does"), "Grénge Web", "SuperDrecksKëscht" (→ national waste-prevention programme), "Ouni Pestiziden" (→ campaign for gardens "without pesticides"), "Gutt Geschier" (→ sharing tools / the tool library). Kept: the websites ounipestiziden.lu and guttgeschier.lu (said once each). `build/apply_no_lux_terms_ebl_2026_11.py`; LB script and footers unchanged. "..." pauses removed, voice QC + retakes (EN 5, FR 4, DE 2). ≈ 9,000 credits.
 - Follow-up: EN "Ëmweltberodung Lëtzebuerg" → "Emvelt-berodung Letze-burg" (A/B choice E with an eleven_v3 Luxembourgish reference: `REF_LANG=lb pron_ab.py`, file `build/el_test/pron_emwelt_en_AB.mp3`). FR/DE unchanged (assumed fine).
+
+## Space agency (19 Nov 2026)
+
+"..." pauses removed (10/language; EN 6 colons/dashes by hand), voice QC + retakes (EN 5, FR 2, DE 3). ≈ 4,000 credits.
