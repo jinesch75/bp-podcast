@@ -431,8 +431,12 @@ All 15 "..." pauses removed per language (`remove_ellipses.py agriculture`; EN: 
 
 All 16 "..." pauses removed per language (`remove_ellipses.py amenagement`; EN: 11 colons by hand), voice QC EN/FR/DE + retakes (EN 4, FR 1, DE 4); standard intro/outro not retaken. ≈ 6,300 credits. EN 5:48, FR 5:49, DE 6:28.
 
-## CNAP / Pensiounskeess (19 Nov 2026) — partly done, credits ran out
+## CNAP / Pensiounskeess (19 Nov 2026)
 
 - EN Pensiounskeess → "Pen-si-yons-kees" (Jacques's spelling; was "Pen-see-ouns-kayss"). EN "Caisse nationale d'assurance pension" → "Kess nassyonal dassuranss pansyon" (A/B choice B, `build/el_test/pron_caissepension_en_AB.mp3`). Anna's "Good. And what exactly does the CNAP do?" ("Good" swallowed) → "Good — and what…", take picked (p(Good) 0.61 → 0.81). "..." removed (1 per language). Live.
-- **Pitch pass NOT done**: the API key "Biergerpakt podcast" hit its 400,000-credit limit (quota_exceeded). Flagged EN sentences (from `voice_qc.py cnap en`): 8 "A big topic!", 23 "For almost everyone.", 42, 53, 64, 76 "What's inside?", 96, 104 "Is there a minimum?", 131, 136, 192 "Tom — the essentials?", 205. FR/DE not yet checked. To resume after raising the limit: `best_take.py cnap en 8,23,42,53,64,76,96,104,131,136,192,205` (in batches of ≤4), then voice_qc fr/de, rebuild, `replace_audio_elevenlabs.js cnap en,fr,de`.
+- Pitch pass (after the key's limit was raised): voice QC EN/FR/DE + retakes EN 12, FR 6, DE 10 (≈ 2,600 credits). Live. EN 15:21, FR 15:10, DE 17:27.
 - `best_take.py` now writes takes atomically (a run cut off by the 180 s limit had left a broken mp3 in el_cache; moved to `build/_to_delete/`).
+
+## Culture portal (19 Nov 2026)
+
+Scripts ready: all "..." pauses removed (`remove_ellipses.py culture`; EN: 8 colons/dashes by hand). Recorded after the key's limit was raised; voice QC EN/FR/DE + retakes (EN 3, FR 2, DE 2). ≈ 4,300 credits. Live. EN 5:27, FR 5:21, DE 6:07.

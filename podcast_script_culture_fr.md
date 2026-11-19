@@ -9,55 +9,55 @@
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
 **ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
-**TOM:** Et peu de choses rassemblent autant les gens que le sujet d'aujourd'hui... la culture.
+**TOM:** Et peu de choses rassemblent autant les gens que le sujet d'aujourd'hui, la culture.
 **ANNA:** Concerts, théâtre, musées, festivals, expositions, danse, films, patrimoine.
 **TOM:** Pour un petit pays, le Luxembourg a une vie culturelle étonnamment riche.
 **ANNA:** Mais voici le défi. Avec autant d'événements, comment savoir ce qui se passe ?
-**TOM:** C'est exactement là qu'intervient l'outil d'aujourd'hui... le portail culturel, à l'adresse culture point lu.
+**TOM:** C'est exactement là qu'intervient l'outil d'aujourd'hui, le portail culturel, à l'adresse culture point lu.
 **ANNA:** Alors Tom, qu'est-ce que le portail culturel ?
 **TOM:** C'est un site web qui rassemble les informations essentielles sur la vie culturelle au Luxembourg, en un seul endroit.
 **ANNA:** C'est la vitrine du secteur culturel, soutenue par le ministère de la Culture.
 **TOM:** Ainsi, au lieu de chercher sur de nombreux sites différents, vous avez une seule porte d'entrée accueillante.
-**ANNA:** Parlons du cœur du portail... l'agenda, la liste des événements à venir.
+**ANNA:** Parlons du cœur du portail, l'agenda, la liste des événements à venir.
 **TOM:** L'agenda rassemble les événements culturels de tout le pays.
-**ANNA:** Concerts, pièces de théâtre, expositions, lectures, festivals, activités en famille... tout dans un seul calendrier.
+**ANNA:** Concerts, pièces de théâtre, expositions, lectures, festivals, activités en famille, tout dans un seul calendrier.
 **TOM:** Ainsi, lors d'une soirée libre ou d'un dimanche pluvieux, vous pouvez simplement regarder et trouver quelque chose à faire.
 **ANNA:** Et c'est pour tout le pays, pas seulement pour la capitale.
 **TOM:** C'est vraiment important. La culture se vit dans les villes et les villages partout, pas seulement à un seul endroit.
 **ANNA:** Le portail vous oriente aussi vers les nombreux lieux et institutions culturels.
-**TOM:** Musées, théâtres, salles de concert, centres culturels, galeries... des lieux à découvrir.
+**TOM:** Musées, théâtres, salles de concert, centres culturels, galeries, des lieux à découvrir.
 **ANNA:** Le Luxembourg a de magnifiques musées et lieux culturels, et cela vous aide à trouver ceux qui sont près de chez vous.
 **TOM:** Parlons aussi du patrimoine, car la culture, ce ne sont pas seulement des nouveautés.
 **ANNA:** Oui. Ce sont aussi des châteaux, de vieilles villes, des traditions et les histoires du pays.
 **TOM:** Il y a des événements spéciaux comme la Nuit des Musées et les journées du patrimoine, où les portes s'ouvrent à tous.
 **ANNA:** Ce sont des occasions magiques pour explorer des lieux que vous ne visiteriez peut-être jamais autrement.
 **TOM:** Le portail n'est cependant pas seulement pour le public. Il est aussi pour celles et ceux qui font la culture.
-**ANNA:** C'est un bon point. Il soutient le secteur culturel lui-même... les artistes, les institutions, les organisateurs.
+**ANNA:** C'est un bon point. Il soutient le secteur culturel lui-même, les artistes, les institutions, les organisateurs.
 **TOM:** Il fait partie d'un effort plus large pour développer la culture au Luxembourg, guidé par un plan de développement culturel qui court jusqu'en 2028.
 **ANNA:** Et un plan d'action national, lancé en 2026, vise à rendre la culture plus accessible, plus inclusive et plus présente dans chaque région.
 **TOM:** Il y a même une coopération avec les communes, afin que la culture locale soit soutenue au plus près de chez soi.
 **ANNA:** Parlons de la raison pour laquelle la culture compte tant, au-delà du simple plaisir.
-**TOM:** D'abord, parce qu'elle rassemble les gens... au-delà des langues, des âges et des origines.
+**TOM:** D'abord, parce qu'elle rassemble les gens, au-delà des langues, des âges et des origines.
 **ANNA:** Dans un pays aussi international que le Luxembourg, des moments culturels partagés nous aident à nous sentir comme une seule communauté.
 **TOM:** Ensuite, parce que la culture nous aide à nous comprendre les uns les autres, et à nous comprendre nous-mêmes.
 **ANNA:** Une pièce de théâtre, une chanson, une exposition peuvent ouvrir une fenêtre sur une autre vie, ou sur la nôtre.
 **TOM:** Et troisièmement, parce que c'est tout simplement l'une des joies de la vie. Nous avons tous besoin de beauté et d'émerveillement.
 **ANNA:** Et une grande partie est abordable, voire gratuite, si vous savez où chercher. Avec le Kulturpass, les personnes à faibles revenus profitent gratuitement de nombreux lieux.
-**TOM:** Ce qui est tout l'intérêt du portail... rendre la culture facile à trouver et à partager.
+**TOM:** Ce qui est tout l'intérêt du portail, rendre la culture facile à trouver et à partager.
 **ANNA:** Soyons concrets. Comment peut-on utiliser le portail culturel ?
 **TOM:** D'abord, avant un week-end, consultez l'agenda pour les événements près de chez vous, et essayez quelque chose de nouveau.
 **ANNA:** Ensuite, renseignez-vous sur les musées et lieux culturels de votre région, et planifiez une visite.
 **TOM:** Troisièmement, guettez les grands moments partagés, comme la Nuit des Musées et les journées du patrimoine.
 **ANNA:** Et quatrièmement, si vous êtes artiste ou organisateur, découvrez comment le secteur est soutenu.
 **TOM:** Récapitulons. Que faut-il retenir au sujet du portail culturel ?
-**ANNA:** D'abord... culture point lu rassemble la vie culturelle du Luxembourg en un seul endroit, soutenu par le ministère de la Culture.
-**TOM:** Ensuite... son agenda répertorie les événements de tout le pays, pour tous les goûts.
-**ANNA:** Troisièmement... il vous oriente vers les musées, les lieux culturels et le patrimoine, ainsi que vers des journées portes ouvertes spéciales.
-**TOM:** Et quatrièmement... il soutient le secteur culturel et vise à rendre la culture accessible à tous.
-**ANNA:** La culture est l'âme d'un pays... les chansons qu'il chante, les histoires qu'il raconte, la beauté qu'il partage.
+**ANNA:** D'abord, culture point lu rassemble la vie culturelle du Luxembourg en un seul endroit, soutenu par le ministère de la Culture.
+**TOM:** Ensuite, son agenda répertorie les événements de tout le pays, pour tous les goûts.
+**ANNA:** Troisièmement, il vous oriente vers les musées, les lieux culturels et le patrimoine, ainsi que vers des journées portes ouvertes spéciales.
+**TOM:** Et quatrièmement, il soutient le secteur culturel et vise à rendre la culture accessible à tous.
+**ANNA:** La culture est l'âme d'un pays, les chansons qu'il chante, les histoires qu'il raconte, la beauté qu'il partage.
 **TOM:** Et elle appartient à tout le monde. Alors allez-y et profitez de votre part de culture.
 **ANNA:** C'était notre épisode sur le portail de la culture. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
-**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**TOM:** Merci à tous. Prenez soin de vous, et à la prochaine !
 **ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---

@@ -85457,7 +85457,7 @@ const EPISODES = [
   "title": "The Culture Portal – Discovering Cultural Life in Luxembourg",
   "description": "What culture.lu is — the cultural portal supported by the Ministry of Culture that gathers Luxembourg's cultural life in one place — its agenda of events across the country, the museums and venues it points to, heritage and special open days, and its support for the cultural sector, making culture accessible to all.",
   "audio": "podcast_culture.mp3",
-  "duration": 326.58,
+  "duration": 326.56,
   "topics": [
    "What the culture portal is",
    "One place for cultural life",
@@ -85501,328 +85501,328 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "And few things bring people together like today's topic... culture.",
+    "text": "And few things bring people together like today's topic: culture.",
     "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Concerts, theatre, museums, festivals, exhibitions, dance, films, heritage.",
-    "t": 31.84
+    "t": 31.73
    },
    {
     "speaker": "Tom",
     "text": "For a small country, Luxembourg has an astonishingly rich cultural life.",
-    "t": 36.93
+    "t": 36.82
    },
    {
     "speaker": "Anna",
     "text": "But here's the challenge.",
-    "t": 41.31
+    "t": 41.2
    },
    {
     "speaker": "Anna",
     "text": "With so much happening, how do you find out what's on?",
-    "t": 42.78
+    "t": 42.67
    },
    {
     "speaker": "Tom",
-    "text": "That's exactly where today's tool comes in... the culture portal, at culture dot lu.",
-    "t": 46.18
+    "text": "That's exactly where today's tool comes in: the culture portal, at culture dot lu.",
+    "t": 46.07
    },
    {
     "speaker": "Anna",
     "text": "So Tom, what is the culture portal?",
-    "t": 51.86
+    "t": 52.02
    },
    {
     "speaker": "Tom",
     "text": "It's a website that gathers the essential information about cultural life in Luxembourg, in one place.",
-    "t": 54.51
+    "t": 54.67
    },
    {
     "speaker": "Anna",
     "text": "It's the cultural sector's shop window, supported by the Ministry of Culture.",
-    "t": 60.78
+    "t": 60.94
    },
    {
     "speaker": "Tom",
     "text": "So instead of searching many different websites, you have one welcoming doorway.",
-    "t": 65.54
+    "t": 65.7
    },
    {
     "speaker": "Anna",
-    "text": "Let's talk about the heart of it... the agenda, the what's-on listing.",
-    "t": 69.71
+    "text": "Let's talk about the heart of it: the agenda, the what's-on listing.",
+    "t": 69.87
    },
    {
     "speaker": "Tom",
     "text": "The agenda brings together cultural events from across the country.",
-    "t": 74.49
+    "t": 74.93
    },
    {
     "speaker": "Anna",
-    "text": "Concerts, plays, exhibitions, readings, festivals, family activities... all in one calendar.",
-    "t": 78.28
+    "text": "Concerts, plays, exhibitions, readings, festivals, family activities — all in one calendar.",
+    "t": 78.72
    },
    {
     "speaker": "Tom",
     "text": "So on a free evening, or a rainy Sunday, you can simply look and find something to do.",
-    "t": 86.16
+    "t": 86.33
    },
    {
     "speaker": "Anna",
     "text": "And it's for the whole country, not just the capital.",
-    "t": 91.44
+    "t": 91.61
    },
    {
     "speaker": "Tom",
     "text": "That really matters.",
-    "t": 94.98
+    "t": 95.15
    },
    {
     "speaker": "Tom",
     "text": "Culture happens in towns and villages everywhere, not only in one place.",
-    "t": 96.11
+    "t": 96.49
    },
    {
     "speaker": "Anna",
     "text": "The portal also points you to the many cultural venues and institutions.",
-    "t": 100.11
+    "t": 100.49
    },
    {
     "speaker": "Tom",
-    "text": "Museums, theatres, concert halls, cultural centres, galleries... places to discover.",
-    "t": 104.87
+    "text": "Museums, theatres, concert halls, cultural centres, galleries — places to discover.",
+    "t": 105.25
    },
    {
     "speaker": "Anna",
     "text": "Luxembourg has wonderful museums and venues, and this helps you find the ones near you.",
-    "t": 110.12
+    "t": 110.52
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about heritage, too, because culture isn't only new things.",
-    "t": 115.35
+    "t": 115.75
    },
    {
     "speaker": "Anna",
     "text": "Yes. It's also castles, old towns, traditions, and the stories of the country.",
-    "t": 119.35
+    "t": 119.75
    },
    {
     "speaker": "Tom",
     "text": "There are special events like museum nights and heritage days, when doors open to everyone.",
-    "t": 124.17
+    "t": 124.57
    },
    {
     "speaker": "Anna",
     "text": "Those are magical occasions to explore places you might never otherwise visit.",
-    "t": 129.29
+    "t": 129.69
    },
    {
     "speaker": "Tom",
     "text": "The portal isn't only for audiences, though.",
-    "t": 134.01
+    "t": 134.41
    },
    {
     "speaker": "Tom",
     "text": "It's also for the people who make culture.",
-    "t": 136.41
+    "t": 136.81
    },
    {
     "speaker": "Anna",
     "text": "That's a good point.",
-    "t": 139.13
+    "t": 139.53
    },
    {
     "speaker": "Anna",
-    "text": "It supports the cultural sector itself... the artists, the institutions, the organisers.",
-    "t": 140.45
+    "text": "It supports the cultural sector itself: the artists, the institutions, the organisers.",
+    "t": 140.85
    },
    {
     "speaker": "Tom",
     "text": "It's part of a bigger effort to develop culture in Luxembourg, guided by a cultural development plan that runs until 2028.",
-    "t": 146.61
+    "t": 147.38
    },
    {
     "speaker": "Anna",
     "text": "And a national action plan, launched in 2026, works to make culture more accessible, more inclusive, and more present in every region.",
-    "t": 154.12
+    "t": 154.89
    },
    {
     "speaker": "Tom",
     "text": "There's even cooperation with the communes, so that local culture is supported close to home.",
-    "t": 164.12
+    "t": 164.89
    },
    {
     "speaker": "Anna",
     "text": "Let's talk about why culture matters so much, beyond simply being enjoyable.",
-    "t": 169.48
+    "t": 170.25
    },
    {
     "speaker": "Tom",
-    "text": "First, because it brings people together... across languages, ages and backgrounds.",
-    "t": 174.49
+    "text": "First, because it brings people together, across languages, ages and backgrounds.",
+    "t": 175.26
    },
    {
     "speaker": "Anna",
     "text": "In a country as international as Luxembourg, shared cultural moments help us feel like one community.",
-    "t": 179.25
+    "t": 179.81
    },
    {
     "speaker": "Tom",
     "text": "Second, because culture helps us understand each other, and ourselves.",
-    "t": 185.89
+    "t": 186.45
    },
    {
     "speaker": "Anna",
     "text": "A play, a song, an exhibition can open a window into another life, or our own.",
-    "t": 190.66
+    "t": 191.22
    },
    {
     "speaker": "Tom",
     "text": "And third, because it's simply one of the joys of life.",
-    "t": 195.87
+    "t": 196.43
    },
    {
     "speaker": "Tom",
     "text": "We all need beauty and wonder.",
-    "t": 198.74
+    "t": 199.3
    },
    {
     "speaker": "Anna",
     "text": "And much of it is affordable, or even free, if you know where to look.",
-    "t": 200.71
+    "t": 201.27
    },
    {
     "speaker": "Anna",
     "text": "With the Kulturpass, people on low incomes can enjoy many venues for free.",
-    "t": 204.84
+    "t": 205.4
    },
    {
     "speaker": "Tom",
-    "text": "Which is the whole point of the portal... making it easy to find and to join in.",
-    "t": 209.72
+    "text": "Which is the whole point of the portal: making it easy to find and to join in.",
+    "t": 210.28
    },
    {
     "speaker": "Anna",
     "text": "Let's make it practical.",
-    "t": 214.67
+    "t": 215.4
    },
    {
     "speaker": "Anna",
     "text": "How can someone use the culture portal?",
-    "t": 216.12
+    "t": 216.85
    },
    {
     "speaker": "Tom",
     "text": "First, before a weekend, check the agenda for events near you, and try something new.",
-    "t": 218.66
+    "t": 219.39
    },
    {
     "speaker": "Anna",
     "text": "Second, look up the museums and venues in your region, and plan a visit.",
-    "t": 223.68
+    "t": 224.41
    },
    {
     "speaker": "Tom",
     "text": "Third, watch for the big shared moments, like museum nights and heritage days.",
-    "t": 229.07
+    "t": 229.8
    },
    {
     "speaker": "Anna",
     "text": "And fourth, if you're an artist or organiser, explore how the sector is supported.",
-    "t": 233.77
+    "t": 234.5
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it together.",
-    "t": 239.13
+    "t": 239.86
    },
    {
     "speaker": "Tom",
     "text": "What should people remember about the culture portal?",
-    "t": 240.29
+    "t": 241.14
    },
    {
     "speaker": "Anna",
-    "text": "First... culture dot lu gathers Luxembourg's cultural life in one place, supported by the Ministry of Culture.",
-    "t": 243.41
+    "text": "First, culture dot lu gathers Luxembourg's cultural life in one place, supported by the Ministry of Culture.",
+    "t": 244.26
    },
    {
     "speaker": "Tom",
-    "text": "Second... its agenda lists events across the whole country, for every taste.",
-    "t": 250.89
+    "text": "Second, its agenda lists events across the whole country, for every taste.",
+    "t": 251.51
    },
    {
     "speaker": "Anna",
-    "text": "Third... it points you to museums, venues and heritage, and to special open days.",
-    "t": 255.68
+    "text": "Third, it points you to museums, venues and heritage, and to special open days.",
+    "t": 255.99
    },
    {
     "speaker": "Tom",
-    "text": "And fourth... it supports the cultural sector and aims to make culture accessible to all.",
-    "t": 261.05
+    "text": "And fourth, it supports the cultural sector and aims to make culture accessible to all.",
+    "t": 261.68
    },
    {
     "speaker": "Anna",
-    "text": "Culture is the soul of a country... the songs it sings, the stories it tells, the beauty it shares.",
-    "t": 266.44
+    "text": "Culture is the soul of a country: the songs it sings, the stories it tells, the beauty it shares.",
+    "t": 266.4
    },
    {
     "speaker": "Tom",
     "text": "And it belongs to everyone.",
-    "t": 273.85
+    "t": 273.71
    },
    {
     "speaker": "Tom",
     "text": "So go and enjoy your share of it.",
-    "t": 275.27
+    "t": 275.13
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the culture portal.",
-    "t": 277.22
+    "t": 277.08
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 279.7
+    "t": 279.56
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 289.86
+    "t": 289.72
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 308.15
+    "t": 308.01
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 314.9
+    "t": 314.76
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 317.1
+    "t": 316.96
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 321.79
+    "t": 321.65
    },
    {
     "speaker": "Tom",
-    "text": "Take care... and see you next time!",
-    "t": 322.87
+    "text": "Take care, and see you next time!",
+    "t": 322.82
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 324.99
+    "t": 324.96
    }
   ],
   "questions": [
@@ -86024,7 +86024,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_culture_fr.mp3",
-  "duration_fr": 323.94,
+  "duration_fr": 320.86,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -86044,336 +86044,336 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
-    "text": "Et peu de choses rassemblent autant les gens que le sujet d'aujourd'hui... la culture.",
-    "t": 23.07
+    "text": "Et peu de choses rassemblent autant les gens que le sujet d'aujourd'hui, la culture.",
+    "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "Concerts, théâtre, musées, festivals, expositions, danse, films, patrimoine.",
-    "t": 27.65
+    "t": 27.69
    },
    {
     "speaker": "Tom",
     "text": "Pour un petit pays, le Luxembourg a une vie culturelle étonnamment riche.",
-    "t": 33.19
+    "t": 33.23
    },
    {
     "speaker": "Anna",
     "text": "Mais voici le défi.",
-    "t": 37.67
+    "t": 37.71
    },
    {
     "speaker": "Anna",
     "text": "Avec autant d'événements, comment savoir ce qui se passe ?",
-    "t": 38.91
+    "t": 38.95
    },
    {
     "speaker": "Tom",
-    "text": "C'est exactement là qu'intervient l'outil d'aujourd'hui... le portail culturel, à l'adresse culture point lu.",
-    "t": 41.78
+    "text": "C'est exactement là qu'intervient l'outil d'aujourd'hui, le portail culturel, à l'adresse culture point lu.",
+    "t": 41.82
    },
    {
     "speaker": "Anna",
     "text": "Alors Tom, qu'est-ce que le portail culturel ?",
-    "t": 47.83
+    "t": 47.84
    },
    {
     "speaker": "Tom",
     "text": "C'est un site web qui rassemble les informations essentielles sur la vie culturelle au Luxembourg, en un seul endroit.",
-    "t": 50.51
+    "t": 50.52
    },
    {
     "speaker": "Anna",
     "text": "C'est la vitrine du secteur culturel, soutenue par le ministère de la Culture.",
-    "t": 56.61
+    "t": 56.62
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, au lieu de chercher sur de nombreux sites différents, vous avez une seule porte d'entrée accueillante.",
-    "t": 60.43
+    "t": 60.44
    },
    {
     "speaker": "Anna",
-    "text": "Parlons du cœur du portail... l'agenda, la liste des événements à venir.",
-    "t": 65.86
+    "text": "Parlons du cœur du portail, l'agenda, la liste des événements à venir.",
+    "t": 65.87
    },
    {
     "speaker": "Tom",
     "text": "L'agenda rassemble les événements culturels de tout le pays.",
-    "t": 70.31
+    "t": 69.64
    },
    {
     "speaker": "Anna",
-    "text": "Concerts, pièces de théâtre, expositions, lectures, festivals, activités en famille... tout dans un seul calendrier.",
-    "t": 74.07
+    "text": "Concerts, pièces de théâtre, expositions, lectures, festivals, activités en famille, tout dans un seul calendrier.",
+    "t": 73.4
    },
    {
     "speaker": "Tom",
     "text": "Ainsi, lors d'une soirée libre ou d'un dimanche pluvieux, vous pouvez simplement regarder et trouver quelque chose à faire.",
-    "t": 80.7
+    "t": 79.68
    },
    {
     "speaker": "Anna",
     "text": "Et c'est pour tout le pays, pas seulement pour la capitale.",
-    "t": 86.93
+    "t": 85.91
    },
    {
     "speaker": "Tom",
     "text": "C'est vraiment important.",
-    "t": 89.79
+    "t": 88.77
    },
    {
     "speaker": "Tom",
     "text": "La culture se vit dans les villes et les villages partout, pas seulement à un seul endroit.",
-    "t": 91.27
+    "t": 90.22
    },
    {
     "speaker": "Anna",
     "text": "Le portail vous oriente aussi vers les nombreux lieux et institutions culturels.",
-    "t": 96.08
+    "t": 95.03
    },
    {
     "speaker": "Tom",
-    "text": "Musées, théâtres, salles de concert, centres culturels, galeries... des lieux à découvrir.",
-    "t": 100.17
+    "text": "Musées, théâtres, salles de concert, centres culturels, galeries, des lieux à découvrir.",
+    "t": 99.12
    },
    {
     "speaker": "Anna",
     "text": "Le Luxembourg a de magnifiques musées et lieux culturels, et cela vous aide à trouver ceux qui sont près de chez vous.",
-    "t": 106.33
+    "t": 105.67
    },
    {
     "speaker": "Tom",
     "text": "Parlons aussi du patrimoine, car la culture, ce ne sont pas seulement des nouveautés.",
-    "t": 111.65
+    "t": 110.99
    },
    {
     "speaker": "Anna",
     "text": "Oui. Ce sont aussi des châteaux, de vieilles villes, des traditions et les histoires du pays.",
-    "t": 116.3
+    "t": 115.64
    },
    {
     "speaker": "Tom",
     "text": "Il y a des événements spéciaux comme la Nuit des Musées et les journées du patrimoine, où les portes s'ouvrent à tous.",
-    "t": 121.44
+    "t": 120.78
    },
    {
     "speaker": "Anna",
     "text": "Ce sont des occasions magiques pour explorer des lieux que vous ne visiteriez peut-être jamais autrement.",
-    "t": 127.48
+    "t": 126.82
    },
    {
     "speaker": "Tom",
     "text": "Le portail n'est cependant pas seulement pour le public.",
-    "t": 132.59
+    "t": 131.93
    },
    {
     "speaker": "Tom",
     "text": "Il est aussi pour celles et ceux qui font la culture.",
-    "t": 135.51
+    "t": 134.85
    },
    {
     "speaker": "Anna",
     "text": "C'est un bon point.",
-    "t": 138.41
+    "t": 137.75
    },
    {
     "speaker": "Anna",
-    "text": "Il soutient le secteur culturel lui-même... les artistes, les institutions, les organisateurs.",
-    "t": 139.57
+    "text": "Il soutient le secteur culturel lui-même, les artistes, les institutions, les organisateurs.",
+    "t": 138.83
    },
    {
     "speaker": "Tom",
     "text": "Il fait partie d'un effort plus large pour développer la culture au Luxembourg, guidé par un plan de développement culturel qui court jusqu'en 2028.",
-    "t": 145.46
+    "t": 144.21
    },
    {
     "speaker": "Anna",
     "text": "Et un plan d'action national, lancé en 2026, vise à rendre la culture plus accessible, plus inclusive et plus présente dans chaque région.",
-    "t": 154.13
+    "t": 152.88
    },
    {
     "speaker": "Tom",
     "text": "Il y a même une coopération avec les communes, afin que la culture locale soit soutenue au plus près de chez soi.",
-    "t": 161.17
+    "t": 159.92
    },
    {
     "speaker": "Anna",
     "text": "Parlons de la raison pour laquelle la culture compte tant, au-delà du simple plaisir.",
-    "t": 167.36
+    "t": 166.11
    },
    {
     "speaker": "Tom",
-    "text": "D'abord, parce qu'elle rassemble les gens... au-delà des langues, des âges et des origines.",
-    "t": 171.46
+    "text": "D'abord, parce qu'elle rassemble les gens, au-delà des langues, des âges et des origines.",
+    "t": 170.21
    },
    {
     "speaker": "Anna",
     "text": "Dans un pays aussi international que le Luxembourg, des moments culturels partagés nous aident à nous sentir comme une seule communauté.",
-    "t": 176.58
+    "t": 175.22
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, parce que la culture nous aide à nous comprendre les uns les autres, et à nous comprendre nous-mêmes.",
-    "t": 182.77
+    "t": 181.41
    },
    {
     "speaker": "Anna",
     "text": "Une pièce de théâtre, une chanson, une exposition peuvent ouvrir une fenêtre sur une autre vie, ou sur la nôtre.",
-    "t": 188.12
+    "t": 186.76
    },
    {
     "speaker": "Tom",
     "text": "Et troisièmement, parce que c'est tout simplement l'une des joies de la vie.",
-    "t": 193.73
+    "t": 192.37
    },
    {
     "speaker": "Tom",
     "text": "Nous avons tous besoin de beauté et d'émerveillement.",
-    "t": 197.2
+    "t": 195.84
    },
    {
     "speaker": "Anna",
     "text": "Et une grande partie est abordable, voire gratuite, si vous savez où chercher.",
-    "t": 200.14
+    "t": 198.78
    },
    {
     "speaker": "Anna",
     "text": "Avec le Kulturpass, les personnes à faibles revenus profitent gratuitement de nombreux lieux.",
-    "t": 204.02
+    "t": 202.66
    },
    {
     "speaker": "Tom",
-    "text": "Ce qui est tout l'intérêt du portail... rendre la culture facile à trouver et à partager.",
-    "t": 208.63
+    "text": "Ce qui est tout l'intérêt du portail, rendre la culture facile à trouver et à partager.",
+    "t": 207.27
    },
    {
     "speaker": "Anna",
     "text": "Soyons concrets. Comment peut-on utiliser le portail culturel ?",
-    "t": 213.99
+    "t": 212.53
    },
    {
     "speaker": "Tom",
     "text": "D'abord, avant un week-end, consultez l'agenda pour les événements près de chez vous, et essayez quelque chose de nouveau.",
-    "t": 217.45
+    "t": 215.99
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, renseignez-vous sur les musées et lieux culturels de votre région, et planifiez une visite.",
-    "t": 223.92
+    "t": 222.46
    },
    {
     "speaker": "Tom",
     "text": "Troisièmement, guettez les grands moments partagés, comme la Nuit des Musées et les journées du patrimoine.",
-    "t": 229
+    "t": 227.54
    },
    {
     "speaker": "Anna",
     "text": "Et quatrièmement, si vous êtes artiste ou organisateur, découvrez comment le secteur est soutenu.",
-    "t": 234.9
+    "t": 233.44
    },
    {
     "speaker": "Tom",
     "text": "Récapitulons. Que faut-il retenir au sujet du portail culturel ?",
-    "t": 240.05
+    "t": 238.59
    },
    {
     "speaker": "Anna",
-    "text": "D'abord... culture point lu rassemble la vie culturelle du Luxembourg en un seul endroit, soutenu par le ministère de la Culture.",
-    "t": 244.26
+    "text": "D'abord, culture point lu rassemble la vie culturelle du Luxembourg en un seul endroit, soutenu par le ministère de la Culture.",
+    "t": 242.8
    },
    {
     "speaker": "Tom",
-    "text": "Ensuite... son agenda répertorie les événements de tout le pays, pour tous les goûts.",
-    "t": 251.23
+    "text": "Ensuite, son agenda répertorie les événements de tout le pays, pour tous les goûts.",
+    "t": 249.38
    },
    {
     "speaker": "Anna",
-    "text": "Troisièmement... il vous oriente vers les musées, les lieux culturels et le patrimoine, ainsi que vers des journées portes ouvertes spéciales.",
-    "t": 256.13
+    "text": "Troisièmement, il vous oriente vers les musées, les lieux culturels et le patrimoine, ainsi que vers des journées portes ouvertes spéciales.",
+    "t": 254.22
    },
    {
     "speaker": "Tom",
-    "text": "Et quatrièmement... il soutient le secteur culturel et vise à rendre la culture accessible à tous.",
-    "t": 263.1
+    "text": "Et quatrièmement, il soutient le secteur culturel et vise à rendre la culture accessible à tous.",
+    "t": 261.34
    },
    {
     "speaker": "Anna",
-    "text": "La culture est l'âme d'un pays... les chansons qu'il chante, les histoires qu'il raconte, la beauté qu'il partage.",
-    "t": 269.4
+    "text": "La culture est l'âme d'un pays, les chansons qu'il chante, les histoires qu'il raconte, la beauté qu'il partage.",
+    "t": 267.3
    },
    {
     "speaker": "Tom",
     "text": "Et elle appartient à tout le monde.",
-    "t": 275.62
+    "t": 272.89
    },
    {
     "speaker": "Tom",
     "text": "Alors allez-y et profitez de votre part de culture.",
-    "t": 277.53
+    "t": 274.61
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur le portail de la culture.",
-    "t": 280.72
+    "t": 277.8
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 283.11
+    "t": 280.19
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 291.22
+    "t": 288.3
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 307.67
+    "t": 304.75
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 312.32
+    "t": 309.4
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 314.1
+    "t": 311.18
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 318.48
+    "t": 315.56
    },
    {
     "speaker": "Tom",
-    "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 319.71
+    "text": "Prenez soin de vous, et à la prochaine !",
+    "t": 316.81
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 322.17
+    "t": 319.1
    }
   ],
   "audio_de": "podcast_culture_de.mp3",
-  "duration_de": 368.77,
+  "duration_de": 367.31,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -86393,342 +86393,347 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
-    "text": "Und nur wenige Dinge bringen Menschen so zusammen wie unser heutiges Thema... die Kultur.",
-    "t": 27.86
+    "text": "Und nur wenige Dinge bringen Menschen so zusammen wie unser heutiges Thema, die Kultur.",
+    "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Konzerte, Theater, Museen, Festivals, Ausstellungen, Tanz, Filme, Kulturerbe.",
-    "t": 32.94
+    "t": 32.84
    },
    {
     "speaker": "Tom",
     "text": "Für ein kleines Land hat Luxemburg ein erstaunlich reiches kulturelles Leben.",
-    "t": 39.04
+    "t": 38.94
    },
    {
     "speaker": "Anna",
     "text": "Aber hier liegt die Herausforderung.",
-    "t": 43.74
+    "t": 43.64
    },
    {
     "speaker": "Anna",
-    "text": "Bei so vielen Veranstaltungen... wie findet man heraus, was gerade läuft?",
-    "t": 45.76
+    "text": "Bei so vielen Veranstaltungen, wie findet man heraus, was gerade läuft?",
+    "t": 45.67
    },
    {
     "speaker": "Tom",
-    "text": "Genau hier kommt das heutige Werkzeug ins Spiel... das Kulturportal, unter culture Punkt lu.",
-    "t": 50.67
+    "text": "Genau hier kommt das heutige Werkzeug ins Spiel, das Kulturportal, unter culture Punkt lu.",
+    "t": 50.66
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, was ist das Kulturportal?",
-    "t": 57.26
+    "t": 56.98
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine Website, die die wesentlichen Informationen über das kulturelle Leben in Luxemburg an einem Ort zusammenführt.",
-    "t": 60.02
+    "t": 59.74
    },
    {
     "speaker": "Anna",
     "text": "Es ist das Schaufenster des Kultursektors, unterstützt vom Kulturministerium.",
-    "t": 66.85
+    "t": 66.57
    },
    {
     "speaker": "Tom",
     "text": "Anstatt also auf vielen verschiedenen Websites zu suchen, haben Sie eine einzige einladende Eingangstür.",
-    "t": 71.7
+    "t": 71.42
    },
    {
     "speaker": "Anna",
-    "text": "Sprechen wir über das Herzstück... den Agenda, die Übersicht der Veranstaltungen.",
-    "t": 78.02
+    "text": "Sprechen wir über das Herzstück, den Agenda, die Übersicht der Veranstaltungen.",
+    "t": 77.74
    },
    {
     "speaker": "Tom",
     "text": "Der Agenda bündelt kulturelle Veranstaltungen aus dem ganzen Land.",
-    "t": 83.09
+    "t": 82.92
    },
    {
     "speaker": "Anna",
-    "text": "Konzerte, Theaterstücke, Ausstellungen, Lesungen, Festivals, Familienaktivitäten... alles in einem Kalender.",
-    "t": 87.4
+    "text": "Konzerte, Theaterstücke, Ausstellungen, Lesungen, Festivals, Familienaktivitäten, alles in einem Kalender.",
+    "t": 87.23
    },
    {
     "speaker": "Tom",
     "text": "An einem freien Abend oder an einem verregneten Sonntag können Sie also einfach nachschauen und etwas zum Unternehmen finden.",
-    "t": 96.5
+    "t": 96.33
    },
    {
     "speaker": "Anna",
     "text": "Und es gilt für das ganze Land, nicht nur für die Hauptstadt.",
-    "t": 103.74
+    "t": 103.57
    },
    {
     "speaker": "Tom",
     "text": "Das ist wirklich wichtig.",
-    "t": 107.17
+    "t": 107
    },
    {
     "speaker": "Tom",
     "text": "Kultur findet überall in Städten und Dörfern statt, nicht nur an einem einzigen Ort.",
-    "t": 108.73
+    "t": 108.56
    },
    {
     "speaker": "Anna",
     "text": "Das Portal verweist Sie auch auf die vielen kulturellen Spielstätten und Einrichtungen.",
-    "t": 113.97
+    "t": 113.8
    },
    {
     "speaker": "Tom",
-    "text": "Museen, Theater, Konzertsäle, Kulturzentren, Galerien... Orte zum Entdecken.",
-    "t": 118.78
+    "text": "Museen, Theater, Konzertsäle, Kulturzentren, Galerien.",
+    "t": 118.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Orte zum Entdecken.",
+    "t": 122.94
    },
    {
     "speaker": "Anna",
     "text": "Luxemburg hat wunderbare Museen und Spielstätten, und das hilft Ihnen, die in Ihrer Nähe zu finden.",
-    "t": 124.14
+    "t": 124.31
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir auch über das Kulturerbe, denn Kultur ist nicht nur Neues.",
-    "t": 130.17
+    "t": 130.34
    },
    {
     "speaker": "Anna",
     "text": "Ja. Es sind auch Schlösser, alte Städte, Traditionen und die Geschichten des Landes.",
-    "t": 134.46
+    "t": 134.63
    },
    {
     "speaker": "Tom",
     "text": "Es gibt besondere Veranstaltungen wie die Nuit des Musées und die Tage des Kulturerbes, wenn sich die Türen für alle öffnen.",
-    "t": 140.11
+    "t": 140.28
    },
    {
     "speaker": "Anna",
     "text": "Das sind magische Gelegenheiten, um Orte zu erkunden, die Sie sonst vielleicht nie besuchen würden.",
-    "t": 147.06
+    "t": 147.23
    },
    {
     "speaker": "Tom",
     "text": "Das Portal ist aber nicht nur für das Publikum da.",
-    "t": 152.63
+    "t": 152.8
    },
    {
     "speaker": "Tom",
     "text": "Es ist auch für die Menschen, die Kultur gestalten.",
-    "t": 155.44
+    "t": 155.61
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein guter Punkt.",
-    "t": 158.31
+    "t": 158.48
    },
    {
     "speaker": "Anna",
-    "text": "Es unterstützt den Kultursektor selbst... die Künstler, die Einrichtungen, die Veranstalter.",
-    "t": 159.78
+    "text": "Es unterstützt den Kultursektor selbst, die Künstler, die Einrichtungen, die Veranstalter.",
+    "t": 160.04
    },
    {
     "speaker": "Tom",
     "text": "Es ist Teil eines größeren Bestrebens, die Kultur in Luxemburg zu entwickeln, geleitet von einem Kulturentwicklungsplan, der bis 2028 läuft.",
-    "t": 165.6
+    "t": 166.29
    },
    {
     "speaker": "Anna",
     "text": "Und ein nationaler Aktionsplan, 2026 gestartet, soll Kultur zugänglicher, inklusiver und in jeder Region präsenter machen.",
-    "t": 175.58
+    "t": 176.27
    },
    {
     "speaker": "Tom",
     "text": "Es gibt sogar eine Zusammenarbeit mit den Gemeinden, damit lokale Kultur ganz in der Nähe unterstützt wird.",
-    "t": 184
+    "t": 184.69
    },
    {
     "speaker": "Anna",
     "text": "Sprechen wir darüber, warum Kultur so wichtig ist, über das bloße Vergnügen hinaus.",
-    "t": 190.24
+    "t": 190.93
    },
    {
     "speaker": "Tom",
-    "text": "Erstens, weil sie Menschen zusammenbringt... über Sprachen, Altersgruppen und Herkunft hinweg.",
-    "t": 195.11
+    "text": "Erstens, weil sie Menschen zusammenbringt, über Sprachen, Altersgruppen und Herkunft hinweg.",
+    "t": 195.8
    },
    {
     "speaker": "Anna",
     "text": "In einem so internationalen Land wie Luxemburg helfen uns gemeinsame kulturelle Momente, uns als eine Gemeinschaft zu fühlen.",
-    "t": 201.08
+    "t": 201.4
    },
    {
     "speaker": "Tom",
     "text": "Zweitens, weil Kultur uns hilft, einander und uns selbst zu verstehen.",
-    "t": 208.37
+    "t": 208.69
    },
    {
     "speaker": "Anna",
     "text": "Ein Theaterstück, ein Lied, eine Ausstellung können ein Fenster zu einem anderen Leben öffnen, oder zu unserem eigenen.",
-    "t": 212.84
+    "t": 213.16
    },
    {
     "speaker": "Tom",
     "text": "Und drittens, weil es einfach eine der Freuden des Lebens ist.",
-    "t": 220.23
+    "t": 220.55
    },
    {
     "speaker": "Tom",
     "text": "Wir alle brauchen Schönheit und Staunen.",
-    "t": 223.97
+    "t": 224.29
    },
    {
     "speaker": "Anna",
     "text": "Und vieles davon ist erschwinglich oder sogar kostenlos, wenn Sie wissen, wo Sie suchen müssen.",
-    "t": 226.26
+    "t": 226.58
    },
    {
     "speaker": "Anna",
     "text": "Mit dem Kulturpass können Menschen mit geringem Einkommen viele Häuser kostenlos besuchen.",
-    "t": 231.31
+    "t": 231.63
    },
    {
     "speaker": "Tom",
-    "text": "Was genau der Sinn des Portals ist... es einfach zu machen, Kultur zu finden und daran teilzunehmen.",
-    "t": 236.48
+    "text": "Was genau der Sinn des Portals ist, es einfach zu machen, Kultur zu finden und daran teilzunehmen.",
+    "t": 236.8
    },
    {
     "speaker": "Anna",
     "text": "Werden wir konkret.",
-    "t": 242.58
+    "t": 242.98
    },
    {
     "speaker": "Anna",
     "text": "Wie kann man das Kulturportal nutzen?",
-    "t": 244.05
+    "t": 244.45
    },
    {
     "speaker": "Tom",
     "text": "Erstens, schauen Sie vor einem Wochenende im Agenda nach Veranstaltungen in Ihrer Nähe und probieren Sie etwas Neues aus.",
-    "t": 246.42
+    "t": 246.82
    },
    {
     "speaker": "Anna",
     "text": "Zweitens, informieren Sie sich über die Museen und Spielstätten in Ihrer Region und planen Sie einen Besuch.",
-    "t": 253.53
+    "t": 253.93
    },
    {
     "speaker": "Tom",
     "text": "Drittens, halten Sie Ausschau nach den großen gemeinsamen Momenten, wie der Nuit des Musées und den Tagen des Kulturerbes.",
-    "t": 260.31
+    "t": 260.71
    },
    {
     "speaker": "Anna",
     "text": "Und viertens, wenn Sie Künstler oder Veranstalter sind, entdecken Sie, wie der Sektor unterstützt wird.",
-    "t": 267.85
+    "t": 268.25
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir es zusammen.",
-    "t": 274.16
+    "t": 274.56
    },
    {
     "speaker": "Tom",
     "text": "Was sollten sich die Menschen über das Kulturportal merken?",
-    "t": 275.73
+    "t": 276.13
    },
    {
     "speaker": "Anna",
-    "text": "Erstens... culture Punkt lu bündelt Luxemburgs kulturelles Leben an einem Ort, unterstützt vom Kulturministerium.",
-    "t": 278.96
+    "text": "Erstens, culture Punkt lu bündelt Luxemburgs kulturelles Leben an einem Ort, unterstützt vom Kulturministerium.",
+    "t": 279.36
    },
    {
     "speaker": "Tom",
-    "text": "Zweitens... sein Agenda listet Veranstaltungen im ganzen Land auf, für jeden Geschmack.",
-    "t": 286.52
+    "text": "Zweitens, sein Agenda listet Veranstaltungen im ganzen Land auf, für jeden Geschmack.",
+    "t": 286.98
    },
    {
     "speaker": "Anna",
-    "text": "Drittens... es verweist Sie auf Museen, Spielstätten und Kulturerbe, sowie auf besondere Tage der offenen Tür.",
-    "t": 292.3
+    "text": "Drittens, es verweist Sie auf Museen, Spielstätten und Kulturerbe, sowie auf besondere Tage der offenen Tür.",
+    "t": 292.32
    },
    {
     "speaker": "Tom",
-    "text": "Und viertens... es unterstützt den Kultursektor und will Kultur für alle zugänglich machen.",
-    "t": 299.78
+    "text": "Und viertens, es unterstützt den Kultursektor und will Kultur für alle zugänglich machen.",
+    "t": 299.49
    },
    {
     "speaker": "Anna",
-    "text": "Kultur ist die Seele eines Landes... die Lieder, die es singt, die Geschichten, die es erzählt, die Schönheit, die es teilt.",
-    "t": 305.81
+    "text": "Kultur ist die Seele eines Landes, die Lieder, die es singt, die Geschichten, die es erzählt, die Schönheit, die es teilt.",
+    "t": 305.01
    },
    {
     "speaker": "Tom",
     "text": "Und sie gehört allen.",
-    "t": 314.78
+    "t": 313.81
    },
    {
     "speaker": "Tom",
     "text": "Also gehen Sie hinaus und genießen Sie Ihren Anteil daran.",
-    "t": 316.18
+    "t": 315.14
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Kulturportal.",
-    "t": 319.93
+    "t": 318.89
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 322.71
+    "t": 321.7
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 331.71
+    "t": 330.7
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 350.04
+    "t": 349.03
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 355.74
+    "t": 354.73
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 357.99
+    "t": 356.98
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 362.88
+    "t": 361.87
    },
    {
     "speaker": "Tom",
-    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 364.03
+    "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
+    "t": 362.97
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 367.24
+    "t": 365.76
    }
   ],
   "segments_lb": [
@@ -86749,253 +86754,253 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "A wéineg Saache bréngen d'Leit esou zesummen ewéi eist haitegt Thema... d'Kultur.",
+    "text": "A wéineg Saache bréngen d'Leit esou zesummen ewéi eist haitegt Thema, d'Kultur.",
     "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Concerten, Theater, Muséeën, Festivaler, Ausstellungen, Danz, Filmer, Kulturierwen.",
-    "t": 31.84
+    "t": 31.73
    },
    {
     "speaker": "Tom",
     "text": "Fir e klengt Land huet Lëtzebuerg en erstaunlech räicht kulturt Liewen.",
-    "t": 36.93
+    "t": 36.82
    },
    {
     "speaker": "Anna",
-    "text": "Awer hei läit d'Erausfuerderung. Bei esou vill Evenementer... wéi fënnt een eraus, wat lass ass?",
-    "t": 41.31
+    "text": "Awer hei läit d'Erausfuerderung. Bei esou vill Evenementer, wéi fënnt een eraus, wat lass ass?",
+    "t": 41.2
    },
    {
     "speaker": "Tom",
-    "text": "Genee hei kënnt eist haitegt Tool an d'Spill... d'Kulturportal, ënner culture Punkt lu.",
-    "t": 46.18
+    "text": "Genee hei kënnt eist haitegt Tool an d'Spill, d'Kulturportal, ënner culture Punkt lu.",
+    "t": 46.07
    },
    {
     "speaker": "Anna",
     "text": "Also Tom, wat ass d'Kulturportal?",
-    "t": 51.86
+    "t": 52.02
    },
    {
     "speaker": "Tom",
     "text": "Et ass eng Websäit, déi déi wichteg Informatiounen iwwert d'kulturt Liewen zu Lëtzebuerg op enger Plaz zesummebréngt.",
-    "t": 54.51
+    "t": 54.67
    },
    {
     "speaker": "Anna",
     "text": "Et ass de Schaufënster vum Kultursecteur, ënnerstëtzt vum Kulturministère.",
-    "t": 60.78
+    "t": 60.94
    },
    {
     "speaker": "Tom",
     "text": "Anstatt also op ville verschiddene Websäiten ze sichen, hutt Dir eng eenzeg frëndlech Dier.",
-    "t": 65.54
+    "t": 65.7
    },
    {
     "speaker": "Anna",
-    "text": "Schwätze mer iwwert d'Häerz dovun... den Agenda, d'Lëscht vun deem, wat lass ass.",
-    "t": 69.71
+    "text": "Schwätze mer iwwert d'Häerz dovun, den Agenda, d'Lëscht vun deem, wat lass ass.",
+    "t": 69.87
    },
    {
     "speaker": "Tom",
     "text": "Den Agenda bréngt kulturell Evenementer aus dem ganze Land zesummen.",
-    "t": 74.49
+    "t": 74.93
    },
    {
     "speaker": "Anna",
-    "text": "Concerten, Theaterstécker, Ausstellungen, Liesungen, Festivaler, Familljenaktivitéiten... alles an engem Kalenner.",
-    "t": 78.28
+    "text": "Concerten, Theaterstécker, Ausstellungen, Liesungen, Festivaler, Familljenaktivitéiten, alles an engem Kalenner.",
+    "t": 78.72
    },
    {
     "speaker": "Tom",
     "text": "Op engem fräien Owend, oder engem reenegen Sonndeg, kënnt Dir also einfach kucken an eppes fannen, wat Dir maache kënnt.",
-    "t": 86.16
+    "t": 86.33
    },
    {
     "speaker": "Anna",
     "text": "An et ass fir d'ganzt Land, net nëmme fir d'Haaptstad.",
-    "t": 91.44
+    "t": 91.61
    },
    {
     "speaker": "Tom",
     "text": "Dat ass wierklech wichteg. Kultur geschitt iwwerall a Stied an Dierfer, net nëmmen op enger eenzeger Plaz.",
-    "t": 94.98
+    "t": 95.15
    },
    {
     "speaker": "Anna",
     "text": "D'Portal weist Iech och op déi vill kulturell Plazen an Institutiounen.",
-    "t": 100.11
+    "t": 100.49
    },
    {
     "speaker": "Tom",
-    "text": "Muséeën, Theateren, Concertssäll, Kulturzentren, Galerien... Plazen fir z'entdecken.",
-    "t": 104.87
+    "text": "Muséeën, Theateren, Concertssäll, Kulturzentren, Galerien. Plazen fir z'entdecken.",
+    "t": 105.25
    },
    {
     "speaker": "Anna",
     "text": "Lëtzebuerg huet wonnerbar Muséeën a Plazen, an dat hëlleft Iech, déi an Ärer Géigend ze fannen.",
-    "t": 110.12
+    "t": 110.52
    },
    {
     "speaker": "Tom",
     "text": "Schwätze mer och iwwert d'Kulturierwen, well Kultur ass net nëmmen Neies.",
-    "t": 115.35
+    "t": 115.75
    },
    {
     "speaker": "Anna",
     "text": "Jo. Et sinn och Schlässer, al Stied, Traditiounen an d'Geschichte vum Land.",
-    "t": 119.35
+    "t": 119.75
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt speziell Evenementer ewéi d'Nuit des Musées an d'Deeg vum Kulturierwen, wann d'Dieren fir jiddereen opginn.",
-    "t": 124.17
+    "t": 124.57
    },
    {
     "speaker": "Anna",
     "text": "Dat sinn magesch Geleeënheeten, fir Plazen z'entdecken, déi Dir soss vläicht ni géift besichen.",
-    "t": 129.29
+    "t": 129.69
    },
    {
     "speaker": "Tom",
     "text": "D'Portal ass awer net nëmme fir d'Publikum do. Et ass och fir d'Leit, déi Kultur maachen.",
-    "t": 134.01
+    "t": 134.41
    },
    {
     "speaker": "Anna",
-    "text": "Dat ass e gudde Punkt. Et ënnerstëtzt de Kultursecteur selwer... d'Kënschtler, d'Institutiounen, d'Organisateuren.",
-    "t": 139.13
+    "text": "Dat ass e gudde Punkt. Et ënnerstëtzt de Kultursecteur selwer, d'Kënschtler, d'Institutiounen, d'Organisateuren.",
+    "t": 139.53
    },
    {
     "speaker": "Tom",
     "text": "Et ass Deel vun engem méi grousse Beméien, fir d'Kultur zu Lëtzebuerg z'entwéckelen, op Basis vum Kulturentwécklungsplang, deen bis 2028 leeft.",
-    "t": 146.61
+    "t": 147.38
    },
    {
     "speaker": "Anna",
     "text": "An en nationalen Aktiounsplang, deen 2026 lancéiert gouf, soll d'Kultur méi zougänglech, méi inklusiv a méi präsent an all Regioun maachen.",
-    "t": 154.12
+    "t": 154.89
    },
    {
     "speaker": "Tom",
     "text": "Et gëtt souguer eng Zesummenaarbecht mat de Gemengen, fir datt déi lokal Kultur no bei doheem ënnerstëtzt gëtt.",
-    "t": 164.12
+    "t": 164.89
    },
    {
     "speaker": "Anna",
     "text": "Schwätze mer doriwwer, firwat Kultur esou wichteg ass, iwwert dat einfacht Vergnügen eraus.",
-    "t": 169.48
+    "t": 170.25
    },
    {
     "speaker": "Tom",
-    "text": "Als éischt, well se d'Leit zesummebréngt... iwwer Sproochen, Alter an Hierkonft eraus.",
-    "t": 174.49
+    "text": "Als éischt, well se d'Leit zesummebréngt, iwwer Sproochen, Alter an Hierkonft eraus.",
+    "t": 175.26
    },
    {
     "speaker": "Anna",
     "text": "An engem esou internationale Land ewéi Lëtzebuerg hëllefen eis gemeinsam kulturell Momenter, eis als eng eenzeg Gemeinschaft ze fillen.",
-    "t": 179.25
+    "t": 179.81
    },
    {
     "speaker": "Tom",
     "text": "Als zweet, well d'Kultur eis hëlleft, eis géigesäiteg ze verstoen, an eis selwer ze verstoen.",
-    "t": 185.89
+    "t": 186.45
    },
    {
     "speaker": "Anna",
     "text": "E Theaterstéck, e Lidd, eng Ausstellung kënnen e Fënster op en anert Liewen opmaachen, oder op eist eegent.",
-    "t": 190.66
+    "t": 191.22
    },
    {
     "speaker": "Tom",
     "text": "An als drëtt, well et einfach eng vun de Freede vum Liewen ass. Mir brauchen all Schéinheet a Staunen.",
-    "t": 195.87
+    "t": 196.43
    },
    {
     "speaker": "Anna",
     "text": "A vill dovun ass bezuelbar, oder souguer gratis, wann Dir wësst, wou Der musst kucken. Mam Kulturpass kënne Leit mat engem klengen Akommes vill Haiser gratis besichen.",
-    "t": 200.71
+    "t": 201.27
    },
    {
     "speaker": "Tom",
-    "text": "Wat genee de Sënn vun der Portal ass... et einfach ze maachen, fir Kultur ze fannen a matzemaachen.",
-    "t": 209.72
+    "text": "Wat genee de Sënn vun der Portal ass, et einfach ze maachen, fir Kultur ze fannen a matzemaachen.",
+    "t": 210.28
    },
    {
     "speaker": "Anna",
     "text": "Loosse mer et praktesch maachen. Wéi kann een d'Kulturportal benotzen?",
-    "t": 214.67
+    "t": 215.4
    },
    {
     "speaker": "Tom",
     "text": "Als éischt, virun engem Weekend, kuckt am Agenda no Evenementer an Ärer Géigend, a probéiert eppes Neies.",
-    "t": 218.66
+    "t": 219.39
    },
    {
     "speaker": "Anna",
     "text": "Als zweet, kuckt no de Muséeën a Plazen an Ärer Regioun, a plangt e Besuch.",
-    "t": 223.68
+    "t": 224.41
    },
    {
     "speaker": "Tom",
     "text": "Als drëtt, passt op déi grouss gemeinsam Momenter op, ewéi d'Nuit des Musées an d'Deeg vum Kulturierwen.",
-    "t": 229.07
+    "t": 229.8
    },
    {
     "speaker": "Anna",
     "text": "An als véiert, wann Dir Kënschtler oder Organisateur sidd, entdeckt, wéi de Secteur ënnerstëtzt gëtt.",
-    "t": 233.77
+    "t": 234.5
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer et zesummefaassen. Wat sollen d'Leit sech iwwert d'Kulturportal mierken?",
-    "t": 239.13
+    "t": 239.86
    },
    {
     "speaker": "Anna",
-    "text": "Als éischt... culture Punkt lu bréngt Lëtzebuergs kulturt Liewen op enger Plaz zesummen, ënnerstëtzt vum Kulturministère.",
-    "t": 243.41
+    "text": "Als éischt, culture Punkt lu bréngt Lëtzebuergs kulturt Liewen op enger Plaz zesummen, ënnerstëtzt vum Kulturministère.",
+    "t": 244.26
    },
    {
     "speaker": "Tom",
-    "text": "Als zweet... säin Agenda lëscht Evenementer am ganze Land op, fir all Goût.",
-    "t": 250.89
+    "text": "Als zweet, säin Agenda lëscht Evenementer am ganze Land op, fir all Goût.",
+    "t": 251.51
    },
    {
     "speaker": "Anna",
-    "text": "Als drëtt... et weist Iech op Muséeën, Plazen a Kulturierwen, an op speziell Deeg vun den oppenen Dieren.",
-    "t": 255.68
+    "text": "Als drëtt, et weist Iech op Muséeën, Plazen a Kulturierwen, an op speziell Deeg vun den oppenen Dieren.",
+    "t": 255.99
    },
    {
     "speaker": "Tom",
-    "text": "An als véiert... et ënnerstëtzt de Kultursecteur a wëll d'Kultur fir jiddereen zougänglech maachen.",
-    "t": 261.05
+    "text": "An als véiert, et ënnerstëtzt de Kultursecteur a wëll d'Kultur fir jiddereen zougänglech maachen.",
+    "t": 261.68
    },
    {
     "speaker": "Anna",
-    "text": "Kultur ass d'Séil vun engem Land... d'Lidder, déi et séngt, d'Geschichten, déi et erzielt, d'Schéinheet, déi et deelt.",
-    "t": 266.44
+    "text": "Kultur ass d'Séil vun engem Land, d'Lidder, déi et séngt, d'Geschichten, déi et erzielt, d'Schéinheet, déi et deelt.",
+    "t": 266.4
    },
    {
     "speaker": "Tom",
     "text": "An si gehéiert jidderengem. Also gitt eraus a genéisst Ären Deel dovun.",
-    "t": 273.85
+    "t": 273.71
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer de Kulturportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 277.22
+    "t": 277.08
    },
    {
     "speaker": "Tom",
-    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 321.79
+    "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
+    "t": 321.65
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 324.99
+    "t": 324.96
    }
   ]
  },
@@ -97279,7 +97284,7 @@ const EPISODES = [
   "title": "The Pensiounskeess: How Your Pension Works in Luxembourg",
   "description": "Meet the CNAP — the National Pension Insurance Office. When you can retire, how your pension is calculated, what happens to years worked abroad, and what the 2026 reform changes.",
   "audio": "podcast_cnap.mp3",
-  "duration": 922.8,
+  "duration": 921.21,
   "topics": [
    "Old-age pension at 65",
    "Early retirement at 57 or 60",
@@ -97339,1032 +97344,1032 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "And there is one office at the centre of it all.",
-    "t": 38.58
+    "t": 38.72
    },
    {
     "speaker": "Anna",
     "text": "Tom, tell us its name.",
-    "t": 41.27
+    "t": 41.41
    },
    {
     "speaker": "Tom",
     "text": "In Luxembourgish, people call it the Pensiounskeess — the pension fund.",
-    "t": 43.33
+    "t": 43.47
    },
    {
     "speaker": "Tom",
     "text": "Its official name is the Caisse nationale d'assurance pension.",
-    "t": 47.91
+    "t": 48.05
    },
    {
     "speaker": "Tom",
     "text": "In English, the National Pension Insurance Office.",
-    "t": 52.01
+    "t": 52.15
    },
    {
     "speaker": "Tom",
     "text": "The short name is C-N-A-P.",
-    "t": 54.58
+    "t": 54.72
    },
    {
     "speaker": "Anna",
     "text": "The CNAP. And where can people find it online?",
-    "t": 57.09
+    "t": 57.23
    },
    {
     "speaker": "Tom",
     "text": "The website is c-n-a-p dot public dot l-u.",
-    "t": 60.58
+    "t": 60.72
    },
    {
     "speaker": "Tom",
     "text": "It's available in French, German and English, and it explains the whole pension system in clear language.",
-    "t": 63.69
+    "t": 63.83
    },
    {
     "speaker": "Anna",
     "text": "Perfect. So let's start simply.",
-    "t": 69.67
+    "t": 69.81
    },
    {
     "speaker": "Anna",
     "text": "What is the CNAP?",
-    "t": 71.73
+    "t": 71.87
    },
    {
     "speaker": "Tom",
     "text": "The CNAP is the public office that pays the pensions of the general scheme.",
-    "t": 73.84
+    "t": 73.98
    },
    {
     "speaker": "Tom",
     "text": "It exists in its current form since the first of January two thousand and nine, when four older pension funds were merged into one single fund.",
-    "t": 77.98
+    "t": 78.12
    },
    {
     "speaker": "Anna",
     "text": "One fund for everyone?",
-    "t": 86.55
+    "t": 86.69
    },
    {
     "speaker": "Tom",
     "text": "For almost everyone.",
-    "t": 88.12
+    "t": 88.26
    },
    {
     "speaker": "Tom",
     "text": "The general scheme covers all people working in Luxembourg — employees in the private sector and self-employed people.",
-    "t": 89.17
+    "t": 89.43
    },
    {
     "speaker": "Tom",
     "text": "Civil servants and public employees have their own separate scheme.",
-    "t": 95.62
+    "t": 95.88
    },
    {
     "speaker": "Anna",
     "text": "And cross-border workers?",
-    "t": 99.62
+    "t": 99.88
    },
    {
     "speaker": "Tom",
     "text": "Yes, absolutely. If you work in Luxembourg, you pay contributions in Luxembourg — it does not matter whether you live in the country or drive in every morning from France, Belgium or Germany.",
-    "t": 101.39
+    "t": 101.65
    },
    {
     "speaker": "Tom",
     "text": "Your pension rights grow just the same.",
-    "t": 112.72
+    "t": 112.98
    },
    {
     "speaker": "Anna",
     "text": "Good — and what exactly does the CNAP do?",
-    "t": 114.91
+    "t": 115.17
    },
    {
     "speaker": "Tom",
     "text": "Its mission is to grant pension benefits in three situations.",
-    "t": 117.97
+    "t": 118.23
    },
    {
     "speaker": "Tom",
     "text": "Old age. Invalidity — when your health no longer lets you work.",
-    "t": 122.14
+    "t": 122.4
    },
    {
     "speaker": "Tom",
     "text": "And survival — support for the family when an insured person dies.",
-    "t": 126.32
+    "t": 126.58
    },
    {
     "speaker": "Anna",
     "text": "Old age, invalidity, survival.",
-    "t": 130.52
+    "t": 130.78
    },
    {
     "speaker": "Anna",
     "text": "Before we look at each one — how is all this paid for?",
-    "t": 133.06
+    "t": 133.32
    },
    {
     "speaker": "Tom",
     "text": "Through contributions. Every month, a part of your salary goes to pension insurance.",
-    "t": 136.54
+    "t": 136.8
    },
    {
     "speaker": "Tom",
     "text": "The cost is shared — the worker pays a part, the employer pays a part, and the State pays a part too.",
-    "t": 142
+    "t": 142.26
    },
    {
     "speaker": "Anna",
     "text": "So while you work, you pay in.",
-    "t": 147.82
+    "t": 148.08
    },
    {
     "speaker": "Anna",
     "text": "And later, the fund pays your pension.",
-    "t": 149.79
+    "t": 150.05
    },
    {
     "speaker": "Tom",
     "text": "Exactly. And every month you work in Luxembourg is written down in your personal insurance record.",
-    "t": 152.31
+    "t": 152.57
    },
    {
     "speaker": "Tom",
     "text": "That record is the foundation of everything — your pension is calculated from it.",
-    "t": 157.66
+    "t": 157.92
    },
    {
     "speaker": "Anna",
     "text": "We'll come back to that record — it sounds important.",
-    "t": 162.89
+    "t": 163.15
    },
    {
     "speaker": "Anna",
     "text": "But first, the classic case.",
-    "t": 165.94
+    "t": 166.2
    },
    {
     "speaker": "Anna",
     "text": "The old-age pension.",
-    "t": 168.02
+    "t": 168.18
    },
    {
     "speaker": "Anna",
     "text": "When can I retire?",
-    "t": 169.61
+    "t": 169.77
    },
    {
     "speaker": "Tom",
     "text": "The legal retirement age in Luxembourg is sixty-five.",
-    "t": 171.31
+    "t": 171.47
    },
    {
     "speaker": "Tom",
     "text": "To receive an old-age pension at sixty-five, you need at least ten years of insurance — one hundred and twenty months.",
-    "t": 174.48
+    "t": 174.64
    },
    {
     "speaker": "Anna",
     "text": "Ten years. And do those ten years have to be in Luxembourg?",
-    "t": 181.55
+    "t": 181.71
    },
    {
     "speaker": "Tom",
     "text": "No — and this is very important for our international listeners.",
-    "t": 185.13
+    "t": 185.29
    },
    {
     "speaker": "Tom",
     "text": "Insurance periods from other countries count towards the condition.",
-    "t": 189.31
+    "t": 189.47
    },
    {
     "speaker": "Tom",
     "text": "If you worked five years in Luxembourg and twenty years in Belgium, you clearly pass the ten-year test.",
-    "t": 193.27
+    "t": 193.43
    },
    {
     "speaker": "Anna",
     "text": "That's reassuring. And is the pension automatic?",
-    "t": 198.9
+    "t": 199.06
    },
    {
     "speaker": "Anna",
     "text": "Does the money simply arrive on my sixty-fifth birthday?",
-    "t": 202.15
+    "t": 202.31
    },
    {
     "speaker": "Tom",
     "text": "No! This surprises many people.",
-    "t": 205.53
+    "t": 205.69
    },
    {
     "speaker": "Tom",
     "text": "Even if you meet all the conditions, you must apply.",
-    "t": 208.23
+    "t": 208.16
    },
    {
     "speaker": "Tom",
     "text": "You send a pension application to the CNAP — the forms are on the website.",
-    "t": 211.69
+    "t": 211.62
    },
    {
     "speaker": "Anna",
     "text": "Good to know.",
-    "t": 216.32
+    "t": 216.25
    },
    {
     "speaker": "Anna",
     "text": "Now, sixty-five is the legal age.",
-    "t": 217.38
+    "t": 217.31
    },
    {
     "speaker": "Anna",
     "text": "But I've heard that some people retire earlier.",
-    "t": 220.04
+    "t": 219.97
    },
    {
     "speaker": "Tom",
     "text": "Yes. There is an early old-age pension, and it has two doors.",
-    "t": 222.92
+    "t": 222.85
    },
    {
     "speaker": "Tom",
     "text": "The first door opens at fifty-seven — for people with a very long career of forty years of compulsory insurance.",
-    "t": 227.22
+    "t": 227.15
    },
    {
     "speaker": "Tom",
     "text": "That's four hundred and eighty months of actual work.",
-    "t": 234.46
+    "t": 234.39
    },
    {
     "speaker": "Anna",
     "text": "Forty years of work by age fifty-seven.",
-    "t": 237.58
+    "t": 237.51
    },
    {
     "speaker": "Anna",
     "text": "So someone who started working very young.",
-    "t": 240.31
+    "t": 240.24
    },
    {
     "speaker": "Tom",
     "text": "Exactly. The second door opens at sixty.",
-    "t": 242.89
+    "t": 242.82
    },
    {
     "speaker": "Tom",
     "text": "There you also need forty years, but more kinds of periods count towards them — for example, certain study years or child-raising periods, together with at least ten years of real contributions.",
-    "t": 245.91
+    "t": 245.42
    },
    {
     "speaker": "Anna",
     "text": "And can I work while I receive an early pension?",
-    "t": 257.64
+    "t": 257.15
    },
    {
     "speaker": "Tom",
     "text": "Carefully! With the early pension, there are income limits.",
-    "t": 260.49
+    "t": 260
    },
    {
     "speaker": "Tom",
     "text": "A small job is fine — up to one third of the minimum social wage, nothing changes.",
-    "t": 263.79
+    "t": 263.3
    },
    {
     "speaker": "Tom",
     "text": "Above that, the pension can be reduced, or even withdrawn if you earn too much.",
-    "t": 268.88
+    "t": 268.39
    },
    {
     "speaker": "Anna",
     "text": "And at sixty-five?",
-    "t": 273.02
+    "t": 272.53
    },
    {
     "speaker": "Tom",
     "text": "At sixty-five, total freedom.",
-    "t": 274.57
+    "t": 274.08
    },
    {
     "speaker": "Tom",
     "text": "Once you receive the normal old-age pension, you can work as much as you like — it has no effect on your pension amount.",
-    "t": 276.83
+    "t": 276.34
    },
    {
     "speaker": "Tom",
     "text": "And a nice detail — the pension contributions you pay on that new work can be reimbursed every year, on request.",
-    "t": 283.59
+    "t": 283.1
    },
    {
     "speaker": "Anna",
     "text": "Really? The system truly rewards people who stay active.",
-    "t": 290.02
+    "t": 289.53
    },
    {
     "speaker": "Anna",
     "text": "Okay — now let's open that insurance record you mentioned.",
-    "t": 293.92
+    "t": 293.43
    },
    {
     "speaker": "Anna",
     "text": "What's inside?",
-    "t": 297.37
+    "t": 296.88
    },
    {
     "speaker": "Tom",
     "text": "Think of it as your pension diary.",
-    "t": 298.7
+    "t": 298.2
    },
    {
     "speaker": "Tom",
     "text": "It lists, month by month, all your insurance periods.",
-    "t": 300.58
+    "t": 300.08
    },
    {
     "speaker": "Tom",
     "text": "Luxembourg counts in calendar months — a month counts if you worked at least sixty-four hours as an employee, or ten days as a self-employed person.",
-    "t": 304.02
+    "t": 303.52
    },
    {
     "speaker": "Anna",
     "text": "And how do I know what's written in my diary?",
-    "t": 313.31
+    "t": 312.81
    },
    {
     "speaker": "Tom",
     "text": "The CNAP sends you a career statement every year, automatically, if you were insured the year before.",
-    "t": 315.81
+    "t": 315.31
    },
    {
     "speaker": "Tom",
     "text": "Check it! Make sure your months and salaries are correct.",
-    "t": 322.08
+    "t": 321.58
    },
    {
     "speaker": "Tom",
     "text": "And from the age of fifty-five, the statement even shows an estimate of your future pension.",
-    "t": 325.79
+    "t": 325.29
    },
    {
     "speaker": "Anna",
     "text": "An estimate — that really helps with planning.",
-    "t": 330.97
+    "t": 330.47
    },
    {
     "speaker": "Anna",
     "text": "Now, you said some periods count even without contributions?",
-    "t": 333.91
+    "t": 333.41
    },
    {
     "speaker": "Tom",
     "text": "Yes — these are called additional periods.",
-    "t": 337.39
+    "t": 336.89
    },
    {
     "speaker": "Tom",
     "text": "For example, periods of study or vocational training between eighteen and twenty-seven.",
-    "t": 339.85
+    "t": 339.35
    },
    {
     "speaker": "Tom",
     "text": "Or the famous baby years — time spent raising young children under six.",
-    "t": 344.34
+    "t": 343.84
    },
    {
     "speaker": "Anna",
     "text": "So a parent who stayed at home with the children is not forgotten.",
-    "t": 348.61
+    "t": 348.11
    },
    {
     "speaker": "Tom",
     "text": "Not at all.",
-    "t": 352.51
+    "t": 352.01
    },
    {
     "speaker": "Tom",
     "text": "For two children, at least eight years of child-raising time can count; for three children, ten years.",
-    "t": 353.48
+    "t": 352.98
    },
    {
     "speaker": "Tom",
     "text": "There are also periods for caring for a dependent person.",
-    "t": 359.78
+    "t": 359.28
    },
    {
     "speaker": "Tom",
     "text": "These periods help you meet the conditions — they fill gaps in the career.",
-    "t": 362.85
+    "t": 362.35
    },
    {
     "speaker": "Anna",
     "text": "That's fair. Now the question everyone is waiting for.",
-    "t": 367.31
+    "t": 366.81
    },
    {
     "speaker": "Anna",
     "text": "How much pension will I get?",
-    "t": 370.55
+    "t": 370.05
    },
    {
     "speaker": "Tom",
     "text": "The exact calculation is complex, but the idea is simple.",
-    "t": 372.54
+    "t": 372.04
    },
    {
     "speaker": "Tom",
     "text": "Your pension has two building blocks.",
-    "t": 376.07
+    "t": 375.42
    },
    {
     "speaker": "Tom",
     "text": "The first is a flat-rate part — it depends on the length of your career, up to forty years.",
-    "t": 378.16
+    "t": 377.51
    },
    {
     "speaker": "Tom",
     "text": "The second is a proportional part — it depends on the salaries you earned during your whole career.",
-    "t": 383.94
+    "t": 383.29
    },
    {
     "speaker": "Anna",
     "text": "So — how long you worked, plus how much you earned.",
-    "t": 390.96
+    "t": 390.31
    },
    {
     "speaker": "Tom",
     "text": "Exactly. The longer the career and the higher the income, the higher the pension.",
-    "t": 394.38
+    "t": 393.73
    },
    {
     "speaker": "Tom",
     "text": "And there is a bonus — if you work beyond a certain combination of age and career years, the rate of the proportional part goes up.",
-    "t": 399.02
+    "t": 398.37
    },
    {
     "speaker": "Tom",
     "text": "Another encouragement to stay active.",
-    "t": 406.94
+    "t": 406.29
    },
    {
     "speaker": "Anna",
     "text": "Is there a minimum?",
-    "t": 409.08
+    "t": 408.43
    },
    {
     "speaker": "Anna",
     "text": "For people with small salaries?",
-    "t": 410.48
+    "t": 409.8
    },
    {
     "speaker": "Tom",
     "text": "Yes. With a full career of forty years, the law guarantees a minimum pension.",
-    "t": 412.57
+    "t": 411.89
    },
    {
     "speaker": "Tom",
     "text": "In twenty twenty-six, that minimum is a little over two thousand four hundred euros gross per month.",
-    "t": 418.27
+    "t": 417.59
    },
    {
     "speaker": "Tom",
     "text": "If your calculated pension is below the minimum, you receive a supplement.",
-    "t": 424.92
+    "t": 424.24
    },
    {
     "speaker": "Anna",
     "text": "And a maximum?",
-    "t": 429.03
+    "t": 428.35
    },
    {
     "speaker": "Tom",
     "text": "Yes, there is also a legal ceiling — no personal pension can go above it.",
-    "t": 430.39
+    "t": 429.71
    },
    {
     "speaker": "Tom",
     "text": "And one more thing — pensions are not frozen.",
-    "t": 434.84
+    "t": 434.16
    },
    {
     "speaker": "Tom",
     "text": "They follow the cost of living, with the index, and they are also adjusted to follow salaries.",
-    "t": 438.92
+    "t": 438.24
    },
    {
     "speaker": "Tom",
     "text": "For example, in twenty twenty-six, pensions rose by one point five percent in January, and by another two point five percent with the index in June.",
-    "t": 444.3
+    "t": 443.62
    },
    {
     "speaker": "Anna",
     "text": "So the pension keeps its value over time.",
-    "t": 453.12
+    "t": 452.44
    },
    {
     "speaker": "Anna",
     "text": "And I've heard pensioners also get something extra in December?",
-    "t": 455.74
+    "t": 455.06
    },
    {
     "speaker": "Tom",
     "text": "Yes — the end-of-year allowance.",
-    "t": 459.15
+    "t": 458.47
    },
    {
     "speaker": "Tom",
     "text": "People entitled to a pension on the first of December receive it.",
-    "t": 461.42
+    "t": 460.74
    },
    {
     "speaker": "Tom",
     "text": "The amount depends on the career length — in twenty twenty-six, the maximum is a bit over one thousand euros for forty years of insurance.",
-    "t": 465.29
+    "t": 464.61
    },
    {
     "speaker": "Anna",
     "text": "Very nice. Now — Luxembourg is a country of international careers.",
-    "t": 473.42
+    "t": 472.74
    },
    {
     "speaker": "Anna",
     "text": "I work here, but before, I worked in Portugal, or Italy, or France.",
-    "t": 477.49
+    "t": 476.81
    },
    {
     "speaker": "Anna",
     "text": "What happens to those years?",
-    "t": 481.8
+    "t": 481.12
    },
    {
     "speaker": "Tom",
     "text": "Nothing is lost — that's the golden rule.",
-    "t": 483.59
+    "t": 482.91
    },
    {
     "speaker": "Tom",
     "text": "Inside the European Union, and also Switzerland, Iceland, Liechtenstein and Norway, all your insurance periods are added together to check the conditions.",
-    "t": 486.01
+    "t": 485.33
    },
    {
     "speaker": "Tom",
     "text": "Luxembourg also has agreements with many other countries.",
-    "t": 494.98
+    "t": 494.3
    },
    {
     "speaker": "Anna",
     "text": "Added together — so my Portuguese years help me qualify in Luxembourg.",
-    "t": 498.45
+    "t": 497.77
    },
    {
     "speaker": "Tom",
     "text": "Exactly. And then each country pays its own part — a partial pension for the years you worked there.",
-    "t": 503.23
+    "t": 502.55
    },
    {
     "speaker": "Tom",
     "text": "You can receive several pensions at the same time, from several countries.",
-    "t": 509.39
+    "t": 508.71
    },
    {
     "speaker": "Tom",
     "text": "In the end, you get one pension from each country where you built up rights.",
-    "t": 513.15
+    "t": 512.47
    },
    {
     "speaker": "Anna",
     "text": "Do I have to apply in every country separately?",
-    "t": 517.48
+    "t": 516.8
    },
    {
     "speaker": "Anna",
     "text": "That sounds like a lot of paperwork.",
-    "t": 520.36
+    "t": 519.68
    },
    {
     "speaker": "Tom",
     "text": "Good news — no.",
-    "t": 522.94
+    "t": 522.26
    },
    {
     "speaker": "Tom",
     "text": "If you live in Luxembourg, you submit one application, to the CNAP.",
-    "t": 524.29
+    "t": 523.87
    },
    {
     "speaker": "Tom",
     "text": "The CNAP then contacts the foreign pension institutions for you.",
-    "t": 529.47
+    "t": 529.05
    },
    {
     "speaker": "Tom",
     "text": "It can take some time, because the offices exchange official documents, but it is one procedure.",
-    "t": 533.27
+    "t": 532.85
    },
    {
     "speaker": "Anna",
     "text": "One application, and the offices talk to each other.",
-    "t": 539.36
+    "t": 538.94
    },
    {
     "speaker": "Anna",
     "text": "Excellent. Now let's look at the second type of pension.",
-    "t": 542.49
+    "t": 542.07
    },
    {
     "speaker": "Anna",
     "text": "Invalidity.",
-    "t": 546.69
+    "t": 545.67
    },
    {
     "speaker": "Tom",
     "text": "The invalidity pension is there when life takes a hard turn.",
-    "t": 548.08
+    "t": 547.06
    },
    {
     "speaker": "Tom",
     "text": "If, because of a long illness or infirmity, you can no longer work in your profession or in another job that matches your strengths, you may receive an invalidity pension — before the age of sixty-five.",
-    "t": 551.85
+    "t": 550.83
    },
    {
     "speaker": "Anna",
     "text": "What are the conditions?",
-    "t": 564.04
+    "t": 563.02
    },
    {
     "speaker": "Tom",
     "text": "In general, you need at least twelve months of insurance during the three years before the invalidity.",
-    "t": 565.7
+    "t": 564.68
    },
    {
     "speaker": "Tom",
     "text": "But — important — if the invalidity comes from an accident or a recognised occupational disease, no waiting period is needed at all.",
-    "t": 571.78
+    "t": 570.76
    },
    {
     "speaker": "Anna",
     "text": "And what happens when the person turns sixty-five?",
-    "t": 580.09
+    "t": 579.07
    },
    {
     "speaker": "Tom",
     "text": "The invalidity pension is automatically converted into an old-age pension.",
-    "t": 583.38
+    "t": 582.36
    },
    {
     "speaker": "Tom",
     "text": "It's just a change of name — the amount is not recalculated.",
-    "t": 588.3
+    "t": 587.28
    },
    {
     "speaker": "Tom",
     "text": "Nobody has to worry about that birthday.",
-    "t": 591.62
+    "t": 590.6
    },
    {
     "speaker": "Anna",
     "text": "Good. And the third type — the survival pension.",
-    "t": 593.91
+    "t": 592.89
    },
    {
     "speaker": "Tom",
     "text": "Yes. When an insured person or a pensioner dies, the family is protected.",
-    "t": 597.54
+    "t": 596.52
    },
    {
     "speaker": "Tom",
     "text": "The surviving husband or wife — and also the surviving registered partner — can receive a survival pension, calculated from the pension of the person who died.",
-    "t": 602.43
+    "t": 601.41
    },
    {
     "speaker": "Anna",
     "text": "And the children?",
-    "t": 611.42
+    "t": 610.4
    },
    {
     "speaker": "Tom",
     "text": "Children receive an orphan pension, after the death of either the father or the mother.",
-    "t": 612.7
+    "t": 611.68
    },
    {
     "speaker": "Tom",
     "text": "It is paid until the age of eighteen — and it can continue up to twenty-seven if the young person is still studying or in training for their future profession.",
-    "t": 617.51
+    "t": 616.49
    },
    {
     "speaker": "Anna",
     "text": "That's an important safety net for families.",
-    "t": 625.99
+    "t": 624.97
    },
    {
     "speaker": "Anna",
     "text": "Now, practical questions.",
-    "t": 628.48
+    "t": 627.46
    },
    {
     "speaker": "Anna",
     "text": "How is the pension actually paid?",
-    "t": 630.27
+    "t": 629.25
    },
    {
     "speaker": "Tom",
     "text": "Every month, in advance, directly to your bank account.",
-    "t": 632.49
+    "t": 631.47
    },
    {
     "speaker": "Tom",
     "text": "The CNAP publishes a payment calendar on its website, so you know the exact dates.",
-    "t": 636.01
+    "t": 634.99
    },
    {
     "speaker": "Tom",
     "text": "Small example — the January pensions are usually paid just before Christmas.",
-    "t": 641.16
+    "t": 640.14
    },
    {
     "speaker": "Anna",
     "text": "A nice present before the holidays!",
-    "t": 645.84
+    "t": 644.82
    },
    {
     "speaker": "Anna",
     "text": "And how do I apply, step by step?",
-    "t": 647.91
+    "t": 646.89
    },
    {
     "speaker": "Tom",
     "text": "You download the right form from c-n-a-p dot public dot l-u — or ask for it.",
-    "t": 650.64
+    "t": 649.62
    },
    {
     "speaker": "Tom",
     "text": "You fill it in, sign it, and send it by post with a bank statement showing your account.",
-    "t": 656.03
+    "t": 655.01
    },
    {
     "speaker": "Tom",
     "text": "The CNAP sends you an acknowledgement, checks your career, and may ask for documents.",
-    "t": 660.93
+    "t": 659.91
    },
    {
     "speaker": "Anna",
     "text": "And if there is a gap in my record — a year the CNAP doesn't know about?",
-    "t": 665.96
+    "t": 664.94
    },
    {
     "speaker": "Tom",
     "text": "They will ask you about it, and they can request official proof from other authorities, in Luxembourg and abroad.",
-    "t": 671.26
+    "t": 670.24
    },
    {
     "speaker": "Tom",
     "text": "That's why it's smart to check your annual career statement long before retirement — problems are easier to fix early.",
-    "t": 677.44
+    "t": 676.42
    },
    {
     "speaker": "Anna",
     "text": "Very good advice.",
-    "t": 684.08
+    "t": 683.06
    },
    {
     "speaker": "Anna",
     "text": "And while we wait for the final decision — no money?",
-    "t": 685.4
+    "t": 684.38
    },
    {
     "speaker": "Tom",
     "text": "Don't worry. If the conditions are met, the CNAP normally pays you an advance on your pension while the final calculation is being completed.",
-    "t": 689.04
+    "t": 688.02
    },
    {
     "speaker": "Tom",
     "text": "And many certificates — for example proof of your pension — can be requested online, including through MyGuichet dot l-u.",
-    "t": 697.98
+    "t": 696.96
    },
    {
     "speaker": "Anna",
     "text": "Now Tom, we should mention the news.",
-    "t": 705.69
+    "t": 704.67
    },
    {
     "speaker": "Anna",
     "text": "The pension system is changing a little, isn't it?",
-    "t": 707.99
+    "t": 706.97
    },
    {
     "speaker": "Tom",
     "text": "Yes. In December twenty twenty-five, the Chamber of Deputies adopted a reform of the pension system.",
-    "t": 710.87
+    "t": 709.85
    },
    {
     "speaker": "Tom",
     "text": "The goal is to keep the system financially healthy for the long term — and the legal retirement age stays at sixty-five.",
-    "t": 718.16
+    "t": 717.14
    },
    {
     "speaker": "Anna",
     "text": "What are the main changes?",
-    "t": 724.66
+    "t": 723.64
    },
    {
     "speaker": "Tom",
     "text": "The overall contribution rate rises from twenty-four percent to twenty-five point five percent.",
-    "t": 726.42
+    "t": 725.4
    },
    {
     "speaker": "Tom",
     "text": "Conditions for some early pensions are adapted gradually, step by step, from July twenty twenty-six.",
-    "t": 731.76
+    "t": 730.74
    },
    {
     "speaker": "Tom",
     "text": "Study years from the age of eighteen are considered more flexibly.",
-    "t": 737.75
+    "t": 736.73
    },
    {
     "speaker": "Tom",
     "text": "And a progressive pension is introduced — a way to move into retirement gradually.",
-    "t": 741.08
+    "t": 740.06
    },
    {
     "speaker": "Anna",
     "text": "And for people who are already retired?",
-    "t": 745.78
+    "t": 744.76
    },
    {
     "speaker": "Tom",
     "text": "Nothing changes. Pensions already being paid are not affected, and the old-age pension at sixty-five stays as it is.",
-    "t": 748.28
+    "t": 747.26
    },
    {
     "speaker": "Tom",
     "text": "There is even a new tax advantage for people who could retire but choose to keep working — you can request it through MyGuichet dot l-u.",
-    "t": 755.83
+    "t": 754.81
    },
    {
     "speaker": "Anna",
     "text": "So the message is — stay informed, but don't panic.",
-    "t": 764.86
+    "t": 763.84
    },
    {
     "speaker": "Anna",
     "text": "For the details, always check the official pages.",
-    "t": 768.99
+    "t": 767.97
    },
    {
     "speaker": "Tom",
     "text": "Exactly. The CNAP website has a special news section about the twenty twenty-six changes, in several languages.",
-    "t": 772.12
+    "t": 771.1
    },
    {
     "speaker": "Anna",
     "text": "And if someone has a personal question about their own file?",
-    "t": 779.28
+    "t": 778.26
    },
    {
     "speaker": "Tom",
     "text": "The CNAP has a pension hotline — the number is on the website.",
-    "t": 782.67
+    "t": 781.65
    },
    {
     "speaker": "Tom",
     "text": "There is also a reception desk in Luxembourg City, open Monday to Friday, and contact forms online.",
-    "t": 787.06
+    "t": 786.04
    },
    {
     "speaker": "Tom",
     "text": "And for cross-border careers, there are international information days, where specialists from Luxembourg, Germany, France and Belgium answer your questions together.",
-    "t": 793.34
+    "t": 792.32
    },
    {
     "speaker": "Anna",
     "text": "That's a great service.",
-    "t": 802.35
+    "t": 801.33
    },
    {
     "speaker": "Anna",
     "text": "Time for our little summary.",
-    "t": 803.81
+    "t": 802.79
    },
    {
     "speaker": "Anna",
     "text": "Tom — the essentials?",
-    "t": 805.51
+    "t": 804.49
    },
    {
     "speaker": "Tom",
     "text": "The Pensiounskeess — the CNAP — pays the pensions of the private sector and the self-employed.",
-    "t": 807.87
+    "t": 806.34
    },
    {
     "speaker": "Tom",
     "text": "Old-age pension at sixty-five, with at least ten years of insurance.",
-    "t": 813.77
+    "t": 812.24
    },
    {
     "speaker": "Tom",
     "text": "Early pension possible at fifty-seven or sixty with a long career.",
-    "t": 818.41
+    "t": 816.88
    },
    {
     "speaker": "Anna",
     "text": "The pension is never automatic — you must apply.",
-    "t": 822.24
+    "t": 820.71
    },
    {
     "speaker": "Anna",
     "text": "Your insurance record is your pension diary — check your annual statement, and from fifty-five it shows an estimate.",
-    "t": 826.06
+    "t": 824.53
    },
    {
     "speaker": "Tom",
     "text": "Years worked in other countries are not lost — they are added together, and each country pays its part.",
-    "t": 833.4
+    "t": 831.87
    },
    {
     "speaker": "Tom",
     "text": "One application at the CNAP is enough.",
-    "t": 839.89
+    "t": 838.36
    },
    {
     "speaker": "Anna",
     "text": "Invalidity and survival pensions protect you and your family when life is difficult.",
-    "t": 842.66
+    "t": 841.13
    },
    {
     "speaker": "Anna",
     "text": "And pensions follow the cost of living — plus a little extra at the end of the year.",
-    "t": 848.22
+    "t": 846.69
    },
    {
     "speaker": "Tom",
     "text": "And for everything — forms, the payment calendar, the reform news, the hotline — one address: c-n-a-p dot public dot l-u.",
-    "t": 853.35
+    "t": 851.82
    },
    {
     "speaker": "Anna",
     "text": "Wonderful. That's the end of our journey through the pension system.",
-    "t": 863.83
+    "t": 862.3
    },
    {
     "speaker": "Anna",
     "text": "And remember, it's never too early to think about your pension.",
-    "t": 867.93
+    "t": 866.4
    },
    {
     "speaker": "Tom",
     "text": "Check that career statement!",
-    "t": 871.66
+    "t": 870.13
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Pensiounskeess.",
-    "t": 873.25
+    "t": 871.65
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 876.13
+    "t": 874.53
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 885.97
+    "t": 884.37
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 904.26
+    "t": 902.66
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 911.01
+    "t": 909.41
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 913.21
+    "t": 911.61
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 917.9
+    "t": 916.3
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 919.07
+    "t": 917.47
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 921.21
+    "t": 919.61
    }
   ],
   "questions": [
@@ -98568,7 +98573,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_cnap_fr.mp3",
-  "duration_fr": 911.33,
+  "duration_fr": 909.79,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -98843,816 +98848,816 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Même si vous remplissez toutes les conditions, vous devez faire une demande.",
-    "t": 202.2
+    "t": 202.28
    },
    {
     "speaker": "Tom",
     "text": "Vous envoyez une demande de pension à la CNAP — les formulaires sont sur le site internet.",
-    "t": 205.95
+    "t": 206.03
    },
    {
     "speaker": "Anna",
     "text": "Bon à savoir.",
-    "t": 211.03
+    "t": 211.11
    },
    {
     "speaker": "Anna",
     "text": "Alors, soixante-cinq ans, c'est l'âge légal.",
-    "t": 212.13
+    "t": 212.21
    },
    {
     "speaker": "Anna",
     "text": "Mais j'ai entendu que certaines personnes partent à la retraite plus tôt.",
-    "t": 214.05
+    "t": 214.13
    },
    {
     "speaker": "Tom",
     "text": "Oui. Il existe une pension de vieillesse anticipée, et elle a deux portes.",
-    "t": 217.3
+    "t": 217.38
    },
    {
     "speaker": "Tom",
     "text": "La première porte s'ouvre à cinquante-sept ans — pour les personnes avec une très longue carrière de quarante années d'assurance obligatoire.",
-    "t": 221.42
+    "t": 221.5
    },
    {
     "speaker": "Tom",
     "text": "Cela fait quatre cent quatre-vingts mois de travail effectif.",
-    "t": 227.55
+    "t": 227.63
    },
    {
     "speaker": "Anna",
     "text": "Quarante ans de travail à cinquante-sept ans.",
-    "t": 230.91
+    "t": 230.99
    },
    {
     "speaker": "Anna",
     "text": "Donc quelqu'un qui a commencé à travailler très jeune.",
-    "t": 232.94
+    "t": 233.02
    },
    {
     "speaker": "Tom",
     "text": "Exactement. La deuxième porte s'ouvre à soixante ans.",
-    "t": 235.62
+    "t": 235.7
    },
    {
     "speaker": "Tom",
     "text": "Là aussi, il faut quarante années, mais plus de types de périodes comptent — par exemple, certaines années d'études ou des périodes d'éducation des enfants, avec au moins dix années de cotisations réelles.",
-    "t": 238.65
+    "t": 238.73
    },
    {
     "speaker": "Anna",
     "text": "Et est-ce que je peux travailler pendant que je reçois une pension anticipée ?",
-    "t": 249.27
+    "t": 249.35
    },
    {
     "speaker": "Tom",
     "text": "Avec prudence ! Avec la pension anticipée, il y a des limites de revenus.",
-    "t": 252.81
+    "t": 252.89
    },
    {
     "speaker": "Tom",
     "text": "Un petit travail, ça va — jusqu'à un tiers du salaire social minimum, rien ne change.",
-    "t": 257.12
+    "t": 257.2
    },
    {
     "speaker": "Tom",
     "text": "Au-dessus, la pension peut être réduite, ou même retirée si vous gagnez trop.",
-    "t": 261.96
+    "t": 262.04
    },
    {
     "speaker": "Anna",
     "text": "Et à soixante-cinq ans ?",
-    "t": 266.37
+    "t": 266.45
    },
    {
     "speaker": "Tom",
     "text": "À soixante-cinq ans, liberté totale.",
-    "t": 267.9
+    "t": 267.98
    },
    {
     "speaker": "Tom",
     "text": "Une fois que vous recevez la pension de vieillesse normale, vous pouvez travailler autant que vous voulez — cela n'a aucun effet sur le montant de votre pension.",
-    "t": 270.68
+    "t": 270.76
    },
    {
     "speaker": "Tom",
     "text": "Et un joli détail — les cotisations de pension que vous payez sur ce nouveau travail peuvent être remboursées chaque année, sur demande.",
-    "t": 278.66
+    "t": 278.74
    },
    {
     "speaker": "Anna",
     "text": "Vraiment ? Le système récompense vraiment les personnes qui restent actives.",
-    "t": 285.87
+    "t": 285.95
    },
    {
     "speaker": "Anna",
     "text": "D'accord — maintenant, ouvrons cette carrière d'assurance dont tu as parlé.",
-    "t": 290.29
+    "t": 290.37
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce qu'il y a dedans ?",
-    "t": 293.6
+    "t": 293.68
    },
    {
     "speaker": "Tom",
     "text": "Voyez-la comme votre journal de pension.",
-    "t": 295.1
+    "t": 295.18
    },
    {
     "speaker": "Tom",
     "text": "Elle liste, mois par mois, toutes vos périodes d'assurance.",
-    "t": 297.36
+    "t": 297.44
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg compte en mois de calendrier — un mois compte si vous avez travaillé au moins soixante-quatre heures comme salarié, ou dix jours comme indépendant.",
-    "t": 300.91
+    "t": 300.99
    },
    {
     "speaker": "Anna",
     "text": "Et comment est-ce que je sais ce qui est écrit dans mon journal ?",
-    "t": 309.27
+    "t": 309.35
    },
    {
     "speaker": "Tom",
     "text": "La CNAP vous envoie un relevé de carrière chaque année, automatiquement, si vous étiez assuré l'année précédente.",
-    "t": 312.25
+    "t": 312.33
    },
    {
     "speaker": "Tom",
     "text": "Vérifiez-le ! Assurez-vous que vos mois et vos salaires sont corrects.",
-    "t": 318.6
+    "t": 318.68
    },
    {
     "speaker": "Tom",
     "text": "Et à partir de cinquante-cinq ans, le relevé montre même une estimation de votre future pension.",
-    "t": 322.61
+    "t": 322.69
    },
    {
     "speaker": "Anna",
     "text": "Une estimation — cela aide vraiment à planifier.",
-    "t": 327.58
+    "t": 327.66
    },
    {
     "speaker": "Anna",
     "text": "Alors, tu as dit que certaines périodes comptent même sans cotisations ?",
-    "t": 330.19
+    "t": 330.27
    },
    {
     "speaker": "Tom",
     "text": "Oui — on les appelle les périodes complémentaires.",
-    "t": 333.55
+    "t": 333.63
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, les périodes d'études ou de formation professionnelle entre dix-huit et vingt-sept ans.",
-    "t": 336.4
+    "t": 336.48
    },
    {
     "speaker": "Tom",
     "text": "Ou les fameuses années bébé (baby-years) — le temps passé à élever de jeunes enfants de moins de six ans.",
-    "t": 341.84
+    "t": 341.92
    },
    {
     "speaker": "Anna",
     "text": "Donc un parent qui est resté à la maison avec les enfants n'est pas oublié.",
-    "t": 347.53
+    "t": 347.61
    },
    {
     "speaker": "Tom",
     "text": "Pas du tout.",
-    "t": 351.14
+    "t": 351.22
    },
    {
     "speaker": "Tom",
     "text": "Pour deux enfants, au moins huit années d'éducation des enfants peuvent compter ; pour trois enfants, dix années.",
-    "t": 352.07
+    "t": 352.09
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi des périodes pour les soins à une personne dépendante.",
-    "t": 358.4
+    "t": 358.42
    },
    {
     "speaker": "Tom",
     "text": "Ces périodes vous aident à remplir les conditions — elles comblent les trous dans la carrière.",
-    "t": 361.78
+    "t": 361.8
    },
    {
     "speaker": "Anna",
     "text": "C'est juste. Maintenant, la question que tout le monde attend.",
-    "t": 366.49
+    "t": 366.51
    },
    {
     "speaker": "Anna",
     "text": "Combien de pension est-ce que je vais recevoir ?",
-    "t": 369.84
+    "t": 369.86
    },
    {
     "speaker": "Tom",
     "text": "Le calcul exact est complexe, mais l'idée est simple.",
-    "t": 372.21
+    "t": 372.23
    },
    {
     "speaker": "Tom",
     "text": "Votre pension a deux blocs.",
-    "t": 375.53
+    "t": 375.55
    },
    {
     "speaker": "Tom",
     "text": "Le premier est une part forfaitaire — elle dépend de la longueur de votre carrière, jusqu'à quarante ans.",
-    "t": 377.27
+    "t": 377.29
    },
    {
     "speaker": "Tom",
     "text": "Le deuxième est une part proportionnelle — elle dépend des salaires que vous avez gagnés pendant toute votre carrière.",
-    "t": 382.14
+    "t": 382.16
    },
    {
     "speaker": "Anna",
     "text": "Donc — combien de temps vous avez travaillé, plus combien vous avez gagné.",
-    "t": 388.12
+    "t": 388.14
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Plus la carrière est longue et plus les revenus sont élevés, plus la pension est élevée.",
-    "t": 391.92
+    "t": 391.94
    },
    {
     "speaker": "Tom",
     "text": "Et il y a un bonus — si vous travaillez au-delà d'une certaine combinaison d'âge et d'années de carrière, le taux de la part proportionnelle augmente.",
-    "t": 397.29
+    "t": 397.31
    },
    {
     "speaker": "Tom",
     "text": "Encore un encouragement à rester actif.",
-    "t": 405.55
+    "t": 405.57
    },
    {
     "speaker": "Anna",
     "text": "Est-ce qu'il y a un minimum ?",
-    "t": 408.07
+    "t": 408.09
    },
    {
     "speaker": "Anna",
     "text": "Pour les personnes avec de petits salaires ?",
-    "t": 409.82
+    "t": 409.84
    },
    {
     "speaker": "Tom",
     "text": "Oui. Avec une carrière complète de quarante ans, la loi garantit une pension minimum.",
-    "t": 411.91
+    "t": 411.93
    },
    {
     "speaker": "Tom",
     "text": "En deux mille vingt-six, ce minimum est d'un peu plus de deux mille quatre cents euros brut par mois.",
-    "t": 416.24
+    "t": 416.26
    },
    {
     "speaker": "Tom",
     "text": "Si votre pension calculée est en dessous du minimum, vous recevez un complément.",
-    "t": 421.43
+    "t": 421.45
    },
    {
     "speaker": "Anna",
     "text": "Et un maximum ?",
-    "t": 426.16
+    "t": 426.18
    },
    {
     "speaker": "Tom",
     "text": "Oui, il y a aussi un plafond légal — aucune pension personnelle ne peut aller au-dessus.",
-    "t": 427.51
+    "t": 427.53
    },
    {
     "speaker": "Tom",
     "text": "Et encore une chose — les pensions ne sont pas gelées.",
-    "t": 431.94
+    "t": 431.96
    },
    {
     "speaker": "Tom",
     "text": "Elles suivent le coût de la vie, avec l'index, et elles sont aussi ajustées pour suivre les salaires.",
-    "t": 434.72
+    "t": 434.74
    },
    {
     "speaker": "Tom",
     "text": "Par exemple, en deux mille vingt-six, les pensions ont augmenté de un virgule cinq pour cent en janvier, puis encore de deux virgule cinq pour cent avec l'index en juin.",
-    "t": 440.13
+    "t": 440.15
    },
    {
     "speaker": "Anna",
     "text": "Donc la pension garde sa valeur dans le temps.",
-    "t": 448.91
+    "t": 448.93
    },
    {
     "speaker": "Anna",
     "text": "Et j'ai entendu que les pensionnés reçoivent aussi quelque chose en plus en décembre ?",
-    "t": 450.9
+    "t": 450.92
    },
    {
     "speaker": "Tom",
     "text": "Oui — l'allocation de fin d'année.",
-    "t": 454.55
+    "t": 454.57
    },
    {
     "speaker": "Tom",
     "text": "Les personnes qui ont droit à une pension au premier décembre la reçoivent.",
-    "t": 456.66
+    "t": 456.18
    },
    {
     "speaker": "Tom",
     "text": "Le montant dépend de la longueur de la carrière — en deux mille vingt-six, le maximum est d'un peu plus de mille euros pour quarante années d'assurance.",
-    "t": 460.41
+    "t": 459.93
    },
    {
     "speaker": "Anna",
     "text": "Très bien. Maintenant — le Luxembourg est un pays de carrières internationales.",
-    "t": 468.18
+    "t": 467.7
    },
    {
     "speaker": "Anna",
     "text": "Je travaille ici, mais avant, j'ai travaillé au Portugal, ou en Italie, ou en France.",
-    "t": 471.9
+    "t": 471.42
    },
    {
     "speaker": "Anna",
     "text": "Que deviennent ces années-là ?",
-    "t": 476
+    "t": 475.52
    },
    {
     "speaker": "Tom",
     "text": "Rien n'est perdu — c'est la règle d'or.",
-    "t": 477.52
+    "t": 477.04
    },
    {
     "speaker": "Tom",
     "text": "À l'intérieur de l'Union européenne, et aussi en Suisse, en Islande, au Liechtenstein et en Norvège, toutes vos périodes d'assurance sont additionnées pour vérifier les conditions.",
-    "t": 480.13
+    "t": 479.65
    },
    {
     "speaker": "Tom",
     "text": "Le Luxembourg a aussi des accords avec beaucoup d'autres pays.",
-    "t": 489.83
+    "t": 489.35
    },
    {
     "speaker": "Anna",
     "text": "Additionnées — donc mes années portugaises m'aident à remplir les conditions au Luxembourg.",
-    "t": 493.17
+    "t": 492.69
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et ensuite, chaque pays paie sa propre part — une pension partielle pour les années où vous avez travaillé là-bas.",
-    "t": 497.25
+    "t": 496.77
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez recevoir plusieurs pensions en même temps, de plusieurs pays.",
-    "t": 503.96
+    "t": 503.48
    },
    {
     "speaker": "Tom",
     "text": "Au final, vous recevez une pension de chaque pays où vous avez construit des droits.",
-    "t": 507.53
+    "t": 507.05
    },
    {
     "speaker": "Anna",
     "text": "Est-ce que je dois faire une demande dans chaque pays séparément ?",
-    "t": 511.66
+    "t": 511.18
    },
    {
     "speaker": "Anna",
     "text": "Cela ressemble à beaucoup de paperasse.",
-    "t": 514.39
+    "t": 513.91
    },
    {
     "speaker": "Tom",
     "text": "Bonne nouvelle — non.",
-    "t": 516.57
+    "t": 516.09
    },
    {
     "speaker": "Tom",
     "text": "Si vous habitez au Luxembourg, vous envoyez une seule demande, à la CNAP.",
-    "t": 518.1
+    "t": 517.62
    },
    {
     "speaker": "Tom",
     "text": "La CNAP contacte ensuite les institutions de pension étrangères pour vous.",
-    "t": 523.22
+    "t": 522.74
    },
    {
     "speaker": "Tom",
     "text": "Cela peut prendre du temps, parce que les organismes échangent des documents officiels, mais c'est une seule procédure.",
-    "t": 527.45
+    "t": 526.97
    },
    {
     "speaker": "Anna",
     "text": "Une seule demande, et les organismes se parlent entre eux.",
-    "t": 534.04
+    "t": 533.56
    },
    {
     "speaker": "Anna",
     "text": "Excellent. Maintenant, regardons le deuxième type de pension.",
-    "t": 536.88
+    "t": 536.4
    },
    {
     "speaker": "Anna",
     "text": "L'invalidité.",
-    "t": 540.01
+    "t": 539.52
    },
    {
     "speaker": "Tom",
     "text": "La pension d'invalidité est là quand la vie prend un tournant difficile.",
-    "t": 541.34
+    "t": 540.85
    },
    {
     "speaker": "Tom",
     "text": "Si, à cause d'une longue maladie ou d'une infirmité, vous ne pouvez plus travailler dans votre profession ou dans un autre emploi qui correspond à vos forces, vous pouvez recevoir une pension d'invalidité — avant l'âge de soixante-cinq ans.",
-    "t": 545.19
+    "t": 544.7
    },
    {
     "speaker": "Anna",
     "text": "Quelles sont les conditions ?",
-    "t": 557.7
+    "t": 557.21
    },
    {
     "speaker": "Tom",
     "text": "En général, il faut au moins douze mois d'assurance pendant les trois années avant l'invalidité.",
-    "t": 559.23
+    "t": 558.74
    },
    {
     "speaker": "Tom",
     "text": "Mais — important — si l'invalidité vient d'un accident ou d'une maladie professionnelle reconnue, aucune période d'attente n'est nécessaire.",
-    "t": 563.88
+    "t": 563.39
    },
    {
     "speaker": "Anna",
     "text": "Et que se passe-t-il quand la personne atteint soixante-cinq ans ?",
-    "t": 571.62
+    "t": 571.13
    },
    {
     "speaker": "Tom",
     "text": "La pension d'invalidité est automatiquement convertie en pension de vieillesse.",
-    "t": 574.51
+    "t": 574.02
    },
    {
     "speaker": "Tom",
     "text": "C'est juste un changement de nom — le montant n'est pas recalculé.",
-    "t": 578.85
+    "t": 578.36
    },
    {
     "speaker": "Tom",
     "text": "Personne ne doit s'inquiéter pour cet anniversaire.",
-    "t": 582.18
+    "t": 581.69
    },
    {
     "speaker": "Anna",
     "text": "Très bien. Et le troisième type — la pension de survie.",
-    "t": 584.88
+    "t": 584.39
    },
    {
     "speaker": "Tom",
     "text": "Oui. Quand une personne assurée ou un pensionné décède, la famille est protégée.",
-    "t": 588.1
+    "t": 587.61
    },
    {
     "speaker": "Tom",
     "text": "Le mari ou la femme survivant — et aussi le partenaire enregistré survivant — peut recevoir une pension de survie, calculée à partir de la pension de la personne décédée.",
-    "t": 592.4
+    "t": 591.91
    },
    {
     "speaker": "Anna",
     "text": "Et les enfants ?",
-    "t": 601.93
+    "t": 601.44
    },
    {
     "speaker": "Tom",
     "text": "Les enfants reçoivent une pension d'orphelin, après le décès du père ou de la mère.",
-    "t": 603.07
+    "t": 602.58
    },
    {
     "speaker": "Tom",
     "text": "Elle est payée jusqu'à l'âge de dix-huit ans — et elle peut continuer jusqu'à vingt-sept ans si le jeune fait encore des études ou une formation pour sa future profession.",
-    "t": 607.7
+    "t": 607.21
    },
    {
     "speaker": "Anna",
     "text": "C'est un filet de sécurité important pour les familles.",
-    "t": 616.11
+    "t": 615.62
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, des questions pratiques.",
-    "t": 618.68
+    "t": 618.19
    },
    {
     "speaker": "Anna",
     "text": "Comment la pension est-elle payée, concrètement ?",
-    "t": 620.5
+    "t": 620.01
    },
    {
     "speaker": "Tom",
     "text": "Chaque mois, à l'avance, directement sur votre compte bancaire.",
-    "t": 622.97
+    "t": 622.48
    },
    {
     "speaker": "Tom",
     "text": "La CNAP publie un calendrier des paiements sur son site internet, donc vous connaissez les dates exactes.",
-    "t": 626.48
+    "t": 625.99
    },
    {
     "speaker": "Tom",
     "text": "Petit exemple — les pensions de janvier sont généralement payées juste avant Noël.",
-    "t": 632.28
+    "t": 631.79
    },
    {
     "speaker": "Anna",
     "text": "Un joli cadeau avant les fêtes !",
-    "t": 637.1
+    "t": 636.61
    },
    {
     "speaker": "Anna",
     "text": "Et comment est-ce que je fais ma demande, étape par étape ?",
-    "t": 638.73
+    "t": 638.24
    },
    {
     "speaker": "Tom",
     "text": "Vous téléchargez le bon formulaire sur c-n-a-p point public point l-u — ou vous le demandez.",
-    "t": 641.89
+    "t": 641.4
    },
    {
     "speaker": "Tom",
     "text": "Vous le remplissez, vous le signez, et vous l'envoyez par la poste avec un relevé bancaire qui montre votre compte.",
-    "t": 647.43
+    "t": 646.94
    },
    {
     "speaker": "Tom",
     "text": "La CNAP vous envoie un accusé de réception, vérifie votre carrière, et peut vous demander des documents.",
-    "t": 653.21
+    "t": 652.72
    },
    {
     "speaker": "Anna",
     "text": "Et s'il y a un trou dans ma carrière — une année que la CNAP ne connaît pas ?",
-    "t": 659.69
+    "t": 659.2
    },
    {
     "speaker": "Tom",
     "text": "Ils vous poseront la question, et ils peuvent demander des preuves officielles à d'autres autorités, au Luxembourg et à l'étranger.",
-    "t": 663.68
+    "t": 663.19
    },
    {
     "speaker": "Tom",
     "text": "C'est pour cela qu'il est malin de vérifier votre relevé de carrière annuel bien avant la retraite — les problèmes sont plus faciles à corriger tôt.",
-    "t": 670.67
+    "t": 670.18
    },
    {
     "speaker": "Anna",
     "text": "Très bon conseil.",
-    "t": 678.65
+    "t": 678.16
    },
    {
     "speaker": "Anna",
     "text": "Et pendant qu'on attend la décision finale — pas d'argent ?",
-    "t": 679.77
+    "t": 679.28
    },
    {
     "speaker": "Tom",
     "text": "Pas d'inquiétude. Si les conditions sont remplies, la CNAP vous paie normalement une avance sur votre pension pendant que le calcul final se termine.",
-    "t": 682.97
+    "t": 682.48
    },
    {
     "speaker": "Tom",
     "text": "Et beaucoup de certificats — par exemple la preuve de votre pension — peuvent être demandés en ligne, y compris via MyGuichet point l-u.",
-    "t": 690.68
+    "t": 690.19
    },
    {
     "speaker": "Anna",
     "text": "Maintenant Tom, nous devons parler de l'actualité.",
-    "t": 698.21
+    "t": 697.72
    },
    {
     "speaker": "Anna",
     "text": "Le système de pension change un peu, n'est-ce pas ?",
-    "t": 700.74
+    "t": 700.25
    },
    {
     "speaker": "Tom",
     "text": "Oui. En décembre deux mille vingt-cinq, la Chambre des députés a adopté une réforme du système de pension.",
-    "t": 703.33
+    "t": 702.84
    },
    {
     "speaker": "Tom",
     "text": "Le but est de garder le système financièrement sain sur le long terme — et l'âge légal de la retraite reste à soixante-cinq ans.",
-    "t": 709.25
+    "t": 708.76
    },
    {
     "speaker": "Anna",
     "text": "Quels sont les principaux changements ?",
-    "t": 715.74
+    "t": 715.25
    },
    {
     "speaker": "Tom",
     "text": "Le taux de cotisation global passe de vingt-quatre pour cent à vingt-cinq virgule cinq pour cent.",
-    "t": 717.72
+    "t": 717.23
    },
    {
     "speaker": "Tom",
     "text": "Les conditions de certaines pensions anticipées sont adaptées progressivement, étape par étape, à partir de juillet deux mille vingt-six.",
-    "t": 723.03
+    "t": 722.54
    },
    {
     "speaker": "Tom",
     "text": "Les années d'études à partir de dix-huit ans sont prises en compte de façon plus flexible.",
-    "t": 730.42
+    "t": 729.93
    },
    {
     "speaker": "Tom",
     "text": "Et une pension progressive est introduite — une façon de passer à la retraite en douceur.",
-    "t": 734.96
+    "t": 734.47
    },
    {
     "speaker": "Anna",
     "text": "Et pour les personnes qui sont déjà à la retraite ?",
-    "t": 739.87
+    "t": 739.38
    },
    {
     "speaker": "Tom",
     "text": "Rien ne change.",
-    "t": 742.34
+    "t": 741.85
    },
    {
     "speaker": "Tom",
     "text": "Les pensions déjà en cours de paiement ne sont pas touchées, et la pension de vieillesse à soixante-cinq ans reste comme elle est.",
-    "t": 743.56
+    "t": 743.07
    },
    {
     "speaker": "Tom",
     "text": "Il y a même un nouvel avantage fiscal pour les personnes qui pourraient prendre leur retraite mais qui choisissent de continuer à travailler — vous pouvez le demander via MyGuichet point l-u.",
-    "t": 749.73
+    "t": 749.24
    },
    {
     "speaker": "Anna",
     "text": "Donc le message est — restez informés, mais pas de panique.",
-    "t": 759.66
+    "t": 759.17
    },
    {
     "speaker": "Anna",
     "text": "Pour les détails, vérifiez toujours les pages officielles.",
-    "t": 763.19
+    "t": 762.2
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Le site de la CNAP a une section d'actualités spéciale sur les changements de deux mille vingt-six, en plusieurs langues.",
-    "t": 765.82
+    "t": 764.83
    },
    {
     "speaker": "Anna",
     "text": "Et si quelqu'un a une question personnelle sur son propre dossier ?",
-    "t": 773.63
+    "t": 772.64
    },
    {
     "speaker": "Tom",
     "text": "La CNAP a une ligne téléphonique pour les pensions — le numéro est sur le site internet.",
-    "t": 776.93
+    "t": 775.94
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi un guichet d'accueil à Luxembourg-Ville, ouvert du lundi au vendredi, et des formulaires de contact en ligne.",
-    "t": 782.2
+    "t": 781.21
    },
    {
     "speaker": "Tom",
     "text": "Et pour les carrières frontalières, il y a des journées d'information internationales, où des spécialistes du Luxembourg, d'Allemagne, de France et de Belgique répondent ensemble à vos questions.",
-    "t": 788.16
+    "t": 787.17
    },
    {
     "speaker": "Anna",
     "text": "C'est un super service.",
-    "t": 798.63
+    "t": 797.64
    },
    {
     "speaker": "Anna",
     "text": "C'est le moment de notre petit résumé.",
-    "t": 800.21
+    "t": 799.22
    },
    {
     "speaker": "Anna",
     "text": "Tom — l'essentiel ?",
-    "t": 802.18
+    "t": 801.19
    },
    {
     "speaker": "Tom",
     "text": "La Pensiounskeess — la CNAP — paie les pensions du secteur privé et des indépendants.",
-    "t": 803.93
+    "t": 802.38
    },
    {
     "speaker": "Tom",
     "text": "Pension de vieillesse à soixante-cinq ans, avec au moins dix années d'assurance.",
-    "t": 809.62
+    "t": 808.07
    },
    {
     "speaker": "Tom",
     "text": "Pension anticipée possible à cinquante-sept ou soixante ans avec une longue carrière.",
-    "t": 813.87
+    "t": 812.32
    },
    {
     "speaker": "Anna",
     "text": "La pension n'est jamais automatique — vous devez faire une demande.",
-    "t": 818.41
+    "t": 816.86
    },
    {
     "speaker": "Anna",
     "text": "Votre carrière d'assurance est votre journal de pension — vérifiez votre relevé annuel, et à partir de cinquante-cinq ans, il montre une estimation.",
-    "t": 821.64
+    "t": 820.09
    },
    {
     "speaker": "Tom",
     "text": "Les années travaillées dans d'autres pays ne sont pas perdues — elles sont additionnées, et chaque pays paie sa part.",
-    "t": 828.77
+    "t": 827.22
    },
    {
     "speaker": "Tom",
     "text": "Une seule demande à la CNAP suffit.",
-    "t": 834.84
+    "t": 833.29
    },
    {
     "speaker": "Anna",
     "text": "Les pensions d'invalidité et de survie vous protègent, vous et votre famille, quand la vie est difficile.",
-    "t": 837.38
+    "t": 835.83
    },
    {
     "speaker": "Anna",
     "text": "Et les pensions suivent le coût de la vie — avec un petit extra à la fin de l'année.",
-    "t": 842.73
+    "t": 841.18
    },
    {
     "speaker": "Tom",
     "text": "Et pour tout — les formulaires, le calendrier des paiements, les actualités de la réforme, la ligne téléphonique — une seule adresse : c-n-a-p point public point l-u.",
-    "t": 847.23
+    "t": 845.68
    },
    {
     "speaker": "Anna",
     "text": "Merveilleux. C'est la fin de notre voyage à travers le système de pension.",
-    "t": 859.07
+    "t": 857.52
    },
    {
     "speaker": "Anna",
     "text": "Et rappelez-vous, il n'est jamais trop tôt pour penser à votre pension.",
-    "t": 862.57
+    "t": 861.02
    },
    {
     "speaker": "Tom",
     "text": "Vérifiez ce relevé de carrière !",
-    "t": 866.23
+    "t": 864.68
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur la Pensiounskeess.",
-    "t": 868.33
+    "t": 866.78
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 870.67
+    "t": 869.12
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 878.77
+    "t": 877.22
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 895.22
+    "t": 893.67
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 899.87
+    "t": 898.32
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 901.65
+    "t": 900.1
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 906.03
+    "t": 904.48
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous, et à la prochaine !",
-    "t": 907.28
+    "t": 905.73
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 909.57
+    "t": 908.02
    }
   ],
   "audio_de": "podcast_cnap_de.mp3",
-  "duration_de": 1046.78,
+  "duration_de": 1046.65,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -99702,247 +99707,247 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Und es gibt eine Stelle, die im Mittelpunkt von allem steht.",
-    "t": 40.9
+    "t": 40.82
    },
    {
     "speaker": "Anna",
     "text": "Tom, sag uns ihren Namen.",
-    "t": 43.91
+    "t": 43.83
    },
    {
     "speaker": "Tom",
     "text": "Auf Luxemburgisch nennen die Leute sie die Pensiounskeess — die Pensionskasse.",
-    "t": 46.37
+    "t": 46.29
    },
    {
     "speaker": "Tom",
     "text": "Ihr offizieller Name ist Caisse nationale d'assurance pension.",
-    "t": 51.36
+    "t": 51.28
    },
    {
     "speaker": "Tom",
     "text": "Auf Deutsch: die Nationale Pensionsversicherungskasse.",
-    "t": 55.16
+    "t": 55.08
    },
    {
     "speaker": "Tom",
     "text": "Die Abkürzung ist C-N-A-P.",
-    "t": 58.46
+    "t": 58.38
    },
    {
     "speaker": "Anna",
     "text": "Die CNAP. Und wo finden die Leute sie im Internet?",
-    "t": 60.85
+    "t": 60.77
    },
    {
     "speaker": "Tom",
     "text": "Die Webseite ist c-n-a-p Punkt public Punkt l-u.",
-    "t": 65.75
+    "t": 65.67
    },
    {
     "speaker": "Tom",
     "text": "Sie gibt es auf Französisch, Deutsch und Englisch, und sie erklärt das ganze Pensionssystem in klarer Sprache.",
-    "t": 70.07
+    "t": 69.99
    },
    {
     "speaker": "Anna",
     "text": "Perfekt. Fangen wir also einfach an.",
-    "t": 77.12
+    "t": 77.04
    },
    {
     "speaker": "Anna",
     "text": "Was ist die CNAP?",
-    "t": 79.68
+    "t": 79.6
    },
    {
     "speaker": "Tom",
     "text": "Die CNAP ist die öffentliche Stelle, die die Pensionen des allgemeinen Systems auszahlt.",
-    "t": 81.75
+    "t": 81.67
    },
    {
     "speaker": "Tom",
     "text": "In ihrer heutigen Form gibt es sie seit dem ersten Januar zweitausendneun, als vier ältere Pensionskassen zu einer einzigen Kasse zusammengelegt wurden.",
-    "t": 87.83
+    "t": 87.75
    },
    {
     "speaker": "Anna",
     "text": "Eine Kasse für alle?",
-    "t": 96.96
+    "t": 96.88
    },
    {
     "speaker": "Tom",
     "text": "Für fast alle.",
-    "t": 98.59
+    "t": 98.51
    },
    {
     "speaker": "Tom",
     "text": "Das allgemeine System gilt für alle Menschen, die in Luxemburg arbeiten — Arbeitnehmer im Privatsektor und Selbstständige.",
-    "t": 99.72
+    "t": 99.73
    },
    {
     "speaker": "Tom",
     "text": "Beamte und öffentliche Angestellte haben ihr eigenes, separates System.",
-    "t": 108.43
+    "t": 108.44
    },
    {
     "speaker": "Anna",
     "text": "Und Grenzgänger?",
-    "t": 113.08
+    "t": 113.09
    },
    {
     "speaker": "Tom",
     "text": "Ja, auf jeden Fall.",
-    "t": 114.43
+    "t": 114.44
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie in Luxemburg arbeiten, zahlen Sie Beiträge in Luxemburg — egal, ob Sie im Land wohnen oder jeden Morgen aus Frankreich, Belgien oder Deutschland hereinfahren.",
-    "t": 116.08
+    "t": 116.09
    },
    {
     "speaker": "Tom",
     "text": "Ihre Pensionsrechte wachsen genau gleich.",
-    "t": 125.41
+    "t": 125.42
    },
    {
     "speaker": "Anna",
     "text": "Gut. Und was genau macht die CNAP?",
-    "t": 128.16
+    "t": 128.17
    },
    {
     "speaker": "Tom",
     "text": "Ihre Aufgabe ist es, Pensionsleistungen in drei Situationen zu gewähren.",
-    "t": 131.05
+    "t": 131.06
    },
    {
     "speaker": "Tom",
     "text": "Alter. Invalidität — wenn Ihre Gesundheit Sie nicht mehr arbeiten lässt.",
-    "t": 135.45
+    "t": 135.46
    },
    {
     "speaker": "Tom",
     "text": "Und Hinterbliebene — Unterstützung für die Familie, wenn eine versicherte Person stirbt.",
-    "t": 140.22
+    "t": 140.23
    },
    {
     "speaker": "Anna",
     "text": "Alter, Invalidität, Hinterbliebene.",
-    "t": 145.37
+    "t": 145.38
    },
    {
     "speaker": "Anna",
     "text": "Bevor wir uns jedes einzeln anschauen — wie wird das alles bezahlt?",
-    "t": 148.67
+    "t": 148.68
    },
    {
     "speaker": "Tom",
     "text": "Durch Beiträge. Jeden Monat geht ein Teil Ihres Gehalts an die Pensionsversicherung.",
-    "t": 153.08
+    "t": 153.09
    },
    {
     "speaker": "Tom",
     "text": "Die Kosten werden geteilt — der Arbeitnehmer zahlt einen Teil, der Arbeitgeber zahlt einen Teil, und der Staat zahlt auch einen Teil.",
-    "t": 158.34
+    "t": 158.35
    },
    {
     "speaker": "Anna",
     "text": "Also, während Sie arbeiten, zahlen Sie ein.",
-    "t": 166.15
+    "t": 166.16
    },
    {
     "speaker": "Anna",
     "text": "Und später zahlt die Kasse Ihre Pension.",
-    "t": 168.77
+    "t": 168.78
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und jeder Monat, den Sie in Luxemburg arbeiten, wird in Ihrer persönlichen Versicherungslaufbahn aufgeschrieben.",
-    "t": 171.46
+    "t": 171.47
    },
    {
     "speaker": "Tom",
     "text": "Diese Laufbahn ist die Grundlage von allem — Ihre Pension wird daraus berechnet.",
-    "t": 178.67
+    "t": 178.68
    },
    {
     "speaker": "Anna",
     "text": "Auf diese Laufbahn kommen wir noch zurück — sie klingt wichtig.",
-    "t": 183.69
+    "t": 183.7
    },
    {
     "speaker": "Anna",
     "text": "Aber zuerst der klassische Fall.",
-    "t": 187.41
+    "t": 187.42
    },
    {
     "speaker": "Anna",
     "text": "Die Altersrente. Wann kann ich in Rente gehen?",
-    "t": 189.35
+    "t": 189.36
    },
    {
     "speaker": "Tom",
     "text": "Das gesetzliche Rentenalter in Luxemburg ist fünfundsechzig.",
-    "t": 192.55
+    "t": 192.56
    },
    {
     "speaker": "Tom",
     "text": "Um mit fünfundsechzig eine Alterspension zu bekommen, brauchen Sie mindestens zehn Jahre Versicherung — einhundertzwanzig Monate.",
-    "t": 196.25
+    "t": 196.26
    },
    {
     "speaker": "Anna",
     "text": "Zehn Jahre. Und müssen diese zehn Jahre in Luxemburg sein?",
-    "t": 203.79
+    "t": 203.8
    },
    {
     "speaker": "Tom",
     "text": "Nein — und das ist sehr wichtig für unsere internationalen Hörerinnen und Hörer.",
-    "t": 208.02
+    "t": 208.03
    },
    {
     "speaker": "Tom",
     "text": "Versicherungszeiten aus anderen Ländern zählen für diese Bedingung mit.",
-    "t": 212.62
+    "t": 212.63
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie fünf Jahre in Luxemburg und zwanzig Jahre in Belgien gearbeitet haben, bestehen Sie den Zehn-Jahres-Test ganz klar.",
-    "t": 216.6
+    "t": 216.61
    },
    {
     "speaker": "Anna",
     "text": "Das ist beruhigend.",
-    "t": 224.2
+    "t": 224.21
    },
    {
     "speaker": "Anna",
     "text": "Und kommt die Pension automatisch?",
-    "t": 225.47
+    "t": 225.48
    },
    {
     "speaker": "Anna",
     "text": "Kommt das Geld einfach an meinem fünfundsechzigsten Geburtstag an?",
-    "t": 227.6
+    "t": 227.61
    },
    {
     "speaker": "Tom",
     "text": "Nein! Das überrascht viele Menschen.",
-    "t": 231.07
+    "t": 231.08
    },
    {
     "speaker": "Tom",
     "text": "Auch wenn Sie alle Bedingungen erfüllen, müssen Sie einen Antrag stellen.",
-    "t": 234.09
+    "t": 234.1
    },
    {
     "speaker": "Tom",
     "text": "Sie schicken einen Pensionsantrag an die CNAP — die Formulare finden Sie auf der Webseite.",
-    "t": 238.16
+    "t": 238.17
    },
    {
     "speaker": "Anna",
     "text": "Gut zu wissen.",
-    "t": 243.99
+    "t": 244
    },
    {
     "speaker": "Anna",
@@ -100077,677 +100082,677 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Achten Sie darauf, dass Ihre Monate und Gehälter korrekt sind.",
-    "t": 367.25
+    "t": 367.24
    },
    {
     "speaker": "Tom",
     "text": "Und ab dem Alter von fünfundfünfzig zeigt der Auszug sogar eine Schätzung Ihrer zukünftigen Pension.",
-    "t": 370.82
+    "t": 370.81
    },
    {
     "speaker": "Anna",
     "text": "Eine Schätzung — das hilft wirklich bei der Planung.",
-    "t": 376.96
+    "t": 376.95
    },
    {
     "speaker": "Anna",
     "text": "Nun, du hast gesagt, manche Zeiten zählen sogar ohne Beiträge?",
-    "t": 380.09
+    "t": 380.08
    },
    {
     "speaker": "Tom",
     "text": "Ja — das nennt man Ergänzungszeiten.",
-    "t": 384.1
+    "t": 384.09
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel Zeiten des Studiums oder der Berufsausbildung zwischen achtzehn und siebenundzwanzig.",
-    "t": 386.58
+    "t": 386.68
    },
    {
     "speaker": "Tom",
     "text": "Oder die berühmten Babyjahre — Zeit, in der man kleine Kinder unter sechs Jahren erzogen hat.",
-    "t": 393.02
+    "t": 393.12
    },
    {
     "speaker": "Anna",
     "text": "Ein Elternteil, das mit den Kindern zu Hause geblieben ist, wird also nicht vergessen.",
-    "t": 398.6
+    "t": 398.7
    },
    {
     "speaker": "Tom",
     "text": "Ganz und gar nicht.",
-    "t": 403.18
+    "t": 403.28
    },
    {
     "speaker": "Tom",
     "text": "Bei zwei Kindern können mindestens acht Jahre Kindererziehungszeit zählen; bei drei Kindern zehn Jahre.",
-    "t": 404.46
+    "t": 404.61
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch Zeiten für die Pflege einer pflegebedürftigen Person.",
-    "t": 410.44
+    "t": 410.59
    },
    {
     "speaker": "Tom",
     "text": "Diese Zeiten helfen Ihnen, die Bedingungen zu erfüllen — sie füllen Lücken in der Laufbahn.",
-    "t": 414.43
+    "t": 414.58
    },
    {
     "speaker": "Anna",
     "text": "Das ist fair.",
-    "t": 419.62
+    "t": 419.77
    },
    {
     "speaker": "Anna",
     "text": "Jetzt die Frage, auf die alle warten.",
-    "t": 420.68
+    "t": 420.83
    },
    {
     "speaker": "Anna",
     "text": "Wie viel Pension werde ich bekommen?",
-    "t": 422.74
+    "t": 422.89
    },
    {
     "speaker": "Tom",
     "text": "Die genaue Berechnung ist komplex, aber die Idee ist einfach.",
-    "t": 425.13
+    "t": 425.28
    },
    {
     "speaker": "Tom",
     "text": "Ihre Pension hat zwei Bausteine.",
-    "t": 428.74
+    "t": 428.89
    },
    {
     "speaker": "Tom",
     "text": "Der erste ist ein Pauschalteil — er hängt von der Länge Ihrer Laufbahn ab, bis zu vierzig Jahren.",
-    "t": 430.77
+    "t": 430.92
    },
    {
     "speaker": "Tom",
     "text": "Der zweite ist ein proportionaler Teil — er hängt von den Gehältern ab, die Sie während Ihrer ganzen Laufbahn verdient haben.",
-    "t": 436.72
+    "t": 436.87
    },
    {
     "speaker": "Anna",
     "text": "Also — wie lange man gearbeitet hat, plus wie viel man verdient hat.",
-    "t": 443.71
+    "t": 443.86
    },
    {
     "speaker": "Tom",
     "text": "Genau. Je länger die Laufbahn und je höher das Einkommen, desto höher die Pension.",
-    "t": 448.44
+    "t": 448.59
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt einen Bonus — wenn Sie über eine bestimmte Kombination aus Alter und Laufbahnjahren hinaus arbeiten, steigt der Satz des proportionalen Teils.",
-    "t": 453.89
+    "t": 454.04
    },
    {
     "speaker": "Tom",
     "text": "Noch eine Ermutigung, aktiv zu bleiben.",
-    "t": 463.77
+    "t": 463.92
    },
    {
     "speaker": "Anna",
     "text": "Gibt es ein Minimum?",
-    "t": 466.35
+    "t": 466.5
    },
    {
     "speaker": "Anna",
     "text": "Für Menschen mit kleinen Gehältern?",
-    "t": 467.66
+    "t": 467.81
    },
    {
     "speaker": "Tom",
     "text": "Ja. Bei einer vollen Laufbahn von vierzig Jahren garantiert das Gesetz eine Mindestpension.",
-    "t": 469.91
+    "t": 470.06
    },
    {
     "speaker": "Tom",
     "text": "Im Jahr zweitausendsechsundzwanzig liegt dieses Minimum bei etwas über zweitausendvierhundert Euro brutto pro Monat.",
-    "t": 476.27
+    "t": 476.42
    },
    {
     "speaker": "Tom",
     "text": "Wenn Ihre berechnete Pension unter dem Minimum liegt, bekommen Sie einen Zuschlag.",
-    "t": 483.31
+    "t": 483.46
    },
    {
     "speaker": "Anna",
     "text": "Und ein Maximum?",
-    "t": 487.97
+    "t": 488.12
    },
    {
     "speaker": "Tom",
     "text": "Ja, es gibt auch eine gesetzliche Obergrenze — keine persönliche Pension kann darüber liegen.",
-    "t": 489.4
+    "t": 489.55
    },
    {
     "speaker": "Tom",
     "text": "Und noch etwas — Pensionen sind nicht eingefroren.",
-    "t": 494.87
+    "t": 495.02
    },
    {
     "speaker": "Tom",
     "text": "Sie folgen den Lebenshaltungskosten, mit dem Index, und sie werden auch angepasst, um den Gehältern zu folgen.",
-    "t": 498.12
+    "t": 498.27
    },
    {
     "speaker": "Tom",
     "text": "Zum Beispiel sind die Pensionen im Jahr zweitausendsechsundzwanzig im Januar um eins Komma fünf Prozent gestiegen, und im Juni mit dem Index noch einmal um zwei Komma fünf Prozent.",
-    "t": 504.41
+    "t": 504.56
    },
    {
     "speaker": "Anna",
     "text": "Die Pension behält also ihren Wert über die Zeit.",
-    "t": 515.53
+    "t": 515.68
    },
    {
     "speaker": "Anna",
     "text": "Und ich habe gehört, Pensionierte bekommen im Dezember auch noch etwas extra?",
-    "t": 518.79
+    "t": 518.54
    },
    {
     "speaker": "Tom",
     "text": "Ja — die Jahresendzulage.",
-    "t": 523.29
+    "t": 523.04
    },
    {
     "speaker": "Tom",
     "text": "Menschen, die am ersten Dezember Anspruch auf eine Pension haben, bekommen sie.",
-    "t": 525.37
+    "t": 525.12
    },
    {
     "speaker": "Tom",
     "text": "Der Betrag hängt von der Länge der Laufbahn ab — im Jahr zweitausendsechsundzwanzig liegt das Maximum bei etwas über eintausend Euro für vierzig Jahre Versicherung.",
-    "t": 529.72
+    "t": 529.47
    },
    {
     "speaker": "Anna",
     "text": "Sehr schön. Nun — Luxemburg ist ein Land der internationalen Laufbahnen.",
-    "t": 539.81
+    "t": 539.56
    },
    {
     "speaker": "Anna",
     "text": "Ich arbeite hier, aber vorher habe ich in Portugal gearbeitet, oder Italien, oder Frankreich.",
-    "t": 545.32
+    "t": 545.07
    },
    {
     "speaker": "Anna",
     "text": "Was passiert mit diesen Jahren?",
-    "t": 550.71
+    "t": 550.46
    },
    {
     "speaker": "Tom",
     "text": "Nichts geht verloren — das ist die goldene Regel.",
-    "t": 552.77
+    "t": 552.52
    },
    {
     "speaker": "Tom",
     "text": "Innerhalb der Europäischen Union, und auch in der Schweiz, Island, Liechtenstein und Norwegen, werden alle Ihre Versicherungszeiten zusammengezählt, um die Bedingungen zu prüfen.",
-    "t": 555.78
+    "t": 555.53
    },
    {
     "speaker": "Tom",
     "text": "Luxemburg hat außerdem Abkommen mit vielen anderen Ländern.",
-    "t": 566.46
+    "t": 566.21
    },
    {
     "speaker": "Anna",
     "text": "Zusammengezählt — meine portugiesischen Jahre helfen mir also, mich in Luxemburg zu qualifizieren.",
-    "t": 570
+    "t": 569.75
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und dann zahlt jedes Land seinen eigenen Teil — eine Teilpension für die Jahre, die Sie dort gearbeitet haben.",
-    "t": 576.28
+    "t": 576.03
    },
    {
     "speaker": "Tom",
     "text": "Sie können mehrere Pensionen gleichzeitig bekommen, aus mehreren Ländern.",
-    "t": 583.72
+    "t": 583.47
    },
    {
     "speaker": "Tom",
     "text": "Am Ende bekommen Sie eine Pension aus jedem Land, in dem Sie Rechte aufgebaut haben.",
-    "t": 588.17
+    "t": 587.92
    },
    {
     "speaker": "Anna",
     "text": "Muss ich in jedem Land einzeln einen Antrag stellen?",
-    "t": 592.83
+    "t": 592.58
    },
    {
     "speaker": "Anna",
     "text": "Das klingt nach viel Papierkram.",
-    "t": 595.79
+    "t": 595.54
    },
    {
     "speaker": "Tom",
     "text": "Gute Nachricht — nein.",
-    "t": 597.93
+    "t": 597.83
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie in Luxemburg wohnen, stellen Sie einen einzigen Antrag, bei der CNAP.",
-    "t": 599.72
+    "t": 599.59
    },
    {
     "speaker": "Tom",
     "text": "Die CNAP kontaktiert dann die ausländischen Pensionskassen für Sie.",
-    "t": 604.9
+    "t": 604.77
    },
    {
     "speaker": "Tom",
     "text": "Das kann etwas dauern, weil die Ämter offizielle Dokumente austauschen, aber es ist ein einziges Verfahren.",
-    "t": 609.44
+    "t": 609.31
    },
    {
     "speaker": "Anna",
     "text": "Ein Antrag, und die Ämter sprechen miteinander.",
-    "t": 615.54
+    "t": 615.41
    },
    {
     "speaker": "Anna",
     "text": "Ausgezeichnet. Schauen wir uns jetzt die zweite Art von Pension an.",
-    "t": 618.53
+    "t": 618.4
    },
    {
     "speaker": "Anna",
     "text": "Die Invalidität.",
-    "t": 623.07
+    "t": 622.94
    },
    {
     "speaker": "Tom",
     "text": "Die Invalidenpension ist da, wenn das Leben eine schwere Wendung nimmt.",
-    "t": 624.78
+    "t": 624.65
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie wegen einer langen Krankheit oder eines Gebrechens nicht mehr in Ihrem Beruf arbeiten können, oder in einer anderen Arbeit, die zu Ihren Kräften passt, können Sie eine Invalidenpension bekommen — vor dem Alter von fünfundsechzig.",
-    "t": 628.75
+    "t": 628.62
    },
    {
     "speaker": "Anna",
     "text": "Was sind die Bedingungen?",
-    "t": 642.81
+    "t": 642.68
    },
    {
     "speaker": "Tom",
     "text": "Im Allgemeinen brauchen Sie mindestens zwölf Monate Versicherung in den drei Jahren vor der Invalidität.",
-    "t": 644.49
+    "t": 644.36
    },
    {
     "speaker": "Tom",
     "text": "Aber — wichtig — wenn die Invalidität von einem Unfall oder einer anerkannten Berufskrankheit kommt, ist gar keine Wartezeit nötig.",
-    "t": 650.55
+    "t": 650.42
    },
    {
     "speaker": "Anna",
     "text": "Und was passiert, wenn die Person fünfundsechzig wird?",
-    "t": 658.64
+    "t": 658.51
    },
    {
     "speaker": "Tom",
     "text": "Die Invalidenpension wird automatisch in eine Alterspension umgewandelt.",
-    "t": 661.79
+    "t": 661.66
    },
    {
     "speaker": "Tom",
     "text": "Es ist nur eine Namensänderung — der Betrag wird nicht neu berechnet.",
-    "t": 666.27
+    "t": 666.14
    },
    {
     "speaker": "Tom",
     "text": "Niemand muss sich vor diesem Geburtstag fürchten.",
-    "t": 670.25
+    "t": 670.12
    },
    {
     "speaker": "Anna",
     "text": "Gut. Und die dritte Art — die Hinterbliebenenpension.",
-    "t": 672.87
+    "t": 672.74
    },
    {
     "speaker": "Tom",
     "text": "Ja. Wenn eine versicherte Person oder ein Pensionierter stirbt, ist die Familie geschützt.",
-    "t": 676.6
+    "t": 676.47
    },
    {
     "speaker": "Tom",
     "text": "Der überlebende Ehemann oder die überlebende Ehefrau — und auch der überlebende eingetragene Partner — kann eine Hinterbliebenenpension bekommen, berechnet aus der Pension der verstorbenen Person.",
-    "t": 682.54
+    "t": 682.41
    },
    {
     "speaker": "Anna",
     "text": "Und die Kinder?",
-    "t": 694.32
+    "t": 694.19
    },
    {
     "speaker": "Tom",
     "text": "Kinder bekommen eine Waisenpension, nach dem Tod des Vaters oder der Mutter.",
-    "t": 695.62
+    "t": 695.49
    },
    {
     "speaker": "Tom",
     "text": "Sie wird bis zum Alter von achtzehn gezahlt — und sie kann bis siebenundzwanzig weiterlaufen, wenn der junge Mensch noch studiert oder in der Ausbildung für seinen zukünftigen Beruf ist.",
-    "t": 699.96
+    "t": 699.83
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein wichtiges Sicherheitsnetz für Familien.",
-    "t": 710.51
+    "t": 710.38
    },
    {
     "speaker": "Anna",
     "text": "Jetzt praktische Fragen.",
-    "t": 713.29
+    "t": 713.16
    },
    {
     "speaker": "Anna",
     "text": "Wie wird die Pension eigentlich ausgezahlt?",
-    "t": 714.8
+    "t": 714.67
    },
    {
     "speaker": "Tom",
     "text": "Jeden Monat, im Voraus, direkt auf Ihr Bankkonto.",
-    "t": 717.49
+    "t": 717.36
    },
    {
     "speaker": "Tom",
     "text": "Die CNAP veröffentlicht einen Zahlungskalender auf ihrer Webseite, damit Sie die genauen Daten kennen.",
-    "t": 720.9
+    "t": 720.77
    },
    {
     "speaker": "Tom",
     "text": "Kleines Beispiel — die Januar-Pensionen werden normalerweise kurz vor Weihnachten gezahlt.",
-    "t": 727.21
+    "t": 727.08
    },
    {
     "speaker": "Anna",
     "text": "Ein schönes Geschenk vor den Feiertagen!",
-    "t": 732.81
+    "t": 732.68
    },
    {
     "speaker": "Anna",
     "text": "Und wie stelle ich den Antrag, Schritt für Schritt?",
-    "t": 735.2
+    "t": 735.07
    },
    {
     "speaker": "Tom",
     "text": "Sie laden das richtige Formular von c-n-a-p Punkt public Punkt l-u herunter — oder fragen danach.",
-    "t": 738.72
+    "t": 738.59
    },
    {
     "speaker": "Tom",
     "text": "Sie füllen es aus, unterschreiben es und schicken es per Post, mit einem Bankdokument, das Ihr Konto zeigt.",
-    "t": 746.66
+    "t": 746.53
    },
    {
     "speaker": "Tom",
     "text": "Die CNAP schickt Ihnen eine Empfangsbestätigung, prüft Ihre Laufbahn und kann Dokumente anfordern.",
-    "t": 752.91
+    "t": 752.78
    },
    {
     "speaker": "Anna",
     "text": "Und wenn es eine Lücke in meiner Laufbahn gibt — ein Jahr, das die CNAP nicht kennt?",
-    "t": 759.49
+    "t": 759.36
    },
    {
     "speaker": "Tom",
     "text": "Dann fragt sie Sie danach, und sie kann offizielle Nachweise von anderen Behörden anfordern, in Luxemburg und im Ausland.",
-    "t": 765.3
+    "t": 765.17
    },
    {
     "speaker": "Tom",
     "text": "Deshalb ist es klug, den jährlichen Laufbahnauszug lange vor der Rente zu prüfen — Probleme lassen sich früh leichter lösen.",
-    "t": 772.53
+    "t": 772.4
    },
    {
     "speaker": "Anna",
     "text": "Sehr guter Rat.",
-    "t": 779.73
+    "t": 779.6
    },
    {
     "speaker": "Anna",
     "text": "Und während wir auf die endgültige Entscheidung warten — kein Geld?",
-    "t": 781.04
+    "t": 780.91
    },
    {
     "speaker": "Tom",
     "text": "Keine Sorge. Wenn die Bedingungen erfüllt sind, zahlt die CNAP Ihnen normalerweise einen Vorschuss auf Ihre Pension, während die endgültige Berechnung abgeschlossen wird.",
-    "t": 785.07
+    "t": 784.94
    },
    {
     "speaker": "Tom",
     "text": "Und viele Bescheinigungen — zum Beispiel ein Nachweis Ihrer Pension — können online angefordert werden, auch über MyGuichet Punkt l-u.",
-    "t": 796.36
+    "t": 796.23
    },
    {
     "speaker": "Anna",
     "text": "Nun, Tom, wir sollten die Neuigkeiten erwähnen.",
-    "t": 804.78
+    "t": 804.65
    },
    {
     "speaker": "Anna",
     "text": "Das Pensionssystem ändert sich ein wenig, oder?",
-    "t": 807.82
+    "t": 807.69
    },
    {
     "speaker": "Tom",
     "text": "Ja. Im Dezember zweitausendfünfundzwanzig hat die Abgeordnetenkammer eine Reform des Pensionssystems verabschiedet.",
-    "t": 810.78
+    "t": 810.65
    },
    {
     "speaker": "Tom",
     "text": "Das Ziel ist, das System langfristig finanziell gesund zu halten — und das gesetzliche Rentenalter bleibt bei fünfundsechzig.",
-    "t": 818.04
+    "t": 817.91
    },
    {
     "speaker": "Anna",
     "text": "Was sind die wichtigsten Änderungen?",
-    "t": 825.84
+    "t": 825.71
    },
    {
     "speaker": "Tom",
     "text": "Der Gesamtbeitragssatz steigt von vierundzwanzig Prozent auf fünfundzwanzig Komma fünf Prozent.",
-    "t": 828.13
+    "t": 828
    },
    {
     "speaker": "Tom",
     "text": "Die Bedingungen für manche vorgezogenen Pensionen werden schrittweise angepasst, Schritt für Schritt, ab Juli zweitausendsechsundzwanzig.",
-    "t": 834.06
+    "t": 833.93
    },
    {
     "speaker": "Tom",
     "text": "Studienjahre ab dem Alter von achtzehn werden flexibler berücksichtigt.",
-    "t": 842.31
+    "t": 842.18
    },
    {
     "speaker": "Tom",
     "text": "Und eine progressive Pension wird eingeführt — ein Weg, um schrittweise in den Ruhestand zu gehen.",
-    "t": 846.6
+    "t": 846.47
    },
    {
     "speaker": "Anna",
     "text": "Und für Menschen, die schon in Rente sind?",
-    "t": 852.34
+    "t": 852.21
    },
    {
     "speaker": "Tom",
     "text": "Nichts ändert sich.",
-    "t": 854.7
+    "t": 854.57
    },
    {
     "speaker": "Tom",
     "text": "Pensionen, die bereits gezahlt werden, sind nicht betroffen, und die Alterspension mit fünfundsechzig bleibt, wie sie ist.",
-    "t": 856.01
+    "t": 855.89
    },
    {
     "speaker": "Tom",
     "text": "Es gibt sogar einen neuen Steuervorteil für Menschen, die in Rente gehen könnten, aber weiterarbeiten möchten — Sie können ihn über MyGuichet Punkt l-u beantragen.",
-    "t": 862.85
+    "t": 862.73
    },
    {
     "speaker": "Anna",
     "text": "Die Botschaft ist also — bleiben Sie informiert, aber keine Panik.",
-    "t": 872.84
+    "t": 872.72
    },
    {
     "speaker": "Anna",
     "text": "Für die Details schauen Sie immer auf die offiziellen Seiten.",
-    "t": 876.87
+    "t": 876.75
    },
    {
     "speaker": "Tom",
     "text": "Genau. Die Webseite der CNAP hat einen speziellen Nachrichtenbereich über die Änderungen von zweitausendsechsundzwanzig, in mehreren Sprachen.",
-    "t": 880.16
+    "t": 880.04
    },
    {
     "speaker": "Anna",
     "text": "Und wenn jemand eine persönliche Frage zu seiner eigenen Akte hat?",
-    "t": 890.65
+    "t": 890.53
    },
    {
     "speaker": "Tom",
     "text": "Die CNAP hat eine Pensions-Hotline — die Nummer steht auf der Webseite.",
-    "t": 894.37
+    "t": 894.25
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch einen Empfangsschalter in Luxemburg-Stadt, geöffnet von Montag bis Freitag, und Kontaktformulare online.",
-    "t": 899.19
+    "t": 899.07
    },
    {
     "speaker": "Tom",
     "text": "Und für grenzüberschreitende Laufbahnen gibt es internationale Informationstage, bei denen Spezialisten aus Luxemburg, Deutschland, Frankreich und Belgien Ihre Fragen gemeinsam beantworten.",
-    "t": 906.18
+    "t": 906.06
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein toller Service.",
-    "t": 918.25
+    "t": 918.13
    },
    {
     "speaker": "Anna",
     "text": "Zeit für unsere kleine Zusammenfassung.",
-    "t": 919.95
+    "t": 919.83
    },
    {
     "speaker": "Anna",
     "text": "Tom — das Wichtigste?",
-    "t": 922.38
+    "t": 922.26
    },
    {
     "speaker": "Tom",
     "text": "Die Pensiounskeess — die CNAP — zahlt die Pensionen des Privatsektors und der Selbstständigen.",
-    "t": 924.47
+    "t": 924.35
    },
    {
     "speaker": "Tom",
     "text": "Alterspension mit fünfundsechzig, mit mindestens zehn Jahren Versicherung.",
-    "t": 931.8
+    "t": 931.68
    },
    {
     "speaker": "Tom",
     "text": "Vorgezogene Pension möglich mit siebenundfünfzig oder sechzig, bei einer langen Laufbahn.",
-    "t": 936.3
+    "t": 936.18
    },
    {
     "speaker": "Anna",
     "text": "Die Pension kommt nie automatisch — Sie müssen einen Antrag stellen.",
-    "t": 941.68
+    "t": 941.56
    },
    {
     "speaker": "Anna",
     "text": "Ihre Versicherungslaufbahn ist Ihr Pensionstagebuch — prüfen Sie Ihren jährlichen Auszug, und ab fünfundfünfzig zeigt er eine Schätzung.",
-    "t": 945.68
+    "t": 945.56
    },
    {
     "speaker": "Tom",
     "text": "Jahre, die in anderen Ländern gearbeitet wurden, gehen nicht verloren — sie werden zusammengezählt, und jedes Land zahlt seinen Teil.",
-    "t": 953.72
+    "t": 953.6
    },
    {
     "speaker": "Tom",
     "text": "Ein Antrag bei der CNAP genügt.",
-    "t": 961.43
+    "t": 961.31
    },
    {
     "speaker": "Anna",
     "text": "Invalidenpension und Hinterbliebenenpension schützen Sie und Ihre Familie, wenn das Leben schwierig ist.",
-    "t": 964.38
+    "t": 964.26
    },
    {
     "speaker": "Anna",
     "text": "Und die Pensionen folgen den Lebenshaltungskosten — plus ein kleines Extra am Jahresende.",
-    "t": 970.29
+    "t": 970.17
    },
    {
     "speaker": "Tom",
     "text": "Und für alles — Formulare, den Zahlungskalender, die Nachrichten zur Reform, die Hotline — eine Adresse: c-n-a-p Punkt public Punkt l-u.",
-    "t": 975.83
+    "t": 975.71
    },
    {
     "speaker": "Anna",
     "text": "Wunderbar. Das ist das Ende unserer Reise durch das Pensionssystem.",
-    "t": 987.09
+    "t": 986.97
    },
    {
     "speaker": "Anna",
     "text": "Und denken Sie daran: Es ist nie zu früh, an Ihre Pension zu denken.",
-    "t": 991.5
+    "t": 991.38
    },
    {
     "speaker": "Tom",
     "text": "Prüfen Sie diesen Laufbahnauszug!",
-    "t": 995.91
+    "t": 995.79
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die Pensiounskeess.",
-    "t": 998.14
+    "t": 998.02
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 1001.09
+    "t": 1000.97
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 1010.17
+    "t": 1010.05
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 1028.5
+    "t": 1028.38
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 1034.2
+    "t": 1034.08
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 1036.45
+    "t": 1036.33
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 1041.34
+    "t": 1041.22
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
-    "t": 1042.44
+    "t": 1042.32
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 1045.23
+    "t": 1045.11
    }
   ],
   "segments_lb": [
@@ -100779,462 +100784,462 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Op Lëtzebuergesch soen d'Leit d'Pensiounskeess. Den offiziellen Numm ass Caisse nationale d'assurance pension — dat ass Franséisch fir national Pensiounsversécherungskeess. De kuerzen Numm ass C-N-A-P.",
-    "t": 43.33
+    "t": 43.47
    },
    {
     "speaker": "Anna",
     "text": "D'CNAP. A wou fannen d'Leit se online?",
-    "t": 57.09
+    "t": 57.23
    },
    {
     "speaker": "Tom",
     "text": "De Site ass c-n-a-p Punkt public Punkt l-u. En ass op Franséisch, Däitsch an Englesch disponibel, an en erkläert dee ganze Pensiounssystem an enger kloerer Sprooch.",
-    "t": 60.58
+    "t": 60.72
    },
    {
     "speaker": "Anna",
     "text": "Perfekt. Da fänke mir einfach un. Wat ass d'CNAP?",
-    "t": 69.67
+    "t": 69.81
    },
    {
     "speaker": "Tom",
     "text": "D'CNAP ass déi ëffentlech Keess, déi d'Pensioune vum allgemenge Regime bezilt. Si existéiert an hirer aktueller Form zënter dem éischte Januar zweedausendnéng, wéi véier al Pensiounskeesen zu enger eenzeger Keess fusionéiert goufen.",
-    "t": 73.84
+    "t": 73.98
    },
    {
     "speaker": "Anna",
     "text": "Eng Keess fir jiddereen?",
-    "t": 86.55
+    "t": 86.69
    },
    {
     "speaker": "Tom",
     "text": "Fir bal jiddereen. Den allgemenge Regime gëllt fir all d'Leit, déi zu Lëtzebuerg schaffen — Salariéen aus dem Privatsecteur an Independanten. D'Fonctionnairen an d'ëffentlech Beamten hunn hiren eegene separate Regime.",
-    "t": 88.12
+    "t": 88.26
    },
    {
     "speaker": "Anna",
     "text": "An d'Frontalieren?",
-    "t": 99.62
+    "t": 99.88
    },
    {
     "speaker": "Tom",
     "text": "Jo, absolut. Wann Dir zu Lëtzebuerg schafft, bezuelt Dir Kotisatiounen zu Lëtzebuerg — et ass egal, ob Dir am Land wunnt oder all Moien aus Frankräich, der Belsch oder Däitschland op Lëtzebuerg fuert. Är Pensiounsrechter wuesse grad d'selwecht.",
-    "t": 101.39
+    "t": 101.65
    },
    {
     "speaker": "Anna",
     "text": "Gutt. A wat genee mécht d'CNAP?",
-    "t": 114.91
+    "t": 115.17
    },
    {
     "speaker": "Tom",
     "text": "Hir Missioun ass et, Pensiounsleeschtungen an dräi Situatiounen z'accordéieren. Alter. Invaliditéit — wann Är Gesondheet Iech net méi schaffe léisst. An Iwwerliewen — Ënnerstëtzung fir d'Famill, wann eng verséchert Persoun stierft.",
-    "t": 117.97
+    "t": 118.23
    },
    {
     "speaker": "Anna",
     "text": "Alter, Invaliditéit, Iwwerliewen. Ier mer eis déi dräi eenzel ukucken — wéi gëtt dat alles bezuelt?",
-    "t": 130.52
+    "t": 130.78
    },
    {
     "speaker": "Tom",
     "text": "Duerch Kotisatiounen. All Mount geet en Deel vun Ärem Loun an d'Pensiounsversécherung. D'Käschte gi gedeelt — den Aarbechter bezilt en Deel, de Patron bezilt en Deel, an de Staat bezilt och en Deel.",
-    "t": 136.54
+    "t": 136.8
    },
    {
     "speaker": "Anna",
     "text": "Also wärend Dir schafft, bezuelt Dir an. A spéider bezilt d'Keess Är Pensioun.",
-    "t": 147.82
+    "t": 148.08
    },
    {
     "speaker": "Tom",
     "text": "Genee. An all Mount, deen Dir zu Lëtzebuerg schafft, gëtt an Ärer perséinlecher Versécherungscarrière opgeschriwwen. Dës Carrière ass d'Fundament vun allem — Är Pensioun gëtt dovun ausgerechent.",
-    "t": 152.31
+    "t": 152.57
    },
    {
     "speaker": "Anna",
     "text": "Mir kommen op déi Carrière zréck — dat kléngt wichteg. Awer fir d'éischt de klassesche Fall. D'Alterspensioun. Wéini kann ech a Pensioun goen?",
-    "t": 162.89
+    "t": 163.15
    },
    {
     "speaker": "Tom",
     "text": "De legale Pensiounsalter zu Lëtzebuerg ass fënnefasechzeg. Fir eng Alterspensioun mat fënnefasechzeg ze kréien, braucht Dir op d'mannst zéng Joer Versécherung — honnertzwanzeg Méint.",
-    "t": 171.31
+    "t": 171.47
    },
    {
     "speaker": "Anna",
     "text": "Zéng Joer. A mussen déi zéng Joer zu Lëtzebuerg sinn?",
-    "t": 181.55
+    "t": 181.71
    },
    {
     "speaker": "Tom",
     "text": "Nee — an dat ass ganz wichteg fir eis international Nolauschterer. Versécherungsperioden aus anere Länner ziele fir d'Konditioun mat. Wann Dir fënnef Joer zu Lëtzebuerg an zwanzeg Joer an der Belsch geschafft hutt, packt Dir den Zéng-Joer-Test kloer.",
-    "t": 185.13
+    "t": 185.29
    },
    {
     "speaker": "Anna",
     "text": "Dat berouegt. An ass d'Pensioun automatesch? Kënnt d'Geld einfach u mengem fënnefasechzegste Gebuertsdag un?",
-    "t": 198.9
+    "t": 199.06
    },
    {
     "speaker": "Tom",
     "text": "Nee! Dat iwwerrascht vill Leit. Och wann Dir all d'Konditiounen erfëllt, musst Dir eng Demande maachen. Dir schéckt eng Pensiounsdemande un d'CNAP — d'Formulaire sinn um Site.",
-    "t": 205.53
+    "t": 205.69
    },
    {
     "speaker": "Anna",
     "text": "Gutt ze wëssen. Elo, fënnefasechzeg ass de legalen Alter. Awer ech hu gehéiert, datt verschidde Leit méi fréi a Pensioun ginn.",
-    "t": 216.32
+    "t": 216.25
    },
    {
     "speaker": "Tom",
     "text": "Jo. Et gëtt eng virgezunn Alterspensioun, an déi huet zwou Dieren. Déi éischt Dier geet mat siwenafofzeg op — fir Leit mat enger ganz laanger Carrière vu véierzeg Joer obligatorescher Versécherung. Dat si véierhonnertachtzeg Méint effektiv Aarbecht.",
-    "t": 222.92
+    "t": 222.85
    },
    {
     "speaker": "Anna",
     "text": "Véierzeg Joer Aarbecht mat siwenafofzeg. Also een, dee ganz jonk ugefaangen huet ze schaffen.",
-    "t": 237.58
+    "t": 237.51
    },
    {
     "speaker": "Tom",
     "text": "Genee. Déi zweet Dier geet mat sechzeg op. Do braucht Dir och véierzeg Joer, awer do ziele méi Zorte vu Periode mat — zum Beispill verschidde Studiejoren oder Kannererzéiungsperioden, zesumme mat op d'mannst zéng Joer reelle Kotisatiounen.",
-    "t": 242.89
+    "t": 242.82
    },
    {
     "speaker": "Anna",
     "text": "A kann ech schaffen, wärend ech eng virgezunn Pensioun kréien?",
-    "t": 257.64
+    "t": 257.15
    },
    {
     "speaker": "Tom",
     "text": "Virsiichteg! Bei der virgezunner Pensioun ginn et Akommesgrenzen. Eng kleng Aarbecht ass an der Rei — bis zu engem Drëttel vum soziale Mindestloun ännert sech näischt. Doriwwer kann d'Pensioun reduzéiert ginn, oder souguer zréckgezunn, wann Dir ze vill verdéngt.",
-    "t": 260.49
+    "t": 260
    },
    {
     "speaker": "Anna",
     "text": "A mat fënnefasechzeg?",
-    "t": 273.02
+    "t": 272.53
    },
    {
     "speaker": "Tom",
     "text": "Mat fënnefasechzeg, total Fräiheet. Soubal Dir déi normal Alterspensioun kritt, kënnt Dir sou vill schaffen, wéi Dir wëllt — dat huet keen Effekt op de Betrag vun Ärer Pensioun. An e flotten Detail — d'Pensiounskotisatiounen, déi Dir op déi nei Aarbecht bezuelt, kënnen all Joer op Demande zréckbezuelt ginn.",
-    "t": 274.57
+    "t": 274.08
    },
    {
     "speaker": "Anna",
     "text": "Wierklech? De System belount wierklech d'Leit, déi aktiv bleiwen. Okay — elo maache mir déi Versécherungscarrière op, déi s de ernimmt hues. Wat ass do dran?",
-    "t": 290.02
+    "t": 289.53
    },
    {
     "speaker": "Tom",
     "text": "Stellt Iech se vir wéi Äert Pensiounsdagebuch. Et lëscht, Mount fir Mount, all Är Versécherungsperioden op. Lëtzebuerg zielt a Kalennerméint — e Mount zielt, wann Dir op d'mannst véierasechzeg Stonnen als Salarié geschafft hutt, oder zéng Deeg als Independant.",
-    "t": 298.7
+    "t": 298.2
    },
    {
     "speaker": "Anna",
     "text": "A wéi weess ech, wat a mengem Dagebuch steet?",
-    "t": 313.31
+    "t": 312.81
    },
    {
     "speaker": "Tom",
     "text": "D'CNAP schéckt Iech all Joer automatesch e Carrièresrelevé, wann Dir d'Joer virdru verséchert waart. Kontrolléiert en! Kuckt no, ob Är Méint an Är Léin richteg sinn. A vum Alter vu fënnefafofzeg Joer u weist de Relevé souguer eng Schätzung vun Ärer zukünfteger Pensioun.",
-    "t": 315.81
+    "t": 315.31
    },
    {
     "speaker": "Anna",
     "text": "Eng Schätzung — dat hëlleft wierklech beim Plangen. Elo, du hues gesot, verschidde Periode ziele souguer ouni Kotisatiounen?",
-    "t": 330.97
+    "t": 330.47
    },
    {
     "speaker": "Tom",
     "text": "Jo — dat sinn déi sougenannt Zousazperioden. Zum Beispill Periode vu Studien oder Beruffsausbildung tëscht uechtzéng a siwenanzwanzeg. Oder déi bekannt Babyjoren — Zäit, an där Dir kleng Kanner ënner sechs Joer grousszitt.",
-    "t": 337.39
+    "t": 336.89
    },
    {
     "speaker": "Anna",
     "text": "Also gëtt en Elterendeel, deen doheem bei de Kanner bliwwen ass, net vergiess.",
-    "t": 348.61
+    "t": 348.11
    },
    {
     "speaker": "Tom",
     "text": "Guer net. Fir zwee Kanner kënnen op d'mannst aacht Joer Kannererzéiungszäit zielen; fir dräi Kanner zéng Joer. Et ginn och Periode fir d'Fleeg vun enger ofhängeger Persoun. Dës Periode hëllefen Iech, d'Konditiounen z'erfëllen — si fëllen d'Lächer an der Carrière.",
-    "t": 352.51
+    "t": 352.01
    },
    {
     "speaker": "Anna",
     "text": "Dat ass fair. Elo d'Fro, op déi jidderee waart. Wéi vill Pensioun kréien ech?",
-    "t": 367.31
+    "t": 366.81
    },
    {
     "speaker": "Tom",
     "text": "Déi genee Berechnung ass komplex, awer d'Iddi ass einfach. Är Pensioun huet zwee Bausteng. Deen éischten ass e Forfait-Deel — hien hänkt vun der Längt vun Ärer Carrière of, bis zu véierzeg Joer. Deen zweeten ass e proportionalen Deel — hien hänkt vun de Léin of, déi Dir während Ärer ganzer Carrière verdéngt hutt.",
-    "t": 372.54
+    "t": 372.04
    },
    {
     "speaker": "Anna",
     "text": "Also — wéi laang Dir geschafft hutt, plus wéi vill Dir verdéngt hutt.",
-    "t": 390.96
+    "t": 390.31
    },
    {
     "speaker": "Tom",
     "text": "Genee. Wat d'Carrière méi laang ass an d'Akommes méi héich, wat d'Pensioun méi héich ass. An et gëtt e Bonus — wann Dir iwwer eng gewësse Kombinatioun vun Alter a Carrièresjoren eraus schafft, geet den Taux vum proportionalen Deel erop. Nach eng Motivatioun, fir aktiv ze bleiwen.",
-    "t": 394.38
+    "t": 393.73
    },
    {
     "speaker": "Anna",
     "text": "Gëtt et e Minimum? Fir Leit mat klenge Léin?",
-    "t": 409.08
+    "t": 408.43
    },
    {
     "speaker": "Tom",
     "text": "Jo. Mat enger voller Carrière vu véierzeg Joer garantéiert d'Gesetz eng Minimumspensioun. Am Joer zweedausendsechsanzwanzeg läit dee Minimum bei liicht iwwer zweedausendvéierhonnert Euro brutto de Mount. Wann Är ausgerechent Pensioun ënner dem Minimum läit, kritt Dir e Supplement.",
-    "t": 412.57
+    "t": 411.89
    },
    {
     "speaker": "Anna",
     "text": "An e Maximum?",
-    "t": 429.03
+    "t": 428.35
    },
    {
     "speaker": "Tom",
     "text": "Jo, et gëtt och e legale Plaffong — keng perséinlech Pensioun kann doriwwer goen. An nach eppes — d'Pensioune sinn net agefruer. Si gi mam Index un d'Liewenskäschten ugepasst, a si ginn och un d'Entwécklung vun de Léin ugepasst. Zum Beispill sinn d'Pensiounen am Joer zweedausendsechsanzwanzeg am Januar ëm ee Komma fënnef Prozent geklommen, an am Juni mam Index nach eemol ëm zwee Komma fënnef Prozent.",
-    "t": 430.39
+    "t": 429.71
    },
    {
     "speaker": "Anna",
     "text": "Also behält d'Pensioun hire Wäert iwwer d'Zäit. An ech hu gehéiert, d'Pensionäre kréien am Dezember och nach eppes extra?",
-    "t": 453.12
+    "t": 452.44
    },
    {
     "speaker": "Tom",
     "text": "Jo — d'Enn-vum-Joer-Zoulag. Leit, déi den éischten Dezember Recht op eng Pensioun hunn, kréie se. De Betrag hänkt vun der Längt vun der Carrière of — zweedausendsechsanzwanzeg ass de Maximum e bësse méi wéi dausend Euro fir véierzeg Joer Versécherung.",
-    "t": 459.15
+    "t": 458.47
    },
    {
     "speaker": "Anna",
     "text": "Ganz flott. Elo — Lëtzebuerg ass e Land vun internationale Carrièren. Ech schaffen hei, awer virdrun hunn ech a Portugal geschafft, oder an Italien, oder a Frankräich. Wat geschitt mat deene Joren?",
-    "t": 473.42
+    "t": 472.74
    },
    {
     "speaker": "Tom",
     "text": "Näischt geet verluer — dat ass déi gëlle Regel. Bannent der Europäescher Unioun, an och mat der Schwäiz, Island, Liechtenstein an Norwegen, ginn all Är Versécherungsperioden zesummegezielt, fir d'Konditiounen ze kontrolléieren. Lëtzebuerg huet och Accorde mat villen anere Länner.",
-    "t": 483.59
+    "t": 482.91
    },
    {
     "speaker": "Anna",
     "text": "Zesummegezielt — also hëllefe meng portugisesch Jore mir, d'Konditiounen zu Lëtzebuerg z'erfëllen.",
-    "t": 498.45
+    "t": 497.77
    },
    {
     "speaker": "Tom",
     "text": "Genee. An duerno bezilt all Land säin eegenen Deel — eng Deelpensioun fir d'Joren, déi Dir do geschafft hutt. Dir kënnt e puer Pensioune gläichzäiteg kréien, aus e puer Länner. Um Enn kritt Dir eng Pensioun vun all Land, wou Dir Rechter opgebaut hutt.",
-    "t": 503.23
+    "t": 502.55
    },
    {
     "speaker": "Anna",
     "text": "Muss ech an all Land eng separat Demande maachen? Dat kléngt no vill Pabeierskram.",
-    "t": 517.48
+    "t": 516.8
    },
    {
     "speaker": "Tom",
     "text": "Gutt Nouvelle — nee. Wann Dir zu Lëtzebuerg wunnt, gitt Dir eng eenzeg Demande of, bei der CNAP. D'CNAP kontaktéiert dann déi auslännesch Pensiounsinstitutioune fir Iech. Et kann eng Zäit daueren, well d'Büroen offiziell Dokumenter austauschen, awer et ass eng eenzeg Prozedur.",
-    "t": 522.94
+    "t": 522.26
    },
    {
     "speaker": "Anna",
     "text": "Eng Demande, an d'Büroe schwätze mateneen. Excellent. Elo kucke mir eis déi zweet Zort Pensioun un. D'Invaliditéit.",
-    "t": 539.36
+    "t": 538.94
    },
    {
     "speaker": "Tom",
     "text": "D'Invaliditéitspensioun ass do, wann d'Liewen eng schwéier Wendung hëlt. Wann Dir, wéinst enger laanger Krankheet oder Infirmitéit, net méi an Ärem Beruff schaffe kënnt, an och net an enger anerer Aarbecht, déi Äre Kräften entsprécht, kënnt Dir eng Invaliditéitspensioun kréien — virum Alter vu fënnefasechzeg.",
-    "t": 548.08
+    "t": 547.06
    },
    {
     "speaker": "Anna",
     "text": "Wat sinn d'Konditiounen?",
-    "t": 564.04
+    "t": 563.02
    },
    {
     "speaker": "Tom",
     "text": "Am Allgemenge braucht Dir op d'mannst zwielef Méint Versécherung während den dräi Joer virun der Invaliditéit. Awer — wichteg — wann d'Invaliditéit vun engem Accident oder enger unerkannter Beruffskrankheet kënnt, ass guer keng Waardezäit néideg.",
-    "t": 565.7
+    "t": 564.68
    },
    {
     "speaker": "Anna",
     "text": "A wat geschitt, wann d'Persoun fënnefasechzeg gëtt?",
-    "t": 580.09
+    "t": 579.07
    },
    {
     "speaker": "Tom",
     "text": "D'Invaliditéitspensioun gëtt automatesch an eng Alterspensioun ëmgewandelt. Et ass just den Numm, deen ännert — de Betrag gëtt net nei ausgerechent. Kee brauch sech wéinst deem Gebuertsdag Suergen ze maachen.",
-    "t": 583.38
+    "t": 582.36
    },
    {
     "speaker": "Anna",
     "text": "Gutt. An déi drëtt Zort — d'Iwwerliewenspensioun.",
-    "t": 593.91
+    "t": 592.89
    },
    {
     "speaker": "Tom",
     "text": "Jo. Wann eng verséchert Persoun oder e Pensionär stierft, ass d'Famill geschützt. Den iwwerliewende Mann oder d'iwwerliewend Fra — an och den iwwerliewende Partner aus engem agedroene Partenariat — kann eng Iwwerliewenspensioun kréien, ausgerechent vun der Pensioun vun der Persoun, déi gestuerwen ass.",
-    "t": 597.54
+    "t": 596.52
    },
    {
     "speaker": "Anna",
     "text": "An d'Kanner?",
-    "t": 611.42
+    "t": 610.4
    },
    {
     "speaker": "Tom",
     "text": "D'Kanner kréien eng Weesepensioun, nom Doud vum Papp oder vun der Mamm. Si gëtt bis zum Alter vun uechtzéng Joer bezuelt — a si ka bis siwenanzwanzeg weidergoen, wann de jonke Mënsch nach studéiert oder an der Ausbildung fir säi zukünftege Beruff ass.",
-    "t": 612.7
+    "t": 611.68
    },
    {
     "speaker": "Anna",
     "text": "Dat ass e wichtegt Sécherheetsnetz fir d'Famillen. Elo, praktesch Froen. Wéi gëtt d'Pensioun tatsächlech bezuelt?",
-    "t": 625.99
+    "t": 624.97
    },
    {
     "speaker": "Tom",
     "text": "All Mount, am Viraus, direkt op Äre Bankkont. D'CNAP publizéiert e Bezuelkalenner op hirem Site, sou datt Dir déi genee Datume kennt. E klengt Beispill — d'Januar-Pensioune gi meeschtens kuerz viru Chrëschtdag bezuelt.",
-    "t": 632.49
+    "t": 631.47
    },
    {
     "speaker": "Anna",
     "text": "E schéine Cadeau virun de Feierdeeg! A wéi maachen ech meng Demande, Schrëtt fir Schrëtt?",
-    "t": 645.84
+    "t": 644.82
    },
    {
     "speaker": "Tom",
     "text": "Dir luet dat richtegt Formulaire vu c-n-a-p Punkt public Punkt l-u erof — oder Dir frot et un. Dir fëllt et aus, ënnerschreift et a schéckt et mat der Post, mat engem Bankdokument, dat Äre Kont weist. D'CNAP schéckt Iech eng Bestätegung, datt d'Demande ukomm ass, kontrolléiert Är Carrière a freet eventuell no Dokumenter.",
-    "t": 650.64
+    "t": 649.62
    },
    {
     "speaker": "Anna",
     "text": "A wann et e Lach a menger Carrière gëtt — e Joer, dat d'CNAP net kennt?",
-    "t": 665.96
+    "t": 664.94
    },
    {
     "speaker": "Tom",
     "text": "Da stelle si Iech Froen dozou, a si kënnen offiziell Beweiser vun aneren Autoritéiten ufroen, zu Lëtzebuerg an am Ausland. Dofir ass et clever, Äre jäerleche Carrièresrelevé laang virun der Pensioun ze kontrolléieren — Problemer si méi liicht ze léisen, wa se fréi entdeckt ginn.",
-    "t": 671.26
+    "t": 670.24
    },
    {
     "speaker": "Anna",
     "text": "E ganz gudde Rot. A wärend mer op déi definitiv Decisioun waarden — keng Suen?",
-    "t": 684.08
+    "t": 683.06
    },
    {
     "speaker": "Tom",
     "text": "Keng Suergen. Wann d'Konditiounen erfëllt sinn, bezilt d'CNAP Iech normalerweis eng Avance op Är Pensioun, wärend déi definitiv Berechnung fäerdeg gemaach gëtt. A vill Attestatiounen — zum Beispill e Beweis vun Ärer Pensioun — kënnen online ugefrot ginn, och iwwer MyGuichet Punkt l-u.",
-    "t": 689.04
+    "t": 688.02
    },
    {
     "speaker": "Anna",
     "text": "Elo Tom, mir sollten d'Neiegkeeten ernimmen. De Pensiounssystem ännert sech e bëssen, oder?",
-    "t": 705.69
+    "t": 704.67
    },
    {
     "speaker": "Tom",
     "text": "Jo. Am Dezember zweedausendfënnefanzwanzeg huet d'Chamber eng Reform vum Pensiounssystem ugeholl. D'Zil ass, de System laangfristeg finanziell gesond ze halen — an de legale Pensiounsalter bleift bei fënnefasechzeg.",
-    "t": 710.87
+    "t": 709.85
    },
    {
     "speaker": "Anna",
     "text": "Wat sinn déi Haaptännerungen?",
-    "t": 724.66
+    "t": 723.64
    },
    {
     "speaker": "Tom",
     "text": "De globale Kotisatiounstaux klëmmt vu véieranzwanzeg Prozent op fënnefanzwanzeg Komma fënnef Prozent. D'Konditioune fir verschidde virgezunn Pensioune gi graduell ugepasst, Schrëtt fir Schrëtt, vum Juli zweedausendsechsanzwanzeg un. Studiejore vum Alter vun uechtzéng Joer u gi méi flexibel ugerechent. An eng progressiv Pensioun gëtt agefouert — e Wee, fir graduell an d'Pensioun ze goen.",
-    "t": 726.42
+    "t": 725.4
    },
    {
     "speaker": "Anna",
     "text": "A fir d'Leit, déi scho pensionéiert sinn?",
-    "t": 745.78
+    "t": 744.76
    },
    {
     "speaker": "Tom",
     "text": "Näischt ännert sech. Pensiounen, déi scho bezuelt ginn, sinn net betraff, an d'Alterspensioun mat fënnefasechzeg bleift, wéi se ass. Et gëtt souguer en neie Steiervirdeel fir Leit, déi a Pensioun goe kéinten, awer wielen, weiderzeschaffen — Dir kënnt en iwwer MyGuichet Punkt l-u ufroen.",
-    "t": 748.28
+    "t": 747.26
    },
    {
     "speaker": "Anna",
     "text": "Also ass d'Message — bleift informéiert, awer keng Panik. Fir d'Detailer kuckt ëmmer op déi offiziell Säiten.",
-    "t": 764.86
+    "t": 763.84
    },
    {
     "speaker": "Tom",
     "text": "Genee. De Site vun der CNAP huet eng speziell Rubrik mat Neiegkeeten iwwer d'Ännerunge vun zweedausendsechsanzwanzeg, an e puer Sproochen.",
-    "t": 772.12
+    "t": 771.1
    },
    {
     "speaker": "Anna",
     "text": "A wann een eng perséinlech Fro iwwer säin eegenen Dossier huet?",
-    "t": 779.28
+    "t": 778.26
    },
    {
     "speaker": "Tom",
     "text": "D'CNAP huet eng Pensiounshotline — d'Nummer steet um Site. Et gëtt och e Guichet an der Stad Lëtzebuerg, op vu méindes bis freides, a Kontaktformulairen online. A fir d'Carrière vu Frontalieren ginn et international Informatiounsdeeg, wou Spezialisten aus Lëtzebuerg, Däitschland, Frankräich an der Belsch Är Froen zesumme beäntweren.",
-    "t": 782.67
+    "t": 781.65
    },
    {
     "speaker": "Anna",
     "text": "Dat ass e super Service. Zäit fir eise klenge Resumé. Tom — dat Wichtegst?",
-    "t": 802.35
+    "t": 801.33
    },
    {
     "speaker": "Tom",
     "text": "D'Pensiounskeess — d'CNAP — bezilt d'Pensioune vum Privatsecteur a vun den Independanten. Alterspensioun mat fënnefasechzeg, mat op d'mannst zéng Joer Versécherung. Virgezunn Pensioun méiglech mat siwenafofzeg oder sechzeg, mat enger laanger Carrière.",
-    "t": 807.87
+    "t": 806.34
    },
    {
     "speaker": "Anna",
     "text": "D'Pensioun ass ni automatesch — Dir musst eng Demande maachen. Är Versécherungscarrière ass Äert Pensiounsdagebuch — kontrolléiert Äre jäerleche Relevé, a vu fënnefafofzeg Joer u weist en eng Schätzung.",
-    "t": 822.24
+    "t": 820.71
    },
    {
     "speaker": "Tom",
     "text": "Joren, déi Dir an anere Länner geschafft hutt, ginn net verluer — si ginn zesummegezielt, an all Land bezilt säin Deel. Eng eenzeg Demande bei der CNAP geet duer.",
-    "t": 833.4
+    "t": 831.87
    },
    {
     "speaker": "Anna",
     "text": "D'Invaliditéitspensioun an d'Iwwerliewenspensioun schützen Iech an Är Famill, wann d'Liewe schwéier ass. An d'Pensioune gi mat de Liewenskäschte mat — plus e klengen Extra um Enn vum Joer.",
-    "t": 842.66
+    "t": 841.13
    },
    {
     "speaker": "Tom",
     "text": "A fir alles — d'Formulairen, de Bezuelkalenner, d'Neiegkeeten iwwer d'Reform, d'Hotline — eng eenzeg Adress: c-n-a-p Punkt public Punkt l-u.",
-    "t": 853.35
+    "t": 851.82
    },
    {
     "speaker": "Anna",
     "text": "Wonnerbar. Dat ass d'Enn vun eiser Rees duerch de Pensiounssystem. An denkt drun, et ass ni ze fréi, fir un Är Pensioun ze denken.",
-    "t": 863.83
+    "t": 862.3
    },
    {
     "speaker": "Tom",
     "text": "Kontrolléiert dee Carrièresrelevé!",
-    "t": 871.66
+    "t": 870.13
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer d'Pensiounskeess. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 873.25
+    "t": 871.65
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 917.9
+    "t": 916.3
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 921.21
+    "t": 919.61
    }
   ]
  },
