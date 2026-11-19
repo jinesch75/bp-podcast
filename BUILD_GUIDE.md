@@ -422,3 +422,7 @@ EN: "Null Offall Lëtzebuerg" and "Mäin Offall" left out of the spoken lines ("
 ## SYVICOL pitch pass (19 Nov 2026)
 
 All 15 "..." pauses removed per language (`remove_ellipses.py syvicol`; EN: 7 colons/dashes by hand), then voice QC EN/FR/DE + retakes (EN 6, FR 4, DE 4). Standard intro/outro sentences deliberately NOT retaken: they are identical (same text + context = same cache hash) in every episode, so a reseed would change all episodes. ≈ 6,000 credits. EN 5:46, FR 5:43, DE 6:24.
+
+## Agriculture pitch pass (19 Nov 2026)
+
+All 15 "..." pauses removed per language (`remove_ellipses.py agriculture`; EN: 10 colons by hand), voice QC EN/FR/DE + retakes (EN 6, FR 5, DE 2); standard intro/outro not retaken. ≈ 6,500 credits. EN 6:32, FR 6:35, DE 7:21.

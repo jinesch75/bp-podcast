@@ -9,14 +9,14 @@
 **ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 **TOM:** Moien alleguer!
 **ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
-**TOM:** An d'Thema vun haut verbënnt eis all, dräimol den Dag... d'Iessen.
+**TOM:** An d'Thema vun haut verbënnt eis all, dräimol den Dag, d'Iessen.
 **ANNA:** D'Brout op Ärem Dësch, d'Geméis op Ärem Teller, d'Glas Wäin op engem Freideg owes.
 **TOM:** Hannert all deem stinn d'Landwirtschaft, an d'Leit, déi sech ëm d'Land an d'Déieren këmmeren.
-**ANNA:** An et gëtt en offiziellen Ort, deen all dëst zesummebréngt... d'Agrarportal.
+**ANNA:** An et gëtt en offiziellen Ort, deen all dëst zesummebréngt, d'Agrarportal.
 **TOM:** D'Websäit ass agriculture Punkt public Punkt lu.
 **ANNA:** Et gëtt vum Ministère fir Landwirtschaft, Ernährung a Wäibau bedriwwen.
 **TOM:** „Wäibau" ass e schéint Wuert. Et bedeit einfach den Ubau vun Drauwen, fir Wäin.
-**ANNA:** Dëst Portal deckt also dräi grouss Beräicher of... d'Landwirtschaft, d'Ernährung an de Wäin.
+**ANNA:** Dëst Portal deckt also dräi grouss Beräicher of, d'Landwirtschaft, d'Ernährung an de Wäin.
 **TOM:** Also Anna, wien mécht eigentlech d'Aarbecht hannert dësem Ministère?
 **ANNA:** De Ministère iwwerwaacht méi spezialiséiert Verwaltungen, all mat hirer eegener Roll.
 **TOM:** Eng vun de wichtegsten ass duerch hir Initialen bekannt, ASTA.
@@ -24,15 +24,15 @@
 **TOM:** Si beréit d'Baueren, beobaucht d'Wieder, a warnt virun Planzekrankheeten a Schädlingen.
 **ANNA:** Si ënnerstëtzt och eng méi nohalteg Landwirtschaft, mat manner chemeschem Spritzen an engem besseren Asaz vun natierlechem Dünger.
 **TOM:** Et gëtt och en eegene Wäininstitut, mat Sëtz zu Remich, op der Musel.
-**ANNA:** Lëtzebuerg huet eng richteg Wäintraditioun laanscht d'Musel... Wäisswäiner, an de Schaumwäin mam Numm Crémant.
+**ANNA:** Lëtzebuerg huet eng richteg Wäintraditioun laanscht d'Musel. Wäisswäiner, an de Schaumwäin mam Numm Crémant.
 **TOM:** De Wäininstitut ënnerstëtzt d'Wënzer, an hëlleft, d'Qualitéit héich ze halen.
 **ANNA:** An et gëtt eng Verwaltung, déi iwwer d'Gesondheet an d'Wuelbefannen vun den Déieren waacht, an iwwer d'Sécherheet vun eisem Iessen. Si heescht ALVA, a si gouf 2022 gegrënnt.
-**TOM:** Also vum Feld, iwwer d'Déier, bis op den Teller... bei all Schrëtt waachen Leit doriwwer.
-**ANNA:** Schwätze mer iwwer en Thema, dat séier wiisst... d'Bio-Landwirtschaft.
+**TOM:** Also vum Feld, iwwer d'Déier, bis op den Teller, bei all Schrëtt waachen Leit doriwwer.
+**ANNA:** Schwätze mer iwwer en Thema, dat séier wiisst, d'Bio-Landwirtschaft.
 **TOM:** D'Bio-Landwirtschaft schafft mat der Natur, an engem zouenen Zyklus, ouni syntheetesch Chemikalien.
 **ANNA:** Lëtzebuerg huet e Plang, genannt PAN-Bio, fir den Undeel vun der Bio-Landwirtschaft am Land ze erhéijen. Dee neiste leeft vun 2026 bis 2030.
 **TOM:** Wann Dir also Bio-Produkter am Buttek gesitt, stécht eng national Ustrengung hannert dëser Wiel.
-**ANNA:** Lo schwätze mer iwwer eppes, dat villen um Häerz läit... den Déiereschutz.
+**ANNA:** Lo schwätze mer iwwer eppes, dat villen um Häerz läit, den Déiereschutz.
 **TOM:** Lëtzebuerg huet en Déiereschutzgesetz, dat zimlech fortschrëttlech ass.
 **ANNA:** Et schützt d'Dignitéit, d'Sécherheet an d'Wuelbefannen vun den Déieren, hiert ganzt Liewen laang.
 **TOM:** An dat betrëfft net nëmmen Notzdéieren. Et ass och fir Hausdéierebesëtzer wichteg.
@@ -40,7 +40,7 @@
 **TOM:** Komme mer kuerz zréck op de Wäin, well en zur Kultur vu Lëtzebuerg gehéiert.
 **ANNA:** D'Museldall, am Osten, ass voller Wéngerten op sonnegen Häng.
 **TOM:** An am Summer ginn et Wéngertwanderungen an Aktivitéiten, wou Dir léiere kënnt, wéi Wäin gemaach gëtt.
-**ANNA:** D'Portal lëscht souguer Eventer op... wéi Natur- a Wéngertweeër, op fir jiddereen.
+**ANNA:** D'Portal lëscht souguer Eventer op, wéi Natur- a Wéngertweeër, op fir jiddereen.
 **TOM:** Dat ass also net nëmmen fir d'Baueren. Et ass eng Aluedung, ze entdecken, vu wou eist Iessen an eis Gedrénks kommen.
 **ANNA:** Schwätze mer iwwer lokal a saisonal Liewensmëttel, déi gutt fir jiddereen sinn.
 **TOM:** Lokal, saisonal Produkter ze kafe ënnerstëtzt d'Baueren bei Iech an der Géigend, a schmaacht dacks besser a reest manner.
@@ -50,9 +50,9 @@
 **TOM:** Si kréien Ënnerstëtzung, dorënner Hëllefen am Kader vun der Gemeinsamer Agrarpolitik vun der Europäescher Unioun.
 **ANNA:** Mir hunn an enger anerer Episod iwwer europäesch Fongen geschwat. D'Landwirtschaft ass ee vun de grousse Beräicher, déi Europa ënnerstëtzt.
 **TOM:** An de Ministère bitt Berodung a Formatiounen un, fir de Betriber ze hëllefen, modern, nohalteg a widderstandsfäeg ze sinn.
-**ANNA:** Trete mer e Schrëtt zréck a froen eis... firwat ass dat alles wichteg fir een, deen ni e Fouss op e Bauerenhaff setzt?
+**ANNA:** Trete mer e Schrëtt zréck a froen eis, firwat ass dat alles wichteg fir een, deen ni e Fouss op e Bauerenhaff setzt?
 **TOM:** Éischtens, well jiddereen ësst. Gutt Landwirtschaft bedeit sécher, gesond, héichwäerteg Liewensmëttel op Ärem Teller.
-**ANNA:** Zweetens, well d'Baueren d'Landschaft präegen... d'Felder, Hecken a Wisen, un deenen mir eis all freeën.
+**ANNA:** Zweetens, well d'Baueren d'Landschaft präegen, d'Felder, Hecken a Wisen, un deenen mir eis all freeën.
 **TOM:** Drëttens, well den Déiereschutz d'Aart vu Gesellschaft widderspigelt, déi mir wëlle sinn.
 **ANNA:** A véiertens, well d'Ënnerstëtzung vu lokale Liewensmëttel d'Land lieweg hält, an d'Gemeinschaft staark.
 **TOM:** Also Anna, maache mer et praktesch. Wat kann een mat all deem ufänken?
@@ -61,13 +61,13 @@
 **ANNA:** Drëttens, besicht am Summer d'Musel, maacht eng Wéngertwanderung, a probéiert e lokale Wäin oder Crémant.
 **TOM:** A véiertens, wann Dir nei­géiereg sidd op d'Landwirtschaft, d'Liewensmëttel oder de Wäin, bitt d'Portal zouverlässeg Informatiounen.
 **ANNA:** Bréngen mer alles zesummen. Wat sollen d'Leit sech merken?
-**TOM:** Éischtens... d'Agrarportal, agriculture Punkt public Punkt lu, deckt d'Landwirtschaft, d'Ernährung an de Wäin of, vum Ministère fir Landwirtschaft, Ernährung a Wäibau.
-**ANNA:** Zweetens... spezialiséiert Stellen ënnerstëtzen et... d'ASTA fir déi technesch Déngschter, de Wäininstitut zu Remich, an d'ALVA fir den Déiereschutz an d'Liewensmëttelsécherheet.
-**TOM:** Drëttens... Lëtzebuerg baut d'Bio-Landwirtschaft aus a schützt den Déiereschutz per Gesetz.
-**ANNA:** A véiertens... andeems mir lokal a saisonal Liewensmëttel wielen, droe mir all zu engem gesonden Ernährungssystem bäi.
+**TOM:** Éischtens, d'Agrarportal, agriculture Punkt public Punkt lu, deckt d'Landwirtschaft, d'Ernährung an de Wäin of, vum Ministère fir Landwirtschaft, Ernährung a Wäibau.
+**ANNA:** Zweetens, spezialiséiert Stellen ënnerstëtzen et, d'ASTA fir déi technesch Déngschter, de Wäininstitut zu Remich, an d'ALVA fir den Déiereschutz an d'Liewensmëttelsécherheet.
+**TOM:** Drëttens. Lëtzebuerg baut d'Bio-Landwirtschaft aus a schützt den Déiereschutz per Gesetz.
+**ANNA:** A véiertens, andeems mir lokal a saisonal Liewensmëttel wielen, droe mir all zu engem gesonden Ernährungssystem bäi.
 **TOM:** Liewensmëttel verbannen all eenzelne vun eis mam Land, an enee mam aneren.
 **ANNA:** An d'Geschicht hannert eisem Teller ze kennen hëlleft eis, e ze schätzen, an d'Leit, déi e méiglech maachen. Dat war eis Episod iwwer de Landwirtschaftsportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
-**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**TOM:** Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!
 **ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---
