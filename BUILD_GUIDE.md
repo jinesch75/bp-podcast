@@ -445,3 +445,7 @@ Scripts ready: all "..." pauses removed (`remove_ellipses.py culture`; EN: 8 col
 
 - Tom's "And not every memory slip is dementia." sounded incomplete ("and not" rushed into ~0.25 s) → "Of course, not every memory slip is dementia." (p(not) 1.00). "..." pauses removed (12 per language; EN 7 colons by hand), voice QC + retakes (EN 3, FR 2 incl. the same line, DE 2). ≈ 5,000 credits.
 - **`rebuild.py` CLEAN fix**: the "stray fragment" rule dropped any short sound (<250 ms) at a sentence edge followed by a ≥120 ms pause — which also removed real short words before a comma pause (found: FR demenz "Oui. Vivre sainement…" lost "Oui."). Now a fragment is only dropped if it is also ≥ 8 dB quieter than the speech (or < 80 ms). `CLEAN_OLD=1` restores the old rule. Other episodes are assembled with the old rule until they are rebuilt (0 credits: `el_run_batch.py <keys> en,fr,de` + `replace_audio_elevenlabs.js`).
+
+## GOVCERT (19 Nov 2026)
+
+EN "analyses them" was read as the noun ("an-AL-uh-seez") → rule `analyses them/it/what/the` → "analyzes …" (spoken only; script keeps British spelling). "..." pauses removed (14/language; EN 9 colons/dashes by hand), voice QC + retakes (EN 3, FR 1, DE 4). Rebuilt with the new CLEAN rule. ≈ 5,600 credits.
