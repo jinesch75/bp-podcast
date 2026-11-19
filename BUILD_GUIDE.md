@@ -453,3 +453,10 @@ EN "analyses them" was read as the noun ("an-AL-uh-seez") → rule `analyses the
 ## Geoportail (19 Nov 2026)
 
 Tom's "…and have a lot of fun with... maps." had a strange pause → "…fun with: maps." (0.3 s beat; FR " : les cartes", DE/LB ": Karten/Kaarten"). All "..." pauses removed (EN 3 dashes/colons by hand), voice QC + retakes (EN 12, FR 3, DE 3). ≈ 6,300 credits.
+
+## Research Luxembourg (19 Nov 2026)
+
+- "..." pauses removed (17/language; EN 14 colons/dashes by hand). "Belval." no longer a lone sentence (EN ": Belval." by hand; FR/DE/LB too).
+- "Luxembourg" sounded odd: `lux_en_vs_fr.py` scores all occurrences English-like (incl. Tom's "a side of Luxembourg", -2.04 — re-recorded anyway with the pause change); retook Anna's 4 least English ones (`INCLUDE=6 THRESH=-1.0 … --fix`; new `INCLUDE` option). If Jacques still hears it, the issue is stress, not French accent → consider an EN respelling A/B test.
+- Tom's closing "…to build with knowledge." faded (last word -8…-12 dB in all takes) → "And more and more, Luxembourg is choosing knowledge to build its future." (-2 dB). New `build/last_word_take.py` (keeps the take with the loudest last word).
+- Voice QC + retakes (EN 6, FR 0 extra, DE 2). ≈ 8,000 credits. EN 6:15, FR 6:13, DE 6:58.

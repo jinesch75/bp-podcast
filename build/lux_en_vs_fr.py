@@ -48,7 +48,8 @@ for spk, txt in el.read_turns(key, lang):
         base = hashlib.sha1(json.dumps([vids[spk], body], sort_keys=True).encode()).hexdigest()[:20] + ".mp3"
         cur = reseed.get(base, base); sc = score(os.path.join(el.CACHE, cur), spk)
         line = f"#{i} {spk}: {'FRENCH-LIKE' if sc is not None and sc > 0 else 'english    '} {sc if sc is None else round(sc, 2)}  {s[:70]!r}"
-        if FIX and sc is not None and sc > float(os.environ.get("THRESH", "0")):
+        force = str(i) in os.environ.get("INCLUDE", "").split(",")   # INCLUDE=6,12: retake these sentences whatever their score
+        if FIX and sc is not None and (sc > float(os.environ.get("THRESH", "0")) or force):
             best = (sc, cur)
             for sd in (1271, 1272, 1273):
                 c = tts(spk, dict(body, seed=sd)); p = os.path.join(el.CACHE, c)
