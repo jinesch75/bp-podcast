@@ -9,7 +9,7 @@
 **ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 **TOM:** Moien alleguer!
 **ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
-**TOM:** A haut léiere mir eng Organisatioun kennen, déi roueg am Hannergrond schafft... mä hir Aarbecht hutt Dir bestëmmt schonn an Ärer eegener Gemeng gesinn.
+**TOM:** A haut léiere mir eng Organisatioun kennen, déi roueg am Hannergrond schafft, mä hir Aarbecht hutt Dir bestëmmt schonn an Ärer eegener Gemeng gesinn.
 **ANNA:** Vläicht eng faarweg Affiche an der Gemeng. Oder eng Säit iwwer d'Waasserspueren am Gemengebuet.
 **TOM:** Et ka gutt sinn, datt déi vun der EBL koum.
 **ANNA:** EBL steet fir Ëmweltberodung Lëtzebuerg.
@@ -23,17 +23,17 @@
 **ANNA:** Wéi gëtt si finanzéiert?
 **TOM:** Iwwer d'Cotisatioune vun hire Memberen, an iwwer eng Konventioun mam Ministère fir Ëmwelt, Klima a Biodiversitéit.
 **ANNA:** Firwat brauchen d'Gemengen esou eng Hëllef?
-**TOM:** Well vill Ëmweltaarbecht lokal geschitt. Offall, Waasser, gréng Flächen, Energie an ëffentleche Gebaier, Fester am Duerf...
+**TOM:** Well vill Ëmweltaarbecht lokal geschitt. Offall, Waasser, gréng Flächen, Energie an ëffentleche Gebaier, Fester am Duerf.
 **ANNA:** An eng kleng Gemeng ka net fir all Theema en Expert hunn.
 **TOM:** Genee. D'EBL ass e Reseau. D'Gemengen deelen Iddien an Erfarungen, a si mussen d'Rad net all Kéier nei erfannen.
 **ANNA:** Et ass och e Treffpunkt fir d'Ëmweltberoder, déi an de Gemenge schaffen.
-**TOM:** A wann eng Gemeng hiren eegene Service écologique wëll opbauen, kann d'EBL hëllefen... vun der Definitioun vun den Aufgaben bis zum Astelle vun engem Ëmweltberoder.
+**TOM:** A wann eng Gemeng hiren eegene Service écologique wëll opbauen, kann d'EBL hëllefen, vun der Definitioun vun den Aufgaben bis zum Astelle vun engem Ëmweltberoder.
 **ANNA:** Schwätze mir iwwer de Klimapakt an den Naturpakt.
 **TOM:** Dat sinn Ofkommes tëscht dem Staat an de Gemengen. D'Gemenge verflichte sech zu konkrete Mesuren fir d'Klima a fir d'Natur.
 **ANNA:** An d'EBL begleet d'Gemengen bei dëse Pakten, mat Formatiounen, praktesche Échangen an Iddien.
 **TOM:** Kucke mer elo, wat d'EBL konkret mécht. Dat ass eng ganz Rëtsch!
 **ANNA:** Éischtens, Formatiounen. D'EBL organiséiert Seminairen, Workshoppen a Konferenzen, dacks zesumme mat Partner.
-**TOM:** Zum Beispill Konferenzen iwwer méi kreeslafgerecht Bauen... wéi een Haiser baut an erëm ofbaut, an dobäi manner Ressourcë verschwent.
+**TOM:** Zum Beispill Konferenzen iwwer méi kreeslafgerecht Bauen, wéi een Haiser baut an erëm ofbaut, an dobäi manner Ressourcë verschwent.
 **ANNA:** Zweetens, Publikatiounen. D'EBL ass bekannt fir hir Infografiken.
 **TOM:** Dat sinn einfach, faarweg Säiten, déi een eenzegt Theema erklären. De Wäert vun engem ale Bam. Reewaasser am Gaart notzen. Energie spuere mat richtegem Hëtzen.
 **ANNA:** Vill gëtt et a méi Sproochen, an d'Gemenge kënnen se an hirem Buet drécken oder online deelen.
@@ -45,7 +45,7 @@
 **ANNA:** Zanter 2016 däerfen d'Gemengen zu Lëtzebuerg op ëffentleche Plazen keng Pestiziden méi asetzen. A vill privat Gäertner wëllen et genee esou maachen.
 **TOM:** D'Websäit ounipestiziden Punkt l-u huet Tipps a gutt Beispiller fir Ären eegene Gaart.
 **ANNA:** En anere Projet heescht Green Events. Lëtzebuerg huet esou vill Duerffester, Festivallen a Sportsevenementer.
-**TOM:** Green Events hëlleft den Organisateuren, hiert Fest méi nohalteg ze gestalten. Manner Offall, lokal Produiten, Gobelete fir ze widderbenotzen, eng besser Mobilitéit...
+**TOM:** Green Events hëlleft den Organisateuren, hiert Fest méi nohalteg ze gestalten. Manner Offall, lokal Produiten, Gobelete fir ze widderbenotzen, eng besser Mobilitéit.
 **ANNA:** De Projet gouf vum Ëmweltministère lancéiert, an en gëtt vun der EBL zesumme mat der SuperDrecksKëscht koordinéiert.
 **TOM:** An déi nohaltegst Evenementer kënnen de Green-Events-Label kréien. Wann Dir also e Fest fir Äre Veräin mat organiséiert, kuckt op greenevents Punkt l-u.
 **ANNA:** Ech fannen och d'Iddi vu Gutt Geschier ganz flott.
@@ -69,13 +69,13 @@
 **ANNA:** D'Websäit ass e-b-l Punkt l-u. Si ass meeschtens op Lëtzebuergesch, mat engem Deel vum Material op Franséisch, Däitsch an Englesch.
 **TOM:** An Dir kënnt un info at e-b-l Punkt l-u schreiwen.
 **ANNA:** Loosse mer et zesummefaassen. Wat sollt ee sech iwwer d'EBL mierken?
-**TOM:** Éischtens... et ass eng neutral Associatioun sans but lucratif, déi virun allem d'Gemengen an Ëmweltfroe beréit.
-**ANNA:** Zweetens... déi meescht Gemenge si Member, dofir erreecht hir Aarbecht bal jiddereen zu Lëtzebuerg.
-**TOM:** Drëttens... si bitt Formatiounen, Infografiken, Material fir auszeléinen a Workshoppe fir d'Schoulen un.
-**ANNA:** A véiertens... si féiert Campagnen a Projeten duerch wéi Ouni Pestiziden, Green Events a Gutt Geschier, déi jiddereen notze kann.
+**TOM:** Éischtens, et ass eng neutral Associatioun sans but lucratif, déi virun allem d'Gemengen an Ëmweltfroe beréit.
+**ANNA:** Zweetens, déi meescht Gemenge si Member, dofir erreecht hir Aarbecht bal jiddereen zu Lëtzebuerg.
+**TOM:** Drëttens, si bitt Formatiounen, Infografiken, Material fir auszeléinen a Workshoppe fir d'Schoulen un.
+**ANNA:** A véiertens, si féiert Campagnen a Projeten duerch wéi Ouni Pestiziden, Green Events a Gutt Geschier, déi jiddereen notze kann.
 **TOM:** Ëmweltschutz fänkt dacks mat klenge Schrëtt un, ganz no bei eis.
 **ANNA:** An et ass méi einfach, wa mir se zesumme maachen, an eiser Gemeng. Dat war eis Episode iwwer d'EBL, d'Ëmweltberodung Lëtzebuerg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.
-**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**TOM:** Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!
 **ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---

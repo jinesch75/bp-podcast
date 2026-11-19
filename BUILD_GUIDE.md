@@ -472,3 +472,7 @@ Tom's "Research Luxembourg" sounded odd: spelling A/B (`build/el_test/pron_resea
 ## Lëtz prepare (19 Nov 2026)
 
 No "..." pauses in this episode. Rebuilt with the new CLEAN rule; voice QC + retakes (EN 2, FR 13, DE 8). DE Tom's "Was ist das?" bad in every take → "Was ist das genau?". ≈ 2,800 credits.
+
+## EBL (19 Nov 2026)
+
+Jacques: avoid Luxembourgish terms (badly pronounced) → EN/FR/DE spoken lines no longer say "Ëmweltberodung Lëtzebuerg" (only "EBL" + meaning), the "Ëmwelt/Berodung" explanation (→ "the name says exactly what it does"), "Grénge Web", "SuperDrecksKëscht" (→ national waste-prevention programme), "Ouni Pestiziden" (→ campaign for gardens "without pesticides"), "Gutt Geschier" (→ sharing tools / the tool library). Kept: the websites ounipestiziden.lu and guttgeschier.lu (said once each). `build/apply_no_lux_terms_ebl_2026_11.py`; LB script and footers unchanged. "..." pauses removed, voice QC + retakes (EN 5, FR 4, DE 2). ≈ 9,000 credits.
