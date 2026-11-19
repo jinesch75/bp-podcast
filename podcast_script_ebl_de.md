@@ -12,7 +12,7 @@
 **TOM:** Und heute lernen wir eine Organisation kennen, die leise im Hintergrund arbeitet, aber ihre Arbeit haben Sie wahrscheinlich schon in Ihrer eigenen Gemeinde gesehen.
 **ANNA:** Vielleicht ein buntes Plakat im Rathaus. Oder eine Seite über das Wassersparen in der Zeitschrift Ihrer Gemeinde.
 **TOM:** Gut möglich, dass sie von der EBL kam.
-**ANNA:** EBL ist die Abkürzung eines luxemburgischen Namens, der „Umweltberatung Luxemburg" bedeutet.
+**ANNA:** EBL steht für Ëmweltberodung Lëtzebuerg. Auf Deutsch heißt das „Umweltberatung Luxemburg".
 **TOM:** Der Name sagt also genau, was sie tut: Sie berät zur Umwelt.
 **ANNA:** Also Tom, was genau ist die EBL?
 **TOM:** Sie ist ein gemeinnütziger Verein, gegründet 1992. Sie ist neutral und unabhängig, und sie berät zum Schutz der Umwelt.

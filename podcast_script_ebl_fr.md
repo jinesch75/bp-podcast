@@ -12,7 +12,7 @@
 **TOM:** Et aujourd'hui, nous découvrons une organisation qui travaille discrètement en coulisses, mais vous avez sans doute déjà vu son travail dans votre propre commune.
 **ANNA:** Peut-être une affiche colorée à la mairie. Ou une page sur les économies d'eau dans le magazine de votre commune.
 **TOM:** Il y a de fortes chances qu'elle vienne de l'EBL.
-**ANNA:** EBL est l'abréviation d'un nom luxembourgeois qui signifie « Conseil en environnement Luxembourg ».
+**ANNA:** EBL veut dire Ëmweltberodung Lëtzebuerg. En français, cela signifie « Conseil en environnement Luxembourg ».
 **TOM:** Le nom dit donc exactement ce qu'elle fait : elle conseille sur l'environnement.
 **ANNA:** Alors Tom, qu'est-ce que l'EBL, exactement ?
 **TOM:** C'est une association sans but lucratif, créée en 1992. Elle est neutre et indépendante, et elle donne des conseils pour protéger l'environnement.

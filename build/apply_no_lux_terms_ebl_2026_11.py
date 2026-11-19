@@ -35,3 +35,4 @@ for sfx, pairs in R.items():
     if "--dry" not in sys.argv: open(p, "w", encoding="utf-8").write(s)
 # Also (same day, by hand): "Ouni Pestiziden" -> "the campaign for gardens 'without pesticides'", "Gutt Geschier" -> "sharing
 # tools" / "the tool library" in EN/FR/DE; the two website addresses (ounipestiziden.lu, guttgeschier.lu) are kept.
+# Follow-up (Jacques, same day): the Luxembourgish name is said ONCE, in Anna's explanation at the start (line 15, EN/FR/DE).

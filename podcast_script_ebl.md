@@ -12,7 +12,7 @@
 **TOM:** And today we meet an organisation that works quietly in the background, but you have probably seen its work in your own commune.
 **ANNA:** Maybe a colourful poster in the town hall. Or a page about saving water in your commune's magazine.
 **TOM:** There's a good chance it came from the EBL.
-**ANNA:** EBL is short for a Luxembourgish name that means "Environmental Advice Luxembourg".
+**ANNA:** EBL stands for Ëmweltberodung Lëtzebuerg. In English, that means "Environmental Advice Luxembourg".
 **TOM:** So the name says exactly what it does: it gives advice on the environment.
 **ANNA:** So Tom, what exactly is the EBL?
 **TOM:** It's a non-profit association, created in 1992. It's neutral and independent, and it gives advice on protecting the environment.
