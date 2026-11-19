@@ -444,15 +444,13 @@ function episodeRow(ep) {
   return row;
 }
 function renderViewToggle() {
-  var btn = document.getElementById('view-toggle');
-  if (!btn) return;
-  btn.textContent = viewByTopic ? t('view_full_list') : t('view_by_topic');
-  btn.classList.toggle('active', viewByTopic);
-  btn.setAttribute('aria-pressed', viewByTopic ? 'true' : 'false');
-  btn.onclick = function () {
-    viewByTopic = !viewByTopic;
-    renderEpisodeList();
-  };
+  // Tick box "Show episodes by topic" (unticked = full list, the default).
+  var box = document.getElementById('view-toggle');
+  if (!box) return;
+  var lab = document.getElementById('view-toggle-label');
+  if (lab) lab.textContent = t('view_by_topic');
+  box.checked = viewByTopic;
+  box.onchange = function () { viewByTopic = box.checked; renderEpisodeList(); };
 }
 function renderEpisodeList() {
   renderFilterBar();
