@@ -418,3 +418,7 @@ Jacques: "Exactly. It's dignity…" sounded off. EN line reworded "Exactly — i
 ## Environment portal (17 Nov 2026)
 
 EN: "Null Offall Lëtzebuerg" and "Mäin Offall" left out of the spoken lines ("the country's zero-waste strategy", "an app to help you know what goes in which bin"); sources footer keeps them. `build/apply_waste_names_environnement_2026_11.py`. Voice QC EN/FR/DE, retakes EN 4, FR 3, DE 1. ≈ 1,200 credits.
+
+## SYVICOL pitch pass (19 Nov 2026)
+
+All 15 "..." pauses removed per language (`remove_ellipses.py syvicol`; EN: 7 colons/dashes by hand), then voice QC EN/FR/DE + retakes (EN 6, FR 4, DE 4). Standard intro/outro sentences deliberately NOT retaken: they are identical (same text + context = same cache hash) in every episode, so a reseed would change all episodes. ≈ 6,000 credits. EN 5:46, FR 5:43, DE 6:24.
