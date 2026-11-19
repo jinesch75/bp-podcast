@@ -9,22 +9,22 @@
 **ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 **TOM:** Moien alleguer!
 **ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
-**TOM:** An d'Hëllefsmëttel vun haut ass eent, dat Dir direkt opmaache kënnt, gratis, a mat deem Dir vill Spaass huele kënnt... Kaarten.
+**TOM:** An d'Hëllefsmëttel vun haut ass eent, dat Dir direkt opmaache kënnt, gratis, a mat deem Dir vill Spaass huele kënnt: Kaarten.
 **ANNA:** Mir benotzen all Kaarten op eise Smartphonen, fir eise Wee ze fannen. Mä Lëtzebuerg huet säin eegene offizielle Kaartendéngscht.
 **TOM:** Et heescht de Geoportal. D'Websäit ass geoportail Punkt lu.
 **ANNA:** An et ass vill méi wéi eng Kaart fir mam Auto ze fueren. Et ass e Fënster op dat ganzt Land.
 **TOM:** Also Anna, wat genau ass de Geoportal?
 **ANNA:** Et ass déi offiziell national Plattform fir déi geografesch Donnéeën a Kaarten vum Staat.
-**TOM:** Et gëtt vun der Verwaltung bedriwwen, déi fir de Kadaster an d'Kartografie zoustänneg ass... der Kadaster- an Topografieverwaltung.
+**TOM:** Et gëtt vun der Verwaltung bedriwwen, déi fir de Kadaster an d'Kartografie zoustänneg ass, der Kadaster- an Topografieverwaltung.
 **ANNA:** Dat sinn also déi offiziell Kaarten vu Lëtzebuerg, präzis a vertrauenswürdeg, a fir jiddereen opgemaach.
 **TOM:** Schwätze mer doriwwer, wat een tatsächlech drop gesäit, well et ass bemierkenswäert.
 **ANNA:** Dir hutt natierlech d'Standardkaart, mat Stied, Stroossen an Uertsnimm.
 **TOM:** Mä Dir kënnt och op Luftbiller wiesselen an d'Land vun uewen ukucken.
 **ANNA:** Dir kënnt souguer al Kaarten a Fotoen ukucken, a gesinn, wéi sech eng Plaz iwwert d'Jore verännert huet.
-**TOM:** An da ginn et d'Themen... Informatiounsschichten, déi Dir an- an ausschalte kënnt.
+**TOM:** An da ginn et d'Themen. Informatiounsschichten, déi Dir an- an ausschalte kënnt.
 **ANNA:** Zum Beispill Schichten iwwert d'Ëmwelt, iwwert d'Mobilitéit, iwwert den Tourismus, a vill méi.
 **TOM:** Eng vun den nëtzlechsten ass de Kadaster, d'Grondbuch.
-**ANNA:** De Kadaster weist d'Grenze vun de Parzellen... wiem wéi e Stéck Land gehéiert a wou genau d'Linne verlafen.
+**ANNA:** De Kadaster weist d'Grenze vun de Parzellen, wiem wéi e Stéck Land gehéiert a wou genau d'Linne verlafen.
 **TOM:** Wann Dir also en Haus kaaft, oder neigéiereg op e Grondstéck sidd, kënnt Dir d'Parzell nokucken.
 **ANNA:** Et ginn och clever agebaute Hëllefsmëttelen. Dir kënnt eng Distanz oder eng Fläch moossen.
 **TOM:** Dir kënnt no enger Adress sichen an direkt dohinner sprangen.
@@ -34,7 +34,7 @@
 **TOM:** Fir e neigéierege Bierger ass et eng wonnerbar Manéier, fir seng Stad, seng Regioun, säi Land z'entdecken.
 **ANNA:** Fir een, dee eng Wanderung oder eng Vëlostour plangt, weist et d'Landschaft, d'Weeër, den Terrain.
 **TOM:** Fir en Hausbesëtzer oder Keefer weist et Parzellen, Grenzen an offiziell Detailer.
-**ANNA:** A fir Fachleit... Architekten, Baueren, Gemengen, Bauunternehmer... ass et en onverzichtbart deeglecht Hëllefsmëttel.
+**ANNA:** A fir Fachleit. Architekten, Baueren, Gemengen, Bauunternehmer, ass et en onverzichtbart deeglecht Hëllefsmëttel.
 **TOM:** Et gëtt hei och eng méi déif Iddi, iwwert oppen Donnéeën.
 **ANNA:** Jo. E grousse Deel vun dëse geografeschen Donnéeë gëtt oppe zur Verfügung gestallt, fir datt d'Leit se benotzen an drop opbaue kënnen.
 **TOM:** Esou kënne Fuerscher, Betriber an Entwéckler doraus nei Applikatiounen an Déngschter schafen.
@@ -48,14 +48,14 @@
 **TOM:** Als drëttes, wann Dir mat Land oder enger Immobilie ze dinn hutt, kuckt d'Parzell am Kadaster no.
 **ANNA:** A véiertens, plangt Dir e Spadséiergang oder e Projet? Moosst Distanzen an dréckt Iech eng Kaart aus.
 **TOM:** Fasse mer et zesummen. Wat sollten d'Leit sech iwwert de Geoportal merken?
-**ANNA:** Éischtens... geoportail Punkt lu ass Lëtzebuerg seng offiziell, gratis Online-Kaartenplattform, vun der Kadaster- an Topografieverwaltung.
-**TOM:** Zweetens... et bitt Standardkaarten, Luftbiller, historesch Kaarten, de Kadaster a vill thematesch Schichten.
-**ANNA:** Drëttens... et huet praktesch Hëllefsmëttelen fir ze sichen, ze moossen, an 3D ze kucken an auszedrécken.
-**TOM:** A véiertens... e grousse Deel vu sengen Donnéeën ass oppen a befligelt nei Applikatiounen an Déngschter.
+**ANNA:** Éischtens, geoportail Punkt lu ass Lëtzebuerg seng offiziell, gratis Online-Kaartenplattform, vun der Kadaster- an Topografieverwaltung.
+**TOM:** Zweetens, et bitt Standardkaarten, Luftbiller, historesch Kaarten, de Kadaster a vill thematesch Schichten.
+**ANNA:** Drëttens, et huet praktesch Hëllefsmëttelen fir ze sichen, ze moossen, an 3D ze kucken an auszedrécken.
+**TOM:** A véiertens, e grousse Deel vu sengen Donnéeën ass oppen a befligelt nei Applikatiounen an Déngschter.
 **ANNA:** Eng Kaart ass méi wéi Weebeschreiwungen. Et ass eng Manéier, fir d'Plaz, déi mir deelen, ze gesinn an ze verstoen.
 **TOM:** An dës ass direkt zur Hand, gratis, ëmmer wann d'Neigéier zouschléit.
 **ANNA:** Dat war eis Episod iwwer de Geoportal. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
-**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**TOM:** Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!
 **ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---

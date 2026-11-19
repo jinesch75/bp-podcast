@@ -9,22 +9,22 @@
 **ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
 **ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
-**TOM:** Und das heutige Werkzeug ist eines, das Sie sofort öffnen können, kostenlos, und mit dem Sie viel Spaß haben können... Karten.
+**TOM:** Und das heutige Werkzeug ist eines, das Sie sofort öffnen können, kostenlos, und mit dem Sie viel Spaß haben können: Karten.
 **ANNA:** Wir alle benutzen Karten auf unseren Handys, um uns zurechtzufinden. Aber Luxemburg hat seinen eigenen offiziellen Kartendienst.
 **TOM:** Er heißt Geoportal. Die Webseite ist geoportail Punkt lu.
 **ANNA:** Und es ist viel mehr als eine Karte zum Autofahren. Es ist ein Fenster zum ganzen Land.
 **TOM:** Also Anna, was genau ist das Geoportal?
 **ANNA:** Es ist die offizielle nationale Plattform für die geografischen Daten und Karten des Staates.
-**TOM:** Es wird von der Verwaltung betrieben, die für das Kataster und die Kartografie zuständig ist... der Kataster- und Topografieverwaltung.
+**TOM:** Es wird von der Verwaltung betrieben, die für das Kataster und die Kartografie zuständig ist, der Kataster- und Topografieverwaltung.
 **ANNA:** Das sind also die offiziellen Karten Luxemburgs, genau und vertrauenswürdig, und für alle zugänglich.
 **TOM:** Sprechen wir darüber, was man tatsächlich darauf sehen kann, denn es ist bemerkenswert.
 **ANNA:** Sie haben natürlich die Standardkarte, mit Städten, Straßen und Ortsnamen.
 **TOM:** Aber Sie können auch zu Luftbildern wechseln und das Land von oben betrachten.
 **ANNA:** Sie können sogar alte Karten und Fotos ansehen und sehen, wie sich ein Ort über die Jahre verändert hat.
-**TOM:** Und dann gibt es die Themen... Informationsebenen, die Sie ein- und ausschalten können.
+**TOM:** Und dann gibt es die Themen. Informationsebenen, die Sie ein- und ausschalten können.
 **ANNA:** Zum Beispiel Ebenen über die Umwelt, über die Mobilität, über den Tourismus, und vieles mehr.
 **TOM:** Eine der nützlichsten ist das Kataster, das Grundbuch.
-**ANNA:** Das Kataster zeigt die Grenzen der Parzellen... wem welches Stück Land gehört und wo genau die Linien verlaufen.
+**ANNA:** Das Kataster zeigt die Grenzen der Parzellen, wem welches Stück Land gehört und wo genau die Linien verlaufen.
 **TOM:** Wenn Sie also ein Haus kaufen oder neugierig auf ein Grundstück sind, können Sie die Parzelle nachschlagen.
 **ANNA:** Es gibt auch clevere eingebaute Werkzeuge. Sie können eine Entfernung oder eine Fläche messen.
 **TOM:** Sie können nach einer Adresse suchen und direkt dorthin springen.
@@ -34,7 +34,7 @@
 **TOM:** Für einen neugierigen Bürger ist es eine wunderbare Möglichkeit, seine Stadt, seine Region, sein Land zu erkunden.
 **ANNA:** Für jemanden, der eine Wanderung oder eine Radtour plant, zeigt es die Landschaft, die Wege, das Gelände.
 **TOM:** Für einen Hausbesitzer oder Käufer zeigt es Parzellen, Grenzen und offizielle Details.
-**ANNA:** Und für Fachleute... Architekten, Landwirte, Gemeinden, Bauunternehmer... ist es ein unentbehrliches tägliches Werkzeug.
+**ANNA:** Und für Fachleute. Architekten, Landwirte, Gemeinden, Bauunternehmer, ist es ein unentbehrliches tägliches Werkzeug.
 **TOM:** Es gibt hier auch einen tieferen Gedanken, über offene Daten.
 **ANNA:** Ja. Ein großer Teil dieser geografischen Daten wird offen zur Verfügung gestellt, damit die Menschen sie nutzen und darauf aufbauen können.
 **TOM:** So können Forscher, Unternehmen und Entwickler daraus neue Anwendungen und Dienste schaffen.
@@ -48,14 +48,14 @@
 **TOM:** Drittens, wenn Sie mit Land oder einer Immobilie zu tun haben, schlagen Sie die Parzelle im Kataster nach.
 **ANNA:** Und viertens, planen Sie einen Spaziergang oder ein Projekt? Messen Sie Entfernungen und drucken Sie sich eine Karte aus.
 **TOM:** Fassen wir es zusammen. Was sollten sich die Menschen über das Geoportal merken?
-**ANNA:** Erstens... geoportail Punkt lu ist Luxemburgs offizielle, kostenlose Online-Kartenplattform, von der Kataster- und Topografieverwaltung.
-**TOM:** Zweitens... es bietet Standardkarten, Luftbilder, historische Karten, das Kataster und viele thematische Ebenen.
-**ANNA:** Drittens... es hat praktische Werkzeuge zum Suchen, Messen, Betrachten in 3D und Drucken.
-**TOM:** Und viertens... ein großer Teil seiner Daten ist offen und beflügelt neue Anwendungen und Dienste.
+**ANNA:** Erstens, geoportail Punkt lu ist Luxemburgs offizielle, kostenlose Online-Kartenplattform, von der Kataster- und Topografieverwaltung.
+**TOM:** Zweitens, es bietet Standardkarten, Luftbilder, historische Karten, das Kataster und viele thematische Ebenen.
+**ANNA:** Drittens, es hat praktische Werkzeuge zum Suchen, Messen, Betrachten in 3D und Drucken.
+**TOM:** Und viertens, ein großer Teil seiner Daten ist offen und beflügelt neue Anwendungen und Dienste.
 **ANNA:** Eine Karte ist mehr als Wegbeschreibungen. Sie ist eine Art, den Ort, den wir teilen, zu sehen und zu verstehen.
 **TOM:** Und diese ist direkt zur Hand, kostenlos, wann immer die Neugier zuschlägt.
 **ANNA:** Das war unsere Folge über das Geoportal. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
-**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**TOM:** Danke an alle. Passen Sie auf sich auf, und bis zum nächsten Mal!
 **ANNA:** Vielen Dank fürs Zuhören.
 
 ---

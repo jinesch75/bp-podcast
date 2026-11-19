@@ -449,3 +449,7 @@ Scripts ready: all "..." pauses removed (`remove_ellipses.py culture`; EN: 8 col
 ## GOVCERT (19 Nov 2026)
 
 EN "analyses them" was read as the noun ("an-AL-uh-seez") → rule `analyses them/it/what/the` → "analyzes …" (spoken only; script keeps British spelling). "..." pauses removed (14/language; EN 9 colons/dashes by hand), voice QC + retakes (EN 3, FR 1, DE 4). Rebuilt with the new CLEAN rule. ≈ 5,600 credits.
+
+## Geoportail (19 Nov 2026)
+
+Tom's "…and have a lot of fun with... maps." had a strange pause → "…fun with: maps." (0.3 s beat; FR " : les cartes", DE/LB ": Karten/Kaarten"). All "..." pauses removed (EN 3 dashes/colons by hand), voice QC + retakes (EN 12, FR 3, DE 3). ≈ 6,300 credits.

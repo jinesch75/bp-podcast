@@ -9,22 +9,22 @@
 **ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
 **ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
-**TOM:** And today's tool is one you can open right now, for free, and have a lot of fun with... maps.
+**TOM:** And today's tool is one you can open right now, for free, and have a lot of fun with: maps.
 **ANNA:** We all use maps on our phones to find our way. But Luxembourg has its own official map service.
 **TOM:** It's called the Geoportal. The website is geoportail dot lu.
 **ANNA:** And it is much more than a map for driving. It's a window onto the whole country.
 **TOM:** So Anna, what exactly is the Geoportal?
 **ANNA:** It is the official national platform for the State's geographic data and maps.
-**TOM:** It's run by the administration in charge of the land registry and mapping... the cadastre and topography administration.
+**TOM:** It's run by the administration in charge of the land registry and mapping: the cadastre and topography administration.
 **ANNA:** So these are the official maps of Luxembourg, accurate and trustworthy, and open to everyone.
 **TOM:** Let's talk about what you can actually see on it, because it's remarkable.
 **ANNA:** You have the standard map, of course, with towns, roads and place names.
 **TOM:** But you can also switch to aerial photos, and look at the country from above.
 **ANNA:** You can even look at old maps and photos, and see how a place has changed over the years.
-**TOM:** And then there are the themes... layers of information you can switch on and off.
+**TOM:** And then there are the themes: layers of information you can switch on and off.
 **ANNA:** For example, layers about the environment, about mobility, about tourism, and much more.
 **TOM:** One of the most useful is the land registry, the cadastre.
-**ANNA:** The cadastre shows the boundaries of land parcels... who owns what piece of land, and exactly where the lines are.
+**ANNA:** The cadastre shows the boundaries of land parcels, who owns what piece of land, and exactly where the lines are.
 **TOM:** So if you're buying a house, or curious about a plot, you can look up the parcel.
 **ANNA:** There are also clever tools built in. You can measure a distance or an area.
 **TOM:** You can search for an address, and jump straight to it.
@@ -34,7 +34,7 @@
 **TOM:** For a curious citizen, it's a wonderful way to explore your town, your region, your country.
 **ANNA:** For someone planning a hike or a bike ride, it shows the landscape, the paths, the terrain.
 **TOM:** For a homeowner or a buyer, it shows parcels, boundaries and official details.
-**ANNA:** And for professionals... architects, farmers, communes, builders... it's an essential daily tool.
+**ANNA:** And for professionals — architects, farmers, communes, builders — it's an essential daily tool.
 **TOM:** There's also a deeper idea here, about open data.
 **ANNA:** Yes. A lot of this geographic data is made openly available, for people to use and build on.
 **TOM:** So researchers, companies and developers can create new apps and services from it.
@@ -48,14 +48,14 @@
 **TOM:** Third, if you're dealing with land or a property, look up the parcel in the cadastre.
 **ANNA:** And fourth, planning a walk or a project? Measure distances and print yourself a map.
 **TOM:** Let's bring it together. What should people remember about the Geoportal?
-**ANNA:** First... geoportail dot lu is Luxembourg's official, free online map platform, from the cadastre and topography administration.
-**TOM:** Second... it offers standard maps, aerial photos, historic maps, the land registry, and many thematic layers.
-**ANNA:** Third... it has handy tools to search, measure, view in 3D, and print.
-**TOM:** And fourth... much of its data is open, fuelling new apps and services.
+**ANNA:** First, geoportail dot lu is Luxembourg's official, free online map platform, from the cadastre and topography administration.
+**TOM:** Second, it offers standard maps, aerial photos, historic maps, the land registry, and many thematic layers.
+**ANNA:** Third, it has handy tools to search, measure, view in 3D, and print.
+**TOM:** And fourth, much of its data is open, fuelling new apps and services.
 **ANNA:** A map is more than directions. It's a way of seeing, and understanding, the place we share.
 **TOM:** And this one is right at your fingertips, for free, whenever curiosity strikes.
 **ANNA:** That was our episode about the Geoportal. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
-**TOM:** Thank you, everyone. Take care... and see you next time!
+**TOM:** Thank you, everyone. Take care, and see you next time!
 **ANNA:** Thank you so much for listening.
 
 ---

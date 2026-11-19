@@ -9,22 +9,22 @@
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
 **ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
-**TOM:** Et l'outil d'aujourd'hui est un outil que vous pouvez ouvrir tout de suite, gratuitement, et avec lequel vous pouvez beaucoup vous amuser... les cartes.
+**TOM:** Et l'outil d'aujourd'hui est un outil que vous pouvez ouvrir tout de suite, gratuitement, et avec lequel vous pouvez beaucoup vous amuser : les cartes.
 **ANNA:** Nous utilisons tous des cartes sur nos téléphones pour trouver notre chemin. Mais le Luxembourg possède son propre service de cartographie officiel.
 **TOM:** Cela s'appelle le Géoportail. Le site web est geoportail point lu.
 **ANNA:** Et c'est bien plus qu'une carte pour conduire. C'est une fenêtre sur tout le pays.
 **TOM:** Alors Anna, qu'est-ce que le Géoportail exactement ?
 **ANNA:** C'est la plateforme nationale officielle pour les données géographiques et les cartes de l'État.
-**TOM:** Il est géré par l'administration en charge du cadastre et de la cartographie... l'administration du cadastre et de la topographie.
+**TOM:** Il est géré par l'administration en charge du cadastre et de la cartographie, l'administration du cadastre et de la topographie.
 **ANNA:** Ce sont donc les cartes officielles du Luxembourg, précises et fiables, et ouvertes à tout le monde.
 **TOM:** Parlons de ce qu'on peut réellement y voir, parce que c'est remarquable.
 **ANNA:** Vous avez la carte standard, bien sûr, avec les villes, les routes et les noms de lieux.
 **TOM:** Mais vous pouvez aussi passer aux photos aériennes, et regarder le pays vu d'en haut.
 **ANNA:** Vous pouvez même consulter d'anciennes cartes et photos, et voir comment un endroit a changé au fil des années.
-**TOM:** Et puis il y a les thèmes... des couches d'informations que vous pouvez activer et désactiver.
+**TOM:** Et puis il y a les thèmes, des couches d'informations que vous pouvez activer et désactiver.
 **ANNA:** Par exemple, des couches sur l'environnement, sur la mobilité, sur le tourisme, et bien plus encore.
 **TOM:** L'une des plus utiles est le cadastre, le registre foncier.
-**ANNA:** Le cadastre montre les limites des parcelles... qui possède quel morceau de terrain, et où se trouvent exactement les lignes.
+**ANNA:** Le cadastre montre les limites des parcelles, qui possède quel morceau de terrain, et où se trouvent exactement les lignes.
 **TOM:** Donc si vous achetez une maison, ou si vous êtes curieux d'un terrain, vous pouvez consulter la parcelle.
 **ANNA:** Il y a aussi des outils astucieux intégrés. Vous pouvez mesurer une distance ou une surface.
 **TOM:** Vous pouvez rechercher une adresse, et y accéder directement.
@@ -34,7 +34,7 @@
 **TOM:** Pour un citoyen curieux, c'est une merveilleuse façon d'explorer sa ville, sa région, son pays.
 **ANNA:** Pour quelqu'un qui prépare une randonnée ou une sortie à vélo, cela montre le paysage, les chemins, le terrain.
 **TOM:** Pour un propriétaire ou un acheteur, cela montre les parcelles, les limites et les détails officiels.
-**ANNA:** Et pour les professionnels... architectes, agriculteurs, communes, constructeurs... c'est un outil quotidien indispensable.
+**ANNA:** Et pour les professionnels, architectes, agriculteurs, communes, constructeurs, c'est un outil quotidien indispensable.
 **TOM:** Il y a aussi une idée plus profonde ici, à propos des données ouvertes.
 **ANNA:** Oui. Une grande partie de ces données géographiques est mise à disposition de façon ouverte, pour que les gens puissent les utiliser et construire dessus.
 **TOM:** Ainsi, les chercheurs, les entreprises et les développeurs peuvent créer de nouvelles applications et de nouveaux services à partir de celles-ci.
@@ -48,14 +48,14 @@
 **TOM:** Troisièmement, si vous avez affaire à un terrain ou à une propriété, consultez la parcelle dans le cadastre.
 **ANNA:** Et quatrièmement, vous préparez une promenade ou un projet ? Mesurez des distances et imprimez-vous une carte.
 **TOM:** Faisons la synthèse. Que doit-on retenir du Géoportail ?
-**ANNA:** Premièrement... geoportail point lu est la plateforme cartographique officielle, gratuite et en ligne du Luxembourg, de l'administration du cadastre et de la topographie.
-**TOM:** Deuxièmement... il propose des cartes standard, des photos aériennes, des cartes historiques, le cadastre, et de nombreuses couches thématiques.
-**ANNA:** Troisièmement... il dispose d'outils pratiques pour rechercher, mesurer, visualiser en 3D et imprimer.
-**TOM:** Et quatrièmement... une grande partie de ses données est ouverte, alimentant de nouvelles applications et de nouveaux services.
+**ANNA:** Premièrement, geoportail point lu est la plateforme cartographique officielle, gratuite et en ligne du Luxembourg, de l'administration du cadastre et de la topographie.
+**TOM:** Deuxièmement, il propose des cartes standard, des photos aériennes, des cartes historiques, le cadastre, et de nombreuses couches thématiques.
+**ANNA:** Troisièmement, il dispose d'outils pratiques pour rechercher, mesurer, visualiser en 3D et imprimer.
+**TOM:** Et quatrièmement, une grande partie de ses données est ouverte, alimentant de nouvelles applications et de nouveaux services.
 **ANNA:** Une carte, c'est plus que des indications. C'est une façon de voir, et de comprendre, le lieu que nous partageons.
 **TOM:** Et celle-ci est juste au bout de vos doigts, gratuitement, dès que la curiosité vous prend.
 **ANNA:** C'était notre épisode sur le Géoportail. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
-**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**TOM:** Merci à tous. Prenez soin de vous, et à la prochaine !
 **ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---
