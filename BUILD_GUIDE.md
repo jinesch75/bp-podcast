@@ -464,3 +464,7 @@ Tom's "…and have a lot of fun with... maps." had a strange pause → "…fun w
 ## Social & solidarity economy (19 Nov 2026)
 
 EN "status" (societal impact company) sounded strange → 3 sentences re-taken against a plain "status" reference (`ONLY=status match_pron.py ess en`, new term), Tom's line now heard p(status)=0.99. "..." pauses removed (11/language; EN 7 colons/dashes by hand), voice QC + retakes (EN 1, FR 1, DE 1). ≈ 4,600 credits.
+
+## Luxinnovation (19 Nov 2026)
+
+Tom's "Research Luxembourg" sounded odd: spelling A/B (`build/el_test/pron_researchlux_en_AB.mp3`) → Jacques: as written; sentence re-taken, most English take kept (`INCLUDE=18 THRESH=5 lux_en_vs_fr.py luxinnovation --fix`, -1.32 → -1.88). "..." pauses removed (13/language; EN 7 colons/dashes by hand), voice QC + retakes (EN 3, DE 1; FR clean). ≈ 5,500 credits.

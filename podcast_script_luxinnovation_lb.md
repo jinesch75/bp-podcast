@@ -9,8 +9,8 @@
 **ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 **TOM:** Moien alleguer!
 **ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
-**TOM:** An haut kucke mir, wéi Lëtzebuerg seng Zukunft opbaut... duerch Innovatioun.
-**ANNA:** Innovatioun heescht einfach, besser Weeër ze fannen, fir d'Saachen ze maachen... nei Produkter, nei Servicer, nei Iddien.
+**TOM:** An haut kucke mir, wéi Lëtzebuerg seng Zukunft opbaut, duerch Innovatioun.
+**ANNA:** Innovatioun heescht einfach, besser Weeër ze fannen, fir d'Saachen ze maachen, nei Produkter, nei Servicer, nei Iddien.
 **TOM:** Sou bleift e klengt Land wuelstänneg a schaaft gutt Aarbechtsplazen fir déi nächst Generatioun.
 **ANNA:** An et gëtt eng national Agence, deenen hir ganz Aufgab et ass, den Entreprisen ze hëllefen z'innovéieren. Si heescht Luxinnovation.
 **TOM:** Also Anna, wat ass Luxinnovation?
@@ -20,10 +20,10 @@
 **TOM:** Loosse mer doriwwer schwätzen, wiem si tatsächlech hëlleft, well dat ass méi breet, wéi Dir vläicht denkt.
 **ANNA:** Si hëlleft groussen etabléierten Entreprisen, klengen, an ganz neie Startupen, déi just eng Iddi hunn.
 **TOM:** A si verbënnt si mat der Fuerschungswelt, déi mir an eiser Episod iwwer Research Luxembourg behandelt hunn.
-**ANNA:** Dës Verbindung ass mächteg... si mécht aus kluger Fuerschung richteg Produkter, Servicer an Aarbechtsplazen.
+**ANNA:** Dës Verbindung ass mächteg, si mécht aus kluger Fuerschung richteg Produkter, Servicer an Aarbechtsplazen.
 **TOM:** Loosse mer iwwer ee vu senge bekanntste Programmer schwätzen, fir nei Entreprisen.
 **ANNA:** Et ass e Beschleunegungsprogramm fir Startupen, heiansdo Fit 4 Start genannt.
-**TOM:** Zënter 2015 wielt et villverspriechend jonk Startupen aus a gëtt hinnen Coaching, Ënnerstëtzung an eng éischt Finanzéierung, fir ze wuessen... am Digitalen, an de Gesondheetstechnologien, an der Raumfaart, an elo och an der Verdeedegung.
+**TOM:** Zënter 2015 wielt et villverspriechend jonk Startupen aus a gëtt hinnen Coaching, Ënnerstëtzung an eng éischt Finanzéierung, fir ze wuessen, am Digitalen, an de Gesondheetstechnologien, an der Raumfaart, an elo och an der Verdeedegung.
 **ANNA:** Fir e Grënner mat enger super Iddi, awer wéineg Erfarung, kann dës Ënnerstëtzung de ganzen Ënnerscheed maachen.
 **TOM:** An et gëtt och aner „Fit“-Programmer, déi bestoenden Entreprisen hëllefen, sech ze verbesseren.
 **ANNA:** Zum Beispill, fir méi digital, oder méi nohalteg ze ginn.
@@ -33,13 +33,13 @@
 **ANNA:** Luxinnovation hëlleft den Entreprisen, sech an dësem Labyrinth zeruechtzefannen, an déi richteg Ënnerstëtzung ze beantroen.
 **TOM:** Dës Begleedung eleng kann den Ënnerscheed maachen, ob eng Iddi um Pabeier bleift, oder zum Liewen erwächt.
 **ANNA:** Luxinnovation schafft och un ganze Secteuren, net nëmmen un eenzelnen Entreprisen.
-**TOM:** Si konzentréiert sech op strategesch Beräicher... wéi Gesondheetstechnologien, propper Technologien, Digitalt, Materialien, Raumfaart a Liewensmëttel.
+**TOM:** Si konzentréiert sech op strategesch Beräicher, wéi Gesondheetstechnologien, propper Technologien, Digitalt, Materialien, Raumfaart a Liewensmëttel.
 **ANNA:** Si bréngt an all Beräich Entreprisen a Fuerscher zesummen, sou datt si zesummen z'innovéiere kënnen.
 **TOM:** Dës Teamaarbecht hëlleft, staark, modern Industrien fir d'Land opzebauen.
-**ANNA:** Loosse mer en Tratt zréck maachen a froen... firwat ass dat fir en normalen Awunner wichteg?
-**TOM:** Als éischt, well d'Innovatioun Aarbechtsplaze schaaft... gutt, zukunftssécher Aarbechtsplaze fir d'Leit hei.
+**ANNA:** Loosse mer en Tratt zréck maachen a froen, firwat ass dat fir en normalen Awunner wichteg?
+**TOM:** Als éischt, well d'Innovatioun Aarbechtsplaze schaaft, gutt, zukunftssécher Aarbechtsplaze fir d'Leit hei.
 **ANNA:** Zweetens, well si d'Wirtschaft diversifizéiert, sou datt d'Land net vun engem eenzege Secteur ofhängeg ass.
-**TOM:** Drëttens, well d'Produkter vun der Innovatioun d'alldeeglecht Liewe verbesseren... an der Gesondheet, der Energie, am Transport a méi.
+**TOM:** Drëttens, well d'Produkter vun der Innovatioun d'alldeeglecht Liewe verbesseren, an der Gesondheet, der Energie, am Transport a méi.
 **ANNA:** A véiertens, well eng bléiend, modern Wirtschaft déi ëffentlech Servicer finanzéiert, op déi mir all ugewise sinn.
 **TOM:** Och wann Dir also ni eng Entreprise grënnt, beréiert hir Aarbecht Är Zukunft.
 **ANNA:** A wann Dir dovun dreemt, eppes ze starten, ass dat eng Dier, un déi et sech lount ze klappen.
@@ -48,14 +48,14 @@
 **TOM:** Zweetens, wann Dir eng innovativ Iddi hutt, kuckt Iech de Beschleunegungsprogramm fir Startupen un.
 **ANNA:** Drëttens, wësst och als Bierger, datt dës roueg Aarbecht d'Aarbechtsplazen an d'Industrie vu muer opbaut.
 **TOM:** Loosse mer et zesummebréngen. Wat sollen d'Leit sech iwwer Luxinnovation merken?
-**ANNA:** Als éischt... et ass Lëtzebuerg seng national Innovatiounsagence, déi den Entreprisen a Startupen hëlleft, z'innovéieren a ze wuessen.
-**TOM:** Zweetens... si bitt Programmer wéi d'Startup-Beschleunegung un an hëlleft bestoenden Firmen, méi digital a méi nohalteg ze ginn.
-**ANNA:** Drëttens... si féiert d'Entreprisen zu der richteger nationaler an europäescher Finanzéierung.
-**TOM:** A véiertens... si stäerkt ganz strategesch Secteuren, andeems si d'Wirtschaft an d'Fuerschung verbënnt.
+**ANNA:** Als éischt, et ass Lëtzebuerg seng national Innovatiounsagence, déi den Entreprisen a Startupen hëlleft, z'innovéieren a ze wuessen.
+**TOM:** Zweetens, si bitt Programmer wéi d'Startup-Beschleunegung un an hëlleft bestoenden Firmen, méi digital a méi nohalteg ze ginn.
+**ANNA:** Drëttens, si féiert d'Entreprisen zu der richteger nationaler an europäescher Finanzéierung.
+**TOM:** A véiertens, si stäerkt ganz strategesch Secteuren, andeems si d'Wirtschaft an d'Fuerschung verbënnt.
 **ANNA:** D'Zukunft vun engem Land gëtt vun de Leit opgebaut, déi et woen, nei Saachen ze probéieren.
 **TOM:** A Luxinnovation ass do, fir hinnen ze hëllefen, eng couragéiert Iddi Realitéit ginn ze loossen.
 **ANNA:** Dat war eis Episod iwwer Luxinnovation. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
-**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**TOM:** Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!
 **ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---

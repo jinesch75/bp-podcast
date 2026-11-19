@@ -9,8 +9,8 @@
 **ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
 **ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
-**TOM:** And today we look at how Luxembourg builds its future... through innovation.
-**ANNA:** Innovation simply means finding better ways of doing things... new products, new services, new ideas.
+**TOM:** And today we look at how Luxembourg builds its future: through innovation.
+**ANNA:** Innovation simply means finding better ways of doing things: new products, new services, new ideas.
 **TOM:** It's how a small country stays prosperous, and creates good jobs for the next generation.
 **ANNA:** And there's a national agency whose whole job is to help businesses innovate. It's called Luxinnovation.
 **TOM:** So Anna, what is Luxinnovation?
@@ -20,10 +20,10 @@
 **TOM:** Let's talk about who it actually helps, because it's broader than you might think.
 **ANNA:** It helps big established companies, and small ones, and brand-new startups with just an idea.
 **TOM:** And it connects them with the research world, which we covered in our Research Luxembourg episode.
-**ANNA:** That connection is powerful... turning clever research into real products, services and jobs.
+**ANNA:** That connection is powerful: turning clever research into real products, services and jobs.
 **TOM:** Let's talk about one of its best-known programmes, for new companies.
 **ANNA:** It's a startup acceleration programme, sometimes called Fit 4 Start.
-**TOM:** Since 2015, it has selected promising young startups and given them coaching, support, and early funding to grow... in digital, health technologies, space, and now defence too.
+**TOM:** Since 2015, it has selected promising young startups and given them coaching, support, and early funding to grow — in digital, health technologies, space, and now defence too.
 **ANNA:** For a founder with a great idea but little experience, that support can make all the difference.
 **TOM:** And there are other "Fit" programmes too, helping existing companies improve.
 **ANNA:** For example, to become more digital, or more sustainable.
@@ -33,13 +33,13 @@
 **ANNA:** Luxinnovation helps companies find their way through this maze, and apply for the right support.
 **TOM:** That guidance alone can be the difference between an idea staying on paper, or coming to life.
 **ANNA:** Luxinnovation also works on whole sectors, not just single companies.
-**TOM:** It focuses on strategic areas... like health technologies, clean technologies, digital, materials, space, and food.
+**TOM:** It focuses on strategic areas, like health technologies, clean technologies, digital, materials, space, and food.
 **ANNA:** It brings together companies and researchers in each area, so they can innovate together.
 **TOM:** That teamwork helps build strong, modern industries for the country.
-**ANNA:** Let's step back and ask... why does this matter for an ordinary resident?
-**TOM:** First, because innovation creates jobs... good, future-proof jobs for people here.
+**ANNA:** Let's step back and ask: why does this matter for an ordinary resident?
+**TOM:** First, because innovation creates jobs: good, future-proof jobs for people here.
 **ANNA:** Second, because it diversifies the economy, so the country isn't reliant on just one sector.
-**TOM:** Third, because the products of innovation improve daily life... in health, energy, transport and more.
+**TOM:** Third, because the products of innovation improve daily life: in health, energy, transport and more.
 **ANNA:** And fourth, because a thriving, modern economy funds the public services we all rely on.
 **TOM:** So even if you never start a company, its work touches your future.
 **ANNA:** And if you do dream of starting something, this is a door worth knocking on.
@@ -48,14 +48,14 @@
 **TOM:** Second, if you have an innovative idea, look into the startup acceleration programme.
 **ANNA:** Third, even as a citizen, know that this quiet work is building the jobs and industries of tomorrow.
 **TOM:** Let's bring it together. What should people remember about Luxinnovation?
-**ANNA:** First... it's Luxembourg's national innovation agency, helping companies and startups innovate and grow.
-**TOM:** Second... it offers programmes like startup acceleration, and helps existing firms become more digital and sustainable.
-**ANNA:** Third... it guides companies to the right national and European funding.
-**TOM:** And fourth... it strengthens whole strategic sectors by connecting business and research.
+**ANNA:** First, it's Luxembourg's national innovation agency, helping companies and startups innovate and grow.
+**TOM:** Second, it offers programmes like startup acceleration, and helps existing firms become more digital and sustainable.
+**ANNA:** Third, it guides companies to the right national and European funding.
+**TOM:** And fourth, it strengthens whole strategic sectors by connecting business and research.
 **ANNA:** A country's future is built by the people who dare to try new things.
 **TOM:** And Luxinnovation is there to help them turn a bold idea into reality.
 **ANNA:** That was our episode about Luxinnovation. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
-**TOM:** Thank you, everyone. Take care... and see you next time!
+**TOM:** Thank you, everyone. Take care, and see you next time!
 **ANNA:** Thank you so much for listening.
 
 ---
