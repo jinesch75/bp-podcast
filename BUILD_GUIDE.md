@@ -481,3 +481,7 @@ Jacques: avoid Luxembourgish terms (badly pronounced) → EN/FR/DE spoken lines 
 ## Space agency (19 Nov 2026)
 
 "..." pauses removed (10/language; EN 6 colons/dashes by hand), voice QC + retakes (EN 5, FR 2, DE 3). ≈ 4,000 credits.
+
+## European funds (19 Nov 2026)
+
+Jacques: "integration" → "living together" (Tom's AMIF line, summary line; official fund name "Asylum, Migration and Integration Fund" kept); FEDER amount ("around twenty-one million euros") removed — no amounts for the other funds, avoids stale figures. `build/apply_fondseuropeens_2026_11.py` (EN/FR/DE/LB). "..." pauses removed (18/language; EN 9 colons/dashes by hand), voice QC + retakes (EN 0, FR 10, DE 5). ≈ 10,000 credits.

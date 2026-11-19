@@ -9,30 +9,30 @@
 **ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
 **ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
-**TOM:** And today's topic might sound a little technical at first, but it touches real life... European funds.
+**TOM:** And today's topic might sound a little technical at first, but it touches real life: European funds.
 **ANNA:** Yes. We hear a lot about the European Union. But what does it actually mean, in practice, here in Luxembourg?
 **TOM:** Part of the answer is money. The EU helps pay for useful projects in its member countries.
-**ANNA:** And in Luxembourg, there is an official website and team that manages this... the European Funds, or in French, the "Fonds européens".
+**ANNA:** And in Luxembourg, there is an official website and team that manages this: the European Funds, or in French, the "Fonds européens".
 **TOM:** So Anna, where does this money come from, and what is the idea behind it?
 **ANNA:** The European Union has something called cohesion policy. The idea is to help regions and people develop, fairly, across Europe.
-**TOM:** So richer and less rich regions, big challenges and small ones... the EU invests to help everyone move forward together.
+**TOM:** So richer and less rich regions, big challenges and small ones — the EU invests to help everyone move forward together.
 **ANNA:** And each member country, including Luxembourg, receives a share to spend on agreed goals.
 **TOM:** Let's talk about the main funds, because each one has its own focus.
 **ANNA:** The first is the European Regional Development Fund. People often call it by its French initials, FEDER.
 **TOM:** This one supports things like research, innovation, the digital economy, and the move to cleaner, low-carbon energy.
-**ANNA:** For Luxembourg, in the current period from 2021 to 2027, this fund is around twenty-one million euros. And the next period, from 2028, is already being prepared at European level.
+**ANNA:** For Luxembourg, the current period runs from 2021 to 2027. And the next period, from 2028, is already being prepared at European level.
 **TOM:** The second is the European Social Fund Plus. In French, the FSE Plus.
-**ANNA:** The clue is in the name... social. This fund is about people. Jobs, skills, training, and including people who are left behind.
+**ANNA:** The clue is in the name: social. This fund is about people. Jobs, skills, training, and including people who are left behind.
 **TOM:** It helps with employment and with fighting poverty and exclusion.
-**ANNA:** And there is a third fund worth knowing... the Asylum, Migration and Integration Fund.
-**TOM:** That one supports welcoming and integrating people who come to Luxembourg, including those seeking asylum.
-**ANNA:** There are also funds for internal security and for managing borders. And there is Interreg, which supports cross-border projects with our neighbours... for example in the Greater Region.
+**ANNA:** And there is a third fund worth knowing: the Asylum, Migration and Integration Fund.
+**TOM:** That one supports welcoming people who come to Luxembourg, including those seeking asylum, and living together.
+**ANNA:** There are also funds for internal security and for managing borders. And there is Interreg, which supports cross-border projects with our neighbours, for example in the Greater Region.
 **TOM:** So together, these funds cover the economy, people, inclusion, and safety.
 **ANNA:** Now, an important question. Who decides how this money is spent, and who keeps it honest?
 **TOM:** For each fund, there is what's called a managing authority.
 **ANNA:** A managing authority is the official body responsible for running the programme properly.
 **TOM:** It chooses which projects get support, it manages the money carefully, and it checks the results.
-**ANNA:** The rule that guides them is "sound financial management". In plain words... spend public money wisely and transparently.
+**ANNA:** The rule that guides them is "sound financial management". In plain words: spend public money wisely and transparently.
 **TOM:** Different ministries take on this role, depending on the fund.
 **ANNA:** For example, the fund for asylum and migration is managed by the ministry responsible for family, solidarity and welcoming people.
 **TOM:** So the money is not just handed out. It is planned, managed, and accounted for.
@@ -41,10 +41,10 @@
 **ANNA:** Or a project that helps a company innovate, and create good jobs.
 **TOM:** Or support that helps newcomers learn the language and find their feet.
 **ANNA:** Or investment in cleaner energy and a greener economy.
-**TOM:** These projects are often run by local organisations... associations, companies, public bodies.
+**TOM:** These projects are often run by local organisations: associations, companies, public bodies.
 **ANNA:** And European funds help pay for them, alongside national money. It's called co-financing.
 **TOM:** So the EU rarely pays for everything. It joins forces with Luxembourg to make a project possible.
-**ANNA:** Now, you might be wondering... could I, or an organisation I know, use these funds?
+**ANNA:** Now, you might be wondering: could I, or an organisation I know, use these funds?
 **TOM:** Possibly, yes. The European Funds website explains the goals, the calls for projects, and how to apply.
 **ANNA:** If you run an association, a company, or a public project that fits the goals, you can find out how to take part.
 **TOM:** The website also shows examples of projects that have already been funded, which is inspiring.
@@ -54,18 +54,18 @@
 **TOM:** And because transparency matters. You can see where it goes, and what it achieves.
 **ANNA:** It is a quiet but real example of European solidarity, landing in real projects, in real towns.
 **TOM:** So Anna, let's make it practical. What can someone do with this?
-**ANNA:** First... if you run an organisation or project, check the European Funds website to see if your idea fits.
-**TOM:** Second... look at the funded projects, to understand what kinds of ideas get support.
-**ANNA:** Third... remember the main funds... the regional development fund for the economy, and the social fund for people and jobs.
-**TOM:** And fourth... know that this money is managed carefully, by official authorities, with clear goals.
+**ANNA:** First, if you run an organisation or project, check the European Funds website to see if your idea fits.
+**TOM:** Second, look at the funded projects, to understand what kinds of ideas get support.
+**ANNA:** Third, remember the main funds: the regional development fund for the economy, and the social fund for people and jobs.
+**TOM:** And fourth, know that this money is managed carefully, by official authorities, with clear goals.
 **ANNA:** Let's bring it all together. What should people remember about the European Funds?
-**TOM:** First... the EU invests in member countries through its cohesion policy, and Luxembourg receives a share.
-**ANNA:** Second... the main funds support the economy and innovation, people and jobs, and integration.
-**TOM:** Third... managing authorities choose and oversee projects, spending public money wisely.
-**ANNA:** And fourth... organisations can apply, and everyone can see the projects on the European Funds website.
+**TOM:** First, the EU invests in member countries through its cohesion policy, and Luxembourg receives a share.
+**ANNA:** Second, the main funds support the economy and innovation, people and jobs, and living together.
+**TOM:** Third, managing authorities choose and oversee projects, spending public money wisely.
+**ANNA:** And fourth, organisations can apply, and everyone can see the projects on the European Funds website.
 **TOM:** Europe can feel far away and abstract. But sometimes, it looks like a training course, or a new job, right next door.
 **ANNA:** And understanding that helps us see the value behind the headlines. That was our episode about European funds in Luxembourg. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
-**TOM:** Thank you, everyone. Take care... and see you next time!
+**TOM:** Thank you, everyone. Take care, and see you next time!
 **ANNA:** Thank you so much for listening.
 
 ---
