@@ -27,10 +27,18 @@ def clean_pcm(raw):
             else: regs.append([i,j])
             i=j
         else: i+=1
-    # stray fragment at the end: short (<250 ms), after a pause of >=120 ms, and near the end
-    while len(regs)>1 and regs[-1][1]-regs[-1][0] < 25 and regs[-1][0]-regs[-2][1] >= 12 and n-regs[-1][1] < 8:
+    # stray fragment at the start/end: short, separated by a pause of >=120 ms, at the very edge — AND clearly
+    # quieter than the speech. (2026-11-19: the old rule, "<250 ms + pause", also cut real short words followed by a
+    # comma pause — "And not… every", "Now, …", "Good —", "Anna, …". A real word is spoken at full level; a stray
+    # breath/fragment of the neighbouring sentence is >=8 dB quieter. Set CLEAN_OLD=1 for the old behaviour.)
+    def lvl(r): return float(np.percentile(env[r[0]:r[1]], 90))
+    if os.environ.get("CLEAN_OLD") == "1":
+        quiet = lambda r, ref: True
+    else:
+        quiet = lambda r, ref: lvl(r) < lvl(ref) - 8 or (r[1] - r[0]) < 8
+    while len(regs)>1 and regs[-1][1]-regs[-1][0] < 25 and regs[-1][0]-regs[-2][1] >= 12 and n-regs[-1][1] < 8 and quiet(regs[-1], max(regs[:-1], key=lambda r: r[1]-r[0])):
         regs.pop()
-    while len(regs)>1 and regs[0][1]-regs[0][0] < 25 and regs[1][0]-regs[0][1] >= 12 and regs[0][0] < 8:
+    while len(regs)>1 and regs[0][1]-regs[0][0] < 25 and regs[1][0]-regs[0][1] >= 12 and regs[0][0] < 8 and quiet(regs[0], max(regs[1:], key=lambda r: r[1]-r[0])):
         regs.pop(0)
     a=max(0,regs[0][0]*w-int(SR*0.03)); b=min(len(x),regs[-1][1]*w+int(SR*0.12))
     y=x[a:b].copy()

@@ -9,14 +9,14 @@
 **ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
 **ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
-**TOM:** Und das heutige Thema berührt viele Familien, oft im Stillen... Gedächtnisverlust und Demenz.
-**ANNA:** Da wir immer älter werden, kennen immer mehr von uns jemanden, der betroffen ist... ein Elternteil, einen Großelternteil, einen Partner, einen Freund.
+**TOM:** Und das heutige Thema berührt viele Familien, oft im Stillen. Gedächtnisverlust und Demenz.
+**ANNA:** Da wir immer älter werden, kennen immer mehr von uns jemanden, der betroffen ist, ein Elternteil, einen Großelternteil, einen Partner, einen Freund.
 **TOM:** Und das kann beängstigend und einsam sein, sowohl für die betroffene Person als auch für die, die sie lieben.
 **ANNA:** Aber niemand muss dem allein gegenüberstehen. Luxemburg hat ein nationales Zentrum, das sich genau darum kümmert.
-**TOM:** Es heißt Info-Zenter Demenz... das Informationszentrum für Demenz.
+**TOM:** Es heißt Info-Zenter Demenz, das Informationszentrum für Demenz.
 **ANNA:** Also Tom, was ist der Info-Zenter Demenz?
 **TOM:** Es ist das nationale Zentrum für Information und Beratung zu Gedächtnisproblemen und Demenz.
-**ANNA:** Es ist für alle da, die davon berührt sind... die betroffene Person, ihre Angehörigen, das medizinische Fachpersonal, und jeden, der Fragen hat.
+**ANNA:** Es ist für alle da, die davon berührt sind, die betroffene Person, ihre Angehörigen, das medizinische Fachpersonal, und jeden, der Fragen hat.
 **TOM:** Und hier ist etwas wirklich Wichtiges. All seine Beratung und seine Unterlagen sind kostenlos.
 **ANNA:** So sind die Kosten nie ein Hindernis, um gute Informationen und Unterstützung zu erhalten.
 **TOM:** Lassen Sie uns behutsam darüber sprechen, was Demenz eigentlich ist, denn Verstehen hilft.
@@ -26,7 +26,7 @@
 **TOM:** Wenn Sie sich also Sorgen machen, ist der richtige Schritt nicht, in Panik zu geraten, sondern gute Informationen zu suchen, und eine ordentliche Abklärung.
 **ANNA:** Das Zentrum kann erklären, wie eine Diagnose abläuft, und welche die nächsten Schritte sein können.
 **TOM:** Sprechen wir über die Unterstützung für die betroffene Person.
-**ANNA:** Das Zentrum bietet Orientierung für ein gutes Leben... ruhig bleiben, offen sprechen, und den Alltag anpassen.
+**ANNA:** Das Zentrum bietet Orientierung für ein gutes Leben, ruhig bleiben, offen sprechen, und den Alltag anpassen.
 **TOM:** Es behandelt auch praktische Fragen, wie Arbeit, Autofahren, und die Planung der Zukunft.
 **ANNA:** Denn eine Diagnose ist nicht das Ende eines erfüllten Lebens. Mit Unterstützung können Menschen lange gut leben.
 **TOM:** Und es gibt ebenso viel Fürsorge für die Angehörigen, die Menschen, die helfen und begleiten.
@@ -34,13 +34,13 @@
 **TOM:** Das Zentrum hilft den Angehörigen, auch auf ihre eigene Gesundheit zu achten, und nicht alles allein zu tragen.
 **ANNA:** Es kann Sie zu mehr als hundert Diensten, Selbsthilfegruppen, und Partnern im ganzen Land weiterleiten.
 **TOM:** Es gibt sogar einen Schwerpunkt auf Vorbeugung, was echte Hoffnung gibt.
-**ANNA:** Ja. Gesund leben... aktiv bleiben, sich gut ernähren, den Geist und das soziale Leben beschäftigt halten... kann das Risiko verringern.
+**ANNA:** Ja. Gesund leben, aktiv bleiben, sich gut ernähren, den Geist und das soziale Leben beschäftigt halten, kann das Risiko verringern.
 **TOM:** Es ist keine Garantie, aber was gut für das Herz ist, ist auch gut für das Gehirn.
 **ANNA:** Das Zentrum veranstaltet Vorträge, Veranstaltungen und Sensibilisierungskampagnen, und es gibt auch ein nationales Demenz-Präventionsprogramm.
 **TOM:** Es gibt also Wissen, Unterstützung und Hoffnung, alles an einem einladenden Ort.
 **ANNA:** Sagen wir ein behutsames Wort darüber, Hilfe zu suchen, denn das ist ein heikles Thema.
 **TOM:** Wenn Sie sich um sich selbst Sorgen machen, oder um einen Menschen, den Sie lieben, ist es ein Zeichen von Stärke, nach Informationen zu fragen, nicht von Schwäche.
-**ANNA:** Und das Zentrum zu kontaktieren ist einfach... telefonisch, per E-Mail, über ihre Webseite, oder vor Ort in Luxemburg-Stadt, und manchmal auch in anderen Städten.
+**ANNA:** Und das Zentrum zu kontaktieren ist einfach, telefonisch, per E-Mail, über ihre Webseite, oder vor Ort in Luxemburg-Stadt, und manchmal auch in anderen Städten.
 **TOM:** Sie sind da, um zuzuhören, um zu informieren, und um Ihnen zu helfen, Ihren Weg zu finden.
 **ANNA:** Machen wir es praktisch. Was können die Menschen daraus mitnehmen?
 **TOM:** Erstens, wenn Sie sich Sorgen um das Gedächtnis machen, holen Sie sich früh gute Informationen, und eine ordentliche Abklärung.
@@ -48,16 +48,16 @@
 **TOM:** Drittens, ein gesundes Leben hilft, das Gehirn zu schützen, also ist es nie zu früh, auf sich selbst zu achten.
 **ANNA:** Und viertens, denken Sie daran, dass die Hilfe des Zentrums landesweit ist, und dass sie kostenlos ist.
 **TOM:** Bringen wir es zusammen. Was sollten sich die Menschen über den Info-Zenter Demenz merken?
-**ANNA:** Erstens... es ist Luxemburgs nationales Zentrum für Information und Beratung zu Gedächtnisproblemen und Demenz.
-**TOM:** Zweitens... es unterstützt die Betroffenen, ihre Angehörigen, und die Fachleute, und seine Leistungen sind kostenlos.
-**ANNA:** Drittens... es erklärt die Diagnose, hilft den Menschen, gut zu leben, und unterstützt auch die Pflegenden.
-**TOM:** Und viertens... es fördert die Vorbeugung, denn ein gesundes Leben senkt das Risiko.
+**ANNA:** Erstens, es ist Luxemburgs nationales Zentrum für Information und Beratung zu Gedächtnisproblemen und Demenz.
+**TOM:** Zweitens, es unterstützt die Betroffenen, ihre Angehörigen, und die Fachleute, und seine Leistungen sind kostenlos.
+**ANNA:** Drittens, es erklärt die Diagnose, hilft den Menschen, gut zu leben, und unterstützt auch die Pflegenden.
+**TOM:** Und viertens, es fördert die Vorbeugung, denn ein gesundes Leben senkt das Risiko.
 **ANNA:** Demenz kann sich wie ein beängstigendes Wort anfühlen. Aber Wissen, Unterstützung und Freundlichkeit verändern alles.
 **TOM:** Und in Luxemburg hat diese Unterstützung eine warme und offene Tür.
 **ANNA:** Das war ein sensibles Thema, also seien Sie sanft mit sich selbst.
 **TOM:** Und wenn Sie oder ein geliebter Mensch betroffen sind, ist es immer in Ordnung, um Hilfe zu bitten.
 **ANNA:** Das war unsere Folge über das Info-Zenter Demenz. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
-**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**TOM:** Danke an alle. Passen Sie auf sich auf, und bis zum nächsten Mal!
 **ANNA:** Vielen Dank fürs Zuhören.
 
 ---

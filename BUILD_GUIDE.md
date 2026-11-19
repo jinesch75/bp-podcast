@@ -440,3 +440,8 @@ All 16 "..." pauses removed per language (`remove_ellipses.py amenagement`; EN: 
 ## Culture portal (19 Nov 2026)
 
 Scripts ready: all "..." pauses removed (`remove_ellipses.py culture`; EN: 8 colons/dashes by hand). Recorded after the key's limit was raised; voice QC EN/FR/DE + retakes (EN 3, FR 2, DE 2). ≈ 4,300 credits. Live. EN 5:27, FR 5:21, DE 6:07.
+
+## Info-Zenter Demenz + assembly fix (19 Nov 2026)
+
+- Tom's "And not every memory slip is dementia." sounded incomplete ("and not" rushed into ~0.25 s) → "Of course, not every memory slip is dementia." (p(not) 1.00). "..." pauses removed (12 per language; EN 7 colons by hand), voice QC + retakes (EN 3, FR 2 incl. the same line, DE 2). ≈ 5,000 credits.
+- **`rebuild.py` CLEAN fix**: the "stray fragment" rule dropped any short sound (<250 ms) at a sentence edge followed by a ≥120 ms pause — which also removed real short words before a comma pause (found: FR demenz "Oui. Vivre sainement…" lost "Oui."). Now a fragment is only dropped if it is also ≥ 8 dB quieter than the speech (or < 80 ms). `CLEAN_OLD=1` restores the old rule. Other episodes are assembled with the old rule until they are rebuilt (0 credits: `el_run_batch.py <keys> en,fr,de` + `replace_audio_elevenlabs.js`).

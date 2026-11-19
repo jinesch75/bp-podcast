@@ -9,24 +9,24 @@
 **ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
 **ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
-**TOM:** And today's topic touches many families, often quietly... memory loss, and dementia.
-**ANNA:** As people live longer, more of us will know someone affected... a parent, a grandparent, a partner, a friend.
+**TOM:** And today's topic touches many families, often quietly: memory loss, and dementia.
+**ANNA:** As people live longer, more of us will know someone affected: a parent, a grandparent, a partner, a friend.
 **TOM:** And it can be frightening and lonely, both for the person and for those who love them.
 **ANNA:** But no one has to face it alone. Luxembourg has a national centre dedicated to exactly this.
-**TOM:** It's called the Info-Zenter Demenz... the Dementia Information Centre.
+**TOM:** It's called the Info-Zenter Demenz: the Dementia Information Centre.
 **ANNA:** So Tom, what is the Info-Zenter Demenz?
 **TOM:** It is the national centre for information and advice on memory problems and dementia.
-**ANNA:** It's there for everyone touched by this... the person affected, their relatives, health professionals, and anyone with questions.
+**ANNA:** It's there for everyone touched by this: the person affected, their relatives, health professionals, and anyone with questions.
 **TOM:** And here is something really important. All of its advice and its materials are free.
 **ANNA:** So cost is never a barrier to getting good information and support.
 **TOM:** Let's gently talk about what dementia actually is, because understanding helps.
 **ANNA:** Dementia is not a normal part of getting old. It's a condition that affects memory, thinking and daily life.
-**TOM:** And not every memory slip is dementia. We all forget a name or where we put the keys.
+**TOM:** Of course, not every memory slip is dementia. We all forget a name or where we put the keys.
 **ANNA:** That's a key message from the centre. There's a difference between ordinary memory lapses and dementia.
 **TOM:** So if you're worried, the right step is not to panic, but to seek good information, and a proper assessment.
 **ANNA:** The centre can explain how a diagnosis works, and what the next steps can be.
 **TOM:** Let's talk about the support for the person who is affected.
-**ANNA:** The centre offers guidance on living well... staying calm, talking openly, and adapting daily life.
+**ANNA:** The centre offers guidance on living well: staying calm, talking openly, and adapting daily life.
 **TOM:** It covers practical questions too, like work, driving, and planning for the future.
 **ANNA:** Because a diagnosis is not the end of a meaningful life. With support, people can live well for a long time.
 **TOM:** And there's just as much care for the relatives, the people who help and accompany.
@@ -34,13 +34,13 @@
 **TOM:** The centre helps relatives look after their own health too, and not to carry everything alone.
 **ANNA:** It can point you to more than a hundred services, support groups, and partners across the country.
 **TOM:** There's even a focus on prevention, which gives real hope.
-**ANNA:** Yes. Living healthily... staying active, eating well, keeping the mind and social life busy... can reduce the risk.
+**ANNA:** Yes. Living healthily, staying active, eating well, and keeping the mind and social life busy can reduce the risk.
 **TOM:** It's not a guarantee, but the things that are good for the heart are also good for the brain.
 **ANNA:** The centre runs talks, events and awareness campaigns, and there's a national dementia prevention programme too.
 **TOM:** So there's knowledge, support, and hope, all in one welcoming place.
 **ANNA:** Let's say a gentle word about reaching out, because this is a tender subject.
 **TOM:** If you're worried about yourself, or someone you love, asking for information is a sign of strength, not weakness.
-**ANNA:** And contacting the centre is simple... by phone, by email, through their website, or in person in Luxembourg City, and sometimes in other towns.
+**ANNA:** And contacting the centre is simple: by phone, by email, through their website, or in person in Luxembourg City, and sometimes in other towns.
 **TOM:** They are there to listen, to inform, and to help you find your way.
 **ANNA:** Let's make it practical. What can people take from this?
 **TOM:** First, if you have worries about memory, get good information early, and a proper assessment.
@@ -48,16 +48,16 @@
 **TOM:** Third, healthy living helps protect the brain, so it's never too early to take care of yourself.
 **ANNA:** And fourth, remember the centre's help is national, and it's free.
 **TOM:** Let's bring it together. What should people remember about the Info-Zenter Demenz?
-**ANNA:** First... it's Luxembourg's national centre for information and advice on memory problems and dementia.
-**TOM:** Second... it supports those affected, their relatives, and professionals, and its services are free.
-**ANNA:** Third... it explains diagnosis, helps people live well, and supports the carers too.
-**TOM:** And fourth... it promotes prevention, because a healthy life lowers the risk.
+**ANNA:** First, it's Luxembourg's national centre for information and advice on memory problems and dementia.
+**TOM:** Second, it supports those affected, their relatives, and professionals, and its services are free.
+**ANNA:** Third, it explains diagnosis, helps people live well, and supports the carers too.
+**TOM:** And fourth, it promotes prevention, because a healthy life lowers the risk.
 **ANNA:** Dementia can feel like a frightening word. But knowledge, support and kindness change everything.
 **TOM:** And in Luxembourg, that support has a warm and open door.
 **ANNA:** This was a sensitive topic, so please be gentle with yourself.
 **TOM:** And if you or someone you love is affected, reaching out for help is always okay.
 **ANNA:** That was our episode about the Info-Zenter Demenz. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
-**TOM:** Thank you, everyone. Take care... and see you next time!
+**TOM:** Thank you, everyone. Take care, and see you next time!
 **ANNA:** Thank you so much for listening.
 
 ---

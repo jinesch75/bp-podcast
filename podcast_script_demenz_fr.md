@@ -9,14 +9,14 @@
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
 **ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
-**TOM:** Et le sujet d'aujourd'hui touche beaucoup de familles, souvent en silence... les pertes de mémoire, et la démence.
-**ANNA:** Comme nous vivons plus longtemps, nous serons de plus en plus nombreux à connaître quelqu'un de concerné... un parent, un grand-parent, un conjoint, un ami.
+**TOM:** Et le sujet d'aujourd'hui touche beaucoup de familles, souvent en silence, les pertes de mémoire, et la démence.
+**ANNA:** Comme nous vivons plus longtemps, nous serons de plus en plus nombreux à connaître quelqu'un de concerné, un parent, un grand-parent, un conjoint, un ami.
 **TOM:** Et cela peut être effrayant et solitaire, à la fois pour la personne et pour ceux qui l'aiment.
 **ANNA:** Mais personne ne doit y faire face seul. Le Luxembourg dispose d'un centre national dédié précisément à cela.
-**TOM:** Il s'appelle l'Info-Zenter Demenz... le Centre d'information sur la démence.
+**TOM:** Il s'appelle l'Info-Zenter Demenz, le Centre d'information sur la démence.
 **ANNA:** Alors Tom, qu'est-ce que l'Info-Zenter Demenz ?
 **TOM:** C'est le centre national d'information et de conseil sur les troubles de la mémoire et la démence.
-**ANNA:** Il est là pour toutes les personnes concernées... la personne touchée, ses proches, les professionnels de santé, et toute personne qui se pose des questions.
+**ANNA:** Il est là pour toutes les personnes concernées, la personne touchée, ses proches, les professionnels de santé, et toute personne qui se pose des questions.
 **TOM:** Et voici quelque chose de vraiment important. Tous ses conseils et tous ses documents sont gratuits.
 **ANNA:** Ainsi, le coût n'est jamais un obstacle pour obtenir une bonne information et un bon soutien.
 **TOM:** Parlons doucement de ce qu'est réellement la démence, car comprendre, cela aide.
@@ -26,7 +26,7 @@
 **TOM:** Donc, si vous êtes inquiet, la bonne démarche n'est pas de paniquer, mais de chercher une bonne information, et un bilan approprié.
 **ANNA:** Le centre peut expliquer comment se déroule un diagnostic, et quelles peuvent être les étapes suivantes.
 **TOM:** Parlons du soutien apporté à la personne concernée.
-**ANNA:** Le centre offre des conseils pour bien vivre... rester calme, parler ouvertement, et adapter la vie quotidienne.
+**ANNA:** Le centre offre des conseils pour bien vivre, rester calme, parler ouvertement, et adapter la vie quotidienne.
 **TOM:** Il aborde aussi des questions pratiques, comme le travail, la conduite, et la préparation de l'avenir.
 **ANNA:** Car un diagnostic n'est pas la fin d'une vie qui a du sens. Avec du soutien, on peut bien vivre pendant longtemps.
 **TOM:** Et il y a tout autant d'attention pour les proches, les personnes qui aident et qui accompagnent.
@@ -34,13 +34,13 @@
 **TOM:** Le centre aide les proches à prendre soin de leur propre santé aussi, et à ne pas tout porter seuls.
 **ANNA:** Il peut vous orienter vers plus d'une centaine de services, des groupes de soutien, et des partenaires partout dans le pays.
 **TOM:** Il y a même un accent mis sur la prévention, ce qui donne un véritable espoir.
-**ANNA:** Oui. Vivre sainement... rester actif, bien manger, garder l'esprit et la vie sociale occupés... peut réduire le risque.
+**ANNA:** Oui. Vivre sainement, rester actif, bien manger, garder l'esprit et la vie sociale occupés, peut réduire le risque.
 **TOM:** Ce n'est pas une garantie, mais ce qui est bon pour le cœur est aussi bon pour le cerveau.
 **ANNA:** Le centre organise des conférences, des événements et des campagnes de sensibilisation, et il existe aussi un programme national de prévention de la démence.
 **TOM:** Il y a donc du savoir, du soutien et de l'espoir, le tout dans un même lieu accueillant.
 **ANNA:** Disons un mot tout en douceur sur le fait de demander de l'aide, car c'est un sujet délicat.
 **TOM:** Si vous êtes inquiet pour vous-même, ou pour une personne que vous aimez, demander des informations est un signe de force, pas de faiblesse.
-**ANNA:** Et contacter le centre est simple... par téléphone, par e-mail, via leur site internet, ou sur place à Luxembourg-Ville, et parfois dans d'autres villes.
+**ANNA:** Et contacter le centre est simple, par téléphone, par e-mail, via leur site internet, ou sur place à Luxembourg-Ville, et parfois dans d'autres villes.
 **TOM:** Ils sont là pour écouter, pour informer, et pour vous aider à trouver votre chemin.
 **ANNA:** Rendons cela concret. Que peut-on retenir de tout cela ?
 **TOM:** Premièrement, si vous avez des inquiétudes concernant la mémoire, cherchez une bonne information tôt, et faites un bilan approprié.
@@ -48,16 +48,16 @@
 **TOM:** Troisièmement, une vie saine aide à protéger le cerveau, donc il n'est jamais trop tôt pour prendre soin de soi.
 **ANNA:** Et quatrièmement, rappelez-vous que l'aide du centre est nationale, et qu'elle est gratuite.
 **TOM:** Récapitulons ensemble. Que faut-il retenir de l'Info-Zenter Demenz ?
-**ANNA:** Premièrement... c'est le centre national du Luxembourg pour l'information et le conseil sur les troubles de la mémoire et la démence.
-**TOM:** Deuxièmement... il soutient les personnes touchées, leurs proches, et les professionnels, et ses services sont gratuits.
-**ANNA:** Troisièmement... il explique le diagnostic, aide les gens à bien vivre, et soutient aussi les aidants.
-**TOM:** Et quatrièmement... il fait la promotion de la prévention, car une vie saine réduit le risque.
+**ANNA:** Premièrement, c'est le centre national du Luxembourg pour l'information et le conseil sur les troubles de la mémoire et la démence.
+**TOM:** Deuxièmement, il soutient les personnes touchées, leurs proches, et les professionnels, et ses services sont gratuits.
+**ANNA:** Troisièmement, il explique le diagnostic, aide les gens à bien vivre, et soutient aussi les aidants.
+**TOM:** Et quatrièmement, il fait la promotion de la prévention, car une vie saine réduit le risque.
 **ANNA:** La démence peut sembler un mot effrayant. Mais le savoir, le soutien et la bienveillance changent tout.
 **TOM:** Et au Luxembourg, ce soutien a une porte chaleureuse et ouverte.
 **ANNA:** C'était un sujet sensible, alors soyez doux avec vous-même.
 **TOM:** Et si vous ou une personne que vous aimez êtes concernés, demander de l'aide est toujours une bonne chose.
 **ANNA:** C'était notre épisode sur l'Info-Zenter Demenz. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
-**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**TOM:** Merci à tous. Prenez soin de vous, et à la prochaine !
 **ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---
