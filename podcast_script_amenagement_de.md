@@ -9,11 +9,11 @@
 **ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
 **ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
-**TOM:** Und das heutige Thema prägt das Land, das Sie jeden Tag um sich herum sehen... den Boden.
+**TOM:** Und das heutige Thema prägt das Land, das Sie jeden Tag um sich herum sehen, den Boden.
 **ANNA:** Wo neue Wohnungen gebaut werden, wo Straßen und Straßenbahnen verlaufen, wo die Natur geschützt wird, wo sich Unternehmen ansiedeln können.
 **TOM:** Luxemburg ist ein kleines Land. Boden ist kostbar, und es gibt nur begrenzt davon.
 **ANNA:** Wie entscheidet man also, was wohin kommt, gerecht, für alle, und für die Zukunft?
-**TOM:** Dieser sorgfältige Balanceakt hat einen Namen... Raumordnung. Auf Französisch „l'aménagement du territoire".
+**TOM:** Dieser sorgfältige Balanceakt hat einen Namen. Raumordnung. Auf Französisch „l'aménagement du territoire".
 **ANNA:** Und dafür gibt es ein offizielles Portal, sowie eine Abteilung des Staates, die es leitet.
 **TOM:** Also Anna, was genau ist Raumordnung?
 **ANNA:** Es ist die Gesamtheit der Maßnahmen, die der Staat und die Gemeinden ergreifen, um das nationale Gebiet klug zu entwickeln.
@@ -24,42 +24,42 @@
 **TOM:** Sie wird von der Abteilung für Landesplanung geleitet, die zum Ministerium für Wohnungsbau und Landesplanung gehört.
 **ANNA:** Schauen wir uns die wichtigsten Instrumente an, denn sie sind leichter zu verstehen, als ihr Name vermuten lässt.
 **TOM:** Das erste ist das Leitprogramm, eine große strategische Vision dafür, wie sich das ganze Land entwickeln soll. Das aktuelle wurde 2023 verabschiedet und blickt bis 2035.
-**ANNA:** Es gibt die Richtung vor... kompaktere Städte, geschützte Natur, guter Verkehr, ausgewogene Regionen.
+**ANNA:** Es gibt die Richtung vor, kompaktere Städte, geschützte Natur, guter Verkehr, ausgewogene Regionen.
 **TOM:** Das zweite Instrument ist eine Reihe sektoraler Leitpläne.
 **ANNA:** Diese sind konkreter. Es gibt Pläne für den Verkehr, für das Wohnen, für wirtschaftliche Aktivitätszonen und für die Landschaften.
 **TOM:** Ein Wohnungsplan zum Beispiel reserviert Flächen, auf denen neue Wohnungen konzentriert werden sollen.
 **ANNA:** Und ein Landschaftsplan schützt Grünflächen davor, bebaut zu werden.
 **TOM:** Diese Pläne entscheiden also auf koordinierte Weise, wofür der Boden bestimmt ist.
-**ANNA:** Es gibt hier einen wichtigen Gedanken... dort bauen, wo es sinnvoll ist.
+**ANNA:** Es gibt hier einen wichtigen Gedanken, dort bauen, wo es sinnvoll ist.
 **TOM:** Ja. Wohnen und Aktivität in der Nähe von Verkehr und Diensten konzentrieren, anstatt sich überallhin auszubreiten.
 **ANNA:** Das schützt das Land, verringert den Verkehr und macht das tägliche Leben einfacher.
 **TOM:** Raumordnung denkt auch in Regionen, nicht nur in Bezug auf das ganze Land.
-**ANNA:** Verschiedene Regionen haben unterschiedliche Stärken und Bedürfnisse... der Süden, das Zentrum, der Norden, der Osten.
+**ANNA:** Verschiedene Regionen haben unterschiedliche Stärken und Bedürfnisse, der Süden, das Zentrum, der Norden, der Osten.
 **TOM:** Es gibt städtische Projekte und sogar Naturparks, die schöne Regionen schützen und sie zugleich lebendig halten.
 **ANNA:** Und weil Luxemburg klein und zentral gelegen ist, hört die Planung nicht an der Grenze auf.
-**TOM:** Richtig. So viel vom Leben hier überschreitet Grenzen... Arbeit, Verkehr, der Druck auf den Wohnungsmarkt.
+**TOM:** Richtig. So viel vom Leben hier überschreitet Grenzen. Arbeit, Verkehr, der Druck auf den Wohnungsmarkt.
 **ANNA:** Luxemburg plant also gemeinsam mit seinen Nachbarn, in der Großregion, und über europäische Programme.
 **TOM:** Denn eine Straßenbahnlinie, ein Wald oder ein Fluss kümmert sich nicht um eine Grenze auf einer Karte.
-**ANNA:** Stellen wir die entscheidende Frage... warum sollte sich ein gewöhnlicher Einwohner um all das kümmern?
-**TOM:** Erstens, weil es Ihr tägliches Leben prägt... Ihren Arbeitsweg, Ihre Grünflächen, ob in Ihrer Nähe Wohnraum gebaut wird.
-**ANNA:** Zweitens, weil es das schützt, was wir lieben... Landschaften, Natur, den Charakter unserer Städte und Dörfer.
-**TOM:** Und drittens, weil es um Gerechtigkeit zwischen den Generationen geht... unseren Kindern ein lebenswertes Land zu hinterlassen.
+**ANNA:** Stellen wir die entscheidende Frage, warum sollte sich ein gewöhnlicher Einwohner um all das kümmern?
+**TOM:** Erstens, weil es Ihr tägliches Leben prägt. Ihren Arbeitsweg, Ihre Grünflächen, ob in Ihrer Nähe Wohnraum gebaut wird.
+**ANNA:** Zweitens, weil es das schützt, was wir lieben. Landschaften, Natur, den Charakter unserer Städte und Dörfer.
+**TOM:** Und drittens, weil es um Gerechtigkeit zwischen den Generationen geht, unseren Kindern ein lebenswertes Land zu hinterlassen.
 **ANNA:** Es gibt auch eine Rolle für die Bürger. Große Pläne durchlaufen oft eine öffentliche Konsultation.
 **TOM:** Sie können sich also informieren und manchmal Ihre Meinung äußern, wenn ein Plan Ihre Gegend betrifft.
 **ANNA:** Das Portal veröffentlicht die Pläne, die Strategie und die Neuigkeiten, offen zugänglich.
 **TOM:** Also Anna, machen wir es praktisch. Was können die Menschen daraus mitnehmen?
 **ANNA:** Erstens, wenn Sie von einer neuen Wohnzone, einem Verkehrsplan oder einem Schutzgebiet hören, werden Sie das größere Bild verstehen.
 **TOM:** Zweitens, wenn ein Plan Ihre Gemeinde betrifft, achten Sie auf öffentliche Konsultationen und sagen Sie Ihre Meinung.
-**ANNA:** Drittens, denken Sie daran, dass das Ziel das Gleichgewicht ist... Wohnungen, Arbeitsplätze, Verkehr und Natur, die alle zusammen bestehen.
+**ANNA:** Drittens, denken Sie daran, dass das Ziel das Gleichgewicht ist. Wohnungen, Arbeitsplätze, Verkehr und Natur, die alle zusammen bestehen.
 **TOM:** Fassen wir es zusammen. Was sollten sich die Menschen über die Raumordnung merken?
-**ANNA:** Erstens... so planen der Staat und die Gemeinden langfristig die Nutzung des begrenzten Bodens Luxemburgs.
-**TOM:** Zweitens... sie nutzt eine nationale Strategie und sektorale Pläne für Verkehr, Wohnen, Wirtschaft und Landschaften.
-**ANNA:** Drittens... sie wirkt über Regionen und über Grenzen hinweg, weil das Leben hier es auch tut.
-**TOM:** Und viertens... sie prägt Ihr tägliches Umfeld, deshalb lohnt es sich, sie zu verfolgen und sich daran zu beteiligen.
+**ANNA:** Erstens, so planen der Staat und die Gemeinden langfristig die Nutzung des begrenzten Bodens Luxemburgs.
+**TOM:** Zweitens, sie nutzt eine nationale Strategie und sektorale Pläne für Verkehr, Wohnen, Wirtschaft und Landschaften.
+**ANNA:** Drittens, sie wirkt über Regionen und über Grenzen hinweg, weil das Leben hier es auch tut.
+**TOM:** Und viertens, sie prägt Ihr tägliches Umfeld, deshalb lohnt es sich, sie zu verfolgen und sich daran zu beteiligen.
 **ANNA:** Das Land, das wir weitergeben, ist kein Zufall. Es ist die Summe unzähliger sorgfältiger Entscheidungen über den Boden.
 **TOM:** Und gute Planung ist die Art und Weise, wie wir diese Entscheidungen klug treffen, gemeinsam.
 **ANNA:** Das war unsere Folge über die Raumplanung. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
-**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**TOM:** Danke an alle. Passen Sie auf sich auf, und bis zum nächsten Mal!
 **ANNA:** Vielen Dank fürs Zuhören.
 
 ---

@@ -9,11 +9,11 @@
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
 **ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
-**TOM:** Et le sujet d'aujourd'hui façonne le pays que vous voyez autour de vous chaque jour... le sol.
+**TOM:** Et le sujet d'aujourd'hui façonne le pays que vous voyez autour de vous chaque jour, le sol.
 **ANNA:** Là où l'on construit de nouveaux logements, où passent les routes et les trams, où la nature est protégée, où les entreprises peuvent s'installer.
 **TOM:** Le Luxembourg est un petit pays. Le sol est précieux, et il y en a une quantité limitée.
 **ANNA:** Alors comment décide-t-on de ce qui va où, de manière équitable, pour tout le monde, et pour l'avenir ?
-**TOM:** Cet exercice d'équilibre minutieux porte un nom... l'aménagement du territoire. En français, « l'aménagement du territoire ».
+**TOM:** Cet exercice d'équilibre minutieux porte un nom, l'aménagement du territoire. En français, « l'aménagement du territoire ».
 **ANNA:** Et il existe un portail officiel à ce sujet, ainsi qu'un département de l'État qui le pilote.
 **TOM:** Alors Anna, qu'est-ce que l'aménagement du territoire au juste ?
 **ANNA:** C'est l'ensemble des actions menées par l'État et les communes pour développer le territoire national, de manière réfléchie.
@@ -24,42 +24,42 @@
 **TOM:** Il est piloté par le Département de l'aménagement du territoire, qui fait partie du Ministère du Logement et de l'Aménagement du territoire.
 **ANNA:** Regardons les principaux outils, car ils sont plus faciles à saisir que leur nom ne le laisse penser.
 **TOM:** Le premier est le programme directeur, une grande vision stratégique de la façon dont l'ensemble du pays devrait se développer. L'actuel a été adopté en 2023, et regarde jusqu'en 2035.
-**ANNA:** Il fixe le cap... des villes plus compactes, une nature protégée, de bons transports, des régions équilibrées.
+**ANNA:** Il fixe le cap, des villes plus compactes, une nature protégée, de bons transports, des régions équilibrées.
 **TOM:** Le deuxième outil est un ensemble de plans directeurs sectoriels.
 **ANNA:** Ceux-ci sont plus concrets. Il y a des plans pour les transports, pour le logement, pour les zones d'activités économiques, et pour les paysages.
 **TOM:** Par exemple, un plan logement réserve des terrains où les nouveaux logements devraient être concentrés.
 **ANNA:** Et un plan paysage protège les espaces verts contre la construction.
 **TOM:** Ainsi, ces plans décident, de manière coordonnée, à quoi le sol est destiné.
-**ANNA:** Il y a ici une idée importante... construire là où cela a du sens.
+**ANNA:** Il y a ici une idée importante, construire là où cela a du sens.
 **TOM:** Oui. Concentrer les logements et les activités près des transports et des services, au lieu de s'étaler partout.
 **ANNA:** Cela protège la campagne, réduit le trafic, et facilite la vie quotidienne.
 **TOM:** L'aménagement du territoire pense aussi en termes de régions, pas seulement du pays tout entier.
-**ANNA:** Différentes régions ont des atouts et des besoins différents... le sud, le centre, le nord, l'est.
+**ANNA:** Différentes régions ont des atouts et des besoins différents, le sud, le centre, le nord, l'est.
 **TOM:** Il y a des projets urbains, et même des parcs naturels, qui protègent de belles régions tout en les maintenant vivantes.
 **ANNA:** Et parce que le Luxembourg est petit et central, la planification ne s'arrête pas à la frontière.
-**TOM:** En effet. Une grande partie de la vie ici traverse les frontières... le travail, les transports, la pression sur le logement.
+**TOM:** En effet. Une grande partie de la vie ici traverse les frontières, le travail, les transports, la pression sur le logement.
 **ANNA:** Le Luxembourg planifie donc avec ses voisins, dans la Grande Région, et à travers des programmes européens.
 **TOM:** Parce qu'une ligne de tram, une forêt ou une rivière ne se soucie pas d'une frontière sur une carte.
-**ANNA:** Posons la question essentielle... pourquoi un résident ordinaire devrait-il se soucier de tout cela ?
-**TOM:** D'abord, parce que cela façonne votre vie quotidienne... vos trajets, vos espaces verts, le fait que des logements soient construits ou non près de chez vous.
-**ANNA:** Ensuite, parce que cela protège ce que nous aimons... les paysages, la nature, le caractère de nos villes et villages.
-**TOM:** Et enfin, parce qu'il s'agit d'équité entre les générations... laisser un pays vivable à nos enfants.
+**ANNA:** Posons la question essentielle, pourquoi un résident ordinaire devrait-il se soucier de tout cela ?
+**TOM:** D'abord, parce que cela façonne votre vie quotidienne, vos trajets, vos espaces verts, le fait que des logements soient construits ou non près de chez vous.
+**ANNA:** Ensuite, parce que cela protège ce que nous aimons, les paysages, la nature, le caractère de nos villes et villages.
+**TOM:** Et enfin, parce qu'il s'agit d'équité entre les générations, laisser un pays vivable à nos enfants.
 **ANNA:** Il y a aussi un rôle pour les citoyens. Les grands plans passent souvent par une consultation publique.
 **TOM:** Vous pouvez donc vous informer, et parfois donner votre avis, lorsqu'un plan concerne votre région.
 **ANNA:** Le portail publie les plans, la stratégie et les actualités, de manière ouverte.
 **TOM:** Alors Anna, rendons cela concret. Que peut-on retenir de tout cela ?
 **ANNA:** D'abord, quand vous entendrez parler d'une nouvelle zone de logement, d'un plan de transport ou d'une zone protégée, vous comprendrez la vue d'ensemble.
 **TOM:** Ensuite, si un plan touche votre commune, soyez attentif aux consultations publiques et faites entendre votre voix.
-**ANNA:** Enfin, souvenez-vous que l'objectif est l'équilibre... les logements, les emplois, les transports et la nature, vivant tous ensemble.
+**ANNA:** Enfin, souvenez-vous que l'objectif est l'équilibre, les logements, les emplois, les transports et la nature, vivant tous ensemble.
 **TOM:** Faisons la synthèse. Que faut-il retenir de l'aménagement du territoire ?
-**ANNA:** Premièrement... c'est la façon dont l'État et les communes planifient l'utilisation du sol limité du Luxembourg, sur le long terme.
-**TOM:** Deuxièmement... il s'appuie sur une stratégie nationale et des plans sectoriels pour les transports, le logement, l'économie et les paysages.
-**ANNA:** Troisièmement... il fonctionne à travers les régions et au-delà des frontières, parce que la vie ici fait de même.
-**TOM:** Et quatrièmement... il façonne votre cadre de vie quotidien, alors il vaut la peine de le suivre et d'y participer.
+**ANNA:** Premièrement, c'est la façon dont l'État et les communes planifient l'utilisation du sol limité du Luxembourg, sur le long terme.
+**TOM:** Deuxièmement, il s'appuie sur une stratégie nationale et des plans sectoriels pour les transports, le logement, l'économie et les paysages.
+**ANNA:** Troisièmement, il fonctionne à travers les régions et au-delà des frontières, parce que la vie ici fait de même.
+**TOM:** Et quatrièmement, il façonne votre cadre de vie quotidien, alors il vaut la peine de le suivre et d'y participer.
 **ANNA:** Le pays que nous transmettons n'est pas le fruit du hasard. C'est la somme d'innombrables choix réfléchis sur le sol.
 **TOM:** Et une bonne planification, c'est la façon dont nous faisons ces choix avec sagesse, ensemble.
 **ANNA:** C'était notre épisode sur l'aménagement du territoire. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
-**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**TOM:** Merci à tous. Prenez soin de vous, et à la prochaine !
 **ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---

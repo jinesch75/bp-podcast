@@ -9,11 +9,11 @@
 **ANNA:** Hello, and welcome! It's really nice to have you with us today.
 **TOM:** Hello everyone!
 **ANNA:** This podcast is part of the Biergerpakt. That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.
-**TOM:** And today's topic shapes the country you see around you every day... land.
+**TOM:** And today's topic shapes the country you see around you every day: land.
 **ANNA:** Where new homes are built, where roads and trams go, where nature is protected, where companies can set up.
 **TOM:** Luxembourg is a small country. Land is precious, and there is only so much of it.
 **ANNA:** So how do you decide what goes where, fairly, for everyone, and for the future?
-**TOM:** That careful balancing act has a name... spatial planning. In French, "l'aménagement du territoire".
+**TOM:** That careful balancing act has a name: spatial planning. In French, "l'aménagement du territoire".
 **ANNA:** And there is an official portal for it, and a department of the State that leads it.
 **TOM:** So Anna, what exactly is spatial planning?
 **ANNA:** It is the set of actions taken by the State and the communes to develop the national territory, wisely.
@@ -24,42 +24,42 @@
 **TOM:** It's led by the Department of Spatial Planning, part of the Ministry of Housing and Spatial Planning.
 **ANNA:** Let's look at the main tools, because they're easier to grasp than they sound.
 **TOM:** The first is the master programme, a big strategic vision for how the whole country should develop. The current one was adopted in 2023, and looks ahead to 2035.
-**ANNA:** It sets the direction... more compact towns, protected nature, good transport, balanced regions.
+**ANNA:** It sets the direction: more compact towns, protected nature, good transport, balanced regions.
 **TOM:** The second tool is a set of sectoral master plans.
 **ANNA:** These are more concrete. There are plans for transport, for housing, for economic activity zones, and for landscapes.
 **TOM:** For example, a housing plan reserves land where new homes should be concentrated.
 **ANNA:** And a landscape plan protects green areas from being built over.
 **TOM:** So these plans decide, in a coordinated way, what land is for.
-**ANNA:** There's an important idea here... building where it makes sense.
+**ANNA:** There's an important idea here: building where it makes sense.
 **TOM:** Yes. Concentrating homes and activity near transport and services, instead of spreading out everywhere.
 **ANNA:** That protects the countryside, reduces traffic, and makes daily life easier.
 **TOM:** Spatial planning also thinks in regions, not just the whole country.
-**ANNA:** Different regions have different strengths and needs... the south, the centre, the north, the east.
+**ANNA:** Different regions have different strengths and needs: the south, the centre, the north, the east.
 **TOM:** There are urban projects, and even nature parks, which protect beautiful regions while keeping them alive.
 **ANNA:** And because Luxembourg is small and central, planning doesn't stop at the border.
-**TOM:** Right. So much of life here crosses borders... work, transport, housing pressure.
+**TOM:** Right. So much of life here crosses borders: work, transport, housing pressure.
 **ANNA:** So Luxembourg plans together with its neighbours, in the Greater Region, and through European programmes.
 **TOM:** Because a tram line, a forest, or a river doesn't care about a border on a map.
-**ANNA:** Let's ask the key question... why should an ordinary resident care about all this?
-**TOM:** First, because it shapes your daily life... your commute, your green spaces, whether housing gets built near you.
-**ANNA:** Second, because it protects what we love... landscapes, nature, the character of our towns and villages.
-**TOM:** And third, because it's about fairness between generations... leaving a livable country to our children.
+**ANNA:** Let's ask the key question: why should an ordinary resident care about all this?
+**TOM:** First, because it shapes your daily life: your commute, your green spaces, whether housing gets built near you.
+**ANNA:** Second, because it protects what we love: landscapes, nature, the character of our towns and villages.
+**TOM:** And third, because it's about fairness between generations: leaving a livable country to our children.
 **ANNA:** There's also a role for citizens. Big plans often go through public consultation.
 **TOM:** So you can inform yourself, and sometimes give your view, when a plan affects your area.
 **ANNA:** The portal publishes the plans, the strategy, and the news, openly.
 **TOM:** So Anna, let's make it practical. What can people take from this?
 **ANNA:** First, when you hear about a new housing zone, a transport plan, or a protected area, you'll understand the bigger picture.
 **TOM:** Second, if a plan touches your commune, watch for public consultations and have your say.
-**ANNA:** Third, remember that the goal is balance... homes, jobs, transport and nature, all living together.
+**ANNA:** Third, remember that the goal is balance: homes, jobs, transport and nature, all living together.
 **TOM:** Let's bring it together. What should people remember about spatial planning?
-**ANNA:** First... it's how the State and communes plan the use of Luxembourg's limited land, for the long term.
-**TOM:** Second... it uses a national strategy and sectoral plans for transport, housing, economy and landscapes.
-**ANNA:** Third... it works across regions and across borders, because life here does too.
-**TOM:** And fourth... it shapes your daily surroundings, so it's worth following and taking part in.
+**ANNA:** First, it's how the State and communes plan the use of Luxembourg's limited land, for the long term.
+**TOM:** Second, it uses a national strategy and sectoral plans for transport, housing, economy and landscapes.
+**ANNA:** Third, it works across regions and across borders, because life here does too.
+**TOM:** And fourth, it shapes your daily surroundings, so it's worth following and taking part in.
 **ANNA:** The country we pass on is not an accident. It's the sum of countless careful choices about land.
 **TOM:** And good planning is how we make those choices wisely, together.
 **ANNA:** That was our episode about spatial planning. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
-**TOM:** Thank you, everyone. Take care... and see you next time!
+**TOM:** Thank you, everyone. Take care, and see you next time!
 **ANNA:** Thank you so much for listening.
 
 ---

@@ -9,11 +9,11 @@
 **ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 **TOM:** Moien alleguer!
 **ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
-**TOM:** An dat hautegt Thema preegt d'Land, dat Dir all Dag ronderëm Iech gesitt... de Buedem.
+**TOM:** An dat hautegt Thema preegt d'Land, dat Dir all Dag ronderëm Iech gesitt, de Buedem.
 **ANNA:** Wou nei Wunnengen gebaut ginn, wou Stroossen an Tramen lafen, wou d'Natur geschützt gëtt, wou Betriber sech néierloosse kënnen.
 **TOM:** Lëtzebuerg ass e klengt Land. De Buedem ass wäertvoll, an et gëtt der nëmme begrenzt vill.
 **ANNA:** Wéi entscheet ee also, wat wouhin kënnt, gerecht, fir jiddereen, a fir d'Zukunft?
-**TOM:** Dëse suergfälteg Gläichgewiichtsakt huet en Numm... Landesplanung. Op Franséisch „l'aménagement du territoire".
+**TOM:** Dëse suergfälteg Gläichgewiichtsakt huet en Numm. Landesplanung. Op Franséisch „l'aménagement du territoire".
 **ANNA:** An et gëtt en offiziellt Portal dofir, an eng Departement vum Staat, déi et leet.
 **TOM:** Also Anna, wat ass Landesplanung genee?
 **ANNA:** Et ass d'Gesamtheet vun den Aktiounen, déi de Staat an d'Gemengen huelen, fir den nationale Territoire klug z'entwéckelen.
@@ -24,42 +24,42 @@
 **TOM:** Si gëtt vun der Departement fir Landesplanung geleet, déi zum Ministère fir Wunnengsbau a Landesplanung gehéiert.
 **ANNA:** Kucke mer eis déi wichtegst Instrumenter un, well se méi einfach ze verstoe sinn, wéi hiren Numm vermutte léisst.
 **TOM:** Dat éischt ass de Leitprogramm, eng grouss strategesch Visioun dervun, wéi d'ganzt Land sech entwéckele soll. Den aktuellen ass 2023 ugeholl ginn, a kuckt bis 2035.
-**ANNA:** Et gëtt d'Richtung un... méi kompakt Stied, geschützt Natur, gudden Transport, ausgewune Regiounen.
+**ANNA:** Et gëtt d'Richtung un, méi kompakt Stied, geschützt Natur, gudden Transport, ausgewune Regiounen.
 **TOM:** Dat zweet Instrument ass eng Rei vu sektorale Leitpläng.
 **ANNA:** Dës si méi konkret. Et gëtt Pläng fir den Transport, fir d'Wunnen, fir wirtschaftlech Aktivitéitszonen, a fir d'Landschaften.
 **TOM:** Zum Beispill reservéiert e Wunnengsplang Terrain, wou nei Wunnenge sollte konzentréiert ginn.
 **ANNA:** An e Landschaftsplang schützt gréng Flächen dervun, datt se bebaut ginn.
 **TOM:** Dës Pläng entscheeden also op eng koordinéiert Manéier, wofir de Buedem geduecht ass.
-**ANNA:** Et gëtt hei eng wichteg Iddi... do bauen, wou et Sënn mécht.
+**ANNA:** Et gëtt hei eng wichteg Iddi, do bauen, wou et Sënn mécht.
 **TOM:** Jo. Wunnen an Aktivitéit no beim Transport an de Servicer konzentréieren, amplaz iwwerall ze verbreeden.
 **ANNA:** Dat schützt d'Land, reduzéiert de Verkéier, a mécht den Alldag méi einfach.
 **TOM:** Landesplanung denkt och a Regiounen, net nëmmen am ganze Land.
-**ANNA:** Verschidde Regiounen hu verschidde Stäerkten a Besoinen... de Süden, d'Zentrum, den Norden, den Osten.
+**ANNA:** Verschidde Regiounen hu verschidde Stäerkten a Besoinen, de Süden, d'Zentrum, den Norden, den Osten.
 **TOM:** Et gëtt urban Projeten, a souguer Naturparken, déi schéi Regiounen schützen a se zugläich lieweg halen.
 **ANNA:** A well Lëtzebuerg kleng an zentral ass, hält d'Planung net un der Grenz op.
-**TOM:** Richteg. Sou vill vum Liewen hei iwwerschreit Grenzen... d'Aarbecht, den Transport, den Drock um Wunnengsmaart.
+**TOM:** Richteg. Sou vill vum Liewen hei iwwerschreit Grenzen, d'Aarbecht, den Transport, den Drock um Wunnengsmaart.
 **ANNA:** Lëtzebuerg plangt also zesumme mat senge Noperen, an der Groussregioun, an iwwer europäesch Programmer.
 **TOM:** Well eng Tramslinn, e Bësch, oder e Floss këmmert sech net ëm eng Grenz op enger Kaart.
-**ANNA:** Stelle mer déi entscheedend Fro... firwat sollt sech en normalen Awunner ëm dat alles këmmeren?
-**TOM:** Als éischt, well et Ären Alldag preegt... Äre Wee op d'Aarbecht, Är gréng Flächen, ob no bei Iech Wunnraum gebaut gëtt.
-**ANNA:** Als zweet, well et dat schützt, wat mir gär hunn... Landschaften, Natur, de Charakter vun eise Stied an Dierfer.
-**TOM:** An als drëtt, well et ëm Gerechtegkeet tëscht de Generatioune geet... eise Kanner e liewenswäert Land ze hannerloossen.
+**ANNA:** Stelle mer déi entscheedend Fro, firwat sollt sech en normalen Awunner ëm dat alles këmmeren?
+**TOM:** Als éischt, well et Ären Alldag preegt. Äre Wee op d'Aarbecht, Är gréng Flächen, ob no bei Iech Wunnraum gebaut gëtt.
+**ANNA:** Als zweet, well et dat schützt, wat mir gär hunn. Landschaften, Natur, de Charakter vun eise Stied an Dierfer.
+**TOM:** An als drëtt, well et ëm Gerechtegkeet tëscht de Generatioune geet, eise Kanner e liewenswäert Land ze hannerloossen.
 **ANNA:** Et gëtt och eng Roll fir d'Bierger. Grouss Pläng ginn dacks duerch eng ëffentlech Konsultatioun.
 **TOM:** Dir kënnt Iech also informéieren, a heiansdo Är Meenung soen, wann e Plang Är Géigend betrëfft.
 **ANNA:** D'Portal publizéiert d'Pläng, d'Strategie, an d'Neiegkeeten, op eng oppe Manéier.
 **TOM:** Also Anna, maache mer et praktesch. Wat kënnen d'Leit dovun ophuelen?
 **ANNA:** Als éischt, wann Dir vun enger neier Wunnzon, engem Transportplang, oder enger geschützter Zon héiert, da versteet Dir dat gréissert Bild.
 **TOM:** Als zweet, wann e Plang Är Gemeng betrëfft, passt op ëffentlech Konsultatiounen op a sot Är Meenung.
-**ANNA:** Als drëtt, denkt drun, datt d'Zil d'Gläichgewiicht ass... Wunnengen, Aarbechtsplazen, Transport an Natur, déi all zesumme liewen.
+**ANNA:** Als drëtt, denkt drun, datt d'Zil d'Gläichgewiicht ass. Wunnengen, Aarbechtsplazen, Transport an Natur, déi all zesumme liewen.
 **TOM:** Faasse mer et zesummen. Wat sollten d'Leit sech iwwert d'Landesplanung mierken?
-**ANNA:** Als éischt... sou plangen de Staat an d'Gemengen op laang Siicht d'Notzung vum begrenzte Buedem vu Lëtzebuerg.
-**TOM:** Als zweet... si benotzt eng national Strategie a sektoral Pläng fir Transport, Wunnen, Wirtschaft a Landschaften.
-**ANNA:** Als drëtt... si schafft iwwer Regiounen an iwwer Grenzen ewech, well d'Liewen hei et och mécht.
-**TOM:** An als véiert... si preegt Ären deeglechen Ëmfeld, dofir lount et sech, se ze verfollegen a matzemaachen.
+**ANNA:** Als éischt, sou plangen de Staat an d'Gemengen op laang Siicht d'Notzung vum begrenzte Buedem vu Lëtzebuerg.
+**TOM:** Als zweet, si benotzt eng national Strategie a sektoral Pläng fir Transport, Wunnen, Wirtschaft a Landschaften.
+**ANNA:** Als drëtt, si schafft iwwer Regiounen an iwwer Grenzen ewech, well d'Liewen hei et och mécht.
+**TOM:** An als véiert, si preegt Ären deeglechen Ëmfeld, dofir lount et sech, se ze verfollegen a matzemaachen.
 **ANNA:** D'Land, dat mir weiderginn, ass kee Zoufall. Et ass d'Zomm vun ongeziilte suergfältege Choixen iwwert de Buedem.
 **TOM:** A gutt Planung ass d'Manéier, wéi mir dës Choixe klug treffen, zesummen.
 **ANNA:** Dat war eis Episod iwwer d'Landesplanung. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
-**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**TOM:** Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!
 **ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---

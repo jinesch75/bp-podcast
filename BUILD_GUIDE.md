@@ -426,3 +426,7 @@ All 15 "..." pauses removed per language (`remove_ellipses.py syvicol`; EN: 7 co
 ## Agriculture pitch pass (19 Nov 2026)
 
 All 15 "..." pauses removed per language (`remove_ellipses.py agriculture`; EN: 10 colons by hand), voice QC EN/FR/DE + retakes (EN 6, FR 5, DE 2); standard intro/outro not retaken. ≈ 6,500 credits. EN 6:32, FR 6:35, DE 7:21.
+
+## Spatial planning pitch pass (19 Nov 2026)
+
+All 16 "..." pauses removed per language (`remove_ellipses.py amenagement`; EN: 11 colons by hand), voice QC EN/FR/DE + retakes (EN 4, FR 1, DE 4); standard intro/outro not retaken. ≈ 6,300 credits. EN 5:48, FR 5:49, DE 6:28.
