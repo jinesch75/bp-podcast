@@ -80,7 +80,7 @@
 **TOM:** A wéi gesinn ech, wat mech dat kaschte géif?
 **ANNA:** Um Site vum Centre commun gëtt et en Online-Simulator fir déi fräiwëlleg Pensiounsversécherung. E weist Iech Är Méiglechkeeten, ier Dir Iech decidéiert.
 **TOM:** Bleiwe mer bei den Online-Servicer. Wat kann ech maachen, ouni iergendwou hinzegoen?
-**ANNA:** Eng ganz Rei Saachen. Um Site ccss Punkt l-u fannt Dir Erklärunge fir Salariéen, Patronen, Independanten a Baueren, an all d'Formulairen.
+**ANNA:** Eng ganz Rei Saachen: um Site ccss Punkt l-u fannt Dir Erklärunge fir Salariéen, Patronen, Independanten a Baueren, an all d'Formulairen.
 **TOM:** A wat bitt MyGuichet zousätzlech?
 **ANNA:** An Ärem privaten Espace op MyGuichet Punkt l-u kënnt Dir an e puer Momenter en Affiliatiounscertificat erstellen an eroflueden. Do stinn déi Beschäftegungen dran, déi fir Iech registréiert sinn.
 **TOM:** Wéi kann eng aner Persoun sécher sinn, datt esou e Certificat echt ass?

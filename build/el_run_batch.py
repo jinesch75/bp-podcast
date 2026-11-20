@@ -42,7 +42,7 @@ for key in keys:
                 if "listening check" in l or "check manually" in l or "still cut" in l:
                     print("   " + l.strip())
                     if "check manually" in l:
-                        open("/tmp/el_check_by_ear.txt", "a").write(f"{tag}  {l.strip()}\n")
+                        open(os.environ.get('EL_TMP', '/tmp') + "/el_check_by_ear.txt", "a").write(f"{tag}  {l.strip()}\n")
         if left() < 40:
             print("budget used — run again to continue"); sys.exit(0)
         try:

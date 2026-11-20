@@ -80,7 +80,7 @@
 **TOM:** Et comment savoir ce que cela me coûterait ?
 **ANNA:** Le site du Centre commun propose un simulateur en ligne pour l'assurance pension volontaire. Il vous montre vos possibilités avant de décider.
 **TOM:** Restons sur les services en ligne. Que puis-je faire sans me déplacer ?
-**ANNA:** Beaucoup de choses. Sur le site ccss point l-u, vous trouvez des explications pour les salariés, les employeurs, les indépendants et les agriculteurs, ainsi que tous les formulaires.
+**ANNA:** Beaucoup de choses : sur le site ccss point l-u, vous trouvez des explications pour les salariés, les employeurs, les indépendants et les agriculteurs, ainsi que tous les formulaires.
 **TOM:** Et qu'est-ce que MyGuichet apporte en plus ?
 **ANNA:** Dans votre espace privé sur MyGuichet point l-u, vous pouvez créer un certificat d'affiliation en quelques instants et le télécharger. Il indique les emplois enregistrés pour vous.
 **TOM:** Comment une autre personne peut-elle être sûre qu'un tel certificat est authentique ?

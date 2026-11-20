@@ -432,7 +432,7 @@ def main():
         fixed = kept = 0; n = 0
         for s in segs:
             n += 1
-            if n % 20 == 0:
+            if n % 4 == 0:
                 json.dump(asr, open(apath, "w"), ensure_ascii=False)
             why = verdict(s["cache"], s)
             if not why:

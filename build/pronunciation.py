@@ -28,7 +28,8 @@ WORDS = {"ADEM": "Adem", "REVIS": "Revis", "ONIS": "Onis", "SYVICOL": "Syvicol",
          "PIN": "Pin", "CSIRT": "C-Sirt", "PAN-Bio": "Pan-Bio",
          "SIMPA": "Simpa", "COMPA": "Compa"}
 # EN LISER/STATEC: Jacques's A/B choices D/D (2026-11-17)
-WORDS_LANG = {"en": {"FEDER": "Feder", "LISER": "Lyser", "STATEC": "Statek"}, "fr": {"FEDER": "Féder"}, "de": {"FEDER": "Feder"}}
+# EN ADEM: A/B choice E "Addem", one pronunciation everywhere (2026-11-20)
+WORDS_LANG = {"en": {"FEDER": "Feder", "LISER": "Lyser", "STATEC": "Statek", "ADEM": "Addem"}, "fr": {"FEDER": "Féder"}, "de": {"FEDER": "Feder"}}
 # Capitals used only for emphasis ("you do NOT need") -> normal words.
 EMPHASIS = {"en": ["NOT", "AND"], "fr": ["PAS", "ET"], "de": ["NICHT", "UND"]}
 # Names. Biergerpakt, MyGuichet, Guichet, LuxTrust, matricule, eSpace were approved by ear in the

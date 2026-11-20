@@ -16,7 +16,7 @@
 
 **ANNA:** Eltereforum. Okay, Tom — that's a Luxembourgish word. Let's start there. What does it mean?
 
-**TOM:** So... "Elteren" means "parents", and "Forum" means a place to meet and talk. So Eltereforum is, literally, a "parents' forum".
+**TOM:** So, "Elteren" means "parents", and "Forum" means a place to meet and talk. So Eltereforum is, literally, a "parents' forum".
 
 **ANNA:** A parents' forum. So it's a place for parents.
 
@@ -88,7 +88,7 @@
 
 **ANNA:** That was our episode about the Eltereforum. This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people. If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information. It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers. And the activities are free of charge. You simply need to join the Biergerpakt for free at biergerpakt.lu.
 
-**TOM:** Thank you, everyone. Take care... and see you next time!
+**TOM:** Thank you, everyone. Take care, and see you next time!
 
 **ANNA:** Thank you so much for listening.
 

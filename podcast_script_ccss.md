@@ -80,7 +80,7 @@
 **TOM:** And how do I know what that would cost me?
 **ANNA:** The Centre's website has an online simulator for voluntary pension insurance. It shows you your options before you decide.
 **TOM:** Let's stay with the online services. What can I do without going anywhere?
-**ANNA:** Quite a lot. On the website ccss dot l-u, you find explanations for employees, employers, self-employed people and farmers, and all the forms.
+**ANNA:** Quite a lot: on the website ccss dot l-u, you find explanations for employees, employers, self-employed people and farmers, and all the forms.
 **TOM:** And what does MyGuichet add to that?
 **ANNA:** In your private space on MyGuichet dot l-u, you can create a certificate of affiliation in a few moments and download it. It lists the jobs that are registered for you.
 **TOM:** How can somebody else be sure that such a certificate is genuine?

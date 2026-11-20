@@ -9,22 +9,22 @@
 **ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 **TOM:** Moien alleguer!
 **ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
-**TOM:** An haut schwätze mer iwwer eppes, wat bal jiddereen iergendwann a sengem Liewe betrëfft... d'Schaffen.
+**TOM:** An haut schwätze mer iwwer eppes, wat bal jiddereen iergendwann a sengem Liewe betrëfft, d'Schaffen.
 **ANNA:** Méi genau schwätze mer iwwer d'ADEM.
 **TOM:** ADEM. Dir hutt de Numm vläicht schonn eng Kéier gesinn, vläicht op engem Bréif, oder bei engem vun hire Büroen. Mä wat ass dat genau?
 **ANNA:** ADEM steet fir d'"Agence pour le développement de l'emploi". Op Däitsch heescht dat d'Agentur fir d'Entwécklung vun der Beschäftegung.
 **TOM:** Et ass de Lëtzebuerger ëffentlechen Aarbechtsservice. Stell der et als déi offiziell Agence vum Staat vir, déi de Leit hëlleft, Aarbecht ze fannen, an de Patronen hëlleft, Personal ze fannen.
-**ANNA:** Säi Motto ass schéin a kloer... "Facilitons l'emploi". Loosse mer d'Beschäftegung méi einfach maachen.
+**ANNA:** Säi Motto ass schéin a kloer, "Facilitons l'emploi". Loosse mer d'Beschäftegung méi einfach maachen.
 **TOM:** Also sëtzt d'ADEM an der Mëtt, tëscht de Leit, déi e Job sichen, an de Firmen, déi Leit sichen.
 **ANNA:** Genau. An et ass en ëffentleche Service, wat heescht, et ass gratis.
 **TOM:** Gutt ze wëssen. Also Anna, fir wie ass d'ADEM eigentlech do?
-**ANNA:** Haaptsächlech fir dräi Gruppen. Als éischt d'Aarbechtssichend... Leit, déi Aarbecht sichen, oder déi de Job wiessele wëllen.
-**TOM:** Zweetens d'Salariéen... Leit, déi schonn e Job hunn, mä Berodung oder eng Formatioun wëllen.
-**ANNA:** An drëttens d'Patronen... Firmen an Organisatiounen, déi astelle wëllen.
+**ANNA:** Haaptsächlech fir dräi Gruppen. Als éischt d'Aarbechtssichend. Leit, déi Aarbecht sichen, oder déi de Job wiessele wëllen.
+**TOM:** Zweetens d'Salariéen. Leit, déi schonn e Job hunn, mä Berodung oder eng Formatioun wëllen.
+**ANNA:** An drëttens d'Patronen. Firmen an Organisatiounen, déi astelle wëllen.
 **TOM:** Also ass et wierklech fir vill Leit do. Och wann s du elo e Job hues, kéint d'ADEM enges Daags trotzdem wichteg fir dech sinn.
 **ANNA:** Dat ass déi wichteg Botschaft. Du muss net waarden, bis s du a Schwieregkeete bass. D'ADEM ass do virum, wärend, an no enger Jobsich.
-**TOM:** Loosse mer iwwer den Häerzstéck schwätzen... sech als Aarbechtssichenden umellen. Firwat géif een dat maachen?
-**ANNA:** Wann s du dech umells, seet s du offiziell... Ech sichen Aarbecht, an ech sti fir den Aarbechtsmaart zur Verfügung.
+**TOM:** Loosse mer iwwer den Häerzstéck schwätzen, sech als Aarbechtssichenden umellen. Firwat géif een dat maachen?
+**ANNA:** Wann s du dech umells, seet s du offiziell. Ech sichen Aarbecht, an ech sti fir den Aarbechtsmaart zur Verfügung.
 **TOM:** A "fir den Aarbechtsmaart zur Verfügung stoen" huet eng richteg Bedeitung, oder?
 **ANNA:** Dat huet et. Et heescht, datt d'ADEM an d'Patronen dech einfach erreeche kënnen, an datt s du prett bass, fir d'Stonnen ze schaffen, déi s du uginn hues.
 **TOM:** Also mells du dech un, an dann ëffnet sech eng Dier zu der ganzer Hëllef vun der ADEM.
@@ -42,13 +42,13 @@
 **TOM:** A fir dech anzeloggen, brauchs du en sécheren Authentifikatiounsgerät, wéi e LuxTrust-Produkt, oder deng Lëtzebuerger elektronesch Identitéitskaart.
 **ANNA:** Dat ass deeselwechte séchere Login, deen s du fir vill offiziell Servicer zu Lëtzebuerg benotzs.
 **TOM:** A wann een léiwer eng Persoun trëfft, vis-à-vis?
-**ANNA:** Da gëtt et déi zweet Méiglechkeet... sech perséinlech an enger ADEM-Agence umellen.
+**ANNA:** Da gëtt et déi zweet Méiglechkeet, sech perséinlech an enger ADEM-Agence umellen.
 **TOM:** Dofir rufs du als éischt un, fir e Rendez-vous ze huelen. D'Nummer ass de ADEM Contact Centre, op 2-4-7, 8-8-8-8-8.
-**ANNA:** An Dir kënnt Iech perséinlech an dräi Agencë vun der ADEM aschreiwen... an der Stad Lëtzebuerg, zu Esch-Belval, an zu Diekirch. Dir kritt déi proposéiert, déi bei Iech doheem am nootste läit.
+**ANNA:** An Dir kënnt Iech perséinlech an dräi Agencë vun der ADEM aschreiwen, an der Stad Lëtzebuerg, zu Esch-Belval, an zu Diekirch. Dir kritt déi proposéiert, déi bei Iech doheem am nootste läit.
 **TOM:** Gutt. Also egal ob s du dech online oder perséinlech méi wuel fills, allebéid Diere stinn op.
 **ANNA:** Elo, Tom, wat soll een matbréngen oder virbereeden, ier een sech umellt?
 **TOM:** E puer einfach Saachen. Als éischt deng Sozialversécherungsnummer, déi op denger Sozialversécherungskaart steet.
-**ANNA:** Vergewësser dech, datt deng Identitéitsdokumenter gülteg sinn... deng Identitéitskaart, däi Pass, oder deng Openthaltserlaabnis.
+**ANNA:** Vergewësser dech, datt deng Identitéitsdokumenter gülteg sinn, deng Identitéitskaart, däi Pass, oder deng Openthaltserlaabnis.
 **TOM:** A bréng däi CV mat, op den neiste Stand bruecht, mat denger Erfahrung, dengen Kompetenzen, denger Formatioun, an de Sproochen, déi s du schwätz.
 **ANNA:** Wann s du Certificate vun enger berufflecher Formatioun hues, sinn déi och e richtege Plus.
 **TOM:** An hei ass en Detail, dee vill Leit net wëssen. Du kanns dech bei der ADEM umellen, och wann s du nach e Job hues.
@@ -62,50 +62,50 @@
 **TOM:** Also ass d'Umeldung net just eng Formalitéit. Si erschléisst richteg, konkret Hëllef.
 **ANNA:** Genau. Mä natierlech kommen mat der Hëllef och e puer Flichten.
 **TOM:** Dat ass fair. Wann s du dech umells, seet s du, datt s du aktiv no Aarbecht siche wäerts.
-**ANNA:** Also gëtt erwaart, datt s du selwer Schrëtt méchs... op Jobannoncen äntweren, dech bewerben, de JobBoard duerchsichen, däi CV aktuell halen.
+**ANNA:** Also gëtt erwaart, datt s du selwer Schrëtt méchs, op Jobannoncen äntweren, dech bewerben, de JobBoard duerchsichen, däi CV aktuell halen.
 **TOM:** Du folleegs och dem Plang, deen s du zesumme mat dengem Beroder opbaus, an du gees op deng Rendez-vouse.
-**ANNA:** An du sees der ADEM iwwer Ännerunge Bescheed, déi deng Disponibilitéit betreffen... e Plënner, eng nei Telefonsnummer, den Ufank vun engem Job, eng Krankheet, an esou weider.
+**ANNA:** An du sees der ADEM iwwer Ännerunge Bescheed, déi deng Disponibilitéit betreffen, e Plënner, eng nei Telefonsnummer, den Ufank vun engem Job, eng Krankheet, an esou weider.
 **TOM:** Et ass eng Bezéiung op zwou Säiten. D'ADEM ënnerstëtzt dech, an du bleifs aktiv an a Kontakt.
-**ANNA:** An et gëtt en schéinen Detail... als Aarbechtssichenden hues du e Recht op eng gewëssen Unzuel u Congésdeeg pro Joer, bis fënnefanzwanzeg Schaffdeeg.
+**ANNA:** An et gëtt en schéinen Detail, als Aarbechtssichenden hues du e Recht op eng gewëssen Unzuel u Congésdeeg pro Joer, bis fënnefanzwanzeg Schaffdeeg.
 **TOM:** Wärend deem genehmegte Congé bass du vun dengen Flichten zur ADEM befreit, e bësse wéi Vakanz. Du muss et just am Viraus ufroen.
-**ANNA:** Elo loosse mer iwwer Suen schwätzen, well vill Leit kommen dofir bei d'ADEM... d'Chômagegeld.
+**ANNA:** Elo loosse mer iwwer Suen schwätzen, well vill Leit kommen dofir bei d'ADEM, d'Chômagegeld.
 **TOM:** Op Franséisch d'"indemnité de chômage". Dat ass eng finanziell Ënnerstëtzung, wann s du däi Job verluer hues.
 **ANNA:** An hei ass déi wichteg Reegel. Fir d'Aarbechtslosegeld ze froen, muss du dech als éischt als Aarbechtssichenden bei der ADEM umellen.
 **TOM:** Wann däin Dossier als Aarbechtssichenden eemol op ass, kuckt d'ADEM automatesch, ob s du e Recht op Leeschtunge kéings hunn, op Basis vun denger Situatioun.
-**ANNA:** Also kënnt d'Umeldung als éischt... an da follegt d'Fro vum Geld.
+**ANNA:** Also kënnt d'Umeldung als éischt, an da follegt d'Fro vum Geld.
 **TOM:** An et gëtt gutt Neiegkeeten, wéi s du d'Ufro méchs. Wann s du d'Konditiounen erfëlls, schéckt d'ADEM der e Bréif, an du fëlls deng Demande online aus, op MyGuichet.lu.
 **ANNA:** Dat heescht manner Pabeier a gespuerten Zäit. Du kanns méi dovun vun doheem aus maachen.
 **TOM:** Loosse mer elo e bësse Opmierksamkeet op déi jonk Nolauschterer leeën, well Lëtzebuerg huet eng speziell Verspriechung fir si.
 **ANNA:** Si heescht d'Jugendgarantie. D'Zil ass, datt all jonke Mënsch, am Alter vu siechzéng bis drësseg, eng konkret Léisung ugebuede kritt, fir an d'Aarbechtsliewen anzeklammen.
-**TOM:** An et gëtt e kloren Zäitkader... bannent véier Méint nodeems s du dech bei der ADEM ugemellt hues. An an den éischte sechs Méint gesäis du däi perséinleche Beroder all Mount.
+**TOM:** An et gëtt e kloren Zäitkader, bannent véier Méint nodeems s du dech bei der ADEM ugemellt hues. An an den éischte sechs Méint gesäis du däi perséinleche Beroder all Mount.
 **ANNA:** Déi Léisung kéint e Job sinn, mä et kéint och eng Formatioun sinn, oder en aneren Schrëtt, deen dech no vir bréngt.
 **TOM:** Also wann s du jonk bass an net sécher bass, wat s du als Nächst maache solls, ass d'ADEM eng ganz gutt Plaz, fir unzefänken.
 **ANNA:** D'ADEM huet och eng spezialiséiert Ënnerstëtzung fir Leit mat enger Behënnerung, oder mat enger reduzéierter Aarbechtsfäegkeet.
 **TOM:** Et gi speziell Moossnamen, Stagen, finanziell Leeschtungen, a perséinlech Begleedung, fir de Leit ze hëllefen, Aarbecht ze fannen oder erëm an d'Aarbecht zréckzekommen.
-**ANNA:** D'Zil ass d'Inklusioun... sécherzestellen, datt jiddereen eng fair Chance um Aarbechtsmaart huet.
-**TOM:** Loosse mer déi aner Säit vun der ADEM net vergiessen... d'Patronen.
+**ANNA:** D'Zil ass d'Inklusioun, sécherzestellen, datt jiddereen eng fair Chance um Aarbechtsmaart huet.
+**TOM:** Loosse mer déi aner Säit vun der ADEM net vergiessen, d'Patronen.
 **ANNA:** Genau. Zu Lëtzebuerg sinn d'Patronen tatsächlech verflicht, hir fräi Stellen bei der ADEM ze deklaréieren.
 **TOM:** A par Retour kréie si Hëllef. D'ADEM bréngt si mat Kandidaten aus hirem Pool vun Aarbechtssichenden zesummen.
-**ANNA:** D'Patrone kënnen och finanziell Hëllef kréien, wann si gewësse Leit astellen... zum Beispill e jonken Aarbechtssichenden, een, deen zënter laangem arbechtslos ass, oder eng Persoun mat enger Behënnerung.
+**ANNA:** D'Patrone kënnen och finanziell Hëllef kréien, wann si gewësse Leit astellen, zum Beispill e jonken Aarbechtssichenden, een, deen zënter laangem arbechtslos ass, oder eng Persoun mat enger Behënnerung.
 **TOM:** Also hëlleft d'ADEM net nëmmen Eenzelpersounen. Si hëlleft, datt de ganzen Aarbechtsmaart besser funktionéiert.
 **ANNA:** Et gëtt och Ënnerstëtzung fir international Recrutement, iwwer e Service mam Numm Work in Luxembourg.
 **TOM:** An zënter 2026 gëtt et souguer eng national Websäit, workinluxembourg.com. Si hëlleft de Firmen hei, Talenter ze fannen, an hëlleft de Leit am Ausland, Méiglechkeeten am Land z'entdecken.
 **ANNA:** Tom, ier mer ophalen, gëtt et e Sécherheetspunkt, deen mer wierklech erwäine sollten.
 **TOM:** Jo, e wichtegen. Heiansdo schécken Escroke falsch E-Mailen oder maache falsch Konten op de soziale Netzwierker, déi virgi, d'ADEM ze sinn. Si froen no Suen fir e Job oder e Visa — oder si froen dech, op e Link ze klicken an deng perséinlech Donnéeën ze bestätegen.
-**ANNA:** Denkt w.e.g. kloer drun... d'ADEM freet Iech ni, fir e Job oder e Visa ze bezuelen. De Service ass gratis.
+**ANNA:** Denkt w.e.g. kloer drun, d'ADEM freet Iech ni, fir e Job oder e Visa ze bezuelen. De Service ass gratis.
 **TOM:** Wann iergendeen dech am Numm vun der ADEM no enger Bezuelung oder no perséinlechen Donnéeë freet, ass et e Bedruch. Bezuel net, klick net, a kuck d'offiziell Kanäl vun der ADEM op hirer Websäit no.
-**ANNA:** Nach eng praktesch Saach... d'Sproochen. Fir mat der ADEM ëmzegoen, sollt Dir mindestens eng vun de Verwaltungssprooche vu Lëtzebuerg schwätzen... Lëtzebuergesch, Franséisch, oder Däitsch, oder soss Englesch.
+**ANNA:** Nach eng praktesch Saach, d'Sproochen. Fir mat der ADEM ëmzegoen, sollt Dir mindestens eng vun de Verwaltungssprooche vu Lëtzebuerg schwätzen. Lëtzebuergesch, Franséisch, oder Däitsch, oder soss Englesch.
 **TOM:** A wann Dir dat net maacht, kënnt Dir een, deem Dir vertraut a deen et schwätzt, matbréngen, fir Iech wärend Äre Rendez-vouse ze hëllefen.
 **ANNA:** Also loosse mer alles zesummebréngen. Wat sollen d'Leit iwwer d'ADEM behalen?
-**TOM:** Als éischt... d'ADEM ass de gratis, ëffentlechen Aarbechtsservice vu Lëtzebuerg, fir Aarbechtssichend, Salariéen, a Patronen.
-**ANNA:** Zweetens... sech als Aarbechtssichenden umellen ëffnet d'Dier zu engem perséinleche Beroder, dem JobBoard, Formatiounen, an Ënnerstëtzung.
-**TOM:** Drëttens... du mells dech online op MyGuichet Punkt lu mat engem séchere Login un, oder perséinlech mat engem Rendez-vous zu Lëtzebuerg, zu Esch-Belval, oder zu Diekirch.
-**ANNA:** Véiertens... fir d'Aarbechtslosegeld ze froen, muss du dech als éischt umellen, an d'Ufro ass elo komplett online.
-**TOM:** A fënneftens... et gëtt speziell Hëllef fir jonk Leit, iwwer d'Jugendgarantie, a fir Leit mat Behënnerungen.
-**ANNA:** An denkt un d'Sécherheetsreegel... d'ADEM freet ni no enger Bezuelung.
+**TOM:** Als éischt, d'ADEM ass de gratis, ëffentlechen Aarbechtsservice vu Lëtzebuerg, fir Aarbechtssichend, Salariéen, a Patronen.
+**ANNA:** Zweetens, sech als Aarbechtssichenden umellen ëffnet d'Dier zu engem perséinleche Beroder, dem JobBoard, Formatiounen, an Ënnerstëtzung.
+**TOM:** Drëttens, du mells dech online op MyGuichet Punkt lu mat engem séchere Login un, oder perséinlech mat engem Rendez-vous zu Lëtzebuerg, zu Esch-Belval, oder zu Diekirch.
+**ANNA:** Véiertens, fir d'Aarbechtslosegeld ze froen, muss du dech als éischt umellen, an d'Ufro ass elo komplett online.
+**TOM:** A fënneftens, et gëtt speziell Hëllef fir jonk Leit, iwwer d'Jugendgarantie, a fir Leit mat Behënnerungen.
+**ANNA:** An denkt un d'Sécherheetsreegel, d'ADEM freet ni no enger Bezuelung.
 **TOM:** Eng Jobsich kann sech stresseg ufillen. Mä d'Botschaft vun dëser Episod ass, datt s du et net eleng maache muss.
 **ANNA:** D'ADEM ass do, fir nieft der ze goen. Ee Schrëtt no deem aneren. Dat war eis Episod iwwer d'ADEM. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
-**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**TOM:** Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!
 **ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---

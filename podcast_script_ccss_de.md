@@ -80,7 +80,7 @@
 **TOM:** Und wie erfahre ich, was mich das kosten würde?
 **ANNA:** Auf der Website der Zentralstelle gibt es einen Online-Simulator für die freiwillige Rentenversicherung. Er zeigt Ihnen Ihre Möglichkeiten, bevor Sie sich entscheiden.
 **TOM:** Bleiben wir bei den Online-Diensten. Was kann ich erledigen, ohne irgendwohin zu gehen?
-**ANNA:** Eine ganze Menge. Auf der Website ccss Punkt l-u finden Sie Erklärungen für Arbeitnehmer, Arbeitgeber, Selbstständige und Landwirte, und alle Formulare.
+**ANNA:** Eine ganze Menge: Auf der Website ccss Punkt l-u finden Sie Erklärungen für Arbeitnehmer, Arbeitgeber, Selbstständige und Landwirte, und alle Formulare.
 **TOM:** Und was bietet MyGuichet zusätzlich?
 **ANNA:** In Ihrem privaten Bereich auf MyGuichet Punkt l-u können Sie in wenigen Augenblicken eine Versicherungsbescheinigung erstellen und herunterladen. Darin stehen die Beschäftigungen, die für Sie registriert sind.
 **TOM:** Wie kann eine andere Person sicher sein, dass so eine Bescheinigung echt ist?

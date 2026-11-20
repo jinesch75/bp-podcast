@@ -16,7 +16,7 @@
 
 **ANNA:** Eltereforum. Okay, Tom — das ist ein luxemburgisches Wort. Fangen wir dort an. Was bedeutet es?
 
-**TOM:** Also... „Elteren" bedeutet „Eltern", und „Forum" ist ein Ort, um sich zu treffen und zu reden. Eltereforum ist also, wörtlich, ein „Elternforum".
+**TOM:** Also, „Elteren" bedeutet „Eltern", und „Forum" ist ein Ort, um sich zu treffen und zu reden. Eltereforum ist also, wörtlich, ein „Elternforum".
 
 **ANNA:** Ein Elternforum. Also ein Ort für Eltern.
 
@@ -88,7 +88,7 @@
 
 **ANNA:** Das war unsere Folge über das Eltereforum. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
 
-**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**TOM:** Danke an alle. Passen Sie auf sich auf, und bis zum nächsten Mal!
 
 **ANNA:** Vielen Dank fürs Zuhören.
 
