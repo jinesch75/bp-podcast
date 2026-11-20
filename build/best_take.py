@@ -66,7 +66,7 @@ for i in idx:
     if best[1] != cur:
         if best[1] == base: reseed.pop(base, None)
         else: reseed[base] = best[1]
-    json.dump(reseed, open(rpath, "w"))   # save after each sentence (a run can hit the time limit)
+    el.save_json(rpath, reseed)   # save after each sentence (a run can hit the time limit)
     print(f"#{i} {s['speaker']}: {s['text'][:55]!r}  takes {' '.join(report)}  -> {'NEW take' if best[1] != cur else 'kept current'}")
-json.dump(reseed, open(rpath, "w")); el.save_cut_cache()
+el.save_json(rpath, reseed); el.save_cut_cache()
 print(f"≈ {credits} credits")

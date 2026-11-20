@@ -125,6 +125,15 @@ def merge_short(sents):
     return out
 
 
+def save_json(path, obj):
+    """Atomic write (temp file + rename): a run cut off by a time limit, or two sessions at once, can no longer
+    leave a half-written cache file (asr.json was truncated this way on 2026-11-20)."""
+    tmp = f"{path}.{os.getpid()}.part"
+    with open(tmp, "w") as fh:
+        json.dump(obj, fh, ensure_ascii=False)
+    os.replace(tmp, path)
+
+
 _CUT = {}
 
 
@@ -137,13 +146,13 @@ def is_cut(path):
     if k not in _CUT:
         _CUT[k] = _is_cut(path)
         if len(_CUT) % 25 == 0:
-            json.dump(_CUT, open(cpath, "w"))
+            save_json(cpath, _CUT)
     return _CUT[k]
 
 
 def save_cut_cache():
     if _CUT:
-        json.dump(_CUT, open(os.path.join(CACHE, "cut.json"), "w"))
+        save_json(os.path.join(CACHE, "cut.json"), _CUT)
 
 
 def _is_cut(path):
@@ -402,7 +411,7 @@ def main():
             else:
                 still += 1
                 print(f"  still cut after 3 tries: {s['text'][:70]}")
-            json.dump(reseed, open(rpath, "w"))
+            save_json(rpath, reseed)
         save_cut_cache()
         print(f"cut-off endings re-generated: {fixed}" + (f", still cut: {still}" if still else ""))
 
@@ -423,6 +432,7 @@ def main():
             k = os.path.basename(path) + ":" + size
             if k not in asr:
                 asr[k] = transcribe(path, lang, size)
+                save_json(apath, asr)   # save at once: a slow, shared VM may stop the run mid-sentence (2026-11-20)
             return asr[k]
         def verdict(path, s):
             exp = s["body"]["text"]
@@ -433,7 +443,7 @@ def main():
         for s in segs:
             n += 1
             if n % 4 == 0:
-                json.dump(asr, open(apath, "w"), ensure_ascii=False)
+                save_json(apath, asr)
             why = verdict(s["cache"], s)
             if not why:
                 continue
@@ -447,12 +457,12 @@ def main():
                     gen(dict(s, body=body, cache=alt))
                 if not is_cut(alt) and not verdict(alt, s):
                     reseed[base] = h + ".mp3"; s["cache"] = alt; ok = True; fixed += 1
-                    json.dump(reseed, open(rpath, "w"))
+                    save_json(rpath, reseed)
                     break
             if not ok:
                 kept += 1
                 print(f"  check manually ({why}): {s['text'][:80]}")
-        json.dump(asr, open(apath, "w"), ensure_ascii=False)
+        save_json(apath, asr)
         print(f"listening check: {len(segs)} sentences, re-generated {fixed}" + (f", {kept} to check by ear" if kept else ""))
 
     # assemble the rebuild.py work folder

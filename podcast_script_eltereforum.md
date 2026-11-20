@@ -14,7 +14,7 @@
 
 **TOM:** Exactly. And today's topic is for anyone who has children, or who is about to have children. It's a service called the Eltereforum.
 
-**ANNA:** Eltereforum. Okay, Tom — that's a Luxembourgish word. Let's start there. What does it mean?
+**ANNA:** Eltereforum. Okay, Tom — that's a Luxembourgish word. Let's start there: what does it mean?
 
 **TOM:** So, "Elteren" means "parents", and "Forum" means a place to meet and talk. So Eltereforum is, literally, a "parents' forum".
 
@@ -24,7 +24,7 @@
 
 **ANNA:** For all parents. So not only for parents facing difficulties?
 
-**TOM:** No, no — and this is important. It's for everyone. The Eltereforum is open to all. It's a normal, friendly place where any parent can come, ask questions, learn something, and meet other parents. You don't need a special reason. You don't need to have a specific issue.
+**TOM:** No, no — and this is important: it's for everyone. The Eltereforum is open to all. It's a normal, friendly place where any parent can come, ask questions, learn something, and meet other parents. You don't need a special reason. You don't need to have a specific issue.
 
 **ANNA:** Good. Because sometimes people think, "I'll ask for help only if something is wrong."
 
@@ -60,7 +60,7 @@
 
 **ANNA:** So even if they can't help me with a specific issue, they are connected well enough to find someone who can.
 
-**TOM:** Exactly. A friendly first step.
+**TOM:** Exactly: it's a friendly first step.
 
 **ANNA:** Okay, Tom — where are these forums? Are they all in the capital?
 

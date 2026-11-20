@@ -40,5 +40,5 @@ for spk, txt in el.read_turns(key, lang):
         if best and best[1] != cur:
             if best[1] == base: reseed.pop(base, None)
             else: reseed[base] = best[1]
-            json.dump(reseed, open(rpath, "w"))
+            el.save_json(rpath, reseed)
         print(f"{s!r} -> {'NEW take' if best and best[1] != cur else 'kept current'} (p={best[0]:.2f})")

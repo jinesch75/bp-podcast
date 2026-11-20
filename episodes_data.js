@@ -8257,7 +8257,7 @@ const EPISODES = [
   "title": "Eltereforum – Strong Parents, Strong Children",
   "description": "A warm, welcoming network of parent forums across Luxembourg, coordinated by the Ministry of Education, Children and Youth. What the Eltereforum offers — parent meetings, parenting classes, parent-child activities and themed evenings, built around the idea of 'strong parents, strong children' — who it is for (all parents, from before birth until the child is grown), how the regional forums work with local partners, and how the team guides you to specialised services when needed.",
   "audio": "podcast_eltereforum.mp3",
-  "duration": 391.92,
+  "duration": 394.42,
   "topics": [
    "Meaning of “Eltereforum”",
    "For all parents",
@@ -8316,523 +8316,513 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Let's start there.",
-    "t": 39
-   },
-   {
-    "speaker": "Anna",
-    "text": "What does it mean?",
-    "t": 40.12
+    "text": "Let's start there: what does it mean?",
+    "t": 38.91
    },
    {
     "speaker": "Tom",
-    "text": "So... \"Elteren\" means \"parents\", and \"Forum\" means a place to meet and talk.",
-    "t": 41.66
+    "text": "So, \"Elteren\" means \"parents\", and \"Forum\" means a place to meet and talk.",
+    "t": 41.58
    },
    {
     "speaker": "Tom",
     "text": "So Eltereforum is, literally, a \"parents' forum\".",
-    "t": 46.9
+    "t": 46.67
    },
    {
     "speaker": "Anna",
     "text": "A parents' forum.",
-    "t": 50.53
+    "t": 50.46
    },
    {
     "speaker": "Anna",
     "text": "So it's a place for parents.",
-    "t": 51.87
+    "t": 51.79
    },
    {
     "speaker": "Tom",
     "text": "Exactly. The official description is very inviting.",
-    "t": 53.93
+    "t": 53.65
    },
    {
     "speaker": "Tom",
     "text": "The parent forums are welcoming places for discussion, information and support — for all parents.",
-    "t": 57.13
+    "t": 56.85
    },
    {
     "speaker": "Anna",
     "text": "For all parents.",
-    "t": 62.62
+    "t": 62.34
    },
    {
     "speaker": "Anna",
     "text": "So not only for parents facing difficulties?",
-    "t": 63.92
+    "t": 63.5
    },
    {
     "speaker": "Tom",
-    "text": "No, no — and this is important.",
-    "t": 66.71
-   },
-   {
-    "speaker": "Tom",
-    "text": "It's for everyone.",
-    "t": 68.66
+    "text": "No, no — and this is important: it's for everyone.",
+    "t": 66.29
    },
    {
     "speaker": "Tom",
     "text": "The Eltereforum is open to all.",
-    "t": 69.98
+    "t": 69.6
    },
    {
     "speaker": "Tom",
     "text": "It's a normal, friendly place where any parent can come, ask questions, learn something, and meet other parents.",
-    "t": 72.12
+    "t": 72.03
    },
    {
     "speaker": "Tom",
     "text": "You don't need a special reason.",
-    "t": 77.66
+    "t": 78.3
    },
    {
     "speaker": "Tom",
     "text": "You don't need to have a specific issue.",
-    "t": 79.5
+    "t": 80.14
    },
    {
     "speaker": "Anna",
     "text": "Good. Because sometimes people think, \"I'll ask for help only if something is wrong.\"",
-    "t": 81.82
+    "t": 82.46
    },
    {
     "speaker": "Tom",
     "text": "Right. But raising a child is a big job for everybody.",
-    "t": 86.58
+    "t": 87.22
    },
    {
     "speaker": "Tom",
     "text": "So the idea is to support parents from the very beginning, and along the whole way.",
-    "t": 89.1
+    "t": 90.85
    },
    {
     "speaker": "Anna",
     "text": "From the very beginning — what does that mean exactly?",
-    "t": 93.66
+    "t": 95.41
    },
    {
     "speaker": "Tom",
     "text": "It means from the moment you start your \"parental project\" — so, even before the baby is born, when you are planning or expecting — all the way through every stage of the child's life, until they become an adult.",
-    "t": 96.71
+    "t": 98.46
    },
    {
     "speaker": "Anna",
     "text": "Wow. So from pregnancy until the child is eighteen.",
-    "t": 109.97
+    "t": 111.72
    },
    {
     "speaker": "Tom",
     "text": "Yes. The whole journey.",
-    "t": 113.31
+    "t": 115.06
    },
    {
     "speaker": "Tom",
     "text": "Every age has its questions.",
-    "t": 114.79
+    "t": 116.54
    },
    {
     "speaker": "Tom",
     "text": "A baby who doesn't sleep.",
-    "t": 116.32
+    "t": 118.07
    },
    {
     "speaker": "Tom",
     "text": "A small child and the use of digital tools.",
-    "t": 117.71
+    "t": 119.46
    },
    {
     "speaker": "Tom",
     "text": "School. Teenagers. The Eltereforum is there for all of it.",
-    "t": 120.37
+    "t": 122.12
    },
    {
     "speaker": "Anna",
     "text": "That's reassuring. Now tell me — who is behind this?",
-    "t": 124.34
+    "t": 126.09
    },
    {
     "speaker": "Anna",
     "text": "Is it official?",
-    "t": 127.58
+    "t": 129.33
    },
    {
     "speaker": "Tom",
     "text": "It is fully official.",
-    "t": 128.81
+    "t": 130.56
    },
    {
     "speaker": "Tom",
     "text": "The Eltereforum is coordinated by the Ministry of Education, Children and Youth.",
-    "t": 130.09
+    "t": 131.84
    },
    {
     "speaker": "Tom",
     "text": "So it's a public service of the Luxembourg State.",
-    "t": 134.09
+    "t": 135.84
    },
    {
     "speaker": "Tom",
     "text": "And there's a nice slogan behind it — \"Strong parents, strong children\".",
-    "t": 137
+    "t": 138.75
    },
    {
     "speaker": "Tom",
     "text": "The idea being: when parents feel supported and confident, the children do better too.",
-    "t": 141.49
+    "t": 143.24
    },
    {
     "speaker": "Anna",
     "text": "Strong parents, strong children.",
-    "t": 146.54
+    "t": 148.29
    },
    {
     "speaker": "Anna",
     "text": "I like that.",
-    "t": 148.34
+    "t": 150.1
    },
    {
     "speaker": "Anna",
     "text": "Okay, so practically — what actually happens at an Eltereforum?",
-    "t": 149.39
+    "t": 151.15
    },
    {
     "speaker": "Anna",
     "text": "What can I do there?",
-    "t": 153.33
+    "t": 155.09
    },
    {
     "speaker": "Tom",
     "text": "Lots of things.",
-    "t": 154.72
+    "t": 156.48
    },
    {
     "speaker": "Tom",
     "text": "Let me list the main ones.",
-    "t": 155.76
+    "t": 157.52
    },
    {
     "speaker": "Tom",
     "text": "There are parent meetings — so, moments to get together and exchange with other parents.",
-    "t": 157.25
+    "t": 159.01
    },
    {
     "speaker": "Tom",
     "text": "There are also courses that offer specific guidance on different aspects of parenting.",
-    "t": 162.2
+    "t": 163.96
    },
    {
     "speaker": "Tom",
     "text": "There are activities for parents together with their children.",
-    "t": 166.73
+    "t": 168.49
    },
    {
     "speaker": "Tom",
     "text": "And there are themed evenings, talks and lectures — for example, an evening about sleep, or about digital tools, or about reading.",
-    "t": 169.7
+    "t": 171.46
    },
    {
     "speaker": "Anna",
     "text": "So courses, evenings, meetings, and activities for parents and their kids.",
-    "t": 178.1
+    "t": 179.86
    },
    {
     "speaker": "Tom",
     "text": "Exactly. The whole thing is built so that you get good-quality information, and at the same time a place to meet other parents and professionals.",
-    "t": 182.99
+    "t": 184.75
    },
    {
     "speaker": "Anna",
     "text": "That second part is great — meeting other parents.",
-    "t": 191.13
+    "t": 192.89
    },
    {
     "speaker": "Anna",
     "text": "Because parenting can feel lonely sometimes.",
-    "t": 194.03
+    "t": 195.79
    },
    {
     "speaker": "Tom",
     "text": "It really can.",
-    "t": 196.89
+    "t": 198.65
    },
    {
     "speaker": "Tom",
     "text": "And here you realise — okay, other parents have the same questions as me.",
-    "t": 198.03
+    "t": 199.79
    },
    {
     "speaker": "Tom",
     "text": "I'm not alone.",
-    "t": 202.3
+    "t": 204.06
    },
    {
     "speaker": "Tom",
     "text": "That alone helps a lot.",
-    "t": 203.42
+    "t": 205.18
    },
    {
     "speaker": "Anna",
     "text": "What if I have a serious, specific problem?",
-    "t": 204.91
+    "t": 206.67
    },
    {
     "speaker": "Anna",
     "text": "Can they handle everything?",
-    "t": 207.5
+    "t": 209.26
    },
    {
     "speaker": "Tom",
     "text": "That's an important point.",
-    "t": 209.2
+    "t": 210.96
    },
    {
     "speaker": "Tom",
     "text": "The Eltereforum is like a general practitioner — it does not give specialised treatment.",
-    "t": 210.47
+    "t": 212.23
    },
    {
     "speaker": "Tom",
     "text": "It's not a clinic or a therapy centre.",
-    "t": 215.27
+    "t": 217.03
    },
    {
     "speaker": "Tom",
     "text": "But if you need something more specific, the team listens to you and guides you.",
-    "t": 217.39
+    "t": 219.15
    },
    {
     "speaker": "Tom",
     "text": "They point you to the right specialised service.",
-    "t": 221.37
+    "t": 223.13
    },
    {
     "speaker": "Tom",
     "text": "So it's also a door — a first place to go, that sends you in the right direction.",
-    "t": 224.14
+    "t": 225.9
    },
    {
     "speaker": "Anna",
     "text": "So even if they can't help me with a specific issue, they are connected well enough to find someone who can.",
-    "t": 228.78
+    "t": 230.54
    },
    {
     "speaker": "Tom",
-    "text": "Exactly. A friendly first step.",
-    "t": 234.85
+    "text": "Exactly: it's a friendly first step.",
+    "t": 236.61
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom — where are these forums?",
-    "t": 237.03
+    "t": 239.07
    },
    {
     "speaker": "Anna",
     "text": "Are they all in the capital?",
-    "t": 239.59
+    "t": 241.63
    },
    {
     "speaker": "Tom",
     "text": "No, and that's the nice part.",
-    "t": 241.27
+    "t": 243.31
    },
    {
     "speaker": "Tom",
     "text": "They are regional.",
-    "t": 242.53
+    "t": 244.94
    },
    {
     "speaker": "Tom",
     "text": "They're being opened all across the country, step by step.",
-    "t": 243.74
+    "t": 246.15
    },
    {
     "speaker": "Tom",
     "text": "The first one opened in Niederanven, in February 2023.",
-    "t": 246.84
+    "t": 249.25
    },
    {
     "speaker": "Tom",
     "text": "Then came Bettembourg, Marnach, Bertrange, Esch-Belval, Ettelbruck, Hesperange, Lorentzweiler, Wiltz and Differdange.",
-    "t": 250.36
+    "t": 252.77
    },
    {
     "speaker": "Anna",
     "text": "So many forums already, across the regions.",
-    "t": 259.07
+    "t": 261.48
    },
    {
     "speaker": "Anna",
     "text": "So there's probably one not too far from home.",
-    "t": 261.82
+    "t": 264.23
    },
    {
     "speaker": "Tom",
     "text": "That's the goal — that every region has one nearby.",
-    "t": 264.52
+    "t": 266.93
    },
    {
     "speaker": "Tom",
     "text": "Each regional forum works together with the local players — the municipalities, the schools, the day-care centres, the local associations.",
-    "t": 267.81
+    "t": 270.22
    },
    {
     "speaker": "Tom",
     "text": "So it's really rooted in the community.",
-    "t": 275.65
+    "t": 278.06
    },
    {
     "speaker": "Anna",
     "text": "And there's also a website, right?",
-    "t": 277.73
+    "t": 280.14
    },
    {
     "speaker": "Tom",
     "text": "Yes. The website is eltereforum.lu.",
-    "t": 279.97
+    "t": 282.38
    },
    {
     "speaker": "Tom",
     "text": "It's an information platform in itself.",
-    "t": 282.71
+    "t": 285.12
    },
    {
     "speaker": "Tom",
     "text": "On the website you also find the agenda — the calendar of all the activities, evenings and courses at the different forums.",
-    "t": 284.94
+    "t": 287.35
    },
    {
     "speaker": "Tom",
     "text": "So you can see what's happening near you, and when.",
-    "t": 291.71
+    "t": 294.12
    },
    {
     "speaker": "Anna",
     "text": "Perfect. So let's make it really practical.",
-    "t": 294.64
+    "t": 297.05
    },
    {
     "speaker": "Anna",
     "text": "If I'm a parent listening right now, and I want to get started — what do I do?",
-    "t": 297.38
+    "t": 299.79
    },
    {
     "speaker": "Tom",
     "text": "Very simple. First, go to the website, eltereforum.lu.",
-    "t": 302.05
+    "t": 304.46
    },
    {
     "speaker": "Tom",
     "text": "Look at the agenda, and find the forum closest to you.",
-    "t": 306.31
+    "t": 308.72
    },
    {
     "speaker": "Tom",
     "text": "Then just look at what's on offer — a talk, a course, a parent-child activity — and come along.",
-    "t": 309.17
+    "t": 311.58
    },
    {
     "speaker": "Tom",
     "text": "You don't need a big reason.",
-    "t": 314.41
+    "t": 316.82
    },
    {
     "speaker": "Tom",
     "text": "You're a parent, and that's enough.",
-    "t": 315.86
+    "t": 318.27
    },
    {
     "speaker": "Anna",
     "text": "And it doesn't matter what age my child is?",
-    "t": 317.72
+    "t": 320.13
    },
    {
     "speaker": "Tom",
     "text": "Doesn't matter at all.",
-    "t": 320.23
+    "t": 322.64
    },
    {
     "speaker": "Tom",
     "text": "Expecting a baby, a toddler, a school child, a teenager — there's something for every stage.",
-    "t": 321.39
+    "t": 323.79
    },
    {
     "speaker": "Tom",
     "text": "And remember, it's for all parents and there's no problem too small to bring.",
-    "t": 326.96
+    "t": 329.36
    },
    {
     "speaker": "Anna",
     "text": "That's the message I'd love people to take away.",
-    "t": 331.05
+    "t": 333.45
    },
    {
     "speaker": "Anna",
     "text": "You don't have to wait for things to go wrong.",
-    "t": 333.65
+    "t": 336.05
    },
    {
     "speaker": "Anna",
     "text": "You can just go, to learn, and to meet other parents.",
-    "t": 335.73
+    "t": 338.13
    },
    {
     "speaker": "Tom",
     "text": "Exactly. Think of it as a friendly place that's on your side.",
-    "t": 339.02
+    "t": 341.42
    },
    {
     "speaker": "Tom",
     "text": "Strong parents, strong children.",
-    "t": 342.53
+    "t": 344.93
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Eltereforum.",
-    "t": 344.48
+    "t": 346.88
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 346.85
+    "t": 349.25
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 355.71
+    "t": 358.11
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 373.48
+    "t": 375.88
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 380.23
+    "t": 382.63
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 382.43
+    "t": 384.83
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 387.12
+    "t": 389.52
    },
    {
     "speaker": "Tom",
-    "text": "Take care... and see you next time!",
-    "t": 388.2
+    "text": "Take care, and see you next time!",
+    "t": 390.69
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 390.32
+    "t": 392.83
    }
   ],
   "questions": [
@@ -8911,542 +8901,532 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Et le sujet d'aujourd'hui s'adresse à tous ceux qui ont des enfants, ou qui vont bientôt en avoir.",
-    "t": 23.07
+    "t": 23.13
    },
    {
     "speaker": "Tom",
     "text": "C'est un service qui s'appelle l'Eltereforum.",
-    "t": 28.51
+    "t": 28.57
    },
    {
     "speaker": "Anna",
     "text": "Eltereforum. D'accord, Tom — c'est un mot luxembourgeois.",
-    "t": 31.31
+    "t": 31.37
    },
    {
     "speaker": "Anna",
-    "text": "Commençons par là.",
-    "t": 34.63
-   },
-   {
-    "speaker": "Anna",
-    "text": "Qu'est-ce que ça veut dire ?",
-    "t": 35.7
+    "text": "Commençons par là : qu'est-ce que ça veut dire ?",
+    "t": 35.44
    },
    {
     "speaker": "Tom",
-    "text": "Alors... « Elteren » veut dire « parents », et « Forum » désigne un lieu pour se rencontrer et discuter.",
-    "t": 37.08
+    "text": "Alors, « Elteren » veut dire « parents », et « Forum » désigne un lieu pour se rencontrer et discuter.",
+    "t": 37.75
    },
    {
     "speaker": "Tom",
     "text": "Donc Eltereforum, c'est littéralement un « forum des parents ».",
-    "t": 43.19
+    "t": 44.03
    },
    {
     "speaker": "Anna",
     "text": "Un forum des parents.",
-    "t": 46.68
+    "t": 48.01
    },
    {
     "speaker": "Anna",
     "text": "Donc c'est un lieu pour les parents.",
-    "t": 47.88
+    "t": 49.21
    },
    {
     "speaker": "Tom",
     "text": "Exactement. La description officielle est très engageante.",
-    "t": 49.64
+    "t": 50.97
    },
    {
     "speaker": "Tom",
     "text": "Les forums des parents sont des lieux accueillants d'échange, d'information et de soutien — pour tous les parents.",
-    "t": 52.97
+    "t": 54.3
    },
    {
     "speaker": "Anna",
     "text": "Pour tous les parents.",
-    "t": 58.63
+    "t": 59.96
    },
    {
     "speaker": "Anna",
     "text": "Donc pas seulement pour les parents qui rencontrent des difficultés ?",
-    "t": 59.69
+    "t": 61.02
    },
    {
     "speaker": "Tom",
-    "text": "Non, non — et c'est important.",
-    "t": 62.57
-   },
-   {
-    "speaker": "Tom",
-    "text": "C'est pour tout le monde.",
-    "t": 64.52
+    "text": "Non, non — et c'est important : c'est pour tout le monde.",
+    "t": 63.9
    },
    {
     "speaker": "Tom",
     "text": "L'Eltereforum est ouvert à tous.",
-    "t": 65.8
+    "t": 67.18
    },
    {
     "speaker": "Tom",
     "text": "C'est un endroit normal et convivial où chaque parent peut venir, poser des questions, apprendre quelque chose, et rencontrer d'autres parents.",
-    "t": 68.03
+    "t": 69.46
    },
    {
     "speaker": "Tom",
     "text": "Vous n'avez pas besoin d'une raison particulière.",
-    "t": 75.58
+    "t": 76.59
    },
    {
     "speaker": "Tom",
     "text": "Vous n'avez pas besoin d'avoir une question particulière.",
-    "t": 77.9
+    "t": 78.91
    },
    {
     "speaker": "Anna",
     "text": "Tant mieux. Parce que parfois, les gens pensent : « Je demanderai de l'aide seulement si quelque chose ne va pas. »",
-    "t": 80.61
+    "t": 81.62
    },
    {
     "speaker": "Tom",
     "text": "Voilà. Mais élever un enfant, c'est un grand travail pour tout le monde.",
-    "t": 86.29
+    "t": 87.3
    },
    {
     "speaker": "Tom",
     "text": "Donc l'idée est de soutenir les parents dès le tout début, et tout au long du chemin.",
-    "t": 89.91
+    "t": 90.92
    },
    {
     "speaker": "Anna",
     "text": "Dès le tout début — qu'est-ce que ça veut dire exactement ?",
-    "t": 94.14
+    "t": 95.15
    },
    {
     "speaker": "Tom",
     "text": "Ça veut dire dès le moment où vous commencez votre « projet parental » — donc, même avant la naissance du bébé, quand vous le planifiez ou l'attendez — et à travers toutes les étapes de la vie de l'enfant, jusqu'à ce qu'il devienne adulte.",
-    "t": 97.51
+    "t": 98.52
    },
    {
     "speaker": "Anna",
     "text": "Waouh. Donc de la grossesse jusqu'aux dix-huit ans de l'enfant.",
-    "t": 109.39
+    "t": 110.4
    },
    {
     "speaker": "Tom",
     "text": "Oui. Tout le parcours.",
-    "t": 112.77
+    "t": 113.78
    },
    {
     "speaker": "Tom",
     "text": "Chaque âge a ses questions.",
-    "t": 113.84
+    "t": 115.4
    },
    {
     "speaker": "Tom",
     "text": "Un bébé qui ne dort pas.",
-    "t": 115.35
+    "t": 116.93
    },
    {
     "speaker": "Tom",
     "text": "Un petit enfant et l'usage des outils numériques.",
-    "t": 116.85
+    "t": 118.43
    },
    {
     "speaker": "Tom",
     "text": "L'école. Les adolescents.",
-    "t": 119.46
+    "t": 121.04
    },
    {
     "speaker": "Tom",
     "text": "L'Eltereforum est là pour tout ça.",
-    "t": 121.37
+    "t": 122.95
    },
    {
     "speaker": "Anna",
     "text": "C'est rassurant. Maintenant dites-moi — qui est derrière tout ça ?",
-    "t": 123.67
+    "t": 125.25
    },
    {
     "speaker": "Anna",
     "text": "C'est officiel ?",
-    "t": 126.91
+    "t": 128.49
    },
    {
     "speaker": "Tom",
     "text": "C'est tout à fait officiel.",
-    "t": 128.11
+    "t": 129.73
    },
    {
     "speaker": "Tom",
     "text": "L'Eltereforum est coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse.",
-    "t": 129.7
+    "t": 131.32
    },
    {
     "speaker": "Tom",
     "text": "C'est donc un service public de l'État luxembourgeois.",
-    "t": 135.11
+    "t": 136.73
    },
    {
     "speaker": "Tom",
     "text": "Et il y a un joli slogan derrière — « Parents forts, enfants forts ».",
-    "t": 137.89
+    "t": 139.51
    },
    {
     "speaker": "Tom",
     "text": "L'idée étant : quand les parents se sentent soutenus et confiants, les enfants vont mieux aussi.",
-    "t": 141.72
+    "t": 143.34
    },
    {
     "speaker": "Anna",
     "text": "Parents forts, enfants forts.",
-    "t": 146.8
+    "t": 148.42
    },
    {
     "speaker": "Anna",
     "text": "J'aime bien. Bon, alors concrètement — que se passe-t-il vraiment dans un Eltereforum ?",
-    "t": 148.58
+    "t": 150.2
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que je peux y faire ?",
-    "t": 153.72
+    "t": 155.34
    },
    {
     "speaker": "Tom",
     "text": "Plein de choses.",
-    "t": 155.22
+    "t": 156.84
    },
    {
     "speaker": "Tom",
     "text": "Laissez-moi citer les principales.",
-    "t": 156.26
+    "t": 157.88
    },
    {
     "speaker": "Tom",
     "text": "Il y a des rencontres de parents — donc des moments pour se retrouver et échanger avec d'autres parents.",
-    "t": 158.15
+    "t": 159.77
    },
    {
     "speaker": "Tom",
     "text": "Il y a aussi des cours qui offrent des conseils concrets sur différents aspects de la parentalité.",
-    "t": 163.11
+    "t": 164.73
    },
    {
     "speaker": "Tom",
     "text": "Il y a des activités pour les parents avec leurs enfants.",
-    "t": 167.97
+    "t": 169.59
    },
    {
     "speaker": "Tom",
     "text": "Et il y a des soirées à thème, des conférences et des exposés — par exemple, une soirée sur le sommeil, ou sur les outils numériques, ou sur la lecture.",
-    "t": 170.73
+    "t": 172.35
    },
    {
     "speaker": "Anna",
     "text": "Donc des cours, des soirées, des rencontres, et des activités pour les parents et leurs enfants.",
-    "t": 178.69
+    "t": 180.31
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Le tout est construit pour que vous receviez des informations de qualité, et en même temps un lieu pour rencontrer d'autres parents et des professionnels.",
-    "t": 183.22
+    "t": 184.84
    },
    {
     "speaker": "Anna",
     "text": "Cette deuxième partie est formidable — rencontrer d'autres parents.",
-    "t": 191.31
+    "t": 192.93
    },
    {
     "speaker": "Anna",
     "text": "Parce qu'être parent, ça peut parfois sembler solitaire.",
-    "t": 194.46
+    "t": 196.08
    },
    {
     "speaker": "Tom",
     "text": "Vraiment. Et là, vous réalisez — d'accord, d'autres parents ont les mêmes questions que moi.",
-    "t": 197.11
+    "t": 198.73
    },
    {
     "speaker": "Tom",
     "text": "Je ne suis pas seul.",
-    "t": 202.22
+    "t": 203.84
    },
    {
     "speaker": "Tom",
     "text": "Rien que ça, ça aide beaucoup.",
-    "t": 203.45
+    "t": 205.1
    },
    {
     "speaker": "Anna",
     "text": "Et si j'ai un problème sérieux et spécifique ?",
-    "t": 205.04
+    "t": 206.69
    },
    {
     "speaker": "Anna",
     "text": "Est-ce qu'ils peuvent tout gérer ?",
-    "t": 207.49
+    "t": 209.14
    },
    {
     "speaker": "Tom",
     "text": "C'est un point important.",
-    "t": 209.26
+    "t": 210.91
    },
    {
     "speaker": "Tom",
     "text": "L'Eltereforum est comme un médecin généraliste — il ne propose pas de traitement spécialisé.",
-    "t": 210.79
+    "t": 212.44
    },
    {
     "speaker": "Tom",
     "text": "Ce n'est pas une clinique ni un centre de thérapie.",
-    "t": 215.77
+    "t": 217.42
    },
    {
     "speaker": "Tom",
     "text": "Mais si vous avez besoin de quelque chose de plus spécifique, l'équipe vous écoute et vous oriente.",
-    "t": 218.31
+    "t": 219.96
    },
    {
     "speaker": "Tom",
     "text": "Elle vous indique le bon service spécialisé.",
-    "t": 223.48
+    "t": 225.13
    },
    {
     "speaker": "Tom",
     "text": "Donc c'est aussi une porte — un premier endroit où aller, qui vous envoie dans la bonne direction.",
-    "t": 225.87
+    "t": 227.52
    },
    {
     "speaker": "Anna",
     "text": "Donc même s'ils ne peuvent pas m'aider eux-mêmes avec une question précise, ils sont assez bien connectés pour trouver quelqu'un qui le peut.",
-    "t": 230.84
+    "t": 232.49
    },
    {
     "speaker": "Tom",
-    "text": "Exactement. Un premier pas convivial.",
-    "t": 236.81
+    "text": "Exactement : c'est un premier pas convivial.",
+    "t": 238.46
    },
    {
     "speaker": "Anna",
     "text": "Bon, Tom — où se trouvent ces forums ?",
-    "t": 239.34
+    "t": 241.22
    },
    {
     "speaker": "Anna",
     "text": "Ils sont tous dans la capitale ?",
-    "t": 241.43
+    "t": 243.17
    },
    {
     "speaker": "Tom",
     "text": "Non, et c'est ça qui est bien.",
-    "t": 243.14
+    "t": 244.88
    },
    {
     "speaker": "Tom",
     "text": "Ils sont régionaux.",
-    "t": 244.75
+    "t": 246.49
    },
    {
     "speaker": "Tom",
     "text": "Ils ouvrent partout dans le pays, étape par étape.",
-    "t": 246.01
+    "t": 247.74
    },
    {
     "speaker": "Tom",
     "text": "Le premier a ouvert à Niederanven, en février 2023.",
-    "t": 249.01
+    "t": 250.74
    },
    {
     "speaker": "Tom",
     "text": "Puis sont venus Bettembourg, Marnach, Bertrange, Esch-Belval, Ettelbruck, Hesperange, Lorentzweiler, Wiltz et Differdange.",
-    "t": 252.55
+    "t": 254.28
    },
    {
     "speaker": "Anna",
     "text": "Donc déjà beaucoup de forums, dans toutes les régions.",
-    "t": 260.97
+    "t": 262.7
    },
    {
     "speaker": "Anna",
     "text": "Il y en a donc probablement un pas trop loin de chez soi.",
-    "t": 263.37
+    "t": 265.11
    },
    {
     "speaker": "Tom",
     "text": "C'est le but — que chaque région en ait un à proximité.",
-    "t": 266.15
+    "t": 267.89
    },
    {
     "speaker": "Tom",
     "text": "Chaque forum régional travaille avec les acteurs locaux — les communes, les écoles, les structures d'accueil, les associations locales.",
-    "t": 269.27
+    "t": 271.01
    },
    {
     "speaker": "Tom",
     "text": "Donc il est vraiment ancré dans la communauté.",
-    "t": 276.88
+    "t": 278.62
    },
    {
     "speaker": "Anna",
     "text": "Et il y a aussi un site internet, n'est-ce pas ?",
-    "t": 279.53
+    "t": 281.27
    },
    {
     "speaker": "Tom",
     "text": "Oui. Le site est eltereforum.lu.",
-    "t": 281.83
+    "t": 283.57
    },
    {
     "speaker": "Tom",
     "text": "C'est une plateforme d'information en soi.",
-    "t": 284.61
+    "t": 286.79
    },
    {
     "speaker": "Tom",
     "text": "Sur le site, vous trouvez aussi l'agenda — le calendrier de toutes les activités, soirées et cours des différents forums.",
-    "t": 286.76
+    "t": 289.11
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez donc voir ce qui se passe près de chez vous, et quand.",
-    "t": 293.48
+    "t": 295.83
    },
    {
     "speaker": "Anna",
     "text": "Parfait. Alors rendons ça vraiment pratique.",
-    "t": 296.73
+    "t": 299.08
    },
    {
     "speaker": "Anna",
     "text": "Si je suis un parent qui écoute en ce moment, et que je veux me lancer — qu'est-ce que je fais ?",
-    "t": 299.15
+    "t": 301.36
    },
    {
     "speaker": "Tom",
     "text": "Très simple. D'abord, allez sur le site, eltereforum.lu.",
-    "t": 303.34
+    "t": 305.55
    },
    {
     "speaker": "Tom",
     "text": "Regardez l'agenda, et trouvez le forum le plus proche de chez vous.",
-    "t": 307.28
+    "t": 309.49
    },
    {
     "speaker": "Tom",
     "text": "Ensuite, regardez simplement ce qui est proposé — une conférence, un cours, une activité parent-enfant — et venez.",
-    "t": 310.68
+    "t": 312.89
    },
    {
     "speaker": "Tom",
     "text": "Vous n'avez pas besoin d'une grande raison.",
-    "t": 317.4
+    "t": 319.61
    },
    {
     "speaker": "Tom",
     "text": "Vous êtes parent, et ça suffit.",
-    "t": 319.28
+    "t": 321.49
    },
    {
     "speaker": "Anna",
     "text": "Et peu importe l'âge de mon enfant ?",
-    "t": 321.15
+    "t": 323.46
    },
    {
     "speaker": "Tom",
     "text": "Aucune importance. Que vous attendiez un bébé, que vous ayez un tout-petit, un enfant à l'école, un adolescent — il y a quelque chose pour chaque étape.",
-    "t": 323.02
+    "t": 325.33
    },
    {
     "speaker": "Tom",
     "text": "Et rappelez-vous, c'est pour tous les parents, et aucune question n'est trop petite pour être posée.",
-    "t": 330.9
+    "t": 333.21
    },
    {
     "speaker": "Anna",
     "text": "C'est le message que j'aimerais que les gens retiennent.",
-    "t": 335.63
+    "t": 337.94
    },
    {
     "speaker": "Anna",
     "text": "Vous n'avez pas à attendre que ça aille mal.",
-    "t": 337.89
+    "t": 340.2
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez simplement y aller, pour apprendre, et pour rencontrer d'autres parents.",
-    "t": 340.02
+    "t": 342.33
    },
    {
     "speaker": "Tom",
     "text": "Exactement. Voyez-le comme un lieu convivial qui est de votre côté.",
-    "t": 343.81
+    "t": 346.12
    },
    {
     "speaker": "Tom",
     "text": "Parents forts, enfants forts.",
-    "t": 347.72
+    "t": 350.03
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'Eltereforum.",
-    "t": 349.67
+    "t": 351.98
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 351.96
+    "t": 354.27
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 359.89
+    "t": 362.2
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 375.76
+    "t": 378.07
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 380.41
+    "t": 382.72
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 382.19
+    "t": 384.5
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 386.57
+    "t": 388.88
    },
    {
     "speaker": "Tom",
-    "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 387.8
+    "text": "Prenez soin de vous, et à la prochaine !",
+    "t": 390.13
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 390.26
+    "t": 392.42
    }
   ],
   "segments_de": [
@@ -9468,552 +9448,542 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
     "text": "Genau. Und das heutige Thema ist für alle, die Kinder haben, oder bald Kinder bekommen.",
-    "t": 27.86
+    "t": 27.88
    },
    {
     "speaker": "Tom",
     "text": "Es geht um einen Dienst, der Eltereforum heißt.",
-    "t": 33.84
+    "t": 33.86
    },
    {
     "speaker": "Anna",
     "text": "Eltereforum. Okay, Tom — das ist ein luxemburgisches Wort.",
-    "t": 36.98
+    "t": 37
    },
    {
     "speaker": "Anna",
-    "text": "Fangen wir dort an.",
-    "t": 41.4
-   },
-   {
-    "speaker": "Anna",
-    "text": "Was bedeutet es?",
-    "t": 42.6
+    "text": "Fangen wir dort an: Was bedeutet es?",
+    "t": 41.85
    },
    {
     "speaker": "Tom",
-    "text": "Also... „Elteren\" bedeutet „Eltern\", und „Forum\" ist ein Ort, um sich zu treffen und zu reden.",
-    "t": 44.08
+    "text": "Also, „Elteren\" bedeutet „Eltern\", und „Forum\" ist ein Ort, um sich zu treffen und zu reden.",
+    "t": 45.07
    },
    {
     "speaker": "Tom",
     "text": "Eltereforum ist also, wörtlich, ein „Elternforum\".",
-    "t": 51.56
+    "t": 51.32
    },
    {
     "speaker": "Anna",
     "text": "Ein Elternforum. Also ein Ort für Eltern.",
-    "t": 55
+    "t": 54.91
    },
    {
     "speaker": "Tom",
     "text": "Genau. Die offizielle Beschreibung ist sehr ansprechend.",
-    "t": 58.03
+    "t": 57.94
    },
    {
     "speaker": "Tom",
     "text": "Die Elternforen sind einladende Orte für Austausch, Information und Unterstützung — für alle Eltern.",
-    "t": 61.68
+    "t": 61.59
    },
    {
     "speaker": "Anna",
     "text": "Für alle Eltern.",
-    "t": 68.08
+    "t": 67.99
    },
    {
     "speaker": "Anna",
     "text": "Also nicht nur für Eltern, die Schwierigkeiten haben?",
-    "t": 69.43
+    "t": 69.34
    },
    {
     "speaker": "Tom",
-    "text": "Nein, nein — und das ist wichtig.",
-    "t": 72.26
-   },
-   {
-    "speaker": "Tom",
-    "text": "Es ist für alle.",
-    "t": 74.35
+    "text": "Nein, nein — und das ist wichtig: Es ist für alle.",
+    "t": 72.17
    },
    {
     "speaker": "Tom",
     "text": "Das Eltereforum ist offen für alle.",
-    "t": 75.45
+    "t": 75.54
    },
    {
     "speaker": "Tom",
     "text": "Es ist ein ganz normaler, freundlicher Ort, an den alle Eltern kommen können, um Fragen zu stellen, etwas zu lernen und andere Eltern zu treffen.",
-    "t": 77.75
+    "t": 78.14
    },
    {
     "speaker": "Tom",
     "text": "Sie brauchen keinen besonderen Grund.",
-    "t": 86.76
+    "t": 86.73
    },
    {
     "speaker": "Tom",
     "text": "Sie müssen kein bestimmtes Anliegen haben.",
-    "t": 88.8
+    "t": 88.77
    },
    {
     "speaker": "Anna",
     "text": "Gut. Denn manchmal denken die Leute: „Ich bitte nur um Hilfe, wenn etwas nicht stimmt.\"",
-    "t": 91.1
+    "t": 91.07
    },
    {
     "speaker": "Tom",
     "text": "Richtig. Aber ein Kind großzuziehen ist für alle eine große Aufgabe.",
-    "t": 96.08
+    "t": 96.05
    },
    {
     "speaker": "Tom",
     "text": "Die Idee ist also, Eltern von Anfang an zu unterstützen, und auf dem ganzen Weg.",
-    "t": 100.74
+    "t": 100.71
    },
    {
     "speaker": "Anna",
     "text": "Von Anfang an — was heißt das genau?",
-    "t": 105.63
+    "t": 105.6
    },
    {
     "speaker": "Tom",
     "text": "Das heißt: ab dem Moment, in dem Ihr „Elternprojekt\" beginnt — also schon bevor das Baby geboren ist, wenn Sie planen oder ein Kind erwarten — durch alle Lebensphasen des Kindes hindurch, bis es erwachsen ist.",
-    "t": 108.26
+    "t": 108.23
    },
    {
     "speaker": "Anna",
     "text": "Wow. Also von der Schwangerschaft, bis das Kind achtzehn ist.",
-    "t": 120.66
+    "t": 120.63
    },
    {
     "speaker": "Tom",
     "text": "Ja. Die ganze Reise.",
-    "t": 124.63
+    "t": 124.6
    },
    {
     "speaker": "Tom",
     "text": "Jedes Alter hat seine Fragen.",
-    "t": 126.35
+    "t": 126.32
    },
    {
     "speaker": "Tom",
     "text": "Ein Baby, das nicht schläft.",
-    "t": 128.17
+    "t": 128.14
    },
    {
     "speaker": "Tom",
     "text": "Ein kleines Kind und der Umgang mit digitalen Geräten.",
-    "t": 129.91
+    "t": 129.88
    },
    {
     "speaker": "Tom",
-    "text": "Die Schule. Teenager.",
-    "t": 133.02
+    "text": "Die Schule, und dann die Teenagerjahre.",
+    "t": 133.17
    },
    {
     "speaker": "Tom",
     "text": "Das Eltereforum ist für all das da.",
-    "t": 134.84
+    "t": 135.78
    },
    {
     "speaker": "Anna",
     "text": "Das ist beruhigend.",
-    "t": 137.13
+    "t": 138.1
    },
    {
     "speaker": "Anna",
     "text": "Jetzt sag mir — wer steht dahinter?",
-    "t": 138.39
+    "t": 139.36
    },
    {
     "speaker": "Anna",
     "text": "Ist es offiziell?",
-    "t": 140.79
+    "t": 141.76
    },
    {
     "speaker": "Tom",
     "text": "Es ist vollkommen offiziell.",
-    "t": 142.22
+    "t": 143.19
    },
    {
     "speaker": "Tom",
     "text": "Das Eltereforum wird vom Ministerium für Bildung, Kinder und Jugend koordiniert.",
-    "t": 144.03
+    "t": 145
    },
    {
     "speaker": "Tom",
     "text": "Es ist also ein öffentlicher Dienst des luxemburgischen Staates.",
-    "t": 149.14
+    "t": 150.11
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt einen schönen Slogan dahinter — „Starke Eltern, starke Kinder\".",
-    "t": 152.58
+    "t": 153.55
    },
    {
     "speaker": "Tom",
     "text": "Die Idee dabei: Wenn Eltern sich unterstützt und sicher fühlen, geht es auch den Kindern besser.",
-    "t": 156.99
+    "t": 157.96
    },
    {
     "speaker": "Anna",
     "text": "Starke Eltern, starke Kinder.",
-    "t": 162.57
+    "t": 163.54
    },
    {
     "speaker": "Anna",
     "text": "Das gefällt mir.",
-    "t": 164.75
+    "t": 165.72
    },
    {
     "speaker": "Anna",
     "text": "Okay, ganz praktisch — was passiert eigentlich in einem Eltereforum?",
-    "t": 165.93
+    "t": 166.9
    },
    {
     "speaker": "Anna",
     "text": "Was kann ich dort machen?",
-    "t": 170.59
+    "t": 171.56
    },
    {
     "speaker": "Tom",
     "text": "Vieles. Lass mich die wichtigsten Dinge aufzählen.",
-    "t": 172.17
+    "t": 173.14
    },
    {
     "speaker": "Tom",
     "text": "Es gibt Elterntreffen — also Momente, um zusammenzukommen und sich mit anderen Eltern auszutauschen.",
-    "t": 175.51
+    "t": 176.48
    },
    {
     "speaker": "Tom",
     "text": "Es gibt auch Kurse mit konkreten Hilfestellungen zu verschiedenen Aspekten der Elternschaft.",
-    "t": 181.69
+    "t": 182.66
    },
    {
     "speaker": "Tom",
     "text": "Es gibt Aktivitäten für Eltern zusammen mit ihren Kindern.",
-    "t": 186.61
+    "t": 187.58
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt Themenabende, Gespräche und Vorträge — zum Beispiel ein Abend über Schlaf, oder über digitale Geräte, oder über das Lesen.",
-    "t": 189.79
+    "t": 190.76
    },
    {
     "speaker": "Anna",
     "text": "Also Kurse, Abende, Treffen, und Aktivitäten für Eltern und ihre Kinder.",
-    "t": 198.47
+    "t": 199.44
    },
    {
     "speaker": "Tom",
     "text": "Genau. Das Ganze ist so aufgebaut, dass Sie hochwertige Informationen bekommen, und gleichzeitig einen Ort, um andere Eltern und Fachleute zu treffen.",
-    "t": 203.75
+    "t": 204.72
    },
    {
     "speaker": "Anna",
     "text": "Dieser zweite Teil ist großartig — andere Eltern treffen.",
-    "t": 213.72
+    "t": 214.69
    },
    {
     "speaker": "Anna",
     "text": "Denn Elternsein kann sich manchmal einsam anfühlen.",
-    "t": 217.68
+    "t": 218.65
    },
    {
     "speaker": "Tom",
     "text": "Das kann es wirklich.",
-    "t": 220.74
+    "t": 221.71
    },
    {
     "speaker": "Tom",
     "text": "Und hier merken Sie — okay, andere Eltern haben die gleichen Fragen wie ich.",
-    "t": 222.1
+    "t": 223.07
    },
    {
     "speaker": "Tom",
     "text": "Ich bin nicht allein.",
-    "t": 226.63
+    "t": 227.6
    },
    {
     "speaker": "Tom",
     "text": "Das allein hilft schon sehr.",
-    "t": 227.97
+    "t": 228.94
    },
    {
     "speaker": "Anna",
     "text": "Was ist, wenn ich ein ernstes, spezielles Problem habe?",
-    "t": 229.78
+    "t": 230.75
    },
    {
     "speaker": "Anna",
     "text": "Können sie alles behandeln?",
-    "t": 232.95
+    "t": 233.92
    },
    {
     "speaker": "Tom",
     "text": "Das ist ein wichtiger Punkt.",
-    "t": 234.75
+    "t": 235.72
    },
    {
     "speaker": "Tom",
     "text": "Das Eltereforum ist wie ein Hausarzt — es bietet keine spezialisierte Behandlung an.",
-    "t": 236.52
+    "t": 237.49
    },
    {
     "speaker": "Tom",
     "text": "Es ist keine Klinik und kein Therapiezentrum.",
-    "t": 241.73
+    "t": 242.7
    },
    {
     "speaker": "Tom",
     "text": "Aber wenn Sie etwas Spezielleres brauchen, hört das Team Ihnen zu und begleitet Sie.",
-    "t": 244.6
+    "t": 245.57
    },
    {
     "speaker": "Tom",
     "text": "Sie zeigen Ihnen den richtigen spezialisierten Dienst.",
-    "t": 249.2
+    "t": 250.17
    },
    {
     "speaker": "Tom",
     "text": "Es ist also auch eine Tür — eine erste Anlaufstelle, die Sie in die richtige Richtung schickt.",
-    "t": 252.23
+    "t": 253.2
    },
    {
     "speaker": "Anna",
     "text": "Auch wenn sie mir bei einem bestimmten Anliegen nicht selbst helfen können, sind sie also gut genug vernetzt, um jemanden zu finden, der es kann.",
-    "t": 257.12
+    "t": 258.09
    },
    {
     "speaker": "Tom",
-    "text": "Genau. Ein freundlicher erster Schritt.",
-    "t": 264.61
+    "text": "Genau: Es ist ein freundlicher erster Schritt.",
+    "t": 265.58
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom — wo sind diese Foren?",
-    "t": 267.15
+    "t": 268.6
    },
    {
     "speaker": "Anna",
     "text": "Sind sie alle in der Hauptstadt?",
-    "t": 269.72
+    "t": 271.17
    },
    {
     "speaker": "Tom",
     "text": "Nein, und das ist das Schöne daran.",
-    "t": 271.57
+    "t": 273.02
    },
    {
     "speaker": "Tom",
     "text": "Sie sind regional.",
-    "t": 273.67
+    "t": 275.34
    },
    {
     "speaker": "Tom",
     "text": "Sie werden nach und nach im ganzen Land eröffnet.",
-    "t": 275.22
+    "t": 276.89
    },
    {
     "speaker": "Tom",
     "text": "Das erste öffnete in Niederanven, im Februar 2023.",
-    "t": 277.99
+    "t": 279.66
    },
    {
     "speaker": "Tom",
     "text": "Dann kamen Bettemburg, Marnach, Bartringen, Esch-Belval, Ettelbrück, Hesperingen, Lorentzweiler, Wiltz und Differdingen.",
-    "t": 282.65
+    "t": 284.32
    },
    {
     "speaker": "Anna",
     "text": "So viele Foren schon, über die Regionen verteilt.",
-    "t": 291.24
+    "t": 292.91
    },
    {
     "speaker": "Anna",
     "text": "Es gibt also wahrscheinlich eines nicht weit von zu Hause.",
-    "t": 294.55
+    "t": 296.22
    },
    {
     "speaker": "Tom",
     "text": "Das ist das Ziel — dass jede Region eines in der Nähe hat.",
-    "t": 297.86
+    "t": 299.53
    },
    {
     "speaker": "Tom",
     "text": "Jedes regionale Forum arbeitet mit den lokalen Akteuren zusammen — den Gemeinden, den Schulen, den Kindertagesstätten, den lokalen Vereinen.",
-    "t": 301.5
+    "t": 303.17
    },
    {
     "speaker": "Tom",
     "text": "Es ist also wirklich in der Gemeinschaft verwurzelt.",
-    "t": 310.52
+    "t": 312.19
    },
    {
     "speaker": "Anna",
     "text": "Und es gibt auch eine Website, richtig?",
-    "t": 313.47
+    "t": 315.14
    },
    {
     "speaker": "Tom",
     "text": "Ja. Die Website ist eltereforum.lu.",
-    "t": 316.12
+    "t": 317.79
    },
    {
     "speaker": "Tom",
     "text": "Sie ist selbst eine Informationsplattform.",
-    "t": 319.43
+    "t": 321.1
    },
    {
     "speaker": "Tom",
     "text": "Auf der Website finden Sie auch die Agenda — den Kalender mit allen Aktivitäten, Abenden und Kursen in den verschiedenen Foren.",
-    "t": 321.76
+    "t": 323.43
    },
    {
     "speaker": "Tom",
     "text": "Sie können also sehen, was in Ihrer Nähe passiert, und wann.",
-    "t": 329.21
+    "t": 330.88
    },
    {
     "speaker": "Anna",
     "text": "Perfekt. Machen wir es also ganz praktisch.",
-    "t": 332.82
+    "t": 334.49
    },
    {
     "speaker": "Anna",
     "text": "Wenn ich als Elternteil gerade zuhöre und anfangen möchte — was mache ich?",
-    "t": 335.72
+    "t": 337.35
    },
    {
     "speaker": "Tom",
     "text": "Ganz einfach. Gehen Sie zuerst auf die Website, eltereforum.lu.",
-    "t": 340.7
+    "t": 342.33
    },
    {
     "speaker": "Tom",
     "text": "Schauen Sie in die Agenda, und finden Sie das Forum, das Ihnen am nächsten liegt.",
-    "t": 345.78
+    "t": 347.41
    },
    {
     "speaker": "Tom",
     "text": "Dann schauen Sie einfach, was angeboten wird — ein Vortrag, ein Kurs, eine Eltern-Kind-Aktivität — und kommen Sie vorbei.",
-    "t": 350.14
+    "t": 351.77
    },
    {
     "speaker": "Tom",
     "text": "Sie brauchen keinen großen Grund.",
-    "t": 357.79
+    "t": 359.42
    },
    {
     "speaker": "Tom",
     "text": "Sie sind Eltern, und das genügt.",
-    "t": 359.61
+    "t": 361.24
    },
    {
     "speaker": "Anna",
     "text": "Und es spielt keine Rolle, wie alt mein Kind ist?",
-    "t": 361.59
+    "t": 363.22
    },
    {
     "speaker": "Tom",
     "text": "Überhaupt keine Rolle.",
-    "t": 364.49
+    "t": 366.12
    },
    {
     "speaker": "Tom",
     "text": "Ob Sie ein Baby erwarten, ein Kleinkind, ein Schulkind, ein Teenager — für jede Phase gibt es etwas.",
-    "t": 365.78
+    "t": 367.41
    },
    {
     "speaker": "Tom",
     "text": "Und denken Sie daran: Es ist für alle Eltern, und kein Anliegen ist zu klein.",
-    "t": 373.04
+    "t": 374.67
    },
    {
     "speaker": "Anna",
     "text": "Das ist die Botschaft, die ich den Menschen gerne mitgeben möchte.",
-    "t": 377.63
+    "t": 379.26
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nicht warten, bis etwas schiefgeht.",
-    "t": 381.15
+    "t": 382.78
    },
    {
     "speaker": "Anna",
     "text": "Sie können einfach hingehen, um zu lernen, und um andere Eltern zu treffen.",
-    "t": 383.69
+    "t": 385.32
    },
    {
     "speaker": "Tom",
     "text": "Genau. Sehen Sie es als einen freundlichen Ort, der auf Ihrer Seite ist.",
-    "t": 387.75
+    "t": 389.38
    },
    {
     "speaker": "Tom",
     "text": "Starke Eltern, starke Kinder.",
-    "t": 392.93
+    "t": 394.56
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über das Eltereforum.",
-    "t": 395.06
+    "t": 396.69
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 397.74
+    "t": 399.37
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 406.67
+    "t": 408.3
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 424.52
+    "t": 426.15
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 430.22
+    "t": 431.85
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 432.47
+    "t": 434.1
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 437.36
+    "t": 438.99
    },
    {
     "speaker": "Tom",
-    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 438.51
+    "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
+    "t": 440.09
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 441.72
+    "t": 442.88
    }
   ],
   "segments_lb": [
@@ -10039,202 +10009,202 @@ const EPISODES = [
    },
    {
     "speaker": "Anna",
-    "text": "Eltereforum. Okay, Tom — dat ass e lëtzebuergescht Wuert. Loosse mer do ufänken. Wat heescht et?",
+    "text": "Eltereforum. Okay, Tom — dat ass e lëtzebuergescht Wuert. Loosse mer do ufänken: wat heescht et?",
     "t": 35.18
    },
    {
     "speaker": "Tom",
-    "text": "Also... \"Elteren\", dat si Mamm a Papp, an e \"Forum\" ass eng Plaz, fir sech ze treffen an ze schwätzen. Also ass den Eltereforum, wuertwiertlech, e \"Forum fir Elteren\".",
-    "t": 41.66
+    "text": "Also, \"Elteren\", dat si Mamm a Papp, an e \"Forum\" ass eng Plaz, fir sech ze treffen an ze schwätzen. Also ass den Eltereforum, wuertwiertlech, e \"Forum fir Elteren\".",
+    "t": 41.58
    },
    {
     "speaker": "Anna",
     "text": "E Forum fir Elteren. Also eng Plaz fir Elteren.",
-    "t": 50.53
+    "t": 50.46
    },
    {
     "speaker": "Tom",
     "text": "Genee. Déi offiziell Beschreiwung ass ganz einluedend. D'Eltereforen si wëllkommend Plaze fir Austausch, Informatioun an Ënnerstëtzung — fir all Elteren.",
-    "t": 53.93
+    "t": 53.65
    },
    {
     "speaker": "Anna",
     "text": "Fir all Elteren. Also net nëmme fir Elteren, déi Schwieregkeeten hunn?",
-    "t": 62.62
+    "t": 62.34
    },
    {
     "speaker": "Tom",
-    "text": "Nee, nee — an dat ass wichteg. Et ass fir jiddereen. Den Eltereforum ass op fir all. Et ass eng normal, frëndlech Plaz, wou all Elterendeel ka kommen, Froe stellen, eppes léieren, an aner Elteren treffen. Dir braucht kee speziellen Grond. Dir braucht kee bestëmmten Uleies ze hunn.",
-    "t": 66.71
+    "text": "Nee, nee — an dat ass wichteg: et ass fir jiddereen. Den Eltereforum ass op fir all. Et ass eng normal, frëndlech Plaz, wou all Elterendeel ka kommen, Froe stellen, eppes léieren, an aner Elteren treffen. Dir braucht kee speziellen Grond. Dir braucht kee bestëmmten Uleies ze hunn.",
+    "t": 66.29
    },
    {
     "speaker": "Anna",
     "text": "Gutt. Well heiansdo denken d'Leit: \"Ech froen nëmmen no Hëllef, wann eppes schifleeft.\"",
-    "t": 81.82
+    "t": 82.46
    },
    {
     "speaker": "Tom",
     "text": "Richteg. Mä e Kand grousszezéien ass eng grouss Aufgab fir jiddereen. Also ass d'Iddi, d'Elteren vun Ufank un z'ënnerstëtzen, an de ganze Wee laanscht.",
-    "t": 86.58
+    "t": 87.22
    },
    {
     "speaker": "Anna",
     "text": "Vun Ufank un — wat heescht dat genee?",
-    "t": 93.66
+    "t": 95.41
    },
    {
     "speaker": "Tom",
     "text": "Dat heescht vum Moment un, wou Dir Äre \"Projet als Elteren\" ufänkt — also souguer ier d'Bebee op d'Welt kënnt, wann Dir plangt oder waart — bis duerch all Etapp vum Liewe vum Kand, bis et erwuesse gëtt.",
-    "t": 96.71
+    "t": 98.46
    },
    {
     "speaker": "Anna",
     "text": "Wow. Also vun der Schwangerschaft, bis d'Kand uechtzéng ass.",
-    "t": 109.97
+    "t": 111.72
    },
    {
     "speaker": "Tom",
     "text": "Jo. De ganze Wee. All Alter huet seng Froen. E Bebee, deen net schléift. E klengt Kand an d'digital Geräter. D'Schoul. D'Teenageren. Den Eltereforum ass fir alles do.",
-    "t": 113.31
+    "t": 115.06
    },
    {
     "speaker": "Anna",
     "text": "Dat berouegt. Elo sot mer — wie steet dohannert? Ass et offiziell?",
-    "t": 124.34
+    "t": 126.09
    },
    {
     "speaker": "Tom",
     "text": "Et ass ganz offiziell. Den Eltereforum gëtt vum Ministère fir Educatioun, Kanner a Jugend koordinéiert. Also ass et en ëffentleche Service vum Lëtzebuerger Staat. An et gëtt e schéine Sproch dohannert — \"Staark Elteren, staark Kanner\". D'Iddi ass: wann d'Elteren sech ënnerstëtzt a sécher fillen, geet et de Kanner och besser.",
-    "t": 128.81
+    "t": 130.56
    },
    {
     "speaker": "Anna",
     "text": "Staark Elteren, staark Kanner. Dat gefält mer. Okay, also praktesch — wat geschitt eigentlech an engem Eltereforum? Wat kann ech do maachen?",
-    "t": 146.54
+    "t": 148.29
    },
    {
     "speaker": "Tom",
     "text": "Vill Saachen. Loosst mech déi wichtegst opzielen. Et ginn Elterentreffen — also Momenter, fir zesummenzekommen a sech mat aneren Elteren auszetauschen. Et ginn och Coursen, déi konkret Orientéierung zu verschiddenen Aspekter vun der Erzéiung ubidden. Et ginn Aktivitéite fir Elteren zesumme mat hire Kanner. An et ginn Themenowender, Virträg a Konferenzen — zum Beispill en Owend iwwer de Schlof, oder iwwer digital Geräter, oder iwwer d'Liesen.",
-    "t": 154.72
+    "t": 156.48
    },
    {
     "speaker": "Anna",
     "text": "Also Coursen, Owender, Treffen, an Aktivitéite fir Elteren an hir Kanner.",
-    "t": 178.1
+    "t": 179.86
    },
    {
     "speaker": "Tom",
     "text": "Genee. Dat Ganzt ass sou opgebaut, datt Dir gutt Informatioune kritt, a gläichzäiteg eng Plaz hutt, fir aner Elteren a Professioneller ze treffen.",
-    "t": 182.99
+    "t": 184.75
    },
    {
     "speaker": "Anna",
     "text": "Deen zweeten Deel ass super — aner Elteren treffen. Well als Elterendeel kann ee sech heiansdo eleng fillen.",
-    "t": 191.13
+    "t": 192.89
    },
    {
     "speaker": "Tom",
     "text": "Dat kann ee wierklech. An hei mierkt Dir — okay, aner Elteren hunn déiselwecht Froe wéi ech. Ech sinn net eleng. Dat eleng hëlleft schonn immens.",
-    "t": 196.89
+    "t": 198.65
    },
    {
     "speaker": "Anna",
     "text": "Wat ass, wann ech en eeschten, spezifesche Problem hunn? Kënne si alles behandelen?",
-    "t": 204.91
+    "t": 206.67
    },
    {
     "speaker": "Tom",
     "text": "Dat ass e wichtege Punkt. Den Eltereforum ass wéi en Hausdokter — e gëtt keng spezialiséiert Behandlung. Et ass keng Klinik a keen Therapiezentrum. Mä wann Dir eppes méi Spezifesches braucht, lauschtert d'Equipe Iech no a begleet Iech. Si weisen Iech de Wee zum richtege spezialiséierte Service. Also ass et och eng Dier — eng éischt Plaz, wou Dir higoe kënnt, an déi Iech an déi richteg Richtung schéckt.",
-    "t": 209.2
+    "t": 210.96
    },
    {
     "speaker": "Anna",
     "text": "Also och wa si mer bei engem bestëmmten Uleies net selwer hëllefe kënnen, si si gutt genuch vernetzt, fir een ze fannen, deen et kann.",
-    "t": 228.78
+    "t": 230.54
    },
    {
     "speaker": "Tom",
-    "text": "Genee. E frëndlechen éischte Schrëtt.",
-    "t": 234.85
+    "text": "Genee: et ass e frëndlechen éischte Schrëtt.",
+    "t": 236.61
    },
    {
     "speaker": "Anna",
     "text": "Okay, Tom — wou sinn dës Foren? Sinn se all an der Haaptstad?",
-    "t": 237.03
+    "t": 239.07
    },
    {
     "speaker": "Tom",
     "text": "Nee, an dat ass dat Schéint. Si si regional. Si ginn no an no am ganze Land opgemaach. Deen éischten huet zu Nidderaanwen opgemaach, am Februar 2023. Duerno koumen Beetebuerg, Maarnech, Bartreng, Esch-Belval, Ettelbréck, Hesper, Luerenzweiler, Wolz an Déifferdeng.",
-    "t": 241.27
+    "t": 243.31
    },
    {
     "speaker": "Anna",
     "text": "Also schonn esou vill Foren, iwwer d'Regiounen. Da gëtt et wuel een net wäit vun doheem.",
-    "t": 259.07
+    "t": 261.48
    },
    {
     "speaker": "Tom",
     "text": "Dat ass d'Zil — datt all Regioun ee nobäi huet. All regionale Forum schafft mat de lokalen Acteuren zesummen — de Gemengen, de Schoulen, de Crèchen a Maison-relaisen, de lokalen Associatiounen. Also ass e wierklech an der Communautéit verwuerzelt.",
-    "t": 264.52
+    "t": 266.93
    },
    {
     "speaker": "Anna",
     "text": "An et gëtt och eng Websäit, oder?",
-    "t": 277.73
+    "t": 280.14
    },
    {
     "speaker": "Tom",
     "text": "Jo. D'Websäit ass eltereforum.lu. Si ass selwer eng Informatiounsplattform. Op der Websäit fannt Dir och den Agenda — de Kalenner vun allen Aktivitéiten, Owender a Coursen an deene verschiddene Foren. Sou kënnt Dir gesinn, wat bei Iech an der Géigend leeft, a wéini.",
-    "t": 279.97
+    "t": 282.38
    },
    {
     "speaker": "Anna",
     "text": "Perfekt. Also loosse mer et richteg praktesch maachen. Wann ech elo als Elterendeel nolauschteren, an ech wëll ufänken — wat maachen ech?",
-    "t": 294.64
+    "t": 297.05
    },
    {
     "speaker": "Tom",
     "text": "Ganz einfach. Fir d'éischt, gitt op d'Websäit, eltereforum.lu. Kuckt an den Agenda, a fannt de Forum, deen am noosten bei Iech ass. Da kuckt einfach, wat ugebuede gëtt — e Virtrag, e Cours, eng Eltere-Kand-Aktivitéit — a kommt laanscht. Dir braucht kee grousse Grond. Dir sidd Elterendeel, an dat geet duer.",
-    "t": 302.05
+    "t": 304.46
    },
    {
     "speaker": "Anna",
     "text": "An et ass egal, wéi al mäi Kand ass?",
-    "t": 317.72
+    "t": 320.13
    },
    {
     "speaker": "Tom",
     "text": "Dat ass ganz egal. E Bebee ënnerwee, e Bebee, e Schoulkand, en Teenager — et gëtt eppes fir all Etapp. An denkt drun: et ass fir all Elteren, an et gëtt kee Problem, deen ze kleng ass, fir e matzebréngen.",
-    "t": 320.23
+    "t": 322.64
    },
    {
     "speaker": "Anna",
     "text": "Dat ass de Message, deen ech de Leit gär matginn. Dir musst net waarden, bis eppes schifleeft. Dir kënnt einfach higoen, fir ze léieren, a fir aner Elteren ze treffen.",
-    "t": 331.05
+    "t": 333.45
    },
    {
     "speaker": "Tom",
     "text": "Genee. Denkt drun als eng frëndlech Plaz, déi op Ärer Säit ass. Staark Elteren, staark Kanner.",
-    "t": 339.02
+    "t": 341.42
    },
    {
     "speaker": "Anna",
     "text": "Dat war eis Episod iwwer den Eltereforum. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 344.48
+    "t": 346.88
    },
    {
     "speaker": "Tom",
-    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 387.12
+    "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
+    "t": 389.52
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 390.32
+    "t": 392.83
    }
   ],
   "audio_fr": "podcast_eltereforum_fr.mp3",
-  "duration_fr": 392.02,
+  "duration_fr": 394.19,
   "title_fr": "Eltereforum – Parents forts, enfants forts",
   "description_fr": "Un réseau chaleureux et accueillant de forums des parents à travers le Luxembourg, coordonné par le ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse. Ce que propose l'Eltereforum — rencontres de parents, cours pour parents, activités parents-enfants et soirées à thème, autour de l'idée « parents forts, enfants forts » — à qui il s'adresse (tous les parents, d'avant la naissance jusqu'à l'âge adulte de l'enfant), comment les forums régionaux travaillent avec les partenaires locaux, et comment l'équipe vous oriente vers des services spécialisés si nécessaire.",
   "topics_fr": [
@@ -10305,7 +10275,7 @@ const EPISODES = [
    }
   ],
   "audio_de": "podcast_eltereforum_de.mp3",
-  "duration_de": 443.25,
+  "duration_de": 444.42,
   "title_de": "Eltereforum – Starke Eltern, starke Kinder",
   "description_de": "Ein warmherziges, einladendes Netzwerk von Elternforen in ganz Luxemburg, koordiniert vom Ministerium für Bildung, Kinder und Jugend. Was das Eltereforum bietet — Elterntreffen, Elternkurse, Eltern-Kind-Aktivitäten und Themenabende, rund um die Idee „Starke Eltern, starke Kinder“ — für wen es ist (alle Eltern, von vor der Geburt bis das Kind erwachsen ist), wie die regionalen Foren mit lokalen Partnern zusammenarbeiten, und wie das Team Sie bei Bedarf zu spezialisierten Diensten begleitet.",
   "topics_de": [
@@ -37677,7 +37647,7 @@ const EPISODES = [
   "title": "ADEM – Luxembourg's Employment Agency, and How It Can Help You",
   "description": "What ADEM is, how to register as a jobseeker (online via MyGuichet.lu or in person), and the support you get — a personal advisor, the JobBoard, training and unemployment benefit — plus help for young people, people with disabilities, and employers.",
   "audio": "podcast_adem.mp3",
-  "duration": 650.63,
+  "duration": 665.65,
   "topics": [
    "What ADEM is",
    "Registering as a jobseeker",
@@ -37721,738 +37691,743 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "And today we are talking about something that touches almost everyone at some point in their life... work.",
+    "text": "And today we are talking about something that touches almost everyone at some point in their life: work.",
     "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "More precisely, we are talking about ADEM.",
-    "t": 33.72
+    "t": 34.45
    },
    {
     "speaker": "Tom",
     "text": "ADEM. You may have seen the name, maybe on a letter, or near one of their offices.",
-    "t": 36.33
+    "t": 37.35
    },
    {
     "speaker": "Tom",
     "text": "But what exactly is it?",
-    "t": 40.74
+    "t": 42.18
    },
    {
     "speaker": "Anna",
     "text": "ADEM stands for the \"Agence pour le développement de l'emploi\".",
-    "t": 42.24
+    "t": 43.69
    },
    {
     "speaker": "Anna",
     "text": "In English, that means the Employment Development Agency.",
-    "t": 45.6
+    "t": 47.25
    },
    {
     "speaker": "Tom",
     "text": "It is Luxembourg's public employment service.",
-    "t": 49.12
+    "t": 51.24
    },
    {
     "speaker": "Tom",
     "text": "Think of it as the official agency of the State that helps people find work, and helps employers find staff.",
-    "t": 51.7
+    "t": 53.82
    },
    {
     "speaker": "Anna",
-    "text": "Its motto is nice and clear... \"Facilitons l'emploi\".",
-    "t": 58.07
-   },
-   {
-    "speaker": "Anna",
-    "text": "Let's make employment easier.",
-    "t": 61.34
+    "text": "Its motto is nice and clear: \"Let's make employment easier.\"",
+    "t": 60.19
    },
    {
     "speaker": "Tom",
     "text": "So ADEM sits in the middle, between people who are looking for a job, and companies that are looking for people.",
-    "t": 63.26
+    "t": 64.07
    },
    {
     "speaker": "Anna",
     "text": "Exactly. And it is a public service, which means it is free to use.",
-    "t": 69.31
+    "t": 70.29
    },
    {
     "speaker": "Tom",
     "text": "Good to know.",
-    "t": 73.71
+    "t": 74.69
    },
    {
     "speaker": "Tom",
     "text": "So Anna, who is ADEM actually for?",
-    "t": 74.65
+    "t": 75.56
    },
    {
     "speaker": "Anna",
     "text": "Mainly three groups.",
-    "t": 76.75
+    "t": 77.98
    },
    {
     "speaker": "Anna",
-    "text": "First, jobseekers... people who are looking for work, or who want to change jobs.",
-    "t": 78.33
+    "text": "First, jobseekers: people who are looking for work, or who want to change jobs.",
+    "t": 79.46
    },
    {
     "speaker": "Tom",
-    "text": "Second, employees... people who already have a job but want advice or training.",
-    "t": 83.54
+    "text": "Second, employees: people who already have a job but want advice or training.",
+    "t": 85.17
    },
    {
     "speaker": "Anna",
-    "text": "And third, employers... companies and organisations that want to hire.",
-    "t": 88.61
+    "text": "And third, employers: companies and organisations that want to hire.",
+    "t": 90.12
    },
    {
     "speaker": "Tom",
     "text": "So it really is for a lot of people.",
-    "t": 93.52
+    "t": 94.81
    },
    {
     "speaker": "Tom",
     "text": "Even if you have a job right now, ADEM might still be relevant one day.",
-    "t": 95.66
+    "t": 96.95
    },
    {
     "speaker": "Anna",
     "text": "That's the key message.",
-    "t": 99.67
+    "t": 100.92
    },
    {
     "speaker": "Anna",
     "text": "You don't have to wait until you are in difficulty.",
-    "t": 101.05
+    "t": 102.3
    },
    {
     "speaker": "Anna",
     "text": "ADEM is there before, during, and after a job search.",
-    "t": 103.67
+    "t": 104.99
    },
    {
     "speaker": "Tom",
-    "text": "Let's talk about the heart of it... registering as a jobseeker.",
-    "t": 107.24
+    "text": "Let's talk about the heart of it: registering as a jobseeker.",
+    "t": 109.48
    },
    {
     "speaker": "Tom",
     "text": "Why would someone do that?",
-    "t": 110.63
+    "t": 113.01
    },
    {
     "speaker": "Anna",
-    "text": "When you register, you officially say... I am looking for work, and I am available for the job market.",
-    "t": 112.12
+    "text": "When you register, you officially say: I am looking for work, and I am available for the job market.",
+    "t": 114.61
    },
    {
     "speaker": "Tom",
     "text": "And being \"available for the job market\" has a real meaning, doesn't it?",
-    "t": 117.9
+    "t": 121.27
    },
    {
     "speaker": "Anna",
     "text": "It does. It means you can be reached easily by ADEM and by employers, and that you are ready to work for the hours you have indicated.",
-    "t": 121.66
+    "t": 125.03
    },
    {
     "speaker": "Tom",
     "text": "So you register, and then a door opens to all of ADEM's help.",
-    "t": 129.98
+    "t": 133.33
    },
    {
     "speaker": "Anna",
     "text": "Yes. Once you are registered, you get a personal advisor, access to job offers, training, and support with your search.",
-    "t": 133.27
+    "t": 137.03
    },
    {
     "speaker": "Tom",
     "text": "Let's slow down on the personal advisor, because I think that is really important.",
-    "t": 140.01
+    "t": 143.77
    },
    {
     "speaker": "Anna",
     "text": "It is. After your registration is approved, you are invited to a first appointment with an ADEM counsellor.",
-    "t": 144.1
+    "t": 147.86
    },
    {
     "speaker": "Tom",
     "text": "This counsellor becomes your main point of contact during your whole job search.",
-    "t": 150.71
+    "t": 154.9
    },
    {
     "speaker": "Anna",
     "text": "They follow your situation personally.",
-    "t": 154.58
+    "t": 158.77
    },
    {
     "speaker": "Anna",
     "text": "They help you plan your steps, and they stay with you along the way.",
-    "t": 156.88
+    "t": 161.07
    },
    {
     "speaker": "Tom",
     "text": "So you are not alone in front of a website.",
-    "t": 160.47
+    "t": 164.66
    },
    {
     "speaker": "Tom",
     "text": "There is a real person who knows your file.",
-    "t": 163.05
+    "t": 167.24
    },
    {
     "speaker": "Anna",
     "text": "Exactly. Now, how do you actually register?",
-    "t": 165.44
+    "t": 169.63
    },
    {
     "speaker": "Anna",
     "text": "There are two ways.",
-    "t": 168.3
+    "t": 172.49
    },
    {
     "speaker": "Tom",
     "text": "The first way is online, and this is the modern, easy route.",
-    "t": 169.71
+    "t": 173.9
    },
    {
     "speaker": "Anna",
     "text": "You register on MyGuichet dot lu.",
-    "t": 172.82
+    "t": 177.01
    },
    {
     "speaker": "Anna",
     "text": "That is the State's secure online platform that we talked about in an earlier episode.",
-    "t": 175.45
+    "t": 179.64
    },
    {
     "speaker": "Tom",
     "text": "The platform guides you step by step.",
-    "t": 180.19
+    "t": 184.38
    },
    {
     "speaker": "Tom",
     "text": "You give information about your profile, and the kind of job you are looking for.",
-    "t": 182.28
+    "t": 186.47
    },
    {
     "speaker": "Anna",
     "text": "You can also upload your documents directly, so everything is in one place.",
-    "t": 186.01
+    "t": 190.2
    },
    {
     "speaker": "Tom",
     "text": "And to log in, you need a secure authentication device, like a LuxTrust product, or your Luxembourg electronic ID card.",
-    "t": 190.47
+    "t": 194.66
    },
    {
     "speaker": "Anna",
     "text": "That is the same secure login you use for many official services in Luxembourg.",
-    "t": 197.2
+    "t": 201.39
    },
    {
     "speaker": "Tom",
     "text": "What if someone prefers to meet a person, face to face?",
-    "t": 202.21
+    "t": 206.4
    },
    {
     "speaker": "Anna",
-    "text": "Then there is the second way... registering in person at an ADEM agency.",
-    "t": 205.28
+    "text": "Then there is the second way, registering in person at an ADEM agency.",
+    "t": 209.47
    },
    {
     "speaker": "Tom",
     "text": "For that, you first call to make an appointment.",
-    "t": 209.98
+    "t": 214.08
    },
    {
     "speaker": "Tom",
     "text": "The number is the ADEM Contact Centre, on 2-4-7, 8-8-8-8-8.",
-    "t": 212.55
+    "t": 216.54
    },
    {
     "speaker": "Anna",
-    "text": "And you can register in person at three ADEM agencies... in Luxembourg City, in Esch-Belval, and in Diekirch.",
-    "t": 217.5
+    "text": "And you can register in person at three ADEM agencies: in Luxembourg City, in Esch-Belval, and in Diekirch.",
+    "t": 221.39
    },
    {
     "speaker": "Anna",
     "text": "You'll be offered the one closest to your home.",
-    "t": 224.62
+    "t": 228.29
    },
    {
     "speaker": "Tom",
     "text": "Good. So whether you are more comfortable online or in person, both doors are open.",
-    "t": 227.11
+    "t": 230.97
    },
    {
     "speaker": "Anna",
     "text": "Now, Tom, what should someone bring or prepare before registering?",
-    "t": 231.68
-   },
-   {
-    "speaker": "Tom",
-    "text": "A few simple things.",
     "t": 235.54
    },
    {
     "speaker": "Tom",
+    "text": "A few simple things.",
+    "t": 239.4
+   },
+   {
+    "speaker": "Tom",
     "text": "First, your social security number, which is on your social security card.",
-    "t": 236.8
+    "t": 240.66
    },
    {
     "speaker": "Anna",
-    "text": "Make sure your identity documents are valid... your ID card, passport, or residence permit.",
-    "t": 240.56
+    "text": "Make sure your identity documents are valid: your ID card, passport, or residence permit.",
+    "t": 244.42
    },
    {
     "speaker": "Tom",
     "text": "And bring your CV, up to date, with your experience, your skills, your training, and the languages you speak.",
-    "t": 246.72
+    "t": 250.9
    },
    {
     "speaker": "Anna",
     "text": "If you have certificates from vocational training, those are a real plus too.",
-    "t": 253.48
+    "t": 257.66
    },
    {
     "speaker": "Tom",
     "text": "And here is a detail many people don't know.",
-    "t": 258.01
+    "t": 262.19
    },
    {
     "speaker": "Tom",
     "text": "You can register with ADEM even if you still have a job.",
-    "t": 260.09
+    "t": 264.43
    },
    {
     "speaker": "Anna",
     "text": "Yes! As long as you meet ADEM's requirements and you can attend the appointments, you don't have to wait until you are unemployed.",
-    "t": 263.11
+    "t": 267.56
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about what you actually get once you are registered.",
-    "t": 270.2
+    "t": 274.79
    },
    {
     "speaker": "Tom",
     "text": "You mentioned the JobBoard.",
-    "t": 272.83
+    "t": 277.42
    },
    {
     "speaker": "Anna",
     "text": "The JobBoard is ADEM's platform of job offers.",
-    "t": 274.4
+    "t": 278.99
    },
    {
     "speaker": "Anna",
     "text": "As a registered jobseeker, you get access to browse vacancies and send applications.",
-    "t": 277.34
+    "t": 281.96
    },
    {
     "speaker": "Tom",
     "text": "You can also upload your CV there, so employers can find you.",
-    "t": 282.91
+    "t": 287.36
    },
    {
     "speaker": "Anna",
     "text": "Then there are training courses and employment measures, chosen according to your profile and your needs.",
-    "t": 286
+    "t": 290.45
    },
    {
     "speaker": "Tom",
     "text": "And there is something called the Employment Club, right?",
-    "t": 291.69
+    "t": 296.14
    },
    {
     "speaker": "Anna",
     "text": "Yes. There you can use computers, get help with your CV and cover letter, even have a photo taken for your CV, and join group workshops.",
-    "t": 294.38
+    "t": 298.83
    },
    {
     "speaker": "Anna",
     "text": "Practical, hands-on support.",
-    "t": 303.17
+    "t": 307.62
    },
    {
     "speaker": "Tom",
     "text": "So registration is not just a formality.",
-    "t": 305.7
+    "t": 310.15
    },
    {
     "speaker": "Tom",
     "text": "It unlocks real, concrete help.",
-    "t": 308.14
+    "t": 312.59
    },
    {
     "speaker": "Anna",
     "text": "Exactly. But of course, with help come some responsibilities too.",
-    "t": 310.52
+    "t": 314.97
    },
    {
     "speaker": "Tom",
     "text": "That's fair. When you register, you are saying you will actively look for work.",
-    "t": 314.72
+    "t": 319.17
    },
    {
     "speaker": "Anna",
-    "text": "So you are expected to take steps on your own... reply to job adverts, send applications, search the JobBoard, keep your CV updated.",
-    "t": 319.14
+    "text": "So you are expected to take steps on your own: reply to job adverts, send applications, search the JobBoard, keep your CV updated.",
+    "t": 323.59
    },
    {
     "speaker": "Tom",
     "text": "You also follow the plan you build together with your advisor, and you attend your appointments.",
-    "t": 328.29
+    "t": 332.59
    },
    {
     "speaker": "Anna",
-    "text": "And you tell ADEM about changes that affect your availability... a move, a new phone number, the start of a job, an illness, and so on.",
-    "t": 332.69
+    "text": "And you tell ADEM about changes that affect your availability: a move, a new phone number, the start of a job, an illness, and so on.",
+    "t": 336.99
    },
    {
     "speaker": "Tom",
     "text": "It's a two-way relationship.",
-    "t": 342.01
+    "t": 347.34
    },
    {
     "speaker": "Tom",
     "text": "ADEM supports you, and you stay active and in contact.",
-    "t": 343.62
+    "t": 349.12
    },
    {
     "speaker": "Anna",
-    "text": "And there is a nice detail... as a jobseeker you are entitled to a number of leave days each year, up to twenty-five working days.",
-    "t": 346.65
+    "text": "And there is a nice detail: as a jobseeker you are entitled to a number of leave days each year, up to twenty-five working days.",
+    "t": 352.47
    },
    {
     "speaker": "Tom",
     "text": "During that approved leave you are exempt from your obligations to ADEM, a bit like holidays.",
-    "t": 355.1
+    "t": 361.37
    },
    {
     "speaker": "Tom",
     "text": "You just have to request it in advance.",
-    "t": 360.25
+    "t": 366.85
    },
    {
     "speaker": "Anna",
-    "text": "Now let's talk about money, because many people come to ADEM for this... unemployment benefit.",
-    "t": 362.49
+    "text": "Now let's talk about money, because many people come to ADEM for this: unemployment benefit.",
+    "t": 369.21
    },
    {
     "speaker": "Tom",
     "text": "In French, the \"indemnité de chômage\".",
-    "t": 368.17
+    "t": 375.08
    },
    {
     "speaker": "Tom",
     "text": "This is financial support if you have lost your job.",
-    "t": 370.73
+    "t": 377.64
    },
    {
     "speaker": "Anna",
     "text": "And here is the important rule.",
-    "t": 373.51
+    "t": 380.42
    },
    {
     "speaker": "Anna",
     "text": "To apply for unemployment benefit, you must first be registered as a jobseeker with ADEM.",
-    "t": 375.34
+    "t": 382.34
    },
    {
     "speaker": "Tom",
     "text": "Once your jobseeker file is open, ADEM checks automatically whether you may be entitled to benefits, based on your situation.",
-    "t": 380.99
+    "t": 388.13
    },
    {
     "speaker": "Anna",
-    "text": "So registration comes first... then the benefit question follows.",
-    "t": 387.86
+    "text": "So registration comes first, then the benefit question follows.",
+    "t": 395.73
    },
    {
     "speaker": "Tom",
     "text": "And there is good news on how you apply.",
-    "t": 392.13
+    "t": 399.74
    },
    {
     "speaker": "Tom",
     "text": "If you meet the conditions, ADEM sends you a letter, and you complete your application online, on MyGuichet.lu.",
-    "t": 394.1
+    "t": 401.96
    },
    {
     "speaker": "Anna",
     "text": "That means less paperwork, and time saved.",
-    "t": 401.23
+    "t": 408.5
    },
    {
     "speaker": "Anna",
     "text": "You can do more of it from home.",
-    "t": 403.81
+    "t": 411.08
    },
    {
     "speaker": "Tom",
     "text": "Let's give some attention to younger listeners now, because Luxembourg has a special promise for them.",
-    "t": 405.71
+    "t": 412.98
    },
    {
     "speaker": "Anna",
     "text": "It's called the Youth Guarantee.",
-    "t": 410.92
+    "t": 418.19
    },
    {
     "speaker": "Anna",
     "text": "The goal is that every young person, aged sixteen to thirty, is offered a concrete solution to enter working life.",
-    "t": 412.95
+    "t": 420.22
    },
    {
     "speaker": "Tom",
-    "text": "And there's a clear timeframe... within four months of registering with ADEM.",
-    "t": 420.68
+    "text": "And there's a clear timeframe: within four months of registering with ADEM.",
+    "t": 427.95
    },
    {
     "speaker": "Tom",
     "text": "And during the first six months, you meet your personal counsellor every month.",
-    "t": 425.05
+    "t": 432.14
    },
    {
     "speaker": "Anna",
     "text": "That solution might be a job, but it could also be training, or another step that moves you forward.",
-    "t": 429.41
+    "t": 436.56
    },
    {
     "speaker": "Tom",
     "text": "So if you are young and unsure what to do next, ADEM is a very good place to start.",
-    "t": 434.89
+    "t": 442.04
    },
    {
     "speaker": "Anna",
     "text": "ADEM also has dedicated support for people with a disability, or with reduced work capacity.",
-    "t": 439.38
+    "t": 446.81
    },
    {
     "speaker": "Tom",
     "text": "There are special measures, internships, financial benefits, and personal guidance, to help people find or return to work.",
-    "t": 445.45
+    "t": 453.2
    },
    {
     "speaker": "Anna",
-    "text": "The goal is inclusion... making sure that everyone has a fair chance in the job market.",
-    "t": 452.42
+    "text": "The goal is inclusion: making sure that everyone has a fair chance in the job market.",
+    "t": 460.17
    },
    {
     "speaker": "Tom",
-    "text": "Let's not forget the other side of ADEM... the employers.",
-    "t": 457.21
+    "text": "Let's not forget the other side of ADEM: the employers.",
+    "t": 465.77
    },
    {
     "speaker": "Anna",
     "text": "Right. In Luxembourg, employers are actually required to declare their vacant positions to ADEM.",
-    "t": 460.19
+    "t": 468.62
    },
    {
     "speaker": "Tom",
     "text": "And in return, they get help.",
-    "t": 465.96
+    "t": 474.7
    },
    {
     "speaker": "Tom",
     "text": "ADEM connects them with candidates from its pool of jobseekers.",
-    "t": 467.6
+    "t": 476.67
    },
    {
     "speaker": "Anna",
-    "text": "Employers can also receive financial aid when they hire certain people... for example a young jobseeker, someone who has been unemployed for a long time, or a person with a disability.",
-    "t": 470.73
+    "text": "Employers can also receive financial aid when they hire certain people, for example a young jobseeker, someone who has been unemployed for a long time, or a person with a disability.",
+    "t": 480.03
    },
    {
     "speaker": "Tom",
     "text": "So ADEM doesn't just help individuals.",
-    "t": 481.71
+    "t": 491.75
    },
    {
     "speaker": "Tom",
     "text": "It helps the whole job market work better.",
-    "t": 483.95
+    "t": 493.82
    },
    {
     "speaker": "Anna",
     "text": "There is also support for international recruitment, through a service called Work in Luxembourg.",
-    "t": 486.28
+    "t": 496.42
    },
    {
     "speaker": "Tom",
     "text": "And since 2026 there's even a national website, workinluxembourg.com.",
-    "t": 491.63
+    "t": 501.77
    },
    {
     "speaker": "Tom",
     "text": "It helps companies here find talent, and helps people abroad discover opportunities in the country.",
-    "t": 496.06
+    "t": 506.2
    },
    {
     "speaker": "Anna",
     "text": "Tom, before we finish, there is one safety point we really should mention.",
-    "t": 501.34
+    "t": 511.48
    },
    {
     "speaker": "Tom",
     "text": "Yes, an important one.",
-    "t": 505.87
+    "t": 516.01
    },
    {
     "speaker": "Tom",
     "text": "Sometimes scammers send fake emails or create fake social-media accounts pretending to be ADEM.",
-    "t": 507.23
+    "t": 517.37
    },
    {
     "speaker": "Tom",
     "text": "They ask for money for a job or a visa — or they ask you to click a link and confirm your personal details.",
-    "t": 512.62
+    "t": 522.55
    },
    {
     "speaker": "Anna",
-    "text": "Please remember this clearly... ADEM never asks you to pay for a job or a visa.",
-    "t": 518.92
+    "text": "Please remember this clearly.",
+    "t": 529.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "ADEM never asks you to pay for a job or a visa.",
+    "t": 530.83
    },
    {
     "speaker": "Anna",
     "text": "The service is free.",
-    "t": 523.93
+    "t": 533.9
    },
    {
     "speaker": "Tom",
     "text": "If anyone asks you for payment or personal details in ADEM's name, it is a scam.",
-    "t": 525.5
+    "t": 535.52
    },
    {
     "speaker": "Tom",
     "text": "Don't pay, don't click, and check ADEM's official channels on its website.",
-    "t": 530.2
+    "t": 540.01
    },
    {
     "speaker": "Anna",
-    "text": "One more practical thing... languages.",
-    "t": 534.61
+    "text": "One more practical thing: languages.",
+    "t": 544.9
    },
    {
     "speaker": "Anna",
-    "text": "To deal with ADEM, you should speak at least one of Luxembourg's administrative languages... Luxembourgish, French, or German, or else English.",
-    "t": 536.81
+    "text": "To deal with ADEM, you should speak at least one of Luxembourg's administrative languages.",
+    "t": 547.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxembourgish, French, or German, or else English.",
+    "t": 552.84
    },
    {
     "speaker": "Tom",
     "text": "And if you don't, you can bring someone you trust who does, to help you during your appointments.",
-    "t": 545.25
+    "t": 556.55
    },
    {
     "speaker": "Anna",
     "text": "So let's bring it all together.",
-    "t": 550.28
+    "t": 561.58
    },
    {
     "speaker": "Anna",
     "text": "What should people remember about ADEM?",
-    "t": 551.96
+    "t": 563.3
    },
    {
     "speaker": "Tom",
-    "text": "First... ADEM is Luxembourg's free, public employment service, for jobseekers, employees, and employers.",
-    "t": 554.53
+    "text": "First, ADEM is Luxembourg's free, public employment service, for jobseekers, employees, and employers.",
+    "t": 565.64
    },
    {
     "speaker": "Anna",
-    "text": "Second... registering as a jobseeker opens the door to a personal advisor, the JobBoard, training, and support.",
-    "t": 560.94
+    "text": "Second, registering as a jobseeker opens the door to a personal advisor, the JobBoard, training, and support.",
+    "t": 572.75
    },
    {
     "speaker": "Tom",
-    "text": "Third... you register online on MyGuichet dot lu with a secure login, or in person by appointment in Luxembourg, Esch-Belval, or Diekirch.",
-    "t": 568.18
+    "text": "Third, you register online on MyGuichet dot lu with a secure login, or in person by appointment in Luxembourg, Esch-Belval, or Diekirch.",
+    "t": 580.5
    },
    {
     "speaker": "Anna",
-    "text": "Fourth... to claim unemployment benefit, you must register first, and applying is now fully online.",
-    "t": 577.08
+    "text": "Fourth, to claim unemployment benefit, you must register first, and applying is now fully online.",
+    "t": 590.78
    },
    {
     "speaker": "Tom",
-    "text": "And fifth... there is special help for young people, through the Youth Guarantee, and for people with disabilities.",
-    "t": 584.38
+    "text": "And fifth, there is special help for young people, through the Youth Guarantee, and for people with disabilities.",
+    "t": 598
    },
    {
     "speaker": "Anna",
-    "text": "And remember the safety rule... ADEM never asks for payment.",
-    "t": 590.26
+    "text": "And remember the safety rule: ADEM never asks for payment.",
+    "t": 604.32
    },
    {
     "speaker": "Tom",
     "text": "A job search can feel stressful.",
-    "t": 594.12
+    "t": 608.38
    },
    {
     "speaker": "Tom",
     "text": "But the message of this episode is that you don't have to do it alone.",
-    "t": 595.96
+    "t": 610.22
    },
    {
     "speaker": "Anna",
     "text": "ADEM is there to walk beside you.",
-    "t": 599.58
+    "t": 613.84
    },
    {
     "speaker": "Anna",
     "text": "One step at a time.",
-    "t": 601.63
+    "t": 615.9
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about ADEM.",
-    "t": 603.07
+    "t": 617.31
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 605.34
+    "t": 619.35
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 614.42
+    "t": 628.82
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 632.19
+    "t": 647.11
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 638.94
+    "t": 653.86
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 641.14
+    "t": 656.06
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 645.83
+    "t": 660.75
    },
    {
     "speaker": "Tom",
-    "text": "Take care... and see you next time!",
-    "t": 646.91
+    "text": "Take care, and see you next time!",
+    "t": 661.92
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 649.03
+    "t": 664.06
    }
   ],
   "questions": [
@@ -38654,7 +38629,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_adem_fr.mp3",
-  "duration_fr": 660.24,
+  "duration_fr": 659.44,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -38674,751 +38649,751 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt.",
-    "t": 5.98
+    "t": 6.04
    },
    {
     "speaker": "Anna",
     "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
-    "t": 8.05
+    "t": 8.11
    },
    {
     "speaker": "Anna",
     "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
-    "t": 15.65
+    "t": 15.71
    },
    {
     "speaker": "Tom",
-    "text": "Et aujourd'hui, nous parlons de quelque chose qui touche presque tout le monde à un moment de sa vie... le travail.",
-    "t": 23.07
+    "text": "Et aujourd'hui, nous parlons de quelque chose qui touche presque tout le monde à un moment de sa vie, le travail.",
+    "t": 23.13
    },
    {
     "speaker": "Anna",
     "text": "Plus précisément, nous parlons de l'ADEM.",
-    "t": 28.46
+    "t": 28.85
    },
    {
     "speaker": "Tom",
     "text": "L'ADEM. Vous avez peut-être déjà vu ce nom, peut-être sur un courrier, ou près d'un de leurs bureaux.",
-    "t": 30.66
+    "t": 31.05
    },
    {
     "speaker": "Tom",
     "text": "Mais qu'est-ce que c'est, exactement ?",
-    "t": 35.91
+    "t": 36.3
    },
    {
     "speaker": "Anna",
     "text": "ADEM, cela veut dire « Agence pour le développement de l'emploi ».",
-    "t": 37.93
+    "t": 38.32
    },
    {
     "speaker": "Tom",
     "text": "C'est le service public de l'emploi du Luxembourg.",
-    "t": 41.07
+    "t": 41.46
    },
    {
     "speaker": "Tom",
     "text": "Voyez cela comme l'agence officielle de l'État qui aide les gens à trouver du travail, et qui aide les employeurs à trouver du personnel.",
-    "t": 43.53
+    "t": 43.92
    },
    {
     "speaker": "Anna",
-    "text": "Sa devise est claire et agréable... « Facilitons l'emploi ».",
-    "t": 50.59
+    "text": "Sa devise est claire et agréable, « Facilitons l'emploi ».",
+    "t": 50.98
    },
    {
     "speaker": "Anna",
     "text": "Rendons l'emploi plus facile.",
-    "t": 54.03
+    "t": 54.37
    },
    {
     "speaker": "Tom",
     "text": "Donc l'ADEM se trouve au milieu, entre les personnes qui cherchent un emploi, et les entreprises qui cherchent des personnes.",
-    "t": 55.79
+    "t": 56.11
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Et c'est un service public, ce qui veut dire qu'il est gratuit.",
-    "t": 61.99
+    "t": 62.31
    },
    {
     "speaker": "Tom",
     "text": "Bon à savoir.",
-    "t": 65.5
+    "t": 65.82
    },
    {
     "speaker": "Tom",
     "text": "Alors, Anna, à qui s'adresse l'ADEM, en réalité ?",
-    "t": 66.72
+    "t": 67.04
    },
    {
     "speaker": "Anna",
     "text": "Principalement à trois groupes.",
-    "t": 69.58
+    "t": 69.9
    },
    {
     "speaker": "Anna",
-    "text": "D'abord, les demandeurs d'emploi... les personnes qui cherchent du travail, ou qui veulent changer d'emploi.",
-    "t": 71.12
+    "text": "D'abord, les demandeurs d'emploi, les personnes qui cherchent du travail, ou qui veulent changer d'emploi.",
+    "t": 71.43
    },
    {
     "speaker": "Tom",
-    "text": "Ensuite, les salariés... les personnes qui ont déjà un emploi mais qui veulent un conseil ou une formation.",
-    "t": 76.15
+    "text": "Ensuite, les salariés, les personnes qui ont déjà un emploi mais qui veulent un conseil ou une formation.",
+    "t": 75.77
    },
    {
     "speaker": "Anna",
-    "text": "Et troisièmement, les employeurs... les entreprises et les organisations qui veulent embaucher.",
-    "t": 81.35
+    "text": "Et troisièmement, les employeurs, les entreprises et les organisations qui veulent embaucher.",
+    "t": 81.76
    },
    {
     "speaker": "Tom",
     "text": "Donc cela concerne vraiment beaucoup de monde.",
-    "t": 86.24
+    "t": 86.26
    },
    {
     "speaker": "Tom",
     "text": "Même si vous avez un emploi en ce moment, l'ADEM peut quand même devenir utile un jour.",
-    "t": 88.65
+    "t": 88.67
    },
    {
     "speaker": "Anna",
     "text": "C'est le message clé.",
-    "t": 93.03
+    "t": 93.05
    },
    {
     "speaker": "Anna",
     "text": "Vous n'avez pas besoin d'attendre d'être en difficulté.",
-    "t": 94.35
+    "t": 94.37
    },
    {
     "speaker": "Anna",
     "text": "L'ADEM est là avant, pendant, et après une recherche d'emploi.",
-    "t": 96.82
+    "t": 96.84
    },
    {
     "speaker": "Tom",
-    "text": "Parlons du cœur du sujet... s'inscrire comme demandeur d'emploi.",
-    "t": 100.13
+    "text": "Parlons du cœur du sujet, s'inscrire comme demandeur d'emploi.",
+    "t": 100.15
    },
    {
     "speaker": "Tom",
     "text": "Pourquoi quelqu'un ferait-il cela ?",
-    "t": 103.58
+    "t": 103.89
    },
    {
     "speaker": "Anna",
-    "text": "Quand vous vous inscrivez, vous dites officiellement... je cherche du travail, et je suis disponible pour le marché de l'emploi.",
-    "t": 105.55
+    "text": "Quand vous vous inscrivez, vous dites officiellement, je cherche du travail, et je suis disponible pour le marché de l'emploi.",
+    "t": 105.93
    },
    {
     "speaker": "Tom",
     "text": "Et être « disponible pour le marché de l'emploi » a un vrai sens, n'est-ce pas ?",
-    "t": 111.07
+    "t": 111.8
    },
    {
     "speaker": "Anna",
     "text": "Oui. Cela veut dire que vous pouvez être joint facilement par l'ADEM et par les employeurs, et que vous êtes prêt à travailler pour les heures que vous avez indiquées.",
-    "t": 115.43
+    "t": 116.16
    },
    {
     "speaker": "Tom",
     "text": "Donc vous vous inscrivez, et ensuite une porte s'ouvre vers toute l'aide de l'ADEM.",
-    "t": 122.57
+    "t": 123.3
    },
    {
     "speaker": "Anna",
     "text": "Oui. Une fois inscrit, vous obtenez un conseiller personnel, un accès aux offres d'emploi, à des formations, et un soutien dans votre recherche.",
-    "t": 126.83
+    "t": 127.56
    },
    {
     "speaker": "Tom",
     "text": "Arrêtons-nous un instant sur le conseiller personnel, parce que je pense que c'est vraiment important.",
-    "t": 133.51
+    "t": 134.24
    },
    {
     "speaker": "Anna",
     "text": "En effet. Une fois votre inscription validée, vous êtes invité à un premier rendez-vous avec un conseiller de l'ADEM.",
-    "t": 138.06
+    "t": 138.79
    },
    {
     "speaker": "Tom",
     "text": "Ce conseiller devient votre interlocuteur principal pendant toute votre recherche d'emploi.",
-    "t": 143.75
+    "t": 144.48
    },
    {
     "speaker": "Anna",
     "text": "Il suit votre situation personnellement.",
-    "t": 148.37
+    "t": 149.1
    },
    {
     "speaker": "Anna",
     "text": "Il vous aide à planifier vos démarches, et il vous accompagne tout au long du chemin.",
-    "t": 150.48
+    "t": 151.21
    },
    {
     "speaker": "Tom",
     "text": "Donc vous n'êtes pas seul devant un site internet.",
-    "t": 154.33
+    "t": 155.06
    },
    {
     "speaker": "Tom",
     "text": "Il y a une vraie personne qui connaît votre dossier.",
-    "t": 156.96
+    "t": 157.69
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Maintenant, comment fait-on concrètement pour s'inscrire ?",
-    "t": 159.6
+    "t": 160.33
    },
    {
     "speaker": "Anna",
     "text": "Il y a deux façons.",
-    "t": 162.73
+    "t": 163.46
    },
    {
     "speaker": "Tom",
     "text": "La première façon, c'est en ligne, et c'est la voie moderne et facile.",
-    "t": 164.11
+    "t": 164.84
    },
    {
     "speaker": "Anna",
     "text": "Vous vous inscrivez sur MyGuichet point lu.",
-    "t": 167.84
+    "t": 168.57
    },
    {
     "speaker": "Anna",
     "text": "C'est la plateforme en ligne sécurisée de l'État, dont nous avons parlé dans un épisode précédent.",
-    "t": 170.26
+    "t": 170.99
    },
    {
     "speaker": "Tom",
     "text": "La plateforme vous guide étape par étape.",
-    "t": 174.66
+    "t": 175.39
    },
    {
     "speaker": "Tom",
     "text": "Vous donnez des informations sur votre profil, et sur le type d'emploi que vous recherchez.",
-    "t": 177.06
+    "t": 177.79
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez aussi téléverser vos documents directement, comme ça tout est au même endroit.",
-    "t": 181.74
+    "t": 182.47
    },
    {
     "speaker": "Tom",
     "text": "Et pour vous connecter, vous avez besoin d'un dispositif d'authentification sécurisé, comme un produit LuxTrust, ou votre carte d'identité électronique luxembourgeoise.",
-    "t": 185.91
+    "t": 186.64
    },
    {
     "speaker": "Anna",
     "text": "C'est le même identifiant sécurisé que vous utilisez pour de nombreux services officiels au Luxembourg.",
-    "t": 194.95
+    "t": 195.68
    },
    {
     "speaker": "Tom",
     "text": "Et si quelqu'un préfère rencontrer une personne, en face à face ?",
-    "t": 199.83
+    "t": 200.56
    },
    {
     "speaker": "Anna",
-    "text": "Alors il y a la deuxième façon... s'inscrire en personne dans une agence de l'ADEM.",
-    "t": 203.22
+    "text": "Alors il y a la deuxième façon, s'inscrire en personne dans une agence de l'ADEM.",
+    "t": 203.95
    },
    {
     "speaker": "Tom",
     "text": "Pour cela, vous appelez d'abord pour prendre rendez-vous.",
-    "t": 207.34
+    "t": 208.06
    },
    {
     "speaker": "Tom",
     "text": "Le numéro est celui du Contact Center de l'ADEM, le 2-4-7, 8-8-8-8-8.",
-    "t": 209.85
+    "t": 210.57
    },
    {
     "speaker": "Anna",
-    "text": "Et vous pouvez vous inscrire sur place dans trois agences de l'ADEM... à Luxembourg-Ville, à Esch-Belval, et à Diekirch.",
-    "t": 215.24
+    "text": "Et vous pouvez vous inscrire sur place dans trois agences de l'ADEM, à Luxembourg-Ville, à Esch-Belval, et à Diekirch.",
+    "t": 215.96
    },
    {
     "speaker": "Anna",
     "text": "On vous proposera celle qui est la plus proche de chez vous.",
-    "t": 221.03
+    "t": 221.45
    },
    {
     "speaker": "Tom",
     "text": "Très bien. Donc, que vous soyez plus à l'aise en ligne ou en personne, les deux portes sont ouvertes.",
-    "t": 223.61
+    "t": 224.05
    },
    {
     "speaker": "Anna",
     "text": "Maintenant, Tom, qu'est-ce qu'on devrait apporter ou préparer avant de s'inscrire ?",
-    "t": 228.77
+    "t": 229.21
    },
    {
     "speaker": "Tom",
     "text": "Quelques choses simples.",
-    "t": 232.39
+    "t": 232.83
    },
    {
     "speaker": "Tom",
     "text": "D'abord, votre numéro de sécurité sociale, qui se trouve sur votre carte de sécurité sociale.",
-    "t": 233.83
+    "t": 234.27
    },
    {
     "speaker": "Anna",
-    "text": "Assurez-vous que vos documents d'identité sont valables... votre carte d'identité, votre passeport, ou votre titre de séjour.",
-    "t": 239.04
+    "text": "Assurez-vous que vos documents d'identité sont valables, votre carte d'identité, votre passeport, ou votre titre de séjour.",
+    "t": 239.48
    },
    {
     "speaker": "Tom",
     "text": "Et apportez votre CV, à jour, avec votre expérience, vos compétences, vos formations, et les langues que vous parlez.",
-    "t": 245.43
+    "t": 245.98
    },
    {
     "speaker": "Anna",
     "text": "Si vous avez des certificats de formation professionnelle, c'est aussi un vrai plus.",
-    "t": 252.58
+    "t": 253.13
    },
    {
     "speaker": "Tom",
     "text": "Et voici un détail que beaucoup de gens ignorent.",
-    "t": 256.68
+    "t": 257.23
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez vous inscrire à l'ADEM même si vous avez encore un emploi.",
-    "t": 259.11
+    "t": 259.66
    },
    {
     "speaker": "Anna",
     "text": "Oui ! Tant que vous remplissez les conditions de l'ADEM et que vous pouvez vous présenter aux rendez-vous, vous n'avez pas besoin d'attendre d'être au chômage.",
-    "t": 262.93
+    "t": 263.48
    },
    {
     "speaker": "Tom",
     "text": "Parlons de ce que vous obtenez vraiment une fois inscrit.",
-    "t": 269.65
+    "t": 270.2
    },
    {
     "speaker": "Tom",
     "text": "Vous avez mentionné le JobBoard.",
-    "t": 272.49
+    "t": 273.04
    },
    {
     "speaker": "Anna",
     "text": "Le JobBoard est la plateforme d'offres d'emploi de l'ADEM.",
-    "t": 274.44
+    "t": 274.99
    },
    {
     "speaker": "Anna",
     "text": "En tant que demandeur d'emploi inscrit, vous y avez accès pour consulter les postes vacants et envoyer des candidatures.",
-    "t": 277.15
+    "t": 277.7
    },
    {
     "speaker": "Tom",
     "text": "Vous pouvez aussi y téléverser votre CV, pour que les employeurs puissent vous trouver.",
-    "t": 282.67
+    "t": 283.22
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, il y a des formations et des mesures pour l'emploi, choisies selon votre profil et vos besoins.",
-    "t": 287.84
+    "t": 288.39
    },
    {
     "speaker": "Tom",
     "text": "Et il y a aussi ce qu'on appelle le Club de l'emploi, c'est bien ça ?",
-    "t": 292.51
+    "t": 293.06
    },
    {
     "speaker": "Anna",
     "text": "Oui. Là, vous pouvez utiliser des ordinateurs, recevoir de l'aide pour votre CV et votre lettre de motivation, même faire prendre une photo pour votre CV, et participer à des ateliers en groupe.",
-    "t": 295.82
+    "t": 296.37
    },
    {
     "speaker": "Anna",
     "text": "Un soutien pratique et concret.",
-    "t": 306.15
+    "t": 307.12
    },
    {
     "speaker": "Tom",
     "text": "Donc l'inscription n'est pas qu'une formalité.",
-    "t": 308.14
+    "t": 309.11
    },
    {
     "speaker": "Tom",
     "text": "Elle donne accès à une aide réelle et concrète.",
-    "t": 310.46
+    "t": 311.43
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Mais bien sûr, avec l'aide viennent aussi quelques responsabilités.",
-    "t": 313.32
+    "t": 314.29
    },
    {
     "speaker": "Tom",
     "text": "C'est normal. Quand vous vous inscrivez, vous dites que vous allez chercher activement du travail.",
-    "t": 317.09
+    "t": 318.06
    },
    {
     "speaker": "Anna",
-    "text": "Donc on attend de vous que vous fassiez des démarches par vous-même... répondre aux annonces d'emploi, envoyer des candidatures, consulter le JobBoard, tenir votre CV à jour.",
-    "t": 321.89
+    "text": "Donc on attend de vous que vous fassiez des démarches par vous-même, répondre aux annonces d'emploi, envoyer des candidatures, consulter le JobBoard, tenir votre CV à jour.",
+    "t": 322.86
    },
    {
     "speaker": "Tom",
     "text": "Vous suivez aussi le plan que vous construisez avec votre conseiller, et vous vous présentez à vos rendez-vous.",
-    "t": 330.52
+    "t": 331.33
    },
    {
     "speaker": "Anna",
-    "text": "Et vous informez l'ADEM des changements qui touchent votre disponibilité... un déménagement, un nouveau numéro de téléphone, le début d'un emploi, une maladie, et ainsi de suite.",
-    "t": 335.84
+    "text": "Et vous informez l'ADEM des changements qui touchent votre disponibilité, un déménagement, un nouveau numéro de téléphone, le début d'un emploi, une maladie, et ainsi de suite.",
+    "t": 336.65
    },
    {
     "speaker": "Tom",
     "text": "C'est une relation à double sens.",
-    "t": 344.65
+    "t": 345.1
    },
    {
     "speaker": "Tom",
     "text": "L'ADEM vous soutient, et vous restez actif et en contact.",
-    "t": 346.74
+    "t": 347.19
    },
    {
     "speaker": "Anna",
-    "text": "Et il y a un détail sympathique... en tant que demandeur d'emploi, vous avez droit à un certain nombre de jours de congé chaque année, jusqu'à vingt-cinq jours ouvrables.",
-    "t": 350.55
+    "text": "Et il y a un détail sympathique, en tant que demandeur d'emploi, vous avez droit à un certain nombre de jours de congé chaque année, jusqu'à vingt-cinq jours ouvrables.",
+    "t": 351
    },
    {
     "speaker": "Tom",
     "text": "Pendant ce congé approuvé, vous êtes dispensé de vos obligations envers l'ADEM, un peu comme des vacances.",
-    "t": 357.41
+    "t": 358.5
    },
    {
     "speaker": "Tom",
     "text": "Il faut juste en faire la demande à l'avance.",
-    "t": 362.7
+    "t": 363.79
    },
    {
     "speaker": "Anna",
-    "text": "Maintenant, parlons d'argent, parce que beaucoup de gens viennent à l'ADEM pour cela... l'indemnité de chômage.",
-    "t": 365.03
+    "text": "Maintenant, parlons d'argent, parce que beaucoup de gens viennent à l'ADEM pour cela, l'indemnité de chômage.",
+    "t": 366.12
    },
    {
     "speaker": "Tom",
     "text": "En français, l'« indemnité de chômage ».",
-    "t": 370.07
+    "t": 370.99
    },
    {
     "speaker": "Tom",
     "text": "C'est un soutien financier si vous avez perdu votre emploi.",
-    "t": 372.62
+    "t": 373.54
    },
    {
     "speaker": "Anna",
     "text": "Et voici la règle importante.",
-    "t": 375.68
+    "t": 376.6
    },
    {
     "speaker": "Anna",
     "text": "Pour demander l'indemnité de chômage, vous devez d'abord être inscrit comme demandeur d'emploi auprès de l'ADEM.",
-    "t": 377.29
+    "t": 378.21
    },
    {
     "speaker": "Tom",
     "text": "Une fois votre dossier de demandeur d'emploi ouvert, l'ADEM vérifie automatiquement si vous pouvez avoir droit à des indemnités, selon votre situation.",
-    "t": 382.45
+    "t": 383.37
    },
    {
     "speaker": "Anna",
-    "text": "Donc l'inscription vient en premier... ensuite vient la question de l'indemnité.",
-    "t": 390.95
+    "text": "Donc l'inscription vient en premier, ensuite vient la question de l'indemnité.",
+    "t": 391.87
    },
    {
     "speaker": "Tom",
     "text": "Et il y a une bonne nouvelle sur la façon de faire la demande.",
-    "t": 394.59
+    "t": 395.44
    },
    {
     "speaker": "Tom",
     "text": "Si vous remplissez les conditions, l'ADEM vous envoie un courrier, et vous complétez votre demande en ligne, sur MyGuichet.lu.",
-    "t": 397.73
+    "t": 398.58
    },
    {
     "speaker": "Anna",
     "text": "Cela veut dire moins de paperasse, et du temps gagné.",
-    "t": 405.23
+    "t": 406.08
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez en faire une plus grande partie depuis chez vous.",
-    "t": 407.68
+    "t": 408.53
    },
    {
     "speaker": "Tom",
     "text": "Tournons-nous maintenant vers nos auditeurs plus jeunes, parce que le Luxembourg a une promesse spéciale pour eux.",
-    "t": 410.23
+    "t": 411.08
    },
    {
     "speaker": "Anna",
     "text": "Cela s'appelle la Garantie Jeunesse.",
-    "t": 415.55
+    "t": 416.4
    },
    {
     "speaker": "Anna",
     "text": "L'objectif, c'est que chaque jeune, âgé de seize à trente ans, se voie proposer une solution concrète pour entrer dans la vie active.",
-    "t": 417.42
+    "t": 418.27
    },
    {
     "speaker": "Tom",
-    "text": "Et il y a un délai clair... dans les quatre mois suivant l'inscription à l'ADEM.",
-    "t": 423.61
+    "text": "Et il y a un délai clair, dans les quatre mois suivant l'inscription à l'ADEM.",
+    "t": 424.46
    },
    {
     "speaker": "Tom",
     "text": "Et pendant les six premiers mois, vous rencontrez votre conseiller personnel tous les mois.",
-    "t": 427.87
+    "t": 428.86
    },
    {
     "speaker": "Anna",
     "text": "Cette solution peut être un emploi, mais cela peut aussi être une formation, ou une autre étape qui vous fait avancer.",
-    "t": 432.3
+    "t": 433.29
    },
    {
     "speaker": "Tom",
     "text": "Donc si vous êtes jeune et que vous ne savez pas trop quoi faire ensuite, l'ADEM est un très bon point de départ.",
-    "t": 437.46
+    "t": 438.45
    },
    {
     "speaker": "Anna",
     "text": "L'ADEM propose aussi un accompagnement dédié aux personnes en situation de handicap, ou avec une capacité de travail réduite.",
-    "t": 443.09
+    "t": 444.08
    },
    {
     "speaker": "Tom",
     "text": "Il y a des mesures spéciales, des stages, des aides financières, et un accompagnement personnel, pour aider les personnes à trouver ou à retrouver un emploi.",
-    "t": 449.15
+    "t": 450.14
    },
    {
     "speaker": "Anna",
-    "text": "L'objectif, c'est l'inclusion... faire en sorte que chacun ait une chance équitable sur le marché de l'emploi.",
-    "t": 457.94
+    "text": "L'objectif, c'est l'inclusion, faire en sorte que chacun ait une chance équitable sur le marché de l'emploi.",
+    "t": 458.93
    },
    {
     "speaker": "Tom",
-    "text": "N'oublions pas l'autre côté de l'ADEM... les employeurs.",
-    "t": 463.38
+    "text": "N'oublions pas l'autre côté de l'ADEM, les employeurs.",
+    "t": 463.99
    },
    {
     "speaker": "Anna",
     "text": "En effet. Au Luxembourg, les employeurs sont en fait tenus de déclarer leurs postes vacants à l'ADEM.",
-    "t": 466.61
+    "t": 467.21
    },
    {
     "speaker": "Tom",
     "text": "Et en retour, ils reçoivent de l'aide.",
-    "t": 471.93
+    "t": 472.53
    },
    {
     "speaker": "Tom",
     "text": "L'ADEM les met en relation avec des candidats issus de son vivier de demandeurs d'emploi.",
-    "t": 474.17
+    "t": 474.77
    },
    {
     "speaker": "Anna",
-    "text": "Les employeurs peuvent aussi recevoir une aide financière lorsqu'ils embauchent certaines personnes... par exemple un jeune demandeur d'emploi, une personne au chômage depuis longtemps, ou une personne en situation de handicap.",
-    "t": 478.85
+    "text": "Les employeurs peuvent aussi recevoir une aide financière lorsqu'ils embauchent certaines personnes, par exemple un jeune demandeur d'emploi, une personne au chômage depuis longtemps, ou une personne en situation de handicap.",
+    "t": 479.45
    },
    {
     "speaker": "Tom",
     "text": "Donc l'ADEM ne se contente pas d'aider les individus.",
-    "t": 489.04
+    "t": 489.17
    },
    {
     "speaker": "Tom",
     "text": "Elle aide tout le marché de l'emploi à mieux fonctionner.",
-    "t": 491.86
+    "t": 491.99
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi un soutien pour le recrutement international, à travers un service appelé Work in Luxembourg.",
-    "t": 494.65
+    "t": 494.78
    },
    {
     "speaker": "Tom",
     "text": "Et depuis 2026, il y a même un site national, workinluxembourg.com.",
-    "t": 499.54
+    "t": 499.67
    },
    {
     "speaker": "Tom",
     "text": "Il aide les entreprises d'ici à trouver des talents, et aide les personnes à l'étranger à découvrir des opportunités dans le pays.",
-    "t": 504.42
+    "t": 504.55
    },
    {
     "speaker": "Anna",
     "text": "Tom, avant de terminer, il y a un point de sécurité que nous devrions vraiment mentionner.",
-    "t": 511.14
+    "t": 511.27
    },
    {
     "speaker": "Tom",
     "text": "Oui, un point important.",
-    "t": 515.4
+    "t": 515.53
    },
    {
     "speaker": "Tom",
     "text": "Parfois, des escrocs envoient de faux courriels ou créent de faux comptes sur les réseaux sociaux en se faisant passer pour l'ADEM.",
-    "t": 516.93
+    "t": 517.06
    },
    {
     "speaker": "Tom",
     "text": "Ils demandent de l'argent pour un emploi ou un visa — ou ils vous demandent de cliquer sur un lien et de confirmer vos données personnelles.",
-    "t": 523.22
+    "t": 523.35
    },
    {
     "speaker": "Anna",
-    "text": "Retenez bien ceci... l'ADEM ne vous demande jamais de payer pour un emploi ou un visa.",
-    "t": 530.97
+    "text": "Retenez bien ceci, l'ADEM ne vous demande jamais de payer pour un emploi ou un visa.",
+    "t": 531.1
    },
    {
     "speaker": "Anna",
     "text": "Le service est gratuit.",
-    "t": 535.49
+    "t": 535.34
    },
    {
     "speaker": "Tom",
     "text": "Si quelqu'un vous demande un paiement ou des données personnelles au nom de l'ADEM, c'est une arnaque.",
-    "t": 537.01
+    "t": 536.82
    },
    {
     "speaker": "Tom",
     "text": "Ne payez pas, ne cliquez pas, et vérifiez les canaux officiels de l'ADEM sur son site.",
-    "t": 541.91
+    "t": 541.72
    },
    {
     "speaker": "Anna",
-    "text": "Encore une chose pratique... les langues.",
-    "t": 547.25
+    "text": "Encore une chose pratique, les langues.",
+    "t": 547.06
    },
    {
     "speaker": "Anna",
-    "text": "Pour traiter avec l'ADEM, vous devriez parler au moins une des langues administratives du Luxembourg... le luxembourgeois, le français, ou l'allemand, ou alors l'anglais.",
-    "t": 549.43
+    "text": "Pour traiter avec l'ADEM, vous devriez parler au moins une des langues administratives du Luxembourg, le luxembourgeois, le français, ou l'allemand, ou alors l'anglais.",
+    "t": 549.19
    },
    {
     "speaker": "Tom",
     "text": "Et si ce n'est pas le cas, vous pouvez amener une personne de confiance qui les parle, pour vous aider pendant vos rendez-vous.",
-    "t": 557.85
+    "t": 557.26
    },
    {
     "speaker": "Anna",
     "text": "Alors, rassemblons tout cela.",
-    "t": 563.35
+    "t": 562.76
    },
    {
     "speaker": "Anna",
     "text": "Qu'est-ce que les gens devraient retenir sur l'ADEM ?",
-    "t": 564.67
+    "t": 564.42
    },
    {
     "speaker": "Tom",
-    "text": "Premièrement... l'ADEM est le service public de l'emploi du Luxembourg, gratuit, pour les demandeurs d'emploi, les salariés, et les employeurs.",
-    "t": 567
+    "text": "Premièrement, l'ADEM est le service public de l'emploi du Luxembourg, gratuit, pour les demandeurs d'emploi, les salariés, et les employeurs.",
+    "t": 566.75
    },
    {
     "speaker": "Anna",
-    "text": "Deuxièmement... s'inscrire comme demandeur d'emploi ouvre la porte à un conseiller personnel, au JobBoard, à des formations, et à un soutien.",
-    "t": 575.07
+    "text": "Deuxièmement, s'inscrire comme demandeur d'emploi ouvre la porte à un conseiller personnel, au JobBoard, à des formations, et à un soutien.",
+    "t": 574.98
    },
    {
     "speaker": "Tom",
-    "text": "Troisièmement... vous vous inscrivez en ligne sur MyGuichet point lu avec un identifiant sécurisé, ou en personne sur rendez-vous à Luxembourg, Esch-Belval, ou Diekirch.",
-    "t": 581.87
+    "text": "Troisièmement, vous vous inscrivez en ligne sur MyGuichet point lu avec un identifiant sécurisé, ou en personne sur rendez-vous à Luxembourg, Esch-Belval, ou Diekirch.",
+    "t": 581.88
    },
    {
     "speaker": "Anna",
-    "text": "Quatrièmement... pour demander l'indemnité de chômage, vous devez d'abord vous inscrire, et la demande se fait désormais entièrement en ligne.",
-    "t": 591.63
+    "text": "Quatrièmement, pour demander l'indemnité de chômage, vous devez d'abord vous inscrire, et la demande se fait désormais entièrement en ligne.",
+    "t": 591.34
    },
    {
     "speaker": "Tom",
-    "text": "Et cinquièmement... il y a une aide spéciale pour les jeunes, à travers la Garantie Jeunesse, et pour les personnes en situation de handicap.",
-    "t": 597.9
+    "text": "Et cinquièmement, il y a une aide spéciale pour les jeunes, à travers la Garantie Jeunesse, et pour les personnes en situation de handicap.",
+    "t": 597.61
    },
    {
     "speaker": "Anna",
-    "text": "Et n'oubliez pas la règle de sécurité... l'ADEM ne demande jamais de paiement.",
-    "t": 605.37
+    "text": "Et n'oubliez pas la règle de sécurité, l'ADEM ne demande jamais de paiement.",
+    "t": 604.92
    },
    {
     "speaker": "Tom",
     "text": "Une recherche d'emploi peut être stressante.",
-    "t": 609.49
+    "t": 608.84
    },
    {
     "speaker": "Tom",
     "text": "Mais le message de cet épisode, c'est que vous n'avez pas à le faire seul.",
-    "t": 611.7
+    "t": 611.05
    },
    {
     "speaker": "Anna",
     "text": "L'ADEM est là pour marcher à vos côtés.",
-    "t": 615.68
+    "t": 615.03
    },
    {
     "speaker": "Anna",
     "text": "Une étape à la fois.",
-    "t": 617.62
+    "t": 616.97
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur l'ADEM.",
-    "t": 618.8
+    "t": 618.15
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 620.54
+    "t": 619.89
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 628.11
+    "t": 627.46
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 643.98
+    "t": 643.33
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 648.63
+    "t": 647.98
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 650.41
+    "t": 649.76
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 654.79
+    "t": 654.14
    },
    {
     "speaker": "Tom",
-    "text": "Prenez soin de vous... et à la prochaine !",
-    "t": 656.02
+    "text": "Prenez soin de vous, et à la prochaine !",
+    "t": 655.39
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 658.48
+    "t": 657.68
    }
   ],
   "audio_de": "podcast_adem_de.mp3",
-  "duration_de": 764.32,
+  "duration_de": 756.98,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -39438,762 +39413,772 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt.",
-    "t": 6.69
+    "t": 6.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
-    "t": 9.16
+    "t": 9.18
    },
    {
     "speaker": "Anna",
     "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
-    "t": 18.82
+    "t": 18.84
    },
    {
     "speaker": "Tom",
-    "text": "Und heute sprechen wir über etwas, das fast jeden irgendwann im Leben betrifft... die Arbeit.",
-    "t": 27.86
+    "text": "Und heute sprechen wir über etwas, das fast jeden irgendwann im Leben betrifft, die Arbeit.",
+    "t": 27.88
    },
    {
     "speaker": "Anna",
     "text": "Genauer gesagt sprechen wir über die ADEM.",
-    "t": 33.41
+    "t": 33.18
    },
    {
     "speaker": "Tom",
     "text": "ADEM. Vielleicht haben Sie den Namen schon gesehen, etwa auf einem Brief oder in der Nähe eines ihrer Büros.",
-    "t": 36
+    "t": 35.77
    },
    {
     "speaker": "Tom",
     "text": "Aber was genau ist das?",
-    "t": 42.47
+    "t": 42.24
    },
    {
     "speaker": "Anna",
     "text": "ADEM steht für die „Agence pour le développement de l'emploi\".",
-    "t": 43.98
+    "t": 43.75
    },
    {
     "speaker": "Anna",
     "text": "Auf Deutsch bedeutet das die Agentur für die Entwicklung der Beschäftigung.",
-    "t": 47.2
+    "t": 46.97
    },
    {
     "speaker": "Tom",
     "text": "Es ist der öffentliche Arbeitsdienst Luxemburgs.",
-    "t": 51.06
+    "t": 50.83
    },
    {
     "speaker": "Tom",
     "text": "Stellen Sie es sich als die offizielle staatliche Agentur vor, die Menschen hilft, Arbeit zu finden, und Arbeitgebern hilft, Personal zu finden.",
-    "t": 53.9
+    "t": 53.67
    },
    {
     "speaker": "Anna",
-    "text": "Ihr Motto ist schön und klar... „Facilitons l'emploi\".",
-    "t": 62.52
-   },
-   {
-    "speaker": "Anna",
-    "text": "Machen wir die Beschäftigung einfacher.",
-    "t": 66.74
+    "text": "Ihr Motto ist schön und klar: „Machen wir die Beschäftigung einfacher.\"",
+    "t": 62.29
    },
    {
     "speaker": "Tom",
     "text": "Die ADEM steht also in der Mitte, zwischen Menschen, die einen Job suchen, und Unternehmen, die Menschen suchen.",
-    "t": 68.92
+    "t": 66.52
    },
    {
     "speaker": "Anna",
     "text": "Genau. Und es ist ein öffentlicher Dienst, was bedeutet, dass die Nutzung kostenlos ist.",
-    "t": 75
+    "t": 72.6
    },
    {
     "speaker": "Tom",
     "text": "Gut zu wissen.",
-    "t": 80.25
+    "t": 77.85
    },
    {
     "speaker": "Tom",
     "text": "Also Anna, für wen ist die ADEM eigentlich da?",
-    "t": 81.33
+    "t": 78.93
    },
    {
     "speaker": "Anna",
     "text": "Hauptsächlich für drei Gruppen.",
-    "t": 83.74
+    "t": 81.34
    },
    {
     "speaker": "Anna",
-    "text": "Erstens, Arbeitssuchende... Menschen, die Arbeit suchen oder den Job wechseln möchten.",
-    "t": 85.52
+    "text": "Erstens, Arbeitssuchende. Menschen, die Arbeit suchen oder den Job wechseln möchten.",
+    "t": 83.14
    },
    {
     "speaker": "Tom",
-    "text": "Zweitens, Arbeitnehmer... Menschen, die bereits einen Job haben, aber Beratung oder Weiterbildung wünschen.",
-    "t": 91.03
+    "text": "Zweitens, Arbeitnehmer. Menschen, die bereits einen Job haben, aber Beratung oder Weiterbildung wünschen.",
+    "t": 88.59
    },
    {
     "speaker": "Anna",
-    "text": "Und drittens, Arbeitgeber... Unternehmen und Organisationen, die einstellen möchten.",
-    "t": 97.78
+    "text": "Und drittens, Arbeitgeber.",
+    "t": 95.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Unternehmen und Organisationen, die einstellen möchten.",
+    "t": 97.56
    },
    {
     "speaker": "Tom",
     "text": "Es ist also wirklich für sehr viele Menschen da.",
-    "t": 103.66
+    "t": 100.96
    },
    {
     "speaker": "Tom",
     "text": "Selbst wenn Sie gerade einen Job haben, könnte die ADEM eines Tages trotzdem wichtig für Sie sein.",
-    "t": 106.27
+    "t": 103.57
    },
    {
     "speaker": "Anna",
     "text": "Das ist die zentrale Botschaft.",
-    "t": 111.43
+    "t": 108.73
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nicht warten, bis Sie in Schwierigkeiten sind.",
-    "t": 113.52
+    "t": 110.82
    },
    {
     "speaker": "Anna",
     "text": "Die ADEM ist davor, währenddessen und danach für Sie da.",
-    "t": 116.49
+    "t": 113.79
    },
    {
     "speaker": "Tom",
-    "text": "Sprechen wir über den Kern der Sache... die Anmeldung als Arbeitssuchender.",
-    "t": 120.31
+    "text": "Sprechen wir über den Kern der Sache, die Anmeldung als Arbeitssuchender.",
+    "t": 117.61
    },
    {
     "speaker": "Tom",
     "text": "Warum sollte das jemand tun?",
-    "t": 124.59
+    "t": 122.16
    },
    {
     "speaker": "Anna",
-    "text": "Wenn Sie sich anmelden, sagen Sie offiziell... ich suche Arbeit und ich stehe dem Arbeitsmarkt zur Verfügung.",
-    "t": 126.41
+    "text": "Wenn Sie sich anmelden, sagen Sie offiziell, ich suche Arbeit und ich stehe dem Arbeitsmarkt zur Verfügung.",
+    "t": 123.95
    },
    {
     "speaker": "Tom",
     "text": "Und „dem Arbeitsmarkt zur Verfügung stehen\" hat eine echte Bedeutung, nicht wahr?",
-    "t": 132.09
+    "t": 129.89
    },
    {
     "speaker": "Anna",
     "text": "Ja. Es bedeutet, dass Sie von der ADEM und von Arbeitgebern leicht erreicht werden können und dass Sie bereit sind, für die von Ihnen angegebenen Stunden zu arbeiten.",
-    "t": 136.59
+    "t": 134.39
    },
    {
     "speaker": "Tom",
     "text": "Sie melden sich also an, und dann öffnet sich eine Tür zu all der Hilfe der ADEM.",
-    "t": 146.2
+    "t": 144
    },
    {
     "speaker": "Anna",
     "text": "Ja. Sobald Sie angemeldet sind, bekommen Sie einen persönlichen Berater, Zugang zu Stellenangeboten, Weiterbildung und Unterstützung bei Ihrer Suche.",
-    "t": 150.78
+    "t": 148.58
    },
    {
     "speaker": "Tom",
     "text": "Lassen Sie uns beim persönlichen Berater kurz innehalten, denn ich finde das wirklich wichtig.",
-    "t": 159.85
+    "t": 157.65
    },
    {
     "speaker": "Anna",
     "text": "Das ist es.",
-    "t": 164.75
+    "t": 162.55
    },
    {
     "speaker": "Anna",
     "text": "Nachdem Ihre Anmeldung genehmigt wurde, werden Sie zu einem ersten Termin mit einem ADEM-Berater eingeladen.",
-    "t": 165.8
+    "t": 163.6
    },
    {
     "speaker": "Tom",
     "text": "Dieser Berater wird während Ihrer gesamten Jobsuche Ihr wichtigster Ansprechpartner.",
-    "t": 171.34
+    "t": 169.14
    },
    {
     "speaker": "Anna",
     "text": "Er begleitet Ihre Situation persönlich.",
-    "t": 175.95
+    "t": 173.75
    },
    {
     "speaker": "Anna",
     "text": "Er hilft Ihnen, Ihre Schritte zu planen, und bleibt auf dem Weg an Ihrer Seite.",
-    "t": 178.46
+    "t": 176.26
    },
    {
     "speaker": "Tom",
     "text": "Sie sind also nicht allein vor einer Webseite.",
-    "t": 182.99
+    "t": 180.79
    },
    {
     "speaker": "Tom",
     "text": "Es gibt eine echte Person, die Ihre Akte kennt.",
-    "t": 185.55
+    "t": 183.35
    },
    {
     "speaker": "Anna",
     "text": "Genau. Nun, wie melden Sie sich eigentlich an?",
-    "t": 188.38
+    "t": 186.18
    },
    {
     "speaker": "Anna",
     "text": "Es gibt zwei Wege.",
-    "t": 192.05
+    "t": 189.85
    },
    {
     "speaker": "Tom",
     "text": "Der erste Weg ist online, und das ist der moderne, einfache Weg.",
-    "t": 193.54
+    "t": 191.34
    },
    {
     "speaker": "Anna",
     "text": "Sie melden sich auf MyGuichet Punkt lu an.",
-    "t": 197.53
+    "t": 195.33
    },
    {
     "speaker": "Anna",
     "text": "Das ist die sichere Online-Plattform des Staates, über die wir in einer früheren Folge gesprochen haben.",
-    "t": 200.19
+    "t": 197.99
    },
    {
     "speaker": "Tom",
     "text": "Die Plattform führt Sie Schritt für Schritt.",
-    "t": 205.68
+    "t": 203.48
    },
    {
     "speaker": "Tom",
     "text": "Sie geben Informationen zu Ihrem Profil und zu der Art von Job, den Sie suchen.",
-    "t": 207.94
+    "t": 205.74
    },
    {
     "speaker": "Anna",
     "text": "Sie können auch Ihre Dokumente direkt hochladen, sodass alles an einem Ort ist.",
-    "t": 212.68
+    "t": 210.48
    },
    {
     "speaker": "Tom",
     "text": "Und um sich anzumelden, brauchen Sie ein sicheres Authentifizierungsmittel, wie ein LuxTrust-Produkt, oder Ihren luxemburgischen elektronischen Personalausweis.",
-    "t": 217.31
+    "t": 215.11
    },
    {
     "speaker": "Anna",
     "text": "Das ist derselbe sichere Login, den Sie für viele offizielle Dienste in Luxemburg verwenden.",
-    "t": 226.59
+    "t": 224.39
    },
    {
     "speaker": "Tom",
     "text": "Was ist, wenn jemand lieber eine Person trifft, von Angesicht zu Angesicht?",
-    "t": 231.78
+    "t": 229.58
    },
    {
     "speaker": "Anna",
-    "text": "Dann gibt es den zweiten Weg... die Anmeldung persönlich in einer ADEM-Agentur.",
-    "t": 235.93
+    "text": "Dann gibt es den zweiten Weg, die Anmeldung persönlich in einer ADEM-Agentur.",
+    "t": 233.73
    },
    {
     "speaker": "Tom",
     "text": "Dafür rufen Sie zuerst an, um einen Termin zu vereinbaren.",
-    "t": 240.75
+    "t": 238.35
    },
    {
     "speaker": "Tom",
     "text": "Die Nummer ist das ADEM Contact Centre, unter 2-4-7, 8-8-8-8-8.",
-    "t": 244.14
+    "t": 241.74
    },
    {
     "speaker": "Anna",
-    "text": "Und persönlich anmelden können Sie sich in drei Agenturen der ADEM... in Luxemburg-Stadt, in Esch-Belval und in Diekirch.",
-    "t": 250.07
+    "text": "Und persönlich anmelden können Sie sich in drei Agenturen der ADEM, in Luxemburg-Stadt, in Esch-Belval und in Diekirch.",
+    "t": 247.67
    },
    {
     "speaker": "Anna",
     "text": "Man wird Ihnen die Agentur anbieten, die Ihrem Wohnort am nächsten liegt.",
-    "t": 258.16
+    "t": 255.33
    },
    {
     "speaker": "Tom",
     "text": "Gut. Ob Sie sich also online oder persönlich wohler fühlen, beide Türen stehen offen.",
-    "t": 262.25
+    "t": 259.42
    },
    {
     "speaker": "Anna",
     "text": "Nun, Tom, was sollte jemand mitbringen oder vorbereiten, bevor er sich anmeldet?",
-    "t": 267.36
+    "t": 264.53
    },
    {
     "speaker": "Tom",
     "text": "Ein paar einfache Dinge.",
-    "t": 272.3
+    "t": 269.47
    },
    {
     "speaker": "Tom",
     "text": "Erstens, Ihre Sozialversicherungsnummer, die auf Ihrer Sozialversicherungskarte steht.",
-    "t": 273.69
+    "t": 270.86
    },
    {
     "speaker": "Anna",
-    "text": "Stellen Sie sicher, dass Ihre Ausweisdokumente gültig sind... Ihr Personalausweis, Reisepass oder Aufenthaltstitel.",
-    "t": 278.76
+    "text": "Stellen Sie sicher, dass Ihre Ausweisdokumente gültig sind.",
+    "t": 275.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ihr Personalausweis, Reisepass oder Aufenthaltstitel.",
+    "t": 279.3
    },
    {
     "speaker": "Tom",
     "text": "Und bringen Sie Ihren Lebenslauf mit, auf dem neuesten Stand, mit Ihrer Erfahrung, Ihren Fähigkeiten, Ihrer Ausbildung und den Sprachen, die Sie sprechen.",
-    "t": 285.82
+    "t": 283.14
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie Zeugnisse aus einer Berufsausbildung haben, sind die auch ein echtes Plus.",
-    "t": 294.9
+    "t": 292.22
    },
    {
     "speaker": "Tom",
     "text": "Und hier ist ein Detail, das viele Menschen nicht wissen.",
-    "t": 299.51
+    "t": 296.83
    },
    {
     "speaker": "Tom",
     "text": "Sie können sich bei der ADEM anmelden, auch wenn Sie noch einen Job haben.",
-    "t": 302.28
+    "t": 299.6
    },
    {
     "speaker": "Anna",
     "text": "Ja! Solange Sie die Anforderungen der ADEM erfüllen und Sie an den Terminen teilnehmen können, müssen Sie nicht warten, bis Sie arbeitslos sind.",
-    "t": 305.98
+    "t": 303.3
    },
    {
     "speaker": "Tom",
     "text": "Sprechen wir darüber, was Sie tatsächlich bekommen, sobald Sie angemeldet sind.",
-    "t": 314.03
+    "t": 311.35
    },
    {
     "speaker": "Tom",
     "text": "Sie haben das JobBoard erwähnt.",
-    "t": 318.15
+    "t": 315.47
    },
    {
     "speaker": "Anna",
     "text": "Das JobBoard ist die Stellenangebots-Plattform der ADEM.",
-    "t": 320.04
+    "t": 317.36
    },
    {
     "speaker": "Anna",
     "text": "Als angemeldeter Arbeitssuchender bekommen Sie Zugang, um Stellen zu durchsuchen und Bewerbungen zu senden.",
-    "t": 323.16
+    "t": 320.48
    },
    {
     "speaker": "Tom",
     "text": "Sie können dort auch Ihren Lebenslauf hochladen, sodass Arbeitgeber Sie finden können.",
-    "t": 329.3
+    "t": 326.62
    },
    {
     "speaker": "Anna",
     "text": "Dann gibt es Weiterbildungskurse und Beschäftigungsmaßnahmen, ausgewählt nach Ihrem Profil und Ihren Bedürfnissen.",
-    "t": 334.02
+    "t": 331.34
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt etwas, das Beschäftigungsclub heißt, richtig?",
-    "t": 340.69
+    "t": 338.01
    },
    {
     "speaker": "Anna",
     "text": "Ja. Dort können Sie Computer nutzen, Hilfe bei Lebenslauf und Anschreiben bekommen, sogar ein Foto für Ihren Lebenslauf machen lassen, und an Gruppenworkshops teilnehmen.",
-    "t": 344.12
+    "t": 341.44
    },
    {
     "speaker": "Anna",
     "text": "Praktische, handfeste Unterstützung.",
-    "t": 354.51
+    "t": 351.83
    },
    {
     "speaker": "Tom",
     "text": "Die Anmeldung ist also nicht nur eine Formalität.",
-    "t": 357.41
+    "t": 354.73
    },
    {
     "speaker": "Tom",
     "text": "Sie schaltet echte, konkrete Hilfe frei.",
-    "t": 360.18
+    "t": 357.5
    },
    {
     "speaker": "Anna",
     "text": "Genau. Aber mit der Hilfe kommen natürlich auch einige Pflichten.",
-    "t": 362.88
+    "t": 360.2
    },
    {
     "speaker": "Tom",
     "text": "Das ist fair.",
-    "t": 367.01
+    "t": 364.33
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie sich anmelden, sagen Sie, dass Sie aktiv nach Arbeit suchen werden.",
-    "t": 368.13
+    "t": 365.45
    },
    {
     "speaker": "Anna",
-    "text": "Es wird also von Ihnen erwartet, dass Sie selbst Schritte unternehmen... auf Stellenanzeigen antworten, Bewerbungen senden, das JobBoard durchsuchen, Ihren Lebenslauf aktuell halten.",
-    "t": 372
+    "text": "Es wird also von Ihnen erwartet, dass Sie selbst Schritte unternehmen, auf Stellenanzeigen antworten, Bewerbungen senden, das JobBoard durchsuchen, Ihren Lebenslauf aktuell halten.",
+    "t": 369.32
    },
    {
     "speaker": "Tom",
     "text": "Sie befolgen auch den Plan, den Sie gemeinsam mit Ihrem Berater erstellen, und Sie nehmen an Ihren Terminen teil.",
-    "t": 382.55
+    "t": 379.18
    },
    {
     "speaker": "Anna",
-    "text": "Und Sie teilen der ADEM Änderungen mit, die Ihre Verfügbarkeit betreffen... ein Umzug, eine neue Telefonnummer, der Beginn eines Jobs, eine Krankheit und so weiter.",
-    "t": 388.65
+    "text": "Und Sie teilen der ADEM Änderungen mit, die Ihre Verfügbarkeit betreffen, ein Umzug, eine neue Telefonnummer, der Beginn eines Jobs, eine Krankheit und so weiter.",
+    "t": 385.28
    },
    {
     "speaker": "Tom",
     "text": "Es ist eine wechselseitige Beziehung.",
-    "t": 399.45
+    "t": 394.88
    },
    {
     "speaker": "Tom",
     "text": "Die ADEM unterstützt Sie, und Sie bleiben aktiv und in Kontakt.",
-    "t": 401.64
+    "t": 397.07
    },
    {
     "speaker": "Anna",
-    "text": "Und es gibt ein schönes Detail... als Arbeitssuchender haben Sie jedes Jahr Anspruch auf eine Anzahl von Urlaubstagen, bis zu fünfundzwanzig Arbeitstage.",
-    "t": 405.83
+    "text": "Und es gibt ein schönes Detail, als Arbeitssuchender haben Sie jedes Jahr Anspruch auf eine Anzahl von Urlaubstagen, bis zu fünfundzwanzig Arbeitstage.",
+    "t": 401.26
    },
    {
     "speaker": "Tom",
     "text": "Während dieses genehmigten Urlaubs sind Sie von Ihren Pflichten gegenüber der ADEM befreit, ein bisschen wie Ferien.",
-    "t": 415.06
+    "t": 410.21
    },
    {
     "speaker": "Tom",
     "text": "Sie müssen ihn nur im Voraus beantragen.",
-    "t": 421.49
+    "t": 416.64
    },
    {
     "speaker": "Anna",
-    "text": "Sprechen wir nun über Geld, denn viele Menschen kommen deswegen zur ADEM... das Arbeitslosengeld.",
-    "t": 423.86
+    "text": "Sprechen wir nun über Geld, denn viele Menschen kommen deswegen zur ADEM, das Arbeitslosengeld.",
+    "t": 419.01
    },
    {
     "speaker": "Tom",
     "text": "Auf Französisch die „indemnité de chômage\".",
-    "t": 430.23
+    "t": 424.65
    },
    {
     "speaker": "Tom",
     "text": "Das ist eine finanzielle Unterstützung, wenn Sie Ihren Job verloren haben.",
-    "t": 433.3
+    "t": 427.72
    },
    {
     "speaker": "Anna",
     "text": "Und hier ist die wichtige Regel.",
-    "t": 436.99
+    "t": 431.41
    },
    {
     "speaker": "Anna",
     "text": "Um Arbeitslosengeld zu beantragen, müssen Sie zuerst als Arbeitssuchender bei der ADEM angemeldet sein.",
-    "t": 438.86
+    "t": 433.28
    },
    {
     "speaker": "Tom",
     "text": "Sobald Ihre Akte als Arbeitssuchender eröffnet ist, prüft die ADEM automatisch, ob Sie aufgrund Ihrer Situation einen Anspruch auf Leistungen haben.",
-    "t": 444.62
+    "t": 439.04
    },
    {
     "speaker": "Anna",
-    "text": "Die Anmeldung kommt also zuerst... dann folgt die Frage nach der Leistung.",
-    "t": 453.09
+    "text": "Die Anmeldung kommt also zuerst, dann folgt die Frage nach der Leistung.",
+    "t": 447.51
    },
    {
     "speaker": "Tom",
     "text": "Und es gibt gute Nachrichten dazu, wie Sie den Antrag stellen.",
-    "t": 457.39
+    "t": 451.77
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie die Bedingungen erfüllen, schickt Ihnen die ADEM einen Brief, und Sie vervollständigen Ihren Antrag online, auf MyGuichet.lu.",
-    "t": 460.7
+    "t": 455.08
    },
    {
     "speaker": "Anna",
     "text": "Das bedeutet weniger Papierkram und gesparte Zeit.",
-    "t": 469.33
+    "t": 463.71
    },
    {
     "speaker": "Anna",
     "text": "Sie können mehr davon von zu Hause aus erledigen.",
-    "t": 472.45
+    "t": 466.83
    },
    {
     "speaker": "Tom",
     "text": "Schenken wir nun den jüngeren Zuhörern etwas Aufmerksamkeit, denn Luxemburg hat ein besonderes Versprechen für sie.",
-    "t": 475.38
+    "t": 469.76
    },
    {
     "speaker": "Anna",
     "text": "Es heißt die Jugendgarantie.",
-    "t": 481.68
+    "t": 476.06
    },
    {
     "speaker": "Anna",
     "text": "Das Ziel ist, dass jedem jungen Menschen, im Alter von sechzehn bis dreißig Jahren, eine konkrete Lösung angeboten wird, um ins Berufsleben einzutreten.",
-    "t": 483.55
+    "t": 477.93
    },
    {
     "speaker": "Tom",
-    "text": "Und es gibt einen klaren Zeitrahmen... innerhalb von vier Monaten nach der Anmeldung bei der ADEM.",
-    "t": 492.48
+    "text": "Und es gibt einen klaren Zeitrahmen, innerhalb von vier Monaten nach der Anmeldung bei der ADEM.",
+    "t": 486.86
    },
    {
     "speaker": "Tom",
     "text": "Und in den ersten sechs Monaten treffen Sie Ihren persönlichen Berater jeden Monat.",
-    "t": 498.28
+    "t": 492.39
    },
    {
     "speaker": "Anna",
     "text": "Diese Lösung könnte ein Job sein, aber es könnte auch eine Weiterbildung sein oder ein anderer Schritt, der Sie voranbringt.",
-    "t": 502.99
+    "t": 497.1
    },
    {
     "speaker": "Tom",
     "text": "Wenn Sie also jung sind und sich nicht sicher sind, was Sie als Nächstes tun sollen, ist die ADEM ein sehr guter Ausgangspunkt.",
-    "t": 509.65
+    "t": 503.76
    },
    {
     "speaker": "Anna",
     "text": "Die ADEM hat auch eine eigene Unterstützung für Menschen mit einer Behinderung oder mit einer verminderten Arbeitsfähigkeit.",
-    "t": 516.74
+    "t": 510.85
    },
    {
     "speaker": "Tom",
     "text": "Es gibt besondere Maßnahmen, Praktika, finanzielle Leistungen und persönliche Begleitung, um Menschen zu helfen, Arbeit zu finden oder zurückzukehren.",
-    "t": 523.12
+    "t": 517.23
    },
    {
     "speaker": "Anna",
-    "text": "Das Ziel ist Inklusion... sicherzustellen, dass jeder eine faire Chance auf dem Arbeitsmarkt hat.",
-    "t": 532.57
+    "text": "Das Ziel ist Inklusion, sicherzustellen, dass jeder eine faire Chance auf dem Arbeitsmarkt hat.",
+    "t": 526.68
    },
    {
     "speaker": "Tom",
-    "text": "Vergessen wir nicht die andere Seite der ADEM... die Arbeitgeber.",
-    "t": 538.11
+    "text": "Vergessen wir nicht die andere Seite der ADEM, die Arbeitgeber.",
+    "t": 532.06
    },
    {
     "speaker": "Anna",
     "text": "Richtig. In Luxemburg sind Arbeitgeber tatsächlich verpflichtet, ihre offenen Stellen der ADEM zu melden.",
-    "t": 541.83
+    "t": 535.57
    },
    {
     "speaker": "Tom",
     "text": "Und im Gegenzug bekommen sie Hilfe.",
-    "t": 548.05
+    "t": 541.79
    },
    {
     "speaker": "Tom",
     "text": "Die ADEM bringt sie mit Kandidaten aus ihrem Pool von Arbeitssuchenden zusammen.",
-    "t": 550.06
+    "t": 543.8
    },
    {
     "speaker": "Anna",
-    "text": "Arbeitgeber können auch finanzielle Hilfe bekommen, wenn sie bestimmte Menschen einstellen... zum Beispiel einen jungen Arbeitssuchenden, jemanden, der lange arbeitslos war, oder eine Person mit einer Behinderung.",
-    "t": 554.64
+    "text": "Arbeitgeber können auch finanzielle Hilfe bekommen, wenn sie bestimmte Menschen einstellen, zum Beispiel einen jungen Arbeitssuchenden, jemanden, der lange arbeitslos war, oder eine Person mit einer Behinderung.",
+    "t": 548.38
    },
    {
     "speaker": "Tom",
     "text": "Die ADEM hilft also nicht nur Einzelpersonen.",
-    "t": 566.45
+    "t": 559.97
    },
    {
     "speaker": "Tom",
     "text": "Sie hilft dem gesamten Arbeitsmarkt, besser zu funktionieren.",
-    "t": 569.12
+    "t": 562.64
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch Unterstützung bei der internationalen Rekrutierung, durch einen Dienst namens Work in Luxembourg.",
-    "t": 572.58
+    "t": 566.1
    },
    {
     "speaker": "Tom",
     "text": "Und seit 2026 gibt es sogar eine nationale Website, workinluxembourg.com.",
-    "t": 578.35
+    "t": 571.87
    },
    {
     "speaker": "Tom",
     "text": "Sie hilft Unternehmen hier, Talente zu finden, und hilft Menschen im Ausland, Chancen im Land zu entdecken.",
-    "t": 584.39
+    "t": 577.91
    },
    {
     "speaker": "Anna",
     "text": "Tom, bevor wir zum Schluss kommen, gibt es einen Sicherheitshinweis, den wir wirklich erwähnen sollten.",
-    "t": 590.46
+    "t": 583.98
    },
    {
     "speaker": "Tom",
     "text": "Ja, einen wichtigen.",
-    "t": 595.71
+    "t": 589.23
    },
    {
     "speaker": "Tom",
     "text": "Manchmal senden Betrüger gefälschte E-Mails oder erstellen gefälschte Konten in sozialen Netzwerken und geben vor, die ADEM zu sein.",
-    "t": 597.34
+    "t": 590.86
    },
    {
     "speaker": "Tom",
     "text": "Sie verlangen Geld für einen Job oder ein Visum — oder sie bitten Sie, auf einen Link zu klicken und Ihre persönlichen Daten zu bestätigen.",
-    "t": 605.54
+    "t": 599.06
    },
    {
     "speaker": "Anna",
-    "text": "Bitte merken Sie sich das ganz klar... die ADEM verlangt niemals, dass Sie für einen Job oder ein Visum bezahlen.",
-    "t": 613.55
+    "text": "Bitte merken Sie sich das ganz klar, die ADEM verlangt niemals, dass Sie für einen Job oder ein Visum bezahlen.",
+    "t": 607.07
    },
    {
     "speaker": "Anna",
     "text": "Der Dienst ist kostenlos.",
-    "t": 619.94
+    "t": 613.24
    },
    {
     "speaker": "Tom",
     "text": "Wenn jemand Sie im Namen der ADEM um eine Zahlung oder persönliche Daten bittet, ist das Betrug.",
-    "t": 621.86
+    "t": 615.26
    },
    {
     "speaker": "Tom",
     "text": "Zahlen Sie nicht, klicken Sie nicht, und prüfen Sie die offiziellen Kanäle der ADEM auf ihrer Website.",
-    "t": 627.54
+    "t": 620.94
    },
    {
     "speaker": "Anna",
-    "text": "Noch eine praktische Sache... Sprachen.",
-    "t": 633.38
+    "text": "Noch eine praktische Sache.",
+    "t": 626.78
    },
    {
     "speaker": "Anna",
-    "text": "Um mit der ADEM zu verkehren, sollten Sie mindestens eine der Verwaltungssprachen Luxemburgs sprechen... Luxemburgisch, Französisch oder Deutsch, oder sonst Englisch.",
-    "t": 636.41
+    "text": "Sprachen. Um mit der ADEM zu verkehren, sollten Sie mindestens eine der Verwaltungssprachen Luxemburgs sprechen.",
+    "t": 628.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Luxemburgisch, Französisch oder Deutsch, oder sonst Englisch.",
+    "t": 635.56
    },
    {
     "speaker": "Tom",
     "text": "Und wenn nicht, können Sie jemanden mitbringen, dem Sie vertrauen und der das kann, um Ihnen während Ihrer Termine zu helfen.",
-    "t": 646.67
+    "t": 639.67
    },
    {
     "speaker": "Anna",
     "text": "Fassen wir also alles zusammen.",
-    "t": 653.2
+    "t": 646.2
    },
    {
     "speaker": "Anna",
     "text": "Was sollten sich die Menschen über die ADEM merken?",
-    "t": 655.15
+    "t": 648.15
    },
    {
     "speaker": "Tom",
-    "text": "Erstens... die ADEM ist der kostenlose, öffentliche Arbeitsdienst Luxemburgs, für Arbeitssuchende, Arbeitnehmer und Arbeitgeber.",
-    "t": 658.05
+    "text": "Erstens, die ADEM ist der kostenlose, öffentliche Arbeitsdienst Luxemburgs, für Arbeitssuchende, Arbeitnehmer und Arbeitgeber.",
+    "t": 651.05
    },
    {
     "speaker": "Anna",
-    "text": "Zweitens... die Anmeldung als Arbeitssuchender öffnet die Tür zu einem persönlichen Berater, dem JobBoard, Weiterbildung und Unterstützung.",
-    "t": 666.38
+    "text": "Zweitens, die Anmeldung als Arbeitssuchender öffnet die Tür zu einem persönlichen Berater, dem JobBoard, Weiterbildung und Unterstützung.",
+    "t": 659.77
    },
    {
     "speaker": "Tom",
-    "text": "Drittens... Sie melden sich online auf MyGuichet Punkt lu mit einem sicheren Login an, oder persönlich mit einem Termin in Luxemburg, Esch-Belval oder Diekirch.",
-    "t": 675.01
+    "text": "Drittens. Sie melden sich online auf MyGuichet Punkt lu mit einem sicheren Login an, oder persönlich mit einem Termin in Luxemburg, Esch-Belval oder Diekirch.",
+    "t": 667.71
    },
    {
     "speaker": "Anna",
-    "text": "Viertens... um Arbeitslosengeld zu beantragen, müssen Sie sich zuerst anmelden, und der Antrag ist jetzt vollständig online.",
-    "t": 686.2
+    "text": "Viertens, um Arbeitslosengeld zu beantragen, müssen Sie sich zuerst anmelden, und der Antrag ist jetzt vollständig online.",
+    "t": 679.26
    },
    {
     "speaker": "Tom",
-    "text": "Und fünftens... es gibt besondere Hilfe für junge Menschen, durch die Jugendgarantie, und für Menschen mit Behinderungen.",
-    "t": 693.77
+    "text": "Und fünftens, es gibt besondere Hilfe für junge Menschen, durch die Jugendgarantie, und für Menschen mit Behinderungen.",
+    "t": 686.97
    },
    {
     "speaker": "Anna",
-    "text": "Und denken Sie an die Sicherheitsregel... die ADEM verlangt niemals eine Zahlung.",
-    "t": 701.2
+    "text": "Und denken Sie an die Sicherheitsregel, die ADEM verlangt niemals eine Zahlung.",
+    "t": 693.97
    },
    {
     "speaker": "Tom",
     "text": "Eine Jobsuche kann sich stressig anfühlen.",
-    "t": 705.96
+    "t": 699.11
    },
    {
     "speaker": "Tom",
     "text": "Aber die Botschaft dieser Folge ist, dass Sie es nicht allein tun müssen.",
-    "t": 708.39
+    "t": 701.54
    },
    {
     "speaker": "Anna",
     "text": "Die ADEM ist da, um an Ihrer Seite zu gehen.",
-    "t": 712.25
+    "t": 705.4
    },
    {
     "speaker": "Anna",
     "text": "Schritt für Schritt.",
-    "t": 715.04
+    "t": 708.19
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die ADEM.",
-    "t": 716.57
+    "t": 709.72
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 718.86
+    "t": 712.01
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 727.72
+    "t": 720.87
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 745.57
+    "t": 738.72
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 751.27
+    "t": 744.42
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 753.52
+    "t": 746.67
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 758.41
+    "t": 751.56
    },
    {
     "speaker": "Tom",
-    "text": "Passen Sie auf sich auf... und bis zum nächsten Mal!",
-    "t": 759.56
+    "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
+    "t": 752.66
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 762.77
+    "t": 755.45
    }
   ],
   "segments_lb": [
@@ -40214,493 +40199,493 @@ const EPISODES = [
    },
    {
     "speaker": "Tom",
-    "text": "An haut schwätze mer iwwer eppes, wat bal jiddereen iergendwann a sengem Liewe betrëfft... d'Schaffen.",
+    "text": "An haut schwätze mer iwwer eppes, wat bal jiddereen iergendwann a sengem Liewe betrëfft, d'Schaffen.",
     "t": 27.49
    },
    {
     "speaker": "Anna",
     "text": "Méi genau schwätze mer iwwer d'ADEM.",
-    "t": 33.72
+    "t": 34.45
    },
    {
     "speaker": "Tom",
     "text": "ADEM. Dir hutt de Numm vläicht schonn eng Kéier gesinn, vläicht op engem Bréif, oder bei engem vun hire Büroen. Mä wat ass dat genau?",
-    "t": 36.33
+    "t": 37.35
    },
    {
     "speaker": "Anna",
     "text": "ADEM steet fir d'\"Agence pour le développement de l'emploi\". Op Däitsch heescht dat d'Agentur fir d'Entwécklung vun der Beschäftegung.",
-    "t": 42.24
+    "t": 43.69
    },
    {
     "speaker": "Tom",
     "text": "Et ass de Lëtzebuerger ëffentlechen Aarbechtsservice. Stell der et als déi offiziell Agence vum Staat vir, déi de Leit hëlleft, Aarbecht ze fannen, an de Patronen hëlleft, Personal ze fannen.",
-    "t": 49.12
+    "t": 51.24
    },
    {
     "speaker": "Anna",
-    "text": "Säi Motto ass schéin a kloer... \"Facilitons l'emploi\". Loosse mer d'Beschäftegung méi einfach maachen.",
-    "t": 58.07
+    "text": "Säi Motto ass schéin a kloer, \"Facilitons l'emploi\". Loosse mer d'Beschäftegung méi einfach maachen.",
+    "t": 60.19
    },
    {
     "speaker": "Tom",
     "text": "Also sëtzt d'ADEM an der Mëtt, tëscht de Leit, déi e Job sichen, an de Firmen, déi Leit sichen.",
-    "t": 63.26
+    "t": 64.07
    },
    {
     "speaker": "Anna",
     "text": "Genau. An et ass en ëffentleche Service, wat heescht, et ass gratis.",
-    "t": 69.31
+    "t": 70.29
    },
    {
     "speaker": "Tom",
     "text": "Gutt ze wëssen. Also Anna, fir wie ass d'ADEM eigentlech do?",
-    "t": 73.71
+    "t": 74.69
    },
    {
     "speaker": "Anna",
-    "text": "Haaptsächlech fir dräi Gruppen. Als éischt d'Aarbechtssichend... Leit, déi Aarbecht sichen, oder déi de Job wiessele wëllen.",
-    "t": 76.75
+    "text": "Haaptsächlech fir dräi Gruppen. Als éischt d'Aarbechtssichend. Leit, déi Aarbecht sichen, oder déi de Job wiessele wëllen.",
+    "t": 77.98
    },
    {
     "speaker": "Tom",
-    "text": "Zweetens d'Salariéen... Leit, déi schonn e Job hunn, mä Berodung oder eng Formatioun wëllen.",
-    "t": 83.54
+    "text": "Zweetens d'Salariéen. Leit, déi schonn e Job hunn, mä Berodung oder eng Formatioun wëllen.",
+    "t": 85.17
    },
    {
     "speaker": "Anna",
-    "text": "An drëttens d'Patronen... Firmen an Organisatiounen, déi astelle wëllen.",
-    "t": 88.61
+    "text": "An drëttens d'Patronen. Firmen an Organisatiounen, déi astelle wëllen.",
+    "t": 90.12
    },
    {
     "speaker": "Tom",
     "text": "Also ass et wierklech fir vill Leit do. Och wann s du elo e Job hues, kéint d'ADEM enges Daags trotzdem wichteg fir dech sinn.",
-    "t": 93.52
+    "t": 94.81
    },
    {
     "speaker": "Anna",
     "text": "Dat ass déi wichteg Botschaft. Du muss net waarden, bis s du a Schwieregkeete bass. D'ADEM ass do virum, wärend, an no enger Jobsich.",
-    "t": 99.67
+    "t": 100.92
    },
    {
     "speaker": "Tom",
-    "text": "Loosse mer iwwer den Häerzstéck schwätzen... sech als Aarbechtssichenden umellen. Firwat géif een dat maachen?",
-    "t": 107.24
+    "text": "Loosse mer iwwer den Häerzstéck schwätzen, sech als Aarbechtssichenden umellen. Firwat géif een dat maachen?",
+    "t": 109.48
    },
    {
     "speaker": "Anna",
-    "text": "Wann s du dech umells, seet s du offiziell... Ech sichen Aarbecht, an ech sti fir den Aarbechtsmaart zur Verfügung.",
-    "t": 112.12
+    "text": "Wann s du dech umells, seet s du offiziell. Ech sichen Aarbecht, an ech sti fir den Aarbechtsmaart zur Verfügung.",
+    "t": 114.61
    },
    {
     "speaker": "Tom",
     "text": "A \"fir den Aarbechtsmaart zur Verfügung stoen\" huet eng richteg Bedeitung, oder?",
-    "t": 117.9
+    "t": 121.27
    },
    {
     "speaker": "Anna",
     "text": "Dat huet et. Et heescht, datt d'ADEM an d'Patronen dech einfach erreeche kënnen, an datt s du prett bass, fir d'Stonnen ze schaffen, déi s du uginn hues.",
-    "t": 121.66
+    "t": 125.03
    },
    {
     "speaker": "Tom",
     "text": "Also mells du dech un, an dann ëffnet sech eng Dier zu der ganzer Hëllef vun der ADEM.",
-    "t": 129.98
+    "t": 133.33
    },
    {
     "speaker": "Anna",
     "text": "Jo. Wann s du eemol ugemellt bass, kriss du e perséinleche Beroder, Zougang zu Jobubueten, Formatiounen, an Ënnerstëtzung bei denger Sich.",
-    "t": 133.27
+    "t": 137.03
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer beim perséinleche Beroder lues maachen, well ech mengen, dat ass wierklech wichteg.",
-    "t": 140.01
+    "t": 143.77
    },
    {
     "speaker": "Anna",
     "text": "Dat ass et. Nodeems deng Umeldung ugeholl ass, gëss du op e éischten Rendez-vous mat engem ADEM-Beroder invitéiert.",
-    "t": 144.1
+    "t": 147.86
    },
    {
     "speaker": "Tom",
     "text": "Dëse Beroder gëtt däin Haaptkontakt wärend denger ganzer Jobsich.",
-    "t": 150.71
+    "t": 154.9
    },
    {
     "speaker": "Anna",
     "text": "Hie follegt denger Situatioun perséinlech. Hien hëlleft der, deng Schrëtt ze plangen, a bleift mat der laanscht de Wee.",
-    "t": 154.58
+    "t": 158.77
    },
    {
     "speaker": "Tom",
     "text": "Also bass du net eleng virun engem Internetsite. Et gëtt eng richteg Persoun, déi däin Dossier kennt.",
-    "t": 160.47
+    "t": 164.66
    },
    {
     "speaker": "Anna",
     "text": "Genau. Elo, wéi mells du dech eigentlech un? Et ginn zwou Méiglechkeeten.",
-    "t": 165.44
+    "t": 169.63
    },
    {
     "speaker": "Tom",
     "text": "Déi éischt Méiglechkeet ass online, an dat ass de moderne, einfache Wee.",
-    "t": 169.71
+    "t": 173.9
    },
    {
     "speaker": "Anna",
     "text": "Du mells dech op MyGuichet Punkt lu un. Dat ass déi sécher Onlineplattform vum Staat, iwwer déi mer an enger fréierer Episod geschwat hunn.",
-    "t": 172.82
+    "t": 177.01
    },
    {
     "speaker": "Tom",
     "text": "D'Plattform féiert dech Schrëtt fir Schrëtt. Du gëss Informatiounen iwwer däi Profil, an iwwer d'Aart vu Job, déi s du sichs.",
-    "t": 180.19
+    "t": 184.38
    },
    {
     "speaker": "Anna",
     "text": "Du kanns och deng Dokumenter direkt eroplueden, esou datt alles op enger Plaz ass.",
-    "t": 186.01
+    "t": 190.2
    },
    {
     "speaker": "Tom",
     "text": "A fir dech anzeloggen, brauchs du en sécheren Authentifikatiounsgerät, wéi e LuxTrust-Produkt, oder deng Lëtzebuerger elektronesch Identitéitskaart.",
-    "t": 190.47
+    "t": 194.66
    },
    {
     "speaker": "Anna",
     "text": "Dat ass deeselwechte séchere Login, deen s du fir vill offiziell Servicer zu Lëtzebuerg benotzs.",
-    "t": 197.2
+    "t": 201.39
    },
    {
     "speaker": "Tom",
     "text": "A wann een léiwer eng Persoun trëfft, vis-à-vis?",
-    "t": 202.21
+    "t": 206.4
    },
    {
     "speaker": "Anna",
-    "text": "Da gëtt et déi zweet Méiglechkeet... sech perséinlech an enger ADEM-Agence umellen.",
-    "t": 205.28
+    "text": "Da gëtt et déi zweet Méiglechkeet, sech perséinlech an enger ADEM-Agence umellen.",
+    "t": 209.47
    },
    {
     "speaker": "Tom",
     "text": "Dofir rufs du als éischt un, fir e Rendez-vous ze huelen. D'Nummer ass de ADEM Contact Centre, op 2-4-7, 8-8-8-8-8.",
-    "t": 209.98
+    "t": 214.08
    },
    {
     "speaker": "Anna",
-    "text": "An Dir kënnt Iech perséinlech an dräi Agencë vun der ADEM aschreiwen... an der Stad Lëtzebuerg, zu Esch-Belval, an zu Diekirch. Dir kritt déi proposéiert, déi bei Iech doheem am nootste läit.",
-    "t": 217.5
+    "text": "An Dir kënnt Iech perséinlech an dräi Agencë vun der ADEM aschreiwen, an der Stad Lëtzebuerg, zu Esch-Belval, an zu Diekirch. Dir kritt déi proposéiert, déi bei Iech doheem am nootste läit.",
+    "t": 221.39
    },
    {
     "speaker": "Tom",
     "text": "Gutt. Also egal ob s du dech online oder perséinlech méi wuel fills, allebéid Diere stinn op.",
-    "t": 227.11
+    "t": 230.97
    },
    {
     "speaker": "Anna",
     "text": "Elo, Tom, wat soll een matbréngen oder virbereeden, ier een sech umellt?",
-    "t": 231.68
+    "t": 235.54
    },
    {
     "speaker": "Tom",
     "text": "E puer einfach Saachen. Als éischt deng Sozialversécherungsnummer, déi op denger Sozialversécherungskaart steet.",
-    "t": 235.54
+    "t": 239.4
    },
    {
     "speaker": "Anna",
-    "text": "Vergewësser dech, datt deng Identitéitsdokumenter gülteg sinn... deng Identitéitskaart, däi Pass, oder deng Openthaltserlaabnis.",
-    "t": 240.56
+    "text": "Vergewësser dech, datt deng Identitéitsdokumenter gülteg sinn, deng Identitéitskaart, däi Pass, oder deng Openthaltserlaabnis.",
+    "t": 244.42
    },
    {
     "speaker": "Tom",
     "text": "A bréng däi CV mat, op den neiste Stand bruecht, mat denger Erfahrung, dengen Kompetenzen, denger Formatioun, an de Sproochen, déi s du schwätz.",
-    "t": 246.72
+    "t": 250.9
    },
    {
     "speaker": "Anna",
     "text": "Wann s du Certificate vun enger berufflecher Formatioun hues, sinn déi och e richtege Plus.",
-    "t": 253.48
+    "t": 257.66
    },
    {
     "speaker": "Tom",
     "text": "An hei ass en Detail, dee vill Leit net wëssen. Du kanns dech bei der ADEM umellen, och wann s du nach e Job hues.",
-    "t": 258.01
+    "t": 262.19
    },
    {
     "speaker": "Anna",
     "text": "Jo! Soulaang s du d'Konditioune vun der ADEM erfëlls an op d'Rendez-vouse goe kanns, muss du net waarden, bis s du arbechtslos bass.",
-    "t": 263.11
+    "t": 267.56
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer iwwer dat schwätzen, wat s du eigentlech kriss, wann s du eemol ugemellt bass. Du hues de JobBoard erwäänt.",
-    "t": 270.2
+    "t": 274.79
    },
    {
     "speaker": "Anna",
     "text": "De JobBoard ass d'Plattform vun de Jobubueten vun der ADEM. Als ugemellten Aarbechtssichenden kriss du Zougang, fir fräi Stellen ze duerchsichen an dech ze bewerben.",
-    "t": 274.4
+    "t": 278.99
    },
    {
     "speaker": "Tom",
     "text": "Du kanns och däi CV do eroplueden, esou datt d'Patronen dech fanne kënnen.",
-    "t": 282.91
+    "t": 287.36
    },
    {
     "speaker": "Anna",
     "text": "Da ginn et Formatiounen a Beschäftegungsmoossnamen, déi no dengem Profil an dengen Bedierfnesser erausgesicht ginn.",
-    "t": 286
+    "t": 290.45
    },
    {
     "speaker": "Tom",
     "text": "An et gëtt eppes, wat den Employment Club heescht, oder?",
-    "t": 291.69
+    "t": 296.14
    },
    {
     "speaker": "Anna",
     "text": "Jo. Do kanns du Computere benotzen, Hëllef bei dengem CV an dengem Motivatiounsbréif kréien, souguer eng Foto fir de CV maache loossen, an u Gruppenworkshoppen deelhuelen. Praktesch, handfest Ënnerstëtzung.",
-    "t": 294.38
+    "t": 298.83
    },
    {
     "speaker": "Tom",
     "text": "Also ass d'Umeldung net just eng Formalitéit. Si erschléisst richteg, konkret Hëllef.",
-    "t": 305.7
+    "t": 310.15
    },
    {
     "speaker": "Anna",
     "text": "Genau. Mä natierlech kommen mat der Hëllef och e puer Flichten.",
-    "t": 310.52
+    "t": 314.97
    },
    {
     "speaker": "Tom",
     "text": "Dat ass fair. Wann s du dech umells, seet s du, datt s du aktiv no Aarbecht siche wäerts.",
-    "t": 314.72
+    "t": 319.17
    },
    {
     "speaker": "Anna",
-    "text": "Also gëtt erwaart, datt s du selwer Schrëtt méchs... op Jobannoncen äntweren, dech bewerben, de JobBoard duerchsichen, däi CV aktuell halen.",
-    "t": 319.14
+    "text": "Also gëtt erwaart, datt s du selwer Schrëtt méchs, op Jobannoncen äntweren, dech bewerben, de JobBoard duerchsichen, däi CV aktuell halen.",
+    "t": 323.59
    },
    {
     "speaker": "Tom",
     "text": "Du folleegs och dem Plang, deen s du zesumme mat dengem Beroder opbaus, an du gees op deng Rendez-vouse.",
-    "t": 328.29
+    "t": 332.59
    },
    {
     "speaker": "Anna",
-    "text": "An du sees der ADEM iwwer Ännerunge Bescheed, déi deng Disponibilitéit betreffen... e Plënner, eng nei Telefonsnummer, den Ufank vun engem Job, eng Krankheet, an esou weider.",
-    "t": 332.69
+    "text": "An du sees der ADEM iwwer Ännerunge Bescheed, déi deng Disponibilitéit betreffen, e Plënner, eng nei Telefonsnummer, den Ufank vun engem Job, eng Krankheet, an esou weider.",
+    "t": 336.99
    },
    {
     "speaker": "Tom",
     "text": "Et ass eng Bezéiung op zwou Säiten. D'ADEM ënnerstëtzt dech, an du bleifs aktiv an a Kontakt.",
-    "t": 342.01
+    "t": 347.34
    },
    {
     "speaker": "Anna",
-    "text": "An et gëtt en schéinen Detail... als Aarbechtssichenden hues du e Recht op eng gewëssen Unzuel u Congésdeeg pro Joer, bis fënnefanzwanzeg Schaffdeeg.",
-    "t": 346.65
+    "text": "An et gëtt en schéinen Detail, als Aarbechtssichenden hues du e Recht op eng gewëssen Unzuel u Congésdeeg pro Joer, bis fënnefanzwanzeg Schaffdeeg.",
+    "t": 352.47
    },
    {
     "speaker": "Tom",
     "text": "Wärend deem genehmegte Congé bass du vun dengen Flichten zur ADEM befreit, e bësse wéi Vakanz. Du muss et just am Viraus ufroen.",
-    "t": 355.1
+    "t": 361.37
    },
    {
     "speaker": "Anna",
-    "text": "Elo loosse mer iwwer Suen schwätzen, well vill Leit kommen dofir bei d'ADEM... d'Chômagegeld.",
-    "t": 362.49
+    "text": "Elo loosse mer iwwer Suen schwätzen, well vill Leit kommen dofir bei d'ADEM, d'Chômagegeld.",
+    "t": 369.21
    },
    {
     "speaker": "Tom",
     "text": "Op Franséisch d'\"indemnité de chômage\". Dat ass eng finanziell Ënnerstëtzung, wann s du däi Job verluer hues.",
-    "t": 368.17
+    "t": 375.08
    },
    {
     "speaker": "Anna",
     "text": "An hei ass déi wichteg Reegel. Fir d'Aarbechtslosegeld ze froen, muss du dech als éischt als Aarbechtssichenden bei der ADEM umellen.",
-    "t": 373.51
+    "t": 380.42
    },
    {
     "speaker": "Tom",
     "text": "Wann däin Dossier als Aarbechtssichenden eemol op ass, kuckt d'ADEM automatesch, ob s du e Recht op Leeschtunge kéings hunn, op Basis vun denger Situatioun.",
-    "t": 380.99
+    "t": 388.13
    },
    {
     "speaker": "Anna",
-    "text": "Also kënnt d'Umeldung als éischt... an da follegt d'Fro vum Geld.",
-    "t": 387.86
+    "text": "Also kënnt d'Umeldung als éischt, an da follegt d'Fro vum Geld.",
+    "t": 395.73
    },
    {
     "speaker": "Tom",
     "text": "An et gëtt gutt Neiegkeeten, wéi s du d'Ufro méchs. Wann s du d'Konditiounen erfëlls, schéckt d'ADEM der e Bréif, an du fëlls deng Demande online aus, op MyGuichet.lu.",
-    "t": 392.13
+    "t": 399.74
    },
    {
     "speaker": "Anna",
     "text": "Dat heescht manner Pabeier a gespuerten Zäit. Du kanns méi dovun vun doheem aus maachen.",
-    "t": 401.23
+    "t": 408.5
    },
    {
     "speaker": "Tom",
     "text": "Loosse mer elo e bësse Opmierksamkeet op déi jonk Nolauschterer leeën, well Lëtzebuerg huet eng speziell Verspriechung fir si.",
-    "t": 405.71
+    "t": 412.98
    },
    {
     "speaker": "Anna",
     "text": "Si heescht d'Jugendgarantie. D'Zil ass, datt all jonke Mënsch, am Alter vu siechzéng bis drësseg, eng konkret Léisung ugebuede kritt, fir an d'Aarbechtsliewen anzeklammen.",
-    "t": 410.92
+    "t": 418.19
    },
    {
     "speaker": "Tom",
-    "text": "An et gëtt e kloren Zäitkader... bannent véier Méint nodeems s du dech bei der ADEM ugemellt hues. An an den éischte sechs Méint gesäis du däi perséinleche Beroder all Mount.",
-    "t": 420.68
+    "text": "An et gëtt e kloren Zäitkader, bannent véier Méint nodeems s du dech bei der ADEM ugemellt hues. An an den éischte sechs Méint gesäis du däi perséinleche Beroder all Mount.",
+    "t": 427.95
    },
    {
     "speaker": "Anna",
     "text": "Déi Léisung kéint e Job sinn, mä et kéint och eng Formatioun sinn, oder en aneren Schrëtt, deen dech no vir bréngt.",
-    "t": 429.41
+    "t": 436.56
    },
    {
     "speaker": "Tom",
     "text": "Also wann s du jonk bass an net sécher bass, wat s du als Nächst maache solls, ass d'ADEM eng ganz gutt Plaz, fir unzefänken.",
-    "t": 434.89
+    "t": 442.04
    },
    {
     "speaker": "Anna",
     "text": "D'ADEM huet och eng spezialiséiert Ënnerstëtzung fir Leit mat enger Behënnerung, oder mat enger reduzéierter Aarbechtsfäegkeet.",
-    "t": 439.38
+    "t": 446.81
    },
    {
     "speaker": "Tom",
     "text": "Et gi speziell Moossnamen, Stagen, finanziell Leeschtungen, a perséinlech Begleedung, fir de Leit ze hëllefen, Aarbecht ze fannen oder erëm an d'Aarbecht zréckzekommen.",
-    "t": 445.45
+    "t": 453.2
    },
    {
     "speaker": "Anna",
-    "text": "D'Zil ass d'Inklusioun... sécherzestellen, datt jiddereen eng fair Chance um Aarbechtsmaart huet.",
-    "t": 452.42
+    "text": "D'Zil ass d'Inklusioun, sécherzestellen, datt jiddereen eng fair Chance um Aarbechtsmaart huet.",
+    "t": 460.17
    },
    {
     "speaker": "Tom",
-    "text": "Loosse mer déi aner Säit vun der ADEM net vergiessen... d'Patronen.",
-    "t": 457.21
+    "text": "Loosse mer déi aner Säit vun der ADEM net vergiessen, d'Patronen.",
+    "t": 465.77
    },
    {
     "speaker": "Anna",
     "text": "Genau. Zu Lëtzebuerg sinn d'Patronen tatsächlech verflicht, hir fräi Stellen bei der ADEM ze deklaréieren.",
-    "t": 460.19
+    "t": 468.62
    },
    {
     "speaker": "Tom",
     "text": "A par Retour kréie si Hëllef. D'ADEM bréngt si mat Kandidaten aus hirem Pool vun Aarbechtssichenden zesummen.",
-    "t": 465.96
+    "t": 474.7
    },
    {
     "speaker": "Anna",
-    "text": "D'Patrone kënnen och finanziell Hëllef kréien, wann si gewësse Leit astellen... zum Beispill e jonken Aarbechtssichenden, een, deen zënter laangem arbechtslos ass, oder eng Persoun mat enger Behënnerung.",
-    "t": 470.73
+    "text": "D'Patrone kënnen och finanziell Hëllef kréien, wann si gewësse Leit astellen, zum Beispill e jonken Aarbechtssichenden, een, deen zënter laangem arbechtslos ass, oder eng Persoun mat enger Behënnerung.",
+    "t": 480.03
    },
    {
     "speaker": "Tom",
     "text": "Also hëlleft d'ADEM net nëmmen Eenzelpersounen. Si hëlleft, datt de ganzen Aarbechtsmaart besser funktionéiert.",
-    "t": 481.71
+    "t": 491.75
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt och Ënnerstëtzung fir international Recrutement, iwwer e Service mam Numm Work in Luxembourg.",
-    "t": 486.28
+    "t": 496.42
    },
    {
     "speaker": "Tom",
     "text": "An zënter 2026 gëtt et souguer eng national Websäit, workinluxembourg.com. Si hëlleft de Firmen hei, Talenter ze fannen, an hëlleft de Leit am Ausland, Méiglechkeeten am Land z'entdecken.",
-    "t": 491.63
+    "t": 501.77
    },
    {
     "speaker": "Anna",
     "text": "Tom, ier mer ophalen, gëtt et e Sécherheetspunkt, deen mer wierklech erwäine sollten.",
-    "t": 501.34
+    "t": 511.48
    },
    {
     "speaker": "Tom",
     "text": "Jo, e wichtegen. Heiansdo schécken Escroke falsch E-Mailen oder maache falsch Konten op de soziale Netzwierker, déi virgi, d'ADEM ze sinn. Si froen no Suen fir e Job oder e Visa — oder si froen dech, op e Link ze klicken an deng perséinlech Donnéeën ze bestätegen.",
-    "t": 505.87
+    "t": 516.01
    },
    {
     "speaker": "Anna",
-    "text": "Denkt w.e.g. kloer drun... d'ADEM freet Iech ni, fir e Job oder e Visa ze bezuelen. De Service ass gratis.",
-    "t": 518.92
+    "text": "Denkt w.e.g. kloer drun, d'ADEM freet Iech ni, fir e Job oder e Visa ze bezuelen. De Service ass gratis.",
+    "t": 529.04
    },
    {
     "speaker": "Tom",
     "text": "Wann iergendeen dech am Numm vun der ADEM no enger Bezuelung oder no perséinlechen Donnéeë freet, ass et e Bedruch. Bezuel net, klick net, a kuck d'offiziell Kanäl vun der ADEM op hirer Websäit no.",
-    "t": 525.5
+    "t": 535.52
    },
    {
     "speaker": "Anna",
-    "text": "Nach eng praktesch Saach... d'Sproochen. Fir mat der ADEM ëmzegoen, sollt Dir mindestens eng vun de Verwaltungssprooche vu Lëtzebuerg schwätzen... Lëtzebuergesch, Franséisch, oder Däitsch, oder soss Englesch.",
-    "t": 534.61
+    "text": "Nach eng praktesch Saach, d'Sproochen. Fir mat der ADEM ëmzegoen, sollt Dir mindestens eng vun de Verwaltungssprooche vu Lëtzebuerg schwätzen. Lëtzebuergesch, Franséisch, oder Däitsch, oder soss Englesch.",
+    "t": 544.9
    },
    {
     "speaker": "Tom",
     "text": "A wann Dir dat net maacht, kënnt Dir een, deem Dir vertraut a deen et schwätzt, matbréngen, fir Iech wärend Äre Rendez-vouse ze hëllefen.",
-    "t": 545.25
+    "t": 556.55
    },
    {
     "speaker": "Anna",
     "text": "Also loosse mer alles zesummebréngen. Wat sollen d'Leit iwwer d'ADEM behalen?",
-    "t": 550.28
+    "t": 561.58
    },
    {
     "speaker": "Tom",
-    "text": "Als éischt... d'ADEM ass de gratis, ëffentlechen Aarbechtsservice vu Lëtzebuerg, fir Aarbechtssichend, Salariéen, a Patronen.",
-    "t": 554.53
+    "text": "Als éischt, d'ADEM ass de gratis, ëffentlechen Aarbechtsservice vu Lëtzebuerg, fir Aarbechtssichend, Salariéen, a Patronen.",
+    "t": 565.64
    },
    {
     "speaker": "Anna",
-    "text": "Zweetens... sech als Aarbechtssichenden umellen ëffnet d'Dier zu engem perséinleche Beroder, dem JobBoard, Formatiounen, an Ënnerstëtzung.",
-    "t": 560.94
+    "text": "Zweetens, sech als Aarbechtssichenden umellen ëffnet d'Dier zu engem perséinleche Beroder, dem JobBoard, Formatiounen, an Ënnerstëtzung.",
+    "t": 572.75
    },
    {
     "speaker": "Tom",
-    "text": "Drëttens... du mells dech online op MyGuichet Punkt lu mat engem séchere Login un, oder perséinlech mat engem Rendez-vous zu Lëtzebuerg, zu Esch-Belval, oder zu Diekirch.",
-    "t": 568.18
+    "text": "Drëttens, du mells dech online op MyGuichet Punkt lu mat engem séchere Login un, oder perséinlech mat engem Rendez-vous zu Lëtzebuerg, zu Esch-Belval, oder zu Diekirch.",
+    "t": 580.5
    },
    {
     "speaker": "Anna",
-    "text": "Véiertens... fir d'Aarbechtslosegeld ze froen, muss du dech als éischt umellen, an d'Ufro ass elo komplett online.",
-    "t": 577.08
+    "text": "Véiertens, fir d'Aarbechtslosegeld ze froen, muss du dech als éischt umellen, an d'Ufro ass elo komplett online.",
+    "t": 590.78
    },
    {
     "speaker": "Tom",
-    "text": "A fënneftens... et gëtt speziell Hëllef fir jonk Leit, iwwer d'Jugendgarantie, a fir Leit mat Behënnerungen.",
-    "t": 584.38
+    "text": "A fënneftens, et gëtt speziell Hëllef fir jonk Leit, iwwer d'Jugendgarantie, a fir Leit mat Behënnerungen.",
+    "t": 598
    },
    {
     "speaker": "Anna",
-    "text": "An denkt un d'Sécherheetsreegel... d'ADEM freet ni no enger Bezuelung.",
-    "t": 590.26
+    "text": "An denkt un d'Sécherheetsreegel, d'ADEM freet ni no enger Bezuelung.",
+    "t": 604.32
    },
    {
     "speaker": "Tom",
     "text": "Eng Jobsich kann sech stresseg ufillen. Mä d'Botschaft vun dëser Episod ass, datt s du et net eleng maache muss.",
-    "t": 594.12
+    "t": 608.38
    },
    {
     "speaker": "Anna",
     "text": "D'ADEM ass do, fir nieft der ze goen. Ee Schrëtt no deem aneren. Dat war eis Episod iwwer d'ADEM. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.",
-    "t": 599.58
+    "t": 613.84
    },
    {
     "speaker": "Tom",
-    "text": "Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!",
-    "t": 645.83
+    "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
+    "t": 660.75
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 649.03
+    "t": 664.06
    }
   ]
  },
@@ -115569,7 +115554,7 @@ const EPISODES = [
   "title": "Club Aktiv Plus – Stay Active, Meet People",
   "description": "Retirement is coming closer, or has already begun, and you want to stay active and meet people? Discover the Clubs Aktiv Plus, the former senior clubs all over Luxembourg, and their website clubaktivplus.lu: activities, costs, registration, and how to find a club.",
   "audio": "podcast_clubaktivplus.mp3",
-  "duration": 576.86,
+  "duration": 576.24,
   "topics": [
    "What a Club Aktiv Plus is",
    "From senior clubs to a new name",
@@ -115619,327 +115604,327 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "What would you do with your time if you no longer had to go to work every morning?",
-    "t": 29.18
+    "t": 29.29
    },
    {
     "speaker": "Anna",
     "text": "I think I would enjoy the first few weeks.",
-    "t": 33.57
+    "t": 33.68
    },
    {
     "speaker": "Anna",
     "text": "But after that, I would probably miss my colleagues, and I would want something to do and people to see.",
-    "t": 35.92
+    "t": 36.03
    },
    {
     "speaker": "Tom",
     "text": "Many people feel exactly that when retirement comes closer.",
-    "t": 41.65
+    "t": 41.76
    },
    {
     "speaker": "Tom",
     "text": "And that brings us to today's topic: the Clubs Aktiv Plus, and their website.",
-    "t": 45.09
+    "t": 45.2
    },
    {
     "speaker": "Anna",
     "text": "The address is clubaktivplus dot l-u, written in one word.",
-    "t": 49.44
+    "t": 49.55
    },
    {
     "speaker": "Anna",
     "text": "Club Aktiv Plus: active, and a little bit more.",
-    "t": 54.16
+    "t": 54.27
    },
    {
     "speaker": "Tom",
     "text": "Let's begin with the basics.",
-    "t": 58.12
+    "t": 58.23
    },
    {
     "speaker": "Tom",
     "text": "What exactly is a Club Aktiv Plus?",
-    "t": 59.86
+    "t": 59.97
    },
    {
     "speaker": "Anna",
     "text": "It is a meeting place in your region.",
-    "t": 62.15
+    "t": 62.26
    },
    {
     "speaker": "Anna",
     "text": "People go there for leisure, for learning, to meet others, and also to get advice.",
-    "t": 64.26
+    "t": 64.37
    },
    {
     "speaker": "Tom",
     "text": "And who are these clubs made for?",
-    "t": 69.68
+    "t": 69.79
    },
    {
     "speaker": "Anna",
     "text": "They are for everyone who wants to stay active when retirement is coming closer, or when it has already begun.",
-    "t": 71.4
+    "t": 71.51
    },
    {
     "speaker": "Tom",
     "text": "Is there a minimum age to take part?",
-    "t": 77.75
+    "t": 77.86
    },
    {
     "speaker": "Anna",
     "text": "No, there is no age limit.",
-    "t": 79.97
+    "t": 80.08
    },
    {
     "speaker": "Anna",
     "text": "The clubs are mainly aimed at people around retirement age, but other age groups are welcome too.",
-    "t": 81.88
+    "t": 81.99
    },
    {
     "speaker": "Tom",
     "text": "The name sounds quite new to me.",
-    "t": 87.38
+    "t": 87.49
    },
    {
     "speaker": "Tom",
     "text": "Have these clubs existed for a long time?",
-    "t": 89.07
+    "t": 89.18
    },
    {
     "speaker": "Anna",
     "text": "The first ones were created in 1999.",
-    "t": 91.93
+    "t": 92.04
    },
    {
     "speaker": "Anna",
     "text": "For many years, people simply called them the senior clubs.",
-    "t": 94.97
+    "t": 95.08
    },
    {
     "speaker": "Tom",
     "text": "And why did the name change?",
-    "t": 98.44
+    "t": 98.55
    },
    {
     "speaker": "Anna",
     "text": "The new name arrived in 2024.",
-    "t": 100.01
+    "t": 100.12
    },
    {
     "speaker": "Anna",
     "text": "Many members are very active, and they did not really recognise themselves in the word \"senior\".",
-    "t": 102.47
+    "t": 102.58
    },
    {
     "speaker": "Anna",
     "text": "Club Aktiv Plus fits them much better.",
-    "t": 107.83
+    "t": 107.94
    },
    {
     "speaker": "Tom",
     "text": "Who is behind these clubs?",
-    "t": 110.57
+    "t": 110.64
    },
    {
     "speaker": "Anna",
     "text": "It is an initiative of the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees — the same ministry that organizes the Biergerpakt.",
-    "t": 112.01
+    "t": 112.08
    },
    {
     "speaker": "Tom",
     "text": "Does the ministry run every club itself?",
-    "t": 121.94
+    "t": 122.01
    },
    {
     "speaker": "Anna",
     "text": "No. It works as a partnership.",
-    "t": 124.15
+    "t": 124.22
    },
    {
     "speaker": "Anna",
     "text": "Communes join forces to create a club, and an organisation manages it.",
-    "t": 126.6
+    "t": 126.53
    },
    {
     "speaker": "Anna",
     "text": "The ministry approves the club and helps to pay for it, together with the communes.",
-    "t": 131.55
+    "t": 131.48
    },
    {
     "speaker": "Tom",
     "text": "And how many of these clubs are there in the country?",
-    "t": 136.44
+    "t": 136.37
    },
    {
     "speaker": "Anna",
     "text": "There are more than twenty clubs, from the north to the south of Luxembourg.",
-    "t": 139.2
+    "t": 139.13
    },
    {
     "speaker": "Anna",
     "text": "Together, they work with more than eighty partner communes.",
-    "t": 143.4
+    "t": 143.33
    },
    {
     "speaker": "Tom",
     "text": "What if my own commune is not a partner of any club?",
-    "t": 146.87
+    "t": 146.8
    },
    {
     "speaker": "Anna",
     "text": "That is not a problem at all.",
-    "t": 149.61
+    "t": 149.54
    },
    {
     "speaker": "Anna",
     "text": "Every club welcomes you, wherever you live.",
-    "t": 151.36
+    "t": 151.29
    },
    {
     "speaker": "Tom",
     "text": "So I could even go to two or three different clubs.",
-    "t": 154.26
+    "t": 154.19
    },
    {
     "speaker": "Anna",
     "text": "Yes, you can choose the clubs and the activities you like, as long as there are free places.",
-    "t": 157
+    "t": 156.93
    },
    {
     "speaker": "Tom",
     "text": "Do I have to become a member first, with a card and a yearly fee?",
-    "t": 162.87
+    "t": 162.8
    },
    {
     "speaker": "Anna",
     "text": "Some clubs have a membership card, but most of them don't.",
-    "t": 166.3
+    "t": 166.23
    },
    {
     "speaker": "Anna",
     "text": "And a card is never required to take part in an activity.",
-    "t": 169.59
+    "t": 169.52
    },
    {
     "speaker": "Tom",
     "text": "Now let's talk about the fun part.",
-    "t": 173.41
+    "t": 173.34
    },
    {
     "speaker": "Tom",
     "text": "What can people actually do in these clubs?",
-    "t": 175.22
+    "t": 175.15
    },
    {
     "speaker": "Anna",
     "text": "The website sorts the activities into four big families.",
-    "t": 178.34
+    "t": 178.27
    },
    {
     "speaker": "Anna",
     "text": "The first one is health and well-being.",
-    "t": 182.1
+    "t": 182.03
    },
    {
     "speaker": "Tom",
     "text": "I imagine that means sport and movement.",
-    "t": 184.51
+    "t": 184.44
    },
    {
     "speaker": "Anna",
     "text": "Yes: yoga, dance, cycling, Nordic walking, water gymnastics, and gentle exercises for the back.",
-    "t": 186.76
+    "t": 186.69
    },
    {
     "speaker": "Anna",
     "text": "But also memory training, relaxation, and cooking classes.",
-    "t": 195.08
+    "t": 195.01
    },
    {
     "speaker": "Tom",
     "text": "That is already a long list.",
-    "t": 199.28
+    "t": 199.21
    },
    {
     "speaker": "Tom",
     "text": "What is the second family?",
-    "t": 200.79
+    "t": 200.72
    },
    {
     "speaker": "Anna",
     "text": "The second one is about good company and getting involved.",
-    "t": 202.3
+    "t": 202.25
    },
    {
     "speaker": "Anna",
     "text": "Think of shared lunches, board games, a quiz afternoon, singing in a choir, or a game of skittles.",
-    "t": 205.28
+    "t": 205.23
    },
    {
     "speaker": "Tom",
     "text": "And what do we find in the third family?",
-    "t": 212.37
+    "t": 212.32
    },
    {
     "speaker": "Anna",
     "text": "The third one is discovery and culture: cinema, theatre, concerts, museums, hikes, and day trips in Luxembourg and abroad.",
-    "t": 214.24
+    "t": 214.19
    },
    {
     "speaker": "Tom",
     "text": "That leaves the fourth family of activities.",
-    "t": 223.09
+    "t": 223.04
    },
    {
     "speaker": "Anna",
     "text": "The fourth one is learning and staying informed.",
-    "t": 225.47
+    "t": 225.42
    },
    {
     "speaker": "Anna",
     "text": "There are language courses, computer and smartphone courses, and talks about current topics.",
-    "t": 228.12
+    "t": 228.07
    },
    {
     "speaker": "Tom",
     "text": "Computer courses are useful, because so many things happen online today.",
-    "t": 234.44
+    "t": 234.39
    },
    {
     "speaker": "Anna",
     "text": "Exactly, and some courses even explain online banking.",
-    "t": 239
+    "t": 238.95
    },
    {
     "speaker": "Anna",
     "text": "There are creative workshops too, such as photography, drawing, sewing, or arranging flowers.",
-    "t": 242.64
+    "t": 242.59
    },
    {
     "speaker": "Tom",
     "text": "So it is clearly more than an afternoon of card games.",
-    "t": 248.48
+    "t": 248.43
    },
    {
     "speaker": "Anna",
     "text": "Much more. The people who run the clubs describe them as lively places of exchange and lifelong learning.",
-    "t": 251.44
+    "t": 251.39
    },
    {
     "speaker": "Tom",
     "text": "Who leads all these activities?",
-    "t": 258.55
+    "t": 258.5
    },
    {
     "speaker": "Anna",
     "text": "It depends on the activity: the staff of the club, specialised trainers, or volunteers.",
-    "t": 260.34
+    "t": 260.29
    },
    {
     "speaker": "Tom",
     "text": "Let's make it practical.",
-    "t": 265.67
+    "t": 265.62
    },
    {
     "speaker": "Tom",
@@ -115989,342 +115974,342 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Here is a question that matters for many of our listeners.",
-    "t": 299.8
+    "t": 299.71
    },
    {
     "speaker": "Tom",
     "text": "What if I don't speak Luxembourgish?",
-    "t": 302.31
+    "t": 302.22
    },
    {
     "speaker": "Anna",
     "text": "In general, that is not a problem.",
-    "t": 304.56
+    "t": 304.47
    },
    {
     "speaker": "Anna",
     "text": "Luxembourgish, French and German are the most common languages in the clubs, and it depends on the activity and on the trainer.",
-    "t": 306.7
+    "t": 306.46
    },
    {
     "speaker": "Tom",
     "text": "So the best idea is to ask the club when I register.",
-    "t": 314.11
+    "t": 313.87
    },
    {
     "speaker": "Anna",
     "text": "Yes, exactly. And an activity like a walk, a dance class or a shared lunch is also a friendly way to practise a language.",
-    "t": 317.12
+    "t": 316.88
    },
    {
     "speaker": "Tom",
     "text": "And when do the activities take place?",
-    "t": 325.04
+    "t": 324.8
    },
    {
     "speaker": "Tom",
     "text": "I imagine it is mostly during the day.",
-    "t": 327.22
+    "t": 326.98
    },
    {
     "speaker": "Anna",
     "text": "Many are during the day, but some take place in the evening, and sometimes at the weekend.",
-    "t": 329.41
+    "t": 329.17
    },
    {
     "speaker": "Anna",
     "text": "The programme of each club gives the details.",
-    "t": 334.32
+    "t": 334.08
    },
    {
     "speaker": "Tom",
     "text": "What about people who have difficulty walking, or who use a wheelchair?",
-    "t": 337.3
+    "t": 337.06
    },
    {
     "speaker": "Anna",
     "text": "The advice of the clubs is simple: contact the club before you register, and ask about access for the activity you have chosen.",
-    "t": 340.9
+    "t": 340.66
    },
    {
     "speaker": "Tom",
     "text": "You said earlier that the clubs also give advice.",
-    "t": 348.77
+    "t": 348.53
    },
    {
     "speaker": "Tom",
     "text": "What kind of advice is that?",
-    "t": 351.65
+    "t": 351.41
    },
    {
     "speaker": "Anna",
     "text": "Each club has a professional team.",
-    "t": 353.27
+    "t": 353.03
    },
    {
     "speaker": "Anna",
     "text": "They can talk with you, in confidence, about the move into retirement, about ageing in good health, or about housing and care services for older people.",
-    "t": 355.41
+    "t": 355.17
    },
    {
     "speaker": "Tom",
     "text": "And what if they don't have the answer themselves?",
-    "t": 364.49
+    "t": 364.25
    },
    {
     "speaker": "Anna",
     "text": "Then they point you to the right service.",
-    "t": 366.96
+    "t": 366.72
    },
    {
     "speaker": "Anna",
     "text": "It is a good first door to knock on.",
-    "t": 369.16
+    "t": 368.92
    },
    {
     "speaker": "Tom",
     "text": "Can people also give something back, and not only take part?",
-    "t": 371.4
+    "t": 371.16
    },
    {
     "speaker": "Anna",
     "text": "Yes, and the clubs encourage it.",
-    "t": 374.63
+    "t": 374.39
    },
    {
     "speaker": "Anna",
     "text": "You can become a volunteer, and you can even suggest a new activity that you would like to lead or to share.",
-    "t": 376.62
+    "t": 376.38
    },
    {
     "speaker": "Tom",
     "text": "So someone who knows how to bake, to paint or to repair a bicycle could share that skill.",
-    "t": 382.72
+    "t": 382.48
    },
    {
     "speaker": "Anna",
     "text": "Exactly. Passing on knowledge between generations and between cultures is part of the clubs' charter.",
-    "t": 387.98
+    "t": 387.74
    },
    {
     "speaker": "Tom",
     "text": "Now let's look at the website.",
-    "t": 394.71
+    "t": 394.07
    },
    {
     "speaker": "Tom",
     "text": "What do we find on clubaktivplus dot l-u?",
-    "t": 396.6
+    "t": 395.96
    },
    {
     "speaker": "Anna",
     "text": "The website exists in French and in German.",
-    "t": 399.72
+    "t": 399.08
    },
    {
     "speaker": "Anna",
     "text": "Its most useful page is the list of all the clubs.",
-    "t": 402.63
+    "t": 401.99
    },
    {
     "speaker": "Tom",
     "text": "And what does the page of a club show?",
-    "t": 406.3
+    "t": 405.66
    },
    {
     "speaker": "Anna",
     "text": "It shows the address, the phone number, the opening hours and the partner communes.",
-    "t": 408.22
+    "t": 407.58
    },
    {
     "speaker": "Anna",
     "text": "And you can download the current activity programme of that club.",
-    "t": 413.44
+    "t": 412.8
    },
    {
     "speaker": "Tom",
     "text": "Is there one big calendar with the activities of all the clubs together?",
-    "t": 417.53
+    "t": 416.89
    },
    {
     "speaker": "Anna",
     "text": "No, each club publishes its own programme, several times a year.",
-    "t": 421.37
+    "t": 420.73
    },
    {
     "speaker": "Anna",
     "text": "But there is a nice shortcut, and it is called the ClubPages.",
-    "t": 425.26
+    "t": 424.62
    },
    {
     "speaker": "Tom",
     "text": "And what exactly are these ClubPages?",
-    "t": 429.1
+    "t": 428.46
    },
    {
     "speaker": "Anna",
     "text": "It is a small brochure that comes out four times a year.",
-    "t": 431.22
+    "t": 430.58
    },
    {
     "speaker": "Anna",
     "text": "It presents a selection of activities from all the clubs, so you get a taste of everything.",
-    "t": 434.5
+    "t": 433.86
    },
    {
     "speaker": "Tom",
     "text": "And what else can we find on the website?",
-    "t": 439.61
+    "t": 438.97
    },
    {
     "speaker": "Anna",
     "text": "There is a page with frequently asked questions, which is very clear.",
-    "t": 441.42
+    "t": 440.78
    },
    {
     "speaker": "Anna",
     "text": "There are news and events, and also job offers for people who would like to work in a club.",
-    "t": 445.77
+    "t": 445.13
    },
    {
     "speaker": "Tom",
     "text": "And what if I still have a question after all that?",
-    "t": 450.72
+    "t": 450.08
    },
    {
     "speaker": "Anna",
     "text": "Then you can write to the national coordination of the clubs.",
-    "t": 453.3
+    "t": 452.66
    },
    {
     "speaker": "Anna",
     "text": "The address is contact at clubaktivplus dot l-u.",
-    "t": 456.62
+    "t": 455.98
    },
    {
     "speaker": "Tom",
     "text": "Let me ask one last question.",
-    "t": 460.69
+    "t": 460.05
    },
    {
     "speaker": "Tom",
     "text": "Why do these clubs matter so much?",
-    "t": 462.32
+    "t": 461.68
    },
    {
     "speaker": "Anna",
     "text": "Because being alone too much is not good for anyone.",
-    "t": 464.68
+    "t": 464.04
    },
    {
     "speaker": "Anna",
     "text": "The clubs want to prevent loneliness, and to help people stay active and stay part of society.",
-    "t": 467.65
+    "t": 467.01
    },
    {
     "speaker": "Tom",
     "text": "And for someone who is new in Luxembourg, it is also a simple way to meet people from the region.",
-    "t": 473.94
+    "t": 473.3
    },
    {
     "speaker": "Anna",
     "text": "Yes. You share an activity, you talk, and little by little, you know people.",
-    "t": 479.4
+    "t": 478.76
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it together.",
-    "t": 484.45
+    "t": 483.81
    },
    {
     "speaker": "Tom",
     "text": "What should people remember?",
-    "t": 485.64
+    "t": 485
    },
    {
     "speaker": "Anna",
     "text": "First: the Clubs Aktiv Plus are meeting places for people who want to stay active around retirement age, with no age limit.",
-    "t": 487.43
+    "t": 486.79
    },
    {
     "speaker": "Tom",
     "text": "Second: there are more than twenty of them across the country, and you are welcome in every club, wherever you live.",
-    "t": 495.12
+    "t": 494.48
    },
    {
     "speaker": "Anna",
     "text": "Third: the choice is wide, from sport and day trips to language and computer courses.",
-    "t": 501.63
+    "t": 500.99
    },
    {
     "speaker": "Anna",
     "text": "Most activities have a price, and some are free.",
-    "t": 506.85
+    "t": 506.21
    },
    {
     "speaker": "Tom",
     "text": "And fourth: to take part, you look at the programme of a club and you contact that club directly.",
-    "t": 510.23
+    "t": 509.59
    },
    {
     "speaker": "Anna",
     "text": "You can find all the clubs and their programmes on clubaktivplus dot l-u.",
-    "t": 516.8
+    "t": 516.16
    },
    {
     "speaker": "Tom",
     "text": "Stay active, stay curious, and stay in good company.",
-    "t": 521.36
+    "t": 520.72
    },
    {
     "speaker": "Anna",
     "text": "And why not try one activity this month?",
-    "t": 524.75
+    "t": 524.11
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about the Clubs Aktiv Plus.",
-    "t": 527.33
+    "t": 526.69
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 530.15
+    "t": 529.51
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 540.04
+    "t": 539.4
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 558.32
+    "t": 557.68
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 565.07
+    "t": 564.43
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 567.27
+    "t": 566.63
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 571.96
+    "t": 571.32
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 573.13
+    "t": 572.49
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 575.27
+    "t": 574.63
    }
   ],
   "questions": [
@@ -116527,7 +116512,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_clubaktivplus_fr.mp3",
-  "duration_fr": 544.55,
+  "duration_fr": 543.9,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -116577,706 +116562,706 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Mais ensuite, mes collègues me manqueraient sûrement, et j'aurais envie d'avoir des choses à faire et des gens à voir.",
-    "t": 31.71
+    "t": 31.72
    },
    {
     "speaker": "Tom",
     "text": "Beaucoup de personnes ressentent exactement cela quand la retraite approche.",
-    "t": 36.55
+    "t": 36.56
    },
    {
     "speaker": "Tom",
     "text": "Et cela nous amène au sujet d'aujourd'hui : les clubs Aktiv Plus, et leur site internet.",
-    "t": 40.55
+    "t": 40.56
    },
    {
     "speaker": "Anna",
     "text": "L'adresse, c'est clubaktivplus point l-u, écrit en un seul mot.",
-    "t": 45.68
+    "t": 45.69
    },
    {
     "speaker": "Anna",
     "text": "Club Aktiv Plus : actif, et même un peu plus.",
-    "t": 49.71
+    "t": 49.72
    },
    {
     "speaker": "Tom",
     "text": "Commençons par la base.",
-    "t": 52.87
+    "t": 52.88
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce qu'un club Aktiv Plus, exactement ?",
-    "t": 54.33
+    "t": 54.34
    },
    {
     "speaker": "Anna",
     "text": "C'est un lieu de rencontre dans votre région.",
-    "t": 56.97
+    "t": 56.98
    },
    {
     "speaker": "Anna",
     "text": "On y va pour les loisirs, pour apprendre, pour rencontrer d'autres personnes, et aussi pour demander conseil.",
-    "t": 59.13
+    "t": 59.14
    },
    {
     "speaker": "Tom",
     "text": "Et à qui ces clubs s'adressent-ils ?",
-    "t": 64.46
+    "t": 64.47
    },
    {
     "speaker": "Anna",
     "text": "Ils s'adressent à toutes les personnes qui veulent rester actives quand la retraite approche, ou quand elle a déjà commencé.",
-    "t": 66.7
+    "t": 66.71
    },
    {
     "speaker": "Tom",
     "text": "Y a-t-il un âge minimum pour participer ?",
-    "t": 72.16
+    "t": 72.17
    },
    {
     "speaker": "Anna",
     "text": "Non, il n'y a pas de limite d'âge.",
-    "t": 74.62
+    "t": 74.63
    },
    {
     "speaker": "Anna",
     "text": "Les clubs s'adressent surtout aux personnes proches de l'âge de la retraite, mais les autres tranches d'âge sont aussi les bienvenues.",
-    "t": 76.49
+    "t": 76.48
    },
    {
     "speaker": "Tom",
     "text": "Ce nom me semble assez nouveau.",
-    "t": 82.13
+    "t": 82.12
    },
    {
     "speaker": "Tom",
     "text": "Est-ce que ces clubs existent depuis longtemps ?",
-    "t": 83.92
+    "t": 83.91
    },
    {
     "speaker": "Anna",
     "text": "Les premiers ont été créés en 1999.",
-    "t": 86.72
+    "t": 86.71
    },
    {
     "speaker": "Anna",
     "text": "Pendant de nombreuses années, on les appelait simplement les clubs seniors.",
-    "t": 89.46
+    "t": 89.45
    },
    {
     "speaker": "Tom",
     "text": "Et pourquoi le nom a-t-il changé ?",
-    "t": 92.8
+    "t": 92.79
    },
    {
     "speaker": "Anna",
     "text": "Le nouveau nom est arrivé en 2024.",
-    "t": 94.77
+    "t": 94.76
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup de membres sont très actifs, et ils ne se reconnaissaient pas vraiment dans le mot « senior ».",
-    "t": 96.92
+    "t": 96.88
    },
    {
     "speaker": "Anna",
     "text": "Club Aktiv Plus leur correspond beaucoup mieux.",
-    "t": 101.33
+    "t": 101.29
    },
    {
     "speaker": "Tom",
     "text": "Qui est à l'origine de ces clubs ?",
-    "t": 103.72
+    "t": 103.68
    },
    {
     "speaker": "Anna",
     "text": "C'est une initiative du Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil — le même ministère qui organise le Biergerpakt.",
-    "t": 105.8
+    "t": 105.76
    },
    {
     "speaker": "Tom",
     "text": "Est-ce que le ministère gère lui-même chaque club ?",
-    "t": 114.06
+    "t": 114.02
    },
    {
     "speaker": "Anna",
     "text": "Non. C'est un partenariat.",
-    "t": 116.95
+    "t": 116.91
    },
    {
     "speaker": "Anna",
     "text": "Des communes s'associent pour créer un club, et un organisme le gère.",
-    "t": 118.7
+    "t": 118.66
    },
    {
     "speaker": "Anna",
     "text": "Le ministère donne son agrément au club et participe à son financement, avec les communes.",
-    "t": 122.26
+    "t": 122.22
    },
    {
     "speaker": "Tom",
     "text": "Et combien de ces clubs y a-t-il dans le pays ?",
-    "t": 126.77
+    "t": 126.73
    },
    {
     "speaker": "Anna",
     "text": "Il y a plus de vingt clubs, du nord au sud du Luxembourg.",
-    "t": 129.25
+    "t": 129.21
    },
    {
     "speaker": "Anna",
     "text": "Ensemble, ils travaillent avec plus de quatre-vingts communes partenaires.",
-    "t": 132.36
+    "t": 132.32
    },
    {
     "speaker": "Tom",
     "text": "Et si ma propre commune n'est partenaire d'aucun club ?",
-    "t": 135.79
+    "t": 135.75
    },
    {
     "speaker": "Anna",
     "text": "Ce n'est pas du tout un problème.",
-    "t": 138.72
+    "t": 138.68
    },
    {
     "speaker": "Anna",
     "text": "Chaque club vous accueille, quel que soit l'endroit où vous habitez.",
-    "t": 140.35
+    "t": 140.31
    },
    {
     "speaker": "Tom",
     "text": "Je pourrais donc même aller dans deux ou trois clubs différents.",
-    "t": 143.66
+    "t": 143.62
    },
    {
     "speaker": "Anna",
     "text": "Oui, vous pouvez choisir les clubs et les activités qui vous plaisent, tant qu'il reste des places.",
-    "t": 146.73
+    "t": 146.69
    },
    {
     "speaker": "Tom",
     "text": "Faut-il d'abord devenir membre, avec une carte et une cotisation annuelle ?",
-    "t": 151.53
+    "t": 151.09
    },
    {
     "speaker": "Anna",
     "text": "Certains clubs ont une carte de membre, mais la plupart n'en ont pas.",
-    "t": 155.91
+    "t": 155.47
    },
    {
     "speaker": "Anna",
     "text": "Et une carte n'est jamais obligatoire pour participer à une activité.",
-    "t": 158.81
+    "t": 158.37
    },
    {
     "speaker": "Tom",
     "text": "Parlons maintenant de ce qui fait plaisir.",
-    "t": 162.3
+    "t": 161.86
    },
    {
     "speaker": "Tom",
     "text": "Que peut-on faire concrètement dans ces clubs ?",
-    "t": 164.43
+    "t": 163.99
    },
    {
     "speaker": "Anna",
     "text": "Le site classe les activités en quatre grandes familles.",
-    "t": 166.8
+    "t": 166.36
    },
    {
     "speaker": "Anna",
     "text": "La première, c'est la santé et le bien-être.",
-    "t": 169.7
+    "t": 169.26
    },
    {
     "speaker": "Tom",
     "text": "J'imagine qu'il s'agit de sport et de mouvement.",
-    "t": 172.12
+    "t": 171.68
    },
    {
     "speaker": "Anna",
     "text": "Oui : du yoga, de la danse, du vélo, de la marche nordique, de l'aquagym, et de la gymnastique douce pour le dos.",
-    "t": 174.84
+    "t": 174.4
    },
    {
     "speaker": "Anna",
     "text": "Mais aussi de l'entraînement de la mémoire, de la relaxation, et des cours de cuisine.",
-    "t": 181.36
+    "t": 180.92
    },
    {
     "speaker": "Tom",
     "text": "Cela fait déjà une longue liste.",
-    "t": 185.44
+    "t": 185
    },
    {
     "speaker": "Tom",
     "text": "Quelle est la deuxième famille ?",
-    "t": 187.24
+    "t": 186.8
    },
    {
     "speaker": "Anna",
     "text": "La deuxième, c'est la convivialité et l'engagement.",
-    "t": 189.27
+    "t": 188.83
    },
    {
     "speaker": "Anna",
     "text": "Pensez à des déjeuners en commun, des jeux de société, un après-midi quiz, une chorale, ou une partie de quilles.",
-    "t": 191.98
+    "t": 191.54
    },
    {
     "speaker": "Tom",
     "text": "Et que trouve-t-on dans la troisième famille ?",
-    "t": 198.13
+    "t": 197.69
    },
    {
     "speaker": "Anna",
     "text": "La troisième, c'est la découverte et la culture : cinéma, théâtre, concerts, musées, randonnées, et excursions au Luxembourg et à l'étranger.",
-    "t": 200.43
+    "t": 199.99
    },
    {
     "speaker": "Tom",
     "text": "Il reste donc la quatrième famille d'activités.",
-    "t": 208.15
+    "t": 207.71
    },
    {
     "speaker": "Anna",
     "text": "La quatrième, c'est apprendre et s'informer.",
-    "t": 210.92
+    "t": 210.48
    },
    {
     "speaker": "Anna",
     "text": "Il y a des cours de langues, des cours d'informatique et de smartphone, et des conférences sur des sujets d'actualité.",
-    "t": 213.27
+    "t": 212.83
    },
    {
     "speaker": "Tom",
     "text": "Les cours d'informatique sont utiles, parce que tant de choses se passent en ligne aujourd'hui.",
-    "t": 219.05
+    "t": 218.61
    },
    {
     "speaker": "Anna",
     "text": "Exactement, et certains cours expliquent même la banque en ligne.",
-    "t": 223.97
+    "t": 223.53
    },
    {
     "speaker": "Anna",
     "text": "Il y a aussi des ateliers créatifs, comme la photographie, le dessin, la couture, ou l'art floral.",
-    "t": 227.07
+    "t": 226.63
    },
    {
     "speaker": "Tom",
     "text": "C'est donc clairement plus qu'un après-midi de jeux de cartes.",
-    "t": 232.66
+    "t": 232.22
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup plus. Les responsables des clubs les décrivent comme des lieux vivants d'échange et d'apprentissage tout au long de la vie.",
-    "t": 235.76
+    "t": 235.32
    },
    {
     "speaker": "Tom",
     "text": "Qui anime toutes ces activités ?",
-    "t": 242.48
+    "t": 242.04
    },
    {
     "speaker": "Anna",
     "text": "Cela dépend de l'activité : le personnel du club, des formateurs spécialisés, ou des bénévoles.",
-    "t": 244.68
+    "t": 244.24
    },
    {
     "speaker": "Tom",
     "text": "Soyons pratiques. Est-ce que je dois payer pour participer ?",
-    "t": 249.86
+    "t": 249.42
    },
    {
     "speaker": "Anna",
     "text": "La plupart des activités sont payantes, parce qu'il y a du matériel, un transport, des billets d'entrée ou un formateur à payer.",
-    "t": 253.48
+    "t": 253.04
    },
    {
     "speaker": "Anna",
     "text": "Mais chaque club propose aussi quelques activités gratuites.",
-    "t": 259.39
+    "t": 258.95
    },
    {
     "speaker": "Tom",
     "text": "Et faut-il s'inscrire avant de venir ?",
-    "t": 262.5
+    "t": 262.06
    },
    {
     "speaker": "Anna",
     "text": "En général, oui.",
-    "t": 264.64
+    "t": 264.2
    },
    {
     "speaker": "Anna",
     "text": "L'inscription vous garantit une place, et le club peut vous prévenir si quelque chose change.",
-    "t": 265.74
+    "t": 265.3
    },
    {
     "speaker": "Anna",
     "text": "Seules quelques activités en accès libre se font sans inscription.",
-    "t": 269.94
+    "t": 269.5
    },
    {
     "speaker": "Tom",
     "text": "Comment est-ce que je m'inscris à une activité ?",
-    "t": 273.48
+    "t": 273.04
    },
    {
     "speaker": "Anna",
     "text": "Vous contactez le club qui l'organise : par téléphone, par e-mail, ou sur son site internet.",
-    "t": 275.86
+    "t": 275.42
    },
    {
     "speaker": "Anna",
     "text": "Cela dépend du club.",
-    "t": 280.46
+    "t": 280.02
    },
    {
     "speaker": "Tom",
     "text": "Voici une question importante pour beaucoup de nos auditeurs.",
-    "t": 281.82
+    "t": 281.38
    },
    {
     "speaker": "Tom",
     "text": "Et si je ne parle pas luxembourgeois ?",
-    "t": 284.92
+    "t": 284.48
    },
    {
     "speaker": "Anna",
     "text": "En général, ce n'est pas un problème.",
-    "t": 287.02
+    "t": 286.58
    },
    {
     "speaker": "Anna",
     "text": "Le luxembourgeois, le français et l'allemand sont les langues les plus courantes dans les clubs, et cela dépend de l'activité et du formateur.",
-    "t": 288.83
+    "t": 288.41
    },
    {
     "speaker": "Tom",
     "text": "Le mieux est donc de poser la question au club au moment de l'inscription.",
-    "t": 295.28
+    "t": 294.86
    },
    {
     "speaker": "Anna",
     "text": "Oui, exactement. Et une activité comme une promenade, un cours de danse ou un déjeuner en commun est aussi une manière sympathique de pratiquer une langue.",
-    "t": 298.83
+    "t": 298.41
    },
    {
     "speaker": "Tom",
     "text": "Et quand les activités ont-elles lieu ?",
-    "t": 306.27
+    "t": 305.85
    },
    {
     "speaker": "Tom",
     "text": "J'imagine que c'est surtout en journée.",
-    "t": 308.21
+    "t": 307.79
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup ont lieu en journée, mais certaines se déroulent le soir, et parfois le week-end.",
-    "t": 310.37
+    "t": 309.95
    },
    {
     "speaker": "Anna",
     "text": "Le programme de chaque club donne les détails.",
-    "t": 314.15
+    "t": 313.73
    },
    {
     "speaker": "Tom",
     "text": "Et pour les personnes qui ont du mal à marcher, ou qui se déplacent en fauteuil roulant ?",
-    "t": 316.61
+    "t": 316.19
    },
    {
     "speaker": "Anna",
     "text": "Le conseil des clubs est simple : contactez le club avant de vous inscrire, et renseignez-vous sur l'accès pour l'activité que vous avez choisie.",
-    "t": 320.69
+    "t": 320.27
    },
    {
     "speaker": "Tom",
     "text": "Vous avez dit tout à l'heure que les clubs donnent aussi des conseils.",
-    "t": 327.22
+    "t": 326.8
    },
    {
     "speaker": "Tom",
     "text": "De quel genre de conseils s'agit-il ?",
-    "t": 330.47
+    "t": 330.05
    },
    {
     "speaker": "Anna",
     "text": "Chaque club a une équipe de professionnels.",
-    "t": 333.04
+    "t": 332.62
    },
    {
     "speaker": "Anna",
     "text": "Ils peuvent parler avec vous, en toute confidentialité, du passage à la retraite, du bien vieillir, ou encore du logement et des services d'aide et de soins pour les personnes âgées.",
-    "t": 335.2
+    "t": 334.78
    },
    {
     "speaker": "Tom",
     "text": "Et s'ils n'ont pas eux-mêmes la réponse ?",
-    "t": 344.34
+    "t": 343.92
    },
    {
     "speaker": "Anna",
     "text": "Alors ils vous orientent vers le bon service.",
-    "t": 346.52
+    "t": 346.1
    },
    {
     "speaker": "Anna",
     "text": "C'est une bonne première porte à laquelle frapper.",
-    "t": 348.89
+    "t": 348.47
    },
    {
     "speaker": "Tom",
     "text": "Peut-on aussi donner un peu de soi, et pas seulement participer ?",
-    "t": 351.29
+    "t": 350.87
    },
    {
     "speaker": "Anna",
     "text": "Oui, et les clubs l'encouragent.",
-    "t": 354.83
+    "t": 354.41
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez devenir bénévole, et vous pouvez même proposer une nouvelle activité que vous aimeriez animer ou partager.",
-    "t": 356.6
+    "t": 356.18
    },
    {
     "speaker": "Tom",
     "text": "Quelqu'un qui sait faire de la pâtisserie, peindre ou réparer un vélo pourrait donc partager ce savoir-faire.",
-    "t": 362.08
+    "t": 361.66
    },
    {
     "speaker": "Anna",
     "text": "Exactement. La transmission des savoirs entre les générations et entre les cultures fait partie de la charte des clubs.",
-    "t": 367.52
+    "t": 367.1
    },
    {
     "speaker": "Tom",
     "text": "Regardons maintenant le site internet.",
-    "t": 373.15
+    "t": 372.73
    },
    {
     "speaker": "Tom",
     "text": "Que trouve-t-on sur clubaktivplus point l-u ?",
-    "t": 375.36
+    "t": 374.9
    },
    {
     "speaker": "Anna",
     "text": "Le site existe en français et en allemand.",
-    "t": 378.6
+    "t": 378.14
    },
    {
     "speaker": "Anna",
     "text": "Sa page la plus utile, c'est la liste de tous les clubs.",
-    "t": 380.85
+    "t": 380.39
    },
    {
     "speaker": "Tom",
     "text": "Et que montre la page d'un club ?",
-    "t": 383.84
+    "t": 383.38
    },
    {
     "speaker": "Anna",
     "text": "Elle montre l'adresse, le numéro de téléphone, les heures d'ouverture et les communes partenaires.",
-    "t": 385.73
+    "t": 385.27
    },
    {
     "speaker": "Anna",
     "text": "Et vous pouvez y télécharger le programme d'activités actuel de ce club.",
-    "t": 390.81
+    "t": 390.35
    },
    {
     "speaker": "Tom",
     "text": "Existe-t-il un grand calendrier avec les activités de tous les clubs réunies ?",
-    "t": 394.78
+    "t": 394.32
    },
    {
     "speaker": "Anna",
     "text": "Non, chaque club publie son propre programme, plusieurs fois par an.",
-    "t": 399.24
+    "t": 398.78
    },
    {
     "speaker": "Anna",
     "text": "Mais il existe un joli raccourci, qui s'appelle les ClubPages.",
-    "t": 402.84
+    "t": 402.38
    },
    {
     "speaker": "Tom",
     "text": "Et que sont exactement ces ClubPages ?",
-    "t": 406.35
+    "t": 405.89
    },
    {
     "speaker": "Anna",
     "text": "C'est une petite brochure qui paraît quatre fois par an.",
-    "t": 408.57
+    "t": 408.11
    },
    {
     "speaker": "Anna",
     "text": "Elle présente une sélection d'activités de tous les clubs, pour vous donner un aperçu de tout.",
-    "t": 411.38
+    "t": 410.92
    },
    {
     "speaker": "Tom",
     "text": "Et que peut-on trouver d'autre sur le site ?",
-    "t": 415.78
+    "t": 415.32
    },
    {
     "speaker": "Anna",
     "text": "Il y a une foire aux questions, qui est très claire.",
-    "t": 417.96
+    "t": 417.5
    },
    {
     "speaker": "Anna",
     "text": "Il y a des actualités et des événements, et aussi des offres d'emploi pour les personnes qui aimeraient travailler dans un club.",
-    "t": 420.42
+    "t": 419.78
    },
    {
     "speaker": "Tom",
     "text": "Et s'il me reste une question après tout cela ?",
-    "t": 426.03
+    "t": 425.39
    },
    {
     "speaker": "Anna",
     "text": "Alors vous pouvez écrire à la coordination nationale des clubs.",
-    "t": 428.33
+    "t": 427.69
    },
    {
     "speaker": "Anna",
     "text": "L'adresse, c'est contact arobase clubaktivplus point l-u.",
-    "t": 431.56
+    "t": 430.92
    },
    {
     "speaker": "Tom",
     "text": "Permettez-moi une dernière question.",
-    "t": 435.42
+    "t": 434.78
    },
    {
     "speaker": "Tom",
     "text": "Pourquoi ces clubs sont-ils si importants ?",
-    "t": 437.35
+    "t": 436.71
    },
    {
     "speaker": "Anna",
     "text": "Parce qu'être trop souvent seul n'est bon pour personne.",
-    "t": 439.73
+    "t": 439.09
    },
    {
     "speaker": "Anna",
     "text": "Les clubs veulent prévenir la solitude, et aider les gens à rester actifs et à garder leur place dans la société.",
-    "t": 442.58
+    "t": 441.94
    },
    {
     "speaker": "Tom",
     "text": "Et pour quelqu'un qui vient d'arriver au Luxembourg, c'est aussi une manière simple de rencontrer des gens de la région.",
-    "t": 447.8
+    "t": 447.16
    },
    {
     "speaker": "Anna",
     "text": "Oui. On partage une activité, on discute, et petit à petit, on connaît du monde.",
-    "t": 453.41
+    "t": 452.77
    },
    {
     "speaker": "Tom",
     "text": "Résumons tout cela.",
-    "t": 457.81
+    "t": 457.17
    },
    {
     "speaker": "Tom",
     "text": "Que faut-il retenir ?",
-    "t": 459.3
+    "t": 458.66
    },
    {
     "speaker": "Anna",
     "text": "Premièrement : les clubs Aktiv Plus sont des lieux de rencontre pour les personnes qui veulent rester actives autour de l'âge de la retraite, sans limite d'âge.",
-    "t": 460.85
+    "t": 460.21
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement : il y en a plus de vingt dans tout le pays, et vous êtes le bienvenu dans chaque club, quel que soit l'endroit où vous habitez.",
-    "t": 468.39
+    "t": 467.75
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement : le choix est large, du sport et des excursions aux cours de langues et d'informatique.",
-    "t": 475.9
+    "t": 475.26
    },
    {
     "speaker": "Anna",
     "text": "La plupart des activités sont payantes, et certaines sont gratuites.",
-    "t": 480.7
+    "t": 480.06
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement : pour participer, vous regardez le programme d'un club et vous contactez directement ce club.",
-    "t": 484.51
+    "t": 483.87
    },
    {
     "speaker": "Anna",
     "text": "Vous trouverez tous les clubs et leurs programmes sur clubaktivplus point l-u.",
-    "t": 491.12
+    "t": 490.48
    },
    {
     "speaker": "Tom",
     "text": "Restez actifs, restez curieux, et restez en bonne compagnie.",
-    "t": 495.12
+    "t": 494.48
    },
    {
     "speaker": "Anna",
     "text": "Et pourquoi ne pas essayer une activité ce mois-ci ?",
-    "t": 499.21
+    "t": 498.57
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur les clubs Aktiv Plus.",
-    "t": 501.64
+    "t": 501
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 504.14
+    "t": 503.5
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 511.97
+    "t": 511.33
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 528.42
+    "t": 527.78
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 533.07
+    "t": 532.43
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 534.85
+    "t": 534.21
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 539.23
+    "t": 538.59
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous, et à la prochaine !",
-    "t": 540.48
+    "t": 539.84
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 542.77
+    "t": 542.13
    }
   ],
   "audio_de": "podcast_clubaktivplus_de.mp3",
-  "duration_de": 628.98,
+  "duration_de": 628.22,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -117351,682 +117336,682 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Fangen wir mit den Grundlagen an.",
-    "t": 62.13
+    "t": 61.54
    },
    {
     "speaker": "Tom",
     "text": "Was genau ist ein Club Aktiv Plus?",
-    "t": 64
+    "t": 63.41
    },
    {
     "speaker": "Anna",
     "text": "Das ist ein Treffpunkt in Ihrer Region.",
-    "t": 66.41
+    "t": 65.82
    },
    {
     "speaker": "Anna",
     "text": "Man geht dorthin für die Freizeit, zum Lernen, um andere Menschen zu treffen, und auch, um sich beraten zu lassen.",
-    "t": 68.63
+    "t": 68.01
    },
    {
     "speaker": "Tom",
     "text": "Und für wen sind diese Clubs gedacht?",
-    "t": 74.97
+    "t": 74.35
    },
    {
     "speaker": "Anna",
     "text": "Sie sind für alle Menschen gedacht, die aktiv bleiben möchten, wenn der Ruhestand naht oder bereits begonnen hat.",
-    "t": 77.34
+    "t": 76.72
    },
    {
     "speaker": "Tom",
     "text": "Gibt es ein Mindestalter, um mitzumachen?",
-    "t": 83.34
+    "t": 82.72
    },
    {
     "speaker": "Anna",
     "text": "Nein, es gibt keine Altersgrenze.",
-    "t": 85.76
+    "t": 85.14
    },
    {
     "speaker": "Anna",
     "text": "Die Clubs richten sich vor allem an Menschen rund um das Rentenalter, aber auch andere Altersgruppen sind willkommen.",
-    "t": 88.21
+    "t": 87.59
    },
    {
     "speaker": "Tom",
     "text": "Der Name klingt für mich ziemlich neu.",
-    "t": 94.15
+    "t": 93.53
    },
    {
     "speaker": "Tom",
     "text": "Gibt es diese Clubs schon lange?",
-    "t": 96.33
+    "t": 95.71
    },
    {
     "speaker": "Anna",
     "text": "Die ersten wurden 1999 gegründet.",
-    "t": 98.38
+    "t": 97.76
    },
    {
     "speaker": "Anna",
     "text": "Viele Jahre lang nannte man sie einfach die Seniorenclubs.",
-    "t": 101.32
+    "t": 100.7
    },
    {
     "speaker": "Tom",
     "text": "Und warum hat sich der Name geändert?",
-    "t": 104.78
+    "t": 104.16
    },
    {
     "speaker": "Anna",
     "text": "Der neue Name kam 2024.",
-    "t": 106.97
+    "t": 106.35
    },
    {
     "speaker": "Anna",
     "text": "Viele Mitglieder sind sehr aktiv, und sie haben sich im Wort „Senior\" nicht wirklich wiedererkannt.",
-    "t": 109.86
+    "t": 108.99
    },
    {
     "speaker": "Anna",
     "text": "Club Aktiv Plus passt viel besser zu ihnen.",
-    "t": 115.39
+    "t": 114.52
    },
    {
     "speaker": "Tom",
     "text": "Wer steht hinter diesen Clubs?",
-    "t": 118.29
+    "t": 117.42
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine Initiative des Ministeriums für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen — desselben Ministeriums, das auch den Biergerpakt organisiert.",
-    "t": 120.19
+    "t": 119.32
    },
    {
     "speaker": "Tom",
     "text": "Führt das Ministerium jeden Club selbst?",
-    "t": 131.73
+    "t": 130.86
    },
    {
     "speaker": "Anna",
     "text": "Nein. Es ist eine Partnerschaft.",
-    "t": 134.3
+    "t": 133.43
    },
    {
     "speaker": "Anna",
     "text": "Gemeinden schließen sich zusammen, um einen Club zu gründen, und eine Trägerorganisation führt ihn.",
-    "t": 136.99
+    "t": 136.12
    },
    {
     "speaker": "Anna",
     "text": "Das Ministerium erteilt dem Club die Zulassung und beteiligt sich an der Finanzierung, zusammen mit den Gemeinden.",
-    "t": 142.47
+    "t": 141.6
    },
    {
     "speaker": "Tom",
     "text": "Und wie viele dieser Clubs gibt es im Land?",
-    "t": 149
+    "t": 148.13
    },
    {
     "speaker": "Anna",
     "text": "Es gibt mehr als zwanzig Clubs, vom Norden bis zum Süden Luxemburgs.",
-    "t": 151.41
+    "t": 150.54
    },
    {
     "speaker": "Anna",
     "text": "Zusammen arbeiten sie mit mehr als achtzig Partnergemeinden.",
-    "t": 155.37
+    "t": 154.5
    },
    {
     "speaker": "Tom",
     "text": "Und wenn meine eigene Gemeinde bei keinem Club Partner ist?",
-    "t": 158.95
+    "t": 158.08
    },
    {
     "speaker": "Anna",
     "text": "Das ist überhaupt kein Problem.",
-    "t": 162.28
+    "t": 161.41
    },
    {
     "speaker": "Anna",
     "text": "Jeder Club heißt Sie willkommen, ganz egal, wo Sie wohnen.",
-    "t": 163.99
+    "t": 163.22
    },
    {
     "speaker": "Tom",
     "text": "Ich könnte also sogar zwei oder drei verschiedene Clubs besuchen.",
-    "t": 167.67
+    "t": 166.89
    },
    {
     "speaker": "Anna",
     "text": "Ja, Sie können die Clubs und die Aktivitäten wählen, die Ihnen gefallen, solange noch Plätze frei sind.",
-    "t": 171.4
+    "t": 170.62
    },
    {
     "speaker": "Tom",
     "text": "Muss ich zuerst Mitglied werden, mit einer Karte und einem Jahresbeitrag?",
-    "t": 177.35
+    "t": 176.57
    },
    {
     "speaker": "Anna",
     "text": "Einige Clubs haben eine Mitgliedskarte, aber die meisten nicht.",
-    "t": 181.69
+    "t": 180.91
    },
    {
     "speaker": "Anna",
     "text": "Und eine Karte ist nie nötig, um an einer Aktivität teilzunehmen.",
-    "t": 185.35
+    "t": 184.57
    },
    {
     "speaker": "Tom",
     "text": "Kommen wir jetzt zum schönen Teil.",
-    "t": 189.44
+    "t": 188.66
    },
    {
     "speaker": "Tom",
     "text": "Was kann man in diesen Clubs konkret machen?",
-    "t": 191.39
+    "t": 190.61
    },
    {
     "speaker": "Anna",
     "text": "Die Website teilt die Aktivitäten in vier große Bereiche ein.",
-    "t": 193.86
+    "t": 193.08
    },
    {
     "speaker": "Anna",
     "text": "Der erste ist Gesundheit und Wohlbefinden.",
-    "t": 197.78
+    "t": 197
    },
    {
     "speaker": "Tom",
     "text": "Ich nehme an, das bedeutet Sport und Bewegung.",
-    "t": 200.56
+    "t": 199.78
    },
    {
     "speaker": "Anna",
     "text": "Ja: Yoga, Tanzen, Radfahren, Nordic Walking, Wassergymnastik, und sanfte Gymnastik für den Rücken.",
-    "t": 203.36
+    "t": 202.58
    },
    {
     "speaker": "Anna",
     "text": "Aber auch Gedächtnistraining, Entspannung, und Kochkurse.",
-    "t": 212.26
+    "t": 211.48
    },
    {
     "speaker": "Tom",
     "text": "Das ist schon eine lange Liste.",
-    "t": 215.98
+    "t": 215.2
    },
    {
     "speaker": "Tom",
     "text": "Was ist der zweite Bereich?",
-    "t": 217.78
+    "t": 217
    },
    {
     "speaker": "Anna",
     "text": "Der zweite heißt Geselligkeit und Engagement.",
-    "t": 219.44
+    "t": 218.66
    },
    {
     "speaker": "Anna",
     "text": "Denken Sie an gemeinsame Mittagessen, Gesellschaftsspiele, einen Quiznachmittag, das Singen im Chor, oder eine Runde Kegeln.",
-    "t": 222.43
+    "t": 221.65
    },
    {
     "speaker": "Tom",
     "text": "Und was finden wir im dritten Bereich?",
-    "t": 230.19
+    "t": 229.41
    },
    {
     "speaker": "Anna",
     "text": "Der dritte heißt Entdecken und Kultur: Kino, Theater, Konzerte, Museen, Wanderungen, und Ausflüge in Luxemburg und im Ausland.",
-    "t": 232.49
+    "t": 231.71
    },
    {
     "speaker": "Tom",
     "text": "Dann bleibt noch der vierte Bereich der Aktivitäten.",
-    "t": 242.11
+    "t": 241.33
    },
    {
     "speaker": "Anna",
     "text": "Der vierte heißt Lernen und sich informieren.",
-    "t": 245.05
+    "t": 244.27
    },
    {
     "speaker": "Anna",
     "text": "Es gibt Sprachkurse, Computerkurse und Smartphone-Kurse, und Vorträge zu aktuellen Themen.",
-    "t": 247.52
+    "t": 246.74
    },
    {
     "speaker": "Tom",
     "text": "Computerkurse sind nützlich, weil heute so vieles online passiert.",
-    "t": 253.67
+    "t": 252.89
    },
    {
     "speaker": "Anna",
     "text": "Genau, und manche Kurse erklären sogar das Online-Banking.",
-    "t": 257.6
+    "t": 256.82
    },
    {
     "speaker": "Anna",
     "text": "Es gibt auch kreative Workshops, zum Beispiel Fotografie, Zeichnen, Nähen, oder Blumenbinden.",
-    "t": 261.43
+    "t": 260.65
    },
    {
     "speaker": "Tom",
     "text": "Es ist also eindeutig mehr als ein Nachmittag mit Kartenspielen.",
-    "t": 267.88
+    "t": 267.1
    },
    {
     "speaker": "Anna",
     "text": "Viel mehr. Die Verantwortlichen der Clubs beschreiben sie als lebendige Orte des Austauschs und des lebenslangen Lernens.",
-    "t": 271.55
+    "t": 270.77
    },
    {
     "speaker": "Tom",
     "text": "Wer leitet all diese Aktivitäten?",
-    "t": 278.97
+    "t": 278.19
    },
    {
     "speaker": "Anna",
     "text": "Das hängt von der Aktivität ab: das Personal des Clubs, spezialisierte Kursleiter, oder Ehrenamtliche.",
-    "t": 281.19
+    "t": 280.41
    },
    {
     "speaker": "Tom",
     "text": "Werden wir praktisch.",
-    "t": 288.33
+    "t": 287.55
    },
    {
     "speaker": "Tom",
     "text": "Muss ich bezahlen, um mitzumachen?",
-    "t": 289.73
+    "t": 288.95
    },
    {
     "speaker": "Anna",
     "text": "Die meisten Aktivitäten kosten etwas, weil Material, Transport, Eintrittskarten oder ein Kursleiter bezahlt werden müssen.",
-    "t": 291.93
+    "t": 291.15
    },
    {
     "speaker": "Anna",
     "text": "Aber jeder Club bietet auch einige kostenlose Aktivitäten an.",
-    "t": 299.11
+    "t": 298.33
    },
    {
     "speaker": "Tom",
     "text": "Und muss ich mich anmelden, bevor ich komme?",
-    "t": 302.85
+    "t": 302.07
    },
    {
     "speaker": "Anna",
     "text": "In der Regel ja.",
-    "t": 305.08
+    "t": 304.3
    },
    {
     "speaker": "Anna",
     "text": "Die Anmeldung sichert Ihnen einen Platz, und der Club kann Sie informieren, wenn sich etwas ändert.",
-    "t": 306.27
+    "t": 305.51
    },
    {
     "speaker": "Anna",
     "text": "Nur für einige offene Angebote braucht man keine Anmeldung.",
-    "t": 311.26
+    "t": 310.5
    },
    {
     "speaker": "Tom",
     "text": "Wie melde ich mich für eine Aktivität an?",
-    "t": 314.68
+    "t": 313.92
    },
    {
     "speaker": "Anna",
     "text": "Sie wenden sich an den Club, der sie organisiert: per Telefon, per E-Mail, oder über seine Website.",
-    "t": 317.13
+    "t": 316.37
    },
    {
     "speaker": "Anna",
     "text": "Das hängt vom Club ab.",
-    "t": 323.64
+    "t": 322.88
    },
    {
     "speaker": "Tom",
     "text": "Jetzt kommt eine Frage, die für viele unserer Zuhörer wichtig ist.",
-    "t": 325.23
+    "t": 324.47
    },
    {
     "speaker": "Tom",
     "text": "Was ist, wenn ich kein Luxemburgisch spreche?",
-    "t": 329.31
+    "t": 328.55
    },
    {
     "speaker": "Anna",
     "text": "Im Allgemeinen ist das kein Problem.",
-    "t": 332
+    "t": 331.24
    },
    {
     "speaker": "Anna",
     "text": "Luxemburgisch, Französisch und Deutsch sind die häufigsten Sprachen in den Clubs, und es hängt von der Aktivität und vom Kursleiter ab.",
-    "t": 334.15
+    "t": 333.39
    },
    {
     "speaker": "Tom",
     "text": "Am besten frage ich also beim Club nach, wenn ich mich anmelde.",
-    "t": 341.59
+    "t": 340.83
    },
    {
     "speaker": "Anna",
     "text": "Ja, genau. Und eine Aktivität wie ein Spaziergang, ein Tanzkurs oder ein gemeinsames Mittagessen ist auch eine angenehme Art, eine Sprache zu üben.",
-    "t": 345.27
+    "t": 344.51
    },
    {
     "speaker": "Tom",
     "text": "Und wann finden die Aktivitäten statt?",
-    "t": 355.51
+    "t": 354.75
    },
    {
     "speaker": "Tom",
     "text": "Ich nehme an, vor allem tagsüber.",
-    "t": 357.81
+    "t": 357.05
    },
    {
     "speaker": "Anna",
     "text": "Viele finden tagsüber statt, aber manche auch am Abend, und manchmal am Wochenende.",
-    "t": 359.94
+    "t": 359.18
    },
    {
     "speaker": "Anna",
     "text": "Das Programm jedes Clubs nennt die Einzelheiten.",
-    "t": 364.82
+    "t": 364.06
    },
    {
     "speaker": "Tom",
     "text": "Und was ist mit Menschen, die schlecht zu Fuß sind, oder die einen Rollstuhl benutzen?",
-    "t": 367.6
+    "t": 366.84
    },
    {
     "speaker": "Anna",
     "text": "Der Rat der Clubs ist einfach: Nehmen Sie vor der Anmeldung Kontakt mit dem Club auf, und fragen Sie nach dem Zugang für die Aktivität, die Sie gewählt haben.",
-    "t": 372.43
+    "t": 371.67
    },
    {
     "speaker": "Tom",
     "text": "Sie haben vorhin gesagt, dass die Clubs auch beraten.",
-    "t": 381.01
+    "t": 380.25
    },
    {
     "speaker": "Tom",
     "text": "Um welche Art von Beratung geht es da?",
-    "t": 384.03
+    "t": 383.27
    },
    {
     "speaker": "Anna",
     "text": "Jeder Club hat ein professionelles Team.",
-    "t": 386.17
+    "t": 385.41
    },
    {
     "speaker": "Anna",
     "text": "Es kann mit Ihnen vertraulich über den Übergang in den Ruhestand sprechen, über gesundes Älterwerden, oder über Wohnformen und Pflegedienste für ältere Menschen.",
-    "t": 388.63
+    "t": 387.87
    },
    {
     "speaker": "Tom",
     "text": "Und wenn das Team selbst keine Antwort hat?",
-    "t": 397.78
+    "t": 397.02
    },
    {
     "speaker": "Anna",
     "text": "Dann verweist es Sie an die richtige Stelle.",
-    "t": 400.12
+    "t": 399.36
    },
    {
     "speaker": "Anna",
     "text": "Es ist eine gute erste Tür, an die man klopfen kann.",
-    "t": 402.64
+    "t": 401.88
    },
    {
     "speaker": "Tom",
     "text": "Kann man auch selbst etwas beitragen, und nicht nur teilnehmen?",
-    "t": 406.11
+    "t": 405.35
    },
    {
     "speaker": "Anna",
     "text": "Ja, und die Clubs ermutigen dazu.",
-    "t": 409.76
+    "t": 409
    },
    {
     "speaker": "Anna",
     "text": "Sie können sich ehrenamtlich engagieren, und Sie können sogar eine neue Aktivität vorschlagen, die Sie gern leiten oder teilen möchten.",
-    "t": 412.04
+    "t": 411.28
    },
    {
     "speaker": "Tom",
     "text": "Wer also backen, malen oder ein Fahrrad reparieren kann, könnte dieses Können weitergeben.",
-    "t": 419.44
+    "t": 418.68
    },
    {
     "speaker": "Anna",
     "text": "Genau. Die Weitergabe von Wissen zwischen den Generationen und zwischen den Kulturen gehört zum Leitbild der Clubs.",
-    "t": 424.95
+    "t": 424.19
    },
    {
     "speaker": "Tom",
     "text": "Schauen wir uns jetzt die Website an.",
-    "t": 432.22
+    "t": 431.46
    },
    {
     "speaker": "Tom",
     "text": "Was finden wir auf clubaktivplus Punkt l-u?",
-    "t": 434.41
+    "t": 433.65
    },
    {
     "speaker": "Anna",
     "text": "Die Website gibt es auf Französisch und auf Deutsch.",
-    "t": 437.61
+    "t": 436.85
    },
    {
     "speaker": "Anna",
     "text": "Ihre nützlichste Seite ist die Liste aller Clubs.",
-    "t": 440.71
+    "t": 439.93
    },
    {
     "speaker": "Tom",
     "text": "Und was zeigt die Seite eines Clubs?",
-    "t": 443.71
+    "t": 442.93
    },
    {
     "speaker": "Anna",
     "text": "Sie zeigt die Adresse, die Telefonnummer, die Öffnungszeiten und die Partnergemeinden.",
-    "t": 445.87
+    "t": 445.09
    },
    {
     "speaker": "Anna",
     "text": "Und Sie können dort das aktuelle Aktivitätenprogramm dieses Clubs herunterladen.",
-    "t": 450.93
+    "t": 450.15
    },
    {
     "speaker": "Tom",
     "text": "Gibt es einen großen Kalender mit den Aktivitäten aller Clubs zusammen?",
-    "t": 455.5
+    "t": 454.72
    },
    {
     "speaker": "Anna",
     "text": "Nein, jeder Club veröffentlicht sein eigenes Programm, mehrmals im Jahr.",
-    "t": 459.77
+    "t": 458.99
    },
    {
     "speaker": "Anna",
     "text": "Aber es gibt eine schöne Abkürzung, und sie heißt ClubPages.",
-    "t": 464.36
+    "t": 463.58
    },
    {
     "speaker": "Tom",
     "text": "Und was genau sind diese ClubPages?",
-    "t": 468.14
+    "t": 467.36
    },
    {
     "speaker": "Anna",
     "text": "Das ist eine kleine Broschüre, die viermal im Jahr erscheint.",
-    "t": 470.52
+    "t": 469.74
    },
    {
     "speaker": "Anna",
     "text": "Sie stellt eine Auswahl an Aktivitäten aus allen Clubs vor, damit Sie von allem einen Eindruck bekommen.",
-    "t": 473.75
+    "t": 472.97
    },
    {
     "speaker": "Tom",
     "text": "Und was können wir sonst noch auf der Website finden?",
-    "t": 479.54
+    "t": 478.76
    },
    {
     "speaker": "Anna",
     "text": "Es gibt eine Seite mit häufig gestellten Fragen, die sehr klar ist.",
-    "t": 482.52
+    "t": 481.74
    },
    {
     "speaker": "Anna",
     "text": "Es gibt Neuigkeiten und Veranstaltungen, und auch Stellenangebote für Menschen, die gern in einem Club arbeiten möchten.",
-    "t": 486.55
+    "t": 485.77
    },
    {
     "speaker": "Tom",
     "text": "Und wenn ich nach all dem noch eine Frage habe?",
-    "t": 492.93
+    "t": 492.15
    },
    {
     "speaker": "Anna",
     "text": "Dann können Sie an die nationale Koordination der Clubs schreiben.",
-    "t": 495.55
+    "t": 494.77
    },
    {
     "speaker": "Anna",
     "text": "Die Adresse lautet contact at clubaktivplus Punkt l-u.",
-    "t": 499.35
+    "t": 498.57
    },
    {
     "speaker": "Tom",
     "text": "Lassen Sie mich eine letzte Frage stellen.",
-    "t": 503.83
+    "t": 503.05
    },
    {
     "speaker": "Tom",
     "text": "Warum sind diese Clubs so wichtig?",
-    "t": 506.13
+    "t": 505.35
    },
    {
     "speaker": "Anna",
     "text": "Weil zu viel Alleinsein für niemanden gut ist.",
-    "t": 508.39
+    "t": 507.61
    },
    {
     "speaker": "Anna",
     "text": "Die Clubs wollen Einsamkeit vorbeugen, und den Menschen helfen, aktiv zu bleiben und Teil der Gesellschaft zu bleiben.",
-    "t": 511.11
+    "t": 510.33
    },
    {
     "speaker": "Tom",
     "text": "Und für jemanden, der neu in Luxemburg ist, ist es auch ein einfacher Weg, Menschen aus der Region kennenzulernen.",
-    "t": 517.47
+    "t": 516.69
    },
    {
     "speaker": "Anna",
     "text": "Ja. Man teilt eine Aktivität, man redet miteinander, und nach und nach kennt man Leute.",
-    "t": 524.1
+    "t": 523.32
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir das alles zusammen.",
-    "t": 530.76
+    "t": 529.98
    },
    {
     "speaker": "Tom",
     "text": "Was sollte man sich merken?",
-    "t": 532.6
+    "t": 531.82
    },
    {
     "speaker": "Anna",
     "text": "Erstens: Die Club Aktiv Plus sind Treffpunkte für Menschen, die rund um das Rentenalter aktiv bleiben möchten, ohne Altersgrenze.",
-    "t": 534.21
+    "t": 533.43
    },
    {
     "speaker": "Tom",
     "text": "Zweitens: Es gibt mehr als zwanzig davon im ganzen Land, und Sie sind in jedem Club willkommen, ganz egal, wo Sie wohnen.",
-    "t": 542.56
+    "t": 541.78
    },
    {
     "speaker": "Anna",
     "text": "Drittens: Die Auswahl ist groß, von Sport und Ausflügen bis zu Sprachkursen und Computerkursen.",
-    "t": 549.66
+    "t": 548.88
    },
    {
     "speaker": "Anna",
     "text": "Die meisten Aktivitäten kosten etwas, und einige sind kostenlos.",
-    "t": 556.12
+    "t": 555.34
    },
    {
     "speaker": "Tom",
     "text": "Und viertens: Um mitzumachen, schauen Sie sich das Programm eines Clubs an und wenden sich direkt an diesen Club.",
-    "t": 560.23
+    "t": 559.45
    },
    {
     "speaker": "Anna",
     "text": "Alle Clubs und ihre Programme finden Sie auf clubaktivplus Punkt l-u.",
-    "t": 566.88
+    "t": 566.1
    },
    {
     "speaker": "Tom",
     "text": "Bleiben Sie aktiv, bleiben Sie neugierig, und bleiben Sie in guter Gesellschaft.",
-    "t": 571.5
+    "t": 570.72
    },
    {
     "speaker": "Anna",
     "text": "Und warum nicht gleich diesen Monat eine Aktivität ausprobieren?",
-    "t": 576.4
+    "t": 575.62
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die Club Aktiv Plus.",
-    "t": 580.38
+    "t": 579.6
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 583.42
+    "t": 582.64
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 592.39
+    "t": 591.61
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 610.72
+    "t": 609.94
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 616.42
+    "t": 615.64
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 618.67
+    "t": 617.89
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 623.56
+    "t": 622.78
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
-    "t": 624.66
+    "t": 623.88
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 627.45
+    "t": 626.67
    }
   ],
   "segments_lb": [
@@ -118053,212 +118038,212 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Ech mengen, déi éischt Woche géif ech genéissen. Mee duerno géife meng Kolleege mir wuel feelen, an ech hätt gär eppes ze dinn a Leit ronderëm mech.",
-    "t": 33.57
+    "t": 33.68
    },
    {
     "speaker": "Tom",
     "text": "Genee esou geet et ville Leit, wann d'Pensioun méi no kënnt. An domat si mer beim Theema vun haut: d'Club Aktiv Plus, an hire Site.",
-    "t": 41.65
+    "t": 41.76
    },
    {
     "speaker": "Anna",
     "text": "D'Adress ass clubaktivplus Punkt l-u, an engem Wuert geschriwwen. Club Aktiv Plus: aktiv, an nach e bësse méi.",
-    "t": 49.44
+    "t": 49.55
    },
    {
     "speaker": "Tom",
     "text": "Fänke mer mat der Basis un. Wat genee ass e Club Aktiv Plus?",
-    "t": 58.12
+    "t": 58.23
    },
    {
     "speaker": "Anna",
     "text": "Dat ass eng Plaz an Ärer Regioun, wou d'Leit sech treffen. Et geet een dohinner fir d'Fräizäit, fir ze léieren, fir aner Leit ze begéinen, an och fir sech berooden ze loossen.",
-    "t": 62.15
+    "t": 62.26
    },
    {
     "speaker": "Tom",
     "text": "A fir wien sinn dës Clibb geduecht?",
-    "t": 69.68
+    "t": 69.79
    },
    {
     "speaker": "Anna",
     "text": "Si si fir all d'Leit geduecht, déi aktiv bleiwe wëllen, wann d'Pensioun méi no kënnt oder scho ugefaangen huet.",
-    "t": 71.4
+    "t": 71.51
    },
    {
     "speaker": "Tom",
     "text": "Gëtt et e Mindestalter fir matzemaachen?",
-    "t": 77.75
+    "t": 77.86
    },
    {
     "speaker": "Anna",
     "text": "Nee, et gëtt keng Altersgrenz. D'Clibb riichte sech virun allem u Leit ronderëm de Pensiounsalter, mee aner Altersgruppe sinn och wëllkomm.",
-    "t": 79.97
+    "t": 80.08
    },
    {
     "speaker": "Tom",
     "text": "Den Numm kléngt fir mech zimmlech nei. Ginn et dës Clibb scho laang?",
-    "t": 87.38
+    "t": 87.49
    },
    {
     "speaker": "Anna",
     "text": "Déi éischt goufen 1999 gegrënnt. Vill Jore laang huet een einfach vun de Club Senior geschwat.",
-    "t": 91.93
+    "t": 92.04
    },
    {
     "speaker": "Tom",
     "text": "A firwat huet den Numm geännert?",
-    "t": 98.44
+    "t": 98.55
    },
    {
     "speaker": "Anna",
     "text": "Den neien Numm koum 2024. Vill Membere si ganz aktiv, a si hu sech am Wuert „Senior\" net wierklech erëmfonnt. Club Aktiv Plus passt vill besser bei si.",
-    "t": 100.01
+    "t": 100.12
    },
    {
     "speaker": "Tom",
     "text": "Wie steet hannert dëse Clibb?",
-    "t": 110.57
+    "t": 110.64
    },
    {
     "speaker": "Anna",
     "text": "Et ass eng Initiativ vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen — deem selwechte Ministère, deen och de Biergerpakt organiséiert.",
-    "t": 112.01
+    "t": 112.08
    },
    {
     "speaker": "Tom",
     "text": "Féiert de Ministère all Club selwer?",
-    "t": 121.94
+    "t": 122.01
    },
    {
     "speaker": "Anna",
     "text": "Nee. Et ass e Partenariat. Gemenge schléisse sech zesummen, fir e Club ze grënnen, an eng Organisatioun geréiert en. De Ministère gëtt dem Club den Agrement a bedeelegt sech un der Finanzéierung, zesumme mat de Gemengen.",
-    "t": 124.15
+    "t": 124.22
    },
    {
     "speaker": "Tom",
     "text": "A wéi vill vun dëse Clibb ginn et am Land?",
-    "t": 136.44
+    "t": 136.37
    },
    {
     "speaker": "Anna",
     "text": "Et gi méi wéi zwanzeg Clibb, vum Norde bis an de Süde vu Lëtzebuerg. Zesumme schaffe si mat méi wéi achtzeg Partnergemengen.",
-    "t": 139.2
+    "t": 139.13
    },
    {
     "speaker": "Tom",
     "text": "A wa meng eege Gemeng bei kengem Club Partner ass?",
-    "t": 146.87
+    "t": 146.8
    },
    {
     "speaker": "Anna",
     "text": "Dat ass guer kee Problem. All Club heescht Iech wëllkomm, egal wou Dir wunnt.",
-    "t": 149.61
+    "t": 149.54
    },
    {
     "speaker": "Tom",
     "text": "Ech kéint also souguer an zwee oder dräi verschidde Clibb goen.",
-    "t": 154.26
+    "t": 154.19
    },
    {
     "speaker": "Anna",
     "text": "Jo, Dir kënnt d'Clibb an d'Aktivitéiten eraussichen, déi Iech gefalen, soulaang nach Plaze fräi sinn.",
-    "t": 157
+    "t": 156.93
    },
    {
     "speaker": "Tom",
     "text": "Muss ech fir d'éischt Member ginn, mat enger Kaart an engem Joresbäitrag?",
-    "t": 162.87
+    "t": 162.8
    },
    {
     "speaker": "Anna",
     "text": "E puer Clibb hunn eng Memberskaart, mee déi meescht net. An eng Kaart ass ni néideg, fir bei enger Aktivitéit matzemaachen.",
-    "t": 166.3
+    "t": 166.23
    },
    {
     "speaker": "Tom",
     "text": "Komme mer elo zum schéinen Deel. Wat kann een an dëse Clibb konkret maachen?",
-    "t": 173.41
+    "t": 173.34
    },
    {
     "speaker": "Anna",
     "text": "De Site deelt d'Aktivitéiten a véier grouss Beräicher an. Deen éischten ass Gesondheet a Wuelbefannen.",
-    "t": 178.34
+    "t": 178.27
    },
    {
     "speaker": "Tom",
     "text": "Ech huelen un, dat heescht Sport a Beweegung.",
-    "t": 184.51
+    "t": 184.44
    },
    {
     "speaker": "Anna",
     "text": "Jo: Yoga, Danzen, Vëlofueren, Nordic Walking, Waassergymnastik, a sanft Gymnastik fir de Réck. Mee och Gediechtnistraining, Entspanung, a Kachcoursen.",
-    "t": 186.76
+    "t": 186.69
    },
    {
     "speaker": "Tom",
     "text": "Dat ass schonn eng laang Lëscht. Wat ass den zweete Beräich?",
-    "t": 199.28
+    "t": 199.21
    },
    {
     "speaker": "Anna",
     "text": "Deen zweeten heescht Gesellegkeet an Engagement. Denkt u gemeinsam Mëttegiessen, Gesellschaftsspiller, e Quiznomëtteg, Sangen am Chouer, oder eng Partie Keelen.",
-    "t": 202.3
+    "t": 202.25
    },
    {
     "speaker": "Tom",
     "text": "A wat fanne mer am drëtte Beräich?",
-    "t": 212.37
+    "t": 212.32
    },
    {
     "speaker": "Anna",
     "text": "Deen drëtten heescht Entdecken a Kultur: Kino, Theater, Concerten, Muséeën, Wanderungen, an Ausflich zu Lëtzebuerg an am Ausland.",
-    "t": 214.24
+    "t": 214.19
    },
    {
     "speaker": "Tom",
     "text": "Da bleift nach de véierte Beräich vun den Aktivitéiten.",
-    "t": 223.09
+    "t": 223.04
    },
    {
     "speaker": "Anna",
     "text": "Dee véierten heescht Léieren a sech informéieren. Et gi Sproochecoursen, Computercoursen a Smartphone-Coursen, a Virträg iwwer aktuell Theemen.",
-    "t": 225.47
+    "t": 225.42
    },
    {
     "speaker": "Tom",
     "text": "Computercourse sinn nëtzlech, well haut esou vill online geschitt.",
-    "t": 234.44
+    "t": 234.39
    },
    {
     "speaker": "Anna",
     "text": "Genee, a verschidde Coursen erkläre souguer den Online-Banking. Et ginn och kreativ Atelieren, zum Beispill Fotografie, Zeechnen, Bitzen, oder Blummebannen.",
-    "t": 239
+    "t": 238.95
    },
    {
     "speaker": "Tom",
     "text": "Et ass also kloer méi wéi en Nomëtteg mat Kaartespiller.",
-    "t": 248.48
+    "t": 248.43
    },
    {
     "speaker": "Anna",
     "text": "Vill méi. Déi Responsabel vun de Clibb beschreiwe si als lieweg Plaze vum Austausch a vum liewenslaange Léieren.",
-    "t": 251.44
+    "t": 251.39
    },
    {
     "speaker": "Tom",
     "text": "Wie leet all dës Aktivitéiten?",
-    "t": 258.55
+    "t": 258.5
    },
    {
     "speaker": "Anna",
     "text": "Dat hänkt vun der Aktivitéit of: d'Personal vum Club, spezialiséiert Formateuren, oder Benevoller.",
-    "t": 260.34
+    "t": 260.29
    },
    {
     "speaker": "Tom",
     "text": "Gi mer praktesch. Muss ech bezuelen, fir matzemaachen?",
-    "t": 265.67
+    "t": 265.62
    },
    {
     "speaker": "Anna",
@@ -118288,212 +118273,3592 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "Elo kënnt eng Fro, déi fir vill vun eisen Nolauschterer wichteg ass. Wat ass, wann ech kee Lëtzebuergesch schwätzen?",
-    "t": 299.8
+    "t": 299.71
    },
    {
     "speaker": "Anna",
     "text": "Am Allgemengen ass dat kee Problem. Lëtzebuergesch, Franséisch an Däitsch sinn déi heefegst Sproochen an de Clibb, an et hänkt vun der Aktivitéit a vum Formateur of.",
-    "t": 304.56
+    "t": 304.47
    },
    {
     "speaker": "Tom",
     "text": "Am beschte froen ech also beim Club no, wann ech mech umellen.",
-    "t": 314.11
+    "t": 313.87
    },
    {
     "speaker": "Anna",
     "text": "Jo, genee. An eng Aktivitéit wéi e Spadséiergank, en Danzcours oder e gemeinsamt Mëttegiessen ass och eng flott Manéier, eng Sprooch ze üben.",
-    "t": 317.12
+    "t": 316.88
    },
    {
     "speaker": "Tom",
     "text": "A wéini sinn d'Aktivitéiten? Ech huelen un, virun allem am Dag.",
-    "t": 325.04
+    "t": 324.8
    },
    {
     "speaker": "Anna",
     "text": "Vill sinn am Dag, mee verschiddener och owes, a munchmol de Weekend. De Programm vun all Club gëtt d'Detailer.",
-    "t": 329.41
+    "t": 329.17
    },
    {
     "speaker": "Tom",
     "text": "A wat ass mat Leit, déi schlecht zu Fouss sinn, oder déi e Rollstull benotzen?",
-    "t": 337.3
+    "t": 337.06
    },
    {
     "speaker": "Anna",
     "text": "De Rot vun de Clibb ass einfach: Kontaktéiert de Club virun der Umeldung, a frot no dem Accès fir d'Aktivitéit, déi Dir erausgesicht hutt.",
-    "t": 340.9
+    "t": 340.66
    },
    {
     "speaker": "Tom",
     "text": "Dir hutt virdru gesot, datt d'Clibb och beroden. Ëm wat fir eng Berodung geet et do?",
-    "t": 348.77
+    "t": 348.53
    },
    {
     "speaker": "Anna",
     "text": "All Club huet eng professionell Equipe. Si ka mat Iech vertraulech iwwer den Iwwergang an d'Pensioun schwätzen, iwwer gesond Eelerginn, oder iwwer Wunnformen a Fleegedéngschter fir eeler Leit.",
-    "t": 353.27
+    "t": 353.03
    },
    {
     "speaker": "Tom",
     "text": "A wann d'Equipe selwer keng Äntwert huet?",
-    "t": 364.49
+    "t": 364.25
    },
    {
     "speaker": "Anna",
     "text": "Da schéckt si Iech bei déi richteg Plaz weider. Et ass eng gutt éischt Dier, un déi ee klappe kann.",
-    "t": 366.96
+    "t": 366.72
    },
    {
     "speaker": "Tom",
     "text": "Kann een och selwer eppes bäidroen, an net nëmme matmaachen?",
-    "t": 371.4
+    "t": 371.16
    },
    {
     "speaker": "Anna",
     "text": "Jo, an d'Clibb encouragéieren dat. Dir kënnt Benevole ginn, an Dir kënnt souguer eng nei Aktivitéit proposéieren, déi Dir gär géift leeden oder deelen.",
-    "t": 374.63
+    "t": 374.39
    },
    {
     "speaker": "Tom",
     "text": "Wien also ka baken, molen oder e Vëlo flécken, kéint dat Kënne weiderginn.",
-    "t": 382.72
+    "t": 382.48
    },
    {
     "speaker": "Anna",
     "text": "Genee. D'Weidergi vu Wëssen tëscht de Generatiounen an tëscht de Kulture gehéiert zur Charta vun de Clibb.",
-    "t": 387.98
+    "t": 387.74
    },
    {
     "speaker": "Tom",
     "text": "Kucke mer eis elo de Site un. Wat fanne mer op clubaktivplus Punkt l-u?",
-    "t": 394.71
+    "t": 394.07
    },
    {
     "speaker": "Anna",
     "text": "De Site gëtt et op Franséisch an op Däitsch. Seng nëtzlechst Säit ass d'Lëscht vun alle Clibb.",
-    "t": 399.72
+    "t": 399.08
    },
    {
     "speaker": "Tom",
     "text": "A wat weist d'Säit vun engem Club?",
-    "t": 406.3
+    "t": 405.66
    },
    {
     "speaker": "Anna",
     "text": "Si weist d'Adress, d'Telefonsnummer, d'Ëffnungszäiten an d'Partnergemengen. An Dir kënnt do den aktuellen Aktivitéitsprogramm vun deem Club eroflueden.",
-    "t": 408.22
+    "t": 407.58
    },
    {
     "speaker": "Tom",
     "text": "Gëtt et ee grousse Kalenner mat den Aktivitéite vun alle Clibb zesummen?",
-    "t": 417.53
+    "t": 416.89
    },
    {
     "speaker": "Anna",
     "text": "Nee, all Club publizéiert säin eegene Programm, e puer Mol am Joer. Mee et gëtt eng flott Ofkierzung, an déi heescht ClubPages.",
-    "t": 421.37
+    "t": 420.73
    },
    {
     "speaker": "Tom",
     "text": "A wat genee sinn dës ClubPages?",
-    "t": 429.1
+    "t": 428.46
    },
    {
     "speaker": "Anna",
     "text": "Dat ass eng kleng Broschür, déi véiermol am Joer erauskënnt. Si stellt eng Auswiel un Aktivitéiten aus alle Clibb vir, fir datt Dir vun allem en Androck kritt.",
-    "t": 431.22
+    "t": 430.58
    },
    {
     "speaker": "Tom",
     "text": "A wat kënne mer soss nach um Site fannen?",
-    "t": 439.61
+    "t": 438.97
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt eng Säit mat heefeg gestallte Froen, déi ganz kloer ass. Et ginn Neiegkeeten an Evenementer, an och Aarbechtsoffere fir Leit, déi gär an engem Club géife schaffen.",
-    "t": 441.42
+    "t": 440.78
    },
    {
     "speaker": "Tom",
     "text": "A wann ech no all deem nach eng Fro hunn?",
-    "t": 450.72
+    "t": 450.08
    },
    {
     "speaker": "Anna",
     "text": "Da kënnt Dir un déi national Koordinatioun vun de Clibb schreiwen. D'Adress ass contact at clubaktivplus Punkt l-u.",
-    "t": 453.3
+    "t": 452.66
    },
    {
     "speaker": "Tom",
     "text": "Loosst mech eng lescht Fro stellen. Firwat sinn dës Clibb esou wichteg?",
-    "t": 460.69
+    "t": 460.05
    },
    {
     "speaker": "Anna",
     "text": "Well ze vill eleng sinn fir kee gutt ass. D'Clibb wëllen Einsamkeet virbeugen, an de Leit hëllefen, aktiv ze bleiwen an Deel vun der Gesellschaft ze bleiwen.",
-    "t": 464.68
+    "t": 464.04
    },
    {
     "speaker": "Tom",
     "text": "A fir een, deen nei zu Lëtzebuerg ass, ass et och en einfache Wee, Leit aus der Regioun kennenzeléieren.",
-    "t": 473.94
+    "t": 473.3
    },
    {
     "speaker": "Anna",
     "text": "Jo. Et deelt een eng Aktivitéit, et schwätzt ee mateneen, a lues a lues kennt ee Leit.",
-    "t": 479.4
+    "t": 478.76
    },
    {
     "speaker": "Tom",
     "text": "Faasse mer dat alles zesummen. Wat soll ee sech mierken?",
-    "t": 484.45
+    "t": 483.81
    },
    {
     "speaker": "Anna",
     "text": "Éischtens: D'Club Aktiv Plus si Plazen, wou sech Leit treffen, déi ronderëm de Pensiounsalter aktiv bleiwe wëllen, ouni Altersgrenz.",
-    "t": 487.43
+    "t": 486.79
    },
    {
     "speaker": "Tom",
     "text": "Zweetens: Et gi méi wéi zwanzeg dovun am ganze Land, an Dir sidd an all Club wëllkomm, egal wou Dir wunnt.",
-    "t": 495.12
+    "t": 494.48
    },
    {
     "speaker": "Anna",
     "text": "Drëttens: D'Auswiel ass grouss, vu Sport an Ausflich bis bei Sproochecoursen a Computercoursen. Déi meescht Aktivitéite kaschten eppes, an e puer si gratis.",
-    "t": 501.63
+    "t": 500.99
    },
    {
     "speaker": "Tom",
     "text": "A véiertens: Fir matzemaachen, kuckt Dir Iech de Programm vun engem Club un a kontaktéiert dee Club direkt.",
-    "t": 510.23
+    "t": 509.59
    },
    {
     "speaker": "Anna",
     "text": "All d'Clibb an hir Programmer fannt Dir op clubaktivplus Punkt l-u.",
-    "t": 516.8
+    "t": 516.16
    },
    {
     "speaker": "Tom",
     "text": "Bleift aktiv, bleift virwëtzeg, a bleift a gudder Gesellschaft.",
-    "t": 521.36
+    "t": 520.72
    },
    {
     "speaker": "Anna",
     "text": "A firwat net direkt dëse Mount eng Aktivitéit ausprobéieren? Dat war eis Episode iwwer d'Club Aktiv Plus. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
-    "t": 524.75
+    "t": 524.11
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 571.96
+    "t": 571.32
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 575.27
+    "t": 574.63
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "key": "activitesseniors",
+  "number": "Episode 48",
+  "title": "Who Does What for Seniors? – Organisations Worth Knowing",
+  "description": "GERO, Amiperas, GoldenMe, Super Senior, Iris, the Info-Zenter Demenz, the Alzheimer association, Stëftung Hëllef Doheem, Omega 90, Mäi Wëllen Mäi Wee: who are they, and what do they do? A short tour of the approved \"senior activities\" services, all listed together on infosenior.public.lu.",
+  "audio": "podcast_activitesseniors.mp3",
+  "duration": 749.3,
+  "topics": [
+   "The \"Senior activities\" section of Info-Seniors",
+   "GERO: learning, training and research on ageing",
+   "Amiperas Generatiounstreff and GoldenMe",
+   "Super Senior: seniors help children",
+   "Iris: volunteers against loneliness",
+   "Memory and dementia: two services",
+   "Berodungsdëngscht: support for family carers",
+   "Omega 90 and Mäi Wëllen, Mäi Wee"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome!",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "I have a question to start with, Anna.",
+    "t": 27.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "If your mother or your grandfather needed some support, would you know which organisation to call?",
+    "t": 29.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "To be honest, not always.",
+    "t": 34.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are many names, and it is not easy to know who does what.",
+    "t": 36.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "That is exactly today's topic.",
+    "t": 40.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "We are going to present organisations in Luxembourg that work for older people and for their families.",
+    "t": 42.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the good news is that all of them are listed together in one place, on a website called Info-Seniors.",
+    "t": 47.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "The address is infosenior dot public dot l-u.",
+    "t": 54.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is the public register of services for older people, and it is run by the Ministry of Family Affairs.",
+    "t": 57.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "We already made a full episode about this website.",
+    "t": 63.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can find it in our list of episodes, under the name Info-Seniors.",
+    "t": 66.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "So what are we going to do differently in today's episode?",
+    "t": 71.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Today we open one section of that website.",
+    "t": 74.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is called \"Senior activities\", and at the time of this recording it lists ten services.",
+    "t": 77.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "The name \"Senior activities\" makes me think of gymnastics and card games.",
+    "t": 83.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Is that what this section is about?",
+    "t": 87.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Not only. In this register, the term is much wider.",
+    "t": 89.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "It covers services that inform, advise, train and accompany older people and the people close to them.",
+    "t": 93.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what do these ten services have in common?",
+    "t": 101.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Each one has an official approval from the ministry.",
+    "t": 103.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Its page in the register shows its contact details and its documents, so everything is transparent.",
+    "t": 106.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ten names are a lot to remember.",
+    "t": 112.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "How shall we go through them?",
+    "t": 114.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "We will sort them into five small groups: staying active and learning, feeling less alone, memory and dementia, help for family carers, and the end of life.",
+    "t": 116.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's start with staying active and learning.",
+    "t": 126.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Which organisation comes first?",
+    "t": 129.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "The first one is GERO, the competence centre for old age.",
+    "t": 131.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is based in Luxembourg City.",
+    "t": 135.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what does GERO do for people in everyday life?",
+    "t": 137.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "GERO informs and trains people on everything about ageing.",
+    "t": 139.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is that we can live this stage of life actively and with a calm mind.",
+    "t": 143.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "I have heard that GERO has several departments.",
+    "t": 148.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, it has three.",
+    "t": 151.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "The first is called geroAKTIV.",
+    "t": 152.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is for people aged sixty and over, with activities, talks, seminars and courses, so that learning never stops.",
+    "t": 154.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what do the other two departments do?",
+    "t": 162.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "The second one, geroPRO, offers practical training to professionals who work with older people.",
+    "t": 164.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "The third one, geroRESEARCH, does applied research on ageing.",
+    "t": 170.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "So GERO works for seniors, for professionals, and for knowledge.",
+    "t": 175.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Which organisation is next in this group?",
+    "t": 179.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Next is the Generatiounstreff of Amiperas, in Luxembourg City, in the district of Bonnevoie.",
+    "t": 181.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Amiperas is an association for people who are retired, older or living alone.",
+    "t": 188.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Generatiounstreff means a meeting place for the generations.",
+    "t": 193.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "What happens there?",
+    "t": 196.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Three times a year, it publishes a programme of activities.",
+    "t": 198.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are creative workshops, cooking, gentle sport and walks, culture and music, day trips and journeys.",
+    "t": 201.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Is it only a place for leisure, or is there more?",
+    "t": 210.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is more.",
+    "t": 212.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can also get information and advice there, for example about retirement, about digital tools or about administrative steps.",
+    "t": 213.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "And there are projects between generations and between cultures.",
+    "t": 222.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "That sounds like a friendly address.",
+    "t": 225.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what is the third name in this group?",
+    "t": 227.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "The third one is GoldenMe.",
+    "t": 230.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "This association helps older people to feel at home in the digital world.",
+    "t": 232.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "So that means computers, smartphones and the internet.",
+    "t": 237.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes. GoldenMe offers information, courses and events for people who did not grow up with these tools, so that they gain basic digital skills.",
+    "t": 240.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "I like that, because so many services are online today.",
+    "t": 249.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "And GoldenMe gives special attention to generations working together.",
+    "t": 252.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Younger and older people learn from each other.",
+    "t": 256.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is one more name in this first group, and I find it wonderful: Super Senior.",
+    "t": 259.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Super Senior is a service of the association MEC, which is based in Echternach.",
+    "t": 264.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "And here, the seniors are the ones who help.",
+    "t": 269.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Whom do the seniors help, and how does it work?",
+    "t": 272.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "The association looks for seniors who help children in primary school with their homework.",
+    "t": 274.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is school support between generations.",
+    "t": 279.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "So a retired person shares time and patience, and a child gains confidence.",
+    "t": 282.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactly, and both sides win.",
+    "t": 286.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Now let's move to the second group: feeling less alone.",
+    "t": 289.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Loneliness can touch anyone, and very often nobody sees it.",
+    "t": 292.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is why the Luxembourg Red Cross has a service called Iris.",
+    "t": 296.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "It accompanies every person who is touched by loneliness.",
+    "t": 300.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "And how does the Iris service do that in practice?",
+    "t": 303.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Iris trains volunteers.",
+    "t": 306.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "These volunteers then offer their presence regularly to a person who feels isolated.",
+    "t": 308.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "They come back again and again, and a real link can grow.",
+    "t": 313.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Is the Iris service only for older people?",
+    "t": 318.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "No. Iris makes no difference of age, culture or social background.",
+    "t": 320.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it has been doing this work for many years.",
+    "t": 324.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "So someone who has a little free time could also become a volunteer there.",
+    "t": 327.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, the volunteers are the heart of this service, and Iris prepares them well for their role.",
+    "t": 331.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Our third group is about memory and dementia.",
+    "t": 337.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Two services are listed here.",
+    "t": 339.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "The first one is the Info-Zenter Demenz.",
+    "t": 341.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is the national centre for information and consultation on all questions about memory problems and dementia.",
+    "t": 344.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "And who can contact the Info-Zenter Demenz?",
+    "t": 351.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Everyone can: people who have memory problems or dementia, their relatives, health professionals, and anyone who is simply interested.",
+    "t": 353.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "And all the consultations and documents are free.",
+    "t": 361.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "We also have a full episode about the Info-Zenter Demenz, for those who want to know more.",
+    "t": 364.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "The second service has a French name, \"Accompagnement et Conseil\", which means support and advice.",
+    "t": 369.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "It belongs to the Association Luxembourg Alzheimer.",
+    "t": 375.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "What is the difference between this service and the information centre?",
+    "t": 379.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "This service goes one step further into daily life.",
+    "t": 383.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "It gives practical advice about dementia, and it puts families in contact with the right services.",
+    "t": 386.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Families often become very tired when they care for someone with dementia.",
+    "t": 392.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, and the service explains to relatives how they can get some relief.",
+    "t": 396.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Together with them, it builds a solution that fits their needs.",
+    "t": 401
+   },
+   {
+    "speaker": "Tom",
+    "text": "Does it also help families with the paperwork?",
+    "t": 404.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "It does. It helps with administrative steps, and it organises and coordinates the help that is needed within the long-term care insurance.",
+    "t": 407.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "That brings us to the fourth group: the people who care for a family member at home.",
+    "t": 415.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Many older people are supported by a partner, a daughter, a son or a neighbour.",
+    "t": 420
+   },
+   {
+    "speaker": "Anna",
+    "text": "These carers do a lot, and they need support too.",
+    "t": 425.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Which service in the register is there for them?",
+    "t": 428.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is called the Berodungsdëngscht, which means advice service.",
+    "t": 430.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "It belongs to the foundation Stëftung Hëllef Doheem, which provides help and care at home.",
+    "t": 434.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what does this advice service offer?",
+    "t": 439.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "It offers training courses for carers, information and consultations.",
+    "t": 441.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Its team of specialists can also give psychological support, and advice from occupational therapists, physiotherapists and dietitians.",
+    "t": 446.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "What is the goal behind all this work?",
+    "t": 455.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "The goal is that a person can stay at home as long as possible, with as much independence as possible.",
+    "t": 457.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the family is supported socially, physically and emotionally.",
+    "t": 463.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Now we come to the last group.",
+    "t": 467.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "It is a more serious subject: serious illness, the end of life, and grief.",
+    "t": 469.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is not easy to talk about, but it belongs to life.",
+    "t": 474.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "And two organisations in the register are there for these moments.",
+    "t": 477.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "The first one is Omega 90.",
+    "t": 481.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "I think many people in Luxembourg have heard this name.",
+    "t": 483.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Omega 90 is a non-profit association, created in 1990 and recognised as being of public utility.",
+    "t": 486.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "It accompanies people with a serious illness, people at the end of their life, their families, and people who are grieving.",
+    "t": 493.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "What does Omega 90 do in practice?",
+    "t": 501.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "It runs Haus Omega, a centre for palliative care.",
+    "t": 503.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "There, the aim is to ease suffering, so that people have the best possible quality of life in the last phase of their life.",
+    "t": 506.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what is there for people who are not staying in Haus Omega?",
+    "t": 514.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Omega 90 offers psychological and social consultations, for patients, for their relatives, and for people in mourning.",
+    "t": 517.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "It also trains professionals in palliative care.",
+    "t": 524.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Are volunteers involved here as well?",
+    "t": 528.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes. Omega 90 leads a network of volunteers who accompany people at the end of life.",
+    "t": 530.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "It trains them and supports them during all their time as volunteers.",
+    "t": 536.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what is the second organisation in this group?",
+    "t": 540.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is called Mäi Wëllen, Mäi Wee.",
+    "t": 543.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "In English, that means: my will, my way.",
+    "t": 545.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is the association for the right to die in dignity, and it is also recognised as being of public utility.",
+    "t": 549.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "What is the role of this association?",
+    "t": 556.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "It informs the public about the Luxembourg law of 2009 on euthanasia and assisted suicide.",
+    "t": 559.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it reminds us how important it is to talk about our wishes for the end of life with our family and with our family doctor.",
+    "t": 566.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "So it is first of all about information, and about talking in good time.",
+    "t": 574.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes. The association also keeps in contact with doctors, who sometimes have questions on this subject.",
+    "t": 578.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it accompanies each person in their own reflection and their own decisions.",
+    "t": 584.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, Anna.",
+    "t": 588.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "That was ten services.",
+    "t": 589.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "How can our listeners find them again?",
+    "t": 591.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Go to infosenior dot public dot l-u and choose \"Senior activities\".",
+    "t": 593.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "The website exists in French and in German.",
+    "t": 598.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Right next to it, there is also a section for the Clubs Aktiv Plus, the activity clubs all around the country.",
+    "t": 601.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what do we see for each service?",
+    "t": 607.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "You see a short description, the address, the phone number, the email address and the website.",
+    "t": 609.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is also a map, and documents such as the service brochure or the annual report.",
+    "t": 615.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Do I need to be a senior myself to contact one of these services?",
+    "t": 621.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Not at all.",
+    "t": 624.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Many of them are also there for families, for carers, for volunteers and for professionals.",
+    "t": 625.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you are not sure, simply call and ask.",
+    "t": 632.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "And I imagine that this list can change over time.",
+    "t": 634.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, services can be added and details are updated, so the website is always the best place to check.",
+    "t": 637.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's bring it together.",
+    "t": 644.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "What should people remember?",
+    "t": 645.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "First: to stay active, to learn and to meet people, there are GERO, the Generatiounstreff of Amiperas, GoldenMe for the digital world, and Super Senior, where seniors help children.",
+    "t": 647.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second: against loneliness, there is Iris, the service of the Red Cross with its volunteers.",
+    "t": 661.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third: for memory problems and dementia, there are the Info-Zenter Demenz and the support and advice service of the Association Luxembourg Alzheimer.",
+    "t": 666.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fourth: family carers find training and advice at the Berodungsdëngscht of Stëftung Hëllef Doheem.",
+    "t": 676.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fifth: around serious illness, the end of life and grief, there are Omega 90 and Mäi Wëllen, Mäi Wee.",
+    "t": 683.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "And all of them are together in one place, on infosenior dot public dot l-u.",
+    "t": 690.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nobody has to go through these moments alone.",
+    "t": 695.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "That was our episode about the organisations that work for seniors in Luxembourg.",
+    "t": 698.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 703.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 712.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 730.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 737.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 739.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 744.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care, and see you next time!",
+    "t": 745.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 747.7
+   }
+  ],
+  "questions": [
+   {
+    "text": "Where are all the organisations of this episode listed together?",
+    "options": [
+     "On the website of each commune, under local news",
+     "On infosenior.public.lu, the public register of services for older people",
+     "In a printed guide that is sold in bookshops",
+     "On the website of the Luxembourg tax administration"
+    ],
+    "correct": 1,
+    "explanation": "The \"Senior activities\" section of infosenior.public.lu lists these approved services, each with a description, contact details, a map and documents. The register is run by the Ministry of Family Affairs."
+   },
+   {
+    "text": "What does the association GoldenMe do?",
+    "options": [
+     "It delivers warm meals to people at home",
+     "It organises pilgrimages for retired people",
+     "It manages the pensions of former civil servants",
+     "It helps older people to feel at home in the digital world"
+    ],
+    "correct": 3,
+    "explanation": "GoldenMe offers information, courses and events so that people who did not grow up with digital tools gain basic digital skills. It gives special attention to generations working together."
+   },
+   {
+    "text": "Who helps whom in the service \"Super Senior\"?",
+    "options": [
+     "Children teach seniors how to use a smartphone",
+     "Doctors visit seniors who live alone",
+     "Seniors help primary school children with their homework",
+     "Seniors help other seniors to move house"
+    ],
+    "correct": 2,
+    "explanation": "Super Senior is a service of the association MEC in Echternach. It looks for seniors who help children in primary school with their homework: school support between generations."
+   },
+   {
+    "text": "What does the Iris service of the Luxembourg Red Cross offer?",
+    "options": [
+     "Trained volunteers who regularly spend time with people who feel isolated",
+     "A telealarm button for emergencies at home",
+     "Free legal advice about inheritance",
+     "Language courses for cross-border workers"
+    ],
+    "correct": 0,
+    "explanation": "Iris accompanies every person who is touched by loneliness, with no difference of age, culture or social background. It trains volunteers who offer their presence regularly."
+   },
+   {
+    "text": "Which service is especially there for people who care for a family member at home?",
+    "options": [
+     "geroRESEARCH, the research department of GERO",
+     "Haus Omega, the palliative care centre",
+     "The Generatiounstreff in Bonnevoie",
+     "The Berodungsdëngscht of Stëftung Hëllef Doheem"
+    ],
+    "correct": 3,
+    "explanation": "The Berodungsdëngscht (advice service) of Stëftung Hëllef Doheem offers training for carers, information, consultations and psychological support, so that a person can stay at home as long as possible."
+   }
+  ],
+  "categories": [
+   "seniors",
+   "social"
+  ],
+  "title_fr": "Qui fait quoi pour les seniors ? – Des organisations à connaître",
+  "description_fr": "GERO, Amiperas, GoldenMe, Super Senior, Iris, l'Info-Zenter Demenz, l'Association Luxembourg Alzheimer, la Stëftung Hëllef Doheem, Omega 90, Mäi Wëllen Mäi Wee : qui sont-ils, et que font-ils ? Un petit tour des services agréés « Activités seniors », tous regroupés sur infosenior.public.lu.",
+  "topics_fr": [
+   "La rubrique « Activités seniors » d'Info-Seniors",
+   "GERO : apprendre, former et rechercher sur le vieillissement",
+   "Amiperas Generatiounstreff et GoldenMe",
+   "Super Senior : des seniors aident des enfants",
+   "Iris : des bénévoles contre la solitude",
+   "Mémoire et démence : deux services",
+   "Berodungsdëngscht : le soutien aux aidants familiaux",
+   "Omega 90 et Mäi Wëllen, Mäi Wee"
+  ],
+  "questions_fr": [
+   {
+    "text": "Où toutes les organisations de cet épisode sont-elles regroupées ?",
+    "options": [
+     "Sur le site de chaque commune, dans les actualités locales",
+     "Sur infosenior.public.lu, le registre public des services pour personnes âgées",
+     "Dans un guide imprimé vendu en librairie",
+     "Sur le site de l'administration des contributions"
+    ],
+    "correct": 1,
+    "explanation": "La rubrique « Activités seniors » d'infosenior.public.lu présente ces services agréés, chacun avec une description, des coordonnées, une carte et des documents. Le registre est géré par le ministère de la Famille."
+   },
+   {
+    "text": "Que fait l'association GoldenMe ?",
+    "options": [
+     "Elle livre des repas chauds à domicile",
+     "Elle organise des pèlerinages pour les retraités",
+     "Elle gère les pensions des anciens fonctionnaires",
+     "Elle aide les personnes âgées à se sentir à l'aise dans le monde numérique"
+    ],
+    "correct": 3,
+    "explanation": "GoldenMe propose des informations, des cours et des événements pour que les personnes qui n'ont pas grandi avec les outils numériques acquièrent des compétences de base. Elle accorde une attention particulière à la collaboration entre les générations."
+   },
+   {
+    "text": "Qui aide qui dans le service « Super Senior » ?",
+    "options": [
+     "Des enfants apprennent aux seniors à utiliser un smartphone",
+     "Des médecins rendent visite aux seniors qui vivent seuls",
+     "Des seniors aident des enfants de l'école fondamentale à faire leurs devoirs",
+     "Des seniors aident d'autres seniors à déménager"
+    ],
+    "correct": 2,
+    "explanation": "Super Senior est un service de l'association MEC à Echternach. Elle cherche des seniors qui aident des enfants de l'école fondamentale à faire leurs devoirs : un accompagnement scolaire entre les générations."
+   },
+   {
+    "text": "Que propose le service Iris de la Croix-Rouge luxembourgeoise ?",
+    "options": [
+     "Des bénévoles formés qui offrent une présence régulière aux personnes isolées",
+     "Un bouton de téléalarme pour les urgences à domicile",
+     "Des conseils juridiques gratuits sur les successions",
+     "Des cours de langues pour les frontaliers"
+    ],
+    "correct": 0,
+    "explanation": "Iris accompagne toute personne touchée par la solitude, sans distinction d'âge, de culture ou de milieu social. Le service forme des bénévoles qui offrent leur présence régulière."
+   },
+   {
+    "text": "Quel service est là en particulier pour les personnes qui s'occupent d'un proche à la maison ?",
+    "options": [
+     "geroRESEARCH, le département de recherche de GERO",
+     "Le Haus Omega, le centre de soins palliatifs",
+     "Le Generatiounstreff à Bonnevoie",
+     "Le Berodungsdëngscht de la Stëftung Hëllef Doheem"
+    ],
+    "correct": 3,
+    "explanation": "Le Berodungsdëngscht (service de conseil) de la Stëftung Hëllef Doheem propose des formations pour les aidants, des informations, des consultations et un soutien psychologique, pour qu'une personne puisse rester chez elle le plus longtemps possible."
+   }
+  ],
+  "title_de": "Wer macht was für Senioren? – Organisationen, die man kennen sollte",
+  "description_de": "GERO, Amiperas, GoldenMe, Super Senior, Iris, das Info-Zenter Demenz, die Association Luxembourg Alzheimer, die Stëftung Hëllef Doheem, Omega 90, Mäi Wëllen Mäi Wee: Wer sind sie, und was machen sie? Ein kurzer Rundgang durch die zugelassenen Dienste der Rubrik „Aktivitäten für Senioren“, alle zusammen auf infosenior.public.lu.",
+  "topics_de": [
+   "Die Rubrik „Aktivitäten für Senioren“ von Info-Seniors",
+   "GERO: Lernen, Weiterbildung und Forschung zum Älterwerden",
+   "Amiperas Generatiounstreff und GoldenMe",
+   "Super Senior: Senioren helfen Kindern",
+   "Iris: Freiwillige gegen die Einsamkeit",
+   "Gedächtnis und Demenz: zwei Dienste",
+   "Berodungsdëngscht: Unterstützung für pflegende Angehörige",
+   "Omega 90 und Mäi Wëllen, Mäi Wee"
+  ],
+  "questions_de": [
+   {
+    "text": "Wo stehen alle Organisationen dieser Folge zusammen?",
+    "options": [
+     "Auf der Webseite jeder Gemeinde, bei den lokalen Nachrichten",
+     "Auf infosenior.public.lu, dem öffentlichen Register der Dienste für ältere Menschen",
+     "In einem gedruckten Ratgeber, der im Buchhandel verkauft wird",
+     "Auf der Webseite der Steuerverwaltung"
+    ],
+    "correct": 1,
+    "explanation": "Die Rubrik „Aktivitäten für Senioren“ auf infosenior.public.lu zeigt diese zugelassenen Dienste, jeweils mit Beschreibung, Kontaktdaten, Karte und Dokumenten. Das Register wird vom Familienministerium geführt."
+   },
+   {
+    "text": "Was macht der Verein GoldenMe?",
+    "options": [
+     "Er liefert warme Mahlzeiten nach Hause",
+     "Er organisiert Pilgerreisen für Pensionierte",
+     "Er verwaltet die Pensionen ehemaliger Beamter",
+     "Er hilft älteren Menschen, sich in der digitalen Welt wohlzufühlen"
+    ],
+    "correct": 3,
+    "explanation": "GoldenMe bietet Informationen, Kurse und Veranstaltungen, damit Menschen, die nicht mit digitalen Geräten aufgewachsen sind, Grundkenntnisse erwerben. Der Verein achtet besonders auf die Zusammenarbeit zwischen den Generationen."
+   },
+   {
+    "text": "Wer hilft wem beim Dienst „Super Senior“?",
+    "options": [
+     "Kinder zeigen Senioren, wie ein Smartphone funktioniert",
+     "Ärzte besuchen Senioren, die allein leben",
+     "Senioren helfen Grundschulkindern bei den Hausaufgaben",
+     "Senioren helfen anderen Senioren beim Umzug"
+    ],
+    "correct": 2,
+    "explanation": "Super Senior ist ein Dienst des Vereins MEC in Echternach. Er sucht Senioren, die Kindern aus der Grundschule bei den Hausaufgaben helfen: Lernbegleitung zwischen den Generationen."
+   },
+   {
+    "text": "Was bietet der Dienst Iris des Luxemburger Roten Kreuzes?",
+    "options": [
+     "Ausgebildete Freiwillige, die isolierten Menschen regelmäßig ihre Anwesenheit schenken",
+     "Einen Telealarm-Knopf für Notfälle zu Hause",
+     "Kostenlose Rechtsberatung zu Erbschaften",
+     "Sprachkurse für Grenzgänger"
+    ],
+    "correct": 0,
+    "explanation": "Iris begleitet jeden Menschen, der von Einsamkeit betroffen ist, ohne Unterschied nach Alter, Kultur oder sozialer Herkunft. Der Dienst bildet Freiwillige aus, die regelmäßig da sind."
+   },
+   {
+    "text": "Welcher Dienst ist besonders für Menschen da, die ein Familienmitglied zu Hause pflegen?",
+    "options": [
+     "geroRESEARCH, die Forschungsabteilung von GERO",
+     "Das Haus Omega, das Zentrum für Palliativpflege",
+     "Der Generatiounstreff in Bonneweg",
+     "Der Berodungsdëngscht der Stëftung Hëllef Doheem"
+    ],
+    "correct": 3,
+    "explanation": "Der Berodungsdëngscht (Beratungsdienst) der Stëftung Hëllef Doheem bietet Schulungen für pflegende Angehörige, Informationen, Beratungen und psychologische Unterstützung, damit ein Mensch so lange wie möglich zu Hause bleiben kann."
+   }
+  ],
+  "audio_fr": "podcast_activitesseniors_fr.mp3",
+  "duration_fr": 688.2,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à tous !",
+    "t": 4.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 6.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "J'ai une question pour commencer, Anna.",
+    "t": 23.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si votre mère ou votre grand-père avait besoin de soutien, sauriez-vous quelle organisation appeler ?",
+    "t": 25.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pour être sincère, pas toujours.",
+    "t": 30.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a beaucoup de noms, et il n'est pas facile de savoir qui fait quoi.",
+    "t": 31.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est exactement le sujet d'aujourd'hui.",
+    "t": 35.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nous allons présenter des organisations au Luxembourg qui travaillent pour les personnes âgées et pour leurs familles.",
+    "t": 37.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et la bonne nouvelle, c'est qu'elles sont toutes regroupées au même endroit, sur un site web appelé Info-Seniors.",
+    "t": 43.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'adresse est infosenior point public point l-u.",
+    "t": 48.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est le registre public des services pour personnes âgées, et il est géré par le ministère de la Famille.",
+    "t": 51.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous avons déjà fait un épisode complet sur ce site web.",
+    "t": 56.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous le trouverez dans notre liste d'épisodes, sous le nom Info-Seniors.",
+    "t": 59.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors, qu'allons-nous faire de différent dans l'épisode d'aujourd'hui ?",
+    "t": 63.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aujourd'hui, nous ouvrons une rubrique de ce site.",
+    "t": 67.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle s'appelle « Activités seniors », et au moment de cet enregistrement, elle présente dix services.",
+    "t": 69.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le nom « Activités seniors » me fait penser à la gymnastique et aux jeux de cartes.",
+    "t": 74.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Est-ce bien le sujet de cette rubrique ?",
+    "t": 79.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pas seulement. Dans ce registre, le terme est beaucoup plus large.",
+    "t": 81.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il couvre des services qui informent, conseillent, forment et accompagnent les personnes âgées et leurs proches.",
+    "t": 84.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et qu'est-ce que ces dix services ont en commun ?",
+    "t": 90.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Chacun a un agrément officiel du ministère.",
+    "t": 93.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sa page dans le registre montre ses coordonnées et ses documents, donc tout est transparent.",
+    "t": 95.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dix noms, c'est beaucoup à retenir.",
+    "t": 100.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Comment allons-nous les parcourir ?",
+    "t": 102.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nous allons les ranger en cinq petits groupes : rester actif et apprendre, se sentir moins seul, la mémoire et la démence, l'aide aux aidants familiaux, et la fin de vie.",
+    "t": 104.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Commençons par rester actif et apprendre.",
+    "t": 112.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quelle organisation vient en premier ?",
+    "t": 115.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "La première est GERO, le centre de compétences pour l'âge.",
+    "t": 117.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il se trouve à Luxembourg-ville.",
+    "t": 120.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et que fait GERO pour les gens dans la vie de tous les jours ?",
+    "t": 122.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "GERO informe et forme sur tout ce qui concerne le vieillissement.",
+    "t": 126.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est que nous puissions vivre cette étape de la vie de façon active et avec sérénité.",
+    "t": 129.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "J'ai entendu dire que GERO a plusieurs départements.",
+    "t": 134.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, il en a trois.",
+    "t": 137.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le premier s'appelle geroAKTIV.",
+    "t": 138.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il s'adresse aux personnes de soixante ans et plus, avec des activités, des conférences, des séminaires et des cours, pour apprendre tout au long de la vie.",
+    "t": 140.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et que font les deux autres départements ?",
+    "t": 147.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le deuxième, geroPRO, propose des formations pratiques aux professionnels qui travaillent avec des personnes âgées.",
+    "t": 150.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le troisième, geroRESEARCH, fait de la recherche appliquée sur le vieillissement.",
+    "t": 155.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc GERO travaille pour les seniors, pour les professionnels et pour la connaissance.",
+    "t": 159.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quelle organisation vient ensuite dans ce groupe ?",
+    "t": 164.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, il y a le Generatiounstreff d'Amiperas, à Luxembourg-ville, dans le quartier de Bonnevoie.",
+    "t": 166.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Amiperas est une amicale pour les personnes retraitées, âgées ou qui vivent seules.",
+    "t": 172.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Generatiounstreff veut dire un lieu de rencontre pour les générations.",
+    "t": 176.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que se passe-t-il là-bas ?",
+    "t": 180.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Trois fois par an, il publie un programme d'activités.",
+    "t": 182.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a des ateliers créatifs, de la cuisine, du sport adapté et des promenades, de la culture et de la musique, des excursions et des voyages.",
+    "t": 185.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Est-ce seulement un lieu de loisirs, ou y a-t-il autre chose ?",
+    "t": 193.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a autre chose.",
+    "t": 196.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "On peut aussi y recevoir des informations et des conseils, par exemple sur la retraite, sur le numérique ou sur les démarches administratives.",
+    "t": 197.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il y a des projets entre les générations et entre les cultures.",
+    "t": 205.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela ressemble à une adresse très conviviale.",
+    "t": 208.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quel est le troisième nom de ce groupe ?",
+    "t": 210.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le troisième est GoldenMe.",
+    "t": 213.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cette association aide les personnes âgées à se sentir à l'aise dans le monde numérique.",
+    "t": 214.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela veut donc dire les ordinateurs, les smartphones et internet.",
+    "t": 219.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui. GoldenMe propose des informations, des cours et des événements pour les personnes qui n'ont pas grandi avec ces outils, afin qu'elles acquièrent des compétences numériques de base.",
+    "t": 223.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "J'aime cette idée, parce que tant de services sont en ligne aujourd'hui.",
+    "t": 231.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et GoldenMe accorde une attention particulière à la collaboration entre les générations.",
+    "t": 235.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les plus jeunes et les plus âgés apprennent les uns des autres.",
+    "t": 239.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il reste un nom dans ce premier groupe, et je le trouve formidable : Super Senior.",
+    "t": 242.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Super Senior est un service de l'association MEC, qui se trouve à Echternach.",
+    "t": 247.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ici, ce sont les seniors qui aident.",
+    "t": 251.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Qui les seniors aident-ils, et comment cela fonctionne-t-il ?",
+    "t": 253.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'association cherche des seniors qui aident des enfants de l'école fondamentale à faire leurs devoirs.",
+    "t": 257.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un accompagnement scolaire entre les générations.",
+    "t": 261.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une personne retraitée partage donc son temps et sa patience, et un enfant gagne en confiance.",
+    "t": 264.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactement, et tout le monde y gagne.",
+    "t": 269.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Passons maintenant au deuxième groupe : se sentir moins seul.",
+    "t": 271.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "La solitude peut toucher tout le monde, et très souvent personne ne la voit.",
+    "t": 275
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est pourquoi la Croix-Rouge luxembourgeoise a un service appelé Iris.",
+    "t": 279.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il accompagne toute personne touchée par la solitude.",
+    "t": 282.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et comment le service Iris fait-il cela concrètement ?",
+    "t": 285.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Iris forme des bénévoles.",
+    "t": 288.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ces bénévoles offrent ensuite leur présence régulière à une personne qui se sent isolée.",
+    "t": 289.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils reviennent encore et encore, et un vrai lien peut se créer.",
+    "t": 294.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Le service Iris est-il réservé aux personnes âgées ?",
+    "t": 297.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Non. Iris ne fait aucune distinction d'âge, de culture ou de milieu social.",
+    "t": 300.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il fait ce travail depuis de nombreuses années.",
+    "t": 305.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une personne qui a un peu de temps libre pourrait donc aussi y devenir bénévole.",
+    "t": 307.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, les bénévoles sont le cœur de ce service, et Iris les prépare bien à leur rôle.",
+    "t": 311.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Notre troisième groupe concerne la mémoire et la démence.",
+    "t": 315.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deux services figurent ici.",
+    "t": 319.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le premier est l'Info-Zenter Demenz.",
+    "t": 320.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est le centre national d'information et de consultation pour toutes les questions sur les troubles de la mémoire et la démence.",
+    "t": 323.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et qui peut contacter l'Info-Zenter Demenz ?",
+    "t": 328.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Tout le monde : les personnes qui ont des troubles de la mémoire ou une démence, leurs proches, les professionnels de santé et toute personne simplement intéressée.",
+    "t": 331.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et toutes les consultations et tous les documents sont gratuits.",
+    "t": 339.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nous avons aussi un épisode complet sur l'Info-Zenter Demenz, pour celles et ceux qui veulent en savoir plus.",
+    "t": 342.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le deuxième service s'appelle « Accompagnement et Conseil ».",
+    "t": 348.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il appartient à l'Association Luxembourg Alzheimer.",
+    "t": 351.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quelle est la différence entre ce service et le centre d'information ?",
+    "t": 354.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce service va un pas plus loin dans la vie quotidienne.",
+    "t": 357.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il donne des conseils pratiques sur la démence, et il met les familles en contact avec les bons services.",
+    "t": 360.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Les familles se fatiguent souvent beaucoup quand elles s'occupent d'une personne atteinte de démence.",
+    "t": 365.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, et le service explique aux proches comment ils peuvent se faire relayer.",
+    "t": 369.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Avec eux, il met en place une solution adaptée à leurs besoins.",
+    "t": 373.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aide-t-il aussi les familles pour les papiers ?",
+    "t": 376.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui. Il aide pour les démarches administratives, et il organise et coordonne les aides nécessaires dans le cadre de l'assurance dépendance.",
+    "t": 378.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela nous amène au quatrième groupe : les personnes qui s'occupent d'un membre de leur famille à la maison.",
+    "t": 385.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Beaucoup de personnes âgées sont soutenues par un conjoint, une fille, un fils ou un voisin.",
+    "t": 391.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ces aidants font beaucoup, et ils ont eux aussi besoin de soutien.",
+    "t": 395.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quel service du registre est là pour eux ?",
+    "t": 399.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il s'appelle le Berodungsdëngscht, ce qui veut dire service de conseil.",
+    "t": 401.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il appartient à la fondation Stëftung Hëllef Doheem, qui propose des aides et des soins à domicile.",
+    "t": 406.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et que propose ce service de conseil ?",
+    "t": 411.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il propose des formations pour les aidants, des informations et des consultations.",
+    "t": 413.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Son équipe de spécialistes peut aussi offrir un soutien psychologique, ainsi que des conseils d'ergothérapeutes, de kinésithérapeutes et de diététiciens.",
+    "t": 417.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quel est le but de tout ce travail ?",
+    "t": 425.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le but est qu'une personne puisse rester chez elle le plus longtemps possible, avec le plus d'autonomie possible.",
+    "t": 427.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et la famille est soutenue sur le plan social, physique et psychique.",
+    "t": 432.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nous arrivons maintenant au dernier groupe.",
+    "t": 436.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est un sujet plus grave : la maladie grave, la fin de vie et le deuil.",
+    "t": 438.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il n'est pas facile d'en parler, mais cela fait partie de la vie.",
+    "t": 443.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et deux organisations du registre sont là pour ces moments.",
+    "t": 446.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "La première est Omega 90.",
+    "t": 449.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Je pense que beaucoup de gens au Luxembourg ont déjà entendu ce nom.",
+    "t": 451.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Omega 90 est une association sans but lucratif, créée en 1990 et reconnue d'utilité publique.",
+    "t": 455.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle accompagne les personnes atteintes d'une maladie grave, les personnes en fin de vie, leurs familles et les personnes en deuil.",
+    "t": 461.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que fait Omega 90 concrètement ?",
+    "t": 467.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle gère le Haus Omega, un centre de soins palliatifs.",
+    "t": 469.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Là, le but est d'alléger les souffrances, pour que les personnes aient la meilleure qualité de vie possible dans la dernière phase de leur vie.",
+    "t": 472.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et qu'y a-t-il pour les personnes qui ne séjournent pas au Haus Omega ?",
+    "t": 478.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Omega 90 propose des consultations psychologiques et sociales, pour les malades, pour leurs proches et pour les personnes en deuil.",
+    "t": 482.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle forme aussi des professionnels aux soins palliatifs.",
+    "t": 488.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Des bénévoles sont-ils engagés ici aussi ?",
+    "t": 491.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui. Omega 90 anime un réseau de bénévoles qui accompagnent des personnes en fin de vie.",
+    "t": 494.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle les forme et les soutient pendant toute la durée de leur bénévolat.",
+    "t": 499.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quelle est la deuxième organisation de ce groupe ?",
+    "t": 502.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle s'appelle Mäi Wëllen, Mäi Wee.",
+    "t": 505.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "En français, cela veut dire : ma volonté, mon chemin.",
+    "t": 507.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est l'association pour le droit de mourir en dignité, et elle est aussi reconnue d'utilité publique.",
+    "t": 510.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quel est le rôle de cette association ?",
+    "t": 515.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle informe le public sur la loi luxembourgeoise de 2009 sur l'euthanasie et l'assistance au suicide.",
+    "t": 518.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et elle rappelle combien il est important de parler de ses souhaits de fin de vie avec ses proches et avec son médecin de famille.",
+    "t": 523.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il s'agit donc d'abord d'information, et d'en parler à temps.",
+    "t": 528.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui. L'association garde aussi le contact avec les médecins, qui ont parfois des questions sur ce sujet.",
+    "t": 532.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et elle accompagne chaque personne dans ses propres réflexions et ses propres décisions.",
+    "t": 537.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci, Anna. Cela faisait dix services.",
+    "t": 541.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Comment nos auditeurs peuvent-ils les retrouver ?",
+    "t": 544.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Allez sur infosenior point public point l-u et choisissez « Activités seniors ».",
+    "t": 546.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le site existe en français et en allemand.",
+    "t": 551.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Juste à côté, il y a aussi une rubrique pour les Clubs Aktiv Plus, les clubs d'activités partout dans le pays.",
+    "t": 553.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et que voit-on pour chaque service ?",
+    "t": 558.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "On voit une courte description, l'adresse, le numéro de téléphone, l'adresse e-mail et le site web.",
+    "t": 560.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a aussi une carte, et des documents comme la brochure du service ou le rapport annuel.",
+    "t": 566.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Faut-il être soi-même senior pour contacter l'un de ces services ?",
+    "t": 570.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pas du tout.",
+    "t": 575.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Beaucoup d'entre eux sont aussi là pour les familles, pour les aidants, pour les bénévoles et pour les professionnels.",
+    "t": 576.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous n'êtes pas sûr, appelez simplement et posez la question.",
+    "t": 581.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et j'imagine que cette liste peut changer avec le temps.",
+    "t": 585.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, des services peuvent s'ajouter et les informations sont mises à jour, donc le site web reste toujours le meilleur endroit pour vérifier.",
+    "t": 588.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Résumons tout cela.",
+    "t": 594.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que faut-il retenir ?",
+    "t": 595.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Premièrement : pour rester actif, apprendre et rencontrer du monde, il y a GERO, le Generatiounstreff d'Amiperas, GoldenMe pour le monde numérique, et Super Senior, où des seniors aident des enfants.",
+    "t": 597.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement : contre la solitude, il y a Iris, le service de la Croix-Rouge avec ses bénévoles.",
+    "t": 607.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement : pour les troubles de la mémoire et la démence, il y a l'Info-Zenter Demenz et le service Accompagnement et Conseil de l'Association Luxembourg Alzheimer.",
+    "t": 613.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quatrièmement : les aidants familiaux trouvent des formations et des conseils au Berodungsdëngscht de la Stëftung Hëllef Doheem.",
+    "t": 621.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et cinquièmement : autour de la maladie grave, de la fin de vie et du deuil, il y a Omega 90 et Mäi Wëllen, Mäi Wee.",
+    "t": 629.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et tous sont regroupés au même endroit, sur infosenior point public point l-u.",
+    "t": 636.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Personne ne doit traverser ces moments tout seul.",
+    "t": 641.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'était notre épisode sur les organisations qui travaillent pour les seniors au Luxembourg.",
+    "t": 643.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 647.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 655.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 672.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 676.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 678.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 682.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous, et à la prochaine !",
+    "t": 684.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 686.42
+   }
+  ],
+  "audio_de": "podcast_activitesseniors_de.mp3",
+  "duration_de": 790.23,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 5.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich habe eine Frage zum Anfang, Anna.",
+    "t": 27.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn Ihre Mutter oder Ihr Großvater Unterstützung bräuchte, wüssten Sie, welche Organisation Sie anrufen sollen?",
+    "t": 30.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ehrlich gesagt, nicht immer.",
+    "t": 36.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt viele Namen, und es ist nicht leicht zu wissen, wer was macht.",
+    "t": 38.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Genau das ist unser Thema heute.",
+    "t": 42.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wir stellen Organisationen in Luxemburg vor, die für ältere Menschen und für ihre Familien arbeiten.",
+    "t": 44.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die gute Nachricht ist: Sie stehen alle zusammen an einem Ort, auf einer Webseite mit dem Namen Info-Seniors.",
+    "t": 49.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Adresse ist infosenior Punkt public Punkt l-u.",
+    "t": 57.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist das öffentliche Register der Dienste für ältere Menschen, und es wird vom Familienministerium geführt.",
+    "t": 61.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wir haben schon eine ganze Folge über diese Webseite gemacht.",
+    "t": 67.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie finden sie in unserer Liste der Folgen, unter dem Namen Info-Seniors.",
+    "t": 71.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was machen wir also in der heutigen Folge anders?",
+    "t": 75.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Heute öffnen wir eine Rubrik dieser Webseite.",
+    "t": 78.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie heißt „Aktivitäten für Senioren\", und zum Zeitpunkt dieser Aufnahme stehen dort zehn Dienste.",
+    "t": 81.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bei dem Namen „Aktivitäten für Senioren\" denke ich an Gymnastik und Kartenspiele.",
+    "t": 87.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Geht es in dieser Rubrik darum?",
+    "t": 92.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nicht nur. In diesem Register ist der Begriff viel weiter.",
+    "t": 94.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er umfasst Dienste, die ältere Menschen und ihre Angehörigen informieren, beraten, schulen und begleiten.",
+    "t": 98.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und was haben diese zehn Dienste gemeinsam?",
+    "t": 104.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jeder hat eine offizielle Zulassung des Ministeriums.",
+    "t": 107.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Seine Seite im Register zeigt seine Kontaktdaten und seine Dokumente, alles ist also transparent.",
+    "t": 110.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zehn Namen sind viel zum Merken.",
+    "t": 116.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie gehen wir sie durch?",
+    "t": 118.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wir ordnen sie in fünf kleine Gruppen: aktiv bleiben und lernen, sich weniger allein fühlen, Gedächtnis und Demenz, Hilfe für pflegende Angehörige, und das Lebensende.",
+    "t": 119.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Beginnen wir mit aktiv bleiben und lernen.",
+    "t": 130.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Welche Organisation kommt zuerst?",
+    "t": 133.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die erste ist GERO, der Kompetenzzenter fir den Alter, also das Kompetenzzentrum für das Alter.",
+    "t": 136
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es befindet sich in der Stadt Luxemburg.",
+    "t": 142.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und was macht GERO für die Menschen im Alltag?",
+    "t": 144.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "GERO informiert und schult zu allem, was mit dem Älterwerden zu tun hat.",
+    "t": 147.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist, dass wir diesen Lebensabschnitt aktiv und mit Gelassenheit leben können.",
+    "t": 151.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich habe gehört, dass GERO mehrere Abteilungen hat.",
+    "t": 156.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, es hat drei.",
+    "t": 159.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die erste heißt geroAKTIV.",
+    "t": 161.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie ist für Menschen ab sechzig Jahren, mit Aktivitäten, Vorträgen, Seminaren und Kursen, damit das Lernen nie aufhört.",
+    "t": 163.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und was machen die beiden anderen Abteilungen?",
+    "t": 171.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die zweite, geroPRO, bietet praktische Weiterbildungen für Fachleute, die mit älteren Menschen arbeiten.",
+    "t": 173.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die dritte, geroRESEARCH, macht angewandte Forschung über das Älterwerden.",
+    "t": 180.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "GERO arbeitet also für Senioren, für Fachleute und für das Wissen.",
+    "t": 185.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Welche Organisation kommt als nächste in dieser Gruppe?",
+    "t": 189.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als nächste kommt der Generatiounstreff von Amiperas, in der Stadt Luxemburg, im Viertel Bonneweg.",
+    "t": 193.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Amiperas ist eine Vereinigung für Menschen, die pensioniert, älter oder alleinstehend sind.",
+    "t": 199.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Generatiounstreff bedeutet ein Treffpunkt für die Generationen.",
+    "t": 204.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was passiert dort?",
+    "t": 208.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dreimal im Jahr erscheint dort ein Programm mit Aktivitäten.",
+    "t": 209.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt kreative Workshops, Kochen, angepassten Sport und Spaziergänge, Kultur und Musik, Ausflüge und Reisen.",
+    "t": 213.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ist das nur ein Ort für die Freizeit, oder gibt es noch mehr?",
+    "t": 221.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt noch mehr.",
+    "t": 224.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Man bekommt dort auch Informationen und Beratung, zum Beispiel zur Pension, zur digitalen Welt oder zu Behördengängen.",
+    "t": 225.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es gibt Projekte zwischen den Generationen und zwischen den Kulturen.",
+    "t": 232.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das klingt nach einer sehr freundlichen Adresse.",
+    "t": 237.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wie heißt der dritte Name in dieser Gruppe?",
+    "t": 239.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der dritte ist GoldenMe.",
+    "t": 242.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Verein hilft älteren Menschen, sich in der digitalen Welt wohlzufühlen.",
+    "t": 243.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das heißt also Computer, Smartphones und das Internet.",
+    "t": 248.08
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja. GoldenMe bietet Informationen, Kurse und Veranstaltungen für Menschen, die nicht mit diesen Geräten aufgewachsen sind, damit sie digitale Grundkenntnisse erwerben.",
+    "t": 251.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das gefällt mir, denn so viele Dienste sind heute online.",
+    "t": 261.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und GoldenMe achtet besonders auf die Zusammenarbeit zwischen den Generationen.",
+    "t": 265.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jüngere und Ältere lernen voneinander.",
+    "t": 269.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es bleibt noch ein Name in dieser ersten Gruppe, und ich finde ihn wunderbar: Super Senior.",
+    "t": 272.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Super Senior ist ein Dienst des Vereins MEC, der seinen Sitz in Echternach hat.",
+    "t": 278.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und hier sind es die Senioren, die helfen.",
+    "t": 283.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wem helfen die Senioren, und wie funktioniert das?",
+    "t": 286.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Verein sucht Senioren, die Kindern aus der Grundschule bei den Hausaufgaben helfen.",
+    "t": 289.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist Lernbegleitung zwischen den Generationen.",
+    "t": 293.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eine pensionierte Person schenkt also Zeit und Geduld, und ein Kind gewinnt Selbstvertrauen.",
+    "t": 296.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau, und beide Seiten gewinnen.",
+    "t": 301.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Kommen wir jetzt zur zweiten Gruppe: sich weniger allein fühlen.",
+    "t": 303.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Einsamkeit kann jeden treffen, und sehr oft sieht sie niemand.",
+    "t": 307.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deshalb hat das Luxemburger Rote Kreuz einen Dienst mit dem Namen Iris.",
+    "t": 311.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er begleitet jeden Menschen, der von Einsamkeit betroffen ist.",
+    "t": 316.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wie macht der Dienst Iris das in der Praxis?",
+    "t": 319.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Iris bildet Freiwillige aus.",
+    "t": 322.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese Freiwilligen schenken dann regelmäßig ihre Anwesenheit einem Menschen, der sich isoliert fühlt.",
+    "t": 324.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie kommen immer wieder, und eine echte Verbindung kann entstehen.",
+    "t": 330.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ist der Dienst Iris nur für ältere Menschen da?",
+    "t": 333.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nein. Iris macht keinen Unterschied nach Alter, Kultur oder sozialer Herkunft.",
+    "t": 336.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und der Dienst macht diese Arbeit schon seit vielen Jahren.",
+    "t": 342.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wer ein wenig freie Zeit hat, könnte dort also auch Freiwilliger werden.",
+    "t": 345.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, die Freiwilligen sind das Herz dieses Dienstes, und Iris bereitet sie gut auf ihre Rolle vor.",
+    "t": 349.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "In unserer dritten Gruppe geht es um Gedächtnis und Demenz.",
+    "t": 355.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hier stehen zwei Dienste.",
+    "t": 359.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der erste ist das Info-Zenter Demenz.",
+    "t": 361.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist das nationale Informations- und Beratungszentrum für alle Fragen zu Gedächtnisstörungen und Demenz.",
+    "t": 363.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wer kann sich an das Info-Zenter Demenz wenden?",
+    "t": 369.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alle: Menschen mit Gedächtnisstörungen oder Demenz, ihre Angehörigen, Fachleute aus dem Gesundheitswesen und jeder, der sich einfach dafür interessiert.",
+    "t": 372.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und alle Beratungen und Dokumente sind kostenlos.",
+    "t": 382.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wir haben auch eine ganze Folge über das Info-Zenter Demenz, für alle, die mehr wissen möchten.",
+    "t": 386.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der zweite Dienst hat einen französischen Namen, „Accompagnement et Conseil\", das bedeutet Begleitung und Beratung.",
+    "t": 391.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er gehört zur Association Luxembourg Alzheimer.",
+    "t": 397.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was ist der Unterschied zwischen diesem Dienst und dem Informationszentrum?",
+    "t": 400.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Dienst geht einen Schritt weiter in den Alltag hinein.",
+    "t": 404.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er gibt praktische Ratschläge zur Demenz, und er bringt Familien mit den richtigen Diensten in Kontakt.",
+    "t": 408.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Familien werden oft sehr müde, wenn sie sich um einen Menschen mit Demenz kümmern.",
+    "t": 414
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, und der Dienst erklärt den Angehörigen, wie sie Entlastung bekommen können.",
+    "t": 418.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Gemeinsam mit ihnen entwickelt er eine Lösung, die zu ihren Bedürfnissen passt.",
+    "t": 422.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hilft er den Familien auch bei den Formularen?",
+    "t": 427.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja. Er hilft bei Behördengängen, und er organisiert und koordiniert die Hilfen, die im Rahmen der Pflegeversicherung nötig sind.",
+    "t": 430.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das führt uns zur vierten Gruppe: die Menschen, die ein Familienmitglied zu Hause pflegen.",
+    "t": 437.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Viele ältere Menschen werden von einem Partner, einer Tochter, einem Sohn oder einem Nachbarn unterstützt.",
+    "t": 442.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Diese pflegenden Angehörigen leisten viel, und auch sie brauchen Unterstützung.",
+    "t": 449.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Welcher Dienst im Register ist für sie da?",
+    "t": 453.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er heißt Berodungsdëngscht, das bedeutet Beratungsdienst.",
+    "t": 455.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er gehört zur Stëftung Hëllef Doheem, einer Stiftung, die Hilfe und Pflege zu Hause anbietet.",
+    "t": 459.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und was bietet dieser Beratungsdienst an?",
+    "t": 464.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er bietet Schulungen für pflegende Angehörige, Informationen und Beratungen.",
+    "t": 467.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sein Team von Fachleuten kann auch psychologische Unterstützung geben, und dazu Ratschläge aus der Ergotherapie, der Physiotherapie und der Ernährungsberatung.",
+    "t": 472.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was ist das Ziel hinter dieser ganzen Arbeit?",
+    "t": 481.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Ziel ist, dass ein Mensch so lange wie möglich zu Hause bleiben kann, mit so viel Selbstständigkeit wie möglich.",
+    "t": 484.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Familie wird sozial, körperlich und seelisch unterstützt.",
+    "t": 491
+   },
+   {
+    "speaker": "Tom",
+    "text": "Jetzt kommen wir zur letzten Gruppe.",
+    "t": 494.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es ist ein ernsteres Thema: schwere Krankheit, das Lebensende und die Trauer.",
+    "t": 496.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist nicht leicht, darüber zu sprechen, aber es gehört zum Leben.",
+    "t": 501.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und zwei Organisationen im Register sind für diese Momente da.",
+    "t": 505.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die erste ist Omega 90.",
+    "t": 509.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich denke, viele Menschen in Luxemburg haben diesen Namen schon gehört.",
+    "t": 511.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Omega 90 ist ein Verein ohne Gewinnzweck, gegründet im Jahr 1990 und als gemeinnützig anerkannt.",
+    "t": 515.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er begleitet Menschen mit einer schweren Krankheit, Menschen am Lebensende, ihre Familien und Menschen in Trauer.",
+    "t": 522.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was macht Omega 90 in der Praxis?",
+    "t": 529.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Verein führt das Haus Omega, ein Zentrum für Palliativpflege.",
+    "t": 531.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dort ist das Ziel, Leiden zu lindern, damit die Menschen in ihrer letzten Lebensphase die bestmögliche Lebensqualität haben.",
+    "t": 535.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und was gibt es für Menschen, die nicht im Haus Omega sind?",
+    "t": 543.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Omega 90 bietet psychologische und soziale Beratungen an, für Kranke, für ihre Angehörigen und für Trauernde.",
+    "t": 546.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Verein bildet auch Fachleute in Palliativpflege weiter.",
+    "t": 554.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sind auch hier Freiwillige im Einsatz?",
+    "t": 558.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja. Omega 90 leitet ein Netzwerk von Freiwilligen, die Menschen am Lebensende begleiten.",
+    "t": 560.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Verein bildet sie aus und unterstützt sie während ihrer ganzen Zeit als Freiwillige.",
+    "t": 566.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wie heißt die zweite Organisation in dieser Gruppe?",
+    "t": 571.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie heißt Mäi Wëllen, Mäi Wee.",
+    "t": 575.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Auf Deutsch bedeutet das: mein Wille, mein Weg.",
+    "t": 579.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist die Vereinigung für das Recht, in Würde zu sterben, und auch sie ist als gemeinnützig anerkannt.",
+    "t": 583.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Welche Rolle hat diese Vereinigung?",
+    "t": 589.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie informiert die Öffentlichkeit über das luxemburgische Gesetz von 2009 über Sterbehilfe und assistierten Suizid.",
+    "t": 591.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und sie erinnert daran, wie wichtig es ist, mit der Familie und mit dem Hausarzt über die eigenen Wünsche für das Lebensende zu sprechen.",
+    "t": 598.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es geht also zuerst um Information, und darum, rechtzeitig darüber zu sprechen.",
+    "t": 606.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja. Die Vereinigung hält auch Kontakt zu den Ärzten, die manchmal Fragen zu diesem Thema haben.",
+    "t": 611.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und sie begleitet jeden Menschen bei seinen eigenen Überlegungen und seinen eigenen Entscheidungen.",
+    "t": 617.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke, Anna. Das waren zehn Dienste.",
+    "t": 622.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie können unsere Zuhörer sie wiederfinden?",
+    "t": 625.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Gehen Sie auf infosenior Punkt public Punkt l-u und wählen Sie „Aktivitäten für Senioren\".",
+    "t": 627.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Webseite gibt es auf Französisch und auf Deutsch.",
+    "t": 633.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Gleich daneben gibt es auch eine Rubrik für die Clubs Aktiv Plus, die Aktivitätsclubs im ganzen Land.",
+    "t": 636.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und was sieht man bei jedem Dienst?",
+    "t": 643.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Man sieht eine kurze Beschreibung, die Adresse, die Telefonnummer, die E-Mail-Adresse und die Webseite.",
+    "t": 645.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt auch eine Karte, und Dokumente wie die Broschüre des Dienstes oder den Jahresbericht.",
+    "t": 650.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Muss ich selbst Senior sein, um einen dieser Dienste zu kontaktieren?",
+    "t": 656.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Überhaupt nicht. Viele von ihnen sind auch für Familien, für pflegende Angehörige, für Freiwillige und für Fachleute da.",
+    "t": 660.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie nicht sicher sind, rufen Sie einfach an und fragen Sie nach.",
+    "t": 667.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und ich nehme an, dass sich diese Liste mit der Zeit ändern kann.",
+    "t": 672.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, Dienste können dazukommen und die Angaben werden aktualisiert, deshalb ist die Webseite immer der beste Ort zum Nachschauen.",
+    "t": 675.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fassen wir zusammen.",
+    "t": 683.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was sollte man sich merken?",
+    "t": 684.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens: Um aktiv zu bleiben, zu lernen und Menschen zu treffen, gibt es GERO, den Generatiounstreff von Amiperas, GoldenMe für die digitale Welt, und Super Senior, wo Senioren Kindern helfen.",
+    "t": 686.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens: Gegen die Einsamkeit gibt es Iris, den Dienst des Roten Kreuzes mit seinen Freiwilligen.",
+    "t": 700.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens: Für Gedächtnisstörungen und Demenz gibt es das Info-Zenter Demenz und den Dienst Begleitung und Beratung der Association Luxembourg Alzheimer.",
+    "t": 706.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Viertens: Pflegende Angehörige finden Schulungen und Beratung beim Berodungsdëngscht der Stëftung Hëllef Doheem.",
+    "t": 716.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und fünftens: Rund um schwere Krankheit, das Lebensende und die Trauer gibt es Omega 90 und Mäi Wëllen, Mäi Wee.",
+    "t": 723.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und alle stehen zusammen an einem Ort, auf infosenior Punkt public Punkt l-u.",
+    "t": 731.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Niemand muss diese Momente ganz allein durchleben.",
+    "t": 736.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das war unsere Folge über die Organisationen, die in Luxemburg für Senioren arbeiten.",
+    "t": 739.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 744.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 753.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 771.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 777.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 779.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 784.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
+    "t": 785.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 788.7
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien alleguer!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ech hunn eng Fro fir unzefänken, Anna. Wann Är Mamm oder Äre Grousspapp Ënnerstëtzung bräicht, wéisst Dir, wéi eng Organisatioun Dir uruffe sollt?",
+    "t": 27.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fir éierlech ze sinn, net ëmmer. Et gëtt vill Nimm, an et ass net einfach ze wëssen, wie wat mécht.",
+    "t": 34.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Genee dat ass eist Thema haut. Mir stellen Organisatiounen zu Lëtzebuerg vir, déi fir eeler Leit a fir hir Famillje schaffen.",
+    "t": 40.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "An déi gutt Noriicht ass: Si stinn all zesummen op enger Plaz, op enger Websäit mam Numm Info-Seniors.",
+    "t": 47.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Adress ass infosenior Punkt public Punkt l-u. Dat ass den ëffentleche Register vun de Servicer fir eeler Leit, an e gëtt vum Familljeministère geféiert.",
+    "t": 54.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mir hu schonn eng ganz Episode iwwer dës Websäit gemaach. Dir fannt se an eiser Lëscht vun den Episoden, ënner dem Numm Info-Seniors.",
+    "t": 63.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wat maache mir also an der Episode vun haut anescht?",
+    "t": 71.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Haut maache mir eng Rubrik vun där Websäit op. Si heescht „Aktivitéite fir Senioren\", an am Moment vun dëser Opnam stinn do zéng Servicer.",
+    "t": 74.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Beim Numm „Aktivitéite fir Senioren\" denken ech u Gymnastik a Kaartespiller. Geet et an där Rubrik dorëms?",
+    "t": 83.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Net nëmmen. An dësem Register ass de Begrëff vill méi breet. E betrëfft Servicer, déi eeler Leit an hir Nooste informéieren, beroden, forméieren a begleeden.",
+    "t": 89.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wat hunn dës zéng Servicer gemeinsam?",
+    "t": 101.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "All Service huet en offiziellen Agrement vum Ministère. Seng Säit am Register weist seng Kontaktdaten a seng Dokumenter, alles ass also transparent.",
+    "t": 103.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zéng Nimm si vill fir ze behalen. Wéi gi mir se duerch?",
+    "t": 112.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mir zortéieren se a fënnef kleng Gruppen: aktiv bleiwen a léieren, sech manner eleng fillen, Gediechtnis an Demenz, Hëllef fir d'Familljememberen, déi fleegen, an d'Enn vum Liewen.",
+    "t": 116.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fänke mir mat aktiv bleiwen a léieren un. Wéi eng Organisatioun kënnt als éischt?",
+    "t": 126.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Déi éischt ass GERO, de Kompetenzzenter fir den Alter. E läit an der Stad Lëtzebuerg.",
+    "t": 131.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wat mécht GERO fir d'Leit am Alldag?",
+    "t": 137.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "GERO informéiert a forméiert iwwer alles, wat mam Eelerginn ze dinn huet. D'Iddi ass, datt mir dës Etapp vum Liewen aktiv a mat Rou liewe kënnen.",
+    "t": 139.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ech hunn héieren, datt GERO méi Departementer huet.",
+    "t": 148.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, et sinn der dräi. Den éischten heescht geroAKTIV. Hien ass fir Leit vu siechzeg Joer un, mat Aktivitéiten, Konferenzen, Seminairen a Coursen, fir datt d'Léieren ni ophält.",
+    "t": 151.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wat maachen déi zwee aner Departementer?",
+    "t": 162.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Den zweeten, geroPRO, bitt praktesch Formatioune fir Professioneller, déi mat eelere Leit schaffen. Den drëtten, geroRESEARCH, mécht ugewannte Fuerschung iwwer d'Eelerginn.",
+    "t": 164.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "GERO schafft also fir Senioren, fir Professioneller a fir d'Wëssen. Wéi eng Organisatioun kënnt als nächst an dëser Grupp?",
+    "t": 175.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Als nächst kënnt de Generatiounstreff vun Amiperas, an der Stad Lëtzebuerg, am Quartier Bouneweg. Amiperas ass eng Amicale fir Leit, déi pensionéiert sinn, eeler sinn oder eleng liewen.",
+    "t": 181.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Generatiounstreff heescht eng Plaz, wou d'Generatioune sech begéinen. Wat geschitt do?",
+    "t": 193.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dräimol am Joer kënnt do e Programm mat Aktivitéiten eraus. Et gëtt kreativ Atelieren, Kachen, ugepasste Sport a Spadséiergäng, Kultur a Musek, Ausflich a Reesen.",
+    "t": 198.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ass dat nëmmen eng Plaz fir d'Fräizäit, oder gëtt et nach méi?",
+    "t": 210.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt nach méi. Dir kritt do och Informatiounen a Berodung, zum Beispill iwwer d'Pensioun, iwwer déi digital Welt oder iwwer administrativ Demarchen. An et gëtt Projeten tëscht de Generatiounen an tëscht de Kulturen.",
+    "t": 212.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat kléngt no enger ganz frëndlecher Adress. A wéi heescht den drëtten Numm an dëser Grupp?",
+    "t": 225.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Den drëtten ass GoldenMe. Dës Associatioun hëlleft eelere Leit, sech an der digitaler Welt wuel ze fillen.",
+    "t": 230.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat heescht also Computeren, Smartphonen an den Internet.",
+    "t": 237.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. GoldenMe bitt Informatiounen, Coursen an Evenementer fir Leit, déi net mat dësen Apparater opgewuess sinn, fir datt si digital Grondkenntnisser kréien.",
+    "t": 240.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat gefält mir, well haut esou vill Servicer online sinn.",
+    "t": 249.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "A GoldenMe passt besonnesch op d'Zesummenaarbecht tëscht de Generatiounen op. Déi Jonk an déi Eeler léiere vuneneen.",
+    "t": 252.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et bleift nach een Numm an dëser éischter Grupp, an ech fannen e wonnerbar: Super Senior.",
+    "t": 259.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Super Senior ass e Service vun der Associatioun MEC, déi hire Sëtz zu Iechternach huet. An hei sinn et d'Senioren, déi hëllefen.",
+    "t": 264.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wiem hëllefen d'Senioren, a wéi funktionéiert dat?",
+    "t": 272.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Associatioun sicht Senioren, déi Kanner aus der Grondschoul bei den Hausaufgaben hëllefen. Dat ass Schoulbegleedung tëscht de Generatiounen.",
+    "t": 274.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eng pensionéiert Persoun schenkt also Zäit a Gedold, an e Kand kritt méi Selbstvertrauen.",
+    "t": 282.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genee, a béid Säite gewannen. Komme mir elo bei déi zweet Grupp: sech manner eleng fillen.",
+    "t": 286.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eensamkeet kann jiddereen treffen, a ganz dacks gesäit keen se.",
+    "t": 292.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dofir huet d'Lëtzebuerger Rout Kräiz e Service mam Numm Iris. E begleet all Mënsch, dee vun Eensamkeet betraff ass.",
+    "t": 296.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wéi mécht de Service Iris dat an der Praxis?",
+    "t": 303.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Iris forméiert Benevoller. Dës Benevoller schenken dann reegelméisseg hir Präsenz engem Mënsch, dee sech isoléiert fillt. Si kommen ëmmer erëm, an eng richteg Verbindung kann entstoen.",
+    "t": 306.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ass de Service Iris nëmme fir eeler Leit do?",
+    "t": 318.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nee. Iris mécht keen Ënnerscheed no Alter, Kultur oder sozialer Hierkonft. An de Service mécht dës Aarbecht scho säit ville Joren.",
+    "t": 320.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wien e bësse fräi Zäit huet, kéint do also och Benevole ginn.",
+    "t": 327.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, d'Benevoller sinn d'Häerz vun dësem Service, an Iris bereet se gutt op hir Roll vir.",
+    "t": 331.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "An eiser drëtter Grupp geet et ëm Gediechtnis an Demenz. Hei stinn zwee Servicer.",
+    "t": 337.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deen éischten ass den Info-Zenter Demenz. Et ass den nationalen Informatiouns- a Berodungszenter fir all Froen iwwer Gediechtnisproblemer an Demenz.",
+    "t": 341.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wie kann sech un den Info-Zenter Demenz wenden?",
+    "t": 351.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jiddereen: Leit mat Gediechtnisproblemer oder Demenz, hir Nooste, Professioneller aus dem Gesondheetssecteur a jiddereen, deen sech einfach dofir interesséiert. An all d'Berodungen an all d'Dokumenter si gratis.",
+    "t": 353.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mir hunn och eng ganz Episode iwwer den Info-Zenter Demenz, fir déi, déi méi wësse wëllen.",
+    "t": 364.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deen zweete Service huet e franséischen Numm, „Accompagnement et Conseil\", dat heescht Begleedung a Berodung. E gehéiert zur Association Luxembourg Alzheimer.",
+    "t": 369.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wat ass den Ënnerscheed tëscht dësem Service an dem Informatiounszenter?",
+    "t": 379.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dëse Service geet ee Schrëtt méi wäit an den Alldag eran. E gëtt praktesch Rotschléi iwwer Demenz, an e bréngt d'Famillje mat de richtege Servicer a Kontakt.",
+    "t": 383.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Famillje ginn dacks ganz midd, wa si sech ëm e Mënsch mat Demenz këmmeren.",
+    "t": 392.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, an de Service erkläert den Nooste, wéi si Entlaaschtung kréie kënnen. Zesumme mat hinne baut en eng Léisung op, déi bei hir Besoine passt.",
+    "t": 396.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hëlleft en de Famillje och bei de Pabeieren?",
+    "t": 404.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. En hëlleft bei administrativen Demarchen, an en organiséiert a koordinéiert d'Hëllefen, déi am Kader vun der Fleegeversécherung néideg sinn.",
+    "t": 407.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat bréngt eis bei déi véiert Grupp: d'Leit, déi e Familljemember doheem fleegen.",
+    "t": 415.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vill eeler Leit gi vun engem Partner, enger Duechter, engem Jong oder engem Noper ënnerstëtzt. Dës Leit maache vill, an och si brauchen Ënnerstëtzung.",
+    "t": 420
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wéi ee Service am Register ass fir si do?",
+    "t": 428.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "En heescht Berodungsdëngscht. E gehéiert zur Stëftung Hëllef Doheem, déi Hëllef a Fleeg doheem ubitt.",
+    "t": 430.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wat bitt dëse Berodungsdëngscht un?",
+    "t": 439.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "E bitt Formatioune fir d'Leit, déi fleegen, Informatiounen a Berodungen. Seng Equipe vu Spezialiste kann och psychologesch Ënnerstëtzung ginn, an dozou Rotschléi aus der Ergotherapie, der Kinesitherapie an der Ernärungsberodung.",
+    "t": 441.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wat ass d'Zil hannert dëser ganzer Aarbecht?",
+    "t": 455.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Zil ass, datt e Mënsch esou laang wéi méiglech doheem bleiwe kann, mat esou vill Autonomie wéi méiglech. An d'Famill gëtt sozial, kierperlech a séilesch ënnerstëtzt.",
+    "t": 457.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elo komme mir bei déi lescht Grupp. Et ass e méi eescht Thema: schwéier Krankheet, d'Enn vum Liewen an d'Trauer.",
+    "t": 467.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ass net einfach, doriwwer ze schwätzen, mee et gehéiert zum Liewen. An zwou Organisatiounen am Register si fir dës Momenter do.",
+    "t": 474.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Déi éischt ass Omega 90. Ech mengen, vill Leit zu Lëtzebuerg hunn dësen Numm schonn héieren.",
+    "t": 481.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Omega 90 ass eng Associatioun ouni Gewënnzweck, gegrënnt am Joer 1990 an als gemengnëtzeg unerkannt. Si begleet Leit mat enger schwéierer Krankheet, Leit um Enn vun hirem Liewen, hir Familljen a Leit an der Trauer.",
+    "t": 486.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wat mécht Omega 90 an der Praxis?",
+    "t": 501.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si féiert d'Haus Omega, en Zenter fir Palliativfleeg. Do ass d'Zil, d'Leiden ze linderen, fir datt d'Leit an hirer leschter Liewensphas déi beschtméiglech Liewensqualitéit hunn.",
+    "t": 503.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wat gëtt et fir Leit, déi net am Haus Omega sinn?",
+    "t": 514.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Omega 90 bitt psychologesch a sozial Berodungen un, fir déi Krank, fir hir Noosten a fir Leit an der Trauer. Si forméiert och Professioneller an der Palliativfleeg.",
+    "t": 517.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sinn och hei Benevoller am Asaz?",
+    "t": 528.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. Omega 90 leet e Reseau vu Benevoller, déi Leit um Enn vum Liewe begleeden. Si forméiert se an ënnerstëtzt se wärend hirer ganzer Zäit als Benevole.",
+    "t": 530.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wéi heescht déi zweet Organisatioun an dëser Grupp?",
+    "t": 540.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si heescht Mäi Wëllen, Mäi Wee. Et ass d'Associatioun fir d'Recht, an Dignitéit ze stierwen, an och si ass als gemengnëtzeg unerkannt.",
+    "t": 543.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wéi eng Roll huet dës Associatioun?",
+    "t": 556.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si informéiert d'Ëffentlechkeet iwwer dat lëtzebuergescht Gesetz vun 2009 iwwer d'Euthanasie an d'Assistenz beim Suizid. A si erënnert drun, wéi wichteg et ass, mat der Famill a mam Hausdokter iwwer seng Wënsch fir d'Enn vum Liewen ze schwätzen.",
+    "t": 559.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et geet also fir d'éischt ëm Informatioun, an drëm, zäiteg doriwwer ze schwätzen.",
+    "t": 574.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. D'Associatioun hält och Kontakt mat den Dokteren, déi heiansdo Froen zu dësem Thema hunn. A si begleet all Mënsch bei sengen eegenen Iwwerleeungen a sengen eegenen Decisiounen.",
+    "t": 578.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci, Anna. Dat waren zéng Servicer. Wéi kënnen eis Nolauschterer se erëmfannen?",
+    "t": 588.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Gitt op infosenior Punkt public Punkt l-u a wielt „Aktivitéite fir Senioren\". D'Websäit gëtt et op Franséisch an op Däitsch. Direkt dolaanscht gëtt et och eng Rubrik fir d'Clubs Aktiv Plus, d'Aktivitéitsclibb am ganze Land.",
+    "t": 593.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wat gesäit ee bei all Service?",
+    "t": 607.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gesäit een eng kuerz Beschreiwung, d'Adress, d'Telefonsnummer, d'E-Mail-Adress an d'Websäit. Et gëtt och eng Kaart, an Dokumenter wéi d'Broschür vum Service oder de Joresrapport.",
+    "t": 609.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Muss ech selwer Senior sinn, fir ee vun dëse Servicer ze kontaktéieren?",
+    "t": 621.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Guer net. Vill vun hinne sinn och fir Familljen, fir Leit, déi fleegen, fir Benevoller a fir Professioneller do. Wann Dir net sécher sidd, da rufft einfach un a frot no.",
+    "t": 624.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "An ech huelen un, datt dës Lëscht sech mat der Zäit ännere kann.",
+    "t": 634.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, Servicer kënnen dobäikommen an d'Informatioune ginn aktualiséiert, dofir ass d'Websäit ëmmer déi bescht Plaz fir nozekucken.",
+    "t": 637.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Faasse mir zesummen. Wat sollt ee sech mierken?",
+    "t": 644.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Éischtens: Fir aktiv ze bleiwen, ze léieren a Leit ze begéinen, gëtt et GERO, de Generatiounstreff vun Amiperas, GoldenMe fir déi digital Welt, a Super Senior, wou Senioren de Kanner hëllefen.",
+    "t": 647.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweetens: Géint d'Eensamkeet gëtt et Iris, de Service vum Roude Kräiz mat senge Benevoller.",
+    "t": 661.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drëttens: Fir Gediechtnisproblemer an Demenz gëtt et den Info-Zenter Demenz an de Service Begleedung a Berodung vun der Association Luxembourg Alzheimer.",
+    "t": 666.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Véiertens: Leit, déi e Familljemember fleegen, fanne Formatiounen a Berodung beim Berodungsdëngscht vun der Stëftung Hëllef Doheem.",
+    "t": 676.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "A fënneftens: Ronderëm schwéier Krankheet, d'Enn vum Liewen an d'Trauer gëtt et Omega 90 a Mäi Wëllen, Mäi Wee.",
+    "t": 683.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "An all stinn zesummen op enger Plaz, op infosenior Punkt public Punkt l-u.",
+    "t": 690.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Kee muss dës Momenter ganz eleng duerchliewen. Dat war eis Episode iwwer d'Organisatiounen, déi zu Lëtzebuerg fir Senioren schaffen. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
+    "t": 695.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
+    "t": 744.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 747.7
    }
   ]
  }

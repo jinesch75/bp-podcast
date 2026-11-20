@@ -14,7 +14,7 @@
 
 **TOM:** Genau. Und das heutige Thema ist für alle, die Kinder haben, oder bald Kinder bekommen. Es geht um einen Dienst, der Eltereforum heißt.
 
-**ANNA:** Eltereforum. Okay, Tom — das ist ein luxemburgisches Wort. Fangen wir dort an. Was bedeutet es?
+**ANNA:** Eltereforum. Okay, Tom — das ist ein luxemburgisches Wort. Fangen wir dort an: Was bedeutet es?
 
 **TOM:** Also, „Elteren" bedeutet „Eltern", und „Forum" ist ein Ort, um sich zu treffen und zu reden. Eltereforum ist also, wörtlich, ein „Elternforum".
 
@@ -24,7 +24,7 @@
 
 **ANNA:** Für alle Eltern. Also nicht nur für Eltern, die Schwierigkeiten haben?
 
-**TOM:** Nein, nein — und das ist wichtig. Es ist für alle. Das Eltereforum ist offen für alle. Es ist ein ganz normaler, freundlicher Ort, an den alle Eltern kommen können, um Fragen zu stellen, etwas zu lernen und andere Eltern zu treffen. Sie brauchen keinen besonderen Grund. Sie müssen kein bestimmtes Anliegen haben.
+**TOM:** Nein, nein — und das ist wichtig: Es ist für alle. Das Eltereforum ist offen für alle. Es ist ein ganz normaler, freundlicher Ort, an den alle Eltern kommen können, um Fragen zu stellen, etwas zu lernen und andere Eltern zu treffen. Sie brauchen keinen besonderen Grund. Sie müssen kein bestimmtes Anliegen haben.
 
 **ANNA:** Gut. Denn manchmal denken die Leute: „Ich bitte nur um Hilfe, wenn etwas nicht stimmt."
 
@@ -36,7 +36,7 @@
 
 **ANNA:** Wow. Also von der Schwangerschaft, bis das Kind achtzehn ist.
 
-**TOM:** Ja. Die ganze Reise. Jedes Alter hat seine Fragen. Ein Baby, das nicht schläft. Ein kleines Kind und der Umgang mit digitalen Geräten. Die Schule. Teenager. Das Eltereforum ist für all das da.
+**TOM:** Ja. Die ganze Reise. Jedes Alter hat seine Fragen. Ein Baby, das nicht schläft. Ein kleines Kind und der Umgang mit digitalen Geräten. Die Schule, und dann die Teenagerjahre. Das Eltereforum ist für all das da.
 
 **ANNA:** Das ist beruhigend. Jetzt sag mir — wer steht dahinter? Ist es offiziell?
 
@@ -60,7 +60,7 @@
 
 **ANNA:** Auch wenn sie mir bei einem bestimmten Anliegen nicht selbst helfen können, sind sie also gut genug vernetzt, um jemanden zu finden, der es kann.
 
-**TOM:** Genau. Ein freundlicher erster Schritt.
+**TOM:** Genau: Es ist ein freundlicher erster Schritt.
 
 **ANNA:** Okay, Tom — wo sind diese Foren? Sind sie alle in der Hauptstadt?
 

@@ -14,7 +14,7 @@
 
 **TOM:** Genee. An dat haitegt Thema ass fir jiddereen, dee Kanner huet, oder dee geschwënn Kanner kritt. Et ass e Service, deen Eltereforum heescht.
 
-**ANNA:** Eltereforum. Okay, Tom — dat ass e lëtzebuergescht Wuert. Loosse mer do ufänken. Wat heescht et?
+**ANNA:** Eltereforum. Okay, Tom — dat ass e lëtzebuergescht Wuert. Loosse mer do ufänken: wat heescht et?
 
 **TOM:** Also, "Elteren", dat si Mamm a Papp, an e "Forum" ass eng Plaz, fir sech ze treffen an ze schwätzen. Also ass den Eltereforum, wuertwiertlech, e "Forum fir Elteren".
 
@@ -24,7 +24,7 @@
 
 **ANNA:** Fir all Elteren. Also net nëmme fir Elteren, déi Schwieregkeeten hunn?
 
-**TOM:** Nee, nee — an dat ass wichteg. Et ass fir jiddereen. Den Eltereforum ass op fir all. Et ass eng normal, frëndlech Plaz, wou all Elterendeel ka kommen, Froe stellen, eppes léieren, an aner Elteren treffen. Dir braucht kee speziellen Grond. Dir braucht kee bestëmmten Uleies ze hunn.
+**TOM:** Nee, nee — an dat ass wichteg: et ass fir jiddereen. Den Eltereforum ass op fir all. Et ass eng normal, frëndlech Plaz, wou all Elterendeel ka kommen, Froe stellen, eppes léieren, an aner Elteren treffen. Dir braucht kee speziellen Grond. Dir braucht kee bestëmmten Uleies ze hunn.
 
 **ANNA:** Gutt. Well heiansdo denken d'Leit: "Ech froen nëmmen no Hëllef, wann eppes schifleeft."
 
@@ -60,7 +60,7 @@
 
 **ANNA:** Also och wa si mer bei engem bestëmmten Uleies net selwer hëllefe kënnen, si si gutt genuch vernetzt, fir een ze fannen, deen et kann.
 
-**TOM:** Genee. E frëndlechen éischte Schrëtt.
+**TOM:** Genee: et ass e frëndlechen éischte Schrëtt.
 
 **ANNA:** Okay, Tom — wou sinn dës Foren? Sinn se all an der Haaptstad?
 

@@ -17,7 +17,8 @@ TERMS = {"en": [("maison de l'orientation", r"(?i)maison de l.orientation", "It'
                 ("accessibilité", r"\baccessibilite\b", "Remember the website: accessibilité dot L-U."),
                 ("luxembourg", r"\bLuxembourg\b(?! City)", "I live and work in Luxembourg, a small country in Europe."),
                 ("zesumme vereinfachen", r"\bZesumme Vereinfachen\b", "It is called Zesumme Vereinfachen."),
-                ("status", r"\bstatus\b", "The company has a special legal status.")]}[lang]
+                ("status", r"\bstatus\b", "The company has a special legal status."),
+                ("adem", r"\bADEM\b", "The Addem helps you find a job.")]}[lang]
 # ONLY=<term> restricts to one term; SCORE_ONLY=1 just prints the current takes' distances; MAX_D=<x> retakes only
 # sentences whose current distance is above x (e.g. the few "Luxembourg" said the French way)
 ONLY = os.environ.get("ONLY"); SCORE_ONLY = os.environ.get("SCORE_ONLY") == "1"; MAX_D = float(os.environ.get("MAX_D", "0"))
@@ -28,7 +29,7 @@ vids = {r: el.resolve_voice(r, lang, voices)[0] for r in ("Anna", "Tom")}
 from faster_whisper import WhisperModel
 wm = WhisperModel("small", device="cpu", compute_type="int8")
 def norm(t): return re.sub(r"[^a-zàâçéèêëîïôûùü' ]", "", t.lower().replace("’", "'"))
-ALT = {"accessibilité": ["accessibilité", "accessibilite", "accessibility", "accessibilities"], "lycée": ["lycée", "lycées", "lice", "licy", "lisa", "lisae", "lices", "lysee", "lisée", "leessay", "lissay", "lease", "lisse", "lessay", "lisey"]}
+ALT = {"adem": ["adem", "addem", "adam", "adham", "aedem", "ad em", "atom", "addum", "attem", "atem", "adum"], "accessibilité": ["accessibilité", "accessibilite", "accessibility", "accessibilities"], "lycée": ["lycée", "lycées", "lice", "licy", "lisa", "lisae", "lices", "lysee", "lisée", "leessay", "lissay", "lease", "lisse", "lessay", "lisey"]}
 def locate(path, target):
     segs, _ = wm.transcribe(path, language=lang, word_timestamps=True, beam_size=5)
     words = [w for s in segs for w in s.words]
@@ -105,7 +106,7 @@ for i, s in enumerate(segs):
         verdict = "kept current"
     lines.append(f"#{i} {s['speaker']}: {s['text'][:60]!r}  current {d_cur:.2f} | takes " + " ".join(f"{d:.2f}" for d, _ in scored[1:]) + f"  -> {verdict}")
     print(lines[-1], flush=True)
-    json.dump(reseed, open(rpath, "w"))
+    el.save_json(rpath, reseed)
 el.save_cut_cache()
 open(f"build/el_test/match_pron_{key}_{lang}.txt", "w").write("\n".join(lines) + "\n")
 print(f"≈ {tts.credits} credits")

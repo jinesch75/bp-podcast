@@ -14,7 +14,7 @@
 
 **TOM :** Exactement. Et le sujet d'aujourd'hui s'adresse à tous ceux qui ont des enfants, ou qui vont bientôt en avoir. C'est un service qui s'appelle l'Eltereforum.
 
-**ANNA :** Eltereforum. D'accord, Tom — c'est un mot luxembourgeois. Commençons par là. Qu'est-ce que ça veut dire ?
+**ANNA :** Eltereforum. D'accord, Tom — c'est un mot luxembourgeois. Commençons par là : qu'est-ce que ça veut dire ?
 
 **TOM :** Alors, « Elteren » veut dire « parents », et « Forum » désigne un lieu pour se rencontrer et discuter. Donc Eltereforum, c'est littéralement un « forum des parents ».
 
@@ -24,7 +24,7 @@
 
 **ANNA :** Pour tous les parents. Donc pas seulement pour les parents qui rencontrent des difficultés ?
 
-**TOM :** Non, non — et c'est important. C'est pour tout le monde. L'Eltereforum est ouvert à tous. C'est un endroit normal et convivial où chaque parent peut venir, poser des questions, apprendre quelque chose, et rencontrer d'autres parents. Vous n'avez pas besoin d'une raison particulière. Vous n'avez pas besoin d'avoir une question particulière.
+**TOM :** Non, non — et c'est important : c'est pour tout le monde. L'Eltereforum est ouvert à tous. C'est un endroit normal et convivial où chaque parent peut venir, poser des questions, apprendre quelque chose, et rencontrer d'autres parents. Vous n'avez pas besoin d'une raison particulière. Vous n'avez pas besoin d'avoir une question particulière.
 
 **ANNA :** Tant mieux. Parce que parfois, les gens pensent : « Je demanderai de l'aide seulement si quelque chose ne va pas. »
 
@@ -60,7 +60,7 @@
 
 **ANNA :** Donc même s'ils ne peuvent pas m'aider eux-mêmes avec une question précise, ils sont assez bien connectés pour trouver quelqu'un qui le peut.
 
-**TOM :** Exactement. Un premier pas convivial.
+**TOM :** Exactement : c'est un premier pas convivial.
 
 **ANNA :** Bon, Tom — où se trouvent ces forums ? Ils sont tous dans la capitale ?
 

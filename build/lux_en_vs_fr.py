@@ -57,7 +57,7 @@ for spk, txt in el.read_turns(key, lang):
                 v = score(p, spk)
                 if v is not None and v < best[0]: best = (v, c)
             if best[1] != cur:
-                reseed[base] = best[1]; json.dump(reseed, open(rpath, "w"))
+                reseed[base] = best[1]; el.save_json(rpath, reseed)
             line += f"  -> {'NEW take ' + str(round(best[0], 2)) if best[1] != cur else 'no better take'}"
         print(line, flush=True); out.append(line)
 open(f"build/el_test/lux_{key}.txt", "w").write("\n".join(out) + "\n")
