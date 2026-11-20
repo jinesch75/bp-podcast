@@ -24,7 +24,7 @@ for key in keys:
         if state.get(tag) == "done":
             continue
         sfx = "" if lang == "en" else "_" + lang
-        work = f"/tmp/{key}{sfx}_el_seg"
+        work = f"{os.environ.get('EL_TMP', '/tmp')}/{key}{sfx}_el_seg"
         if state.get(tag) != "generated":
             if left() < 20:
                 print("budget used — run again to continue"); sys.exit(0)

@@ -106250,7 +106250,7 @@ const EPISODES = [
   "title": "Giving Blood in Luxembourg – dondusang.lu",
   "description": "Blood cannot be manufactured: hospitals depend on donors. Discover how blood donation works in Luxembourg with the Red Cross website dondusang.lu: who can give, how a donation goes step by step, plasma, where and when to give, and how to help without giving.",
   "audio": "podcast_dondusang.mp3",
-  "duration": 568.08,
+  "duration": 570.23,
   "topics": [
    "Why hospitals need blood",
    "The Luxembourg Red Cross",
@@ -106320,757 +106320,757 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "\"Don du sang\" is French, and it simply means \"blood donation\".",
-    "t": 43.22
+    "t": 44.01
    },
    {
     "speaker": "Anna",
     "text": "The website exists in French, German and English.",
-    "t": 47.86
+    "t": 48.79
    },
    {
     "speaker": "Tom",
     "text": "And who is behind this website?",
-    "t": 51.38
+    "t": 52.31
    },
    {
     "speaker": "Anna",
     "text": "The Luxembourg Red Cross.",
-    "t": 53.04
+    "t": 53.97
    },
    {
     "speaker": "Anna",
     "text": "It is the only organisation in Luxembourg that collects blood and prepares it for the hospitals.",
-    "t": 55.01
+    "t": 55.94
    },
    {
     "speaker": "Anna",
     "text": "Since July 2026, this work is carried by a Red Cross foundation dedicated to blood transfusion.",
-    "t": 60.69
+    "t": 61.62
    },
    {
     "speaker": "Tom",
     "text": "Does that change anything for the donors?",
-    "t": 67.91
+    "t": 68.84
    },
    {
     "speaker": "Anna",
     "text": "No, nothing changes for them: the same places, the same teams, and the same website.",
-    "t": 69.95
+    "t": 70.88
    },
    {
     "speaker": "Tom",
     "text": "Let's start with the big question.",
-    "t": 75.82
+    "t": 76.75
    },
    {
     "speaker": "Tom",
     "text": "Why is giving blood so important?",
-    "t": 77.54
+    "t": 78.47
    },
    {
     "speaker": "Anna",
     "text": "Because blood cannot be made in a factory.",
-    "t": 79.67
+    "t": 80.6
    },
    {
     "speaker": "Anna",
     "text": "Researchers are working on it, but today, the only source is another human being.",
-    "t": 82.06
+    "t": 82.99
    },
    {
     "speaker": "Tom",
     "text": "And when do hospitals need blood?",
-    "t": 87.25
+    "t": 88.18
    },
    {
     "speaker": "Anna",
     "text": "After a serious accident, during an operation, or when a mother loses a lot of blood while giving birth.",
-    "t": 89.17
+    "t": 90.1
    },
    {
     "speaker": "Anna",
     "text": "And also for people whose body cannot make enough blood, for example during a cancer treatment.",
-    "t": 95.09
+    "t": 96.02
    },
    {
     "speaker": "Tom",
     "text": "How much blood does Luxembourg need?",
-    "t": 101.03
+    "t": 101.96
    },
    {
     "speaker": "Anna",
     "text": "The website gives a simple number: about one hundred bags of blood have to be collected every weekday, to cover the needs of the hospitals.",
-    "t": 103
+    "t": 103.93
    },
    {
     "speaker": "Tom",
     "text": "And is there enough blood in Luxembourg?",
-    "t": 112.17
+    "t": 113.1
    },
    {
     "speaker": "Anna",
     "text": "The Red Cross answers \"yes and no\".",
-    "t": 114.45
+    "t": 115.38
    },
    {
     "speaker": "Anna",
     "text": "Yes, because so far the hospitals have always received what they needed.",
-    "t": 116.76
+    "t": 117.69
    },
    {
     "speaker": "Anna",
     "text": "No, because the reserves are often close to their lower limit.",
-    "t": 120.79
+    "t": 121.72
    },
    {
     "speaker": "Tom",
     "text": "And blood doesn't keep forever, does it?",
-    "t": 124.77
+    "t": 125.7
    },
    {
     "speaker": "Anna",
     "text": "No, and that's the point.",
-    "t": 126.83
+    "t": 127.76
    },
    {
     "speaker": "Anna",
     "text": "A donation is separated into its parts.",
-    "t": 128.48
+    "t": 129.41
    },
    {
     "speaker": "Anna",
     "text": "Red blood cells can be kept for about six weeks.",
-    "t": 131.42
+    "t": 132.35
    },
    {
     "speaker": "Anna",
     "text": "Platelets, which help to stop bleeding, keep for only about one week.",
-    "t": 134.29
+    "t": 135.22
    },
    {
     "speaker": "Tom",
     "text": "So the hospitals need new donations all the time, and not only after an appeal in the news.",
-    "t": 138.64
+    "t": 139.57
    },
    {
     "speaker": "Anna",
     "text": "Exactly, and that's why regular donors are so precious.",
-    "t": 144.07
+    "t": 145
    },
    {
     "speaker": "Tom",
     "text": "Now, who can give blood?",
-    "t": 147.74
+    "t": 148.67
    },
    {
     "speaker": "Anna",
     "text": "The basic rule is simple: you are in good health, you are at least 18 years old, and you weigh more than 50 kilos.",
-    "t": 149.22
+    "t": 150.15
    },
    {
     "speaker": "Tom",
     "text": "Is there an upper age limit?",
-    "t": 157.37
+    "t": 158.3
    },
    {
     "speaker": "Anna",
     "text": "Yes, there is.",
-    "t": 158.83
+    "t": 159.76
    },
    {
     "speaker": "Anna",
     "text": "The first donation has to take place before the age of 60, and the last one at 65.",
-    "t": 159.8
+    "t": 160.73
    },
    {
     "speaker": "Anna",
     "text": "A doctor of the transfusion centre can sometimes allow an exception.",
-    "t": 165.89
+    "t": 166.82
    },
    {
     "speaker": "Tom",
     "text": "I've heard that sometimes you have to wait before you can give.",
-    "t": 169.97
+    "t": 170.9
    },
    {
     "speaker": "Tom",
     "text": "Is that true?",
-    "t": 172.65
+    "t": 173.58
    },
    {
     "speaker": "Anna",
     "text": "Yes, that's true.",
-    "t": 173.76
+    "t": 174.69
    },
    {
     "speaker": "Anna",
     "text": "In some situations, you have to wait for a while.",
-    "t": 174.95
+    "t": 175.88
    },
    {
     "speaker": "Anna",
     "text": "After a new tattoo or a piercing, for example, it's four months.",
-    "t": 177.84
+    "t": 178.77
    },
    {
     "speaker": "Tom",
     "text": "And what about after a trip abroad?",
-    "t": 182.17
+    "t": 183.1
    },
    {
     "speaker": "Anna",
     "text": "It depends on the destination.",
-    "t": 184.09
+    "t": 185.02
    },
    {
     "speaker": "Anna",
     "text": "After a trip to a tropical region, you wait six months.",
-    "t": 186.07
+    "t": 187
    },
    {
     "speaker": "Anna",
     "text": "For some other destinations, it's about one month.",
-    "t": 189.99
+    "t": 190.92
    },
    {
     "speaker": "Tom",
     "text": "And what if I've simply had a cold?",
-    "t": 193.04
+    "t": 193.97
    },
    {
     "speaker": "Anna",
     "text": "Then you wait two weeks after you feel well again.",
-    "t": 195.05
+    "t": 195.98
    },
    {
     "speaker": "Anna",
     "text": "And after antibiotics, you wait one month after the end of the treatment.",
-    "t": 197.81
+    "t": 198.74
    },
    {
     "speaker": "Tom",
     "text": "That's a lot to remember.",
-    "t": 201.85
+    "t": 202.78
    },
    {
     "speaker": "Anna",
     "text": "You don't have to remember it.",
-    "t": 203.24
+    "t": 204.17
    },
    {
     "speaker": "Anna",
     "text": "The website has a page with all these waiting times, and also a short online test.",
-    "t": 204.92
+    "t": 205.85
    },
    {
     "speaker": "Anna",
     "text": "In a few minutes, you see whether you can probably donate.",
-    "t": 210.3
+    "t": 211.23
    },
    {
     "speaker": "Tom",
     "text": "Why do you say \"probably\"?",
-    "t": 213.81
+    "t": 214.74
    },
    {
     "speaker": "Anna",
     "text": "Because the test is only a first indication.",
-    "t": 215.28
+    "t": 216.21
    },
    {
     "speaker": "Anna",
     "text": "The real decision is made on the day itself, in a short conversation with a health professional.",
-    "t": 218.02
+    "t": 218.95
    },
    {
     "speaker": "Tom",
     "text": "Let's go through a donation step by step.",
-    "t": 223.58
+    "t": 224.51
    },
    {
     "speaker": "Tom",
     "text": "What is the first step?",
-    "t": 225.75
+    "t": 226.68
    },
    {
     "speaker": "Anna",
     "text": "You make an appointment on dondusang dot l-u.",
-    "t": 227.23
+    "t": 228.16
    },
    {
     "speaker": "Anna",
     "text": "You choose the place and the date.",
-    "t": 230.2
+    "t": 231.89
    },
    {
     "speaker": "Anna",
     "text": "The booking runs through Doctena, the platform that many people already use for their doctor's appointments.",
-    "t": 232.25
+    "t": 233.95
    },
    {
     "speaker": "Tom",
     "text": "Is an appointment compulsory?",
-    "t": 238.59
+    "t": 240.29
    },
    {
     "speaker": "Anna",
     "text": "No, it isn't.",
-    "t": 240.36
+    "t": 242.06
    },
    {
     "speaker": "Anna",
     "text": "An appointment is recommended, because you wait less, but you can also come without one.",
-    "t": 241.53
+    "t": 243.23
    },
    {
     "speaker": "Tom",
     "text": "And what do I do before I go?",
-    "t": 246.51
+    "t": 248.21
    },
    {
     "speaker": "Anna",
     "text": "You fill in a medical questionnaire, the day before or on the day itself.",
-    "t": 248.19
+    "t": 249.89
    },
    {
     "speaker": "Anna",
     "text": "It asks about your health, operations, travels and risky situations.",
-    "t": 252.49
+    "t": 254.19
    },
    {
     "speaker": "Tom",
     "text": "Those are quite personal questions.",
-    "t": 257.41
+    "t": 259.11
    },
    {
     "speaker": "Anna",
     "text": "They are, and they protect two people: you, and the patient who will receive your blood.",
-    "t": 259.33
+    "t": 261.03
    },
    {
     "speaker": "Anna",
     "text": "So it's important to answer honestly.",
-    "t": 265.35
+    "t": 267.05
    },
    {
     "speaker": "Anna",
     "text": "And the conversation that follows is confidential.",
-    "t": 267.93
+    "t": 269.63
    },
    {
     "speaker": "Tom",
     "text": "Should I come with an empty stomach, like for a blood test at the laboratory?",
-    "t": 270.8
+    "t": 272.5
    },
    {
     "speaker": "Anna",
     "text": "No, please don't!",
-    "t": 274.72
+    "t": 276.42
    },
    {
     "speaker": "Anna",
     "text": "Eat normally and drink enough water.",
-    "t": 276.04
+    "t": 277.74
    },
    {
     "speaker": "Anna",
     "text": "And avoid intense sport just before and just after the donation.",
-    "t": 278.37
+    "t": 280.07
    },
    {
     "speaker": "Tom",
     "text": "And what do I need to bring with me?",
-    "t": 282.73
+    "t": 284.43
    },
    {
     "speaker": "Anna",
     "text": "An identity document.",
-    "t": 284.37
+    "t": 286.07
    },
    {
     "speaker": "Anna",
     "text": "That's all you need the first time.",
-    "t": 286.2
+    "t": 287.9
    },
    {
     "speaker": "Tom",
     "text": "And then comes the needle.",
-    "t": 288.17
+    "t": 289.87
    },
    {
     "speaker": "Tom",
     "text": "Be honest with me: does it hurt?",
-    "t": 289.53
+    "t": 291.23
    },
    {
     "speaker": "Anna",
     "text": "You feel a small prick at the start, like for a normal blood test.",
-    "t": 291.36
+    "t": 293.06
    },
    {
     "speaker": "Anna",
     "text": "After that, you just lie back and relax.",
-    "t": 295.17
+    "t": 296.87
    },
    {
     "speaker": "Tom",
     "text": "How long does it all take?",
-    "t": 297.95
+    "t": 299.65
    },
    {
     "speaker": "Anna",
     "text": "The donation itself takes about ten minutes.",
-    "t": 299.49
+    "t": 301.19
    },
    {
     "speaker": "Anna",
     "text": "With the reception, the conversation and the rest afterwards, plan about one hour.",
-    "t": 302.11
+    "t": 303.81
    },
    {
     "speaker": "Tom",
     "text": "And how much blood is taken?",
-    "t": 306.99
+    "t": 308.69
    },
    {
     "speaker": "Anna",
     "text": "A little less than half a litre.",
-    "t": 308.57
+    "t": 310.27
    },
    {
     "speaker": "Anna",
     "text": "For a healthy adult, that is safe.",
-    "t": 310.44
+    "t": 312.14
    },
    {
     "speaker": "Anna",
     "text": "The body replaces the liquid very quickly, and the blood cells within a few weeks.",
-    "t": 312.71
+    "t": 314.41
    },
    {
     "speaker": "Tom",
     "text": "Can I catch a disease when I give blood?",
-    "t": 318.04
+    "t": 319.74
    },
    {
     "speaker": "Anna",
     "text": "No, you can't.",
-    "t": 320.27
+    "t": 321.97
    },
    {
     "speaker": "Anna",
     "text": "The needle and the bag are sterile, and they are used only once.",
-    "t": 321.63
+    "t": 323.33
    },
    {
     "speaker": "Tom",
     "text": "And afterwards, there's something to eat, I hope.",
-    "t": 325.56
+    "t": 327.26
    },
    {
     "speaker": "Anna",
     "text": "Of course there is.",
-    "t": 328.11
+    "t": 329.81
    },
    {
     "speaker": "Anna",
     "text": "You stay for a little while in the rest area, with a free drink and a snack, and the team checks that you feel well.",
-    "t": 329.28
+    "t": 330.98
    },
    {
     "speaker": "Tom",
     "text": "What happens to my blood after that?",
-    "t": 335.87
+    "t": 337.57
    },
    {
     "speaker": "Anna",
     "text": "It is tested, among other things for infections like hepatitis and HIV.",
-    "t": 337.96
+    "t": 339.66
    },
    {
     "speaker": "Anna",
     "text": "If something unusual is found, you are contacted.",
-    "t": 342.5
+    "t": 344.2
    },
    {
     "speaker": "Anna",
     "text": "If you hear nothing, everything is fine.",
-    "t": 345.46
+    "t": 347.16
    },
    {
     "speaker": "Tom",
     "text": "And when do I get the donor card you mentioned?",
-    "t": 348.02
+    "t": 349.72
    },
    {
     "speaker": "Anna",
     "text": "You receive it at your second visit, and it shows your blood group.",
-    "t": 350.19
+    "t": 351.89
    },
    {
     "speaker": "Tom",
     "text": "How often can a person give blood?",
-    "t": 353.86
+    "t": 355.56
    },
    {
     "speaker": "Anna",
     "text": "Men can give every three months, and women every four months.",
-    "t": 355.84
+    "t": 357.54
    },
    {
     "speaker": "Tom",
     "text": "On the website, I also saw the word \"plasma\".",
-    "t": 359.41
+    "t": 361.11
    },
    {
     "speaker": "Tom",
     "text": "What is that exactly?",
-    "t": 362.05
+    "t": 363.75
    },
    {
     "speaker": "Anna",
     "text": "Plasma is the liquid part of the blood.",
-    "t": 363.59
+    "t": 365.29
    },
    {
     "speaker": "Anna",
     "text": "It is yellow, and it makes up about half of our blood.",
-    "t": 366.15
+    "t": 367.85
    },
    {
     "speaker": "Tom",
     "text": "And is it possible to give only plasma?",
-    "t": 369.66
+    "t": 371.36
    },
    {
     "speaker": "Anna",
     "text": "Yes, it is.",
-    "t": 372.03
+    "t": 373.73
    },
    {
     "speaker": "Anna",
     "text": "A machine separates the plasma, and your blood cells are given back to you.",
-    "t": 373.12
+    "t": 374.82
    },
    {
     "speaker": "Anna",
     "text": "That's why you can give plasma more often: once a month.",
-    "t": 377.4
+    "t": 379.1
    },
    {
     "speaker": "Tom",
     "text": "What is plasma used for?",
-    "t": 381.29
+    "t": 382.99
    },
    {
     "speaker": "Anna",
     "text": "Mostly to make medicines for people with rare diseases or with a weak immune system.",
-    "t": 382.89
+    "t": 384.59
    },
    {
     "speaker": "Anna",
     "text": "It also helps people with severe burns.",
-    "t": 387.88
+    "t": 389.58
    },
    {
     "speaker": "Tom",
     "text": "Does a plasma donation take longer?",
-    "t": 390.79
+    "t": 392.49
    },
    {
     "speaker": "Anna",
     "text": "Yes, plan up to two hours, especially the first time.",
-    "t": 392.88
+    "t": 394.58
    },
    {
     "speaker": "Anna",
     "text": "And it is only possible at the centre in Luxembourg City.",
-    "t": 395.79
+    "t": 397.49
    },
    {
     "speaker": "Tom",
     "text": "That's a good moment to ask: where can people give blood?",
-    "t": 399.46
+    "t": 401.16
    },
    {
     "speaker": "Anna",
     "text": "There are three possibilities.",
-    "t": 402.24
+    "t": 403.94
    },
    {
     "speaker": "Anna",
     "text": "The first one is the Blood Transfusion Centre in Luxembourg City, on boulevard Joseph II.",
-    "t": 404.05
+    "t": 405.75
    },
    {
     "speaker": "Anna",
     "text": "It is open from Monday to Friday.",
-    "t": 410.35
+    "t": 412.05
    },
    {
     "speaker": "Tom",
     "text": "And what about the south of the country?",
-    "t": 412.73
+    "t": 414.43
    },
    {
     "speaker": "Anna",
     "text": "In Esch-Belval, you can give blood on Mondays and Tuesdays.",
-    "t": 414.66
+    "t": 416.36
    },
    {
     "speaker": "Anna",
     "text": "And from Wednesday to Friday, a mobile team travels around the country, for example to Ettelbruck, Wiltz, Echternach or Grevenmacher.",
-    "t": 418.4
+    "t": 420.1
    },
    {
     "speaker": "Tom",
     "text": "And all the dates are on the website, I imagine.",
-    "t": 427.91
+    "t": 429.61
    },
    {
     "speaker": "Anna",
     "text": "Yes, in a calendar.",
-    "t": 430.4
+    "t": 432.1
    },
    {
     "speaker": "Anna",
     "text": "And on the home page, there is a \"blood group barometer\".",
-    "t": 431.82
+    "t": 433.52
    },
    {
     "speaker": "Anna",
     "text": "It shows which blood groups are needed most at the moment.",
-    "t": 435.09
+    "t": 436.79
    },
    {
     "speaker": "Tom",
     "text": "One more important thing: giving blood is voluntary, and nobody is paid for it.",
-    "t": 438.78
+    "t": 440.48
    },
    {
     "speaker": "Anna",
     "text": "That's right. It is a gift, from one person to another person they will never meet.",
-    "t": 443.11
+    "t": 444.81
    },
    {
     "speaker": "Tom",
     "text": "And what if someone would like to help, but cannot give blood?",
-    "t": 448.39
+    "t": 450.09
    },
    {
     "speaker": "Anna",
     "text": "There are other ways to help.",
-    "t": 451.47
+    "t": 453.17
    },
    {
     "speaker": "Anna",
     "text": "You can become a \"blood donation ambassador\": you talk about it with your friends, family and colleagues, and you share the appeals when the reserves are low.",
-    "t": 453.22
+    "t": 454.92
    },
    {
     "speaker": "Tom",
     "text": "You can also become a volunteer, for example to look after the donors during their break.",
-    "t": 463.13
+    "t": 464.83
    },
    {
     "speaker": "Anna",
     "text": "And a company, a school or an association can organise a visit to the centre, or even host a blood collection.",
-    "t": 467.92
+    "t": 469.62
    },
    {
     "speaker": "Tom",
     "text": "That fits well with the Biergerpakt.",
-    "t": 475.44
+    "t": 477.14
    },
    {
     "speaker": "Tom",
     "text": "Giving blood is a very concrete way of taking part in life in Luxembourg.",
-    "t": 477.59
+    "t": 479.29
    },
    {
     "speaker": "Anna",
     "text": "Let's bring it together.",
-    "t": 481.84
+    "t": 483.54
    },
    {
     "speaker": "Anna",
     "text": "What should people remember?",
-    "t": 483.31
+    "t": 485.01
    },
    {
     "speaker": "Tom",
     "text": "First: blood cannot be manufactured, and Luxembourg's hospitals need about a hundred bags every weekday.",
-    "t": 485.28
+    "t": 486.98
    },
    {
     "speaker": "Anna",
     "text": "Second: if you are healthy, at least 18 years old, and weigh more than 50 kilos, you can probably give.",
-    "t": 492.54
+    "t": 494.24
    },
    {
     "speaker": "Tom",
     "text": "Third: plan about one hour, and the donation itself takes only about ten minutes.",
-    "t": 499.79
+    "t": 501.49
    },
    {
     "speaker": "Anna",
     "text": "And fourth: everything starts on dondusang dot l-u — the online test, the appointment, the places and the dates.",
-    "t": 504.57
+    "t": 506.27
    },
    {
     "speaker": "Tom",
     "text": "One hour of your time can help to save a life.",
-    "t": 512.3
+    "t": 514.46
    },
    {
     "speaker": "Anna",
     "text": "And it's a beautiful way to help.",
-    "t": 514.72
+    "t": 516.88
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about blood donation in Luxembourg.",
-    "t": 516.97
+    "t": 519.13
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 520.54
+    "t": 522.7
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 531.24
+    "t": 533.4
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 549.53
+    "t": 551.69
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 556.28
+    "t": 558.44
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 558.48
+    "t": 560.64
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 563.17
+    "t": 565.33
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 564.34
+    "t": 566.5
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 566.48
+    "t": 568.64
    }
   ],
   "questions": [
@@ -108914,447 +108914,447 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "„Don du sang\" ass Franséisch a heescht ganz einfach „Bluttspend\". De Site gëtt et op Franséisch, Däitsch an Englesch.",
-    "t": 43.22
+    "t": 44.01
    },
    {
     "speaker": "Tom",
     "text": "A wie steet hannert dësem Site?",
-    "t": 51.38
+    "t": 52.31
    },
    {
     "speaker": "Anna",
     "text": "D'Lëtzebuerger Rout Kräiz. Et ass déi eenzeg Organisatioun zu Lëtzebuerg, déi Blutt sammelt an et fir d'Spideeler preparéiert. Zënter Juli 2026 gëtt dës Aarbecht vun enger Fondatioun vum Roude Kräiz gedroen, déi sech ganz ëm d'Blutttransfusioun këmmert.",
-    "t": 53.04
+    "t": 53.97
    },
    {
     "speaker": "Tom",
     "text": "Ännert dat eppes fir d'Spender?",
-    "t": 67.91
+    "t": 68.84
    },
    {
     "speaker": "Anna",
     "text": "Nee, fir si ännert sech näischt: déi selwecht Plazen, déi selwecht Equippen an dee selwechte Site.",
-    "t": 69.95
+    "t": 70.88
    },
    {
     "speaker": "Tom",
     "text": "Fänke mer mat der grousser Fro un. Firwat ass Blutt spenden esou wichteg?",
-    "t": 75.82
+    "t": 76.75
    },
    {
     "speaker": "Anna",
     "text": "Well een Blutt net an enger Fabréck hierstelle kann. Fuerscher schaffen drun, mee haut ass déi eenzeg Quell en anere Mënsch.",
-    "t": 79.67
+    "t": 80.6
    },
    {
     "speaker": "Tom",
     "text": "A wéini brauchen d'Spideeler Blutt?",
-    "t": 87.25
+    "t": 88.18
    },
    {
     "speaker": "Anna",
     "text": "No engem schwéieren Accident, während enger Operatioun, oder wann eng Mamm bei der Gebuert vill Blutt verléiert. An och fir Leit, deenen hire Kierper net genuch Blutt produzéiere kann, zum Beispill während enger Kriibsbehandlung.",
-    "t": 89.17
+    "t": 90.1
    },
    {
     "speaker": "Tom",
     "text": "Wéi vill Blutt brauch Lëtzebuerg?",
-    "t": 101.03
+    "t": 101.96
    },
    {
     "speaker": "Anna",
     "text": "De Site nennt eng einfach Zuel: All Wochendag mussen ongeféier honnert Bluttbeidele gesammelt ginn, fir de Bedarf vun de Spideeler ze decken.",
-    "t": 103
+    "t": 103.93
    },
    {
     "speaker": "Tom",
     "text": "A gëtt et genuch Blutt zu Lëtzebuerg?",
-    "t": 112.17
+    "t": 113.1
    },
    {
     "speaker": "Anna",
     "text": "D'Rout Kräiz äntwert: „Jo an nee\". Jo, well d'Spideeler bis elo ëmmer kritt hunn, wat se gebraucht hunn. Nee, well d'Reserven dacks no bei hirer ënneschter Limitt leien.",
-    "t": 114.45
+    "t": 115.38
    },
    {
     "speaker": "Tom",
     "text": "A Blutt hält net éiweg, oder?",
-    "t": 124.77
+    "t": 125.7
    },
    {
     "speaker": "Anna",
     "text": "Nee, a genee dat ass de Punkt. Eng Spend gëtt an hir Bestanddeeler getrennt. Rout Bluttkierpercher halen ongeféier sechs Wochen. Bluttplättercher, déi hëllefen, Bluddungen ze stoppen, halen nëmmen ongeféier eng Woch.",
-    "t": 126.83
+    "t": 127.76
    },
    {
     "speaker": "Tom",
     "text": "D'Spideeler brauchen also déi ganzen Zäit nei Spenden, an net nëmmen no engem Opruff an de Medien.",
-    "t": 138.64
+    "t": 139.57
    },
    {
     "speaker": "Anna",
     "text": "Genee, an dofir si reegelméisseg Spender esou wäertvoll.",
-    "t": 144.07
+    "t": 145
    },
    {
     "speaker": "Tom",
     "text": "Wie kann dann elo Blutt spenden?",
-    "t": 147.74
+    "t": 148.67
    },
    {
     "speaker": "Anna",
     "text": "D'Grondreegel ass einfach: Dir sidd gesond, Dir hutt op d'mannst 18 Joer, an Dir weit méi wéi 50 Kilo.",
-    "t": 149.22
+    "t": 150.15
    },
    {
     "speaker": "Tom",
     "text": "Gëtt et och eng Altersgrenz no uewen?",
-    "t": 157.37
+    "t": 158.3
    },
    {
     "speaker": "Anna",
     "text": "Jo, déi gëtt et. Déi éischt Spend muss virum Alter vu 60 Joer gemaach ginn, an déi lescht mat 65 Joer. En Dokter vum Bluttspendenzentrum kann heiansdo eng Ausnam erlaben.",
-    "t": 158.83
+    "t": 159.76
    },
    {
     "speaker": "Tom",
     "text": "Ech hunn héieren, datt een heiansdo waarde muss, ier ee spenden däerf. Stëmmt dat?",
-    "t": 169.97
+    "t": 170.9
    },
    {
     "speaker": "Anna",
     "text": "Jo, dat stëmmt. A verschiddene Situatioune muss een eng Zäit waarden. No engem neien Tattoo oder engem Piercing zum Beispill si et véier Méint.",
-    "t": 173.76
+    "t": 174.69
    },
    {
     "speaker": "Tom",
     "text": "A wéi ass et no enger Rees an d'Ausland?",
-    "t": 182.17
+    "t": 183.1
    },
    {
     "speaker": "Anna",
     "text": "Dat hänkt vun der Destinatioun of. No enger Rees an eng tropesch Regioun waart ee sechs Méint. Bei e puer aneren Destinatiounen ass et ongeféier ee Mount.",
-    "t": 184.09
+    "t": 185.02
    },
    {
     "speaker": "Tom",
     "text": "A wann ech einfach nëmmen erkaalt war?",
-    "t": 193.04
+    "t": 193.97
    },
    {
     "speaker": "Anna",
     "text": "Da waart een zwou Wochen, nodeems een erëm gesond ass. An no Antibiotike waart een ee Mount nom Enn vun der Behandlung.",
-    "t": 195.05
+    "t": 195.98
    },
    {
     "speaker": "Tom",
     "text": "Dat ass vill, wat ee sech mierke muss.",
-    "t": 201.85
+    "t": 202.78
    },
    {
     "speaker": "Anna",
     "text": "Dir musst Iech dat net mierken. De Site huet eng Säit mat all dëse Waardezäiten, an och e kuerzen Online-Test. An e puer Minutte gesitt Dir, ob Dir wahrscheinlech spende kënnt.",
-    "t": 203.24
+    "t": 204.17
    },
    {
     "speaker": "Tom",
     "text": "Firwat sot Dir „wahrscheinlech\"?",
-    "t": 213.81
+    "t": 214.74
    },
    {
     "speaker": "Anna",
     "text": "Well den Test nëmmen eng éischt Indikatioun ass. Déi richteg Decisioun fält um Dag selwer, an engem kuerze Gespréich mat engem Gesondheetsprofessionellen.",
-    "t": 215.28
+    "t": 216.21
    },
    {
     "speaker": "Tom",
     "text": "Gi mer eng Spend Schrëtt fir Schrëtt duerch. Wat ass den éischte Schrëtt?",
-    "t": 223.58
+    "t": 224.51
    },
    {
     "speaker": "Anna",
     "text": "Dir maacht e Rendez-vous op dondusang Punkt l-u. Dir wielt d'Plaz an den Datum. D'Reservatioun leeft iwwer Doctena, d'Plattform, déi vill Leit scho fir hir Rendez-vousen beim Dokter benotzen.",
-    "t": 227.23
+    "t": 228.16
    },
    {
     "speaker": "Tom",
     "text": "Ass e Rendez-vous obligatoresch?",
-    "t": 238.59
+    "t": 240.29
    },
    {
     "speaker": "Anna",
     "text": "Nee, dat ass en net. E Rendez-vous gëtt recommandéiert, well Dir da manner waart, mee Dir kënnt och ouni Rendez-vous kommen.",
-    "t": 240.36
+    "t": 242.06
    },
    {
     "speaker": "Tom",
     "text": "A wat maachen ech, ier ech higinn?",
-    "t": 246.51
+    "t": 248.21
    },
    {
     "speaker": "Anna",
     "text": "Dir fëllt e medezinesche Froebou aus, den Dag virdrun oder um Dag selwer. E freet no Ärer Gesondheet, no Operatiounen, Reesen a Risikosituatiounen.",
-    "t": 248.19
+    "t": 249.89
    },
    {
     "speaker": "Tom",
     "text": "Dat si zimlech perséinlech Froen.",
-    "t": 257.41
+    "t": 259.11
    },
    {
     "speaker": "Anna",
     "text": "Jo, a si schützen zwee Mënschen: Iech selwer, an de Patient, deen Äert Blutt kritt. Dofir ass et wichteg, éierlech z'äntweren. An d'Gespréich duerno ass vertraulech.",
-    "t": 259.33
+    "t": 261.03
    },
    {
     "speaker": "Tom",
     "text": "Soll ech niichter kommen, wéi bei enger Bluttanalys am Laboratoire?",
-    "t": 270.8
+    "t": 272.5
    },
    {
     "speaker": "Anna",
     "text": "Nee, wann ech gelift net! Iesst normal an drénkt genuch Waasser. A vermeit intensive Sport direkt virun an direkt no der Spend.",
-    "t": 274.72
+    "t": 276.42
    },
    {
     "speaker": "Tom",
     "text": "A wat muss ech matbréngen?",
-    "t": 282.73
+    "t": 284.43
    },
    {
     "speaker": "Anna",
     "text": "Eng Identitéitskaart oder e Pass. Dat ass alles, wat Dir déi éischte Kéier braucht.",
-    "t": 284.37
+    "t": 286.07
    },
    {
     "speaker": "Tom",
     "text": "An da kënnt d'Nol. Sidd éierlech mat mir: Deet et wéi?",
-    "t": 288.17
+    "t": 289.87
    },
    {
     "speaker": "Anna",
     "text": "Et spiert een um Ufank e klenge Stéch, wéi bei enger normaler Bluttanalys. Duerno läit een einfach do an entspaant sech.",
-    "t": 291.36
+    "t": 293.06
    },
    {
     "speaker": "Tom",
     "text": "Wéi laang dauert dat Ganzt?",
-    "t": 297.95
+    "t": 299.65
    },
    {
     "speaker": "Anna",
     "text": "D'Spend selwer dauert ongeféier zéng Minutten. Mam Empfang, dem Gespréich an der Rou duerno sollt Dir ongeféier eng Stonn aplangen.",
-    "t": 299.49
+    "t": 301.19
    },
    {
     "speaker": "Tom",
     "text": "A wéi vill Blutt gëtt ofgeholl?",
-    "t": 306.99
+    "t": 308.69
    },
    {
     "speaker": "Anna",
     "text": "E bësse manner wéi en hallwe Liter. Fir e gesonden Erwuessenen ass dat ongeféierlech. De Kierper ersetzt d'Flëssegkeet ganz séier, an d'Bluttzellen an e puer Wochen.",
-    "t": 308.57
+    "t": 310.27
    },
    {
     "speaker": "Tom",
     "text": "Kann ech mech beim Bluttspenden mat enger Krankheet ustiechen?",
-    "t": 318.04
+    "t": 319.74
    },
    {
     "speaker": "Anna",
     "text": "Nee, dat ass net méiglech. D'Nol an de Beidel si steril, a si ginn nëmmen eng eenzeg Kéier benotzt.",
-    "t": 320.27
+    "t": 321.97
    },
    {
     "speaker": "Tom",
     "text": "An duerno gëtt et eppes z'iessen, hoffen ech.",
-    "t": 325.56
+    "t": 327.26
    },
    {
     "speaker": "Anna",
     "text": "Natierlech. Dir bleift nach e bëssen am Roueberäich, mat engem gratis Gedrénks an engem Snack, an d'Equipe kuckt, ob et Iech gutt geet.",
-    "t": 328.11
+    "t": 329.81
    },
    {
     "speaker": "Tom",
     "text": "Wat geschitt duerno mat mengem Blutt?",
-    "t": 335.87
+    "t": 337.57
    },
    {
     "speaker": "Anna",
     "text": "Et gëtt analyséiert, ënner anerem op Infektioune wéi Hepatitis an HIV. Wann eppes Ongewéinleches fonnt gëtt, mellt ee sech bei Iech. Wann Dir näischt héiert, ass alles an der Rei.",
-    "t": 337.96
+    "t": 339.66
    },
    {
     "speaker": "Tom",
     "text": "A wéini kréien ech d'Spenderkaart, vun där Dir geschwat hutt?",
-    "t": 348.02
+    "t": 349.72
    },
    {
     "speaker": "Anna",
     "text": "Dir kritt se bei Ärer zweeter Visitt, an dorop steet Är Bluttgrupp.",
-    "t": 350.19
+    "t": 351.89
    },
    {
     "speaker": "Tom",
     "text": "Wéi dacks kann e Mënsch Blutt spenden?",
-    "t": 353.86
+    "t": 355.56
    },
    {
     "speaker": "Anna",
     "text": "Männer kënnen all dräi Méint spenden, a Fraen all véier Méint.",
-    "t": 355.84
+    "t": 357.54
    },
    {
     "speaker": "Tom",
     "text": "Um Site hunn ech och d'Wuert „Plasma\" gesinn. Wat ass dat genee?",
-    "t": 359.41
+    "t": 361.11
    },
    {
     "speaker": "Anna",
     "text": "Plasma ass de flëssegen Deel vum Blutt. Et ass giel, an et mécht ongeféier d'Halschent vun eisem Blutt aus.",
-    "t": 363.59
+    "t": 365.29
    },
    {
     "speaker": "Tom",
     "text": "A kann een och nëmme Plasma spenden?",
-    "t": 369.66
+    "t": 371.36
    },
    {
     "speaker": "Anna",
     "text": "Jo, dat geet. Eng Maschinn trennt de Plasma of, an Är Bluttzelle kritt Dir zréck. Dofir kann ee Plasma méi dacks spenden: eemol de Mount.",
-    "t": 372.03
+    "t": 373.73
    },
    {
     "speaker": "Tom",
     "text": "Fir wat gëtt Plasma gebraucht?",
-    "t": 381.29
+    "t": 382.99
    },
    {
     "speaker": "Anna",
     "text": "Virun allem, fir Medikamenter hierzestellen, fir Leit mat rare Krankheeten oder mat engem schwaachen Immunsystem. Et hëlleft och Leit mat schwéiere Verbrennungen.",
-    "t": 382.89
+    "t": 384.59
    },
    {
     "speaker": "Tom",
     "text": "Dauert eng Plasmaspend méi laang?",
-    "t": 390.79
+    "t": 392.49
    },
    {
     "speaker": "Anna",
     "text": "Jo, plangt bis zu zwou Stonnen an, virun allem déi éischte Kéier. A si ass nëmmen am Zentrum an der Stad Lëtzebuerg méiglech.",
-    "t": 392.88
+    "t": 394.58
    },
    {
     "speaker": "Tom",
     "text": "Dat ass e gudde Moment fir d'Fro: Wou kann ee Blutt spenden?",
-    "t": 399.46
+    "t": 401.16
    },
    {
     "speaker": "Anna",
     "text": "Et ginn dräi Méiglechkeeten. Déi éischt ass de Bluttspendenzentrum an der Stad Lëtzebuerg, um Boulevard Joseph II. En ass vu Méindes bis Freides op.",
-    "t": 402.24
+    "t": 403.94
    },
    {
     "speaker": "Tom",
     "text": "A wéi gesäit et am Süde vum Land aus?",
-    "t": 412.73
+    "t": 414.43
    },
    {
     "speaker": "Anna",
     "text": "Zu Esch-Belval kann ee méindes an dënschdes Blutt spenden. A vu Mëttwochs bis Freides fiert eng mobil Equipe duerch d'Land, zum Beispill op Ettelbréck, Wolz, Iechternach oder Gréiwemaacher.",
-    "t": 414.66
+    "t": 416.36
    },
    {
     "speaker": "Tom",
     "text": "An all d'Datume stinn um Site, huelen ech un.",
-    "t": 427.91
+    "t": 429.61
    },
    {
     "speaker": "Anna",
     "text": "Jo, an engem Kalenner. An op der Startsäit gëtt et e „Bluttgruppebarometer\". E weist, wéi eng Bluttgruppen am Moment am meeschte gebraucht ginn.",
-    "t": 430.4
+    "t": 432.1
    },
    {
     "speaker": "Tom",
     "text": "Nach eppes Wichteges: Blutt spenden ass fräiwëlleg, a kee gëtt dofir bezuelt.",
-    "t": 438.78
+    "t": 440.48
    },
    {
     "speaker": "Anna",
     "text": "Dat stëmmt. Et ass e Kaddo, vun engem Mënsch un en anere Mënsch, deen en ni wäert begéinen.",
-    "t": 443.11
+    "t": 444.81
    },
    {
     "speaker": "Tom",
     "text": "A wann een hëllefe wëllt, mee kee Blutt spende kann?",
-    "t": 448.39
+    "t": 450.09
    },
    {
     "speaker": "Anna",
     "text": "Et ginn aner Weeër fir ze hëllefen. Dir kënnt „Bluttspend-Ambassadeur\" ginn: Dir schwätzt mat Äre Frënn, Ärer Famill an Äre Kolleegen doriwwer, an Dir deelt d'Opriff, wann d'Reserven niddreg sinn.",
-    "t": 451.47
+    "t": 453.17
    },
    {
     "speaker": "Tom",
     "text": "Et kann een och als Benevole matmaachen, zum Beispill fir sech während hirer Paus ëm d'Spender ze këmmeren.",
-    "t": 463.13
+    "t": 464.83
    },
    {
     "speaker": "Anna",
     "text": "An eng Entreprise, eng Schoul oder e Veräin kann eng Visitt am Zentrum organiséieren, oder souguer selwer eng Bluttspendaktioun ausriichten.",
-    "t": 467.92
+    "t": 469.62
    },
    {
     "speaker": "Tom",
     "text": "Dat passt gutt bei de Biergerpakt. Blutt spenden ass eng ganz konkret Aart, um Liewen zu Lëtzebuerg deelzehuelen.",
-    "t": 475.44
+    "t": 477.14
    },
    {
     "speaker": "Anna",
     "text": "Faasse mer zesummen. Wat soll ee sech mierken?",
-    "t": 481.84
+    "t": 483.54
    },
    {
     "speaker": "Tom",
     "text": "Éischtens: Blutt kann een net kënschtlech hierstellen, an d'Spideeler zu Lëtzebuerg brauchen all Wochendag ongeféier honnert Beidelen.",
-    "t": 485.28
+    "t": 486.98
    },
    {
     "speaker": "Anna",
     "text": "Zweetens: Wann Dir gesond sidd, op d'mannst 18 Joer hutt a méi wéi 50 Kilo weit, kënnt Dir wahrscheinlech spenden.",
-    "t": 492.54
+    "t": 494.24
    },
    {
     "speaker": "Tom",
     "text": "Drëttens: Plangt ongeféier eng Stonn an, an d'Spend selwer dauert nëmmen ongeféier zéng Minutten.",
-    "t": 499.79
+    "t": 501.49
    },
    {
     "speaker": "Anna",
     "text": "A véiertens: Alles fänkt op dondusang Punkt l-u un — den Online-Test, de Rendez-vous, d'Plazen an d'Datumen.",
-    "t": 504.57
+    "t": 506.27
    },
    {
     "speaker": "Tom",
     "text": "Eng Stonn vun Ärer Zäit kann hëllefen, e Liewen ze retten.",
-    "t": 512.3
+    "t": 514.46
    },
    {
     "speaker": "Anna",
     "text": "An et ass eng schéin Aart ze hëllefen. Dat war eis Episode iwwer d'Bluttspend zu Lëtzebuerg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
-    "t": 514.72
+    "t": 516.88
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 563.17
+    "t": 565.33
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 566.48
+    "t": 568.64
    }
   ]
  },

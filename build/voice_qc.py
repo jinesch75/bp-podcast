@@ -9,9 +9,10 @@ import numpy as np, librosa
 sys.path.insert(0, "build")
 from pronunciation import spoken
 key, lang = sys.argv[1], sys.argv[2]
-seg = f"/tmp/{key}_el_seg" if lang == "en" else f"/tmp/{key}_{lang}_el_seg"
+T = os.environ.get('EL_TMP', '/tmp')
+seg = f"{T}/{key}_el_seg" if lang == "en" else f"{T}/{key}_{lang}_el_seg"
 meta = json.load(open(os.path.join(seg, "meta.json")))["meta"]
-out = f"/tmp/voice_qc_{key}_{lang}.json"
+out = f"{T}/voice_qc_{key}_{lang}.json"
 res = json.load(open(out)) if os.path.exists(out) else {}
 t0 = time.time(); budget = float(os.environ.get("BUDGET", 150))
 from faster_whisper import WhisperModel

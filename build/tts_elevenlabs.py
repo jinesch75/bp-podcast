@@ -457,7 +457,7 @@ def main():
 
     # assemble the rebuild.py work folder
     suffix = "" if lang == "en" else f"_{lang}"
-    work = f"/tmp/{key}{suffix}_el_seg" + ("_test" if first else "")
+    work = f"{os.environ.get('EL_TMP', '/tmp')}/{key}{suffix}_el_seg" + ("_test" if first else "")
     if os.path.isdir(work):
         shutil.rmtree(work)
     os.makedirs(work)

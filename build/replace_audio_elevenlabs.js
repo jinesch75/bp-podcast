@@ -67,7 +67,7 @@ for (const key of keys) {
   if (!ep) { console.error('no episode with key ' + key); problems++; continue; }
   for (const L of langs) {
     const sfx = L === 'en' ? '' : '_' + L;
-    const work = `/tmp/${key}${sfx}_el_seg`;
+    const work = `${process.env.EL_TMP || '/tmp'}/${key}${sfx}_el_seg`;
     const mp3 = `${work}/podcast_${key}${sfx}.mp3`;
     const sdPath = `${work}/segdata_fixed.json`;
     if (!fs.existsSync(mp3) || !fs.existsSync(sdPath)) { console.error(`[${key} ${L}] missing recording in ${work}`); problems++; continue; }

@@ -52,7 +52,7 @@ NAMES = {
            (r"\bBass du prett\b", "Bass doo prett"),
            (r"\binfocrise\b", "info-creeze"),
            (r"\b113\b", "one one three"),
-           (r"(?i)\bdon ?du ?sang\b", "don du sang"),                       # dondusang ep (2026-11-20), French way, check by ear
+           (r"(?i)\bdon ?du ?sang\b", "dawn dew sahn"),                     # dondusang ep: Jacques's A/B choice B (2026-11-20)
            (r"(?i)\bicanvote\b", "I can vote")],                           # jepeuxvoter ep (2026-11-20)                         # website said the French way, A/B choice A (2026-11-13)
     "fr": [(r"\bÄddi\b", "Addi"),                                             # no "Ä" in French
            (r"(?i)\bZukunftskeess\b", "Tsoukounftskéss"),                     # FR 1B

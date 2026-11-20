@@ -11,7 +11,7 @@ import numpy as np, librosa
 spec = importlib.util.spec_from_file_location("el", os.path.join("build", "tts_elevenlabs.py"))
 el = importlib.util.module_from_spec(spec); spec.loader.exec_module(el)
 key, lang, idx = sys.argv[1], sys.argv[2], [int(x) for x in sys.argv[3].split(",")]
-qc = json.load(open(f"/tmp/voice_qc_{key}_{lang}.json"))
+qc = json.load(open(f"{os.environ.get('EL_TMP', '/tmp')}/voice_qc_{key}_{lang}.json"))
 FIELDS = ("rate", "f0", "spread", "rms", "voiced")
 prof = {}
 for spk in ("Anna", "Tom"):
