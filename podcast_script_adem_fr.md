@@ -14,7 +14,7 @@
 **TOM:** L'ADEM. Vous avez peut-être déjà vu ce nom, peut-être sur un courrier, ou près d'un de leurs bureaux. Mais qu'est-ce que c'est, exactement ?
 **ANNA:** ADEM, cela veut dire « Agence pour le développement de l'emploi ».
 **TOM:** C'est le service public de l'emploi du Luxembourg. Voyez cela comme l'agence officielle de l'État qui aide les gens à trouver du travail, et qui aide les employeurs à trouver du personnel.
-**ANNA:** Sa devise est claire et agréable, « Facilitons l'emploi ». Rendons l'emploi plus facile.
+**ANNA:** Sa devise est claire et agréable : « Facilitons l'emploi ». Rendons l'emploi plus facile.
 **TOM:** Donc l'ADEM se trouve au milieu, entre les personnes qui cherchent un emploi, et les entreprises qui cherchent des personnes.
 **ANNA:** Exactement. Et c'est un service public, ce qui veut dire qu'il est gratuit.
 **TOM:** Bon à savoir. Alors, Anna, à qui s'adresse l'ADEM, en réalité ?

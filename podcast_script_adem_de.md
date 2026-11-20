@@ -30,7 +30,7 @@
 **TOM:** Sie melden sich also an, und dann öffnet sich eine Tür zu all der Hilfe der ADEM.
 **ANNA:** Ja. Sobald Sie angemeldet sind, bekommen Sie einen persönlichen Berater, Zugang zu Stellenangeboten, Weiterbildung und Unterstützung bei Ihrer Suche.
 **TOM:** Lassen Sie uns beim persönlichen Berater kurz innehalten, denn ich finde das wirklich wichtig.
-**ANNA:** Das ist es. Nachdem Ihre Anmeldung genehmigt wurde, werden Sie zu einem ersten Termin mit einem ADEM-Berater eingeladen.
+**ANNA:** Das ist es wirklich, denn nachdem Ihre Anmeldung genehmigt wurde, werden Sie zu einem ersten Termin mit einem ADEM-Berater eingeladen.
 **TOM:** Dieser Berater wird während Ihrer gesamten Jobsuche Ihr wichtigster Ansprechpartner.
 **ANNA:** Er begleitet Ihre Situation persönlich. Er hilft Ihnen, Ihre Schritte zu planen, und bleibt auf dem Weg an Ihrer Seite.
 **TOM:** Sie sind also nicht allein vor einer Webseite. Es gibt eine echte Person, die Ihre Akte kennt.

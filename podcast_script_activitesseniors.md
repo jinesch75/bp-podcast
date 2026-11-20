@@ -33,7 +33,7 @@
 **ANNA:** The second one, geroPRO, offers practical training to professionals who work with older people. The third one, geroRESEARCH, does applied research on ageing.
 **TOM:** So GERO works for seniors, for professionals, and for knowledge. Which organisation is next in this group?
 **ANNA:** Next is the Generatiounstreff of Amiperas, in Luxembourg City, in the district of Bonnevoie. Amiperas is an association for people who are retired, older or living alone.
-**TOM:** Generatiounstreff means a meeting place for the generations. What happens there?
+**TOM:** Generatiounstreff means a meeting place for the generations. So what happens in this meeting place?
 **ANNA:** Three times a year, it publishes a programme of activities. There are creative workshops, cooking, gentle sport and walks, culture and music, day trips and journeys.
 **TOM:** Is it only a place for leisure, or is there more?
 **ANNA:** There is more. You can also get information and advice there, for example about retirement, about digital tools or about administrative steps. And there are projects between generations and between cultures.
@@ -98,7 +98,7 @@
 **TOM:** And what do we see for each service?
 **ANNA:** You see a short description, the address, the phone number, the email address and the website. There is also a map, and documents such as the service brochure or the annual report.
 **TOM:** Do I need to be a senior myself to contact one of these services?
-**ANNA:** Not at all. Many of them are also there for families, for carers, for volunteers and for professionals. If you are not sure, simply call and ask.
+**ANNA:** No, that is not necessary at all. Many of them are also there for families, for carers, for volunteers and for professionals. If you are not sure, simply call and ask.
 **TOM:** And I imagine that this list can change over time.
 **ANNA:** Yes, services can be added and details are updated, so the website is always the best place to check.
 **TOM:** Let's bring it together. What should people remember?

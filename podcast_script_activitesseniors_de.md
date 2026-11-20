@@ -28,15 +28,15 @@
 **TOM:** Und was macht GERO für die Menschen im Alltag?
 **ANNA:** GERO informiert und schult zu allem, was mit dem Älterwerden zu tun hat. Die Idee ist, dass wir diesen Lebensabschnitt aktiv und mit Gelassenheit leben können.
 **TOM:** Ich habe gehört, dass GERO mehrere Abteilungen hat.
-**ANNA:** Ja, es hat drei. Die erste heißt geroAKTIV. Sie ist für Menschen ab sechzig Jahren, mit Aktivitäten, Vorträgen, Seminaren und Kursen, damit das Lernen nie aufhört.
+**ANNA:** Ja, GERO hat drei Abteilungen. Die erste heißt geroAKTIV. Sie ist für Menschen ab sechzig Jahren, mit Aktivitäten, Vorträgen, Seminaren und Kursen, damit das Lernen nie aufhört.
 **TOM:** Und was machen die beiden anderen Abteilungen?
 **ANNA:** Die zweite, geroPRO, bietet praktische Weiterbildungen für Fachleute, die mit älteren Menschen arbeiten. Die dritte, geroRESEARCH, macht angewandte Forschung über das Älterwerden.
 **TOM:** GERO arbeitet also für Senioren, für Fachleute und für das Wissen. Welche Organisation kommt als nächste in dieser Gruppe?
 **ANNA:** Als nächste kommt der Generatiounstreff von Amiperas, in der Stadt Luxemburg, im Viertel Bonneweg. Amiperas ist eine Vereinigung für Menschen, die pensioniert, älter oder alleinstehend sind.
-**TOM:** Generatiounstreff bedeutet ein Treffpunkt für die Generationen. Was passiert dort?
+**TOM:** Generatiounstreff bedeutet ein Treffpunkt für die Generationen. Was passiert denn an diesem Treffpunkt?
 **ANNA:** Dreimal im Jahr erscheint dort ein Programm mit Aktivitäten. Es gibt kreative Workshops, Kochen, angepassten Sport und Spaziergänge, Kultur und Musik, Ausflüge und Reisen.
 **TOM:** Ist das nur ein Ort für die Freizeit, oder gibt es noch mehr?
-**ANNA:** Es gibt noch mehr. Man bekommt dort auch Informationen und Beratung, zum Beispiel zur Pension, zur digitalen Welt oder zu Behördengängen. Und es gibt Projekte zwischen den Generationen und zwischen den Kulturen.
+**ANNA:** Ja, dort gibt es noch viel mehr. Man bekommt dort auch Informationen und Beratung, zum Beispiel zur Pension, zur digitalen Welt oder zu Behördengängen. Und es gibt Projekte zwischen den Generationen und zwischen den Kulturen.
 **TOM:** Das klingt nach einer sehr freundlichen Adresse. Und wie heißt der dritte Name in dieser Gruppe?
 **ANNA:** Der dritte ist GoldenMe. Dieser Verein hilft älteren Menschen, sich in der digitalen Welt wohlzufühlen.
 **TOM:** Das heißt also Computer, Smartphones und das Internet.
