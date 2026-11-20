@@ -41,6 +41,10 @@ const I18N = {
     filter_all: 'All topics',
     eps_count: '{n} of {total} episodes',
     view_by_topic: 'Show episodes by topic',
+    view_map: 'Show the topic map',
+    map_hint: 'Each circle is a topic and each number an episode. Choose a topic to filter the list below, or a number to open the episode.',
+    map_tap_again: 'Tap again to open',
+    map_label: 'Map of the episodes by topic',
     view_full_list: 'Show the full list',
     topics_count: '{n} topics · {total} episodes',
     btn_all_episodes: '← All episodes',
@@ -103,6 +107,10 @@ const I18N = {
     filter_all: 'Tous les sujets',
     eps_count: '{n} sur {total} épisodes',
     view_by_topic: 'Afficher les épisodes par sujet',
+    view_map: 'Afficher la carte des sujets',
+    map_hint: 'Chaque cercle est un sujet et chaque numéro un épisode. Choisissez un sujet pour filtrer la liste ci-dessous, ou un numéro pour ouvrir l\'épisode.',
+    map_tap_again: 'Touchez à nouveau pour ouvrir',
+    map_label: 'Carte des épisodes par sujet',
     view_full_list: 'Afficher la liste complète',
     topics_count: '{n} sujets · {total} épisodes',
     btn_all_episodes: '← Tous les épisodes',
@@ -165,6 +173,10 @@ const I18N = {
     filter_all: 'Alle Themen',
     eps_count: '{n} von {total} Folgen',
     view_by_topic: 'Folgen nach Thema anzeigen',
+    view_map: 'Themenkarte anzeigen',
+    map_hint: 'Jeder Kreis ist ein Thema und jede Zahl eine Folge. Wählen Sie ein Thema, um die Liste darunter zu filtern, oder eine Zahl, um die Folge zu öffnen.',
+    map_tap_again: 'Zum Öffnen erneut tippen',
+    map_label: 'Karte der Folgen nach Thema',
     view_full_list: 'Ganze Liste anzeigen',
     topics_count: '{n} Themen · {total} Folgen',
     btn_all_episodes: '← Alle Folgen',
@@ -227,6 +239,7 @@ const I18N = {
     filter_all: 'All Themen',
     eps_count: '{n} vu(n) {total} Episoden',
     view_by_topic: 'Episoden no Thema weisen',
+    view_map: 'Themekaart weisen',
     view_full_list: 'Ganz Lëscht weisen',
     topics_count: '{n} Themen · {total} Episoden',
     btn_all_episodes: '← All Episoden',
@@ -306,7 +319,33 @@ function catLabel(id) {
   var c = CATEGORIES.find(function (x) { return x.id === id; });
   return c ? (c[currentLang] || c.en) : id;
 }
-let selectedCat = null;   // single active topic filter; null = show all
+// Broad themes. The detailed categories above are regrouped into a few families; these are what
+// the dropdown, the "by topic" view and the topic map show. Every category id must be listed
+// in exactly one theme (an episode tagged only with an unlisted category would not be grouped).
+const THEMES = [
+  { id: 'digital', color: '#1A3C5E', cats: ['digital'],
+    en: 'Digital services', fr: 'Services en ligne', de: 'Online-Dienste' },
+  { id: 'social', color: '#B8430A', cats: ['social', 'inclusion'],
+    en: 'Social support & inclusion', fr: 'Aides sociales & inclusion', de: 'Soziale Hilfen & Inklusion' },
+  { id: 'family', color: '#8E2A6B', cats: ['family', 'health', 'seniors'],
+    en: 'Family, health & seniors', fr: 'Famille, santé & seniors', de: 'Familie, Gesundheit & Senioren' },
+  { id: 'work', color: '#1F6F78', cats: ['work', 'research'],
+    en: 'Work & innovation', fr: 'Travail & innovation', de: 'Arbeit & Innovation' },
+  { id: 'living', color: '#2A7A3B', cats: ['housing', 'energy', 'agriculture'],
+    en: 'Housing & environment', fr: 'Logement & environnement', de: 'Wohnen & Umwelt' },
+  { id: 'civic', color: '#5B4BA8', cats: ['civic', 'culture', 'crossborder'],
+    en: 'Civic life, culture & Greater Region', fr: 'Vie citoyenne, culture & Grande Région', de: 'Bürgerleben, Kultur & Großregion' },
+  { id: 'safety', color: '#B02A2A', cats: ['safety'],
+    en: 'Safety & emergencies', fr: 'Sécurité & urgences', de: 'Sicherheit & Notfälle' }
+];
+function themeById(id) { return THEMES.find(function (x) { return x.id === id; }); }
+function themeLabel(th) { return th[currentLang] || th.en; }
+function epInTheme(ep, th) {
+  return (ep.categories || []).some(function (c) { return th.cats.indexOf(c) >= 0; });
+}
+function themeEpisodes(th) { return EPISODES.filter(function (e) { return epInTheme(e, th); }); }
+let selectedCat = null;   // single active theme filter (a THEMES id); null = show all
+let showMap = false;      // topic map (bubbles) above the list; off by default
 // List view: false = one row per episode (default); true = grouped by topic, an episode appears under each of its topics
 let viewByTopic = false;   // the site always opens on the full list
 
@@ -403,8 +442,8 @@ function doRegister() {
 
 // ── Episode list ─────────────────────────────────────────
 function episodeMatchesFilter(ep) {
-  if (!selectedCat) return true;
-  return (ep.categories || []).indexOf(selectedCat) >= 0;
+  var th = selectedCat && themeById(selectedCat);
+  return th ? epInTheme(ep, th) : true;
 }
 function renderFilterBar() {
   // Topic filter = one compact dropdown (single-select; "All topics" clears it).
@@ -415,12 +454,12 @@ function renderFilterBar() {
   all.value = '';
   all.textContent = t('filter_all');
   sel.appendChild(all);
-  CATEGORIES.forEach(function (c) {
-    var count = EPISODES.filter(function (e) { return (e.categories || []).indexOf(c.id) >= 0; }).length;
-    if (!count) return;   // hide categories with no episodes yet
+  THEMES.forEach(function (c) {
+    var count = themeEpisodes(c).length;
+    if (!count) return;   // hide themes with no episodes yet
     var opt = document.createElement('option');
     opt.value = c.id;
-    opt.textContent = catLabel(c.id) + ' (' + count + ')';
+    opt.textContent = themeLabel(c) + ' (' + count + ')';
     sel.appendChild(opt);
   });
   sel.value = selectedCat || '';
@@ -451,10 +490,159 @@ function renderViewToggle() {
   if (lab) lab.textContent = t('view_by_topic');
   box.checked = viewByTopic;
   box.onchange = function () { viewByTopic = box.checked; renderEpisodeList(); };
+  // Second tick box: "Show the topic map".
+  var mbox = document.getElementById('map-toggle');
+  if (!mbox) return;
+  var mlab = document.getElementById('map-toggle-label');
+  if (mlab) mlab.textContent = t('view_map');
+  mbox.checked = showMap;
+  mbox.onchange = function () { showMap = mbox.checked; renderEpisodeList(); };
 }
+
+// ── Topic map: one bubble per theme (sized by its number of episodes), one dot per episode ──
+function tmMix(hex, share) {   // colour mixed with white; share = part of the colour (0..1)
+  var n = parseInt(hex.slice(1), 16), c = [n >> 16 & 255, n >> 8 & 255, n & 255];
+  return 'rgb(' + c.map(function (v) { return Math.round(255 - (255 - v) * share); }).join(',') + ')';
+}
+function tmDotLayout(n, d) {
+  // Sunflower arrangement of n dots of diameter d, centred on (0,0); returns the points and the bubble radius.
+  var c = (d + 5) / 1.72, pts = [], i;
+  for (i = 0; i < n; i++) {
+    var rad = n === 1 ? 0 : c * Math.sqrt(i + 0.5), ang = i * 2.399963;
+    pts.push({ x: rad * Math.cos(ang), y: rad * Math.sin(ang) });
+  }
+  // A few relaxation passes so that no two dots touch.
+  for (var it = 0; it < 60; it++) {
+    for (i = 0; i < n; i++) for (var j = i + 1; j < n; j++) {
+      var dx = pts[j].x - pts[i].x, dy = pts[j].y - pts[i].y, dist = Math.sqrt(dx * dx + dy * dy) || 0.01;
+      if (dist < d + 4) {
+        var push = (d + 4 - dist) / 2;
+        pts[i].x -= dx / dist * push; pts[i].y -= dy / dist * push;
+        pts[j].x += dx / dist * push; pts[j].y += dy / dist * push;
+      }
+    }
+  }
+  var cx = 0, cy = 0, far = 0;
+  pts.forEach(function (p) { cx += p.x / n; cy += p.y / n; });
+  pts.forEach(function (p) { p.x -= cx; p.y -= cy; far = Math.max(far, Math.sqrt(p.x * p.x + p.y * p.y)); });
+  return { pts: pts, r: Math.max(48, far + d / 2 + 12) };
+}
+function tmPack(nodes, W, gap) {
+  // Place the bubbles side by side without overlap, pulled towards the middle of the available width.
+  nodes.forEach(function (n, i) {
+    var a = i * 2.4, rad = 60 * Math.sqrt(i);
+    n.x = W / 2 + Math.cos(a) * rad * 2; n.y = Math.sin(a) * rad;
+  });
+  for (var it = 0; it < 500; it++) {
+    if (it < 440) nodes.forEach(function (n) { n.x += (W / 2 - n.x) * 0.012; n.y += -n.y * 0.05; });
+    for (var i = 0; i < nodes.length; i++) for (var j = i + 1; j < nodes.length; j++) {
+      // Vertical distances count for less, so bubbles sit further apart vertically: room for the label chips.
+      var a2 = nodes[i], b = nodes[j], dx = b.x - a2.x, dy = (b.y - a2.y) * 0.8;
+      var dist = Math.sqrt(dx * dx + dy * dy) || 0.01, min = a2.r + b.r + gap;
+      if (dist < min) {
+        var push = (min - dist) / 2;
+        a2.x -= dx / dist * push; a2.y -= dy / dist * push;
+        b.x += dx / dist * push; b.y += dy / dist * push;
+      }
+    }
+    nodes.forEach(function (n) { n.x = Math.min(Math.max(n.x, n.r + 4), Math.max(W - n.r - 4, n.r + 4)); });
+  }
+  var top = Infinity, bottom = -Infinity;
+  nodes.forEach(function (n) { top = Math.min(top, n.y - n.r); bottom = Math.max(bottom, n.y + n.r); });
+  nodes.forEach(function (n) { n.y += 26 - top; });
+  return bottom - top + 34;
+}
+var tmTipFor = null;   // on touch screens: the dot whose title is showing (a second tap opens it)
+function renderTopicMap() {
+  var wrap = document.getElementById('topic-map-wrap');
+  if (!wrap) return;
+  wrap.hidden = !showMap;
+  if (!showMap) return;
+  var map = document.getElementById('topic-map');
+  map.innerHTML = '';
+  map.setAttribute('aria-label', t('map_label'));
+  document.getElementById('topic-map-hint').textContent = t('map_hint');
+  var W = map.clientWidth || 860;
+  var d = W < 520 ? 32 : 36;
+  var noHover = !!(window.matchMedia && window.matchMedia('(hover: none)').matches);
+  tmTipFor = null;
+
+  var nodes = [];
+  THEMES.forEach(function (th) {
+    var eps = themeEpisodes(th);
+    if (!eps.length) return;
+    var lay = tmDotLayout(eps.length, d);
+    nodes.push({ th: th, eps: eps, pts: lay.pts, r: lay.r });
+  });
+  map.style.height = Math.ceil(tmPack(nodes, W, 18)) + 'px';
+
+  var tip = document.createElement('div');
+  tip.className = 'tm-tip';
+  tip.hidden = true;
+  function showTip(node, p, ep) {
+    tip.innerHTML = '<span class="tm-tip-num">' + esc(epNumber(ep)) + '</span>' + esc(epField(ep, 'title')) +
+      (noHover ? '<span class="tm-tip-more">' + esc(t('map_tap_again')) + '</span>' : '');
+    tip.hidden = false;
+    var half = Math.min(120, W / 2 - 4);
+    tip.style.left = Math.min(Math.max(node.x + p.x, half + 4), W - half - 4) + 'px';
+    tip.style.top = (node.y + p.y - d / 2 - 8) + 'px';
+  }
+  function hideTip() { tip.hidden = true; }
+  function pickTheme(id) { selectedCat = selectedCat === id ? null : id; renderEpisodeList(); }
+
+  nodes.forEach(function (node) {
+    var th = node.th, on = selectedCat === th.id;
+    var b = document.createElement('div');
+    b.className = 'tm-bubble' + (on ? ' selected' : (selectedCat ? ' dimmed' : ''));
+    b.style.cssText = 'left:' + (node.x - node.r) + 'px;top:' + (node.y - node.r) + 'px;width:' + (2 * node.r) +
+      'px;height:' + (2 * node.r) + 'px;--c:' + th.color + ';background:' + tmMix(th.color, 0.09) +
+      ';border-color:' + tmMix(th.color, 0.4);
+    b.addEventListener('click', function () { pickTheme(th.id); });
+
+    var chip = document.createElement('button');
+    chip.type = 'button';
+    chip.className = 'tm-chip';
+    chip.style.maxWidth = Math.round(2 * node.r) + 'px';
+    chip.setAttribute('aria-pressed', on ? 'true' : 'false');
+    chip.innerHTML = esc(themeLabel(th)) + ' <span class="tm-chip-n">' + node.eps.length + '</span>';
+    chip.addEventListener('click', function (e) { e.stopPropagation(); pickTheme(th.id); });
+    b.appendChild(chip);
+
+    node.eps.forEach(function (ep, i) {
+      var p = node.pts[i];
+      var dot = document.createElement('button');
+      dot.type = 'button';
+      dot.className = 'tm-dot' + (ep.status === 'in_progress' ? ' in-progress' : '');
+      dot.style.cssText = 'left:' + (node.r + p.x) + 'px;top:' + (node.r + p.y) + 'px;width:' + d + 'px;height:' + d +
+        'px;margin:' + (-d / 2) + 'px 0 0 ' + (-d / 2) + 'px';
+      dot.textContent = String(ep.number).replace(/\D/g, '');
+      dot.setAttribute('aria-label', epNumber(ep) + ': ' + epField(ep, 'title'));
+      dot.addEventListener('mouseenter', function () { showTip(node, p, ep); });
+      dot.addEventListener('focus', function () { showTip(node, p, ep); });
+      dot.addEventListener('mouseleave', hideTip);
+      dot.addEventListener('blur', hideTip);
+      dot.addEventListener('click', function (e) {
+        e.stopPropagation();
+        var key = th.id + ':' + ep.id;
+        if (noHover && tmTipFor !== key) { tmTipFor = key; showTip(node, p, ep); return; }
+        selectEpisode(ep.id);
+      });
+      b.appendChild(dot);
+    });
+    map.appendChild(b);
+  });
+  map.appendChild(tip);
+}
+var tmResizeTimer = null;
+window.addEventListener('resize', function () {
+  if (!showMap) return;
+  clearTimeout(tmResizeTimer);
+  tmResizeTimer = setTimeout(renderTopicMap, 150);
+});
 function renderEpisodeList() {
   renderFilterBar();
   renderViewToggle();
+  renderTopicMap();
   var grid = document.getElementById('episode-grid');
   grid.innerHTML = '';
   grid.classList.toggle('by-topic', viewByTopic);
@@ -465,18 +653,18 @@ function renderEpisodeList() {
     if (cnt) cnt.textContent = t('eps_count', { n: shown.length, total: EPISODES.length });
     return;
   }
-  // Grouped view: one section per topic (in CATEGORIES order); episodes with several topics are repeated.
+  // Grouped view: one section per theme (in THEMES order); episodes with several themes are repeated.
   var groups = 0;
-  CATEGORIES.forEach(function (c) {
+  THEMES.forEach(function (c) {
     if (selectedCat && selectedCat !== c.id) return;
-    var eps = EPISODES.filter(function (e) { return (e.categories || []).indexOf(c.id) >= 0; });
+    var eps = themeEpisodes(c);
     if (!eps.length) return;
     groups++;
     var sec = document.createElement('section');
     sec.className = 'topic-group';
     var h = document.createElement('h2');
     h.className = 'topic-group-head';
-    h.innerHTML = esc(catLabel(c.id)) + ' <span class="topic-group-count">' + eps.length + '</span>';
+    h.innerHTML = '<span class="topic-group-dot" style="background:' + c.color + '"></span>' + esc(themeLabel(c)) + ' <span class="topic-group-count">' + eps.length + '</span>';
     sec.appendChild(h);
     eps.forEach(function (ep) { sec.appendChild(episodeRow(ep)); });
     grid.appendChild(sec);
