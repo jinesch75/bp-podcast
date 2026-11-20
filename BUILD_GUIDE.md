@@ -513,3 +513,7 @@ New episode (Jacques: "another episode about the platform 'I can vote' and the r
 - Content `build/jepeuxvoter_content.json`; `pronunciation.py`: icanvote → "I can vote", jepeuxvoter → "je peux voter", ichkannwaehlen → "ich kann wählen".
 - Recorded `EL_STATE=/tmp/el_state_jpv.json python3 build/el_run_batch.py jepeuxvoter en,fr,de` (≈ 28,000 credits); faster-whisper + librosa had to be reinstalled on the VM, listening check then clean. Voice QC EN/FR/DE: very short lines joined to the next sentence in all four languages (`build/apply_voicefix_jepeuxvoter_2026_11.py`), retakes EN 9, FR 5, DE 3 (≈ 3,500 credits more); standard intro/outro not retaken.
 - `node build/inject_jepeuxvoter.js` → `replace_audio_elevenlabs.js jepeuxvoter en,fr,de` → `balance_quiz_answers.js --write` → `bump_version.js` → `make_review.js jepeuxvoter` → review/jepeuxvoter-5783e3b5c4/. Durations: EN 9:30, FR 8:58, DE 10:18. Backup: `episodes_data.pre_jepeuxvoter.js`.
+
+## Lifelong learning (20 Nov 2026)
+
+"..." pauses removed (17/language; EN 11 colons/dashes by hand), voice QC + retakes (EN 7, FR 9, DE 2). Tom's short "That's powerful." bad in every take → "I find that really powerful." (FR "Je trouve ça vraiment puissant.", DE "Das finde ich wirklich stark.", LB too). ≈ 8,000 credits.
