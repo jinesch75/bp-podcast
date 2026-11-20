@@ -9,20 +9,20 @@
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
 **ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
-**TOM:** Et le sujet d'aujourd'hui est rassurant à comprendre avant même d'en avoir besoin... que se passe-t-il si vous vous blessez au travail, ou sur le chemin du travail ?
+**TOM:** Et le sujet d'aujourd'hui est rassurant à comprendre avant même d'en avoir besoin, que se passe-t-il si vous vous blessez au travail, ou sur le chemin du travail ?
 **ANNA:** Ou même si votre enfant a un accident à l'école.
-**TOM:** Pour tout cela, le Luxembourg dispose d'une partie spéciale de sa sécurité sociale... l'Association d'assurance accident.
-**ANNA:** Les gens la connaissent par ses initiales en français... l'AAA, l'Association d'assurance accident.
+**TOM:** Pour tout cela, le Luxembourg dispose d'une partie spéciale de sa sécurité sociale, l'Association d'assurance accident.
+**ANNA:** Les gens la connaissent par ses initiales en français, l'AAA, l'Association d'assurance accident.
 **TOM:** Alors Anna, qu'est-ce que l'AAA exactement ?
 **ANNA:** C'est l'organisme qui gère l'assurance du Luxembourg contre les accidents du travail et les maladies professionnelles. Elle a été créée dès 1902.
 **TOM:** Elle fait partie du système de sécurité sociale. Elle est donc publique, et elle est là pour vous automatiquement.
 **ANNA:** Soyons clairs sur ce qu'elle couvre, car c'est plus large qu'on ne le pense.
-**TOM:** Le premier, c'est l'accident du travail lui-même... quelque chose qui vous arrive pendant que vous faites votre travail.
-**ANNA:** Le deuxième, c'est l'accident de trajet... un accident sur votre trajet habituel pour aller au travail ou en revenir.
+**TOM:** Le premier, c'est l'accident du travail lui-même, quelque chose qui vous arrive pendant que vous faites votre travail.
+**ANNA:** Le deuxième, c'est l'accident de trajet, un accident sur votre trajet habituel pour aller au travail ou en revenir.
 **TOM:** Ainsi, même avant d'arriver au bureau, vous êtes protégé sur ce trajet.
 **ANNA:** Le troisième, ce sont les accidents à l'école, et autour des activités scolaires, pour les élèves et les étudiants.
 **TOM:** Donc un enfant qui se blesse pendant l'école est couvert aussi. C'est un véritable réconfort pour les parents.
-**ANNA:** Et le quatrième, ce sont les maladies professionnelles... des maladies causées par votre travail au fil du temps.
+**ANNA:** Et le quatrième, ce sont les maladies professionnelles, des maladies causées par votre travail au fil du temps.
 **TOM:** Par exemple, certaines affections liées à des métiers ou à des expositions particulières.
 **ANNA:** Maintenant, la grande question. Si quelque chose arrive, que fait réellement l'AAA pour vous ?
 **TOM:** Elle prend en charge les coûts et les conséquences de l'accident.
@@ -32,36 +32,36 @@
 **TOM:** L'AAA amortit donc le choc, pour qu'un accident ne devienne pas aussi une catastrophe financière.
 **ANNA:** Parlons de la façon dont elle est financée, car c'est intéressant.
 **TOM:** L'assurance est financée principalement par les employeurs, à travers des cotisations.
-**ANNA:** Et il y a un système de bonus-malus... les entreprises qui ont moins d'accidents peuvent payer moins.
+**ANNA:** Et il y a un système de bonus-malus, les entreprises qui ont moins d'accidents peuvent payer moins.
 **TOM:** C'est ingenieux. Cela récompense les lieux de travail qui prennent la sécurité au sérieux.
-**ANNA:** Ce qui nous amène à quelque chose d'aussi important que l'indemnisation... prévenir les accidents dès le départ.
+**ANNA:** Ce qui nous amène à quelque chose d'aussi important que l'indemnisation, prévenir les accidents dès le départ.
 **TOM:** L'AAA fait beaucoup pour la sécurité et la santé au travail.
 **ANNA:** Elle donne des recommandations, des formations et des conseils pour aider les lieux de travail à être plus sûrs.
-**TOM:** Il y a même une vision derrière tout cela, parfois appelée « Vision Zero »... viser zéro accident grave ou mortel.
+**TOM:** Il y a même une vision derrière tout cela, parfois appelée « Vision Zero », viser zéro accident grave ou mortel.
 **ANNA:** Parce que le meilleur accident est celui qui n'arrive jamais.
 **TOM:** Maintenant, rendons cela concret. Que devriez-vous réellement faire si un accident survient ?
 **ANNA:** L'essentiel, c'est que l'accident doit être déclaré à l'AAA.
 **TOM:** Pour les accidents du travail, c'est normalement votre employeur qui fait cette déclaration.
-**ANNA:** Et cela peut désormais se faire par voie électronique, via MyGuichet, dont nous avons parlé dans un épisode précédent... aussi bien pour les accidents du travail que pour les accidents scolaires.
+**ANNA:** Et cela peut désormais se faire par voie électronique, via MyGuichet, dont nous avons parlé dans un épisode précédent, aussi bien pour les accidents du travail que pour les accidents scolaires.
 **TOM:** Le système devient donc plus simple et plus rapide.
-**ANNA:** Il est aussi bon de savoir que l'AAA est là pour répondre aux questions, avec un service de contact et un guichet... et on peut même prendre rendez-vous en ligne.
+**ANNA:** Il est aussi bon de savoir que l'AAA est là pour répondre aux questions, avec un service de contact et un guichet, et on peut même prendre rendez-vous en ligne.
 **TOM:** Vous n'êtes donc pas seul pour gérer une situation stressante.
 **ANNA:** Prenons un peu de recul. Pourquoi est-ce important, même quand la vie se passe bien ?
 **TOM:** Parce que les accidents sont, par définition, des choses que nous ne prévoyons pas. Et savoir que vous êtes couvert apporte une tranquillité d'esprit.
 **ANNA:** Cela signifie qu'un travailleur, un frontalier, ou un enfant à l'école est protégé, automatiquement, par la société.
-**TOM:** C'est la solidarité en action... nous contribuons tous, pour que toute personne blessée soit soutenue.
+**TOM:** C'est la solidarité en action, nous contribuons tous, pour que toute personne blessée soit soutenue.
 **ANNA:** Rendons cela concret. Que devraient retenir les gens de tout cela ?
 **TOM:** Premièrement, sachez que les accidents au travail, sur le chemin du travail, et à l'école sont couverts par l'AAA.
-**ANNA:** Deuxièmement, si un accident arrive, assurez-vous qu'il soit déclaré... d'habitude, votre employeur ou l'école vous y aide.
+**ANNA:** Deuxièmement, si un accident arrive, assurez-vous qu'il soit déclaré, d'habitude, votre employeur ou l'école vous y aide.
 **TOM:** Troisièmement, prenez la prévention au sérieux. Les conseils de l'AAA peuvent aider à garder votre lieu de travail en sécurité.
 **ANNA:** Récapitulons. Que devraient retenir les gens au sujet de l'AAA ?
-**TOM:** Premièrement... c'est l'assurance accident publique du Luxembourg, qui fait partie de la sécurité sociale.
-**ANNA:** Deuxièmement... elle couvre les accidents du travail, les accidents de trajet, les accidents à l'école et les maladies professionnelles.
-**TOM:** Troisièmement... elle paie les soins et l'indemnisation, et elle travaille beaucoup sur la prévention et la sécurité au travail.
-**ANNA:** Et quatrièmement... les accidents doivent être déclarés, de plus en plus via MyGuichet.
+**TOM:** Premièrement, c'est l'assurance accident publique du Luxembourg, qui fait partie de la sécurité sociale.
+**ANNA:** Deuxièmement, elle couvre les accidents du travail, les accidents de trajet, les accidents à l'école et les maladies professionnelles.
+**TOM:** Troisièmement, elle paie les soins et l'indemnisation, et elle travaille beaucoup sur la prévention et la sécurité au travail.
+**ANNA:** Et quatrièmement, les accidents doivent être déclarés, de plus en plus via MyGuichet.
 **TOM:** Nous espérons que vous n'en aurez jamais besoin. Mais c'est bon de savoir qu'elle est là, à vous protéger discrètement.
-**ANNA:** C'est cela, la sécurité sociale... un filet de sécurité que nous tissons ensemble, les uns pour les autres. C'était notre épisode sur l'assurance accident, l'AAA. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
-**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**ANNA:** C'est cela, la sécurité sociale, un filet de sécurité que nous tissons ensemble, les uns pour les autres. C'était notre épisode sur l'assurance accident, l'AAA. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
+**TOM:** Merci à tous. Prenez soin de vous, et à la prochaine !
 **ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---

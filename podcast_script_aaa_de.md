@@ -9,20 +9,20 @@
 **ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
 **ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
-**TOM:** Und das heutige Thema ist beruhigend zu verstehen, noch bevor Sie es jemals brauchen... was passiert, wenn Sie sich bei der Arbeit oder auf dem Weg dorthin verletzen?
+**TOM:** Und das heutige Thema ist beruhigend zu verstehen, noch bevor Sie es jemals brauchen, was passiert, wenn Sie sich bei der Arbeit oder auf dem Weg dorthin verletzen?
 **ANNA:** Oder sogar, wenn Ihr Kind in der Schule einen Unfall hat.
-**TOM:** Für all das hat Luxemburg einen besonderen Teil seiner Sozialversicherung... die Unfallversicherung.
-**ANNA:** Man kennt sie unter ihrem französischen Kürzel... AAA, die Association d'assurance accident.
+**TOM:** Für all das hat Luxemburg einen besonderen Teil seiner Sozialversicherung, die Unfallversicherung.
+**ANNA:** Man kennt sie unter ihrem französischen Kürzel. AAA, die Association d'assurance accident.
 **TOM:** Also Anna, was genau ist die AAA?
 **ANNA:** Sie ist die Einrichtung, die Luxemburgs Versicherung gegen Arbeitsunfälle und Berufskrankheiten verwaltet. Sie wurde schon 1902 gegründet.
 **TOM:** Sie ist Teil des Sozialversicherungssystems. Sie ist also öffentlich, und sie ist automatisch für Sie da.
 **ANNA:** Lassen Sie uns klarstellen, was sie abdeckt, denn es ist breiter, als man denkt.
-**TOM:** Das Erste ist der Arbeitsunfall selbst... etwas, das Ihnen passiert, während Sie Ihre Arbeit verrichten.
-**ANNA:** Das Zweite ist der Wegeunfall... ein Unfall auf Ihrem üblichen Weg zur Arbeit oder von der Arbeit nach Hause.
+**TOM:** Das Erste ist der Arbeitsunfall selbst, etwas, das Ihnen passiert, während Sie Ihre Arbeit verrichten.
+**ANNA:** Das Zweite ist der Wegeunfall, ein Unfall auf Ihrem üblichen Weg zur Arbeit oder von der Arbeit nach Hause.
 **TOM:** So sind Sie also schon vor Ihrer Ankunft im Büro auf diesem Weg geschützt.
 **ANNA:** Das Dritte sind Unfälle in der Schule, und im Umfeld schulischer Aktivitäten, für Schülerinnen, Schüler und Studierende.
 **TOM:** Ein Kind, das sich während der Schule verletzt, ist also auch geschützt. Das ist ein echter Trost für die Eltern.
-**ANNA:** Und das Vierte sind die Berufskrankheiten... Krankheiten, die mit der Zeit durch Ihre Arbeit verursacht werden.
+**ANNA:** Und das Vierte sind die Berufskrankheiten. Krankheiten, die mit der Zeit durch Ihre Arbeit verursacht werden.
 **TOM:** Zum Beispiel bestimmte Beschwerden, die mit bestimmten Berufen oder Belastungen zusammenhängen.
 **ANNA:** Nun die große Frage. Wenn etwas passiert, was tut die AAA tatsächlich für Sie?
 **TOM:** Sie übernimmt die Kosten und die Folgen des Unfalls.
@@ -32,36 +32,36 @@
 **TOM:** Die AAA fängt also den Schlag ab, damit ein Unfall nicht auch noch zu einer finanziellen Katastrophe wird.
 **ANNA:** Sprechen wir darüber, wie sie finanziert wird, denn das ist interessant.
 **TOM:** Die Versicherung wird hauptsächlich von den Arbeitgebern finanziert, durch Beiträge.
-**ANNA:** Und es gibt ein Bonus-Malus-System... Unternehmen mit weniger Unfällen können weniger zahlen.
+**ANNA:** Und es gibt ein Bonus-Malus-System. Unternehmen mit weniger Unfällen können weniger zahlen.
 **TOM:** Das ist clever. Es belohnt Arbeitsstätten, die die Sicherheit ernst nehmen.
-**ANNA:** Was uns zu etwas führt, das genauso wichtig ist wie das Auszahlen... Unfälle von vornherein zu verhindern.
+**ANNA:** Was uns zu etwas führt, das genauso wichtig ist wie das Auszahlen. Unfälle von vornherein zu verhindern.
 **TOM:** Die AAA tut viel für die Sicherheit und Gesundheit am Arbeitsplatz.
 **ANNA:** Sie gibt Empfehlungen, Schulungen und Beratung, um Arbeitsstätten sicherer zu machen.
-**TOM:** Es gibt sogar eine Vision dahinter, manchmal „Vision Zero" genannt... das Ziel von null schweren und tödlichen Unfällen.
+**TOM:** Es gibt sogar eine Vision dahinter, manchmal „Vision Zero" genannt, das Ziel von null schweren und tödlichen Unfällen.
 **ANNA:** Denn der beste Unfall ist der, der nie passiert.
 **TOM:** Machen wir es nun praktisch. Was sollten Sie tatsächlich tun, wenn ein Unfall passiert?
 **ANNA:** Das Wichtigste ist, dass der Unfall der AAA gemeldet werden muss.
 **TOM:** Bei Arbeitsunfällen macht normalerweise Ihr Arbeitgeber diese Meldung.
-**ANNA:** Und das kann jetzt elektronisch erledigt werden, über MyGuichet, worüber wir in einer früheren Folge gesprochen haben... sowohl für Arbeitsunfälle als auch für Schulunfälle.
+**ANNA:** Und das kann jetzt elektronisch erledigt werden, über MyGuichet, worüber wir in einer früheren Folge gesprochen haben, sowohl für Arbeitsunfälle als auch für Schulunfälle.
 **TOM:** Das System wird also einfacher und schneller.
-**ANNA:** Es ist auch gut zu wissen, dass die AAA da ist, um Fragen zu beantworten, mit einem Kontaktservice und einem Schalter... und man kann sogar online einen Termin buchen.
+**ANNA:** Es ist auch gut zu wissen, dass die AAA da ist, um Fragen zu beantworten, mit einem Kontaktservice und einem Schalter, und man kann sogar online einen Termin buchen.
 **TOM:** Sie sind also nicht allein, wenn Sie eine stressige Situation bewältigen müssen.
 **ANNA:** Treten wir einen Schritt zurück. Warum ist das wichtig, selbst wenn das Leben gut läuft?
 **TOM:** Weil Unfälle per Definition Dinge sind, die wir nicht einplanen. Und zu wissen, dass Sie geschützt sind, bringt Seelenfrieden.
 **ANNA:** Es bedeutet, dass eine Arbeitnehmerin, ein Grenzgänger oder ein Kind in der Schule geschützt ist, automatisch, durch die Gesellschaft.
-**TOM:** Das ist Solidarität in Aktion... wir alle tragen bei, damit jeder, der verletzt wird, unterstützt wird.
+**TOM:** Das ist Solidarität in Aktion, wir alle tragen bei, damit jeder, der verletzt wird, unterstützt wird.
 **ANNA:** Machen wir es praktisch. Was sollten die Menschen daraus mitnehmen?
 **TOM:** Erstens: Wissen Sie, dass Unfälle bei der Arbeit, auf dem Weg zur Arbeit und in der Schule von der AAA abgedeckt sind.
-**ANNA:** Zweitens: Wenn ein Unfall passiert, stellen Sie sicher, dass er gemeldet wird... in der Regel hilft Ihr Arbeitgeber oder die Schule dabei.
+**ANNA:** Zweitens: Wenn ein Unfall passiert, stellen Sie sicher, dass er gemeldet wird, in der Regel hilft Ihr Arbeitgeber oder die Schule dabei.
 **TOM:** Drittens: Nehmen Sie die Prävention ernst. Die Ratschläge der AAA können helfen, Ihren Arbeitsplatz sicher zu halten.
 **ANNA:** Fassen wir es zusammen. Woran sollten sich die Menschen bei der AAA erinnern?
-**TOM:** Erstens... sie ist Luxemburgs öffentliche Unfallversicherung, Teil der Sozialversicherung.
-**ANNA:** Zweitens... sie deckt Arbeitsunfälle, Wegeunfälle, Schulunfälle und Berufskrankheiten ab.
-**TOM:** Drittens... sie bezahlt Versorgung und Entschädigung, und sie arbeitet intensiv an der Prävention und der Sicherheit am Arbeitsplatz.
-**ANNA:** Und viertens... Unfälle müssen gemeldet werden, zunehmend über MyGuichet.
+**TOM:** Erstens, sie ist Luxemburgs öffentliche Unfallversicherung, Teil der Sozialversicherung.
+**ANNA:** Zweitens, sie deckt Arbeitsunfälle, Wegeunfälle, Schulunfälle und Berufskrankheiten ab.
+**TOM:** Drittens, sie bezahlt Versorgung und Entschädigung, und sie arbeitet intensiv an der Prävention und der Sicherheit am Arbeitsplatz.
+**ANNA:** Und viertens. Unfälle müssen gemeldet werden, zunehmend über MyGuichet.
 **TOM:** Wir hoffen, dass Sie sie nie brauchen. Aber es ist gut zu wissen, dass sie da ist und Sie still beschützt.
-**ANNA:** Genau das ist die Sozialversicherung... ein Sicherheitsnetz, das wir gemeinsam knüpfen, füreinander. Das war unsere Folge über die Unfallversicherung, die AAA. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
-**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**ANNA:** Genau das ist die Sozialversicherung, ein Sicherheitsnetz, das wir gemeinsam knüpfen, füreinander. Das war unsere Folge über die Unfallversicherung, die AAA. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**TOM:** Danke an alle. Passen Sie auf sich auf, und bis zum nächsten Mal!
 **ANNA:** Vielen Dank fürs Zuhören.
 
 ---

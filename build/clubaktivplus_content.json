@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "Club Aktiv Plus – Stay Active, Meet People",
+  "description": "Retirement is coming closer, or has already begun, and you want to stay active and meet people? Discover the Clubs Aktiv Plus, the former senior clubs all over Luxembourg, and their website clubaktivplus.lu: activities, costs, registration, and how to find a club.",
+  "topics": [
+   "What a Club Aktiv Plus is",
+   "From senior clubs to a new name",
+   "Who runs and funds the clubs",
+   "Open to all, wherever you live",
+   "Four families of activities",
+   "Costs, registration & languages",
+   "Advice & volunteering",
+   "The website & the ClubPages"
+  ],
+  "questions": [
+   {
+    "text": "Who are the Clubs Aktiv Plus mainly made for?",
+    "options": [
+     "People who want to stay active around retirement age",
+     "People who need daily nursing care in their own home",
+     "People who are looking for a new job after the age of fifty",
+     "People who have just arrived and need a residence permit"
+    ],
+    "correct": 0,
+    "explanation": "The Clubs Aktiv Plus are meeting places for leisure, learning, exchange and advice. They are for everyone who wants to stay active when retirement is coming closer or has already begun. There is no age limit, and other age groups are welcome too."
+   },
+   {
+    "text": "What changed for the clubs in 2024?",
+    "options": [
+     "The very first club opened in the north of the country",
+     "The senior clubs took the new name Club Aktiv Plus",
+     "All the activities became free of charge for everyone",
+     "The clubs were merged into one single national centre"
+    ],
+    "correct": 1,
+    "explanation": "The first clubs were created in 1999 and were known as the senior clubs. In 2024 they became the Clubs Aktiv Plus, because many members are very active and did not recognise themselves in the word \"senior\"."
+   },
+   {
+    "text": "Your commune is not a partner of any club. Can you still take part in activities?",
+    "options": [
+     "No, only residents of the partner communes can register",
+     "Yes, but only after buying a national membership card",
+     "Yes, every club welcomes you, wherever you live",
+     "No, unless your commune first pays a fee for you"
+    ],
+    "correct": 2,
+    "explanation": "Every club is open to you, wherever you live, as long as there are free places. You can even go to several clubs. Some clubs have a membership card, but a card is never required to take part in an activity."
+   },
+   {
+    "text": "What is true about the cost of the activities?",
+    "options": [
+     "All activities are free, because the ministry pays for everything",
+     "You pay one yearly fee, and then every activity is included",
+     "Only the language courses have a price, and all the rest is free",
+     "Most have a price, but every club also offers some free ones"
+    ],
+    "correct": 3,
+    "explanation": "Most activities have a price, because there are materials, transport, entrance tickets or a trainer to pay. But every club also offers some activities that are free."
+   },
+   {
+    "text": "How do you sign up for an activity?",
+    "options": [
+     "You contact the club that organizes it: by phone, email or its website",
+     "You fill in one national form on MyGuichet.lu with your LuxTrust",
+     "You write to the ministry, which then chooses a club for you",
+     "You go to your commune's population office with your identity card"
+    ],
+    "correct": 0,
+    "explanation": "Each club publishes its own programme and takes its own registrations. You contact the organizing club directly, by phone, by email or through its website. The list of all clubs, with their contact details and programmes, is on clubaktivplus.lu."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Club Aktiv Plus – Rester actif, rencontrer du monde",
+  "description": "La retraite approche, ou elle a déjà commencé, et vous voulez rester actif et rencontrer du monde ? Découvrez les clubs Aktiv Plus, les anciens clubs seniors partout au Luxembourg, et leur site clubaktivplus.lu : activités, coûts, inscription, et comment trouver un club.",
+  "topics": [
+   "Ce qu'est un club Aktiv Plus",
+   "Des clubs seniors à un nouveau nom",
+   "Qui gère et finance les clubs",
+   "Ouverts à tous, où que l'on habite",
+   "Quatre familles d'activités",
+   "Coûts, inscription et langues",
+   "Conseils et bénévolat",
+   "Le site et les ClubPages"
+  ],
+  "questions": [
+   {
+    "text": "À qui les clubs Aktiv Plus s'adressent-ils surtout ?",
+    "options": [
+     "Aux personnes qui veulent rester actives autour de l'âge de la retraite",
+     "Aux personnes qui ont besoin de soins quotidiens à leur domicile",
+     "Aux personnes qui cherchent un nouvel emploi après cinquante ans",
+     "Aux personnes qui viennent d'arriver et demandent un titre de séjour"
+    ],
+    "correct": 0,
+    "explanation": "Les clubs Aktiv Plus sont des lieux de rencontre, de loisirs, d'apprentissage, d'échange et de conseil. Ils s'adressent à toutes les personnes qui veulent rester actives quand la retraite approche ou a déjà commencé. Il n'y a pas de limite d'âge, et les autres tranches d'âge sont aussi les bienvenues."
+   },
+   {
+    "text": "Qu'est-ce qui a changé pour les clubs en 2024 ?",
+    "options": [
+     "Le tout premier club a ouvert dans le nord du pays",
+     "Les clubs seniors ont pris le nouveau nom Club Aktiv Plus",
+     "Toutes les activités sont devenues gratuites pour tous",
+     "Les clubs ont été réunis dans un seul centre national"
+    ],
+    "correct": 1,
+    "explanation": "Les premiers clubs ont été créés en 1999 et étaient connus comme les clubs seniors. En 2024, ils sont devenus les clubs Aktiv Plus, parce que beaucoup de membres sont très actifs et ne se reconnaissaient pas dans le mot « senior »."
+   },
+   {
+    "text": "Votre commune n'est partenaire d'aucun club. Pouvez-vous quand même participer aux activités ?",
+    "options": [
+     "Non, seuls les habitants des communes partenaires peuvent s'inscrire",
+     "Oui, mais seulement après l'achat d'une carte de membre nationale",
+     "Oui, chaque club vous accueille, quel que soit votre lieu de résidence",
+     "Non, sauf si votre commune paie d'abord une cotisation pour vous"
+    ],
+    "correct": 2,
+    "explanation": "Chaque club vous est ouvert, quel que soit l'endroit où vous habitez, tant qu'il reste des places. Vous pouvez même fréquenter plusieurs clubs. Certains clubs ont une carte de membre, mais elle n'est jamais obligatoire pour participer à une activité."
+   },
+   {
+    "text": "Qu'est-ce qui est vrai à propos du coût des activités ?",
+    "options": [
+     "Toutes les activités sont gratuites, car le ministère paie tout",
+     "On paie une cotisation annuelle, et toutes les activités sont comprises",
+     "Seuls les cours de langues sont payants, et tout le reste est gratuit",
+     "La plupart sont payantes, mais chaque club en propose aussi des gratuites"
+    ],
+    "correct": 3,
+    "explanation": "La plupart des activités sont payantes, parce qu'il y a du matériel, un transport, des billets d'entrée ou un formateur à payer. Mais chaque club propose aussi quelques activités gratuites."
+   },
+   {
+    "text": "Comment s'inscrit-on à une activité ?",
+    "options": [
+     "On contacte le club organisateur : par téléphone, e-mail ou sur son site",
+     "On remplit un formulaire national sur MyGuichet.lu avec son LuxTrust",
+     "On écrit au ministère, qui choisit ensuite un club pour vous",
+     "On se rend au bureau de la population de sa commune avec sa carte d'identité"
+    ],
+    "correct": 0,
+    "explanation": "Chaque club publie son propre programme et gère ses propres inscriptions. Vous contactez directement le club organisateur, par téléphone, par e-mail ou sur son site internet. La liste de tous les clubs, avec leurs coordonnées et leurs programmes, se trouve sur clubaktivplus.lu."
+   }
+  ]
+ },
+ "de": {
+  "title": "Club Aktiv Plus – Aktiv bleiben, Menschen treffen",
+  "description": "Der Ruhestand rückt näher oder hat schon begonnen, und Sie möchten aktiv bleiben und Menschen treffen? Entdecken Sie die Club Aktiv Plus, die früheren Seniorenclubs in ganz Luxemburg, und ihre Website clubaktivplus.lu: Aktivitäten, Kosten, Anmeldung, und wie Sie einen Club finden.",
+  "topics": [
+   "Was ein Club Aktiv Plus ist",
+   "Vom Seniorenclub zum neuen Namen",
+   "Wer die Clubs führt und finanziert",
+   "Offen für alle, egal wo man wohnt",
+   "Vier Bereiche von Aktivitäten",
+   "Kosten, Anmeldung & Sprachen",
+   "Beratung & Ehrenamt",
+   "Die Website & die ClubPages"
+  ],
+  "questions": [
+   {
+    "text": "Für wen sind die Club Aktiv Plus vor allem gedacht?",
+    "options": [
+     "Für Menschen, die rund um das Rentenalter aktiv bleiben möchten",
+     "Für Menschen, die zu Hause täglich Pflege brauchen",
+     "Für Menschen, die nach fünfzig eine neue Arbeit suchen",
+     "Für Menschen, die neu im Land sind und einen Aufenthaltstitel brauchen"
+    ],
+    "correct": 0,
+    "explanation": "Die Club Aktiv Plus stehen für Begegnung, Freizeit, lebenslanges Lernen, Austausch und Beratung. Sie sind für alle Menschen gedacht, die aktiv bleiben möchten, wenn der Ruhestand naht oder bereits begonnen hat. Es gibt keine Altersgrenze, und auch andere Altersgruppen sind willkommen."
+   },
+   {
+    "text": "Was hat sich 2024 für die Clubs geändert?",
+    "options": [
+     "Der allererste Club wurde im Norden des Landes eröffnet",
+     "Die Seniorenclubs bekamen den neuen Namen Club Aktiv Plus",
+     "Alle Aktivitäten wurden für alle Teilnehmer kostenlos",
+     "Die Clubs wurden zu einem einzigen nationalen Zentrum vereint"
+    ],
+    "correct": 1,
+    "explanation": "Die ersten Clubs wurden 1999 gegründet und waren als Seniorenclubs bekannt. 2024 wurden sie zu den Club Aktiv Plus, weil viele Mitglieder sehr aktiv sind und sich im Wort „Senior“ nicht wiedererkannt haben."
+   },
+   {
+    "text": "Ihre Gemeinde ist bei keinem Club Partner. Können Sie trotzdem an Aktivitäten teilnehmen?",
+    "options": [
+     "Nein, nur Einwohner der Partnergemeinden können sich anmelden",
+     "Ja, aber erst nach dem Kauf einer nationalen Mitgliedskarte",
+     "Ja, jeder Club heißt Sie willkommen, ganz egal, wo Sie wohnen",
+     "Nein, außer Ihre Gemeinde zahlt zuerst einen Beitrag für Sie"
+    ],
+    "correct": 2,
+    "explanation": "Jeder Club steht Ihnen offen, ganz egal, wo Sie wohnen, solange noch Plätze frei sind. Sie können sogar mehrere Clubs besuchen. Einige Clubs haben eine Mitgliedskarte, aber sie ist nie nötig, um an einer Aktivität teilzunehmen."
+   },
+   {
+    "text": "Was stimmt bei den Kosten der Aktivitäten?",
+    "options": [
+     "Alle Aktivitäten sind kostenlos, weil das Ministerium alles bezahlt",
+     "Man zahlt einen Jahresbeitrag, und dann ist jede Aktivität inbegriffen",
+     "Nur die Sprachkurse kosten etwas, und alles andere ist kostenlos",
+     "Die meisten kosten etwas, aber jeder Club bietet auch kostenlose an"
+    ],
+    "correct": 3,
+    "explanation": "Die meisten Aktivitäten kosten etwas, weil Material, Transport, Eintrittskarten oder ein Kursleiter bezahlt werden müssen. Aber jeder Club bietet auch einige kostenlose Aktivitäten an."
+   },
+   {
+    "text": "Wie meldet man sich für eine Aktivität an?",
+    "options": [
+     "Man wendet sich an den Club, der sie organisiert: Telefon, E-Mail oder Website",
+     "Man füllt ein nationales Formular auf MyGuichet.lu mit LuxTrust aus",
+     "Man schreibt an das Ministerium, das dann einen Club für einen auswählt",
+     "Man geht mit dem Personalausweis zum Einwohnermeldeamt seiner Gemeinde"
+    ],
+    "correct": 0,
+    "explanation": "Jeder Club veröffentlicht sein eigenes Programm und nimmt selbst die Anmeldungen an. Sie wenden sich direkt an den Club, der die Aktivität organisiert, per Telefon, per E-Mail oder über seine Website. Die Liste aller Clubs mit Kontaktdaten und Programmen finden Sie auf clubaktivplus.lu."
+   }
+  ]
+ }
+}

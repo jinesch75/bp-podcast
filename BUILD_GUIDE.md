@@ -522,3 +522,7 @@ New episode (Jacques: "another episode about the platform 'I can vote' and the r
 
 Several sessions share the VM's /tmp; folders another session created there (`/tmp/<key>_el_seg`, `/tmp/voice_qc_<key>_<lang>.json`) are read-only for the next one (`Permission denied` on rmtree). `tts_elevenlabs.py`, `el_run_batch.py`, `voice_qc.py`, `best_take.py` and `replace_audio_elevenlabs.js` now take `EL_TMP=<dir>` (default /tmp), e.g. `mkdir -p /tmp/s2 && export EL_TMP=/tmp/s2`, and use it for all of these files. (lux_en_vs_fr.py / match_pron.py / pick_word_take.py / last_word_take.py only read the cache, not /tmp.)
 - Second pitch check (20 Nov, later): only a few outliers left; retakes EN 1 ("It takes only a few minutes."), FR 2; ≈ 300 credits.
+
+## AAA (20 Nov 2026)
+
+Anna's "People know it by its initials in French... AAA, the Association d'assurance accident." badly recorded → "People know it by its French initials: AAA, for Association d'assurance accident."; take chosen by ear-proxy = full transcript correct (seed 1261; the best `pick_word_take` score had "d'assurance" garbled — check the "heard" text, not only the score). "..." pauses removed (19/language; EN 11 colons/dashes by hand), voice QC + retakes (EN 8, FR 3, DE 2). VM was under heavy load from another session (best_take ~40 s/sentence). ≈ 8,500 credits.

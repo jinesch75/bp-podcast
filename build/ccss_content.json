@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "Social Security – How You Are Insured in Luxembourg",
+  "description": "Where does the difference between gross and net salary go? Discover how social security works in Luxembourg, how you are registered with the Social Security Centre (CCSS), what your card and your 13-digit number are for, and what ccss.lu and MyGuichet.lu offer.",
+  "topics": [
+   "The four branches of social security",
+   "What the Social Security Centre does",
+   "Affiliation by the employer",
+   "The 13-digit number and the card",
+   "Contributions and the pension statement",
+   "Family, self-employed, household staff",
+   "When a job ends: voluntary insurance",
+   "Online services and fake messages"
+  ],
+  "questions": [
+   {
+    "text": "What is the role of the Social Security Centre (CCSS)?",
+    "options": [
+     "It registers insured people and collects the contributions",
+     "It reimburses doctors' bills and pays out the pensions",
+     "It checks employment contracts and working hours",
+     "It pays family allowances and unemployment benefits"
+    ],
+    "correct": 0,
+    "explanation": "The Centre registers the insured people, calculates the contributions and collects them for the different institutions. The health fund reimburses your healthcare costs, and the pension fund pays your pension."
+   },
+   {
+    "text": "You start a new job as an employee in Luxembourg. Who registers you with social security?",
+    "options": [
+     "You do, at the counter of your commune",
+     "Your employer, with a declaration of entry",
+     "Your health fund, after your first visit to a doctor",
+     "Nobody: you are registered when you turn eighteen"
+    ],
+    "correct": 1,
+    "explanation": "Your employer handles all the formalities and sends a declaration of entry to the Centre within eight days. You then receive a letter confirming your affiliation and your social security card."
+   },
+   {
+    "text": "Which document should you check once a year?",
+    "options": [
+     "The list of doctors approved by your health fund",
+     "The expiry date of your thirteen-digit number",
+     "The statement of your pension insurance record",
+     "The certificate of residence from your commune"
+    ],
+    "correct": 2,
+    "explanation": "Once a year, the Centre sends you a statement of your pension insurance record with the income registered for you. Your future pension is calculated from it, so report anything missing or wrong as soon as possible."
+   },
+   {
+    "text": "You would like to pay someone to clean your home. What do you have to do?",
+    "options": [
+     "Nothing, as long as it is only a few hours a week",
+     "Ask the person to register as self-employed",
+     "Inform your commune and your household insurance",
+     "Declare the person to the Centre, with the simplified procedure"
+    ],
+    "correct": 3,
+    "explanation": "When you pay someone to work in your home, you are an employer. With the simplified procedure for private households, you tell the Centre the net hourly wage, and the Centre calculates the gross salary, the contributions and the tax."
+   },
+   {
+    "text": "You receive a text message saying that your social security card has expired and asking for your bank details. What is true?",
+    "options": [
+     "It is normal: the card has to be paid for every five years",
+     "It is fake: the Centre never asks for bank details, and the card is free",
+     "It is genuine if the message shows the logo of the Centre",
+     "It is genuine, but only cross-border workers have to answer"
+    ],
+    "correct": 1,
+    "explanation": "Criminals send fake emails and text messages in the name of the Centre. The Centre never asks for bank details or LuxTrust codes to renew a card, and the card never costs anything. Don't click on the link; go to the official website yourself."
+   }
+  ]
+ },
+ "fr": {
+  "title": "La sécurité sociale – Comment vous êtes assuré au Luxembourg",
+  "description": "Où passe la différence entre le salaire brut et le salaire net ? Découvrez comment fonctionne la sécurité sociale au Luxembourg, comment vous êtes affilié au Centre commun de la sécurité sociale (CCSS), à quoi servent votre carte et votre matricule, et ce que proposent ccss.lu et MyGuichet.lu.",
+  "topics": [
+   "Les quatre branches de la sécurité sociale",
+   "Le rôle du Centre commun",
+   "L'affiliation par l'employeur",
+   "Le matricule et la carte",
+   "Cotisations et extrait de carrière",
+   "Famille, indépendants, personnel de maison",
+   "Fin d'emploi : l'assurance volontaire",
+   "Services en ligne et faux messages"
+  ],
+  "questions": [
+   {
+    "text": "Quel est le rôle du Centre commun de la sécurité sociale (CCSS) ?",
+    "options": [
+     "Il enregistre les assurés et perçoit les cotisations",
+     "Il rembourse les factures de médecin et verse les pensions",
+     "Il contrôle les contrats de travail et les horaires",
+     "Il verse les allocations familiales et de chômage"
+    ],
+    "correct": 0,
+    "explanation": "Le Centre commun enregistre les assurés, calcule les cotisations et les perçoit pour les différentes institutions. La caisse de maladie rembourse vos frais de santé, et la caisse de pension verse votre pension."
+   },
+   {
+    "text": "Vous commencez un nouvel emploi salarié au Luxembourg. Qui vous inscrit à la sécurité sociale ?",
+    "options": [
+     "Vous-même, au guichet de votre commune",
+     "Votre employeur, avec une déclaration d'entrée",
+     "Votre caisse de maladie, après votre première visite médicale",
+     "Personne : on est inscrit automatiquement à dix-huit ans"
+    ],
+    "correct": 1,
+    "explanation": "Votre employeur s'occupe de toutes les formalités et envoie une déclaration d'entrée au Centre commun dans les huit jours. Vous recevez ensuite une lettre qui confirme votre affiliation, puis votre carte de sécurité sociale."
+   },
+   {
+    "text": "Quel document devriez-vous vérifier une fois par an ?",
+    "options": [
+     "La liste des médecins agréés par votre caisse",
+     "La date d'expiration de votre matricule",
+     "L'extrait de votre carrière d'assurance pension",
+     "Le certificat de résidence de votre commune"
+    ],
+    "correct": 2,
+    "explanation": "Une fois par an, le Centre commun vous envoie un extrait de votre carrière d'assurance pension avec les revenus enregistrés pour vous. Votre future pension est calculée à partir de cette carrière : signalez donc au plus vite ce qui manque ou ce qui est faux."
+   },
+   {
+    "text": "Vous voulez payer quelqu'un pour faire le ménage chez vous. Que devez-vous faire ?",
+    "options": [
+     "Rien, tant qu'il ne s'agit que de quelques heures par semaine",
+     "Demander à la personne de s'inscrire comme indépendante",
+     "Informer votre commune et votre assurance habitation",
+     "Déclarer la personne au Centre commun, par la procédure simplifiée"
+    ],
+    "correct": 3,
+    "explanation": "Quand vous payez quelqu'un pour travailler chez vous, vous êtes un employeur. Avec la procédure simplifiée pour les ménages privés, vous indiquez au Centre commun le salaire net par heure, et il calcule le salaire brut, les cotisations et l'impôt."
+   },
+   {
+    "text": "Vous recevez un SMS qui dit que votre carte de sécurité sociale a expiré et qui demande vos coordonnées bancaires. Qu'est-ce qui est vrai ?",
+    "options": [
+     "C'est normal : la carte doit être payée tous les cinq ans",
+     "C'est un faux : le Centre commun ne demande jamais cela, et la carte est gratuite",
+     "C'est authentique si le message porte le logo du Centre commun",
+     "C'est authentique, mais seuls les frontaliers doivent répondre"
+    ],
+    "correct": 1,
+    "explanation": "Des fraudeurs envoient de faux e-mails et de faux SMS au nom du Centre commun. Celui-ci ne demande jamais de coordonnées bancaires ni de codes LuxTrust pour renouveler une carte, et la carte ne coûte jamais rien. Ne cliquez pas sur le lien ; allez vous-même sur le site officiel."
+   }
+  ]
+ },
+ "de": {
+  "title": "Die Sozialversicherung – So sind Sie in Luxemburg versichert",
+  "description": "Wo bleibt der Unterschied zwischen Brutto- und Nettogehalt? Entdecken Sie, wie die Sozialversicherung in Luxemburg funktioniert, wie Sie bei der Zentralstelle der Sozialversicherungen (CCSS) angemeldet werden, wozu Ihre Karte und Ihre 13-stellige Nummer dienen, und was ccss.lu und MyGuichet.lu bieten.",
+  "topics": [
+   "Die vier Zweige der Sozialversicherung",
+   "Die Aufgabe der Zentralstelle",
+   "Anmeldung durch den Arbeitgeber",
+   "Die 13-stellige Nummer und die Karte",
+   "Beiträge und Rentenauszug",
+   "Familie, Selbstständige, Haushaltshilfen",
+   "Ende der Arbeit: freiwillige Versicherung",
+   "Online-Dienste und gefälschte Nachrichten"
+  ],
+  "questions": [
+   {
+    "text": "Welche Aufgabe hat die Zentralstelle der Sozialversicherungen (CCSS)?",
+    "options": [
+     "Sie registriert die Versicherten und zieht die Beiträge ein",
+     "Sie erstattet Arztrechnungen und zahlt die Renten aus",
+     "Sie kontrolliert Arbeitsverträge und Arbeitszeiten",
+     "Sie zahlt Kindergeld und Arbeitslosengeld aus"
+    ],
+    "correct": 0,
+    "explanation": "Die Zentralstelle registriert die Versicherten, berechnet die Beiträge und zieht sie für die verschiedenen Einrichtungen ein. Die Krankenkasse erstattet Ihre Gesundheitskosten, und die Pensionskasse zahlt Ihre Rente."
+   },
+   {
+    "text": "Sie beginnen eine neue Arbeit als Arbeitnehmer in Luxemburg. Wer meldet Sie bei der Sozialversicherung an?",
+    "options": [
+     "Sie selbst, am Schalter Ihrer Gemeinde",
+     "Ihr Arbeitgeber, mit einer Eintrittserklärung",
+     "Ihre Krankenkasse, nach Ihrem ersten Arztbesuch",
+     "Niemand: Man wird mit achtzehn automatisch angemeldet"
+    ],
+    "correct": 1,
+    "explanation": "Ihr Arbeitgeber kümmert sich um alle Formalitäten und schickt innerhalb von acht Tagen eine Eintrittserklärung an die Zentralstelle. Danach bekommen Sie einen Brief, der Ihre Anmeldung bestätigt, und Ihre Sozialversicherungskarte."
+   },
+   {
+    "text": "Welches Dokument sollten Sie einmal im Jahr überprüfen?",
+    "options": [
+     "Die Liste der Ärzte, die Ihre Kasse anerkennt",
+     "Das Ablaufdatum Ihrer dreizehnstelligen Nummer",
+     "Den Auszug Ihrer Rentenversicherungslaufbahn",
+     "Die Wohnsitzbescheinigung Ihrer Gemeinde"
+    ],
+    "correct": 2,
+    "explanation": "Einmal im Jahr schickt Ihnen die Zentralstelle einen Auszug Ihrer Rentenversicherungslaufbahn mit den Einkommen, die für Sie registriert wurden. Daraus wird Ihre spätere Rente berechnet: Melden Sie also möglichst schnell, was fehlt oder falsch ist."
+   },
+   {
+    "text": "Sie möchten jemanden dafür bezahlen, bei Ihnen zu Hause zu putzen. Was müssen Sie tun?",
+    "options": [
+     "Nichts, solange es nur ein paar Stunden pro Woche sind",
+     "Die Person bitten, sich als selbstständig anzumelden",
+     "Ihre Gemeinde und Ihre Hausratversicherung informieren",
+     "Die Person bei der Zentralstelle anmelden, im vereinfachten Verfahren"
+    ],
+    "correct": 3,
+    "explanation": "Wenn Sie jemanden dafür bezahlen, bei Ihnen zu Hause zu arbeiten, sind Sie ein Arbeitgeber. Im vereinfachten Verfahren für Privathaushalte teilen Sie der Zentralstelle den Nettostundenlohn mit, und sie berechnet das Bruttogehalt, die Beiträge und die Steuer."
+   },
+   {
+    "text": "Sie bekommen eine SMS, in der steht, Ihre Sozialversicherungskarte sei abgelaufen, und die nach Ihren Bankdaten fragt. Was stimmt?",
+    "options": [
+     "Das ist normal: Die Karte muss alle fünf Jahre bezahlt werden",
+     "Das ist gefälscht: Die Zentralstelle fragt nie danach, und die Karte ist kostenlos",
+     "Das ist echt, wenn die Nachricht das Logo der Zentralstelle zeigt",
+     "Das ist echt, aber nur Grenzgänger müssen darauf antworten"
+    ],
+    "correct": 1,
+    "explanation": "Betrüger verschicken gefälschte E-Mails und SMS im Namen der Zentralstelle. Sie fragt nie nach Bankdaten oder LuxTrust-Codes, um eine Karte zu erneuern, und die Karte kostet nie etwas. Klicken Sie nicht auf den Link; gehen Sie selbst auf die offizielle Website."
+   }
+  ]
+ }
+}

@@ -415,7 +415,7 @@ def main():
             print("listening check skipped (pip install faster-whisper to enable it)")
             asr_on = False
     if asr_on:
-        apath = os.path.join(CACHE, "asr.json")
+        apath = os.environ.get("EL_ASR_FILE") or os.path.join(CACHE, "asr.json")   # EL_ASR_FILE: private file when several sessions record at once
         rpath = os.path.join(CACHE, "reseed.json")
         asr = json.load(open(apath)) if os.path.exists(apath) else {}
         reseed = json.load(open(rpath)) if os.path.exists(rpath) else {}

@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "Who Does What for Seniors? – Organisations Worth Knowing",
+  "description": "GERO, Amiperas, GoldenMe, Super Senior, Iris, the Info-Zenter Demenz, the Alzheimer association, Stëftung Hëllef Doheem, Omega 90, Mäi Wëllen Mäi Wee: who are they, and what do they do? A short tour of the approved \"senior activities\" services, all listed together on infosenior.public.lu.",
+  "topics": [
+   "The \"Senior activities\" section of Info-Seniors",
+   "GERO: learning, training and research on ageing",
+   "Amiperas Generatiounstreff and GoldenMe",
+   "Super Senior: seniors help children",
+   "Iris: volunteers against loneliness",
+   "Memory and dementia: two services",
+   "Berodungsdëngscht: support for family carers",
+   "Omega 90 and Mäi Wëllen, Mäi Wee"
+  ],
+  "questions": [
+   {
+    "text": "Where are all the organisations of this episode listed together?",
+    "options": [
+     "On infosenior.public.lu, the public register of services for older people",
+     "On the website of each commune, under local news",
+     "In a printed guide that is sold in bookshops",
+     "On the website of the Luxembourg tax administration"
+    ],
+    "correct": 0,
+    "explanation": "The \"Senior activities\" section of infosenior.public.lu lists these approved services, each with a description, contact details, a map and documents. The register is run by the Ministry of Family Affairs."
+   },
+   {
+    "text": "What does the association GoldenMe do?",
+    "options": [
+     "It delivers warm meals to people at home",
+     "It helps older people to feel at home in the digital world",
+     "It organises pilgrimages for retired people",
+     "It manages the pensions of former civil servants"
+    ],
+    "correct": 1,
+    "explanation": "GoldenMe offers information, courses and events so that people who did not grow up with digital tools gain basic digital skills. It gives special attention to generations working together."
+   },
+   {
+    "text": "Who helps whom in the service \"Super Senior\"?",
+    "options": [
+     "Children teach seniors how to use a smartphone",
+     "Doctors visit seniors who live alone",
+     "Seniors help primary school children with their homework",
+     "Seniors help other seniors to move house"
+    ],
+    "correct": 2,
+    "explanation": "Super Senior is a service of the association MEC in Echternach. It looks for seniors who help children in primary school with their homework: school support between generations."
+   },
+   {
+    "text": "What does the Iris service of the Luxembourg Red Cross offer?",
+    "options": [
+     "A telealarm button for emergencies at home",
+     "Free legal advice about inheritance",
+     "Language courses for cross-border workers",
+     "Trained volunteers who regularly spend time with people who feel isolated"
+    ],
+    "correct": 3,
+    "explanation": "Iris accompanies every person who is touched by loneliness, with no difference of age, culture or social background. It trains volunteers who offer their presence regularly."
+   },
+   {
+    "text": "Which service is especially there for people who care for a family member at home?",
+    "options": [
+     "geroRESEARCH, the research department of GERO",
+     "The Berodungsdëngscht of Stëftung Hëllef Doheem",
+     "Haus Omega, the palliative care centre",
+     "The Generatiounstreff in Bonnevoie"
+    ],
+    "correct": 1,
+    "explanation": "The Berodungsdëngscht (advice service) of Stëftung Hëllef Doheem offers training for carers, information, consultations and psychological support, so that a person can stay at home as long as possible."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Qui fait quoi pour les seniors ? – Des organisations à connaître",
+  "description": "GERO, Amiperas, GoldenMe, Super Senior, Iris, l'Info-Zenter Demenz, l'Association Luxembourg Alzheimer, la Stëftung Hëllef Doheem, Omega 90, Mäi Wëllen Mäi Wee : qui sont-ils, et que font-ils ? Un petit tour des services agréés « Activités seniors », tous regroupés sur infosenior.public.lu.",
+  "topics": [
+   "La rubrique « Activités seniors » d'Info-Seniors",
+   "GERO : apprendre, former et rechercher sur le vieillissement",
+   "Amiperas Generatiounstreff et GoldenMe",
+   "Super Senior : des seniors aident des enfants",
+   "Iris : des bénévoles contre la solitude",
+   "Mémoire et démence : deux services",
+   "Berodungsdëngscht : le soutien aux aidants familiaux",
+   "Omega 90 et Mäi Wëllen, Mäi Wee"
+  ],
+  "questions": [
+   {
+    "text": "Où toutes les organisations de cet épisode sont-elles regroupées ?",
+    "options": [
+     "Sur infosenior.public.lu, le registre public des services pour personnes âgées",
+     "Sur le site de chaque commune, dans les actualités locales",
+     "Dans un guide imprimé vendu en librairie",
+     "Sur le site de l'administration des contributions"
+    ],
+    "correct": 0,
+    "explanation": "La rubrique « Activités seniors » d'infosenior.public.lu présente ces services agréés, chacun avec une description, des coordonnées, une carte et des documents. Le registre est géré par le ministère de la Famille."
+   },
+   {
+    "text": "Que fait l'association GoldenMe ?",
+    "options": [
+     "Elle livre des repas chauds à domicile",
+     "Elle aide les personnes âgées à se sentir à l'aise dans le monde numérique",
+     "Elle organise des pèlerinages pour les retraités",
+     "Elle gère les pensions des anciens fonctionnaires"
+    ],
+    "correct": 1,
+    "explanation": "GoldenMe propose des informations, des cours et des événements pour que les personnes qui n'ont pas grandi avec les outils numériques acquièrent des compétences de base. Elle accorde une attention particulière à la collaboration entre les générations."
+   },
+   {
+    "text": "Qui aide qui dans le service « Super Senior » ?",
+    "options": [
+     "Des enfants apprennent aux seniors à utiliser un smartphone",
+     "Des médecins rendent visite aux seniors qui vivent seuls",
+     "Des seniors aident des enfants de l'école fondamentale à faire leurs devoirs",
+     "Des seniors aident d'autres seniors à déménager"
+    ],
+    "correct": 2,
+    "explanation": "Super Senior est un service de l'association MEC à Echternach. Elle cherche des seniors qui aident des enfants de l'école fondamentale à faire leurs devoirs : un accompagnement scolaire entre les générations."
+   },
+   {
+    "text": "Que propose le service Iris de la Croix-Rouge luxembourgeoise ?",
+    "options": [
+     "Un bouton de téléalarme pour les urgences à domicile",
+     "Des conseils juridiques gratuits sur les successions",
+     "Des cours de langues pour les frontaliers",
+     "Des bénévoles formés qui offrent une présence régulière aux personnes isolées"
+    ],
+    "correct": 3,
+    "explanation": "Iris accompagne toute personne touchée par la solitude, sans distinction d'âge, de culture ou de milieu social. Le service forme des bénévoles qui offrent leur présence régulière."
+   },
+   {
+    "text": "Quel service est là en particulier pour les personnes qui s'occupent d'un proche à la maison ?",
+    "options": [
+     "geroRESEARCH, le département de recherche de GERO",
+     "Le Berodungsdëngscht de la Stëftung Hëllef Doheem",
+     "Le Haus Omega, le centre de soins palliatifs",
+     "Le Generatiounstreff à Bonnevoie"
+    ],
+    "correct": 1,
+    "explanation": "Le Berodungsdëngscht (service de conseil) de la Stëftung Hëllef Doheem propose des formations pour les aidants, des informations, des consultations et un soutien psychologique, pour qu'une personne puisse rester chez elle le plus longtemps possible."
+   }
+  ]
+ },
+ "de": {
+  "title": "Wer macht was für Senioren? – Organisationen, die man kennen sollte",
+  "description": "GERO, Amiperas, GoldenMe, Super Senior, Iris, das Info-Zenter Demenz, die Association Luxembourg Alzheimer, die Stëftung Hëllef Doheem, Omega 90, Mäi Wëllen Mäi Wee: Wer sind sie, und was machen sie? Ein kurzer Rundgang durch die zugelassenen Dienste der Rubrik „Aktivitäten für Senioren“, alle zusammen auf infosenior.public.lu.",
+  "topics": [
+   "Die Rubrik „Aktivitäten für Senioren“ von Info-Seniors",
+   "GERO: Lernen, Weiterbildung und Forschung zum Älterwerden",
+   "Amiperas Generatiounstreff und GoldenMe",
+   "Super Senior: Senioren helfen Kindern",
+   "Iris: Freiwillige gegen die Einsamkeit",
+   "Gedächtnis und Demenz: zwei Dienste",
+   "Berodungsdëngscht: Unterstützung für pflegende Angehörige",
+   "Omega 90 und Mäi Wëllen, Mäi Wee"
+  ],
+  "questions": [
+   {
+    "text": "Wo stehen alle Organisationen dieser Folge zusammen?",
+    "options": [
+     "Auf infosenior.public.lu, dem öffentlichen Register der Dienste für ältere Menschen",
+     "Auf der Webseite jeder Gemeinde, bei den lokalen Nachrichten",
+     "In einem gedruckten Ratgeber, der im Buchhandel verkauft wird",
+     "Auf der Webseite der Steuerverwaltung"
+    ],
+    "correct": 0,
+    "explanation": "Die Rubrik „Aktivitäten für Senioren“ auf infosenior.public.lu zeigt diese zugelassenen Dienste, jeweils mit Beschreibung, Kontaktdaten, Karte und Dokumenten. Das Register wird vom Familienministerium geführt."
+   },
+   {
+    "text": "Was macht der Verein GoldenMe?",
+    "options": [
+     "Er liefert warme Mahlzeiten nach Hause",
+     "Er hilft älteren Menschen, sich in der digitalen Welt wohlzufühlen",
+     "Er organisiert Pilgerreisen für Pensionierte",
+     "Er verwaltet die Pensionen ehemaliger Beamter"
+    ],
+    "correct": 1,
+    "explanation": "GoldenMe bietet Informationen, Kurse und Veranstaltungen, damit Menschen, die nicht mit digitalen Geräten aufgewachsen sind, Grundkenntnisse erwerben. Der Verein achtet besonders auf die Zusammenarbeit zwischen den Generationen."
+   },
+   {
+    "text": "Wer hilft wem beim Dienst „Super Senior“?",
+    "options": [
+     "Kinder zeigen Senioren, wie ein Smartphone funktioniert",
+     "Ärzte besuchen Senioren, die allein leben",
+     "Senioren helfen Grundschulkindern bei den Hausaufgaben",
+     "Senioren helfen anderen Senioren beim Umzug"
+    ],
+    "correct": 2,
+    "explanation": "Super Senior ist ein Dienst des Vereins MEC in Echternach. Er sucht Senioren, die Kindern aus der Grundschule bei den Hausaufgaben helfen: Lernbegleitung zwischen den Generationen."
+   },
+   {
+    "text": "Was bietet der Dienst Iris des Luxemburger Roten Kreuzes?",
+    "options": [
+     "Einen Telealarm-Knopf für Notfälle zu Hause",
+     "Kostenlose Rechtsberatung zu Erbschaften",
+     "Sprachkurse für Grenzgänger",
+     "Ausgebildete Freiwillige, die isolierten Menschen regelmäßig ihre Anwesenheit schenken"
+    ],
+    "correct": 3,
+    "explanation": "Iris begleitet jeden Menschen, der von Einsamkeit betroffen ist, ohne Unterschied nach Alter, Kultur oder sozialer Herkunft. Der Dienst bildet Freiwillige aus, die regelmäßig da sind."
+   },
+   {
+    "text": "Welcher Dienst ist besonders für Menschen da, die ein Familienmitglied zu Hause pflegen?",
+    "options": [
+     "geroRESEARCH, die Forschungsabteilung von GERO",
+     "Der Berodungsdëngscht der Stëftung Hëllef Doheem",
+     "Das Haus Omega, das Zentrum für Palliativpflege",
+     "Der Generatiounstreff in Bonneweg"
+    ],
+    "correct": 1,
+    "explanation": "Der Berodungsdëngscht (Beratungsdienst) der Stëftung Hëllef Doheem bietet Schulungen für pflegende Angehörige, Informationen, Beratungen und psychologische Unterstützung, damit ein Mensch so lange wie möglich zu Hause bleiben kann."
+   }
+  ]
+ }
+}
