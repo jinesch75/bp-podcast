@@ -16,21 +16,21 @@
 **TOM:** Die Adresse auf Deutsch lautet ichkannwaehlen Punkt l-u. Ich kann wählen: Der Name sagt schon alles.
 **ANNA:** Die Website wird vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen betrieben. Es gibt sie in fünf Sprachen: Französisch, Deutsch, Englisch, Portugiesisch und Luxemburgisch.
 **TOM:** Fangen wir mit den Grundlagen an. Welche Wahlen gibt es in Luxemburg?
-**ANNA:** Es gibt drei wichtige Wahlen. Die Gemeindewahlen, für den Rat Ihrer Gemeinde. Die Europawahlen, für das Europäische Parlament. Und die Nationalwahlen, für die Abgeordnetenkammer.
+**ANNA:** Es gibt drei wichtige Wahlen: die Gemeindewahlen, für den Rat Ihrer Gemeinde, die Europawahlen, für das Europäische Parlament, und die Nationalwahlen, für die Abgeordnetenkammer.
 **TOM:** Und kann jemand ohne luxemburgische Staatsangehörigkeit bei allen drei Wahlen wählen?
-**ANNA:** Nicht bei allen drei. Die Nationalwahlen sind nur für Menschen mit luxemburgischer Staatsangehörigkeit. Aber die beiden anderen stehen viel mehr Menschen offen, als man denkt.
+**ANNA:** Nicht bei allen drei, denn die Nationalwahlen sind nur für Menschen mit luxemburgischer Staatsangehörigkeit. Aber die beiden anderen stehen viel mehr Menschen offen, als man denkt.
 **TOM:** Nehmen wir zuerst die Gemeindewahlen. Wer darf dort wählen?
 **ANNA:** Alle Erwachsenen, die in Luxemburg wohnen, egal welche Staatsangehörigkeit sie haben. Europäer oder nicht, das macht keinen Unterschied.
 **TOM:** Stimmt das wirklich? Ich dachte, man muss zuerst mehrere Jahre hier wohnen.
 **ANNA:** Das war die alte Regel: fünf Jahre Aufenthalt. Sie wurde vor einigen Jahren abgeschafft. Heute können Sie sich eintragen, sobald Sie hier wohnen.
 **TOM:** Welche Bedingungen gelten denn heute?
-**ANNA:** Es sind drei. Sie sind am Wahltag mindestens achtzehn Jahre alt. Sie wohnen in Luxemburg. Und Sie haben Ihr Wahlrecht nicht verloren, zum Beispiel durch ein Gerichtsurteil.
+**ANNA:** Es sind drei Bedingungen: Sie sind am Wahltag mindestens achtzehn Jahre alt, Sie wohnen in Luxemburg, und Sie haben Ihr Wahlrecht nicht verloren, zum Beispiel durch ein Gerichtsurteil.
 **TOM:** Und für Menschen aus Ländern außerhalb der Europäischen Union und des Schengen-Raums, gibt es da noch etwas?
 **ANNA:** Nur eines: einen gültigen Aufenthaltstitel oder eine gültige Aufenthaltskarte. Menschen, deren Antrag auf internationalen Schutz noch läuft, können sich noch nicht eintragen. Sobald der Schutz gewährt ist, können sie es.
 **TOM:** Es gibt allerdings einen wichtigen Unterschied zu den Luxemburgern.
 **ANNA:** Ja. Luxemburger werden automatisch in das Wählerverzeichnis eingetragen, wenn sie achtzehn werden. Alle anderen müssen sich selbst eintragen. Niemand macht das für Sie.
 **TOM:** Wie funktioniert diese Eintragung in der Praxis?
-**ANNA:** Es gibt zwei Wege. Der erste ist online, auf MyGuichet Punkt l-u, zum Beispiel mit Ihrem LuxTrust. Das dauert nur ein paar Minuten.
+**ANNA:** Es gibt zwei Wege, und der erste ist online, auf MyGuichet Punkt l-u, zum Beispiel mit Ihrem LuxTrust. Das dauert nur ein paar Minuten.
 **TOM:** Und wie sieht der zweite Weg aus?
 **ANNA:** Sie gehen mit Ihrem Personalausweis oder Ihrem Reisepass zum Einwohnermeldeamt Ihrer Gemeinde und unterschreiben eine kurze Erklärung. Wenn Sie einen Aufenthaltstitel brauchen, um hier zu leben, bringen Sie ihn auch mit.
 **TOM:** Gibt es eine Frist für die Eintragung?
@@ -80,7 +80,7 @@
 **TOM:** Und wie ist es mit den Grenzgängern, die in einem anderen Land wohnen?
 **ANNA:** Sie können hier nicht wählen, denn das Wahlrecht hängt vom Wohnort ab. Aber sie können Mitglied dieser Kommission sein, in der Gemeinde, in der sie arbeiten.
 **TOM:** Und die Sitzungen des Gemeinderats sind öffentlich, nicht wahr?
-**ANNA:** Ja, das sind sie. Sie können einfach hingehen und zuhören, worüber Ihr Gemeinderat spricht.
+**ANNA:** Ja, und Sie können einfach hingehen und zuhören, worüber Ihr Gemeinderat spricht.
 **TOM:** Fassen wir zusammen. Was sollte man sich merken?
 **ANNA:** Erstens: Wenn Sie in Luxemburg wohnen und achtzehn sind, können Sie in Ihrer Gemeinde wählen, egal welche Staatsangehörigkeit Sie haben und wie lange Sie schon hier sind.
 **TOM:** Zweitens: Bürger der Europäischen Union können hier auch bei den Europawahlen wählen.

@@ -16,21 +16,21 @@
 **TOM:** L'adresse en français, c'est jepeuxvoter point l-u. Je peux voter : le nom dit tout.
 **ANNA:** Le site est géré par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. Il existe en cinq langues : français, allemand, anglais, portugais et luxembourgeois.
 **TOM:** Commençons par les bases. Quelles élections y a-t-il au Luxembourg ?
-**ANNA:** Il y en a trois principales. Les élections communales, pour le conseil de votre commune. Les élections européennes, pour le Parlement européen. Et les élections nationales, pour la Chambre des députés.
+**ANNA:** Il y en a trois principales : les élections communales, pour le conseil de votre commune, les élections européennes, pour le Parlement européen, et les élections nationales, pour la Chambre des députés.
 **TOM:** Et une personne qui n'a pas la nationalité luxembourgeoise peut-elle voter aux trois ?
-**ANNA:** Pas aux trois. Les élections nationales sont réservées aux personnes de nationalité luxembourgeoise. Mais les deux autres sont ouvertes à bien plus de monde qu'on ne le pense.
+**ANNA:** Pas aux trois, car les élections nationales sont réservées aux personnes de nationalité luxembourgeoise. Mais les deux autres sont ouvertes à bien plus de monde qu'on ne le pense.
 **TOM:** Prenons d'abord les élections communales. Qui a le droit d'y voter ?
 **ANNA:** Tous les adultes qui habitent au Luxembourg, quelle que soit leur nationalité. Européen ou non européen, cela ne fait aucune différence.
 **TOM:** C'est vrai ? Je pensais qu'il fallait d'abord habiter ici depuis plusieurs années.
 **ANNA:** C'était l'ancienne règle : cinq ans de résidence. Elle a été supprimée il y a quelques années. Aujourd'hui, vous pouvez vous inscrire dès que vous habitez ici.
 **TOM:** Alors, quelles sont les conditions aujourd'hui ?
-**ANNA:** Il y en a trois. Vous avez au moins dix-huit ans le jour des élections. Vous habitez au Luxembourg. Et vous n'avez pas perdu votre droit de vote, par exemple à la suite d'une décision de justice.
+**ANNA:** Il y a trois conditions : vous avez au moins dix-huit ans le jour des élections, vous habitez au Luxembourg, et vous n'avez pas perdu votre droit de vote, par exemple à la suite d'une décision de justice.
 **TOM:** Et pour les personnes qui viennent d'un pays hors de l'Union européenne et de l'espace Schengen, y a-t-il autre chose ?
 **ANNA:** Une seule chose : un titre de séjour ou une carte de séjour en cours de validité. Les personnes dont la demande de protection internationale est encore en cours ne peuvent pas encore s'inscrire. Une fois la protection accordée, elles le peuvent.
 **TOM:** Il y a pourtant une différence importante avec les Luxembourgeois.
 **ANNA:** Oui. Les Luxembourgeois sont inscrits automatiquement sur la liste électorale quand ils ont dix-huit ans. Tous les autres doivent s'inscrire eux-mêmes. Personne ne le fera à votre place.
 **TOM:** Comment cette inscription se passe-t-elle en pratique ?
-**ANNA:** Il y a deux possibilités. La première, c'est en ligne, sur MyGuichet point l-u, par exemple avec votre LuxTrust. Cela ne prend que quelques minutes.
+**ANNA:** Il y a deux possibilités, et la première, c'est en ligne, sur MyGuichet point l-u, par exemple avec votre LuxTrust. Cela ne prend que quelques minutes.
 **TOM:** Et quelle est la deuxième possibilité ?
 **ANNA:** Vous allez au bureau de la population de votre commune avec votre carte d'identité ou votre passeport, et vous signez une courte déclaration. Si vous avez besoin d'un titre de séjour pour vivre ici, vous l'apportez aussi.
 **TOM:** Y a-t-il une date limite pour s'inscrire ?
@@ -80,7 +80,7 @@
 **TOM:** Et qu'en est-il des frontaliers, qui habitent dans un autre pays ?
 **ANNA:** Ils ne peuvent pas voter ici, parce que le vote dépend de l'endroit où l'on habite. Mais ils peuvent être membres de cette commission dans la commune où ils travaillent.
 **TOM:** Et les séances du conseil communal sont publiques, n'est-ce pas ?
-**ANNA:** Oui, elles le sont. Vous pouvez simplement y aller et écouter ce dont votre conseil discute.
+**ANNA:** Oui, et vous pouvez simplement y aller et écouter ce dont votre conseil discute.
 **TOM:** Résumons. Que faut-il retenir ?
 **ANNA:** Premièrement : si vous habitez au Luxembourg et que vous avez dix-huit ans, vous pouvez voter dans votre commune, quelle que soit votre nationalité, et peu importe depuis combien de temps vous êtes ici.
 **TOM:** Deuxièmement : les citoyens de l'Union européenne peuvent aussi voter ici aux élections européennes.

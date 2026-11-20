@@ -16,21 +16,21 @@
 **TOM:** D'Adress op Lëtzebuergesch ass echkawielen Punkt l-u. Ech ka wielen: den Numm seet alles.
 **ANNA:** De Site gëtt vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen bedriwwen. Et gëtt en a fënnef Sproochen: Franséisch, Däitsch, Englesch, Portugisesch a Lëtzebuergesch.
 **TOM:** Fänke mer mat der Basis un. Wéi eng Wale ginn et zu Lëtzebuerg?
-**ANNA:** Et ginn dräi wichteg Walen. D'Gemengewalen, fir de Rot vun Ärer Gemeng. D'Europawalen, fir d'Europaparlament. An d'Nationalwalen, fir d'Chamber.
+**ANNA:** Et ginn dräi wichteg Walen: d'Gemengewalen, fir de Rot vun Ärer Gemeng, d'Europawalen, fir d'Europaparlament, an d'Nationalwalen, fir d'Chamber.
 **TOM:** A kann een ouni lëtzebuergesch Nationalitéit bei allen dräi wielen?
-**ANNA:** Net bei allen dräi. D'Nationalwale sinn nëmme fir Leit mat der lëtzebuergescher Nationalitéit. Mee déi zwou aner si fir vill méi Leit op, wéi ee mengt.
+**ANNA:** Net bei allen dräi, well d'Nationalwale sinn nëmme fir Leit mat der lëtzebuergescher Nationalitéit. Mee déi zwou aner si fir vill méi Leit op, wéi ee mengt.
 **TOM:** Huele mer fir d'éischt d'Gemengewalen. Wien däerf do wielen?
 **ANNA:** All Erwuessenen, deen zu Lëtzebuerg wunnt, egal wéi eng Nationalitéit en huet. Europäer oder net, dat mécht keen Ënnerscheed.
 **TOM:** Stëmmt dat wierklech? Ech hat geduecht, et misst een fir d'éischt e puer Joer hei wunnen.
 **ANNA:** Dat war déi al Reegel: fënnef Joer Residenz. Si gouf virun e puer Joer ofgeschaaft. Haut kënnt Dir Iech aschreiwen, soubal Dir hei wunnt.
 **TOM:** Wéi eng Konditioune gëllen dann haut?
-**ANNA:** Et sinn der dräi. Dir hutt um Waldag op d'mannst uechtzéng Joer. Dir wunnt zu Lëtzebuerg. An Dir hutt Äert Walrecht net verluer, zum Beispill duerch en Uerteel vum Geriicht.
+**ANNA:** Et sinn dräi Konditiounen: Dir hutt um Waldag op d'mannst uechtzéng Joer, Dir wunnt zu Lëtzebuerg, an Dir hutt Äert Walrecht net verluer, zum Beispill duerch en Uerteel vum Geriicht.
 **TOM:** A fir Leit aus Länner baussent der Europäescher Unioun an dem Schengen-Raum, gëtt et do nach eppes?
 **ANNA:** Nëmmen eng Saach: e gültegen Openthaltstitel oder eng gülteg Openthaltskaart. Leit, deenen hir Demande fir internationale Schutz nach leeft, kënne sech nach net aschreiwen. Soubal de Schutz accordéiert ass, kënne si et.
 **TOM:** Et gëtt awer ee wichtegen Ënnerscheed zu de Lëtzebuerger.
 **ANNA:** Jo. Lëtzebuerger ginn automatesch op d'Wielerlëscht gesat, wa si uechtzéng ginn. All déi aner musse sech selwer aschreiwen. Keen mécht dat fir Iech.
 **TOM:** Wéi geet dat Aschreiwen an der Praxis?
-**ANNA:** Et ginn zwou Méiglechkeeten. Déi éischt ass online, op MyGuichet Punkt l-u, zum Beispill mat Ärem LuxTrust. Dat dauert nëmmen e puer Minutten.
+**ANNA:** Et ginn zwou Méiglechkeeten, an déi éischt ass online, op MyGuichet Punkt l-u, zum Beispill mat Ärem LuxTrust. Dat dauert nëmmen e puer Minutten.
 **TOM:** A wéi gesäit déi zweet Méiglechkeet aus?
 **ANNA:** Dir gitt mat Ärer Identitéitskaart oder Ärem Pass op de Populatiounsbüro vun Ärer Gemeng an ënnerschreift eng kuerz Deklaratioun. Wann Dir en Openthaltstitel braucht, fir hei ze liewen, bréngt Dir deen och mat.
 **TOM:** Gëtt et eng Frist fir sech anzeschreiwen?
@@ -80,7 +80,7 @@
 **TOM:** A wéi ass et mat de Grenzgänger, déi an engem anere Land wunnen?
 **ANNA:** Si kënnen hei net wielen, well d'Walrecht dovun ofhänkt, wou ee wunnt. Mee si kënne Member vun där Kommissioun sinn, an der Gemeng, an där si schaffen.
 **TOM:** An d'Sëtzunge vum Gemengerot sinn ëffentlech, oder?
-**ANNA:** Jo, dat si se. Dir kënnt einfach higoen an nolauschteren, iwwer wat Äre Gemengerot schwätzt.
+**ANNA:** Jo, an Dir kënnt einfach higoen an nolauschteren, iwwer wat Äre Gemengerot schwätzt.
 **TOM:** Faasse mer zesummen. Wat soll ee sech mierken?
 **ANNA:** Éischtens: wann Dir zu Lëtzebuerg wunnt an uechtzéng sidd, kënnt Dir an Ärer Gemeng wielen, egal wéi eng Nationalitéit Dir hutt a wéi laang Dir schonn hei sidd.
 **TOM:** Zweetens: Bierger vun der Europäescher Unioun kënnen hei och bei den Europawale wielen.

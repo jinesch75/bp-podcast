@@ -45,7 +45,7 @@
 **ANNA:** Think of someone who has done a job expertly for fifteen years, but never had the paper to prove it.
 **TOM:** Through this process, that real experience can be assessed and turned into an official diploma.
 **ANNA:** So years of skill and hard work can finally be recognised, formally, on paper.
-**TOM:** It's a way of honouring what people already know, not just what they've sat exams for. That's powerful.
+**TOM:** It's a way of honouring what people already know, not just what they've sat exams for. I find that really powerful.
 **ANNA:** Now, learning costs time, and sometimes money. So let's talk about the help available.
 **TOM:** For individuals, there are special kinds of paid leave, just for following training.
 **ANNA:** The main one is individual training leave, which lets you take paid days off work to learn, up to eighty days over your career.

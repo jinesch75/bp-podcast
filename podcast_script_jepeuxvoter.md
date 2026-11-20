@@ -16,21 +16,21 @@
 **TOM:** The address in English is icanvote dot l-u. I can vote: the name says it all.
 **ANNA:** The website is run by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees. It exists in five languages: French, German, English, Portuguese and Luxembourgish.
 **TOM:** Let's begin with the basics. Which elections are there in Luxembourg?
-**ANNA:** There are three main ones. The municipal elections, for the council of your commune. The European elections, for the European Parliament. And the national elections, for the Chamber of Deputies.
+**ANNA:** There are three main ones: the municipal elections, for the council of your commune, the European elections, for the European Parliament, and the national elections, for the Chamber of Deputies.
 **TOM:** And can someone without Luxembourgish nationality vote in all three of them?
-**ANNA:** Not in all three. The national elections are only for people with Luxembourgish nationality. But the other two are open to many more people than you might think.
+**ANNA:** Not in all three, because the national elections are only for people with Luxembourgish nationality. But the other two are open to many more people than you might think.
 **TOM:** Let's take the municipal elections first. Who is allowed to vote there?
 **ANNA:** Every adult who lives in Luxembourg, whatever their nationality. European or not European, it makes no difference.
 **TOM:** Is that true? I thought you had to live here for several years first.
 **ANNA:** That was the old rule: five years of residence. It was abolished a few years ago. Today, you can register as soon as you live here.
 **TOM:** So what are the conditions today?
-**ANNA:** There are three of them. You are at least eighteen on election day. You live in Luxembourg. And you have not lost your right to vote, for example through a court decision.
+**ANNA:** There are three conditions: you are at least eighteen on election day, you live in Luxembourg, and you have not lost your right to vote, for example through a court decision.
 **TOM:** And for people from outside the European Union and the Schengen area, is there anything more?
 **ANNA:** Only one thing: a valid residence permit or residence card. People who are still applying for international protection cannot register yet. Once protection is granted, they can.
 **TOM:** There is one important difference with Luxembourgers, though.
 **ANNA:** Yes. Luxembourgers are put on the electoral list automatically when they turn eighteen. Everyone else has to register. Nobody will do it for you.
 **TOM:** How does that registration work in practice?
-**ANNA:** There are two ways. The first one is online, on MyGuichet dot l-u, for example with your LuxTrust. It takes only a few minutes.
+**ANNA:** There are two ways, and the first one is online, on MyGuichet dot l-u, for example with your LuxTrust. It takes only a few minutes.
 **TOM:** And what is the second way?
 **ANNA:** You go to the population office of your commune with your identity card or your passport, and you sign a short declaration. If you need a residence permit to live here, you bring that too.
 **TOM:** Is there a deadline for registering?
@@ -80,7 +80,7 @@
 **TOM:** And what about cross-border workers, who live in another country?
 **ANNA:** They cannot vote here, because voting depends on where you live. But they can be a member of that commission in the commune where they work.
 **TOM:** And the meetings of the local council are public, aren't they?
-**ANNA:** They are. You can simply go and listen to what your council discusses.
+**ANNA:** They are, and you can simply go and listen to what your council discusses.
 **TOM:** Let's bring it together. What should people remember?
 **ANNA:** First: if you live in Luxembourg and you are eighteen, you can vote in your commune, whatever your nationality, and however long you have been here.
 **TOM:** Second: citizens of the European Union can also vote here in the European elections.
