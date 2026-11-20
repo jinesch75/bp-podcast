@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "I Can Vote – Your Voice in Your Commune",
+  "description": "You live in Luxembourg but you are not a Luxembourger? You can still vote in your commune, and EU citizens can vote in the European elections too. Discover the website icanvote.lu: who can vote, how to register, and how to take part in local life.",
+  "topics": [
+   "The three elections in Luxembourg",
+   "Who can vote in the commune",
+   "No more five-year rule",
+   "Registering online or at the commune",
+   "Compulsory voting & postal vote",
+   "The European elections",
+   "Why your vote matters",
+   "Being a candidate & local commissions"
+  ],
+  "questions": [
+   {
+    "text": "In which elections can residents without Luxembourgish nationality vote in Luxembourg?",
+    "options": [
+     "In the municipal elections, and EU citizens in the European ones too",
+     "In the national elections, but only after five years of residence",
+     "In all three elections, as soon as they are on the electoral list",
+     "In the European elections only, whatever their own nationality is"
+    ],
+    "correct": 0,
+    "explanation": "Every adult resident can vote in the municipal elections, whatever their nationality. Citizens of the European Union can also vote here in the European elections. The national elections are only for people with Luxembourgish nationality."
+   },
+   {
+    "text": "How long must you have lived in Luxembourg before you can register for the municipal elections?",
+    "options": [
+     "At least five years in the country",
+     "At least six months in the same commune",
+     "There is no minimum: as soon as you live here",
+     "At least two years, with one in the commune"
+    ],
+    "correct": 2,
+    "explanation": "The old rule of five years of residence was abolished. Today, you can register as soon as you live in Luxembourg. The six months in the commune only apply to people who want to be a candidate."
+   },
+   {
+    "text": "What is the latest moment to register if you want to vote in a particular election?",
+    "options": [
+     "On election day, at the polling station",
+     "Five days before election day",
+     "One year before election day",
+     "Fifty-five days before election day"
+    ],
+    "correct": 3,
+    "explanation": "You can register at any time of the year, online on MyGuichet.lu or at your commune. But to vote in a particular election, you must register at the latest 55 days before election day."
+   },
+   {
+    "text": "What changes once you are registered on the electoral list?",
+    "options": [
+     "You have to register again before every new election",
+     "Voting becomes compulsory, as it is for Luxembourgers",
+     "You are no longer allowed to ask for a postal vote",
+     "You can now also vote in the national elections"
+    ],
+    "correct": 1,
+    "explanation": "In Luxembourg, voting is compulsory for everyone on the electoral list. You register only once, you can vote by post, and you can ask your commune to take your name off the list at any time."
+   },
+   {
+    "text": "How can a cross-border worker take part in the life of a Luxembourg commune?",
+    "options": [
+     "By voting in the municipal elections of the commune where they work",
+     "By asking for a postal vote from their country of residence",
+     "By joining the intercultural living together commission where they work",
+     "By standing as a candidate for mayor in the commune where they work"
+    ],
+    "correct": 2,
+    "explanation": "Voting depends on where you live, so cross-border workers cannot vote in Luxembourg. But they can be a member of the commission for intercultural living together in the commune where they work."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Je peux voter – Votre voix dans votre commune",
+  "description": "Vous habitez au Luxembourg sans être Luxembourgeois ? Vous pouvez quand même voter dans votre commune, et les citoyens de l'UE aussi aux élections européennes. Découvrez le site jepeuxvoter.lu : qui peut voter, comment s'inscrire, et comment participer à la vie locale.",
+  "topics": [
+   "Les trois élections au Luxembourg",
+   "Qui peut voter dans la commune",
+   "Fin de la règle des cinq ans",
+   "S'inscrire en ligne ou à la commune",
+   "Vote obligatoire et par correspondance",
+   "Les élections européennes",
+   "Pourquoi votre vote compte",
+   "Être candidat et commissions locales"
+  ],
+  "questions": [
+   {
+    "text": "À quelles élections les résidents qui n'ont pas la nationalité luxembourgeoise peuvent-ils voter au Luxembourg ?",
+    "options": [
+     "Aux élections communales, et les citoyens de l'UE aussi aux européennes",
+     "Aux élections nationales, mais seulement après cinq ans de résidence",
+     "Aux trois élections, dès qu'ils sont inscrits sur la liste électorale",
+     "Aux élections européennes uniquement, quelle que soit leur nationalité"
+    ],
+    "correct": 0,
+    "explanation": "Tous les résidents adultes peuvent voter aux élections communales, quelle que soit leur nationalité. Les citoyens de l'Union européenne peuvent aussi voter ici aux élections européennes. Les élections nationales sont réservées aux personnes de nationalité luxembourgeoise."
+   },
+   {
+    "text": "Depuis combien de temps faut-il habiter au Luxembourg pour pouvoir s'inscrire aux élections communales ?",
+    "options": [
+     "Depuis au moins cinq ans dans le pays",
+     "Depuis au moins six mois dans la commune",
+     "Aucune durée minimale : dès qu'on habite ici",
+     "Depuis au moins deux ans, dont un dans la commune"
+    ],
+    "correct": 2,
+    "explanation": "L'ancienne règle des cinq ans de résidence a été supprimée. Aujourd'hui, vous pouvez vous inscrire dès que vous habitez au Luxembourg. Les six mois dans la commune ne concernent que les personnes qui veulent être candidates."
+   },
+   {
+    "text": "Jusqu'à quand peut-on s'inscrire pour voter à une élection précise ?",
+    "options": [
+     "Le jour des élections, au bureau de vote",
+     "Cinq jours avant le jour des élections",
+     "Un an avant le jour des élections",
+     "Cinquante-cinq jours avant le jour des élections"
+    ],
+    "correct": 3,
+    "explanation": "Vous pouvez vous inscrire à tout moment de l'année, en ligne sur MyGuichet.lu ou à votre commune. Mais pour voter à une élection précise, il faut s'inscrire au plus tard 55 jours avant le jour du vote."
+   },
+   {
+    "text": "Qu'est-ce qui change une fois que vous êtes inscrit sur la liste électorale ?",
+    "options": [
+     "Il faut s'inscrire à nouveau avant chaque nouvelle élection",
+     "Le vote devient obligatoire, comme pour les Luxembourgeois",
+     "Vous ne pouvez plus demander le vote par correspondance",
+     "Vous pouvez désormais voter aussi aux élections nationales"
+    ],
+    "correct": 1,
+    "explanation": "Au Luxembourg, le vote est obligatoire pour toutes les personnes inscrites sur la liste électorale. Vous ne vous inscrivez qu'une fois, vous pouvez voter par correspondance, et vous pouvez à tout moment demander à votre commune de retirer votre nom de la liste."
+   },
+   {
+    "text": "Comment un frontalier peut-il participer à la vie d'une commune luxembourgeoise ?",
+    "options": [
+     "En votant aux élections communales de la commune où il travaille",
+     "En demandant le vote par correspondance depuis son pays de résidence",
+     "En rejoignant la commission du vivre-ensemble interculturel là où il travaille",
+     "En se présentant comme bourgmestre dans la commune où il travaille"
+    ],
+    "correct": 2,
+    "explanation": "Le vote dépend de l'endroit où l'on habite : les frontaliers ne peuvent donc pas voter au Luxembourg. Mais ils peuvent être membres de la commission du vivre-ensemble interculturel dans la commune où ils travaillent."
+   }
+  ]
+ },
+ "de": {
+  "title": "Ich kann wählen – Ihre Stimme in Ihrer Gemeinde",
+  "description": "Sie wohnen in Luxemburg, sind aber kein Luxemburger? Sie können trotzdem in Ihrer Gemeinde wählen, und EU-Bürger auch bei den Europawahlen. Entdecken Sie die Website ichkannwaehlen.lu: wer wählen kann, wie man sich einträgt, und wie man sich vor Ort beteiligt.",
+  "topics": [
+   "Die drei Wahlen in Luxemburg",
+   "Wer in der Gemeinde wählen kann",
+   "Keine Fünf-Jahres-Regel mehr",
+   "Eintragung online oder in der Gemeinde",
+   "Wahlpflicht und Briefwahl",
+   "Die Europawahlen",
+   "Warum Ihre Stimme zählt",
+   "Kandidieren und Gemeindekommissionen"
+  ],
+  "questions": [
+   {
+    "text": "Bei welchen Wahlen können Einwohner ohne luxemburgische Staatsangehörigkeit in Luxemburg wählen?",
+    "options": [
+     "Bei den Gemeindewahlen, und EU-Bürger auch bei den Europawahlen",
+     "Bei den Nationalwahlen, aber erst nach fünf Jahren Aufenthalt",
+     "Bei allen drei Wahlen, sobald sie im Wählerverzeichnis stehen",
+     "Nur bei den Europawahlen, egal welche Staatsangehörigkeit sie haben"
+    ],
+    "correct": 0,
+    "explanation": "Alle erwachsenen Einwohner können bei den Gemeindewahlen wählen, egal welche Staatsangehörigkeit sie haben. Bürger der Europäischen Union können hier auch bei den Europawahlen wählen. Die Nationalwahlen sind nur für Menschen mit luxemburgischer Staatsangehörigkeit."
+   },
+   {
+    "text": "Wie lange muss man in Luxemburg wohnen, bevor man sich für die Gemeindewahlen eintragen kann?",
+    "options": [
+     "Mindestens fünf Jahre im Land",
+     "Mindestens sechs Monate in der Gemeinde",
+     "Keine Mindestdauer: sobald man hier wohnt",
+     "Mindestens zwei Jahre, davon eines in der Gemeinde"
+    ],
+    "correct": 2,
+    "explanation": "Die alte Regel von fünf Jahren Aufenthalt wurde abgeschafft. Heute können Sie sich eintragen, sobald Sie in Luxemburg wohnen. Die sechs Monate in der Gemeinde gelten nur für Menschen, die kandidieren möchten."
+   },
+   {
+    "text": "Bis wann muss man sich spätestens eintragen, um bei einer bestimmten Wahl zu wählen?",
+    "options": [
+     "Am Wahltag selbst, im Wahllokal",
+     "Fünf Tage vor dem Wahltag",
+     "Ein Jahr vor dem Wahltag",
+     "Fünfundfünfzig Tage vor dem Wahltag"
+    ],
+    "correct": 3,
+    "explanation": "Sie können sich das ganze Jahr über eintragen, online auf MyGuichet.lu oder bei Ihrer Gemeinde. Aber um bei einer bestimmten Wahl zu wählen, müssen Sie sich spätestens 55 Tage vor dem Wahltag eintragen."
+   },
+   {
+    "text": "Was ändert sich, sobald Sie im Wählerverzeichnis eingetragen sind?",
+    "options": [
+     "Sie müssen sich vor jeder neuen Wahl wieder eintragen",
+     "Wählen wird zur Pflicht, genau wie für die Luxemburger",
+     "Sie dürfen keine Briefwahl mehr beantragen",
+     "Sie können jetzt auch bei den Nationalwahlen wählen"
+    ],
+    "correct": 1,
+    "explanation": "In Luxemburg besteht Wahlpflicht für alle, die im Wählerverzeichnis stehen. Sie tragen sich nur einmal ein, Sie können per Briefwahl wählen, und Sie können Ihre Gemeinde jederzeit bitten, Ihren Namen von der Liste zu streichen."
+   },
+   {
+    "text": "Wie kann sich ein Grenzgänger am Leben einer luxemburgischen Gemeinde beteiligen?",
+    "options": [
+     "Indem er bei den Gemeindewahlen an seinem Arbeitsort wählt",
+     "Indem er von seinem Wohnland aus die Briefwahl beantragt",
+     "Als Mitglied der Kommission für interkulturelles Zusammenleben am Arbeitsort",
+     "Indem er an seinem Arbeitsort als Bürgermeister kandidiert"
+    ],
+    "correct": 2,
+    "explanation": "Das Wahlrecht hängt vom Wohnort ab: Grenzgänger können deshalb in Luxemburg nicht wählen. Aber sie können Mitglied der Kommission für das interkulturelle Zusammenleben sein, in der Gemeinde, in der sie arbeiten."
+   }
+  ]
+ }
+}

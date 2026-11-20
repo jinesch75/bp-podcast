@@ -9,27 +9,27 @@
 **ANNA:** Hallo und herzlich willkommen! Es ist wirklich schön, dass Sie heute bei uns sind.
 **TOM:** Hallo zusammen!
 **ANNA:** Dieser Podcast ist Teil des Biergerpakt. Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen. Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.
-**TOM:** Und das heutige Thema ist voller Hoffnung... der Gedanke, dass wir nie aufhören zu lernen.
+**TOM:** Und das heutige Thema ist voller Hoffnung, der Gedanke, dass wir nie aufhören zu lernen.
 **ANNA:** Die Schule ist nur der Anfang. Das Lernen kann unser ganzes Leben lang weitergehen.
 **TOM:** Ein neuer Job, eine Beförderung, ein beruflicher Neuanfang, eine neue Sprache oder einfach eine Leidenschaft, der man folgen möchte.
 **ANNA:** Vielleicht haben Sie in jungen Jahren ein Diplom verpasst. Vielleicht verändert sich Ihre Branche. Vielleicht sind Sie gerade erst hierhergezogen.
 **TOM:** Was auch immer Ihre Geschichte ist, es gibt einen Weg nach vorne. Und in Luxemburg gibt es einen Ort, der alles zusammenbringt.
 **ANNA:** Es ist das Portal für lebenslanges Lernen. Die Website ist lifelong Bindestrich learning Punkt lu.
-**TOM:** Sein Leitspruch bringt es schön auf den Punkt... „Entwickeln Sie Ihre Kompetenzen ein Leben lang".
+**TOM:** Sein Leitspruch bringt es schön auf den Punkt, „Entwickeln Sie Ihre Kompetenzen ein Leben lang".
 **ANNA:** Also Tom, was genau ist dieses Portal?
 **TOM:** Es ist das nationale Portal für Weiterbildung, betrieben vom nationalen Institut für die Entwicklung der beruflichen Weiterbildung, dem INFPC.
 **ANNA:** Und sein Herzstück ist ein riesiger Katalog von Weiterbildungskursen.
 **TOM:** Wir sprechen von mehr als zehntausend Kursen, von mehr als dreihundert zugelassenen Bildungsanbietern.
 **ANNA:** Alles an einem Ort gesammelt, sodass Sie nicht im ganzen Internet suchen müssen.
 **TOM:** Und weil die Anbieter zugelassen sind, wissen Sie, dass das Angebot seriös und zuverlässig ist.
-**ANNA:** Sie können auch auf clevere Weise suchen... nach Thema oder nach dem Beruf, den Sie gerne ausüben möchten.
+**ANNA:** Sie können auch auf clevere Weise suchen, nach Thema oder nach dem Beruf, den Sie gerne ausüben möchten.
 **TOM:** So können Sie von dem ausgehen, was Sie interessiert, oder davon, wohin sich Ihre Laufbahn entwickeln soll.
 **ANNA:** Über welche Art von Themen sprechen wir?
 **TOM:** Über alle möglichen! Informatik und Technik, Sprachen, Betriebswirtschaft und Personalwesen, Finanzen und Recht.
 **ANNA:** Und Persönlichkeitsentwicklung, Qualität und Sicherheit, Projektmanagement und vieles mehr.
 **TOM:** Was auch immer Sie lernen möchten, die Chancen stehen gut, dass Sie einen passenden Kurs dafür finden.
 **ANNA:** Das Portal ist für drei Gruppen von Menschen gemacht. Gehen wir sie durch.
-**TOM:** Erstens, Privatpersonen... Menschen wie Sie und ich, die lernen oder sich weiterentwickeln möchten.
+**TOM:** Erstens, Privatpersonen. Menschen wie Sie und ich, die lernen oder sich weiterentwickeln möchten.
 **ANNA:** Zweitens, Unternehmen, die ihre Teams schulen und ihre Kompetenzen auf dem neuesten Stand halten wollen.
 **TOM:** Und drittens, Bildungsfachleute, die Menschen und Organisationen, die die Kurse tatsächlich durchführen.
 **ANNA:** Konzentrieren wir uns zuerst auf die Privatpersonen, denn hier gibt es etwas Kraftvolles.
@@ -40,7 +40,7 @@
 **TOM:** Es gibt auch den Meisterbrief, der es Fachkräften ermöglicht, ihr eigenes Unternehmen zu führen und Lehrlinge auszubilden.
 **ANNA:** Wenn das Leben es also so wollte, dass Sie früher eine Qualifikation verpasst haben, gibt es jetzt eine echte zweite Chance, sie zu erwerben.
 **TOM:** Und das ist wichtig, denn ein Diplom kann Türen öffnen, die ohne es verschlossen bleiben.
-**ANNA:** Nun, hier ist etwas, das ich wirklich wunderbar finde... die Validierung von Erfahrungen.
+**ANNA:** Nun, hier ist etwas, das ich wirklich wunderbar finde, die Validierung von Erfahrungen.
 **TOM:** Das ist für Menschen, die durch ihre Arbeit und ihr Leben sehr viel gelernt haben, aber kein Diplom haben, um es zu belegen.
 **ANNA:** Denken Sie an jemanden, der einen Beruf fünfzehn Jahre lang fachkundig ausgeübt hat, aber nie das Papier hatte, um es zu beweisen.
 **TOM:** Durch dieses Verfahren kann diese echte Erfahrung bewertet und in ein offizielles Diplom umgewandelt werden.
@@ -48,7 +48,7 @@
 **TOM:** Es ist eine Art, das zu würdigen, was Menschen bereits wissen, nicht nur das, wofür sie Prüfungen abgelegt haben. Das ist kraftvoll.
 **ANNA:** Nun, Lernen kostet Zeit, und manchmal Geld. Sprechen wir also über die verfügbare Unterstützung.
 **TOM:** Für Privatpersonen gibt es besondere Arten von bezahltem Urlaub, nur um eine Weiterbildung zu besuchen.
-**ANNA:** Die wichtigste ist der individuelle Bildungsurlaub, der Ihnen bezahlte freie Tage zum Lernen ermöglicht... bis zu achtzig Tage im ganzen Berufsleben.
+**ANNA:** Die wichtigste ist der individuelle Bildungsurlaub, der Ihnen bezahlte freie Tage zum Lernen ermöglicht, bis zu achtzig Tage im ganzen Berufsleben.
 **TOM:** Es gibt auch einen speziellen Sprachurlaub, um Luxemburgisch zu lernen, was wunderbar ist für alle, die sich hier mehr zu Hause fühlen möchten.
 **ANNA:** So können Sie sich Zeit zum Lernen nehmen, ohne dabei Ihr gesamtes Einkommen zu verlieren.
 **TOM:** Es gibt noch mehr. Manche Weiterbildungskosten können von der Steuer abgesetzt werden.
@@ -58,13 +58,13 @@
 **TOM:** Und nicht nur Privatpersonen erhalten Unterstützung. Unternehmen auch.
 **ANNA:** Ja. Der Staat hilft dabei, die Weiterbildung mitzufinanzieren, die Unternehmen ihren Mitarbeitenden anbieten.
 **TOM:** So werden Betriebe ermutigt, in ihre Leute zu investieren, und das ganze Land wird kompetenter.
-**ANNA:** Es ist eine gemeinsame Anstrengung... die Beschäftigten, das Unternehmen und der Staat, die alle zusammen in Kompetenzen investieren.
+**ANNA:** Es ist eine gemeinsame Anstrengung, die Beschäftigten, das Unternehmen und der Staat, die alle zusammen in Kompetenzen investieren.
 **TOM:** Sprechen wir darüber, warum das gerade jetzt so wichtig ist.
-**ANNA:** Die Welt verändert sich schnell... neue Technologien, der grüne Wandel, neue Arbeitsweisen.
+**ANNA:** Die Welt verändert sich schnell, neue Technologien, der grüne Wandel, neue Arbeitsweisen.
 **TOM:** Berufe verändern sich, und manche Aufgaben, die Menschen heute erledigen, werden morgen anders erledigt.
-**ANNA:** Das Portal hebt sogar die Kompetenzen der Zukunft hervor... digitale Kompetenzen, grüne Kompetenzen und soziale Kompetenzen.
+**ANNA:** Das Portal hebt sogar die Kompetenzen der Zukunft hervor, digitale Kompetenzen, grüne Kompetenzen und soziale Kompetenzen.
 **TOM:** Digitale Kompetenzen helfen uns, mit neuen Werkzeugen zu arbeiten. Grüne Kompetenzen helfen uns, nachhaltiger zu arbeiten.
-**ANNA:** Und soziale Kompetenzen meinen Dinge wie Kommunikation, Teamarbeit und Anpassungsfähigkeit... menschliche Fähigkeiten, die nie aus der Mode kommen.
+**ANNA:** Und soziale Kompetenzen meinen Dinge wie Kommunikation, Teamarbeit und Anpassungsfähigkeit, menschliche Fähigkeiten, die nie aus der Mode kommen.
 **TOM:** Unsere Kompetenzen frisch zu halten ist der Weg, wie wir selbstbewusst, beschäftigungsfähig und offen für neue Chancen bleiben.
 **ANNA:** Und es geht nicht nur um den Beruf. Es liegt eine echte Freude darin, in jedem Alter etwas Neues zu lernen.
 **TOM:** Eine Sprache lernen, um mit neuen Nachbarn zu sprechen. Ein Handwerk aufgreifen. Die Welt ein bisschen besser verstehen.
@@ -88,20 +88,20 @@
 **TOM:** Und Sie müssen nicht alles auf einmal tun. Ein Kurs, ein Schritt, eine kleine Fähigkeit nach der anderen.
 **ANNA:** Jeder Experte war einmal ein Anfänger. Und jede neue Fähigkeit ist eine Tür, die Sie für Ihr zukünftiges Ich öffnen.
 **TOM:** Machen wir es also ganz praktisch. Was können die Menschen mit all dem tun?
-**ANNA:** Erstens, durchstöbern Sie den Katalog auf lifelong Bindestrich learning Punkt lu... suchen Sie nach Thema oder nach dem gewünschten Beruf.
+**ANNA:** Erstens, durchstöbern Sie den Katalog auf lifelong Bindestrich learning Punkt lu, suchen Sie nach Thema oder nach dem gewünschten Beruf.
 **TOM:** Zweitens, wenn Sie Erfahrung, aber kein Diplom haben, informieren Sie sich über die Validierung dieser Erfahrung.
 **ANNA:** Drittens, bevor Sie sich anmelden, prüfen Sie die finanzielle Unterstützung, wie Bildungsurlaub, Steuerabzüge und Gutscheine.
 **TOM:** Und viertens, wenn Sie unsicher sind, wo Sie anfangen sollen, bitten Sie um eine Kompetenzbilanz oder um Beratung.
 **ANNA:** Fassen wir alles zusammen. Was sollten sich die Menschen merken?
-**TOM:** Erstens... lifelong Bindestrich learning Punkt lu ist Luxemburgs nationales Portal für Weiterbildung, betrieben vom INFPC.
-**ANNA:** Zweitens... es bietet einen riesigen Kurskatalog und sogar Wege zu echten, anerkannten Diplomen als Erwachsener.
-**TOM:** Drittens... Sie können Ihre Lebenserfahrung in ein Diplom validieren lassen und finanzielle Unterstützung erhalten, einschließlich bezahltem Bildungsurlaub.
-**ANNA:** Und viertens... es bietet Beratung, eine Kompetenzbilanz und zweite Chancen, sodass jeder seinen nächsten Schritt finden kann.
+**TOM:** Erstens, lifelong Bindestrich learning Punkt lu ist Luxemburgs nationales Portal für Weiterbildung, betrieben vom INFPC.
+**ANNA:** Zweitens, es bietet einen riesigen Kurskatalog und sogar Wege zu echten, anerkannten Diplomen als Erwachsener.
+**TOM:** Drittens. Sie können Ihre Lebenserfahrung in ein Diplom validieren lassen und finanzielle Unterstützung erhalten, einschließlich bezahltem Bildungsurlaub.
+**ANNA:** Und viertens, es bietet Beratung, eine Kompetenzbilanz und zweite Chancen, sodass jeder seinen nächsten Schritt finden kann.
 **TOM:** Lernen ist eine der großen Freuden und einer der großen Gleichmacher des Lebens.
 **ANNA:** Es kann eine Laufbahn beflügeln, Selbstvertrauen wiederaufbauen und ein ganz neues Kapitel öffnen, in jedem Alter.
 **TOM:** Und in Luxemburg steht die Tür dazu offen, für alle, sobald Sie bereit sind, hindurchzugehen.
-**ANNA:** Wenn es also etwas gibt, das Sie immer schon lernen wollten... vielleicht ist heute der Tag, um damit zu beginnen. Das war unsere Folge über das lebenslange Lernen. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
-**TOM:** Danke an alle. Passen Sie auf sich auf... und bis zum nächsten Mal!
+**ANNA:** Wenn es also etwas gibt, das Sie immer schon lernen wollten, vielleicht ist heute der Tag, um damit zu beginnen. Das war unsere Folge über das lebenslange Lernen. Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen. Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen. Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern. Und die Aktivitäten sind kostenlos. Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.
+**TOM:** Danke an alle. Passen Sie auf sich auf, und bis zum nächsten Mal!
 **ANNA:** Vielen Dank fürs Zuhören.
 
 ---

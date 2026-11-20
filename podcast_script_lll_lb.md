@@ -9,27 +9,27 @@
 **ANNA:** Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.
 **TOM:** Moien alleguer!
 **ANNA:** Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.
-**TOM:** An d'Thema vun haut ass voller Hoffnung... d'Iddi, datt mir ni ophalen ze léieren.
+**TOM:** An d'Thema vun haut ass voller Hoffnung, d'Iddi, datt mir ni ophalen ze léieren.
 **ANNA:** D'Schoul ass nëmmen den Ufank. D'Léieren kann eist ganzt Liewe laang weidergoen.
 **TOM:** En neie Job, eng Befërderung, eng berufflech Ëmorientéierung, eng nei Sprooch, oder einfach eng Passioun, déi een nogoe wëll.
 **ANNA:** Vläicht hutt Dir e Diplom verpasst, wéi Dir méi jonk waart. Vläicht ännert sech Är Branche. Vläicht sidd Dir grad eréischt hei higezunn.
 **TOM:** Wat och ëmmer Är Geschicht ass, et gëtt e Wee no vir. An zu Lëtzebuerg gëtt et eng Plaz, déi alles zesummebréngt.
 **ANNA:** Et ass de Portal fir d'Léiere laang d'Liewen. D'Websäit ass lifelong Bindestrich learning Punkt lu.
-**TOM:** Säi Motto seet et schéin... „Entwéckelt Är Kompetenzen e Liewe laang".
+**TOM:** Säi Motto seet et schéin, „Entwéckelt Är Kompetenzen e Liewe laang".
 **ANNA:** Also Tom, wat ass dëse Portal genau?
 **TOM:** Et ass den nationale Portal fir Weiderbildung, gefouert vum nationalen Institut fir d'Entwécklung vun der berufflecher Weiderbildung, dem INFPC.
 **ANNA:** A säin Häerz ass en enorme Katalog vu Weiderbildungscoursen.
 **TOM:** Mir schwätze vu méi wéi zéngdausend Coursen, vu méi wéi dräihonnert zougelaossene Weiderbildungsulbidder.
 **ANNA:** Alles op enger Plaz gesammelt, esou datt Dir net am ganzen Internet musst sichen.
 **TOM:** A well d'Ulbidder zougelooss sinn, wësst Dir, datt d'Offer eescht a verlässlech ass.
-**ANNA:** Dir kënnt och op clever Manéiere sichen... no Thema, oder nom Beruff, deen Dir gär maache wëllt.
+**ANNA:** Dir kënnt och op clever Manéiere sichen, no Thema, oder nom Beruff, deen Dir gär maache wëllt.
 **TOM:** Esou kënnt Dir vun deem ausgoen, wat Iech interesséiert, oder vun deem, wouhin Är Carrière soll goen.
 **ANNA:** Iwwer wéi eng Zorte vu Sujeten schwätze mir?
 **TOM:** Iwwer all méiglech! Informatik an Technik, Sproochen, Betribswirtschaft a Personalwiesen, Finanzen a Recht.
 **ANNA:** A perséinlech Entwécklung, Qualitéit a Sécherheet, Projetsmanagement, a vill méi.
 **TOM:** Wat och ëmmer Dir léiere wëllt, d'Chancë stinn gutt, datt Dir e passende Cours dofir fannt.
 **ANNA:** De Portal ass fir dräi Gruppe vu Leit gebaut. Loosst eis se duerchgoen.
-**TOM:** Als éischt, Privatpersounen... Leit wéi Dir an ech, déi léiere wëllen oder sech weiderentwéckele wëllen.
+**TOM:** Als éischt, Privatpersounen. Leit wéi Dir an ech, déi léiere wëllen oder sech weiderentwéckele wëllen.
 **ANNA:** Als zweet, Betriber, déi hir Ekippe wëlle schoulen an hir Kompetenzen op der Héicht halen.
 **TOM:** An als drëtt, Weiderbildungsfachleit, déi Leit an Organisatiounen, déi d'Coursë tatsächlech maachen.
 **ANNA:** Konzentréiere mer eis als éischt op d'Privatpersounen, well hei gëtt et eppes Kraaftvolles.
@@ -40,7 +40,7 @@
 **TOM:** Et gëtt och de Meeschterbréif, deen et qualifizéierten Aarbechter erlaabt, hiren eegene Betrib ze féieren a Léierjongen auszebilden.
 **ANNA:** Wann d'Liewen et also esou wollt, datt Dir fréier eng Qualifikatioun verpasst hutt, gëtt et elo eng richteg zweet Chance, se ze kréien.
 **TOM:** An dat ass wichteg, well en Diplom kann Diere maachen, déi ouni en zou bleiwen.
-**ANNA:** Elo, hei ass eppes, wat ech wierklech wonnerbar fannen... d'Validatioun vun der Erfarung.
+**ANNA:** Elo, hei ass eppes, wat ech wierklech wonnerbar fannen, d'Validatioun vun der Erfarung.
 **TOM:** Dat ass fir Leit, déi duerch hir Aarbecht an hiert Liewe ganz vill geléiert hunn, awer kee Diplom hunn, fir et ze beweisen.
 **ANNA:** Denkt un een, deen e Beruff fofzéng Joer laang fachkundeg ausgeüübt huet, awer ni de Pabeier hat, fir et ze beweisen.
 **TOM:** Duerch dëse Prozess kann dës richteg Erfarung evaluéiert an an en offiziellen Diplom ëmgewandelt ginn.
@@ -48,7 +48,7 @@
 **TOM:** Et ass eng Manéier, dat ze éieren, wat d'Leit scho wëssen, net nëmmen dat, wofir se Examen gemaach hunn. Dat ass kraaftvoll.
 **ANNA:** Elo, Léiere kascht Zäit, an heiansdo Geld. Loosst eis also iwwer déi verfügbar Hëllef schwätzen.
 **TOM:** Fir Privatpersoune ginn et speziell Zorte vu bezuelte Congé, just fir eng Weiderbildung ze besichen.
-**ANNA:** Den haaptsächlechen ass den individuelle Bildungscongé, deen Iech erlaabt, bezuelten Congé ze huelen, fir ze léieren... bis zu achtzeg Deeg an Ärer ganzer Carrière.
+**ANNA:** Den haaptsächlechen ass den individuelle Bildungscongé, deen Iech erlaabt, bezuelten Congé ze huelen, fir ze léieren, bis zu achtzeg Deeg an Ärer ganzer Carrière.
 **TOM:** Et gëtt och e spezielle Sproochecongé, fir Lëtzebuergesch ze léieren, wat wonnerbar ass fir jiddereen, deen sech hei méi doheem wëll fillen.
 **ANNA:** Esou kënnt Dir Iech Zäit huelen, fir ze studéieren, ouni derbäi Ären ganzen Akommes ze verléieren.
 **TOM:** Et gëtt nach méi. E puer Weiderbildungskäschte kënne vun Äre Steiren ofgesat ginn.
@@ -58,13 +58,13 @@
 **TOM:** An et sinn net nëmmen d'Privatpersounen, déi Ënnerstëtzung kréien. D'Betriber och.
 **ANNA:** Jo. De Staat hëlleft, d'Weiderbildung matzefinanzéieren, déi d'Betriber hire Mataarbechter ubidden.
 **TOM:** Esou ginn d'Betriber encouragéiert, an hir Leit ze investéieren, an dat ganzt Land gëtt méi kompetent.
-**ANNA:** Et ass eng gemeinsam Ustrengung... de Salarié, de Betrib an de Staat, déi all zesummen a Kompetenzen investéieren.
+**ANNA:** Et ass eng gemeinsam Ustrengung, de Salarié, de Betrib an de Staat, déi all zesummen a Kompetenzen investéieren.
 **TOM:** Loosst eis driwwer schwätzen, firwat dat grad elo esou wichteg ass.
-**ANNA:** D'Welt ännert sech séier... nei Technologien, de gréngen Iwwergang, nei Aarbechtsweisen.
+**ANNA:** D'Welt ännert sech séier, nei Technologien, de gréngen Iwwergang, nei Aarbechtsweisen.
 **TOM:** D'Beruffer änneren sech, an e puer Aufgaben, déi d'Leit haut maachen, ginn d'muer anescht gemaach.
-**ANNA:** De Portal hieft souguer d'Kompetenze vun der Zukunft ervir... digital Kompetenzen, gréng Kompetenzen a sozial Kompetenzen.
+**ANNA:** De Portal hieft souguer d'Kompetenze vun der Zukunft ervir, digital Kompetenzen, gréng Kompetenzen a sozial Kompetenzen.
 **TOM:** Digital Kompetenzen hëllefen eis, mat neie Geschir ze schaffen. Gréng Kompetenzen hëllefen eis, méi nohalteg ze schaffen.
-**ANNA:** A sozial Kompetenze menge Saache wéi Kommunikatioun, Teamaarbecht an Upassungsfäegkeet... mënschlech Fäegkeeten, déi ni aus der Moud kommen.
+**ANNA:** A sozial Kompetenze menge Saache wéi Kommunikatioun, Teamaarbecht an Upassungsfäegkeet, mënschlech Fäegkeeten, déi ni aus der Moud kommen.
 **TOM:** Eis Kompetenze frësch ze halen, ass d'Manéier, wéi mir selbstbewosst, beschäftegungsfäeg an op fir nei Chancë bleiwen.
 **ANNA:** An et geet net nëmmen ëm d'Aarbecht. Et läit eng richteg Freed dran, an all Alter eppes Neies ze léieren.
 **TOM:** Eng Sprooch léieren, fir mat neie Noperen ze schwätzen. En Handwierk ophiewen. D'Welt e bësse besser verstoen.
@@ -88,20 +88,20 @@
 **TOM:** An Dir musst net alles op eemol maachen. Ee Cours, ee Schrëtt, eng kleng Fäegkeet no der anerer.
 **ANNA:** All Expert war eemol en Ufänger. An all nei Fäegkeet ass eng Dier, déi Dir fir Äert zukünftegt Ech opmaacht.
 **TOM:** Loosst eis et also ganz praktesch maachen. Wat kënnen d'Leit mat all deem maachen?
-**ANNA:** Als éischt, kuckt duerch de Katalog op lifelong Bindestrich learning Punkt lu... sicht no Thema, oder nom Beruff, deen Dir wëllt.
+**ANNA:** Als éischt, kuckt duerch de Katalog op lifelong Bindestrich learning Punkt lu, sicht no Thema, oder nom Beruff, deen Dir wëllt.
 **TOM:** Als zweet, wann Dir Erfarung hutt, awer kee Diplom, informéiert Iech iwwer d'Validatioun vun dëser Erfarung.
 **ANNA:** Als drëtt, ier Dir Iech umellt, préift d'finanziell Hëllef, wéi de Bildungscongé, d'Steierofzich an d'Bongen.
 **TOM:** An als véiert, wann Dir net sécher sidd, wou Dir ufänke sollt, frot no engem Kompetenzbilan, oder no enger Begleedung.
 **ANNA:** Loosst eis alles zesummebréngen. Wat sollen d'Leit sech behalen?
-**TOM:** Als éischt... lifelong Bindestrich learning Punkt lu ass de Lëtzebuerger nationale Portal fir Weiderbildung, gefouert vum INFPC.
-**ANNA:** Als zweet... en bitt en enorme Cours-Katalog, a souguer Weeër zu richtegen, unerkannten Diplomer als Erwuessenen.
-**TOM:** Als drëtt... Dir kënnt Är Liewenserfarung an en Diplom validéiere loossen a finanziell Hëllef kréien, dorënner bezuelte Bildungscongé.
-**ANNA:** An als véiert... en bitt Begleedung, e Kompetenzbilan an zweet Chancen, esou datt jiddereen säin nächste Schrëtt ka fannen.
+**TOM:** Als éischt, lifelong Bindestrich learning Punkt lu ass de Lëtzebuerger nationale Portal fir Weiderbildung, gefouert vum INFPC.
+**ANNA:** Als zweet, en bitt en enorme Cours-Katalog, a souguer Weeër zu richtegen, unerkannten Diplomer als Erwuessenen.
+**TOM:** Als drëtt. Dir kënnt Är Liewenserfarung an en Diplom validéiere loossen a finanziell Hëllef kréien, dorënner bezuelte Bildungscongé.
+**ANNA:** An als véiert, en bitt Begleedung, e Kompetenzbilan an zweet Chancen, esou datt jiddereen säin nächste Schrëtt ka fannen.
 **TOM:** Léieren ass eng vun de grousse Freeden, an ee vun de grousse Gläichmaacher, vum Liewen.
 **ANNA:** Et kann eng Carrière beflügelen, d'Selbstvertrauen erëmopbauen, an e ganz neit Kapitel opmaachen, an all Alter.
 **TOM:** An zu Lëtzebuerg steet d'Dier dozou op, fir jiddereen, soubal Dir bereet sidd, duerchzegoen.
-**ANNA:** Wann et also eppes gëtt, wat Dir ëmmer schonn hutt wëlle léieren... vläicht ass haut den Dag, fir unzefänken. Dat war eis Episod iwwer dat liewenslaangt Léieren. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
-**TOM:** Merci, alleguer. Passt op Iech op... a bis d'nächst Kéier!
+**ANNA:** Wann et also eppes gëtt, wat Dir ëmmer schonn hutt wëlle léieren, vläicht ass haut den Dag, fir unzefänken. Dat war eis Episod iwwer dat liewenslaangt Léieren. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir méi Aktivitéite vum Biergerpakt entdecke wëllt, wéi zum Beispill guidéiert Visitten, Online-Informatiounssessiounen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. De Programm ass op fir all Awunner, Lëtzebuerger an Net-Lëtzebuerger, grad wéi fir Grenzgänger. An d'Aktivitéite si gratis. Dir musst Iech just gratis beim Biergerpakt umellen, op biergerpakt.lu.
+**TOM:** Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!
 **ANNA:** Villmools Merci fir d'Nolauschteren.
 
 ---

@@ -106242,5 +106242,6114 @@ const EPISODES = [
     "t": 508.39
    }
   ]
+ },
+ {
+  "id": 44,
+  "key": "dondusang",
+  "number": "Episode 44",
+  "title": "Giving Blood in Luxembourg – dondusang.lu",
+  "description": "Blood cannot be manufactured: hospitals depend on donors. Discover how blood donation works in Luxembourg with the Red Cross website dondusang.lu: who can give, how a donation goes step by step, plasma, where and when to give, and how to help without giving.",
+  "audio": "podcast_dondusang.mp3",
+  "duration": 568.08,
+  "topics": [
+   "Why hospitals need blood",
+   "The Luxembourg Red Cross",
+   "Who can give blood",
+   "Waiting times after a tattoo or a trip",
+   "A donation, step by step",
+   "Giving plasma",
+   "Where and when to give",
+   "Other ways to help"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome!",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "I have a question to start with, Anna.",
+    "t": 27.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Do you know your blood group?",
+    "t": 29.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "I do, actually.",
+    "t": 31.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's written on my blood donor card, which I received the second time I gave blood.",
+    "t": 32.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Then you're the right person for today's topic: blood donation in Luxembourg, and the website dondusang dot l-u.",
+    "t": 36.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "\"Don du sang\" is French, and it simply means \"blood donation\".",
+    "t": 43.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "The website exists in French, German and English.",
+    "t": 47.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "And who is behind this website?",
+    "t": 51.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "The Luxembourg Red Cross.",
+    "t": 53.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is the only organisation in Luxembourg that collects blood and prepares it for the hospitals.",
+    "t": 55.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Since July 2026, this work is carried by a Red Cross foundation dedicated to blood transfusion.",
+    "t": 60.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Does that change anything for the donors?",
+    "t": 67.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "No, nothing changes for them: the same places, the same teams, and the same website.",
+    "t": 69.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's start with the big question.",
+    "t": 75.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Why is giving blood so important?",
+    "t": 77.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Because blood cannot be made in a factory.",
+    "t": 79.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Researchers are working on it, but today, the only source is another human being.",
+    "t": 82.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "And when do hospitals need blood?",
+    "t": 87.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "After a serious accident, during an operation, or when a mother loses a lot of blood while giving birth.",
+    "t": 89.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "And also for people whose body cannot make enough blood, for example during a cancer treatment.",
+    "t": 95.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "How much blood does Luxembourg need?",
+    "t": 101.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "The website gives a simple number: about one hundred bags of blood have to be collected every weekday, to cover the needs of the hospitals.",
+    "t": 103
+   },
+   {
+    "speaker": "Tom",
+    "text": "And is there enough blood in Luxembourg?",
+    "t": 112.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "The Red Cross answers \"yes and no\".",
+    "t": 114.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, because so far the hospitals have always received what they needed.",
+    "t": 116.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "No, because the reserves are often close to their lower limit.",
+    "t": 120.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "And blood doesn't keep forever, does it?",
+    "t": 124.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "No, and that's the point.",
+    "t": 126.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "A donation is separated into its parts.",
+    "t": 128.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Red blood cells can be kept for about six weeks.",
+    "t": 131.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Platelets, which help to stop bleeding, keep for only about one week.",
+    "t": 134.29
+   },
+   {
+    "speaker": "Tom",
+    "text": "So the hospitals need new donations all the time, and not only after an appeal in the news.",
+    "t": 138.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactly, and that's why regular donors are so precious.",
+    "t": 144.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Now, who can give blood?",
+    "t": 147.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "The basic rule is simple: you are in good health, you are at least 18 years old, and you weigh more than 50 kilos.",
+    "t": 149.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Is there an upper age limit?",
+    "t": 157.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, there is.",
+    "t": 158.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "The first donation has to take place before the age of 60, and the last one at 65.",
+    "t": 159.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "A doctor of the transfusion centre can sometimes allow an exception.",
+    "t": 165.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "I've heard that sometimes you have to wait before you can give.",
+    "t": 169.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Is that true?",
+    "t": 172.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, that's true.",
+    "t": 173.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "In some situations, you have to wait for a while.",
+    "t": 174.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "After a new tattoo or a piercing, for example, it's four months.",
+    "t": 177.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what about after a trip abroad?",
+    "t": 182.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "It depends on the destination.",
+    "t": 184.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "After a trip to a tropical region, you wait six months.",
+    "t": 186.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "For some other destinations, it's about one month.",
+    "t": 189.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what if I've simply had a cold?",
+    "t": 193.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Then you wait two weeks after you feel well again.",
+    "t": 195.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "And after antibiotics, you wait one month after the end of the treatment.",
+    "t": 197.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's a lot to remember.",
+    "t": 201.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "You don't have to remember it.",
+    "t": 203.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "The website has a page with all these waiting times, and also a short online test.",
+    "t": 204.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "In a few minutes, you see whether you can probably donate.",
+    "t": 210.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "Why do you say \"probably\"?",
+    "t": 213.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Because the test is only a first indication.",
+    "t": 215.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "The real decision is made on the day itself, in a short conversation with a health professional.",
+    "t": 218.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's go through a donation step by step.",
+    "t": 223.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "What is the first step?",
+    "t": 225.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "You make an appointment on dondusang dot l-u.",
+    "t": 227.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "You choose the place and the date.",
+    "t": 230.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "The booking runs through Doctena, the platform that many people already use for their doctor's appointments.",
+    "t": 232.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Is an appointment compulsory?",
+    "t": 238.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "No, it isn't.",
+    "t": 240.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "An appointment is recommended, because you wait less, but you can also come without one.",
+    "t": 241.53
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what do I do before I go?",
+    "t": 246.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "You fill in a medical questionnaire, the day before or on the day itself.",
+    "t": 248.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "It asks about your health, operations, travels and risky situations.",
+    "t": 252.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Those are quite personal questions.",
+    "t": 257.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "They are, and they protect two people: you, and the patient who will receive your blood.",
+    "t": 259.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "So it's important to answer honestly.",
+    "t": 265.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the conversation that follows is confidential.",
+    "t": 267.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Should I come with an empty stomach, like for a blood test at the laboratory?",
+    "t": 270.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "No, please don't!",
+    "t": 274.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eat normally and drink enough water.",
+    "t": 276.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "And avoid intense sport just before and just after the donation.",
+    "t": 278.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what do I need to bring with me?",
+    "t": 282.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "An identity document.",
+    "t": 284.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's all you need the first time.",
+    "t": 286.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "And then comes the needle.",
+    "t": 288.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Be honest with me: does it hurt?",
+    "t": 289.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "You feel a small prick at the start, like for a normal blood test.",
+    "t": 291.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "After that, you just lie back and relax.",
+    "t": 295.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "How long does it all take?",
+    "t": 297.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "The donation itself takes about ten minutes.",
+    "t": 299.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "With the reception, the conversation and the rest afterwards, plan about one hour.",
+    "t": 302.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "And how much blood is taken?",
+    "t": 306.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "A little less than half a litre.",
+    "t": 308.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "For a healthy adult, that is safe.",
+    "t": 310.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "The body replaces the liquid very quickly, and the blood cells within a few weeks.",
+    "t": 312.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Can I catch a disease when I give blood?",
+    "t": 318.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "No, you can't.",
+    "t": 320.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "The needle and the bag are sterile, and they are used only once.",
+    "t": 321.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "And afterwards, there's something to eat, I hope.",
+    "t": 325.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Of course there is.",
+    "t": 328.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "You stay for a little while in the rest area, with a free drink and a snack, and the team checks that you feel well.",
+    "t": 329.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "What happens to my blood after that?",
+    "t": 335.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is tested, among other things for infections like hepatitis and HIV.",
+    "t": 337.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "If something unusual is found, you are contacted.",
+    "t": 342.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you hear nothing, everything is fine.",
+    "t": 345.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "And when do I get the donor card you mentioned?",
+    "t": 348.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "You receive it at your second visit, and it shows your blood group.",
+    "t": 350.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "How often can a person give blood?",
+    "t": 353.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Men can give every three months, and women every four months.",
+    "t": 355.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "On the website, I also saw the word \"plasma\".",
+    "t": 359.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "What is that exactly?",
+    "t": 362.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Plasma is the liquid part of the blood.",
+    "t": 363.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is yellow, and it makes up about half of our blood.",
+    "t": 366.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "And is it possible to give only plasma?",
+    "t": 369.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, it is.",
+    "t": 372.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "A machine separates the plasma, and your blood cells are given back to you.",
+    "t": 373.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's why you can give plasma more often: once a month.",
+    "t": 377.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "What is plasma used for?",
+    "t": 381.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mostly to make medicines for people with rare diseases or with a weak immune system.",
+    "t": 382.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "It also helps people with severe burns.",
+    "t": 387.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Does a plasma donation take longer?",
+    "t": 390.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, plan up to two hours, especially the first time.",
+    "t": 392.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it is only possible at the centre in Luxembourg City.",
+    "t": 395.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "That's a good moment to ask: where can people give blood?",
+    "t": 399.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are three possibilities.",
+    "t": 402.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "The first one is the Blood Transfusion Centre in Luxembourg City, on boulevard Joseph II.",
+    "t": 404.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open from Monday to Friday.",
+    "t": 410.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what about the south of the country?",
+    "t": 412.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "In Esch-Belval, you can give blood on Mondays and Tuesdays.",
+    "t": 414.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "And from Wednesday to Friday, a mobile team travels around the country, for example to Ettelbruck, Wiltz, Echternach or Grevenmacher.",
+    "t": 418.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "And all the dates are on the website, I imagine.",
+    "t": 427.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, in a calendar.",
+    "t": 430.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "And on the home page, there is a \"blood group barometer\".",
+    "t": 431.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "It shows which blood groups are needed most at the moment.",
+    "t": 435.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "One more important thing: giving blood is voluntary, and nobody is paid for it.",
+    "t": 438.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's right. It is a gift, from one person to another person they will never meet.",
+    "t": 443.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what if someone would like to help, but cannot give blood?",
+    "t": 448.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are other ways to help.",
+    "t": 451.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can become a \"blood donation ambassador\": you talk about it with your friends, family and colleagues, and you share the appeals when the reserves are low.",
+    "t": 453.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "You can also become a volunteer, for example to look after the donors during their break.",
+    "t": 463.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "And a company, a school or an association can organise a visit to the centre, or even host a blood collection.",
+    "t": 467.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "That fits well with the Biergerpakt.",
+    "t": 475.44
+   },
+   {
+    "speaker": "Tom",
+    "text": "Giving blood is a very concrete way of taking part in life in Luxembourg.",
+    "t": 477.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Let's bring it together.",
+    "t": 481.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "What should people remember?",
+    "t": 483.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "First: blood cannot be manufactured, and Luxembourg's hospitals need about a hundred bags every weekday.",
+    "t": 485.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Second: if you are healthy, at least 18 years old, and weigh more than 50 kilos, you can probably give.",
+    "t": 492.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Third: plan about one hour, and the donation itself takes only about ten minutes.",
+    "t": 499.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "And fourth: everything starts on dondusang dot l-u — the online test, the appointment, the places and the dates.",
+    "t": 504.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "One hour of your time can help to save a life.",
+    "t": 512.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "And it's a beautiful way to help.",
+    "t": 514.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "That was our episode about blood donation in Luxembourg.",
+    "t": 516.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 520.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 531.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 549.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 556.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 558.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 563.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care, and see you next time!",
+    "t": 564.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 566.48
+   }
+  ],
+  "questions": [
+   {
+    "text": "Which organisation collects blood in Luxembourg?",
+    "options": [
+     "The National Health Fund, the CNS",
+     "The Luxembourg Red Cross",
+     "Each hospital, for its own patients",
+     "The laboratory of the Ministry of Health"
+    ],
+    "correct": 1,
+    "explanation": "The Luxembourg Red Cross is the only organisation in Luxembourg that collects blood and prepares it for the hospitals. Its website for donors is dondusang.lu."
+   },
+   {
+    "text": "What is the basic rule for giving blood?",
+    "options": [
+     "Good health, at least 16 years old, more than 45 kilos",
+     "Good health, at least 21 years old, more than 60 kilos",
+     "Good health, at least 25 years old, more than 70 kilos",
+     "Good health, at least 18 years old, more than 50 kilos"
+    ],
+    "correct": 3,
+    "explanation": "Anyone in good health, aged at least 18 and weighing more than 50 kilos can in principle give blood. The first donation takes place before the age of 60. A short medical conversation on the day decides."
+   },
+   {
+    "text": "How long do you have to wait after a new tattoo or a piercing?",
+    "options": [
+     "Four months",
+     "Two days",
+     "Two weeks",
+     "Two years"
+    ],
+    "correct": 0,
+    "explanation": "After a tattoo or a piercing, you wait four months. The website dondusang.lu has a page with all the waiting times, for example after a trip, an illness or a treatment."
+   },
+   {
+    "text": "How long does the blood donation itself take?",
+    "options": [
+     "About one minute",
+     "About one hour",
+     "About ten minutes",
+     "About three hours"
+    ],
+    "correct": 2,
+    "explanation": "The donation itself takes about ten minutes. With the reception, the conversation and the rest with a snack afterwards, plan about one hour."
+   },
+   {
+    "text": "Why can plasma be given more often than blood?",
+    "options": [
+     "Because plasma is taken from the finger only",
+     "Because plasma donors are paid every time",
+     "Because plasma is not tested afterwards",
+     "Because the blood cells are given back to you"
+    ],
+    "correct": 3,
+    "explanation": "During a plasma donation, a machine separates the plasma and your blood cells are given back to you. That's why you can give plasma once a month, while blood can be given every three months by men and every four months by women."
+   }
+  ],
+  "categories": [
+   "health",
+   "civic"
+  ],
+  "title_fr": "Donner son sang au Luxembourg – dondusang.lu",
+  "description_fr": "Le sang ne se fabrique pas : les hôpitaux dépendent des donneurs. Découvrez comment fonctionne le don de sang au Luxembourg avec le site de la Croix-Rouge dondusang.lu : qui peut donner, le don étape par étape, le plasma, où et quand donner, et comment aider sans donner.",
+  "topics_fr": [
+   "Pourquoi les hôpitaux ont besoin de sang",
+   "La Croix-Rouge luxembourgeoise",
+   "Qui peut donner son sang",
+   "Les délais après un tatouage ou un voyage",
+   "Le don, étape par étape",
+   "Le don de plasma",
+   "Où et quand donner",
+   "D'autres façons d'aider"
+  ],
+  "questions_fr": [
+   {
+    "text": "Quelle organisation collecte le sang au Luxembourg ?",
+    "options": [
+     "La Caisse nationale de santé, la CNS",
+     "La Croix-Rouge luxembourgeoise",
+     "Chaque hôpital, pour ses propres patients",
+     "Le laboratoire du ministère de la Santé"
+    ],
+    "correct": 1,
+    "explanation": "La Croix-Rouge luxembourgeoise est la seule organisation au Luxembourg qui collecte le sang et le prépare pour les hôpitaux. Son site pour les donneurs est dondusang.lu."
+   },
+   {
+    "text": "Quelle est la règle de base pour donner son sang ?",
+    "options": [
+     "Être en bonne santé, avoir au moins 16 ans, peser plus de 45 kilos",
+     "Être en bonne santé, avoir au moins 21 ans, peser plus de 60 kilos",
+     "Être en bonne santé, avoir au moins 25 ans, peser plus de 70 kilos",
+     "Être en bonne santé, avoir au moins 18 ans, peser plus de 50 kilos"
+    ],
+    "correct": 3,
+    "explanation": "Toute personne en bonne santé, âgée d'au moins 18 ans et pesant plus de 50 kilos peut en principe donner son sang. Le premier don se fait avant 60 ans. Un court entretien médical le jour même décide."
+   },
+   {
+    "text": "Combien de temps faut-il attendre après un nouveau tatouage ou un piercing ?",
+    "options": [
+     "Quatre mois",
+     "Deux jours",
+     "Deux semaines",
+     "Deux ans"
+    ],
+    "correct": 0,
+    "explanation": "Après un tatouage ou un piercing, on attend quatre mois. Le site dondusang.lu a une page avec tous les délais, par exemple après un voyage, une maladie ou un traitement."
+   },
+   {
+    "text": "Combien de temps dure le don de sang lui-même ?",
+    "options": [
+     "Environ une minute",
+     "Environ une heure",
+     "Environ dix minutes",
+     "Environ trois heures"
+    ],
+    "correct": 2,
+    "explanation": "Le don lui-même dure environ dix minutes. Avec l'accueil, l'entretien et le repos avec une collation après le don, comptez environ une heure."
+   },
+   {
+    "text": "Pourquoi peut-on donner du plasma plus souvent que du sang ?",
+    "options": [
+     "Parce que le plasma est prélevé seulement au doigt",
+     "Parce que les donneurs de plasma sont payés à chaque fois",
+     "Parce que le plasma n'est pas analysé ensuite",
+     "Parce que les cellules sanguines vous sont rendues"
+    ],
+    "correct": 3,
+    "explanation": "Pendant un don de plasma, une machine sépare le plasma et vos cellules sanguines vous sont rendues. C'est pour cela qu'on peut donner du plasma une fois par mois, alors que le sang se donne tous les trois mois pour les hommes et tous les quatre mois pour les femmes."
+   }
+  ],
+  "title_de": "Blut spenden in Luxemburg – dondusang.lu",
+  "description_de": "Blut kann man nicht künstlich herstellen: Die Krankenhäuser sind auf Spender angewiesen. Entdecken Sie, wie die Blutspende in Luxemburg funktioniert, mit der Website des Roten Kreuzes dondusang.lu: wer spenden kann, die Spende Schritt für Schritt, Plasma, wo und wann man spenden kann, und wie man hilft, ohne zu spenden.",
+  "topics_de": [
+   "Warum Krankenhäuser Blut brauchen",
+   "Das Luxemburger Rote Kreuz",
+   "Wer Blut spenden kann",
+   "Wartezeiten nach Tattoo oder Reise",
+   "Die Spende, Schritt für Schritt",
+   "Die Plasmaspende",
+   "Wo und wann man spenden kann",
+   "Andere Wege zu helfen"
+  ],
+  "questions_de": [
+   {
+    "text": "Welche Organisation sammelt in Luxemburg Blut?",
+    "options": [
+     "Die nationale Gesundheitskasse, die CNS",
+     "Das Luxemburger Rote Kreuz",
+     "Jedes Krankenhaus, für seine eigenen Patienten",
+     "Das Labor des Gesundheitsministeriums"
+    ],
+    "correct": 1,
+    "explanation": "Das Luxemburger Rote Kreuz ist die einzige Organisation in Luxemburg, die Blut sammelt und für die Krankenhäuser aufbereitet. Seine Website für Spender ist dondusang.lu."
+   },
+   {
+    "text": "Was ist die Grundregel für die Blutspende?",
+    "options": [
+     "Gesund sein, mindestens 16 Jahre alt, mehr als 45 Kilo",
+     "Gesund sein, mindestens 21 Jahre alt, mehr als 60 Kilo",
+     "Gesund sein, mindestens 25 Jahre alt, mehr als 70 Kilo",
+     "Gesund sein, mindestens 18 Jahre alt, mehr als 50 Kilo"
+    ],
+    "correct": 3,
+    "explanation": "Wer gesund ist, mindestens 18 Jahre alt ist und mehr als 50 Kilo wiegt, kann in der Regel Blut spenden. Die erste Spende erfolgt vor dem 60. Lebensjahr. Ein kurzes medizinisches Gespräch am Tag selbst entscheidet."
+   },
+   {
+    "text": "Wie lange muss man nach einem neuen Tattoo oder einem Piercing warten?",
+    "options": [
+     "Vier Monate",
+     "Zwei Tage",
+     "Zwei Wochen",
+     "Zwei Jahre"
+    ],
+    "correct": 0,
+    "explanation": "Nach einem Tattoo oder einem Piercing wartet man vier Monate. Die Website dondusang.lu hat eine Seite mit allen Wartezeiten, zum Beispiel nach einer Reise, einer Krankheit oder einer Behandlung."
+   },
+   {
+    "text": "Wie lange dauert die Blutspende selbst?",
+    "options": [
+     "Etwa eine Minute",
+     "Etwa eine Stunde",
+     "Etwa zehn Minuten",
+     "Etwa drei Stunden"
+    ],
+    "correct": 2,
+    "explanation": "Die Spende selbst dauert etwa zehn Minuten. Mit dem Empfang, dem Gespräch und der Ruhepause mit einem Imbiss danach sollte man etwa eine Stunde einplanen."
+   },
+   {
+    "text": "Warum kann man Plasma öfter spenden als Blut?",
+    "options": [
+     "Weil Plasma nur am Finger abgenommen wird",
+     "Weil Plasmaspender jedes Mal bezahlt werden",
+     "Weil Plasma danach nicht untersucht wird",
+     "Weil man die Blutzellen zurückbekommt"
+    ],
+    "correct": 3,
+    "explanation": "Bei einer Plasmaspende trennt eine Maschine das Plasma ab, und Ihre Blutzellen bekommen Sie zurück. Deshalb kann man einmal im Monat Plasma spenden, während Männer alle drei Monate und Frauen alle vier Monate Blut spenden können."
+   }
+  ],
+  "audio_fr": "podcast_dondusang_fr.mp3",
+  "duration_fr": 532.09,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à tous !",
+    "t": 4.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 6.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "J'ai une question pour commencer, Anna.",
+    "t": 23.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Est-ce que vous connaissez votre groupe sanguin ?",
+    "t": 25.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, je le connais.",
+    "t": 27.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est écrit sur ma carte de donneur de sang, que j'ai reçue la deuxième fois que j'ai donné mon sang.",
+    "t": 28.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors vous êtes la bonne personne pour le sujet d'aujourd'hui : le don de sang au Luxembourg, et le site dondusang point l-u.",
+    "t": 33.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "« Don du sang », tout simplement, écrit en un seul mot.",
+    "t": 40.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le site existe en français, en allemand et en anglais.",
+    "t": 42.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et qui se trouve derrière ce site ?",
+    "t": 45.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "La Croix-Rouge luxembourgeoise.",
+    "t": 47.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est la seule organisation au Luxembourg qui collecte le sang et qui le prépare pour les hôpitaux.",
+    "t": 49.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Depuis juillet 2026, cette activité est portée par une fondation de la Croix-Rouge consacrée à la transfusion sanguine.",
+    "t": 54.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Est-ce que cela change quelque chose pour les donneurs ?",
+    "t": 60.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Non, rien ne change pour eux : les mêmes lieux, les mêmes équipes et le même site internet.",
+    "t": 63.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Commençons par la grande question.",
+    "t": 67.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pourquoi est-ce si important de donner son sang ?",
+    "t": 69.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parce que le sang ne peut pas être fabriqué en usine.",
+    "t": 72.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Des chercheurs y travaillent, mais aujourd'hui, la seule source est un autre être humain.",
+    "t": 74.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quand les hôpitaux ont-ils besoin de sang ?",
+    "t": 78.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Après un accident grave, pendant une opération, ou quand une mère perd beaucoup de sang pendant un accouchement.",
+    "t": 80.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et aussi pour les personnes dont le corps ne produit pas assez de sang, par exemple pendant un traitement contre le cancer.",
+    "t": 85.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "De combien de sang le Luxembourg a-t-il besoin ?",
+    "t": 91.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le site donne un chiffre simple : il faut collecter environ cent poches de sang chaque jour de semaine, pour couvrir les besoins des hôpitaux.",
+    "t": 94.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et est-ce qu'il y a assez de sang au Luxembourg ?",
+    "t": 101.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "La Croix-Rouge répond « oui et non ».",
+    "t": 104.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, parce que jusqu'ici, les hôpitaux ont toujours reçu ce dont ils avaient besoin.",
+    "t": 106.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Non, parce que les réserves sont souvent proches de leur limite basse.",
+    "t": 109.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et le sang ne se conserve pas éternellement, n'est-ce pas ?",
+    "t": 112.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Non, et c'est bien le problème.",
+    "t": 115.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un don est séparé en plusieurs composants.",
+    "t": 117.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les globules rouges se conservent environ six semaines.",
+    "t": 119.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les plaquettes, qui aident à arrêter les saignements, se conservent seulement une semaine environ.",
+    "t": 122.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donc les hôpitaux ont besoin de nouveaux dons en permanence, et pas seulement après un appel dans les médias.",
+    "t": 127.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactement, et c'est pour cela que les donneurs réguliers sont si précieux.",
+    "t": 133.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors, qui peut donner son sang ?",
+    "t": 137.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "La règle de base est simple : vous êtes en bonne santé, vous avez au moins 18 ans et vous pesez plus de 50 kilos.",
+    "t": 139.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Est-ce qu'il y a une limite d'âge vers le haut ?",
+    "t": 146.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, il y en a une.",
+    "t": 148.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le premier don doit se faire avant 60 ans, et le dernier à 65 ans.",
+    "t": 149.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un médecin du centre de transfusion peut parfois accorder une dérogation.",
+    "t": 153.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "J'ai entendu dire qu'il faut parfois attendre avant de pouvoir donner.",
+    "t": 157.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Est-ce que c'est vrai ?",
+    "t": 160.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, c'est vrai.",
+    "t": 161.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dans certaines situations, il faut attendre un peu.",
+    "t": 162.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Après un nouveau tatouage ou un piercing, par exemple, c'est quatre mois.",
+    "t": 165.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et après un voyage à l'étranger ?",
+    "t": 168.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela dépend de la destination.",
+    "t": 170.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Après un voyage dans une région tropicale, on attend six mois.",
+    "t": 172.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pour certaines autres destinations, c'est environ un mois.",
+    "t": 175.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et si j'ai simplement eu un rhume ?",
+    "t": 178.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alors on attend deux semaines après la guérison.",
+    "t": 180.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et après des antibiotiques, on attend un mois après la fin du traitement.",
+    "t": 183.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela fait beaucoup de choses à retenir.",
+    "t": 186.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous n'avez pas besoin de tout retenir.",
+    "t": 189.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le site a une page avec tous ces délais, et aussi un petit test en ligne.",
+    "t": 191.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "En quelques minutes, vous voyez si vous pouvez probablement donner.",
+    "t": 194.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pourquoi dites-vous « probablement » ?",
+    "t": 197.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Parce que le test donne seulement une première indication.",
+    "t": 199.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "La vraie décision est prise le jour même, pendant un court entretien avec un professionnel de santé.",
+    "t": 202.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parcourons un don étape par étape.",
+    "t": 207.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quelle est la première étape ?",
+    "t": 210.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous prenez rendez-vous sur dondusang point l-u.",
+    "t": 212.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous choisissez le lieu et la date.",
+    "t": 214.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "La réservation passe par Doctena, la plateforme que beaucoup de gens utilisent déjà pour leurs rendez-vous chez le médecin.",
+    "t": 216.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Est-ce que le rendez-vous est obligatoire ?",
+    "t": 222.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Non, il ne l'est pas.",
+    "t": 224.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le rendez-vous est conseillé, parce que vous attendez moins, mais vous pouvez aussi venir sans rendez-vous.",
+    "t": 226.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et qu'est-ce que je fais avant de venir ?",
+    "t": 230.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous remplissez un questionnaire médical, la veille ou le jour même.",
+    "t": 232.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il pose des questions sur votre santé, les opérations, les voyages et les situations à risque.",
+    "t": 236.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce sont des questions assez personnelles.",
+    "t": 241.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, et elles protègent deux personnes : vous, et le patient qui recevra votre sang.",
+    "t": 243.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est donc important de répondre honnêtement.",
+    "t": 247.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et l'entretien qui suit est confidentiel.",
+    "t": 249.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Est-ce que je dois venir à jeun, comme pour une prise de sang au laboratoire ?",
+    "t": 252.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Non, surtout pas !",
+    "t": 256.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mangez normalement et buvez assez d'eau.",
+    "t": 257.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et évitez le sport intense juste avant et juste après le don.",
+    "t": 259.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et qu'est-ce que je dois apporter avec moi ?",
+    "t": 263.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Une pièce d'identité.",
+    "t": 265.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est tout ce qu'il vous faut la première fois.",
+    "t": 266.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et puis vient l'aiguille.",
+    "t": 268.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Soyez honnête avec moi : est-ce que ça fait mal ?",
+    "t": 270.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "On sent une petite piqûre au début, comme pour une prise de sang normale.",
+    "t": 273.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ensuite, on s'allonge simplement et on se détend.",
+    "t": 276.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Combien de temps dure le tout ?",
+    "t": 279.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le don lui-même dure environ dix minutes.",
+    "t": 281.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Avec l'accueil, l'entretien et le repos après le don, comptez environ une heure.",
+    "t": 283.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quelle quantité de sang est prélevée ?",
+    "t": 287.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Un peu moins d'un demi-litre.",
+    "t": 289.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pour un adulte en bonne santé, c'est sans danger.",
+    "t": 291.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le corps remplace le liquide très vite, et les cellules du sang en quelques semaines.",
+    "t": 293.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Est-ce que je peux attraper une maladie en donnant mon sang ?",
+    "t": 297.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Non, ce n'est pas possible.",
+    "t": 300.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'aiguille et la poche sont stériles, et elles sont utilisées une seule fois.",
+    "t": 302.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et après, il y a quelque chose à manger, j'espère.",
+    "t": 306.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bien sûr. Vous restez un petit moment dans l'espace de repos, avec une boisson et une collation gratuites, et l'équipe vérifie que vous vous sentez bien.",
+    "t": 308.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que devient mon sang ensuite ?",
+    "t": 315.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est analysé, entre autres pour des infections comme les hépatites et le VIH.",
+    "t": 317.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si quelque chose d'inhabituel est trouvé, on vous contacte.",
+    "t": 322.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous n'avez pas de nouvelles, tout va bien.",
+    "t": 325.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quand est-ce que je reçois la carte de donneur dont vous parliez ?",
+    "t": 327.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous la recevez lors de votre deuxième visite, et elle indique votre groupe sanguin.",
+    "t": 330.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Combien de fois par an peut-on donner son sang ?",
+    "t": 334.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les hommes peuvent donner tous les trois mois, et les femmes tous les quatre mois.",
+    "t": 337.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sur le site, j'ai aussi vu le mot « plasma ».",
+    "t": 341.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Qu'est-ce que c'est exactement ?",
+    "t": 344.22
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le plasma est la partie liquide du sang.",
+    "t": 345.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est jaune, et il représente environ la moitié de notre sang.",
+    "t": 348.06
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et est-ce qu'on peut donner seulement du plasma ?",
+    "t": 351.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, c'est possible.",
+    "t": 353.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Une machine sépare le plasma, et vos cellules sanguines vous sont rendues.",
+    "t": 355.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est pour cela qu'on peut donner du plasma plus souvent : une fois par mois.",
+    "t": 358.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "À quoi sert le plasma ?",
+    "t": 362.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Surtout à fabriquer des médicaments pour des personnes atteintes de maladies rares ou dont le système immunitaire est faible.",
+    "t": 363.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il aide aussi les grands brûlés.",
+    "t": 369.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "Est-ce qu'un don de plasma dure plus longtemps ?",
+    "t": 371.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, comptez jusqu'à deux heures, surtout la première fois.",
+    "t": 373.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et il est seulement possible au centre de Luxembourg-ville.",
+    "t": 376.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est le bon moment pour demander : où peut-on donner son sang ?",
+    "t": 379.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a trois possibilités.",
+    "t": 383.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "La première, c'est le Centre de Transfusion sanguine à Luxembourg-ville, boulevard Joseph II.",
+    "t": 384.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert du lundi au vendredi.",
+    "t": 389.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et dans le sud du pays ?",
+    "t": 391.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "À Esch-Belval, on peut donner son sang le lundi et le mardi.",
+    "t": 393.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et du mercredi au vendredi, une équipe mobile se déplace dans le pays, par exemple à Ettelbruck, Wiltz, Echternach ou Grevenmacher.",
+    "t": 396.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et toutes les dates sont sur le site, j'imagine.",
+    "t": 403.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, dans un calendrier.",
+    "t": 406.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et sur la page d'accueil, il y a un « baromètre des groupes sanguins ».",
+    "t": 407.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il montre quels groupes sanguins sont les plus demandés en ce moment.",
+    "t": 411
+   },
+   {
+    "speaker": "Tom",
+    "text": "Encore une chose importante : le don de sang est volontaire, et personne n'est payé pour cela.",
+    "t": 414.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est vrai. C'est un cadeau, d'une personne à une autre personne qu'elle ne rencontrera jamais.",
+    "t": 419.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et si quelqu'un veut aider, mais ne peut pas donner son sang ?",
+    "t": 425.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a d'autres façons d'aider.",
+    "t": 428.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez devenir « ambassadeur du don de sang » : vous en parlez à vos amis, à votre famille et à vos collègues, et vous partagez les appels quand les réserves sont basses.",
+    "t": 429.74
+   },
+   {
+    "speaker": "Tom",
+    "text": "On peut aussi devenir bénévole, par exemple pour s'occuper des donneurs pendant leur pause.",
+    "t": 438.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et une entreprise, une école ou une association peut organiser une visite au centre, ou même accueillir une collecte de sang.",
+    "t": 443.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela va bien avec le Biergerpakt.",
+    "t": 449.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Donner son sang, c'est une façon très concrète de participer à la vie au Luxembourg.",
+    "t": 451.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Résumons. Qu'est-ce qu'il faut retenir ?",
+    "t": 455.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Premièrement : le sang ne peut pas être fabriqué, et les hôpitaux du Luxembourg ont besoin d'environ cent poches chaque jour de semaine.",
+    "t": 457.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deuxièmement : si vous êtes en bonne santé, si vous avez au moins 18 ans et si vous pesez plus de 50 kilos, vous pouvez probablement donner.",
+    "t": 465.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Troisièmement : comptez environ une heure, et le don lui-même dure seulement dix minutes environ.",
+    "t": 472.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et quatrièmement : tout commence sur dondusang point l-u — le test en ligne, le rendez-vous, les lieux et les dates.",
+    "t": 477.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Une heure de votre temps peut aider à sauver une vie.",
+    "t": 484.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et c'est une belle façon d'aider.",
+    "t": 487.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'était notre épisode sur le don de sang au Luxembourg.",
+    "t": 488.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 491.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 499.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 515.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 520.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 522.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 526.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous, et à la prochaine !",
+    "t": 528.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 530.33
+   }
+  ],
+  "audio_de": "podcast_dondusang_de.mp3",
+  "duration_de": 606.09,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 5.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich habe eine Frage zum Anfang, Anna.",
+    "t": 27.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kennen Sie Ihre Blutgruppe?",
+    "t": 29.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, die kenne ich.",
+    "t": 31.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie steht auf meinem Blutspendeausweis, den ich bei meiner zweiten Blutspende bekommen habe.",
+    "t": 33.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dann sind Sie die Richtige für das Thema von heute: die Blutspende in Luxemburg, und die Website dondusang Punkt l-u.",
+    "t": 37.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "„Don du sang\" ist Französisch und bedeutet ganz einfach „Blutspende\".",
+    "t": 45.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Website gibt es auf Französisch, Deutsch und Englisch.",
+    "t": 50.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wer steht hinter dieser Website?",
+    "t": 53.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Luxemburger Rote Kreuz.",
+    "t": 56.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist die einzige Organisation in Luxemburg, die Blut sammelt und für die Krankenhäuser aufbereitet.",
+    "t": 58.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Seit Juli 2026 wird diese Arbeit von einer Stiftung des Roten Kreuzes getragen, die sich ganz der Bluttransfusion widmet.",
+    "t": 63.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ändert sich dadurch etwas für die Spender?",
+    "t": 71.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nein, für sie ändert sich nichts: dieselben Orte, dieselben Teams und dieselbe Website.",
+    "t": 74.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Beginnen wir mit der großen Frage.",
+    "t": 80.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Warum ist Blutspenden so wichtig?",
+    "t": 82.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Weil man Blut nicht in einer Fabrik herstellen kann.",
+    "t": 84.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Forscher arbeiten daran, aber heute ist die einzige Quelle ein anderer Mensch.",
+    "t": 87.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wann brauchen die Krankenhäuser Blut?",
+    "t": 92.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nach einem schweren Unfall, während einer Operation, oder wenn eine Mutter bei der Geburt viel Blut verliert.",
+    "t": 94.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und auch für Menschen, deren Körper nicht genug Blut bilden kann, zum Beispiel während einer Krebsbehandlung.",
+    "t": 100.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie viel Blut braucht Luxemburg?",
+    "t": 106.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Website nennt eine einfache Zahl: An jedem Wochentag müssen etwa hundert Blutbeutel gesammelt werden, um den Bedarf der Krankenhäuser zu decken.",
+    "t": 108.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und gibt es genug Blut in Luxemburg?",
+    "t": 117.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das Rote Kreuz antwortet: „Ja und nein\".",
+    "t": 119.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, weil die Krankenhäuser bisher immer bekommen haben, was sie brauchten.",
+    "t": 122.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nein, weil die Reserven oft nahe an ihrer unteren Grenze liegen.",
+    "t": 126.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und Blut ist nicht ewig haltbar, oder?",
+    "t": 130.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nein, und genau das ist der Punkt.",
+    "t": 133.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eine Spende wird in ihre Bestandteile getrennt.",
+    "t": 135.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Rote Blutkörperchen sind etwa sechs Wochen haltbar.",
+    "t": 138.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Blutplättchen, die helfen, Blutungen zu stoppen, sind nur etwa eine Woche haltbar.",
+    "t": 141.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Krankenhäuser brauchen also ständig neue Spenden, und nicht nur nach einem Aufruf in den Medien.",
+    "t": 146.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau, und deshalb sind regelmäßige Spender so wertvoll.",
+    "t": 151.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wer kann denn nun Blut spenden?",
+    "t": 155.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Grundregel ist einfach: Sie sind gesund, Sie sind mindestens 18 Jahre alt, und Sie wiegen mehr als 50 Kilo.",
+    "t": 157.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gibt es auch eine Altersgrenze nach oben?",
+    "t": 164.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, die gibt es.",
+    "t": 166.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die erste Spende muss vor dem Alter von 60 Jahren erfolgen, und die letzte mit 65 Jahren.",
+    "t": 168.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein Arzt des Blutspendezentrums kann manchmal eine Ausnahme erlauben.",
+    "t": 174.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich habe gehört, dass man manchmal warten muss, bevor man spenden darf.",
+    "t": 178.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stimmt das?",
+    "t": 182.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, das stimmt.",
+    "t": 183.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "In manchen Situationen muss man eine Weile warten.",
+    "t": 184.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nach einem neuen Tattoo oder einem Piercing zum Beispiel sind es vier Monate.",
+    "t": 187.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wie ist es nach einer Reise ins Ausland?",
+    "t": 192.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das hängt vom Reiseziel ab.",
+    "t": 194.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nach einer Reise in eine tropische Region wartet man sechs Monate.",
+    "t": 196.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bei einigen anderen Reisezielen ist es etwa ein Monat.",
+    "t": 200.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wenn ich einfach nur erkältet war?",
+    "t": 204.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dann wartet man zwei Wochen, nachdem man wieder gesund ist.",
+    "t": 206.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und nach Antibiotika wartet man einen Monat nach dem Ende der Behandlung.",
+    "t": 209.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist viel, was man sich merken muss.",
+    "t": 213.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen sich das nicht merken.",
+    "t": 215.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Website hat eine Seite mit all diesen Wartezeiten, und auch einen kurzen Online-Test.",
+    "t": 217.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "In wenigen Minuten sehen Sie, ob Sie wahrscheinlich spenden können.",
+    "t": 222.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Warum sagen Sie „wahrscheinlich\"?",
+    "t": 226.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Weil der Test nur ein erster Hinweis ist.",
+    "t": 228.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die eigentliche Entscheidung fällt am Tag selbst, in einem kurzen Gespräch mit einer medizinischen Fachkraft.",
+    "t": 230.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gehen wir eine Spende Schritt für Schritt durch.",
+    "t": 236.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was ist der erste Schritt?",
+    "t": 239.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie machen einen Termin auf dondusang Punkt l-u.",
+    "t": 241.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie wählen den Ort und das Datum.",
+    "t": 244.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Buchung läuft über Doctena, die Plattform, die viele Menschen schon für ihre Arzttermine nutzen.",
+    "t": 246.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ist ein Termin Pflicht?",
+    "t": 252.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nein, das ist er nicht.",
+    "t": 254.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ein Termin wird empfohlen, weil Sie dann weniger warten, aber Sie können auch ohne Termin kommen.",
+    "t": 255.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und was mache ich, bevor ich hingehe?",
+    "t": 260.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie füllen einen medizinischen Fragebogen aus, am Tag davor oder am Tag selbst.",
+    "t": 262.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Er fragt nach Ihrer Gesundheit, nach Operationen, Reisen und Risikosituationen.",
+    "t": 268.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das sind ziemlich persönliche Fragen.",
+    "t": 273.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, und sie schützen zwei Menschen: Sie selbst, und den Patienten, der Ihr Blut bekommt.",
+    "t": 276
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deshalb ist es wichtig, ehrlich zu antworten.",
+    "t": 281.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und das Gespräch danach ist vertraulich.",
+    "t": 284.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Soll ich nüchtern kommen, wie bei einer Blutabnahme im Labor?",
+    "t": 286.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nein, bitte nicht!",
+    "t": 290.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Essen Sie normal und trinken Sie genug Wasser.",
+    "t": 291.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und vermeiden Sie intensiven Sport direkt vor und direkt nach der Spende.",
+    "t": 294.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und was muss ich mitbringen?",
+    "t": 298.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Einen Ausweis. Das ist alles, was Sie beim ersten Mal brauchen.",
+    "t": 300.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und dann kommt die Nadel.",
+    "t": 304.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Seien Sie ehrlich zu mir: Tut es weh?",
+    "t": 306.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Man spürt am Anfang einen kleinen Stich, wie bei einer normalen Blutabnahme.",
+    "t": 308.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Danach liegt man einfach da und entspannt sich.",
+    "t": 312.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie lange dauert das Ganze?",
+    "t": 316.06
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Spende selbst dauert etwa zehn Minuten.",
+    "t": 317.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mit dem Empfang, dem Gespräch und der Ruhepause danach sollten Sie etwa eine Stunde einplanen.",
+    "t": 320.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wie viel Blut wird abgenommen?",
+    "t": 325.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Etwas weniger als ein halber Liter.",
+    "t": 328.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Für einen gesunden Erwachsenen ist das ungefährlich.",
+    "t": 330.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der Körper ersetzt die Flüssigkeit sehr schnell, und die Blutzellen innerhalb weniger Wochen.",
+    "t": 333.14
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kann ich mich beim Blutspenden mit einer Krankheit anstecken?",
+    "t": 338.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nein, das ist nicht möglich.",
+    "t": 341.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Nadel und der Beutel sind steril, und sie werden nur ein einziges Mal benutzt.",
+    "t": 343.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und danach gibt es etwas zu essen, hoffe ich.",
+    "t": 348.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Natürlich. Sie bleiben noch eine kleine Weile im Ruhebereich, mit einem kostenlosen Getränk und einem Imbiss, und das Team schaut, ob es Ihnen gut geht.",
+    "t": 350.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was passiert danach mit meinem Blut?",
+    "t": 360.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es wird untersucht, unter anderem auf Infektionen wie Hepatitis und HIV.",
+    "t": 362.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn etwas Ungewöhnliches gefunden wird, meldet man sich bei Ihnen.",
+    "t": 367.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie nichts hören, ist alles in Ordnung.",
+    "t": 370.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wann bekomme ich den Spenderausweis, von dem Sie gesprochen haben?",
+    "t": 373.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie bekommen ihn bei Ihrem zweiten Besuch, und darauf steht Ihre Blutgruppe.",
+    "t": 376.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie oft kann ein Mensch Blut spenden?",
+    "t": 381.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Männer können alle drei Monate spenden, und Frauen alle vier Monate.",
+    "t": 383.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Auf der Website habe ich auch das Wort „Plasma\" gesehen.",
+    "t": 387.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was ist das genau?",
+    "t": 390.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Plasma ist der flüssige Teil des Blutes.",
+    "t": 392.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist gelb, und es macht etwa die Hälfte unseres Blutes aus.",
+    "t": 394.85
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und kann man auch nur Plasma spenden?",
+    "t": 398.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, das geht.",
+    "t": 401.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eine Maschine trennt das Plasma ab, und Ihre Blutzellen bekommen Sie zurück.",
+    "t": 402.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Deshalb kann man Plasma öfter spenden: einmal im Monat.",
+    "t": 406.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wofür wird Plasma gebraucht?",
+    "t": 410.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vor allem, um Medikamente herzustellen, für Menschen mit seltenen Krankheiten oder mit einem schwachen Immunsystem.",
+    "t": 412.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es hilft auch Menschen mit schweren Verbrennungen.",
+    "t": 418.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dauert eine Plasmaspende länger?",
+    "t": 421.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, planen Sie bis zu zwei Stunden ein, vor allem beim ersten Mal.",
+    "t": 424.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und sie ist nur im Zentrum in Luxemburg-Stadt möglich.",
+    "t": 428.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das ist ein guter Moment für die Frage: Wo kann man Blut spenden?",
+    "t": 432.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt drei Möglichkeiten.",
+    "t": 436.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die erste ist das Blutspendezentrum in Luxemburg-Stadt, am Boulevard Joseph II.",
+    "t": 437.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist von Montag bis Freitag geöffnet.",
+    "t": 442.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wie sieht es im Süden des Landes aus?",
+    "t": 445.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "In Esch-Belval kann man montags und dienstags Blut spenden.",
+    "t": 448.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und von Mittwoch bis Freitag fährt ein mobiles Team durch das Land, zum Beispiel nach Ettelbrück, Wiltz, Echternach oder Grevenmacher.",
+    "t": 451.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und alle Termine stehen auf der Website, nehme ich an.",
+    "t": 459.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, in einem Kalender.",
+    "t": 462.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und auf der Startseite gibt es ein „Blutgruppenbarometer\".",
+    "t": 464.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es zeigt, welche Blutgruppen im Moment am meisten gebraucht werden.",
+    "t": 467.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Noch etwas Wichtiges: Blutspenden ist freiwillig, und niemand wird dafür bezahlt.",
+    "t": 471.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das stimmt. Es ist ein Geschenk, von einem Menschen an einen anderen Menschen, den er nie treffen wird.",
+    "t": 476.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wenn jemand helfen möchte, aber kein Blut spenden kann?",
+    "t": 482.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt andere Wege zu helfen.",
+    "t": 485.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können „Blutspende-Botschafter\" werden: Sie sprechen mit Ihren Freunden, Ihrer Familie und Ihren Kollegen darüber, und Sie teilen die Aufrufe, wenn die Reserven niedrig sind.",
+    "t": 487.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Man kann auch ehrenamtlich mitmachen, zum Beispiel, um die Spender während ihrer Pause zu betreuen.",
+    "t": 498.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und ein Unternehmen, eine Schule oder ein Verein kann einen Besuch im Zentrum organisieren, oder sogar selbst eine Blutspendeaktion ausrichten.",
+    "t": 503.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das passt gut zum Biergerpakt.",
+    "t": 511.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Blut spenden ist eine sehr konkrete Art, am Leben in Luxemburg teilzunehmen.",
+    "t": 513.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Fassen wir zusammen.",
+    "t": 518.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Was sollte man sich merken?",
+    "t": 519.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Erstens: Blut kann man nicht künstlich herstellen, und die Krankenhäuser in Luxemburg brauchen an jedem Wochentag etwa hundert Beutel.",
+    "t": 521.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweitens: Wenn Sie gesund sind, mindestens 18 Jahre alt sind und mehr als 50 Kilo wiegen, können Sie wahrscheinlich spenden.",
+    "t": 529.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drittens: Planen Sie etwa eine Stunde ein, und die Spende selbst dauert nur etwa zehn Minuten.",
+    "t": 537.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und viertens: Alles beginnt auf dondusang Punkt l-u — der Online-Test, der Termin, die Orte und die Daten.",
+    "t": 543.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eine Stunde Ihrer Zeit kann helfen, ein Leben zu retten.",
+    "t": 551.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und es ist eine schöne Art zu helfen.",
+    "t": 554.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das war unsere Folge über die Blutspende in Luxemburg.",
+    "t": 556.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 560.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 569.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 587.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 593.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 595.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 600.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
+    "t": 601.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 604.55
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien alleguer!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ech hunn eng Fro fir unzefänken, Anna. Kennt Dir Är Bluttgrupp?",
+    "t": 27.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, déi kennen ech. Si steet op menger Bluttspenderkaart, déi ech bei menger zweeter Bluttspend kritt hunn.",
+    "t": 31.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Da sidd Dir déi Richteg fir d'Thema vun haut: d'Bluttspend zu Lëtzebuerg, an de Site dondusang Punkt l-u.",
+    "t": 36.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "„Don du sang\" ass Franséisch a heescht ganz einfach „Bluttspend\". De Site gëtt et op Franséisch, Däitsch an Englesch.",
+    "t": 43.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wie steet hannert dësem Site?",
+    "t": 51.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Lëtzebuerger Rout Kräiz. Et ass déi eenzeg Organisatioun zu Lëtzebuerg, déi Blutt sammelt an et fir d'Spideeler preparéiert. Zënter Juli 2026 gëtt dës Aarbecht vun enger Fondatioun vum Roude Kräiz gedroen, déi sech ganz ëm d'Blutttransfusioun këmmert.",
+    "t": 53.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ännert dat eppes fir d'Spender?",
+    "t": 67.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nee, fir si ännert sech näischt: déi selwecht Plazen, déi selwecht Equippen an dee selwechte Site.",
+    "t": 69.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fänke mer mat der grousser Fro un. Firwat ass Blutt spenden esou wichteg?",
+    "t": 75.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Well een Blutt net an enger Fabréck hierstelle kann. Fuerscher schaffen drun, mee haut ass déi eenzeg Quell en anere Mënsch.",
+    "t": 79.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wéini brauchen d'Spideeler Blutt?",
+    "t": 87.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "No engem schwéieren Accident, während enger Operatioun, oder wann eng Mamm bei der Gebuert vill Blutt verléiert. An och fir Leit, deenen hire Kierper net genuch Blutt produzéiere kann, zum Beispill während enger Kriibsbehandlung.",
+    "t": 89.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wéi vill Blutt brauch Lëtzebuerg?",
+    "t": 101.03
+   },
+   {
+    "speaker": "Anna",
+    "text": "De Site nennt eng einfach Zuel: All Wochendag mussen ongeféier honnert Bluttbeidele gesammelt ginn, fir de Bedarf vun de Spideeler ze decken.",
+    "t": 103
+   },
+   {
+    "speaker": "Tom",
+    "text": "A gëtt et genuch Blutt zu Lëtzebuerg?",
+    "t": 112.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Rout Kräiz äntwert: „Jo an nee\". Jo, well d'Spideeler bis elo ëmmer kritt hunn, wat se gebraucht hunn. Nee, well d'Reserven dacks no bei hirer ënneschter Limitt leien.",
+    "t": 114.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "A Blutt hält net éiweg, oder?",
+    "t": 124.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nee, a genee dat ass de Punkt. Eng Spend gëtt an hir Bestanddeeler getrennt. Rout Bluttkierpercher halen ongeféier sechs Wochen. Bluttplättercher, déi hëllefen, Bluddungen ze stoppen, halen nëmmen ongeféier eng Woch.",
+    "t": 126.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Spideeler brauchen also déi ganzen Zäit nei Spenden, an net nëmmen no engem Opruff an de Medien.",
+    "t": 138.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genee, an dofir si reegelméisseg Spender esou wäertvoll.",
+    "t": 144.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie kann dann elo Blutt spenden?",
+    "t": 147.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Grondreegel ass einfach: Dir sidd gesond, Dir hutt op d'mannst 18 Joer, an Dir weit méi wéi 50 Kilo.",
+    "t": 149.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gëtt et och eng Altersgrenz no uewen?",
+    "t": 157.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, déi gëtt et. Déi éischt Spend muss virum Alter vu 60 Joer gemaach ginn, an déi lescht mat 65 Joer. En Dokter vum Bluttspendenzentrum kann heiansdo eng Ausnam erlaben.",
+    "t": 158.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ech hunn héieren, datt een heiansdo waarde muss, ier ee spenden däerf. Stëmmt dat?",
+    "t": 169.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, dat stëmmt. A verschiddene Situatioune muss een eng Zäit waarden. No engem neien Tattoo oder engem Piercing zum Beispill si et véier Méint.",
+    "t": 173.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wéi ass et no enger Rees an d'Ausland?",
+    "t": 182.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat hänkt vun der Destinatioun of. No enger Rees an eng tropesch Regioun waart ee sechs Méint. Bei e puer aneren Destinatiounen ass et ongeféier ee Mount.",
+    "t": 184.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wann ech einfach nëmmen erkaalt war?",
+    "t": 193.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Da waart een zwou Wochen, nodeems een erëm gesond ass. An no Antibiotike waart een ee Mount nom Enn vun der Behandlung.",
+    "t": 195.05
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass vill, wat ee sech mierke muss.",
+    "t": 201.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dir musst Iech dat net mierken. De Site huet eng Säit mat all dëse Waardezäiten, an och e kuerzen Online-Test. An e puer Minutte gesitt Dir, ob Dir wahrscheinlech spende kënnt.",
+    "t": 203.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Firwat sot Dir „wahrscheinlech\"?",
+    "t": 213.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Well den Test nëmmen eng éischt Indikatioun ass. Déi richteg Decisioun fält um Dag selwer, an engem kuerze Gespréich mat engem Gesondheetsprofessionellen.",
+    "t": 215.28
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gi mer eng Spend Schrëtt fir Schrëtt duerch. Wat ass den éischte Schrëtt?",
+    "t": 223.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dir maacht e Rendez-vous op dondusang Punkt l-u. Dir wielt d'Plaz an den Datum. D'Reservatioun leeft iwwer Doctena, d'Plattform, déi vill Leit scho fir hir Rendez-vousen beim Dokter benotzen.",
+    "t": 227.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ass e Rendez-vous obligatoresch?",
+    "t": 238.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nee, dat ass en net. E Rendez-vous gëtt recommandéiert, well Dir da manner waart, mee Dir kënnt och ouni Rendez-vous kommen.",
+    "t": 240.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wat maachen ech, ier ech higinn?",
+    "t": 246.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dir fëllt e medezinesche Froebou aus, den Dag virdrun oder um Dag selwer. E freet no Ärer Gesondheet, no Operatiounen, Reesen a Risikosituatiounen.",
+    "t": 248.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat si zimlech perséinlech Froen.",
+    "t": 257.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, a si schützen zwee Mënschen: Iech selwer, an de Patient, deen Äert Blutt kritt. Dofir ass et wichteg, éierlech z'äntweren. An d'Gespréich duerno ass vertraulech.",
+    "t": 259.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "Soll ech niichter kommen, wéi bei enger Bluttanalys am Laboratoire?",
+    "t": 270.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nee, wann ech gelift net! Iesst normal an drénkt genuch Waasser. A vermeit intensive Sport direkt virun an direkt no der Spend.",
+    "t": 274.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wat muss ech matbréngen?",
+    "t": 282.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Eng Identitéitskaart oder e Pass. Dat ass alles, wat Dir déi éischte Kéier braucht.",
+    "t": 284.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "An da kënnt d'Nol. Sidd éierlech mat mir: Deet et wéi?",
+    "t": 288.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et spiert een um Ufank e klenge Stéch, wéi bei enger normaler Bluttanalys. Duerno läit een einfach do an entspaant sech.",
+    "t": 291.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wéi laang dauert dat Ganzt?",
+    "t": 297.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Spend selwer dauert ongeféier zéng Minutten. Mam Empfang, dem Gespréich an der Rou duerno sollt Dir ongeféier eng Stonn aplangen.",
+    "t": 299.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wéi vill Blutt gëtt ofgeholl?",
+    "t": 306.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "E bësse manner wéi en hallwe Liter. Fir e gesonden Erwuessenen ass dat ongeféierlech. De Kierper ersetzt d'Flëssegkeet ganz séier, an d'Bluttzellen an e puer Wochen.",
+    "t": 308.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kann ech mech beim Bluttspenden mat enger Krankheet ustiechen?",
+    "t": 318.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nee, dat ass net méiglech. D'Nol an de Beidel si steril, a si ginn nëmmen eng eenzeg Kéier benotzt.",
+    "t": 320.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "An duerno gëtt et eppes z'iessen, hoffen ech.",
+    "t": 325.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Natierlech. Dir bleift nach e bëssen am Roueberäich, mat engem gratis Gedrénks an engem Snack, an d'Equipe kuckt, ob et Iech gutt geet.",
+    "t": 328.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wat geschitt duerno mat mengem Blutt?",
+    "t": 335.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et gëtt analyséiert, ënner anerem op Infektioune wéi Hepatitis an HIV. Wann eppes Ongewéinleches fonnt gëtt, mellt ee sech bei Iech. Wann Dir näischt héiert, ass alles an der Rei.",
+    "t": 337.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wéini kréien ech d'Spenderkaart, vun där Dir geschwat hutt?",
+    "t": 348.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dir kritt se bei Ärer zweeter Visitt, an dorop steet Är Bluttgrupp.",
+    "t": 350.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wéi dacks kann e Mënsch Blutt spenden?",
+    "t": 353.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Männer kënnen all dräi Méint spenden, a Fraen all véier Méint.",
+    "t": 355.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Um Site hunn ech och d'Wuert „Plasma\" gesinn. Wat ass dat genee?",
+    "t": 359.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Plasma ass de flëssegen Deel vum Blutt. Et ass giel, an et mécht ongeféier d'Halschent vun eisem Blutt aus.",
+    "t": 363.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "A kann een och nëmme Plasma spenden?",
+    "t": 369.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, dat geet. Eng Maschinn trennt de Plasma of, an Är Bluttzelle kritt Dir zréck. Dofir kann ee Plasma méi dacks spenden: eemol de Mount.",
+    "t": 372.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fir wat gëtt Plasma gebraucht?",
+    "t": 381.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Virun allem, fir Medikamenter hierzestellen, fir Leit mat rare Krankheeten oder mat engem schwaachen Immunsystem. Et hëlleft och Leit mat schwéiere Verbrennungen.",
+    "t": 382.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dauert eng Plasmaspend méi laang?",
+    "t": 390.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, plangt bis zu zwou Stonnen an, virun allem déi éischte Kéier. A si ass nëmmen am Zentrum an der Stad Lëtzebuerg méiglech.",
+    "t": 392.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat ass e gudde Moment fir d'Fro: Wou kann ee Blutt spenden?",
+    "t": 399.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ginn dräi Méiglechkeeten. Déi éischt ass de Bluttspendenzentrum an der Stad Lëtzebuerg, um Boulevard Joseph II. En ass vu Méindes bis Freides op.",
+    "t": 402.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wéi gesäit et am Süde vum Land aus?",
+    "t": 412.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zu Esch-Belval kann ee méindes an dënschdes Blutt spenden. A vu Mëttwochs bis Freides fiert eng mobil Equipe duerch d'Land, zum Beispill op Ettelbréck, Wolz, Iechternach oder Gréiwemaacher.",
+    "t": 414.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "An all d'Datume stinn um Site, huelen ech un.",
+    "t": 427.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, an engem Kalenner. An op der Startsäit gëtt et e „Bluttgruppebarometer\". E weist, wéi eng Bluttgruppen am Moment am meeschte gebraucht ginn.",
+    "t": 430.4
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nach eppes Wichteges: Blutt spenden ass fräiwëlleg, a kee gëtt dofir bezuelt.",
+    "t": 438.78
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat stëmmt. Et ass e Kaddo, vun engem Mënsch un en anere Mënsch, deen en ni wäert begéinen.",
+    "t": 443.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wann een hëllefe wëllt, mee kee Blutt spende kann?",
+    "t": 448.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ginn aner Weeër fir ze hëllefen. Dir kënnt „Bluttspend-Ambassadeur\" ginn: Dir schwätzt mat Äre Frënn, Ärer Famill an Äre Kolleegen doriwwer, an Dir deelt d'Opriff, wann d'Reserven niddreg sinn.",
+    "t": 451.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et kann een och als Benevole matmaachen, zum Beispill fir sech während hirer Paus ëm d'Spender ze këmmeren.",
+    "t": 463.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "An eng Entreprise, eng Schoul oder e Veräin kann eng Visitt am Zentrum organiséieren, oder souguer selwer eng Bluttspendaktioun ausriichten.",
+    "t": 467.92
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat passt gutt bei de Biergerpakt. Blutt spenden ass eng ganz konkret Aart, um Liewen zu Lëtzebuerg deelzehuelen.",
+    "t": 475.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "Faasse mer zesummen. Wat soll ee sech mierken?",
+    "t": 481.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Éischtens: Blutt kann een net kënschtlech hierstellen, an d'Spideeler zu Lëtzebuerg brauchen all Wochendag ongeféier honnert Beidelen.",
+    "t": 485.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Zweetens: Wann Dir gesond sidd, op d'mannst 18 Joer hutt a méi wéi 50 Kilo weit, kënnt Dir wahrscheinlech spenden.",
+    "t": 492.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Drëttens: Plangt ongeféier eng Stonn an, an d'Spend selwer dauert nëmmen ongeféier zéng Minutten.",
+    "t": 499.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "A véiertens: Alles fänkt op dondusang Punkt l-u un — den Online-Test, de Rendez-vous, d'Plazen an d'Datumen.",
+    "t": 504.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Eng Stonn vun Ärer Zäit kann hëllefen, e Liewen ze retten.",
+    "t": 512.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "An et ass eng schéin Aart ze hëllefen. Dat war eis Episode iwwer d'Bluttspend zu Lëtzebuerg. Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
+    "t": 514.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
+    "t": 563.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 566.48
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "key": "jepeuxvoter",
+  "number": "Episode 45",
+  "title": "I Can Vote – Your Voice in Your Commune",
+  "description": "You live in Luxembourg but you are not a Luxembourger? You can still vote in your commune, and EU citizens can vote in the European elections too. Discover the website icanvote.lu: who can vote, how to register, and how to take part in local life.",
+  "audio": "podcast_jepeuxvoter.mp3",
+  "duration": 568.5,
+  "topics": [
+   "The three elections in Luxembourg",
+   "Who can vote in the commune",
+   "No more five-year rule",
+   "Registering online or at the commune",
+   "Compulsory voting & postal vote",
+   "The European elections",
+   "Why your vote matters",
+   "Being a candidate & local commissions"
+  ],
+  "segments": [
+   {
+    "speaker": "Anna",
+    "text": "Hello, and welcome!",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "It's really nice to have you with us today.",
+    "t": 2.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hello everyone!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt.",
+    "t": 5.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's a programme of living together in Luxembourg, organized by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 8.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "The idea is to help residents, and also cross-border workers, to discover Luxembourg — or maybe re-discover Luxembourg — and to meet new people.",
+    "t": 17.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "I have a question to start with, Anna.",
+    "t": 27.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Who decides whether there will be a new playground in your street, or a bus stop near your home?",
+    "t": 29.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "I would say my commune.",
+    "t": 34.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "The local council takes that kind of decision.",
+    "t": 35.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "And who chooses the people who sit on that council?",
+    "t": 38.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "The residents do, at the municipal elections.",
+    "t": 41.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "And that is today's topic: the right to vote in Luxembourg when you are not a Luxembourger, and the website \"I can vote\".",
+    "t": 44.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "The address in English is icanvote dot l-u.",
+    "t": 53.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "I can vote: the name says it all.",
+    "t": 55.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "The website is run by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.",
+    "t": 58.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "It exists in five languages: French, German, English, Portuguese and Luxembourgish.",
+    "t": 66.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's begin with the basics.",
+    "t": 72.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Which elections are there in Luxembourg?",
+    "t": 74.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are three main ones.",
+    "t": 76.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "The municipal elections, for the council of your commune.",
+    "t": 78.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "The European elections, for the European Parliament.",
+    "t": 81.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the national elections, for the Chamber of Deputies.",
+    "t": 85.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "And can someone without Luxembourgish nationality vote in all three of them?",
+    "t": 88.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Not in all three.",
+    "t": 93.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "The national elections are only for people with Luxembourgish nationality.",
+    "t": 94.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "But the other two are open to many more people than you might think.",
+    "t": 98.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's take the municipal elections first.",
+    "t": 102.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Who is allowed to vote there?",
+    "t": 104.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Every adult who lives in Luxembourg, whatever their nationality.",
+    "t": 106.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "European or not European, it makes no difference.",
+    "t": 110.46
+   },
+   {
+    "speaker": "Tom",
+    "text": "Is that true?",
+    "t": 113.55
+   },
+   {
+    "speaker": "Tom",
+    "text": "I thought you had to live here for several years first.",
+    "t": 114.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "That was the old rule: five years of residence.",
+    "t": 117.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "It was abolished a few years ago.",
+    "t": 120.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Today, you can register as soon as you live here.",
+    "t": 122.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "So what are the conditions today?",
+    "t": 125.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are three of them.",
+    "t": 127.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "You are at least eighteen on election day.",
+    "t": 129.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "You live in Luxembourg.",
+    "t": 131.62
+   },
+   {
+    "speaker": "Anna",
+    "text": "And you have not lost your right to vote, for example through a court decision.",
+    "t": 133.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "And for people from outside the European Union and the Schengen area, is there anything more?",
+    "t": 137.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Only one thing: a valid residence permit or residence card.",
+    "t": 142.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "People who are still applying for international protection cannot register yet.",
+    "t": 147.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "Once protection is granted, they can.",
+    "t": 152.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "There is one important difference with Luxembourgers, though.",
+    "t": 154.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes. Luxembourgers are put on the electoral list automatically when they turn eighteen.",
+    "t": 157.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Everyone else has to register.",
+    "t": 163.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nobody will do it for you.",
+    "t": 164.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "How does that registration work in practice?",
+    "t": 166.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "There are two ways.",
+    "t": 169.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "The first one is online, on MyGuichet dot l-u, for example with your LuxTrust.",
+    "t": 170.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "It takes only a few minutes.",
+    "t": 175.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what is the second way?",
+    "t": 177.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "You go to the population office of your commune with your identity card or your passport, and you sign a short declaration.",
+    "t": 178.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you need a residence permit to live here, you bring that too.",
+    "t": 186.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "Is there a deadline for registering?",
+    "t": 190.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can register at any time of the year.",
+    "t": 192
+   },
+   {
+    "speaker": "Anna",
+    "text": "But to vote in a particular election, you must register at the latest fifty-five days before election day.",
+    "t": 194.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fifty-five days: that is almost two months before.",
+    "t": 200.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactly, and that is why it is a good idea not to wait.",
+    "t": 203.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you register today, it's done, and it stays done.",
+    "t": 207.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "What do you mean when you say it stays done?",
+    "t": 211.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "You register only once.",
+    "t": 213.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Your name stays on the list for the following elections, and if you move to another commune, your registration moves with you automatically.",
+    "t": 215.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Now, there is something people should know before they register.",
+    "t": 223
+   },
+   {
+    "speaker": "Tom",
+    "text": "In Luxembourg, voting is compulsory.",
+    "t": 225.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "That's right. Once you are on the list, voting is not only a right.",
+    "t": 228.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is also a duty, exactly as it is for Luxembourgers.",
+    "t": 232.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "Does that obligation last forever?",
+    "t": 236.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "No. You can ask your commune to take your name off the list at any time.",
+    "t": 238.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "And people over seventy-five are excused.",
+    "t": 243
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what happens if I am travelling on election day?",
+    "t": 245.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Then you can vote by post.",
+    "t": 248.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Every registered voter can ask for a postal vote, online on MyGuichet dot l-u or with a letter to the commune.",
+    "t": 250.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "Just ask early enough, because there are deadlines.",
+    "t": 257.11
+   },
+   {
+    "speaker": "Tom",
+    "text": "Could I simply ask a friend or my partner to vote for me?",
+    "t": 260.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "No, that is not allowed.",
+    "t": 263.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "In Luxembourg, nobody can vote in your place.",
+    "t": 264.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Many people have another worry.",
+    "t": 268.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "If I vote in my commune here, what about the elections in my country of origin?",
+    "t": 269.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "The municipal elections here are local: they concern the place where you live.",
+    "t": 273.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "For any question about elections in your country of origin, your embassy or your consulate is the right contact.",
+    "t": 278.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's talk about election day itself.",
+    "t": 285.33
+   },
+   {
+    "speaker": "Tom",
+    "text": "How does it work?",
+    "t": 287.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "A few days before, your commune sends you a letter.",
+    "t": 288.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "It gives you the date, the polling station and the opening hours, and it includes the list of candidates.",
+    "t": 291.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what do I do on the day itself?",
+    "t": 298.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "You go to your polling station, which is open from eight in the morning until two in the afternoon.",
+    "t": 300.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "You bring an identity document, you go into the booth, and you vote in secret.",
+    "t": 305.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "How many votes do I have?",
+    "t": 310.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "As many as there are seats on your council.",
+    "t": 311.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "In small communes, you vote for individual people.",
+    "t": 314.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "In bigger communes, you vote for lists, and you can even mix candidates from different lists.",
+    "t": 317.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "That sounds a little complicated.",
+    "t": 323.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is easier than it sounds.",
+    "t": 325.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "The website has a short video that shows how to fill in the ballot paper correctly.",
+    "t": 327.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Now the European elections.",
+    "t": 332.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Who can vote in those?",
+    "t": 333.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Citizens of the European Union who live in Luxembourg.",
+    "t": 335.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "They have a choice: vote here for Luxembourg's members of the European Parliament, or vote for the candidates of their country of origin.",
+    "t": 338.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "But they cannot do both, I suppose.",
+    "t": 346.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "No. Each person votes only once, in one country.",
+    "t": 348.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "And is the registration the same as for the municipal elections?",
+    "t": 352.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "It works in the same way, but it is a separate list.",
+    "t": 355.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to vote in both elections, you register for both.",
+    "t": 358.3
+   },
+   {
+    "speaker": "Tom",
+    "text": "When do the next elections take place?",
+    "t": 361.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "The next municipal elections and the next European elections are both planned for 2029.",
+    "t": 363.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "That may seem far away, but you can register right now.",
+    "t": 369.79
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let me ask the question many listeners have in mind.",
+    "t": 373.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Why should I vote?",
+    "t": 375.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "I am only one person.",
+    "t": 376.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Think about what a commune decides.",
+    "t": 378.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "School buildings and childcare, local roads and cycle paths, water and waste, sport and culture, and the way your town or village is built.",
+    "t": 381.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "So, these are things I see every day when I leave my house.",
+    "t": 390.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactly. And the council is elected for six years.",
+    "t": 393.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "That means six years of decisions about the place where you live.",
+    "t": 396.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "And in Luxembourg, almost half of the residents do not have Luxembourgish nationality.",
+    "t": 400.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, and in some communes they are the majority.",
+    "t": 405.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "When they don't vote, a very large part of the population has no voice in those decisions.",
+    "t": 408.51
+   },
+   {
+    "speaker": "Tom",
+    "text": "And so far, only a minority of them have registered.",
+    "t": 414.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "That is exactly why this campaign exists.",
+    "t": 417.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Its slogan for the municipal elections is: \"My voice, my choice, for the future of my municipality.\"",
+    "t": 420.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Can I do more than vote?",
+    "t": 428.21
+   },
+   {
+    "speaker": "Tom",
+    "text": "Could I be a candidate myself?",
+    "t": 429.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Yes, you can stand as a candidate if you are eighteen and have lived in your commune for at least six months.",
+    "t": 431.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Residents without Luxembourgish nationality can become councillor, alderman, or even mayor.",
+    "t": 438.6
+   },
+   {
+    "speaker": "Tom",
+    "text": "And between two elections, is there a way to take part?",
+    "t": 444.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "There is. Communes have a commission for intercultural living together.",
+    "t": 447.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "It advises the local council, and residents can become members, whatever their nationality.",
+    "t": 451.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "And what about cross-border workers, who live in another country?",
+    "t": 457.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "They cannot vote here, because voting depends on where you live.",
+    "t": 460.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "But they can be a member of that commission in the commune where they work.",
+    "t": 464.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "And the meetings of the local council are public, aren't they?",
+    "t": 467.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "They are. You can simply go and listen to what your council discusses.",
+    "t": 470.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Let's bring it together.",
+    "t": 475.04
+   },
+   {
+    "speaker": "Tom",
+    "text": "What should people remember?",
+    "t": 476.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "First: if you live in Luxembourg and you are eighteen, you can vote in your commune, whatever your nationality, and however long you have been here.",
+    "t": 478.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Second: citizens of the European Union can also vote here in the European elections.",
+    "t": 486.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Third: you have to register, online on MyGuichet dot l-u or at your commune, at the latest fifty-five days before the election.",
+    "t": 491.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "And once you are registered, voting is compulsory.",
+    "t": 500.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "And fourth: you can do more.",
+    "t": 504.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Be a candidate, join a commission in your commune, or simply go and listen to your council.",
+    "t": 506.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "You can find all the information on icanvote dot l-u.",
+    "t": 511.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "You live here, so your voice counts here.",
+    "t": 514.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "And living together also means deciding together.",
+    "t": 516.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "That was our episode about \"I can vote\".",
+    "t": 519.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
+    "t": 522.44
+   },
+   {
+    "speaker": "Anna",
+    "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
+    "t": 531.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
+    "t": 549.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "And the activities are free of charge.",
+    "t": 556.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
+    "t": 558.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Thank you, everyone.",
+    "t": 563.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Take care, and see you next time!",
+    "t": 564.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Thank you so much for listening.",
+    "t": 566.89
+   }
+  ],
+  "questions": [
+   {
+    "text": "In which elections can residents without Luxembourgish nationality vote in Luxembourg?",
+    "options": [
+     "In the municipal elections, and EU citizens in the European ones too",
+     "In the national elections, but only after five years of residence",
+     "In all three elections, as soon as they are on the electoral list",
+     "In the European elections only, whatever their own nationality is"
+    ],
+    "correct": 0,
+    "explanation": "Every adult resident can vote in the municipal elections, whatever their nationality. Citizens of the European Union can also vote here in the European elections. The national elections are only for people with Luxembourgish nationality."
+   },
+   {
+    "text": "How long must you have lived in Luxembourg before you can register for the municipal elections?",
+    "options": [
+     "There is no minimum: as soon as you live here",
+     "At least five years in the country",
+     "At least six months in the same commune",
+     "At least two years, with one in the commune"
+    ],
+    "correct": 0,
+    "explanation": "The old rule of five years of residence was abolished. Today, you can register as soon as you live in Luxembourg. The six months in the commune only apply to people who want to be a candidate."
+   },
+   {
+    "text": "What is the latest moment to register if you want to vote in a particular election?",
+    "options": [
+     "On election day, at the polling station",
+     "Fifty-five days before election day",
+     "Five days before election day",
+     "One year before election day"
+    ],
+    "correct": 1,
+    "explanation": "You can register at any time of the year, online on MyGuichet.lu or at your commune. But to vote in a particular election, you must register at the latest 55 days before election day."
+   },
+   {
+    "text": "What changes once you are registered on the electoral list?",
+    "options": [
+     "You have to register again before every new election",
+     "You are no longer allowed to ask for a postal vote",
+     "Voting becomes compulsory, as it is for Luxembourgers",
+     "You can now also vote in the national elections"
+    ],
+    "correct": 2,
+    "explanation": "In Luxembourg, voting is compulsory for everyone on the electoral list. You register only once, you can vote by post, and you can ask your commune to take your name off the list at any time."
+   },
+   {
+    "text": "How can a cross-border worker take part in the life of a Luxembourg commune?",
+    "options": [
+     "By voting in the municipal elections of the commune where they work",
+     "By asking for a postal vote from their country of residence",
+     "By standing as a candidate for mayor in the commune where they work",
+     "By joining the intercultural living together commission where they work"
+    ],
+    "correct": 3,
+    "explanation": "Voting depends on where you live, so cross-border workers cannot vote in Luxembourg. But they can be a member of the commission for intercultural living together in the commune where they work."
+   }
+  ],
+  "categories": [
+   "civic"
+  ],
+  "title_fr": "Je peux voter – Votre voix dans votre commune",
+  "description_fr": "Vous habitez au Luxembourg sans être Luxembourgeois ? Vous pouvez quand même voter dans votre commune, et les citoyens de l'UE aussi aux élections européennes. Découvrez le site jepeuxvoter.lu : qui peut voter, comment s'inscrire, et comment participer à la vie locale.",
+  "topics_fr": [
+   "Les trois élections au Luxembourg",
+   "Qui peut voter dans la commune",
+   "Fin de la règle des cinq ans",
+   "S'inscrire en ligne ou à la commune",
+   "Vote obligatoire et par correspondance",
+   "Les élections européennes",
+   "Pourquoi votre vote compte",
+   "Être candidat et commissions locales"
+  ],
+  "questions_fr": [
+   {
+    "text": "À quelles élections les résidents qui n'ont pas la nationalité luxembourgeoise peuvent-ils voter au Luxembourg ?",
+    "options": [
+     "Aux élections communales, et les citoyens de l'UE aussi aux européennes",
+     "Aux élections nationales, mais seulement après cinq ans de résidence",
+     "Aux trois élections, dès qu'ils sont inscrits sur la liste électorale",
+     "Aux élections européennes uniquement, quelle que soit leur nationalité"
+    ],
+    "correct": 0,
+    "explanation": "Tous les résidents adultes peuvent voter aux élections communales, quelle que soit leur nationalité. Les citoyens de l'Union européenne peuvent aussi voter ici aux élections européennes. Les élections nationales sont réservées aux personnes de nationalité luxembourgeoise."
+   },
+   {
+    "text": "Depuis combien de temps faut-il habiter au Luxembourg pour pouvoir s'inscrire aux élections communales ?",
+    "options": [
+     "Aucune durée minimale : dès qu'on habite ici",
+     "Depuis au moins cinq ans dans le pays",
+     "Depuis au moins six mois dans la commune",
+     "Depuis au moins deux ans, dont un dans la commune"
+    ],
+    "correct": 0,
+    "explanation": "L'ancienne règle des cinq ans de résidence a été supprimée. Aujourd'hui, vous pouvez vous inscrire dès que vous habitez au Luxembourg. Les six mois dans la commune ne concernent que les personnes qui veulent être candidates."
+   },
+   {
+    "text": "Jusqu'à quand peut-on s'inscrire pour voter à une élection précise ?",
+    "options": [
+     "Le jour des élections, au bureau de vote",
+     "Cinquante-cinq jours avant le jour des élections",
+     "Cinq jours avant le jour des élections",
+     "Un an avant le jour des élections"
+    ],
+    "correct": 1,
+    "explanation": "Vous pouvez vous inscrire à tout moment de l'année, en ligne sur MyGuichet.lu ou à votre commune. Mais pour voter à une élection précise, il faut s'inscrire au plus tard 55 jours avant le jour du vote."
+   },
+   {
+    "text": "Qu'est-ce qui change une fois que vous êtes inscrit sur la liste électorale ?",
+    "options": [
+     "Il faut s'inscrire à nouveau avant chaque nouvelle élection",
+     "Vous ne pouvez plus demander le vote par correspondance",
+     "Le vote devient obligatoire, comme pour les Luxembourgeois",
+     "Vous pouvez désormais voter aussi aux élections nationales"
+    ],
+    "correct": 2,
+    "explanation": "Au Luxembourg, le vote est obligatoire pour toutes les personnes inscrites sur la liste électorale. Vous ne vous inscrivez qu'une fois, vous pouvez voter par correspondance, et vous pouvez à tout moment demander à votre commune de retirer votre nom de la liste."
+   },
+   {
+    "text": "Comment un frontalier peut-il participer à la vie d'une commune luxembourgeoise ?",
+    "options": [
+     "En votant aux élections communales de la commune où il travaille",
+     "En demandant le vote par correspondance depuis son pays de résidence",
+     "En se présentant comme bourgmestre dans la commune où il travaille",
+     "En rejoignant la commission du vivre-ensemble interculturel là où il travaille"
+    ],
+    "correct": 3,
+    "explanation": "Le vote dépend de l'endroit où l'on habite : les frontaliers ne peuvent donc pas voter au Luxembourg. Mais ils peuvent être membres de la commission du vivre-ensemble interculturel dans la commune où ils travaillent."
+   }
+  ],
+  "title_de": "Ich kann wählen – Ihre Stimme in Ihrer Gemeinde",
+  "description_de": "Sie wohnen in Luxemburg, sind aber kein Luxemburger? Sie können trotzdem in Ihrer Gemeinde wählen, und EU-Bürger auch bei den Europawahlen. Entdecken Sie die Website ichkannwaehlen.lu: wer wählen kann, wie man sich einträgt, und wie man sich vor Ort beteiligt.",
+  "topics_de": [
+   "Die drei Wahlen in Luxemburg",
+   "Wer in der Gemeinde wählen kann",
+   "Keine Fünf-Jahres-Regel mehr",
+   "Eintragung online oder in der Gemeinde",
+   "Wahlpflicht und Briefwahl",
+   "Die Europawahlen",
+   "Warum Ihre Stimme zählt",
+   "Kandidieren und Gemeindekommissionen"
+  ],
+  "questions_de": [
+   {
+    "text": "Bei welchen Wahlen können Einwohner ohne luxemburgische Staatsangehörigkeit in Luxemburg wählen?",
+    "options": [
+     "Bei den Gemeindewahlen, und EU-Bürger auch bei den Europawahlen",
+     "Bei den Nationalwahlen, aber erst nach fünf Jahren Aufenthalt",
+     "Bei allen drei Wahlen, sobald sie im Wählerverzeichnis stehen",
+     "Nur bei den Europawahlen, egal welche Staatsangehörigkeit sie haben"
+    ],
+    "correct": 0,
+    "explanation": "Alle erwachsenen Einwohner können bei den Gemeindewahlen wählen, egal welche Staatsangehörigkeit sie haben. Bürger der Europäischen Union können hier auch bei den Europawahlen wählen. Die Nationalwahlen sind nur für Menschen mit luxemburgischer Staatsangehörigkeit."
+   },
+   {
+    "text": "Wie lange muss man in Luxemburg wohnen, bevor man sich für die Gemeindewahlen eintragen kann?",
+    "options": [
+     "Keine Mindestdauer: sobald man hier wohnt",
+     "Mindestens fünf Jahre im Land",
+     "Mindestens sechs Monate in der Gemeinde",
+     "Mindestens zwei Jahre, davon eines in der Gemeinde"
+    ],
+    "correct": 0,
+    "explanation": "Die alte Regel von fünf Jahren Aufenthalt wurde abgeschafft. Heute können Sie sich eintragen, sobald Sie in Luxemburg wohnen. Die sechs Monate in der Gemeinde gelten nur für Menschen, die kandidieren möchten."
+   },
+   {
+    "text": "Bis wann muss man sich spätestens eintragen, um bei einer bestimmten Wahl zu wählen?",
+    "options": [
+     "Am Wahltag selbst, im Wahllokal",
+     "Fünfundfünfzig Tage vor dem Wahltag",
+     "Fünf Tage vor dem Wahltag",
+     "Ein Jahr vor dem Wahltag"
+    ],
+    "correct": 1,
+    "explanation": "Sie können sich das ganze Jahr über eintragen, online auf MyGuichet.lu oder bei Ihrer Gemeinde. Aber um bei einer bestimmten Wahl zu wählen, müssen Sie sich spätestens 55 Tage vor dem Wahltag eintragen."
+   },
+   {
+    "text": "Was ändert sich, sobald Sie im Wählerverzeichnis eingetragen sind?",
+    "options": [
+     "Sie müssen sich vor jeder neuen Wahl wieder eintragen",
+     "Sie dürfen keine Briefwahl mehr beantragen",
+     "Wählen wird zur Pflicht, genau wie für die Luxemburger",
+     "Sie können jetzt auch bei den Nationalwahlen wählen"
+    ],
+    "correct": 2,
+    "explanation": "In Luxemburg besteht Wahlpflicht für alle, die im Wählerverzeichnis stehen. Sie tragen sich nur einmal ein, Sie können per Briefwahl wählen, und Sie können Ihre Gemeinde jederzeit bitten, Ihren Namen von der Liste zu streichen."
+   },
+   {
+    "text": "Wie kann sich ein Grenzgänger am Leben einer luxemburgischen Gemeinde beteiligen?",
+    "options": [
+     "Indem er bei den Gemeindewahlen an seinem Arbeitsort wählt",
+     "Indem er von seinem Wohnland aus die Briefwahl beantragt",
+     "Indem er an seinem Arbeitsort als Bürgermeister kandidiert",
+     "Als Mitglied der Kommission für interkulturelles Zusammenleben am Arbeitsort"
+    ],
+    "correct": 3,
+    "explanation": "Das Wahlrecht hängt vom Wohnort ab: Grenzgänger können deshalb in Luxemburg nicht wählen. Aber sie können Mitglied der Kommission für das interkulturelle Zusammenleben sein, in der Gemeinde, in der sie arbeiten."
+   }
+  ],
+  "audio_fr": "podcast_jepeuxvoter_fr.mp3",
+  "duration_fr": 539.38,
+  "segments_fr": [
+   {
+    "speaker": "Anna",
+    "text": "Bonjour et bienvenue !",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.",
+    "t": 1.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Bonjour à tous !",
+    "t": 4.64
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt.",
+    "t": 6.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 8.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.",
+    "t": 15.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "J'ai une question pour commencer, Anna.",
+    "t": 23.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Qui décide s'il y aura une nouvelle aire de jeux dans votre rue, ou un arrêt de bus près de chez vous ?",
+    "t": 25.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Je dirais que c'est ma commune.",
+    "t": 29.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est le conseil communal qui prend ce genre de décision.",
+    "t": 31.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et qui choisit les personnes qui siègent dans ce conseil ?",
+    "t": 34.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce sont les habitants, lors des élections communales.",
+    "t": 37.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et c'est notre sujet d'aujourd'hui : le droit de vote au Luxembourg quand on n'est pas Luxembourgeois, et le site « Je peux voter ».",
+    "t": 39.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "L'adresse en français, c'est jepeuxvoter point l-u.",
+    "t": 45.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Je peux voter : le nom dit tout.",
+    "t": 49.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le site est géré par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil.",
+    "t": 51.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il existe en cinq langues : français, allemand, anglais, portugais et luxembourgeois.",
+    "t": 56.48
+   },
+   {
+    "speaker": "Tom",
+    "text": "Commençons par les bases.",
+    "t": 61.24
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quelles élections y a-t-il au Luxembourg ?",
+    "t": 62.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y en a trois principales.",
+    "t": 65.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les élections communales, pour le conseil de votre commune.",
+    "t": 66.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les élections européennes, pour le Parlement européen.",
+    "t": 69.61
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les élections nationales, pour la Chambre des députés.",
+    "t": 72.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et une personne qui n'a pas la nationalité luxembourgeoise peut-elle voter aux trois ?",
+    "t": 75.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pas aux trois.",
+    "t": 80.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les élections nationales sont réservées aux personnes de nationalité luxembourgeoise.",
+    "t": 81.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais les deux autres sont ouvertes à bien plus de monde qu'on ne le pense.",
+    "t": 85.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenons d'abord les élections communales.",
+    "t": 88.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Qui a le droit d'y voter ?",
+    "t": 90.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Tous les adultes qui habitent au Luxembourg, quelle que soit leur nationalité.",
+    "t": 92.41
+   },
+   {
+    "speaker": "Anna",
+    "text": "Européen ou non européen, cela ne fait aucune différence.",
+    "t": 95.9
+   },
+   {
+    "speaker": "Tom",
+    "text": "C'est vrai ? Je pensais qu'il fallait d'abord habiter ici depuis plusieurs années.",
+    "t": 99.38
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'était l'ancienne règle : cinq ans de résidence.",
+    "t": 103.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle a été supprimée il y a quelques années.",
+    "t": 106.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aujourd'hui, vous pouvez vous inscrire dès que vous habitez ici.",
+    "t": 108.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Alors, quelles sont les conditions aujourd'hui ?",
+    "t": 111.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y en a trois.",
+    "t": 114.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous avez au moins dix-huit ans le jour des élections.",
+    "t": 115.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous habitez au Luxembourg.",
+    "t": 117.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et vous n'avez pas perdu votre droit de vote, par exemple à la suite d'une décision de justice.",
+    "t": 119.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et pour les personnes qui viennent d'un pays hors de l'Union européenne et de l'espace Schengen, y a-t-il autre chose ?",
+    "t": 123.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Une seule chose : un titre de séjour ou une carte de séjour en cours de validité.",
+    "t": 129.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les personnes dont la demande de protection internationale est encore en cours ne peuvent pas encore s'inscrire.",
+    "t": 134.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Une fois la protection accordée, elles le peuvent.",
+    "t": 139.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Il y a pourtant une différence importante avec les Luxembourgeois.",
+    "t": 142.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui. Les Luxembourgeois sont inscrits automatiquement sur la liste électorale quand ils ont dix-huit ans.",
+    "t": 145.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Tous les autres doivent s'inscrire eux-mêmes.",
+    "t": 150.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Personne ne le fera à votre place.",
+    "t": 152.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Comment cette inscription se passe-t-elle en pratique ?",
+    "t": 154.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il y a deux possibilités.",
+    "t": 157.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "La première, c'est en ligne, sur MyGuichet point l-u, par exemple avec votre LuxTrust.",
+    "t": 158.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela ne prend que quelques minutes.",
+    "t": 163.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quelle est la deuxième possibilité ?",
+    "t": 165.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous allez au bureau de la population de votre commune avec votre carte d'identité ou votre passeport, et vous signez une courte déclaration.",
+    "t": 168.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous avez besoin d'un titre de séjour pour vivre ici, vous l'apportez aussi.",
+    "t": 175.1
+   },
+   {
+    "speaker": "Tom",
+    "text": "Y a-t-il une date limite pour s'inscrire ?",
+    "t": 179.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez vous inscrire à tout moment de l'année.",
+    "t": 181.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais pour voter à une élection précise, il faut s'inscrire au plus tard cinquante-cinq jours avant le jour du vote.",
+    "t": 183.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cinquante-cinq jours : cela fait presque deux mois avant.",
+    "t": 189.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactement, et c'est pour cela qu'il vaut mieux ne pas attendre.",
+    "t": 192.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous vous inscrivez aujourd'hui, c'est fait, et cela reste fait.",
+    "t": 195.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Que voulez-vous dire quand vous dites que cela reste fait ?",
+    "t": 198.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous ne vous inscrivez qu'une seule fois.",
+    "t": 201.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Votre nom reste sur la liste pour les élections suivantes, et si vous déménagez dans une autre commune, votre inscription vous suit automatiquement.",
+    "t": 203.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Maintenant, il y a une chose à savoir avant de s'inscrire.",
+    "t": 210.66
+   },
+   {
+    "speaker": "Tom",
+    "text": "Au Luxembourg, le vote est obligatoire.",
+    "t": 213.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est exact. Une fois que vous êtes sur la liste, voter n'est pas seulement un droit.",
+    "t": 216.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est aussi un devoir, exactement comme pour les Luxembourgeois.",
+    "t": 219.89
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cette obligation dure-t-elle pour toujours ?",
+    "t": 222.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Non. Vous pouvez à tout moment demander à votre commune de retirer votre nom de la liste.",
+    "t": 225.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les personnes de plus de soixante-quinze ans sont dispensées.",
+    "t": 229.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et que se passe-t-il si je suis en voyage le jour des élections ?",
+    "t": 232.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dans ce cas, vous pouvez voter par correspondance.",
+    "t": 235.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Chaque électeur inscrit peut le demander, en ligne sur MyGuichet point l-u ou par courrier à la commune.",
+    "t": 238.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Faites simplement la demande assez tôt, car il y a des délais.",
+    "t": 243.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Est-ce que je pourrais simplement demander à un ami ou à mon conjoint de voter pour moi ?",
+    "t": 246.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Non, ce n'est pas permis.",
+    "t": 250.94
+   },
+   {
+    "speaker": "Anna",
+    "text": "Au Luxembourg, personne ne peut voter à votre place.",
+    "t": 252.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Beaucoup de gens ont une autre inquiétude.",
+    "t": 255.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Si je vote dans ma commune ici, qu'en est-il des élections dans mon pays d'origine ?",
+    "t": 257.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les élections communales ici sont locales : elles concernent l'endroit où vous vivez.",
+    "t": 262.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pour toute question sur les élections dans votre pays d'origine, votre ambassade ou votre consulat est le bon contact.",
+    "t": 266.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Parlons du jour des élections lui-même.",
+    "t": 272.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "Comment cela se passe-t-il ?",
+    "t": 275.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quelques jours avant, votre commune vous envoie une lettre.",
+    "t": 276.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle vous indique la date, le bureau de vote et les heures d'ouverture, et elle contient la liste des candidats.",
+    "t": 279.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et qu'est-ce que je fais le jour même ?",
+    "t": 284.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous allez à votre bureau de vote, qui est ouvert de huit heures du matin à deux heures de l'après-midi.",
+    "t": 286.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous apportez une pièce d'identité, vous entrez dans l'isoloir, et vous votez en secret.",
+    "t": 291.22
+   },
+   {
+    "speaker": "Tom",
+    "text": "De combien de voix est-ce que je dispose ?",
+    "t": 295.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'autant de voix qu'il y a de sièges dans votre conseil.",
+    "t": 297.92
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dans les petites communes, vous votez pour des personnes.",
+    "t": 300.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dans les plus grandes communes, vous votez pour des listes, et vous pouvez même mélanger des candidats de listes différentes.",
+    "t": 302.93
+   },
+   {
+    "speaker": "Tom",
+    "text": "Cela semble un peu compliqué.",
+    "t": 308.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est plus facile qu'il n'y paraît.",
+    "t": 310.43
+   },
+   {
+    "speaker": "Anna",
+    "text": "Le site propose une courte vidéo qui montre comment remplir correctement le bulletin de vote.",
+    "t": 312.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passons aux élections européennes.",
+    "t": 316.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Qui peut y voter ?",
+    "t": 318.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les citoyens de l'Union européenne qui habitent au Luxembourg.",
+    "t": 319.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils ont le choix : voter ici pour les députés européens du Luxembourg, ou voter pour les candidats de leur pays d'origine.",
+    "t": 322.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mais ils ne peuvent pas faire les deux, je suppose.",
+    "t": 328.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Non. Chaque personne ne vote qu'une seule fois, dans un seul pays.",
+    "t": 331.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et l'inscription est-elle la même que pour les élections communales ?",
+    "t": 335.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle se fait de la même manière, mais c'est une liste séparée.",
+    "t": 338.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous voulez voter aux deux élections, vous vous inscrivez aux deux.",
+    "t": 341.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Quand les prochaines élections auront-elles lieu ?",
+    "t": 344.79
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les prochaines élections communales et les prochaines élections européennes sont toutes les deux prévues pour 2029.",
+    "t": 347.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela peut sembler loin, mais vous pouvez vous inscrire dès maintenant.",
+    "t": 352.62
+   },
+   {
+    "speaker": "Tom",
+    "text": "Je pose la question que beaucoup d'auditeurs ont en tête.",
+    "t": 355.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pourquoi devrais-je voter ?",
+    "t": 358.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Je ne suis qu'une seule personne.",
+    "t": 360.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Pensez à ce qu'une commune décide.",
+    "t": 362.01
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les bâtiments scolaires et l'accueil des enfants, les rues et les pistes cyclables, l'eau et les déchets, le sport et la culture, et la manière dont votre ville ou votre village se construit.",
+    "t": 363.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ce sont donc des choses que je vois tous les jours en sortant de chez moi.",
+    "t": 373.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Exactement. Et le conseil est élu pour six ans.",
+    "t": 376.99
+   },
+   {
+    "speaker": "Anna",
+    "text": "Cela veut dire six ans de décisions sur l'endroit où vous vivez.",
+    "t": 379.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et au Luxembourg, près de la moitié des habitants n'ont pas la nationalité luxembourgeoise.",
+    "t": 382.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, et dans certaines communes ils sont majoritaires.",
+    "t": 387.36
+   },
+   {
+    "speaker": "Anna",
+    "text": "Quand ils ne votent pas, une très grande partie de la population n'a pas de voix dans ces décisions.",
+    "t": 389.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et jusqu'ici, seule une minorité d'entre eux s'est inscrite.",
+    "t": 394.23
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'est exactement pour cela que cette campagne existe.",
+    "t": 397.66
+   },
+   {
+    "speaker": "Anna",
+    "text": "Son slogan pour les élections communales est : « Ma voix, mon choix, pour l'avenir de ma commune. »",
+    "t": 400.17
+   },
+   {
+    "speaker": "Tom",
+    "text": "Puis-je faire plus que voter ?",
+    "t": 405.57
+   },
+   {
+    "speaker": "Tom",
+    "text": "Pourrais-je être candidat moi-même ?",
+    "t": 407.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, c'est possible !",
+    "t": 409.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez vous présenter si vous avez dix-huit ans et si vous habitez votre commune depuis au moins six mois.",
+    "t": 410.51
+   },
+   {
+    "speaker": "Anna",
+    "text": "Les résidents qui n'ont pas la nationalité luxembourgeoise peuvent devenir conseiller communal, échevin, ou même bourgmestre.",
+    "t": 415.39
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et entre deux élections, y a-t-il un moyen de participer ?",
+    "t": 421.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui. Les communes ont une commission du vivre-ensemble interculturel.",
+    "t": 424.6
+   },
+   {
+    "speaker": "Anna",
+    "text": "Elle conseille le conseil communal, et les habitants peuvent en devenir membres, quelle que soit leur nationalité.",
+    "t": 428.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et qu'en est-il des frontaliers, qui habitent dans un autre pays ?",
+    "t": 433.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ils ne peuvent pas voter ici, parce que le vote dépend de l'endroit où l'on habite.",
+    "t": 437.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Mais ils peuvent être membres de cette commission dans la commune où ils travaillent.",
+    "t": 440.97
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et les séances du conseil communal sont publiques, n'est-ce pas ?",
+    "t": 444.75
+   },
+   {
+    "speaker": "Anna",
+    "text": "Oui, elles le sont.",
+    "t": 448.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous pouvez simplement y aller et écouter ce dont votre conseil discute.",
+    "t": 449.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Résumons. Que faut-il retenir ?",
+    "t": 452.97
+   },
+   {
+    "speaker": "Anna",
+    "text": "Premièrement : si vous habitez au Luxembourg et que vous avez dix-huit ans, vous pouvez voter dans votre commune, quelle que soit votre nationalité, et peu importe depuis combien de temps vous êtes ici.",
+    "t": 455.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Deuxièmement : les citoyens de l'Union européenne peuvent aussi voter ici aux élections européennes.",
+    "t": 464.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Troisièmement : il faut s'inscrire, en ligne sur MyGuichet point l-u ou à la commune, au plus tard cinquante-cinq jours avant les élections.",
+    "t": 470.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et une fois inscrit, le vote est obligatoire.",
+    "t": 477.15
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et quatrièmement : vous pouvez faire plus.",
+    "t": 479.76
+   },
+   {
+    "speaker": "Tom",
+    "text": "Être candidat, rejoindre une commission dans votre commune, ou simplement aller écouter votre conseil.",
+    "t": 482.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vous trouverez toutes les informations sur jepeuxvoter point l-u.",
+    "t": 487.82
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vous vivez ici, donc votre voix compte ici.",
+    "t": 491.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et vivre ensemble, c'est aussi décider ensemble.",
+    "t": 494.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "C'était notre épisode sur « Je peux voter ».",
+    "t": 496.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
+    "t": 499.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
+    "t": 506.81
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
+    "t": 523.26
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et les activités sont gratuites.",
+    "t": 527.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
+    "t": 529.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci à tous.",
+    "t": 534.07
+   },
+   {
+    "speaker": "Tom",
+    "text": "Prenez soin de vous, et à la prochaine !",
+    "t": 535.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Merci beaucoup de nous avoir écoutés.",
+    "t": 537.61
+   }
+  ],
+  "audio_de": "podcast_jepeuxvoter_de.mp3",
+  "duration_de": 618.81,
+  "segments_de": [
+   {
+    "speaker": "Anna",
+    "text": "Hallo und herzlich willkommen!",
+    "t": 0.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist wirklich schön, dass Sie heute bei uns sind.",
+    "t": 2.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Hallo zusammen!",
+    "t": 5.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt.",
+    "t": 6.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das ist ein Programm des Zusammenlebens in Luxemburg, organisiert vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen.",
+    "t": 9.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Idee ist, den Einwohnern, und auch den Grenzgängern, zu helfen, Luxemburg zu entdecken — oder vielleicht wiederzuentdecken — und neue Menschen kennenzulernen.",
+    "t": 18.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich habe eine Frage zum Anfang, Anna.",
+    "t": 27.88
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wer entscheidet, ob es in Ihrer Straße einen neuen Spielplatz gibt, oder eine Bushaltestelle in Ihrer Nähe?",
+    "t": 30.05
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ich würde sagen, meine Gemeinde.",
+    "t": 36.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Solche Entscheidungen trifft der Gemeinderat.",
+    "t": 38.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wer wählt die Menschen aus, die in diesem Gemeinderat sitzen?",
+    "t": 41.27
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das tun die Einwohner, bei den Gemeindewahlen.",
+    "t": 44.63
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und das ist unser Thema heute: das Wahlrecht in Luxemburg, wenn man kein Luxemburger ist, und die Website „Ich kann wählen\".",
+    "t": 47.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Die Adresse auf Deutsch lautet ichkannwaehlen Punkt l-u.",
+    "t": 54.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich kann wählen: Der Name sagt schon alles.",
+    "t": 59.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Website wird vom Ministerium für Familie, Solidarität, Zusammenleben und Unterbringung von Flüchtlingen betrieben.",
+    "t": 62.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt sie in fünf Sprachen: Französisch, Deutsch, Englisch, Portugiesisch und Luxemburgisch.",
+    "t": 69.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fangen wir mit den Grundlagen an.",
+    "t": 76.78
+   },
+   {
+    "speaker": "Tom",
+    "text": "Welche Wahlen gibt es in Luxemburg?",
+    "t": 78.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt drei wichtige Wahlen.",
+    "t": 80.89
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Gemeindewahlen, für den Rat Ihrer Gemeinde.",
+    "t": 82.71
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Europawahlen, für das Europäische Parlament.",
+    "t": 86.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Nationalwahlen, für die Abgeordnetenkammer.",
+    "t": 89.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und kann jemand ohne luxemburgische Staatsangehörigkeit bei allen drei Wahlen wählen?",
+    "t": 93.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nicht bei allen drei.",
+    "t": 98.16
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Nationalwahlen sind nur für Menschen mit luxemburgischer Staatsangehörigkeit.",
+    "t": 99.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber die beiden anderen stehen viel mehr Menschen offen, als man denkt.",
+    "t": 104.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nehmen wir zuerst die Gemeindewahlen.",
+    "t": 108.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wer darf dort wählen?",
+    "t": 110.4
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alle Erwachsenen, die in Luxemburg wohnen, egal welche Staatsangehörigkeit sie haben.",
+    "t": 111.88
+   },
+   {
+    "speaker": "Anna",
+    "text": "Europäer oder nicht, das macht keinen Unterschied.",
+    "t": 116.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stimmt das wirklich?",
+    "t": 119.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich dachte, man muss zuerst mehrere Jahre hier wohnen.",
+    "t": 121.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das war die alte Regel: fünf Jahre Aufenthalt.",
+    "t": 124.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie wurde vor einigen Jahren abgeschafft.",
+    "t": 127.56
+   },
+   {
+    "speaker": "Anna",
+    "text": "Heute können Sie sich eintragen, sobald Sie hier wohnen.",
+    "t": 129.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Welche Bedingungen gelten denn heute?",
+    "t": 133.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es sind drei.",
+    "t": 135.82
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie sind am Wahltag mindestens achtzehn Jahre alt.",
+    "t": 137.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie wohnen in Luxemburg.",
+    "t": 140.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und Sie haben Ihr Wahlrecht nicht verloren, zum Beispiel durch ein Gerichtsurteil.",
+    "t": 141.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und für Menschen aus Ländern außerhalb der Europäischen Union und des Schengen-Raums, gibt es da noch etwas?",
+    "t": 146
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nur eines: einen gültigen Aufenthaltstitel oder eine gültige Aufenthaltskarte.",
+    "t": 151.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Menschen, deren Antrag auf internationalen Schutz noch läuft, können sich noch nicht eintragen.",
+    "t": 157.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sobald der Schutz gewährt ist, können sie es.",
+    "t": 162.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Es gibt allerdings einen wichtigen Unterschied zu den Luxemburgern.",
+    "t": 165.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja. Luxemburger werden automatisch in das Wählerverzeichnis eingetragen, wenn sie achtzehn werden.",
+    "t": 169.53
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alle anderen müssen sich selbst eintragen.",
+    "t": 175.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Niemand macht das für Sie.",
+    "t": 178.19
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie funktioniert diese Eintragung in der Praxis?",
+    "t": 179.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es gibt zwei Wege.",
+    "t": 182.74
+   },
+   {
+    "speaker": "Anna",
+    "text": "Der erste ist online, auf MyGuichet Punkt l-u, zum Beispiel mit Ihrem LuxTrust.",
+    "t": 184.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das dauert nur ein paar Minuten.",
+    "t": 189.64
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wie sieht der zweite Weg aus?",
+    "t": 191.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie gehen mit Ihrem Personalausweis oder Ihrem Reisepass zum Einwohnermeldeamt Ihrer Gemeinde und unterschreiben eine kurze Erklärung.",
+    "t": 193.73
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie einen Aufenthaltstitel brauchen, um hier zu leben, bringen Sie ihn auch mit.",
+    "t": 201.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gibt es eine Frist für die Eintragung?",
+    "t": 206.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können sich das ganze Jahr über eintragen.",
+    "t": 208.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber um bei einer bestimmten Wahl zu wählen, müssen Sie sich spätestens fünfundfünfzig Tage vor dem Wahltag eintragen.",
+    "t": 210.91
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fünfundfünfzig Tage: Das sind fast zwei Monate vorher.",
+    "t": 217.59
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau, und deshalb ist es eine gute Idee, nicht zu warten.",
+    "t": 221.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie sich heute eintragen, ist es erledigt, und es bleibt erledigt.",
+    "t": 224.96
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was meinen Sie damit, dass es erledigt bleibt?",
+    "t": 229.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie tragen sich nur ein einziges Mal ein.",
+    "t": 232.8
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ihr Name bleibt für die folgenden Wahlen auf der Liste, und wenn Sie in eine andere Gemeinde umziehen, zieht Ihre Eintragung automatisch mit.",
+    "t": 235.59
+   },
+   {
+    "speaker": "Tom",
+    "text": "Nun gibt es etwas, das man vor der Eintragung wissen sollte.",
+    "t": 243.26
+   },
+   {
+    "speaker": "Tom",
+    "text": "In Luxemburg besteht Wahlpflicht.",
+    "t": 246.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das stimmt. Sobald Sie auf der Liste stehen, ist Wählen nicht nur ein Recht.",
+    "t": 248.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist auch eine Pflicht, genau wie für die Luxemburger.",
+    "t": 253.47
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gilt diese Pflicht für immer?",
+    "t": 257.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nein. Sie können Ihre Gemeinde jederzeit bitten, Ihren Namen von der Liste zu streichen.",
+    "t": 258.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und Menschen über fünfundsiebzig sind von der Pflicht befreit.",
+    "t": 264.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und was passiert, wenn ich am Wahltag verreist bin?",
+    "t": 268.47
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dann können Sie per Briefwahl wählen.",
+    "t": 271.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jeder eingetragene Wähler kann die Briefwahl beantragen, online auf MyGuichet Punkt l-u oder mit einem Brief an die Gemeinde.",
+    "t": 273.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Stellen Sie den Antrag nur früh genug, denn es gibt Fristen.",
+    "t": 281.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Könnte ich einfach einen Freund oder meinen Partner bitten, für mich zu wählen?",
+    "t": 285.09
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nein, das ist nicht erlaubt.",
+    "t": 289.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "In Luxemburg kann niemand an Ihrer Stelle wählen.",
+    "t": 291.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Viele Menschen haben noch eine andere Sorge.",
+    "t": 294.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wenn ich hier in meiner Gemeinde wähle, was ist dann mit den Wahlen in meinem Herkunftsland?",
+    "t": 296.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Gemeindewahlen hier sind lokal: Es geht um den Ort, an dem Sie leben.",
+    "t": 302.18
+   },
+   {
+    "speaker": "Anna",
+    "text": "Für alle Fragen zu den Wahlen in Ihrem Herkunftsland ist Ihre Botschaft oder Ihr Konsulat der richtige Ansprechpartner.",
+    "t": 306.52
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sprechen wir über den Wahltag selbst.",
+    "t": 313.25
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie läuft er ab?",
+    "t": 315.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Einige Tage vorher schickt Ihnen Ihre Gemeinde einen Brief.",
+    "t": 316.9
+   },
+   {
+    "speaker": "Anna",
+    "text": "Darin stehen das Datum, das Wahllokal und die Öffnungszeiten, und die Liste der Kandidaten liegt bei.",
+    "t": 320.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und was mache ich am Tag selbst?",
+    "t": 326.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie gehen in Ihr Wahllokal, das von acht Uhr morgens bis zwei Uhr nachmittags geöffnet ist.",
+    "t": 328.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie bringen einen Ausweis mit, gehen in die Wahlkabine und wählen geheim.",
+    "t": 333.81
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wie viele Stimmen habe ich denn?",
+    "t": 338.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "So viele, wie es Sitze in Ihrem Gemeinderat gibt.",
+    "t": 340.37
+   },
+   {
+    "speaker": "Anna",
+    "text": "In kleinen Gemeinden wählen Sie einzelne Personen.",
+    "t": 343.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "In größeren Gemeinden wählen Sie Listen, und Sie können sogar Kandidaten von verschiedenen Listen mischen.",
+    "t": 346.7
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das klingt ein bisschen kompliziert.",
+    "t": 352.72
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es ist einfacher, als es klingt.",
+    "t": 354.98
+   },
+   {
+    "speaker": "Anna",
+    "text": "Auf der Website gibt es ein kurzes Video, das zeigt, wie man den Stimmzettel richtig ausfüllt.",
+    "t": 356.86
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kommen wir zu den Europawahlen.",
+    "t": 362.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wer kann dort wählen?",
+    "t": 364.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bürger der Europäischen Union, die in Luxemburg wohnen.",
+    "t": 365.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie haben die Wahl: hier für die luxemburgischen Abgeordneten im Europäischen Parlament stimmen, oder für die Kandidaten ihres Herkunftslandes.",
+    "t": 368.72
+   },
+   {
+    "speaker": "Tom",
+    "text": "Aber beides zusammen geht nicht, nehme ich an.",
+    "t": 376.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nein. Jeder Mensch wählt nur ein einziges Mal, in einem einzigen Land.",
+    "t": 379.45
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und ist die Eintragung dieselbe wie für die Gemeindewahlen?",
+    "t": 384.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie funktioniert auf die gleiche Weise, aber es ist eine eigene Liste.",
+    "t": 388
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie bei beiden Wahlen wählen möchten, tragen Sie sich für beide ein.",
+    "t": 392.12
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wann finden die nächsten Wahlen statt?",
+    "t": 396.02
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die nächsten Gemeindewahlen und die nächsten Europawahlen sind beide für 2029 geplant.",
+    "t": 398.29
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das scheint vielleicht weit weg, aber Sie können sich schon jetzt eintragen.",
+    "t": 404.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich stelle die Frage, die viele Hörer im Kopf haben.",
+    "t": 407.83
+   },
+   {
+    "speaker": "Tom",
+    "text": "Warum sollte ich wählen?",
+    "t": 410.75
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ich bin doch nur eine einzelne Person.",
+    "t": 412.28
+   },
+   {
+    "speaker": "Anna",
+    "text": "Denken Sie daran, was eine Gemeinde entscheidet.",
+    "t": 414.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Schulgebäude und Kinderbetreuung, Straßen und Radwege, Wasser und Abfall, Sport und Kultur, und die Art, wie Ihre Stadt oder Ihr Dorf gebaut wird.",
+    "t": 417.13
+   },
+   {
+    "speaker": "Tom",
+    "text": "Das sind also Dinge, die ich jeden Tag sehe, wenn ich aus dem Haus gehe.",
+    "t": 427.77
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau. Und der Gemeinderat wird für sechs Jahre gewählt.",
+    "t": 431.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das bedeutet sechs Jahre Entscheidungen über den Ort, an dem Sie leben.",
+    "t": 435.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und in Luxemburg hat fast die Hälfte der Einwohner nicht die luxemburgische Staatsangehörigkeit.",
+    "t": 439.5
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, und in manchen Gemeinden sind sie die Mehrheit.",
+    "t": 445.1
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn sie nicht wählen, hat ein sehr großer Teil der Bevölkerung bei diesen Entscheidungen keine Stimme.",
+    "t": 448.37
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und bisher hat sich nur eine Minderheit von ihnen eingetragen.",
+    "t": 454.13
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genau deshalb gibt es diese Kampagne.",
+    "t": 457.46
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ihr Slogan für die Gemeindewahlen lautet: „Meine Stimme, meine Wahl, für die Zukunft meiner Gemeinde.\"",
+    "t": 459.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kann ich mehr tun als wählen?",
+    "t": 466.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Könnte ich selbst Kandidat sein?",
+    "t": 468.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, das können Sie!",
+    "t": 470.31
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können kandidieren, wenn Sie achtzehn sind und seit mindestens sechs Monaten in Ihrer Gemeinde wohnen.",
+    "t": 471.91
+   },
+   {
+    "speaker": "Anna",
+    "text": "Einwohner ohne luxemburgische Staatsangehörigkeit können Gemeinderatsmitglied, Schöffe oder sogar Bürgermeister werden.",
+    "t": 477.36
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und gibt es zwischen zwei Wahlen eine Möglichkeit, sich zu beteiligen?",
+    "t": 484.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, die gibt es.",
+    "t": 488.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Die Gemeinden haben eine Kommission für das interkulturelle Zusammenleben.",
+    "t": 490.11
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie berät den Gemeinderat, und Einwohner können Mitglied werden, egal welche Staatsangehörigkeit sie haben.",
+    "t": 493.98
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und wie ist es mit den Grenzgängern, die in einem anderen Land wohnen?",
+    "t": 500.14
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können hier nicht wählen, denn das Wahlrecht hängt vom Wohnort ab.",
+    "t": 503.86
+   },
+   {
+    "speaker": "Anna",
+    "text": "Aber sie können Mitglied dieser Kommission sein, in der Gemeinde, in der sie arbeiten.",
+    "t": 507.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und die Sitzungen des Gemeinderats sind öffentlich, nicht wahr?",
+    "t": 512.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ja, das sind sie.",
+    "t": 515.84
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie können einfach hingehen und zuhören, worüber Ihr Gemeinderat spricht.",
+    "t": 517.16
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fassen wir zusammen.",
+    "t": 521.18
+   },
+   {
+    "speaker": "Tom",
+    "text": "Was sollte man sich merken?",
+    "t": 522.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Erstens: Wenn Sie in Luxemburg wohnen und achtzehn sind, können Sie in Ihrer Gemeinde wählen, egal welche Staatsangehörigkeit Sie haben und wie lange Sie schon hier sind.",
+    "t": 524.08
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweitens: Bürger der Europäischen Union können hier auch bei den Europawahlen wählen.",
+    "t": 534.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drittens: Sie müssen sich eintragen, online auf MyGuichet Punkt l-u oder bei Ihrer Gemeinde, spätestens fünfundfünfzig Tage vor der Wahl.",
+    "t": 539.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und wer eingetragen ist, für den gilt die Wahlpflicht.",
+    "t": 548.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Und viertens: Sie können mehr tun.",
+    "t": 551.84
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kandidieren, in einer Kommission Ihrer Gemeinde mitarbeiten, oder einfach Ihrem Gemeinderat zuhören.",
+    "t": 554.34
+   },
+   {
+    "speaker": "Anna",
+    "text": "Alle Informationen finden Sie auf ichkannwaehlen Punkt l-u.",
+    "t": 560.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Sie leben hier, also zählt Ihre Stimme hier.",
+    "t": 564.65
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und zusammenleben heißt auch, zusammen entscheiden.",
+    "t": 567.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Das war unsere Folge über „Ich kann wählen\".",
+    "t": 570.95
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
+    "t": 573.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
+    "t": 582.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
+    "t": 600.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Und die Aktivitäten sind kostenlos.",
+    "t": 606.24
+   },
+   {
+    "speaker": "Anna",
+    "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
+    "t": 608.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "Danke an alle.",
+    "t": 613.38
+   },
+   {
+    "speaker": "Tom",
+    "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
+    "t": 614.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Vielen Dank fürs Zuhören.",
+    "t": 617.27
+   }
+  ],
+  "segments_lb": [
+   {
+    "speaker": "Anna",
+    "text": "Moien, a wëllkomm! Et ass wierklech schéin, Iech haut bei eis ze hunn.",
+    "t": 0.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Moien alleguer!",
+    "t": 4.45
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dëse Podcast ass Deel vum Biergerpakt. Dat ass e Programm vum Zesummeliewen zu Lëtzebuerg, organiséiert vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen. D'Iddi ass, den Awunner, an och de Grenzgänger, ze hëllefen, Lëtzebuerg z'entdecken — oder vläicht erëm z'entdecken — an nei Leit kennenzeléieren.",
+    "t": 5.58
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ech hunn eng Fro fir unzefänken, Anna. Wien decidéiert, ob et an Ärer Strooss eng nei Spillplaz gëtt, oder e Busarrêt bei Iech doheem?",
+    "t": 27.49
+   },
+   {
+    "speaker": "Anna",
+    "text": "Ech géif soen, meng Gemeng. De Gemengerot hëlt esou Decisiounen.",
+    "t": 34.01
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wie sicht d'Leit eraus, déi an deem Gemengerot sëtzen?",
+    "t": 38.48
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat maachen d'Awunner, bei de Gemengewalen. An dat ass haut eist Theema: d'Walrecht zu Lëtzebuerg, wann een net Lëtzebuerger ass, an de Site „Ech ka wielen\".",
+    "t": 41.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "D'Adress op Lëtzebuergesch ass echkawielen Punkt l-u. Ech ka wielen: den Numm seet alles.",
+    "t": 53.17
+   },
+   {
+    "speaker": "Anna",
+    "text": "De Site gëtt vum Ministère fir Famill, Solidaritéit, Zesummeliewen an Accueil vu Flüchtlingen bedriwwen. Et gëtt en a fënnef Sproochen: Franséisch, Däitsch, Englesch, Portugisesch a Lëtzebuergesch.",
+    "t": 58.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fänke mer mat der Basis un. Wéi eng Wale ginn et zu Lëtzebuerg?",
+    "t": 72.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ginn dräi wichteg Walen. D'Gemengewalen, fir de Rot vun Ärer Gemeng. D'Europawalen, fir d'Europaparlament. An d'Nationalwalen, fir d'Chamber.",
+    "t": 76.49
+   },
+   {
+    "speaker": "Tom",
+    "text": "A kann een ouni lëtzebuergesch Nationalitéit bei allen dräi wielen?",
+    "t": 88.68
+   },
+   {
+    "speaker": "Anna",
+    "text": "Net bei allen dräi. D'Nationalwale sinn nëmme fir Leit mat der lëtzebuergescher Nationalitéit. Mee déi zwou aner si fir vill méi Leit op, wéi ee mengt.",
+    "t": 93.27
+   },
+   {
+    "speaker": "Tom",
+    "text": "Huele mer fir d'éischt d'Gemengewalen. Wien däerf do wielen?",
+    "t": 102.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "All Erwuessenen, deen zu Lëtzebuerg wunnt, egal wéi eng Nationalitéit en huet. Europäer oder net, dat mécht keen Ënnerscheed.",
+    "t": 106.61
+   },
+   {
+    "speaker": "Tom",
+    "text": "Stëmmt dat wierklech? Ech hat geduecht, et misst een fir d'éischt e puer Joer hei wunnen.",
+    "t": 113.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat war déi al Reegel: fënnef Joer Residenz. Si gouf virun e puer Joer ofgeschaaft. Haut kënnt Dir Iech aschreiwen, soubal Dir hei wunnt.",
+    "t": 117.54
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wéi eng Konditioune gëllen dann haut?",
+    "t": 125.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et sinn der dräi. Dir hutt um Waldag op d'mannst uechtzéng Joer. Dir wunnt zu Lëtzebuerg. An Dir hutt Äert Walrecht net verluer, zum Beispill duerch en Uerteel vum Geriicht.",
+    "t": 127.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "A fir Leit aus Länner baussent der Europäescher Unioun an dem Schengen-Raum, gëtt et do nach eppes?",
+    "t": 137.42
+   },
+   {
+    "speaker": "Anna",
+    "text": "Nëmmen eng Saach: e gültegen Openthaltstitel oder eng gülteg Openthaltskaart. Leit, deenen hir Demande fir internationale Schutz nach leeft, kënne sech nach net aschreiwen. Soubal de Schutz accordéiert ass, kënne si et.",
+    "t": 142.65
+   },
+   {
+    "speaker": "Tom",
+    "text": "Et gëtt awer ee wichtegen Ënnerscheed zu de Lëtzebuerger.",
+    "t": 154.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo. Lëtzebuerger ginn automatesch op d'Wielerlëscht gesat, wa si uechtzéng ginn. All déi aner musse sech selwer aschreiwen. Keen mécht dat fir Iech.",
+    "t": 157.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wéi geet dat Aschreiwen an der Praxis?",
+    "t": 166.87
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ginn zwou Méiglechkeeten. Déi éischt ass online, op MyGuichet Punkt l-u, zum Beispill mat Ärem LuxTrust. Dat dauert nëmmen e puer Minutten.",
+    "t": 169.09
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wéi gesäit déi zweet Méiglechkeet aus?",
+    "t": 177.25
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dir gitt mat Ärer Identitéitskaart oder Ärem Pass op de Populatiounsbüro vun Ärer Gemeng an ënnerschreift eng kuerz Deklaratioun. Wann Dir en Openthaltstitel braucht, fir hei ze liewen, bréngt Dir deen och mat.",
+    "t": 178.68
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gëtt et eng Frist fir sech anzeschreiwen?",
+    "t": 190.12
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dir kënnt Iech dat ganzt Joer iwwer aschreiwen. Mee fir bei enger bestëmmter Wal ze wielen, musst Dir Iech spéitstens fënnefafofzeg Deeg virum Waldag aschreiwen.",
+    "t": 192
+   },
+   {
+    "speaker": "Tom",
+    "text": "Fënnefafofzeg Deeg: dat si bal zwee Méint virdrun.",
+    "t": 200.76
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genee, an dofir ass et eng gutt Iddi, net ze waarden. Wann Dir Iech haut aschreift, ass et gemaach, an et bleift gemaach.",
+    "t": 203.87
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wat mengt Dir domat, datt et gemaach bleift?",
+    "t": 211.32
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dir schreift Iech nëmmen eng Kéier an. Ären Numm bleift fir déi nächst Walen op der Lëscht, a wann Dir an eng aner Gemeng plënnert, plënnert Är Aschreiwung automatesch mat.",
+    "t": 213.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "Elo gëtt et eppes, wat ee wësse sollt, ier ee sech aschreift. Zu Lëtzebuerg ass Wielen obligatoresch.",
+    "t": 223
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dat stëmmt. Soubal Dir op der Lëscht stitt, ass Wielen net nëmmen e Recht. Et ass och eng Flicht, genee wéi fir d'Lëtzebuerger.",
+    "t": 228.63
+   },
+   {
+    "speaker": "Tom",
+    "text": "Gëllt déi Flicht fir ëmmer?",
+    "t": 236.83
+   },
+   {
+    "speaker": "Anna",
+    "text": "Neen. Dir kënnt Är Gemeng zu all Moment froen, Ären Numm vun der Lëscht ze huelen. A Leit iwwer fënnefasiwwenzeg si vun der Flicht befreit.",
+    "t": 238.69
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wat geschitt, wann ech um Waldag op der Rees sinn?",
+    "t": 245.85
+   },
+   {
+    "speaker": "Anna",
+    "text": "Da kënnt Dir per Bréifwal wielen. All ageschriwwene Wieler kann d'Bréifwal ufroen, online op MyGuichet Punkt l-u oder mat engem Bréif un d'Gemeng. Maacht d'Demande just fréi genuch, well et gi Fristen.",
+    "t": 248.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kéint ech einfach e Frënd oder mäi Partner froen, fir mech ze wielen?",
+    "t": 260.35
+   },
+   {
+    "speaker": "Anna",
+    "text": "Neen, dat ass net erlaabt. Zu Lëtzebuerg kann keen op Ärer Plaz wielen.",
+    "t": 263.2
+   },
+   {
+    "speaker": "Tom",
+    "text": "Vill Leit hunn nach eng aner Suerg. Wann ech hei a menger Gemeng wielen, wat ass da mat de Walen a mengem Hierkonftsland?",
+    "t": 268.07
+   },
+   {
+    "speaker": "Anna",
+    "text": "D'Gemengewalen hei si lokal: et geet ëm d'Plaz, wou Dir lieft. Fir all Fro iwwer d'Walen an Ärem Hierkonftsland ass Är Ambassade oder Äre Konsulat de richtege Kontakt.",
+    "t": 273.99
+   },
+   {
+    "speaker": "Tom",
+    "text": "Schwätze mer iwwer de Waldag selwer. Wéi leeft deen of?",
+    "t": 285.33
+   },
+   {
+    "speaker": "Anna",
+    "text": "E puer Deeg virdru schéckt Är Gemeng Iech e Bréif. Do stinn den Datum, de Walbüro an d'Ëffnungszäiten dran, an d'Lëscht vun de Kandidaten ass derbäi.",
+    "t": 288.42
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wat maachen ech um Dag selwer?",
+    "t": 298.57
+   },
+   {
+    "speaker": "Anna",
+    "text": "Dir gitt an Äre Walbüro, dee vun aacht Auer moies bis zwou Auer nomëttes op ass. Dir bréngt en Ausweis mat, gitt an d'Walkabinn a wielt geheim.",
+    "t": 300.23
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wéi vill Stëmmen hunn ech dann?",
+    "t": 310.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Esou vill, wéi et Sëtz an Ärem Gemengerot gëtt. A klenge Gemenge wielt Dir eenzel Persounen. A méi grousse Gemenge wielt Dir Lëschten, an Dir kënnt souguer Kandidate vu verschiddene Lëschte mëschen.",
+    "t": 311.94
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat kléngt e bësse komplizéiert.",
+    "t": 323.52
+   },
+   {
+    "speaker": "Anna",
+    "text": "Et ass méi einfach, wéi et kléngt. Um Site gëtt et e kuerze Video, dee weist, wéi een de Stëmmziedel richteg ausfëllt.",
+    "t": 325.31
+   },
+   {
+    "speaker": "Tom",
+    "text": "Komme mer bei d'Europawalen. Wie kann do wielen?",
+    "t": 332.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Bierger vun der Europäescher Unioun, déi zu Lëtzebuerg wunnen. Si hunn de Choix: hei fir déi lëtzebuergesch Deputéiert am Europaparlament stëmmen, oder fir d'Kandidate vun hirem Hierkonftsland.",
+    "t": 335.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "Mee béides zesumme geet net, huelen ech un.",
+    "t": 346.7
+   },
+   {
+    "speaker": "Anna",
+    "text": "Neen. All Persoun wielt nëmmen eng Kéier, an engem eenzege Land.",
+    "t": 348.77
+   },
+   {
+    "speaker": "Tom",
+    "text": "An ass d'Aschreiwung déi selwecht wéi fir d'Gemengewalen?",
+    "t": 352.15
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si geet op déi selwecht Manéier, mee et ass eng eege Lëscht. Wann Dir bei béide Wale wiele wëllt, schreift Dir Iech fir béid an.",
+    "t": 355.34
+   },
+   {
+    "speaker": "Tom",
+    "text": "Wéini sinn déi nächst Walen?",
+    "t": 361.69
+   },
+   {
+    "speaker": "Anna",
+    "text": "Déi nächst Gemengewalen an déi nächst Europawale si béid fir 2029 geplangt. Dat schéngt vläicht wäit ewech, mee Dir kënnt Iech elo schonn aschreiwen.",
+    "t": 363.73
+   },
+   {
+    "speaker": "Tom",
+    "text": "Ech stellen d'Fro, déi vill Nolauschterer am Kapp hunn. Firwat soll ech wielen? Ech sinn dach nëmmen eng eenzeg Persoun.",
+    "t": 373.2
+   },
+   {
+    "speaker": "Anna",
+    "text": "Denkt drun, wat eng Gemeng decidéiert. Schoulgebaier a Kannerbetreiung, Stroossen a Vëlosweeër, Waasser an Offall, Sport a Kultur, an d'Aart a Weis, wéi Är Stad oder Äert Duerf gebaut gëtt.",
+    "t": 378.95
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dat sinn also Saachen, déi ech all Dag gesinn, wann ech aus dem Haus ginn.",
+    "t": 390.19
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genee. An de Gemengerot gëtt fir sechs Joer gewielt. Dat heescht sechs Joer Decisiounen iwwer d'Plaz, wou Dir lieft.",
+    "t": 393.56
+   },
+   {
+    "speaker": "Tom",
+    "text": "An zu Lëtzebuerg huet bal d'Hallschent vun den Awunner net déi lëtzebuergesch Nationalitéit.",
+    "t": 400.67
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, an a munche Gemenge si si d'Majoritéit. Wa si net wielen, huet e ganz groussen Deel vun der Bevëlkerung keng Stëmm bei dësen Decisiounen.",
+    "t": 405.5
+   },
+   {
+    "speaker": "Tom",
+    "text": "A bis elo huet sech nëmmen eng Minoritéit vun hinnen ageschriwwen.",
+    "t": 414.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Genee dofir gëtt et dës Campagne. Hire Slogan fir d'Gemengewalen ass: „Meng Stëmm, mäi Choix, fir d'Zukunft vu menger Gemeng.\"",
+    "t": 417.41
+   },
+   {
+    "speaker": "Tom",
+    "text": "Kann ech méi maache wéi wielen? Kéint ech selwer Kandidat sinn?",
+    "t": 428.21
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, dat kënnt Dir! Dir kënnt kandidéieren, wann Dir uechtzéng sidd an zënter op d'mannst sechs Méint an Ärer Gemeng wunnt. Awunner ouni lëtzebuergesch Nationalitéit kënne Gemengeconseiller, Schäffen oder souguer Buergermeeschter ginn.",
+    "t": 431.35
+   },
+   {
+    "speaker": "Tom",
+    "text": "A gëtt et tëschent zwou Walen eng Méiglechkeet, fir matzemaachen?",
+    "t": 444.54
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, déi gëtt et. D'Gemengen hunn eng Kommissioun fir dat interkulturellt Zesummeliewen. Si beréit de Gemengerot, an Awunner kënne Member ginn, egal wéi eng Nationalitéit si hunn.",
+    "t": 447.43
+   },
+   {
+    "speaker": "Tom",
+    "text": "A wéi ass et mat de Grenzgänger, déi an engem anere Land wunnen?",
+    "t": 457.3
+   },
+   {
+    "speaker": "Anna",
+    "text": "Si kënnen hei net wielen, well d'Walrecht dovun ofhänkt, wou ee wunnt. Mee si kënne Member vun där Kommissioun sinn, an der Gemeng, an där si schaffen.",
+    "t": 460.32
+   },
+   {
+    "speaker": "Tom",
+    "text": "An d'Sëtzunge vum Gemengerot sinn ëffentlech, oder?",
+    "t": 467.93
+   },
+   {
+    "speaker": "Anna",
+    "text": "Jo, dat si se. Dir kënnt einfach higoen an nolauschteren, iwwer wat Äre Gemengerot schwätzt.",
+    "t": 470.8
+   },
+   {
+    "speaker": "Tom",
+    "text": "Faasse mer zesummen. Wat soll ee sech mierken?",
+    "t": 475.04
+   },
+   {
+    "speaker": "Anna",
+    "text": "Éischtens: wann Dir zu Lëtzebuerg wunnt an uechtzéng sidd, kënnt Dir an Ärer Gemeng wielen, egal wéi eng Nationalitéit Dir hutt a wéi laang Dir schonn hei sidd.",
+    "t": 478.02
+   },
+   {
+    "speaker": "Tom",
+    "text": "Zweetens: Bierger vun der Europäescher Unioun kënnen hei och bei den Europawale wielen.",
+    "t": 486.96
+   },
+   {
+    "speaker": "Anna",
+    "text": "Drëttens: Dir musst Iech aschreiwen, online op MyGuichet Punkt l-u oder op Ärer Gemeng, spéitstens fënnefafofzeg Deeg virun der Wal. A wien ageschriwwen ass, fir dee gëllt d'Walflicht.",
+    "t": 491.71
+   },
+   {
+    "speaker": "Tom",
+    "text": "A véiertens: Dir kënnt méi maachen. Kandidéieren, an enger Kommissioun vun Ärer Gemeng matschaffen, oder einfach Ärem Gemengerot nolauschteren.",
+    "t": 504.39
+   },
+   {
+    "speaker": "Anna",
+    "text": "All d'Informatioune fannt Dir op echkawielen Punkt l-u.",
+    "t": 511.03
+   },
+   {
+    "speaker": "Tom",
+    "text": "Dir lieft hei, also zielt Är Stëmm hei.",
+    "t": 514.55
+   },
+   {
+    "speaker": "Anna",
+    "text": "An zesumme liewen heescht och zesummen decidéieren. Dat war eis Episode iwwer „Ech ka wielen\". Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
+    "t": 516.67
+   },
+   {
+    "speaker": "Tom",
+    "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
+    "t": 563.58
+   },
+   {
+    "speaker": "Anna",
+    "text": "Villmools Merci fir d'Nolauschteren.",
+    "t": 566.89
+   }
+  ]
  }
 ];

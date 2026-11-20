@@ -9,27 +9,27 @@
 **ANNA:** Bonjour et bienvenue ! C'est vraiment un plaisir de vous avoir avec nous aujourd'hui.
 **TOM:** Bonjour à tous !
 **ANNA:** Ce podcast fait partie du Biergerpakt. C'est un programme du vivre-ensemble au Luxembourg, organisé par le Ministère de la Famille, des Solidarités, du Vivre ensemble et de l'Accueil. L'idée est d'aider les résidents, et aussi les frontaliers, à découvrir le Luxembourg — ou peut-être à le redécouvrir — et à rencontrer de nouvelles personnes.
-**TOM:** Et le sujet d'aujourd'hui est plein d'espoir... l'idée que nous n'arrêtons jamais d'apprendre.
+**TOM:** Et le sujet d'aujourd'hui est plein d'espoir, l'idée que nous n'arrêtons jamais d'apprendre.
 **ANNA:** L'école n'est qu'un début. L'apprentissage peut se poursuivre toute notre vie.
 **TOM:** Un nouvel emploi, une promotion, une reconversion, une nouvelle langue, ou simplement une passion à suivre.
 **ANNA:** Peut-être avez-vous manqué un diplôme lorsque vous étiez plus jeune. Peut-être votre secteur est-il en pleine évolution. Peut-être venez-vous d'arriver ici.
 **TOM:** Quelle que soit votre histoire, il existe un chemin pour avancer. Et au Luxembourg, il y a un endroit qui rassemble tout cela.
 **ANNA:** C'est le portail de la formation tout au long de la vie. Le site est lifelong tiret learning point lu.
-**TOM:** Sa devise le dit avec justesse... « développez vos compétences tout au long de la vie ».
+**TOM:** Sa devise le dit avec justesse, « développez vos compétences tout au long de la vie ».
 **ANNA:** Alors Tom, qu'est-ce que c'est exactement, ce portail ?
 **TOM:** C'est le portail national de la formation continue, géré par l'institut national pour le développement de la formation professionnelle continue, l'INFPC.
 **ANNA:** Et son cœur, c'est un immense catalogue de formations.
 **TOM:** Nous parlons de plus de dix mille formations, proposées par plus de trois cents prestataires de formation agréés.
 **ANNA:** Tout est rassemblé en un seul endroit, pour que vous n'ayez pas à chercher partout sur Internet.
 **TOM:** Et comme les prestataires sont agréés, vous savez que l'offre est sérieuse et fiable.
-**ANNA:** Vous pouvez aussi y faire des recherches de manière astucieuse... par thème, ou par le métier que vous aimeriez exercer.
+**ANNA:** Vous pouvez aussi y faire des recherches de manière astucieuse, par thème, ou par le métier que vous aimeriez exercer.
 **TOM:** Vous pouvez donc partir de ce qui vous intéresse, ou de la direction que vous voulez donner à votre carrière.
 **ANNA:** De quels types de sujets parlons-nous ?
 **TOM:** De toutes sortes ! L'informatique et la technologie, les langues, la gestion d'entreprise et les ressources humaines, la finance et le droit.
 **ANNA:** Et le développement personnel, la qualité et la sécurité, la gestion de projet, et bien plus encore.
 **TOM:** Quel que soit ce que vous voulez apprendre, il y a de fortes chances que vous trouviez une formation pour cela.
 **ANNA:** Le portail est conçu pour trois groupes de personnes. Passons-les en revue.
-**TOM:** D'abord, les particuliers... des personnes comme vous et moi, qui cherchent à apprendre ou à évoluer.
+**TOM:** D'abord, les particuliers, des personnes comme vous et moi, qui cherchent à apprendre ou à évoluer.
 **ANNA:** Ensuite, les entreprises, qui veulent former leurs équipes et maintenir leurs compétences à jour.
 **TOM:** Et troisièmement, les professionnels de la formation, les personnes et les organismes qui assurent réellement les formations.
 **ANNA:** Concentrons-nous d'abord sur les particuliers, car il y a quelque chose de puissant ici.
@@ -40,7 +40,7 @@
 **TOM:** Il y a aussi le brevet de maîtrise, qui permet aux travailleurs qualifiés de diriger leur propre entreprise et de former des apprentis.
 **ANNA:** Donc, si la vie a fait que vous avez manqué une qualification plus tôt, il y a une vraie deuxième chance de l'obtenir maintenant.
 **TOM:** Et cela compte, car un diplôme peut ouvrir des portes qui restent fermées sans lui.
-**ANNA:** Voici maintenant quelque chose que je trouve vraiment merveilleux... la validation des acquis de l'expérience.
+**ANNA:** Voici maintenant quelque chose que je trouve vraiment merveilleux, la validation des acquis de l'expérience.
 **TOM:** C'est pour les personnes qui ont énormément appris grâce à leur travail et à leur vie, mais qui n'ont aucun diplôme pour le prouver.
 **ANNA:** Pensez à quelqu'un qui a exercé un métier avec expertise pendant quinze ans, mais qui n'a jamais eu le papier pour le prouver.
 **TOM:** Grâce à ce processus, cette expérience réelle peut être évaluée et transformée en diplôme officiel.
@@ -48,7 +48,7 @@
 **TOM:** C'est une façon d'honorer ce que les gens savent déjà, et pas seulement ce pour quoi ils ont passé des examens. C'est puissant.
 **ANNA:** Maintenant, apprendre coûte du temps, et parfois de l'argent. Alors parlons des aides disponibles.
 **TOM:** Pour les particuliers, il existe des types particuliers de congés payés, uniquement pour suivre une formation.
-**ANNA:** Le principal est le congé individuel de formation, qui vous permet de prendre des jours de congé payés pour apprendre... jusqu'à quatre-vingts jours sur toute votre carrière.
+**ANNA:** Le principal est le congé individuel de formation, qui vous permet de prendre des jours de congé payés pour apprendre, jusqu'à quatre-vingts jours sur toute votre carrière.
 **TOM:** Il y a aussi un congé linguistique spécial pour apprendre le luxembourgeois, ce qui est merveilleux pour quiconque veut se sentir davantage chez soi ici.
 **ANNA:** Vous pouvez donc prendre le temps d'étudier, sans perdre la totalité de vos revenus pendant ce temps.
 **TOM:** Il y a plus encore. Certains frais de formation peuvent être déduits de vos impôts.
@@ -58,13 +58,13 @@
 **TOM:** Et ce ne sont pas seulement les particuliers qui bénéficient d'un soutien. Les entreprises aussi.
 **ANNA:** Oui. L'État aide à cofinancer la formation que les entreprises offrent à leur personnel.
 **TOM:** Ainsi, les entreprises sont encouragées à investir dans leurs collaborateurs, et tout le pays gagne en compétences.
-**ANNA:** C'est un effort partagé... le salarié, l'entreprise et l'État, qui investissent tous ensemble dans les compétences.
+**ANNA:** C'est un effort partagé, le salarié, l'entreprise et l'État, qui investissent tous ensemble dans les compétences.
 **TOM:** Parlons de la raison pour laquelle cela compte tant, en ce moment précis.
-**ANNA:** Le monde change vite... de nouvelles technologies, la transition verte, de nouvelles façons de travailler.
+**ANNA:** Le monde change vite, de nouvelles technologies, la transition verte, de nouvelles façons de travailler.
 **TOM:** Les emplois évoluent, et certaines tâches que les gens accomplissent aujourd'hui seront réalisées différemment demain.
-**ANNA:** Le portail met même en avant les compétences de l'avenir... les compétences numériques, les compétences vertes et les compétences relationnelles.
+**ANNA:** Le portail met même en avant les compétences de l'avenir, les compétences numériques, les compétences vertes et les compétences relationnelles.
 **TOM:** Les compétences numériques nous aident à travailler avec de nouveaux outils. Les compétences vertes nous aident à travailler de manière plus durable.
-**ANNA:** Et les compétences relationnelles désignent des choses comme la communication, le travail d'équipe et l'adaptabilité... des compétences humaines qui ne se démodent jamais.
+**ANNA:** Et les compétences relationnelles désignent des choses comme la communication, le travail d'équipe et l'adaptabilité, des compétences humaines qui ne se démodent jamais.
 **TOM:** Garder nos compétences à jour, c'est ainsi que nous restons confiants, employables, et ouverts à de nouvelles occasions.
 **ANNA:** Et il ne s'agit pas seulement d'emploi. Il y a une vraie joie à apprendre quelque chose de nouveau à tout âge.
 **TOM:** Apprendre une langue pour parler avec de nouveaux voisins. Se mettre à un métier manuel. Comprendre un peu mieux le monde.
@@ -88,20 +88,20 @@
 **TOM:** Et vous n'êtes pas obligé de tout faire d'un coup. Une formation, une étape, une petite compétence à la fois.
 **ANNA:** Tout expert a un jour été un débutant. Et chaque nouvelle compétence est une porte que vous ouvrez pour votre futur vous.
 **TOM:** Alors rendons cela vraiment concret. Que peuvent faire les gens avec tout cela ?
-**ANNA:** D'abord, parcourez le catalogue sur lifelong tiret learning point lu... cherchez par thème, ou par le métier que vous voulez.
+**ANNA:** D'abord, parcourez le catalogue sur lifelong tiret learning point lu, cherchez par thème, ou par le métier que vous voulez.
 **TOM:** Deuxièmement, si vous avez de l'expérience mais pas de diplôme, renseignez-vous sur la validation de cette expérience.
 **ANNA:** Troisièmement, avant de vous inscrire, vérifiez les aides financières, comme le congé de formation, les déductions fiscales et les bons.
 **TOM:** Et quatrièmement, si vous ne savez pas trop par où commencer, demandez un bilan de compétences, ou un accompagnement.
 **ANNA:** Rassemblons tout cela. Que faut-il retenir ?
-**TOM:** Premièrement... lifelong tiret learning point lu est le portail national luxembourgeois de la formation continue, géré par l'INFPC.
-**ANNA:** Deuxièmement... il offre un immense catalogue de formations, et même des parcours vers de vrais diplômes reconnus à l'âge adulte.
-**TOM:** Troisièmement... vous pouvez faire valider votre expérience de vie en diplôme, et obtenir une aide financière, y compris un congé de formation payé.
-**ANNA:** Et quatrièmement... il offre un accompagnement, un bilan de compétences et des deuxièmes chances, pour que chacun puisse trouver son prochain pas.
+**TOM:** Premièrement, lifelong tiret learning point lu est le portail national luxembourgeois de la formation continue, géré par l'INFPC.
+**ANNA:** Deuxièmement, il offre un immense catalogue de formations, et même des parcours vers de vrais diplômes reconnus à l'âge adulte.
+**TOM:** Troisièmement, vous pouvez faire valider votre expérience de vie en diplôme, et obtenir une aide financière, y compris un congé de formation payé.
+**ANNA:** Et quatrièmement, il offre un accompagnement, un bilan de compétences et des deuxièmes chances, pour que chacun puisse trouver son prochain pas.
 **TOM:** L'apprentissage est l'une des grandes joies, et l'un des grands égalisateurs, de la vie.
 **ANNA:** Il peut faire décoller une carrière, reconstruire la confiance, et ouvrir un tout nouveau chapitre, à tout âge.
 **TOM:** Et au Luxembourg, la porte qui y mène est ouverte, pour tout le monde, dès que vous êtes prêt à la franchir.
-**ANNA:** Alors s'il y a quelque chose que vous avez toujours voulu apprendre... peut-être qu'aujourd'hui est le jour pour commencer. C'était notre épisode sur la formation tout au long de la vie. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
-**TOM:** Merci à tous. Prenez soin de vous... et à la prochaine !
+**ANNA:** Alors s'il y a quelque chose que vous avez toujours voulu apprendre, peut-être qu'aujourd'hui est le jour pour commencer. C'était notre épisode sur la formation tout au long de la vie. Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes. Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées. Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers. Et les activités sont gratuites. Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.
+**TOM:** Merci à tous. Prenez soin de vous, et à la prochaine !
 **ANNA:** Merci beaucoup de nous avoir écoutés.
 
 ---

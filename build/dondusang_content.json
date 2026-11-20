@@ -1,0 +1,215 @@
+{
+ "en": {
+  "title": "Giving Blood in Luxembourg – dondusang.lu",
+  "description": "Blood cannot be manufactured: hospitals depend on donors. Discover how blood donation works in Luxembourg with the Red Cross website dondusang.lu: who can give, how a donation goes step by step, plasma, where and when to give, and how to help without giving.",
+  "topics": [
+   "Why hospitals need blood",
+   "The Luxembourg Red Cross",
+   "Who can give blood",
+   "Waiting times after a tattoo or a trip",
+   "A donation, step by step",
+   "Giving plasma",
+   "Where and when to give",
+   "Other ways to help"
+  ],
+  "questions": [
+   {
+    "text": "Which organisation collects blood in Luxembourg?",
+    "options": [
+     "The National Health Fund, the CNS",
+     "Each hospital, for its own patients",
+     "The Luxembourg Red Cross",
+     "The laboratory of the Ministry of Health"
+    ],
+    "correct": 2,
+    "explanation": "The Luxembourg Red Cross is the only organisation in Luxembourg that collects blood and prepares it for the hospitals. Its website for donors is dondusang.lu."
+   },
+   {
+    "text": "What is the basic rule for giving blood?",
+    "options": [
+     "Good health, at least 18 years old, more than 50 kilos",
+     "Good health, at least 16 years old, more than 45 kilos",
+     "Good health, at least 21 years old, more than 60 kilos",
+     "Good health, at least 25 years old, more than 70 kilos"
+    ],
+    "correct": 0,
+    "explanation": "Anyone in good health, aged at least 18 and weighing more than 50 kilos can in principle give blood. The first donation takes place before the age of 60. A short medical conversation on the day decides."
+   },
+   {
+    "text": "How long do you have to wait after a new tattoo or a piercing?",
+    "options": [
+     "Two days",
+     "Two weeks",
+     "Four months",
+     "Two years"
+    ],
+    "correct": 2,
+    "explanation": "After a tattoo or a piercing, you wait four months. The website dondusang.lu has a page with all the waiting times, for example after a trip, an illness or a treatment."
+   },
+   {
+    "text": "How long does the blood donation itself take?",
+    "options": [
+     "About one minute",
+     "About ten minutes",
+     "About one hour",
+     "About three hours"
+    ],
+    "correct": 1,
+    "explanation": "The donation itself takes about ten minutes. With the reception, the conversation and the rest with a snack afterwards, plan about one hour."
+   },
+   {
+    "text": "Why can plasma be given more often than blood?",
+    "options": [
+     "Because plasma is taken from the finger only",
+     "Because plasma donors are paid every time",
+     "Because plasma is not tested afterwards",
+     "Because the blood cells are given back to you"
+    ],
+    "correct": 3,
+    "explanation": "During a plasma donation, a machine separates the plasma and your blood cells are given back to you. That's why you can give plasma once a month, while blood can be given every three months by men and every four months by women."
+   }
+  ]
+ },
+ "fr": {
+  "title": "Donner son sang au Luxembourg – dondusang.lu",
+  "description": "Le sang ne se fabrique pas : les hôpitaux dépendent des donneurs. Découvrez comment fonctionne le don de sang au Luxembourg avec le site de la Croix-Rouge dondusang.lu : qui peut donner, le don étape par étape, le plasma, où et quand donner, et comment aider sans donner.",
+  "topics": [
+   "Pourquoi les hôpitaux ont besoin de sang",
+   "La Croix-Rouge luxembourgeoise",
+   "Qui peut donner son sang",
+   "Les délais après un tatouage ou un voyage",
+   "Le don, étape par étape",
+   "Le don de plasma",
+   "Où et quand donner",
+   "D'autres façons d'aider"
+  ],
+  "questions": [
+   {
+    "text": "Quelle organisation collecte le sang au Luxembourg ?",
+    "options": [
+     "La Caisse nationale de santé, la CNS",
+     "Chaque hôpital, pour ses propres patients",
+     "La Croix-Rouge luxembourgeoise",
+     "Le laboratoire du ministère de la Santé"
+    ],
+    "correct": 2,
+    "explanation": "La Croix-Rouge luxembourgeoise est la seule organisation au Luxembourg qui collecte le sang et le prépare pour les hôpitaux. Son site pour les donneurs est dondusang.lu."
+   },
+   {
+    "text": "Quelle est la règle de base pour donner son sang ?",
+    "options": [
+     "Être en bonne santé, avoir au moins 18 ans, peser plus de 50 kilos",
+     "Être en bonne santé, avoir au moins 16 ans, peser plus de 45 kilos",
+     "Être en bonne santé, avoir au moins 21 ans, peser plus de 60 kilos",
+     "Être en bonne santé, avoir au moins 25 ans, peser plus de 70 kilos"
+    ],
+    "correct": 0,
+    "explanation": "Toute personne en bonne santé, âgée d'au moins 18 ans et pesant plus de 50 kilos peut en principe donner son sang. Le premier don se fait avant 60 ans. Un court entretien médical le jour même décide."
+   },
+   {
+    "text": "Combien de temps faut-il attendre après un nouveau tatouage ou un piercing ?",
+    "options": [
+     "Deux jours",
+     "Deux semaines",
+     "Quatre mois",
+     "Deux ans"
+    ],
+    "correct": 2,
+    "explanation": "Après un tatouage ou un piercing, on attend quatre mois. Le site dondusang.lu a une page avec tous les délais, par exemple après un voyage, une maladie ou un traitement."
+   },
+   {
+    "text": "Combien de temps dure le don de sang lui-même ?",
+    "options": [
+     "Environ une minute",
+     "Environ dix minutes",
+     "Environ une heure",
+     "Environ trois heures"
+    ],
+    "correct": 1,
+    "explanation": "Le don lui-même dure environ dix minutes. Avec l'accueil, l'entretien et le repos avec une collation après le don, comptez environ une heure."
+   },
+   {
+    "text": "Pourquoi peut-on donner du plasma plus souvent que du sang ?",
+    "options": [
+     "Parce que le plasma est prélevé seulement au doigt",
+     "Parce que les donneurs de plasma sont payés à chaque fois",
+     "Parce que le plasma n'est pas analysé ensuite",
+     "Parce que les cellules sanguines vous sont rendues"
+    ],
+    "correct": 3,
+    "explanation": "Pendant un don de plasma, une machine sépare le plasma et vos cellules sanguines vous sont rendues. C'est pour cela qu'on peut donner du plasma une fois par mois, alors que le sang se donne tous les trois mois pour les hommes et tous les quatre mois pour les femmes."
+   }
+  ]
+ },
+ "de": {
+  "title": "Blut spenden in Luxemburg – dondusang.lu",
+  "description": "Blut kann man nicht künstlich herstellen: Die Krankenhäuser sind auf Spender angewiesen. Entdecken Sie, wie die Blutspende in Luxemburg funktioniert, mit der Website des Roten Kreuzes dondusang.lu: wer spenden kann, die Spende Schritt für Schritt, Plasma, wo und wann man spenden kann, und wie man hilft, ohne zu spenden.",
+  "topics": [
+   "Warum Krankenhäuser Blut brauchen",
+   "Das Luxemburger Rote Kreuz",
+   "Wer Blut spenden kann",
+   "Wartezeiten nach Tattoo oder Reise",
+   "Die Spende, Schritt für Schritt",
+   "Die Plasmaspende",
+   "Wo und wann man spenden kann",
+   "Andere Wege zu helfen"
+  ],
+  "questions": [
+   {
+    "text": "Welche Organisation sammelt in Luxemburg Blut?",
+    "options": [
+     "Die nationale Gesundheitskasse, die CNS",
+     "Jedes Krankenhaus, für seine eigenen Patienten",
+     "Das Luxemburger Rote Kreuz",
+     "Das Labor des Gesundheitsministeriums"
+    ],
+    "correct": 2,
+    "explanation": "Das Luxemburger Rote Kreuz ist die einzige Organisation in Luxemburg, die Blut sammelt und für die Krankenhäuser aufbereitet. Seine Website für Spender ist dondusang.lu."
+   },
+   {
+    "text": "Was ist die Grundregel für die Blutspende?",
+    "options": [
+     "Gesund sein, mindestens 18 Jahre alt, mehr als 50 Kilo",
+     "Gesund sein, mindestens 16 Jahre alt, mehr als 45 Kilo",
+     "Gesund sein, mindestens 21 Jahre alt, mehr als 60 Kilo",
+     "Gesund sein, mindestens 25 Jahre alt, mehr als 70 Kilo"
+    ],
+    "correct": 0,
+    "explanation": "Wer gesund ist, mindestens 18 Jahre alt ist und mehr als 50 Kilo wiegt, kann in der Regel Blut spenden. Die erste Spende erfolgt vor dem 60. Lebensjahr. Ein kurzes medizinisches Gespräch am Tag selbst entscheidet."
+   },
+   {
+    "text": "Wie lange muss man nach einem neuen Tattoo oder einem Piercing warten?",
+    "options": [
+     "Zwei Tage",
+     "Zwei Wochen",
+     "Vier Monate",
+     "Zwei Jahre"
+    ],
+    "correct": 2,
+    "explanation": "Nach einem Tattoo oder einem Piercing wartet man vier Monate. Die Website dondusang.lu hat eine Seite mit allen Wartezeiten, zum Beispiel nach einer Reise, einer Krankheit oder einer Behandlung."
+   },
+   {
+    "text": "Wie lange dauert die Blutspende selbst?",
+    "options": [
+     "Etwa eine Minute",
+     "Etwa zehn Minuten",
+     "Etwa eine Stunde",
+     "Etwa drei Stunden"
+    ],
+    "correct": 1,
+    "explanation": "Die Spende selbst dauert etwa zehn Minuten. Mit dem Empfang, dem Gespräch und der Ruhepause mit einem Imbiss danach sollte man etwa eine Stunde einplanen."
+   },
+   {
+    "text": "Warum kann man Plasma öfter spenden als Blut?",
+    "options": [
+     "Weil Plasma nur am Finger abgenommen wird",
+     "Weil Plasmaspender jedes Mal bezahlt werden",
+     "Weil Plasma danach nicht untersucht wird",
+     "Weil man die Blutzellen zurückbekommt"
+    ],
+    "correct": 3,
+    "explanation": "Bei einer Plasmaspende trennt eine Maschine das Plasma ab, und Ihre Blutzellen bekommen Sie zurück. Deshalb kann man einmal im Monat Plasma spenden, während Männer alle drei Monate und Frauen alle vier Monate Blut spenden können."
+   }
+  ]
+ }
+}
