@@ -521,3 +521,4 @@ New episode (Jacques: "another episode about the platform 'I can vote' and the r
 ## Working folder for audio builds: `EL_TMP` (20 Nov 2026)
 
 Several sessions share the VM's /tmp; folders another session created there (`/tmp/<key>_el_seg`, `/tmp/voice_qc_<key>_<lang>.json`) are read-only for the next one (`Permission denied` on rmtree). `tts_elevenlabs.py`, `el_run_batch.py`, `voice_qc.py`, `best_take.py` and `replace_audio_elevenlabs.js` now take `EL_TMP=<dir>` (default /tmp), e.g. `mkdir -p /tmp/s2 && export EL_TMP=/tmp/s2`, and use it for all of these files. (lux_en_vs_fr.py / match_pron.py / pick_word_take.py / last_word_take.py only read the cache, not /tmp.)
+- Second pitch check (20 Nov, later): only a few outliers left; retakes EN 1 ("It takes only a few minutes."), FR 2; ≈ 300 credits.

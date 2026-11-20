@@ -109365,7 +109365,7 @@ const EPISODES = [
   "title": "I Can Vote – Your Voice in Your Commune",
   "description": "You live in Luxembourg but you are not a Luxembourger? You can still vote in your commune, and EU citizens can vote in the European elections too. Discover the website icanvote.lu: who can vote, how to register, and how to take part in local life.",
   "audio": "podcast_jepeuxvoter.mp3",
-  "duration": 569.68,
+  "duration": 569.76,
   "topics": [
    "The three elections in Luxembourg",
    "Who can vote in the commune",
@@ -109605,512 +109605,512 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "And what is the second way?",
-    "t": 177.89
+    "t": 177.96
    },
    {
     "speaker": "Anna",
     "text": "You go to the population office of your commune with your identity card or your passport, and you sign a short declaration.",
-    "t": 179.32
+    "t": 179.39
    },
    {
     "speaker": "Anna",
     "text": "If you need a residence permit to live here, you bring that too.",
-    "t": 187.15
+    "t": 187.22
    },
    {
     "speaker": "Tom",
     "text": "Is there a deadline for registering?",
-    "t": 190.76
+    "t": 190.83
    },
    {
     "speaker": "Anna",
     "text": "You can register at any time of the year.",
-    "t": 192.64
+    "t": 192.71
    },
    {
     "speaker": "Anna",
     "text": "But to vote in a particular election, you must register at the latest fifty-five days before election day.",
-    "t": 195
+    "t": 195.07
    },
    {
     "speaker": "Tom",
     "text": "Fifty-five days: that is almost two months before.",
-    "t": 201.4
+    "t": 201.47
    },
    {
     "speaker": "Anna",
     "text": "Exactly, and that is why it is a good idea not to wait.",
-    "t": 204.51
+    "t": 204.58
    },
    {
     "speaker": "Anna",
     "text": "If you register today, it's done, and it stays done.",
-    "t": 208.42
+    "t": 208.49
    },
    {
     "speaker": "Tom",
     "text": "What do you mean when you say it stays done?",
-    "t": 212.31
+    "t": 212.38
    },
    {
     "speaker": "Anna",
     "text": "You register only once.",
-    "t": 214.55
+    "t": 214.62
    },
    {
     "speaker": "Anna",
     "text": "Your name stays on the list for the following elections, and if you move to another commune, your registration moves with you automatically.",
-    "t": 216.19
+    "t": 216.26
    },
    {
     "speaker": "Tom",
     "text": "Now, there is something people should know before they register.",
-    "t": 223.99
+    "t": 224.06
    },
    {
     "speaker": "Tom",
     "text": "In Luxembourg, voting is compulsory.",
-    "t": 226.82
+    "t": 226.89
    },
    {
     "speaker": "Anna",
     "text": "That's right. Once you are on the list, voting is not only a right.",
-    "t": 229.62
+    "t": 229.69
    },
    {
     "speaker": "Anna",
     "text": "It is also a duty, exactly as it is for Luxembourgers.",
-    "t": 233.89
+    "t": 233.96
    },
    {
     "speaker": "Tom",
     "text": "Does that obligation last forever?",
-    "t": 237.82
+    "t": 237.89
    },
    {
     "speaker": "Anna",
     "text": "No. You can ask your commune to take your name off the list at any time.",
-    "t": 239.68
+    "t": 239.75
    },
    {
     "speaker": "Anna",
     "text": "And people over seventy-five are excused.",
-    "t": 243.99
+    "t": 244.06
    },
    {
     "speaker": "Tom",
     "text": "And what happens if I am travelling on election day?",
-    "t": 246.84
+    "t": 246.91
    },
    {
     "speaker": "Anna",
     "text": "Then you can vote by post.",
-    "t": 249.49
+    "t": 249.56
    },
    {
     "speaker": "Anna",
     "text": "Every registered voter can ask for a postal vote, online on MyGuichet dot l-u or with a letter to the commune.",
-    "t": 251.37
+    "t": 251.44
    },
    {
     "speaker": "Anna",
     "text": "Just ask early enough, because there are deadlines.",
-    "t": 258.1
+    "t": 258.17
    },
    {
     "speaker": "Tom",
     "text": "Could I simply ask a friend or my partner to vote for me?",
-    "t": 261.34
+    "t": 261.41
    },
    {
     "speaker": "Anna",
     "text": "No, that is not allowed.",
-    "t": 264.19
+    "t": 264.26
    },
    {
     "speaker": "Anna",
     "text": "In Luxembourg, nobody can vote in your place.",
-    "t": 265.97
+    "t": 266.04
    },
    {
     "speaker": "Tom",
     "text": "Many people have another worry.",
-    "t": 269.06
+    "t": 269.13
    },
    {
     "speaker": "Tom",
     "text": "If I vote in my commune here, what about the elections in my country of origin?",
-    "t": 270.81
+    "t": 270.88
    },
    {
     "speaker": "Anna",
     "text": "The municipal elections here are local: they concern the place where you live.",
-    "t": 274.98
+    "t": 275.05
    },
    {
     "speaker": "Anna",
     "text": "For any question about elections in your country of origin, your embassy or your consulate is the right contact.",
-    "t": 279.47
+    "t": 279.54
    },
    {
     "speaker": "Tom",
     "text": "Let's talk about election day itself.",
-    "t": 286.32
+    "t": 286.39
    },
    {
     "speaker": "Tom",
     "text": "How does it work?",
-    "t": 288.14
+    "t": 288.21
    },
    {
     "speaker": "Anna",
     "text": "A few days before, your commune sends you a letter.",
-    "t": 289.41
+    "t": 289.48
    },
    {
     "speaker": "Anna",
     "text": "It gives you the date, the polling station and the opening hours, and it includes the list of candidates.",
-    "t": 292.47
+    "t": 292.54
    },
    {
     "speaker": "Tom",
     "text": "And what do I do on the day itself?",
-    "t": 299.56
+    "t": 299.63
    },
    {
     "speaker": "Anna",
     "text": "You go to your polling station, which is open from eight in the morning until two in the afternoon.",
-    "t": 301.22
+    "t": 301.29
    },
    {
     "speaker": "Anna",
     "text": "You bring an identity document, you go into the booth, and you vote in secret.",
-    "t": 306.69
+    "t": 306.76
    },
    {
     "speaker": "Tom",
     "text": "How many votes do I have?",
-    "t": 311.51
+    "t": 311.58
    },
    {
     "speaker": "Anna",
     "text": "As many as there are seats on your council.",
-    "t": 312.93
+    "t": 313
    },
    {
     "speaker": "Anna",
     "text": "In small communes, you vote for individual people.",
-    "t": 315.38
+    "t": 315.45
    },
    {
     "speaker": "Anna",
     "text": "In bigger communes, you vote for lists, and you can even mix candidates from different lists.",
-    "t": 318.64
+    "t": 318.71
    },
    {
     "speaker": "Tom",
     "text": "That sounds a little complicated.",
-    "t": 324.51
+    "t": 324.58
    },
    {
     "speaker": "Anna",
     "text": "It is easier than it sounds.",
-    "t": 326.3
+    "t": 326.37
    },
    {
     "speaker": "Anna",
     "text": "The website has a short video that shows how to fill in the ballot paper correctly.",
-    "t": 328.15
+    "t": 328.22
    },
    {
     "speaker": "Tom",
     "text": "Now the European elections.",
-    "t": 333.14
+    "t": 333.21
    },
    {
     "speaker": "Tom",
     "text": "Who can vote in those?",
-    "t": 334.83
+    "t": 334.9
    },
    {
     "speaker": "Anna",
     "text": "Citizens of the European Union who live in Luxembourg.",
-    "t": 336.34
+    "t": 336.41
    },
    {
     "speaker": "Anna",
     "text": "They have a choice: vote here for Luxembourg's members of the European Parliament, or vote for the candidates of their country of origin.",
-    "t": 339.58
+    "t": 339.65
    },
    {
     "speaker": "Tom",
     "text": "But they cannot do both, I suppose.",
-    "t": 347.69
+    "t": 347.76
    },
    {
     "speaker": "Anna",
     "text": "No. Each person votes only once, in one country.",
-    "t": 349.76
+    "t": 349.83
    },
    {
     "speaker": "Tom",
     "text": "And is the registration the same as for the municipal elections?",
-    "t": 353.14
+    "t": 353.21
    },
    {
     "speaker": "Anna",
     "text": "It works in the same way, but it is a separate list.",
-    "t": 356.33
+    "t": 356.4
    },
    {
     "speaker": "Anna",
     "text": "If you want to vote in both elections, you register for both.",
-    "t": 359.29
+    "t": 359.36
    },
    {
     "speaker": "Tom",
     "text": "When do the next elections take place?",
-    "t": 362.68
+    "t": 362.75
    },
    {
     "speaker": "Anna",
     "text": "The next municipal elections and the next European elections are both planned for 2029.",
-    "t": 364.72
+    "t": 364.79
    },
    {
     "speaker": "Anna",
     "text": "That may seem far away, but you can register right now.",
-    "t": 370.78
+    "t": 370.85
    },
    {
     "speaker": "Tom",
     "text": "Let me ask the question many listeners have in mind.",
-    "t": 374.19
+    "t": 374.26
    },
    {
     "speaker": "Tom",
     "text": "Why should I vote?",
-    "t": 376.86
+    "t": 376.93
    },
    {
     "speaker": "Tom",
     "text": "I am only one person.",
-    "t": 377.97
+    "t": 378.04
    },
    {
     "speaker": "Anna",
     "text": "Think about what a commune decides.",
-    "t": 379.94
+    "t": 380.01
    },
    {
     "speaker": "Anna",
     "text": "School buildings and childcare, local roads and cycle paths, water and waste, sport and culture, and the way your town or village is built.",
-    "t": 382.09
+    "t": 382.16
    },
    {
     "speaker": "Tom",
     "text": "So, these are things I see every day when I leave my house.",
-    "t": 391.18
+    "t": 391.25
    },
    {
     "speaker": "Anna",
     "text": "Exactly. And the council is elected for six years.",
-    "t": 394.55
+    "t": 394.62
    },
    {
     "speaker": "Anna",
     "text": "That means six years of decisions about the place where you live.",
-    "t": 397.97
+    "t": 398.04
    },
    {
     "speaker": "Tom",
     "text": "And in Luxembourg, almost half of the residents do not have Luxembourgish nationality.",
-    "t": 401.66
+    "t": 401.73
    },
    {
     "speaker": "Anna",
     "text": "Yes, and in some communes they are the majority.",
-    "t": 406.49
+    "t": 406.56
    },
    {
     "speaker": "Anna",
     "text": "When they don't vote, a very large part of the population has no voice in those decisions.",
-    "t": 409.5
+    "t": 409.57
    },
    {
     "speaker": "Tom",
     "text": "And so far, only a minority of them have registered.",
-    "t": 415.57
+    "t": 415.64
    },
    {
     "speaker": "Anna",
     "text": "That is exactly why this campaign exists.",
-    "t": 418.4
+    "t": 418.47
    },
    {
     "speaker": "Anna",
     "text": "Its slogan for the municipal elections is: \"My voice, my choice, for the future of my municipality.\"",
-    "t": 421.23
+    "t": 421.3
    },
    {
     "speaker": "Tom",
     "text": "Can I do more than vote?",
-    "t": 429.2
+    "t": 429.27
    },
    {
     "speaker": "Tom",
     "text": "Could I be a candidate myself?",
-    "t": 430.66
+    "t": 430.73
    },
    {
     "speaker": "Anna",
     "text": "Yes, you can stand as a candidate if you are eighteen and have lived in your commune for at least six months.",
-    "t": 432.34
+    "t": 432.41
    },
    {
     "speaker": "Anna",
     "text": "Residents without Luxembourgish nationality can become councillor, alderman, or even mayor.",
-    "t": 439.59
+    "t": 439.66
    },
    {
     "speaker": "Tom",
     "text": "And between two elections, is there a way to take part?",
-    "t": 445.53
+    "t": 445.6
    },
    {
     "speaker": "Anna",
     "text": "There is. Communes have a commission for intercultural living together.",
-    "t": 448.42
+    "t": 448.49
    },
    {
     "speaker": "Anna",
     "text": "It advises the local council, and residents can become members, whatever their nationality.",
-    "t": 452.56
+    "t": 452.63
    },
    {
     "speaker": "Tom",
     "text": "And what about cross-border workers, who live in another country?",
-    "t": 458.29
+    "t": 458.36
    },
    {
     "speaker": "Anna",
     "text": "They cannot vote here, because voting depends on where you live.",
-    "t": 461.31
+    "t": 461.38
    },
    {
     "speaker": "Anna",
     "text": "But they can be a member of that commission in the commune where they work.",
-    "t": 465.16
+    "t": 465.23
    },
    {
     "speaker": "Tom",
     "text": "And the meetings of the local council are public, aren't they?",
-    "t": 468.92
+    "t": 468.99
    },
    {
     "speaker": "Anna",
     "text": "They are, and you can simply go and listen to what your council discusses.",
-    "t": 471.79
+    "t": 471.86
    },
    {
     "speaker": "Tom",
     "text": "Let's bring it together.",
-    "t": 476.12
+    "t": 476.19
    },
    {
     "speaker": "Tom",
     "text": "What should people remember?",
-    "t": 477.31
+    "t": 477.38
    },
    {
     "speaker": "Anna",
     "text": "First: if you live in Luxembourg and you are eighteen, you can vote in your commune, whatever your nationality, and however long you have been here.",
-    "t": 479.1
+    "t": 479.17
    },
    {
     "speaker": "Tom",
     "text": "Second: citizens of the European Union can also vote here in the European elections.",
-    "t": 488.04
+    "t": 488.11
    },
    {
     "speaker": "Anna",
     "text": "Third: you have to register, online on MyGuichet dot l-u or at your commune, at the latest fifty-five days before the election.",
-    "t": 492.79
+    "t": 492.86
    },
    {
     "speaker": "Anna",
     "text": "And once you are registered, voting is compulsory.",
-    "t": 501.7
+    "t": 501.77
    },
    {
     "speaker": "Tom",
     "text": "And fourth: you can do more.",
-    "t": 505.47
+    "t": 505.54
    },
    {
     "speaker": "Tom",
     "text": "Be a candidate, join a commission in your commune, or simply go and listen to your council.",
-    "t": 507.55
+    "t": 507.62
    },
    {
     "speaker": "Anna",
     "text": "You can find all the information on icanvote dot l-u.",
-    "t": 512.11
+    "t": 512.18
    },
    {
     "speaker": "Tom",
     "text": "You live here, so your voice counts here.",
-    "t": 515.63
+    "t": 515.7
    },
    {
     "speaker": "Anna",
     "text": "And living together also means deciding together.",
-    "t": 517.75
+    "t": 517.82
    },
    {
     "speaker": "Anna",
     "text": "That was our episode about \"I can vote\".",
-    "t": 520.91
+    "t": 520.98
    },
    {
     "speaker": "Anna",
     "text": "This podcast is part of the Biergerpakt, a programme that favours living together in Luxembourg: discovering the country, and meeting new people.",
-    "t": 523.63
+    "t": 523.7
    },
    {
     "speaker": "Anna",
     "text": "If you want to discover more activities offered by the Biergerpakt, such as guided visits, online information sessions, a language learning mobile application, creative workshops or training sessions, simply head over to biergerpakt.lu where you will find detailed information.",
-    "t": 532.85
+    "t": 532.92
    },
    {
     "speaker": "Anna",
     "text": "It is open to all residents, luxembourgish and non-luxembourgish, as well as to cross-border workers.",
-    "t": 551.13
+    "t": 551.2
    },
    {
     "speaker": "Anna",
     "text": "And the activities are free of charge.",
-    "t": 557.88
+    "t": 557.95
    },
    {
     "speaker": "Anna",
     "text": "You simply need to join the Biergerpakt for free at biergerpakt.lu.",
-    "t": 560.08
+    "t": 560.15
    },
    {
     "speaker": "Tom",
     "text": "Thank you, everyone.",
-    "t": 564.77
+    "t": 564.84
    },
    {
     "speaker": "Tom",
     "text": "Take care, and see you next time!",
-    "t": 565.94
+    "t": 566.01
    },
    {
     "speaker": "Anna",
     "text": "Thank you so much for listening.",
-    "t": 568.08
+    "t": 568.15
    }
   ],
   "questions": [
@@ -110312,7 +110312,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_jepeuxvoter_fr.mp3",
-  "duration_fr": 538.46,
+  "duration_fr": 538.62,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -110747,302 +110747,302 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "C'est plus facile qu'il n'y paraît.",
-    "t": 310.29
+    "t": 310.3
    },
    {
     "speaker": "Anna",
     "text": "Le site propose une courte vidéo qui montre comment remplir correctement le bulletin de vote.",
-    "t": 311.99
+    "t": 312
    },
    {
     "speaker": "Tom",
     "text": "Passons aux élections européennes.",
-    "t": 316.4
+    "t": 316.41
    },
    {
     "speaker": "Tom",
     "text": "Qui peut y voter ?",
-    "t": 318.37
+    "t": 318.38
    },
    {
     "speaker": "Anna",
     "text": "Les citoyens de l'Union européenne qui habitent au Luxembourg.",
-    "t": 319.81
+    "t": 319.82
    },
    {
     "speaker": "Anna",
     "text": "Ils ont le choix : voter ici pour les députés européens du Luxembourg, ou voter pour les candidats de leur pays d'origine.",
-    "t": 322.67
+    "t": 322.68
    },
    {
     "speaker": "Tom",
     "text": "Mais ils ne peuvent pas faire les deux, je suppose.",
-    "t": 328.77
+    "t": 328.78
    },
    {
     "speaker": "Anna",
     "text": "Non. Chaque personne ne vote qu'une seule fois, dans un seul pays.",
-    "t": 331.44
+    "t": 331.45
    },
    {
     "speaker": "Tom",
     "text": "Et l'inscription est-elle la même que pour les élections communales ?",
-    "t": 334.91
+    "t": 334.92
    },
    {
     "speaker": "Anna",
     "text": "Elle se fait de la même manière, mais c'est une liste séparée.",
-    "t": 338.39
+    "t": 338.4
    },
    {
     "speaker": "Anna",
     "text": "Si vous voulez voter aux deux élections, vous vous inscrivez aux deux.",
-    "t": 341.29
+    "t": 341.3
    },
    {
     "speaker": "Tom",
     "text": "Quand les prochaines élections auront-elles lieu ?",
-    "t": 344.65
+    "t": 344.66
    },
    {
     "speaker": "Anna",
     "text": "Les prochaines élections communales et les prochaines élections européennes sont toutes les deux prévues pour 2029.",
-    "t": 347.14
+    "t": 347.15
    },
    {
     "speaker": "Anna",
     "text": "Cela peut sembler loin, mais vous pouvez vous inscrire dès maintenant.",
-    "t": 352.48
+    "t": 352.49
    },
    {
     "speaker": "Tom",
     "text": "Je pose la question que beaucoup d'auditeurs ont en tête.",
-    "t": 355.7
+    "t": 355.71
    },
    {
     "speaker": "Tom",
     "text": "Pourquoi devrais-je voter ?",
-    "t": 358.54
+    "t": 358.55
    },
    {
     "speaker": "Tom",
     "text": "Je ne suis qu'une seule personne.",
-    "t": 360.18
+    "t": 360.19
    },
    {
     "speaker": "Anna",
     "text": "Pensez à ce qu'une commune décide.",
-    "t": 361.87
+    "t": 362.05
    },
    {
     "speaker": "Anna",
     "text": "Les bâtiments scolaires et l'accueil des enfants, les rues et les pistes cyclables, l'eau et les déchets, le sport et la culture, et la manière dont votre ville ou votre village se construit.",
-    "t": 363.69
+    "t": 363.87
    },
    {
     "speaker": "Tom",
     "text": "Ce sont donc des choses que je vois tous les jours en sortant de chez moi.",
-    "t": 373.2
+    "t": 373.38
    },
    {
     "speaker": "Anna",
     "text": "Exactement. Et le conseil est élu pour six ans.",
-    "t": 376.85
+    "t": 377.03
    },
    {
     "speaker": "Anna",
     "text": "Cela veut dire six ans de décisions sur l'endroit où vous vivez.",
-    "t": 379.28
+    "t": 379.46
    },
    {
     "speaker": "Tom",
     "text": "Et au Luxembourg, près de la moitié des habitants n'ont pas la nationalité luxembourgeoise.",
-    "t": 382.37
+    "t": 382.55
    },
    {
     "speaker": "Anna",
     "text": "Oui, et dans certaines communes ils sont majoritaires.",
-    "t": 387.22
+    "t": 387.4
    },
    {
     "speaker": "Anna",
     "text": "Quand ils ne votent pas, une très grande partie de la population n'a pas de voix dans ces décisions.",
-    "t": 389.84
+    "t": 390.02
    },
    {
     "speaker": "Tom",
     "text": "Et jusqu'ici, seule une minorité d'entre eux s'est inscrite.",
-    "t": 394.09
+    "t": 394.27
    },
    {
     "speaker": "Anna",
     "text": "C'est exactement pour cela que cette campagne existe.",
-    "t": 397.52
+    "t": 397.7
    },
    {
     "speaker": "Anna",
     "text": "Son slogan pour les élections communales est : « Ma voix, mon choix, pour l'avenir de ma commune. »",
-    "t": 400.03
+    "t": 400.21
    },
    {
     "speaker": "Tom",
     "text": "Puis-je faire plus que voter ?",
-    "t": 405.43
+    "t": 405.61
    },
    {
     "speaker": "Tom",
     "text": "Pourrais-je être candidat moi-même ?",
-    "t": 407.06
+    "t": 407.24
    },
    {
     "speaker": "Anna",
     "text": "Oui, c'est possible !",
-    "t": 409.12
+    "t": 409.3
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez vous présenter si vous avez dix-huit ans et si vous habitez votre commune depuis au moins six mois.",
-    "t": 410.37
+    "t": 410.55
    },
    {
     "speaker": "Anna",
     "text": "Les résidents qui n'ont pas la nationalité luxembourgeoise peuvent devenir conseiller communal, échevin, ou même bourgmestre.",
-    "t": 415.25
+    "t": 415.43
    },
    {
     "speaker": "Tom",
     "text": "Et entre deux élections, y a-t-il un moyen de participer ?",
-    "t": 421.02
+    "t": 421.2
    },
    {
     "speaker": "Anna",
     "text": "Oui. Les communes ont une commission du vivre-ensemble interculturel.",
-    "t": 424.46
+    "t": 424.64
    },
    {
     "speaker": "Anna",
     "text": "Elle conseille le conseil communal, et les habitants peuvent en devenir membres, quelle que soit leur nationalité.",
-    "t": 428.13
+    "t": 428.31
    },
    {
     "speaker": "Tom",
     "text": "Et qu'en est-il des frontaliers, qui habitent dans un autre pays ?",
-    "t": 433.68
+    "t": 433.86
    },
    {
     "speaker": "Anna",
     "text": "Ils ne peuvent pas voter ici, parce que le vote dépend de l'endroit où l'on habite.",
-    "t": 437.01
+    "t": 437.19
    },
    {
     "speaker": "Anna",
     "text": "Mais ils peuvent être membres de cette commission dans la commune où ils travaillent.",
-    "t": 440.83
+    "t": 441.01
    },
    {
     "speaker": "Tom",
     "text": "Et les séances du conseil communal sont publiques, n'est-ce pas ?",
-    "t": 444.61
+    "t": 444.79
    },
    {
     "speaker": "Anna",
     "text": "Oui, et vous pouvez simplement y aller et écouter ce dont votre conseil discute.",
-    "t": 448.01
+    "t": 448.19
    },
    {
     "speaker": "Tom",
     "text": "Résumons. Que faut-il retenir ?",
-    "t": 452.1
+    "t": 452.28
    },
    {
     "speaker": "Anna",
     "text": "Premièrement : si vous habitez au Luxembourg et que vous avez dix-huit ans, vous pouvez voter dans votre commune, quelle que soit votre nationalité, et peu importe depuis combien de temps vous êtes ici.",
-    "t": 454.54
+    "t": 454.72
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement : les citoyens de l'Union européenne peuvent aussi voter ici aux élections européennes.",
-    "t": 463.68
+    "t": 463.86
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement : il faut s'inscrire, en ligne sur MyGuichet point l-u ou à la commune, au plus tard cinquante-cinq jours avant les élections.",
-    "t": 469.68
+    "t": 469.86
    },
    {
     "speaker": "Anna",
     "text": "Et une fois inscrit, le vote est obligatoire.",
-    "t": 476.28
+    "t": 476.46
    },
    {
     "speaker": "Tom",
     "text": "Et quatrièmement : vous pouvez faire plus.",
-    "t": 478.89
+    "t": 479.07
    },
    {
     "speaker": "Tom",
     "text": "Être candidat, rejoindre une commission dans votre commune, ou simplement aller écouter votre conseil.",
-    "t": 481.24
+    "t": 481.42
    },
    {
     "speaker": "Anna",
     "text": "Vous trouverez toutes les informations sur jepeuxvoter point l-u.",
-    "t": 486.89
+    "t": 487.07
    },
    {
     "speaker": "Tom",
     "text": "Vous vivez ici, donc votre voix compte ici.",
-    "t": 490.26
+    "t": 490.44
    },
    {
     "speaker": "Anna",
     "text": "Et vivre ensemble, c'est aussi décider ensemble.",
-    "t": 493.26
+    "t": 493.44
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur « Je peux voter ».",
-    "t": 495.97
+    "t": 496.15
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 498.31
+    "t": 498.49
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 505.88
+    "t": 506.06
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 522.33
+    "t": 522.51
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 526.98
+    "t": 527.16
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 528.76
+    "t": 528.94
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 533.14
+    "t": 533.32
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous, et à la prochaine !",
-    "t": 534.39
+    "t": 534.57
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 536.68
+    "t": 536.86
    }
   ],
   "audio_de": "podcast_jepeuxvoter_de.mp3",
@@ -111913,302 +111913,302 @@ const EPISODES = [
    {
     "speaker": "Tom",
     "text": "A wéi gesäit déi zweet Méiglechkeet aus?",
-    "t": 177.89
+    "t": 177.96
    },
    {
     "speaker": "Anna",
     "text": "Dir gitt mat Ärer Identitéitskaart oder Ärem Pass op de Populatiounsbüro vun Ärer Gemeng an ënnerschreift eng kuerz Deklaratioun. Wann Dir en Openthaltstitel braucht, fir hei ze liewen, bréngt Dir deen och mat.",
-    "t": 179.32
+    "t": 179.39
    },
    {
     "speaker": "Tom",
     "text": "Gëtt et eng Frist fir sech anzeschreiwen?",
-    "t": 190.76
+    "t": 190.83
    },
    {
     "speaker": "Anna",
     "text": "Dir kënnt Iech dat ganzt Joer iwwer aschreiwen. Mee fir bei enger bestëmmter Wal ze wielen, musst Dir Iech spéitstens fënnefafofzeg Deeg virum Waldag aschreiwen.",
-    "t": 192.64
+    "t": 192.71
    },
    {
     "speaker": "Tom",
     "text": "Fënnefafofzeg Deeg: dat si bal zwee Méint virdrun.",
-    "t": 201.4
+    "t": 201.47
    },
    {
     "speaker": "Anna",
     "text": "Genee, an dofir ass et eng gutt Iddi, net ze waarden. Wann Dir Iech haut aschreift, ass et gemaach, an et bleift gemaach.",
-    "t": 204.51
+    "t": 204.58
    },
    {
     "speaker": "Tom",
     "text": "Wat mengt Dir domat, datt et gemaach bleift?",
-    "t": 212.31
+    "t": 212.38
    },
    {
     "speaker": "Anna",
     "text": "Dir schreift Iech nëmmen eng Kéier an. Ären Numm bleift fir déi nächst Walen op der Lëscht, a wann Dir an eng aner Gemeng plënnert, plënnert Är Aschreiwung automatesch mat.",
-    "t": 214.55
+    "t": 214.62
    },
    {
     "speaker": "Tom",
     "text": "Elo gëtt et eppes, wat ee wësse sollt, ier ee sech aschreift. Zu Lëtzebuerg ass Wielen obligatoresch.",
-    "t": 223.99
+    "t": 224.06
    },
    {
     "speaker": "Anna",
     "text": "Dat stëmmt. Soubal Dir op der Lëscht stitt, ass Wielen net nëmmen e Recht. Et ass och eng Flicht, genee wéi fir d'Lëtzebuerger.",
-    "t": 229.62
+    "t": 229.69
    },
    {
     "speaker": "Tom",
     "text": "Gëllt déi Flicht fir ëmmer?",
-    "t": 237.82
+    "t": 237.89
    },
    {
     "speaker": "Anna",
     "text": "Neen. Dir kënnt Är Gemeng zu all Moment froen, Ären Numm vun der Lëscht ze huelen. A Leit iwwer fënnefasiwwenzeg si vun der Flicht befreit.",
-    "t": 239.68
+    "t": 239.75
    },
    {
     "speaker": "Tom",
     "text": "A wat geschitt, wann ech um Waldag op der Rees sinn?",
-    "t": 246.84
+    "t": 246.91
    },
    {
     "speaker": "Anna",
     "text": "Da kënnt Dir per Bréifwal wielen. All ageschriwwene Wieler kann d'Bréifwal ufroen, online op MyGuichet Punkt l-u oder mat engem Bréif un d'Gemeng. Maacht d'Demande just fréi genuch, well et gi Fristen.",
-    "t": 249.49
+    "t": 249.56
    },
    {
     "speaker": "Tom",
     "text": "Kéint ech einfach e Frënd oder mäi Partner froen, fir mech ze wielen?",
-    "t": 261.34
+    "t": 261.41
    },
    {
     "speaker": "Anna",
     "text": "Neen, dat ass net erlaabt. Zu Lëtzebuerg kann keen op Ärer Plaz wielen.",
-    "t": 264.19
+    "t": 264.26
    },
    {
     "speaker": "Tom",
     "text": "Vill Leit hunn nach eng aner Suerg. Wann ech hei a menger Gemeng wielen, wat ass da mat de Walen a mengem Hierkonftsland?",
-    "t": 269.06
+    "t": 269.13
    },
    {
     "speaker": "Anna",
     "text": "D'Gemengewalen hei si lokal: et geet ëm d'Plaz, wou Dir lieft. Fir all Fro iwwer d'Walen an Ärem Hierkonftsland ass Är Ambassade oder Äre Konsulat de richtege Kontakt.",
-    "t": 274.98
+    "t": 275.05
    },
    {
     "speaker": "Tom",
     "text": "Schwätze mer iwwer de Waldag selwer. Wéi leeft deen of?",
-    "t": 286.32
+    "t": 286.39
    },
    {
     "speaker": "Anna",
     "text": "E puer Deeg virdru schéckt Är Gemeng Iech e Bréif. Do stinn den Datum, de Walbüro an d'Ëffnungszäiten dran, an d'Lëscht vun de Kandidaten ass derbäi.",
-    "t": 289.41
+    "t": 289.48
    },
    {
     "speaker": "Tom",
     "text": "A wat maachen ech um Dag selwer?",
-    "t": 299.56
+    "t": 299.63
    },
    {
     "speaker": "Anna",
     "text": "Dir gitt an Äre Walbüro, dee vun aacht Auer moies bis zwou Auer nomëttes op ass. Dir bréngt en Ausweis mat, gitt an d'Walkabinn a wielt geheim.",
-    "t": 301.22
+    "t": 301.29
    },
    {
     "speaker": "Tom",
     "text": "Wéi vill Stëmmen hunn ech dann?",
-    "t": 311.51
+    "t": 311.58
    },
    {
     "speaker": "Anna",
     "text": "Esou vill, wéi et Sëtz an Ärem Gemengerot gëtt. A klenge Gemenge wielt Dir eenzel Persounen. A méi grousse Gemenge wielt Dir Lëschten, an Dir kënnt souguer Kandidate vu verschiddene Lëschte mëschen.",
-    "t": 312.93
+    "t": 313
    },
    {
     "speaker": "Tom",
     "text": "Dat kléngt e bësse komplizéiert.",
-    "t": 324.51
+    "t": 324.58
    },
    {
     "speaker": "Anna",
     "text": "Et ass méi einfach, wéi et kléngt. Um Site gëtt et e kuerze Video, dee weist, wéi een de Stëmmziedel richteg ausfëllt.",
-    "t": 326.3
+    "t": 326.37
    },
    {
     "speaker": "Tom",
     "text": "Komme mer bei d'Europawalen. Wie kann do wielen?",
-    "t": 333.14
+    "t": 333.21
    },
    {
     "speaker": "Anna",
     "text": "Bierger vun der Europäescher Unioun, déi zu Lëtzebuerg wunnen. Si hunn de Choix: hei fir déi lëtzebuergesch Deputéiert am Europaparlament stëmmen, oder fir d'Kandidate vun hirem Hierkonftsland.",
-    "t": 336.34
+    "t": 336.41
    },
    {
     "speaker": "Tom",
     "text": "Mee béides zesumme geet net, huelen ech un.",
-    "t": 347.69
+    "t": 347.76
    },
    {
     "speaker": "Anna",
     "text": "Neen. All Persoun wielt nëmmen eng Kéier, an engem eenzege Land.",
-    "t": 349.76
+    "t": 349.83
    },
    {
     "speaker": "Tom",
     "text": "An ass d'Aschreiwung déi selwecht wéi fir d'Gemengewalen?",
-    "t": 353.14
+    "t": 353.21
    },
    {
     "speaker": "Anna",
     "text": "Si geet op déi selwecht Manéier, mee et ass eng eege Lëscht. Wann Dir bei béide Wale wiele wëllt, schreift Dir Iech fir béid an.",
-    "t": 356.33
+    "t": 356.4
    },
    {
     "speaker": "Tom",
     "text": "Wéini sinn déi nächst Walen?",
-    "t": 362.68
+    "t": 362.75
    },
    {
     "speaker": "Anna",
     "text": "Déi nächst Gemengewalen an déi nächst Europawale si béid fir 2029 geplangt. Dat schéngt vläicht wäit ewech, mee Dir kënnt Iech elo schonn aschreiwen.",
-    "t": 364.72
+    "t": 364.79
    },
    {
     "speaker": "Tom",
     "text": "Ech stellen d'Fro, déi vill Nolauschterer am Kapp hunn. Firwat soll ech wielen? Ech sinn dach nëmmen eng eenzeg Persoun.",
-    "t": 374.19
+    "t": 374.26
    },
    {
     "speaker": "Anna",
     "text": "Denkt drun, wat eng Gemeng decidéiert. Schoulgebaier a Kannerbetreiung, Stroossen a Vëlosweeër, Waasser an Offall, Sport a Kultur, an d'Aart a Weis, wéi Är Stad oder Äert Duerf gebaut gëtt.",
-    "t": 379.94
+    "t": 380.01
    },
    {
     "speaker": "Tom",
     "text": "Dat sinn also Saachen, déi ech all Dag gesinn, wann ech aus dem Haus ginn.",
-    "t": 391.18
+    "t": 391.25
    },
    {
     "speaker": "Anna",
     "text": "Genee. An de Gemengerot gëtt fir sechs Joer gewielt. Dat heescht sechs Joer Decisiounen iwwer d'Plaz, wou Dir lieft.",
-    "t": 394.55
+    "t": 394.62
    },
    {
     "speaker": "Tom",
     "text": "An zu Lëtzebuerg huet bal d'Hallschent vun den Awunner net déi lëtzebuergesch Nationalitéit.",
-    "t": 401.66
+    "t": 401.73
    },
    {
     "speaker": "Anna",
     "text": "Jo, an a munche Gemenge si si d'Majoritéit. Wa si net wielen, huet e ganz groussen Deel vun der Bevëlkerung keng Stëmm bei dësen Decisiounen.",
-    "t": 406.49
+    "t": 406.56
    },
    {
     "speaker": "Tom",
     "text": "A bis elo huet sech nëmmen eng Minoritéit vun hinnen ageschriwwen.",
-    "t": 415.57
+    "t": 415.64
    },
    {
     "speaker": "Anna",
     "text": "Genee dofir gëtt et dës Campagne. Hire Slogan fir d'Gemengewalen ass: „Meng Stëmm, mäi Choix, fir d'Zukunft vu menger Gemeng.\"",
-    "t": 418.4
+    "t": 418.47
    },
    {
     "speaker": "Tom",
     "text": "Kann ech méi maache wéi wielen? Kéint ech selwer Kandidat sinn?",
-    "t": 429.2
+    "t": 429.27
    },
    {
     "speaker": "Anna",
     "text": "Jo, dat kënnt Dir! Dir kënnt kandidéieren, wann Dir uechtzéng sidd an zënter op d'mannst sechs Méint an Ärer Gemeng wunnt. Awunner ouni lëtzebuergesch Nationalitéit kënne Gemengeconseiller, Schäffen oder souguer Buergermeeschter ginn.",
-    "t": 432.34
+    "t": 432.41
    },
    {
     "speaker": "Tom",
     "text": "A gëtt et tëschent zwou Walen eng Méiglechkeet, fir matzemaachen?",
-    "t": 445.53
+    "t": 445.6
    },
    {
     "speaker": "Anna",
     "text": "Jo, déi gëtt et. D'Gemengen hunn eng Kommissioun fir dat interkulturellt Zesummeliewen. Si beréit de Gemengerot, an Awunner kënne Member ginn, egal wéi eng Nationalitéit si hunn.",
-    "t": 448.42
+    "t": 448.49
    },
    {
     "speaker": "Tom",
     "text": "A wéi ass et mat de Grenzgänger, déi an engem anere Land wunnen?",
-    "t": 458.29
+    "t": 458.36
    },
    {
     "speaker": "Anna",
     "text": "Si kënnen hei net wielen, well d'Walrecht dovun ofhänkt, wou ee wunnt. Mee si kënne Member vun där Kommissioun sinn, an der Gemeng, an där si schaffen.",
-    "t": 461.31
+    "t": 461.38
    },
    {
     "speaker": "Tom",
     "text": "An d'Sëtzunge vum Gemengerot sinn ëffentlech, oder?",
-    "t": 468.92
+    "t": 468.99
    },
    {
     "speaker": "Anna",
     "text": "Jo, an Dir kënnt einfach higoen an nolauschteren, iwwer wat Äre Gemengerot schwätzt.",
-    "t": 471.79
+    "t": 471.86
    },
    {
     "speaker": "Tom",
     "text": "Faasse mer zesummen. Wat soll ee sech mierken?",
-    "t": 476.12
+    "t": 476.19
    },
    {
     "speaker": "Anna",
     "text": "Éischtens: wann Dir zu Lëtzebuerg wunnt an uechtzéng sidd, kënnt Dir an Ärer Gemeng wielen, egal wéi eng Nationalitéit Dir hutt a wéi laang Dir schonn hei sidd.",
-    "t": 479.1
+    "t": 479.17
    },
    {
     "speaker": "Tom",
     "text": "Zweetens: Bierger vun der Europäescher Unioun kënnen hei och bei den Europawale wielen.",
-    "t": 488.04
+    "t": 488.11
    },
    {
     "speaker": "Anna",
     "text": "Drëttens: Dir musst Iech aschreiwen, online op MyGuichet Punkt l-u oder op Ärer Gemeng, spéitstens fënnefafofzeg Deeg virun der Wal. A wien ageschriwwen ass, fir dee gëllt d'Walflicht.",
-    "t": 492.79
+    "t": 492.86
    },
    {
     "speaker": "Tom",
     "text": "A véiertens: Dir kënnt méi maachen. Kandidéieren, an enger Kommissioun vun Ärer Gemeng matschaffen, oder einfach Ärem Gemengerot nolauschteren.",
-    "t": 505.47
+    "t": 505.54
    },
    {
     "speaker": "Anna",
     "text": "All d'Informatioune fannt Dir op echkawielen Punkt l-u.",
-    "t": 512.11
+    "t": 512.18
    },
    {
     "speaker": "Tom",
     "text": "Dir lieft hei, also zielt Är Stëmm hei.",
-    "t": 515.63
+    "t": 515.7
    },
    {
     "speaker": "Anna",
     "text": "An zesumme liewen heescht och zesummen decidéieren. Dat war eis Episode iwwer „Ech ka wielen\". Dëse Podcast ass Deel vum Biergerpakt, engem Programm, deen d'Zesummeliewen zu Lëtzebuerg fërdert: d'Land entdecken, an nei Leit kennenléieren. Wann Dir aner Aktivitéite vum Biergerpakt entdecke wëllt, wéi gefouert Visitten, Online-Informatiounsversammlungen, eng mobil App fir Sproochen ze léieren, kreativ Atelieren oder Formatiounen, da gitt einfach op biergerpakt.lu, wou Dir detailléiert Informatioune fannt. En ass fir all Awunner op, Lëtzebuerger an Net-Lëtzebuerger, an och fir d'Grenzgänger. An d'Aktivitéite si gratis. Dir musst just gratis um Biergerpakt matmaachen, op biergerpakt.lu.",
-    "t": 517.75
+    "t": 517.82
    },
    {
     "speaker": "Tom",
     "text": "Merci, alleguer. Passt op Iech op, a bis d'nächst Kéier!",
-    "t": 564.77
+    "t": 564.84
    },
    {
     "speaker": "Anna",
     "text": "Villmools Merci fir d'Nolauschteren.",
-    "t": 568.08
+    "t": 568.15
    }
   ]
  }
