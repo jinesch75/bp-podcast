@@ -132,6 +132,8 @@ def rules(lang):
         r.append((r"\b" + w + r"\b", "-".join(w)))
     for w in EMPHASIS.get(lang, []):
         r.append((r"\b" + w + r"\b", w.lower()))
+    if lang == "en":   # GERO is said "Jero" (Jacques, 2026-11-20); English only so far
+        r += [(r"\bGERO\b", "Jero"), (r"\bgero (Aktiv|Pro|Research)\b", r"Jero \1")]
     if lang in DIGITS:
         r.append((r"\b\d(?:-\d)+\b", _digits(lang)))                      # 2-4-7, 8-0-0-2
         r.append((r"\b(?:" + "|".join(PHONE_NUMBERS) + r")\b", _digits(lang)))

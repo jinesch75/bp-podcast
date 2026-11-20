@@ -13,7 +13,7 @@
 **ANNA:** To be honest, not always. There are many names, and it is not easy to know who does what.
 **TOM:** That is exactly today's topic. We are going to present organisations in Luxembourg that work for older people and for their families.
 **ANNA:** And the good news is that all of them are listed together in one place, on a website called Info-Seniors.
-**TOM:** The address is infosenior dot public dot l-u. It is the public register of services for older people, and it is run by the Ministry of Family Affairs.
+**TOM:** The address is infosenior dot public dot l-u. It is the public register of services for older people, and it is run by the Ministry of Family Affairs, Solidarity, Living Together and Reception of Refugees.
 **ANNA:** We already made a full episode about this website. You can find it in our list of episodes, under the name Info-Seniors.
 **TOM:** So what are we going to do differently in today's episode?
 **ANNA:** Today we open one section of that website. It is called "Senior activities", and at the time of this recording it lists ten services.
