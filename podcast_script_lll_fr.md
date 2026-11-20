@@ -45,7 +45,7 @@
 **ANNA:** Pensez à quelqu'un qui a exercé un métier avec expertise pendant quinze ans, mais qui n'a jamais eu le papier pour le prouver.
 **TOM:** Grâce à ce processus, cette expérience réelle peut être évaluée et transformée en diplôme officiel.
 **ANNA:** Ainsi, des années de savoir-faire et de travail acharné peuvent enfin être reconnues, formellement, sur le papier.
-**TOM:** C'est une façon d'honorer ce que les gens savent déjà, et pas seulement ce pour quoi ils ont passé des examens. C'est puissant.
+**TOM:** C'est une façon d'honorer ce que les gens savent déjà, et pas seulement ce pour quoi ils ont passé des examens. Je trouve ça vraiment puissant.
 **ANNA:** Maintenant, apprendre coûte du temps, et parfois de l'argent. Alors parlons des aides disponibles.
 **TOM:** Pour les particuliers, il existe des types particuliers de congés payés, uniquement pour suivre une formation.
 **ANNA:** Le principal est le congé individuel de formation, qui vous permet de prendre des jours de congé payés pour apprendre, jusqu'à quatre-vingts jours sur toute votre carrière.

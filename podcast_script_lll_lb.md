@@ -45,7 +45,7 @@
 **ANNA:** Denkt un een, deen e Beruff fofzéng Joer laang fachkundeg ausgeüübt huet, awer ni de Pabeier hat, fir et ze beweisen.
 **TOM:** Duerch dëse Prozess kann dës richteg Erfarung evaluéiert an an en offiziellen Diplom ëmgewandelt ginn.
 **ANNA:** Esou kënne Joeren u Kënnen an haarder Aarbecht endlech unerkannt ginn, formell, um Pabeier.
-**TOM:** Et ass eng Manéier, dat ze éieren, wat d'Leit scho wëssen, net nëmmen dat, wofir se Examen gemaach hunn. Dat ass kraaftvoll.
+**TOM:** Et ass eng Manéier, dat ze éieren, wat d'Leit scho wëssen, net nëmmen dat, wofir se Examen gemaach hunn. Dat fannen ech wierklech staark.
 **ANNA:** Elo, Léiere kascht Zäit, an heiansdo Geld. Loosst eis also iwwer déi verfügbar Hëllef schwätzen.
 **TOM:** Fir Privatpersoune ginn et speziell Zorte vu bezuelte Congé, just fir eng Weiderbildung ze besichen.
 **ANNA:** Den haaptsächlechen ass den individuelle Bildungscongé, deen Iech erlaabt, bezuelten Congé ze huelen, fir ze léieren, bis zu achtzeg Deeg an Ärer ganzer Carrière.

@@ -29,6 +29,8 @@ R = {
    "Es sind drei Bedingungen: Sie sind am Wahltag mindestens achtzehn Jahre alt, Sie wohnen in Luxemburg, und Sie haben Ihr Wahlrecht"),
   ("Es gibt zwei Wege. Der erste ist online,", "Es gibt zwei Wege, und der erste ist online,"),
   ("Ja, das sind sie. Sie können einfach hingehen", "Ja, und Sie können einfach hingehen"),
+  ("Ja, das können Sie! Sie können kandidieren, wenn", "Ja, Sie können kandidieren, wenn"),
+  ("Ja, die gibt es. Die Gemeinden haben", "Ja, denn die Gemeinden haben"),
  ],
  "_lb": [
   ("Et ginn dräi wichteg Walen. D'Gemengewalen, fir de Rot vun Ärer Gemeng. D'Europawalen, fir d'Europaparlament. An d'Nationalwalen, fir d'Chamber.",

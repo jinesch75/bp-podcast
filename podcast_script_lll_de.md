@@ -45,7 +45,7 @@
 **ANNA:** Denken Sie an jemanden, der einen Beruf fünfzehn Jahre lang fachkundig ausgeübt hat, aber nie das Papier hatte, um es zu beweisen.
 **TOM:** Durch dieses Verfahren kann diese echte Erfahrung bewertet und in ein offizielles Diplom umgewandelt werden.
 **ANNA:** So können jahrelanges Können und harte Arbeit endlich anerkannt werden, formell, auf dem Papier.
-**TOM:** Es ist eine Art, das zu würdigen, was Menschen bereits wissen, nicht nur das, wofür sie Prüfungen abgelegt haben. Das ist kraftvoll.
+**TOM:** Es ist eine Art, das zu würdigen, was Menschen bereits wissen, nicht nur das, wofür sie Prüfungen abgelegt haben. Das finde ich wirklich stark.
 **ANNA:** Nun, Lernen kostet Zeit, und manchmal Geld. Sprechen wir also über die verfügbare Unterstützung.
 **TOM:** Für Privatpersonen gibt es besondere Arten von bezahltem Urlaub, nur um eine Weiterbildung zu besuchen.
 **ANNA:** Die wichtigste ist der individuelle Bildungsurlaub, der Ihnen bezahlte freie Tage zum Lernen ermöglicht, bis zu achtzig Tage im ganzen Berufsleben.

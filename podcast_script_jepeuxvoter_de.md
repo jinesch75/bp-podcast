@@ -74,9 +74,9 @@
 **TOM:** Und bisher hat sich nur eine Minderheit von ihnen eingetragen.
 **ANNA:** Genau deshalb gibt es diese Kampagne. Ihr Slogan für die Gemeindewahlen lautet: „Meine Stimme, meine Wahl, für die Zukunft meiner Gemeinde."
 **TOM:** Kann ich mehr tun als wählen? Könnte ich selbst Kandidat sein?
-**ANNA:** Ja, das können Sie! Sie können kandidieren, wenn Sie achtzehn sind und seit mindestens sechs Monaten in Ihrer Gemeinde wohnen. Einwohner ohne luxemburgische Staatsangehörigkeit können Gemeinderatsmitglied, Schöffe oder sogar Bürgermeister werden.
+**ANNA:** Ja, Sie können kandidieren, wenn Sie achtzehn sind und seit mindestens sechs Monaten in Ihrer Gemeinde wohnen. Einwohner ohne luxemburgische Staatsangehörigkeit können Gemeinderatsmitglied, Schöffe oder sogar Bürgermeister werden.
 **TOM:** Und gibt es zwischen zwei Wahlen eine Möglichkeit, sich zu beteiligen?
-**ANNA:** Ja, die gibt es. Die Gemeinden haben eine Kommission für das interkulturelle Zusammenleben. Sie berät den Gemeinderat, und Einwohner können Mitglied werden, egal welche Staatsangehörigkeit sie haben.
+**ANNA:** Ja, denn die Gemeinden haben eine Kommission für das interkulturelle Zusammenleben. Sie berät den Gemeinderat, und Einwohner können Mitglied werden, egal welche Staatsangehörigkeit sie haben.
 **TOM:** Und wie ist es mit den Grenzgängern, die in einem anderen Land wohnen?
 **ANNA:** Sie können hier nicht wählen, denn das Wahlrecht hängt vom Wohnort ab. Aber sie können Mitglied dieser Kommission sein, in der Gemeinde, in der sie arbeiten.
 **TOM:** Und die Sitzungen des Gemeinderats sind öffentlich, nicht wahr?
