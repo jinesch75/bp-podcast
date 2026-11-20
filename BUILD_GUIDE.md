@@ -534,7 +534,7 @@ New episode (Jacques: "another episode on social security and affiliation to the
 - From general knowledge, not from the site: "a system of solidarity", the countries named for the European card (Switzerland, Norway).
 - `pronunciation.py`: "CCSS" added to LETTERS; `ccss` → "C-C-S-S" (website, like cae/fns).
 - Recorded with `EL_TMP=/tmp/s_ccss EL_STATE=… python3 build/el_run_batch.py ccss en,fr,de` (≈ 36,000 credits), listening check clean in EN/FR/DE. Several sessions were recording at once: `tts_elevenlabs.py` now takes `EL_ASR_FILE=<file>` (private listening-check cache; the shared `el_cache/asr.json` was being overwritten by the other session, so the check never finished) and saves it every 4 sentences.
-- Voice QC: **EN done** (Anna's short "Quite a lot." joined to the next sentence in all languages, `build/apply_voicefix_ccss_2026_11.py`; 1 retake). **FR and DE pitch check NOT finished** (VM too loaded; partial results in /tmp/s_ccss) — run `voice_qc.py ccss fr|de` + `best_take.py` later.
+- Voice QC: **EN done** (Anna's short "Quite a lot." joined to the next sentence in all languages, `build/apply_voicefix_ccss_2026_11.py`; 1 retake). FR/DE pitch check done later the same day (VM idle again): retakes FR 9, DE 2 (≈ 1,800 credits); listening check clean.
 - `node build/inject_ccss.js` → `replace_audio_elevenlabs.js ccss en,fr,de` → `balance_quiz_answers.js --write` → `bump_version.js` → `make_review.js ccss` → review/ccss-f953fc8734/. Durations: EN 11:48, FR 11:21, DE 13:22. Backup: `episodes_data.pre_ccss.js`.
 
 ## Episode 48 — Who does what for seniors? / "Activités seniors" on infosenior.public.lu (20 Nov 2026)

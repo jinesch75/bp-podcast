@@ -113307,7 +113307,7 @@ const EPISODES = [
    }
   ],
   "audio_fr": "podcast_ccss_fr.mp3",
-  "duration_fr": 680.65,
+  "duration_fr": 678.45,
   "segments_fr": [
    {
     "speaker": "Anna",
@@ -113417,761 +113417,761 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Les pensions relèvent de la Caisse nationale d'assurance pension, et les accidents du travail de l'Association d'assurance accident.",
-    "t": 101.75
+    "t": 101.19
    },
    {
     "speaker": "Tom",
     "text": "Nous avons d'ailleurs des épisodes séparés sur plusieurs d'entre elles.",
-    "t": 107.79
+    "t": 107.23
    },
    {
     "speaker": "Tom",
     "text": "Alors, où se situe le Centre commun de la sécurité sociale ?",
-    "t": 111.18
+    "t": 110.62
    },
    {
     "speaker": "Anna",
     "text": "On peut le voir comme la porte d'entrée pour toutes ces institutions.",
-    "t": 115.13
+    "t": 114.57
    },
    {
     "speaker": "Anna",
     "text": "Le Centre commun enregistre les assurés, il calcule les cotisations et il les perçoit.",
-    "t": 118.24
+    "t": 117.68
    },
    {
     "speaker": "Anna",
     "text": "Ensuite, l'argent va aux différentes institutions.",
-    "t": 123.54
+    "t": 121.96
    },
    {
     "speaker": "Tom",
     "text": "Le Centre commun ne paie donc ni ma facture de médecin ni ma pension.",
-    "t": 126.29
+    "t": 124.71
    },
    {
     "speaker": "Anna",
     "text": "Non, en effet.",
-    "t": 130.22
+    "t": 128.64
    },
    {
     "speaker": "Anna",
     "text": "La caisse de maladie rembourse votre facture de médecin, et la caisse de pension verse votre pension.",
-    "t": 131.38
+    "t": 129.8
    },
    {
     "speaker": "Anna",
     "text": "Le Centre commun veille à ce que vous soyez enregistré et à ce que les cotisations soient payées.",
-    "t": 135.84
+    "t": 134.26
    },
    {
     "speaker": "Tom",
     "text": "Parlons de cet enregistrement.",
-    "t": 140.46
+    "t": 138.88
    },
    {
     "speaker": "Tom",
     "text": "Le mot officiel est « affiliation ».",
-    "t": 142.18
+    "t": 140.6
    },
    {
     "speaker": "Tom",
     "text": "Qui doit être affilié ?",
-    "t": 144.47
+    "t": 142.89
    },
    {
     "speaker": "Anna",
     "text": "Toute personne qui travaille au Luxembourg contre rémunération, comme salarié ou comme indépendant.",
-    "t": 146.1
+    "t": 144.52
    },
    {
     "speaker": "Anna",
     "text": "Ce n'est pas un choix : c'est obligatoire.",
-    "t": 151.12
+    "t": 149.42
    },
    {
     "speaker": "Tom",
     "text": "Cela vaut-il aussi pour les frontaliers, qui habitent en France, en Belgique ou en Allemagne ?",
-    "t": 153.66
+    "t": 151.96
    },
    {
     "speaker": "Anna",
     "text": "Oui. En règle générale, si vous travaillez au Luxembourg, vous êtes assuré au Luxembourg, quel que soit l'endroit où vous habitez.",
-    "t": 158.62
+    "t": 156.92
    },
    {
     "speaker": "Anna",
     "text": "Si vous travaillez aussi dans un autre pays, les règles peuvent être différentes, et le mieux est de demander au Centre commun.",
-    "t": 164.64
+    "t": 162.94
    },
    {
     "speaker": "Tom",
     "text": "Imaginons que je vienne de signer mon premier contrat de travail ici.",
-    "t": 170.66
+    "t": 168.96
    },
    {
     "speaker": "Tom",
     "text": "Que dois-je faire pour être affilié ?",
-    "t": 174.05
+    "t": 172.35
    },
    {
     "speaker": "Anna",
     "text": "Vous n'avez rien à faire, parce que votre employeur s'occupe de toutes les formalités.",
-    "t": 176.04
+    "t": 174.34
    },
    {
     "speaker": "Anna",
     "text": "Il envoie une déclaration d'entrée au Centre commun dans les huit jours qui suivent votre premier jour de travail.",
-    "t": 179.79
+    "t": 178.09
    },
    {
     "speaker": "Tom",
     "text": "Et si je n'ai encore jamais eu de numéro de sécurité sociale luxembourgeois ?",
-    "t": 184.74
+    "t": 183.04
    },
    {
     "speaker": "Anna",
     "text": "Dans ce cas, votre employeur joint une copie de votre pièce d'identité, et le Centre commun crée votre numéro.",
-    "t": 189.16
+    "t": 187.46
    },
    {
     "speaker": "Anna",
     "text": "Il a treize chiffres, et on l'appelle souvent le « matricule ».",
-    "t": 194.29
+    "t": 192.59
    },
    {
     "speaker": "Tom",
     "text": "Qu'est-ce que je reçois ensuite ?",
-    "t": 197.65
+    "t": 195.95
    },
    {
     "speaker": "Anna",
     "text": "Deux choses arrivent par la poste.",
-    "t": 199.55
+    "t": 197.85
    },
    {
     "speaker": "Anna",
     "text": "D'abord, une lettre qui confirme votre affiliation.",
-    "t": 201.22
+    "t": 199.52
    },
    {
     "speaker": "Anna",
     "text": "Et ensuite votre carte de sécurité sociale, en général dans un délai d'environ trois semaines.",
-    "t": 203.92
+    "t": 202.22
    },
    {
     "speaker": "Tom",
     "text": "Regardons cette carte un instant.",
-    "t": 208.32
+    "t": 206.62
    },
    {
     "speaker": "Tom",
     "text": "À quoi sert-elle ?",
-    "t": 210.07
+    "t": 208.37
    },
    {
     "speaker": "Anna",
     "text": "Vous la présentez à chaque prestataire de soins, par exemple votre médecin, l'hôpital ou la pharmacie.",
-    "t": 211.48
+    "t": 209.78
    },
    {
     "speaker": "Anna",
     "text": "Elle porte votre nom et votre numéro à treize chiffres.",
-    "t": 216.54
+    "t": 214.84
    },
    {
     "speaker": "Tom",
     "text": "Et j'ai entendu dire que la carte a deux faces.",
-    "t": 219.5
+    "t": 217.8
    },
    {
     "speaker": "Anna",
     "text": "C'est vrai. Une face est la face nationale, pour le Luxembourg.",
-    "t": 222.15
+    "t": 220.45
    },
    {
     "speaker": "Anna",
     "text": "L'autre face est la carte européenne d'assurance maladie.",
-    "t": 226.15
+    "t": 224.03
    },
    {
     "speaker": "Anna",
     "text": "Elle vous aide à recevoir des soins urgents pendant un séjour temporaire dans l'Union européenne et dans quelques pays voisins, comme la Suisse et la Norvège.",
-    "t": 229.2
+    "t": 227.08
    },
    {
     "speaker": "Tom",
     "text": "La face européenne reste-t-elle valable pour toujours ?",
-    "t": 236.54
+    "t": 234.42
    },
    {
     "speaker": "Anna",
     "text": "Non, elle a une date d'expiration.",
-    "t": 239.55
+    "t": 237.43
    },
    {
     "speaker": "Anna",
     "text": "Mais une nouvelle carte arrive normalement de manière automatique, environ deux mois avant cette date.",
-    "t": 241.6
+    "t": 239.48
    },
    {
     "speaker": "Tom",
     "text": "Et que dois-je faire si je perds ma carte ?",
-    "t": 246.54
+    "t": 244.42
    },
    {
     "speaker": "Anna",
     "text": "Vous en commandez une nouvelle sur le site du Centre commun, et c'est gratuit.",
-    "t": 248.77
+    "t": 246.65
    },
    {
     "speaker": "Anna",
     "text": "Et si vous avez besoin d'une preuve en urgence, votre caisse de maladie peut vous donner un certificat provisoire via MyGuichet point l-u.",
-    "t": 252.1
+    "t": 249.98
    },
    {
     "speaker": "Tom",
     "text": "Passons aux cotisations.",
-    "t": 258.79
+    "t": 256.67
    },
    {
     "speaker": "Tom",
     "text": "Comment l'argent va-t-il de mon salaire à la sécurité sociale ?",
-    "t": 260.42
+    "t": 258.3
    },
    {
     "speaker": "Anna",
     "text": "Chaque mois, votre employeur indique au Centre commun combien vous avez gagné et combien d'heures vous avez travaillé.",
-    "t": 263.89
+    "t": 261.77
    },
    {
     "speaker": "Anna",
     "text": "Le Centre commun calcule les cotisations et envoie la facture à votre employeur.",
-    "t": 269.3
+    "t": 267.18
    },
    {
     "speaker": "Tom",
     "text": "Est-ce donc mon employeur qui paie tout ?",
-    "t": 273.45
+    "t": 271.33
    },
    {
     "speaker": "Anna",
     "text": "Votre employeur paie deux parts : sa propre part, et votre part, qu'il retient sur votre salaire brut.",
-    "t": 275.8
+    "t": 273.68
    },
    {
     "speaker": "Anna",
     "text": "C'est la ligne que vous voyez sur votre fiche de salaire.",
-    "t": 281.38
+    "t": 279.26
    },
    {
     "speaker": "Tom",
     "text": "Je paie donc une part, et mon employeur paie une part en plus.",
-    "t": 284.21
+    "t": 282.09
    },
    {
     "speaker": "Anna",
     "text": "Exactement. C'est un système de solidarité : toutes les personnes qui travaillent cotisent, et chacun est protégé quand il en a besoin.",
-    "t": 287.72
+    "t": 285.6
    },
    {
     "speaker": "Tom",
     "text": "Y a-t-il quelque chose que je devrais vérifier moi-même ?",
-    "t": 294.41
+    "t": 292.29
    },
    {
     "speaker": "Anna",
     "text": "Oui, un document en particulier.",
-    "t": 297.38
+    "t": 295.26
    },
    {
     "speaker": "Anna",
     "text": "Une fois par an, le Centre commun vous envoie un extrait de votre carrière d'assurance pension.",
-    "t": 299.25
+    "t": 297.13
    },
    {
     "speaker": "Anna",
     "text": "Il indique les revenus enregistrés pour vous au Luxembourg.",
-    "t": 303.35
+    "t": 301.23
    },
    {
     "speaker": "Tom",
     "text": "Et pourquoi cet extrait est-il si important ?",
-    "t": 306.1
+    "t": 303.98
    },
    {
     "speaker": "Anna",
     "text": "Parce que votre future pension est calculée à partir de cette carrière.",
-    "t": 308.68
+    "t": 306.56
    },
    {
     "speaker": "Anna",
     "text": "S'il manque quelque chose ou s'il y a une erreur, prévenez le Centre commun le plus vite possible, et gardez vos fiches de salaire comme preuve.",
-    "t": 312.14
+    "t": 310.03
    },
    {
     "speaker": "Tom",
     "text": "Et ma famille ?",
-    "t": 318.85
+    "t": 316.74
    },
    {
     "speaker": "Tom",
     "text": "Mon mari ou ma femme et mes enfants sont-ils couverts aussi ?",
-    "t": 319.95
+    "t": 317.84
    },
    {
     "speaker": "Anna",
     "text": "Ils peuvent l'être.",
-    "t": 323.4
+    "t": 321.29
    },
    {
     "speaker": "Anna",
     "text": "Un conjoint ou un partenaire et vos enfants peuvent être coassurés avec vous pour les soins de santé, sous certaines conditions.",
-    "t": 324.52
+    "t": 322.41
    },
    {
     "speaker": "Anna",
     "text": "Pour cela, vous contactez votre caisse de maladie, et non le Centre commun.",
-    "t": 330.3
+    "t": 328.19
    },
    {
     "speaker": "Tom",
     "text": "Et que se passe-t-il à la naissance d'un bébé ?",
-    "t": 333.99
+    "t": 331.88
    },
    {
     "speaker": "Anna",
     "text": "Pour les nouveau-nés, la coassurance est automatique, et la carte du bébé vous est envoyée sans demande.",
-    "t": 336.18
+    "t": 334.07
    },
    {
     "speaker": "Tom",
     "text": "Prenons d'autres situations.",
-    "t": 341.15
+    "t": 339.04
    },
    {
     "speaker": "Tom",
     "text": "Et si je suis indépendant ?",
-    "t": 342.82
+    "t": 340.71
    },
    {
     "speaker": "Anna",
     "text": "Alors il n'y a pas d'employeur pour le faire à votre place.",
-    "t": 344.45
+    "t": 342.34
    },
    {
     "speaker": "Anna",
     "text": "Vous vous inscrivez vous-même au Centre commun quand vous commencez votre activité, et vous payez vous-même vos cotisations.",
-    "t": 347.41
+    "t": 345.3
    },
    {
     "speaker": "Tom",
     "text": "Et qu'en est-il d'un étudiant qui travaille pendant les vacances d'été ?",
-    "t": 352.88
+    "t": 350.77
    },
    {
     "speaker": "Anna",
     "text": "L'employeur déclare l'étudiant, comme n'importe quel salarié.",
-    "t": 356.38
+    "t": 354.27
    },
    {
     "speaker": "Anna",
     "text": "Mais un job de vacances est un cas particulier : par ce travail, l'étudiant est assuré uniquement contre les accidents du travail.",
-    "t": 359.52
+    "t": 357.41
    },
    {
     "speaker": "Tom",
     "text": "Voici une situation que beaucoup de familles connaissent.",
-    "t": 366.11
+    "t": 364
    },
    {
     "speaker": "Tom",
     "text": "Je voudrais engager quelqu'un pour faire le ménage chez moi, ou pour garder mes enfants.",
-    "t": 368.95
+    "t": 366.84
    },
    {
     "speaker": "Tom",
     "text": "Dois-je déclarer cette personne ?",
-    "t": 372.91
+    "t": 370.8
    },
    {
     "speaker": "Anna",
     "text": "Oui, il le faut.",
-    "t": 375.05
+    "t": 372.94
    },
    {
     "speaker": "Anna",
     "text": "Dès que vous payez quelqu'un pour travailler chez vous, vous êtes un employeur, et cette personne a le droit d'être assurée.",
-    "t": 376.16
+    "t": 374.09
    },
    {
     "speaker": "Tom",
     "text": "Cela semble beaucoup de paperasse pour un particulier.",
-    "t": 381.36
+    "t": 379.29
    },
    {
     "speaker": "Anna",
     "text": "C'est bien plus simple qu'on ne le pense.",
-    "t": 384.28
+    "t": 382.21
    },
    {
     "speaker": "Anna",
     "text": "Il existe une procédure simplifiée pour les ménages privés.",
-    "t": 386.07
+    "t": 384
    },
    {
     "speaker": "Anna",
     "text": "Vous indiquez au Centre commun le salaire net par heure que vous payez, et le Centre commun calcule tout le reste : le salaire brut, les cotisations et l'impôt.",
-    "t": 388.95
+    "t": 386.88
    },
    {
     "speaker": "Tom",
     "text": "Et puis-je faire cela en ligne ?",
-    "t": 397.38
+    "t": 395.31
    },
    {
     "speaker": "Anna",
     "text": "Oui, sur MyGuichet point l-u.",
-    "t": 399.2
+    "t": 397.13
    },
    {
     "speaker": "Anna",
     "text": "Et le résultat compte : la personne qui travaille pour vous est couverte en cas de maladie ou d'accident, et elle se constitue une pension.",
-    "t": 401.09
+    "t": 399.02
    },
    {
     "speaker": "Tom",
     "text": "Maintenant, un moment moins agréable : mon emploi se termine.",
-    "t": 407.52
+    "t": 405.45
    },
    {
     "speaker": "Tom",
     "text": "Que devient ma sécurité sociale ?",
-    "t": 411.61
+    "t": 409.54
    },
    {
     "speaker": "Anna",
     "text": "Votre employeur informe le Centre commun, et vous recevez une lettre qui indique que votre affiliation a pris fin.",
-    "t": 413.75
+    "t": 411.68
    },
    {
     "speaker": "Tom",
     "text": "Cela veut-il dire que je perds ma couverture santé du jour au lendemain ?",
-    "t": 418.91
+    "t": 416.84
    },
    {
     "speaker": "Anna",
     "text": "Pas tout de suite, dans la plupart des cas.",
-    "t": 422.4
+    "t": 420.33
    },
    {
     "speaker": "Anna",
     "text": "Si vous habitez au Luxembourg et que vous avez été assuré sans interruption pendant au moins six mois, votre couverture santé continue jusqu'à la fin du mois et pendant trois mois de plus.",
-    "t": 424.51
+    "t": 422.27
    },
    {
     "speaker": "Anna",
     "text": "Les frontaliers s'adressent à la caisse de maladie du pays où ils habitent.",
-    "t": 433.03
+    "t": 430.79
    },
    {
     "speaker": "Tom",
     "text": "Et quelles sont mes possibilités après ces trois mois ?",
-    "t": 436.45
+    "t": 434.21
    },
    {
     "speaker": "Anna",
     "text": "Il y en a plusieurs.",
-    "t": 439.43
+    "t": 437.19
    },
    {
     "speaker": "Anna",
     "text": "Un nouvel emploi entraîne une nouvelle affiliation.",
-    "t": 440.59
+    "t": 438.35
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez peut-être être coassuré par votre conjoint ou votre partenaire.",
-    "t": 443.03
+    "t": 440.79
    },
    {
     "speaker": "Anna",
     "text": "Et si rien de tout cela n'est possible, vous pouvez demander au Centre commun une assurance maladie volontaire.",
-    "t": 446.75
+    "t": 444.51
    },
    {
     "speaker": "Tom",
     "text": "Avec une assurance volontaire, je suppose que je paie moi-même les cotisations.",
-    "t": 451.79
+    "t": 449.55
    },
    {
     "speaker": "Anna",
     "text": "Oui. Et le moment est important : si vous faites la demande dans les trois mois après la fin de votre assurance obligatoire, votre assurance continue simplement.",
-    "t": 456.02
+    "t": 453.78
    },
    {
     "speaker": "Anna",
     "text": "Si vous la faites plus tard, aucun frais n'est remboursé pendant les trois premiers mois.",
-    "t": 463.18
+    "t": 460.94
    },
    {
     "speaker": "Tom",
     "text": "Existe-t-il quelque chose de semblable pour la pension ?",
-    "t": 467.06
+    "t": 464.82
    },
    {
     "speaker": "Anna",
     "text": "Oui. Les personnes qui ne cotisent plus par un emploi peuvent adhérer à l'assurance pension volontaire, pour que leur carrière d'assurance continue.",
-    "t": 470.19
+    "t": 467.95
    },
    {
     "speaker": "Tom",
     "text": "Et comment savoir ce que cela me coûterait ?",
-    "t": 476.97
+    "t": 474.73
    },
    {
     "speaker": "Anna",
     "text": "Le site du Centre commun propose un simulateur en ligne pour l'assurance pension volontaire.",
-    "t": 479.19
+    "t": 476.95
    },
    {
     "speaker": "Anna",
     "text": "Il vous montre vos possibilités avant de décider.",
-    "t": 483.2
+    "t": 480.96
    },
    {
     "speaker": "Tom",
     "text": "Restons sur les services en ligne.",
-    "t": 485.85
+    "t": 483.61
    },
    {
     "speaker": "Tom",
     "text": "Que puis-je faire sans me déplacer ?",
-    "t": 487.68
+    "t": 485.44
    },
    {
     "speaker": "Anna",
     "text": "Beaucoup de choses : sur le site ccss point l-u, vous trouvez des explications pour les salariés, les employeurs, les indépendants et les agriculteurs, ainsi que tous les formulaires.",
-    "t": 489.8
+    "t": 487.56
    },
    {
     "speaker": "Tom",
     "text": "Et qu'est-ce que MyGuichet apporte en plus ?",
-    "t": 499.77
+    "t": 497.53
    },
    {
     "speaker": "Anna",
     "text": "Dans votre espace privé sur MyGuichet point l-u, vous pouvez créer un certificat d'affiliation en quelques instants et le télécharger.",
-    "t": 502.21
+    "t": 500.03
    },
    {
     "speaker": "Anna",
     "text": "Il indique les emplois enregistrés pour vous.",
-    "t": 509.4
+    "t": 507.22
    },
    {
     "speaker": "Tom",
     "text": "Comment une autre personne peut-elle être sûre qu'un tel certificat est authentique ?",
-    "t": 511.71
+    "t": 509.53
    },
    {
     "speaker": "Anna",
     "text": "Le certificat porte un code QR.",
-    "t": 516.08
+    "t": 513.9
    },
    {
     "speaker": "Anna",
     "text": "Avec l'application gratuite GouvCheck, chacun peut scanner le code et vérifier que le document est authentique.",
-    "t": 518.47
+    "t": 516.29
    },
    {
     "speaker": "Tom",
     "text": "Puis-je aussi recevoir en ligne mes documents du Centre commun ?",
-    "t": 524.25
+    "t": 522.07
    },
    {
     "speaker": "Anna",
     "text": "Oui, si vous activez l'envoi électronique pour le Centre commun dans MyGuichet.",
-    "t": 527.49
+    "t": 525.31
    },
    {
     "speaker": "Anna",
     "text": "Les documents arrivent alors dans votre espace privé, et non dans votre boîte aux lettres.",
-    "t": 530.89
+    "t": 528.71
    },
    {
     "speaker": "Tom",
     "text": "Et si je préfère parler à une personne ?",
-    "t": 534.92
+    "t": 532.74
    },
    {
     "speaker": "Anna",
     "text": "Vous pouvez appeler le Centre commun ou utiliser le formulaire de contact.",
-    "t": 537.26
+    "t": 535.08
    },
    {
     "speaker": "Anna",
     "text": "Les guichets se trouvent à Luxembourg-Ville, mais uniquement sur rendez-vous, et vous pouvez prendre ce rendez-vous en ligne.",
-    "t": 540.86
+    "t": 538.68
    },
    {
     "speaker": "Tom",
     "text": "Que se passe-t-il quand je déménage ?",
-    "t": 546.35
+    "t": 544.17
    },
    {
     "speaker": "Tom",
     "text": "Dois-je prévenir le Centre commun ?",
-    "t": 548.19
+    "t": 546.01
    },
    {
     "speaker": "Anna",
     "text": "Si vous habitez au Luxembourg, vous déclarez votre nouvelle adresse à votre commune, et le Centre commun est informé automatiquement.",
-    "t": 550.25
+    "t": 548.07
    },
    {
     "speaker": "Anna",
     "text": "Les frontaliers peuvent signaler leur nouvelle adresse via MyGuichet point l-u.",
-    "t": 556.14
+    "t": 553.96
    },
    {
     "speaker": "Tom",
     "text": "Un dernier point, et il est important : les faux messages.",
-    "t": 560.31
+    "t": 558.13
    },
    {
     "speaker": "Anna",
     "text": "Oui. Des fraudeurs envoient des e-mails et des SMS qui ont l'air de venir du Centre commun.",
-    "t": 563.86
+    "t": 561.68
    },
    {
     "speaker": "Anna",
     "text": "Souvent, ils prétendent que votre carte de sécurité sociale a expiré.",
-    "t": 568.2
+    "t": 566.02
    },
    {
     "speaker": "Tom",
     "text": "Et qu'est-ce qu'ils cherchent à obtenir de moi ?",
-    "t": 571.82
+    "t": 569.64
    },
    {
     "speaker": "Anna",
     "text": "Vos coordonnées bancaires ou vos codes LuxTrust.",
-    "t": 574.44
+    "t": 572.26
    },
    {
     "speaker": "Anna",
     "text": "Le Centre commun ne les demande jamais pour renouveler une carte, et la carte ne coûte jamais rien.",
-    "t": 577.13
+    "t": 574.95
    },
    {
     "speaker": "Anna",
     "text": "Ne cliquez donc pas sur le lien, et allez vous-même sur le site officiel.",
-    "t": 581.41
+    "t": 579.23
    },
    {
     "speaker": "Tom",
     "text": "Résumons. Que faut-il retenir ?",
-    "t": 584.95
+    "t": 582.77
    },
    {
     "speaker": "Anna",
     "text": "Premièrement : si vous travaillez au Luxembourg, vous êtes assuré pour la santé, les accidents, la dépendance et la pension.",
-    "t": 587.39
+    "t": 585.21
    },
    {
     "speaker": "Anna",
     "text": "Votre employeur vous inscrit au Centre commun de la sécurité sociale, le CCSS.",
-    "t": 593.74
+    "t": 591.56
    },
    {
     "speaker": "Tom",
     "text": "Deuxièmement : vous recevez un numéro à treize chiffres et une carte de sécurité sociale.",
-    "t": 598.84
+    "t": 596.66
    },
    {
     "speaker": "Tom",
     "text": "Gardez la carte sur vous, aussi quand vous voyagez en Europe.",
-    "t": 604.34
+    "t": 602.16
    },
    {
     "speaker": "Anna",
     "text": "Troisièmement : vérifiez chaque année l'extrait de votre carrière de pension, et signalez vite les erreurs.",
-    "t": 607.67
+    "t": 605.49
    },
    {
     "speaker": "Tom",
     "text": "Quatrièmement : si vous employez quelqu'un à la maison, déclarez cette personne.",
-    "t": 613.03
+    "t": 610.85
    },
    {
     "speaker": "Tom",
     "text": "La procédure simplifiée rend cela facile.",
-    "t": 617.69
+    "t": 615.51
    },
    {
     "speaker": "Anna",
     "text": "Et cinquièmement : quand un emploi se termine, votre couverture santé ne s'arrête pas le jour même, mais agissez dans les trois mois si vous avez besoin d'une assurance volontaire.",
-    "t": 620.44
+    "t": 618.26
    },
    {
     "speaker": "Tom",
     "text": "Vous trouverez toutes les informations sur ccss point l-u.",
-    "t": 629.15
+    "t": 626.97
    },
    {
     "speaker": "Anna",
     "text": "La sécurité sociale fonctionne parce que tout le monde y participe.",
-    "t": 632.8
+    "t": 630.62
    },
    {
     "speaker": "Anna",
     "text": "C'était notre épisode sur la sécurité sociale et le Centre commun de la sécurité sociale.",
-    "t": 635.99
+    "t": 633.81
    },
    {
     "speaker": "Anna",
     "text": "Ce podcast fait partie du Biergerpakt, un programme qui favorise le vivre-ensemble au Luxembourg : découvrir le pays, et rencontrer de nouvelles personnes.",
-    "t": 640.46
+    "t": 638.28
    },
    {
     "speaker": "Anna",
     "text": "Si vous souhaitez découvrir d'autres activités proposées par le Biergerpakt, comme des visites guidées, des séances d'information en ligne, une application mobile pour apprendre les langues, des ateliers créatifs ou des formations, rendez-vous simplement sur biergerpakt.lu où vous trouverez des informations détaillées.",
-    "t": 648.07
+    "t": 645.89
    },
    {
     "speaker": "Anna",
     "text": "Il est ouvert à tous les résidents, luxembourgeois et non luxembourgeois, ainsi qu'aux frontaliers.",
-    "t": 664.52
+    "t": 662.34
    },
    {
     "speaker": "Anna",
     "text": "Et les activités sont gratuites.",
-    "t": 669.17
+    "t": 666.99
    },
    {
     "speaker": "Anna",
     "text": "Il vous suffit d'adhérer gratuitement au Biergerpakt sur biergerpakt.lu.",
-    "t": 670.95
+    "t": 668.77
    },
    {
     "speaker": "Tom",
     "text": "Merci à tous.",
-    "t": 675.33
+    "t": 673.15
    },
    {
     "speaker": "Tom",
     "text": "Prenez soin de vous, et à la prochaine !",
-    "t": 676.58
+    "t": 674.4
    },
    {
     "speaker": "Anna",
     "text": "Merci beaucoup de nous avoir écoutés.",
-    "t": 678.87
+    "t": 676.69
    }
   ],
   "audio_de": "podcast_ccss_de.mp3",
-  "duration_de": 801.99,
+  "duration_de": 802.09,
   "segments_de": [
    {
     "speaker": "Anna",
@@ -114441,612 +114441,612 @@ const EPISODES = [
    {
     "speaker": "Anna",
     "text": "Sie zeigen sie bei jedem Gesundheitsdienstleister vor, zum Beispiel bei Ihrem Arzt, im Krankenhaus oder in der Apotheke.",
-    "t": 245.3
+    "t": 245.31
    },
    {
     "speaker": "Anna",
     "text": "Darauf stehen Ihr Name und Ihre dreizehnstellige Nummer.",
-    "t": 252.57
+    "t": 252.58
    },
    {
     "speaker": "Tom",
     "text": "Und ich habe gehört, dass die Karte zwei Seiten hat.",
-    "t": 255.89
+    "t": 255.9
    },
    {
     "speaker": "Anna",
     "text": "Das stimmt. Eine Seite ist die nationale Seite, für Luxemburg.",
-    "t": 258.69
+    "t": 258.7
    },
    {
     "speaker": "Anna",
     "text": "Die andere Seite ist die Europäische Krankenversicherungskarte.",
-    "t": 262.79
+    "t": 262.8
    },
    {
     "speaker": "Anna",
     "text": "Sie hilft Ihnen, dringende Behandlungen zu bekommen, wenn Sie sich vorübergehend in der Europäischen Union oder in einigen Nachbarländern aufhalten, etwa in der Schweiz oder in Norwegen.",
-    "t": 266.63
+    "t": 266.64
    },
    {
     "speaker": "Tom",
     "text": "Bleibt die europäische Seite für immer gültig?",
-    "t": 276.83
+    "t": 276.84
    },
    {
     "speaker": "Anna",
     "text": "Nein, sie hat ein Ablaufdatum.",
-    "t": 279.7
+    "t": 279.71
    },
    {
     "speaker": "Anna",
     "text": "Aber eine neue Karte kommt normalerweise automatisch, etwa zwei Monate vor diesem Datum.",
-    "t": 281.88
+    "t": 281.89
    },
    {
     "speaker": "Tom",
     "text": "Und was soll ich tun, wenn ich meine Karte verliere?",
-    "t": 287.45
+    "t": 287.46
    },
    {
     "speaker": "Anna",
     "text": "Sie bestellen eine neue auf der Website der Zentralstelle, und das ist kostenlos.",
-    "t": 290.33
+    "t": 290.34
    },
    {
     "speaker": "Anna",
     "text": "Und wenn Sie dringend einen Nachweis brauchen, kann Ihre Krankenkasse Ihnen über MyGuichet Punkt l-u eine provisorische Bescheinigung geben.",
-    "t": 294.85
+    "t": 294.86
    },
    {
     "speaker": "Tom",
     "text": "Nun zu den Beiträgen.",
-    "t": 302.41
+    "t": 302.42
    },
    {
     "speaker": "Tom",
     "text": "Wie kommt das Geld von meinem Gehalt zur Sozialversicherung?",
-    "t": 303.93
+    "t": 303.94
    },
    {
     "speaker": "Anna",
     "text": "Jeden Monat teilt Ihr Arbeitgeber der Zentralstelle mit, wie viel Sie verdient und wie viele Stunden Sie gearbeitet haben.",
-    "t": 307.51
+    "t": 307.52
    },
    {
     "speaker": "Anna",
     "text": "Die Zentralstelle berechnet die Beiträge und schickt die Rechnung an Ihren Arbeitgeber.",
-    "t": 314.44
+    "t": 314.45
    },
    {
     "speaker": "Tom",
     "text": "Bezahlt also mein Arbeitgeber alles?",
-    "t": 319.32
+    "t": 319.33
    },
    {
     "speaker": "Anna",
     "text": "Ihr Arbeitgeber zahlt zwei Teile: seinen eigenen Anteil, und Ihren Anteil, den er von Ihrem Bruttogehalt abzieht.",
-    "t": 321.7
+    "t": 321.71
    },
    {
     "speaker": "Anna",
     "text": "Das ist die Zeile, die Sie auf Ihrer Lohnabrechnung sehen.",
-    "t": 329.28
+    "t": 329.29
    },
    {
     "speaker": "Tom",
     "text": "Ich zahle also einen Teil, und mein Arbeitgeber zahlt einen Teil dazu.",
-    "t": 332.54
+    "t": 332.55
    },
    {
     "speaker": "Anna",
     "text": "Genau. Es ist ein System der Solidarität: Alle, die arbeiten, zahlen Beiträge, und alle sind geschützt, wenn sie es brauchen.",
-    "t": 337.24
+    "t": 337.25
    },
    {
     "speaker": "Tom",
     "text": "Gibt es etwas, das ich selbst überprüfen sollte?",
-    "t": 345.21
+    "t": 345.22
    },
    {
     "speaker": "Anna",
     "text": "Ja, vor allem ein Dokument.",
-    "t": 348.21
+    "t": 348.22
    },
    {
     "speaker": "Anna",
     "text": "Einmal im Jahr schickt Ihnen die Zentralstelle einen Auszug Ihrer Rentenversicherungslaufbahn.",
-    "t": 350.13
+    "t": 350.14
    },
    {
     "speaker": "Anna",
     "text": "Darin stehen die Einkommen, die für Sie in Luxemburg registriert wurden.",
-    "t": 355.49
+    "t": 355.5
    },
    {
     "speaker": "Tom",
     "text": "Und warum ist dieser Auszug so wichtig?",
-    "t": 359.51
+    "t": 359.52
    },
    {
     "speaker": "Anna",
     "text": "Weil Ihre spätere Rente aus dieser Laufbahn berechnet wird.",
-    "t": 361.72
+    "t": 361.73
    },
    {
     "speaker": "Anna",
     "text": "Wenn etwas fehlt oder falsch ist, melden Sie es der Zentralstelle so schnell wie möglich, und bewahren Sie Ihre Lohnabrechnungen als Nachweis auf.",
-    "t": 365.06
+    "t": 365.07
    },
    {
     "speaker": "Tom",
     "text": "Und meine Familie?",
-    "t": 373.24
+    "t": 373.25
    },
    {
     "speaker": "Tom",
     "text": "Sind mein Mann oder meine Frau und meine Kinder auch versichert?",
-    "t": 374.57
+    "t": 374.58
    },
    {
     "speaker": "Anna",
     "text": "Das können sie sein.",
-    "t": 377.98
+    "t": 377.99
    },
    {
     "speaker": "Anna",
     "text": "Ein Ehepartner oder Partner und Ihre Kinder können unter bestimmten Bedingungen bei Ihnen in der Krankenversicherung mitversichert sein.",
-    "t": 379.38
+    "t": 379.48
    },
    {
     "speaker": "Anna",
     "text": "Dafür wenden Sie sich an Ihre Krankenkasse, und nicht an die Zentralstelle.",
-    "t": 386.49
+    "t": 386.59
    },
    {
     "speaker": "Tom",
     "text": "Und was passiert, wenn ein Baby geboren wird?",
-    "t": 390.87
+    "t": 390.97
    },
    {
     "speaker": "Anna",
     "text": "Bei Neugeborenen ist die Mitversicherung automatisch, und die Karte des Babys wird Ihnen ohne Antrag zugeschickt.",
-    "t": 393.48
+    "t": 393.58
    },
    {
     "speaker": "Tom",
     "text": "Nehmen wir andere Situationen.",
-    "t": 400.18
+    "t": 400.28
    },
    {
     "speaker": "Tom",
     "text": "Was ist, wenn ich selbstständig bin?",
-    "t": 402.27
+    "t": 402.37
    },
    {
     "speaker": "Anna",
     "text": "Dann gibt es keinen Arbeitgeber, der das für Sie erledigt.",
-    "t": 404.47
+    "t": 404.57
    },
    {
     "speaker": "Anna",
     "text": "Sie melden sich selbst bei der Zentralstelle an, wenn Sie Ihre Tätigkeit beginnen, und Sie zahlen Ihre Beiträge selbst.",
-    "t": 407.83
+    "t": 407.93
    },
    {
     "speaker": "Tom",
     "text": "Und wie ist es bei einem Studenten, der in den Sommerferien arbeitet?",
-    "t": 414.4
+    "t": 414.5
    },
    {
     "speaker": "Anna",
     "text": "Der Arbeitgeber meldet den Studenten an, wie jeden anderen Arbeitnehmer.",
-    "t": 418.38
+    "t": 418.48
    },
    {
     "speaker": "Anna",
     "text": "Aber ein Ferienjob ist ein Sonderfall: Durch diese Arbeit ist der Student nur gegen Arbeitsunfälle versichert.",
-    "t": 422.37
+    "t": 422.47
    },
    {
     "speaker": "Tom",
     "text": "Hier ist eine Situation, die viele Familien kennen.",
-    "t": 428.96
+    "t": 429.06
    },
    {
     "speaker": "Tom",
     "text": "Ich möchte jemanden einstellen, der bei mir zu Hause putzt oder auf meine Kinder aufpasst.",
-    "t": 432.11
+    "t": 432.21
    },
    {
     "speaker": "Tom",
     "text": "Muss ich diese Person anmelden?",
-    "t": 437.09
+    "t": 437.19
    },
    {
     "speaker": "Anna",
     "text": "Ja, das müssen Sie.",
-    "t": 439.02
+    "t": 439.12
    },
    {
     "speaker": "Anna",
     "text": "Sobald Sie jemanden dafür bezahlen, bei Ihnen zu Hause zu arbeiten, sind Sie ein Arbeitgeber, und diese Person hat das Recht, versichert zu sein.",
-    "t": 440.52
+    "t": 440.62
    },
    {
     "speaker": "Tom",
     "text": "Das klingt nach viel Papierkram für eine Privatperson.",
-    "t": 448.64
+    "t": 448.74
    },
    {
     "speaker": "Anna",
     "text": "Es ist viel einfacher, als man denkt.",
-    "t": 451.92
+    "t": 452.02
    },
    {
     "speaker": "Anna",
     "text": "Für Privathaushalte gibt es ein vereinfachtes Verfahren.",
-    "t": 454.02
+    "t": 454.12
    },
    {
     "speaker": "Anna",
     "text": "Sie teilen der Zentralstelle den Nettostundenlohn mit, den Sie zahlen, und die Zentralstelle berechnet alles andere: das Bruttogehalt, die Beiträge und die Steuer.",
-    "t": 457.14
+    "t": 457.24
    },
    {
     "speaker": "Tom",
     "text": "Und kann ich das online machen?",
-    "t": 467.53
+    "t": 467.63
    },
    {
     "speaker": "Anna",
     "text": "Ja, auf MyGuichet Punkt l-u.",
-    "t": 469.79
+    "t": 469.89
    },
    {
     "speaker": "Anna",
     "text": "Und das Ergebnis zählt: Die Person, die für Sie arbeitet, ist bei Krankheit oder Unfall abgesichert, und sie baut eine Rente auf.",
-    "t": 472.24
+    "t": 472.34
    },
    {
     "speaker": "Tom",
     "text": "Nun ein weniger schöner Moment: Meine Arbeitsstelle endet.",
-    "t": 479.69
+    "t": 479.79
    },
    {
     "speaker": "Tom",
     "text": "Was passiert mit meiner Sozialversicherung?",
-    "t": 483.32
+    "t": 483.42
    },
    {
     "speaker": "Anna",
     "text": "Ihr Arbeitgeber informiert die Zentralstelle, und Sie bekommen einen Brief, in dem steht, dass Ihre Anmeldung beendet ist.",
-    "t": 485.75
+    "t": 485.85
    },
    {
     "speaker": "Tom",
     "text": "Heißt das, dass ich von einem Tag auf den anderen meinen Krankenversicherungsschutz verliere?",
-    "t": 492.86
+    "t": 492.96
    },
    {
     "speaker": "Anna",
     "text": "In den meisten Fällen nicht sofort.",
-    "t": 497.71
+    "t": 497.81
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie in Luxemburg wohnen und mindestens sechs Monate ohne Unterbrechung versichert waren, läuft Ihr Krankenversicherungsschutz bis zum Ende des Monats und noch drei weitere Monate.",
-    "t": 499.78
+    "t": 499.88
    },
    {
     "speaker": "Anna",
     "text": "Grenzgänger wenden sich an die Krankenkasse des Landes, in dem sie wohnen.",
-    "t": 510.12
+    "t": 510.22
    },
    {
     "speaker": "Tom",
     "text": "Und welche Möglichkeiten habe ich nach diesen drei Monaten?",
-    "t": 514.15
+    "t": 514.25
    },
    {
     "speaker": "Anna",
     "text": "Es gibt mehrere.",
-    "t": 517.35
+    "t": 517.45
    },
    {
     "speaker": "Anna",
     "text": "Eine neue Arbeitsstelle bringt eine neue Anmeldung.",
-    "t": 518.54
+    "t": 518.64
    },
    {
     "speaker": "Anna",
     "text": "Vielleicht können Sie über Ihren Ehepartner oder Partner mitversichert sein.",
-    "t": 521.36
+    "t": 521.46
    },
    {
     "speaker": "Anna",
     "text": "Und wenn beides nicht möglich ist, können Sie bei der Zentralstelle eine freiwillige Krankenversicherung beantragen.",
-    "t": 525.54
+    "t": 525.64
    },
    {
     "speaker": "Tom",
     "text": "Bei einer freiwilligen Versicherung zahle ich die Beiträge wohl selbst.",
-    "t": 531.7
+    "t": 531.8
    },
    {
     "speaker": "Anna",
     "text": "Ja. Und der Zeitpunkt ist wichtig: Wenn Sie den Antrag innerhalb von drei Monaten nach dem Ende Ihrer Pflichtversicherung stellen, läuft Ihre Versicherung einfach weiter.",
-    "t": 535.88
+    "t": 535.98
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie ihn später stellen, werden in den ersten drei Monaten keine Kosten erstattet.",
-    "t": 546.26
+    "t": 546.36
    },
    {
     "speaker": "Tom",
     "text": "Gibt es etwas Ähnliches für die Rente?",
-    "t": 550.93
+    "t": 551.03
    },
    {
     "speaker": "Anna",
     "text": "Ja, das gibt es.",
-    "t": 553.15
+    "t": 553.25
    },
    {
     "speaker": "Anna",
     "text": "Wer nicht mehr über eine Arbeitsstelle Beiträge zahlt, kann der freiwilligen Rentenversicherung beitreten, damit die Versicherungslaufbahn weiterläuft.",
-    "t": 554.63
+    "t": 554.73
    },
    {
     "speaker": "Tom",
     "text": "Und wie erfahre ich, was mich das kosten würde?",
-    "t": 562.89
+    "t": 562.99
    },
    {
     "speaker": "Anna",
     "text": "Auf der Website der Zentralstelle gibt es einen Online-Simulator für die freiwillige Rentenversicherung.",
-    "t": 565.65
+    "t": 565.75
    },
    {
     "speaker": "Anna",
     "text": "Er zeigt Ihnen Ihre Möglichkeiten, bevor Sie sich entscheiden.",
-    "t": 571.18
+    "t": 571.28
    },
    {
     "speaker": "Tom",
     "text": "Bleiben wir bei den Online-Diensten.",
-    "t": 574.71
+    "t": 574.81
    },
    {
     "speaker": "Tom",
     "text": "Was kann ich erledigen, ohne irgendwohin zu gehen?",
-    "t": 576.82
+    "t": 576.92
    },
    {
     "speaker": "Anna",
     "text": "Eine ganze Menge: Auf der Website ccss Punkt l-u finden Sie Erklärungen für Arbeitnehmer, Arbeitgeber, Selbstständige und Landwirte, und alle Formulare.",
-    "t": 579.64
+    "t": 579.74
    },
    {
     "speaker": "Tom",
     "text": "Und was bietet MyGuichet zusätzlich?",
-    "t": 592.64
+    "t": 592.74
    },
    {
     "speaker": "Anna",
     "text": "In Ihrem privaten Bereich auf MyGuichet Punkt l-u können Sie in wenigen Augenblicken eine Versicherungsbescheinigung erstellen und herunterladen.",
-    "t": 595.04
+    "t": 595.14
    },
    {
     "speaker": "Anna",
     "text": "Darin stehen die Beschäftigungen, die für Sie registriert sind.",
-    "t": 604.23
+    "t": 604.33
    },
    {
     "speaker": "Tom",
     "text": "Wie kann eine andere Person sicher sein, dass so eine Bescheinigung echt ist?",
-    "t": 607.95
+    "t": 608.05
    },
    {
     "speaker": "Anna",
     "text": "Die Bescheinigung trägt einen QR-Code.",
-    "t": 612.27
+    "t": 612.37
    },
    {
     "speaker": "Anna",
     "text": "Mit der kostenlosen App GouvCheck kann jeder den Code scannen und prüfen, ob das Dokument echt ist.",
-    "t": 614.96
+    "t": 615.06
    },
    {
     "speaker": "Tom",
     "text": "Kann ich meine Dokumente von der Zentralstelle auch online bekommen?",
-    "t": 620.69
+    "t": 620.79
    },
    {
     "speaker": "Anna",
     "text": "Ja, wenn Sie in MyGuichet die elektronische Zustellung für die Zentralstelle einschalten.",
-    "t": 624.37
+    "t": 624.47
    },
    {
     "speaker": "Anna",
     "text": "Dann kommen die Dokumente in Ihrem privaten Bereich an, und nicht in Ihrem Briefkasten.",
-    "t": 629.8
+    "t": 629.9
    },
    {
     "speaker": "Tom",
     "text": "Und wenn ich lieber mit einem Menschen sprechen möchte?",
-    "t": 634.75
+    "t": 634.85
    },
    {
     "speaker": "Anna",
     "text": "Sie können die Zentralstelle anrufen oder das Kontaktformular nutzen.",
-    "t": 637.52
+    "t": 637.62
    },
    {
     "speaker": "Anna",
     "text": "Die Schalter sind in Luxemburg-Stadt, aber nur mit Termin, und den Termin können Sie online buchen.",
-    "t": 641.58
+    "t": 641.68
    },
    {
     "speaker": "Tom",
     "text": "Was passiert, wenn ich umziehe?",
-    "t": 647.42
+    "t": 647.52
    },
    {
     "speaker": "Tom",
     "text": "Muss ich die Zentralstelle informieren?",
-    "t": 649.28
+    "t": 649.38
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie in Luxemburg wohnen, melden Sie Ihre neue Adresse bei Ihrer Gemeinde, und die Zentralstelle wird automatisch informiert.",
-    "t": 651.47
+    "t": 651.57
    },
    {
     "speaker": "Anna",
     "text": "Grenzgänger können ihre neue Adresse über MyGuichet Punkt l-u melden.",
-    "t": 658.5
+    "t": 658.6
    },
    {
     "speaker": "Tom",
     "text": "Ein letzter Punkt, und er ist wichtig: gefälschte Nachrichten.",
-    "t": 663.16
+    "t": 663.26
    },
    {
     "speaker": "Anna",
     "text": "Ja. Betrüger verschicken E-Mails und SMS, die so aussehen, als kämen sie von der Zentralstelle.",
-    "t": 666.89
+    "t": 666.99
    },
    {
     "speaker": "Anna",
     "text": "Oft behaupten sie, Ihre Sozialversicherungskarte sei abgelaufen.",
-    "t": 673.25
+    "t": 673.35
    },
    {
     "speaker": "Tom",
     "text": "Und was wollen sie von mir bekommen?",
-    "t": 677.44
+    "t": 677.54
    },
    {
     "speaker": "Anna",
     "text": "Ihre Bankdaten oder Ihre LuxTrust-Codes.",
-    "t": 679.54
+    "t": 679.64
    },
    {
     "speaker": "Anna",
     "text": "Die Zentralstelle fragt nie danach, um eine Karte zu erneuern, und die Karte kostet nie etwas.",
-    "t": 682.49
+    "t": 682.59
    },
    {
     "speaker": "Anna",
     "text": "Klicken Sie also nicht auf den Link, und gehen Sie selbst auf die offizielle Website.",
-    "t": 687.91
+    "t": 688.01
    },
    {
     "speaker": "Tom",
     "text": "Fassen wir zusammen.",
-    "t": 692.45
+    "t": 692.55
    },
    {
     "speaker": "Tom",
     "text": "Was sollte man sich merken?",
-    "t": 693.75
+    "t": 693.85
    },
    {
     "speaker": "Anna",
     "text": "Erstens: Wenn Sie in Luxemburg arbeiten, sind Sie für Gesundheit, Unfälle, Pflege und Rente versichert.",
-    "t": 695.35
+    "t": 695.45
    },
    {
     "speaker": "Anna",
     "text": "Ihr Arbeitgeber meldet Sie bei der Zentralstelle der Sozialversicherungen an, der CCSS.",
-    "t": 702.24
+    "t": 702.34
    },
    {
     "speaker": "Tom",
     "text": "Zweitens: Sie bekommen eine dreizehnstellige Nummer und eine Sozialversicherungskarte.",
-    "t": 709.41
+    "t": 709.51
    },
    {
     "speaker": "Tom",
     "text": "Tragen Sie die Karte bei sich, auch wenn Sie in Europa reisen.",
-    "t": 714.85
+    "t": 714.95
    },
    {
     "speaker": "Anna",
     "text": "Drittens: Prüfen Sie jedes Jahr Ihren Rentenauszug, und melden Sie Fehler schnell.",
-    "t": 718.31
+    "t": 718.41
    },
    {
     "speaker": "Tom",
     "text": "Viertens: Wenn Sie zu Hause jemanden beschäftigen, melden Sie diese Person an.",
-    "t": 723.44
+    "t": 723.54
    },
    {
     "speaker": "Tom",
     "text": "Das vereinfachte Verfahren macht es leicht.",
-    "t": 728.34
+    "t": 728.44
    },
    {
     "speaker": "Anna",
     "text": "Und fünftens: Wenn eine Arbeitsstelle endet, hört Ihr Krankenversicherungsschutz nicht am selben Tag auf, aber handeln Sie innerhalb von drei Monaten, wenn Sie eine freiwillige Versicherung brauchen.",
-    "t": 731
+    "t": 731.1
    },
    {
     "speaker": "Tom",
     "text": "Alle Informationen finden Sie auf ccss Punkt l-u.",
-    "t": 743.1
+    "t": 743.2
    },
    {
     "speaker": "Anna",
     "text": "Die Sozialversicherung funktioniert, weil alle mitmachen.",
-    "t": 747.64
+    "t": 747.74
    },
    {
     "speaker": "Anna",
     "text": "Das war unsere Folge über die Sozialversicherung und die Zentralstelle der Sozialversicherungen.",
-    "t": 750.75
+    "t": 750.85
    },
    {
     "speaker": "Anna",
     "text": "Dieser Podcast ist Teil des Biergerpakt, ein Programm, das das Zusammenleben in Luxemburg fördert: das Land entdecken, und neue Menschen kennenlernen.",
-    "t": 756.36
+    "t": 756.46
    },
    {
     "speaker": "Anna",
     "text": "Wenn Sie weitere Aktivitäten des Biergerpakt entdecken möchten, wie geführte Besichtigungen, Online-Informationsveranstaltungen, eine mobile App zum Sprachenlernen, kreative Workshops oder Schulungen, gehen Sie einfach auf biergerpakt.lu — dort finden Sie ausführliche Informationen.",
-    "t": 765.39
+    "t": 765.49
    },
    {
     "speaker": "Anna",
     "text": "Es steht allen Einwohnern offen, Luxemburgern und Nicht-Luxemburgern, sowie den Grenzgängern.",
-    "t": 783.72
+    "t": 783.82
    },
    {
     "speaker": "Anna",
     "text": "Und die Aktivitäten sind kostenlos.",
-    "t": 789.42
+    "t": 789.52
    },
    {
     "speaker": "Anna",
     "text": "Sie müssen nur dem Biergerpakt kostenlos beitreten, auf biergerpakt.lu.",
-    "t": 791.67
+    "t": 791.77
    },
    {
     "speaker": "Tom",
     "text": "Danke an alle.",
-    "t": 796.56
+    "t": 796.66
    },
    {
     "speaker": "Tom",
     "text": "Passen Sie auf sich auf, und bis zum nächsten Mal!",
-    "t": 797.66
+    "t": 797.76
    },
    {
     "speaker": "Anna",
     "text": "Vielen Dank fürs Zuhören.",
-    "t": 800.45
+    "t": 800.55
    }
   ],
   "segments_lb": [
